@@ -94,13 +94,23 @@ def find_and_parse_index_md(start_path):
                 chunks = parse(full_path, directory_name)
                 all_chunks.extend(chunks)
 
-    # Write the JSON lines to the filesystem
-    with open('bundestag_gesetze.jsonl', 'w', encoding='utf-8') as json_file:
-        for chunk in all_chunks:
-            # Write the prefix line
-            json_file.write(json.dumps({"index": {}}) + '\n')
-            # Write the chunk as a JSON line
-            json_file.write(json.dumps(chunk) + '\n')
+    # Calculate the number of chunks per file
+    total_chunks = len(all_chunks)
+    chunks_per_file = total_chunks // 3
 
+    # Write the JSON lines to three separate files
+    for i in range(3):
+        start_index = i * chunks_per_file
+        end_index = (i + 1) * chunks_per_file if i < 2 else total_chunks
+        file_chunks = all_chunks[start_index:end_index]
+
+        file_name = f'bundestag_gesetze_part{i + 1}.jsonl'
+        with open(file_name, 'w', encoding='utf-8') as json_file:
+            for chunk in file_chunks:
+                # Write the prefix line
+                json_file.write(json.dumps({"index": {}}) + '\n')
+                # Write the chunk as a JSON line
+                json_file.write(json.dumps(chunk) + '\n')
+            
 # Run the function with the starting directory
 find_and_parse_index_md('.')
