@@ -16,14 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 2286
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2018 I 192
-
-Änderung durch
-:   Art. 1 V v. 16.11.2020 I 2431 (Nr. 53) mWv 24.11.2020 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 11.1.2021 I 47 (Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+:   Art. 3 V v. 11.1.2021 I 47
 
 
 ## Eingangsformel
@@ -807,8 +800,6 @@ nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
 
 
-
-(2a) (weggefallen)
 
 (3) Die Meldungen der Unternehmen des Groß- und Außenhandels mit
 Zucker sind ab einem jährlichen Bezug von 1 000 und mehr Tonnen

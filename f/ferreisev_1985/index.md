@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 774
 
 Zuletzt geändert durch
-:   Art. 16 G v. 12.7.2021 I 3091
+:   Art. 1 V v. 28.6.2023 I Nr. 173
 
 
 ## Eingangsformel
@@ -74,13 +74,22 @@ beiden Fahrtrichtungen:
 
 *    *   4
 
-    *   A 5
+    *   A 4
 
-    *   von Darmstädter Kreuz bis Anschlussstelle Karlsruhe-Süd und von der
-        Anschlussstelle Offenburg bis zum Autobahndreieck Neuenburg
+    *   vom Kirchheimer Dreieck bis zur Landesgrenze Thüringen bei
+        Herleshausen
 
 
 *    *   5
+
+    *   A 5
+
+    *   von Hattenbacher Dreieck bis Bad Homburger Kreuz, von Darmstädter
+        Kreuz bis Anschlussstelle Karlsruhe-Süd und von der Anschlussstelle
+        Offenburg bis Autobahndreieck Neuenburg
+
+
+*    *   6
 
     *   A 6
 
@@ -88,18 +97,18 @@ beiden Fahrtrichtungen:
         Nürnberg-Süd
 
 
-*    *   6
+*    *   7
 
     *   A 7
 
-    *   von Anschlussstelle Schleswig/Jagel bis Anschlussstelle Hamburg-
-        Schnelsen-Nord, von Anschlussstelle Soltau-Süd bis Anschlussstelle
-        Göttingen-Nord, von Autobahndreieck Schweinfurt/Werneck über
-        Autobahnkreuz Biebelried, Autobahnkreuz Ulm/Elchingen und
-        Autobahndreieck Allgäu bis zum Autobahnende Bundesgrenze Füssen
+    *   von Anschlussstelle Schleswig/Jagel bis Autobahndreieck Bordesholm,
+        von Anschlussstelle Soltau-Süd bis Anschlussstelle Göttingen-Nord, von
+        Autobahndreieck Schweinfurt/Werneck über Autobahnkreuz Biebelried,
+        Autobahnkreuz Ulm/Elchingen und Autobahndreieck Allgäu bis zum
+        Autobahnende Bundesgrenze Füssen
 
 
-*    *   7
+*    *   8
 
     *   A 8
 
@@ -108,7 +117,7 @@ beiden Fahrtrichtungen:
         Reichenhall
 
 
-*    *   8
+*    *   9
 
     *   A 9/E 51
 
@@ -116,17 +125,15 @@ beiden Fahrtrichtungen:
         Anschlussstelle München-Schwabing
 
 
-*    *   9
+*    *   10
 
     *   A 10
 
-    *   Berliner Ring, ausgenommen der Bereich zwischen der Anschlussstelle
-        Berlin-Spandau über Autobahndreieck Havelland bis Autobahndreieck
-        Oranienburg und der Bereich zwischen dem Autobahndreieck Spreeau bis
-        Autobahndreieck Werder
+    *   Berliner Ring, von Autobahndreieck Werder über Anschlussstelle
+        Potsdam-Nord bis Anschlussstelle Berlin-Spandau
 
 
-*    *   10
+*    *   11
 
     *   A 45
 
@@ -134,7 +141,7 @@ beiden Fahrtrichtungen:
         Kreuz bis Seligenstädter Dreieck
 
 
-*    *   11
+*    *   12
 
     *   A 61
 
@@ -142,7 +149,7 @@ beiden Fahrtrichtungen:
         Autobahndreieck Hockenheim
 
 
-*    *   12
+*    *   13
 
     *   A 81
 
@@ -150,7 +157,7 @@ beiden Fahrtrichtungen:
         Gärtringen
 
 
-*    *   13
+*    *   14
 
     *   A 92
 
@@ -159,14 +166,14 @@ beiden Fahrtrichtungen:
         Erding
 
 
-*    *   14
+*    *   15
 
     *   A 93
 
     *   von Autobahndreieck Inntal bis Anschlussstelle Reischenhart
 
 
-*    *   15
+*    *   16
 
     *   A 99
 
@@ -174,13 +181,6 @@ beiden Fahrtrichtungen:
         Autobahndreieck München-Allach, Autobahndreieck München-Feldmoching,
         Autobahnkreuz München-Nord, Autobahnkreuz München-Ost, Autobahnkreuz
         München-Süd sowie Autobahndreieck München/Eschenried
-
-
-*    *   16
-
-    *   A 215
-
-    *   von Autobahndreieck Bordesholm bis Anschlussstelle Blumenthal
 
 
 *    *   17
@@ -228,7 +228,7 @@ außerhalb geschlossener Ortschaften in beiden Fahrtrichtungen:
 
     *   B 96/E 251
 
-    *   Neubrandenburger Ring bis Berlin.
+    *   ab Landesgrenze Berlin bis zur B 104 in Neubrandenburg.
 
 
 
@@ -364,8 +364,8 @@ bestimmten Stellen können von allen Vorschriften dieser Verordnung
 Ausnahmen für bestimmte Einzelfälle oder allgemein für bestimmte
 Antragsteller genehmigen. Erstrecken sich die Auswirkungen der
 Ausnahme über ein Land hinaus und ist eine einheitliche Entscheidung
-notwendig, so ist das Bundesministerium für Verkehr und digitale
-Infrastruktur zuständig.
+notwendig, so ist das Bundesministerium für Digitales und Verkehr
+zuständig.
 
 (4) Die Ausnahmegenehmigung ist schriftlich zu erteilen. Der Bescheid
 über die Erteilung der Ausnahmegenehmigung ist mitzuführen und auf

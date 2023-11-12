@@ -17,14 +17,14 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1259
 
 Zuletzt geändert durch
-:   Nr. 5 Beschluss d. Bundestages v. 24.6.2021, Bek. v. 24.6.2021 I 2868
+:   Nr. 15 Beschluss d. Bundestages v. 15.12.2022 gem. Bek. v. 15.12.2022 I 2598
 
 
 ## I. Fragerecht
 
 
 1.  In jeder Sitzungswoche wird eine Fragestunde mit einer Dauer von
-    höchstens 90 Minuten durchgeführt.
+    höchstens 45 Minuten durchgeführt.
 
     Jedes Mitglied des Bundestages ist berechtigt, für die Fragestunden
     einer Sitzungswoche bis zu zwei Fragen zur mündlichen Beantwortung an
@@ -44,10 +44,6 @@ Zuletzt geändert durch
 
 2.  Zulässig sind Fragen aus den Bereichen, für die die Bundesregierung
     unmittelbar oder mittelbar verantwortlich ist.
-
-    Fragen, die einen Tagesordnungspunkt der laufenden Sitzungswoche
-    betreffen, werden schriftlich beantwortet. Das gilt nicht, wenn für
-    den Tagesordnungspunkt auf Begründung und Aussprache verzichtet wird.
 
     Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur
     schriftlichen Beantwortung der Bundesregierung übermittelt. Nummern 14
@@ -95,9 +91,10 @@ Zuletzt geändert durch
 9.  Der Präsident ruft die Nummer der Frage und den Namen des
     Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der
     Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird
-    seine Frage nur dann schriftlich beantwortet, wenn er bis zum Aufruf
-    des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung
-    gebeten hat.
+    seine Frage nur dann schriftlich beantwortet, wenn er aufgrund der
+    Teilnahme an der Sitzung eines Ausschusses diese nicht mündlich
+    stellen kann und er bis zum Aufruf des Geschäftsbereichs beim
+    Präsidenten um schriftliche Beantwortung gebeten hat.
 
 
 10. Ist der zuständige Bundesminister oder sein Vertreter nicht anwesend,

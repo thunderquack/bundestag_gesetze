@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2349
 
+Geändert durch
+:   Art. 1 V v. 4.7.2023 I Nr. 179
+
 Stand: Ersetzt V 2030-25-3 v. 25.4.1979 I 502 (HeilvfV)
 
 ## Abschnitt 1 - Allgemeines
@@ -58,9 +61,9 @@ Zahnärztin oder einem Zahnarzt, einer Psychotherapeutin oder einem
 Psychotherapeuten, einer Heilpraktikerin oder einem Heilpraktiker
 durchgeführten oder verordneten Maßnahmen, die erforderlich sind, um
 die Folgen des Dienstunfalls zu beseitigen oder zu lindern. § 6 Absatz
-2 der Bundesbeihilfeverordnung gilt entsprechend.
+4 der Bundesbeihilfeverordnung gilt entsprechend.
 
-(2) Für die wirtschaftliche Angemessenheit gilt § 6 Absatz 3 und 4 der
+(2) Für die wirtschaftliche Angemessenheit gilt § 6 Absatz 5 und 6 der
 Bundesbeihilfeverordnung entsprechend, soweit nachstehend nichts
 anderes bestimmt ist.
 
@@ -145,7 +148,9 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz
 
 
 2.  die im Rahmen einer Maßnahme nach Nummer 1 verbrauchten und die
-    ärztlich oder zahnärztlich verordneten Arznei- und Verbandmittel,
+    ärztlich oder zahnärztlich verordneten Arznei- und Verbandmittel sowie
+    Medizinprodukte, soweit letztere nach § 22 Absatz 1 Nummer 4 der
+    Bundesbeihilfeverordnung beihilfefähig sind,
 
 
 3.  die im Rahmen einer Maßnahme nach Nummer 1 ärztlich oder zahnärztlich
@@ -198,13 +203,13 @@ Dienstunfall vorliegt oder ob Dienstunfallfolgen eingetreten sind.
 sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung
 entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz
 im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11
-Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 2 Satz 1, § 26a Absatz 5,
-§ 29 Absatz 1 und 3, § 31 Absatz 5, § 32 Absatz 3, § 36 Absatz 3 sowie
+Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 2 Satz 1, § 26a Absatz 6,
+§ 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie
 § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
 
 (5) Zur Vermeidung unbilliger Härten kann die
 Dienstunfallfürsorgestelle mit vorheriger Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat und des
+Bundesministeriums des Innern und für Heimat und des
 Bundesministeriums der Finanzen von dieser Verordnung abweichen.
 
 
@@ -390,14 +395,25 @@ nach Absatz 1 Nummer 1 bis 4 erstattungsfähigen Aufwendungen
 
 ### § 10 Pflege
 
-(1) Die Kosten für eine notwendige Pflege werden erstattet, wenn die
-verletzte Person infolge des Dienstunfalls mindestens dem Pflegegrad 2
-im Sinne des § 15 Absatz 3 Satz 4 Nummer 2 des Elften Buches
-Sozialgesetzbuch zugeordnet worden ist. Die Dienstunfallfürsorgestelle
-hat bei einer geeigneten Stelle ein Gutachten über die
-dienstunfallbedingte Pflegebedürftigkeit und über die Zuordnung zu
-einem Pflegegrad nach § 15 Absatz 1 bis 5 des Elften Buches
-Sozialgesetzbuch einzuholen.
+(1) Wird die verletzte Person aufgrund des Dienstunfalls einem
+Pflegegrad (§ 15 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch)
+zugeordnet, so
+
+1.  erhält sie bei häuslicher Pflege eine monatliche Leistung in Höhe des
+    maximalen Entlastungsbetrages nach § 45b Absatz 1 Satz 1 des Elften
+    Buches Sozialgesetzbuch und
+
+
+2.  werden ihr ab dem Pflegegrad 2 im Sinne des § 15 Absatz 3 Satz 4
+    Nummer 2 des Elften Buches Sozialgesetzbuch die Kosten für eine
+    notwendige Pflege erstattet.
+
+
+
+Die Dienstunfallfürsorgestelle hat bei einer geeigneten Stelle ein
+Gutachten über die dienstunfallbedingte Pflegebedürftigkeit und über
+die Zuordnung zu einem Pflegegrad nach § 15 Absatz 1 bis 5 des Elften
+Buches Sozialgesetzbuch einzuholen.
 
 (2) Bei der häuslichen Pflege durch geeignete Pflegekräfte im Sinne
 des § 36 Absatz 4 Satz 2 und 3 des Elften Buches Sozialgesetzbuch
@@ -407,17 +423,27 @@ höhere Aufwendungen, die erforderlich sind, um die notwendige
 häusliche Pflege zu erhalten, können zur Vermeidung unbilliger Härten
 auf Antrag erstattet werden.
 
-(3) Wird die häusliche Pflege ausschließlich durch andere als die in
-Absatz 2 Satz 1 genannten Personen erbracht, werden Pflegekosten bis
-zur Hälfte der in § 36 Absatz 3 des Elften Buches Sozialgesetzbuch
-genannten Beträge erstattet. Haben die in Satz 1 genannten Personen
-ihren Beruf aufgegeben, um die Pflege ausüben zu können, so wird das
-ausgefallene Arbeitseinkommen bis zur Höhe der in § 36 Absatz 3 des
-Elften Buches Sozialgesetzbuch genannten Beträge zuzüglich des
-Arbeitgeberanteils zur Sozialversicherung erstattet. Wird die
-häusliche Pflege sowohl durch geeignete Pflegekräfte (Absatz 2 Satz 1)
-als auch durch die in Satz 1 genannten Personen erbracht, werden die
-Pflegekosten anteilig erstattet.
+(3) Wird die häusliche Pflege ausschließlich durch andere als durch
+die in Absatz 2 Satz 1 genannten Personen erbracht, so
+
+1.  sind Beratungsbesuche nach § 37 Absatz 3 Satz 1 des Elften Buches
+    Sozialgesetzbuch in der eigenen Häuslichkeit abzurufen und gegenüber
+    der Dienstunfallfürsorgestelle nachzuweisen und
+
+
+2.  werden Pflegekosten bis zur Hälfte der in § 36 Absatz 3 des Elften
+    Buches Sozialgesetzbuch genannten Beträge erstattet.
+
+
+
+Haben die in Satz 1 genannten Personen ihren Beruf aufgegeben, um die
+Pflege ausüben zu können, so wird das ausgefallene Arbeitseinkommen
+bis zur Höhe der in § 36 Absatz 3 des Elften Buches Sozialgesetzbuch
+genannten Beträge zuzüglich des Arbeitgeberanteils zur
+Sozialversicherung erstattet. Wird die häusliche Pflege sowohl durch
+geeignete Pflegekräfte (Absatz 2 Satz 1) als auch durch die in Satz 1
+genannten Personen erbracht, werden die Pflegekosten anteilig
+erstattet.
 
 (4) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus
 anderen Gründen an der häuslichen Pflege gehindert, so sind die
@@ -442,16 +468,24 @@ Anschluss an den in Satz 2 genannten Zeitraum werden Betten- und
 Platzfreihaltegebühren für die restliche Dauer der stationären
 Behandlung erstattet.
 
-(7) Die erstattungsfähigen Beträge können monatlich im Voraus gezahlt
-werden. Die pflegebedürftige Person ist verpflichtet, der
+(7) Die erstattungsfähigen Beträge sowie die Leistung nach Absatz 1
+Satz 1 Nummer 1 können monatlich im Voraus gezahlt werden. Die
+pflegebedürftige Person ist verpflichtet, der
 Dienstunfallfürsorgestelle jede wesentliche Änderung in den
 Verhältnissen, die für die Erstattung der Pflegekosten maßgebend sind,
 unverzüglich anzuzeigen. Erfolgt die Pflege nicht für den gesamten
 Kalendermonat, ist der Erstattungsbetrag durch die
 Dienstunfallfürsorgestelle entsprechend zu mindern.
 
-(8) Der Bund beteiligt sich an den personenbezogenen Kosten der Träger
-für eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch.
+(8) An den personenbezogenen Aufwendungen der Träger für eine
+Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch beteiligt
+sich der Bund. Die Aufwendungen für Beratungsbesuche nach Absatz 3
+Satz 1 Nummer 1 werden im Umfang der Festlegungen nach § 37 Absatz 3c
+Satz 2 bis 4 des Elften Buches Sozialgesetzbuch durch die
+Dienstunfallfürsorgestelle erstattet. Weist die pflegebedürftige
+Person die Beratungsbesuche nach Absatz 3 Satz 1 Nummer 1 nicht in
+geeigneter Weise nach, kann die Dienstunfallfürsorgestelle die
+Erstattung der Pflegekosten kürzen.
 
 
 ### § 11 Haushaltshilfe
@@ -580,9 +614,9 @@ erstattet.
 
 
 
-3.  Aufwendungen einer Begleitperson, wenn die Begleitung der verletzten
-    Person nach Stellungnahme durch die behandelnde Ärztin oder den
-    behandelnden Arzt erforderlich war, und
+3.  Aufwendungen für Fahrten einer Begleitperson, wenn die Begleitung der
+    verletzten Person nach Stellungnahme durch die behandelnde Ärztin oder
+    den behandelnden Arzt erforderlich war, und
 
 
 4.  bei einer stationären Krankenhausbehandlung Aufwendungen von
@@ -632,22 +666,11 @@ Kalenderjahr auf Antrag erstattet.
 
 ### § 14 Kraftfahrzeughilfe
 
-Kraftfahrzeughilfe wird gewährt, wenn
-
-1.  der verletzten Person infolge des Dienstunfalls nicht nur
-    vorübergehend nicht zuzumuten ist, dass sie die zur Dienstausübung
-    erforderlichen Wege zu Fuß oder mit öffentlichen Verkehrsmitteln
-    zurücklegt, und
-
-
-2.  die Dienstunfallfürsorgestelle vor der Entstehung der Aufwendungen die
-    Erstattung zugesagt hat.
-
-
-
-§ 40 Absatz 2, 3 und 5 des Siebten Buches Sozialgesetzbuch in
-Verbindung mit der Kraftfahrzeughilfe-Verordnung gilt entsprechend.
-Die §§ 6 und 8 der Kraftfahrzeughilfe-Verordnung gelten nicht.
+Kraftfahrzeughilfe wird gewährt, wenn die Dienstunfallfürsorgestelle
+vor der Entstehung der Aufwendungen die Erstattung zugesagt hat. § 40
+Absatz 2, 3 und 5 des Siebten Buches Sozialgesetzbuch in Verbindung
+mit der Kraftfahrzeughilfe-Verordnung gilt entsprechend. Die §§ 6 und
+8 der Kraftfahrzeughilfe-Verordnung gelten nicht.
 
 
 ### § 15 Dienstunfallbedingte Wohnumfeldanpassung
@@ -714,6 +737,24 @@ können die Aufwendungen zunächst unter Vorbehalt erstattet werden.
 Dies gilt auch während anhängiger Verfahren auf Anerkennung eines
 Dienstunfalls. Wird nachträglich festgestellt, dass kein Dienstunfall
 vorliegt, ist der Erstattungsbetrag zurückzuzahlen.
+
+(5) Abweichend von Absatz 4 Satz 3 werden die Aufwendungen von der
+Dienstunfallfürsorgestelle erstattet, die einer verletzten
+Polizeivollzugsbeamtin oder einem verletzten Polizeivollzugsbeamten in
+der Bundespolizei und beim Deutschen Bundestag bis zur Bekanntgabe der
+Entscheidung, mit der festgestellt wurde, dass kein Dienstunfall
+vorliegt, entstanden sind. Satz 1 gilt nur, wenn
+
+1.  sich die in Satz 1 genannte Entscheidung nicht aus Gründen verzögert,
+    die die verletzte Person zu vertreten hat, und
+
+
+2.  die verletzte Person die Maßnahmen, die den Aufwendungen zugrunde
+    liegen, im guten Glauben an das Vorliegen eines Dienstunfalls in
+    Anspruch genommen hat.
+
+
+
 
 
 ## Abschnitt 4 - Übergangsvorschriften

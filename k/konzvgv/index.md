@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 624, 683
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.7.2018 I 1117
+:   Art. 4 V v. 17.8.2023 I Nr. 222
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/23/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
@@ -269,7 +269,7 @@ mindestens jedoch für drei Jahre ab dem Tag des Zuschlags.
 (4) § 4 bleibt unberührt.
 
 
-### Unterabschnitt 2 - Kommunikation
+### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
 
 
 #### § 7 Grundsätze der Kommunikation
@@ -333,6 +333,18 @@ der Informationstechnik gemäß § 3 Absatz 1 des Vertrags über die
 Errichtung des IT-Planungsrats und über die Grundlagen der
 Zusammenarbeit beim Einsatz der Informationstechnologie in den
 Verwaltungen von Bund und Ländern vom 1. April 2010 zu verwenden.
+
+
+#### § 8a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+
+Für die Erstellung und Übermittlung von Konzessionsbekanntmachungen,
+Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu
+Änderungen (Bekanntmachungen) gelten die Anforderung des § 10a Absatz
+1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der
+Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU)
+2019/1780 und des Datenaustauschstandards eForms einschließlich der
+Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über
+den Datenservice Öffentlicher Einkauf entsprechend.
 
 
 #### § 9 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
@@ -569,21 +581,24 @@ Auskünfte rechtzeitig angefordert haben.
 ### Unterabschnitt 3 - Bekanntmachungen
 
 
-#### § 19 Konzessionsbekanntmachung
+#### § 19 Konzessionsbekanntmachung; Ex-ante-Transparenz
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zu
 vergeben, in einer Konzessionsbekanntmachung mit.
 
-(2) Die Konzessionsbekanntmachung wird nach dem Muster gemäß Anhang
-XXI der Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11.
-November 2015 zur Einführung von Standardformularen für die
-Veröffentlichung von Vergabebekanntmachungen für öffentliche Aufträge
-und zur Aufhebung der Durchführungsverordnung (EU) Nr. 842/2011 in der
-jeweils geltenden Fassung erstellt (ABl. L 296 vom 12.11.2015, S. 1).
+(2) Die Konzessionsbekanntmachung wird nach den Vorgaben der Spalte 19
+der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780
+in Verbindung mit § 8a in der jeweils geltenden Fassung erstellt.
 
 (3) Der Konzessionsgeber benennt in der Konzessionsbekanntmachung die
 Vergabekammer, an die sich die Unternehmen zur Nachprüfung geltend
 gemachter Vergabeverstöße wenden können.
+
+(4) Die freiwillige Ex-ante-Transparenzbekanntmachung im Sinne des §
+135 Absatz 3 Satz 1 Nummer 2 und Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen erfolgt nach den Vorgaben der Spalte 28 in
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 8a.
 
 
 #### § 20 Ausnahmen von der Konzessionsbekanntmachung
@@ -654,13 +669,16 @@ Anforderung ein Verfahrensbericht vorgelegt wird. Ungeeignet sind
 (1) Der Konzessionsgeber übermittelt spätestens 48 Tage nach der
 Vergabe einer Konzession eine Vergabebekanntmachung mit dem Ergebnis
 des Vergabeverfahrens an das Amt für Veröffentlichungen der
-Europäischen Union. Die Vergabebekanntmachung wird nach dem Muster
-gemäß Anhang XXII der Durchführungsverordnung (EU) 2015/1986 erstellt.
+Europäischen Union über den Datenservice Öffentlicher Einkauf. Die
+Vergabebekanntmachung wird nach den Vorgaben der Spalte 32 der Tabelle
+2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung
+mit § 8a erstellt.
 
 (2) Bekanntmachungen über Änderungen einer Konzession gemäß § 154
 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen
-Wettbewerbsbeschränkungen werden nach dem Muster gemäß Anhang XVII der
-Durchführungsverordnung (EU) 2015/1986 erstellt.
+Wettbewerbsbeschränkungen werden nach den Vorgaben der Spalte 40 in
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 8a erstellt.
 
 
 #### § 22 Konzessionen, die soziale und andere besondere Dienstleistungen betreffen
@@ -676,9 +694,10 @@ zusammenfassen. In diesem Fall ist die Veröffentlichung der
 zusammengefassten Bekanntmachungen innerhalb von 48 Tagen nach dem
 Ende des Quartals zu veranlassen.
 
-(3) Für Bekanntmachungen nach den Absätzen 1 und 2 ist das Muster
-gemäß Anhang XX der Durchführungsverordnung (EU) 2015/1986 zu
-verwenden.
+(3) Die Bekanntmachung der Vorinformation nach Absatz 1 erfolgt nach
+den Vorgaben der Spalte 14 und die Vergabebekanntmachung nach Absatz 2
+nach den Vorgaben der Spalte 35 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 jeweils in Verbindung mit § 8a.
 
 (4) Auf Bekanntmachungen über Änderungen einer Konzession gemäß § 154
 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen
@@ -687,10 +706,9 @@ Wettbewerbsbeschränkungen ist § 21 Absatz 2 anzuwenden.
 
 #### § 23 Form und Modalitäten der Veröffentlichung von Bekanntmachungen
 
-(1) Konzessionsbekanntmachungen, Vorinformationen,
-Vergabebekanntmachungen und Bekanntmachungen zu Änderungen einer
-Konzession (Bekanntmachungen) sind dem Amt für Veröffentlichungen der
-Europäischen Union mit elektronischen Mitteln zu übermitteln.
+(1) Der Konzessionsgeber muss den Tag der Absendung der
+Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen
+Union nachweisen können.
 
 (2) Als Nachweis der Veröffentlichung dient die Bestätigung des
 Eingangs der Bekanntmachung und der Veröffentlichung der übermittelten
@@ -1034,4 +1052,19 @@ Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
 Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 (ABl. L 124 vom 8.6.1971, S. 1).
+
+
+### § 37 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+
+Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung
+ergebenden Tages sind
+
+1.  § 8a nicht anzuwenden und
+
+
+2.  die §§ 19, 21, 22 und 23 in ihrer am 23. August 2023 geltenden Fassung
+    weiter anzuwenden.
+
+
+
 

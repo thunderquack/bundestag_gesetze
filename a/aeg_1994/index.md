@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2396 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.12.2020 I 2694
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1730 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 9.6.2021 I 1737 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 10.9.2021 I 4147 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 26.7.2023 I Nr. 205
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
@@ -49,16 +40,16 @@ bestimmt ist.
 
 (3) Die Vorschriften dieses Gesetzes sind, vorbehaltlich des § 26 Abs.
 1 Satz 1 Nr. 1a in Verbindung mit Satz 2, nicht anzuwenden, soweit in
-der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des
-Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste
-im Eisenbahnverkehr (ABl. EU Nr. L 315 S. 14) inhaltsgleiche oder
-entgegenstehende Regelungen vorgesehen sind.
+der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates
+vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im
+Eisenbahnverkehr (ABl. L 172 vom 17.5.2021, S. 1) in der jeweils
+geltenden Fassung inhaltsgleiche oder entgegenstehende Regelungen
+vorgesehen sind.
 
-(4) Die Verordnung (EG) Nr. 1371/2007 ist nach Maßgabe ihres Artikels
-2 Abs. 5 nicht auf solche Verkehrsdienste des
-Schienenpersonennahverkehrs anzuwenden, die hauptsächlich aus Gründen
-historischen Interesses oder zu touristischen Zwecken betrieben
-werden.
+(4) Die Verordnung (EU) 2021/782 ist nach Maßgabe ihres Artikels 2
+Absatz 2 nicht auf solche Verkehrsdienste des Schienenpersonenverkehrs
+anzuwenden, die ausschließlich aus Gründen historischen Interesses
+oder zu touristischen Zwecken betrieben werden.
 
 (5) Mit dem Ziel bester Verkehrsbedienung haben Bundesregierung und
 Landesregierungen darauf hinzuwirken, daß die Wettbewerbsbedingungen
@@ -232,8 +223,7 @@ Fassung.
 
 Die für Eisenbahnverkehr zuständige oberste Landesbehörde stellt auf
 Antrag, soweit es sich nicht um Schienenbahnen des Bundes handelt, im
-Benehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur fest,
+Benehmen mit dem Bundesministerium für Digitales und Verkehr fest,
 
 1.  ob und inwieweit eine Schienenbahn eine Eisenbahn im Sinne dieses
     Gesetzes ist,
@@ -445,8 +435,8 @@ seines Unternehmens machen.
 (8) Eisenbahnverkehrsunternehmen, die Verkehrsdienste zur Beförderung
 von Personen betreiben, haben für Großstörungen der Dienste
 Notfallpläne für die Erbringung von Hilfeleistungen für Fahrgäste im
-Sinne von Artikel 18 der Verordnung (EG) Nr. 1371/2007 aufzustellen
-und, soweit erforderlich, mit anderen Eisenbahnverkehrsunternehmen
+Sinne von Artikel 20 der Verordnung (EU) 2021/782 aufzustellen und,
+soweit erforderlich, mit anderen Eisenbahnverkehrsunternehmen
 abzustimmen. Satz 1 gilt nicht für Verkehrsdienste des
 Schienenpersonennahverkehrs und Verkehrsdienste, die hauptsächlich aus
 Gründen historischen Interesses oder zu touristischen Zwecken
@@ -566,8 +556,8 @@ als deren Verwaltungshelfer tätig.
 
 
 2.  des Rechts der Europäischen Gemeinschaften oder der Europäischen
-    Union, soweit es Gegenstände dieses Gesetzes oder die Verordnung (EG)
-    Nr. 1371/2007 betrifft,
+    Union, soweit es Gegenstände dieses Gesetzes oder die Verordnung (EU)
+    2021/782 betrifft,
 
 
 3.  von zwischenstaatlichen Vereinbarungen, soweit sie Gegenstände dieses
@@ -832,9 +822,8 @@ und für Rechnung des Landes aus. Die Landesregierung kann anderen
 Befugnis zur Erteilung von Genehmigungen ganz oder teilweise durch
 Rechtsverordnung übertragen. Aufsichts- und Genehmigungsbehörde im
 Sinne dieses Gesetzes ist auch die Stelle, der die Landesregierung
-nach Satz 5 oder das Bundesministerium für Verkehr und digitale
-Infrastruktur nach dem Bundeseisenbahnverkehrsverwaltungsgesetz
-Aufgaben übertragen hat.
+nach Satz 5 oder das Bundesministerium für Digitales und Verkehr nach
+dem Bundeseisenbahnverkehrsverwaltungsgesetz Aufgaben übertragen hat.
 
 (3) Die Landesregierung bestimmt die Behörde, die zuständig ist für
 Eisenbahnen des Bundes sowie für nichtbundeseigene Eisenbahnen
@@ -873,25 +862,21 @@ Eisenbahninfrastruktur liegt. Die zuständige Genehmigungsbehörde
 trifft ihre Entscheidung nach Anhörung der Genehmigungsbehörden der
 vom Anwendungsbereich eines Tarifs berührten Länder.
 
-(4a) Abweichend von den Absätzen 1a und 1b obliegt dem Bund die
-Eisenbahnaufsicht über die Einhaltung der Vorschriften der Verordnung
-(EG) Nr. 1371/2007, der §§ 10 und 12a dieses Gesetzes sowie der
-Vorschriften einer auf Grund des § 26 Absatz 1 Satz 1 Nummer 1a
-erlassenen Rechtsverordnung. Das Eisenbahn-Bundesamt ist die
-zuständige Stelle für die Durchsetzung im Sinne des Artikels 30 der
-Verordnung (EG) Nr. 1371/2007.
+(4a) Abweichend von den Absätzen 1a und 1b obliegt dem Bund für die
+regelspurigen Eisenbahnen die Eisenbahnaufsicht über die Einhaltung
+der Verordnung (EU) 2021/782, des § 4 Absatz 8, der §§ 10, 10a, 12a
+und 12b sowie der Vorschriften einer auf Grund des § 26 Absatz 1 Satz
+1 Nummer 1a erlassenen Rechtsverordnung. Das Eisenbahn-Bundesamt ist
+die zuständige Stelle für die Durchsetzung im Sinne des Artikels 31
+der Verordnung (EU) 2021/782 für regelspurige Eisenbahnen.
 
 (5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach
 diesen Vorschriften zuständigen Behörden überwacht. Für
 Schienenfahrzeuge und Anlagen, die unmittelbar der Sicherstellung des
-Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und
-digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
-Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
-
-(6) (weggefallen)
-
-(7) (weggefallen)
+Betriebsablaufs dienen, kann das Bundesministerium für Digitales und
+Verkehr im Einvernehmen mit dem Bundesministerium für Arbeit und
+Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
 
 ## § 5a Aufgaben und Befugnisse der Eisenbahnaufsichtsbehörden
@@ -1001,12 +986,12 @@ Aufsichtsbehörden die Prüfung nach Satz 1 ermöglichen.
 
 (8) Im Rahmen seiner Zuständigkeit nach § 5 Absatz 4a obliegt dem
 Eisenbahn-Bundesamt auch die Bearbeitung von Beschwerden über einen
-mutmaßlichen Verstoß einer Eisenbahn oder eines Reiseveranstalters
-oder Fahrkartenverkäufers im Sinne des Artikels 3 Nummer 6 oder Nummer
-7 der Verordnung (EG) Nr. 1371/2007 gegen die Vorschriften dieser
-Verordnung, gegen die §§ 10 und 12a diese Gesetzes oder gegen die
-Vorschriften einer auf Grund des § 26 Absatz 1 Satz 1 Nummer 1a
-erlassenen Rechtsverordnung.
+mutmaßlichen Verstoß einer regelspurigen Eisenbahn oder eines
+Reiseveranstalters oder Fahrkartenverkäufers im Sinne des Artikels 3
+Nummer 4 oder Nummer 5 der Verordnung (EU) 2021/782 gegen die
+Vorschriften dieser Verordnung, gegen § 4 Absatz 8 oder die §§ 10,
+10a, 12a oder 12b oder gegen die Vorschriften einer auf Grund des § 26
+Absatz 1 Satz 1 Nummer 1a erlassenen Rechtsverordnung.
 
 (8a) Die Eisenbahnaufsichtsbehörde kann natürliche oder juristische
 Personen des Privatrechts beauftragen, an der Erfüllung der Aufgaben
@@ -1021,11 +1006,6 @@ Sicherheitsbescheinigungen dienen.
 (9) Die Eisenbahnaufsichtsbehörden können ihre Anordnungen nach den
 für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
 durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
-
-(10) Die Zuständigkeit für die Überwachung der Aufstellung und
-Einhaltung der Notfallpläne nach § 4 Absatz 8 liegt bei der Stelle,
-die für die Überwachung der Pflichten nach Artikel 18 der Verordnung
-(EG) Nr. 1371/2007 zuständig ist.
 
 
 ## § 5b Eisenbahn-Unfalluntersuchung
@@ -1864,9 +1844,9 @@ zurückzunehmen oder einzuschränken.
 
 
 
-## § 10 Beförderungspflicht
+## § 10 Beförderungspflicht; Mitnahme von Fahrrädern
 
-Öffentliche Eisenbahnverkehrsunternehmen, die dem Personenverkehr
+(1) Öffentliche Eisenbahnverkehrsunternehmen, die dem Personenverkehr
 dienen, sind zur Beförderung von Personen und Reisegepäck
 verpflichtet, wenn
 
@@ -1883,6 +1863,64 @@ verpflichtet, wenn
 
 
 
+
+(2) Eisenbahnverkehrsunternehmen sind verpflichtet, Pläne für die
+verstärkte und verbesserte Beförderung von Fahrrädern nach Artikel 6
+Absatz 5 der Verordnung (EU) 2021/782 aufzustellen und auf dem
+neuesten Stand zu halten.
+
+
+## § 10a Zentrale Anlaufstelle für Personen mit Behinderungen und Personen mit eingeschränkter Mobilität
+
+(1) Eisenbahnverkehrsunternehmen, die Verkehrsdienste zur Beförderung
+von Personen im Geltungsbereich dieses Gesetzes betreiben, sowie die
+Betreiber von Bahnhöfen des Personenverkehrs müssen zusammenarbeiten,
+um bis zum 1. Januar 2025 eine zentrale Anlaufstelle für Personen mit
+Behinderungen sowie für Personen mit eingeschränkter Mobilität im
+Sinne des Artikels 24 Buchstabe f der Verordnung (EU) 2021/782
+einzurichten und diese dauerhaft zu betreiben.
+
+(2) Die nach Absatz 1 Verpflichteten haben der zentralen Anlaufstelle
+unverzüglich die erforderlichen Daten und Informationen in einer von
+der zentralen Anlaufstelle bestimmten Form unentgeltlich zur Verfügung
+zu stellen. Sie haben die Daten und Informationen außerdem auf ihrer
+Webseite zu veröffentlichen.
+
+(3) Die nach Absatz 1 Verpflichteten haben in den von ihnen nach
+Artikel 21 Absatz 1 der Verordnung (EU) 2021/782 aufgestellten
+Zugangsregeln auf die Kommunikationswege und die Erreichbarkeit der
+zentralen Anlaufstelle hinzuweisen.
+
+(4) Die angemessenen Kosten für Betrieb und Nutzung der zentralen
+Anlaufstelle sind zwischen den nach Absatz 1 Verpflichteten nach einem
+von diesen festzulegenden Schlüssel aufzuteilen. Der Schlüssel hat zu
+berücksichtigen, in welchem Umfang die zentrale Anlaufstelle für die
+einzelnen Verpflichteten Leistungen erbringt.
+
+(5) Einigen sich die nach Absatz 1 Verpflichteten nicht über den
+Schlüssel für die Aufteilung der Kosten nach Absatz 4, so entscheidet
+das Eisenbahn-Bundesamt.
+
+(6) Die zentrale Anlaufstelle für Personen mit Behinderungen sowie für
+Personen mit eingeschränkter Mobilität ist befugt, die im Zusammenhang
+mit der Anmeldung von Hilfebedarf am Bahnhof und im Zug angegebenen
+personenbezogenen Daten, einschließlich Gesundheitsdaten im Sinne des
+Artikels 4 Nummer 15 der Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in der
+jeweils geltenden Fassung, zu erheben, zu speichern und zu verwenden,
+soweit dies für die Aufgabenerfüllung nach Absatz 1 erforderlich ist.
+Die zentrale Anlaufstelle hat die personenbezogenen Daten nach Satz 1
+mit Ablauf des Tages nach der Durchführung der letzten Zugfahrt, auf
+die sich die Anmeldung bezieht, automatisiert zu löschen, es sei denn,
+die den Hilfebedarf anmeldende Person hat in die weitere Speicherung
+und Verwendung ihrer Daten, einschließlich Gesundheitsdaten im Sinne
+des Artikels 4 Nummer 15 der Verordnung (EU) 2016/679, für künftige
+Anmeldungen von Hilfebedarf ausdrücklich eingewilligt. § 22 Absatz 2
+des Bundesdatenschutzgesetzes gilt entsprechend.
 
 
 ## § 11 Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen, Betriebspflicht
@@ -2079,7 +2117,31 @@ Zügen des öffentlichen Schienenpersonenverkehrs aller
 Eisenbahnverkehrsunternehmen verpflichtet, die ihnen die
 erforderlichen Daten zur Verfügung gestellt haben.
 
-(4) Die Verordnung (EG) Nr. 1371/2007 bleibt unberührt.
+(4) Die Verordnung (EU) 2021/782 bleibt unberührt.
+
+
+## § 12b Elektronische Kommunikation bei Erstattungs- und Entschädigungsanträgen nach der Verordnung (EU) 2021/782
+
+Die Eisenbahnverkehrsunternehmen haben den Fahrgästen zum Einreichen
+von Anträgen, die Erstattungen oder Entschädigungen nach den Artikeln
+18 oder 19 der Verordnung (EU) 2021/782 betreffen, mindestens eine
+Möglichkeit der barrierefreien elektronischen Kommunikation zur
+Verfügung zu stellen. Insoweit richten sich die Anforderungen an die
+Barrierefreiheit von Webseiten und mobilen Anwendungen bis zum 27.
+Juni 2025 nach der Barrierefreie-Informationstechnik-Verordnung.
+
+
+## § 12c Nachweis der Behinderung
+
+Steht den Fahrgästen nach Artikel 11 Absatz 4 Satz 1 der Verordnung
+(EU) 2021/782 wegen einer Behinderung das Recht zu, einen Fahrausweis
+im Zug zu erwerben, so können die Eisenbahnverkehrsunternehmen in
+ihren Beförderungsbedingungen festlegen, dass jene Fahrgäste, die
+einen Fahrausweis im Zug erwerben möchten, einen amtlichen Nachweis
+der Behinderung vorlegen müssen. Eine solche Regelung muss die
+Möglichkeit vorsehen, dass der Fahrgast nachträglich nachweisen kann,
+zum Zeitpunkt der Beförderung Inhaber eines gültigen Nachweises nach
+Satz 1 gewesen zu sein.
 
 
 ## § 13 Anschluß an andere Eisenbahnen
@@ -3035,9 +3097,9 @@ nach Satz 1 festgelegten Besetzungszeiten bleibt unberührt.
 
 (1) Zur Gewährleistung der Sicherheit und der Ordnung im
 Eisenbahnwesen, des Umweltschutzes oder zum Schutz von Leben und
-Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr und
-digitale Infrastruktur ermächtigt, mit Zustimmung des Bundesrates für
-öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
+Gesundheit der Arbeitnehmer wird das Bundesministerium für Digitales
+und Verkehr ermächtigt, mit Zustimmung des Bundesrates für öffentliche
+Eisenbahnen Rechtsverordnungen zu erlassen
 
 1.  über die Anforderungen an Bau, Instandhaltung, Ausrüstung, Betrieb und
     Verkehr der Eisenbahnen nach den Erfordernissen der Sicherheit, nach
@@ -3078,10 +3140,8 @@ digitale Infrastruktur ermächtigt, mit Zustimmung des Bundesrates für
     Haftung bei Ausfall, Verspätung oder Anschlussversäumnis, Anzeige- und
     Genehmigungserfordernisse sowie das Verfahren einschließlich einer
     Schlichtung geregelt werden; die Regelungen können von der Verordnung
-    (EG) Nr. 1371/2007 nach Maßgabe ihres Artikels 2 Abs. 5 abweichen,
-    soweit der Schienenpersonennahverkehr betroffen ist und die
-    technischen oder wirtschaftlichen Umstände oder die betrieblichen
-    Abläufe eine abweichende Regelung erfordern;
+    (EU) 2021/782 nach Maßgabe ihres Artikels 2 abweichen sowie Ausnahmen
+    von ihr vorsehen;
 
 
 1b. über die notwendigen Vorschriften einschließlich des Verfahrens zum
@@ -3285,9 +3345,9 @@ Schutz der Rechte der Reisenden erlassen werden.
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des
 Fahrpersonals sowie des Personals, das unmittelbar in der
 betrieblichen Abwicklung der Beförderungen eingesetzt ist, wird das
-Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt,
-mit Zustimmung des Bundesrates für öffentliche Eisenbahnen
-Rechtsverordnungen zu erlassen über
+Bundesministerium für Digitales und Verkehr ermächtigt, mit Zustimmung
+des Bundesrates für öffentliche Eisenbahnen Rechtsverordnungen zu
+erlassen über
 
 1.  Arbeitszeiten, Fahrzeiten und deren Unterbrechungen sowie
     Schichtzeiten,
@@ -3310,22 +3370,21 @@ Rechtsverordnungen zu erlassen über
 
 
 
-(3) Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 1 werden, soweit sie
-den Umweltschutz betreffen, vom Bundesministerium für Verkehr und
-digitale Infrastruktur und vom Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit erlassen. Rechtsverordnungen nach
-Absatz 1 Satz 1 Nummer 1a werden im Einvernehmen mit dem
-Bundesministerium der Justiz und für Verbraucherschutz erlassen.
-Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 5 werden im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung erlassen. Die
-Regelungen des Berufsbildungsgesetzes bleiben unberührt.
-Rechtsverordnungen nach den Absätzen 1 und 2 zum Schutz von Leben und
-Gesundheit der Arbeitnehmer und des Personals werden im Einvernehmen
-mit dem Bundesministerium für Arbeit und Soziales erlassen.
+(3) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1 werden, soweit
+sie den Umweltschutz betreffen, vom Bundesministerium für Digitales
+und Verkehr und vom Bundesministerium für Umwelt, Naturschutz,
+nukleare Sicherheit und Verbraucherschutz erlassen. Rechtsverordnungen
+nach Absatz 1 Satz 1 Nummer 1a werden im Einvernehmen mit dem
+Bundesministerium der Justiz erlassen. Rechtsverordnungen nach Absatz
+1 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für
+Bildung und Forschung erlassen. Die Regelungen des
+Berufsbildungsgesetzes bleiben unberührt. Rechtsverordnungen nach den
+Absätzen 1 und 2 zum Schutz von Leben und Gesundheit der Arbeitnehmer
+und des Personals werden im Einvernehmen mit dem Bundesministerium für
+Arbeit und Soziales erlassen.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu
-erlassen
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+mit Zustimmung des Bundesrates Rechtsverordnungen zu erlassen
 
 1.  zur Übernahme des Rechts der Europäischen Gemeinschaft oder der
     Europäischen Union, soweit es Gegenstände der Artikel 1 bis 5 des
@@ -3396,10 +3455,10 @@ In den Rechtsverordnungen nach Satz 1 kann auch das Verhältnis zu den
 sonstigen der Betriebssicherheit dienenden Rechtsverordnungen geregelt
 werden.
 
-(8) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit und dem Bundesministerium für
-Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
+(8) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
+nukleare Sicherheit und Verbraucherschutz und dem Bundesministerium
+für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
 Bundesrates dem Eisenbahn-Bundesamt die Befugnis zum Erlass einer
 Rechtsverordnung nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit
 Absatz 5 Satz 1 und Absatz 6, ganz oder teilweise zu übertragen,
@@ -3412,12 +3471,12 @@ Absatz 3 Satz 1 und 5 nicht anzuwenden.
 
 ## § 27 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann im
-Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit
-Zustimmung des Bundesrates zur Durchführung der auf Grund des § 26
-Abs. 2 erlassenen Rechtsverordnungen allgemeine
-Verwaltungsvorschriften erlassen, insbesondere über die Ahndung einer
-Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
+Das Bundesministerium für Digitales und Verkehr kann im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des
+Bundesrates zur Durchführung der auf Grund des § 26 Abs. 2 erlassenen
+Rechtsverordnungen allgemeine Verwaltungsvorschriften erlassen,
+insbesondere über die Ahndung einer Ordnungswidrigkeit nach § 28 Abs.
+1 Nr. 4, 5 und 8.
 
 
 ## § 28 Ordnungswidrigkeiten
@@ -3638,11 +3697,10 @@ Eisenbahnbetriebsleiterverordnung bis zum Erlass einer Regelung nach
 Satz 3 keine Anwendung. Auf diese Eisenbahnen sind die jeweiligen
 landesrechtlichen Vorschriften über die Betriebssicherheit
 nichtöffentlicher Eisenbahnen anzuwenden. Das Bundesministerium für
-Verkehr und digitale Infrastruktur wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die
-Sätze 1 und 2 nicht mehr anzuwenden sind, soweit es für die
-einheitliche Regelung der Betriebssicherheit aller regelspurigen
-Eisenbahnen erforderlich ist.
+Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates zu bestimmen, dass die Sätze 1 und 2 nicht
+mehr anzuwenden sind, soweit es für die einheitliche Regelung der
+Betriebssicherheit aller regelspurigen Eisenbahnen erforderlich ist.
 
 (2a) Anordnungen nach § 5 Absatz 6 in der bis zum 29. März 2019
 geltenden Fassung bleiben bis zum 29. März 2020 wirksam. Die
@@ -3713,6 +3771,33 @@ der bis zu diesem Tag geltenden Fassung anzuwenden. Verträge nach Satz
 Monaten beträgt, sind spätestens bis zum Ablauf von 24 Monaten nach
 dem 1. Juli 2021 an die Vorgaben des § 13 anzupassen.
 
+(10) Bis zum Ablauf des 6. Juni 2023
+
+1.  sind § 1 Absatz 3 und 4, § 4 Absatz 8, § 5 Absatz 1 und 4a, § 5a
+    Absatz 8 sowie § 12a Absatz 4 in der am 2. August 2023 geltenden
+    Fassung weiter anzuwenden,
+
+
+2.  sind die §§ 10a, 12b und 12c nicht anzuwenden,
+
+
+3.  ist § 26 Absatz 1 Satz 1 Nummer 1a mit der Maßgabe anzuwenden, dass
+    die dort genannten Regelungen auch von der Verordnung (EG) Nr.
+    1371/2007 nach Maßgabe ihres Artikels 2 Absatz 5 abweichen können,
+    soweit der Schienenpersonennahverkehr betroffen ist und die
+    technischen oder wirtschaftlichen Umstände oder die betrieblichen
+    Abläufe eine abweichende Regelung erfordern.
+
+
+
+
+(11) Bis zum Ablauf des 30. Juni 2026 ist der Bedarf für Hilfeleistung
+im Sinne des Artikels 23 der Verordnung (EU) 2021/782 bei
+grenzüberschreitenden Fahrten spätestens 36 Stunden vor dem Zeitpunkt,
+zu dem die Hilfeleistung benötigt wird, anzumelden, sofern nicht die
+zentrale Anlaufstelle nach § 10a oder die beteiligten Unternehmen eine
+kürzere Frist zulassen.
+
 
 ## § 39 Übergangsregelung für Planungen
 
@@ -3727,8 +3812,11 @@ Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
 soweit der Plan noch nicht außer Kraft getreten ist.
 
 
-## § 40 (weggefallen)
+## § 40 Evaluierung der zentralen Anlaufstelle für Personen mit Behinderungen und Personen mit eingeschränkter Mobilität
 
+Die Bundesregierung evaluiert die zentrale Anlaufstelle für Personen
+mit Behinderungen und Personen mit eingeschränkter Mobilität nach §
+10a im Jahr 2027.
 
 (zu § 18e Absatz 1)
 

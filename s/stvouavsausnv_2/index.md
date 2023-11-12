@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 481
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.11.2018 I 2245
+:   Art. 6 V v. 20.7.2023 I Nr. 199
 
 
 ## Eingangsformel
@@ -77,7 +77,7 @@ Zulassungs-Ordnung dürfen an Fahrzeugen bei der Verwendung nach Absatz
 lichttechnischen Einrichtungen verdeckt und zusätzliche
 lichttechnische Einrichtungen angebracht sein, wenn die Benutzung der
 Beleuchtung nach § 17 Abs. 1 Satz 1 der Straßenverkehrs-Ordnung nicht
-erforderlich ist. Eine Änderung der Fahrzeugpapiere nach § 13 Absatz 1
+erforderlich ist. Eine Änderung der Fahrzeugpapiere nach § 15 Absatz 1
 der Fahrzeug-Zulassungsverordnung ist nicht erforderlich.
 
 (2) Abweichend von § 6 Abs. 1 der Fahrerlaubnis-Verordnung berechtigt

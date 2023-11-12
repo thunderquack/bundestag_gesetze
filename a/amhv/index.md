@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 935
 
+Geändert durch
+:   Art. 8 V v. 6.7.2022 I 1102
+
 
 ## Eingangsformel
 
@@ -30,14 +33,15 @@ für Gesundheit:
 
 (1) Diese Verordnung regelt das Verfahren für das Inverkehrbringen von
 Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
-unter den Voraussetzungen, die in § 21 Absatz 2 Nummer 6 des
+unter den Voraussetzungen, die in § 21 Absatz 2 Nummer 3 des
 Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung (EG)
 Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März
-2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und
-Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer
-Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1)
-genannt werden. Die Verordnung gilt für Fertigarzneimittel, die zur
-Anwendung im oder am Menschen bestimmt sind und weder im
+2004 zur Festlegung der Verfahren der Europäischen Union für die
+Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung
+einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S.
+1; L 201 vom 27.7.2012, S. 138), die zuletzt durch die Verordnung (EU)
+2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist, genannt
+werden. Die Verordnung gilt für Fertigarzneimittel, die weder im
 Geltungsbereich des Arzneimittelgesetzes noch in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum genehmigt oder

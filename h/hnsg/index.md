@@ -14,9 +14,8 @@ Ausfertigungsdatum
 :   2021-07-16
 
 Fundstelle
-:   BGBl I: 2021, 3079
+:   BGBl I: 2021, 3079 (5241)
 
-Stand: Nr. 2 der Berichtigung vom 16.12.2021 I 5241 (Nr. 85) noch nicht berücksichtigt
 
 ## § 1 (zukünftig in Kraft)
 
@@ -142,8 +141,17 @@ mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem
 sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
 
-## § 8 (zukünftig in Kraft)
+## § 8 Verordnungsermächtigung
 
+(1) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach
+§ 7 Absatz 1 bis 3 zugewiesenen Aufgaben durch Rechtsverordnung auf
+eine nachgeordnete Behörde übertragen.
+
+(2) Das Bundesministerium für Wirtschaft und Energie erlässt im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über die
+in § 7 Absatz 2 Satz 1 vorgesehenen Angaben, ihre Form und die zu
+wahrenden Fristen.
 
 
 ## § 9 (zukünftig in Kraft)

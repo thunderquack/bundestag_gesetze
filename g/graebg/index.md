@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.1.2012 I 98
 
 Zuletzt geändert durch
-:   Art. 3 Ab. 2 G v. 4.12.2018 I 2257; 2019 I 496
+:   Art. 3 Abs. 2 G v. 4.12.2018 I 2257; 2019 I 496
 
 
 ## § 1 Anwendungsbereich

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2722, 2723
 
 Zuletzt geändert durch
-:   Art. 87 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1663 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 9.6.2021 I 1663
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 273
 
 Zuletzt geändert durch
-:   Art. 8 V v. 4.1.2019 I 2
+:   Art. 10 V v. 10.3.2022 I 428
 
 
 ## Eingangsformel
@@ -84,9 +84,9 @@ mit
     Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur
     Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der
     Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168
-    vom 28.6.2008, S. 5), die durch die Verordnung (EU) Nr. 557/2010 (ABl.
-    L 159 vom 25.6.2010, S. 13) geändert worden ist, genannten
-    Anforderungen an die Kennzeichnung nicht entsprechen,
+    vom 28.6.2008, S. 5), die zuletzt durch die Verordnung (EU) Nr.
+    519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist,
+    genannten Anforderungen an die Kennzeichnung nicht entsprechen,
 
 
 2.  Bruteier entgegen Artikel 3 Absatz 4 oder Absatz 6 der Verordnung (EG)

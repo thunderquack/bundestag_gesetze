@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 1322
 
+V aufgeh. durch
+:   Art. 3 Satz 2 V v. 19.10.2023 I Nr. 282 mWv 1.12.2023
+
 Zuletzt geändert durch
-:   2 V v. 7.7.2021 I 3547
+:   Art. 2 V v. 16.12.2022 I 2866
+
+Ersetzt durch
+:   V 2030-8-5-24 v. 19.10.2023 I Nr. 282 (GntZollDVDV 2023)
 
 
 ## Eingangsformel
@@ -44,7 +50,7 @@ Zolldienst des Bundes.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -455,7 +461,7 @@ Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je
 Auswahlkommission bestellt werden.
 
 (2a) Die Generalzolldirektion kann festlegen, dass die
-Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 2
+Auswahlkommission bis zum 31. Dezember 2024 – abweichend von Absatz 2
 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
@@ -596,11 +602,6 @@ festgestellt werden konnte.
 Simulationsübungen und einem strukturierten Interview. Er dient dazu,
 die Eignung der Bewerberinnen und Bewerber in verschiedenen
 persönlichen und sozialen Kompetenzbereichen zu ermitteln.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils des Auswahlverfahrens auch Videokonferenztechnik
-genutzt werden, wenn dafür geeignete technische Einrichtungen zur
-Verfügung stehen.
 
 (2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit
 höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die
@@ -748,7 +749,7 @@ Lehrveranstaltungsstunden.
 Studierenden sind zum Selbststudium verpflichtet.
 
 (4a) Die Hochschule kann im Einvernehmen mit dem Bundesministerium der
-Finanzen festlegen, dass bis zum 31. Dezember 2022 für einzelne oder
+Finanzen festlegen, dass bis zum 31. Dezember 2024 für einzelne oder
 alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
 
 (5) Für die fachtheoretische Studienzeit werden die Studierenden von
@@ -1378,7 +1379,7 @@ mindestens ein Mitglied der Prüfungskommission weiblich sein. Jedes
 Kommissionsmitglied prüft als Fachprüferin oder Fachprüfer ein
 Studiengebiet nach § 26 Absatz 1 Nummer 1 bis 6.
 
-(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022
+(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024
 die Prüfungskommission für die Bewertung der mündlichen
 Abschlussprüfung – abweichend von Absatz 5 Satz 1 – nur aus folgenden
 Mitgliedern besteht:
@@ -1599,7 +1600,7 @@ die Prüfung und stellt den ordnungsgemäßen Ablauf der Prüfung sicher.
 Die mündliche Prüfung wird durch mindestens eine Pause von
 angemessener Dauer unterbrochen.
 
-(2a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  für die Durchführung der mündlichen Abschlussprüfung
     Videokonferenztechnik genutzt wird, wenn dafür geeignete technische
@@ -1619,7 +1620,7 @@ angemessener Dauer unterbrochen.
 
 
 
-(2b) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 auf
+(2b) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 auf
 eine Durchführung der mündlichen Abschlussprüfung verzichtet wird,
 wenn
 

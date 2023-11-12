@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 7 G v. 15.1.2021 I 530
-
-Änderung durch
-:   Art. 4 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 15 Nr. 6 G v. 30.3.2021 I 448 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+:   Art. 22 G v. 19.12.2022 I 2606
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -213,9 +204,8 @@ erforderlichen Hinweise im Melderegister:
     und Sperrsumme des Personalausweises und der eID-Karte,
 
 
-17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2
-    Nummer 4 des AZR-Gesetzes, übergangsweise die Seriennummer des
-    Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes,
+17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 1
+    und 2 Nummer 4 des AZR-Gesetzes,
 
 
 18. Auskunfts- und Übermittlungssperren,
@@ -303,11 +293,7 @@ erforderlichen Hinweise im Melderegister:
     Staatsangehörigkeit eintreten kann,
 
 
-6.  für Zwecke der Suchdienste
-
-    die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den
-    in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten
-    Gebieten stammen,
+6.  (weggefallen)
 
 
 7.  für waffenrechtliche Verfahren
@@ -389,13 +375,18 @@ Meldebehörde angehört.
 
 ### § 5 Zweckbindung der Daten
 
-(1) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten
+(1) Die Meldebehörde darf die Daten, die nach § 3 Absatz 1 Nummer 17a
+gespeichert sind, nur noch im Verkehr mit der Registerbehörde für das
+Ausländerzentralregister nutzen, sobald sie von der Ausländerbehörde
+nach § 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
+
+(2) Die Meldebehörden dürfen die in § 3 Absatz 2 bezeichneten Daten
 nur für die dort genannten Zwecke verarbeiten. Sie haben durch
 technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und
 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur
 nach Maßgabe des Satzes 1 verarbeitet werden.
 
-(2) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit
+(3) Die in § 3 Absatz 2 bezeichneten Daten dürfen nur insoweit
 zusammen mit den in § 3 Absatz 1 bezeichneten Daten verarbeitet
 werden, als dies zur Erfüllung der jeweiligen Aufgabe erforderlich
 ist. § 34 Absatz 3 und 4 bleibt unberührt mit der Maßgabe, dass
@@ -495,15 +486,9 @@ Datensicherheit zu gewährleisten, insbesondere im Hinblick auf die
 Vertraulichkeit und die Unversehrtheit der Daten, die im Melderegister
 gespeichert sind und an die betroffene Person übermittelt werden.
 
-(3) Die Identität des Antragstellers ist mittels des elektronischen
-Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des
-eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes oder
-mittels eines Identitätsbestätigungsdienstes nach § 6 Absatz 1 des De-
-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666) in der jeweils
-geltenden Fassung in Verbindung mit einer sicheren Anmeldung nach § 4
-Absatz 1 des De-Mail-Gesetzes zu überprüfen. Alternativ kann die
-Identität des Antragstellers anhand einer qualifizierten
-elektronischen Signatur überprüft werden.
+(3) Das bei einer elektronischen Antragstellung erforderliche
+Vertrauensniveau zum Nachweis der Identität des Antragstellers wird
+durch Rechtsverordnung nach § 56 Absatz 1 Nummer 6 festgelegt.
 
 
 ### § 11 Auskunftsbeschränkungen
@@ -529,7 +514,7 @@ nicht, wenn
 Auskunft über automatisierte Melderegisterauskünfte und über
 Datenübermittlungen im automatisierten Abrufverfahren durch
 öffentliche Stellen wird nur innerhalb der Frist zur Aufbewahrung der
-Protokolldaten nach § 40 Absatz 4 erteilt.
+Protokolldaten nach § 40 Absatz 5 erteilt.
 
 (2) Das Recht auf Auskunft der betroffenen Person nach Artikel 15 der
 Verordnung (EU) 2016/679 besteht nicht,
@@ -649,7 +634,7 @@ für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer
 darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2
 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die
 Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die
-Feststellung der Tatsache nach § 3 Absatz 2 Nummer 5.
+Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 5, 7 und 8.
 
 (2) Nach Ablauf von fünf Jahren nach dem Ende des Kalenderjahres, in
 dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz
@@ -660,11 +645,11 @@ denn, § 14 sieht eine frühere Löschung vor. Während dieser Zeit dürfen
 die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind
 Familienname und Vornamen sowie frühere Namen, Geburtsdatum,
 Geburtsort sowie bei Geburt im Ausland auch der Staat, derzeitige und
-frühere Anschriften, Auszugsdatum sowie Sterbedatum, Sterbeort sowie
-bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
+frühere Anschriften, Auszugsdatum, Auskunftssperren nach § 51 Absatz 1
+sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der
+Staat. Satz 2 gilt nicht, wenn
 
-1.  die betroffene Person in die Verarbeitung der Daten eingewilligt hat
-    oder
+1.  die betroffene Person in die Verarbeitung der Daten eingewilligt hat,
 
 
 2.  die Verarbeitung der Daten unerlässlich ist
@@ -684,10 +669,15 @@ bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
 
     e)  zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach §
         3 Absatz 2 Nummer 5 dieses Gesetzes sowie nach § 29 Absatz 6 und § 30
-        des Staatsangehörigkeitsgesetzes.
+        des Staatsangehörigkeitsgesetzes oder
 
 
 
+
+
+3.  die Daten nach Absatz 1 mit Ausnahme der Daten nach § 3 Absatz 1
+    Nummer 18 als Auswahldaten nach Maßgabe des § 38 Absatz 1 bis 3
+    verarbeitet werden.
 
 
 
@@ -699,16 +689,14 @@ bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn
 Erfüllung ihrer Aufgaben nicht mehr erforderlich sind. Das Gleiche
 gilt, wenn bereits die Speicherung der Daten unzulässig war.
 
-(2) Daten nach § 3 Absatz 2 Nummer 6 sind unverzüglich nach
-Übermittlung an die Suchdienste zu löschen. Die Daten nach § 3 Absatz
-1 Nummer 11 und Absatz 2 Nummer 2 sind nach Ablauf des auf den Wegzug
-oder den Tod des Einwohners folgenden Kalenderjahres zu löschen. Die
-Daten nach § 3 Absatz 1 Nummer 17 sind fünf Jahre nach dem Ablauf der
-Gültigkeit des Ausweisdokuments, auf das sie sich beziehen, zu
-löschen. Die weiteren Daten weggezogener oder verstorbener Einwohner,
-die nicht nach § 13 Absatz 1 aufbewahrt werden, sind 30 Tage nach dem
-Wegzug und der Auswertung der Rückmeldung oder nach dem Tod des
-Einwohners zu löschen.
+(2) Die Daten nach § 3 Absatz 1 Nummer 11 und Absatz 2 Nummer 2 sind
+nach Ablauf des auf den Wegzug oder den Tod des Einwohners folgenden
+Kalenderjahres zu löschen. Die Daten nach § 3 Absatz 1 Nummer 17 sind
+fünf Jahre nach dem Ablauf der Gültigkeit des Ausweisdokuments, auf
+das sie sich beziehen, zu löschen. Die weiteren Daten weggezogener
+oder verstorbener Einwohner, die nicht nach § 13 Absatz 1 aufbewahrt
+werden, sind 30 Tage nach dem Wegzug und der Auswertung der
+Rückmeldung oder nach dem Tod des Einwohners zu löschen.
 
 (3) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung
 wegen der besonderen Art der Speicherung nicht oder nur mit
@@ -721,10 +709,6 @@ Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen
 nicht. In diesem Fall tritt an die Stelle einer Löschung die
 Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU)
 2016/679.
-
-(4) Die Meldebehörde hat Daten, die nach § 3 Absatz 1 Nummer 17a
-gespeichert sind, zu löschen, sobald sie von der Ausländerbehörde nach
-§ 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
 
 
 ### § 15 Aufbewahrung und Löschung von Hinweisen
@@ -779,44 +763,57 @@ Personenstandes einer Person mit.
 
 ### § 18 Meldebescheinigung
 
-(1) Die Meldebehörde erteilt der betroffenen Person auf Antrag eine
-schriftliche Meldebescheinigung. Die einfache Meldebescheinigung
-enthält folgende Daten:
+(1) Die Meldebehörde erteilt der betroffenen Person auf deren Antrag
+eine schriftliche oder elektronische Meldebescheinigung. Die
+Meldebescheinigung enthält folgende Daten:
 
 1.  Familienname,
 
 
-2.  frühere Namen,
+2.  Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
 
 
-3.  Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
+3.  Doktorgrad,
 
 
-4.  Doktorgrad,
+4.  Geburtsdatum,
 
 
-5.  Ordensname, Künstlername,
-
-
-6.  Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
-    Staat,
-
-
-7.  derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
+5.  derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
 
 
 
+Hierzu hat die meldepflichtige Person Familienname, Vornamen,
+Geburtsdatum sowie die Anschrift der derzeitigen Haupt- oder
+alleinigen Wohnung zu übermitteln.
 
-(2) Auf Antrag kann eine erweiterte Meldebescheinigung ausgestellt
-werden, die Daten nach § 3 Absatz 1, mit Ausnahme von Auskunfts- und
-Übermittlungssperren, enthalten darf. Der Datenumfang der
-Meldebescheinigung nach Absatz 1 darf dabei auch unterschritten
-werden.
+(2) Auf Antrag der betroffenen Person kann die Meldebescheinigung
+zusätzlich zu den Daten nach Absatz 1 Satz 2 Daten nach § 3 Absatz 1
+Nummer 2, 5 bis 16, 17 mit Ausnahme des Sperrkennworts und der
+Sperrsumme des Personalausweises und der eID-Karte sowie die Tatsache,
+dass ein Sterbedatum nicht gespeichert ist, enthalten.
 
-(3) Für die elektronische Erteilung einer Meldebescheinigung gilt § 10
-Absatz 2 und 3 entsprechend.
+(3) Die elektronische Meldebescheinigung wird unentgeltlich erteilt.
 
-(4) § 11 Absatz 2 Nummer 1 bis 3 gilt entsprechend.
+(4) Im Übrigen gelten § 10 Absatz 2 und 3 sowie § 11 Absatz 2 Nummer 1
+bis 3 entsprechend.
+
+
+### § 18a Meldedatensatz zum Abruf
+
+(1) Die Meldebehörde stellt der betroffenen Person auf deren Antrag
+die Meldedaten nach § 18 Absatz 1 und 2 zum Zweck der Weiterleitung in
+einer elektronischen Verwaltungsleistung nach dem Onlinezugangsgesetz
+im Wege des automatisierten Abrufs bereit. Hierzu hat die
+meldepflichtige Person die in § 18 Absatz 1 Satz 3 genannten Daten zu
+übermitteln. Die Meldedaten werden als unveränderbarer
+maschinenlesbarer Datensatz (Meldedatensatz) bereitgestellt. Aus dem
+Meldedatensatz muss der Zeitpunkt des Abrufs erkennbar sein.
+
+(2) Der Meldedatensatz wird unentgeltlich zum Abruf bereitgestellt.
+
+(3) Im Übrigen gelten § 10 Absatz 2 und 3 sowie § 11 Absatz 2 Nummer 1
+bis 3 entsprechend.
 
 
 ### § 19 Mitwirkung des Wohnungsgebers
@@ -942,88 +939,85 @@ persönlich bei der Meldebehörde erscheint und auf einem Ausdruck die
 Richtigkeit und Vollständigkeit der bei ihr erhobenen Daten durch ihre
 Unterschrift bestätigt.
 
-(2) Für die elektronische Anmeldung gilt § 10 Absatz 2 und 3
-entsprechend.
+(2) Die Meldebehörde des neuen Wohnortes (Zuzugsmeldebehörde) ist
+verpflichtet, der meldepflichtigen Person die Daten der
+Wegzugsmeldebehörde nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2
+Nummer 4 vorzulegen (vorausgefüllter Meldeschein). Daten zum
+gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu
+minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder
+ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in
+dem vorausgefüllten Meldeschein enthalten sein. Die meldepflichtige
+Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen,
+unzutreffende Angaben zu berichtigen und fehlende Angaben zu ergänzen.
+Sie hat den aktualisierten vorausgefüllten Meldeschein bei der
+Zuzugsmeldebehörde unterschrieben einzureichen. Im Fall, dass ein
+vorausgefüllter Meldeschein nicht erstellt werden kann, hat die
+meldepflichtige Person einen Meldeschein auszufüllen und zu
+unterschreiben.
 
-(3) Die Meldebehörde des neuen Wohnortes (Zuzugsmeldebehörde) ist
-berechtigt, die bei der Meldebehörde des letzten früheren Wohnortes
-(Wegzugsmeldebehörde) nach § 3 Absatz 1 Nummer 1 bis 18 gespeicherten
-Daten anzufordern und der meldepflichtigen Person diese Daten
-schriftlich oder in elektronischer Form zu übermitteln
-(vorausgefüllter Meldeschein). Die meldepflichtige Person hat die
-übermittelten Angaben auf ihre Richtigkeit zu prüfen, unzutreffende
-Angaben zu berichtigen und fehlende Angaben zu ergänzen. Sie hat den
-aktualisierten vorausgefüllten Meldeschein bei der Zuzugsmeldebehörde
-unterschrieben einzureichen. Für die elektronische Übermittlung gilt §
-10 Absatz 2 und 3 entsprechend.
-
-(4) Für den vorausgefüllten Meldeschein gibt die meldepflichtige
+(3) Für den vorausgefüllten Meldeschein gibt die meldepflichtige
 Person Familienname, Vornamen, Geburtsdatum sowie die letzte
 Wohnanschrift an. Diese Daten übermittelt die Zuzugsmeldebehörde der
 Wegzugsmeldebehörde, um die Daten nach § 3 Absatz 1 Nummer 1 bis 18
-anzufordern. Die Wegzugsmeldebehörde übermittelt der
-Zuzugsmeldebehörde unverzüglich die angeforderten Daten.
+und Absatz 2 Nummer 4 anzufordern. Die Wegzugsmeldebehörde übermittelt
+der Zuzugsmeldebehörde unverzüglich die angeforderten Daten.
 
-(5) Ehegatten, Lebenspartner und Familienangehörige mit denselben
+(4) Ehegatten, Lebenspartner und Familienangehörige mit denselben
 Zuzugsdaten (Zuzugsdatum sowie frühere und derzeitige Wohnungen)
 sollen gemeinsam einen Meldeschein verwenden. Es genügt die Anmeldung
-nach den Absätzen 1 und 2 durch eine der meldepflichtigen Personen.
-Die Absätze 3 und 4 gelten entsprechend, wenn die meldepflichtige
-Person versichert, dass sie berechtigt ist, die Daten der übrigen
-meldepflichtigen Personen entgegenzunehmen. Sie ist darüber zu
-belehren, dass der unberechtigte Empfang unter Vorspiegelung einer
-Berechtigung nach § 202a des Strafgesetzbuchs unter Strafe steht.
+durch eine der meldepflichtigen Personen. Die Absätze 2 und 3 gelten
+entsprechend, wenn die meldepflichtige Person versichert, dass sie
+berechtigt ist, die Daten der übrigen meldepflichtigen Personen
+entgegenzunehmen. Sie ist darüber zu belehren, dass der unberechtigte
+Empfang unter Vorspiegelung einer Berechtigung nach § 202a des
+Strafgesetzbuchs unter Strafe steht.
 
-(6) Abweichend von den Absätzen 1 und 2 kann die Anmeldung von
-Personen, die in eine Aufnahmeeinrichtung zugezogen sind,
-automatisiert durch Übernahme der Daten aus dem
-Ausländerzentralregister nach § 18e des AZR-Gesetzes erfolgen.
+(5) Abweichend von Absatz 1 kann die Anmeldung von Personen, die in
+eine Aufnahmeeinrichtung zugezogen sind, automatisiert durch Übernahme
+der Daten aus dem Ausländerzentralregister nach § 18e des AZR-Gesetzes
+erfolgen.
 
-(7) Die Abmeldung von in das Ausland verzogenen Personen kann
-schriftlich oder in entsprechender Anwendung des § 10 Absatz 2 und 3
-elektronisch erfolgen. Der Nachweis der Identität der
-abmeldepflichtigen Person kann bei der elektronischen Abmeldung auch
-durch die Angabe des Familiennamens, des Vornamens, des Geburtsdatums
-und der Seriennummer des zuletzt im Melderegister gespeicherten
-Ausweises oder Passes nach § 3 Absatz 1 Nummer 17 erfolgen.
+(6) Die Abmeldung in das Ausland kann schriftlich oder in
+entsprechender Anwendung des § 10 Absatz 2 und 3 elektronisch
+erfolgen. Der Nachweis der Identität der abmeldepflichtigen Person
+kann bei der elektronischen Abmeldung auch durch die Angabe des
+Familiennamens, des Vornamens, des Geburtsdatums und der Seriennummer
+des zuletzt im Melderegister gespeicherten Ausweises oder Passes nach
+§ 3 Absatz 1 Nummer 17 erfolgen.
 
 
 ### § 23a Elektronische Anmeldung
 
-(1) Abweichend von § 23 Absatz 1, 3 und 4 kann das Bundesministerium
-des Innern, für Bau und Heimat im Einvernehmen mit der jeweils
-zuständigen obersten Landesbehörde zur Erprobung der elektronischen
-Anmeldung ein Verfahren nach Maßgabe der Absätze 2 bis 4 zulassen.
+(1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die
+nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten
+Daten elektronisch anfordern. Hierzu hat sie die in § 18 Absatz 1 Satz
+3 genannten Daten zu übermitteln. Die Wegzugsmeldebehörde ist
+verpflichtet, diese Daten in elektronischer und unveränderbarer Form
+zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen
+Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern,
+für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk
+nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten
+Meldeschein enthalten sein.
 
-(2) Die meldepflichtige Person darf bei einer Anmeldung nach Absatz 1
-bei der Wegzugsmeldebehörde die nach § 3 Absatz 1 Nummer 1 bis 18
-gespeicherten Daten elektronisch anfordern. Hierzu hat sie
-Familienname, Vornamen, Geburtsdatum sowie die letzte Wohnanschrift
-anzugeben. Die Wegzugsmeldebehörde ist verpflichtet, diese Daten in
-elektronischer und unveränderbarer Form zu übermitteln
-(vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter,
-Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine
-Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52
-gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein
-enthalten sein.
+(2) Die meldepflichtige Person hat die übermittelten Angaben auf ihre
+Richtigkeit zu prüfen, um die Angaben nach § 19 Absatz 3 Nummer 1 bis
+3 zu ergänzen, elektronisch zu bestätigen und an die
+Zuzugsmeldebehörde zu übermitteln.
 
-(3) Die meldepflichtige Person hat die übermittelten Angaben auf ihre
-Richtigkeit zu prüfen, um Angaben nach § 19 Absatz 3 Nummer 1 bis 3 zu
-ergänzen, elektronisch zu bestätigen und an die Zuzugsmeldebehörde zu
-übermitteln.
-
-(4) Die Vorlage der Bestätigung des Wohnungsgebers oder des
+(3) Die Vorlage der Bestätigung des Wohnungsgebers oder des
 entsprechenden Zuordnungsmerkmals nach § 19 Absatz 4 Satz 1 kann bei
 einer elektronischen Anmeldung durch einen Code, der durch die
 Zuzugsmeldebehörde an die Zuzugsanschrift der meldepflichtigen Person
 versendet und von dieser bestätigt wird, ersetzt werden.
+
+(4) § 10 Absatz 2 und 3 gilt entsprechend.
 
 
 ### § 24 Datenerhebung, Meldebestätigung
 
 (1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung
 dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1
-bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5, 6 und 10
+bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5 und 10
 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die
 zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
 
@@ -1484,12 +1478,12 @@ Meldebehörden desselben Landes beteiligt sind, können für die
 Datenübermittlung weitergehende Regelungen durch Landesrecht getroffen
 werden.
 
-(3) Werden die in § 3 Absatz 1 und 2 Nummer 7 und 8 bezeichneten Daten
-fortgeschrieben, so sind unverzüglich die für weitere Wohnungen der
-betroffenen Person zuständigen Meldebehörden zu unterrichten, soweit
-die Daten zur Erfüllung ihrer Aufgaben erforderlich sind. Verstirbt
-oder verzieht eine meldepflichtige Person, zu der Daten der in § 3
-Absatz 1 Nummer 9, 15 und 16 genannten Personen außerhalb der
+(3) Werden die in § 3 Absatz 1 und 2 Nummer 4, 7 und 8 bezeichneten
+Daten fortgeschrieben, so sind unverzüglich die für weitere Wohnungen
+der betroffenen Person zuständigen Meldebehörden zu unterrichten,
+soweit die Daten zur Erfüllung ihrer Aufgaben erforderlich sind.
+Verstirbt oder verzieht eine meldepflichtige Person, zu der Daten der
+in § 3 Absatz 1 Nummer 9, 15 und 16 genannten Personen außerhalb der
 Zuständigkeit der Meldebehörde gespeichert sind, ist unverzüglich die
 für diese Personen zuständige Meldebehörde über die Fortschreibung zu
 unterrichten.
@@ -1516,10 +1510,10 @@ gebührenfrei.
 #### § 34 Datenübermittlungen an andere öffentliche Stellen
 
 (1) Die Meldebehörde darf einer anderen öffentlichen Stelle im Sinne
-von § 2 Absatz 1 bis 3 und 4 Satz 2 des Bundesdatenschutzgesetzes im
+von § 2 Absatz 1 bis 3 und 4 Satz 2 des Bundesdatenschutzgesetzes im
 Inland aus dem Melderegister folgende Daten übermitteln, soweit dies
-zur Erfüllung der in ihrer Zuständigkeit oder in der Zuständigkeit des
-Empfängers liegenden öffentlichen Aufgaben erforderlich ist:
+zur Erfüllung einer öffentlichen Aufgabe erforderlich ist, die in
+ihrer Zuständigkeit oder in der Zuständigkeit des Empfängers liegt:
 
 1.  Familienname,
 
@@ -1536,24 +1530,27 @@ Empfängers liegenden öffentlichen Aufgaben erforderlich ist:
 5.  Ordensname, Künstlername,
 
 
-6.  derzeitige und frühere Anschriften, Haupt- und Nebenwohnung; bei Zuzug
-    aus dem Ausland auch den Staat und die letzte Anschrift im Inland, bei
-    Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den
+6.  Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
     Staat,
 
 
-7.  Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer
+7.  Geschlecht,
+
+
+8.  derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2
+    Nummer 5 gespeicherten Daten,
+
+
+9.  derzeitige und frühere Anschriften, gekennzeichnet nach Haupt- und
+    Nebenwohnung; bei Zuzug aus dem Ausland den Staat, bei Wegzug in das
+    Ausland die Zuzugsanschrift im Ausland und den Staat,
+
+
+10. Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer
     Wohnung im Inland sowie Datum des letzten Zuzugs aus dem Ausland,
 
 
-8.  Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
-    Staat,
-
-
-9.  Geschlecht,
-
-
-10. zum gesetzlichen Vertreter
+11. zum gesetzlichen Vertreter
 
     a)  Familienname,
 
@@ -1570,7 +1567,74 @@ Empfängers liegenden öffentlichen Aufgaben erforderlich ist:
     e)  Geburtsdatum,
 
 
-    f)  Sterbedatum,
+    f)  Geschlecht,
+
+
+    g)  Sterbedatum sowie
+
+
+    h)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+
+
+
+
+
+12. Familienstand; bei Verheirateten oder Lebenspartnern zusätzlich Datum,
+    Ort und Staat der Eheschließung oder der Begründung der
+    Lebenspartnerschaft sowie bei Eheschließung oder Begründung der
+    Lebenspartnerschaft im Ausland auch den Staat,
+
+
+13. zum Ehegatten oder Lebenspartner
+
+    a)  Familienname,
+
+
+    b)  Vornamen,
+
+
+    c)  Geburtsname,
+
+
+    d)  Doktorgrad,
+
+
+    e)  Geburtsdatum,
+
+
+    f)  Geschlecht,
+
+
+    g)  derzeitige Anschriften und Wegzugsanschrift,
+
+
+    h)  Sterbedatum sowie
+
+
+    i)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+
+
+
+
+
+14. zu minderjährigen Kindern
+
+    a)  Familienname,
+
+
+    b)  Vornamen,
+
+
+    c)  Geburtsdatum,
+
+
+    d)  Geschlecht,
+
+
+    e)  Anschrift im Inland,
+
+
+    f)  Sterbedatum sowie
 
 
     g)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
@@ -1579,34 +1643,68 @@ Empfängers liegenden öffentlichen Aufgaben erforderlich ist:
 
 
 
-11. derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2
-    Nummer 5 gespeicherten Daten,
+15. Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
 
 
-12. Familienstand, bei Verheirateten oder Lebenspartnern zusätzlich Datum,
-    Ort und Staat der Eheschließung oder der Begründung der
-    Lebenspartnerschaft,
-
-
-13. Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
-
-
-14. Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den
+16. Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den
     Staat.
 
 
 
-Den in Absatz 4 Satz 1 bezeichneten Behörden darf die Meldebehörde
-unter den Voraussetzungen des Satzes 1 über die dort genannten Daten
-hinaus auch Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer
-und Seriennummer des Personalausweises, vorläufigen Personalausweises
-oder Ersatz-Personalausweises sowie des anerkannten Passes oder
-Passersatzpapieres übermitteln.
+Den in Absatz 4 Satz 1 genannten Behörden darf die Meldebehörde
+darüber hinaus folgende Daten übermitteln, soweit dies zur
+Aufgabenerfüllung erforderlich ist:
 
-(2) Werden Daten über eine Vielzahl nicht namentlich bezeichneter
-Personen übermittelt, dürfen für die Zusammensetzung der
-Personengruppe nur die in Absatz 1 Satz 1 genannten Daten zugrunde
-gelegt werden.
+1.  Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer
+    des Personalausweises, vorläufigen Personalausweises oder Ersatz-
+    Personalausweises, des anerkannten Passes oder Passersatzpapiers,
+
+
+2.  Tatsachen nach § 3 Absatz 2 Nummer 4 zu den Pass- und Ausweisdaten,
+
+
+3.  Daten für waffen- und sprengstoffrechtliche Verfahren nach § 3 Absatz
+    2 Nummer 7 und 8 sowie
+
+
+4.  Daten zum Wohnungsgeber nach § 3 Absatz 2 Nummer 10.
+
+
+
+
+(2) Die Datenübermittlung erfolgt durch
+
+1.  das Bereithalten der Daten durch die Meldebehörde zum anschließenden
+    automatisierten Abruf unmittelbar durch die andere öffentliche Stelle,
+    soweit dies nach § 34a zugelassen ist, oder
+
+
+2.  durch elektronische Datenübertragung.
+
+
+
+§ 10 Absatz 2 gilt für die Fälle des Satzes 1 entsprechend. Zusätzlich
+darf über die Identität der Stelle, an die die Daten übermittelt
+werden, kein Zweifel bestehen. § 3 des Gesetzes über die Verbindung
+der informationstechnischen Netze des Bundes und der Länder – Gesetz
+zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10.
+August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden Fassung
+bleibt unberührt. Abweichend von Satz 1 erfolgt eine Datenübermittlung
+in schriftlicher Form oder durch Übersenden auf Datenträgern in
+gesicherter Form, wenn eine Datenübermittlung nach Satz 1
+
+1.  nicht verfügbar ist,
+
+
+2.  nicht zulässig ist oder
+
+
+3.  verfügbar und zulässig wäre, aber die empfangende Stelle besondere
+    Umstände geltend macht, von einer Datenübermittlung nach Satz 1
+    abzuweichen.
+
+
+
 
 (3) Die Übermittlung weiterer als der in Absatz 1 Satz 1 bezeichneten
 Daten oder die Übermittlung der in § 3 Absatz 1 oder 2 genannten
@@ -1629,7 +1727,7 @@ Absatz 3 und § 8 vorliegen, entfällt, wenn sie von den folgenden
 Behörden um Übermittlung von Daten und Hinweisen nach Absatz 3 ersucht
 wird:
 
-1.  Polizeibehörden des Bundes und der Länder,
+1.  Polizeibehörden,
 
 
 2.  Staatsanwaltschaften,
@@ -1645,7 +1743,7 @@ wird:
 5.  Justizvollzugsbehörden,
 
 
-6.  Verfassungsschutzbehörden des Bundes und der Länder,
+6.  Verfassungsschutzbehörden,
 
 
 7.  Bundesnachrichtendienst,
@@ -1660,10 +1758,13 @@ wird:
 10. Hauptzollämter,
 
 
-11. Finanzbehörden, soweit sie strafverfolgend tätig sind, oder
+11. Finanzbehörden, soweit sie strafverfolgend tätig sind,
 
 
-12. Bundesamt für Justiz, soweit es Aufgaben der Vollstreckungshilfe nach
+12. Zentralstelle für Sanktionsdurchsetzung oder
+
+
+13. Bundesamt für Justiz, soweit es Aufgaben der Vollstreckungshilfe nach
     dem Rahmenbeschluss 2005/214/JI des Rates vom 24. Februar 2005 über
     die Anwendung des Grundsatzes der gegenseitigen Anerkennung von
     Geldstrafen und Geldbußen (ABl. L 76 vom 22.3.2005, S. 16), der durch
@@ -1700,10 +1801,56 @@ Abweichend von den Sätzen 1 und 2 wird bei Übermittlungsersuchen einer
 in Absatz 4 Satz 1 genannten Stelle ausschließlich die veranlassende
 Stelle unterrichtet und angehört.
 
-(6) Datenübermittlungen und Auskünfte von Meldebehörden an andere
-öffentliche Stellen im Inland sind gebührenfrei. Landesrechtliche
+(6) Datenübermittlungen von Meldebehörden nach Absatz 2 an andere
+öffentliche Stellen im Inland sind gebührenfrei. Im Fall des Absatzes
+2 Satz 5 Nummer 1 gilt dies jedoch nur, wenn die Meldebehörde die
+Gründe für die fehlende Nutzung des automatisierten Abrufs oder der
+elektronischen Datenübertragung zu verantworten hat. Landesrechtliche
 Regelungen zur Gebührenerhebung bei Datenübermittlungen aus zentralen
-Meldedatenbeständen oder Portalen auf Landesebene bleiben unberührt.
+Meldebeständen oder Portalen auf Landesebene bleiben unberührt.
+
+
+#### § 34a Personensuche und freie Suche im automatisierten Abruf
+
+(1) Ein Abruf ist nur zulässig, soweit die Daten der abrufenden Stelle
+zur Erfüllung ihrer Aufgaben bekannt sein müssen.
+
+(2) Zu einer namentlich bestimmten Person (Personensuche) dürfen alle
+Daten nach § 34 Absatz 1 Satz 1 abgerufen werden. Die in § 34 Absatz 4
+Satz 1 genannten Behörden dürfen auch die Daten nach § 34 Absatz 1
+Satz 2 abrufen.
+
+(3) Zu einer Vielzahl von Personen, die nicht namentlich bestimmt sind
+(freie Suche), dürfen nur die Daten nach § 34 Absatz 1 Satz 1 Nummer 1
+bis 7, Nummer 8 mit Ausnahme der Daten nach § 3 Absatz 2 Nummer 5, 16
+sowie die Anschrift der derzeitigen Haupt- oder alleinigen Wohnung
+abgerufen werden. Die in § 34 Absatz 4 Satz 1 genannten Behörden
+dürfen auch das Einzugsdatum nach § 34 Absatz 1 Satz 1 Nummer 10 sowie
+die Daten nach § 34 Absatz 1 Satz 2 Nummer 1, 3 und 4 abrufen.
+
+(4) Der Abruf weiterer Daten und Hinweise nach Absatz 2 ist zulässig,
+soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem auch
+Anlass und Zweck der Übermittlung, der Datenempfänger und die zu
+übermittelnden Daten festgelegt sind.
+
+(5) Ist im Melderegister eine Auskunftssperre nach § 51 eingetragen,
+erhält die abrufende Stelle eine Mitteilung, die keine Rückschlüsse
+darauf zulassen darf, ob zu der betroffenen Person keine Daten
+vorhanden sind oder ob eine Auskunftssperre besteht (neutrale
+Antwort). Der Abruf ist in diesen Fällen von der Meldebehörde wie ein
+Ersuchen um manuelle Datenübermittlung zu behandeln. Die Daten nach §
+34 Absatz 1 Satz 1 Nummer 11, 13 und 14 werden nicht übermittelt, wenn
+für diesen Personenkreis eine Auskunftssperre nach § 51 gespeichert
+ist.
+
+(6) Ist die abrufende Stelle eine der in § 34 Absatz 4 Satz 1 Nummer 1
+und 6 bis 9 genannten Behörden und ist im Melderegister eine
+Auskunftssperre eingetragen, die nicht auf Veranlassung einer der in §
+34 Absatz 5 Satz 1 genannten Behörden von Amts wegen eingetragen
+wurde, so wird der abrufenden Stelle abweichend von Absatz 5 eine
+Auskunft erteilt, wenn sichergestellt ist, dass die Leitung der
+abrufenden Stelle oder von ihr hierzu besonders ermächtigte
+Bedienstete die Daten erhält oder erhalten.
 
 
 #### § 35 Datenübermittlungen an ausländische Stellen
@@ -1763,100 +1910,107 @@ die erforderlichen technischen und organisatorischen Maßnahmen nach
 den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 schriftlich
 festzulegen. Die abrufberechtigte Stelle darf von der Möglichkeit des
 Datenabrufs nur Gebrauch machen, wenn dies im Einzelfall zur Erfüllung
-ihrer Aufgaben erforderlich ist.
+ihrer Aufgaben erforderlich ist. § 34a Absatz 5 gilt entsprechend.
 
 
-#### § 38 Automatisierter Abruf
+#### § 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen
 
-(1) Die Meldebehörde darf einer anderen öffentlichen Stelle folgende
-Daten durch automatisierte Abrufverfahren übermitteln (einfache
-Behördenauskunft):
+(1) Für automatisierte Abrufe von Daten mittels Personensuche sind aus
+dem Datenkatalog nach § 34 Absatz 1 Satz 1 folgende Auswahldaten zu
+verwenden:
 
-1.  Familienname,
+1.  hinsichtlich des Namens
 
-
-2.  frühere Namen,
-
-
-3.  Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
+    a)  der Familienname und mindestens ein Vorname,
 
 
-4.  Ordensname, Künstlername,
+    b)  ein früherer Name und mindestens ein Vorname,
 
 
-5.  Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
-    Staat,
+    c)  der Ordensname oder
 
 
-6.  Doktorgrad,
-
-
-7.  Geschlecht,
-
-
-8.  derzeitige Anschriften oder Wegzugsanschrift, gekennzeichnet nach
-    Haupt- und Nebenwohnung,
-
-
-9.  Sterbedatum und Sterbeort sowie
-
-
-10. bedingte Sperrvermerke nach § 52.
+    d)  der Künstlername sowie
 
 
 
 
-(2) Ein Abruf ist nur zulässig, soweit diese Daten der abrufenden
-Stelle zur Erfüllung ihrer Aufgaben bekannt sein müssen. Ist im
-Melderegister eine Auskunftssperre nach § 51 eingetragen, erhält die
-abrufende Stelle eine Mitteilung, die keine Rückschlüsse darauf
-zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind
-oder eine Auskunftssperre besteht; in diesen Fällen ist der Abruf von
-der Meldebehörde wie ein Ersuchen um Datenübermittlung nach § 34 zu
-behandeln.
 
-(3) Den in § 34 Absatz 4 Satz 1 genannten Behörden dürfen darüber
-hinaus durch das automatisierte Abrufverfahren folgende Daten
-übermittelt werden:
+2.  zusätzlich zu den Angaben nach Nummer 1
 
-1.  derzeitige Staatsangehörigkeiten,
+    a)  eine Anschrift oder
 
 
-2.  frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung,
+    b)  ein Wohnort und mindestens eines der folgenden Daten:
+
+        aa) Straße,
 
 
-3.  Einzugsdatum und Auszugsdatum,
+        bb) Geburtsdatum,
 
 
-4.  Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer
-    des Personalausweises, vorläufigen Personalausweises oder Ersatz-
-    Personalausweises, des anerkannten Passes oder Passersatzpapiers und
+        cc) Geburtsort sowie bei Geburt im Ausland auch den Staat,
 
 
-5.  Daten nach § 3 Absatz 2 Nummer 7 und 8.
+        dd) Geschlecht,
+
+
+        ee) Sterbedatum,
+
+
+        ff) Sterbeort sowie bei Versterben im Ausland auch den Staat.
 
 
 
 
-(4) Als Auswahldaten für Abrufe dürfen die in § 34 Absatz 4 Satz 1
-genannten Behörden Daten nach § 34 Absatz 1 verwenden, alle übrigen
-öffentlichen Stellen nur den Familiennamen, frühere Namen, Vornamen,
-das Geschlecht, das Geburtsdatum und den Geburtsort sowie bei Geburt
-im Ausland auch den Staat und die derzeitige oder eine frühere
-Anschrift. Für Familiennamen, frühere Namen und Vornamen ist eine
-phonetische Suche zulässig. Werden auf Grund eines Abrufs die
-Datensätze mehrerer Personen angezeigt, darf die abrufberechtigte
-Stelle diese Daten nur in dem Umfang verwenden, der zur Erfüllung der
-ihr durch Rechtsvorschrift übertragenen Aufgaben erforderlich ist.
-Nicht erforderliche Daten sind unverzüglich zu löschen.
 
-(5) Die Übermittlung weiterer Daten und Hinweise durch automatisierte
-Abrufverfahren nach den Absätzen 1 bis 3 ist zulässig, soweit dies
-durch Bundes- oder Landesrecht bestimmt ist, in dem auch Anlass und
-Zweck der Übermittlungen, der Empfänger und die zu übermittelnden
-Daten festgelegt sind. Die Verwendung von weiteren Auswahldaten nach
-Absatz 4 ist zulässig, soweit dies durch Bundes- oder Landesrecht
-bestimmt ist, in dem auch Anlass und Zweck des Abrufs festgelegt sind.
+
+
+
+
+Die AZR-Nummer darf in den Fällen und nach Maßgabe des § 10 Absatz 4
+Satz 1 und 2 Nummer 4 des AZR-Gesetzes nur zum Zweck der eindeutigen
+Zuordnung als zusätzliches Auswahldatum verwendet werden. Für
+Familiennamen, frühere Namen und Vornamen sowie für Ordens- und
+Künstlernamen ist eine phonetische Suche zulässig.
+
+(2) Für automatisierte Abrufe und für Ersuchen um Übermittlung von
+Daten mittels freier Suche sollen vorbehaltlich des Satzes 2
+verwenden:
+
+1.  die in § 34 Absatz 4 Satz 1 genannten Behörden alle verfügbaren Daten
+    nach § 34 Absatz 1 Satz 1 und die Daten nach § 34 Absatz 1 Satz 2
+    Nummer 3,
+
+
+2.  alle übrigen öffentlichen Stellen nur die verfügbaren Daten nach § 34
+    Absatz 1 Satz 1.
+
+
+
+Die Daten beigeschriebener Personen nach § 34 Absatz 1 Satz 1 Nummer
+11, 13 und 14, das Datum des letzten Wegzugs aus einer Wohnung im
+Inland und das Datum des letzten Zuzugs aus dem Ausland nach § 34
+Absatz 1 Satz 1 Nummer 10 sowie Auskunftssperren nach § 51 und
+bedingte Sperrvermerke nach § 52 sind als Auswahldaten nicht zulässig.
+Für Familiennamen, frühere Namen und Vornamen sowie für Ordens- und
+Künstlernamen ist eine phonetische Suche zulässig.
+
+(3) Die Verwendung von weiteren Auswahldaten nach den Absätzen 1 und 2
+ist zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist,
+in dem auch Anlass und Zweck des Abrufs festgelegt sind.
+
+(4) Werden auf Grund eines automatisierten Abrufs die Datensätze
+mehrerer Personen angezeigt, darf die abrufberechtigte Stelle diese
+Daten nur in dem Umfang verwenden, der zur Erfüllung der ihr durch
+Rechtsvorschrift übertragenen Aufgaben erforderlich ist. Nicht
+erforderliche Daten sind unverzüglich zu löschen.
+
+(5) Die abrufende Stelle kann für den Fall einer neutralen Antwort auf
+eine weitere Bearbeitung der Anfrage durch die Meldebehörde
+verzichten. Die Pflicht zur unverzüglichen Unterrichtung der
+veranlassenden Stelle nach § 34 Absatz 5 Satz 1 und 3 bleibt
+unberührt.
 
 
 #### § 39 Verfahren des automatisierten Abrufs
@@ -1864,20 +2018,15 @@ bestimmt ist, in dem auch Anlass und Zweck des Abrufs festgelegt sind.
 (1) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die
 abrufberechtigte Stelle durch geeignete technische und
 organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
-Verordnung (EU) 2016/679 sicherzustellen, dass Daten nur von hierzu
-befugten Personen abgerufen werden können. § 10 Absatz 2 gilt
-entsprechend. Zusätzlich darf über die Identität der abrufenden Stelle
-kein Zweifel bestehen. § 3 des Gesetzes über die Verbindung der
-informationstechnischen Netze des Bundes und der Länder – Gesetz zur
-Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August
-2009 (BGBl. I S. 2702) in der jeweils geltenden Fassung bleibt
-unberührt.
+Verordnung (EU) 2016/679 sicherzustellen, dass Daten nur durch hierzu
+befugte Personen abgerufen werden können und dass nur die Daten
+abgerufen werden, die für ihre Aufgabenerfüllung erforderlich sind.
 
-(2) Werden auf Grund eines automatisierten Abrufs nach § 38 Absatz 1
-bis 3 die Datensätze von unterschiedlichen Personen gefunden, dürfen
-hierzu Identifikationsmerkmale gebildet und übermittelt werden. Zur
-Bildung dieser Identifikationsmerkmale dürfen die in § 3 genannten
-Daten nicht verarbeitet werden. Der Empfänger der Daten darf das
+(2) Werden auf Grund eines automatisierten Abrufs nach § 34a die
+Datensätze von unterschiedlichen Personen gefunden, werden hierzu
+Identifikationsmerkmale gebildet und übermittelt. Zur Bildung dieser
+Identifikationsmerkmale dürfen die in § 3 genannten Daten nicht
+verarbeitet werden. Der Empfänger der Daten darf das
 Identifikationsmerkmal nur an die Meldebehörde übermitteln.
 
 (3) Für die in § 34 Absatz 4 Satz 1 genannten sowie weitere durch
@@ -1894,10 +2043,35 @@ automatisierten Abrufs trägt die abrufende Stelle. Die Meldebehörde
 überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
 
 
-#### § 40 Protokollierungspflicht bei automatisiertem Abruf
+#### § 39a Datenbestätigung für öffentliche Stellen
 
-(1) Die Meldebehörde hat bei einem automatisierten Abruf von Daten
-einer einzelnen Person Folgendes zu protokollieren:
+(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
+die sie von einer anderen öffentlichen Stelle im Wege einer
+maschinellen Anfrage erhält, automatisiert auf Übereinstimmung mit den
+im Melderegister gespeicherten Daten prüfen, soweit eine
+Datenübermittlung nach § 34 zulässig wäre. Für die Auswahldaten, die
+der Anfrage um Datenbestätigung zugrunde gelegt werden dürfen, gilt §
+38 Absatz 1 entsprechend.
+
+(2) Wird die Person mit den Auswahldaten im Melderegister eindeutig
+identifiziert und stimmen die Daten mit den im Melderegister
+gespeicherten Daten überein, bestätigt die Meldebehörde dies der
+anfragenden Stelle. Werden mit den angegebenen Daten mehrere
+übereinstimmende Datensätze gefunden, teilt die Meldebehörde diese
+Tatsache mit. Ist im Melderegister eine Auskunftssperre nach § 51
+eingetragen oder ist zu der betroffenen Person kein übereinstimmender
+Datensatz vorhanden, erhält die anfragende Stelle eine Mitteilung, die
+keine Rückschlüsse darauf zulassen darf, welcher von beiden Fällen
+vorliegt.
+
+(3) § 34 Absatz 5 und 6 sowie § 39 Absatz 1, 3 und 4 sind entsprechend
+anzuwenden.
+
+
+#### § 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung
+
+(1) Die Meldebehörde hat bei einer Personensuche im automatisierten
+Abruf und bei einer Datenbestätigung Folgendes zu protokollieren:
 
 1.  die abrufberechtigte Stelle,
 
@@ -1908,22 +2082,59 @@ einer einzelnen Person Folgendes zu protokollieren:
 3.  den Zeitpunkt des Abrufs,
 
 
-4.  soweit vorhanden, das Aktenzeichen der abrufenden Behörde und
+4.  das Aktenzeichen der abrufenden Behörde,
 
 
-5.  die Kennung der abrufenden Person.
+5.  den Anlass des Abrufs,
+
+
+6.  die Kennung der abrufenden Person oder bei einem maschinellen Abruf
+    die Bezeichnung des Verfahrens und
+
+
+7.  die nach den Auswahldaten als abrufbar gekennzeichneten Datensätze der
+    gefundenen Personen (Treffer).
 
 
 
 
-(2) Werden Daten über eine Vielzahl nicht näher bezeichneter Personen
-nach § 34 Absatz 2 abgerufen, sind zusätzlich der Anlass, die
-Abrufkriterien und die Anzahl der Treffer zu protokollieren.
+(2) Bei einer freien Suche im automatisierten Abruf sind
 
-(3) Ist die abrufende Stelle eine der in § 34 Absatz 4 Satz 1
-genannten Behörden, hat sie die Protokollierung vorzunehmen.
+1.  zusätzlich zu Absatz 1 Nummer 1 bis 6 die verwendeten Auswahldaten zu
+    protokollieren und
 
-(4) Die Protokolldaten sind mindestens zwölf Monate aufzubewahren und
+
+2.  statt der Treffer nach Absatz 1 Nummer 7 die als abrufbar
+    gekennzeichneten Datensätze der gefundenen nicht namentlich bestimmten
+    Personen (Ergebnisse) zu protokollieren.
+
+
+
+
+(3) Ist die abrufende oder maschinell anfragende Stelle eine der in §
+34 Absatz 4 Satz 1 genannten Behörden, hat sie die Protokollierung
+vorzunehmen.
+
+(4) Die Meldebehörde hat bei einem automatisierten Datenabruf durch
+die betroffene Person über ein Verwaltungsportal (§ 2 Absatz 2 des
+Onlinezugangsgesetzes) Folgendes zu protokollieren:
+
+1.  Familienname, Vornamen, Geburtsdatum sowie die Anschrift der
+    derzeitigen Haupt- oder alleinigen Wohnung der betroffenen Person,
+
+
+2.  die Art der Dienstleistung,
+
+
+3.  die abgerufenen Daten und
+
+
+4.  den Zeitpunkt des Abrufs.
+
+
+
+
+(5) Die Protokolldaten sind mindestens zwölf Monate aufzubewahren und
 zu sichern. Sie sind spätestens zum Ende des Kalenderjahres zu
 löschen, das auf die Speicherung folgt. Die Protokolldaten dürfen nur
 für Zwecke der Datenschutzkontrolle, hieraus folgender Strafverfahren,
@@ -2036,43 +2247,49 @@ regelmäßig übermitteln:
 
 
 (2) Haben Mitglieder einer öffentlich-rechtlichen
-Religionsgesellschaft Familienangehörige, die nicht derselben oder
-keiner öffentlich-rechtlichen Religionsgesellschaft angehören, darf
-die Meldebehörde von diesen Familienangehörigen folgende Daten
-übermitteln:
+Religionsgesellschaft Familienangehörige, darf die Meldebehörde von
+diesen Familienangehörigen folgende Daten übermitteln:
 
-1.  Vor- und Familiennamen,
+1.  Familiennamen,
 
 
-2.  Geburtsdatum und Geburtsort,
+2.  frühere Namen,
 
 
-3.  Geschlecht,
+3.  Vornamen,
 
 
-4.  Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft,
+4.  Geburtsdatum und Geburtsort,
 
 
-5.  derzeitige Anschriften und letzte frühere Anschrift,
+5.  Geschlecht,
 
 
-6.  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+6.  Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft,
 
 
-7.  Sterbedatum.
+7.  derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung,
+    und letzte frühere Anschrift,
+
+
+8.  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+
+9.  Sterbedatum.
 
 
 
 
 (3) Familienangehörige im Sinne des Absatzes 2 sind der Ehegatte oder
 Lebenspartner, minderjährige Kinder und die Eltern von minderjährigen
-Kindern. Die betroffenen Personen haben das Recht, der Übermittlung
-ihrer Daten zu widersprechen; sie sind auf dieses Recht bei der
-Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche
-Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend.
-Satz 2 gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts
-der jeweiligen öffentlich-rechtlichen Religionsgesellschaft
-übermittelt werden.
+Kindern. Familienangehörige, die nicht derselben oder keiner
+öffentlich-rechtlichen Religionsgesellschaft angehören, haben das
+Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf
+dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal
+jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2
+Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten für Zwecke
+des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen
+Religionsgesellschaft übermittelt werden.
 
 (4) Für Datenübermittlungen nach den Absätzen 1 und 2 gilt § 34 Absatz
 5 entsprechend.
@@ -2095,71 +2312,7 @@ zum Datenschutz getroffen sind. Die Feststellung hierüber trifft eine
 durch Landesrecht zu bestimmende Behörde.
 
 
-#### § 43 Datenübermittlungen an die Suchdienste
-
-(1) Die Meldebehörde darf den Suchdiensten zur Erfüllung ihrer
-öffentlich-rechtlichen Aufgaben regelmäßig folgende Daten von den
-Personen, die aus den in § 1 Absatz 2 Nummer 3 des
-Bundesvertriebenengesetzes bezeichneten Gebieten stammen, übermitteln:
-
-1.  Familienname,
-
-
-2.  frühere Namen,
-
-
-3.  Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
-
-
-4.  Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
-    Staat,
-
-
-5.  derzeitige und frühere Anschriften,
-
-
-6.  Anschrift am 1. September 1939.
-
-
-
-
-(2) Die Meldebehörde darf den Suchdiensten zur Erfüllung ihrer
-öffentlich-rechtlichen Aufgaben über die in Absatz 1 genannten Daten
-hinaus folgende Daten durch das automatisierte Abrufverfahren
-übermitteln:
-
-1.  Geschlecht,
-
-
-2.  derzeitige Staatsangehörigkeiten,
-
-
-3.  Einzugsdatum und Auszugsdatum.
-
-
-
-Als Auswahldaten für Abrufe dürfen die Suchdienste neben den nach § 38
-Absatz 4 Satz 1 allen öffentlichen Stellen zur Verfügung stehenden
-Daten die folgenden verwenden:
-
-1.  bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im
-    Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland
-    und den Staat,
-
-
-2.  Einzugsdatum und Auszugsdatum,
-
-
-3.  derzeitige Staatsangehörigkeiten,
-
-
-4.  Familienstand,
-
-
-5.  Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den
-    Staat.
-
-
+#### § 43 (weggefallen)
 
 
 
@@ -2469,6 +2622,36 @@ Nummer 1 können folgende Daten zusätzlich verwendet werden:
 
 (6) § 10 Absatz 2 und § 40 gelten entsprechend.
 
+(7) Die anfragende Person oder Stelle nach § 44 Absatz 1 Satz 1 kann
+für den Fall einer neutralen Antwort auf eine weitere Bearbeitung der
+Anfrage durch die Meldebehörde verzichten. Die Pflicht zur
+unverzüglichen Unterrichtung der betroffenen Person und der
+veranlassenden Stelle nach § 51 Absatz 3 bleibt unberührt.
+
+
+#### § 49a Datenbestätigung
+
+(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
+die sie im Wege einer maschinellen Anfrage erhält, automatisiert auf
+Übereinstimmung mit den im Melderegister gespeicherten Daten prüfen,
+soweit eine einfache Melderegisterauskunft zulässig wäre.
+
+(2) Wird eine Person mit den Auswahldaten im Melderegister eindeutig
+identifiziert und stimmen die Daten mit den im Melderegister
+gespeicherten Daten überein, bestätigt die Meldebehörde dies der
+anfragenden Person oder Stelle. Ist dies nicht der Fall oder ist im
+Melderegister eine Auskunftssperre nach § 51 oder ein bedingter
+Sperrvermerk nach § 52 eingetragen, erhält die anfragende Person oder
+Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf,
+ob zu der betroffenen Person keine übereinstimmenden Daten vorhanden
+sind, eine Auskunftssperre oder ein bedingter Sperrvermerk besteht.
+
+(3) Personen, für die eine Auskunftssperre eingetragen ist, sind über
+sie betreffende Anfragen unverzüglich zu unterrichten. § 51 Absatz 3
+und 5 gilt entsprechend.
+
+(4) § 10 Absatz 2 sowie § 40 Absatz 1, 3 und 4 gelten entsprechend.
+
 
 #### § 50 Melderegisterauskünfte in besonderen Fällen
 
@@ -2635,8 +2818,8 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11.
 Dezember 2001 (BGBl. I S. 3510), das durch Artikel 2 Absatz 12 des
 Gesetzes vom 19. Februar 2007 (BGBl. I S. 122) geändert worden ist, in
 der jeweils geltenden Fassung bleiben von den Regelungen zu
-Datenübermittlungen und Datenweitergabe nach den §§ 34, 36 bis 38 und
-49 unberührt.
+Datenübermittlungen und Datenweitergabe nach den §§ 34, 34a, 36, 37
+und 49 unberührt.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
@@ -2723,10 +2906,9 @@ Fall gelten die §§ 4, 5, 6 Absatz 2 Satz 1 und 2 sowie die §§ 7, 8,
 10, 11 und 40 entsprechend.
 
 (4) Durch Landesrecht kann das Muster der Meldescheine für die
-Meldungen nach § 17 Absatz 1 und 2 Satz 1, der einfachen
-Meldebescheinigung nach § 18 Absatz 1, der Meldebestätigung nach § 24
-Absatz 2 und der besonderen Meldescheine nach § 30 Absatz 1 bestimmt
-werden.
+Meldungen nach § 17 Absatz 1 und 2 Satz 1, der Meldebescheinigung nach
+§ 18 Absatz 1, der Meldebestätigung nach § 24 Absatz 2 und der
+besonderen Meldescheine nach § 30 Absatz 1 bestimmt werden.
 
 (5) Durch Landesrecht können regelmäßige Datenübermittlungen nach § 36
 Absatz 1 im Rahmen der Erfüllung von Aufgaben der Länder geregelt
@@ -2734,15 +2916,15 @@ werden, soweit dadurch Anlass und Zweck der Übermittlung festgelegt
 und der Empfänger sowie die zu übermittelnden Daten bestimmt werden.
 
 (6) Durch Landesrecht kann die Übermittlung weiterer Daten und
-Hinweise nach § 38 Absatz 5 Satz 1 im Rahmen der Erfüllung von
-Aufgaben der Länder geregelt werden, soweit dadurch Anlass und Zweck
-der Übermittlung festgelegt und der Empfänger sowie die zu
-übermittelnden Daten bestimmt werden.
+Hinweise nach § 34a Absatz 4 im Rahmen der Erfüllung von Aufgaben der
+Länder geregelt werden, soweit dadurch Anlass und Zweck der
+Übermittlung festgelegt und der Empfänger sowie die zu übermittelnden
+Daten bestimmt werden.
 
 (7) Durch Landesrecht kann bestimmt werden, welche weiteren Daten nach
-§ 38 Absatz 5 Satz 2 im Rahmen der Erfüllung von Aufgaben der Länder
-als Auswahldaten für Abrufe zulässig sind, soweit dadurch Anlass und
-Zweck des Abrufs bestimmt werden.
+§ 38 Absatz 3 im Rahmen der Erfüllung von Aufgaben der Länder als
+Auswahldaten für Abrufe zulässig sind, soweit dadurch Anlass und Zweck
+des Abrufs bestimmt werden.
 
 (8) Durch Landesrecht kann bestimmt werden, welche sonstigen Stellen
 nach § 39 Absatz 3 Daten zum Abruf anbieten. Sofern bestimmt wird,
@@ -2780,7 +2962,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 4.  zur Durchführung von Datenübermittlungen zwischen Meldebehörden und
-    einem Verwaltungsportal nach § 3 Absatz 2 des Onlinezugangsgesetzes
+    einem Verwaltungsportal nach § 2 Absatz 2 des Onlinezugangsgesetzes
     vom 14. August 2017 (BGBl. I S. 3122, 3138), die zur Erbringung von
     elektronischen Verwaltungsleistungen nach diesem Gesetz erforderlich
     sind, die zu übermittelnden Daten, ihre Form sowie das Nähere über das

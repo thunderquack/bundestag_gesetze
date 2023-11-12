@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 572
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 V v. 26.11.2021 I 4982, 5204
-
-Änderung durch
-:   Art. 3 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 5.1.2022 I 2
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein

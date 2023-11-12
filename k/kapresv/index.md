@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 58
 
-Geändert durch
-:   Art. 1 V v. 16.10.2020 I 2202
+Zuletzt geändert durch
+:   Art. 6 G v. 19.7.2022 I 1214
 
 
 ## Eingangsformel
@@ -335,9 +335,11 @@ und Termine nach Absatz 1 anpassen.
 vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4 –
 folgende Anforderungen erfüllen:
 
-1.  Anschluss an ein Elektrizitätsversorgungsnetz im Bundesgebiet, das im
-    Normalschaltzustand über nicht mehr als zwei Umspannungen mit der
-    Höchstspannungsebene verbunden ist,
+1.  Anschluss an ein Elektrizitätsversorgungsnetz im Bundesgebiet oder im
+    Gebiet des Großherzogtums Luxemburg, das im Normalschaltzustand über
+    nicht mehr als zwei Umspannungen unmittelbar mit der
+    Höchstspannungsebene eines deutschen oder luxemburgischen
+    Übertragungsnetzbetreibers verbunden ist,
 
 
 2.  Anfahrzeit von maximal 12 Stunden; wobei Erzeugungsanlagen und
@@ -643,9 +645,10 @@ Dem Gebot sind in geeigneter Form beizufügen:
 
 
 3.  Nachweise über den Anschluss an ein Netz der allgemeinen Versorgung im
-    Bundesgebiet, das im Normalschaltzustand über nicht mehr als zwei
-    Umspannungen mit der Höchstspannungsebene verbunden ist,
-    einschließlich Angaben zum netztechnischen Standort,
+    Bundesgebiet oder im Gebiet des Großherzogtums Luxemburg, das im
+    Normalschaltzustand unmittelbar mit der Höchstspannungsebene eines
+    deutschen oder luxemburgischen Übertragungsnetzbetreibers verbunden
+    ist, einschließlich Angaben zum netztechnischen Standort,
 
 
 4.  Angaben zu dem Netzbetreiber, an dessen Netz die Anlage angeschlossen

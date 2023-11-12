@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1045
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 8 G v. 27.9.2021 I 4530
-
-Änderung durch
-:   Art. 1 G v. 22.11.2021 I 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.12.2021 I 5162 (Nr. 83) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 10.12.2021 I 5162 (Nr. 83) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 17.7.2023 I Nr. 190
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -239,7 +230,7 @@ individuellen Infektionsschutzes sowie über Beratungs-, Betreuungs-
 und Versorgungsangebote zu informieren.
 
 
-## 2. Abschnitt - Koordinierung und epidemische Lage von nationaler Tragweite
+## 2. Abschnitt - Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
 
 
 
@@ -269,7 +260,7 @@ eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder
 eingerichtet, die die Amtshilfe nach Satz 5 und die Zusammenarbeit mit
 den zuständigen Landesbehörden und die Zusammenarbeit bei der
 Umsetzung des elektronischen Melde- und Informationssystems nach § 14
-innerhalb der vom gemeinsamen Planungsrat nach § 14 Absatz 1 Satz 7
+innerhalb der vom gemeinsamen Planungsrat nach § 14 Absatz 1 Satz 8
 getroffenen Leitlinien koordiniert.
 
 (1a) Das Bundesministerium für Gesundheit legt dem Deutschen Bundestag
@@ -514,9 +505,9 @@ der Länder ermächtigt,
     b)  abweichend von der Approbationsordnung für Ärzte die Regelstudienzeit,
         die Zeitpunkte und die Anforderungen an die Durchführung der einzelnen
         Abschnitte der Ärztlichen Prüfung und der Eignungs- und
-        Kenntnisprüfung festzulegen und zu regeln, dass Medizinstudierenden
-        infolge einer notwendigen Mitwirkung an der Gesundheitsversorgung
-        keine Nachteile für den Studienfortschritt entstehen,
+        Kenntnisprüfung, der Famulatur und der praktischen Ausbildung
+        festzulegen und alternative Lehrformate vorzusehen, um die Fortführung
+        des Studiums zu gewährleisten,
 
 
     c)  abweichend von der Approbationsordnung für Zahnärzte, sofern sie nach
@@ -546,23 +537,10 @@ der Länder ermächtigt,
         der Eignungs- und Kenntnisprüfung, des Krankenpflegedienstes und der
         Famulatur festzulegen und alternative Lehrformate vorzusehen, um die
         Fortführung des Studiums und die Durchführung der Prüfungen zu
-        gewährleisten,
+        gewährleisten;
 
 
-    g)  Vorgaben festzulegen zur
-
-        aa) Erfassung, Aufrechterhaltung und Sicherung intensivmedizinischer
-            Behandlungskapazitäten in Krankenhäusern,
-
-
-        bb) Meldung der Auslastung dieser Kapazitäten an eine vom
-            Bundesministerium für Gesundheit zu bestimmende Stelle und
-
-
-        cc) zu den Folgen unterlassener oder verspäteter Meldungen;
-
-
-
+    g)  (weggefallen)
 
 
 
@@ -726,13 +704,6 @@ Ausbildungen:
 
 
 
-Das Bundesministerium für Gesundheit wird abweichend von Satz 1
-ermächtigt, eine Rechtsverordnung nach Satz 1 Nummer 7 Buchstabe b bis
-f auch nach Aufhebung der Feststellung der epidemischen Lage von
-nationaler Tragweite durch den Deutschen Bundestag nach Absatz 1 Satz
-2 zu erlassen, soweit Regelungen nach Satz 1 Nummer 7 Buchstabe b bis
-f im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder
-ihrer Folgen erforderlich sind.
 
 (3) Rechtsverordnungen nach Absatz 2, insbesondere nach Nummer 3, 4, 7
 und 8, bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit
@@ -752,33 +723,48 @@ Lage von nationaler Tragweite außer Kraft. Abweichend von Satz 1
 
 1.  bleibt eine Übergangsregelung in der Verordnung nach Absatz 2 Satz 1
     Nummer 7 Buchstabe b bis f bis zum Ablauf der Phase des Studiums in
-    Kraft, für die sie gilt, und
+    Kraft, für die sie gilt,
 
 
-2.  tritt eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer
-    10 erlassene Verordnung spätestens ein Jahr nach Aufhebung der
+2.  tritt eine auf Grund des Absatzes 2 Satz 1 Nummer 7 Buchstabe g in der
+    bis zum 16. September 2022 geltenden Fassung oder von Nummer 10
+    erlassene Rechtsverordnung spätestens ein Jahr nach Aufhebung der
     Feststellung der epidemischen Lage von nationaler Tragweite außer
-    Kraft.
+    Kraft,
+
+
+3.  tritt eine auf Grund des Absatzes 2 Satz 1 Nummer 4 Buchstabe f und
+    Nummer 7 Buchstabe a erlassene Rechtsverordnung spätestens mit Ablauf
+    des 7. April 2023 außer Kraft und
+
+
+4.  tritt eine auf Grund des Absatzes 2 Satz 1 Nummer 4 Buchstabe a bis e
+    und g erlassene Rechtsverordnung spätestens mit Ablauf des 31.
+    Dezember 2023 außer Kraft.
 
 
 
-Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz
-1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung auch
-nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert
-werden. Nach Absatz 2 Satz 1 getroffene Anordnungen gelten mit
+Bis zu ihrem jeweiligen Außerkrafttreten kann eine auf Grund des
+Absatzes 2 Satz 1 Nummer 4 Buchstabe f und Nummer 7 Buchstabe a oder
+eine auf Grund des Absatzes 2 Satz 1 Nummer 10 erlassene
+Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
+Finanzen geändert werden. Das Bundesministerium für Gesundheit wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates ausschließlich
+zur Abwicklung einer auf Grund des Absatzes 2 Satz 1 Nummer 4
+Buchstabe f und Nummer 7 Buchstabe a erlassenen Rechtsverordnung zu
+bestimmen, dass Regelungen dieser Rechtsverordnung, die die Abrechnung
+und die Prüfung bereits erbrachter Leistungen, die Zahlung aus der
+Liquiditätsreserve des Gesundheitsfonds sowie die Erstattung dieser
+Zahlungen aus Bundesmitteln betreffen, bis zum 7. April 2024
+fortgelten. Nach Absatz 2 Satz 1 getroffene Anordnungen gelten mit
 Aufhebung der Feststellung der epidemischen Lage von nationaler
-Tragweite als aufgehoben. Abweichend von Satz 4 gilt eine Anordnung
-nach Absatz 2 Satz 1 Nummer 6 spätestens ein Jahr nach der Aufhebung
-der Feststellung der epidemischen Lage von nationaler Tragweite als
-aufgehoben. Nach Absatz 2 Satz 1 Nummer 6 getroffene Anordnungen
-können auch bis spätestens ein Jahr nach Aufhebung der epidemischen
-Lage von nationaler Tragweite geändert werden. Eine Anfechtungsklage
-gegen Anordnungen nach Absatz 2 Satz 1 hat keine aufschiebende
-Wirkung. Eine auf Grund des Absatzes 2 Satz 3 erlassene
-Rechtsverordnung tritt spätestens mit Ablauf des 31. März 2022 außer
-Kraft. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt
-zu machenden Beschluss einmalig die Frist nach Satz 8 um sechs Monate
-verlängern.
+Tragweite als aufgehoben. Abweichend von Satz 5 gilt eine Anordnung
+nach Absatz 2 Satz 1 Nummer 6 spätestens mit Ablauf des 31. Dezember
+2023 als aufgehoben. Nach Absatz 2 Satz 1 Nummer 6 getroffene
+Anordnungen können auch bis spätestens 31. Dezember 2023 geändert
+werden. Eine Anfechtungsklage gegen Anordnungen nach Absatz 2 Satz 1
+hat keine aufschiebende Wirkung.
 
 (5) Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2
 Satz 1 des Grundgesetzes) wird im Rahmen des Absatzes 2 insoweit
@@ -900,6 +886,162 @@ Schutzmasken müssen einem in der Anlage genannten Maskentyp
 entsprechen.
 
 
+### § 5c Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+
+(1) Niemand darf bei einer ärztlichen Entscheidung über die Zuteilung
+aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandener
+überlebenswichtiger intensivmedizinischer Behandlungskapazitäten
+(Zuteilungsentscheidung) benachteiligt werden, insbesondere nicht
+wegen einer Behinderung, des Grades der Gebrechlichkeit, des Alters,
+der ethnischen Herkunft, der Religion oder Weltanschauung, des
+Geschlechts oder der sexuellen Orientierung. Überlebenswichtige
+intensivmedizinische Behandlungskapazitäten sind im Sinne des Satzes 1
+in einem Krankenhaus nicht ausreichend vorhanden, wenn
+
+1.  der überlebenswichtige intensivmedizinische Behandlungsbedarf der
+    Patientinnen und Patienten des Krankenhauses mit den dort vorhandenen
+    überlebenswichtigen intensivmedizinischen Behandlungskapazitäten nicht
+    gedeckt werden kann und
+
+
+2.  eine anderweitige intensivmedizinische Behandlung der betroffenen
+    Patientinnen und Patienten nicht möglich ist, insbesondere, weil eine
+    Verlegung nicht in Betracht kommt
+
+    a)  aus gesundheitlichen Gründen oder
+
+
+    b)  da die regionalen und überregionalen intensivmedizinischen
+        Behandlungskapazitäten nach den dem Krankenhaus vorliegenden
+        Erkenntnissen ausgeschöpft sind.
+
+
+
+
+
+
+
+(2) Eine Zuteilungsentscheidung darf nur aufgrund der aktuellen und
+kurzfristigen Überlebenswahrscheinlichkeit der betroffenen
+Patientinnen und Patienten getroffen werden. Komorbiditäten dürfen bei
+der Beurteilung der aktuellen und kurzfristigen
+Überlebenswahrscheinlichkeit nur berücksichtigt werden, soweit sie
+aufgrund ihrer Schwere oder Kombination die auf die aktuelle Krankheit
+bezogene kurzfristige Überlebenswahrscheinlichkeit erheblich
+verringern. Kriterien, die sich auf die aktuelle und kurzfristige
+Überlebenswahrscheinlichkeit nicht auswirken, wie insbesondere eine
+Behinderung, das Alter, die verbleibende mittel- oder langfristige
+Lebenserwartung, der Grad der Gebrechlichkeit und die Lebensqualität,
+dürfen bei der Beurteilung der aktuellen und kurzfristigen
+Überlebenswahrscheinlichkeit nicht berücksichtigt werden. Bereits
+zugeteilte überlebenswichtige intensivmedizinische
+Behandlungskapazitäten sind von der Zuteilungsentscheidung
+ausgenommen.
+
+(3) Die Zuteilungsentscheidung ist einvernehmlich von zwei Ärztinnen
+oder Ärzten zu treffen, die
+
+1.  Fachärztinnen oder Fachärzte sind,
+
+
+2.  im Bereich Intensivmedizin praktizieren,
+
+
+3.  über mehrjährige Erfahrung im Bereich Intensivmedizin verfügen und
+
+
+4.  die von der Zuteilungsentscheidung betroffenen Patientinnen und
+    Patienten unabhängig voneinander begutachtet haben.
+
+
+
+Besteht kein Einvernehmen, sind die von der Zuteilungsentscheidung
+betroffenen Patientinnen und Patienten von einer weiteren gleich
+qualifizierten Ärztin oder einem weiteren gleich qualifizierten Arzt
+zu begutachten und ist die Zuteilungsentscheidung mehrheitlich zu
+treffen. Von den an der Zuteilungsentscheidung beteiligten Ärztinnen
+und Ärzten darf nur eine Ärztin oder ein Arzt in die unmittelbare
+Behandlung der von der Zuteilungsentscheidung betroffenen Patientinnen
+oder Patienten eingebunden sein. Ist eine Patientin oder ein Patient
+mit einer Behinderung oder einer Komorbidität von der
+Zuteilungsentscheidung betroffen, muss die Einschätzung einer
+hinzuzuziehenden Person berücksichtigt werden, durch deren
+Fachexpertise den besonderen Belangen dieser Patientin oder dieses
+Patienten Rechnung getragen werden kann. Die Begutachtung der von der
+Zuteilungsentscheidung betroffenen Patientinnen und Patienten, die
+Mitwirkung an der Zuteilungsentscheidung sowie die Hinzuziehung nach
+Satz 4 kann in Form einer telemedizinischen Konsultation erfolgen.
+
+(4) Die oder der im Zeitpunkt der Zuteilungsentscheidung für die
+Behandlung der betroffenen Patientinnen und Patienten verantwortliche
+Ärztin oder Arzt hat Folgendes zu dokumentieren:
+
+1.  die der Zuteilungsentscheidung zugrunde gelegten Umstände sowie
+
+
+2.  welche Personen an der Zuteilungsentscheidung mitgewirkt haben und
+    hinzugezogen wurden und wie sie abgestimmt oder Stellung genommen
+    haben.
+
+
+
+Die §§ 630f und 630g des Bürgerlichen Gesetzbuchs finden entsprechende
+Anwendung.
+
+(5) Krankenhäuser mit intensivmedizinischen Behandlungskapazitäten
+sind verpflichtet, in einer Verfahrensanweisung mindestens Folgendes
+festzulegen:
+
+1.  ein Verfahren zur Benennung der Ärztinnen und Ärzte, die für die
+    Mitwirkung an der Zuteilungsentscheidung zuständig sind, und
+
+
+2.  die organisatorische Umsetzung der Entscheidungsabläufe nach Absatz 3.
+
+
+
+Sie haben die Einhaltung der Verfahrensanweisung sicherzustellen und
+müssen die Verfahrensanweisungen mindestens einmal im Jahr auf
+Weiterentwicklungsbedarf überprüfen und anpassen.
+
+(6) Krankenhäuser sind verpflichtet, eine Zuteilungsentscheidung
+unverzüglich der für die Krankenhausplanung zuständigen Landesbehörde
+anzuzeigen und ihr mitzuteilen, weshalb im Zeitpunkt der
+Zuteilungsentscheidung überlebenswichtige intensivmedizinische
+Behandlungskapazitäten nicht ausreichend vorhanden waren, um die für
+die Krankenhausplanung zuständige Landesbehörde in die Lage zu
+versetzen, im Rahmen ihrer Zuständigkeit tätig zu werden.
+
+(7) Das Bundesministerium für Gesundheit beauftragt innerhalb von
+sechs Monaten, nachdem erstmals einer für die Krankenhausplanung
+zuständigen Landesbehörde eine Zuteilungsentscheidung angezeigt wurde,
+spätestens jedoch bis zum 31. Dezember 2025, eine externe Evaluation
+dieser Vorschrift. Gegenstand der Evaluation sind insbesondere
+
+1.  die Erreichung der Ziele, Vorkehrungen zum Schutz vor Diskriminierung
+    zu schaffen und Rechtssicherheit für die handelnden Ärztinnen und
+    Ärzte zu gewährleisten, und
+
+
+2.  die Auswirkungen der Vorschrift und der nach Absatz 5 Satz 1 zu
+    erstellenden Verfahrensanweisungen auf die medizinische Praxis unter
+    Berücksichtigung der praktischen Umsetzbarkeit.
+
+
+
+Die Evaluation wird interdisziplinär insbesondere auf Grundlage
+rechtlicher, medizinischer und ethischer Erkenntnisse durch
+unabhängige Sachverständige durchgeführt, die jeweils zur Hälfte von
+dem Bundesministerium für Gesundheit und dem Deutschen Bundestag
+benannt werden. Die Sachverständigen haben bundesweite Verbände,
+Fachkreise und Selbstvertretungsorganisationen, deren Belange von der
+Vorschrift besonders berührt sind, angemessen zu beteiligen. Das
+Bundesministerium für Gesundheit übermittelt dem Deutschen Bundestag
+spätestens ein Jahr nach der Beauftragung das Ergebnis der Evaluation
+sowie eine Stellungnahme des Bundesministeriums für Gesundheit zu
+diesem Ergebnis.
+
+
 ## 3. Abschnitt - Überwachung
 
 
@@ -969,6 +1111,9 @@ entsprechen.
 
 
     t)  Coronavirus-Krankheit-2019 (COVID-19),
+
+
+    u)  durch Orthopockenviren verursachte Krankheiten,
 
 
 
@@ -1085,7 +1230,11 @@ die Nachweise auf eine akute Infektion hinweisen:
 6.  Campylobacter sp., darmpathogen
 
 
-6a. Chikungunya-Virus
+6a. Candida auris; Meldepflicht nur für den direkten Nachweis aus Blut
+    oder anderen normalerweise sterilen Substraten
+
+
+6b. Chikungunya-Virus
 
 
 7.  Chlamydia psittaci
@@ -1199,10 +1348,19 @@ die Nachweise auf eine akute Infektion hinweisen:
 36. Norovirus
 
 
+36a. Orthopockenviren
+
+
+36b. Plasmodium spp.
+
+
 37. Poliovirus
 
 
 38. Rabiesvirus
+
+
+38a. Respiratorische Synzytial Viren
 
 
 39. Rickettsia prowazekii
@@ -1306,21 +1464,25 @@ oder indirekte Nachweis zu melden:
 3.  Echinococcus sp.
 
 
-4.  Plasmodium sp.
+4.  Toxoplasma gondii; Meldepflicht nur bei konnatalen Infektionen
 
 
-5.  Toxoplasma gondii; Meldepflicht nur bei konnatalen Infektionen
+5.  Neisseria gonorrhoeae,
 
 
-6.  Neisseria gonorrhoeae mit verminderter Empfindlichkeit gegenüber
-    Azithromycin, Cefixim oder Ceftriaxon.
+6.  Chlamydia trachomatis, sofern es sich um einen der Serotypen L1 bis L3
+    handelt.
 
 
 
 Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz
 4, § 10 Absatz 2 zu erfolgen.
 
-(4) (weggefallen)
+(4) Bei Untersuchungen zum direkten Nachweis des Severe-Acute-
+Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2) mittels
+Nukleinsäureamplifikationstechnik ist das Untersuchungsergebnis
+nichtnamentlich zu melden. Die Meldung nach Satz 1 hat gemäß § 8
+Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 3 zu erfolgen.
 
 
 ### § 8 Zur Meldung verpflichtete Personen
@@ -1347,8 +1509,8 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz
     eines Krankheitserregers zu führen,
 
 
-3.  im Falle der §§ 6 und 7 die Leiter von Einrichtungen der pathologisch-
-    anatomischen Diagnostik,
+3.  im Falle der §§ 6 und 7 auch die Leiter von Einrichtungen der
+    pathologisch-anatomischen Diagnostik,
 
 
 4.  im Falle des § 6 Absatz 1 Satz 1 Nr. 4 und im Falle des § 7 Absatz 1
@@ -1356,21 +1518,25 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz
     auch der Tierarzt,
 
 
-5.  im Falle des § 6 Absatz 1 Satz 1 Nr. 1, 2 und 5 und Abs. 3 Angehörige
-    eines anderen Heil- oder Pflegeberufs, der für die Berufsausübung oder
-    die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung
-    oder Anerkennung erfordert,
+5.  im Falle des § 6 Absatz 1 Satz 1 Nr. 1, 2 und 5 und Absatz 3 auch
+    Angehörige eines anderen Heil- oder Pflegeberufs, der für die
+    Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich
+    geregelte Ausbildung oder Anerkennung erfordert,
 
 
-6.  (weggefallen)
+6.  im Falle des § 6 Absatz 1 Satz 1 Nummer 3 auch die für die
+    Durchführung der Schutzimpfung verantwortliche Person; bei
+    Schutzimpfungen, die durch Apotheker für öffentliche Apotheken
+    durchgeführt werden, anstelle der für die Schutzimpfung
+    verantwortlichen Person der Leiter der öffentlichen Apotheke,
 
 
-7.  im Fall des § 6 Absatz 1 Satz 1 Nummer 1, 2 und 5 die Leiter von den
-    in § 36 Absatz 1 Nummer 1 bis 7 genannten Einrichtungen und
-    Unternehmen,
+7.  im Fall des § 6 Absatz 1 Satz 1 Nummer 1, 2 und 5 auch die Leiter von
+    den in § 35 Absatz 1 Satz 1 und § 36 Absatz 1 genannten Einrichtungen
+    und Unternehmen,
 
 
-8.  im Falle des § 6 Absatz 1 Satz 1 der Heilpraktiker.
+8.  im Falle des § 6 Absatz 1 Satz 1 auch der Heilpraktiker.
 
 
 
@@ -1420,8 +1586,9 @@ Angaben enthalten:
 
 
     f)  Tätigkeit in Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1
-        oder nach § 36 Absatz 1 und 2 mit Namen, Anschrift und weiteren
-        Kontaktdaten der Einrichtung oder des Unternehmens,
+        oder nach § 35 Absatz 1 Satz 1 oder § 36 Absatz 1 oder Absatz 2 mit
+        Namen, Anschrift und weiteren Kontaktdaten der Einrichtung oder des
+        Unternehmens,
 
 
     g)  Tätigkeit nach § 42 Absatz 1 bei akuter Gastroenteritis, bei akuter
@@ -1431,9 +1598,10 @@ Angaben enthalten:
 
 
     h)  Betreuung oder Unterbringung in oder durch Einrichtungen oder
-        Unternehmen nach § 23 Absatz 5 Satz 1 oder § 36 Absatz 1 oder Absatz 2
-        mit Name, Anschrift und weiteren Kontaktdaten der Einrichtungen oder
-        Unternehmen sowie der Art der Einrichtung oder des Unternehmens,
+        Unternehmen nach § 23 Absatz 5 Satz 1 oder § 35 Absatz 1 Satz 1 oder §
+        36 Absatz 1 oder Absatz 2 mit Name, Anschrift und weiteren
+        Kontaktdaten der Einrichtungen oder Unternehmen sowie der Art der
+        Einrichtung oder des Unternehmens,
 
 
     i)  Diagnose oder Verdachtsdiagnose,
@@ -1532,6 +1700,10 @@ genannte Person muss, soweit vorliegend, folgende Angaben enthalten:
 
 
     j)  erkennbare Zugehörigkeit zu einer Erkrankungshäufung,
+
+
+    k)  bei Plasmodium spp.: Angaben zu einer zum wahrscheinlichen Zeitpunkt
+        der Infektion erfolgten Maßnahme der spezifischen Prophylaxe,
 
 
 
@@ -1660,7 +1832,7 @@ bestimmt die technischen Übermittlungsstandards. Die Meldung muss
 folgende Angaben enthalten:
 
 1.  in den Fällen des § 7 Absatz 3 Satz 1 Nummer 2 eine fallbezogene
-    Pseudonymisierung nach Absatz 3,
+    Pseudonymisierung,
 
 
 2.  Geschlecht der betroffenen Person,
@@ -1691,7 +1863,11 @@ folgende Angaben enthalten:
 10. Staat, in dem die Infektion wahrscheinlich erfolgt ist,
 
 
-11. bei Malaria Angaben zur Expositions- und Chemoprophylaxe,
+11. bei Treponema pallidum, HIV und Neisseria gonorrhoeae Angaben zu einer
+    zum wahrscheinlichen Zeitpunkt der Infektion erfolgten Maßnahme der
+    spezifischen Prophylaxe und bei Neisseria gonorrhoeae Angaben zu einer
+    vorliegenden verminderten Empfindlichkeit gegenüber Azithromycin,
+    Cefixim oder Ceftriaxon,
 
 
 12. Name, Anschrift und weitere Kontaktdaten des Einsenders und
@@ -1705,20 +1881,49 @@ Der Einsender hat den Meldenden bei den Angaben nach Satz 3 zu
 unterstützen und diese Angaben gegebenenfalls zu vervollständigen. § 9
 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
-(3) Die fallbezogene Pseudonymisierung besteht aus dem dritten
-Buchstaben des ersten Vornamens in Verbindung mit der Anzahl der
-Buchstaben des ersten Vornamens sowie dem dritten Buchstaben des
-ersten Nachnamens in Verbindung mit der Anzahl der Buchstaben des
-ersten Nachnamens. Bei Doppelnamen wird jeweils nur der erste Teil des
-Namens berücksichtigt; Umlaute werden in zwei Buchstaben dargestellt.
-Namenszusätze bleiben unberücksichtigt. § 14 Absatz 3 bleibt
-unberührt. Angaben nach den Sätzen 1 bis 3 und die Angaben zum Monat
-der Geburt dürfen vom Robert Koch-Institut lediglich zu der Prüfung,
-ob verschiedene Meldungen sich auf denselben Fall beziehen,
-verarbeitet werden. Sie sind zu löschen, sobald nicht mehr zu erwarten
-ist, dass die damit bewirkte Einschränkung der Prüfung nach Satz 5
-eine nicht unerhebliche Verfälschung der aus den Meldungen zu
-gewinnenden epidemiologischen Beurteilung bewirkt.
+(3) Die nichtnamentliche Meldung nach § 7 Absatz 4 Satz 1 muss
+spätestens 24 Stunden, nachdem der Meldende Kenntnis von dem
+Untersuchungsergebnis erlangt hat, an das Robert Koch-Institut
+erfolgen. Die Meldung muss folgende Angaben enthalten:
+
+1.  Geschlecht der betroffenen Person,
+
+
+2.  Monat und Jahr der Geburt der betroffenen Person,
+
+
+3.  die ersten drei Ziffern der Postleitzahl der Hauptwohnung oder des
+    gewöhnlichen Aufenthaltsortes der betroffenen Person,
+
+
+4.  Untersuchungsbefund einschließlich Typisierungsergebnissen,
+
+
+5.  Art des Untersuchungsmaterials,
+
+
+6.  Name, Anschrift und weitere Kontaktdaten des Meldenden,
+
+
+7.  Grund der Untersuchung.
+
+
+
+
+(4) Die fallbezogene Pseudonymisierung nach Absatz 2 Satz 3 Nummer 1
+besteht aus dem dritten Buchstaben des ersten Vornamens in Verbindung
+mit der Anzahl der Buchstaben des ersten Vornamens sowie dem dritten
+Buchstaben des ersten Nachnamens in Verbindung mit der Anzahl der
+Buchstaben des ersten Nachnamens. Bei Doppelnamen wird jeweils nur der
+erste Teil des Namens berücksichtigt; Umlaute werden in zwei
+Buchstaben dargestellt. Namenszusätze bleiben unberücksichtigt. § 14
+Absatz 3 bleibt unberührt. Angaben nach den Sätzen 1 bis 3 und die
+Angaben zum Monat der Geburt dürfen vom Robert Koch-Institut lediglich
+zu der Prüfung, ob verschiedene Meldungen sich auf denselben Fall
+beziehen, verarbeitet werden. Sie sind zu löschen, sobald nicht mehr
+zu erwarten ist, dass die damit bewirkte Einschränkung der Prüfung
+nach Satz 5 eine nicht unerhebliche Verfälschung der aus den Meldungen
+zu gewinnenden epidemiologischen Beurteilung bewirkt.
 
 
 ### § 11 Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
@@ -1757,7 +1962,8 @@ folgenden Angaben übermittelt:
 
     f)  gegebenenfalls Informationen zur Art der Einrichtung bei Tätigkeit,
         Betreuung oder Unterbringung in Einrichtungen und Unternehmen nach §
-        23 Absatz 3 Satz 1, Absatz 5 Satz 1 oder § 36 Absatz 1 und 2,
+        23 Absatz 3 Satz 1, Absatz 5 Satz 1 oder § 35 Absatz 1 Satz 1 oder §
+        36 Absatz 1 oder Absatz 2,
 
 
     g)  in Deutschland: Gemeinde mit zugehörigem amtlichem achtstelligem
@@ -1793,6 +1999,10 @@ folgenden Angaben übermittelt:
     m)  Gemeinde mit zugehörigem amtlichem achtstelligem Gemeindeschlüssel der
         Hauptwohnung oder des gewöhnlichen Aufenthaltsortes und, falls
         abweichend, des derzeitigen Aufenthaltsortes,
+
+
+    n)  bei Plasmodium spp.: Angaben zu einer zum wahrscheinlichen Zeitpunkt
+        der Infektion erfolgten Maßnahme der spezifischen Prophylaxe,
 
 
 
@@ -1910,21 +2120,20 @@ Gesundheitsvorschriften (2005) und nimmt die Aufgaben nach § 4 Absatz
 1 Nummer 1 des IGV-Durchführungsgesetzes wahr.
 
 (2) Im Hinblick auf Gefahren biologischen oder unbekannten Ursprungs
-nach Artikel 2 Absatz 1 Buchstabe a oder d des Beschlusses Nr.
-1082/2013/EU des Europäischen Parlaments und des Rates vom 22. Oktober
-2013 zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren und
-zur Aufhebung der Entscheidung Nr. 2119/98/EG (ABl. L 293 vom
-5\.11.2013, S. 1; L 231 vom 4.9.2015, S. 16) übermittelt die zuständige
-Behörde der zuständigen Landesbehörde unverzüglich alle Angaben, die
-für Übermittlungen nach den Artikeln 6 bis 9 des Beschlusses Nr.
-1082/2013/EU erforderlich sind. Die zuständige Landesbehörde
-übermittelt diese Angaben unverzüglich dem Robert Koch-Institut. Für
-die Übermittlung an das Robert Koch-Institut kann das Robert Koch-
-Institut die technischen Übermittlungsstandards bestimmen. Das
-Robert Koch-Institut ist in dem in Satz 1 genannten Bereich der
-Gefahren biologischen oder unbekannten Ursprungs die zuständige
-nationale Behörde im Sinne der Artikel 6 und 8 bis 10 des Beschlusses
-Nr. 1082/2013/EU.
+nach Artikel 2 Absatz 1 Buchstabe a oder d der Verordnung (EU)
+2022/2371 des Europäischen Parlaments und des Rates vom 23. November
+2022 zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren und
+zur Aufhebung des Beschlusses Nr. 1082/2013/EU (ABl. L 314 vom
+6\.12.2022, S. 26) übermittelt die zuständige Behörde der zuständigen
+Landesbehörde unverzüglich alle Angaben, die für Übermittlungen nach
+den Artikeln 13, 14 und 17 bis 19 der Verordnung (EU) 2022/2371
+erforderlich sind. Die zuständige Landesbehörde übermittelt diese
+Angaben unverzüglich dem Robert Koch-Institut. Für die Übermittlung an
+das Robert Koch-Institut kann das Robert Koch-Institut die technischen
+Übermittlungsstandards bestimmen. Das Robert Koch-Institut ist in dem
+in Satz 1 genannten Bereich der Gefahren biologischen oder unbekannten
+Ursprungs die zuständige nationale Behörde im Sinne der Artikel 13 und
+18 bis 20 der Verordnung (EU) 2022/2371.
 
 (3) Abweichungen von den Regelungen des Verwaltungsverfahrens in
 Absatz 1 Satz 1 bis 5 und Absatz 2 Satz 1 bis 3 durch Landesrecht sind
@@ -1945,31 +2154,31 @@ Gesundheit kann im Benehmen mit den jeweils zuständigen obersten
 Landesgesundheitsbehörden festlegen, welche Krankheiten und
 Krankheitserreger durch Erhebungen nach Satz 1 überwacht werden.
 
-(2) Das Robert Koch-Institut kann insbesondere nach Absatz 1 zur
-Überwachung übertragbarer Krankheiten in Zusammenarbeit mit
-ausgewählten Einrichtungen der Gesundheitsvorsorge oder -versorgung
-Sentinel-Erhebungen zu Personen, die diese Einrichtungen unabhängig
-von der Erhebung in Anspruch nehmen, koordinieren und durchführen zur
-Ermittlung
-
-1.  der Verbreitung übertragbarer Krankheiten, wenn diese Krankheiten von
-    großer gesundheitlicher Bedeutung für das Gemeinwohl sind, und
-
-
-2.  des Anteils der Personen, der gegen bestimmte Erreger nicht immun ist,
-    sofern dies notwendig ist, um die Gefährdung der Bevölkerung durch
-    diese Krankheitserreger zu bestimmen.
-
-
-
-Die Sentinel-Erhebungen können auch über anonyme unverknüpfbare
-Testungen an Restblutproben oder anderem geeigneten Material erfolgen.
-Werden personenbezogene Daten verwendet, die bereits bei der Vorsorge
-oder Versorgung erhoben wurden, sind diese zu anonymisieren. Daten,
-die eine Identifizierung der in die Untersuchung einbezogenen Personen
-erlauben, dürfen nicht erhoben werden. Die obersten
-Landesgesundheitsbehörden können zusätzliche Sentinel-Erhebungen
-durchführen.
+(2) Das Robert Koch-Institut und die Länder können zur Überwachung
+übertragbarer Krankheiten Sentinel-Erhebungen und insbesondere
+Testungen und Befragungen bei bestimmten Personengruppen mit
+Einwilligung der jeweils betroffenen Person sowie Testungen an
+bestimmten Wasserproben in bestimmten Gebietskörperschaften
+durchführen. Die Erhebungen nach Satz 1 können in Zusammenarbeit mit
+ausgewählten Einrichtungen der Gesundheitsvorsorge und
+gesundheitlichen sowie pflegerischen Versorgung zu Personen
+stattfinden, die diese Einrichtungen unabhängig von der Sentinel-
+Erhebung in Anspruch nehmen. Die Erhebungen nach Satz 1 können auch
+über anonyme unverknüpfbare Testungen an Restblutproben oder anderem
+geeigneten Material erfolgen. Sentinel-Erhebungen an Abwasserproben
+können in Zusammenarbeit mit ausgewählten Einrichtungen der
+Abwasserbeseitigung und -analytik stattfinden. Werden personenbezogene
+Daten verwendet, die bereits bei der Vorsorge oder Versorgung erhoben
+wurden, sind diese zu anonymisieren. Daten, die eine Identifizierung
+der in die Erhebungen einbezogenen Personen erlauben, dürfen nicht
+erhoben werden. Das Bundesministerium für Gesundheit wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen,
+dass und auf welche Weise bestimmte in den Sätzen 2 und 4 genannte
+Einrichtungen verpflichtet sind, an den Sentinel-Erhebungen
+mitzuwirken. Die Rechtsverordnung nach Satz 7 bedarf des Einvernehmens
+mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz, soweit Sentinel-Erhebungen nach Satz 4
+betroffen sind.
 
 (3) Für Zwecke weiterer Untersuchungen und der Verwahrung können die
 in § 23 Absatz 3 Satz 1 genannten Einrichtungen sowie Laboratorien
@@ -2061,13 +2270,13 @@ Grund der Rechtsverordnung nach Satz 2 übermittelten pseudonymisierten
 Daten ist für den jeweiligen Empfänger der Daten auszuschließen.
 
 (5) Die Kassenärztlichen Vereinigungen und, soweit die Angaben bei
-ihnen vorliegen, die für die Durchführung von Impfleistungen
-eingerichteten Impfzentren haben für Zwecke der Feststellung der
-Inanspruchnahme von Schutzimpfungen und von Impfeffekten
-(Impfsurveillance) dem Robert Koch-Institut und für Zwecke der
-Überwachung der Sicherheit von Impfstoffen (Pharmakovigilanz) dem
-Paul-Ehrlich-Institut in von diesen festgelegten Zeitabständen
-folgende Angaben zu übermitteln:
+ihnen vorliegen, die für die Durchführung von Schutzimpfungen
+verantwortlichen Einrichtungen und Personen haben für Zwecke der
+Feststellung der Inanspruchnahme von Schutzimpfungen und von
+Impfeffekten (Impfsurveillance) dem Robert Koch-Institut und für
+Zwecke der Überwachung der Sicherheit von Impfstoffen
+(Pharmakovigilanz) dem Paul-Ehrlich-Institut in von diesen
+festgelegten Zeitabständen folgende Angaben zu übermitteln:
 
 1.  Patienten-Pseudonym,
 
@@ -2081,7 +2290,8 @@ folgende Angaben zu übermitteln:
 4.  fünfstellige Postleitzahl und Landkreis des Patienten,
 
 
-5.  Landkreis des behandelnden Arztes oder des Impfzentrums,
+5.  Landkreis des behandelnden Arztes oder der für die Schutzimpfung
+    verantwortlichen Einrichtung oder Person,
 
 
 6.  Fachrichtung des behandelnden Arztes,
@@ -2104,22 +2314,26 @@ folgende Angaben zu übermitteln:
 
 10. bei Schutzimpfungen gegen Severe-Acute-Respiratory-Syndrome-
     Coronavirus-2 (SARS-CoV-2) zusätzlich die impfstoffspezifische
-    Dokumentationsnummer, die Chargennummer, die Indikation sowie den
-    Beginn oder den Abschluss der Impfserie.
+    Dokumentationsnummer, die Chargennummer, die Indikation sowie die
+    genaue Stellung der Impfung in der Impfserie.
 
 
 
-Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass
-Personen oder Einrichtungen, die für die Durchführung von
-Schutzimpfungen verantwortlich sind, bestimmte Angaben nach Satz 1 zu
-von ihnen durchgeführten Schutzimpfungen für Zwecke der
-Impfsurveillance und der Pharmakovigilanz an das Robert Koch-Institut,
-an das Paul-Ehrlich-Institut oder an die zuständige Kassenärztliche
-Vereinigung zu übermitteln haben. Die Kassenärztlichen Vereinigungen
-sind befugt, die ihnen nach Satz 2 übermittelten Daten zu verarbeiten,
-soweit es erforderlich ist, um ihre Verpflichtung nach Satz 1 zu
-erfüllen. Das Robert Koch-Institut bestimmt die technischen
+Die Kassenärztlichen Vereinigungen und die zur Durchführung von
+Schutzimpfungen verantwortlichen Einrichtungen und Personen dürfen
+personenbezogene Daten verarbeiten, soweit es erforderlich ist, um
+ihre Verpflichtung nach Satz 1 zu erfüllen. Das Bundesministerium für
+Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Folgendes festzulegen:
+
+1.  das Nähere zum Verfahren der Übermittlung der Angaben nach Satz 1,
+
+
+2.  Ausnahmen zu den nach Satz 1 zu übermittelnden Angaben.
+
+
+
+Das Robert Koch-Institut bestimmt die technischen
 Übermittlungsstandards für die im Rahmen der Impfsurveillance und der
 Pharmakovigilanz zu übermittelnden Daten sowie das Verfahren zur
 Bildung des Patienten-Pseudonyms nach Satz 1 Nummer 1. Eine
@@ -2163,6 +2377,56 @@ Robert Koch-Institut bestimmt das Robert Koch-Institut die technischen
 obersten und oberen Bundesbehörden für den gleichen Zweck übermittelt
 werden.
 
+(7) Für Zwecke der Feststellung der Auslastung der
+Krankenhauskapazitäten (Krankenhauskapazitätssurveillance) sind
+Krankenhäuser verpflichtet, folgende Angaben an das Robert Koch-
+Institut zu übermitteln:
+
+1.  nach Maßgabe der Rechtsverordnung nach Satz 4 die für die Ermittlung
+    der nichtintensivmedizinischen somatischen Behandlungskapazitäten
+    erforderlichen Angaben,
+
+
+2.  sofern das Krankenhaus intensivmedizinische Behandlungskapazitäten
+    vorhält, nach Maßgabe der Rechtsverordnung nach Satz 4 die für die
+    Ermittlung der intensivmedizinischen Behandlungskapazitäten
+    erforderlichen Angaben und
+
+
+3.  sofern das Krankenhaus eine Notaufnahme vorhält, nach Maßgabe der
+    Rechtsverordnung nach Satz 4 die für die Ermittlung der somatischen
+    Behandlungskapazitäten der Notaufnahme erforderlichen Angaben.
+
+
+
+Die Übermittlung nach Satz 1 Nummer 1 und 3 hat über das elektronische
+Melde- und Informationssystem nach § 14 zu erfolgen. Die Übermittlung
+nach Satz 1 Nummer 2 hat an das vom Robert Koch-Institut geführte DIVI
+IntensivRegister zu erfolgen. Das Bundesministerium für Gesundheit
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Folgendes festzulegen:
+
+1.  die für die Ermittlung der nichtintensivmedizinischen somatischen
+    Behandlungskapazitäten erforderlichen Angaben,
+
+
+2.  die für die Ermittlung der intensivmedizinischen
+    Behandlungskapazitäten erforderlichen Angaben,
+
+
+3.  die für die Ermittlung der somatischen Behandlungskapazitäten der
+    Notaufnahme erforderlichen Angaben,
+
+
+4.  wie oft Krankenhäuser verpflichtet sind, Übermittlungen nach Satz 1
+    vorzunehmen, und
+
+
+5.  ein von den Sätzen 2 und 3 abweichendes Verfahren der Übermittlung.
+
+
+
+
 
 ### § 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
 
@@ -2180,18 +2444,20 @@ sobald diese zur Verfügung stehen. Die Gesellschaft für Telematik nach
 das Robert Koch-Institut bei der Entwicklung und dem Betrieb des
 elektronischen Melde- und Informationssystems. Bei der Gesellschaft
 für Telematik unmittelbar für die Erfüllung der Aufgabe nach Satz 5
-entstehende Fremdkosten aus der Beauftragung Dritter werden vom Robert
-Koch-Institut getragen. Für die Zusammenarbeit von Bund und Ländern
-bei der Umsetzung des elektronischen Melde- und Informationssystems
-legt ein gemeinsamer Planungsrat Leitlinien fest. Sofern eine
-Nutzungspflicht für das elektronische Melde- und Informationssystem
-besteht, ist den Anwendern mindestens eine kostenlose Software-Lösung
-bereitzustellen.
+entstehende Kosten werden vom Robert Koch-Institut getragen. Das
+Robert Koch-Institut legt die Einzelheiten der Kostenerstattung im
+Einvernehmen mit der Gesellschaft für Telematik fest. Für die
+Zusammenarbeit von Bund und Ländern bei der Umsetzung des
+elektronischen Melde- und Informationssystems legt ein gemeinsamer
+Planungsrat Leitlinien fest. Sofern eine Nutzungspflicht für das
+elektronische Melde- und Informationssystem besteht, ist den Anwendern
+mindestens eine kostenlose Software-Lösung bereitzustellen.
 
 (2) Im elektronischen Melde- und Informationssystem können
 insbesondere folgende Daten fallbezogen verarbeitet werden:
 
-1.  die Daten, die nach den §§ 6, 7, 34 und 36 erhoben worden sind,
+1.  die Daten, die nach den §§ 6, 7, 34, 35 Absatz 4 und § 36 erhoben
+    worden sind,
 
 
 2.  die Daten, die bei den Meldungen nach dem IGV-Durchführungsgesetz und
@@ -2218,10 +2484,10 @@ insbesondere folgende Daten fallbezogen verarbeitet werden:
 
 (3) Im elektronischen Melde- und Informationssystem werden die
 verarbeiteten Daten, die zu melde- und benachrichtigungspflichtigen
-Tatbeständen nach den §§ 6, 7, 34 und 36 erhoben worden sind, jeweils
-fallbezogen mit den Daten der zu diesem Fall geführten Ermittlungen,
-getroffenen Maßnahmen und den daraus gewonnenen Erkenntnissen
-automatisiert
+Tatbeständen nach den §§ 6, 7, 34, 35 Absatz 4 und § 36 erhoben worden
+sind, jeweils fallbezogen mit den Daten der zu diesem Fall geführten
+Ermittlungen, getroffenen Maßnahmen und den daraus gewonnenen
+Erkenntnissen automatisiert
 
 1.  pseudonymisiert,
 
@@ -2244,16 +2510,16 @@ automatisiert
 
 (4) Im elektronischen Melde- und Informationssystem können die
 verarbeiteten Daten, die zu melde- und benachrichtigungspflichtigen
-Tatbeständen nach den §§ 6, 7, 34 und 36 erhoben worden sind,
-daraufhin automatisiert überprüft werden, ob sich diese Daten auf
-denselben Fall beziehen.
+Tatbeständen nach den §§ 6, 7, 34, 35 Absatz 4 und § 36 erhoben worden
+sind, daraufhin automatisiert überprüft werden, ob sich diese Daten
+auf denselben Fall beziehen.
 
 (5) Im elektronischen Melde- und Informationssystem können die
 verarbeiteten Daten zu meldepflichtigen Krankheiten und Nachweisen von
 Krankheitserregern nach den §§ 6 und 7 und aus Benachrichtigungen nach
-den §§ 34 und 36 daraufhin automatisiert überprüft werden, ob es ein
-gehäuftes Auftreten von übertragbaren Krankheiten gibt, bei denen ein
-epidemischer Zusammenhang wahrscheinlich ist.
+den §§ 34, 35 Absatz 4 und § 36 daraufhin automatisiert überprüft
+werden, ob es ein gehäuftes Auftreten von übertragbaren Krankheiten
+gibt, bei denen ein epidemischer Zusammenhang wahrscheinlich ist.
 
 (6) Der Zugriff auf gespeicherte Daten ist nur im gesetzlich
 bestimmten Umfang zulässig, sofern die Kenntnis der Daten zur
@@ -2299,7 +2565,16 @@ Meldepflichtige nach § 8 Absatz 1 Nummer 2 müssen abweichend von Satz
 2 ihrer Verpflichtung zur Meldung des direkten oder indirekten
 Nachweises einer Infektion mit den in § 7 Absatz 3 Satz 1 genannten
 Krankheitserregern durch Nutzung des elektronischen Melde- und
-Informationssystems ab dem 1. April 2022 nachkommen. Das Robert Koch-
+Informationssystems ab dem 1. April 2022 nachkommen. Meldepflichtige
+nach § 8 Absatz 1 Nummer 1 müssen, sofern sie in einem Krankenhaus
+tätig sind, abweichend von Satz 2 ihrer Verpflichtung zur Meldung nach
+§ 6 in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) durch
+Nutzung des elektronischen Melde- und Informationssystems ab dem 17.
+September 2022 nachkommen. Meldepflichtige nach § 8 Absatz 1 Nummer 7
+und Benachrichtigungspflichtige nach den §§ 35 und 36 müssen
+abweichend von Satz 2 ihrer Verpflichtung zur Meldung und
+Benachrichtigung durch Nutzung des elektronischen Melde- und
+Informationssystems ab dem 1. Juli 2023 nachkommen. Das Robert Koch-
 Institut bestimmt das technische Format der Daten und das technische
 Verfahren der Datenübermittlung.
 
@@ -2339,6 +2614,67 @@ festzulegen:
 des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
 
+### § 14a Interoperabilität; Verordnungsermächtigung
+
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates zur Förderung der
+Interoperabilität zwischen informationstechnischen Systemen, von
+offenen Standards für informationstechnische Systeme und der
+Integration von Schnittstellen in informationstechnischen Systemen der
+Gesellschaft für Telematik die Aufgabe zuzuweisen, für nicht
+ausschließlich in die Zuständigkeit der Länder fallende
+informationstechnische Systeme, die im Anwendungsbereich dieses
+Gesetzes eingesetzt werden,
+
+1.  einen Bedarf an technischen, semantischen und syntaktischen Standards,
+    Profilen und Leitfäden zu identifizieren sowie zu priorisieren,
+
+
+2.  technische, semantische und syntaktische Standards, Profile und
+    Leitfäden zu prüfen, in dem gebotenen Umfang selbst zu entwickeln und
+    weiterzuentwickeln, den Herstellern und Anwendern von
+    informationstechnischen Systemen zu empfehlen und auf der
+    Wissensplattform nach § 7 Absatz 1 Satz 1 der IOP-Governance-
+    Verordnung zu veröffentlichen.
+
+
+
+Das Bundesministerium für Gesundheit kann in der Rechtsverordnung nach
+Satz 1 festlegen, dass Empfehlungen nach Satz 1 Nummer 2 im
+Anwendungsbereich dieses Gesetzes von Anwendern von
+informationstechnischen Systemen verbindlich zu beachten sind.
+Anwender im Sinne von Satz 2 sind Gesundheitsämter und die zuständigen
+Landesbehörden. In der Rechtsverordnung nach Satz 1 ist das Nähere zu
+regeln zu
+
+1.  den Modalitäten der Abstimmung mit dem Expertengremium nach § 4 Absatz
+    1 der IOP-Governance-Verordnung,
+
+
+2.  den weiteren Einzelheiten der Wahrnehmung der nach Satz 1 zugewiesenen
+    Aufgabe und den hierbei anzuwendenden Verfahren.
+
+
+
+Bei der Gesellschaft für Telematik unmittelbar für die Erfüllung der
+nach Satz 1 zugewiesenen Aufgabe entstehende Kosten werden vom Robert
+Koch-Institut getragen. Das Robert Koch-Institut legt die Einzelheiten
+der Kostenerstattung im Einvernehmen mit der Gesellschaft für
+Telematik fest.
+
+(2) Zum Zwecke der Förderung der Interoperabilität zwischen
+informationstechnischen Systemen und von offenen Standards für
+informationstechnische Systeme und der Integration von Schnittstellen
+in informationstechnischen Systemen sowie zum Zwecke der Optimierung
+des nach § 14 Absatz 1 Satz 1 eingerichteten elektronischen Melde- und
+Informationssystems sammeln und konsolidieren die Länder auf
+Anforderung des Robert Koch-Instituts technische und funktionale
+Anforderungen an nach § 14 Absatz 1 Satz 9 bereitzustellende
+kostenlose Software-Lösungen und übermitteln diese einheitlich
+abgestimmt an das Robert Koch-Institut, soweit die Anforderungen nicht
+ausschließlich in die Zuständigkeit der Länder fallen.
+
+
 ### § 15 Anpassung der Meldepflicht an die epidemische Lage
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
@@ -2374,26 +2710,26 @@ Rechtsverordnung auf andere Stellen übertragen.
 ### § 15a Durchführung der infektionshygienischen und hygienischen Überwachung
 
 (1) Bei der Durchführung der folgenden infektionshygienischen oder
-hygienischen Überwachungen unterliegen Personen, die über Tatsachen
+hygienischen Überwachung unterliegen Personen, die über Tatsachen
 Auskunft geben können, die für die jeweilige Überwachung von Bedeutung
 sind, den in Absatz 2 genannten Pflichten und haben die mit der
 jeweiligen Überwachung beauftragten Personen die in Absatz 3 genannten
 Befugnisse:
 
 1.  infektionshygienische Überwachung durch das Gesundheitsamt nach § 23
-    Absatz 6 und 6a,
+    Absatz 6,
 
 
-2.  infektionshygienische Überwachung durch das Gesundheitsamt nach § 36
-    Absatz 1 und 2,
+2.  infektionshygienische Überwachung durch das Gesundheitsamt nach § 35
+    Absatz 1 Satz 3 und § 36 Absatz 1 und 2,
 
 
-3.  hygienische Überwachung durch das Gesundheitsamt nach § 37 Absatz 3
-    und
+3.  hygienische Überwachung durch das Gesundheitsamt oder die sonst
+    zuständige Behörde nach § 37 Absatz 3 und
 
 
-4.  infektionshygienische Überwachung durch die zuständige Behörde nach §
-    41 Absatz 1 Satz 2.
+4.  infektionshygienische Überwachung durch die zuständige Behörde nach
+    § 41 Absatz 1 Satz 2.
 
 
 
@@ -2403,13 +2739,13 @@ Befugnisse:
 Überwachung beauftragten Personen auf Verlangen die erforderlichen
 Auskünfte insbesondere über den Betrieb und den Betriebsablauf
 einschließlich dessen Kontrolle zu erteilen und Unterlagen
-einschließlich dem tatsächlichen Stand entsprechende technische Pläne
-vorzulegen. Der Verpflichtete kann die Auskunft auf solche Fragen
-verweigern, deren Beantwortung ihn selbst oder einen der in § 52
-Absatz 1 der Strafprozessordnung bezeichneten Angehörigen der Gefahr
-aussetzen würde, wegen einer Straftat oder einer Ordnungswidrigkeit
-verfolgt zu werden; Entsprechendes gilt für die Vorlage von
-Unterlagen.
+einschließlich des tatsächlichen Standes entsprechende technische
+Pläne vorzulegen. Der Verpflichtete kann die Auskunft auf solche
+Fragen verweigern, deren Beantwortung ihn selbst oder einen der in §
+52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen der
+Gefahr aussetzen würde, wegen einer Straftat oder einer
+Ordnungswidrigkeit verfolgt zu werden; Entsprechendes gilt für die
+Vorlage von Unterlagen.
 
 (3) Die mit der Überwachung beauftragten Personen sind, soweit dies
 zur Erfüllung ihrer Aufgaben erforderlich ist, befugt,
@@ -2958,7 +3294,7 @@ wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit
 des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen
 Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die
 Einrichtung befindet, darüber zu benachrichtigen und dem
-Gesundheitsamt personenbezogene Daten zu übermitteln. Die oberste
+Gesundheitsamt personenbezogene Angaben zu übermitteln. Die oberste
 Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann
 bestimmen, dass
 
@@ -3021,7 +3357,7 @@ dieses Monats vorgelegt wird oder wenn Zweifel an der Echtheit oder
 inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die
 Leitung der jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in
 dessen Bezirk sich die jeweilige Einrichtung befindet, darüber zu
-benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu
+benachrichtigen und dem Gesundheitsamt personenbezogene Angaben zu
 übermitteln. Absatz 9 Satz 3 gilt entsprechend.
 
 (10) Personen, die am 1. März 2020 bereits in
@@ -3035,7 +3371,7 @@ vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen
 Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der
 jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in dessen
 Bezirk sich die Einrichtung befindet, darüber zu benachrichtigen und
-dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 9
+dem Gesundheitsamt personenbezogene Angaben zu übermitteln. Absatz 9
 Satz 3 und 4 findet entsprechende Anwendung.
 
 (11) Personen, die bereits vier Wochen in Gemeinschaftseinrichtungen
@@ -3058,8 +3394,8 @@ wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit
 des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen
 Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die
 Einrichtung befindet, darüber zu benachrichtigen und dem
-Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 9 Satz 3
-findet entsprechende Anwendung.
+Gesundheitsamt personenbezogene Angaben zu übermitteln. Absatz 9 Satz
+3 findet entsprechende Anwendung.
 
 (12) Folgende Personen haben dem Gesundheitsamt, in dessen Bezirk sich
 die jeweilige Einrichtung befindet, auf Anforderung einen Nachweis
@@ -3088,26 +3424,35 @@ nach Absatz 9 Satz 1 vorzulegen:
 Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des
 vorgelegten Nachweises, so kann das Gesundheitsamt eine ärztliche
 Untersuchung dazu anordnen, ob die betroffene Person auf Grund einer
-medizinischen Kontraindikation nicht gegen Masern geimpft werden kann.
-Wenn der Nachweis nach Absatz 9 Satz 1 nicht innerhalb einer
-angemessenen Frist vorgelegt wird, kann das Gesundheitsamt die zur
-Vorlage des Nachweises verpflichtete Person zu einer Beratung laden
-und hat diese zu einer Vervollständigung des Impfschutzes gegen Masern
-aufzufordern. Das Gesundheitsamt kann einer Person, die trotz der
-Anforderung nach Satz 1 keinen Nachweis innerhalb einer angemessenen
-Frist vorlegt oder der Anordnung einer ärztlichen Untersuchung nach
-Satz 2 nicht Folge leistet, untersagen, dass sie die dem Betrieb einer
-in Absatz 8 Satz 1 genannten Einrichtung dienenden Räume betritt oder
-in einer solchen Einrichtung tätig wird. Einer Person, die einer
-gesetzlichen Schulpflicht unterliegt, kann in Abweichung von Satz 4
-nicht untersagt werden, die dem Betrieb einer Einrichtung nach § 33
-Nummer 3 dienenden Räume zu betreten. Einer Person, die einer
-Unterbringungspflicht unterliegt, kann in Abweichung von Satz 4 nicht
-untersagt werden, die dem Betrieb einer Gemeinschaftseinrichtung nach
-§ 33 Nummer 4 oder einer Einrichtung nach § 36 Absatz 1 Nummer 4
-dienenden Räume zu betreten. Widerspruch und Anfechtungsklage gegen
-eine vom Gesundheitsamt nach Satz 2 erlassene Anordnung oder ein von
-ihm nach Satz 4 erteiltes Verbot haben keine aufschiebende Wirkung.
+medizinischen Kontraindikation nicht gegen Masern geimpft werden kann;
+Personen, die über die Echtheit oder inhaltliche Richtigkeit des
+vorgelegten Nachweises Auskunft geben können, sind verpflichtet, auf
+Verlangen des Gesundheitsamtes die erforderlichen Auskünfte
+insbesondere über die dem Nachweis zugrundeliegenden Tatsachen zu
+erteilen, Unterlagen vorzulegen und Einsicht zu gewähren; § 15a Absatz
+2 Satz 2 gilt entsprechend. Wenn der Nachweis nach Absatz 9 Satz 1
+nicht innerhalb einer angemessenen Frist vorgelegt wird, kann das
+Gesundheitsamt die zur Vorlage des Nachweises verpflichtete Person zu
+einer Beratung laden und hat diese zu einer Vervollständigung des
+Impfschutzes gegen Masern aufzufordern. Das Gesundheitsamt kann einer
+Person, die trotz der Anforderung nach Satz 1 keinen Nachweis
+innerhalb einer angemessenen Frist vorlegt oder der Anordnung einer
+ärztlichen Untersuchung nach Satz 2 nicht Folge leistet, untersagen,
+dass sie die dem Betrieb einer in Absatz 8 Satz 1 genannten
+Einrichtung dienenden Räume betritt oder in einer solchen Einrichtung
+tätig wird. Einer Person, die einer gesetzlichen Schulpflicht
+unterliegt, kann in Abweichung von Satz 4 nicht untersagt werden, die
+dem Betrieb einer Einrichtung nach § 33 Nummer 3 dienenden Räume zu
+betreten. Einer Person, die einer Unterbringungspflicht unterliegt,
+kann in Abweichung von Satz 4 nicht untersagt werden, die dem Betrieb
+einer Gemeinschaftseinrichtung nach § 33 Nummer 4 oder einer
+Einrichtung nach § 36 Absatz 1 Nummer 4 dienenden Räume zu betreten.
+Widerspruch und Anfechtungsklage gegen eine vom Gesundheitsamt nach
+Satz 1 oder Satz 2 erlassene Anordnung oder ein von ihm nach Satz 4
+erteiltes Verbot haben keine aufschiebende Wirkung. Sobald ein
+Nachweis nach Absatz 9 Satz 1 vorgelegt wird, ist die Maßnahme nach
+Satz 4 aufzuheben und das Verwaltungszwangsverfahren mit sofortiger
+Wirkung einzustellen.
 
 (13) Wenn eine nach den Absätzen 9 bis 12 verpflichtete Person
 minderjährig ist, so hat derjenige für die Einhaltung der diese Person
@@ -3122,266 +3467,51 @@ Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes)
 eingeschränkt.
 
 
-### § 20a Immunitätsnachweis gegen COVID-19
+### § 20a (weggefallen)
 
-(1) Folgende Personen müssen ab dem 15. März 2022 entweder geimpfte
-oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der
-COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden
-Fassung sein:
 
-1.  Personen, die in folgenden Einrichtungen oder Unternehmen tätig sind:
 
-    a)  Krankenhäuser,
+### § 20b (weggefallen)
 
 
-    b)  Einrichtungen für ambulantes Operieren,
 
+### § 20c Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
 
-    c)  Vorsorge- oder Rehabilitationseinrichtungen,
-
-
-    d)  Dialyseeinrichtungen,
-
-
-    e)  Tageskliniken,
-
-
-    f)  Entbindungseinrichtungen,
-
-
-    g)  Behandlungs- oder Versorgungseinrichtungen, die mit einer der in den
-        Buchstaben a bis f genannten Einrichtungen vergleichbar sind,
-
-
-    h)  Arztpraxen, Zahnarztpraxen,
-
-
-    i)  Praxen sonstiger humanmedizinischer Heilberufe,
-
-
-    j)  Einrichtungen des öffentlichen Gesundheitsdienstes, in denen
-        medizinische Untersuchungen, Präventionsmaßnahmen oder ambulante
-        Behandlungen durchgeführt werden,
-
-
-    k)  Rettungsdienste,
-
-
-    l)  sozialpädiatrische Zentren nach § 119 des Fünften Buches
-        Sozialgesetzbuch,
-
-
-    m)  medizinische Behandlungszentren für Erwachsene mit geistiger
-        Behinderung oder schweren Mehrfachbehinderungen nach § 119c des
-        Fünften Buches Sozialgesetzbuch,
-
-
-    n)  Einrichtungen der beruflichen Rehabilitation nach § 51 des Neunten
-        Buches Sozialgesetzbuch und Dienste der beruflichen Rehabilitation,
-
-
-    o)  Begutachtungs- und Prüfdienste, die auf Grund der Vorschriften des
-        Fünften Buches Sozialgesetzbuch oder des Elften Buches
-        Sozialgesetzbuch tätig werden,
-
-
-
-
-
-2.  Personen, die in voll- oder teilstationären Einrichtungen zur
-    Betreuung und Unterbringung älterer, behinderter oder
-    pflegebedürftiger Menschen oder in vergleichbaren Einrichtungen tätig
-    sind,
-
-
-3.  Personen, die in ambulanten Pflegediensten und weiteren Unternehmen,
-    die den in Nummer 2 genannten Einrichtungen vergleichbare
-    Dienstleistungen im ambulanten Bereich anbieten, tätig sind; zu diesen
-    Unternehmen gehören insbesondere:
-
-    a)  ambulante Pflegeeinrichtungen gemäß § 72 des Elften Buches
-        Sozialgesetzbuch sowie Einzelpersonen gemäß § 77 des Elften Buches
-        Sozialgesetzbuch,
-
-
-    b)  ambulante Pflegedienste, die ambulante Intensivpflege in
-        Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen
-        Wohnformen erbringen,
-
-
-    c)  Unternehmen, die Assistenzleistungen nach § 78 des Neunten Buches
-        Sozialgesetzbuch erbringen,
-
-
-    d)  Unternehmen, die Leistungen der interdisziplinären Früherkennung und
-        Frühförderung nach § 42 Absatz 2 Nummer 2 des Neunten Buches
-        Sozialgesetzbuch und § 46 des Neunten Buches Sozialgesetzbuch in
-        Verbindung mit der Frühförderungsverordnung oder heilpädagogische
-        Leistungen nach § 79 des Neunten Buches Sozialgesetzbuch erbringen,
-
-
-    e)  Beförderungsdienste, die für Einrichtungen nach Nummer 2 dort
-        behandelte, betreute, gepflegte oder untergebrachte Personen befördern
-        oder die Leistungen nach § 83 Absatz 1 Nummer 1 des Neunten Buches
-        Sozialgesetzbuch erbringen, und
-
-
-    f)  Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach §
-        29 des Neunten Buches Sozialgesetzbuch Personen für die Erbringung
-        entsprechender Dienstleistungen beschäftigen.
-
-
-
-
-
-
-Satz 1 gilt nicht für Personen, die auf Grund einer medizinischen
-Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden
-können.
-
-(2) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen
-oder Unternehmen tätig sind, haben der Leitung der jeweiligen
-Einrichtung oder des jeweiligen Unternehmens bis zum Ablauf des 15.
-März 2022 folgenden Nachweis vorzulegen:
-
-1.  einen Impfnachweis im Sinne des § 2 Nummer 3 der
-    COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden
-    Fassung,
-
-
-2.  einen Genesenennachweis im Sinne des § 2 Nummer 5 der
-    COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden
-    Fassung oder
-
-
-3.  ein ärztliches Zeugnis darüber, dass sie auf Grund einer medizinischen
-    Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden
-    können.
-
-
-
-Wenn der Nachweis nach Satz 1 nicht bis zum Ablauf des 15. März 2022
-vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen
-Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der
-jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich
-das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung
-oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen
-und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Die
-oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle
-kann bestimmen, dass
-
-1.  der Nachweis nach Satz 1 nicht der Leitung der jeweiligen Einrichtung
-    oder des jeweiligen Unternehmens, sondern dem Gesundheitsamt oder
-    einer anderen staatlichen Stelle gegenüber zu erbringen ist,
-
-
-2.  die Benachrichtigung nach Satz 2 nicht durch die Leitung der
-    jeweiligen Einrichtung oder des jeweiligen Unternehmens, sondern durch
-    die nach Nummer 1 bestimmte Stelle zu erfolgen hat,
-
-
-3.  die Benachrichtigung nach Satz 2 nicht gegenüber dem Gesundheitsamt,
-    in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige
-    Unternehmen befindet, sondern gegenüber einer anderen staatlichen
-    Stelle zu erfolgen hat.
-
-
-
-
-(3) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen
-oder Unternehmen ab dem 16. März 2022 tätig werden sollen, haben der
-Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens
-vor Beginn ihrer Tätigkeit einen Nachweis nach Absatz 2 Satz 1
-vorzulegen. Wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit
-des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen
-Einrichtung oder des jeweiligen Unternehmens unverzüglich das
-Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder
-das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem
-Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 2 Satz 3
-gilt entsprechend. Eine Person nach Satz 1, die keinen Nachweis nach
-Absatz 2 Satz 1 vorlegt, darf nicht in den in Absatz 1 Satz 1
-genannten Einrichtungen oder Unternehmen beschäftigt werden. Eine
-Person nach Satz 1, die über keinen Nachweis nach Absatz 2 Satz 1
-verfügt oder diesen nicht vorlegt, darf nicht in den in Absatz 1 Satz
-1 genannten Einrichtungen oder Unternehmen tätig werden. Die oberste
-Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann
-allgemeine Ausnahmen von den Sätzen 4 und 5 zulassen, wenn das Paul-
-Ehrlich-Institut auf seiner Internetseite einen Lieferengpass zu allen
-Impfstoffen mit einer Komponente gegen das Coronavirus SARS-CoV-2, die
-für das Inverkehrbringen in Deutschland zugelassen oder genehmigt
-sind, bekannt gemacht hat; parallel importierte und parallel
-vertriebene Impfstoffe mit einer Komponente gegen das Coronavirus
-SARS-CoV-2 bleiben unberücksichtigt.
-
-(4) Soweit ein Nachweis nach Absatz 2 Satz 1 ab dem 16. März 2022
-seine Gültigkeit auf Grund Zeitablaufs verliert, haben Personen, die
-in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen
-tätig sind, der Leitung der jeweiligen Einrichtung oder des jeweiligen
-Unternehmens einen neuen Nachweis nach Absatz 2 Satz 1 innerhalb eines
-Monats nach Ablauf der Gültigkeit des bisherigen Nachweises
-vorzulegen. Wenn der neue Nachweis nach Satz 1 nicht innerhalb dieses
-Monats vorgelegt wird oder wenn Zweifel an der Echtheit oder
-inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die
-Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens
-unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige
-Einrichtung oder das jeweilige Unternehmen befindet, darüber zu
-benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu
-übermitteln. Absatz 2 Satz 3 gilt entsprechend.
-
-(5) Die in Absatz 1 Satz 1 genannten Personen haben dem
-Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder
-das jeweilige Unternehmen befindet, auf Anforderung einen Nachweis
-nach Absatz 2 Satz 1 vorzulegen. Bestehen Zweifel an der Echtheit oder
-inhaltlichen Richtigkeit des vorgelegten Nachweises, so kann das
-Gesundheitsamt eine ärztliche Untersuchung dazu anordnen, ob die
-betroffene Person auf Grund einer medizinischen Kontraindikation nicht
-gegen das Coronavirus SARS-CoV-2 geimpft werden kann. Das
-Gesundheitsamt kann einer Person, die trotz der Anforderung nach Satz
-1 keinen Nachweis innerhalb einer angemessenen Frist vorlegt oder der
-Anordnung einer ärztlichen Untersuchung nach Satz 2 nicht Folge
-leistet, untersagen, dass sie die dem Betrieb einer in Absatz 1 Satz 1
-genannten Einrichtung oder eines in Absatz 1 Satz 1 genannten
-Unternehmens dienenden Räume betritt oder in einer solchen Einrichtung
-oder einem solchen Unternehmen tätig wird. Widerspruch und
-Anfechtungsklage gegen eine vom Gesundheitsamt nach Satz 2 erlassene
-Anordnung oder ein von ihm nach Satz 3 erteiltes Verbot haben keine
-aufschiebende Wirkung.
-
-(6) Die Absätze 1 bis 5 gelten nicht für die in den Einrichtungen oder
-von den Unternehmen behandelten, betreuten, gepflegten oder
-untergebrachten Personen.
-
-(7) Durch die Absätze 1 bis 5 wird das Grundrecht der körperlichen
-Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes)
-eingeschränkt.
-
-
-### § 20b Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
-
-(1) Abweichend von § 20 Absatz 4 Satz 1 sind Zahnärzte, Tierärzte
-sowie Apotheker zur Durchführung von Schutzimpfungen gegen das
-Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr
-vollendet haben, berechtigt, wenn
+(1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur
+Durchführung von Grippeschutzimpfungen bei Personen, die das 18.
+Lebensjahr vollendet haben, und zur Durchführung von Schutzimpfungen
+gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte
+Lebensjahr vollendet haben, berechtigt, wenn
 
 1.  sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche
     Teilnahme an der Schulung bestätigt wurde und
 
 
-2.  ihnen eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung
-    steht, die für die Durchführung von Schutzimpfungen gegen das
-    Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt, der
-    Tierarzt oder der Apotheker in andere geeignete Strukturen,
-    insbesondere ein mobiles Impfteam, eingebunden ist.
+2.  sie die Schutzimpfungen für eine öffentliche Apotheke, zu deren
+    Personal sie gehören, durchführen.
 
 
 
+Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf
+es nicht, wenn ein Apotheker bereits zur Durchführung von
+Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erfolgreich eine nach
+§ 20b Absatz 1 Nummer 1 in der bis zum 31. Dezember 2022 geltenden
+Fassung erforderliche ärztliche Schulung absolviert hat. Einer nach
+Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht für
+die Impfung von Personen, die das 18. Lebensjahr vollendet haben, wenn
+ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des
+Fünften Buches Sozialgesetzbuch oder nach diesem Absatz in der bis zum
+31\. Dezember 2022 geltenden Fassung zur Durchführung von
+Grippeschutzimpfungen erfolgreich eine ärztliche Schulung absolviert
+hat.
 
-(2) Die ärztliche Schulung nach Absatz 1 Nummer 1 hat insbesondere die
-Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu
-umfassen:
+(2) Die ärztliche Schulung nach Absatz 1 Satz 1 Nummer 1 hat
+insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und
+Fertigkeiten zu umfassen:
 
-1.  Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung der
-    Schutzimpfung gegen das Coronavirus SARS-CoV-2, insbesondere zur
+1.  Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung von
+    Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-
+    CoV-2, insbesondere zur
 
     a)  Aufklärung,
 
@@ -3410,35 +3540,13 @@ umfassen:
 
 
 
-Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits
-erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, über die jeder
-Berufsangehörige, der an der jeweiligen ärztlichen Schulung teilnimmt,
-verfügt, berücksichtigen und auf diesen aufbauen. Bereits im Rahmen
-von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch
-durchgeführte ärztliche Schulungen berechtigen zur Durchführung von
-Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das
-18\. Lebensjahr vollendet haben.
 
-(3) Bis zum 31. Dezember 2021 entwickeln in Zusammenarbeit mit der
-Bundesärztekammer:
-
-1.  die Bundesapothekerkammer ein Mustercurriculum für die ärztliche
-    Schulung der Apotheker,
-
-
-2.  die Bundeszahnärztekammer ein Mustercurriculum für die ärztliche
-    Schulung der Zahnärzte und
-
-
-3.  die Bundestierärztekammer ein Mustercurriculum für die ärztliche
-    Schulung der Tierärzte.
-
-
-
-
-(4) Die Möglichkeit der ärztlichen Delegation der Durchführung von
-Schutzimpfungen gegen das Coronavirus SARS-CoV-2 auf nichtärztliches
-Gesundheitspersonal bleibt unberührt.
+(3) Die Bundesapothekerkammer entwickelt bis zum 1. Februar 2023 in
+Zusammenarbeit mit der Bundesärztekammer auf Basis von bereits
+bestehenden Mustercurricula nach diesem Absatz und nach § 20b Absatz 3
+Nummer 1 jeweils in der bis zum 31. Dezember 2022 geltenden Fassung
+ein Mustercurriculum für die ärztliche Schulung der Apotheker nach
+Absatz 1 Satz 1 Nummer 1.
 
 
 ### § 21 Impfstoffe
@@ -3452,7 +3560,7 @@ werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel
 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
 
-### § 22 Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate
+### § 22 Impf-, Genesenen- und Testdokumentation
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat
 jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der
@@ -3561,12 +3669,206 @@ enthalten:
 
 
 
+(5) (weggefallen)
+
+(6) (weggefallen)
+
+(7) (weggefallen)
+
+
+### § 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+
+(1) Ein Impfnachweis ist ein Nachweis hinsichtlich des Vorliegens
+eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in
+deutscher, englischer, französischer, italienischer oder spanischer
+Sprache in verkörperter oder digitaler Form. Ein vollständiger
+Impfschutz gegen das Coronavirus SARS-CoV-2 liegt vor, wenn
+
+1.  die zugrundeliegenden Einzelimpfungen mit einem oder verschiedenen
+    Impfstoffen erfolgt sind, die
+
+    a)  von der Europäischen Union zugelassen sind oder
+
+
+    b)  im Ausland zugelassen sind und die von ihrer Formulierung her
+        identisch mit einem in der Europäischen Union zugelassenen Impfstoff
+        sind oder
+
+
+    c)  von der Weltgesundheitsorganisation im Rahmen des Emergency Use
+        Listing anerkannt wurden und mindestens eine Einzelimpfung mit einem
+        mRNA-Impfstoff erfolgt ist, der die Voraussetzungen nach Buchstabe a
+        oder Buchstabe b erfüllt,
+
+
+
+
+
+2.  insgesamt drei Einzelimpfungen erfolgt sind und
+
+
+3.  die letzte Einzelimpfung mindestens drei Monate nach der zweiten
+    Einzelimpfung erfolgt ist.
+
+
+
+Abweichend von Satz 2 Nummer 2 liegt ein vollständiger Impfschutz bis
+zum 30. September 2022 auch bei zwei Einzelimpfungen vor und ab dem 1.
+Oktober 2022 bei zwei Einzelimpfungen nur vor, wenn
+
+1.  die betroffene Person einen bei ihr durchgeführten spezifischen
+    positiven Antikörpertest in deutscher, englischer, französischer,
+    italienischer oder spanischer Sprache in verkörperter oder digitaler
+    Form nachweisen kann und dieser Antikörpertest zu einer Zeit erfolgt
+    ist, zu der die betroffene Person noch keine Einzelimpfung gegen das
+    Coronavirus SARS-CoV-2 erhalten hatte,
+
+
+2.  die betroffene Person mit dem Coronavirus SARS-CoV-2 infiziert gewesen
+    ist, sie diese Infektion mit einem Testnachweis über einen direkten
+    Erregernachweis nachweisen kann und die dem Testnachweis
+    zugrundeliegende Testung
+
+    a)  auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder
+        weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
+
+
+    b)  zu einer Zeit erfolgt ist, zu der die betroffene Person noch nicht die
+        zweite Impfdosis gegen das Coronavirus SARS-CoV-2 erhalten hat, oder
+
+
+
+
+
+3.  die betroffene Person sich nach Erhalt der zweiten Impfdosis mit dem
+    Coronavirus SARS-CoV-2 infiziert hat, sie diese Infektion mit einem
+    Testnachweis über einen direkten Erregernachweis nachweisen kann und
+    die dem Testnachweis zugrundeliegende Testung
+
+    a)  auf einer Labordiagnostik mittels Nukleinsäurenachweis (PCR oder
+        weitere Methoden der Nukleinsäureamplifikationstechnik) beruht sowie
+
+
+    b)  seit dem Tag der Durchführung der dem Testnachweis zugrundeliegenden
+        Testung 28 Tage vergangen sind.
+
+
+
+
+
+
+Abweichend von Satz 3 liegt in den in Satz 3 Nummer 1 bis 3 genannten
+Fällen ein vollständiger Impfschutz bis zum 30. September 2022 auch
+bei einer Einzelimpfung vor; an die Stelle der zweiten Einzelimpfung
+tritt die erste Einzelimpfung.
+
+(2) Ein Genesenennachweis ist ein Nachweis hinsichtlich des Vorliegens
+eines durch vorherige Infektion erworbenen Immunschutzes gegen das
+Coronavirus SARS-CoV-2 in deutscher, englischer, französischer,
+italienischer oder spanischer Sprache in verkörperter oder digitaler
+Form, wenn
+
+1.  die vorherige Infektion durch einen Nukleinsäurenachweis (PCR, PoC-
+    NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik)
+    nachgewiesen wurde und
+
+
+2.  die Testung zum Nachweis der vorherigen Infektion mindestens 28 Tage
+    und höchstens 90 Tage zurückliegt.
+
+
+
+
+(3) Ein Testnachweis ist ein Nachweis hinsichtlich des Nichtvorliegens
+einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher,
+englischer, französischer, italienischer oder spanischer Sprache in
+verkörperter oder digitaler Form, wenn die zugrundeliegende Testung
+durch In-vitro-Diagnostika erfolgt ist, die für den direkten
+Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind oder auf
+Grund ihrer CE-Kennzeichnung oder auf Grund einer gemäß § 11 Absatz 1
+des Medizinproduktegesetzes erteilten Sonderzulassung verkehrsfähig
+sind, und die zugrundeliegende Testung maximal 24 Stunden zurückliegt
+und
+
+1.  vor Ort unter Aufsicht desjenigen stattgefunden hat, der der
+    jeweiligen Schutzmaßnahme unterworfen ist,
+
+
+2.  im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes
+    durch Personal erfolgt ist, das die dafür erforderliche Ausbildung
+    oder Kenntnis und Erfahrung besitzt, oder
+
+
+3.  von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-
+    Testverordnung vorgenommen oder vor Ort überwacht worden ist.
+
+
+
+
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates nach dem aktuellen Stand der Wissenschaft
+und Forschung von den Absätzen 1 bis 3 abweichende Anforderungen an
+einen Impf-, einen Genesenen- und einen Testnachweis zu regeln. In der
+Rechtsverordnung darf die Bundesregierung
+
+1.  hinsichtlich des Impfnachweises abweichend von Absatz 1 regeln:
+
+    a)  die Intervallzeiten,
+
+        aa) die nach jeder Einzelimpfung für einen vollständigen Impfschutz
+            abgewartet werden müssen und
+
+
+        bb) die höchstens zwischen den Einzelimpfungen liegen dürfen,
+
+
+
+
+
+    b)  die Zahl und mögliche Kombination der Einzelimpfungen für einen
+        vollständigen Impfschutz und
+
+
+    c)  Impfstoffe, deren Verwendung für einen Impfnachweis im Sinne des
+        Absatzes 1 anerkannt wird,
+
+
+
+
+
+2.  hinsichtlich des Genesenennachweises abweichend von Absatz 2 regeln:
+
+    a)  Nachweismöglichkeiten, mit denen die vorherige Infektion nachgewiesen
+        werden kann,
+
+
+    b)  die Zeit, die nach der Testung zum Nachweis der vorherigen Infektion
+        vergangen sein muss,
+
+
+    c)  die Zeit, die die Testung zum Nachweis der vorherigen Infektion
+        höchstens zurückliegen darf,
+
+
+
+
+
+3.  hinsichtlich des Testnachweises abweichend von Absatz 3
+    Nachweismöglichkeiten regeln, mit denen die mögliche Infektion
+    nachgewiesen werden kann.
+
+
+
+In der Rechtsverordnung sind angemessene Übergangsfristen für die
+Anwendung der von den Absätzen 1 bis 3 abweichenden Anforderungen an
+einen Impf-, einen Genesenen- oder einen Testnachweis vorzusehen.
+
 (5) Zusätzlich zu der Impfdokumentation ist auf Wunsch der geimpften
 Person die Durchführung einer Schutzimpfung gegen das Coronavirus
 SARS-CoV-2 in einem digitalen Zertifikat (COVID-19-Impfzertifikat)
 durch folgende Personen zu bescheinigen:
 
-1.  durch die zur Durchführung der Schutzimpfung berechtigte Person oder
+1.  die zur Durchführung der Schutzimpfung berechtigte Person oder
 
 
 2.  nachträglich von jedem Arzt oder Apotheker.
@@ -3581,8 +3883,8 @@ unrichtigen COVID-19-Impfzertifikats, insbesondere, um die Identität
 der geimpften Person und die Authentizität der Impfdokumentation
 nachzuprüfen, bereit erklärt hat. Zur Erstellung des
 COVID-19-Impfzertifikats übermittelt die zur Bescheinigung der
-Schutzimpfung gegen das Coronavirus SARS-CoV-2 verpflichtete Person
-die in Absatz 2 Satz 1 und Absatz 4 genannten personenbezogenen Daten
+Schutzimpfung gegen das Coronavirus SARSCoV-2 verpflichtete Person die
+in § 22 Absatz 2 Satz 1 und Absatz 4 genannten personenbezogenen Daten
 an das Robert Koch-Institut, das das COVID-19-Impfzertifikat technisch
 generiert. Das Robert Koch-Institut ist befugt, die zur Erstellung und
 Bescheinigung des COVID-19-Impfzertifikats erforderlichen
@@ -3614,7 +3916,7 @@ des Coronavirus SARS-CoV-2 verpflichtete Person folgende Daten an das
 Robert Koch-Institut, das das COVID-19-Genesenenzertifikat technisch
 generiert:
 
-1.  den Namen der getesteten Person, deren Geburtsdatum,
+1.  den Namen der getesteten Person, ihr Geburtsdatum,
 
 
 2.  das Datum der Testung und
@@ -3636,7 +3938,7 @@ COVID-19-Testzertifikats übermittelt die zur Bescheinigung
 verpflichtete Person folgende Daten an das Robert Koch-Institut, das
 das COVID-19-Testzertifikat technisch generiert:
 
-1.  den Namen der getesteten Person, deren Geburtsdatum,
+1.  den Namen der getesteten Person, ihr Geburtsdatum,
 
 
 2.  das Datum der Testung und
@@ -3649,26 +3951,60 @@ das COVID-19-Testzertifikat technisch generiert:
 
 Absatz 5 Satz 4 gilt entsprechend.
 
+(8) Zur Sperrung von entgegen Absatz 5 Satz 1, Absatz 6 Satz 1 oder
+Absatz 7 Satz 1 nicht richtig bescheinigten COVID-19-Impfzertifikaten,
+COVID-19-Genesenenzertifikaten oder COVID-19-Testzertifikaten
+übermitteln die Bundespolizei und die zur Gefahrenabwehr zuständigen
+Behörden der Länder dem Robert Koch-Institut auf das Zertifikat
+bezogene Daten sowie unmittelbar im Zertifikat enthaltene Daten.
+Angaben zu Namen, Geburtsdaten oder der eindeutigen Zertifikatkennung
+gemäß Nummer 1 Buchstabe a, b und k, Nummer 2 Buchstabe a, b und l und
+Nummer 3 Buchstabe a, b und i des Anhangs zur Verordnung (EU) 2021/953
+des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen
+Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler
+Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie
+der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat
+der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit
+während der COVID-19-Pandemie (ABl. L 211 vom 15.6.2021, S. 1), die
+zuletzt durch die Verordnung (EU) 2022/256 (ABl. L 42 vom 23.2.2022,
+S. 4) geändert worden ist, werden nicht übermittelt. Das Robert Koch-
+Institut führt die Sperrung durch Aufnahme des jeweiligen Zertifikats
+in eine Zertifikatssperrliste aus. Das Robert Koch-Institut ist
+befugt, die für die Durchführung der Sperrung eines Zertifikats
+erforderlichen personenbezogenen Daten zu verarbeiten.
+
+(9) Vorbehaltlich nationaler oder europäischer Regelungen besteht kein
+individueller Anspruch auf Anschluss eines Leistungserbringers zur
+Generierung eines COVID-19-Zertifikats nach den Absätzen 5 bis 7.
+
+(10) Die Verpflichtung nach Absatz 7 besteht nur solange und soweit
+die Bundesrepublik Deutschland nach der Verordnung (EU) 2021/953 zur
+Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate
+zur Bescheinigung von COVID-19-Tests verpflichtet ist.
+
 
 ### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
-(1) Beim Robert Koch-Institut wird eine Kommission für
-Krankenhaushygiene und Infektionsprävention eingerichtet. Die
-Kommission gibt sich eine Geschäftsordnung, die der Zustimmung des
-Bundesministeriums für Gesundheit bedarf. Die Kommission erstellt
-Empfehlungen zur Prävention nosokomialer Infektionen sowie zu
-betrieblich-organisatorischen und baulich-funktionellen Maßnahmen der
-Hygiene in Krankenhäusern und anderen medizinischen Einrichtungen. Sie
-erstellt zudem Empfehlungen zu Kriterien und Verfahren zur Einstufung
-von Einrichtungen als Einrichtungen für ambulantes Operieren. Die
-Empfehlungen der Kommission werden unter Berücksichtigung aktueller
+(1) Beim Robert Koch-Institut wird eine Kommission für
+Infektionsprävention in medizinischen Einrichtungen und in
+Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe
+eingerichtet. Die Kommission gibt sich eine Geschäftsordnung, die der
+Zustimmung des Bundesministeriums für Gesundheit bedarf. Die
+Kommission erstellt Empfehlungen zur Prävention nosokomialer und
+weiterer Infektionen sowie zu betrieblich-organisatorischen und
+baulich-funktionellen Maßnahmen der Hygiene in Krankenhäusern, anderen
+medizinischen Einrichtungen und Einrichtungen und Unternehmen der
+Pflege und Eingliederungshilfe. Sie erstellt zudem Empfehlungen zu
+Kriterien und Verfahren zur Einstufung von Einrichtungen als
+Einrichtungen für ambulantes Operieren. Die Empfehlungen der
+Kommission werden unter Berücksichtigung aktueller
 infektionsepidemiologischer Auswertungen stetig weiterentwickelt und
-vom Robert Koch-Institut veröffentlicht. Die Mitglieder der Kommission
+vom Robert Koch-Institut veröffentlicht. Die Mitglieder der Kommission
 werden vom Bundesministerium für Gesundheit im Benehmen mit den
-obersten Landesgesundheitsbehörden berufen. Vertreter des
-Bundesministeriums für Gesundheit, der obersten
-Landesgesundheitsbehörden und des Robert Koch-Institutes nehmen mit
-beratender Stimme an den Sitzungen teil.
+obersten Landesgesundheitsbehörden unter Berücksichtigung des gesamten
+Aufgabenspektrums berufen. Vertreter des Bundesministeriums für
+Gesundheit, der obersten Landesgesundheitsbehörden und des Robert
+Koch-Institutes nehmen mit beratender Stimme an den Sitzungen teil.
 
 (2) Beim Robert Koch-Institut wird eine Kommission Antiinfektiva,
 Resistenz und Therapie eingerichtet. Die Kommission gibt sich eine
@@ -3715,7 +4051,7 @@ Resistenzen, zu vermeiden:
     Nummern 1 bis 6 genannten Einrichtungen vergleichbar sind,
 
 
-8.  Arztpraxen, Zahnarztpraxen,
+8.  Arztpraxen, Zahnarztpraxen, psychotherapeutische Praxen,
 
 
 9.  Praxen sonstiger humanmedizinischer Heilberufe,
@@ -3726,12 +4062,7 @@ Resistenzen, zu vermeiden:
     Behandlungen durchgeführt werden,
 
 
-11. ambulante Pflegedienste, die ambulante Intensivpflege in
-    Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen
-    Wohnformen erbringen, und
-
-
-12. Rettungsdienste.
+11. Rettungsdienste und Einrichtungen des Zivil- und Katastrophenschutzes.
 
 
 
@@ -3795,12 +4126,7 @@ Hygieneplänen festgelegt sind:
     Nummern 1 bis 6 genannten Einrichtungen vergleichbar sind,
 
 
-8.  ambulante Pflegedienste, die ambulante Intensivpflege in
-    Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen
-    Wohnformen erbringen, und
-
-
-9.  Rettungsdienste.
+8.  Rettungsdienste und Einrichtungen des Zivil- und Katastrophenschutzes.
 
 
 
@@ -3817,13 +4143,7 @@ infektionshygienischen Überwachung durch das Gesundheitsamt.
 Einrichtungen nach Absatz 5 Satz 2 können durch das Gesundheitsamt
 infektionshygienisch überwacht werden.
 
-(6a) Die infektionshygienische Überwachung von ambulanten
-Pflegediensten, die ambulante Intensivpflege in Einrichtungen,
-Wohngruppen oder sonstigen gemeinschaftlichen Wohnformen erbringen,
-erstreckt sich auch auf Orte, an denen die Intensivpflege erbracht
-wird. Die ambulanten Pflegedienste haben dem Gesundheitsamt auf dessen
-Anforderung die Namen und Kontaktdaten der von ihnen versorgten
-Personen und der vertretungsberechtigten Personen mitzuteilen.
+(6a) (weggefallen)
 
 (7) (weggefallen)
 
@@ -3901,8 +4221,9 @@ Beschäftigungsverhältnisses oder über die Art und Weise einer
 Beschäftigung zu entscheiden. Dies gilt nicht in Bezug auf
 übertragbare Krankheiten, die im Rahmen einer leitliniengerechten
 Behandlung nach dem Stand der medizinischen Wissenschaft nicht mehr
-übertragen werden können. Im Übrigen gelten die Bestimmungen des
-allgemeinen Datenschutzrechts.
+übertragen werden können. § 22 Absatz 2 des Bundesdatenschutzgesetzes
+gilt entsprechend. Die Bestimmungen des allgemeinen Datenschutzrechts
+bleiben unberührt.
 
 
 ## 5. Abschnitt - Bekämpfung übertragbarer Krankheiten
@@ -4146,7 +4467,7 @@ hat.
 Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener
 krank, krankheitsverdächtig oder Ausscheider war, so trifft die
 zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die
-in § 28a und in den §§ 29 bis 31 genannten, soweit und solange es zur
+in den §§ 28a, 28b und 29 bis 31 genannten, soweit und solange es zur
 Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich
 ist; sie kann insbesondere Personen verpflichten, den Ort, an dem sie
 sich befinden, nicht oder nur unter bestimmten Bedingungen zu
@@ -4176,7 +4497,7 @@ in der Gemeinschaftseinrichtung nicht mehr zu befürchten ist.
 für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
 
-### § 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19)
+### § 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
 
 (1) Notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2
 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019
@@ -4190,69 +4511,70 @@ Deutschen Bundestag insbesondere sein
 2.  Verpflichtung zum Tragen einer Mund-Nasen-Bedeckung (Maskenpflicht),
 
 
-2a. Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises,
+3.  Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises
+    nach § 22a Absatz 1 bis 3,
 
 
-3.  Ausgangs- oder Kontaktbeschränkungen im privaten sowie im öffentlichen
+4.  Ausgangs- oder Kontaktbeschränkungen im privaten sowie im öffentlichen
     Raum,
 
 
-4.  Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten für
+5.  Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten für
     Betriebe, Einrichtungen oder Angebote mit Publikumsverkehr,
 
 
-5.  Untersagung oder Beschränkung von Freizeitveranstaltungen und
+6.  Untersagung oder Beschränkung von Freizeitveranstaltungen und
     ähnlichen Veranstaltungen,
 
 
-6.  Untersagung oder Beschränkung des Betriebs von Einrichtungen, die der
+7.  Untersagung oder Beschränkung des Betriebs von Einrichtungen, die der
     Freizeitgestaltung zuzurechnen sind,
 
 
-7.  Untersagung oder Beschränkung von Kulturveranstaltungen oder des
+8.  Untersagung oder Beschränkung von Kulturveranstaltungen oder des
     Betriebs von Kultureinrichtungen,
 
 
-8.  Untersagung oder Beschränkung von Sportveranstaltungen und der
+9.  Untersagung oder Beschränkung von Sportveranstaltungen und der
     Sportausübung,
 
 
-9.  umfassendes oder auf bestimmte Zeiten beschränktes Verbot der
+10. umfassendes oder auf bestimmte Zeiten beschränktes Verbot der
     Alkoholabgabe oder des Alkoholkonsums auf bestimmten öffentlichen
     Plätzen oder in bestimmten öffentlich zugänglichen Einrichtungen,
 
 
-10. Untersagung von oder Erteilung von Auflagen für das Abhalten von
+11. Untersagung von oder Erteilung von Auflagen für das Abhalten von
     Veranstaltungen, Ansammlungen, Aufzügen, Versammlungen sowie
     religiösen oder weltanschaulichen Zusammenkünften,
 
 
-11. Untersagung oder Beschränkung von Reisen; dies gilt insbesondere für
+12. Untersagung oder Beschränkung von Reisen; dies gilt insbesondere für
     touristische Reisen,
 
 
-12. Untersagung oder Beschränkung von Übernachtungsangeboten,
+13. Untersagung oder Beschränkung von Übernachtungsangeboten,
 
 
-13. Untersagung oder Beschränkung des Betriebs von gastronomischen
+14. Untersagung oder Beschränkung des Betriebs von gastronomischen
     Einrichtungen,
 
 
-14. Schließung oder Beschränkung von Betrieben, Gewerben, Einzel- oder
+15. Schließung oder Beschränkung von Betrieben, Gewerben, Einzel- oder
     Großhandel,
 
 
-15. Untersagung oder Beschränkung des Betretens oder des Besuchs von
+16. Untersagung oder Beschränkung des Betretens oder des Besuchs von
     Einrichtungen des Gesundheits- oder Sozialwesens,
 
 
-16. Schließung von Gemeinschaftseinrichtungen im Sinne von § 33,
+17. Schließung von Gemeinschaftseinrichtungen im Sinne von § 33,
     Hochschulen, außerschulischen Einrichtungen der Erwachsenenbildung
     oder ähnlichen Einrichtungen oder Erteilung von Auflagen für die
     Fortführung ihres Betriebs oder
 
 
-17. Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen oder
+18. Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen oder
     Veranstaltungsteilnehmern, um nach Auftreten einer Infektion mit dem
     Coronavirus SARS-CoV-2 mögliche Infektionsketten nachverfolgen und
     unterbrechen zu können.
@@ -4268,23 +4590,23 @@ wirksame Eindämmung der Verbreitung der Coronavirus-Krankheit-2019
 
 1.  Untersagung von Versammlungen oder Aufzügen im Sinne von Artikel 8 des
     Grundgesetzes und von religiösen oder weltanschaulichen
-    Zusammenkünften nach Absatz 1 Nummer 10,
+    Zusammenkünften nach Absatz 1 Nummer 11,
 
 
-2.  Anordnung einer Ausgangsbeschränkung nach Absatz 1 Nummer 3, nach der
+2.  Anordnung einer Ausgangsbeschränkung nach Absatz 1 Nummer 4, nach der
     das Verlassen des privaten Wohnbereichs nur zu bestimmten Zeiten oder
     zu bestimmten Zwecken zulässig ist, und
 
 
 3.  Untersagung des Betretens oder des Besuchs von Einrichtungen im Sinne
-    von Absatz 1 Nummer 15, wie zum Beispiel Alten- oder Pflegeheimen,
+    von Absatz 1 Nummer 16, wie zum Beispiel Alten- oder Pflegeheimen,
     Einrichtungen der Behindertenhilfe, Entbindungseinrichtungen oder
     Krankenhäusern für enge Angehörige von dort behandelten, gepflegten
     oder betreuten Personen.
 
 
 
-Schutzmaßnahmen nach Absatz 1 Nummer 15 dürfen nicht zur vollständigen
+Schutzmaßnahmen nach Absatz 1 Nummer 16 dürfen nicht zur vollständigen
 Isolation von einzelnen Personen oder Gruppen führen; ein Mindestmaß
 an sozialen Kontakten muss gewährleistet bleiben.
 
@@ -4296,7 +4618,7 @@ und der Funktionsfähigkeit des Gesundheitssystems auszurichten; dabei
 sind absehbare Änderungen des Infektionsgeschehens durch
 ansteckendere, das Gesundheitssystem stärker belastende Virusvarianten
 zu berücksichtigen. Zum präventiven Infektionsschutz können
-insbesondere die in Absatz 1 Nummer 1, 2, 2a, 4 und 17 genannten
+insbesondere die in Absatz 1 Nummer 1, 2, 3, 5 und 18 genannten
 Schutzmaßnahmen ergriffen werden. Weitergehende Schutzmaßnahmen sollen
 unter Berücksichtigung des jeweiligen regionalen und überregionalen
 Infektionsgeschehens mit dem Ziel getroffen werden, eine drohende
@@ -4325,7 +4647,7 @@ landesweit oder regional differenziert auch statt bezogen auf 100 000
 Einwohner bezogen auf das Land oder die jeweilige Region als Maßstab
 verwenden.
 
-(4) Im Rahmen der Kontaktdatenerhebung nach Absatz 1 Nummer 17 dürfen
+(4) Im Rahmen der Kontaktdatenerhebung nach Absatz 1 Nummer 18 dürfen
 von den Verantwortlichen nur personenbezogene Angaben sowie Angaben
 zum Zeitraum und zum Ort des Aufenthaltes erhoben und verarbeitet
 werden, soweit dies zur Nachverfolgung von Kontaktpersonen zwingend
@@ -4367,300 +4689,118 @@ können von den Schutzmaßnahmen ausgenommen werden, soweit ihre
 Einbeziehung zur Verhinderung der Verbreitung der Coronavirus-
 Krankheit-2019 (COVID-19) nicht zwingend erforderlich ist.
 
-(7) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz
+(7) - (10) (weggefallen)
+
+
+### § 28b Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+
+(1) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz
 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite
-können folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne des § 28
-Absatz 1 Satz 1 und 2 sein, soweit sie zur Verhinderung der
-Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich
-sind:
+gilt zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019
+(COVID-19) und zur Gewährleistung der Funktionsfähigkeit des
+Gesundheitssystems oder der sonstigen Kritischen Infrastrukturen in
+der Zeit vom 1. Oktober 2022 bis zum 7. April 2023:
 
-1.  die Anordnung eines Abstandsgebots im öffentlichen Raum, insbesondere
-    in öffentlich zugänglichen Innenräumen,
-
-
-2.  die Anordnung von Kontaktbeschränkungen im privaten sowie im
-    öffentlichen Raum,
+1.  Fahrgäste in Verkehrsmitteln des öffentlichen Personenfernverkehrs,
+    die das 14. Lebensjahr vollendet haben, sind verpflichtet, eine
+    Atemschutzmaske (FFP2 oder vergleichbar) zu tragen,
 
 
-3.  die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder
-    vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-
-    Schutz),
+2.  das Kontroll- und Servicepersonal und das Fahr- und Steuerpersonal in
+    Verkehrsmitteln des öffentlichen Personenfernverkehrs, soweit
+    tätigkeitsbedingt physische Kontakte zu anderen Personen bestehen,
+    sowie Fahrgäste in Verkehrsmitteln des öffentlichen
+    Personenfernverkehrs, die das sechste, aber noch nicht das 14.
+    Lebensjahr vollendet haben, sind verpflichtet, eine medizinische
+    Gesichtsmaske (Mund-Nasen-Schutz) oder eine Atemschutzmaske (FFP2 oder
+    vergleichbar) zu tragen,
 
 
-4.  die Verpflichtung zur Vorlage von Impf-, Genesenen- oder
-    Testnachweisen sowie an die Vorlage solcher Nachweise anknüpfende
-    Beschränkungen des Zugangs in den oder bei den in Absatz 1 Nummer 4
-    bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen,
-    Angeboten, Veranstaltungen, Reisen und Ausübungen,
+3.  die folgenden Einrichtungen dürfen nur von Personen betreten werden,
+    die eine Atemschutzmaske (FFP2 oder vergleichbar) tragen sowie einen
+    Testnachweis nach § 22a Absatz 3 vorlegen:
+
+    a)  Krankenhäuser und Rehabilitationseinrichtungen, in denen eine den
+        Krankenhäusern vergleichbare medizinische Versorgung erfolgt,
 
 
-5.  die Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten,
-    auch unter Vorgabe von Personenobergrenzen, für die in Absatz 1 Nummer
-    4 bis 8 und 10 bis 16 genannten Betriebe, Gewerbe, Einrichtungen,
-    Angebote, Veranstaltungen, Reisen und Ausübungen,
-
-
-6.  die Beschränkung der Anzahl von Personen in oder bei den in Absatz 1
-    Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben,
-    Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen,
-
-
-7.  die Erteilung von Auflagen für die Fortführung des Betriebs von
-    Gemeinschaftseinrichtungen im Sinne von § 33, Hochschulen,
-    außerschulischen Einrichtungen der Erwachsenenbildung oder ähnlichen
-    Einrichtungen und
-
-
-8.  die Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen
-    oder Veranstaltungsteilnehmern in den oder bei den in Absatz 1 Nummer
-    4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen,
-    Angeboten, Veranstaltungen, Reisen und Ausübungen, um nach Auftreten
-    einer Infektion mit dem Coronavirus SARS-CoV-2 mögliche
-    Infektionsketten nachverfolgen und unterbrechen zu können; dabei kann
-    auch angeordnet werden, dass die Nachverfolgung und Unterbrechung von
-    Infektionsketten vorrangig durch die Bereitstellung der QR-Code-
-    Registrierung für die Corona-Warn-App des Robert Koch-Instituts
-    erfolgt.
+    b)  voll- oder teilstationäre Einrichtungen zur Betreuung und
+        Unterbringung älterer, behinderter oder pflegebedürftiger Menschen und
+        vergleichbare Einrichtungen;
 
 
 
-Individuelle Schutzmaßnahmen gegenüber Kranken,
-Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach
-§ 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und
-Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben
-unberührt. Die Absätze 3 bis 6 gelten für Schutzmaßnahmen nach Satz 1
-entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind
-zu berücksichtigen.
-
-(8) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz
-1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite
-können die Absätze 1 bis 6 auch angewendet werden, soweit und solange
-die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-
-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in
-dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 feststellt,
-mit der Maßgabe, dass folgende Schutzmaßnahmen ausgeschlossen sind:
-
-1.  die Anordnung von Ausgangsbeschränkungen,
+    Beschäftigte in diesen Einrichtungen müssen einen Testnachweis nach §
+    22a Absatz 3 abweichend von § 22a Absatz 3 mindestens dreimal pro
+    Kalenderwoche vorlegen,
 
 
-2.  die Untersagung der Sportausübung und die Schließung von
-    Sporteinrichtungen,
+4.  in folgenden Einrichtungen oder Unternehmen dürfen in der Pflege nur
+    Personen tätig werden, die eine Atemschutzmaske (FFP2 oder
+    vergleichbar) tragen sowie mindestens dreimal pro Kalenderwoche einen
+    Testnachweis nach § 22a Absatz 3 vorlegen:
+
+    a)  ambulante Pflegedienste, die ambulante Intensivpflege in
+        Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen
+        Wohnformen oder in der eigenen Häuslichkeit der pflegebedürftigen
+        Person erbringen sowie
 
 
-3.  die Untersagung von Versammlungen oder Aufzügen im Sinne von Artikel 8
-    des Grundgesetzes und von religiösen oder weltanschaulichen
-    Zusammenkünften,
-
-
-4.  die Untersagung von Reisen,
-
-
-5.  die Untersagung von Übernachtungsangeboten,
-
-
-6.  die Schließung von Betrieben, Gewerben, Einzel- oder Großhandel,
-    sofern es sich nicht um gastronomische Einrichtungen, Freizeit- oder
-    Kultureinrichtungen oder um Messen oder Kongresse handelt,
-
-
-7.  die Schließung von Gemeinschaftseinrichtungen im Sinne von § 33.
+    b)  ambulante Pflegedienste und Unternehmen, die vergleichbare
+        Dienstleistungen wie voll- oder teilstationäre Einrichtungen zur
+        Betreuung und Unterbringung älterer, behinderter oder
+        pflegebedürftiger Menschen erbringen; Angebote zur Unterstützung im
+        Alltag im Sinne von § 45a Absatz 1 Satz 2 des Elften Buches
+        Sozialgesetzbuch zählen nicht zu diesen Dienstleistungen. Gleiches
+        gilt für Personen, die diese Leistungen im Rahmen eines Persönlichen
+        Budgets nach § 29 des Neunten Buches Sozialgesetzbuch erbringen,
 
 
 
-Absatz 7 bleibt unberührt. Die Feststellung nach Satz 1 gilt als
-aufgehoben, sofern das Parlament in dem betroffenen Land nicht
-spätestens drei Monate nach der Feststellung nach Satz 1 die weitere
-Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt; dies gilt
-entsprechend, sofern das Parlament in dem betroffenen Land nicht
-spätestens drei Monate nach der Feststellung der weiteren
-Anwendbarkeit der Absätze 1 bis 6 die weitere Anwendbarkeit der
-Absätze 1 bis 6 erneut feststellt.
-
-(9) Die Absätze 1 bis 6 bleiben nach dem Ende einer durch den
-Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten
-epidemischen Lage von nationaler Tragweite bis längstens zum Ablauf
-des 19. März 2022 für Schutzmaßnahmen nach Absatz 1 in Verbindung mit
-§ 28 Absatz 1 Satz 1 und 2 anwendbar, die bis zum 25. November 2021 in
-Kraft getreten sind. Satz 1 gilt für Schutzmaßnahmen nach Absatz 1 in
-Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 entsprechend,
-sofern das Parlament in dem betroffenen Land die Rechtsverordnungen
-nicht aufhebt. Die Anordnung von Schutzmaßnahmen nach Absatz 8 in
-Verbindung mit § 28 Absatz 1 Satz 1 und 2 oder nach Absatz 8 in
-Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 bleibt unberührt.
-
-(10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in
-Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss
-spätestens mit Ablauf des 19. März 2022 außer Kraft treten. Nach
-Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1
-Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des
-19\. März 2022 aufgehoben werden. Der Deutsche Bundestag kann durch im
-Bundesgesetzblatt bekanntzumachenden Beschluss einmalig die Fristen
-nach den Sätzen 1 und 2 um bis zu drei Monate verlängern.
 
 
-### § 28b Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung
+5.  die folgenden Einrichtungen dürfen von Patienten und Besuchern nur
+    betreten werden, wenn sie eine Atemschutzmaske (FFP2 oder
+    vergleichbar) tragen:
 
-(1) Arbeitgeber und Beschäftigte dürfen Arbeitsstätten, in denen
-physische Kontakte von Arbeitgebern und Beschäftigten untereinander
-oder zu Dritten nicht ausgeschlossen werden können, nur betreten und
-Arbeitgeber dürfen Transporte von mehreren Beschäftigten zur
-Arbeitsstätte oder von der Arbeitsstätte nur durchführen, wenn sie
-geimpfte Personen, genesene Personen oder getestete Personen im Sinne
-des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-
-Ausnahmenverordnung in der jeweils geltenden Fassung sind und einen
-Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne
-des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-
-Ausnahmenverordnung in der jeweils geltenden Fassung mit sich führen,
-zur Kontrolle verfügbar halten oder bei dem Arbeitgeber hinterlegt
-haben. Sofern die dem Testnachweis zugrunde liegende Testung mittels
-Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der
-Nukleinsäureamplifikationstechnik) erfolgt ist, darf diese abweichend
-von § 2 Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in
-der jeweils geltenden Fassung maximal 48 Stunden zurückliegen.
-Abweichend von Satz 1 ist Arbeitgebern und Beschäftigten ein Betreten
-der Arbeitsstätte erlaubt, um
-
-1.  unmittelbar vor der Arbeitsaufnahme ein Testangebot des Arbeitgebers
-    zur Erlangung eines Nachweises im Sinne des § 4 Absatz 1 der SARS-
-    CoV-2-Arbeitsschutzverordnung vom 25. Juni 2021 (BAnz AT 28.06.2021
-    V1), die durch Artikel 1 der Verordnung vom 6. September 2021 (BAnz AT
-    09\.09.2021 V1) geändert worden ist, wahrzunehmen oder
+    a)  Arztpraxen, Zahnarztpraxen, psychotherapeutische Praxen,
 
 
-2.  ein Impfangebot des Arbeitgebers wahrzunehmen.
+    b)  Praxen sonstiger humanmedizinischer Heilberufe,
+
+
+    c)  Einrichtungen für ambulantes Operieren,
+
+
+    d)  Dialyseeinrichtungen,
+
+
+    e)  Tageskliniken,
+
+
+    f)  Behandlungs- oder Versorgungseinrichtungen, die mit einer der in den
+        Buchstaben a bis e genannten Einrichtungen vergleichbar sind,
+
+
+    g)  Einrichtungen des öffentlichen Gesundheitsdienstes, in denen
+        medizinische Untersuchungen, Präventionsmaßnahmen oder ambulante
+        Behandlungen durchgeführt werden,
+
+
+    h)  Rettungsdienste.
 
 
 
-Der Arbeitgeber hat seine Beschäftigten bei Bedarf in barrierefrei
-zugänglicher Form über die betrieblichen Zugangsregelungen zu
-informieren.
-
-(2) Arbeitgeber, Beschäftigte und Besucher in den folgenden
-Einrichtungen und Unternehmen dürfen diese nur betreten oder in diesen
-nur tätig werden, wenn sie getestete Personen im Sinne des § 2 Nummer
-6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils
-geltenden Fassung sind und einen Testnachweis mit sich führen:
-
-1.  Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 mit der
-    Maßgabe, dass Vorsorge- und Rehabilitationseinrichtungen auch dann
-    umfasst sind, wenn dort keine den Krankenhäusern vergleichbare
-    medizinische Versorgung erfolgt, und
-
-
-2.  Einrichtungen und Unternehmen nach § 36 Absatz 1 Nummer 2 und 7.
 
 
 
-In oder von den in Satz 1 genannten Einrichtungen und Unternehmen
-behandelte, betreute, gepflegte oder untergebrachte Personen sowie
-Begleitpersonen, die die Einrichtung oder das Unternehmen nur für
-einen unerheblichen Zeitraum betreten, gelten nicht als Besucher im
-Sinne des Satzes 1; Menschen mit Behinderungen, die Leistungen im
-Eingangsverfahren, im Berufsbildungsbereich oder im Arbeitsbereich
-einer anerkannten Werkstatt für behinderte Menschen oder eines anderen
-Leistungsanbieters nach § 60 des Neunten Buches Sozialgesetzbuch
-erhalten sowie Auszubildende, Studierende und Schülerinnen und
-Schüler, die die in Satz 1 genannten Einrichtungen und Unternehmen zum
-Zweck ihrer beruflichen Bildung betreten, gelten als Beschäftigte im
-Sinne des Satzes 1. Absatz 1 Satz 2 gilt entsprechend. Für Arbeitgeber
-und Beschäftigte kann die zugrunde liegende Testung auch durch
-Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen, wenn sie
-geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2
-oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der
-jeweils geltenden Fassung sind; das gilt entsprechend für Besucher,
-die als medizinisches Personal die in den in Satz 1 genannten
-Einrichtungen und Unternehmen behandelten, betreuten, gepflegten oder
-untergebrachten Personen zu Behandlungszwecken aufsuchen und geimpfte
-Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer
-4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils
-geltenden Fassung sind. Eine Testung muss für Arbeitgeber und
-Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne
-des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-
-Ausnahmenverordnung in der jeweils geltenden Fassung sind, mindestens
-zweimal pro Kalenderwoche durchgeführt werden. Für Besucher, die die
-Einrichtung oder das Unternehmen im Rahmen eines Notfalleinsatzes oder
-aus anderen Gründen ohne Kontakt zu den in den in Satz 1 genannten
-Einrichtungen und Unternehmen behandelten, betreuten, gepflegten oder
-untergebrachten Personen nur für einen unerheblichen Zeitraum
-betreten, gilt Satz 1 nicht. Für Arbeitgeber, Beschäftigte und
-Besucher gilt Absatz 1 Satz 3, für Arbeitgeber und Beschäftigte auch
-Absatz 1 Satz 4 entsprechend. Die in Satz 1 genannten Einrichtungen
-und Unternehmen sind verpflichtet, ein einrichtungs- oder
-unternehmensbezogenes Testkonzept zu erstellen. Im Rahmen des
-Testkonzepts haben sie Testungen auf eine Infektion mit dem
-Coronavirus SARS-CoV-2 für alle Beschäftigten und Einrichtungen nach §
-36 Absatz 1 Nummer 2 auch für alle Besucher anzubieten.
-
-(3) Alle Arbeitgeber sowie die Leitungen der in Absatz 2 Satz 1
-genannten Einrichtungen und Unternehmen sind verpflichtet, die
-Einhaltung der Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 Satz
-1 durch Nachweiskontrollen täglich zu überwachen und regelmäßig zu
-dokumentieren. Alle Arbeitgeber und jeder Beschäftigte sowie Besucher
-der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind
-verpflichtet, einen entsprechenden Nachweis auf Verlangen vorzulegen.
-Soweit es zur Erfüllung der Pflichten aus Satz 1 erforderlich ist,
-darf der Arbeitgeber sowie die Leitung der in Absatz 2 Satz 1
-genannten Einrichtungen und Unternehmen zu diesem Zweck
-personenbezogene Daten einschließlich Daten zum Impf-, Sero- und
-Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19)
-verarbeiten. Die Daten dürfen auch zur Anpassung des betrieblichen
-Hygienekonzepts auf Grundlage der Gefährdungsbeurteilung gemäß den §§
-5 und 6 des Arbeitsschutzgesetzes verwendet werden, soweit dies
-erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt
-entsprechend. Die zuständige Behörde kann von jedem Arbeitgeber sowie
-von den Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und
-Unternehmen die zur Durchführung ihrer Überwachungsaufgabe
-erforderlichen Auskünfte verlangen. Voll- und teilstationäre
-Pflegeeinrichtungen sind verpflichtet, der zuständigen Behörde
-monatlich Angaben zum Anteil der Personen, die gegen das Coronavirus
-SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der
-Einrichtung beschäftigt sind oder behandelt, betreut oder gepflegt
-werden oder untergebracht sind, in anonymisierter Form zu übermitteln.
-Sonstige in Absatz 2 Satz 1 genannte Einrichtungen oder Unternehmen
-sind verpflichtet, der zuständigen Behörde auf deren Anforderung
-Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2
-geimpft sind, in Bezug auf die Personen, die in der Einrichtung oder
-dem Unternehmen beschäftigt sind, in anonymisierter Form zu
-übermitteln. Voll- und teilstationäre Pflegeeinrichtungen dürfen den
-Impfstatus der Personen, die dort behandelt, betreut oder gepflegt
-werden oder untergebracht sind, erheben; diese Daten dürfen nur zur
-Beurteilung der Gefährdungslage in der Einrichtung oder dem
-Unternehmen im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19)
-und zur Vorbereitung der Berichterstattung nach Satz 7 verarbeitet
-werden und nur solange und soweit dies erforderlich ist. Die nach den
-Sätzen 3 und 9 erhobenen Daten sind spätestens am Ende des sechsten
-Monats nach ihrer Erhebung zu löschen; die Bestimmungen des
-allgemeinen Datenschutzrechts bleiben unberührt.
-
-(4) Der Arbeitgeber hat den Beschäftigten im Fall von Büroarbeit oder
-vergleichbaren Tätigkeiten anzubieten, diese Tätigkeiten in deren
-Wohnung auszuführen, wenn keine zwingenden betriebsbedingten Gründe
-entgegenstehen. Die Beschäftigten haben dieses Angebot anzunehmen,
-soweit ihrerseits keine Gründe entgegenstehen. Die zuständigen
-Behörden für den Vollzug der Sätze 1 und 2 bestimmen die Länder nach §
-54 Satz 1.
-
-(5) Die Verkehrsmittel des Luftverkehrs, des öffentlichen
-Personennahverkehrs und des öffentlichen Personenfernverkehrs dürfen
-von Fahr- oder Fluggästen sowie dem Kontroll- und Servicepersonal und
-Fahr- und Steuerpersonal, soweit tätigkeitsbedingt physische Kontakte
-zu anderen Personen bestehen, nur benutzt werden, wenn
-
-1.  sie, ausgenommen es handelt sich um Schüler außerhalb der
-    Schulferienzeit und um eine Beförderung in Taxen, geimpfte Personen,
-    genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2,
-    Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-
-    Ausnahmenverordnung in der jeweils geltenden Fassung sind und
-
-
-2.  sie während der Beförderung eine Atemschutzmaske (FFP2 oder
-    vergleichbar) oder eine medizinische Gesichtsmaske (Mund-Nasen-Schutz)
-    tragen.
-
-
-
-Eine Atemschutzmaske oder eine medizinische Gesichtsmaske muss nicht
-getragen werden von
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates anzuordnen, dass Fluggäste sowie Service-
+und Steuerpersonal in den Verkehrsmitteln des Luftverkehrs
+verpflichtet sind, eine Atemschutzmaske (FFP2 oder vergleichbar) oder
+eine medizinische Gesichtsmaske (Mund-Nasen-Schutz) zu tragen. Eine
+Atemschutzmaske (FFP2 oder vergleichbar) oder eine medizinische
+Gesichtsmaske (Mund-Nasen-Schutz) muss nicht getragen werden von
 
 1.  Kindern, die das sechste Lebensjahr noch nicht vollendet haben,
 
@@ -4677,43 +4817,238 @@ getragen werden von
 
 
 Beförderer sind verpflichtet, die Einhaltung der Verpflichtungen nach
-Satz 1 durch stichprobenhafte Nachweiskontrollen zu überwachen. Alle
-beförderten Personen sind verpflichtet, auf Verlangen einen
-Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne
-des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-
-Ausnahmenverordnung in der jeweils geltenden Fassung vorzulegen.
-Beförderer können zu diesem Zweck personenbezogene Daten zum Impf-,
-Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019
-(COVID-19) verarbeiten. Soweit in Bestimmungen einer Rechtsverordnung
-nach § 36 Absatz 8 in Verbindung mit Absatz 10 für in die
-Bundesrepublik Deutschland einreisende Personen abweichende
-Nachweispflichten für die Nutzung der in Satz 1 genannten
-Verkehrsmittel bestimmt werden, gehen diese Bestimmungen den
-Bestimmungen nach Satz 1 Nummer 1 vor.
+Satz 1 Nummer 1 und 2 sowie auf Grund einer Rechtsverordnung nach Satz
+2 durch stichprobenhafte Kontrollen zu überwachen; Einrichtungen und
+Unternehmen nach Satz 1 Nummer 3 bis 5 sind verpflichtet, die
+Einhaltung der Verpflichtungen nach Satz 1 Nummer 3 bis 5 durch
+stichprobenhafte Kontrollen zu überwachen. Personen, die die
+Verpflichtungen nach Satz 1 oder auf Grund einer Rechtsverordnung nach
+Satz 2 nicht erfüllen, können von der Beförderung oder dem Betreten
+der Einrichtung oder des Unternehmens ausgeschlossen werden. Die
+Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder
+vergleichbar) nach Satz 1 Nummer 3 bis 5 gilt nicht, wenn die
+Erbringung oder Entgegennahme einer medizinischen oder vergleichbaren
+Behandlung dem Tragen einer Atemschutzmaske entgegensteht, sowie für
+in den Einrichtungen und Unternehmen behandelte, betreute,
+untergebrachte oder gepflegte Personen in den für ihren dauerhaften
+Aufenthalt bestimmten Räumlichkeiten. Die Verpflichtung zur Vorlage
+eines Testnachweises nach Satz 1 Nummer 3 und 4 gilt nicht für
+Personen, die in oder von den in Satz 1 Nummer 3 und 4 genannten
+Einrichtungen und Unternehmen behandelt, betreut, untergebracht oder
+gepflegt werden. Bei Personen, die in einer oder einem in Satz 1
+Nummer 4 genannten Einrichtung oder Unternehmen tätig sind und die
+ihre Tätigkeit von ihrer Wohnung aus antreten, kann die dem
+Testnachweis zugrundeliegende Testung abweichend von § 22a Absatz 3
+auch durch Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen.
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+weitere Personengruppen von der Nachweispflicht eines Testes nach Satz
+1 Nummer 3 und 4 auszunehmen. Die Landesregierungen können die
+Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
-(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Gesundheit durch
-Rechtsverordnung ohne Zustimmung des Bundesrates für einen befristeten
-Zeitraum vorzuschreiben, welche Maßnahmen die Arbeitgeber zur
-Umsetzung der Verpflichtungen nach dieser Vorschrift zu treffen haben
-und wie sich die Beschäftigten zu verhalten haben, um ihre jeweiligen
-Pflichten, die sich aus dieser Vorschrift ergeben, zu erfüllen. In der
-Rechtsverordnung kann insbesondere das Nähere geregelt werden zu
+(2) Soweit dies zur Verhinderung der Verbreitung der Coronavirus-
+Krankheit-2019 (COVID-19) und zur Gewährleistung der
+Funktionsfähigkeit des Gesundheitssystems oder der sonstigen
+Kritischen Infrastrukturen erforderlich ist, können in der Zeit vom 1.
+Oktober 2022 bis zum 7. April 2023 folgende Maßnahmen notwendige
+Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein:
 
-1.  den in Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Pflichten,
+1.  die Verpflichtung zum Tragen einer medizinischen Gesichtsmaske (Mund-
+    Nasen-Schutz) oder einer Atemschutzmaske (FFP2 oder vergleichbar)
 
-
-2.  den in Absatz 3 genannten Überwachungs- und Dokumentationspflichten.
-
+    a)  in öffentlich zugänglichen Innenräumen, in denen sich mehrere Personen
+        aufhalten,
 
 
+    b)  in Verkehrsmitteln des öffentlichen Personennahverkehrs für Fahrgäste,
 
-(7) Diese Vorschrift gilt bis zum Ablauf des 19. März 2022. Eine auf
-Grund des Absatzes 6 Satz 1 erlassene Rechtsverordnung tritt
-spätestens mit Ablauf des 19. März 2022 außer Kraft. Der Deutsche
-Bundestag kann durch im Bundesgesetzblatt bekanntzumachenden Beschluss
-einmalig die Fristen nach den Sätzen 1 und 2 um bis zu drei Monate
-verlängern.
+
+    c)  in Obdachlosenunterkünften und Einrichtungen zur gemeinschaftlichen
+        Unterbringung von Asylbewerbern, vollziehbar Ausreisepflichtigen,
+        Flüchtlingen und Spätaussiedlern,
+
+
+
+
+
+2.  die Verpflichtung zum Tragen einer medizinischen Gesichtsmaske (Mund-
+    Nasen-Schutz) für das Kontroll- und Servicepersonal und das Fahr- und
+    Steuerpersonal in Verkehrsmitteln des öffentlichen
+    Personennahverkehrs, soweit tätigkeitsbedingt physische Kontakte zu
+    anderen Personen bestehen,
+
+
+3.  die Verpflichtung zur Testung auf das Vorliegen einer Infektion mit
+    dem Coronavirus SARS-CoV-2 in
+
+    a)  Einrichtungen zur gemeinschaftlichen Unterbringung von Asylbewerbern,
+        vollziehbar Ausreisepflichtigen, Flüchtlingen und Spätaussiedlern,
+        Obdachlosen- und Wohnungslosenunterkünften sowie sonstigen
+        Massenunterkünften,
+
+
+    b)  Schulen, Kindertageseinrichtungen und
+
+
+    c)  Justizvollzugsanstalten, Abschiebungshafteinrichtungen,
+        Maßregelvollzugseinrichtungen sowie anderen Abteilungen oder
+        Einrichtungen, wenn und soweit dort dauerhaft freiheitsentziehende
+        Unterbringungen erfolgen, insbesondere psychiatrische Krankenhäuser,
+        Heime der Jugendhilfe und für Senioren.
+
+
+
+
+
+
+Absatz 1 Satz 3 gilt entsprechend. Bei Freizeit-, Kultur- und
+Sportveranstaltungen, in Freizeit- und Kultureinrichtungen sowie in
+gastronomischen Einrichtungen und bei der Sportausübung ist
+vorzusehen, dass Personen, die über einen Testnachweis nach § 22a
+Absatz 3 verfügen, von der Verpflichtung zum Tragen einer
+Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen
+Gesichtsmaske (Mund-Nasen-Schutz) ausgenommen sind. Den Personen, die
+über einen Testnachweis nach § 22a Absatz 3 verfügen, können Personen
+gleichgestellt werden, die über einen Impfnachweis nach § 22a Absatz 1
+verfügen und bei denen die letzte Einzelimpfung höchstens drei Monate
+zurückliegt, und Personen, die über einen Genesenennachweis nach § 22a
+Absatz 2 verfügen. Das Hausrecht der Betreiber oder Veranstalter,
+entsprechende Zugangsvoraussetzungen festzulegen, bleibt unberührt.
+
+(3) Soweit dies zur Verhinderung der Verbreitung der Coronavirus-
+Krankheit-2019 (COVID-19) und zur Aufrechterhaltung eines geregelten
+Präsenz-Unterrichtsbetriebs erforderlich ist, kann in der Zeit vom 1.
+Oktober 2022 bis zum 7. April 2023 für folgende Personen die
+Verpflichtung zum Tragen einer medizinischen Gesichtsmaske (Mund-
+Nasen-Schutz) eine notwendige Schutzmaßnahme im Sinne des § 28 Absatz
+1 Satz 1 und 2 sein:
+
+1.  Kinder und Schülerinnen und Schüler ab dem fünften Schuljahr in
+    Schulen und Kinderhorten, in sonstigen Ausbildungseinrichtungen, in
+    Heimen und in Ferienlagern und
+
+
+2.  Beschäftigte in Schulen und Kinderhorten, in sonstigen
+    Ausbildungseinrichtungen, in Heimen, in Ferienlagern, in
+    Kindertageseinrichtungen sowie in einer nach § 43 Absatz 1 des Achten
+    Buches Sozialgesetzbuch erlaubnispflichtigen Kindertagespflege.
+
+
+
+Bei der Entscheidung über Schutzmaßnahmen nach Satz 1 sind
+insbesondere das Recht auf schulische Bildung, auf soziale Teilhabe
+und die sonstigen besonderen Belange von Kindern und Jugendlichen zu
+berücksichtigen. Absatz 1 Satz 3 gilt entsprechend.
+
+(4) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz
+1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite
+können in einem Land oder in einer oder mehreren konkret zu
+benennenden Gebietskörperschaften eines Landes in der Zeit vom 1.
+Oktober 2022 bis zum 7. April 2023 zusätzlich zu den in den Absätzen 2
+und 3 genannten Maßnahmen folgende Maßnahmen notwendige
+Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein, sofern
+in dem Land oder in der oder den konkret zu benennenden
+Gebietskörperschaften eine konkrete Gefahr für die Funktionsfähigkeit
+des Gesundheitssystems oder der sonstigen Kritischen Infrastrukturen
+besteht und das Parlament des betroffenen Landes dies für das Land
+oder eine oder mehrere konkret zu benennende Gebietskörperschaften
+festgestellt hat:
+
+1.  die Verpflichtung zum Tragen einer medizinischen Gesichtsmaske (Mund-
+    Nasen-Schutz) oder einer Atemschutzmaske (FFP2 oder vergleichbar) bei
+    Veranstaltungen im Außenbereich, soweit ein Abstand von 1,5 Metern
+    regelmäßig nicht eingehalten werden kann,
+
+
+2.  die Verpflichtung zum Tragen einer medizinischen Gesichtsmaske (Mund-
+    Nasen-Schutz) oder einer Atemschutzmaske (FFP2 oder vergleichbar) für
+    Veranstaltungen in öffentlich zugänglichen Innenräumen,
+
+
+3.  die Verpflichtung für den Groß- und Einzelhandel, für Betriebe,
+    Einrichtungen, Gewerbe sowie Angebote und Veranstaltungen aus dem
+    Freizeit-, Kultur- und Sportbereich für öffentlich zugängliche
+    Innenräume, in denen sich mehrere Personen aufhalten, Hygienekonzepte
+    zu erstellen, die die Bereitstellung von Desinfektionsmitteln sowie
+    Maßnahmen zur Vermeidung unnötiger Kontakte und Lüftungskonzepte
+    vorsehen können,
+
+
+4.  die Anordnung eines Abstandsgebots mit einem Abstand von 1,5 Metern
+    (Mindestabstand) im öffentlichen Raum, insbesondere in öffentlich
+    zugänglichen Innenräumen,
+
+
+5.  die Festlegung von Personenobergrenzen für Veranstaltungen in
+    öffentlich zugänglichen Innenräumen.
+
+
+
+Absatz 1 Satz 3 gilt entsprechend. Die Feststellung nach Satz 1 gilt
+als aufgehoben, sofern das Parlament in dem betroffenen Land nicht
+spätestens drei Monate nach der Feststellung nach Satz 1 die
+Feststellung erneut trifft; dies gilt entsprechend, sofern das
+Parlament in dem betroffenen Land nicht spätestens drei Monate nach
+der erneuten Feststellung erneut die Feststellung trifft.
+
+(5) Rechtsverordnungen, die nach § 32 in Verbindung mit § 28 Absatz 1
+und den Absätzen 2 bis 4 erlassen werden, sind mit einer allgemeinen
+Begründung zu versehen. Schutzmaßnahmen nach den Absätzen 2 bis 4 in
+Verbindung mit § 28 Absatz 1 und nach § 28 Absatz 1 Satz 1 und 2 und
+nach den §§ 29 bis 31 können jeweils auch kumulativ angeordnet werden.
+Individuelle Schutzmaßnahmen gegenüber Kranken,
+Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach
+§ 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und
+Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben
+unberührt. Bei Entscheidungen über Schutzmaßnahmen sind soziale,
+gesellschaftliche und wirtschaftliche Auswirkungen auf den Einzelnen
+und die Allgemeinheit einzubeziehen und zu berücksichtigen, soweit
+dies mit der Erreichung der in Absatz 6 genannten Ziele vereinbar ist.
+Die besonderen Belange von Kindern und Jugendlichen sind zu
+berücksichtigen.
+
+(6) Entscheidungen über Schutzmaßnahmen nach den Absätzen 2 bis 4 sind
+insbesondere am Schutz von Leben und Gesundheit durch Verhinderung
+einer Vielzahl schwerer Krankheitsverläufe, am Schutz vulnerabler
+Personengruppen und der Funktionsfähigkeit des Gesundheitssystems und
+der sonstigen Kritischen Infrastrukturen auszurichten.
+
+(7) Eine konkrete Gefahr für die Funktionsfähigkeit des
+Gesundheitssystems oder der sonstigen Kritischen Infrastrukturen
+besteht, wenn aufgrund eines besonders starken Anstiegs von
+Indikatoren nach Satz 2 erster Halbsatz oder deren Stagnation auf
+einem sehr hohen Niveau oder bei einem versorgungsrelevanten Rückgang
+der stationären Kapazitäten davon auszugehen ist, dass es im
+Gesundheitssystem oder in den sonstigen Kritischen Infrastrukturen zu
+einem schwerwiegenden Sach- oder Personalmangel oder einer Überlastung
+der Kapazitäten kommt. Indikatoren hierfür sind das
+Abwassermonitoring, die Anzahl der Neuinfektionen mit dem Coronavirus
+SARS-CoV-2 je 100 000 Einwohner innerhalb von sieben Tagen, die
+Surveillance-Systeme des Robert Koch-Instituts für respiratorische
+Atemwegserkrankungen, die Anzahl der in Bezug auf die Coronavirus-
+Krankheit-2019 (COVID-19) in einem Krankenhaus aufgenommenen Personen
+je 100 000 Einwohner innerhalb von sieben Tagen; ebenso sind die
+verfügbaren stationären Versorgungskapazitäten zu berücksichtigen.
+Absehbare Änderungen des Infektionsgeschehens durch ansteckendere, das
+Gesundheitssystem stärker belastende Virusvarianten sind zu
+berücksichtigen. Die Landesregierungen können im Rahmen der Festlegung
+der Schutzmaßnahmen nach den Absätzen 2 bis 4 in einer
+Rechtsverordnung nach § 32 Schwellenwerte für die Indikatoren nach
+Satz 2 festsetzen; entsprechend können die Schutzmaßnahmen innerhalb
+eines Landes regional differenziert werden. Die Landesregierungen
+können die Ermächtigung durch Rechtsverordnung auf andere Stellen
+übertragen.
+
+(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates
+
+1.  die Verpflichtungen nach Absatz 1 ganz oder teilweise auszusetzen,
+
+
+2.  abweichend von Absatz 2 Satz 4 die Zeit, die die letzte Einzelimpfung
+    höchstens zurückliegen darf, zu regeln.
+
+
+
 
 
 ### § 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
@@ -4758,13 +5093,13 @@ Falle des Wechsels der Hauptwohnung oder des gewöhnlichen Aufenthaltes
 unverzüglich dem bisher zuständigen Gesundheitsamt Anzeige zu
 erstatten. Die Anzeigepflicht gilt auch bei Änderungen einer Tätigkeit
 im Lebensmittelbereich im Sinne von § 42 Abs. 1 Satz 1 oder in
-Einrichtungen im Sinne von § 23 Absatz 5 oder § 36 Absatz 1 sowie beim
-Wechsel einer Gemeinschaftseinrichtung im Sinne von § 33. § 16 Abs. 2
-Satz 4 gilt entsprechend. Die Grundrechte der körperlichen
-Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der
-Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit
-der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit
-eingeschränkt.
+Einrichtungen im Sinne von § 23 Absatz 5 oder § 35 Absatz 1 Satz 1
+sowie § 36 Absatz 1 sowie beim Wechsel einer Gemeinschaftseinrichtung
+im Sinne von § 33. § 16 Abs. 2 Satz 4 gilt entsprechend. Die
+Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1
+Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
+Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1
+Grundgesetz) werden insoweit eingeschränkt.
 
 
 ### § 30 Absonderung
@@ -4849,7 +5184,7 @@ tragen, dass im Einzelfall die Gefahr einer Weiterverbreitung besteht.
 ### § 32 Erlass von Rechtsverordnungen
 
 Die Landesregierungen werden ermächtigt, unter den Voraussetzungen,
-die für Maßnahmen nach den §§ 28, 28a und 29 bis 31 maßgebend sind,
+die für Maßnahmen nach den §§ 28 bis 28b und 29 bis 31 maßgebend sind,
 auch durch Rechtsverordnungen entsprechende Gebote und Verbote zur
 Bekämpfung übertragbarer Krankheiten zu erlassen. Die
 Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
@@ -4929,34 +5264,37 @@ werden; dazu gehören insbesondere:
 11. Mumps
 
 
-12. Paratyphus
+12. durch Orthopockenviren verursachte Krankheiten
 
 
-13. Pest
+13. Paratyphus
 
 
-14. Poliomyelitis
+14. Pest
 
 
-14a. Röteln
+15. Poliomyelitis
 
 
-15. Scharlach oder sonstigen Streptococcus pyogenes-Infektionen
+16. Röteln
 
 
-16. Shigellose
+17. Scharlach oder sonstigen Streptococcus pyogenes-Infektionen
 
 
-17. Skabies (Krätze)
+18. Shigellose
 
 
-18. Typhus abdominalis
+19. Skabies (Krätze)
 
 
-19. Virushepatitis A oder E
+20. Typhus abdominalis
 
 
-20. Windpocken
+21. Virushepatitis A oder E
+
+
+22. Windpocken
 
 
 
@@ -5076,6 +5414,17 @@ Die Leitung der Gemeinschaftseinrichtung hat jede Person, die in der
 Gemeinschaftseinrichtung neu betreut wird, oder deren Sorgeberechtigte
 über die Pflichten nach Satz 1 zu belehren.
 
+(5a) Personen, die in den in § 33 genannten Gemeinschaftseinrichtungen
+Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige regelmäßige
+Tätigkeiten ausüben und Kontakt mit den dort Betreuten haben, sind vor
+erstmaliger Aufnahme ihrer Tätigkeit und im Weiteren mindestens im
+Abstand von zwei Jahren von ihrem Arbeitgeber über die
+gesundheitlichen Anforderungen und Mitwirkungsverpflichtungen nach den
+Absätzen 1 bis 5 zu belehren. Über die Belehrung ist ein Protokoll zu
+erstellen, das beim Arbeitgeber für die Dauer von drei Jahren
+aufzubewahren ist. Die Sätze 1 und 2 finden für Dienstherren
+entsprechende Anwendung.
+
 (6) Werden Tatsachen bekannt, die das Vorliegen einer der in den
 Absätzen 1, 2 oder 3 aufgeführten Tatbestände annehmen lassen, so hat
 die Leitung der Gemeinschaftseinrichtung das Gesundheitsamt, in dessen
@@ -5129,17 +5478,211 @@ anonymisierten Daten über die oberste Landesgesundheitsbehörde dem
 Robert Koch-Institut zu übermitteln.
 
 
-### § 35 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen
+### § 35 Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
 
-Personen, die in den in § 33 genannten Gemeinschaftseinrichtungen
-Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige regelmäßige
-Tätigkeiten ausüben und Kontakt mit den dort Betreuten haben, sind vor
-erstmaliger Aufnahme ihrer Tätigkeit und im Weiteren mindestens im
-Abstand von zwei Jahren von ihrem Arbeitgeber über die
-gesundheitlichen Anforderungen und Mitwirkungsverpflichtungen nach §
-34 zu belehren. Über die Belehrung ist ein Protokoll zu erstellen, das
-beim Arbeitgeber für die Dauer von drei Jahren aufzubewahren ist. Die
-Sätze 1 und 2 finden für Dienstherren entsprechende Anwendung.
+(1) Folgende Einrichtungen und Unternehmen haben sicherzustellen, dass
+die nach dem Stand der medizinischen Wissenschaft und der
+Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um
+Infektionen zu verhüten und die Weiterverbreitung von
+Krankheitserregern zu vermeiden:
+
+1.  vollstationäre Einrichtungen zur Betreuung und Unterbringung älterer,
+    behinderter oder pflegebedürftiger Menschen oder vergleichbare
+    Einrichtungen,
+
+
+2.  teilstationäre Einrichtungen zur Betreuung und Unterbringung älterer,
+    behinderter oder pflegebedürftiger Menschen oder vergleichbare
+    Einrichtungen,
+
+
+3.  ambulante Pflegedienste und Unternehmen, die den Einrichtungen nach
+    Nummer 1 oder Nummer 2 vergleichbare Dienstleistungen anbieten;
+    Angebote zur Unterstützung im Alltag im Sinne von § 45a Absatz 1 Satz
+    2 des Elften Buches Sozialgesetzbuch zählen nicht zu den
+    Dienstleistungen, die mit Angeboten in Einrichtungen nach Nummer 1
+    oder Nummer 2 vergleichbar sind.
+
+
+
+Die Einhaltung des Standes der medizinischen Wissenschaft oder der
+Pflegewissenschaft im Hinblick auf die Infektionsprävention im Rahmen
+der Durchführung medizinischer oder pflegerischer Maßnahmen wird
+vermutet, wenn jeweils die veröffentlichten Empfehlungen der
+Kommission für Infektionsprävention in medizinischen Einrichtungen und
+in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe
+nach § 23 Absatz 1 beachtet worden sind. Die in Satz 1 genannten
+Einrichtungen und Unternehmen müssen in Hygieneplänen
+innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und
+unterliegen der infektionshygienischen Überwachung durch das
+Gesundheitsamt. Die infektionshygienische Überwachung von ambulanten
+Pflegediensten, die ambulante Intensivpflege erbringen, erstreckt sich
+auch auf Orte, an denen die Intensivpflege erbracht wird. Die
+ambulanten Pflegedienste nach Satz 4 haben dem Gesundheitsamt auf
+dessen Anforderung die Namen und Kontaktdaten der von ihnen versorgten
+Personen und der vertretungsberechtigten Personen mitzuteilen. In den
+in Satz 1 Nummer 1 und 2 genannten Einrichtungen haben die
+Einrichtungsleitungen für den Zeitraum vom 1. Oktober 2022 bis
+einschließlich 7. April 2023 eine oder mehrere verantwortliche
+Personen zur Sicherstellung der Einhaltung der in Satz 7 genannten
+Anforderungen, Abläufe und Maßnahmen zu benennen; die Benennung setzt
+die Zustimmung der betreffenden Personen voraus. Die benannten
+Personen stellen sicher,
+
+1.  dass Hygieneanforderungen unter Berücksichtigung der Empfehlungen nach
+    Satz 2 und der Hygienepläne nach Satz 3 eingehalten werden,
+
+
+2.  dass festgelegte Organisations- und Verfahrensabläufe im Zusammenhang
+    mit dem
+
+    a)  Impfen von Bewohnern sowie Gästen gegen das Coronavirus SARS-CoV-2,
+        insbesondere die regelmäßige Kontrolle des Impfstatus sowie die
+        organisatorische und praktische Unterstützung von Impfungen durch
+        niedergelassene Ärzte und mobile Impfteams und
+
+
+    b)  Testen von Bewohnern sowie Gästen, von in der Einrichtung tätigen
+        Personen und von Besuchern auf das Coronavirus SARS-CoV-2 gemäß dem
+        einrichtungsspezifischen Testkonzept und unter Berücksichtigung der
+        Teststrategie der Bundesregierung, der Empfehlungen des Robert Koch-
+        Instituts für Pflegeeinrichtungen und Einrichtungen der
+        Eingliederungshilfe sowie landesspezifischer Vorgaben und der Vorgaben
+        der Coronavirus-Testverordnung beachtet werden sowie
+
+
+
+
+
+3.  dass Maßnahmen zur Unterstützung der Versorgung von Bewohnern von
+    vollstationären Pflegeeinrichtungen mit antiviralen
+    COVID-19-Arzneimitteln, insbesondere die Benachrichtigung von
+    behandelnden Ärzten im Fall eines positiven Testergebnisses von
+    Bewohnern auf das Coronavirus SARS-CoV-2 sowie die Bevorratung von
+    antiviralen COVID-19-Arzneimitteln in der jeweiligen Einrichtung
+    vorgesehen werden.
+
+
+
+Der Qualitätsausschuss Pflege nach § 113b des Elften Buches
+Sozialgesetzbuch erstellt in Abstimmung mit dem Bundesministerium für
+Gesundheit bis zum 15. Oktober 2022 pflegefachlich orientierte
+Grundlagen und Verfahrenshinweise für die Sicherstellung der
+Einhaltung der in Satz 7 genannten Anforderungen, Abläufe und
+Maßnahmen durch nach Satz 7 in voll- und teilstationären
+Pflegeeinrichtungen benannte Personen. Unter Berücksichtigung dieser
+Grundlagen und Verfahrenshinweise legen die voll- und teilstationären
+Pflegeeinrichtungen ihre Organisations- und Verfahrensabläufe nach
+Satz 7 bis zum 1. November 2022 fest und dokumentieren in diesen
+Festlegungen auch die Benennung nach Satz 6. Die Umsetzung der in Satz
+7 genannten Anforderungen, Abläufe und Maßnahmen gemäß den Grundlagen
+und Verfahrenshinweisen des Qualitätsausschusses Pflege nach Satz 8
+von den voll- und teilstationären Pflegeeinrichtungen in Verantwortung
+der nach Satz 6 zu benennenden Personen sind zu dokumentieren. Das
+Gesundheitsamt überwacht, ob die Leitungen der Einrichtungen nach Satz
+1 Nummer 1 und 2 Personen nach Satz 6 benannt haben. Es überwacht
+auch, ob voll- und teilstationäre Pflegeeinrichtungen die in Satz 7
+genannten Anforderungen, Abläufe und Maßnahmen entsprechend den nach
+Satz 8 erstellten Grundlagen und Verfahrenshinweisen umsetzen und die
+Festlegungen nach Satz 9 getroffen haben.
+
+(2) Soweit es zur Erfüllung von Verpflichtungen nach Absatz 1 in Bezug
+auf übertragbare Krankheiten erforderlich ist, darf der Arbeitgeber
+personenbezogene Daten eines Beschäftigten über dessen Impf- und
+Serostatus verarbeiten, um über die Begründung eines
+Beschäftigungsverhältnisses oder über die Art und Weise einer
+Beschäftigung zu entscheiden. Dies gilt nicht in Bezug auf
+übertragbare Krankheiten, die im Rahmen einer leitliniengerechten
+Behandlung nach dem Stand der medizinischen Wissenschaft nicht mehr
+übertragen werden können. § 22 Absatz 2 des Bundesdatenschutzgesetzes
+gilt entsprechend. Die Bestimmungen des allgemeinen Datenschutzrechts
+bleiben unberührt.
+
+(3) Die Landesregierungen haben durch Rechtsverordnung für die in
+Absatz 1 Satz 1 Nummer 1 genannten Einrichtungen die jeweils
+erforderlichen Maßnahmen zur Verhütung, Erkennung, Erfassung und
+Bekämpfung von übertragbaren Krankheiten zu regeln. Dabei sind
+insbesondere Regelungen zu treffen über
+
+1.  hygienische Mindestanforderungen an Bau, Ausstattung und Betrieb der
+    Einrichtungen,
+
+
+2.  die erforderliche personelle Ausstattung mit hygienebeauftragten
+    Pflegefachkräften oder Hygienefachkräften,
+
+
+3.  Aufgaben und Anforderungen an Fort- und Weiterbildung der in der
+    Einrichtung erforderlichen hygienebeauftragten Pflegefachkräfte oder
+    Hygienefachkräfte,
+
+
+4.  die erforderliche Qualifikation und Schulung des Personals
+    hinsichtlich der Infektionsprävention,
+
+
+5.  die Information des Personals über Maßnahmen, die zur Verhütung und
+    Bekämpfung von übertragbaren Krankheiten erforderlich sind.
+
+
+
+Die Landesregierungen können die Ermächtigung durch Rechtsverordnung
+auf andere Stellen übertragen.
+
+(4) Die Leiter von in Absatz 1 Satz 1 Nummer 1 und 2 genannten
+Einrichtungen haben das Gesundheitsamt, in dessen Bezirk sich die
+Einrichtung befindet, unverzüglich zu benachrichtigen und die nach
+diesem Gesetz erforderlichen krankheits- und personenbezogenen Angaben
+zu machen, wenn eine in der Einrichtung tätige oder untergebrachte
+Person an Skabies erkrankt ist oder bei ihr der Verdacht besteht, dass
+sie an Skabies erkrankt ist.
+
+(5) Personen, die in einer in Absatz 1 Satz 1 Nummer 1 und 2 genannten
+Einrichtung aufgenommen werden sollen, haben der Leitung der
+Einrichtung vor oder unverzüglich nach ihrer Aufnahme ein ärztliches
+Zeugnis darüber vorzulegen, dass bei ihnen keine Anhaltspunkte für das
+Vorliegen einer ansteckungsfähigen Lungentuberkulose vorhanden sind.
+Bei der erstmaligen Aufnahme darf die Erhebung der Befunde, die dem
+ärztlichen Zeugnis zugrunde liegt, nicht länger als sechs Monate
+zurückliegen, bei einer erneuten Aufnahme darf sie nicht länger als
+zwölf Monate zurückliegen.
+
+(6) Die in Absatz 1 Satz 1 Nummer 1 und 2 genannten voll- und
+teilstationären Einrichtungen, die zugelassene Pflegeeinrichtungen im
+Sinne von § 72 des Elften Buches Sozialgesetzbuch sind, sind
+verpflichtet, dem Robert Koch-Institut monatlich Angaben zum Anteil
+der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind,
+jeweils bezogen auf die Personen, die in der Einrichtung beschäftigt
+sind oder behandelt, betreut oder gepflegt werden oder untergebracht
+sind, in anonymisierter Form zu übermitteln. Haben sich die nach Satz
+1 zu übermittelnden Angaben in einem Monat gegenüber dem Vormonat
+nicht geändert, übermittelt die Einrichtung die vereinfachte Meldung,
+dass keine Änderungen im Vergleich zum Vormonat vorliegen. In diesen
+Fällen werden die Daten des Vormonats durch das Robert Koch-Institut
+fortgeschrieben. Soweit es zur Erfüllung der Pflichten nach den Sätzen
+1 und 2 erforderlich ist, darf die Leitung der in Satz 1 genannten
+Einrichtungen zu diesem Zweck personenbezogene Daten einschließlich
+Daten zum Impfstatus in Bezug auf die Coronavirus-Krankheit-2019
+(COVID-19) verarbeiten. Die Daten nach Satz 4 dürfen auch zur
+Beurteilung der Gefährdungslage in der Einrichtung im Hinblick auf die
+Coronavirus-Krankheit-2019 (COVID-19) verarbeitet werden, solange und
+soweit dies erforderlich ist. § 22 Absatz 2 des
+Bundesdatenschutzgesetzes gilt entsprechend. Bestehen zum Zeitpunkt
+des Inkrafttretens dieser Regelung bereits landesrechtliche
+Meldeverfahren, die auf bisherigem Bundesrecht beruhen und die zu den
+durch das Robert Koch-Institut nach Satz 1 zu erhebenden Daten
+anschlussfähig sind, bleiben die landesrechtlichen Meldeverfahren von
+der Änderung unberührt, wenn die Länder nach Kreisen und kreisfreien
+Städten aufgeschlüsselte Daten direkt an das Robert Koch-Institut
+übermitteln; insoweit entfällt die Meldepflicht nach Satz 1. Das
+Robert Koch-Institut führt die ihm übermittelten Daten zusammen und
+übermittelt sie monatlich in anonymisierter Form dem Bundesministerium
+für Gesundheit sowie den Ländern bezogen auf Länder- und Kreisebene.
+Die nach den Sätzen 4 und 5 erhobenen Daten sind spätestens am Ende
+des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen
+des allgemeinen Datenschutzrechts bleiben unberührt. Die nach Satz 1
+zu übermittelnden Angaben werden letztmalig für den Monat April 2023
+erhoben.
 
 
 ### § 36 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
@@ -5153,9 +5696,7 @@ Gesundheitsamt:
     Gemeinschaftseinrichtungen nach § 33 Nummer 2,
 
 
-2.  nicht unter § 23 Absatz 5 Satz 1 fallende voll- oder teilstationäre
-    Einrichtungen zur Betreuung und Unterbringung älterer, behinderter
-    oder pflegebedürftiger Menschen oder vergleichbare Einrichtungen,
+2.  (weggefallen)
 
 
 3.  Obdachlosenunterkünfte,
@@ -5168,15 +5709,7 @@ Gesundheitsamt:
 5.  sonstige Massenunterkünfte,
 
 
-6.  Justizvollzugsanstalten sowie
-
-
-7.  nicht unter § 23 Absatz 5 Satz 1 fallende ambulante Pflegedienste und
-    Unternehmen, die den Einrichtungen nach Nummer 2 vergleichbare
-    Dienstleistungen anbieten; Angebote zur Unterstützung im Alltag im
-    Sinne von § 45a Absatz 1 Satz 2 des Elften Buches Sozialgesetzbuch
-    zählen nicht zu den Dienstleistungen, die mit Angeboten in
-    Einrichtungen nach Nummer 2 vergleichbar sind.
+6.  Justizvollzugsanstalten.
 
 
 
@@ -5188,7 +5721,7 @@ können durch das Gesundheitsamt infektionshygienisch überwacht werden.
 
 (3) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 eine
 epidemische Lage von nationaler Tragweite festgestellt hat und
-unabhängig davon bis zum Ablauf des 19. März 2022 darf der
+unabhängig davon bis zum Ablauf des 30. Juni 2022 darf der
 Arbeitgeber, soweit dies zur Verhinderung der Verbreitung der
 Coronavirus-Krankheit-2019 (COVID-19) erforderlich ist, in den in den
 Absätzen 1 und 2 genannten Einrichtungen und Unternehmen
@@ -5543,9 +6076,7 @@ erhobenen Daten dürfen mit den Daten vorgelegter Reisedokumente
 abgeglichen werden.
 
 (12) Eine aufgrund des Absatzes 8 Satz 1 oder des Absatzes 10 Satz 1
-erlassene Rechtsverordnung tritt spätestens ein Jahr nach der
-Aufhebung der Feststellung der epidemischen Lage von nationaler
-Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 außer
+erlassene Rechtsverordnung tritt spätestens am 7. April 2023 außer
 Kraft. Bis zu ihrem Außerkrafttreten kann eine aufgrund des Absatzes 8
 Satz 1 oder des Absatzes 10 Satz 1 erlassene Rechtsverordnung auch
 nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert
@@ -5595,81 +6126,191 @@ oder Badeteichen hat die Aufbereitung des Wassers durch biologische
 und mechanische Verfahren, die mindestens den allgemein anerkannten
 Regeln der Technik entsprechen, zu erfolgen.
 
-(3) Wassergewinnungs- und Wasserversorgungsanlagen, Schwimm- oder
-Badebecken und Schwimm- oder Badeteiche einschließlich ihrer
-Wasseraufbereitungsanlagen unterliegen hinsichtlich der in den
-Absätzen 1 und 2 genannten Anforderungen der Überwachung durch das
-Gesundheitsamt.
+(3) Wasserversorgungsanlagen, Schwimm- oder Badebecken und Schwimm-
+oder Badeteiche einschließlich ihrer Wasseraufbereitungsanlagen
+unterliegen hinsichtlich der in den Absätzen 1 und 2 genannten
+Anforderungen der Überwachung durch das Gesundheitsamt und, soweit es
+sich um die Überwachung radioaktiver Stoffe im Wasser für den
+menschlichen Gebrauch handelt, durch die sonst zuständige Behörde.
 
 
-### § 38 Erlass von Rechtsverordnungen
+### § 38 Verordnungsermächtigung
 
-(1) Das Bundesministerium für Gesundheit bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates,
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
 1.  welchen Anforderungen das Wasser für den menschlichen Gebrauch
-    entsprechen muss, um der Vorschrift von § 37 Abs. 1 zu genügen,
+    entsprechen muss, um der Vorschrift von § 37 Absatz 1 zu genügen,
 
 
-2.  dass und wie die Wassergewinnungs- und Wasserversorgungsanlagen und
-    das Wasser in hygienischer Hinsicht zu überwachen sind,
+2.  welchen Anforderungen Wasserversorgungsanlagen entsprechen müssen,
 
 
-3.  welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten
-    dem Unternehmer oder sonstigen Inhaber einer Wassergewinnungs- oder
-    Wasserversorgungsanlage im Sinne der Nummern 1 und 2 obliegen, welche
-    Wasseruntersuchungen dieser durchführen oder durchführen lassen muss
-    und in welchen Zeitabständen diese vorzunehmen sind,
+3.  dass und wie die Wasserversorgungsanlagen und das Wasser in
+    hygienischer Hinsicht zu überwachen sind,
 
 
-4.  die Anforderungen an Stoffe, Verfahren und Materialien bei der
-    Gewinnung, Aufbereitung oder Verteilung des Wassers für den
-    menschlichen Gebrauch, soweit diese nicht den Vorschriften des
-    Lebensmittel- und Futtermittelgesetzbuches unterliegen, und
-    insbesondere, dass nur Aufbereitungsstoffe und Desinfektionsverfahren
-    verwendet werden dürfen, die hinreichend wirksam sind und keine
-    vermeidbaren oder unvertretbaren Auswirkungen auf Gesundheit und
-    Umwelt haben,
+4.  dass die Betreiber von Wasserversorgungsanlagen
+
+    a)  Anzeigepflichten in Bezug auf die Wasserversorgungsanlagen und ihren
+        Betrieb unterliegen,
 
 
-5.  in welchen Fällen das Wasser für den menschlichen Gebrauch, das den
-    Anforderungen nach den Nummern 1 oder 4 nicht entspricht, nicht oder
+    b)  bei der Planung, der Errichtung und dem Betrieb von
+        Wasserversorgungsanlagen, insbesondere bei der Aufbereitung des
+        Wassers, bestimmte Anforderungen und allgemein anerkannte Regeln der
+        Technik einzuhalten haben,
+
+
+    c)  Wasser auf bestimmte Parameter hin zu untersuchen und zu bewerten und
+        die Ergebnisse aufzuzeichnen, aufzubewahren, dem Gesundheitsamt oder
+        der sonst zuständigen Behörde zu übermitteln oder auf deren Verlangen
+        zur Verfügung zu stellen haben,
+
+
+    d)  ein Risikomanagement der Wasserversorgungsanlage zu betreiben haben,
+
+
+    e)  im Fall der Nichteinhaltung von Anforderungen die Ursache zu klären
+        und Abhilfe zu schaffen haben,
+
+
+    f)  Maßnahmenpläne aufzustellen haben,
+
+
+    g)  an Überwachungsmaßnahmen des Gesundheitsamtes oder der sonst
+        zuständigen Behörde mitzuwirken und diese zu dulden haben,
+
+
+
+
+
+5.  welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten
+    den Betreibern von Wasserversorgungsanlagen über Nummer 4 hinaus
+    obliegen,
+
+
+6.  welche Anforderungen an Stoffe, Verfahren und Materialien bei der
+    Gewinnung, Aufbereitung oder Verteilung einschließlich Speicherung des
+    Wassers für den menschlichen Gebrauch bestehen, soweit die Stoffe,
+    Verfahren und Materialien nicht den Vorschriften des Lebensmittel- und
+    Futtermittelgesetzbuches unterliegen, und insbesondere,
+
+    a)  dass nur Aufbereitungsstoffe und Desinfektionsverfahren verwendet
+        werden dürfen, die hinreichend wirksam sind, keine vermeidbaren oder
+        unvertretbaren Auswirkungen auf Gesundheit und Umwelt haben und für
+        die das Umweltbundesamt geprüft und festgestellt hat, dass die
+        Aufbereitungsstoffe und Desinfektionsverfahren diese Anforderungen
+        unter bestimmten einzuhaltenden Einsatzbedingungen und bei Beachtung
+        bestimmter Dokumentations- und Untersuchungspflichten erfüllen, und
+
+
+    b)  welche Anforderungen an Werkstoffe und Materialien, die Kontakt mit
+        dem Wasser für den menschlichen Gebrauch haben, bestehen und dass
+        Werkstoffe und Materialien nur verwendet werden dürfen, wenn das
+        Umweltbundesamt geprüft und in Bewertungsgrundlagen mit
+        Prüfvorschriften und Positivlisten festgestellt hat, dass die
+        Werkstoffe und Materialien diese Anforderungen erfüllen,
+
+
+
+
+
+7.  welche Voraussetzungen, Inhalte und Verfahren für die Prüfungen und
+    Feststellungen des Umweltbundesamtes nach Nummer 6 gelten,
+
+
+8.  in welchen Fällen das Wasser für den menschlichen Gebrauch, das den
+    Anforderungen nach Nummer 1 oder Nummer 6 nicht entspricht, nicht oder
     nur eingeschränkt abgegeben oder anderen nicht oder nur eingeschränkt
     zur Verfügung gestellt werden darf,
 
 
-6.  dass und wie die Bevölkerung über die Beschaffenheit des Wassers für
-    den menschlichen Gebrauch und über etwaige zu treffende Maßnahmen zu
-    informieren ist,
+9.  in welchen Fällen und wie die zuständige Behörde oder die Betreiber
+    von Wasserversorgungsanlagen die Bevölkerung zu informieren haben über
+
+    a)  den Namen, die Adresse und die Eigentumsstruktur des Betreibers sowie
+        Angaben zu einer Kontaktstelle,
 
 
-7.  dass und wie Angaben über die Gewinnung und die Beschaffenheit des
+    b)  die Wasserversorgung,
+
+
+    c)  die Beschaffenheit des Wassers für den menschlichen Gebrauch im
+        Hinblick auf die in § 37 Absatz 1 genannten Anforderungen,
+
+
+    d)  Ergebnisse der vorgeschriebenen Untersuchungen des Wassers für den
+        menschlichen Gebrauch nach einer aufgrund der Nummer 4 erlassenen
+        Rechtsverordnung,
+
+
+    e)  die Überwachung der Beschaffenheit des Wassers für den menschlichen
+        Gebrauch nach § 37 Absatz 3,
+
+
+    f)  Maßnahmen des Betreibers zur Aufrechterhaltung oder Wiederherstellung
+        der Beschaffenheit des Wassers für den menschlichen Gebrauch im
+        Hinblick auf die in § 37 Absatz 1 genannten Anforderungen,
+
+
+    g)  die Maßnahmen des Betreibers zur Anwendung des risikobasierten
+        Ansatzes für sicheres Wasser für den menschlichen Gebrauch,
+
+
+    h)  einen gesundheits- und verantwortungsbewussten Umgang mit Wasser für
+        den menschlichen Gebrauch,
+
+
+    i)  den Verbrauch von Wasser für den menschlichen Gebrauch,
+
+
+    j)  die Höhe und die Berechnungsgrundlagen des Entgelts für Wasser für den
+        menschlichen Gebrauch und
+
+
+    k)  Verbraucherbeschwerden in Bezug auf Pflichten des Betreibers nach
+        diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen
+        Rechtsverordnung, soweit dem Betreiber die Informationen als
+        Zusammenfassungen oder Statistiken vorliegen,
+
+
+
+
+
+10. dass und wie Angaben über die Gewinnung und die Beschaffenheit des
     Wassers für den menschlichen Gebrauch einschließlich personenbezogener
-    Daten, soweit diese für die Erfassung und die Überwachung der
-    Wasserqualität und der Wasserversorgung erforderlich sind, zu
-    übermitteln sind und
+    Daten zu übermitteln sind, soweit diese Angaben für die Erfassung und
+    die Überwachung der Beschaffenheit des Wassers für den menschlichen
+    Gebrauch und der Wasserversorgung erforderlich sind,
 
 
-8.  die Anforderungen an die Untersuchungsstellen, die das Wasser für den
-    menschlichen Gebrauch analysieren.
+11. welchen Anforderungen Untersuchungsstellen unterliegen, die das Wasser
+    für den menschlichen Gebrauch untersuchen, und nach welchen Verfahren
+    Untersuchungen des Wassers für den menschlichen Gebrauch durchzuführen
+    sind,
+
+
+12. in welchen Fällen und wie Untersuchungsstellen, die das Wasser für den
+    menschlichen Gebrauch untersuchen, dem Gesundheitsamt Ergebnisse von
+    solchen Untersuchungen oder dem Umweltbundesamt Daten in aggregierter
+    Form über Untersuchungen von Wasser für den menschlichen Gebrauch zu
+    melden haben und
+
+
+13. in welchen Fällen und wie die Betreiber von Wasserversorgungsanlagen
+    und Installationsunternehmen dem Gesundheitsamt Feststellungen über
+    eine gefährliche Beschaffenheit von Wasserversorgungsanlagen,
+    insbesondere im Hinblick auf das Vorhandensein des Werkstoffs Blei,
+    mitzuteilen haben.
 
 
 
-In der Rechtsverordnung können auch Regelungen über die Anforderungen
-an die Wassergewinnungs- und Wasserversorgungsanlagen getroffen
-werden. Ferner kann in der Rechtsverordnung dem Umweltbundesamt die
-Aufgabe übertragen werden, zu prüfen und zu entscheiden, ob Stoffe,
-Verfahren und Materialien die nach Satz 1 Nummer 4 festgelegten
-Anforderungen erfüllen. Voraussetzungen, Inhalt und Verfahren der
-Prüfung und Entscheidung können in der Rechtsverordnung näher bestimmt
-werden. In der Rechtsverordnung kann zudem festgelegt werden, dass
-Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung und
-Verteilung des Wassers für den menschlichen Gebrauch erst dann
-verwendet werden dürfen, wenn das Umweltbundesamt festgestellt hat,
-dass sie die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen.
 Die Rechtsverordnung bedarf des Einvernehmens mit dem
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
-soweit es sich um Wassergewinnungsanlagen handelt.
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz, soweit in der Rechtsverordnung Regelungen zu
+Wasserversorgungsanlagen mit Wassergewinnung oder zu radioaktiven
+Stoffen im Wasser für den menschlichen Gebrauch getroffen werden.
 
 (2) Das Bundesministerium für Gesundheit bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -5683,11 +6324,10 @@ Rechtsverordnung mit Zustimmung des Bundesrates,
 
 
 3.  welche Handlungs-, Unterlassungs-, Mitwirkungs- und Duldungspflichten
-    dem Unternehmer oder sonstigen Inhaber eines Schwimm- oder Badebeckens
-    oder eines Schwimm- oder Badeteiches im Sinne der Nummern 1 und 2
-    obliegen, welche Wasseruntersuchungen dieser durchführen oder
-    durchführen lassen muss und in welchen Zeitabständen diese vorzunehmen
-    sind,
+    dem Betreiber eines Schwimm- oder Badebeckens oder eines Schwimm- oder
+    Badeteiches im Sinne der Nummern 1 und 2 obliegen, welche
+    Wasseruntersuchungen dieser durchführen oder durchführen lassen muss
+    und in welchen Zeitabständen diese vorzunehmen sind,
 
 
 4.  in welchen Fällen das in § 37 Abs. 2 bezeichnete Wasser, das den
@@ -5712,11 +6352,11 @@ Technik entsprechen.
 
 ### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
 
-(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder
-Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines
-Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen
-nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene
-Kosten durchzuführen oder durchführen zu lassen.
+(1) Der Betreiber einer Wasserversorgungsanlage, eines Schwimm- oder
+Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund
+von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden
+Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen
+zu lassen.
 
 (2) Die zuständige Behörde hat die notwendigen Maßnahmen zu treffen,
 um
@@ -6351,10 +6991,9 @@ Deutschland unberührt.
 
 Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen
 obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für
-ortsfeste Anlagen zur ausschließlichen Befüllung von
-Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des
-Gesundheitsamtes und der zuständigen Behörde nach den §§ 37 bis 39 und
-41 betroffen sind.
+Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem
+Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der
+zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
 
 
 ## 11. Abschnitt - Angleichung an Gemeinschaftsrecht
@@ -6446,7 +7085,7 @@ Anspruch auf Entschädigung den Pflegeeltern zu. Der Anspruch nach Satz
 von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1
 festgestellten epidemischen Lage von nationaler Tragweite, soweit
 diese zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019
-(COVID-19) im Zeitraum bis zum Ablauf des 19. März 2022 erfolgen.
+(COVID-19) im Zeitraum bis zum Ablauf des 23. September 2022 erfolgen.
 
 (2) Die Entschädigung bemisst sich nach dem Verdienstausfall. Für die
 ersten sechs Wochen wird sie in Höhe des Verdienstausfalls gewährt.
@@ -6550,10 +7189,14 @@ als auch nach Nummer 4 vor, so ist der höhere Betrag anzurechnen.
 (9) Der Anspruch auf Entschädigung geht insoweit, als dem
 Entschädigungsberechtigten Arbeitslosengeld oder Kurzarbeitergeld für
 die gleiche Zeit zu gewähren ist, auf die Bundesagentur für Arbeit
-über. Das Eintreten eines Tatbestandes nach Absatz 1 oder Absatz 1a
-unterbricht nicht den Bezug von Arbeitslosengeld oder
-Kurzarbeitergeld, wenn die weiteren Voraussetzungen nach dem Dritten
-Buch Sozialgesetzbuch erfüllt sind.
+über. Die bei der Gewährung von Kurzarbeitergeld auf die Bundesagentur
+für Arbeit übergegangenen Entschädigungsansprüche können auf der
+Grundlage von Vereinbarungen der Bundesagentur für Arbeit mit den
+Ländern in einem pauschalierten Verfahren geltend gemacht werden. Das
+Eintreten eines Tatbestandes nach Absatz 1 oder Absatz 1a unterbricht
+nicht den Bezug von Arbeitslosengeld oder Kurzarbeitergeld, wenn die
+weiteren Voraussetzungen nach dem Dritten Buch Sozialgesetzbuch
+erfüllt sind.
 
 (10) Ein auf anderen gesetzlichen Vorschriften beruhender Anspruch auf
 Ersatz des Verdienstausfalls, der dem Entschädigungsberechtigten durch
@@ -6586,7 +7229,7 @@ nicht nachgewiesen oder ist ein Unterschiedsbetrag nach Absatz 3 zu
 errechnen, so kann die zuständige Behörde die Vorlage anderer oder
 weiterer Nachweise verlangen. Die Frist nach Satz 1 verlängert sich in
 den Fällen des Absatzes 9 bei der Gewährung von Kurzarbeitergeld auf
-drei Jahre.
+vier Jahre.
 
 (12) Die zuständige Behörde hat auf Antrag dem Arbeitgeber einen
 Vorschuss in der voraussichtlichen Höhe des Erstattungsbetrages, den
@@ -6672,11 +7315,18 @@ Satz 1 in dem Verhältnis dieses Einkommens zur ungekürzten
 Entschädigung.
 
 
-### § 59 Sondervorschrift für Ausscheider
+### § 59 Arbeits- und sozialrechtliche Sondervorschriften
 
-Ausscheider, die Anspruch auf eine Entschädigung nach § 56 haben,
-gelten als körperlich Behinderte im Sinne des Dritten Buches
-Sozialgesetzbuch.
+(1) Wird ein Beschäftigter während seines Urlaubs nach § 30, auch in
+Verbindung mit § 32, abgesondert oder hat er sich auf Grund einer nach
+§ 36 Absatz 8 Satz 1 Nummer 1 erlassenen Rechtsverordnung abzusondern,
+so werden die Tage der Absonderung nicht auf den Jahresurlaub
+angerechnet.
+
+(2) Kranke und Ausscheider, die länger als sechs Monate Anspruch auf
+eine Entschädigung nach § 56 Absatz 1 Satz 1 oder Satz 2 haben oder
+mit hoher Wahrscheinlichkeit haben werden, gelten als Menschen mit
+Behinderungen im Sinne des Dritten Buches Sozialgesetzbuch.
 
 
 ### § 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
@@ -7039,7 +7689,10 @@ Bundesversorgungsgesetzes.
 
 (1) Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65
 gegen das nach § 66 Absatz 1 zur Zahlung verpflichtete Land ist der
-Verwaltungsrechtsweg gegeben.
+Verwaltungsrechtsweg gegeben. Der Verwaltungsrechtsweg ist auch
+gegeben, soweit andere Ansprüche wegen Entschädigung für Maßnahmen
+aufgrund dieses Gesetzes geltend gemacht werden. Artikel 14 Absatz 3
+Satz 4 und Artikel 34 Satz 3 des Grundgesetzes bleiben unberührt.
 
 (1a) Für Streitigkeiten über Ansprüche nach einer auf Grund des § 20i
 Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2,
@@ -7068,7 +7721,7 @@ ist:
 1.  Kosten für die Übermittlung der Meldungen nach den §§ 6 und 7,
 
 
-2.  Kosten für die Durchführung der Erhebungen nach § 13 Absatz 2 Satz 5,
+2.  Kosten für die Durchführung der Erhebungen nach § 13 Absatz 2,
 
 
 3.  Kosten für die Ablieferung von Untersuchungsmaterial an bestimmte
@@ -7094,11 +7747,16 @@ ist:
 8.  Kosten für die Durchführung von Schutzmaßnahmen nach den §§ 29 und 30,
 
 
-9.  Kosten für ärztliche Untersuchungen nach § 36 Absatz 5 Satz 1 und 3,
-    Absatz 6 Satz 2, Absatz 7 Satz 2 und Absatz 10 Satz 2.
+9.  Kosten für ärztliche Untersuchungen nach § 20 Absatz 12 Satz 2, § 20a
+    Absatz 5 Satz 2, § 36 Absatz 5 Satz 1 und 3, Absatz 6 Satz 2, Absatz 7
+    Satz 2 und Absatz 10 Satz 2.
 
 
 
+In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im
+Einvernehmen mit dem Bundesministerium der Finanzen vorgesehen werden,
+dass der Bund sich im Hinblick auf die Durchführung der Erhebung durch
+das Robert Koch-Institut anteilig an der Kostentragung beteiligt.
 Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist
 oder solange dies noch nicht feststeht, können die entsprechenden
 Kosten vorläufig aus öffentlichen Mitteln bestritten werden. Der
@@ -7144,6 +7802,14 @@ soweit die Länder abweichende Vereinbarungen treffen.
     Satz 2, 3, 4 oder 5 oder einer Rechtsverordnung nach § 15 Absatz 1
     oder 3, eine Meldung nicht, nicht richtig, nicht vollständig, nicht in
     der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+
+2a. entgegen § 13 Absatz 5 Satz 1, auch in Verbindung mit einer
+    Rechtsverordnung nach Satz 3 Nummer 1, oder entgegen § 13 Absatz 7
+    Satz 1 in Verbindung mit einer Rechtsverordnung nach Satz 4 Nummer 1
+    bis 3 oder 4 eine dort genannte Angabe nicht, nicht richtig, nicht
+    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig übermittelt,
 
 
 3.  entgegen § 15a Absatz 2 Satz 1, § 16 Absatz 2 Satz 3, auch in
@@ -7200,22 +7866,16 @@ soweit die Länder abweichende Vereinbarungen treffen.
     rechtzeitig vorlegt,
 
 
-7e. entgegen § 20a Absatz 2 Satz 2, Absatz 3 Satz 2 oder Absatz 4 Satz 2
-    eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig vornimmt,
+7e. (weggefallen)
 
 
-7f. einer vollziehbaren Anordnung nach § 20a Absatz 2 Satz 3 Nummer 3,
-    auch in Verbindung mit Absatz 3 Satz 3 oder Absatz 4 Satz 3, oder nach
-    § 20a Absatz 5 Satz 3 zuwiderhandelt,
+7f. (weggefallen)
 
 
-7g. entgegen § 20a Absatz 3 Satz 4 oder Satz 5 eine Person beschäftigt
-    oder in einer Einrichtung oder einem Unternehmen tätig wird,
+7g. (weggefallen)
 
 
-7h. entgegen § 20a Absatz 5 Satz 1 einen Nachweis nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig vorlegt,
+7h. (weggefallen)
 
 
 8.  entgegen § 22 Absatz 1 eine Schutzimpfung nicht, nicht richtig, nicht
@@ -7252,19 +7912,17 @@ soweit die Länder abweichende Vereinbarungen treffen.
     mit einer Rechtsverordnung nach § 32 Satz 1, zuwiderhandelt,
 
 
-11b. entgegen § 28b Absatz 1 Satz 1 eine Arbeitsstätte betritt,
+11b. entgegen § 28b Absatz 1 Satz 1 Nummer 1 oder Nummer 2 eine dort
+    genannte Maske nicht trägt,
 
 
-11c. entgegen § 28b Absatz 2 Satz 1 eine Einrichtung oder ein Unternehmen
+11c. entgegen § 28b Absatz 1 Satz 1 Nummer 3 oder 5 eine Einrichtung
     betritt,
 
 
-11d. entgegen § 28b Absatz 3 Satz 1 die Einhaltung einer dort genannten
-    Verpflichtung nicht oder nicht richtig überwacht,
-
-
-11e. entgegen § 28b Absatz 5 Satz 1 ein dort genanntes Verkehrsmittel
-    benutzt,
+11d. entgegen § 28b Absatz 1 Satz 1 Nummer 4 Buchstabe a oder Buchstabe b
+    Satzteil vor Satz 2 in einer Einrichtung oder einem Unternehmen tätig
+    wird,
 
 
 12. entgegen § 29 Abs. 2 Satz 3, auch in Verbindung mit einer
@@ -7294,17 +7952,25 @@ soweit die Länder abweichende Vereinbarungen treffen.
     nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-17. entgegen § 34 Abs. 6 Satz 1, auch in Verbindung mit Satz 2, oder § 36
-    Absatz 3a das Gesundheitsamt nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig benachrichtigt,
+16b. entgegen § 34 Absatz 5a Satz 1 oder § 43 Absatz 4 Satz 1 eine
+    Belehrung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig durchführt,
+
+
+17. entgegen § 34 Abs. 6 Satz 1, auch in Verbindung mit Satz 2, entgegen §
+    35 Absatz 4 oder § 36 Absatz 3a das Gesundheitsamt nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig benachrichtigt,
 
 
 17a. entgegen § 34 Absatz 10a Satz 1 einen Nachweis nicht oder nicht
     rechtzeitig erbringt,
 
 
-18. entgegen § 35 Satz 1 oder § 43 Abs. 4 Satz 1 eine Belehrung nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,
+18. entgegen § 35 Absatz 1 Satz 7 die Einhaltung der dort genannten
+    Anforderungen, Verfahrens- und Organisationsabläufe oder Maßnahmen
+    nicht sicherstellt, entgegen § 35 Absatz 1 Satz 9 Festlegungen nicht
+    erstellt oder entgegen § 35 Absatz 1 Satz 10 Dokumentationspflichten
+    nicht nachkommt,
 
 
 19. entgegen § 36 Absatz 5 Satz 1 oder Satz 3, Absatz 6 Satz 2 erster
@@ -7341,11 +8007,12 @@ soweit die Länder abweichende Vereinbarungen treffen.
 24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c
     bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder
     Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs.
-    6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 32
-    Satz 1, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung
-    mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in
-    Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Abs. 1 Satz 1 Nr.
-    3 oder Abs. 2 Nr. 3 oder 5 oder § 53 Abs. 1 Nr. 2 oder einer
+    6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 28b
+    Absatz 1 Satz 2, § 32 Satz 1, § 35 Absatz 3 Satz 1 oder Satz 2, § 36
+    Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5,
+    Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung
+    mit Satz 3, Nummer 2 oder Nummer 3, § 38 Absatz 1 Satz 1 Nummer 4 oder
+    Absatz 2 Satz 1 Nummer 5 oder § 53 Absatz 1 Nummer 2 oder einer
     vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
     zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist.
@@ -7354,7 +8021,7 @@ soweit die Länder abweichende Vereinbarungen treffen.
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer
-7a bis 7h, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu
+7a bis 7d, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße
 bis zu fünfundzwanzigtausend Euro geahndet werden.
 
@@ -7399,11 +8066,11 @@ bestraft, wer
 
 
 
-(2) Ebenso wird bestraft, wer einer Rechtsverordnung nach § 38 Abs. 1
-Satz 1 Nr. 5 oder Abs. 2 Nr. 4 oder einer vollziehbaren Anordnung auf
-Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die
-Rechtsverordnung für einen bestimmten Tatbestand auf diese
-Strafvorschrift verweist.
+(2) Ebenso wird bestraft, wer einer Rechtsverordnung nach § 38 Absatz
+1 Satz 1 Nummer 8 oder Absatz 2 Satz 1 Nummer 4 oder einer
+vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+Tatbestand auf diese Strafvorschrift verweist.
 
 (3) Wer durch eine in Absatz 1 bezeichnete Handlung eine in § 6 Abs. 1
 Nr. 1 genannte Krankheit oder einen in § 7 genannten Krankheitserreger
@@ -7430,7 +8097,7 @@ bestraft, wer wissentlich zur Täuschung im Rechtsverkehr
     dokumentiert oder
 
 
-2.  entgegen § 22 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1
+2.  entgegen § 22a Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1
     die Durchführung einer Schutzimpfung oder die Durchführung oder
     Überwachung einer dort genannten Testung nicht richtig bescheinigt.
 
@@ -7516,31 +8183,9 @@ Satz 1 und § 75 Satz 2 der Verwaltungsgerichtsordnung mit der Maßgabe
 anzuwenden, dass die Fristen frühestens am 31. März 2021 zu laufen
 beginnen.
 
-(6) Für die Zählung der nach § 28b Absatz 1 Satz 1 und Absatz 3 Satz 2
-und 3 maßgeblichen Tage werden die drei unmittelbar vor dem 23. April
-2021 liegenden Tage mitgezählt. In Landkreisen und kreisfreien
-Städten, in denen die Sieben-Tage-Inzidenz an den drei unmittelbar vor
-dem 23. April 2021 liegenden Tagen den nach § 28b Absatz 1 und 3
-jeweils maßgeblichen Schwellenwert überschritten hat, gelten die
-Maßnahmen nach § 28b Absatz 1 und 3 ab dem 24. April 2021. In den
-Fällen des Satzes 2 macht die nach Landesrecht zuständige Behörde den
-Tag, ab dem die Maßnahmen nach § 28b Absatz 1 und 3 gelten, am 23.
-April 2021 bekannt.
+(6) (weggefallen)
 
-(7) Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder
-in Bezug auf landesrechtlich angeordnete Schutzmaßnahmen
-Erleichterungen oder Ausnahmen für Personen vorsehen, bei denen von
-einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist
-oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem
-Coronavirus SARS-CoV-2 vorlegen können. Bis zum Erlass einer
-Rechtsverordnung nach § 28c können die Länder in den Fällen des § 28b
-Absatz 1 Satz 1 Nummer 4 dritter Teilsatz Buchstabe b, Nummer 5
-dritter Teilsatz, Nummer 6 dritter Teilsatz und Nummer 8 zweiter
-Teilsatz Personen, bei denen von einer Immunisierung gegen das
-Coronavirus SARS-CoV-2 auszugehen ist, denjenigen gleichstellen, die
-ein negatives Ergebnis einer mittels eines anerkannten Tests
-durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-
-CoV-2 vorlegen können.
+(7) (weggefallen)
 
 (zu § 5b Absatz 4)
 

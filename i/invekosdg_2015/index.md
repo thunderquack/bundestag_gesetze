@@ -55,8 +55,8 @@ Europäischen Union hinsichtlich
 
 
 
-soweit Verarbeitung der personenbezogenen Daten des Begünstigten im
-Sinne des Artikels 2 Absatz 1 Satz 2 Nummer 1 der Delegierten
+soweit die Verarbeitung der personenbezogenen Daten des Begünstigten
+im Sinne des Artikels 2 Absatz 1 Satz 2 Nummer 1 der Delegierten
 Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur
 Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen
 Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und

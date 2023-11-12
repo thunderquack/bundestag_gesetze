@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.1.1995 I 46;
 
 Zuletzt geändert durch
-:   Art. 7 V v. 4.1.2019 I 2
+:   Art. 9 V v. 10.3.2022 I 428
 
 
 ## § 1 Anwendungsbereich
@@ -57,7 +57,10 @@ Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr.
 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
 Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG)
 Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
-20\.12.2013, S. 671) in Verbindung mit
+20\.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016,
+S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die
+zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom
+28\.12.2020, S. 1) geändert worden ist, in Verbindung mit
 
 1.  Anhang VII Teil VI Abschnitt II Nummer 1 oder Nummer 2 Satz 1 der
     Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, 2,
@@ -65,12 +68,12 @@ Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
     (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit
     Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates
     hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom
-    24\.6.2008, S. 6), die zuletzt durch die Verordnung (EU) Nr. 519/2013
-    (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, Eier zum
-    Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu
-    verkaufen oder sonst in den Verkehr zu bringen, die nicht oder nicht
-    richtig nach den vorgeschriebenen Güteklassen eingeteilt oder nicht
-    oder nicht richtig nach Gewichtsklassen sortiert sind,
+    24\.6.2008, S. 6), die zuletzt durch die Delegierte Verordnung (EU)
+    2017/2168 (ABl. L 306 vom 22.11.2017, S. 6) geändert worden ist, Eier
+    zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern,
+    zu verkaufen oder sonst in den Verkehr zu bringen, die nicht oder
+    nicht richtig nach den vorgeschriebenen Güteklassen eingeteilt oder
+    nicht oder nicht richtig nach Gewichtsklassen sortiert sind,
 
 
 2.  Anhang VII Teil VI Abschnitt II Nummer 3 Eier der Klasse B an andere
@@ -143,10 +146,12 @@ Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
 
 ## § 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
-In Rechnungen, Lieferscheinen und sonstigen Transportbegleitpapieren,
-ausgenommen in Papieren der genannten Art des Einzelhandels, sind die
-Güte- und Gewichtsklassen anzugeben, unter denen die Eier jeweils
-geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
+Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die nach
+Güte- oder Gewichtsklassen sortiert sind, hat auf jeder Stufe der
+Lieferkette mit Ausnahme des Einzelhandels in Rechnungen,
+Lieferscheinen und sonstigen Transportbegleitpapieren die Güte- oder
+Gewichtsklassen anzugeben, unter denen die Eier jeweils geliefert,
+verkauft oder sonst in den Verkehr gebracht worden sind.
 
 
 ## § 3 (weggefallen)
@@ -170,16 +175,12 @@ Gewichtsklassen zugrundezulegen.
 ## § 5 Verfahren bei Direktlieferungen ungekennzeichneter Eier
 
 (1) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach
-Artikel 11 der Verordnung (EG) Nr. 589/2008 der Kommission vom 23.
-Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
-1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl.
-L 163 vom 24.6.2008, S. 6) in der jeweils geltenden Fassung zur
-Lieferung ungekennzeichneter Eier an einen in Deutschland gelegenen
-Betrieb der Nahrungsmittelindustrie ist bei der zuständigen Behörde
-des Landes, in dem die Produktionsstätte ihren Sitz hat, zu stellen.
-Diese informiert unverzüglich die zuständige Behörde des Landes, in
-dem der Betrieb der Nahrungsmittelindustrie ansässig ist, wenn sie dem
-Antrag stattgibt.
+Artikel 11 der Verordnung (EG) Nr. 589/2008 zur Lieferung
+ungekennzeichneter Eier an einen in Deutschland gelegenen Betrieb der
+Nahrungsmittelindustrie ist bei der zuständigen Behörde des Landes, in
+dem die Produktionsstätte ihren Sitz hat, zu stellen. Diese informiert
+unverzüglich die zuständige Behörde des Landes, in dem der Betrieb der
+Nahrungsmittelindustrie ansässig ist, wenn sie dem Antrag stattgibt.
 
 (2) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach
 Artikel 11 der Verordnung (EG) Nr. 589/2008 zur Lieferung

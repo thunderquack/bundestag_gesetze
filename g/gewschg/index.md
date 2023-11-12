@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3513
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 18 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 19 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 10.8.2021 I 3513 (Nr. 53) ist berücksichtigt
+:   Art. 2 G v. 10.8.2021 I 3513
 
 
 
@@ -155,10 +149,10 @@ bis 5 entsprechend.
 
 (1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat
 nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge,
-Vormundschaft oder unter Pflegschaft, so treten im Verhältnis zu den
-Eltern und zu sorgeberechtigten Personen an die Stelle von §§ 1 und 2
-die für das Sorgerechts-, Vormundschafts- oder Pflegschaftsverhältnis
-maßgebenden Vorschriften.
+Vormundschaft oder unter Pflegschaft für Minderjährige, so treten im
+Verhältnis zu den Eltern und zu sorgeberechtigten Personen an die
+Stelle von §§ 1 und 2 die für das Sorgerechts-, Vormundschafts- oder
+Pflegschaftsverhältnis maßgebenden Vorschriften.
 
 (2) Weitergehende Ansprüche der verletzten Person werden durch dieses
 Gesetz nicht berührt.

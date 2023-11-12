@@ -19,43 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 2 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 25.6.2021 I 2083 (Nr. 37) ist berücksichtigt
-
-Änderung durch
-:   Art. 28 G v. 5.7.2021 I 3338 (Nr. 52) mWv 1.8.2022 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 90 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 12 G v. 22.2.2023 I Nr. 51
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -1060,8 +1024,27 @@ vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind
 der Deutschen Bundesbank elektronisch einzureichen.
 
 
-#### § 1b (weggefallen)
+#### § 1b Unzuverlässigkeit von sanktionierten Personen
 
+Eine natürliche oder juristische Person oder eine Personengesellschaft
+gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind
+oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen.
+Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie
+als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer
+Position für eine Person oder Personengesellschaft nach Satz 1 tätig
+ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person
+gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen
+einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines
+Aufsichts- oder Verwaltungsrats oder eines vergleichbaren
+Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1
+fällt.
 
 
 #### § 2 Ausnahmen
@@ -2139,7 +2122,11 @@ ist ausgeschlossen. Für die Kosten, die durch die Bestellung des
 Treuhänders entstehen, die diesem zu gewährenden Auslagen sowie die
 Vergütung haften das Institut und der betroffene Inhaber der
 bedeutenden Beteiligung als Gesamtschuldner. Die Bundesanstalt schießt
-die Auslagen und die Vergütung vor.
+die Auslagen und die Vergütung vor. Bei fahrlässigem Handeln
+beschränkt sich die Ersatzpflicht des Treuhänders auf 1 Million Euro.
+Handelt es sich um eine Aktiengesellschaft, deren Aktien zum Handel im
+regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht
+auf 50 Millionen Euro.
 
 (2a) Die Aufsichtsbehörde kann in den Fällen des Absatzes 2 auch
 gegenüber einem die bedeutende Beteiligung begründenden Unternehmen
@@ -3345,7 +3332,8 @@ nach § 6c, die kombinierte Kapitalpufferanforderung nach § 10i und die
 Anforderung an den Puffer der Verschuldungsquote nach Artikel 92
 Absatz 1a der Verordnung (EU) Nr. 575/2013 erfüllt, löst die Abdeckung
 der Eigenmittelempfehlung nicht in voller Höhe keine der
-Beschränkungen nach § 10i Absatz 1a bis 3 aus.
+Beschränkungen nach § 10i Absatz 1a bis 3 und § 10j Absatz 2 und 3
+aus.
 
 
 #### § 7 Zusammenarbeit mit der Deutschen Bundesbank
@@ -4565,18 +4553,21 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 #### § 9 Verschwiegenheitspflicht
 
-(1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Abs. 3
+(1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
 nach § 45c bestellten Sonderbeauftragten, die nach § 37 Absatz 1 Satz
-2 und § 38 Absatz 2 Satz 2 und 3 bestellten Abwickler sowie die im
-Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur
+2 und § 38 Absatz 2 Satz 2 und 3 bestellten Abwickler, die gerichtlich
+bestellten Treuhänder nach § 2c Absatz 2 Satz 2 sowie die im Dienst
+der Deutschen Bundesbank stehenden Personen, soweit sie zur
 Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer
 Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im
 Interesse des Instituts, der zuständigen Behörden oder eines Dritten
 liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt
 offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind
-oder ihre Tätigkeit beendet ist. Die von den beaufsichtigten
-Instituten und Unternehmen zu beachtenden allgemeinen
+oder ihre Tätigkeit beendet ist. Dies gilt auch für die in Satz 1
+genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung
+einer Beauftragung oder Bestellung anvertraut werden. Die von den
+beaufsichtigten Instituten und Unternehmen zu beachtenden allgemeinen
 datenschutzrechtlichen Vorschriften bleiben unberührt. Dies gilt auch
 für andere Personen, die durch dienstliche Berichterstattung Kenntnis
 von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes
@@ -4691,28 +4682,38 @@ nicht vor, wenn Tatsachen weitergegeben werden an
     sind,
 
 
-23. das Bundesamt für Sicherheit in der Informationstechnik oder
+23. das Bundesamt für Sicherheit in der Informationstechnik,
 
 
 24. zuständige Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe r der
-    Verordnung (EU) 2020/1503,
+    Verordnung (EU) 2020/1503 oder
+
+
+25. natürliche oder juristische Personen, die als Sonderbeauftragte nach §
+    45c, als Abwickler nach § 37 Absatz 1 Satz 2 oder § 38 Absatz 2 Satz 2
+    oder 3 oder als Treuhänder nach § 2c Absatz 2 Satz 2 oder in einem
+    vergleichbaren Verhältnis tätig werden; das Gleiche gilt für die
+    Informationsweitergabe an diesen Personenkreis, die im Rahmen der
+    Anbahnung einer Beauftragung oder Bestellung notwendig ist,
 
 
 
-soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben
-benötigen. Für die bei den in Satz 4 Nummer 1 bis 11, 13 bis 19, 21
-und 23 genannten Stellen beschäftigten Personen und die von diesen
-Stellen beauftragten Personen sowie für die Mitglieder der in Satz 4
+soweit diese Stellen oder Personen die Informationen zur Erfüllung
+ihrer Aufgaben oder zur Prüfung, ob sie eine der in Nummer 25
+genannten Aufgaben ausüben können, benötigen. Für die bei den in Satz
+5 Nummer 1 bis 11, 13 bis 19, 21, 23 und 25 genannten Stellen oder
+Personen beschäftigten Personen und die von diesen Stellen oder
+Personen beauftragten Personen sowie für die Mitglieder der in Satz 5
 Nummer 12 und 19 genannten Ausschüsse gilt die
 Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine
-in Satz 4 Nummer 1 bis 11, 16 bis 18, 21 und 22 genannte Stelle in
+in Satz 5 Nummer 1 bis 11, 16 bis 18, 21 und 22 genannte Stelle in
 einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden,
 wenn die bei dieser Stelle beschäftigten und die von dieser Stelle
 beauftragten Personen einer dem Satz 1 weitgehend entsprechenden
 Verschwiegenheitspflicht unterliegen. Die ausländische Stelle ist
 darauf hinzuweisen, daß sie Informationen nur zu dem Zweck verarbeiten
 darf, zu deren Erfüllung sie ihr übermittelt werden. Eine Weitergabe
-an die in Satz 4 Nummer 16 und 17 genannten Stellen darf nur erfolgen,
+an die in Satz 5 Nummer 16 und 17 genannten Stellen darf nur erfolgen,
 wenn
 
 1.  die Anfrage unter Berücksichtigung der übertragenen spezifischen
@@ -4742,7 +4743,7 @@ wenn
 
 
 Andere Informationen als aggregierte und anonymisierte Informationen
-dürfen mit den in Satz 4 Nummer 16 und 17 genannten Stellen nur in den
+dürfen mit den in Satz 5 Nummer 16 und 17 genannten Stellen nur in den
 Räumlichkeiten der Aufsichtsbehörde und der Deutschen Bundesbank
 ausgetauscht werden. Informationen, die aus einem anderen Staat
 stammen, dürfen nur mit ausdrücklicher Zustimmung der zuständigen
@@ -4865,6 +4866,11 @@ und gemischten Finanzholding-Gruppen zu erlassen, insbesondere
     e)  Höhe und zu den näheren Einzelheiten der Berechnung des maximal
         ausschüttungsfähigen Betrags für die kombinierte
         Kapitalpufferanforderung nach § 10i,
+
+
+    f)  Höhe und zu den näheren Einzelheiten der Berechnung des maximal
+        ausschüttungsfähigen Betrags für die Anforderung an den Puffer der
+        Verschuldungsquote nach § 10j,
 
 
 
@@ -6243,6 +6249,186 @@ und sofern die Aussetzung einer Zahlung oder eine versäumte Zahlung
 weder einen Ausfall noch eine Voraussetzung für die Einleitung eines
 Verfahrens nach den für das Institut geltenden Insolvenzvorschriften
 darstellt.
+
+
+#### § 10j Anforderung an den Puffer der Verschuldungsquote
+
+(1) Ein global systemrelevantes Institut muss zusätzlich zu dem
+Kernkapital, das zur Einhaltung der Eigenmittelanforderungen nach
+Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 und
+erhöhter Eigenmittelanforderungen zur Absicherung gegen Risiken einer
+übermäßigen Verschuldung nach § 6c sowie nach § 10 Absatz 3 und 4
+erforderlich ist, einen aus Kernkapital bestehenden Puffer der
+Verschuldungsquote gemäß Artikel 92 Absatz 1a der Verordnung (EU) Nr.
+575/2013 vorhalten.
+
+(2) Ein global systemrelevantes Institut, das die Anforderung an den
+Puffer der Verschuldungsquote erfüllt, darf keine Ausschüttung aus dem
+Kernkapital oder auf Kernkapitalinstrumente nach Absatz 5 vornehmen,
+wenn dadurch sein Kernkapital so stark abnehmen würde, dass die
+Anforderung an den Puffer der Verschuldungsquote nicht mehr erfüllt
+wäre.
+
+(3) Ein global systemrelevantes Institut, das die Anforderung an den
+Puffer der Verschuldungsquote nicht erfüllt, muss den maximal
+ausschüttungsfähigen Betrag in Bezug auf die Verschuldungsquote
+berechnen und der Aufsichtsbehörde anzeigen. Das global
+systemrelevante Institut muss Vorkehrungen treffen, um zu
+gewährleisten, dass die Höhe der ausschüttungsfähigen Gewinne und der
+maximal ausschüttungsfähige Betrag in Bezug auf die Verschuldungsquote
+genau berechnet werden. Es muss in der Lage sein, der Aufsichtsbehörde
+die Genauigkeit der Berechnung auf Anfrage nachzuweisen. Bis zur
+Entscheidung der Aufsichtsbehörde über die Genehmigung des
+Kapitalerhaltungsplans nach den Absätzen 7 bis 9 darf das global
+systemrelevante Institut
+
+1.  keine Ausschüttung aus dem harten Kernkapital oder auf harte
+    Kernkapitalinstrumente nach Absatz 5 vornehmen,
+
+
+2.  keine Verpflichtung zur Zahlung einer variablen Vergütung oder von
+    freiwilligen Altersvorsorgeleistungen übernehmen oder eine variable
+    Vergütung zahlen, wenn die entsprechende Verpflichtung in einem
+    Zeitraum übernommen worden ist, in dem das global systemrelevante
+    Institut die Anforderung an den Puffer der Verschuldungsquote nicht
+    erfüllt hat, und
+
+
+3.  keine Zahlungen aus zusätzlichen Kernkapitalinstrumenten vornehmen.
+
+
+
+Das Nähere regelt eine nach § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe f
+erlassene Rechtsverordnung.
+
+(4) Ein global systemrelevantes Institut, das die Anforderung an den
+Puffer der Verschuldungsquote nicht erfüllt und beabsichtigt, eine
+Ausschüttung ausschüttungsfähiger Gewinne oder eine Maßnahme nach
+Absatz 3 Satz 3 Nummer 1 bis 3 durchzuführen, teilt diese Absicht der
+Aufsichtsbehörde unter Angabe der folgenden Informationen mit:
+
+1.  von dem global systemrelevanten Institut vorgehaltene Eigenmittel,
+    aufgeschlüsselt nach
+
+    a)  hartem Kernkapital,
+
+
+    b)  zusätzlichem Kernkapital;
+
+
+
+
+
+2.  Höhe der Zwischengewinne und der Gewinne zum Jahresende;
+
+
+3.  Höhe des maximal ausschüttungsfähigen Betrags in Bezug auf die
+    Verschuldungsquote;
+
+
+4.  Höhe der ausschüttungsfähigen Gewinne und deren beabsichtigte
+    Aufteilung auf:
+
+    a)  Dividendenzahlungen,
+
+
+    b)  Aktienrückkäufe,
+
+
+    c)  Zahlungen in Bezug auf zusätzliche Kernkapitalinstrumente,
+
+
+    d)  Zahlung einer variablen Vergütung oder freiwilliger
+        Altersvorsorgeleistungen, entweder auf Grund der Übernahme einer neuen
+        Zahlungsverpflichtung oder auf Grund einer Zahlungsverpflichtung, die
+        in einem Zeitraum übernommen wurde, in dem das global systemrelevante
+        Institut die Anforderung an den Puffer der Verschuldungsquote nicht
+        erfüllt hat.
+
+
+
+
+
+
+
+(5) Eine Ausschüttung aus dem Kernkapital oder auf
+Kernkapitalinstrumente umfasst
+
+1.  eine Ausschüttung aus hartem Kernkapital oder auf harte
+    Kernkapitalinstrumente nach § 10i Absatz 5,
+
+
+2.  eine Rückzahlung der in Verbindung mit den Eigenmittelinstrumenten
+    nach Artikel 51 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 575/2013
+    eingezahlten Beträge und
+
+
+3.  eine Ausschüttung der in Artikel 51 Absatz 1 Buchstabe b der
+    Verordnung (EU) Nr. 575/2013 genannten Position.
+
+
+
+
+(6) Ein global systemrelevantes Institut, das die Anforderung an den
+Puffer der Verschuldungsquote nicht erfüllt, muss einen
+Kapitalerhaltungsplan erstellen. Der Kapitalerhaltungsplan ist
+innerhalb von fünf Arbeitstagen nachdem das global systemrelevante
+Institut festgestellt hat, dass es die Anforderung an den Puffer der
+Verschuldungsquote nicht erfüllen kann, der Aufsichtsbehörde
+vorzulegen. Die Aufsichtsbehörde kann die Frist zur Vorlage auf
+längstens zehn Arbeitstage verlängern, wenn dies im Einzelfall und
+unter Berücksichtigung des Umfangs und der Komplexität der
+Geschäftstätigkeit angemessen erscheint. Der Kapitalerhaltungsplan
+umfasst die Elemente nach § 10i Absatz 6 Satz 3 Nummer 1 bis 3 und
+weitere Informationen, die die Aufsichtsbehörde für die in Absatz 7
+vorgeschriebene Bewertung als notwendig erachtet.
+
+(7) Die Aufsichtsbehörde bewertet den Kapitalerhaltungsplan und
+genehmigt ihn, wenn sie der Auffassung ist, dass durch seine Umsetzung
+sehr wahrscheinlich ausreichend Kernkapital erhalten oder aufgenommen
+wird, damit das global systemrelevante Institut die Anforderung an den
+Puffer der Verschuldungsquote innerhalb des von der Aufsichtsbehörde
+als angemessen erachteten Zeitraums erfüllen kann. Die
+Aufsichtsbehörde entscheidet über die Genehmigung innerhalb von 14
+Tagen nach Eingang des Kapitalerhaltungsplans.
+
+(8) Nach Genehmigung des Kapitalerhaltungsplans ist das global
+systemrelevante Institut berechtigt, eine Ausschüttung
+ausschüttungsfähiger Gewinne sowie Maßnahmen nach Absatz 3 Satz 3
+Nummer 1 bis 3 bis zur Höhe des maximal ausschüttungsfähigen Betrags
+in Bezug auf die Verschuldungsquote durchzuführen.
+
+(9) Genehmigt die Aufsichtsbehörde den Kapitalerhaltungsplan nicht,
+
+1.  ordnet die Aufsichtsbehörde an, dass die Ausschüttungsbeschränkungen
+    des Absatzes 2 fortgelten, oder
+
+
+2.  erlaubt die Aufsichtsbehörde dem global systemrelevanten Institut die
+    Durchführung von Maßnahmen im Sinne des Absatzes 3 Satz 3 Nummer 1 bis
+    3 bis zu einem Betrag, der den maximal ausschüttungsfähigen Betrag in
+    Bezug auf die Verschuldungsquote nicht übersteigen darf.
+
+
+
+Daneben kann die Aufsichtsbehörde von dem global systemrelevanten
+Institut verlangen, seine Eigenmittel innerhalb eines bestimmten
+Zeitraums auf eine bestimmte Höhe aufzustocken.
+
+(10) Die Beschränkungen nach den Absätzen 2 und 3 finden
+ausschließlich Anwendung
+
+1.  auf Zahlungen und Ausschüttungen, die zu einer Verringerung des
+    Kernkapitals oder der Gewinne führen, und
+
+
+2.  sofern die Aussetzung einer Zahlung oder eine versäumte Zahlung weder
+    einen Ausfall noch eine Voraussetzung für die Einleitung eines
+    Verfahrens nach den für das global systemrelevante Institut geltenden
+    Insolvenzvorschriften darstellt.
+
+
+
 
 
 #### § 11 Liquidität
@@ -7825,9 +8011,8 @@ gelten entsprechend für den Stellvertreter des Verwalters.
 Sachwalters unverzüglich dem zuständigen Registergericht mitzuteilen
 und öffentlich bekannt zu machen. Die Ernennung und Abberufung des
 Sachwalters sind auf die Mitteilung von Amts wegen in das
-Handelsregister einzutragen. Die Eintragungen werden nicht bekannt
-gemacht. Die Vorschriften des § 15 des Handelsgesetzbuchs finden keine
-Anwendung.
+Handelsregister einzutragen. Die Vorschriften des § 15 des
+Handelsgesetzbuchs finden keine Anwendung.
 
 (2) Sind in das Refinanzierungsregister Rechte des registerführenden
 Unternehmens eingetragen, für die eine Eintragung im Grundbuch
@@ -8613,11 +8798,12 @@ unverzüglich folgende Daten zu speichern sind:
     Eröffnung und der Tag der Beendigung oder Auflösung,
 
 
-2.  der Vor- und Nachname, sowie bei natürlichen Personen der Tag der
-    Geburt, des Inhabers und eines Verfügungsberechtigten sowie in den
-    Fällen des § 10 Absatz 1 Nummer 2 des Geldwäschegesetzes der Vor- und
-    Nachname und, soweit erhoben, die Anschrift eines abweichend
-    wirtschaftlich Berechtigten im Sinne des § 3 des Geldwäschegesetzes.
+2.  der Vor- und Nachname, die Anschrift, sowie bei natürlichen Personen
+    der Tag der Geburt, des Inhabers und eines Verfügungsberechtigten
+    sowie in den Fällen des § 10 Absatz 1 Nummer 2 des Geldwäschegesetzes
+    der Vor- und Nachname und, soweit erhoben, die Anschrift eines
+    abweichend wirtschaftlich Berechtigten im Sinne des § 3 des
+    Geldwäschegesetzes.
 
 
 
@@ -8662,21 +8848,38 @@ Dateisystem nach Absatz 1 Satz 1
     die Erfüllung ihrer sich aus dem Außenwirtschaftsgesetz oder
     Rechtsakten der Europäischen Union im Zusammenhang mit der
     Einschränkung von Wirtschafts- oder Finanzbeziehungen ergebenden
-    Aufgaben erforderlich ist.
+    Aufgaben erforderlich ist,
+
+
+4.  den nach § 13 Absatz 1 und § 22 Absatz 3 Satz 1 des
+    Außenwirtschaftsgesetzes zuständigen Behörden, soweit dies für die
+    Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist,
+
+
+5.  dem Zollkriminalamt, soweit dies zur Erfüllung seiner gesetzlichen
+    Aufgaben nach § 4 Absatz 2 und 3 des Zollfahndungsdienstgesetzes
+    erforderlich ist und
+
+
+6.  der Zentralstelle für Sanktionsdurchsetzung, soweit dies für die
+    Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
 
 
 
-Die Bundesanstalt hat die in den Dateisystemen gespeicherten Daten im
-automatisierten Verfahren abzurufen und sie an die ersuchende Stelle
-weiter zu übermitteln. Die Bundesanstalt prüft die Zulässigkeit der
-Übermittlung nur, soweit hierzu besonderer Anlass besteht. Die
-Verantwortung für die Zulässigkeit der Übermittlung trägt die
-ersuchende Stelle. Die Bundesanstalt darf zu den in Satz 1 genannten
-Zwecken ausländischen Stellen Auskunft aus dem Dateisystem nach Absatz
-1 Satz 1 nach Maßgabe der allgemeinen datenschutzrechtlichen
-Vorschriften erteilen. § 9 Abs. 1 Satz 5, 6 und Abs. 2 gilt
-entsprechend. Die Regelungen über die internationale Rechtshilfe in
-Strafsachen bleiben unberührt.
+Kontenabrufersuchen an die Bundesanstalt sind nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmten Schnittstellen
+elektronisch zu übermitteln. Die Bundesanstalt kann Ausnahmen von der
+elektronischen Übermittlung zulassen. Die Bundesanstalt hat die in den
+Dateisystemen gespeicherten Daten im automatisierten Verfahren
+abzurufen und sie an die ersuchende Stelle weiter zu übermitteln. Die
+Bundesanstalt prüft die Zulässigkeit der Übermittlung nur, soweit
+hierzu besonderer Anlass besteht. Die Verantwortung für die
+Zulässigkeit der Übermittlung trägt die ersuchende Stelle. Die
+Bundesanstalt darf zu den in Satz 1 genannten Zwecken ausländischen
+Stellen Auskunft aus dem Dateisystem nach Absatz 1 Satz 1 nach Maßgabe
+der allgemeinen datenschutzrechtlichen Vorschriften erteilen. § 9 Abs.
+1 Satz 5, 6 und Abs. 2 gilt entsprechend. Die Regelungen über die
+internationale Rechtshilfe in Strafsachen bleiben unberührt.
 
 (3a) Die Bundesanstalt erteilt auf Ersuchen Auskunft aus den
 Dateisystemen nach Absatz 1 Satz 1
@@ -10610,7 +10813,7 @@ die folgenden Anzeigepflichten und Anforderungen erfüllt hat:
 
 2.  die Anforderungen
 
-    a)  nach den §§ 10a, 10c bis 10i jeweils auch in Verbindung mit einer
+    a)  nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer
         Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11,
         13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils
         auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und §
@@ -11290,6 +11493,12 @@ Absatz 3 entsprechend anzuwenden. Die Aufgaben nach den Absätzen 3a
 bis 5 obliegen der Bundesanstalt unbeschadet davon, ob die Erlaubnis
 durch die Europäische Zentralbank oder die Bundesanstalt erteilt wird.
 
+(8) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer
+Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
+juristische Person, die nach den Absätzen 1 bis 1f erlaubnispflichtige
+Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland
+verlegt.
+
 
 #### § 33 Versagung der Erlaubnis
 
@@ -11568,7 +11777,10 @@ Zugehörigkeit des Instituts zu einem Einlagensicherungssystem nicht
 gegeben ist. Satz 2 gilt nicht, soweit die Europäische Zentralbank
 Aufsichtsbehörde ist. In diesem Fall legt die Bundesanstalt der
 Europäischen Zentralbank einen Beschlussentwurf nach Artikel 14 Absatz
-5 der Verordnung (EU) Nr. 1024/2013 vor. Die Erlaubnis für das
+5 der Verordnung (EU) Nr. 1024/2013 vor. Die Erlaubnis erlischt auch
+dann, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des
+Umwandlungsgesetzes ein als juristische Person verfasstes Institut
+seinen juristischen Sitz ins Ausland verlegt. Die Erlaubnis für das
 Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer
 12 erlischt auch dann, wenn die Zulassung der zentralen Gegenpartei
 nach Artikel 14 der Verordnung (EU) Nr. 648/2012 zur Erbringung von
@@ -12231,8 +12443,18 @@ Generalversammlungen oder Gesellschafterversammlungen sowie zu den
 Sitzungen der Aufsichtsorgane bei Instituten, Finanzholding-
 Gesellschaften oder gemischten Finanzholding-Gesellschaften in der
 Rechtsform einer juristischen Person Vertreter entsenden. Diese können
-in der Versammlung oder Sitzung das Wort ergreifen. Die Betroffenen
-haben Maßnahmen nach den Sätzen 1 und 2 zu dulden.
+in der Versammlung oder Sitzung das Wort ergreifen. Im Fall der
+virtuellen Hauptversammlung nach § 118a des Aktiengesetzes sind die
+Vertreter im Wege der Videokommunikation zu der Versammlung
+zuzuschalten und können über die Videokommunikation das Wort
+ergreifen. Nach § 130a Absatz 1 und 2 des Aktiengesetzes eingereichte
+Stellungnahmen, nach § 131 Absatz 1a und 1b des Aktiengesetzes
+eingereichte Fragen sowie die zu diesen Fragen vor der Versammlung
+gegebenen Antworten sind den Vertretern zugänglich zu machen. Die
+Vertreter dürfen anstelle der Zuschaltung im Wege der
+Videokommunikation am Ort der Hauptversammlung teilnehmen, sofern sie
+dies für erforderlich halten. Die Betroffenen haben Maßnahmen nach den
+Sätzen 1 bis 5 zu dulden.
 
 (5) Die Institute, Finanzholding-Gesellschaften und gemischten
 Finanzholding-Gesellschaften in der Rechtsform einer juristischen
@@ -12241,11 +12463,9 @@ Absatz 4 Satz 1 bezeichneten Versammlungen, die Anberaumung von
 Sitzungen der Verwaltungs- und Aufsichtsorgane sowie die Ankündigung
 von Gegenständen zur Beschlußfassung vorzunehmen. Die Bundesanstalt
 kann zu einer nach Satz 1 anberaumten Sitzung Vertreter entsenden.
-Diese können in der Sitzung das Wort ergreifen. Die Betroffenen haben
-Maßnahmen nach den Sätzen 2 und 3 zu dulden. Absatz 4 bleibt
-unberührt.
-
-(5a) (weggefallen)
+Diese können in der Sitzung das Wort ergreifen. Absatz 4 Satz 3 bis 5
+gilt entsprechend. Die Betroffenen haben Maßnahmen nach den Sätzen 2
+bis 4 zu dulden. Absatz 4 bleibt unberührt.
 
 (6) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft
 auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen
@@ -12466,6 +12686,9 @@ Institut
 
 
 4.  die kombinierte Kapitalpufferanforderung nach § 10i,
+
+
+4a. die Anforderung an den Puffer der Verschuldungsquote nach § 10j,
 
 
 5.  die Mindestanforderung an Eigenmittel und berücksichtigungsfähige
@@ -12849,17 +13072,25 @@ Wahrnehmung der ihm übertragenen Aufgaben im Sinne einer nachhaltigen
 Geschäftspolitik des Instituts und der Wahrung der
 Finanzmarktstabilität geeignet sein; soweit der Sonderbeauftragte
 Aufgaben eines Geschäftsleiters oder eines Organs übernimmt, muss er
-Gewähr für die erforderliche fachliche Eignung bieten. Er ist im
-Rahmen seiner Aufgaben berechtigt, von den Mitgliedern der Organe und
-den Beschäftigten des Instituts Auskünfte und die Vorlage von
-Unterlagen zu verlangen, an allen Sitzungen und Versammlungen der
-Organe und sonstiger Gremien des Instituts in beratender Funktion
-teilzunehmen, die Geschäftsräume des Instituts zu betreten, Einsicht
-in dessen Geschäftspapiere und Bücher zu nehmen und Nachforschungen
-anzustellen. Die Organe und Organmitglieder haben den
-Sonderbeauftragten bei der Wahrnehmung seiner Aufgaben zu
-unterstützen. Er ist gegenüber der Aufsichtsbehörde zur Auskunft über
-alle Erkenntnisse im Rahmen seiner Tätigkeit verpflichtet.
+Gewähr für die erforderliche fachliche Eignung bieten. Soweit dem
+Sonderbeauftragten nicht die Wahrnehmung der Befugnisse eines
+Geschäftsleiters oder eines Organs übertragen wird, kann auch eine
+juristische Person bestellt werden. Bei der Auswahl einer
+Wirtschaftsprüfungsgesellschaft als Sonderbeauftragter darf die
+Aufsichtsbehörde ohne Prüfung davon ausgehen, dass die
+Wirtschaftsprüfungsgesellschaft nur Personal einsetzt, das zuverlässig
+und zur ordnungsgemäßen Wahrnehmung der übertragenen Aufgaben geeignet
+ist. Der Sonderbeauftragte ist im Rahmen seiner Aufgaben berechtigt,
+von den Mitgliedern der Organe und den Beschäftigten des Instituts
+Auskünfte und die Vorlage von Unterlagen zu verlangen, an allen
+Sitzungen und Versammlungen der Organe und sonstiger Gremien des
+Instituts in beratender Funktion teilzunehmen, die Geschäftsräume des
+Instituts zu betreten, Einsicht in dessen Geschäftspapiere und Bücher
+zu nehmen und Nachforschungen anzustellen. Die Organe und
+Organmitglieder haben den Sonderbeauftragten bei der Wahrnehmung
+seiner Aufgaben zu unterstützen. Er ist gegenüber der Aufsichtsbehörde
+zur Auskunft über alle Erkenntnisse im Rahmen seiner Tätigkeit
+verpflichtet.
 
 (2) Die Aufsichtsbehörde kann dem Sonderbeauftragten insbesondere
 übertragen:
@@ -15416,6 +15647,14 @@ Clearingdienstleistung erbringt.
 Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 eine
 Zentralverwahrertätigkeit ausübt.
 
+(1c) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 12 Absatz 1
+der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des
+Rates vom 7. Oktober 2020 über Europäische
+Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der
+Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L
+347 vom 20.10.2020, S. 1) eine Schwarmfinanzierungsdienstleistung
+erbringt.
+
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu drei Jahren oder Geldstrafe.
 
@@ -15574,7 +15813,7 @@ diese Bußgeldvorschrift verweist.
     b)  § 6a Absatz 1,
 
 
-    c)  § 10i Absatz 8 Satz 1 Nummer 1,
+    c)  § 10i Absatz 8 Satz 1 Nummer 1 oder § 10j Absatz 9 Satz 1 Nummer 1,
 
 
     d)  § 12a Absatz 2 Satz 1,
@@ -15634,8 +15873,8 @@ diese Bußgeldvorschrift verweist.
 
 
 
-4.  entgegen § 10i Absatz 2 oder Absatz 3 Satz 3 Nummer 1 eine
-    Ausschüttung vornimmt,
+4.  entgegen § 10i Absatz 2 oder Absatz 3 Satz 3 Nummer 1 oder § 10j
+    Absatz 3 oder Absatz 4 Satz 3 Nummer 1 eine Ausschüttung vornimmt,
 
 
 5.  entgegen § 18 Absatz 1 Satz 1 einen Kredit gewährt,

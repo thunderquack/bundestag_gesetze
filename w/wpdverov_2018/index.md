@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3566
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 7 G v. 8.7.2019 I 1002
-
-Änderung durch
-:   Art. 57 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 30.9.2022 I 1603
 
 Stand: Ersetzt V 4110-4-13 v. 20.7.2007 I 1432 (WpDVerOV)
 
@@ -982,12 +979,22 @@ Produkt neu zu schaffen, zu entwickeln, zu begeben oder zu gestalten.
 
 (7) Der Zielmarkt ist für jedes Finanzinstrument gesondert zu
 bestimmen. Dabei ist der Kreis der Kunden zu bestimmen, mit deren
-Bedürfnissen, Merkmalen und Zielen das Finanzinstrument im Einklang
+Bedürfnissen, Merkmalen und Zielen, einschließlich etwaiger
+nachhaltigkeitsbezogener Ziele, das Finanzinstrument im Einklang
 stehen muss. Ebenso sind etwaige Kundengruppen zu bestimmen, mit deren
 Bedürfnissen, Merkmalen und Zielen das Finanzinstrument nicht
-vereinbar ist. Sind mehrere Wertpapierdienstleistungsunternehmen an
-der Konzeption eines Finanzinstruments beteiligt, braucht nur ein
-Zielmarkt des Konzepteurs bestimmt zu werden.
+vereinbar ist. Für nachhaltigkeitsbezogene Ziele gilt Satz 3 nicht im
+Falle der Berücksichtigung von Nachhaltigkeitsfaktoren im Sinne von
+Artikel 2 Nummer 24 der Verordnung (EU) 2019/2088 des Europäischen
+Parlaments und des Rates vom 27. November 2019 über
+nachhaltigkeitsbezogene Offenlegungspflichten im
+Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die
+zuletzt durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020,
+S. 13) geändert worden ist, in der jeweils geltenden Fassung
+(Nachhaltigkeitsfaktoren). Sind mehrere
+Wertpapierdienstleistungsunternehmen an der Konzeption eines
+Finanzinstruments beteiligt, braucht nur ein Zielmarkt des Konzepteurs
+bestimmt zu werden.
 
 (8) Ein Wertpapierdienstleistungsunternehmen, das Finanzinstrumente
 konzipiert, welche von anderen Wertpapierdienstleistungsunternehmen
@@ -1030,10 +1037,14 @@ ermittelten Bedürfnissen, Merkmalen und Zielen seines Zielmarktes
 entspricht, insbesondere im Hinblick darauf, ob
 
 1.  das Risiko- und Ertragsprofil des Finanzinstruments mit dem Zielmarkt
-    vereinbar ist und
+    vereinbar ist,
 
 
-2.  die Gestaltung des Finanzinstruments durch Merkmale bestimmt wird, die
+2.  etwaige Nachhaltigkeitsfaktoren des Finanzinstruments mit dem
+    Zielmarkt vereinbar sind und
+
+
+3.  die Gestaltung des Finanzinstruments durch Merkmale bestimmt wird, die
     für den Kunden vorteilhaft sind, und somit nicht auf einem
     Geschäftsmodell beruht, dessen Rentabilität auf einem nachteiligen
     Ergebnis für Kunden basiert.
@@ -1067,14 +1078,20 @@ Finanzinstrument geeigneten Vertriebskanälen, zum
 Produktfreigabeverfahren und zur Zielmarktbeurteilung zu enthalten und
 in einer Form zu erfolgen, die es den Vertriebsunternehmen ermöglicht,
 das Finanzinstrument zu verstehen und zu empfehlen oder zu verkaufen.
+Der Konzepteur hat dabei die Nachhaltigkeitsfaktoren des
+Finanzinstruments auf transparente Art und Weise zu beschreiben und
+die weitergegebenen Informationen haben alle notwendigen Angaben zu
+enthalten, die erforderlich sind, um jegliche nachhaltigkeitsbezogenen
+Ziele der Kunden angemessen berücksichtigen zu können.
 
 (13) Das Wertpapierdienstleistungsunternehmen hat im Rahmen der
 regelmäßigen Überprüfung des Finanzinstruments nach § 80 Absatz 10 des
 Wertpapierhandelsgesetzes zu prüfen, ob das Finanzinstrument weiterhin
-mit den Bedürfnissen, Merkmalen und Zielen des Zielmarkts vereinbar
-ist und auf dem vorher festgelegten Zielmarkt vertrieben wird oder ob
-es auch solche Kunden erreicht, mit deren Bedürfnissen, Merkmalen und
-Zielen das Finanzinstrument nicht vereinbar ist. Das
+mit den Bedürfnissen, Merkmalen und Zielen, einschließlich etwaiger
+nachhaltigkeitsbezogener Ziele, des Zielmarkts vereinbar ist und auf
+dem vorher festgelegten Zielmarkt vertrieben wird oder ob es auch
+solche Kunden erreicht, mit deren Bedürfnissen, Merkmalen und Zielen
+das Finanzinstrument nicht vereinbar ist. Das
 Wertpapierdienstleistungsunternehmen hat im Rahmen der Prüfung nach
 Satz 1 alle Ereignisse zu berücksichtigen, die die potenziellen
 Risiken für den bestimmten Zielmarkt wesentlich beeinflussen können.
@@ -1184,8 +1201,9 @@ sicherzustellen, dass
 
 1.  die Produkte und Dienstleistungen, die das
     Wertpapierdienstleistungsunternehmen anzubieten oder zu empfehlen
-    beabsichtigt, mit den Bedürfnissen, Merkmalen und Zielen des
-    bestimmten Zielmarkts vereinbar sind und
+    beabsichtigt, mit den Bedürfnissen, Merkmalen und Zielen,
+    einschließlich etwaiger nachhaltigkeitsbezogener Ziele, des bestimmten
+    Zielmarkts vereinbar sind und
 
 
 2.  die beabsichtigte Vertriebsstrategie dem bestimmten Zielmarkt
@@ -1200,7 +1218,8 @@ auf Grund von wirtschaftlichem oder finanziellem Druck beeinträchtigt
 werden. Dabei hat das Wertpapierdienstleistungsunternehmen auch
 sämtliche Kundengruppen zu ermitteln, mit deren Bedürfnissen,
 Merkmalen und Zielen das Produkt oder die Dienstleistung nicht
-vereinbar ist.
+vereinbar ist. Für nachhaltigkeitsbezogene Ziele gilt Satz 3 nicht im
+Falle der Berücksichtigung von Nachhaltigkeitsfaktoren.
 
 (5) Ein Wertpapierdienstleistungsunternehmen, das Finanzinstrumente
 vertreibt, die von einem anderen Unternehmen konzipiert worden sind,
@@ -1266,17 +1285,18 @@ erbrachten Dienstleistungen regelmäßig zu überprüfen und dabei alle
 Ereignisse zu berücksichtigen, die die potenziellen Risiken für den
 bestimmten Zielmarkt wesentlich beeinflussen könnten. Es hat zumindest
 zu bewerten, ob das Produkt oder die Dienstleistung den Bedürfnissen,
-Merkmalen und Zielen des bestimmten Zielmarkts weiterhin entspricht
-und ob die beabsichtigte Vertriebsstrategie nach wie vor geeignet ist.
-Das Wertpapierdienstleistungsunternehmen hat darüber hinaus den
-Zielmarkt erneut zu prüfen und bei Bedarf seine
-Produktfreigabevorkehrungen zu aktualisieren, wenn es davon Kenntnis
-erlangt, dass der Zielmarkt für ein bestimmtes Produkt oder eine
-bestimmte Dienstleistung fehlerhaft bestimmt worden ist oder das
-Produkt oder die Dienstleistung den Gegebenheiten des bestimmten
-Zielmarkts nicht mehr gerecht wird, insbesondere wenn das Produkt auf
-Grund von Marktveränderungen seine Liquidität verliert oder besonders
-starken Preisschwankungen ausgesetzt ist.
+Merkmalen und Zielen, einschließlich etwaiger nachhaltigkeitsbezogener
+Ziele, des bestimmten Zielmarkts weiterhin entspricht und ob die
+beabsichtigte Vertriebsstrategie nach wie vor geeignet ist. Das
+Wertpapierdienstleistungsunternehmen hat darüber hinaus den Zielmarkt
+erneut zu prüfen und bei Bedarf seine Produktfreigabevorkehrungen zu
+aktualisieren, wenn es davon Kenntnis erlangt, dass der Zielmarkt für
+ein bestimmtes Produkt oder eine bestimmte Dienstleistung fehlerhaft
+bestimmt worden ist oder das Produkt oder die Dienstleistung den
+Gegebenheiten des bestimmten Zielmarkts nicht mehr gerecht wird,
+insbesondere wenn das Produkt auf Grund von Marktveränderungen seine
+Liquidität verliert oder besonders starken Preisschwankungen
+ausgesetzt ist.
 
 (10) § 11 Absatz 5 gilt entsprechend für
 Wertpapierdienstleistungsunternehmen, die von anderen Unternehmen

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3082, 3084
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.6.2017 I 1966
-
-Änderung durch
-:   Art. 8 Abs. 3 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 3 G v. 27.9.2021 I 4530
 
 
 ## § 1 Rechtsform, Name

@@ -16,11 +16,6 @@ Fundstelle
 :   BGBl I: 2021, 1293
 
 
-## Eingangsformel
-
-Der Bundestag hat das folgende Gesetz beschlossen:
-
-
 ## § 1 Art und Gegenstand der Erhebungen
 
 Ab dem Jahr 2022 werden Erhebungen über die Verwendung von Zeit durch
@@ -232,12 +227,4 @@ anderen Zeitpunkten benötigt werden.
 ## § 10 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 2021 in Kraft.
-
-
-## Schlussformel
-
-(1) Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.
-
-(2) Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im
-Bundesgesetzblatt zu verkünden.
 

@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 12b G v. 11.2.2021 I 154 ist berücksichtigt
 
+Mittelbare änderung durch
+:   Art. 4b G v. 23.3.2022 I 482 ist berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 
@@ -190,6 +193,23 @@ Vermerk des behandelnden Arztes darüber enthalten, daß der
 Krankenkasse unverzüglich eine Bescheinigung über die
 Arbeitsunfähigkeit mit Angaben über den Befund und die
 voraussichtliche Dauer der Arbeitsunfähigkeit übersandt wird.
+
+(1a) Absatz 1 Satz 2 bis 5 gilt nicht für Arbeitnehmer, die
+Versicherte einer gesetzlichen Krankenkasse sind. Diese sind
+verpflichtet, zu den in Absatz 1 Satz 2 bis 4 genannten Zeitpunkten
+das Bestehen einer Arbeitsunfähigkeit sowie deren voraussichtliche
+Dauer feststellen und sich eine ärztliche Bescheinigung nach Absatz 1
+Satz 2 oder 4 aushändigen zu lassen. Die Sätze 1 und 2 gelten nicht
+
+1.  für Personen, die eine geringfügige Beschäftigung in Privathaushalten
+    ausüben (§ 8a des Vierten Buches Sozialgesetzbuch), und
+
+
+2.  in Fällen der Feststellung der Arbeitsunfähigkeit durch einen Arzt,
+    der nicht an der vertragsärztlichen Versorgung teilnimmt.
+
+
+
 
 (2) Hält sich der Arbeitnehmer bei Beginn der Arbeitsunfähigkeit im
 Ausland auf, so ist er verpflichtet, dem Arbeitgeber die

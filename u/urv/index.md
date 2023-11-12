@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 217
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.8.2020 I 1874
-
-Änderung durch
-:   Art. 13 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 54 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 19.6.2023 I Nr. 154
 
 
 
@@ -43,11 +37,9 @@ der Finanzen:
 
 (1) Im Unternehmensregister werden die nach § 8b Abs. 3 Satz 1 des
 Handelsgesetzbuchs zur Einstellung übermittelten Daten, mit Ausnahme
-der gemäß § 326 Absatz 2 des Handelsgesetzbuchs lediglich hinterlegten
-Bilanzen von Kleinstkapitalgesellschaften (§ 267a des
-Handelsgesetzbuchs) oder Kleinstgenossenschaften (§ 336 Absatz 2 Satz
-3 des Handelsgesetzbuchs), im Internet unmittelbar zugänglich gemacht.
-Die Daten werden wie folgt gespeichert:
+der der zur dauerhaften Hinterlegung eingestellten Unterlagen, im
+Internet unmittelbar zugänglich gemacht. Die Daten werden wie folgt
+gespeichert:
 
 1.  strukturiert in Form der Extensible Markup Language (XML),
 
@@ -55,12 +47,8 @@ Die Daten werden wie folgt gespeichert:
 2.  in einem nach dem Stand der Technik vergleichbaren Format oder
 
 
-3.  in dem gesetzlich festgelegten Offenlegungsformat bei
-    Jahresfinanzberichten oder Rechnungslegungsunterlagen eines
-    Unternehmens, das als Inlandsemittent (§ 2 Absatz 14 des
-    Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des
-    Wertpapierhandelsgesetzes) begibt, wenn die Daten in diesem Format
-    vorliegen.
+3.  bei Datenübermittlungen gemäß § 11 Absatz 2 Satz 1 Nummer 1 bis 3 in
+    dem vorgeschriebenen Datenübermittlungsformat.
 
 
 
@@ -73,8 +61,8 @@ gespeichert sind.
 (2) Das Unternehmensregister vermittelt über die nach § 8b Abs. 3 Satz
 2 des Handelsgesetzbuchs übermittelten Daten (Indexdaten) den Zugang
 zu den Eintragungen im Handels-, Genossenschafts- und
-Partnerschaftsregister, den Bekanntmachungen aus den Registern, den zu
-den Registern eingereichten Dokumenten und den Zugang zu den
+Partnerschaftsregister, den Registerbekanntmachungen, den zu den
+Registern eingereichten Dokumenten und den Zugang zu den
 Bekanntmachungen der Insolvenzgerichte im Sinn des § 8b Abs. 2 Nr. 11
 des Handelsgesetzbuchs. Die Indexdaten dienen nur der
 Zugangsvermittlung und sind nicht zugänglich zu machen.
@@ -88,8 +76,9 @@ rechtzeitig anzukündigen.
 ## § 2 Sicherheit
 
 (1) Kommt es während einer Datenübermittlung zu Störungen oder
-Unterbrechungen, soll dies der übermittelnden Stelle angezeigt und
-eine erneute Übermittlung verlangt werden.
+Unterbrechungen, soll dies der übermittelnden Stelle angezeigt und im
+Falle einer Datenübermittlung an das Unternehmensregister eine erneute
+Übermittlung verlangt werden.
 
 (2) Fehlgeschlagene Anmeldungen sowie alle Abrufe dürfen dokumentiert
 werden, um missbräuchliche Zugriffe auf das Unternehmensregister
@@ -101,19 +90,19 @@ für andere Zwecke zu sperren. Sie sind nach Ablauf von sechs Monaten
 zu löschen, es sei denn, sie sind für die Zwecke der Kostenabrechnung
 noch erforderlich.
 
-(3) Der Betreiber des Unternehmensregisters (Betreiber) erstellt im
-Einvernehmen mit dem Bundesamt für Sicherheit in der
-Informationstechnik ein Sicherheitskonzept für das
+(3) Die das Unternehmensregister führende Stelle (registerführende
+Stelle) erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in
+der Informationstechnik ein Sicherheitskonzept für das
 Unternehmensregister.
 
 
 ## § 3 Registrierung der Nutzer
 
-(1) Soweit nach § 11 Satz 4, § 13 Absatz 4, § 15 Abs. 1 Satz 2 oder
-Abs. 2 Satz 2 eine Registrierung beim Unternehmensregister
-erforderlich ist, erfolgt diese ausschließlich über eine nach dem
-Stand der Technik gesicherte Internetverbindung. Dabei sind folgende
-Mindestangaben zu machen:
+(1) Soweit nach § 11 Absatz 1 Satz 4, auch in Verbindung mit Absatz 2
+Satz 3, § 13 Absatz 4, § 15 Abs. 1 Satz 2 oder Abs. 2 Satz 2 eine
+Registrierung beim Unternehmensregister erforderlich ist, erfolgt
+diese ausschließlich über eine nach dem Stand der Technik gesicherte
+Internetverbindung. Dabei sind folgende Mindestangaben zu machen:
 
 1.  Firma oder Name des Nutzers,
 
@@ -131,29 +120,97 @@ Mindestangaben zu machen:
 Im Fall einer Registrierung, die nach § 13 Absatz 4 erforderlich ist,
 ist Satz 2 Nummer 4 nicht anzuwenden.
 
-(2) Aufgrund der Registrierung erhält der Nutzer eine Kennung und ein
-Passwort, die ihm auf elektronischem Weg oder per Post mitgeteilt
-werden; es können andere Authentifizierungsverfahren verwendet werden,
-soweit diese nach dem Stand der Technik einen vergleichbaren
-Sicherheitsstandard gewährleisten.
+(2) Für die Registrierung zur Datenübermittlung nach § 11 Absatz 2
+Satz 1 für in das Handels- oder Genossenschaftsregister eingetragene
+Unternehmen sind zusätzlich zu den Angaben nach Absatz 1 noch folgende
+Mindestangaben erforderlich:
+
+1.  Firma oder Name des Unternehmens,
+
+
+2.  Registergericht,
+
+
+3.  Registerart,
+
+
+4.  Registernummer.
+
+
+
+
+(3) Für eine Registrierung nach Absatz 2 hat eine elektronische
+Identifikation des Nutzers zu erfolgen. Nutzer ist diejenige
+natürliche Person, die eine Datenübermittlung nach § 11 Absatz 2 für
+Veröffentlichungs- und Offenlegungspflichtige tatsächlich vornehmen
+soll. Die Identitätsprüfung erfolgt anhand:
+
+1.  eines elektronischen Identitätsnachweises nach § 18 des
+    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
+    78 Absatz 5 des Aufenthaltsgesetzes oder
+
+
+2.  eines elektronischen Identifizierungsmittels, das von einem anderen
+    Mitgliedstaat der Europäischen Union ausgestellt wurde und das
+
+    a)  für die Zwecke der grenzüberschreitenden Authentifizierung nach
+        Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments
+        und des Rates vom 23. Juli 2014 über elektronische Identifizierung und
+        Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
+        zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
+        73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) anerkannt
+        wird und
+
+
+    b)  dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2
+        Buchstabe c der Verordnung (EU) Nr. 910/2014 entspricht, oder
+
+
+
+
+
+3.  einer von der registerführenden Stelle zur Verfügung gestellten
+    Identifizierungsmethode im Sinne des Artikel 24 Absatz 1 Unterabsatz 2
+    Buchstabe d Satz 1 Verordnung (EU) Nr. 910/2014.
+
+
+
+Die registerführende Stelle hat im Rahmen der Registrierung zu prüfen,
+ob ernstliche Zweifel an der Rechtsfähigkeit oder Geschäftsfähigkeit
+eines Nutzers oder der Berechtigung eines Nutzers zur
+Datenübermittlung nach § 11 Absatz 2 Satz 1 bestehen. Ist dies der
+Fall, kann die registerführende Stelle von dem Nutzer oder dem für ihn
+handelnden Berechtigten die Übermittlung geeigneter Nachweise über
+seine Rechtsfähigkeit oder Geschäftsfähigkeit oder über die
+Berechtigung zur Datenübermittlung verlangen.
+
+(4) Der Nutzer bestimmt, sofern er Veröffentlichungen für sich selbst
+oder als Beauftragter für Dritte vornehmen möchte, bei seiner
+Registrierung eine Kennung und ein Passwort, durch die er sich als
+Nutzungsberechtigter des Unternehmensregisters authentifiziert. Es
+können andere Authentifizierungsverfahren verwendet werden, soweit
+diese nach dem Stand der Technik einen vergleichbaren
+Sicherheitsstandard gewährleisten. Nutzer als Kunden von
+Datenverarbeitern, die über eine Großkundenschnittstelle angebunden
+sind, können durch den entsprechenden Datenverarbeiter ohne Vergabe
+von Kennung und Passwort registriert werden, wenn die registerführende
+Stelle dies bei einer Anbindung vorsieht.
 
 
 ## § 4 Art der Datenübermittlung
 
 Daten werden dem Unternehmensregister im Wege der Datenfernübertragung
-übermittelt. Datenübermittlungen nach § 11 Satz 1 können ausnahmsweise
-in Absprache mit dem Betreiber durch Telefax erfolgen, wenn die Daten
-nicht in einem gesetzlich festgelegten Offenlegungsformat vorzuliegen
-haben. Die Landesjustizverwaltungen können mit dem Betreiber eine
-andere Art der Datenbereitstellung vereinbaren.
+übermittelt. Die Landesjustizverwaltungen können mit der
+registerführenden Stelle eine andere Art der Datenbereitstellung
+vereinbaren.
 
 
 ## § 5 Datenübermittlung durch die Landesjustizverwaltungen
 
 (1) Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 die Indexdaten (§ 1 Abs. 2) über eine nach dem Stand der Technik
-gesicherte, zwischen dem Betreiber und den Landesjustizverwaltungen
-vereinbarte Verbindung.
+gesicherte, zwischen der registerführenden Stelle und den
+Landesjustizverwaltungen vereinbarte Verbindung.
 
 (2) Die Indexdaten sind in einem mit den Landesjustizverwaltungen
 vereinbarten strukturierten Format zu übermitteln. Die
@@ -164,13 +221,13 @@ Originaldaten und eine Suche im Unternehmensregister ermöglichen.
 (3) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten
 zu Eintragungen im Handels-, Genossenschafts- oder
 Partnerschaftsregister (§ 6) unverzüglich. Die Indexdaten zu
-Bekanntmachungen aus dem Handels-, Genossenschafts- und
+Registerbekanntmachungen aus dem Handels-, Genossenschafts- und
 Partnerschaftsregister (§ 7) sowie die Indexdaten zu
 Insolvenzbekanntmachungen (§ 8) sind täglich zu aktualisieren. Die
-Landesjustizverwaltungen können in Absprache mit dem Betreiber eine
-häufigere Aktualisierung oder eine vollständige Neuübermittlung
-vornehmen, wenn dadurch der Betrieb des Unternehmensregisters nicht
-beeinträchtigt wird.
+Landesjustizverwaltungen können in Absprache mit der registerführenden
+Stelle eine häufigere Aktualisierung oder eine vollständige
+Neuübermittlung vornehmen, wenn dadurch der Betrieb des
+Unternehmensregisters nicht beeinträchtigt wird.
 
 
 ## § 6 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister
@@ -179,8 +236,9 @@ Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts- und
 Partnerschaftsregister:
 
-1.  Registerart, Registergericht, Registernummer sowie ein
-    Ortskennzeichen, soweit vorhanden,
+1.  Registerart, Registergericht, Registernummer, die einheitliche
+    europäische Kennung (EUID) sowie ein Ortskennzeichen, soweit
+    vorhanden,
 
 
 2.  Firma oder Name des Unternehmens, bei Zweigniederlassungen die
@@ -200,8 +258,25 @@ Partnerschaftsregister:
 
 6.  Verfügbarkeit der Dokumentenarten "Aktueller Ausdruck (AD)",
     "Chronologischer Ausdruck (CD)", "Historischer Ausdruck (HD)",
-    "Unternehmensträgerdaten (UT)" und "Dokumentenansicht (DK)" zu dem
-    jeweiligen Unternehmen.
+    "Unternehmensträgerdaten (UT)", "Dokumentenansicht (DK)" und
+    „strukturierter Registerinhalt (SI)“ sowie gegebenenfalls weitere von
+    der Landesjustizverwaltung bestimmten Dokumentarten zu dem jeweiligen
+    Unternehmen,
+
+
+7.  Kennzeichnung eines Sitzwechsels und einer Rechtsnachfolge
+    einschließlich der neuen Registerart, des Registergerichts, der
+    Registernummer, der einheitlichen europäischen Kennung (EUID) sowie
+    des neuen Ortskennzeichens, soweit vorhanden,
+
+
+8.  Kennzeichnung einer Eröffnung, Einstellung oder Aufhebung eines
+    Insolvenzverfahrens sowie der Aufhebung eines Eröffnungsbeschlusses,
+    soweit vorhanden, und
+
+
+9.  Kennzeichnung einer Auflösung, Fortsetzung oder Nichtigkeit des
+    Unternehmens, soweit vorhanden.
 
 
 
@@ -212,10 +287,10 @@ die Gerichtskennung, bereitgestellt werden, sind dem
 Unternehmensregister auch diese zu übermitteln.
 
 
-## § 7 Übermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister
+## § 7 Übermittlung von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
-folgende Indexdaten zu Bekanntmachungen aus dem Handels-,
+folgende Indexdaten zu Registerbekanntmachungen aus dem Handels-,
 Genossenschafts- und Partnerschaftsregister:
 
 1.  Registerart, Registergericht, Registernummer sowie ein
@@ -231,20 +306,23 @@ Genossenschafts- und Partnerschaftsregister:
 4.  Sitz des Unternehmens,
 
 
-5.  Gegenstand der Bekanntmachung,
+5.  Gegenstand der Registerbekanntmachung,
 
 
-6.  elektronische Verknüpfung zu der Bekanntmachung,
+6.  elektronische Verknüpfung zu der Registerbekanntmachung,
 
 
-7.  Tag der Bekanntmachung,
+7.  Tag der Registerbekanntmachung,
 
 
 8.  Tag der Eintragung oder Anordnung.
 
 
 
-§ 6 Satz 2 gilt entsprechend.
+§ 6 Satz 2 gilt entsprechend. Werden keine Indexdaten nach § 6 Satz 1
+Nummer 7 bis 9 übermittelt, so sind dem Unternehmensregister diese
+Informationen als Indexdaten zu Registerbekanntmachungen, als
+Bekanntmachungsdokument oder als Eintragungsmitteilung zu übermitteln.
 
 
 ## § 8 Übermittlung von Indexdaten zu Insolvenzbekanntmachungen
@@ -280,86 +358,113 @@ des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs:
 § 6 Satz 2 gilt entsprechend.
 
 
-## § 9 Übermittlung von Unterlagen der Rechnungslegung
+## § 9 (weggefallen)
 
-Wird ein Antrag auf elektronische Übermittlung nach § 9 Abs. 2 des
-Handelsgesetzbuchs gestellt, der sich auf Unterlagen der
-Rechnungslegung im Sinn des § 8b Abs. 2 Nr. 4 des Handelsgesetzbuchs
-bezieht, übermittelt das Registergericht dem Unternehmensregister die
-Schriftstücke, auf die sich der Antrag bezieht. Die Schriftstücke
-werden in ein elektronisches Dokument übertragen und im
-Unternehmensregister unmittelbar zugänglich gemacht; § 9 Abs. 4 der
-Handelsregisterverordnung gilt entsprechend. Das Unternehmensregister
-übermittelt das elektronische Dokument zudem über eine nach dem Stand
-der Technik gesicherte, zwischen dem Betreiber und den
-Landesjustizverwaltungen vereinbarte Verbindung an eine von den
-Landesjustizverwaltungen festgelegte Stelle.
 
 
 ## § 10 Datenübermittlung durch den Betreiber des Bundesanzeigers
 
-(1) Der Betreiber des Bundesanzeigers übermittelt dem
-Unternehmensregister die Daten im Sinn des § 8b Abs. 3 Satz 1 Nr. 1
-des Handelsgesetzbuchs, mit Ausnahme der gemäß § 326 Absatz 2 des
-Handelsgesetzbuchs lediglich hinterlegten Bilanzen von
-Kleinstkapitalgesellschaften oder Kleinstgenossenschaften,
+Der Betreiber des Bundesanzeigers übermittelt dem Unternehmensregister
+die Daten im Sinn des § 8b Abs. 3 Satz 1 Nr. 1 des Handelsgesetzbuchs
 unverzüglich nach ihrer Veröffentlichung, spätestens bis zum Ablauf
 des auf die Veröffentlichung folgenden Arbeitstages. Die Daten sind
-unter Verwendung einer vom Betreiber bestimmten, nach dem Stand der
-Technik gesicherten Verbindung sowie in einem vom Betreiber
-bestimmten, in Wirtschaftskreisen verbreiteten strukturierten Format,
-zum Beispiel in Form der Extensible Markup Language (XML), zu
-übermitteln. Der Betreiber übermittelt Rechnungslegungsunterlagen
-eines Unternehmens, das als Inlandsemittent (§ 2 Absatz 14 des
-Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des
-Wertpapierhandelsgesetzes) begibt, in dem gesetzlich festgelegten
-Offenlegungsformat, wenn sie in diesem Format vorliegen. Der Eingang
+unter Verwendung einer von der registerführenden Stelle bestimmten,
+nach dem Stand der Technik gesicherten Verbindung sowie in einem von
+der registerführenden Stelle bestimmten, in Wirtschaftskreisen
+verbreiteten strukturierten Format, zum Beispiel in Form der
+Extensible Markup Language (XML), zu übermitteln. Der Eingang
 übermittelter Daten ist mit einem Zeitstempel unter Verwendung einer
 fortgeschrittenen elektronischen Signatur zu dokumentieren.
 
-(2) Der Betreiber des Bundesanzeigers übermittelt dem
-Unternehmensregister unverzüglich die nach § 326 Absatz 2 des
-Handelsgesetzbuchs von Kleinstkapitalgesellschaften oder
-Kleinstgenossenschaften zur Hinterlegung eingereichten Bilanzen in
-einem Dateiformat, das die Archivierung der Daten ermöglicht. Reicht
-eine Kleinstkapitalgesellschaft oder Kleinstgenossenschaft ihre Bilanz
-beim Betreiber des Bundesanzeigers in einem anderen, zur Archivierung
-der Daten nicht geeigneten Dateiformat ein, wandelt dieser die Daten
-im Auftrag des Unternehmens um.
 
+## § 11 Datenübermittlung durch Veröffentlichungs- und Offenlegungspflichtige, durch mit der Veranlassung der Veröffentlichung oder Offenlegung beauftragte Dritte oder durch die Bundesanstalt für Finanzdienstleistungsaufsicht
 
-## § 11 Datenübermittlung durch Veröffentlichungspflichtige oder mit der Veranlassung der Veröffentlichung beauftragte Dritte
-
-Daten im Sinn des § 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind dem
-Unternehmensregister unverzüglich nach der Veröffentlichung sowie
+(1) Daten im Sinn des § 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind
+dem Unternehmensregister unverzüglich nach der Veröffentlichung sowie
 Daten im Sinn des § 8b Abs. 2 Nr. 10 des Handelsgesetzbuchs
-unverzüglich nach der Mitteilung zu übermitteln. Wenn die Daten in
-einem gesetzlich festgelegten Offenlegungsformat vorzuliegen haben,
-sind sie in diesem Format zu übermitteln; im Übrigen gilt § 10 Absatz
-1 Satz 2 und 4 entsprechend. Den Veröffentlichungspflichtigen und den
-von diesen mit der Veranlassung der Veröffentlichung beauftragten
-Dritten kann auch die Übermittlung über Formulare im Internet
-ermöglicht werden. Für die Übermittlung ist eine Registrierung des
+unverzüglich nach der Mitteilung zu übermitteln. § 10 Satz 2 und 3
+gilt entsprechend. Den Veröffentlichungspflichtigen und den von diesen
+mit der Veranlassung der Veröffentlichung beauftragten Dritten kann
+auch die Übermittlung über Formulare im Internet ermöglicht werden.
+Für die Übermittlung ist eine Registrierung des
 Veröffentlichungspflichtigen oder des mit der Veranlassung der
 Veröffentlichung beauftragten Dritten nach § 3 erforderlich. Der
 Erfolg der Übermittlung wird elektronisch angezeigt.
 
+(2) Daten im Sinne des § 8b Absatz 2 Nummer 4 des Handelsgesetzbuchs
+sowie die Unterlagen, die dauerhaft hinterlegt werden sollen, sind dem
+Unternehmensregister unter Verwendung einer von der registerführenden
+Stelle bestimmten, nach dem Stand der Technik gesicherten
+Internetverbindung wie folgt elektronisch zu übermitteln:
 
-## § 12 Zugänglichkeit, Berichtigung und Löschung von Daten
+1.  Jahresfinanzberichte (§ 114 des Wertpapierhandelsgesetzes) oder die in
+    § 328 Absatz 1 Satz 1 des Handelsgesetzbuchs bezeichneten
+    Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent
+    (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz
+    1 des Wertpapierhandelsgesetzes) begibt: in dem einheitlichen
+    elektronischen Berichtsformat nach Maßgabe der Delegierten Verordnung
+    (EU) 2019/815 der Kommission vom 17. Dezember 2018 zur Ergänzung der
+    Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates im
+    Hinblick auf technische Regulierungsstandards für die Spezifikation
+    eines einheitlichen elektronischen Berichtsformats (ABl. L 143 vom
+    29\.5.2019, S. 1; L 145 vom 4.6.2019, S. 85), die zuletzt durch die
+    Delegierte Verordnung (EU) 2022/352 (ABl. L 77 vom 7.3.2022, S. 1)
+    geändert worden ist, in der jeweils geltenden Fassung,
 
-(1) Die nach den § 10 Absatz 1 und § 11 übermittelten Daten werden
+
+2.  Unterlagen der Rechnungslegung einer Kapitalgesellschaft mit Sitz in
+    einem anderen Staat (§ 325a des Handelsgesetzbuchs): im nach dem Recht
+    der Hauptniederlassung maßgeblichen Offenlegungsformat,
+
+
+3.  Ertragsteuerinformationsberichte (§ 342m des Handelsgesetzbuchs): im
+    Erstellungsformat (§ 342l Absatz 2 des Handelsgesetzbuchs) und
+
+
+4.  Daten, die nicht von den Nummern 1 bis 3 erfasst werden: im
+    strukturierten Format Extensible Markup Language (XML).
+
+
+
+Abweichend von Satz 1 Nummer 4 dürfen bei Unternehmen im Sinne des
+Satzes 1 Nummer 1 alle nach gesetzlichen Vorschriften offenzulegenden
+Rechnungslegungsunterlagen in dem einheitlichen elektronischen
+Berichtsformat im Sinne des Satzes 1 Nummer 1 übermittelt werden. Die
+Übermittlung der Daten nach Satz 1 oder Satz 2 erfolgt unter
+Verwendung eines Vertrauensdienstes nach der Verordnung (EU) Nr.
+910/2014. Im Übrigen gelten Absatz 1 Satz 3 bis 5 und § 10 Satz 3
+entsprechend.
+
+(3) Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt
+die Daten im Sinne des § 8b Absatz 2 Nummer 13 des Handelsgesetzbuchs
+an das Unternehmensregister elektronisch über eine nach dem Stand der
+Technik gesicherte Internetverbindung.
+
+
+## § 12 Prüfung, Zugänglichkeit, Berichtigung und Löschung von Daten
+
+(1) Die nach den §§ 10 und 11 Absatz 1 übermittelten Daten werden
 unverzüglich nach ihrer Übermittlung, spätestens bis zum Ablauf des
 auf die Übermittlung folgenden Arbeitstages im Unternehmensregister
-unmittelbar zugänglich gemacht. Nach § 4 Satz 2 per Telefax
-übermittelte Daten sind so bald wie möglich im Unternehmensregister
-unmittelbar zugänglich zu machen. Berichtigungen zugänglich gemachter
-Daten sind als solche zu kennzeichnen.
+unmittelbar zugänglich gemacht. Die nach § 11 Absatz 2 übermittelten
+Daten werden unverzüglich nach Maßgabe des § 329 Absatz 1 bis 3 des
+Handelsgesetzbuchs geprüft, soweit eine solche Prüfung gesetzlich
+vorgeschrieben ist. Die nach § 11 Absatz 2 übermittelten Daten mit
+Ausnahme der zur dauerhaften Hinterlegung eingestellten Unterlagen
+werden unverzüglich nach ihrer Prüfung oder, falls eine Prüfung
+gesetzlich nicht vorgeschrieben ist, unverzüglich nach ihrer
+Übermittlung im Unternehmensregister unmittelbar zugänglich gemacht.
+Werden die übermittelten Unterlagen durch die registerführende Stelle
+fehlerhaft eingestellt, so wird dies auf Verlangen des
+Veröffentlichungs- oder Offenlegungspflichtigen durch die
+registerführende Stelle berichtigt. Berichtigungen zugänglich
+gemachter Daten sind als solche zu kennzeichnen.
 
-(2) Die nach § 10 Absatz 1 übermittelten Daten werden gelöscht, wenn
-die Originaldaten nicht mehr im Bundesanzeiger zugänglich sind. Nach §
-11 an das Unternehmensregister übermittelte Daten sind für zehn Jahre
-zugänglich zu halten und anschließend zu löschen. Gesetzliche
-Löschungsregelungen bleiben unberührt.
+(2) Die nach § 10 übermittelten Daten werden gelöscht, wenn die
+Originaldaten nicht mehr im Bundesanzeiger zugänglich sind. Nach § 11
+Absatz 1 und 3 an das Unternehmensregister übermittelte Daten sind für
+zehn Jahre zugänglich zu halten und anschließend zu löschen.
+Gesetzliche Löschungsregelungen bleiben unberührt.
 
 
 ## § 13 Einsichtnahme in das Unternehmensregister
@@ -369,11 +474,11 @@ zugänglich. Eine vorherige Registrierung ist für die Einsichtnahme in
 die im Unternehmensregister unmittelbar zugänglich gemachten Daten im
 Sinn des § 8b Abs. 3 Satz 1 des Handelsgesetzbuchs sowie eine über das
 Unternehmensregister erfolgende Einsichtnahme in Bekanntmachungen im
-Sinn des § 8b Abs. 2 Nr. 1 bis 3 und 11 des Handelsgesetzbuchs nicht
+Sinn des § 8b Absatz 2 Nummer 11 und 12 des Handelsgesetzbuchs nicht
 erforderlich.
 
 (2) Das Unternehmensregister vermittelt den Zugang zu den
-Originaldaten im Sinn des § 8b Abs. 2 Nr. 1 bis 3 und 11 des
+Originaldaten im Sinn des § 8b Absatz 2 Nummer 1 bis 3, 11 und 12 des
 Handelsgesetzbuchs über die Ergebnisse einer Suche. Die
 Landesjustizverwaltungen eröffnen den hierzu erforderlichen Zugang.
 Die Darstellung erfolgt einheitlich und hat deutlich zu machen, dass
@@ -386,32 +491,36 @@ werden. Derartige Vervielfältigungen sind mit dem Herkunftsvermerk
 "Auszug aus dem Unternehmensregister" und dem Tag der Erstellung zu
 kennzeichnen.
 
-(4) Der Antrag auf Übermittlung einer Kopie von lediglich hinterlegten
-Bilanzen von Kleinstkapitalgesellschaften (§ 267a des
-Handelsgesetzbuchs) oder Kleinstgenossenschaften (§ 336 Absatz 2 Satz
-3 des Handelsgesetzbuchs) an das Unternehmensregister ist nur nach
-vorheriger Registrierung möglich. Die Übermittlung erfolgt in
-elektronischer Form. Die Kopie ist mit dem Herkunftsvermerk „Auszug
-aus dem Unternehmensregister“ und dem Datum, zu dem die Bilanz im
-Unternehmensregister hinterlegt worden ist, zu versehen.
+(4) Der Antrag auf Übermittlung einer Kopie von lediglich zur
+dauerhaften Hinterlegung eingestellten Unterlagen an das
+Unternehmensregister ist nur nach vorheriger Registrierung möglich.
+Die Übermittlung erfolgt in elektronischer Form. Die Kopie ist mit dem
+Herkunftsvermerk „Auszug aus dem Unternehmensregister“ und dem Datum,
+zu dem die Unterlage im Unternehmensregister hinterlegt worden ist, zu
+versehen.
 
 
 ## § 14 Suche im Register
 
 Das Unternehmensregister erlaubt die Suche nach allen eingestellten
-Daten sowie über sämtliche Indexdaten.
+Daten sowie über Indexdaten.
 
 
-## § 15 Auskunftsdienstleistungen; Zahlungen und Rechnungsstellung
+## § 15 Dienstleistungen; Zahlungen und Rechnungsstellung
 
-(1) Der Betreiber kann mit den Daten im Sinn des § 1 Absatz 1 Satz 1
-mit Ausnahme der nach § 326 Absatz 2 des Handelsgesetzbuchs lediglich
-hinterlegten Bilanzen von Kleinstkapitalgesellschaften oder
-Kleinstgenossenschaften über diese Verordnung hinausgehende weitere
+(1) Die mit der Führung des Unternehmensregisters nach § 9a Absatz 1
+des Handelsgesetzbuchs beliehene Stelle kann mit den Daten im Sinn des
+§ 1 Absatz 1 Satz 1 mit Ausnahme der zur dauerhaften Hinterlegung
+eingestellten Unterlagen über diese Verordnung hinausgehende weitere
 entgeltliche Auskunftsdienstleistungen anbieten; insbesondere kann er
 eine automatisierte Unterrichtung über neu zugänglich gemachte Daten
-vorsehen. Der Betreiber kann vor der Nutzung von
-Auskunftsdienstleistungen eine Registrierung nach § 3 verlangen.
+vorsehen. Die mit der Führung des Unternehmensregisters beliehene
+Stelle darf den Veröffentlichungs- oder Offenlegungspflichtigen eine
+Konvertierungsleistung in das nach § 11 Absatz 2 Satz 1 festgelegte
+Format sowie grafische und gestalterische Dienstleistungen anbieten.
+Die mit der Führung des Unternehmensregisters beliehene Stelle kann
+vor der Nutzung von Auskunftsdienstleistungen eine Registrierung nach
+§ 3 verlangen.
 
 (2) Zahlungen können über Kreditkarte, elektronisches
 Lastschriftverfahren oder einen vergleichbaren vereinbarten
@@ -424,27 +533,27 @@ elektronisch angezeigt.
 ## § 16 Befugnisse der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (1) Im Hinblick auf kapitalmarktrechtliche Daten überwacht die
-Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber dem
-Betreiber die Einhaltung von Mindestqualitätsnormen in Bezug auf
-Datensicherheit, Herkunftsgewissheit, Zeitaufzeichnung und leichten
-Zugang der Endnutzer zu den Daten sowie die Zusammenarbeit mit amtlich
-bestellten Speicherungssystemen anderer Mitgliedstaaten der
-Europäischen Union oder anderer Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten
-Netzwerks zwischen den Speicherungssystemen.
+Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber der
+registerführenden Stelle die Einhaltung von Mindestqualitätsnormen in
+Bezug auf Datensicherheit, Herkunftsgewissheit, Zeitaufzeichnung und
+leichten Zugang der Endnutzer zu den Daten sowie die Zusammenarbeit
+mit amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten
+der Europäischen Union oder anderer Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines
+europaweiten Netzwerks zwischen den Speicherungssystemen.
 
 (2) Soweit dies für die Überwachung nach Absatz 1 erforderlich ist,
-kann die Bundesanstalt für Finanzdienstleistungsaufsicht von dem
-Betreiber Auskünfte, die Vorlage von Unterlagen und die Überlassung
-von Kopien verlangen. Gesetzliche Auskunfts- oder
+kann die Bundesanstalt für Finanzdienstleistungsaufsicht von der
+registerführenden Stelle Auskünfte, die Vorlage von Unterlagen und die
+Überlassung von Kopien verlangen. Gesetzliche Auskunfts- oder
 Aussageverweigerungsrechte sowie gesetzliche
-Verschwiegenheitspflichten bleiben unberührt. Sollte der Betreiber
-berechtigten Verlangen der Bundesanstalt für
+Verschwiegenheitspflichten bleiben unberührt. Sollte die
+registerführende Stelle berechtigten Verlangen der Bundesanstalt für
 Finanzdienstleistungsaufsicht nicht nachkommen, kann diese gegenüber
 dem Bundesministerium der Justiz und für Verbraucherschutz als der
 Kontroll- und Aufsichtsbehörde über das Unternehmensregister auf die
-Erfüllung der bestehenden Pflichten durch den Betreiber und die
-Beseitigung von Missständen hinwirken.
+Erfüllung der bestehenden Pflichten durch die registerführende Stelle
+und die Beseitigung von Missständen hinwirken.
 
 
 ## § 17 Erstmalige Übermittlung der Indexdaten
@@ -453,11 +562,15 @@ Die Landesjustizverwaltungen übermitteln die Indexdaten (§§ 6 bis 8)
 erstmalig zum 1. Januar 2007.
 
 
-## § 18 Inkrafttreten
+## § 18 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
-§ 16 tritt am Tag nach der Verkündung dieser Verordnung in Kraft. Im
-Übrigen tritt diese Verordnung mit Wirkung vom 1. Januar 2007 in
-Kraft.
+Die §§ 1 bis 4, 10 bis 13 und 15 in der ab dem 1. August 2022
+geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen und
+Unternehmensberichte für das nach dem 31. Dezember 2021 beginnende
+Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in
+der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals
+anzuwenden auf Rechnungslegungsunterlagen und Unternehmensberichte für
+das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 
 ## Schlussformel

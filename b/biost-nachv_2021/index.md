@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5126
 
+Zuletzt geändert durch
+:   Art. 1 V v. 13.12.2022 I 2286
+
 Stand: Ersetzt V 754-22-3 v. 23.7.2009 I 2174 (BioSt-NachV)
 Diese Verordnung ist notifiziert gemäß der Richtlinie (EU) 2015/1535
 des Europäischen Parlaments und des Rates vom 9. September 2015 über
@@ -482,8 +485,8 @@ Anforderungen ausschließlich deshalb nicht erbracht werden kann, weil
 der Nachweisverpflichtete mangels anerkannter Zertifizierungssysteme
 oder mangels Verfügbarkeit zugelassener Auditoren anerkannter
 Zertifizierungsstellen nach dieser Verordnung daran gehindert war,
-entsprechende Nachweise vorzulegen, längstens mit Ablauf des 30. Juni
-2022\. Über das Vorliegen der Voraussetzungen nach Satz 2 ist ein
+entsprechende Nachweise vorzulegen, längstens mit Ablauf des 30. April
+2023\. Über das Vorliegen der Voraussetzungen nach Satz 2 ist ein
 Nachweis in Form einer Eigenerklärung durch den Anlagenbetreiber bei
 der zuständigen Behörde vorzulegen. Dazu erstellt die zuständige
 Behörde ein entsprechendes Muster und veröffentlicht es auf ihrer

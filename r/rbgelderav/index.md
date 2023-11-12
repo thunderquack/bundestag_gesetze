@@ -93,10 +93,11 @@ Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere
     5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Bundesamtes für Justiz.
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Bundesamtes für Justiz.
 
 
 

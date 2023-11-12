@@ -19,9 +19,8 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 25.6.2021 I 2099
+:   Art. 29 G v. 8.10.2023 I Nr. 272
 
-Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -98,6 +97,9 @@ Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
 
 
 17. nach dem EU-Verbraucherschutzdurchführungsgesetz;
+
+
+17a. nach dem Verbraucherrechtedurchsetzungsgesetz;
 
 
 18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über
@@ -370,7 +372,10 @@ der Anmeldungserklärung fällig. Die Auslagen des Musterverfahrens nach
 dem Kapitalanleger-Musterverfahrensgesetz werden mit dem
 rechtskräftigen Abschluss des Musterverfahrens fällig.
 
-(2) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
+(2) Die Gebühr für das Umsetzungsverfahren nach dem
+Verbraucherrechtedurchsetzungsgesetz wird mit dessen Eröffnung fällig.
+
+(3) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
 
 1.  eine unbedingte Entscheidung über die Kosten ergangen ist,
 
@@ -392,7 +397,7 @@ rechtskräftigen Abschluss des Musterverfahrens fällig.
 
 
 
-(3) Die Dokumentenpauschale sowie die Auslagen für die Versendung von
+(4) Die Dokumentenpauschale sowie die Auslagen für die Versendung von
 Akten werden sofort nach ihrer Entstehung fällig.
 
 
@@ -417,7 +422,7 @@ Vollstreckungsgericht ist. Satz 1 gilt nicht in Verfahren wegen
 Arbeitsgerichtsgesetzes).
 
 
-### § 12 Verfahren nach der Zivilprozessordnung
+### § 12 Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
 
 (1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach
 Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden.
@@ -718,8 +723,8 @@ Monate von den Parteien nicht betrieben worden ist.
 
 (3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach §
 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der
-Zivilprozessordnung oder nach § 57 oder § 58 des Anerkennungs- und
-Vollstreckungsausführungsgesetzes schuldet die Kosten der
+Zivilprozessordnung oder nach § 57, § 58 oder § 59 des Anerkennungs-
+und Vollstreckungsausführungsgesetzes schuldet die Kosten der
 Antragsteller.
 
 (4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-
@@ -821,6 +826,13 @@ die Zwangsverwaltung), haften der Ersteher und der Meistbietende als
 Gesamtschuldner.
 
 (3) Die Kosten des Beschwerdeverfahrens schuldet der Beschwerdeführer.
+
+
+### § 26a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Die Kosten des Umsetzungsverfahrens nach dem
+Verbraucherrechtedurchsetzungsgesetz schuldet nur der im zugrunde
+liegenden Abhilfeverfahren verurteilte Unternehmer.
 
 
 ### § 27 Bußgeldsachen
@@ -1264,9 +1276,13 @@ maßgebende Wert.
 nach den für die Zuständigkeit des Prozessgerichts oder die
 Zulässigkeit des Rechtsmittels geltenden Vorschriften über den Wert
 des Streitgegenstands, soweit nichts anderes bestimmt ist. In
-Musterfeststellungsklagen nach Buch 6 der Zivilprozessordnung und in
-Rechtsstreitigkeiten aufgrund des Unterlassungsklagengesetzes darf der
-Streitwert 250 000 Euro nicht übersteigen.
+Rechtsstreitigkeiten aufgrund des Unterlassungsklagengesetzes und in
+Musterfeststellungsverfahren nach dem
+Verbraucherrechtedurchsetzungsgesetz darf der Streitwert 250 000 Euro
+nicht übersteigen. In Abhilfeverfahren sowie in Verfahren über die
+Erhöhung des kollektiven Gesamtbetrags nach dem
+Verbraucherrechtedurchsetzungsgesetz darf der Streitwert 300 000 Euro
+nicht übersteigen.
 
 (2) In nichtvermögensrechtlichen Streitigkeiten ist der Streitwert
 unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere
@@ -1352,7 +1368,9 @@ ist der Wert nach billigem Ermessen zu bestimmen.
 Wettbewerb und nach dem Gesetz zum Schutz von Geschäftsgeheimnissen
 ist, soweit nichts anderes bestimmt ist, der Streitwert nach der sich
 aus dem Antrag des Klägers für ihn ergebenden Bedeutung der Sache nach
-Ermessen zu bestimmen.
+Ermessen zu bestimmen. In Gewinnabschöpfungsverfahren nach dem Gesetz
+gegen den unlauteren Wettbewerb darf der Streitwert 410 000 Euro nicht
+übersteigen.
 
 (3) Ist die Bedeutung der Sache für den Beklagten erheblich geringer
 zu bewerten als der nach Absatz 2 ermittelte Streitwert, ist dieser
@@ -1665,6 +1683,13 @@ der festgesetzten Haftungssumme. Ist diese höher als der Gesamtbetrag
 der Ansprüche, für deren Gläubiger das Recht auf Teilnahme an dem
 Verteilungsverfahren festgestellt wird, richten sich die Gebühren nach
 dem Gesamtbetrag der Ansprüche.
+
+
+#### § 59a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+bestimmt sich die Gebühr nach dem Gesamtwert der von dem
+Umsetzungsverfahren erfassten Ansprüche.
 
 
 #### § 60 Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
@@ -2300,6 +2325,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-
         Reorganisationsgesetz
+
+
+*    *
+    *   Abschnitt 6
+
+    *   Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
 
 
 *    *
@@ -3657,7 +3688,9 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *
     *   Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände
-        erfüllt sind.
+        erfüllt sind. Im Verfahren über eine Abhilfeklage nach dem VDuG ist
+        die Ermäßigung nicht dadurch ausgeschlossen, dass ein
+        Abhilfegrundurteil vorausgegangen ist.
 
     *
 
@@ -4377,7 +4410,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
     *   Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079
         ZPO oder über Anträge auf Ausstellung einer Bescheinigung nach § 1110
-        ZPO oder nach § 58 AVAG ..........
+        ZPO oder nach § 58 oder § 59 AVAG ..........
 
     *   22,00 €
 
@@ -4720,6 +4753,17 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
         Die Gebühr 1652 beträgt ..........
 
     *   0,2
+
+
+*    *   Abschnitt 6
+        Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz ****
+
+
+*    *   1660
+
+    *   Umsetzungsverfahren nach dem VDuG
+
+    *   1,0
 
 
 *    *   Hauptabschnitt 7
@@ -9137,9 +9181,9 @@ Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
 
 *    *   8401
 
-    *   Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57
-        oder § 58 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge auf
-        Ausstellung einer Bestätigung nach § 1079 ZPO
+    *   Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57,
+        § 58 oder § 59 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge
+        auf Ausstellung einer Bestätigung nach § 1079 ZPO
 
     *   17,00 €
 

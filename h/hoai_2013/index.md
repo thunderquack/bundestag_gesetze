@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2276
 
-Geändert durch
-:   Art. 1 V v. 2.12.2020 I 2636
+Zuletzt geändert durch
+:   Art. 3 G v. 22.3.2023 I Nr. 88
 
 
 ## Eingangsformel
@@ -19649,7 +19649,7 @@ zugerechnet:
 
 
         j)  Bereitstellen von Unterlagen als Auszüge aus der Voruntersuchung zur
-            Verwendung für ein Raumordnungsverfahren
+            Verwendung für eine Raumverträglichkeitsprüfung
 
 
         k)  Kostenschätzung, Vergleich mit den finanziellen Rahmenbedingungen

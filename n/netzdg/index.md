@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 3352
 
 Zuletzt geändert durch
-:   Art. 15 Nr. 3 u. 6 G v. 30.3.2021 I 448
-
-Änderung durch
-:   Art. 1 G v. 3.6.2021 I 1436 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 3 G v. 3.6.2021 I 1436 (Nr. 29) ist berücksichtigt
+:   Art. 3 G v. 21.7.2022 I 1182
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
@@ -40,6 +34,16 @@ spezifischer Inhalte bestimmt sind.
 (2) Der Anbieter eines sozialen Netzwerks ist von den Pflichten nach
 den §§ 2 bis 3b und 5a befreit, wenn das soziale Netzwerk im Inland
 weniger als zwei Millionen registrierte Nutzer hat.
+
+(2a) Die §§ 2 und 3a sind auf terroristische Inhalte im Sinne des
+Artikels 2 Nummer 7 der Verordnung (EU) 2021/784 des Europäischen
+Parlaments und des Rates vom 29. April 2021 zur Bekämpfung der
+Verbreitung terroristischer Online-Inhalte (ABl. L 172 vom 17.5.2021,
+S. 79) nicht anzuwenden. Die §§ 3, 3b und 3c sind auf terroristische
+Inhalte im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) 2021/784
+nur anzuwenden, solange die zuständige Behörde keine Entscheidung im
+Sinne des Artikels 5 Absatz 4 der Verordnung (EU) 2021/784 getroffen
+hat.
 
 (3) Rechtswidrige Inhalte sind Inhalte im Sinne des Absatzes 1, die
 den Tatbestand der §§ 86, 86a, 89a, 91, 100a, 111, 126, 129 bis 129b,

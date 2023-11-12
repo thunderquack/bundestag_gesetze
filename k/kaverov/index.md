@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2460
 
-Geändert durch
-:   Art. 8 G v. 18.12.2018 I 2626
-
-Änderung durch
-:   Art. 17 Abs. 2 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 28.7.2022 BAnz AT 29.07.2022 V2
 
 [^F781800_01_BJNR246000013]:     Diese Verordnung dient der weiteren Umsetzung der Richtlinie
     2010/43/EU der Kommission vom 1. Juli 2010 zur Durchführung der
@@ -182,13 +179,18 @@ Artikels 60 Absatz 2 Buchstabe h, der Verordnung (EU) Nr. 231/2013.
 2.  hat sicherzustellen, dass die Menge oder Vielfalt der von einer
     relevanten Person wahrgenommenen Aufgaben diese relevante Person in
     keiner Weise daran hindert, sämtliche Aufgaben gründlich, redlich und
-    professionell zu erledigen, und
+    professionell zu erledigen,
 
 
 3.  hat bei der Verfolgung der in den Nummern 1 und 2 genannten Zwecke der
     Art, dem Umfang und der Komplexität ihrer Geschäfte sowie der Art und
     dem Spektrum der im Zuge dieser Geschäfte erbrachten Dienstleistungen
-    und Tätigkeiten Rechnung zu tragen.
+    und Tätigkeiten Rechnung zu tragen, und
+
+
+4.  hat für die in den Nummern 1 und 2 genannten Zwecke über die
+    Ressourcen und Fachkenntnisse zu verfügen, die für eine wirksame
+    Einbeziehung von Nachhaltigkeitsrisiken erforderlich sind.
 
 
 
@@ -249,10 +251,24 @@ ist, Prognosen abzugeben und Analysen durchzuführen über die
 Auswirkungen des Erwerbs auf die Zusammensetzung des
 Investmentvermögens, auf dessen Liquidität und auf dessen Risiko- und
 Ertragsprofil. Die Analysen dürfen sich quantitativ wie qualitativ nur
-auf verlässliche und aktuelle Daten stützen.
+auf verlässliche und aktuelle Daten stützen. Die
+Kapitalverwaltungsgesellschaft hat bei der Erfüllung der in Satz 1
+aufgeführten Anforderungen Nachhaltigkeitsrisiken zu berücksichtigen.
+Berücksichtigt die Kapitalverwaltungsgesellschaft die wichtigsten
+nachteiligen Auswirkungen von Investitionsentscheidungen auf
+Nachhaltigkeitsfaktoren gemäß Artikel 4 Absatz 1 Buchstabe a oder
+Absatz 3 oder Absatz 4 der Verordnung (EU) 2019/2088 des Europäischen
+Parlaments und des Rates vom 27. November 2019 über
+nachhaltigkeitsbezogene Offenlegungspflichten im
+Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die
+zuletzt durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020,
+S. 13) geändert worden ist, hat sie diesen wichtigsten nachteiligen
+Auswirkungen bei der Erfüllung der in Satz 1 aufgeführten
+Anforderungen Rechnung zu tragen.
 
 (3) Für die Zwecke dieser Verordnung werden die in Artikel 44 Absatz 2
-der Verordnung (EU) Nr. 231/2013 genannten Begriffe folgendermaßen
+der Verordnung (EU) Nr. 231/2013 genannten Begriffe und die Begriffe
+Nachhaltigkeitsrisiko und Nachhaltigkeitsfaktoren folgendermaßen
 definiert:
 
 1.  Marktrisiko ist das Verlustrisiko für ein Investmentvermögen, das aus
@@ -290,7 +306,15 @@ definiert:
     resultiert; darin eingeschlossen sind Rechts-, Dokumentations- und
     Reputationsrisiken sowie Risiken, die aus den für ein
     Investmentvermögen betriebenen Handels-, Abrechnungs- und
-    Bewertungsverfahren resultieren.
+    Bewertungsverfahren resultieren;
+
+
+5.  Nachhaltigkeitsrisiko ist das Nachhaltigkeitsrisiko gemäß Artikel 2
+    Nummer 22 der Verordnung (EU) 2019/2088;
+
+
+6.  Nachhaltigkeitsfaktoren sind die Nachhaltigkeitsfaktoren gemäß Artikel
+    2 Nummer 24 der Verordnung (EU) 2019/2088.
 
 
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3
 
-Geändert durch
-:   Art. 1 V v. 14.6.2021 I 1780
+Zuletzt geändert durch
+:   Art. 1 V v. 19.12.2022 I 2414
 
 Stand: Die V tritt gem. § 4 idF d. Art. 1 Nr. 4 V v 14.6.2021 I 1780 mWv 1.1.2030 außer Kraft
 
@@ -144,12 +144,12 @@ tätig sind. Bei der ausgeführten energetischen Maßnahme muss es sich
 zudem um eine Maßnahme handeln, die dem Gewerk des Fachunternehmens
 zugehörig ist.
 
-(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 6 des
+(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 7 des
 Einkommensteuergesetzes erfüllen zudem Personen mit
 Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
 
-1.  die energetische Maßnahme durch ein Unternehmen ausgeführt wird, das
-    in einem der in Absatz 1 Satz 1 aufgeführten Gewerke tätig ist,
+1.  die energetische Maßnahme durch ein Fachunternehmen nach Absatz 1 Satz
+    1 und 2 ausgeführt wird,
 
 
 2.  die Maßnahme dem Gewerk dieses Unternehmens zugehörig ist und
@@ -167,12 +167,9 @@ Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
 ## § 3 Anwendungsregelungen
 
 Diese Fassung der Verordnung ist, soweit nachfolgend nichts anderes
-bestimmt ist, erstmals für den Veranlagungszeitraum 2021 anzuwenden;
+bestimmt ist, erstmals für den Veranlagungszeitraum 2023 anzuwenden;
 sie gilt für energetische Maßnahmen, mit denen nach dem 31. Dezember
-2020 begonnen wurde. § 2 Absatz 1 Satz 2 in der Fassung des Artikels 1
-der Verordnung vom 14. Juni 2021 (BGBl. I S. 1780) ist erstmals auf
-energetische Maßnahmen anzuwenden, mit deren Durchführung nach dem 31.
-Dezember 2019 begonnen wurde.
+2022 begonnen wurde.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
@@ -638,31 +635,41 @@ Gestaltung von Wohnungslüftungsanlagen einhalten.
 
 ## Anlage 6 Erneuerung der Heizungsanlage
 
-(Fundstelle: BGBl. I 2021, 1788 - 1792)
+(Fundstelle: BGBl. I 2022, 2415 - 2418)
 
 ## **Übergreifende technische Mindestanforderungen**
 
+Zur korrekten Auslegung einer Heizungsanlage (Vermeidung von über-
+oder unterdimensionierten Anlagen) wird die Dimensionierung der Anlage
+anhand einer Heizlastermittlung nach DIN EN 12831 empfohlen. Analog
+zur Leistungsbeschreibung des Bestätigungsformulars für
+Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik VdZ-Forum für
+Energieeffizienz in der Gebäudetechnik e. V.
+(www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) sind
+alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der
+DIN EN 12831 (zum Beispiel Hüllflächenverfahren) zulässig. Zudem ist
+die Durchführung folgender Maßnahmen und die Installation folgender
+technischer Komponenten für eine Förderung erforderlich:
 
 –   Alle Energieverbräuche sowie alle erzeugten Wärmemengen eines
     förderfähigen Wärmeerzeugers müssen messtechnisch erfasst werden.
 
 
+–   Alle förderfähigen Heizsysteme müssen mit einer Energieverbrauchs- und
+    Effizienzanzeige ausgestattet sein.
+
+
 –   Ausnahmen: Bei förderfähigen Biomasseheizungen müssen lediglich die
     erzeugten Wärmemengen gemessen werden. Eine Effizienzanzeigepflicht
     besteht nicht. Bei förderfähigen Wärmepumpen, die über das Medium Luft
-    heizen, müssen spätestens ab dem 1. Januar 2023 die Wärmemengen
-    gemessen werden. Eine Energieverbrauchsbilanzierung nach DIN EN 12831
-    Beiblatt 2 ist dabei zulässig.
-
-
-–   Alle förderfähigen Heizsysteme müssen bis spätestens 1. Januar 2023
-    mit einer Energieverbrauchs- und Effizienzanzeige ausgestattet sein.
+    heizen, ist eine Energieverbrauchsbilanzierung nach DIN EN 12831
+    Beiblatt 2 zulässig.
 
 
 –   Durchführungen des hydraulischen Abgleichs nach Verfahren A oder B
     gemäß Bestätigungsformular des hydraulischen Abgleichs des
     Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in
-    der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-
+    der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-
     hydraulischer-abgleich). Bei luftgeführten Systemen sind die
     Luftvolumenströme anzupassen.
 
@@ -672,7 +679,7 @@ Gestaltung von Wohnungslüftungsanlagen einhalten.
 
 
 
-## **6.1 Solarkollektoranlagen**
+## 6.1 Solarkollektoranlagen ****
 
 Gegenstand der Förderung ist die Errichtung oder Erweiterung von
 Solarkollektoranlagen zur thermischen Nutzung, die überwiegend (d. h.
@@ -691,14 +698,15 @@ einem der folgenden Zwecke dienen:
 –   der solaren Kälteerzeugung,
 
 
-–   der Zuführung der Wärme und in ein Wärmenetz im Sinne von Nummer 6.9
-    („Gebäudenetz“).
+–   der Zuführung der Wärme und/oder Kälte in ein Gebäudenetz im Sinne von
+    Nummer 6.7.
+
 
 
 
 Die Anlagen sind so zu realisieren, dass erneuerbare Energien im
-Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend
-zu Zwecken der Raumwärmeversorgung genutzt werden.
+Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude genutzt
+werden.
 
 Nicht förderfähig sind Solaranlagen mit Kollektoren ohne transparente
 Abdeckung auf der Frontseite (zum Beispiel Schwimmbadabsorber).
@@ -711,13 +719,12 @@ Abdeckung auf der Frontseite (zum Beispiel Schwimmbadabsorber).
 
     –   jährlicher Kollektorertrag Q
         kOl                          für flüssigkeitsdurchströmte Kollektoren
-        von mindestens 525 kWh/m
-        2                         ;
+        von mindestens 525 kWh/m²;
 
 
     –   der Nachweis von Q
         kOl                          erfolgt auf Basis der Kollektorerträge
-        bei 25 °C und 50 °C am Standort Würzburg und berechnet sich wie folgt:
+        bei 25 °C und 50 °C am Standort Würzburg und berechnet sich wie folgt:
 
         Q
         kOl                          = 0,38 (W25 / A
@@ -738,9 +745,8 @@ Abdeckung auf der Frontseite (zum Beispiel Schwimmbadabsorber).
         (Luftkollektoren sind ausgenommen);
 
 
-    –   bei Vakuumröhren- und Vakuumflachkollektoren ab 20 m
-        2                          oder Flachkollektoren ab 30 m
-        2                          ist die Erfassung der solaren Erträge im
+    –   bei Vakuumröhren- und Vakuumflachkollektoren ab 20 m² oder
+        Flachkollektoren ab 30 m² ist die Erfassung der solaren Erträge im
         Kollektorkreislauf erforderlich, zum Beispiel mit einem
         Wärmemengenzähler oder einer Solarregelung mit entsprechender Option.
 
@@ -751,7 +757,7 @@ Abdeckung auf der Frontseite (zum Beispiel Schwimmbadabsorber).
 –   Solarkollektoren sind nur förderfähig, sofern sie das europäische
     Zertifizierungszeichen Solar Keymark tragen. Das Solar Keymark-
     Zertifikat sowie der dem Zertifikat zugrunde liegende Prüfbericht nach
-    EN 12975-2 oder EN ISO 9806 müssen vorliegen.
+    EN 12975-2 oder EN ISO 9806 müssen vorliegen.
 
 
 
@@ -763,8 +769,8 @@ Biomasse gemäß § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der
 Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV).
 Förderfähig sind Anlagen, bei denen die erneuerbaren Energien im
 Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend
-(d. h. mit mehr als 50 Prozent der erzeugten Wärme bzw. Kälte)
-mindestens einem der folgenden Zwecke dienen:
+(d. h. mit mehr als 50 Prozent der erzeugten Wärme) mindestens einem
+der folgenden Zwecke dienen:
 
 –   der Warmwasserbereitung,
 
@@ -775,12 +781,13 @@ mindestens einem der folgenden Zwecke dienen:
 –   der kombinierten Warmwasserbereitung und der Raumheizung,
 
 
-–   der Zuführung der Wärme in ein Wärmenetz im Sinne von Nummer 5.3
-    Buchstabe i der Förderrichtlinie Bundesförderung für effiziente
-    Gebäude – Einzelmaßnahmen (BEG EM),
+–   der Zuführung der Wärme in ein Gebäudenetz im Sinne von Nummer 6.7
 
 
-–   mit Kesseln zur Verbrennung von Biomassepellets und -hackgut, die
+
+mit
+
+–   Kesseln zur Verbrennung von Biomassepellets und -hackgut, die
 
     –   automatisch beschickt sind,
 
@@ -800,7 +807,7 @@ mindestens einem der folgenden Zwecke dienen:
 
 
 
-–   mit Pelletöfen mit Wassertasche, die
+–   Pelletöfen mit Wassertasche, die
 
     –   automatisch beschickt sind,
 
@@ -816,7 +823,7 @@ mindestens einem der folgenden Zwecke dienen:
 
 
 
-–   mit besonders emissionsarmem Scheitholzvergaserkesseln, die
+–   besonders emissionsarmen Scheitholzvergaserkesseln, die
 
     –   über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der
         Verbrennungskammer und/oder Lambdasonde zur Messung des O
@@ -835,8 +842,8 @@ mindestens einem der folgenden Zwecke dienen:
 
 
 
-–   mit Kombinationskesseln zur Verbrennung von Biomassepellets bzw.
-    -hackgut und Scheitholz, die
+–   Kombinationskesseln zur Verbrennung von Biomassepellets bzw. -hackgut
+    und Scheitholz, die
 
     –   automatisch beschickt sind,
 
@@ -864,28 +871,21 @@ wenn die nachfolgend genannten technischen Vorgaben erfüllt werden.
 ## **Technische Fördervoraussetzungen**
 
 Der „jahreszeitbedingte Raumheizungsnutzungsgrad“*
-s              (= ETA S) gemäß Ökodesign-Richtlinie förderfähiger
+s              (= ETA S) gemäß Ökodesign-Richtlinie förderfähiger
 Biomasseanlagen muss bei durchschnittlichen Klimaverhältnissen
-mindestens 78 Prozent erreichen. Für eine Übergangsfrist für
-Förderanträge, die bis einschließlich 31. Dezember 2022 beim
-Durchführer eingehen, ist als alternativer Nachweis zu*
-s              Prozent bei Pelletkesseln, Hackgutkesseln und
-Scheitholzvergaserkessel ein Kesselwirkungsgrad von 90 Prozent, und
-bei Pelletöfen mit Wassertasche ein feuerungstechnischer Wirkungsgrad
-von 91 Prozent möglich.
+mindestens 81 Prozent erreichen.
 
 Alle Biomasseanlagen müssen folgende Emissionsgrenzwerte einhalten
 (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent
 im Normzustand [273 K, 1013 hPa]):
 
-–   Kohlenmonoxid: 200 mg/m
-    3                    bei Nennwärmeleistung, 250 mg/m
-    3                    bei Teillastbetrieb (für Brennstoffe nach § 3
-    Absatz 1 Nummer 8 der 1. BImSchV),
+–   Kohlenmonoxid: 200 mg/m³ bei Nennwärmeleistung, 250 mg/m³ bei
+    Teillastbetrieb (für Brennstoffe nach § 3 Absatz 1 Nummer 8 der 1.
+    BImSchV),
 
 
-–   Staub: 15 mg/m
-    3                   .
+–   Staub: 2,5 mg/m³.
+
 
 
 
@@ -926,25 +926,30 @@ akkreditiertes Prüfinstitut (Biomassekessel) oder Prüfung nach EN
 
 ## **6.3 Wärmepumpen**
 
-Förderfähig sind Anlagen, die erneuerbare Energien im Gebäude oder in
-unmittelbarer Nähe zum versorgten Gebäude überwiegend (d. h. mit mehr
-als 50 Prozent der erzeugten Wärme bzw. Kälte) zu Zwecken der
-Raumwärmeversorgung erzeugen. Wärmepumpen können gefördert werden,
-wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
+Förderfähig sind Anlagen, bei denen die erneuerbaren Energien im
+Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend
+(d. h. mit mehr als 50 Prozent der erzeugten Wärme) mindestens einem
+der folgenden Zwecke dienen:
 
-–   Einzelprüfungen nach EN 14511/EN 14825 oder darauf basierende
+–   der Raumheizung,
+
+
+–   der kombinierten Warmwasserbereitung und Raumheizung,
+
+
+–   der Zuführung der Wärme in ein Gebäudenetz im Sinne von Nummer 6.7.
+
+
+
+
+Wärmepumpen können gefördert werden, wenn zu ihrem Betrieb kein Gas
+genutzt wird und die nachfolgend genannten technischen Vorgaben
+erfüllt werden:
+
+–   Einzelprüfungen nach EN 14511/EN 14825 oder darauf basierende
     Zertifizierung nach einem der etablierten europäischen
     Baureihenreglements (EHPA, Solar Keymark, EUROVENT, ECP, MCS, NF etc.)
     durch ein nach ISO 17025 akkreditiertes Prüfinstitut.
-
-
-–   Die „jahreszeitbedingte Raumheizungseffizienz“*
-    s                    (= ETA S) gemäß Ökodesign-Richtlinie
-    förderfähiger Wärmepumpen muss bei durchschnittlichen
-    Klimaverhältnissen mindestens folgende Werte bei 35 °C und 55 °C
-    erreichen; Wärmepumpen, die gemäß Ökodesign-Richtlinie als
-    Niedertemperatur-Wärmepumpen gelten, müssen nur die*
-    s                   -Anforderungen bei 35 °C erfüllen:
 
 
 
@@ -953,7 +958,13 @@ wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
 *    *   Wärmepumpen – Beheizung über Wasser
 
 
-*    *   Elektrisch betriebene Wärmepumpen
+*    *   Die „jahreszeitbedingte Raumheizungseffizienz“*
+        s                        (= ETA S) gemäß Ökodesign-Richtlinie
+        förderfähiger Wärmepumpen muss bei durchschnittlichen
+        Klimaverhältnissen mindestens folgende Werte bei 35 °C und 55 °C
+        erreichen; Wärmepumpen, die gemäß Ökodesign-Richtlinie als
+        Niedertemperatur-Wärmepumpen gelten, müssen nur die*
+        s                       -Anforderungen bei 35 °C erfüllen:
 
 
 *    *
@@ -993,30 +1004,9 @@ wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
     *   135 %
 
 
-*    *   Gasbetriebene Wärmepumpen
-
-
-*    *
-    *   *
-        s                        bei (35 °C)
-
-    *   *
-        s                        bei (55 °C)
-
-
-*    *   Alle Wärmequellen
-
-    *   126 %
-
-    *   111 %
-
-
 
 
 *    *   Wärmepumpen – Beheizung über Luft
-
-
-*    *   Elektrisch- und gasbetriebene Wärmepumpen
 
 
 *    *   Die „jahreszeitbedingte Raumheizungseffizienz“*
@@ -1028,7 +1018,7 @@ wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
         folgende Werte erreichen:
 
 
-*    *[^F816958_03_BJNR000300020BJNE001001123]
+*    *[^F823255_01_BJNR000300020BJNE001002123]
    Wärmepumpen*                        12 kW
         (Wärmequelle Luft)
 
@@ -1037,7 +1027,7 @@ wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
         Effizienzklasse A++ oder A+++
 
 
-*    *   Wärmepumpen*                        12 kW
+*    *   Wärmepumpen*                        12 kW\*
         (alle Wärmequellen)
 
     *   *
@@ -1074,119 +1064,7 @@ Fördervoraussetzungen sind weiter:
 
 
 
-## **6.4 Gasbrennwerttechnik („Renewable Ready“)**
-
-Gefördert wird die Errichtung effizienter Gas-Brennwertheizungen, wenn
-diese bereits weitestgehend auf eine künftige Einbindung erneuerbarer
-Energien vorbereitet sind („Renewable Ready“).
-
-## **Technische Mindestanforderungen**
-
-
-–   Die „jahreszeitbedingte Raumheizungs-Energieeffizienz“*
-    s                    (= ETA S) des Gas-Brennwertkessels mit einer
-    Nennwärmeleistung von bis zu 70 kW muss mindestens 92 Prozent oder
-    Energieeffizienzklasse A erreichen. Gas-Brennwertkessel mit einer
-    Nennleistung über 70 kW müssen einen Wirkungsgrad von 87 Prozent bei
-    Volllast und von 96 Prozent bei 30 Prozent Teillast erreichen. Der
-    Nachweis erfolgt über die Konformitätserklärung des Herstellers gemäß
-    Verordnung (EU) Nr. 813/2013 oder über das Etikett gemäß Verordnung
-    (EU) Nr. 811/2013.
-
-
-–   Es muss eine hybridfähige Steuerungs- und Regelungstechnik für den
-    künftigen erneuerbaren Anteil des Heizsystems installiert werden bzw.
-    vorhanden sein.
-
-
-–   Ein Konzept für die geplante Auslegung der Maßnahme zur künftigen
-    Nutzung erneuerbarer Energien in dem Heizsystem (Feinplanung) muss
-    vorliegen. Der erneuerbare Mindestanteil für Hybridanlagen i. S. d.
-    Nummer 6.5 ist zu erfüllen.
-
-
-–   Es muss zwingend ein Speicher für die künftige Einbindung erneuerbarer
-    Energien installiert werden. Die Auslegung hat gemäß Feinplanung zu
-    erfolgen. Bei Nichtwohngebäuden kann auf einen Speicher verzichtet
-    werden, wenn Biogas zu einem Anteil von mehr als 55 Prozent dauerhaft
-    über die Mindestnutzungsdauer der Anlage eingesetzt wird.
-
-
-–   Die Einhaltung der Anforderungen an Renewable-Ready-Anlagen ist durch
-    die Konzeptbeschreibung für die geplante Auslegung der Maßnahme
-    (Feinplanung) zu dokumentieren und durch den Fachunternehmer zu
-    bestätigen. Der Fördernehmer hat die Umsetzung der Hybridisierung
-    innerhalb von zwei Jahren gerechnet ab dem Datum der Inbetriebnahme
-    des Gas-Brennwertkessels nachzuweisen.
-
-
-
-
-## **6.5 Gas-Hybridheizungen**
-
-Gefördert wird die Errichtung von Anlagen, die Gas-Brennwerttechnik
-mit einer oder mehreren Technologie-Komponenten zur thermischen
-Nutzung erneuerbarer Energien kombinieren (zum Beispiel Solar-,
-Wärmepumpen-, Biomasseanlage).
-
-## **Technische Mindestanforderungen**
-
-
-–   Die „jahreszeitbedingte Raumheizungs-Energieeffizienz“*
-    s                    (= ETA S) des Gas-Brennwertkessels mit einer
-    Nennwärmeleistung von bis zu 70 kW muss mindestens 92 Prozent oder
-    Energieeffizienzklasse A erreichen. Gas-Brennwertkessel mit einer
-    Nennleistung über 70 kW müssen einen Wirkungsgrad von 87 Prozent bei
-    Volllast und von 96 Prozent bei 30 Prozent Teillast erreichen. Der
-    Nachweis erfolgt über die Konformitätserklärung des Herstellers gemäß
-    Verordnung (EU) Nr. 813/2013 bzw. über das Etikett gemäß Verordnung
-    (EU) Nr. 811/2013.
-
-
-–   Die Anlagen sind so zu realisieren, dass erneuerbare Energien im
-    Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend
-    zu Zwecken der Raumwärmeversorgung genutzt werden.
-
-
-–   Die verschiedenen Wärmeerzeuger einer Hybridanlage müssen über eine
-    gemeinsame Steuerung und Regelung verfügen, so dass ein effizienter
-    Anlagenbetrieb gewährleistet ist. Folgende technische
-    Mindestanforderungen sind zu erfüllen:
-
-    –   Die thermische Leistung des regenerativen Wärmeerzeugers einer
-        Hybridanlage muss mindestens 25 Prozent der Heizlast des versorgten
-        Gebäudes (Gebäudeheizlast) betragen. Anzusetzende thermische Leistung:
-
-        –   Wärmepumpen-Anlagen: Maßgeblich ist die potenzielle Heizleistung bei
-            der jeweils anzusetzenden Normaußentemperatur am Standort der
-            Wärmepumpe und einer Vorlauftemperatur von 35 °C. Der Wert kann den
-            technischen Unterlagen des jeweiligen Herstellers entnommen werden.
-
-
-        –   Solarthermie-Anlagen: Zur Berechnung der Heizleistung einer
-            Solarthermie-Anlage ist für alle Kollektortechnologien eine pauschale
-            Kollektorleistung von 635 Watt pro m
-            2                                Bruttokollektorfläche anzusetzen.
-
-
-
-
-
-    –   Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln.
-        Analog zur Leistungsbeschreibung des Bestätigungsformulars für
-        Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik VdZ – Forum für
-        Energieeffizienz in der Gebäudetechnik e. V.
-        (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) sind
-        alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der
-        DIN EN 12831 (zum Beispiel Hüllflächenverfahren) zulässig.
-
-
-
-
-
-
-
-## **6.6 Brennstoffzellen**
+## 6.4 Brennstoffzellen ****
 
 Gegenstand der Förderung ist der Einbau von stationären
 Brennstoffzellensystemen zwischen 0,25 kW und 5 kW elektrischer
@@ -1224,9 +1102,8 @@ sind folgende Mindestanforderungen zu erfüllen:
 
 
 –   Zum Zeitpunkt der Inbetriebnahme der Brennstoffzelle muss der
-    Gesamtwirkungsgrad**                    0,82 und der elektrische
-    Wirkungsgrad η
-    el*                    0,32 betragen.
+    Gesamtwirkungsgrad η ≥ 0,82 und der elektrische Wirkungsgrad η
+    el                    ≥ 0,32 betragen.
 
 
 –   Der Hersteller stellt – zum Beispiel über die Verfügbarkeit von
@@ -1237,18 +1114,18 @@ sind folgende Mindestanforderungen zu erfüllen:
 –   Für die Brennstoffzelle ist eine Vollwartung über mindestens zehn
     Jahre zu vereinbaren, die dem Käufer einen elektrischen Wirkungsgrad
     von mindestens η
-    el*                    0,26 sowie die Reparatur und
+    el                    ≥ 0,26 sowie die Reparatur und
     Wiederinbetriebnahme im Falle von Störungen zusichert.
 
 
 
 
-## **6.7 Erneuerbare Energien Hybridheizungen (EE Hybride)**
+## 6.5 Erneuerbare Energien Hybridheizungen (EE Hybride) ****
 
 Gefördert wird die Errichtung von innovativen effizienten
 Heizungsanlagen, die auf der Nutzung von mindestens zwei Technologien
 auf Basis von erneuerbaren Energien basieren und die die Anforderungen
-der Nummern 6.1 bis 6.5 erfüllen.
+der Nummern 6.1 bis 6.3 erfüllen.
 
 Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln.
 Analog zur Leistungsbeschreibung der Bestätigung des Spitzenverbands
@@ -1257,13 +1134,13 @@ Gebäudetechnik e. V. sind alternativ auch „überschlägige“
 Heizlastermittlungen auf der Basis der DIN EN 12831 zulässig (zum
 Beispiel Hüllflächenverfahren).
 
-## **6.8 Innovative Heiztechnik auf Basis erneuerbarer Energien**
+## 6.6 Innovative Heiztechnik auf Basis erneuerbarer Energien ****
 
 Gefördert wird die Errichtung von innovativen effizienten
 Heizungsanlagen, die auf der Nutzung von erneuerbaren Energien
 basieren und erneuerbare Energien für die Wärmeerzeugung mit einem
 Anteil von mindestens 80 Prozent der Heizlast einbinden, soweit sie
-nicht unter die Nummern 6.1 bis 6.3 bzw. 6.6 fallen.
+nicht unter die Nummern 6.1 bis 6.4 fallen.
 
 Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln.
 Analog zur Leistungsbeschreibung der Bestätigung des Spitzenverbands
@@ -1272,15 +1149,18 @@ Gebäudetechnik e. V. sind alternativ auch „überschlägige“
 Heizlastermittlungen auf der Basis der DIN EN 12831 zulässig (zum
 Beispiel Hüllflächenverfahren).
 
-## **6.9 Gebäudenetze und Anschluss an ein Gebäudenetz oder
-Wärmenetz**
+## 6.7 Gebäudenetze und Anschluss an ein Gebäudenetz oder Wärmenetz
+****
 
 Gefördert wird die Errichtung oder Erweiterung eines nicht
-öffentlichen Wärmenetzes (nicht öffentliches „Gebäudenetz“) zur
-ausschließlichen Eigenversorgung von mindestens zwei Gebäuden auf dem
-Grundstück eines Eigentümers, bestehend aus folgenden Komponenten:
+öffentlichen Netzes („Gebäudenetz“) zur ausschließlichen
+Eigenversorgung von mindestens zwei Gebäuden auf dem Grundstück eines
+Eigentümers, bestehend aus folgenden Komponenten:
 
-–   Wärmeerzeugung, ggf. Wärmespeicherung, Wärmeverteilung,
+–   Wärmeerzeugung nach den Nummern 6.1, 6.2, 6.3, 6.5 oder Nummer 6.6,
+
+
+–   ggf. Wärmespeicherung, Wärmeverteilung,
 
 
 –   Steuer-, Mess- und Regelungstechnik,
@@ -1291,19 +1171,40 @@ Grundstück eines Eigentümers, bestehend aus folgenden Komponenten:
 
 
 sofern die Wärmeerzeugung, mit der das Gebäudenetz gespeist wird, zu
-mindestens 25 Prozent durch erneuerbare Energien erfolgt und kein Öl
+mindestens 55 Prozent durch erneuerbare Energien erfolgt und kein Öl
 als Brennstoff eingesetzt wird.
 
 Gefördert wird als Alternative zur Nutzung einer gebäudeindividuellen
 Heizung ferner der Anschluss bzw. die Erneuerung eines Anschlusses an
-ein Gebäudenetz, wenn dieses die festgelegten technischen
-Mindestanforderungen für Gebäudenetze erfüllt, und an ein öffentliches
-Wärmenetz, wenn dessen Wärmeerzeugung zu mindestens 25 Prozent durch
-erneuerbare Energien gespeist wird.
+ein Gebäudenetz oder an ein Wärmenetz, wenn deren Wärmeerzeugung zu
+einem Anteil von mindestens 25 Prozent durch erneuerbare Energien
+und/oder unvermeidbare Abwärme erfolgt oder an ein Wärmenetz, für das
+ein durch die Bundesförderung für effiziente Wärmenetze (BEW)
+geförderter Transformationsplan vorliegt oder das einen
+Primärenergiefaktor von höchstens 0,6 aufweist.
+
+## **Nachweise**
+
+
+–   Bilanzierung und Nachweis des Anteils erneuerbarer Energien und/oder
+    unvermeidbarer Abwärme erfolgt in Anlehnung an DIN V 18599 bzw. in
+    Anlehnung an das AGFW-Arbeitsblatt FW 309 Teil 5 zusammen mit der
+    dazugehörigen Musterbescheinigung nach FW 309 Teil 7,
+
+
+–   Nachweis des Primärenergiefaktors gemäß § 22 des
+    Gebäudeenergiegesetzes durch das AGFW-Arbeitsblatt FW 309 Teil 1 und
+
+
+–   durch die Bundesförderung für effiziente Wärmenetze (BEW) geförderter
+    Transformationsplan.
+
+
+
 
     Heizleistung, bei Geräten mit Kühlfunktion Kühlleistung (siehe
     Verordnung (EU) Nr. 206/2012).
-[^F816958_03_BJNR000300020BJNE001001123]: 
+[^F823255_01_BJNR000300020BJNE001002123]: 
 
 ## Anlage 7 Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
 

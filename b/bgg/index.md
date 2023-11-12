@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1467, 1468
 
 Zuletzt geändert durch
-:   Art. 9 G v. 2.6.2021 I 1387
+:   Art. 7 G v. 23.5.2022 I 760
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -655,7 +655,7 @@ ist der Fall, wenn der Assistenzhund
 
 
 4.  zusammen mit einem Menschen mit Behinderungen als Mensch-
-    Assistenzhund-Gemeinschaft vor dem 1. Juli 2021
+    Assistenzhund-Gemeinschaft vor dem 1. Juli 2023
 
     a)  in einer den Anforderungen des § 12f Satz 2 entsprechenden Weise
         ausgebildet und entsprechend § 12g Satz 2 erfolgreich geprüft wurde
@@ -664,7 +664,7 @@ ist der Fall, wenn der Assistenzhund
 
     b)  sich in einer den Anforderungen des § 12f Satz 2 entsprechenden
         Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1.
-        Juli 2021 diese Ausbildung beendet und mit einer § 12g Satz 2
+        Juli 2023 diese Ausbildung beendet und mit einer § 12g Satz 2
         entsprechenden Prüfung erfolgreich abgeschlossen hat.
 
 
@@ -831,7 +831,7 @@ Bundesrates bedarf, Folgendes zu regeln:
     Unterstützungsleistungen,
 
 
-2.  Näheres über die Anerkennung von am 1. Juli 2021 in Ausbildung
+2.  Näheres über die Anerkennung von am 1. Juli 2023 in Ausbildung
     befindlichen oder bereits ausgebildeten Assistenzhunden sowie von im
     Ausland anerkannten Assistenzhunden einschließlich des Verfahrens,
 

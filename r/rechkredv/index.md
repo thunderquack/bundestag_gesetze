@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute
+Title: Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute
+  und Wertpapierinstitute
 jurabk: RechKredV
 layout: default
 origslug: rechkredv
@@ -7,7 +8,7 @@ slug: rechkredv
 
 ---
 
-# Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute (RechKredV)
+# Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute (RechKredV)
 
 Ausfertigungsdatum
 :   1992-02-10
@@ -19,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.12.1998 I 3658;
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 13 G v. 17.7.2015 I 1245
-
-Änderung durch
-:   Art. 7 Abs. 3 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 25 Abs. 6 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 Abs. 6 G v. 7.8.2021 I 3311
 
 Diese Verordnung dient der Umsetzung der Richtlinie 86/635/EWG des
 Rates vom 8. Dezember 1986 über den Jahresabschluß und den

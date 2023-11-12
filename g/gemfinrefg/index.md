@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.3.2009 I 502;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 9.12.2019 I 2051
+:   Art. 4 G v. 4.12.2022 I 2142
 
 
 ## § 1 Gemeindeanteil an der Einkommensteuer
@@ -97,7 +97,7 @@ Einkommensteuer.
 
 ## § 5a Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
-(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des
+(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Absatz 1 und 2 des
 Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln
 verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2
 Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
@@ -245,8 +245,10 @@ Abschlagszahlungen für das vorhergehende Kalendervierteljahr nach dem
 Istaufkommen in dem Vierteljahr zu leisten. Absatz 6 gilt für die
 Abschlagszahlungen entsprechend.
 
-(8) Die Landesregierungen können nähere Bestimmungen über die
-Festsetzung und Abführung der Umlage durch Rechtsverordnung treffen.
+(8) Die Landesregierungen können durch Rechtsverordnung nähere
+Bestimmungen über die Festsetzung und Abführung der Umlage
+einschließlich der Festlegung des zuständigen Finanzamts oder
+sonstiger zuständiger Landesbehörden treffen.
 
 
 ## § 7 Sondervorschriften für Berlin und Hamburg

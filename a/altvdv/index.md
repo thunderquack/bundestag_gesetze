@@ -21,7 +21,7 @@ Neugefasst durch
 :   Bek. v. 28.2.2005 I 487;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 11.2.2021 I 154
+:   Art. 10 V v. 19.12.2022 I 2432
 
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
@@ -37,7 +37,8 @@ Zuletzt geändert durch
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des
-    Einkommensteuergesetzes verwiesen wird, oder
+    Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des
+    Einkommensteuergesetzes oder
 
 
 3.  dieser Verordnung
@@ -92,7 +93,8 @@ Bundesministerium der Finanzen im Bundessteuerblatt bekannt gegeben.
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des
-    Einkommensteuergesetzes verwiesen wird, oder
+    Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des
+    Einkommensteuergesetzes oder
 
 
 3.  den Abschnitten 3 und 4 dieser Verordnung
@@ -330,8 +332,8 @@ Einkommensteuergesetzes zu erfassen und an die zentrale Stelle zu
 Einkommensteuergesetzes, gilt Satz 1 entsprechend.
 
 (2) Der Anbieter hat einen ihm bekannt gewordenen Tatbestand des § 95
-Absatz 1 des Einkommensteuergesetzes der zentralen Stelle mitzuteilen.
-Wenn dem Anbieter ausschließlich eine Anschrift des Zulageberechtigten
+des Einkommensteuergesetzes der zentralen Stelle mitzuteilen. Wenn dem
+Anbieter ausschließlich eine Anschrift des Zulageberechtigten
 außerhalb der Mitgliedstaaten der Europäischen Union und der Staaten,
 auf die das Abkommen über den Europäischen Wirtschaftsraum (EWR-
 Abkommen) anwendbar ist, bekannt ist, teilt er dies der zentralen
@@ -354,7 +356,9 @@ Januar 2022 ein gesondertes Merkmal in der Meldung nach § 10a Absatz 5
 des Einkommensteuergesetzes aufzunehmen. Die Erklärung gilt ab dem
 Veranlagungsjahr, das dem Jahr folgt, in welchem die Erklärung
 gegenüber dem Anbieter abgegeben wird. Die Erklärung kann widerrufen
-werden; Satz 3 gilt entsprechend.
+werden; Satz 3 gilt entsprechend. Wird die Erklärung im Jahr des
+Vertragsabschlusses abgegeben, so gilt sie abweichend von Satz 3 schon
+für das Jahr des Vertragsabschlusses.
 
 
 #### § 11 Anbieterwechsel
@@ -440,18 +444,14 @@ Mitteilung nach Absatz 1 Satz 2. Die zentrale Stelle kann eine Mahnung
 (§ 259 der Abgabenordnung) nach amtlich vorgeschriebenem Datensatz an
 den Anbieter übermitteln.
 
-(3) Wird der Rückzahlungsbetrag nach § 95 Abs. 3 Satz 1 des
-Einkommensteuergesetzes erlassen, hat die zentrale Stelle dies dem
-Anbieter mitzuteilen.
+(3) (weggefallen)
 
 
 #### § 13 Anzeigepflichten des Zulageberechtigten
 
-(1) (weggefallen)
-
-(2) Liegt ein Tatbestand des § 95 Absatz 1 des Einkommensteuergesetzes
-vor, hat der Zulageberechtigte dies dem Anbieter auch dann anzuzeigen,
-wenn aus dem Vertrag bereits Leistungen bezogen werden.
+Liegt ein Tatbestand des § 95 des Einkommensteuergesetzes vor, hat der
+Zulageberechtigte dies dem Anbieter ab Beginn der Auszahlungsphase
+anzuzeigen.
 
 
 ### Unterabschnitt 2 - Ermittlung, Festsetzung, Auszahlung, Rückforderung und Rückzahlung der Zulagen

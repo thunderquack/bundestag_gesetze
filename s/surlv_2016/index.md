@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 4 V v. 22.12.2021 I 5257
+:   Art. 6 V v. 16.3.2023 I Nr. 80
 
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
@@ -123,8 +123,8 @@ zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 
 ## § 8 Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
 
-Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat
-ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
+Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist
+Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
 Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des
 gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der
 Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen
@@ -166,7 +166,7 @@ unter Fortzahlung der Besoldung zu gewähren. Wird die
 Bildungsveranstaltung nicht von einer staatlichen Stelle durchgeführt,
 so gilt dies nur, wenn die Bundeszentrale für politische Bildung die
 Förderungswürdigkeit anerkannt hat; das Nähere regelt das
-Bundesministerium des Innern, für Bau und Heimat.
+Bundesministerium des Innern und für Heimat.
 
 (3) Weiterer Sonderurlaub nach Absatz 2 darf frühestens zwei Jahre
 nach Beendigung des letzten Sonderurlaubs nach Absatz 2 gewährt
@@ -432,7 +432,7 @@ angegebenen Umfang zu gewähren:
 einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn
 Gründungsgesetzes ausgegliederten Gesellschaft beschäftigten
 Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen
-mit dem Bundesministerium des Innern, für Bau und Heimat von Absatz 1
+mit dem Bundesministerium des Innern und für Heimat von Absatz 1
 abweichende Regelungen treffen. Für die bei den
 Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die
 oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
@@ -553,9 +553,7 @@ gewähren:
         alt ist, oder eines behinderten und auf Hilfe angewiesenen Kindes
 
     *   für jedes Kind
-        bis zu vier
-        Arbeitstage im
-        Urlaubsjahr
+        bis zu vier Arbeitstage im Urlaubsjahr
 
 
 *    *   5.
@@ -564,9 +562,7 @@ gewähren:
         Beamten, das noch nicht acht Jahre alt ist oder wegen körperlicher,
         geistiger oder seelischer Behinderung auf Hilfe angewiesen ist
 
-    *   bis zu vier
-        Arbeitstage im
-        Urlaubsjahr
+    *   bis zu vier Arbeitstage im Urlaubsjahr
 
 
 *    *   6.
@@ -579,24 +575,8 @@ gewähren:
         Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches
         Sozialgesetzbuch
 
-    *   für jede pflegebedürftige Person bis zu neun Arbeitstage
-
-
-*    *   6a.
-
-    *   abweichend von Nummer 6 und befristet bis zum 31. März 2022 für Fälle,
-        in denen die Beamtin oder der Beamte in einer wegen der
-        COVID-19-Pandemie akut aufgetretenen Pflegesituation eine
-        bedarfsgerechte häusliche Pflege für die Betreuung einer oder eines
-        nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes
-        sicherstellen oder organisieren muss und in denen die Pflege nicht
-        anderweitig gewährleistet werden kann; dass die Pflegesituation wegen
-        der COVID-19-Pandemie aufgetreten ist, wird bis zum 31. März 2022
-        vermutet
-
-    *   für jede
-        pflegebedürftige
-        Person bis zu 20 Arbeitstage
+    *   für jede pflegebedürftige Person
+        bis zu neun Arbeitstage
 
 
 *    *   7.
@@ -607,8 +587,7 @@ gewähren:
         von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung
         vorgelegt wird
 
-    *   Dauer der
-        notwendigen Abwesenheit
+    *   Dauer der notwendigen Abwesenheit
 
 
 
@@ -621,60 +600,20 @@ der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des
 Fünften Buches Sozialgesetzbuch für eine Freistellung von der
 Arbeitsleistung vorgesehen sind.
 
-(2a) Für das Jahr 2022 erhöht sich die Dauer des Sonderurlaubs nach
+(2a) Für das Jahr 2023 erhöht sich die Dauer des Sonderurlaubs nach
 Absatz 1 Nummer 4, auch in Verbindung mit Absatz 2,
 
-1.  bei alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40
-    Arbeitstage, für alle Kinder zusammen höchstens um 86 Arbeitstage, und
+1.  bei den alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40
+    Arbeitstage, für alle Kinder zusammen jedoch um höchstens 86
+    Arbeitstage, und
 
 
-2.  bei den übrigen Beamtinnen und Beamten für jedes Kind um 20
-    Arbeitstage, für alle Kinder zusammen höchstens um 43 Arbeitstage.
-
-
-
-
-(2b) Bis zum Ablauf des 19. März 2022 besteht der Anspruch auf
-Sonderurlaub nach Absatz 1 Nummer 4, auch in Verbindung mit den
-Absätzen 2 und 2a, auch dann, wenn die Beamtin oder der Beamte ihr
-oder sein Kind, das noch nicht zwölf Jahre alt ist oder das behindert
-und auf Hilfe angewiesen ist, betreut, weil
-
-1.  zur Verhinderung der Verbreitung von Infektionen oder übertragbaren
-    Krankheiten die Schule des Kindes, die Einrichtung zur Betreuung des
-    Kindes oder die Einrichtung für Menschen mit Behinderungen auf Grund
-    des Infektionsschutzgesetzes vorübergehend geschlossen worden ist,
-
-
-2.  das Betreten der Schule des Kindes, der Einrichtung zur Betreuung des
-    Kindes oder der Einrichtung für Menschen mit Behinderungen – auch auf
-    Grund einer Absonderung – untersagt worden ist,
-
-
-3.  Schul- oder Betriebsferien von der zuständigen Behörde aus Gründen des
-    Infektionsschutzes angeordnet oder verlängert worden sind,
-
-
-4.  die Präsenzpflicht in der Schule des Kindes aufgehoben worden ist,
-
-
-5.  der Zugang zu einem Angebot der Kinderbetreuung eingeschränkt worden
-    ist oder
-
-
-6.  das Kind auf Grund einer behördlichen Empfehlung die Schule, die
-    Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen
-    mit Behinderungen nicht besucht.
+2.  bei den nicht alleinerziehenden Beamtinnen und Beamten für jedes Kind
+    um 20 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 43
+    Arbeitstage.
 
 
 
-In den Fällen des Satzes 1 Nummer 1 bis 6 kann die Dienststelle die
-Vorlage einer Bescheinigung der Schule oder der Einrichtung verlangen.
-
-(2c) Für die Zeit, in der ein Elternteil Sonderurlaub nach Absatz 1
-Nummer 4, auch in Verbindung mit den Absätzen 2 und 2b, in Anspruch
-nimmt, ruht für beide Elternteile die Möglichkeit, aus demselben Grund
-Sonderurlaub nach § 22 Absatz 2 in Anspruch zu nehmen.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe
 Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag
@@ -682,8 +621,8 @@ entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten
 regelmäßigen Arbeitszeit.
 
 (4) Die oberste Dienstbehörde kann im Einvernehmen mit dem
-Bundesministerium des Innern, für Bau und Heimat von den Absätzen 1
-bis 3 abweichende Regelungen treffen für Beamtinnen und Beamte, die
+Bundesministerium des Innern und für Heimat von den Absätzen 1 bis 3
+abweichende Regelungen treffen für Beamtinnen und Beamte, die
 beschäftigt sind
 
 1.  im Bereich der Deutschen Bahn Aktiengesellschaft,
@@ -697,9 +636,54 @@ beschäftigt sind
 
 (5) Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen
 und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium des Innern,
-für Bau und Heimat von den Absätzen 1 bis 3 abweichende Regelungen
+Bundesministerium der Finanzen und dem Bundesministerium des Innern
+und für Heimat von den Absätzen 1 bis 3 abweichende Regelungen
 treffen.
+
+
+## § 21a Sonderurlaub bei Mitaufnahme oder ganztägiger Begleitung bei stationärer Krankenhausbehandlung
+
+(1) Sonderurlaub ist einer Beamtin oder einem Beamten zu gewähren,
+
+1.  wenn es aus medizinischen Gründen notwendig ist, dass sie oder er bei
+    einer stationären Krankenhausbehandlung eines Menschen, bei dem die
+    Voraussetzungen des § 2 Absatz 1 des Neunten Buches Sozialgesetzbuch
+    vorliegen, zur Begleitung mitaufgenommen wird
+
+    a)  als nahe Angehörige oder naher Angehöriger im Sinne des § 7 Absatz 3
+        des Pflegezeitgesetzes oder
+
+
+    b)  als eine Person aus dem engsten persönlichen Umfeld und
+
+
+
+
+
+2.  wenn die Voraussetzungen des § 44b Absatz 1 Nummer 1 Buchstabe c und d
+    und Nummer 3 des Fünften Buches Sozialgesetzbuch vorliegen.
+
+
+
+
+(2) Der Anspruch auf den Sonderurlaub besteht für die Dauer der
+notwendigen Mitaufnahme.
+
+(3) Unterschreiten die Dienstbezüge oder Anwärterbezüge der Beamtin
+oder des Beamten die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des
+Fünften Buches Sozialgesetzbuch oder sind sie gleich hoch, so erfolgt
+die Gewährung des Sonderurlaubs für 80 Prozent der Dauer der
+notwendigen Mitaufnahme unter Fortzahlung der Besoldung. Für die
+verbleibenden 20 Prozent erfolgt die Gewährung des Sonderurlaubs unter
+Wegfall der Besoldung.
+
+(4) Überschreiten die Dienstbezüge oder die Anwärterbezüge einer
+Beamtin oder eines Beamten die Jahresarbeitsentgeltgrenze nach § 6
+Absatz 6 des Fünften Buches Sozialgesetzbuch, so erfolgt die Gewährung
+des Sonderurlaubs für die Dauer der notwendigen Mitaufnahme unter
+Wegfall der Besoldung.
+
+(5) Der Mitaufnahme steht die ganztägige Begleitung gleich.
 
 
 ## § 22 Sonderurlaub in anderen Fällen
@@ -710,8 +694,8 @@ Sonderurlaub unter Wegfall der Besoldung nur in besonders begründeten
 Fällen und nur durch die oberste Dienstbehörde oder die von ihr
 bestimmte unmittelbar nachgeordnete Behörde genehmigt werden.
 
-(2) Mit Zustimmung des Bundesministeriums des Innern, für Bau und
-Heimat kann Sonderurlaub aus wichtigen persönlichen Gründen auch unter
+(2) Mit Zustimmung des Bundesministeriums des Innern und für Heimat
+kann Sonderurlaub aus wichtigen persönlichen Gründen auch unter
 Fortzahlung der Besoldung gewährt werden.
 
 (3) Für einen in den §§ 5 bis 21 nicht genannten Zweck kann Beamtinnen
@@ -721,7 +705,7 @@ Sonderurlaub unter Fortzahlung der Besoldung für mehr als zwei Wochen
 bedarf der Zustimmung der obersten Dienstbehörde oder der von ihr
 bestimmten unmittelbar nachgeordneten Behörde. Sonderurlaub für mehr
 als sechs Monate bedarf der Zustimmung des Bundesministeriums des
-Innern, für Bau und Heimat.
+Innern und für Heimat.
 
 
 ## § 23 Verfahren

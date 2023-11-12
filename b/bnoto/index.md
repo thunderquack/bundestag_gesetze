@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 4 G v. 21.12.2021 II 1282
+:   Art. Art. 3 G v. 10.3.2023 I Nr. 64
 
 
 
@@ -615,13 +615,13 @@ Vortragstätigkeit.
 
 #### § 9 Verbindung zur gemeinsamen Berufsausübung; Verordnungsermächtigung
 
-(1) Hauptberufliche Notare dürfen sich nur mit am selben Amtssitz
-bestellten Notaren zur gemeinsamen Berufsausübung verbinden oder mit
-ihnen gemeinsame Geschäftsräume haben. Die Landesregierungen oder die
-von ihnen durch Rechtsverordnung bestimmten Stellen werden ermächtigt,
-um den Erfordernissen einer geordneten Rechtspflege insbesondere im
-Hinblick auf die örtlichen Bedürfnisse und Gewohnheiten Rechnung zu
-tragen, durch Rechtsverordnung zu bestimmen, dass eine Verbindung zur
+(1) Notare dürfen sich nur mit am selben Amtssitz bestellten Notaren
+zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame
+Geschäftsräume haben. Die Landesregierungen oder die von ihnen durch
+Rechtsverordnung bestimmten Stellen werden ermächtigt, um den
+Erfordernissen einer geordneten Rechtspflege insbesondere im Hinblick
+auf die örtlichen Bedürfnisse und Gewohnheiten Rechnung zu tragen,
+durch Rechtsverordnung zu bestimmen, dass eine Verbindung zur
 gemeinsamen Berufsausübung oder eine Nutzung gemeinsamer
 Geschäftsräume nach Satz 1
 
@@ -637,11 +637,15 @@ Geschäftsräume nach Satz 1
 
 
 
-(2) Anwaltsnotare dürfen sich nur miteinander, mit anderen Mitgliedern
-einer Rechtsanwaltskammer, Patentanwälten, Steuerberatern,
-Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern
-zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame
-Geschäftsräume haben.
+(2) Anwaltsnotare dürfen sich über Absatz 1 hinaus nur miteinander und
+mit anderen Mitgliedern einer Rechtsanwaltskammer, Patentanwälten,
+Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern sowie
+vereidigten Buchprüfern zur gemeinsamen Berufsausübung verbinden oder
+mit ihnen gemeinsame Geschäftsräume haben. Weitergehende Möglichkeiten
+der Verbindung, die sich aus dem Berufsrecht dieser Berufsgruppen
+ergeben, sind ausgeschlossen. Verbindungen nach Satz 1 dürfen sich
+nicht auf die notarielle Tätigkeit beziehen und sind von einer
+Verbindung nach Absatz 1 zu trennen.
 
 (3) Die Verbindung zur gemeinsamen Berufsausübung oder die gemeinsame
 Nutzung der Geschäftsräume ist nur zulässig, soweit hierdurch die
@@ -694,7 +698,37 @@ seines Amtsbereichs ausüben, sofern nicht besondere berechtigte
 Interessen der Rechtsuchenden ein Tätigwerden außerhalb des
 Amtsbereichs gebieten.
 
-(3) Urkundstätigkeiten außerhalb des Amtsbereichs hat der Notar der
+(3) Urkundstätigkeiten, die nach den §§ 16a bis 16e und 40a des
+Beurkundungsgesetzes mittels Videokommunikation vorgenommen werden,
+gelten nur dann als im Amtsbereich ausgeübt, wenn sich in diesem einer
+der folgenden Orte befindet:
+
+1.  der Sitz der betroffenen juristischen Person oder rechtsfähigen
+    Personengesellschaft oder die Hauptniederlassung oder der Wohnsitz des
+    betroffenen Einzelkaufmanns,
+
+
+2.  bei einer juristischen Person oder rechtsfähigen Personengesellschaft
+    mit Sitz im Ausland oder einem Einzelkaufmann mit Hauptniederlassung
+    im Ausland der Sitz oder die Geschäftsanschrift der betroffenen
+    Zweigniederlassung,
+
+
+3.  der Wohnsitz oder Sitz eines organschaftlichen Vertreters der
+    betroffenen juristischen Person oder rechtsfähigen
+    Personengesellschaft oder
+
+
+4.  der Wohnsitz oder Sitz eines Gesellschafters der betroffenen
+    juristischen Person oder rechtsfähigen Personengesellschaft, sofern
+    die Eigenschaft als Gesellschafter aus dem Handelsregister oder einem
+    vergleichbaren Register ersichtlich ist.
+
+
+
+Absatz 1 Satz 2 gilt entsprechend.
+
+(4) Urkundstätigkeiten außerhalb des Amtsbereichs hat der Notar der
 Aufsichtsbehörde oder nach deren Bestimmung der Notarkammer, der er
 angehört, unverzüglich und unter Angabe der Gründe mitzuteilen.
 
@@ -708,7 +742,12 @@ er seinen Amtssitz hat.
 vornehmen, wenn Gefahr im Verzuge ist oder die Aufsichtsbehörde es
 genehmigt hat.
 
-(3) Ein Verstoß berührt die Gültigkeit der Urkundstätigkeit nicht,
+(3) Urkundstätigkeiten, die nach den §§ 16a bis 16e und 40a des
+Beurkundungsgesetzes mittels Videokommunikation vorgenommen werden,
+gelten in entsprechender Anwendung der Voraussetzungen des § 10a
+Absatz 3 Satz 1 als im Amtsbezirk ausgeübt.
+
+(4) Ein Verstoß berührt die Gültigkeit der Urkundstätigkeit nicht,
 auch wenn der Notar die Urkundstätigkeit außerhalb des Landes
 vornimmt, in dem er zum Notar bestellt ist.
 
@@ -808,7 +847,8 @@ mit denen er gemeinsame Geschäftsräume hat, mittelbar oder unmittelbar
 einen beherrschenden Einfluß ausübt.
 
 (6) Der Notar hat sich in dem für seine Amtstätigkeit erforderlichen
-Umfang fortzubilden.
+Umfang fortzubilden. Dies umfasst die Pflicht, sich über
+Rechtsänderungen zu informieren.
 
 
 #### § 15 Verweigerung der Amtstätigkeit
@@ -1119,10 +1159,11 @@ gilt auch, wenn das notarielle Amt erloschen ist.
 #### § 20 Beurkundungen und Beglaubigungen
 
 (1) Die Notare sind zuständig, Beurkundungen jeder Art vorzunehmen
-sowie Unterschriften, Handzeichen und Abschriften zu beglaubigen. Zu
-ihren Aufgaben gehören insbesondere auch die Beurkundung von
-Versammlungsbeschlüssen, die Vornahme von Verlosungen und Auslosungen,
-die Aufnahme von Vermögensverzeichnissen, Nachlassverzeichnissen und
+sowie Unterschriften, qualifizierte elektronische Signaturen,
+Handzeichen und Abschriften zu beglaubigen. Zu ihren Aufgaben gehören
+insbesondere auch die Beurkundung von Versammlungsbeschlüssen, die
+Vornahme von Verlosungen und Auslosungen, die Aufnahme von
+Vermögensverzeichnissen, Nachlassverzeichnissen und
 Nachlassinventaren, die Vermittlung von Nachlass- und
 Gesamtgutsauseinandersetzungen einschließlich der Erteilung von
 Zeugnissen nach den §§ 36 und 37 der Grundbuchordnung, die Anlegung
@@ -1389,20 +1430,15 @@ beratenden Personen in der seinem Amt entsprechenden Weise zu
 verhalten.
 
 
-#### § 32 Bezug von Gesetzes- und Amtsblättern
+#### § 32 (weggefallen)
 
-Der Notar hat das Bundesgesetzblatt Teil I, das Gesetzblatt des
-Landes, das Bekanntmachungsblatt der Landesjustizverwaltung und das
-Verkündungsblatt der Bundesnotarkammer zu halten. Sind mehrere Notare
-zu gemeinsamer Berufsausübung verbunden, so genügt der
-gemeinschaftliche Bezug je eines Stücks.
 
 
 #### § 33 Elektronische Signatur
 
 (1) Der Notar muss über ein auf Dauer prüfbares qualifiziertes
 Zertifikat eines qualifizierten Vertrauensdiensteanbieters und über
-die technischen Mittel für die Erzeugung und Validierung
+die technischen Mittel für die Erstellung und Validierung
 qualifizierter elektronischer Signaturen verfügen. Bei der erstmaligen
 Beantragung eines qualifizierten Zertifikats für elektronische
 Signaturen hat die Identifizierung durch die öffentliche Beglaubigung
@@ -1418,13 +1454,13 @@ dass das Zertifikat unverzüglich gesperrt wird, sobald das Erlöschen
 des Amtes des Notars oder eine vorläufige Amtsenthebung in das
 Notarverzeichnis eingetragen wird.
 
-(3) Die zur Erzeugung qualifizierter elektronischer Signaturen
+(3) Die zur Erstellung qualifizierter elektronischer Signaturen
 erforderlichen elektronischen Signaturerstellungsdaten sind vom Notar
 auf einer qualifizierten elektronischen Signaturerstellungseinheit zu
 verwalten. Abweichend davon können sie auch von der Notarkammer oder
 der Bundesnotarkammer verwaltet werden, wenn sichergestellt ist, dass
 die qualifizierte elektronische Signatur nur mittels eines
-kryptografischen Schlüssels erzeugt werden kann, der auf einer
+kryptografischen Schlüssels erstellt werden kann, der auf einer
 kryptografischen Hardwarekomponente gespeichert ist.
 
 (4) Der Notar darf die qualifizierte elektronische
@@ -1500,12 +1536,11 @@ Dies umfasst insbesondere
 
 (2) Der Notar kann Akten und Verzeichnisse in Papierform oder
 elektronisch führen, soweit die Form nicht durch oder auf Grund eines
-Gesetzes vorgeschrieben ist und für die Absatz 1 Satz 2 und 3
-entsprechend gilt. Zusätzlich darf er für die Aktenführung Hilfsmittel
-verwenden, deren Vertraulichkeit ebenfalls zu gewährleisten ist und
-für die Absatz 1 Satz 2 und 3 entsprechend gilt. Werden Akten einer
-anderen Stelle zur Verwahrung übergeben, hat dies auch die zugehörigen
-Hilfsmittel zu umfassen.
+Gesetzes vorgeschrieben ist. Zusätzlich darf er für die Aktenführung
+Hilfsmittel verwenden, deren Vertraulichkeit ebenfalls zu
+gewährleisten ist und für die Absatz 1 Satz 2 und 3 entsprechend gilt.
+Werden Akten einer anderen Stelle zur Verwahrung übergeben, hat dies
+auch die zugehörigen Hilfsmittel zu umfassen.
 
 (3) Akten und Verzeichnisse in Papierform darf der Notar außerhalb
 seiner Geschäftsstelle nur bei der Notarkammer oder mit Genehmigung
@@ -1640,8 +1675,8 @@ ständige Vertretung eines Anwaltsnotars kann nach Anhörung der
 Notarkammer auch ein Rechtsanwalt bestellt werden. Abgesehen von den
 Fällen des Absatzes 2 soll als Vertretung nur bestellt werden, wer von
 dem Notar vorgeschlagen wurde und zur Übernahme des Amtes bereit ist.
-Für den Notar kann auch ein nach § 1896 des Bürgerlichen Gesetzbuchs
-bestellter Betreuer oder ein nach § 1911 des Bürgerlichen Gesetzbuchs
+Für den Notar kann auch ein nach § 1814 des Bürgerlichen Gesetzbuchs
+bestellter Betreuer oder ein nach § 1884 des Bürgerlichen Gesetzbuchs
 bestellter Abwesenheitspfleger den Antrag stellen und die Vertretung
 vorschlagen.
 
@@ -2114,22 +2149,7 @@ enthoben werden,
 Widerspruch und Anfechtungsklage gegen die vorläufige Amtsenthebung
 haben keine aufschiebende Wirkung.
 
-(2) Ein Anwaltsnotar kann auch ohne Einleitung eines
-Disziplinarverfahrens durch das Disziplinargericht vorläufig seines
-Amtes enthoben werden, wenn gegen ihn ein anwaltsgerichtliches
-Verfahren nach der Bundesrechtsanwaltsordnung eingeleitet worden ist.
-Die Vorschriften über die vorläufige Amtsenthebung nach Einleitung
-eines Disziplinarverfahrens gelten entsprechend. Absatz 1 Satz 2 gilt
-entsprechend.
-
-(3) Wird ein Anwaltsnotar nach Einleitung eines Disziplinarverfahrens
-vorläufig seines Amtes als Notar enthoben, so kann das
-Disziplinargericht gegen ihn ein Berufs- oder Vertretungsverbot (§ 150
-der Bundesrechtsanwaltsordnung) verhängen, wenn zu erwarten ist, daß
-im Disziplinarverfahren gegen ihn auf Entfernung aus dem Amt (§ 97
-Absatz 1 Satz 1 Nummer 3) erkannt werden wird.
-
-(4) Die Wirkungen der vorläufigen Amtsenthebung treten kraft Gesetzes
+(2) Die Wirkungen der vorläufigen Amtsenthebung treten kraft Gesetzes
 ein,
 
 1.  wenn gegen einen Notar im Strafverfahren die Untersuchungshaft
@@ -2151,7 +2171,7 @@ ein,
 
 
 
-(5) Die Vorschriften über die vorläufige Amtsenthebung eines Notars
+(3) Die Vorschriften über die vorläufige Amtsenthebung eines Notars
 nach Einleitung eines Disziplinarverfahrens bleiben unberührt.
 
 
@@ -2394,30 +2414,13 @@ beauftragen, die ausstehenden Forderungen auf ihre Kosten einzuziehen.
 
 
 
-#### § 64a Anwendbarkeit des Verwaltungsverfahrensgesetzes; Übermittlung personenbezogener Informationen
+#### § 64a Anwendbarkeit der Verwaltungsverfahrensgesetze
 
-(1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf
-Grund dieses Gesetzes erlassenen Rechtsverordnung gilt, soweit nichts
-anderes bestimmt ist, das Verwaltungsverfahrensgesetz.
-
-(2) Gerichte und Behörden übermitteln personenbezogene Informationen,
-die für die Bestellung zum Notar, zur Notarvertretung oder zum
-Notariatsverwalter, für die Ernennung zum Notarassessor, für die
-Amtsenthebung eines Notars oder Entlassung eines Notarassessors aus
-dem Dienst, für die Rücknahme oder den Widerruf einer Erlaubnis,
-Genehmigung oder Befreiung sowie für die Verfolgung einer
-Amtspflichtverletzung aus der Sicht der übermittelnden Stelle
-erforderlich sind, der für die Entscheidung zuständigen Stelle, soweit
-hierdurch schutzwürdige Interessen des Betroffenen nicht
-beeinträchtigt werden oder das öffentliche Interesse das
-Geheimhaltungsinteresse des Betroffenen überwiegt. Die Übermittlung
-unterbleibt, wenn besondere gesetzliche Verwendungsregelungen
-entgegenstehen. Informationen über die Höhe rückständiger
-Steuerschulden können entgegen § 30 der Abgabenordnung zum Zweck der
-Vorbereitung der Amtsenthebung gemäß § 50 Abs. 1 Nr. 6 oder Nr. 8
-übermittelt werden; die zuständige Stelle darf die ihr übermittelten
-Steuerdaten nur für den Zweck verwenden, für den ihr diese übermittelt
-worden sind.
+Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
+dieses Gesetzes erlassenen Rechtsverordnung gelten, soweit nichts
+anderes bestimmt ist, für Behörden des Bundes das
+Verwaltungsverfahrensgesetz des Bundes und für Behörden der Länder die
+Verwaltungsverfahrensgesetze der Länder.
 
 
 #### § 64b Bestellung eines Vertreters
@@ -2439,6 +2442,52 @@ qualifizierten elektronischen Signatur der Person zu versehen oder von
 ihr zu signieren und selbst zu versenden. Ein besonderes
 elektronisches Behördenpostfach steht dem besonderen elektronischen
 Notarpostfach im Sinne des Satzes 1 gleich.
+
+
+#### § 64d Übermittlung von Daten
+
+(1) Gerichte und Behörden einschließlich der Berufskammern übermitteln
+der für die Entscheidung zuständigen Stelle diejenigen Daten über
+Personen, deren Kenntnis aus der Sicht der übermittelnden Stelle
+erforderlich ist für
+
+1.  die Bestellung zum Notar, seine vorläufige Amtsenthebung oder das
+    Erlöschen seines Amtes,
+
+
+2.  die Bestellung zur Notarvertretung oder zum Notariatsverwalter oder
+    deren Widerruf,
+
+
+3.  die Ernennung zum Notarassessor oder dessen Entlassung aus dem Dienst,
+
+
+4.  die Rücknahme oder den Widerruf einer Erlaubnis, Genehmigung oder
+    Befreiung oder
+
+
+5.  die Einleitung oder Durchführung eines wegen einer
+    Amtspflichtverletzung zu führenden Verfahrens.
+
+
+
+
+(2) Die Übermittlung unterbleibt, soweit
+
+1.  sie schutzwürdige Interessen einer betroffenen Person beeinträchtigen
+    würde und das Informationsinteresse des Empfängers das Interesse der
+    betroffenen Person an dem Unterbleiben der Übermittlung nicht
+    überwiegt oder
+
+
+2.  besondere gesetzliche Verwendungsregelungen entgegenstehen.
+
+
+
+Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für
+eine Berufskammer eines freien Berufs im Geltungsbereich dieses
+Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der
+Abgabenordnung.
 
 
 ## Teil 2 - Notarkammern und Bundesnotarkammer
@@ -2690,6 +2739,39 @@ Stellvertretung der anderen Berufsgruppe angehören. Bei den übrigen
 Mitgliedern des Vorstands müssen die beiden Berufsgruppen angemessen
 vertreten sein.
 
+(4) Zum Mitglied des Vorstands kann nicht gewählt werden,
+
+1.  wer vorläufig seines Notaramtes enthoben ist,
+
+
+2.  gegen wen in einem Disziplinarverfahren in den letzten fünf Jahren ein
+    Verweis oder eine Geldbuße verhängt wurde,
+
+
+3.  gegen wen in den letzten zehn Jahren eine Entfernung vom bisherigen
+    Amtssitz oder eine Entfernung aus dem Amt auf bestimmte Zeit verhängt
+    wurde,
+
+
+4.  wer in den letzten 15 Jahren aus dem Amt entfernt wurde,
+
+
+5.  bei wem in den letzten fünf Jahren nach § 110 Absatz 4 von einem
+    Disziplinarverfahren abgesehen wurde, sofern in diesem ohne die
+    anderweitige Ahndung voraussichtlich ein Verweis oder eine Geldbuße
+    verhängt worden wäre, oder
+
+
+6.  bei wem in den letzten fünf Jahren nach § 14 Absatz 1 des
+    Bundesdisziplinargesetzes in Verbindung mit § 96 Absatz 1 Satz 1 von
+    einer Disziplinarmaßnahme abgesehen wurde.
+
+
+
+
+(5) Die Satzung der Notarkammer kann weitere Ausschlussgründe
+vorsehen.
+
 
 #### § 69a Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
 
@@ -2760,6 +2842,20 @@ und Pflichten des Vorstandes.
 
 (6) Anstelle der Abteilung entscheidet der Vorstand, wenn er es für
 angemessen hält oder wenn die Abteilung oder ihr Vorsitz es beantragt.
+
+
+#### § 69c Vorzeitiges Ausscheiden eines Vorstandsmitglieds
+
+(1) Ist ein Mitglied des Vorstands nicht mehr Mitglied der Notarkammer
+oder verliert es seine Wählbarkeit aus den in § 69 Absatz 4 Nummer 2,
+3 oder 5 genannten Gründen, scheidet es aus dem Vorstand aus.
+
+(2) Ist ein Mitglied des Vorstands vorläufig seines Notaramtes
+enthoben, ruht seine Mitgliedschaft während dieser Zeit.
+
+(3) Die Satzung der Notarkammer kann weitere Gründe vorsehen, die zum
+Ausscheiden aus dem Vorstand oder zum Ruhen der dortigen
+Mitgliedschaft führen.
 
 
 #### § 70 Präsident
@@ -2981,7 +3077,12 @@ Aufgaben zu erfüllen. Sie hat insbesondere
 8.  das Notarverzeichnis (§ 78l) zu führen;
 
 
-9.  die besonderen elektronischen Notarpostfächer (§ 78n) einzurichten.
+9.  die besonderen elektronischen Notarpostfächer (§ 78n) einzurichten;
+
+
+10. ein Videokommunikationssystem zu betreiben, das die Vornahme von
+    Urkundstätigkeiten mittels Videokommunikation nach den §§ 16a bis 16e
+    und 40a des Beurkundungsgesetzes (§ 78p) ermöglicht.
 
 
 
@@ -3022,8 +3123,10 @@ entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 #### § 78a Zentrales Vorsorgeregister; Verordnungsermächtigung
 
 (1) Die Bundesnotarkammer führt als Registerbehörde ein
-automatisiertes elektronisches Register über Vorsorgevollmachten und
-Betreuungsverfügungen. Das Bundesministerium der Justiz und für
+automatisiertes elektronisches Register über Vorsorgevollmachten,
+Betreuungsverfügungen, Patientenverfügungen und Widersprüche gegen
+eine Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen
+Gesetzbuchs. Das Bundesministerium der Justiz und für
 Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
 
 (2) In das Zentrale Vorsorgeregister dürfen Angaben aufgenommen werden
@@ -3041,10 +3144,17 @@ Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
 4.  Vorschläge zur Auswahl des Betreuers,
 
 
-5.  Wünsche zur Wahrnehmung der Betreuung und
+5.  Wünsche zur Wahrnehmung der Betreuung,
 
 
-6.  den Vorschlagenden.
+6.  den Vorschlagenden,
+
+
+7.  den einer Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen
+    Gesetzbuchs Widersprechenden und
+
+
+8.  den Ersteller einer Patientenverfügung.
 
 
 
@@ -3073,10 +3183,13 @@ Bestimmungen zu treffen über
 
 #### § 78b Auskunft und Gebühren
 
-(1) Die Registerbehörde erteilt Gerichten auf Ersuchen Auskunft aus
-dem Zentralen Vorsorgeregister. Die Befugnis der Gerichte, Notare und
-Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte
-oder registrierte Urkunden betreffen, bleibt unberührt.
+(1) Die Registerbehörde erteilt Gerichten und Ärzten auf Ersuchen
+Auskunft aus dem Zentralen Vorsorgeregister. Ärzte dürfen nur um
+Auskunft ersuchen, soweit diese für die Entscheidung über eine
+dringende medizinische Behandlung erforderlich ist. Die Befugnis der
+Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die
+von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt
+unberührt.
 
 (2) Das Zentrale Vorsorgeregister wird durch Gebühren finanziert. Die
 Registerbehörde kann Gebühren für die Aufnahme von Erklärungen in das
@@ -3221,7 +3334,7 @@ Stellen erforderlich ist, unverzüglich
 
 
 2.  die verwahrenden Stellen über den Sterbefall und etwaige
-    Verwahrangaben nach § 78d Absatz 1 Satz 1 Nummer 1.
+    Verwahrangaben nach § 78d Absatz 1 Satz 1 und 2 Nummer 1.
 
 
 
@@ -3687,20 +3800,29 @@ auch
 
 
 
+Das Videokommunikationssystem kann weitere Funktionen umfassen, die
+der Anbahnung, der Vorbereitung, der Durchführung oder dem Vollzug der
+Urkundstätigkeit dienen.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz hat im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, die näheren Bestimmungen zu treffen über
+(3) Das Bundesministerium der Justiz hat im Einvernehmen mit dem
+Bundesministerium des Innern und für Heimat durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die näheren
+Bestimmungen zu treffen über
 
-1.  die technischen Anforderungen an das Videokommunikationssystem, die
-    Videokommunikation und die elektronische Identifizierung,
-
-
-2.  die Einzelheiten der Datensicherheit und
+1.  die Einrichtung des Videokommunikationssystems,
 
 
-3.  die technische Ausgestaltung der Signaturerstellung.
+2.  den technischen Betrieb des Videokommunikationssystems,
+
+
+3.  die für die Funktionen des Videokommunikationssystems erforderlichen
+    Datenverarbeitungen,
+
+
+4.  die Datensicherheit und
+
+
+5.  die Erteilung und Entziehung der technischen Zugangsberechtigungen.
 
 
 
@@ -3739,7 +3861,9 @@ dabei als Vertretung des Präsidenten.
 
 (1) Das Präsidium wird von der Generalversammlung gewählt. Wählbar
 sind die Präsidenten der Notarkammern und die von ihnen
-vorgeschlagenen Mitglieder ihrer Notarkammer.
+vorgeschlagenen Mitglieder ihrer Notarkammer. § 69c gilt mit der
+Maßgabe entsprechend, dass an die Stelle der Satzung der Notarkammer
+die der Bundesnotarkammer tritt.
 
 (2) Die Mitglieder des Präsidiums werden auf vier Jahre gewählt.
 Scheidet ein Mitglied vorzeitig aus, so ist in der auf sein
@@ -3812,7 +3936,8 @@ Abstimmungen sind schriftlich durchzuführen.
 
 (1) In der Generalversammlung werden die Notarkammern durch ihren
 jeweiligen Präsidenten oder ein anderes Mitglied ihrer Notarkammer
-vertreten. Teilnahmeberechtigt sind zudem die Mitglieder des
+vertreten. Für ein anderes Mitglied gilt § 69 Absatz 4 und 5
+sinngemäß. Teilnahmeberechtigt sind zudem die Mitglieder des
 Präsidiums der Bundesnotarkammer sowie vom Präsidenten der
 Bundesnotarkammer besonders zugelassene Personen.
 
@@ -3916,6 +4041,14 @@ zur Deckung des persönlichen und sachlichen Bedarfs bestimmt sind.
 Landesjustizverwaltung die jeweiligen Zuständigkeiten der
 Aufsichtsbehörden.
 
+(3) Eine Rechtsverordnung nach § 60 Absatz 2 des
+Gerichtsverfassungsgesetzes kann auch vorsehen, dass das Recht der
+Aufsicht über die Notare und Notarassessoren dem Präsidenten eines
+Landgerichts für die Bezirke mehrerer Landgerichte zugewiesen wird.
+Eine Zuweisung nach Satz 1 erstreckt sich auch auf die Zuständigkeiten
+nach § 13 Absatz 3 Satz 1, § 40 Absatz 2 Satz 1, § 51 Absatz 2 und §
+51a Absatz 1 Satz 2.
+
 
 #### § 93 Befugnisse der Aufsichtsbehörden
 
@@ -4006,20 +4139,52 @@ Disziplinarverfahren einzuleiten.
 
 #### § 95a Verjährung
 
-(1) Sind seit einem Dienstvergehen, das nicht eine zeitlich befristete
-oder dauernde Entfernung aus dem Amt oder eine Entfernung vom
-bisherigen Amtssitz rechtfertigt, mehr als fünf Jahre verstrichen, ist
-eine Verfolgung nicht mehr zulässig. Diese Frist wird durch die
-Einleitung des Disziplinarverfahrens, die Erhebung der
-Disziplinarklage oder die Erhebung der Nachtragsdisziplinarklage
-unterbrochen. Sie ist für die Dauer des Widerspruchsverfahrens, des
-gerichtlichen Disziplinarverfahrens und einer Aussetzung des
-Disziplinarverfahrens entsprechend § 22 des Bundesdisziplinargesetzes
-gehemmt.
+(1) Die Verfolgung eines Dienstvergehens verjährt nach fünf Jahren.
+Abweichend davon
 
-(2) Ist vor Ablauf der Frist wegen desselben Sachverhalts ein
-Strafverfahren eingeleitet worden, so ist die Frist für die Dauer des
-Strafverfahrens gehemmt.
+1.  beträgt die Verjährungsfrist zehn Jahre, wenn das Dienstvergehen eine
+    Maßnahme nach § 97 Absatz 2 Satz 1 oder Absatz 3 Satz 1 rechtfertigt,
+
+
+2.  tritt keine Verjährung ein, wenn das Dienstvergehen eine Maßnahme nach
+    § 97 Absatz 1 Nummer 3 rechtfertigt.
+
+
+
+
+(2) Die Verjährung wird gehemmt für die Dauer
+
+1.  eines Widerspruchsverfahrens,
+
+
+2.  eines gerichtlichen Disziplinarverfahrens,
+
+
+3.  einer Aussetzung des Disziplinarverfahrens entsprechend § 22 des
+    Bundesdisziplinargesetzes,
+
+
+4.  eines wegen desselben Verhaltens eingeleiteten Strafverfahrens und
+
+
+5.  eines wegen desselben Verhaltens eingeleiteten vorrangigen
+    berufsaufsichtlichen Verfahrens.
+
+
+
+
+(3) Die Verjährung wird unterbrochen durch
+
+1.  die Einleitung des Disziplinarverfahrens,
+
+
+2.  die Erhebung der Disziplinarklage und
+
+
+3.  die Erhebung der Nachtragsdisziplinarklage.
+
+
+
 
 
 #### § 96 Anwendung der Vorschriften des Bundesdisziplinargesetzes; Verordnungsermächtigung
@@ -4185,39 +4350,12 @@ einzelnen Notarkammern.
 
 
 
-(3) Zum Beisitzer kann nur ein Notar ernannt werden, der das
-fünfunddreißigste Lebensjahr vollendet hat und seit mindestens fünf
-Jahren ohne Unterbrechung als Notar tätig ist.
+(3) Zum Beisitzer kann nur ernannt werden, wer mindestens fünf Jahre
+als Notar tätig war.
 
-(4) Zum Beisitzer kann nicht ernannt werden ein Notar,
-
-1.  bei dem die Voraussetzungen für eine vorläufige Amtsenthebung gegeben
-    sind,
-
-
-2.  gegen den ein Disziplinarverfahren oder, sofern der Notar zugleich als
-    Rechtsanwalt zugelassen ist, ein anwaltsgerichtliches Verfahren
-    eingeleitet ist,
-
-
-3.  gegen den die öffentliche Klage wegen einer Straftat, welche die
-    Unfähigkeit zur Bekleidung öffentlicher Ämter zur Folge haben kann,
-    erhoben ist,
-
-
-4.  gegen den in einem Disziplinarverfahren in den letzten fünf Jahren auf
-    einen Verweis oder eine Geldbuße oder in den letzten zehn Jahren auf
-    Entfernung vom bisherigen Amtssitz oder auf Entfernung aus dem Amt auf
-    bestimmte Zeit erkannt worden ist,
-
-
-5.  gegen den in einem anwaltsgerichtlichen Verfahren in den letzten fünf
-    Jahren ein Verweis oder eine Geldbuße oder in den letzten zehn Jahren
-    ein Vertretungsverbot (§ 114 Abs. 1 Nr. 4 der
-    Bundesrechtsanwaltsordnung) verhängt worden ist.
-
-
-
+(4) Notare, deren Wählbarkeit in den Vorstand der Notarkammer nach §
+69 Absatz 4 ausgeschlossen ist, können nicht zum Beisitzer ernannt
+werden.
 
 (5) Die Beisitzer werden für die Dauer von fünf Jahren ernannt; sie
 können nach Ablauf ihrer Amtszeit wieder berufen werden. Scheidet ein
@@ -4344,52 +4482,106 @@ Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend
 anzuwenden.
 
 
-#### § 110 Maßgebliches Verfahren
+#### § 110 Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
 
-(1) Ob über eine Verfehlung eines Notars, der zugleich Rechtsanwalt
-ist, im Disziplinarverfahren oder im anwaltsgerichtlichen Verfahren
-für Rechtsanwälte zu entscheiden ist, bestimmt sich danach, ob die
-Verfehlung vorwiegend mit dem Amt als Notar oder der Tätigkeit als
-Rechtsanwalt im Zusammenhang steht. Ist dies zweifelhaft oder besteht
-ein solcher Zusammenhang nicht, so ist, wenn es sich um einen
-Anwaltsnotar handelt, im anwaltsgerichtlichen Verfahren für
-Rechtsanwälte, andernfalls im Disziplinarverfahren zu entscheiden.
+(1) Über eine Amtspflichtverletzung eines Anwaltsnotars, die zugleich
+Pflichten eines anderen Berufs verletzt, dessen Berufsaufsicht er
+untersteht, ist zunächst im Disziplinarverfahren zu entscheiden, wenn
+die Pflichtverletzung überwiegend mit der Ausübung des Notaramtes in
+Zusammenhang steht. Ist kein Schwerpunkt der Pflichtverletzung
+erkennbar oder besteht kein Zusammenhang der Pflichtverletzung mit der
+Ausübung eines Berufs, ist zunächst im Disziplinarverfahren zu
+entscheiden, wenn der Anwaltsnotar hauptsächlich als Notar tätig ist.
 
-(2) Hat ein Anwaltsgericht oder ein Disziplinargericht sich zuvor
-rechtskräftig für zuständig oder unzuständig erklärt, so ist das
-andere Gericht an diese Entscheidung gebunden.
+(2) Kommt die Entfernung des Anwaltsnotars aus dem Amt in Betracht,
+kann stets im Disziplinarverfahren entschieden werden.
+
+(3) Gegenstand der Entscheidung im Disziplinarverfahren ist jeweils
+nur die Verletzung der dem Anwaltsnotar obliegenden Amtspflichten.
+
+(4) Ist nach Absatz 1 nicht zunächst im Disziplinarverfahren zu
+entscheiden, so ist ein solches nach Abschluss des zunächst zu
+führenden Verfahrens nur dann zu führen, wenn es zusätzlich
+erforderlich erscheint, um den Anwaltsnotar zur Erfüllung seiner
+Amtspflichten anzuhalten. Die Erforderlichkeit einer Maßnahme nach §
+97 Absatz 1 Nummer 3, Absatz 2 Satz 1 oder Absatz 3 Satz 1 bleibt
+durch eine anderweitige Ahndung unberührt.
 
 
 #### § 110a Tilgung
 
-(1) Eintragungen in den über den Notar geführten Akten über einen
-Verweis oder eine Geldbuße sind nach zehn Jahren zu tilgen, auch wenn
-sie nebeneinander verhängt wurden. Die über diese Disziplinarmaßnahmen
-entstandenen Vorgänge sind aus den über den Notar geführten Akten zu
-entfernen und zu vernichten.
+(1) Eintragungen in den über den Notar geführten Akten über die in den
+Sätzen 4 und 5 genannten Maßnahmen und Entscheidungen sind nach Ablauf
+der dort bestimmten Fristen zu tilgen. Dabei sind die über diese
+Maßnahmen und Entscheidungen entstandenen Vorgänge aus den Akten zu
+entfernen und zu vernichten. Die Sätze 1 und 2 gelten sinngemäß, wenn
+die Akten über den Notar elektronisch geführt werden. Die Fristen
+betragen
 
-(2) Die Frist beginnt mit dem Tage, an dem die Disziplinarmaßnahme
-unanfechtbar geworden ist.
+1.  fünf Jahre bei
 
-(3) Die Frist endet nicht, solange gegen den Notar ein Strafverfahren,
-ein Disziplinarverfahren, ein anwaltsgerichtliches oder ein
-berufsgerichtliches Verfahren schwebt, eine andere Disziplinarmaßnahme
-oder eine anwaltsgerichtliche Maßnahme berücksichtigt werden darf oder
-ein auf Geldbuße lautendes Urteil noch nicht vollstreckt ist.
+    a)  Ermahnungen durch die Notarkammer,
 
-(4) Nach Ablauf der Frist gilt der Notar als von Disziplinarmaßnahmen
-nicht betroffen.
 
-(5) Die Absätze 1 bis 4 gelten für Ermahnungen durch die Notarkammer
-und für Mißbilligungen durch die Aufsichtsbehörde entsprechend. Die
-Frist beträgt fünf Jahre.
+    b)  Missbilligungen durch die Aufsichtsbehörde,
 
-(6) Eintragungen über strafgerichtliche Verurteilungen oder über
-andere Entscheidungen in Verfahren wegen Straftaten,
-Ordnungswidrigkeiten oder der Verletzung von Berufs- oder
-Amtspflichten, die nicht zu einer Disziplinarmaßnahme, einer Ermahnung
-oder Mißbilligung geführt haben, sind nach fünf Jahren zu tilgen.
-Absatz 1 Satz 2, Absatz 2 und 3 gelten entsprechend.
+
+    c)  Entscheidungen in Verfahren wegen der Verletzung von Berufspflichten
+        nach diesem Gesetz, die nicht zu einer Disziplinarmaßnahme, Ermahnung
+        oder Missbilligung geführt haben,
+
+
+    d)  Entscheidungen und nicht Satz 5 unterfallende Maßnahmen in Verfahren
+        wegen Straftaten oder Ordnungswidrigkeiten oder in
+        berufsaufsichtlichen Verfahren anderer Berufe;
+
+
+
+
+
+2.  zehn Jahre bei Verweisen und Geldbußen, auch wenn sie nebeneinander
+    verhängt werden;
+
+
+3.  20 Jahre bei einer Entfernung vom bisherigen Amtssitz, einer
+    Entfernung aus dem Amt auf bestimmte Zeit und einer Entfernung aus dem
+    Amt, nach der eine Wiederbestellung erfolgt ist.
+
+
+
+Für Maßnahmen, die in Verfahren wegen Straftaten oder
+Ordnungswidrigkeiten oder in berufsaufsichtlichen Verfahren anderer
+Berufe getroffen wurden und bei denen das zugrundeliegende Verhalten
+zugleich die notariellen Berufspflichten verletzt hat, gelten die für
+die Tilgung der jeweiligen Maßnahmen geltenden Fristen entsprechend.
+
+(2) Die Frist beginnt mit dem Tag, an dem die Maßnahme oder
+Entscheidung unanfechtbar geworden ist. Im Fall der erneuten
+Bestellung nach einer Entfernung aus dem Amt nach § 97 Absatz 1 Nummer
+3 beginnt die Frist mit dieser Bestellung. Nach Fristablauf kann die
+Entfernung und Vernichtung nach Absatz 1 Satz 2 bis zum Ende des
+Kalenderjahres aufgeschoben werden.
+
+(3) Die Frist endet mit Ausnahme der Fälle des Absatzes 1 Satz 4
+Nummer 1 Buchstabe c und d nicht, solange
+
+1.  eine andere Eintragung über eine strafrechtliche Verurteilung, eine
+    Ordnungswidrigkeit oder eine berufsaufsichtliche Maßnahme
+    berücksichtigt werden darf,
+
+
+2.  ein Verfahren anhängig ist, das eine in Nummer 1 bezeichnete
+    Eintragung zur Folge haben kann, oder
+
+
+3.  eine im Disziplinarverfahren verhängte Geldbuße noch nicht vollstreckt
+    ist.
+
+
+
+
+(4) Nach Ablauf der Frist gilt der Notar als von den Maßnahmen oder
+Entscheidungen nach Absatz 1 nicht betroffen.
 
 
 ### Abschnitt 3 - Gerichtliches Verfahren in verwaltungsrechtlichen Notarsachen
@@ -4651,7 +4843,7 @@ entsprechende Aufgaben wahrnehmen. Sie können insbesondere
 
 
 2.  allein oder gemeinsam mit der anderen Kasse oder Notarkammern
-    Einrichtungen im Sinne von Absatz 4 Nummer 3 zu unterhalten,
+    Einrichtungen im Sinne von § 67 Absatz 4 Nummer 3 unterhalten,
 
 
 3.  über Absatz 3 Nr. 3 hinausgehende Anschlussversicherungen abschließen,
@@ -5002,7 +5194,7 @@ Einstellung der elektronischen Dokumente in die elektronischen
 Urkundensammlungen gilt § 56 Absatz 1 und 2 des Beurkundungsgesetzes
 entsprechend; anstelle des Notars handelt der Urkundsbeamte der
 Geschäftsstelle. Für die rechtliche Stellung der elektronischen
-Dokumente gilt § 56 Absatz 3 des Beurkundungsgesetzes entsprechend. In
+Dokumente gilt § 56 Absatz 4 des Beurkundungsgesetzes entsprechend. In
 das Urkundenverzeichnis werden aus der Urkundenrolle mindestens die
 Angaben zum Namen und Amtssitz des Notars, zum Jahrgang der
 Urkundenrolle und zu der laufenden Nummer aufgenommen, unter der das
@@ -5036,9 +5228,7 @@ einschließlich der Vermerkblätter in die elektronische Form übertragen
 sowie auch ohne eine solche Übertragung Urkundenverzeichnisse anlegen.
 Absatz 1 Satz 2 bis 9, Absatz 2 und 3 Satz 3 gelten entsprechend.
 
-(5) Die sich auf die Übertragung von Schriftstücken in die
-elektronische Form beziehenden Möglichkeiten der Absätze 1 bis 4 sind
-erst ab dem 1. Juli 2022 anzuwenden.
+(5) (weggefallen)
 
 
 ### § 120 Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv

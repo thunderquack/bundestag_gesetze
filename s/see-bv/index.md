@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 460
 
-Geändert durch
-:   Art. 66 V v. 2.6.2016 I 1257
-
-Änderung durch
-:   Art. 1 V v. 28.7.2021 I 3236 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 28.7.2021 I 3236
 
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der
     1\.                                            Richtlinie 2012/35/EU
@@ -236,7 +233,7 @@ der jeweils geltenden Fassung.
 14. „nationale Fahrt“ die Fahrt von deutschen Häfen nach deutschen Häfen,
 
 
-15. „küstennahe Fahrt“ die internationale Fahrt, während der Häfen im
+15. „küstennahe Fahrt“ die Fahrt, während der Häfen 0in Deutschland, im
     europäischen Teil des Königreichs der Niederlande, im Königreich
     Dänemark mit Ausnahme der Färöer und Grönlands sowie Häfen der
     Republik Polen angelaufen werden,
@@ -3094,7 +3091,8 @@ Jahre nach Ausstellung gültig.
 
 ### Anlage 1 Abkürzungen
 
-(Fundstelle: BGBl. I 2014, 482)
+(Fundstelle: BGBl. I 2014, 482;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Für Befähigungszeugnisse und Befähigungsnachweise im nautischen
 Schiffsdienst, Seefunkdienst, technischen und elektrotechnischen
@@ -3376,7 +3374,8 @@ werden die nachfolgenden Abkürzungen verwendet:
 
 ### Anlage 2 Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
 
-(Fundstelle: BGBl. I 2014, 483)
+(Fundstelle: BGBl. I 2014, 483;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** **Lehrgänge**

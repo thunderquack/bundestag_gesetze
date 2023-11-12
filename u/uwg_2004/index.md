@@ -19,13 +19,10 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.11.2020 I 2568
+:   Art. 20 G v. 24.6.2022 I 959
 
 Änderung durch
-:   Art. 3 G v. 10.8.2021 I 3433 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3504 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des
 Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere
@@ -58,88 +55,107 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 
-### § 1 Zweck des Gesetzes
+### § 1 Zweck des Gesetzes; Anwendungsbereich
 
-Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen
-und Verbraucher sowie der sonstigen Marktteilnehmer vor unlauteren
-geschäftlichen Handlungen. Es schützt zugleich das Interesse der
-Allgemeinheit an einem unverfälschten Wettbewerb.
+(1) Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucher
+sowie der sonstigen Marktteilnehmer vor unlauteren geschäftlichen
+Handlungen. Es schützt zugleich das Interesse der Allgemeinheit an
+einem unverfälschten Wettbewerb.
+
+(2) Vorschriften zur Regelung besonderer Aspekte unlauterer
+geschäftlicher Handlungen gehen bei der Beurteilung, ob eine unlautere
+geschäftliche Handlung vorliegt, den Regelungen dieses Gesetzes vor.
 
 
-### § 2 Definitionen
+### § 2 Begriffsbestimmungen
 
-(1) Im Sinne dieses Gesetzes bedeutet
+(1) Im Sinne dieses Gesetzes ist
 
-1.  „geschäftliche Handlung“ jedes Verhalten einer Person zugunsten des
+1.  „geschäftliche Entscheidung“ jede Entscheidung eines Verbrauchers oder
+    sonstigen Marktteilnehmers darüber, ob, wie und unter welchen
+    Bedingungen er ein Geschäft abschließen, eine Zahlung leisten, eine
+    Ware oder Dienstleistung behalten oder abgeben oder ein vertragliches
+    Recht im Zusammenhang mit einer Ware oder Dienstleistung ausüben will,
+    unabhängig davon, ob der Verbraucher oder sonstige Marktteilnehmer
+    sich entschließt, tätig zu werden;
+
+
+2.  „geschäftliche Handlung“ jedes Verhalten einer Person zugunsten des
     eigenen oder eines fremden Unternehmens vor, bei oder nach einem
     Geschäftsabschluss, das mit der Förderung des Absatzes oder des Bezugs
     von Waren oder Dienstleistungen oder mit dem Abschluss oder der
-    Durchführung eines Vertrags über Waren oder Dienstleistungen objektiv
-    zusammenhängt; als Waren gelten auch Grundstücke, als Dienstleistungen
-    auch Rechte und Verpflichtungen;
+    Durchführung eines Vertrags über Waren oder Dienstleistungen
+    unmittelbar und objektiv zusammenhängt; als Waren gelten auch
+    Grundstücke und digitale Inhalte, Dienstleistungen sind auch digitale
+    Dienstleistungen, als Dienstleistungen gelten auch Rechte und
+    Verpflichtungen;
 
 
-2.  „Marktteilnehmer“ neben Mitbewerbern und Verbrauchern alle Personen,
-    die als Anbieter oder Nachfrager von Waren oder Dienstleistungen tätig
-    sind;
+3.  „Marktteilnehmer“ neben Mitbewerber und Verbraucher auch jede weitere
+    Person, die als Anbieter oder Nachfrager von Waren oder
+    Dienstleistungen tätig ist;
 
 
-3.  „Mitbewerber“ jeder Unternehmer, der mit einem oder mehreren
+4.  „Mitbewerber“ jeder Unternehmer, der mit einem oder mehreren
     Unternehmern als Anbieter oder Nachfrager von Waren oder
     Dienstleistungen in einem konkreten Wettbewerbsverhältnis steht;
 
 
-4.  „Nachricht“ jede Information, die zwischen einer endlichen Zahl von
+5.  „Nachricht“ jede Information, die zwischen einer endlichen Zahl von
     Beteiligten über einen öffentlich zugänglichen elektronischen
-    Kommunikationsdienst ausgetauscht oder weitergeleitet wird; dies
-    schließt nicht Informationen ein, die als Teil eines Rundfunkdienstes
-    über ein elektronisches Kommunikationsnetz an die Öffentlichkeit
-    weitergeleitet werden, soweit die Informationen nicht mit dem
+    Kommunikationsdienst ausgetauscht oder weitergeleitet wird; nicht
+    umfasst sind Informationen, die als Teil eines Rundfunkdienstes über
+    ein elektronisches Kommunikationsnetz an die Öffentlichkeit
+    weitergeleitet werden, soweit diese Informationen nicht mit dem
     identifizierbaren Teilnehmer oder Nutzer, der sie erhält, in
     Verbindung gebracht werden können;
 
 
-5.  „Verhaltenskodex“ Vereinbarungen oder Vorschriften über das Verhalten
-    von Unternehmern, zu welchem diese sich in Bezug auf Wirtschaftszweige
-    oder einzelne geschäftliche Handlungen verpflichtet haben, ohne dass
-    sich solche Verpflichtungen aus Gesetzes- oder Verwaltungsvorschriften
-    ergeben;
+6.  „Online-Marktplatz“ ein Dienst, der es Verbrauchern ermöglicht, durch
+    die Verwendung von Software, die von einem Unternehmer oder in dessen
+    Namen betrieben wird, einschließlich einer Website, eines Teils einer
+    Website oder einer Anwendung, Fernabsatzverträge (§ 312c des
+    Bürgerlichen Gesetzbuchs) mit anderen Unternehmern oder Verbrauchern
+    abzuschließen;
 
 
-6.  „Unternehmer“ jede natürliche oder juristische Person, die
+7.  „Ranking“ die von einem Unternehmer veranlasste relative Hervorhebung
+    von Waren oder Dienstleistungen, unabhängig von den hierfür
+    verwendeten technischen Mitteln;
+
+
+8.  „Unternehmer“ jede natürliche oder juristische Person, die
     geschäftliche Handlungen im Rahmen ihrer gewerblichen, handwerklichen
     oder beruflichen Tätigkeit vornimmt, und jede Person, die im Namen
     oder Auftrag einer solchen Person handelt;
 
 
-7.  „unternehmerische Sorgfalt“ der Standard an Fachkenntnissen und
+9.  „unternehmerische Sorgfalt“ der Standard an Fachkenntnissen und
     Sorgfalt, von dem billigerweise angenommen werden kann, dass ein
     Unternehmer ihn in seinem Tätigkeitsbereich gegenüber Verbrauchern
     nach Treu und Glauben unter Berücksichtigung der anständigen
     Marktgepflogenheiten einhält;
 
 
-8.  „wesentliche Beeinflussung des wirtschaftlichen Verhaltens des
+10. „Verhaltenskodex“ jede Vereinbarung oder Vorschrift über das Verhalten
+    von Unternehmern, zu welchem diese sich in Bezug auf Wirtschaftszweige
+    oder einzelne geschäftliche Handlungen verpflichtet haben, ohne dass
+    sich solche Verpflichtungen aus Gesetzes- oder Verwaltungsvorschriften
+    ergeben;
+
+
+11. „wesentliche Beeinflussung des wirtschaftlichen Verhaltens des
     Verbrauchers“ die Vornahme einer geschäftlichen Handlung, um die
     Fähigkeit des Verbrauchers, eine informierte Entscheidung zu treffen,
     spürbar zu beeinträchtigen und damit den Verbraucher zu einer
     geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
-    getroffen hätte;
-
-
-9.  „geschäftliche Entscheidung“ jede Entscheidung eines Verbrauchers oder
-    sonstigen Marktteilnehmers darüber, ob, wie und unter welchen
-    Bedingungen er ein Geschäft abschließen, eine Zahlung leisten, eine
-    Ware oder Dienstleistung behalten oder abgeben oder ein vertragliches
-    Recht im Zusammenhang mit einer Ware oder Dienstleistung ausüben will,
-    unabhängig davon, ob der Verbraucher oder sonstige Marktteilnehmer
-    sich entschließt, tätig zu werden.
+    getroffen hätte.
 
 
 
 
-(2) Für den Verbraucherbegriff gilt § 13 des Bürgerlichen Gesetzbuchs
-entsprechend.
+(2) Für den Verbraucherbegriff ist § 13 des Bürgerlichen Gesetzbuchs
+entsprechend anwendbar.
 
 
 ### § 3 Verbot unlauterer geschäftlicher Handlungen
@@ -288,9 +304,11 @@ die Zwangslage von Verbrauchern.
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung
 vornimmt, die geeignet ist, den Verbraucher oder sonstigen
 Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen,
-die er andernfalls nicht getroffen hätte. Eine geschäftliche Handlung
-ist irreführend, wenn sie unwahre Angaben enthält oder sonstige zur
-Täuschung geeignete Angaben über folgende Umstände enthält:
+die er andernfalls nicht getroffen hätte.
+
+(2) Eine geschäftliche Handlung ist irreführend, wenn sie unwahre
+Angaben enthält oder sonstige zur Täuschung geeignete Angaben über
+folgende Umstände enthält:
 
 1.  die wesentlichen Merkmale der Ware oder Dienstleistung wie
     Verfügbarkeit, Art, Ausführung, Vorteile, Risiken, Zusammensetzung,
@@ -334,18 +352,31 @@ Täuschung geeignete Angaben über folgende Umstände enthält:
 
 
 
-(2) Eine geschäftliche Handlung ist auch irreführend, wenn sie im
-Zusammenhang mit der Vermarktung von Waren oder Dienstleistungen
-einschließlich vergleichender Werbung eine Verwechslungsgefahr mit
-einer anderen Ware oder Dienstleistung oder mit der Marke oder einem
-anderen Kennzeichen eines Mitbewerbers hervorruft.
+(3) Eine geschäftliche Handlung ist auch irreführend, wenn
 
-(3) Angaben im Sinne von Absatz 1 Satz 2 sind auch Angaben im Rahmen
+1.  sie im Zusammenhang mit der Vermarktung von Waren oder
+    Dienstleistungen einschließlich vergleichender Werbung eine
+    Verwechslungsgefahr mit einer anderen Ware oder Dienstleistung oder
+    mit der Marke oder einem anderen Kennzeichen eines Mitbewerbers
+    hervorruft oder
+
+
+2.  mit ihr eine Ware in einem Mitgliedstaat der Europäischen Union als
+    identisch mit einer in anderen Mitgliedstaaten der Europäischen Union
+    auf dem Markt bereitgestellten Ware vermarktet wird, obwohl sich diese
+    Waren in ihrer Zusammensetzung oder in ihren Merkmalen wesentlich
+    voneinander unterscheiden, sofern dies nicht durch legitime und
+    objektive Faktoren gerechtfertigt ist.
+
+
+
+
+(4) Angaben im Sinne von Absatz 2 sind auch Angaben im Rahmen
 vergleichender Werbung sowie bildliche Darstellungen und sonstige
 Veranstaltungen, die darauf zielen und geeignet sind, solche Angaben
 zu ersetzen.
 
-(4) Es wird vermutet, dass es irreführend ist, mit der Herabsetzung
+(5) Es wird vermutet, dass es irreführend ist, mit der Herabsetzung
 eines Preises zu werben, sofern der Preis nur für eine unangemessen
 kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem
 Zeitraum der Preis gefordert worden ist, so trifft die Beweislast
@@ -354,33 +385,29 @@ denjenigen, der mit der Preisherabsetzung geworben hat.
 
 ### § 5a Irreführung durch Unterlassen
 
-(1) Bei der Beurteilung, ob das Verschweigen einer Tatsache
-irreführend ist, sind insbesondere deren Bedeutung für die
-geschäftliche Entscheidung nach der Verkehrsauffassung sowie die
-Eignung des Verschweigens zur Beeinflussung der Entscheidung zu
-berücksichtigen.
-
-(2) Unlauter handelt, wer im konkreten Fall unter Berücksichtigung
-aller Umstände dem Verbraucher eine wesentliche Information
+(1) Unlauter handelt auch, wer einen Verbraucher oder sonstigen
+Marktteilnehmer irreführt, indem er ihm eine wesentliche Information
 vorenthält,
 
-1.  die der Verbraucher je nach den Umständen benötigt, um eine
-    informierte geschäftliche Entscheidung zu treffen, und
+1.  die der Verbraucher oder der sonstige Marktteilnehmer nach den
+    jeweiligen Umständen benötigt, um eine informierte geschäftliche
+    Entscheidung zu treffen, und
 
 
-2.  deren Vorenthalten geeignet ist, den Verbraucher zu einer
-    geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
-    getroffen hätte.
+2.  deren Vorenthalten dazu geeignet ist, den Verbraucher oder den
+    sonstigen Marktteilnehmer zu einer geschäftlichen Entscheidung zu
+    veranlassen, die er andernfalls nicht getroffen hätte.
 
 
 
-Als Vorenthalten gilt auch
+
+(2) Als Vorenthalten gilt auch
 
 1.  das Verheimlichen wesentlicher Informationen,
 
 
 2.  die Bereitstellung wesentlicher Informationen in unklarer,
-    unverständlicher oder zweideutiger Weise,
+    unverständlicher oder zweideutiger Weise sowie
 
 
 3.  die nicht rechtzeitige Bereitstellung wesentlicher Informationen.
@@ -388,19 +415,51 @@ Als Vorenthalten gilt auch
 
 
 
-(3) Werden Waren oder Dienstleistungen unter Hinweis auf deren
+(3) Bei der Beurteilung, ob wesentliche Informationen vorenthalten
+wurden, sind zu berücksichtigen:
+
+1.  räumliche oder zeitliche Beschränkungen durch das für die
+    geschäftliche Handlung gewählte Kommunikationsmittel sowie
+
+
+2.  alle Maßnahmen des Unternehmers, um dem Verbraucher oder sonstigen
+    Marktteilnehmer die Informationen auf andere Weise als durch das für
+    die geschäftliche Handlung gewählte Kommunikationsmittel zur Verfügung
+    zu stellen.
+
+
+
+
+(4) Unlauter handelt auch, wer den kommerziellen Zweck einer
+geschäftlichen Handlung nicht kenntlich macht, sofern sich dieser
+nicht unmittelbar aus den Umständen ergibt, und das
+Nichtkenntlichmachen geeignet ist, den Verbraucher oder sonstigen
+Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen,
+die er andernfalls nicht getroffen hätte. Ein kommerzieller Zweck
+liegt bei einer Handlung zugunsten eines fremden Unternehmens nicht
+vor, wenn der Handelnde kein Entgelt oder keine ähnliche Gegenleistung
+für die Handlung von dem fremden Unternehmen erhält oder sich
+versprechen lässt. Der Erhalt oder das Versprechen einer Gegenleistung
+wird vermutet, es sei denn der Handelnde macht glaubhaft, dass er eine
+solche nicht erhalten hat.
+
+
+### § 5b Wesentliche Informationen
+
+(1) Werden Waren oder Dienstleistungen unter Hinweis auf deren
 Merkmale und Preis in einer dem verwendeten Kommunikationsmittel
 angemessenen Weise so angeboten, dass ein durchschnittlicher
-Verbraucher das Geschäft abschließen kann, gelten folgende
-Informationen als wesentlich im Sinne des Absatzes 2, sofern sie sich
-nicht unmittelbar aus den Umständen ergeben:
+Verbraucher das Geschäft abschließen kann, so gelten die folgenden
+Informationen als wesentlich im Sinne des § 5a Absatz 1, sofern sie
+sich nicht unmittelbar aus den Umständen ergeben:
 
-1.  alle wesentlichen Merkmale der Ware oder Dienstleistung in dem dieser
-    und dem verwendeten Kommunikationsmittel angemessenen Umfang;
+1.  alle wesentlichen Merkmale der Ware oder Dienstleistung in dem der
+    Ware oder Dienstleistung und dem verwendeten Kommunikationsmittel
+    angemessenen Umfang,
 
 
 2.  die Identität und Anschrift des Unternehmers, gegebenenfalls die
-    Identität und Anschrift des Unternehmers, für den er handelt;
+    Identität und Anschrift desjenigen Unternehmers, für den er handelt,
 
 
 3.  der Gesamtpreis oder in Fällen, in denen ein solcher Preis auf Grund
@@ -408,45 +467,116 @@ nicht unmittelbar aus den Umständen ergeben:
     berechnet werden kann, die Art der Preisberechnung sowie
     gegebenenfalls alle zusätzlichen Fracht-, Liefer- und Zustellkosten
     oder in Fällen, in denen diese Kosten nicht im Voraus berechnet werden
-    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können;
+    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
 
 
-4.  Zahlungs-, Liefer- und Leistungsbedingungen sowie Verfahren zum Umgang
-    mit Beschwerden, soweit sie von Erfordernissen der unternehmerischen
-    Sorgfalt abweichen, und
+4.  Zahlungs-, Liefer- und Leistungsbedingungen, soweit diese von den
+    Erfordernissen unternehmerischer Sorgfalt abweichen,
 
 
-5.  das Bestehen eines Rechts zum Rücktritt oder Widerruf.
+5.  das Bestehen des Rechts auf Rücktritt oder Widerruf und
 
 
-
-
-(4) Als wesentlich im Sinne des Absatzes 2 gelten auch Informationen,
-die dem Verbraucher auf Grund unionsrechtlicher Verordnungen oder nach
-Rechtsvorschriften zur Umsetzung unionsrechtlicher Richtlinien für
-kommerzielle Kommunikation einschließlich Werbung und Marketing nicht
-vorenthalten werden dürfen.
-
-(5) Bei der Beurteilung, ob Informationen vorenthalten wurden, sind zu
-berücksichtigen:
-
-1.  räumliche oder zeitliche Beschränkungen durch das für die
-    geschäftliche Handlung gewählte Kommunikationsmittel sowie
-
-
-2.  alle Maßnahmen des Unternehmers, um dem Verbraucher die Informationen
-    auf andere Weise als durch das Kommunikationsmittel nach Nummer 1 zur
-    Verfügung zu stellen.
+6.  bei Waren oder Dienstleistungen, die über einen Online-Marktplatz
+    angeboten werden, die Information, ob es sich bei dem Anbieter der
+    Waren oder Dienstleistungen nach dessen eigener Erklärung gegenüber
+    dem Betreiber des Online-Marktplatzes um einen Unternehmer handelt.
 
 
 
 
-(6) Unlauter handelt auch, wer den kommerziellen Zweck einer
-geschäftlichen Handlung nicht kenntlich macht, sofern sich dieser
-nicht unmittelbar aus den Umständen ergibt, und das
-Nichtkenntlichmachen geeignet ist, den Verbraucher zu einer
-geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
-getroffen hätte.
+(2) Bietet ein Unternehmer Verbrauchern die Möglichkeit, nach Waren
+oder Dienstleistungen zu suchen, die von verschiedenen Unternehmern
+oder von Verbrauchern angeboten werden, so gelten unabhängig davon, wo
+das Rechtsgeschäft abgeschlossen werden kann, folgende allgemeine
+Informationen als wesentlich:
+
+1.  die Hauptparameter zur Festlegung des Rankings der dem Verbraucher als
+    Ergebnis seiner Suchanfrage präsentierten Waren oder Dienstleistungen
+    sowie
+
+
+2.  die relative Gewichtung der Hauptparameter zur Festlegung des Rankings
+    im Vergleich zu anderen Parametern.
+
+
+
+Die Informationen nach Satz 1 müssen von der Anzeige der
+Suchergebnisse aus unmittelbar und leicht zugänglich sein. Die Sätze 1
+und 2 gelten nicht für Betreiber von Online-Suchmaschinen im Sinne des
+Artikels 2 Nummer 6 der Verordnung (EU) 2019/1150 des Europäischen
+Parlaments und des Rates vom 20. Juni 2019 zur Förderung von Fairness
+und Transparenz für gewerbliche Nutzer von Online-Vermittlungsdiensten
+(ABl. L 186 vom 11.7.2019, S. 57).
+
+(3) Macht ein Unternehmer Bewertungen zugänglich, die Verbraucher im
+Hinblick auf Waren oder Dienstleistungen vorgenommen haben, so gelten
+als wesentlich Informationen darüber, ob und wie der Unternehmer
+sicherstellt, dass die veröffentlichten Bewertungen von solchen
+Verbrauchern stammen, die die Waren oder Dienstleistungen tatsächlich
+genutzt oder erworben haben.
+
+(4) Als wesentlich im Sinne des § 5a Absatz 1 gelten auch solche
+Informationen, die dem Verbraucher auf Grund unionsrechtlicher
+Verordnungen oder nach Rechtsvorschriften zur Umsetzung
+unionsrechtlicher Richtlinien für kommerzielle Kommunikation
+einschließlich Werbung und Marketing nicht vorenthalten werden dürfen.
+
+
+### § 5c Verbotene Verletzung von Verbraucherinteressen durch unlautere geschäftliche Handlungen
+
+(1) Die Verletzung von Verbraucherinteressen durch unlautere
+geschäftliche Handlungen ist verboten, wenn es sich um einen
+weitverbreiteten Verstoß gemäß Artikel 3 Nummer 3 der Verordnung (EU)
+2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember
+2017 über die Zusammenarbeit zwischen den für die Durchsetzung der
+Verbraucherschutzgesetze zuständigen nationalen Behörden und zur
+Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom
+27\.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771
+(ABl. L 136 vom 22.5.2019, S. 28; L 305 vom 26.11.2019, S. 66)
+geändert worden ist, oder einen weitverbreiteten Verstoß mit
+UnionsDimension gemäß Artikel 3 Nummer 4 der Verordnung (EU) 2017/2394
+handelt.
+
+(2) Eine Verletzung von Verbraucherinteressen durch unlautere
+geschäftliche Handlungen im Sinne des Absatzes 1 liegt vor, wenn
+
+1.  eine unlautere geschäftliche Handlung nach § 3 Absatz 3 in Verbindung
+    mit den Nummern 1 bis 31 des Anhangs vorgenommen wird,
+
+
+2.  eine aggressive geschäftliche Handlung nach § 4a Absatz 1 Satz 1
+    vorgenommen wird,
+
+
+3.  eine irreführende geschäftliche Handlung nach § 5 Absatz 1 oder § 5a
+    Absatz 1 vorgenommen wird oder
+
+
+4.  eine unlautere geschäftliche Handlung nach § 3 Absatz 1 fortgesetzt
+    vorgenommen wird, die durch eine vollziehbare Anordnung der
+    zuständigen Behörde im Sinne des Artikels 3 Nummer 6 der Verordnung
+    (EU) 2017/2394 oder durch eine vollstreckbare Entscheidung eines
+    Gerichts untersagt worden ist, sofern die Handlung nicht bereits von
+    den Nummern 1 bis 3 erfasst ist.
+
+
+
+
+(3) Eine Verletzung von Verbraucherinteressen durch unlautere
+geschäftliche Handlungen im Sinne des Absatzes 1 liegt auch vor, wenn
+
+1.  eine geschäftliche Handlung die tatsächlichen Voraussetzungen eines
+    der in Absatz 2 geregelten Fälle erfüllt und
+
+
+2.  auf die geschäftliche Handlung das nationale Recht eines anderen
+    Mitgliedstaates der Europäischen Union anwendbar ist, welches eine
+    Vorschrift enthält, die der jeweiligen in Absatz 2 genannten
+    Vorschrift entspricht.
+
+
+
 
 
 ### § 6 Vergleichende Werbung
@@ -498,24 +628,18 @@ Marktteilnehmer diese Werbung nicht wünscht.
 
 (2) Eine unzumutbare Belästigung ist stets anzunehmen
 
-1.  bei Werbung unter Verwendung eines in den Nummern 2 und 3 nicht
-    aufgeführten, für den Fernabsatz geeigneten Mittels der kommerziellen
-    Kommunikation, durch die ein Verbraucher hartnäckig angesprochen wird,
-    obwohl er dies erkennbar nicht wünscht;
-
-
-2.  bei Werbung mit einem Telefonanruf gegenüber einem Verbraucher ohne
+1.  bei Werbung mit einem Telefonanruf gegenüber einem Verbraucher ohne
     dessen vorherige ausdrückliche Einwilligung oder gegenüber einem
     sonstigen Marktteilnehmer ohne dessen zumindest mutmaßliche
     Einwilligung,
 
 
-3.  bei Werbung unter Verwendung einer automatischen Anrufmaschine, eines
+2.  bei Werbung unter Verwendung einer automatischen Anrufmaschine, eines
     Faxgerätes oder elektronischer Post, ohne dass eine vorherige
     ausdrückliche Einwilligung des Adressaten vorliegt, oder
 
 
-4.  bei Werbung mit einer Nachricht,
+3.  bei Werbung mit einer Nachricht,
 
     a)  bei der die Identität des Absenders, in dessen Auftrag die Nachricht
         übermittelt wird, verschleiert oder verheimlicht wird oder
@@ -537,7 +661,7 @@ Marktteilnehmer diese Werbung nicht wünscht.
 
 
 
-(3) Abweichend von Absatz 2 Nummer 3 ist eine unzumutbare Belästigung
+(3) Abweichend von Absatz 2 Nummer 2 ist eine unzumutbare Belästigung
 bei einer Werbung unter Verwendung elektronischer Post nicht
 anzunehmen, wenn
 
@@ -609,16 +733,14 @@ Inhaber des Unternehmens begründet.
     berührt,
 
 
-3.  den qualifizierten Einrichtungen, die in der Liste der qualifizierten
-    Einrichtungen nach § 4 des Unterlassungsklagengesetzes eingetragen
-    sind, oder den qualifizierten Einrichtungen aus anderen
-    Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der
-    Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie
-    2009/22/EG des Europäischen Parlaments und des Rates vom 23. April
-    2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen
-    (ABl. L 110 vom 1.5.2009, S. 30), die zuletzt durch die Verordnung
-    (EU) 2018/302 (ABl. L 60I vom 2.3.2018, S. 1) geändert worden ist,
-    eingetragen sind,
+3.  den qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des
+    Unterlassungsklagengesetzes eingetragen sind, und den qualifizierten
+    Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die
+    in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1
+    Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und
+    des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der
+    Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie
+    2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind,
 
 
 4.  den Industrie- und Handelskammern, den nach der Handwerksordnung
@@ -636,9 +758,12 @@ geltend machen, solange ihre Eintragung ruht.
 (5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden;
 in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten
 an die Stelle der dort aufgeführten Ansprüche nach dem
-Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Im
-Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei
-denn, es liegt ein Fall des § 4e des Unterlassungsklagengesetzes vor.
+Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Macht
+eine anspruchsberechtigte Stelle nach Absatz 3 Nummer 3 Ansprüche nach
+Absatz 1 gerichtlich geltend, so sind die §§ 5a und 6a des
+Unterlassungsklagengesetzes entsprechend anzuwenden. Im Übrigen findet
+das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt
+ein Fall des § 2a des Unterlassungsklagengesetzes vor.
 
 
 ### § 8a Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150
@@ -693,8 +818,15 @@ eingetragen, wenn
 
 
 
-(3) § 4 Absatz 3 und 4 sowie die §§ 4a bis 4d des
-Unterlassungsklagengesetzes sind entsprechend anzuwenden.
+(3) Die Vorschriften für qualifizierte Verbraucherverbände in § 4
+Absatz 3 und 4 und in den §§ 4a bis 4c und 4f des
+Unterlassungsklagengesetzes sind auf die qualifizierten
+Wirtschaftsverbände entsprechend anzuwenden. Ergänzend zu den
+Berichtspflichten der qualifizierten Wirtschaftsverbände nach § 4b
+Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sind auch die
+Anzahl der gestellten Anträge auf Erlass von einstweiligen Verfügungen
+und die Anzahl der erhobenen Klagen zur Durchsetzung der in dieser
+Vorschrift genannten Ansprüche anzugeben.
 
 
 ### § 8c Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung
@@ -751,49 +883,71 @@ Ersatzansprüche bleiben unberührt.
 
 ### § 9 Schadensersatz
 
-Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige
+(1) Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige
 geschäftliche Handlung vornimmt, ist den Mitbewerbern zum Ersatz des
-daraus entstehenden Schadens verpflichtet. Gegen verantwortliche
-Personen von periodischen Druckschriften kann der Anspruch auf
-Schadensersatz nur bei einer vorsätzlichen Zuwiderhandlung geltend
-gemacht werden.
+daraus entstehenden Schadens verpflichtet.
+
+(2) Wer vorsätzlich oder fahrlässig eine nach § 3 unzulässige
+geschäftliche Handlung vornimmt und hierdurch Verbraucher zu einer
+geschäftlichen Entscheidung veranlasst, die sie andernfalls nicht
+getroffen hätten, ist ihnen zum Ersatz des daraus entstehenden
+Schadens verpflichtet. Dies gilt nicht für unlautere geschäftliche
+Handlungen nach den §§ 3a, 4 und 6 sowie nach Nummer 32 des Anhangs.
+
+(3) Gegen verantwortliche Personen von periodischen Druckschriften
+kann der Anspruch auf Schadensersatz nach den Absätzen 1 und 2 nur bei
+einer vorsätzlichen Zuwiderhandlung geltend gemacht werden.
 
 
 ### § 10 Gewinnabschöpfung
 
-(1) Wer vorsätzlich eine nach § 3 oder § 7 unzulässige geschäftliche
-Handlung vornimmt und hierdurch zu Lasten einer Vielzahl von Abnehmern
-einen Gewinn erzielt, kann von den gemäß § 8 Absatz 3 Nummer 2 bis 4
-zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf
-Herausgabe dieses Gewinns an den Bundeshaushalt in Anspruch genommen
-werden.
+(1) Wer vorsätzlich oder grob fahrlässig eine nach § 3 oder § 7
+unzulässige geschäftliche Handlung vornimmt und hierdurch zu Lasten
+einer Vielzahl von Abnehmern einen Gewinn erzielt, kann von den gemäß
+§ 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines
+Unterlassungsanspruchs Berechtigten auf Herausgabe dieses Gewinns an
+den Bundeshaushalt in Anspruch genommen werden. Ist zwischen den
+Parteien streitig, ob durch die unzulässige geschäftliche Handlung zu
+Lasten einer Vielzahl von Abnehmern ein Gewinn erzielt wurde oder wie
+hoch der erzielte Gewinn ist, so entscheidet hierüber das Gericht
+unter Würdigung aller Umstände nach freier Überzeugung.
 
 (2) Auf den Gewinn sind die Leistungen anzurechnen, die der Schuldner
 auf Grund der Zuwiderhandlung an Dritte oder an den Staat erbracht
 hat. Soweit der Schuldner solche Leistungen erst nach Erfüllung des
-Anspruchs nach Absatz 1 erbracht hat, erstattet die zuständige Stelle
-des Bundes dem Schuldner den abgeführten Gewinn in Höhe der
-nachgewiesenen Zahlungen zurück.
+Anspruchs nach Absatz 1 erbracht hat, erstattet das Bundesamt für
+Justiz dem Schuldner den abgeführten Gewinn in Höhe der nachgewiesenen
+Zahlungen zurück.
 
 (3) Beanspruchen mehrere Gläubiger den Gewinn, so gelten die §§ 428
 bis 430 des Bürgerlichen Gesetzbuchs entsprechend.
 
-(4) Die Gläubiger haben der zuständigen Stelle des Bundes über die
-Geltendmachung von Ansprüchen nach Absatz 1 Auskunft zu erteilen. Sie
-können von der zuständigen Stelle des Bundes Erstattung der für die
-Geltendmachung des Anspruchs erforderlichen Aufwendungen verlangen,
-soweit sie vom Schuldner keinen Ausgleich erlangen können. Der
-Erstattungsanspruch ist auf die Höhe des an den Bundeshaushalt
+(4) Die Gläubiger haben dem Bundesamt für Justiz über die
+Geltendmachung von Ansprüchen nach Absatz 1 Auskunft zu erteilen.
+
+(5) Haben die Gläubiger einen Anspruch gegen den Schuldner auf Ersatz
+der für die Geltendmachung des Anspruchs erforderlichen Aufwendungen
+und können sie vom Schuldner keinen Ausgleich erlangen, so können sie
+die Erstattung dieser Aufwendungen vom Bundesamt für Justiz verlangen.
+Der Anspruch nach Satz 1 ist auf die Höhe des an den Bundeshaushalt
 abgeführten Gewinns beschränkt.
 
-(5) Zuständige Stelle im Sinn der Absätze 2 und 4 ist das Bundesamt
-für Justiz.
+(6) Die Gläubiger können vom Bundesamt für Justiz Ersatz der
+Aufwendungen verlangen, die für eine Finanzierung des gerichtlichen
+Verfahrens durch einen gewerblichen Prozessfinanzierer entstanden
+sind, wenn das Bundesamt für Justiz vor Einleitung des gerichtlichen
+Verfahrens die Inanspruchnahme dieser Finanzierung bewilligt hat. Das
+Bundesamt für Justiz bewilligt die Inanspruchnahme der Finanzierung,
+wenn die beabsichtigte Rechtsverfolgung unter Berücksichtigung der
+gesamten Umstände nicht missbräuchlich ist und die Aufwendungen für
+den Prozessfinanzierer üblich und angemessen sind.
 
 
 ### § 11 Verjährung
 
-(1) Die Ansprüche aus den §§ 8, 9 und 13 Absatz 3 verjähren in sechs
-Monaten.
+(1) Die Ansprüche aus den §§ 8, 9 Absatz 1 und § 13 Absatz 3 verjähren
+in sechs Monaten und der Anspruch aus § 9 Absatz 2 Satz 1 verjährt in
+einem Jahr.
 
 (2) Die Verjährungsfrist beginnt, wenn
 
@@ -1020,6 +1174,11 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 Gerichten eines Landes obliegenden Klagen nach Absatz 1 insgesamt oder
 teilweise dem zuständigen Gericht eines anderen Landes übertragen.
 
+(4) Abweichend von den Absätzen 1 bis 3 richtet sich die Zuständigkeit
+für bürgerliche Rechtsstreitigkeiten, mit denen ein Anspruch nach § 9
+Absatz 2 Satz 1 geltend gemacht wird, nach den allgemeinen
+Vorschriften.
+
 
 ### § 15 Einigungsstellen
 
@@ -1154,7 +1313,55 @@ weiterer Abnehmer erlangen sollen, wird mit Freiheitsstrafe bis zu
 zwei Jahren oder mit Geldstrafe bestraft.
 
 
-### (XXXX) §§ 17 bis 19 (weggefallen)
+### (XXXX) §§ 17 u. 18 (weggefallen)
+
+
+
+### § 19 Bußgeldvorschriften bei einem weitverbreiteten Verstoß und einem weitverbreiteten Verstoß mit Unions-Dimension
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
+5c Absatz 1 Verbraucherinteressen verletzt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+fünfzigtausend Euro geahndet werden. Gegenüber einem Unternehmer, der
+in den von dem Verstoß betroffenen Mitgliedstaaten der Europäischen
+Union in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr
+mehr als eine Million zweihundertfünfzigtausend Euro Jahresumsatz
+erzielt hat, kann eine höhere Geldbuße verhängt werden; diese darf 4
+Prozent des Jahresumsatzes nicht übersteigen. Die Höhe des
+Jahresumsatzes kann geschätzt werden. Liegen keine Anhaltspunkte für
+eine Schätzung des Jahresumsatzes vor, so beträgt das Höchstmaß der
+Geldbuße zwei Millionen Euro. Abweichend von den Sätzen 2 bis 4 gilt
+gegenüber einem Täter oder einem Beteiligten, der im Sinne des § 9 des
+Gesetzes über Ordnungswidrigkeiten für einen Unternehmer handelt, und
+gegenüber einem Beteiligten im Sinne des § 14 Absatz 1 Satz 2 des
+Gesetzes über Ordnungswidrigkeiten, der kein Unternehmer ist, der
+Bußgeldrahmen des Satzes 1. Das für die Ordnungswidrigkeit angedrohte
+Höchstmaß der Geldbuße im Sinne des § 30 Absatz 2 Satz 2 des Gesetzes
+über Ordnungswidrigkeiten ist das nach den Sätzen 1 bis 4 anwendbare
+Höchstmaß.
+
+(3) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten
+Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
+geahndet werden.
+
+(4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten sind
+
+1.  das Umweltbundesamt,
+
+
+2.  die Bundesanstalt für Finanzdienstleistungsaufsicht bei einer
+    Zuwiderhandlung, die sich auf die Tätigkeit eines Unternehmens im
+    Sinne des § 2 Nummer 2 des EU-Verbraucherschutzdurchführungsgesetzes
+    bezieht, und
+
+
+3.  die nach Landesrecht zuständige Behörde bei einer Zuwiderhandlung, die
+    sich auf die Tätigkeit eines Unternehmens im Sinne des § 2 Nummer 4
+    des EU-Verbraucherschutzdurchführungsgesetzes bezieht.
+
+
 
 
 
@@ -1162,8 +1369,8 @@ zwei Jahren oder mit Geldstrafe bestraft.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 7 Absatz 1 Satz 1 in Verbindung mit Absatz 2 Nummer 2 oder
-    3 mit einem Telefonanruf oder unter Verwendung einer automatischen
+1.  entgegen § 7 Absatz 1 Satz 1 in Verbindung mit Absatz 2 Nummer 1 oder
+    2 mit einem Telefonanruf oder unter Verwendung einer automatischen
     Anrufmaschine gegenüber einem Verbraucher ohne dessen vorherige
     ausdrückliche Einwilligung wirbt,
 
@@ -1173,18 +1380,23 @@ zwei Jahren oder mit Geldstrafe bestraft.
     nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
 
-3.  entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 des
+3.  entgegen § 8 Absatz 5 Satz 2 in Verbindung mit § 6a Absatz 1 Satz 3
+    des Unterlassungsklagengesetzes eine dort genannte Zustellung nicht
+    oder nicht rechtzeitig bekannt macht,
+
+
+4.  einer Rechtsverordnung nach § 8b Absatz 3 Satz 1 in Verbindung mit §
+    4f Nummer 1 oder 2 des Unterlassungsklagengesetzes oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist oder
+
+
+5.  entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 Satz 1 des
     Unterlassungsklagengesetzes, auch in Verbindung mit einer
-    Rechtsverordnung nach § 4d Nummer 2 des Unterlassungsklagengesetzes,
+    Rechtsverordnung nach § 4f Nummer 3 des Unterlassungsklagengesetzes,
     einen dort genannten Bericht nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig erstattet oder
-
-
-4.  einer Rechtsverordnung nach § 8b Absatz 3 in Verbindung mit § 4d
-    Nummer 1 des Unterlassungsklagengesetzes oder einer vollziehbaren
-    Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
-    soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist.
+    oder nicht rechtzeitig erstattet.
 
 
 
@@ -1204,187 +1416,348 @@ Bundesamt für Justiz.
 
 ### Anhang (zu § 3 Absatz 3)
 
-(Fundstelle: BGBl. I 2010, 262 - 263)
+(Fundstelle: BGBl. I 2021, 3508 - 3510)
 
-Unzulässige geschäftliche Handlungen im Sinne des § 3 Absatz 3 sind
+Folgende geschäftliche Handlungen sind gegenüber Verbrauchern stets
+unzulässig:
 
-1.  die unwahre Angabe eines Unternehmers, zu den Unterzeichnern eines
+## Irreführende geschäftliche Handlungen
+
+
+1.  unwahre Angabe über die Unterzeichnung eines Verhaltenskodexes
+
+    die unwahre Angabe eines Unternehmers, zu den Unterzeichnern eines
     Verhaltenskodexes zu gehören;
 
 
-2.  die Verwendung von Gütezeichen, Qualitätskennzeichen oder Ähnlichem
+2.  unerlaubte Verwendung von Gütezeichen und Ähnlichem
+
+    die Verwendung von Gütezeichen, Qualitätskennzeichen oder Ähnlichem
     ohne die erforderliche Genehmigung;
 
 
-3.  die unwahre Angabe, ein Verhaltenskodex sei von einer öffentlichen
+3.  unwahre Angabe über die Billigung eines Verhaltenskodexes
+
+    die unwahre Angabe, ein Verhaltenskodex sei von einer öffentlichen
     oder anderen Stelle gebilligt;
 
 
-4.  die unwahre Angabe, ein Unternehmer, eine von ihm vorgenommene
-    geschäftliche Handlung oder eine Ware oder Dienstleistung sei von
-    einer öffentlichen oder privaten Stelle bestätigt, gebilligt oder
-    genehmigt worden, oder die unwahre Angabe, den Bedingungen für die
-    Bestätigung, Billigung oder Genehmigung werde entsprochen;
+4.  unwahre Angabe über Anerkennungen durch Dritte
+
+    die unwahre Angabe,
+
+    a)  ein Unternehmer, eine von ihm vorgenommene geschäftliche Handlung oder
+        eine Ware oder Dienstleistung sei von einer öffentlichen oder privaten
+        Stelle bestätigt, gebilligt oder genehmigt worden, oder
 
 
-5.  Waren- oder Dienstleistungsangebote im Sinne des § 5a Absatz 3 zu
+    b)  den Bedingungen für die Bestätigung, Billigung oder Genehmigung werde
+        entsprochen;
+
+
+
+
+
+5.  Lockangebote ohne Hinweis auf Unangemessenheit der Bevorratungsmenge
+
+    Waren- oder Dienstleistungsangebote im Sinne des § 5b Absatz 1 zu
     einem bestimmten Preis, wenn der Unternehmer nicht darüber aufklärt,
     dass er hinreichende Gründe für die Annahme hat, er werde nicht in der
     Lage sein, diese oder gleichartige Waren oder Dienstleistungen für
     einen angemessenen Zeitraum in angemessener Menge zum genannten Preis
-    bereitzustellen oder bereitstellen zu lassen (Lockangebote). Ist die
-    Bevorratung kürzer als zwei Tage, obliegt es dem Unternehmer, die
-    Angemessenheit nachzuweisen;
+    bereitzustellen oder bereitstellen zu lassen; ist die Bevorratung
+    kürzer als zwei Tage, obliegt es dem Unternehmer, die Angemessenheit
+    nachzuweisen;
 
 
-6.  Waren- oder Dienstleistungsangebote im Sinne des § 5a Absatz 3 zu
+6.  Lockangebote zum Absatz anderer Waren oder Dienstleistungen
+
+    Waren- oder Dienstleistungsangebote im Sinne des § 5b Absatz 1 zu
     einem bestimmten Preis, wenn der Unternehmer sodann in der Absicht,
-    stattdessen eine andere Ware oder Dienstleistung abzusetzen, eine
-    fehlerhafte Ausführung der Ware oder Dienstleistung vorführt oder sich
-    weigert zu zeigen, was er beworben hat, oder sich weigert,
-    Bestellungen dafür anzunehmen oder die beworbene Leistung innerhalb
-    einer vertretbaren Zeit zu erbringen;
+    stattdessen eine andere Ware oder Dienstleistung abzusetzen,
+
+    a)  eine fehlerhafte Ausführung der Ware oder Dienstleistung vorführt,
 
 
-7.  die unwahre Angabe, bestimmte Waren oder Dienstleistungen seien
+    b)  sich weigert zu zeigen, was er beworben hat, oder
+
+
+    c)  sich weigert, Bestellungen dafür anzunehmen oder die beworbene
+        Leistung innerhalb einer vertretbaren Zeit zu erbringen;
+
+
+
+
+
+7.  unwahre Angabe über zeitliche Begrenzung des Angebots
+
+    die unwahre Angabe, bestimmte Waren oder Dienstleistungen seien
     allgemein oder zu bestimmten Bedingungen nur für einen sehr begrenzten
     Zeitraum verfügbar, um den Verbraucher zu einer sofortigen
     geschäftlichen Entscheidung zu veranlassen, ohne dass dieser Zeit und
     Gelegenheit hat, sich auf Grund von Informationen zu entscheiden;
 
 
-8.  Kundendienstleistungen in einer anderen Sprache als derjenigen, in der
+8.  Sprachenwechsel für Kundendienstleistungen bei einer in einer
+    Fremdsprache geführten Vertragsverhandlung
+
+    Kundendienstleistungen in einer anderen Sprache als derjenigen, in der
     die Verhandlungen vor dem Abschluss des Geschäfts geführt worden sind,
-    wenn die ursprünglich verwendete Sprache nicht Amtssprache des
-    Mitgliedstaats ist, in dem der Unternehmer niedergelassen ist; dies
-    gilt nicht, soweit Verbraucher vor dem Abschluss des Geschäfts darüber
-    aufgeklärt werden, dass diese Leistungen in einer anderen als der
-    ursprünglich verwendeten Sprache erbracht werden;
+    wenn die ursprünglich verwendete Sprache nicht Amtssprache desjenigen
+    Mitgliedstaats der Europäischen Union ist, in dem der Unternehmer
+    niedergelassen ist; dies gilt nicht, soweit Verbraucher vor dem
+    Abschluss des Geschäfts darüber aufgeklärt werden, dass diese
+    Leistungen in einer anderen als der ursprünglich verwendeten Sprache
+    erbracht werden;
 
 
-9.  die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks,
+9.  unwahre Angabe über die Verkehrsfähigkeit
+
+    die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks,
     eine Ware oder Dienstleistung sei verkehrsfähig;
 
 
-10. die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks,
+10. Darstellung gesetzlicher Verpflichtungen als Besonderheit eines
+    Angebots
+
+    die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks,
     gesetzlich bestehende Rechte stellten eine Besonderheit des Angebots
     dar;
 
 
-11. der vom Unternehmer finanzierte Einsatz redaktioneller Inhalte zu
+11. als Information getarnte Werbung
+
+    der vom Unternehmer finanzierte Einsatz redaktioneller Inhalte zu
     Zwecken der Verkaufsförderung, ohne dass sich dieser Zusammenhang aus
     dem Inhalt oder aus der Art der optischen oder akustischen Darstellung
-    eindeutig ergibt (als Information getarnte Werbung);
+    eindeutig ergibt;
 
 
-12. unwahre Angaben über Art und Ausmaß einer Gefahr für die persönliche
+11a. verdeckte Werbung in Suchergebnissen
+
+    die Anzeige von Suchergebnissen aufgrund der Online-Suchanfrage eines
+    Verbrauchers, ohne dass etwaige bezahlte Werbung oder spezielle
+    Zahlungen, die dazu dienen, ein höheres Ranking der jeweiligen Waren
+    oder Dienstleistungen im Rahmen der Suchergebnisse zu erreichen,
+    eindeutig offengelegt werden;
+
+
+12. unwahre Angabe über Gefahren für die persönliche Sicherheit
+
+    unwahre Angaben über Art und Ausmaß einer Gefahr für die persönliche
     Sicherheit des Verbrauchers oder seiner Familie für den Fall, dass er
     die angebotene Ware nicht erwirbt oder die angebotene Dienstleistung
     nicht in Anspruch nimmt;
 
 
-13. Werbung für eine Ware oder Dienstleistung, die der Ware oder
-    Dienstleistung eines bestimmten Herstellers ähnlich ist, wenn dies in
-    der Absicht geschieht, über die betriebliche Herkunft der beworbenen
+13. Täuschung über betriebliche Herkunft
+
+    Werbung für eine Ware oder Dienstleistung, die der Ware oder
+    Dienstleistung eines bestimmten Herstellers ähnlich ist, wenn in der
+    Absicht geworben wird, über die betriebliche Herkunft der beworbenen
     Ware oder Dienstleistung zu täuschen;
 
 
-14. die Einführung, der Betrieb oder die Förderung eines Systems zur
+14. Schneeball- oder Pyramidensystem
+
+    die Einführung, der Betrieb oder die Förderung eines Systems zur
     Verkaufsförderung, bei dem vom Verbraucher ein finanzieller Beitrag
-    für die Möglichkeit verlangt wird, allein oder hauptsächlich durch die
-    Einführung weiterer Teilnehmer in das System eine Vergütung zu
-    erlangen (Schneeball- oder Pyramidensystem);
+    für die Möglichkeit verlangt wird, eine Vergütung allein oder
+    zumindest hauptsächlich durch die Einführung weiterer Teilnehmer in
+    das System zu erlangen;
 
 
-15. die unwahre Angabe, der Unternehmer werde demnächst sein Geschäft
+15. unwahre Angabe über Geschäftsaufgabe
+
+    die unwahre Angabe, der Unternehmer werde demnächst sein Geschäft
     aufgeben oder seine Geschäftsräume verlegen;
 
 
-16. die Angabe, durch eine bestimmte Ware oder Dienstleistung ließen sich
+16. Angaben über die Erhöhung der Gewinnchancen bei Glücksspielen
+
+    die Angabe, durch eine bestimmte Ware oder Dienstleistung ließen sich
     die Gewinnchancen bei einem Glücksspiel erhöhen;
 
 
-17. die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der
-    Verbraucher habe bereits einen Preis gewonnen oder werde ihn gewinnen
-    oder werde durch eine bestimmte Handlung einen Preis gewinnen oder
-    einen sonstigen Vorteil erlangen, wenn es einen solchen Preis oder
-    Vorteil tatsächlich nicht gibt, oder wenn jedenfalls die Möglichkeit,
-    einen Preis oder sonstigen Vorteil zu erlangen, von der Zahlung eines
-    Geldbetrags oder der Übernahme von Kosten abhängig gemacht wird;
+17. unwahre Angaben über die Heilung von Krankheiten
 
-
-18. die unwahre Angabe, eine Ware oder Dienstleistung könne Krankheiten,
+    die unwahre Angabe, eine Ware oder Dienstleistung könne Krankheiten,
     Funktionsstörungen oder Missbildungen heilen;
 
 
-19. eine unwahre Angabe über die Marktbedingungen oder Bezugsquellen, um
+18. unwahre Angabe über Marktbedingungen oder Bezugsquellen
+
+    eine unwahre Angabe über die Marktbedingungen oder Bezugsquellen, um
     den Verbraucher dazu zu bewegen, eine Ware oder Dienstleistung zu
     weniger günstigen Bedingungen als den allgemeinen Marktbedingungen
     abzunehmen oder in Anspruch zu nehmen;
 
 
-20. das Angebot eines Wettbewerbs oder Preisausschreibens, wenn weder die
+19. Nichtgewährung ausgelobter Preise
+
+    das Angebot eines Wettbewerbs oder Preisausschreibens, wenn weder die
     in Aussicht gestellten Preise noch ein angemessenes Äquivalent
     vergeben werden;
 
 
-21. das Angebot einer Ware oder Dienstleistung als „gratis“, „umsonst“,
-    „kostenfrei“ oder dergleichen, wenn hierfür gleichwohl Kosten zu
-    tragen sind; dies gilt nicht für Kosten, die im Zusammenhang mit dem
-    Eingehen auf das Waren- oder Dienstleistungsangebot oder für die
-    Abholung oder Lieferung der Ware oder die Inanspruchnahme der
-    Dienstleistung unvermeidbar sind;
+20. unwahre Bewerbung als kostenlos
+
+    das Angebot einer Ware oder Dienstleistung als „gratis“, „umsonst“,
+    „kostenfrei“ oder dergleichen, wenn für die Ware oder Dienstleistung
+    gleichwohl Kosten zu tragen sind; dies gilt nicht für Kosten, die im
+    Zusammenhang mit dem Eingehen auf das Waren- oder
+    Dienstleistungsangebot oder für die Abholung oder Lieferung der Ware
+    oder die Inanspruchnahme der Dienstleistung unvermeidbar sind;
 
 
-22. die Übermittlung von Werbematerial unter Beifügung einer
+21. Irreführung über das Vorliegen einer Bestellung
+
+    die Übermittlung von Werbematerial unter Beifügung einer
     Zahlungsaufforderung, wenn damit der unzutreffende Eindruck vermittelt
     wird, die beworbene Ware oder Dienstleistung sei bereits bestellt;
 
 
-23. die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der
+22. Irreführung über Unternehmereigenschaft
+
+    die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der
     Unternehmer sei Verbraucher oder nicht für Zwecke seines Geschäfts,
     Handels, Gewerbes oder Berufs tätig;
 
 
-24. die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, es
+23. Irreführung über Kundendienst in anderen Mitgliedstaaten der
+    Europäischen Union
+
+    die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, es
     sei im Zusammenhang mit Waren oder Dienstleistungen in einem anderen
     Mitgliedstaat der Europäischen Union als dem des Warenverkaufs oder
     der Dienstleistung ein Kundendienst verfügbar;
 
 
-25. das Erwecken des Eindrucks, der Verbraucher könne bestimmte
+23a. Wiederverkauf von Eintrittskarten für Veranstaltungen
+
+    der Wiederverkauf von Eintrittskarten für Veranstaltungen an
+    Verbraucher, wenn der Unternehmer diese Eintrittskarten unter
+    Verwendung solcher automatisierter Verfahren erworben hat, die dazu
+    dienen, Beschränkungen zu umgehen in Bezug auf die Zahl der von einer
+    Person zu erwerbenden Eintrittskarten oder in Bezug auf andere für den
+    Verkauf der Eintrittskarten geltende Regeln;
+
+
+23b. Irreführung über die Echtheit von Verbraucherbewertungen
+
+    die Behauptung, dass Bewertungen einer Ware oder Dienstleistung von
+    solchen Verbrauchern stammen, die diese Ware oder Dienstleistung
+    tatsächlich erworben oder genutzt haben, ohne dass angemessene und
+    verhältnismäßige Maßnahmen zur Überprüfung ergriffen wurden, ob die
+    Bewertungen tatsächlich von solchen Verbrauchern stammen;
+
+
+23c. gefälschte Verbraucherbewertungen
+
+    die Übermittlung oder Beauftragung gefälschter Bewertungen oder
+    Empfehlungen von Verbrauchern sowie die falsche Darstellung von
+    Bewertungen oder Empfehlungen von Verbrauchern in sozialen Medien zu
+    Zwecken der Verkaufsförderung;
+
+
+
+
+## Aggressive geschäftliche Handlungen
+
+
+24. räumliches Festhalten des Verbrauchers
+
+    das Erwecken des Eindrucks, der Verbraucher könne bestimmte
     Räumlichkeiten nicht ohne vorherigen Vertragsabschluss verlassen;
 
 
-26. bei persönlichem Aufsuchen in der Wohnung die Nichtbeachtung einer
-    Aufforderung des Besuchten, diese zu verlassen oder nicht zu ihr
-    zurückzukehren, es sein denn, der Besuch ist zur rechtmäßigen
+25. Nichtverlassen der Wohnung des Verbrauchers trotz Aufforderung
+
+    bei persönlichem Aufsuchen des Verbrauchers in dessen Wohnung die
+    Nichtbeachtung seiner Aufforderung, die Wohnung zu verlassen oder
+    nicht zu ihr zurückzukehren, es sei denn, das Aufsuchen ist zur
+    rechtmäßigen Durchsetzung einer vertraglichen Verpflichtung
+    gerechtfertigt;
+
+
+26. unzulässiges hartnäckiges Ansprechen über Fernabsatzmittel
+
+    hartnäckiges und unerwünschtes Ansprechen des Verbrauchers mittels
+    Telefonanrufen, unter Verwendung eines Faxgerätes, elektronischer Post
+    oder sonstiger für den Fernabsatz geeigneter Mittel der kommerziellen
+    Kommunikation, es sei denn, dieses Verhalten ist zur rechtmäßigen
     Durchsetzung einer vertraglichen Verpflichtung gerechtfertigt;
 
 
-27. Maßnahmen, durch die der Verbraucher von der Durchsetzung seiner
+27. Verhinderung der Durchsetzung vertraglicher Rechte im
+    Versicherungsverhältnis
+
+    Maßnahmen, durch die der Verbraucher von der Durchsetzung seiner
     vertraglichen Rechte aus einem Versicherungsverhältnis dadurch
-    abgehalten werden soll, dass von ihm bei der Geltendmachung seines
-    Anspruchs die Vorlage von Unterlagen verlangt wird, die zum Nachweis
-    dieses Anspruchs nicht erforderlich sind, oder dass Schreiben zur
-    Geltendmachung eines solchen Anspruchs systematisch nicht beantwortet
-    werden;
+    abgehalten werden soll, dass
+
+    a)  von ihm bei der Geltendmachung eines Anspruchs die Vorlage von
+        Unterlagen verlangt wird, die zum Nachweis dieses Anspruchs nicht
+        erforderlich sind, oder
 
 
-28. die in eine Werbung einbezogene unmittelbare Aufforderung an Kinder,
+    b)  Schreiben zur Geltendmachung eines Anspruchs systematisch nicht
+        beantwortet werden;
+
+
+
+
+
+28. Kaufaufforderung an Kinder
+
+    die in eine Werbung einbezogene unmittelbare Aufforderung an Kinder,
     selbst die beworbene Ware zu erwerben oder die beworbene
     Dienstleistung in Anspruch zu nehmen oder ihre Eltern oder andere
     Erwachsene dazu zu veranlassen;
 
 
-29. die Aufforderung zur Bezahlung nicht bestellter, aber gelieferter
+29. Aufforderung zur Bezahlung nicht bestellter Waren oder
+    Dienstleistungen
+
+    die Aufforderung zur Bezahlung nicht bestellter, aber gelieferter
     Waren oder erbrachter Dienstleistungen oder eine Aufforderung zur
-    Rücksendung oder Aufbewahrung nicht bestellter Sachen und
+    Rücksendung oder Aufbewahrung nicht bestellter Waren;
 
 
-30. die ausdrückliche Angabe, dass der Arbeitsplatz oder Lebensunterhalt
-    des Unternehmers gefährdet sei, wenn der Verbraucher die Ware oder
-    Dienstleistung nicht abnehme.
+30. Angaben über die Gefährdung des Arbeitsplatzes oder des
+    Lebensunterhalts
+
+    die ausdrückliche Angabe, dass der Arbeitsplatz oder der
+    Lebensunterhalt des Unternehmers gefährdet sei, wenn der Verbraucher
+    die Ware oder Dienstleistung nicht abnehme;
+
+
+31. Irreführung über Preis oder Gewinn
+
+    die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der
+    Verbraucher habe bereits einen Preis gewonnen oder werde ihn gewinnen
+    oder werde durch eine bestimmte Handlung einen Preis gewinnen oder
+    einen sonstigen Vorteil erlangen, wenn
+
+    a)  es einen solchen Preis oder Vorteil tatsächlich nicht gibt oder
+
+
+    b)  die Möglichkeit, einen solchen Preis oder Vorteil zu erlangen, von der
+        Zahlung eines Geldbetrags oder der Übernahme von Kosten abhängig
+        gemacht wird.
+
+
+
+
+
+32. Aufforderung zur Zahlung bei unerbetenen Besuchen in der Wohnung eines
+    Verbrauchers am Tag des Vertragsschlusses
+
+    bei einem im Rahmen eines unerbetenen Besuchs in der Wohnung eines
+    Verbrauchers geschlossenen Vertrag die an den Verbraucher gerichtete
+    Aufforderung zur Bezahlung der Ware oder Dienstleistung vor Ablauf des
+    Tages des Vertragsschlusses; dies gilt nicht, wenn der Verbraucher
+    einen Betrag unter 50 Euro schuldet.
 
 
 

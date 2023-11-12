@@ -493,7 +493,7 @@ nicht,
 3.  die regelmäßig psychoaktive Substanzen missbrauchen,
 
 
-4.  für die eine rechtliche Betreuung nach den §§ 1896 ff. des
+4.  für die eine rechtliche Betreuung nach den §§ 1814 bis 1881 des
     Bürgerlichen Gesetzbuchs besteht.
 
 
@@ -1410,7 +1410,7 @@ nicht,
 3.  die regelmäßig psychoaktive Substanzen missbrauchen,
 
 
-4.  für die eine rechtliche Betreuung nach den §§ 1896 ff. des
+4.  für die eine rechtliche Betreuung nach den §§ 1814 bis 1881 des
     Bürgerlichen Gesetzbuchs besteht.
 
 

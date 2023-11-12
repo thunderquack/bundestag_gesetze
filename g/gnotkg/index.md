@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 47 G v. 10.8.2021 I 3436
+:   Art. 7 Abs. 5 G v. 31.10.2022 I 1966
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
@@ -486,9 +486,10 @@ Kostenansatz ebenfalls berichtigt werden.
 #### § 19 Einforderung der Notarkosten
 
 (1) Die Notarkosten dürfen nur aufgrund einer dem Kostenschuldner
-mitgeteilten, von dem Notar unterschriebenen Berechnung eingefordert
-werden. Der Lauf der Verjährungsfrist ist nicht von der Mitteilung der
-Berechnung abhängig.
+mitgeteilten, von dem Notar unterschriebenen oder mit seiner
+qualifizierten elektronischen Signatur versehenen Berechnung
+eingefordert werden. Der Lauf der Verjährungsfrist ist nicht von der
+Mitteilung der Berechnung abhängig.
 
 (2) Die Berechnung muss enthalten
 
@@ -1162,9 +1163,9 @@ den von ihm zugrunde gelegten Geschäftswert hinsichtlich eines jeden
 Gegenstands mitzuteilen, soweit dieser für die vom Gericht zu
 erhebenden Gebühren von Bedeutung ist. Auf Ersuchen des Gerichts hat
 der Notar, der Erklärungen beurkundet hat, die bei Gericht eingereicht
-worden sind, oder Unterschriften oder Handzeichen unter solchen
-Erklärungen beglaubigt hat, in entsprechendem Umfang Auskunft zu
-erteilen.
+worden sind, oder Unterschriften oder Handzeichen unter oder
+qualifizierte elektronische Signaturen an solchen Erklärungen
+beglaubigt hat, in entsprechendem Umfang Auskunft zu erteilen.
 
 (2) Legt das Gericht seinem Kostenansatz einen von Absatz 1
 abweichenden Geschäftswert zugrunde, so ist dieser dem Notar
@@ -1610,10 +1611,10 @@ eine Entscheidung oder die Vornahme einer Handlung werden in jedem
 Rechtszug hinsichtlich eines jeden Teils des Verfahrensgegenstands nur
 einmal erhoben.
 
-(2) Für Eintragungen in das Vereinsregister, Güterrechtsregister,
-Grundbuch, Schiffs- und Schiffsbauregister und in das Register für
-Pfandrechte an Luftfahrzeugen werden die Gebühren für jede Eintragung
-gesondert erhoben, soweit nichts anderes bestimmt ist.
+(2) Für Eintragungen in das Vereinsregister, Grundbuch, Schiffs- und
+Schiffsbauregister und in das Register für Pfandrechte an
+Luftfahrzeugen werden die Gebühren für jede Eintragung gesondert
+erhoben, soweit nichts anderes bestimmt ist.
 
 
 #### § 56 Teile des Verfahrensgegenstands
@@ -1657,11 +1658,15 @@ Kostenverzeichnis nichts anderes bestimmt ist.
 
 
 3.  die Entgegennahme, Prüfung und Aufbewahrung der zum Handels- oder
-    Genossenschaftsregister einzureichenden Unterlagen sowie
+    Genossenschaftsregister einzureichenden Unterlagen,
 
 
 4.  die Übertragung von Schriftstücken in ein elektronisches Dokument nach
-    § 9 Absatz 2 des Handelsgesetzbuchs.
+    § 9 Absatz 2 des Handelsgesetzbuchs sowie
+
+
+5.  die Bereitstellung von Registerdaten sowie von Dokumenten, die zum
+    Register eingereicht wurden, zum Abruf.
 
 
 
@@ -1778,7 +1783,7 @@ anzuwenden.
 
 
 
-##### § 67 Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereins- und Stiftungssachen
+##### § 67 Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereinssachen
 
 (1) Der Geschäftswert in einem unternehmensrechtlichen Verfahren und
 in einem Verfahren in Vereinssachen beträgt
@@ -1791,7 +1796,7 @@ in einem Verfahren in Vereinssachen beträgt
     Genossenschaften 30 000 Euro,
 
 
-3.  bei Vereinen und Stiftungen 5 000 Euro und
+3.  bei Vereinen 5 000 Euro und
 
 
 4.  in sonstigen Fällen 10 000 Euro,
@@ -2195,8 +2200,8 @@ Kostenverzeichnisses) und die sonstigen notariellen Verfahren (Teil 2
 Hauptabschnitt 3 des Kostenverzeichnisses).
 
 (2) Das Beurkundungsverfahren im Sinne dieses Gesetzes ist auf die
-Errichtung einer Niederschrift (§§ 8 und 36 des Beurkundungsgesetzes)
-gerichtet.
+Errichtung einer Niederschrift (§§ 8, 16b und 36 des
+Beurkundungsgesetzes) gerichtet.
 
 
 #### § 86 Beurkundungsgegenstand
@@ -3054,11 +3059,11 @@ Geschäftswerte für die Beurkundung der in der Versammlung zu fassenden
 Beschlüsse. Der Geschäftswert beträgt höchstens 5 Millionen Euro.
 
 
-##### § 121 Beglaubigung von Unterschriften oder Handzeichen
+##### § 121 Beglaubigung von Unterschriften, Handzeichen oder qualifizierten elektronischen Signaturen
 
-Der Geschäftswert für die Beglaubigung von Unterschriften oder
-Handzeichen bestimmt sich nach den für die Beurkundung der Erklärung
-geltenden Vorschriften.
+Der Geschäftswert für die Beglaubigung von Unterschriften, Handzeichen
+oder qualifizierten elektronischen Signaturen bestimmt sich nach den
+für die Beurkundung der Erklärung geltenden Vorschriften.
 
 
 ##### § 122 Rangbescheinigung
@@ -3457,7 +3462,7 @@ Endentscheidung wegen des Hauptgegenstands
 
 Abschnitt 1 Vereinsregistersachen
 
-Abschnitt 2 Güterrechtsregistersachen
+Abschnitt 2 (weggefallen)
 
 Abschnitt 3 Zwangs- und Ordnungsgeld in Verfahren nach den §§ 389 bis
 392 FamFG
@@ -3474,8 +3479,7 @@ Abschnitt 4 Löschungs- und Auflösungsverfahren sowie Verfahren über
 die Entziehung der Rechtsfähigkeit eines Vereins vor dem Amtsgericht
 
 Abschnitt 5 Unternehmensrechtliche und ähnliche Verfahren, Verfahren
-vor dem Registergericht und Vereins- und Stiftungssachen vor dem
-Amtsgericht
+vor dem Registergericht und Vereinssachen vor dem Amtsgericht
 
 Abschnitt 6 Rechtsmittelverfahren in den in den Abschnitten 4 und 5
 genannten Verfahren
@@ -4607,7 +4611,7 @@ Teil 1
         einer Rechtsverordnung nach § 58 Abs. 1 GNotKG erhoben werden,
         2\. unternehmensrechtliche Verfahren (§ 375 FamFG) und ähnliche
         Verfahren sowie
-        3\. bestimmte Vereins- und Stiftungssachen.
+        3\. bestimmte Vereinssachen.
         (2) Gebühren werden nicht erhoben
         1\. für die aus Anlass eines Insolvenzverfahrens von Amts wegen
         vorzunehmenden Eintragungen,
@@ -4648,23 +4652,21 @@ Teil 1
     *   50,00 €
 
 
+*    *   13102
+
+    *   Bereitstellung von Daten oder Dokumenten zum Abruf  ..........
+        Die Gebühr entsteht neben jeder Gebühr für eine Eintragung in das
+        Vereinsregister nach diesem Abschnitt gesondert.
+
+    *   1/3
+        der für die
+        Eintragung
+        bestimmten
+        Gebühr
+
+
 *    *   Abschnitt 2
-        **Güterrechtsregistersachen**
-
-
-*    *   13200
-
-    *   Verfahren über die Eintragung aufgrund eines Ehe- oder
-        Lebenspartnerschaftsvertrags
-
-    *   100,00 €
-
-
-*    *   13201
-
-    *   Verfahren über sonstige Eintragungen  ..........
-
-    *   50,00 €
+        **(weggefallen)**
 
 
 *    *   Abschnitt 3
@@ -4784,8 +4786,7 @@ Teil 1
 
 *    *   Abschnitt 5
         Unternehmensrechtliche und ähnliche Verfahren, Verfahren
-        **vor dem Registergericht und Vereins- und Stiftungssachen vor dem
-        Amtsgericht**
+        **vor dem Registergericht und Vereinssachen vor dem Amtsgericht**
 
 
 *    *   Vorbemerkung 1.3.5:
@@ -4818,7 +4819,7 @@ Teil 1
         über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und
         Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl
         erzeugenden Industrie und
-        4\. Vereins- oder Stiftungssachen über
+        4\. Vereinssachen über
 
         a)  die Notbestellung von Vorstandsmitgliedern oder Liquidatoren,
 
@@ -6943,8 +6944,8 @@ Teil 2
 *    *   Vorbemerkung 2.1:
         (1) Die Gebühr für das Beurkundungsverfahren entsteht für die
         Vorbereitung und Durchführung der Beurkundung in Form einer
-        Niederschrift (§§ 8 und 36 BeurkG) einschließlich der Beschaffung der
-        Information.
+        Niederschrift (§§ 8, 16b und 36 BeurkG) einschließlich der Beschaffung
+        der Information.
         (2) Durch die Gebühren dieses Hauptabschnitts werden auch abgegolten
         1\. die Übermittlung von Anträgen und Erklärungen an ein Gericht oder
         eine Behörde,
@@ -7068,12 +7069,14 @@ Teil 2
 
 *    *   Vorbemerkung 2.1.3:
         (1) Ein Beurkundungsverfahren ist vorzeitig beendet, wenn vor
-        Unterzeichnung der Niederschrift durch den Notar der
-        Beurkundungsauftrag zurückgenommen oder zurückgewiesen wird oder der
-        Notar feststellt, dass nach seiner Überzeugung mit der beauftragten
-        Beurkundung aus Gründen, die nicht in seiner Person liegen, nicht mehr
-        zu rechnen ist. Wird das Verfahren länger als 6 Monate nicht mehr
-        betrieben, ist in der Regel nicht mehr mit der Beurkundung zu rechnen.
+        Unterzeichnung der Niederschrift durch den Notar oder bevor der Notar
+        die elektronische Niederschrift mit seiner qualifizierten
+        elektronischen Signatur versehen hat der Beurkundungsauftrag
+        zurückgenommen oder zurückgewiesen wird oder der Notar feststellt,
+        dass nach seiner Überzeugung mit der beauftragten Beurkundung aus
+        Gründen, die nicht in seiner Person liegen, nicht mehr zu rechnen ist.
+        Wird das Verfahren länger als 6 Monate nicht mehr betrieben, ist in
+        der Regel nicht mehr mit der Beurkundung zu rechnen.
         (2) Führt der Notar nach der vorzeitigen Beendigung des
         Beurkundungsverfahrens demnächst auf der Grundlage der bereits
         erbrachten notariellen Tätigkeit ein erneutes Beurkundungsverfahren
@@ -7181,7 +7184,7 @@ Teil 2
         Geschäftsanteile übernommen haben (§ 57 Abs. 3 Nr. 2 GmbHG),
         4\. Anforderung und Prüfung einer Entscheidung des Familien-,
         Betreuungs- oder Nachlassgerichts einschließlich aller Tätigkeiten des
-        Notars gemäß den §§ 1828 und 1829 BGB im Namen der Beteiligten sowie
+        Notars gemäß den §§ 1855 und 1856 BGB im Namen der Beteiligten sowie
         die Erteilung einer Bescheinigung über die Wirksamkeit oder
         Unwirksamkeit des Rechtsgeschäfts,
         5\. Anforderung und Prüfung einer Vollmachtsbestätigung oder einer
@@ -7799,9 +7802,9 @@ Teil 2
         worden ist. Sie entstehen jedoch nicht in den Fällen der Vorbemerkung
         2\.2 Abs. 2.
         (2) Beglaubigt der Notar, der den Entwurf gefertigt hat, demnächst
-        unter dem Entwurf eine oder mehrere Unterschriften oder Handzeichen,
-        entstehen für die erstmaligen Beglaubigungen, die an ein und demselben
-        Tag erfolgen, keine Gebühren.
+        unter dem Entwurf eine oder mehrere Unterschriften, Handzeichen oder
+        qualifizierte elektronische Signaturen, entstehen für die erstmaligen
+        Beglaubigungen, die an ein und demselben Tag erfolgen, keine Gebühren.
         (3) Gebühren nach diesem Abschnitt entstehen auch, wenn der Notar
         keinen Entwurf gefertigt, aber einen ihm vorgelegten Entwurf
         überprüft, geändert oder ergänzt hat. Dies gilt nicht für die Prüfung
@@ -7923,11 +7926,13 @@ Teil 2
 
 *    *   25100
 
-    *   Beglaubigung einer Unterschrift oder eines Handzeichens  ..........
+    *   Beglaubigung einer Unterschrift, eines Handzeichens oder einer
+        qualifizierten elektronischen Signatur  ..........
         (1) Die Gebühr entsteht nicht in den in Vorbemerkung 2.4.1 Abs. 2
         genannten Fällen.
-        (2) Mit der Gebühr ist die Beglaubigung mehrerer Unterschriften oder
-        Handzeichen abgegolten, wenn diese in einem einzigen Vermerk erfolgt.
+        (2) Mit der Gebühr ist die Beglaubigung mehrerer Unterschriften,
+        Handzeichen oder qualifizierter elektronischer Signaturen abgegolten,
+        wenn diese in einem einzigen Vermerk erfolgt.
 
     *   0,2
         – mindestens 20,00 €,
@@ -7937,8 +7942,7 @@ Teil 2
 
 *    *   25101
 
-    *   Die Erklärung, unter der die Beglaubigung von Unterschriften oder
-        Handzeichen erfolgt, betrifft
+    *   Die Beglaubigung erfolgt für  ..........
         1\. eine Erklärung, für die nach den Staatsschuldbuchgesetzen eine
         öffentliche Beglaubigung vorgeschrieben ist,
         2\. eine Zustimmung gemäß § 27 der Grundbuchordnung sowie einen damit
@@ -7961,7 +7965,9 @@ Teil 2
         Berechtigung eines gesetzlichen Vertreters, die der vom Notar
         gefertigten Niederschrift beizulegen sind (§ 12 BeurkG).
         (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein
-        elektronisches Dokument übertragenes Schriftstück gleich.
+        elektronisches Dokument übertragenes Schriftstück gleich, insbesondere
+        wenn dieses einer vom Notar gefertigten elektronischen Niederschrift
+        beigefügt ist (§ 16d des Beurkundungsgesetzes).
 
     *   1,00 €
         für jede
@@ -8263,7 +8269,8 @@ Teil 2
         wegen,
         2\. die Errichtung, den Widerruf oder die Änderung einer Vollmacht, die
         zur Registrierung im Zentralen Vorsorgeregister geeignet ist,
-        3\. die Abgabe einer Erklärung gemäß § 1897 Abs. 4 BGB oder
+        3\. die Abgabe einer Erklärung gemäß § 1816 Abs. 2 BGB betreffend die
+        Person eines Betreuers oder
         4\. eine Willensäußerung eines Beteiligten hinsichtlich seiner
         medizinischen Behandlung oder deren Abbruch:
         Zusatzgebühr  ..........
@@ -8537,8 +8544,8 @@ Teil 3
 *    *   31015
 
     *   An den Verfahrenspfleger zu zahlende Beträge  ..........
-        Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1836c
-        BGB erhoben.
+        Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880
+        Abs. 2 BGB erhoben.
 
     *   in voller Höhe
 
@@ -8769,6 +8776,21 @@ Teil 3
         Testamentsregisters sowie des Elektronischen Urkundenarchivs.
 
     *   in voller Höhe
+
+
+*    *   32016
+
+    *   Pauschale für die Inanspruchnahme des Videokommunikationssystems der
+        Bundesnotarkammer (§ 78p BNotO):
+        1\. für die Beglaubigung einer qualifizierten elektronischen Signatur
+         ..........
+        2\.  für das Beurkundungsverfahren  ..........
+        Erfolgt die Beglaubigung mehrerer qualifizierter elektronischer
+        Signaturen in einem einzigen Vermerk, entsteht die Pauschale nur
+        einmal.
+
+    *   8,00 €
+        25,00 €
 
 
 

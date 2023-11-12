@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1814
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.1.2016 I 50
-
-Änderung durch
-:   Art. 10 Abs. 5 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 14.11.2022 I 2030
 
 
 ## Eingangsformel
@@ -69,21 +66,20 @@ Durchführung den Mitgliedstaaten der Europäischen Union obliegt.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-in Absatz 1 bezeichneten Verfahren zu regeln, soweit dies zur
+und Klimaschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates
+die in Absatz 1 bezeichneten Verfahren zu regeln, soweit dies zur
 Durchführung der in § 1 Absatz 1 genannten Rechtsakte erforderlich
 ist.
 
-(3) Ein Einspruch nach Artikel 21 der Verordnung (EU) Nr. 1151/2012
-gegen die beabsichtigte Eintragung eines Namens einer garantiert
-traditionellen Spezialität in das von der Europäischen Kommission
-geführte Register der garantiert traditionellen Spezialitäten ist bei
-der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei
-Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der
-Europäischen Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU)
-Nr. 1151/2012 erfolgt ist. Der Einspruch ist innerhalb von zwei
-Monaten nach Einreichung zu begründen. Die Gründe, auf welche der
-Einspruch gestützt wird, sind anzugeben.
+(3) Ein mit Gründen versehener Einspruch nach Artikel 21 der
+Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung eines
+Namens einer garantiert traditionellen Spezialität in das von der
+Europäischen Kommission geführte Register der garantiert
+traditionellen Spezialitäten ist bei der Bundesanstalt für
+Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der
+Veröffentlichung einzulegen, die im Amtsblatt der Europäischen
+Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU) Nr.
+1151/2012 erfolgt ist.
 
 
 ## § 3 Unterlassungs- und Schadensersatzanspruch
@@ -93,7 +89,9 @@ Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c
 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8
 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung
 von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen
-werden.
+werden. Das Recht nach Satz 1 kann auch von einer Vereinigung im Sinne
+des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 1151/2012 geltend
+gemacht werden.
 
 (2) Wer den Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2
 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 vorsätzlich oder
@@ -191,7 +189,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (6) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
-und Energie und der Finanzen durch Rechtsverordnung, die nicht der
+und Klimaschutz und der Finanzen durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, die Voraussetzungen und das
 Verfahren der Überwachung der Agrarerzeugnisse oder Lebensmittel beim
 innergemeinschaftlichen Verbringen oder bei der Einfuhr oder Ausfuhr

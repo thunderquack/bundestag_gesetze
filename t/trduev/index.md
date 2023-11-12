@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2090
 
-Änderung durch
-:   Art. 10 G v. 25.6.2021 I 2083 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 10 G v. 25.6.2021 I 2083
 
 
 ## Eingangsformel

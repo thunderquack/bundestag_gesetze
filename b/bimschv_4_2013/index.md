@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 31.5.2017 I 1440;
 
-Geändert durch
-:   Art. 1 V v. 12.1.2021 I 69
+Zuletzt geändert durch
+:   Art. 1 V v. 12.10.2022 I 1799
 
 
 ## § 1 Genehmigungsbedürftige Anlagen
@@ -179,7 +179,7 @@ gekennzeichnet sind.
 
 ## Anhang 1
 
-(Fundstelle: BGBl. I 2017, 1443 — 1465)
+(Fundstelle: BGBl. I 2017, 1443 — 1465; bzgl. )
 
 **Rohstoffbegriff in Nummer 7**
 
@@ -4313,7 +4313,7 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 
 *    *   9.1.1.1
 
-    *   30 Tonnen oder mehr,
+    *   50 Tonnen oder mehr,
 
     *   **G**
 
@@ -4321,7 +4321,7 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 
 *    *   9.1.1.2
 
-    *   3 Tonnen bis weniger als 30 Tonnen,
+    *   3 Tonnen bis weniger als 50 Tonnen,
 
     *   **V**
 

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398, 1422
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 Nr. 10 V v. 26.11.2021 I 4982
-
-Änderung durch
-:   Art. 1 Nr. 15 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 Nr. 15 V v. 5.1.2022 I 2
 
 
 ## Inhaltsverzeichnis
@@ -1797,8 +1794,7 @@ angepasst werden. In der Tabelle bedeuten
             Buchstabe a
             Doppelbuchstabe aa
 
-        *   automatisierter externer
-            Defibrillator
+        *   automatisierter externer Defibrillator
 
         *   N.E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung
 
@@ -2128,8 +2124,7 @@ angepasst werden. In der Tabelle bedeuten
 
     *        *   5.08 Nr. 3
 
-        *   automatisierter externer
-            Defibrillator
+        *   automatisierter externer Defibrillator
 
         *   E.U., spätestens bei Erneuerung der Fahrtauglichkeitsbescheinigung
             nach dem 01.01.2024

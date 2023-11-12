@@ -16,19 +16,10 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 13 G v. 3.12.2020 I 2744
+:   Art. 2 G v. 5.7.2021 I 2281
 
 Änderung durch
-:   Art. 2 G v. 15.1.2021 I 530 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Änderung durch
-:   Art. 2 G v. 5.7.2021 I 2281 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Mittelbare änderung durch
-:   Art. 154a Nr. 3 Buchst. b G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+:   Art. 2 G v. 8.10.2023 I Nr. 271 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -197,7 +188,7 @@ gültigen Ausweis der Bundesrepublik Deutschland besitzen.
 
 (2) Ausweise sind Eigentum der Bundesrepublik Deutschland.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat bestimmt
+(3) Das Bundesministerium des Innern und für Heimat bestimmt
 
 1.  den Ausweishersteller,
 
@@ -329,7 +320,7 @@ Angaben enthalten:
 
 
 
-Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte
+Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte
 Zugangsnummer automatisiert gelesen werden.
 
 (5) Der Personalausweis enthält ein elektronisches Speicher- und
@@ -550,6 +541,9 @@ Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig
 ist. Hat die antragstellende Person keine Wohnung, so ist die
 Personalausweisbehörde zuständig, in deren Bezirk sie sich
 vorübergehend aufhält.
+
+(1a) Für das Führen des Personalausweisregisters nach § 23 ist die
+Personalausweisbehörde zuständig, welche den Ausweis ausgestellt hat.
 
 (2) Im Ausland sind die vom Auswärtigen Amt bestimmten
 Auslandsvertretungen zuständig, in deren Bezirk sich die
@@ -820,19 +814,8 @@ Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer
 4 festzustellen.
 
 
-### § 13 Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort
+### § 13 (weggefallen)
 
-Der Ausweishersteller übersendet antragstellenden Personen zum Zweck
-der Verwendung, Sperrung und Entsperrung des elektronischen
-Identitätsnachweises mit dem Personalausweis die Geheimnummer, die
-Entsperrnummer und das Sperrkennwort. Die Geheimnummer wird auf einer
-von den sonstigen Unterlagen gesonderten Seite übermittelt. Soweit die
-antragstellende Person berechtigte Gründe darlegt, werden die
-Unterlagen nach Satz 1 an die Personalausweisbehörde übersandt, die
-den Personalausweis aushändigt. Diese stellt dem Ausweisinhaber die
-Unterlagen zur Verfügung. Die Personalausweisbehörde hat den
-Ausweisinhaber bei Antragstellung auf die Risiken dieses Verfahrens
-hinzuweisen.
 
 
 ## Abschnitt 3 - Umgang mit personenbezogenen Daten
@@ -888,29 +871,55 @@ Abrufe aus dem polizeilichen Fahndungsbestand, die zu einer
 Feststellung geführt haben.
 
 
-### § 16 (weggefallen)
+### § 16 Echtheitsprüfung und Identitätsprüfung; Verarbeitung von Personalausweisdaten
+
+(1) Soweit die Polizeivollzugsbehörden, die Zollverwaltung, die
+Steuerfahndungsstellen der Länder sowie die Personalausweis-, Pass-
+und Meldebehörden die Echtheit des Personalausweises oder die
+Identität des Inhabers nach anderen Rechtsvorschriften überprüfen
+dürfen, sind sie befugt, zum Zweck der Überprüfung der Echtheit des
+Personalausweises oder der Identität des Ausweisinhabers
+
+1.  die auf dem elektronischen Speicher- und Verarbeitungsmedium des
+    Personalausweises gespeicherten biometrischen und sonstigen Daten zu
+    verarbeiten,
+
+
+2.  die benötigten biometrischen Daten beim Personalausweisinhaber zu
+    erheben und
+
+
+3.  die biometrischen Daten miteinander zu vergleichen.
 
 
 
-### § 17 Identitätsüberprüfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identitätsfeststellung berechtigte Behörden
+Echtheits- oder Identitätskontrollen über öffentliche
+Kommunikationswege sind unzulässig.
 
-Zur Identitätsfeststellung berechtigte Behörden dürfen die im
-elektronischen Speicher- und Verarbeitungsmedium des Personalausweises
-gespeicherten Daten nur zum Zweck der Überprüfung der Echtheit des
-Dokumentes oder der Identität des Ausweisinhabers und nur nach Maßgabe
-der Sätze 3 und 4 auslesen und verwenden. Echtheits- oder
-Identitätskontrollen über öffentliche Kommunikationswege sind
-unzulässig. Soweit die Polizeivollzugsbehörden, die Zollverwaltung,
-die Steuerfahndungsstellen der Länder sowie die Personalausweis-,
-Pass- und Meldebehörden die Echtheit des Personalausweises oder die
-Identität des Inhabers überprüfen dürfen, sind sie befugt, die auf dem
-elektronischen Speicher- und Verarbeitungsmedium des Personalausweises
-gespeicherten biometrischen und sonstigen Daten auszulesen, die
-benötigten biometrischen Daten beim Personalausweisinhaber zu erheben
-und die biometrischen Daten miteinander zu vergleichen. Die nach Satz
-3 erhobenen Daten sind unverzüglich zu löschen, wenn die Prüfung der
-Echtheit des Personalausweises oder der Identität des Inhabers beendet
-ist.
+(2) Die in Absatz 1 Satz 1 genannten Behörden dürfen Daten, die sie im
+Rahmen einer Identitätsfeststellung aus dem elektronischen Speicher-
+und Verarbeitungsmedium des Personalausweises verarbeitet haben, mit
+Ausnahme der biometrischen Daten zur Verarbeitung in einem
+Datenverarbeitungssystem automatisiert speichern, sofern sie dazu
+durch ein Gesetz oder auf Grund eines Gesetzes berechtigt sind. Im
+Übrigen sind die nach Absatz 1 Satz 1 erhobenen Daten unverzüglich
+nach Beendigung der Prüfung der Echtheit des Personalausweises oder
+der Identität des Ausweisinhabers zu löschen.
+
+
+### § 17 Verarbeitung der sichtbaren Daten des Personalausweises
+
+(1) Die in § 16 Absatz 1 Satz 1 genannten Behörden dürfen die auf dem
+Personalausweis sichtbar aufgedruckten Daten durch nicht
+automatisierte Verfahren erheben und verwenden, sofern sie dazu durch
+ein Gesetz oder auf Grund eines Gesetzes berechtigt sind.
+
+(2) Können die Daten aus dem elektronischen Speicher- und
+Verarbeitungsmedium des Personalausweises nach § 16 Absatz 1 Satz 1
+nicht ausgelesen werden, dürfen die dort genannten Behörden die Daten
+der maschinenlesbaren Zone nach § 5 Absatz 2 Satz 2 automatisiert
+auslesen und unter den Voraussetzungen des § 16 Absatz 2 speichern. §
+16 Absatz 1 Satz 2, Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 18 Elektronischer Identitätsnachweis
@@ -975,7 +984,7 @@ oder abgelaufener elektronischer Identitätsnachweis vorliegt, immer zu
     Gemeindeschlüssel,
 
 
-6b. Staatsangehörigkeit,
+6b. Abkürzung für die Staatsangehörigkeit,
 
 
 7.  Dokumentenart,
@@ -1191,6 +1200,34 @@ Dies gilt nicht für den Abgleich von Sperrmerkmalen durch
 Diensteanbieter zum Zweck der Überprüfung, ob ein elektronischer
 Identitätsnachweis gesperrt ist.
 
+(3a) Öffentliche Stellen dürfen, wenn dies durch ein Gesetz oder auf
+Grund eines Gesetzes bestimmt ist, mit Zustimmung des
+Personalausweisinhabers zur Prüfung der Identität des
+Personalausweisinhabers
+
+1.  die auf dem elektronischen Speicher- und Verarbeitungsmedium
+    gespeicherten Daten nach § 5 Absatz 4 Satz 2 und die Daten, die zur
+    Überprüfung der Echtheit des Personalausweises erforderlich sind,
+    sowie das auf dem elektronischen Speicher- und Verarbeitungsmedium
+    gespeicherte Lichtbild auslesen und
+
+
+2.  von den ausgelesenen Daten ausschließlich das Lichtbild, die Daten
+    nach § 5 Absatz 4 Satz 2 Nummer 1 bis 3, 6, 7 sowie die Daten, die zur
+    Überprüfung der Echtheit des Personalausweises erforderlich sind,
+    verwenden.
+
+
+
+Anlässlich der Datenverarbeitung nach Satz 1 überprüft die
+verarbeitende öffentliche Stelle die Echtheit des Personalausweises.
+Von den nach Satz 1 Nummer 1 ausgelesenen Daten sind die Daten nach
+Satz 1 Nummer 2 von der verarbeitenden öffentlichen Stelle
+unverzüglich nach Beendigung der Prüfung der Identität des Inhabers,
+die übrigen Daten unverzüglich nach dem Auslesen zu löschen, soweit
+dies nicht durch Gesetz oder auf Grund eines Gesetzes abweichend
+geregelt ist.
+
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der
 maschinenlesbaren Zone des Personalausweises elektronisch nur auslesen
 und verarbeiten, soweit sie auf Grund internationaler Abkommen oder
@@ -1399,6 +1436,10 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 14. ausstellende Behörde,
 
 
+14a. die örtlich zuständige Personalausweisbehörde, wenn diese nicht mit
+    der ausstellenden Personalausweisbehörde identisch ist,
+
+
 15. Vermerke über Anordnungen nach § 6 Absatz 7 und Maßnahmen nach § 6a
     Absatz 1 bis 3,
 
@@ -1431,12 +1472,24 @@ konsularischer Aufgaben beträgt die Frist 30 Jahre.
 Personalausweise, für die sie eine Ermächtigung nach § 8 Abs. 4 Satz 2
 erteilt hat.
 
+(6) Wird eine andere als die ausstellende Personalausweisbehörde
+örtlich zuständig, darf sie die in Absatz 3 genannten und zur
+Wahrnehmung ihrer Aufgaben erforderlichen Daten mit Ausnahme der
+biometrischen Daten speichern. Absatz 4 gilt entsprechend.
+
 
 ### § 24 Verwendung im Personalausweisregister gespeicherter Daten
 
 (1) Die Personalausweisbehörden dürfen personenbezogene Daten nur nach
 Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen
 erheben oder verwenden.
+
+(1a) Personalausweisbehörden dürfen anderen Personalausweisbehörden im
+automatisierten Verfahren Daten des Personalausweisregisters
+übermitteln oder Daten aus Personalausweisregistern, die in
+Zuständigkeit anderer Personalausweisbehörden geführt werden, abrufen,
+sofern dies zur Wahrnehmung ihrer Pflichten erforderlich ist. Dies
+gilt nicht für biometrische Daten.
 
 (2) Die Personalausweisbehörden dürfen anderen Behörden auf deren
 Ersuchen Daten aus dem Personalausweisregister übermitteln, wenn
@@ -1524,7 +1577,10 @@ protokollieren, dass eine Kontrolle der Zulässigkeit der Abrufe
 möglich ist. Abrufe nach den Sätzen 4 und 5 werden nur von der
 abrufenden Behörde protokolliert. Die Protokolle enthalten:
 
-1.  Familienname, Vornamen sowie Tag und Ort der Geburt der Person, deren
+1.  die nach § 4 Absatz 1 der Pass- und
+    Personalausweisdatenabrufverordnung verwendeten Auswahldaten bei
+    Abrufen nach den Sätzen 4 und 5, in anderen Fällen den Familiennamen,
+    Vornamen sowie den Tag und den Ort der Geburt der Person, deren
     Lichtbild abgerufen wurde,
 
 
@@ -1712,11 +1768,10 @@ die in der Gesamtheit der Länder mit der jeweiligen Leistung
 verbundenen sind. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6
 und die §§ 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, für den Bereich der Landesverwaltung durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Gebührenhöhe und die
-Auslagenerstattung näher zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+für den Bereich der Landesverwaltung durch Rechtsverordnung mit
+Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
+Gebührenhöhe und die Auslagenerstattung näher zu bestimmen.
 
 (4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
@@ -1818,8 +1873,8 @@ ausgeführt wird,
 
 ### § 34 Verordnungsermächtigung
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
-mit Zustimmung des Bundesrates durch Rechtsverordnung
+Das Bundesministerium des Innern und für Heimat wird ermächtigt, mit
+Zustimmung des Bundesrates durch Rechtsverordnung
 
 1.  die Muster der Ausweise zu bestimmen,
 
@@ -1863,8 +1918,8 @@ mit Zustimmung des Bundesrates durch Rechtsverordnung
     regeln,
 
 
-5.  die Herstellung des Personalausweises und die Übermittlung von
-    Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
+5.  die Herstellung des Personalausweises und die Übermittlung und
+    Übergabe von Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
 
 
 6.  die Einzelheiten der Aushändigung und den Versand des
@@ -1922,15 +1977,15 @@ mit Zustimmung des Bundesrates durch Rechtsverordnung
     Berechtigungszertifikate festzulegen und
 
 
-12. die Einzelheiten zur Durchführung von automatisierten Abrufen nach §
-    25 sowie zur Form und zum Inhalt der zu übermittelnden Daten zu
-    regeln.
+12. die Einzelheiten zur Durchführung von automatisierten Mitteilungen
+    oder von automatisierten Abrufen nach § 25 sowie zur Form und zum
+    Inhalt der zu übermittelnden Daten zu regeln.
 
 
 
 Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen
 Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zusätzlich im
-Benehmen mit dem Bundesministerium für Wirtschaft und Energie. In
+Benehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz. In
 einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu
 Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung
 eines elektronischen Identitätsnachweises mit einem mobilen Endgerät

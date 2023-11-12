@@ -18,6 +18,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4674
 
+V aufgeh. durch
+:   § 4 Satz 2 V 860-12-1-11 v. 24.10.2023 I Nr. 287 mWv 1.1.2024
+
+Ersetzt durch
+:   V 860-12-1-11 v. 24.10.2023 I Nr. 287 (RBSFV 2023)
+
 [^F1_818755_BJNR467400021]:     Diese Verordnung ersetzt die gleichnamige Verordnung vom 23. September
     2021 (BGBl. I S. 4389).
 

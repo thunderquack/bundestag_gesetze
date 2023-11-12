@@ -199,7 +199,7 @@ Inland vorzunehmende Maßnahme im Sinn des § 312 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit, eine Untersuchung des
 Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen
-Eingriff im Sinn des § 1904 des Bürgerlichen Gesetzbuchs oder eine im
+Eingriff im Sinn des § 1829 des Bürgerlichen Gesetzbuchs oder eine im
 Inland vorzunehmende Sterilisation beinhaltet. Im Übrigen soll das
 Gericht den Betroffenen persönlich anhören. § 278 Abs. 3 bis 5 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -296,7 +296,7 @@ Anerkennungsfeststellung oder Vollstreckbarerklärung entschieden hat.
 
 
 (2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden
-ist, oder einer Maßnahme im Sinn des § 1906 Absatz 4 oder § 1906a
+ist, oder einer Maßnahme im Sinn des § 1831 Absatz 4 oder § 1832
 Absatz 1 oder Absatz 4 des Bürgerlichen Gesetzbuchs spricht sich das
 Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des
 Übereinkommens gegen das Ersuchen aus, wenn
@@ -324,8 +324,8 @@ vergleichbaren Aufgaben sowie dem Leiter der Einrichtung bekannt zu
 machen, in welcher der Betroffene untergebracht werden soll. Der
 Beschluss ist unanfechtbar.
 
-(6) Im Übrigen sind auf das Verfahren die §§ 316, 317 Abs. 1 Satz 1,
-Abs. 4, 5, §§ 318, 325 Abs. 1 und § 338 des Gesetzes über das
+(6) Im Übrigen sind auf das Verfahren die §§ 316, 317 Absatz 1 Satz 1,
+Absatz 5, 6, die §§ 318, 325 Absatz 1 und § 338 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sowie § 8 Abs. 1 Satz 1, Abs. 3 und 4
 entsprechend anzuwenden.

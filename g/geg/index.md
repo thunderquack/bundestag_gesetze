@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1728
 
+Geändert durch
+:   Art. 18a G v. 20.7.2022 I 1237
+
+Änderung durch
+:   Art. 1 G v. 16.10.2023 I Nr. 280 mWv 1.1.2024 bzw. 1.10.2024 noch nicht berücksichtigt
+
 [^F812398_01_BJNR172810020]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2010/31/EU des
     Europäischen Parlaments und des Rates vom 19. Mai 2010 über die
     Gesamtenergieeffizienz von Gebäuden (Neufassung) (ABl. L 153 vom
@@ -750,7 +756,7 @@ verzichtet werden.
 
 (1) Ein zu errichtendes Wohngebäude ist so zu errichten, dass der
 Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung
-und Kühlung das 0,75fache des auf die Gebäudenutzfläche bezogenen
+und Kühlung das 0,55fache des auf die Gebäudenutzfläche bezogenen
 Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die
 gleiche Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu
 errichtende Gebäude aufweist und der technischen Referenzausführung
@@ -786,7 +792,7 @@ unberührt.
 
 (1) Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der
 Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung,
-Kühlung und eingebaute Beleuchtung das 0,75fache des auf die
+Kühlung und eingebaute Beleuchtung das 0,55fache des auf die
 Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs
 eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche,
 Ausrichtung und Nutzung, einschließlich der Anordnung der
@@ -922,10 +928,12 @@ einem elektronischen Vorschaltgerät anzunehmen.
 
 #### § 22 Primärenergiefaktoren
 
-(1) Zur Ermittlung des Jahres-Primärenergiebedarfs nach § 20 Absatz 1
-oder Absatz 2 und nach § 21 Absatz 1 und 2 sind als
-Primärenergiefaktoren die Werte für den nicht erneuerbaren Anteil der
-Anlage 4 mit folgenden Maßgaben zu verwenden:
+(1) Für die Ermittlung des Jahres-Primärenergiebedarfs nach § 20
+Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 sind für den nicht
+erneuerbaren Anteil die Primärenergiefaktoren der Anlage 4 zu
+verwenden. Davon abweichend sind in den nachfolgend genannten Fällen
+folgende Primärenergiefaktoren für den nicht erneuerbaren Anteil zu
+verwenden:
 
 1.  für flüssige oder gasförmige Biomasse kann abweichend von Anlage 4
     Nummer 6 und 7 für den nicht erneuerbaren Anteil der Wert 0,3
@@ -1021,15 +1029,20 @@ Anlage 4 mit folgenden Maßgaben zu verwenden:
 
 
 
-Durch eine Maßnahme nach Satz 1 Nummer 4 darf die Wärmeversorgung des
+Durch eine Maßnahme nach Satz 2 Nummer 4 darf die Wärmeversorgung des
 oder der mitversorgten bestehenden Gebäude nicht in der Weise
 verändert werden, dass die energetische Qualität dieses oder dieser
-Gebäude verschlechtert wird.
+Gebäude verschlechtert wird. Bei Verwendung eines Gemisches aus Erdgas
+und gasförmiger Biomasse wird der Wert nach Satz 2 Nummer 2 Buchstabe
+a und b nur auf den energetischen Anteil der gasförmigen Biomasse
+angewendet. Bei Verwendung eines Gemisches aus biogenem Flüssiggas und
+Flüssiggas wird der Wert nach Satz 2 Nummer 3 Buchstabe a und b nur
+auf den energetischen Anteil des biogenen Flüssiggases angewendet.
 
 (2) Wird ein zu errichtendes Gebäude mit Fernwärme versorgt, kann zur
 Ermittlung des Jahres-Primärenergiebedarfs nach § 20 Absatz 1 oder
 Absatz 2 und nach § 21 Absatz 1 und 2 als Primärenergiefaktor der Wert
-für den nicht erneuerbaren Anteil nach Maßgabe der Sätze 2 und 3 sowie
+für den nicht erneuerbaren Anteil nach Maßgabe der Sätze 2 bis 4 sowie
 von Absatz 3 verwendet werden, den das Fernwärmeversorgungsunternehmen
 für den Wärmeträger in dem Wärmenetz, an das das Gebäude angeschlossen
 wird, ermittelt und veröffentlicht hat. Der ermittelte und
@@ -1040,14 +1053,18 @@ einem Wärmenetz eingesetzten Brennstoffe und Strom, einschließlich
 Hilfsenergien, ermittelt, mit den Primärenergiefaktoren der Anlage 4
 gewichtet und auf die abgegebene Wärmemenge bezogen sowie die
 Anwendung dieses Berechnungsverfahrens in der Veröffentlichung
-angegeben hat. Wird in einem Wärmenetz Wärme genutzt, die in einer
-KWK-Anlage erzeugt wird, kann der ermittelte und veröffentlichte Wert
-nach Satz 1 verwendet werden, wenn das Fernwärmeversorgungsunternehmen
-zur Ermittlung des Primärenergiefaktors der Wärme aus der KWK-Anlage
-das Berechnungsverfahren nach DIN V 18599-1: 2018-09 Anhang A
-Abschnitt A.4 mit den Primärenergiefaktoren der Anlage 4 angewendet
-und die Anwendung dieser Methode in der Veröffentlichung angegeben
-hat.
+angegeben hat. Wird in einem Wärmenetz Wärme genutzt, die von einer
+Großwärmepumpe mit einer thermischen Leistung von mindestens 500
+Kilowatt erzeugt wird, ist abweichend von Anlage 4 für netzbezogenen
+Strom zum Betrieb der Großwärmepumpe der Primärenergiefaktor für den
+nicht erneuerbaren Anteil von 1,2 zu verwenden. Wird in einem
+Wärmenetz Wärme genutzt, die in einer KWK-Anlage erzeugt wird, kann
+der ermittelte und veröffentlichte Wert nach Satz 1 verwendet werden,
+wenn das Fernwärmeversorgungsunternehmen zur Ermittlung des
+Primärenergiefaktors der Wärme aus der KWK-Anlage das
+Berechnungsverfahren nach DIN V 18599-1: 2018-09 Anhang A Abschnitt
+A.4 mit den Primärenergiefaktoren der Anlage 4 angewendet und die
+Anwendung dieser Methode in der Veröffentlichung angegeben hat.
 
 (3) Liegt der ermittelte und veröffentlichte Wert des
 Primärenergiefaktors eines Wärmenetzes unter einem Wert von 0,3, ist
@@ -1089,103 +1106,23 @@ Berechnungsverfahrens ab dem Jahr 2030.
 
 #### § 23 Anrechnung von Strom aus erneuerbaren Energien
 
-(1) Strom aus erneuerbaren Energien, der in einem zu errichtenden
-Gebäude eingesetzt wird, darf bei der Ermittlung des Jahres-
-Primärenergiebedarfs des zu errichtenden Gebäudes nach § 20 Absatz 1
-oder Absatz 2 und nach § 21 Absatz 1 und 2 nach Maßgabe der Absätze 2
-bis 4 in Abzug gebracht werden, soweit er
+(1) Strom aus erneuerbaren Energien, der im unmittelbaren räumlichen
+Zusammenhang zu einem zu errichtenden Gebäude erzeugt wird, darf bei
+der Ermittlung des Jahres-Primärenergiebedarfs des zu errichtenden
+Gebäudes nach § 20 Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2
+nach Maßgabe des Absatzes 2 in Abzug gebracht werden.
 
-1.  im unmittelbaren räumlichen Zusammenhang zu dem Gebäude erzeugt wird
-    und
-
-
-2.  vorrangig in dem Gebäude unmittelbar nach Erzeugung oder nach
-    vorübergehender Speicherung selbst genutzt und nur die überschüssige
-    Strommenge in das öffentliche Netz eingespeist wird.
-
-
-
-
-(2) Bei der Ermittlung des Jahres-Primärenergiebedarfs des zu
-errichtenden Wohngebäudes dürfen vom Ausgangswert in Abzug gebracht
-werden:
-
-1.  für eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien ohne
-    Nutzung eines elektrochemischen Speichers 150 Kilowattstunden je
-    Kilowatt installierter Nennleistung und ab einer Anlagengröße mit
-    einer Nennleistung in Kilowatt in Höhe des 0,03fachen der
-    Gebäudenutzfläche geteilt durch die Anzahl der beheizten oder
-    gekühlten Geschosse nach DIN V 18599-1: 2018-09 zuzüglich das 0,7fache
-    des jährlichen absoluten elektrischen Endenergiebedarfs der
-    Anlagentechnik, jedoch insgesamt höchstens 30 Prozent des Jahres-
-    Primärenergiebedarfs des Referenzgebäudes nach § 15 Absatz 1, und
-
-
-2.  für eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien mit
-    Nutzung eines elektrochemischen Speichers von mindestens 1
-    Kilowattstunde Nennkapazität je Kilowatt installierter Nennleistung
-    der Erzeugungsanlage 200 Kilowattstunden je Kilowatt installierter
-    Nennleistung und ab einer Anlagengröße mit einer Nennleistung in
-    Kilowatt in Höhe des 0,03fachen der Gebäudenutzfläche geteilt durch
-    die Anzahl der beheizten oder gekühlten Geschosse nach DIN V 18599-1:
-    2018-09 zuzüglich das 1,0fache des jährlichen absoluten elektrischen
-    Endenergiebedarfs der Anlagentechnik, jedoch insgesamt höchstens 45
-    Prozent des Jahres-Primärenergiebedarfs des Referenzgebäudes nach § 15
-    Absatz 1.
-
-
-
-Als Ausgangswert ist der Jahres-Primärenergiebedarf nach § 20 Absatz 1
-oder Absatz 2 zu verwenden, der sich ohne Anrechnung des Stroms aus
-erneuerbaren Energien nach Absatz 1 ergibt.
-
-(3) Bei der Ermittlung des Jahres-Primärenergiebedarfs des zu
-errichtenden Nichtwohngebäudes dürfen vom Ausgangswert in Abzug
-gebracht werden:
-
-1.  für eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien ohne
-    Nutzung eines elektrochemischen Speichers 150 Kilowattstunden je
-    Kilowatt installierter Nennleistung und ab einer Anlagengröße von 0,01
-    Kilowatt Nennleistung je Quadratmeter Nettogrundfläche zuzüglich das
-    0,7fache des jährlichen absoluten elektrischen Endenergiebedarfs der
-    Anlagentechnik, jedoch insgesamt höchstens 30 Prozent des Jahres-
-    Primärenergiebedarfs des Referenzgebäudes nach § 18 Absatz 1 und
-    gleichzeitig insgesamt höchstens das 1,8fache des bilanzierten
-    endenergetischen Jahresertrags der Anlage, und
-
-
-2.  für eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien mit
-    Nutzung eines elektrochemischen Speichers von mindestens 1
-    Kilowattstunde Nennkapazität je Kilowatt installierter Nennleistung
-    der Erzeugungsanlage 200 Kilowattstunden je Kilowatt installierter
-    Nennleistung und ab einer Anlagengröße von 0,01 Kilowatt Nennleistung
-    je Quadratmeter Nettogrundfläche zuzüglich das 1,0fache des jährlichen
-    absoluten elektrischen Endenergiebedarfs der Anlagentechnik, jedoch
-    insgesamt höchstens 45 Prozent des Jahres-Primärenergiebedarfs des
-    Referenzgebäudes nach § 18 Absatz 1 und gleichzeitig insgesamt
-    höchstens das 1,8fache des bilanzierten endenergetischen Jahresertrags
-    der Anlage.
-
-
-
-Als Ausgangswert ist der Jahres-Primärenergiebedarf nach § 21 Absatz 1
-und 2 zu verwenden, der sich ohne Anrechnung des Stroms aus
-erneuerbaren Energien nach Absatz 1 ergibt.
-
-(4) Wenn in einem zu errichtenden Gebäude Strom aus erneuerbaren
-Energien für Stromdirektheizungen genutzt wird oder in einem zu
-errichtenden Nichtwohngebäude die Nutzung von Strom für Lüftung,
-Kühlung, Beleuchtung und Warmwasserversorgung die Energienutzung für
-die Beheizung überwiegt, ist abweichend von den Absätzen 2 und 3 der
+(2) Zur Berechnung der abzugsfähigen Strommenge nach Absatz 1 ist der
 monatliche Ertrag der Anlage zur Erzeugung von Strom aus erneuerbaren
-Energien dem tatsächlichen Strombedarf gegenüberzustellen. Für die
-Berechnung ist der monatliche Ertrag nach DIN V 18599-9: 2018-09 zu
-bestimmen. Bei Anlagen zur Erzeugung von Strom aus solarer
-Strahlungsenergie sind die monatlichen Stromerträge unter Verwendung
-der mittleren monatlichen Strahlungsintensitäten der Referenzklimazone
-Potsdam nach DIN V 18599-10: 2018-09 Anhang E sowie der Standardwerte
-zur Ermittlung der Nennleistung des Photovoltaikmoduls nach DIN V
-18599-9: 2018-09 Anhang B zu ermitteln.
+Energien dem Strombedarf für Heizung, Warmwasserbereitung, Lüftung,
+Kühlung und Hilfsenergien sowie bei Nichtwohngebäuden zusätzlich für
+Beleuchtung gegenüberzustellen. Der monatliche Ertrag ist nach DIN V
+18599-9: 2018-09 zu bestimmen. Bei Anlagen zur Erzeugung von Strom aus
+solarer Strahlungsenergie sind die monatlichen Stromerträge unter
+Verwendung der mittleren monatlichen Strahlungsintensitäten der
+Referenzklimazone Potsdam nach DIN V 18599-10: 2018-09 Anhang E sowie
+der Standardwerte zur Ermittlung der Nennleistung des
+Photovoltaikmoduls nach DIN V 18599-9: 2018-09 Anhang B zu ermitteln.
 
 
 #### § 24 Einfluss von Wärmebrücken
@@ -1195,19 +1132,15 @@ Wärmebrücken bei der Ermittlung des Jahres-Primärenergiebedarfs nach §
 20 Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 nach einer der
 in DIN V 18599-2: 2018-09 oder bis zum 31. Dezember 2023 auch in DIN V
 4108-6: 2003-06, geändert durch DIN V 4108-6 Berichtigung 1: 2004-03
-genannten Vorgehensweisen zu berücksichtigen. Soweit dabei
-Gleichwertigkeitsnachweise zu führen sind, ist dies für solche
-Wärmebrücken nicht erforderlich, bei denen die angrenzenden Bauteile
-kleinere Wärmedurchgangskoeffizienten aufweisen als in den
-Musterlösungen der DIN 4108 Beiblatt 2: 2019-06 zugrunde gelegt sind.
-Wärmebrückenzuschläge mit Überprüfung und Einhaltung der
-Gleichwertigkeit nach DIN V 18599-2: 2018-09 oder DIN V 4108-6:
-2003-06, geändert durch DIN V 4108-6 Berichtigung 1: 2004-03 sind nach
-DIN 4108 Beiblatt 2: 2019-06 zu ermitteln. Abweichend von DIN V
-4108-6: 2003-06, geändert durch DIN V 4108-6 Berichtigung 1: 2004-03
-kann bei Nachweis der Gleichwertigkeit nach DIN 4108 Beiblatt 2:
-2019-06 der pauschale Wärmebrückenzuschlag nach Kategorie A oder
-Kategorie B verwendet werden.
+genannten Vorgehensweisen zu berücksichtigen. Wärmebrückenzuschläge
+mit Überprüfung und Einhaltung der Gleichwertigkeit nach DIN V
+18599-2: 2018-09 oder DIN V 4108-6: 2003-06, geändert durch DIN V
+4108-6 Berichtigung 1: 2004-03 sind nach DIN 4108 Beiblatt 2: 2019-06
+zu ermitteln. Abweichend von DIN V 4108-6: 2003-06, geändert durch DIN
+V 4108-6 Berichtigung 1: 2004-03 kann bei Nachweis der
+Gleichwertigkeit nach DIN 4108 Beiblatt 2: 2019-06 der pauschale
+Wärmebrückenzuschlag nach Kategorie A oder Kategorie B verwendet
+werden.
 
 
 #### § 25 Berechnungsrandbedingungen
@@ -1486,18 +1419,9 @@ ist.
 #### § 31 Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
 
 (1) Ein zu errichtendes Wohngebäude erfüllt die Anforderungen nach §
-10 Absatz 2 in Verbindung mit den §§ 15 bis 17 und den §§ 34 bis 45,
-wenn
-
-1.  es die Voraussetzungen nach Anlage 5 Nummer 1 erfüllt und
-
-
-2.  seine Ausführung einer der in Anlage 5 Nummer 2 beschriebenen
-    Ausführungsvarianten unter Berücksichtigung der Beschreibung der
-    Wärmeschutz- und Anlagenvarianten nach Anlage 5 Nummer 3 entspricht.
-
-
-
+10 Absatz 2 in Verbindung mit den §§ 15 bis 17 und 34 bis 45, wenn es
+die Voraussetzungen nach Anlage 5 Nummer 1 erfüllt und seine
+Ausführung den Vorgaben von Anlage 5 Nummer 2 und 3 entspricht.
 
 (2) Das Bundesministerium für Wirtschaft und Energie macht gemeinsam
 mit dem Bundesministerium des Innern, für Bau und Heimat im
@@ -3597,44 +3521,16 @@ oder einer landesrechtlichen Pflicht nach § 56 dienen.
 
 (2) Absatz 1 ist nicht bei den folgenden Maßnahmen anzuwenden:
 
-1.  die Errichtung eines Wohngebäudes, bei dem
-
-    a)  der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung,
-        Lüftung und Kühlung das 0,55fache des auf die Gebäudenutzfläche
-        bezogenen Wertes des Jahres-Primärenergiebedarfs eines
-        Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und
-        Ausrichtung wie das zu errichtende Gebäude aufweist und der
-        technischen Referenzausführung der Anlage 1 entspricht, nicht
-        überschreitet und
+1.  der Errichtung eines Wohngebäudes, bei dem Anforderungen eingehalten
+    werden, die anspruchsvoller sind als die für die Errichtung eines
+    Wohngebäudes jeweils geltenden Neubauanforderungen nach diesem Gesetz,
+    sofern die Maßnahme nicht unter die Nummern 3 bis 7 fällt,
 
 
-    b)  der Höchstwert des spezifischen, auf die wärmeübertragende
-        Umfassungsfläche bezogenen Transmissionswärmeverlustes das 0,7fache
-        des entsprechenden Wertes des jeweiligen Referenzgebäudes nach § 15
-        Absatz 1 nicht überschreitet,
-
-
-
-
-
-2.  die Errichtung eines Nichtwohngebäudes, bei dem
-
-    a)  der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung,
-        Lüftung, Kühlung und eingebaute Beleuchtung das 0,7fache des auf die
-        Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs
-        eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche,
-        Ausrichtung und Nutzung, einschließlich der Anordnung der
-        Nutzungseinheiten, wie das zu errichtende Gebäude aufweist und der
-        technischen Referenzausführung der Anlage 2 entspricht, nicht
-        überschreitet und
-
-
-    b)  die Höchstwerte der mittleren Wärmedurchgangskoeffizienten der
-        wärmeübertragenden Umfassungsfläche der Anlage 3 unterschritten
-        werden,
-
-
-
+2.  der Errichtung eines Nichtwohngebäudes, bei dem Anforderungen
+    eingehalten werden, die anspruchsvoller sind als die für
+    Nichtwohngebäude jeweils geltenden Neubauanforderungen nach diesem
+    Gesetz, sofern die Maßnahme nicht unter die Nummern 3 bis 7 fällt,
 
 
 3.  Maßnahmen, die technische oder sonstige Anforderungen erfüllen, die
@@ -4254,6 +4150,13 @@ oder Bauherrn die Vorlage einer Beurteilung der Erfüllung der
 Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 durch qualifizierte
 Sachverständige verlangen.
 
+(4) Bis zum 31. Dezember 2024 können die nach Landesrecht zuständigen
+Behörden auf Antrag die zulässige Nutzungsdauer von Gebäuden im Sinne
+des § 2 Absatz 2 Nummer 6 und des § 104 Satz 2 um weitere zwei Jahre
+verlängern, wenn ansonsten die Unterbringung von Geflüchteten durch
+die öffentliche Hand oder im öffentlichen Auftrag erheblich verzögert
+würde.
+
 
 ### § 103 Innovationsklausel
 
@@ -4265,7 +4168,7 @@ Behörden auf Antrag nach § 102 Absatz 1 Satz 1 Nummer 1
     a)  ein Wohngebäude so errichtet wird, dass die Treibhausgasemissionen des
         Gebäudes gleichwertig begrenzt werden und der Höchstwert des Jahres-
         Endenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung und
-        Kühlung das 0,75fache des auf die Gebäudenutzfläche bezogenen Wertes
+        Kühlung das 0,55fache des auf die Gebäudenutzfläche bezogenen Wertes
         des Jahres-Endenergiebedarfs eines Referenzgebäudes, das die gleiche
         Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende
         Gebäude aufweist und der technischen Referenzausführung der Anlage 1
@@ -4276,7 +4179,7 @@ Behörden auf Antrag nach § 102 Absatz 1 Satz 1 Nummer 1
         Treibhausgasemissionen des Gebäudes gleichwertig begrenzt werden und
         der Höchstwert des Jahres-Endenergiebedarfs für Heizung,
         Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das
-        0,75fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-
+        0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-
         Endenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie,
         Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der
         Anordnung der Nutzungseinheiten, wie das zu errichtende Gebäude
@@ -4726,7 +4629,8 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 ### Anlage 1 Technische Ausführung des Referenzgebäudes (Wohngebäude)
 
-(Fundstelle: BGBl. I 2020, 1767 - 1768)
+(Fundstelle: BGBl. I 2020, 1767 - 1768; bezüglich der einzelnen
+Änderungen vgl. Fußnote)
 
 
 *    *   Nummer
@@ -5004,8 +4908,8 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
     *   Lüftung
 
-    *   zentrale Abluftanlage, nicht bedarfsgeführt mit geregeltem DC-
-        Ventilator,
+    *   zentrale Abluftanlage mit Außenwandluftdurchlässen (ALD), nicht
+        bedarfsgeführt mit geregeltem DC-Ventilator,
 
         •   DIN V 4701: 2003-08: Anlagen-Luftwechsel n
             A                            = 0,4 h
@@ -5013,7 +4917,7 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 
         •   DIN-V 18599-10: 2018-09: nutzungsbedingter Mindestaußenluftwechsel n
-            Nutz                           : 0,55 h
+            Nutz                           : 0,5 h
             -1
 
 
@@ -5994,7 +5898,8 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 ### Anlage 5 Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
 
-(Fundstelle: BGBl. I 2020, 1776 - 1781)
+(Fundstelle: BGBl. I 2020, 1776 - 1781; bezüglich der einzelnen
+Änderungen vgl. Fußnote)
 
 
 **1.** **Voraussetzungen für die Anwendung des vereinfachten
@@ -6014,17 +5919,11 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
     b)  Das Gebäude darf nicht mit einer Klimaanlage ausgestattet sein.
 
 
-    c)  Die Wärmebrücken, die im Rahmen von rechnerischen Nachweisen zu
-        berücksichtigen wären, sind so auszuführen, dass sie mindestens
-        gleichwertig mit den Musterlösungen nach DIN 4108 Beiblatt 2: 2019-06
-        sind; die §§ 12 und 24 bleiben unberührt.
-
-
-    d)  Die Dichtheit des Gebäudes ist nach § 26 zu prüfen und muss die dort
+    c)  Die Dichtheit des Gebäudes ist nach § 26 zu prüfen und muss die dort
         genannten Grenzwerte einhalten.
 
 
-    e)  Damit der sommerliche Wärmeschutz auch ohne Nachweisrechnung als
+    d)  Damit der sommerliche Wärmeschutz auch ohne Nachweisrechnung als
         ausreichend angesehen werden kann, muss das Gebäude folgende
         Voraussetzungen erfüllen:
 
@@ -6042,20 +5941,20 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 
 
-    f)  Die beheizte Bruttogrundfläche des Gebäudes A
-[^F812398_03_BJNR172810020BJNE012100000]
+    e)  Die beheizte Bruttogrundfläche des Gebäudes A
+[^F812398_03_BJNR172810020BJNE012101119]
         BGF, Gebäude
         darf nicht kleiner als 115 Quadratmeter und nicht größer als 2 300
         Quadratmeter sein.
 
 
-    g)[^F812398_04_BJNR172810020BJNE012100000]
+    f)[^F812398_04_BJNR172810020BJNE012101119]
   Die mittlere Geschosshöhe
         nach DIN V 18599-1: 2018-09 des Gebäudes darf nicht kleiner als 2,5
         Meter und nicht größer als 3 Meter sein.
 
 
-    h)  Die Kompaktheit des Gebäudes in Bezug auf das Verhältnis von
+    g)  Die Kompaktheit des Gebäudes in Bezug auf das Verhältnis von
         Bruttoumfang beheizter Bruttogrundfläche A
         BGF, Geschoss                          jedes beheizten Geschosses muss
         folgende Voraussetzung erfüllen: Das Quadrat des Bruttoumfangs U
@@ -6066,7 +5965,7 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
         einzurechnen, der an benachbarte beheizte Gebäude angrenzt.
 
 
-    i)[^F812398_05_BJNR172810020BJNE012100000]
+    h)[^F812398_05_BJNR172810020BJNE012101119]
   Bei Gebäuden mit beheizten Räumen in mehreren Geschossen müssen die
         beheizten Bruttogeschossflächen aller Geschosse ohne Vor- oder
         Rücksprünge deckungsgleich sein; nur das oberste Geschoss darf eine
@@ -6074,35 +5973,35 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
         Geschoss besitzen.
 
 
-    j)  Insgesamt darf das Gebäude nicht mehr als sechs beheizte Geschosse
+    i)  Insgesamt darf das Gebäude nicht mehr als sechs beheizte Geschosse
         besitzen.
 
 
-    k)[^F812398_06_BJNR172810020BJNE012100000]
+    j)[^F812398_06_BJNR172810020BJNE012101119]
   Der Fensterflächenanteil des Gebäudes
         darf bei zweiseitig angebauten Gebäuden nicht mehr als 35 Prozent, bei
         allen anderen Gebäuden nicht mehr als 30 Prozent an der gesamten
         Fassadenfläche des Gebäudes betragen.
 
 
-    l)  Die Gesamtfläche spezieller Fenstertüren an der gesamten
+    k)  Die Gesamtfläche spezieller Fenstertüren an der gesamten
         Fassadenfläche des Gebäudes darf bei freistehenden Gebäuden und
         einseitig angebauten Gebäuden 4,5 Prozent und bei zweiseitig
         angebauten Gebäuden 5,5 Prozent nicht überschreiten.
 
 
-    m)[^F812398_07_BJNR172810020BJNE012100000]
+    l)[^F812398_07_BJNR172810020BJNE012101119]
   Die Fläche der in nördliche Richtung orientierten
         Fenster des Gebäudes darf nicht größer sein als der Mittelwert der
         Fensterflächen anderer Orientierungen.
 
 
-    n)  Der Anteil von Dachflächenfenstern, Lichtkuppeln und ähnlichen
+    m)  Der Anteil von Dachflächenfenstern, Lichtkuppeln und ähnlichen
         transparenten Bauteilen im Dachbereich darf nicht mehr als 6 Prozent
         der Dachfläche betragen.
 
 
-    o)[^F812398_08_BJNR172810020BJNE012100000]
+    n)[^F812398_08_BJNR172810020BJNE012101119]
   Die Gesamtfläche aller Außentüren
         darf bei Ein- und Zweifamilienhäusern 2,7 Prozent, ansonsten 1,5
         Prozent der beheizten Bruttogrundfläche des Gebäudes nicht
@@ -6112,979 +6011,170 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 
 
-**2.** **Ausführungsvarianten**
+**2.** **Bauteilanforderungen**
 
-    Bei den Angaben in den Tabellen 1 bis 3 handelt es sich um
-    Mindestqualitäten für die energetische Qualität des Wärmeschutzes und
-    der Anlagen; die Anforderungen an den baulichen Wärmeschutz ergeben
-    sich aus Nummer 3 Buchstabe a; die Anforderungen an die jeweilige
-    Anlage ergeben sich aus Nummer 3 Buchstabe b. Durchkreuzte graue
-    Tabellenfelder geben an, dass das vereinfachte Nachweisverfahren nach
-    § 31 Absatz 1 für die jeweilige Anlagenvariante bei diesen
-    Gebäudegrößen nicht anwendbar ist.
+    Folgende Anforderungen an die jeweiligen einzelnen Bauteile der
+    thermischen Gebäudehülle müssen eingehalten werden:
 
-    a)  Ausführungsvarianten für ein freistehendes Wohngebäude
+    •   Dachflächen, oberste Geschossdecke, Dachgauben:
 
-        Bei einem freistehenden Gebäude erfüllen die Ausführungsvarianten nach
-        Maßgabe von Tabelle 1 die Anforderungen des § 10 Absatz 2 in
-        Verbindung mit den §§ 15 bis 17 und den §§ 34 bis 45.
+        U ≤ 0,14 W/(m
+        2                          K)
 
 
-        *            *   Tabelle 1
-                Ausführungsvarianten für ein freistehendes Gebäude
+    •   Fenster und sonstige transparente Bauteile:
 
+        U
+        w                          ≤ 0,90 W/(m
+        2                          K)
 
 
+    •   Dachflächenfenster:
 
-        *            *   Anlagenvariante
-                Nummer
+        U
+        w                          ≤ 1,0 W/(m
+        2                          K)
 
-            *
-            *   1
 
-            *   2
+    •   Außenwände, Geschossdecken nach unten gegen Außenluft:
 
-            *   3
+        U ≤ 0,20 W/(m
+        2                          K)
 
-            *   4
 
-            *   5
+    •   Sonstige opake Bauteile (Kellerdecken, Wände und Decken zu unbeheizten
+        Räumen, Wand- und Bodenflächen gegen Erdreich, etc.):
 
-            *   6
+        U ≤ 0,25 W/(m
+        2                          K)
 
-            *   7
 
-            *   8
+    •   Türen (Keller- und Außentüren)
 
-            *   9
+        U
+        D                          ≤ 1,2 W/(m
+        2                          K)
 
-            *   10
 
-            *   11
+    •   Lichtkuppeln und ähnliche Bauteile:
 
-            *   12
+        U ≤ 1,5 W/(m² K)
 
-            *   13
 
-            *   14
+    •   Spezielle Fenstertüren (mit Klapp-, Falt-, Schiebe- oder
+        Hebemechanismus):
 
-            *   15
+        U
+        W                          ≤ 1,4 W/(m
+        2                          K)
 
 
-        *            *   Beheizte Bruttogrundfläche
-                des Gebäudes A
-                BGF                                    in m
-                2
+    •   Vermeidung von Wärmebrücken:
 
-            *   von
+        *                         U
+        WB                          ≤ 0,035 W/(m
+        2                          K).
 
-            *   115
 
-            *   141
 
-            *   166
+    Die Anforderungen sind über die gesamte Fläche des jeweiligen Bauteils
+    einzuhalten. Zudem müssen die Anforderungen an die Ausführung von
+    Wärmebrücken sowie an die Luftdichtheit der Gebäudehülle eingehalten
+    werden.
 
-            *   196
 
-            *   236
+**3.** **Zulässige Anlagenkonzepte**
 
-            *   281
+    Für die Anlagentechnik ist eines der nachfolgenden Anlagenkonzepte
+    umzusetzen:
 
-            *   341
+    •   Sole-Wasser-Wärmepumpe mit Flächenheizsystem zur Wärmeübergabe,
+        zentrale Abluftanlage
 
-            *   406
 
-            *   491
+    •   Wasser-Wasser-Wärmepumpe mit Flächenheizsystem zur Wärmeübergabe,
+        zentrale Abluftanlage
 
-            *   581
 
-            *   701
+    •   Luft-Wasser-Wärmepumpe mit Flächenheizsystem zur Wärmeübergabe,
+        zentrale Lüftungsanlage mit Wärmerückgewinnung
+        (Wärmebereitstellungsgrad ≥ 80 %)
 
-            *   881
 
-            *   1101
+    •   Fernwärme mit zertifiziertem Primärenergiefaktor f
+        p                          ≤ 0,7, zentrale Lüftungsanlage mit
+        Wärmerückgewinnung (Wärmebereitstellungsgrad ≥ 80 %)
 
-            *   1401
 
-            *   1801
+    •   Zentrale Biomasse-Heizungsanlage auf Basis von Holzpellets,
+        Hackschnitzeln oder Scheitholz, zentrale Abluftanlage, solarthermische
+        Anlage zur Trinkwarmwasser-Bereitung
 
 
-        *            *   bis
 
-            *   140
-
-            *   165
-
-            *   195
-
-            *   235
-
-            *   280
-
-            *   340
-
-            *   405
-
-            *   490
-
-            *   580
-
-            *   700
-
-            *   880
-
-            *   1100
-
-            *   1400
-
-            *   1800
-
-            *   2300
-
-
-        *            *   Anlagenvariante
-
-            *   Erforderliche Wärmeschutzvariante
-
-
-        *            *   1
-
-            *   Kessel für feste Biomasse, Pufferspeicher und zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   2
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung, Lüftungsanlage mit
-                Wärmerückgewinnung
-
-            *   B
-
-            *   A
-
-
-        *            *   3
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung und
-                Heizungsunterstützung (Kombianlage), Pufferspeicher, Lüftungsanlage
-                mit
-                Wärmerückgewinnung
-
-            *   C
-
-
-        *            *   4
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-            *   C
-
-            *   B
-
-
-        *            *   5
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung, Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-
-        *            *   6
-
-            *   Luft-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   7
-
-            *   Luft-Wasser-Wärmepumpe,
-                dezentrale Trinkwassererwärmung
-
-            *   D
-
-            *   C
-
-            *   B
-
-            *   A
-
-            *
-
-        *            *   8
-
-            *   Luft-Wasser-Wärmepumpe, dezentrale Trinkwassererwärmung,
-                Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-            *   C
-
-
-        *            *   9
-
-            *   Wasser-Wasser-Wärmepumpe, zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   10
-
-            *   Sole-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-
-
-
-    b)  Ausführungsvarianten für ein einseitig angebautes Wohngebäude
-
-        Bei einem einseitig angebauten Gebäude gemäß § 3 Absatz 1 Nummer 6
-        erfüllen die Ausführungsvarianten nach Maßgabe von Tabelle 2 die
-        Anforderungen des § 10 Absatz 2 in Verbindung mit den §§ 15 bis 17 und
-        den §§ 34 bis 45.
-
-
-        *            *   Tabelle 2
-                Ausführungsvarianten für ein einseitig angebautes Gebäude
-
-
-
-
-        *            *   Anlagenvariante
-                Nummer
-
-            *
-            *   1
-
-            *   2
-
-            *   3
-
-            *   4
-
-            *   5
-
-            *   6
-
-            *   7
-
-            *   8
-
-            *   9
-
-            *   10
-
-            *   11
-
-            *   12
-
-            *   13
-
-            *   14
-
-            *   15
-
-
-        *            *   Beheizte Bruttogrundfläche
-                des Gebäudes A
-                BGF                                    in m
-                2
-
-            *   von
-
-            *   115
-
-            *   141
-
-            *   166
-
-            *   196
-
-            *   236
-
-            *   281
-
-            *   341
-
-            *   406
-
-            *   491
-
-            *   581
-
-            *   701
-
-            *   881
-
-            *   1101
-
-            *   1401
-
-            *   1801
-
-
-        *            *   bis
-
-            *   140
-
-            *   165
-
-            *   195
-
-            *   235
-
-            *   280
-
-            *   340
-
-            *   405
-
-            *   490
-
-            *   580
-
-            *   700
-
-            *   880
-
-            *   1100
-
-            *   1400
-
-            *   1800
-
-            *   2300
-
-
-        *            *   Anlagenvariante
-
-            *   Erforderliche Wärmeschutzvariante
-
-
-        *            *   1
-
-            *   Kessel für feste Biomasse, Pufferspeicher und zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   2
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung, Lüftungsanlage mit
-                Wärmerückgewinnung
-
-            *   B
-
-            *   A
-
-
-        *            *   3
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung und
-                Heizungsunterstützung (Kombianlage), Pufferspeicher, Lüftungsanlage
-                mit
-                Wärmerückgewinnung
-
-            *   C
-
-
-        *            *   4
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-            *   C
-
-            *   B
-
-            *   A
-
-
-        *            *   5
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung, Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-
-        *            *   6
-
-            *   Luft-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   7
-
-            *   Luft-Wasser-Wärmepumpe,
-                dezentrale Trinkwassererwärmung
-
-            *   D
-
-            *   C
-
-            *   B
-
-            *   A
-
-            *
-
-        *            *   8
-
-            *   Luft-Wasser-Wärmepumpe, dezentrale Trinkwassererwärmung,
-                Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-            *   C
-
-
-        *            *   9
-
-            *   Wasser-Wasser-Wärmepumpe, zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   10
-
-            *   Sole-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-
-
-
-    c)  Ausführungsvarianten für ein zweiseitig angebautes Wohngebäude
-
-        Bei einem zweiseitig angebauten Gebäude gemäß § 3 Absatz 1 Nummer 34
-        erfüllen die Ausführungsvarianten nach Maßgabe von Tabelle 3 die
-        Anforderungen des § 10 Absatz 2 in Verbindung mit den §§ 15 bis 17 und
-        den §§ 34 bis 45.
-
-
-        *            *   Tabelle 3
-                Ausführungsvarianten für ein zweiseitig angebautes Gebäude
-
-
-
-
-        *            *   Anlagenvariante
-                Nummer
-
-            *
-            *   1
-
-            *   2
-
-            *   3
-
-            *   4
-
-            *   5
-
-            *   6
-
-            *   7
-
-            *   8
-
-            *   9
-
-            *   10
-
-            *   11
-
-            *   12
-
-            *   13
-
-            *   14
-
-            *   15
-
-
-        *            *   Beheizte Bruttogrundfläche
-                des Gebäudes A
-                BGF                                    in m
-                2
-
-            *   von
-
-            *   115
-
-            *   141
-
-            *   166
-
-            *   196
-
-            *   236
-
-            *   281
-
-            *   341
-
-            *   406
-
-            *   491
-
-            *   581
-
-            *   701
-
-            *   881
-
-            *   1101
-
-            *   1401
-
-            *   1801
-
-
-        *            *   bis
-
-            *   140
-
-            *   165
-
-            *   195
-
-            *   235
-
-            *   280
-
-            *   340
-
-            *   405
-
-            *   490
-
-            *   580
-
-            *   700
-
-            *   880
-
-            *   1100
-
-            *   1400
-
-            *   1800
-
-            *   2300
-
-
-        *            *   Anlagenvariante
-
-            *   Erforderliche Wärmeschutzvariante
-
-
-        *            *   1
-
-            *   Kessel für feste Biomasse, Pufferspeicher und zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   2
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung, Lüftungsanlage mit
-                Wärmerückgewinnung
-
-            *   B
-
-            *   A
-
-
-        *            *   3
-
-            *   Brennwertgerät zur Verfeuerung von Erdgas oder leichtem Heizöl,
-                Solaranlage zur zentralen Trinkwassererwärmung und
-                Heizungsunterstützung (Kombianlage), Pufferspeicher, Lüftungsanlage
-                mit
-                Wärmerückgewinnung
-
-            *   C
-
-            *   D
-
-
-        *            *   4
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung
-
-            *   D
-
-            *   B
-
-            *   A
-
-
-        *            *   5
-
-            *   Nah-/Fernwärmeversorgung oder lokale Kraft-Wärme-Kopplung, zentrale
-                Trinkwassererwärmung, Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-
-        *            *   6
-
-            *   Luft-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   7
-
-            *   Luft-Wasser-Wärmepumpe,
-                dezentrale Trinkwassererwärmung
-
-            *   D
-
-            *   B
-
-            *   A
-
-            *
-
-        *            *   8
-
-            *   Luft-Wasser-Wärmepumpe, dezentrale Trinkwassererwärmung,
-                Lüftungsanlage mit Wärmerückgewinnung
-
-            *   D
-
-            *   C
-
-            *   B
-
-
-        *            *   9
-
-            *   Wasser-Wasser-Wärmepumpe, zentrale Trinkwassererwärmung
-
-            *   D
-
-
-        *            *   10
-
-            *   Sole-Wasser-Wärmepumpe,
-                zentrale Trinkwassererwärmung
-
-            *   D
-
-
-
-
-
-
-
-
-
-
-**3.** **Beschreibung der Wärmeschutz- und Anlagenvarianten**
-
-    a)  Baulicher Wärmeschutz
-
-        Der bauliche Wärmeschutz genügt dann einer der in der Tabelle Spalte 3
-        genannten Wärmeschutzvarianten, wenn sämtliche der dort genannten
-        Wärmedurchgangskoeffizienten nicht überschritten werden. Für die
-        Bestimmung der Wärmedurchgangskoeffizienten des ausgeführten
-        Wohngebäudes ist § 20 Absatz 6 entsprechend anzuwenden.
-
-
-        *            *   Tabelle
-                Varianten des baulichen Wärmeschutzes
-
-
-
-
-        *            *   Spalte
-                Nummer
-
-            *   1
-
-            *   2
-
-            *   3
-
-
-        *            *   Bauteil
-
-            *   Eigenschaft
-
-            *   Wärmeschutz-Variante
-
-
-        *            *   A
-
-            *   B
-
-            *   C
-
-            *   D
-
-
-        *            *   1
-
-            *   Außenwände, Geschossdecke nach unten gegen Außenluft
-
-            *   Höchstwert des Wärmedurchgangskoeffizienten U
-                [W/(m
-                2                                   ∙K)]
-
-            *   0,15
-
-            *   0,19
-
-            *   0,23
-
-            *   0,28
-
-
-        *            *   2
-
-            *   Außenwände gegen Erdreich,
-                Bodenplatte, Wände und Decken nach unten zu unbeheizten Räumen
-
-            *   0,20
-
-            *   0,26
-
-            *   0,29
-
-            *   0,35
-
-
-        *            *   3
-
-            *   Dach, oberste Geschossdecke, Wände zu Abseiten
-
-            *   0,11
-
-            *   0,14
-
-            *   0,16
-
-            *   0,20
-
-
-        *            *   4
-
-            *   Fenster, Fenstertüren
-
-            *   0,90
-
-            *   0,95
-
-            *   1,1
-
-            *   1,3
-
-
-        *            *   5
-
-            *   Dachflächenfenster
-
-            *   1,4
-
-            *   1,4
-
-            *   1,4
-
-            *   1,4
-
-
-        *            *   6
-
-            *   Lichtkuppeln und ähnliche Bauteile
-
-            *   1,8
-
-            *   1,8
-
-            *   1,8
-
-            *   1,8
-
-
-        *            *   7
-
-            *   Außentüren
-
-            *   1,8
-
-            *   1,8
-
-            *   1,8
-
-            *   1,8
-
-
-        *            *   8
-
-            *[^F812398_09_BJNR172810020BJNE012100000]
-   Spezielle Fenstertüren
-
-            *   1,6
-
-            *   1,6
-
-            *   1,6
-
-            *   1,6
-
-
-
-
-
-    b)  Anforderung an die Anlagenvarianten
-
-        Das vereinfachte Nachweisverfahren nach § 31 Absatz 1 ist nur für
-        Wohngebäude mit Zentralheizungen nach Maßgabe der Nummer 2 Tabelle 1
-        bis 3 bei Ausstattung des Gebäudes mit den dort beschriebenen
-        Anlagenvarianten anwendbar. Dabei sind folgende Voraussetzungen
-        einzuhalten:
-
-        aa) Die Auslegungstemperatur des Heizkreises darf 55/45 Grad Celsius nicht
-            überschreiten. Alle Steige- und Anbindungsleitungen der Heizung und
-            Warmwasserversorgung sind innerhalb des beheizten Gebäudevolumens zu
-            verlegen.
-
-
-        bb) Wenn die Ausführungsvariante eine Lüftungsanlage mit
-            Wärmerückgewinnung vorsieht, darf der verbesserte Standardwert für den
-            Gesamt-Temperaturänderungsgrad nach DIN V 18599-6: 2018-09 Abschnitt
-            5\.2.2.2 nicht unterschritten werden.
-
-
-        cc) Wenn die Ausführungsvariante einen Kessel für feste Biomasse vorsieht,
-            muss dieser über eine automatische Beschickung verfügen. Die Vorgaben
-            der Verordnung über kleine und mittlere Feuerungsanlagen sind
-            einzuhalten. Die Kennwerte des Kessels dürfen die in DIN V 18599-5:
-            2018-09 Abschnitt 6.5.4.3.7 angegebenen Standardwerte nicht
-            unterschreiten.
-
-
-        dd) Wenn die Ausführungsvariante ein Brennwertgerät zur Verfeuerung von
-            Erdgas oder leichtem Heizöl vorsieht, dürfen die Kennwerte des Kessels
-            die in DIN V 18599-5: 2018-09 Abschnitt 6.5.4.3.7 angegebenen
-            verbesserten Standardwerte nicht unterschreiten.
-
-
-        ee) Wenn die Ausführungsvariante eine Solaranlage zur Trinkwassererwärmung
-            und Heizungsunterstützung (Kombianlage) vorsieht, muss der
-            Solarkollektor mindestens eine Kollektorfläche in Höhe des 0,17fachen
-            der mit 0,8 potenzierten Bruttogrundfläche des Gebäudes A
-            BGF, Gebäude                                aufweisen. Das
-            Speichervolumen darf nicht weniger als 70 Liter je Quadratmeter
-            Kollektorfläche betragen.
-
-
-        ff) Wenn die Ausführungsvariante eine Solaranlage zur Trinkwassererwärmung
-            vorsieht, muss der Solarkollektor mindestens eine Kollektorfläche in
-            Höhe des 0,09fachen der mit 0,8 potenzierten Bruttogrundfläche des
-            Gebäudes A
-            BGF, Gebäude                                aufweisen. Das
-            Speichervolumen darf nicht weniger als 77 Liter je Quadratmeter
-            Kollektorfläche betragen.
-
-
-        gg) Wenn die Ausführungsvariante eine Wärmeversorgung aus einem
-            Nah-/Fernwärmenetz oder eine Wärmeversorgung über ein lokales Gerät
-            zur Kraft-Wärme-Kopplung vorsieht, muss ein Primärenergiefaktor für
-            die Wärme von 0,60 oder besser dauerhaft eingehalten werden.
-
-
-        hh) Wenn die Ausführungsvariante eine Luft-Wasser-Wärmepumpe vorsieht,
-            muss die Wärmepumpe mindestens die in DIN V 18599-5: 2018-09 Anhang
-            C.1 Tabelle 60 bis 62 angegebenen Leistungszahlen aufweisen.
-
-
-        ii) Wenn die Ausführungsvariante eine Wasser-Wasser-Wärmepumpe vorsieht,
-            muss die Wärmepumpe mindestens die in DIN V 18599-5: 2018-09 Anhang
-            C.1 Tabelle 64 angegebenen Leistungszahlen aufweisen.
-
-
-        jj) Wenn die Ausführungsvariante eine Sole-Wasser-Wärmepumpe vorsieht,
-            muss die Wärmepumpe mindestens die in DIN V 18599-5: 2018-09 Anhang
-            C.1 Tabelle 63 angegebenen Leistungszahlen aufweisen.
-
-
-        kk) Eine zentrale Trinkwassererwärmungsanlage ist gemäß DIN V 18599-8:
-            2018-09 ein Heizungssystem, bei dem die Wärme in einem Gerät erzeugt
-            und über Verteilleitungen an mehrere Räume eines Gebäudes
-            transportiert wird. Wenn eine Ausführung eine zentrale
-            Trinkwassererwärmung vorsieht, erfolgt diese über den Wärmeerzeuger
-            der Heizung; bei den Anlagenvarianten 2 und 3 über den Wärmeerzeuger
-            der Heizung in Kombination mit der Solaranlage.
-
-
-        ll) Eine dezentrale Trinkwassererwärmungsanlage ist gemäß DIN V 18599-8:
-            2018-09 ein System, bei dem die Wärme zur Trinkwassererwärmung in
-            einem Gerät erzeugt und im gleichen Raum übergeben wird. Wenn eine
-            Ausführungsvariante eine dezentrale Trinkwassererwärmung vorsieht,
-            erfolgt diese über direkt-elektrische Systeme.
-
-
-
-
-
-
-
-
-
-
-[^F812398_03_BJNR172810020BJNE012100000]:     Die „beheizte Bruttogrundfläche des Gebäudes A             BGF
+    Der Aufstellungsort des Wärmeerzeugers beziehungsweise der
+    Wärmeübergabestation muss innerhalb der thermischen Gebäudehülle
+    liegen und es muss eine zentrale Trinkwarmwasser-Bereitung vorhanden
+    sein. Bei Wahl eines Anlagenkonzeptes mit Wärmepumpe dürfen einzelne
+    Komponenten auch außerhalb der thermischen Gebäudehülle aufgestellt
+    werden, wenn sich mindestens die Geräte zur Wärmespeicherung und
+    -verteilung innerhalb der thermischen Gebäudehülle befinden. Bei Wahl
+    einer Wärmepumpe kann die Trinkwarmwasser-Bereitung mittels
+    Durchlauferhitzer dezentral erfolgen. Eine Trinkwarmwasser-Zirkulation
+    ist zulässig.
+
+    Eine zentrale Abluftanlage kann durch eine Lüftungsanlage mit
+    Wärmerückgewinnung ersetzt werden. Für diese besteht dann keine
+    Anforderung an einen ausschließlichen Einsatz einer zentralen Anlage.
+    Darüber hinausgehende Abweichungen von den genannten Anforderungen an
+    die Bauteile und den aufgeführten Anlagenkonzepten sind für dieses
+    Nachweisverfahren nicht zulässig. Weitere Wärmeerzeuger für Heizung
+    oder Trinkwarmwasser sind nicht zulässig, auch nicht als ergänzender
+    Wärmeerzeuger. Soweit sinnvoll, können die Konzepte um solarthermische
+    Anlagen (Heizungsunterstützung und Trinkwarmwasser-Bereitung) oder
+    Photovoltaik-Anlagen ergänzt werden.
+
+    Als zentrale Lüftungsanlage gelten sowohl gebäude- als auch
+    wohnungszentrale Anlagen. Die Anforderung an den Einbau einer
+    Lüftungsanlage besteht dabei an das Gebäude. Bei dem Einbau
+    wohnungszentraler Anlagen in ein Mehrfamilienhaus sind Anlagen
+    mindestens in jede einzelne Wohnung einzubauen. Die jeweiligen
+    Anforderungen an den Wärmebereitstellungsgrad werden für
+    Lüftungsanlagen mit Wärmerückgewinnung gleichwertig erfüllt, wenn die
+    zentrale Lüftungsanlage einen spezifischen Energieverbrauch von SEV <
+    – 26 kWh/(m
+    2                    a) gemäß der Definition des SEV nach Anhang 1
+    Nummer 1 der Verordnung (EU) Nr.
+    1253/2014                    der Kommission vom 7. Juli 2014 zur
+    Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments
+    und des Rates hinsichtlich der Anforderungen an die umweltgerechte
+    Gestaltung von Lüftungsanlagen (ABl. L 337 vom 25.11.2014, S. 8)
+    aufweist.
+
+
+
+
+[^F812398_03_BJNR172810020BJNE012101119]:     Die „beheizte Bruttogrundfläche des Gebäudes A             BGF
     “ ist die Summe der Bruttogrundflächen aller beheizten Geschosse,
     wobei bei Gebäuden mit zwei oder mehr beheizten Geschossen nur 80
     Prozent der Bruttogrundfläche des obersten beheizten Geschosses
     eingerechnet werden.
     Die „mittlere Geschosshöhe des Gebäudes“ ist der flächengewichtete
     Durchschnitt der Geschosshöhen aller beheizten Geschosse des Gebäudes.
-[^F812398_04_BJNR172810020BJNE012100000]:     Kellerabgänge und Kellervorräume sind keine beheizten Geschosse im
+[^F812398_04_BJNR172810020BJNE012101119]:     Kellerabgänge und Kellervorräume sind keine beheizten Geschosse im
     Sinne dieser Regelung, soweit sie nur indirekt beheizt sind.
-[^F812398_05_BJNR172810020BJNE012100000]:     Der Fensterflächenanteil ist der Quotient aus Fensterfläche und der
+[^F812398_05_BJNR172810020BJNE012101119]:     Der Fensterflächenanteil ist der Quotient aus Fensterfläche und der
     Summe aus Fensterfläche und Außenwand-/Fassadenfläche. Die
     Fensterfläche ist einschließlich Fenstertüren und spezieller
     Fenstertüren zu ermitteln; spezielle Fenstertüren sind barrierefreie
     Fenstertüren gemäß DIN 18040-2: 2011-09 sowie Schiebe-, Hebe-Schiebe-,
     Falt- und Faltschiebetüren.
-[^F812398_06_BJNR172810020BJNE012100000]:     Fenster sind in nördliche Richtungen orientiert, wenn die Senkrechte
+[^F812398_06_BJNR172810020BJNE012101119]:     Fenster sind in nördliche Richtungen orientiert, wenn die Senkrechte
     auf die Fensterfläche nicht mehr als 22,5 Grad von der Nordrichtung
     abweicht.
-[^F812398_07_BJNR172810020BJNE012100000]:     Öffnungsmaße von Fenstern und Türen werden gemäß DIN V 18599-1:
+[^F812398_07_BJNR172810020BJNE012101119]:     Öffnungsmaße von Fenstern und Türen werden gemäß DIN V 18599-1:
     2018-09 mit den lichten Rohbaumaßen innen ermittelt.
-[^F812398_08_BJNR172810020BJNE012100000]:     Spezielle Fenstertüren sind Fenstertüren mit Klapp-, Falt-, Schiebe-
-    oder Hebemechanismus.
-[^F812398_09_BJNR172810020BJNE012100000]: 
+[^F812398_08_BJNR172810020BJNE012101119]: 
 (zu § 32 Absatz 3)
 
 ### Anlage 6 Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude
@@ -7865,7 +6955,8 @@ ist.
 
 ### Anlage 9 Umrechnung in Treibhausgasemissionen
 
-(Fundstelle: BGBl. I 2020, 1788 - 1789)
+(Fundstelle: BGBl. I 2020, 1788 - 1789; bezüglich der einzelnen
+Änderungen vgl. Fußnote)
 
 
 **1.** **Angabe in Energiebedarfsausweisen**
@@ -7930,27 +7021,10 @@ ist.
         den betreffenden Emissionsfaktoren, zu ermitteln.
 
 
-    g)  Wird Strom aus gebäudenaher erneuerbarer Erzeugung nach § 23 Absatz 2
-        oder Absatz 3 bilanziell bei der Ermittlung des Primärenergiebedarfs
-        angerechnet, sind zur Ermittlung der Treibhausgasemissionen des
-        Gebäudes zunächst die Emissionen nach Buchstabe a zu ermitteln, die
-        sich ohne Anrechnung von Strom aus gebäudenaher Erzeugung ergeben
-        würden. Der nach Satz 1 ermittelte Wert ist durch den Endenergiebedarf
-        des Gebäudes zu dividieren. Der nach Satz 2 ermittelte mittlere
-        Emissionsfaktor des Gebäudes ist mit dem durch 1,8 dividierten, nach §
-        23 Absatz 2 oder Absatz 3 ermittelten primärenergetisch anrechenbaren
-        Anteil des Stroms aus gebäudenaher Erzeugung zu multiplizieren. Die
-        Treibhausgasemissionen des Gebäudes ergeben sich nach Abzug des nach
-        Satz 3 ermittelten Werts von den nach Satz 1 ermittelten Emissionen
-        des Gebäudes.
+    g)  (weggefallen)
 
 
-    h)  Für Gebäude, auf die § 23 Absatz 4 anzuwenden ist, ist abweichend von
-        Buchstabe g das in § 23 Absatz 4 bestimmte Verfahren zur Bestimmung
-        des endenergetischen Strombedarfswerts nach Anrechnung des gebäudenah
-        erzeugten erneuerbaren Stroms anzuwenden. Der nach Satz 1 ermittelte
-        Wert ist dann zur Ermittlung der Treibhausgasemissionen des Gebäudes
-        nach Buchstabe a oder Buchstabe f zu verwenden.
+    h)  (weggefallen)
 
 
 

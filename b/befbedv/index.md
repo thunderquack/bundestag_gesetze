@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1970, 230
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.5.2015 I 782
-
-Änderung durch
-:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 2.8.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5a G v. 16.4.2021 I 822
 
 
 ## Eingangsformel

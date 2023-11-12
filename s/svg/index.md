@@ -23,7 +23,7 @@ Neugefasst durch
 :   Bek. v. 16.9.2009 I 3054;
 
 Zuletzt geändert durch
-:   Art. 20h G v. 22.11.2021 I 4906
+:   Art. 20 G v. 20.12.2022 I 2759
 
 
 ## Teil 1 - Einleitende Vorschriften
@@ -913,15 +913,15 @@ sind vorzubehalten
 
 
 Soweit eine Einstellung nicht unmittelbar in ein Beamtenverhältnis
-oder ein Angestelltenverhältnis im Sinne des Satzes 1 vorgesehen,
-sondern zunächst ein vorgeschaltetes Ausbildungsverhältnis zu
-durchlaufen ist, sind an Stelle der nach Satz 1 vorzubehaltenden
-Stellen in entsprechender Anzahl Stellen bei Einstellungen in die
-vorgeschalteten Ausbildungsverhältnisse vorzubehalten. Wird die
-Ausbildung für eine Beamtenlaufbahn ausschließlich in einem anderen
-Arbeitsverhältnis als dem eines Beamten auf Widerruf im
-Vorbereitungsdienst durchgeführt, gilt bei Einstellungen in dieses
-Ausbildungsverhältnis Satz 1 Nummer 1 entsprechend.
+oder ein Arbeitsverhältnis im Sinne des Satzes 1 vorgesehen, sondern
+zunächst ein vorgeschaltetes Ausbildungsverhältnis zu durchlaufen ist,
+sind an Stelle der nach Satz 1 vorzubehaltenden Stellen in
+entsprechender Anzahl Stellen bei Einstellungen in die vorgeschalteten
+Ausbildungsverhältnisse vorzubehalten. Wird die Ausbildung für eine
+Beamtenlaufbahn ausschließlich in einem anderen Ausbildungsverhältnis
+als dem eines Beamten auf Widerruf im Vorbereitungsdienst
+durchgeführt, gilt bei Einstellungen in dieses Ausbildungsverhältnis
+Satz 1 Nummer 1 entsprechend.
 
 (2) Bei der Einstellung von Tarifbeschäftigten, die bei den Trägern
 der Sozialversicherung für eine dienstordnungsmäßige Anstellung
@@ -1075,7 +1075,7 @@ sich um
 
 1.  Zeiten einer Verlängerung nach § 40 Absatz 3 des Soldatengesetzes, in
     der während einer Beurlaubung ohne Geld- und Sachbezüge
-    Verwendungseinkommen im Sinne des § 53 Absatz 5 erzielt wird,
+    Verwendungseinkommen im Sinne des § 53 Absatz 6 erzielt wird,
 
 
 2.  Zeiten einer Freistellung vom militärischen Dienst nach § 5 Absatz 11.
@@ -1085,7 +1085,9 @@ sich um
 Die Bezugszeiträume verkürzen sich ferner um den Umfang einer
 Minderung nach Maßgabe des § 5 Absatz 5 Satz 2, Absatz 6 bis 8 und 10;
 bei einer Verkürzung nach Absatz 10 verbleibt ein Anspruch auf
-Übergangsgebührnisse von mindestens sechs Monaten.
+Übergangsgebührnisse von mindestens sechs Monaten, jedes weitere
+vollständig abgeleistete Dienstjahr erhöht den Anspruch um einen
+weiteren Monat.
 
 (3) Die Übergangsgebührnisse betragen 75 Prozent der Dienstbezüge des
 letzten Monats; war ein Soldat auf Zeit im letzten Monat ohne
@@ -1123,7 +1125,7 @@ Lebensunterhalts notwendig ist.
 
 (6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die
 Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal
-für insgesamt längstens zwölf Monate aufgeschoben oder unterbrochen
+für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen
 werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im
 Sinne des § 53 Absatz 6 Satz 1 bezogen wird. Soweit es der
 Eingliederung in das zivile Erwerbsleben dient, kann die für die
@@ -1185,7 +1187,7 @@ auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 42a haben,
 ist Satz 1 nicht anzuwenden.
 
 
-##### § 11b Beitragszuschüsse zur Kranken- und Pflegeversicherung
+##### § 11b Beitragszuschüsse zur Kranken- und Pflegeversicherung sowie Beiträge an berufsständische Versorgungseinrichtungen
 
 (1) In der gesetzlichen Krankenversicherung und in der sozialen
 Pflegeversicherung versicherte Empfänger von Übergangsgebührnissen
@@ -1203,8 +1205,13 @@ Krankenversicherung und zur sozialen Pflegeversicherung, wenn sie
 
 
 
-Der Anspruch ist ausgeschlossen, wenn ein Anspruch auf einen
-Beitragszuschuss des Arbeitgebers nach § 257 Absatz 1 Satz 1 des
+Beitragszuschussempfänger nach Satz 1, denen der Unterschiedsbetrag
+nach § 47 Absatz 1 Satz 2 zusteht, erhalten daneben einen Zuschuss in
+Höhe der Hälfte der auf Grundlage des Unterschiedsbetrags nach § 47
+Absatz 1 Satz 2 zu entrichtenden Beiträge zur gesetzlichen
+Krankenversicherung und zur sozialen Pflegeversicherung. Der Anspruch
+nach den Sätzen 1 und 2 ist ausgeschlossen, wenn ein Anspruch auf
+einen Beitragszuschuss des Arbeitgebers nach § 257 Absatz 1 Satz 1 des
 Fünften Buches Sozialgesetzbuch und § 61 Absatz 1 Satz 1 des Elften
 Buches Sozialgesetzbuch besteht.
 
@@ -1213,37 +1220,41 @@ Empfänger von Übergangsgebührnissen erhalten während des regelmäßigen
 Bezugs der Übergangsgebührnisse einen Zuschuss zu ihren Beiträgen zur
 Kranken- und Pflegeversicherung, wenn sie Vertragsleistungen
 beanspruchen können, die der Art nach den Leistungen nach dem Fünften
-Buch Sozialgesetzbuch und dem Elften Buch Sozialgesetzbuch
-entsprechen. Der Anspruch erstreckt sich auch auf einen Zuschuss zu
-Kranken- und Pflegeversicherungsbeiträgen für Angehörige, die bei
-Versicherung des Empfängers von Übergangsgebührnissen in der
-gesetzlichen Krankenversicherung und in der sozialen
-Pflegeversicherung nach § 10 des Fünften Buches Sozialgesetzbuch und
-nach § 25 des Elften Buches Sozialgesetzbuch familienversichert wären.
-Der Anspruch ist ausgeschlossen, wenn ein Anspruch auf einen
-Beitragszuschuss des Arbeitgebers nach § 257 Absatz 2 Satz 1 des
-Fünften Buches Sozialgesetzbuch und § 61 Absatz 2 Satz 1 des Elften
-Buches Sozialgesetzbuch oder auf Beihilfe nach beamtenrechtlichen
+und dem Elften Buch Sozialgesetzbuch entsprechen. Der Anspruch
+erstreckt sich auch auf einen Zuschuss zu Kranken- und
+Pflegeversicherungsbeiträgen für Angehörige, die bei Versicherung des
+Empfängers von Übergangsgebührnissen in der gesetzlichen
+Krankenversicherung und in der sozialen Pflegeversicherung nach § 10
+des Fünften Buches Sozialgesetzbuch und nach § 25 des Elften Buches
+Sozialgesetzbuch familienversichert wären. Der Anspruch ist
+ausgeschlossen, wenn ein Anspruch auf einen Beitragszuschuss des
+Arbeitgebers nach § 257 Absatz 2 Satz 1 des Fünften Buches
+Sozialgesetzbuch und nach § 61 Absatz 2 Satz 1 des Elften Buches
+Sozialgesetzbuch oder auf Beihilfe nach beamtenrechtlichen
 Vorschriften besteht. Die Höhe des Zuschusses entspricht der Hälfte
 des ermäßigten Beitragssatzes nach § 243 des Fünften Buches
 Sozialgesetzbuch zuzüglich der Hälfte des durchschnittlichen
 Zusatzbeitragssatzes nach § 242a des Fünften Buches Sozialgesetzbuch
 sowie der Hälfte des Beitragssatzes nach § 55 Absatz 1 des Elften
 Buches Sozialgesetzbuch unter Zugrundelegung der Übergangsgebührnisse
-als beitragspflichtige Einnahme. Sind die Beiträge zur privaten
-Kranken- und Pflegeversicherung niedriger als die Beiträge, die auf
-der Grundlage der Übergangsgebührnisse als Beitrag zur gesetzlichen
-Krankenversicherung und zur sozialen Pflegeversicherung zu entrichten
-wären, werden als Zuschüsse nach den Sätzen 1 und 2 höchstens die
-Hälfte der Beiträge gezahlt, die der Empfänger von
+als beitragspflichtige Einnahme. Beitragszuschussempfänger nach Satz
+1, denen der Unterschiedsbetrag nach § 47 Absatz 1 Satz 2 zusteht,
+erhalten daneben einen Zuschuss, dessen Höhe sich nach den in Satz 4
+benannten Kriterien bei Zugrundelegung des Unterschiedsbetrags nach §
+47 Absatz 1 Satz 2 als beitragspflichtige Einnahme richtet. Sind die
+Beiträge zur privaten Kranken- und Pflegeversicherung niedriger als
+die Beiträge, die auf der Grundlage der Übergangsgebührnisse und des
+Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 als Beitrag zur
+gesetzlichen Krankenversicherung und zur sozialen Pflegeversicherung
+zu entrichten wären, werden als Zuschüsse nach den Sätzen 1, 2 und 5
+höchstens die Hälfte der Beiträge gezahlt, die der Empfänger von
 Übergangsgebührnissen für die private Kranken- und Pflegeversicherung
 zu zahlen hat.
 
-(3) Die Absätze 1 und 2 gelten auch für einen Zeitraum, für den nach §
-11 Absatz 7 Satz 1 Übergangsgebührnisse nicht zustehen. Bei der
-Bemessung des Zuschusses ist in diesem Zeitraum das
-Versorgungskrankengeld als beitragspflichtige Einnahme zugrunde zu
-legen.
+(3) Absatz 2 gilt auch für einen Zeitraum, für den nach § 11 Absatz 7
+Satz 1 Übergangsgebührnisse nicht zustehen. Bei der Bemessung des
+Zuschusses ist in diesem Zeitraum das Versorgungskrankengeld als
+beitragspflichtige Einnahme zugrunde zu legen.
 
 (4) In der gesetzlichen Krankenversicherung freiwillig versicherte
 frühere Soldaten auf Zeit, die eine Rente der gesetzlichen
@@ -1265,6 +1276,33 @@ entrichtenden Beiträge mehr als 15 Prozent der beitragspflichtigen
 Einnahmen des früheren Soldaten auf Zeit betragen. Die
 wirtschaftlichen Verhältnisse der früheren Soldaten auf Zeit sind
 angemessen zu berücksichtigen.
+
+(5) Für Empfänger von Übergangsgebührnissen sind Beiträge zur
+berufsständischen Versorgungseinrichtung zu zahlen, wenn wegen einer
+durchgeführten Nachversicherung in einer berufsständischen
+Versorgungseinrichtung nach § 3 Satz 1 Nummer 2b des Sechsten Buches
+Sozialgesetzbuch keine Versicherungspflicht in der gesetzlichen
+Rentenversicherung besteht. Dies gilt auch für Zeiten vor Durchführung
+der Nachversicherung, wenn auf Grund des mit der Durchführung der
+Nachversicherung nach § 3 Satz 1 Nummer 2b des Sechsten Buches
+Sozialgesetzbuch eingetretenen rückwirkenden Wegfalls der
+Versicherungspflicht in der gesetzlichen Rentenversicherung für die
+Zeit des Bezugs der Übergangsgebührnisse Beiträge von der gesetzlichen
+Rentenversicherung zu erstatten sind.
+
+(6) Die Beiträge nach Absatz 5 werden nach dem jeweils gültigen
+Beitragssatz zur allgemeinen Rentenversicherung von der
+Beitragsbemessungsgrundlage erhoben, die nur bis zur jeweiligen
+Beitragsbemessungsgrenze berücksichtigt wird. § 166 Absatz 1 Nummer 1c
+des Sechsten Buches Sozialgesetzbuch gilt entsprechend. Für Empfänger
+von Übergangsgebührnissen, denen auf Grund von Absatz 5
+Beitragszahlungen an eine berufsständische Versorgungseinrichtung
+zustehen und die auf Grund einer selbständigen Tätigkeit nicht in der
+gesetzlichen Rentenversicherung versicherungspflichtig sind, gilt §
+166 Absatz 1 Nummer 1c des Sechsten Buches Sozialgesetzbuch mit der
+Maßgabe, dass anstelle des Einkommens aus weiteren Versicherungsfällen
+das Arbeitseinkommen nach § 15 des Vierten Buches Sozialgesetzbuch zu
+berücksichtigen ist.
 
 
 ##### § 12 Übergangsbeihilfe
@@ -1756,7 +1794,7 @@ als die festgesetzte Dienstzeit.
 ##### § 13e Unterhaltsbeitrag für Soldaten auf Zeit
 
 Einem früheren Soldaten auf Zeit, dessen Dienstverhältnis nach einer
-Gesamtdienstzeit von mehr als 20 Jahren wegen Ablaufs der
+Gesamtdienstzeit von mindestens 20 Jahren wegen Ablaufs der
 festgesetzten Wehrdienstzeit oder wegen Dienstunfähigkeit endet,
 nachdem seine Dienstzeit auf mindestens 20 Jahre festgesetzt wurde,
 kann nach Beendigung der Zahlung der Übergangsgebührnisse nach § 11

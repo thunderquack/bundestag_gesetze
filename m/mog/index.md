@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.11.2017 I 3746;
 
 Zuletzt geändert durch
-:   Art. 108 G v. 10.8.2021 I 3436
+:   Art. 2 Abs. 23 G v. 20.12.2022 I 2752
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
@@ -1465,18 +1465,27 @@ mit der Maßgabe, dass
 (2) Als für die Durchführung zuständige Stelle kann in
 Rechtsverordnungen
 
-1.  nach § 6 Absatz 1 Nummer 1 Buchstabe a, b, d, e, f, i, k, m, n, o, p,
-    q und t und Nummer 2, §§ 8, 9, 9a, 9b, 9c, 9d, 15, 16, 21 Satz 1
-    Nummer 1, 2 und 3 und § 27 Nummer 2 Buchstabe b die
-    Marktordnungsstelle oder die Bundesfinanzverwaltung,
+1.  nach § 6 Absatz 1 Nummer 1 Buchstabe a, b, d, e, i, k, m, n, o, p und
+    q und Nummer 2, die §§ 8, 9, 9a, 21 Satz 1 Nummer 1, 2 und 3 und § 27
+    Nummer 2 Buchstabe b die Marktordnungsstelle oder die
+    Bundesfinanzverwaltung,
 
 
-2.  nach § 6 Absatz 1 Nummer 1 Buchstabe c, g, h, j, l, r und s und § 6a
+2.  nach § 6 Absatz 1 Nummer 1 Buchstabe f und t, die §§ 9b, 9c und 9d, 15
+    und 16 die Marktordnungsstelle, die Bundesfinanzverwaltung oder die
+    Sozialversicherung für Landwirtschaft, Forsten und Gartenbau,
+
+
+3.  nach § 6 Absatz 1 Nummer 1 Buchstabe c, g, h, j, l, r und s und § 6a
     Absatz 1 die Marktordnungsstelle
 
 
 
-bestimmt werden. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1
+bestimmt werden. Wird bei Regelungen nach Satz 1 Nummer 2 die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als für
+die Durchführung zuständige Stelle bestimmt, bedarf die
+Rechtsverordnung des Einvernehmens des Bundesministeriums für Arbeit
+und Soziales. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1
 Absatz 2 Nummer 4 Bestimmungen über die Zuständigkeit enthalten. Bei
 Regelungen nach Satz 1 bedürfen Rechtsverordnungen nach § 6 Absatz 1
 Nummer 1 Buchstabe b, d, e, f, g, h, j, m, n, r, s und t der
@@ -1487,6 +1496,37 @@ Zustimmung des Bundesrates die Marktordnungsstelle als zuständige
 Stelle für die Durchführung von Regelungen im Sinne des § 1 Absatz 2
 Nummer 1 bis 3 hinsichtlich Marktordnungswaren zu bestimmen. § 6
 Absatz 4 Satz 2 gilt entsprechend.
+
+
+### § 31a Aufsicht; Kostenerstattung
+
+(1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+untersteht bei der Durchführung einer ihr durch eine Regelung nach §
+31 Absatz 2 Satz 1 Nummer 2 übertragenen Aufgabe der Aufsicht des
+Bundesministeriums. Umfang und Art der Durchführung seiner Aufsicht
+bestimmt das Bundesministerium im Einvernehmen mit dem
+Bundesministerium für Arbeit und Soziales.
+
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne
+Zustimmung des Bundesrates
+
+1.  die Übertragung der Aufsicht an die Bundesanstalt,
+
+
+2.  die Einzelheiten der Aufsicht
+
+
+
+zu regeln, soweit dies erforderlich ist, um Anforderungen in
+Regelungen in § 1 Absatz 2 Nummer 1 bis 3 hinsichtlich der Abwicklung
+von Zahlungen im Rahmen der Gemeinsamen Agrarpolitik einzuhalten.
+
+(3) Wird bei einer Regelung nach § 31 Absatz 2 Satz 1 Nummer 2 die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als für
+die Durchführung zuständige Stelle bestimmt, werden ihr alle
+Verwaltungskosten, die ihr durch die Wahrnehmung der Aufgabe
+entstehen, vom Bund erstattet.
 
 
 ### § 32 Meldepflichten
@@ -1676,12 +1716,15 @@ Aufbewahrungsfristen entgegenstehen.
 
 Die zuständigen Zahlstellen im Sinne des Integrierten Verwaltungs- und
 Kontrollsystems für Maßnahmen der Gemeinsamen Agrarpolitik übermitteln
-der Marktordnungsstelle zur Durchführung und Überwachung
+der Marktordnungsstelle oder der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau zur Durchführung und Überwachung
 außergewöhnlicher Maßnahmen Betriebsdaten im Sinne des § 2 des
 InVeKoS-Daten-Gesetzes, die in Vorschriften im Sinne des § 34a Absatz
-1 Nummer 1 vorgesehen sind. Die Marktordnungsstelle verarbeitet die
-nach Satz 1 übermittelten Daten zum Zwecke der Durchführung und
-Überwachung außergewöhnlicher Maßnahmen. § 34d gilt entsprechend.
+1 Nummer 1 vorgesehen sind. Die Marktordnungsstelle oder die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+verarbeitet die nach Satz 1 übermittelten Daten zum Zwecke der
+Durchführung und Überwachung außergewöhnlicher Maßnahmen. § 34d gilt
+entsprechend.
 
 
 ### § 34f Ermächtigungen
@@ -2082,11 +2125,8 @@ Absatz 4 Satz 2 ist im Falle einer Rechtsverordnung nach Satz 1 nicht
 anzuwenden.
 
 
-### § 43 Verkündung von Rechtsverordnungen
+### § 43 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 44 Übergangsregelungen
@@ -2122,7 +2162,8 @@ dieses Gesetzes erlassen worden sind, gilt bis zu ihrer erstmaligen
 
 ### Anlage (zu § 34a Absatz 1 und § 34f Absatz 2)
 
-(Fundstelle: BGBl. I 2017, 3764)
+(Fundstelle: BGBl. I 2017, 3764;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Betriebsdaten**
 ##
@@ -2131,7 +2172,9 @@ dieses Gesetzes erlassen worden sind, gilt bis zu ihrer erstmaligen
 I.  Allgemeine Angaben im Zusammenhang mit Maßnahmen nach dem
     Marktorganisationsgesetz
 
-    1.  Name und Vorname oder Firma,
+    1.  Name und Vorname oder Name des Unternehmens, auch des
+        Mutterunternehmens, des obersten Mutterunternehmens und der
+        Tochterunternehmen,
 
 
     2.  Name und Anschrift von Mitgliedern von Erzeugerorganisationen,
@@ -2214,10 +2257,14 @@ II. Maßnahmespezifische Daten
         relevanten Handelns,
 
 
-    12. Umsatzsteuer-Identifikationsnummer (= Verbrauchssteuernummer),
+    12. Umsatzsteuer-Identifikationsnummer (= Verbrauchssteuernummer), auch
+        des Mutterunternehmens, des obersten Mutterunternehmens und der
+        Tochterunternehmen,
 
 
-    13. Steuernummer, zuständiges Finanzamt,
+    13. Steuernummer, zuständiges Finanzamt, Identifikationsmerkmal gemäß §
+        139a der Abgabenordnung, auch des Mutterunternehmens, des obersten
+        Mutterunternehmens und der Tochterunternehmen,
 
 
     14. Zoll- bzw. EORI-Nummer,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1892
 
 Zuletzt geändert durch
-:   Art. 29 G v. 15.8.2019 I 1307
+:   Art. 6 V v. 7.6.2023 I Nr. 148
 
 
 ## Eingangsformel
@@ -30,6 +30,13 @@ Auf Grund des § 5 des Gesetzes über den Beruf des Logopäden vom 7. Mai
 (1) Die dreijährige Ausbildung für Logopäden umfaßt mindestens den in
 Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die
 in Anlage 2 aufgeführte praktische Ausbildung.
+
+(1a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning
+beinhalten, können zielgerichtet bei der Konzeption des theoretischen
+und praktischen Unterrichts in einem angemessenen Umfang
+berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist
+von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere
+regeln die Länder.
 
 (2) Der Auszubildende hat seine regelmäßige und erfolgreiche Teilnahme
 an den nach Absatz 1 vorgeschriebenen Ausbildungsveranstaltungen durch
@@ -181,12 +188,18 @@ Prüfungsausschusses bestellt.
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden
 des Prüfungsausschusses im Benehmen mit dem Leiter der Schule
-bestimmt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern
-nach § 9 zu benoten. Aus den Noten der Fachprüfer bildet der
-Vorsitzende des Prüfungsausschusses im Einvernehmen mit den
-Fachprüfern die Prüfungsnote für den schriftlichen Teil der Prüfung.
-Dabei sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem
-Faktor 2, die übrigen Fächer einfach zu gewichten.
+bestimmt. Jede Aufsichtsarbeit ist von zwei Fachprüfern nach § 9 zu
+benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des
+Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das
+arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die
+Prüfungsnote für den schriftlichen Teil der Prüfung. Bei der Bildung
+der Prüfungsnote für den schriftlichen Teil der Prüfung sind die in
+Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem Faktor 2, die
+übrigen Fächer einfach zu gewichten. Die Berechnung erfolgt auf zwei
+Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist
+die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der
+Prüfung ist bestanden, wenn jede Aufsichtsarbeit mindestens mit
+„ausreichend“ benotet wird.
 
 
 ## § 6 Mündlicher Teil der Prüfung
@@ -215,13 +228,20 @@ Satz 1 Nr. 1, 2 und 5 aufgeführten Fächern einbezogen werden. Die
 Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In einem
 Fach soll der Prüfling nicht länger als 20 Minuten geprüft werden.
 
-(2) Der mündliche Teil der Prüfung wird von mindestens drei
-Fachprüfern abgenommen und nach § 9 benotet. Aus den Noten der
-Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im
-Einvernehmen mit den Fachprüfern die Prüfungsnote für den mündlichen
-Teil der Prüfung. Dabei sind die in Absatz 1 unter Nr. 1 und 2
-genannten Fächer mit dem Faktor 2, die übrigen Fächer einfach zu
-gewichten.
+(2) Der mündliche Teil der Prüfung wird von drei Fachprüfern
+abgenommen und nach § 9 benotet. Der Vorsitzende des
+Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung
+teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der
+Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für
+jedes einzelne Fach als das arithmetische Mittel der Noten der
+einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil
+der Prüfung. Bei der Bildung der Prüfungsnote für den mündlichen Teil
+der Prüfung sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer
+mit dem Faktor 2, die übrigen Fächer einfach zu gewichten. Die
+Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem
+berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen.
+Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach
+mindestens mit „ausreichend“ benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer
 zum mündlichen Teil der Prüfung zulassen.
@@ -257,11 +277,17 @@ den Leiter der Schule im Einvernehmen mit einem dem Prüfungsausschuß
 angehörenden Logopäden. Der praktische Teil der Prüfung soll für den
 Prüfling in höchstens acht Stunden abgeschlossen sein.
 
-(3) Der praktische Teil der Prüfung wird von mindestens zwei
-Fachprüfern abgenommen und nach § 9 benotet. Aus den Noten der
-Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im
-Einvernehmen mit den Fachprüfern die Prüfungsnote für den praktischen
-Teil der Prüfung.
+(3) Der praktische Teil der Prüfung wird von zwei Fachprüfern
+abgenommen und nach § 9 benotet. Der Vorsitzende des
+Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung
+teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der
+Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die
+Prüfungsnote für den praktischen Teil der Prüfung als das
+arithmetische Mittel der Noten der einzelnen Fachprüfer. Die
+Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem
+berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen.
+Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach
+mindestens mit „ausreichend“ benotet wird.
 
 (4) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer
 zum praktischen Teil der Prüfung zulassen.
@@ -274,24 +300,73 @@ Gegenstand, Ablauf und Ergebnis der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
 
 
-## § 9 Benotung
+## § 9 Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der
-mündlichen und der praktischen Prüfung werden wie folgt benotet:
-"sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße
-entspricht,
-"gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-"befriedigend" (3), wenn die Leistung im allgemeinen den Anforderungen
-entspricht,
-"ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im
-ganzen den Anforderungen noch entspricht,
-"mangelhaft" (5), wenn die Leistung den Anforderungen nicht
-entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse
-vorhanden sind und die Mängel in absehbarer Zeit behoben werden
-können,
-"ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
-und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
-absehbarer Zeit nicht behoben werden können.
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
+benotet:
+
+*    *   Berechneter Zahlenwert
+
+    *   Note in Worten
+        (Zahlenwert)
+
+    *   Notendefinition
+
+
+*    *   1,00 bis 1,49
+
+    *   sehr gut
+        (1)
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   1,50 bis 2,49
+
+    *   gut
+        (2)
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   2,50 bis 3,49
+
+    *   befriedigend
+        (3)
+
+    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
+
+
+*    *   3,50 bis 4,49
+
+    *   ausreichend
+        (4)
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   4,50 bis 5,49
+
+    *   mangelhaft
+        (5)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
+        Mängel in absehbarer Zeit behoben werden können
+
+
+*    *   5,50 bis 6,00
+
+    *   ungenügend
+        (6)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
+        absehbarer Zeit nicht behoben werden können
+
+
+
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
@@ -510,14 +585,16 @@ mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel
 noch den Anforderungen genügt. Kommen die Fachprüfer zu einer
 unterschiedlichen Bewertung, entscheidet der Vorsitzende des
 Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
-Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich
+Bestehen. Die dem Prüfungsausschuss vorsitzende Person muss zu diesem
+Zweck während der Prüfung anwesend sein; ihr oder ihm steht ein
+Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich
 angeboten werden. Sie darf einmal wiederholt werden. Über die
 bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der
 Anlage 5b erteilt.
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 5a
 Absatz 3 Satz 6 des Gesetzes über den Beruf des Logopäden einer
-Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12
+Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 13
 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines
 Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2
 abgelegt werden kann.
@@ -604,10 +681,12 @@ die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit
 Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen
 genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung,
 entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache
-mit den Fachprüfern über das Bestehen.
+mit den Fachprüfern über das Bestehen. Die dem Prüfungsausschuss
+vorsitzende Person muss zu diesem Zweck während der Prüfung anwesend
+sein; ihr oder ihm steht ein Fragerecht zu.
 
 (5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3
-Satz 2 bis 11 entsprechend.
+Satz 2 bis 12 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden und darf in jedem Prüfungsteil, das nicht bestanden wurde,

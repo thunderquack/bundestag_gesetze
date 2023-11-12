@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2770
 
-Geändert durch
-:   Art. 2 G v. 20.5.2021 I 1145
+Zuletzt geändert durch
+:   Art. 2 G v. 8.12.2022 I 2240
 
 Stand: Ersetzt V 2129-27-2-5 v. 10.9.1996 I 1421 (EfbV)
 
@@ -1115,11 +1115,11 @@ Nummer 1 kann abgesehen werden, wenn die betroffene Person
 
 
 
-(4) Die Zertifizierung einer Erstbehandlungsanlage nach § 21 Absatz 6
-des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl.
-I S. 1739), das zuletzt durch Artikel 3 des Gesetzes vom 20. Oktober
-2015 (BGBl. I S. 1739) geändert worden ist, in der jeweils geltenden
-Fassung als Entsorgungsfachbetrieb erfordert auch die Erfüllung der
+(4) Die Zertifizierung einer Erstbehandlungsanlage nach § 21 Absatz 8
+des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015, das
+zuletzt durch Artikel 23 des Gesetzes vom 10. August 2021 (BGBl. I S.
+3436) geändert worden ist, in der jeweils geltenden Fassung als
+Entsorgungsfachbetrieb erfordert auch die Erfüllung der
 Voraussetzungen nach § 21 Absatz 2 Satz 2 des Elektro- und
 Elektronikgerätegesetzes.
 

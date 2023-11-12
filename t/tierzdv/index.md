@@ -16,13 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2904
 
-[^F817400_01_BJNR290400021]:     § 7 dieser Verordnung dient der Umsetzung der Richtlinie
-    90/428/EWG              des Rates vom 26. Juni 1990 über den Handel
-    mit Sportpferden und zur Festlegung der Bedingungen für die Teilnahme
-    an pferdesportlichen Veranstaltungen (ABl. L 224 vom 18.8.1990, S.
-    60), die durch die Richtlinie 2008/73/EG (ABl. L 219 vom 14.8.2008, S.
-    40) geändert worden ist.
-    Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
+    § 7 dieser Verordnung dient der Umsetzung der Richtlinie 90/428/EWG
+    des Rates vom 26. Juni 1990 über den Handel mit Sportpferden und zur
+    Festlegung der Bedingungen für die Teilnahme an pferdesportlichen
+    Veranstaltungen (ABl. L 224 vom 18.8.1990, S. 60), die durch die
+    Richtlinie 2008/73/EG (ABl. L 219 vom 14.8.2008, S. 40) geändert
+    worden ist.
+[^F817400_01_BJNR290400021]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
     der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L

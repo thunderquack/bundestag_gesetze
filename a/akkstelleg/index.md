@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2625
 
 Zuletzt geändert durch
-:   Art. 272 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 5 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 12 G v. 20.12.2022 I 2752
 
 
 ## § 1 Akkreditierung
@@ -303,8 +300,14 @@ bedarf, Folgendes zu regeln:
 
 
 
-## § 7 (weggefallen)
+## § 7 Vorschuss auf Gebühren
 
+Ergänzend zu der Befugnis des § 15 Absatz 1 des Bundesgebührengesetzes
+kann die Akkreditierungsstelle im Falle einer von Amts wegen zu
+erbringenden individuell zurechenbaren öffentlichen Leistung
+verlangen, dass bis zur Höhe der voraussichtlich entstehenden Gebühren
+und Auslagen ein Vorschuss gezahlt oder eine Sicherheit geleistet
+wird.
 
 
 ## § 8 Beleihung oder Errichtung
@@ -463,13 +466,6 @@ Vertreterinnen und Vertreter anzuwenden, die ihr Mandat am 25. Juli
 (2) § 5 Absatz 7 in der ab dem 25. Juli 2017 geltenden Fassung ist
 erstmals auf eine Änderung oder einen Neuerlass der Geschäftsordnung
 anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
-
-
-## § 13a Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ## § 14 Inkrafttreten

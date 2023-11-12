@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1996, 1548
 
 Neugefasst durch
-:   Bek. v. 7.12.2011 I 2650;
+:   Bek. v. 7.12.2011 I 2650
 
 Zuletzt geändert durch
-:   Art. 7 G v. 10.12.2021 I 5162
+:   Art. 6f G v. 16.9.2022 I 1454
 
 [^f775901_01_BJNR154810996]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2009/38/EG des
     Europäischen Parlaments und des Rates vom 6. Mai 2009 über die
@@ -1127,16 +1127,12 @@ neuer Informations- und Kommunikationstechnologien erfolgen, wenn
 
 ### § 41b Sonderregelung aus Anlass der COVID-19-Pandemie
 
-(1) Bis zum Ablauf des 19. März 2022 können die Teilnahme an Sitzungen
-des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats
-oder einer Arbeitnehmervertretung im Sinne des § 19 sowie die
+Bis zum Ablauf des 7. April 2023 können die Teilnahme an Sitzungen des
+besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder
+einer Arbeitnehmervertretung im Sinne des § 19 sowie die
 Beschlussfassung auch mittels Video- und Telefonkonferenz erfolgen,
 wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine
 Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
-
-(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
-drei Monate verlängern.
 
 
 ### § 42 Errichtungs- und Tätigkeitsschutz

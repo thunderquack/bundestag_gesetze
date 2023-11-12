@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2542
 
 Zuletzt geändert durch
-:   Art. 1 G v. 18.8.2021 I 3908
+:   Art. 3 G v. 8.12.2022 I 2240
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -1781,6 +1781,27 @@ des § 5 Absatz 1 und nach Maßgabe näherer Bestimmungen alle Handlungen
 verboten, die den Charakter des Gebiets verändern oder dem besonderen
 Schutzzweck zuwiderlaufen.
 
+(3) In einem Landschaftsschutzgebiet sind die Errichtung und der
+Betrieb von Windenergieanlagen sowie der zugehörigen Nebenanlagen
+nicht verboten, wenn sich der Standort der Windenergieanlagen in einem
+Windenergiegebiet nach § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353)
+befindet. Satz 1 gilt auch, wenn die Erklärung zur Unterschutzstellung
+nach § 22 Absatz 1 entgegenstehende Bestimmungen enthält. Für die
+Durchführung eines im Übrigen zulässigen Vorhabens bedarf es insoweit
+keiner Ausnahme oder Befreiung. Bis gemäß § 5 des
+Windenergieflächenbedarfsgesetzes festgestellt wurde, dass das
+jeweilige Land den Flächenbeitragswert nach Anlage 1 Spalte 2 des
+Windenergieflächenbedarfsgesetzes oder der jeweilige regionale oder
+kommunale Planungsträger ein daraus abgeleitetes Teilflächenziel
+erreicht hat, gelten die Sätze 1 bis 3 auch außerhalb von für die
+Windenergienutzung ausgewiesenen Gebieten im gesamten
+Landschaftsschutzgebiet entsprechend. Die Sätze 1 bis 4 gelten nicht,
+wenn der Standort in einem Natura 2000-Gebiet oder einer Stätte, die
+nach Artikel 11 des Übereinkommens vom 16. November 1972 zum Schutz
+des Kultur- und Naturerbes der Welt (BGBl. 1977 II S. 213, 215) in die
+Liste des Erbes der Welt aufgenommen wurde, liegt.
+
 
 #### § 27 Naturparke
 
@@ -3194,6 +3215,263 @@ geben. Bei Gefahr im Verzug bedarf es der vorherigen Benachrichtigung
 nach Satz 3 nicht.
 
 
+#### § 45b Betrieb von Windenergieanlagen an Land
+
+(1) Für die fachliche Beurteilung, ob nach § 44 Absatz 5 Satz 2 Nummer
+1 das Tötungs- und Verletzungsrisiko für Exemplare
+kollisionsgefährdeter Brutvogelarten im Umfeld ihrer Brutplätze durch
+den Betrieb von Windenergieanlagen signifikant erhöht ist, gelten die
+Maßgaben der Absätze 2 bis 5.
+
+(2) Liegt zwischen dem Brutplatz einer Brutvogelart und der
+Windenergieanlage ein Abstand, der geringer ist als der in Anlage 1
+Abschnitt 1 für diese Brutvogelart festgelegte Nahbereich, so ist das
+Tötungs- und Verletzungsrisiko der den Brutplatz nutzenden Exemplare
+signifikant erhöht.
+
+(3) Liegt zwischen dem Brutplatz einer Brutvogelart und der
+Windenergieanlage ein Abstand, der größer als der Nahbereich und
+geringer als der zentrale Prüfbereich ist, die in Anlage 1 Abschnitt 1
+für diese Brutvogelart festgelegt sind, so bestehen in der Regel
+Anhaltspunkte dafür, dass das Tötungs- und Verletzungsrisiko der den
+Brutplatz nutzenden Exemplare signifikant erhöht ist, soweit
+
+1.  eine signifikante Risikoerhöhung nicht auf der Grundlage einer
+    Habitatpotentialanalyse oder einer auf Verlangen des Trägers des
+    Vorhabens durchgeführten Raumnutzungsanalyse widerlegt werden kann
+    oder
+
+
+2.  die signifikante Risikoerhöhung nicht durch fachlich anerkannte
+    Schutzmaßnahmen hinreichend gemindert werden kann; werden entweder
+    Antikollisionssysteme genutzt, Abschaltungen bei landwirtschaftlichen
+    Ereignissen angeordnet, attraktive Ausweichnahrungshabitate angelegt
+    oder phänologiebedingte Abschaltungen angeordnet, so ist für die
+    betreffende Art in der Regel davon auszugehen, dass die Risikoerhöhung
+    hinreichend gemindert wird.
+
+
+
+
+(4) Liegt zwischen dem Brutplatz einer Brutvogelart und der
+Windenergieanlage ein Abstand, der größer als der zentrale Prüfbereich
+und höchstens so groß ist wie der erweiterte Prüfbereich, die in
+Anlage 1 Abschnitt 1 für diese Brutvogelart festgelegt sind, so ist
+das Tötungs- und Verletzungsrisiko der den Brutplatz nutzenden
+Exemplare nicht signifikant erhöht, es sei denn,
+
+1.  die Aufenthaltswahrscheinlichkeit dieser Exemplare in dem vom Rotor
+    überstrichenen Bereich der Windenergieanlage ist aufgrund
+    artspezifischer Habitatnutzung oder funktionaler Beziehungen deutlich
+    erhöht und
+
+
+2.  die signifikante Risikoerhöhung, die aus der erhöhten
+    Aufenthaltswahrscheinlichkeit folgt, kann nicht durch fachlich
+    anerkannte Schutzmaßnahmen hinreichend verringert werden.
+
+
+
+Zur Feststellung des Vorliegens eines Brutplatzes nach Satz 1 sind
+behördliche Kataster und behördliche Datenbanken heranzuziehen;
+Kartierungen durch den Vorhabenträger sind nicht erforderlich.
+
+(5) Liegt zwischen dem Brutplatz einer Brutvogelart und der
+Windenergieanlage ein Abstand, der größer als der in Anlage 1
+Abschnitt 1 für diese Brutvogelart festgelegte erweiterte Prüfbereich
+ist, so ist das Tötungs- und Verletzungsrisiko der den Brutplatz
+nutzenden Exemplare nicht signifikant erhöht; Schutzmaßnahmen sind
+insoweit nicht erforderlich.
+
+(6) Fachlich anerkannte Schutzmaßnahmen für die in Anlage 1 Abschnitt
+1 genannten Brutvogelarten sind insbesondere die in Anlage 1 Abschnitt
+2 genannten Schutzmaßnahmen. Die Anordnung von Schutzmaßnahmen, die
+die Abschaltung von Windenergieanlagen betreffen, gilt unter
+Berücksichtigung weiterer Schutzmaßnahmen auch für andere besonders
+geschützte Arten als unzumutbar, soweit sie den Jahresenergieertrag
+verringern
+
+1.  um mehr als 8 Prozent bei Standorten mit einem Gütefaktor im Sinne des
+    § 36h Absatz 1 Satz 5 des Erneuerbare-Energien-Gesetzes vom 21. Juli
+    2014, das zuletzt durch Artikel 4 des Gesetzes vom 20. Juli 2022
+    (BGBl. I S. 1353) geändert worden ist, von 90 Prozent oder mehr oder
+
+
+2.  im Übrigen um mehr als 6 Prozent.
+
+
+
+Die Berechnung nach Satz 2 erfolgt nach Anlage 2. Dabei werden
+Investitionskosten für Schutzmaßnahmen ab 17 000 Euro je Megawatt
+angerechnet. Schutzmaßnahmen, die im Sinne des Satzes 2 als unzumutbar
+gelten, können auf Verlangen des Trägers des Vorhabens angeordnet
+werden.
+
+(7) Nisthilfen für kollisionsgefährdete Vogel- und Fledermausarten
+dürfen in einem Umkreis von 1 500 Metern um errichtete
+Windenergieanlagen sowie innerhalb von Gebieten, die in einem
+Raumordnungsplan oder in einem Flächennutzungsplan für die
+Windenergienutzung ausgewiesen sind, nicht angebracht werden.
+
+(8) § 45 Absatz 7 gilt im Hinblick auf den Betrieb von
+Windenergieanlagen mit der Maßgabe, dass
+
+1.  der Betrieb von Windenergieanlagen im überragenden öffentlichen
+    Interesse liegt und der öffentlichen Sicherheit dient,
+
+
+2.  bei einem Gebiet, das für die Windenergie ausgewiesen ist
+
+    a)  in einem Raumordnungsplan oder
+
+
+    b)  unter Berücksichtigung artenschutzrechtlicher Belange in einem
+        Flächennutzungsplan,
+
+
+
+    Standortalternativen außerhalb dieses Gebietes in der Regel nicht im
+    Sinne des § 45 Absatz 7 Satz 2 zumutbar sind, bis gemäß § 5 des
+    Windenergieflächenbedarfsgesetzes festgestellt wurde, dass das
+    jeweilige Land den Flächenbeitragswert nach Anlage 1 Spalte 2 des
+    Windenergieflächenbedarfsgesetzes oder der jeweilige regionale oder
+    kommunale Planungsträger ein daraus abgeleitetes Teilflächenziel
+    erreicht hat,
+
+
+3.  bei einem Standort, der nicht in einem Gebiet im Sinne der Nummer 2
+    Buchstabe a oder b liegt, Standortalternativen außerhalb eines Radius
+    von 20 Kilometern nicht nach § 45 Absatz 7 Satz 2 zumutbar sind, es
+    sei denn, der vorgesehene Standort liegt in einem Natura 2000-Gebiet
+    mit kollisionsgefährdeten oder störungsempfindlichen Vogel- oder
+    Fledermausarten,
+
+
+4.  die Voraussetzungen des § 45 Absatz 7 Satz 2 hinsichtlich des
+    Erhaltungszustands vorliegen, wenn sich der Zustand der durch das
+    Vorhaben jeweils betroffenen lokalen Population unter Berücksichtigung
+    von Maßnahmen zu dessen Sicherung nicht verschlechtert,
+
+
+5.  die Voraussetzungen des § 45 Absatz 7 Satz 2 hinsichtlich des
+    Erhaltungszustands auch dann vorliegen, wenn auf Grundlage einer
+    Beobachtung im Sinne des § 6 Absatz 2 zu erwarten ist, dass sich der
+    Zustand der Populationen der betreffenden Art in dem betroffenen Land
+    oder auf Bundesebene unter Berücksichtigung von Maßnahmen zu dessen
+    Sicherung nicht verschlechtert,
+
+
+6.  eine Ausnahme von den Verboten des § 44 Absatz 1 zu erteilen ist, wenn
+    die Voraussetzungen des § 45 Absatz 7 Satz 1 bis 3 vorliegen.
+
+
+
+
+(9) Wird eine Ausnahme nach § 45 Absatz 7 Satz 1 bis 3 erteilt, dürfen
+daneben fachlich anerkannte Schutzmaßnahmen für die in Anlage 1
+Abschnitt 1 genannten Brutvogelarten, die die Abschaltung von
+Windenergieanlagen betreffen, unter Berücksichtigung weiterer
+Schutzmaßnahmen auch für andere besonders geschützte Arten, nur
+angeordnet werden, soweit sie den Jahresenergieertrag verringern
+
+1.  um höchstens 6 Prozent bei Standorten mit einem Gütefaktor im Sinne
+    des § 36h Absatz 1 Satz 5 des Erneuerbare-Energien-Gesetzes von 90
+    Prozent oder mehr oder
+
+
+2.  im Übrigen um höchstens 4 Prozent.
+
+
+
+Die Berechnung nach Satz 1 erfolgt nach Anlage 2. Dabei werden
+Investitionskosten für Schutzmaßnahmen ab 17 000 Euro je Megawatt
+angerechnet.
+
+
+#### § 45c Repowering von Windenergieanlagen an Land
+
+(1) Die nachfolgenden Absätze gelten für Vorhaben zur Modernisierung
+von Windenergieanlagen an Land nach § 16b Absatz 1 und 2 des Bundes-
+Immissionsschutzgesetzes. Abweichend von § 16b Absatz 2 Satz 2 des
+Bundes-Immissionsschutzgesetzes werden auch neue Windenergieanlagen
+erfasst, die innerhalb von 48 Monaten nach dem Rückbau der
+Bestandsanlage errichtet werden und der Abstand zwischen der
+Bestandsanlage und der neuen Anlage höchstens das Fünffache der
+Gesamthöhe der neuen Anlage beträgt.
+
+(2) Der Umfang der artenschutzrechtlichen Prüfung wird durch das
+Änderungsgenehmigungsverfahren nach § 16b Absatz 1 des Bundes-
+Immissionsschutzgesetzes nicht berührt. Die Auswirkungen der zu
+ersetzenden Bestandsanlagen müssen bei der artenschutzrechtlichen
+Prüfung als Vorbelastung berücksichtigt werden. Dabei sind
+insbesondere folgende Umstände einzubeziehen:
+
+1.  die Anzahl, die Höhe, die Rotorfläche, der Rotordurchgang und die
+    planungsrechtliche Zuordnung der Bestandsanlagen,
+
+
+2.  die Lage der Brutplätze kollisionsgefährdeter Arten,
+
+
+3.  die Berücksichtigung der Belange des Artenschutzes zum Zeitpunkt der
+    Genehmigung und
+
+
+4.  die durchgeführten Schutzmaßnahmen.
+
+
+
+Soweit die Auswirkungen der Neuanlagen unter Berücksichtigung der
+gebotenen, fachlich anerkannten Schutzmaßnahmen geringer als oder
+gleich sind wie die der Bestandsanlagen, ist davon auszugehen, dass
+die Signifikanzschwelle in der Regel nicht überschritten ist, es sei
+denn, der Standort liegt in einem Natura 2000-Gebiet mit
+kollisionsgefährdeten oder störungsempfindlichen Vogel- oder
+Fledermausarten.
+
+(3) Bei der Festsetzung einer Kompensation aufgrund einer
+Beeinträchtigung des Landschaftsbildes ist die Kompensation
+abzuziehen, die für die zu ersetzende Bestandsanlage bereits geleistet
+worden ist.
+
+(4) Abweichend von § 45b Absatz 8 Nummer 2 und 3 gilt § 45 Absatz 7
+Satz 2 für Repowering von Windenergieanlagen an Land nach § 16b Absatz
+1 und 2 des Bundes-Immissionsschutzgesetzes mit der Maßgabe, dass
+Standortalternativen in der Regel nicht zumutbar sind, es sei denn,
+der Standort liegt in einem Natura 2000-Gebiet mit
+kollisionsgefährdeten oder störungsempfindlichen Vogel- oder
+Fledermausarten.
+
+
+#### § 45d Nationale Artenhilfsprogramme
+
+(1) Das Bundesamt für Naturschutz stellt nationale Artenhilfsprogramme
+auf zum dauerhaften Schutz insbesondere der durch den Ausbau der
+erneuerbaren Energien betroffenen Arten, einschließlich deren
+Lebensstätten, und ergreift die zu deren Umsetzung erforderlichen
+Maßnahmen. Im Rahmen der Umsetzung ist der Erwerb von
+landwirtschaftlich genutzten Flächen nur in begründeten Ausnahmefällen
+zulässig, die die Bundesregierung durch Rechtsverordnung näher
+bestimmt.
+
+(2) Wird eine Ausnahme nach § 45 Absatz 7 nach Maßgabe des § 45b
+Absatz 8 Nummer 5 zugelassen, ohne dass Maßnahmen zur Sicherung des
+Erhaltungszustands der betreffenden Art durchgeführt werden, hat der
+Träger des Vorhabens eine Zahlung in Geld zu leisten. Die Zahlung ist
+von der zuständigen Behörde zusammen mit der Ausnahmeentscheidung für
+die Dauer des Betriebs als jährlich zu leistender Betrag im
+Zulassungsbescheid festzusetzen. Sie ist als zweckgebundene Abgabe an
+den Bund zu leisten. Die Höhe des jährlich zu leistenden Betrages
+errechnet sich nach Anlage 2 Nummer 4. Dabei ist der nach § 45b Absatz
+6 verringerte Energieertrag abzuziehen. Die Mittel werden vom
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz bewirtschaftet. Sie sind für Maßnahmen nach Absatz 1
+zur Sicherung oder Verbesserung des Erhaltungszustands der durch den
+Betrieb von Windenergieanlagen betroffenen Arten zu verwenden, für die
+nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung
+besteht. Die Verpflichtungen nach § 15 bleiben unberührt.
+
+
 #### § 46 Nachweispflicht
 
 (1) Diejenige Person, die
@@ -4042,6 +4320,32 @@ In der Rechtsverordnung ist insbesondere zu regeln,
 
 
 
+
+(10c) Die Bundesregierung wird ermächtigt durch Rechtsverordnung mit
+Zustimmung des Bundesrates
+
+1.  die Anlage 1 zu ändern, insbesondere sie um Anforderungen an die
+    Habitatpotentialanalyse und um weitere artspezifische Schutzmaßnahmen
+    zu ergänzen sowie sie an den Stand von Wissenschaft und Technik
+    anzupassen,
+
+
+2.  die Anlage 2 zu ändern, insbesondere weitere Festlegungen zur Höhe der
+    in § 45d Absatz 2 genannten Zahlung und zum Verfahren ihrer Erhebung
+    zu treffen.
+
+
+
+Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung
+erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen
+können durch Beschluss des Bundestages geändert oder abgelehnt werden.
+Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat
+sich der Bundestag nach Ablauf von fünf Sitzungswochen seit Eingang
+der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte
+Rechtsverordnung dem Bundesrat zugeleitet. Eine Rechtsverordnung zur
+Konkretisierung der Anforderungen an die Habitatpotentialanalyse nach
+Satz 1 Nummer 1 ist dem Bundestag bis zum 31. Dezember 2022
+zuzuleiten.
 
 (11) Die Bundesregierung erlässt mit Zustimmung des Bundesrates zur
 Durchführung dieses Gesetzes allgemeine Verwaltungsvorschriften,
@@ -5147,7 +5451,7 @@ Außenwirtschaftsgesetzes gilt entsprechend.
 ## Kapitel 11 - Übergangs- und Überleitungsvorschrift
 
 
-### § 74 Übergangs- und Überleitungsregelungen
+### § 74 Übergangs- und Überleitungsregelungen; Evaluierung
 
 (1) Vor dem 1. März 2010 begonnene Verfahren zur Anerkennung von
 Vereinen sind zu Ende zu führen
@@ -5176,4 +5480,882 @@ Bundesnaturschutzgesetzes in der bis zum 3. April 2002 geltenden
 Fassung oder nach § 59 oder im Rahmen von § 60 Absatz 1 und 3 des
 Bundesnaturschutzgesetzes in der bis zum 1. März 2010 geltenden
 Fassung vom Bund oder den Ländern anerkannt worden sind.
+
+(4) § 45b Absatz 1 bis 6 sind nicht anzuwenden auf bereits genehmigte
+Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen an Land
+sowie auf solche Vorhaben,
+
+1.  die vor dem 1. Februar 2024 bei der zuständigen Behörde beantragt
+    wurden oder
+
+
+2.  bei denen vor dem 1. Februar 2024 die Unterrichtung über die
+    voraussichtlich beizubringenden Unterlagen nach § 2a der Verordnung
+    über das Genehmigungsverfahren in der Fassung der Bekanntmachung vom
+    29\. Mai 1992 (BGBl. I S. 1001), die zuletzt durch Artikel 2 der
+    Verordnung vom 11. November 2020 (BGBl. I S. 2428) geändert worden
+    ist, erfolgt ist.
+
+
+
+
+(5) Abweichend von Absatz 4 ist § 45b Absatz 1 bis 6 bereits vor dem
+in Absatz 4 genannten Tag anzuwenden, wenn der Träger eines Vorhabens
+dies verlangt.
+
+(6) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz prüft gemeinsam mit dem Bundesministerium für
+Wirtschaft und Klimaschutz unter Einbeziehung der maßgeblich
+betroffenen Verbände die Einführung einer probabilistischen Methode
+zur Berechnung der Kollisionswahrscheinlichkeit und legt dem
+Bundeskabinett hierzu bis zum 30. Juni 2023 einen Bericht zur
+Einführung der Methode oder einen Vorschlag zur Anpassung dieses
+Gesetzes oder eine Rechtsverordnung zur Einführung der Methode nach
+Maßgabe von § 54 Absatz 10c Satz 1 Nummer 1 vor. Das Bundesministerium
+für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+evaluiert gemeinsam mit dem Bundesministerium für Wirtschaft und
+Klimaschutz die in den §§ 45b bis 45d enthaltenen Bestimmungen über
+einen Zeitraum von zwei Jahren ab dem 29. Juli 2022 und danach alle
+drei Jahre.
+
+
+### Anlage 1 (zu § 45b Absatz 1 bis 5)
+
+(Fundstelle des Originaltextes: BGBl. I 2022, 1365 - 1367)
+
+
+*    *   **Abschnitt 1**
+
+    *
+
+*    *   **Bereiche zur Prüfung bei kollisionsgefährdeten Brutvogelarten**
+
+    *
+
+
+
+*    *   Brutvogelarten
+
+    *   Nahbereich\*
+
+    *   Zentraler
+        Prüfbereich\*
+
+    *   Erweiterter
+        Prüfbereich\*
+
+
+*    *   Seeadler
+        Haliaeetus albicilla
+
+    *   500
+
+    *   2 000
+
+    *   5 000
+
+
+*    *   Fischadler
+        Pandion haliaetus
+
+    *   500
+
+    *   1 000
+
+    *   3 000
+
+
+*    *   Schreiadler
+        Clanga pomarina
+
+    *   1 500
+
+    *   3 000
+
+    *   5 000
+
+
+*    *   Steinadler
+        Aquila chrysaetos
+
+    *   1 000
+
+    *   3 000
+
+    *   5 000
+
+
+*    *   Wiesenweihe
+        1
+        Circus pygargus
+
+    *   400
+
+    *   500
+
+    *   2 500
+
+
+*    *   Kornweihe
+        Circus cyaneus
+
+    *   400
+
+    *   500
+
+    *   2 500
+
+
+*    *   Rohrweihe
+        1
+        Circus aeruginosus
+
+    *   400
+
+    *   500
+
+    *   2 500
+
+
+*    *   Rotmilan
+        Milvus milvus
+
+    *   500
+
+    *   1 200
+
+    *   3 500
+
+
+*    *   Schwarzmilan
+        Milvus migrans
+
+    *   500
+
+    *   1 000
+
+    *   2 500
+
+
+*    *   Wanderfalke
+        Falco peregrinus
+
+    *   500
+
+    *   1 000
+
+    *   2 500
+
+
+*    *   Baumfalke
+        Falco subbuteo
+
+    *   350
+
+    *   450
+
+    *   2 000
+
+
+*    *   Wespenbussard
+        Pernis apivorus
+
+    *   500
+
+    *   1 000
+
+    *   2 000
+
+
+*    *   Weißstorch
+        Ciconia ciconia
+
+    *   500
+
+    *   1 000
+
+    *   2 000
+
+
+*    *   Sumpfohreule
+        Asio flammeus
+
+    *   500
+
+    *   1 000
+
+    *   2 500
+
+
+*    *   Uhu
+        1
+        Bubo bubo
+
+    *   500
+
+    *   1 000
+
+    *   2 500
+
+
+*    *   * Abstände in Metern, gemessen vom Mastfußmittelpunkt
+
+
+*    *   1                         Rohrweihe, Wiesenweihe und Uhu sind nur dann
+        kollisionsgefährdet, wenn die Höhe der Rotorunterkante in Küstennähe
+        (bis 100 Kilometer) weniger als 30 m, im weiteren Flachland weniger
+        als 50 m oder in hügeligem Gelände weniger als 80 m beträgt. Dies
+        gilt, mit Ausnahme der Rohrweihe, nicht für den Nahbereich.
+
+
+
+
+
+*    *   **Abschnitt 2**
+
+
+*    *   ## **Schutzmaßnahmen**
+
+
+
+
+Zur Vermeidung der Tötung oder Verletzung von Exemplaren europäischer
+Vogelarten nach Abschnitt 1 durch Windenergieanlagen sind insbesondere
+nachfolgend aufgeführte Schutzmaßnahmen fachlich anerkannt:
+
+*    *   Schutzmaßnahme
+
+    *   Beschreibung/Wirksamkeit
+
+
+*    *   Kleinräumige Standortwahl
+        (Micro-Siting)
+
+    *   **Beschreibung:**                        Im Einzelfall kann durch die
+        Verlagerung von Windenergieanlagen die Konfliktintensität verringert
+        werden, beispielsweise durch ein Herausrücken der Windenergieanlagen
+        aus besonders kritischen Bereichen einer Vogelart oder durch das
+        Freihalten von Flugrouten zu essentiellen Nahrungshabitaten.
+
+
+*    *
+    *   **Wirksamkeit:**                        Vermeidung bzw. Verminderung
+        des Eintritts von Verbotstatbeständen oder des Umfangs von
+        Schutzmaßnahmen. Für alle Arten der Tabelle in Abschnitt 1 wirksam.
+
+
+*    *   Antikollisionssystem
+
+    *   **Beschreibung:**                        Auf Basis automatisierter
+        kamera- und/oder radarbasierter Detektion der Zielart muss das System
+        in der Lage sein, bei Annäherung der Zielart rechtzeitig bei
+        Unterschreitung einer vorab artspezifisch festgelegten Entfernung zur
+        Windenergieanlage per Signal die Rotordrehgeschwindigkeit bis zum
+        „Trudelbetrieb“ zu verringern.
+
+
+*    *
+    *   **Wirksamkeit:**                        Nach dem derzeitigen Stand der
+        Wissenschaft und Technik kommt die Maßnahme in Deutschland derzeit nur
+        für den Rotmilan in Frage, für den ein nachweislich wirksames,
+        kamerabasiertes System zur Verfügung steht. Grundsätzlich erscheint es
+        möglich, die Anwendung von Antikollisionssystemen zukünftig auch für
+        weitere kollisionsgefährdete Großvögel, wie Seeadler, Fischadler,
+        Schreiadler, Schwarzmilan und Weißstorch, einzusetzen.
+        Antikollisionssysteme, deren Wirksamkeit noch nicht belegt ist, können
+        im Einzelfall im Testbetrieb angeordnet werden, wenn begleitende
+        Maßnahmen zur Erfolgskontrolle angeordnet werden.
+
+
+*    *   Abschaltung bei landwirtschaftlichen Bewirtschaftungsereignissen
+
+    *   **Beschreibung:**                        Vorübergehende Abschaltung im
+        Falle der Grünlandmahd und Ernte von Feldfrüchten sowie des Pflügens
+        zwischen 1. April und 31. August auf Flächen, die in weniger als 250
+        Metern Entfernung vom Mastfußmittelpunkt einer Windenergieanlage
+        gelegen sind. Bei Windparks sind in Bezug auf die Ausgestaltung der
+        Maßnahme gegebenenfalls die diesbezüglichen Besonderheiten zu
+        berücksichtigen. Die Abschaltmaßnahmen erfolgen von Beginn des
+        Bewirtschaftungsereignisses bis mindestens 24 Stunden nach Beendigung
+        des Bewirtschaftungsereignisses jeweils von Sonnenaufgang bis
+        Sonnenuntergang. Bei für den Artenschutz besonders konfliktträchtigen
+        Standorten mit drei Brutvorkommen oder, bei besonders gefährdeten
+        Vogelarten, mit zwei Brutvorkommen ist für mindestens 48 Stunden nach
+        Beendigung des Bewirtschaftungsereignisses jeweils von Sonnenaufgang
+        bis Sonnenuntergang abzuschalten. Die Maßnahme ist unter
+        Berücksichtigung von artspezifischen Verhaltensmustern anzuordnen,
+        insbesondere des von der Windgeschwindigkeit abhängigen Flugverhaltens
+        beim Rotmilan.
+
+
+*    *
+    *   **Wirksamkeit:**                        Die Abschaltung bei
+        Bewirtschaftungsereignissen trägt regelmäßig zur Senkung des
+        Kollisionsrisikos bei und bringt eine übergreifende Vorteilswirkung
+        mit sich. Durch die Abschaltung der Windenergieanlage während und kurz
+        nach dem Bewirtschaftungsereignis wird eine wirksame Reduktion des
+        temporär deutlich erhöhten Kollisionsrisikos erreicht. Die Maßnahme
+        ist insbesondere für Rotmilan und Schwarzmilan, Rohrweihe, Schreiadler
+        sowie den Weißstorch wirksam.
+
+
+*    *   Anlage von attraktiven
+        Ausweichnahrungshabitaten
+
+    *   **Beschreibung:**                        Die Anlage von attraktiven
+        Ausweichnahrungshabitaten wie zum Beispiel Feuchtland oder
+        Nahrungsgewässern oder die Umstellung auf langfristig extensiv
+        bewirtschaftete Ablenkflächen ist artspezifisch in ausreichend großem
+        Umfang vorzunehmen. Über die Eignung und die Ausgestaltung der Fläche
+        durch artspezifische Maßnahmen muss im Einzelfall entschieden werden.
+        Eine vertragliche Sicherung zu Nutzungsbeschränkungen und/oder
+        Bearbeitungsauflagen ist nachzuweisen. Die Umsetzung der Maßnahmen ist
+        für die gesamte Betriebsdauer der Windenergieanlage durch vertragliche
+        Vereinbarungen zwischen dem Vorhabenträger und den
+        Flächenbewirtschaftern und -eigentümern sicherzustellen. Die
+        Möglichkeit und Umsetzbarkeit solcher vertraglichen Regelungen ist der
+        Genehmigungsbehörde vorab darzulegen.
+
+
+*    *
+    *   **Wirksamkeit:**                        Die Schutzmaßnahme ist
+        insbesondere für Rotmilan, Schwarzmilan, Weißstorch, Baumfalke,
+        Fischadler, Schreiadler, Weihen, Uhu, Sumpfohreule und Wespenbussard
+        wirksam. Die Wirksamkeit der Schutzmaßnahme ergibt sich aus dem
+        dauerhaften Weglocken der kollisionsgefährdeten Arten bzw. der
+        Verlagerung der Flugaktivität aus dem Vorhabenbereich heraus. Eine
+        Wirksamkeit ist, je nach Konstellation und Art auch nur ergänzend zu
+        weiteren Maßnahmen anzunehmen.
+
+
+*    *   Senkung der Attraktivität von
+        Habitaten im Mastfußbereich
+
+    *   **Beschreibung:**                        Die Minimierung und
+        unattraktive Gestaltung des Mastfußbereiches (entspricht der vom Rotor
+        überstrichenen Fläche zuzüglich eines Puffers von 50 Metern) sowie der
+        Kranstellfläche kann dazu dienen, die Anlockwirkung von Flächen im
+        direkten Umfeld der Windenergieanlage für kollisionsgefährdete Arten
+        zu verringern. Hierfür ist die Schutzmaßnahme regelmäßig
+        durchzuführen. Auf Kurzrasenvegetation, Brachen sowie auf zu mähendes
+        Grünland ist in jedem Fall zu verzichten. Je nach Standort, der
+        umgebenden Flächennutzung sowie dem betroffenen Artenspektrum kann es
+        geboten sein, die Schutzmaßnahme einzelfallspezifisch anzupassen.
+
+
+*    *
+    *   **Wirksamkeit:**                        Die Schutzmaßnahme ist
+        insbesondere für Rotmilan, Schwarzmilan, Schreiadler, Weißstorch und
+        Wespenbussard wirksam. Die Maßnahme ist als alleinige Schutzmaßnahme
+        nicht ausreichend.
+
+
+*    *   Phänologiebedingte Abschaltung
+
+    *   **Beschreibung:**                        Die phänologiebedingte
+        Abschaltung von Windenergieanlagen umfasst bestimmte, abgrenzbare
+        Entwicklungs-/Lebenszyklen mit erhöhter Nutzungsintensität des
+        Brutplatzes (z. B. Balzzeit oder Zeit flügger Jungvögel). Sie beträgt
+        in der Regel bis zu 4 oder bis zu 6 Wochen innerhalb des Zeitraums vom
+        1\. März bis zum 31. August von Sonnenaufgang bis Sonnenuntergang. Die
+        Zeiträume können bei bestimmten Witterungsbedingungen wie Starkregen
+        oder hohen Windgeschwindigkeiten artspezifisch im Einzelfall
+        beschränkt werden, sofern hinreichend belegt ist, dass auf Grund
+        bestimmter artspezifischer Verhaltensmuster während dieser Zeiten
+        keine regelmäßigen Flüge stattfinden, die zu einer signifikanten
+        Erhöhung des Tötungs- und Verletzungsrisikos führen.
+
+
+*    *
+    *   **Wirksamkeit:**                        Die Maßnahme ist grundsätzlich
+        für alle Arten wirksam. Da sie mit erheblichen Energieverlusten
+        verbunden ist, soll sie aber nur angeordnet werden, wenn keine andere
+        Maßnahme zur Verfügung steht.
+
+
+
+
+
+### Anlage 2 (zu § 45b Absatz 6 und 9, zu § 45d Absatz 2)
+
+(Fundstelle: BGBl. I 2022, 1368 - 1370)
+
+
+*    *   Zumutbarkeit und Höhe der Zahlung in Artenhilfsprogramme
+
+    *
+
+
+
+1.  Begriffsbestimmungen
+
+    Im Sinne dieser Anlage ist
+
+    –   A
+        AHP                          der prozentuale Anteil des Jahresertrages
+        der Windenergieanlage, der mindestens im Rahmen des jährlich zu
+        leistenden Beitrags in ein Artenhilfsprogramm zu leisten ist und der
+        mit 2 Prozent festgelegt wird,
+
+
+    –   A
+        KSa                          die anzunehmende Abschaltung bei
+        Verwendung eines Antikollisionssystems je Jahr, die mit 3 Prozent
+        festgelegt wird,
+
+
+    –   AW                          der anzulegende Wert in Euro je
+        Megawattstunde, auf Grundlage der durchschnittlichen,
+        mengengewichteten Zuschlagswerte der vergangenen drei Ausschreibungen
+        von Windenergieanlagen an Land, veröffentlicht durch die
+        Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
+        Eisenbahnen,
+
+
+    –   B
+        Abs                          der prozentuale Anteil der Abschaltungen
+        auf Grund individueller fachlich anerkannter Schutzmaßnahmen im
+        Basisschutz; der Basisschutz umfasst alle fachlich anerkannten
+        Schutzmaßnahmen inklusive Fledermausabschaltungen,
+
+
+    –   B
+        MK                          die monetären Kosten in Euro aller
+        individuellen fachlich anerkannten Schutzmaßnahmen im Basisschutz,
+
+
+    –   B
+        MV                          der maximal zumutbare monetäre Verlust in
+        Euro im Basisschutz über 20 Jahre,
+
+
+    –   B
+        S                          der als Prozentwert im Verhältnis zum
+        Jahresertrag ausgedrückte Schwellenwert für die Verringerung des
+        Jahresertrages infolge von als Basisschutz erfolgenden Anordnungen von
+        Schutzmaßnahmen, der in der artenschutzrechtlichen Ausnahme nicht
+        überschritten werden darf, und der mit 4 Prozent für einen Regelfall-
+        Standort oder mit 6 Prozent für einen windreichen Standort festgelegt
+        wird,
+
+
+    –   d                          die prognostizierte Mindestnutzungsdauer
+        einer Windenergieanlage an Land in Höhe von 20 Jahren,
+
+
+    –   E
+        r                          der reale Energieertrag der
+        Windenergieanlage in Megawattstunden des vergangenen Kalenderjahres,
+
+
+    –   E
+        rnte                          die durchschnittliche Häufigkeit je Jahr
+        eines Erntevorgangs je Flurstück, die mit 1 festgelegt wird,
+
+
+    –   Flm
+        a                          die anzunehmende Abschaltung zum Schutz von
+        Fledermäusen, die mit 2,5 Prozent festgelegt oder auf Grundlage eines
+        Gutachtens oder einer Untersuchung der Fledermausaktivitäten ermittelt
+        wird; sollte der Antragsteller ein Gutachten oder eine Untersuchung
+        der Fledermausaktivitäten beauftragen, ist der Prozentwert der
+        Abschaltung im Verhältnis zum Jahresertrag aus dem Gutachten oder der
+        Untersuchung anzusetzen,
+
+
+    –   Flst
+        Ausn                          die Anzahl der Flurstücke in einem
+        Umkreis von 250 Metern um den Mastfußmittelpunkt der
+        Windenergieanlage, auf denen drei Brutvorkommen oder zwei
+        Brutvorkommen bei besonders gefährdeten Vogelarten betroffen sind,
+
+
+    –   Flst
+        Ernte                          die Anzahl der Flurstücke in einem
+        Umkreis von 250 Metern um den Mastfußmittelpunkt der Windenergieanlage
+        mit Feldfrüchten, auf denen Erntevorgänge erfolgen,
+
+
+    –   Flst
+        Mahd                          die Anzahl der Flurstücke in einem
+        Umkreis von 250 Metern um den Mastfußmittelpunkt der Windenergieanlage
+        mit Grünland, auf denen Mahdvorgänge erfolgen,
+
+
+    –   Flst
+        Pflügen                          die Anzahl der Flurstücke in einem
+        Umkreis von 250 Metern um den Mastfußmittelpunkt der Windenergieanlage
+        mit Ackerland, auf denen Pflugvorgänge erfolgen,
+
+
+    –   h                          die anzunehmende Stundenanzahl bezogen auf
+        die Abschaltung bei einem landwirtschaftlichen
+        Bewirtschaftungsereignis (Ernte, Mahd, Pflügen), die mit 14 festgelegt
+        wird,
+
+
+    –   h
+        a                          die Anzahl der Stunden eines Jahres, die
+        mit 8 760 festgelegt wird,
+
+
+    –   IK                          die Summe der Investitionskosten in Euro
+        aller Schutzmaßnahmen,
+
+
+    –   K
+        AS                          der Selbstbehalt von den
+        Investitionskosten für den Antragsteller in Höhe von 17 000 Euro je
+        Megawatt zu installierender Leistung,
+
+
+    –   M
+        ahd                          die durchschnittliche Häufigkeit je Jahr
+        eines Mahdvorgangs je Flurstück, die mit 4 festgelegt wird,
+
+
+    –   M
+        r                          der reale monetäre Ertrag der
+        Windenergieanlage in Euro im vergangenen Kalenderjahr,
+
+
+    –   P                          die zu installierende Leistung der
+        geplanten Windenergieanlage an Land in Megawatt, das heißt, die
+        elektrische Wirkleistung, die eine Anlage bei bestimmungsgemäßem
+        Betrieb ohne zeitliche Einschränkungen unbeschadet kurzfristiger
+        geringfügiger Abweichungen technisch erbringen kann,
+
+
+    –   P
+        flügen                          die durchschnittliche Häufigkeit je
+        Jahr eines Pflugvorgangs je Flurstück, die mit 0,5 festgelegt wird,
+
+
+    –   P
+        häno                          die Anzahl der Tage mit phänologischen
+        Abschaltungen,
+
+
+    –   Regelfall-Standort ein Standort mit einem Gütefaktor*
+         90 Prozent; die Prognose des Gütefaktors ist aus dem Ertragsgutachten
+        zu entnehmen,
+
+
+    –   VBH                          die Anzahl der Vollbenutzungsstunden der
+        Windenergieanlage, die aus den Ertragsgutachten zu entnehmen ist,
+
+
+    –   VBH
+        r                          die Anzahl der realen Vollbenutzungsstunden
+        der Windenergieanlage des vergangenen Kalenderjahres,
+
+
+    –   windreicher Standort ein Standort mit einem Gütefaktor*
+        90 Prozent; die Prognose des Gütefaktors ist aus dem Ertragsgutachten
+        zu entnehmen,
+
+
+    –   Z
+        Abs                          der prozentuale Anteil der Abschaltungen
+        auf Grund individueller fachlich anerkannter Schutzmaßnahmen,
+
+
+    –   Z
+        AHPa                          die Höhe des jährlich zu leistenden
+        Beitrags in Euro in ein Artenhilfsprogramm,
+
+
+    –   Z
+        Mo                          die monetären Kosten in Euro der
+        individuellen, fachlich anerkannten Schutzmaßnahmen in der
+        Zumutbarkeit,
+
+
+    –   Z
+        MV                          der maximal zumutbare monetäre Verlust in
+        Euro über 20 Jahre,
+
+
+    –   Z
+        um                          der als Prozentwert im Verhältnis zum
+        Jahresertrag ausgedrückte Schwellenwert, oberhalb dessen
+        Verringerungen des Jahresertrages infolge der Anordnung von
+        Schutzmaßnahmen als nicht mehr zumutbar gelten, und der mit 6 Prozent
+        für einen Regelfall-Standort oder mit 8 Prozent für einen windreichen
+        Standort festgelegt wird; die Zumutbarkeitsschwelle umfasst alle
+        fachlich anerkannten Schutzmaßnahmen inklusive
+        Fledermausabschaltungen.
+
+
+
+
+
+2.  Berechnung der Zumutbarkeitsschwelle
+
+    Die Zumutbarkeitsschwelle für die Anordnung von Schutzmaßnahmen für
+    Windenergieanlagen an Land nach § 45b Absatz 6 wird nach folgenden
+    Formeln bestimmt, bei deren Berechnung auf zwei Nachkommastellen zu
+    runden ist:
+
+
+2.1 Maximal zumutbarer monetärer Verlust
+
+
+    *        *   Z
+            MV                                = P · VBH · Z
+            um                                · AW · d
+
+
+
+
+
+2.2 Prozentualer Anteil der Abschaltungen
+
+
+*   Die Formel
+    Z
+    Abs                    wird wie folgt gefasst:
+
+
+
+
+![bgbl1_2022_j2240-1_0010.jpg](bgbl1_2022_j2240-1_0010.jpg)
+
+*   Werden keine Abschaltungen auf Grund landwirtschaftlicher
+    Bewirtschaftungsereignisse angeordnet, ist
+    ((Flst
+    Mahd                      · M
+    ahd                     ) + (Flst
+    Ernte                      · E
+    rnte                     ) + (Flst
+    Pflügen                      · P
+    flügen                     )) · h + (Flst
+    Ausn                      · h)                    bei der Berechnung
+    aus der Formel zu streichen.
+
+    Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher
+    Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder
+    eine andere Kombination dieser drei Ereignisse) angeordnet, ist das
+    nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (
+    Flst
+    Mahd                      · M
+    ahd                   ) oder (
+    Flst
+    Ernte                      · E
+    rnte                   ) oder (
+    Flst
+    Pflügen                      · P
+    flügen                   ).
+
+    Werden keine phänologischen Abschaltungen angeordnet, ist (
+    P
+    häno                      · h                   ) bei der Berechnung
+    aus der Formel zu streichen.
+
+    Ist
+    Z
+    Abs*
+    Z
+    um                    können die Abschaltungen zumutbar sein, sofern
+    sie auch monetär zumutbar sind (Berechnung durch Nummer 2.3).
+
+    Ist
+    Z
+    Abs*
+    Z
+    um                    gelten die Abschaltungen als unzumutbar und die
+    Berechnungen ab Nummer 3 sind durchzuführen.
+
+
+2.3 Monetäre Zumutbarkeit der Maßnahmen
+
+
+    *        *   Z
+            Mo                                = P · VBH · Z
+            Abs                                · AW · d +
+            (
+            IK – K
+            AS                             )
+
+
+
+
+    Ergibt sich bei der Berechnung von (
+    IK                   –
+    K
+    AS                   ) ein Wert kleiner null, wird das Ergebnis der
+    Subtraktion von (
+    IK                    –
+    K
+    AS                   ) mit null festgesetzt.
+
+    Ist
+    Z
+    Mo*
+    Z
+    MV                    sind die Schutzmaßnahmen zumutbar und es erfolgt
+    keine Zahlung in Artenhilfsprogramme.
+
+    Ist
+    Z
+    Mo*
+    Z
+    MV                    gelten die Schutzmaßnahmen als unzumutbar und
+    die Berechnungen ab Nummer 3 sind durchzuführen.
+
+
+3.  Berechnung des Basisschutzes in der artenschutzrechtlichen Ausnahme
+
+
+3.1 Maximal zulässiger monetärer Verlust im Basisschutz
+
+
+    *        *   B
+            MV                                = P · VBH · B
+            S                                · d · AW
+
+
+
+
+
+3.2 Prozentualer Anteil der Abschaltungen im Basisschutz
+
+
+*   Die Formel
+    B
+    Abs                    wird wie folgt gefasst:
+
+
+
+
+![bgbl1_2022_j2240-1_0020.jpg](bgbl1_2022_j2240-1_0020.jpg)
+
+*   Werden keine Abschaltungen auf Grund landwirtschaftlicher
+    Bewirtschaftungsereignisse angeordnet, ist
+    ((Flst
+    Mahd                      · M
+    ahd                     ) + (Flst
+    Ernte                      · E
+    rnte                     ) + (Flst
+    Pflügen                      · P
+    flügen                     )) · h + (Flst
+    Ausn                      · h)                    bei der Berechnung
+    aus der Formel zu streichen.
+
+    Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher
+    Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder
+    eine andere Kombination dieser drei Ereignisse) angeordnet, ist das
+    nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (
+    Flst
+    Mahd                      · M
+    ahd                   ) oder (
+    Flst
+    Ernte                      · E
+    rnte                   ) oder (
+    Flst
+    Pflügen                      · P
+    flügen                   ).
+
+    Werden keine phänologischen Abschaltungen angeordnet, ist (
+    P
+    häno                      · h                   ) bei der Berechnung
+    aus der Formel zu streichen.
+
+    Ist
+    B
+    Abs*
+    B
+    S                   , sind die Maßnahmen unzulässig und müssen
+    reduziert werden, bis
+    B
+    Abs*
+    B
+    S                   .
+
+    Ist
+    B
+    Abs*
+    B
+    S                   , sind die Maßnahmen zulässig und werden bei der
+    Berechnung der Zahlung in Artenhilfsprogramme (Nummer 4)
+    berücksichtigt.
+
+
+3.3 Monetäre Kosten der Maßnahmen im Basisschutz
+
+
+    *        *   B
+            MK                                = B
+            Abs                                · P · VBH · AW · d
+            + (
+            IK – K
+            AS                             )
+
+
+
+
+    Ergibt sich bei der Berechnung von (
+    IK – K
+    AS                   ) ein Wert kleiner null, wird das Ergebnis der
+    Subtraktion von
+    IK – K
+    AS                    mit null festgesetzt.
+
+    Ist
+    B
+    MK*
+    B
+    MV                    sind die Maßnahmen unzulässig und müssen
+    reduziert werden, bis
+    B
+    MK
+    *
+    B
+    MV                   .
+
+    Ist
+    B
+    MK
+    *
+    B
+    MV                    sind die Maßnahmen zulässig und werden bei der
+    Berechnung der Zahlung in Artenhilfsprogramme (Nummer 4)
+    berücksichtigt.
+
+
+4.  Berechnung der Zahlungen in Artenhilfsprogramme
+
+
+4.1 Berechnung des realen Energieertrags im vergangenen Kalenderjahr
+
+
+    *        *   E
+            r                                = P · VBH
+            r
+
+
+
+
+
+4.2 Berechnung des realen monetären Ertrags im vergangenen Kalenderjahr
+
+
+    *        *   M
+            r                                = E
+            r                                · AW
+
+
+
+
+
+4.3 Berechnung der Höhe des zu zahlenden Beitrags in das
+    Artenhilfsprogramm für das vergangene Kalenderjahr
+
+
+    *        *            ![bgbl1_2022_j1362-1_0030.jpg](bgbl1_2022_j1362-1_0030.jpg)
+
+
+
+
+
 

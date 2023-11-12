@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3261
 
 Zuletzt geändert durch
-:   Art. 3 V v. 22.7.2021 I 3552
+:   Art. 3 V v. 15.12.2022 I 2862
 
 Stand: Ersetzt V 2030-6-29 v. 9.4.2013 I 963 (GBPolVDVDV)
 
@@ -46,7 +46,7 @@ Diese Verordnung regelt
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -346,7 +346,7 @@ Absatz 2 genannten Befähigungsnachweise nicht bis zum Abschluss des
 Grundstudiums vorlegen, sind aus dem Beamtenverhältnis zu entlassen.
 
 (3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31.
-Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die
+Dezember 2024 die Einstellung mit der Auflage versehen wird, dass die
 in Absatz 2 genannten Befähigungsnachweise erst bis zum Abschluss des
 Vorbereitungsdienstes vorzulegen sind.
 
@@ -615,7 +615,7 @@ die Studierenden verpflichtend.
 (1) In den Modulen 1 bis 3, 8, 9, 11 bis 13, 15 und 17 sind
 Leistungstests durchzuführen.
 
-(1a) Bis zum 31. Dezember 2022 kann davon abgesehen werden, dass in
+(1a) Bis zum 31. Dezember 2024 kann davon abgesehen werden, dass in
 allen der in Absatz 1 genannten Module Leistungstests zu absolvieren
 sind.
 
@@ -1015,7 +1015,7 @@ Polizeivollzugsdienst in der Bundespolizei. Sie besteht aus
 Klausur in den Modulen 10 und 14.
 
 (1a) Mit Zustimmung des Bundespolizeipräsidiums kann die
-Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 eine
+Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2024 eine
 Klausur durch eine mündliche Prüfung ersetzt wird. Für die mündliche
 Prüfung gelten die Regelungen zur mündlichen Abschlussprüfung nach §
 35 Absatz 2 bis 4 Satz 1 entsprechend. Das Ergebnis der mündlichen
@@ -1072,7 +1072,7 @@ bei polizeifachlichen Standardmaßnahmen geprüft. Die Prüfung soll 30
 Minuten dauern. Näheres regelt das Modulhandbuch.
 
 (3a) Mit Zustimmung des Bundespolizeipräsidiums kann die
-Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 –
+Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2024 –
 abweichend von den Absätzen 1 und 3 – auf die praktische
 Leistungsabnahme im Modul 20 verzichtet wird.
 
@@ -1178,7 +1178,7 @@ ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 (4) Die mündliche Abschlussprüfung ist nicht öffentlich. Die Leiterin
 oder der Leiter des Fachbereichs Bundespolizei der Hochschule sowie
 Angehörige des Prüfungsamts können teilnehmen. Das Bundesministerium
-des Innern, für Bau und Heimat und das Bundespolizeipräsidium können
+des Innern und für Heimat und das Bundespolizeipräsidium können
 jeweils eine Vertreterin oder einen Vertreter zur Teilnahme an der
 mündlichen Abschlussprüfung entsenden. Das Prüfungsamt kann auch
 anderen Personen die Anwesenheit in der mündlichen Abschlussprüfung
@@ -1413,8 +1413,8 @@ anzuhören.
 der Laufbahnprüfung, die praktischen Prüfungen der Laufbahnprüfung,
 die Diplomarbeit oder die mündliche Abschlussprüfung nicht bestanden
 haben, können die entsprechende Prüfung jeweils einmal wiederholen. In
-begründeten Ausnahmefällen kann das Bundesministerium des Innern, für
-Bau und Heimat eine zweite Wiederholung zulassen.
+begründeten Ausnahmefällen kann das Bundesministerium des Innern und
+für Heimat eine zweite Wiederholung zulassen.
 
 (2) Wird die Zwischenprüfung wiederholt, ist sie frühestens einen
 Monat nach Bekanntgabe des Ergebnisses und spätestens fünf Monate nach
@@ -1435,7 +1435,7 @@ frühestens einen Monat nach Bekanntgabe des Ergebnisses erfolgen.
 Soweit erforderlich, ist der Vorbereitungsdienst durch die
 Bundespolizeiakademie zu verlängern.
 
-(4a) Bis zum 31. Dezember 2022 gilt für die Wiederholung schriftlicher
+(4a) Bis zum 31. Dezember 2024 gilt für die Wiederholung schriftlicher
 Prüfungen der Laufbahnprüfung § 28 Absatz 1a entsprechend.
 
 (5) Die bei der Wiederholung erreichten Rangpunkte ersetzen die zuvor

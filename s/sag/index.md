@@ -67,6 +67,13 @@ geändert worden ist, maßgeblich ist:
 
 
 
+Für inländische Unternehmen, die gemäß Artikel 14 der Verordnung (EU)
+Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli
+2012 über OTC-Derivate, zentrale Gegenparteien und
+Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
+30\.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2019/2099
+(ABl. L 322 vom 12.12.2019, S. 1) geändert worden ist, zugelassen
+sind, gilt ausschließlich Teil 5 dieses Gesetzes.
 
 (2) Die Abwicklungsbehörde setzt gemäß Artikel 29 der Verordnung (EU)
 806/2014 an sie gerichtete Beschlüsse des Ausschusses, die der
@@ -366,13 +373,21 @@ folgt bestimmt:
     Einlagensicherungsgesetzes.
 
 
-24. Gedeckte Schuldverschreibung ist ein Instrument
-    im Sinne                    von Artikel 52 Absatz 4 der Richtlinie
+24. Gedeckte Schuldverschreibung ist eine gedeckte Schuldverschreibung im
+    Sinne des Artikels 3 Nummer 1 der Richtlinie (EU) 2019/2162 des
+    Europäischen Parlaments und des Rates vom 27. November 2019 über die
+    Emission gedeckter Schuldverschreibungen und die öffentliche Aufsicht
+    über gedeckte Schuldverschreibungen und zur Änderung der Richtlinien
+    2009/65/EG und 2014/59/EU (ABl. L 328 vom 18.12.2019, S. 29) oder,
+    wenn das Instrument vor dem 8. Juli 2022 begeben wurde, eine gedeckte
+    Schuldverschreibung gemäß Artikel 52 Absatz 4 der Richtlinie
     2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009
     zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend
     bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)
-    (ABl. L 302 vom 17.11.2009, S. 32), die durch die Richtlinie
-    2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) geändert worden ist.
+    (ABl. L 302 vom 17.11.2009, S. 32; L 269 vom 13.10.2010, S. 27), die
+    zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328 vom
+    18\.12.2019, S. 29) geändert worden ist, in der am Emissionstag
+    gültigen Fassung.
 
 
 25. Geschäftsleiter sind Geschäftsleiter im Sinne des § 1 Absatz 2 des
@@ -5626,10 +5641,11 @@ den in § 49e oder § 49f genannten Anforderungen, unter Beachtung der
 Vorgaben des § 49 Absatz 3 ausgedrückt als ein nach Artikel 92 Absatz
 3 der Verordnung (EU) Nr. 575/2013 berechneter Gesamtrisikobetrag, und
 gegebenenfalls der kombinierten Kapitalpufferanforderung sowie den in
-den §§ 49e und 49f genannten Anforderungen, ausgedrückt als
-Prozentsatz der Gesamtrisikopositionsmessgröße nach den Artikeln 429
-und 429a der Verordnung (EU) Nr. 575/2013, nachkommt. Der Zeitplan für
-die Durchführung der gemäß Satz 2 vorgeschlagenen Maßnahmen trägt den
+den §§ 49e und 49f genannten Anforderungen, unter Beachtung der
+Vorgaben des § 49 Absatz 3 ausgedrückt als Prozentsatz der
+Gesamtrisikopositionsmessgröße nach den Artikeln 429 und 429a der
+Verordnung (EU) Nr. 575/2013, nachkommt. Der Zeitplan für die
+Durchführung der gemäß Satz 2 vorgeschlagenen Maßnahmen trägt den
 Gründen für das wesentliche Abwicklungshindernis Rechnung. Die
 Abwicklungsbehörde bewertet nach Anhörung der zuständigen Behörde, ob
 diese Maßnahmen geeignet sind, das wesentliche Abwicklungshindernis
@@ -6821,6 +6837,20 @@ nach den §§ 78 bis 87 ausüben, soweit dies der Erfüllung
 beihilferechtlicher Anforderungen dient. Das Gleiche gilt, wenn im
 Fall des § 64 Absatz 1 oder 2 die Abwicklungsvoraussetzungen nur auf
 Grund von § 63 Absatz 2 Satz 2 Nummer 3 nicht vorliegen.
+
+(9) Wird die Kontrolle im Sinne des § 29 Absatz 2 des
+Wertpapiererwerbs- und Übernahmegesetzes über eine Zielgesellschaft
+auf Grund der Anwendung von Abwicklungsmaßnahmen erlangt, so befreit
+die Bundesanstalt den jeweils die Kontrolle erwerbenden Rechtsträger
+auf Antrag der Abwicklungsbehörde von der Pflicht zur Veröffentlichung
+nach § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes
+und zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 des
+Wertpapiererwerbs- und Übernahmegesetzes. Im Befreiungsverfahren
+kommen die §§ 10 bis 12 der Verordnung über den Inhalt der
+Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und
+Pflichtangeboten und die Befreiung von der Verpflichtung zur
+Veröffentlichung und zur Abgabe eines Angebots vom 27. Dezember 2001
+(BGBl. I S. 4263) entsprechend zur Anwendung.
 
 
 #### § 78 Allgemeine Befugnisse der Abwicklungsbehörde; Prüfungen vor Ort
@@ -8089,24 +8119,7 @@ Gläubiger oder Inhaber relevanter Kapitalinstrumente und
 berücksichtigungsfähiger Verbindlichkeiten nach § 65 Absatz 4 geltend
 machen.
 
-(7) Erlangt ein oder erlangen mehrere Inhaber relevanter
-Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten nach
-§ 65 Absatz 4 oder Gläubiger auf Grund der Anwendung des Instruments
-der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des
-Instruments der Gläubigerbeteiligung die Kontrolle im Sinne von § 29
-Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes, so befreit die
-Bundesanstalt für Finanzdienstleistungsaufsicht auf Antrag der
-Abwicklungsbehörde die betroffenen Anteilsinhaber von
-
-1.  der Pflicht zur Veröffentlichung nach § 35 Absatz 1 Satz 1 des
-    Wertpapiererwerbs- und Übernahmegesetzes und
-
-
-2.  der Pflicht zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 des
-    Wertpapiererwerbs- und Übernahmegesetzes.
-
-
-
+(7) (weggefallen)
 
 (8) Die Rechte der Inhaber relevanter Kapitalinstrumente und
 berücksichtigungsfähiger Verbindlichkeiten nach § 65 Absatz 4 oder der
@@ -10218,472 +10231,247 @@ der Anmeldung oder Eintragung wirksam.
 
 ### § 152a Anwendungsbereich
 
-(1) Die Vorschriften dieses Teils gelten für zentrale Gegenparteien,
-die ein Unternehmen im Sinne des Artikels 2 Nummer 1 der Verordnung
-(EU) Nr. 648/2012 sind, und ihren Sitz im Inland haben.
+Die Vorschriften dieses Teils finden ausschließlich Anwendung auf
+zentrale Gegenparteien, die ein Unternehmen im Sinne des Artikels 2
+Nummer 1 der Verordnung (EU) Nr. 648/2012 sind und ihren Sitz im
+Inland haben.
 
-(2) Handelt es sich bei der zentralen Gegenpartei um ein
-Kreditinstitut, eine Wertpapierfirma oder ein Unternehmen im Sinne des
-§ 1 oder um eine inländische Unionszweigestelle, kommen die
-Vorschriften dieses Teils ergänzend zur Anwendung. Für zentrale
-Gegenparteien, die ausschließlich über eine Erlaubnis verfügen, die
-Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2
-Nummer 12 des Kreditwesengesetzes auszuüben, gelten vorbehaltlich
-dieses Teils die übrigen Bestimmungen dieses Gesetzes so, als seien
-diese zentralen Gegenparteien ein Kreditinstitut, eine Wertpapierfirma
-oder ein Unternehmen im Sinne des § 1 oder eine inländische
-Unionszweigstelle. § 2 Absatz 9a des Kreditwesengesetzes bleibt
-unberührt.
 
-(3) Für zentrale Gegenparteien nach Absatz 2 Satz 2 gelten § 19 Absatz
-2 und § 41 Absatz 2 mit der Maßgabe, dass auch die Besonderheiten der
-Geschäftsaktivitäten einer zentralen Gegenpartei zu berücksichtigen
-sind.
+### § 152b Zuständigkeit
 
+(1) Die Bundesanstalt ist zuständige Abwicklungsbehörde im Sinne von
+Artikel 3 Absatz 1 der Verordnung (EU) 2021/23 des Europäischen
+Parlaments und des Rates vom 16. Dezember 2020 über einen Rahmen für
+die Sanierung und Abwicklung zentraler Gegenparteien und zur Änderung
+der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012, (EU) Nr.
+600/2014, (EU) Nr. 806/2014 und (EU) 2015/2365 sowie der Richtlinien
+2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU und (EU) 2017/1132
+(ABl. L 22 vom 22.1.2021, S. 1).
 
-### § 152b (weggefallen)
+(2) Das Bundesministerium der Finanzen ist zuständiges Ministerium im
+Sinne von Artikel 3 Absatz 8 der Verordnung (EU) 2021/23.
 
+(3) Die Bundesanstalt übt ihre Zuständigkeit für die Sanierung und
+Abwicklung von zentralen Gegenparteien nach den Vorschriften von Teil
+5 dieses Gesetzes, den dazu erlassenen Rechtsverordnungen, der
+Verordnung (EU) 2021/23 sowie den auf ihrer Grundlage erlassenen
+Rechtsakten aus. Die Deutsche Bundesbank ist abweichend von § 1 Absatz
+1 Satz 2 in entsprechender Anwendung von § 12 Absatz 3 Satz 3, Absatz
+4 Satz 1 und 5 sowie § 15 Absatz 2 Satz 1 in die Sanierungsplanung
+einzubeziehen.
 
+(4) Bei Abwicklungsmaßnahmen wird die Abwicklungsbehörde den
+Betriebsrat der zentralen Gegenpartei informieren, soweit dies ohne
+Beeinträchtigung der Abwicklungsziele möglich ist.
 
-### § 152c (weggefallen)
 
+### § 152c Unabhängiger Prüfer
 
+(1) Die für die Durchführung einer abschließenden Bewertung
+erforderliche Unabhängigkeit des Prüfers wird nicht dadurch
+ausgeschlossen, dass der Prüfer bereits an der vorläufigen Bewertung
+der Vermögenswerte und Verbindlichkeiten der zentralen Gegenpartei
+durch die Abwicklungsbehörde beteiligt war.
 
-### § 152d (weggefallen)
+(2) Der Prüfer wird von der Abwicklungsbehörde bestellt. Er erhält
+eine angemessene Vergütung, deren Höhe von der Abwicklungsbehörde
+festgesetzt wird, und seine notwendigen Auslagen ersetzt. Die
+Anforderungen an die Unabhängigkeit des Prüfers bestimmen sich nach
+den Artikeln 37 bis 41 der Verordnung (EU) 2016/1075.
 
 
+### § 152d Abwicklungsinstrumente, Anordnungsbefugnis
 
-### § 152e Erstellung und Aktualisierung von Abwicklungsplänen
+(1) Die Abwicklungsbehörde kann von der zentralen Gegenpartei
+verlangen, die Positionszuweisungs- und Verlustzuweisungsinstrumente
+nach den Artikeln 29 bis 31 der Verordnung (EU) 2021/23 in ihre
+Betriebsvorschriften aufzunehmen.
 
-(1) Die Abwicklungsbehörde erstellt für die zentrale Gegenpartei einen
-Abwicklungsplan und stimmt sich bei der Erstellung mit der
-Aufsichtsbehörde ab und übermittelt den Abwicklungsplan an die
-Aufsichtsbehörde. Der Abwicklungsplan für die zentrale Gegenpartei
-enthält neben der Darstellung der Abwicklungsmaßnahmen, die die
-Abwicklungsbehörde treffen kann, und den in § 40 Absatz 3 genannten
-Bestandteilen, insbesondere
+(2) Die Bundesanstalt kann gegenüber einer zentralen Gegenpartei im
+Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+die Einhaltung der Verordnung (EU) 2021/23 sicherzustellen.
 
-1.  eine Darstellung der relevanten Szenarien, die sowohl
-    Ausfallereignisse von einem oder mehreren Clearingmitgliedern,
-    Nichtausfallereignisse und eine Kombination aus beiden Ereignissen
-    berücksichtigt,
 
+### § 152e Ausgleich des Differenzbetrags
 
-2.  eine Beschreibung der Möglichkeiten zur Sicherstellung der
-    rechtzeitigen Erfüllung und Abwicklung der fälligen Verbindlichkeiten
-    zugunsten der Clearingmitglieder und deren Kunden,
+Der Ausgleich des Differenzbetrags nach Artikel 62 der Verordnung (EU)
+2021/23 steht den Anteilseignern, den Clearingmitgliedern und den
+anderen Gläubigern gegenüber der Abwicklungsbehörde zu.
 
 
-3.  eine Beschreibung der Möglichkeiten zur Aufrechterhaltung des Zugangs
-    von Clearingmitgliedern und deren Kunden zu den ihnen zugeordneten
-    Wertpapier- oder Geldkonten zu von der zentralen Gegenpartei zu
-    gewährenden transparenten und diskriminierungsfreien Bedingungen sowie
+### § 152f Inhalt der Abwicklungsanordnung
 
+(1) Die Abwicklungsanordnung muss mindestens enthalten:
 
-4.  eine Beschreibung der Maßnahmen zur Erleichterung der Übertragbarkeit
-    von Positionen und damit verbundenen Vermögenswerten der
-    Clearingmitglieder und deren Kunden auf eine andere zentrale
-    Gegenpartei oder ein Brückeninstitut, ohne dass die erleichterte
-    Übertragbarkeit die vertraglichen Beziehungen zwischen den
-    Clearingmitgliedern und ihren Kunden beeinträchtigt.
+1.  den Namen oder die Firma und den Sitz
 
+    a)  der abzuwickelnden zentralen Gegenpartei,
 
 
+    b)  bei Anwendung eines der Abwicklungsinstrumente nach Artikel 40 oder
+        Artikel 42 der Verordnung (EU) 2021/23 des übertragenden Rechtsträgers
+        sowie des übernehmenden Rechtsträgers;
 
-(2) Der Abwicklungsplan soll die Auswirkungen berücksichtigen, die
-seine Umsetzung auf Clearingmitglieder und deren Kunden sowie auf das
-Finanzsystem in den relevanten Mitgliedstaaten und in der Union
-insgesamt hätte.
 
-(3) Nach seiner erstmaligen Erstellung wird der Abwicklungsplan
-mindestens einmal im Kalenderjahr von der Abwicklungsbehörde geprüft.
-Zu prüfen ist der Abwicklungsplan auch nach
 
-1.  wesentlichen Änderungen der Rechts- und Organisationsstruktur der
-    zentralen Gegenpartei oder
 
 
-2.  einer Änderung der Verpflichtungen des Mutterunternehmens oder eines
-    sonst mit der zentralen Gegenpartei verbundenen Unternehmens, die
-    Verluste der zentralen Gegenpartei auszugleichen oder
+2.  Angaben zu den eingesetzten Abwicklungsinstrumenten, insbesondere
 
+    a)  die Angabe der zu übertragenden Gegenstände in den Fällen der Artikel
+        40 und 42 der Verordnung (EU) 2021/23,
 
-3.  einer Änderung der Vereinbarung über gruppeninterne finanzielle
-    Unterstützung im Sinne von § 22.
 
+    b)  die Angabe der betroffenen Kontrakte und Sicherheiten in den Fällen
+        der Artikel 29 und 30 der Verordnung (EU) 2021/23,
 
 
+    c)  die Angabe zu der Gesamthöhe des Abwicklungsbarmittelabrufs im Falle
+        des Artikels 31 der Verordnung (EU) 2021/23 und
 
 
-### § 152f Abwicklungsfähigkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungsermächtigung
+    d)  die Angabe der betroffenen Eigentumstitel und Schuldtitel oder anderer
+        unbesicherter Verbindlichkeiten im Fall des Artikels 32 der Verordnung
+        (EU) 2021/23,
 
-(1) Gelangt die Abwicklungsbehörde zu der Einschätzung, dass der
-Abwicklungsfähigkeit der zentralen Gegenpartei wesentliche Hindernisse
-entgegenstehen, kann sie neben den in § 59 Absatz 6 genannten
-Maßnahmen nach Maßgabe von § 59 Absatz 5 anordnen, dass die zentrale
-Gegenpartei die zur Erreichung der Abwicklungsfähigkeit erforderlichen
-und angemessenen Änderungen der Clearingbedingungen der zentralen
-Gegenpartei und der damit in Zusammenhang stehenden vertraglichen
-Vereinbarungen oder anderen vertraglichen Vereinbarungen vornimmt.
 
-(2) Vor Anordnung der Maßnahme nach Absatz 1 ist die zentrale
-Gegenpartei anzuhören. Die zentrale Gegenpartei kann innerhalb von
-vier Monaten nach Erhalt der Anordnung geeignete Maßnahmen
-vorschlagen, mit denen die Hindernisse, die der Abwicklungsfähigkeit
-entgegenstehen, beseitigt oder abgebaut werden sollen.
 
-(3) Die Abwicklungsbehörde prüft die potentiellen Auswirkungen der
-betreffenden Maßnahmen auf die zentrale Gegenpartei, auf den
-gemeinsamen Markt für Finanzdienstleistungen, die Finanzstabilität in
-relevanten Mitgliedstaaten und in der Union insgesamt und stimmt sich
-darüber mit der Aufsichtsbehörde und mit der Deutschen Bundesbank ab,
-bevor sie eine Änderung nach Absatz 1 verlangt.
+    wobei eine gattungsmäßige Bezeichnung jeweils ausreicht;
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-nähere Bestimmungen zu den zur Erreichung der Abwicklungsfähigkeit
-erforderlichen und angemessenen Änderungen der Clearingbedingungen der
-zentralen Gegenpartei und der damit in Zusammenhang stehenden
-vertraglichen Vereinbarungen oder anderer vertraglicher Vereinbarungen
-und zu den Voraussetzungen, unter denen diese Änderungen jeweils
-angeordnet werden können, zu treffen. Das Bundesministerium der
-Finanzen kann die Ermächtigung zum Erlass der Rechtsverordnung durch
-Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
+3.  den Abwicklungsstichtag;
 
-### § 152g Zwecke und Umfang der Bewertung; Unterlagen
 
-(1) Die gemäß § 69 vorzunehmende Bewertung dient der
-Abwicklungsbehörde neben den in § 71 genannten Zwecken auch als
-Grundlage für die Feststellung, ob die Voraussetzungen für die
-Anwendung des Instruments
+4.  Angaben zum Vorliegen der Zustimmung des Käufers im Falle des Artikels
+    40 Absatz 1 der Verordnung (EU) 2021/23; § 109 Absatz 1 Satz 2 und 4
+    findet entsprechende Anwendung;
 
-1.  der Vertragsbeendigung gemäß § 152j,
 
+5.  sofern bereits bekannt, Angaben zur Entschädigung nach Artikel 33
+    Absatz 7 der Verordnung (EU) 2021/23;
 
-2.  der Minderung zu zahlender Gewinne nichtausgefallener
-    Clearingmitglieder gemäß § 152k oder
 
+6.  sofern bereits bekannt, Angaben aus der entsprechenden Anwendung des §
+    142\.
 
-3.  des zusätzlichen Barmittelabrufs gemäß § 152l
 
 
 
-erfüllt sind, und der Feststellung der Höhe der relevanten Verluste
-sowie der ausstehenden Verpflichtungen und Positionen der zentralen
-Gegenpartei.
+(2) § 136 Absatz 2 bis 4 findet entsprechende Anwendung.
 
-(2) Die Unterlagen, die der Prüfer der Bewertung neben den in § 72
-Absatz 2 Satz 2 genannten Unterlagen beifügen muss, müssen
-insbesondere enthalten
 
-1.  einen Bericht über die Finanzlage der zentralen Gegenpartei, der
-    insbesondere eine Auflistung der noch verbleibenden vorfinanzierten
-    Finanzmittel sowie der noch offenen finanziellen Zusagen umfasst,
+### § 152g Verfahrensvorschriften, Einlagensicherung, Sozialpläne
 
+Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde
+die Abwicklungsanordnung durch Allgemeinverfügung treffen. § 10 Absatz
+1, die §§ 11, 77 Absatz 9, § 137 Absatz 1 Satz 2, Absatz 2 und 3 sowie
+die §§ 139 bis 143, 145, 148, 151, 152 finden entsprechende Anwendung.
 
-2.  einen Bericht über die im Clearing erstellten Positionen, insbesondere
-    Angaben zum Markt- und Buchwert der Vermögenswerte, zu
-    Verbindlichkeiten und sonstigen Positionen einschließlich der noch
-    offenen Verpflichtungen der Vertragspartner gegenüber der zentralen
-    Gegenpartei oder der zentralen Gegenpartei gegenüber ihren
-    Vertragspartnern, und
 
+### § 152h Rechtsschutz
 
-3.  die Aufzeichnungen über erbrachte Dienstleistungen und ausgeübte
-    Tätigkeiten der zentralen Gegenpartei im Sinne des Artikels 29 Absatz
-    1 der Verordnung (EU) Nr. 648/2012.
+(1) Ein Widerspruchsverfahren gegen eine Abwicklungsmaßnahme nach
+Artikel 27 Absatz 1, den Artikeln 48 bis 59 der Verordnung (EU)
+2021/23 wird nicht durchgeführt. Eine Anfechtungsklage gegen
+Abwicklungsmaßnahmen der Abwicklungsbehörde einschließlich der
+Androhung und Festsetzung von Zwangsmitteln nach diesem Gesetz hat
+keine aufschiebende Wirkung.
 
+(2) Widerspruch und Anfechtungsklage gegen Verwaltungsakte
+einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
+Grundlage der Artikel 9, 10, 13, 15, 16, 18 und 19 der Verordnung (EU)
+2021/23 sowie des § 152d dieses Gesetzes haben keine aufschiebende
+Wirkung.
 
+(3) § 179 Absatz 2 bis 4 gilt entsprechend.
 
 
+### § 152i Verordnungsermächtigung
 
-### § 152h Anordnung von Abwicklungsmaßnahmen
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
+zu erlassen über
 
-(1) Die Abwicklungsbehörde kann bei Vorliegen der
-Abwicklungsvoraussetzungen nach § 62 alle zur Erreichung der
-Abwicklungsziele erforderlichen Maßnahmen treffen. Insbesondere kann
-sie die Anwendung der folgenden Abwicklungsinstrumente einzeln oder in
-Kombination anordnen:
+1.  die Anforderungen an die Ausgestaltung von Sanierungsplänen,
+    insbesondere nähere Bestimmungen zu den Bestandteilen und Maßnahmen
+    des Sanierungsplans, jeweils auch unter Berücksichtigung besonderer
+    Geschäftsmodelle und besonderer Geschäftsaktivitäten von zentralen
+    Gegenparteien;
 
-1.  Vertragsbeendigung nach § 152j,
 
+2.  Art, Umfang und Fristen der Behebung von Hindernissen nach Artikel 10
+    Absatz 10 der Verordnung (EU) 2021/23;
 
-2.  Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder
-    nach § 152k,
 
+3.  die Art und Weise, wie eine Umwandlung oder Herabschreibung von
+    Eigentumstiteln und Schuldtiteln oder anderen unbesicherten
+    Verbindlichkeiten und eine Löschung oder Verwässerung nach Artikel 33
+    Absatz 2 Unterabsatz 2 der Verordnung (EU) 2021/23 bewirkt wird;
 
-3.  zusätzlicher Barmittelabruf nach § 152l.
 
+4.  die Umstände, unter denen die Abwicklungsbehörde nach Artikel 41
+    Absatz 3 der Verordnung (EU) 2021/23 das Instrument der
+    Unternehmensveräußerung auch für den Fall anwenden kann, dass die
+    Kriterien der Vermarktung nicht erfüllt werden;
 
 
-Die in § 77 Absatz 1 genannten Abwicklungsinstrumente und Befugnisse
-bleiben unberührt.
+5.  den Inhalt der gemäß Artikel 53 Absatz 2 der Verordnung (EU) 2021/23
+    erforderlichen Bestimmungen in Verträgen und sonstigen Vereinbarungen.
 
-(2) Vor der Anordnung zum Einsatz von Abwicklungsinstrumenten nach
-Absatz 1 hat die Abwicklungsbehörde ausstehende Rechte der zentralen
-Gegenpartei geltend zu machen, insbesondere vertragliche
-Verpflichtungen
 
-1.  von Clearingmitgliedern zur Bereitstellung zusätzlicher Ressourcen und
-    zur Verlustübernahme für die zentrale Gegenpartei,
 
 
-2.  zur Übernahme von Positionen ausgefallener Clearingmitglieder,
+(2) Das Bundesministerium der Finanzen kann die Ermächtigung nach
+Absatz 1 durch Rechtsverordnung auf die Aufsichtsbehörde und auf die
+Abwicklungsbehörde übertragen.
 
 
-3.  zur Leistung anderer Mittel, die in den Clearingbedingungen und mit
-    diesen in Zusammenhang stehenden Zusagen vertraglich vereinbart
-    wurden,
+### § 152j Besondere Befugnisse nach der Verordnung (EU) 2021/23
 
+(1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote
+der in den Titeln III bis V enthaltenen Artikel der Verordnung (EU)
+2021/23. Sie kann Anordnungen treffen, die zur Durchsetzung der in
+Satz 1 genannten Verbote geeignet und erforderlich sind. Insbesondere
+kann sie ein vorübergehendes Verbot für die Mitglieder der
+Geschäftsleitung der zentralen Gegenpartei oder für eine andere
+verantwortliche natürliche Person, in einer zentralen Gegenpartei
+Aufgaben wahrzunehmen, verhängen, wenn
 
-4.  zu einer finanziellen Unterstützung oder Verlustübernahme durch
-    natürliche oder juristische Personen, die keine Clearingmitglieder
-    sind.
+1.  entgegen Artikel 9 Sanierungspläne nicht erstellt, fortgeschrieben
+    oder aktualisiert werden;
 
 
+2.  entgegen Artikel 9 Absatz 6 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erstattet wird;
 
-Die Abwicklungsbehörde kann nach Prüfung davon absehen, die genannten
-vertraglichen Verpflichtungen teilweise oder vollständig geltend zu
-machen, wenn die vertraglichen Verpflichtungen nicht innerhalb einer
-angemessenen Frist durchgesetzt werden können.
 
-(3) Die Abwicklungsbehörde kann auch davon absehen, die in Absatz 2
-genannten vertraglichen Verpflichtungen teilweise oder vollständig
-geltend zu machen, um erhebliche nachteilige Auswirkungen auf das
-Finanzsystem zu vermeiden. Sie kann auch davon absehen, wenn die
-unverzügliche Durchführung der in Absatz 1 genannten
-Abwicklungsinstrumente geeigneter ist, um die Abwicklungsziele zu
-erreichen.
+3.  entgegen Artikel 9 Absatz 7 Unterabsatz 2 Maßnahmen gegen das
+    Verlangen der Aufsichtsbehörde durchgeführt werden;
 
-(4) Unterlässt die Abwicklungsbehörde die Geltendmachung von
-vertraglichen Verpflichtungen nach Absatz 2 Satz 2 oder Absatz 3, so
-erlöschen diese nicht. Eine spätere Geltendmachung bleibt davon
-unberührt. Die in Satz 1 genannten vertraglichen Verpflichtungen
-können bis zum Ablauf des dritten auf den Beginn der Abwicklung
-folgenden Kalenderjahres geltend gemacht werden. Die Einrede der
-Verjährung kann gegenüber der Abwicklungsbehörde nicht erhoben werden.
-Absatz 3 Satz 1 findet bei späterer Geltendmachung Anwendung.
 
-(5) Bei der Anordnung von Instrumenten nach den §§ 152k und 152l ist
-ein zusätzlicher Barmittelabruf von der Deutschen Bundesbank oder eine
-Minderung von Bewertungsgewinnen der Deutschen Bundesbank
-ausgeschlossen.
+4.  entgegen Artikel 13 Absatz 1 Unterabsatz 1 nicht alle für die
+    Ausarbeitung von Abwicklungsplänen erforderlichen Informationen
+    bereitgestellt werden;
 
 
-### § 152i Zwecke der Instrumente der Vertragsbeendigung, der Minderung zu zahlender Gewinne und des zusätzlichen Barmittelabrufs
+5.  entgegen Artikel 13 Absatz 2 Aufzeichnungen nicht, nicht vollständig
+    oder nicht rechtzeitig zur Verfügung gestellt werden;
 
-Die Abwicklungsbehörde wendet die in den §§ 152k und 152l genannten
-Instrumente der Minderung zu zahlender Gewinne nichtausgefallener
-Clearingmitglieder und des zusätzlichen Barmittelabrufs für einen oder
-mehrere der folgenden Zwecke an
 
-1.  zur Deckung der gemäß § 152g Absatz 1 ermittelten Verluste der
-    zentralen Gegenpartei oder eines Brückeninstituts,
+6.  entgegen Artikel 13 Absatz 3 Informationen nicht, nicht vollständig
+    oder nicht rechtzeitig ausgetauscht werden;
 
 
-2.  zur Wiederherstellung der Fähigkeit der zentralen Gegenpartei oder
-    eines Brückeninstituts, Zahlungsverpflichtungen bei Fälligkeit zu
-    erfüllen, oder
+7.  entgegen Artikel 70 Absatz 1 die zuständige Behörde nicht darüber
+    unterrichtet wird, dass die zentrale Gegenpartei ausfällt oder
+    wahrscheinlich ausfällt.
 
 
-3.  zur Unterstützung der Unternehmensveräußerung.
 
 
-
-
-
-### § 152j Instrument der Vertragsbeendigung
-
-(1) Liegen bei einer zentralen Gegenpartei die
-Abwicklungsvoraussetzungen gemäß § 62 vor, kann die Abwicklungsbehörde
-mit dem Instrument der Vertragsbeendigung ein ausgeglichenes Buch der
-im Clearing erstellten Positionen der zentralen Gegenpartei oder des
-Brückeninstituts im Sinne von § 128 wiederherstellen.
-
-(2) Die Abwicklungsbehörde kann alle oder einzelne Verpflichtungen
-einer in Abwicklung befindlichen zentralen Gegenpartei aus einem
-Vertrag oder einzelnen Verträgen, bei der die zentrale Gegenpartei
-Vertragspartei ist, beenden, insbesondere
-
-1.  Verträge mit einem ausgefallenen Clearingmitglied,
-
-
-2.  Verträge, die mit Clearingdiensten oder betroffenen Anlageklassen in
-    Verbindung stehen.
-
-
-
-
-(3) Die Abwicklungsbehörde unterrichtet die zentrale Gegenpartei und
-die betroffenen Clearingmitglieder über das Datum, zu dem ein Vertrag
-nach Absatz 2 beendet wird.
-
-(4) Vor der Beendigung eines Vertrages hat die Abwicklungsbehörde
-
-1.  zu verlangen, dass die in Abwicklung befindliche zentrale Gegenpartei
-    jeden Vertrag bewertet und die Bestände der Wertpapier- und
-    Barsicherheiten jedes Clearingmitglieds aktualisiert,
-
-
-2.  den Nettobetrag zu bestimmen, der auf Grund der Vertragsbeendigung von
-    dem verpflichteten oder an das berechtigte Clearingmitglied zu zahlen
-    ist, unter Berücksichtigung fälliger, aber noch nicht gezahlter
-    Nachschusszahlungen, einschließlich Nachschusszahlungen, die auf Grund
-    der in Nummer 1 genannten Vertragsbewertungen fällig werden, und
-
-
-3.  jedes Clearingmitglied über die festgestellten Nettobeträge zu
-    informieren und von der zentralen Gegenpartei zu verlangen, dass sie
-    geschuldete Nettobeträge einfordert.
-
-
-
-
-(5) Die Bewertung der Verträge nach Absatz 4 Nummer 1 soll auf einem
-Marktpreis basieren, der auf der Grundlage der eigenen Regeln und
-Vereinbarungen der zentralen Gegenpartei oder einer anderen von der
-Abwicklungsbehörde als angemessen und nachvollziehbar angesehenen
-Preisfindungsmethode ermittelt wird. Die Berechnung des Nettobetrages
-nach Absatz 4 Nummer 2 ist nach Aufforderung der Abwicklungsbehörde
-durch die zentrale Gegenpartei vorzunehmen. Die Abwicklungsbehörde ist
-berechtigt, von dem durch die zentrale Gegenpartei berechneten
-Nettobetrag abzuweichen, wenn dies aus ihrer Sicht im Interesse der
-Erreichung der Abwicklungsziele erforderlich ist. Eine solche
-Abweichung ist von der Abwicklungsbehörde zu begründen.
-
-(6) Leistet ein nichtausgefallenes Clearingmitglied den nach Absatz 4
-ermittelten Nettobetrag nicht unverzüglich nach der ersten
-Anforderung, kann die Abwicklungsbehörde verlangen, dass die zentrale
-Gegenpartei den Ausfall dieses Clearingmitglieds feststellt und dessen
-Einschusszahlungen im Sinne des Artikels 41 der Verordnung (EU) Nr.
-648/2012 und seinen Beitrag zum Ausfallfonds im Sinne des Artikels 42
-der Verordnung (EU) Nr. 648/2012 im Einklang mit Artikel 45 der
-Verordnung (EU) Nr. 648/2012 verwendet.
-
-(7) Hat die Abwicklungsbehörde einen oder mehrere der in Absatz 2
-genannten Verträge beendet, so kann sie der zentralen Gegenpartei
-vorübergehend untersagen, das Clearing für neue Verträge derselben Art
-vorzunehmen.
-
-
-### § 152k Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder
-
-(1) Die Minderung zu zahlender Gewinne nichtausgefallener
-Clearingmitglieder wird von der Abwicklungsbehörde nur zur Deckung von
-Verlusten aus dem Ausfall eines oder mehrerer Clearingmitglieder
-verwendet, um die Zwecke des § 152i zu erreichen.
-
-(2) Die Abwicklungsbehörde kann die Höhe der Zahlungsverpflichtungen
-der zentralen Gegenpartei gegenüber nichtausgefallenen
-Clearingmitgliedern mindern, wenn diese Zahlungsverpflichtungen das
-Ergebnis von Bewertungsgewinnen sind, die auf Grund der
-Clearingbedingungen und damit im Zusammenhang stehender vertraglicher
-Vereinbarungen der zentralen Gegenpartei mit den Clearingmitgliedern
-zu Nachschusszahlungen oder einer Zahlung mit gleicher
-wirtschaftlicher Wirkung fällig werden.
-
-(3) Die Abwicklungsbehörde berechnet die in Absatz 2 genannte
-Minderung der Zahlungsverpflichtungen nach einem angemessenen und
-nachvollziehbaren Verfahren, das auf Grundlage der Bewertung nach §
-152g festgelegt und den Clearingmitgliedern von der Abwicklungsbehörde
-mitgeteilt wird, sobald das Instrument verwendet wird. Die
-Clearingmitglieder müssen ihren Kunden unverzüglich die Anwendung
-eines solchen Instruments mitteilen. Die Nettogewinne, die für jedes
-nichtausgefallene Clearingmitglied insgesamt gemindert werden, sind
-der Höhe nach beschränkt auf den doppelten Beitrag des
-nichtausgefallenen Clearingmitglieds zum Ausfallfonds der zentralen
-Gegenpartei.
-
-(4) Die Minderung der zu zahlenden Bewertungsgewinne wird zu dem
-Zeitpunkt wirksam, zu dem die Abwicklungsbehörde diese
-Abwicklungsmaßnahme ergreift. In Höhe der Minderung erlöschen die
-Zahlungsansprüche der nichtausgefallenen Clearingmitglieder gegen die
-zentrale Gegenpartei.
-
-(5) Wird die Minderung der zu zahlenden Bewertungsgewinne von der
-Abwicklungsbehörde nur teilweise zur Deckung von Verlusten im Sinne
-von Absatz 1 verwendet, bleibt die Pflicht der zentralen Gegenpartei
-bestehen, den ausstehenden Restbetrag an das nichtausgefallene
-Clearingmitglied zu zahlen.
-
-
-### § 152l Instrument des zusätzlichen Barmittelabrufs
-
-(1) Die Abwicklungsbehörde kann zur Deckung von Verlusten aus dem
-Ausfall eines oder mehrerer Clearingmitglieder von nichtausgefallenen
-Clearingmitgliedern verlangen, einen Barbetrag an die zentrale
-Gegenpartei zu zahlen (Barmittelabruf), um die Zwecke des § 152i zu
-erreichen. Der Betrag ist der Höhe nach beschränkt auf den jeweiligen
-Beitrag des nichtausgefallenen Clearingmitglieds zum Ausfallfonds der
-zentralen Gegenpartei.
-
-(2) Die Abwicklungsbehörde kann den Barmittelabruf unabhängig davon
-geltend machen, ob alle vertraglichen Verpflichtungen, die Zahlungen
-von nichtausgefallenen Clearingmitgliedern erfordern, vollständig
-erfüllt sind.
-
-(3) Die Abwicklungsbehörde legt den Betrag des Barmittelabrufs jedes
-nichtausgefallenen Clearingmitglieds im Verhältnis zum Beitrag des
-nichtausgefallenen Clearingmitglieds zum Ausfallfonds bis zu der in
-Absatz 1 Satz 2 genannten Höhe fest.
-
-(4) Leistet ein nichtausgefallenes Clearingmitglied den geforderten
-Betrag des Barmittelabrufs nicht unverzüglich nach der ersten
-Anforderung, kann die Abwicklungsbehörde verlangen, dass die zentrale
-Gegenpartei den Ausfall dieses Clearingmitglieds feststellt und dessen
-Einschusszahlungen im Sinne des Artikels 41 der Verordnung (EU) Nr.
-648/2012 und seinen Beitrag zum Ausfallfonds im Sinne des Artikels 42
-der Verordnung (EU) Nr. 648/2012 gemäß Artikel 45 der Verordnung (EU)
-Nr. 648/2012 verwendet.
-
-
-### § 152m Schutzbestimmungen für Anteilsinhaber, Gläubiger und Clearingmitglieder
-
-(1) Führt die Bewertung nach § 146 Absatz 1 zu dem Ergebnis, dass die
-von einem Anteilsinhaber, Gläubiger oder Clearingmitglied infolge
-einer Abwicklungsmaßnahme im Sinne des § 152h Absatz 1 erlittenen
-Verluste die Verluste übersteigen, die der Anteilsinhaber, Gläubiger
-oder das Clearingmitglied beim Unterbleiben der Maßnahme im Rahmen
-eines Insolvenzverfahrens erlitten hätten, steht dem Anteilsinhaber,
-Gläubiger oder Clearingmitglied gegen die zentrale Gegenpartei oder
-das Brückeninstitut oder den Erwerber im Rahmen einer
-Unternehmensveräußerung ein Anspruch auf Ersatz der erlittenen
-Verluste zu. Satz 1 gilt entsprechend, wenn eine Abwicklungsmaßnahme
-im Sinne des § 77 Absatz 1 Nummer 1 auf eine zentrale Gegenpartei im
-Sinne des § 152a Absatz 2 Satz 2 angewendet wurde.
-
-(2) Für den Anspruch nach Absatz 1 haften die zentrale Gegenpartei,
-das Brückeninstitut und der Erwerber als Gesamtschuldner. Ein Anspruch
-gegen den Restrukturierungsfonds nach den §§ 146 und 147 oder gegen
-den einheitlichen Abwicklungsfonds besteht nicht.
-
-(3) Ansprüche nach Absatz 1 können erfüllt werden durch eine
-Beteiligung der Anteilsinhaber, Gläubiger oder Clearingmitglieder an
-den
-
-1.  Gewinnen,
-
-
-2.  Kapitalinstrumenten oder
-
-
-3.  Verbindlichkeiten
-
-
-
-der zentralen Gegenpartei oder des Brückeninstituts, die dem Anspruch
-wertmäßig entsprechen.
-
-(4) Auf Anordnung der Abwicklungsbehörde ist die zentrale Gegenpartei
-oder das Brückeninstitut verpflichtet, Kapitalinstrumente oder
-Verbindlichkeiten zu begeben, um Ansprüche nach Absatz 1 zu erfüllen.
-
-
-### § 152n Rechtsschutz
-
-Für den Rechtsschutz gegen Abwicklungsmaßnahmen nach § 152h Absatz 1
-gilt § 179 entsprechend.
+(2) Die Bundesanstalt kann Entscheidungen über Maßnahmen und
+Sanktionen, die nach Absatz 1 Satz 2 und 3 sowie nach § 152l erlassen
+wurden, auf ihrer Internetseite bekannt machen.
 
 
 ## Teil 6 - Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten
@@ -11884,11 +11672,67 @@ Abschluss des Mutterunternehmens an der Spitze der Gruppe ausgewiesen
 ist.
 
 
+### § 172a Bußgeldvorschriften zur Verordnung (EU) 2021/23
+
+(1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2021/23 des
+Europäischen Parlaments und des Rates vom 16. Dezember 2020 über einen
+Rahmen für die Sanierung und Abwicklung zentraler Gegenparteien und
+zur Änderung der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012,
+(EU) Nr. 600/2014, (EU) Nr. 806/2014 und (EU) 2015/2365 sowie der
+Richtlinien 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU und (EU)
+2017/1132 (ABl. L 22 vom 22.1.2021, S. 1) verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 9 Absatz 1 einen Sanierungsplan nicht oder nicht
+    rechtzeitig erstellt oder nicht oder nicht mindestens einmal jährlich
+    aktualisiert,
+
+
+2.  entgegen Artikel 9 Absatz 6 Unterabsatz 2 oder Artikel 70 Absatz 1
+    eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
+
+
+3.  einer vollziehbaren Anordnung nach Artikel 9 Absatz 7 Unterabsatz 2
+    oder Artikel 13 Absatz 2 zuwiderhandelt,
+
+
+4.  entgegen Artikel 13 Absatz 1 Unterabsatz 1 eine Information nicht oder
+    nicht rechtzeitig übermittelt oder
+
+
+5.  entgegen Artikel 13 Absatz 3 Satz 1 eine Information nicht oder nicht
+    rechtzeitig austauscht.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünf
+Millionen Euro geahndet werden.
+
+(3) Bei einer juristischen Person oder Personenvereinigung kann die
+Ordnungswidrigkeit mit einer Geldbuße bis zu 10 Prozent des jährlichen
+Gesamtumsatzes der juristischen Person oder Personenvereinigung im
+vorangegangenen Geschäftsjahr geahndet werden.
+
+(4) Die Ordnungswidrigkeit kann über Absatz 2 oder 3 hinaus mit einer
+Geldbuße bis zum Zweifachen des aus der Zuwiderhandlung gezogenen
+Nutzens geahndet werden, sofern sich dieser beziffern lässt.
+
+(5) Handelt es sich im Falle von Absatz 3 bei der juristischen Person
+oder Personenvereinigung um das Tochterunternehmen eines
+Mutterunternehmens im Sinne von Artikel 2 Nummer 13 der Verordnung
+(EU) 2021/23, so bezeichnet Gesamtumsatz den Umsatz, der im
+vorangegangenen Geschäftsjahr im konsolidierten Abschluss des obersten
+Mutterunternehmens ausgewiesen ist.
+
+
 ### § 173 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist in den Fällen des § 172 Absatz 1 Nummer
-1 bis 4 und 8 die Aufsichtsbehörde, im Übrigen die Abwicklungsbehörde.
+1 bis 4 und 8 sowie des § 172a Absatz 1 Nummer 1 bis 3 die
+Aufsichtsbehörde, im Übrigen die Abwicklungsbehörde.
 
 
 ### § 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen

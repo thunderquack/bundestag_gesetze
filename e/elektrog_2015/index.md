@@ -18,16 +18,7 @@ Fundstelle
 
 Stand: Ersetzt G 2129-43 v. 16.3.2005 I 762 (ElektroG)
 Zuletzt geändert durch
-:   Art. 14 G v. 12.5.2021 I 1087
-
-Änderung durch
-:   Art. 1 G v. 20.5.2021 I 1145 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
-
-Änderung durch
-:   Art. 23 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 8.12.2022 I 2240
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -442,9 +433,13 @@ Im Sinne dieses Gesetzes sind
 
 20. In-vitro-Diagnostikum:
 
-    ein In-vitro-Diagnostikum oder dessen Zubehör im Sinne von § 3 Nummer
-    4 oder 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai
-    2021 geltenden Fassung, das ein Elektro- oder Elektronikgerät ist;
+    ein In-vitro-Diagnostikum oder dessen Zubehör im Sinne von Artikel 2
+    Nummer 2 oder 4 der Verordnung (EU) 2017/746 des Europäischen
+    Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika
+    und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses
+    2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom
+    3\.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils
+    geltenden Fassung, das ein Elektro- oder Elektronikgerät ist;
 
 
 21. aktives implantierbares medizinisches Gerät:
@@ -3010,7 +3005,7 @@ der Staatskasse auferlegten Kosten trägt.
 1\. Januar 2022 bereits registriert sind, bis zum Ablauf des 30. Juni
 2022 der zuständigen Behörde ein Rücknahmekonzept vorzulegen.
 
-(2) § 6 Absatz 2 Nummer 2 und 3 gilt erst ab dem 1. Januar 2023.
+(2) § 6 Absatz 2 Satz 2 Nummer 2 und 3 gilt erst ab dem 1. Juli 2023.
 
 (3) Abweichend von § 8 Absatz 3 Satz 4 ist eine Zulassung des
 Bevollmächtigten nach § 37 Absatz 7 erst ab dem 1. Januar 2023
@@ -3243,11 +3238,7 @@ Abhol- und Aufstellungspflichten entsprechend.
 
     Schmelzsicherungen
 
-    Bekleidung mit elektrischen Funktionen
-
     elektrische Zigaretten
-
-    elektronische Antriebe für Möbel
 
     Bekleidung mit elektrischen Funktionen (z.B. Heiz-, Massage- oder
     Leuchtfunktionen)

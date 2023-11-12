@@ -17,27 +17,10 @@ Fundstelle
 :   BGBl I: 1988, 1770
 
 Zuletzt geändert durch
-:   Art. 7 G v. 25.11.2015 I 2095
-
-Mittelbare änderung durch
-:   Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
-
-Änderung durch
-:   Art. 4 Abs. 23 G v. 18.7.2016 I 1666 ist wegen struktureller Unstimmigkeiten nicht ausführbar
-
-Änderung durch
-:   Art. 2 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 6 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Nr. 1 der Berichtigung vom 16.12.2021 I 5241 (Nr. 85) noch nicht berücksichtigt
-
-## Erster Teil - 
+:   Art. 18 G v. 22.2.2023 I Nr 51
 
 
-
-### § 1 Haftung und Entschädigung für Ölverschmutzungsschäden; Versicherungspflicht
+## § 1 Haftung und Entschädigung für Ölverschmutzungsschäden; Versicherungspflicht
 
 (1) Die Haftung und Entschädigung für Ölverschmutzungsschäden und die
 Verpflichtung zur Aufrechterhaltung einer Versicherung oder sonstigen
@@ -88,52 +71,37 @@ geltenden Fassung (Haftungsbeschränkungsübereinkommen) beschränken
 kann.
 
 
-### § 2 Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit; Verordnungsermächtigung
+## § 2 Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit; Verordnungsermächtigung
 
-(1) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats
-des Haftungsübereinkommens von 1992 eingetragenen noch die Flagge
-eines Vertragsstaats des Haftungsübereinkommens von 1992 führenden
-Seeschiffs, das mehr als zweitausend Tonnen Öl als Bulkladung
-befördert, hat eine Artikel VII Abs. 1 des Haftungsübereinkommens von
-1984 entsprechende Versicherung oder sonstige finanzielle Sicherheit
-für die Zeit aufrechtzuerhalten, in der sich das Schiff im
-Geltungsbereich dieses Gesetzes befindet.
+(1) Das Bestehen der nach Artikel VII Absatz 1 des
+Haftungsübereinkommens von 1992, auch in Verbindung mit § 1 Absatz 2,
+vorgeschriebenen Versicherung oder sonstigen finanziellen Sicherheit
+wird durch eine von dem nach Artikel VII Absatz 2 Satz 2 des
+Haftungsübereinkommens von 1992 zuständigen Vertragsstaat
+auszustellende Bescheinigung (Öl-Pflichtversicherungsbescheinigung
+1992) nachgewiesen. Das Bestehen der nach Artikel 7 Absatz 1 des
+Bunkeröl-Übereinkommens vorgeschriebenen Versicherung oder sonstigen
+finanziellen Sicherheit, auch in Verbindung mit § 1 Absatz 2, wird
+durch eine von dem nach Artikel 7 Absatz 2 Satz 2 des Bunkeröl-
+Übereinkommens zuständigen Vertragsstaat auszustellende Bescheinigung
+(Bunkeröl-Pflichtversicherungsbescheinigung) nachgewiesen.
 
-(2) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats
-des Bunkeröl-Übereinkommens eingetragenen noch die Flagge eines
-Vertragsstaats des Bunkeröl-Übereinkommens führenden Seeschiffs mit
-einer Bruttoraumzahl von mehr als 1 000 hat eine Artikel 7 Abs. 1 des
-Bunkeröl-Übereinkommens entsprechende Versicherung oder sonstige
-finanzielle Sicherheit für die Zeit aufrecht zu erhalten, in der sich
-das Schiff im Geltungsbereich dieses Gesetzes befindet. Die
-Mindesthöhe der nach Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens
-aufrechtzuerhaltenden Versicherung oder sonstigen finanziellen
-Sicherheit beläuft sich je Schadensereignis auf die Summe der Beträge,
-auf die der Schiffseigentümer seine Haftung nach Artikel 6 Abs. 1 des
-Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung
-für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das
-Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen
-für die Bundesrepublik Deutschland geltenden Fassung
-(Haftungsbeschränkungsübereinkommen), beschränken kann.
-
-(3) Das Bestehen einer Versicherung oder sonstigen finanziellen
-Sicherheit nach Artikel VII Abs. 1 des Haftungsübereinkommens von
-1992, nach Artikel 7 des Bunkeröl-Übereinkommens oder nach Absatz 1
-oder Absatz 2 wird durch eine behördliche Bescheinigung nachgewiesen.
-
-(4) Dem Eigentümer eines Seeschiffs, das im Schiffsregister im
-Geltungsbereich dieses Gesetzes eingetragen ist, wird die
-Bescheinigung nach Absatz 3 ausgestellt, wenn er nachweist, daß eine
+(2) Dem Eigentümer eines Schiffes, das in das Schiffsregister eines
+deutschen Gerichts eingetragen ist und die Bundesflagge führt, hat die
+zuständige Behörde auf Antrag die Öl-Pflichtversicherungsbescheinigung
+1992 oder die Bunkeröl-Pflichtversicherungsbescheinigung nach Absatz 1
+Satz 1 oder Satz 2 auszustellen, wenn er nachweist, dass eine
 entsprechende Versicherung oder sonstige finanzielle Sicherheit
-besteht, sofern nicht begründeter Anlaß für die Annahme gegeben ist,
-daß der Sicherheitsgeber nicht in der Lage sein wird, seine
-Verpflichtungen zu erfüllen. Satz 1 gilt entsprechend für den
-Eigentümer eines Seeschiffes im Sinne von Absatz 1 oder Absatz 2, wenn
-dem Eigentümer nicht bereits eine Bescheinigung ausgestellt worden
-ist, die nach Artikel VII Abs. 7 des Haftungsübereinkommens von 1992
-oder Artikel 7 Abs. 9 des Bunkeröl-Übereinkommens anzuerkennen ist.
+besteht und kein begründeter Anlass für die Annahme gegeben ist, dass
+der Sicherheitsgeber nicht in der Lage sein wird, seine
+Verpflichtungen zu erfüllen.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur
+(3) Dem Eigentümer eines Schiffes, das nicht die Bundesflagge führt,
+kann die zuständige Behörde die Öl-Pflichtversicherungsbescheinigung
+1992 oder die Bunkeröl-Pflichtversicherungsbescheinigung nach Absatz 1
+Satz 1 oder Satz 2 auf Antrag ausstellen; Absatz 2 gilt entsprechend.
+
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung nähere Bestimmungen über
 
@@ -141,22 +109,20 @@ Rechtsverordnung nähere Bestimmungen über
     Bescheinigung,
 
 
-2.  die Zuständigkeiten und das Verfahren bei der Ausstellung und
-    Einziehung der Bescheinigung,
-
-
-3.  die gebührenpflichtigen Tatbestände für individuell zurechenbare
-    öffentliche Leistungen auf Grund dieses Gesetzes oder einer
-    Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die
-    Auslagenerstattung.
+2.  das Verfahren bei der Ausstellung und Einziehung der Bescheinigung.
 
 
 
+In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere die
+Mitteilungspflichten des Eigentümers eines Seeschiffes im Verfahren
+der Ausstellung der Bescheinigung, auch hinsichtlich nach Ausstellung
+eintretender Umstände, und im Verfahren der Einziehung der
+Bescheinigung geregelt werden.
 
 
-### § 3 Mitführen der Bescheinigungen; Festhalten des Schiffes
+## § 3 Mitführen der Bescheinigungen; Festhalten des Schiffes
 
-(1) Der eingetragene Eigentümer eines Schiffes nach Artikel VI Absatz
+(1) Der eingetragene Eigentümer eines Schiffes nach Artikel VII Absatz
 1 des Haftungsübereinkommens von 1992, auch in Verbindung mit § 1
 Absatz 2, hat sicherzustellen, dass die Öl-
 Pflichtversicherungsbescheinigung 1992 an Bord mitgeführt wird. Der
@@ -184,7 +150,7 @@ zuständige Behörde das Schiff festhalten, bis die jeweilige
 Bescheinigung vorgelegt worden ist.
 
 
-### § 4 Behördliche Zuständigkeiten; Gebühren und Auslagen
+## § 4 Behördliche Zuständigkeiten; Gebühren und Auslagen
 
 (1) § 2 Absatz 2 und 3 und die nach § 2 Absatz 4 erlassene
 Rechtsverordnung werden durch den Bund ausgeführt; die Wahrnehmung der
@@ -196,7 +162,7 @@ Logistik Telekommunikation. § 6 des Seeaufgabengesetzes ist
 entsprechend anzuwenden.
 
 
-### § 5 Mitteilung der erhaltenen Ölmengen
+## § 5 Mitteilung der erhaltenen Ölmengen
 
 (1) Das Bundesministerium für Wirtschaft und Energie teilt dem
 Direktor des Internationalen Entschädigungsfonds für
@@ -247,7 +213,7 @@ in Absatz 2 vorgesehenen Angaben, ihre Form und die zu wahrenden
 Fristen.
 
 
-### § 6 Gerichtliche Zuständigkeiten
+## § 6 Gerichtliche Zuständigkeiten
 
 (1) Für Streitigkeiten wegen der Ansprüche
 
@@ -300,7 +266,7 @@ Gerichtsstand nicht begründet, so ist das Gericht örtlich zuständig,
 in dessen Bezirk die Hamburg Port Authority ihren Sitz hat.
 
 
-### § 7 Anerkennung und Vollstreckung
+## § 7 Anerkennung und Vollstreckung
 
 Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen
 Mitgliedstaat der Europäischen Union ergangenen Entscheidungen über
@@ -308,7 +274,7 @@ Klagen aufgrund des Bunkeröl-Übereinkommens, die gemäß dem Recht der
 Europäischen Union anerkannt und vollstreckt werden, nicht anzuwenden.
 
 
-### § 8 Strafvorschriften
+## § 8 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen Artikel VII Absatz 1 des Haftungsübereinkommens
@@ -328,16 +294,7 @@ sonstige finanzielle Sicherheit nicht aufrechterhält.
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
-## Zweiter Teil - 
-
-
-
-### § 9
-
--
-
-
-### § 9 Bußgeldvorschriften
+## § 9 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -346,13 +303,15 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     verweist,
 
 
-2.  entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Satz 3, nicht eine
-    dort genannte Bescheinigung an Bord gibt,
+2.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, oder
+    entgegen § 3 Absatz 1 Satz 2, auch in Verbindung mit Satz 5, nicht
+    sicherstellt, dass eine dort genannte Bescheinigung an Bord mitgeführt
+    wird,
 
 
-3.  entgegen § 3 Abs. 1 Satz 2, auch in Verbindung mit Satz 3, nicht eine
-    dort genannte Bescheinigung an Bord mitführt oder auf Verlangen
-    vorweist oder
+3.  entgegen § 3 Absatz 1 Satz 3, auch in Verbindung mit Satz 4 oder 5,
+    eine dort genannte Bescheinigung an Bord nicht mitführt oder nicht
+    oder nicht rechtzeitig vorweist oder
 
 
 4.  entgegen § 5 Absatz 2 in Verbindung mit einer Rechtsverordnung nach §
@@ -373,8 +332,8 @@ geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist
 
-1.  in den Fällen des Absatzes 1 Nummer 1 bis 3 das Bundesamt für
-    Seeschifffahrt und Hydrographie und
+1.  in den Fällen des Absatzes 1 Nummer 1 bis 3 und des Absatzes 2 das
+    Bundesamt für Seeschifffahrt und Hydrographie und
 
 
 2.  in den Fällen des Absatzes 1 Nummer 4 das Bundesamt für Wirtschaft und
@@ -384,31 +343,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 
-### § 10
+## § 10
 
 -
-
-
-## Dritter Teil - 
-
-
-
-### § 11
-
-(weggefallen)
-
-
-### § 12
-
-(weggefallen)
-
-
-### § 13
-
-(weggefallen)
-
-
-### § 14
-
-(weggefallen)
 

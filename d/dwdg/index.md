@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2871
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.7.2017 I 2642
-
-Änderung durch
-:   Art. 341 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 341 V v. 19.6.2020 I 1328
 
 
 ## 1. Abschnitt - Rechtsform, Aufsicht

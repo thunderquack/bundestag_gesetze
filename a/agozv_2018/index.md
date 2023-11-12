@@ -17,24 +17,24 @@ Fundstelle
 :   BGBl I: 2018, 1964
 
 Zuletzt geändert durch
-:   Art. 5 V v. 24.11.2020 I 2540
+:   Art. 4 V v. 13.10.2023 I Nr. 277
 
 [^f804748_01_BJNR196400018]:     Diese Verordnung dient der Umsetzung folgender Rechtsakte:
-    1\.                                    Richtlinie 93/49/EWG der
+    1\.                                        Richtlinie 93/49/EWG der
     Kommission vom 23. Juni 1993 zur Festlegung der Tabelle mit den
     Anforderungen an Vermehrungsmaterial und Pflanzen von
     Zierpflanzenarten gemäß der Richtlinie 91/682/EWG des Rates (ABl. L
     250 vom 7.10.1993, S. 9);
 
 
-    2\.                                    Richtlinie 93/61/EWG der
+    2\.                                        Richtlinie 93/61/EWG der
     Kommission vom 2. Juli 1993 zur Aufstellung der Tabelle mit den
     Anforderungen an Gemüsepflanzgut und Gemüsevermehrungsmaterial mit
     Ausnahme von Saatgut gemäß der Richtlinie 92/33/EWG des Rates (ABl. L
     250 vom 7.10.1993, S. 19);
 
 
-    3\.                                    Richtlinie 93/62/EWG der
+    3\.                                        Richtlinie 93/62/EWG der
     Kommission vom 5. Juli 1993 mit Durchführungsvorschriften für die
     Überwachung und Überprüfung von Versorgern und Einrichtungen gemäß der
     Richtlinie 92/33/EWG des Rates über das Inverkehrbringen von
@@ -42,31 +42,32 @@ Zuletzt geändert durch
     (ABl. L 250 vom 7.10.1993, S. 29);
 
 
-    4\.                                    Richtlinie 98/56/EG des Rates
-    vom 20. Juli 1998 über das Inverkehrbringen von Vermehrungsmaterial
-    von Zierpflanzen (ABl. L 226 vom 13.8.1998, S. 16);
+    4\.                                        Richtlinie 98/56/EG des
+    Rates vom 20. Juli 1998 über das Inverkehrbringen von
+    Vermehrungsmaterial von Zierpflanzen (ABl. L 226 vom 13.8.1998, S.
+    16);
 
 
-    5\.                                    Richtlinie 1999/68/EG der
+    5\.                                        Richtlinie 1999/68/EG der
     Kommission vom 28. Juni 1999 mit zusätzlichen
     Durchführungsbestimmungen für die von den Versorgern gemäß der
     Richtlinie 98/56/EG des Rates geführten Sortenlisten für Zierpflanzen
     (ABl. L 172 vom 8.7.1999, S. 42);
 
 
-    6\.                                    Richtlinie 2008/72/EG des Rates
-    vom 15. Juli 2008 über das Inverkehrbringen von Gemüsepflanzgut und
-    Gemüsevermehrungsmaterial mit Ausnahme von Saatgut (ABl. L 205 vom
+    6\.                                        Richtlinie 2008/72/EG des
+    Rates vom 15. Juli 2008 über das Inverkehrbringen von Gemüsepflanzgut
+    und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut (ABl. L 205 vom
     1\.8.2008, S. 28);
 
 
-    7\.                                    Richtlinie 2008/90/EG des Rates
-    vom 29. September 2008 über das Inverkehrbringen von
+    7\.                                        Richtlinie 2008/90/EG des
+    Rates vom 29. September 2008 über das Inverkehrbringen von
     Vermehrungsmaterial und Pflanzen von Obstarten zur Fruchterzeugung
     (ABl. L 267 vom 8.10.2008, S. 8);
 
 
-    8\.                                    Durchführungsrichtlinie
+    8\.                                        Durchführungsrichtlinie
     2014/96/EU der Kommission vom 15. Oktober 2014 in Bezug auf die
     Anforderungen an Etikettierung, Plombierung und Verpackung von
     Vermehrungsmaterial und Pflanzen von Obstarten zur Fruchterzeugung,
@@ -74,14 +75,14 @@ Zuletzt geändert durch
     298 vom 16.10.2014, S. 12);
 
 
-    9\.                                    Durchführungsrichtlinie
+    9\.                                        Durchführungsrichtlinie
     2014/97/EU der Kommission vom 15. Oktober 2014 zur Durchführung der
     Richtlinie 2008/90/EG des Rates hinsichtlich der Registrierung von
     Versorgern und der Eintragung von Sorten sowie des gemeinsamen
     Sortenverzeichnisses (ABl. L 298 vom 16.10.2014, S. 16);
 
 
-    10\.                                    Durchführungsrichtlinie
+    10\.                                        Durchführungsrichtlinie
     2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der
     Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen
     Anforderungen an die in deren Anhang I aufgeführten Gattungen und
@@ -90,11 +91,13 @@ Zuletzt geändert durch
     (ABl. L 298 vom 16.10.2014, S. 22);
 
 
-    11\.                                    Durchführungsrichtlinie (EU)
-    2018/484 der Kommission vom 21. März 2018 zur Änderung der Richtlinie
-    93/49/EWG hinsichtlich der Anforderungen an Vermehrungsmaterial
-    bestimmter Gattungen oder Arten von Palmae im Hinblick auf
-    Rhynchophorus ferrugineus (Olivier) (ABl. L 81 vom 23.3.2018, S. 10).
+    11\.                                        Durchführungsrichtlinie
+    (EU) 2018/484 der Kommission vom 21. März 2018 zur Änderung der
+    Richtlinie 93/49/EWG hinsichtlich der Anforderungen an
+    Vermehrungsmaterial bestimmter Gattungen oder Arten von Palmae im
+    Hinblick auf Rhynchophorus ferrugineus (Olivier) (ABl. L 81 vom
+    23\.3.2018, S. 10).
+
 
 
 
@@ -103,6 +106,15 @@ Parlaments und des Rates vom 9. September 2015 über ein
 Informationsverfahren auf dem Gebiet der technischen Vorschriften und
 der Vorschriften für Dienste der Informationsgesellschaft (ABl. L 241
 vom 17.9.2015, S. 1) sind beachtet worden.
+
+Diese Verordnung dient der Umsetzung der Durchführungsrichtlinie (EU)
+2022/2438 der Kommission vom 12. Dezember 2022 zur Änderung der
+Richtlinie 93/49/EWG und der Durchführungsrichtlinie 2014/98/EU
+hinsichtlich unionsgeregelter Nicht-Quarantäneschädlinge auf
+Vermehrungsmaterial von Zierpflanzen sowie Vermehrungsmaterial und
+Pflanzen von Obstarten zur Fruchterzeugung (ABl. L 319 vom 13.12.2022,
+S. 54).
+
 
 
 ## Eingangsformel
@@ -513,7 +525,16 @@ verhindern. Kontrollen hinsichtlich des Auftretens von Schadorganismen
 sind zumindest visuell durchzuführen. Bei Verdacht auf Befall mit
 einem Schadorganismus sind im Rahmen der innerbetrieblichen Kontrollen
 auch Proben für Untersuchungen in geeigneten Laboren zu entnehmen,
-soweit dies zur Klärung des Verdachtes erforderlich ist.
+soweit dies zur Klärung des Verdachtes erforderlich ist. In Gebieten,
+die nach den Anforderungen des Artikels 10 der Durchführungsrichtlinie
+2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der
+Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen
+Anforderungen an die in deren Anhang I aufgeführten Gattungen und
+Arten von Obstpflanzen, der spezifischen Anforderungen an die
+Versorger und ausführlicher Bestimmungen für die amtliche Prüfung
+(ABl. L 298 vom 16.10.2014, S. 22) in der jeweils geltenden Fassung
+von der zuständigen Behörde als befallsfrei für diesen RNQP eingestuft
+worden sind, sind keine Kontrollen auf diesen RNQP durchzuführen.
 
 (2a) Wer nach § 3 Absatz 1 registriert ist, hat
 
@@ -639,7 +660,7 @@ führen über
 9.  sonstige chemische Maßnahmen und
 
 
-10. die Ergebnisse der Kontrollen nach Absatz 1.
+10. die Ergebnisse der Kontrollen nach Absatz 2.
 
 
 
@@ -813,7 +834,7 @@ aufweisen, die seinen Gebrauchswert als Anbaumaterial herabsetzen.
 
 (7) Im Fall von Unterlagen, die keiner Sorte zugehören, muss das
 Standardmaterial von Obstpflanzen den Anforderungen der Absätze 2 bis
-4, 5 Nummer 1 und Absatz 6 entsprechen sowie artecht sein.
+4, 5 Nummer 1, 2 und 5 und Absatz 6 entsprechen sowie artecht sein.
 
 (8) Standardmaterial von Obstpflanzen kann durch Kryokonservierung
 erhalten werden.
@@ -1018,8 +1039,8 @@ Zwecken in den Verkehr gebracht werden.
 und nachhaltigen Nutzung pflanzengenetischer Ressourcen bestimmt sind,
 nicht mit Bezugnahme auf eine der Kategorien von Anbaumaterial zu
 gewerblichen Zwecken in den Verkehr gebracht werden. Es muss den
-Anforderungen nach § 6 Absatz 2 bis 4, 5 Nummer 1 bis 3 und Absatz 6
-dieser Verordnung sowie der dem Bundessortenamt vorgelegten
+Anforderungen nach § 6 Absatz 2 bis 4, 5 Nummer 1 bis 3, 5 und Absatz
+6 dieser Verordnung sowie der dem Bundessortenamt vorgelegten
 Beschreibung nach § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe b
 Doppelbuchstabe ff des Saatgutverkehrsgesetzes entsprechen.
 
@@ -1322,10 +1343,9 @@ ist.
 
 (3) Auf Antrag kann die zuständige Behörde Anbaumaterial als
 Zertifiziertes Material anerkennen, wenn es die Anforderungen nach
-Absatz 1 Satz 1 und § 8 Absatz 3 bis 9 erfüllt und es von einer
-Mutterpflanze für Zertifiziertes Material gewonnen worden ist, die
-entweder aus Vorstufenmaterial oder aus Basismaterial erzeugt worden
-ist.
+Absatz 1 Satz 1 und § 8 Absatz 3 bis 9 erfüllt und so gehalten wird,
+dass die jeweilige Identifikation des Anbaumaterials während des
+gesamten Erzeugungsprozesses gewährleistet ist.
 
 
 ### Unterabschnitt 3 - Kennzeichnung, Verschließung, Verpackung und Kontrolle
@@ -1680,7 +1700,7 @@ nicht erfüllt, gilt § 15 Absatz 8 entsprechend.
 
 (4) Bei der Durchführung der Untersuchungen und Versuche nach den
 Absätzen 1 und 2 wirkt das Julius Kühn-Institut,
-Bundesforschungsinstitut für Kulturpflanzen, nach § 59 Absatz 2 Nummer
+Bundesforschungsinstitut für Kulturpflanzen, nach § 57 Absatz 2 Nummer
 10 des Pflanzenschutzgesetzes in Abstimmung mit der zuständigen
 Behörde mit.
 
@@ -1800,15 +1820,15 @@ die Sorte in Verkehr gebracht werden soll.
 
 (3) Wird das Anbaumaterial von einem Pflanzengesundheitszeugnis
 begleitet, das die Anforderungen des Internationalen
-Pflanzenschutzübereinkommens erfüllt, können die Angaben nach Absatz 1
+Pflanzenschutzübereinkommens erfüllt, können die Angaben nach Absatz 2
 auf diesem eingetragen sein. Dabei kann die erforderliche Angabe nach
 Absatz 2 Satz 1 Nummer 7 in dem Feld „Unterscheidungsmerkmale“ und die
 Angabe nach Absatz 2 Satz 1 Nummer 8 sowie die Angabe nach Absatz 2
 Satz 1 Nummer 10 für anerkanntes Anbaumaterial in dem Feld
 „Zusätzliche Erklärung“ eingetragen werden.
 
-(4) Die Einfuhr von Anbaumaterial ist nur über die nach § 62 Nummer 1
-des Pflanzenschutzgesetzes im Bundesanzeiger bekannt gegebenen
+(4) Die Einfuhr von Anbaumaterial ist nur über die nach § 12 Satz 1
+des Pflanzengesundheitsgesetzes im Bundesanzeiger bekannt gegebenen
 Zollstellen zulässig. Anbaumaterial wird von der zuständigen Behörde
 an der Einlassstelle oder an einem anderen geeigneten Ort vor der
 zollamtlichen Abfertigung auf die Erfüllung der folgenden
@@ -1872,6 +1892,18 @@ hervorgehen:
 
 
 
+(6) Das Vereinigte Königreich Großbritannien und Nordirland ist im
+Hinblick auf Anbaumaterial von Gemüsepflanzen, Standardmaterial von
+Obstpflanzen und anerkanntem Material von Obstpflanzen kein Drittland
+im Sinne der vorstehenden Absätze, sondern gilt als den
+Mitgliedstaaten der Europäischen Union gleichgestellt nach dem
+Durchführungsbeschluss (EU) 2020/2219 der Kommission vom 22. Dezember
+2020 über die Gleichstellung von Gemüsepflanzgut und
+Gemüsevermehrungsmaterial mit Ausnahme von Saatgut sowie von
+Vermehrungsmaterial und Pflanzen von Obstarten zur Fruchterzeugung,
+die im Vereinigten Königreich erzeugt wurden (ABl. L 438 vom
+28\.12.2020, S. 66).
+
 
 ### § 19 Ausfuhr
 
@@ -1930,7 +1962,7 @@ Saatgutverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Absatz 4 eine Anzeige nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig erstattet.
@@ -1938,11 +1970,11 @@ vollständig oder nicht rechtzeitig erstattet.
 
 ### § 22 Übergangsvorschriften
 
-(1) Bis zum 31. Dezember 2022 darf Anbaumaterial von Obstarten,
-welches aus Mutterpflanzen zur Erzeugung anerkanntem Materials oder
-Standardmaterials hervorgegangen ist, welche die Anforderungen an die
-verschiedenen Kategorien erfüllt haben, in Deutschland in Verkehr
-gebracht werden, wenn
+Handelt es sich bei Anbaumaterial von Obstarten um Samen oder
+Sämlinge, die aus Mutterpflanzen zur Erzeugung anerkannten Materials
+oder Standardmaterials hervorgegangen sind, welche die Anforderungen
+an die jeweiligen Kategorien erfüllt haben, darf dieses Anbaumaterial
+bis zum Ablauf des 31. Dezember 2029 in Verkehr gebracht werden, wenn
 
 1.  das Anbaumaterial die Anforderungen der Anbaumaterialverordnung vom
     16\. Juni 1998 (BGBl. I S. 1322), die zuletzt durch Artikel 5 der
@@ -1950,33 +1982,22 @@ gebracht werden, wenn
     erfüllt,
 
 
-2.  die Mutterpflanzen schon vor dem Datum des Inkrafttretens dieser
-    Verordnung bestanden haben,
+2.  die Mutterpflanzen schon vor dem 1. Januar 2017 bestanden haben,
 
 
-3.  die Kennzeichnung, Verschließung und Verpackung die Anforderungen
-    gemäß § 14 erfüllen und
+3.  die Kennzeichnung, Verschließung und Verpackung die Anforderungen nach
+    § 14 erfüllen und
 
 
-4.  auf dem Etikett oder im vom Verfügungsberechtigten ausgestellten
-    Dokument angegeben wird, dass es sich um gemäß Artikel 32 der
-    Durchführungsrichtlinie 2014/98/EU der Kommission in Verkehr
-    gebrachtes Vermehrungsmaterial und Pflanzgut handelt.
-
-
-
-
-(2) Bis zum 30. Juni 2021 darf Standardmaterial auch dann in
-Deutschland in Verkehr gebracht werden, wenn zur Kennzeichnung
-abweichend von § 14 Absatz 5 Satz 4 kein gelbes Dokument als Etikett
-verwendet wird, sofern das Etikett
-
-1.  schon vor dem 1. April 2020 in Gebrauch war und
-
-
-2.  die Angabe enthält, dass es sich um Vermehrungsmaterial und Pflanzgut
-    handelt, das gemäß Artikel 3 der Durchführungsrichtlinie (EU)
-    2019/1813 der Kommission in Verkehr gebracht wird.
+4.  auf dem Etikett oder in dem vom Verfügungsberechtigten ausgestellten
+    Dokument angegeben wird, dass es sich um nach Artikel 32 der
+    Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014
+    zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der
+    spezifischen Anforderungen an die in deren Anhang I aufgeführten
+    Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen
+    an die Versorger und ausführlicher Bestimmungen für die amtliche
+    Prüfung (ABl. L 298 vom 16.10.2014, S. 22) in Verkehr gebrachtes
+    Vermehrungsmaterial und Pflanzgut handelt.
 
 
 
@@ -2000,7 +2021,7 @@ Der Bundesrat hat zugestimmt.
 (Fundstelle: BGBl. I 2018, 1976 - 1977;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-[^f804748_02_BJNR196400018BJNE002701119]
+[^f804748_02_BJNR196400018BJNE002702119]
 Pflanzenarten im Anwendungsbereich dieser Verordnung
 ##
 
@@ -2055,7 +2076,7 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
     *   Art
         Botanische Bezeichnung
 
-    *[^F814042_03_BJNR196400018BJNE002701119]
+    *[^F814042_03_BJNR196400018BJNE002702119]
    Gruppe nach ICNCP
         bzw. Sorte
 
@@ -2767,7 +2788,7 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
 
 *    *
     *
-        13. Prunus amygdalus Batsch
+        13. Prunus dulcis                            (Mill.) D.A. Webb
 
 
 
@@ -2880,7 +2901,7 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
 *_\_\__\_\__\_\__\_\__*
 
     Entsprechend Artenverzeichnis.
-[^f804748_02_BJNR196400018BJNE002701119]: [^F814042_03_BJNR196400018BJNE002701119]:     ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen
+[^f804748_02_BJNR196400018BJNE002702119]: [^F814042_03_BJNR196400018BJNE002702119]:     ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen
     (International Code of Nomenclature for Cultivated Plants).
 
 (zu § 6a Absatz 2 Nummer 3)
@@ -2920,39 +2941,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Schadorganismen sein.
 
 
-*    *
-    *
-    *   Vermehrungsmaterial, das einen Durchmesser von mehr als 5 cm an der
-        Basis des Stammes hat, muss frei von Anzeichen für einen Befall von
-        Rhynchophorus ferrugineus (Olivier) sein und
-
-        1.  während seiner gesamten Lebensdauer in einem Gebiet angebaut worden
-            sein, das von der zuständigen amtlichen Stelle gemäß den einschlägigen
-            internationalen Standards für pflanzengesundheitliche Maßnahmen als
-            frei von Rhynchophorus ferrugineus (Olivier) anerkannt worden ist,
-            oder
-
-
-        2.  24 Monate vor dem Datum seines Inverkehrbringens an einem
-            Erzeugungsort in der Union angebaut worden sein, der gegen die
-            Einschleppung von Rhynchophorus ferrugineus (Olivier) vollständig
-            physisch geschützt ist, oder an einem Erzeugungsort in der Union, an
-            dem geeignete präventive Behandlungen in Bezug auf diesen
-            Schadorganismus durchgeführt worden sind; das Material muss mindestens
-            alle vier Monate Sichtkontrollen unterzogen worden sein, die
-            bestätigen, dass es frei von Rhynchophorus ferrugineus (Olivier) ist.
-
-
-
-
-
 
 (zu § 10 Absatz 1)
 
 ### Anlage 3 Maximal zulässige Anzahl Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial
 
-(Fundstelle: BGBl. I 2018, 2004;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2023 I Nr. 277, S. 19)
 
 
 *    *
@@ -2980,7 +2974,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1
 
 
-*    *   Corylus avvelana                      L.
+*    *   Corylus avelana                      L.
 
     *   2
 
@@ -3001,7 +2995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2
 
 
-*    *   Fortunella Swingle
+*    *   Fortunella                      Swingle
 
     *   3
 
@@ -3035,41 +3029,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1
 
 
-*    *   P. domestica
-
-    *   3
-
-    *   2
-
-
-*    *   P. persica
-
-    *   3
-
-    *   2
-
-
-*    *   P. salicina
-
-    *   3
-
-    *   2
-
-
-*    *   P. armenica
-
-    *   3
-
-    *   2
-
-
-*    *   P. cerasus
-
-    *   3
-
-    *   2
-
-
 *    *   Poncirus                      Raf.
 
     *   3
@@ -3077,14 +3036,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1
 
 
-*    *   Prunus amygdalus
+*    *   Prunus armenica                      L.
 
     *   3
 
     *   2
 
 
-*    *   Prunus avium
+*    *   Prunus avium                      L.
+
+    *   3
+
+    *   2
+
+
+*    *   Prunus cerasus                      L.
+
+    *   3
+
+    *   2
+
+
+*    *   Prunus domestica                      L.
+
+    *   3
+
+    *   2
+
+
+*    *   Prunus dulcis                      (Mill.) D. A. Webb
+
+    *   3
+
+    *   2
+
+
+*    *   Prunus persica                      (L.) Batsch
+
+    *   3
+
+    *   2
+
+
+*    *   Prunus salicina                      Lindl.
 
     *   3
 
@@ -3102,7 +3096,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *[^f804748_05_BJNR196400018BJNE003301119]
+    *[^F827570_02_BJNR196400018BJNE003302119]
    3
 
 
@@ -3110,7 +3104,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *[^f804748_06_BJNR196400018BJNE003301119]
+    *[^F827570_03_BJNR196400018BJNE003302119]
    2
 
 
@@ -3122,14 +3116,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Bildet eine Unterlage einen Teil einer Mutterpflanze für
-Basismaterial, so ist diese Unterlage Basismaterial der ersten
-Generation.
-
 *_\_\__\_\__\_\__\_\__*
 
-    Mutterpflanzen von Ribes L. dürfen maximal sechs Jahre als
-    Mutterpflanze gehalten werden.
-[^f804748_05_BJNR196400018BJNE003301119]:     Mutterpflanzen von Rubus L. dürfen maximal vier Jahre als
-    Mutterpflanze gehalten werden.
-[^f804748_06_BJNR196400018BJNE003301119]: 
+[^F827570_02_BJNR196400018BJNE003302119]:     Mutterpflanzen von              Ribes              L. dürfen maximal
+    sechs Jahre als Mutterpflanze gehalten werden.
+[^F827570_03_BJNR196400018BJNE003302119]:     Mutterpflanzen von              Rubus              L. dürfen maximal
+    vier Jahre als Mutterpflanze gehalten werden.
+

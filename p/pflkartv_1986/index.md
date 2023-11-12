@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.11.2004 I 2918;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 24.11.2020 I 2540
-
-Änderung durch
-:   Art. 3 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 13.7.2022 I 1186
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -268,7 +265,8 @@ Feldgeneration des Ausgangspflanzgutes anzugeben und
 
 1.  im Antrag zu erklären, dass
 
-    a)  auf den vorgesehenen Vermehrungsflächen drei Jahre vor Antragstellung
+    a)  auf den vorgesehenen Vermehrungsflächen drei Jahre vor Antragstellung,
+        bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung,
         keine Kartoffeln angebaut worden sind;
 
 
@@ -278,7 +276,8 @@ Feldgeneration des Ausgangspflanzgutes anzugeben und
 
 
     c)  das verwendete Pflanzgut auf Flächen erwachsen ist, die in den letzten
-        drei Jahren nicht mit Kartoffeln bestellt waren;
+        drei Jahren, bei Anträgen ab dem 1. Januar 2028 in den letzten vier
+        Jahren, nicht mit Kartoffeln bestellt waren;
 
 
     d)  das verwendete Pflanzgut nicht von den in Anlage 2 Nr. 2.1 genannten
@@ -343,7 +342,8 @@ Feldgeneration des Ausgangspflanzgutes anzugeben und
 Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären,
 
 1.  dass auf den vorgesehenen Vermehrungsflächen zwei Jahre vor
-    Antragstellung keine Kartoffeln angebaut worden sind;
+    Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor
+    Antragstellung, keine Kartoffeln angebaut worden sind;
 
 
 2.  für die Erzeugung von Basispflanzgut
@@ -369,7 +369,8 @@ Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären,
 (5) Der Antragsteller hat bei Zertifiziertem Pflanzgut im Antrag die
 Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären, dass
 
-1.  auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung
+1.  auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung,
+    bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung,
     keine Kartoffeln angebaut worden sind;
 
 
@@ -391,6 +392,10 @@ Feldgeneration des Ausgangspflanzgutes anzugeben, unter der das
 Pflanzgut anerkannt worden ist; im Falle der Anerkennung im Ausland
 ist auch die Anerkennungsstelle anzugeben und dem Antrag ist eine
 Kopie des Etiketts oder das Originaletikett beizufügen.
+
+(8) Die Anerkennungsstelle kann Ausnahmen nach § 5 Absatz 3 Nummer 1
+Buchstabe a, Absatz 4 Nummer 1 und Absatz 5 Nummer 1 zulassen, sofern
+dadurch keine phytosanitären Beeinträchtigungen zu erwarten sind.
 
 
 ### § 6 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
@@ -438,13 +443,13 @@ dass
     erzeugt werden darf, auf fünf beschränkt wird;
 
 
-3.  in einem Vermehrungsbetrieb, der Vorstufenpflanzgut, Basispflanzgut
-    oder Basispflanzgut EWG erzeugt, beim Auftreten der in Anlage 1 Nr. 3
-    oder Anlage 2 Nr. 2.1 genannten Krankheiten die von der
-    Anerkennungsstelle zur Verbesserung der Pflanzgutqualität jeweils
-    festgesetzten zusätzlichen Anforderungen, insbesondere hinsichtlich
-    des Anbaus von Kartoffeln für andere Zwecke, für die Aufbereitung und
-    Lagerung der Pflanzkartoffeln oder hinsichtlich des überbetrieblichen
+3.  in einem Vermehrungsbetrieb, der Vorstufenpflanzgut oder
+    Basispflanzgut erzeugt, beim Auftreten der in Anlage 1 Nr. 3 oder
+    Anlage 2 Nr. 2.1 genannten Krankheiten die von der Anerkennungsstelle
+    zur Verbesserung der Pflanzgutqualität jeweils festgesetzten
+    zusätzlichen Anforderungen, insbesondere hinsichtlich des Anbaus von
+    Kartoffeln für andere Zwecke, für die Aufbereitung und Lagerung der
+    Pflanzkartoffeln oder hinsichtlich des überbetrieblichen
     Maschineneinsatzes, erfüllt sind.
 
 
@@ -1808,6 +1813,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.2.6
 
+    *   Potato spindle tuber viroid (PSTVd)
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+
+*    *   2.2.7
+
     *   Rhizoctonia Pusteln (Wurzeltöterkrankheit, verursacht durch
         Thanatephorus cucumeris                      (A.B. Frank) Donk),
         sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind
@@ -1821,7 +1839,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   5,0
 
 
-*    *   2.2.7
+*    *   2.2.8
 
     *   Pulverschorf (verursacht durch
         Spongospora subterranea                      (Wallr.) Lagerh.), sofern
@@ -1836,7 +1854,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3,0
 
 
-*    *   2.2.8
+*    *   2.2.9
 
     *   **Stark geschrumpelte Knollen**                      (ausgeprägter
         Turgeszenzverlust zum Zeitpunkt der Bonitur, u. a. verursacht durch
@@ -1851,7 +1869,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1,0
 
 
-*    *   2.2.9
+*    *   2.2.10
 
     *   **äußere Fehler**                      (z. B. missgestaltete oder
         beschädigte Knollen)
@@ -1865,9 +1883,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3,0
 
 
-*    *   2.2.10
+*    *   2.2.11
 
-    *   **Gesamttoleranz**                      für 2.2.1 bis 2.2.9
+    *   **Gesamttoleranz**                      für 2.2.1 bis 2.2.10
 
     *   0
 
@@ -1878,7 +1896,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   8,0
 
 
-*    *   2.2.11
+*    *   2.2.12
 
     *   Anhaftende **Erde**                      und Fremdstoffe
 
@@ -1891,7 +1909,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.7 aufgeführten Krankheiten
+Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.8 aufgeführten Krankheiten
 sind RNQPs.
 
 

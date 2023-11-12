@@ -19,43 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2020 I 3328
-
-Änderung durch
-:   Art. 2 G v. 4.5.2021 I 882 (Nr. 21) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 12.5.2021 I 1082 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 25.6.2021 I 2114 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 25.6.2021 I 2123 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 25.6.2021 I 2133 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 16.7.2021 I 2947 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 10.8.2021 I 3433 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 49 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 10.8.2021 I 3483 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 10.8.2021 I 3515 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 21.12.2021 I 5252 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 25.10.2023 I Nr. 294
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -215,16 +179,18 @@ unvereinbar ist.
 
 
 
-###### Art 7 - Rechtsfähigkeit und Geschäftsfähigkeit
+###### Art 7 - Rechts- und Geschäftsfähigkeit
 
-(1) Die Rechtsfähigkeit und die Geschäftsfähigkeit einer Person
-unterliegen dem Recht des Staates, dem die Person angehört. Dies gilt
-auch, soweit die Geschäftsfähigkeit durch Eheschließung erweitert
-wird.
-
-(2) Eine einmal erlangte Rechtsfähigkeit oder Geschäftsfähigkeit wird
-durch Erwerb oder Verlust der Rechtsstellung als Deutscher nicht
+(1) Die Rechtsfähigkeit einer Person unterliegt dem Recht des Staates,
+dem die Person angehört. Die einmal erlangte Rechtsfähigkeit wird
+durch Erwerb oder Verlust einer Staatsangehörigkeit nicht
 beeinträchtigt.
+
+(2) Die Geschäftsfähigkeit einer Person unterliegt dem Recht des
+Staates, in dem die Person ihren gewöhnlichen Aufenthalt hat. Dies
+gilt auch, soweit die Geschäftsfähigkeit durch Eheschließung erweitert
+wird. Die einmal erlangte Geschäftsfähigkeit wird durch einen Wechsel
+des gewöhnlichen Aufenthalts nicht beeinträchtigt.
 
 
 ###### Art 8 - Gewillkürte Stellvertretung
@@ -474,7 +440,12 @@ entspricht.
 
 
 
-###### Art 15 - (weggefallen)
+###### Art 15 - Gegenseitige Vertretung von Ehegatten
+
+In Angelegenheiten der Gesundheitssorge, die im Inland wahrgenommen
+werden, ist § 1358 des Bürgerlichen Gesetzbuchs auch dann anzuwenden,
+wenn nach anderen Vorschriften insoweit ausländisches Recht anwendbar
+wäre.
 
 
 ###### Art 16 - (weggefallen)
@@ -562,7 +533,8 @@ Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf
 die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten
 Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
 
-(2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend.
+(2) Artikel 10 Absatz 2 sowie die Artikel 15 und 17a gelten
+entsprechend.
 
 (3) Bestehen zwischen denselben Personen eingetragene
 Lebenspartnerschaften in verschiedenen Staaten, so ist die zuletzt
@@ -574,7 +546,7 @@ zumindest ein Ehegatte weder dem weiblichen noch dem männlichen
 Geschlecht an, so gelten die Absätze 1 bis 3 mit der Maßgabe
 entsprechend, dass sich das auf die Ehescheidung und auf die Trennung
 ohne Auflösung des Ehebandes anzuwendende Recht nach der Verordnung
-(EU) Nr. 1259/2010 richtet.Die güterrechtlichen Wirkungen unterliegen
+(EU) Nr. 1259/2010 richtet. Die güterrechtlichen Wirkungen unterliegen
 dem nach der Verordnung (EU) 2016/1103 anzuwendenden Recht.
 
 (5) Für die in Absatz 4 genannten Ehen gelten Artikel 13 Absatz 3,
@@ -655,22 +627,21 @@ deutsche Recht anzuwenden.
 
 ###### Art 24 - Vormundschaft, Betreuung und Pflegschaft
 
-(1) Die Entstehung, die Änderung und das Ende der Vormundschaft,
-Betreuung und Pflegschaft sowie der Inhalt der gesetzlichen
-Vormundschaft und Pflegschaft unterliegen dem Recht des Staates, dem
-der Mündel, Betreute oder Pflegling angehört. Für einen Angehörigen
-eines fremden Staates, der seinen gewöhnlichen Aufenthalt oder,
-mangels eines solchen, seinen Aufenthalt im Inland hat, kann ein
-Betreuer nach deutschem Recht bestellt werden.
+(1) Die Entstehung, die Ausübung, die Änderung und das Ende eines
+Fürsorgeverhältnisses (Vormundschaft, Betreuung, Pflegschaft), das
+kraft Gesetzes oder durch Rechtsgeschäft begründet wird, unterliegen
+dem Recht des Staates, in dem der Fürsorgebedürftige seinen
+gewöhnlichen Aufenthalt hat.
 
-(2) Ist eine Pflegschaft erforderlich, weil nicht feststeht, wer an
-einer Angelegenheit beteiligt ist, oder weil ein Beteiligter sich in
-einem anderen Staat befindet, so ist das Recht anzuwenden, das für die
-Angelegenheit maßgebend ist.
+(2) Maßnahmen, die im Inland in Bezug auf ein Fürsorgeverhältnis
+angeordnet werden, und die Ausübung dieses Fürsorgeverhältnisses
+unterliegen deutschem Recht. Besteht mit dem Recht eines anderen
+Staates eine wesentlich engere Verbindung als mit dem deutschen Recht,
+so kann jenes Recht angewendet werden.
 
-(3) Vorläufige Maßregeln sowie der Inhalt der Betreuung und der
-angeordneten Vormundschaft und Pflegschaft unterliegen dem Recht des
-anordnenden Staates.
+(3) Die Ausübung eines Fürsorgeverhältnisses aufgrund einer
+anzuerkennenden ausländischen Entscheidung richtet sich im Inland nach
+deutschem Recht.
 
 
 #### Vierter Abschnitt - Erbrecht
@@ -840,7 +811,19 @@ Recht des Herkunftsstaats. Das ist
     Heimathafens oder des Heimatorts,
 
 
-3.  bei Schienenfahrzeugen der Staat der Zulassung.
+3.  bei Schienenfahrzeugen
+
+    a)  der Staat der Zulassung,
+
+
+    b)  mangels Zulassung der Staat der Registrierung oder
+
+
+    c)  bei Registrierung in einem supranationalen Register der Staat, dem das
+        Schienenfahrzeug in diesem Register zugeordnet ist.
+
+
+
 
 
 
@@ -1949,9 +1932,9 @@ Versteigerungstermin stattfindet.
 #### Art 144 - 
 
 Die Landesgesetze können bestimmen, daß das Jugendamt die
-Beistandschaft mit Zustimmung des Elternteils auf einen rechtsfähigen
-Verein übertragen kann, dem dazu eine Erlaubnis nach § 54 des Achten
-Buches Sozialgesetzbuch erteilt worden ist.
+Beistandschaft mit Zustimmung des Elternteils auf einen nach § 54 des
+Achten Buches Sozialgesetzbuch anerkannten Vormundschaftsverein
+übertragen kann.
 
 
 #### Art 145 und 146 - (weggefallen)
@@ -4214,8 +4197,34 @@ sind die Vorschriften des Bürgerlichen Gesetzbuchs in der bis zu
 diesem Tag geltenden Fassung weiter anzuwenden.
 
 
-#### § 54 
+#### § 54 Übergangsvorschrift zum Gesetz zur Reform des Vormundschafts- und Betreuungsrechts
 
+(1) Eine bei Ablauf des 31. Dezember 2022 bestehende
+Geschäftsfähigkeit besteht fort.
+
+(2) Mit Inkrafttreten dieses Gesetzes am 1. Januar 2023 wird die
+Bestellung eines Gegenvormunds und eines Gegenbetreuers wirkungslos.
+
+(3) Ist am 1. Januar 2023 ein Betreuer zur Besorgung aller
+Angelegenheiten bestellt, ist der Aufgabenkreis bis zum 1. Januar 2024
+nach Maßgabe des § 1815 Absatz 1 des Bürgerlichen Gesetzbuchs zu
+ändern.
+
+(4) Auf Betreuungen, die am 1. Januar 2023 bestehen, findet § 1815
+Absatz 2 Nummer 1 bis 4 des Bürgerlichen Gesetzbuchs bis zum 1. Januar
+2028 keine Anwendung. Bei der nächsten Entscheidung über die Aufhebung
+oder Verlängerung der Betreuung oder im Rahmen eines gerichtlichen
+Genehmigungsverfahrens nach § 1831 Absatz 2 des Bürgerlichen
+Gesetzbuchs hat das Betreuungsgericht über den Aufgabenkreis nach
+Maßgabe des § 1815 Absatz 2 des Bürgerlichen Gesetzbuchs zu
+entscheiden.
+
+(5) Betreuer, die erstmals durch § 1859 Absatz 2 des Bürgerlichen
+Gesetzbuchs befreit sind, haben bis zum Ablauf des am 1. Januar 2023
+noch laufenden Betreuungsjahres Rechnung zu legen.
+
+(6) Auf vor dem 1. Januar 2023 abgeschlossene Vorgänge bleibt das
+bisherige Internationale Privatrecht anwendbar.
 
 
 #### § 55 Übergangsvorschrift zum Gesetz zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung
@@ -4295,6 +4304,15 @@ Gesetzbuchs in der bis einschließlich 31. Dezember 2021 geltenden
 Fassung anzuwenden.
 
 
+#### § 59 Allgemeine Überleitungsvorschrift zum Gesetz zur Vereinheitlichung des Stiftungsrechts
+
+Auf die vor dem 1. Juli 2023 bestehenden Stiftungen sind die §§ 82a
+bis 88 des Bürgerlichen Gesetzbuchs in der am 1. Juli 2023 geltenden
+Fassung anzuwenden. In § 87c Absatz 1 Satz 1 bis 3 des Bürgerlichen
+Gesetzbuchs tritt bei diesen Stiftungen an die Stelle der Satzung die
+Stiftungsverfassung.
+
+
 #### § 60 Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
 
 Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist,
@@ -4302,10 +4320,20 @@ sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen
 Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf
 ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist §
 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden
-Fassung anzuwenden.
-Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli
-2022 vorgesehenen Pflichten gelten auch im Hinblick auf
-Schuldverhältnisse, die vor diesem Tag entstanden sind.
+Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der
+Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im
+Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
+
+
+#### § 62 Übergangsvorschrift zum Mietspiegelreformgesetz
+
+Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des
+Bürgerlichen Gesetzbuchs in der ab dem 1. Juli 2022 geltenden Fassung
+eingeführten Pflicht erstmalig ein Mietspiegel zu erstellen ist, ist
+dieser bis spätestens 1. Januar 2023 zu erstellen und zu
+veröffentlichen. Wird für die Gemeinde in Erfüllung dieser
+Verpflichtung ein qualifizierter Mietspiegel erstellt, ist dieser bis
+spätestens 1. Januar 2024 zu erstellen und zu veröffentlichen.
 
 
 #### § 63 Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
@@ -4313,6 +4341,100 @@ Schuldverhältnisse, die vor diesem Tag entstanden sind.
 § 194 des Bürgerlichen Gesetzbuchs in der ab dem 30. Dezember 2021
 geltenden Fassung ist auf die an diesem Tag bestehenden noch nicht
 verjährten Ansprüche anzuwenden.
+
+
+#### § 64 Übergangsvorschrift zum Gesetz zur Abschaffung des Güterrechtsregisters
+
+(1) Abweichend von § 1412 des Bürgerlichen Gesetzbuchs können
+Ehegatten und Partner einer eingetragenen Lebenspartnerschaft auch aus
+Eintragungen im Güterrechtsregister Dritten gegenüber Einwendungen
+
+1.  gegen ein Rechtsgeschäft herleiten, das zwischen einem der Ehegatten
+    und dem Dritten vorgenommen worden ist, wenn das Geschäft vor dem 1.
+    Januar 2028 abgeschlossen oder die Rechtshandlung vorgenommen worden
+    ist, oder
+
+
+2.  gegen ein rechtskräftiges Urteil herleiten, das zwischen einem der
+    Ehegatten und dem Dritten ergangen ist, wenn der Rechtsstreit vor dem
+    1\. Januar 2028 rechtshängig geworden ist.
+
+
+
+
+(2) Haben die Ehegatten Gütergemeinschaft vereinbart und dies in das
+Güterrechtsregister eintragen lassen, kann jeder Ehegatte ab dem 1.
+Januar 2023 verlangen, dass die vertragliche Regelung wegen Wegfalls
+des Güterrechtsregisters nach den Grundsätzen des § 313 des
+Bürgerlichen Gesetzbuchs angepasst wird.
+
+(3) Wird eine bestehende Eintragung in dem Register in der Zeit vom 1.
+Januar 2023 bis 31. Dezember 2027 unrichtig oder verlegen beide
+Ehegatten in diesem Zeitraum ihren gewöhnlichen Aufenthalt in einen
+anderen Registerbezirk, so verliert die Eintragung ihre Wirkung. Eine
+nach Satz 1 unwirksame Eintragung ist auf Antrag eines Ehegatten zu
+löschen; die folgenden Vorschriften sind in der bis einschließlich 31.
+Dezember 2022 geltenden Fassung entsprechend anzuwenden:
+
+1.  die §§ 1558 und 1560 des Bürgerlichen Gesetzbuchs,
+
+
+2.  die auf der Grundlage des § 1558 Absatz 2 des Bürgerlichen Gesetzbuchs
+    erlassenen Rechtsverordnungen,
+
+
+3.  das Gesetz über das Verfahren in Familiensachen und in den
+    Angelegenheiten der freiwilligen Gerichtsbarkeit und
+
+
+4.  § 3 Nummer 1 Buchstabe e des Rechtspflegergesetzes.
+
+
+
+
+(4) Bis zum 31. Dezember 2037 ist jedem die Einsicht in das Register
+gestattet. Von den Eintragungen kann eine Abschrift angefordert
+werden. Die Abschrift ist auf Verlangen zu beglaubigen.
+
+(5) Nach dem 31. Dezember 2037 können aus der Registereintragung keine
+Rechte mehr hergeleitet werden.
+
+(6) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 des
+Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) werden
+durch Einsicht in das Register nach Absatz 4 gewährt. Das Gericht ist
+nicht verpflichtet, Personen, deren personenbezogene Daten im
+Güterrechtsregister oder in den Registerakten gespeichert sind, über
+die Offenlegung dieser Daten an Dritte Auskunft zu erteilen. Im
+Übrigen gilt § 79a Absatz 2 und 3 des Bürgerlichen Gesetzbuchs
+entsprechend.
+
+
+#### § 65 Überleitungsvorschrift zum Verbandsklagenrichtlinienumsetzungsgesetz
+
+Die Vorschriften über die Hemmung der Verjährung nach den §§ 204 und
+204a Absatz 1 Satz 1 Nummer 3 sowie Absatz 3 und 4 des Bürgerlichen
+Gesetzbuchs in der ab dem 13. Oktober 2023 geltenden Fassung sind auf
+die an diesem Tag bestehenden noch nicht verjährten Ansprüche
+anzuwenden. Für den Zeitraum vor dem 13. Oktober 2023 richtet sich die
+Hemmung der Verjährung für diese Ansprüche nach den bis zu diesem Tag
+geltenden Vorschriften des Bürgerlichen Gesetzbuchs. Die Vorschriften
+über die Hemmung der Verjährung nach § 204a Absatz 1 Satz 1 Nummer 1,
+2 und 4 und Satz 2 des Bürgerlichen Gesetzbuchs sind nur auf
+diejenigen Ansprüche von Verbrauchern anzuwenden, die aufgrund solcher
+Zuwiderhandlungen eines Unternehmers nach § 2 des
+Unterlassungsklagengesetzes oder nach § 8 Absatz 1 des Gesetzes gegen
+den unlauteren Wettbewerb entstanden sind, die nach dem Ablauf des 12.
+Oktober 2023 begangen wurden. Für Ansprüche, die aufgrund von
+Zuwiderhandlungen entstanden sind, die ein Unternehmer vor dem 25.
+Juni 2023 begangen hat, richtet sich die Hemmung der Verjährung
+unabhängig davon, wann die Ansprüche entstanden sind, nach den vor dem
+13\. Oktober 2023 geltenden Vorschriften. Die Sätze 2 und 3 gelten
+entsprechend für die Regelungen über die Hemmung der Verjährung nach §
+204a Absatz 2 des Bürgerlichen Gesetzbuchs.
 
 
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
@@ -5816,16 +5938,9 @@ Haben die Ehegatten die Erklärung nicht gemeinsam abgegeben, so hat
 das Kreisgericht sie dem anderen Ehegatten nach den für Zustellungen
 von Amts wegen geltenden Vorschriften der Zivilprozeßordnung
 bekanntzumachen. Für die Zustellung werden Auslagen nach § 137 Nr. 2
-der Kostenordnung nicht erhoben. Wird mit der Erklärung ein Antrag auf
-Eintragung in das Güterrechtsregister verbunden, so hat das
-Kreisgericht den Antrag mit der Erklärung an das Registergericht
-weiterzuleiten. Der aufgrund der Erklärung fortgeltende gesetzliche
-Güterstand ist, wenn einer der Ehegatten dies beantragt, in das
-Güterrechtsregister einzutragen. Wird der Antrag nur von einem der
-Ehegatten gestellt, so soll das Registergericht vor der Eintragung den
-anderen Ehegatten hören. Für das gerichtliche Verfahren gelten die
-Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
-den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+der Kostenordnung nicht erhoben. Für das gerichtliche Verfahren gelten
+die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
+in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 (4) In den Fällen des Absatzes 1 gilt für die Auseinandersetzung des
 bis zum Wirksamwerden des Beitritts erworbenen gemeinschaftlichen
@@ -5837,9 +5952,8 @@ worden sind, bleibt für die Auseinandersetzung des gemeinschaftlichen
 Eigentums und Vermögens und für die Entscheidung über die Ehewohnung
 das bisherige Recht maßgebend.
 
-(6) Für die Beurkundung der Erklärung nach Absatz 2 und der Anmeldung
-zum Güterrechtsregister sowie für die Eintragung in das
-Güterrechtsregister beträgt der Geschäftswert 3 000 Euro.
+(6) Für die Beurkundung der Erklärung nach Absatz 2 beträgt der
+Geschäftswert 3 000 Euro.
 
 
 #### § 4a Gemeinschaftliches Eigentum
@@ -5867,9 +5981,7 @@ Republik nach Maßgabe des § 4 anzuwenden.
 (3) Es wird widerleglich vermutet, daß gemeinschaftliches Eigentum von
 Ehegatten nach dem Familiengesetzbuch der Deutschen Demokratischen
 Republik Bruchteilseigentum zu ein halb Anteilen ist, sofern sich
-nicht aus dem Grundbuch andere Bruchteile ergeben oder aus dem
-Güterrechtsregister ergibt, daß eine Erklärung nach § 4 Abs. 2 und 3
-abgegeben oder Gütergemeinschaft vereinbart worden ist.
+nicht aus dem Grundbuch andere Bruchteile ergeben.
 
 
 #### § 5 Unterhalt des geschiedenen Ehegatten
@@ -6199,8 +6311,234 @@ oder zwischen ihnen abweichende Urteile ergangen sind.
 
 
 
-#### Art 238 - (weggefallen)
+#### Art 238 - Datenverarbeitung und Auskunftspflichten für qualifizierte Mietspiegel
 
+
+
+#### § 1 Erhebung und Übermittlung von Daten
+
+(1) Zur Erstellung eines qualifizierten Mietspiegels dürfen die nach
+Landesrecht zuständigen Behörden bezogen auf das Gebiet, für das der
+Mietspiegel erstellt werden soll, die bei der Verwaltung der
+Grundsteuer bekannt gewordenen Namen und Anschriften der
+Grundstückseigentümer von den für die Verwaltung der Grundsteuer
+zuständigen Behörden erheben und in sonstiger Weise verarbeiten.
+
+(2) Zur Erstellung eines qualifizierten Mietspiegels übermittelt die
+Meldebehörde der nach Landesrecht zuständigen Behörde bezogen auf das
+Gebiet, für das der Mietspiegel erstellt werden soll, auf Ersuchen die
+nachfolgenden Daten aller volljährigen Personen:
+
+1.  Familienname,
+
+
+2.  Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
+
+
+3.  derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde,
+
+
+4.  Einzugsdaten sowie
+
+
+5.  Namen und Anschriften der Wohnungsgeber.
+
+
+
+Das Ersuchen kann nur alle zwei Jahre gestellt werden. Die nach
+Landesrecht zuständigen Behörden dürfen die in Satz 1 genannten Daten
+in dem zur Erstellung eines qualifizierten Mietspiegels erforderlichen
+Umfang erheben und in sonstiger Weise verarbeiten.
+
+(3) Die in den Absätzen 1 und 2 Satz 1 genannten Daten dürfen auch von
+Stellen verarbeitet werden, die von der nach Landesrecht zuständigen
+Behörde damit beauftragt wurden, wenn die Datenverarbeitung auf der
+Grundlage einer Vereinbarung nach Artikel 28 Absatz 3 der Verordnung
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
+2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2) erfolgt.
+
+(4) Die nach Landesrecht zuständige Behörde und die in Absatz 3
+bezeichneten Stellen haben die nach den Absätzen 1 und 2 erhobenen
+Daten unverzüglich zu löschen, sobald sie für die Erstellung des
+qualifizierten Mietspiegels nicht mehr erforderlich sind, es sei denn,
+sie werden für eine Anpassung mittels Stichprobe nach § 558d Absatz 2
+Satz 2 des Bürgerlichen Gesetzbuchs benötigt. Die nach den Absätzen 1
+und 2 erhobenen Daten sind spätestens drei Jahre nach ihrer Erhebung
+zu löschen.
+
+(5) Zur Erstellung eines qualifizierten Mietspiegels dürfen die
+Statistikstellen der Gemeinden und der Gemeindeverbände, sofern sie
+das Statistikgeheimnis gewährleisten, von den Statistischen Ämtern des
+Bundes und der Länder folgende Daten aus der Gebäude- und
+Wohnungszählung des Zensus, bezogen auf das Gebiet, für das der
+Mietspiegel erstellt werden soll, erheben und in sonstiger Weise
+verarbeiten:
+
+1.  Erhebungsmerkmale für Gebäude mit Wohnraum und bewohnte Unterkünfte:
+
+    a)  Gemeinde, Postleitzahl und amtlicher Gemeindeschlüssel,
+
+
+    b)  Art des Gebäudes,
+
+
+    c)  Eigentumsverhältnisse,
+
+
+    d)  Gebäudetyp,
+
+
+    e)  Baujahr,
+
+
+    f)  Heizungsart und Energieträger,
+
+
+    g)  Zahl der Wohnungen,
+
+
+
+
+
+2.  Erhebungsmerkmale für Wohnungen:
+
+    a)  Art der Nutzung,
+
+
+    b)  Leerstandsdauer,
+
+
+    c)  Fläche der Wohnung,
+
+
+    d)  Zahl der Räume,
+
+
+    e)  Nettokaltmiete,
+
+
+
+
+
+3.  Hilfsmerkmale:
+
+    Straße und Hausnummer der Wohnung.
+
+
+
+Die Statistikstellen der Gemeinden und Gemeindeverbände haben die nach
+Satz 1 Nummer 3 erhobenen Hilfsmerkmale zum frühestmöglichen
+Zeitpunkt, spätestens jedoch zwei Jahre nach Erhebung, zu löschen.
+
+
+#### § 2 Auskunftspflichten
+
+(1) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner
+Anpassung mittels Stichprobe sind Eigentümer und Mieter von Wohnraum
+verpflichtet, der nach Landesrecht zuständigen Behörde auf Verlangen
+Auskunft zu erteilen darüber, ob der Wohnraum vermietet ist, sowie
+über die Anschrift der Wohnung.
+
+(2) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner
+Anpassung mittels Stichprobe sind Vermieter und Mieter von Wohnraum
+verpflichtet, der nach Landesrecht zuständigen Behörde auf Verlangen
+Auskunft über folgende Merkmale zu erteilen:
+
+1.  Erhebungsmerkmale:
+
+    a)  Beginn des Mietverhältnisses,
+
+
+    b)  Zeitpunkt und Art der letzten Mieterhöhung mit Ausnahme von Erhöhungen
+        nach § 560 des Bürgerlichen Gesetzbuchs,
+
+
+    c)  Festlegungen der Miethöhe durch Gesetz oder im Zusammenhang mit einer
+        Förderzusage,
+
+
+    d)  Art der Miete und Miethöhe,
+
+
+    e)  Art, Größe, Ausstattung, Beschaffenheit und Lage des vermieteten
+        Wohnraums einschließlich seiner energetischen Ausstattung und
+        Beschaffenheit (§ 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs),
+
+
+    f)  Vorliegen besonderer Umstände, die zu einer Ermäßigung der Miethöhe
+        geführt haben, insbesondere Verwandtschaft zwischen Vermieter und
+        Mieter, ein zwischen Vermieter und Mieter bestehendes
+        Beschäftigungsverhältnis oder die Übernahme besonderer Pflichten durch
+        den Mieter,
+
+
+
+
+
+2.  Hilfsmerkmale:
+
+    a)  Anschrift der Wohnung,
+
+
+    b)  Namen und Anschriften der Mieter und Vermieter.
+
+
+
+
+
+
+
+(3) Die Auskunftspflichten nach den Absätzen 1 und 2 bestehen auch
+gegenüber Stellen, die von der nach Landesrecht zuständigen Behörde
+mit der Erstellung oder Anpassung eines qualifizierten Mietspiegels
+nach § 1 Absatz 3 beauftragt wurden.
+
+
+#### § 3 Datenverarbeitung
+
+(1) Die nach Landesrecht zuständige Behörde darf die in § 2 Absatz 1
+und 2 genannten Merkmale in dem zur Erstellung oder Anpassung eines
+qualifizierten Mietspiegels erforderlichen Umfang erheben und in
+sonstiger Weise verarbeiten. Doppelerhebungen sind nur dann zulässig,
+wenn begründete Zweifel an der Richtigkeit einer Erhebung bestehen
+oder wenn dies zur stichprobenartigen Prüfung der Qualität der
+Erhebung erforderlich ist.
+
+(2) Die nach Landesrecht zuständige Behörde hat die Hilfsmerkmale des
+§ 2 Absatz 2 Nummer 2 von den weiteren erhobenen Merkmalen zum
+frühestmöglichen Zeitpunkt zu trennen und gesondert zu verarbeiten.
+Die Hilfsmerkmale sind zu löschen, sobald die Überprüfung der
+Erhebungs- und Hilfsmerkmale auf ihre Schlüssigkeit und
+Vollständigkeit abgeschlossen ist und sie auch für eine Anpassung des
+Mietspiegels nach § 558d Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs
+nicht mehr benötigt werden.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für Stellen, die von der
+nach Landesrecht zuständigen Behörde mit der Erstellung oder Anpassung
+eines qualifizierten Mietspiegels nach § 1 Absatz 3 beauftragt worden
+sind.
+
+(4) Die nach Landesrecht zuständige Behörde darf die nach Absatz 1
+erhobenen Daten zu wissenschaftlichen Forschungszwecken in
+anonymisierter Form an Hochschulen, an andere Einrichtungen, die
+wissenschaftliche Forschung betreiben, und an öffentliche Stellen
+übermitteln. Sie ist befugt, die Daten zu diesem Zweck zu
+anonymisieren.
+
+
+#### § 4 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
+2 Absatz 1 oder 2, jeweils auch in Verbindung mit Absatz 3, eine
+Auskunft nicht, nicht rechtzeitig, nicht richtig oder nicht
+vollständig erteilt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
+Euro geahndet werden.
 
 
 #### Art 239 - Länderöffnungsklausel
@@ -6214,358 +6552,33 @@ Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I
 S. 1042) nur vor einem Notar abzugeben ist.
 
 
-#### Art 240 - Vertragsrechtliche Regelungen aus Anlass der COVID-19-Pandemie
+#### Art 240 - (weggefallen)
 
 
 
-#### § 1 Moratorium
+#### § 1 (weggefallen)
 
-(1) Ein Verbraucher hat das Recht, Leistungen zur Erfüllung eines
-Anspruchs, der im Zusammenhang mit einem Verbrauchervertrag steht, der
-ein Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen
-wurde, bis zum 30. Juni 2020 zu verweigern, wenn dem Verbraucher
-infolge von Umständen, die auf die Ausbreitung der Infektionen mit dem
-SARS-CoV-2-Virus (COVID-19-Pandemie) zurückzuführen sind, die
-Erbringung der Leistung ohne Gefährdung seines angemessenen
-Lebensunterhalts oder des angemessenen Lebensunterhalts seiner
-unterhaltsberechtigten Angehörigen nicht möglich wäre. Das
-Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen
-Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind
-solche, die zur Eindeckung mit Leistungen der angemessenen
-Daseinsvorsorge erforderlich sind.
 
-(2) Ein Kleinstunternehmen im Sinne der Empfehlung 2003/361/EG der
-Kommission vom 6. Mai 2003 betreffend die Definition der
-Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L
-124 vom 20.5.2003, S. 36) hat das Recht, Leistungen zur Erfüllung
-eines Anspruchs, der im Zusammenhang mit einem Vertrag steht, der ein
-Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen wurde,
-bis zum 30. Juni 2020 zu verweigern, wenn infolge von Umständen, die
-auf die COVID-19-Pandemie zurückzuführen sind,
 
-1.  das Unternehmen die Leistung nicht erbringen kann oder
+#### § 2 (weggefallen)
 
 
-2.  dem Unternehmen die Erbringung der Leistung ohne Gefährdung der
-    wirtschaftlichen Grundlagen seines Erwerbsbetriebs nicht möglich wäre.
 
+#### § 3 (weggefallen)
 
 
-Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen
-Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind
-solche, die zur Eindeckung mit Leistungen zur angemessenen Fortsetzung
-seines Erwerbsbetriebs erforderlich sind.
 
-(3) Absatz 1 gilt nicht, wenn die Ausübung des
-Leistungsverweigerungsrechts für den Gläubiger seinerseits unzumutbar
-ist, da die Nichterbringung der Leistung die wirtschaftliche Grundlage
-seines Erwerbsbetriebs gefährden würde. Absatz 2 gilt nicht, wenn die
-Ausübung des Leistungsverweigerungsrechts für den Gläubiger unzumutbar
-ist, da die Nichterbringung der Leistung zu einer Gefährdung seines
-angemessenen Lebensunterhalts oder des angemessenen Lebensunterhalts
-seiner unterhaltsberechtigten Angehörigen oder der wirtschaftlichen
-Grundlagen seines Erwerbsbetriebs führen würde. Wenn das
-Leistungsverweigerungsrecht nach Satz 1 oder 2 ausgeschlossen ist,
-steht dem Schuldner das Recht zur Kündigung zu.
+#### § 4 (weggefallen)
 
-(4) Die Absätze 1 und 2 gelten ferner nicht im Zusammenhang
 
-1.  mit Miet- und Pachtverträgen nach § 2, mit Darlehensverträgen sowie
 
+#### § 5 (weggefallen)
 
-2.  mit arbeitsrechtlichen Ansprüchen.
 
+#### § 6 (weggefallen)
 
 
-
-(5) Von den Absätzen 1 und 2 kann nicht zum Nachteil des Schuldners
-abgewichen werden.
-
-
-#### § 2 Beschränkung der Kündigung von Miet- und Pachtverhältnissen
-
-(1) Der Vermieter kann ein Mietverhältnis über Grundstücke oder über
-Räume nicht allein aus dem Grund kündigen, dass der Mieter im Zeitraum
-vom 1. April 2020 bis 30. Juni 2020 trotz Fälligkeit die Miete nicht
-leistet, sofern die Nichtleistung auf den Auswirkungen der
-COVID-19-Pandemie beruht. Der Zusammenhang zwischen COVID-19-Pandemie
-und Nichtleistung ist glaubhaft zu machen. Sonstige Kündigungsrechte
-bleiben unberührt.
-
-(2) Von Absatz 1 kann nicht zum Nachteil des Mieters abgewichen
-werden.
-
-(3) Die Absätze 1 und 2 sind auf Pachtverhältnisse entsprechend
-anzuwenden.
-
-(4) Die Absätze 1 bis 3 sind nur bis zum 30. Juni 2022 anzuwenden.
-
-
-#### § 3 Regelungen zum Darlehensrecht
-
-(1) Für Verbraucherdarlehensverträge, die vor dem 15. März 2020
-abgeschlossen wurden, gilt, dass Ansprüche des Darlehensgebers auf
-Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April
-2020 und dem 30. Juni 2020 fällig werden, mit Eintritt der Fälligkeit
-für die Dauer von drei Monaten gestundet werden, wenn der Verbraucher
-aufgrund der durch Ausbreitung der COVID-19-Pandemie hervorgerufenen
-außergewöhnlichen Verhältnisse Einnahmeausfälle hat, die dazu führen,
-dass ihm die Erbringung der geschuldeten Leistung nicht zumutbar ist.
-Nicht zumutbar ist ihm die Erbringung der Leistung insbesondere dann,
-wenn sein angemessener Lebensunterhalt oder der angemessene
-Lebensunterhalt seiner Unterhaltsberechtigten gefährdet ist. Der
-Verbraucher ist berechtigt, in dem in Satz 1 genannten Zeitraum seine
-vertraglichen Zahlungen zu den ursprünglich vereinbarten
-Leistungsterminen weiter zu erbringen. Soweit er die Zahlungen
-vertragsgemäß weiter leistet, gilt die in Satz 1 geregelte Stundung
-als nicht erfolgt.
-
-(2) Die Vertragsparteien können von Absatz 1 abweichende
-Vereinbarungen, insbesondere über mögliche Teilleistungen, Zins- und
-Tilgungsanpassungen oder Umschuldungen treffen.
-
-(3) Kündigungen des Darlehensgebers wegen Zahlungsverzugs, wegen
-wesentlicher Verschlechterung der Vermögensverhältnisse des
-Verbrauchers oder der Werthaltigkeit einer für das Darlehen gestellten
-Sicherheit sind im Fall des Absatzes 1 bis zum Ablauf der Stundung
-ausgeschlossen. Hiervon darf nicht zu Lasten des Verbrauchers
-abgewichen werden.
-
-(4) Der Darlehensgeber soll dem Verbraucher ein Gespräch über die
-Möglichkeit einer einverständlichen Regelung und über mögliche
-Unterstützungsmaßnahmen anbieten. Für dieses können auch
-Fernkommunikationsmittel genutzt werden.
-
-(5) Kommt eine einverständliche Regelung für den Zeitraum nach dem 30.
-Juni 2020 nicht zustande, verlängert sich die Vertragslaufzeit um drei
-Monate. Die jeweilige Fälligkeit der vertraglichen Leistungen wird um
-diese Frist hinausgeschoben. Der Darlehensgeber stellt dem Verbraucher
-eine Abschrift des Vertrags zur Verfügung, in der die vereinbarten
-Vertragsänderungen oder die sich aus Satz 1 sowie aus Absatz 1 Satz 1
-ergebenden Vertragsänderungen berücksichtigt sind.
-
-(6) Die Absätze 1 bis 5 gelten nicht, wenn dem Darlehensgeber die
-Stundung oder der Ausschluss der Kündigung unter Berücksichtigung
-aller Umstände des Einzelfalls einschließlich der durch die COVID-19-
-Pandemie              verursachten Veränderungen der allgemeinen
-Lebensumstände unzumutbar ist.
-
-(7) Die Absätze 1 bis 6 gelten entsprechend für den Ausgleich und den
-Rückgriff unter Gesamtschuldnern nach § 426 des Bürgerlichen
-Gesetzbuchs.
-
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundestages und ohne Zustimmung des Bundesrates den
-personellen Anwendungsbereich der Absätze 1 bis 7 zu ändern und
-insbesondere Kleinstunternehmen im Sinne von Artikel 2 Absatz 3 des
-Anhangs der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003
-betreffend die Definition der Kleinstunternehmen sowie der kleinen und
-mittleren Unternehmen in den Anwendungsbereich einzubeziehen.
-
-
-#### § 4 Verordnungsermächtigung
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
-
-1.  die Dauer des Leistungsverweigerungsrechts nach § 1 bis längstens zum
-    30\. September 2020 zu verlängern,
-
-
-2.  die in § 2 Absatz 1 und 3 enthaltene Kündigungsbeschränkung auf
-    Zahlungsrückstände zu erstrecken, die im Zeitraum vom 1. Juli 2020 bis
-    längstens zum 30. September 2020 entstanden sind,
-
-
-3.  den in § 3 Absatz 1 genannten Zeitraum bis zum 30. September 2020 und
-    die in § 3 Absatz 5 geregelte Verlängerung der Vertragslaufzeit auf
-    bis zu zwölf Monate zu erstrecken,
-
-
-
-wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche
-Tätigkeit einer Vielzahl von Unternehmen oder die Erwerbstätigkeit
-einer Vielzahl von Menschen durch die COVID-19-Pandemie weiterhin in
-erheblichem Maße beeinträchtigt bleibt.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundestages und ohne Zustimmung des Bundesrates die in
-Absatz 1 genannten Fristen über den 30. September 2020 hinaus zu
-verlängern, wenn die Beeinträchtigungen auch nach Inkrafttreten der
-Rechtsverordnung nach Absatz 1 fortbestehen.
-
-
-#### § 5 Gutschein für Freizeitveranstaltungen und Freizeiteinrichtungen
-
-(1) Wenn eine Musik-, Kultur-, Sport- oder sonstige
-Freizeitveranstaltung aufgrund der COVID-19-Pandemie nicht stattfinden
-konnte oder kann, ist der Veranstalter berechtigt, dem Inhaber einer
-vor dem 8. März 2020 erworbenen Eintrittskarte oder sonstigen
-Teilnahmeberechtigung anstelle einer Erstattung des Eintrittspreises
-oder sonstigen Entgelts einen Gutschein zu übergeben. Umfasst eine
-solche Eintrittskarte oder sonstige Berechtigung die Teilnahme an
-mehreren Freizeitveranstaltungen und konnte oder kann nur ein Teil
-dieser Veranstaltungen stattfinden, ist der Veranstalter berechtigt,
-dem Inhaber einen Gutschein in Höhe des Wertes des nicht genutzten
-Teils zu übergeben.
-
-(2) Soweit eine Musik-, Kultur-, Sport- oder sonstige
-Freizeiteinrichtung aufgrund der COVID-19-Pandemie zu schließen war
-oder ist, ist der Betreiber berechtigt, dem Inhaber einer vor dem 8.
-März 2020 erworbenen Nutzungsberechtigung anstelle einer Erstattung
-des Entgelts einen Gutschein zu übergeben.
-
-(3) Der Wert des Gutscheins muss den gesamten Eintrittspreis oder das
-gesamte sonstige Entgelt einschließlich etwaiger Vorverkaufsgebühren
-umfassen. Für die Ausstellung und Übersendung des Gutscheins dürfen
-keine Kosten in Rechnung gestellt werden.
-
-(4) Aus dem Gutschein muss sich ergeben,
-
-1.  dass dieser wegen der COVID-19-Pandemie ausgestellt wurde und
-
-
-2.  dass der Inhaber des Gutscheins die Auszahlung des Wertes des
-    Gutscheins unter einer der in Absatz 5 genannten Voraussetzungen
-    verlangen kann.
-
-
-
-
-(5) Der Inhaber eines nach den Absätzen 1 oder 2 ausgestellten
-Gutscheins kann von dem Veranstalter oder Betreiber die Auszahlung des
-Wertes des Gutscheins verlangen, wenn
-
-1.  der Verweis auf einen Gutschein für ihn angesichts seiner persönlichen
-    Lebensumstände unzumutbar ist oder
-
-
-2.  er den Gutschein bis zum 31. Dezember 2021 nicht eingelöst hat.
-
-
-
-
-
-#### § 6 Reisegutschein; Verordnungsermächtigung
-
-(1) Tritt der Reisende oder der Reiseveranstalter wegen der
-COVID-19-Pandemie nach § 651h Absatz 1, 3 und 4 Satz 1 Nummer 2 des
-Bürgerlichen Gesetzbuchs von einem Pauschalreisevertrag zurück, der
-vor dem 8. März 2020 geschlossen wurde, so kann der Reiseveranstalter
-dem Reisenden statt der Rückerstattung des Reisepreises einen
-Reisegutschein anbieten. Diese Möglichkeit hat der Reiseveranstalter
-auch dann, wenn der Reisende oder der Reiseveranstalter den Rücktritt
-unter den Voraussetzungen des Satzes 1 vor dem Tag erklärt hat, an dem
-diese Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10.
-Juli 2020 (BGBl. I S. 1643) in Kraft getreten ist, und der
-Reiseveranstalter den Reisepreis nicht bereits zurückgezahlt hat. Der
-Reisende hat die Wahl, ob er das Angebot des Reiseveranstalters
-annimmt oder sein Recht auf Rückerstattung des Reisepreises ausübt.
-Auf dieses Wahlrecht hat der Reiseveranstalter ihn bei seinem Angebot
-hinzuweisen. Hat der Reisende schon vor dem Tag, an dem diese
-Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10. Juli
-2020 (BGBl. I S. 1643) in Kraft getreten ist, ein Angebot des
-Reiseveranstalters angenommen, das unter den Voraussetzungen des
-Satzes 1 unterbreitet wurde, so kann er von dem Reiseveranstalter
-verlangen, dass der Gutschein an die Vorgaben der Absätze 2 und 3
-angepasst oder in einen Gutschein umgetauscht wird, der den Vorgaben
-der Absätze 2 und 3 entspricht.
-
-(2) Der Wert des Reisegutscheins muss den erhaltenen Vorauszahlungen
-entsprechen. Für die Ausstellung, Übermittlung und Einlösung des
-Gutscheins dürfen dem Reisenden keine Kosten in Rechnung gestellt
-werden.
-
-(3) Aus dem Reisegutschein muss sich neben dessen Wert ergeben,
-
-1.  dass dieser wegen der COVID-19-Pandemie ausgestellt wurde,
-
-
-2.  wie lange er gültig ist,
-
-
-3.  dass der Reisende die Erstattung der geleisteten Vorauszahlungen unter
-    den in Absatz 5 genannten Voraussetzungen verlangen kann sowie
-
-
-4.  dass der Reisende im Fall der Insolvenz des Reiseveranstalters gemäß
-    Absatz 6 abgesichert ist und etwaige zusätzliche Leistungsversprechen
-    des Reiseveranstalters von der Insolvenzsicherung nicht umfasst sind.
-
-
-
-
-(4) Der Reisegutschein verliert spätestens am 31. Dezember 2021 seine
-Gültigkeit.
-
-(5) Der Reiseveranstalter hat dem Reisenden die geleisteten
-Vorauszahlungen unverzüglich, spätestens innerhalb von 14 Tagen, zu
-erstatten, wenn dieser den Gutschein innerhalb der Gültigkeitsdauer
-nicht eingelöst hat.
-
-(6) Wird der Reiseveranstalter zahlungsunfähig, wird über sein
-Vermögen das Insolvenzverfahren eröffnet oder wird ein
-Eröffnungsantrag mangels Masse abgewiesen, so kann der Reisende die
-unverzügliche Erstattung der geleisteten Vorauszahlungen von dem im
-Pauschalreisevertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3 genannten
-Kundengeldabsicherer verlangen; insoweit findet die Vorschrift des §
-651r des Bürgerlichen Gesetzbuchs Anwendung. Hat der
-Kundengeldabsicherer seine Haftung für die von ihm in einem
-Geschäftsjahr insgesamt zu erstattenden Beträge auf 110 Millionen Euro
-begrenzt und den Anspruch des Reisenden nach § 651r Absatz 3 Satz 4
-des Bürgerlichen Gesetzbuchs deshalb nur anteilig befriedigt, so kann
-der Reisende auf der Grundlage des Reisegutscheins von der
-Bundesrepublik Deutschland die restliche Erstattung der
-Vorauszahlungen verlangen. Der Reisende hat die Höhe der bereits
-erhaltenen Erstattungsleistung nachzuweisen. Soweit die Staatskasse
-den Reisenden befriedigt, gehen Ansprüche des Reisenden gegen den
-Reiseveranstalter und den Kundengeldabsicherer auf die Staatskasse
-über. Im Übrigen kann die Staatskasse die Erstattung davon abhängig
-machen, dass der Reisende Erstattungsansprüche gegen Dritte, die nicht
-von Satz 4 erfasst werden, an die Staatskasse abtritt.
-
-(7) Im Hinblick auf die ergänzende staatliche Absicherung des
-Gutscheins nach Absatz 6 Satz 2 kann die Bundesrepublik Deutschland
-von dem Reiseveranstalter eine Garantieprämie erheben.
-
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates Einzelheiten des Erstattungsverfahrens und
-der Erhebung der Garantieprämien zu regeln.
-
-(9) Zuständige Stelle für das Erstattungsverfahren nach Absatz 6 Satz
-2 bis 5 ist das Bundesministerium der Justiz und für
-Verbraucherschutz. Das Bundesministerium der Justiz und für
-Verbraucherschutz kann die Aufgabe dem Bundesamt für Justiz
-übertragen. Das Bundesministerium der Justiz und für Verbraucherschutz
-oder das Bundesamt für Justiz kann sich bei der Erfüllung seiner
-Aufgaben geeigneter Dritter bedienen. Der zuständigen Stelle für das
-Erstattungsverfahren wird zur Erfüllung der Aufgaben außerdem die
-Wahrnehmung des Zahlungsverkehrs als für Zahlungen zuständige Stelle
-gemäß § 70 der Bundeshaushaltsordnung übertragen. Falls die zuständige
-Stelle sich zur Erfüllung der Aufgaben eines Dritten bedient, kann sie
-auch die Wahrnehmung des Zahlungsverkehrs als eine für Zahlungen
-zuständige Stelle gemäß § 70 der Bundeshaushaltsordnung an den Dritten
-übertragen. Die notwendigen Bestimmungen der Bundeshaushaltsordnung
-und die dazu erlassenen Ausführungsbestimmungen sind insoweit
-entsprechend anzuwenden. Das Nähere wird im Einvernehmen mit dem
-Bundesministerium der Finanzen bestimmt.
-
-(10) Der Reiseveranstalter kann sich gegenüber dem Reisevermittler nur
-darauf berufen, dass der vermittelte Pauschalreisevertrag nicht mehr
-besteht, wenn er den Wert des Reisegutscheins auszuzahlen hat.
-
-
-#### § 7 Störung der Geschäftsgrundlage von Miet- und Pachtverträgen
-
-(1) Sind vermietete Grundstücke oder vermietete Räume, die keine
-Wohnräume sind, infolge staatlicher Maßnahmen zur Bekämpfung der
-COVID-19-Pandemie für den Betrieb des Mieters nicht oder nur mit
-erheblicher Einschränkung verwendbar, so wird vermutet, dass sich
-insofern ein Umstand im Sinne des § 313 Absatz 1 des Bürgerlichen
-Gesetzbuchs, der zur Grundlage des Mietvertrags geworden ist, nach
-Vertragsschluss schwerwiegend verändert hat.
-
-(2) Absatz 1 ist auf Pachtverträge entsprechend anzuwenden.
+#### § 7 (weggefallen)
 
 
 #### Art 241 - (weggefallen)
@@ -6709,9 +6722,9 @@ Verfügung zu stellen:
     des Unternehmers zum Umgang mit Beschwerden,
 
 
-5.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren und
-    gegebenenfalls das Bestehen und die Bedingungen von
-    Kundendienstleistungen und Garantien,
+5.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren
+    oder die digitalen Produkte sowie gegebenenfalls das Bestehen und die
+    Bedingungen von Kundendienstleistungen und Garantien,
 
 
 6.  gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
@@ -6719,14 +6732,15 @@ Verfügung zu stellen:
     Verträge,
 
 
-7.  gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich
-    anwendbarer technischer Schutzmaßnahmen für solche Inhalte, und
+7.  gegebenenfalls die Funktionalität der Waren mit digitalen Elementen
+    oder der digitalen Produkte, einschließlich anwendbarer technischer
+    Schutzmaßnahmen, und
 
 
-8.  gegebenenfalls, soweit wesentlich, Beschränkungen der
-    Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard-
-    und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind
-    oder bekannt sein müssen.
+8.  gegebenenfalls, soweit wesentlich, die Kompatibilität und die
+    Interoperabilität der Waren mit digitalen Elementen oder der digitalen
+    Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder
+    bekannt sein müssen.
 
 
 
@@ -6775,31 +6789,45 @@ Verfügung zu stellen:
     angemessenen Umfang,
 
 
-2.  seine Identität, beispielsweise seinen Handelsnamen sowie die
-    Anschrift des Ortes, an dem er niedergelassen ist, seine Telefonnummer
-    und gegebenenfalls seine Telefaxnummer und E-Mail-Adresse sowie
-    gegebenenfalls die Anschrift und die Identität des Unternehmers, in
+2.  seine Identität, beispielsweise seinen Handelsnamen, sowie die
+    Anschrift des Ortes, an dem er niedergelassen ist, sowie
+    gegebenenfalls die Identität und die Anschrift des Unternehmers, in
     dessen Auftrag er handelt,
 
 
-3.  zusätzlich zu den Angaben gemäß Nummer 2 die Geschäftsanschrift des
-    Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in
-    dessen Auftrag er handelt, an die sich der Verbraucher mit jeder
-    Beschwerde wenden kann, falls diese Anschrift von der Anschrift unter
-    Nummer 2 abweicht,
+3.  seine Telefonnummer, seine E-Mail-Adresse sowie gegebenenfalls andere
+    von ihm zur Verfügung gestellte Online-Kommunikationsmittel, sofern
+    diese gewährleisten, dass der Verbraucher seine Korrespondenz mit dem
+    Unternehmer, einschließlich deren Datums und deren Uhrzeit, auf einem
+    dauerhaften Datenträger speichern kann,
 
 
-4.  den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller
-    Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund
-    der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise
-    nicht im Voraus berechnet werden kann, die Art der Preisberechnung
-    sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder
-    Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen
-    diese Kosten vernünftigerweise nicht im Voraus berechnet werden
-    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+4.  zusätzlich zu den Angaben gemäß den Nummern 2 und 3 die
+    Geschäftsanschrift des Unternehmers und gegebenenfalls die Anschrift
+    des Unternehmers, in dessen Auftrag er handelt, an die sich der
+    Verbraucher mit jeder Beschwerde wenden kann, falls diese Anschrift
+    von der Anschrift nach Nummer 2 abweicht,
 
 
-5.  im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags
+5.  den Gesamtpreis der Waren oder der Dienstleistungen, einschließlich
+    aller Steuern und Abgaben, oder in den Fällen, in denen der Preis auf
+    Grund der Beschaffenheit der Waren oder der Dienstleistungen
+    vernünftigerweise nicht im Voraus berechnet werden kann, die Art der
+    Preisberechnung,
+
+
+6.  gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer
+    automatisierten Entscheidungsfindung personalisiert wurde,
+
+
+7.  gegebenenfalls alle zusätzlich zu dem Gesamtpreis nach Nummer 5
+    anfallenden Fracht-, Liefer- oder Versandkosten und alle sonstigen
+    Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise
+    nicht im Voraus berechnet werden können, die Tatsache, dass solche
+    zusätzlichen Kosten anfallen können,
+
+
+8.  im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags
     den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum
     anfallenden Gesamtkosten und, wenn für einen solchen Vertrag
     Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen
@@ -6807,26 +6835,27 @@ Verfügung zu stellen:
     berechnet werden können, ist die Art der Preisberechnung anzugeben,
 
 
-6.  die Kosten für den Einsatz des für den Vertragsabschluss genutzten
+9.  die Kosten für den Einsatz des für den Vertragsabschluss genutzten
     Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet
     werden, die über die Kosten für die bloße Nutzung des
     Fernkommunikationsmittels hinausgehen,
 
 
-7.  die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu
+10. die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu
     dem der Unternehmer die Waren liefern oder die Dienstleistung
     erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum
     Umgang mit Beschwerden,
 
 
-8.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren,
+11. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren
+    oder die digitalen Produkte,
 
 
-9.  gegebenenfalls das Bestehen und die Bedingungen von Kundendienst,
+12. gegebenenfalls das Bestehen und die Bedingungen von Kundendienst,
     Kundendienstleistungen und Garantien,
 
 
-10. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel
+13. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel
     2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments
     und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im
     binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und
@@ -6834,41 +6863,44 @@ Verfügung zu stellen:
     Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen
     Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des
     Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S.
-    22) und wie Exemplare davon erhalten werden können,
+    22; L 253 vom 25.9.2009, S. 18), die zuletzt durch die Richtlinie (EU)
+    2019/2161 (ABl. L 328 vom 18.12.2019, S. 7) geändert worden ist, und
+    wie Exemplare davon erhalten werden können,
 
 
-11. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
+14. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
     Kündigung unbefristeter Verträge oder sich automatisch verlängernder
     Verträge,
 
 
-12. gegebenenfalls die Mindestdauer der Verpflichtungen, die der
+15. gegebenenfalls die Mindestdauer der Verpflichtungen, die der
     Verbraucher mit dem Vertrag eingeht,
 
 
-13. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die
+16. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die
     Stellung einer Kaution oder die Leistung anderer finanzieller
     Sicherheiten verlangen kann, sowie deren Bedingungen,
 
 
-14. gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich
-    anwendbarer technischer Schutzmaßnahmen für solche Inhalte,
+17. gegebenenfalls die Funktionalität der Waren mit digitalen Elementen
+    oder der digitalen Produkte, einschließlich anwendbarer technischer
+    Schutzmaßnahmen,
 
 
-15. gegebenenfalls, soweit wesentlich, Beschränkungen der
-    Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard-
-    und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind
-    oder bekannt sein müssen, und
+18. gegebenenfalls, soweit wesentlich, die Kompatibilität und die
+    Interoperabilität der Waren mit digitalen Elementen oder der digitalen
+    Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder
+    bekannt sein müssen, und
 
 
-16. gegebenenfalls, dass der Verbraucher ein außergerichtliches
+19. gegebenenfalls, dass der Verbraucher ein außergerichtliches
     Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer
     unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
 
 
 
 Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung
-geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 und 3
+geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 bis 4
 die entsprechenden Angaben des Versteigerers zur Verfügung gestellt
 werden.
 
@@ -6889,14 +6921,15 @@ Verbraucher zu informieren
 
 
 3.  darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über
-    die Erbringung von Dienstleistungen oder über die nicht in einem
-    bestimmten Volumen oder in einer bestimmten Menge vereinbarte
-    Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme
-    einen angemessenen Betrag nach § 357 Absatz 8 des Bürgerlichen
-    Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn
-    der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung
-    des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor
-    Ablauf der Widerrufsfrist verlangt hat.
+    die Erbringung von Dienstleistungen, für die die Zahlung eines Preises
+    vorgesehen ist, oder über die nicht in einem bestimmten Volumen oder
+    in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom
+    oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357a
+    Absatz 2 des Bürgerlichen Gesetzbuchs für die vom Unternehmer
+    erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht
+    ausübt, nachdem er auf Aufforderung des Unternehmers von diesem
+    ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist
+    verlangt hat.
 
 
 
@@ -6930,7 +6963,7 @@ ausdrücklich die Dienste des Unternehmers angefordert, muss der
 Unternehmer dem Verbraucher lediglich folgende Informationen zur
 Verfügung stellen:
 
-1.  die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und
+1.  die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und 3 sowie
 
 
 2.  den Preis oder die Art der Preisberechnung zusammen mit einem
@@ -6985,7 +7018,9 @@ Verfügung zu stellen:
     im Voraus berechnet werden kann, die Art der Preisberechnung,
 
 
-4.  gegebenenfalls das Bestehen eines Widerrufsrechts und
+4.  gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die
+    Ausübung des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen
+    Gesetzbuchs und
 
 
 5.  gegebenenfalls die Vertragslaufzeit und die Bedingungen für die
@@ -7102,7 +7137,7 @@ Verfügung zu stellen:
     Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
     Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
     die Rechtsfolgen des Widerrufs einschließlich Informationen über den
-    Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des
+    Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des
     Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
 
 
@@ -7172,7 +7207,7 @@ Informationen zur Verfügung zu stellen:
     Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die
     Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des
     Widerrufs einschließlich Informationen über den Betrag, den der
-    Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen
+    Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen
     Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
 
 
@@ -7258,6 +7293,257 @@ den Kunden unterrichten
 
 
 
+
+
+#### Art 246d - Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+
+
+#### § 1 Informationspflichten
+
+Der Betreiber eines Online-Marktplatzes muss den Verbraucher
+informieren
+
+1.  zum Ranking der Waren, Dienstleistungen oder digitalen Inhalte, die
+    dem Verbraucher als Ergebnis seiner Suchanfrage auf dem Online-
+    Marktplatz präsentiert werden, allgemein über
+
+    a)  die Hauptparameter zur Festlegung des Rankings und
+
+
+    b)  die relative Gewichtung der Hauptparameter zur Festlegung des Rankings
+        im Vergleich zu anderen Parametern,
+
+
+
+
+
+2.  falls dem Verbraucher auf dem Online-Marktplatz das Ergebnis eines
+    Vergleichs von Waren, Dienstleistungen oder digitalen Inhalten
+    präsentiert wird, über die Anbieter, die bei der Erstellung des
+    Vergleichs einbezogen wurden,
+
+
+3.  gegebenenfalls darüber, dass es sich bei ihm und dem Anbieter der
+    Waren, Dienstleistungen oder digitalen Inhalte um verbundene
+    Unternehmen im Sinne von § 15 des Aktiengesetzes handelt,
+
+
+4.  darüber, ob es sich bei dem Anbieter der Waren, Dienstleistungen oder
+    digitalen Inhalte nach dessen eigener Erklärung gegenüber dem
+    Betreiber des Online-Marktplatzes um einen Unternehmer handelt,
+
+
+5.  falls es sich bei dem Anbieter der Waren, Dienstleistungen oder
+    digitalen Inhalte nach dessen eigener Erklärung gegenüber dem
+    Betreiber des Online-Marktplatzes nicht um einen Unternehmer handelt,
+    darüber, dass die besonderen Vorschriften für Verbraucherverträge auf
+    den Vertrag nicht anzuwenden sind,
+
+
+6.  gegebenenfalls darüber, in welchem Umfang der Anbieter der Waren,
+    Dienstleistungen oder digitalen Inhalte sich des Betreibers des
+    Online-Marktplatzes bei der Erfüllung von Verbindlichkeiten aus dem
+    Vertrag mit dem Verbraucher bedient, und darüber, dass dem Verbraucher
+    hierdurch keine eigenen vertraglichen Ansprüche gegenüber dem
+    Betreiber des Online-Marktplatzes entstehen, und
+
+
+7.  falls ein Anbieter eine Eintrittsberechtigung für eine Veranstaltung
+    weiterverkaufen will, ob und gegebenenfalls in welcher Höhe der
+    Veranstalter nach Angaben des Anbieters einen Preis für den Erwerb
+    dieser Eintrittsberechtigung festgelegt hat.
+
+
+
+
+
+#### § 2 Formale Anforderungen
+
+(1) Der Betreiber eines Online-Marktplatzes muss dem Verbraucher die
+Informationen nach § 1 vor Abgabe von dessen Vertragserklärung in
+klarer, verständlicher und in einer den benutzten
+Fernkommunikationsmitteln angepassten Weise zur Verfügung stellen.
+
+(2) Die Informationen nach § 1 Nummer 1 und 2 müssen dem Verbraucher
+in einem bestimmten Bereich der Online-Benutzeroberfläche zur
+Verfügung gestellt werden, der von der Webseite, auf der die Angebote
+angezeigt werden, unmittelbar und leicht zugänglich ist.
+
+
+#### Art 246e - Verbotene Verletzung von Verbraucherinteressen und Bußgeldvorschriften
+
+
+#### § 1 Verbotene Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen
+
+(1) Die Verletzung von Verbraucherinteressen im Zusammenhang mit
+Verbraucherverträgen, bei der es sich um einen weitverbreiteten
+Verstoß gemäß Artikel 3 Nummer 3 oder einen weitverbreiteten Verstoß
+mit Unions-Dimension gemäß Artikel 3 Nummer 4 der Verordnung (EU)
+2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember
+2017 über die Zusammenarbeit zwischen den für die Durchsetzung der
+Verbraucherschutzgesetze zuständigen nationalen Behörden und zur
+Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom
+27\.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771
+(ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, handelt, ist
+verboten.
+
+(2) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit
+Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
+
+1.  gegenüber dem Verbraucher ein nach § 241a Absatz 1 des Bürgerlichen
+    Gesetzbuchs nicht begründeter Anspruch geltend gemacht wird,
+
+
+2.  von einem Unternehmer in seinen Allgemeinen Geschäftsbedingungen eine
+    Bestimmung empfohlen oder verwendet wird,
+
+    a)  die nach § 309 des Bürgerlichen Gesetzbuchs unwirksam ist oder
+
+
+    b)  deren Empfehlung oder Verwendung gegenüber Verbrauchern dem
+        Unternehmer durch rechtskräftiges Urteil untersagt wurde,
+
+
+
+
+
+3.  eine Identität oder der geschäftliche Zweck eines Anrufs nicht nach §
+    312a Absatz 1 des Bürgerlichen Gesetzbuchs offengelegt wird,
+
+
+4.  der Verbraucher nicht nach § 312a Absatz 2 Satz 1 oder § 312d Absatz 1
+    des Bürgerlichen Gesetzbuchs informiert wird,
+
+
+5.  eine Vereinbarung nach § 312a Absatz 3 Satz 1, auch in Verbindung mit
+    Satz 2, des Bürgerlichen Gesetzbuchs nicht ausdrücklich getroffen
+    wird,
+
+
+6.  eine nach § 312a Absatz 4 Nummer 2 oder Absatz 5 Satz 1 des
+    Bürgerlichen Gesetzbuchs unwirksame Vereinbarung abgeschlossen wird,
+
+
+7.  von dem Verbraucher entgegen § 312e des Bürgerlichen Gesetzbuchs die
+    Erstattung der Kosten verlangt wird,
+
+
+8.  eine Abschrift oder eine Bestätigung des Vertrags nach § 312f Absatz 1
+    Satz 1, auch in Verbindung mit Satz 2, oder nach Absatz 2 Satz 1 des
+    Bürgerlichen Gesetzbuchs nicht zur Verfügung gestellt wird,
+
+
+9.  im elektronischen Geschäftsverkehr gegenüber Verbrauchern
+
+    a)  eine zusätzliche Angabe nicht nach den Vorgaben des § 312j Absatz 1
+        des Bürgerlichen Gesetzbuchs gemacht wird,
+
+
+    b)  eine Information nicht nach den Vorgaben des § 312j Absatz 2 des
+        Bürgerlichen Gesetzbuchs zur Verfügung gestellt wird oder
+
+
+    c)  die Bestellsituation nicht nach den Vorgaben des § 312j Absatz 3 des
+        Bürgerlichen Gesetzbuchs gestaltet wird,
+
+
+
+
+
+10. der Verbraucher nicht nach § 312l Absatz 1 des Bürgerlichen
+    Gesetzbuchs informiert wird,
+
+
+11. eine Sache bei einem Verbrauchsgüterkauf nicht innerhalb einer dem
+    Unternehmer nach § 323 Absatz 1 des Bürgerlichen Gesetzbuchs gesetzten
+    angemessenen Frist geliefert wird,
+
+
+12. nach einem wirksamen Widerruf des Vertrags durch den Verbraucher
+
+    a)  Inhalte entgegen § 327p Absatz 2 Satz 1 in Verbindung mit § 357 Absatz
+        8 des Bürgerlichen Gesetzbuchs genutzt werden,
+
+
+    b)  Inhalte nicht nach § 327p Absatz 3 Satz 1 in Verbindung mit § 357
+        Absatz 8 des Bürgerlichen Gesetzbuchs bereitgestellt werden,
+
+
+    c)  eine empfangene Leistung dem Verbraucher nicht nach § 355 Absatz 3
+        Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 des Bürgerlichen
+        Gesetzbuchs zurückgewährt wird oder
+
+
+    d)  Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene
+        Kosten abgeholt wird,
+
+
+
+
+
+13. im Falle eines Rücktritts des Verbrauchers von einem
+    Verbrauchsgüterkauf eine Leistung des Verbrauchers nicht nach § 346
+    Absatz 1 des Bürgerlichen Gesetzbuchs zurückgewährt wird,
+
+
+14. der Zugang eines Widerrufs nicht nach § 356 Absatz 1 Satz 2 des
+    Bürgerlichen Gesetzbuchs bestätigt wird oder
+
+
+15. eine Sache dem Verbraucher nicht innerhalb der nach § 433 Absatz 1
+    Satz 1 in Verbindung mit § 475 Absatz 1 Satz 1 und 2 des Bürgerlichen
+    Gesetzbuchs maßgeblichen Leistungszeit übergeben wird.
+
+
+
+
+(3) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit
+Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
+
+1.  eine Handlung oder Unterlassung die tatsächlichen Voraussetzungen
+    eines der in Absatz 2 geregelten Fälle erfüllt und
+
+
+2.  auf den Verbrauchervertrag das nationale Recht eines anderen
+    Mitgliedstaates der Europäischen Union anwendbar ist, welches eine
+    Vorschrift enthält, die der jeweiligen in Absatz 2 genannten
+    Vorschrift entspricht.
+
+
+
+
+
+#### § 2 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
+1 Absatz 1 Verbraucherinteressen im Zusammenhang mit
+Verbraucherverträgen nach § 1 Absatz 2 oder 3 verletzt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+fünfzigtausend Euro geahndet werden. Gegenüber einem Unternehmer, der
+in den von dem Verstoß betroffenen Mitgliedstaaten der Europäischen
+Union in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr
+mehr als eine Million zweihundertfünfzigtausend Euro Jahresumsatz
+erzielt hat, kann eine höhere Geldbuße verhängt werden; diese darf 4
+Prozent des Jahresumsatzes nicht übersteigen. Die Höhe des
+Jahresumsatzes kann geschätzt werden. Liegen keine Anhaltspunkte für
+eine Schätzung des Jahresumsatzes vor, beträgt das Höchstmaß der
+Geldbuße zwei Millionen Euro. Abweichend von den Sätzen 2 bis 4 gilt
+gegenüber einem Täter oder einem Beteiligten, der im Sinne des § 9 des
+Gesetzes über Ordnungswidrigkeiten für einen Unternehmer handelt, und
+gegenüber einem Beteiligten im Sinne von § 14 Absatz 1 Satz 2 des
+Gesetzes über Ordnungswidrigkeiten, der kein Unternehmer ist, der
+Bußgeldrahmen des Satzes 1. Das für die Ordnungswidrigkeit angedrohte
+Höchstmaß der Geldbuße im Sinne von § 30 Absatz 2 Satz 2 des Gesetzes
+über Ordnungswidrigkeiten ist das nach den Sätzen 1 bis 4 anwendbare
+Höchstmaß.
+
+(3) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten
+Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
+geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
 
 
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
@@ -7409,7 +7695,7 @@ enthalten:
 (2) Gesamtbetrag ist die Summe aus Nettodarlehensbetrag und
 Gesamtkosten. Nettodarlehensbetrag ist der Höchstbetrag, auf den der
 Darlehensnehmer aufgrund des Darlehensvertrags Anspruch hat. Die
-Gesamtkosten und der effektive Jahreszins sind nach § 6 der
+Gesamtkosten und der effektive Jahreszins sind nach § 16 der
 Preisangabenverordnung zu berechnen.
 
 (3) Der Gesamtbetrag und der effektive Jahreszins sind anhand eines
@@ -8926,7 +9212,7 @@ machen. Sie muss Folgendes enthalten:
 
 
 5.  einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz
-    nach § 357d des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr
+    nach § 357e des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr
     der bis zum Widerruf erbrachten Leistung ihrer Natur nach
     ausgeschlossen ist.
 
@@ -9451,7 +9737,8 @@ dieser Frist eine erste Antwort.
 
 ### Anlage 1 Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
-(Fundstelle: BGBl. I 2013, S. 3663 – 3664)
+(Fundstelle: BGBl. I 2013, S. 3663 – 3664;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsbelehrung**
@@ -9470,7 +9757,7 @@ dieser Frist eine erste Antwort.
 
 *    *   Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (*
           ) mittels einer eindeutigen Erklärung (z. B. ein mit der Post
-        versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen
+        versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen
         Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte
         Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben
         ist.*
@@ -9544,8 +9831,8 @@ dieser Frist eine erste Antwort.
 
 
 
-*   Fügen Sie Ihren Namen, Ihre Anschrift und, soweit verfügbar, Ihre
-    Telefonnummer, Telefaxnummer und E-Mail-Adresse ein.
+*   Fügen Sie Ihren Namen, Ihre Anschrift, Ihre Telefonnummer und Ihre
+    E-Mail-Adresse ein.
 
 
 *   Wenn Sie dem Verbraucher die Wahl einräumen, die Information über
@@ -9607,7 +9894,7 @@ dieser Frist eine erste Antwort.
         –   Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen
             Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post
             zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses
-            zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die
+            zur Wohnung des Verbrauchers gebracht worden sind: „Wir holen die
             Waren auf unsere Kosten ab.“ und
 
 
@@ -9643,7 +9930,8 @@ dieser Frist eine erste Antwort.
 
 ### Anlage 2 Muster für das Widerrufsformular
 
-(Fundstelle: BGBl. I 2013, S. 3665)
+(Fundstelle: BGBl. I 2013, S. 3665;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Muster-Widerrufsformular**
@@ -9654,9 +9942,8 @@ dieser Frist eine erste Antwort.
 
 
 *    *
-        –   An [hier ist der Name, die Anschrift und gegebenenfalls die
-            Telefaxnummer und E-Mail-Adresse des Unternehmers durch den
-            Unternehmer einzufügen]:
+        –   An [hier ist der Name, die Anschrift und die E-Mail-Adresse des
+            Unternehmers durch den Unternehmer einzufügen]:
 
 
         –   Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen
@@ -9690,7 +9977,8 @@ dieser Frist eine erste Antwort.
 
 ### Anlage 3 (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
 
-(Fundstelle: BGBl. I 2021, 1670 - 1671)
+(Fundstelle: BGBl. I 2021, 1670 - 1672;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsbelehrung**
@@ -9832,7 +10120,7 @@ dieser Frist eine erste Antwort.
         die Rechtsfolgen des Widerrufs einschließlich Informationen über den
         Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
         Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357a des
+        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
         Bürgerlichen Gesetzbuchs);
 
 
@@ -10132,7 +10420,8 @@ dieser Frist eine erste Antwort.
 
 ### Anlage 3a Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Zahlungsdiensterahmenverträgen
 
-(Fundstelle: BGBl. I 2021, 1673 - 1677)
+(Fundstelle: BGBl. I 2021, 1673 - 1677;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsbelehrung**
@@ -10177,7 +10466,7 @@ dieser Frist eine erste Antwort.
         die Rechtsfolgen des Widerrufs einschließlich Informationen über den
         Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
         Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357a des
+        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
         Bürgerlichen Gesetzbuchs);
 
 
@@ -10877,7 +11166,8 @@ dieser Frist eine erste Antwort.
 
 ### Anlage 3b Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Einzelzahlungsverträgen
 
-(Fundstelle: BGBl. I 2021, 1678 - 1681)
+(Fundstelle: BGBl. I 2021, 1678 - 1681;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsbelehrung**
@@ -10921,7 +11211,7 @@ dieser Frist eine erste Antwort.
         die Rechtsfolgen des Widerrufs einschließlich Informationen über den
         Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
         Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357a des
+        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
         Bürgerlichen Gesetzbuchs);
 
 
@@ -12756,7 +13046,7 @@ Kreditvermittler, so erteilt dieser die folgenden Informationen:
     Warnhinweis enthalten, dass der effektive Jahreszins auf der Grundlage
     des Sollzinssatzes für den Anfangszeitraum berechnet worden ist. Der
     Warnhinweis ist durch ein zusätzliches anschauliches Beispiel für den
-    gemäß § 6 Absatz 2 bis 6 und 8 der Preisangabenverordnung errechneten
+    gemäß § 16 Absatz 2 bis 6 und 8 der Preisangabenverordnung errechneten
     effektiven Jahreszins zu ergänzen. Bei mehrteiligen Krediten (z. B.
     zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind
     die entsprechenden Informationen für jeden einzelnen Teil des Kredits
@@ -12787,7 +13077,7 @@ Kreditvermittler, so erteilt dieser die folgenden Informationen:
     sofern ein Kreditvertrag unterschiedliche Verfahren der
     Inanspruchnahme mit jeweils unterschiedlichen Gebühren oder
     Sollzinssätzen vorsieht und der Kreditgeber die Annahmen nach der
-    Anlage zu § 6 der Preisangabenverordnung zugrunde legt, so weist er
+    Anlage zu § 16 der Preisangabenverordnung zugrunde legt, so weist er
     darauf hin, dass andere Mechanismen der Inanspruchnahme bei dieser Art
     des Kreditvertrags zu einem höheren effektiven Jahreszins führen
     können. Falls die Bedingungen für die Inanspruchnahme in die
@@ -13299,7 +13589,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 7 Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2021, 1682 - 1686)
+(Fundstelle: BGBl. I 2021, 1682 - 1686;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsinformation**
@@ -13898,7 +14189,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 *    *   *
 
     *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
-        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den
         Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, so
         ist hier Folgendes einzufügen:
 
@@ -13993,7 +14284,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
         Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
         zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
         geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
-        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind,
         ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
         abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
         zurückgesandt werden können.“
@@ -14188,7 +14479,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 8 Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2016, S. 433 - 435)
+(Fundstelle: BGBl. I 2016, S. 433 - 435;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsinformation**
@@ -14405,7 +14697,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 *    *   *
 
     *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
-        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den
         Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten,
         ist hier Folgendes einzufügen:
 
@@ -14500,7 +14792,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
         Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
         zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
         geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
-        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind,
         ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
         abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
         zurückgesandt werden können.“
@@ -14694,7 +14986,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 9 Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
 
-(Fundstelle: BGBl. I 2016, S. 436 - 438)
+(Fundstelle: BGBl. I 2016, S. 436 - 438;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Widerrufsbelehrung**
@@ -14871,7 +15164,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 *    *   *
 
     *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
-        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den
         Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten,
         ist hier Folgendes einzufügen:
 
@@ -14949,7 +15242,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
         Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
         zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
         geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
-        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind,
         ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
         abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
         zurückgesandt werden können.“
@@ -15204,7 +15497,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 11 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2409 — 2410)
+(Fundstelle: BGBl. I 2017, 2409 — 2410;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Bei der Ihnen angebotenen Kombination von Reiseleistungen handelt es
@@ -15414,7 +15708,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 12 Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2411 — 2412)
+(Fundstelle: BGBl. I 2017, 2411 — 2412;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Auf den Ihnen angebotenen Vertrag finden die Vorschriften des
@@ -15626,7 +15921,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 13 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
 
-(Fundstelle: BGBl. I 2017, 2413 — 2414)
+(Fundstelle: BGBl. I 2017, 2413 — 2414;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Wenn Sie innerhalb von 24 Stunden ab Eingang der Buchungsbestätigung
@@ -15822,7 +16118,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 14 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2415)
+(Fundstelle: BGBl. I 2017, 2415;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über*
@@ -15939,7 +16236,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 15 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2416)
+(Fundstelle: BGBl. I 2017, 2416;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen
@@ -16052,7 +16350,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 16 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2417 — 2418)
+(Fundstelle: BGBl. I 2017, 2417 — 2418;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über*
@@ -16212,7 +16511,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 17 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
-(Fundstelle: BGBl. I 2017, 2419)
+(Fundstelle: BGBl. I 2017, 2419;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen
@@ -16335,7 +16635,8 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 ### Anlage 18 Muster für den Sicherungsschein
 
-(Fundstelle: BGBl. I 2021, 2121)
+(Fundstelle: BGBl. I 2021, 2121;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (gegebenenfalls einsetzen Sicherungsscheinnummer)

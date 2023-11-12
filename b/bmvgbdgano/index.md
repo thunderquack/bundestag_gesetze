@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1596
 
 Zuletzt geändert durch
-:   Art. 1 AnO v. 17.9.2017 I 3430
-
-Änderung durch
-:   Art. 1 AnO v. 1.9.2021 I 4190 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 AnO v. 7.10.2022 I 1833
 
 
 ## Eingangsformel
@@ -59,8 +56,15 @@ jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
 
 
-2.  der Befehlshaberin oder dem Befehlshaber des Einsatzführungskommandos
-    der Bundeswehr,
+2.  der Befehlshaberin oder dem Befehlshaber
+
+    a)  des Einsatzführungskommandos der Bundeswehr,
+
+
+    b)  des Territorialen Führungskommandos der Bundeswehr,
+
+
+
 
 
 3.  den Präsidentinnen oder Präsidenten

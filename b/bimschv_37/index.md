@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1195
 
-Änderung durch
-:   Art. 20 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 20 G v. 21.12.2020 I 3138
 
 [^F798474_01_BJNR119500017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
     Rates vom 20. April 2015 zur Festlegung von Berechnungsverfahren und

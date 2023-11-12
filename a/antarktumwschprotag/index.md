@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2593
 
 Zuletzt geändert durch
-:   Art. 122 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 16 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 10.8.2021 I 3436
 
 Stand: § 5 Abs. 7 und § 6 Abs. 5 dieses G sind gem. § 42 Abs. 1 Satz 1 am 1.10.1994 in Kraft getreten\*. Im übrigen ist das G gem. § 42 Abs. 1 Satz 2 iVm Bek. v. 10.2.1998 II 299 mWv 14.1.1998 in Kraft getreten\*.
 

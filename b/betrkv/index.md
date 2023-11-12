@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2346, 2347
 
-Geändert durch
-:   Art. 4 G v. 3.5.2012 I 958
-
-Änderung durch
-:   Art. 15 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 G v. 16.10.2023 I Nr. 280
 
 
 

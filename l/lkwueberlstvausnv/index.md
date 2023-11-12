@@ -17,7 +17,7 @@ Fundstelle
 :   eBAnz: 2011, AT144 V2
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.11.2020 BAnz AT 13.11.2020 V1
+:   Art. 1 V v. 11.10.2023 I Nr. 276
 
 [^f614410_01_BJNR614410011]:     Diese Verordnung macht Gebrauch von der Richtlinie 96/53/EG vom 25.
     Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für
@@ -175,15 +175,27 @@ Einrichtungen ausgerüstet sind:
     Notbremsassistenzsystem,
 
 
-10. Einrichtungen für indirekte Sicht nach der Richtlinie 2003/97/EG des
-    Europäischen Parlaments und des Rates vom 10. November 2003 zur
-    Angleichung der Rechtsvorschriften der Mitgliedstaaten für die
-    Typgenehmigung von Einrichtungen für indirekte Sicht und von mit
-    solchen Einrichtungen ausgestatteten Fahrzeugen sowie zur Änderung der
-    Richtlinie 70/156/ EWG und zur Aufhebung der Richtlinie 71/127/EWG
-    (ABl. L 25 vom 29.1.2004, S. 1), die zuletzt durch die Richtlinie
-    2006/96/EG vom 20. November 2006 (ABl. L 363 vom 20.11.2006, S. 81)
-    geändert worden ist,
+10. Einrichtungen für indirekte Sicht
+
+    a)  nach der Richtlinie 2003/97/EG des Europäischen Parlaments und des
+        Rates vom 10. November 2003 zur Angleichung der Rechtsvorschriften der
+        Mitgliedstaaten für die Typgenehmigung von Einrichtungen für indirekte
+        Sicht und von mit solchen Einrichtungen ausgestatteten Fahrzeugen
+        sowie zur Änderung der Richtlinie 70/156/EWG und zur Aufhebung der
+        Richtlinie 71/127/EWG (ABl. L 25 vom 29.1.2004, S. 1), die zuletzt
+        durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L 363 vom
+        20\.11.2006, S. 81) geändert worden ist, in der bis zum Ablauf des 31.
+        Oktober 2014 geltenden Fassung oder
+
+
+    b)  nach der Regelung Nr. 46 der Wirtschaftskommission der Vereinten
+        Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die
+        Genehmigung von Einrichtungen für indirekte Sicht und von
+        Kraftfahrzeugen hinsichtlich der Anbringung solcher Einrichtungen
+        (ABl. L 177 vom 10.7.2010, S. 211),
+
+
+
 
 
 11. Fahrzeuge und Fahrzeugkombinationen nach § 3 Satz 1 Nummer 2 bis 5:
@@ -222,13 +234,31 @@ Einrichtungen ausgerüstet sind:
 
 
 
-15. Abbiegeassistenzsysteme gemäß den Empfehlungen zu technischen
-    Anforderungen an Abbiegeassistenzsysteme für die Aus- und Nachrüstung
-    an Nutzfahrzeugen mit einer zulässigen Gesamtmasse*
-    3,5 Tonnen und Kraftomnibussen mit mehr als 9 Sitzplätzen
-    einschließlich Fahrerplatz zur Erteilung einer Allgemeinen
-    Betriebserlaubnis für Abbiegeassistenzsysteme vom 19. September 2018
-    (VkBl. 09/2018, S. 719).
+15. Abbiegeassistenzsysteme
+
+    a)  nach den Empfehlungen zu technischen Anforderungen an
+        Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen
+        mit einer zulässigen Gesamtmasse*                          3,5 Tonnen
+        und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich
+        Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für
+        Abbiegeassistenzsysteme vom 19. September 2018 (VkBl. S. 719),
+
+
+    b)  nach den Empfehlungen zu technischen Anforderungen an
+        Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen
+        mit einer zulässigen Gesamtmasse*                          3,5 Tonnen
+        und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich
+        Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für
+        Abbiegeassistenzsysteme vom 4. April 2022 (VkBl. S. 239) oder
+
+
+    c)  nach der UN-Regelung Nr. 151 – Einheitliche Bedingungen für die
+        Genehmigung von Kraftfahrzeugen hinsichtlich des Totwinkel-Assistenten
+        zur Erkennung von Fahrrädern [2020/1596] (ABl. L 360 vom 30.10.2020,
+        S. 48).
+
+
+
 
 
 
@@ -389,34 +419,34 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 ## Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BAnz AT 13.11.2020 V1)
+(Fundstelle: BGBl. 2023 I Nr. 276, S. 2 - 81)
 
 
 *    *   Autobahn
 
-    *   Streckenbeschreibung
-        jeweils in beiden Fahrtrichtungen
+    *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   A 1
 
-    *[^F812806_1_BJNR614410011BJNE001509119]
+    *[^f825743_01_BJNR614410011BJNE001510119]
    von Autobahnanfang Heiligenhafen-Ost bis AS
-[^F812806_2_BJNR614410011BJNE001509119]
+[^f825743_02_BJNR614410011BJNE001510119]
         Blankenheim und von AS Kelberg bis AK
         Saarbrücken
 
 
 *    *   A 2
 
-    *[^F812806_3_BJNR614410011BJNE001509119]
+    *[^f825743_03_BJNR614410011BJNE001510119]
    von AK Oberhausen bis AD
         Werder (A 10)
 
 
 *    *   A 3
 
-    *[^F812806_4_BJNR614410011BJNE001509119]
+    *[^f825743_04_BJNR614410011BJNE001510119]
    von BG
         Niederlande/Deutschland bis BG Deutschland/Österreich
 
@@ -429,20 +459,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 5
 
-    *[^F812806_5_BJNR614410011BJNE001509119]
-   von A 7 (Hattenbacher Dreieck) bis LG
-        Hessen/Baden-Württemberg
-
-
-*    *   A 5
-
-    *   von AS 45 Karlsruhe-Mitte bis AS 49 Rastatt-Nord
+    *   von A 7 (Hattenbacher Dreieck) bis BG Deutschland/Schweiz
 
 
 *    *   A 6
 
-    *   von BG Frankreich/Deutschland bis Viernheimer Kreuz und von LG Baden-
-        Württemberg/Bayern bis BG Deutschland/Tschechische Republik
+    *   von BG Frankreich/Deutschland bis BG Deutschland/Tschechische Republik
 
 
 *    *   A 7
@@ -465,13 +487,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   A 10
 
     *   von AD Kreuz Oranienburg (B 96) über AD Havelland, AD Werder, AD
-        Potsdam und AD Nuthetal über Schönefelder Kreuz (A 13) und AD Spreeau
-        (A 10) bis AD Barnim (A 11)
+        Potsdam und AD Nuthetal über Schönefelder Kreuz (A 13), AD Spreeau (A
+        12) und AD Barnim (A 11) bis AD Kreuz Oranienburg (B 96)
 
 
 *    *   A 11
 
-    *   von AD Barnim (A 10) bis AD Kreuz Uckermark (A 20)
+    *   von AD Barnim (A 10) bis BG Deutschland/Polen
+
+
+*    *   A 12
+
+    *   von AD Spreeau bis BG Deutschland/Polen
 
 
 *    *   A 13
@@ -481,23 +508,29 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 14
 
-    *   von B 105 (Hornstorf) bis LG Mecklenburg-Vorpommern/Brandenburg und
-        von AK Magdeburg bis AD Nossen
+    *[^f825743_05_BJNR614410011BJNE001510119]
+   von B 105 (Hornstorf) bis LG
+        Mecklenburg-Vorpommern/Brandenburg und von AK Magdeburg bis AD Nossen
+
+
+*    *   A 15
+
+    *   von AD Spreewald bis BG Deutschland/Polen
 
 
 *    *   A 17
 
-    *   von AD Dresden-West bis AS Pirna
+    *   von AD Dresden-West bis BG Deutschland/Tschechien
 
 
 *    *   A 19
 
-    *   von AS Rostock-Nord bis AD Wittstock/Dosse (A 24)
+    *   von AS Rostock-Überseehafen bis AD Wittstock/Dosse (A 24)
 
 
 *    *   A 20
 
-    *   von AS Weede bis AD Kreuz Uckermark (A 11)
+    *   von AS Weede bis AD Kreuz Uckermark (A 11)
 
 
 *    *   A 21
@@ -507,7 +540,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 23
 
-    *   von AD Hamburg-Nordwest bis AS Heide-West inkl. notwendigen Kreuzen
+    *   von AD Hamburg-Nordwest bis AS Heide-West inkl. notwendigem Kreuzen
         der B 4 (Stadtstraße Holsteiner Chaussee) bei Fahrten von A 23 zu A 7,
         Fahrtrichtung Norden
 
@@ -558,6 +591,11 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von AS Osnabrück-Schinkel bis AK Wünneberg-Haaren
 
 
+*    *   A 36
+
+    *   von AK Braunschweig-Süd bis AD Bernburg
+
+
 *    *   A 37
 
     *   von AS Beinhorn bis AS Hannover-Misburg
@@ -565,8 +603,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 38
 
-    *   von AS Heringen (Thüringen) bis A 7 (AD Drammetal [Niedersachsen]) und
-        von AS Leipzig-Südwest bis AD Parthenaue
+    *   von AD Drammetal bis AD Parthenaue
 
 
 *    *   A 39
@@ -595,8 +632,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von BG Belgien/Deutschland bis AS Mönchengladbach-Odenkirchen, von AS
         Mönchengladbach-Ost bis Kreuz Ratingen-Ost, von AS Heiligenhaus-
         Hetterscheidt bis Essen-Heisingen, von Anschluss B 1 (vor AK
-        Dortmund/Unna) bis LG Nordrhein-Westfalen/Hessen und von LG
-        Hessen/Nordrhein-Westfalen bis AD Kassel-Süd (A 7)
+        Dortmund/Unna) bis AD Kassel-Süd (A 7)
 
 
 *    *   A 45
@@ -637,15 +673,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 59
 
-    *   von AS Dinslaken-West bis zum Anschluss B 8n (bei km 25,1 nahe AK
+    *   von AS Dinslaken-West bis Anschluss B 8n (bei km 25,1 nahe AK
         Duisburg-Süd), von AK Düsseldorf-Süd bis Anschluss L 108 (bei km 20,5
-        nahe AK Leverkusen-West) und AD Köln-Heumar bis AK Bonn-Ost
+        nahe AK Leverkusen-West) und von AD Köln-Heumar bis AK Bonn-Ost
 
 
 *    *   A 60
 
-    *   von Rüsselsheimer Dreieck (A 67) bis AD Nahetal und von B 50 (neu) bis
-        BG Deutschland/Belgien
+    *   von Rüsselsheimer Dreieck (A 67) bis AD Nahetal und von B 50 (54516
+        Wittlich) bis BG Deutschland/Belgien
 
 
 *    *   A 61
@@ -656,7 +692,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 62
 
-    *   von AD Nonnweiler bis Übergang A 8 (bei Pirmasens)
+    *   von AD Nonnweiler bis Übergang A 8 (bei 66954 Pirmasens)
 
 
 *    *   A 63
@@ -666,7 +702,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 65
 
-    *   von Übergang B 9 (bei Mutterstadt) bis AS Wörther Kreuz (B 9/B 10)
+    *   von Übergang B 9 (bei 67112 Mutterstadt) bis AS Wörther Kreuz (B 9/B
+        10)
 
 
 *    *   A 66
@@ -704,7 +741,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 81
 
-    *   von AD Würzburg-West bis AS 29 Rottenburg
+    *   von AD Würzburg-West bis AS Gottmadingen
 
 
 *    *   A 92
@@ -731,6 +768,11 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   A 96
 
     *   von BG Österreich/Deutschland bis AS München-Sendling
+
+
+*    *   A 98
+
+    *   von AD Weil am Rhein bis AD Hochrhein
 
 
 *    *   A 99
@@ -776,7 +818,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 281
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   A 293
@@ -797,11 +839,6 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   A 392
 
     *   von AS Watenbüttel-Ost bis AS Braunschweig-Hamburger Straße
-
-
-*    *   A 36
-
-    *   von AK Braunschweig-Süd (A 39) bis AD Nordharz (A 369)
 
 
 *    *   A 445
@@ -888,22 +925,24 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   A 565
 
     *   von AD Bonn-Nordost bis AK Meckenheim und von LG Nordrhein-
-        Westfalen/Rheinland-Pfalz bis Übergang zu B 257
+        Westfalen/Rheinland-Pfalz bis Übergang B 257 (53501 Grafschaft-
+        Gelsdorf)
 
 
 *    *   A 571
 
-    *   von AD Sinzig bis Übergang B 266
+    *   von AD Sinzig bis Übergang B 266 (53474 Bad Neuenahr-Ahrweiler)
 
 
 *    *   A 573
 
-    *   von AD Bad-Neuenahr-Ahrweiler bis Übergang zu B 266
+    *   von AD Bad Neuenahr-Ahrweiler bis Übergang B 266 (53474 Bad Neuenahr-
+        Ahrweiler)
 
 
 *    *   A 602
 
-    *   von AD Moseltal bis Übergang B 49
+    *   von AD Moseltal bis Übergang B 49 (54292 Trier)
 
 
 *    *   A 620
@@ -944,7 +983,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   A 672
 
-    *   von Dreieck Darmstadt/Griesheim (A 67) bis Anschluss B 26
+    *   von Dreieck Darmstadt/Griesheim (A 67) bis Anschluss B 26
 
 
 *    *   A 952
@@ -964,11 +1003,11 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-*    *[^F812806_6_BJNR614410011BJNE001509119]
+*    *[^f825743_06_BJNR614410011BJNE001510119]
    Bundesstraße
 
-    *   Streckenbeschreibung
-        jeweils in beiden Fahrtrichtungen
+    *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   B 2
@@ -982,23 +1021,30 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Coburg)
 
 
+*    *   B 4
+
+    *   von A 73 (AS Neustadt b. Coburg) über B 4 bis LG Bayern/Thüringen
+
+
 *    *   B 5
 
-    *   von Ausfahrt L 20 (Land Brandenburg) bis Abzweig B 273 und von A 14
-        (AS Grabow) bis L 07, 19288 Kummer, und von B 191 bis L 072 (19288
+    *   von Ausfahrt L 20 (Land Brandenburg) bis Abzweig B 273, von A 14 (AS
+        Grabow) bis L 07, 19288 Kummer und von B 191 bis L 072 (19288
         Ludwigslust)
 
 
-*    *   B 5 (Bergedorfer Straße)
+*    *   B5 (Bergedorfer Straße)
 
     *   von AS Hamburg-Billstedt-Markt bis AS Hamburg-Billstedt
 
 
 *    *   B 8
 
-    *[^F812806_7_BJNR614410011BJNE001509119]
+    *[^f825743_07_BJNR614410011BJNE001510119]
    von LG Nordrhein-Westfalen/Rheinland-Pfalz bis B 256, von Einmündung
-        Wahlrod, Hubertusstraße bis B 413 (Höchstenbach) und von A 3 (AS
+        Hubertusstraße, 57614 Wahlrod bis B 413 (57629 Höchstenbach) von AS
+        Maintal-Bischofsheim (A 66) bis Anschluss A 661 (Ratswegkreisel-
+        Ratsweg Richtung Bad Homburg), 60314 Frankfurt am Main, von A 3 (AS
         Aschaffenburg-West) bis Stadtgrenze Aschaffenburg (Ausfahrt
         Strietwald) und von Langenzenn (St 2252) bis Fürth (FÜs
         2/Ortsgrenze Fürth)
@@ -1006,17 +1052,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 9
 
-    *   von A 65 AS Wörther Kreuz bis A 61 AS Speyer, von Ausfahrt Bobenheim-
-        Roxheim K 1 bis L 523 (Ludwigshafen), von L 425 (Worms-Rheindürkheim)
-        bis B 47 (Worms), von B 327 (Koblenz) bis A 48 AS Koblenz Nord und von
-        Sinzig, Ausfahrt Koblenzer Straße/Trifterweg bis Ausfahrt B 266
+    *   von A 65 AS Wörther Kreuz bis A 61 AS Speyer, von Ausfahrt K 1 (67240
+        Bobenheim-Roxheim) bis L 523 (67063 Ludwigshafen), von L 425 (67550
+        Worms-Rheindürkheim) bis B 47 (67547 Worms), von B 327 (56075 Koblenz)
+        bis A 48 AS Koblenz Nord und von 53498 Sinzig, Ausfahrt Koblenzer
+        Straße/Trifterweg bis Ausfahrt B 266 (53498 Sinzig)
 
 
 *    *   B 10
 
     *   von LG Baden-Württemberg/Bayern (Ulm/Neu-Ulm) bis AS Neu-Ulm-Mitte (B
-        28/St 2021), von A 65 (AS Landau Nord) bis L 474 bei Petersberg und
-        von A 65 Wörther Kreuz bis LG Rheinland-Pfalz/Baden-Württemberg
+        28/St 2021), von A 62 (AS Pirmasens) bis A 65 (AS Landau Nord) und von
+        A 65 Wörther Kreuz bis LG Rheinland-Pfalz/Baden-Württemberg
 
 
 *    *   B 12
@@ -1036,11 +1083,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *   B 16
+
+    *   von A9 (AS Manching) bis Kreuz B 2/B 16 (Anschluss an B 2 aus bzw.
+        zurück in Fahrtrichtung Neuburg an der Donau) und weiter bis AS
+        Gewerbegebiet Riedlingen (Südspange)
+
+
+*    *   B 16
         B 2
         B 25
 
-    *   von AS Augsburgerstraße (St 2035)/B 16 bei Neuburg a. d. Donau auf die
-        B 16, Lechbrücke (B 16), B 2, B 25, Nördlinger Straße, bis Nördlinger
+    *   von AS Augsburgerstraße (St 2035)/B 16 bei Neuburg a. d. Donau auf B
+        16, Lechbrücke (B 16), B 2, B 25, Nördlinger Straße, bis Nördlinger
         Straße 24, 86609 Donauwörth
 
 
@@ -1051,7 +1105,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 19
 
-    *[^F812806_8_BJNR614410011BJNE001509119]
+    *[^f825743_08_BJNR614410011BJNE001510119]
    Nördlich Sonthofen (B 308/OA
         5) bis A 980 (AS Waltenhofen)
 
@@ -1060,6 +1114,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 92, AS 22 (Landau a. d. Isar) südlich auf B 20, bis Abfahrt auf
         Industriestraße, weiter bis Industriestraße 8, 84326 Falkenberg
+
+
+*    *   B 27
+
+    *   von B 80 bis Anschluss L 3464 (bei Werleshausen), von AS Fulda-Nord (A
+        7) bis Anschluss L 3079 (Leipziger Straße, 36037 Fulda) und von
+        Anschluss B 254 bis AS Fulda Süd (A 66)
 
 
 *    *   B 28
@@ -1080,26 +1141,29 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 39
 
-    *   von B 9 Abzweig Richtung Speyer, Landauer Straße
-        (Römerberg/Berghausen) bis Speyer, Industriestraße
+    *   von B 9 Abzweig Richtung Landauer Straße, 67346 Speyer
+        (Römerberg/Berghausen) bis Industriestraße, 67346 Speyer
 
 
 *    *   B 40
 
     *   von A 66 (Krifteler Dreieck) bis AS B 43 östlich Kelsterbach mit
         Ausnahme AS Schwanheimer Knoten bis Anschluss Mainzer Landstraße,
-        Frankfurt (K 803)
+        Frankfurt (K 803) und von AS Hochheim-Süd (A 671) bis Anschluss
+        Hauptstraße, 55246 Wiesbaden (Stadtteil Mainz-Kostheim)
 
 
 *    *   B 42
 
-    *   von B 327 bis Lahnstein, Max-Schwarz-Straße
+    *   von B 327 (56076 Koblenz) bis Max-Schwarz-Straße, 56112 Lahnstein
 
 
 *    *   B 43
 
-    *   von A 3 (AS Frankfurt-Süd) bis A 3 (AS Kelsterbach) sowie zum
-        Anschluss B 40
+    *   von A 3 (AS Frankfurt-Süd) bis A 3 (AS Kelsterbach) sowie Anschluss
+        B 40 (Querspange Kelsterbach) und von Kreisel Mönchhofgelände (Abzweig
+        Mönchhofallee) über AS Raunheim (A 3) bis Abzweig Kelsterbacher
+        Straße, 65479 Raunheim
 
 
 *    *   B 43a
@@ -1107,31 +1171,67 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 45/A 66 (Hanauer Kreuz) bis AS B 45 südlich Hanau
 
 
+*    *   B 44
+
+    *   von B 426 bis Marie-Curie-Straße, 64579 Gernsheim
+
+
 *    *   B 45
 
-    *   von AS B 43a südlich Hanau bis AS L 3097, Rodgau
+    *   von AS B 43a südlich Hanau bis AS L 3097, 63110 Rodgau
 
 
 *    *   B 47
 
-    *   von B 9 bis LG Rheinland-Pfalz/Hessen
+    *   von B 9 (67547 Worms) bis LG Rheinland-Pfalz/Hessen
 
 
 *    *   B 48
 
-    *   von L 242 bis Langenlonsheim, Weidenstraße
+    *   von L 242 (55450 Langenlonsheim) bis Weidenstraße, 55450
+        Langenlonsheim
 
 
 *    *   B 49
 
-    *   von A 602 bis Verteilerkreis, Trier, von L 327 (Montabaur) bis
-        Übergang zu B 255 und von A 3 (AS Limburg/Nord) bis A 485 (AS
-        Bergwerkswald)
+    *   von A 602 (54292 Trier) bis Verteilerkreis, 54292 Trier, von L 327
+        (56410 Montabaur) bis Übergang B 255 (56410 Montabaur) und von A 3 (AS
+        Limburg/Nord) bis A 485 (AS Bergwerkswald)
 
 
 *    *   B 50
 
-    *   von A 61 (AS Rheinböllen) bis L 182
+    *   von A 60 (AK Wittlich) bis KVP 54518 Platten und von A 61 (AS
+        Rheinböllen) bis L 182 (55483 Lautzenhausen)
+
+
+*    *   B 54
+
+    *   von AS Haiger/Burbach (A 45) bis Anschluss Kalteiche-Ring, 35708
+        Haiger
+
+
+*    *   B 62
+
+    *   von AS Niederaula/A 7 bis Anschluss Industriestraße, 36272 Niederaula,
+        von AS Friedewald/A 4 bis Anschluss Gottfried-Schenker-Straße, 36289
+        Friedewald
+
+
+*    *   B 76
+
+    *   von Anschluss B 404 bis Anschluss B 201
+
+
+*    *   B 77
+
+    *   von Anschluss K 44 (Krummenorter Heide, 24791 Alt Duvenstedt) bis
+        Anschluss K 69 (Loher Straße, 24768 Rendsburg)
+
+
+*    *   B 80
+
+    *   von AS Hann. Münden-Hedemünden (A 7) bis Anschluss B 27
 
 
 *    *   B 89
@@ -1147,7 +1247,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 96
 
-    *   von A 20 (AS Neubrandenburg Ost, 17098 Friedland, bis LG Mecklenburg-
+    *   von A 20 (AS Neubrandenburg Ost), 17098 Friedland, bis LG Mecklenburg-
         Vorpommern/Brandenburg
 
 
@@ -1174,7 +1274,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 101
 
-    *[^F812806_9_BJNR614410011BJNE001509119]
+    *[^f825743_09_BJNR614410011BJNE001510119]
    von A 10 (AS Ludwigsfelde-Ost) bis AS Märkische Allee (GVZ
         Großbeeren Nord)
 
@@ -1182,7 +1282,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 103
 
     *   von A 19 (AS Laage) bis B 108 und L 39 (18299 Laage) und von B 192
-        (19395 Plau am See) bis LG Brandenburg/Mecklenburg-Vorpommern
+        (19395 Plau am See) bis LG Brandenburg/Mecklenburg-Vorpommern
 
 
 *    *   B 103
@@ -1217,16 +1317,16 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 110
 
-    *   von A 19 (AS Rostock-Süd) bis Kösterbecker Straße (18184 Roggentin)
-        und von A 20 (AS Tessin) bis A 20 (AS Jarmen) und von B 194 (17109
-        Demmin) bis B 194 (innerhalb Demmin geht B 110 in B 194 über)
+    *   von A 19 (AS Rostock-Süd) bis Kösterbecker Straße (18184 Roggentin),
+        von A 20 (AS Tessin) bis A 20 (AS Jarmen) und von B 194 (17109 Demmin)
+        bis B 194 (innerhalb Demmin geht B 110 in B 194 über)
 
 
 *    *   B 191
 
-    *   von A 24 (AS Neustadt-Glewe) bis L 083 (19370 Parchim) und von L 083
-        bis B 103 (19395 Plau am See) und von A 14 (AS Grabow) bis LG
-        Mecklenburg-Vorpommern/Niedersachsen
+    *   von A 24 (AS Neustadt-Glewe) bis L 083 (19370 Parchim), von L 083 bis
+        B 103 (19395 Plau am See) und von A 14 (AS Grabow) bis LG Mecklenburg-
+        Vorpommern/Niedersachsen
 
 
 *    *   B 192
@@ -1256,7 +1356,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 206
 
-    *   von A 20 (AS Weede) bis A 21 (AS Bad Segeberg-Nord)
+    *   von A 20 (AS Weede) bis A 7 (AS Bad Bramstedt)
+
+
+*    *   B 207
+
+    *   von Fährhafen Puttgarden, 23769 Fehmarn, bis A 1, Autobahnanfang
+        Heiligenhafen-Ost
 
 
 *    *   B 208
@@ -1275,21 +1381,34 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         37327 Leinefelde-Worbis
 
 
+*    *   B 251
+
+    *   von AS Zierenberg (A 44) bis Abzweig Raiffeisenstraße, 34497 Korbach
+
+
+*    *   B 254
+
+    *   von B 323 bis Autohof Marburger Straße 13, 34576 Homberg
+        Efze/Lützelwig, von B 27 bis Anschluss L 3418 (Karl-Storch-Straße),
+        36041 Fulda
+
+
 *    *   B 255
 
-    *   von A3 (AS Montabaur) bis Übergang B 49
+    *   von A 3 (AS Montabaur) bis Übergang B 49 (56410 Montabaur)
 
 
 *    *   B 256
 
-    *   von A 61 (AS Kruft) bis Übergang K 47, von A 3 (AS Neuwied) bis
-        Oberhonnefeld, Weyerbuscher Weg und von B 8 (Altenkirchen) bis
-        Übergang B 414 (Altenkirchen)
+    *   von A 61 (AS Kruft) bis Übergang K 47 (56626 Andernach), von A 3 (AS
+        Neuwied) bis Weyerbuscher Weg, 56587 Oberhonnefeld und von B 8 (57610
+        Altenkirchen) bis Übergang B 414 (57610 Altenkirchen)
 
 
 *    *   B 257
 
-    *   von A 565 bis Ahrbrück, Kesselinger Straße
+    *   von A 565 (53501 Grafschaft-Gelsdorf) bis Kesselinger Straße, 53506
+        Ahrbrück
 
 
 *    *   B 262
@@ -1299,17 +1418,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 266
 
-    *   von Übergang A 573 bis B 9
+    *   von Übergang A 573 (53474 Bad Neuenahr-Ahrweiler) bis B 9 (53498
+        Sinzig)
 
 
 *    *   B 270
 
-    *   von Kaiserslautern, Opelkreisel bis L 367
+    *   von Opelkreisel, 67663 Kaiserslautern bis L 367 (67661 Kaiserlautern-
+        Siegelbach)
 
 
 *    *   B 272
 
-    *   von A 65 (AS Landau Nord) bis K 40 bei Hochstadt (Pfalz)
+    *   von A 65 (AS Landau Nord) bis K 40 (76879 Hochstadt (Pfalz))
 
 
 *    *   B 273
@@ -1340,7 +1461,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 321
 
-    *[^F812806_10_BJNR614410011BJNE001509119]
+    *[^f825743_10_BJNR614410011BJNE001510119]
    von A 24 (AS Suckow) bis B 191 (19370 Parchim) und von B 191 (19370
         Parchim) bis LUP
         29 (19230 Hagenow)
@@ -1351,9 +1472,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von AD Delmenhorst (B 75) bis A 1 (AD Stuhr)
 
 
+*    *   B 323
+
+    *   von AS Homberg Efze (A 7) bis Anschluss B 254 (bei Cassdorf/Homberg
+        Efze)
+
+
 *    *   B 327
 
-    *   von B 9 (Koblenz) bis B 42 (Koblenz)
+    *   von B 9 (56075 Koblenz) bis B 42 (56076 Koblenz)
 
 
 *    *   B 392
@@ -1363,27 +1490,38 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 404
 
-    *   von A 21 (AS Wankendorf) bis Stadtgrenze Kiel
+    *   von A 21, AS Wankendorf, bis Stadtgrenze Kiel
 
 
 *    *   B 412
 
-    *   von A 61 (AS Niederzissen) bis Niederzissen, Industriegebiet Scheid
+    *   von A 61 (AS Niederzissen) bis Industriegebiet Scheid, 56651
+        Niederzissen
 
 
 *    *   B 413
 
-    *   von L 305 (Herschbach/Freirachdorf) bis B 8 (Höchstenbach)
+    *   von L 258 (56269 Dierdorf) bis B 8 (57629 Höchstenbach)
 
 
 *    *   B 414
 
-    *   von Übergang zu B 256 (Altenkirchen) bis K 151 (Altenkirchen)
+    *   von Übergang B 256 (57610 Altenkirchen) bis K 151 (57610 Altenkirchen)
+
+
+*    *   B 426
+
+    *   von AS Pfungstadt (A 67) bis Anschluss B 44
 
 
 *    *   B 429
 
     *   von A 480 (AS Wettenberg) bis Kreuzung mit B 49 (Klein Linden)
+
+
+*    *   B 451
+
+    *   von Anschluss L 3464 bis Hausnummer 23, 37213 Witzenhausen
 
 
 *    *   B 469
@@ -1392,7 +1530,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-**Nachgeordnetes Straßennetz Baden-Württemberg:**
+
+**Nachgeordnetes Streckennetz Baden-Württemberg:**
+
+*    *
+    *   Streckenabschnitt
+        jeweils nur in der angegebenen Fahrtrichtung
+
 
 *    *
     *   A 81 AS Ludwigsburg Nord, B 27 Richtung Bietigheim-Bissingen,
@@ -1419,7 +1563,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *
     *   von A 6 Ausfahrt 24 Mannheim Sandhofen, B 44 Richtung
         Sandhofen/Waldhof/Hafen, Bürstadter Straße, Diffenestraße,
-        Ölhafenstraße bis Wendehammer sowie Otto-Hahn-Straße bis Ecke Werner-
+        Ölhafenstraße bis Wendehammer und Otto-Hahn-Straße bis Ecke Werner-
         Heisenberg-Straße
 
 
@@ -1430,7 +1574,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   von A 6 Ausfahrt 24 Mannheim Sandhofen, B 44 Richtung Sandhofen,
+    *   von A 6 Ausfahrt 24 Mannheim Sandhofen, B 44 Richtung Sandhofen
         Waldhof/Hafen, Bürstadter Straße bis Priebuser Straße
 
 
@@ -1440,173 +1584,142 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   AK Böblingen-Hulb (Ausfahrt 24), B 464 (Richtung Norden), Ausfahrt
-        Calwer Straße (L 1183), Calwer Straße (L 1183) (Richtung
-        Sindelfingen), Gottlieb-Daimler-Straße bis Kreuzung Benzstraße,
-        Benzstraße
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Sindelfingen-West, L 1183
+        Calwer Straße, Gottlieb-Daimler-Straße, Benzstraße
 
 
 *    *
-    *   AK Böblingen-Hulb (Ausfahrt 24), B 464 (Richtung Norden), Ausfahrt
-        Calwer Straße (L 1183), Calwer Straße (L 1183) (Richtung
-        Sindelfingen), Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung
-        Benzstraße
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Sindelfingen-West, L 1183
+        Calwer Straße, Benzstraße
 
 
 *    *
-    *   AK Böblingen-Hulb (Ausfahrt 24) – B 464 (Richtung Norden) – Ausfahrt
-        Böblinger Straße (K 1073) – Böblinger Straße (K 1073) (Richtung
-        Böblingen) – Gottlieb-Daimler-Straße – Benzstraße
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Böblingen-West, K 1073
+        Böblinger Straße, Gottlieb-Daimler-Straße, Benzstraße
 
 
 *    *
-    *   Benzstraße, Gottlieb-Daimler-Straße, Böblinger Straße (K 1073), B 464
-        (Richtung Süden), AK Böblingen-Hulb (Ausfahrt 24) A 81
+    *   Benzstraße, Gottlieb-Daimler-Straße, K 1073 Böblinger Straße, AS
+        Böblingen-West, B 464, AK Böblingen-Hulb (Einfahrt 24) A 81
 
 
 *    *
-    *   Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung Benzstraße (Richtung
-        Norden), Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B 464,
-        B 464 (Richtung Süden), Einfahrt AK Böblingen-Hulb (Einfahrt 24)
+    *   Benzstraße, Gottlieb-Daimler-Straße, L 1183 Calwer Straße, AS
+        Sindelfingen-West, B 464, AK Böblingen-Hulb (Einfahrt 24)
 
 
 *    *
-    *   Entenseestraße, Gottlieb-Daimler-Straße (Richtung Norden), Calwer
-        Straße (L 1183) (Richtung Darmsheim), Auffahrt B 464, B 464 (Richtung
-        Süden), Einfahrt AK Böblingen-Hulb (Einfahrt 24)
+    *   Entenseestraße, Gottlieb-Daimler-Straße, L 1183 Calwer Straße, AS
+        Sindelfingen-West, B 464, AK Böblingen-Hulb (Einfahrt 24)
 
 
 *    *
-    *   AK Böblingen-Hulb (Ausfahrt 24), B 464 (Richtung Norden), Ausfahrt
-        Böblinger Straße (K 1073), Böblinger Straße (K 1073) (Richtung
-        Dagersheim), Schickardstraße
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Böblingen-West, K 1073
+        Böblinger Straße, Schickardstraße
 
 
 *    *
-    *   AK Böblingen-Hulb (Ausfahrt 24), B 464 (Richtung Süden), Ausfahrt
-        Herrenberger Straße (K 464), Überfahrt Herrenberger Straße K 464,
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Böblingen-Süd,
         Schickardstraße
 
 
 *    *
-    *   Schickardstraße, Böblinger Straße (K 1073) (Richtung Böblingen),
-        Einfahrt Böblinger Straße (K 1073) auf B 464, B 464 (Richtung Süden),
-        Einfahrt AK Böblingen-Hulb (Einfahrt 24)
-
-
-*    *
-    *   Schickardstraße, Herrenberger Straße K 464/K 1077, Auffahrt
-        Herrenberger Straße (K 464/K 1077) auf B 464, B 464 (Richtung Norden),
-        Einfahrt AK Böblingen-Hulb (Einfahrt 24)
-
-
-*    *
-    *   Schickardstraße, Böblinger Straße (K 1073) (Richtung Böblingen),
-        Auffahrt B 464, B 464 (Richtung Norden), Ausfahrt Calwer Straße (L
-        1183), Calwer Straße (L 1183) (Richtung Sindelfingen), Gottlieb-
-        Daimler-Straße bis Kreuzung Benzstraße, Benzstraße
-
-
-*    *
-    *   Schickardstraße, Böblinger Straße (K 1073) (Richtung Böblingen),
-        Auffahrt B 464, B 464 (Richtung Norden), Ausfahrt Calwer Straße (L
-        1183), Calwer Straße (L 1183) (Richtung Sindelfingen), Benzstraße,
-        Gottlieb-Daimler-Straße ab Kreuzung Benzstraße
-
-
-*    *
-    *   Schickardstraße, Herrenberger Straße K 464/K 1077, Auffahrt
-        Herrenberger Straße (K 464/K 1077) auf B 464, B 464 (Richtung Norden),
-        Ausfahrt Calwer Straße (L 1183), Calwer Straße (L 1183) (Richtung
-        Sindelfingen), Gottlieb-Daimler-Straße bis Kreuzung Benzstraße,
-        Benzstraße
-
-
-*    *
-    *   Schickardstraße, Herrenberger Straße K 464/K 1077, Auffahrt
-        Herrenberger Straße (K 464/K 1077) auf B 464, B 464 (Richtung Norden),
-        Ausfahrt Calwer Straße (L 1183), Calwer Straße (L 1183) (Richtung
-        Sindelfingen), Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung
-        Benzstraße
-
-
-*    *
-    *   Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung Benzstraße (Richtung
-        Norden), Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B 464,
-        B 464 (Richtung Süden), Ausfahrt Böblinger Straße (K 1073), Böblinger
-        Straße (K 1073) (Richtung Dagersheim), Schickardstraße
-
-
-*    *
-    *   Benzstraße, Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B
-        464, B 464 (Richtung Süden), Ausfahrt Böblinger Straße (K 1073),
-        Böblinger Straße (K 1073), Schickardstraße
-
-
-*    *
-    *   Schickardstraße, Herrenberger Straße K 464/K 1077, Auffahrt
-        Herrenberger Straße (K 464/K 1077) auf B 464, B 464 (Richtung Norden),
-        Ausfahrt Calwer Straße (L 1183), Benzstraße
-
-
-*    *
-    *   AK Böblingen-Hulb (Ausfahrt 24), B 464 (Richtung Norden), Ausfahrt
-        Böblinger Straße (K 1073), Böblinger Straße (K 1073) (Richtung
-        Böblingen), Dornierstraße bis Otto-Lilienthal-Straße
-
-
-*    *
-    *   Dornierstraße, Böblinger Straße (K 1073) (Richtung Dagersheim),
-        Auffahrt B 464, B 464 (Richtung Süden), Einfahrt AK Böblingen-Hulb
-        (Einfahrt 24)
-
-
-*    *
-    *   Dornierstraße, Böblinger Straße (K 1073) (Richtung Dagersheim),
-        Auffahrt B 464, B 464 (Richtung Norden), Ausfahrt Calwer Straße (L
-        1183), Calwer Straße (L 1183) (Richtung Sindelfingen), Gottlieb-
-        Daimler-Straße bis Kreuzung Benzstraße, Benzstraße
-
-
-*    *
-    *   Dornierstraße, Böblinger Straße (K 1073) (Richtung Dagersheim),
-        Auffahrt B 464, B 464 (Richtung Norden), Ausfahrt Calwer Straße (L
-        1183), Calwer Straße (L 1183) (Richtung Sindelfingen), Benzstraße,
-        Gottlieb-Daimler-Straße ab Kreuzung Benzstraße
-
-
-*    *
-    *   Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung Benzstraße (Richtung
-        Norden), Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B 464,
-        B 464 (Richtung Süden), Ausfahrt Böblinger Straße (K 1073), Böblinger
-        Straße (K 1073) (Richtung Böblingen), Dornierstraße bis Otto-
-        Lilienthal-Straße
-
-
-*    *
-    *   Benzstraße (Richtung Norden), Calwer Straße (L 1183) (Richtung
-        Darmsheim), Auffahrt B 464, B 464 (Richtung Süden), Einfahrt AK
+    *   Schickardstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AK
         Böblingen-Hulb (Einfahrt 24)
 
 
 *    *
-    *   Benzstraße, Gottlieb-Daimler-Straße ab Kreuzung Benzstraße, Calwer
-        Straße (L 1183) (Richtung Darmsheim), Auffahrt B 464, B 464 (Richtung
-        Süden), Ausfahrt Herrenberger Straße (K 464), Überfahrt Herrenberger
-        Straße, Schickardstraße
+    *   Schickardstraße – K 1077 Herrenberger Straße – AS Böblingen-Süd – B
+        464 – AK Böblingen-Hulb (Einfahrt 24)
 
 
 *    *
-    *   Benzstraße, Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B
-        464, B 464 (Richtung Süden), Ausfahrt Herrenberger Straße (K 464),
-        Überfahrt Herrenberger Straße, Schickardstraße
+    *   Schickardstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AS
+        Sindelfingen-West, L 1183 Calwer Straße, Gottlieb-Daimler-Straße,
+        Benzstraße
 
 
 *    *
-    *   Benzstraße, Calwer Straße (L 1183) (Richtung Darmsheim), Auffahrt B
-        464, B 464 (Richtung Süden), Ausfahrt Böblinger Straße (K 1073),
-        Böblinger Straße (K 1073) (Richtung Böblingen), Dornierstraße bis
-        Otto-Lilienthal-Straße
+    *   Schickardstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AS
+        Sindelfingen-West, L 1183 Calwer Straße, Benzstraße, Gottlieb-Daimler-
+        Straße
+
+
+*    *
+    *   Schickardstraße, K 1077 Herrenberger Straße, AS Böblingen-Süd, B 464,
+        AS Sindelfingen-West, L 1183 Calwer Straße, Gottlieb-Daimler-Straße,
+        Benzstraße
+
+
+*    *
+    *   Schickardstraße, K 1077 Herrenberger Straße, AS Böblingen-Süd, B 464,
+        AS Sindelfingen-West, L 1183 Calwer Straße, Benzstraße, Gottlieb-
+        Daimler-Straße
+
+
+*    *
+    *   Benzstraße, Gottlieb-Daimler-Straße, L 1183 Calwer Straße, AS
+        Sindelfingen-West, B 464, AS Böblingen-West, K 1073 Böblinger Straße,
+        Schickardstraße
+
+
+*    *
+    *   Benzstraße, L 1183 Calwer Straße, AS Sindelfingen-West, B 464, AS
+        Böblingen-Süd, Schickardstraße
+
+
+*    *
+    *   Schickardstraße, K 1077 Herrenberger Straße, AS Böblingen-Süd, B 464,
+        AS Sindelfingen-West, L 1183 Calwer Straße, Benzstraße
+
+
+*    *
+    *   AK Böblingen-Hulb (Ausfahrt 24), B 464, AS Böblingen-West, K 1073
+        Böblinger Straße, Dornierstraße, Otto-Lilienthal-Straße
+
+
+*    *
+    *   Dornierstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AK
+        Böblingen-Hulb (Einfahrt 24)
+
+
+*    *
+    *   Dornierstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AS
+        Sindelfingen-West, L 1183 Calwer Straße, Gottlieb-Daimler-Straße,
+        Benzstraße
+
+
+*    *
+    *   Dornierstraße, K 1073 Böblinger Straße, AS Böblingen-West, B 464, AS
+        Sindelfingen-West, L 1183 Calwer Straße, Benzstraße, Gottlieb-Daimler-
+        Straße
+
+
+*    *
+    *   Benzstraße, Gottlieb-Daimler-Straße, L 1183 Calwer Straße, AS
+        Sindelfingen-West, B 464, AS Böblingen-West, K 1073 Böblinger Straße,
+        Dornierstraße, Otto-Lilienthal-Straße
+
+
+*    *
+    *   Benzstraße, L 1183 Calwer Straße, AS Sindelfingen-West, B 464, AK
+        Böblingen-Hulb (Einfahrt 24)
+
+
+*    *
+    *   Benzstraße, Gottlieb-Daimler-Straße, L 1183 Calwer Straße, AS
+        Sindelfingen-West, B 464, AS Böblingen-Süd, Schickardstraße
+
+
+*    *
+    *   Benzstraße, L 1183 Calwer Straße, AS Sindelfingen-West, B 464, AS
+        Böblingen-Süd, Schickardstraße
+
+
+*    *
+    *   Benzstraße, L 1183 Calwer Straße, AS Sindelfingen-West, B 464, AS
+        Böblingen-West, K 1073 Böblinger Straße, Dornierstraße, Otto-
+        Lilienthal-Straße
 
 
 *    *
@@ -1643,7 +1756,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   A 5 – Abfahrt Karlsruhe-Süd, B 3, Durmersheimer Straße, L 608, Otto-
+    *   A 5 Abfahrt Karlsruhe-Süd, B 3, Durmersheimer Straße, L 608, Otto-
         Eckerle-Straße, bis Zielstraße Benzstraße 17 (Seifert Logistik), 76316
         Malsch und zweite Zielstraße Stephanstraße (Einfahrt Seifert
         Logistics)
@@ -1652,7 +1765,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *
     *   Benzstraße 17 (Seifert Logistik), 76316 Malsch und zweite Zielstraße
         Stephanstraße (Einfahrt Seifert Logistics), Otto-Eckerle-Straße, L
-        608, Durmersheimer Straße, B 3, A 5 – Abfahrt Karlsruhe-Süd
+        608, Durmersheimer Straße, B 3, A 5 Abfahrt Karlsruhe-Süd
 
 
 *    *
@@ -1671,8 +1784,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   A 5, AS 48 (Karlsruhe-Süd), über B3 bis L 607, Rudolf-Plank-Straße bis
-        Einsteinstraße 1 – 3, Ettlingen
+    *   A 5, AS 48 (Karlsruhe-Süd), über B 3 bis L 607, Rudolf-Plank-Straße
+        bis Einsteinstraße 1 – 3, Ettlingen
 
 
 *    *
@@ -1698,7 +1811,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   Lochfeldstraße 33, Rastatt, Lochfeldstraße, K 3716, Untere Wiesen/K
-        3716, B 462, AS 49 (Rastatt- Nord) auf A 5. Von Autobahndreieck
+        3716, B 462, AS 49 (Rastatt-Nord) auf A 5. Von Autobahndreieck
         Karlsruhe auf A 8 bis AS 51 (Kreuz Stuttgart), weiter auf A 81 bis AS
         24 (Böblingen-Hulb), B 464, Böblinger Straße, Dornierstraße bis Hanns-
         Klemm-Straße 27, Böblingen
@@ -1709,12 +1822,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         464, AS 24 (Böblingen-Hulb) auf A 81, weiter bis AS 51 (Kreuz
         Stuttgart), weiter auf A 8 bis Kreuz Karlsruhe, weiter auf A 5 bis AS
         49 (Rastatt-Nord), B 462, Untere Wiesen/K 3716, K 3716,
-        Lochfeldstraße, Lochfeldstraße 33, Rastatt
+        Lochfeldstraße, Lochfeldstraße 33, Rastatt
 
 
 *    *
     *   AS 49 Rastatt-Nord Richtung Rastatt/Ötigheim, B 462, B 3,
-        Durmersheimer Straße (L 608), Daimlerstraße, Thomas-Dachser Straße 1
+        Durmersheimer Straße (L 608), Daimlerstraße, Thomas-Dachser-Straße 1
 
 
 *    *
@@ -1723,19 +1836,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   (A 5) – Abfahrt Karlsruhe-Süd, B 3, Durmersheimer Straße (L 608),
+    *   A 5 Abfahrt Karlsruhe-Süd, B 3, Durmersheimer Straße (L 608),
         Daimlerstraße, Thomas-Dachser-Straße 1
 
 
 *    *
     *   Thomas-Dachser-Straße 1, Daimlerstraße, Durmersheimer Straße (L 608),
-        B 3, AS Karlsruhe-Süd (A 5)
+        B 3, AS Karlsruhe Süd (A 5)
 
 
 *    *
     *   von Bahnhofstraße 66, Giengen über Robert-Bosch-Straße (L 1082) und B
-        19 bis AS 117
-        Giengen/Herbrechtingen                        (A 7)
+        19 bis AS 117 Giengen/Herbrechtingen (A 7)
 
 
 *    *
@@ -1801,35 +1913,45 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   A 81 AS 7 Möckmühl, L 1047, Habichtshöfe 8 Möckmühl
+    *   A 81, AS 12 Ilsfeld, Auensteiner Straße (L 1100) bis Abzweig Busstadt,
+        Busstadt, Sälzerstraße 6, Ilsfeld
 
 
 *    *
-    *   Habichtshöfe 8 Möckmühl, L 1047, AS 7 Möckmühl A 81
+    *   Sälzerstraße 6, Ilsfeld, Busstadt, L 1100, Auensteiner Straße, AS 12
+        Ilsfeld, A 81
 
 
 *    *
-    *   A 81 AS 7 Möckmühl, L 1047, Habichtshöfe 1 Möckmühl
+    *   A 81 AS 7 Möckmühl, L 1047, Habichtshöfe 8, Möckmühl
 
 
 *    *
-    *   Habichtshöfe 1 Möckmühl, L 1047, AS 7 Möckmühl A 81
+    *   Habichtshöfe 8, Möckmühl, L 1047, AS 7 Möckmühl A 81
 
 
 *    *
-    *   A 81 AS 7 Möckmühl, L 1047, Baierklinge 2 Möckmühl
+    *   A 81 AS 7 Möckmühl, L 1047, Habichtshöfe 1, Möckmühl
 
 
 *    *
-    *   Baierklinge 2 Möckmühl, L 1047, AS 7 Möckmühl A 81
+    *   Habichtshöfe 1, Möckmühl, L 1047, AS 7 Möckmühl A 81
 
 
 *    *
-    *   Habichtshöfe 8 Möckmühl, L 1047, Baierklinge 2 Möckmühl
+    *   A 81 AS 7 Möckmühl, L 1047, Baierklinge 2, Möckmühl
 
 
 *    *
-    *   Baierklinge 2 Möckmühl, L 1047, Habichtshöfe 8 Möckmühl
+    *   Baierklinge 2, Möckmühl, L 1047, AS 7 Möckmühl A 81
+
+
+*    *
+    *   Habichtshöfe 8, Möckmühl, L 1047, Baierklinge 2, Möckmühl
+
+
+*    *
+    *   Baierklinge 2, Möckmühl, L 1047, Habichtshöfe 8, Möckmühl
 
 
 *    *
@@ -1844,10 +1966,9 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   A 81 (aus Richtung Heilbronn kommend), bei AS 17 Stuttgart-
-        Zuffenhausen auf B 10 (Richtung
-        S-Zentrum/S-Zuffenhausen),                        bei Ausfahrt
-        S-Stammheim/S-Zuffenhausen abfahren, Adestraße, Porschestraße 42,
-        70435 Stuttgart
+        Zuffenhausen auf B 10 (Richtung S-Zentrum/S-Zuffenhausen), bei
+        Ausfahrt S-Stammheim/S-Zuffenhausen abfahren, Adestraße, Porschestraße
+        42, 70435 Stuttgart
 
 
 *    *
@@ -1857,14 +1978,25 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   Sigelstraße 53 Kornwestheim, L 1143, Kornwestheimer Straße/L 1143, B
-        27a, B 27, B 10, Adestraße 48 – 54, Stuttgart
+    *   A 81, AS 17 (Stuttgart-Zuffenhausen), B 10, Ausfahrt Kornwestheimer
+        Straße, Kornwestheimer Straße bis Raiffeisenstraße 6, Korntal-
+        Münchingen
 
 
 *    *
-    *   Adestraße 48 – 54 Stuttgart, Porschestraße, Stammheimer Straße,
+    *   Raiffeisenstraße 6, Korntal-Münchingen, Kornwestheimer Straße, B 10
+        bis AS 17 (Stuttgart-Zuffenhausen), A 81
+
+
+*    *
+    *   Sigelstraße 53, Kornwestheim, L 1143, Kornwestheimer Straße/L 1143, B
+        27a, B 27, B 10, Adestraße 48 – 54, Stuttgart
+
+
+*    *
+    *   Adestraße 48 – 54, Stuttgart, Porschestraße, Stammheimer Straße,
         Adestraße, B 10, B 27, B 27a, Kornwestheimer Straße/L 1143, L 1143,
-        Sigelstraße 53 Kornwestheim
+        Sigelstraße 53, Kornwestheim
 
 
 *    *
@@ -1931,7 +2063,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   Industriepark 110, Osterburken, L 515 in Richtung Ravenstein, B 292
-        bis AS 6 (Osterburken) auf A 81
+        bis AS 6 (Osterburken) auf A 81
 
 
 *    *
@@ -1951,12 +2083,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   Rudolf-Diesel-Straße 2 – 70806 Kornwestheim, Westrandstraße bis Am
+    *   Rudolf-Diesel-Straße 2, 70806 Kornwestheim, Westrandstraße bis Am
         Containerbahnhof
 
 
 *    *
-    *   Am Containerbahnhof, Westrandstraße bis Rudolf-Diesel-Straße 2 – 70806
+    *   Am Containerbahnhof, Westrandstraße bis Rudolf-Diesel-Straße 2, 70806
         Kornwestheim
 
 
@@ -1973,28 +2105,28 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   A 81 AS 18 Feuerbach B 295, Zeissstraße, Benzstraße, Porschestraße 1
-        sowie 3
+        und 3
 
 
 *    *
-    *   Porschestraße 1 sowie 3, Benzstraße, Zeissstraße, B 295, AS 18
-        Feuerbach A 81
+    *   Porschestraße 1 und 3, Benzstraße, Zeissstraße, B 295, AS 18 Feuerbach
+        A 81
 
 
 *    *
     *   AS 18 Feuerbach (A 81), B 295, L 1143 Flachter Straße, L 1141
-        Hemminger Straße, Holderäckerstraße bis Motorstraße 9
+        Hemminger Straße, Holderäcker Straße bis Motorstraße 9
 
 
 *    *
     *   Motorstraße 9, Holderäckerstraße, L 1141 Hemminger Straße, L 1143
-        Flachter Straße, B 295, AS 18 Feuerbach (A 81)
+        Flachter Straße, B 295, AS 18 Feuerbach (A 81)
 
 
 *    *
     *   Ulmer Straße 75, 73066 Uhingen, Auffahrt Richtung B 10/Ulm/Stuttgart/B
         297, B 10/B 297 Richtung Stuttgart/Kirchheim/T., weiter auf B 10/B
-        297, Neckartalstraße/B 10, Pragstraße/B 10, B 10/B 27, B 27 bis
+        297, Neckartalstraße/B 10, Pragstraße/B 10, B 10/B 27, B 27 bis
         Ausfahrt B 27a Richtung Möglingen/Kornwestheim-Süd, B 27a, Am
         Containerbahnhof, 70806 Kornwestheim
 
@@ -2002,14 +2134,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *
     *   Am Containerbahnhof, 70806 Kornwestheim, B 27a, B 27 Richtung B
         10/Stuttgart, Heilbronner Straße/B 10/B 27, Pragstraße/B 10,
-        Neckartalstraße/B 10, B 10, bei Ausfahrt GP-Faurndau auf B 297, Ulmer
+        Neckartalstraße/B 10, B 10, bei Ausfahrt GP-Faurndau auf B 297, Ulmer
         Straße, Ulmer Straße 75, 73066 Uhingen
 
 
 *    *
     *   Ulmer Straße 75, 73066 Uhingen, Auffahrt Richtung B 10/Ulm/Stuttgart/B
         297, B 10/B 297 Richtung Stuttgart/Kirchheim/T., weiter auf B 10/B
-        297, Neckartalstraße/B 10, Pragstraße/B 10, B 10/B 27, B 10 bis
+        297, Neckartalstraße/B 10, Pragstraße/B 10, B 10/B 27, B 10 bis
         Ausfahrt Richtung Korntal, Adestraße, Strohgäustraße, Otto-Dürr-Straße
         bis Otto-Dürr-Straße 6, 70435 Stuttgart
 
@@ -2036,7 +2168,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   Bleichereistraße 62, 73066 Uhingen, Bleichereistraße, Seestraße,
-        Stuttgarter Straße, L 1152, auf B 10 (in Richtung
+        Stuttgarter Straße, L 1152, auf B 10 (in Richtung
         Stuttgart/Plochingen)
 
 
@@ -2062,7 +2194,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von Lise-Meitner-Straße, Nagold, über Graf-Zeppelin-Straße, K 4346, L
-        1361, B 28a auf A 81 (AS 29, Rottenburg)
+        1361, B 28a auf A 81 (AS 29, Rottenburg)
 
 
 *    *
@@ -2072,7 +2204,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von Lise-Meitner-Straße, Nagold, über Graf-Zeppelin-Straße, L 361,
-        Nagolder Straße, L 1361, B 28a auf A 81 (AS 29, Rottenburg)
+        Nagolder Straße, L 1361, B 28a auf A 81 (AS 29, Rottenburg)
 
 
 *    *
@@ -2089,7 +2221,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von A 81 (AS 10, Weinsberg/Ellhofen) über B 39a Autobahnzubringer, B
-        39, Heilbronner Straße L 1101, Weidachstraße in Lindichstraße,
+        39, Heilbronner Straße L 1101, Weidachstraße in Lindichstraße,
         Weinsberg
 
 
@@ -2130,8 +2262,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         10 in Richtung Ulm – Ausfahrt Jungingen/Lehr – weiter auf L 1165 – im
         Kreisverkehr auf Gemeindeverbindungsstraße von AS Ulm-Lehr nach
         Dornstadt (B 10 alt/Stuttgarter Straße) in Richtung Nord – Ausfahrt
-        Stelzenäcker – links in Eiselauer Weg – Albrecht-Berblinger-Straße
-        2/89160 Dornstadt (KV Terminal Ulm)
+        Stelzenäcker – links in Eiselauer Weg – Albrecht-Berblinger-Straße 2,
+        89160 Dornstadt (KV Terminal Ulm)
 
 
 *    *
@@ -2144,7 +2276,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   A 8 bei Ausfahrt 62 Ulm-West auf B 10 in Richtung Ulm – Ausfahrt
-        Jungingen/Lehr – weiter auf L 1165 – im Kreisverkehr auf
+        Jungingen/Lehr – weiter auf L 1165 – im Kreisverkehr auf
         Gemeindeverbindungsstraße von AS Ulm-Lehr nach Dornstadt (B 10
         alt/Stuttgarter Straße) in Richtung Nord – Ausfahrt Stelzenäcker bis
         Mergelgrube
@@ -2158,7 +2290,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   A 8 bei Ausfahrt 63 Ulm Ost auf B 19 Richtung Ulm bis Albstraße 92
+    *   A 8 bei Ausfahrt 63 Ulm-Ost auf B 19 Richtung Ulm bis Albstraße 92
 
 
 *    *
@@ -2183,7 +2315,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   Benzstraße 11 (Leinfelden-Echterdingen), Maybachstraße, Nord-Süd-
-        Straße, auf A 8 (AS 52a-52b)
+        Straße, auf A 8 (AS 52a – 52b)
 
 
 *    *
@@ -2209,99 +2341,101 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   Lise-Meitner-Straße 10, Nagold, rechts in Graf-Zeppelin-Straße,
-        Kreisverkehr 2. Ausfahrt auf K 4346 Richtung Mötzingen, nächster
-        Kreisverkehr 1. Ausfahrt Richtung L 1361, links auf L 1361, geradeaus
-        L 361, rechts auf L 362, Kreisverkehr Eisberg 2. Ausfahrt Richtung
+        Kreisverkehr 2. Ausfahrt auf K 4346 Richtung Mötzingen, nächster
+        Kreisverkehr 1. Ausfahrt Richtung L 1361, links auf L 1361, geradeaus
+        L 361, rechts auf L 362, Kreisverkehr Eisberg 2. Ausfahrt Richtung
         Herrenberg, K 1030, Kreisverkehr Emminger Straße, Kreisverkehr K 1047
-        und K 1081, Gewerbegebiet Herrenberg Zeppelin- und Daimlerstraße, B
-        14, Weiterfahrt bis Böblingen, Herrenberger Straße bis Auffahrt B 464
+        und K 1081, Gewerbegebiet Herrenberg, Zeppelin- und Daimlerstraße, B
+        14, Weiterfahrt bis Böblingen, Herrenberger Straße bis Auffahrt B 464
         in Richtung Sindelfingen, Benzstraße, Sindelfingen
 
 
 *    *
     *   Benzstraße, Sindelfingen auf B 464, Herrenberger Straße, B 14,
-        Gewerbegebiet Herrenberg Zep­pelin- und Daimlerstraße, Kreisverkehr K
-        1081 und K 1047, Kreisverkehr Emminger Straße, K 1030, L 362,
-        Kreisverkehr Eisberg 2. Ausfahrt Richtung Nagold, links auf L 361,
-        geradeaus L 1361, rechts Richtung Iselshausen zum Kreisverkehr K 4346,
-        Kreisverkehr 3. Ausfahrt auf K 4346 Iselshausen, nächster Kreisverkehr
-        1\. Ausfahrt in Graf-Zeppelin-Straße, Lise-Meitner-Straße 10, Nagold
+        Gewerbegebiet Herrenberg, Zeppelin- und Daimlerstraße, Kreisverkehr K
+        1081 und K 1047, Kreisverkehr Emminger Straße, K 1030, L 362,
+        Kreisverkehr Eisberg 2. Ausfahrt Richtung Nagold, links auf L 361,
+        geradeaus L 1361, rechts Richtung Iselshausen zum Kreisverkehr K 4346,
+        Kreisverkehr 3. Ausfahrt auf K 4346 Iselshausen, nächster Kreisverkehr
+        1\. Ausfahrt in Graf-Zeppelin-Straße, Lise-Meitner-Straße 10, Nagold
 
 
 
-**Nachgeordnetes Straßennetz Bayern:**
+
+**Nachgeordnetes Streckennetz Bayern:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen, sofern nicht anders angegeben
 
 
 *    *   B 2
 
     *   von A 9 (AS Bayreuth-Nord) über B 2, Lehengraben und Bühlstraße bis
-        Bühlstraße 5 – 7, Bindlach
+        Bühlstraße 5 – 7, 95463 Bindlach
 
 
 *    *   B 2
 
     *   von A 72 (AS Hof/Töpen) über B 2 und Thomas-Dachser-Straße bis Thomas-
-        Dachser-Straße 1, Hof
+        Dachser-Straße 1, 95030 Hof
 
 
 *    *   B 2
         WUG 18
 
-    *   von B 2, über Buchenweg, WUG 18/Jahnstraße bis Jahnstraße 18,
+    *   von B 2 über Buchenweg, WUG 18/Jahnstraße bis Jahnstraße 18, 91781
         Weißenburg
 
 
 *    *   B 2
 
     *   von B 2 (AS Gersthofen-Nord) über Messerschmittstraße, Gutenbergstraße
-        und Finkenweg bis Finkenweg 11, Gersthofen
+        und Finkenweg bis Finkenweg 11, 86368 Gersthofen
 
 
 *    *   B 2
-[^F812806_11_BJNR614410011BJNE001509119]
+[^f825743_11_BJNR614410011BJNE001510119]
         A
         5
 
     *   von B 2 (AS Gersthofen-Nord) über Kreisstraße A 5, Messerschmittstraße
-        und Einsteinring bis Einsteinring 8, Gersthofen
+        und Einsteinring bis Einsteinring 8, 86368 Gersthofen
 
 
 *    *   B 2
 
     *   von B 2 (AS Gersthofen-Nord) über Messerschmittstraße, Gutenbergstraße
-        und rechts Thyssenstraße bis Thyssenstraße 43, Gersthofen
+        und rechts Thyssenstraße bis Thyssenstraße 43, 86368 Gersthofen
 
 
 *    *   B 2
         St 2036
 
     *   von B 2 (AS Gersthofen) über St 2036, Bahnhofstraße, Dieselstraße und
-        Finkenweg bis Finkenweg 11, Gersthofen
+        Finkenweg bis Finkenweg 11, 86368 Gersthofen
 
 
 *    *   B 2
         St 2069
 
     *   von A 99 (AS Germering-Nord) über B 2, St 2069 und Holzkirchner Straße
-        bis Holzkirchner Straße 10, Eichenau
+        bis Holzkirchner Straße 10, 82223 Eichenau
 
 
 *    *   B 2
-[^F812806_12_BJNR614410011BJNE001509119]
+[^f825743_12_BJNR614410011BJNE001510119]
         HO
         1
 
     *   von A 72 (AS Hof/Töpen) über B 2, HO 1 und Tiefendorfer Straße bis
-        Tiefendorfer Straße 5, Töpen
+        Tiefendorfer Straße 5, 95183 Töpen
 
 
 *    *   B 2
         St 2380
-[^F812806_13_BJNR614410011BJNE001509119]
+[^f825743_13_BJNR614410011BJNE001510119]
         AIC
         25
 
@@ -2312,17 +2446,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 2
 
     *   von B 2 (AS Asbach-Bäumenheim) über B 16 (AS Rain-Ost) und Süd-Ost-
-        Umgehungsstraße Rain bis Donauwörther Straße 3 – 5, Rain
+        Umgehungsstraße Rain bis Donauwörther Straße 3 – 5, 86641 Rain
 
 
 *    *   B 8
         B 299
 
     *   von A 73 (AS Feucht) über B 8, B 299, Münchener Ring und Alois-
-        Senefelder-Straße bis Alois-Senefelder-Straße 5, Neumarkt i. d. OPf.
+        Senefelder-Straße bis Alois-Senefelder-Straße 5, 92318 Neumarkt i. d.
+        OPf.
 
 
-*    *   B 8
+*    *   B8
         St 2315
 
     *   von A 3 (AS Marktheidenfeld) über B 8 bis km 30, 350 der St 2315
@@ -2331,16 +2466,16 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   St 2660
 
     *   von A 3 (AS Neutraubling) über St 2145, St 2660, Straubinger Straße,
-        Osthafenstraße und Lagerstraße bis Lagerstraße 1, Regensburg
+        Osthafenstraße und Lagerstraße bis Lagerstraße 1, 93055 Regensburg
 
 
 *    *   B 8
-[^F812806_14_BJNR614410011BJNE001509119]
+[^f825743_14_BJNR614410011BJNE001510119]
         WÜ
         28
 
     *   von A 3 (AS Rottendorf) über B 8, WÜ 28, Kitzinger Straße, WÜ 28 und
-        Alte Landstraße bis Alte Landstraße 2, Gerbrunn
+        Alte Landstraße bis Alte Landstraße 2, 97218 Gerbrunn
 
 
 *    *   B 8
@@ -2351,30 +2486,31 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *   B 8
-[^F812806_15_BJNR614410011BJNE001509119]
+[^f825743_15_BJNR614410011BJNE001510119]
         R
         5
 
     *   von A 3 (AS Rosenhof) über B 8 und Kreisstraße R 5 und Schlossstraße
-        und Rosenhofer Straße bis Rosenhofer Straße 9, Neutraubling
+        und Rosenhofer Straße bis Rosenhofer Straße 9, 93073 Neutraubling
 
 
 *    *   B 8
 
     *   von A 3 (AS Rosenhof) über Ostumgehung Neutraubling, Rosenhofer Straße
-        und Oberheisinger Straße bis Oberheisinger Straße 7, Neutraubling
+        und Oberheisinger Straße bis Oberheisinger Straße 7, 93073
+        Neutraubling
 
 
 *    *   B 8
 
     *   von A 92 (AS Plattling-West) über B 8, Nicolausstraße, Robert-Bosch-
-        Straße bis Robert-Bosch-Straße 5, Plattling
+        Straße bis Robert-Bosch-Straße 5, 94447 Plattling
 
 
 *    *   B 8
 
     *   von A 92 (AS Plattling-West) über B 8, Nicolausstraße, Gottlieb-
-        Daimler-Straße bis Gottlieb-Daimler-Straße 14, Plattling
+        Daimler-Straße bis Gottlieb-Daimler-Straße 14, 94447 Plattling
 
 
 *    *   St 2145
@@ -2382,7 +2518,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 3 (AS Neutraubling) über St 2145, St 2660, Ostumgehung
         Neutraubling, Rosenhofer Straße und Oberheisinger Straße bis
-        Oberheisinger Straße 7, Neutraubling
+        Oberheisinger Straße 7, 93073 Neutraubling
 
 
 *    *   B 10
@@ -2390,7 +2526,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2021
 
     *   von A 7 (AS Nersingen) über B 10, St 2509, St 2021 und Gewerbestraße
-        bis Gewerbestraße 6a, Elchingen
+        bis Gewerbestraße 6a, 89075 Elchingen
 
 
 *    *   B 10
@@ -2398,25 +2534,25 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2021
 
     *   von A 7 (AS Nersingen) über B 10, St 2509, St 2021 und Glockeraustraße
-        bis Glockeraustraße 20, Elchingen
+        bis Glockeraustraße 20, 89075 Elchingen
 
 
 *    *   B 10
 
     *   von A 7 (AS Nersingen) über B 10, Europastraße und Otto-Hahn-Straße
-        bis Ernst-Abbe-Straße 5 – 7, Neu-Ulm
+        bis Ernst-Abbe-Straße 5 – 7, 89231 Neu-Ulm
 
 
 *    *   B 11
 
     *   von A 92 (AS Freising-Süd) über B 11 und Römerstraße bis Römerstraße
-        5, Neufahrn
+        5, 85375 Neufahrn
 
 
 *    *   B 12
 
     *   von A 96 (AS Lindau) über B 12, Bregenzer Straße bis Bregenzer Straße
-        133, Lindau
+        133, 88131 Lindau
 
 
 *    *   B 12
@@ -2426,16 +2562,16 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 7 (AS Kempten (Allgäu)) über B 12, Stephanstraße, Berliner
         Platz, Adenauerring, St 2055, Rottachstraße, St 2009, Memminger
         Straße, Stiftsbleiche und Memminger Straße bis Memminger Straße 140,
-        Kempten
+        87439 Kempten
 
 
 *    *   B 13
 
     *   von A 92 (AS Unterschleißheim) über B 13 und Franz-Lehner-Straße bis
-        Franz-Lehner-Straße 11, Unterschleißheim
+        Franz-Lehner-Straße 11, 85716 Unterschleißheim
 
 
-*    *   B 13
+*    *   B13
         St 2342
 
     *   von A 92 (AS Unterschleißheim) über B 13, St 2342 (Landshuter Straße)
@@ -2452,40 +2588,30 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 14
 
     *   von A 93 (AS Wernberg-Köblitz) über B 14 und Klaus-Conrad-Straße bis
-        Klaus-Conrad-Straße 2, Wernberg
+        Klaus-Conrad-Straße 2, 92533 Wernberg
 
 
 *    *   B 14
-        St 1066
-
-    *   von A 6 (AS Aurach) über B 14 und St 1066 bis Steinauer Weg 7, Aurach
-
-
-*    *   B 14
-        St 1066
-
-    *   von A 6 (AS Aurach) über B 14 und St 1066 bis Steinauer Weg 383,
-        Autohof
-
-
-*    *   B 14
+        B 13
         St 2410
+        St 1066
 
-    *   von A 6 (AS Neuendettelsau) über St 2410 und B 14 bis A 6 (AS Aurach)
+    *   von A 6 (AS Neuendettelsau) über St 2410, B 14, B 13 und St 1066 bis A
+        6 (AS Aurach)
 
 
 *    *   B 14
         St 2240
 
     *   von A 9 (AS Lauf) über B 14, St 2240, Laufer Straße und
-        Industriestraße bis Industriestraße 22, Leinburg-Diepersdorf
+        Industriestraße bis Industriestraße 22, 91227 Leinburg-Diepersdorf
 
 
 *    *   B 14
         St 2240
 
     *   von A 9 (AS Lauf) über B 14, St 2240, Laufer Straße, Industriestraße
-        und Reichswaldstraße und Vogelherdstraße bis Vogelherdstraße 6,
+        und Reichswaldstraße und Vogelherdstraße bis Vogelherdstraße 6, 91227
         Leinburg-Diepersdorf
 
 
@@ -2493,52 +2619,53 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2240
 
     *   von A 9 (AS Lauf) über B 14, St 2240, Laufer Straße, Industriestraße
-        und Reichswaldstraße bis Reichswaldstraße 6, Leinburg-Diepersdorf
+        und Reichswaldstraße bis Reichswaldstraße 6, 91227 Leinburg-
+        Diepersdorf
 
 
 *    *   B 14
-[^F812806_16_BJNR614410011BJNE001509119]
+[^f825743_16_BJNR614410011BJNE001510119]
         LAU
         7
 
     *   von A 9 (AS Lauf a. d. Pegnitz) über B 14, LAU 7 und Industriestraße
-        bis Industriestraße 28, Lauf an der Pegnitz
+        bis Industriestraße 28, 91207 Lauf an der Pegnitz
 
 
 *    *   B 14
 
     *   von A 9 (AS Lauf a. d. Pegnitz) über B 14 und Oskar-Sembach-Ring bis
-        Oskar-Sembach-Ring 1, Lauf an der Pegnitz
+        Oskar-Sembach-Ring 1, 91207 Lauf an der Pegnitz
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Max-Planck-Straße und
-        Leibnizstraße bis Leibnizstraße 8, Regensburg
+        Leibnizstraße bis Leibnizstraße 8, 93055 Regensburg
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Leibnizstraße, Max-Planck-
-        Straße und Junkerstraße bis Junkerstraße 7, Regensburg
+        Straße und Junkerstraße bis Junkerstraße 7, 93055 Regensburg
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Leibnizstraße, Max-Planck-
-        Straße und Herbert-Quandt-Allee bis BMW AG, Regensburg
+        Straße und Herbert-Quandt-Allee bis BMW AG, 93055 Regensburg
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Leibnizstraße, Max-Planck-
-        Straße und Junkerstraße bis Junkerstraße 10 und 14, Regensburg
+        Straße und Junkerstraße bis Junkerstraße 10 und 14, 93055 Regensburg
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Leibnizstraße, Max-Planck-
-        Straße und Burgweintinger Straße bis Burgweintinger Straße 31,
+        Straße und Burgweintinger Straße bis Burgweintinger Straße 31, 93055
         Regensburg
 
 
@@ -2546,49 +2673,43 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 9 (AS Hof-West) über B 15, Kulmbacher Straße, Jahnstraße, Ernst-
         Reuter-Straße, Wunsiedler Straße und Hans-Böckler-Straße bis
-        Güterverkehrszentrum Hof, Am Güterbahnhof 10, Hof
+        Güterverkehrszentrum Hof, Am Güterbahnhof 10, 95032 Hof
 
 
 *    *   B 15
 
     *   von A 93 (AS Hof-Süd) über B 15, Ernst-Reuter-Straße, Wunsiedler
-        Straße und Hans-Böckler-Straße bis zum Güterverkehrszentrum Hof, Am
+        Straße und Hans-Böckler-Straße bis Güterverkehrszentrum Hof, Am
         Güterbahnhof 10, 95032 Hof
 
 
 *    *   B 15
 
-    *   von A 93 (AS Reischenhart) über B 15 und Kufsteiner Straße bis
-        Kufsteiner Straße 100, Raubling
-
-
-*    *   B 15
-
-    *   von Regensburg, Max-Planck-Straße über B 15 und Burgweintinger Straße
-        bis Burgweintinger Straße 31, Regensburg
+    *   von 93055 Regensburg, Max-Planck-Straße über B 15 und Burgweintinger
+        Straße bis Burgweintinger Straße 31, 93055 Regensburg
 
 
 *    *   B 15
         B 299
 
     *   von B 15 (Äußere Regensburger Straße), Landshut, über B 299 und
-        Landshuter Straße bis Landshuter Straße 100, Vilsbiburg
+        Landshuter Straße bis Landshuter Straße 100, 84137 Vilsbiburg
 
 
 *    *   B 15
-[^F812806_17_BJNR614410011BJNE001509119]
+[^f825743_17_BJNR614410011BJNE001510119]
         SAD
         5
 
     *   von A 93 (AS Ponholz) über B 15, SAD 5, Obagstraße, Regensburger
-        Straße bis Regensburger Straße 101, Maxhütte-Deglhof
+        Straße bis Regensburger Straße 101, 93142 Maxhütte-Deglhof
 
 
 *    *   B 15
         St 2111
 
     *   von A 3 (AS Regensburg-Ost) über Leibnizstraße und B 15 und Max-
-        Planck-Straße bis Höhe Werkszufahrt, Tor 4, Regensburg
+        Planck-Straße bis Höhe Werkszufahrt, Tor 4, 93055 Regensburg
 
 
 *    *   B 15
@@ -2596,7 +2717,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 92 (AS Landshut-Essenbach) über B 15, Neue Regensburger Straße,
         B 299, Siemensstraße, Neidenburger Straße und Ohmstraße bis Ohmstraße
-        2, Landshut
+        2, 84030 Landshut
 
 
 *    *   B 15n
@@ -2607,13 +2728,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 12
         B 16
-[^F812806_18_BJNR614410011BJNE001509119]
+[^f825743_18_BJNR614410011BJNE001510119]
         OAL
         5
 
     *   von A 96 (AS Jengen/Kaufbeuren) bis AS Altdorf über B 16, OAL 5,
         Dietweg und Gewerbepark bis Gewerbepark 2 und OAL 5, B 16 und Füssener
-        Straße bis Füssener Straße 1, Biessenhofen
+        Straße bis Füssener Straße 1, 87640 Biessenhofen
 
 
 *    *   B 12
@@ -2621,7 +2742,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         OAL 10
 
     *   von A 96 (AS Jengen/Kaufbeuren) über B 12 bis AS Geisenried weiter auf
-        OAL 10, OAL 7 und Weitfeldstraße bis Gebrüder-Rösle-Straße,
+        OAL 10, OAL 7 und Weitfeldstraße bis Gebrüder-Rösle-Straße, 87616
         Marktoberdorf
 
 
@@ -2630,14 +2751,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         OAL 5
 
     *   von A 7 (AS Kempten) über B 12, B 16, OAL 5, Dietweg und Gewerbepark
-        bis Gewerbepark 2, Biessenhofen
+        bis Gewerbepark 2, 87640 Biessenhofen
 
 
 *    *   B 12
         B 472
 
     *   von B 12 (AS Marktoberdorf-West) über B 472 und Röntgenring bis
-        Röntgenring 2, Marktoberdorf
+        Röntgenring 2, 87616 Marktoberdorf
 
 
 *    *   B 12
@@ -2646,43 +2767,43 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         OAL 10
 
     *   von A 7 (AS Kempten) über B 12, B 472, OAL 10, OAL 7, Weitfeldstraße
-        und Micheletalweg bis Johann-Georg-Fendt-Straße, Marktoberdorf
+        und Micheletalweg bis Johann-Georg-Fendt-Straße, 87616 Marktoberdorf
 
 
 *    *   B 13
         B 300
 
     *   von A 9 (AS Langenbruck) über B 300, B 13, B 300, Augsburger Straße
-        und Industriestraße bis Industriestraße 2, Aichach
+        und Industriestraße bis Industriestraße 2, 86573 Aichach
 
 
 *    *   B 13
 
     *   von A 3 (AS Würzburg-Randersacker) über B 13, Anschluss Eibelstadt,
-        Brückenstraße, Mainparkring bis Mainparkring 3, Eibelstadt
+        Brückenstraße, Mainparkring bis Mainparkring 3, 97246 Eibelstadt
 
 
 *    *   B 15
 
     *   von A 9 (AS Hof-West) über B 15, Kulmbacher Straße, Am Kulm und
-        Fuhrmannstraße bis Fuhrmannstraße 8, Hof/Saale
+        Fuhrmannstraße bis Fuhrmannstraße 8, 95030 Hof/Saale
 
 
 *    *   B 15
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Max-Planck-Straße, Osttangente,
-        Äußere Wiener Straße bis Äußere Wiener Straße 11, Regensburg
+        Äußere Wiener Straße bis Äußere Wiener Straße 11, 93055 Regensburg
 
 
 *    *   B 15
         B 299
-[^F812806_19_BJNR614410011BJNE001509119]
+[^f825743_19_BJNR614410011BJNE001510119]
         TIR
         5
         TIR 7
 
     *   von A 93 (AS Mitterteich-Süd) über B 299, B 15, TIR 5, TIR 7 und
-        Liebenstein bis Liebenstein 15, Plößberg
+        Liebenstein bis Liebenstein 15, 95703 Plößberg
 
 
 *    *   B 15
@@ -2696,8 +2817,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2145
 
     *   von A 3 (AS Regensburg-Ost) über B 15, Leibnizstraße, Max-Planck-
-        Straße, B 15, St 2145, Walhallastraße, Herbert-Quandt-Allee bis
-        Herbert-Quandt-Allee, 93055 Regensburg
+        Straße, B 15, St 2145, Walhallastraße bis einschließlich Herbert-
+        Quandt-Allee, 93055 Regensburg
 
 
 *    *   B 15
@@ -2711,8 +2832,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 16
 
     *   von A 9 (AS Manching) über B 16, AS Gewerbepark Geisenfeld/Ilmendorf,
-        Germanenstraße, Keltenstraße und Bajuwarenstraße bis Bajuwarenstraße
-        4, 85290 Geisenfeld
+        Keltenstraße bis Keltenstraße 3, 85290 Geisenfeld
 
 
 *    *   B 16
@@ -2725,52 +2845,60 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 16
 
     *   von A 9 (AS Manching) über B 16, AS Gewerbepark Geisenfeld/Ilmendorf,
-        Germanenstraße und Römerstraße bis Römerstraße, 85290 Geisenfeld
+        Germanenstraße und Römerstraße bis Römerstraße 2, 85290 Geisenfeld
 
 
 *    *   B 16
 
     *   von A 93 (AS Regensburg-Nord) über B 16, Chamer Straße und Vilsecker
-        Straße bis Vilsecker Straße 2, Regensburg
+        Straße bis Vilsecker Straße 2, 93057 Regensburg
 
 
 *    *   B 16
-[^F812806_20_BJNR614410011BJNE001509119]
+[^f825743_20_BJNR614410011BJNE001510119]
         Rs
         6
 
-    *   von Vilsecker Straße 2, Regensburg, über Rs 6, Coburger Straße,
-        Weidener Straße und B 16 bis A 93 (AS Regensburg-Nord)
+    *   von Vilsecker Straße 2, 93057 Regensburg, über Rs 6, Coburger Straße,
+        Weidener Straße und B 16 bis A 93 (AS Regensburg-Nord)
 
 
 *    *   B 16
 
     *   von Anschluss B 12/B 16 über Gewerbestraße und Nordstraße bis
-        Nordstraße 20, Marktoberdorf
+        Nordstraße 20, 87616 Marktoberdorf
 
 
 *    *   B 16
         B 299
 
     *   von A 93 (AS Siegenburg) über B 299, B 16 und Umbertshausener Weg bis
-        Umbertshausener Weg 7, Neustadt an der Donau
+        Umbertshausener Weg 7, 93333 Neustadt an der Donau
 
 
 *    *   B 16
         B 299
 
-    *   von Raffineriestraße 120, Neustadt an der Donau, über
+    *   von A 9 (AS Manching) über B 16, B 299 und Raffineriestraße bis
+        Raffineriestraße 120, 93333 Neustadt an der Donau
+
+
+*    *   B 16
+        B 299
+
+    *   von Raffineriestraße 120, 93333 Neustadt an der Donau, über
         Raffineriestraße, B 16, B 299 und Umbertshausener Weg bis
-        Umbertshausener Weg 7, Neustadt an der Donau
+        Umbertshausener Weg 7, 93333 Neustadt an der Donau
 
 
 *    *   B 16
         B 299
         St 2043
+        St 2232
 
-    *   von Neuburg an der Donau, Ruhrstraße 13 über Ruhrstraße, Grünauer
-        Straße, St 2043, B 16, B 299 und Riedenburger Straße bis Riedenburger
-        Straße 25, Pförring
+    *   von 86633 Neuburg an der Donau, Ruhrstraße 13 über Ruhrstraße,
+        Grünauer Straße, St 2043, B 16, B 299, St 2232 und Riedenburger Straße
+        bis Riedenburger Straße 25, 85104 Pförring
 
 
 *    *   B 16
@@ -2778,68 +2906,72 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 9 (AS Manching) über B 16, St 2035 und Augsburger Straße bis
         Industriegebiet Augsburger Straße und weiter über Augsburger Straße
-        bis Augsburger Straße 113, Neuburg an der Donau
+        bis Augsburger Straße 113, 86633 Neuburg an der Donau
 
 
 *    *   B 16
-        St 2043
-
-    *   von A 9 (AS Manching) über B 16, St 2043, Grünauer Straße und
-        Ruhrstraße bis Ruhrstraße 13, Neuburg an der Donau
-
-
-*    *   B 16
-[^F812806_21_BJNR614410011BJNE001509119]
+[^f825743_21_BJNR614410011BJNE001510119]
         ND
         18
 
     *   von B 16 (AS Weichering/Osterfeldsiedlung) über ND 18 und
-        Glockenbecherstraße bis Glockenbecherstraße 1 – 7, Weichering
+        Glockenbecherstraße bis Glockenbecherstraße 1 – 7, 86706 Weichering
 
 
 *    *   B 16
 
     *   von A 9 (AS Manching) über B 16 und Umbertshausener Weg bis
-        Umbertshausener Weg 7, Neustadt an der Donau
+        Umbertshausener Weg 7, 93333 Neustadt an der Donau
 
 
 *    *   B 16
 
     *   von A 8 (AS Günzburg) über B 16 (bis AS Gewerbegebiet Donauried),
-        Lochfelbenstraße, Max-Planck-Straße bis Max-Planck-Straße 7, Günzburg
+        Lochfelbenstraße, Max-Planck-Straße bis Max-Planck-Straße 7, 89312
+        Günzburg
 
 
 *    *   B 16a
 
-    *   von A 9 (AS Ingolstadt-Nord) über Römerstraße, B 16a, Limesstraße und
-        Akeleistraße bis Akeleistraße, Ingolstadt
+    *   von A 9 (AS Ingolstadt-Nord) über Römerstraße, B 16a, Limesstraße bis
+        einschließlich Akeleistraße, 85055 Ingolstadt
 
 
 *    *   B 16a
-[^F812806_22_BJNR614410011BJNE001509119]
+        St 2231
+[^f825743_22_BJNR614410011BJNE001510119]
         EI
         39
 
-    *   von A 9 (AS Ingolstadt-Nord) über B 16a, EI 39, Dieselstraße und
-        Gutenbergstraße bis Gutenbergstraße, Großmehring
+    *   von A 9 (AS Ingolstadt-Nord) über B 16a, EI 39, St 2231, Dieselstraße
+        bis einschließlich Gutenbergstraße, 85098 Großmehring
+
+
+*    *   B 16a
+        St 2231
+        EI 39
+
+    *   von A 9 (AS Ingolstadt-Nord) über B 16a, EI 39, St 2231,
+        Einsteinstraße bis einschließlich Gutenbergstraße 11, 85098
+        Großmehring
 
 
 *    *   B 17
 
     *   von A 8 (AS Augsburg-West) über B 17 und B 17, AS Stuttgarter Straße
-        und Otto-Hahn-Straße bis Welserstraße 6, Gersthofen
+        und Otto-Hahn-Straße bis Welserstraße 6, 86368 Gersthofen
 
 
 *    *   B 19
 
     *   von A 7 (AS Kempten-Leubas) über B 19, Kaufbeurer Straße und
-        Dieselstraße bis Dieselstraße 18, Kempten
+        Dieselstraße bis Dieselstraße 18, 87437 Kempten
 
 
 *    *   B 19
 
     *   von A 7 (AS Würzburg/Estenfeld) über B 19, Anschluss Gewerbegebiet
-        Wachtelberg, Wachtelberg bis Wachtelberg 19, Kürnach
+        Wachtelberg, Wachtelberg bis Wachtelberg 19, 97273 Kürnach
 
 
 *    *   B 19
@@ -2847,23 +2979,23 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         WÜ 26
 
     *   von A 7 (AS Würzburg/Estenfeld) über B 19, St 2260, WÜ 26 und
-        Industriepark bis Industrie­park 7 – 11, Kürnach
+        Industriepark bis Industriepark 7 – 11, 97273 Kürnach
 
 
 *    *   B 19
 
     *   von A 7 (AS Kempten-Leubas) über B 19, Kaufbeurer Straße,
         Dieselstraße, Ursulasrieder Straße und ab Kreuzung mit Dieselstraße
-        und Holzbachweg bis Ursulasrieder Straße 2, Kempten
+        und Holzbachweg bis Ursulasrieder Straße 2, 87437 Kempten
 
 
 *    *   B 20
 
-    *[^F812806_23_BJNR614410011BJNE001509119]
+    *[^f825743_23_BJNR614410011BJNE001510119]
    von A 3 (AS Straubing) über B 20 AS Straubing-Ost und über Ittlinger
         Straße, SR
         19, Borsigstraße und Schlesische Straße bis Schlesische Straße 225,
-        Straubing
+        94315 Straubing
 
 
 *    *   B 20
@@ -2874,16 +3006,16 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 20
 
     *   von A 94 (AS Burghausen) über B 20 und Burgkirchener Straße bis
-        Burgkirchener Straße 1, Burghausen
+        Burgkirchener Straße 1, 84489 Burghausen
 
 
 *    *   B 20
-[^F812806_24_BJNR614410011BJNE001509119]
+[^f825743_24_BJNR614410011BJNE001510119]
         DGF
         3
 
     *   von A 92 (AS Landau an der Isar) über B 20, DGF 3 und AS Wiesenweg bis
-        Wiesenweg 10, Landau an der Isar
+        Wiesenweg 10, 94405 Landau an der Isar
 
 
 *    *   B 20
@@ -2891,7 +3023,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 92 (AS Landau an der Isar) über B 20, DGF 3, rechts Wiesenweg
         und Röntgenstraße bis Röntgenstraße 1, Landau an der Isar, oder über B
-        20, DGF 3, links Röntgenstraße bis Röntgenstraße 1, Landau an der Isar
+        20, DGF 3, links Röntgenstraße bis Röntgenstraße 1, 94405 Landau an
+        der Isar
 
 
 *    *   B 20
@@ -2900,7 +3033,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 94 (AS Neuötting) über B 588 und B 20 bis AS Straubing-Ost und
         SR 19, Ittlinger Straße, Borsigstraße und Schlesische Straße bis
-        Schlesische Straße 225, Straubing
+        Schlesische Straße 225, 94315 Straubing
 
 
 *    *   B 20
@@ -2908,54 +3041,54 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 92 (AS Landau an der Isar) über B 20 und AS Straubing-Ost über
         SR 19, Ittlinger Straße, Borsigstraße und Schlesische Straße bis
-        Schlesische Straße 225, Straubing
+        Schlesische Straße 225, 94315 Straubing
 
 
 *    *   B 22
 
     *   von A 73 (AS Bamberg-Süd) über B 22, Strullendorfer Straße und
-        Gutenbergstraße bis Gutenbergstraße 24, Bamberg
+        Gutenbergstraße bis Gutenbergstraße 24, 96050 Bamberg
 
 
 *    *   B 22
         B 505
 
     *   von A 3 (AS Pommersfelden) über B 505, B 22 und Gutenbergstraße bis
-        Gutenbergstraße 24, Bamberg
+        Gutenbergstraße 24, 96050 Bamberg
 
 
 *    *   B 25
 
     *   von A 6 (AS Feuchtwangen-Nord) über B 25 und Industriestraße bis
-        Industriestraße 2, Feuchtwangen
+        Industriestraße 2, 91555 Feuchtwangen
 
 
 *    *   B 26
 
     *   von A 70 (AS Bamberg-Hafen) über B 26, Hafenstraße und Rheinstraße bis
-        Rheinstraße 23, Bamberg
+        Rheinstraße 23, 96052 Bamberg
 
 
 *    *   B 26
 
     *   von A 70 (AS Bamberg-Hafen) über B 26, Hafenstraße und Regnitzstraße
-        bis Regnitzstraße 18b, Bamberg
+        bis Regnitzstraße 18b, 96052 Bamberg
 
 
 *    *   B 26
 
     *   von A 3 (AS Aschaffenburg-Ost) über B 26, Schönbornstraße,
-        Weichertstraße und Auhofstraße bis Auhofstraße 25, Aschaffenburg
+        Weichertstraße und Auhofstraße bis Auhofstraße 25, 63741 Aschaffenburg
 
 
 *    *   B 26
         B 469
-[^F812806_25_BJNR614410011BJNE001509119]
+[^f825743_25_BJNR614410011BJNE001510119]
         AB
         8
 
     *   von A 3 (AS Stockstadt) über B 469, B 26, AB 8, Am Trieb, Ostring und
-        Nordring bis Nordring 1, Großostheim
+        Nordring bis Nordring 1, 63762 Großostheim
 
 
 *    *   B 26
@@ -2963,7 +3096,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         AB 16
 
     *   von A 3 (AS Stockstadt) über B 469, B 26, AB 16 und Obernburger Straße
-        bis Obernburger Straße 45, Aschaffenburg
+        bis Obernburger Straße 45, 63741 Aschaffenburg
 
 
 *    *   B 469
@@ -2979,7 +3112,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         AB 16
 
     *   von A 3 (AS Stockstadt) über B 469, B 26, AB 16, Obernburger Straße,
-        St 3115 und Wailandtstraße bis Wailandtstraße, Aschaffenburg
+        St 3115 und Wailandtstraße bis rückwärtige Zufahrt zum Depotgelände
+        Obernburger Straße 45, 63741 Aschaffenburg
 
 
 *    *   B 26
@@ -2987,27 +3121,27 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         AB 16
 
     *   von A 3 (AS Stockstadt) über B 469, B 26, AB 16 und Schippnerstraße
-        bis Schippnerstraße 2, Aschaffenburg
+        bis Schippnerstraße 2, 63741 Aschaffenburg
 
 
 *    *   St 2313
 
     *   von B 469 Ausfahrt Niedernberg über St 2313 und Depotstraße bis
-        Depotstraße 1, Niedernberg
+        Depotstraße 1, 63843 Niedernberg
 
 
 *    *   St 2313
         MIL 38
 
     *   von B 469 Ausfahrt Niedernberg über St 2313, MIL 38, Boschstraße und
-        Nordring bis Boschstraße 7, 63843 Niedernberg
+        Nordring bis Boschstraße 7, 63843 Niedernberg
 
 
 *    *   B 85
 
     *   von A 93 (AS Schwandorf-Mitte) über B 85, Industriestraße,
         Altenschwander Straße und Oskar-von-Miller-Straße bis Oskar-von-
-        Miller-Straße 9, Wackersdorf
+        Miller-Straße 9, 92442 Wackersdorf
 
 
 *    *   B 85
@@ -3022,12 +3156,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2209
 
     *   von A 9 (AS Naila/Selbitz) über B 173, B 85, St 2209, Rennsteigstraße,
-        Otto-Wiegand-Straße bis Otto-Wiegand-Straße 9, Steinbach am Wald
+        Otto-Wiegand-Straße bis Otto-Wiegand-Straße 9, 96361 Steinbach am Wald
 
 
 *    *   B 85
         B 299
-[^F812806_26_BJNR614410011BJNE001509119]
+[^f825743_26_BJNR614410011BJNE001510119]
         AS
         35
         St 2040
@@ -3035,7 +3169,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 6 (AS Amberg-West) über B 299, B 85, Anschluss
         Maxhütte/ATZ/Gründerzentrum, AS 35, Europastraße, St 2040, Lohestraße,
         Industriestraße, Ludwig-Erhard-Straße bis Ludwig-Erhard-Straße 12,
-        Sulzbach-Rosenberg
+        92237 Sulzbach-Rosenberg
 
 
 *    *   B 85
@@ -3044,7 +3178,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 6 (AS Sulzbach-Rosenberg) über St 2164, B 85, AS 35,
         Europastraße, St 2040, Lohestraße, Industriestraße, Ludwig-Erhard-
-        Straße bis Ludwig-Erhard-Straße 12, Sulzbach-Rosenberg
+        Straße bis Ludwig-Erhard-Straße 12, 92237 Sulzbach-Rosenberg
 
 
 *    *   B 85
@@ -3053,21 +3187,22 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         SAD 14
 
     *   von A 93 (AS Schwandorf-Mitte) über B 85, SAD 14, St 2398, St 2151 und
-        Industriestraße bis Industriestraße 11, Neunburg vorm Wald
+        Industriestraße bis Industriestraße 11, 92431 Neunburg vorm Wald
 
 
 *    *   B 173
 
     *   von A 9 (AS Naila/Selbitz) über B 173, Kronacher Straße und Am
-        Kalkofen bis Am Kalkofen 4, Naila
+        Kalkofen bis Am Kalkofen 4, 95119 Naila
 
 
 *    *   B 173
         St 2197
 
     *   von A 73 (AS Lichtenfels-Süd) über B 173, St 2197, Bamberger Straße,
-        Reundorfer Straße bis auf Höhe Rudolf-Diesel-Straße zu Rudolf-Diesel-
-        Straße, Lichtenfels
+        Reundorfer Straße bis auf Höhe der 1. oder 2. Einmündung Rudolf-
+        Diesel-Straße und einschließlich Rudolf-Diesel-Straße, 96215
+        Lichtenfels
 
 
 *    *   B 279
@@ -3075,8 +3210,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 71 (AS Bad Neustadt an der Saale) über B 279, St 2292 und
         Besengaustraße bis Besengaustraße 19 und weiter über Industriestraße
-        und Rudolf-Diesel-Ring bis Rudolf-Diesel-Ring 24, Bad Neustadt an der
-        Saale
+        und Rudolf-Diesel-Ring bis Rudolf-Diesel-Ring 24, 97616 Bad Neustadt
+        an der Saale
 
 
 *    *   B 279
@@ -3089,7 +3224,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 286
         St 2272
-[^F812806_27_BJNR614410011BJNE001509119]
+[^f825743_27_BJNR614410011BJNE001510119]
         SW
         3
 
@@ -3110,87 +3245,98 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 286
 
     *   von A 7 (AS Bad Brückenau/Wildflecken) über B 286, Milzbachstraße, Im
-        Baumgarten und Märzgrund bis Im Baumgarten, Schondra
+        Baumgarten und Märzgrund bis Im Baumgarten, 97795 Schondra
 
 
 *    *   B 287
-[^F812806_28_BJNR614410011BJNE001509119]
+[^f825743_28_BJNR614410011BJNE001510119]
         KG
         37
 
     *   von A 7 (AS Hammelburg) über B 287, KG 37 und Frankenstraße bis
-        Frankenstraße 7 – 9, Hammelburg
+        Frankenstraße 7 – 9, 97762 Hammelburg
 
 
 *    *   B 289
         B 4
 
     *   von A 73 (AS Untersiemau, jeweils nur aus und in Richtung
-        Süden/Nürnberg) über B 289, B 4, Fabrikweg und Creidlitzer Straße bis
-        Creidlitzer Straße 140, Coburg
+        Süden/Nürnberg) über B 289, B 4, Fabrikweg und Creidlitzer Straße bis
+        Creidlitzer Straße 140, 96450 Coburg
+
+
+*    *   B 289
+        B 4
+        B 303
+[^f825743_29_BJNR614410011BJNE001510119]
+        CO 13 neu
+
+    *   von A 73 (AS Untersiemau) über B 289, B 4 bis AS Niederfüllbach, B
+        303, CO 13 neu, Kreisverkehrsplatz Abzweig Friesendorfer Straße bis
+        Friesendorfer Straße 4, 96237 Ebersdorf b. Coburg
 
 
 *    *   B 289
         HO 43
 
     *   von A 93 (AS Rehau-Süd) über B 289, HO 43, Christian-Heinrich-Sandler-
-        Straße bis Lamitzmühle 1, Schwarzenbach an der Saale
+        Straße bis Lamitzmühle 1, 95126 Schwarzenbach an der Saale
 
 
 *    *   B 299
         B 8
 
     *   von A 3 (AS Neumarkt i. d. OPf.) über B 299, Münchener Ring bis
-        Münchener Ring 1, Neumarkt i.d. OPf.
+        Münchener Ring 1, 92318 Neumarkt i. d. OPf.
 
 
 *    *   B 299
-[^F812806_29_BJNR614410011BJNE001509119]
+[^f825743_30_BJNR614410011BJNE001510119]
         LA
         26
-[^F812806_30_BJNR614410011BJNE001509119]
+[^f825743_31_BJNR614410011BJNE001510119]
         LA
         26
 
     *   von A 92 (AS Altdorf) über B 299, LA 26, LAs 26, Am Hascherkeller,
-        Altdorfer Straße bis Altdorfer Straße 10, Landshut
+        Altdorfer Straße bis Altdorfer Straße 10, 84030 Landshut
 
 
 *    *   B 299
         St 2550
-[^F812806_31_BJNR614410011BJNE001509119]
+[^f825743_32_BJNR614410011BJNE001510119]
         AÖ
         35
 
     *   von A 94 (AS Altötting) über AÖ 35, B 299, St 2550, Altöttinger Straße
         und Menninger Straße/Felix-Wankel-Straße bis Menninger Straße 1/Felix-
-        Wankel-Straße 1, Weiding
+        Wankel-Straße 1, 84570 Weiding
 
 
 *    *   B 299
 
     *   von A 92 (AS Landshut-Nord) über B 299, Siemensstraße, Neidenburger
-        Straße und Ohmstraße bis Ohmstraße 2, Landshut
+        Straße und Ohmstraße bis Ohmstraße 2, 84030 Landshut
 
 
 *    *   B 300
 
     *   von A 8 (AS Dasing) über Augsburger Straße und Industriestraße bis
-        Industriestraße 2, Aichach
+        Industriestraße 2, 86551 Aichach
 
 
 *    *   B 300
 
     *   von A 96 (AS Memmingen-Nord) über B 300, Europastraße, Teramostraße
-        und Karatasstraße bis Karatasstraße 6, Memmingen
+        und Karatasstraße bis Karatasstraße 6, 87700 Memmingen
 
 
 *    *   B 300
         St 2023
         A 2
 
-    *   von Edelstetter Straße 39, Thannhausen, über St 2023, B 300,
-        Kreisstraße A 2 und Zollerstraße bis Zollerstraße 7, Aretsried
+    *   von Edelstetter Straße 39, 86470 Thannhausen, über St 2023, B 300,
+        Kreisstraße A 2 und Zollerstraße bis Zollerstraße 7, 86850 Aretsried
 
 
 *    *   AIC 2
@@ -3203,50 +3349,94 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 301
         St 2350
-[^F812806_32_BJNR614410011BJNE001509119]
+[^f825743_33_BJNR614410011BJNE001510119]
         FS
         13
 
     *   von A 92 (AS Freising-Ost) über B 301, St 2350, FS 13, rechts in
-        Alfred-Kühne-Straße bis Alfred-Kühne-Straße 1 und 20, Langenbach, bzw.
-        links in Am Logistikpark bis Am Logistikpark 1, Langenbach
+        Alfred-Kühne-Straße bis Alfred-Kühne-Straße 1 und 20, 85416
+        Langenbach, bzw. links in Am Logistikpark bis Am Logistikpark 1, 85416
+        Langenbach
+
+
+*    *   B 301
+
+    *   von St 2584 (AS Hallbergmoos, Auffahrt B 301) über B 301 (Ismaninger
+        Straße), Ludwigstraße in Lindberghstraße, 85399 Hallbergmoos und
+        zurück auf Ludwigstraße in Richtung Westen
+
+
+*    *   B 303
+        CO 13 neu
+
+    *   von A 73 (AS Ebersdorf b. Coburg) aus Fahrtrichtung Suhl über B 303,
+        CO 13 neu, Kreisverkehrsplatz Abzweig Friesendorfer Straße bis
+        Friesendorfer Straße 4, 96237 Ebersdorf b. Coburg (nur in
+        beschriebener Fahrtrichtung)
+
+
+*    *   B 303
+        CO 13 neu
+
+    *   von Friesendorfer Straße 4, 96237 Ebersdorf b. Coburg, Friesendorfer
+        Straße bis Kreisverkehrsplatz Abzweig CO 13 neu, CO 13 neu, B 303 bis
+        A 73 (AS Ebersdorf b. Coburg) in Fahrtrichtung Suhl (nur in
+        beschriebener Fahrtrichtung)
+
+
+*    *   B 303
+        CO 13 neu
+
+    *   von A 73 (AS Ebersdorf b. Coburg) aus Fahrtrichtung Bamberg über B
+        303, CO 13 neu, Kreisverkehrsplatz Abzweig Friesendorfer Straße bis
+        Friesendorfer Straße 4, 96237 Ebersdorf b. Coburg (nur in
+        beschriebener Fahrtrichtung)
+
+
+*    *   B 303
+        CO 13 neu
+
+    *   von Friesendorfer Straße 4, 96237 Ebersdorf b. Coburg, Friesendorfer
+        Straße bis Kreisverkehrsplatz Abzweig CO 13 neu, CO 13 neu, B 303 bis
+        A 73 (AS Ebersdorf b. Coburg) in Fahrtrichtung Bamberg (nur in
+        beschriebener Fahrtrichtung)
 
 
 *    *   B 303
 
     *   von A 93 (AS Marktredwitz-Nord) über Klepperstraße bis Klepperstraße
-        2, Marktredwitz
+        2, 95615 Marktredwitz
 
 
 *    *   B 303
-[^F812806_33_BJNR614410011BJNE001509119]
+[^f825743_34_BJNR614410011BJNE001510119]
         WUN
         8
 
     *   von A 93 (AS Marktredwitz-Nord) über B 303, WUN 8 und Gewerbering bis
-        Gewerbering 8, Arzberg
+        Gewerbering 8, 95659 Arzberg
 
 
 *    *   B 304
 
     *   von A 99 (AS München-Ludwigsfeld) über B 304, Dachauer Straße bis
-        Dachauer Straße 667, München
+        Dachauer Straße 667, 80995 München
 
 
 *    *   B 469
-[^F812806_34_BJNR614410011BJNE001509119]
+[^f825743_35_BJNR614410011BJNE001510119]
         MIL
         29
 
     *   von A 3 (AS Stockstadt) über B 469, AS Großwallstadt, MIL 29,
         Großostheimer Straße, Einsteinstraße und Industriering bis
-        Industriering 1, Großwallstadt
+        Industriering 1, 63868 Großwallstadt
 
 
 *    *   B 471
 
     *   von A 8 (AS Dachau/Fürstenfeldbruck) über B 471, Fürstenfelder Straße,
-        Neuriesstraße und Gadastraße bis Gadastraße 25f, Bergkirchen
+        Neuriesstraße und Gadastraße bis Gadastraße 25f, 85232 Bergkirchen
 
 
 *    *   B 471
@@ -3267,7 +3457,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         St 2063
 
     *   von Kreuzung der B 471 mit St 2063 über St 2063, Bajuwarenstraße und
-        Dr.-Ernst-Zimmermann-Allee bis Dr.-Ernst-Zimmermann-Allee 5, Karlsfeld
+        Dr.-Ernst-Zimmermann-Allee bis Dr.-Ernst-Zimmermann-Allee 5, 85757
+        Karlsfeld
 
 
 *    *   B 505
@@ -3277,12 +3468,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 512
         St 2110
-[^F812806_35_BJNR614410011BJNE001509119]
+[^f825743_36_BJNR614410011BJNE001510119]
         PA
         7
 
     *   von A 3 (AS Pocking) über B 512, St 2110, PA 7 und Gewerbepark bis
-        Gewerbepark 10, Ruhstorf
+        Gewerbepark 10, 94099 Ruhstorf an der Rott
+
+
+*    *   B 512
+        St 2110
+        PA 7
+
+    *   von A 3 (AS Pocking) über B 512, St 2110, PA 7 und Gewerbegebiet
+        Hartham bis Hartham 5, 94152 Neuhaus am Inn
 
 
 *    *   St 1066
@@ -3292,29 +3491,34 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Straße) und Landersfeld bis Landersfeld 103, 91555 Feuchtwangen
 
 
+*    *   St 1066
+
+    *   von A 6 (AS Aurach) über St 1066 bis Steinauer Weg 7, 91589 Aurach
+
+
 *    *   St 2021
 
     *   von A 8 (AS Oberelchingen) über Hauptstraße, St 2021 und Gewerbestraße
-        bis Gewerbestraße, Unterelchingen
+        bis Nersinger Straße 28, 89275 Elchingen/Unterelchingen
 
 
 *    *   St 2021
 
     *   von A 8 (AS Oberelchingen) über Autobahnzubringer (G 548),
         Hauptstraße, St 2021, Weißinger Straße und Gewerbestraße bis
-        Gewerbestraße 6a, Elchingen
+        Gewerbestraße 6a, 89275 Elchingen
 
 
 *    *   St 2021
 
     *   von LG Baden-Württemberg/Bayern über St 2021 und Glockeraustraße bis
-        Glockeraustraße 20, Elchingen
+        Glockeraustraße 20, 89275 Elchingen
 
 
 *    *   St 2021
 
     *   von A 8 (AS Oberelchingen) über Autobahnzubringer (G 548),
-        Hauptstraße, St 2021 und Glockeraustraße bis Glockeraustraße 20,
+        Hauptstraße, St 2021 und Glockeraustraße bis Glockeraustraße 20, 89275
         Elchingen
 
 
@@ -3322,25 +3526,31 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 10
 
     *   von A 8 (AS Burgau) über St 2025, B 10, Augsburger Straße und
-        Industriestraße bis Industriestraße 40, Burgau
+        Industriestraße bis Industriestraße 40, 89331 Burgau
 
 
 *    *   St 2027
 
-    *   von A8 (AS Zusmarshausen) über St 2027, Gollenhoferstraße und Im
+    *   von A 8 (AS Zusmarshausen) über St 2027, Gollenhoferstraße und Im
         Zusamtal bis Im Zusamtal 1, 86441 Zusmarshausen
+
+
+*    *   St 2027
+
+    *   von B 2 (AS Mertingen) über St 2027 und Gewerbepark Ost bis
+        Gewerbepark Ost 26, 86690 Mertingen
 
 
 *    *   St 2031
 
     *   von A 7 (AS Altenstadt) über St 2031 und Memminger Straße bis
-        Gewerbegebiet Memminger Straße, Altenstadt
+        Gewerbegebiet Memminger Straße, 89281 Altenstadt
 
 
 *    *   St 2031
 
     *   von A 7 (AS Altenstadt) über St 2031, Memminger Straße und
-        Illertalstraße bis Illertalstraße 2, Altenstadt
+        Illertalstraße bis Illertalstraße 2, 89281 Altenstadt
 
 
 *    *   St 2032
@@ -3349,18 +3559,24 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         A 2
 
     *   von A 8 (AS Adelsried) über St 2032, Kreisstraße A 5, Kreisstraße A 1,
-        Kreisstraße A 2 und Zollerstraße bis Zollerstraße 7, Aretsried
+        Kreisstraße A 2 und Zollerstraße bis Zollerstraße 7, 86850 Aretsried
 
 
 *    *   St 2035
 
-    *   von A 8 (AS Augsburg-Ost) über St 2035 bis Unterkreuthweg 7,
+    *   von A 8 (AS Augsburg-Ost) über St 2035 bis Unterkreuthweg 7, 86444
         Affing/Mühlhausen
+
+
+*    *   St 2043
+
+    *   von B 16 (AS Neuburg-Zell) über St 2043, Grünauer Straße und
+        Ruhrstraße bis Ruhrstraße 13, 86633 Neuburg an der Donau
 
 
 *    *   St 2045
 
-    *   von A9 (AS Pfaffenhofen/Ilm) über St 2045 und Carl-Benz-Straße bis
+    *   von A 9 (AS Pfaffenhofen/Ilm) über St 2045 und Carl-Benz-Straße bis
         Carl-Benz-Straße 3, 85301 Schweitenkirchen
 
 
@@ -3368,31 +3584,30 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 13
 
     *   von A 99 (AS München-Neuherberg) über St 2053, B 13 und Ingolstädter
-        Landstraße bis Ingolstädter Landstraße 1, Oberschleißheim
+        Landstraße bis Ingolstädter Landstraße 1, 85764 Oberschleißheim
 
 
 *    *   St 2053
 
     *   von A 9 (AS Eching) über St 2053, Oskar-von-Miller-Straße und
-        Dieselstraße bis Dieselstraße 37, Eching
+        Dieselstraße bis Dieselstraße 37, 85386 Eching
 
 
 *    *   St 2053
 
     *   von A 9 (AS Eching) über St 2053, Fraunhoferstraße, Dieselstraße,
         Oskar-von-Miller-Straße und Lilienthalstraße bis Lilienthalstraße 6,
-        Neufahrn bei Freising
+        85375 Neufahrn bei Freising
 
 
 *    *   St 2053
 
     *   von A 9 (AS Eching) über St 2053, Untere Hauptstraße,
         Fraunhoferstraße, Dieselstraße, Ludwig-Erhard-Straße, Zeppelinstraße
-        bis Zeppelinstraße 3, Neufahrn bei Freising
+        bis Zeppelinstraße 3, 85375 Neufahrn bei Freising
 
 
-*    *   Autobahnzubringer
-        A 92
+*    *   Autobahnzubringer A 92
 
     *   von A 92 (AS Eching-Ost) über Autobahnzubringer, Dieselstraße, Ludwig-
         Erhard-Straße bis Ludwig-Erhard-Straße 12, 85375 Neufahrn b. Freising
@@ -3400,21 +3615,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   St 2054
 
+    *   von A 8 (AS Sulzemoos) über St 2054, Ohmstraße bis Ohmstraße 8, 85254
+        Sulzemoos
+
+
+*    *   St 2054
+
     *   von A 9 (AS Allershausen) über St 2054 und Im Lekkerland bis Im
-        Lekkerland 1, Allershausen
+        Lekkerland 1, 85391 Allershausen
 
 
 *    *   St 2063
 
-    *   von Einmündung Robert-Bosch-Straße in Dachau bis Kreuzung mit der
-        Schleißheimer Straße, Dachau
-
-
-*    *   St 2068
-
-    *   von A 96 (AS Oberpfaffenhofen/Gilching-West) über St 2068 und
-        Landsberger Straße und Claude-Dornier-Straße und Friedrichshafener
-        Straße bis Friedrichshafener Straße 6a, Oberpfaffenhofen
+    *   von Einmündung Robert-Bosch-Straße in 85221 Dachau bis Kreuzung mit
+        Schleißheimer Straße, 85221 Dachau
 
 
 *    *   St 2074
@@ -3422,7 +3636,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, Brumather Straße, St
         2074, Landshuter Straße, Hauptstraße, Industriestraße, DGF 16,
         Industriestraße und Rimbacher Straße bis Rimbacher Straße, Werk 2.8,
-        Loiching
+        84180 Loiching
 
 
 *    *   St 2074
@@ -3430,61 +3644,61 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, Brumather Straße, St
         2074, Landshuter Straße, Hauptstraße und Gewerbepark bis Gewerbepark
-        8, Niederviehbach
+        8, 84183 Niederviehbach
 
 
 *    *   St 2074
         St 2111
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, St 2074, Parallelast St
-        2074 und Werkstraßen bis Werk 2.2, Dingolfing
+        2074 und Werkstraßen bis Werk 2.2, 84130 Dingolfing
 
 
 *    *   St 2074
         St 2111
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, St 2074 und
-        Industriestraße bis Industriestraße 5, Dingolfing
+        Industriestraße bis Industriestraße 5, 84130 Dingolfing
 
 
 *    *   St 2080
 
     *   von A 94 (AS Forstinning) über St 2080 und Anzinger Straße bis
-        Anzinger Straße 20, Ebersberg
+        Anzinger Straße 20, 85560 Ebersberg
 
 
 *    *   St 2082
 
     *   von A 94 (AS Feldkirchen-West) über Ottendichler Straße und
-        Hofbräuallee bis Hofbräuallee 1, München
+        Hofbräuallee bis Hofbräuallee 1, 81829 München
 
 
 *    *   St 2082
 
     *   von A 99 (AS Kirchheim) über St 2082 und Eichendorffstraße bis
-        Eichendorffstraße Postfrachtzentrum Aschheim
+        Eichendorffstraße Postfrachtzentrum, 85609 Aschheim
 
 
 *    *   St 2082
 
     *   von A 99 (AS Kirchheim) über St 2082, Eichendorffstraße und
-        Uhlandstraße bis Uhlandstraße 15, 85609 Aschheim
+        Uhlandstraße, bis Uhlandstraße 15, 85609 Aschheim
 
 
 *    *   St 2084
-[^F812806_36_BJNR614410011BJNE001509119]
+[^f825743_37_BJNR614410011BJNE001510119]
         ED
         5
 
     *   von A 92 (AS Freising-Ost) über St 2084, ED 5 und Eichenstraße bis
-        Eichenstraße 2, Oberding/Schwaig
+        Eichenstraße 2, 85445 Oberding/Schwaig
 
 
 *    *   St 2107
 
-    *   von Daimlerstraße 2 in Altötting über Daimlerstraße, Burghauser
+    *   von Daimlerstraße 2 in 84503 Altötting über Daimlerstraße, Burghauser
         Straße, St 2107 und Industrieparkstraße bis Industrieparkstraße 1,
-        Burgkirchen an der Alz/Gendorf
+        84508 Burgkirchen an der Alz/Gendorf
 
 
 *    *   St 2111
@@ -3502,26 +3716,27 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   St 2111
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, Brumather Straße,
-        Bayernwerkstraße und Laaberstraße bis Laaberstraße 7, Dingolfing
+        Bayernwerkstraße und Laaberstraße bis Laaberstraße 7, 84130 Dingolfing
 
 
 *    *   St 2111
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, Brumather Straße,
-        Mengkofener Straße und Werkstraße bis Tor 1 – 3, Dingolfing
+        Mengkofener Straße und Werkstraße bis Tor 1 – 3, 84130 Dingolfing
 
 
 *    *   St 2111
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, Brumather Straße und den
-        westlichen Ausfahrtsast zu Tor 2 und Werkstraße bis Tor 2, Dingolfing
+        westlichen Ausfahrtsast zu Tor 2 und Werkstraße bis Tor 2, 84130
+        Dingolfing
 
 
 *    *   St 2111
         DGF 13
 
     *   von A 92 (AS Dingolfing-Mitte) über St 2111, DGF 13 und Tundinger
-        Straße bis Gewerbegebiet Unterhollerau, Moosthenning
+        Straße bis Gewerbegebiet Unterhollerau, 84164 Moosthenning
 
 
 *    *   St 2111
@@ -3533,18 +3748,24 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Marklkofen
 
 
+*    *   St 2114
+
+    *   von A 92 (AS Pilsting-Großköllnbach) über St 2114 und Industriegebiet
+        Rossweide bis Rossweide 5, 94431 Pilsting
+
+
 *    *   St 2144
         St 2230
 
-    *   von A 93 an AS Abensberg (49) auf St 2144, St 2230, Am Hopfenbach, bis
+    *   von A 93 an AS Abensberg (49) auf St 2144, St 2230, Am Hopfenbach bis
         Am Hopfenbach 22, 93352 Rohr in Niederbayern
 
 
 *    *   St 2118
         St 2618
 
-    *   von A 3 (AS Passau-Mitte) über St 2118 und Sperrwies bis Sperrwies 1
-        in Passau und weiter über St 2118 bis Irsham, dort links auf St 2618,
+    *   von A 3 (AS Passau-Mitte) über St 2118 und Sperrwies bis Sperrwies 1,
+        Passau und weiter über St 2118 bis Irsham, dort links auf St 2618,
         sodann rechts bis Gurlarn 2, 94081 Fürstenzell
 
 
@@ -3552,13 +3773,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 3 (AS Neutraubling) über Walhallastraße, St 2145,
         Lerchenfeldstraße und Berliner Straße bis Werkszufahrt Berliner Straße
-        20, Neutraubling
+        20, 93073 Neutraubling
+
+
+*    *   St 2125
+
+    *   von A 3 (AS Hengersberg) über St 2125 und Passauer Straße bis Passauer
+        Straße 118, 94577 Winzer
 
 
 *    *   St 2151
 
     *   von A 93 (AS Schwarzenfeld) über St 2151 und Industriestraße bis
-        Industriestraße 11, Neunburg vorm Wald
+        Industriestraße 11, 92431 Neunburg vorm Wald
 
 
 *    *   B 15
@@ -3566,7 +3793,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 93 (AS Hof-Süd) über B 15 (AS Hof-Moschendorf), St 2177, Hofer
         Straße, An den Mühlwiesen und Am Saaleschlößchen bis Am
-        Saaleschlößchen 7, Oberkotzau
+        Saaleschlößchen 7, 95145 Oberkotzau
 
 
 *    *   B 15
@@ -3574,74 +3801,62 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 93 (AS Hof-Süd) über B 15 (AS Hof-Moschendorf), St 2177, Hofer
         Straße, Ziegeleistraße und Am Saaleschlößchen bis Am Saaleschlößchen
-        7, Oberkotzau
-
-
-*    *   St 2180
-
-    *   von A 93 (AS Thiersheim) über St 2180 und Wampener Straße bis Autohof
-        Thiersheim, Wampener Straße 1
+        7, 95145 Oberkotzau
 
 
 *    *   St 2181
 
     *   von A 9 (AS Bayreuth-Nord) über St 2181, Christian-Ritter-von-
         Langheinrich-Straße und Ritter-von-Eitzenberger-Straße bis Ritter-von-
-        Eitzenberger-Straße 24, Bayreuth
+        Eitzenberger-Straße 24, 95448 Bayreuth
 
 
 *    *   St 2194
 
     *   von A 9 (AS Münchberg-Nord) über St 2194, Helmbrechtser Straße und
-        August-Horch-Straße bis August-Horch-Straße 2, Münchberg
+        August-Horch-Straße bis August-Horch-Straße 2, 95213 Münchberg
 
 
 *    *   St 2223
-[^F812806_37_BJNR614410011BJNE001509119]
+[^f825743_38_BJNR614410011BJNE001510119]
         AN
         12
 
     *   von A 6 (AS Lichtenau) über St 2223, AN 12 und Bahnhofstraße bis
-        Bahnhofstraße 9, Sachsen b. Ansbach
+        Bahnhofstraße 9, 91623 Sachsen b. Ansbach
 
 
 *    *   St 2237
 
     *   von A 9 (AS Allersberg) über St 2237, Allersberger Straße, Norisstraße
-        und Gildestraße bis Gildestraße 17, Roth
+        und Gildestraße bis Gildestraße 17, 91154 Roth
 
 
 *    *   St 2238
-
-    *   von A 9 (AS Hilpoltstein) über St 2238 und An der Autobahn bis Autohof
-        Hilpoltstein, An der Autobahn K 4
-
-
-*    *   St 2238
-[^F812806_38_BJNR614410011BJNE001509119]
+[^f825743_39_BJNR614410011BJNE001510119]
         WEN
         9
 
     *   von A 93 (AS Weiden-Süd) über St 2238, Süd-Ost-Tangente, WEN 9,
-        Moosbürger Straße, Am Wörnzgraben bis Am Wörnzgraben 2, Weiden i. d.
-        OPf.
+        Moosbürger Straße, Am Wörnzgraben bis Am Wörnzgraben 2, 92637 Weiden
+        i. d. OPf.
 
 
 *    *   St 2240
         St 2236
-[^F812806_39_BJNR614410011BJNE001509119]
+[^f825743_40_BJNR614410011BJNE001510119]
         NM
         9
 
     *   von A 6 (AS Alfeld) über St 2236, Kreisstraße NM 9, St 2240 und Am
         Meilenhofener Weg (über die nördliche AS der St 2240) bis Am
-        Meilenhofener Weg 5, Berg bei Neumarkt i. d. OPf.
+        Meilenhofener Weg 5, 92348 Berg bei Neumarkt i. d. OPf.
 
 
 *    *   St 2240
 
     *   von A 6 (AS Altdorf/Leinburg) über St 2240, Im Erlet und Wacholderweg
-        bis Wacholderweg 1, Altdorf
+        bis Wacholderweg 1, 90518 Altdorf
 
 
 *    *   St 2244
@@ -3666,27 +3881,22 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         AN 33
 
     *   von A 7 (AS Rothenburg ob der Tauber) über St 2250, AN 33 und
-        Erlbacher Straße bis Erlbacher Straße 112, Rothenburg ob der Tauber
-
-
-*    *   St 2257
-
-    *   von A 3 (AS Geiselwind) über St 2257 und Scheinfelder Straße bis
-        Autohof, Scheinfelder Straße 15
+        Erlbacher Straße bis Erlbacher Straße 112, 91541 Rothenburg ob der
+        Tauber
 
 
 *    *   St 2275
         St 2426
 
     *   von A 70 (AS Haßfurt) und St 2426, St 2275 und Am Rödertor bis Am
-        Rödertor 4 – 9, Donnersdorf
+        Rödertor 4 – 9, 97499 Donnersdorf
 
 
 *    *   St 2291
 
     *   von A 7 (AS Bad Kissingen/Oberthulba) über St 2291 (AS Gewerbegebiet
-        Oberthulba/Albertshausen) und Häuserschlag bis Häuserschlag 1, Bad
-        Kissingen
+        Oberthulba/Albertshausen) und Häuserschlag bis Häuserschlag 1, 97688
+        Bad Kissingen
 
 
 *    *   St 2325
@@ -3698,7 +3908,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   St 2335
         EI 43
-[^F812806_40_BJNR614410011BJNE001509119]
+[^f825743_41_BJNR614410011BJNE001510119]
         IN
         5
         IN 19
@@ -3706,7 +3916,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 9 (AS Lenting) über St 2335, EI 43, IN 19, IN 20, IN 5, Ettinger
         Straße und Dr.-Ludwig-Kraus-Straße bis GVZ und Pascalstraße, Maria-
-        Goeppert-Straße und Ettinger Straße bis Tor 10
+        Goeppert-Straße und Ettinger Straße bis Tor 10, 85057 Ingolstadt
 
 
 *    *   St 2335
@@ -3714,7 +3924,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         EI 43
 
     *   von A 9 (AS Lenting) über St 2335, EI 43, EI 18, Hepberger Straße,
-        Ettinger Straße und Obere Marktstraße bis Obere Marktstraße 12,
+        Ettinger Straße und Obere Marktstraße bis Obere Marktstraße 12, 85080
         Gaimersheim
 
 
@@ -3729,30 +3939,44 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 9 (AS Lenting) über St 2335, EI 43, IN 19, IN 20, IN 5,
         Dr.-Ludwig-Kraus-Straße, IN 4, EI 12, EI 9 und Ingolstädter Straße bis
-        Ingolstädter Straße 120, Gaimersheim
+        Ingolstädter Straße 120, 85080 Gaimersheim
 
 
 *    *   St 2336
 
-    *   von A 9 (AS Greding) über St 2336 bis Industriestraße 16 – 25, Greding
+    *   von A 9 (AS Greding) über St 2336 bis Industriestraße 16 – 25, 91171
+        Greding
+
+
+*    *   St 2349
+
+    *   von A 96 (AS Oberpfaffenhofen/Gilching-West) über St 2349 (Landsberger
+        Straße), Claude-Dornier-Straße und Friedrichshafener Straße bis
+        Friedrichshafener Straße 6a, 82205 Gilching
+
+
+*    *   St 2363
+
+    *   von A 93 (AS Reischenhart) über St 2363 und Kufsteiner Straße bis
+        Kufsteiner Straße 100, 83064 Raubling
 
 
 *    *   St 2419
-[^F812806_41_BJNR614410011BJNE001509119]
+[^f825743_42_BJNR614410011BJNE001510119]
         NEA
         49
         B 13
         St 2252
 
     *   von A 7 (AS Uffenheim-Langensteinach) über St 2419, NEA 49, B 13, St
-        2252 und Buchheimer Straße bis Buchheimer Straße 4, Ergersheim
+        2252 und Buchheimer Straße bis Buchheimer Straße 4, 91465 Ergersheim
 
 
 *    *   St 2580
         ED 19
 
     *   von A 92 (AS Erding) über St 2580, ED 19 und Am Isarkanal bis Am
-        Isarkanal, Eitting
+        Isarkanal, 85462 Eitting
 
 
 *    *   St 2580
@@ -3760,7 +3984,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         ED 5
 
     *   von A 92 (AS Erding) über St 2580, St 2584 und ED 5 und Eichenstraße
-        bis Eichenstraße 2, Oberding/Schwaig
+        bis Eichenstraße 2, 85445 Oberding/Schwaig
 
 
 *    *   St 2580
@@ -3774,77 +3998,84 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von AS Flughafen München (A 92) bis Flughafenstraße
 
 
-*    *   St 2584
-        FS 44
-
-    *   von St 2584 (AS zu FS 44) über FS 44, Ismaninger Straße, Ludwigstraße
-        in Lindberghstraße Hallbergmoos und zurück auf Ludwigstraße in
-        Richtung Westen
-
-
-*    *   St 2692
-
-    *   von A 9 (AS Berg/Bad Steben) über St 2692 und Sieggrubenstraße bis
-        Autohof Berg, Sieggrubenstraße 5
-
-
 *    *   St 2805
         AB 25
 
     *   von A 45 (AS Alzenau-Mitte) über St 2805, AB 25, Seestraße,
-        Westumgehung und Mühlweg bis Mühlweg 14, Alzenau
+        Westumgehung und Mühlweg bis Mühlweg 14, 63755 Alzenau
 
 
 *    *   St 3202
         St 2305
 
     *   von LG Hessen/Bayern über St 3202, St 2305, Industriestraße,
-        Seestraße, Westumgehung und Mühlweg bis Mühlweg 14, Alzenau (nur in
-        Fahrtrichtung Alzenau)
+        Seestraße, Westumgehung und Mühlweg bis Mühlweg 14, 63755 Alzenau (nur
+        in Fahrtrichtung Alzenau)
 
 
 *    *   St 3202
         St 2305
 
-    *   von Mühlweg 14, Alzenau über Mühlweg, Westumgehung, Seestraße, St
-        2305, Spessartstraße, Laurentiusstraße und St 3202 bis LG
+    *   von Mühlweg 14, 63755 Alzenau über Mühlweg, Westumgehung, Seestraße,
+        St 2305, Spessartstraße, Laurentiusstraße und St 3202 bis LG
         Bayern/Hessen (nur in Fahrtrichtung LG)
 
 
 *    *   A 30
 
-    *   von B 17 (AS Schwabmünchen) über Kreisstraße A 30, Zeppelinstraße,
-        Amazonstraße bis Amazonstraße 13, Graben
+    *   von B 17 (AS Kleinaitingen/Graben) über Kreisstraße A 30,
+        Zeppelinstraße, Amazonstraße bis Amazonstraße 13, 86836 Graben
+
+
+*    *   A 30
+
+    *   von B 17 (AS Kleinaitingen/Graben) über Kreisstraße A 30,
+        Zeppelinstraße, Junkerstraße, Hermesstraße bis Hermesstraße 5, 86836
+        Graben
+
+
+*    *   A 30
+
+    *   von B 17 (AS Kleinaitingen/Graben) über Kreisstraße A 30,
+        Dornierstraße, Hermesstraße bis Hermesstraße 5, 86836 Graben
 
 
 *    *   A 30
 
     *   von B 17 (AS Schwabmünchen) über Kreisstraße A 30, Messerschmittstraße
-        bis Messerschmittstraße 2, Kleinaitingen
+        bis Messerschmittstraße 2, 86507 Kleinaitingen
 
 
 *    *   AIC 25
-[^F812806_42_BJNR614410011BJNE001509119]
+[^f825743_43_BJNR614410011BJNE001510119]
         As
         3
         As 25
 
     *   von A 8 (AS Friedberg) über AIC 25, As 25, As 3 und Derchinger Straße
-        bis Derchinger Straße 125, Augsburg
+        bis Derchinger Straße 125, 86165 Augsburg
 
 
 *    *   AIC 25
         As 25
 
     *   von A 8 (AS Friedberg) über AIC 25, As 25, AIC 25, Chippenham-Ring und
-        Röntgenstraße bis Liebigstraße, Friedberg (Warenlager Segmüller
+        Röntgenstraße bis Liebigstraße, 86316 Friedberg (Warenlager Segmüller
         Einrichtungshaus)
 
 
 *    *   As 6
 
     *   von B 17 (AS Augsburg-Göggingen) über As 6 und Kurt-Bösch-Straße bis
-        Kurt-Bösch-Straße 12, Augsburg
+        Kurt-Bösch-Straße 12, 86199 Augsburg
+
+
+*    *[^f825743_44_BJNR614410011BJNE001510119]
+   BA
+        1
+
+    *   von A 73 (AS Zapfendorf) über BA 1, Scheßlitzer Straße bis Scheßlitzer
+        Straße 2, 96199 Zapfendorf
 
 
 *    *   DGF 16
@@ -3853,42 +4084,57 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Industriestraße 6, 84130 Dingolfing (BMW Werk 2.4, Tor 5)
 
 
+*    *[^f825743_45_BJNR614410011BJNE001510119]
+   DON 29
+
+    *   von B 2 (AS Donauwörth-Nordheim, aus bzw. zurück in Fahrtrichtung
+        Kreuz B 2/B 16 bei Asbach-Bäumenheim) über DON 29, Gewerbegebiet
+        Neuteile bis Neuteile 3, 86682 Genderkingen
+
+
 *    *   LA 10
 
-    *   von A 92 (AS Wörth an der Isar) über LA 10 bis Luitpoldpark,
+    *   von A 92 (AS Wörth an der Isar) über LA 10 bis Luitpoldpark, 84100
         Niederaichbach
 
 
-*    *[^F812806_43_BJNR614410011BJNE001509119]
+*    *[^f825743_46_BJNR614410011BJNE001510119]
    LL
         9
 
     *   von A 96 (AS Landsberg am Lech-West) über Buchloer Straße, LL 9,
         Stadtwaldhof Straße und Iglinger Straße bis Franz-Kollmann-Straße,
-        Landsberg
+        86899 Landsberg
 
 
-*    *[^F812806_44_BJNR614410011BJNE001509119]
+*    *[^f825743_47_BJNR614410011BJNE001510119]
    M
         1
 
     *   von A 94 (AS Feldkirchen-Ost) über M 1 und Weißenfelder Straße bis
-        Weißenfelder Straße 1, Kirchheim-Heimstetten
+        Weißenfelder Straße 1, 85551 Kirchheim-Heimstetten
 
 
-*    *[^F812806_45_BJNR614410011BJNE001509119]
+*    *[^f825743_48_BJNR614410011BJNE001510119]
    MM
         30
 
     *   von A 96 (AS Memmingen-Nord) über MM 30, Europastraße und
-        Fraunhoferstraße bis Fraunhoferstraße 15, Memmingen
+        Fraunhoferstraße bis Fraunhoferstraße 15, 87700 Memmingen
 
 
 *    *   N 1
 
     *   von A 73 AS Nürnberg-Königshof (Hafen Süd) über N 1 (Marthweg), Wiener
         Straße, Hamburger Straße, Koperstraße in Bremer Straße bis Bremer
-        Straße 100 und zurück
+        Straße 100, 90451 Nürnberg
+
+
+*    *   N 1
+
+    *   von A 73 (AS Nürnberg-Königshof (Hafen Süd)) über N 1 (Marthweg),
+        Wiener Straße, Hamburger Straße, Koperstraße und Triester Straße bis
+        Triester Straße 11, 90451 Nürnberg
 
 
 *    *   N 1
@@ -3905,34 +4151,34 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Nürnberg
 
 
-*    *[^F812806_46_BJNR614410011BJNE001509119]
+*    *[^f825743_49_BJNR614410011BJNE001510119]
    NU
         14
         NU 9
 
     *   von A 7 (AS Vöhringen) über NU 14 und NU 9 (Emershofer Straße) bis
-        Emershofer Straße 10, Vöhringen
+        Emershofer Straße 10, 89269 Vöhringen
 
 
 *    *   R 5
 
     *   von Rosenhofer Straße, Neutraubling, über Schlossstraße, R 5,
-        Römerstraße bis Römerstraße 3, Mintraching
+        Römerstraße bis Römerstraße 3, 93096 Mintraching
 
 
 *    *   R 45
 
     *   von B 15n (AS Schierling-Süd) über R 45, Ludwig-Erhard-Straße bis
-        Ludwig-Erhard-Straße 1, Schierling
+        Ludwig-Erhard-Straße 1, 84069 Schierling
 
 
-*    *[^F812806_47_BJNR614410011BJNE001509119]
+*    *[^f825743_50_BJNR614410011BJNE001510119]
    RH
         35
         St 2237
 
     *   von A 9 (AS Allersberg) über RH 35, St 2237, Allersberger Straße,
-        Norisstraße und Gildestraße bis Gildestraße 17, Roth
+        Norisstraße und Gildestraße bis Gildestraße 17, 91154 Roth
 
 
 *    *   WUN 12
@@ -3942,13 +4188,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   von Neuburg an der Donau, Nördliche Grünauer Straße 10 über Grünauer
-        Straße und Ruhrstraße bis Ruhrstraße 13, Neuburg an der Donau
+    *   von 86633 Neuburg an der Donau, Nördliche Grünauer Straße 10 über
+        Grünauer Straße und Ruhrstraße bis Ruhrstraße 13, 86633 Neuburg an der
+        Donau
 
 
 *    *
     *   von A 8 (AS Neusäß) über Hirblinger Straße und Nürnberger Straße bis
-        Güterverkehrszentrum Augsburg, Nürnberger Straße 4, Augsburg
+        Güterverkehrszentrum Augsburg, Nürnberger Straße 4, 86156 Augsburg
+
+
+*    *
+    *   von A 8 (AS Augsburg-Ost) über B 2 (Mühlhauser Straße), Bürgermeister-
+        Wegele-Straße, Mayrstraße, Ulstettstraße bis Ulstettstraße 9, 86167
+        Augsburg
 
 
 *    *
@@ -3958,8 +4211,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
+    *   von A 8 (AS Friedberg) über Winterbruckenweg bis Winterbruckenweg 37,
+        86316 Friedberg/Derching
+
+
+*    *
     *   von Max-Planck-Straße über Otto-Hahn-Straße und Robert-Bosch-Straße
-        bis Einmündung in St 2063, Dachau
+        bis Einmündung in St 2063, 85221 Dachau
 
 
 *    *
@@ -3968,9 +4226,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 *    *
-    *   von Dr.-Ludwig-Kraus-Straße über Furtwänglerstraße, Permoserstraße,
-        Gaimersheimer Straße und Emmy-Noether-Straße zu den verschiedenen
-        Werkstoren in Ingolstadt
+    *   von Dr.-Ludwig-Kraus-Straße über Pascalstraße und Emmy-Noether-Straße
+        zu den verschiedenen Werkstoren, 85057 Ingolstadt
 
 
 *    *
@@ -3980,52 +4237,78 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von A 7 (AS Gramschatzer Wald) über Kreuzstraße, Erbshausener Straße
-        und Am Wiesenweg bis Am Wiesenweg 11, Hausen
+        und Am Wiesenweg bis Am Wiesenweg 11, 97262 Hausen
 
 
 *    *
     *   von B 2 (AS Asbach-Bäumenheim) über Mertinger Straße und Fendtstraße
-        bis Fendtstraße 1, Asbach-Bäumenheim
+        bis Fendtstraße 1, 86663 Asbach-Bäumenheim
 
 
 *    *
-    *   von Straubing, Schlesische Straße 225 über Schlesische Straße bis
-        Schlesische Straße 232, Straubing
+    *   von B 2 (AS Nordendorf, aus bzw. zurück in Fahrtrichtung Kreuz B 2/B
+        16 bei Asbach-Bäumenheim), Fuggerstraße, Dieselstraße und
+        Siemensstraße bis Siemensstraße 1, 86695 Nordendorf
 
 
 *    *
-    *   von Neutraubling, Rosenhofer Straße über Oberheisinger Straße bis
-        Oberheisinger Straße 7, Neutraubling
+    *   von B 2 (AS Westendorf, aus bzw. zurück in Fahrtrichtung Kreuz B 2/B
+        16 bei Asbach-Bäumenheim) über Gewerbestraße bis Gewerbestraße 16,
+        86707 Westendorf
 
 
 *    *
-    *   von Neutraubling, Rosenhofer Straße über Schlossstraße, R 5,
-        Römerstraße, Germanenstraße bis Römerstraße 3, Mintraching
+    *   von B 16 (AS Rain, aus bzw. zurück in Fahrtrichtung Neuburg an der
+        Donau) über Neuhofweg und Salbeiweg bis Neuhofweg 1, 86641 Rain am
+        Lech
+
+
+*    *
+    *   von B 16 (AS Gewerbegebiet Riedlingen (Südspange), aus bzw. zurück in
+        Fahrtrichtung Neuburg an der Donau) über Dr.-Friedrich-Drechsler-
+        Straße und Ludwig-Auer-Straße bis Ludwig-Auer-Straße 20, 86609
+        Donauwörth
+
+
+*    *
+    *   von 94315 Straubing, Schlesische Straße 225 über Schlesische Straße
+        bis Schlesische Straße 232, 94315 Straubing
+
+
+*    *
+    *   von 93073 Neutraubling, Rosenhofer Straße über Oberheisinger Straße
+        bis Oberheisinger Straße 7, 93073 Neutraubling
+
+
+*    *
+    *   von 93073 Neutraubling, Rosenhofer Straße über Schlossstraße, R 5,
+        Römerstraße, Germanenstraße bis Römerstraße 3, 93098 Mintraching
 
 
 *    *
     *   von B 15 in Hof/Saale über Kulmbacher Straße und Dr.-Arnheim-Straße
-        und Hohe Straße bis Hohe Straße 20, Hof/Saale
+        und Hohe Straße bis Hohe Straße 20, 95030 Hof/Saale
 
 
 *    *
     *   von A 70 (AS Schweinfurt-Hafen) über Europa-Allee und Amsterdamstraße
-        bis Amsterdam­straße 6, Schweinfurt
+        bis Amsterdamstraße 6, 97424 Schweinfurt
 
 
 *    *
     *   von A 70 (AS Schweinfurt-Hafen) über Europa-Allee und Brüsselstraße
-        bis Brüsselstraße 9, Schweinfurt
+        bis Brüsselstraße 9, 97424 Schweinfurt
 
 
 *    *
     *   von A 70 (AS Schweinfurt-Hafen) über Europa-Allee, Madridstraße,
-        Straßburgstraße und Brüsselstraße bis zur Brüsselstraße 9, Schweinfurt
+        Straßburgstraße und Brüsselstraße bis Brüsselstraße 9, 97424
+        Schweinfurt
 
 
 *    *
     *   von A 9 (AS München-Frankfurter Ring) auf Frankfurter Ring, Moosacher
-        Straße, Riesenfeldstraße, bis Riesenfeldstraße 87, 80809 München
+        Straße, Riesenfeldstraße bis Riesenfeldstraße 87, 80809 München
 
 
 *    *
@@ -4036,12 +4319,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von B 13 (AS Bernhardswinden/Brodswinden) in Richtung Osten über
-        Robert-Bosch-Straße bis Robert-Bosch-Straße 3, Ansbach
+        Robert-Bosch-Straße bis Robert-Bosch-Straße 3, 91522 Ansbach
 
 
 *    *
     *   von St 2248 in Elpersdorf bei Ansbach über Liebigstraße bis
-        Liebigstraße 1, Ansbach
+        Liebigstraße 1, 91522 Ansbach
 
 
 *    *
@@ -4064,28 +4347,41 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von A 94 (AS München-Am Moosfeld) über Riemer Straße, Schatzbogen bis
-        Schatzbogen Nr. 6, 81829 München (nur in beschriebener Fahrtrichtung)
+        Schatzbogen 6, 81829 München (nur in beschriebener Fahrtrichtung)
 
 
 *    *
-    *   von Schatzbogen Nr. 6, 91829 München über Schatzbogen, Riemer Straße,
+    *   von Schatzbogen 6, 81829 München über Schatzbogen, Riemer Straße,
         Stahlgruberring, Hollerithstraße zu A 94 (AS München-Am Moosfeld) (nur
         in beschriebener Fahrtrichtung)
 
 
 *    *
-    *   von A 73 (AS Nürnberg-Hafen-Ost) über Südwesttangente und Hafenstraße
-        bis Hafenstraße 85, 90678 Fürth, bzw. weiter über Rezatstraße und
-        Mainstraße bis Mainstraße 55, 90768 Fürth
+    *   von A 73 (AS Nürnberg-Hafen-Ost) über Südwesttangente und Hafenstraße,
+        90768 Fürth bis Hafenstraße 85, 90768 Fürth, bzw. weiter über
+        Rezatstraße und Mainstraße bis Mainstraße 55, 90768 Fürth
+
+
+*    *
+    *   von Einmündung B 303/Hofer Straße (95502 Himmelkron) über Hofer
+        Straße, Kulmbacher Straße, Bayreuther Straße bis Bayreuther Straße 4,
+        95502 Himmelkron (nur in beschriebener Fahrtrichtung)
+
+
+*    *
+    *   von Bayreuther Straße 4, 95502 Himmelkron über Bayreuther Straße,
+        Kulmbacher Straße bis Einmündung Kulmbacher Straße (95502
+        Himmelkron)/B 303 (nur in beschriebener Fahrtrichtung)
 
 
 
-**Nachgeordnetes Straßennetz Brandenburg:**
+
+**Nachgeordnetes Streckennetz Brandenburg:**
 
 *    *   Straße
 
     *   Streckenabschnitt
-        jeweils in beiden Fahrtrichtungen
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   Gemeindestraße
@@ -4109,21 +4405,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   von B 96 (AS Oranienburg-Süd) über Kommunalstraße Birkenallee, Stadt
-        Oranienburg,
-        Hans-Grade-Straße                        bis Hausnummer 1 (Fuhrbetrieb
-        Fromm GmbH)
+        Oranienburg, Hans-Grade-Straße bis Hausnummer 1 (Fuhrbetrieb Fromm
+        GmbH)
 
 
 *    *   Gemeindestraße
 
     *   von B 96 (AS Oranienburg-Süd) über Kommunalstraße Birkenallee, Stadt
-        Oranienburg, Flugpionierstraße 1 (Hermes) und zurück
+        Oranienburg, Flugpionierstraße 1 (Hermes)
 
 
 *    *   Gemeindestraße
 
     *   von B 96 über Birkenweg in der Gemeinde Rangsdorf bis Grundstück Fiege
-        Logistik Stiftung & Co. KG
+        Logistik Stiftung*                        Co. KG
 
 
 *    *   Gemeindestraße
@@ -4215,7 +4510,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von AS Kleinmachnow (
         Richtung                        Nord) über Stolper Weg in Dreilindener
-        Weg bis Hausnummer 1 (Betriebsgelände EDEKA MIOS)
+        Weg bis Hausnummer 1 (Betriebsgelände EDEKA MIOS)
 
 
 *    *   B 1
@@ -4227,32 +4522,38 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-**Nachgeordnetes Straßennetz Bremen:**
+
+**Nachgeordnetes Streckennetz Bremen:**
+
+*    *
+    *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
+
 
 *    *
     *   von A 1 (AS Hemelingen), Abfahrt in Richtung Gewerbegebiet Hansalinie,
-        Anton-Tucher-Straße, Europaallee, Bordeaux-Straße bis PCC und zurück
+        Anton-Tucher-Straße, Europaallee, Bordeaux-Straße bis PCC
 
 
 *    *
     *   von A 1 (AS Hemelingen), Abfahrt in Richtung Stadtmitte,
         Autobahnzubringer Hemelingen, Pfalzburger Straße, An der Grenzpappel,
         Hemelinger Tunnel, Sebaldsbrücker Heerstraße, Hermann-Koenen-Straße
-        bis Mercedes-Benz, Tor 8 und zurück
+        bis Mercedes-Benz, Tor 8
 
 
 *    *
     *   Bordeaux-Straße, Europaallee, Anton-Tucher-Straße, Autobahnzubringer
         Hemelingen, Pfalzburger Straße, An der Grenzpappel, Hemelinger Tunnel,
         Sebaldsbrücker Heerstraße, Hermann-Koenen-Straße bis Mercedes-Benz,
-        Tor 8 und zurück
+        Tor 8
 
 
 *    *
     *   von A 1 (AS Arsten), Abfahrt in Richtung Arsten GVZ, Autobahnzubringer
         Arsten, Neuenlander Straße/B 6, Georg-Wulf-Straße, A 281 bis AS
         Woltmershausen Reedeich, Abfahrt in Richtung Reedeich Nord, Senator-
-        Apelt-Straße bis BLG und zurück
+        Apelt-Straße bis BLG
 
 
 *    *
@@ -4260,7 +4561,6 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Arsten, Neuenlander Straße/B 6, Georg-Wulf-Straße, A 281 bis AS
         Woltmershausen Reedeich, Abfahrt in Richtung Reedeich Nord, Senator-
         Apelt-Straße, Georg-Henschel-Straße, Heinrich-Wiegand-Straße bis BLG
-        und zurück
 
 
 *    *
@@ -4268,29 +4568,28 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Arsten, Neuenlander Straße/B 6, Georg-Wulf-Straße, A 281 bis AS
         Woltmershausen Reedeich, Abfahrt in Richtung Reedeich Nord, Senator-
         Apelt-Straße, Stromer Landstraße bis Einmündung Merkurstraße,
-        Merkurstraße, Ludwig-Erhard-Straße, Georg-Harmsen-Straße 7 und zurück
+        Merkurstraße, Ludwig-Erhard-Straße, Georg-Harmsen-Straße 7
 
 
 *    *
     *   Im Falle einer Sperrung des Hemelinger Tunnels gilt folgende
-        Fahrstrecke:
-        von A 27 (AS Sebaldsbrück) zum Mercedes-Benz-Werk an der Hermann-
-        Koenen-Straße: A 27 (AS Sebaldsbrück), Abfahrt in Richtung Stadtmitte,
-        Oyter Damm, Osterholzer Heerstraße, Hermann-Koenen-Straße bis
-        Mercedes-Benz, Tor 8 und zurück
+        Fahrstrecke: von A 27 (AS Sebaldsbrück) zum Mercedes-Benz-Werk an der
+        Hermann-Koenen-Straße:
+        A 27 (AS Sebaldsbrück), Abfahrt in Richtung Stadtmitte, Oyter Damm,
+        Osterholzer Heerstraße, Hermann-Koenen-Straße bis Mercedes-Benz, Tor 8
 
 
 *    *
     *   Bordeaux-Straße, Europaallee, Walter-Jacobs-Straße, Allerkai, Zum
         Allerhafen, Hemelinger Tunnel, Sebaldsbrücker Heerstraße, Hermann-
-        Koenen-Straße bis Mercedes-Benz, Tor 8 und zurück
+        Koenen-Straße bis Mercedes-Benz, Tor 8
 
 
 *    *
     *   Tauschplatz (zum Fahrer-Schichtwechsel) Allerkai 4 zum Mercedes-Benz-
         Werk an Hermann-Koenen-Straße Tor 8:
         Allerkai, Zum Allerhafen, Hemelinger Tunnel, Sebaldsbrücker
-        Heerstraße, Hermann-Koenen-Straße bis Mercedes-Benz, Tor 8 und zurück
+        Heerstraße, Hermann-Koenen-Straße bis Mercedes-Benz, Tor 8
 
 
 *    *
@@ -4299,57 +4598,58 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Allerkai, Hermann-Funk-Straße, Hemelinger Autobahnzubringer, A 1 (AS
         56 Arsten), Autobahnzubringer Arsten, Neuenlander Straße/B 6, Georg-
         Wulf-Straße, A 281 bis AS Woltmershausen Reedeich, Abfahrt in Richtung
-        Reedeich Nord, Senator-Apelt-Straße bis BLG und zurück
+        Reedeich Nord, Senator-Apelt-Straße bis BLG
 
 
 *    *
     *   Tauschplatz (zum Fahrer-Schichtwechsel) Allerkai 4 bis LAL2 Weser-Ems-
         Straße bis BLG Senator-Apelt-Straße 90:
         Allerkai, Hemelinger Hafendamm, Weser-Ems-Straße, Walter-Jacobs-
-        Straße, Europaallee, A 1 (AS 55 Bremen-Hemelingen), A 1 (AS 56
-        Arsten), Autobahnzubringer Arsten, Neuenlander Straße/B 6, Georg-Wulf-
+        Straße, Europaallee, A 1 (AS 55 Bremen-Hemelingen), A 1 (AS 56
+        Arsten), Autobahnzubringer Arsten, Neuenlander Straße/B 6, Georg-Wulf-
         Straße, A 281 bis AS Woltmershausen Reedeich, Abfahrt in Richtung
-        Reedeich Nord, Senator-Apelt-Straße bis BLG und zurück
+        Reedeich Nord, Senator-Apelt-Straße bis BLG
 
 
 *    *
     *   Weser-Ems-Straße, Hemelinger Hafendamm, Allerkai, Zum Allerhafen,
         Hemelinger Tunnel, Sebaldsbrücker Heerstraße, Hermann-Koenen-Straße
-        bis Mercedes-Benz, Tor 8 und zurück
+        bis Mercedes-Benz, Tor 8
 
 
 *    *
     *   Senator-Blase-Straße 23, Mühlenhauser Weg, Senator-Apelt-Straße,
-        Rudolf-Diesel-Straße, Merkurstraße bis Stromer Landstraße und zurück
+        Rudolf-Diesel-Straße, Merkurstraße bis Stromer Landstraße
 
 
 
-**Nachgeordnetes Straßennetz im Hamburger Hafengebiet:**
+
+**Nachgeordnetes Streckennetz im Hamburger Hafengebiet:**
 
 *    *   Haupthafenroute
 
-    *   ab/bis
-        Haus-Nr.
+    *   ab/bis Haus-Nr.
 
-    *   befahrbarer Abschnitt
+    *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   Am Moldauhafen
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Rampenstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Am Saalehafen
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Veddeler Damm
@@ -4361,19 +4661,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Ellerholzbrücke
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Roßdamm
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Köhlbrandbrücke
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Finkenwerder Straße
@@ -4386,7 +4686,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Finkenwerder Ring
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Seehafenstraße
@@ -4399,7 +4699,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Moorburger Straße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Moorburger Bogen
@@ -4408,8 +4708,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von Moorburger Straße bis Fürstenmoordamm
 
 
-*    *   An der Alten
-        Süderelbe
+*    *   An der Alten Süderelbe
 
     *
     *   von Finkenwerder Straße bis Am Rosengarten/Neßdeich
@@ -4424,65 +4723,65 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Am Rosengarten
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 
 
 *    *   Nebenstrecken
 
-    *   ab/bis
-        Haus-Nr.
+    *   ab/bis Haus-Nr.
 
-    *   befahrbarer Abschnitt
+    *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   1. Hafenstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   2. Hafenstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
-*    *   Schuhmacher­werder
+*    *   Schuhmacherwerder
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Tunnelstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Am Bahndamm
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Prielstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Veddeler Marktplatz
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Peutestraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Dessauer Straße
@@ -4494,20 +4793,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Am Windhukkai
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Indiastraße
 
     *   4
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Kamerunweg
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Ellerholzweg
@@ -4523,7 +4822,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von Roßdamm bis Neuhöfer Brückenstraße
 
 
-*    *   Neuhöfer Brücken­straße
+*    *   Neuhöfer Brückenstraße
 
     *   47
 
@@ -4533,13 +4832,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Breslauer Straße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Am Travehafen
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Roßweg
@@ -4552,26 +4851,26 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   30
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Waltershofer Damm
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Kurt-Eckelmann-Straße
 
     *   1
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Altenwerder Hauptdeich
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Altenwerder Damm
@@ -4584,7 +4883,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Dradenaustraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Dradenauer Deichweg
@@ -4604,21 +4903,21 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   3
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Köhlfleetdamm
 
     *   5
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Am Ballinkai
 
     *   1
 
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Aluminiumstraße
@@ -4637,13 +4936,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Finkenwerder Weg
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Müggenburger Hauptdeich
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Wilhelm-Weber-Straße
@@ -4660,14 +4959,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-**Nachgeordnetes Straßennetz Hamburg:**
+
+**Nachgeordnetes Streckennetz Hamburg:**
 
 *    *   Straße
 
-    *   ab/bis
-        Haus-Nr.
+    *   ab/bis Haus-Nr.
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   Andreas-Meyer-Straße
@@ -4692,7 +4992,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Amandus-Stubbe-Straße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Rungedamm
@@ -4710,14 +5010,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Wilhelm-Iwan-Ring
 
     *
-    *   Gesamt
+    *   gesamt
 
 
-*    *   Georgswerder
-        Bogen
+*    *   Georgswerder Bogen
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Obergeorgswerder Hauptdeich
@@ -4729,19 +5028,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Beim Schröderschen Hof
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Fürstenmoordamm
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Georg-Heyken-Straße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Waltershofer Straße
@@ -4753,31 +5052,52 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Heykenaukamp
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Heykenauweg
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Moorfleeter Brücke
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Gelbe Brücke
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Moorfleeter Straße
 
     *
-    *   von Gelbe Brücke bis Werner-Siemens-Straße
+    *   gesamt
+
+
+*    *   Billbrockdeich
+
+    *   bis 183
+
+    *   von Moorfleeter Straße bis Billbrookdeich 183
+
+
+*    *   Bredowstraße
+
+    *   14
+
+    *   von Moorfleeter Straße bis Bredowstraße 14
+
+
+*    *   Pinkertweg
+
+    *   bis 12
+
+    *   von Moorfleeter Straße bis Pinkertweg 12
 
 
 *    *   Werner-Siemens-Straße
@@ -4789,439 +5109,552 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Borsigstraße
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Borsigbrücke
 
     *
-    *   Gesamt
+    *   gesamt
 
 
 *    *   Großmannstraße
 
     *   114
 
-    *   von Borsigbrücke bis Großmannstraße 114
+    *   von Borsigbrücke bis Großmanstraße 114
 
 
 
-**Nachgeordnetes Straßennetz Hessen:**
+
+**Nachgeordnetes Streckennetz Hessen:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen, sofern nicht anders angegeben
 
 
 *    *   L 3202
 
-    *   von A 66 (AS Gelnhausen-West) bis Abzweig Am Galgenfeld, Gelnhausen
+    *   von AS Gelnhausen-West/A 66 bis Anschluss Am Galgenfeld, 63571
+        Gelnhausen
 
 
-*    *   Gemeindestraße
+*    *   Am Galgenfeld
 
-    *   Am Galgenfeld von Abzweig L 3202 bis Hausnummer 25, Gelnhausen
+    *   von L 3202 bis Hausnummer 25, 63571 Gelnhausen
 
 
 *    *   B 54
 
-    *   von A 45 (AS Haiger/Burbach) bis Abzweig Kalteiche-Ring, Haiger
+    *   von AS Haiger/Burbach/A 45 bis Anschluss Kalteiche-Ring, 35708 Haiger
 
 
-*    *   Gemeindestraße
+*    *   Kalteiche-Ring
 
-    *   Kalteiche-Ring von Abzweig B 54 bis Hausnummer 47, Haiger
+    *   von B 54 bis Hausnummer 47, 35708 Haiger
 
 
 *    *   B 40
 
-    *   von A 671 (AS Hochheim-Süd) bis Abzweig Hauptstraße 1, Wiesbaden,
+    *   von AS Hochheim-Süd/A 671 bis Anschluss Hauptstraße, 55246 Wiesbaden,
         Stadtteil Mainz-Kostheim
 
 
-*    *   Gemeindestraße
+*    *   Hauptstraße
 
-    *   Hauptstraße von Abzweig der B 40 bis Hausnummer 1, Wiesbaden,
-        Stadtteil Mainz-Kostheim
-
-
-*    *   B 8
-
-    *   Hanauer Landstraße von A 661 (AS Frankfurt-Ost) bis Einmündung Carl-
-        Benz-Straße, Frankfurt am Main
+    *   von B 40 bis Hausnummer 1, 55246 Wiesbaden, Stadtteil Mainz-Kostheim
 
 
-*    *   Gemeindestraße
-        L 3001
+*    *   Dieselstraße
 
-    *   Carl-Benz-Straße von Hanauer Landstraße (B 8) bis Einmündung Robert-
-        Bosch-Straße, Frankfurt am Main
-
-
-*    *   Gemeindestraße
-
-    *   Robert-Bosch-Straße von Carl-Benz-Straße (L 3001) bis Hausnummer 4,
+    *   von B 8 (Hanauer Landstraße) bis Anschluss Carl-Benz-Straße, 60386
         Frankfurt am Main
+
+
+*    *   L 3001
+        (Carl-Benz-Straße)
+
+    *   von Dieselstraße bis Anschluss Robert-Bosch-Straße, 60386 Frankfurt am
+        Main
+
+
+*    *   Robert-Bosch-Straße
+
+    *   von L 3001 (Carl-Benz-Straße) bis Hausnummer 4, 60386 Frankfurt am
+        Main
 
 
 *    *   B 43
+        (Querspange Kelsterbach)
 
-    *   von Querspange Kelsterbach bis Einmündung in K 823 (Airportring),
-        Frankfurt am Main
+    *   von B 40 bis Anschluss K 823 (Airportring), 60547 Frankfurt am Main
 
 
 *    *   K 823
+        (Airportring)
 
-    *   Airportring von Querspange Kelsterbach (B 43) bis Flughafen Frankfurt,
-        Tor 25
-
-
-*    *   K 824
-
-    *   von A 661 (AS Nieder-Eschbach) bis Heinrich-Lanz-Allee, Frankfurt am
-        Main
+    *   von B 43 (Querspange Kelsterbach) bis Flughafen Frankfurt am Main, Tor
+        25
 
 
-*    *   Gemeindestraße
+*    *   Züricher Straße
 
-    *   Heinrich-Lanz-Allee von K 824 bis Josef-Eicher-Straße, Frankfurt am
-        Main
-
-
-*    *   Gemeindestraße
-
-    *   Josef-Eicher-Straße von Heinrich-Lanz-Allee bis Hausnummer 13 – 15,
+    *   von AS Nieder-Eschbach/A 661 bis Anschluss Heinrich-Lanz-Allee, 60437
         Frankfurt am Main
+
+
+*    *   Heinrich-Lanz-Allee
+
+    *   von Züricher Straße bis Anschluss Josef-Eicher-Straße, 60437 Frankfurt
+        am Main
+
+
+*    *   Josef-Eicher-Straße
+
+    *   von Heinrich-Lanz-Allee bis Hausnummer 13 – 15, 60437 Frankfurt am
+        Main
 
 
 *    *   L 3176
 
-    *   von A 7 (AS Hünfeld/Schlitz) bis Fraurombacher Straße, Schlitz-
-        Fraurombach
+    *   von AS Hünfeld Schlitz/A 7 bis Anschluss Fraurombacher Straße, 36110
+        Schlitz (Fraurombach)
 
 
-*    *   Gemeindestraße
+*    *   Fraurombacher Straße
 
-    *   Fraurombacher Straße (komplett) ab L 3176
+    *   ab L 3176 (komplett), 36110 Schlitz (Fraurombach)
 
 
-*    *   Gemeindestraße
+*    *   Rolf-Hartmann-Straße
 
-    *   Rolf-Hartmann-Straße von Fraurombacher Straße bis Hausnummer 4,
-        Schlitz-Fraurombach
+    *   von Fraurombacher Straße bis Hausnummer 4, 36110 Schlitz (Fraurombach)
 
 
 *    *   B 43
 
-    *   von Kreisel Mönchhofgelände (Abzweig Mönchhofallee) über A 3 (AS
-        Raunheim) bis Abzweig Kelsterbacher Straße, Raunheim
+    *   von Kreisel Mönchhofgelände (Abzweig Mönchhofallee) über AS Raunheim/A
+        3 bis Abzweig Kelsterbacher Straße, 65479 Raunheim
 
 
-*    *   Gemeindestraße
+*    *   Kelsterbacher Straße
 
-    *   Kelsterbacher Straße von B 43 bis Hausnummer 64, Raunheim
+    *   von B 43 bis Hausnummer 64, 65479 Raunheim
 
 
 *    *   L 3262
 
-    *   von A 5 (AS Zeppelinheim) bis Flughafen Frankfurt, Tor 32 (Forstweg)
+    *   von AS Zeppelinheim/A 5 bis Flughafen Frankfurt, Tor 32 (Forstweg)
 
 
 *    *   B 62
 
-    *   von A 4 (AS Friedewald) bis Abzweig Gottfried-Schenker-Straße,
+    *   von AS Friedewald/A 4 bis Anschluss Gottfried-Schenker-Straße, 36289
         Friedewald
 
 
-*    *   Gemeindestraße
+*    *   Gottfried-Schenker-Straße
 
-    *   Gottfried-Schenker-Straße ab Abzweig B 62, komplett
+    *   36289 Friedewald
 
 
-*    *   Gemeindestraße
+*    *   Im Gewerbegebiet
 
-    *   Im Gewerbegebiet ab Gottfried-Schenker-Straße, Friedewald
+    *   von Gottfried-Schenker-Straße, 36289 Friedewald
+
+
+*    *   Hermesstraße
+
+    *   36289 Friedewald
 
 
 *    *   L 3473
+        (Wolfsburger Straße)
 
-    *   Wolfsburger Straße von A 49 (AS Baunatal-Mitte) bis Abzweig
-        Fehrenberger Straße, Baunatal
-
-
-*    *   Gemeindestraße
-
-    *   Fehrenberger Straße von Abzweig L 3473 (Wolfsburger Straße) bis
-        Abzweig Harzweg, Baunatal
+    *   von AS Baunatal-Mitte/A 49 bis Anschluss Fehrenberger Straße, 34225
+        Baunatal
 
 
-*    *   Gemeindestraße
+*    *   Fehrenberger Straße
 
-    *   Harzweg, Baunatal
+    *   von Wolfsburger Straße bis Anschluss Harzweg, 34225 Baunatal
 
 
-*    *   Gemeindestraße
+*    *   Harzweg
 
-    *   Hannoversche Straße, Baunatal
+    *   34225 Baunatal
+
+
+*    *   Hannoversche Straße
+
+    *   34225 Baunatal
 
 
 *    *   L 3221
+        (Besser Straße)
 
-    *   Besser Straße von A 49 (AS Gudensberg) bis Abzweig Bahnwiesenweg,
-        Gudensberg
-
-
-*    *   Gemeindestraße
-
-    *   Bahnwiesenweg von Abzweig von L 3221 (Besser Straße) bis Hausnummer
-        20, Gudensberg
+    *   von AS Gudensberg/A 49 bis Anschluss Bahnwiesenweg, 34281 Gudensberg
 
 
-*    *   B 80
+*    *   Bahnwiesenweg
 
-    *   von AS Hann. Münden-Hedemünden (A 7) bis Abzweig B 27
-
-
-*    *   B 27
-
-    *   von B 80 bis Abzweig L 3464
+    *   von L 3221 (Besser Straße) bis Hausnummer 20, 34281 Gudensberg
 
 
 *    *   L 3464
 
-    *   von B 27 bis B 451
-
-
-*    *   B 451
-
-    *   von L 3464 bis Kasseler Landstraße 23, Witzenhausen
-
-
-*    *   B 426
-
-    *   von A 67 (AS Pfungstadt) bis B 44
+    *   von B 27 (bei 37214 Werleshausen) bis B 451 (bei 37213 Witzenhausen)
 
 
 *    *   B 44
 
-    *   von B 426 bis Marie-Curie-Straße, Gernsheim
+    *   von B 426 bis Marie-Curie-Straße, 64579 Gernsheim
 
 
-*    *   Gemeindestraße
+*    *   Marie-Curie-Straße
 
-    *   Marie-Curie-Straße, Gernsheim, von B 44 bis Hausnummer 1 und 5
+    *   von B 44 bis Hausnummer 1 und 5, 64579 Gernsheim
 
 
-*    *   Gemeindestraße
+*    *   Mönchhofallee
 
-    *   Mönchhofallee, Raunheim
+    *   65479 Raunheim
 
 
-*    *   Gemeindestraße
+*    *   Tiberstraße
 
-    *   Tiberstraße, Raunheim
+    *   65479 Raunheim
 
 
-*    *   Gemeindestraße
+*    *   Werrastraße
 
-    *   Werrastraße, Raunheim
+    *   65479 Raunheim
 
 
-*    *   Gemeindestraße
+*    *   Seinestraße
 
-    *   Seinestraße, Raunheim
+    *   65479 Raunheim
 
 
-*    *   Gemeindestraße
+*    *   Tejostraße
 
-    *   Tejostraße, Raunheim
+    *   65479 Raunheim
 
 
-*    *   B 27
+*    *   B 27
 
-    *   von A 7 (AS Fulda-Nord) bis L 3079
+    *   von AS Fulda-Nord/A 7 bis Anschluss L 3079 (Leipziger Straße)
 
 
-*    *   L 3079
+*    *   L 3079
+        (Leipziger Straße)
 
-    *   von B 27 bis Daimler-Benz-Straße, Fulda
+    *   von B 27 bis Anschluss Daimler-Benz-Straße, 36037 Fulda
 
 
-*    *   Gemeindestraße
+*    *   Daimler-Benz-Straße
 
-    *   Daimler-Benz-Straße, Fulda
-
-
-*    *   B 323
-
-    *   von AS Homberg (Efze) (A 7) über B 323 bis B 254
-
-
-*    *   Gemeindestraße
-
-    *   von B 323 Einmündung Ziegenhainer Straße weiter bis Robert-Bosch-
-        Straße bis Ludwig-Erhard-Straße
-
-
-*    *   B 254
-
-    *   von B 323/B254 weiter bis Homberg-Lützelwig bis Marburger Straße 13
-        Shell Autohof
-
-
-*    *   B 254
-
-    *   von B 323 bis Rudolf-Diesel-Straße, Homberg (Efze)
-
-
-*    *   Gemeindestraße
-
-    *   Rudolf-Diesel-Straße, Homberg (Efze), bis Hausnummer 7
-
-
-*    *   L 3250
-
-    *   von LG Thüringen/Hessen bis LG Hessen/Thüringen; Teilstück auf
-        hessischem Gebiet zwischen A 4 (AS Gerstungen) und Berka/Werra
-
-
-*    *   Gemeindestraße
-        L 3001
-        B 8
-
-    *   Uhlfelderstraße 1 – 3, Frankfurt am Main bis Kreuzung Carl-Benz-Straße
-        über Adam-Opel-Straße bis Kreuzung Ernst-Heinkel-Straße über Ernst-
-        Heinkel-Straße bis Kreuzung Hanauer Landstraße (B 8) – über Hanauer
-        Landstraße bis Übergang Frankfurter Landstraße bis Kreuzung Am
-        Kreuzstein bis A 66 (AS Maintal-Bischofsheim)
-
-
-*    *   Gemeindestraße
-        L 3001
-        B 8
-
-    *   Uhlfelderstraße 1 – 3, Frankfurt am Main bis Kreuzung Carl-Benz-Straße
-        über Carl-Benz-Straße bis Übergang Dieselstraße bis Kreuzung Hanauer
-        Landstraße (B 8) weiter bis Ratswegkreisel bis A 661 in Richtung A 3;
-        Ratswegkreisel bis Ratsweg bis A 661 in Richtung Bad Homburg
-
-
-*    *   Gemeindestraße
-        K 11
-
-    *   Justus-Liebig-Straße 14 bis Kreuzung Otto-Hahn-Straße – Otto-Hahn-
-        Straße bis Kreuzung Waldauer Weg – Waldauer Weg (K 11) – Marie-Curie-
-        Straße (K 11) bis A 49 (AS Kassel-Industriepark)
-
-
-*    *   Gemeindestraße
-        K 11
-
-    *   A 49 (AS Kassel-Industriepark) über Marie-Curie-Straße (K 11),
-        Waldauer Weg (K 11) bis Kreuzung Waldauer Weg/Justus-Liebig-Straße –
-        bis Justus-Liebig-Straße 14
-
-
-*    *   Gemeindestraße
-        L 3418n
-        B 27/B 254
-
-    *   A 66 (AS Fulda-Süd) – B 27 – Kreuzung B 27/B 254 – Frankfurter Straße
-        (B 254) bis Kreuzung Karl-Storch-Straße – L 3418n – K 110 –
-        Karrystraße – Schleyerstraße 1, Fulda
-
-
-*    *   K 90
-        Gemeindestraße
-
-    *   A 66 (AS Flieden) – K 90 – Am Landrücken 11, Flieden
-
-
-*    *   Gemeindestraße
-        L 3316
-
-    *   aus Fahrtrichtung Süden und in Fahrtrichtung Norden:
-        A 49 (AS Baunatal-Süd) – L 3316 (Grifter Straße) bis Kreisel L
-        3316/Abzweig Lange Heideteile – Lange Heideteile 11, Edermünde
-
-
-*    *   Gemeindestraße
-
-    *   aus Fahrtrichtung Norden und in Fahrtrichtung Süden:
-        A 49 (AS Baunatal-Süd) – Straßenverlauf Lange Heideteile bis Lange
-        Heideteile 11, Edermünde
-
-
-*    *   Gemeindestraße
-        Bundesstraße
-
-    *   Lise-Meitner-Straße 26 – Josef-Bautz-Straße – Rodgaustraße, Hanau, bis
-        B 43a (AS Hanau-Hafen)
-
-
-*    *   Gemeindestraße
-        Landesstraße
-
-    *   Am Eichenzeller Weg – Eschengrund, Eichenzell – L 3430 (Hanauer
-        Straße) bis AS Fulda Süd (A 66)
-
-
-*    *   Gemeindestraße
-        Bundesstraße
-
-    *   Schilfswiese – Am Elvisterminal, Knüllwald – Kreisel B 323 bis AS
-        Homberg/Efze (A 7)
-
-
-*    *   Gemeindestraße
-        Landesstraße
-
-    *   von AS Breuna (A 44) weiter über L 3312, am Kreisel in Otto-Hahn-
-        Straße bis Hausnummer 1
-
-
-*    *   K 32
-        Gemeindestraße
-
-    *   von AS Kirchheim (A 7) über K 32 bis Industriestraße (Kirchheim)
-
-
-*    *   Gemeindestraße
-        L 3236
-
-    *   von AS Kassel-Industriepark (A 49) über L 3236 (Crumbacher Straße) bis
-        Am Fieseler Werk 27, Lohfelden
+    *   36039 Fulda
 
 
 *    *   B 323
 
-    *   von AS Homberg (Efze) (A 7) über B 323 bis B 254
+    *   von AS Homberg Efze/A 7 bis Anschluss B 254
 
 
-*    *   Gemeindestraße
+*    *   Ziegenhainer Straße
 
-    *   von B 323 Einmündung Ziegenhainer Straße weiter bis Robert-Bosch-
-        Straße bis Ludwig-Erhard-Straße
+    *   von B 323 bis Anschluss Robert-Bosch-Straße, 34576 Homberg Efze
+
+
+*    *   Robert-Bosch-Straße
+
+    *   von Ziegenhainer Straße bis Anschluss Ludwig-Erhard-Straße, 34576
+        Homberg Efze
+
+
+*    *   Rudolf-Diesel-Straße
+
+    *   von B 254 (Marburger Straße) bis Hausnummer 7, 34576 Homberg Efze
+
+
+*    *   Ludwig-Erhard-Straße
+
+    *   von Rudolf-Diesel-Straße bis Anschluss Robert-Bosch-Straße, 34576
+        Homberg Efze
+
+
+*    *   B 8
+        (Am Kreuzstein,
+        Frankfurter Landstraße,
+        Hanauer Landstraße)
+
+    *   von AS Maintal-Bischofsheim/A 66 bis Anschluss L 3001 (Ernst-Heinkel-
+        Straße)
+
+
+*    *   L 3001
+        (Ernst-Heinkel-Straße)
+
+    *   von B 8 bis Anschluss Adam-Opel-Straße, 60314 Frankfurt am Main
+
+
+*    *   L 3001
+        (Adam-Opel-Straße)
+
+    *   von Ernst-Heinkel-Straße bis Anschluss Carl-Benz-Straße, 60314
+        Frankfurt am Main
+
+
+*    *   Uhlfelderstraße
+
+    *   von Carl-Benz-Straße bis Hausnummer 1 – 3, 60314 Frankfurt am Main
+
+
+*    *   Justus-Liebig-Straße
+        Otto-Hahn-Straße
+        K 11
+
+    *   Justus-Liebig-Straße Hausnummer 14, 34253 Lohfelden bis Kreuzung Otto-
+        Hahn-Straße – Otto-Hahn-Straße bis Kreuzung Waldauer Weg – Waldauer
+        Weg (K 11) – Marie-Curie-Straße (K 11) bis AS Kassel-Industriepark/A
+        49 (nur in beschriebener Fahrtrichtung)
+
+
+*    *   K 11
+        Justus-Liebig-Straße
+
+    *   von AS Kassel-Industriepark/A 49 über Marie-Curie-Straße (K 11),
+        Waldauer Weg (K 11) bis Kreuzung Waldauer Weg/Justus-Liebig-Straße bis
+        Justus-Liebig-Straße Hausnummer 14, 34253 Lohfelden (nur in
+        beschriebener Fahrtrichtung)
+
+
+*    *   B 27
+
+    *   von AS Fulda-Süd/A 66 bis Anschluss B 254
 
 
 *    *   B 254
-        Gemeindestraße
 
-    *   von B 323/B 254 weiter bis Homberg-Lützelwig bis Marburger Straße 13
-        Shell Autohof
+    *   von B 27 bis Anschluss L 3418 (Karl-Storch-Straße)
 
 
-*    *   Gemeindestraße
-        K 448
+*    *   L 3418
+        (Westring)
 
-    *   ab Siemensstraße (Merenberg) über K 448 (Industriestraße) bis B 49
+    *   von B 254 bis Anschluss K 110
+
+
+*    *   K 110
+        (Westring)
+
+    *   von L 3418 bis Anschluss Karrystraße, 36041 Fulda
+
+
+*    *   Karrystraße
+
+    *   von K 110 bis Anschluss Schleyerstraße, 36041 Fulda
+
+
+*    *   Schleyerstraße
+
+    *   bis Hausnummer 1, 36041 Fulda
+
+
+*    *   Werner-von-Siemens-Straße
+
+    *   36041 Fulda
+
+
+*    *   K 90
+        (Kappenmühle)
+
+    *   von AS Flieden/A 66 bis Anschluss Am Landrücken, 36103 Flieden
+
+
+*    *   Am Landrücken
+
+    *   bis Hausnummer 11, 36103 Flieden
+
+
+*    *   Rodgaustraße
+
+    *   von B 43a/AS Hanau-Hafen bis Anschluss Josef-Bautz-Straße, 63450 Hanau
+
+
+*    *   Josef-Bautz-Straße
+
+    *   von Rodgaustraße bis Anschluss Lise-Meitner-Straße, 63450 Hanau
+
+
+*    *   Lise-Meitner-Straße
+
+    *   bis Hausnummer 26, 63450 Hanau
+
+
+*    *   L 3430
+        (Hanauer Straße)
+
+    *   von B 27 bis Anschluss Eschengrund, 36124 Eichenzell
+
+
+*    *   Eschengrund
+
+    *   von L 3430 (Hanauer Straße) bis Anschluss Am Eichenzeller Weg, 36124
+        Eichenzell
+
+
+*    *   Am Eichenzeller Weg
+
+    *   36124 Eichenzell
+
+
+*    *   Schilfswiese
+
+    *   von B 323 (Kreisel) bis Anschluss Am Elvis Terminal, 34593 Knüllwald
+
+
+*    *   Am Elvis Terminal
+
+    *   34593 Knüllwald
+
+
+*    *   L 3312
+
+    *   von AS Breuna/A 44 im Kreisel Anschluss Otto-Hahn-Straße, 34479 Breuna
+
+
+*    *   Otto-Hahn-Straße
+
+    *   von L 3312 (Kreisel) bis Hausnummer 1, 34479 Breuna
+
+
+*    *   K 32
+
+    *   von AS Kirchheim/A 7 bis Anschluss Industriestraße, 36275 Kirchheim
+
+
+*    *   Industriestraße
+
+    *   36275 Kirchheim
+
+
+*    *   L 3236
+        (Crumbacher Straße)
+
+    *   von AS Kassel-Industriepark/A 49 bis Anschluss Am Fieseler Werk, 34253
+        Lohfelden
+
+
+*    *   Am Fieseler Werk
+
+    *   bis Hausnummer 27, 34253 Lohfelden
+
+
+*    *   K 448
+        (Industriestraße)
+
+    *   von B 49 bis Anschluss Siemensstraße, 35799 Merenberg
+
+
+*    *   Siemensstraße
+
+    *   von K 448 (Industriestraße) bis Anschluss Kruppstraße, 35799 Merenberg
+
+
+*    *   Kruppstraße
+
+    *   35799 Merenberg
 
 
 *    *   L 3482
-        Gemeindestraße
 
-    *   von AS Bischofsheim (A 60) über L 3482 bis Am Schindberg 9 – 15,
+    *   von AS Bischofsheim/A 60 bis Anschluss Am Schindberg, 65474
         Bischofsheim
+
+
+*    *   Am Schindberg
+
+    *   bis Hausnummer 9 – 15, 65474 Bischofsheim
+
+
+*    *   B 62
+
+    *   von AS Niederaula/A 7 bis Anschluss Industriestraße, 36272 Niederaula
+
+
+*    *   Industriestraße
+
+    *   bis Hausnummer 5, 36272 Niederaula
+
+
+*    *   L 3111
+        (Janusz-Korczak-Allee,
+        Robert-Bosch-Straße)
+
+    *   von AS Viernheim-Ost/A 659 bis Anschluss Industriestraße, 68519
+        Viernheim
+
+
+*    *   Industriestraße
+
+    *   von Robert-Bosch-Straße (L 3111) bis Anschluss Max-Planck-Straße,
+        68519 Viernheim
+
+
+*    *   Max-Planck-Straße
+
+    *   von Industriestraße bis Anschluss Fritz-Haber-Straße, 68519 Viernheim
+
+
+*    *   Fritz-Haber-Straße
+
+    *   bis Hausnummer 4, 68519 Viernheim
+
+
+*    *   B 8
+        (Ratswegkreisel,
+        Ratswegkreiselbrücke)
+
+    *   von AS Frankfurt-Ost bis Anschluss K 818 (Hanauer Landstraße), 60314
+        Frankfurt
+
+
+*    *   K 818
+        (Hanauer Landstraße)
+
+    *   von Ratswegkreisel bis Anschluss Osthafenplatz, 60314 Frankfurt
+
+
+*    *   Osthafenplatz
+
+    *   von K 818 (Hanauer Landstraße) bis Ausfahrt im Kreisel zum
+        Betriebsgelände der Firma Raab Karcher, 60314 Frankfurt
+
+
+*    *   L 3316
+        (Grifter Straße)
+        Lange Heideteile
+
+    *   aus Fahrtrichtung Süden in Fahrtrichtung Norden:
+        AS Baunatal-Süd/A 49 – L 3316 (Grifter Straße) bis Kreisel L
+        3316/Abzweig Lange Heideteile – Lange Heideteile 11, 34295 Edermünde
+
+
+*    *   Lange Heideteile
+
+    *   aus Fahrtrichtung Norden in Fahrtrichtung Süden:
+        AS Baunatal-Süd/A 49 – Straßenverlauf Lange Heideteile bis Lange
+        Heideteile 11, 34295 Edermünde
+
+
+*    *   Raiffeisenstraße
+
+    *   von B 251 bis Hausnummer 24 – 26, 34497 Korbach
+
 
 
 
@@ -5230,16 +5663,17 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   L 01
 
-    *   von B 105, 23942 Dassow, bis B 104, 23923 Schönberg
+    *   von B 105, 23942 Dassow bis B 104, 23923 Schönberg
 
 
 *    *   L 01
 
-    *   von B 104, 23923 Schönberg, bis Sabower Höhe, 23923 Schönberg
+    *   von B 104, 23923 Schönberg bis Sabower Höhe, 23923 Schönberg
 
 
 *    *   L 02
@@ -5249,7 +5683,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 03
 
-    *   von B 105, 23936 Grevesmühlen, bis An der Silberkuhle, 23936 Upahl
+    *   von B 105, 23936 Grevesmühlen bis An der Silberkuhle, 23936 Upahl
 
 
 *    *   L 04
@@ -5259,57 +5693,62 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 05
 
-    *   von L 04, 19243 Wittenburg, bis Mühlenring, 19243 Wittenburg
+    *   von L 04, 19243 Wittenburg bis Mühlenring, 19243 Wittenburg
 
 
 *    *   L 07
 
-    *   von B 5, 19288 Kummer, bis B 191, 19294 Eldena
+    *   von B 5, 19288 Kummer bis B 191, 19294 Eldena
 
 
 *    *   L 072
 
-    *   von A 14 (AS Grabow) bis L 08, 19300 Grabow, und von A 24 (AS
-        Wöbbelin) bis Schweriner Straße, 19077 Lübesse
+    *   von A 14 (AS Grabow) bis L 08, 19300 Grabow und von A 24 (AS Wöbbelin)
+        bis Schweriner Straße, 19077 Lübesse
 
 
 *    *   L 08
 
-    *   von L 072, 19300 Grabow, bis L 081, 19300 Zierzow
+    *   von L 072, 19300 Grabow bis L 081, 19300 Zierzow
 
 
 *    *   L 081
 
-    *   von L 08, 19300 Balow, bis Werler Weg, 19300 Balow
+    *   von L 08, 19300 Balow bis Werler Weg, 19300 Balow
 
 
 *    *   L 09
 
-    *   von Spornitzer Weg, 19372 Matzlow, bis Schwarzer Weg, 19370 Parchim,
-        und von B 191 bis Ebelingplatz, 19370 Parchim
+    *   von Spornitzer Weg, 19372 Matzlow bis Schwarzer Weg, 19370 Parchim und
+        von B 191 bis Ebelingplatz, 19370 Parchim
 
 
 *    *   L 012
 
-    *   von B 106 bis An der Westtangente, 23966 Hansestadt Wismar
+    *   von B 106 bis An der Westtangente, 23966 Wismar
 
 
 *    *   L 13
 
-    *   von B 103 bis Hans-Adam-Allee, 18299 Laage, und von Dorfstraße, 18209
-        Hohenfelde, über AS Bad Doberan der A 20 bis Hausnummer 1 der Sprenzer
-        Chaussee, 18258 Wiendorf
+    *   von B 103 bis Hans-Adam-Allee, 18299 Laage und von Dorfstraße, 18209
+        Hohenfelde über AS Bad Doberan der A 20 bis Sprenzer Chaussee 1, 18258
+        Wiendorf
+
+
+*    *   L 14
+
+    *   von A 19 (AS Glasewitz) bis Rövertannen, 18273 Güstrow
 
 
 *    *   L 16
 
-    *   von B 191, 19370 Parchim, bis B 392, 19374 Mestlin
+    *   von B 191, 19370 Parchim bis B 392, 19374 Mestlin
 
 
 *    *   L 17
 
-    *   von B 198, 17209 Stuer, bis Uwe-Johnson-Straße, 19395 Ganzlin, und von
-        B 191, 19386 Lübz, bis B 192, 19399 Goldberg
+    *   von B 198, 17209 Stuer bis Uwe-Johnson-Straße, 19395 Ganzlin und von B
+        191, 19386 Lübz bis B 192, 19399 Goldberg
 
 
 *    *   L 20
@@ -5319,15 +5758,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 22
 
-    *   von Toitenwinkler Allee/Dierkower Allee, 18146 Hansestadt Rostock, bis
-        Straße Große Rampe, 18146 Hansestadt Rostock
+    *   von Toitenwinkler Allee/Dierkower Allee, 18146 Rostock bis Straße
+        Große Rampe, 18146 Rostock
 
 
 *    *   L 35
 
-    *[^F812806_48_BJNR614410011BJNE001509119]
+    *[^f825743_51_BJNR614410011BJNE001510119]
    von NB
-        37, (Usedomer Straße) bis B 96, 17033 Neubrandenburg
+        37, Usedomer Straße bis B 96, 17033 Neubrandenburg
 
 
 *    *   L 39
@@ -5337,8 +5776,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 042
 
-    *   von B 106, 19057 Landeshauptstadt Schwerin, bis LUP 66, 19057
-        Landeshauptstadt Schwerin
+    *   von B 106, 19057 Schwerin bis LUP 66, 19057 Schwerin
 
 
 *    *   L 073
@@ -5346,9 +5784,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 24 (AS Neustadt-Glewe) bis B 191, 19288 Ludwigslust
 
 
+*    *   L 132
+
+    *   von Südring, 18059 Rostock bis L 132a
+
+
+*    *   L 132a
+
+    *   von L 132 bis A 20 (AS Rostock-Südstadt)
+
+
 *    *   L 191
 
-    *[^F812806_49_BJNR614410011BJNE001509119]
+    *[^f825743_52_BJNR614410011BJNE001510119]
    von A 19 (AS Kavelstorf) bis LRO
         19, 18196 Dummerstorf
 
@@ -5370,14 +5818,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   LUP 59
 
-    *   von Zur großen Heide, 19372 Spornitz, bis Spornitzer Weg, 19372
+    *   von Zur großen Heide, 19372 Spornitz bis Spornitzer Weg, 19372
         Matzlow-Garwitz
 
 
 *    *   LUP 66
 
-    *   von L 42, 19057 Landeshauptstadt Schwerin, bis Sacktannen, 19057
-        Landeshauptstadt Schwerin
+    *   von L 42, 19057 Schwerin bis Sacktannen, 19057 Schwerin
 
 
 *    *   LUP 125
@@ -5388,7 +5835,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   NB 35
 
     *   Steinstraße, 17036 Neubrandenburg: von Fritscheshofer Straße, 17036
-        Neubrandenburg, bis Gneisstraße, 17036 Neubrandenburg)
+        Neubrandenburg bis Gneisstraße, 17036 Neubrandenburg
 
 
 *    *   NB 35
@@ -5399,15 +5846,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   NB 37
 
-    *   von L 35, 17034 Neubrandenburg, bis Ihlenfelderstraße 152, 17034
+    *   von L 35, 17034 Neubrandenburg bis Ihlenfelderstraße 152, 17034
         Neubrandenburg
 
 
-*    *[^F812806_50_BJNR614410011BJNE001509119]
+*    *[^f825743_53_BJNR614410011BJNE001510119]
    NWM
         34
 
-    *   von Osttangente, 23974 Hornstorf, bis Hauptstraße 1, 23974 Hornstorf
+    *   von Osttangente, 23974 Hornstorf bis Hauptstraße 1, 23974 Hornstorf
 
 
 *    *   Gemeindestraße
@@ -5425,7 +5872,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Am Handelspark, 18184 Broderstorf: von Am Handelspark 1, 18184
-        Broderstorf, bis Neuendorfer Weg, 18184 Broderstorf
+        Broderstorf bis Neuendorfer Weg, 18184 Broderstorf
 
 
 *    *   Gemeindestraße
@@ -5442,67 +5889,67 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Holmer Berg, 23942 Dassow: von Holmer Berg 17, 23942 Dassow, bis B 105
+    *   Holmer Berg, 23942 Dassow: von Holmer Berg 17, 23942 Dassow bis B 105
 
 
 *    *   Gemeindestraße
 
-    *   Am Bollwerk, 17109 Hansestadt Demmin: von Peenestraße, 17109
-        Hansestadt Demmin, bis Am Hanseufer, 17109 Hansestadt Demmin
+    *   Am Bollwerk, 17109 Demmin: von Peenestraße, 17109 Demmin bis Am
+        Hanseufer, 17109 Demmin
 
 
 *    *   Gemeindestraße
 
-    *   Am Hanseufer, 17109 Hansestadt Demmin: von Deutsch-Kroner-Straße,
-        17109 Hansestadt Demmin, bis Am Bollwerk, 17109 Hansestadt Demmin
+    *   Am Hanseufer, 17109 Demmin: von Deutsch-Kroner-Straße, 17109 Demmin
+        bis Am Bollwerk, 17109 Demmin
 
 
 *    *   Gemeindestraße
 
-    *   Deutsch-Kroner-Straße, 17109 Hansestadt Demmin: von B 194 bis Am
-        Hanseufer, 17109 Hansestadt Demmin
+    *   Deutsch-Kroner-Straße, 17109 Demmin: von B 194 bis Am Hanseufer, 17109
+        Demmin
 
 
 *    *   Gemeindestraße
 
-    *   Peenestraße, 17109 Hansestadt Demmin: von B 194 bis Straße Am
-        Bollwerk, 17109 Hansestadt Demmin
+    *   Peenestraße, 17109 Demmin: von B 194 bis Straße Am Bollwerk, 17109
+        Demmin
 
 
 *    *   Gemeindestraße
 
     *   Am Rieck Logistikpark, 18196 Dummerstorf: von Am Rieck Logistikpark 1,
-        18196 Dummerstorf, bis Zur Radewiese, 18196 Dummerstorf
+        18196 Dummerstorf bis Zur Radewiese, 18196 Dummerstorf
 
 
 *    *   Gemeindestraße
 
     *   Gemeinde Dummerstorf: Am Weidenbruch, 18196 Dummerstorf: von Am
-        Weidenbruch 2, 18196 Dummerstorf, bis L39
+        Weidenbruch 2, 18196 Dummerstorf bis L 39
 
 
 *    *   Gemeindestraße
 
     *   Zur Radewiese, 18196 Dummerstorf: von Am Rieck Logistikpark, 18196
-        Dummerstorf, bis Landweg, 18196 Dummerstorf
+        Dummerstorf bis Landweg, 18196 Dummerstorf
 
 
 *    *   Gemeindestraße
 
-    *   Landweg, 18196 Dummerstorf: von Zur Radewiese, 18196 Dummerstorf, bis
-        L 191/LRO 19 (Rostocker Straße, 18196 Dummerstorf)
+    *   Landweg, 18196 Dummerstorf: von Zur Radewiese, 18196 Dummerstorf bis L
+        191/LRO 19 (Rostocker Straße, 18196 Dummerstorf)
 
 
 *    *   Gemeindestraße
 
-    *   Hohe Tannen, 18196 Dummerstorf: von Hohen Tannen 4, 18196 Dummerstorf,
+    *   Hohe Tannen, 18196 Dummerstorf: von Hohe Tannen 4, 18196 Dummerstorf
         bis L 39
 
 
 *    *   Gemeindestraße
 
     *   Am Heisterbusch, 19246 Lüttow-Valluhn: von Am Heisterbusch 22, 19246
-        Lüttow-Valluhn, von A 24 (AS Gallin)
+        Lüttow-Valluhn, bis A 24 (AS Gallin)
 
 
 *    *   Gemeindestraße
@@ -5519,7 +5966,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Grüner Weg, 19395 Ganzlin: von Grüner Weg 14, 19395 Ganzlin, bis Uwe-
+    *   Grüner Weg, 19395 Ganzlin: von Grüner Weg 14, 19395 Ganzlin bis Uwe-
         Johnson-Straße, 19395 Ganzlin
 
 
@@ -5538,18 +5985,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Sudenhofer Straße, 19230 Hagenow: von Sudenhofer Straße 5, 19230
-        Hagenow, bis B 321
+        Hagenow bis B 321
 
 
 *    *   Gemeindestraße
 
     *   Dr.-Raber-Straße, 19230 Hagenow: von Dr. Raber-Straße 10, 19230
-        Hagenow, bis LUP 29
+        Hagenow bis LUP 29
 
 
 *    *   Gemeindestraße
 
-    *   Dorfstraße, 18209 Hohenfelde: von Dorfstraße 30, 18209 Hohenfelde, bis
+    *   Dorfstraße, 18209 Hohenfelde: von Dorfstraße 30, 18209 Hohenfelde bis
         L 13
 
 
@@ -5571,13 +6018,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Gewerbering, 19077 Lübesse: von Schweriner Straße, 19077 Lübesse, bis
+    *   Gewerbering, 19077 Lübesse: von Schweriner Straße, 19077 Lübesse bis
         Handelsstraße, 19077 Lübesse
 
 
 *    *   Gemeindestraße
 
-    *   Handelsstraße, 19077 Lübesse: von Handelsstraße 10, 19077 Lübesse, bis
+    *   Handelsstraße, 19077 Lübesse: von Handelsstraße 10, 19077 Lübesse bis
         Gewerbering, 19077 Lübesse
 
 
@@ -5589,20 +6036,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Eisenbeissstraße, 19386 Lübz: von Eisenbeissstraße 1, 19386 Lübz, bis
+    *   Eisenbeissstraße, 19386 Lübz: von Eisenbeissstraße 1, 19386 Lübz bis
         LUP 125
 
 
 *    *   Gemeindestraße
 
     *   Golden-Toast-Straße, 23923 Wahrsow: von Golden-Toast-Straße 1, 23923
-        Wahrsow, bis Gertrud-Kolz-Straße, 23923 Wahrsow
+        Wahrsow bis Gertrud-Kolz-Straße, 23923 Wahrsow
 
 
 *    *   Gemeindestraße
 
     *   Gertrud-Kolz-Straße, 23923 Wahrsow: von Golden-Toast-Straße, 23923
-        Wahrsow, bis L 02
+        Wahrsow bis L 02
 
 
 *    *   Gemeindestraße
@@ -5619,7 +6066,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Am Neuen Friedhof, 17036 Neubrandenburg: von Sponholzer Straße, 17036
-        Neubrandenburg, bis B 104
+        Neubrandenburg bis B 104
 
 
 *    *   Gemeindestraße
@@ -5631,7 +6078,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Straße An der Autobahn, 19306 Neustadt-Glewe: von B 191, 19306
-        Neustadt-Glewe, bis An der Autobahn 25, 19306 Neustadt-Glewe
+        Neustadt-Glewe bis An der Autobahn 25, 19306 Neustadt-Glewe
 
 
 *    *   Gemeindestraße
@@ -5646,32 +6093,32 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Burgdamm, 19370 Parchim: von Wiesenring, 19370 Parchim, bis Neue
+    *   Burgdamm, 19370 Parchim: von Wiesenring, 19370 Parchim bis Neue
         Mauerstraße, 19370 Parchim
 
 
 *    *   Gemeindestraße
 
-    *   Auf dem Brook, 19370 Parchim: von Neue Mauerstraße, 19370 Parchim, bis
+    *   Auf dem Brook, 19370 Parchim: von Neue Mauerstraße, 19370 Parchim bis
         St. Marien-Straße, 19370 Parchim
 
 
 *    *   Gemeindestraße
 
-    *   St. Marien-Straße, 19370 Parchim: von Auf dem Brook, 19370 Parchim,
-        bis Lange Straße, 19370 Parchim
+    *   St. Marien-Straße, 19370 Parchim: von Auf dem Brook, 19370 Parchim bis
+        Lange Straße, 19370 Parchim
 
 
 *    *   Gemeindestraße
 
-    *   Lange Straße, 19370 Parchim: von St. Marien-Straße, 19370 Parchim, bis
+    *   Lange Straße, 19370 Parchim: von St. Marien-Straße, 19370 Parchim bis
         Ebelingplatz, 19370 Parchim
 
 
 *    *   Gemeindestraße
 
     *   Glienholzweg, 17207 Röbel/Müritz: von Glienholzweg 7, 17207
-        Röbel/Müritz, bis L 241
+        Röbel/Müritz bis L 241
 
 
 *    *   Gemeindestraße
@@ -5682,70 +6129,103 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Ahornring, 18184 Roggentin: von Ahornring 10, 18184 Roggentin, bis
+    *   Ahornring, 18184 Roggentin: von Ahornring 10, 18184 Roggentin bis
         Kösterbecker Straße, 18184 Roggentin
 
 
 *    *   Gemeindestraße
 
-    *   Große Rampe, 18146 Rostock: von Große Rampe 10, 18146 Rostock, bis L
-        22
+    *   Große Rampe, 18146 Rostock: von Große Rampe 10, 18146 Rostock bis L 22
 
 
 *    *   Gemeindestraße
 
-    *   Hanseatenstraße, 18146 Hansestadt Rostock: von Hanseatenstraße 1,
-        18146 Hansestadt Rostock, bis Große Rampe, 18146 Hansestadt Rostock
+    *   Hanseatenstraße, 18146 Rostock: von Hanseatenstraße 1, 18146 Rostock
+        bis Große Rampe, 18146 Rostock
 
 
 *    *   Gemeindestraße
 
-    *   Hansestadt Rostock: Hinrichsdorfer Straße, 18146 Hansestadt Rostock:
-        von Hinrichsdorfer Straße 7d, 18146 Hansestadt Rostock, bis L 22
+    *   Hinrichsdorfer Straße, 18146 Rostock: von Hinrichsdorfer Straße 7d,
+        18146 Rostock bis L 22
 
 
 *    *   Gemeindestraße
 
-    *   Sabower Höhe, 23923 Schönberg: von Sabower Höhe 14, 23923 Schönberg,
+    *   Liebherrstraße, 18147 Rostock: von Liebherrstraße 1, 18147 Rostock bis
+        Ost-West-Straße, 18147 Rostock
+
+
+*    *   Gemeindestraße
+
+    *   Ost-West-Straße, 18147 Rostock: von Liebherrstraße, 18147 Rostock bis
+        Am Seehafen, 18147 Rostock
+
+
+*    *   Gemeindestraße
+
+    *   Am Seehafen, 18147 Rostock: von Ost-West-Straße, 18147 Rostock bis A
+        19 (AS Rostock-Überseehafen)
+
+
+*    *   Gemeindestraße
+
+    *   Erich-Schlesinger-Straße, 18059 Rostock: von Erich-Schlesinger-Straße
+        50, 18059 Rostock bis Südring, 18059 Rostock
+
+
+*    *   Gemeindestraße
+
+    *   Südring, 18059 Rostock: von Erich-Schlesinger-Straße, 18059 Rostock
+        bis L 132 (Nobelstraße), 18059 Rostock
+
+
+*    *   Gemeindestraße
+
+    *   Langenort, 18147 Rostock: von Langenort 15, 18147 Rostock bis A 19 (AS
+        Rostock-Überseehafen)
+
+
+*    *   Gemeindestraße
+
+    *   Sabower Höhe, 23923 Schönberg: von Sabower Höhe 14, 23923 Schönberg
         bis L 01
 
 
 *    *   Gemeindestraße
 
     *   Zur großen Heide, 19372 Spornitz: von Zur großen Heide 4, 19372
-        Spornitz, bis LUP 59
+        Spornitz bis LUP 59
 
 
 *    *   Gemeindestraße
 
-    *   Preetzer Straße, 17153 Reuterstadt Stavenhagen: von Thomas-Dachser-
-        Straße, 17153 Reuterstadt Stavenhagen, bis Straße Wüstgrabow, 17153
-        Reuterstadt Stavenhagen
+    *   Preetzer Straße, 17153 Stavenhagen: von Thomas-Dachser-Straße, 17153
+        Stavenhagen bis Straße Wüstgrabow, 17153 Stavenhagen
 
 
 *    *   Gemeindestraße
 
-    *   Thomas-Dachser-Straße, 17153 Reuterstadt Stavenhagen: von der Thomas-
-        Dachser-Straße 3, 17153 Reuterstadt Stavenhagen, bis Preetzer Straße,
-        17153 Reuterstadt Stavenhagen
+    *   Thomas-Dachser-Straße, 17153 Stavenhagen: von Thomas-Dachser-Straße 3,
+        17153 Stavenhagen bis Preetzer Straße, 17153 Stavenhagen
 
 
 *    *   Gemeindestraße
 
-    *   Wüstgrabow, 17153 Reuterstadt Stavenhagen: von B 194 bis Preetzer
-        Straße, 17153 Reuterstadt Stavenhagen
+    *   Wüstgrabow, 17153 Stavenhagen: von B 194 bis Preetzer Straße, 17153
+        Stavenhagen
 
 
 *    *   Gemeindestraße
 
-    *   Pommerndreieck, 18516 Süderholz: von Hausnummer 3 der Straße
-        Pommerndreieck, 18516 Süderholz, bis B 194
+    *   Pommerndreieck, 18516 Süderholz: Pommerndreieck 3, 18516 Süderholz bis
+        B 194
 
 
 *    *   Gemeindestraße
 
-    *   An der Westtangente, 23966 Hansestadt Wismar: von An der Westtangente
-        4, 23966 Hansestadt Wismar, bis L 012
+    *   An der Westtangente, 23966 Wismar: von An der Westtangente 4, 23966
+        Wismar bis L 012
 
 
 *    *   Gemeindestraße
@@ -5755,33 +6235,32 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Fährweg, 19061 Landeshauptstadt Schwerin: von Fährweg 5, 19061
-        Landeshauptstadt Schwerin, bis Rudolf-Diesel-Straße, 19061
-        Landeshauptstadt Schwerin
+    *   Fährweg, 19061 Schwerin: von Fährweg 5, 19061 Schwerin bis Rudolf-
+        Diesel-Straße, 19061 Schwerin
 
 
 *    *   Gemeindestraße
 
-    *   Rudolf-Diesel-Straße, 19061 Landeshauptstadt Schwerin: von B 321 bis
-        Fährweg, 19061 Landeshauptstadt Schwerin
+    *   Rudolf-Diesel-Straße, 19061 Schwerin: von B 321 bis Fährweg, 19061
+        Schwerin
 
 
 *    *   Gemeindestraße
 
-    *   Sacktannen, 19057 Landeshauptstadt Schwerin: von Sacktannen 4, 19057
-        Landeshauptstadt Schwerin, bis LUP 66
+    *   Sacktannen, 19057 Schwerin: von Sacktannen 4, 19057 Schwerin, bis LUP
+        66
 
 
 *    *   Gemeindestraße
 
-    *   Selmsdorfer Landstraße, 23923 Selmsdorf: von B 104, 23923 Selmsdorf,
+    *   Selmsdorfer Landstraße, 23923 Selmsdorf: von B 104, 23923 Selmsdorf
         bis An der Trave, 23923 Selmsdorf
 
 
 *    *   Gemeindestraße
 
-    *   An der Trave, 23923 Selmsdorf: von An der Trave 19, 23923 Selmsdorf,
-        Selmsdorfer Landstraße, 23923 Selmsdorf
+    *   An der Trave, 23923 Selmsdorf: von An der Trave 19, 23923 Selmsdorf
+        bis Selmsdorfer Landstraße, 23923 Selmsdorf
 
 
 *    *   Gemeindestraße
@@ -5791,25 +6270,25 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Meiereiweg, 23936 Upahl: von Hausnummer 1 der Straße Meiereiweg, 23936
-        Upahl, bis Straße An der Silberkuhle, 23936 Upahl
+    *   Meiereiweg, 23936 Upahl: von Meiereiweg 1, 23936 Upahl bis Straße An
+        der Silberkuhle, 23936 Upahl
 
 
 *    *   Gemeindestraße
 
-    *   Mühlenring, 19243 Wittenburg: von L 05, 19243 Wittenburg, bis Am
+    *   Mühlenring, 19243 Wittenburg: von L 05, 19243 Wittenburg bis Am
         Mühlenberg, 19243 Wittenburg
 
 
 *    *   Gemeindestraße
 
-    *   Am Mühlenberg, 19243 Wittenburg: von Am Mühlenberg 1, 19243
-        Wittenburg, bis Mühlenring, 19243 Wittenburg
+    *   Am Mühlenberg, 19243 Wittenburg: von Am Mühlenberg 1, 19243 Wittenburg
+        bis Mühlenring, 19243 Wittenburg
 
 
 *    *   Gemeindestraße
 
-    *   Südring, 19243 Wittenburg: von Südring 1, 19243 Wittenburg, bis L 05
+    *   Südring, 19243 Wittenburg: von Südring 1, 19243 Wittenburg bis L 05
 
 
 *    *   Gemeindestraße
@@ -5821,50 +6300,52 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Rudolf-Diesel-Straße, 19243 Wittenburg: von Rudolf-Diesel-Straße 1,
-        19243 Wittenburg, bis Alter Wölzower Weg, 19243 Wittenburg
+        19243 Wittenburg bis Alter Wölzower Weg, 19243 Wittenburg
 
 
 
-**Nachgeordnetes Straßennetz Niedersachsen:**
+
+**Nachgeordnetes Streckennetz Niedersachsen:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   B 3
 
-    *   von A 1 (AS Rade) über B 3 bis Straße Am Holz, Neu Wulmstorf
+    *   von A 1 (AS Rade) über B 3 bis Am Holz, 21629 Neu Wulmstorf
 
 
 *    *   L 845
 
     *   von A 1 (AS Lohne/Dinklage) über L 845 (Dinklager Straße) bis Hermann-
-        Staudinger-Straße, Lohne
+        Staudinger-Straße, 49393 Lohne
 
 
 *    *   L 845
 
     *   von A 1 (AS Lohne/Dinklage) über L 845, Dinklager Ring, Kreisverkehr,
-        L 861 bis Daimlerstraße, Dinklage
+        L 861 bis Daimlerstraße, 49413 Dinklage
 
 
 *    *   L 845
 
     *   von Daimlerstraße, Lohne, über Langweger Straße, L 845 (Dinklager
-        Straße) bis Brandstraße, Lohne
+        Straße) bis Brandstraße, 49393 Lohne
 
 
 *    *   L 78
 
     *   von A 1 (AS Bramsche) über L 78 (Vördener Straße) bis Heywinkelstraße
-        1, Bramsche
+        1, 49565 Bramsche
 
 
 *    *   L 76
 
     *   von A 1 (AS Neuenkirchen-Vörden) über L 76, Hannoversche Straße bis
-        Meppener Straße 9, Rieste, und 2. Zufahrt Hildesheimer Straße
+        Meppener Straße 9, 49597 Rieste, und 2. Zufahrt Hildesheimer Straße
 
 
 *    *   L 88
@@ -5872,21 +6353,28 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 1 (AS Osnabrück-Hafen) über L 88, Wersener Straße, rechts auf
         Pagenstecherstraße, links auf Römereschstraße, links auf Hansastraße,
         links auf Weserstraße und links auf Hafenstraße bis Elbestraße 1,
-        Osnabrück
+        49090 Osnabrück
 
 
 *    *   L 850
         B 214
 
     *   von A 1 (AS Holdorf) über B 214, Steinfeld, B 214, links auf L 850
-        (Diepholzer Straße) bis Am Schwarzen Land, Lohne
+        (Diepholzer Straße) bis Am Schwarzen Land, 49393 Lohne
+
+
+*    *   B 214
+        L 851
+
+    *   von A 1 (AS Holdorf) bis Anschluss B 214, Holdorf, Industriestraße, L
+        851, Damme, Westring bis Südring 20, 49401 Damme
 
 
 *    *   B 68
 
-    *   von A 1 (AS Osnabrück-Nord) über die B 68, Abfahrt Achmer Penter
-        Knapp, links auf Osnabrücker Straße, Achmerstraße, Verlängerung
-        Langestraße, links auf Westerkappelnerstraße bis Robert-Bosch-Straße,
+    *   von A 1 (AS Osnabrück-Nord) über B 68, Abfahrt Achmer Penter Knapp,
+        links auf Osnabrückerstraße, Achmerstraße, Verlängerung Langestraße,
+        links auf Westerkappelnerstraße bis Robert-Bosch-Straße, 49565
         Bramsche
 
 
@@ -5894,13 +6382,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 1 (AS Osnabrück-Nord) über B 68 (Verlängerung Bramscher Straße),
         weiter auf Hansastraße, rechts auf Weserstraße und rechts auf
-        Hafenstraße bis Elbestraße 1, Osnabrück
+        Hafenstraße bis Elbestraße 1, 49090 Osnabrück
 
 
 *    *   B 68
 
     *   von A 1 (AS Osnabrück-Nord) über B 68, Fürstenauer Weg, Brückenstraße
-        bis Betriebsgrundstück Fürstenauer Weg 68, Osnabrück
+        bis Betriebsgrundstück Fürstenauer Weg 68, 49090 Osnabrück
 
 
 *    *   B 68
@@ -5908,19 +6396,41 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   Osnabrück, Fürstenauer Weg 68, Brückenstraße, Fürstenauer Weg, B 68,
         AS Wallenhorst-Zentrum, L 109, Kreisverkehr, Hansastraße, Pollerweg
-        bis Hullerweg 1, Wallenhorst
+        bis Hullerweg 1, 49134 Wallenhorst
 
 
 *    *   B 218
 
     *   von A 1 (AS Osnabrück-Nord) über B 218, B 214, B 213, Ulanenstraße bis
-        Friedrich-Ebert-Straße 128 – 130, Lingen
+        Friedrich-Ebert-Straße 128 – 130, 49811 Lingen (Ems)
 
 
 *    *   B 68
 
     *   von A 1 (AS Osnabrück-Nord) über B 68, Fürstenauer Weg, Brückenstraße,
-        Klöcknerstraße bis Dornierstraße 9, Osnabrück
+        Klöcknerstraße bis Dornierstraße 9, 49090 Osnabrück
+
+
+*    *   B 68
+        B 218a
+        K 150
+
+    *   von A 1 (AS Osnabrück-Nord) bis Anschluss B 68, Abfahrt
+        Bramsche/Gartenstadt, B 218a, K 150 (Osnabrücker Straße), KVP, K 150
+        bis Malgartener Straße, 49565 Bramsche
+
+
+*    *   B 218
+        K 150
+
+    *   von A 1 (AS Bramsche) bis Anschluss B 218, K 150 (Osnabrücker Straße),
+        KVP, K 150 bis Malgartener Straße, 49565 Bramsche
+
+
+*    *   B 218
+
+    *   von A 1 (AS Bramsche) bis Anschluss B 218, Ostercappeln bis Venner
+        Esch, 49179 Ostercappeln
 
 
 *    *   B 72
@@ -5933,14 +6443,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 73
 
     *   von A 1 (AS Sittensen) über L 130 (Stader Straße), Schragenberg, B 73,
-        Ottenbecker Damm, Airbusstraße bis Airbuswerk, Stade
+        Ottenbecker Damm, Airbusstraße bis Airbuswerk, 21684 Stade
 
 
 *    *   L 843
         B 69
 
     *   von A 1 (AS Vechta) über L 843 (Vechtaer Straße), B 69, Oldenburger
-        Straße, Buchholzstraße bis Buchholzstraße 42, Vechta
+        Straße, Buchholzstraße bis Buchholzstraße 42, 49377 Vechta
 
 
 *    *   L 848
@@ -5948,8 +6458,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 69
 
     *   von Bakumer Straße 73, Lohne über L 848 (Bakumer Straße), L 843
-        (Vechtaer Straße), B 69, Oldenburger Straße bis Buchholzstraße 42,
-        Vechta
+        (Vechtaer Straße), B 69, Oldenburgerstraße bis Buchholzstraße 42,
+        49377 Vechta
 
 
 *    *   B 72
@@ -5962,33 +6472,34 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von A 1 (AS Seevetal/Hittfeld) über Maschener Straße bis Werkstraße 1,
-        Seevetal OT Hittfeld
+        21218 Seevetal OT Hittfeld
 
 
 *    *   K 26
 
     *   von A 2 (AK Braunschweig-Nord) über A 391 bis AS Braunschweig-
-        Hansestraße auf K 26 (Hansestraße) bis Hansestraße 69, Braunschweig
+        Hansestraße auf K 26 (Hansestraße) bis Hansestraße 69, 38112
+        Braunschweig
 
 
 *    *   B 522
         L 190
 
     *   von A 2 (AS Hannover/Langenhagen) über B 522, Flughafenstraße und L
-        190 (Wagenzellerstraße) bis Rehkamp, Langenhagen
+        190 (Wagenzellerstraße) bis Rehkamp, 30853 Langenhagen
 
 
 *    *   B 214
         L 849
 
-    *   von A 1 (AS Holdorf) über B 214, L 849 bis Dinklarer Straße 17a,
+    *   von A 1 (AS Holdorf) über B 214, L 849 bis Dinklarer Straße 17a, 49451
         Holdorf
 
 
 *    *   B 214
 
     *   von A 1 (AS Holdorf) über B 214, Industriestraße bis Fallenriede,
-        Holdorf
+        49451 Holdorf
 
 
 *    *   B 214
@@ -6002,32 +6513,33 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 1 (AS Osnabrück-Hafen) über L 88, bis Prof.-Porsche-Straße,
         rechts Benzstraße, rechts Wersener Landstraße, links Dieselstraße 9 –
-        13, Osnabrück
+        13, 49076 Osnabrück
 
 
 *    *   L 88
 
     *   von A 1 (AS Osnabrück-Hafen) über L 88 (Eversburger Straße), Eikesberg
-        bis Zum Attersee, Osnabrück
+        bis Zum Attersee, 49076 Osnabrück
 
 
 *    *
-    *   von A 1 (AS Oyten) bis Gewerbegebiet An der Autobahn, Oyten
+    *   von A 1 (AS Oyten) bis Gewerbegebiet An der Autobahn, 28876 Oyten
 
 
 *    *
-    *   von A 1 (AS Oyten) über Achimer Straße in Industriestraße 33, Oyten
+    *   von A 1 (AS Oyten) über Achimer Straße in Industriestraße 33, 28876
+        Oyten
 
 
 *    *
     *   von A 1 (AS Oyten) über Achimer Straße, An der Autobahn bis
-        Lübkemannstraße 18, Oyten
+        Lübkemannstraße 18, 28876 Oyten
 
 
 *    *   B 3
 
-    *   von A 1 (AS Rade) über B 3, über den Dangerser Weg bis Walter-Blohm-
-        Straße, Wenzendorf
+    *   von A 1 (AS Rade) über B 3, über Dangerser Weg bis Walter-Blohm-
+        Straße, 21279 Wenzendorf
 
 
 *    *   B 3
@@ -6035,26 +6547,27 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 1 (AS Rade) über B 3, Soltauer Straße, Lindenstraße, Soltauer
         Chaussee, B 73, Harburger Straße, Ostmoorweg bis Alter Postweg 2,
-        Alter Postweg 35, Buxtehude
+        Alter Postweg 35, 21614 Buxtehude
 
 
 *    *   L 776
 
     *   von A 1 (AS Groß Ippener) über L 776 (Dorfstraße) bis Straße Am
-        Gewerbegebiet, Groß Ippener
+        Gewerbegebiet, 27243 Groß Ippener
 
 
 *    *   B 72
 
-    *   von A 1 (AS Cloppenburg) über B 72 in Industriezubringer, Cloppenburg
+    *   von A 1 (AS Cloppenburg) über B 72 in Industriezubringer, 49661
+        Cloppenburg
 
 
 *    *   B 69
         L 873
 
     *   von A 1 (AS Cloppenburg) über B 69, Abzweigung Schneiderkrug, L 873
-        (Hagstedt-Erlte), Um-gehungsstraße, Kreisverkehr, L 873
-        (Wildeshausener Straße), Varnhorn bis Siegebögen 17, Visbek
+        (Hagstedt-Erlte), Umgehungsstraße, Kreisverkehr, L 873 (Wildeshausener
+        Straße), Varnhorn bis Siegebögen 17, 49429 Visbek
 
 
 *    *   B 72
@@ -6070,31 +6583,38 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 1 (AS Wildeshausen-Nord) über B 213, Nordring, Westring,
         Kreisverkehr, L 873 Visbeker Straße, Wildeshausener Straße, Varnhorn
-        bis Siegebögen 17, Visbek
+        bis Siegebögen 17, 49429 Visbek
 
 
 *    *   B 213
 
     *   von A 1 (AS Wildeshausen-Nord) über B 213, Nordring, Westring,
         Südring, Goldenstedter Straße, Bauerschaft Kleinenkneten, Heide bis
-        Paul-Westjohann-Straße 43, Visbek-Rechterfeld
+        Paul-Westjohann-Straße 43, 49429 Visbek-Rechterfeld
 
 
 *    *   B 322
 
     *   von A 1 (AS Dreieck Stuhr) über B 322, Delmenhorster Straße in
-        Harpstedter Straße 99, Stuhr
+        Harpstedter Straße 99, 28816 Stuhr
 
 
 *    *   K 15
 
-    *   von A 1 (AS Heidenau) über K 15 bis Stellheide 11, Heidenau
+    *   von A 1 (AS Heidenau) über K 15 bis Stellheide 11, 21258 Heidenau
 
 
 *    *   B 6
 
     *   von A 1 (AS Bremen-Brinkum) über B 6, Bremer Straße, Rodendamm bis
-        Marie-Curie-Straße 1, Stuhr
+        Marie-Curie-Straße 1, 28816 Stuhr
+
+
+*    *   L 76
+        L 846
+
+    *   von A 1 (AS Neuenkirchen/Vörden) bis Anschluss L 76, Vörden, L 846,
+        Damme bis Südring 20, 49401 Damme
 
 
 *    *   L 76
@@ -6128,9 +6648,9 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 2 (AS Langenhagen) über B 522 und L 382 (Langenhagener Straße),
         L 380 (Hannoversche Straße) bis Hansastraße (Firma Schenker),
-        Rückfahrt: von Hansastraße über L 380 (Hannoversche Straße), L 382
-        (Langenhagener Straße), K 326 (Vinnhorster Straße) und B 522 bis A 2
-        (AS Langenhagen)
+        Rückfahrt:
+        von Hansastraße über L 380 (Hannoversche Straße), L 382 (Langenhagener
+        Straße), K 326 (Vinnhorster Straße) und B 522 bis A 2 (AS Langenhagen)
 
 
 *    *   B 522
@@ -6155,9 +6675,21 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         A 2 (AS Hannover-Herrenhausen) Fahrtrichtung Berlin
 
 
+*    *   B 6
+
+    *   von A 2 (AS Hannover-Herrenhausen) bis Anschluss B 6, Bornumer Straße,
+        Am Großmarkt bis Harryweg 1, 30453 Hannover
+
+
+*    *   B 6
+
+    *   von A 2 (AS Hannover-Herrenhausen) bis Anschluss B 6, An der
+        Universität, Osteriede bis Im Bahlbrink, 30827 Garbsen
+
+
 *    *
     *   von A 2 (AS Hannover-Nordhafen) Fahrtrichtung Berlin über Stelinger
-        Straße, Alter Damm bis Desbrocksheidering 37, Hannover
+        Straße, Alter Damm bis Desbrocksheidering 37, 30419 Hannover
 
 
 *    *   B 522
@@ -6170,45 +6702,45 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 22
 
     *   von A 2 (AS Helmstedt/West) über B 244, L 640 und K 22 bis An der
-        Kreisstraße 22 (Privatweg), Büddenstedt
+        Kreisstraße 22 (Privatweg), 38372 Büddenstedt
 
 
 *    *   K 75
 
-    *[^F812806_51_BJNR614410011BJNE001509119]
+    *[^f825743_54_BJNR614410011BJNE001510119]
    von A 2 (AS Peine/Ost) über K 75 KVP
-        2\. Ausfahrt, Ostrandstraße, L 321 (Woltorfer Straße) und
-        Heisenbergstraße bis Lehmkuhlenweg 81, Peine
+        2\. Ausfahrt, Ostrandstraße, L 321 (Woltorfer Straße) und
+        Heisenbergstraße bis Lehmkuhlenweg 81, 31224 Peine
 
 
 *    *   K 75
 
-    *   von A 2 (AS Peine/Ost) über K 75 KVP 2. Ausfahrt, Ostrandstraße bis
-        Woltorfer Straße 107, 119 und 122, Peine
+    *   von A 2 (AS Peine/Ost) über K 75 KVP 2. Ausfahrt, Ostrandstraße bis
+        Woltorfer Straße 107, 119 und 122, 31224 Peine
 
 
 *    *   K 75
 
-    *   von A 2 (AS Peine/Ost) über K 75 KVP 2. Ausfahrt, Ostrandstraße, L 321
-        (Woltorfer Straße) bis Heisenbergstraße, Peine
+    *   von A 2 (AS Peine/Ost) über K 75 KVP 2. Ausfahrt, Ostrandstraße, L 321
+        (Woltorfer Straße) bis Heisenbergstraße, 31224 Peine
 
 
 *    *   K 26
 
     *   von A 2 (AS Braunschweig-Hafen) über K 26/K 56 (Hansestraße) und Carl-
-        Giesecke-Straße bis Christian-Pommer-Straße 32, Braunschweig
+        Giesecke-Straße bis Christian-Pommer-Straße 32, 38112 Braunschweig
 
 
 *    *
     *   von A 2 (AS Lehrte) über Westtangente, Straßburger Straße bis
-        Europastraße 1, Lehrte
+        Europastraße 1, 31275 Lehrte
 
 
 *    *   B 522
         L 190
 
     *   von A 2 (AS Langenhagen) über B 522, den Übergang auf L 190
-        (Flughafenstraße), bis Münchner Straße 46, Langenhagen
+        (Flughafenstraße), bis Münchner Straße 46, 30855 Langenhagen
 
 
 *    *   L 190
@@ -6216,27 +6748,32 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 2 (AS Langenhagen) über L 190 (Vahrenwalder Straße), K 15
         (Industrieweg) und Hackethalstraße bis Kreuzung Max-Müller-Straße 3,
-        Hannover
+        30179 Hannover
 
 
 *    *
     *   von A 2 (AS Braunschweig-Hafen) über Hansestraße, Christian-Pommer-
-        Straße bis VW-Werk, Braunschweig
+        Straße bis VW-Werk, 38112 Braunschweig
 
 
 *    *
     *   von A 2 (AS Braunschweig-Hafen) über Hansestraße bis Christian-Pommer-
-        Straße 20, Braunschweig
+        Straße 20, 38112 Braunschweig
 
 
 *    *
-    *   von A 2 (AS Braunschweig-Hafen) bis Hansestraße 69, Braunschweig
+    *   von A 2 (AS Braunschweig-Hafen) bis Hansestraße 69, 38112 Braunschweig
+
+
+*    *
+    *   von A 2 (AS Braunschweig-Hafen) bis Anschluss Hansestraße bis
+        Christian-Pommer-Straße 37, 38112 Braunschweig
 
 
 *    *   K 134
 
     *   von A 2 (AS Lehrte-Ost) über K 134 (Mielestraße), Ostring bis Everner
-        Straße 45, Lehrte
+        Straße 45, 31275 Lehrte
 
 
 *    *   B 83
@@ -6246,111 +6783,130 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Niedersachsen/Nordrhein-Westfalen
 
 
+*    *   B 442
+
+    *   von A 2 (AS Lauenau) bis Anschluss B 442, Hanomagstraße, Peugeotstraße
+        bis Daimlerstraße, 31867 Lauenau
+
+
+*    *   B 442
+
+    *   von A 2 (AS Lauenau) bis Anschluss B 442, Hanomagstraße,
+        Magirusstraße, Büssingstraße bis Daimlerstraße, 31867 Lauenau
+
+
 *    *   L 403
         L 392
 
     *   von A 2 (AS Wunstorf-Kolenfeld) über L 403 und L 392 bis Calenberger
-        Straße, Barsinghausen
+        Straße, 30890 Barsinghausen
 
 
 *    *   L 403
         L 392
 
     *   von A 2 (AS Wunstorf-Kolenfeld) über L 403 und L 392 bis Spielburg 7,
-        Barsinghausen
+        30890 Barsinghausen
 
 
 *    *   L 392
 
     *   von A 2 (AS Wunstorf-Kolenfeld) über L 392, Sahlenkamp und Albert-
-        Einstein-Straße bis Werner-von-Siemens-Straße 9, Wunstorf
+        Einstein-Straße bis Werner-von-Siemens-Straße 9, 31515 Wunstorf
 
 
 *    *   B 441
 
     *   von A 2 (AS Wunstorf-Luthe) über B 441, Adolf-Oesterheld-Straße,
-        Albert-Einstein-Straße bis Lise-Meitner-Straße 21, Wunstorf
+        Albert-Einstein-Straße bis Lise-Meitner-Straße 21, 31515 Wunstorf
 
 
 *    *   L 190
         K 15
 
     *   von A 2 (AS Langenhagen) über L 190 (Vahrenwalder Straße), K 15
-        (Industrieweg) bis Wiesenauer Straße 3, Hannover
+        (Industrieweg) bis Wiesenauer Straße 3, 30179 Hannover
 
 
 *    *
     *   von A 2 (AS Garbsen) über Gutenbergstraße bis Alte Ricklinger Straße
-        59 – 61, Garbsen
+        59 – 61, 30823 Garbsen
 
 
 *    *
     *   von A 2 (AS Garbsen) über Alte Ricklinger Straße, Gutenbergstraße,
         Philipp-Reis-Straße, Heinrich-Nordhoff-Ring in Koppelknechtsdamm,
-        Garbsen
+        30826 Garbsen
 
 
 *    *
     *   von A 2 (AS Garbsen) über Gutenbergstraße, Philipp-Reis-Straße bis Am
-        Rehwinkel 15, Garbsen
+        Rehwinkel 15, 30827 Garbsen
 
 
 *    *   K 134
 
-    *   von A 2 (AS Lehrte-Ost) über K 134 bis Industriestraße 29, Lehrte
+    *   von A 2 (AS Lehrte-Ost) über K 134 bis Industriestraße 29, 31275
+        Lehrte
 
 
 *    *   K 26
 
-    *   von A 2 (AS Braunschweig-Hafen) über K 26 bis Hansestraße 46,
+    *   von A 2 (AS Braunschweig-Hafen) über K 26 bis Hansestraße 46, 38112
         Braunschweig
 
 
 *    *   L 392
 
     *   von A 2 (AS Wunstorf-Kolenfeld) über L 392, den Sahlenkamp bis Albert-
-        Einstein-Straße, Wunstorf
+        Einstein-Straße, 31515 Wunstorf
 
 
 *    *   B 83
 
-    *   von A 2 (AS Bad Eilsen) über B 83 bis Straße Hasengarten, Bückeburg
+    *   von A 2 (AS Bad Eilsen) über B 83 bis Straße Hasengarten, 30855
+        Bückeburg
 
 
 *    *   B 522
 
     *   von A 2 (AS Langenhagen) über B 522, Übergang auf L 190
         (Flughafenstraße), links Münchner Straße, Hessenstraße bis
-        Bayernstraße 38 – 44, Langenhagen
+        Bayernstraße 38 – 44, 30855 Langenhagen
 
 
 *    *   B 1
 
     *   von A 7 (AS Hildesheim) über B 1, Berliner Straße bis Albert-Einstein-
-        Straße 11, Hildesheim
+        Straße 11, 31135 Hildesheim
 
 
 *    *   B 494
 
     *   von A 7 (AS Hildesheim/Drispenstedt) über B 494, Peiner Landstraße,
-        Lerchenkamp bis Baurat-Köhler-Straße 31, Hildesheim
+        Lerchenkamp bis Baurat-Köhler-Straße 31, 31135 Hildesheim
 
 
 *    *   B 64
 
-    *   von A 7 (AS Seesen) über B 64 bis Rehwiese, Holzminden
+    *   von A 7 (AS Seesen) über B 64 bis Rehwiese, 37603 Holzminden
+
+
+*    *   B 64
+
+    *   von A 7 (AS Seesen) bis Anschluss B 64 bis LG Nordrhein-Westfalen
 
 
 *    *   B 65
 
     *   von A 7 (AS Hannover/Anderten) über B 65, Höversche Straße bis
-        Anderter Straße 99, Hannover
+        Anderter Straße 99, 30559 Hannover
 
 
 *    *   B 209
 
     *   von A 7 (AS Bad Fallingbostel) über B 209 (Deiler Weg/Von-Siemens-
-        Straße) bis Hartemer Weg 11, Bad Fallingbostel
+        Straße) bis Hartemer Weg 11, 29683 Bad Fallingbostel
 
 
 *    *   B 80
@@ -6362,37 +6918,54 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 206
 
     *   von A 7 (AS Hann. Münden-Hedemünden) über K 206 bis Hans-Heiner-
-        Müller-Allee, Hannoversch Münden
+        Müller-Allee, 34346 Hann. Münden
+
+
+*    *
+    *   von A 7 (AS Hann. Münden-Hedemünden) bis Anschluss Zum Mannstal bis
+        Kirchweg 9, 34346 Hann. Münden
+
+
+*    *
+    *   von A 7 (AS Hann. Münden-Hedemünden) bis Anschluss Zum Mannstal,
+        Graseweg bis Aldi Zentrallager, 34346 Hann. Münden
 
 
 *    *   B 209
 
     *   von A 7 (AS Bad Fallingbostel) über B 209, Von-Siemens-Straße und
-        Hartemer Weg bis Konrad-Zuse-Straße, Bad Fallingbostel
+        Hartemer Weg bis Konrad-Zuse-Straße, 29683 Bad Fallingbostel
 
 
 *    *   B 71
 
-    *   von A 7 bis Anschluss Soltau/Ost bis Anschluss B 71, Harry Brot-Werk
-        bis Gottlieb-Daimler-Straße 8, 29614 Soltau
+    *   von A 7 bis Anschluss Soltau/Ost bis Anschluss B 71, Harry-Brot Werk
+        bis Gottlieb-Daimler-Straße 8, 29614 Soltau
 
 
 *    *   B 248
 
     *   von A 7 (AS Seesen) über B 248, B 64, AS Bad Gandersheim/Ost und
-        Braunschweiger Straße bis Marienstraße 25, Bad Gandersheim
+        Braunschweiger Straße bis Marienstraße 25, 37581 Bad Gandersheim
 
 
 *    *   B 248
 
     *   von A 7 (AS Seesen) über B 248, Bornhäuser Straße, Frankfurter Straße
-        bis Triftstraße 34, Seesen
+        bis Triftstraße 34, 38723 Seesen
+
+
+*    *   B 6
+        B 82
+
+    *   von A 7 (AS Rhüden) bis Anschluss B 82, B 6 bis Bassgeige, 38677
+        Goslar
 
 
 *    *   B 82
 
     *   von A 7 bis Anschluss Rhüden bis Anschluss B 82, Innerstetal bis
-        Innerstetal 2, 38685 Langelsheim und zurück
+        Innerstetal 2, 38685 Langelsheim
 
 
 *    *
@@ -6402,44 +6975,45 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 443
 
-    *   von A 7 (AS Laatzen) über B 443 und B 6 bis Helperder Straße 1,
+    *   von A 7 (AS Laatzen) über B 443 und B 6 bis Helperder Straße 1, 31157
         Sarstedt
 
 
 *    *   B 443
 
     *   von A 7 (AS Laatzen) über B 443, B 3, L 589, L 484, B 64, KVP
-        Allersheimer Straße und Bülte bis Werner-von-Siemens-Straße,
+        Allersheimer Straße und Bülte bis Werner-von-Siemens-Straße, 37603
         Holzminden
 
 
 *    *   L 492
 
     *   von A 7 (AS Hildesheimer Börde) über L 492 bis In den sieben Äckern 1,
-        Groß Düngen
+        31162 Bad Salzdetfurth-Groß Düngen
 
 
 *    *   B 496
 
-    *   von A 7 (AS B 496) bis Straße Im Rotte, Hannoversch Münden
+    *   von A 7 (AS B 496) bis Straße Im Rotte, 34355 Staufenberg (Hann.
+        Münden)
 
 
 *    *   L 191
 
     *   von A 7 (AS Westenholz) über L 191 und Am Flugplatz bis
-        Lilienthalstraße 4, Hodenhagen
+        Lilienthalstraße 4, 29693 Hodenhagen
 
 
 *    *   L 381
 
     *   von A 7 (AS Großburgwedel) über L 381, Kupferstraße bis Eisenstraße
-        19, Isernhagen
+        19, 30916 Isernhagen
 
 
 *    *   K 112
 
     *   von A 7 (AS Altwarmbüchen) über K 112, Stellmacherstraße,
-        Tischlerstraße, Bei Kollberg bis Gerberstraße 5, Isernhagen
+        Tischlerstraße, bei Kollberg bis Gerberstraße 5, 30916 Isernhagen
 
 
 *    *   B 443
@@ -6448,7 +7022,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         L 410
 
     *   von A 7 (AS Laatzen) über B 443, B 6, Helperder Straße, K 516
-        (Breslauer Straße), L 410 (Görlitzer Straße) bis Voss-Straße 98,
+        (Breslauer Straße), L 410 (Görlitzer Straße) bis Voss-Straße 98, 31157
         Sarstedt
 
 
@@ -6460,37 +7034,40 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   L 381
         K 325
 
-    *   von A 7 (AS Großburgwedel) über L 381, K 325 bis Milchstraße 1,
+    *   von A 7 (AS Großburgwedel) über L 381, K 325 bis Milchstraße 1, 30916
         Isernhagen
 
 
 *    *   B 214
 
-    *   von A 7 (AS Schwarmstedt) über B 214 bis Nienburgerstraße, Wietze
+    *   von A 7 (AS Schwarmstedt) über B 214 bis Nienburgerstraße, 29323
+        Wietze
 
 
 *    *   B 214
 
-    *   von A 7 (AS Schwarmstedt) über B 214 bis Am Varrenbruch, Schwarmstedt
+    *   von A 7 (AS Schwarmstedt) über B 214 bis Am Varrenbruch, 29690
+        Schwarmstedt
 
 
 *    *   B 248
 
-    *   von A 7 (AS Seesen) über B 248 bis Fritz-Züchner-Straße 8, Seesen
+    *   von A 7 (AS Seesen) über B 248 bis Fritz-Züchner-Straße 8, 38723
+        Seesen
 
 
 *    *   B 27
 
     *   von A 7 (AS Göttingen-Nord) über B 27, Kreisverkehr Hermann-Kolbe-
         Straße, August-Spindler-Straße, Gotthelf-Leimbach-Straße bis Florenz-
-        Sartorius-Straße, Göttingen
+        Sartorius-Straße, 37079 Göttingen
 
 
-*    *   K 37
-        K 36
+*    *   K37
+        K36
 
     *   von Göttingen, Florenz-Sartorius-Straße über August-Spindler-Straße, K
-        37, K 36 bis zur A 7 (AS Göttingen-Holtensen)
+        37, K 36 bis A 7 (AS Göttingen-Holtensen)
 
 
 *    *   B 27
@@ -6498,7 +7075,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 36
 
     *   von A 7 (AS Göttingen-Nord) über B 27, Abfahrt Göttingen/Holtensen, K
-        37, K 36 bis Robert-Bosch-Breite 11, Göttingen
+        37, K 36 bis Robert-Bosch-Breite 11, 37079 Göttingen
 
 
 *    *   B 3
@@ -6506,7 +7083,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 36
 
     *   von Kreuzung B 3/B 27 (Otto-Brenner-Straße) über Robert-Bosch-Breite,
-        Gotthelf-Leimbach-Straße in Florenz-Sartorius-Straße, Göttingen
+        Gotthelf-Leimbach-Straße in Florenz-Sartorius-Straße, 37079 Göttingen
 
 
 *    *   B 3
@@ -6521,13 +7098,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 7 (AD Salzgitter) über A 39 bis AS Salzgitter-Watenstedt über K
         30 (Industriestraße Mitte und Heinrich-Büssing-Straße) bis MAN
-        (Heinrich-Büssing-Straße 1), Salzgitter
+        (Heinrich-Büssing-Straße 1), 38239 Salzgitter
 
 
 *    *   K 30
 
     *   von A 7 (AD Salzgitter) über A 39 bis AS Salzgitter-Watenstedt über K
-        30 (Industriestraße Mitte) bis MAN (Industriestraße Mitte 2),
+        30 (Industriestraße Mitte) bis MAN (Industriestraße Mitte 2), 38239
         Salzgitter
 
 
@@ -6536,21 +7113,21 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 142
 
     *   von A 7 (AS Hannover-Anderten) über B 65, L 382, K 142 bis
-        Hannoversche Straße 27, Sehnde
+        Hannoversche Straße 27, 31319 Sehnde
 
 
 *    *   B 65
         L 382
 
     *   von A 7 (AS Hannover-Anderten) über B 65, L 382 (Höversche Straße) bis
-        Kleiner Holzhägen 2, Hannover
+        Kleiner Holzhägen 2, 30559 Hannover
 
 
 *    *   B 65
         L 382
 
     *   von A 7 (AS Hannover-Anderten) über B 65, L 382 (Höversche Straße) in
-        Lohweg und Owiedenfeldstraße
+        Lohweg und Owiedenfeldstraße, 30559 Hannover
 
 
 *    *   B 3
@@ -6576,7 +7153,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 7 (AS Laatzen) über B 443, B 6, Seelhorster Kreuz, B 3/6/65,
         Landwehrkreisel, B 6/65, Ricklinger Kreisel, B 65 bis Mercedesstraße
-        9, Hannover
+        9, 30453 Hannover
 
 
 *    *   B 443
@@ -6589,6 +7166,11 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Seelhorster Kreuz, B 6, B 443 bis A 7 (AS Laatzen)
 
 
+*    *
+    *   von Mercedesstraße 9, 30453 Hannover bis Anschluss Schlorumpfsweg, Am
+        Großmarkt bis Harryweg 1, 30453 Hannover
+
+
 *    *   B 496
 
     *   von 34355 Lutterberg bis Vor der Hecke 9, Im Rotte, B 496 bis
@@ -6599,12 +7181,12 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 80
 
     *   von A 7 (AS Fleestedt) auf L 213 (Hittfelder Landstraße), K 80 bis
-        Maldfeldstraße 22, Seevetal
+        Maldfeldstraße 22, 21218 Seevetal
 
 
 *    *
     *   von A 7 (AS Seevetal/Fleestedt) über Winsener Landstraße, Unner de
-        Bult, Maschener Straße bis Werkstraße 1, Seevetal OT Hittfeld
+        Bult, Maschener Straße bis Werkstraße 1, 21218 Seevetal OT Hittfeld
 
 
 *    *   L 168
@@ -6623,23 +7205,24 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         L 132
 
     *   von A 27 (AS Achim-Ost) über L 156, L 168, L 132 bis Straße Am Damm,
-        Ottersberg
+        28870 Ottersberg
 
 
 *    *   L 156
 
     *   von A 27 (AS Achim-Ost) über L 156, Im Finigen, Zum Ueser Schafkoven
-        bis Brammbusch, Achim
+        bis Brammbusch, 28832 Achim
 
 
 *    *   L 156
 
-    *   von A 27 (AS Achim-Ost) über L 156 (Max-Planck-Straße), Achim
+    *   von A 27 (AS Achim-Ost) über L 156 (Max-Planck-Straße), 28832 Achim
 
 
 *    *   L 171
 
-    *   von A 27 (AS Verden-Ost) über L 171 bis Max-Planck-Straße, Verden
+    *   von A 27 (AS Verden-Ost) über L 171 bis Max-Planck-Straße, 27283
+        Verden (Aller)
 
 
 *    *   B 215
@@ -6647,7 +7230,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 75
 
     *   von A 27 (AS Verden-Nord) über B 215, B 440, B 75 bis Hermann-
-        Schlüter-Straße, Rotenburg (Wümme)
+        Schlüter-Straße, 27356 Rotenburg (Wümme)
 
 
 *    *   B 6
@@ -6659,7 +7242,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         L 149
 
     *   von A 27 (AS Ihlpohl) über Heidkamp, B 74, L 149, Feldhorst,
-        Kreisverkehr bis Hördorfer Weg 33, Osterholz-Scharmbeck
+        Kreisverkehr bis Hördorfer Weg 33, 27711 Osterholz-Scharmbeck
 
 
 *    *   L 158
@@ -6672,26 +7255,27 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 212
 
     *   von A 27 (AS Stotel) über B 437, B 212 bis Straße Meyers Hellmer,
-        Brake
+        26919 Brake
 
 
 *    *   B 437
         B 212
 
     *   von A 27 (AS Stotel) über B 437, B 212, Havendorfer Chaussee bis Am
-        Wesertunnel, Nordenham
+        Wesertunnel, 26954 Nordenham
 
 
 *    *   B 437
         B 212
 
     *   von A 27 (AS Stotel) über B 437, B 212, Weserstraße, Otto-Hahn-Straße
-        bis Max-Planck-Straße, Brake
+        bis Max-Planck-Straße, 26919 Brake
 
 
 *    *   L 149
 
-    *   von A 27 (AS Schwanewede) über L 149 in Lise-Meitner-Straße, Brundorf
+    *   von A 27 (AS Schwanewede) über L 149 in Lise-Meitner-Straße, 28790
+        Schwanewede (Brundorf)
 
 
 *    *   B 72
@@ -6706,24 +7290,24 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 127
         K 295
 
-    *   von A 28 (AS Neuenkruge) über K 127, K 295 bis Edekastraße 1,
+    *   von A 28 (AS Neuenkruge) über K 127, K 295 bis Edekastraße 1, 26215
         Wiefelstede
 
 
 *    *   L 24
 
-    *   von A 28 (AS Westerstede-West) über L 24 bis Zum Heerenberg 16,
-        Moorburg
+    *   von A 28 (AS Westerstede-West) über L 24 bis Zum Heerenberg 16, 26655
+        Westerstede (Moorburg)
 
 
 *    *
     *   von A 28 (AS Westerstede) über Ammerlandallee bis Westersteder Straße
-        50, Westerstede
+        50, 26655 Westerstede
 
 
 *    *
     *   von A 28 (AS Westerstede) über Ammerlandallee, Oldenburger Straße bis
-        Torsholter Hauptstraße 11, Westerstede
+        Torsholter Hauptstraße 11, 26655 Westerstede
 
 
 *    *
@@ -6734,7 +7318,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *
     *   von A 28 (AS Oldenburg-Osternburg) über Müllersweg, Gerhard-Stalling-
         Straße, Georg-Böltz-Straße bis August-Wilhelm-Kühnholz-Straße 14 – 20,
-        Oldenburg
+        26135 Oldenburg
 
 
 *    *   L 831
@@ -6748,32 +7332,33 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 343
 
     *   von A 28 (AS Oldenburg/B 401) über B 401 zu Kreuzung B 72/B 401
-        (Sedelsberg), weiter über B 401 und K 343 bis Interkommunales
+        (Sedelsberg), weiter über B 401 und K 343 bis Interkommunales
         Industriegebiet c-Port am Küstenkanal
 
 
 *    *
     *   von A 28 (AS Oldenburg/Osternburg) über Müllersweg, Gerhard-Stalling-
-        Straße, Georg-Bölts-Straße, August-Wilhelm-Kühnholz-Straße, Oldenburg
+        Straße, Georg-Bölts-Straße, August-Wilhelm-Kühnholz-Straße, 26135
+        Oldenburg
 
 
 *    *   L 828
 
     *   von A 28 (AK Oldenburg-Ost) über A 29 bis AK Oldenburg-Nord, über A
         293 bis AD Oldenburg-West, über A 28 bis AS Oldenburg-Eversten und L
-        828 (Hauptstraße) bis Industriestraße 45, Edewecht
+        828 (Hauptstraße) bis Industriestraße 45, 26188 Edewecht
 
 
 *    *   L 866
 
     *   von A 28 (AK Oldenburg-Ost) über A 29 bis AS Oldenburg-Hafen und L 866
-        (Holler Landstraße) bis Stedinger Straße, Oldenburg
+        (Holler Landstraße) bis Stedinger Straße, 26135 Oldenburg
 
 
 *    *   B 75
 
-    *   von A 28 bis Anschluss Dreieck Delmenhorst bis Anschluss B 75 bis
-        Landesgrenze Bremen
+    *   von A 28 bis Anschluss Dreieck Delmenhorst bis Anschluss B 75 bis LG
+        Bremen
 
 
 *    *   K 226
@@ -6781,43 +7366,43 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 28 bis Anschluss Hude bis K 226, Kimmer Landstraße (L 888),
         Nutteler Straße, Stedinger Weg, Bareler Straße, Alter Mühlenweg,
-        Welsburger Damm, Schütteweg bis Schütteweg 1 – 3, 27777 Ganderkesee
+        Welsburger Damm, Schütteweg bis Schütteweg 1 – 3, 27777 Ganderkesee
 
 
 *    *   B 212
         L 887
 
-    *   von A 28 (AS Ganderkesee/West) über B 212 (Gruppenbührener Straße),
-        L 887 (Oldenburger Straße), Westtangente, Dehlthuner Straße bis
-        Bergedorfer Straße 34, Ganderkesee
+    *   von A 28 (AS Ganderkesee/West) über B 212 (Gruppenbührener Straße), L
+        887 (Oldenburger Straße), Westtangente, Dehlthuner Straße bis
+        Bergedorfer Straße 34, 27777 Ganderkesee
 
 
 *    *   L 887
 
     *   von A 28 (AS Ganderkesee/Ost) über Almsloher Straße, L 887
         (Oldenburger Straße), Westtangente, Dehlthuner Straße bis Bergedorfer
-        Straße 34, Ganderkesee
+        Straße 34, 27777 Ganderkesee
 
 
 *    *   B 70
         B 436
 
     *   von A 28 (AS Leer-Ost) über B 436, B 70 (Papenburger Straße),
-        Südumgehung und Osseweg bis Ostermeedlandsweg 72 – 74, Leer
+        Südumgehung und Osseweg bis Ostermeedlandsweg 72 – 74, 26789 Leer
 
 
 *    *   B 70
         B 436
 
     *   von A 28 (AS Leer-Ost) über B 436, B 70 (Papenburger Straße) und
-        Südumgehung bis Sägemühlenweg 49, Leer
+        Südumgehung bis Sägemühlenstraße 49, 26789 Leer
 
 
 *    *   B 436
         L 821
 
     *   von A 28 (AS Leer-Ost) über B 436 und L 821 (Maiburger Straße) bis
-        Maiburger Straße 64, Leer
+        Maiburger Straße 64, 26789 Leer
 
 
 *    *   B 436
@@ -6839,7 +7424,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 28 (AS Neuenkruge) über K 137 (Haarenstrother Straße), L 815
         (Oldenburger Straße), L 831 (Mühlenstraße), Reihdamm, Edewechter
-        Straße, Melmweg und Burgfelder Straße bis Steinfeld 40, Bad
+        Straße, Melmweg und Burgfelder Straße bis Steinfeld 40, 26160 Bad
         Zwischenahn
 
 
@@ -6857,20 +7442,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von Kreuzung B 437/B 212 über B 437, A 29 (AS Varel-Bockhorn), A 29
         (AS Varel-Obenstrohe), Oldenburger Straße Richtung Neuenweg, Erwin-
-        Hilbrink-Straße bis Aeropark 3, Varel
+        Hilbrink-Straße bis Aeropark 3, 26316 Varel
 
 
 *    *   L 815
 
     *   von A 29 (AS Zetel) bis L 815 (Blauhander Straße und Oldenburger Damm)
-        in Höhe Tankstelle rechts in Bahnhofstraße 13, Sande
+        in Höhe Tankstelle rechts in Bahnhofstraße 13, 26452 Sande
 
 
 *    *   L 847
         L 871
 
-    *   von A 29 (AS Großenkneten) über L 871 und L 847 bis Auf’m Halskamp 10,
-        Garrel
+    *   von A 29 (AS Großenkneten) über L 871 und L 847 bis Auf´m Halskamp 10,
+        49681 Garrel
 
 
 *    *   B 211
@@ -6878,7 +7463,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 437
 
     *   von A 29 bis Anschlusskreuz Oldenburg/Nord bis Anschluss B 211, B 212
-        bis Kreuzung B 212/B 437 und zurück
+        bis Kreuzung B 212/B 437 und zurück
 
 
 *    *   B 213
@@ -6892,32 +7477,32 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   L 40
 
     *   von A 30 (AS Schüttorf) über L 40 bis Emslandstraße 28
-        (Industriegebiet Schüttorf), Schüttorf
+        (Industriegebiet Schüttorf), 48465 Schüttorf
 
 
 *    *
     *   von Emslandstraße 28, Schüttorf über Emslandstraße bis Emslandstraße
-        8, Schüttorf
+        8, 48465 Schüttorf
 
 
 *    *   K 26
 
     *   von A 30 (AS Gildehaus) über K 26 (Baumwollstraße), Amsterdamer
         Straße, Luxemburger Straße, Kopenhagener Straße bis Stockholmer Straße
-        40, Bad Bentheim
+        40, 48455 Bad Bentheim
 
 
 *    *   K 26
 
     *   von A 30 bis Anschluss Gildehaus bis Anschluss Baumwollstraße (K 26),
-        Kreisverkehrsplatz 1. Ausfahrt, Holter Diek, Luxemburger Straße,
+        Kreisverkehrsplatz 1. Ausfahrt, Holter Diek, Luxemburger Straße,
         Stockholmer Straße, Wiener Straße bis Wiener Straße 33, 48455 Bad
         Bentheim und zurück
 
 
 *    *
     *   von A 30 (AS Gesmold) über Westerhausener Straße bis Im Gewerbepark
-        10, Melle
+        10, 49326 Melle
 
 
 *    *   B 70
@@ -6928,14 +7513,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 70
 
-    *   von A 30 bis Anschluss Rheine/Nord bis Anschluss B 70 bis Landesgrenze
+    *   von A 30 bis Anschluss Rheine/Nord bis Anschluss B 70 bis LG
         Nordrhein-Westfalen
 
 
 *    *   L 91
 
     *   von A 30 (AS Melle-Ost) über L 91, Nachtigallenstraße, Maschweg,
-        Anton-Schlecker-Straße nach Melle
+        Anton-Schlecker-Straße nach 49324 Melle
 
 
 *    *
@@ -6943,39 +7528,44 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Herrenteich 78, Melle
 
 
+*    *
+    *   von A 30 (AS Hasbergen-Gaste) bis Anschluss Rheiner Landstraße bis
+        Averdiekstraße 26, 49078 Osnabrück
+
+
 *    *   B 402
 
-    *   von A 31 (AS Meppen-Nord) über B 402 bis BG D/NL
+    *   von A 31 (AS Meppen-Nord) über B 402 bis BG Deutschland/Niederlande
 
 
 *    *   B 210
 
-    *   von A 31 (AS Emden-Mitte) über B 210 bis Gewerbestraße 35,
+    *   von A 31 (AS Emden-Mitte) über B 210 bis Gewerbestraße 35, 26624
         Südbrookmerland/Georgsheil
 
 
 *    *
     *   von A 31 (AS Emden-West) über Frisiastraße, Württembergische Straße
-        (von Frisiastraße ca. 150 m, MAN Service B. Bruns), Zum Emskai und Am
-        neuen Seedeich bis Kanadische Straße 14, Emden
+        (von Frisiastraße ca. 150 m, MAN Service B. Bruns), Zum Emskai und Am
+        neuen Seedeich bis Kanadische Straße 14, 26723 Emden
 
 
 *    *   B 210
 
     *   von A 31 (AS Emden-Mitte) über B 210 (Auricher Straße) bis Mercedes-
-        Benz, Auricher Straße 150, Emden
+        Benz, Auricher Straße 150, 26721 Emden
 
 
 *    *   L 2
 
     *   von A 31 (AS Emden-West) über L 2 und Wolfsburger Straße bis VW-Werk,
-        Emden
+        26723 Emden
 
 
 *    *   L 2
 
     *   von A 31 (AS Emden-West) über L 2 (Larrelter Straße), Wolfsburger
-        Straße, Otto-Brenner-Straße, Benzstraße bis Horchstraße, Emden
+        Straße, Otto-Brenner-Straße, Benzstraße bis Horchstraße, 26723 Emden
 
 
 *    *   L 2
@@ -6987,29 +7577,31 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 1
 
     *   von A 31 (AS Leer-West) über K 1 (Deichstraße) und Großer Stein bis Am
-        Emsdeich 11, Leer
+        Emsdeich 11, 26789 Leer
 
 
 *    *   B 436
 
     *   von A 31 (AS Weener) über B 436, Norderstraße und Pannenborgstraße bis
-        Zum Schöpfwerk 5, Weener
+        Zum Schöpfwerk 5, 26826 Weener
 
 
 *    *   L 47
         B 70
 
-    *   von A 31 (AS Twist) über L 47, B 70, bis Straße Am Kabelkran 7, Meppen
+    *   von A 31 (AS Twist) über L 47, B 70, bis Straße Am Kabelkran 7, 49716
+        Meppen
 
 
 *    *   L 1
 
-    *   von A 31 (AS Riepe) über L 1 bis Straße Im Hammrich, Riepe
+    *   von A 31 (AS Riepe) über L 1 bis Straße Im Hammrich, 26632 Ihlow
+        (Riepe)
 
 
 *    *
     *   von A 31 (AS Riepe) über Friesenstraße, 1. Querweg, Gutenbergstraße,
-        Dieselstraße bis Benzstraße 1, Riepe
+        Dieselstraße bis Benzstraße 1, 26632 Ihlow (Riepe)
 
 
 *    *   B 408
@@ -7023,7 +7615,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 213
 
     *   von A 31 (AS Lingen) über B 213, Haselünner Straße, Ulanenstraße bis
-        Friedrich-Ebert-Straße 128 – 130, Lingen
+        Friedrich-Ebert-Straße 128 – 130, 49811 Lingen (Ems)
 
 
 *    *   B 213
@@ -7039,7 +7631,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         L 67
 
     *   von A 31 (AS Lingen) über B 213, Schwaneborg, Westring, Wietmarscher
-        Straße, Lingener Straße, L 45 bis Abzweig L 67, Wietmarschen
+        Straße, Lingener Straße, L 45 bis Abzweig L 67, 49835 Wietmarschen
 
 
 *    *   B 213
@@ -7047,13 +7639,25 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         L 44
 
     *   von A 31 (AS Lingen) über B 213, L 45, L 44 (Escher Straße) rechts,
-        Industriestraße bis Rudolf-Diesel-Straße 10, Neuenhaus
+        Industriestraße bis Rudolf-Diesel-Straße 10, 49828 Neuenhaus
+
+
+*    *
+    *   von A 31 (AS Twist) bis Anschluss Rühlermoor, Alt-Rühlertwist,
+        Zitterdell, Auf dem Bült, Bourtangerstraße, An der Aabrücke, Neuringe,
+        Meppenerstraße, Kanalstraße bis Industriestraße, 49824 Ringe
+
+
+*    *   L 47
+
+    *   von A 31 (AS Twist) bis Anschluss L 47, Süd-Nord-Straße, Albert-
+        Einstein-Straße bis Otto-Hahn-Straße 1, 49767 Twist
 
 
 *    *   K 223
 
     *   von A 31 (AS Geeste) über K 223, Schachtbaustraße bis Ewerathstraße 9,
-        Dalum-Geeste
+        49744 Dalum-Geeste
 
 
 *    *   K 4
@@ -7067,42 +7671,49 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 343
 
     *   von A 31 (AS Dörpen) über B 401 bis Kreuzung B 72/B 401 (Sedelsberg),
-        weiter über B 401 und K 343 bis Interkommunales Industriegebiet c-Port
+        weiter über B 401 und K 343 bis Interkommunales Industriegebiet c-Port
         am Küstenkanal
+
+
+*    *   B 65
+        B 218
+
+    *   von A 33 bis Anschluss B 65, B 218 bis Venner Esch, 49179 Ostercappeln
 
 
 *    *
     *   von A 33 (AS Osnabrück-Fledder) über Hannoversche Straße, Narupstraße,
-        Karmanstraße bis VW-Werk, Osnabrück
+        Karmanstraße bis VW-Werk, 49084 Osnabrück
 
 
 *    *
     *   von A 33 (AS Osnabrück-Fledder) über Hannoversche Straße, Am
-        Huxmühlenbach bis Hettlicher Masch 7, Osnabrück
+        Huxmühlenbach bis Hettlicher Masch 7, 49084 Osnabrück
 
 
 *    *
     *   von A 33 (AS Dissen-Süd) über Versmolder Straße, Südring,
-        Industriestraße, Am Hasenkamp bis Kampweg 7, Dissen
+        Industriestraße, Am Hasenkamp bis Kampweg 7, 49201 Dissen am
+        Teutoburger Wald
 
 
 *    *   B 188
         B 3
 
     *   von A 37 (AS Beinhorn) über B 3, B 188, Schafstallweg bis Straße Am
-        Schlachtacker 50, Uetze
+        Schlachtacker 50, 31311 Uetze
 
 
 *    *   B 6
 
     *   von A 37 über B 6, Hermesallee, Karlsruher Straße bis Ulmer Straße 1,
-        Laatzen
+        30880 Laatzen
 
 
 *    *   L 618
 
     *   von A 39 (AS Salzgitter/Thiede) über L 618 (Eisenhüttenstraße) bis
-        Heinrich-Büssing-Straße, Salzgitter-Watenstedt
+        Heinrich-Büssing-Straße, 38239 Salzgitter-Watenstedt
 
 
 *    *   K 1
@@ -7114,38 +7725,49 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 6
 
     *   von A 39 (AS Salzgitter-Lichtenberg/West) über K 6, K 40 und K 1 bis K
-        30 (Theodor-Heuss-Straße), Salzgitter
+        30 (Theodor-Heuss-Straße), 38228 Salzgitter
 
 
 *    *   K 79
         K 11
         K 42
 
-    *   von A 39 (AS Braunschweig/Rautheim) über K 79 (Rautheimer Straße),
-        K 11 (Helmstedter Straße), K 42 (Erzberg) bis Triftstraße, Rautheim
+    *   von A 39 (AS Braunschweig/Rautheim) über K 79 (Rautheimer Straße), K
+        11 (Helmstedter Straße), K 42 (Erzberg) bis Triftstraße, 38126
+        Braunschweig (Rautheim)
+
+
+*    *   K 79
+        K 11
+        K 42
+
+    *   von A 39 (AS Braunschweig/Rautheim) bis Anschluss K 79 (Rautheimer
+        Straße), K 11 (Helmstedter Straße), K 42 (Erzberg) bis Boltenberg 6,
+        38126 Braunschweig
 
 
 *    *   K 114
 
-    *   von A 39 (AS Sandkamp) über K 114 bis VW-Werk, Wolfsburg
+    *   von A 39 (AS Sandkamp) über K 114 bis VW-Werk, 38440 Wolfsburg
 
 
 *    *   K 30
 
-    *   von A 39 (AS Salzgitter-Watenstedt) über K 30 bis nach Watenstedt
+    *   von A 39 (AS Salzgitter-Watenstedt) über K 30 bis nach 38239
+        Watenstedt
 
 
 *    *   B 248
         L 295
 
-    *   von A 39 (AS Wolfsburg) über B 248, L 295, den Heinenkamp bis Peter-
-        Horst-Straße 1, Hattdorf
+    *   von A 39 (AS Wolfsburg) über B 248, L 295, Heinenkamp bis Peter-Hurst-
+        Straße 1, 38444 Wolfsburg (Hattdorf)
 
 
 *    *   L 295
         L 294
 
-    *   von A 39 (AS Wolfsburg) über L 295, L 294 bis Lehmkuhlenfeld,
+    *   von A 39 (AS Wolfsburg) über L 295, L 294 bis Lehmkuhlenfeld, 38444
         Wolfsburg/Hattdorf
 
 
@@ -7159,36 +7781,43 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 404
         K 46
 
-    *   von A 39 (AS Handorf) über B 404, K 46 bis Daimlerstraße 14, Bardowick
+    *   von A 39 (AS Handorf) über B 404, K 46 bis Daimlerstraße 14, 21357
+        Bardowick
 
 
 *    *   B 404
 
-    *   von A 39 bis Anschluss Handorf bis Anschluss B 404 bis Landesgrenze
-        Schleswig-Holstein
+    *   von A 39 bis Anschluss Handorf bis Anschluss B 404 bis LG Schleswig-
+        Holstein
 
 
 *    *
     *   von A 39 (AS Seevetal/Maschen) über Winsener Straße, Unner de Bult,
-        Maschener Straße bis Werkstraße 1, Seevetal OT Hittfeld
+        Maschener Straße bis Werkstraße 1, 21218 Seevetal OT Hittfeld
+
+
+*    *
+    *   von A 39 bis Anschluss B 4, B 209 bis Am Alten Werk 56/58, 21406
+        Melbeck
 
 
 *    *   B 211
         B 212
 
-    *   von A 293 auf B 211, B 212, Weserstraße bis Otto-Hahn-Straße, Brake
+    *   von A 293 auf B 211, B 212, Weserstraße bis Otto-Hahn-Straße, 26919
+        Brake
 
 
 *    *   B 212
         B 211
 
     *   von A 293 (AS Kreuz Oldenburg-Nord) über B 211 bis Kreuzung B 211/B
-        212, Brake
+        212, 26919 Brake
 
 
 *    *
     *   von A 280 (AS Bunde/West) über Neuschanzer Straße bis Straße Bunde-
-        West, Bunde
+        West, 26831 Bunde
 
 
 *    *   L 190
@@ -7197,7 +7826,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 352 (AS Kaltenweide) über L 190 bis Mellendorf, L 310
         (Hartmannshof), L 383 (Wedemarkstraße – Bissendorfer Straße –
-        Lindenstraße) und Wennebostel bis Am Krähenberg
+        Lindenstraße) und Wennebostel bis Am Krähenberg, 30900 Wedemark
+
+
+*    *   L 380
+        L 382
+
+    *   von A 352 (AS Engelbostel) bis Anschluss L 380, L 382, Schwabenstraße
+        bis Münchner Straße 39, 30855 Langenhagen
 
 
 *    *   L 190
@@ -7208,27 +7844,27 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von Am Krähenberg 3, Wennebostel über L 383 (Lindenstraße –
         Bissendorfer Straße – Wedemarkstraße), L 310 (Hartmannshof), L 190
-        (Kaltenweider Straße, Langenhagener Straße), K 361 (Walsroder Straße)
-        und K 325 (Reuterdamm) bis Milchstraße 1, Isernhagen
+        (Kaltenweider Straße, Langenhagener Straße), K 361 (Walsroder Straße)
+        und K 325 (Reuterdamm) bis Milchstraße 1, 30916 Isernhagen
 
 
 *    *   L 190
 
     *   von A 352 (AS Hannover-Flughafen) über L 190 (Wagenzeller Straße) und
-        L 190 bis Münchner Straße 46 oder Rehkamp 15, Langenhagen
+        L 190 bis Münchner Straße 46 oder Rehkamp 15, 30853 Langenhagen
 
 
 *    *   L 190
 
     *   von A 352 (AS Hannover-Flughafen) über L 190 (Wagenzeller Straße), L
-        190 und Münchner Straße bis Kemptner Straße, Langenhagen
+        190 und Münchner Straße bis Kemptner Straße, 30855 Langenhagen
 
 
 *    *   L 190
 
     *   von A 352 (AS Hannover-Flughafen) über L 190 (Wagenzeller Straße),
-        Flughafenstraße, Evers­horster Straße, Benkendorffstraße, Nordstraße
-        bis Heinz-Peter-Piper-Straße 8, Langenhagen
+        Flughafenstraße, Evershorster Straße, Benkendorffstraße, Nordstraße
+        bis Heinz-Peter-Piper-Straße 8, 30855 Langenhagen
 
 
 *    *   L 380
@@ -7241,29 +7877,28 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 352 bis Anschluss Hannover/Flughafen bis Anschluss L 190
         (Wagenzeller Straße), Flughafenstraße, Everhorster Straße,
-        Benkendorffstraße, Nordstraße bis Frachhof, 30855 Langenhagen und
-        zurück
+        Benkendorffstraße, Nordstraße bis Frachhof, 30855 Langenhagen
 
 
 *    *
     *   von A 391 (AS Braunschweig-Hansestraße) über Gifhorner Straße,
-        Schmalbachstraße, Porschestraße bis KT-Werk, Braunschweig
+        Schmalbachstraße, Porschestraße bis KT-Werk, 38112 Braunschweig
 
 
 *    *
     *   von A 391 (AS Braunschweig-Hansestraße) über Benzstraße und
-        Hansestraße bis Gifhorner Straße, Braunschweig
+        Hansestraße bis Gifhorner Straße, 38112 Braunschweig
 
 
 *    *
     *   von A 391 (AS Braunschweig-Hansestraße) über Benzstraße und
-        Hansestraße bis Christian-Pommer-Straße, Braunschweig
+        Hansestraße bis Christian-Pommer-Straße, 38112 Braunschweig
 
 
 *    *   K 26
 
     *   von A 391 (AS Braunschweig-Hansestraße) über K 26 (Hansestraße) bis
-        Hansestraße 60, Braunschweig
+        Hansestraße 60, 38112 Braunschweig
 
 
 *    *
@@ -7273,7 +7908,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von A 391 (AS Braunschweig-Hansestraße) über Gifhorner Straße bis VW-
-        Werk Braunschweig
+        Werk Braunschweig, 38112 Braunschweig
 
 
 *    *   B 6
@@ -7284,12 +7919,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 213
 
     *   von B 213 über Haselünner Straße, Ulanenstraße bis Friedrich-Ebert-
-        Straße 128 – 130, Lingen
+        Straße 128 – 130, 49811 Lingen (Ems)
 
 
 *    *
     *   von A 29 (AS Ahlhorn) über Cloppenburger Straße bis Lether
-        Gewerbestraße gegebenenfalls Zeppelinring, Ahlhorn
+        Gewerbestraße gegebenenfalls Zeppelinring, 26197 Großenkneten
+        (Ahlhorn)
 
 
 *    *   B 65
@@ -7302,27 +7938,29 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von Sarstedt, Helperder Straße 1 über B 6, Straße der Nationen und L
         393 (Lissabonner Allee, Kronsbergstraße) bis Karlsruher Straße 14,
-        Laatzen
+        30880 Laatzen
 
 
 *    *   B 6
         B 65
 
     *   von Sarstedt, Helperder Straße 1 über B 6 und B 65 (Südschnellweg,
-        Frankfurter Allee) bis Göttinger Chaussee 83, Hannover/Oberricklingen
+        Frankfurter Allee) bis Göttinger Chaussee 83, 30459
+        Hannover/Oberricklingen
 
 
 *    *   K 516
 
     *   von Sarstedt, Helperder Straße 1 über K 516 (Heiseder Straße) und K
-        260 (Hildesheimer Straße) bis Hildesheimer Straße 413, Hannover/Wülfel
+        260 (Hildesheimer Straße) bis Hildesheimer Straße 413, 30519
+        Hannover/Wülfel
 
 
 *    *   B 213
         L 55
 
     *   von B 213 über Boschstraße (Herzlake), L 55 (Holter Straße), KVP,
-        Siemensstraße, L 55 bis B 213
+        Siemensstraße, L 55 bis B 213
 
 
 *    *   B 213
@@ -7336,14 +7974,15 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 165
         L 77
 
-    *   von B 218 über K 165, L 77 bis Robert-Bosch-Straße 4, Achmer
+    *   von B 218 über K 165, L 77 bis Robert-Bosch-Straße 4, 49565 Bramsche
+        (Achmer)
 
 
 *    *   B 401
         K 343
 
     *   von Kreuzung B 72/B 401 (Sedelsberg) über B 401 und K 343 bis
-        Interkommunalen Industriegebiet c-Port am Küstenkanal
+        Interkommunales Industriegebiet c-Port am Küstenkanal
 
 
 *    *   B 437
@@ -7351,12 +7990,17 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 188
 
     *   von B 437 über B 212, Kreisstraße 188 (Lange Straße/Martin-Pauls-
-        Straße) bis Werftstraße, Nordenham
+        Straße) bis Werftstraße, 26954 Nordenham
 
 
 *    *
     *   von LG Bremen/Niedersachsen über Theodor-Barth-Straße bis Straße In
-        den Ellern, Achim
+        den Ellern, 28832 Achim
+
+
+*    *
+    *   von LG Nordrhein-Westfalen bis Anschluss Lüchtringer Weg bis
+        Dr.-Stiebel-Straße 33, 37603 Holzminden
 
 
 *    *   K 11
@@ -7367,43 +8011,46 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *
     *   von Melle, Spenger Straße 49 Richtung Melle-Bruchmühlen, Kreisverkehr,
-        Spengerstraße, Osnabrücker Straße bis LG Nds./NRW
+        Spengerstraße, Osnabrücker Straße bis LG Niedersachsen/Nordrhein-
+        Westfalen
 
 
 *    *
-    *   Kompletter Heinrich-Nordhoff-Ring, Garbsen
+    *   kompletter Heinrich-Nordhoff-Ring, 30826 Garbsen
 
 
 *    *
-    *   von A 31 (AS Emden-West), Niedersachsenstraße, im Kreisverkehr
-        2\. Ausfahrt, Niedersachsenstraße, rechts Heinrich-Nordhoff-Straße,
-        links Eingang Industriepark; Im Industriepark Dieselstraße,
-        Daimlerstraße, Wankelstraße
+    *   von A 31 (AS Emden-West), Niedersachsenstraße, im Kreisverkehr 2.
+        Ausfahrt, Niedersachsenstraße, rechts Heinrich-Nordhoff-Straße, links
+        Eingang Industriepark; Im Industriepark Dieselstraße, Daimlerstraße,
+        Wankelstraße, 26723 Emden
 
 
 
-**Nachgeordnetes Straßennetz Nordrhein-Westfalen:**
+
+**Nachgeordnetes Streckennetz Nordrhein-Westfalen:**
 
 *    *   Straße
 
-    *   Streckenabschnitt
-        jeweils in beiden Fahrtrichtungen
+    *   Streckenbeschreibung
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   Gemeindestraße
 
-    *   Im Lekkerland 1 bis Abzweig Im Waldteich, Oberhausen
+    *   Im Lekkerland 1 bis Abzweig Im Waldteich, 46147 Oberhausen
 
 
 *    *   Gemeindestraße
 
-    *   Im Waldteich von Im Lekkerland bis Abzweig K 10 (Weißensteinstraße),
-        Oberhausen
+    *   Im Waldteich von Im Lekkerland bis Abzweig K 10 (Weißensteinstraße),
+        46147 Oberhausen
 
 
 *    *   K 10
 
-    *   K 10 von Im Waldteich bis Abzweig L 215 (Erlenstraße), Oberhausen
+    *   K 10 von Im Waldteich bis Abzweig L 215 (Erlenstraße), 46149
+        Oberhausen
 
 
 *    *   L 215
@@ -7414,67 +8061,68 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 264
 
     *   B 264 (Dürener Straße) von A 1 AS Frechen [104] über L 496
-        (Holzstraße) bis Abzweig L 183 (Bonnstraße), Frechen (Rhein-Erft-
-        Kreis)
+        (Holzstraße) bis Abzweig L 183 (Bonnstraße), 50226 Frechen (Rhein-
+        Erft-Kreis)
 
 
 *    *   L 183
 
-    *   L 183 (Bonnstraße) von L 496 (Holzstraße) Frechen, bis Abzweig AS
-        B 59/ L183 (Bonnstraße), Pulheim (Rhein-Erft-Kreis)
+    *   L 183 (Bonnstraße) von L 496 (Holzstraße), Frechen, bis Abzweig AS B
+        59/L183 (Bonnstraße), 50259 Pulheim (Rhein-Erft-Kreis)
 
 
 *    *   B 59
 
     *   B 59 von A 1 AS Bocklemünd [102] bis Abzweig AS B 59/L 183
-        (Bonnstraße), Pulheim (Rhein-Erft-Kreis)
+        (Bonnstraße), 50259 Pulheim (Rhein-Erft-Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Donatusstraße, von L 183 (Bonnstraße) bis Donatusstraße 150, Pulheim
-        (Rhein-Erft-Kreis)
+    *   Donatusstraße, von L 183 (Bonnstraße) bis Donatusstraße 150, 50259
+        Pulheim (Rhein-Erft-Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Darmcher Grund 1 bis Abzweig L 173, Meinerzhagen (Märkischer Kreis)
-
-
-*    *   Gemeindestraße
-
-    *   Gewerbepark Grünewald bis Abzweig L 173, Meinerzhagen (Märkischer
+    *   Darmcher Grund 1 bis Abzweig L 173, 58540 Meinerzhagen (Märkischer
         Kreis)
+
+
+*    *   Gemeindestraße
+
+    *   Gewerbepark Grünewald bis Abzweig L 173, 58540 Meinerzhagen
+        (Märkischer Kreis)
 
 
 *    *   L 173
 
     *   L 173 von Höhe Neuenhaus 1 (Übergang Bezirksregierung Köln),
-        Gummersbach bis Abzweig L 306, Meinerzhagen (Märkischer Kreis)
+        Gummersbach bis Abzweig L 306, 58540 Meinerzhagen (Märkischer Kreis)
 
 
 *    *   L 306
 
-    *   L 306 von L 173 bis A 45 AS Meinerzhagen [16]/L 539, Meinerzhagen
-        (Märkischer Kreis)
+    *   L 306 von L 173 bis A 45 AS Meinerzhagen [16]/L 539, 58540
+        Meinerzhagen (Märkischer Kreis)
 
 
 *    *   L 539
 
-    *   L 539 von A 45 AS Meinerzhagen [16] bis Abzweig L 707, Meinerzhagen
-        (Märkischer Kreis)
+    *   L 539 von A 45 AS Meinerzhagen [16] bis Abzweig L 707, 58540
+        Meinerzhagen (Märkischer Kreis)
 
 
 *    *   L 707
 
-    *   L 707 (Wormgermühle) bis Abzweig L 539, Meinerzhagen (Märkischer
+    *   L 707 (Wormgermühle) bis Abzweig L 539, 58540 Meinerzhagen (Märkischer
         Kreis)
 
 
 *    *   Gemeindestraße
 
     *   Torfkuhlenweg 36 bis Abzweig L 597 (Hansaring – Zum Habichtswald),
-        Lotte (Kreis Steinfurt)
+        49504 Lotte (Kreis Steinfurt)
 
 
 *    *   L 597
@@ -7485,27 +8133,29 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Heinrich-Steinmann-Straße von Frachtzentrum Flughafen bis L 84
-        (Kennedystraße) AS Flughafen, Köln
+        (Kennedystraße) AS Flughafen, 51147 Köln
 
 
 *    *   L 84
 
-    *   L 84 (Kennedystraße) von AS Flughafen bis AK Flughafen [34], Köln
+    *   L 84 (Kennedystraße) von AS Flughafen bis AK Flughafen [34], 51147
+        Köln
 
 
 *    *   Gemeindestraße
 
-    *   Krieger Straße bis Abzweig Waldstraße, Köln
+    *   Krieger Straße bis Abzweig Waldstraße, 51147 Köln
 
 
 *    *   Gemeindestraße
 
-    *   Waldstraße bis Abzweig L 489 (Grengeler Mauspfad), Köln
+    *   Waldstraße bis Abzweig L 489 (Grengeler Mauspfad), 51147 Köln
 
 
 *    *   L 489
 
-    *   L 489 (Grengeler Mauspfad) bis Abzweig L 84 (Kennedystraße), Köln
+    *   L 489 (Grengeler Mauspfad) bis Abzweig L 84 (Kennedystraße), 51147
+        Köln
 
 
 *    *   B 65
@@ -7521,19 +8171,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   K 6
 
-    *   K 6 von B 482 bis Abzweig Hans-Böckler-Straße, Minden (Kreis-Minden-
-        Lübbecke)
+    *   K 6 von B 482 bis Abzweig Hans-Böckler-Straße, 32423 Minden (Kreis
+        Minden-Lübbecke)
 
 
 *    *   Gemeindestraße
 
-    *   Hans-Böckler-Straße, von Abzweig K 6 bis Hans-Böckler-Straße 35,
-        Minden (Kreis-Minden-Lübbecke)
+    *   Hans-Böckler-Straße, von Abzweig K 6 bis Hans-Böckler-Straße 35, 32423
+        Minden (Kreis Minden-Lübbecke)
 
 
 *    *   Gemeindestraße
 
-    *   Friedrich der Große 29 bis Übergang K 29 (Sodinger Straße), Herne
+    *   Friedrich der Große 29 bis Übergang K 29 (Sodinger Straße), 44628
+        Herne
 
 
 *    *   K 29
@@ -7543,93 +8194,97 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Westfaliastraße 187 bis Abzweig Königsbergstraße, Dortmund
+    *   Westfaliastraße 191 bis Abzweig Königsbergstraße, 44147 Dortmund
 
 
 *    *   Gemeindestraße
 
     *   Königsbergstraße, von Westfaliastraße bis Abzweig Huckarder Straße,
-        Dortmund
+        44147 Dortmund
 
 
 *    *   Gemeindestraße
 
     *   Huckarder Straße, von Königsbergstraße bis Abzweig L 609 (Huckarder
-        Straße, Dortmund
+        Straße, 44147 Dortmund
 
 
 *    *   L 609
 
-    *   L 609 (Huckarder Straße) bis Abzweig Mallinckrodtstraße, Dortmund
+    *   L 609 (Huckarder Straße) bis Abzweig Mallinckrodtstraße, 44147
+        Dortmund
 
 
 *    *   Gemeindestraße
 
-    *   Mallinckrodtstraße, Dortmund, von L 609 (Huckarder Straße) bis A 45
-        AS Dortmund-Hafen [4]
+    *   Mallinckrodtstraße, Dortmund, von L 609 (Huckarder Straße) bis A 45 AS
+        Dortmund-Hafen [4]
 
 
 *    *   Gemeindestraße
 
-    *   Ellinghauser Straße 213 bis Abzweig L 657 (Ellinghauser Straße),
+    *   Ellinghauser Straße 213 bis Abzweig L 657 (Ellinghauser Straße), 44359
         Dortmund
 
 
 *    *   L 657
 
-    *   L 657 (Ellinghauser Straße) bis Abzweig L 609 (Emscherallee), Dortmund
+    *   L 657 (Ellinghauser Straße) bis Abzweig L 609 (Emscherallee), 44359
+        Dortmund
 
 
 *    *   L 609
 
     *   L 609 von L 657 (Ellinghauser Straße) bis A 2 AS Dortmund-Mengede
-        [12], Dortmund
+        [12], 44359 Dortmund
 
 
 *    *   Gemeindestraße
 
     *   Thomas-Dachser-Straße, von Betriebsgelände Dachser SE bis Abzweig K 5
-        (Leopoldshöher Straßen Bad Salzuflen (Kreis Lippe)
+        (Leopoldshöher Straße), 32107 Bad Salzuflen (Kreis Lippe)
 
 
 *    *   K 5
 
     *   K 5 von Thomas-Dachser-Straße bis Abzweig L 712n (Ostwestfalenstraße),
-        Bad Salzuflen (Kreis Lippe)
+        32107 Bad Salzuflen (Kreis Lippe)
 
 
 *    *   L 712n
 
-    *   L 712n von K 5 bis A 2 AS Ostwestfalen/Lippe [28], Kreis Lippe
+    *   L 712n von K 5 bis A 2 AS Ostwestfalen/Lippe [28], 32107 Bad Salzuflen
+        (Kreis Lippe)
 
 
 *    *   L 793
 
     *   L 793 (Kellinghauser Straße) von A 2 AS Oelde [21] bis Abzweig L 586
-        (Beckumer Straße), Oelde (Kreis Warendorf)
+        (Beckumer Straße), 59302 Oelde (Kreis Warendorf)
 
 
 *    *   L 586
 
     *   L 586 (Beckumer Straße – Stromberger Straße) von (Kellinghauser
-        Straße) L 793 bis Abzweig Auf dem Tigge, Beckum (Kreis Warendorf)
+        Straße) L 793 bis Abzweig Auf dem Tigge, 59302 Beckum (Kreis
+        Warendorf)
 
 
 *    *   Gemeindestraße
 
     *   Auf dem Tigge, von Abzweig L 586 (Stromberger Straße) bis Auf dem
-        Tigge 88, Beckum (Kreis Warendorf)
+        Tigge 88, 59269 Beckum (Kreis Warendorf)
 
 
 *    *   Gemeindestraße
 
-    *   Floßhafenstraße 16 bis Abzweig Willy-Brandt-Ring (L 137), Neuss
+    *   Floßhafenstraße 16 bis Abzweig Willy-Brandt-Ring (L 137), 41460 Neuss
 
 
 *    *   L 137
 
     *   L 137 (Willy-Brandt-Ring) von Floßhafenstraße bis Übergang B 1/Abzweig
-        Stresemannallee, Neuss
+        Stresemannallee, 41460 Neuss
 
 
 *    *   B 1
@@ -7640,7 +8295,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Gottfried-Schenker-Straße 1 bis Abzweig L 571 (Oerlingerstraße) in
+    *   Gottfried-Schenker-Straße 1 bis Abzweig L 571 (Oerlingerstraße), 33758
         Schloss Holte-Stukenbrock (Kreis Gütersloh)
 
 
@@ -7652,257 +8307,259 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Deilbachtal 116 bis Abzweig Dilldorfer Straße, Essen-Kupferdreh
+    *   Deilbachtal 116 bis Abzweig Dilldorfer Straße, 45257 Essen-Kupferdreh
 
 
 *    *   Gemeindestraße
 
-    *   Dilldorfer Straße, von Deilbachtal bis Abzweig L 439, Essen-Kupferdreh
+    *   Dilldorfer Straße, von Deilbachtal bis Abzweig L 439, 45257 Essen-
+        Kupferdreh
 
 
 *    *   L 439
 
-    *   L 439 von Dilldorfer Straße bis L 191 (Nierenhofer Straße), Essen-
-        Kupferdreh
+    *   L 439 von Dilldorfer Straße bis L 191 (Nierenhofer Straße), 45257
+        Essen-Kupferdreh
 
 
 *    *   L 191
 
-    *   L 191 von L 439 bis A 44 AS Essen-Kupferdreh [39], Essen-Kupferdreh
+    *   L 191 von L 439 bis A 44 AS Essen-Kupferdreh [39], 45257 Essen-
+        Kupferdreh
 
 
 *    *   Gemeindestraße
 
-    *   Am Pannacker 903 bis Abzweig 261 (Meckenheimer Allee), Meckenheim
-        (Rhein-Sieg-Kreis)
+    *   Am Pannacker 903 bis Abzweig 261 (Meckenheimer Allee), 53340
+        Meckenheim (Rhein-Sieg-Kreis)
 
 
 *    *   L 261
 
     *   L 261 (Meckenheimer Allee) von Am Pannacker bis A 565 AS Meckenheim-
-        Nord [10], Meckenheim (Rhein-Sieg-Kreis)
+        Nord [10], 53340 Meckenheim (Rhein-Sieg-Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Kautexstraße 52 bis Abzweig B 56 (St. Augustiner Straße), Bonn
+    *   Kautexstraße 52 bis Abzweig B 56 (St. Augustiner Straße), 53229 Bonn
 
 
 *    *   B 56
 
     *   B 56 (St. Augustiner Straße) von Kautexstraße bis A 59 AS Bonn-Villich
-        [41], Bonn
+        [41], 53229 Bonn
 
 
 *    *   Gemeindestraße
 
     *   Wiesenstraße, von Wiesenstraße 65 bis Abzweig Heerdterbuschstraße,
-        Neuss
+        41460 Neuss
 
 
 *    *   Gemeindestraße
 
     *   Am Hochofen 50 – 64, von Betriebsgelände Dachser SE bis Übergang
-        Heerdterbuschstraße, Neuss
+        Heerdterbuschstraße, 41460 Neuss
 
 
 *    *   Gemeindestraße
 
     *   Heerdterbuschstraße bis Abzweig L 380/L 137 (Düsseldorfer Straße),
-        Neuss
+        41460 Neuss
 
 
 *    *   L 137
 
     *   L 137 (Düsseldorfer Straße) von Heerdterbuschstraße bis Übergang L 137
-        (Burgunder Straße), Neuss
+        (Burgunder Straße), 41460 Neuss
 
 
 *    *   L 137
 
     *   L 137 (Burgunder Straße), Neuss, bis Übergang L 137 (Kevelaerer
-        Straße), Düsseldorf
+        Straße), 40549 Düsseldorf
 
 
 *    *   L 137
 
-    *   L 137 (Kevelaerer Straße) bis A 52 AS Büderich [14],
+    *   L 137 (Kevelaerer Straße) bis A 52 AS Büderich [14], 40549
         Meerbusch/Düsseldorf
 
 
 *    *   L 137
 
     *   L 137 (Düsseldorfer Straße – Willy-Brandt-Ring) von
-        Heerdterbuschstraße bis Abzweig Floßhafenstraße, Neuss
+        Heerdterbuschstraße bis Abzweig Floßhafenstraße, 41460 Neuss
 
 
 *    *   Gemeindestraße
 
     *   Stresemannallee, von L 137 (Willy-Brandt-Ring) bis Übergang B 1
-        (Josef-Kardinal-Frings-Brücke), Neuss
+        (Josef-Kardinal-Frings-Brücke), 41460 Neuss
 
 
 *    *   B 1
 
     *   B 1 (Josef-Kardinal-Frings-Brücke) von Übergang L 137 (Willy-Brandt-
         Ring)/Abzweig Stresemannallee, Neuss, bis Übergang B 326
-        (Südring)/Abzweig Völklinger Straße, Düsseldorf
+        (Südring)/Abzweig Völklinger Straße, 40219 Düsseldorf
 
 
 *    *   B 326
 
     *   B 326 (Südring) von Völklinger Straße bis L 293 (Münchener Straße),
-        Düsseldorf-Bilk
+        40219 Düsseldorf-Bilk
 
 
 *    *   L 293
 
-    *   L 293 (Münchener Straße) von B 326 (Südring) bis A 46 AS Düsseldorf-
-        Bilk [23], Düsseldorf-Bilk
+    *   L 293 (Münchener Straße) von B 326 (Südring) bis A 46 AS Düsseldorf-
+        Bilk [23], 40589 Düsseldorf-Bilk
 
 
 *    *   B 326
 
-    *   B 326 (Kopernikusstraße – Auf’m Hennekamp) von L 293 (Münchener
-        Straße) bis Abzweig B 8 (Witzelstraße), Düsseldorf-Bilk
+    *   B 326 (Kopernikusstraße – Auf´m Hennekamp) von L 293 (Münchener
+        Straße) bis Abzweig B 8 (Witzelstraße), 40223 Düsseldorf-Bilk
 
 
 *    *   B 8
 
-    *   B 8 (Witzelstraße) von B 326/B 8 (Auf’m Hennekamp) bis A 46 AS
-        Düsseldorf-Wersten [24], Düsseldorf
+    *   B 8 (Witzelstraße) von B 326/B 8 (Auf´m Hennekamp) bis A 46 AS
+        Düsseldorf-Wersten [24], 40225 Düsseldorf
 
 
 *    *   B 8
 
-    *   B 8 (Auf’m Hennekamp) von Übergang B 326 (Kopernikusstraße – Auf’m
-        Hennekamp) bis Abzweig B 1 (Nördlicher Zubringer), Düsseldorf-
+    *   B 8 (Auf´m Hennekamp) von Übergang B 326 (Kopernikusstraße – Auf´m
+        Hennekamp) bis Abzweig B 1 (Nördlicher Zubringer), 40225 Düsseldorf-
         Unterrath
 
 
 *    *   L 353
 
     *   L 353 (Berghauser Straße) von A 59 AS Richrath [24] bis Abzweig
-        Elisabeth-Selbert-Straße, Langenfeld (Kreis Mettmann)
+        Elisabeth-Selbert-Straße, 40764 Langenfeld (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
     *   Elisabeth-Selbert-Straße von L 353 (Berghauser Straße) bis Elisabeth-
-        Selbert-Straße 6 – 8, Langenfeld (Kreis Mettmann)
+        Selbert-Straße 6 – 8, 40764 Langenfeld (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
     *   Kieshecker Weg, von A 44 AS D-Flughafen [31] bis Abzweig K 3
-        (Wanheimer Straße), Düsseldorf-Unterrath
+        (Wanheimer Straße), 40468 Düsseldorf-Unterrath
 
 
 *    *   K 3
 
     *   K 3 (Wanheimer Straße) von Kieshecker Weg bis Abzweig K 2
-        (Broichhofstraße), Düsseldorf-Lichtenbroich
+        (Broichhofstraße), 40472 Düsseldorf-Lichtenbroich
 
 
 *    *   K 2
 
     *   K 2 (Broichhofstraße) von K 3 (Wanheimer Straße) über K 2 (Am
-        Hülserhof) bis Abzweig Zum Gut Heiligendonk, Düsseldorf-Rath
+        Hülserhof) bis Abzweig Zum Gut Heiligendonk, 40472 Düsseldorf-Rath
 
 
 *    *   Gemeindestraße
 
-    *   Zum Gut Heiligendonk, von K 2 (Am Hülserhof) bis Abzweig L 49
-        (Theodorstraße), Düsseldorf-Rath
+    *   Zum Gut Heiligendonk, von K 2 (Am Hülserhof) bis Abzweig L 49
+        (Theodorstraße), 40472 Düsseldorf-Rath
 
 
 *    *   L 49
 
     *   L 49 (Theodorstraße) von A 52 AS Rath [21] bis Abzweig Wahlerstraße,
-        Düsseldorf-Rath
+        40472 Düsseldorf-Rath
 
 
 *    *   Gemeindestraße
 
-    *   Wahlerstraße, von L 49 (Theodorstraße) bis Wahlerstraße 37,
+    *   Wahlerstraße, von L 49 (Theodorstraße) bis Wahlerstraße 37, 40472
         Düsseldorf-Rath
 
 
 *    *   B 70
 
-    *   B 70 von A 30 AS Rheine Nord [7] bis Abzweig B 54 bei Metelen (Kreis
-        Steinfurt)
+    *   B 70 von A 30 AS Rheine Nord [7] bis Abzweig B 54 bei 48607 Ochtrup
+        (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Venhauser Damm, von B 70 bis Abzweig Sandkampstraße, Rheine (Kreis
-        Steinfurt)
+    *   Venhauser Damm, von B 70 bis Abzweig Sandkampstraße, 48432 Rheine
+        (Kreis Steinfurt)
 
 
 *    *   L 593
 
     *   Hopstener Damm (L 593) von A 30 AS Rheine [8] bis Abzweig
-        Sandkampstraße, Rheine (Kreis Steinfurt)
+        Sandkampstraße, 48432 Rheine (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
     *   Sandkampstraße, von Abzweig Venhauser Damm bis L 593 (Hopstener Damm),
+        48432 Rheine (Kreis Steinfurt)
+
+
+*    *   Gemeindestraße
+
+    *   Bonifatiusstraße, von Offenbergweg bis Abzweig Sandkampstraße, 48432
         Rheine (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Bonifatiusstraße, von Offenbergweg bis Abzweig Sandkampstraße, Rheine
-        (Kreis Steinfurt)
-
-
-*    *   Gemeindestraße
-
     *   Baarenfelgenstraße – Offenbergweg von Sandkampstraße bis Abzweig
-        Bonifatiusstraße, Rheine (Kreis Steinfurt)
+        Bonifatiusstraße, 48432 Rheine (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Ohmstraße, von Offenbergweg bis Abzweig Bonifatiusstraße, Rheine
+    *   Ohmstraße, von Offenbergweg bis Abzweig Bonifatiusstraße, 48432 Rheine
         (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Borsigstraße, von Ohmstraße bis Abzweig Bonifatiusstraße, Rheine
+    *   Borsigstraße, von Ohmstraße bis Abzweig Bonifatiusstraße, 48432 Rheine
         (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Schlavenhorst 94 bis Abzweig Alfred-Flender-Straße, Bocholt (Kreis
-        Borken)
+    *   Schlavenhorst 94 bis Abzweig Alfred-Flender-Straße, 46395 Bocholt
+        (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
     *   Alfred-Flender-Straße, von Schlavenhorst bis Abzweig L 505 (Mussumer
-        Ringstraße), Bocholt
+        Ringstraße), 46395 Bocholt
 
 
 *    *   L 505
 
-    *   L 505 (Mussumer Ringstraße) von Alfred-Flender-Straße bis Abzweig
-        B 67, Bocholt (Kreis Borken)
+    *   L 505 (Mussumer Ringstraße) von Alfred-Flender-Straße bis Abzweig B
+        67, 46395 Bocholt (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
-    *   Wüppings Weide 1 bis Abzweig K 27 (Mussumer Ringstraße), Bocholt
+    *   Wüppings Weide 1 bis Abzweig K 27 (Mussumer Ringstraße), 46395 Bocholt
         (Kreis Borken)
 
 
 *    *   K 27
 
-    *   K 27 (Mussumer Ringstraße) von Wüppings Weide bis Abzweig B 67,
+    *   K 27 (Mussumer Ringstraße) von Wüppings Weide bis Abzweig B 67, 46395
         Bocholt (Kreis Borken)
 
 
@@ -7918,54 +8575,55 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Am Eifeltor (Gewerbegebiet) bis A 4 AS Eifeltor [11b], Köln-
+    *   Am Eifeltor (Gewerbegebiet) bis A 4 AS Eifeltor [11b], 50997 Köln-
         Klettenberg
 
 
 *    *   Gemeindestraße
 
-    *   Hansastraße 20 bis Abzweig Danziger Straße, Neuss
+    *   Hansastraße 20 bis Abzweig Danziger Straße, 41460 Neuss
 
 
 *    *   Gemeindestraße
 
-    *   Danziger Straße, von Hansastraße bis Abzweig Langmarckstraße, Neuss
+    *   Danziger Straße, von Hansastraße bis Abzweig Langmarckstraße, 41460
+        Neuss
 
 
 *    *   Gemeindestraße
 
     *   Langmarckstraße, von Danziger Straße bis Abzweig Stresemannallee,
-        Neuss
+        41460 Neuss
 
 
 *    *   Gemeindestraße
 
     *   Stresemannallee, von Langmarckstraße bis L 137 (Willy-Brandt-Ring),
-        Neuss
+        41460 Neuss
 
 
 *    *   Gemeindestraße
 
-    *   Prinzenstraße 52 – 56 bis Abzweig L 706 (Berliner Straße), Schwelm
-        (Ennepe-Ruhr-Kreis)
+    *   Prinzenstraße 52 – 56 bis Abzweig L 706 (Berliner Straße), 58332
+        Schwelm (Ennepe-Ruhr-Kreis)
 
 
 *    *   L 706
 
     *   L 706 (Berliner Straße) von Prinzenstraße bis Abzweig L 551 (Hattinger
-        Straße), Schwelm (Ennepe-Ruhr-Kreis)
+        Straße), 58332 Schwelm (Ennepe-Ruhr-Kreis)
 
 
 *    *   L 551
 
     *   L 551 (Hattinger Straße) von L 706 (Berliner Straße), Schwelm, bis
-        Abzweig B 326, Sprockhövel (Ennepe-Ruhr-Kreis)
+        Abzweig B 326, 45549 Sprockhövel (Ennepe-Ruhr-Kreis)
 
 
 *    *   B 326
 
-    *   L 551 (Schwelmer Straße), Sprockhövel, bis Abzweig A 1/A 46
-        AK Wuppertal-Nord [23, 38]
+    *   L 551 (Schwelmer Straße), Sprockhövel, bis Abzweig A 1/A 46 AK
+        Wuppertal-Nord [23, 38]
 
 
 *    *   B 483
@@ -7976,145 +8634,148 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Am Bahndamm 16 bis Abzweig L 560 (Graeser Straße), Ahaus (Kreis
+    *   Am Bahndamm 16 bis Abzweig L 560 (Graeser Straße), 48683 Ahaus (Kreis
         Borken)
 
 
 *    *   L 560
 
-    *   L 560 (Graeser Straße) von Am Bahndamm bis Abzweig Nordring, Ahaus
-        (Kreis Borken)
+    *   L 560 (Graeser Straße) von Am Bahndamm bis Abzweig Nordring, 48683
+        Ahaus (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
     *   Nordring, von L 560 (Graeser Straße) bis Übergang L 573
-        (Schumacherring), Ahaus (Kreis Borken)
+        (Schumacherring), 48683 Ahaus (Kreis Borken)
 
 
 *    *   L 573
 
-    *   L 573 (Schumacherring) ab Übergang Nordring bis Übergang L 570, Ahaus
-        (Kreis Borken)
+    *   L 573 (Schumacherring) ab Übergang Nordring bis Übergang L 570, 48683
+        Ahaus (Kreis Borken)
 
 
 *    *   L 570
 
     *   L 570 (Schumacherring) ab Übergang L 573 bis Abzweig L 575 (Legdener
-        Straße), Ahaus (Kreis Borken)
+        Straße), 48683 Ahaus (Kreis Borken)
 
 
 *    *   L 575
 
     *   L 575 (Legdener Straße) von A 31 AS Legden/Ahaus [32] bis Abzweig L
-        570 (Schumacherring)/Übergang L 570 (Adenauerring), Ahaus (Kreis
+        570 (Schumacherring)/Übergang L 570 (Adenauerring), 48683 Ahaus (Kreis
         Borken)
 
 
 *    *   L 570
 
     *   L 570 von Übergang L 575 (Legdener Straße) bis L 572 (Wüllener Straße
-        – Stadtlohner Straße – Borkener Straße), Ahaus (Kreis Borken)
+        – Stadtlohner Straße – Borkener Straße), 48683 Ahaus (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
-    *   Von-Braun-Straße 17 bis Abzweig L 570 (Schumacherring), Ahaus (Kreis
-        Borken)
+    *   Von-Braun-Straße 17 bis Abzweig L 570 (Schumacherring), 48683 Ahaus
+        (Kreis Borken)
 
 
 *    *   L 572
 
     *   L 572 (Wüllener Straße – Stadtlohner Straße – Borkener Straße) von L
-        570 (Adenauerring) bis Abzweig Barler Straße, Ahaus (Kreis Borken)
+        570 (Adenauerring) bis Abzweig Barler Straße, 48683 Ahaus (Kreis
+        Borken)
 
 
 *    *   Gemeindestraße
 
-    *   Barler Straße von L 572 (Borkener Straße) bis Abzweig Ruddeweg, Ahaus
-        (Kreis Borken)
+    *   Barler Straße von L 572 (Borkener Straße) bis Abzweig Ruddeweg, 48683
+        Ahaus (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
-    *   Ruddeweg, von Barer Straße bis Harmate 33, Ahaus (Kreis Borken)
+    *   Ruddeweg, von Barer Straße bis Harmate 33, 48683 Ahaus (Kreis Borken)
 
 
 *    *   B 525
 
-    *   B 525 von A 31 AS Gescher/Coesfeld [3] bis Übergang B 70, Kreis Borken
+    *   B 525 von A 31 AS Gescher/Coesfeld [3] bis Übergang B 70, 46354
+        Südlohn (Kreis Borken)
 
 
 *    *   B 70
 
-    *   B 70 von Übergang B 525 bis Abzweig B 70/L 572 (Vredener Dyk), Südlohn
-        (Kreis Borken)
+    *   B 70 von Übergang B 525 bis Abzweig B 70/L 572 (Vredener Dyk), 46325
+        Borken (Kreis Borken)
 
 
 *    *   B 70
 
     *   B 70 von B 70/L 572 (Vredener Dyk) bis Abzweig L 608 (Ringstraße),
-        Vreden (Kreis Borken)
+        48691 Vreden (Kreis Borken)
 
 
 *    *   L 608
 
     *   L 608 (Ringstraße) von B 70 (Vredener Dyk) bis Abzweig K 24 (Südlohner
-        Diek), Vreden (Kreis Borken)
+        Diek), 48691 Vreden (Kreis Borken)
 
 
 *    *   K 24
 
     *   K 24 (Südlohner Diek) von L 608 (Ringstraße) bis Südlohner Diek 13,
-        Vreden (Kreis Borken)
+        48691 Vreden (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
-    *   Ophauser Straße 20 bis Abzweig B 226, Hagen
+    *   Ophauser Straße 20 bis Abzweig B 226, 58089 Hagen
 
 
 *    *   B 226
 
-    *   B 226 von Ophauser Straße, Hagen, bis A 1 AS Hagen-West [88], Hagen
+    *   B 226 von Ophauser Straße, Hagen, bis A 1 AS Hagen-West [88], 58089
+        Hagen
 
 
 *    *   L 704
 
     *   Dortmunder Straße (L 704) ab Abzweig A 1 AS Hagen-Nord [87] bis
-        Abzweig L 674 (Wandhofener Straße – Schwerter Straße – Verbandstraße),
-        Hagen
+        Abzweig L 674 (Wandhofener Straße – Schwerter Straße – Verbandstraße),
+        58099 Hagen
 
 
 *    *   L 674
 
-    *   L 674 (Wandhofener Straße – Schwerter Straße – Verbandstraße) von L
-        704 (Dortmunder Straße) bis Abzweig Spannstiftstraße, Hagen
+    *   L 674 (Wandhofener Straße – Schwerter Straße – Verbandstraße) von L
+        704 (Dortmunder Straße) bis Abzweig Spannstiftstraße, 58099 Hagen
 
 
 *    *   Gemeindestraße
 
     *   Spannstiftstraße, ab Abzweig L 674 (Verbandstraße) bis
-        Spannstiftstraße 2, Hagen
+        Spannstiftstraße 2, 58119 Hagen
 
 
 *    *   Gemeindestraße
 
     *   Hoferweg 10 bis K 3 (Geilenkirchener Straße – Am Hanbusch – Birgdener
-        Straße), Heinsberg
+        Straße), 52538 Gangelt (Kreis Heinsberg)
 
 
 *    *   K 3
 
     *   K 3 (Geilenkirchener Straße – Am Hanbusch – Birgdener Straße) von
-        Hoferweg bis Abzweig L 47 (Karl-Arnold-Straße), Geilenkirchen-Gillrath
-        (Kreis Heinsberg)
+        Hoferweg bis Abzweig L 47 (Karl-Arnold-Straße), 52511 Geilenkirchen-
+        Gillrath (Kreis Heinsberg)
 
 
 *    *   L 47
 
     *   L 47 (Karl-Arnold-Straße) von K 3 (Birgdener Straße) bis Abzweig B 56,
-        Geilenkirchen (Kreis Heinsberg)
+        52511 Geilenkirchen (Kreis Heinsberg)
 
 
 *    *   B 56
@@ -8126,95 +8787,97 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Rather Straße 51 von Daimler-Werk bis Abzweig B 1 (Heinrich-Erhardt-
-        Straße), Düsseldorf
+        Straße), 40476 Düsseldorf
 
 
 *    *   B 1
 
     *   B 1 (Heinrich-Erhardt-Straße) von L 56 (Ulmenstraße) bis Abzweig B 1
-        (Nördlicher Zubringer), Düsseldorf
+        (Nördlicher Zubringer), 40468 Düsseldorf
 
 
 *    *   B 1
 
     *   B 1 (Nördlicher Zubringer) von B 1 (Heinrich-Erhardt-Straße) bis A 52
-        (Ausbauende), Düsseldorf-Mörsenbroich
+        (Ausbauende), 40468 Düsseldorf-Mörsenbroich
 
 
 *    *   B 7
 
     *   B 7 (Brüsseler Straße) von Übergang A 52 AS Büderich [14] bis Übergang
-        B 1 (Heinrich-Erhardt-Straße)/L 56 (Ulmenstraße), Düsseldorf
+        B 1 (Heinrich-Erhardt-Straße)/L 56 (Ulmenstraße), 40468 Düsseldorf
 
 
 *    *   L 56
 
     *   L 56 (Ulmenstraße) von B 1 (Heinrich-Erhardt-Straße) bis Ulmenstraße
-        275, Düsseldorf-Unterrath
+        275, 40468 Düsseldorf-Unterrath
 
 
 *    *   B 224
 
     *   B 224 (Gladbecker Straße) von A 42 AK/AS Essen-Nord [13] bis
-        Vogelheimer Straße, Essen
+        Vogelheimer Straße, 45326 Essen
 
 
 *    *   L 64
 
     *   L 64 (Vogelheimer Straße) von B 224 (Gladbecker Straße) bis Abzweig
-        Hafenstraße, Essen
+        Hafenstraße, 45356 Essen
 
 
 *    *   Gemeindestraße
 
-    *   Hafenstraße (L 64) von Vogelheimer Straße bis Hafenstraße 70, Essen
+    *   Hafenstraße (L 64) von Vogelheimer Straße bis Hafenstraße 70, 45356
+        Essen
 
 
 *    *   Gemeindestraße
 
     *   Daniel-Eckhardt-Straße, von Abzweig B 224 (Gladbecker Straße) bis
-        Übergang Am Stadthafen, Essen-Vogelheim
+        Übergang Am Stadthafen, 45356 Essen-Vogelheim
 
 
 *    *   Gemeindestraße
 
     *   Am Stadthafen, von Daniel-Eckhardt-Straße bis Abzweig Westuferstraße,
-        Essen-Bergeborbeck
+        45356 Essen-Bergeborbeck
 
 
 *    *   Gemeindestraße
 
-    *   Westuferstraße, von Abzweig Am Stadthafen bis Westuferstraße 7, Essen-
-        Bergeborbeck
+    *   Westuferstraße, von Abzweig Am Stadthafen bis Westuferstraße 7, 45356
+        Essen-Bergeborbeck
 
 
 *    *   L 240
 
     *   L 240 von A 44 AS Alsdorf [5b] bis Abzweig K 10 (Mariadorfer Straße),
-        Eschweiler (Städteregion Aachen)
+        52249 Eschweiler (Städteregion Aachen)
 
 
 *    *   K 10
 
-    *   K 10 (Mariadorfer Straße) von L 240 bis Mariadorfer Straße 1,
+    *   K 10 (Mariadorfer Straße) von L 240 bis Mariadorfer Straße 1, 52249
         Eschweiler (Städteregion Aachen)
 
 
 *    *   Gemeindestraße
 
-    *   Otto-Hahn-Straße 5 bis Abzweig Alfred-Nobel-Straße, Unna (Kreis Unna)
+    *   Otto-Hahn-Straße 5 bis Abzweig Alfred-Nobel-Straße, 59423 Unna (Kreis
+        Unna)
 
 
 *    *   Gemeindestraße
 
     *   Alfred-Nobel-Straße, von Otto-Hahn-Straße bis Abzweig Max-Planck-
-        Straße, Unna (Kreis Unna)
+        Straße, 59423 Unna (Kreis Unna)
 
 
 *    *   Gemeindestraße
 
     *   Max-Planck-Straße, von Alfred-Nobel-Straße bis Abzweig L 679 (KV),
-        Unna (Kreis Unna)
+        59423 Unna (Kreis Unna)
 
 
 *    *   L 679
@@ -8226,79 +8889,86 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 57
 
     *   B 57 von A 44 AS Mönchengladbach-Ost [21] bis Abzweig K 6 (Krefelder
-        Straße), Mönchengladbach-Neuwerk
+        Straße), 41066 Mönchengladbach-Neuwerk
 
 
 *    *   K 6
 
-    *   K 6 (Krefelder Straße) von B 57 bis Krefelder Straße 845,
+    *   K 6 (Krefelder Straße) von B 57 bis Krefelder Straße 845, 41066
         Mönchengladbach-Neuwerk
 
 
 *    *   L 390
 
     *   L 390 von B 57/K 6 (Krefelder Straße) bis A 52 AS Mönchengladbach-
-        Neuwerk [9], in Mönchengladbach-Neuwerk
+        Neuwerk [9], 41066 Mönchengladbach-Neuwerk
 
 
 *    *   L 370
 
     *   L 370 (Stadtwaldstraße) von A 61 AS Mönchengladbach-Rheydt [12] bis
-        Abzweig Erkelenzer Straße, Mönchengladbach-Rheindahlen
+        Abzweig Erkelenzer Straße, 41179 Mönchengladbach-Rheindahlen
 
 
 *    *   Gemeindestraße
 
     *   Erkelenzer Straße, von L 370 (Stadtwaldstraße) bis Erkelenzer Straße
-        50, Mönchengladbach-Rheindahlen
+        50, 41179 Mönchengladbach-Rheindahlen
 
 
 *    *   Gemeindestraße
 
-    *   Benzstraße 13 bis Abzweig K 23 (Altenseelbacher Weg), Neunkirchen
-        (Kreis Siegen-Wittgenstein)
+    *   Benzstraße 13 bis Abzweig K 23 (Altenseelbacher Weg), 57290
+        Neunkirchen (Kreis Siegen-Wittgenstein)
 
 
 *    *   K 23
 
     *   K 23 (Altenseelbacher Weg) von Benzstraße bis Abzweig L 722 (Kölner
-        Straße), Neunkirchen (Kreis Siegen-Wittgenstein)
+        Straße), 57290 Neunkirchen (Kreis Siegen-Wittgenstein)
 
 
 *    *   L 722
 
     *   L 722 (Kölner Straße) von K 23 (Altenseelbacher Weg) bis Abzweig L 531
-        (Frankfurter Straße), Neunkirchen (Kreis Siegen-Wittgenstein)
+        (Frankfurter Straße), 57290 Neunkirchen (Kreis Siegen-Wittgenstein)
 
 
 *    *   L 531
 
     *   L 531 (Kölner Straße) von L 531 (Frankfurter Straße) bis Abzweig L 722
-        (Wildener Straße), Neunkirchen (Kreis Siegen-Wittgenstein)
+        (Wildener Straße), 57290 Neunkirchen (Kreis Siegen-Wittgenstein)
 
 
 *    *   L 722
 
-    *   L 722 (Wildener Straße) von L 531 (Kölner Straße), Neunkirchen, bis
-        Übergang L 722 (Freier Grunder Straße), Wilnsdorf (Kreis Siegen-
-        Wittgenstein)
+    *   L 722 (Wildener Straße) von L 531 (Kölner Straße), 57290 Neunkirchen,
+        bis Übergang L 722 (Freier Grunder Straße), 57234 Wilnsdorf (Kreis
+        Siegen-Wittgenstein)
 
 
 *    *   L 722
 
-    *   L 722 (Freier Grunder Straße) von Übergang L 722 (Wildener Straße) in
-        Wilnsdorf bis A 45 AS Wilnsdorf [23]
+    *   L 722 (Freier Grunder Straße) von Übergang L 722 (Wildener Straße),
+        57234 Wilnsdorf bis A 45 AS Wilnsdorf [23]
 
 
 *    *   Gemeindestraße
 
-    *   Brauckstraße 51 bis Abzweig Brauckstraße, Witten (Ennepe-Ruhr-Kreis)
+    *   Brauckstraße 51 bis Abzweig Brauckstraße, 58454 Witten (Ennepe-Ruhr-
+        Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Brauckstraße bis Abzweig L 660 (Dortmunder Straße), Witten (Ennepe-
-        Ruhr-Kreis)
+    *   Brauckstraße von L 660 (Dortmunder Straße) bis Kreisverkehr Friedrich-
+        Ebert-Straße, 58454 Witten (Ennepe-Ruhr-Kreis)
+
+
+*    *   Gemeindestraße
+
+    *   Friedrich-Ebert-Straße von Kreisverkehr Brauckstraße bis Friedrich-
+        Ebert-Straße 87, 58454 Witten (Ennepe-Ruhr-Kreis)
 
 
 *    *   L 660
@@ -8307,75 +8977,87 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         [45]
 
 
+*    *   L 660
+
+    *   L 660 (Dortmunder Straße) von A 45 AS Witten-Annen [45] bis Abzweig
+        Salinger Feld, 58454 Witten
+
+
 *    *   Gemeindestraße
 
-    *   Waldheimstraße 8 bis Abzweig B 237 (Kölner Straße), Kierspe
+    *   Salinger Feld von L 660 (Dortmunder Straße) bis Salinger Feld 16c,
+        58454 Witten
+
+
+*    *   Gemeindestraße
+
+    *   Waldheimstraße 8 bis Abzweig B 237 (Kölner Straße), 58566 Kierspe
         (Märkischer Kreis)
 
 
 *    *   B 237
 
     *   B 237 (Kölner Straße) von Waldheimstraße bis Abzweig B 54
-        (Volmestraße), Kierspe (Märkischer Kreis)
+        (Volmestraße), 58566 Kierspe (Märkischer Kreis)
 
 
 *    *   B 54
 
     *   B 54 (Volmestraße) von B 237 (Kölner Straße), Kierspe, bis A 45 AS
-        Meinerzhagen [16]/L 539, Meinerzhagen (Märkischer Kreis)
+        Meinerzhagen [16]/L 539, 58540 Meinerzhagen (Märkischer Kreis)
 
 
 *    *   Gemeindestraße
 
     *   Rudolf-Diesel-Straße, ab Abzweig Robert-Bosch-Straße bis Abzweig K 42
-        (Rhynerner Straße), Bönen (Kreis Unna)
+        (Rhynerner Straße), 59199 Bönen (Kreis Unna)
 
 
 *    *   K 42
 
     *   K 42 (Rhynerner Straße) von Rudolf-Diesel-Straße bis Abzweig L 665
-        (Petkumer Straße)/A 2 AS Bönen [17] (Süd), Bönen (Kreis Unna)
+        (Petkumer Straße)/A 2 AS Bönen [17] (Süd), 59199 Bönen (Kreis Unna)
 
 
 *    *   L 665
 
     *   L 665 (Petkumer Straße) von K 42 (Rhynerner Straße) bis A 2 AS Bönen
-        [17] (Nord), Bönen (Kreis Unna)
+        [17] (Nord), 59199 Bönen (Kreis Unna)
 
 
 *    *   L 684
 
     *   L 684 (Derner Straße – Bornstraße) von Feineisenstraße/Bayrische
-        Straße bis Abzweig Eisenstraße, Dortmund
+        Straße bis Abzweig Eisenstraße, 44329 Dortmund
 
 
 *    *   Gemeindestraße
 
-    *   Eisenstraße, von L 684 (Bornstraße) bis Eisenstraße 149 (Stadt
-        Dortmund)
+    *   Eisenstraße, von L 684 (Bornstraße) bis Eisenstraße 149, 44145 Stadt
+        Dortmund
 
 
 *    *   Gemeindestraße
 
-    *   Feineisenstraße 9 bis Abzweig L 684 (Derner Straße), Dortmund
+    *   Feineisenstraße 9 bis Abzweig L 684 (Derner Straße), 44339 Dortmund
 
 
 *    *   L 684
 
     *   L 684 (Derner Straße) von Feineisenstraße bis Übergang L 657 (Walther-
-        Kohlmann-Straße), Dortmund
+        Kohlmann-Straße), 44329 Dortmund
 
 
 *    *   L 657
 
     *   L 657 (Walther-Kohlmann-Straße) ab Übergang L 684 (Derner Straße) bis
-        Abzweig Kemminghauser Straße, Dortmund
+        Abzweig Kemminghauser Straße, 44329 Dortmund
 
 
 *    *   L 684
 
-    *   L 684 (Walther-Kohlmann-Straße) von Kemminghauser Straße bis Abzweig
-        B 236, Dortmund
+    *   L 684 (Walther-Kohlmann-Straße) von Kemminghauser Straße bis Abzweig B
+        236, 44329 Dortmund
 
 
 *    *   B 236
@@ -8387,44 +9069,44 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 221
 
     *   B 221 von A 61 AS Kaldenkirchen [2], Nettetal, bis A 40 AS Straelen
-        [2], Straelen (Kreis Kleve)
+        [2], 47669 Straelen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Deller Weg von B 221 bis Abzweig Am Hotschgraf, Nettetal-Leuth (Kreis
-        Viersen)
-
-
-*    *   Gemeindestraße
-
-    *   Am Hotschgraf, von Deller Weg bis Am Hotschgraf 21, Nettetal-Leuth
+    *   Deller Weg von B 221 bis Abzweig Am Hotschgraf, 41334 Nettetal-Leuth
         (Kreis Viersen)
 
 
 *    *   Gemeindestraße
 
-    *   Herrenpfad-Süd 34 bis Abzweig An der Landwehr, Nettetal-Kaldenkirchen
-        (Kreis Viersen)
+    *   Am Hotschgraf, von Deller Weg bis Am Hotschgraf 21, 41334 Nettetal-
+        Leuth (Kreis Viersen)
+
+
+*    *   Gemeindestraße
+
+    *   Herrenpfad-Süd 34 bis Abzweig An der Landwehr, 41334 Nettetal-
+        Kaldenkirchen (Kreis Viersen)
 
 
 *    *   Gemeindestraße
 
     *   An der Landwehr, von Herrenpfad-Süd bis Abzweig B 221 (Leuther
-        Straße)/A 61 AS Kaldenkirchen [2], Nettetal-Kaldenkirchen (Kreis
+        Straße)/A 61 AS Kaldenkirchen [2], Nettetal-Kaldenkirchen (Kreis
         Viersen)
 
 
 *    *   Gemeindestraße
 
     *   Marie-Curie-Straße, von Marie-Curie-Straße 3 bis Abzweig L 566
-        (Steinfurter Straße), Gronau (Kreis Borken)
+        (Steinfurter Straße), 48599 Gronau (Kreis Borken)
 
 
 *    *   L 566
 
     *   L 566 (Steinfurter Straße) von Marie-Curie-Straße bis Abzweig B 54,
-        Gronau (Kreis Borken)
+        48599 Gronau (Kreis Borken)
 
 
 *    *   B 54
@@ -8436,25 +9118,25 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Pamplonastraße, von Pamplonastraße 1 (Firma Hartmann International)
-        bis Abzweig L 755 (Borchener Straße), Paderborn
+        bis Abzweig L 755 (Borchener Straße), 33106 Paderborn
 
 
 *    *   L 755
 
     *   L 755 (Borchener Straße) von Abzweig Pamplonastraße bis A 33 AS
-        Paderborn-Mönkeloh [28], Paderborn
+        Paderborn-Mönkeloh [28], 33106 Paderborn
 
 
 *    *   Gemeindestraße
 
-    *   Carl-Benz-Ring bis Abzweig L 263 (An der Patria)/Otto-Hahn-Allee),
-        Erftstadt (Rhein-Erft-Kreis)
+    *   Carl-Benz-Ring bis Abzweig L 263 (An der Patria/Otto-Hahn-Allee),
+        50374 Erftstadt (Rhein-Erft-Kreis)
 
 
 *    *   L 263
 
     *   L 263 (An der Patria) von Carl-Benz-Ring/Otto-Hahn-Allee bis Abzweig B
-        265 (Erper Straße), Erftstadt (Rhein-Erft-Kreis)
+        265 (Erper Straße), 50374 Erftstadt (Rhein-Erft-Kreis)
 
 
 *    *   B 265
@@ -8466,35 +9148,37 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Aachener Straße, von Aachener Straße 1 – 5 bis Abzweig B 56
-        (Römerstraße – Jülicher Straße), Niederzier-Krauthausen (Kreis Düren)
+        (Römerstraße – Jülicher Straße), 52382 Niederzier-Krauthausen (Kreis
+        Düren)
 
 
 *    *   B 56
 
     *   B 56 (Jülicher Straße) von Aachener Straße, Niederzier-Krauthausen,
-        bis A 4 AS Düren [7] Kreis Düren
+        bis A 4 AS Düren [7]
 
 
 *    *   Gemeindestraße
 
-    *   Ossenbruch bis Abzweig Dechant-Sprünken-Straße, Emmerich (Kreis Kleve)
+    *   Ossenbruch bis Abzweig Dechant-Sprünken-Straße, 46446 Emmerich (Kreis
+        Kleve)
 
 
 *    *   Gemeindestraße
 
     *   Dechant-Sprünken-Straße, von Ossenbruch bis Abzweig K 16 (Weseler
-        Straße), Emmerich (Kreis Kleve)
+        Straße), 46446 Emmerich (Kreis Kleve)
 
 
 *    *   K 16
 
     *   K 16 (Weseler Straße) von Dechant-Sprünken-Straße bis Abzweig B 220
-        (‘s Heerenberger Straße), Emmerich (Kreis Kleve)
+        (‘s Heerenberger Straße), 46446 Emmerich (Kreis Kleve)
 
 
 *    *   B 220
 
-    *   B 220 (’s Heerenberger Straße) von K 16 (Weseler Straße) bis A 3 AS
+    *   B 220 (‘s Heerenberger Straße) von K 16 (Weseler Straße) bis A 3 AS
         Emmerich [3]
 
 
@@ -8507,13 +9191,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   L 777
 
     *   L 777 (Kanal Straße) von A 30/B 611 AS Gohfeld [31] bis Abzweig L 772
-        (Edinghausener Straße), Bad Oeynhausen (Kreis Minden-Lübbecke)
+        (Edinghausener Straße), 32545 Bad Oeynhausen (Kreis Minden-Lübbecke)
 
 
 *    *   Gemeindestraße
 
-    *   Mindener Straße, von L 772 (Edinghauser Straße) bis Übergang L 546
-        (Vlothoer Straße), Bad Oeynhausen (Kreis Minden-Lübbecke)
+    *   Mindener Straße von L 772 (Edinghauser Straße) bis Übergang L 546
+        (Vlothoer Straße), 32545 Bad Oeynhausen (Kreis Minden-Lübbecke)
 
 
 *    *   L 546
@@ -8531,95 +9215,96 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Im Gewerbepark, von Scharnhölzstraße bis Abzweig B 224 (Braukstraße –
-        Essener Straße), Bottrop
+        Essener Straße), 46240 Bottrop
 
 
 *    *   Gemeindestraße
 
-    *   Weidkamp, von Weidkamp 230 bis Abzweig K 13 (Weidkamp), Essen
+    *   Weidkamp, von Weidkamp 230 bis Abzweig K 13 (Weidkamp), 45356 Essen
 
 
 *    *   K 13
 
     *   K 13 (Weidkamp) von Weidkamp bis Abzweig L 631 (Bottroper Straße),
-        Essen
+        45356 Essen
 
 
 *    *   L 631
 
     *   L 631 (Bottroper Straße) von K 13 (Weidkamp), Essen, über L 631
-        (Borbecker Straße) bis A 42 AS Bottrop Süd [12], Bottrop
+        (Borbecker Straße) bis A 42 AS Bottrop Süd [12], 46242 Bottrop
 
 
 *    *   L 631
 
     *   L 631 (Essener Straße – Freiherr-vom-Stein-Straße – Friedrich-Ebert-
         Straße – Hans-Sachs-Straße – Kirchhellener Straße), von A 42 AS
-        Bottrop Süd [12] bis A 2 AS Bottrop [3], Bottrop
+        Bottrop Süd [12] bis A 2 AS Bottrop [3], 46236 Bottrop
 
 
 *    *   L 445
 
     *   L 445 (Essener Straße) von L 631 (Essener Straße) bis Abzweig Am
-        Rhein-Herne-Kanal, Bottrop
+        Rhein-Herne-Kanal, 46236 Bottrop
 
 
 *    *   Gemeindestraße
 
     *   Friedrich-Ebert-Straße von Abzweig L 631 (Friedrich-Ebert-Straße) bis
-        Übergang Bahnhofstraße, Bottrop
+        Übergang Bahnhofstraße, 46236 Bottrop
 
 
 *    *   Gemeindestraße
 
     *   Bahnhofstraße von Übergang Friedrich-Ebert-Straße bis Abzweig
-        Gohrweide, Bottrop
+        Gohrweide, 46238 Bottrop
 
 
 *    *   Gemeindestraße
 
-    *   Gohrweide von Abzweig Bahnhofstraße bis Gohrweide 27K, Bottrop
+    *   Gohrweide von Abzweig Bahnhofstraße bis Gohrweide 27, 46238 Bottrop
 
 
 *    *   Gemeindestraße
 
     *   Am Hauptbahnhof, von L 631 (Essener Straße) bis Übergang
-        Spitzwegstraße, Bottrop
+        Spitzwegstraße, 46242 Bottrop
 
 
 *    *   Gemeindestraße
 
-    *   Spitzwegstraße, von Am Hauptbahnhof bis Übergang Bahnhofstraße,
+    *   Spitzwegstraße, von Am Hauptbahnhof bis Übergang Bahnhofstraße, 46242
         Bottrop
 
 
 *    *   Gemeindestraße
 
     *   Bahnhofstraße, von Übergang Spitzwegstraße bis Abzweig Friedrich-
-        Ebert-Straße/Bahnhofstraße, Bottrop
+        Ebert-Straße/Bahnhofstraße, 46238 Bottrop
 
 
 *    *   Gemeindestraße
 
     *   Am Rhein-Herne-Kanal von L 445 (Essener Straße) bis Am Rhein-Herne-
-        Kanal 5, Bottrop
+        Kanal 5, 46242 Bottrop
 
 
 *    *   Gemeindestraße
 
-    *   Ruhrglasstraße, von Ruhrglasstraße 72 bis Abzweig Carnaperhof, Essen
+    *   Ruhrglasstraße, von Ruhrglasstraße 72 bis Abzweig Carnaperhof, 45329
+        Essen
 
 
 *    *   Gemeindestraße
 
     *   Carnaperhof, von Ruhrglasstraße bis Abzweig L 641 (Arenbergstraße),
-        Essen
+        45329 Essen
 
 
 *    *   L 641
 
     *   L 641 (Arenbergstraße) von Carnaperhof bis Abzweig B 224
-        (Braukstraße), Essen
+        (Braukstraße), 45329 Essen
 
 
 *    *   B 224
@@ -8637,117 +9322,118 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Veldener Straße, von Veldener Straße 121 bis Abzweig Fritz-Erler-
-        Straße, Düren (Kreis Düren)
+        Straße, 52349 Düren (Kreis Düren)
 
 
 *    *   Gemeindestraße
 
     *   Fritz-Erler-Straße, von Veldener Straße über Eisenbahnstraße bis
-        Abzweig B 56 (Schoellerstraße), Düren (Kreis Düren)
+        Abzweig B 56 (Schoellerstraße), 52349 Düren (Kreis Düren)
 
 
 *    *   B 56
 
-    *   B 56 (Schoellerstraße) von Eisenbahnstraße bis A 4 AS Düren [6], Düren
-        (Kreis Düren)
+    *   B 56 (Schoellerstraße) von Eisenbahnstraße bis A 4 AS Düren [6], 52351
+        Düren (Kreis Düren)
 
 
 *    *   Gemeindestraße
 
     *   Deutscher Ring, von Deutscher Ring 30 bis Abzweig B 7 (Varresbecker
-        Straße), Wuppertal-Varresbeck
+        Straße), 42327 Wuppertal-Varresbeck
 
 
 *    *   B 7
 
     *   B 7 (Varresbecker Straße) von Deutscher Ring bis Abzweig Nützenberger
-        Straße, Wuppertal-Varresbeck
+        Straße, 42115 Wuppertal-Varresbeck
 
 
 *    *   Gemeindestraße
 
     *   Nützenberger Straße, von Varresbecker Straße bis A 46 AS Wuppertal-
-        Varresbeck [32], Wuppertal-Varresbeck
+        Varresbeck [32], 42115 Wuppertal-Varresbeck
 
 
 *    *   Gemeindestraße
 
     *   Vogelsanger Weg, von Vogelsanger Weg 155 bis Abzweig B 1 (Nördlicher
-        Zubringer), Düsseldorf-Mörsenbroich
+        Zubringer), 40470 Düsseldorf-Mörsenbroich
 
 
 *    *   Gemeindestraße
 
     *   Brandenburger Ring, von Brandenburger Ring 2 – 4 bis Abzweig K 81
-        (Isenstedter Straße), Espelkamp (Kreis Minden-Lübbecke)
+        (Isenstedter Straße), 32339 Espelkamp (Kreis Minden-Lübbecke)
 
 
 *    *   K 81
 
     *   K 81 (Isenstedter Straße) von Brandenburger Ring bis Übergang L 918
-        (Beuthener Straße), Espelkamp (Kreis Minden-Lübbecke)
+        (Beuthener Straße), 32339 Espelkamp (Kreis Minden-Lübbecke)
 
 
 *    *   L 918
 
     *   L 918 (Isenstedter Straße) von Übergang K 81 (Isenstedter Straße) bis
-        Übergang K 56 (Isenstedter Straße), Espelkamp (Kreis Minden-Lübbecke)
+        Übergang K 56 (Isenstedter Straße), 32339 Espelkamp (Kreis Minden-
+        Lübbecke)
 
 
 *    *   K 56
 
     *   K 56 (Isenstedter Straße – Gehlenbecker Straße – Stukendamm –
         Isenstedter Straße) von Übergang L 918 (Isenstedter Straße) bis
-        Abzweig B 65 (Lindenstraße), Lübbecke (Kreis Minden-Lübbecke)
+        Abzweig B 65 (Lindenstraße), 32312 Lübbecke (Kreis Minden-Lübbecke)
 
 
 *    *   B 65
 
     *   B 65 (Lindenstraße) von K 56 (Isenstedter Straße) bis B 239 (Berliner
-        Straße), Lübbecke (Kreis Minden-Lübbecke)
+        Straße), 32312 Lübbecke (Kreis Minden-Lübbecke)
 
 
 *    *   B 239
 
     *   B 239 (Berliner Straße) von B 65 (Lindenstraße) bis A 30 AS
-        Kirchlengen [29], Kirchlengen (Kreis Herford)
+        Kirchlengen [29], 32278 Kirchlengen (Kreis Herford)
 
 
 *    *   Gemeindestraße
 
     *   Phönixstraße, von Phönixstraße 20 über Zur Tomberger Mühle bis Abzweig
-        K 24 (Roitzheimer Straße/Palmersheimer Straße), Euskirchen (Kreis
-        Euskirchen)
+        K 24 (Roitzheimer Straße/Palmersheimer Straße), 53881 Euskirchen
+        (Kreis Euskirchen)
 
 
 *    *   K 24
 
     *   K 24 (Roitzheimer Straße/Palmersheimer Straße) von Zur Tomberger Mühle
-        bis Abzweig L 210, Euskirchen (Kreis Euskirchen)
+        bis Abzweig L 210, 53879 Euskirchen (Kreis Euskirchen)
 
 
 *    *   L 210
 
     *   L 210 von K 24 (Roitzheimer Straße/Palmersheimer Straße) bis Abzweig L
-        182, Euskirchen (Kreis Euskirchen)
+        182, 53879 Euskirchen (Kreis Euskirchen)
 
 
 *    *   L 182
 
-    *   L 182 von L 210 über L 192 bis Abzweig L 281, Euskirchen (Kreis
+    *   L 182 von L 210 über L 192 bis Abzweig L 281, 53879 Euskirchen (Kreis
         Euskirchen)
 
 
 *    *   Gemeindestraße
 
-    *   Am Silberberg von L 182 bis Am Silberberg 3, Euskirchen (Kreis
+    *   Am Silberberg von L 182 bis Am Silberberg 3, 53881 Euskirchen (Kreis
         Euskirchen)
 
 
 *    *   L 281
 
     *   L 281 von L 192 bis Abzweig L 118 (Herseler Straße – Roisdorfer
-        Straße), Bornheim (Rhein-Sieg-Kreis)
+        Straße), 53332 Bornheim (Rhein-Sieg-Kreis)
 
 
 *    *   L 118
@@ -8759,165 +9445,168 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 62
 
     *   B 62 (Hüttentalstraße) von LG Rheinland-Pfalz/NRW im Kreis Siegen-
-        Wittgenstein bis Abzweig AS Siegen-Rinsenau (B 62 – L 531), Siegen
+        Wittgenstein bis Abzweig AS Siegen-Rinsenau (B 62 – L 531), 57072
+        Siegen
 
 
 *    *   B 62
 
-    *   B 62 von B 62 (Hüttentalstraße) bis A 45 AS Siegen [21], Siegen
+    *   B 62 von B 62 (Hüttentalstraße) bis A 45 AS Siegen [21], 57072 Siegen
 
 
 *    *   Gemeindestraße
 
     *   Lise-Meitner-Straße, von Lise-Meitner-Straße 3 bis Übergang Von-
-        Siemens-Straße, Vreden (Kreis Borken)
+        Siemens-Straße, 48691 Vreden (Kreis Borken)
 
 
 *    *   Gemeindestraße
 
     *   Von-Siemens-Straße, von Übergang Lise-Meitner-Straße bis Abzweig K 24
-        (Winterswyker Straße), Vreden (Kreis Borken)
+        (Winterswyker Straße), 48691 Vreden (Kreis Borken)
 
 
 *    *   K 24
 
     *   K 24 (Winterswyker Straße) von Von-Siemens-Straße bis Abzweig L 608
-        (Ringstraße), Vreden (Kreis Borken)
+        (Ringstraße), 48691 Vreden (Kreis Borken)
 
 
 *    *   L 608
 
-    *   L 608 (Ringstraße) von Winterswyker Straße bis Abzweig B 70, Vreden
-        (Kreis Borken)
+    *   L 608 (Ringstraße) von Winterswyker Straße bis Abzweig B 70, 48691
+        Vreden (Kreis Borken)
 
 
 *    *   B 525
 
-    *   B 525 von A 31 AS Gescher/Coesfeld [3] bis Abzweig B 474, Coesfeld
-        (Kreis Coesfeld)
+    *   B 525 von A 31 AS Gescher/Coesfeld [3] bis Abzweig B 474, 48653
+        Coesfeld (Kreis Coesfeld)
 
 
 *    *   B 474
 
-    *   B 474 von Abzweig B 525 bis A 43 AS Dülmen [3], Dülmen (Kreis
+    *   B 474 von Abzweig B 525 bis A 43 AS Dülmen [3], 48249 Dülmen (Kreis
         Coesfeld)
 
 
 *    *   L 884
 
     *   L 884 (Kappenberger Damm) von A 1 AS Münster-Hiltrup [79a] bis Abzweig
-        Kreisverkehr Kopenhagener Straße, Münster-Hiltrup
+        Kreisverkehr Kopenhagener Straße, 48163 Münster-Hiltrup
 
 
 *    *   Gemeindestraße
 
     *   Kopenhagener Straße, von Kreisverkehr L 884 (Kappenberger Damm) bis
-        Abzweig Kreisverkehr L 885 (Wiedaustraße), Münster-Hiltrup
+        Abzweig Kreisverkehr L 885 (Wiedaustraße), 48163 Münster-Hiltrup
 
 
 *    *   L 885
 
     *   L 885 (Wiedaustraße) von Kreisverkehr Kopenhagener Straße bis Übergang
-        Kreisverkehr L 885 (Amelsbürener Straße), Münster-Hiltrup
+        Kreisverkehr L 885 (Amelsbürener Straße), 48163 Münster-Hiltrup
 
 
 *    *   L 885
 
     *   L 885 (Amelsbürener Straße) von Kreisverkehr L 885 (Wiedaustraße) bis
-        Abzweig Kreisverkehr K 11 (Hansastraße), Münster-Hiltrup
+        Abzweig Kreisverkehr K 11 (Hansastraße), 48165 Münster-Hiltrup
 
 
 *    *   K 11
 
     *   K 11 (Hansastraße) von Kreisverkehr L 885 (Amelsbürener Straße) bis
-        Abzweig Fuggestraße (Hansestraße 6), Münster-Hiltrup
+        Abzweig Fuggestraße (Hansestraße 6), 48165 Münster-Hiltrup
 
 
 *    *   K 17
 
-    *   Hafenstraße 119 (K 17) bis Übergang K 17 (Johannes-Rau-Straße), Hamm
-
-
-*    *   K 17
-
-    *   K 17 (Johannes-Rau-Straße) ab Übergang K 17 (Hafenstraße) bis
-        Kreisverkehr (KV) K 17 (Johannes-Rau-Straße)/L 881 (Zum Torksfeld),
+    *   Hafenstraße 119 (K 17) bis Übergang K 17 (Johannes-Rau-Straße), 59067
         Hamm
 
 
 *    *   K 17
 
+    *   K 17 (Johannes-Rau-Straße) ab Übergang K 17 (Hafenstraße) bis
+        Kreisverkehr (KV) K 17 (Johannes-Rau-Straße)/L 881 (Zum Torksfeld),
+        59077 Hamm
+
+
+*    *   K 17
+
     *   K 17 (Johannes-Rau-Straße) ab KV K 17/L 881 bis Abzweig L 736
-        (Dortmunder Straße), Hamm
+        (Dortmunder Straße), 59077 Hamm
 
 
 *    *   L 736
 
     *   Dortmunder Straße, ab Abzweig K 17 (Johannes-Rau-Straße) bis Abzweig A
-        1 AS Hamm/Bergkamen [81], Hamm
+        1 AS Hamm/Bergkamen [81], 59077 Hamm
 
 
 *    *   K 18
 
     *   K 18 von A 57 AS Dormagen [25] (südliche Zufahrt) bis Alte Heerstraße
-        1 (Chempark Tor 14), Dormagen (Rhein-Kreis-Neuss)
+        1 (Chempark Tor 14), 41540 Dormagen (Rhein-Kreis-Neuss)
 
 
 *    *   Gemeindestraße
 
-    *   Alte Heerstraße, von Alte Heerstraße 1 (Chempark Tor 14) bis A 57
-        AS Dormagen [25] (nördliche Zufahrt), Dormagen (Rhein-Kreis-Neuss)
+    *   Alte Heerstraße, von Alte Heerstraße 1 (Chempark Tor 14) bis A 57 AS
+        Dormagen [25] (nördliche Zufahrt), 41540 Dormagen (Rhein-Kreis-Neuss)
 
 
 *    *   K 16
 
-    *   Hegestück (K 16) von Hegestück 30 bis Abzweig K 16 (Am Großen Teich),
-        Iserlohn (Märkischer Kreis)
+    *   Hegestück (K 16) von Hegestück 30 bis Abzweig K 16 (Am Großen Steich),
+        58640 Iserlohn (Märkischer Kreis)
 
 
 *    *   K 16
 
     *   K 16 (Am Großen Teich) von K 16 (Hegestück) bis Abzweig L 680
-        (Sümmerner Straße), Iserlohn (Märkischer Kreis)
+        (Sümmerner Straße), 58540 Iserlohn (Märkischer Kreis)
 
 
 *    *   L 680
 
     *   L 680 (Sümmerner Straße) von K 16 (Am Großen Teich) bis Abzweig B 233
-        (Baarstraße – Barendorfer Straße), Iserlohn (Märkischer Kreis)
+        (Baarstraße – Barendorfer Straße), 58540 Iserlohn (Märkischer Kreis)
 
 
 *    *   B 233
 
     *   B 233 (Baarstraße – Barendorfer Straße) von L 680 (Sümmerner Straße)
-        bis Abzweig B 233 (Seilerstraße), Iserlohn (Märkischer Kreis)
+        bis Abzweig B 233 (Seilerstraße), 59636 Iserlohn (Märkischer Kreis)
 
 
 *    *   B 233
 
-    *   B 233 (Seilerstraße) von B 233 (Baarstraße), Iserlohn bis A 46
-        AS Iserlohn-Seilersee [48]
+    *   B 233 (Seilerstraße) von B 233 (Baarstraße), Iserlohn bis A 46 AS
+        Iserlohn-Seilersee [48]
 
 
 *    *   B 233
 
     *   B 233 (Barendorfer Straße – Kalthofer Straße) von L 680 (Simmerner
         Straße) bis Abzweig Kreisverkehr B 233 (Drüpplingser Straße)/In der
-        Helle, Iserlohn (Märkischer Kreis)
+        Helle, 58640 Iserlohn (Märkischer Kreis)
 
 
 *    *   B 233
 
     *   B 233 (Drüpplingser Straße) von Kreisverkehr B 233 (Kalthofer
         Straße)/In der Helle in Iserlohn bis Abzweig Kreisverkehr B 233
-        (Gruländer Straße)/B 515 (Provinzialstraße), Menden (Märkischer Kreis)
+        (Gruländer Straße)/B 515 (Provinzialstraße), 58708 Menden (Märkischer
+        Kreis)
 
 
 *    *   B 233
 
     *   B 233 (Unnaer Straße) von Kreisverkehr B 233 (Gruländer Straße)/B 515
         (Provinzialstraße), Menden, bis Abzweig B 233 (BAB Zubringer A 44),
-        Unna (Kreis Unna)
+        59427 Unna (Kreis Unna)
 
 
 *    *   B 233
@@ -8929,55 +9618,55 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 288
 
     *   B 288 (Berliner Straße) von A 57 AS Krefeld-Zentrum [13] bis Abzweig
-        Floßstraße, Krefeld-Uerdingen
+        Floßstraße, 47829 Krefeld-Uerdingen
 
 
 *    *   Gemeindestraße
 
     *   Floßstraße, von B 288 (Berliner Straße) bis Abzweig L 443
-        (Düsseldorfer Straße), Krefeld-Uerdingen
+        (Düsseldorfer Straße), 47809 Krefeld-Uerdingen
 
 
 *    *   L 443
 
     *   L 443 (Düsseldorfer Straße) von Floßstraße bis Abzweig Hafenstraße,
-        Krefeld-Linn
+        47809 Krefeld-Linn
 
 
 *    *   Gemeindestraße
 
     *   Hafenstraße, von L 443 (Düsseldorfer Straße) bis Abzweig
-        Westpreußenstraße, Krefeld-Linn
+        Westpreußenstraße, 47809 Krefeld-Linn
 
 
 *    *   Gemeindestraße
 
-    *   Westpreußenstraße, von Hafenstraße bis Abzweig Märkische Straße,
+    *   Westpreußenstraße, von Hafenstraße bis Abzweig Märkische Straße, 47809
         Krefeld-Linn
 
 
 *    *   Gemeindestraße
 
-    *   Märkische Straße, von Westpreußenstraße bis Märkische Straße 10,
+    *   Märkische Straße, von Westpreußenstraße bis Märkische Straße 10, 47809
         Krefeld-Linn
 
 
 *    *   L 443
 
     *   L 443 (Düsseldorfer Straße) von Hafenstraße bis Übergang L 137
-        (Mündelheimer Straße), Krefeld-Uerdingen (Rückweg)
+        (Mündelheimer Straße), 47829 Krefeld-Uerdingen (Rückweg)
 
 
 *    *   L 137
 
     *   L 137 (Mündelheimer Straße) von Übergang L 443 (Düsseldorfer Straße)
-        bis Abzweig B 57 (Linner Straße), Krefeld-Uerdingen (Rückweg)
+        bis Abzweig B 57 (Linner Straße), 47829 Krefeld-Uerdingen (Rückweg)
 
 
 *    *   B 57
 
     *   B 57 (Linner Straße) von L 137 (Mündelheimer Straße) bis Abzweig B 288
-        (Berliner Straße), Krefeld-Uerdingen (Rückweg)
+        (Berliner Straße), 47829 Krefeld-Uerdingen (Rückweg)
 
 
 *    *   B 288
@@ -8989,98 +9678,98 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   L 239
 
     *   L 239 (Blyth-Valley-Ring) von A 52 AS Ratingen-Tiefenbroich [24] bis
-        Abzweig K 2 (Jägerhofstraße), Ratingen (Kreis Mettmann)
+        Abzweig K 2 (Jägerhofstraße), 40878 Ratingen (Kreis Mettmann)
 
 
 *    *   K 2
 
     *   K 2 (Jägerhofstraße) von L 239 (Blyth-Valley-Ring) bis Abzweig K 2 (Am
-        Roten Kreuz), Ratingen (Kreis Mettmann)
+        Roten Kreuz), 40880 Ratingen (Kreis Mettmann)
 
 
 *    *   K 2
 
     *   K 2 (Am Roten Kreuz) von K 2 (Jägerhofstraße) bis Abzweig
-        Harkortstraße, Ratingen (Kreis Mettmann)
+        Harkortstraße, 40880 Ratingen (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
-    *   Harkortstraße, von K 2 (Am Roten Kreuz) bis Harkortstraße 60, Ratingen
-        (Kreis Mettmann)
+    *   Harkortstraße, von K 2 (Am Roten Kreuz) bis Harkortstraße 60, 40880
+        Ratingen (Kreis Mettmann)
 
 
 *    *   B 1
 
     *   B 1 (Kölner Straße) von A 52 AS Breitscheid [25] bis Abzweig K 19
-        (Lintorfer Weg), Ratingen-Breitscheid (Kreis Mettmann)
+        (Lintorfer Weg), 40885 Ratingen-Breitscheid (Kreis Mettmann)
 
 
 *    *   K 19
 
     *   K 19 (Lintorfer Weg) von B 1 (Kölner Straße) bis Übergang K 19
-        (Breitscheider Weg), Ratingen-Lintfort (Kreis Mettmann)
+        (Breitscheider Weg), 40885 Ratingen-Lintfort (Kreis Mettmann)
 
 
 *    *   K 19
 
     *   K 19 (Breitscheider Weg) von Übergang K 19 (Lintorfer Weg) bis
-        Breitscheider Weg 117, Ratingen-Lintfort (Kreis Mettmann)
+        Breitscheider Weg 117, 40885 Ratingen-Lintfort (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
-    *   Vömmelbach, von Vömmelbach 6 bis Abzweig Ohler Weg, Halver (Märkischer
-        Kreis)
+    *   Vömmelbach, von Vömmelbach 6 bis Abzweig Ohler Weg, 58553 Halver
+        (Märkischer Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Ohler Weg, von Vömmelbach bis Abzweig L 892 (Heerstraße), Halver
+    *   Ohler Weg, von Vömmelbach bis Abzweig L 892 (Heerstraße), 58553 Halver
         (Märkischer Kreis)
 
 
 *    *   L 892
 
-    *   L 892 (Heerstraße) von Ohler Weg bis Abzweig B 54 (Volmestraße),
+    *   L 892 (Heerstraße) von Ohler Weg bis Abzweig B 54 (Volmestraße), 58553
         Halver (Märkischer Kreis)
 
 
 *    *   B 54
 
     *   B 54 (Volmestraße) von L 892 (Heerstraße) bis Abzweig B 229
-        (Talstraße), Halver (Märkischer Kreis)
+        (Talstraße), 58553 Halver (Märkischer Kreis)
 
 
 *    *   B 229
 
     *   B 229 (Talstraße) von B 54 (Volmestraße) bis Abzweig L 561
-        (Herscheider Landstraße), Lüdenscheid (Märkischer Kreis)
+        (Herscheider Landstraße), 58511 Lüdenscheid (Märkischer Kreis)
 
 
 *    *   B 229
 
     *   B 229 (Bräuckenstraße) von L 561 (Herscheider Landstraße) bis Abzweig
-        L 691 (Werdohler Landstraße), Lüdenscheid (Märkischer Kreis)
+        L 691 (Werdohler Landstraße), 58513 Lüdenscheid (Märkischer Kreis)
 
 
 *    *   L 691
 
     *   L 691 (Werdohler Landstraße) von B 229 (Bräuckenstraße) bis Abzweig L
-        655 (Brunscheider Straße), Lüdenscheid (Märkischer Kreis)
+        655 (Brunscheider Straße), 58511 Lüdenscheid (Märkischer Kreis)
 
 
 *    *   L 655
 
     *   L 655 (Brunscheider Straße) von L 691 (Werdohler Landstraße) bis A 45
-        AS Lüdenscheid [14], Lüdenscheid (Märkischer Kreis)
+        AS Lüdenscheid [14], 58513 Lüdenscheid (Märkischer Kreis)
 
 
 *    *   L 561
 
     *   L 561 (Herscheider Landstraße) von B 229 (Talstraße – Bräuckenstraße)
-        über KV L 694/L 696 bis A 45 AS Lüdenscheid-Süd [15], Lüdenscheid
-        (Märkischer Kreis)
+        über KV L 694/L 696 bis A 45 AS Lüdenscheid-Süd [15], 58511
+        Lüdenscheid (Märkischer Kreis)
 
 
 *    *   B 9
@@ -9090,50 +9779,50 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 491
 
-    *   L 491 von B 9 bis Abzweig L 361 (Walbecker Dyck), Kevelaer (Kreis
-        Kleve)
+    *   L 491 von B 9 bis Abzweig L 361 (Walbecker Dyck), 47623 Kevelaer
+        (Kreis Kleve)
 
 
 *    *   L 361
 
-    *   L 361 (Walbecker Dyck) von L 491 bis An der Klus 46, Geldern (Kreis
-        Kleve)
+    *   L 361 (Walbecker Dyck) von L 491 bis An der Klus 46, 47608 Geldern
+        (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Beisenstraße, von A 2 AS Gladbeck-Ellinghorst [4] bis Abzweig L 511
-        (Bottroper Straße), Gladbeck (Kreis Recklinghausen)
+    *   Beisenstraße von A 2 AS Gladbeck-Ellinghorst [4] bis Abzweig L 511
+        (Bottroper Straße), 45964 Gladbeck (Kreis Recklinghausen)
 
 
 *    *   L 511
 
     *   L 511 (Bottroper Straße) von Beisenstraße bis LKW-Zufahrt Firma
-        Rockwool, Gladbeck (Kreis Recklinghausen)
+        Rockwool, 45964 Gladbeck (Kreis Recklinghausen)
 
 
 *    *   K 4
 
     *   K 4 (Rockwoolstraße) von L 511 (Bottroper Straße) bis Rockwoolstraße
-        37 (LKW-Zufahrt Firma Rockwool), Gladbeck (Kreis Recklinghausen)
+        37 (LKW-Zufahrt Firma Rockwool), 45964 Gladbeck (Kreis Recklinghausen)
 
 
 *    *   Gemeindestraße
 
     *   Robert-Bosch-Straße von Robert-Bosch-Straße 1 bis Abzweig Alexander-
-        Bell-Straße, Bornheim (Rhein-Sieg-Kreis)
+        Bell-Straße, 53332 Bornheim (Rhein-Sieg-Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Alexander-Bell-Straße von L 183 bis L 118 (Roisdorfer Straße),
+    *   Alexander-Bell-Straße von L 183 bis L 118 (Roisdorfer Straße), 53332
         Bornheim (Rhein-Sieg-Kreis)
 
 
 *    *   L 183
 
     *   L 183 von Alexander-Bell-Straße bis Abzweig L 118 (Roisdorfer Straße),
-        Bornheim (Rhein-Sieg-Kreis)
+        53332 Bornheim (Rhein-Sieg-Kreis)
 
 
 *    *   L 546
@@ -9144,243 +9833,282 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 64
 
-    *   B 64 von A 2 AS Rheda-Wiedenbrück [23] bis Abzweig B 64 (Rietberger
-        Straße) – K 9, Kreis Gütersloh
+    *   B 64 von A 33 AS Paderborn-Schloß Neuhaus [25] bis Abzweig B 64/B 61/K
+        9, 33378 Rheda-Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   B 64
 
-    *   B 64 (Rietberger Straße) von B 64 bis Abzweig K 9 (Am Postdamm),
-        Rheda-Wiedenbrück (Kreis Gütersloh)
+    *   B 64 von B 64/B 61/K 9 bis A 2 AS Rheda-Wiedenbrück [23], 33378 Rheda-
+        Wiedenbrück (Kreis Gütersloh)
+
+
+*    *   B 64
+
+    *   B 64 von A 2 AS Rheda-Wiedenbrück [23] bis Abzweig K
+        13/Schomäckerstraße, 33442 Herzebrock-Clarholz (Kreis Gütersloh)
+
+
+*    *   Gemeindestraße
+
+    *   Schomäckerstraße von B 64 bis Abzweig Am Hanewinkel, 33442 Herzebrock-
+        Clarholz (Kreis Gütersloh)
+
+
+*    *   Gemeindestraße
+
+    *   Am Hanewinkel von Schomäckerstraße bis Übergang Paul-Rippert-Straße,
+        33442 Herzebrock-Clarholz (Kreis Gütersloh)
+
+
+*    *   Gemeindestraße
+
+    *   Paul-Rippert-Straße von Am Hanewinkel bis Paul-Rippert-Straße 2 – 8,
+        33442 Herzebrock-Clarholz (Kreis Gütersloh)
 
 
 *    *   B 61
 
-    *   B 61 (Bielefelder Straße) von Holunderstraße bis Abzweig B 64, Rheda-
-        Wiedenbrück (Kreis Gütersloh)
+    *   B 61 (Bielefelder Straße) von Holunderstraße bis Abzweig B 64, 33378
+        Rheda-Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
     *   Holunderstraße, von B 61 (Bielefelder Straße) bis Abzweig Pilgerpatt,
+        33378 Rheda-Wiedenbrück (Kreis Gütersloh)
+
+
+*    *   Gemeindestraße
+
+    *   Pilgerpatt, von Holunderstraße bis Pilgerpatt 10, 33378 Rheda-
+        Wiedenbrück (Kreis Gütersloh)
+
+
+*    *   K 9
+
+    *   K 9 (Am Postdamm) von B 64 bis Abzweig K 3 (Kapellenstraße), 33378
         Rheda-Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
-    *   Pilgerpatt, von Holunderstraße bis Pilgerpatt 10, Rheda-Wiedenbrück
-        (Kreis Gütersloh)
-
-
-*    *   K 9
-
-    *   K 9 (Am Postdamm) von B 64 bis Abzweig K 3 (Kapellenstraße), Rheda-
-        Wiedenbrück (Kreis Gütersloh)
-
-
-*    *   Gemeindestraße
-
-    *   Kupferstraße, von K 9 (Am Postdamm) bis Kupferstraße 40, Rheda-
+    *   Kupferstraße, von K 9 (Am Postdamm) bis Kupferstraße 40, 33378 Rheda-
         Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   K 3
 
-    *   K 3 (Kapellenstraße) von Am Postdamm bis Stahlstraße, Rheda-
+    *   K 3 (Kapellenstraße) von Am Postdamm bis Stahlstraße, 33378 Rheda-
         Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
-    *   Stahlstraße, Rheda-Wiedenbrück (Kreis Gütersloh)
+    *   Stahlstraße, 33378 Rheda-Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   B 476
 
     *   B 476 von A 33 AS Borgholzhausen [15] bis Abzweig Stockheimer Straße,
-        Versmold (Kreis Gütersloh)
+        33775 Versmold (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
-    *   Stockheimer Straße, von B 476 bis Abzweig Bockhorster Landweg,
+    *   Stockheimer Straße, von B 476 bis Abzweig Bockhorster Landweg, 33775
         Versmold (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
     *   Bockhorster Landweg, von Stockheimer Straße bis Bockhorster Landweg
-        31, Versmold (Kreis Gütersloh)
+        31, 33775 Versmold (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
     *   Ravenna-Park, von Ravenna-Park 1 (Höhe Patthorster Straße) bis Abzweig
-        KVP L 756, Halle/Westfalen (Kreis Gütersloh)
+        KVP L 756, 33790 Halle/Westfalen (Kreis Gütersloh)
 
 
 *    *   L 756
 
-    *   L 756 über zwei KVP bis A 33 AS Künsebeck [17], Halle/Westfalen (Kreis
-        Gütersloh)
+    *   L 756 über zwei KVP bis A 33 AS Künsebeck [17], 33790 Halle/Westfalen
+        (Kreis Gütersloh)
+
+
+*    *   L 568
+
+    *   L 568 von B 64 bis Abzweig In der Mark (Werkszufahrt), 33378 Rheda-
+        Wiedenbrück (Kreis Gütersloh)
+
+
+*    *   Gemeindestraße
+
+    *   In der Mark vom Abzweig L 568 (Gütersloher Straße) bis Werkstor, 33378
+        Rheda-Wiedenbrück (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
     *   Gutenbergstraße, von Gutenbergstraße 9 bis Abzweig K 54 (Robert-Bosch-
-        Straße), Emsdetten (Kreis Steinfurt)
+        Straße), 48282 Emsdetten (Kreis Steinfurt)
 
 
 *    *   K 54
 
     *   K 54 (Robert-Bosch-Straße) von Gutenbergstraße bis Abzweig K 53
-        (Reckenfelder Straße), Emsdetten (Kreis Steinfurt)
+        (Reckenfelder Straße), 48282 Emsdetten (Kreis Steinfurt)
 
 
 *    *   K 53
 
     *   K 53 (Reckenfelder Straße – Lerchenfeld – Taubenstraße – Silberweg)
-        von K 54 bis Abzweig L 583 (Neuenkirchener Straße), Emsdetten (Kreis
-        Steinfurt)
+        von K 54 bis Abzweig L 583 (Neuenkirchener Straße), 48282 Emsdetten
+        (Kreis Steinfurt)
 
 
 *    *   L 583
 
     *   L 583 (Neuenkirchener Straße – Emsdettener Straße) von Abzweig K 53
-        bis Abzweig B 70, Neuenkirchen (Kreis Steinfurt)
+        bis Abzweig B 70, 48485 Neuenkirchen (Kreis Steinfurt)
 
 
 *    *   B 54
 
-    *   B 54 von Abzweig B 70 über A 31 AS Gronau/Ochtrup [30] bis
-        BG Deutschland/Niederlande
+    *   B 54 von Abzweig B 70 über A 31 AS Gronau/Ochtrup [30] bis BG
+        Deutschland/Niederlande
 
 
 *    *   Gemeindestraße
 
     *   Obere Stahlindustrie, von Obere Stahlindustrie 6 bis Abzweig
-        Kreisverkehr K 2 (Kohlenstraße)/Heusnerstraße, Bochum
+        Kreisverkehr K 2 (Kohlenstraße)/Heusnerstraße, 44793 Bochum
 
 
 *    *   Gemeindestraße
 
-    *   Heusnerstraße, von Kreisverkehr K 2 (Kohlenstraße)/Heusnerstraße bis A
-        448 AS Bochum-Stahlhausen [2], Bochum
+    *   Heusnerstraße von Kreisverkehr K 2 (Kohlenstraße)/Heusnerstraße bis A
+        448 AS Bochum-Stahlhausen [2], 44793 Bochum
 
 
 *    *   Gemeindestraße
 
-    *   Am Dorn, von Am Dorn 2 bis Abzweig L 550, Senden (Kreis Coesfeld)
+    *   Am Dorn, von Am Dorn 2 bis Abzweig L 550, 48308 Senden (Kreis
+        Coesfeld)
 
 
 *    *   L 550
 
-    *   L 550 von Am Dorn bis A 43 AS Senden [3], Senden (Kreis Coesfeld)
+    *   L 550 von Am Dorn bis A 43 AS Senden [3], 48308 Senden (Kreis
+        Coesfeld)
 
 
 *    *   Gemeindestraße
 
-    *   Karl-Benz-Straße, von Karl-Benz-Straße 4 bis Abzweig L 353 (Berghauser
-        Straße), Langenfeld (Kreis Mettmann)
+    *   Karl-Benz-Straße von Karl-Benz-Straße 4 bis Abzweig L 353 (Berghauser
+        Straße), 40764 Langenfeld (Kreis Mettmann)
 
 
 *    *   K 31
 
     *   K 31 (An der Rheinberger Heide) von An der Rheinberger Heide 11 bis
-        Übergang Bahnhofstraße, Rheinberg (Kreis Wesel)
+        Übergang Bahnhofstraße, 47495 Rheinberg (Kreis Wesel)
 
 
 *    *   K 31
 
     *   Bahnhofstraße, von Übergang K 31 (An der Rheinberger Heide) bis A 57
-        AS Rheinberg [7], Rheinberg (Kreis Wesel)
+        AS Rheinberg [7], 47495 Rheinberg (Kreis Wesel)
 
 
 *    *   B 7
 
     *   B 7 von A 3 AS Mettmann [18] bis Übergang L 156 (Düsseldorfer Straße),
-        Mettmann (Kreis Mettmann)
+        40822 Mettmann (Kreis Mettmann)
 
 
 *    *   L 156
 
     *   L 156 (Düsseldorfer Straße) von Übergang B 7 bis Abzweig
-        Hubertusstraße/L 156 (Berliner Straße, Mettmann (Kreis Mettmann)
+        Hubertusstraße/L 156 (Berliner Straße), 40822 Mettmann (Kreis
+        Mettmann)
 
 
 *    *   Gemeindestraße
 
     *   Düsseldorfer Straße von Hubertusstraße/L 156 (Berliner Straße) über Am
         Kolben – Ringstraße – Talstraße – Bahnstraße – Bergstraße –
-        Elberfelder Straße (K 37) bis Abzweig Zur Gau, Mettmann (Kreis
+        Elberfelder Straße (K 37) bis Abzweig Zur Gau, 40822 Mettmann (Kreis
         Mettmann)
 
 
 *    *   Gemeindestraße
 
     *   Zur Gau von Abzweig Elberfelder Straße (K 37) bis Abzweig Gold-Zack-
-        Straße, Mettmann (Kreis Mettmann)
+        Straße, 40822 Mettmann (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
-    *   Gold-Zack-Straße von Abzweig Zur Gau bis Abzweig Im Uhlenwinkel,
+    *   Gold-Zack-Straße von Abzweig Zur Gau bis Abzweig Im Uhlenwinkel, 40822
         Mettmann (Kreis Mettmann)
 
 
 *    *   Gemeindestraße
 
     *   Im Uhlenwinkel von Abzweig Gold-Zack-Straße bis Im Uhlenwinkel 1,
-        Mettmann (Kreis Mettmann)
+        40822 Mettmann (Kreis Mettmann)
 
 
 *    *   L 778
 
     *   L 778 (Bielefelder Straße) von A 33 AS Steinhagen [18] bis Abzweig
-        Borsigstraße, Steinhagen (Kreis Gütersloh)
+        Borsigstraße, 33803 Steinhagen (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
-    *   Borsigstraße von L 778 (Bielefelder Straße) bis Ausbauende, Steinhagen
-        (Kreis Gütersloh)
+    *   Borsigstraße von L 778 (Bielefelder Straße) bis Ausbauende, 33803
+        Steinhagen (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
-    *   Dieselstraße von Borsigstraße bis Ausbauende, Steinhagen (Kreis
+    *   Dieselstraße von Borsigstraße bis Ausbauende, 33803 Steinhagen (Kreis
         Gütersloh)
 
 
 *    *   L 778
 
     *   L 778 (Bielefelder Straße/Woerdener Straße/Brockhagener Straße) von A
-        33 AS Steinhagen [18] bis Kreuzung mit L 782, Steinhagen (Kreis
+        33 AS Steinhagen [18] bis Kreuzung mit L 782, 33803 Steinhagen (Kreis
         Gütersloh)
 
 
 *    *   L 782
 
     *   L 782 (Gütersloher Straße) von L 778 (Brockhagener Straße) bis Abzweig
-        Michaelisstraße, Steinhagen (Kreis Gütersloh)
+        Michaelisstraße, 33803 Steinhagen (Kreis Gütersloh)
 
 
 *    *   Gemeindestraße
 
     *   Michaelisstraße von L 782 (Gütersloher Straße) bis Zufahrt
-        Michaelisstraße 3, Steinhagen (Kreis Gütersloh)
+        Michaelisstraße 3, 33803 Steinhagen (Kreis Gütersloh)
 
 
 *    *   B 235
 
     *   B 235 (Hebewerkstraße) von A 2 AS Henrichenburg [11] bis Abzweig L 628
-        (Suderwicher Straße), Castrop-Rauxel (Kreis Recklinghausen)
+        (Suderwicher Straße), 44577 Castrop-Rauxel (Kreis Recklinghausen)
 
 
 *    *   L 628
 
     *   L 628 (Suderwicher Straße) von B 235 (Hebewerkstraße) bis Abzweig K 28
-        (Wartburgstraße), Castrop-Rauxel (Kreis Recklinghausen)
+        (Wartburgstraße), 44577 Castrop-Rauxel (Kreis Recklinghausen)
 
 
 *    *   K 28
@@ -9392,55 +10120,55 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Schützenstraße, von B 224 bis Kreisverkehr L 615 (Wilhelmstraße)/In
-        der Dorfheide, Gladbeck (Kreis Recklinghausen)
+        der Dorfheide, 45964 Gladbeck (Kreis Recklinghausen)
 
 
 *    *   L 615
 
     *   L 615 (Schützenstraße) von Kreisverkehr L 615 (Wilhelmstraße)/In der
-        Dorfheide bis Abzweig Bottroper Straße, Gladbeck (Kreis
+        Dorfheide bis Abzweig Bottroper Straße, 45964 Gladbeck (Kreis
         Recklinghausen)
 
 
 *    *   Gemeindestraße
 
     *   Bottroper Straße, von L 615 (Schützenstraße) bis Abzweig Buschfortweg,
-        Gladbeck (Kreis Recklinghausen)
+        45964 Gladbeck (Kreis Recklinghausen)
 
 
 *    *   K 4
 
     *   K 4 (Emil-Zimmermann-Allee) von A 2 AS Gelsenkirchen-Buer [6] bis
-        Abzweig K 5 (Adenauerstraße), Gelsenkirchen
+        Abzweig K 5 (Adenauerstraße), 45897 Gelsenkirchen
 
 
 *    *   K 5
 
     *   K 5 (Adenauerallee) von K 4 (Emil-Zimmermann-Allee) bis Abzweig
-        Emscherstraße, Gelsenkirchen
+        Emscherstraße, 45891 Gelsenkirchen
 
 
 *    *   K 11
 
     *   K 11 (Willy-Brandt-Allee) von K 5 (Adenauerallee) bis Abzweig
-        Emscherstraße, Gelsenkirchen
+        Emscherstraße, 45891 Gelsenkirchen
 
 
 *    *   Gemeindestraße
 
     *   Emscherstraße, von K 5 (Adenauerallee) bis Abzweig K 11 (Willy-Brandt-
-        Allee), Gelsenkirchen
+        Allee), 45891 Gelsenkirchen
 
 
 *    *   Gemeindestraße
 
-    *   Ulrichstraße von Emscherstraße bis Ulrichstraße 7, Gelsenkirchen
+    *   Ulrichstraße von Emscherstraße bis Ulrichstraße 7, 45891 Gelsenkirchen
 
 
 *    *   B 481
 
     *   B 481 (Schifffahrter Damm) von A 1 AS Greven [76], Greven (Kreis
-        Steinfurt), bis Abzweig Hessenweg, Münster
+        Steinfurt), bis Abzweig Hessenweg, 48157 Münster
 
 
 *    *   Gemeindestraße
@@ -9451,89 +10179,83 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Hessenbusch von Hessenweg bis Abzweig Köstendeel, Münster
+    *   Hessenbusch von Hessenweg bis Abzweig Köstendeel, 48157 Münster
 
 
 *    *   Gemeindestraße
 
-    *   Köstendeel von Hessenbusch bis Abzweig Hessenbusch, Münster
+    *   Köstendeel von Hessenbusch bis Abzweig Hessenbusch, 48157 Münster
 
 
 *    *   Gemeindestraße
 
-    *   Hessenbusch von Köstendeel bis Hessenbusch 194, Münster
+    *   Hessenbusch von Köstendeel bis Hessenbusch 194, 48157 Münster
 
 
 *    *   K 1
 
     *   K 1 von A 1 AS Flughafen Münster/Osnabrück [75] bis Kreisverkehr Otto-
-        Lilienthal-Straße/K 1, Greven (Kreis Steinfurt)
+        Lilienthal-Straße/K 1, 48268 Greven (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
     *   Otto-Lilienthal-Straße von Kreisverkehr Otto-Lilienthal-Straße/K 1 bis
-        Otto-Lilienthal-Straße 22, Greven (Kreis Steinfurt)
+        Otto-Lilienthal-Straße 22, 48268 Greven (Kreis Steinfurt)
 
 
 *    *   L 121
 
     *   L 121 (Hauptstraße) von A 560 AS Niederpleis [4] bis Abzweig L 333
-        (Frankfurter Straße), Siegburg (Rhein-Sieg-Kreis)
+        (Frankfurter Straße), 53721 Siegburg (Rhein-Sieg-Kreis)
 
 
 *    *   L 333
 
     *   L 333 (Frankfurter Straße) von L 121 (Hauptstraße) bis Abzweig
-        Wilhelm-Ostwald-Straße, Siegburg (Rhein-Sieg-Kreis)
+        Wilhelm-Ostwald-Straße, 53721 Siegburg (Rhein-Sieg-Kreis)
 
 
 *    *   Gemeindestraße
 
     *   Wilhelm-Ostwald-Straße von L 333 (Frankfurter Straße) bis Wilhelm-
-        Ostwald-Straße 10, Siegburg (Rhein-Sieg-Kreis)
+        Ostwald-Straße 10, 53721 Siegburg (Rhein-Sieg-Kreis)
 
 
 *    *   L 240
 
     *   L 240 von A 44 AS Alsdorf [5b] bis Abzweig L 47 (Hoengener Straße),
-        Alsdorf (Städteregion Aachen)
+        52477 Alsdorf (Städteregion Aachen)
 
 
 *    *   L 47
 
     *   L 47 (Hoengener Straße) von L 240 bis Abzweig Thomas-Dachser-Straße,
-        Alsdorf (Städteregion Aachen)
+        52477 Alsdorf (Städteregion Aachen)
 
 
 *    *   Gemeindestraße
 
     *   Thomas-Dachser-Straße, von L 47 (Hoengener Straße) bis Thomas-Dachser-
-        Straße 1, Alsdorf (Städteregion Aachen)
+        Straße 1, 52477 Alsdorf (Städteregion Aachen)
 
 
 *    *   Gemeindestraße
 
-    *   Groppendiek, von Groppendiek 5 bis Abzweig Kochs Kämpe, Bad Driburg
-        (Kreis Höxter)
-
-
-*    *   Gemeindestraße
-
-    *   Kochs Kämpe, von Groppendiek bis Abzweig L 954 (Südenfeldmark), Bad
+    *   Groppendiek, von Groppendiek 5 bis Abzweig Kochs Kämpe, 33014 Bad
         Driburg (Kreis Höxter)
+
+
+*    *   Gemeindestraße
+
+    *   Kochs Kämpe, von Groppendiek bis Abzweig L 954 (Südenfeldmark), 33014
+        Bad Driburg (Kreis Höxter)
 
 
 *    *   L 954
 
-    *   L 954 (Südenfeldmark) von Kochs Kämpe bis Auffahrt B 64, Bad Driburg
-        (Kreis Höxter)
-
-
-*    *   B 64
-
-    *   B 64 von L 954 (Südenfeldmark) bis Abzweig B 252, Brakel (Kreis
-        Höxter)
+    *   L 954 (Südenfeldmark) von Kochs Kämpe bis Auffahrt B 64, 33014 Bad
+        Driburg (Kreis Höxter)
 
 
 *    *   B 252
@@ -9543,37 +10265,50 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 64
 
-    *   B 64 von Auffahrt L 954 (Südenfeldmark) bis A 33 AS Paderborn-Zentrum
-        [27], Paderborn
+    *   B 64 von B 252 bei Brakel bis A 33 AS Paderborn-Zentrum [27],
+        Paderborn
 
 
 *    *   B 64
 
     *   B 64 (Salzkottener Straße) an Auffahrt A 33 AS Paderborn-Zentrum [27],
-        Paderborn
+        33106 Paderborn
+
+
+*    *   L 828
+
+    *   L 828 von B 64 bis Abzweig Industriestraße, 33184 Altenbeken (Kreis
+        Paderborn)
+
+
+*    *   Gemeindestraße
+
+    *   Industriestraße von L 828 bis Industriestraße 26, 33184 Altenbeken
+        (Kreis Paderborn)
 
 
 *    *   Gemeindestraße
 
     *   Helbingstraße, von A 40 AS Essen Zentrum [23] bis Übergang
-        Bernestraße, Essen
+        Bernestraße, 45128 Essen
 
 
 *    *   Gemeindestraße
 
-    *   Bernestraße, von Helbingstraße bis Übergang L 448 Schützenbahn, Essen
+    *   Bernestraße, von Helbingstraße bis Übergang L 448 Schützenbahn, 45127
+        Essen
 
 
 *    *   L 191
 
     *   L 191 (Gerlingstraße) von Gerlingstraße 55 bis Abzweig L 448
-        (Schützenbahn), Essen
+        (Schützenbahn), 45127 Essen
 
 
 *    *   L 448
 
     *   L 448 (Schützenbahn) von L 191 (Gerlingstraße) bis Übergang L 448
-        (Gildehofstraße), Essen
+        (Gildehofstraße), 45127 Essen
 
 
 *    *   L 448
@@ -9585,109 +10320,109 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Schönscheidtstraße, von A 40 AS Essen-Frillendorf [26] bis Abzweig K
-        14 (Hubertstraße), Essen
+        14 (Hubertstraße), 45307 Essen
 
 
 *    *   K 14
 
     *   K 14 (Hubertstraße) von Schönscheidtstraße bis Abzweig L 20
-        (Ernestinenstraße), Essen
+        (Ernestinenstraße), 45307 Essen
 
 
 *    *   K 18
 
     *   K 18 (Joachimstraße) von Joachimstraße 112 bis Abzweig
-        Bonifaciusstraße, Essen
+        Bonifaciusstraße, 45307 Essen
 
 
 *    *   Gemeindestraße
 
     *   Bonifaciusstraße, von K 18 (Joachimstraße) bis Abzweig
-        Langemarckstraße, Essen
+        Langemarckstraße, 45309 Essen
 
 
 *    *   Gemeindestraße
 
     *   Langemarckstraße, von Bonifaciusstraße bis Abzweig L 20
-        (Ernestinenstraße), Essen
+        (Ernestinenstraße), 45309 Essen
 
 
 *    *   L 20
 
     *   L 20 (Ernestinenstraße) von Langemarckstraße bis Abzweig L 20
-        (Frillendorfer Straße), Essen
+        (Frillendorfer Straße), 45139 Essen
 
 
 *    *   L 20
 
     *   L 20 (Frillendorfer Straße) von L 20 (Ernestinenstraße) bis Abzweig L
-        191 (Am Zehnthof), Essen
+        191 (Am Zehnthof), 45139 Essen
 
 
 *    *   L 191
 
     *   L 191 (Am Zehnthof) von L 20 (Frillendorfer Straße) bis Abzweig L 643
-        (Krayer Straße), Essen
+        (Krayer Straße), 45307 Essen
 
 
 *    *   L 643
 
     *   L 643 (Krayer Straße) von L 191 (Am Zehnthof) bis A 40 AS Essen-Kray
-        [27] Essen
+        [27] 45307 Essen
 
 
 *    *   Gemeindestraße
 
     *   Oerschbachstraße – Am Dammsteg, von A 46 AS Düsseldorf-Holthausen [25]
-        bis Abzweig Halbuschstraße, Düsseldorf-Holthausen
+        bis Abzweig Halbuschstraße, 40589 Düsseldorf-Holthausen
 
 
 *    *   Gemeindestraße
 
     *   Halbuschstraße, von Oerschbachstraße – Am Dammsteg bis Halbuschstraße
-        200, Düsseldorf-Holthausen
+        200, 40591 Düsseldorf-Holthausen
 
 
 *    *   Gemeindestraße
 
-    *   David-Hansemann-Straße 1 bis L 225 (Friedrich-Ebert-Straße), Übach-
-        Palenberg (Kreis Heinsberg)
+    *   David-Hansemann-Straße 1 bis L 225 (Friedrich-Ebert-Straße), 52531
+        Übach-Palenberg (Kreis Heinsberg)
 
 
 *    *   L 225
 
     *   L 225 (Friedrich-Ebert-Straße) von David-Hansemann-Straße bis B 57,
-        Übach-Palenberg (Kreis Heinsberg)
+        52531 Übach-Palenberg (Kreis Heinsberg)
 
 
 *    *   B 57
 
-    *   B 57 von L 225 (Friedrich-Ebert-Straße) bis L 240/B 57, Baesweiler
+    *   B 57 von L 225 (Friedrich-Ebert-Straße) bis L 240/B 57, 52499
+        Baesweiler (Städteregion Aachen)
+
+
+*    *   B 57
+
+    *   B 57 von L 240/B 57 bis B 57/L 240/Kloshaus, 52499 Baesweiler
         (Städteregion Aachen)
-
-
-*    *   B 57
-
-    *   B 57 von L 240/B 57 bis B 57/L 240/Kloshaus Baesweiler (Städteregion
-        Aachen)
 
 
 *    *   L 240
 
-    *   L 240 von B 57/L 240/Kloshaus bis A 44 AS Alsdorf [5b], Alsdorf
+    *   L 240 von B 57/L 240/Kloshaus bis A 44 AS Alsdorf [5b], 52477 Alsdorf
         (Städteregion Aachen)
 
 
 *    *   Gemeindestraße
 
     *   Fuggerstraße, von Fuggerstraße 19 bis Abzweig L 787 (Verler Straße),
-        Bielefeld
+        33689 Bielefeld
 
 
 *    *   L 787
 
     *   L 787 (Verler Straße) von Fuggerstraße bis Abzweig L 756 (Paderborner
-        Straße), Bielefeld
+        Straße), 33689 Bielefeld
 
 
 *    *   L 756
@@ -9699,196 +10434,198 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   K 13
 
     *   K 13 (Freiherr-vom-Stein-Straße) von Freiherr-vom-Stein-Straße 131 bis
-        Abzweig L 445 (Aktienstraße), Mülheim-Winkhausen
+        Abzweig L 445 (Aktienstraße), 45473 Mülheim-Winkhausen
 
 
 *    *   L 445
 
     *   L 445 (Aktienstraße) von K 13 (Freiherr-vom-Stein-Straße) bis A 40 AS
-        Mülheim-Winkhausen [18], Mülheim-Winkhausen
+        Mülheim-Winkhausen [18], 45473 Mülheim-Winkhausen
 
 
 *    *   L 2
 
     *   L 2 (Heronger Feld) von A 40 AS Straelen-Herongen [1b] bis Abzweig
-        Niederdorfer Straße, Straelen-Herongen (Kreis Kleve)
+        Niederdorfer Straße, 47638 Straelen-Herongen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
     *   Niederdorfer Straße, von L 2 (Heronger Feld) bis Abzweig
-        Feilingstraße, Straelen-Herongen (Kreis Kleve)
+        Feilingstraße, 47638 Straelen-Herongen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Veilingstraße, von Niederdorfer Straße bis Veilingstraße 1a ,
+    *   Veilingstraße, von Niederdorfer Straße bis Veilingstraße 1a, 47683
         Straelen-Herongen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
     *   Carl-Kühne-Straße, von A 40 AS Straelen-Herongen [1b] bis Übergang
-        Veilingstraße, Straelen-Herongen (Kreis Kleve)
+        Veilingstraße, 47638 Straelen-Herongen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Veilingstraße, von Carl-Kühne-Straße bis Veilingstraße 1a, Straelen-
-        Herongen (Kreis Kleve)
+    *   Veilingstraße, von Carl-Kühne-Straße bis Veilingstraße 1a, 47638
+        Straelen-Herongen (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Industriestraße, von A1 AS Köln-Niehl [100] bis 1. Abfahrt Edsel-Ford-
-        Straße, Köln-Merkenich
+    *   Industriestraße, von A 1 AS Köln-Niehl [100] bis 1. Abfahrt Edsel-
+        Ford-Straße, 50769 Köln-Merkenich
 
 
 *    *   Gemeindestraße
 
     *   Edsel-Ford-Straße (1. Abfahrt), von Industriestraße bis Zufahrt Ford
-        Tor 51, Köln-Merkenich
+        Tor 51, 50769 Köln-Merkenich
 
 
 *    *   Gemeindestraße
 
     *   Edsel-Ford-Straße, von Anlieferung Ford Tor 51 bis Robert-Bosch-Straße
-        – Merianstraße, Köln-Merkenich
+        – Merianstraße, 50769 Köln-Merkenich
 
 
 *    *   Gemeindestraße
 
-    *   Merianstraße, von Edsel-Ford-Straße bis Industriestraße, Köln-
+    *   Merianstraße, von Edsel-Ford-Straße bis Industriestraße, 50769 Köln-
         Merkenich
 
 
 *    *   Gemeindestraße
 
-    *   Industriestraße, von Merianstraße bis A 1 AS Köln-Niehl [100], Köln-
-        Merkenich
+    *   Industriestraße, von Merianstraße bis A 1 AS Köln-Niehl [100], 50735
+        Köln-Merkenich
 
 
 *    *   L 443
 
     *   L 443 (Untergath) von A 57 AS Krefeld-Oppum [14] bis Abzweig L 443
-        (Hafelstraße)/Griesbacher Straße, Krefeld-Oppum
+        (Hafelstraße)/Griesbacher Straße, 47809 Krefeld-Oppum
 
 
 *    *   Gemeindestraße
 
     *   Untergath, von L 443 (Untergath)/Griesbacher Straße bis Abzweig B 57
-        (Dießemer Straße), Krefeld
+        (Dießemer Straße), 47809 Krefeld
 
 
 *    *   B 57
 
     *   B 57 (Untergath) von B 57 (Dießemer Straße) bis Abzweig Bäkerpfad,
+        47809 Krefeld
+
+
+*    *   Gemeindestraße
+
+    *   Bäkerpfad, von B 57 (Untergath) bis Bäkerpfad 25, 47805 Krefeld
+
+
+*    *   Gemeindestraße
+
+    *   Alte Untergath, von B 57 (Untergath) bis Alte Untergath 10, 47805
         Krefeld
-
-
-*    *   Gemeindestraße
-
-    *   Bäkerpfad, von B 57 (Untergath) bis Bäkerpfad 25, Krefeld
-
-
-*    *   Gemeindestraße
-
-    *   Alte Untergath, von B 57 (Untergath) bis Alte Untergath 10, Krefeld
 
 
 *    *   L 473
 
     *   L 473 (Charlottering) von A 57 AS Krefeld-Gartenstadt [12] bis Abzweig
-        L 137 (Duisburger Straße), Krefeld-Gartenstadt
+        L 137 (Duisburger Straße), 47829 Krefeld-Gartenstadt
 
 
 *    *   L 137
 
     *   L 137 (Duisburger Straße) von L 473 (Charlottering) bis Duisburger
-        Straße 318, Krefeld-Uerdingen
+        Straße 318, 47829 Krefeld-Uerdingen
 
 
 *    *   B 236
 
     *   B 236 von A 2 AS Dortmund-Nordost [13] bis Abzweig B 54 (Dortmunder
-        Straße), Lünen
+        Straße), 44532 Lünen
 
 
 *    *   B 54
 
     *   B 54 (Dortmunder Straße) von B 236 bis Abzweig An der Wethmarheide,
-        Lünen (Kreis Unna)
+        44536 Lünen (Kreis Unna)
 
 
 *    *   Gemeindestraße
 
     *   An der Wethmarheide von B 54 (Dortmunder Straße) bis An der
-        Wethmarheide 21, Lünen (Kreis Unna)
+        Wethmarheide 21, 44536 Lünen (Kreis Unna)
 
 
 *    *   B 239
 
     *   B 239 von A 2 AS Herford/Bad Salzuflen [29] bis Abzweig Planckstraße,
-        Herford (Kreis Herford)
+        32052 Herford (Kreis Herford)
 
 
 *    *   Gemeindestraße
 
-    *   Planckstraße von B 239 bis Abzweig Lilienthalstraße, Herford (Kreis
-        Herford)
-
-
-*    *   Gemeindestraße
-
-    *   Lilienthalstraße von Planckstraße bis Lilienthalstraße 13, Herford
+    *   Planckstraße von B 239 bis Abzweig Lilienthalstraße, 32052 Herford
         (Kreis Herford)
+
+
+*    *   Gemeindestraße
+
+    *   Lilienthalstraße von Planckstraße bis Lilienthalstraße 13, 32052
+        Herford (Kreis Herford)
 
 
 *    *   B 220
 
-    *   B 220 von A 3 AS Emmerich [3] bis Grenzübergang D/NL, Kreis Kleve
+    *   B 220 von A 3 AS Emmerich [3] bis Grenzübergang
+        Deutschland/Niederlande, Kreis Kleve
 
 
 *    *   L 90
 
     *   L 90 (Netterdensche Straße) von A3 AS Emmerich-Ost [3b] bis Abzweig L
-        90 (Weseler Straße), Emmerich (Kreis Kleve)
+        90 (Weseler Straße), 46446 Emmerich (Kreis Kleve)
 
 
 *    *   L 90
 
     *   L 90 (Weseler Straße) von L 90 (Netterdensche Straße) bis Abzweig L 7
-        (Reeser Straße), Emmerich (Kreis Kleve)
+        (Reeser Straße), 46446 Emmerich (Kreis Kleve)
 
 
 *    *   L 7
 
     *   L 7 (Reeser Straße) von L 90 (Weseler Straße) bis Abzweig Hafenstraße,
-        Emmerich (Kreis Kleve)
+        46446 Emmerich (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Hafenstraße von L 7 (Reeser Straße) bis Abzweig Industriestraße,
+    *   Hafenstraße von L 7 (Reeser Straße) bis Abzweig Industriestraße, 46446
         Emmerich (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
     *   Industriestraße – Von-Gimborn-Straße von Hafenstraße bis Von-Gimborn-
-        Straße 4, Emmerich (Kreis Kleve)
+        Straße 4, 46446 Emmerich (Kreis Kleve)
 
 
 *    *   Gemeindestraße
 
-    *   Schildgesstraße 71 – 163 bis Abzweig K 7 (Bergerstraße), Brühl (Rhein-
-        Erft-Kreis)
+    *   Schildgesstraße 71 – 163 bis Abzweig K 7 (Bergerstraße), 50321 Brühl
+        (Rhein-Erft-Kreis)
 
 
 *    *   K 7
 
     *   K 7 (Bergerstraße) von Schildgesstraße bis Abzweig L 194 (Kölnstraße),
-        Brühl (Rhein-Erft-Kreis)
+        50321 Brühl (Rhein-Erft-Kreis)
 
 
 *    *   L 194
@@ -9899,122 +10636,122 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 51
 
-    *   B 51 von L 194 (Kölnstraße) bis Übergang A 553 AS Brühl-Nord, Brühl
-        (Rhein-Erft-Kreis)
+    *   B 51 von L 194 (Kölnstraße) bis Übergang A 553 AS Brühl-Nord, 50321
+        Brühl (Rhein-Erft-Kreis)
 
 
 *    *   L 150
 
     *   L 150 (Kerkrader Straße) von A 555 AS Köln-Godorf [4] bis Abzweig L
-        194 (Kölnstraße), Brühl (Rhein-Erft-Kreis)
+        194 (Kölnstraße), 50321 Brühl (Rhein-Erft-Kreis)
 
 
 *    *   Gemeindestraße
 
     *   Zufahrt Schmitz Cargobull Tor 2 bis Abzweig L 874 (Kreisverkehr),
-        Altenberge (Kreis Steinfurt)
+        48341 Altenberge (Kreis Steinfurt)
 
 
 *    *   L 874
 
     *   L 874 von Zufahrt Schmitz Cargobull Tor 2 (Kreisverkehr) bis Abzweig B
-        54, Altenberge (Kreis Steinfurt)
+        54, 48341 Altenberge (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Westring von Westring 3 bis Abzweig Bahnhofstraße, Nordwalde (Kreis
-        Steinfurt)
+    *   Westring von Westring 3 bis Abzweig Bahnhofstraße, 48356 Nordwalde
+        (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Bahnhofstraße – Industriestraße bis Kreisverkehr Industriestraße/L
-        555, Nordwalde (Kreis Steinfurt)
+    *   Bahnhofstraße – Industriestraße bis Kreisverkehr Industriestraße/L555,
+        48356 Nordwalde (Kreis Steinfurt)
 
 
 *    *   L 555
 
-    *   L 555 von Abzweig Kreisverkehr Industriestraße/L 555 bis Abzweig B 54,
-        Nordwalde (Kreis Steinfurt)
+    *   L 555 von Abzweig Kreisverkehr Industriestraße/L555 bis Abzweig B 54,
+        48356 Nordwalde (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Osttangente von Osttangente 7 über Kreisverkehr L 163/Osttangente bis
+    *   Osttangente von Osttangente 7 über Kreisverkehr L 163/Osttangente bis
         A 61 AS Weilerswist [25] (Zufahrt West)
 
 
 *    *   L 163
 
     *   L 163 von Kreisverkehr L 163/Osttangente bis Abzweig A 61 AS
-        Weilerswist [25] (Zufahrt Ost), Weilerswist (Kreis Euskirchen)
+        Weilerswist [25] (Zufahrt Ost), 53919 Weilerswist (Kreis Euskirchen)
 
 
 *    *   Gemeindestraße
 
     *   Lierenfelderstraße von Lierenfelderstraße 31 bis Übergang
-        Fichtenstraße, Düsseldorf-Lierenfeld
+        Fichtenstraße, 40231 Düsseldorf-Lierenfeld
 
 
 *    *   B 8
 
     *   Fichtenstraße von Übergang Lierenfelderstraße bis Abzweig B 8
-        (Werdener Straße), Düsseldorf-Flingern-Süd
+        (Werdener Straße), 40233 Düsseldorf-Flingern-Süd
 
 
 *    *   K 42
 
     *   K 42 (Rhynerner Straße) von Rudolf-Diesel-Straße bis Abzweig
-        Edisonstraße, Bönen (Kreis Unna)
+        Edisonstraße, 59199 Bönen (Kreis Unna)
 
 
 *    *   Gemeindestraße
 
     *   Edisonstraße von K 42 (Rhynerner Straße) bis Abzweig Siemensstraße,
-        Bönen (Kreis Unna)
+        59199 Bönen (Kreis Unna)
 
 
 *    *   Gemeindestraße
 
-    *   Siemensstraße von Abzweig Edisonstraße bis Siemensstraße 21, Bönen
-        (Kreis Unna)
+    *   Siemensstraße von Abzweig Edisonstraße bis Siemensstraße 21, 59199
+        Bönen (Kreis Unna)
 
 
 *    *   B 63
 
     *   B 63 (Werler Straße) von A 2 AS Hamm [18] bis Abzweig L 667 (Unnaer
-        Straße), Hamm
+        Straße), 59069 Hamm
 
 
 *    *   L 667
 
     *   L 667 (Unnaer Straße) von B 63 (Werler Straße) bis Abzweig K 35n
-        (Edisonstraße), Hamm
+        (Edisonstraße), 59069 Hamm
 
 
 *    *   K 35n
 
     *   K 35n (Edisonstraße) von L 667 (Unnaer Straße) bis Abzweig Poilstraße,
-        Bönen (Kreis Unna)
+        59199 Bönen (Kreis Unna)
 
 
 *    *   Gemeindestraße
 
-    *   Weetfelder Straße von K 35n (Edisonstraße) bis Abzweig Siemensstraße,
-        Bönen (Kreis Unna)
+    *   Weetfelder Straße von K 35n (Edisonstraße) bis Abzweig Siemensstraße,
+        59199 Bönen (Kreis Unna)
 
 
 *    *   L 663
 
     *   L 663 (Brackeler Hellweg) von Brackeler Hellweg 301 – 305 bis Abzweig
-        K 7 (Leni-Rommel-Straße), Brackel (Stadt Dortmund)
+        K 7 (Leni-Rommel-Straße), 44309 Brackel (Stadt Dortmund)
 
 
 *    *   K 7
 
     *   K 7 (Leni-Rommel-Straße) von L 663 (Brackeler Hellweg) bis B 1
-        (Westfalendamm), Dortmund
+        (Westfalendamm), 44309 Dortmund
 
 
 *    *   B 1
@@ -10026,19 +10763,19 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße
 
     *   Lindnerstraße von Lindnerstraße 21 bis Abzweig K 3 (Fürst-Hardenberg-
-        Allee), Eving (Stadt Dortmund)
+        Allee), 44339 Dortmund-Eving (Stadt Dortmund)
 
 
 *    *   K 3
 
     *   K 3 (Fürst-Hardenberg-Allee) von Lindnerstraße bis Abzweig L 657
-        (Ellinghauser Straße), Eving (Stadt Dortmund)
+        (Ellinghauser Straße), 44339 Dortmund-Eving (Stadt Dortmund)
 
 
 *    *   L 657
 
     *   L 657 (Ellinghauser Straße) von K 3 (Fürst-Hardenberg-Allee) bis
-        Abzweig L 609 (Emscherallee), Mengede (Stadt Dortmund)
+        Abzweig L 609 (Emscherallee), 44359 Dortmund-Mengede (Stadt Dortmund)
 
 
 *    *   L 609
@@ -10049,358 +10786,737 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 573
 
-    *   L 573 von B 54 bis Abzweig Weinerpark, Ochtrup (Kreis Steinfurt)
+    *   L 573 von B 54 bis Abzweig Weinerpark, 48607 Ochtrup (Kreis Steinfurt)
 
 
 *    *   Gemeindestraße
 
-    *   Weinerpark von L 573 bis Weinerpark 16, Ochtrup (Kreis Steinfurt)
+    *   Weinerpark von L 573 bis Weinerpark 16, 48607 Ochtrup (Kreis
+        Steinfurt)
 
 
 *    *   B 229
 
     *   B 229 (Lenneper Straße – Neuenkamper Straße) von A 1 AS Remscheid
-        [95b] bis Abzweig L 415 (Bismarckstraße), Remscheid
+        [95b] bis Abzweig L 415 (Bismarkstraße), 42855 Remscheid
 
 
 *    *   L 415
 
     *   L 415 (Bismarckstraße) von B 229 (Neuenkamper Straße) bis Abzweig L
-        407 (Burger Straße), Remscheid
+        407 (Burger Straße), 42857 Remscheid
 
 
 *    *   L 407
 
-    *   L 407 (Burger Straße) von L 415 (Bismarckstraße) bis Abzweig Reinhard-
-        Mannesmann-Straße, Remscheid
+    *   L 407 (Burgerstraße) von L 415 (Bismarckstraße) bis Abzweig Reinhard-
+        Mannesmann-Straße, 42859 Remscheid
 
 
 *    *   Gemeindestraße
 
-    *   Reinhard-Mannesmann-Straße von L 407 (Burger Straße) bis Abzweig
-        Menninghauser Straße, Remscheid
+    *   Reinhard-Mannesmann-Straße von L 407 (Burgerstraße) bis Abzweig
+        Menninghauser Straße, 42859 Remscheid
 
 
 *    *   Gemeindestraße
 
     *   Menninghauser Straße von Rheinhard-Mannesmann-Straße bis Menninghauser
-        Straße 30, Remscheid
+        Straße 30, 42859 Remscheid
 
 
 *    *   Gemeindestraße
 
     *   Am Blankenwasser von Jagenbergstraße bis Abzweig K 30 (Tucherstraße),
-        Neuss-Uedesheim
+        41468 Neuss-Uedesheim
 
 
 *    *   Gemeindestraße
 
-    *   Jagenbergstraße von Am Blankenwasser bis Abzweig B 9 (Bonner Straße),
-        Neuss-Uedesheim
+    *   Jagenbergstraße von Am Blankenwasser bis Abzweig B 9 (Bonnerstraße),
+        41468 Neuss-Uedesheim
 
 
 *    *   K 30
 
     *   K 30 (Tucherstraße) von Am Blankenwasser bis Abzweig B 9 (Bonner
-        Straße), Neuss-Uedesheim
+        Straße), 41468 Neuss-Uedesheim
 
 
 *    *   B 9
 
     *   B 9 (Bonner Straße) von K 30 (Tucher Straße) bis A 57 AS Neuss-Norf
-        [22], Neuss-Nord
+        [22], 41468 Neuss-Uedesheim
 
 
 *    *   B 477
 
-    *   B 477 von A 61 AS Bergheim [18] bis Abzweig B 477/B 55 in
-        Bergheim/Elsdorf (Rhein-Erft-Kreis)
+    *   B 477 von A 61 AS Bergheim [18] bis Abzweig B 477/B 55, 50189
+        Bergheim/ Elsdorf (Rhein-Erft-Kreis)
 
 
 *    *   B 477
 
-    *   B 477 von B 477/B 55 bis Abzweig B 477/K 41 in Elsdorf (Rhein-Erft-
-        Kreis)
+    *   B 477 von B 477/B 55 bis Abzweig B 477/K 41, 50189 Elsdorf (Rhein-
+        Erft-Kreis)
 
 
 *    *   B 477
 
-    *   B 477 von B 477/K 41 bis Abzweig K 42 (Aachener Straße) in Elsdorf
+    *   B 477 von B 477/K 41 bis Abzweig K 42 (Aachener Straße), 50189 Elsdorf
         (Rhein-Erft-Kreis)
 
 
 *    *   K 42
 
-    *   K 42 (Aachener Straße) von B 477 bis Abzweig Heisenbergstraße in
+    *   K 42 (Aachener Straße) von B 477 bis Abzweig Heisenbergstraße, 50126
         Bergheim (Rhein-Erft-Kreis)
 
 
 *    *   Gemeindestraße
 
-    *   Heisenbergstraße von K 42 (Aachener Straße) bis Heisenbergstraße 2 – 6
-        in Bergheim (Rhein-Erft-Kreis)
+    *   Heisenbergstraße von K 42 (Aachener Straße) bis Heisenbergstraße 2 –
+        6, 50126 Bergheim (Rhein-Erft-Kreis)
 
 
 *    *   Gemeindestraße
 
     *   Willy-Brandt-Ring von A 3 AS Leverkusen-Zentrum [24] bis Abzweig B 8
-        (Friedrich-Ebert-Straße), Leverkusen
+        (Friedrich-Ebert-Straße), 51373 Leverkusen
 
 
 *    *   L 290
 
     *   L 290 (Manforter Straße) von B 8 (Europaring) bis Manforter Straße 10
-        (nur Fahrtrichtung Süd), Leverkusen
+        (nur Fahrtrichtung Süd), 51373 Leverkusen
 
 
 *    *   L 290
 
     *   L 290 (Manforter Straße) von Manforter Straße 10 bis Übergang Carl-
-        Duisberg-Straße, Leverkusen
+        Duisberg-Straße, 51373 Leverkusen
 
 
 *    *   Gemeindestraße
 
     *   Carl-Duisberg-Straße von L 290 (Manforter Straße) bis Abzweig Willy-
-        Brandt-Ring, Leverkusen
+        Brandt-Ring, 51373 Leverkusen
 
 
 *    *   B 8
 
     *   B 8 (Friedrich-Ebert-Straße) von Willy-Brandt-Ring bis Abzweig
-        Kreisverkehr B 8/Europaring/Peschstraße, Leverkusen (nur Fahrtrichtung
-        Nord)
+        Kreisverkehr B 8/Europaring/Peschstraße, 51373 Leverkusen (nur
+        Fahrtrichtung Nord)
 
 
 *    *   B 8
 
     *   B 8 (Europaring) von Kreisverkehr B 8 (Friedrich-Ebert-
-        Straße/Peschstraße bis Manforter Straße, Leverkusen (nur Fahrtrichtung
-        Ost)
+        Straße/Peschstraße bis Manforter Straße, 51373 Leverkusen (nur
+        Fahrtrichtung Ost)
 
 
 *    *   Gemeindestraße
 
     *   Kaiser-Wilhelm-Allee von Kaiser-Wilhelm-Allee 60 bis Abzweig B 8
-        (Friedrich-Ebert-Allee), Leverkusen
+        (Friedrich-Ebert-Allee), 51373 Leverkusen
 
 
 *    *   B 8
 
     *   B 8 (Friedrich-Ebert-Allee – Düsseldorfer Straße) von Kaiser-Wilhelm-
-        Allee bis Abzweig B 8 (Mülheimer Zubringer), Leverkusen/Köln
+        Allee bis Abzweig B 8 (Mülheimer Zubringer), 51379 Leverkusen/Köln
 
 
 *    *   B 8
 
     *   B 8 (Mülheimer Zubringer) von B 8 (Düsseldorfer Straße) bis A 3 AS
-        Köln-Mülheim [25], Köln
+        Köln-Mülheim [25], 51063 Köln
 
 
 *    *   Gemeindestraße
 
     *   Industriestraße von Kreisverkehr K 11 (Bremerhavener
         Straße)/Industriestraße) (Niehler Ei) bis A 1 AS Köln-Niehl [100] (nur
-        Fahrtrichtung Nord), Köln-Niehl
+        Fahrtrichtung Nord), 50735 Köln-Niehl
 
 
 *    *   Gemeindestraße
 
     *   Emdener Straße von Industriestraße/A 1 Köln-Niehl [100] bis Abzweig K
-        11 (Emdener Straße) (nur Fahrtrichtung Süd), Köln-Niehl
+        11 (Emdener Straße) (nur Fahrtrichtung Süd), 50735 Köln-Niehl
 
 
 *    *   K 11
 
     *   K 11 (Emdener Straße) von Emdener Straße bis Abzweig K 11
-        (Bremerhavener Straße) (nur Fahrtrichtung Süd), Köln-Niehl
+        (Bremerhavener Straße) (nur Fahrtrichtung Süd), 50735 Köln-Niehl
 
 
 *    *   K 11
 
     *   K 11 (Bremerhavener Straße) von K 11 (Emdener Straße) bis Abzweig
         Kreisverkehr K 1 (Bremerhavener Straße)/Industriestraße (Niehler Ei)
-        (nur Fahrtrichtung West), Köln-Niehl
+        (nur Fahrtrichtung West), 50735 Köln-Niehl
 
 
 *    *   Gemeindestraße
 
     *   Industriestraße (Nebenstrecke) von K 11 (Bremerhavener Straße) bis
-        Industriestraße 14, Köln-Niehl
+        Industriestraße 14, 50735 Köln-Niehl
+
+
+*    *   Gemeindestraße
+
+    *   Paul-Baumann-Straße von Brassertstraße bis Abzweig Rappaportstraße,
+        45772 Marl (Kreis Recklinghausen)
+
+
+*    *   Gemeindestraße
+
+    *   Rappaportstraße von Paul-Baumann-Straße bis A 52 AS Marl-Zentrum [48],
+        45772 Marl (Kreis Recklinghausen)
+
+
+*    *   L 644
+
+    *   L 644 (Hammerschmidtstraße – Recklinghauser Straße – Ewaldstraße) von
+        A 42 AS Herne-Wanne [19], Herne, bis Abzweig Im Emscherbruch, 45699
+        Herten
+
+
+*    *   Gemeindestraße
+
+    *   Im Emscherbruch von L 644 (Ewaldstraße) bis Abzweig Hohewardstraße,
+        45699 Herten
+
+
+*    *   Gemeindestraße
+
+    *   Hohewardstraße von Im Emscherbruch bis Abzweig Hertener Mark, 45699
+        Herten
+
+
+*    *   Gemeindestraße
+
+    *   Hertener Mark von Hohewardstraße bis Hertener Mark 5, 45699 Herten
+
+
+*    *   Gemeindestraße
+
+    *   Hohewardstraße von Im Emscherbruch bis Hohewardstraße 345 – 349, 45699
+        Herten
+
+
+*    *   L 889
+
+    *   L 889 (Röllinghäuser Straße) von der A 2 AS Recklinghausen-Ost [10]
+        bis Abzweig Schmalkalder Straße, 45665 Recklinghausen
+
+
+*    *   Gemeindestraße
+
+    *   Schmalkalder Straße von L 889 (Röllinghäuser Straße) bis Abzweig K 23
+        (Alte Grenzstraße), 45665 Recklinghausen
+
+
+*    *   K 23
+
+    *   K 23 (Alte Grenzstraße) von Schmalkalder Straße bis Abzweig
+        Auerstraße, 45665 Recklinghausen
+
+
+*    *   Gemeindestraße
+
+    *   Auerstraße von K 23 (Alte Grenzstraße) bis Auerstraße 4, 45665
+        Recklinghausen
+
+
+*    *   Gemeindestraße
+
+    *   Hansestraße von Hansestraße 57 bis Abzweig L 99 (Maarhäuser Weg),
+        51149 Köln
+
+
+*    *   L 99
+
+    *   L 99 (Maarhäuser Weg) von Hansestraße bis A 59 AS Köln-Rath [32],
+        51149 Köln
+
+
+*    *   B 8
+
+    *   B 8 (Frankfurter Straße) von A 59 AS Lind [36] bis Abzweig Belgische
+        Allee, 53840 Troisdorf (Rhein-Sieg-Kreis)
+
+
+*    *   Gemeindestraße
+
+    *   Belgische Allee von B 8 (Hauptstraße) bis Belgische Allee 99, 53842
+        Troisdorf (Rhein-Sieg-Kreis)
+
+
+*    *   Gemeindestraße
+
+    *   Alte Escher Straße von A 57 AS Köln-Longerich [28] bis L 34
+        (Militärringstraße), 50829 Köln
+
+
+*    *   L 34
+
+    *   L 34 (Militärringstraße) von A 57 AS Köln-Longerich [28] bis Mathias-
+        Brüggen-Straße, 50737 Köln
+
+
+*    *   Gemeindestraße
+
+    *   Mathias-Brüggen-Straße von L 34 (Militärringstraße) bis Von-Hünefeld-
+        Straße, 50829 Köln
+
+
+*    *   Gemeindestraße
+
+    *   Von-Hünefeld-Straße von Mathias-Brüggen-Straße bis Alte Escher
+        Straße/A 57 AS Longerich [28], 50829 Köln (nur diese Fahrtrichtung)
+
+
+*    *   Gemeindestraße
+
+    *   Richard-Byrd-Straße von Von-Hünefeld-Straße bis Richard-Byrd-Straße
+        45, 50829 Köln
+
+
+*    *   L 124
+
+    *   L 124 (Östliche Zubringerstraße) von A 559 Kreuz Köln-Gremberg [1] bis
+        Rolshover Straße, 51105 Köln-Kalk
+
+
+*    *   Gemeindestraße
+
+    *   Rolshover Straße von L 124 (Östliche Zubringerstraße) bis Abzweig
+        Poll-Vingster Straße, 51105 Köln-Kalk
+
+
+*    *   Gemeindestraße
+
+    *   Poll-Vingster Straße von Rolshover Straße bis Poll-Vingster-Straße
+        124, 51105 Köln-Kalk
+
+
+*    *   B 481
+
+    *   B 481 (Schiffahrter Damm) von A 1 AS Greven [76] bis B 481
+        (Emsdettener Damm), 48268 Greven (Kreis Steinfurt)
+
+
+*    *   B 481
+
+    *   B 481 (Emsdettener Damm) von B 481 (Schiffahrter Damm) bis Abzweig B
+        219 (Ibbenbürener Damm), 48268 Greven (Kreis Steinfurt)
+
+
+*    *   B 219
+
+    *   B 219 (Ibbenbürener Damm) von B 219 (Emsdettener Damm) bis B 219
+        (Saerbecker Straße), 48268 Greven (Kreis Steinfurt)
+
+
+*    *   B 219
+
+    *   B 219 (Saerbecker Straße) von B 219 (Ibbenbürener Damm) bis B 219
+        (Gemeindegrenze), 48268 Greven (Kreis Steinfurt)
+
+
+*    *   B 219
+
+    *   B 219 von B 219 (Saerbecker Straße) bis Abzweig Hahnstraße, 48369
+        Saerbeck (Kreis Steinfurt)
+
+
+*    *   Gemeindestraße
+
+    *   Hahnstraße von B 219 bis Abzweig Brochterbecker Damm, 48369 Saerbeck
+        (Kreis Steinfurt)
+
+
+*    *   Gemeindestraße
+
+    *   Brochtebecker Damm von Hahnstraße bis Abzweig Am Schulkamp, 48369
+        Saerbeck (Kreis Steinfurt)
+
+
+*    *   Gemeindestraße
+
+    *   Am Schulkamp von Brochtebecker Damm bis Am Schulkamp 88, 48369
+        Saerbeck (Kreis Steinfurt)
+
+
+*    *   B 475
+
+    *   B 475 von A 1 AS Ladbergen [74] bis B 475 (Gemeindegrenze), 49549
+        Ladbergen (Kreis Steinfurt)
+
+
+*    *   B 475
+
+    *   B 475 von B 475 (Gemeindegrenze) bis B 475 (Westladbergener Straße),
+        48369 Saerbeck (Kreis Steinfurt)
+
+
+*    *   B 475
+
+    *   B 475 (Westladbergener Straße) von B 475 bis Abzweig B 219, 48369
+        Saerbeck (Kreis Steinfurt)
+
+
+*    *   L 889
+
+    *   L 889 (Röllinghäuser Straße) von A 2 AS Recklinghausen-Ost [10] bis
+        Abzweig Schmalkalder Straße, 45665 Recklinghausen
+
+
+*    *   Gemeindestraße
+
+    *   Schmalkalder Straße von L 889 (Röllinghäuser Straße) bis Abzweig K 23
+        (Alte Grenzstraße), 45665 Recklinghausen
+
+
+*    *   K 23
+
+    *   K 23 (Alte Grenzstraße) von Schmalkalder Straße bis Abzweig
+        Auerstraße, 45665 Recklinghausen
+
+
+*    *   Gemeindestraße
+
+    *   Auerstraße von K 23 (Alte Grenzstraße) bis Auerstraße 4, 45663
+        Recklinghausen
+
+
+*    *   B 51
+
+    *   B 51 von B 51 bis Abzweig Albersloher Weg, 48155 Münster
+
+
+*    *   Gemeindestraße
+
+    *   Albersloher Weg von B 51 bis Abzweig An den Loddenbüschen, 48155
+        Münster
+
+
+*    *   Gemeindestraße
+
+    *   An den Loddenbüschen von Albersloher Weg bis Abzweig Loddenheide,
+        48155 Münster
+
+
+*    *   Gemeindestraße
+
+    *   Loddenheide von An den Loddenbüschen bis Abzweig Dornierweg, 48155
+        Münster
+
+
+*    *   Gemeindestraße
+
+    *   Dornierweg von Loddenheide bis Dornierweg 12, 48155 Münster
+
+
+*    *   B 475
+
+    *   B 475 von B 44 AS Soest-Ost [57] bis Abzweig Overweg, 59494 Soest
+        (Kreis Soest)
+
+
+*    *   Gemeindestraße
+
+    *   Overweg von B 475 bis Abzweig Sälzerweg, 59494 Soest (Kreis Soest)
+
+
+*    *   Gemeindestraße
+
+    *   Sälzerweg von Overweg bis Sälzerweg 16, 59494 Soest (Kreis Soerst)
+
+
+*    *   B 236
+
+    *   B 236 (Bethunestraße) von L 673 (Schützenstraße) bis A 1 AS Schwerte
+        [85], 58239 Schwerte
+
+
+*    *   L 673
+
+    *   L 673 (Schützenstraße) von B 236 (Bethunestraße) bis Abzweig Emil-
+        Rohrmann-Straße, 58239 Schwerte
+
+
+*    *   Gemeindestraße
+
+    *   Emil-Rohrmann-Straße von Schützenstraße bis Abzweig Ernst-Gremler-
+        Straße, 58239 Schwerte
+
+
+*    *   Gemeindestraße
+
+    *   Ernst-Gremler-Straße von Emil-Rohrmann-Straße bis Ernst-Gremler-Straße
+        10, 58239 Schwerte
+
+
+*    *   B 236
+
+    *   B 236 (Bethunestraße – Hörder Straße – Berghofer Straße) von L 637
+        (Schützenstraße), 58239 Schwerte, bis L 556 (Wittbräuker Straße),
+        44267 Dortmund
+
+
+*    *   L 556
+
+    *   L 556 (Wittbräuker Straße) von B 236 (Berghofer Straße) bis B 54
+        (Ruhrwaldstraße), 44265 Dortmund
+
+
+*    *   B 54
+
+    *   B 54 (Ruhrwaldstraße) von L 556 (Wittbräuker Straße) bis A 45 Kreuz
+        Dortmund-Süd [8], 44265 Dortmund
+
+
+*    *   L 673
+
+    *   L 673 (Schützenstraße – Unnaer Straße) von Emil-Rohrmann-Straße bis L
+        677 (Schwerter Straße), 58239 Schwerte
+
+
+*    *   L 677
+
+    *   L 677 (Schwerter Straße) von L 673 (Unnaer Straße) bis Kreisverkehr
+        Schwerter Straße, 59439 Holzwickede
+
+
+*    *   L 678
+
+    *   L 678 (Unnaer Straße – Dorfstraße – Kleistraße – Hillering –
+        Feldstraße) von Kreisverkehr Schwerter Straße, 58239 Schwerte, bis B
+        1, 59423 Unna
+
+
+*    *   B 1
+
+    *   B 1 von L 678 (Feldstraße) bis A 1 Kreuz Dortmund/Unna [84], 59423
+        Unna
+
+
+*    *   K 11
+
+    *   K 11 (Hansestraße) von K 42 (Am Dornbusch) bis Abzweig B 54
+        (Westfalenstraße), 48165 Münster
+
+
+*    *   K 11
+
+    *   K 11 (Glasuritstraße) von B 54 (Westfalenstraße) bis K 11
+        (Glasuritstraße/Zufahrt LKW-Parkplatz), 48165 Münster
 
 
 
-**Nachgeordnetes Straßennetz Rheinland-Pfalz:**
+
+**Nachgeordnetes Streckennetz Rheinland-Pfalz:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrrichtungen
 
 
 *    *   L 52
 
-    *   von A 61 (AS Koblenz-Metternich) bis L 125
+    *   von A 61 (AS Koblenz-Metternich) bis Anschluss L 125
 
 
 *    *   L 67
 
-    *   von A 1 (AS Gerolstein) bis Nerdlen, Konrad-Zuse-Straße
+    *   von A 1 (AS Gerolstein) bis Konrad-Zuse-Straße, 54552 Nerdlen
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Nerdlen: Konrad-Zuse-Straße von L 67 bis Hausnummer 7
+    *   von L 67 bis Konrad-Zuse-Straße 7, 54522 Nerdlen
 
 
 *    *   L 98
 
-    *   von A 48 (AS Kaisersesch) bis Kaisersesch, August-Horch-Straße
+    *   von A 48 (AS Kaisersesch) bis August-Horch-Straße, 56759 Kaisersesch
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Kaisersesch: August-Horch-Straße von L 98 bis Hausnummer 20
+    *   von L 98 bis August-Horch-Straße 20, 56759 Kaisersesch
 
 
 *    *   L 113
 
-    *   von A 48 bis Polch, Trimbser Straße
+    *   von A 48 bis Trimbser Straße, 56751 Polch
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Polch: Trimbser Straße von L 113 bis August-Horch-Straße, von
-        dort bis Hausnummer 16
+    *   von L 113 über Trimbser Straße bis August-Horch-Straße 16, 56751 Polch
 
 
 *    *   L 117
 
-    *   von A 61 (AS Plaidt) bis Plaidt, Ludwig-Erhard-Straße
+    *   von A 61 (AS Plaidt) bis Ludwig-Erhard-Straße, 56637 Plaidt
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Plaidt: Ludwig-Erhard-Straße von L 117 bis Hausnummer 17
+    *   von L 117 bis Ludwig-Erhard-Straße 17, 56637 Plaidt
 
 
 *    *   L 121
 
-    *   von K 91 bis Weißenthurm, Hauptstraße 170
+    *   von K 91 bis Hauptstraße 170, 56575 Weißenthurm
 
 
 *    *   K 47
 
-    *   von B 256 bis K 91 (Andernach)
+    *   von B 256 bis Anschluss K 91 (56626 Andernach)
 
 
 *    *   K 91
 
-    *   von K 47 (Andernach) bis L 121 (Hauptstraße, Weißenthurm)
+    *   von K 47 (56626 Andernach) bis Anschluss L 121 (Hauptstraße, 56575
+        Weißenthurm)
 
 
 *    *   L 125
 
-    *   von L 52 bis Koblenz, Straße Am Rübenacher Wald und von L 52 bis
-        Koblenz, Zaunheimer Straße
+    *   von L 52 bis Am Rübenacher Wald, 56072 Koblenz und von L 52 bis
+        Zaunheimer Straße, 56072 Koblenz
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Koblenz: Straße Am Rübenacher Wald, Zaunheimer Straße und Im
-        Sinderfeld
+    *   von L 125 bis Am Rübenacher Wald 9, Zaunheimer Straße 7 und Im
+        Sinderfeld 4, 56072 Koblenz
 
 
 *    *   L 141
 
-    *   von A 1 (AS Föhren) bis Föhren, Europa-Allee
+    *   von A 1 (AS Föhren) bis Europa-Allee, 54343 Föhren
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Föhren: Europa-Allee bis Hausnummer 65
+    *   von L 141 bis Europa-Allee 65, 54343 Föhren
 
 
 *    *   L 182
 
-    *   von B 50 bis Flughafen Frankfurt-Hahn
+    *   von B 50 bis 55483 Flughafen Frankfurt-Hahn
 
 
 *    *   L 242
 
-    *   von AD Nahetal bis B 48 (Langenlohnsheim)
+    *   von AD Nahetal bis B 48 (55450 Langenlohnsheim)
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Grolsheim: Willy-Brandt-Allee, Albert-Schweitzer-Straße
+    *   von L 242 über Willy-Brandt-Allee bis Albert-Schweitzer-Straße 1a,
+        55459 Grolsheim
+
+
+*    *   L 258
+
+    *   von A 3 (AS Dierdorf) bis B 413 (56269 Dierdorf)
 
 
 *    *   L 265
 
-    *   von Wahlrod, Rheinstraße bis Berod (bei Hachenburg), Rheinstraße
+    *   von Rheinstraße, 57614 Wahlrod bis Rheinstraße, 57614 Berod (bei
+        Hachenburg)
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Wahlrod: Hubertusstraße, Rheinstraße
+    *   Hubertusstraße, Rheinstraße, 57614 Wahlrod
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Berod (bei Hachenburg): Rheinstraße von L 265 bis
-        Brunnenstraße, von dort bis Straße Am Lauterberg, von dort bis Straße
-        Am Lauterberg 27
+    *   von L 265 über Rheinstraße, Brunnenstraße bis Am Lauterberg 27, 57614
+        Berod (bei Hachenburg)
 
 
 *    *   L 267
 
-    *   von L 305 (Selters (Westerwald)) bis L 307 (Vielbach)
+    *   von L 305 (56242 Selters (Westerwald)) bis L 307 (56244 Vielbach)
 
 
 *    *   L 304
 
-    *   von L 305 bis Selters (Westerwald), Schützstraße
+    *   von L 305 bis Schützstraße, 56242 Selters (Westerwald)
 
 
 *    *   L 305
 
-    *   von B 413 (Herschbach/Freirachdorf) bis L 267 (Selters (Westerwald))
+    *   von B 413 (56249 Herschbach/56244 Freirachdorf) bis L 267 (56242
+        Selters (Westerwald))
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Selters (Westerwald): Straße Im Geisenborn von L 305 bis
-        Schützstraße und Schützstraße von L 304 bis Werkszufahrt Firma Schütz
+    *   von B 413 bis L 305, Wiedstraße, 56249 Herschbach
+
+
+*    *   Gemeindestraße
+
+    *   von L 305 über Im Geisenborn, Hammermühler Weg, Schützstraße und von L
+        304 über Schützstraße bis Werkszufahrt Firma Schütz, 56242 Selters
+        (Westerwald)
+
+
+*    *   L 306
+
+    *   von B 413 (56269 Marienhausen) bis Auf der Weid, 56242 Marienrachdorf
+
+
+*    *   Gemeindestraße
+
+    *   von L 306 bis Auf der Weid 1 – 15, 56242 Marienrachdorf
 
 
 *    *   L 307
 
-    *   von A 3 (AS Ransbach-Baumbach) bis L 267 (Vielbach)
+    *   von A 3 (AS Ransbach-Baumbach) bis L 267 (56244 Vielbach)
 
 
 *    *   L 317
 
-    *   von L 318 bis Weroth, Bongard-und-Lindstraße
+    *   von L 318 bis Bongard-und-Lindstraße, 56414 Weroth
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Weroth: Bongard-und-Lindstraße von L 317 bis Hausnummer 1
+    *   von L 317 bis Bongard-und-Lindstraße 1, 56414 Weroth
 
 
 *    *   L 318
 
-    *   von A 3 (AS Diez) bis L 317 (Nentershausen)
+    *   von A 3 (AS Diez) bis L 317 (56412 Nentershausen)
 
 
 *    *   L 327
 
-    *   von B 49 bis Montabaur, Elgendorfer Straße
+    *   von B 49 bis Elgendorfer Straße, 56410 Montabaur
 
 
-*    *
-    *   Stadt Montabaur: Straße Horresser Berg, Elgendorfer Straße von L 327
-        bis Straße Horresser Berg
+*    *   Gemeindestraße
+
+    *   von L 327 über Elgendorfer Straße bis Horresser Berg und Horresser
+        Berg, 56410 Montabaur
 
 
 *    *   L 355
@@ -10410,308 +11526,323 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 367
 
-    *   von B 270 (Kaiserslautern) bis Kaiserslautern, Hans-Geiger-Straße
+    *   von B 270 (Kaiserslautern) bis Hans-Geiger-Straße, 67661
+        Kaiserslautern
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Kaiserslautern: Hans-Geiger-Straße von L 367 bis Marie-Curie-
-        Straße, von dort bis Werner-Heisenberg-Straße, von dort bis Werner-
-        Heisenberg-Straße 1
+    *   von L 367 über Hans-Geiger-Straße, Marie-Curie-Straße bis Werner-
+        Heisenberg-Straße 1, 67661 Kaiserslautern
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Kaiserslautern: Opelkreisel, Von-Miller-Straße, Jacob-Pfeiffer-
-        Straße von A 6 (AS Kaiserslautern-Einsiedlerhof) bis Von-Miller-Straße
+    *   von A 6 (AS Kaiserslautern-Einsiedlerhof) über Jacob-Pfeiffer-Straße,
+        bis Von-Miller-Straße und von B 270 über Opelkreisel bis Von-Miller-
+        Straße und Von-Miller-Straße, 67661 Kaiserslautern
 
 
 *    *   L 419
 
-    *   von A 60 (AS Bingen-Ost) bis Bingen am Rhein, Globusallee
+    *   von A 60 (AS Bingen-Ost) bis Globusallee, 55411 Bingen am Rhein
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Bingen am Rhein: Globusallee bis Betriebszufahrt Firma Globus
+    *   von L 419 über Globusallee bis Betriebszufahrt Firma Globus, 55411
+        Bingen am Rhein
 
 
 *    *   L 400
 
-    *   zwischen den beiden Einmündungen der L 242 (Gemeinde Gensingen)
+    *   zwischen den beiden Einmündungen der L 242 (55457 Gensingen)
 
 
 *    *   L 425
 
-    *   von A 61 (AS Worms/Mörstadt) bis Worms (Rheindürkheim) Einmündung B 9
+    *   von A 61 (AS Worms/Mörstadt) bis 67550 Worms (Rheindürkheim)
+        Einmündung B 9
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Worms (Rheindürkheim): Mittelrheinstraße bis Hausnummer 23 und
-        Hochrheinstraße bis Hausnummer 12
+    *   von L 425 bis Mittelrheinstraße 23 und bis Hochrheinstraße 12, 67550
+        Worms-Rheindürkheim
 
 
 *    *   L 474
 
-    *   von B 10 (Petersberg) bis K 9 (Petersberg)
+    *   von Einmündung B 10/K 9 (66989 Petersberg) bis K 15 (66989
+        Höhfröschen)
 
 
 *    *   K 9
 
-    *   von L 474 (Petersberg) bis K 15 (Petersberg)
+    *   von L 474 (66989 Petersberg) bis K 15 (66989 Petersberg)
 
 
 *    *   K 15
 
-    *   von K 9 (Petersberg) bis Petersberg, Staffelhofer Weg
+    *   von L 474 (66989 Höhfröschen) bis Gewerbepark, 66989 Höhfröschen und
+        von K 9 (66989 Petersberg) bis Staffelhofer Weg, 66989 Petersberg
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Petersberg: Staffelhofer Weg bis Hausnummer 1
+    *   von K 15 (66989 Hohfröschen) bis Gewerbepark 7, 66989 Höhfröschen
+
+
+*    *   Gemeindestraße
+
+    *   von K 15 (66989 Petersberg) bis Staffelhofer Weg 1, 66989 Petersberg
 
 
 *    *   L 493
 
-    *   von A 65 (AS Rohrbach) bis Rohrbach, Große Ahlmühle
+    *   von A 65 (AS Rohrbach) bis Große Ahlmühle, 76865 Rohrbach
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Rohrbach: Straße Große Ahlmühle
+    *   Große Ahlmühle, 76865 Rohrbach
 
 
 *    *   L 509
 
-    *   von A 65 (AS Landau-Zentrum) bis K 40 (Offenbach an der Queich)
+    *   von A 65 (AS Landau-Zentrum) bis K 40 (76877 Offenbach an der Queich)
+
+
+*    *   Gemeindestraße
+
+    *   von L 509 bis Landkommissärstraße 3, 76829 Landau in der Pfalz
 
 
 *    *   K 40
 
-    *   von Offenbach an der Queich, Ottersheimer Straße bis B 272
-        (Hochstadt/Pfalz)
+    *   von L 509 (76877 Offenbach an der Queich) bis B 272 (76879
+        Hochstadt/Pfalz)
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Landau in der Pfalz: Landkommissärstraße von L 509 bis
-        Hausnummer 3
-
-
-*    *   Gemeindestraße
-
-    *   Gemeinde Offenbach an der Queich: Ottersheimer Straße bis Straße
-        Interpark, von dort bis Straße Interpark 20
+    *   von L 509 und von K 40 über Ottersheimer Straße bis Straße Interpark
+        20, 76877 Offenbach an der Queich
 
 
 *    *   L 523
 
-    *   von B 9 bis Ludwigshafen, Brunckstraße
+    *   von B 9 bis Brunckstraße, 67063 Ludwigshafen
 
 
 *    *   L 530
 
-    *   von A 65 (AS Haßloch) bis Haßloch, Böhler Straße
+    *   von A 65 (AS Haßloch) bis Böhler Straße, 67454 Haßloch
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Haßloch: Böhler Straße bis Raiffeisenstraße, von dort bis
-        Straße Am Schachtelgraben, von dort bis Straße Am Schachtelgraben 15
+    *   von L 530 über Böhler Straße, Raiffeisenstraße bis Am Schachtelgraben
+        15, 67454 Haßloch
 
 
 *    *   L 539
 
-    *   von B 9 Ausfahrt Bellheim bis Bellheim, In der Fellach
+    *   von B 9 Ausfahrt 76756 Bellheim bis In der Fellach, 76756 Bellheim
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Bellheim: Waldstückerring, In der Fellach von L 539 bis
-        Waldstückerring
+    *   von L 539 über Straße In der Fellach bis Waldstückerring 51, 76756
+        Bellheim
 
 
 *    *   L 540
 
-    *   von B 9 Ausfahrt Wörth zu L 540 (Bahnhofstraße/Maximilianstraße) bis
-        Wörth, Mercedesstraße
+    *   von B 9 Ausfahrt Bahnhofstraße/Maximilianstraße, 76744 Wörth am Rhein
+        bis Mercedesstraße, 76744 Wörth am Rhein
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Wörth: Mercedesstraße bis Daimler AG, Tor 2
+    *   von L 540 über Mercedesstraße bis Mercedes-Benz Werk Tor 2, 76744
+        Wörth am Rhein
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Wörth: B 9 Ausfahrt Wörth, Forlacher Straße/Daimlerstraße bis
-        Daimler AG, Tor 1
+    *   von B 9 Ausfahrt Forlacher Straße/Daimlerstraße, 76744 Wörth am Rhein
+        über Forlacher Straße, Daimlerstraße bis Mercedes-Benz Werk Tor 1,
+        76744 Wörth am Rhein
 
 
 *    *   K 25
 
-    *   von B 9 bis Übergang Hafenstraße, Wörth
+    *   von Einmündung B 9 bis Übergang Hafenstraße, 76744 Wörth am Rhein
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Wörth: Hafenstraße von K 25 bis Mobilstraße, von dort bis Dr.
-        Hans-Mohr-Straße, von dort bis Straße Am Oberwald, von dort bis Straße
-        Am Oberwald 15
+    *   von K 25 über Hafenstraße, Mobilstraße, Dr. Hans-Mohr-Straße bis Am
+        Oberwald 15, 76744 Wörth am Rhein
 
 
 *    *   L 542
 
-    *   von A 65 (AS Kandel Nord) bis Kandel, Industriestraße
+    *   von A 65 (AS Kandel Nord) bis Industriestraße, 76870 Kandel
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Kandel: Industriestraße bis Barthelsmühlring, von dort bis
-        Horstring, von dort bis Erlenbachweg, von dort bis Erlenbachweg 1a und
-        1b
+    *   von L 542 über Industriestraße, Barthelsmühlring, Horstring bis
+        Erlenbachweg 1a und 1b, 76870 Kandel
 
 
 *    *   K 1
 
-    *   von Bobenheim-Roxheim, Industriestraße bis Hofgut Petersau
+    *   von Industriestraße, 67240 Bobenheim-Roxheim bis Hofgut Petersau,
+        67227 Frankenthal (Pfalz)
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Bobenheim-Roxheim: Industriestraße von K 1 bis Hausnummer 6
+    *   von K 1 bis Industriestraße 6, 67240 Bobenheim-Roxheim
 
 
 *    *   K 26
 
-    *   von B 262 (AS Mayen) bis K 93 (Mayen)
+    *   von B 262 (AS 56727 Mayen) bis K 93 (56727 Mayen)
 
 
 *    *   K 93
 
-    *   von B 262 (AS Kottenheim) bis K 26 (Mayen)
+    *   von B 262 (AS 56736 Kottenheim) bis K 26 (56727 Mayen)
+
+
+*    *   Gemeindestraße
+
+    *   von K 93 über Rudolf-Diesel-Straße bis Nikolaus-Otto-Straße 3, 56727
+        Mayen
 
 
 *    *   K 151
 
-    *   von B 414 (Altenkirchen) bis Altenkirchen, Graf-Zeppelin-Straße
+    *   von B 414 (57610 Altenkirchen) bis Graf-Zeppelin-Straße, 56710
+        Altenkirchen
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Altenkirchen: Graf-Zeppelin-Straße von K 151 bis Hausnummer 1 –
-        5
+    *   von K 151 bis Graf-Zeppelin-Straße 1 – 5, 57610 Altenkirchen
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Frankenthal (Pfalz): Straße Im Spitzenbusch von B 9 bis BASF-
-        Kläranlage
+    *   von B 257 bis Kesselinger Straße 41, 53506 Ahrbrück
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Germersheim: Hafenstraße, Siegfried-Jantzer-Straße, Mercedes-
-        Benz-Straße
+    *   von B 9 über Im Spitzenbusch bis BASF-Kläranlage, 67227 Frankenthal
+        (Pfalz)
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Lahnstein: Max-Schwarz-Straße von Einmündung B 42 bis Hausnummer
-        3
+    *   von B 35 über Hafenstraße bis Siegfried-Jantzer-Straße 6 und bis
+        Mercedes-Benz-Straße 1, 76726 Germersheim
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Ludwigshafen: Straße Am Hansenbusch von B 9 bis BASF Tor 15
+    *   von B 9 bis August-Horch-Straße 7a, 56070 Koblenz
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Mainz: Ludwig-Erhard-Straße von A 60 (AS Hechtsheim-West) bis
-        Robert-Bosch-Straße, von dort bis Robert-Bosch-Straße 35
+    *   von B 42 bis Max-Schwarz-Straße 3, 56112 Lahnstein
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Mainz: Rheinallee von A 643 (AS Mainz-Mombach) bis Auenstraße,
-        von dort bis Ingelheimstraße, von dort bis Ingelheimstraße 1 – 3
+    *   von B 48 über Weidenstraße bis An der Altnah 1, 55450 Langenlonsheim
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Mayen: Rudolf-Diesel-Straße, von K 93 bis Nikolaus-Otto-Straße,
-        von dort bis Nikolaus-Otto-Straße 3
+    *   von B 9 über Am Hansenbusch bis BASF Tor 15, 67069 Ludwigshafen
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Sinzig: Koblenzer Straße von Ausfahrt B 9 bis Trifterweg, von
-        dort bis Mosaikweg, von dort bis Rastenweg, von dort bis Rastenweg 8
+    *   von A 643 (AS Mainz-Mombach) über Rheinallee, Auenstraße bis
+        Ingelheimstraße 1 – 3, 55120 Mainz
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Speyer: Industriestraße von B 39 bis Stockholmer Straße, von
-        dort bis Göteborger Straße, von dort bis Göteborger Straße 1
+    *   von A 60 (AS Hechtsheim-West) über Ludwig-Erhard-Straße bis Robert-
+        Bosch-Straße 35, 55129 Mainz
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Trier: Verteilerkreis von A 602/B 49 bis Loebstraße, von dort
-        bis Rudolf-Diesel-Straße, von dort bis Rudolf-Diesel-Straße 7
+    *   von B 412 bis Industriegebiet Scheid 12, 56651 Niederzissen
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Wittlich: von B 50 neu, KVP Platten zur Benninghovenstraße, von
-        dort bis Dr.-Oetker-Straße, von dort bis Straße Zum Rachtiger Wald,
-        von dort bis Im Haag, von dort bis Zufahrt Werksgelände Firma Dr.
-        Oetker
+    *   von B 256 über Weyerbuscher Weg bis Erlenstraße 9, 56587 Oberhonnefeld
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Worms: Dr.-Otto-Röhm-Straße von B 9 bis Hafenstraße, von dort
-        bis Hafenstraße 99
+    *   KVP im Zuge der L 53/Einmündung B 50, 54518 Platten
 
 
 *    *   Gemeindestraße
 
-    *   Stadt Worms: Petrus-Dorn-Straße von B 9 bis Hausnummer 20
+    *   von B 9 Ausfahrt Lindenstraße/Koblenzer Straße über Koblenzer Straße,
+        Trifterweg, Mosaikweg bis Rastenweg 8, 53489 Sinzig
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Ahrbrück: Kesselinger Straße von B 257 bis Hausnummer 41
+    *   von B 39 über Industriestraße, Stockholmer Straße bis Göteborger
+        Straße 1, 67346 Speyer
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Langenlonsheim: Straße An der Altnah, Weidenstraße von
-        Einmündung B 48 bis An der Altnah
+    *   von A 602/B 49 über Verteilerkreis, Loebstraße bis Rudolf-Diesel-
+        Straße 7, 54292 Trier
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Niederzissen: Straße Industriegebiet Scheid von B 412 bis
-        Hausnummer 12
+    *   von KVP 54518 Platten über Benninghovenstraße, Dr.-Oetker-Straße, Zum
+        Rachtiger Wald, Im Haag bis Werksgelände Firma Dr. Oetker, 54516
+        Wittlich
 
 
 *    *   Gemeindestraße
 
-    *   Gemeinde Oberhonnefeld: Weyerbuscher Weg bis Erlenstraße, von dort bis
-        Erlenstraße 9
+    *   von B 9 über Dr.-Otto-Röhm-Straße bis Hafenstraße 99, 67547 Worms
+
+
+*    *   Gemeindestraße
+
+    *   von B 9 bis Petrus-Dorn-Straße 20, 67547 Worms
 
 
 
-**Nachgeordnetes Straßennetz Saarland:**
+
+**Nachgeordnetes Streckennetz Saarland:**
 
 *    *   Straße
 
     *   Streckenbeschreibung
-        jeweils in beiden Fahrtrichtungen
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   B 41
@@ -10728,14 +11859,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   B 41
 
-    *   von A 8 (AS Neunkirchen-Spiesen) bis Abzweig L 315
+    *   von A 8 (AS Neunkirchen-Spiesen) bis A 62 (AS Birkenfeld)
 
 
 *    *   B 51
 
     *   von A 8 (AS Dillingen-Süd) über B 51, Henry-Ford-Straße, über
         Kreisverkehrsplatz Henry-Ford-Straße/Carl-Zeiss-Straße, Henry-Ford-
-        Straße bis Carl-Zeiss-Straße 33, 66740 Saalouis
+        Straße bis Carl-Zeiss-Straße 33, 66740 Saarlouis
 
 
 *    *   B 269
@@ -10747,7 +11878,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   B 269
 
     *   von A 620 (AS Saarlouis-Lisdorf) über Kreisverkehrsplatz L 271/B 269
-        bis Abzweig, Mary-Lonsdorfer-Straße, 66740 Saarlouis
+        bis Abzweig Mary-Lonsdorfer-Straße, 66740 Saarlouis
 
 
 *    *   B 269
@@ -10773,6 +11904,11 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   L 119
 
     *   von Abzweig L 223 bis Abzweig Berliner Straße, 66424 Homburg
+
+
+*    *   L 132
+
+    *   von B 41 bis Abzweig Weimarer Straße, 66606 St. Wendel
 
 
 *    *   L 133
@@ -10807,7 +11943,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   L 315
 
-    *   von B 41 bis L 133
+    *   von B 41 bis Anschluss L 133
 
 
 *    *   L 341
@@ -10865,7 +12001,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Untertürkheimer Straße, 66177 Saarbücken
+    *   Untertürkheimer Straße, 66117 Saarbücken
 
 
 *    *   Gemeindestraße
@@ -10880,7 +12016,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Carl-Zeiss-Straße, 66740 Saalouis, von Abzweig Henry-Ford-Straße bis
+    *   Carl-Zeiss-Straße, 66740 Saarlouis, von Abzweig Henry-Ford-Straße bis
         Carl-Zeiss-Straße 33
 
 
@@ -10920,8 +12056,13 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   Gemeindestraße
 
-    *   Frankfurter Straße, 66606 St. Wendel, von Abzweig August-Balthasar-
-        Straße bis Frankfurter Straße 6 – 8
+    *   Frankfurter Straße, 66606 St. Wendel
+
+
+*    *   Gemeindestraße
+
+    *   Weimarer Straße, 66606 St. Wendel, von L 132 bis Abzweig Frankfurter
+        Straße
 
 
 *    *   Gemeindestraße
@@ -10941,18 +12082,20 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-**Nachgeordnetes Straßennetz Sachsen:**
+
+**Nachgeordnetes Streckennetz Sachsen:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   S 1
         K 7433
 
     *   von A 9 (AS Wiedemar) über S 1, K 7433 und Siebelstraße bis
-        Schkeuditz/OT Glesien, Ikarusstraße 16
+        Schkeuditz/OT Glesien, Ikarusstraße 16
 
 
 *    *   S 1
@@ -10984,13 +12127,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 7424
 
     *   von A 14 (AS Leipzig-Mitte) über B 2 bis Abzweig Pröttitz über K
-        7424/Pröttitzer Straße nach Krostitz, Mutschlenaer Straße 14 (in
-        Krostitz ausschließlich auf Kreisstraße K 7424 bleibend/die von dieser
-        abzweigenden kommunalen Teilstücke mit ebenfalls Straßennamen
-        Pröttitzer Straße und Mutschlenaer Straße dürfen nicht befahren
-        werden) und ab Abzweig Pröttitz über B 2 Dübener Straße bis S 4
-        Delitzscher Straße und rechts Hilchenbacher Straße bis Krostitz,
-        Hilchenbacher Straße 20
+        7424/Pröttitzer Straße nach Krostitz, Mutschlenaer Straße 14
+        (in Krostitz ausschließlich auf Kreisstraße K 7424 bleibend/die von
+        dieser Straße abzweigenden kommunalen Teilstücke, die ebenfalls die
+        Straßennamen Pröttitzer Straße oder Mutschlenaer Straße haben, dürfen
+        nicht befahren werden)
+        und ab Abzweig Pröttitz über B 2 Dübener Straße bis S 4 Delitzscher
+        Straße und rechts Hilchenbacher Straße bis Krostitz, Hilchenbacher
+        Straße 20
 
 
 *    *   B 101
@@ -11010,7 +12154,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von LG Thüringen/Sachsen über B 7 Eschefelder Kreuz auf S 51 Richtung
         Niederfrohna über S 241 auf A 72 (AS Niederfrohna) über AK Chemnitz
-        auf A 4 über AD Dresden-Westauf A 17 bis AS Dresden-Prohlis über S
+        auf A 4 über AD Dresden-West auf A 17 bis AS Dresden-Prohlis über S
         191n/Tschirnhausstraße und Michaelisstraße bis Nickerner Weg 8
 
 
@@ -11018,8 +12162,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         S 283
         S 286
 
-    *   von A 72 (AS Zwickau-Ost) über S 283 über S 286 bis Lippoldsruhe über
-        B 173 Richtung Lichtenstein über S 255/Platanenstraße bis St. Egidien,
+    *   von A 72 (AS Zwickau-Ost) über S 283 über S 286 bis Lippoldsruh über B
+        173 Richtung Lichtenstein über S 255/Platanenstraße bis St. Egidien,
         Kastanienstraße 7
 
 
@@ -11039,8 +12183,8 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         S 311
         S 312
 
-    *   von A 72 (AS Plauen-Süd) über B 92 und S 312, bis Theumaer Straße 9 in
-        Oelsnitz oder ab B 92, S 311, Gewerbegebiet An der neuen Welt bis Am
+    *   von A 72 (AS Plauen-Süd) über B 92 und S 312, bis Theumaer Straße 9,
+        Oelsnitz oder ab B 92, S 311, Gewerbegebiet An der neuen Welt bis Am
         Alten Bahndamm, Oelsnitz
 
 
@@ -11183,7 +12327,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 *    *   S 282
 
-    *   von A 72 (AS Zwickau-West) über S 282/Lengenfelder Straße bis
+    *   von A 72 (AS Zwickau-West) über S 293, S 282/Lengenfelder Straße bis
         Christoph-Graupner-Straße 2, Kirchberg
 
 
@@ -11204,7 +12348,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         S 200
 
     *   von A 4 (AS Chemnitz-Ost) über S 200, Ortsdurchfahrt Lichtenau, S 200,
-        Kreuzung Brettmühle, B 169 bis Chemnitzer Straße 61B, Frankenberg
+        Kreuzung Brettmühle, B 169 bis Chemnitzer Straße 61B, Frankenberg
 
 
 *    *   B 169
@@ -11327,7 +12471,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
     *   von A 72 (AS Zwickau-West) über S 293, B 173/Reichenbacher Straße,
         Humboldtstraße, B 175/Crimmitschauer Straße, Horchstraße, Pölbitzer
-        Straße, Alfred-Schön-Allee bis Dorotheenstraße 41, Zwickau
+        Straße, Alfred-Schön-Allee bis Dorotheenstraße 41, Zwickau
 
 
 *    *   B 175
@@ -11341,7 +12485,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   S 288
 
     *   von A 4 (AS Glauchau-West) über S 288 Höckendorfer Straße,
-        Kreisverkehr Zwickauer Straße 2. Ausfahrt, Seiferitzer Allee bis
+        Kreisverkehr Zwickauer Straße 2. Ausfahrt, S 288/Seiferitzer Allee bis
         Werdauer Allee, Meerane
 
 
@@ -11394,223 +12538,194 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 
-**Nachgeordnetes Straßennetz Schleswig-Holstein:**
+**Nachgeordnetes Streckennetz Schleswig-Holstein:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   B 199
 
-    *   von A 7 (AS Flensburg-Harrislee) auf B 199 östlich bis Industriegebiet
-        Flensburg-West
+    *   von A 7 (AS Flensburg-Harrislee) über B 199 bis Gewerbegebiet West,
+        24941 Flensburg
 
 
 *    *   B 200
         B 199
         K 31
 
-    *   von A 7 (AS Flensburg) auf B 200 bis AS Flensburg-Süd, B 199
-        Osttangente, K 31 Eckernförder Landstraße bis Industriegebiet
-        Flensburg-Süd
+    *   von A 7 (AS Flensburg) über B 200, B 199 (Osttangente), K 31
+        (Eckernförder Landstraße) bis Gewerbegebiet Süd, 24941 Flensburg
 
 
 *    *   L 222
 
-    *   von A 1 (AS Stapelfeld) auf L 222 (Alte Landstraße), Ahrensburger Weg
-        und Meiendorfer Amtsweg bis Brookstraße 1, 22145 Braak
+    *   von A 1 (AS Stapelfeld) über L 222 (Alte Landstraße), Ahrensburger
+        Weg, Meiendorfer Amtsweg bis Brookstraße 1, 22145 Braak
 
 
 *    *   B 201
 
-    *   von A 7 (AS Schleswig-Schuby) auf B 201 nach Silberstedt
+    *   von A 7 (AS Schleswig-Schuby) auf B 201 bis 24887 Silberstedt
 
 
 *    *   B 203
 
-    *   von A 7 (AS Rendsburg/Büdelsdorf) über B 203
-        (Borgstedtfelde/Hollerstraße) in Friedrichsbrunnen und weiter bis
-        Ulrich-Harms-Straße, 24782 Büdelsdorf
+    *   von A 7 (AS Rendsburg/Büdelsdorf) über B 203 (Borgstedtfelde,
+        Hollerstraße) bis Ulrich-Harms-Straße, 24782 Büdelsdorf
 
 
 *    *   B 205
 
-    *   von Krokamp 87, 24539 Neumünster über Saalestraße auf B 205 bis A 7
-        (AS Neumünster-Süd)
+    *   von Krokamp 87, 24539 Neumünster über Saalestraße, B 205 bis A 7 (AS
+        Neumünster-Süd)
 
 
 *    *   B 77
 
-    *   von A 7 (AS Schleswig-Jagel) auf B 77 südlich bis zum Gewerbegebiet
-        Kropp
+    *   von A 7 (AS Schleswig-Jagel) auf B 77 bis Gewerbegebiet, 24848 Kropp
 
 
 *    *   A 210
         K 76
 
-    *   von A 7 (AK Rendsburg) auf A 210 bis AS Schacht-Audorf über Zubringer
-        bis K 76 bis Gewerbegebiet Osterrönfeld
+    *   von A 7 (AK Rendsburg) über A 210 (AS Schacht-Audorf), K 76 bis
+        Gewerbegebiet, 24783 Osterrönfeld
 
 
 *    *   B 205
         L 319
         K 2
 
-    *   von A 7 (AS Neumünster-Süd) über B 205, L 319 und K 2 bis
-        Industriegebiet Neumünster-Süd
+    *   von A 7 (AS Neumünster-Süd) über B 205, L 319 (Altonaer Straße), K 2
+        (Gadelander Straße) bis Industriegebiet Süd, 24539 Neumünster
 
 
 *    *   K 72
         K 74/K 69
         B 5
 
-    *   von Fährstraße 49, 25715 Brunsbüttel über K 72 entlang NOK (Nord-
-        Ostsee-Kanal) auf K 69/K 74, nordöstlich auf B 5, weiter bis A 23
-
-
-*    *   B 207
-
-    *   von Fährhafen Puttgarden bis A 1
+    *   von Fährstraße 49, 25715 Brunsbüttel über K 72 (Schleswiger Straße,
+        Holstendamm), K 69/K 74, B 5 bis A 23
 
 
 *    *   K 13
         K 15
 
-    *   von A 20 (AS Lübeck-Genin) auf K 15 (Baltische Allee) und über K 13
+    *   von A 20 (AS Lübeck-Genin) über K 15 (Baltische Allee), K 13
         (Malmöstraße) bis Revalstraße 1, 23560 Lübeck
 
 
 *    *
     *   von A 1 (AS Lübeck-Moisling) über Padelügger Weg, Kieler Straße bis
-        Zufahrt Gewerbegebiet Roggenhorst
+        Gewerbegebiet Roggenhorst, 23556 Lübeck
 
 
 *    *   K 5
         K 25
 
-    *   von A 1 (AS Lübeck-Zentrum) über K 5 (Stockelsdorfer Straße),
-        Kreisverkehr Lohmühle, Ausfahrt: Bei der Lohmühle (K 25), Karlstraße,
-        Einsiedelstraße und Frankfurter Straße bis Nordlandkai
+    *   von A 1 (AS Lübeck-Zentrum) über K 5 (Stockelsdorfer Straße), K 25
+        (Bei der Lohmühle), Karlstraße, Einsiedelstraße, Frankfurter Straße
+        bis Nordlandkai, 23554 Lübeck
 
 
 *    *   B 104
         K 4
 
-    *   von A 226 (AS Lübeck-Siems) über B 104, K 4 (Seelandstraße) und über
-        Zubringer bis
-        Seelandkai/Lehmannkai                        (nach Passieren der
-        Einmündung Werkstraße und vor Bahnübergang nach rechts)
+    *   von A 226 (AS Lübeck-Siems) über B 104, K 4 (Seelandstraße) bis
+        Seelandkai/Lehmannkai, 23569 Lübeck
 
 
 *    *   B 75
         K 20
 
-    *   von A 226 über B 75, K 20 Lübeck-Travemünde bis Skandinavienkai Süd
+    *   von A 226 über B 75, K 20 bis Skandinavienkai Süd, 23570 Lübeck
 
 
 *    *   B 4
         K 6
 
-    *   von B 4 Kieler Straße 141, 25474 Bönningstedt über K 6 (Pinneberger
-        Straße) bis K 6 (Dorfstraße 45), Tangstedt
-
-
-*    *   K 1
-        L 105
-
-    *   von A 23 (AS Pinneberg-Süd) auf K 1 (Rellinger Straße), Thesdorfer Weg
-        und L 105 (Wedeler Weg) bis Pinneberger Straße 238
+    *   von B 4 (Kieler Straße 141), 25474 Bönningstedt über K 6 (Pinneberger
+        Straße) bis K 6 (Dorfstraße 45), 22889 Tangstedt
 
 
 *    *   L 105
         K 1
 
-    *   von Pinneberger Straße 238, 25488 Holm über L 105 (Wedeler Chaussee,
-        Wedeler Weg), Kreisverkehr L 105 3. Ausfahrt, Westring, Lange Twiete,
-        Thesdorfer Weg und K 1 (Rellinger Straße) bis A 23 (AS Pinneberg-Süd)
+    *   von A 23 (AS Pinneberg-Süd) über K 1 (Rellinger Straße), Thesdorfer
+        Weg, Lange Twiete, Westring, L 105 (Wedeler Weg, Wedeler Chaussee) bis
+        Pinneberger Straße 238, 25488 Holm
+
+
+*    *   L 105
+        K 1
+
+    *   von A 23 (AS Pinneberg-Süd) über K 1 (Rellinger Straße), Thesdorfer
+        Weg, L 105 (Wedeler Weg, Wedeler Chaussee) bis Pinneberger Straße 238,
+        25488 Holm
 
 
 *    *   K 24
         K 113
         L 284
 
-    *   von A 7 (AS Quickborn) auf K 24 (Friedrichsgaber Straße) über K 113
-        (Köthla-Järve-Straße), L 284 (Schleswig-Holstein-Straße) und Oststraße
-        bis VW-Vertriebszentrum Am Stammgleis, Norderstedt
+    *   von A 7 (AS Quickborn) über K 24 (Friedrichsgaber Straße) K 113
+        (Köthla-Järve-Straße), L 284 (Schleswig-Holstein-Straße), Oststraße
+        bis Am Stammgleis 6, 24844 Norderstedt
 
 
 *    *   K 24
         K 113
         L 284
 
-    *   von A 24 (AK Hamburg-Ost) auf A 1 bis AK Maschen über A 250 bis A 7
-        und von AS Quickborn (A 7) auf K 24 (Friedrichsgaber Straße) über K
-        113 (Köthla-Järve-Straße) und L 284 (Schleswig-Holstein-Straße) bis
-        Oststraße 3, 22844 Norderstedt
-
-
-*    *   L 284
-        K 113
-        K 24
-
-    *   von VW-Vertriebszentrum Am Stammgleis, 22844 Norderstedt über
-        Oststraße, L 284 (Schleswig-Holstein-Straße), K 113 (Köthla-Järve-
-        Straße), K 24 (Friedrichsgaber Straße) bis A 7 (AS Quickborn), A 7 bis
-        AK Maschen, A 250, A 1 bis AK Hamburg-Ost, A 24
-
-
-*    *   L 284
-        K 113
-        K 24
-
-    *   von Oststraße 3, 22844 Norderstedt über L 284 (Schleswig-Holstein-
-        Straße), K 113 (Köthla-Järve-Straße) und K 24 (Friedrichsgaber Straße)
-        bis A 7 (AS Quickborn)
+    *   von A 7 (AS Quickborn) über K 24 (Friedrichsgaber Straße), K 113
+        (Köthla-Järve-Straße), L 284 (Schleswig-Holstein-Straße) bis Oststraße
+        3, 22844 Norderstedt
 
 
 *    *   B 404
         B 205
 
-    *   von A 24 bis AS Schwarzenbek/Grande, B 404, A 21 bis AS Wahlstedt, B
-        205, Donaubogen und Saalestraße bis Betriebsgelände Edeka in
-        Neumünster
+    *   von A 24 (AS Schwarzenbek/Grande) über B 404, A 21, B 205, Donaubogen,
+        Saalestraße, Weserstraße bis Gadelander Straße 120, 24539 Neumünster
 
 
 *    *   B 75
         K 20
 
-    *   von A 1 bis AD Bad Schwartau über A 226, B 75 (AS Skandinavienkai) und
-        K 20 bis Gewerbegebiet Henry-Koch-Straße
+    *   von A 1 (AD Bad Schwartau) über A 226, B 75, K 20 bis Henry-Koch-
+        Straße, 23570 Lübeck
 
 
 *    *   K 43
         L 156
         B 5
 
-    *   Rehm-Flede-Bargen, Tannenweg über K 43, L 156 und B 5 bis A 23 (AS
-        Heide-West)
+    *   von Tannenweg, 25776 Rehm-Flede-Bargen über K 43, L 156, B 5 bis A 23
+        (AS Heide-West)
 
 
 *    *   K 4
         K 93
 
-    *   von A 210 (AS Melsdorf) auf K 4 (Rotenhofer Weg) über K 93
-        (Rendsburger Landstraße) bis Ihlberg, 24109 Melsdorf
+    *   von A 210 (AS Melsdorf) über K 4 (Rotenhofer Weg), K 93 (Rendsburger
+        Landstraße) bis Ihlberg, 24109 Melsdorf
 
 
 *    *   A 215
         B 76
         K 1
 
-    *   von A 215 (AS Kiel Zentrum) über B 76 auf K 1 (Wellseedamm) weiter auf
-        K 16 (Edisonstraße), Bunsenstraße bis Bunsenstraße 1d, 24145 Kiel
+    *   von A 215 (AS Kiel Zentrum) über B 76, K 1 (Wellseedamm), K 16
+        (Edisonstraße), Bunsenstraße bis Bunsenstraße 1d, 24145 Kiel
 
 
 *    *   A 21/B 404
         K 16
 
-    *   von A 21/B 404 (Stadtgrenze Kiel) auf K 16 (Edisonstraße),
+    *   von A 21/B 404 (Stadtgrenze Kiel) über K 16 (Edisonstraße),
         Bunsenstraße bis Bunsenstraße 1d, 24145 Kiel
 
 
@@ -11618,22 +12733,22 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 404
         L 15
 
-    *   von Industriestraße 32, 24963 Tarp auf L 15, A 7, A 210, A 215, B 76,
-        B 404 auf Edisonstraße bis Bunsenstraße 1d, 24145 Kiel
+    *   von Industriestraße 32, 24963 Tarp über L 15, A 7, A 210, A 215, B 76,
+        B 404, Edisonstraße bis Bunsenstraße 1d, 24145 Kiel
 
 
 *    *   B 76
         B 404
         L 15
 
-    *   von Industriestraße 32, 24963 Tarp auf L 15, A 7, A 210, A 215, B 76,
-        B 404 auf Wellseedamm, Edisonstraße bis Bunsenstraße 1d, 24145 Kiel
+    *   von Industriestraße 32, 24963 Tarp über L 15, A 7, A 210, A 215, B 76,
+        B 404, Wellseedamm, Edisonstraße bis Bunsenstraße 1d, 24145 Kiel
 
 
 *    *   B 205
         B 206
 
-    *   von Krokamp 87, 24539 Neumünster auf Saalestraße, B 205, A 7, B 206
+    *   von Krokamp 87, 24539 Neumünster über Saalestraße, B 205, A 7, B 206
         bis A 21 (AS Bad Bramstedt)
 
 
@@ -11642,35 +12757,36 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 502
         K 34
 
-    *   von Wellseedamm 10 (K 1) über B 76 auf B 502 (Ostring) auf K 34
-        (Heikendorfer Weg – Grenzstraße – Ostuferhafen) bis Ostuferhafen Kiel
+    *   von Wellseedamm 10 (K 1), 24145 Kiel, über B 76, B 502 (Ostring), K 34
+        (Heikendorfer Weg – Grenzstraße – Ostuferhafen) bis Ostuferhafen,
+        24149 Kiel
 
 
 *    *   B 200
         K 25
 
-    *   von B 200, AS Flensburg-Süd bis AS Rude auf K 25 (Husumer Straße) bis
-        Am Sophienhof, 24941 Flensburg
+    *   von B 200 (AS Flensburg-Süd) über K 25 (Husumer Straße) bis Am
+        Sophienhof, 24941 Flensburg
 
 
 *    *   L 15
 
-    *   von A 7, AS Tarp auf L 15 bis Kreuzung Industriestraße, Boschstraße,
-        Tarp bis Firma Trixie Heimtierbedarf (Zufahrt Gutenbergring)
+    *   von A 7 (AS Tarp) über L 15, Industriestraße, Boschstraße,
+        Gutenbergring bis Industriestraße 32, 24963 Tarp
 
 
 *    *   L 15
         L 247
 
-    *   von A 7 (AS Tarp) auf L 15, K 86 (Wanderuper Straße) K 87 (Eggebeker
-        Straße), Am Bahnerwald, L 247 (Stapelholmer Weg) bis Hauptstraße 21,
+    *   von A 7 (AS Tarp) über L 15, K 86 (Wanderuper Straße), K 87 (Eggebeker
+        Straße), Am Bahnerwald, L 247 (Stapelholmer Weg) bis Hauptstraße 21,
         24852 Eggebek
 
 
 *    *   B 200
 
-    *   von A 7, AS Flensburg auf B 200 (Flensburger Straße – Husumer Straße)
-        bis Husumer Straße 20, 24997 Wanderup
+    *   von A 7 (AS Flensburg) über B 200 (Flensburger Straße – Husumer
+        Straße) bis Husumer Straße 20, 24997 Wanderup
 
 
 *    *   B 200
@@ -11678,25 +12794,23 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         K 28
         K 6
 
-    *   von A 7, AS Flensburg über B 200, B 199 und K 28 (Nordstraße) auf K 6
-        (Hafendamm – Ballastbrücke) nach Am Industriehafen 3, 24937 Flensburg
+    *   von A 7 (AS Flensburg) über B 200, B 199, K 28 (Nordstraße), K 6
+        (Hafendamm – Ballastbrücke) bis Am Industriehafen 3, 24937 Flensburg
 
 
 *    *   B 104
 
-    *   B 104 von Landesgrenze Mecklenburg-Vorpommern/Schleswig-Holstein bis
-        Kreuzung Mecklenburger Straße bis Mecklenburger Straße 202, 23568
-        Lübeck
+    *   von B 104 ab LG Mecklenburg-Vorpommern/Schleswig-Holstein über
+        Mecklenburger Straße bis Mecklenburger Straße 202, 23568 Lübeck
 
 
 *    *   K 24
         K 113
         L 284
 
-    *   A 7 ab Landesgrenze Hamburg/Schleswig-Holstein bis AS Quickborn, über
-        K 24 (Friedrichsgaber Straße) und K 113 (Kohtla-Järve-Straße) auf L
-        284 (Schleswig-Holstein-Straße) bis Oststraße, Norderstedt. Weiter
-        über Oststraße in Mühlenweg bis Mühlenweg 144
+    *   von A 7 (AS Quickborn) über K 24 (Friedrichsgaber Straße), K 113
+        (Kohtla-Järve-Straße) auf L 284 (Schleswig-Holstein-Straße),
+        Oststraße, Mühlenweg bis Mühlenweg 144, 22844 Norderstedt
 
 
 *    *   B 404
@@ -11704,17 +12818,72 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         B 76
         K 34
 
-    *   B 404 ab Stadtgrenze Kiel über B 76 auf B 502 (Ostring) bis Ausfahrt
-        auf K 34 (Heikendorfer Weg – Grenzstraße – Ostuferhafen) bis
-        Ostuferhafen Kiel
+    *   von B 404 ab Stadtgrenze Kiel über B 76, B 502 (Ostring), K 34
+        (Heikendorfer Weg – Grenzstraße – Ostuferhafen) bis Ostuferhafen,
+        24149 Kiel
+
+
+*    *   L 224
+
+    *   von A 1 (AS Ahrensburg) über L 224 bis Beimoorweg 11, 22926 Ahrensburg
+
+
+*    *   B 201
+
+    *   von Heinrich-Hertz-Straße 16, 24837 Schleswig über Werner-von-Siemens-
+        Straße, Sankt-Jürgener-Straße, B 201 bis A 7 (AS Schleswig/Schuby)
+
+
+*    *   B 201
+
+    *   von Heinrich-Hertz-Straße 16, 24837 Schleswig über Marie-Curie-Straße,
+        Sankt-Jürgener-Straße, B 201 bis A 7 (AS Schleswig/Schuby)
+
+
+*    *   B 201
+
+    *   von Heinrich-Hertz-Straße 16, 24837 Schleswig über Schleidörfer
+        Straße, Langseestraße, B 201 bis A 7 (AS Schleswig/Schuby)
+
+
+*    *   K 98
+        K 69
+        B 77
+        B 203
+
+    *   von Zum Kratt 8 – 10, 24787 Fockbek, über K 98, K 69, B 77, B 203 bis
+        A 7 (AS Rendsburg/Büdelsdorf)
+
+
+*    *   K 98
+        K 69
+        K 44
+        B 77
+
+    *   von Zum Kratt 8 – 10, 24787 Fockbek, über K 98, K 69, K 44, B 77 bis A
+        7 (AS Schleswig/Jagel)
+
+
+*    *   K 98
+        B 203
+
+    *   von Zum Kratt 8 – 10, 24787 Fockbek, über K 98, B 203 bis A 23 (AS
+        Heide-West)
+
+
+*    *   L 265
+
+    *   von A 7 (AS Owschlag) über L 265 bis Anschluss B 77
 
 
 
-**Nachgeordnetes Straßennetz Thüringen:**
+
+**Nachgeordnetes Streckennetz Thüringen:**
 
 *    *   Straße
 
     *   Streckenabschnitt
+        jeweils in beide Fahrtrichtungen
 
 
 *    *   Gemeindestraße zu L 3007
@@ -11780,7 +12949,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
         Hermsdorf
 
 
-*    *   Gemeindestraße, K 564, L 1095 zu B 90
+*    *   Gemeindestraße, K 564, L 1095 zu B 90
 
     *   von Empestraße 1 über Am Pfaffenhügel, An der Linde, K 564, L 1095 bis
         B 90, 07929 Saalburg-Ebersdorf
@@ -11811,12 +12980,6 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   Industriestraße bis L 1095 und B 282 bis A 9, 07907 Schleiz
 
 
-*    *   Gemeindestraße zu A 71
-
-    *   Paul-Reuss-Straße, über Otto-Brünner-Straße bis L 1172 bis A 71 (AS
-        Sömmerda-Ost), 06556 Artern
-
-
 *    *   Gemeindestraße zu A 4
 
     *   von A 4 (AS Ronneburg) bis Neue Straße 2, 04626 Löbichau
@@ -11825,10 +12988,18 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 *    *   Gemeindestraße zu A 4
 
     *   von A 4 (AS Neudietendorf) über L 1044
-        - Thöreyer Straße, Industriestraße, Garantstraße, Arnstädter Straße, L
-        1044 bis A 4 (AS Neudietendorf)
-        - Am Sülzenbrückener Weg zwischen Thöreyer Straße und Garantstraße
-        - Am Burgsteig
+
+        –   Thöreyer Straße, Industriestraße, Garantstraße, Arnstädter Straße, L
+            1044 bis A 4 (AS Neudietendorf)
+
+
+        –   Am Sülzenbrückener Weg zwischen Thöreyer Straße und Garantstraße
+
+
+        –   Am Burgsteig
+
+
+
         99334 Amt Wachsenburg
 
 
@@ -11837,10 +13008,73 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   von A 9 (AS Dittersdorf) über L 1077 bis Leiten 3, 07907 Dittersdorf
 
 
-*    *   Gemeindestraße, L 1358, L 1359 zu L 1361
+*    *   Gemeindestraße,
+        L 1358,
+        L 1359 zu
+        L 1361
 
     *   von A 4 (AS Schmölln) über L 1361, L 1359, L 1358 bis Industriegebiet
-        Nörditzer Höhe, 04639 Gößnitz
+        Nörditzer Höhe, 04639 Gößnitz
+
+
+
+
+**Fahrtstrecken zu Autohöfen neben Autobahnen (Bayern):**
+
+*    *   Autohofname
+        (Adresse)
+
+    *   Name der AS
+
+    *   Knotenbezeichnung
+
+
+*    *   Autohof Geiselwind
+        (Scheinfelder Straße 15, 96160 Geiselwind)
+
+    *   AS Geiselwind (76)
+
+    *   A 3/St 2257/Scheinfelder Straße
+
+
+*    *   Autohof Aurach
+        (Steinauer Weg 50, 91589 Aurach)
+
+    *   AS Aurach (50)
+
+    *   A 6/St 1066
+
+
+*    *   Autohof Berg
+        (Sieggrubenstraße 5, 95180 Berg)
+
+    *   AS Berg/Bad Steben (31)
+
+    *   A 9/St 2692/Sieggrubenstraße
+
+
+*    *   Autohof Hilpoltstein
+        (An der Autobahn K 4, 91161 Hilpoltstein)
+
+    *   AS Hilpoltstein (56)
+
+    *   A 9/St 2238/An der Autobahn
+
+
+*    *   Autohof Mühldorf
+        (Gewerbepark Frixing 3, 85153 Erharting)
+
+    *   AS Mühldorf-Nord (20)
+
+    *   A 94/B 299/MÜ 33
+
+
+*    *   Autohof Thiersheim
+        (Wampener Straße 1, 95707 Thiersheim)
+
+    *   AS Thiersheim (11)
+
+    *   A 93/St 2180/Wampener Straße
 
 
 
@@ -11859,6 +13093,14 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
     *   AS Langenselbold-West
 
     *   A 45/L 3445
+
+
+*    *   Autohof Lützelwig
+
+    *   Homberg Efze/Lützelwig
+
+    *   B 254
+
 
 
 
@@ -11912,6 +13154,7 @@ Vorpommern):**
     *   AS 9a Gallin
 
     *   A 24/Am Heisterbusch, 19258 Gallin
+
 
 
 
@@ -12099,6 +13342,7 @@ Vorpommern):**
 
 
 
+
 **Fahrtstrecken zu Autohöfen neben Autobahnen (Nordrhein-Westfalen):**
 
 *    *   Autohofname
@@ -12193,6 +13437,7 @@ Vorpommern):**
 
 
 
+
 **Fahrtstrecken zu Autohöfen neben Autobahnen (Rheinland-Pfalz):**
 
 *    *   Autohofname
@@ -12235,6 +13480,7 @@ Vorpommern):**
     *   AS Koblenz-Metternich
 
     *   A 61/L 52
+
 
 
 
@@ -12298,6 +13544,7 @@ anfahrbar.
     *   AS 41a Waltershausen
 
     *   A 4/L 1025
+
 
 
 
@@ -12675,6 +13922,7 @@ anfahrbar.
 
 
 
+
 **Geeignete Rastplätze an Bundesautobahnen in Mecklenburg-
 Vorpommern:**
 
@@ -12728,6 +13976,7 @@ Vorpommern:**
 
 
 
+
 **Geeignete Rastplätze an Bundesautobahnen in Sachsen:**
 
 *    *   Rastplatzname
@@ -12760,56 +14009,61 @@ Vorpommern:**
 
 
 
-    AS = Anschlussstelle
-[^F812806_1_BJNR614410011BJNE001509119]:     AK = Autobahnkreuz
-[^F812806_2_BJNR614410011BJNE001509119]:     AD = Autobahndreieck
-[^F812806_3_BJNR614410011BJNE001509119]:     BG = Bundesgrenze
-[^F812806_4_BJNR614410011BJNE001509119]:     LG = Landesgrenze
-[^F812806_5_BJNR614410011BJNE001509119]:     Weitere Bundesstraßen sind in den Aufzählungen zum nachgeordneten
+_\_\__\_\__\_\__\_\__
+
+    AS = Anschlussstelle.
+[^f825743_01_BJNR614410011BJNE001510119]:     AK = Autobahnkreuz.
+[^f825743_02_BJNR614410011BJNE001510119]:     AD = Autobahndreieck.
+[^f825743_03_BJNR614410011BJNE001510119]:     BG = Bundesgrenze.
+[^f825743_04_BJNR614410011BJNE001510119]:     LG = Landesgrenze.
+[^f825743_05_BJNR614410011BJNE001510119]:     Weitere Bundesstraßen sind in den Aufzählungen zum nachgeordneten
     Streckennetz der Länder aufgeführt.
-[^F812806_6_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Fürth
-[^F812806_7_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Oberallgäu
-[^F812806_8_BJNR614410011BJNE001509119]:     GVZ = Güterverkehrszentrum
-[^F812806_9_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Ludwigslust-Parchim
-[^F812806_10_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Augsburg
-[^F812806_11_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Hof
-[^F812806_12_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Aichach-Friedberg
-[^F812806_13_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Würzburg
-[^F812806_14_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Regensburg
-[^F812806_15_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Nürnberger Land
-[^F812806_16_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Schwandorf
-[^F812806_17_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Ostallgäu
-[^F812806_18_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Tirschenreuth
-[^F812806_19_BJNR614410011BJNE001509119]:     Kreisstraße in der Stadt Regensburg
-[^F812806_20_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Neuburg-Schrobenhausen
-[^F812806_21_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Eichstätt
-[^F812806_22_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Straubing-Bogen
-[^F812806_23_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Dingolfing-Landau
-[^F812806_24_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Aschaffenburg
-[^F812806_25_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Amberg-Sulzbach
-[^F812806_26_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Schweinfurt
-[^F812806_27_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Bad Kissingen
-[^F812806_28_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Landshut
-[^F812806_29_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Landshut
-[^F812806_30_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Altötting
-[^F812806_31_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Freising
-[^F812806_32_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Wunsiedel
-[^F812806_33_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Miltenberg
-[^F812806_34_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Passau
-[^F812806_35_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Erding
-[^F812806_36_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Ansbach
-[^F812806_37_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Weiden i. d. OPf.
-[^F812806_38_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Neumarkt i. d. OPf.
-[^F812806_39_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Ingolstadt
-[^F812806_40_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Neustadt a. d. Aisch-Bad Windsheim
-[^F812806_41_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Augsburg
-[^F812806_42_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Landsberg am Lech
-[^F812806_43_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis München
-[^F812806_44_BJNR614410011BJNE001509119]:     Kommunale Straße in der Baulast der Stadt Memmingen
-[^F812806_45_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Neu-Ulm
-[^F812806_46_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Roth
-[^F812806_47_BJNR614410011BJNE001509119]:     Kreisstraße in der Stadt Neubrandenburg
-[^F812806_48_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Rostock
-[^F812806_49_BJNR614410011BJNE001509119]:     Kreisstraße im Landkreis Nordwestmecklenburg
-[^F812806_50_BJNR614410011BJNE001509119]:     KVP = Kreisverkehrsplatz
-[^F812806_51_BJNR614410011BJNE001509119]: 
+[^f825743_06_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Fürth.
+[^f825743_07_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Oberallgäu.
+[^f825743_08_BJNR614410011BJNE001510119]:     GVZ = Güterverkehrszentrum.
+[^f825743_09_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Ludwigslust-Parchim.
+[^f825743_10_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Augsburg.
+[^f825743_11_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Hof.
+[^f825743_12_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Aichach-Friedberg.
+[^f825743_13_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Würzburg.
+[^f825743_14_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Regensburg.
+[^f825743_15_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Nürnberger Land.
+[^f825743_16_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Schwandorf.
+[^f825743_17_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Ostallgäu.
+[^f825743_18_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Tirschenreuth.
+[^f825743_19_BJNR614410011BJNE001510119]:     Kreisstraße in der Stadt Regensburg.
+[^f825743_20_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Neuburg-Schrobenhausen.
+[^f825743_21_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Eichstätt.
+[^f825743_22_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Straubing-Bogen.
+[^f825743_23_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Dingolfing-Landau.
+[^f825743_24_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Aschaffenburg.
+[^f825743_25_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Amberg-Sulzbach.
+[^f825743_26_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Schweinfurt.
+[^f825743_27_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Bad Kissingen.
+[^f825743_28_BJNR614410011BJNE001510119]:     Kreisstraße 13 neu im Landkreis Coburg.
+[^f825743_29_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Landshut.
+[^f825743_30_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Landshut.
+[^f825743_31_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Altötting.
+[^f825743_32_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Freising.
+[^f825743_33_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Wunsiedel.
+[^f825743_34_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Miltenberg.
+[^f825743_35_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Passau.
+[^f825743_36_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Erding.
+[^f825743_37_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Ansbach.
+[^f825743_38_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Weiden i. d. OPf.
+[^f825743_39_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Neumarkt i. d. OPf.
+[^f825743_40_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Ingolstadt.
+[^f825743_41_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Neustadt a. d. Aisch-Bad Windsheim.
+[^f825743_42_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Augsburg.
+[^f825743_43_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Bamberg.
+[^f825743_44_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Donau-Ries.
+[^f825743_45_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Landsberg am Lech.
+[^f825743_46_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis München.
+[^f825743_47_BJNR614410011BJNE001510119]:     Kommunale Straße in der Baulast der Stadt Memmingen.
+[^f825743_48_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Neu-Ulm.
+[^f825743_49_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Roth.
+[^f825743_50_BJNR614410011BJNE001510119]:     Kreisstraße in der Stadt Neubrandenburg.
+[^f825743_51_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Rostock.
+[^f825743_52_BJNR614410011BJNE001510119]:     Kreisstraße im Landkreis Nordwestmecklenburg.
+[^f825743_53_BJNR614410011BJNE001510119]:     KVP = Kreisverkehrsplatz.
+[^f825743_54_BJNR614410011BJNE001510119]: 

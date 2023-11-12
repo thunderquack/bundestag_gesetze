@@ -16,19 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.6.2020 I 1403
-
-Änderung durch
-:   Art. 18 G v. 25.6.2021 I 2154 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 10.8.2021 I 3415 (Nr. 53) ist berücksichtigt
-
-Änderung durch
-:   Art. 30 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 10.3.2023 I Nr. 64
 
 
 ## Erster Teil - Der Patentanwalt
@@ -50,23 +38,22 @@ Aufgabenbereich ein unabhängiges Organ der Rechtspflege.
 
 ### § 3 Recht zur Beratung und Vertretung
 
-(1) Der Patentanwalt ist nach Maßgabe dieses Gesetzes unabhängiger
-Berater und Vertreter.
+(1) Der Patentanwalt leistet nach Maßgabe dieses Gesetzes unabhängige
+Beratung und Vertretung.
 
 (2) Der Patentanwalt hat die berufliche Aufgabe,
 
 1.  in Angelegenheiten der Erlangung, Aufrechterhaltung, Verteidigung und
     Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines
     Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer
-    Topographie, einer Marke oder eines anderen nach dem Markengesetz
-    geschützten Kennzeichens (gewerbliche Schutzrechte) oder eines
-    Sortenschutzrechts andere zu beraten und Dritten gegenüber zu
-    vertreten;
+    Topographie, einer Marke, eines anderen nach dem Markengesetz
+    geschützten Kennzeichens oder eines Sortenschutzrechts (gewerbliche
+    Schutzrechte) andere zu beraten und Dritten gegenüber zu vertreten;
 
 
-2.  in Angelegenheiten, die zum Geschäftskreis des Patentamts und des
-    Patentgerichts gehören, andere vor dem Patentamt und dem Patentgericht
-    zu vertreten;
+2.  in Angelegenheiten, die zum Geschäftskreis des Deutschen Patent- und
+    Markenamts oder des Bundespatentgerichts gehören, andere vor diesen
+    Stellen zu vertreten;
 
 
 3.  in Verfahren wegen Erklärung der Nichtigkeit oder Zurücknahme des
@@ -80,31 +67,25 @@ Berater und Vertreter.
 
 
 
-(3) Der Patentanwalt ist ferner befugt,
+(3) Der Patentanwalt ist ferner befugt, in Angelegenheiten, für die
+eine Frage von Bedeutung ist, die ein gewerbliches Schutzrecht, ein
+Datenverarbeitungsprogramm, eine nicht geschützte Erfindung oder eine
+sonstige die Technik bereichernde Leistung oder eine nicht geschützte,
+den Pflanzenbau bereichernde Leistung auf dem Gebiet der
+Pflanzenzüchtung betrifft oder für die eine mit einer solchen Frage
+zusammenhängende Rechtsfrage von Bedeutung ist,
 
-1.  in Angelegenheiten, für die eine Frage von Bedeutung ist, die ein
-    gewerbliches Schutzrecht, ein Datenverarbeitungsprogramm, eine nicht
-    geschützte Erfindung oder eine sonstige die Technik bereichernde
-    Leistung, ein Sortenschutzrecht oder eine nicht geschützte, den
-    Pflanzenbau bereichernde Leistung auf dem Gebiet der Pflanzenzüchtung
-    betrifft oder für die eine mit einer solchen Frage zusammenhängende
-    Rechtsfrage von Bedeutung ist, andere zu beraten und Dritten gegenüber
-    zu vertreten, auch wenn die Voraussetzungen des Absatzes 2 Nr. 1 nicht
-    vorliegen;
-
-
-2.  bei der Verlängerung der Schutzfrist eines eingetragenen Designs
-    andere vor den Amtsgerichten zu vertreten;
+1.  andere zu beraten und Dritten gegenüber zu vertreten, auch wenn die
+    Voraussetzungen des Absatzes 2 Nummer 1 nicht vorliegen;
 
 
-3.  in den in Nummer 1 bezeichneten Angelegenheiten andere vor
-    Schiedsgerichten und vor anderen als den in Absatz 2 bezeichneten
-    Verwaltungsbehörden zu vertreten.
+2.  andere vor Schiedsgerichten und vor anderen als den in Absatz 2
+    bezeichneten Verwaltungsbehörden zu vertreten.
 
 
 
 
-(4) Jedermann hat das Recht, sich von einem Patentanwalt seiner Wahl
+(4) Jede Person hat das Recht, sich von einem Patentanwalt ihrer Wahl
 nach Maßgabe der gesetzlichen Vorschriften beraten und vertreten zu
 lassen.
 
@@ -120,25 +101,55 @@ Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im
 Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz
 oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend
 gemacht wird, sowie in Rechtsbeschwerdeverfahren gegen Beschlüsse der
-Beschwerdesenate des Patentgerichts ist auf Antrag einer Partei ihrem
-Patentanwalt das Wort zu gestatten.
+Beschwerdesenate des Bundespatentgerichts ist auf Antrag einer Partei
+ihrem Patentanwalt das Wort zu gestatten.
 
-(2) Das gleiche gilt in sonstigen Rechtsstreitigkeiten, soweit für die
-Entscheidung eine Frage von Bedeutung ist, die ein gewerbliches
-Schutzrecht, ein eingetragenes Design, ein Datenverarbeitungsprogramm,
-eine nicht geschützte Erfindung oder eine sonstige die Technik
-bereichernde Leistung, ein Sortenschutzrecht oder eine nicht
-geschützte, den Pflanzenbau bereichernde Leistung auf dem Gebiet der
-Pflanzenzüchtung betrifft, oder soweit für die Entscheidung eine mit
-einer solchen Frage unmittelbar zusammenhängende Rechtsfrage von
-Bedeutung ist.
+(2) Das Gleiche gilt in sonstigen Rechtsstreitigkeiten, für deren
+Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder
+Rechtsfragen von Bedeutung ist.
 
 (3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist
 der Patentanwalt in den Fällen der Absätze 1 und 2 als
 Bevollmächtigter vertretungsbefugt.
 
 
-## Zweiter Teil - Zulassung des Patentanwalts
+### § 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe
+
+(1) Wird in einem Rechtsstreit, in dem ein Anspruch aus einem der in §
+4 Absatz 1 genannten Gesetze geltend gemacht wird oder für dessen
+Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder
+Rechtsfragen von Bedeutung ist, einer Partei Prozesskostenhilfe
+bewilligt, so kann ihr auf Antrag zu ihrer Beratung und zur
+Unterstützung eines Rechtsanwalts ein zur Vertretung bereiter
+Patentanwalt beigeordnet werden, wenn dies zur sachgemäßen
+Rechtsverfolgung oder Rechtsverteidigung erforderlich erscheint.
+
+(2) § 117 Absatz 1 Satz 1 und 2, die §§ 118 und 119 Absatz 1 Satz 1, §
+121 Absatz 3 und 5, § 122 Absatz 1 Nummer 1 Buchstabe b und Nummer 3
+sowie die §§ 124, 126 und 127 der Zivilprozessordnung gelten
+entsprechend.
+
+(3) Auf die Erstattung der Gebühren und Auslagen des beigeordneten
+Patentanwalts sind die Vorschriften des
+Rechtsanwaltsvergütungsgesetzes, die für die Vergütung bei
+Prozesskostenhilfe gelten, sinngemäß mit folgenden Maßgaben
+anzuwenden:
+
+1.  der Patentanwalt erhält eine Gebühr mit einem Gebührensatz von 1,0
+    und, wenn er eine mündliche Verhandlung oder einen Beweistermin
+    wahrgenommen hat, eine Gebühr mit einem Gebührensatz von 2,0 nach § 49
+    des Rechtsanwaltsvergütungsgesetzes;
+
+
+2.  Reisekosten für die Wahrnehmung einer mündlichen Verhandlung oder
+    eines Beweistermins werden nur ersetzt, wenn das Prozessgericht vor
+    dem Termin die Teilnahme des Patentanwalts für geboten erklärt hat.
+
+
+
+
+
+## Zweiter Teil - Zulassung und allgemeine Vorschriften
 
 
 
@@ -153,35 +164,50 @@ Bevollmächtigter vertretungsbefugt.
 ##### § 5 Zugang zum Beruf des Patentanwalts
 
 (1) Zur Patentanwaltschaft kann nur zugelassen werden, wer nach Absatz
-2 die Befähigung für den Beruf des Patentanwalts erlangt hat oder über
-eine Bescheinigung nach § 2 Absatz 5 des Gesetzes über die Tätigkeit
-europäischer Patentanwälte in Deutschland verfügt. Das
-Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
+2 oder nach § 10a Absatz 4 die Befähigung für den Beruf des
+Patentanwalts erlangt hat oder über eine Bescheinigung nach § 2 Absatz
+5 des Gesetzes über die Tätigkeit europäischer Patentanwälte in
+Deutschland verfügt. Das Berufsqualifikationsfeststellungsgesetz ist
+nicht anzuwenden.
 
 (2) Die Befähigung für den Beruf des Patentanwalts hat erlangt, wer
-die technische Befähigung (§ 6) erworben und danach die Prüfung über
-die erforderlichen Rechtskenntnisse (§ 8) bestanden hat und mindestens
-ein halbes Jahr bei einem Patentanwalt tätig gewesen ist. Die
-Ausbildung bei einem Patentanwalt (§ 7 Abs. 1) ist auf die Tätigkeit
-nach Satz 1 anzurechnen.
 
-(3) Der Prüfung über die erforderlichen Rechtskenntnisse muß die
-Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes (§ 7)
-vorausgehen.
+1.  die technische Befähigung (§ 6) erworben hat,
+
+
+2.  die Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes (§ 7)
+    absolviert hat,
+
+
+3.  nach absolvierter Ausbildung die Prüfung über die erforderlichen
+    Rechtskenntnisse (§ 8) bestanden hat und
+
+
+4.  in dem Fall, in dem nicht lediglich eine Zulassung als
+    Syndikuspatentanwalt erfolgen soll, nach bestandener Prüfung
+    mindestens ein halbes Jahr bei einem Patentanwalt tätig gewesen ist.
+
+
+
+Die Ausbildung bei einem Patentanwalt nach § 7 Absatz 1 ist auf die
+Tätigkeit nach Satz 1 Nummer 4 anzurechnen. Ein Syndikuspatentanwalt
+gilt nicht als Patentanwalt im Sinne des Satzes 1 Nummer 4 und des
+Satzes 2.
+
+(3) (weggefallen)
 
 
 ##### § 6 Technische Befähigung
 
 (1) Die technische Befähigung hat erworben, wer im Geltungsbereich
-dieses Gesetzes sich als ordentlicher Studierender einer
-wissenschaftlichen Hochschule dem Studium naturwissenschaftlicher oder
-technischer Fächer gewidmet und dieses Studium durch eine staatliche
-oder akademische Prüfung mit Erfolg abgeschlossen hat. Außerdem muß
-ein Jahr praktischer technischer Tätigkeit abgeleistet sein; der
-Präsident des Patentamts kann hiervon auf Antrag insoweit Befreiung
-erteilen, als die Bewerberin oder der Bewerber nachweist, dass sie
-oder er die für den Beruf des Patentanwalts erforderliche praktische
-technische Erfahrung auf andere Weise erworben hat.
+dieses Gesetzes an einer wissenschaftlichen Hochschule ein Studium
+naturwissenschaftlicher oder technischer Fächer durch eine staatliche
+oder akademische Prüfung erfolgreich abgeschlossen hat. Außerdem muß
+ein Jahr praktischer technischer Tätigkeit abgeleistet sein; das
+Deutsche Patent- und Markenamt kann hiervon auf Antrag insoweit
+Befreiung erteilen, als die Bewerberin oder der Bewerber nachweist,
+dass sie oder er die für den Beruf des Patentanwalts erforderliche
+praktische technische Erfahrung auf andere Weise erworben hat.
 
 (2) Die Voraussetzungen für den Erwerb der technischen Befähigung
 werden durch ein Studium an einer wissenschaftlichen Hochschule
@@ -189,9 +215,9 @@ außerhalb des Geltungsbereichs dieses Gesetzes sowie durch eine dort
 abgelegte staatliche oder akademische Abschlußprüfung erfüllt, soweit
 diese im Geltungsbereich dieses Gesetzes anerkannt oder dem Studium
 und der Abschlußprüfung im Sinne des Absatzes 1 gleichwertig sind.
-Über die Gleichwertigkeit entscheidet der Präsident des Patentamts im
-Benehmen mit der zuständigen obersten Landesbehörde des Landes, in dem
-das Patentamt seinen Sitz hat.
+Über die Gleichwertigkeit entscheidet das Deutsche Patent- und
+Markenamt im Benehmen mit der zuständigen obersten Landesbehörde des
+Landes, in dem das es seinen Sitz hat.
 
 
 ##### § 7 Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes
@@ -201,24 +227,25 @@ technischen Befähigung mindestens 34 Monate lang im Inland auf dem
 Gebiet des gewerblichen Rechtsschutzes ausgebildet worden sein, und
 zwar wenigstens 26 Monate bei einem Patentanwalt oder bei einem
 Patentassessor in der Patentabteilung eines Unternehmens, zwei Monate
-beim Patentamt und sechs Monate beim Patentgericht. Eine Ausbildung
-bei einem Gericht für Patentstreitsachen ist bis zu zwei Monaten auf
-die Ausbildung bei einem Patentanwalt oder Patentassessor anzurechnen.
+beim Deutschen Patent- und Markenamt und sechs Monate beim
+Bundespatentgericht. Eine Ausbildung bei einem Gericht für
+Patentstreitsachen ist bis zu zwei Monaten auf die Ausbildung bei
+einem Patentanwalt oder Patentassessor anzurechnen.
 
-(2) Der Präsident des Patentamts kann auf Antrag eine praktische
+(2) Das Deutsche Patent- und Markenamt kann auf Antrag eine praktische
 Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes, die im
 Ausland durchgeführt wird, bis zu zwölf Monaten auf die nach Absatz 1
 vorgeschriebene Ausbildung bei einem Patentanwalt oder einem
 Patentassessor anrechnen. Der Antrag ist vor Beginn der Ausbildung im
 Ausland zu stellen.
 
-(2a) Der Präsident des Patentamts bestimmt nach Anhörung der
-Patentanwaltskammer Leitlinien für die Voraussetzungen, unter denen
-eine im Ausland durchgeführte Ausbildung nach Absatz 2 anzuerkennen
-ist. In den Leitlinien sind insbesondere die Anforderungen an die
-Organisation und den Inhalt der Ausbildung sowie an die ausbildende
-Person zu regeln. Die Leitlinien sind auf der Internetseite des
-Patentamts zu veröffentlichen.
+(2a) Der Präsident des Deutschen Patent- und Markenamts bestimmt nach
+Anhörung der Patentanwaltskammer Leitlinien für die Voraussetzungen,
+unter denen eine im Ausland durchgeführte Ausbildung nach Absatz 2
+anzuerkennen ist. In den Leitlinien sind insbesondere die
+Anforderungen an die Organisation und den Inhalt der Ausbildung sowie
+an die ausbildende Person zu regeln. Die Leitlinien sind auf der
+Internetseite des Deutschen Patent- und Markenamts zu veröffentlichen.
 
 (3) Die Bewerberin oder der Bewerber muß die Ausbildung bei einem
 Patentanwalt oder Patentassessor durch ein Studium im allgemeinen
@@ -239,11 +266,11 @@ bei einem Patentanwalt oder Patentassessor durchgeführt werden kann.
 (5) Ein besonderer Studiengang im allgemeinen Recht, der für die
 Ausbildung von Bewerberinnen und Bewerbern für den Beruf des
 Patentanwalts oder Patentassessors eingerichtet ist, erfüllt die
-Voraussetzungen des Absatzes 3 nur, wenn der Präsident des Patentamts
-dies festgestellt hat. Er holt vor seiner Entscheidung die
-Stellungnahme des Vorstandes der Patentanwaltskammer ein. Die
-Entscheidung ist im "Blatt für Patent-, Muster- und Zeichenwesen"
-bekanntzugeben.
+Voraussetzungen des Absatzes 3 nur, wenn der Präsident des Deutschen
+Patent- und Markenamts dies festgestellt hat. Vor der Entscheidung
+sind der Präsident des Bundespatentgerichts und die
+Patentanwaltskammer anzuhören. Die Entscheidung ist im "Blatt für
+Patent-, Muster- und Zeichenwesen" bekanntzugeben.
 
 
 ##### § 8 Prüfung
@@ -261,17 +288,16 @@ Prüfung kann auch elektronisch durchgeführt werden.
 
 ##### § 9 Prüfungskommission
 
-Die Prüfungskommission wird bei dem Patentamt gebildet. Das Bundesamt
-für Justiz beruft in diese Kommission Mitglieder des Patentgerichts
-und des Patentamts sowie Patentanwälte und Patentassessoren. Vor der
-Berufung der Patentanwälte ist der Vorstand der Patentanwaltskammer zu
-hören.
+Die Prüfungskommission wird beim Deutschen Patent- und Markenamt
+gebildet. Das Deutsche Patent- und Markenamt beruft in diese
+Kommission Mitglieder des Bundespatentgerichts und des Deutschen
+Patent- und Markenamts sowie Patentanwälte und Patentassessoren.
 
 
 ##### § 10 Zulassung zur Prüfung
 
-(1) Über den Antrag auf Zulassung zur Prüfung entscheidet der
-Präsident des Patentamts.
+(1) Über den Antrag auf Zulassung zur Prüfung entscheidet das Deutsche
+Patent- und Markenamt.
 
 (2) Der Antrag ist abzulehnen, wenn die Bewerberin oder der Bewerber
 den Erwerb der technischen Befähigung (§ 6) oder die vorgeschriebene
@@ -285,10 +311,62 @@ Bewerberin oder dem Bewerber zuzustellen.
 Bewerber innerhalb eines Monats nach Zustellung bei dem
 Oberlandesgericht den Antrag auf gerichtliche Entscheidung stellen.
 
-(5) Hat der Präsident des Patentamts einen Antrag auf Zulassung zur
-Prüfung ohne zureichenden Grund innerhalb von drei Monaten nicht
+(5) Hat das Deutsche Patent- und Markenamt einen Antrag auf Zulassung
+zur Prüfung ohne zureichenden Grund innerhalb von drei Monaten nicht
 beschieden, so kann die Bewerberin oder der Bewerber den Antrag auf
 gerichtliche Entscheidung stellen.
+
+
+##### § 10a Patentsachbearbeiter
+
+(1) Abweichend von § 10 Absatz 2 kann zur Prüfung auch zugelassen
+werden, wer
+
+1.  ein naturwissenschaftliches oder technisches Studium abgeschlossen
+    hat, das
+
+    a)  den Anforderungen des § 6 Absatz 1 Satz 1 oder Absatz 2 entsprochen
+        hat oder
+
+
+    b)  an einer Fachhochschule oder Hochschule für angewandte Wissenschaften
+        absolviert worden ist,
+
+
+
+
+
+2.  nach dem Abschluss des Studiums im Inland mindestens zehn Jahre auf
+    Grund eines ständigen Dienst- oder ähnlichen
+    Beschäftigungsverhältnisses für einen Auftraggeber hauptberuflich eine
+    Beratungs- oder Vertretungstätigkeit auf dem Gebiet des gewerblichen
+    Rechtsschutzes ausgeübt hat, wobei die Tätigkeit innerhalb der letzten
+    fünf Jahre vor dem Antrag auf Zulassung zumindest drei Jahre ausgeübt
+    worden sein muss, und
+
+
+3.  ein juristisches Studium im Sinne des § 7 Absatz 3 und 5 erfolgreich
+    abgeschlossen hat.
+
+
+
+
+(2) Für Bewerberinnen und Bewerber, die die europäische
+Eignungsprüfung für die vor dem Europäischen Patentamt zugelassenen
+Vertreter bestanden haben, verkürzt sich die Frist nach Absatz 1
+Nummer 2 auf acht Jahre.
+
+(3) § 7 Absatz 4 gilt für die Anrechnung des juristischen Studiums auf
+die in Absatz 1 Nummer 2 bezeichnete Tätigkeit entsprechend. Zudem ist
+eine Tätigkeit als technisches Mitglied des Deutschen Patent- und
+Markenamts oder des Bundespatentgerichts auf die Tätigkeit
+anzurechnen. Eine mit der Tätigkeit nach Absatz 1 Nummer 2
+vergleichbare Tätigkeit im Ausland ist mit bis zu drei Jahren
+anzurechnen.
+
+(4) Personen, die nach Absatz 1 zur Prüfung zugelassen worden sind und
+diese bestanden haben, erlangen die Befähigung für den Beruf des
+Patentanwalts.
 
 
 ##### § 11 Patentassessor
@@ -309,7 +387,7 @@ bis 11) zu erlassen, insbesondere über den Beginn und Gang der
 Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes, die
 Festlegung des fachlichen Inhalts des ergänzenden Studiums (§ 7 Abs.
 3), die Rechte und Pflichten des Patentanwalts und des Patentassessors
-als Ausbilder, die Rechte und Pflichten der Bewerberin oder des
+als Ausbildendem, die Rechte und Pflichten der Bewerberin oder des
 Bewerbers während der Ausbildung, die Zusammensetzung und den
 Geschäftsgang der Prüfungskommission, die Amtszeit der Mitglieder der
 Prüfungskommission, die dem Antrag auf Zulassung zur Prüfung
@@ -322,7 +400,7 @@ der Bewerberinnen und Bewerber vorsieht, ist für ihren Erlaß das
 Einvernehmen mit dem Bundesministerium der Finanzen erforderlich.
 
 (3) Bewerberinnen und Bewerber, die zur Prüfung zugelassen werden,
-haben an den Präsidenten des Patentamts eine Prüfungsgebühr zu
+haben an das Deutsche Patent- und Markenamt eine Prüfungsgebühr zu
 entrichten. Das Bundesministerium der Justiz und für Verbraucherschutz
 wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates Vorschriften über die Höhe der Prüfungsgebühr, deren
@@ -362,8 +440,8 @@ Die Zulassung zur Patentanwaltschaft ist zu versagen,
 
 4.  wenn gegen die antragstellende Person im Verfahren über die
     Richteranklage auf Entlassung oder im Disziplinarverfahren auf
-    Entfernung aus dem Dienst in der Rechtspflege oder aus dem Dienst als
-    Angehöriger des Patentamts rechtskräftig erkannt worden ist;
+    Entfernung aus dem Dienst in der Rechtspflege oder im Deutschen
+    Patent- und Markenamt rechtskräftig erkannt worden ist;
 
 
 5.  wenn die antragstellende Person sich eines Verhaltens schuldig gemacht
@@ -662,9 +740,8 @@ Interesse der Rechtspflege erforderlich ist.
 
 ##### § 27 Kanzleien in anderen Staaten
 
-(1) Den Vorschriften dieses Abschnitts steht nicht entgegen, daß der
-Patentanwalt auch in anderen Staaten Kanzleien einrichtet oder
-unterhält.
+(1) Der Patentanwalt darf auch in anderen Staaten Kanzleien einrichten
+oder unterhalten.
 
 (2) Die Patentanwaltskammer befreit einen Patentanwalt, der seine
 Kanzlei ausschließlich in anderen Staaten einrichtet, von der Pflicht
@@ -698,7 +775,8 @@ Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 ##### § 29 Patentanwaltsverzeichnis, Verordnungsermächtigung
 
 (1) Die Patentanwaltskammer führt ein elektronisches Verzeichnis der
-zugelassenen Patentanwälte. Sie nimmt Neueintragungen nur nach
+zugelassenen Patentanwälte und zugelassene
+Berufsausübungsgesellschaften. Sie nimmt Neueintragungen nur nach
 Durchführung eines Identifizierungsverfahrens vor. Die
 Patentanwaltskammer trägt die datenschutzrechtliche Verantwortung für
 die von ihr in das Verzeichnis eingegebenen Daten, insbesondere für
@@ -709,7 +787,8 @@ der Rechtsuchenden sowie anderer am Rechtsverkehr Beteiligter. Die
 Einsicht in das Verzeichnis steht jedem unentgeltlich zu. Die Suche in
 dem Verzeichnis wird durch ein elektronisches Suchsystem ermöglicht.
 
-(3) In das Verzeichnis hat die Patentanwaltskammer einzutragen:
+(3) Die Patentanwaltskammer trägt in ihr Verzeichnis zu jedem
+Patentanwalt Folgendes ein:
 
 1.  den Familiennamen und den oder die Vornamen des Patentanwalts;
 
@@ -748,32 +827,120 @@ dem Verzeichnis wird durch ein elektronisches Suchsystem ermöglicht.
 
 
 
-(4) Die Eintragungen zu einem Patentanwalt in dem Verzeichnis werden
-gesperrt, sobald dessen Mitgliedschaft in der Patentanwaltskammer
-endet. Die Eintragungen werden anschließend nach angemessener Zeit
-gelöscht. Wird ein Abwickler bestellt, erfolgt keine Sperrung; eine
-bereits erfolgte Sperrung ist aufzuheben. Eine Löschung erfolgt erst
-nach Beendigung der Abwicklung.
+(4) Die Patentanwaltskammer trägt in ihr Verzeichnis zu jeder
+zugelassenen Berufsausübungsgesellschaft Folgendes ein:
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
+1.  den Namen oder die Firma;
+
+
+2.  die Rechtsform;
+
+
+3.  die Anschrift der Kanzlei;
+
+
+4.  den Namen und die Anschrift bestehender weiterer Kanzleien,
+    Zweigstellen und Zweigniederlassungen;
+
+
+5.  die von der Berufsausübungsgesellschaft mitgeteilten
+    Telekommunikationsdaten und Internetadressen der Kanzlei und
+    bestehender weiterer Kanzleien, Zweigstellen und Zweigniederlassung;
+
+
+6.  folgende Angaben zu den Gesellschaftern:
+
+    a)  bei natürlichen Personen: den Familiennamen, den oder die Vornamen und
+        den in der Berufsausübungsgesellschaft ausgeübten Beruf;
+
+
+    b)  bei juristischen Personen und rechtsfähigen Personengesellschaften:
+        deren Namen oder Firma, deren Sitz und, sofern gesetzlich vorgesehen,
+        das für sie zuständige Register und die Registernummer;
+
+
+
+
+
+7.  bei juristischen Personen: die Familiennamen, den oder die Vornamen
+    und die Berufe der Mitglieder des zur gesetzlichen Vertretung
+    berufenen Organs;
+
+
+8.  bei rechtsfähigen Personengesellschaften: den Familiennamen, den oder
+    die Vornamen und den Beruf der Mitglieder des Geschäftsführungs- und
+    Vertretungsorgans;
+
+
+9.  den Zeitpunkt der Zulassung;
+
+
+10. bei ausländischen Berufsausübungsgesellschaften: den Familiennamen,
+    den oder die Vornamen und den Beruf der Mitglieder der
+    Geschäftsleitung der deutschen Zweigniederlassung, den Sitz, den Ort
+    der Hauptniederlassung und, sofern nach dem Recht des Staats ihres
+    Sitzes vorgesehen, das für sie zuständige Register und die
+    Registernummer;
+
+
+11. bestehende Berufs- und Vertretungsverbote sowie bestehende, sofort
+    vollziehbare Rücknahmen und Widerrufe der Zulassung;
+
+
+12. die durch die Patentanwaltskammer erfolgte Bestellung einer Vertretung
+    oder eines Abwicklers sowie die Benennung eines
+    Zustellbevollmächtigten unter Angabe von Familienname, Vorname oder
+    Vornamen und Anschrift der Vertretung, des Abwicklers oder des
+    Zustellungsbevollmächtigten;
+
+
+13. im Fall des § 27 Absatz 2 den Inhalt der Befreiung.
+
+
+
+
+(5) Die Eintragungen zu einem Patentanwalt und einer zugelassenen
+Berufsausübungsgesellschaft in dem Verzeichnis werden gesperrt, sobald
+deren Mitgliedschaft in der Patentanwaltskammer endet. Die
+Eintragungen werden anschließend nach angemessener Zeit gelöscht. Wird
+ein Abwickler bestellt, erfolgt keine Sperrung; eine bereits erfolgte
+Sperrung ist aufzuheben. Eine Löschung erfolgt erst nach Beendigung
+der Abwicklung.
+
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Einzelheiten der Datenerhebung für das elektronische Verzeichnis der
 Patentanwaltskammer, der Führung des Verzeichnisses und der
 Einsichtnahme in das Verzeichnis.
+
+(7) Die in das Verzeichnis nach Absatz 1 Satz 1 aufzunehmenden
+Patentanwälte und Berufsausübungsgesellschaften sind verpflichtet, der
+Patentanwaltskammer unverzüglich
+
+1.  sämtliche Daten, die für die Eintragung in das Verzeichnis nach den
+    Absätzen 3 und 4 erforderlich sind, zu übermitteln,
+
+
+2.  Tatsachen mitzuteilen, die eine Änderung oder Löschung der
+    eingetragenen Daten erforderlich machen.
+
+
+
 
 
 ### Zweiter Abschnitt - Verwaltungsverfahren
 
 
 
-#### § 30 Ergänzende Anwendung des Verwaltungsverfahrensgesetzes
+#### § 30 Ergänzende Anwendung der Verwaltungsverfahrensgesetze
 
 (1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf
-Grund dieses Gesetzes erlassenen Rechtsverordnung gilt, soweit nichts
-anderes bestimmt ist, das Verwaltungsverfahrensgesetz. Die
-Verwaltungsverfahren nach diesem Gesetz können über eine einheitliche
-Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes
-abgewickelt werden.
+Grund dieses Gesetzes erlassenen Rechtsverordnung gelten, soweit
+nichts anderes bestimmt ist, für Behörden des Bundes das
+Verwaltungsverfahrensgesetz des Bundes und für Behörden der Länder die
+Verwaltungsverfahrensgesetze der Länder. Die Verwaltungsverfahren nach
+diesem Gesetz können über eine einheitliche Stelle nach den
+Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 (2) Über Anträge ist innerhalb einer Frist von drei Monaten zu
 entscheiden; § 42a Absatz 2 Satz 2 bis 4 des
@@ -804,25 +971,37 @@ ein Vertreter bestellt, soll ein Patentanwalt oder ein Rechtsanwalt
 bestellt werden.
 
 
-#### § 34 Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten
+#### § 34 Ermittlung des Sachverhalts und Übermittlung von Daten
 
 (1) Die Patentanwaltskammer kann zur Ermittlung des Sachverhalts in
 Zulassungssachen eine unbeschränkte Auskunft nach § 41 Absatz 1 Nummer
 11 des Bundeszentralregistergesetzes als Regelanfrage einholen.
 
-(2) Gerichte und Behörden übermitteln personenbezogene Daten, deren
-Kenntnis aus Sicht der übermittelnden Stelle für die Zulassung zur
-Patentanwaltschaft, die Entstehung oder das Erlöschen der
-Mitgliedschaft in der Patentanwaltskammer, die Rücknahme oder den
-Widerruf einer Erlaubnis oder Befreiung oder zur Einleitung eines
-Rügeverfahrens oder eines berufsgerichtlichen Verfahrens erforderlich
-ist, der Patentanwaltskammer oder der für die Entscheidung zuständigen
-Stelle. Die Übermittlung unterbleibt, soweit
+(2) Gerichte und Behörden einschließlich der Berufskammern übermitteln
+der Patentanwaltskammer oder der für die Entscheidung zuständigen
+Stelle diejenigen Daten über Personen und
+Berufsausübungsgesellschaften, deren Kenntnis aus Sicht der
+übermittelnden Stelle erforderlich ist für
 
-1.  durch die Übermittlung schutzwürdige Interessen des Betroffenen
-    beeinträchtigt würden und das Informationsinteresse der
-    Patentanwaltskammer oder der für die Entscheidung zuständigen Stelle
-    das Interesse des Betroffenen am Unterbleiben der Übermittlung nicht
+1.  die Zulassung zur Patentanwaltschaft oder als
+    Berufsausübungsgesellschaft oder die Rücknahme oder den Widerruf einer
+    solchen Zulassung,
+
+
+2.  die Rücknahme oder den Widerruf einer Erlaubnis oder Befreiung oder
+
+
+3.  die Einleitung oder Durchführung eines berufsaufsichtlichen
+    Verfahrens.
+
+
+
+
+(3) Die Übermittlung nach Absatz 2 unterbleibt, soweit
+
+1.  sie schutzwürdige Interessen einer betroffenen Person beeinträchtigen
+    würde und das Informationsinteresse des Empfängers das Interesse der
+    betroffenen Person an dem Unterbleiben der Übermittlung nicht
     überwiegt oder
 
 
@@ -830,21 +1009,10 @@ Stelle. Die Übermittlung unterbleibt, soweit
 
 
 
-Informationen über die Höhe rückständiger Steuerschulden können
-entgegen § 30 der Abgabenordnung zum Zwecke der Vorbereitung des
-Widerrufs der Zulassung wegen Vermögensverfalls übermittelt werden;
-die Patentanwaltskammer darf die Steuerdaten nur für den Zweck
-verwenden, für den sie ihr übermittelt worden sind.
-
-(3) Ist ein Patentanwalt Mitglied einer Berufskammer eines anderen
-freien Berufs im Geltungsbereich dieses Gesetzes, darf die
-Patentanwaltskammer personenbezogene Daten über den Patentanwalt an
-die zuständige Berufskammer übermitteln, soweit die Kenntnis der
-Information aus der Sicht der übermittelnden Stelle zur Erfüllung der
-Aufgaben der anderen Berufskammer im Zusammenhang mit der Zulassung
-zum Beruf oder der Einleitung eines Rügeverfahrens oder
-berufsgerichtlichen Verfahrens erforderlich ist. Absatz 2 Satz 2 gilt
-entsprechend.
+Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für
+eine Berufskammer eines freien Berufs im Geltungsbereich dieses
+Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der
+Abgabenordnung.
 
 
 #### (XXXX) §§ 35 bis 38 (weggefallen)
@@ -899,14 +1067,41 @@ dem es sich um die bewußte Verbreitung von Unwahrheiten oder solche
 herabsetzenden Äußerungen handelt, zu denen andere Beteiligte oder der
 Verfahrensablauf keinen Anlaß gegeben haben.
 
-(4) Der Patentanwalt darf keine widerstreitenden Interessen vertreten.
+(4) Der Patentanwalt darf nicht tätig werden, wenn er einen anderen
+Mandanten in derselben Rechtssache bereits im widerstreitenden
+Interesse beraten oder vertreten hat. Das Tätigkeitsverbot gilt auch
+für Patentanwälte, die ihren Beruf gemeinschaftlich mit einem
+Patentanwalt ausüben, der nach Satz 1 nicht tätig werden darf. Ein
+Tätigkeitsverbot nach Satz 2 bleibt bestehen, wenn der nach Satz 1
+ausgeschlossene Patentanwalt die gemeinschaftliche Berufsausübung
+beendet. Die Sätze 2 und 3 sind nicht anzuwenden, wenn die betroffenen
+Mandanten der Tätigkeit des Patentanwalts nach umfassender Information
+in Textform zugestimmt haben und geeignete Vorkehrungen die Einhaltung
+der Verschwiegenheit des Patentanwalts sicherstellen. Ein
+Tätigkeitsverbot nach Satz 1, das gegenüber einer
+Berufsausübungsgesellschaft besteht, entfällt, wenn die
+Voraussetzungen des Satzes 4 erfüllt sind. Soweit es für die Prüfung
+eines Tätigkeitsverbots nach Satz 1 oder Satz 2 erforderlich ist,
+dürfen der Verschwiegenheitspflicht unterliegende Tatsachen einem
+Patentanwalt auch ohne Einwilligung des Mandanten offenbart werden.
 
-(5) Der Patentanwalt ist bei der Behandlung der ihm anvertrauten
+(5) Absatz 4 Satz 1 gilt entsprechend für die Tätigkeit als Bewerber
+für den Beruf des Patentanwalts im Rahmen der Ausbildung bei einem
+Patentanwalt. Absatz 4 Satz 2 ist nicht anzuwenden, wenn dem
+Tätigkeitsverbot nach Absatz 4 Satz 1 eine Tätigkeit nach Satz 1
+zugrunde liegt.
+
+(6) Absatz 4 Satz 1 gilt entsprechend für ein berufliches Tätigwerden
+des Patentanwalts außerhalb des Patentanwaltsberufs, wenn für ein
+patentanwaltliches Tätigwerden ein Tätigkeitsverbot nach Absatz 4 Satz
+1 bestehen würde.
+
+(7) Der Patentanwalt ist bei der Behandlung der ihm anvertrauten
 Vermögenswerte zu der erforderlichen Sorgfalt verpflichtet. Fremde
 Gelder sind unverzüglich an den Empfangsberechtigten weiterzuleiten
 oder auf ein Anderkonto einzuzahlen.
 
-(6) Der Patentanwalt ist verpflichtet, sich fortzubilden.
+(8) Der Patentanwalt ist verpflichtet, sich fortzubilden.
 
 
 #### § 39b Werbung
@@ -984,36 +1179,82 @@ erklären. Er hat den Schaden zu ersetzen, der aus einer schuldhaften
 Verzögerung dieser Erklärung entsteht.
 
 
-#### § 41 Tätigkeitsverbote
+#### § 41 Tätigkeitsverbote bei nichtpatentanwaltlicher Vorbefassung
 
-(1) Der Patentanwalt darf nicht tätig werden:
+(1) Der Patentanwalt darf nicht tätig werden, wenn er
 
-1.  wenn er in derselben Rechtssache als Richter, Schiedsrichter oder als
-    Angehöriger des öffentlichen Dienstes bereits tätig geworden ist;
+1.  in derselben Rechtssache bereits tätig geworden ist als
 
-
-2.  wenn er außerhalb seiner Patentanwaltstätigkeit oder einer sonstigen
-    Tätigkeit im Sinne des § 52a Abs. 1 Satz 1 mit derselben Angelegenheit
-    bereits befaßt gewesen ist oder mit einer solchen, die einen
-    vergleichbaren technischen oder naturwissenschaftlichen Gegenstand
-    oder Sachverhalt betrifft, geschäftlich oder beruflich befaßt ist;
-    dies gilt nicht, wenn die berufliche Tätigkeit beendet ist.
+    a)  Richter, Staatsanwalt, Angehöriger des öffentlichen Dienstes oder als
+        im Vorbereitungsdienst bei diesen Personen tätiger Referendar oder als
+        Bewerber für den Beruf des Patentanwalts im Rahmen der Ausbildung,
 
 
+    b)  Schiedsrichter, Schlichter oder Mediator oder
 
 
-(2) Dem Patentanwalt ist es untersagt, in derselben Angelegenheit oder
-in einer solchen, die einen vergleichbaren technischen oder
-naturwissenschaftlichen Gegenstand oder Sachverhalt betrifft, mit der
-er bereits als Patentanwalt befaßt gewesen ist, außerhalb seiner
-Patentanwaltstätigkeit oder einer sonstigen Tätigkeit im Sinne des §
-52a Abs. 1 Satz 1 geschäftlich oder beruflich tätig zu werden.
+    c)  Notar, Notarvertretung, Notariatsverwalter, Notarassessor oder als im
+        Vorbereitungsdienst bei einem Notar tätiger Referendar,
 
-(3) Die Verbote der Absätze 1 und 2 gelten auch für die mit dem
-Patentanwalt in Sozietät oder in sonstiger Weise zur
-gemeinschaftlichen Berufsausübung verbundenen oder verbunden gewesenen
-Patentanwälte und Angehörigen anderer Berufe und auch insoweit einer
-von diesen im Sinne der Absätze 1 und 2 befaßt war.
+
+
+
+
+2.  in derselben Angelegenheit, mit der er bereits als Insolvenzverwalter,
+    Nachlassverwalter, Testamentsvollstrecker, Betreuer oder in ähnlicher
+    Funktion befasst war, gegen den Träger des von ihm verwalteten
+    Vermögens vorgehen soll,
+
+
+3.  mit einer Angelegenheit, die einen vergleichbaren technischen oder
+    naturwissenschaftlichen Gegenstand oder Sachverhalt betrifft,
+    außerhalb seiner Patentanwaltstätigkeit im widerstreitenden Interesse
+    geschäftlich oder beruflich befasst gewesen ist oder
+
+
+4.  in derselben Angelegenheit außerhalb seiner Patentanwaltstätigkeit für
+    eine andere Partei bereits im widerstreitenden Interesse beruflich
+    tätig geworden ist.
+
+
+
+
+(2) Ein Tätigkeitsverbot gilt auch für Patentanwälte, die ihren Beruf
+gemeinschaftlich ausüben
+
+1.  mit einem Patentanwalt, der nach Absatz 1 nicht tätig werden darf,
+    oder
+
+
+2.  mit einem Angehörigen eines anderen Berufs nach § 52c Absatz 1 Satz 1,
+    dem ein Tätigwerden bei entsprechender Anwendung des Absatzes 1
+    untersagt wäre.
+
+
+
+Satz 1 ist nicht anzuwenden, soweit dem Tätigkeitsverbot nach Absatz 1
+eine Tätigkeit als Bewerber für den Beruf des Patentanwalts im Rahmen
+der Ausbildung nach Absatz 1 Nummer 1 Buchstabe a, als Referendar im
+Vorbereitungsdienst nach Absatz 1 Nummer 1 Buchstabe a oder c oder als
+wissenschaftlicher Mitarbeiter bei einem Patentanwalt oder in einer
+Berufsausübungsgesellschaft nach Absatz 1 Nummer 4 zugrunde liegt. Die
+Tätigkeit als wissenschaftlicher Mitarbeiter nach Satz 2 umfasst
+berufliche Tätigkeiten während des Erwerbs der technischen Befähigung
+(§ 6) und während der Ausbildung auf dem Gebiet des gewerblichen
+Rechtsschutzes (§ 7) bis zum Bestehen der Prüfung über die
+erforderlichen Rechtskenntnisse (§ 8).
+
+(3) Ein Tätigkeitsverbot nach Absatz 2 Satz 1 bleibt bestehen, wenn
+der nach Absatz 1 ausgeschlossene Patentanwalt die gemeinschaftliche
+Berufsausübung beendet. Absatz 2 Satz 1 findet in den Fällen, in denen
+das Tätigkeitsverbot auf Absatz 1 Nummer 3 oder 4 beruht, keine
+Anwendung, wenn die betroffenen Personen der Tätigkeit nach
+umfassender Information in Textform durch den Patentanwalt zugestimmt
+haben und geeignete Vorkehrungen die Verhinderung einer Offenbarung
+vertraulicher Informationen sicherstellen. Soweit es für die Prüfung
+eines Tätigkeitsverbots erforderlich ist, dürfen der Verschwiegenheit
+unterliegende Tatsachen einem Patentanwalt auch ohne Einwilligung der
+betroffenen Person offenbart werden.
 
 
 #### § 41a Angestellte Patentanwälte und Syndikuspatentanwälte
@@ -1077,12 +1318,22 @@ umfassen auch
 
 
 3.  erlaubte Rechtsdienstleistungen des Arbeitgebers gegenüber Dritten,
-    sofern es sich bei dem Arbeitgeber um einen Angehörigen der in § 52a
-    genannten sozietätsfähigen Berufe oder um eine
-    Berufsausübungsgesellschaft solcher Berufe handelt.
+    sofern es sich bei dem Arbeitgeber um einen Angehörigen der in § 52c
+    Absatz 1 Satz 1 Nummer 1 bis 3 genannten sozietätsfähigen Berufe oder
+    um eine Berufsausübungsgesellschaft solcher Berufe handelt.
 
 
 
+
+(6) Ist ein Arbeitgeber, der nicht den in § 52c Absatz 1 Satz 1 Nummer
+1 bis 3 genannten Berufen angehört, zur Erbringung von
+Rechtsdienstleistungen berechtigt, können diese auch durch den
+Syndikuspatentanwalt erbracht werden. Der Syndikuspatentanwalt muss in
+diesen Fällen darauf hinweisen, dass er keine patentanwaltliche
+Beratung im Sinne des § 3 Absatz 1 erbringt und ihm kein
+Zeugnisverweigerungsrecht nach § 53 der Strafprozessordnung zukommt.
+Die Erbringung von Rechtsdienstleistungen nach Satz 1 ist keine
+patentanwaltliche Tätigkeit im Sinne des Absatzes 2 Satz 1.
 
 
 #### § 41b Zulassung als Syndikuspatentanwalt
@@ -1116,10 +1367,10 @@ der Versicherungspflicht in der gesetzlichen Rentenversicherung nach §
 Sozialgesetzbuch an die bestandskräftige Entscheidung der
 Patentanwaltskammer nach Satz 1 gebunden.
 
-(3) Dem Antrag auf Zulassung ist eine Ausfertigung oder eine
-öffentlich beglaubigte Abschrift des Arbeitsvertrags oder der
-Arbeitsverträge beizufügen. Die Patentanwaltskammer kann die Vorlage
-weiterer Nachweise verlangen.
+(3) Dem Antrag auf Zulassung ist eine Ausfertigung oder eine amtlich
+beglaubigte Abschrift des Arbeitsvertrags oder der Arbeitsverträge
+beizufügen. Die Patentanwaltskammer kann die Vorlage weiterer
+Nachweise verlangen.
 
 (4) Das Zulassungsverfahren richtet sich nach den §§ 17 bis 19 mit der
 Maßgabe, dass
@@ -1157,7 +1408,12 @@ Absatz 2 Nummer 10. Die Zulassung als Syndikuspatentanwalt ist ferner
 ganz oder teilweise zu widerrufen, soweit die arbeitsvertragliche
 Gestaltung eines Arbeitsverhältnisses oder die tatsächlich ausgeübte
 Tätigkeit nicht mehr den Anforderungen des § 41a Absatz 2 bis 5
-entspricht. § 41b Absatz 2 gilt entsprechend.
+entspricht. § 41b Absatz 2 gilt entsprechend. Entgegen Satz 2 ist die
+Zulassung nicht zu widerrufen, wenn die tatsächlich ausgeübte
+Tätigkeit als Syndikuspatentanwalt unterbrochen wird, die
+Unterbrechung infolge ihrer Eigenart oder vertraglich im Voraus
+zeitlich begrenzt ist und das der Zulassung als Syndikuspatentanwalt
+zugrundeliegende Arbeitsverhältnis fortbesteht.
 
 (3) Werden nach einer Zulassung nach § 41b weitere Arbeitsverhältnisse
 als Syndikuspatentanwalt aufgenommen oder tritt innerhalb bereits
@@ -1181,7 +1437,7 @@ Arbeitsverhältnisses unverzüglich anzuzeigen:
 
 
 Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder
-eine öffentlich beglaubigte Abschrift des geänderten Arbeitsvertrags
+eine amtlich beglaubigte Abschrift des geänderten Arbeitsvertrags
 beizufügen. § 50 gilt entsprechend.
 
 
@@ -1248,21 +1504,21 @@ Vertretung bestellen.
 
 #### § 43 Pflicht zu Übernahme der Vertretung
 
-(1) Der Patentanwalt muß
+(1) Der Patentanwalt muss
 
-1.  im Verfahren vor dem Patentamt, dem Patentgericht und dem
-    Bundesgerichtshof die Vertretung eines Beteiligten übernehmen, wenn er
-    ihm auf Grund des § 133 Abs. 1 des Patentgesetzes, des § 21 Abs. 2 des
-    Gebrauchsmustergesetzes, des § 24 des Designgesetzes oder des § 11
-    Abs. 2 des Halbleiterschutzgesetzes zur vorläufig unentgeltlichen
-    Wahrnehmung seiner Rechte beigeordnet ist;
+1.  in Verfahren vor dem Deutschen Patent- und Markenamt, dem
+    Bundespatentgericht und dem Bundesgerichtshof die Vertretung von
+    Beteiligten übernehmen, wenn er ihnen auf Grund des § 133 des
+    Patentgesetzes, des § 21 Absatz 2 des Gebrauchsmustergesetzes, des §
+    11 Absatz 2 des Halbleiterschutzgesetzes, des § 81a Absatz 2 des
+    Markengesetzes, des § 24 des Designgesetzes oder des § 36 des
+    Sortenschutzgesetzes zur vorläufig unentgeltlichen Wahrnehmung ihrer
+    Rechte beigeordnet ist;
 
 
-2.  im gerichtlichen Verfahren, die Rechtsstreitigkeiten nach § 4 Abs. 1
-    und 2 dieses Gesetzes zum Gegenstand haben, die Beratung der Partei
-    und die Unterstützung ihres Rechtsanwalts übernehmen, wenn er der
-    Partei auf Grund des § 1 des Gesetzes über die Beiordnung von
-    Patentanwälten bei Prozeßkostenhilfe beigeordnet ist.
+2.  in gerichtlichen Verfahren die Beratung einer Partei und die
+    Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach
+    § 4a beigeordnet ist.
 
 
 
@@ -1293,15 +1549,15 @@ Haftungsrisiko entsprechenden angemessenen Verhältnis untereinander
 teilen.
 
 (2) Die Abtretung von Vergütungsforderungen oder die Übertragung ihrer
-Einziehung an Patentanwälte, Rechtsanwälte oder anwaltliche
-Berufsausübungsgemeinschaften (§ 52a, § 59a der
-Bundesrechtsanwaltsordnung) ist zulässig. Im Übrigen sind Abtretung
-oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche
-Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig
-festgestellt ist. Vor der Einwilligung ist der Mandant über die
-Informationspflicht des Patentanwalts gegenüber dem neuen Gläubiger
-oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder
-Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit
+Einziehung an Patentanwälte, Rechtsanwälte,
+Berufsausübungsgesellschaften nach § 52b dieses Gesetzes oder nach §
+59b der Bundesrechtsanwaltsordnung ist zulässig. Im Übrigen sind
+Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche,
+schriftliche Einwilligung des Mandanten vorliegt oder die Forderung
+rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant
+über die Informationspflicht des Patentanwalts gegenüber dem neuen
+Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger
+oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit
 verpflichtet wie der beauftragte Patentanwalt.
 
 
@@ -1425,7 +1681,7 @@ herangezogenen Hilfsperson beruhen, als ein Versicherungsfall gelten.
 
 
 5.  für Ersatzansprüche wegen Veruntreuung durch Personal, Angehörige oder
-    Sozien des Patentanwalts.
+    Mitgesellschafter des Patentanwalts.
 
 
 
@@ -1461,25 +1717,8 @@ entsprechend. Zuständige Stelle ist die Patentanwaltskammer. § 21 Abs.
 2 Nr. 10 bleibt unberührt.
 
 
-#### § 45a Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung
+#### § 45a (weggefallen)
 
-(1) Die Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft
-mit beschränkter Berufshaftung (§ 8 Absatz 4 des
-Partnerschaftsgesellschaftsgesetzes) muss die Haftpflichtgefahren für
-Vermögensschäden decken, die sich aus der Beratung und Vertretung in
-Rechtsangelegenheiten im Sinne des § 3 Absatz 2 und 3 ergeben. § 45
-Absatz 1 Satz 2, Absatz 2, 3 Nummer 2 bis 5 und Absatz 5 bis 7 ist
-entsprechend anzuwenden.
-
-(2) Die Mindestversicherungssumme beträgt 2 500 000 Euro für jeden
-Versicherungsfall. Die Leistungen des Versicherers für alle innerhalb
-eines Versicherungsjahres verursachten Schäden können auf den Betrag
-der Mindestversicherungssumme, vervielfacht mit der Zahl der Partner,
-begrenzt werden. Die Jahreshöchstleistung für alle in einem
-Versicherungsjahr verursachten Schäden muss sich jedoch mindestens auf
-den vierfachen Betrag der Mindestversicherungssumme belaufen.
-
-(3) (weggefallen)
 
 
 #### § 45b Vertragliche Begrenzung von Ersatzansprüchen
@@ -1498,16 +1737,18 @@ fahrlässig verursachten Schadens kann beschränkt werden:
 
 
 
-Für Berufsausübungsgemeinschaften gilt Satz 1 entsprechend.
+Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
-(2) Die Mitglieder einer Sozietät haften aus dem zwischen ihr und dem
-Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die
-persönliche Haftung auf Schadensersatz kann auch durch vorformulierte
+(2) Die Mitglieder einer Berufsausübungsgesellschaft ohne
+Haftungsbeschränkung haften aus dem zwischen ihr und dem Auftraggeber
+bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche
+Haftung auf Schadensersatz kann auch durch vorformulierte
 Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer
-Sozietät, die das Mandat im Rahmen ihrer eigenen beruflichen
-Befugnisse bearbeiten und namentlich bezeichnet sind. Die
-Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen
-Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
+Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat
+im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und
+namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen
+Beschränkung darf keine anderen Erklärungen enthalten und muß vom
+Auftraggeber unterschrieben sein.
 
 
 #### § 46 Bestellung einer Vertretung
@@ -1727,9 +1968,9 @@ Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden
 kann.
 
 (5) Auf Personen, die einen Antrag auf Zulassung zur
-Patentanwaltschaft oder als Patentanwaltsgesellschaft gestellt haben,
-sind die Absätze 1 bis 4 entsprechend anzuwenden. Absatz 2 gilt auch
-für frühere Mitglieder.
+Berufsausübungsgesellschaft oder als Patentanwaltsgesellschaft
+gestellt haben, sind die Absätze 1 bis 4 entsprechend anzuwenden.
+Absatz 2 gilt auch für frühere Mitglieder.
 
 
 #### § 52 Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft
@@ -1743,41 +1984,7 @@ unterstützen, eine Ausbildung bei einem Gericht für Patentstreitsachen
 durchzuführen.
 
 
-#### § 52a Berufliche Zusammenarbeit
-
-(1) Patentanwälte dürfen sich mit Mitgliedern der Patentanwaltskammer
-und einer Rechtsanwaltskammer, mit Steuerberatern,
-Steuerbevollmächtigten, Wirtschaftsprüfern und vereidigten Buchprüfern
-zur gemeinschaftlichen Berufsausübung im Rahmen der eigenen
-beruflichen Befugnisse verbinden. Die Verbindung mit Rechtsanwälten,
-die zugleich Notar sind, richtet sich nach den Bestimmungen und
-Anforderungen des notariellen Berufsrechts.
-
-(2) Eine gemeinschaftliche Berufsausübung ist Patentanwälten auch
-gestattet:
-
-1.  mit Angehörigen von Patentanwaltsberufen aus anderen Staaten, die nach
-    § 20 des Gesetzes über die Tätigkeit europäischer Patentanwälte in
-    Deutschland berechtigt sind, sich im Geltungsbereich dieses Gesetzes
-    niederzulassen und ihre Kanzlei im Ausland unterhalten,
-
-
-2.  mit Rechtsanwälten, Steuerberatern, Steuerbevollmächtigten,
-    Wirtschaftsprüfern oder vereidigten Buchprüfern anderer Staaten, die
-    einen in der Ausbildung und den Befugnissen den Berufen nach der
-    Bundesrechtsanwaltsordnung, dem Steuerberatungsgesetz oder der
-    Wirtschaftsprüferordnung entsprechenden Beruf ausüben und mit
-    Rechtsanwälten, Steuerberatern, Steuerbevollmächtigten,
-    Wirtschaftsprüfern oder vereidigten Buchprüfern im Geltungsbereich
-    dieses Gesetzes ihren Beruf gemeinschaftlich ausüben dürfen.
-
-
-
-
-(3) Für Bürogemeinschaften gelten die Absätze 1 und 2 entsprechend.
-
-
-#### § 52b Satzungskompetenz
+#### § 52a Satzungskompetenz
 
 (1) Das Nähere zu den beruflichen Rechten und Pflichten wird von der
 Kammerversammlung durch Satzung in einer Berufsordnung bestimmt.
@@ -1903,218 +2110,522 @@ Verhältnismäßigkeitsgrundsatz zu überwachen und bei einer Änderung der
 Umstände zu prüfen, ob die Vorschrift anzupassen ist.
 
 
-### Zweiter Abschnitt - Patentanwaltsgesellschaften
+### Zweiter Abschnitt - Berufliche Zusammenarbeit
 
 
 
-#### § 52c Zulassung als Patentanwaltsgesellschaft und Beteiligung an beruflichen Zusammenschlüssen
+#### § 52b Berufsausübungsgesellschaften
 
-(1) Gesellschaften mit beschränkter Haftung, deren
-Unternehmensgegenstand die Beratung und Vertretung in
-Rechtsangelegenheiten im Sinne des § 3 Abs. 2 und 3 ist, können als
-Patentanwaltsgesellschaften zugelassen werden.
+(1) Patentanwälte dürfen sich zur gemeinschaftlichen Ausübung ihres
+Berufs zu Berufsausübungsgesellschaften verbinden. Sie dürfen sich zur
+Ausübung ihres Berufs auch in Gesellschaften organisieren, deren
+einziger Gesellschafter sie sind.
 
-(2) Die Beteiligung von Patentanwaltsgesellschaften an
-Zusammenschlüssen zur gemeinschaftlichen Berufsausübung ist
-unzulässig.
+(2) Berufsausübungsgesellschaften zur gemeinschaftlichen
+Berufsausübung in der Bundesrepublik Deutschland können die folgenden
+Rechtsformen haben:
 
-
-#### § 52d Zulassungsvoraussetzungen
-
-Die Zulassung ist zu erteilen, wenn
-
-1.  die Gesellschaft den Erfordernissen der §§ 52c, 52e und 52f
-    entspricht;
+1.  Gesellschaften nach deutschem Recht einschließlich der
+    Handelsgesellschaften,
 
 
-2.  die Gesellschaft sich nicht in Vermögensverfall befindet;
+2.  Europäische Gesellschaften und
 
 
-3.  der Abschluß der Berufshaftpflichtversicherung (§ 52j) nachgewiesen
-    ist oder eine vorläufige Deckungszusage vorliegt.
+3.  Gesellschaften, die zulässig sind nach dem Recht
+
+    a)  eines Mitgliedstaats der Europäischen Union oder
 
 
+    b)  eines Vertragsstaats des Abkommens über den Europäischen
+        Wirtschaftsraum.
 
 
 
-#### § 52e Gesellschafter
-
-(1) Gesellschafter einer Patentanwaltsgesellschaft können nur
-Mitglieder der Patentanwaltskammer, Rechtsanwälte, Angehörige der in §
-52a Abs. 2 Nr. 1 genannten Berufe und Rechtsanwälte anderer Staaten im
-Sinne des § 52a Abs. 2 Nr. 2 sein. Sie müssen in der
-Patentanwaltsgesellschaft beruflich tätig sein. § 52a Abs. 1 Satz 2
-ist entsprechend anzuwenden.
-
-(2) Die Mehrheit der Geschäftsanteile und der Stimmrechte muß
-Patentanwälten zustehen. Sofern Gesellschafter zur Ausübung eines in
-Absatz 1 genannten Berufs nicht berechtigt sind, haben sie kein
-Stimmrecht.
-
-(3) Anteile an der Patentanwaltsgesellschaft dürfen nicht für Rechnung
-Dritter gehalten und Dritte nicht am Gewinn der
-Patentanwaltsgesellschaft beteiligt werden.
-
-(4) Gesellschafter können zur Ausübung von Gesellschafterrechten nur
-stimmberechtigte Gesellschafter bevollmächtigen, die Angehörige
-desselben Berufs oder Patentanwälte sind.
 
 
-#### § 52f Geschäftsführung
 
-(1) Die Patentanwaltsgesellschaft muß von Patentanwälten
-verantwortlich geführt werden. Die Geschäftsführer müssen mehrheitlich
-Patentanwälte sein.
-
-(2) Geschäftsführer kann nur sein, wer zur Ausübung eines in § 52e
-Abs. 1 Satz 1 genannten Berufs berechtigt ist.
-
-(3) Auf Prokuristen und Handlungsbevollmächtigte zum gesamten
-Geschäftsbetrieb sind Absatz 1 Satz 2 und Absatz 2 entsprechend
-anzuwenden.
-
-(4) Die Unabhängigkeit der Patentanwälte, die Geschäftsführer oder
-gemäß Absatz 3 bevollmächtigt sind, bei der Ausübung ihres
-Patentanwaltsberufs ist zu gewährleisten. Einflußnahmen der
-Gesellschafter, namentlich durch Weisungen oder vertragliche
-Bindungen, sind unzulässig.
+Für Berufsausübungsgesellschaften nach dem Gesellschaftsrecht eines
+Staates, der nicht Mitgliedstaat der Europäischen Union oder
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist,
+gilt § 159.
 
 
-#### § 52g Zulassungsverfahren
+#### § 52c Berufsausübungsgesellschaften mit Angehörigen anderer Berufe
 
-(1) Dem Antrag auf Zulassung als Patentanwaltsgesellschaft ist eine
-Ausfertigung oder eine öffentlich beglaubigte Abschrift des
-Gesellschaftsvertrags beizufügen.
+(1) Die Verbindung zu einer Berufsausübungsgesellschaft nach § 52b
+Absatz 1 ist Patentanwälten auch gestattet
 
-(2) Die Entscheidung über den Antrag auf Zulassung als
-Patentanwaltsgesellschaft kann ausgesetzt werden, wenn gegen einen
-Gesellschafter oder Vertretungsberechtigten im Sinne des § 52f ein auf
-Rücknahme oder Widerruf seiner Zulassung oder Bestellung gerichtetes
-Verfahren betrieben wird oder ein vorläufiges Berufs- oder
-Vertretungsverbot erlassen worden ist. Über den Antrag auf Zulassung
-als Patentanwaltsgesellschaft ist jedoch zu entscheiden, wenn er
-bereits unbeschadet des Ergebnisses der in Satz 1 genannten Verfahren
-abzulehnen ist.
-
-(3) Auf das Zulassungsverfahren ist § 18 Absatz 1 entsprechend
-anzuwenden.
+1.  mit Mitgliedern der Patentanwaltskammer, Mitgliedern einer
+    Rechtsanwaltskammer, Steuerberatern, Steuerbevollmächtigten,
+    Wirtschaftsprüfern und vereidigten Buchprüfern,
 
 
-#### § 52h Erlöschen der Zulassung
+2.  mit Angehörigen von Patentanwaltsberufen aus anderen Staaten, die nach
+    dem Gesetz über die Tätigkeit europäischer Patentanwälte in
+    Deutschland oder nach § 157 berechtigt wären, sich in der
+    Bundesrepublik Deutschland niederzulassen, und mit Angehörigen von
+    Rechtsanwaltsberufen aus anderen Staaten, die nach dem Gesetz über die
+    Tätigkeit europäischer Rechtsanwälte in Deutschland oder nach § 206
+    der Bundesrechtsanwaltsordnung berechtigt wären, sich in der
+    Bundesrepublik Deutschland niederzulassen,
 
-(1) Die Zulassung erlischt durch Auflösung der Gesellschaft.
 
-(2) Die Zulassung ist für die Zukunft zurückzunehmen, wenn sich nach
-der Zulassung ergibt, daß sie hätte versagt werden müssen. § 21 Absatz
-1 Satz 2 ist entsprechend anzuwenden.
+3.  mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern und
+    vereidigten Buchprüfern anderer Staaten, die nach dem
+    Steuerberatungsgesetz oder der Wirtschaftsprüferordnung ihren Beruf
+    mit Steuerberatern, Steuerbevollmächtigten, Wirtschaftsprüfern oder
+    vereidigten Buchprüfern in der Bundesrepublik Deutschland
+    gemeinschaftlich ausüben dürfen,
+
+
+4.  mit Personen, die in der Berufsausübungsgesellschaft einen freien
+    Beruf nach § 1 Absatz 2 des Partnerschaftsgesellschaftsgesetzes
+    ausüben, es sei denn, dass die Verbindung mit dem Beruf des
+    Patentanwalts, insbesondere seiner Stellung als unabhängigem Organ der
+    Rechtspflege, nicht vereinbar ist oder das Vertrauen in seine
+    Unabhängigkeit gefährden kann.
+
+
+
+Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann
+ausgeschlossen sein, wenn in der anderen Person ein Grund vorliegt,
+der bei einem Patentanwalt nach § 14 zur Versagung der Zulassung
+führen würde.
+
+(2) Unternehmensgegenstand der Berufsausübungsgesellschaft nach Absatz
+1 ist die Beratung und Vertretung in patentanwaltlichen
+Angelegenheiten im Sinne des § 3. Daneben kann die Ausübung des
+jeweiligen nichtpatentanwaltlichen Berufs treten. Die §§ 52d bis 52p
+gelten nur für Berufsausübungsgesellschaften, die der Ausübung des
+Patentanwaltsberufs dienen.
+
+
+#### § 52d Berufspflichten bei beruflicher Zusammenarbeit
+
+(1) Gesellschafter, die Angehörige eines in § 52c Absatz 1 Satz 1
+genannten Berufs sind, haben bei ihrer Tätigkeit für die
+Berufsausübungsgesellschaft die in diesem Gesetz und die in der
+Berufsordnung nach § 52a bestimmten Pflichten der in der
+Berufsausübungsgesellschaft tätigen Patentanwälte sowie der
+Berufsausübungsgesellschaft zu beachten. Sie sind insbesondere
+verpflichtet, die anwaltliche Unabhängigkeit der in der
+Berufsausübungsgesellschaft tätigen Patentanwälte sowie der
+Berufsausübungsgesellschaft zu wahren.
+
+(2) Gesellschafter, die Angehörige eines in § 52c Absatz 1 Satz 1
+genannten Berufs sind, sind zur Verschwiegenheit verpflichtet. Diese
+Pflicht bezieht sich auf alles, was ihnen bei ihrer Tätigkeit für die
+Berufsausübungsgesellschaft im Zusammenhang mit der Beratung und
+Vertretung nach § 3 bekannt geworden ist. § 39a Absatz 2 Satz 3 gilt
+entsprechend.
+
+(3) Die Vorschriften über Tätigkeitsverbote nach § 39a Absatz 4 Satz 2
+bis 6 und nach § 155a Absatz 2 und 3 gelten für Gesellschafter, die
+Angehörige eines in § 52c Absatz 1 Satz 1 genannten Berufs sind,
+entsprechend.
+
+(4) Patentanwälte dürfen ihren Beruf nicht mit anderen Personen
+ausüben, wenn diese in schwerwiegender Weise oder wiederholt gegen
+Pflichten, die in diesem Gesetz oder in der Berufsordnung nach § 52a
+bestimmt sind, verstoßen.
+
+(5) Im Gesellschaftsvertrag ist der Ausschluss von Gesellschaftern
+vorzusehen, die in schwerwiegender Weise oder wiederholt gegen
+Pflichten, die in diesem Gesetz oder in der Berufsordnung nach § 52a
+bestimmt sind, verstoßen.
+
+
+#### § 52e Berufspflichten der Berufsausübungsgesellschaft
+
+(1) Die §§ 39 bis 40, § 41 Absatz 1 Nummer 2 bis 4, die §§ 43 bis 44,
+46, 47, 49 Absatz 1 und 2 sowie die §§ 50 bis 52a gelten für
+Berufsausübungsgesellschaften sinngemäß.
+
+(2) Die Berufsausübungsgesellschaft hat durch geeignete Maßnahmen
+sicherzustellen, dass berufsrechtliche Verstöße frühzeitig erkannt und
+abgestellt werden. Wenn an der Berufsausübungsgesellschaft Personen
+beteiligt sind, die Angehörige eines in § 52c Absatz 1 Satz 1
+genannten Berufs sind, ist durch geeignete gesellschaftsvertragliche
+Vereinbarungen sicherzustellen, dass die Berufsausübungsgesellschaft
+für die Erfüllung der Berufspflichten sorgen kann.
+
+(3) Werden in der Berufsausübungsgesellschaft auch andere als
+patentanwaltliche Berufe ausgeübt, so gelten die Absätze 1 und 2 nur,
+soweit ein Bezug zur Beratung und Vertretung nach § 3 besteht.
+
+(4) Die persönliche berufsrechtliche Verantwortlichkeit der
+Gesellschafter, Organmitglieder und sonstigen Mitarbeiter der
+Berufsausübungsgesellschaft bleibt unberührt.
+
+
+#### § 52f Zulassung
+
+(1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die
+Patentanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen
+Personengesellschaften, bei denen keine Beschränkung der Haftung der
+natürlichen Personen vorliegt und denen als Gesellschafter und als
+Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich
+Patentanwälte oder Angehörige eines in § 52c Absatz 1 Satz 1 Nummer 1
+genannten Berufs angehören. Unberührt von Satz 2 bleibt der
+freiwillige Antrag auf eine Zulassung.
+
+(2) Die Zulassung ist zu erteilen, wenn
+
+1.  die Berufsausübungsgesellschaft, ihre Gesellschafter und die
+    Mitglieder der Geschäftsführungs- und Aufsichtsorgane die
+    Voraussetzungen der §§ 52b, 52c, des § 52d Absatz 5, der §§ 52i und
+    52j erfüllen,
+
+
+2.  die Berufsausübungsgesellschaft sich nicht in Vermögensverfall
+    befindet und
+
+
+3.  der Abschluss der Berufshaftpflichtversicherung nachgewiesen ist oder
+    eine vorläufige Deckungszusage vorliegt.
+
+
+
+Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein
+Insolvenzverfahren über das Vermögen der Berufsausübungsgesellschaft
+eröffnet ist oder die Berufsausübungsgesellschaft in das
+Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
+
+(3) Mit der Zulassung wird die Berufsausübungsgesellschaft Mitglied
+der zulassenden Patentanwaltskammer.
+
+
+#### § 52g Zulassungsverfahren; Anzeigepflicht
+
+(1) Der Antrag auf Zulassung muss folgende Angaben enthalten:
+
+1.  Rechtsform, Name, Sitz und Gegenstand der Berufsausübungsgesellschaft,
+
+
+2.  die Geschäftsanschriften der Niederlassungen der
+    Berufsausübungsgesellschaft sowie
+
+
+3.  Name und Beruf der Gesellschafter, der Mitglieder der
+    Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar
+    beteiligten Personen.
+
+
+
+Die Patentanwaltskammer kann zur Prüfung der Voraussetzungen des § 52f
+Absatz 2 die Vorlage geeigneter Nachweise einschließlich des
+Gesellschaftsvertrags oder der Satzung verlangen. § 50 gilt
+entsprechend.
+
+(2) Die Entscheidung über den Antrag auf Zulassung kann ausgesetzt
+werden, wenn gegen einen Gesellschafter oder ein Mitglied eines
+Geschäftsführungs- oder Aufsichtsorgans ein auf Rücknahme oder
+Widerruf seiner Zulassung oder Bestellung gerichtetes Verfahren
+betrieben wird oder ein vorläufiges Berufs- oder Vertretungsverbot
+erlassen worden ist.
+
+(3) Die Zulassung wird wirksam mit der Aushändigung einer von der
+Patentanwaltskammer ausgestellten Urkunde.
+
+(4) Die zugelassene Berufsausübungsgesellschaft hat der
+Patentanwaltskammer jede Änderung der nach Absatz 1 Satz 1
+anzugebenden Verhältnisse unverzüglich anzuzeigen. Absatz 1 Satz 2 und
+3 gilt entsprechend.
+
+
+#### § 52h Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler
+
+(1) Die Zulassung einer Berufsausübungsgesellschaft erlischt durch
+ihre Auflösung. Im Übrigen gilt § 20 entsprechend.
+
+(2) Die Zulassung ist mit Wirkung für die Zukunft zurückzunehmen, wenn
+sich ergibt, dass die Zulassung hätte versagt werden müssen. § 21
+Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 (3) Die Zulassung ist zu widerrufen, wenn die
-Patentanwaltsgesellschaft nicht mehr die Voraussetzungen der §§ 52c,
-52e, 52f, 52i und 52j erfüllt, es sei denn, daß die
-Patentanwaltsgesellschaft innerhalb einer von der Patentanwaltskammer
-zu bestimmenden angemessenen Frist den dem Gesetz entsprechenden
-Zustand herbeiführt. Bei Fortfall von in § 52e Abs. 1 und 2 genannten
-Voraussetzungen infolge eines Erbfalls muß die Frist mindestens ein
-Jahr betragen. Die Frist beginnt mit dem Eintritt des Erbfalls.
+Berufsausübungsgesellschaft
 
-(4) Die Zulassung ist ferner zu widerrufen, wenn
-
-1.  die Patentanwaltsgesellschaft auf die Rechte aus der Zulassung der
-    Patentanwaltskammer gegenüber schriftlich verzichtet hat;
+1.  die Voraussetzungen der §§ 52b, 52c Absatz 1, des § 52d Absatz 5, der
+    §§ 52i, 52j, 52m oder des § 52n nicht mehr erfüllt, es sei denn, dass
+    sie innerhalb einer von der Patentanwaltskammer zu bestimmenden
+    angemessenen Frist einen den genannten Vorschriften entsprechenden
+    Zustand herbeiführt,
 
 
-2.  die Patentanwaltsgesellschaft in Vermögensverfall geraten ist, es sei
-    denn, daß dadurch die Interessen der Rechtsuchenden nicht gefährdet
-    sind.
+2.  in Vermögensverfall geraten ist, es sei denn, dass dadurch die
+    Interessen der Rechtssuchenden nicht gefährdet sind, oder
+
+
+3.  der Patentanwaltskammer gegenüber schriftlich auf die Rechte aus der
+    Zulassung verzichtet hat.
 
 
 
+Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein
+Insolvenzverfahren über das Vermögen der Berufsausübungsgesellschaft
+eröffnet ist oder die Berufsausübungsgesellschaft in das
+Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
-(5) Bei Rücknahme und Widerruf der Zulassung ist § 21 Absatz 4
-entsprechend anzuwenden.
+(4) Die Zulassung kann widerrufen werden, wenn die
+Berufsausübungsgesellschaft
 
-(6) Hat die Gesellschaft die Zulassung verloren, kann für sie ein
-Abwickler bestellt werden, wenn die zur gesetzlichen Vertretung
-bestellten Personen keine hinreichende Gewähr zur ordnungsgemäßen
-Abwicklung der schwebenden Angelegenheiten bieten. § 48 ist
-entsprechend anzuwenden. Für die festgesetzte Vergütung des Abwicklers
-haften die Gesellschafter als Gesamtschuldner. § 47 Absatz 3 Satz 4
-bleibt unberührt.
-
-
-#### § 52i Kanzlei
-
-Die Patentanwaltsgesellschaft muß an ihrem Sitz eine Kanzlei
-unterhalten, in der verantwortlich zumindest ein geschäftsführender
-Patentanwalt tätig ist, für den die Kanzlei den Mittelpunkt seiner
-beruflichen Tätigkeit bildet. Wird der Sitz der Gesellschaft verlegt,
-ist dies der Patentanwaltskammer unverzüglich anzuzeigen. § 27 bleibt
-unberührt.
+1.  nicht innerhalb von drei Monaten nach der Zulassung durch die
+    Patentanwaltskammer nach § 52l Absatz 1 eine Kanzlei einrichtet,
 
 
-#### § 52j Berufshaftpflichtversicherung
+2.  nicht innerhalb von drei Monaten, nachdem sie nach § 52l Absatz 4 in
+    Verbindung mit § 27 Absatz 2 von der Pflicht, eine Kanzlei zu
+    unterhalten, befreit worden ist oder ein bisheriger
+    Zustellungsbevollmächtigter weggefallen ist, einen
+    Zustellungsbevollmächtigten bestellt oder
 
-(1) Die Patentanwaltsgesellschaft ist verpflichtet, eine
-Berufshaftpflichtversicherung abzuschließen und die Versicherung
-während der Dauer ihrer Zulassung aufrechtzuerhalten; § 45 Absatz 1,
-2, 3 Nummer 2 bis 5 und Absatz 5 bis 7 ist entsprechend anzuwenden.
 
-(2) Die Mindestversicherungssumme beträgt 2 500 000 Euro für jeden
-Versicherungsfall. Die Leistungen des Versicherers für alle innerhalb
-eines Versicherungsjahres verursachten Schäden können auf den Betrag
-der Mindestversicherungssumme, vervielfacht mit der Zahl der
-Gesellschafter und der Geschäftsführer, die nicht Gesellschafter sind,
-begrenzt werden. Die Jahreshöchstleistung für alle in einem
-Versicherungsjahr verursachten Schäden muß sich jedoch mindestens auf
-den vierfachen Betrag der Mindestversicherungssumme belaufen.
+3.  nicht innerhalb von drei Monaten einen Zustellungsbevollmächtigen
+    bestellt, nachdem
+
+    a)  sie nach § 59l Absatz 4 in Verbindung mit § 27 Absatz 2 von der
+        Pflicht, eine Kanzlei zu unterhalten, befreit worden ist oder
+
+
+    b)  ein bisheriger Zustellungsbevollmächtigter weggefallen ist, oder
+
+
+
+
+
+4.  ihre Kanzlei aufgibt, ohne dass sie von der Pflicht des § 52l befreit
+    worden ist.
+
+
+
+
+(5) Ordnet die Patentanwaltskammer die sofortige Vollziehung an, sind
+§ 137 Absatz 2, 4 und 5, § 138 Absatz 2 und § 143 entsprechend
+anzuwenden. Wird die Zulassung widerrufen, weil die
+Berufsausübungsgesellschaft die vorgeschriebene
+Berufshaftpflichtversicherung nicht unterhält, ist die Anordnung der
+sofortigen Vollziehung in der Regel zu treffen.
+
+(6) Hat die Berufsausübungsgesellschaft die Zulassung verloren, kann
+für sie ein Abwickler bestellt werden, wenn die zur gesetzlichen
+Vertretung bestellten Personen keine hinreichende Gewähr zur
+ordnungsgemäßen Abwicklung der schwebenden Angelegenheiten bieten. §
+48 ist entsprechend anzuwenden. Für die festgesetzte Vergütung des
+Abwicklers haften die Gesellschafter als Gesamtschuldner. § 47 Absatz
+3 Satz 4 bleibt unberührt.
+
+
+#### § 52i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
+
+(1) Zugelassene Berufsausübungsgesellschaften können Gesellschafter
+einer Berufsausübungsgesellschaft sein. Bei gesetzlichen
+Voraussetzungen, die in der in der Person der Gesellschafter oder der
+Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den
+Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung
+der beteiligten Berufsausübungsgesellschaft an. Haben sich
+Patentanwälte, Angehörige eines der in § 52c Absatz 1 Satz 1 genannten
+Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen
+dieses Abschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts
+zusammengeschlossen, deren Zweck ausschließlich das Halten von
+Anteilen an einer zugelassenen Berufsausübungsgesellschaft ist, so
+werden ihnen die Anteile an der Berufsausübungsgesellschaft im
+Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts
+zugerechnet.
+
+(2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung
+der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften
+oder Kommanditgesellschaften auf Aktien müssen die Aktien auf Namen
+lauten.
+
+(3) Anteile an der Berufsausübungsgesellschaft dürfen nicht für
+Rechnung Dritter gehalten werden. Dritte dürfen nicht am Gewinn der
+Berufsausübungsgesellschaft beteiligt werden.
+
+(4) Sofern Gesellschafter die Voraussetzungen des § 52c Absatz 1 nicht
+erfüllen, haben sie kein Stimmrecht.
+
+(5) Gesellschafter können zur Ausübung von Gesellschafterrechten nur
+stimmberechtigte Gesellschafter bevollmächtigen.
+
+
+#### § 52j Geschäftsführungsorgane; Aufsichtsorgane
+
+(1) Nur Patentanwälte oder Angehörige eines der in § 52c Absatz 1 Satz
+1 genannten Berufe können Mitglieder des Geschäftsführungs- oder
+Aufsichtsorgans einer zugelassenen Berufsausübungsgesellschaft sein.
+Mitbestimmungsrechtliche Regelungen bleiben unberührt. Bei der
+Beratung und Vertretung in patentanwaltlichen Angelegenheiten sind
+Weisungen von Personen, die keine Patentanwälte sind, gegenüber
+Patentanwälten unzulässig.
+
+(2) Von der Mitgliedschaft in einem Geschäftsführungs- oder
+Aufsichtsorgan ist ausgeschlossen, wer einen der Versagungstatbestände
+des § 14 erfüllt oder gegen wen eine der in Absatz 5 Satz 3 genannten
+Maßnahmen verhängt wurde.
+
+(3) Dem Geschäftsführungsorgan der Berufsausübungsgesellschaft müssen
+Patentanwälte in vertretungsberechtigter Zahl angehören.
+
+(4) Die Mitglieder des Geschäftsführungs- und Aufsichtsorgans sind
+verpflichtet, für die Einhaltung des Berufsrechts in der
+Berufsausübungsgesellschaft zu sorgen.
+
+(5) Für diejenigen Mitglieder des Geschäftsführungs- und
+Aufsichtsorgans der Berufsausübungsgesellschaft, die keine
+Gesellschafter sind, gelten die Berufspflichten nach § 52d Absatz 1
+bis 3 entsprechend. Die §§ 70 und 70a, die Vorschriften des Sechsten
+und Siebenten Teils sowie die §§ 148 bis 151 sind auf
+nichtpatentanwaltliche Mitglieder des Geschäftsführungs- und
+Aufsichtsorgans entsprechend anzuwenden. An die Stelle der
+Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1 Nummer 4)
+tritt
+
+1.  bei nichtpatentanwaltlichen Mitgliedern von Geschäftsführungsorganen
+    die Aberkennung der Eignung, eine Berufsausübungsgesellschaft zu
+    vertreten und ihre Geschäfte zu führen, und
+
+
+2.  bei nichtpatentanwaltlichen Mitgliedern eines Aufsichtsorgans die
+    Aberkennung der Eignung, Aufsichtsfunktionen einer
+    Berufsausübungsgesellschaft wahrzunehmen.
+
+
+
+
+(6) Die Unabhängigkeit der Patentanwälte, die dem
+Geschäftsführungsorgan der Berufsausübungsgesellschaften angehören
+oder in sonstiger Weise die Vertretung der Berufsausübungsgesellschaft
+wahrnehmen, bei der Ausübung ihres Patentanwaltsberufs ist zu
+gewährleisten. Einflussnahmen durch die Gesellschafter, insbesondere
+durch Weisungen oder vertragliche Bindungen, sind unzulässig.
+
+(7) Auf Prokuristen und Handlungsbevollmächtigte zum gesamten
+Geschäftsbetrieb sind die Absätze 1, 5 und 6 entsprechend anzuwenden.
+
+
+#### § 52k Recht zur Beratung und Vertretung
+
+(1) Berufsausübungsgesellschaften sind zur unabhängigen Beratung und
+Vertretung nach § 3 Absatz 2 und 3 befugt.
+
+(2) Berufsausübungsgesellschaften können als Prozess- und
+Verfahrensbevollmächtigte beauftragt werden. Sie haben in diesem Fall
+die Rechte und Pflichten eines Patentanwalts.
+
+(3) Soweit Berufsausübungsgesellschaften die Beratung und Vertretung
+nach § 3 Absatz 2 und 3 wahrnehmen, handeln sie durch ihre
+Gesellschafter und Vertreter. In deren Person müssen die gesetzlich
+vorgeschriebenen Voraussetzungen für die Beratung und Vertretung nach
+§ 3 Absatz 2 und 3 im Einzelfall vorliegen.
+
+
+#### § 52l Kanzlei der Berufsausübungsgesellschaft
+
+(1) Die Berufsausübungsgesellschaft muss an ihrem Sitz eine Kanzlei
+unterhalten, in der zumindest ein geschäftsführender Patentanwalt
+tätig ist.
+
+(2) § 26 Absatz 2 und die §§ 27 und 28 sind entsprechend anzuwenden.
+
+(3) Berufsausübungsgesellschaften, die keinen Sitz im Inland haben,
+sind verpflichtet, eine Zweigniederlassung im Inland einzurichten und
+zu unterhalten, in der zumindest ein geschäftsführender Patentanwalt
+tätig ist. Für die Befreiung von der Pflicht nach Satz 1 gelten § 27
+Absatz 2 und 3 sowie § 28 entsprechend.
+
+
+#### § 52m Berufshaftpflichtversicherung
+
+(1) Berufsausübungsgesellschaften sind verpflichtet, eine
+Berufshaftpflichtversicherung abzuschließen und während der Dauer
+ihrer Betätigung aufrechtzuerhalten.
+
+(2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für
+Vermögensschäden decken, die sich aus der Beratung und Vertretung nach
+§ 3 ergeben. § 45 Absatz 1 Satz 2, Absatz 2 und 3 Nummer 2 bis 5 und
+Absatz 5 bis 7 ist entsprechend anzuwenden. Ist die Haftung der
+Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine
+Beschränkung der Haftung der natürlichen Personen vor, so ist auch §
+45 Absatz 3 Nummer 1 entsprechend anzuwenden.
 
 (3) Wird die Berufshaftpflichtversicherung nicht oder nicht in dem
-vorgeschriebenen Umfang unterhalten, so haften neben der Gesellschaft
-die Gesellschafter und die Geschäftsführer persönlich in Höhe des
-fehlenden Versicherungsschutzes.
+vorgeschriebenen Umfang unterhalten, so haften neben der
+Berufsausübungsgesellschaft die Gesellschafter und die Mitglieder des
+Geschäftsführungsorgans persönlich in Höhe des fehlenden
+Versicherungsschutzes.
 
 
-#### § 52k Firma
+#### § 52n Mindestversicherungssumme und Jahreshöchstleistung
 
-(1) Die Firma der Gesellschaft muss die Bezeichnung
-„Patentanwaltsgesellschaft“ enthalten.
+(1) Für Berufsausübungsgesellschaften, bei denen für Verbindlichkeiten
+der Berufsausübungsgesellschaft aus Schäden wegen fehlerhafter
+Berufsausübung rechtsformbedingt keine natürliche Person haftet oder
+bei denen die Haftung der natürlichen Personen beschränkt wird,
+beträgt die Mindestversicherungssumme der
+Berufshaftpflichtversicherung nach § 52m vorbehaltlich des Absatzes 2
+für jeden Versicherungsfall 2 500 000 Euro.
 
-(2) Andere als zugelassene Patentanwaltsgesellschaften dürfen die
-Bezeichnung "Patentanwaltsgesellschaft" nicht führen. Berufliche
-Zusammenschlüsse, die die Bezeichnung "Patentanwaltsgesellschaft"
-bereits am 1. März 1999 in ihrem Namen geführt und einen Hinweis auf
-die Rechtsform hinzugefügt haben, dürfen eine solche Bezeichnung
-weiterführen.
+(2) Für Berufsausübungsgesellschaften nach Absatz 1 bei denen nicht
+mehr als zehn Personen patentanwaltlich oder in einem Beruf nach § 52c
+Absatz 1 Satz 1 tätig sind, beträgt die Mindestversicherungssumme
+1 000 000 Euro.
+
+(3) Für alle Berufsausübungsgesellschaften, die keinen
+rechtsformbedingten Ausschluss der Haftung und keine Beschränkung der
+Haftung der natürlichen Personen vorsehen, beträgt die
+Mindestversicherungssumme 500 000 Euro für jeden Versicherungsfall.
+
+(4) Die Leistungen des Versicherers für alle innerhalb eines
+Versicherungsjahres verursachten Schäden können auf den Betrag der
+jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der
+patentanwaltlichen Gesellschafter, die in der Bundesrepublik
+Deutschland zugelassen oder niedergelassen sind, und der
+patentanwaltlichen Geschäftsführer, die nicht Gesellschafter sind,
+begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter,
+so ist bei der Berechnung der Jahreshöchstleistung nicht die
+beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer
+patentanwaltlichen Gesellschafter, die in der Bundesrepublik
+Deutschland zugelassen oder niedergelassen sind, und der
+patentanwaltlichen Geschäftsführer, die nicht Gesellschafter sind,
+maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall
+mindestens auf den vierfachen Betrag der Mindestversicherungssumme
+belaufen.
 
 
-#### § 52l Vertretung vor Gerichten und Behörden
+#### § 52o Patentanwaltsgesellschaft
 
-Die Patentanwaltsgesellschaft kann als Prozeß- oder
-Verfahrensbevollmächtigte beauftragt werden. Sie hat dabei die Rechte
-und Pflichten eines Patentanwalts. Sie handelt durch ihre Organe und
-Vertreter, in deren Person die für die Erbringung rechtsbesorgender
-Leistungen gesetzlich vorgeschriebenen Voraussetzungen im Einzelfall
-vorliegen müssen.
+Berufsausübungsgesellschaften, bei denen Patentanwälte die Mehrheit
+der Stimmrechte innehaben und bei denen die Mehrheit der Mitglieder
+des Geschäftsführungsorgans Patentanwälte sind, dürfen die Bezeichnung
+„Patentanwaltsgesellschaft“ führen.
 
 
-#### § 52m Mitteilungspflichten, anwendbare Vorschriften und Verschwiegenheitspflicht
+#### § 52p Bürogemeinschaft
 
-(1) Die Patentanwaltsgesellschaft hat jede Änderung des
-Gesellschaftsvertrags, der Gesellschafter oder in der Person der nach
-§ 52f Vertretungsberechtigten sowie die Errichtung oder Auflösung von
-Zweigniederlassungen der Patentanwaltskammer unter Beifügung einer
-öffentlich beglaubigten Abschrift der jeweiligen Urkunde unverzüglich
-anzuzeigen. Wird die Änderung im Handelsregister eingetragen, ist eine
-beglaubigte Abschrift der Eintragung nachzureichen.
+(1) Patentanwälte können sich zu einer Gesellschaft verbinden, die der
+gemeinschaftlichen Organisation der Berufstätigkeit der Gesellschafter
+unter gemeinschaftlicher Nutzung von Betriebsmitteln dient, jedoch
+nicht selbst als Vertragspartner von patentanwaltlichen
+Mandatsverträgen auftreten soll (Bürogemeinschaft).
 
-(2) Für Patentanwaltsgesellschaften gelten sinngemäß die Vorschriften
-des Zweiten Abschnitts des Zweiten Teils, die §§ 39 bis 40, 43 bis 44,
-45b Absatz 1 Satz 1, die §§ 46, 49 bis 52 und 52b sowie der Dritte
-Abschnitt des Fünften Teils.
+(2) Eine Bürogemeinschaft können Patentanwälte auch mit Personen
+eingehen, die nicht zur Patentanwaltschaft zugelassen sind, es sei
+denn, die Verbindung ist mit dem Beruf des Patentanwalts, insbesondere
+seiner Stellung als unabhängigem Organ der Rechtspflege, nicht
+vereinbar, und kann das Vertrauen in seine Unabhängigkeit gefährden.
+Eine Bürogemeinschaft nach Satz 1 kann insbesondere dann
+ausgeschlossen sein, wenn in der anderen Person ein Grund vorliegt,
+der bei einem Patentanwalt nach § 14 Nummer 1, 2 oder 6 zur Versagung
+der Zulassung führen würde.
 
-(3) Die Gesellschafter sowie die Mitglieder der durch Gesetz oder
-Gesellschaftsvertrag vorgesehenen Aufsichtsorgane der
-Patentanwaltsgesellschaft sind zur Verschwiegenheit verpflichtet.
+(3) Die in der Bürogemeinschaft tätigen Patentanwälte sind
+verpflichtet, angemessene organisatorische, personelle und technische
+Maßnahmen zu treffen, die die Einhaltung ihrer Berufspflichten
+gewährleisten.
+
+(4) § 52d Absatz 1, 2, 4 und 5 gilt für die Gesellschafter der
+Bürogemeinschaft nach Absatz 2 entsprechend.
 
 
 ## Vierter Teil - Die Patentanwaltskammer
@@ -2136,11 +2647,12 @@ ihre Satzung bestimmt.
     aufgenommen wurden,
 
 
-2.  Patentanwaltsgesellschaften, die von ihr zugelassen wurden, und
+2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden, und
 
 
-3.  Geschäftsführer von Patentanwaltsgesellschaften nach Nummer 2, die
-    nicht schon nach Nummer 1 Mitglied der Patentanwaltskammer sind.
+3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von
+    Berufsausübungsgesellschaften nach Nummer 2, die nicht schon nach
+    Nummer 1 Mitglied der Patentanwaltskammer sind.
 
 
 
@@ -2152,15 +2664,25 @@ ihre Satzung bestimmt.
 
 
 2.  in den Fällen des Absatzes 2 Nummer 2, wenn die Voraussetzungen des §
-    52h Absatz 1 bis 4 vorliegen,
+    52h Absatz 1 bis 3 vorliegen,
 
 
 3.  in den Fällen des Absatzes 2 Nummer 3, wenn bei der
-    Patentanwaltsgesellschaft die Voraussetzungen des § 52h Absatz 1 bis 4
-    vorliegen, gegen den Geschäftsführer eine bestandskräftige
-    Entscheidung im Sinne des § 97a Satz 2 ergangen ist oder die
-    Geschäftsführungstätigkeit für die Patentanwaltsgesellschaft beendet
-    ist.
+    Berufsausübungsgesellschaft
+
+    a)  die Voraussetzungen der Nummer 2 vorliegen,
+
+
+    b)  gegen das Mitglied des Geschäftsführungs- oder Aufsichtsorgans eine
+        bestandskräftige Entscheidung im Sinne des § 52j Absatz 5 Satz 3
+        ergangen ist oder
+
+
+    c)  die Geschäftsführungstätigkeit für die Berufsausübungsgesellschaft
+        oder die Mitgliedschaft im Aufsichtsorgan beendet ist.
+
+
+
 
 
 
@@ -2197,10 +2719,10 @@ dieses Gesetz keine Vorschriften enthält, durch die Satzung geregelt.
 (1) Die Patentanwaltskammer ist eine bundesunmittelbare Körperschaft
 des öffentlichen Rechts.
 
-(2) Der Präsident des Patentamts führt die Staatsaufsicht über die
-Patentanwaltskammer. Die Aufsicht beschränkt sich darauf, dass Gesetz
-und Satzung beachtet und insbesondere die der Patentanwaltskammer
-übertragenen Aufgaben erfüllt werden.
+(2) Der Präsident des Deutschen Patent- und Markenamts führt die
+Staatsaufsicht über die Patentanwaltskammer. Die Aufsicht beschränkt
+sich darauf, dass Gesetz und Satzung beachtet und insbesondere die der
+Patentanwaltskammer übertragenen Aufgaben erfüllt werden.
 
 
 ### Zweiter Abschnitt - Organe der Patentanwaltskammer
@@ -2240,26 +2762,35 @@ Zum Mitglied des Vorstands kann nur gewählt werden, wer
 
 
 
-##### § 60 Ausschluss von der Wählbarkeit
+##### § 60 Verlust der Wählbarkeit
 
-Zum Mitglied des Vorstands kann nicht gewählt werden ein Patentanwalt,
+(1) Zum Mitglied des Vorstands kann nicht gewählt werden,
 
-1.  gegen den ein berufsgerichtliches Verfahren eingeleitet oder ein
-    Berufs- oder Vertretungsverbot verhängt ist;
-
-
-2.  gegen den die öffentliche Klage wegen einer Straftat, welche die
-    Unfähigkeit zur Bekleidung öffentlicher Ämter zur Folge haben kann,
-    erhoben ist;
+1.  gegen wen ein Berufs- oder Vertretungsverbot verhängt ist,
 
 
-3.  gegen den in den letzten fünf Jahren ein Verweis oder eine Geldbuße (§
-    96 Absatz 1 Nummer 3) verhängt oder in den letzten fünfzehn Jahren auf
-    Ausschließung aus der Patentanwaltschaft oder aus der
-    Rechtsanwaltschaft erkannt worden ist.
+2.  gegen wen die sofortige Vollziehung der Rücknahme oder des Widerrufs
+    der Zulassung angeordnet ist,
+
+
+3.  gegen wen in den letzten fünf Jahren ein Verweis (§ 96 Absatz 1 Nummer
+    2) oder eine Geldbuße (§ 96 Absatz 1 Nummer 3) verhängt wurde,
+
+
+4.  wer in den letzten 15 Jahren aus der Patentanwaltschaft ausgeschlossen
+    wurde (§ 96 Absatz 1 Nummer 4) oder
+
+
+5.  bei wem in den letzten fünf Jahren nach § 97b von einer
+    berufsgerichtlichen Ahndung abgesehen wurde, sofern ohne die
+    anderweitige Ahndung voraussichtlich ein Verweis oder eine Geldbuße
+    verhängt worden wäre.
 
 
 
+
+(2) Die Geschäftsordnung der Kammer kann weitere Ausschlussgründe
+vorsehen.
 
 
 ##### § 61 Recht zur Ablehnung der Wahl
@@ -2302,7 +2833,8 @@ Neuwahl statt, so sind beide Wahlen getrennt vorzunehmen.
 (1) Ein Patentanwalt scheidet als Mitglied des Vorstands aus,
 
 1.  wenn er nicht mehr Mitglied der Patentanwaltskammer ist oder seine
-    Wählbarkeit aus den in § 60 Nr. 3 angegebenen Gründen verliert;
+    Wählbarkeit aus den in § 60 Absatz 1 Nummer 3 und 5 angegebenen
+    Gründen verliert;
 
 
 2.  wenn er sein Amt niederlegt.
@@ -2322,11 +2854,16 @@ einer bei der letzten Wahl nicht gewählten Person oder durch eine
 Nachwahl erfolgen. Das Nähere bestimmt die Geschäftsordnung der
 Kammer.
 
-(4) Ist gegen ein Mitglied des Vorstands eine öffentliche Klage im
-Sinne des § 60 Nr. 2 erhoben oder ein berufsgerichtliches Verfahren
-eingeleitet, so ruht seine Mitgliedschaft im Vorstand, bis das
-Verfahren erledigt ist. Ist ein Berufs- oder Vertretungsverbot
-verhängt worden, so ruht die Mitgliedschaft für dessen Dauer.
+(4) Wird gegen ein Mitglied des Vorstands eine der in § 60 Absatz 1
+Nummer 1 oder 2 genannten Maßnahmen verhängt oder angeordnet, ruht
+seine Mitgliedschaft für die Dauer der Maßnahme. Besteht gegen ein
+Mitglied des Vorstands der Verdacht einer schuldhaften Verletzung
+seiner beruflichen Pflichten, so ist es von einer Tätigkeit der
+Patentanwaltskammer in dieser Angelegenheit ausgeschlossen.
+
+(5) Die Geschäftsordnung der Kammer kann weitere Gründe vorsehen, die
+zum Ausscheiden aus dem Vorstand oder zum Ruhen der dortigen
+Mitgliedschaft führen.
 
 
 ##### § 64 Wahl des Präsidenten, des Schriftführers und des Schatzmeisters
@@ -2503,14 +3040,24 @@ Gesetzes über Ordnungswidrigkeiten.
 (1) Der Vorstand kann das Verhalten eines Patentanwalts, durch das
 dieser ihm obliegende Pflichten verletzt hat, rügen, wenn die Schuld
 des Patentanwalts gering ist und ein Antrag auf Einleitung eines
-berufsgerichtlichen Verfahrens nicht erforderlich erscheint. § 95 Abs.
-2 und 3, § 102 Abs. 2 und § 103a gelten entsprechend.
+berufsgerichtlichen Verfahrens nicht erforderlich erscheint. § 95
+Absatz 2 und 4, § 102 Absatz 1 und 2 sowie die §§ 97b, 102a und 102b
+gelten entsprechend. Für die Verjährung und deren Ruhen gilt § 97
+Absatz 1 Satz 1 und 3 sowie Absatz 2. Die erste Anhörung des
+Patentanwalts unterbricht die Verjährung ebenso wie die erste
+Vernehmung durch die Staatsanwaltschaft im berufsgerichtlichen
+Verfahren.
 
-(2) Der Vorstand darf eine Rüge nicht mehr erteilen, wenn das
-berufsgerichtliche Verfahren gegen den Patentanwalt eingeleitet ist
-oder wenn seit der Pflichtverletzung mehr als drei Jahre vergangen
-sind. Eine Rüge darf nicht erteilt werden, während das Verfahren auf
-den Antrag des Patentanwalts nach § 108 anhängig ist.
+(2) Eine Rüge darf nicht erteilt werden,
+
+1.  wenn gegen den Patentanwalt eine berufsgerichtliches Verfahren
+    eingeleitet wurde oder
+
+
+2.  während ein Verfahren nach § 108 anhängig ist.
+
+
+
 
 (3) Bevor die Rüge erteilt wird, ist der Patentanwalt zu hören.
 
@@ -2523,8 +3070,12 @@ zuzustellen. Eine Abschrift des Bescheids ist der Staatsanwaltschaft
 der Zustellung bei dem Vorstand Einspruch erheben. Über den Einspruch
 entscheidet der Vorstand; Absatz 4 ist entsprechend anzuwenden.
 
-(6) Die Absätze 1 bis 5 sind auf Personen, die nach § 53 Absatz 2
-Nummer 3 der Patentanwaltskammer angehören, entsprechend anzuwenden.
+(6) Die Absätze 1 bis 5 sind auf zugelassene
+Berufsausübungsgesellschaften entsprechend anzuwenden, wenn in den
+Fällen des § 95 Absatz 3 die Bedeutung der Pflichtverletzung gering
+ist und ein Antrag auf Einleitung eines anwaltsgerichtlichen
+Verfahrens nicht erforderlich scheint. § 95 Absatz 5, die §§ 95b und
+103 Absatz 2 sowie die §§ 103a bis 103c sind entsprechend anzuwenden.
 
 
 ##### § 70a Antrag auf Entscheidung des Landgerichts
@@ -2556,7 +3107,7 @@ des Patentanwalts sei gering und der Antrag auf Einleitung des
 berufsgerichtlichen Verfahrens nicht erforderlich. Treten die
 Voraussetzungen, unter denen nach § 102 Abs. 2 ein berufsgerichtliches
 Verfahren nicht eingeleitet oder fortgesetzt werden darf oder nach §
-103a von einer berufsgerichtlichen Ahndung abzusehen ist, erst ein,
+97b von einer berufsgerichtlichen Ahndung abzusehen ist, erst ein,
 nachdem der Vorstand die Rüge erteilt hat, so hebt das Landgericht den
 Rügebescheid auf. Der Beschluß ist mit Gründen zu versehen. Er kann
 nicht angefochten werden.
@@ -2571,12 +3122,15 @@ Vorstand der Patentanwaltskammer gerügt hat, ein berufsgerichtliches
 Verfahren gegen den Patentanwalt ein, bevor die Entscheidung über den
 Antrag nach Absatz 1 ergangen ist, so wird das Verfahren über den
 Antrag bis zum rechtskräftigen Abschluß des berufsgerichtlichen
-Verfahrens ausgesetzt. In den Fällen des § 103 Abs. 2 stellt das
+Verfahrens ausgesetzt. In den Fällen des § 97a Absatz 2 stellt das
 Landgericht nach Beendigung der Aussetzung fest, daß die Rüge
 unwirksam ist.
 
-(7) Die Absätze 1 bis 6 sind auf Personen, die nach § 53 Absatz 2
-Nummer 3 der Patentanwaltskammer angehören, entsprechend anzuwenden.
+(7) Die Absätze 1 bis 6 sind auf zugelassene
+Berufsausübungsgesellschaften entsprechend anzuwenden. Die §§ 95b und
+103 Absatz 2 sowie die §§ 103a bis 103c sind entsprechend anzuwenden.
+
+(8) § 98 Absatz 2 gilt entsprechend.
 
 
 ##### § 71 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
@@ -2649,14 +3203,14 @@ Geschäftsordnungen des Vorstands und der Kammer weitere Aufgaben
 ##### § 74 Berichte über die Tätigkeit der Kammer und über Wahlergebnisse
 
 (1) Der Präsident erstattet dem Bundesministerium der Justiz und für
-Verbraucherschutz und dem Präsidenten des Patentamts jährlich Bericht
-über die Tätigkeit der Kammer.
+Verbraucherschutz und dem Deutschen Patent- und Markenamt jährlich
+Bericht über die Tätigkeit der Kammer.
 
 (2) Der Präsident zeigt das Ergebnis der Wahlen zum Vorstand, zum
 Präsidenten und zum Vizepräsidenten, zum Schriftführer, zum
 Schatzmeister und zu deren Vertretungen alsbald dem Bundesministerium
-der Justiz und für Verbraucherschutz und dem Präsidenten des
-Patentamts an. Die Patentanwaltskammer macht das Ergebnis der Wahlen
+der Justiz und für Verbraucherschutz und dem Deutschen Patent- und
+Markenamt an. Die Patentanwaltskammer macht das Ergebnis der Wahlen
 auf ihrer Internetseite und im Blatt für Patent-, Muster- und
 Zeichenwesen bekannt.
 
@@ -2765,8 +3319,8 @@ allgemeiner Bedeutung für die Patentanwaltschaft sind, zu erörtern.
 
 (2) Der Kammerversammlung obliegt insbesondere,
 
-1.  die Berufsordnung (§ 52b Abs. 1) und die Satzung der Kammer (§ 56) zu
-    beschließen;
+1.  die Berufsordnung (§ 52a Absatz 1) und die Satzung der Kammer (§ 56)
+    zu beschließen;
 
 
 2.  die Geschäftsordnung der Kammer zu beschließen;
@@ -2848,8 +3402,8 @@ Absatz 1 entsprechend.
 
 (1) Für Angelegenheiten, die in diesem Gesetz dem Landgericht
 zugewiesen sind, wird bei dem Landgericht, in dessen Bezirk das
-Patentamt seinen Sitz hat, eine Kammer für Patentanwaltssachen
-gebildet.
+Deutsche Patent- und Markenamt seinen Sitz hat, eine Kammer für
+Patentanwaltssachen gebildet.
 
 (2) Die Kammer für Patentanwaltssachen entscheidet in der Besetzung
 mit einem Mitglied des Landgerichts als Vorsitzendem und zwei
@@ -2876,9 +3430,9 @@ werden den Vorschlagslisten entnommen, die der Vorstand der
 Patentanwaltskammer der Landesjustizverwaltung je gesondert für das
 Landgericht und das Oberlandesgericht einreicht. Die
 Landesjustizverwaltung bestimmt, welche Zahl von patentanwaltlichen
-Mitgliedern erforderlich ist; sie hat vorher den Vorstand der
-Patentanwaltskammer zu hören. Jede Vorschlagsliste muß mindestens die
-Hälfte mehr als die erforderliche Zahl von Patentanwälten enthalten.
+Mitgliedern erforderlich ist; sie hat vorher die Patentanwaltskammer
+zu hören. Jede Vorschlagsliste muß mindestens die Hälfte mehr als die
+erforderliche Zahl der patentanwaltlichen Mitglieder enthalten.
 
 (2) Die Landesregierung wird ermächtigt, die der
 Landesjustizverwaltung nach Absatz 1 zustehenden Befugnisse durch
@@ -2925,30 +3479,28 @@ Gerichts, dem das patentanwaltliche Mitglied angehört.
 
 #### § 89 Ende des Amtes des patentanwaltlichen Mitglieds
 
-(1) Das Amt eines Mitglieds der Kammer für Patentanwaltssachen oder
-des Senats für Patentanwaltssachen endet, sobald die Mitgliedschaft in
-der Patentanwaltskammer endet oder nachträglich ein Umstand eintritt,
-der nach § 87 Absatz 3 Satz 2 der Ernennung entgegensteht, und das
-Mitglied jeweils zustimmt. Das Mitglied und die Patentanwaltskammer
-haben Umstände nach Satz 1 der für die Ernennung zuständigen Behörde
-und dem jeweiligen Gericht unverzüglich mitzuteilen. Die Beendigung
-des Amtes ist auf Antrag der für die Ernennung zuständigen Behörde
-gerichtlich festzustellen, wenn das betroffene Mitglied der Beendigung
-nicht zugestimmt hat.
+(1) Das Amt eines patentanwaltlichen Mitglieds der Kammer für
+Patentanwaltssachen oder des Senats für Patentanwaltssachen endet,
+sobald die Mitgliedschaft in der Patentanwaltskammer endet oder
+nachträglich ein Umstand eintritt, der nach § 87 Absatz 3 Satz 2 der
+Ernennung entgegensteht, und das Mitglied jeweils zustimmt. Das
+Mitglied und die Patentanwaltskammer haben Umstände nach Satz 1 der
+für die Ernennung zuständigen Behörde und dem jeweiligen Gericht
+unverzüglich mitzuteilen. Die Beendigung des Amtes ist auf Antrag der
+für die Ernennung zuständigen Behörde gerichtlich festzustellen, wenn
+das betroffene Mitglied der Beendigung nicht zugestimmt hat.
 
-(2) Ein Patentanwalt ist auf Antrag der für die Ernennung zuständigen
-Behörde seines Amts als patentanwaltliches Mitglied zu entheben,
+(2) Ein patentanwaltliches Mitglied ist auf Antrag der für seine
+Ernennung zuständigen Behörde seines Amts zu entheben, wenn
 
-1.  wenn nachträglich bekannt wird, daß er nicht hätte zum
-    patentanwaltlichen Mitglied ernannt werden dürfen;
-
-
-2.  wenn nachträglich ein Umstand eintritt, welcher der Ernennung zum
-    patentanwaltlichen Mitglied entgegensteht;
+1.  nachträglich bekannt wird, dass es nicht hätte ernannt werden dürfen,
 
 
-3.  wenn der Patentanwalt seine Amtspflicht als patentanwaltliches
-    Mitglied grob verletzt.
+2.  nachträglich ein Umstand eintritt, der seiner Ernennung
+    entgegengestanden hätte, oder
+
+
+3.  es seine Amtspflicht grob verletzt.
 
 
 
@@ -2956,14 +3508,14 @@ Behörde seines Amts als patentanwaltliches Mitglied zu entheben,
 (3) Über die Anträge entscheidet ein Zivilsenat des
 Oberlandesgerichts, bei dem der Senat für Patentanwaltssachen besteht.
 Bei der Entscheidung dürfen die Mitglieder des Senats für
-Patentanwaltssachen nicht mitwirken. Vor der Entscheidung sind der
-Patentanwalt und der Vorstand der Patentanwaltskammer zu hören. Die
+Patentanwaltssachen nicht mitwirken. Vor der Entscheidung sind das
+patentanwaltliche Mitglied und die Patentanwaltskammer zu hören. Die
 Entscheidung ist endgültig.
 
-(4) Die für die Ernennung zuständige Behörde kann einen Patentanwalt
-auf seinen Antrag aus dem Amt als patentanwaltliches Mitglied
-entlassen, wenn er aus gesundheitlichen Gründen auf nicht absehbare
-Zeit gehindert oder es ihm aus gewichtigen persönlichen Gründen nicht
+(4) Die für die Ernennung zuständige Behörde kann ein
+patentanwaltliches Mitglied auf seinen Antrag aus dem Amt entlassen,
+wenn es aus gesundheitlichen Gründen auf nicht absehbare Zeit
+gehindert oder es ihm aus gewichtigen persönlichen Gründen nicht
 zuzumuten ist, sein Amt weiter auszuüben.
 
 
@@ -2996,10 +3548,10 @@ Bundesministerium der Justiz und für Verbraucherschutz berufen. Sie
 werden der Vorschlagsliste entnommen, die der Vorstand der
 Patentanwaltskammer dem Bundesministerium der Justiz und für
 Verbraucherschutz einreicht. Das Bundesministerium der Justiz und für
-Verbraucherschutz bestimmt, welche Zahl von patentanwaltlichen
-Beisitzern erforderlich ist; er hat vorher den Vorstand der
-Patentanwaltskammer zu hören. Die Vorschlagsliste soll mindestens die
-doppelte Zahl von Patentanwälten enthalten.
+Verbraucherschutz bestimmt nach Anhörung der Patentanwaltskammer,
+welche Zahl von patentanwaltlichen Beisitzern erforderlich ist. Die
+Vorschlagsliste soll mindestens die doppelte Zahl von Patentanwälten
+enthalten.
 
 (2) § 87 Absatz 3 und 4 ist entsprechend anzuwenden. Die Übernahme des
 Beisitzeramts kann aus den in § 61 angeführten Gründen abgelehnt
@@ -3028,8 +3580,7 @@ Beisitzers ist § 89 Absatz 2 und 4 anzuwenden.
 (3) Über die Anträge entscheidet ein Zivilsenat des
 Bundesgerichtshofs. Bei der Entscheidung dürfen die Mitglieder des
 Senats für Patentanwaltssachen nicht mitwirken. Vor der Entscheidung
-sind der Patentanwalt und der Vorstand der Patentanwaltskammer zu
-hören.
+sind der Patentanwalt und die Patentanwaltskammer zu hören.
 
 
 #### § 94 Reihenfolge der Teilnahme an den Sitzungen
@@ -3132,11 +3683,11 @@ unter Verletzung des Gesetzes oder der Satzung zustande gekommen oder
 wenn sie ihrem Inhalt nach mit dem Gesetz oder der Satzung nicht
 vereinbar sind.
 
-(2) Die Klage kann durch den Präsidenten des Patentamts oder ein
-Mitglied der Patentanwaltskammer erhoben werden. Die Klage eines
-Mitglieds der Patentanwaltskammer gegen einen Beschluss ist nur
-zulässig, wenn es geltend macht, durch den Beschluss in seinen Rechten
-verletzt zu sein.
+(2) Die Klage kann durch den Präsidenten des Deutschen Patent- und
+Markenamts oder ein Mitglied der Patentanwaltskammer erhoben werden.
+Die Klage eines Mitglieds der Patentanwaltskammer gegen einen
+Beschluss ist nur zulässig, wenn es geltend macht, durch den Beschluss
+in seinen Rechten verletzt zu sein.
 
 (3) Ein Mitglied der Kammer kann den Antrag nur innerhalb eines Monats
 nach der Wahl oder Beschlussfassung stellen.
@@ -3169,8 +3720,8 @@ Patentanwaltskammer zu übermitteln.
 ### § 95 Ahndung einer Pflichtverletzung
 
 (1) Gegen einen Patentanwalt, der schuldhaft gegen Pflichten verstößt,
-die in diesem Gesetz oder in der Berufsordnung bestimmt sind, wird
-eine berufsgerichtliche Maßnahme verhängt.
+die in diesem Gesetz oder in der Berufsordnung nach § 52a bestimmt
+sind, wird eine berufsgerichtliche Maßnahme verhängt.
 
 (2) Ein außerhalb des Berufes liegendes Verhalten eines Patentanwalts,
 das eine rechtswidrige Tat oder eine mit Geldbuße bedrohte Handlung
@@ -3180,14 +3731,74 @@ geeignet ist, Achtung und Vertrauen der Rechtsuchenden in einer für
 die Ausübung der Patentanwaltstätigkeit bedeutsamen Weise zu
 beeinträchtigen.
 
-(3) Eine berufsgerichtliche Maßnahme kann nicht verhängt werden, wenn
-der Patentanwalt zur Zeit der Tat der patentanwaltlichen
-Berufsgerichtsbarkeit nicht unterstand.
+(3) Gegen eine zugelassene Berufsausübungsgesellschaft wird eine
+berufsgerichtliche Maßnahme verhängt, wenn
+
+1.  eine Leitungsperson der Berufsausübungsgesellschaft schuldhaft gegen
+    Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung
+    nach § 52a bestimmt sind, oder
+
+
+2.  eine Person, die nicht Leitungsperson ist, in Wahrnehmung der
+    Angelegenheiten der Berufsausübungsgesellschaft gegen Pflichten
+    verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 52a
+    bestimmt sind, wenn die Pflichtverletzung durch angemessene
+    organisatorische, personelle oder technische Maßnahmen hätte
+    verhindert oder wesentlich erschwert werden können.
+
+
+
+
+(4) Eine berufsgerichtliche Maßnahme kann nicht verhängt werden, wenn
+der Patentanwalt oder die zugelassene Berufsausübungsgesellschaft zur
+Zeit der Tat der patentanwaltlichen Berufsgerichtsbarkeit nicht
+unterstand.
+
+(5) Berufsgerichtliche Maßnahmen gegen einen Patentanwalt und gegen
+die Berufsausübungsgesellschaft, der dieser angehört, können
+nebeneinander verhängt werden.
+
+
+### § 95a Leitungspersonen
+
+Leitungspersonen einer Berufsausübungsgesellschaft sind
+
+1.  die Mitglieder eines vertretungsberechtigten Organs einer juristischen
+    Person,
+
+
+2.  die vertretungsberechtigten Gesellschafter einer rechtsfähigen
+    Personengesellschaft,
+
+
+3.  die Generalbevollmächtigten,
+
+
+4.  die Prokuristen und Handlungsbevollmächtigten, soweit sie eine
+    leitende Stellung innehaben, sowie
+
+
+5.  nicht in den Nummern 1 bis 4 genannte Personen, die für die Leitung
+    der Berufsausübungsgesellschaft verantwortlich handeln, wozu auch die
+    Überwachung der Geschäftsführung oder die sonstige Ausübung von
+    Kontrollbefugnissen in leitender Stellung gehört.
+
+
+
+
+
+### § 95b Rechtsnachfolger
+
+Im Fall einer Gesamtrechtsnachfolge oder einer partiellen
+Gesamtrechtsnachfolge durch Aufspaltung (§ 123 Absatz 1 des
+Umwandlungsgesetzes) können berufsgerichtliche Maßnahmen gegen den
+oder die Rechtsnachfolger verhängt werden.
 
 
 ### § 96 Berufsgerichtliche Maßnahmen
 
-(1) Berufsgerichtliche Maßnahmen sind
+(1) Berufsgerichtliche Maßnahmen sind bei Verfahren gegen
+Patentanwälte
 
 1.  Warnung,
 
@@ -3195,7 +3806,7 @@ Berufsgerichtsbarkeit nicht unterstand.
 2.  Verweis,
 
 
-3.  Geldbuße bis zu fünfundzwanzigtausend Euro,
+3.  Geldbuße bis zu fünfzigtausend Euro,
 
 
 4.  Ausschließung aus der Patentanwaltschaft.
@@ -3203,30 +3814,96 @@ Berufsgerichtsbarkeit nicht unterstand.
 
 
 
-(2) Die berufsgerichtlichen Maßnahmen des Verweises und der Geldbuße
+(2) Berufsgerichtliche Maßnahmen sind bei Verfahren gegen
+Berufsausübungsgesellschaften
+
+1.  Warnung,
+
+
+2.  Verweis,
+
+
+3.  Geldbuße bis zu fünfhunderttausend Euro,
+
+
+4.  Aberkennung der Befugnis zur Beratung und Vertretung nach § 3.
+
+
+
+
+(3) Die berufsgerichtlichen Maßnahmen des Verweises und der Geldbuße
 können nebeneinander verhängt werden.
 
 
-### § 97 Verjährung der Verfolgung einer Pflichtverletzung
+### § 97 Verjährung von Pflichtverletzungen
 
-(1) Die Verfolgung einer Pflichtverletzung, die nicht die
-Ausschließung aus der Patentanwaltschaft rechtfertigt, verjährt in
-fünf Jahren. § 78 Abs. 1, § 78a Satz 1 sowie die §§ 78b und 78c Abs. 1
-bis 4 des Strafgesetzbuches gelten entsprechend.
+(1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
+Abweichend davon verjährt die Verfolgung einer Pflichtverletzung, die
+eine Maßnahme nach § 96 Absatz 1 Nummer 4 oder Absatz 2 Nummer 4
+rechtfertigt, nach 20 Jahren. Die Verjährung beginnt, sobald die Tat
+beendet ist.
 
-(2) Ist vor Ablauf der Verjährungsfrist wegen desselben Sachverhalts
-ein Strafverfahren eingeleitet worden, ist der Ablauf der
-Verjährungsfrist für die Dauer des Strafverfahrens gehemmt.
+(2) Für das Ruhen der Verjährung gilt § 78b Absatz 1 bis 3 des
+Strafgesetzbuches entsprechend. Die Verjährung ruht zudem für die
+Dauer
+
+1.  eines wegen desselben Verhaltens eingeleiteten Straf- oder
+    Bußgeldverfahrens,
 
 
-### § 97a Vorschriften für Geschäftsführer von Patentanwaltsgesellschaften
+2.  eines wegen desselben Verhaltens eingeleiteten vorrangigen
+    berufsaufsichtlichen Verfahrens und
 
-Die Vorschriften des Sechsten und Siebenten Teils sowie die §§ 148 bis
-151 sind entsprechend anzuwenden auf Personen, die nach § 53 Absatz 2
-Nummer 3 der Patentanwaltskammer angehören. An die Stelle der
-Ausschließung aus der Patentanwaltschaft tritt die Aberkennung der
-Eignung, eine Patentanwaltsgesellschaft zu vertreten und ihre
-Geschäfte zu führen.
+
+3.  einer Aussetzung des Verfahrens nach § 102b.
+
+
+
+
+(3) Für die Unterbrechung der Verjährung gilt § 78c Absatz 1 bis 4 des
+Strafgesetzbuches entsprechend.
+
+
+### § 97a Rüge und berufsgerichtliche Maßnahme
+
+(1) Der Einleitung eines berufsgerichtlichen Verfahrens steht es nicht
+entgegen, dass der Vorstand der Patentanwaltskammer bereits wegen
+desselben Verhaltens eine Rüge erteilt hat (§ 70). Hat das Landgericht
+den Rügebescheid aufgehoben (§ 70a), weil es eine Pflichtverletzung
+nach § 95 Absatz 1 bis 3 nicht festgestellt hat, so kann ein
+berufsgerichtliches Verfahren wegen desselben Verhaltens nur auf Grund
+solcher Tatsachen und Beweismittel eingeleitet werden, die dem Gericht
+bei seiner Entscheidung nicht bekannt waren.
+
+(2) Die Rüge wird mit der Rechtskraft eines berufsgerichtlichen
+Urteils unwirksam, das wegen desselben Verhaltens gegen den
+Patentanwalt oder die Berufsausübungsgesellschaft ergeht und auf
+Freispruch oder eine berufsgerichtliche Maßnahme lautet. Die Rüge wird
+auch unwirksam, wenn rechtskräftig die Eröffnung des Hauptverfahrens
+abgelehnt ist, weil eine Pflichtverletzung nach § 95 Absatz 1 bis 3
+nicht festzustellen ist.
+
+
+### § 97b Anderweitige Ahndung
+
+Von einer berufsgerichtlichen Ahndung ist abzusehen, wenn
+
+1.  durch ein Gericht oder eine Behörde wegen desselben Verhaltens bereits
+    eine Strafe, eine Geldbuße nach dem Gesetz über Ordnungswidrigkeiten
+    oder eine berufsaufsichtliche Maßnahme verhängt worden ist oder
+
+
+2.  das Verhalten nach § 153a Absatz 1 Satz 5, auch in Verbindung mit
+    Absatz 2 Satz 2, der Strafprozessordnung nicht mehr als Vergehen
+    verfolgt werden kann.
+
+
+
+Satz 1 gilt nicht, wenn eine berufsgerichtliche Maßnahme zusätzlich
+erforderlich ist, um den Patentanwalt zur Erfüllung seiner Pflichten
+anzuhalten. Die Erforderlichkeit einer Maßnahme nach § 96 Absatz 1
+Nummer 4 oder Absatz 2 Nummer 4 bleibt durch eine anderweitige Ahndung
+unberührt.
 
 
 ## Siebenter Teil - Berufsgerichtliches Verfahren
@@ -3237,7 +3914,11 @@ Geschäfte zu führen.
 
 
 
-#### § 98 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren
+#### Erster Unterabschnitt - Allgemeine Verfahrensregeln
+
+
+
+##### § 98 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren
 
 (1) Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften. Ergänzend sind das Gerichtsverfassungsgesetz und die
@@ -3250,7 +3931,7 @@ Senats für Patentanwaltssachen bei dem Oberlandesgericht und bei dem
 Bundesgerichtshof regeln, sind nicht anzuwenden.
 
 
-#### § 99 Keine Verhaftung des Patentanwalts
+##### § 99 Keine Verhaftung des Patentanwalts
 
 Der Patentanwalt darf zur Durchführung des berufsgerichtlichen
 Verfahrens weder vorläufig festgenommen noch verhaftet oder vorgeführt
@@ -3259,51 +3940,55 @@ psychischen Zustand in ein psychiatrisches Krankenhaus gebracht
 werden.
 
 
-#### § 100 Verteidigung
+##### § 100 Verteidigung
 
 (1) Zu Verteidigern im berufsgerichtlichen Verfahren können außer den
 in § 138 Abs. 1 der Strafprozeßordnung genannten Personen auch
-Patentanwälte gewählt werden. Patentanwaltsgesellschaften können nicht
-zu Verteidigern gewählt werden.
+Patentanwälte gewählt werden. Berufsausübungsgesellschaften können
+nicht zu Verteidigern gewählt werden.
 
 (2) § 140 Abs. 1 Nr. 1 bis 3, 6, 7 und 9 der Strafprozeßordnung ist im
 berufsgerichtlichen Verfahren nicht anzuwenden.
 
 
-#### § 101 Akteneinsicht des Patentanwalts
+##### § 101 Akteneinsicht des Patentanwalts
 
-Der Patentanwalt ist befugt, die Akten, die dem Gericht vorliegen oder
-diesem im Falle der Einreichung einer Anschuldigungsschrift vorzulegen
-wären, einzusehen sowie amtlich verwahrte Beweisstücke zu besichtigen.
-§ 147 Abs. 2 Satz 1, Abs. 3, 5 und 6 der Strafprozeßordnung ist
-insoweit entsprechend anzuwenden.
+Das Mitglied der Patentanwaltskammer ist befugt, die Akten, die dem
+Gericht vorliegen oder diesem im Falle der Einreichung einer
+Anschuldigungsschrift vorzulegen wären, einzusehen sowie amtlich
+verwahrte Beweisstücke zu besichtigen. § 147 Abs. 2 Satz 1, Abs. 3, 5
+und 6 der Strafprozeßordnung ist insoweit entsprechend anzuwenden.
 
 
-#### § 102 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
+##### § 102 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
 
-(1) Ist gegen einen Patentanwalt, der einer Verletzung seiner
-Pflichten beschuldigt wird, wegen desselben Verhaltens die öffentliche
-Klage im strafgerichtlichen Verfahren erhoben, so kann gegen ihn ein
-berufsgerichtliches Verfahren zwar eingeleitet, es muß aber bis zur
-Beendigung des strafgerichtlichen Verfahrens ausgesetzt werden. Ebenso
-muß ein bereits eingeleitetes berufsgerichtliches Verfahren ausgesetzt
-werden, wenn während seines Laufes die öffentliche Klage im
-strafgerichtlichen Verfahren erhoben wird. Das berufsgerichtliche
-Verfahren ist fortzusetzen, wenn die Sachaufklärung so gesichert
-erscheint, daß sich widersprechende Entscheidungen nicht zu erwarten
-sind, oder wenn im strafgerichtlichen Verfahren aus Gründen nicht
-verhandelt werden kann, die in der Person des Patentanwalts liegen.
+(1) Ist gegen ein Mitglied der Patentanwaltskammer, das einer
+Verletzung seiner Pflichten beschuldigt wird, wegen desselben
+Verhaltens die öffentliche Klage im Strafverfahren erhoben oder ein
+Bußgeldbescheid erlassen, so kann gegen das Mitglied ein
+berufsgerichtliches Verfahren eingeleitet werden, das aber bis zur
+Beendigung des Straf- oder Bußgeldverfahrens ausgesetzt werden muss.
+Ebenso muß ein bereits eingeleitetes berufsgerichtliches Verfahren
+ausgesetzt werden, wenn während seines Laufes die öffentliche Klage im
+Strafverfahren erhoben oder ein Bußgeldbescheid erlassen wird. In den
+Fällen der Sätze 1 und 2 ist das berufsgerichtliche Verfahren vor der
+Beendigung des Straf- oder Bußgeldverfahrens fortzusetzen, wenn die
+Sachaufklärung so gesichert erscheint, dass sich widersprechende
+Entscheidungen nicht zu erwarten sind, oder wenn im Straf- oder
+Bußgeldverfahren aus Gründen nicht verhandelt werden kann, die in der
+Person des Mitglieds der Patentanwaltskammer liegen.
 
-(2) Wird der Patentanwalt im gerichtlichen Verfahren wegen einer
-Straftat oder einer Ordnungswidrigkeit freigesprochen, so kann wegen
-der Tatsachen, die Gegenstand der gerichtlichen Entscheidung waren,
-ein berufsgerichtliches Verfahren nur dann eingeleitet oder
-fortgesetzt werden, wenn diese Tatsachen, ohne den Tatbestand einer
-Strafvorschrift oder einer Bußgeldvorschrift zu erfüllen, eine
-Verletzung der Pflichten des Patentanwalts enthalten.
+(2) Wird das Mitglied der Patentanwaltskammer im gerichtlichen
+Verfahren wegen einer Straftat oder einer Ordnungswidrigkeit
+freigesprochen, so kann wegen der Tatsachen, die Gegenstand der
+gerichtlichen Entscheidung waren, ein berufsgerichtliches Verfahren
+nur dann eingeleitet oder fortgesetzt werden, wenn diese Tatsachen,
+ohne den Tatbestand einer Strafvorschrift oder einer Bußgeldvorschrift
+zu erfüllen, eine Verletzung der Pflichten des Mitglieds der
+Patentanwaltskammer enthalten.
 
 (3) Für die Entscheidung im berufsgerichtlichen Verfahren sind die
-tatsächlichen Feststellungen des Urteils im Strafverfahren oder
+tatsächlichen Feststellungen des Urteils im Straf- oder
 Bußgeldverfahren bindend, auf denen die Entscheidung des Gerichts
 beruht. In dem berufsgerichtlichen Verfahren kann ein Gericht jedoch
 die nochmalige Prüfung solcher Feststellungen beschließen, deren
@@ -3315,48 +4000,36 @@ bringen.
 fortgesetzt, ist die Wiederaufnahme des rechtskräftig abgeschlossenen
 berufsgerichtlichen Verfahrens auch zulässig, wenn die tatsächlichen
 Feststellungen, auf denen die Verurteilung oder der Freispruch im
-berufsgerichtlichen Verfahren beruht, den Feststellungen im
-strafgerichtlichen Verfahren widersprechen. Den Antrag auf
-Wiederaufnahme des Verfahrens kann die Staatsanwaltschaft oder der
-Patentanwalt binnen eines Monats nach Rechtskraft des Urteils im
-strafgerichtlichen Verfahren stellen.
+berufsgerichtlichen Verfahren beruht, den Feststellungen im Straf-
+oder Bußgeldverfahren widersprechen. Den Antrag auf Wiederaufnahme des
+Verfahrens kann die Staatsanwaltschaft oder das Mitglied der
+Patentanwaltskammer binnen eines Monats nach Rechtskraft des Urteils
+im Straf- oder Bußgeldverfahren stellen.
 
 
-#### § 102a Verhältnis des berufsgerichtlichen Verfahrens zu Verfahren anderer Berufsgerichtsbarkeiten
+##### § 102a Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
 
-(1) Über eine Pflichtverletzung eines Patentanwalts, der zugleich der
-Disziplinar-, Ehren- oder Berufsgerichtsbarkeit eines anderen Berufs
-untersteht, wird im berufsgerichtlichen Verfahren für Patentanwälte
-entschieden, es sei denn, daß die Pflichtverletzung überwiegend mit
-der Ausübung des anderen Berufs in Zusammenhang steht. Dies gilt nicht
-für die Ausschließung oder für die Entfernung aus dem anderen Beruf.
+(1) Über eine Pflichtverletzung eines Mitglieds der
+Patentanwaltskammer, die zugleich Pflichten eines anderen Berufs
+verletzt, dessen Berufsaufsicht es untersteht, ist zunächst im
+berufsgerichtlichen Verfahren für Patentanwälte zu entscheiden, wenn
+die Pflichtverletzung überwiegend mit der Ausübung des Berufs des
+Patentanwalts in Zusammenhang steht. Ist kein Schwerpunkt der
+Pflichtverletzung erkennbar oder besteht kein Zusammenhang der
+Pflichtverletzung mit der Ausübung eines Berufs, so ist zunächst im
+berufsgerichtlichen Verfahren für Patentanwälte zu entscheiden, wenn
+das Mitglied hauptsächlich patentanwaltlich tätig ist.
 
-(2) Beabsichtigt die Staatsanwaltschaft gegen einen solchen
-Patentanwalt das berufsgerichtliche Verfahren einzuleiten, so teilt
-sie dies der Staatsanwaltschaft oder Behörde mit, die für die
-Einleitung des Verfahrens gegen ihn als Angehörigen des anderen Berufs
-zuständig wäre. Hat die für den anderen Beruf zuständige
-Staatsanwaltschaft oder Einleitungsbehörde die Absicht, gegen den
-Patentanwalt ein Verfahren einzuleiten, so unterrichtet sie die
-Staatsanwaltschaft, die für die Einleitung des berufsgerichtlichen
-Verfahrens gegen den Patentanwalt zuständig wäre (§ 105).
+(2) Kommt eine Maßnahme nach § 96 Absatz 1 Nummer 4 oder Absatz 2
+Nummer 4 in Betracht, ist stets im berufsgerichtlichen Verfahren für
+Patentanwälte zu entscheiden.
 
-(3) Hat das Gericht einer Disziplinar-, Ehren- oder
-Berufsgerichtsbarkeit sich zuvor rechtskräftig für zuständig oder
-unzuständig erklärt, über die Pflichtverletzung eines Patentanwalts,
-der zugleich der Disziplinar-, Ehren- oder Berufsgerichtsbarkeit eines
-anderen Berufs untersteht, zu entscheiden, so sind die anderen
-Gerichte an diese Entscheidung gebunden.
-
-(4) Die Absätze 1 bis 3 sind auf Patentanwälte im öffentlichen Dienst,
-die ihren Beruf als Patentanwalt nicht ausüben dürfen (§ 42), nicht
-anzuwenden.
-
-(5) § 118a der Bundesrechtsanwaltsordnung und § 110 der
-Bundesnotarordnung bleiben unberührt.
+(3) Gegenstand der Entscheidung im berufsgerichtlichen Verfahren für
+Patentanwälte ist nur die Verletzung der dem Mitglied obliegenden
+patentanwaltlichen Pflichten.
 
 
-#### § 102b Aussetzung des berufsgerichtlichen Verfahrens
+##### § 102b Aussetzung des berufsgerichtlichen Verfahrens
 
 Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn in einem
 anderen gesetzlich geordneten Verfahren über eine Frage zu entscheiden
@@ -3364,36 +4037,73 @@ ist, deren Beurteilung für die Entscheidung im berufsgerichtlichen
 Verfahren von wesentlicher Bedeutung ist.
 
 
-#### § 103 Rüge und berufsgerichtliche Maßnahme
-
-(1) Der Einleitung eines berufsgerichtlichen Verfahrens gegen einen
-Patentanwalt steht es nicht entgegen, daß der Vorstand der
-Patentanwaltskammer ihm bereits wegen desselben Verhaltens eine Rüge
-erteilt hat (§ 70). Hat das Landgericht den Rügebescheid aufgehoben (§
-70a), weil es eine schuldhafte Pflichtverletzung nicht festgestellt
-hat, so kann ein berufsgerichtliches Verfahren wegen desselben
-Verhaltens nur auf Grund solcher Tatsachen und Beweismittel
-eingeleitet werden, die dem Gericht bei seiner Entscheidung nicht
-bekannt waren.
-
-(2) Die Rüge wird mit der Rechtskraft eines berufsgerichtlichen
-Urteils unwirksam, das wegen desselben Verhaltens gegen den
-Patentanwalt ergeht und auf Freispruch oder eine berufsgerichtliche
-Maßnahme lautet. Die Rüge wird auch unwirksam, wenn rechtskräftig die
-Eröffnung des Hauptverfahrens abgelehnt ist, weil eine schuldhafte
-Pflichtverletzung nicht festzustellen ist.
+#### Zweiter Unterabschnitt - Berufsgerichtliches Verfahren gegen Berufsausübungsgesellschaften
 
 
-#### § 103a Anderweitige Ahndung
 
-Ist durch ein Gericht oder eine Behörde eine Strafe, eine
-Disziplinarmaßnahme, eine berufsgerichtliche Maßnahme oder eine
-Ordnungsmaßnahme verhängt worden, so ist von einer berufsgerichtlichen
-Ahndung desselben Verhaltens abzusehen, wenn nicht eine
-berufsgerichtliche Maßnahme zusätzlich erforderlich ist, um den
-Patentanwalt zur Erfüllung seiner Pflichten anzuhalten und das Ansehen
-der Patentanwaltschaft zu wahren. Der Ausschließung steht eine
-anderweitig verhängte Strafe oder Maßnahme nicht entgegen.
+##### § 103 Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften
+
+(1) Das berufsgerichtliche Verfahren gegen eine Leitungsperson und
+gegen eine Berufsausübungsgesellschaft können miteinander verbunden
+werden.
+
+(2) Von berufsgerichtlichen Maßnahmen gegen eine
+Berufsausübungsgesellschaft kann abgesehen werden, wenn sie unter
+Berücksichtigung aller Umstände des Einzelfalls, insbesondere der Art
+der Pflichtverletzung, deren Häufigkeit und Gleichförmigkeit und des
+Schwerpunkts der Vorwerfbarkeit, neben der Verhängung einer
+berufsgerichtlichen Maßnahme gegen die Leitungsperson nicht
+erforderlich erscheinen.
+
+
+##### § 103a Vertretung von Berufsausübungsgesellschaften
+
+(1) Die Berufsausübungsgesellschaft wird im berufsgerichtlichen
+Verfahren durch ihre gesetzlichen Vertreter vertreten.
+
+(2) Von der Vertretung ausgeschlossen sind Personen, die einer
+Berufspflichtverletzung beschuldigt sind.
+
+(3) § 51 Absatz 2 der Zivilprozessordnung gilt entsprechend.
+
+
+##### § 103b Besonderer Vertreter
+
+(1) Hat die Berufsausübungsgesellschaft keinen gesetzlichen Vertreter
+oder sind alle gesetzlichen Vertreter der Berufsausübungsgesellschaft
+von der Vertretung ausgeschlossen, so bestellt der Vorsitzende des
+Gerichts, das mit der Sache befasst ist, für die
+Berufsausübungsgesellschaft einen besonderen Vertreter. Der besondere
+Vertreter hat im berufsgerichtlichen Verfahren bis zum Eintritt eines
+gesetzlichen Vertreters die Stellung eines gesetzlichen Vertreters.
+
+(2) Vor Einreichung der Anschuldigungsschrift erfolgt die Bestellung
+des besonderen Vertreters auf Antrag der Staatsanwaltschaft. Für die
+Bestellung ist der Vorsitzende des Landgerichts zuständig.
+
+
+##### § 103c Verfahrenseintritt von Rechtsnachfolgern
+
+Im Fall einer Rechtsnachfolge (§ 95b) treten Rechtsnachfolger der
+Berufsausübungsgesellschaft in die Lage des berufsgerichtlichen
+Verfahrens ein, in der sich die Berufsausübungsgesellschaft zum
+Zeitpunkt des Wirksamwerdens der Rechtsnachfolge befunden hat.
+
+
+##### § 103d Vernehmung des gesetzlichen Vertreters
+
+(1) Dem gesetzlichen Vertreter der Berufsausübungsgesellschaft steht
+es im berufsgerichtlichen Verfahren frei, sich zu äußern oder nicht
+zur Sache auszusagen. § 133 Absatz 1 sowie die §§ 136 und 136a der
+Strafprozessordnung gelten für die Vernehmung des gesetzlichen
+Vertreters der Berufsausübungsgesellschaft entsprechend.
+
+(2) In anderen Verfahren kann der gesetzliche Vertreter der
+Berufsausübungsgesellschaft als Zeuge auch die Auskunft auf solche
+Fragen verweigern, deren Beantwortung der Berufsausübungsgesellschaft
+die Gefahr zuziehen würde, für eine Berufspflichtverletzung
+verantwortlich gemacht zu werden. § 55 Absatz 2 und § 56 der
+Strafprozessordnung gelten entsprechend.
 
 
 ### Zweiter Abschnitt - Verfahren im ersten Rechtszug
@@ -3432,17 +4142,18 @@ einreicht.
 ##### § 107 Gerichtliche Entscheidung über die Einleitung
 
 (1) Gibt die Staatsanwaltschaft einem Antrag des Vorstands der
-Patentanwaltskammer, gegen einen Patentanwalt das berufsgerichtliche
-Verfahren einzuleiten, keine Folge oder verfügt sie die Einstellung
-des Verfahrens, so hat sie ihre Entschließung dem Vorstand der
-Patentanwaltskammer unter Angabe der Gründe mitzuteilen.
+Patentanwaltskammer, gegen ein Mitglied der Patentanwaltskammer das
+berufsgerichtliche Verfahren einzuleiten, keine Folge oder verfügt sie
+die Einstellung des Verfahrens, so hat sie ihre Entschließung dem
+Vorstand der Patentanwaltskammer unter Angabe der Gründe mitzuteilen.
 
 (2) Der Vorstand der Patentanwaltskammer kann gegen den Bescheid der
 Staatsanwaltschaft innerhalb eines Monats nach der Bekanntmachung bei
 dem Oberlandesgericht die gerichtliche Entscheidung beantragen. Der
 Antrag muß die Tatsachen, welche die Einleitung des
 berufsgerichtlichen Verfahrens begründen sollen, und die Beweismittel
-angeben.
+angeben. Satz 1 gilt nicht, wenn das Landgericht der Einstellung
+zugestimmt hatte.
 
 (3) Auf das Verfahren vor dem Oberlandesgericht sind die §§ 173 bis
 175 der Strafprozeßordnung entsprechend anzuwenden.
@@ -3452,38 +4163,47 @@ angeben.
 
 ##### § 108 Antrag des Patentanwalts auf Einleitung des berufsgerichtlichen Verfahrens
 
-(1) Der Patentanwalt kann bei der Staatsanwaltschaft beantragen, das
-berufsgerichtliche Verfahren gegen ihn einzuleiten, damit er sich von
-dem Verdacht einer Pflichtverletzung reinigen kann. Wegen eines
-Verhaltens, wegen dessen Zwangsgeld angedroht oder festgesetzt worden
-ist (§ 50) oder das der Vorstand der Patentanwaltskammer gerügt hat (§
-70), kann der Patentanwalt den Antrag nicht stellen.
+(1) Das Mitglied der Patentanwaltskammer kann bei der
+Staatsanwaltschaft beantragen, das berufsgerichtliche Verfahren gegen
+es einzuleiten, damit es sich von dem Verdacht einer Pflichtverletzung
+reinigen kann. Wegen eines Verhaltens, wegen dessen Zwangsgeld
+angedroht oder festgesetzt worden ist (§ 50) oder das der Vorstand der
+Patentanwaltskammer gerügt hat (§ 70), kann das Mitglied den Antrag
+nicht stellen.
 
-(2) Gibt die Staatsanwaltschaft dem Antrag des Patentanwalts keine
-Folge oder verfügt sie die Einstellung des Verfahrens, so hat sie ihre
-Entschließung dem Patentanwalt unter Angabe der Gründe mitzuteilen.
-Wird in den Gründen eine schuldhafte Pflichtverletzung festgestellt,
-das berufsgerichtliche Verfahren aber nicht eingeleitet, oder wird
-offengelassen, ob eine schuldhafte Pflichtverletzung vorliegt, kann
-der Patentanwalt bei dem Oberlandesgericht die gerichtliche
-Entscheidung beantragen. Der Antrag ist binnen eines Monats nach der
-Bekanntmachung der Entschließung der Staatsanwaltschaft zu stellen.
+(2) Gibt die Staatsanwaltschaft dem Antrag des Mitglieds keine Folge
+oder verfügt sie die Einstellung des Verfahrens, so hat sie ihre
+Entschließung dem Mitglied unter Angabe der Gründe mitzuteilen. Das
+Mitglied kann bei dem Oberlandesgericht die gerichtliche Entscheidung
+beantragen, wenn in den Gründen
+
+1.  eine Pflichtverletzung nach § 95 Absatz 1 bis 3 festgestellt, das
+    berufsgerichtliche Verfahren aber nicht eingeleitet wird, oder
+
+
+2.  offengelassen wird, ob eine Pflichtverletzung nach § 95 Absatz 1 bis 3
+    vorliegt.
+
+
+
+Der Antrag ist binnen eines Monats nach der Bekanntmachung der
+Entschließung der Staatsanwaltschaft zu stellen.
 
 (3) Auf das Verfahren vor dem Oberlandesgericht ist § 173 Abs. 1 und 3
 der Strafprozeßordnung entsprechend anzuwenden. Das Oberlandesgericht
-entscheidet durch Beschluß, ob eine schuldhafte Pflichtverletzung des
-Patentanwalts festzustellen ist. Der Beschluß ist mit Gründen zu
-versehen. Erachtet das Oberlandesgericht den Patentanwalt einer
-berufsgerichtlich zu ahnenden Pflichtverletzung für hinreichend
-verdächtig, so beschließt es die Einleitung des berufsgerichtlichen
-Verfahrens. Die Durchführung dieses Beschlusses obliegt der
-Staatsanwaltschaft.
+entscheidet durch Beschluß, ob eine Pflichtverletzung nach § 95 Absatz
+1 bis 3 des Mitglieds der Patentanwaltskammer festzustellen ist. Der
+Beschluß ist mit Gründen zu versehen. Erachtet das Oberlandesgericht
+das Mitglied einer berufsgerichtlich zu ahnenden Pflichtverletzung für
+hinreichend verdächtig, so beschließt es die Einleitung des
+berufsgerichtlichen Verfahrens. Die Durchführung dieses Beschlusses
+obliegt der Staatsanwaltschaft.
 
-(4) Erachtet das Oberlandesgericht eine schuldhafte Pflichtverletzung
-nicht für gegeben, so kann nur auf Grund neuer Tatsachen oder
-Beweismittel wegen desselben Verhaltens ein Antrag auf Einleitung des
-berufsgerichtlichen Verfahrens gestellt oder eine Rüge durch den
-Vorstand der Patentanwaltskammer erteilt werden.
+(4) Erachtet das Oberlandesgericht eine Pflichtverletzung nach § 95
+Absatz 1 bis 3 nicht für gegeben, so kann nur auf Grund neuer
+Tatsachen oder Beweismittel wegen desselben Verhaltens ein Antrag auf
+Einleitung des berufsgerichtlichen Verfahrens gestellt oder eine Rüge
+durch den Vorstand der Patentanwaltskammer erteilt werden.
 
 
 ##### (XXXX) §§ 109 bis 114
@@ -3493,12 +4213,12 @@ Vorstand der Patentanwaltskammer erteilt werden.
 ##### § 115 Inhalt der Anschuldigungsschrift
 
 In der Anschuldigungsschrift (§ 106 dieses Gesetzes sowie § 207 Abs. 3
-der Strafprozeßordnung) ist die dem Patentanwalt zur Last gelegte
-Pflichtverletzung unter Anführung der sie begründenden Tatsachen zu
-bezeichnen (Anschuldigungssatz). Ferner sind die Beweismittel
-anzugeben, wenn in der Hauptverhandlung Beweise erhoben werden sollen.
-Die Anschuldigungsschrift enthält den Antrag, das Hauptverfahren vor
-der Kammer für Patentanwaltssachen zu eröffnen.
+der Strafprozeßordnung) ist die dem Mitglied der Patentanwaltskammer
+zur Last gelegte Pflichtverletzung unter Anführung der sie
+begründenden Tatsachen zu bezeichnen (Anschuldigungssatz). Ferner sind
+die Beweismittel anzugeben, wenn in der Hauptverhandlung Beweise
+erhoben werden sollen. Die Anschuldigungsschrift enthält den Antrag,
+das Hauptverfahren vor der Kammer für Patentanwaltssachen zu eröffnen.
 
 
 ##### § 116 Entscheidung über die Eröffnung des Hauptverfahrens
@@ -3507,7 +4227,8 @@ der Kammer für Patentanwaltssachen zu eröffnen.
 das Landgericht die Anschuldigung zur Hauptverhandlung zu.
 
 (2) Der Beschluß, durch den das Hauptverfahren eröffnet worden ist,
-kann von dem Patentanwalt nicht angefochten werden.
+kann von dem Mitglied der Patentanwaltskammer nicht angefochten
+werden.
 
 (3) Der Beschluß, durch den die Eröffnung des Hauptverfahrens
 abgelehnt wird, ist zu begründen. Gegen den Beschluß steht der
@@ -3526,73 +4247,62 @@ gestellt werden.
 
 ##### § 118 Zustellung des Eröffnungsbeschlusses
 
-Der Beschluß über die Eröffnung des Hauptverfahrens ist dem
-Patentanwalt spätestens mit der Ladung zuzustellen. Entsprechendes
-gilt in den Fällen des § 207 Abs. 3 der Strafprozeßordnung für die
-nachgereichte Anschuldigungsschrift.
+Der Beschluß über die Eröffnung des Hauptverfahrens ist dem Mitglied
+der Patentanwaltskammer spätestens mit der Ladung zuzustellen.
+Entsprechendes gilt in den Fällen des § 207 Abs. 3 der
+Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
 
 
 #### Dritter Unterabschnitt - Hauptverhandlung
 
 
 
-##### § 119 Hauptverhandlung trotz Ausbleibens des Patentanwalts
+##### § 119 Hauptverhandlung trotz Ausbleibens des Mitglieds der Patentanwaltskammer
 
-Die Hauptverhandlung kann gegen einen Patentanwalt, der nicht
-erschienen ist, durchgeführt werden, wenn er ordnungsmäßig geladen und
-in der Ladung darauf hingewiesen ist, daß in seiner Abwesenheit
-verhandelt werden kann. Eine öffentliche Ladung ist nicht zulässig.
+Die Hauptverhandlung kann gegen ein Mitglied der Patentanwaltskammer,
+das nicht erschienen ist, durchgeführt werden, wenn es ordnungsmäßig
+geladen und in der Ladung darauf hingewiesen wurde, dass in seiner
+Abwesenheit verhandelt werden kann. Eine öffentliche Ladung ist nicht
+zulässig.
 
 
-##### § 120 Nichtöffentliche Hauptverhandlung
+##### § 120 (weggefallen)
 
-(1) Die Hauptverhandlung ist nicht öffentlich. Auf Antrag der
-Staatsanwaltschaft kann, auf Antrag des Patentanwalts muß die
-Öffentlichkeit hergestellt werden; in diesem Fall sind die
-Vorschriften des Gerichtsverfassungsgesetzes über die Öffentlichkeit
-anzuwenden.
-
-(2) Zu nichtöffentlichen Verhandlungen ist Vertretern des
-Bundesministeriums der Justiz und für Verbraucherschutz, dem
-Präsidenten des Patentamts oder seinem Beauftragten, den Beamten der
-Staatsanwaltschaft bei dem Oberlandesgericht, Vertretern des Vorstands
-der Patentanwaltskammer und den Patentanwälten der Zutritt gestattet.
-Das Landgericht kann nach Anhörung der Beteiligten auch andere
-Personen als Zuhörer zulassen.
 
 
 ##### § 121 Beweisaufnahme durch einen ersuchten Richter
 
 Das Landgericht kann ein Amtsgericht um die Vernehmung von Zeugen oder
-Sachverständigen ersuchen. Der Zeuge oder Sachverständige ist jedoch
-auf Antrag der Staatsanwaltschaft oder des Patentanwalts in der
-Hauptverhandlung zu vernehmen, es sei denn, daß er voraussichtlich am
-Erscheinen in der Hauptverhandlung verhindert ist oder ihm das
-Erscheinen wegen großer Entfernung nicht zugemutet werden kann.
+Sachverständigen ersuchen. Zeugen oder Sachverständige sind jedoch auf
+Antrag der Staatsanwaltschaft oder des Mitglieds der
+Patentanwaltskammer in der Hauptverhandlung zu vernehmen, es sei denn,
+dass sie voraussichtlich am Erscheinen in der Hauptverhandlung
+gehindert sind oder ihnen das Erscheinen wegen großer Entfernung nicht
+zugemutet werden kann.
 
 
 ##### § 122 Verlesen von Protokollen
 
 (1) Das Landgericht beschließt nach pflichtmäßigem Ermessen, ob die
-Aussage eines Zeugen oder eines Sachverständigen, der bereits in dem
+Aussagen von Zeugen oder Sachverständigen, die bereits in dem
 berufsgerichtlichen oder in einem anderen gesetzlich geordneten
-Verfahren vernommen worden ist, zu verlesen sei.
+Verfahren vernommen worden sind, zu verlesen sind.
 
-(2) Bevor der Gerichtsbeschluß ergeht, kann der Staatsanwalt oder der
-Patentanwalt beantragen, den Zeugen oder Sachverständigen in der
-Hauptverhandlung zu vernehmen. Einem solchen Antrag ist zu
-entsprechen, es sei denn, daß der Zeuge oder Sachverständige
-voraussichtlich am Erscheinen in der Hauptverhandlung verhindert ist
-oder ihm das Erscheinen wegen großer Entfernung nicht zugemutet werden
-kann. Wird dem Antrag stattgegeben, so darf das Protokoll über die
-frühere Vernehmung nicht verlesen werden.
+(2) Bevor der Gerichtsbeschluss ergeht, kann die Staatsanwaltschaft
+oder das Mitglied der Patentanwaltskammer beantragen, Zeugen oder
+Sachverständige in der Hauptverhandlung zu vernehmen. Einem solchen
+Antrag ist zu entsprechen, es sei denn, dass die Zeugen oder
+Sachverständigen voraussichtlich am Erscheinen in der Hauptverhandlung
+gehindert sind oder ihnen das Erscheinen wegen großer Entfernung nicht
+zugemutet werden kann. Wird dem Antrag stattgegeben, so darf das
+Protokoll über die frühere Vernehmung nicht verlesen werden.
 
-(3) Ist ein Zeuge oder Sachverständiger durch einen ersuchten Richter
+(3) Sind Zeugen oder Sachverständige durch einen ersuchten Richter
 vernommen worden (§ 121), so kann der Verlesung des Protokolls nicht
-widersprochen werden. Der Staatsanwalt oder der Patentanwalt kann
-jedoch der Verlesung widersprechen, wenn ein Antrag gemäß § 121 Satz 2
-abgelehnt worden ist und Gründe für eine Ablehnung des Antrags jetzt
-nicht mehr bestehen.
+widersprochen werden. Die Staatsanwaltschaft oder das Mitglied der
+Patentanwaltskammer kann jedoch der Verlesung widersprechen, wenn ein
+Antrag gemäß § 121 Satz 2 abgelehnt worden ist und Gründe für eine
+Ablehnung des Antrags jetzt nicht mehr bestehen.
 
 
 ##### § 123 Entscheidung
@@ -3606,10 +4316,11 @@ des Verfahrens.
 (3) Das berufsgerichtliche Verfahren ist, abgesehen von dem Fall des §
 260 Abs. 3 der Strafprozeßordnung, einzustellen,
 
-1.  wenn die Zulassung zur Patentanwaltschaft erloschen ist (§ 20);
+1.  wenn die Zulassung zur Patentanwaltschaft (§ 20) oder die Zulassung
+    als Berufsausübungsgesellschaft (§ 52h Absatz 1) erloschen ist;
 
 
-2.  wenn nach § 103a von einer berufsgerichtlichen Ahndung abzusehen ist.
+2.  wenn nach § 97b von einer berufsgerichtlichen Ahndung abzusehen ist.
 
 
 
@@ -3634,23 +4345,17 @@ die Berufung entscheidet das Oberlandesgericht.
 
 (2) Die Berufung ist innerhalb einer Woche nach Verkündung des Urteils
 bei dem Landgericht schriftlich einzulegen. Ist das Urteil nicht in
-Anwesenheit des Patentanwalts verkündet worden, so beginnt für ihn die
-Frist mit der Zustellung.
+Anwesenheit des Mitglieds der Patentanwaltskammer verkündet worden, so
+beginnt für ihn die Frist mit der Zustellung.
 
 (3) Die Berufung kann nur schriftlich gerechtfertigt werden.
 
-(4) Auf das Verfahren sind im übrigen neben den Vorschriften der
-Strafprozeßordnung über die Berufung die §§ 119, 120, 122 und 123
-dieses Gesetzes sinngemäß anzuwenden. § 121 gilt mit der Maßgabe, daß
-der Senat für Patentanwaltssachen bei dem Oberlandesgericht auch einen
-Beisitzer, der Berufsrichter ist, beauftragen kann, Zeugen und
-Sachverständige zu vernehmen. Hat der Patentanwalt die Berufung
-eingelegt, so ist bei seiner Abwesenheit in der Hauptverhandlung § 329
-Absatz 1 Satz 1 und 4 sowie Absatz 7 der Strafprozeßordnung
-entsprechend anzuwenden, falls der Patentanwalt ordnungsgemäß geladen
-und in der Ladung ausdrücklich auf die sich aus seiner Abwesenheit
-ergebende Rechtsfolge hingewiesen wurde; dies gilt nicht, wenn der
-Patentanwalt durch öffentliche Zustellung geladen worden ist.
+(4) Die §§ 119, 122 und 123 sind auf das Berufungsverfahren sinngemäß
+anzuwenden; hierbei lässt § 119 die sinngemäße Anwendung des § 329
+Absatz 1 der Strafprozessordnung unberührt. § 121 gilt mit der
+Maßgabe, dass der Senat für Patentanwaltssachen bei dem
+Oberlandesgericht auch einen Beisitzer, der Berufsrichter ist,
+beauftragen kann, Zeugen und Sachverständige zu vernehmen.
 
 
 #### § 126 Mitwirkung der Staatsanwaltschaft
@@ -3665,11 +4370,13 @@ wahrgenommen.
 (1) Gegen das Urteil des Oberlandesgerichts ist die Revision an den
 Bundesgerichtshof zulässig,
 
-1.  wenn das Urteil auf Ausschließung aus der Patentanwaltschaft lautet;
+1.  wenn das Urteil auf eine Maßnahme nach § 96 Absatz 1 Nummer 4 oder
+    Absatz 2 Nummer 4 lautet;
 
 
 2.  wenn das Oberlandesgericht entgegen einem Antrag der
-    Staatsanwaltschaft nicht auf Ausschließung erkannt hat;
+    Staatsanwaltschaft nicht auf eine Maßnahme nach § 96 Absatz 1 Nummer 4
+    oder Absatz 2 Nummer 4 erkannt hat;
 
 
 3.  wenn das Oberlandesgericht sie in dem Urteil zugelassen hat.
@@ -3702,17 +4409,18 @@ die Revisionsfrist.
 
 (1) Die Revision ist innerhalb einer Woche bei dem Oberlandesgericht
 schriftlich einzulegen. Die Frist beginnt mit der Verkündung des
-Urteils. Ist das Urteil nicht in Anwesenheit des Patentanwalts
-verkündet worden, so beginnt für diesen die Frist mit der Zustellung.
+Urteils. Ist das Urteil nicht in Anwesenheit des Mitglieds der
+Patentanwaltskammer verkündet worden, so beginnt für diesen die Frist
+mit der Zustellung.
 
-(2) Seitens des Patentanwalts können die Revisionsanträge und deren
-Begründung nur schriftlich angebracht werden.
+(2) Seitens des Mitglieds der Patentanwaltskammer können die
+Revisionsanträge und deren Begründung nur schriftlich angebracht
+werden.
 
-(3) Auf das Verfahren vor dem Bundesgerichtshof sind im übrigen neben
-den Vorschriften der Strafprozeßordnung über die Revision die §§ 120
-und 123 Abs. 3 dieses Gesetzes sinngemäß anzuwenden. In den Fällen des
-§ 354 Abs. 2 der Strafprozeßordnung ist an den nach § 86 zuständigen
-Senat für Patentanwaltssachen zurückzuverweisen.
+(3) § 123 Absatz 3 ist auf das Verfahren vor dem Bundesgerichtshof
+sinngemäß anzuwenden. In den Fällen des § 354 Absatz 2 der
+Strafprozessordnung ist an den nach § 86 zuständigen Senat für
+Patentanwaltssachen zurückzuverweisen.
 
 
 #### § 129 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
@@ -3727,12 +4435,14 @@ Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
 #### § 130 Anordnung der Beweissicherung
 
-(1) Wird ein berufsgerichtliches Verfahren gegen den Patentanwalt
-eingestellt, weil seine Zulassung zur Patentanwaltschaft erloschen
-ist, so kann in der Entscheidung zugleich auf Antrag der
-Staatsanwaltschaft die Sicherung der Beweise angeordnet werden, wenn
-anzunehmen ist, daß auf Ausschließung aus der Patentanwaltschaft
-erkannt worden wäre. Die Anordnung kann nicht angefochten werden.
+(1) Wird ein berufsgerichtliches Verfahren gegen ein Mitglied der
+Patentanwaltskammer eingestellt, weil dessen Zulassung erloschen ist,
+so kann in der Entscheidung zugleich auf Antrag der Staatsanwaltschaft
+die Sicherung der Beweise angeordnet werden, wenn dringende Gründe für
+die Annahme vorliegen, dass auf Ausschließung aus der
+Patentanwaltschaft oder auf Aberkennung der Befugnis zur Beratung und
+Vertretung nach § 3 erkannt worden wäre. Die Anordnung kann nicht
+angefochten werden.
 
 (2) Die Beweise werden von der Kammer für Patentanwaltssachen
 aufgenommen. Die Kammer kann eines ihrer Mitglieder mit der
@@ -3744,6 +4454,7 @@ Beweisaufnahme beauftragen.
 (1) Die Kammer für Patentanwaltssachen hat von Amts wegen alle Beweise
 zu erheben, die eine Entscheidung darüber begründen können, ob das
 eingestellte Verfahren zur Ausschließung aus der Patentanwaltschaft
+oder zur Aberkennung der Befugnis zur Beratung und Vertretung nach § 3
 geführt hätte. Den Umfang des Verfahrens bestimmt die Kammer für
 Patentanwaltssachen nach pflichtmäßigem Ermessen, ohne an Anträge
 gebunden zu sein; ihre Verfügungen können insoweit nicht angefochten
@@ -3752,13 +4463,14 @@ werden.
 (2) Zeugen sind, soweit nicht Ausnahmen vorgeschrieben oder zugelassen
 sind, eidlich zu vernehmen.
 
-(3) Die Staatsanwaltschaft und der frühere Patentanwalt sind an dem
-Verfahren zu beteiligen. Ein Anspruch auf Benachrichtigung über die
-Termine, die zum Zwecke der Beweissicherung anberaumt werden, steht
-dem früheren Patentanwalt nur zu, wenn dem Gericht eine
-zustellungsfähige Anschrift in einem Mitgliedstaat der Europäischen
-Union, einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum oder der Schweiz bekannt ist.
+(3) Die Staatsanwaltschaft und das frühere Mitglied der
+Patentanwaltskammer sind an dem Verfahren zu beteiligen. Ein Anspruch
+auf Benachrichtigung über die Termine, die zum Zwecke der
+Beweissicherung anberaumt werden, steht dem früheren Mitglied nur zu,
+wenn dem Gericht eine zustellungsfähige Anschrift in einem
+Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+bekannt ist.
 
 (4) (weggefallen)
 
@@ -3769,22 +4481,23 @@ Wirtschaftsraum oder der Schweiz bekannt ist.
 
 #### § 132 Voraussetzung des Verbots
 
-(1) Sind dringende Gründe für die Annahme vorhanden, daß gegen einen
-Patentanwalt auf Ausschließung aus der Patentanwaltschaft erkannt
-werden wird, kann gegen ihn durch Beschluß ein vorläufiges Berufs-
-oder Vertretungsverbot verhängt werden. § 102 Abs. 1 Satz 1 und 2 ist
-nicht anzuwenden.
+(1) Liegen dringende Gründe für die Annahme vor, dass gegen ein
+Mitglied der Patentanwaltskammer auf Ausschließung aus der
+Patentanwaltschaft oder Aberkennung Befugnis zur Beratung und
+Vertretung nach § 3 erkannt werden wird, kann gegen das Mitglied durch
+Beschluss ein vorläufiges Berufs- oder Vertretungsverbot verhängt
+werden. § 102 Abs. 1 Satz 1 und 2 ist nicht anzuwenden.
 
 (2) Die Staatsanwaltschaft kann vor Einleitung des berufsgerichtlichen
 Verfahrens den Antrag auf Verhängung eines Berufs- oder
 Vertretungsverbots stellen. In dem Antrag sind die Pflichtverletzung,
-die dem Patentanwalt zur Last gelegt wird, sowie die Beweismittel
-anzugeben.
+die dem Mitglied der Patentanwaltskammer zur Last gelegt wird, sowie
+die Beweismittel anzugeben.
 
 (3) Für die Verhandlung und Entscheidung ist das Gericht zuständig,
-das über die Eröffnung des Hauptverfahrens gegen den Patentanwalt zu
-entscheiden hat oder vor dem das berufsgerichtliche Verfahren anhängig
-ist.
+das über die Eröffnung des Hauptverfahrens gegen das Mitglied der
+Patentanwaltskammer zu entscheiden hat oder vor dem das
+berufsgerichtliche Verfahren anhängig ist.
 
 
 #### § 133 Mündliche Verhandlung
@@ -3797,15 +4510,15 @@ entsprechend anzuwenden, die für die Hauptverhandlung vor dem
 erkennenden Gericht maßgebend sind, soweit sich nicht aus den
 folgenden Vorschriften etwas anderes ergibt.
 
-(3) In der ersten Ladung ist die dem Patentanwalt zur Last gelegte
-Pflichtverletzung durch Anführung der sie begründenden Tatsachen zu
-bezeichnen; ferner sind die Beweismittel anzugeben. Dies ist jedoch
-nicht erforderlich, wenn dem Patentanwalt die Anschuldigungsschrift
-bereits mitgeteilt worden ist.
+(3) In der ersten Ladung ist die dem Mitglied der Patentanwaltskammer
+zur Last gelegte Pflichtverletzung durch Anführung der sie
+begründenden Tatsachen zu bezeichnen; ferner sind die Beweismittel
+anzugeben. Dies ist jedoch nicht erforderlich, wenn dem Mitglied die
+Anschuldigungsschrift bereits mitgeteilt worden ist.
 
 (4) Den Umfang der Beweisaufnahme bestimmt das Gericht nach
 pflichtmäßigem Ermessen, ohne an Anträge der Staatsanwaltschaft oder
-des Patentanwalts gebunden zu sein.
+des Mitglieds der Patentanwaltskammer gebunden zu sein.
 
 
 #### § 134 Abstimmung über das Verbot
@@ -3816,19 +4529,20 @@ von zwei Dritteln der Stimmen erforderlich.
 
 #### § 135 Verbot im Anschluß an die Hauptverhandlung
 
-Hat das Gericht auf Ausschließung aus der Patentanwaltschaft erkannt,
-so kann es im unmittelbaren Anschluß an die Hauptverhandlung über die
-Verhängung des Berufs- oder Vertretungsverbots verhandeln und
-entscheiden. Dies gilt auch dann, wenn der Patentanwalt zu der
-Hauptverhandlung nicht erschienen ist.
+Hat das Gericht auf Ausschließung aus der Patentanwaltschaft oder auf
+Aberkennung der Befugnis und Vertretung nach § 3 erkannt, so kann es
+im unmittelbaren Anschluß an die Hauptverhandlung über die Verhängung
+des Berufs- oder Vertretungsverbots verhandeln und entscheiden. Dies
+gilt auch dann, wenn das Mitglied zu der Hauptverhandlung nicht
+erschienen ist.
 
 
 #### § 136 Zustellung des Beschlusses
 
-Der Beschluß ist mit Gründen zu versehen. Er ist dem Patentanwalt
-zuzustellen. War der Patentanwalt bei der Verkündung des Beschlusses
-nicht anwesend, ist ihm zusätzlich der Beschluß ohne Gründe
-unverzüglich nach der Verkündung zuzustellen.
+Der Beschluß ist mit Gründen zu versehen. Er ist dem Mitglied der
+Patentanwaltskammer zuzustellen. War das Mitglied bei der Verkündung
+des Beschlusses nicht anwesend, ist ihm zusätzlich der Beschluß ohne
+Gründe unverzüglich nach der Verkündung zuzustellen.
 
 
 #### § 137 Wirkungen des Verbots
@@ -3836,35 +4550,40 @@ unverzüglich nach der Verkündung zuzustellen.
 (1) Der Beschluß wird mit der Verkündung wirksam.
 
 (2) Der Patentanwalt, gegen den ein Berufsverbot verhängt ist, darf
-seinen Beruf nicht ausüben.
+seinen Beruf nicht ausüben. Die Berufsausübungsgesellschaft, gegen die
+ein Berufsverbot verhängt ist, ist nicht mehr zur Beratung und
+Vertretung nach § 3 befugt.
 
-(3) Der Patentanwalt, gegen den ein Vertretungsverbot verhängt ist,
-darf nicht vor einem Gericht, vor dem Patentamt oder einer anderen
-Behörde oder vor einem Schiedsgericht in Person auftreten, Vollmachten
-oder Untervollmachten erteilen und mit Gerichten, Behörden,
-Schiedsgerichten, Rechtsanwälten, Patentanwälten oder anderen
-Vertretern in Rechtssachen schriftlich verkehren.
+(3) Das Mitglied der Patentanwaltskammer, gegen das ein
+Vertretungsverbot verhängt ist, darf weder als Vertreter oder Beistand
+vor einem Gericht, vor Behörden, vor einem Schiedsgericht oder
+gegenüber anderen Personen tätig werden noch Vollmachten oder
+Untervollmachten erteilen.
 
-(4) Der Patentanwalt, gegen den ein Berufs- oder Vertretungsverbot
-verhängt ist, darf jedoch seine eigenen Angelegenheiten, die
-Angelegenheiten seines Ehegatten oder Lebenspartners und seiner
-minderjährigen Kinder wahrnehmen.
+(4) Das Mitglied der Patentanwaltskammer, gegen das ein Berufs- oder
+Vertretungsverbot verhängt ist, darf jedoch seine eigenen
+Angelegenheiten wahrnehmen, soweit nicht eine Vertretung durch
+Patentanwälte geboten ist. Satz 1 gilt für einen Patentanwalt auch in
+Bezug auf die Angelegenheiten seines Ehegatten oder Lebenspartners und
+seiner minderjährigen Kinder.
 
-(5) Die Wirksamkeit von Rechtshandlungen des Patentanwalts wird durch
-das Berufs- oder Vertretungsverbot nicht berührt. Das gleiche gilt für
-Rechtshandlungen, die ihm gegenüber vorgenommen werden.
+(5) Die Wirksamkeit von Rechtshandlungen des Mitglieds der
+Patentanwaltskammer wird durch das Berufs- oder Vertretungsverbot
+nicht berührt. Das gleiche gilt für Rechtshandlungen, die ihm
+gegenüber vorgenommen werden.
 
 
 #### § 138 Zuwiderhandlungen gegen das Verbot
 
-(1) Der Patentanwalt, der einem gegen ihn ergangenen Berufs- oder
-Vertretungsverbot wissentlich zuwiderhandelt, wird aus der
-Patentanwaltschaft ausgeschlossen, sofern nicht wegen besonderer
-Umstände eine mildere berufsgerichtliche Maßnahme ausreichend
-erscheint.
+(1) Gegen ein Mitglied der Patentanwaltskammer, das einem gegen sich
+ergangenen Berufs- oder Vertretungsverbot wissentlich zuwiderhandelt,
+wird eine berufsgerichtliche Maßnahme nach § 96 Absatz 1 Nummer 4 oder
+Absatz 2 Nummer 4 verhängt, sofern nicht wegen besonderer Umstände
+eine mildere anwaltsgerichtliche Maßnahme ausreichend erscheint.
 
-(2) Gerichte oder Behörden sollen einen Patentanwalt, der entgegen
-einem Berufs- oder Vertretungsverbot vor ihnen auftritt, zurückweisen.
+(2) Gerichte oder Behörden haben ein Mitglied der Patentanwaltskammer,
+das entgegen einem Berufs- oder Vertretungsverbot vor ihnen auftritt,
+zurückzuweisen.
 
 
 #### § 139 Beschwerde
@@ -3890,7 +4609,8 @@ Strafprozeßordnung über die Beschwerde § 133 Abs. 1, 2 und 4 sowie die
 
 Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
-1.  wenn ein nicht auf Ausschließung lautendes Urteil ergeht;
+1.  wenn nicht ein auf eine Maßnahme nach § 96 Absatz 1 Nummer 4 oder
+    Absatz 2 Nummer 4 lautendes Urteil ergeht;
 
 
 2.  wenn die Eröffnung des Hauptverfahrens vor der Kammer für
@@ -3909,12 +4629,12 @@ mehr vorliegen.
 (2) Über die Aufhebung entscheidet das nach § 132 Abs. 3 zuständige
 Gericht.
 
-(3) Beantragt der Patentanwalt, das Verbot aufzuheben, so kann eine
-erneute mündliche Verhandlung angeordnet werden. Der Antrag kann nicht
-gestellt werden, solange über eine sofortige Beschwerde des
-Patentanwalts nach § 139 Abs. 1 noch nicht entschieden ist. Gegen den
-Beschluß, durch den der Antrag abgelehnt wird, ist eine Beschwerde
-nicht zulässig.
+(3) Beantragt das Mitglied der Patentanwaltskammer, das Verbot
+aufzuheben, so kann eine erneute mündliche Verhandlung angeordnet
+werden. Der Antrag kann nicht gestellt werden, solange über eine
+sofortige Beschwerde des Mitglieds nach § 139 Abs. 1 noch nicht
+entschieden ist. Gegen den Beschluß, durch den der Antrag abgelehnt
+wird, ist eine Beschwerde nicht zulässig.
 
 
 #### § 142 Mitteilung des Verbots
@@ -3929,10 +4649,10 @@ aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
 
 #### § 143 Bestellung einer Vertretung
 
-(1) Für einen Patentanwalt, gegen den ein Berufs- oder
-Vertretungsverbot verhängt ist, wird von der Patentanwaltskammer eine
-Vertretung bestellt, wenn hierfür ein Bedürfnis besteht. Vor der
-Bestellung ist der Patentanwalt zu hören. Er kann eine Vertretung
+(1) Für ein Mitglied der Patentanwaltskammer, gegen das ein Berufs-
+oder Vertretungsverbot verhängt ist, wird von der Patentanwaltskammer
+eine Vertretung bestellt, wenn hierfür ein Bedürfnis besteht. Vor der
+Bestellung ist das Mitglied zu hören. Es kann eine Vertretung
 vorschlagen.
 
 (2) § 46 Absatz 2, Absatz 4 Satz 3 und Absatz 5 sowie § 47 sind
@@ -3945,17 +4665,20 @@ entsprechend anzuwenden.
 
 #### § 144 Vollstreckung berufsgerichtlicher Maßnahmen
 
-(1) Die Ausschließung aus der Patentanwaltschaft (§ 96 Abs. 1 Nr. 4)
-wird mit Rechtskraft des Urteils wirksam.
+(1) Die Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1 Nummer
+4) und die Aberkennung der Befugnis zur Beratung und Vertretung nach §
+3 (§ 96 Absatz 2 Nummer 4) werden mit Rechtskraft des Urteils wirksam.
 
-(2) Warnung und Verweis (§ 96 Abs. 1 Nr. 1 und 2) gelten mit der
-Rechtskraft des Urteils als vollstreckt.
+(2) Warnung und Verweis (§ 96 Absatz 1 Nummer 1 und 2 und Absatz 2
+Nummer 1 und 2) gelten mit der Rechtskraft des Urteils als
+vollstreckt.
 
-(3) Für die Vollstreckung der Geldbuße (§ 96 Abs. 1 Nr. 3) sind die
-Vorschriften über die Vollstreckung einer Geldstrafe entsprechend
-anzuwenden. Die Vollstreckung wird nicht dadurch gehindert, daß der
-Patentanwalt nach rechtskräftigem Abschluß des Verfahrens aus der
-Patentanwaltschaft ausgeschieden ist.
+(3) Für die Vollstreckung der Geldbuße (§ 96 Absatz 1 Nummer 3 und
+Absatz 2 Nummer 3) sind die Vorschriften über die Vollstreckung einer
+Geldstrafe entsprechend anzuwenden. Die Vollstreckung wird nicht
+dadurch gehindert, daß das Mitglied der Patentanwaltskammer nach
+rechtskräftigem Abschluß des Verfahrens aus der Patentanwaltschaft
+ausgeschieden ist.
 
 (4) Werden zusammen mit einer Geldbuße die Kosten des Verfahrens
 beigetrieben, so gelten auch für die Kosten die Vorschriften über die
@@ -3964,12 +4687,13 @@ Vollstreckung der Geldbuße.
 
 #### § 144a Tilgung
 
-(1) Eintragungen in den über den Patentanwalt geführten Akten über die
-in Satz 4 genannten Maßnahmen und Entscheidungen sind nach Ablauf der
-in Satz 4 bestimmten Fristen zu tilgen. Dabei sind die über diese
-Maßnahmen und Entscheidungen entstandenen Vorgänge aus den Akten zu
-entfernen und zu vernichten. Die Sätze 1 und 2 gelten sinngemäß, wenn
-die Akten über den Patentanwalt elektronisch geführt werden. Die
+(1) Eintragungen in den über das Mitglied der Patentanwaltskammer
+geführten Akten über die in den Sätzen 4 und 5 genannten Maßnahmen und
+Entscheidungen sind nach Ablauf der in den Sätzen 4 und 5 bestimmten
+Fristen zu tilgen. Dabei sind die über diese Maßnahmen und
+Entscheidungen entstandenen Vorgänge aus den Akten zu entfernen und zu
+vernichten. Die Sätze 1 und 2 gelten sinngemäß, wenn die Akten über
+das Mitglied der Patentanwaltskammer elektronisch geführt werden. Die
 Fristen betragen
 
 1.  fünf Jahre bei
@@ -3983,31 +4707,64 @@ Fristen betragen
     c)  Belehrungen,
 
 
-    d)  strafgerichtlichen Verurteilungen und anderen Entscheidungen in
-        Verfahren wegen Straftaten, Ordnungswidrigkeiten oder der Verletzung
-        von Berufspflichten, die nicht zu einer anwaltsgerichtlichen Maßnahme
-        oder Rüge geführt haben;
+    d)  Entscheidungen in Verfahren wegen der Verletzung von Berufspflichten
+        nach diesem Gesetz, die nicht zu einer berufsgerichtlichen Maßnahme
+        oder Rüge geführt haben,
+
+
+    e)  Entscheidungen und nicht Satz 5 unterfallende Maßnahmen in Verfahren
+        wegen Straftaten oder Ordnungswidrigkeiten oder in
+        berufsaufsichtlichen Verfahren anderer Berufe;
 
 
 
 
 
-2.  zehn Jahre bei Verweisen und Geldbußen.
+2.  zehn Jahre bei Verweisen und Geldbußen;
+
+
+3.  20 Jahre bei einer Ausschließung aus der Patentanwaltschaft oder bei
+    einer Aberkennung der Befugnis zur Beratung und Vertretung nach § 3,
+    nach der das Mitglied der Patentanwaltskammer erneut zugelassen wurde.
 
 
 
+Für Maßnahmen, die in Verfahren wegen Straftaten oder
+Ordnungswidrigkeiten oder in berufsaufsichtlichen Verfahren anderer
+Berufe getroffen wurden und bei denen das zugrundeliegende Verhalten
+zugleich die patentanwaltlichen Berufspflichten verletzt hat, gelten
+die für die Tilgung der jeweiligen Maßnahmen geltenden Fristen
+entsprechend.
 
 (2) Die Frist beginnt mit dem Tag, an dem die Maßnahme oder
-Entscheidung unanfechtbar geworden ist.
+Entscheidung unanfechtbar geworden ist. Im Fall der erneuten Zulassung
+nach einer Ausschließung aus der Patentanwaltschaft oder einer
+Aberkennung der Befugnis zur Beratung und Vertretung nach § 3 beginnt
+die Frist mit dieser Zulassung. Nach Fristablauf kann die Entfernung
+und Vernichtung nach Absatz 1 Satz 2 bis zum Ende des Kalenderjahres
+aufgeschoben werden.
 
-(3) Die Frist endet nicht, solange gegen den Patentanwalt ein
-Strafverfahren, ein ehrengerichtliches oder berufsgerichtliches
-Verfahren oder ein Disziplinarverfahren schwebt, eine andere
-berufsgerichtliche Maßnahme berücksichtigt werden darf oder ein auf
-Geldbuße lautendes Urteil noch nicht vollstreckt ist.
+(3) Die Frist endet mit Ausnahme der Fälle des Absatzes 1 Satz 4
+Nummer 1 Buchstabe d und e nicht, solange
 
-(4) Nach Ablauf der Frist gilt der Patentanwalt als von den Maßnahmen
-oder Entscheidungen nach Absatz 1 nicht betroffen.
+1.  eine andere Eintragung über eine strafrechtliche Verurteilung, eine
+    Ordnungswidrigkeit oder eine berufsaufsichtliche Maßnahme
+    berücksichtigt werden darf,
+
+
+2.  ein Verfahren anhängig ist, das eine in Nummer 1 bezeichnete
+    Eintragung zur Folge haben kann, oder
+
+
+3.  ein auf Geldbuße lautendes berufsgerichtliches Urteil noch nicht
+    vollstreckt ist.
+
+
+
+
+(4) Nach Ablauf der Frist gilt das Mitglied der Patentanwaltskammer
+als von den Maßnahmen oder Entscheidungen nach Absatz 1 nicht
+betroffen.
 
 (5) u. (6) (weggefallen)
 
@@ -4022,13 +4779,11 @@ oder Entscheidungen nach Absatz 1 nicht betroffen.
 
 #### § 145 Erhebung von Verwaltungsgebühren und Auslagen
 
-Die Patentanwaltskammer kann für Amtshandlungen nach diesem Gesetz,
-insbesondere für die Bearbeitung von Anträgen auf Zulassung zur
-Patentanwaltschaft und auf Bestellung eines Vertreters, zur Deckung
-des Verwaltungsaufwands Gebühren nach festen Sätzen und Auslagen
-erheben. Das Verwaltungskostengesetz in der bis zum 14. August 2013
-geltenden Fassung findet mit der Maßgabe Anwendung, dass die
-allgemeinen Grundsätze für Kostenverordnungen (§§ 2 bis 7 des
+Die Patentanwaltskammer kann für Amtshandlungen nach diesem Gesetz zur
+Deckung des Verwaltungsaufwands Gebühren nach festen Sätzen und
+Auslagen erheben. Das Verwaltungskostengesetz in der bis zum 14.
+August 2013 geltenden Fassung findet mit der Maßgabe Anwendung, dass
+die allgemeinen Grundsätze für Kostenverordnungen (§§ 2 bis 7 des
 Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
 Fassung) beim Erlass von Satzungen auf Grund des § 82 Absatz 2 Nummer
 4 entsprechend gelten.
@@ -4081,10 +4836,10 @@ Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden.
 
 #### § 149 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens
 
-(1) Einem Patentanwalt, der einen Antrag auf gerichtliche Entscheidung
-über die Entschließung der Staatsanwaltschaft (§ 108 Abs. 2)
-zurücknimmt, sind die durch dieses Verfahren entstandenen Kosten
-aufzuerlegen.
+(1) Einem Mitglied der Patentanwaltskammer, das einen Antrag auf
+gerichtliche Entscheidung über die Entschließung der
+Staatsanwaltschaft (§ 108 Abs. 2) zurücknimmt, sind die durch dieses
+Verfahren entstandenen Kosten aufzuerlegen.
 
 (2) Wird ein Antrag des Vorstands der Patentanwaltskammer auf
 gerichtliche Entscheidung in dem Fall des § 107 Abs. 2 verworfen, so
@@ -4094,25 +4849,24 @@ Patentanwaltskammer aufzuerlegen.
 
 #### § 150 Kostenpflicht des Verurteilten
 
-(1) Dem Patentanwalt, der in dem berufsgerichtlichen Verfahren
-verurteilt wird, sind zugleich die in dem Verfahren entstandenen
-Kosten ganz oder teilweise aufzuerlegen. Dasselbe gilt, wenn das
-berufsgerichtliche Verfahren wegen Erlöschens der Zulassung zur
-Patentanwaltschaft eingestellt wird und nach dem Ergebnis des
-bisherigen Verfahrens die Verhängung einer berufsgerichtlichen
-Maßnahme gerechtfertigt gewesen wäre; zu den Kosten des
-berufsgerichtlichen Verfahrens gehören in diesem Fall auch diejenigen,
-die in einem anschließenden Verfahren zum Zwecke der Beweissicherung
-(§§ 130, 131) entstehen. Wird das Verfahren nach § 123 Abs. 3 Nr. 2
-eingestellt, kann das Gericht dem Patentanwalt die in dem Verfahren
-entstandenen Kosten ganz oder teilweise auferlegen, wenn es dies für
-angemessen erachtet.
+(1) Dem Mitglied der Patentanwaltskammer, das im berufsgerichtlichen
+Verfahren verurteilt wird, sind zugleich die in dem Verfahren
+entstandenen Kosten ganz oder teilweise aufzuerlegen. Dasselbe gilt,
+wenn das berufsgerichtliche Verfahren wegen Erlöschens der Zulassung
+eingestellt wird und nach dem Ergebnis des bisherigen Verfahrens die
+Verhängung einer berufsgerichtlichen Maßnahme gerechtfertigt gewesen
+wäre; zu den Kosten des berufsgerichtlichen Verfahrens gehören in
+diesem Fall auch diejenigen, die in einem anschließenden Verfahren zum
+Zwecke der Beweissicherung (§§ 130, 131) entstehen. Wird das Verfahren
+nach § 123 Abs. 3 Nr. 2 eingestellt, kann das Gericht dem Mitglied die
+in dem Verfahren entstandenen Kosten ganz oder teilweise auferlegen,
+wenn es dies für angemessen erachtet.
 
-(2) Dem Patentanwalt, der in dem berufsgerichtlichen Verfahren ein
-Rechtsmittel zurückgenommen oder ohne Erfolg eingelegt hat, sind
-zugleich die durch dieses Verfahren entstandenen Kosten aufzuerlegen.
-Hatte das Rechtsmittel teilweise Erfolg, so kann dem Patentanwalt ein
-angemessener Teil dieser Kosten auferlegt werden.
+(2) Das Mitglied der Patentanwaltskammer, das im berufsgerichtlichen
+Verfahren ein Rechtsmittel zurückgenommen oder ohne Erfolg eingelegt
+hat, sind zugleich die durch dieses Verfahren entstandenen Kosten
+aufzuerlegen. Hatte das Rechtsmittel teilweise Erfolg, so kann dem
+Mitglied ein angemessener Teil dieser Kosten auferlegt werden.
 
 (3) Für die Kosten, die durch einen Antrag auf Wiederaufnahme des
 durch ein rechtskräftiges Urteil abgeschlossenen Verfahrens verursacht
@@ -4127,28 +4881,29 @@ unbegründet zurückgewiesen, so ist § 150 Abs. 1 Satz 1 entsprechend
 anzuwenden. Stellt das Landgericht fest, daß die Rüge wegen der
 Verhängung einer berufsgerichtlichen Maßnahme unwirksam ist (§ 70a
 Abs. 5 Satz 2) oder hebt es den Rügebescheid gemäß § 70a Abs. 3 Satz 2
-auf, so kann es dem Patentanwalt die in dem Verfahren entstandenen
-Kosten ganz oder teilweise auferlegen, wenn es dies für angemessen
-erachtet.
+auf, so kann es dem Mitglied der Patentanwaltskammer die in dem
+Verfahren entstandenen Kosten ganz oder teilweise auferlegen, wenn es
+dies für angemessen erachtet.
 
-(2) Nimmt der Patentanwalt den Antrag auf Entscheidung des
-Landgerichts zurück oder wird der Antrag als unzulässig verworfen, so
-gilt § 150 Abs. 2 Satz 1 entsprechend.
+(2) Nimmt das Mitglied der Patentanwaltskammer den Antrag auf
+Entscheidung des Landgerichts zurück oder wird der Antrag als
+unzulässig verworfen, so gilt § 150 Abs. 2 Satz 1 entsprechend.
 
 (3) Wird die Androhung oder die Festsetzung des Zwangsgelds
-aufgehoben, so sind die notwendigen Auslagen des Patentanwalts der
-Patentanwaltskammer aufzuerlegen. Das gleiche gilt, wenn der
-Rügebescheid, den Fall des § 70a Abs. 3 Satz 2 ausgenommen, aufgehoben
-wird oder wenn die Unwirksamkeit der Rüge wegen eines Freispruchs des
-Patentanwalts im berufsgerichtlichen Verfahren oder aus den Gründen
-des § 103 Abs. 2 Satz 2 festgestellt wird (§ 70a Abs. 5 Satz 2).
+aufgehoben, so sind die notwendigen Auslagen des Mitglieds der
+Patentanwaltskammer der Patentanwaltskammer aufzuerlegen. Das gleiche
+gilt, wenn der Rügebescheid, den Fall des § 70a Abs. 3 Satz 2
+ausgenommen, aufgehoben wird oder wenn die Unwirksamkeit der Rüge
+wegen eines Freispruchs des Mitglieds der Patentanwaltskammer im
+berufsgerichtlichen Verfahren oder aus den Gründen des § 97a Absatz 2
+Satz 2 festgestellt wird (§ 70a Abs. 5 Satz 2).
 
 
 #### § 151 Haftung der Patentanwaltskammer
 
-Auslagen, die weder dem Patentanwalt noch einem Dritten auferlegt oder
-von dem Patentanwalt nicht eingezogen werden können, fallen der
-Patentanwaltskammer zur Last.
+Auslagen, die weder dem Mitglied der Patentanwaltskammer noch einem
+Dritten auferlegt oder von dem Mitglied nicht eingezogen werden
+können, fallen der Patentanwaltskammer zur Last.
 
 
 #### (XXXX) §§ 152 bis 154 (weggefallen)
@@ -4223,11 +4978,28 @@ Eigenschaft als Patentanwalt tätig werden.
 
 
 
-(3) Die Verbote des Absatzes 2 gelten auch für die mit dem
-Patentanwalt in Sozietät oder in sonstiger Weise zur
-gemeinschaftlichen Berufsausübung verbundenen oder verbunden gewesenen
-Patentanwälte und Angehörige anderer Berufe und auch insoweit einer
-von diesen im Sinne der Absätze 1 und 2 befasst ist.
+(3) Die Tätigkeitsverbote nach Absatz 2 gelten auch für Patentanwälte,
+die ihren Beruf gemeinschaftlich ausüben
+
+1.  mit einem Patentanwalt, der nach Absatz 2 nicht tätig werden darf,
+    oder
+
+
+2.  mit einem Angehörigen eines anderen Berufs im Sinne des § 52c Absatz 1
+    Satz 1, dem ein Tätigwerden bei einer entsprechenden Anwendung des
+    Absatzes 2 in Verbindung mit § 52d Absatz 3 untersagt wäre.
+
+
+
+Ein Tätigkeitsverbot nach Satz 1 bleibt bestehen, wenn der nach Absatz
+2 ausgeschlossene Patentanwalt die gemeinschaftliche Berufsausübung
+beendet. Die Sätze 1 und 2 finden keine Anwendung, wenn die
+betroffenen Personen der Tätigkeit nach umfassender Information in
+Textform zugestimmt haben und geeignete Vorkehrungen die Verhinderung
+einer Offenbarung vertraulicher Informationen sicherstellen. Soweit es
+für die Prüfung eines Tätigkeitsverbots erforderlich ist, dürfen der
+Verschwiegenheit unterliegende Tatsachen einem Patentanwalt auch ohne
+Einwilligung der betroffenen Personen offenbart werden.
 
 
 ### § 156 Auftreten vor den Gerichten
@@ -4240,93 +5012,227 @@ Abs. 1 Nr. 1 oder Nr. 2 genannten Dritten auf Antrag der Partei das
 Wort zu gestatten.
 
 
-## Zehnter Teil - Übergangs- und Schlussvorschriften
+## Zehnter Teil - Ausländische Patentanwaltsberufe und Berufsausübungsgesellschaften
 
 
 
-### § 157 Maßgaben nach dem Einigungsvertrag
+### § 157 Ausländische Patentanwaltsberufe; Verordnungsermächtigung
 
-(1) Patentanwälte und Patentassessoren, die am 3. Oktober 1990 in die
-beim Patentamt der Deutschen Demokratischen Republik geführten Listen
-der Patentanwälte oder der Patentassessoren nicht nur vorläufig
-eingetragen sind, stehen Personen gleich, die nach § 5 die
-Voraussetzungen für den Zugang zum Beruf des Patentanwalts durch
-Prüfung erlangt haben. Die Patentanwälte, die in die beim Patentamt
-der Deutschen Demokratischen Republik geführte Liste eingetragen sind,
-sind zur Patentanwaltschaft zugelassen.
+(1) Angehörige solcher ausländischer Berufe, die in der
+Rechtsverordnung nach Absatz 2 aufgeführt sind, dürfen sich zur
+Erbringung von patentanwaltlichen Rechtsdienstleistungen in der
+Bundesrepublik Deutschland niederlassen, wenn sie
 
-(2) Wer am 3. Oktober 1990 die Ausbildungsvoraussetzungen nach § 2
-Absatz 1 und 2 der Anordnung der Deutschen Demokratischen Republik
-über die Vertretung vor dem Patentamt vom 21. März 1990 (GBl. I Nummer
-21 S. 208) erfüllte, kann auf Antrag als Patentanwalt zugelassen oder
-als Patentassessor anerkannt werden. Über den Antrag entscheidet die
-Patentanwaltskammer nach den Bestimmungen der Patentanwaltsordnung.
+1.  nach dem Recht des Herkunftsstaats befugt sind, den Beruf im
+    Herkunftsstaat auszuüben, und
 
 
-### § 158 Patentsachbearbeiter
-
-(1) Abweichend von den Vorschriften des § 10 Absatz 2 über den
-Nachweis der technischen Befähigung und der Ausbildung auf dem Gebiet
-des gewerblichen Rechtsschutzes kann zur Prüfung zugelassen werden,
-wer, nachdem er im Inland
-
-1.  sich als ordentlicher Studierender an einer wissenschaftlichen
-    Hochschule dem Studium naturwissenschaftlicher oder technischer Fächer
-    gewidmet und dieses Studium durch eine staatliche oder akademische
-    Prüfung mit Erfolg abgeschlossen hat oder
-
-
-2.  auf einer öffentlichen oder staatlich anerkannten privaten
-    Ingenieurschule oder einer gleichwertigen technischen Lehranstalt eine
-    nach deren Grundsätzen abgeschlossene technische Ausbildung erlangt
-    hat,
+2.  auf Antrag in die Patentanwaltskammer aufgenommen wurden.
 
 
 
-mindestens zehn Jahre auf Grund eines ständigen Dienst- oder ähnlichen
-Beschäftigungsverhältnisses für einen Auftraggeber hauptberuflich eine
-Beratungs- oder Vertretungstätigkeit auf dem Gebiet des gewerblichen
-Rechtsschutzes ausgeübt hat und im Geltungsbereich dieses Gesetzes
-eine solche Tätigkeit, die nach Art oder Umfang bedeutend ist, noch
-ausübt; § 7 Absatz 3 bis 5 gilt entsprechend. Für Bewerberinnen und
-Bewerber, die die europäische Eignungsprüfung für die vor dem
-Europäischen Patentamt zugelassenen Vertreter bestanden haben, beträgt
-die Frist mindestens acht Jahre.
 
-(2) Zur Prüfung kann ferner zugelassen werden, wer sich als
-ordentlicher Studierender an einer wissenschaftlichen Hochschule dem
-Studium naturwissenschaftlicher oder technischer Fächer gewidmet,
-dieses Studium jedoch aus besonderen Gründen nicht abgeschlossen hat,
-sofern er mindestens fünfzehn Jahre die in Absatz 1 bezeichnete
-Tätigkeit ausgeübt hat; von dieser Tätigkeit müssen mindestens zehn
-Jahre vor dem Inkrafttreten dieses Gesetzes abgeleistet sein.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+durch Rechtsverordnung ohne Zustimmung des Bundesrates diejenigen
+Berufe aus Mitgliedstaaten der Welthandelsorganisation mit Ausnahme
 
-(3) Eine Tätigkeit als technisches Mitglied des Patentamts oder des
-Patentgerichts oder eine Tätigkeit auf Grund eines vom Präsidenten des
-Patentamts erteilten Erlaubnisscheins ist auf die in Absatz 1
-bezeichnete Tätigkeit anzurechnen.
-
-(4) Das Studium sowie die Abschlussprüfung an einer wissenschaftlichen
-Hochschule im Ausland können in Ausnahmefällen als ausreichend
-anerkannt werden. Über die Anerkennung entscheidet der Präsident des
-Patentamts im Benehmen mit der zuständigen obersten Landesbehörde des
-Landes, in dem das Patentamt seinen Sitz hat.
-
-(5) Welche technischen Lehranstalten im Sinne des Absatzes 1 Satz 1
-Nummer 2 als gleichwertig neben den öffentlichen oder staatlich
-anerkannten privaten Ingenieurschulen anzusehen sind, bestimmt der
-Präsident des Patentamts.
-
-(6) Bewerberinnen und Bewerber, die auf Grund der Absätze 1 und 2 zur
-Prüfung (§ 8) zugelassen worden sind und diese bestanden haben,
-erlangen die Befähigung für den Beruf des Patentanwalts.
+1.  der Mitgliedstaaten der Europäischen Union,
 
 
-### § 159 Befreiung von der Tätigkeit bei einem Patentanwalt
+2.  der Vertragsstaaten des Europäischen Wirtschaftsraums und
 
-Auf Bewerberinnen und Bewerber, die die Voraussetzungen des § 158
-Absatz 1 oder 2 erfüllen, ist die Vorschrift des § 5 Absatz 2 über die
-Beschäftigung bei einem Patentanwalt nicht anzuwenden.
+
+3.  der Schweiz
+
+
+
+festlegen, die in Bezug auf die Ausbildung zum Beruf und die
+Befugnisse des Berufsträgers dem Beruf des Patentanwalts nach diesem
+Gesetz entsprechen. Das Bundesministerium der Justiz und für
+Verbraucherschutz kann durch Rechtsverordnung ohne Zustimmung des
+Bundesrates diejenigen Berufe aus Staaten, die nicht Mitgliedstaaten
+der Welthandelsorganisation sind, festlegen, die in Bezug auf die
+Ausbildung zum Beruf und die Befugnisse des Berufsträgers dem Beruf
+des Patentanwalts nach diesem Gesetz entsprechen und für die außerdem
+die Gegenseitigkeit verbürgt ist.
+
+(3) Die Befugnis zur Erbringung von patentanwaltlichen
+Rechtsdienstleistungen nach Absatz 1 erstreckt sich
+
+1.  für Angehörige von Berufen nach Absatz 2 Satz 1 auf die Gebiete des
+    Rechts des Herkunftsstaats und des Völkerrechts,
+
+
+2.  für Angehörige von Berufen nach Absatz 2 Satz 2 auf das Gebiet des
+    Rechts des Herkunftsstaats.
+
+
+
+
+
+### § 158 Aufnahme in die Patentanwaltskammer und berufliche Stellung; Rücknahme und Widerruf
+
+(1) Dem Antrag auf Aufnahme in die Patentanwaltskammer (§ 157 Absatz 1
+Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen
+Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Eine
+Bescheinigung nach Satz 1 ist der Patentanwaltskammer jährlich
+vorzulegen. Die Patentanwaltskammer kann auf die Vorlage der
+Bescheinigung nach den Sätzen 1 und 2 verzichten, wenn der
+ausländische Patentanwalt glaubhaft darlegt und so weit wie möglich
+belegt, dass er
+
+1.  trotz Vornahme aller zumutbaren Bemühungen keine Bescheinigung der in
+    seinem Herkunftsstaat zuständigen Behörde hat erlangen können und
+
+
+2.  in seinem Herkunftsstaat dem Beruf des Patentanwalts zugehörig ist;
+    hierbei hat er die Zugehörigkeit gegenüber der Patentanwaltskammer an
+    Eides statt zu versichern.
+
+
+
+
+(2) Die Aufnahme in die Patentanwaltskammer ist zu widerrufen, wenn
+
+1.  der niedergelassene ausländische Patentanwalt den Pflichten nach
+    Absatz 1 Satz 2 nicht nachkommt oder
+
+
+2.  die Voraussetzungen des § 157 Absatz 1 wegfallen.
+
+
+
+
+(3) Für die Entscheidung über den Antrag, für die Rechtsstellung nach
+Aufnahme in die Patentanwaltskammer sowie für die Rücknahme und den
+Widerruf der Aufnahme in die Patentanwaltskammer gelten im Übrigen
+
+1.  sinngemäß der Zweite und Dritte Unterabschnitt des Ersten Abschnitts
+    des Zweiten Teils mit Ausnahme des § 18 Absatz 2 Nummer 1 und Absatz 4
+    sowie der §§ 19 und 24, der Dritte Teil mit Ausnahme des § 52j Absatz
+    3, der Vierte Teil, der Dritte Abschnitt des Fünften Teils, der
+    Sechste, der Siebente, der Achte und der Zehnte Teil und
+
+
+2.  die auf Grund des § 29 Absatz 5 erlassene Rechtsverordnung.
+
+
+
+Für die Berufshaftpflichtversicherung gilt § 21 Absatz 2 Satz 1 des
+Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland
+entsprechend. Vorläufige Berufs- oder Vertretungsverbote nach § 132
+sind für den Geltungsbereich dieses Gesetzes auszusprechen. An die
+Stelle der Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1
+Nummer 4) tritt das Verbot, im Geltungsbereich dieses Gesetzes fremde
+patentanwaltliche Angelegenheiten zu besorgen; mit der Rechtskraft
+dieser Entscheidung verliert der Verurteilte die Mitgliedschaft in der
+Patentanwaltskammer.
+
+(4) Der niedergelassene ausländische Patentanwalt hat die
+Berufsbezeichnung nach dem Recht des Herkunftsstaats zu führen. Er hat
+bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in
+deutscher Sprache anzugeben. Wurde er als Syndikuspatentanwalt in die
+Patentanwaltskammer aufgenommen, so hat er seiner Berufsbezeichnung
+zudem die Bezeichnung „(Syndikus)“ nachzustellen. Der niedergelassene
+ausländische Patentanwalt ist berechtigt, im beruflichen Verkehr
+zugleich die Bezeichnung „Mitglied der Patentanwaltskammer“ zu
+verwenden.
+
+(5) Hinsichtlich der Anwendung der folgenden Vorschriften des
+Strafgesetzbuches stehen niedergelassene ausländische Patentanwälte
+den Patentanwälten und Rechtsanwälten gleich:
+
+1.  Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Absatz 3
+    Satz 2 des Strafgesetzbuches),
+
+
+2.  Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3
+    bis 6, §§ 204 und 205 des Strafgesetzbuches),
+
+
+3.  Gebührenüberhebung (§ 352 des Strafgesetzbuches) und
+
+
+4.  Parteiverrat (§ 356 des Strafgesetzbuches).
+
+
+
+
+
+### § 159 Ausländische Berufsausübungsgesellschaften
+
+(1) Eine Berufsausübungsgesellschaft, die ihren Sitz in einem
+Mitgliedstaat der Welthandelsorganisation hat, darf über eine
+Zweigniederlassung patentanwaltliche Rechtsdienstleistungen erbringen,
+wenn
+
+1.  ihr Unternehmensgegenstand die Beratung und Vertretung in
+    Patentangelegenheiten ist,
+
+
+2.  sie nach dem Recht des Staats ihres Sitzes zur Erbringung von
+    Rechtsdienstleistungen befugt ist,
+
+
+3.  ihre Gesellschafter Patentanwälte oder Angehörige eines der in § 52c
+    Absatz 1 Satz 1 Nummer 1 und 2 genannten Berufe sind,
+
+
+4.  die deutsche Zweigniederlassung eine eigene Geschäftsleitung hat, die
+    die Gesellschaft vertreten kann und die über ausreichende Befugnisse
+    verfügt, um die Wahrung des Berufsrechts in Bezug auf die deutsche
+    Zweigniederlassung sicherzustellen, und
+
+
+5.  sie durch die Patentanwaltskammer zugelassen ist.
+
+
+
+
+(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 52c
+Absatz 2, die §§ 52d, 52e, 52f, 52g, 52h und 52i Absatz 2 bis 5 sowie
+die §§ 52j, 52l, 52m und 52n entsprechend. § 52j ist dabei mit der
+Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen
+Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte
+Patentanwälte oder nach § 157 niedergelassene ausländische
+Patentanwälte in vertretungsberechtigter Zahl angehören müssen. § 52n
+ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der
+Geschäftsführer, sondern auf die Zahl der Mitglieder der
+Geschäftsleitung nach Absatz 1 Nummer 4 abzustellen ist.
+
+(3) Die zugelassene Berufsausübungsgesellschaft ist berechtigt, in der
+Bundesrepublik Deutschland durch nach § 157 Absatz 3 Nummer 1 befugte
+niedergelassene ausländische Patentanwälte patentanwaltliche
+Rechtsdienstleistungen auf den Gebieten des Rechts des Herkunftsstaats
+des für die Berufsausübungsgesellschaft handelnden niedergelassenen
+ausländischen Patentanwalts und des Völkerrechts zu erbringen.
+
+(4) Die Befugnisse nach § 52k stehen der zugelassenen
+Berufsausübungsgesellschaft zu, wenn an ihr mindestens ein
+Patentanwalt als Gesellschafter beteiligt ist und der Geschäftsleitung
+der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung
+berechtigte Patentanwälte in vertretungsberechtigter Zahl angehören.
+Sie darf nur durch Gesellschafter und Vertreter handeln, in deren
+Person die gesetzlich vorgeschriebenen Voraussetzungen für die
+Beratung und Vertretung nach § 3 Absatz 2 und 3 im Einzelfall
+vorliegen.
+
+(5) Die Berufsausübungsgesellschaft ist verpflichtet, auf
+Geschäftsbriefen gleichviel welcher Form auf ihre ausländische
+Rechtsform unter Angabe ihres Sitzes und der maßgeblichen
+Rechtsordnung hinzuweisen und das Haftungsregime zu erläutern.
+
+(6) Für Berufsausübungsgesellschaften, die ihren Sitz nicht in einem
+Mitgliedstaat der Welthandelsorganisation haben, gelten die Absätze 1
+bis 3 und 5, wenn die Gegenseitigkeit mit dem Herkunftsstaat verbürgt
+ist. Die Befugnis zur Erbringung patentanwaltlicher
+Rechtsdienstleistungen nach Absatz 3 beschränkt sich auf das Gebiet
+des Rechts des Herkunftsstaats des für die Berufsausübungsgesellschaft
+handelnden niedergelassenen ausländischen Patentanwalts.
+
+(7) In der Bundesrepublik Deutschland nach Absatz 1 niedergelassene
+ausländische Berufsausübungsgesellschaften sind in die Verzeichnisse
+nach § 29 Absatz 4 einzutragen.
 
 
 ### § 160 Inhaber von Erlaubnisscheinen
@@ -4334,6 +5240,43 @@ Beschäftigung bei einem Patentanwalt nicht anzuwenden.
 Für Inhaber von Erlaubnisscheinen sind die §§ 177 bis 183 in der bis
 zum 31. August 2009 geltenden Fassung dieses Gesetzes weiter
 anzuwenden.
+
+
+## Elfter Teil - Übergangs- und Schlussvorschriften
+
+
+
+### § 161 Maßgabe nach dem Einigungsvertrag
+
+Patentanwälte und Patentassessoren, die am 3. Oktober 1990 in die beim
+Patentamt der Deutschen Demokratischen Republik geführten Listen der
+Patentanwälte oder der Patentassessoren nicht nur vorläufig
+eingetragen waren, stehen Personen gleich, die nach § 5 die
+Voraussetzungen für den Zugang zum Beruf des Patentanwalts durch
+Prüfung erlangt haben.
+
+
+### § 162 Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften
+
+(1) Wenn eine Gesellschaft vor dem 1. August 2022 als
+Patentanwaltsgesellschaft zugelassen war, gilt diese Zulassung als
+Zulassung der Berufsausübungsgesellschaft nach § 52f.
+
+(2) Berufsausübungsgesellschaften, die
+
+1.  am 1. August 2022 bestanden,
+
+
+2.  nach § 52f Absatz 1 zulassungsbedürftig sind und
+
+
+3.  nicht schon nach Absatz 1 als zugelassen gelten,
+
+
+
+müssen bis zum 1. November 2022 eine Zulassung beantragen. Ihnen
+stehen bis zur Entscheidung der Patentanwaltskammer über den Antrag
+auf Zulassung die Befugnisse nach § 52k zu.
 
 (zu § 146 Satz 1 und § 148 Satz 1)
 
@@ -4500,8 +5443,8 @@ Teil 1
 
         (2) Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche
             Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das
-            Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den
-            Patentanwalt damit zu belasten.
+            Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, das Mitglied
+            der Patentanwaltskammer damit zu belasten.
 
 
         (3) Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für
@@ -4564,7 +5507,8 @@ Teil 1
 
 *    *   1111
 
-    *   Verfahren mit Urteil bei Ausschließung aus der Patentanwaltschaft
+    *   Verfahren mit Urteil bei Ausschließung aus der Patentanwaltschaft oder
+        der Aberkennung der Befugnis zur Beratung und Vertretung nach § 3
 
     *   480,00 EUR
 
@@ -4672,8 +5616,9 @@ Teil 1
     *   50,00 EUR
 
 
-*    *   Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn
-        rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist.
+*    *   Von dem Mitglied der Patentanwaltskammer wird eine Gebühr nur erhoben,
+        wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt
+        worden ist.
 
     *
 
@@ -4701,8 +5646,8 @@ Teil 1
 
 *    *   1310
 
-    *   Revisionsverfahren mit Urteil oder mit Beschluss nach § 128 Abs. 3
-        Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
+    *   Revisionsverfahren mit Urteil oder mit Beschluss nach § 98 Abs. 1 Satz
+        2 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
 
     *   2,0
 
@@ -4714,7 +5659,7 @@ Teil 1
 *    *   1311
 
     *   Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach
-        § 128 Abs. 3 Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
+        § 98 Abs. 1 Satz 2 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
 
     *   1,0
 
@@ -4757,8 +5702,9 @@ Teil 1
     *   50,00 EUR
 
 
-*    *   Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn
-        rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist.
+*    *   Von dem Mitglied der Patentanwaltskammer wird eine Gebühr nur erhoben,
+        wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt
+        worden ist.
 
     *
 

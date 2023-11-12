@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1966
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.11.2019 I 1746
+:   Art. 7 G v. 20.7.2022 I 1174
 
 Dieses Gesetz dient der Umsetzung - der Richtlinie 97/81/EG des Rates
 vom 15. Dezember 1997 zu der von UNICE, CEEP und EGB geschlossenen
@@ -132,15 +132,20 @@ auszuschreiben, wenn sich der Arbeitsplatz hierfür eignet.
 
 (2) Der Arbeitgeber hat mit dem Arbeitnehmer dessen Wunsch nach
 Veränderung von Dauer oder Lage oder von Dauer und Lage seiner
-vertraglich vereinbarten Arbeitszeit zu erörtern. Dies gilt unabhängig
-vom Umfang der Arbeitszeit. Der Arbeitnehmer kann ein Mitglied der
+vertraglich vereinbarten Arbeitszeit zu erörtern und den Arbeitnehmer
+über entsprechende Arbeitsplätze zu informieren, die im Betrieb oder
+Unternehmen besetzt werden sollen. Dies gilt unabhängig vom Umfang der
+Arbeitszeit. Der Arbeitnehmer kann ein Mitglied der
 Arbeitnehmervertretung zur Unterstützung oder Vermittlung hinzuziehen.
 
-(3) Der Arbeitgeber hat einen Arbeitnehmer, der ihm den Wunsch nach
-einer Veränderung von Dauer oder Lage oder von Dauer und Lage seiner
-vertraglich vereinbarten Arbeitszeit angezeigt hat, über entsprechende
-Arbeitsplätze zu informieren, die im Betrieb oder Unternehmen besetzt
-werden sollen.
+(3) Der Arbeitgeber hat einem Arbeitnehmer, dessen Arbeitsverhältnis
+länger als sechs Monate bestanden und der ihm in Textform den Wunsch
+nach Absatz 2 Satz 1 angezeigt hat, innerhalb eines Monats nach Zugang
+der Anzeige eine begründete Antwort in Textform mitzuteilen. Hat der
+Arbeitgeber in den letzten zwölf Monaten vor Zugang der Anzeige
+bereits einmal einen in Textform geäußerten Wunsch nach Absatz 2 Satz
+1 in Textform begründet beantwortet, ist eine mündliche Erörterung
+nach Absatz 2 ausreichend.
 
 (4) Der Arbeitgeber hat die Arbeitnehmervertretung über angezeigte
 Arbeitszeitwünsche nach Absatz 2 sowie über Teilzeitarbeit im Betrieb
@@ -360,9 +365,12 @@ die Dauer der wöchentlichen Arbeitszeit nach Absatz 1 Satz 2 eine
 Höchstarbeitszeit vereinbart, darf der Arbeitgeber nur bis zu 20
 Prozent der wöchentlichen Arbeitszeit weniger abrufen.
 
-(3) Der Arbeitnehmer ist nur zur Arbeitsleistung verpflichtet, wenn
-der Arbeitgeber ihm die Lage seiner Arbeitszeit jeweils mindestens
-vier Tage im Voraus mitteilt.
+(3) Der Arbeitgeber ist verpflichtet, den Zeitrahmen, bestimmt durch
+Referenzstunden und Referenztage, festzulegen, in dem auf seine
+Aufforderung hin Arbeit stattfinden kann. Der Arbeitnehmer ist nur zur
+Arbeitsleistung verpflichtet, wenn der Arbeitgeber ihm die Lage seiner
+Arbeitszeit jeweils mindestens vier Tage im Voraus mitteilt und die
+Arbeitsleistung im Zeitrahmen nach Satz 1 zu erfolgen hat.
 
 (4) Zur Berechnung der Entgeltfortzahlung im Krankheitsfall ist die
 maßgebende regelmäßige Arbeitszeit im Sinne von § 4 Absatz 1 des
@@ -380,13 +388,13 @@ Krankheitsfall finden Anwendung.
 (5) Für die Berechnung der Entgeltzahlung an Feiertagen nach § 2
 Absatz 1 des Entgeltfortzahlungsgesetzes gilt Absatz 4 entsprechend.
 
-(6) Durch Tarifvertrag kann von den Absätzen 1 und 3 auch zuungunsten
-des Arbeitnehmers abgewichen werden, wenn der Tarifvertrag Regelungen
-über die tägliche und wöchentliche Arbeitszeit und die
-Vorankündigungsfrist vorsieht. Im Geltungsbereich eines solchen
-Tarifvertrages können nicht tarifgebundene Arbeitgeber und
-Arbeitnehmer die Anwendung der tariflichen Regelungen über die Arbeit
-auf Abruf vereinbaren.
+(6) Durch Tarifvertrag kann von Absatz 1 und von der
+Vorankündigungsfrist nach Absatz 3 Satz 2 auch zuungunsten des
+Arbeitnehmers abgewichen werden, wenn der Tarifvertrag Regelungen über
+die tägliche und wöchentliche Arbeitszeit und die Vorankündigungsfrist
+vorsieht. Im Geltungsbereich eines solchen Tarifvertrages können nicht
+tarifgebundene Arbeitgeber und Arbeitnehmer die Anwendung der
+tariflichen Regelungen über die Arbeit auf Abruf vereinbaren.
 
 
 ### § 13 Arbeitsplatzteilung
@@ -514,16 +522,20 @@ Zwecks, frühestens jedoch zwei Wochen nach Zugang der schriftlichen
 Unterrichtung des Arbeitnehmers durch den Arbeitgeber über den
 Zeitpunkt der Zweckerreichung.
 
-(3) Ein befristetes Arbeitsverhältnis unterliegt nur dann der
+(3) Wird für ein befristetes Arbeitsverhältnis eine Probezeit
+vereinbart, so muss diese im Verhältnis zu der erwarteten Dauer der
+Befristung und der Art der Tätigkeit stehen.
+
+(4) Ein befristetes Arbeitsverhältnis unterliegt nur dann der
 ordentlichen Kündigung, wenn dies einzelvertraglich oder im
 anwendbaren Tarifvertrag vereinbart ist.
 
-(4) Ist das Arbeitsverhältnis für die Lebenszeit einer Person oder für
+(5) Ist das Arbeitsverhältnis für die Lebenszeit einer Person oder für
 längere Zeit als fünf Jahre eingegangen, so kann es von dem
 Arbeitnehmer nach Ablauf von fünf Jahren gekündigt werden. Die
 Kündigungsfrist beträgt sechs Monate.
 
-(5) Wird das Arbeitsverhältnis nach Ablauf der Zeit, für die es
+(6) Wird das Arbeitsverhältnis nach Ablauf der Zeit, für die es
 eingegangen ist, oder nach Zweckerreichung mit Wissen des Arbeitgebers
 fortgesetzt, so gilt es als auf unbestimmte Zeit verlängert, wenn der
 Arbeitgeber nicht unverzüglich widerspricht oder dem Arbeitnehmer die
@@ -535,7 +547,7 @@ Zweckerreichung nicht unverzüglich mitteilt.
 Ist die Befristung rechtsunwirksam, so gilt der befristete
 Arbeitsvertrag als auf unbestimmte Zeit geschlossen; er kann vom
 Arbeitgeber frühestens zum vereinbarten Ende ordentlich gekündigt
-werden, sofern nicht nach § 15 Abs. 3 die ordentliche Kündigung zu
+werden, sofern nicht nach § 15 Absatz 4 die ordentliche Kündigung zu
 einem früheren Zeitpunkt möglich ist. Ist die Befristung nur wegen des
 Mangels der Schriftform unwirksam, kann der Arbeitsvertrag auch vor
 dem vereinbarten Ende ordentlich gekündigt werden.
@@ -557,11 +569,19 @@ beendet sei.
 
 ### § 18 Information über unbefristete Arbeitsplätze
 
-Der Arbeitgeber hat die befristet beschäftigten Arbeitnehmer über
+(1) Der Arbeitgeber hat die befristet beschäftigten Arbeitnehmer über
 entsprechende unbefristete Arbeitsplätze zu informieren, die besetzt
 werden sollen. Die Information kann durch allgemeine Bekanntgabe an
 geeigneter, den Arbeitnehmern zugänglicher Stelle im Betrieb und
 Unternehmen erfolgen.
+
+(2) Der Arbeitgeber hat einem Arbeitnehmer, dessen Arbeitsverhältnis
+länger als sechs Monate bestanden und der ihm in Textform den Wunsch
+nach einem auf unbestimmte Zeit geschlossenen Arbeitsvertrag angezeigt
+hat, innerhalb eines Monats nach Zugang der Anzeige eine begründete
+Antwort in Textform mitzuteilen. Satz 1 gilt nicht, sofern der
+Arbeitnehmer dem Arbeitgeber diesen Wunsch in den letzten zwölf
+Monaten vor Zugang der Anzeige bereits einmal angezeigt hat.
 
 
 ### § 19 Aus- und Weiterbildung
@@ -583,8 +603,8 @@ Gesamtbelegschaft des Betriebes und des Unternehmens zu informieren.
 ### § 21 Auflösend bedingte Arbeitsverträge
 
 Wird der Arbeitsvertrag unter einer auflösenden Bedingung geschlossen,
-gelten § 4 Abs. 2, § 5, § 14 Abs. 1 und 4, § 15 Abs. 2, 3 und 5 sowie
-die §§ 16 bis 20 entsprechend.
+gelten § 4 Absatz 2, § 5, § 14 Absatz 1 und 4, § 15 Absatz 2, 4 und 6
+sowie die §§ 16 bis 20 entsprechend.
 
 
 ## Vierter Abschnitt - Gemeinsame Vorschriften
@@ -600,7 +620,7 @@ Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.
 (2) Enthält ein Tarifvertrag für den öffentlichen Dienst Bestimmungen
 im Sinne des § 8 Absatz 4 Satz 3 und 4, auch in Verbindung mit § 9a
 Absatz 2, des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz 4, § 14 Absatz
-2 Satz 3 und 4 oder § 15 Absatz 3, so gelten diese Bestimmungen auch
+2 Satz 3 und 4 oder § 15 Absatz 4, so gelten diese Bestimmungen auch
 zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern
 außerhalb des öffentlichen Dienstes, wenn die Anwendung der für den
 öffentlichen Dienst geltenden tarifvertraglichen Bestimmungen zwischen

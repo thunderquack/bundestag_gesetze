@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 682
 
+Geändert durch
+:   Art. 9 V v. 6.7.2022 I 1102
+
 
 ## Eingangsformel
 
@@ -32,17 +35,15 @@ Landwirtschaft:
 
 ## § 1 Übertragung von Befugnissen
 
-Die in § 80 Satz 1 Nummer 1 bis 3 und 4 bis 6 des
-Arzneimittelgesetzes, auch in Verbindung mit § 80 Satz 5 des
-Arzneimittelgesetzes, enthaltene Ermächtigung zum Erlass von
-Rechtsverordnungen wird jeweils auf das Bundesinstitut für
-Arzneimittel und Medizinprodukte, das Paul-Ehrlich-Institut und das
-Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in der
-Weise übertragen, dass jede dieser Bundesoberbehörden durch
-Rechtsverordnung Regelungen für ihren Zuständigkeitsbereich erlässt.
-Ausgenommen sind Änderungen der auf Grund von § 35 Absatz 1 Nummer 2
-und Absatz 2 sowie § 80 Satz 1 Nummer 1 und 2 des Arzneimittelgesetzes
-erlassenen Therapieallergene-Verordnung in der jeweiligen Fassung.
+Die in § 80 Satz 1 Nummer 1 bis 3 und 4 bis 6 des Arzneimittelgesetzes
+enthaltenen Ermächtigungen zum Erlass von Rechtsverordnungen werden
+auf das Bundesinstitut für Arzneimittel und Medizinprodukte sowie das
+Paul-Ehrlich-Institut in der Weise übertragen, dass jede dieser
+Bundesoberbehörden durch Rechtsverordnung Regelungen für ihren
+Zuständigkeitsbereich erlässt. Ausgenommen sind Änderungen der auf
+Grund von § 35 Absatz 1 Nummer 2 und Absatz 2 sowie § 80 Satz 1 Nummer
+1 und 2 des Arzneimittelgesetzes erlassenen Therapieallergene-
+Verordnung in der jeweiligen Fassung.
 
 
 ## § 2 Übergangsvorschrift

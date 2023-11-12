@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.1.1995 I 114;
 
 Zuletzt geändert durch
-:   Art. 21 G v. 5.10.2021 I 4607
+:   Art. 17 G v. 19.12.2022 I 2606
 
 
 ## Abschnitt I - Das Grundbuch
@@ -1302,16 +1302,17 @@ Grund eines neuerlichen Auskunftsbegehrens bekanntgegeben, so sind die
 Gründe für die abweichende Auskunft mitzuteilen.
 
 (3a) Die Grundbucheinsicht durch eine Verfassungsschutzbehörde, den
-Bundesnachrichtendienst, den Militärischen Abschirmdienst oder die
-Zentralstelle für Finanztransaktionsuntersuchungen ist im Rahmen einer
-Auskunft nach Absatz 2 Satz 1 nicht mitzuteilen, wenn die Behörde
-erklärt hat, dass die Bekanntgabe der Einsicht ihre
-Aufgabenwahrnehmung gefährden würde. Die Auskunftssperre endet, wenn
-die Behörde mitteilt, dass die Aufgabengefährdung entfallen ist,
-spätestens zwei Jahre nach Zugang der Erklärung nach Satz 1.Sie
-verlängert sich um weitere zwei Jahre, wenn die Behörde erklärt, dass
-die Aufgabengefährdung fortbesteht; mehrmalige Fristverlängerung ist
-zulässig. Absatz 3 Satz 3 gilt entsprechend.
+Bundesnachrichtendienst, den Militärischen Abschirmdienst, die
+Zentralstelle für Sanktionsdurchsetzung oder die Zentralstelle für
+Finanztransaktionsuntersuchungen ist im Rahmen einer Auskunft nach
+Absatz 2 Satz 1 nicht mitzuteilen, wenn die Behörde erklärt hat, dass
+die Bekanntgabe der Einsicht ihre Aufgabenwahrnehmung gefährden würde.
+Die Auskunftssperre endet, wenn die Behörde mitteilt, dass die
+Aufgabengefährdung entfallen ist, spätestens zwei Jahre nach Zugang
+der Erklärung nach Satz 1.Sie verlängert sich um weitere zwei Jahre,
+wenn die Behörde erklärt, dass die Aufgabengefährdung fortbesteht;
+mehrmalige Fristverlängerung ist zulässig. Absatz 3 Satz 3 gilt
+entsprechend.
 
 (4) Nach Ablauf des zweiten auf die Erstellung der Protokolle
 folgenden Kalenderjahres werden die nach Absatz 1 gefertigten
@@ -2338,9 +2339,12 @@ Die protokollierten Daten sind durch geeignete Vorkehrungen gegen
 zweckfremde Nutzung und gegen sonstigen Mißbrauch zu schützen.
 
 (2a) Für die Mitteilung des Abrufs durch eine
-Verfassungsschutzbehörde, den Bundesnachrichtendienst oder den
-Militärischen Abschirmdienst im Rahmen einer Auskunft nach Absatz 2
-Satz 2 gilt § 46a Absatz 3a entsprechend.
+Verfassungsschutzbehörde, den Bundesnachrichtendienst, den
+Militärischen Abschirmdienst oder die Zentralstelle für
+Sanktionsdurchsetzung im Rahmen einer Auskunft nach Absatz 2 Satz 2
+gilt § 46a Absatz 3a entsprechend. Die Landesjustizverwaltungen können
+bestimmen, dass die Erklärung nach § 46a Absatz 3a Satz 1 GBV durch
+die Verwendung eines Codezeichens abzugeben ist.
 
 (3) Nach Ablauf des zweiten auf die Erstellung der Protokolle
 folgenden Kalenderjahres werden die nach Absatz 1 Satz 2 gefertigten

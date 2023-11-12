@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3326
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.11.2018 I 2026
-
-Änderung durch
-:   Art. 1 V v. 3.6.2021 I 1372 (Nr. 28) mWv 9.6.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 3.6.2021 I 1372
 
 [^f780695_01_BJNR332600013]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -512,7 +509,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage Frequenzzuweisungstabelle für die Bundesrepublik Deutschland
 
-(BGBl. I 2013, 3330 – 3382)
+(BGBl. I 2013, 3330 – 3382; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 
 ## **Teil A**
@@ -8359,6 +8357,11 @@ Der Bundesrat hat zugestimmt.
         Mobilfunkdienstes über Satelliten beschränkt.
 
 
+*    *   D460
+
+    *   (weggefallen)
+
+
 *    *   D460A
 
     *   Die Nutzung des Frequenzbereichs 7 190 – 7 250 MHz im
@@ -8377,11 +8380,6 @@ Der Bundesrat hat zugestimmt.
         Frequenzbereich 7 190 – 7 235 MHz arbeiten, können keinen Schutz von
         bestehenden oder zukünftigen Systemen des
         Weltraumforschungsfunkdienstes verlangen.
-
-
-*    *   D460
-
-    *   (weggefallen)
 
 
 *    *   D461

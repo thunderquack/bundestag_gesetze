@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1911
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.6.2017 I 1476
+:   Art. 10 G v. 22.2.2023 I Nr. 51
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -653,7 +653,7 @@ Genossenschaft ihren Sitz hat.
 (1) Die Strafvorschriften der §§ 147 bis 151a des
 Genossenschaftsgesetzes, des § 15a Absatz 4 bis 6 der
 Insolvenzordnung, des § 340m in Verbindung mit den §§ 331 bis 333 des
-Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes
+Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes
 sowie die Bußgeldvorschriften des § 152 des Genossenschaftsgesetzes
 und des § 340n des Handelsgesetzbuchs gelten auch für die Europäische
 Genossenschaft im Sinn des Artikels 8 Abs. 1 Buchstabe c Nr. ii der

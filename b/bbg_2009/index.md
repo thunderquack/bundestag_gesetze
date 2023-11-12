@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.6.2021 I 2250
+:   Art. 5 G v. 17.7.2023 I Nr. 190
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -2325,13 +2325,25 @@ Lebenszeit oder Beamte auf Lebenszeit sind:
 
 
 11. die Präsidentin oder den Präsidenten des Bundesamtes für
-    Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr und
+    Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
 
 
-12. die Präsidentin oder den Präsidenten der Generalzolldirektion.
+12. die Präsidentin oder den Präsidenten der Generalzolldirektion,
+
+
+13. die Präsidentin oder den Präsidenten des Bundesamtes für Migration und
+    Flüchtlinge und
+
+
+14. die Präsidentin oder den Präsidenten des Bundesamtes für Sicherheit in
+    der Informationstechnik.
 
 
 
+Satz 1 gilt nur für Beamtinnen und Beamte, deren Ernennung zu einem
+Zeitpunkt erfolgte, in dem das ihnen übertragene Amt in Satz 1
+aufgenommen war, oder sich ein Gesetzentwurf zur Aufnahme einer
+entsprechenden Regelung im Gesetzgebungsverfahren befand.
 
 (2) Gesetzliche Vorschriften, nach denen andere politische Beamtinnen
 und politische Beamte in den einstweiligen Ruhestand versetzt werden
@@ -2548,14 +2560,18 @@ Beamtenverhältnisses.
 
 
 2.  Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung
-    nach keiner Geheimhaltung bedürfen, oder
+    nach keiner Geheimhaltung bedürfen,
 
 
 3.  gegenüber der zuständigen obersten Dienstbehörde, einer
     Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde
     bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch
     Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§
-    331 bis 337 des Strafgesetzbuches angezeigt wird.
+    331 bis 337 des Strafgesetzbuches angezeigt wird oder
+
+
+4.  Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes
+    an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 
 
@@ -4452,6 +4468,10 @@ obersten Dienstbehörde steht offen.
 (2) Richtet sich die Beschwerde gegen die unmittelbare Vorgesetzte
 oder den unmittelbaren Vorgesetzten, kann sie bei der oder dem
 nächsthöheren Vorgesetzten unmittelbar eingereicht werden.
+
+(3) Beamtinnen und Beamte, die eine Meldung oder Offenlegung nach dem
+Hinweisgeberschutzgesetz vornehmen, sind von der Einhaltung des
+Dienstwegs befreit.
 
 
 ### § 126 Verwaltungsrechtsweg

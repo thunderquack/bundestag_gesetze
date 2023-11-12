@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2012, 2449, 2450
 
 Zuletzt geändert durch
-:   Art. 141 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 5 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 27.7.2021 I 3146
 
 
 ## § 1 Technische Bewertungsstelle

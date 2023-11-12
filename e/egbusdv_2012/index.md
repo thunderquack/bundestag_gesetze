@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1038
 
 Geändert durch
-:   Art. 485 V v. 31.8.2015 I 1474
+:   Art. 25 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -270,8 +270,9 @@ und Abkommen
 des Personenbeförderungsgesetzes.
 
 (3) Sofern das Unternehmen nicht in Deutschland niedergelassen ist und
-kein Fall des Absatzes 1 vorliegt, hat das Bundesamt für Güterverkehr
-unter Beachtung der §§ 4b und 4c des Bundesdatenschutzgesetzes
+kein Fall des Absatzes 1 vorliegt, hat das Bundesamt für Logistik und
+Mobilität unter Beachtung der §§ 4b und 4c des
+Bundesdatenschutzgesetzes
 
 1.  Rechtsverstöße, die geeignet sind, die Begrenzung oder den Entzug des
     Marktzugangs des Unternehmens zu begründen, nach Artikel 23 Absatz 1

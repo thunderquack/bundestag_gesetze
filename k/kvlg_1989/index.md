@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2557
 
 Zuletzt geändert durch
-:   Art. 7d G v. 27.9.2021 I 4530
+:   Art. 13 G v. 20.12.2022 I 2759
 
 Änderung der inhaltsübersicht durch
 :   Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -37,8 +37,9 @@ Vorschriften Leistungen zur Verhütung von Krankheiten, zur
 betrieblichen Gesundheitsförderung und Prävention arbeitsbedingter
 Gefahren, zur Förderung der Selbsthilfe, zur Erfassung von
 gesundheitlichen Risiken und Früherkennung von Krankheiten sowie bei
-Krankheit. Die §§ 1 bis 2b, 4 Absatz 4, § 4a Absatz 2 und 4 Nummer 5
-des Fünften Buches Sozialgesetzbuch gelten entsprechend.
+Krankheit. Die §§ 1 bis 2b, 4 Absatz 4 Satz 1 Nummer 5, § 4a Absatz 2
+und 4 Nummer 5 des Fünften Buches Sozialgesetzbuch gelten
+entsprechend.
 
 
 ### § 2 Pflichtversicherte
@@ -141,7 +142,7 @@ aufgrund einer Beschäftigung in dem landwirtschaftlichen Unternehmen
 des anderen Ehegatten oder Lebenspartners die in § 5 Abs. 1 Nr. 1 des
 Fünften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt.
 
-(4a) Nach Absatz 1 Nr. 1 bis 6 ist nicht versicherungspflichtig, wer
+(4a) Nach Absatz 1 Nr. 1 bis 5 ist nicht versicherungspflichtig, wer
 außerhalb der Land- und Forstwirtschaft hauptberuflich selbständig
 erwerbstätig ist. Bei Personen, die im Zusammenhang mit ihrer
 selbständigen Erwerbstätigkeit außerhalb der Land- und Forstwirtschaft
@@ -235,15 +236,14 @@ dem Grunde nach besteht.
 
 (1) Nach diesem Gesetz ist nicht versichert, wer
 
-1.  nach anderen gesetzlichen Vorschriften versicherungspflichtig ist,
+1.  nach anderen gesetzlichen Vorschriften versicherungspflichtig ist oder
 
 
 2.  nach § 192 des Fünften Buches Sozialgesetzbuch Mitglied bei einer
-    anderen Krankenkasse ist oder
+    anderen Krankenkasse ist.
 
 
 
-3\.
 
 (2) Vorrang der Versicherungspflicht nach diesem Gesetz besteht für
 
@@ -409,8 +409,9 @@ Ersten des Kalendermonats wirksam, der auf die Antragstellung folgt.
     mindestens vierundzwanzig Monate oder unmittelbar vor dem Ausscheiden
     ununterbrochen mindestens zwölf Monate versichert waren; Zeiten der
     Mitgliedschaft nach § 23 und Zeiten, in denen eine Versicherung allein
-    deshalb bestanden hat, weil Arbeitslosengeld II zu Unrecht bezogen
-    wurde, werden nicht berücksichtigt,
+    deshalb bestanden hat, weil Bürgergeld nach § 19 Absatz 1 Satz 1 des
+    Zweiten Buches Sozialgesetzbuch zu Unrecht bezogen wurde, werden nicht
+    berücksichtigt,
 
 
 2.  Personen, deren Versicherung nach § 7 erlischt oder nur deswegen nicht
@@ -467,10 +468,12 @@ Inland aufhalten und kein Gesamteinkommen haben, das regelmäßig im
 Monat ein Siebtel der monatlichen Bezugsgröße nach § 18 des Vierten
 Buches Sozialgesetzbuch überschreitet; bei Renten wird der Zahlbetrag
 ohne den auf Entgeltpunkte für Kindererziehungszeiten entfallenden
-Teil berücksichtigt; für geringfügig Beschäftigte nach § 8 Abs. 1 Nr.
-1, § 8a des Vierten Buches Sozialgesetzbuch beträgt das zulässige
-Gesamteinkommen 450 Euro. § 309 Abs. 6 des Fünften Buches
-Sozialgesetzbuch gilt.
+Teil berücksichtigt; für sonstige Angehörige, die eine geringfügige
+Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des Vierten Buches
+Sozialgesetzbuch in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
+Buches Sozialgesetzbuch ausüben, ist ein regelmäßiges monatliches
+Gesamteinkommen bis zur Geringfügigkeitsgrenze nach § 8 Absatz 1a des
+Vierten Buches Sozialgesetzbuch zulässig.
 
 
 ## Zweiter Abschnitt - Leistungen
@@ -1030,7 +1033,10 @@ und ihn zusätzlich dem Bundesministerium für Ernährung und
 Landwirtschaft zuleitet.
 
 (2) Für die Aufgabenerledigung durch Dritte ist § 197b des Fünften
-Buches Sozialgesetzbuch entsprechend anzuwenden.
+Buches Sozialgesetzbuch entsprechend anzuwenden. Für die Bildung von
+Arbeitsgemeinschaften zur Wahrnehmung der in § 94 Absatz 1a Satz 1 des
+Zehnten Buches Sozialgesetzbuch genannten Aufgaben gilt § 219 Absatz 1
+des Fünften Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 27 Meldepflichten landwirtschaftlicher Unternehmer und früherer Versicherter
@@ -1339,11 +1345,11 @@ durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches
 Sozialgesetzbuch.
 
 (4) Aus dem versicherungspflichtigen Beschäftigungsverhältnis des in §
-3 Abs. 2 Nr. 1 genannten landwirtschaftlichen Unternehmers erhebt die
-landwirtschaftliche Krankenkasse den Beitrag, den der Arbeitgeber bei
-einer Versicherungspflicht nach dem Fünften Buch Sozialgesetzbuch
-entsprechend § 249 Absatz 1 oder 2 des Fünften Buches Sozialgesetzbuch
-zu tragen hätte.
+3 Absatz 2 Nummer 1 genannten landwirtschaftlichen Unternehmers erhebt
+die landwirtschaftliche Krankenkasse den Beitrag, den der Arbeitgeber
+bei einer Versicherungspflicht nach dem Fünften Buch Sozialgesetzbuch
+entsprechend § 249 des Fünften Buches Sozialgesetzbuch zu tragen
+hätte.
 
 
 ### § 40 Beitragsberechnung bei Einkommen aus Land- und Forstwirtschaft
@@ -1397,13 +1403,14 @@ Arbeitsbedarfs bestimmt die Satzung.
 Satzung das Verfahren.
 
 (5a) Abweichend von Absatz 1 wird bei versicherungspflichtigen
-landwirtschaftlichen Unternehmern, die Arbeitslosengeld II beziehen,
-für die Dauer des Bezuges von Arbeitslosengeld II als Einkommen nach §
-39 Absatz 1 Nummer 1 der sich aus § 232a Absatz 1 Satz 1 Nummer 2 des
-Fünften Buches Sozialgesetzbuch ergebende Wert zugrunde gelegt. Für
-die Bemessung der Beiträge gilt der um den durchschnittlichen
-Zusatzbeitragssatz erhöhte ermäßigte Beitragssatz der gesetzlichen
-Krankenversicherung.
+landwirtschaftlichen Unternehmern, die Bürgergeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, für die Dauer des
+Bezuges von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+Sozialgesetzbuch als Einkommen nach § 39 Absatz 1 Nummer 1 der sich
+aus § 232a Absatz 1 Satz 1 Nummer 2 des Fünften Buches
+Sozialgesetzbuch ergebende Wert zugrunde gelegt. Für die Bemessung der
+Beiträge gilt der um den durchschnittlichen Zusatzbeitragssatz erhöhte
+ermäßigte Beitragssatz der gesetzlichen Krankenversicherung.
 
 (6) Macht der Beitragspflichtige trotz Aufforderung der
 landwirtschaftlichen Krankenkasse die für die Festsetzung des
@@ -1675,8 +1682,8 @@ Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
 von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des
 § 6a des Zweiten Buches Sozialgesetzbuch die zugelassenen kommunalen
 Träger die Beiträge für nach § 2 Absatz 1 Nummer 6
-versicherungspflichtige Beziehende von Arbeitslosengeld II nach dem
-Zweiten Buch Sozialgesetzbuch.
+versicherungspflichtige Beziehende von Bürgergeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches Sozialgesetzbuch.
 
 (2) Die Beiträge werden in den Fällen des § 48a Absatz 2 durch die
 Pflegekasse, das private Versicherungsunternehmen oder die
@@ -1707,7 +1714,7 @@ Für die nach § 2 Absatz 1 Nummer 7 Versicherungspflichtigen gilt §
 
 ### § 51 Verwendung und Verwaltung der Mittel
 
-(1) Für die Verwendung und Verwaltung der Mittel gelten die §§ 259 bis
+(1) Für die Verwendung und Verwaltung der Mittel gelten die §§ 260 bis
 263a des Fünften Buches Sozialgesetzbuch entsprechend, soweit
 nachfolgend nichts Abweichendes bestimmt ist. Die Satzung kann den
 Durchschnittsbetrag der Betriebsmittel auf den zweifachen Monatsbetrag

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 4263
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 8 G v. 8.7.2019 I 1002
+:   Art. 2 V v. 30.9.2022 I 1603
 
 
 ## Eingangsformel
@@ -56,24 +56,41 @@ aufzunehmen:
     der Gesellschaften zum Bieter und zur Zielgesellschaft;
 
 
-2.  Angaben nach Artikel 13 Absatz 1, Artikel 14 Absatz 1 und 2 oder
-    Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in Verbindung mit
-    den jeweiligen Vorgaben in den Kapiteln II bis IV der Delegierten
-    Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur
-    Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments
-    und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung
-    und der Billigung des Prospekts, der beim öffentlichen Angebot von
-    Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten
-    Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG)
-    Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26), sofern
-    Wertpapiere als Gegenleistung angeboten werden; wurde für die
-    Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt,
-    auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel
-    an einem organisierten Markt zugelassen worden sind, im Inland in
-    deutscher Sprache veröffentlicht und ist für die als Gegenleistung
-    angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein
-    gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt
-    veröffentlicht wurde und wo dieser jeweils erhältlich ist;
+2.  sofern Wertpapiere als Gegenleistung angeboten werden,
+
+    a)  für als Gegenleistung im Rahmen eines Übernahme- oder Pflichtangebots
+        angebotene Wertpapiere Angaben nach der Delegierten Verordnung (EU)
+        2021/528 der Kommission vom 16. Dezember 2020 zur Ergänzung der
+        Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates im
+        Hinblick auf die Mindestinformationen des Dokuments, das der
+        Öffentlichkeit bei einer Ausnahme von der Prospektpflicht im
+        Zusammenhang mit einer Übernahme im Wege eines Tauschangebots, einer
+        Verschmelzung oder einer Spaltung zur Verfügung zu stellen ist (ABl.
+        L 106 vom 26.3.2021, S. 32);
+
+
+    b)  für als Gegenleistung außerhalb eines Übernahme- oder Pflichtangebots
+        angebotene Wertpapiere Angaben nach Artikel 13 Absatz 1, Artikel 14
+        Absatz 1 und 2 oder Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129
+        des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den
+        Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei
+        deren Zulassung zum Handel an einem geregelten Markt zu
+        veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl.
+        L 168 vom 30.6.2017, S. 12), die zuletzt durch die Verordnung (EU)
+        2021/337 (ABl. L 68 vom 26.2.2021, S. 1) geändert worden ist, in
+        Verbindung mit den jeweiligen Vorgaben der Kapitel II bis IV der
+        Delegierten Verordnung (EU) 2019/980 der Kommission vom 14. März 2019
+        zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen
+        Parlaments und des Rates hinsichtlich der Aufmachung, des Inhalts, der
+        Prüfung und der Billigung des Prospekts, der beim öffentlichen Angebot
+        von Wertpapieren oder bei deren Zulassung zum Handel an einem
+        geregelten Markt zu veröffentlichen ist, und zur Aufhebung der
+        Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019,
+        S. 26), die zuletzt durch die Delegierte Verordnung (EU) 2020/1273
+        (ABl. L 300 vom 14.9.2020, S. 6) geändert worden ist.
+
+
+
 
 
 2a. Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der
@@ -175,6 +192,14 @@ aufzunehmen:
 
 
 
+Wurde in den Fällen des Satzes 1 Nummer 2 für die Wertpapiere vor
+Veröffentlichung der Angebotsunterlage ein Prospekt, auf Grund dessen
+die Wertpapiere öffentlich angeboten oder zum Handel an einem
+organisierten Markt zugelassen worden sind, im Inland in deutscher
+Sprache veröffentlicht und ist für die als Gegenleistung angebotenen
+Wertpapiere während der gesamten Laufzeit des Angebots ein gültiger
+Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt
+veröffentlicht wurde und wo dieser jeweils erhältlich ist.
 
 
 ## Dritter Abschnitt - Gegenleistung bei Übernahmeangeboten und Pflichtangeboten

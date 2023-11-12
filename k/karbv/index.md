@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2483
 
-Änderung durch
-:   Art. 18 Abs. 2 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 18 Abs. 2 G v. 3.6.2021 I 1498
 
 
 ## Eingangsformel
@@ -141,23 +141,19 @@ enthaltenen Bestimmungen.
 
 ### § 4 Einreichung bei der Bundesanstalt
 
-(1) Die Berichte nach den §§ 101, 103 bis 105, 120, 122, 135, 148, 158
-und 161 des Kapitalanlagegesetzbuches sind in dreifacher Ausfertigung
-bei der Bundesanstalt am Dienstsitz in Frankfurt am Main einzureichen.
-Eines dieser Exemplare ist elektronisch zu übermitteln.
+(1) Die Berichte nach § 1 Nummer 1 sind von der Geschäftsleitung
+eigenhändig zu unterschreiben. Die Unterschriften sind am Ende des
+jeweiligen Berichts zu platzieren. Bei Berichten, die Sondervermögen
+betreffen, reicht es aus, wenn die Unterschriften von
+Geschäftsleiterinnen und Geschäftsleitern in vertretungsberechtigter
+Zahl geleistet werden.
 
-(2) Mindestens eines der in Papierform eingereichten Exemplare ist von
-der Geschäftsleitung eigenhändig zu unterschreiben. Die Unterschriften
-sind am Ende des jeweiligen Berichts zu platzieren. Das Original ist
-außen auf dem Deckblatt entsprechend zu kennzeichnen.
-
-(3) Bei Berichten, die Sondervermögen betreffen, ist es ausreichend,
-wenn die Unterschriften von Geschäftsleiterinnen und Geschäftsleitern
-in vertretungsberechtigter Zahl geleistet werden.
-
-(4) Absatz 1 gilt für jeden von der AIF-Kapitalverwaltungsgesellschaft
-verwalteten inländischen Spezial-AIF nur, wenn die Bundesanstalt die
-Berichte anfordert.
+(2) Halbjahresberichte zu Publikumsinvestmentvermögen werden der
+Bundesanstalt ausschließlich elektronisch über ein von ihr
+bereitgestelltes elektronisches Kommunikationsverfahren übermittelt.
+Sofern die Bundesanstalt Berichte nach § 1 Nummer 1 zu inländischen
+Spezial-AIF anfordert, sind ihr diese ebenfalls über das elektronische
+Kommunikationsverfahren zu übermitteln.
 
 
 ### § 5 Investmentrechtliche Rechnungslegung

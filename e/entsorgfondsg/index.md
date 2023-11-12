@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 114, 1676
 
 Zuletzt geändert durch
-:   Art. 243 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 G v. 25.6.2021 I 2137 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 25.6.2021 I 2137
 
 Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
 

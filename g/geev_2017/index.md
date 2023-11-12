@@ -17,11 +17,8 @@ Fundstelle
 :   BGBl I: 2017, 3102
 
 Stand: Ersetzt 754-27-6 V v. 11.07.2016 I 1629
-Geändert durch
-:   Art. 19 G v. 13.5.2019 I 706
-
-Änderung durch
-:   Art. 12 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 12 G v. 21.12.2020 I 3138
 
 
 ## Teil 1 - Allgemeine Bestimmungen

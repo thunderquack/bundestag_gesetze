@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 538
 
+Geändert durch
+:   Art. 19 G v. 10.8.2021 I 3436
+
 Änderung durch
-:   Art. 19 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 20.2.2023 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F1_807104_BJNR053800019]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/410 des
     Europäischen Parlaments und des Rates vom 14. März 2018 zur Änderung
@@ -62,9 +65,9 @@ Es verordnen auf Grund
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes. Sie dient der Konkretisierung
-der Anforderungen der §§ 5, 6, 8, 9, 21, 22 und 24 des Treibhausgas-
-Emissionshandelsgesetzes und der Umsetzung eines Systems zur
-Privilegierung von Kleinemittenten für die Handelsperiode 2021 bis
+der Anforderungen der §§ 5, 6, 8, 9, 18, 21, 22 und 24 des
+Treibhausgas-Emissionshandelsgesetzes und der Umsetzung eines Systems
+zur Privilegierung von Kleinemittenten für die Handelsperiode 2021 bis
 2030\.
 
 
@@ -72,24 +75,47 @@ Privilegierung von Kleinemittenten für die Handelsperiode 2021 bis
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
-1.  Flüssige Biobrennstoffe:
+1.  flüssige Biobrennstoffe:
 
-    Brennstoffe im Sinne von Artikel 3 Nummer 21 der Monitoring-
-    Verordnung, die zum Zeitpunkt des Eintritts in den Brenn- oder
-    Feuerraum flüssig sind;
+    flüssige Biobrennstoffe nach Artikel 3 Nummer 22 der Monitoring-
+    Verordnung.
+
+
+1a. Biomasse-Brennstoffe:
+
+    Biomasse-Brennstoffe nach Artikel 3 Nummer 21a der Monitoring-
+    Verordnung.
 
 
 2.  Biokraftstoffe:
 
-    Biokraftstoffe im Sinne von Artikel 3 Nummer 22 der Monitoring-
-    Verordnung;
+    Biokraftstoffe nach Artikel 3 Nummer 23 der Monitoring-Verordnung.
+
+
+2a. Biomassestrom-Nachhaltigkeitsverordnung:
+
+    Biomassestrom-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I
+    S. 5126), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember
+    2022 (BGBl. I S. 2286) geändert worden ist, in der jeweils geltenden
+    Fassung.
+
+
+2b. Biokraftstoff-Nachhaltigkeitsverordnung:
+
+    Biokraftstoff-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I
+    S. 5126, 5143), in der jeweils geltenden Fassung.
+
+
+2c. Drittstaat:
+
+    ein Staat, der nicht Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum ist.
 
 
 3.  EU-Zuteilungsverordnung:
 
     Delegierte Verordnung (EU) 2019/331 der Kommission vom 19. Dezember
-    2018 zur Festlegung
-    EU-weiter                    Übergangsvorschriften zur Harmonisierung
+    2018 zur Festlegung EU-weiter Übergangsvorschriften zur Harmonisierung
     der kostenlosen Zuteilung von Emissionszertifikaten gemäß Artikel 10a
     der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates
     (ABl. L 59 vom 27.2.2019, S. 8);
@@ -104,119 +130,148 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     Fassung.
 
 
+5.  Monitoring-Verordnung:
 
-
-
-## Abschnitt 2 - Emissionsberichterstattung <BR />(Zu § 5 des Gesetzes)
-
-
-### § 3 Emissionsfaktor beim Einsatz flüssiger Biobrennstoffe
-
-(1) Für den Einsatz flüssiger Biobrennstoffe zur Stromproduktion gilt
-Artikel 38 Absatz 2 Satz 1 der Monitoring-Verordnung, soweit die
-eingesetzten flüssigen Biobrennstoffe die Nachhaltigkeitsanforderungen
-der §§ 4 bis 8 der Biomassestrom-Nachhaltigkeitsverordnung vom 23.
-Juli 2009 (BGBl. I S. 2174) erfüllen, die zuletzt durch Artikel 1 der
-Verordnung vom 26. Juni 2018 (BGBl. I S. 872) geändert worden ist, in
-der jeweils geltenden Fassung. § 3 Absatz 2 und 3 der Biomassestrom-
-Nachhaltigkeitsverordnung gilt entsprechend, zu Absatz 3 mit der
-Maßgabe, dass anstelle des § 3 Absatz 1 der Biomassestrom-
-Nachhaltigkeitsverordnung auf Satz 1 abzustellen ist. Für flüssige
-Biomasse, die aus Abfall oder aus Reststoffen hergestellt worden ist,
-ist Satz 1 mit der Maßgabe anzuwenden, dass lediglich die
-Nachhaltigkeitsanforderungen nach § 8 der Biomassestrom-
-Nachhaltigkeitsverordnung erfüllt sein müssen; diese Einschränkung
-gilt nicht für flüssige Biomasse aus Reststoffen der Land-, Forst-
-oder Fischwirtschaft oder aus Aquakulturen.
-
-(2) Beim Einsatz flüssiger Biobrennstoffe zur Wärmeerzeugung gilt
-Absatz 1 mit der Maßgabe, dass zur Berechnung des Treibhausgas-
-Minderungspotenzials anstelle des Vergleichswertes für
-Fossilbrennstoffe nach Nummer 4 der Anlage 1 zur Biomassestrom-
-Nachhaltigkeitsverordnung folgende Vergleichswerte gelten:
-
-1.  für flüssige Biomasse, die zur Wärmeerzeugung verwendet wird, 77 Gramm
-    CO
-    2                   eq/MJ und
-
-
-2.  für flüssige Biomasse, die zur Wärmeerzeugung in Kraft-Wärme-Kopplung
-    verwendet wird, 85 Gramm CO
-    2                   eq/MJ.
+    Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19. Dezember
+    2018 über die Überwachung von und die Berichterstattung über
+    Treibhausgasemissionen gemäß der Richtlinie 2003/87/EG des
+    Europäischen Parlaments und des Rates und zur Änderung der Verordnung
+    (EU) Nr. 601/2012 der Kommission (ABl. L 334 vom 31.12.2018, S. 1) in
+    der jeweils geltenden Fassung.
 
 
 
 
-(3) Die Einhaltung der Anforderungen nach den Absätzen 1 und 2 für die
-eingesetzten flüssigen Biobrennstoffe ist nachzuweisen durch einen
-anerkannten Nachhaltigkeitsnachweis nach § 14 Nummer 1, 2 oder 3 der
-Biomassestrom-Nachhaltigkeitsverordnung oder durch einen
-Nachhaltigkeits-Teilnachweis nach § 24 der Biomassestrom-
-Nachhaltigkeitsverordnung, der in der Datenbank der nach § 74 Absatz 1
-Nummer 4 der Biomassestrom-Nachhaltigkeitsverordnung zuständigen
-Behörde auf das Konto der nach § 19 Absatz 1 Nummer 3 des
-Treibhausgas-Emissionshandelsgesetzes zuständigen Behörde überwiesen
-wird.
+Emissionsberichterstattung
 
-(4) Für den Einsatz flüssiger Biobrennstoffe in Anlagen, die keine
-Schnittstelle nach § 2 Absatz 3 der Biomassestrom-
-Nachhaltigkeitsverordnung sind und denen keine solche Schnittstelle
-vorgelagert ist, ist der Nachweis über die Einhaltung der
-Nachhaltigkeitsanforderungen abweichend von Absatz 3 durch eine
-Prüfbescheinigung einer nach § 42 Nummer 1 oder 2 der Biomassestrom-
-Nachhaltigkeitsverordnung anerkannten Zertifizierungsstelle zu
-erbringen. Die §§ 48, 49, 52 bis 55 der Biomassestrom-
-Nachhaltigkeitsverordnung gelten entsprechend.
-
-(5) Für flüssige Biobrennstoffe als Bestandteil eines
-Brennstoffgemischs sowie für die Bestimmung des Kohlenstoffgehalts bei
-Anwendung einer Massenbilanz gelten die Absätze 1 bis 4 entsprechend.
-
-(6) Die Absätze 1 bis 5 gelten nicht für den Einsatz von Ablauge, die
-bei der Herstellung von Zellstoff angefallen ist.
-
-(7) Soweit die Anforderungen nach den Absätzen 1 bis 5 nicht erfüllt
-sind, ist der Emissionsfaktor beim Einsatz flüssiger Biobrennstoffe
-nach den Vorgaben der Monitoring-Verordnung zur Ermittlung des
-Emissionsfaktors für fossile Brennstoffe zu bestimmen.
+## Abschnitt 2 - (Zu § 5 des Gesetzes)
 
 
-### § 4 Emissionsfaktor beim Einsatz von Biokraftstoffen im Luftverkehr
+### § 3 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich
 
-(1) Beim Einsatz von Biokraftstoffen im Luftverkehr beträgt der
-Emissionsfaktor Null, soweit die eingesetzten Biokraftstoffe die
-Nachhaltigkeitsanforderungen der §§ 4 bis 8 der Biokraftstoff-
-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl. I S. 3182)
-erfüllen, die zuletzt durch Artikel 2 der Verordnung vom 26. Juni 2018
-(BGBl. I S. 872) geändert worden ist, in der jeweils geltenden
-Fassung. § 3 Absatz 2 und 3 der Biokraftstoff-
-Nachhaltigkeitsverordnung gilt entsprechend, zu Absatz 3 mit der
-Maßgabe, dass anstelle des § 3 Absatz 1 der Biokraftstoff-
-Nachhaltigkeitsverordnung auf Satz 1 abzustellen ist. Für
-Biokraftstoffe, die aus Abfall oder aus Reststoffen hergestellt worden
-sind, ist Satz 1 mit der Maßgabe anzuwenden, dass lediglich die
-Nachhaltigkeitsanforderungen nach § 8 der Biokraftstoff-
-Nachhaltigkeitsverordnung erfüllt sein müssen; diese Einschränkung
-gilt nicht für Biokraftstoffe aus Reststoffen der Land-, Forst- oder
-Fischwirtschaft oder aus Aquakulturen.
+(1) Die Erfüllung der Nachhaltigkeitsanforderungen und der
+Anforderungen an die Treibhausgaseinsparung, die nach Artikel 38
+Absatz 2 Unterabsatz 1 in Verbindung mit Absatz 5 der Monitoring-
+Verordnung gefordert werden, damit in der Berichterstattung für die
+Verbrennung von flüssigen Biobrennstoffen und von Biomasse-
+Brennstoffen der Emissionsfaktor null beträgt, muss vom
+Anlagenbetreiber ab dem Berichtsjahr 2023 nachgewiesen werden. Der
+Nachweis muss durch einen anerkannten Nachhaltigkeitsnachweis nach §
+10 der Biomassestrom-Nachhaltigkeitsverordnung erfolgen.
 
-(2) Die Einhaltung der Anforderungen nach Absatz 1 ist nachzuweisen
-durch einen anerkannten Nachhaltigkeitsnachweis nach § 14 Nummer 1, 2
-oder 3 der Biokraftstoff-Nachhaltigkeitsverordnung oder durch einen
-Nachhaltigkeits-Teilnachweis nach § 24 der Biokraftstoff-
-Nachhaltigkeitsverordnung, der in der Datenbank der nach § 66 Absatz 1
-Nummer 3 dritter Halbsatz der Biokraftstoff-Nachhaltigkeitsverordnung
-zuständigen Behörde auf das Konto der nach § 19 Absatz 1 Nummer 3 des
-Treibhausgas-Emissionshandelsgesetzes zuständigen Behörde überwiesen
-wird.
+(2) Werden in einer Anlage Biomasse-Brennstoffe verbrannt, so kann der
+Nachhaltigkeitsnachweis – abweichend von § 11 Absatz 1 Satz 1 der
+Biomassestrom-Nachhaltigkeitsverordnung – auch ausgestellt werden von
+der Schnittstelle, die der letzten Schnittstelle nach § 2 Absatz 21
+Nummer 1 der Biomassestrom-Nachhaltigkeitsverordnung unmittelbar
+vorgelagert ist und die den Biomasse-Brennstoff auf die zur
+Verbrennung erforderliche Qualitätsstufe aufbereitet, wenn
 
-(3) Für Biokraftstoffe als Bestandteil eines Treibstoffgemischs gelten
-die Absätze 1 und 2 entsprechend.
+1.  die Biomasse-Brennstoffe ausschließlich für die Verwendung in der
+    Anlage beschafft werden,
 
-(4) Soweit die Anforderungen nach den Absätzen 1 bis 3 nicht erfüllt
-sind, ist der Emissionsfaktor beim Einsatz von Biokraftstoffen nach
-den Vorgaben der Monitoring-Verordnung zur Ermittlung des
-Emissionsfaktors für fossile Treibstoffe zu bestimmen.
+
+2.  in der Anlage in keinem Prozess eine Herstellung nach § 2 Absatz 16
+    der Biomassestrom-Nachhaltigkeitsverordnung stattfindet und
+
+
+3.  in der Anlage bereits vor Ablauf des 31. Dezember 2020 erstmals
+    Biomasse-Brennstoffe oder flüssige Biobrennstoffe zur Verbrennung
+    verwendet worden sind.
+
+
+
+
+(3) Im Hinblick auf die jeweils maßgeblichen Kriterien für
+Treibhausgaseinsparungen gemäß § 6 Absatz 2 Satz 1 der Biomassestrom-
+Nachhaltigkeitsverordnung gilt eine Anlage zu dem Zeitpunkt als in
+Betrieb genommen, zu dem in ihr zur Verbrennung erstmals Biomasse-
+Brennstoffe oder flüssige Biobrennstoffe verwendet worden sind.
+
+(4) Bei der Berechnung der Treibhausgaseinsparung, die durch die
+Verbrennung von flüssigen Biobrennstoffen oder Biomasse-Brennstoffen
+erzielt wird, gilt § 6 Absatz 3 der Biomassestrom-
+Nachhaltigkeitsverordnung mit der Maßgabe, dass für fossile
+Brennstoffe die folgenden Werte anzusetzen sind:
+
+1.  bei der Verwendung von flüssigen Biobrennstoffen: der Komparator nach
+    Anhang V Teil C Nummer 19 Unterabsatz 2 oder 3 der Richtlinie (EU)
+    2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember
+    2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen
+    (ABl. L 328 vom 21.12.2018, S. 82; L 41 vom 22.2.2022, S. 37) in der
+    jeweils geltenden Fassung und
+
+
+2.  bei der Verwendung von Biomasse-Brennstoffen: der Komparator nach
+    Anhang VI Teil B Nummer 19 der Richtlinie (EU) 2018/2001 in der
+    jeweils geltenden Fassung.
+
+
+
+Entsteht bei der Verbrennung der Biomasse-Brennstoffe weder messbare
+Wärme noch Strom, so ist die Treibhausgasminderung zu berechnen, wobei
+ein Wirkungsgrad von 90 Prozent anzusetzen ist und der Vergleichswert
+für Wärme heranzuziehen ist.
+
+(5) Für feste Biomasse-Brennstoffe muss auf dem
+Nachhaltigkeitsnachweis zusätzlich zu den Angaben nach § 14 Absatz 1
+der Biomassestrom-Nachhaltigkeitsverordnung die Masse im Lieferzustand
+ausgewiesen werden.
+
+
+### § 3a Ausnahmen für den Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich
+
+(1) Bis zum Ablauf des 31. Dezember 2023 darf der Anlagenbetreiber in
+der Berichterstattung für die Verbrennung von Biomasse-Brennstoffen
+den Emissionsfaktor Null nach Artikel 38 Absatz 2 Unterabsatz 1 der
+Monitoring-Verordnung auch ansetzen, ohne dass er einen anerkannten
+Nachhaltigkeitsnachweis nach § 10 der Biomassestrom-
+Nachhaltigkeitsverordnung erbringen muss, solange ein solcher
+Nachhaltigkeitsnachweis nicht ausgestellt werden kann, weil
+
+1.  es nicht genügend anerkannte Zertifizierungssysteme nach der
+    Biomassestrom-Nachhaltigkeitsverordnung gibt,
+
+
+2.  es nicht genügend zugelassene Auditoren anerkannter
+    Zertifizierungsstellen nach der Biomassestrom-
+    Nachhaltigkeitsverordnung gibt oder
+
+
+3.  die Ausstellung von Nachhaltigkeitsnachweisen in der Datenbank der
+    nach § 50 Absatz 1 der Biomassestrom-Nachhaltigkeitsverordnung
+    zuständigen Behörde für den Zeitpunkt des Bezugs der Brennstoffe nicht
+    möglich ist.
+
+
+
+
+(2) Kann ein anerkannter Nachhaltigkeitsnachweis aus einem der in
+Absatz 1 Nummer 1 oder 2 genannten Gründe nicht ausgestellt werden, so
+ist der Anlagenbetreiber verpflichtet, in Form einer Eigenerklärung
+nachzuweisen, dass mindestens einer der in Absatz 1 genannten Gründe
+vorliegt. Die Eigenerklärung wird von der nach § 19 Absatz 1 Nummer 3
+Treibhausgasemissionshandelsgesetz zuständigen Behörde im Rahmen des
+Emissionsberichtes für das Jahr 2023 auf Plausibilität geprüft.
+
+(3) Kann ein anerkannter Nachhaltigkeitsnachweis aus dem in Absatz 1
+Nummer 3 genannten Grund nicht ausgestellt werden, so ist der
+Anlagenbetreiber verpflichtet, durch einen elektronischen Nachweis
+nachzuweisen, dass die Voraussetzungen nach § 3 Absatz 1 erfüllt sind.
+Der elektronische Nachweis muss von einem anerkannten
+Zertifizierungssystem ausgestellt worden sein.
+
+
+### § 4 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im Luftverkehr
+
+Die Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen
+an die Treibhausgaseinsparung, die nach Artikel 54 Absatz 4 in
+Verbindung mit Artikel 38 Absatz 5 der Monitoring-Verordnung gefordert
+werden, damit in der Berichterstattung für die Verbrennung von
+Biokraftstoffen im Luftverkehr der Emissionsfaktor Null beträgt, muss
+vom Luftfahrzeugbetreiber nachgewiesen werden. Der Nachweis muss durch
+einen anerkannten Nachhaltigkeitsnachweis nach § 8 der Biokraftstoff-
+Nachhaltigkeitsverordnung erfolgen.
 
 
 ### § 5 Nachweisanforderungen für angewendete Analysemethoden
@@ -226,8 +281,9 @@ werden, die auf Analysen basieren, gelten die Nachweisanforderungen in
 den Artikeln 32 bis 35 der Monitoring-Verordnung für alle angewendeten
 Analysemethoden.
 
+Überwachung
 
-## Abschnitt 3 - Überwachung <BR />(Zu § 6 des Gesetzes)
+## Abschnitt 3 - (Zu § 6 des Gesetzes)
 
 
 ### § 6 Anpassung des Überwachungsplans bei nicht erheblichen Änderungen der Überwachung
@@ -264,8 +320,9 @@ erheblicher Änderungen der Überwachung gestatten, den geänderten
 Überwachungsplan bis spätestens zum 31. Dezember des Kalenderjahres,
 in dem die Überwachung geändert wurde, zu übermitteln.
 
+Versteigerung von Berechtigungen
 
-## Abschnitt 4 - Versteigerung von Berechtigungen <BR />(Zu § 8 des Gesetzes)
+## Abschnitt 4 - (Zu § 8 des Gesetzes)
 
 
 ### § 7 Versteigerung
@@ -282,8 +339,9 @@ Unterdeckungen der entstandenen Kosten der Deutschen
 Emissionshandelsstelle im Umweltbundesamt auf den
 Refinanzierungsbedarf des darauffolgenden Jahres anzurechnen.
 
+Zuteilung von Berechtigungen
 
-## Abschnitt 5 - Zuteilung von Berechtigungen <BR />(Zu § 9 des Gesetzes)
+## Abschnitt 5 - (Zu § 9 des Gesetzes)
 
 
 ### § 8 Erhebung von Bezugsdaten
@@ -325,7 +383,72 @@ EU-Zuteilungsverordnung gefordert sind, folgende Angaben zu machen:
 
 
 
-## Abschnitt 6 - Zertifizierung von Prüfstellen <BR />(Zu § 21 des Gesetzes)
+### § 8a Mitteilung der nicht wesentlichen Änderungen am Plan zur Überwachungsmethodik
+
+Beabsichtigt ein Anlagenbetreiber am Plan zur Überwachungsmethodik
+Änderungen, die nicht wesentlich nach Artikel 9 Absatz 3 Satz 1 der
+EU-Zuteilungsverordnung sind, so muss er der zuständigen Behörde diese
+Änderungen – abweichend von Artikel 9 Absatz 3 Satz 1 der EU-
+Zuteilungsverordnung – erst bis zum nächsten 31. März mitteilen.
+
+
+### § 8b Mitteilung zur Einstellung des Betriebs einer Anlage
+
+Sofern mindestens eine der in Artikel 26 der EU-Zuteilungsverordnung
+genannten Bedingungen für die Annahme erfüllt ist, dass der Betrieb
+der Anlage eingestellt worden ist, muss der Anlagenbetreiber
+unverzüglich der zuständigen Behörde das Datum mitteilen, ab dem diese
+Bedingung vorlag.
+
+
+## Abschnitt 5a - Einzelheiten zur Überwachung, Berichterstattung und Prüfung (Zu § 18 des Gesetzes)
+
+
+### § 8c Berichterstattung über Emissionen von Flügen zwischen zwei Drittstaaten
+
+(1) Ab dem Berichtsjahr 2022 sind die Luftfahrzeugbetreiber –
+abweichend von Artikel 2 Absatz 3 der Delegierten Verordnung (EU)
+2019/1603 der Kommission vom 18. Juli 2019 zur Ergänzung der
+Richtlinie 2003/ 87/EG des Europäischen Parlaments und des Rates
+betreffend die von der Internationalen Zivilluftfahrt-Organisation
+angenommenen Maßnahmen für die Überwachung von, die Berichterstattung
+über und die Prüfung von Luftverkehrsemissionen für die Zwecke der
+Umsetzung eines globalen marktbasierten Mechanismus (ABl. L 250 vom
+30\.9.2019, S. 10) in der jeweils geltenden Fassung – verpflichtet,
+über ihre Emissionen aus den Flügen zwischen Flugplätzen in zwei
+Drittstaaten Bericht zu erstatten.
+
+(2) Die Berichterstattung muss im Einklang mit den Vorgaben der
+Artikel 3 und 4 der Delegierten Verordnung (EU) 2019/1603 erfolgen.
+
+(3) Für die Ermittlung der Emissionen aus den Flügen zwischen
+Flugplätzen in zwei Drittstaaten und für die Berichterstattung dieser
+Emissionen gelten die §§ 5 und 6 des Treibhausgas-
+Emissionshandelsgesetzes entsprechend.
+
+
+### § 8d Einreichung eines Überwachungsplans
+
+(1) Ein Luftfahrzeugbetreiber ist verpflichtet, unverzüglich einen
+Überwachungsplan bei der zuständigen Behörde einzureichen, wenn er
+
+1.  die Bedingungen nach Artikel 1 der Delegierten Verordnung (EU)
+    2019/1603 erfüllt und Tätigkeiten durchführt, die in den
+    Anwendungsbereich von dessen Artikel 2 fallen, oder
+
+
+2.  Flüge zwischen Flugplätzen in zwei Drittstaaten durchführt.
+
+
+
+
+(2) Die Pflicht entfällt jedoch, wenn der Luftfahrzeugbetreiber bei
+der zuständigen Behörde bereits einen Überwachungsplan nach § 6 des
+Treibhausgas-Emissionshandelsgesetzes eingereicht hat.
+
+Zertifizierung von Prüfstellen
+
+## Abschnitt 6 - (Zu § 21 des Gesetzes)
 
 
 ### § 9 Beleihung
@@ -431,15 +554,17 @@ diesem Verlangen innerhalb einer Frist von drei Jahren zu entsprechen.
 übertragenen Aufgaben bis zur Beendigung der Beleihung oder bis zum
 Ablauf der in Absatz 2 genannten Frist verpflichtet.
 
+Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle
 
-## Abschnitt 7 - Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle <BR />(Zu § 22 des Gesetzes)
+## Abschnitt 7 - (Zu § 22 des Gesetzes)
 
 
 ### § 14 (weggefallen)
 
 
+Verfahren zur Feststellung einheitlicher Anlagen
 
-## Abschnitt 8 - Verfahren zur Feststellung einheitlicher Anlagen <BR />(Zu § 24 des Gesetzes)
+## Abschnitt 8 - (Zu § 24 des Gesetzes)
 
 
 ### § 15 Einheitliche Anlage
@@ -469,8 +594,9 @@ Treibhausgas-Emissionshandelsgesetzes zu widerrufen, soweit
 nachträglich unmittelbar geltende Rechtsakte der Europäischen Union
 der Bildung einer solchen einheitlichen Anlage entgegenstehen.
 
+Kleinemittenten
 
-## Abschnitt 9 - Kleinemittenten <BR />(Zu § 27 des Gesetzes)
+## Abschnitt 9 - (Zu § 27 des Gesetzes)
 
 
 ### § 16 Befreiung von Kleinemittenten
@@ -504,13 +630,25 @@ Absatz 15 der EU-Zuteilungsverordnung von der Pflicht nach § 7 Absatz
 die Jahre 2016 bis 2018; der Bezugszeitraum für den Zuteilungszeitraum
 2026 bis 2030 sind die Jahre 2021 bis 2023.
 
-(3) Bei Anlagen der in Anhang 1 Teil 2 Nummer 2 bis 6 des
-Treibhausgas-Emissionshandelsgesetzes genannten Tätigkeiten ist eine
-Befreiung nach Absatz 1 ausgeschlossen, sofern die
-Feuerungswärmeleistung der Anlage 35 Megawatt oder mehr beträgt; dies
-gilt für die Gesamtfeuerungswärmeleistung von Verbrennungseinheiten
-nach Anhang 1 Teil 2 Nummer 1 des Treibhausgas-
-Emissionshandelsgesetzes in einer Anlage entsprechend.
+(3) Ausgeschlossen ist eine Befreiung von der Pflicht nach § 7 Absatz
+1 des Treibhausgas-Emissionshandelsgesetzes
+
+1.  bei Verbrennungseinheiten nach Anhang 1 Teil 2 Nummer 1 des
+    Treibhausgas-Emissionshandelsgesetzes, sofern die
+    Gesamtfeuerungswärmeleistung dieser Verbrennungseinheiten 35 Megawatt
+    oder mehr beträgt,
+
+
+2.  bei Anlagen nach Anhang 1 Teil 2 Nummer 2 bis 6 des Treibhausgas-
+    Emissionshandelsgesetzes, sofern die Feuerungswärmeleistung der Anlage
+    35 Megawatt oder mehr beträgt, und
+
+
+3.  bei Anlagen, die Restgase oder Wärme mit einer anderen Anlage, die am
+    Emissionshandel teilnimmt, austauschen.
+
+
+
 
 (4) Für die Dauer der Befreiung besteht kein Anspruch auf eine
 Zuteilung von kostenlosen Berechtigungen nach § 9 Absatz 1 des
@@ -595,6 +733,15 @@ Wert des Vorjahres anrechnen. Sofern sich durch diese Anrechnung auch
 für das Folgejahr ein negativer Wert ergibt, gilt Satz 2 für das
 Folgejahr entsprechend.
 
+(3a) Soweit ein Betreiber nicht ordnungsgemäß über die durch seine
+Tätigkeit verursachten Emissionen berichtet hat, schätzt die
+zuständige Behörde die durch die Tätigkeit verursachten Emissionen.
+Die Schätzung unterbleibt jedoch, wenn der Betreiber seiner
+Berichtspflicht innerhalb einer Frist, die ihm die zuständige Behörde
+dafür setzt, nachträglich ordnungsgemäß nachkommt. Wird die Schätzung
+durchgeführt, so gilt für sie Anhang 2 Teil 2 des Treibhausgas-
+Emissionshandelsgesetzes entsprechend.
+
 (4) Die zuständige Behörde setzt die Menge an Berechtigungen, die dem
 Betreiber anstelle der Befreiung für die einzelnen Jahre des
 jeweiligen Zuteilungszeitraums zugeteilt worden wäre, mit der
@@ -623,7 +770,7 @@ nach den Vorschriften des Bürgerlichen Gesetzbuches über die
 regelmäßige Verjährung.
 
 (7) Die Einnahmen aus dem Ausgleichsbetrag stehen dem Bund zu und
-fließen in das Sondervermögen „Energie- und Klimafonds“.
+fließen in das Sondervermögen „Klima- und Transformationsfonds“.
 
 
 ### § 20 Selbstverpflichtung zu Emissionsminderungen
@@ -674,8 +821,8 @@ Satz 2 Nummer 1 im Folgejahr desselben Zuteilungszeitraums anrechnen.
 Sofern sich durch diese Anrechnung auch für das Folgejahr ein
 negativer Wert ergibt, gilt Satz 1 für das Folgejahr entsprechend.
 
-(6) Für die Leistung des Überschreitungsbetrags gilt § 19 Absatz 5 bis
-7 entsprechend.
+(6) Für die Leistung des Überschreitungsbetrags gilt § 19 Absatz 3a
+und 5 bis 7 entsprechend.
 
 
 ### § 21 Erlöschen der Befreiung

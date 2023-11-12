@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2494
 
 Zuletzt geändert durch
-:   Art. 4 G v. 3.6.2021 I 1309
+:   Art. 7 G v. 20.12.2022 I 2793
 
 
 ## Abschnitt 1 - Zweck; Begriffsbestimmungen
@@ -875,12 +875,12 @@ oder der Identifikationsnummer nach Absatz 4 Satz 3 zu erfolgen.
 (4) Die privaten Krankenversicherungsunternehmen und die sonstigen
 Kostenträger stellen für ihre Versicherten den unveränderbaren Teil
 der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften
-Buches Sozialgesetzbuch barrierefrei bereit. § 362 Absatz 2 Satz 2 und
-3 sowie Absatz 3 des Fünften Buches Sozialgesetzbuch gilt
-entsprechend. Abweichend von Satz 1 können die sonstigen Kostenträger
-für ihre Versicherten eine andere eindeutige, unveränderbare und nach
-einheitlichen Kriterien gebildete Identifikationsnummer barrierefrei
-bereitstellen.
+Buches Sozialgesetzbuch barrierefrei bereit. § 290 Absatz 3 Satz 5 und
+§ 362 Absatz 2 Satz 2 und 3 und Absatz 3 des Fünften Buches
+Sozialgesetzbuch gelten entsprechend. Abweichend von Satz 1 können die
+sonstigen Kostenträger für ihre Versicherten eine andere eindeutige,
+unveränderbare und nach einheitlichen Kriterien gebildete
+Identifikationsnummer barrierefrei bereitstellen.
 
 
 ### § 18 Art der Datenübermittlung

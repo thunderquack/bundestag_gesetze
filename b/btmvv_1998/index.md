@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 74, 80
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.7.2018 I 1078
-
-Änderung durch
-:   Art. 2 V v. 18.5.2021 I 1096 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7d G v. 19.7.2023 I Nr. 197
 
 
 ## § 1 Grundsätze
@@ -31,9 +28,7 @@ von getrockneten Blüten, verschrieben werden. Die Vorschriften dieser
 Verordnung gelten auch für Salze und Molekülverbindungen der
 Betäubungsmittel, die nach den Erkenntnissen der medizinischen
 Wissenschaft ärztlich, zahnärztlich oder tierärztlich angewendet
-werden. Sofern im Einzelfall nichts anderes bestimmt ist, gilt die für
-ein Betäubungsmittel festgesetzte Höchstmenge auch für dessen Salze
-und Molekülverbindungen.
+werden.
 
 (2) Betäubungsmittel für einen Patienten oder ein Tier und für den
 Praxisbedarf eines Arztes, Zahnarztes oder Tierarztes dürfen nur nach
@@ -62,8 +57,9 @@ nachzuweisen:
 5.  in Einrichtungen der Rettungsdienste,
 
 
-6.  in Einrichtungen nach § 5 Absatz 10 Satz 1 Nummer 3 Buchstabe a, b und
-    e, Satz 2 Nummer 1 Buchstabe b und Nummer 4 und § 5a Absatz 2 sowie
+6.  in Einrichtungen nach § 5 Absatz 9 Satz 1 Nummer 3 Buchstabe a, b, d
+    und f, Satz 2 Nummer 1 Buchstabe b und Nummer 4 und § 5a Absatz 2
+    sowie
 
 
 7.  auf Kauffahrteischiffen, die die Bundesflagge führen.
@@ -74,260 +70,12 @@ nachzuweisen:
 
 ## § 2 Verschreiben durch einen Arzt
 
-(1) Für einen Patienten darf der Arzt innerhalb von 30 Tagen
-verschreiben:
-
-a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
-    nachstehend festgesetzten Höchstmengen:
-
-
-
-
-*    *   1.
-
-    *   Amfetamin
-
-    *   600 mg,
-
-
-*    *   2.
-
-    *   Buprenorphin
-
-    *   800 mg,
-
-
-*    *   2a.
-
-    *   Cannabis in Form von getrockneten Blüten
-
-    *   100 000 mg,
-
-
-*    *   2b.
-
-    *   Cannabisextrakt (bezogen auf den*
-        9                       -Tetrahydrocannabinol-Gehalt)
-
-    *   1 000 mg,
-
-
-*    *   3.
-
-    *   Codein als Substitutionsmittel
-
-    *   40 000 mg,
-
-
-*    *   3a.
-
-    *   Dexamfetamin
-
-    *   600 mg,
-
-
-*    *   3b.
-
-    *   Diamorphin
-
-    *   30 000 mg,
-
-
-*    *   4.
-
-    *   Dihydrocodein als Substitutionsmittel
-
-    *   40 000 mg,
-
-
-*    *   5.
-
-    *   Dronabinol
-
-    *   500 mg,
-
-
-*    *   6.
-
-    *   Fenetyllin
-
-    *   2 500 mg,
-
-
-*    *   7.
-
-    *   Fentanyl
-
-    *   500 mg,
-
-
-*    *   7a.
-
-    *   Flunitrazepam
-
-    *   30 mg,
-
-
-*    *   8.
-
-    *   Hydrocodon
-
-    *   1 200 mg,
-
-
-*    *   9.
-
-    *   Hydromorphon
-
-    *   5 000 mg,
-
-
-*    *   10.
-
-    *   (weggefallen)
-
-    *
-
-*    *   11.
-
-    *   Levomethadon
-
-    *   1 800 mg,
-
-
-*    *   11a.
-
-    *   Lisdexamfetamindimesilat
-
-    *   2 100 mg,
-
-
-*    *   12.
-
-    *   Methadon
-
-    *   3 600 mg,
-
-
-*    *   13.
-
-    *   Methylphenidat
-
-    *   2 400 mg,
-
-
-*    *   14.
-
-    *   (weggefallen)
-
-    *
-
-*    *   15.
-
-    *   Morphin
-
-    *   24 000 mg,
-
-
-*    *   16.
-
-    *   Opium, eingestelltes
-
-    *   4 000 mg,
-
-
-*    *   17.
-
-    *   Opiumextrakt
-
-    *   2 000 mg,
-
-
-*    *   18.
-
-    *   Opiumtinktur
-
-    *   40 000 mg,
-
-
-*    *   19.
-
-    *   Oxycodon
-
-    *   15 000 mg,
-
-
-*    *   20.
-
-    *   Pentazocin
-
-    *   15 000 mg,
-
-
-*    *   21.
-
-    *   Pethidin
-
-    *   10 000 mg,
-
-
-*    *   22.
-
-    *   (weggefallen)
-
-    *
-
-*    *   23.
-
-    *   Piritramid
-
-    *   6 000 mg,
-
-
-*    *   23a.
-
-    *   Tapentadol
-
-    *   18 000 mg,
-
-
-*    *   24.
-
-    *   Tilidin
-
-    *   18 000 mg
-
-
-*    *   oder
-
-    *
-    *
-
-
-
-b)  eines der weiteren in Anlage III des Betäubungsmittelgesetzes
-    bezeichneten Betäubungsmittel außer Alfentanil, Cocain, Etorphin,
-    Remifentanil und Sufentanil.
-
-
-
-
-(2) In begründeten Einzelfällen und unter Wahrung der erforderlichen
-Sicherheit des Betäubungsmittelverkehrs darf der Arzt für einen
-Patienten, der in seiner Dauerbehandlung steht, von den Vorschriften
-des Absatzes 1 hinsichtlich
-
-1.  der Zahl der verschriebenen Betäubungsmittel und
-
-
-2.  der festgesetzten Höchstmengen
-
-
-
-abweichen. Eine solche Verschreibung ist mit dem Buchstaben "A" zu
-kennzeichnen.
-
-(3) Für seinen Praxisbedarf darf der Arzt die in Absatz 1 aufgeführten
+(1) Für einen Patienten darf der Arzt die in Anlage III des
+Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
+Alfentanil, Cocain, Etorphin, Remifentanil und Sufentanil
+verschreiben.
+
+(2) Für seinen Praxisbedarf darf der Arzt die in Absatz 1 bezeichneten
 Betäubungsmittel sowie Alfentanil, Cocain bei Eingriffen am Kopf als
 Lösung bis zu einem Gehalt von 20 vom Hundert oder als Salbe bis zu
 einem Gehalt von 2 vom Hundert, Remifentanil und Sufentanil bis zur
@@ -339,9 +87,9 @@ durchschnittlichen Monatsbedarfs verschreiben. Die Vorratshaltung soll
 für Diamorphin den durchschnittlichen Zweimonatsbedarf des Arztes
 nicht überschreiten.
 
-(4) Für den Stationsbedarf darf nur der Arzt verschreiben, der ein
+(3) Für den Stationsbedarf darf nur der Arzt verschreiben, der ein
 Krankenhaus oder eine Teileinheit eines Krankenhauses leitet oder in
-Abwesenheit des Leiters beaufsichtigt. Er darf die in Absatz 3
+Abwesenheit des Leiters beaufsichtigt. Er darf die in Absatz 2
 bezeichneten Betäubungsmittel unter Beachtung der dort festgelegten
 Beschränkungen über Bestimmungszweck, Gehalt und Darreichungsform
 verschreiben. Dies gilt auch für einen Belegarzt, wenn die ihm
@@ -351,111 +99,15 @@ Teileinheiten abgegrenzt sind.
 
 ## § 3 Verschreiben durch einen Zahnarzt
 
-(1) Für einen Patienten darf der Zahnarzt innerhalb von 30 Tagen
-verschreiben:
-
-a)  eines der folgenden Betäubungsmittel unter Einhaltung der nachstehend
-    festgesetzten Höchstmengen:
-
-
-
-
-*    *   1.
-
-    *   Buprenorphin
-
-    *   40 mg,
-
-
-*    *   2.
-
-    *   Hydrocodon
-
-    *   300 mg,
-
-
-*    *   3.
-
-    *   Hydromorphon
-
-    *   1 200 mg,
-
-
-*    *   4.
-
-    *   Levomethadon
-
-    *   200 mg,
-
-
-*    *   5.
-
-    *   Morphin
-
-    *   5 000 mg,
-
-
-*    *   6.
-
-    *   Oxycodon
-
-    *   4 000 mg,
-
-
-*    *   7.
-
-    *   Pentazocin
-
-    *   4 000 mg,
-
-
-*    *   8.
-
-    *   Pethidin
-
-    *   2 500 mg,
-
-
-*    *   9.
-
-    *   Piritramid
-
-    *   1 500 mg,
-
-
-*    *   9a.
-
-    *   Tapentadol
-
-    *   4 500 mg,
-
-
-*    *   10.
-
-    *   Tilidin
-
-    *   4 500 mg
-
-
-*    *   oder
-
-    *
-    *
-
-
-
-b)  eines der weiteren in Anlage III des Betäubungsmittelgesetzes
-    bezeichneten Betäubungsmittel außer Alfentanil, Amfetamin, Cannabis,
-    Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl,
-    Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Normethadon,
-    Opium, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital
-    und Sufentanil.
-
-
-
+(1) Für einen Patienten darf der Zahnarzt die in Anlage III des
+Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
+Alfentanil, Amfetamin, Cannabis, Cocain, Diamorphin, Dronabinol,
+Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon,
+Methylphenidat, Nabilon, Normethadon, Opium, Papaver somniferum,
+Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
 
 (2) Für seinen Praxisbedarf darf der Zahnarzt die in Absatz 1
-aufgeführten Betäubungsmittel sowie Alfentanil, Fentanyl, Remifentanil
+bezeichneten Betäubungsmittel sowie Alfentanil, Fentanyl, Remifentanil
 und Sufentanil bis zur Menge seines durchschnittlichen
 Zweiwochenbedarfs, mindestens jedoch die kleinste Packungseinheit,
 verschreiben. Die Vorratshaltung soll für jedes Betäubungsmittel den
@@ -473,140 +125,15 @@ Teileinheiten abgegrenzt sind.
 
 ## § 4 Verschreiben durch einen Tierarzt
 
-(1) Für ein Tier darf der Tierarzt innerhalb von 30 Tagen
-verschreiben:
-
-a)  eines der folgenden Betäubungsmittel unter Einhaltung der nachstehend
-    festgesetzten Höchstmengen:
-
-
-
-
-*    *   1.
-
-    *   Amfetamin
-
-    *   600 mg,
-
-
-*    *   2.
-
-    *   Buprenorphin
-
-    *   150 mg,
-
-
-*    *   3.
-
-    *   Hydrocodon
-
-    *   1 200 mg,
-
-
-*    *   4.
-
-    *   Hydromorphon
-
-    *   5 000 mg,
-
-
-*    *   5.
-
-    *   Levomethadon
-
-    *   750 mg,
-
-
-*    *   6.
-
-    *   Morphin
-
-    *   20 000 mg,
-
-
-*    *   7.
-
-    *   Opium, eingestelltes
-
-    *   12 000 mg,
-
-
-*    *   8.
-
-    *   Opiumextrakt
-
-    *   6 000 mg,
-
-
-*    *   9.
-
-    *   Opiumtinktur
-
-    *   120 000 mg,
-
-
-*    *   10.
-
-    *   Pentazocin
-
-    *   15 000 mg,
-
-
-*    *   11.
-
-    *   Pethidin
-
-    *   10 000 mg
-
-
-*    *   12.
-
-    *   Piritramid
-
-    *   6 000 mg
-
-
-*    *   13.
-
-    *   Tilidin
-
-    *   18 000 mg
-
-
-*    *   oder
-
-    *
-    *
-
-
-
-b)  eines der weiteren in Anlage III des Betäubungsmittelgesetzes
-    bezeichneten Betäubungsmittel außer Alfentanil, Cannabis, Cocain,
-    Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl,
-    Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon,
-    Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und
-    Sufentanil.
-
-
-
-
-(2) In begründeten Einzelfällen und unter Wahrung der erforderlichen
-Sicherheit des Betäubungsmittelverkehrs darf der Tierarzt in einem
-besonders schweren Krankheitsfall von den Vorschriften des Absatzes 1
-hinsichtlich
-
-1.  der Zahl der verschriebenen Betäubungsmittel und
-
-
-2.  der festgesetzten Höchstmengen
-
-
-
-abweichen. Eine solche Verschreibung ist mit dem Buchstaben "A" zu
-kennzeichnen.
-
-(3) Für seinen Praxisbedarf darf der Tierarzt die in Absatz 1
-aufgeführten Betäubungsmittel sowie Alfentanil, Cocain zur
+(1) Für ein Tier darf der Tierarzt die in Anlage III des
+Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
+Alfentanil, Cannabis, Cocain, Diamorphin, Dronabinol, Etorphin,
+Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat,
+Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil,
+Secobarbital und Sufentanil verschreiben.
+
+(2) Für seinen Praxisbedarf darf der Tierarzt die in Absatz 1
+bezeichneten Betäubungsmittel sowie Alfentanil, Cocain zur
 Lokalanästhesie bei Eingriffen am Kopf als Lösung bis zu einem Gehalt
 von 20 vom Hundert oder als Salbe bis zu einem Gehalt von 2 vom
 Hundert, Etorphin nur zur Immobilisierung von Tieren, die im Zoo, im
@@ -618,9 +145,9 @@ kleinste Packungseinheit, verschreiben. Die Vorratshaltung soll für
 jedes Betäubungsmittel den Monatsbedarf des Tierarztes nicht
 übersteigen.
 
-(4) Für den Stationsbedarf darf nur der Tierarzt verschreiben, der
+(3) Für den Stationsbedarf darf nur der Tierarzt verschreiben, der
 eine Tierklinik oder eine Teileinheit einer Tierklinik leitet oder in
-Abwesenheit des Leiters beaufsichtigt. Er darf die in Absatz 3
+Abwesenheit des Leiters beaufsichtigt. Er darf die in Absatz 2
 bezeichneten Betäubungsmittel, ausgenommen Etorphin, unter Beachtung
 der dort festgelegten Beschränkungen über Bestimmungszweck, Gehalt und
 Darreichungsform verschreiben.
@@ -723,9 +250,9 @@ kennzeichnen. Für die zur Substitution zugelassenen Arzneimittel mit
 dem Stoff Diamorphin gilt § 5a.
 
 (7) Dem Patienten oder bei dem Patienten ist das vom Arzt
-verschriebene Substitutionsmittel von den in Absatz 10 Satz 1 und 2
+verschriebene Substitutionsmittel von den in Absatz 9 Satz 1 und 2
 bezeichneten Personen oder dem dort bezeichneten Personal in den in
-Absatz 10 Satz 1 und 2 genannten Einrichtungen zum unmittelbaren
+Absatz 9 Satz 1 und 2 genannten Einrichtungen zum unmittelbaren
 Verbrauch zu überlassen, zu verabreichen oder gemäß dem in der
 arzneimittelrechtlichen Zulassung vorgesehenen Verfahren anzuwenden.
 Im Fall des Verschreibens von Codein oder Dihydrocodein kann dem
@@ -737,81 +264,66 @@ keine Anhaltspunkte für eine nicht bestimmungsgemäße Einnahme des
 Substitutionsmittels vorliegen.
 
 (8) Abweichend von Absatz 7 Satz 1 darf der substituierende Arzt dem
-Patienten das Substitutionsmittel zur eigenverantwortlichen Einnahme
-gemäß den Feststellungen der Bundesärztekammer nach Absatz 12 Satz 1
-Nummer 3 Buchstabe b ausnahmsweise dann verschreiben, wenn
-
-1.  die Kontinuität der Substitutionsbehandlung des Patienten nicht
-    anderweitig gewährleistet werden kann,
-
-
-2.  der Verlauf der Behandlung dies zulässt,
-
-
-3.  Risiken der Selbst- oder Fremdgefährdung so weit wie möglich
-    ausgeschlossen sind und
-
-
-4.  die Sicherheit und Kontrolle des Betäubungsmittelverkehrs nicht
-    beeinträchtigt werden.
-
-
-
-In diesem Fall darf das Substitutionsmittel nur in folgenden Mengen
-verschrieben werden:
-
-1.  in der für bis zu zwei aufeinanderfolgende Tage benötigten Menge oder
-
-
-2.  in der Menge, die benötigt wird für die Wochenendtage Samstag und
-    Sonntag und für dem Wochenende vorangehende oder folgende Feiertage,
-    auch einschließlich eines dazwischen liegenden Werktages, höchstens
-    jedoch in der für fünf Tage benötigten Menge.
-
-
-
-Der substituierende Arzt darf dem Patienten innerhalb einer
-Kalenderwoche nicht mehr als eine Verschreibung aushändigen. Er darf
-die Verschreibung nur im Rahmen einer persönlichen Konsultation
-aushändigen. Die Verschreibung ist nach dem Buchstaben „S“ zusätzlich
-mit dem Buchstaben „Z“ zu kennzeichnen.
-
-(9) Sobald und solange der substituierende Arzt zu dem Ergebnis kommt,
-dass eine Überlassung des Substitutionsmittels zum unmittelbaren
-Verbrauch nach Absatz 7 nicht mehr erforderlich ist, darf er dem
 Patienten Substitutionsmittel zur eigenverantwortlichen Einnahme gemäß
-den Feststellungen der Bundesärztekammer nach Absatz 12 Satz 1 Nummer
-3 Buchstabe b in folgenden Mengen verschreiben:
+den Feststellungen der Bundesärztekammer nach Absatz 11 Satz 1 Nummer
+3 Buchstabe b verschreiben,
 
-1.  grundsätzlich in der für bis zu sieben Tage benötigten Menge oder
-
-
-2.  in begründeten Einzelfällen in der für bis zu 30 Tage benötigten
-    Menge.
+1.  sobald und solange er zu dem Ergebnis kommt, dass eine Überlassung des
+    Substitutionsmittels zum unmittelbaren Verbrauch nach Absatz 7 nicht
+    mehr erforderlich ist, oder
 
 
+2.  ausnahmsweise, wenn
 
-Ein Einzelfall nach Satz 1 Nummer 2 kann durch einen medizinischen
-oder einen anderen Sachverhalt begründet sein. Ein durch einen anderen
-Sachverhalt begründeter Einzelfall liegt vor, wenn der Patient aus
-wichtigen Gründen, die seine Teilhabe am gesellschaftlichen Leben oder
-seine Erwerbstätigkeit betreffen, darauf angewiesen ist, eine
-Verschreibung des Substitutionsmittels zur eigenverantwortlichen
-Einnahme für bis zu 30 Tage zu erhalten. Der Patient hat dem
-Substitutionsarzt diese Sachverhalte glaubhaft zu machen. Medizinische
-Sachverhalte, die einen Einzelfall begründen, werden im Rahmen von
-Absatz 12 Satz 1 Nummer 3 Buchstabe b durch die Bundesärztekammer
-festgestellt. Der substituierende Arzt darf die Verschreibung nach
-Satz 1 Nummer 1 und 2 nur im Rahmen einer persönlichen Konsultation an
-den Patienten aushändigen. Die Verschreibung ist nach dem Buchstaben
-„S“ zusätzlich mit dem Buchstaben „T“ zu kennzeichnen. Der
-substituierende Arzt kann patientenindividuelle Zeitpunkte festlegen,
-an denen Teilmengen des verschriebenen Substitutionsmittels in der
-Apotheke an den Patienten oder an die Praxis des substituierenden
-Arztes abgegeben oder zum unmittelbaren Verbrauch überlassen werden
-sollen.
+    a)  die Kontinuität der Substitutionsbehandlung des Patienten nicht
+        anderweitig gewährleistet werden kann,
 
-(10) Substitutionsmittel nach Absatz 6 Satz 1 dürfen nur von folgenden
+
+    b)  der Verlauf der Behandlung dies zulässt,
+
+
+    c)  Risiken der Selbst- oder Fremdgefährdung soweit wie möglich
+        ausgeschlossen sind und
+
+
+    d)  die Sicherheit und Kontrolle des Betäubungsmittelverkehrs nicht
+        beeinträchtigt werden.
+
+
+
+
+
+
+Der substituierende Arzt darf dem Patienten Substitutionsmittel in der
+für bis zu sieben aufeinanderfolgende Tage benötigten Menge nach Satz
+1 verschreiben. Im Fall von Satz 1 Nummer 1 darf er dem Patienten in
+begründeten Einzelfällen Substitutionsmittel in der für bis zu 30
+aufeinanderfolgende Tage benötigten Menge nach Satz 1 verschreiben.
+Ein begründeter Einzelfall im Sinne des Satzes 3 kann nur durch einen
+medizinischen oder einen anderen Sachverhalt begründet sein. Ein durch
+einen anderen Sachverhalt begründeter Einzelfall liegt vor, wenn der
+Patient aus wichtigen Gründen, die seine Teilhabe am
+gesellschaftlichen Leben oder seine Erwerbstätigkeit betreffen, darauf
+angewiesen ist, eine Verschreibung des Substitutionsmittels zur
+eigenverantwortlichen Einnahme für bis zu 30 Tage zu erhalten. Der
+Patient hat dem Substitutionsarzt diese Sachverhalte glaubhaft zu
+machen. Medizinische Sachverhalte, die einen Einzelfall begründen,
+werden durch die Bundesärztekammer nach Absatz 11 Satz 1 Nummer 3
+Buchstabe b festgestellt. Der substituierende Arzt darf die
+Verschreibung nach Satz 1 im Rahmen einer persönlichen Konsultation an
+den Patienten aushändigen oder infolge einer telemedizinischen
+Konsultation an ihn übermitteln; die nach § 365 Absatz 1 Satz 1 des
+Fünften Buches Sozialgesetzbuch vereinbarten Anforderungen an die
+technischen Verfahren zu Videosprechstunden sind einzuhalten. In einem
+Zeitraum von 30 Tagen hat mindestens eine persönliche Konsultation
+stattzufinden. Die Verschreibung ist nach dem Buchstaben „S“
+zusätzlich mit dem Buchstaben „T“ zu kennzeichnen. Der substituierende
+Arzt kann patientenindividuelle Zeitpunkte festlegen, zu denen
+Teilmengen des verschriebenen Substitutionsmittels in der Apotheke an
+den Patienten oder an die Praxis des substituierenden Arztes abgegeben
+oder zum unmittelbaren Verbrauch überlassen werden sollen.
+
+(9) Substitutionsmittel nach Absatz 6 Satz 1 dürfen nur von folgenden
 Personen dem Patienten zum unmittelbaren Verbrauch überlassen, ihm
 verabreicht oder bei ihm gemäß dem in der arzneimittelrechtlichen
 Zulassung vorgesehenen Verfahren angewendet werden:
@@ -824,7 +336,10 @@ Zulassung vorgesehenen Verfahren angewendet werden:
     eingesetzten medizinischen Personal oder
 
 
-3.  dem medizinischen, pharmazeutischen oder pflegerischen Personal in
+3.  dem medizinischen, pharmazeutischen, pflegerischen oder in begründeten
+    Fällen, in denen die Abgabe nicht anderweitig gewährleistet werden
+    kann, auch anderem geeigneten Personal, das vom substituierenden Arzt
+    eingewiesen wurde, in
 
     a)  einer stationären Einrichtung der medizinischen Rehabilitation,
 
@@ -835,10 +350,13 @@ Zulassung vorgesehenen Verfahren angewendet werden:
     c)  einem Alten- oder Pflegeheim,
 
 
-    d)  einem Hospiz oder
+    d)  Anstalten und Einrichtungen des Justizvollzugs,
 
 
-    e)  einer anderen geeigneten Einrichtung, die zu diesem Zweck von der
+    e)  einem Hospiz oder
+
+
+    f)  einer anderen geeigneten Einrichtung, die zu diesem Zweck von der
         zuständigen Landesbehörde anerkannt sein muss,
 
 
@@ -907,14 +425,14 @@ genannten Einrichtungen unter seiner Verantwortung lagern. Die
 Einwilligung des über die jeweiligen Räumlichkeiten
 Verfügungsberechtigten bleibt unberührt.
 
-(11) Der substituierende Arzt hat die Erfüllung seiner Verpflichtungen
-nach den Absätzen 1 bis 10 sowie nach § 5a Absatz 1 bis 4 und § 5b
-Absatz 2 und 4 gemäß den von der Bundesärztekammer nach Absatz 12 Satz
-3 bestimmten Anforderungen zu dokumentieren. Die Dokumentation ist auf
-Verlangen der zuständigen Landesbehörde zur Einsicht und Auswertung
-vorzulegen oder einzusenden.
+(10) Der substituierende Arzt hat die Erfüllung seiner Verpflichtungen
+nach den Absätzen 1 bis 9 sowie nach § 5a Absatz 1 bis 4 und § 5b
+Absatz 2 und 4 gemäß den von der Bundesärztekammer nach Absatz 11
+Satz 3 bestimmten Anforderungen zu dokumentieren. Die Dokumentation
+ist auf Verlangen der zuständigen Landesbehörde zur Einsicht und
+Auswertung vorzulegen oder einzusenden.
 
-(12) Die Bundesärztekammer stellt den allgemein anerkannten Stand der
+(11) Die Bundesärztekammer stellt den allgemein anerkannten Stand der
 Erkenntnisse der medizinischen Wissenschaft für die Substitution in
 einer Richtlinie fest, insbesondere für
 
@@ -933,7 +451,7 @@ einer Richtlinie fest, insbesondere für
 
 
     b)  die Voraussetzungen für das Verschreiben des Substitutionsmittels zur
-        eigenverantwortlichen Einnahme nach den Absätzen 8 und 9,
+        eigenverantwortlichen Einnahme nach den Absatz 8,
 
 
     c)  die Entscheidung über die Erforderlichkeit einer Einbeziehung
@@ -951,22 +469,22 @@ Daneben kann die Bundesärztekammer nach dem allgemein anerkannten
 Stand der Erkenntnisse der medizinischen Wissenschaft weitere als die
 in Absatz 2 Satz 2 bezeichneten wesentliche Ziele der Substitution in
 dieser Richtlinie feststellen. Sie bestimmt auch die Anforderungen an
-die Dokumentation der Substitution nach Absatz 11 Satz 1 in dieser
+die Dokumentation der Substitution nach Absatz 10 Satz 1 in dieser
 Richtlinie. Die Einhaltung des allgemein anerkannten Standes der
 Erkenntnisse der medizinischen Wissenschaft wird vermutet, wenn und
 soweit die Feststellungen nach den Sätzen 1 und 2 beachtet worden
 sind.
 
-(13) Vor der Entscheidung der Bundesärztekammer über die Richtlinie
-nach Absatz 12 Satz 1 bis 3 ist dem Gemeinsamen Bundesausschuss nach §
+(12) Vor der Entscheidung der Bundesärztekammer über die Richtlinie
+nach Absatz 11 Satz 1 bis 3 ist dem Gemeinsamen Bundesausschuss nach §
 91 des Fünften Buches Sozialgesetzbuch Gelegenheit zur Stellungnahme
 zu dem allgemein anerkannten Stand der Erkenntnisse der medizinischen
 Wissenschaft für die Substitution zu geben. Die Stellungnahme ist von
 der Bundesärztekammer in ihre Entscheidung über die Richtlinie nach
-Absatz 12 Satz 1 bis 3 einzubeziehen.
+Absatz 11 Satz 1 bis 3 einzubeziehen.
 
-(14) Die Bundesärztekammer hat dem Bundesministerium für Gesundheit
-die Richtlinie nach Absatz 12 Satz 1 bis 3 zur Genehmigung vorzulegen.
+(13) Die Bundesärztekammer hat dem Bundesministerium für Gesundheit
+die Richtlinie nach Absatz 11 Satz 1 bis 3 zur Genehmigung vorzulegen.
 Änderungen der vom Bundesministerium für Gesundheit genehmigten
 Richtlinie sind dem Bundesministerium für Gesundheit von der
 Bundesärztekammer ebenfalls zur Genehmigung vorzulegen. Das
@@ -976,7 +494,7 @@ ergänzende Stellungnahmen anfordern. Das Bundesministerium für
 Gesundheit macht die genehmigte Richtlinie und genehmigte Änderungen
 der Richtlinie im Bundesanzeiger bekannt.
 
-(15) Die Absätze 3 bis 11 sind entsprechend anzuwenden, wenn das
+(14) Die Absätze 3 bis 10 sind entsprechend anzuwenden, wenn das
 Substitutionsmittel aus dem Bestand des Praxis- oder Stationsbedarfs
 zum unmittelbaren Verbrauch überlassen oder nach Absatz 7 Satz 2
 ausgehändigt wird.
@@ -1011,7 +529,7 @@ nur verschreiben, wenn
 
 
 
-§ 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 12 gilt
+§ 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 11 gilt
 entsprechend. Die Verschreibung darf der Arzt nur einem
 pharmazeutischen Unternehmer vorlegen.
 
@@ -1315,7 +833,7 @@ Berechtigte, die von der Möglichkeit nach Satz 1 Gebrauch machen, sind
 verpflichtet,
 
 1.  einen oder mehrere Ärzte damit zu beauftragen, die Betäubungsmittel,
-    die für den Notfallvorrat benötigt werden, nach § 2 Absatz 4 Satz 2 zu
+    die für den Notfallvorrat benötigt werden, nach § 2 Absatz 3 Satz 2 zu
     verschreiben,
 
 
@@ -1349,14 +867,16 @@ nicht überschreiten.
 (1) Für das Verschreiben des Bedarfs an Betäubungsmitteln für
 Einrichtungen und Teileinheiten von Einrichtungen des Rettungsdienstes
 (Rettungsdienstbedarf) finden die Vorschriften über das Verschreiben
-für den Stationsbedarf nach § 2 Abs. 4 entsprechende Anwendung.
+für den Stationsbedarf nach § 2 Absatz 3 entsprechende Anwendung.
 
 (2) Der Träger oder der Durchführende des Rettungsdienstes hat einen
 Arzt damit zu beauftragen, die benötigten Betäubungsmittel nach § 2
-Abs. 4 zu verschreiben. Die Aufzeichnung des Verbleibs und Bestandes
+Absatz 3 zu verschreiben. Die Aufzeichnung des Verbleibs und Bestandes
 der Betäubungsmittel ist nach den §§ 13 und 14 in den Einrichtungen
 und Teileinheiten der Einrichtungen des Rettungsdienstes durch den
-jeweils behandelnden Arzt zu führen.
+jeweils behandelnden Arzt oder den Notfallsanitäter, der die
+Betäubungsmittel nach § 13 Absatz 1b des Betäubungsmittelgesetzes
+verabreicht, zu führen.
 
 (3) Der Träger oder der Durchführende des Rettungsdienstes hat mit
 einer Apotheke die Belieferung der Verschreibungen für den
@@ -1373,12 +893,13 @@ angemessene Frist zu setzen und im Falle der Nichteinhaltung die
 zuständige Landesbehörde zu unterrichten.
 
 (4) Bei einem Großschadensfall sind die benötigten Betäubungsmittel
-von dem zuständigen leitenden Notarzt nach § 2 Abs. 4 zu verschreiben.
-Die verbrauchten Betäubungsmittel sind durch den leitenden Notarzt
-unverzüglich für den Großschadensfall zusammengefasst nachzuweisen und
-der zuständigen Landesbehörde unter Angabe der nicht verbrauchten
-Betäubungsmittel anzuzeigen. Die zuständige Landesbehörde trifft
-Festlegungen zum Verbleib der nicht verbrauchten Betäubungsmittel.
+von dem zuständigen leitenden Notarzt nach § 2 Absatz 3 zu
+verschreiben. Die verbrauchten Betäubungsmittel sind durch den
+leitenden Notarzt unverzüglich für den Großschadensfall
+zusammengefasst nachzuweisen und der zuständigen Landesbehörde unter
+Angabe der nicht verbrauchten Betäubungsmittel anzuzeigen. Die
+zuständige Landesbehörde trifft Festlegungen zum Verbleib der nicht
+verbrauchten Betäubungsmittel.
 
 
 ## § 7 Verschreiben für Kauffahrteischiffe
@@ -1563,28 +1084,26 @@ der nachgereichten Verschreibung zu verbinden.
 5.  Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, daß dem
     Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, ein
     Hinweis auf diese schriftliche Gebrauchsanweisung; im Fall des § 5
-    Absatz 8 und 9 zusätzlich die Reichdauer des Substitutionsmittels in
-    Tagen und im Fall des § 5 Absatz 9 Satz 8 Vorgaben zur Abgabe des
+    Absatz 8 zusätzlich die Reichdauer des Substitutionsmittels in Tagen
+    und im Fall des § 5 Absatz 8 Satz 10 Vorgaben zur Abgabe des
     Substitutionsmittels oder, im Fall, dass dem Patienten schriftliche
     Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch
     des Substitutionsmittels übergeben wurden, ein Hinweis auf diese
     schriftlichen Vorgaben,
 
 
-6.  in den Fällen des § 2 Abs. 2 Satz 2 und des § 4 Abs. 2 Satz 2 der
-    Buchstabe "A", in den Fällen des § 5 Absatz 6 Satz 3 und § 5a Absatz 1
-    Satz 1 der Buchstabe "S", in den Fällen des § 5 Absatz 8 Satz 5
-    zusätzlich der Buchstabe „Z“, in den Fällen des § 5 Absatz 9 Satz 7
-    zusätzlich der Buchstabe „T“, in den Fällen des § 7 Abs. 5 Satz 3 der
-    Buchstabe "K", in den Fällen des § 8 Abs. 6 Satz 5 der Buchstabe "N",
+6.  in den Fällen des § 5 Absatz 6 Satz 3 und § 5a Absatz 1 Satz 1 der
+    Buchstabe „S“, in den Fällen des § 5 Absatz 8 Satz 10 zusätzlich der
+    Buchstabe „T“, in den Fällen des § 7 Absatz 5 Satz 3 der Buchstabe
+    „K“, in den Fällen des § 8 Absatz 6 Satz 5 der Buchstabe „N“,
 
 
 7.  Name des verschreibenden Arztes, Zahnarztes oder Tierarztes, seine
     Berufsbezeichnung und Anschrift einschließlich Telefonnummer,
 
 
-8.  in den Fällen des § 2 Abs. 3, § 3 Abs. 2 und § 4 Abs. 3 der Vermerk
-    "Praxisbedarf" anstelle der Angaben in den Nummern 1 und 5,
+8.  in den Fällen des § 2 Absatz 2, § 3 Absatz 2 und § 4 Absatz 2 der
+    Vermerk "Praxisbedarf" anstelle der Angaben in den Nummern 1 und 5,
 
 
 9.  Unterschrift des verschreibenden Arztes, Zahnarztes oder Tierarztes,
@@ -1604,8 +1123,8 @@ Unterschrift zu bestätigen.
 
 ## § 10 Betäubungsmittelanforderungsschein
 
-(1) Betäubungsmittel für den Stationsbedarf nach § 2 Abs. 4, § 3 Abs.
-3 und § 4 Abs. 4, den Notfallbedarf nach § 5d und den
+(1) Betäubungsmittel für den Stationsbedarf nach § 2 Absatz 3, § 3
+Absatz 3 und § 4 Absatz 3, den Notfallbedarf nach § 5d und den
 Rettungsdienstbedarf nach § 6 Absatz 1 dürfen nur auf einem
 dreiteiligen amtlichen Formblatt (Betäubungsmittelanforderungsschein)
 verschrieben werden. Die Teile I und II der Verschreibung für den
@@ -1738,9 +1257,8 @@ abgegeben werden:
 
 
 
-4.  auf eine Verschreibung nach § 5 Absatz 8 oder Absatz 9, wenn sie nicht
-    in Einzeldosen und in kindergesicherter Verpackung konfektioniert
-    sind.
+4.  auf eine Verschreibung nach § 5 Absatz 8, wenn sie nicht in
+    Einzeldosen und in kindergesicherter Verpackung konfektioniert sind.
 
 
 
@@ -1803,8 +1321,8 @@ Betäubungsmittel des pharmazeutischen Unternehmers entsprechend.
 
 (5) Der Tierarzt darf aus seiner Hausapotheke Betäubungsmittel nur zur
 Anwendung bei einem von ihm behandelten Tier und nur unter Einhaltung
-der für das Verschreiben geltenden Vorschriften der §§ 1 und 4 Abs. 1
-und 2 abgeben.
+der für das Verschreiben geltenden Vorschriften der §§ 1 und 4 Absatz
+1 abgeben.
 
 
 ## § 13 Nachweisführung
@@ -1847,7 +1365,7 @@ geführten Nachweisen sind
     Kauffahrteischiff, das die Bundesflagge führt,
 
 
-6.  im Falle des Nachweises nach Absatz 1 Satz 4 von den in § 5 Absatz 10
+6.  im Falle des Nachweises nach Absatz 1 Satz 4 von den in § 5 Absatz 9
     Satz 1 und 2 oder den in § 5c Absatz 2 benannten Personen,
 
 
@@ -1862,7 +1380,7 @@ Datenverarbeitung erfolgt, ist die Prüfung auf der Grundlage zum
 Monatsende angefertigter Ausdrucke durchzuführen. Sobald und solange
 der Arzt die Nachweisführung und Prüfung nach Satz 1 Nummer 6 nicht
 selbst vornimmt, hat er sicherzustellen, dass er durch eine Person
-nach § 5 Absatz 10 Satz 1 und 2 oder § 5c Absatz 2 am Ende eines jeden
+nach § 5 Absatz 9 Satz 1 und 2 oder § 5c Absatz 2 am Ende eines jeden
 Kalendermonats über die erfolgte Prüfung und Nachweisführung
 schriftlich oder elektronisch unterrichtet wird.
 
@@ -1957,26 +1475,24 @@ bestraft, wer
 
 
 2.
-    a)  entgegen § 2 Abs. 1 oder 2 Satz 1, § 3 Abs. 1 oder § 5 Absatz 6 Satz 1
-        für einen Patienten,
+    a)  entgegen § 2 Abs. 1, § 3 Abs. 1 oder § 5 Absatz 6 Satz 1 für einen
+        Patienten,
 
 
-    b)  entgegen § 2 Abs. 3 Satz 1, § 3 Abs. 2 Satz 1 oder § 4 Abs. 3 Satz 1
-        für seinen Praxisbedarf oder
+    b)  entgegen § 2 Absatz 2 Satz 1, § 3 Abs. 2 Satz 1 oder § 4 Absatz 2 Satz
+        1 für seinen Praxisbedarf oder
 
 
     c)  entgegen § 4 Abs. 1 für ein Tier
 
 
 
-    andere als die dort bezeichneten Betäubungsmittel oder innerhalb von
-    30 Tagen mehr als ein Betäubungsmittel, im Falle des § 2 Abs. 1
-    Buchstabe a mehr als zwei Betäubungsmittel, über die festgesetzte
-    Höchstmenge hinaus oder unter Nichteinhaltung der vorgegebenen
-    Bestimmungszwecke oder sonstiger Beschränkungen verschreibt,
+    andere als die dort bezeichneten Betäubungsmittel oder unter
+    Nichteinhaltung der vorgegebenen Bestimmungszwecke oder sonstiger
+    Beschränkungen verschreibt,
 
 
-3.  entgegen § 2 Abs. 4, § 3 Abs. 3 oder § 4 Abs. 4
+3.  entgegen § 2 Absatz 3, § 3 Absatz 3 oder § 4 Absatz 3
 
     a)  Betäubungsmittel für andere als die dort bezeichneten Einrichtungen,
 
@@ -2008,13 +1524,13 @@ Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des
 Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 1.  entgegen § 5b Absatz 2, § 7 Abs. 1 Satz 2 oder Abs. 4, § 8 Abs. 6 Satz
-    2, § 9 Abs. 1, auch in Verbindung mit § 2 Abs. 2 Satz 2, § 4 Abs. 2
-    Satz 2, § 5 Absatz 6 Satz 3, § 7 Abs. 5 Satz 3 oder § 8 Abs. 6 Satz 5,
-    § 11 Abs. 1 oder § 12 Abs. 3, eine Angabe nicht, nicht richtig, nicht
-    vollständig oder nicht in der vorgeschriebenen Form macht,
+    2, § 9 Abs. 1, auch in Verbindung mit § 5 Absatz 6 Satz 3, § 7 Abs. 5
+    Satz 3 oder § 8 Abs. 6 Satz 5, § 11 Abs. 1 oder § 12 Abs. 3, eine
+    Angabe nicht, nicht richtig, nicht vollständig oder nicht in der
+    vorgeschriebenen Form macht,
 
 
-2.  entgegen § 5 Absatz 11 die erforderlichen Maßnahmen nicht oder nicht
+2.  entgegen § 5 Absatz 10 die erforderlichen Maßnahmen nicht oder nicht
     vollständig dokumentiert oder der zuständigen Landesbehörde die
     Dokumentation nicht zur Einsicht und Auswertung vorlegt oder
     einsendet,
@@ -2069,13 +1585,23 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 ## § 18 Übergangsvorschrift
 
-(1) Die Bundesärztekammer hat die Richtlinie nach § 5 Absatz 12 Satz 1
-bis 3 und Absatz 14 Satz 3 dem Bundesministerium für Gesundheit
-spätestens bis zum 31. August 2017 zur Genehmigung vorzulegen. Das
-Bundesministerium für Gesundheit macht die genehmigte Richtlinie
-unverzüglich im Bundesanzeiger bekannt.
+(1) Abweichend von § 5 Absatz 14 Satz 2 in der bis einschließlich 7.
+April 2023 geltenden Fassung hat die Bundesärztekammer Änderungen der
+nach § 5 Absatz 12 Satz 1 bis 3, Absatz 13 und 14 Satz 1 in der bis
+einschließlich 7. April 2023 geltenden Fassung zu erstellenden
+Richtlinie, die auf Grund von Änderungen dieser Verordnung durch die
+Verordnung zur Änderung der Betäubungsmittel-Verschreibungsverordnung
+und der Tierärztegebührenordnung vom 15. März 2023 (BGBl. 2023 I Nr.
+70) erforderlich werden, dem Bundesministerium für Gesundheit in einer
+Neufassung der Richtlinie spätestens bis zum 20. März 2023 zur
+Genehmigung vorzulegen. Abweichend von § 5 Absatz 14 Satz 4 in der bis
+einschließlich 7. April 2023 geltenden Fassung macht das
+Bundesministerium für Gesundheit die genehmigten, in Satz 1
+bezeichneten Änderungen der Richtlinie durch Bekanntmachung einer
+Neufassung der Richtlinie im Bundesanzeiger bekannt.
 
-(2) Bis zur Bekanntmachung der Richtlinie gemäß Absatz 1 Satz 2 findet
-die Verordnung in ihrer bis zum 29. Mai 2017 geltenden Fassung weiter
-Anwendung.
+(2) Erfolgt die Bekanntmachung der Neufassung der Richtlinie gemäß
+Absatz 1 Satz 2 nach dem 7. April 2023, so ist diese Verordnung bis
+zum Zeitpunkt dieser Bekanntmachung der Neufassung in der bis
+einschließlich 7. April 2023 geltenden Fassung anzuwenden.
 

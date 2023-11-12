@@ -20,22 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.5.2013 I 1274; 2021, 123;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.12.2020 I 2694
-
-Änderung durch
-:   Art. 2 Abs. 1 G v. 9.12.2020 I 2873 (Nr. 61) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 18.8.2021 I 3901 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 24.9.2021 I 4458 (Nr. 69) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 Abs. 3 G v. 26.7.2023 I Nr. 202
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1168,7 +1153,7 @@ zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder
 Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 
-#### § 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
+#### § 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen
 
 (1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien
 modernisiert (Repowering), müssen auf Antrag des Vorhabenträgers im
@@ -1179,7 +1164,7 @@ Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6
 erheblich sein können.
 
 (2) Die Modernisierung umfasst den vollständigen oder teilweisen
-Austausch von Anlagen oder Betriebssystemen und ‑geräten zum Austausch
+Austausch von Anlagen oder Betriebssystemen und -geräten zum Austausch
 von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der
 Anlage. Bei einem vollständigen Austausch der Anlage sind zusätzlich
 folgende Anforderungen einzuhalten:
@@ -1209,29 +1194,36 @@ Anleitung zum Schutz gegen Lärm eingehalten werden, wenn aber
 
 
 
-(4) Der Umfang der artenschutzrechtlichen Prüfung wird durch das
-Änderungsgenehmigungsverfahren nach Absatz 1 nicht berührt. Die
-Auswirkungen der zu ersetzenden Bestandsanlage müssen bei der
-artenschutzrechtlichen Prüfung als Vorbelastung berücksichtigt werden.
-Bei der Festsetzung einer Kompensation aufgrund einer Beeinträchtigung
-des Landschaftsbildes ist die für die zu ersetzende Bestandsanlage
-bereits geleistete Kompensation abzuziehen.
-
-(5) Die Prüfung anderer öffentlich-rechtlicher Vorschriften,
+(4) Die Prüfung anderer öffentlich-rechtlicher Vorschriften,
 insbesondere des Raumordnungs-, Bauplanungs- und Bauordnungsrechts,
 und der Belange des Arbeitsschutzes nach § 6 Absatz 1 Nummer 2 bleibt
 unberührt.
 
-(6) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der
+(5) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der
 Antragsteller diesen beantragt.
 
-(7) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für
+(6) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für
 das Repowering von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz
 1 Satz 1 Nummer 1 Buchstabe c der Verordnung über
 genehmigungsbedürftige Anlagen bleibt unberührt. Im vereinfachten
 Verfahren ist die Genehmigung auf Antrag des Trägers des Vorhabens
 öffentlich bekannt zu machen. In diesem Fall gilt § 10 Absatz 8 Satz 2
 bis 6 entsprechend.
+
+(7) Werden bei einer genehmigten Windenergieanlage vor der Errichtung
+Änderungen am Anlagentyp vorgenommen oder wird er gewechselt, müssen
+im Rahmen des Änderungsgenehmigungsverfahrens nur dann Anforderungen
+geprüft werden, soweit durch die Änderung des Anlagentyps im
+Verhältnis zur genehmigten Anlage nachteilige Auswirkungen
+hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein
+können. Die Absätze 5 und 6 sind entsprechend anzuwenden.
+
+(8) Wird die Leistung einer Windenergieanlage an Land ohne bauliche
+Veränderungen oder ohne den Austausch von Teilen und ohne eine
+Änderung der genehmigten Betriebszeiten erhöht, sind ausschließlich
+die Standsicherheit sowie die schädlichen Umwelteinwirkungen durch
+Geräusche und nachteilige Auswirkungen durch Turbulenzen zu prüfen.
+Die Absätze 5 und 6 sind entsprechend anzuwenden.
 
 
 #### § 17 Nachträgliche Anordnungen
@@ -1745,6 +1737,40 @@ Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine
 vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts-
 und Nebenbestimmungen sicherzustellen.
 
+(3a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich
+der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
+Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus
+erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82)
+fällt, gilt ergänzend Folgendes:
+
+1.  Auf Antrag des Trägers des Vorhabens wird das störfallrechtliche
+    Genehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die
+    für die Durchführung des Vorhabens nach Bundes- oder Landesrecht
+    erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+
+2.  Die einheitliche Stelle nach Nummer 1 stellt ein Verfahrenshandbuch
+    für Träger von Vorhaben bereit und macht diese Informationen auch im
+    Internet zugänglich. In den im Internet veröffentlichten Informationen
+    weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie
+    zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen
+    Land für Vorhaben nach Satz 1 zuständig sind.
+
+
+3.  Die zuständige und die zu beteiligenden Behörden sollen die zur
+    Prüfung des Antrags zusätzlich erforderlichen Unterlagen in einer
+    einmaligen Mitteilung an den Antragsteller zusammenfassen. Nach
+    Eingang der vollständigen Antragsunterlagen erstellt die zuständige
+    Behörde einen Zeitplan für das weitere Verfahren und teilt diesen
+    Zeitplan in den Fällen der Nummer 1 der einheitlichen Stelle,
+    andernfalls dem Antragsteller mit.
+
+
+4.  § 16b ist entsprechend anzuwenden.
+
+
+
+
 (4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer
 Anlage hat die zuständige Behörde innerhalb einer Frist von sieben
 Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu
@@ -2163,6 +2189,416 @@ Die Ergebnisse der Überwachung der Emissionen, die bei der Behörde
 vorliegen, sind für die Öffentlichkeit nach den Bestimmungen des
 Umweltinformationsgesetzes mit Ausnahme des § 12 zugänglich; für
 Landesbehörden gelten die landesrechtlichen Vorschriften.
+
+
+### Vierter Abschnitt - Sonderregelungen zur Bewältigung einer Gasmangellage
+
+
+#### § 31a Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
+zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen-
+und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in
+der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte für
+Schwefeldioxid für eine Dauer von bis zu sechs Monaten bei
+Feuerungsanlagen zulassen, in denen zu diesem Zweck normalerweise ein
+schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund
+einer sich aus einer ernsten Mangellage ergebenden Unterbrechung der
+Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist, diese
+Grenzwerte einzuhalten.
+
+(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der
+Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für
+Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur
+Weiterleitung an die Europäische Kommission zuzuleiten. Das
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz unterrichtet die Europäische Kommission unverzüglich
+über jede nach Absatz 1 gewährte Abweichung.
+
+
+#### § 31b Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
+zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen-
+und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in
+der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den
+Fällen zulassen, in denen eine Feuerungsanlage, in der nur gasförmiger
+Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der
+Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und
+aus diesem Grund mit einer Abgasreinigungsanlage ausgestattet werden
+müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht
+mehr als zehn Tagen zugelassen werden, es sei denn, es ist ein
+vorrangiges Bedürfnis für einen längeren Zeitraum im Hinblick auf die
+Aufrechterhaltung der Energieversorgung gegeben.
+
+(2) Der Betreiber unterrichtet die zuständige Behörde umgehend über
+jeden einzelnen Fall im Sinne des Absatzes 1.
+
+(3) § 31a Absatz 2 ist entsprechend anzuwenden.
+
+
+#### § 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193
+
+(1) Die zuständige Behörde kann für eine Dauer von bis zu sechs
+Monaten eine Abweichung von der Verpflichtung zur Einhaltung der in
+den §§ 10 bis 16 und 18 der Verordnung über mittelgroße Feuerungs-,
+Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I
+S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021
+(BGBl. I S. 2514), geändert worden ist, in der jeweils geltenden
+Fassung, vorgesehenen Emissionsgrenzwerte für Schwefeldioxid bei
+mittelgroßen Feuerungsanlagen zulassen, in denen normalerweise ein
+schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund
+einer sich aus einer erheblichen Mangellage ergebenden Unterbrechung
+der Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist,
+diese Emissionsgrenzwerte einzuhalten.
+
+(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der
+Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für
+Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur
+Weiterleitung an die Europäische Kommission zuzuleiten. Das
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz unterrichtet die Europäische Kommission innerhalb
+eines Monats über jede nach Absatz 1 gewährte Abweichung.
+
+
+#### § 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193
+
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
+zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über
+mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom
+13\. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der
+Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in
+der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den
+Fällen zulassen, in denen eine mittelgroße Feuerungsanlage, in der nur
+gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen
+Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe
+ausweichen muss und aus diesem Grund mit einer sekundären
+Emissionsminderungsvorrichtung ausgestattet werden müsste. Eine solche
+Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen
+zugelassen werden, es sei denn, der Betreiber weist der zuständigen
+Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
+
+(2) § 31c Absatz 2 ist entsprechend anzuwenden.
+
+
+#### § 31e Zulassung vorzeitigen Beginns bei einer Gasmangellage
+
+(1) § 8a ist nach Maßgabe der Absätze 2 bis 5 anzuwenden, wenn eine
+Genehmigung beantragt wird
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit.
+
+
+
+
+(2) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die
+Genehmigungsbehörde den vorzeitigen Beginn bereits vor dem Vorliegen
+vollständiger Antragsunterlagen zulassen kann, wenn
+
+1.  die Erstellung der fehlenden Unterlagen im Hinblick auf die
+    Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
+
+
+2.  auch ohne Berücksichtigung der fehlenden Unterlagen mit einer
+    Entscheidung zugunsten des Antragstellers gerechnet werden kann.
+
+
+
+In diesem Fall hat der Antragsteller das Vorhaben, die
+voraussichtlichen Auswirkungen des Vorhabens und den Grund für die
+nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen.
+Der Antragsteller hat die fehlenden Unterlagen unverzüglich
+nachzureichen.
+
+(3) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die
+Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung
+der Öffentlichkeit zulassen soll.
+
+(4) In den in Absatz 1 genannten Fällen besteht ein öffentliches
+Interesse oder ein berechtigtes Interesse des Antragstellers an dem
+vorzeitigen Beginn im Sinne des § 8a Absatz 1 Nummer 2.
+
+(5) In einem Verfahren zur Erteilung einer Genehmigung kann die
+Genehmigungsbehörde unter den in § 8a Absatz 1 genannten
+Voraussetzungen auch den Betrieb der Anlage vorläufig zulassen. Die
+Absätze 1 bis 4 gelten entsprechend. Satz 1 ist nicht anzuwenden,
+soweit die Richtlinie 2010/75/EU oder die Richtlinie 2012/18/EU
+entgegenstehen.
+
+
+#### § 31f Beteiligung der Öffentlichkeit in Genehmigungsverfahren
+
+(1) § 10 ist nach Maßgabe der Absätze 2 bis 4 anzuwenden, wenn ein
+Genehmigungsverfahren nach § 10, auch in Verbindung mit § 16 oder §
+16a, durchzuführen ist
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit.
+
+
+
+§ 16 Absatz 2 Satz 1 und 2 sowie § 19 Absatz 4 Satz 2 bis 4 bleiben
+unberührt.
+
+(2) Abweichend von § 10 Absatz 3 Satz 2 sind der Antrag und die vom
+Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach
+§ 10 Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und
+Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung
+vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen.
+
+(3) Abweichend von § 10 Absatz 3 Satz 4 kann die Öffentlichkeit bis
+eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen
+Behörde schriftlich oder elektronisch Einwendungen erheben; diese
+Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU.
+
+(4) Die Genehmigungsbehörde soll auf die Durchführung eines
+Erörterungstermins nach § 10 Absatz 6 verzichten.
+
+
+#### § 31g Entbehrlichkeit einer Änderungsanzeige oder Änderungsgenehmigung
+
+(1) Es bedarf weder einer Anzeige nach § 15 noch einer
+Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
+der zuständigen Behörde die Zulassung einer Ausnahme nach einer der in
+Absatz 2 genannten Vorschriften beantragt
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit.
+
+
+
+Ausnahmen nach den in Absatz 2 genannten Vorschriften sollen erteilt
+werden, wenn die Voraussetzungen hierfür vorliegen.
+
+(2) Ausnahmevorschriften im Sinne des Absatzes 1 sind
+
+1.  die §§ 31a bis 31d,
+
+
+2.  § 23 der Verordnung über Großfeuerungs-, Gasturbinen- und
+    Verbrennungsmotoranlagen in der jeweils geltenden Fassung,
+
+
+3.  § 6 Absatz 6 und § 24 der Verordnung über die Verbrennung und die
+    Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044,
+    3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S.
+    2514) geändert worden ist, in der jeweils geltenden Fassung,
+
+
+4.  § 16 der Verordnung über Anlagen zur biologischen Behandlung von
+    Abfällen vom 20. Februar 2001 (BGBl. I S. 305, 317), die zuletzt durch
+    Artikel 2 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739)
+    geändert worden ist, in der jeweils geltenden Fassung,
+
+
+5.  § 11 der Verordnung zur Begrenzung der Emissionen flüchtiger
+    organischer Verbindungen bei der Verwendung organischer Lösemittel in
+    bestimmten Anlagen vom 21. August 2001 (BGBl. I S. 2180), die zuletzt
+    durch Artikel 13 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146)
+    geändert worden ist, in der jeweils geltenden Fassung und
+
+
+6.  § 32 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und
+    Verbrennungsmotoranlagen in der jeweils geltenden Fassung.
+
+
+
+
+
+#### § 31h Abweichungen von der Vierten Verordnung zum Bundes-Immissionsschutzgesetz
+
+Anlagen nach Nummer 9.1.1 des Anhangs 1 der Verordnung über
+genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom
+31\. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom
+12\. Januar 2021 (BGBl. I S. 69) geändert worden ist, in der jeweils
+geltenden Fassung, die nicht länger als zwei Jahre betrieben werden
+und ein Fassungsvermögen von nicht mehr als 200 Tonnen haben, sind
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit
+
+
+
+im vereinfachten Verfahren nach § 19 des Bundes-
+Immissionsschutzgesetzes zu genehmigen. Die Genehmigung ist
+entsprechend zu befristen. § 19 Absatz 4 des Bundes-
+Immissionsschutzgesetzes bleibt von dieser Vorschrift unberührt.
+
+
+#### § 31i Abweichungen von der Technischen Anleitung zur Reinhaltung der Luft
+
+(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der
+Nummer 5.1.1 der Neufassung der Ersten Allgemeinen
+Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische
+Anleitung zur Reinhaltung der Luft – TA Luft) vom 18. August 2021
+(GMBl S. 1050) Abweichungen von den Anforderungen der Nummer 5 der
+Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-
+Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft
+– TA Luft) vom 18. August 2021 (GMBl S. 1050) oder den Anforderungen
+der Nummer 5 der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-
+Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft
+– TA Luft) vom 24. Juli 2002 (GMBl S. 511) zulassen, solange und
+soweit diese Abweichungen erforderlich sind
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit.
+
+
+
+Bei Anlagen, die von der Richtlinie 2010/75/EU erfasst werden, müssen
+die Anforderungen der Richtlinie 2010/75/EU eingehalten werden.
+
+(2) Es bedarf weder einer Anzeige nach § 15 noch einer
+Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
+der zuständigen Behörde Abweichungen nach Absatz 1 beantragt.
+
+
+#### § 31j Überschreitung von Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm
+
+(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der
+Nummer 7.1 der Sechsten Allgemeinen Verwaltungsvorschrift zum Bundes-
+Immissionsschutzgesetz (Technische Anleitung zum Schutz gegen Lärm –
+TA Lärm) vom 26. August 1998 (GMBl S. 503), geändert durch die
+Allgemeine Verwaltungsvorschrift vom 1. Juni 2017 (BAnz AT 08.06.2017
+B5) die Überschreitung von Immissionsrichtwerten zulassen, solange und
+soweit diese Überschreitung erforderlich ist
+
+1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
+    erheblichen Gasmangellage,
+
+
+2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
+    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
+    stehen oder
+
+
+3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit.
+
+
+
+
+(2) Es bedarf weder einer Anzeige nach § 15 noch einer
+Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
+der zuständigen Behörde eine Überschreitung nach Absatz 1 beantragt.
+
+
+#### § 31k Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen
+
+(1) Bei Vorliegen der Alarmstufe oder der Notfallstufe nach Artikel 8
+Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU)
+2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober
+2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und
+zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom
+28\.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517
+(ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, in Verbindung
+mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und
+Energie vom September 2019, der auf der Internetseite des
+Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist,
+soll die zuständige Behörde auf Antrag des Betreibers Abweichungen von
+einzelnen in der Genehmigung enthaltenen Anforderungen an die
+Geräusche zur Nachtzeit unter Abweichung von den Immissionsrichtwerten
+der Technischen Anleitung zum Schutz gegen Lärm und an die optischen
+Immissionen der Windenergieanlage zulassen,
+
+1.  um die Strommenge einer Windenergieanlage zu erhöhen, deren
+    Betriebszeit zur Verminderung oder Vermeidung von Schattenwurf
+    beschränkt ist, oder
+
+
+2.  um die Leistung oder die Strommenge einer Windenergieanlage in der
+    Nachtzeit zu erhöhen, soweit sich der Schallpegel der Anlage in dieser
+    Zeit um maximal 4 Dezibel gegenüber dem bisher genehmigten Wert
+    erhöht.
+
+
+
+
+(2) Dem Antrag sind die zur Beurteilung erforderlichen Unterlagen
+beizufügen. Die zuständige Behörde hat dem Betreiber den Eingang des
+Antrags unverzüglich zu bestätigen.
+
+(3) Eine beantragte Abweichung gilt nach Ablauf eines Monats nach
+Eingang des Antrags als zugelassen, wenn der Antrag hinreichend
+bestimmt ist, sich die beantragte Abweichung auf Anforderungen an die
+Geräusche zur Nachtzeit oder die optische Immission beschränkt und
+alle weiteren Anforderungen des Absatzes 1 eingehalten sind.
+
+(4) Über die Zulassung der Abweichungen nach Absatz 1 hinaus bedarf es
+weder einer Änderungsgenehmigung nach § 16 noch einer Anzeige nach §
+15\. Nach Absatz 1 zugelassene Abweichungen sind bis zum 15. April 2024
+befristet. Hebt das Bundesministerium für Wirtschaft und Klimaschutz
+die Alarmstufe oder Notfallstufe im Sinne des Absatzes 1 vor dem 15.
+April 2024 auf, endet die Zulassung der Abweichungen bereits zum
+Ablauf des letzten Tages des auf die Aufhebung folgenden Quartals.
+
+
+#### § 31l Übergangsregelungen zu den §§ 31e bis 31k
+
+(1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem
+Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren
+anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch
+nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den §§
+31e bis 31k durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss
+nicht beendet werden, wenn er nach den §§ 31e bis 31k entfallen kann.
+
+(2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits
+begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften,
+die zum Zeitpunkt des Beginns des Verfahrens galten, beendet werden,
+wenn der Verfahrensschritt hiernach schneller abgeschlossen werden
+kann.
+
+(3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§
+31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten
+der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die
+Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen
+Verfahrensschrittes weiter.
 
 
 ## Dritter Teil - Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen
@@ -2860,17 +3296,20 @@ I S. 1849), die durch Artikel 8 Absatz 1 der Verordnung vom 2. Mai
 Fassung entsprechen. Biodiesel ist unter diesen Voraussetzungen in
 vollem Umfang als Biokraftstoff zu behandeln.
 
-(3) Im Fall von Bioethanol, das fossilem Ottokraftstoff beigemischt
-wird, müssen die Eigenschaften des Bioethanols mindestens den
-Anforderungen der DIN EN 15376, Ausgabe März 2008 oder Ausgabe
-November 2009 oder Ausgabe April 2011, entsprechen. Im Fall von
-Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen die
-Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den
-Anforderungen für Ethanolkraftstoff (E85) nach § 6 der Verordnung über
-die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
-Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus
-Bioethanol hergestellt werden, gilt für den Bioethanolanteil Satz 1
-entsprechend.
+(3) Bioethanol ist abweichend von Absatz 1 nur dann Biokraftstoff,
+wenn es sich um Ethylalkohol ex Unterposition 2207 10 00 der
+Kombinierten Nomenklatur im Sinne des § 1a Satz 1 Nummer 2 des
+Energiesteuergesetzes handelt. Im Fall von Bioethanol, das fossilem
+Ottokraftstoff beigemischt wird, müssen die Eigenschaften des
+Bioethanols außerdem mindestens den Anforderungen der DIN EN 15376,
+Ausgabe März 2008 oder Ausgabe November 2009 oder Ausgabe April 2011,
+entsprechen. Im Fall von Bioethanol, das im Ethanolkraftstoff (E85)
+enthalten ist, müssen die Eigenschaften des Ethanolkraftstoffs (E85)
+außerdem mindestens den Anforderungen für Ethanolkraftstoff (E85) nach
+§ 6 der Verordnung über die Beschaffenheit und die Auszeichnung der
+Qualitäten von Kraft- und Brennstoffen entsprechen. Für
+Energieerzeugnisse, die anteilig aus Bioethanol hergestellt werden,
+gelten für den Bioethanolanteil die Sätze 1 und 2 entsprechend.
 
 (4) Pflanzenöl ist abweichend von Absatz 1 nur dann Biokraftstoff,
 wenn seine Eigenschaften mindestens den Anforderungen für
@@ -2920,29 +3359,29 @@ können
 
 
 
-Abweichend von Satz 1 Nummer 3 und Absatz 1 Satz 1 können
+Abweichend von Satz 1 Nummer 3 und Absatz 1 Satz 1 können
 Biokraftstoffe, die vollständig oder teilweise aus tierischen Fetten
-und Ölen der Kategorie 1 und 2 gemäß Artikel 8 und 9 der Verordnung
+und Ölen der Kategorie 1 und 2 gemäß Artikel 8 und 9 der Verordnung
 (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21.
 Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen
 Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der
-Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1), die
-zuletzt durch die Verordnung (EU) 2019/1009 (ABl. L 170 vom 25.6.2019,
-S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung
-bestehen, auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1
-Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden.
-Abweichend von Satz 1 Nummer 4 und Absatz 1 Satz 1 wird Wasserstoff
-aus biogenen Quellen des Anhangs IX Teil A der Richtlinie (EU)
-2018/2001, der in Straßenfahrzeugen eingesetzt wird, ab dem 1. Juli
-2023 auf die Erfüllung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung
-mit § 37a Absatz 4 angerechnet; eine Rechtsverordnung der
-Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 19 regelt weitere
-Bestimmungen. Ab dem Kalenderjahr 2023 wird für die
-Treibhausgasemissionen von Biokraftstoffen aus Rohstoffen mit hohem
-Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung
-(EU) 2019/807 der Basiswert zugrunde gelegt. Der Rechenfaktor nach §
-37d Absatz 2 Satz 1 Nummer 2 für Biokraftstoffe aus Abwasser aus
-Palmölmühlen und leeren Palmfruchtbündeln beträgt eins.
+Verordnung (EG) Nr. 1774/2002, die zuletzt durch die Verordnung (EU)
+2019/1009 (ABl. L 170 vom 25.6.2019, S. 1) geändert worden ist, in
+ihrer jeweils geltenden Fassung bestehen, auf die Erfüllung von
+Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit §
+37a Absatz 4 angerechnet werden. Abweichend von Satz 1 Nummer 4 und
+Absatz 1 Satz 1 wird Wasserstoff aus biogenen Quellen des Anhangs IX
+Teil A der Richtlinie (EU) 2018/2001, der in Straßenfahrzeugen
+eingesetzt wird, ab dem 1. Juli 2023 auf die Erfüllung nach § 37a
+Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet;
+eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1
+Nummer 19 regelt weitere Bestimmungen. Ab dem Kalenderjahr 2023 wird
+für die Treibhausgasemissionen von Biokraftstoffen aus Rohstoffen mit
+hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der
+Verordnung (EU) 2019/807 der Basiswert zugrunde gelegt. Der
+Rechenfaktor nach § 37d Absatz 2 Satz 1 Nummer 2 für Biokraftstoffe
+aus Abwasser aus Palmölmühlen und leeren Palmfruchtbündeln beträgt
+eins.
 
 (9) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit gibt den Energiegehalt der verschiedenen Kraftstoffe sowie
@@ -5465,7 +5904,7 @@ Aufhebung von Vorschriften)
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
-abgewichen werden.
+abgewichen werden. Satz 1 ist nicht auf § 31k anzuwenden.
 
 (zu § 3 Abs. 6)
 

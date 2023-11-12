@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 624
 
 Zuletzt geändert durch
-:   Art. 6 V v. 4.1.2019 I 2
+:   Art. 8 V v. 10.3.2022 I 428
 
 
 ## Eingangsformel
@@ -50,9 +50,13 @@ Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17.
 Dezember 2013 über eine gemeinsame Marktorganisation für
 landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
 (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
-1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) müssen nicht eingehalten
-werden bei der direkten Abgabe kleiner Mengen Geflügelfleischs durch
-Landwirte, die jährlich weniger als 10 000 Tiere erzeugen.
+1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S.
+261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom
+6\.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220
+(ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, müssen nicht
+eingehalten werden bei der direkten Abgabe kleiner Mengen
+Geflügelfleischs durch Landwirte, die jährlich weniger als 10 000
+Tiere erzeugen.
 
 (2) Eine direkte Abgabe kleiner Mengen Geflügelfleischs im Sinne des
 Absatzes 1 ist die Abgabe von Fleisch von Geflügel, das im
@@ -88,15 +92,11 @@ verarbeiten und direkt an den Endverbraucher abgeben.
 
 
 2.  entgegen Artikel 78 Absatz 1 Buchstabe d in Verbindung mit Anhang VII
-    Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 des
-    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine
-    gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
-    zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
-    (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
-    S. 671) Geflügelfleisch sowie Zubereitungen aus Geflügelfleisch zum
-    Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu
-    verkaufen oder sonst in den Verkehr zu bringen, das sich nicht in
-    einem der dort genannten Angebotszustände befindet.
+    Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 Geflügelfleisch
+    sowie Zubereitungen aus Geflügelfleisch zum Verkauf vorrätig zu
+    halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst
+    in den Verkehr zu bringen, das sich nicht in einem der dort genannten
+    Angebotszustände befindet.
 
 
 
@@ -109,9 +109,9 @@ verarbeiten und direkt an den Endverbraucher abgeben.
     der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur
     Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der
     Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S.
-    46), die zuletzt durch die Verordnung (EU) Nr. 576/2011 (ABl. L 159
-    vom 17.6.2011, S. 66) geändert worden ist, vorgeschriebenen
-    Herrichtungsform nicht entsprechen,
+    46; L 8 vom 13.1.2009, S. 33), die zuletzt durch die Verordnung (EU)
+    Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist,
+    vorgeschriebenen Herrichtungsform nicht entsprechen,
 
 
 2.  Geflügelschlachtkörper zum Verkauf vorrätig zu halten, feilzuhalten,
@@ -225,6 +225,20 @@ Geflügelfleisch verarbeitet die zuständige Behörde die Daten gemäß
 Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
 
+## § 6a Vorschriften für Geflügelerzeuger
+
+(1) Geflügelerzeuger, die Geflügel unter Verwendung der in Artikel 11
+Absatz 1 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008
+festgelegten Begriffe vermarkten oder in Verkehr bringen, müssen über
+eine behördliche Zulassung verfügen.
+
+(2) Die Zulassung ist auf Antrag durch die nach Landesrecht zuständige
+Behörde zu erteilen, wenn im Rahmen einer Vor-Ort-Überprüfung
+festgestellt wurde, dass der Geflügelerzeuger die in Anhang V der
+Verordnung (EG) Nr. 543/2008 für die jeweilige Haltungsform
+festgelegten Haltungsvoraussetzungen erfüllt.
+
+
 ## § 7 Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse
 
 (1) Für die Kontrollen des Wassergehaltes gefrorener oder
@@ -289,6 +303,13 @@ Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen,
 prüfen zu lassen und Auskünfte zu erteilen.
 
 
+## § 8b Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
+die zuständige Behörde die Daten nach Abschnitt III der Anlage des
+Marktorganisationsgesetzes.
+
+
 ## § 9 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
@@ -332,10 +353,14 @@ Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 
 9.  entgegen § 6 Absatz 3 Satz 1 ein Los oder ein Bestandteil eines Loses
-    vermarktet oder
+    vermarktet,
 
 
-10. einer vollziehbaren Anordnung nach § 8 Absatz 2 zuwiderhandelt.
+10. ohne Zulassung nach § 6a Absatz 1 Geflügel vermarktet oder in Verkehr
+    bringt oder
+
+
+11. einer vollziehbaren Anordnung nach § 8 Absatz 2 zuwiderhandelt.
 
 
 

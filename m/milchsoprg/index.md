@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 410
 
 Zuletzt geändert durch
-:   Art. 409 V v. 31.8.2015 I 1474
+:   Art. 2 Abs. 26 G v. 20.12.2022 I 2752
 
 
 ## § 1 Anwendungsbereich
@@ -448,13 +448,6 @@ Marktorganisationsgesetzes entsprechend.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
-
-## § 12 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ## Anlage (zu § 4 Absatz 2)

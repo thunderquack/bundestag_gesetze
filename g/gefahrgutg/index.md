@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.7.2009 I 1774, 3975
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.12.2019 I 2510
+:   Art. 26 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Geltungsbereich
@@ -268,18 +268,18 @@ soweit es sich um den Bereich der bundeseigenen Verwaltung handelt.
 Wenn und soweit der Zweck des Gesetzes durch das Verwaltungshandeln
 der Länder nicht erreicht werden kann, kann das Bundesministerium für
 Verkehr und digitale Infrastruktur durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Bundesamt für Güterverkehr, das
-Bundesamt für die Sicherheit der nuklearen Entsorgung, das Bundesamt
-für Verbraucherschutz und Lebensmittelsicherheit, die Bundesanstalt
-für Materialforschung und -prüfung, das Bundesinstitut für
-Risikobewertung, das Eisenbahn-Bundesamt, das Kraftfahrt-Bundesamt,
-die Physikalisch-Technische Bundesanstalt, das Robert-Koch-Institut,
-das Umweltbundesamt und das Wehrwissenschaftliche Institut für Werk-,
-Explosiv- und Betriebsstoffe auch für den Bereich für zuständig
-erklären, in dem die Länder dieses Gesetz und die auf ihm beruhenden
-Rechtsvorschriften auszuführen hätten. Das Bundesministerium für
-Verkehr und digitale Infrastruktur kann ferner durch Rechtsverordnung
-mit Zustimmung des Bundesrates bestimmen, dass
+Zustimmung des Bundesrates das Bundesamt für Logistik und Mobilität,
+das Bundesamt für die Sicherheit der nuklearen Entsorgung, das
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, die
+Bundesanstalt für Materialforschung und -prüfung, das Bundesinstitut
+für Risikobewertung, das Eisenbahn-Bundesamt, das Kraftfahrt-
+Bundesamt, die Physikalisch-Technische Bundesanstalt, das Robert-Koch-
+Institut, das Umweltbundesamt und das Wehrwissenschaftliche Institut
+für Werk-, Explosiv- und Betriebsstoffe auch für den Bereich für
+zuständig erklären, in dem die Länder dieses Gesetz und die auf ihm
+beruhenden Rechtsvorschriften auszuführen hätten. Das
+Bundesministerium für Verkehr und digitale Infrastruktur kann ferner
+durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass
 
 1.  die Industrie- und Handelskammern für die Durchführung, Überwachung
     und Anerkennung der Ausbildung, Prüfung und Fortbildung von am
@@ -632,7 +632,7 @@ durch, so werden die Ergebnisse dem anderen betroffenen Staat
 mitgeteilt.
 
 (5) Mitteilungen und Ersuchen nach den Absätzen 2 bis 4 sind im
-Straßenverkehr über das Bundesamt für Güterverkehr, im
+Straßenverkehr über das Bundesamt für Logistik und Mobilität, im
 Eisenbahnverkehr über das Eisenbahn-Bundesamt und im
 Binnenschiffsverkehr über das Bundesministerium für Verkehr und
 digitale Infrastruktur zu leiten.

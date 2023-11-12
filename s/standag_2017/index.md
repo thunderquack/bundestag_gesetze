@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1074
 
 Zuletzt geändert durch
-:   Art. 1 G v. 7.12.2020 I 2760
+:   Art. 8 G v. 22.3.2023 I Nr. 88
 
 Stand: Ersetzt V 751-17 v. 23.7.2013 I 2553 (StandAG)
 
@@ -839,9 +839,10 @@ Auf der Grundlage dieser Entscheidung ist die Eignung des Vorhabens im
 Genehmigungsverfahren vollumfänglich zu prüfen.
 
 (4) Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in
-Verbindung mit § 1 Satz 3 Nummer 16 der Raumordnungsverordnung und
-anderen raumordnungsrechtlichen Vorschriften findet ein
-Raumordnungsverfahren für die Errichtung des Endlagers nicht statt.
+Verbindung mit § 1 Satz 1 Nummer 16 der Raumordnungsverordnung und
+anderen raumordnungsrechtlichen Vorschriften findet eine
+Raumverträglichkeitsprüfung für die Errichtung des Endlagers nicht
+statt.
 
 
 #### § 21 Sicherungsvorschriften

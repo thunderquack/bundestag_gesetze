@@ -15,12 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 58
 
-Zuletzt geändert durch
-:   Art. 3 G v. 4.5.2017 I 1057
-
-Änderung durch
-:   Art. 3 G v. 14.6.2021 I 1802 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 3 G v. 14.6.2021 I 1802
 
 
 ## Eingangsformel

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1489
 
 Zuletzt geändert durch
-:   Art. 9 G v. 15.8.2019 I 1307
+:   Art. 1 V v. 7.6.2023 I Nr. 148
 
 
 ## Eingangsformel
@@ -89,7 +89,9 @@ verantwortlichen Ausübung des Apothekerberufs befähigt werden.
 Anlage 1 angeführten Stoffgebieten und einem Wahlpflichtfach, die in
 Form von Vorlesungen, Seminaren und praktischen Lehrveranstaltungen
 mit den angegebenen Regelstundenzahlen und Bescheinigungen zu
-vermitteln sind.
+vermitteln sind. Vorlesungen können auch in digitaler Form abgehalten
+werden. Seminare und praktische Lehrveranstaltungen können durch
+digitale Lehrformate begleitet werden.
 
 
 ### § 3 Famulatur
@@ -194,7 +196,10 @@ begleitenden Unterrichtsveranstaltungen teilzunehmen, in denen die in
 der Anlage 8 aufgeführten Stoffgebiete vermittelt werden. Die
 zuständige Behörde führt die begleitenden Unterrichtsveranstaltungen
 durch oder benennt eine oder mehrere geeignete Stellen, die diese
-Unterrichtsveranstaltungen durchführen. Über die Teilnahme an den
+Unterrichtsveranstaltungen durchführen. Begleitende
+Unterrichtsveranstaltungen, die in Form von Vorlesungen durchgeführt
+werden, können in Abstimmung mit der zuständigen Behörde auch in
+digitaler Form abgehalten werden. Über die Teilnahme an den
 begleitenden Unterrichtsveranstaltungen erhält der Auszubildende eine
 Bescheinigung nach dem Muster der Anlage 6.
 
@@ -632,26 +637,25 @@ selbständig Lehrende bestellt werden. Die Prüfung in den einzelnen
 Fächern erfolgt durch das für das betreffende Fach bestellte Mitglied
 der Prüfungskommission in Gegenwart eines weiteren Mitglieds oder
 Beisitzers. Der Vorsitzende oder sein Stellvertreter kann an den
-Prüfungen, in denen er nicht selbst Prüfer ist, teilnehmen und
-Prüfungsfragen stellen. Bei Wiederholungsprüfungen hat außer dem
-Prüfer der Vorsitzende oder ein von diesem bestimmtes Mitglied der
-Prüfungskommission anwesend zu sein; diese können dabei auch
-Prüfungsfragen stellen. Der Prüfer entscheidet über die Bewertung der
+Prüfungen, in denen er nicht selbst Prüfer ist, teilnehmen; ihm steht
+kein Fragerecht zu. Bei Wiederholungsprüfungen hat außer dem Prüfer
+der Vorsitzende oder ein von diesem bestimmtes Mitglied der
+Prüfungskommission anwesend zu sein; dem Vorsitzenden oder dem von
+diesem bestimmten Mitglied der Prüfungskommission steht kein
+Fragerecht zu. Der Prüfer entscheidet über die Bewertung der
 Prüfungsleistungen; die übrigen bei der Prüfung anwesenden Mitglieder
 der Prüfungskommission sind vorher zu hören.
 
 (3) Die Prüfungskommission für den Dritten Abschnitt der
-Pharmazeutischen Prüfung besteht aus dem Vorsitzenden und mindestens
-zwei, höchstens vier weiteren Mitgliedern. Zu Mitgliedern sind
-Professoren und Hochschul- oder Privatdozenten der Universität sowie
-Apotheker, die nicht dem Lehrkörper einer Universität angehören, zu
-bestellen. Daneben können auch andere geeignete Prüfer bestellt
-werden. Der Vorsitzende leitet die Prüfung; er ist selbst Prüfer. Er
-hat darauf zu achten, daß die Prüflinge in geeigneter Weise befragt
-werden. Die Prüfungskommission hat während der gesamten Prüfung
-anwesend zu sein. Die Prüfungskommission trifft ihre Entscheidung mit
-Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme des
-Vorsitzenden den Ausschlag.
+Pharmazeutischen Prüfung besteht aus dem Vorsitzenden und zwei
+weiteren Mitgliedern. Zu Mitgliedern sind Professoren und Hochschul-
+oder Privatdozenten der Universität sowie Apotheker, die nicht dem
+Lehrkörper einer Universität angehören, zu bestellen. Daneben können
+auch andere geeignete Prüfer bestellt werden. Der Vorsitzende leitet
+die Prüfung; er ist selbst Prüfer. Er hat darauf zu achten, daß die
+Prüflinge in geeigneter Weise befragt werden. Die Prüfungskommission
+hat während der gesamten Prüfung anwesend zu sein. Die
+Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit.
 
 (4) Die Prüflinge sind einzeln oder in Gruppen bis zu vier Personen zu
 prüfen.
@@ -1254,16 +1258,16 @@ sieben Tage vor dem Prüfungstermin zu. § 13 gilt entsprechend.
 einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
 Die Prüfungskommission wird von der nach § 12 Absatz 2 der Bundes-
 Apothekerordnung zuständigen Behörde des Landes bestellt. Die
-Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei,
-höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die
-weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende,
-weitere Mitglieder und Stellvertreter werden Professoren oder andere
-Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt.
-Stattdessen können als Mitglieder der Prüfungskommission auch dem
-Lehrkörper einer Universität nicht angehörende Apotheker bestellt
-werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und
-muss auch selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie §
-14 gelten entsprechend.
+Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren
+Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind
+Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und
+Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer,
+die Gegenstand der Prüfung sind, bestellt. Stattdessen können als
+Mitglieder der Prüfungskommission auch dem Lehrkörper einer
+Universität nicht angehörende Apotheker bestellt werden. Der
+Vorsitzende der Prüfungskommission leitet die Prüfung und muss auch
+selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie § 14 gelten
+entsprechend.
 
 (5) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die
 Prüfungskommission die Leistungen in den in Absatz 1 genannten Fächern
@@ -1314,16 +1318,16 @@ gilt entsprechend.
 einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
 Die Prüfungskommission wird von der nach § 12 Absatz 3 der Bundes-
 Apothekerordnung zuständigen Behörde des Landes bestellt. Die
-Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei,
-höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die
-weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende,
-weitere Mitglieder und Stellvertreter werden Professoren oder andere
-Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt.
-Stattdessen können als Mitglieder der Prüfungskommission auch dem
-Lehrkörper einer Universität nicht angehörende Apotheker bestellt
-werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und
-muss selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie § 14
-gelten entsprechend.
+Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren
+Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind
+Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und
+Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer,
+die Gegenstand der Prüfung sind, bestellt. Stattdessen können als
+Mitglieder der Prüfungskommission auch dem Lehrkörper einer
+Universität nicht angehörende Apotheker bestellt werden. Der
+Vorsitzende der Prüfungskommission leitet die Prüfung und muss selbst
+prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie § 14 gelten
+entsprechend.
 
 (5) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die
 Prüfungskommission in einer Gesamtbetrachtung die Leistungen in den in
@@ -1666,11 +1670,12 @@ Verantwortlichen)
 ----------
 \*) Nichtzutreffendes streichen.
 
-(zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3)
+(zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)
 
 ### Anlage 6 Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500)
+(Fundstelle des Originaltextes: BGBl. I 1989, 1500;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Herr/Frau
 ..............................................................
 hat an den vom ....................... bis zum

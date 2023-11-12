@@ -15,4 +15,4 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2020, 303
 
-Stand: Die V tritt gem. § 6 mit Ablauf des 14.6.2023 außer Kraft
+Stand: Die V tritt gem. § 6 idF d. Art. 2 Nr. 2 V v. 28.4.2023 I Nr. 118 mit Ablauf des 4.5.2026 außer Kraft

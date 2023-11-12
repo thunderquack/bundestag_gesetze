@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1221
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 V v. 16.8.2021 I 3582
+:   Art. 1 V v. 15.12.2022 I 2865
 
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
@@ -34,7 +34,7 @@ Verfassungsschutz des Bundes.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -465,7 +465,7 @@ In begründeten Fällen können zwei Mitglieder der Auswahlkommission
 Tarifbeschäftigte oder Soldatinnen oder Soldaten sein, wenn sie über
 die erforderliche Qualifikation verfügen.
 
-(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission nur aus
+(2a) Bis zum 31. Dezember 2024 kann eine Auswahlkommission nur aus
 folgenden Mitgliedern bestehen:
 
 1.  einer Beamtin oder einem Beamten des gehobenen oder höheren
@@ -660,7 +660,7 @@ und Fortbildung.
 für Nachrichtendienstliche Aus- und Fortbildung und eine
 berufspraktische Ausbildung.
 
-(2a) Bis zum 31. Dezember 2022 können für einzelne oder alle
+(2a) Bis zum 31. Dezember 2024 können für einzelne oder alle
 Lehrveranstaltungen, die keine als Verschlusssachen eingestuften
 Inhalte enthalten, digitale Lehrformate genutzt werden.
 
@@ -726,7 +726,7 @@ festgesetzt:
 
 
 (4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Abschnitte der fachtheoretischen und der
+31\. Dezember 2024 die Abschnitte der fachtheoretischen und der
 berufspraktischen Ausbildung – abweichend von den Absätzen 3 und 4 –
 
 1.  anders unterteilt werden,
@@ -744,7 +744,7 @@ berufspraktischen Ausbildung – abweichend von den Absätzen 3 und 4 –
 mindestens 900 Lehrstunden.
 
 (6) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Zahl der Lehrstunden um bis zu 10 Prozent
+31\. Dezember 2024 die Zahl der Lehrstunden um bis zu 10 Prozent
 verringert wird.
 
 
@@ -924,7 +924,7 @@ anzuhören.
 
 
 (2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 eine Reduzierung der Lehrgebiete vorgenommen wird.
+31\. Dezember 2024 eine Reduzierung der Lehrgebiete vorgenommen wird.
 
 
 #### § 28 Organisation und Durchführung
@@ -940,7 +940,7 @@ zuständig, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
 (1a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 in der fachtheoretischen Ausbildung
+31\. Dezember 2024 in der fachtheoretischen Ausbildung
 
 1.  mehr als sechs Leistungstests in einer anderen Prüfungsform als der
     Klausur absolviert werden können,
@@ -1092,7 +1092,7 @@ besprechen.
 Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
 
 (2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 in den praxisbezogenen Lehrveranstaltungen
+31\. Dezember 2024 in den praxisbezogenen Lehrveranstaltungen
 
 1.  die Leistungstests in einer anderen Form als der Klausur absolviert
     werden können oder
@@ -1199,7 +1199,7 @@ können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen
 werden.
 
 (2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 der Inhalt der Klausur mehr als einem Lehrgebiet
+31\. Dezember 2024 der Inhalt der Klausur mehr als einem Lehrgebiet
 entnommen wird.
 
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
@@ -1208,7 +1208,7 @@ entnommen wird.
 geschrieben.
 
 (4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Klausuren nicht an aufeinanderfolgenden
+31\. Dezember 2024 die Klausuren nicht an aufeinanderfolgenden
 Arbeitstagen geschrieben werden.
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
@@ -1334,7 +1334,7 @@ mündlichen Abschlussprüfung.
 
 
 (2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022
+31\. Dezember 2024
 
 1.  der Gegenstand der Klausuren den Lehrgebieten nach § 27 Absatz 1
     Nummer 1 bis 6 auch anders zugeordnet wird und
@@ -1353,7 +1353,7 @@ geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
 
 (4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022
+31\. Dezember 2024
 
 1.  die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an
     aufeinanderfolgenden Arbeitstagen geschrieben werden oder
@@ -1506,7 +1506,7 @@ derselben Fachrichtung geprüft werden.
 geprüft werden.
 
 (4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die mündliche Abschlussprüfung als Einzelprüfung
+31\. Dezember 2024 die mündliche Abschlussprüfung als Einzelprüfung
 durchgeführt wird.
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder
@@ -1526,8 +1526,8 @@ gestatten:
 1.  Vertreterinnen und Vertretern des Bundeskanzleramtes,
 
 
-2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-    Bau und Heimat,
+2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+    für Heimat,
 
 
 3.  den Leiterinnen oder den Leitern des Bundesnachrichtendienstes und des

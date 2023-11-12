@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 2625
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.3.2016 I 396
+:   Art. 1 V v. 25.5.2022 I 823
 
 
 ## Eingangsformel
@@ -39,17 +39,10 @@ eingeführt
 
 
 
-Dies gilt nicht für Mahnverfahren, in denen
-
-1.  der Antragsteller das Mahnverfahren maschinell betreibt,
-
-
-2.  der Mahnbescheid im Ausland oder nach Artikel 32 des Zusatzabkommens
-    zum NATO-Truppenstatut vom 3. August 1959 (BGBl. 1961 II S. 1183,
-    1218) zuzustellen ist.
-
-
-
+Dies gilt nicht für Mahnverfahren, in denen der Mahnbescheid im
+Ausland oder nach Artikel 32 des Zusatzabkommens zum NATO-
+Truppenstatut vom 3. August 1959 (BGBl. 1961 II S. 1183, 1218)
+zuzustellen ist.
 
 (2) Der in Anlage 1 bestimmte Vordruck ist als Durchschreibesatz im
 Format DIN A 4 auszuführen. Das Papiergewicht soll mindestens 60 g/qm
@@ -156,22 +149,73 @@ das auch bei handschriftlicher Bearbeitung durch das Gericht die
 Lesbarkeit der Durchschriften gewährleistet; § 1 Absatz 2 Satz 5 gilt
 entsprechend.
 
-(4) Wird der Mahnantrag von einem Rechtsanwalt gestellt, ist nur die
-Form der Antragstellung nach den Absätzen 1 bis 3 zulässig.
-
-(5) Die Gerichte für Arbeitssachen können die in Absatz 1 bezeichnete
+(4) Die Gerichte für Arbeitssachen können die in Absatz 1 bezeichnete
 Ausführung auch mithilfe eines Datenverarbeitungsprogramms erstellen.
 Das Programm muss die in Absatz 1 Satz 2 vorgesehenen Anforderungen
 erfüllen. Der Hersteller der Vordrucke muss mindestens auf Blatt 1 und
 dem für den Antrag auf Erlass des Vollstreckungsbescheids verwendeten
 Blatt 3 erkennbar sein.
 
-(6) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die
+(5) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die
 Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache
 behoben ist.
 
 
-## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
+## § 2 Elektronisch ausfüllbarer und auslesbarer Vordruck
+
+(1) Die Länder können die in den Anlagen bestimmten Vordrucke in
+elektronisch ausfüllbarer Form zur Einreichung in Papierform zur
+Verfügung stellen.
+
+(2) Zur elektronischen Weiterverarbeitung der Daten aus einem in
+Papierform eingereichten Vordruck kann dieser elektronisch ausgelesen
+werden. Die Länder sind befugt, die technischen Voraussetzungen
+hierfür festzulegen.
+
+
+## § 3 Vordrucke zur Übermittlung als elektronisches Dokument
+
+Die Länder können Anpassungen an den in den Anlagen bestimmten
+Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern
+oder dessen Verständnis zu erschweren, erleichtern, die Vordrucke
+elektronisch auszufüllen und bei Gericht als elektronisches Dokument
+gemäß § 46c des Arbeitsgerichtsgesetzes einzureichen.
+
+
+## § 4 Vordrucke zur Übermittlung als strukturierter Datensatz
+
+Die Länder können Anpassungen an den in den Anlagen bestimmten
+Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern
+oder dessen Verständnis zu erschweren, ermöglichen, die Vordrucke
+elektronisch auszufüllen und dem Gericht als strukturierten Datensatz
+zu übermitteln. Für die Übermittlung als strukturierter Datensatz sind
+die in den Vordrucken enthaltenen Angaben in eine für das Gericht für
+die Bearbeitung geeignete Form zu übertragen. Die Identifizierung des
+Vordruckverwenders kann abweichend von § 46c Absatz 3 des
+Arbeitsgerichtsgesetzes statt mit einer qualifizierten elektronischen
+Signatur auch durch Nutzung des elektronischen Identitätsnachweises
+nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes
+oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen, wenn im
+jeweiligen Land die technischen Voraussetzungen hierfür vorliegen.
+
+
+## § 5 Gemeinsame Koordinierungsstelle; Bereitstellung von Vordrucken im Internet
+
+Die Länder können eine gemeinsame Koordinierungsstelle durch
+Verwaltungsvereinbarung einrichten, die für die Gestaltung der
+Vordrucke gemäß den §§ 2 bis 4 sowie die Festlegung der
+Voraussetzungen für die elektronische Weiterverarbeitung der Daten in
+den Fällen des § 2 Absatz 2 und § 4 maßgebend ist. Besteht bereits
+eine solche Stelle, können die Länder sich dieser bedienen. Die von
+der gemeinsamen Koordinierungsstelle gestalteten Vordrucke sind im
+Internet unter der Adresse www.justiz.de zur Nutzung bereitzustellen.
+Die Länder können beschließen, dass bis zur Einrichtung der
+gemeinsamen Koordinierungsstelle nach Satz 1 ein Land die Aufgaben der
+gemeinsamen Koordinierungsstelle für die Gestaltung der Vordrucke nach
+§ 2 Absatz 1 und § 3 wahrnimmt.
+
+
+## § 6 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
 Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
@@ -198,11 +242,7 @@ In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
 
 
-## § 2a (weggefallen)
-
-
-
-## § 3 Inkrafttreten
+## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 

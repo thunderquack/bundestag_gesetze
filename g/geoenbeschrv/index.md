@@ -65,7 +65,7 @@ Antrags auf Erteilung der Erlaubnis stattfinden.
 Erörterung gegeben werden.
 
 (3) Der Maßnahmenträger teilt das Ergebnis der frühen
-Öffentlichkeitsbeteiligung der zuständigen Behörde spätestens mit der
+Öffentlichkeitsbeteiligung der zuständigen Behörde spätestens mit der
 Antragstellung mit.
 
 

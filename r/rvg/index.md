@@ -15,10 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 718, 788
 
-Zuletzt geändert durch
-:   Art. 7 G v. 10.8.2021 I 3424
+Neugefasst durch
+:   Bek. v. 15.3.2022 I 610;
 
-Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 30 G v. 8.10.2023 I Nr. 272
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -28,8 +30,10 @@ Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
 
 (1) Die Vergütung (Gebühren und Auslagen) für anwaltliche Tätigkeiten
 der Rechtsanwältinnen und Rechtsanwälte bemisst sich nach diesem
-Gesetz. Dies gilt auch für eine Tätigkeit als Prozesspfleger nach den
-§§ 57 und 58 der Zivilprozessordnung. Andere Mitglieder einer
+Gesetz. Dies gilt auch für eine Tätigkeit als besonderer Vertreter
+nach den §§ 57 und 58 der Zivilprozessordnung, nach § 118e der
+Bundesrechtsanwaltsordnung, nach § 103b der Patentanwaltsordnung oder
+nach § 111c des Steuerberatungsgesetzes. Andere Mitglieder einer
 Rechtsanwaltskammer, Partnerschaftsgesellschaften und sonstige
 Gesellschaften stehen einem Rechtsanwalt im Sinne dieses Gesetzes
 gleich.
@@ -42,8 +46,8 @@ Testamentsvollstrecker, Insolvenzverwalter, Sachwalter, Mitglied des
 Gläubigerausschusses, Restrukturierungsbeauftragter,
 Sanierungsmoderator, Mitglied des Gläubigerbeirats, Nachlassverwalter,
 Zwangsverwalter, Treuhänder oder Schiedsrichter oder für eine ähnliche
-Tätigkeit. § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs bleibt
-unberührt.
+Tätigkeit. § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs und § 4 Absatz
+2 des Vormünder- und Betreuervergütungsgesetzes bleiben unberührt.
 
 (3) Die Vorschriften dieses Gesetzes über die Erinnerung und die
 Beschwerde gehen den Regelungen der für das zugrunde liegende
@@ -96,7 +100,7 @@ Ist die Festsetzung der Vergütung dem Ermessen eines Vertragsteils
 überlassen, so gilt die gesetzliche Vergütung als vereinbart.
 
 (3) Ist eine vereinbarte, eine nach Absatz 2 Satz 1 von dem Vorstand
-der Rechtsanwaltskammer festgesetzte oder eine nach § 4a für den
+der Rechtsanwaltskammer festgesetzte oder eine nach § 4a für den
 Erfolgsfall vereinbarte Vergütung unter Berücksichtigung aller
 Umstände unangemessen hoch, kann sie im Rechtsstreit auf den
 angemessenen Betrag bis zur Höhe der gesetzlichen Vergütung
@@ -119,14 +123,14 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 gesetzliche Vergütung vereinbart werden. Sie muss in einem
 angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko
 des Rechtsanwalts stehen. Ist Gegenstand der außergerichtlichen
-Angelegenheit eine Inkassodienstleistung (§ 2 Absatz 2 Satz 1 des
+Angelegenheit eine Inkassodienstleistung (§ 2 Absatz 2 Satz 1 des
 Rechtsdienstleistungsgesetzes) oder liegen die Voraussetzungen für die
 Bewilligung von Beratungshilfe vor, gilt Satz 2 nicht und kann der
 Rechtsanwalt ganz auf eine Vergütung verzichten. § 9 des
 Beratungshilfegesetzes bleibt unberührt.
 
 (2) Ist Gegenstand der Angelegenheit eine Inkassodienstleistung in
-einem der in § 79 Absatz 2 Satz 2 Nummer 4 der Zivilprozessordnung
+einem der in § 79 Absatz 2 Satz 2 Nummer 4 der Zivilprozessordnung
 genannten Verfahren, kann eine niedrigere als die gesetzliche
 Vergütung vereinbart werden oder kann der Rechtsanwalt ganz auf eine
 Vergütung verzichten.
@@ -134,7 +138,7 @@ Vergütung verzichten.
 
 ### § 4a Erfolgshonorar
 
-(1) Ein Erfolgshonorar (§ 49b Absatz 2 Satz 1 der
+(1) Ein Erfolgshonorar (§ 49b Absatz 2 Satz 1 der
 Bundesrechtsanwaltsordnung) darf nur vereinbart werden, wenn
 
 1.  sich der Auftrag auf eine Geldforderung von höchstens 2 000 Euro
@@ -192,7 +196,7 @@ gesetzliche Vergütung vereinbart wird.
 ### § 4b Fehlerhafte Vergütungsvereinbarung
 
 Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 3a
-Abs. 1 Satz 1 und 2 oder des § 4a Absatz 1 und 3 Nummer 1 und 4
+Absatz 1 Satz 1 und 2 oder des § 4a Absatz 1 und 3 Nummer 1 und 4
 entspricht, kann der Rechtsanwalt keine höhere als die gesetzliche
 Vergütung fordern. Die Vorschriften des bürgerlichen Rechts über die
 ungerechtfertigte Bereicherung bleiben unberührt.
@@ -284,7 +288,7 @@ Getilgte Beträge sind abzusetzen.
 (2) Der Antrag ist erst zulässig, wenn die Vergütung fällig ist. Vor
 der Festsetzung sind die Beteiligten zu hören. Die Vorschriften der
 jeweiligen Verfahrensordnung über das Kostenfestsetzungsverfahren mit
-Ausnahme des § 104 Abs. 2 Satz 3 der Zivilprozessordnung und die
+Ausnahme des § 104 Absatz 2 Satz 3 der Zivilprozessordnung und die
 Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung aus
 Kostenfestsetzungsbeschlüssen gelten entsprechend. Das Verfahren vor
 dem Gericht des ersten Rechtszugs ist gebührenfrei. In den
@@ -301,7 +305,7 @@ im Kostenfestsetzungsverfahren gelten entsprechend.
 
 (4) Wird der vom Rechtsanwalt angegebene Gegenstandswert von einem
 Beteiligten bestritten, ist das Verfahren auszusetzen, bis das Gericht
-hierüber entschieden hat (§§ 32, 33 und 38 Abs. 1).
+hierüber entschieden hat (§§ 32, 33 und 38 Absatz 1).
 
 (5) Die Festsetzung ist abzulehnen, soweit der Antragsgegner
 Einwendungen oder Einreden erhebt, die nicht im Gebührenrecht ihren
@@ -359,9 +363,9 @@ seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
 dritten Tage nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 33
-Abs. 7 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene
-Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nr. 2
-genannten Voraussetzungen darlegen.
+Absatz 7 Satz 1 und 2 gilt entsprechend. Die Rüge muss die
+angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1
+Nummer 2 genannten Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur
 Stellungnahme zu geben.
@@ -409,15 +413,15 @@ erhöht sich bei einem
 
 *    *   Gegen-
         standswert
-        bis … Euro
+        bis ... Euro
 
     *   für jeden
         angefangenen
         Betrag von
-        weiteren … Euro
+        weiteren ... Euro
 
     *   um
-        … Euro
+        ... Euro
 
 
 *    *   2 000
@@ -611,7 +615,7 @@ Dieselbe Angelegenheit sind
     Abänderung, Aufhebung oder Widerruf;
 
 
-6.  das Verfahren nach § 3 Abs. 1 des Gesetzes zur Ausführung des
+6.  das Verfahren nach § 3 Absatz 1 des Gesetzes zur Ausführung des
     Vertrages zwischen der Bundesrepublik Deutschland und der Republik
     Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und
     Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und
@@ -619,7 +623,7 @@ Dieselbe Angelegenheit sind
     Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten
     bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27.
     Juli 2001 (BGBl. I S. 1887) geändert worden ist, und das Verfahren
-    nach § 3 Abs. 2 des genannten Gesetzes;
+    nach § 3 Absatz 2 des genannten Gesetzes;
 
 
 7.  das Verfahren über die Zulassung der Vollziehung einer vorläufigen
@@ -636,11 +640,11 @@ Dieselbe Angelegenheit sind
 
 
 9.  das Verfahren vor dem Schiedsgericht und die gerichtlichen Verfahren
-    über die Bestimmung einer Frist (§ 102 Abs. 3 des
-    Arbeitsgerichtsgesetzes), die Ablehnung eines Schiedsrichters (§ 103
-    Abs. 3 des Arbeitsgerichtsgesetzes) oder die Vornahme einer
-    Beweisaufnahme oder einer Vereidigung (§ 106 Abs. 2 des
-    Arbeitsgerichtsgesetzes);
+    über die Bestimmung einer Frist (§ 102 Absatz 3 des
+    Arbeitsgerichtsgesetzes), die Ablehnung eines Schiedsrichters
+    (§ 103                    Absatz 3 des Arbeitsgerichtsgesetzes) oder
+    die Vornahme einer Beweisaufnahme oder einer Vereidigung (§ 106 Absatz
+    2 des Arbeitsgerichtsgesetzes);
 
 
 10. im Kostenfestsetzungsverfahren und im Verfahren über den Antrag auf
@@ -669,7 +673,7 @@ Dieselbe Angelegenheit sind
 
 
 12. das Verfahren über die Privatklage und die Widerklage und zwar auch im
-    Fall des § 388 Abs. 2 der Strafprozessordnung und
+    Fall des § 388 Absatz 2 der Strafprozessordnung und
 
 
 13. das erstinstanzliche Prozessverfahren und der erste Rechtszug des
@@ -732,6 +736,11 @@ Verschiedene Angelegenheiten sind
     Zivilprozessordnung),
 
 
+5a. jeweils das Abhilfeverfahren, das Verfahren über die Erhöhung des
+    kollektiven Gesamtbetrags und das Umsetzungsverfahren nach dem
+    Verbraucherrechtedurchsetzungsgesetz,
+
+
 6.  das Schiedsverfahren und das Verfahren über die Zulassung der
     Vollziehung einer vorläufigen oder sichernden Maßnahme sowie das
     Verfahren über einen Antrag auf Aufhebung oder Änderung einer
@@ -742,14 +751,14 @@ Verschiedene Angelegenheiten sind
 7.  das gerichtliche Verfahren und ein vorausgegangenes
 
     a)  Güteverfahren vor einer durch die Landesjustizverwaltung
-        eingerichteten oder anerkannten Gütestelle (§ 794 Abs. 1 Nr. 1 der
-        Zivilprozessordnung) oder, wenn die Parteien den Einigungsversuch
+        eingerichteten oder anerkannten Gütestelle (§ 794 Absatz 1 Nummer 1
+        der Zivilprozessordnung) oder, wenn die Parteien den Einigungsversuch
         einvernehmlich unternehmen, vor einer Gütestelle, die Streitbeilegung
-        betreibt (§ 15a Abs. 3 des Einführungsgesetzes zur
+        betreibt (§ 15a Absatz 3 des Einführungsgesetzes zur
         Zivilprozessordnung),
 
 
-    b)  Verfahren vor einem Ausschuss der in § 111 Abs. 2 des
+    b)  Verfahren vor einem Ausschuss der in § 111 Absatz 2 des
         Arbeitsgerichtsgesetzes bezeichneten Art,
 
 
@@ -764,7 +773,7 @@ Verschiedene Angelegenheiten sind
 
 
 
-8.  das Vermittlungsverfahren nach § 165 des Gesetzes über das Verfahren
+8.  das Vermittlungsverfahren nach § 165 des Gesetzes über das Verfahren
     in Familiensachen und in den Angelegenheiten der freiwilligen
     Gerichtsbarkeit und ein sich anschließendes gerichtliches Verfahren,
 
@@ -836,8 +845,10 @@ Verschiedene Angelegenheiten sind
 6.  jedes Verfahren über Anträge nach den §§ 765a, 851a oder 851b der
     Zivilprozessordnung und jedes Verfahren über Anträge auf Änderung oder
     Aufhebung der getroffenen Anordnungen, jedes Verfahren über Anträge
-    nach § 1084 Absatz 1, § 1096 oder § 1109 der Zivilprozessordnung und
-    über Anträge nach § 31 des Auslandsunterhaltsgesetzes;
+    nach § 1084 Absatz 1, § 1096 oder § 1109 der Zivilprozessordnung,
+    jedes Verfahren über Anträge auf Aussetzung der Vollstreckung nach §
+    44f des Internationalen Familienrechtsverfahrensgesetzes und über
+    Anträge nach § 31 des Auslandsunterhaltsgesetzes;
 
 
 7.  das Verfahren auf Zulassung der Austauschpfändung (§ 811a der
@@ -848,11 +859,11 @@ Verschiedene Angelegenheiten sind
 
 
 9.  die Ausführung der Zwangsvollstreckung in ein gepfändetes
-    Vermögensrecht durch Verwaltung (§ 857 Abs. 4 der
+    Vermögensrecht durch Verwaltung (§ 857 Absatz 4 der
     Zivilprozessordnung);
 
 
-10. das Verteilungsverfahren (§ 858 Abs. 5, §§ 872 bis 877, 882 der
+10. das Verteilungsverfahren (§ 858 Absatz 5, §§ 872 bis 877, 882 der
     Zivilprozessordnung);
 
 
@@ -862,19 +873,19 @@ Verschiedene Angelegenheiten sind
 
 12. die Vollstreckung der Entscheidung, durch die der Schuldner zur
     Vorauszahlung der Kosten, die durch die Vornahme einer Handlung
-    entstehen, verurteilt wird (§ 887 Abs. 2 der Zivilprozessordnung);
+    entstehen, verurteilt wird (§ 887 Absatz 2 der Zivilprozessordnung);
 
 
 13. das Verfahren zur Ausführung der Zwangsvollstreckung auf Vornahme
     einer Handlung durch Zwangsmittel (§ 888 der Zivilprozessordnung);
 
 
-14. jede Verurteilung zu einem Ordnungsgeld gemäß § 890 Abs. 1 der
+14. jede Verurteilung zu einem Ordnungsgeld gemäß § 890 Absatz 1 der
     Zivilprozessordnung;
 
 
 15. die Verurteilung zur Bestellung einer Sicherheit im Fall des § 890
-    Abs. 3 der Zivilprozessordnung;
+    Absatz 3 der Zivilprozessordnung;
 
 
 16. das Verfahren zur Abnahme der Vermögensauskunft (§§ 802f und 802g der
@@ -889,11 +900,11 @@ Verschiedene Angelegenheiten sind
 
 
 19. das Verfahren über Anträge auf Zulassung der Zwangsvollstreckung nach
-    § 17 Abs. 4 der Schifffahrtsrechtlichen Verteilungsordnung;
+    § 17 Absatz 4 der Schifffahrtsrechtlichen Verteilungsordnung;
 
 
 20. das Verfahren über Anträge auf Aufhebung von Vollstreckungsmaßregeln
-    (§ 8 Abs. 5 und § 41 der Schifffahrtsrechtlichen Verteilungsordnung)
+    (§ 8 Absatz 5 und § 41 der Schifffahrtsrechtlichen Verteilungsordnung)
     und
 
 
@@ -932,8 +943,8 @@ gehören insbesondere
 
 
 1a. die Einreichung von Schutzschriften und die Anmeldung von Ansprüchen
-    oder Rechtsverhältnissen zum Klageregister für
-    Musterfeststellungsklagen sowie die Rücknahme der Anmeldung;
+    oder Rechtsverhältnissen zum Verbandsklageregister sowie die Rücknahme
+    der Anmeldung;
 
 
 1b. die Verkündung des Streits (§ 72 der Zivilprozessordnung);
@@ -1008,10 +1019,11 @@ gehören insbesondere
     a)  § 1079 oder § 1110 der Zivilprozessordnung,
 
 
-    b)  § 48 des Internationalen Familienrechtsverfahrensgesetzes,
+    b)  § 39 Absatz 1 und § 48 des Internationalen
+        Familienrechtsverfahrensgesetzes,
 
 
-    c)  § 57 oder § 58 des Anerkennungs- und
+    c)  § 57, § 58 oder § 59 des Anerkennungs- und
         Vollstreckungsausführungsgesetzes,
 
 
@@ -1047,8 +1059,8 @@ gehören insbesondere
 
 
 12. die einstweilige Einstellung oder Beschränkung der Vollstreckung und
-    die Anordnung, dass Vollstreckungsmaßnahmen aufzuheben sind (§ 93 Abs.
-    1 des Gesetzes über das Verfahren in Familiensachen und in den
+    die Anordnung, dass Vollstreckungsmaßnahmen aufzuheben sind (§ 93
+    Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den
     Angelegenheiten der freiwilligen Gerichtsbarkeit), wenn nicht ein
     besonderer gerichtlicher Termin hierüber stattfindet;
 
@@ -1074,21 +1086,22 @@ gehören insbesondere
 
 
 
-(2) Zu den in § 18 Abs. 1 Nr. 1 und 2 genannten Verfahren gehören
+(2) Zu den in § 18 Absatz 1 Nummer 1 und 2 genannten Verfahren gehören
 ferner insbesondere
 
 1.  gerichtliche Anordnungen nach § 758a der Zivilprozessordnung sowie
-    Beschlüsse nach den §§ 90 und 91 Abs. 1 des Gesetzes über das
-    Verfahren in Familiensachen und in den Angelegenheiten der
-    freiwilligen Gerichtsbarkeit,
+    Beschlüsse
+    nach §§ 90 und 91 Absatz 1 des Gesetzes über das Verfahren in
+    Familiensachen und in den Angelegenheiten der freiwilligen
+    Gerichtsbarkeit                   ,
 
 
 2.  die Erinnerung nach § 766 der Zivilprozessordnung,
 
 
-3.  die Bestimmung eines Gerichtsvollziehers (§ 827 Abs. 1 und § 854 Abs.
-    1 der Zivilprozessordnung) oder eines Sequesters (§§ 848 und 855 der
-    Zivilprozessordnung),
+3.  die Bestimmung eines Gerichtsvollziehers (§ 827 Absatz 1 und § 854
+    Absatz 1 der Zivilprozessordnung) oder eines Sequesters (§§ 848 und
+    855 der Zivilprozessordnung),
 
 
 4.  die Anzeige der Absicht, die Zwangsvollstreckung gegen eine
@@ -1159,7 +1172,7 @@ anzuwenden, wenn für das Verfahren keine Gerichtsgebühr oder eine
 Festgebühr bestimmt ist. Diese Wertvorschriften gelten auch
 entsprechend für die Tätigkeit außerhalb eines gerichtlichen
 Verfahrens, wenn der Gegenstand der Tätigkeit auch Gegenstand eines
-gerichtlichen Verfahrens sein könnte. § 22 Abs. 2 Satz 2 bleibt
+gerichtlichen Verfahrens sein könnte. § 22 Absatz 2 Satz 2 bleibt
 unberührt.
 
 (2) In Beschwerdeverfahren, in denen Gerichtsgebühren unabhängig vom
@@ -1175,7 +1188,7 @@ Vorschriften.
 (3) Soweit sich aus diesem Gesetz nichts anderes ergibt, gelten in
 anderen Angelegenheiten für den Gegenstandswert die
 Bewertungsvorschriften des Gerichts- und Notarkostengesetzes und die
-§§ 37, 38, 42 bis 45 sowie 99 bis 102 des Gerichts- und
+§§ 37, 38, 42 bis 45 sowie 99 bis 102 des Gerichts- und
 Notarkostengesetzes entsprechend. Soweit sich der Gegenstandswert aus
 diesen Vorschriften nicht ergibt und auch sonst nicht feststeht, ist
 er nach billigem Ermessen zu bestimmen; in Ermangelung genügender
@@ -1188,7 +1201,7 @@ nichtvermögensrechtlichen Gegenständen ist der Gegenstandswert mit
 ### § 23a Gegenstandswert im Verfahren über die Prozesskostenhilfe
 
 (1) Im Verfahren über die Bewilligung der Prozesskostenhilfe oder die
-Aufhebung der Bewilligung nach § 124 Absatz 1 Nummer 1 der
+Aufhebung der Bewilligung nach § 124 Absatz 1 Nummer 1 der
 Zivilprozessordnung bestimmt sich der Gegenstandswert nach dem für die
 Hauptsache maßgebenden Wert; im Übrigen ist er nach dem
 Kosteninteresse nach billigem Ermessen zu bestimmen.
@@ -1204,6 +1217,14 @@ Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 bestimmt sich der Gegenstandswert nach der Höhe des von dem
 Auftraggeber oder gegen diesen im Ausgangsverfahren geltend gemachten
 Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
+
+
+### § 23c Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+
+Der Gegenstandswert im Umsetzungsverfahren nach dem
+Verbraucherrechtedurchsetzungsgesetz ist unter Berücksichtigung des
+wirtschaftlichen Interesses, das der Auftraggeber im Verfahren
+verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 
 ### § 24 Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
@@ -1223,12 +1244,12 @@ einstweiligen Verfügung bestimmt sich der Gegenstandswert
     der Nebenforderungen; soll ein bestimmter Gegenstand gepfändet werden
     und hat dieser einen geringeren Wert, ist der geringere Wert
     maßgebend; wird künftig fällig werdendes Arbeitseinkommen nach § 850d
-    Abs. 3 der Zivilprozessordnung gepfändet, sind die noch nicht fälligen
-    Ansprüche nach § 51 Abs. 1 Satz 1 des Gesetzes über Gerichtskosten in
-    Familiensachen und § 9 der Zivilprozessordnung zu bewerten; im
-    Verteilungsverfahren (§ 858 Abs. 5, §§ 872 bis 877 und 882 der
-    Zivilprozessordnung) ist höchstens der zu verteilende Geldbetrag
-    maßgebend;
+    Absatz 3 der Zivilprozessordnung gepfändet, sind die noch nicht
+    fälligen Ansprüche nach § 51 Absatz 1 Satz 1 des Gesetzes über
+    Gerichtskosten in Familiensachen und § 9 der Zivilprozessordnung zu
+    bewerten; im Verteilungsverfahren (§ 858 Absatz 5, §§ 872 bis 877 und
+    882 der Zivilprozessordnung) ist höchstens der zu verteilende
+    Geldbetrag maßgebend;
 
 
 2.  nach dem Wert der herauszugebenden oder zu leistenden Sachen; der
@@ -1243,7 +1264,7 @@ einstweiligen Verfügung bestimmt sich der Gegenstandswert
 
 4.  in Verfahren über die Erteilung der Vermögensauskunft (§ 802c der
     Zivilprozessordnung) sowie in Verfahren über die Einholung von
-    Auskünften Dritter über das Vermögen des Schuldners (§ 802l der
+    Auskünften Dritter über das Vermögen des Schuldners (§ 802l der
     Zivilprozessordnung) nach dem Betrag, der einschließlich der
     Nebenforderungen aus dem Vollstreckungstitel noch geschuldet wird; der
     Wert beträgt jedoch höchstens 2 000 Euro.
@@ -1259,15 +1280,15 @@ Interesse des Antragstellers nach billigem Ermessen zu bestimmen.
 
 In der Zwangsversteigerung bestimmt sich der Gegenstandswert
 
-1.  bei der Vertretung des Gläubigers oder eines anderen nach § 9 Nr. 1
+1.  bei der Vertretung des Gläubigers oder eines anderen nach § 9 Nummer 1
     und 2 des Gesetzes über die Zwangsversteigerung und die
     Zwangsverwaltung Beteiligten nach dem Wert des dem Gläubiger oder dem
     Beteiligten zustehenden Rechts; wird das Verfahren wegen einer
     Teilforderung betrieben, ist der Teilbetrag nur maßgebend, wenn es
-    sich um einen nach § 10 Abs. 1 Nr. 5 des Gesetzes über die
+    sich um einen nach § 10 Absatz 1 Nummer 5 des Gesetzes über die
     Zwangsversteigerung und die Zwangsverwaltung zu befriedigenden
     Anspruch handelt; Nebenforderungen sind mitzurechnen; der Wert des
-    Gegenstands der Zwangsversteigerung (§ 66 Abs. 1, § 74a Abs. 5 des
+    Gegenstands der Zwangsversteigerung (§ 66 Absatz 1, § 74a Absatz 5 des
     Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung), im
     Verteilungsverfahren der zur Verteilung kommende Erlös, sind
     maßgebend, wenn sie geringer sind;
@@ -1298,7 +1319,7 @@ Ansprüchen auf wiederkehrende Leistungen ist der Wert der Leistungen
 eines Jahres maßgebend. Bei der Vertretung des Schuldners bestimmt
 sich der Gegenstandswert nach dem zusammengerechneten Wert aller
 Ansprüche, wegen derer das Verfahren beantragt ist, bei der Vertretung
-eines sonstigen Beteiligten nach § 23 Abs. 3 Satz 2.
+eines sonstigen Beteiligten nach § 23 Absatz 3 Satz 2.
 
 
 ### § 28 Gegenstandswert im Insolvenzverfahren
@@ -1306,10 +1327,10 @@ eines sonstigen Beteiligten nach § 23 Abs. 3 Satz 2.
 (1) Die Gebühren der Nummern 3313, 3317 sowie im Fall der Beschwerde
 gegen den Beschluss über die Eröffnung des Insolvenzverfahrens der
 Nummern 3500 und 3513 des Vergütungsverzeichnisses werden, wenn der
-Auftrag vom Schuldner erteilt ist, nach dem Wert der Insolvenzmasse (§
-58 des Gerichtskostengesetzes) berechnet. Im Fall der Nummer 3313 des
-Vergütungsverzeichnisses beträgt der Gegenstandswert jedoch mindestens
-4000 Euro.
+Auftrag vom Schuldner erteilt ist, nach dem Wert der Insolvenzmasse
+(§ 58 des Gerichtskostengesetzes) berechnet. Im Fall der Nummer 3313
+des Vergütungsverzeichnisses beträgt der Gegenstandswert jedoch
+mindestens 4 000 Euro.
 
 (2) Ist der Auftrag von einem Insolvenzgläubiger erteilt, werden die
 in Absatz 1 genannten Gebühren und die Gebühr nach Nummer 3314 nach
@@ -1318,7 +1339,7 @@ mitzurechnen.
 
 (3) Im Übrigen ist der Gegenstandswert im Insolvenzverfahren unter
 Berücksichtigung des wirtschaftlichen Interesses, das der Auftraggeber
-im Verfahren verfolgt, nach § 23 Abs. 3 Satz 2 zu bestimmen.
+im Verfahren verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 
 ### § 29 Gegenstandswert im Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
@@ -1339,11 +1360,11 @@ verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 ### § 30 Gegenstandswert in gerichtlichen Verfahren nach dem Asylgesetz
 
 (1) In Klageverfahren nach dem Asylgesetz beträgt der Gegenstandswert
-5 000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro.
-Sind mehrere natürliche Personen an demselben Verfahren beteiligt,
-erhöht sich der Wert für jede weitere Person in Klageverfahren um
-1 000 Euro und in Verfahren des vorläufigen Rechtsschutzes um 500
-Euro.
+5 000 Euro, in den Fällen des § 77 Absatz 4 Satz 1 des Asylgesetzes 10
+000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro. Sind
+mehrere natürliche Personen an demselben Verfahren beteiligt, erhöht
+sich der Wert für jede weitere Person in Klageverfahren um 1 000 Euro
+und in Verfahren des vorläufigen Rechtsschutzes um 500 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen
 des Einzelfalls unbillig, kann das Gericht einen höheren oder einen
@@ -1362,7 +1383,7 @@ der auf die einzelnen Antragsteller entfallenden Anzahl der Anteile
 ist der jeweilige Zeitpunkt der Antragstellung. Ist die Anzahl der auf
 einen Antragsteller entfallenden Anteile nicht gerichtsbekannt, wird
 vermutet, dass er lediglich einen Anteil hält. Der Wert beträgt
-mindestens 5.000 Euro.
+mindestens 5 000 Euro.
 
 (2) Wird der Rechtsanwalt von mehreren Antragstellern beauftragt, sind
 die auf die einzelnen Antragsteller entfallenden Werte
@@ -1375,8 +1396,8 @@ insoweit nicht anzuwenden.
 Vertritt der Rechtsanwalt im Ausschlussverfahren nach § 39b des
 Wertpapiererwerbs- und Übernahmegesetzes einen Antragsgegner, bestimmt
 sich der Gegenstandswert nach dem Wert der Aktien, die dem
-Auftraggeber im Zeitpunkt der Antragstellung gehören. § 31 Abs. 1 Satz
-2 bis 4 und Abs. 2 gilt entsprechend.
+Auftraggeber im Zeitpunkt der Antragstellung gehören. § 31 Absatz 1
+Satz 2 bis 4 und Absatz 2 gilt entsprechend.
 
 
 ### § 31b Gegenstandswert bei Zahlungsvereinbarungen
@@ -1422,7 +1443,7 @@ von zwei Wochen nach Zustellung der Entscheidung eingelegt wird.
 (4) Soweit das Gericht die Beschwerde für zulässig und begründet hält,
 hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem
 Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere
-Gericht, in Zivilsachen der in § 119 Abs. 1 Nr. 1 des
+Gericht, in Zivilsachen der in § 119 Absatz 1 Nummer 1 des
 Gerichtsverfassungsgesetzes bezeichneten Art jedoch das
 Oberlandesgericht. Eine Beschwerde an einen obersten Gerichtshof des
 Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung
@@ -1490,7 +1511,7 @@ Vereinbarung getroffen worden ist, erhält der Rechtsanwalt Gebühren
 nach den Vorschriften des bürgerlichen Rechts. Ist im Fall des Satzes
 2 der Auftraggeber Verbraucher, beträgt die Gebühr für die Beratung
 oder für die Ausarbeitung eines schriftlichen Gutachtens jeweils
-höchstens 250 Euro; § 14 Abs. 1 gilt entsprechend; für ein erstes
+höchstens 250 Euro; § 14 Absatz 1 gilt entsprechend; für ein erstes
 Beratungsgespräch beträgt die Gebühr jedoch höchstens 190 Euro.
 
 (2) Wenn nichts anderes vereinbart ist, ist die Gebühr für die
@@ -1523,12 +1544,12 @@ die folgenden außergerichtlichen Verfahren entsprechend anzuwenden:
 1.  schiedsrichterliche Verfahren nach Buch 10 der Zivilprozessordnung und
 
 
-2.  Verfahren vor dem Schiedsgericht (§ 104 des Arbeitsgerichtsgesetzes).
+2.  Verfahren vor dem Schiedsgericht (§ 104 des Arbeitsgerichtsgesetzes).
 
 
 
 
-(2) Im Verfahren nach Absatz 1 Nr. 1 erhält der Rechtsanwalt die
+(2) Im Verfahren nach Absatz 1 Nummer 1 erhält der Rechtsanwalt die
 Terminsgebühr auch, wenn der Schiedsspruch ohne mündliche Verhandlung
 erlassen wird.
 
@@ -1566,9 +1587,9 @@ Landes:
 (2) In sonstigen Verfahren vor dem Bundesverfassungsgericht oder dem
 Verfassungsgericht eines Landes gelten die Vorschriften in Teil 3
 Abschnitt 2 Unterabschnitt 2 des Vergütungsverzeichnisses
-entsprechend. Der Gegenstandswert ist unter Berücksichtigung der in §
-14 Abs. 1 genannten Umstände nach billigem Ermessen zu bestimmen; er
-beträgt mindestens 5 000 Euro.
+entsprechend. Der Gegenstandswert ist unter Berücksichtigung der in
+§ 14 Absatz 1 genannten Umstände nach billigem Ermessen zu bestimmen;
+er beträgt mindestens 5 000 Euro.
 
 
 ### § 38 Verfahren vor dem Gerichtshof der Europäischen Gemeinschaften
@@ -1579,7 +1600,7 @@ Abschnitt 2 Unterabschnitt 2 des Vergütungsverzeichnisses
 entsprechend. Der Gegenstandswert bestimmt sich nach den
 Wertvorschriften, die für die Gerichtsgebühren des Verfahrens gelten,
 in dem vorgelegt wird. Das vorlegende Gericht setzt den
-Gegenstandswert auf Antrag durch Beschluss fest. § 33 Abs. 2 bis 9
+Gegenstandswert auf Antrag durch Beschluss fest. § 33 Absatz 2 bis 9
 gilt entsprechend.
 
 (2) Ist in einem Verfahren, in dem sich die Gebühren nach Teil 4, 5
@@ -1621,18 +1642,20 @@ Rechtsanwalts und einen Vorschuss verlangen.
 
 ### § 40 Als gemeinsamer Vertreter bestellter Rechtsanwalt
 
-Der Rechtsanwalt kann von den Personen, für die er nach § 67a Abs. 1
+Der Rechtsanwalt kann von den Personen, für die er nach § 67a Absatz 1
 Satz 2 der Verwaltungsgerichtsordnung bestellt ist, die Vergütung
 eines von mehreren Auftraggebern zum Prozessbevollmächtigten
 bestellten Rechtsanwalts und einen Vorschuss verlangen.
 
 
-### § 41 Prozesspfleger
+### § 41 Besonderer Vertreter
 
-Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung dem
-Beklagten als Vertreter bestellt ist, kann von diesem die Vergütung
-eines zum Prozessbevollmächtigten bestellten Rechtsanwalts verlangen.
-Er kann von diesem keinen Vorschuss fordern. § 126 der
+Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung, §
+118e der Bundesrechtsanwaltsordnung, § 103b der Patentanwaltsordnung
+oder § 111c des Steuerberatungsgesetzes als besonderer Vertreter
+bestellt ist, kann von dem Vertretenen die Vergütung eines zum
+Prozessbevollmächtigten oder zum Verteidiger gewählten Rechtsanwalts
+verlangen. Er kann von diesem keinen Vorschuss fordern. § 126 der
 Zivilprozessordnung ist entsprechend anzuwenden.
 
 
@@ -1645,7 +1668,7 @@ bewilligen, wenn sein Aufwand im Vergleich zu dem Aufwand der
 Vertreter der beigeladenen Kläger höher ist. Bei der Bemessung der
 Gebühr sind der Mehraufwand sowie der Vorteil und die Bedeutung für
 die beigeladenen Kläger zu berücksichtigen. Die Gebühr darf eine
-Gebühr mit einem Gebührensatz von 0,3 nach § 13 Absatz 1 nicht
+Gebühr mit einem Gebührensatz von 0,3 nach § 13 Absatz 1 nicht
 überschreiten. Hierbei ist als Wert die Summe der in sämtlichen nach §
 8 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren
 geltend gemachten Ansprüche zugrunde zu legen, soweit diese Ansprüche
@@ -1703,11 +1726,11 @@ Antrag zuständig.
 (2) Der Antrag ist zulässig, wenn die Entscheidung über die Kosten des
 Verfahrens rechtskräftig ist. Der gerichtlich bestellte oder
 beigeordnete Rechtsanwalt kann den Antrag nur unter den
-Voraussetzungen des § 52 Abs. 1 Satz 1, Abs. 2, auch in Verbindung mit
-§ 53 Abs. 1, stellen. Der Auftraggeber, in den Fällen des § 52 Abs. 1
-Satz 1 der Beschuldigte, ferner die Staatskasse und andere Beteiligte,
-wenn ihnen die Kosten des Verfahrens ganz oder zum Teil auferlegt
-worden sind, sind zu hören.
+Voraussetzungen des § 52 Absatz 1 Satz 1, Absatz 2, auch in Verbindung
+mit § 53 Absatz 1, stellen. Der Auftraggeber, in den Fällen des § 52
+Absatz 1 Satz 1 der Beschuldigte, ferner die Staatskasse und andere
+Beteiligte, wenn ihnen die Kosten des Verfahrens ganz oder zum Teil
+auferlegt worden sind, sind zu hören.
 
 (3) Der Senat des Oberlandesgerichts ist mit einem Richter besetzt.
 Der Richter überträgt die Sache dem Senat in der Besetzung mit drei
@@ -1746,7 +1769,7 @@ vorliegt.
 
 Für die Tätigkeit im Rahmen der Beratungshilfe erhält der Rechtsanwalt
 eine Vergütung nach diesem Gesetz aus der Landeskasse, soweit nicht
-für die Tätigkeit in Beratungsstellen nach § 3 Abs. 1 des
+für die Tätigkeit in Beratungsstellen nach § 3 Absatz 1 des
 Beratungshilfegesetzes besondere Vereinbarungen getroffen sind. Die
 Beratungshilfegebühr (Nummer 2500 des Vergütungsverzeichnisses)
 schuldet nur der Rechtsuchende.
@@ -1754,19 +1777,19 @@ schuldet nur der Rechtsuchende.
 
 ### § 45 Vergütungsanspruch des beigeordneten oder bestellten Rechtsanwalts
 
-(1) Der im Wege der Prozesskostenhilfe beigeordnete oder nach § 57
-oder § 58 der Zivilprozessordnung zum Prozesspfleger bestellte
-Rechtsanwalt erhält, soweit in diesem Abschnitt nichts anderes
-bestimmt ist, die gesetzliche Vergütung in Verfahren vor Gerichten des
-Bundes aus der Bundeskasse, in Verfahren vor Gerichten eines Landes
-aus der Landeskasse.
+(1) Der im Wege der Prozesskostenhilfe beigeordnete oder zum
+besonderen Vertreter im Sinne des § 41 bestellte Rechtsanwalt erhält,
+soweit in diesem Abschnitt nichts anderes bestimmt ist, die
+gesetzliche Vergütung in Verfahren vor Gerichten des Bundes aus der
+Bundeskasse, in Verfahren vor Gerichten eines Landes aus der
+Landeskasse.
 
 (2) Der Rechtsanwalt, der nach § 138 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit, auch in Verbindung mit § 270 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit, nach § 109 Absatz 3 oder § 119a Absatz 6
-des Strafvollzugsgesetzes beigeordnet oder nach § 67a Abs. 1 Satz 2
+des Strafvollzugsgesetzes beigeordnet oder nach § 67a Absatz 1 Satz 2
 der Verwaltungsgerichtsordnung bestellt ist, kann eine Vergütung aus
 der Landeskasse verlangen, wenn der zur Zahlung Verpflichtete (§ 39
 oder § 40) mit der Zahlung der Vergütung im Verzug ist.
@@ -1785,10 +1808,11 @@ beigeordnet hat.
 
 (4) Wenn der Verteidiger von der Stellung eines Wiederaufnahmeantrags
 abrät, hat er einen Anspruch gegen die Staatskasse nur dann, wenn er
-nach § 364b Abs. 1 Satz 1 der Strafprozessordnung bestellt worden ist
-oder das Gericht die Feststellung nach § 364b Abs. 1 Satz 2 der
+nach § 364b Absatz 1 Satz 1 der Strafprozessordnung bestellt worden
+ist oder das Gericht die Feststellung nach § 364b Absatz 1 Satz 2 der
 Strafprozessordnung getroffen hat. Dies gilt auch im gerichtlichen
-Bußgeldverfahren (§ 85 Abs. 1 des Gesetzes über Ordnungswidrigkeiten).
+Bußgeldverfahren (§ 85 Absatz 1 des Gesetzes über
+Ordnungswidrigkeiten).
 
 (5) Absatz 3 ist im Bußgeldverfahren vor der Verwaltungsbehörde
 entsprechend anzuwenden. An die Stelle des Gerichts tritt die
@@ -1814,10 +1838,11 @@ und -entschädigungsgesetz zu zahlenden Beträge beschränkt.
 (3) Auslagen, die durch Nachforschungen zur Vorbereitung eines
 Wiederaufnahmeverfahrens entstehen, für das die Vorschriften der
 Strafprozessordnung gelten, werden nur vergütet, wenn der Rechtsanwalt
-nach § 364b Abs. 1 Satz 1 der Strafprozessordnung bestellt worden ist
-oder wenn das Gericht die Feststellung nach § 364b Abs. 1 Satz 2 der
-Strafprozessordnung getroffen hat. Dies gilt auch im gerichtlichen
-Bußgeldverfahren (§ 85 Abs. 1 des Gesetzes über Ordnungswidrigkeiten).
+nach § 364b Absatz 1 Satz 1 der Strafprozessordnung bestellt worden
+ist oder wenn das Gericht die Feststellung nach § 364b Absatz 1 Satz 2
+der Strafprozessordnung getroffen hat. Dies gilt auch im gerichtlichen
+Bußgeldverfahren (§ 85 Absatz 1 des Gesetzes über
+Ordnungswidrigkeiten).
 
 
 ### § 47 Vorschuss
@@ -1826,12 +1851,12 @@ Bußgeldverfahren (§ 85 Abs. 1 des Gesetzes über Ordnungswidrigkeiten).
 die Staatskasse zusteht, kann er für die entstandenen Gebühren und die
 entstandenen und voraussichtlich entstehenden Auslagen aus der
 Staatskasse einen angemessenen Vorschuss fordern. Der Rechtsanwalt,
-der nach § 138 des Gesetzes über das Verfahren in Familiensachen und
+der nach § 138 des Gesetzes über das Verfahren in Familiensachen und
 in den Angelegenheiten der freiwilligen Gerichtsbarkeit, auch in
 Verbindung mit § 270 des Gesetzes über das Verfahren in Familiensachen
-und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, nach §
-109 Absatz 3 oder § 119a Absatz 6 des Strafvollzugsgesetzes
-beigeordnet oder nach § 67a Abs. 1 Satz 2 der
+und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, nach
+§ 109 Absatz 3 oder § 119a Absatz 6 des Strafvollzugsgesetzes
+beigeordnet oder nach § 67a Absatz 1 Satz 2 der
 Verwaltungsgerichtsordnung bestellt ist, kann einen Vorschuss nur
 verlangen, wenn der zur Zahlung Verpflichtete (§ 39 oder § 40) mit der
 Zahlung des Vorschusses im Verzug ist.
@@ -1894,9 +1919,9 @@ erforderlichen Tätigkeiten, soweit der Vertrag
 
 
 betrifft. Satz 1 gilt im Fall der Beiordnung in
-Lebenspartnerschaftssachen nach § 269 Abs. 1 Nr. 1 und 2 des Gesetzes
-über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend.
+Lebenspartnerschaftssachen nach § 269 Absatz 1 Nummer 1 und 2 des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 (4) Die Beiordnung in Angelegenheiten, in denen nach § 3 Absatz 1
 Betragsrahmengebühren entstehen, erstreckt sich auf Tätigkeiten ab dem
@@ -1923,9 +1948,9 @@ ausdrücklich auch hierfür beigeordnet ist. Dies gilt insbesondere für
 
 4.  das Verfahren über die Widerklage oder den Widerantrag, ausgenommen
     die Rechtsverteidigung gegen den Widerantrag in Ehesachen und in
-    Lebenspartnerschaftssachen nach § 269 Abs. 1 Nr. 1 und 2 des Gesetzes
-    über das Verfahren in Familiensachen und in den Angelegenheiten der
-    freiwilligen Gerichtsbarkeit.
+    Lebenspartnerschaftssachen nach § 269 Absatz 1 Nummer 1 und 2 des
+    Gesetzes über das Verfahren in Familiensachen und in den
+    Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 
@@ -1948,7 +1973,7 @@ Bestellung erfolgt war.
 ### § 49 Wertgebühren aus der Staatskasse
 
 Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem
-Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13
+Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13
 Absatz 1 folgende Gebühren vergütet:
 
 *    *   Gegenstands-
@@ -2107,12 +2132,12 @@ zugemutet werden kann, die Festsetzung der Pauschgebühr abzuwarten.
 
 (2) Über die Anträge entscheidet das Oberlandesgericht, zu dessen
 Bezirk das Gericht des ersten Rechtszugs gehört, und im Fall der
-Beiordnung einer Kontaktperson (§ 34a des Einführungsgesetzes zum
+Beiordnung einer Kontaktperson (§ 34a des Einführungsgesetzes zum
 Gerichtsverfassungsgesetz) das Oberlandesgericht, in dessen Bezirk die
 Justizvollzugsanstalt liegt, durch unanfechtbaren Beschluss. Der
 Bundesgerichtshof ist für die Entscheidung zuständig, soweit er den
 Rechtsanwalt bestellt hat. In dem Verfahren ist die Staatskasse zu
-hören. § 42 Abs. 3 ist entsprechend anzuwenden.
+hören. § 42 Absatz 3 ist entsprechend anzuwenden.
 
 (3) Absatz 1 gilt im Bußgeldverfahren vor der Verwaltungsbehörde
 entsprechend. Über den Antrag nach Absatz 1 Satz 1 bis 3 entscheidet
@@ -2138,7 +2163,7 @@ bestellt hat.
 
 (3) Wird ein Antrag nach Absatz 2 Satz 1 gestellt, setzt das Gericht
 dem Beschuldigten eine Frist zur Darlegung seiner persönlichen und
-wirtschaftlichen Verhältnisse; § 117 Abs. 2 bis 4 der
+wirtschaftlichen Verhältnisse; § 117 Absatz 2 bis 4 der
 Zivilprozessordnung gilt entsprechend. Gibt der Beschuldigte innerhalb
 der Frist keine Erklärung ab, wird vermutet, dass er leistungsfähig im
 Sinne des Absatzes 2 Satz 1 ist.
@@ -2146,8 +2171,8 @@ Sinne des Absatzes 2 Satz 1 ist.
 (4) Gegen den Beschluss nach Absatz 2 ist die sofortige Beschwerde
 nach den Vorschriften der §§ 304 bis 311a der Strafprozessordnung
 zulässig. Dabei steht im Rahmen des § 44 Satz 2 der
-Strafprozessordnung die Rechtsbehelfsbelehrung des § 12c der Belehrung
-nach § 35a Satz 1 der Strafprozessordnung gleich.
+Strafprozessordnung die Rechtsbehelfsbelehrung des § 12c der Belehrung
+nach § 35a Satz 1 der Strafprozessordnung gleich.
 
 (5) Der für den Beginn der Verjährung maßgebende Zeitpunkt tritt mit
 der Rechtskraft der das Verfahren abschließenden gerichtlichen
@@ -2167,7 +2192,7 @@ Gerichts die Verwaltungsbehörde.
 Antragsteller im Klageerzwingungsverfahren oder des sonst in
 Angelegenheiten, in denen sich die Gebühren nach Teil 4, 5 oder 6 des
 Vergütungsverzeichnisses bestimmen, beigeordneten Rechtsanwalts gegen
-seinen Auftraggeber gilt § 52 entsprechend.
+seinen Auftraggeber gilt § 52 entsprechend.
 
 (2) Der dem Nebenkläger, dem nebenklageberechtigten Verletzten oder
 dem Zeugen als Beistand bestellte Rechtsanwalt kann die Gebühren eines
@@ -2230,7 +2255,7 @@ Festsetzung durch den Urkundsbeamten der Geschäftsstelle des
 Landgerichts, in dessen Bezirk die Justizvollzugsanstalt liegt.
 
 (4) Im Fall der Beratungshilfe wird die Vergütung von dem
-Urkundsbeamten der Geschäftsstelle des in § 4 Abs. 1 des
+Urkundsbeamten der Geschäftsstelle des in § 4 Absatz 1 des
 Beratungshilfegesetzes bestimmten Gerichts festgesetzt.
 
 (5) § 104 Absatz 2 Satz 1 und 2 der Zivilprozessordnung gilt
@@ -2258,17 +2283,17 @@ Geschäftsstelle tritt die Verwaltungsbehörde.
 ### § 56 Erinnerung und Beschwerde
 
 (1) Über Erinnerungen des Rechtsanwalts und der Staatskasse gegen die
-Festsetzung nach § 55 entscheidet das Gericht des Rechtszugs, bei dem
-die Festsetzung erfolgt ist, durch Beschluss. Im Fall des § 55 Abs. 3
-entscheidet die Strafkammer des Landgerichts. Im Fall der
-Beratungshilfe entscheidet das nach § 4 Abs. 1 des
+Festsetzung nach § 55 entscheidet das Gericht des Rechtszugs, bei dem
+die Festsetzung erfolgt ist, durch Beschluss. Im Fall des § 55 Absatz
+3 entscheidet die Strafkammer des Landgerichts. Im Fall der
+Beratungshilfe entscheidet das nach § 4 Absatz 1 des
 Beratungshilfegesetzes zuständige Gericht.
 
-(2) Im Verfahren über die Erinnerung gilt § 33 Abs. 4 Satz 1, Abs. 7
-und 8 und im Verfahren über die Beschwerde gegen die Entscheidung über
-die Erinnerung § 33 Abs. 3 bis 8 entsprechend. Das Verfahren über die
-Erinnerung und über die Beschwerde ist gebührenfrei. Kosten werden
-nicht erstattet.
+(2) Im Verfahren über die Erinnerung gilt § 33 Absatz 4 Satz 1, Absatz
+7 und 8 und im Verfahren über die Beschwerde gegen die Entscheidung
+über die Erinnerung § 33 Absatz 3 bis 8 entsprechend. Das Verfahren
+über die Erinnerung und über die Beschwerde ist gebührenfrei. Kosten
+werden nicht erstattet.
 
 
 ### § 57 Rechtsbehelf in Bußgeldsachen vor der Verwaltungsbehörde
@@ -2317,12 +2342,12 @@ Höchstgebühren übersteigende Betrag anzurechnen oder zurückzuzahlen.
 
 ### § 59 Übergang von Ansprüchen auf die Staatskasse
 
-(1) Soweit dem im Wege der Prozesskostenhilfe oder nach § 138 des
+(1) Soweit dem im Wege der Prozesskostenhilfe oder nach § 138 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit, auch in Verbindung
 mit § 270 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit, beigeordneten oder
-nach § 67a Abs. 1 Satz 2 der Verwaltungsgerichtsordnung bestellten
+nach § 67a Absatz 1 Satz 2 der Verwaltungsgerichtsordnung bestellten
 Rechtsanwalt wegen seiner Vergütung ein Anspruch gegen die Partei oder
 einen ersatzpflichtigen Gegner zusteht, geht der Anspruch mit der
 Befriedigung des Rechtsanwalts durch die Staatskasse auf diese über.
@@ -2377,10 +2402,10 @@ Generalbundesanwalts entscheidet der Bundesgerichtshof.
 
 ### § 59b Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach
-Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im
-Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese
-Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
+Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
+machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und
+angeben
 
 1.  den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -2400,8 +2425,8 @@ Vorschrift Bezug nehmen und angeben
 (1) Für die Vergütung ist das bisherige Recht anzuwenden, wenn der
 unbedingte Auftrag zur Erledigung derselben Angelegenheit vor dem
 Inkrafttreten einer Gesetzesänderung erteilt worden ist. Dies gilt
-auch für einen Vergütungsanspruch gegen die Staatskasse (§ 45, auch in
-Verbindung mit § 59a). Steht dem Rechtsanwalt ein Vergütungsanspruch
+auch für einen Vergütungsanspruch gegen die Staatskasse (§ 45, auch in
+Verbindung mit § 59a). Steht dem Rechtsanwalt ein Vergütungsanspruch
 zu, ohne dass ihm zum Zeitpunkt der Beiordnung oder Bestellung ein
 unbedingter Auftrag desjenigen erteilt worden ist, dem er beigeordnet
 oder für den er bestellt wurde, so ist für diese Vergütung in
@@ -2433,16 +2458,16 @@ worden ist.
 
 (1) Die Bundesgebührenordnung für Rechtsanwälte in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 368-1, veröffentlichten
-bereinigten Fassung, zuletzt geändert durch Artikel 2 Abs. 6 des
+bereinigten Fassung, zuletzt geändert durch Artikel 2 Absatz 6 des
 Gesetzes vom 12. März 2004 (BGBl. I S. 390), und Verweisungen hierauf
 sind weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung
-derselben Angelegenheit im Sinne des § 15 vor dem 1. Juli 2004 erteilt
+derselben Angelegenheit im Sinne des § 15 vor dem 1. Juli 2004 erteilt
 oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich bestellt oder
 beigeordnet worden ist. Ist der Rechtsanwalt am 1. Juli 2004 in
 derselben Angelegenheit und, wenn ein gerichtliches Verfahren anhängig
 ist, in demselben Rechtszug bereits tätig, gilt für das Verfahren über
 ein Rechtsmittel, das nach diesem Zeitpunkt eingelegt worden ist,
-dieses Gesetz. § 60 Abs. 2 ist entsprechend anzuwenden.
+dieses Gesetz. § 60 Absatz 2 ist entsprechend anzuwenden.
 
 (2) Auf die Vereinbarung der Vergütung sind die Vorschriften dieses
 Gesetzes auch dann anzuwenden, wenn nach Absatz 1 die Vorschriften der
@@ -2456,11 +2481,11 @@ worden sind.
 Die Regelungen des Therapieunterbringungsgesetzes zur
 Rechtsanwaltsvergütung bleiben unberührt.
 
-(zu § 2 Abs. 2)
+(zu § 2 Absatz 2)
 
 ### Anlage 1 Vergütungsverzeichnis
 
-(Fundstelle: BGBl. I 2004, 803 - 831;
+(Fundstelle: BGBl. I 2022, 633 - 664;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Gliederung**
@@ -2471,7 +2496,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 1**
+*    *   **Teil 1**
 
     *   **Allgemeine Gebühren**
 
@@ -2481,38 +2506,38 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 2**
+*    *   **Teil 2**
 
     *   **Außergerichtliche Tätigkeiten einschließlich der Vertretung im
         Verwaltungsverfahren**
 
 
 *    *
-    *   **Abschnitt 1**
+    *   **Abschnitt 1**
 
     *   **Prüfung der Erfolgsaussicht eines Rechtsmittels**
 
 
 *    *
-    *   **Abschnitt 2**
+    *   **Abschnitt 2**
 
     *   **Herstellung des Einvernehmens**
 
 
 *    *
-    *   **Abschnitt 3**
+    *   **Abschnitt 3**
 
     *   **Vertretung**
 
 
 *    *
-    *   **Abschnitt 4**
+    *   **Abschnitt 4**
 
     *   (weggefallen)
 
 
 *    *
-    *   **Abschnitt 5**
+    *   **Abschnitt 5**
 
     *   **Beratungshilfe**
 
@@ -2522,7 +2547,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 3**
+*    *   **Teil 3**
 
     *   **Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten,
         Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92
@@ -2530,13 +2555,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 1**
+    *   **Abschnitt 1**
 
     *   **Erster Rechtszug**
 
 
 *    *
-    *   **Abschnitt 2**
+    *   **Abschnitt 2**
 
     *   **Berufung, Revision, bestimmte Beschwerden und Verfahren vor dem
         Finanzgericht**
@@ -2557,7 +2582,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 3**
+    *   **Abschnitt 3**
 
     *   **Gebühren für besondere Verfahren**
 
@@ -2607,13 +2632,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 4**
+    *   **Abschnitt 4**
 
     *   **Einzeltätigkeiten**
 
 
 *    *
-    *   **Abschnitt 5**
+    *   **Abschnitt 5**
 
     *   **Beschwerde, Nichtzulassungsbeschwerde und Erinnerung**
 
@@ -2623,13 +2648,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 4**
+*    *   **Teil 4**
 
     *   **Strafsachen**
 
 
 *    *
-    *   **Abschnitt 1**
+    *   **Abschnitt 1**
 
     *   **Gebühren des Verteidigers**
 
@@ -2688,13 +2713,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 2**
+    *   **Abschnitt 2**
 
     *   **Gebühren in der Strafvollstreckung**
 
 
 *    *
-    *   **Abschnitt 3**
+    *   **Abschnitt 3**
 
     *   **Einzeltätigkeiten**
 
@@ -2705,13 +2730,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 5**
+*    *   **Teil 5**
 
     *   **Bußgeldsachen**
 
 
 *    *
-    *   **Abschnitt 1**
+    *   **Abschnitt 1**
 
     *   **Gebühren des Verteidigers**
 
@@ -2752,7 +2777,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 2**
+    *   **Abschnitt 2**
 
     *   **Einzeltätigkeiten**
 
@@ -2762,13 +2787,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil 6**
+*    *   **Teil 6**
 
     *   **Sonstige Verfahren**
 
 
 *    *
-    *   **Abschnitt 1**
+    *   **Abschnitt 1**
 
     *   **Verfahren nach dem Gesetz über die internationale Rechtshilfe in
         Strafsachen und Verfahren nach dem Gesetz über die Zusammenarbeit mit
@@ -2790,7 +2815,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 2**
+    *   **Abschnitt 2**
 
     *   **Disziplinarverfahren, berufsgerichtliche Verfahren wegen der
         Verletzung einer Berufspflicht**
@@ -2843,26 +2868,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   **Abschnitt 3**
+    *   **Abschnitt 3**
 
     *   **Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung
         und bei sonstigen Zwangsmaßnahmen**
 
 
 *    *
-    *   **Abschnitt 4**
+    *   **Abschnitt 4**
 
     *   **Gerichtliche Verfahren nach der Wehrbeschwerdeordnung**
 
 
 *    *
-    *   **Abschnitt 5**
+    *   **Abschnitt 5**
 
     *   **Einzeltätigkeiten und Verfahren auf Aufhebung oder Änderung einer
         Disziplinarmaßnahme**
 
 
-*    *   **Teil 7**
+*    *   **Teil 7**
 
     *   **Auslagen**
 
@@ -2873,16 +2898,16 @@ Teil 1
 Allgemeine Gebühren
 ##
 
-*    *
-    *
-    *
-
 *    *   Nr.
 
     *   Gebührentatbestand
 
-    *   Gebühr oder Satz der Gebühr nach § 13 RVG
+    *   Gebühr
+        oder Satz der Gebühr
+        nach § 13 RVG
 
+
+*    *
 
 *    *   Vorbemerkung 1:
         Die Gebühren dieses Teils entstehen neben den in anderen Teilen
@@ -2892,21 +2917,20 @@ Allgemeine Gebühren
 *    *   1000
 
     *   Einigungsgebühr für die Mitwirkung beim Abschluss eines Vertrags
-        ..........
 
     *
 
 *    *
     *
         1.  durch den der Streit oder die Ungewissheit über ein Rechtsverhältnis
-            beseitigt wird
+            beseitigt wird ..........
 
 
         2.  durch den die Erfüllung des Anspruchs geregelt wird bei gleichzeitigem
             vorläufigem Verzicht auf seine gerichtliche Geltendmachung oder, wenn
             bereits ein zur Zwangsvollstreckung geeigneter Titel vorliegt, bei
             gleichzeitigem vorläufigem Verzicht auf Vollstreckungsmaßnahmen
-            (Zahlungsvereinbarung)
+            (Zahlungsvereinbarung) ..........
 
 
 
@@ -2916,20 +2940,20 @@ Allgemeine Gebühren
 
 
 *    *
-    *   (1) Die Gebühr nach Nummer 1 entsteht nicht, wenn der Hauptanspruch
+    *   (1) Die Gebühr nach Nummer 1 entsteht nicht, wenn der Hauptanspruch
         anerkannt oder wenn auf ihn verzichtet wird. Im Privatklageverfahren
         ist Nummer 4147 anzuwenden.
-        (2) Die Gebühr entsteht auch für die Mitwirkung bei
+        (2) Die Gebühr entsteht auch für die Mitwirkung bei
         Vertragsverhandlungen, es sei denn, dass diese für den Abschluss des
         Vertrags im Sinne dieser Vorschrift nicht ursächlich war.
-        (3) Für die Mitwirkung bei einem unter einer aufschiebenden Bedingung
+        (3) Für die Mitwirkung bei einem unter einer aufschiebenden Bedingung
         oder unter dem Vorbehalt des Widerrufs geschlossenen Vertrag entsteht
         die Gebühr, wenn die Bedingung eingetreten ist oder der Vertrag nicht
         mehr widerrufen werden kann.
-        (4) Bei Rechtsverhältnissen des öffentlichen Rechts entsteht die
+        (4) Bei Rechtsverhältnissen des öffentlichen Rechts entsteht die
         Gebühr, soweit über die Ansprüche vertraglich verfügt werden kann.
         Absatz 1 Satz 1 und Absatz 2 sind anzuwenden.
-        (5) Die Gebühr entsteht nicht in Ehesachen und in
+        (5) Die Gebühr entsteht nicht in Ehesachen und in
         Lebenspartnerschaftssachen (§ 269 Abs. 1 Nr. 1 und 2 FamFG). Wird ein
         Vertrag, insbesondere über den Unterhalt, im Hinblick auf die in Satz
         1 genannten Verfahren geschlossen, bleibt der Wert dieser Verfahren
@@ -2977,7 +3001,8 @@ Allgemeine Gebühren
 
     *   Über den Gegenstand ist ein anderes gerichtliches Verfahren als ein
         selbständiges Beweisverfahren anhängig:
-        Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 ..........
+        Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 betragen
+        ..........
 
     *   1,0
 
@@ -3007,7 +3032,8 @@ Allgemeine Gebühren
         Verfahren über die Beschwerde gegen die Nichtzulassung eines dieser
         Rechtsmittel oder ein Verfahren vor dem Rechtsmittelgericht über die
         Zulassung des Rechtsmittels anhängig:
-        Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 ..........
+        Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 betragen
+        ..........
 
     *   1,3
 
@@ -3025,7 +3051,7 @@ Allgemeine Gebühren
         sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren
         Betragsrahmengebühren entstehen (§ 3 RVG):
         Die Gebühren 1000 und 1002 entstehen ..........
-        (1) Die Gebühr bestimmt sich einheitlich nach dieser Vorschrift, wenn
+        (1) Die Gebühr bestimmt sich einheitlich nach dieser Vorschrift, wenn
         in die Einigung Ansprüche aus anderen Verwaltungsverfahren einbezogen
         werden. Ist über einen Gegenstand ein gerichtliches Verfahren
         anhängig, bestimmt sich die Gebühr nach Nummer 1006. Maßgebend für die
@@ -3034,7 +3060,7 @@ Allgemeine Gebühren
         Rechtsanwalt ausschließlich eine Gebühr nach § 34 RVG zu, beträgt die
         Gebühr die Hälfte des in der Anmerkung zu Nummer 2302 genannten
         Betrags.
-        (2) Betrifft die Einigung oder Erledigung nur einen Teil der
+        (2) Betrifft die Einigung oder Erledigung nur einen Teil der
         Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende
         Anteil an der Geschäftsgebühr unter Berücksichtigung der in § 14 Abs.
         1 RVG genannten Umstände zu schätzen.
@@ -3047,13 +3073,13 @@ Allgemeine Gebühren
 
     *   Über den Gegenstand ist ein gerichtliches Verfahren anhängig:
         Die Gebühr 1005 entsteht ..........
-        (1) Die Gebühr bestimmt sich auch dann einheitlich nach dieser
+        (1) Die Gebühr bestimmt sich auch dann einheitlich nach dieser
         Vorschrift, wenn in die Einigung Ansprüche einbezogen werden, die
         nicht in diesem Verfahren rechtshängig sind. Maßgebend für die Höhe
         der Gebühr ist die im Einzelfall bestimmte Verfahrensgebühr in der
         Angelegenheit, in der die Einigung erfolgt. Eine Erhöhung nach Nummer
         1008 ist nicht zu berücksichtigen.
-        (2) Betrifft die Einigung oder Erledigung nur einen Teil der
+        (2) Betrifft die Einigung oder Erledigung nur einen Teil der
         Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende
         Anteil an der Verfahrensgebühr unter Berücksichtigung der in § 14 Abs.
         1 RVG genannten Umstände zu schätzen.
@@ -3062,15 +3088,28 @@ Allgemeine Gebühren
         Verfahrensgebühr
 
 
+*    *   1007
+
+    *   (weggefallen)
+
+    *
+
 *    *   1008
 
     *   Auftraggeber sind in derselben Angelegenheit mehrere Personen:
         Die Verfahrens- oder Geschäftsgebühr erhöht sich für jede weitere
         Person um ..........
 
-    *   0,3 oder 30% bei Festgebühren,
-        bei Betragsrahmengebühren erhöhen sich der Mindest- und Höchstbetrag
-        um 30%
+    *   0,3
+        oder
+        30 % bei
+        Festgebühren,
+        bei Betragsrahmen-
+        gebühren
+        erhöhen sich
+        der Mindest-
+        und Höchstbetrag
+        um 30 %
 
 
 *    *
@@ -3094,7 +3133,7 @@ Allgemeine Gebühren
 
 *    *
     *
-        1.  bis einschließlich 2 500,00 € ..........
+        1.  bis einschließlich 2 500,00 € ..........
 
 
 
@@ -3104,7 +3143,7 @@ Allgemeine Gebühren
 
 *    *
     *
-        2.  von dem Mehrbetrag bis einschließlich 10 000,00 € ..........
+        2.  von dem Mehrbetrag bis einschließlich 10 000,00 € ..........
 
 
 
@@ -3114,7 +3153,7 @@ Allgemeine Gebühren
 
 *    *
     *
-        3.  von dem Mehrbetrag über 10 000,00 € ...........
+        3.  von dem Mehrbetrag über 10 000,00 € ...........
             (1) Die Gebühr wird für die Auszahlung oder Rückzahlung von
             entgegengenommenen Geldbeträgen erhoben.
             (2) Unbare Zahlungen stehen baren Zahlungen gleich. Die Gebühr kann
@@ -3132,8 +3171,12 @@ Allgemeine Gebühren
 
 
 
-    *   0,25% des aus- oder zurückgezahlten Betrags
-        - mindestens 1,00 €
+    *   0,25 %
+        des aus- oder
+        zurückgezahlten
+        Betrags
+        – mindestens
+        1,00 €
 
 
 *    *   1010
@@ -3146,8 +3189,14 @@ Allgemeine Gebühren
         Beweisaufnahmen anfallenden Mehraufwand.
 
     *   0,3
-        oder bei Betragsrahmengebühren erhöhen sich der Mindest- und
-        Höchstbetrag der Terminsgebühr um 30 %
+        oder
+        bei Betragsrahmen-
+        gebühren
+        erhöhen sich
+        der Mindest-
+        und Höchstbetrag
+        der Terminsgebühr
+        um 30 %
 
 
 
@@ -3161,7 +3210,9 @@ Verwaltungsverfahren
 
     *   Gebührentatbestand
 
-    *   Gebühr oder Satz der Gebühr nach § 13 RVG
+    *   Gebühr
+        oder Satz der Gebühr
+        nach § 13 RVG
 
 
 *    *   Vorbemerkung 2:
@@ -3175,26 +3226,21 @@ Verwaltungsverfahren
         parlamentarischen Untersuchungsausschuss entstehen die gleichen
         Gebühren wie für die entsprechende Beistandsleistung in einem
         Strafverfahren des ersten Rechtszugs vor dem Oberlandesgericht.
-        (3) (weggefallen)
 
-
-*    *
 
 *    *   Abschnitt 1
-        **Prüfung der Erfolgsaussicht eines Rechtsmittels**
+        Prüfung der Erfolgsaussicht eines Rechtsmittels ****
 
 
 *    *   2100
 
     *   Gebühr für die Prüfung der Erfolgsaussicht eines Rechtsmittels, soweit
-        in Nummer 2102 nichts anderes bestimmt ist
-        ......................................
+        in Nummer 2102 nichts anderes bestimmt ist ..........
 
     *   0,5 bis 1,0
 
 
-*    *
-    *   Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren
+*    *   Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren
         anzurechnen.
 
     *
@@ -3203,7 +3249,7 @@ Verwaltungsverfahren
 
     *   Die Prüfung der Erfolgsaussicht eines Rechtsmittels ist mit der
         Ausarbeitung eines schriftlichen Gutachtens verbunden:
-        Die Gebühr 2100 beträgt ............................
+        Die Gebühr 2100 beträgt ..........
 
     *   1,3
 
@@ -3214,13 +3260,12 @@ Verwaltungsverfahren
         sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren
         Betragsrahmengebühren entstehen (§ 3 RVG), und in den Angelegenheiten,
         für die nach den Teilen 4 bis 6 Betragsrahmengebühren entstehen
-        ....................
+        ..........
 
     *   36,00 bis 384,00 €
 
 
-*    *
-    *   Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren
+*    *   Die Gebühr ist auf eine Gebühr für das Rechtsmittelverfahren
         anzurechnen.
 
     *
@@ -3229,39 +3274,45 @@ Verwaltungsverfahren
 
     *   Die Prüfung der Erfolgsaussicht eines Rechtsmittels ist mit der
         Ausarbeitung eines schriftlichen Gutachtens verbunden:
-        Die Gebühr 2102 beträgt ............................
+        Die Gebühr 2102 beträgt ..........
 
     *   60,00 bis 660,00 €
 
 
-*    *
-
 *    *   Abschnitt 2
-        **Herstellung des Einvernehmens**
+        Herstellung des Einvernehmens ****
 
 
 *    *   2200
 
     *   Geschäftsgebühr für die Herstellung des Einvernehmens nach § 28 EuRAG
-        ....................................
+        ..........
 
-    *   in Höhe der einem Bevollmächtigten oder Verteidiger zustehenden
+    *   in Höhe
+        der einem
+        Bevollmächtigten oder
+        Verteidiger
+        zustehenden
         Verfahrensgebühr
 
 
 *    *   2201
 
     *   Das Einvernehmen wird nicht hergestellt:
-        Die Gebühr 2200 beträgt ............................
+        Die Gebühr 2200 beträgt ..........
 
-    *   0,1 bis 0,5 oder Mindestbetrag der einem Bevollmächtigten oder
-        Verteidiger zustehenden Verfahrensgebühr
+    *   0,1 bis 0,5
+        oder
+        Mindestbetrag
+        der einem
+        Bevollmächtigten oder
+        Verteidiger
+        zustehenden
+        Verfahrensgebühr
 
-
-*    *
 
 *    *   Abschnitt 3
-        **Vertretung**
+        Vertretung ****
 
 
 *    *   Vorbemerkung 2.3:
@@ -3292,8 +3343,6 @@ Verwaltungsverfahren
         nach Nummer 2303 angerechnet. Absatz 4 Satz 3 gilt entsprechend.
 
 
-*    *
-
 *    *   2300
 
     *   Geschäftsgebühr, soweit in den Nummern 2302 und 2303 nichts anderes
@@ -3323,8 +3372,7 @@ Verwaltungsverfahren
     *   0,3
 
 
-*    *
-    *   Es handelt sich um ein Schreiben einfacher Art, wenn dieses weder
+*    *   Es handelt sich um ein Schreiben einfacher Art, wenn dieses weder
         schwierige rechtliche Ausführungen noch größere sachliche
         Auseinandersetzungen enthält.
 
@@ -3334,67 +3382,63 @@ Verwaltungsverfahren
 
     *   Geschäftsgebühr in
 
-        1.  sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren
-            Betragsrahmengebühren entstehen (§ 3 RVG), und
+    *
 
+*    *   1. sozialrechtlichen Angelegenheiten, in denen im gerichtlichen
+        Verfahren Betragsrahmengebühren entstehen (§ 3 RVG), und
 
-        2.  Verfahren nach der Wehrbeschwerdeordnung, wenn im gerichtlichen
-            Verfahren das Verfahren vor dem Truppendienstgericht oder vor dem
-            Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß
-            § 82 SG tritt ..........
+    *
 
-
-
-        Eine Gebühr von mehr als 359,00 € kann nur gefordert werden, wenn die
-        Tätigkeit umfangreich oder schwierig war.
+*    *   2. Verfahren nach der Wehrbeschwerdeordnung, wenn im gerichtlichen
+        Verfahren das Verfahren vor dem Truppendienstgericht oder vor dem
+        Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß
+        § 82 SG tritt ..........
 
     *   60,00 bis 768,00 €
 
+
+*    *   Eine Gebühr von mehr als 359,00 € kann nur gefordert werden, wenn die
+        Tätigkeit umfangreich oder schwierig war.
+
+    *
 
 *    *   2303
 
     *   Geschäftsgebühr für
 
-        1.  Güteverfahren vor einer durch die Landesjustizverwaltung
-            eingerichteten oder anerkannten Gütestelle (§ 794 Abs. 1 Nr. 1 ZPO)
-            oder, wenn die Parteien den Einigungsversuch einvernehmlich
-            unternehmen, vor einer Gütestelle, die Streitbeilegung betreibt (§ 15a
-            Abs. 3 EGZPO),
+    *
 
+*    *   1. Güteverfahren vor einer durch die Landesjustizverwaltung
+        eingerichteten oder anerkannten Gütestelle (§ 794 Abs. 1 Nr. 1 ZPO)
+        oder, wenn die Parteien den Einigungsversuch einvernehmlich
+        unternehmen, vor einer Gütestelle, die Streitbeilegung betreibt (§ 15a
+        Abs. 3 EGZPO),
 
+    *
 
+*    *   2. Verfahren vor einem Ausschuss der in § 111 Abs. 2 des
+        Arbeitsgerichtsgesetzes bezeichneten Art,
 
-        2.  Verfahren vor einem Ausschuss der in § 111 Abs. 2 des
-            Arbeitsgerichtsgesetzes bezeichneten Art,
-
-
-
-
-        3.  Verfahren vor dem Seemannsamt zur vorläufigen Entscheidung von
-            Arbeitssachen und
-
-
-
-
-        4.  Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen,
-            Gütestellen oder Schiedsstellen ..........
-
-
-
-
-    *   1.5
-
+    *
 
 *    *
+    *   3. Verfahren vor dem Seemannsamt zur vorläufigen Entscheidung von
+        Arbeitssachen und
 
-*    *   Abschnitt 4
-        **(weggefallen)**
+    *
+
+*    *   4. Verfahren vor sonstigen gesetzlich eingerichteten Einigungsstellen,
+        Gütestellen oder Schiedsstellen ..........
+
+    *   1,5
 
 
-*    *
+*    *   **Abschnitt 4**
+        (weggefallen)
+
 
 *    *   Abschnitt 5
-        **Beratungshilfe**
+        Beratungshilfe ****
 
 
 *    *   Vorbemerkung 2.5:
@@ -3402,30 +3446,26 @@ Verwaltungsverfahren
         diesem Abschnitt.
 
 
-*    *
-
 *    *   2500
 
-    *   Beratungshilfegebühr ...............................
+    *   Beratungshilfegebühr ..........
 
     *   15,00 €
 
 
-*    *
-    *   Neben der Gebühr werden keine Auslagen erhoben. Die Gebühr kann
+*    *   Neben der Gebühr werden keine Auslagen erhoben. Die Gebühr kann
         erlassen werden.
 
     *
 
 *    *   2501
 
-    *   Beratungsgebühr ....................................
+    *   Beratungsgebühr ..........
 
     *   38,50 €
 
 
-*    *
-    *   (1) Die Gebühr entsteht für eine Beratung, wenn die Beratung nicht mit
+*    *   (1) Die Gebühr entsteht für eine Beratung, wenn die Beratung nicht mit
         einer anderen gebührenpflichtigen Tätigkeit zusammenhängt.
         (2) Die Gebühr ist auf eine Gebühr für eine sonstige Tätigkeit
         anzurechnen, die mit der Beratung zusammenhängt.
@@ -3437,20 +3477,19 @@ Verwaltungsverfahren
     *   Beratungstätigkeit mit dem Ziel einer außergerichtlichen Einigung mit
         den Gläubigern über die Schuldenbereinigung auf der Grundlage eines
         Plans (§ 305 Abs. 1 Nr. 1 InsO):
-        Die Gebühr 2501 beträgt ............................
+        Die Gebühr 2501 beträgt ..........
 
     *   77,00 €
 
 
 *    *   2503
 
-    *   Geschäftsgebühr ....................................
+    *   Geschäftsgebühr ..........
 
     *   93,50 €
 
 
-*    *
-    *   (1) Die Gebühr entsteht für das Betreiben des Geschäfts einschließlich
+*    *   (1) Die Gebühr entsteht für das Betreiben des Geschäfts einschließlich
         der Information oder die Mitwirkung bei der Gestaltung eines Vertrags.
         (2) Auf die Gebühren für ein anschließendes gerichtliches oder
         behördliches Verfahren ist diese Gebühr zur Hälfte anzurechnen. Auf
@@ -3473,7 +3512,7 @@ Verwaltungsverfahren
 *    *   2505
 
     *   Es sind 6 bis 10 Gläubiger vorhanden:
-        Die Gebühr 2503 beträgt ............................
+        Die Gebühr 2503 beträgt ..........
 
     *   446,00 €
 
@@ -3481,7 +3520,7 @@ Verwaltungsverfahren
 *    *   2506
 
     *   Es sind 11 bis 15 Gläubiger vorhanden:
-        Die Gebühr 2503 beträgt ............................
+        Die Gebühr 2503 beträgt ..........
 
     *   594,00 €
 
@@ -3489,14 +3528,14 @@ Verwaltungsverfahren
 *    *   2507
 
     *   Es sind mehr als 15 Gläubiger vorhanden:
-        Die Gebühr 2503 beträgt ............................
+        Die Gebühr 2503 beträgt ..........
 
     *   743,00 €
 
 
 *    *   2508
 
-    *   Einigungs- und Erledigungsgebühr ...................
+    *   Einigungs- und Erledigungsgebühr ..........
 
     *   165,00 €
 
@@ -3522,7 +3561,9 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Gebührentatbestand
 
-    *   Gebühr oder Satz der Gebühr nach § 13 RVG
+    *   Gebühr
+        oder Satz der Gebühr
+        nach § 13 RVG
 
 
 *    *   Vorbemerkung 3:
@@ -3576,10 +3617,8 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         besondere Vorschriften enthält.
 
 
-*    *
-
 *    *   Abschnitt 1
-        **Erster Rechtszug**
+        Erster Rechtszug ****
 
 
 *    *   Vorbemerkung 3.1:
@@ -3588,20 +3627,17 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         sind.
 
 
-*    *
-
 *    *   3100
 
     *   Verfahrensgebühr, soweit in Nummer 3102 nichts anderes bestimmt ist
-        .......................................
+        ..........
 
     *   1,3
 
 
-*    *
-    *   (1) Die Verfahrensgebühr für ein vereinfachtes Verfahren über den
+*    *   (1) Die Verfahrensgebühr für ein vereinfachtes Verfahren über den
         Unterhalt Minderjähriger wird auf die Verfahrensgebühr angerechnet,
-        die in dem nachfolgenden Rechtsstreit entsteht (§ 255 FamFG)
+        die in dem nachfolgenden Rechtsstreit entsteht (§ 255 FamFG).
         (2) Die Verfahrensgebühr für ein Vermittlungsverfahren nach § 165
         FamFG wird auf die Verfahrensgebühr für ein sich anschließendes
         Verfahren angerechnet.
@@ -3610,38 +3646,36 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 *    *   3101
 
+    *   1. Endigt der Auftrag, bevor der Rechtsanwalt die Klage, den ein
+        Verfahren einleitenden Antrag oder einen Schriftsatz, der Sachanträge,
+        Sachvortrag, die Zurücknahme der Klage oder die Zurücknahme des
+        Antrags enthält, eingereicht oder bevor er einen gerichtlichen Termin
+        wahrgenommen hat;
+
     *
-        1.  Endigt der Auftrag, bevor der Rechtsanwalt die Klage, den ein
-            Verfahren einleitenden Antrag oder einen Schriftsatz, der Sachanträge,
-            Sachvortrag, die Zurücknahme der Klage oder die Zurücknahme des
-            Antrags enthält, eingereicht oder bevor er einen gerichtlichen Termin
-            wahrgenommen hat;
 
+*    *   2. soweit Verhandlungen vor Gericht zur Einigung der Parteien oder der
+        Beteiligten oder mit Dritten über in diesem Verfahren nicht
+        rechtshängige Ansprüche geführt werden; der Verhandlung über solche
+        Ansprüche steht es gleich, wenn beantragt ist, eine Einigung zu
+        Protokoll zu nehmen oder das Zustandekommen einer Einigung
+        festzustellen (§ 278 Abs. 6 ZPO), oder wenn eine Einigung dadurch
+        erfolgt, dass die Beteiligten einen in der Form eines Beschlusses
+        ergangenen Vorschlag schriftlich oder durch Erklärung zu Protokoll in
+        der mündlichen Verhandlung gegenüber dem Gericht annehmen (§ 101 Abs.
+        1 Satz 2 SGG, § 106 Satz 2 VwGO); oder
 
+    *
 
+*    *   3. soweit in einer Familiensache, die nur die Erteilung einer
+        Genehmigung oder die Zustimmung des Familiengerichts zum Gegenstand
+        hat, oder in einem Verfahren der freiwilligen Gerichtsbarkeit
+        lediglich ein Antrag gestellt und eine Entscheidung entgegengenommen
+        wird,
 
-        2.  soweit Verhandlungen vor Gericht zur Einigung der Parteien oder der
-            Beteiligten oder mit Dritten über in diesem Verfahren nicht
-            rechtshängige Ansprüche geführt werden; der Verhandlung über solche
-            Ansprüche steht es gleich, wenn beantragt ist, eine Einigung zu
-            Protokoll zu nehmen oder das Zustandekommen einer Einigung
-            festzustellen (§ 278 Abs. 6 ZPO), oder wenn eine Einigung dadurch
-            erfolgt, dass die Beteiligten einen in der Form eines Beschlusses
-            ergangenen Vorschlag schriftlich oder durch Erklärung zu Protokoll in
-            der mündlichen Verhandlung gegenüber dem Gericht annehmen (§ 101 Abs.
-            1 Satz 2 SGG, § 106 Satz 2 VwGO); oder
+    *
 
-
-
-
-        3.  soweit in einer Familiensache, die nur die Erteilung einer Genehmigung
-            oder die Zustimmung des Familiengerichts zum Gegenstand hat, oder in
-            einem Verfahren der freiwilligen Gerichtsbarkeit lediglich ein Antrag
-            gestellt und eine Entscheidung entgegengenommen wird,
-
-
-
-        beträgt die Gebühr 3100 ............................
+*    *   beträgt die Gebühr 3100 ..........
 
     *   0,8
 
@@ -3661,8 +3695,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3102
 
     *   Verfahrensgebühr für Verfahren vor den Sozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        .......................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   60,00 bis 660,00 €
 
@@ -3676,20 +3709,20 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3104
 
     *   Terminsgebühr, soweit in Nummer 3106 nichts anderes bestimmt ist
-        .......................................
+        ..........
 
     *   1,2
 
 
-*    *
-    *   (1) Die Gebühr entsteht auch, wenn
+*    *   (1) Die Gebühr entsteht auch, wenn
 
         1.  in einem Verfahren, für das mündliche Verhandlung vorgeschrieben ist,
             im Einverständnis mit den Parteien oder Beteiligten oder gemäß § 307
-            oder § 495a ZPO ohne mündliche Verhandlung entschieden oder in einem
-            solchen Verfahren mit oder ohne Mitwirkung des Gerichts ein Vertrag im
-            Sinne der Nummer 1000 geschlossen wird oder eine Erledigung der
-            Rechtssache im Sinne der Nummer 1002 eingetreten ist,
+            oder § 495a ZPO oder § 77 Abs. 2 AsylG ohne mündliche Verhandlung
+            entschieden oder in einem solchen Verfahren mit oder ohne Mitwirkung
+            des Gerichts ein Vertrag im Sinne der Nummer 1000 geschlossen wird
+            oder eine Erledigung der Rechtssache im Sinne der Nummer 1002
+            eingetreten ist,
 
 
         2.  nach § 84 Abs. 1 Satz 1 VwGO oder § 105 Abs. 1 Satz 1 SGG durch
@@ -3700,22 +3733,22 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         3.  das Verfahren vor dem Sozialgericht, für das mündliche Verhandlung
             vorgeschrieben ist, nach angenommenem Anerkenntnis ohne mündliche
             Verhandlung endet.
-            (2) Sind in dem Termin auch Verhandlungen zur Einigung über in diesem
-            Verfahren nicht rechtshängige Ansprüche geführt worden, wird die
-            Terminsgebühr, soweit sie den sich ohne Berücksichtigung der nicht
-            rechtshängigen Ansprüche ergebenden Gebührenbetrag übersteigt, auf
-            eine Terminsgebühr angerechnet, die wegen desselben Gegenstands in
-            einer anderen Angelegenheit entsteht.
-            (3) Die Gebühr entsteht nicht, soweit lediglich beantragt ist, eine
-            Einigung der Parteien oder der Beteiligten oder mit Dritten über nicht
-            rechtshängige Ansprüche zu Protokoll zu nehmen.
-            (4) Eine in einem vorausgegangenen Mahnverfahren oder vereinfachten
-            Verfahren über den Unterhalt Minderjähriger entstandene Terminsgebühr
-            wird auf die Terminsgebühr des nachfolgenden Rechtsstreits
-            angerechnet.
 
 
 
+        (2) Sind in dem Termin auch Verhandlungen zur Einigung über in diesem
+        Verfahren nicht rechtshängige Ansprüche geführt worden, wird die
+        Terminsgebühr, soweit sie den sich ohne Berücksichtigung der nicht
+        rechtshängigen Ansprüche ergebenden Gebührenbetrag übersteigt, auf
+        eine Terminsgebühr angerechnet, die wegen desselben Gegenstands in
+        einer anderen Angelegenheit entsteht.
+        (3) Die Gebühr entsteht nicht, soweit lediglich beantragt ist, eine
+        Einigung der Parteien oder der Beteiligten oder mit Dritten über nicht
+        rechtshängige Ansprüche zu Protokoll zu nehmen.
+        (4) Eine in einem vorausgegangenen Mahnverfahren oder vereinfachten
+        Verfahren über den Unterhalt Minderjähriger entstandene Terminsgebühr
+        wird auf die Terminsgebühr des nachfolgenden Rechtsstreits
+        angerechnet.
 
     *
 
@@ -3725,37 +3758,34 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         nicht erschienen oder nicht ordnungsgemäß vertreten ist und lediglich
         ein Antrag auf Versäumnisurteil, Versäumnisentscheidung oder zur
         Prozess-, Verfahrens- oder Sachleitung gestellt wird:
-        Die Gebühr 3104 beträgt ............................
+        Die Gebühr 3104 beträgt ..........
 
     *   0,5
 
 
-*    *
-    *   (1) Die Gebühr entsteht auch, wenn
+*    *   (1) Die Gebühr entsteht auch, wenn
 
         1.  das Gericht bei Säumnis lediglich Entscheidungen zur Prozess-,
             Verfahrens- oder Sachleitung von Amts wegen trifft oder
 
 
         2.  eine Entscheidung gemäß § 331 Abs. 3 ZPO ergeht.
-            (2) § 333 ZPO ist nicht entsprechend anzuwenden.
 
 
 
+        (2) § 333 ZPO ist nicht entsprechend anzuwenden.
 
     *
 
 *    *   3106
 
     *   Terminsgebühr in Verfahren vor den Sozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        .......................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   60,00 bis 610,00 €
 
 
-*    *
-    *   Die Gebühr entsteht auch, wenn
+*    *   Die Gebühr entsteht auch, wenn
 
         1.  in einem Verfahren, für das mündliche Verhandlung vorgeschrieben ist,
             im Einverständnis mit den Parteien ohne mündliche Verhandlung
@@ -3774,17 +3804,15 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 
 
-        In den Fällen des Satzes 1 beträgt die Gebühr 90% der in derselben
+        In den Fällen des Satzes 1 beträgt die Gebühr 90 % der in derselben
         Angelegenheit dem Rechtsanwalt zustehenden Verfahrensgebühr ohne
         Berücksichtigung einer Erhöhung nach Nummer 1008.
 
     *
 
-*    *
-
 *    *   Abschnitt 2
-        **Berufung, Revision, bestimmte Beschwerden und Verfahren vor dem
-        Finanzgericht**
+        Berufung, Revision, bestimmte Beschwerden und Verfahren vor dem
+        Finanzgericht ****
 
 
 *    *   Vorbemerkung 3.2:
@@ -3800,12 +3828,10 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Vorschriften. Dies gilt entsprechend im Verfahren der einstweiligen
         Anordnung und im Verfahren auf Anordnung oder Wiederherstellung der
         aufschiebenden Wirkung, auf Aussetzung oder Aufhebung der Vollziehung
-        oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts.
-        Satz 1 gilt ferner entsprechend in Verfahren über einen Antrag nach §
-        169 Abs. 2 Satz 5 und 6, § 173 Abs. 1 Satz 3 oder nach § 176 GWB.
+        oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts. Satz
+        1 gilt ferner entsprechend in Verfahren über einen Antrag nach § 169
+        Abs. 2 Satz 5 und 6, § 173 Abs. 1 Satz 3 oder nach § 176 GWB.
 
-
-*    *
 
 *    *   Unterabschnitt 1
         Berufung, bestimmte Beschwerden und Verfahren vor dem Finanzgericht
@@ -3887,12 +3913,10 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 
 
-*    *
-
 *    *   3200
 
     *   Verfahrensgebühr, soweit in Nummer 3204 nichts anderes bestimmt ist
-        ............................
+        ..........
 
     *   1,6
 
@@ -3901,21 +3925,18 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Vorzeitige Beendigung des Auftrags oder eingeschränkte Tätigkeit des
         Anwalts:
-        Die Gebühr 3200 beträgt .........................
+        Die Gebühr 3200 beträgt ..........
 
     *   1,1
 
 
-*    *
-    *   (1) Eine vorzeitige Beendigung liegt vor,
+*    *   (1) Eine vorzeitige Beendigung liegt vor,
 
         1.  wenn der Auftrag endigt, bevor der Rechtsanwalt das Rechtsmittel
             eingelegt oder einen Schriftsatz, der Sachanträge, Sachvortrag, die
             Zurücknahme der Klage oder die Zurücknahme des Rechtsmittels enthält,
             eingereicht oder bevor er einen gerichtlichen Termin wahrgenommen hat,
             oder
-
-
 
 
         2.  soweit Verhandlungen vor Gericht zur Einigung der Parteien oder der
@@ -3932,7 +3953,11 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         übersteigt, wird der übersteigende Betrag auf eine Verfahrensgebühr
         angerechnet, die wegen desselben Gegenstands in einer anderen
         Angelegenheit entsteht.
-        (2) Eine eingeschränkte Tätigkeit des Anwalts liegt vor, wenn sich
+
+    *
+
+*    *
+    *   (2) Eine eingeschränkte Tätigkeit des Anwalts liegt vor, wenn sich
         seine Tätigkeit
 
         1.  in einer Familiensache, die nur die Erteilung einer Genehmigung oder
@@ -3951,13 +3976,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3202
 
     *   Terminsgebühr, soweit in Nummer 3205 nichts anderes bestimmt ist
-        .......................................
+        ..........
 
     *   1,2
 
 
-*    *
-    *   (1) Absatz 1 Nr. 1 und 3 sowie die Absätze 2 und 3 der Anmerkung zu
+*    *   (1) Absatz 1 Nr. 1 und 3 sowie die Absätze 2 und 3 der Anmerkung zu
         Nummer 3104 gelten entsprechend.
         (2) Die Gebühr entsteht auch, wenn nach § 79a Abs. 2, § 90a oder § 94a
         FGO ohne mündliche Verhandlung durch Gerichtsbescheid entschieden
@@ -3973,13 +3997,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         ordnungsgemäß vertreten ist und lediglich ein Antrag auf
         Versäumnisurteil, Versäumnisentscheidung oder zur Prozess-,
         Verfahrens- oder Sachleitung gestellt wird:
-        Die Gebühr 3202 beträgt ............................
+        Die Gebühr 3202 beträgt ..........
 
     *   0,5
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3105 und Absatz 2 der Anmerkung zu Nummer 3202
+*    *   Die Anmerkung zu Nummer 3105 und Absatz 2 der Anmerkung zu Nummer 3202
         gelten entsprechend.
 
     *
@@ -3987,8 +4010,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3204
 
     *   Verfahrensgebühr für Verfahren vor den Landessozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        ................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   72,00 bis 816,00 €
 
@@ -3996,21 +4018,17 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3205
 
     *   Terminsgebühr in Verfahren vor den Landessozialgerichten, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        ................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   60,00 bis 610,00 €
 
 
-*    *
-    *   Satz 1 Nr. 1 und 3 der Anmerkung zu Nummer 3106 gilt entsprechend. In
-        den Fällen des Satzes 1 beträgt die Gebühr 75% der in derselben
+*    *   Satz 1 Nr. 1 und 3 der Anmerkung zu Nummer 3106 gilt entsprechend. In
+        den Fällen des Satzes 1 beträgt die Gebühr 75 % der in derselben
         Angelegenheit dem Rechtsanwalt zustehenden Verfahrensgebühr ohne
         Berücksichtigung einer Erhöhung nach Nummer 1008.
 
     *
-
-*    *
 
 *    *   Unterabschnitt 2
         Revision, bestimmte Beschwerden und Rechtsbeschwerden
@@ -4043,12 +4061,10 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 
 
-*    *
-
 *    *   3206
 
     *   Verfahrensgebühr, soweit in Nummer 3212 nichts anderes bestimmt ist
-        .......................................
+        ..........
 
     *   1,6
 
@@ -4057,13 +4073,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Vorzeitige Beendigung des Auftrags oder eingeschränkte Tätigkeit des
         Anwalts:
-        Die Gebühr 3206 beträgt ............................
+        Die Gebühr 3206 beträgt ..........
 
     *   1,1
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
+*    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
 
     *
 
@@ -4072,7 +4087,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Im Verfahren können sich die Parteien oder die Beteiligten nur durch
         einen beim Bundesgerichtshof zugelassenen Rechtsanwalt vertreten
         lassen:
-        Die Gebühr 3206 beträgt ............................
+        Die Gebühr 3206 beträgt ..........
 
     *   2,3
 
@@ -4082,26 +4097,24 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Vorzeitige Beendigung des Auftrags, wenn sich die Parteien oder die
         Beteiligten nur durch einen beim Bundesgerichtshof zugelassenen
         Rechtsanwalt vertreten lassen können:
-        Die Gebühr 3206 beträgt ............................
+        Die Gebühr 3206 beträgt ..........
 
     *   1,8
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
+*    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
 
     *
 
 *    *   3210
 
     *   Terminsgebühr, soweit in Nummer 3213 nichts anderes bestimmt ist
-        .......................................
+        ..........
 
     *   1,5
 
 
-*    *
-    *   Absatz 1 Nr. 1 und 3 sowie die Absätze 2 und 3 der Anmerkung zu Nummer
+*    *   Absatz 1 Nr. 1 und 3 sowie die Absätze 2 und 3 der Anmerkung zu Nummer
         3104 und Absatz 2 der Anmerkung zu Nummer 3202 gelten entsprechend.
 
     *
@@ -4112,13 +4125,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Beschwerdeführer nicht ordnungsgemäß vertreten ist und lediglich ein
         Antrag auf Versäumnisurteil, Versäumnisentscheidung oder zur Prozess-,
         Verfahrens- oder Sachleitung gestellt wird:
-        Die Gebühr 3210 beträgt ............................
+        Die Gebühr 3210 beträgt ..........
 
     *   0,8
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3105 und Absatz 2 der Anmerkung zu Nummer 3202
+*    *   Die Anmerkung zu Nummer 3105 und Absatz 2 der Anmerkung zu Nummer 3202
         gelten entsprechend.
 
     *
@@ -4126,71 +4138,59 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3212
 
     *   Verfahrensgebühr für Verfahren vor dem Bundessozialgericht, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        ................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
-    *   96,00 bis 1 056,00 €
+    *   96,00 bis 1 056,00 €
 
 
 *    *   3213
 
     *   Terminsgebühr in Verfahren vor dem Bundessozialgericht, in denen
-        Betragsrahmengebühren entstehen (§ 3 RVG).
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   96,00 bis 990,00 €
 
 
-*    *
-    *   Satz 1 Nr. 1 und 3 sowie Satz 2 der Anmerkung zu Nummer 3106 gelten
+*    *   Satz 1 Nr. 1 und 3 sowie Satz 2 der Anmerkung zu Nummer 3106 gelten
         entsprechend.
 
     *
 
-*    *
-
 *    *   Abschnitt 3
-        Gebühren für besondere Verfahren
-        ****
+        Gebühren für besondere Verfahren ****
 
-
-*    *
-    *
-    *
 
 *    *   Unterabschnitt 1
         Besondere erstinstanzliche Verfahren
 
 
-*    *
-    *
-    *
-
 *    *   Vorbemerkung 3.3.1:
         Die Terminsgebühr bestimmt sich nach Abschnitt 1.
 
-
-*    *
 
 *    *   3300
 
     *   Verfahrensgebühr
 
-        1.  für das Verfahren vor dem Oberlandesgericht nach § 129 VGG oder § 32
-            AgrarOLkG,
+    *
 
+*    *   1. für das Verfahren vor dem Oberlandesgericht nach § 129 VGG oder §
+        32 AgrarOLkG,
 
-        2.  für das erstinstanzliche Verfahren vor dem Bundesverwaltungsgericht,
-            dem Bundessozialgericht, dem Oberverwaltungsgericht
-            (Verwaltungsgerichtshof) und dem Landessozialgericht sowie
+    *
 
+*    *   2. für das erstinstanzliche Verfahren vor dem
+        Bundesverwaltungsgericht, dem Bundessozialgericht, dem
+        Oberverwaltungsgericht (Verwaltungsgerichtshof) und dem
+        Landessozialgericht sowie
 
-        3.  für das Verfahren bei überlangen Gerichtsverfahren und
-            strafrechtlichen Ermittlungsverfahren vor den Oberlandesgerichten, den
-            Landessozialgerichten, den Oberverwaltungsgerichten, den
-            Landesarbeitsgerichten oder einem obersten Gerichtshof des Bundes
+    *
 
-
-
+*    *   3. für das Verfahren bei überlangen Gerichtsverfahren und
+        strafrechtlichen Ermittlungsverfahren vor den Oberlandesgerichten, den
+        Landessozialgerichten, den Oberverwaltungsgerichten, den
+        Landesarbeitsgerichten oder einem obersten Gerichtshof des Bundes
+        ..........
 
     *   1,6
 
@@ -4198,40 +4198,31 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3301
 
     *   Vorzeitige Beendigung des Auftrags:
-        Die Gebühr 3300 beträgt ............................
+        Die Gebühr 3300 beträgt ..........
 
     *   1,0
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
+*    *   Die Anmerkung zu Nummer 3201 gilt entsprechend.
 
     *
-
-*    *
 
 *    *   Unterabschnitt 2
         Mahnverfahren
 
 
-*    *
-
 *    *   Vorbemerkung 3.3.2:
         Die Terminsgebühr bestimmt sich nach Abschnitt 1.
 
 
-*    *
-
 *    *   3305
 
-    *   Verfahrensgebühr für die Vertretung des Antragstellers
-        ....................................
+    *   Verfahrensgebühr für die Vertretung des Antragstellers ..........
 
     *   1,0
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für einen nachfolgenden
+*    *   Die Gebühr wird auf die Verfahrensgebühr für einen nachfolgenden
         Rechtsstreit angerechnet.
 
     *
@@ -4241,21 +4232,19 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Beendigung des Auftrags, bevor der Rechtsanwalt den
         verfahrenseinleitenden Antrag oder einen Schriftsatz, der Sachanträge,
         Sachvortrag oder die Zurücknahme des Antrags enthält, eingereicht hat:
-        Die Gebühr 3305 beträgt ............................
+        Die Gebühr 3305 beträgt ..........
 
     *   0,5
 
 
 *    *   3307
 
-    *   Verfahrensgebühr für die Vertretung des Antragsgegners
-        .....................................
+    *   Verfahrensgebühr für die Vertretung des Antragsgegners ..........
 
     *   0,5
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für einen nachfolgenden
+*    *   Die Gebühr wird auf die Verfahrensgebühr für einen nachfolgenden
         Rechtsstreit angerechnet.
 
     *
@@ -4263,21 +4252,17 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3308
 
     *   Verfahrensgebühr für die Vertretung des Antragstellers im Verfahren
-        über den Antrag auf Erlass eines Vollstreckungsbescheids
-        ............................
+        über den Antrag auf Erlass eines Vollstreckungsbescheids ..........
 
     *   0,5
 
 
-*    *
-    *   Die Gebühr entsteht neben der Gebühr 3305 nur, wenn innerhalb der
+*    *   Die Gebühr entsteht neben der Gebühr 3305 nur, wenn innerhalb der
         Widerspruchsfrist kein Widerspruch erhoben oder der Widerspruch gemäß
         § 703a Abs. 2 Nr. 4 ZPO beschränkt worden ist. Nummer 1008 ist nicht
         anzuwenden, wenn sich bereits die Gebühr 3305 erhöht.
 
     *
-
-*    *
 
 *    *   Unterabschnitt 3
         Vollstreckung und Vollziehung
@@ -4289,24 +4274,19 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         1.  die Zwangsvollstreckung,
 
 
-
-
         2.  die Vollstreckung,
-
-
 
 
         3.  Verfahren des Verwaltungszwangs und
 
 
-
-
-        4.  die Vollziehung eines Arrestes oder einstweiligen Verfügung, soweit
-            nachfolgend keine besonderen Gebühren bestimmt sind. Er gilt auch für
-            Verfahren auf Eintragung einer Zwangshypothek (§§ 867 und 870a ZPO).
+        4.  die Vollziehung eines Arrestes oder einstweiligen Verfügung,
 
 
 
+        soweit nachfolgend keine besonderen Gebühren bestimmt sind. Er gilt
+        auch für Verfahren auf Eintragung einer Zwangshypothek (§§ 867 und
+        870a ZPO).
         (2) Im Verfahren nach der Verordnung (EU) Nr. 655/2014 werden Gebühren
         nach diesem Unterabschnitt nur im Fall des Artikels 5 Buchstabe b der
         Verordnung (EU) Nr. 655/2014 erhoben. In den Fällen des Artikels 5
@@ -4314,51 +4294,41 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Gebühren nach den für Arrestverfahren geltenden Vorschriften.
 
 
-*    *
-
 *    *   3309
 
-    *   Verfahrensgebühr ...................................
+    *   Verfahrensgebühr ..........
 
     *   0,3
 
 
 *    *   3310
 
-    *   Terminsgebühr ......................................
+    *   Terminsgebühr ..........
 
     *   0,3
 
 
-*    *
-    *   Die Gebühr entsteht für die Teilnahme an einem gerichtlichen Termin,
+*    *   Die Gebühr entsteht für die Teilnahme an einem gerichtlichen Termin,
         einem Termin zur Abgabe der Vermögensauskunft oder zur Abnahme der
         eidesstattlichen Versicherung.
 
     *
 
-*    *
-
 *    *   Unterabschnitt 4
         Zwangsversteigerung und Zwangsverwaltung
 
 
-*    *
-
 *    *   3311
 
-    *   Verfahrensgebühr ...................................
+    *   Verfahrensgebühr ..........
 
     *   0,4
 
 
-*    *
-    *   Die Gebühr entsteht jeweils gesondert
+*    *   Die Gebühr entsteht jeweils gesondert
 
         1.  für die Tätigkeit im Zwangsversteigerungsverfahren bis zur Einleitung
             des Verteilungsverfahrens;
-
-
 
 
         2.  im Zwangsversteigerungsverfahren für die Tätigkeit im
@@ -4366,13 +4336,9 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
             außergerichtlichen Verteilung;
 
 
-
-
         3.  im Verfahren der Zwangsverwaltung für die Vertretung des
             Antragstellers im Verfahren über den Antrag auf Anordnung der
             Zwangsverwaltung oder auf Zulassung des Beitritts;
-
-
 
 
         4.  im Verfahren der Zwangsverwaltung für die Vertretung des
@@ -4380,13 +4346,9 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
             Verteilungsverfahrens;
 
 
-
-
         5.  im Verfahren der Zwangsverwaltung für die Vertretung eines sonstigen
             Beteiligten im ganzen Verfahren einschließlich des
             Verteilungsverfahrens und
-
-
 
 
         6.  für die Tätigkeit im Verfahren über Anträge auf einstweilige
@@ -4401,25 +4363,22 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 *    *   3312
 
-    *   Terminsgebühr ......................................
+    *   Terminsgebühr ..........
 
     *   0,4
 
 
-*    *
-    *   Die Gebühr entsteht nur für die Wahrnehmung eines
+*    *   Die Gebühr entsteht nur für die Wahrnehmung eines
         Versteigerungstermins für einen Beteiligten. Im Übrigen entsteht im
         Verfahren der Zwangsversteigerung und der Zwangsverwaltung keine
         Terminsgebühr.
 
     *
 
-*    *
-
 *    *   Unterabschnitt 5
-        Insolvenzverfahren, Verteilungsverfahren nach der
-        Schifffahrtsrechtlichen Verteilungsordnung, Verfahren nach dem
-        Unternehmensstabilisierungs- und -restrukturierungsgesetz
+        Insolvenzverfahren, Verteilungsverfahren
+        nach der Schifffahrtsrechtlichen Verteilungsordnung, Verfahren
+        nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
 
 
 *    *   Vorbemerkung 3.3.5:
@@ -4435,38 +4394,34 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         die gleichen Gebühren wie für die Vertretung des Schuldners.
 
 
-*    *
-
 *    *   3313
 
     *   Verfahrensgebühr für die Vertretung des Schuldners im
-        Eröffnungsverfahren .............................
+        Eröffnungsverfahren ..........
 
     *   1,0
 
 
-*    *
-    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
+*    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
 
     *
 
 *    *   3314
 
     *   Verfahrensgebühr für die Vertretung des Gläubigers im
-        Eröffnungsverfahren .............................
+        Eröffnungsverfahren ..........
 
     *   0,5
 
 
-*    *
-    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
+*    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
 
     *
 
 *    *   3315
 
     *   Tätigkeit auch im Verfahren über den Schuldenbereinigungsplan:
-        Die Verfahrensgebühr 3313 beträgt ..................
+        Die Verfahrensgebühr 3313 beträgt ..........
 
     *   1,5
 
@@ -4474,20 +4429,19 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3316
 
     *   Tätigkeit auch im Verfahren über den Schuldenbereinigungsplan:
-        Die Verfahrensgebühr 3314 beträgt ..................
+        Die Verfahrensgebühr 3314 beträgt ..........
 
     *   1,0
 
 
 *    *   3317
 
-    *   Verfahrensgebühr für das Insolvenzverfahren ........
+    *   Verfahrensgebühr für das Insolvenzverfahren ..........
 
     *   1,0
 
 
-*    *
-    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO, in
+*    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO, in
         einem Verfahren nach dem StaRUG und im Verfahren über Anträge nach
         Artikel 36 Abs. 9 der Verordnung (EU) 2015/848.
 
@@ -4495,16 +4449,15 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
 *    *   3318
 
-    *   Verfahrensgebühr für das Verfahren über einen Insolvenzplan
-        ......................................
+    *   Verfahrensgebühr für das Verfahren über einen Insolvenzplan ..........
 
     *   1,0
 
 
 *    *   3319
 
-    *   Vertretung des Schuldners, der den Plan vorgelegt hat: Die
-        Verfahrensgebühr 3318 beträgt ..................
+    *   Vertretung des Schuldners, der den Plan vorgelegt hat:
+        Die Verfahrensgebühr 3318 beträgt ..........
 
     *   3,0
 
@@ -4513,26 +4466,24 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Die Tätigkeit beschränkt sich auf die Anmeldung einer
         Insolvenzforderung:
-        Die Verfahrensgebühr 3317 beträgt ..................
+        Die Verfahrensgebühr 3317 beträgt ..........
 
     *   0,5
 
 
-*    *
-    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
+*    *   Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
 
     *
 
 *    *   3321
 
     *   Verfahrensgebühr für das Verfahren über einen Antrag auf Versagung
-        oder Widerruf der Restschuldbefreiung.
+        oder Widerruf der Restschuldbefreiung ..........
 
     *   0,5
 
 
-*    *
-    *   (1) Das Verfahren über mehrere gleichzeitig anhängige Anträge ist eine
+*    *   (1) Das Verfahren über mehrere gleichzeitig anhängige Anträge ist eine
         Angelegenheit.
         (2) Die Gebühr entsteht auch gesondert, wenn der Antrag bereits vor
         Aufhebung des Insolvenzverfahrens gestellt wird.
@@ -4542,8 +4493,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3322
 
     *   Verfahrensgebühr für das Verfahren über Anträge auf Zulassung der
-        Zwangsvollstreckung nach § 17 Abs. 4 SVertO
-        .............................................
+        Zwangsvollstreckung nach § 17 Abs. 4 SVertO ..........
 
     *   0,5
 
@@ -4551,13 +4501,10 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3323
 
     *   Verfahrensgebühr für das Verfahren über Anträge auf Aufhebung von
-        Vollstreckungsmaßregeln (§ 8 Abs. 5 und § 41 SVertO)
-        .......................................
+        Vollstreckungsmaßregeln (§ 8 Abs. 5 und § 41 SVertO) ..........
 
     *   0,5
 
-
-*    *
 
 *    *   Unterabschnitt 6
         Sonstige besondere Verfahren
@@ -4571,11 +4518,9 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Prozesskostenhilfe beantragt wird.
 
 
-*    *
-
 *    *   3324
 
-    *   Verfahrensgebühr für das Aufgebotsverfahren ........
+    *   Verfahrensgebühr für das Aufgebotsverfahren ..........
 
     *   1,0
 
@@ -4585,7 +4530,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Verfahrensgebühr für Verfahren nach § 148 Abs. 1 und 2, nach § 246a
         des Aktiengesetzes (auch i. V. m. § 20 Abs. 3 Satz 4 SchVG), nach §
         319 Abs. 6 des Aktiengesetzes (auch i. V. m. § 327e Abs. 2 des
-        Aktiengesetzes) oder nach § 16 Abs. 3 UmwG ........
+        Aktiengesetzes) oder nach § 16 Abs. 3 UmwG ..........
 
     *   0,75
 
@@ -4598,7 +4543,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Ablehnung eines Schiedsrichters (§ 103 Abs. 3 des
         Arbeitsgerichtsgesetzes) oder die Vornahme einer Beweisaufnahme oder
         einer Vereidigung (§ 106 Abs. 2 des Arbeitsgerichtsgesetzes)
-        beschränkt ........
+        beschränkt ..........
 
     *   0,75
 
@@ -4610,7 +4555,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Schiedsrichters oder über die Beendigung des Schiedsrichteramts, zur
         Unterstützung bei der Beweisaufnahme oder bei der Vornahme sonstiger
         richterlicher Handlungen anlässlich eines schiedsrichterlichen
-        Verfahrens ........
+        Verfahrens ..........
 
     *   0,75
 
@@ -4618,18 +4563,17 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3328
 
     *   Verfahrensgebühr für Verfahren über die vorläufige Einstellung,
-        Beschränkung oder Aufhebung der Zwangsvollstreckung oder die
-        einstweilige Einstellung oder Beschränkung der Vollstreckung und die
-        Anordnung, dass Vollstreckungsmaßnahmen aufzuheben sind ........
+        Beschränkung, Aussetzung oder Aufhebung der Zwangsvollstreckung oder
+        die einstweilige Einstellung oder Beschränkung der Vollstreckung und
+        die Anordnung, dass Vollstreckungsmaßnahmen aufzuheben sind ..........
 
     *   0,5
 
 
-*    *
-    *   Die Gebühr entsteht nur, wenn eine abgesonderte mündliche Verhandlung
-        hierüber oder ein besonderer gerichtlicher Termin stattfindet. Wird
-        der Antrag beim Vollstreckungsgericht und beim Prozessgericht
-        gestellt, entsteht die Gebühr nur einmal.
+*    *   Die Gebühr entsteht nicht, wenn die Tätigkeit zum Rechtszug gehört (§
+        19 Abs. 1 Satz 2 Nr. 12 RVG). Wird der Antrag beim
+        Vollstreckungsgericht und beim Prozessgericht gestellt, entsteht die
+        Gebühr nur einmal.
 
     *
 
@@ -4637,7 +4581,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für Verfahren auf Vollstreckbarerklärung der durch
         Rechtsmittelanträge nicht angefochtenen Teile eines Urteils (§§ 537,
-        558 ZPO).
+        558 ZPO) ..........
 
     *   0,5
 
@@ -4645,26 +4589,41 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3330
 
     *   Verfahrensgebühr für Verfahren über eine Rüge wegen Verletzung des
-        Anspruchs auf rechtliches Gehör ........
+        Anspruchs auf rechtliches Gehör ..........
 
-    *   in Höhe der Verfahrensgebühr für das Verfahren, in dem die Rüge
-        erhoben wird, höchstens 0,5, bei Betragsrahmengebühren höchstens
+    *   in Höhe der
+        Verfahrensgebühr
+        für das Verfahren,
+        in dem die Rüge
+        erhoben wird,
+        höchstens 0,5,
+        bei Betragsrahmen-
+        gebühren
+        höchstens
         260,00 €
 
 
 *    *   3331
 
     *   Terminsgebühr in Verfahren über eine Rüge wegen Verletzung des
-        Anspruchs auf rechtliches Gehör ........
+        Anspruchs auf rechtliches Gehör ..........
 
-    *   in Höhe der Terminsgebühr für das Verfahren, in dem die Rüge erhoben
-        wird, höchstens 0,5, bei Betragsrahmengebühren höchstens 260,00 €
+    *   in Höhe der
+        Terminsgebühr
+        für das Verfahren,
+        in dem die Rüge
+        erhoben wird,
+        höchstens 0,5,
+        bei Betragsrahmen-
+        gebühren
+        höchstens
+        260,00 €
 
 
 *    *   3332
 
     *   Terminsgebühr in den in Nummern 3324 bis 3329 genannten Verfahren
-        ........
+        ..........
 
     *   0,5
 
@@ -4672,13 +4631,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3333
 
     *   Verfahrensgebühr für ein Verteilungsverfahren außerhalb der
-        Zwangsversteigerung und der Zwangsverwaltung ........
+        Zwangsversteigerung und der Zwangsverwaltung ..........
 
     *   0,4
 
 
-*    *
-    *   Der Wert bestimmt sich nach § 26 Nr. 1 und 2 RVG. Eine Terminsgebühr
+*    *   Der Wert bestimmt sich nach § 26 Nr. 1 und 2 RVG. Eine Terminsgebühr
         entsteht nicht.
 
     *
@@ -4688,7 +4646,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Verfahrensgebühr für Verfahren vor dem Prozessgericht oder dem
         Amtsgericht auf Bewilligung, Verlängerung oder Verkürzung einer
         Räumungsfrist (§§ 721, 794a ZPO), wenn das Verfahren mit dem Verfahren
-        über die Hauptsache nicht verbunden ist ........
+        über die Hauptsache nicht verbunden ist ..........
 
     *   1,0
 
@@ -4696,11 +4654,19 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3335
 
     *   Verfahrensgebühr für das Verfahren über die Prozesskostenhilfe
-        ........
+        ..........
 
-    *   in Höhe der Verfahrensgebühr für das Verfahren, für das die
-        Prozesskostenhilfe beantragt wird, höchstens 1,0, bei
-        Betragsrahmengebühren höchstens 500,00 €
+    *   in Höhe der
+        Verfahrensgebühr
+        für das Verfahren,
+        für das die
+        Prozesskostenhilfe
+        beantragt wird,
+        höchstens 1,0,
+        bei Betragsrahmen-
+        gebühren
+        höchstens
+        500,00 €
 
 
 *    *   3336
@@ -4713,7 +4679,8 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Vorzeitige Beendigung des Auftrags im Fall der Nummern 3324 bis 3327,
         3334 und 3335:
-        Die Gebühren 3324 bis 3327, 3334 und 3335 betragen höchstens ........
+        Die Gebühren 3324 bis 3327, 3334 und 3335 betragen höchstens
+        ..........
 
     *   0,5
 
@@ -4725,8 +4692,6 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
             einleitenden Antrag oder einen Schriftsatz, der Sachanträge,
             Sachvortrag oder die Zurücknahme des Antrags enthält, eingereicht oder
             bevor er einen gerichtlichen Termin wahrgenommen hat, oder
-
-
 
 
         2.  soweit lediglich beantragt ist, eine Einigung der Parteien oder der
@@ -4741,15 +4706,22 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3338
 
     *   Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines
-        Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) ........
+        Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) ..........
 
     *   0,8
 
 
-*    *
+*    *   3339
+
+    *   Verfahrensgebühr für das Umsetzungsverfahren nach dem VDuG ..........
+        Bei der Vertretung mehrerer Verbraucher, die verschiedene Ansprüche
+        geltend machen, entsteht die Gebühr jeweils besonders.
+
+    *   0,5
+
 
 *    *   Abschnitt 4
-        **Einzeltätigkeiten**
+        Einzeltätigkeiten ****
 
 
 *    *   Vorbemerkung 3.4:
@@ -4757,49 +4729,63 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Terminsgebühr nur, wenn dies ausdrücklich bestimmt ist.
 
 
-*    *
-
 *    *   3400
 
     *   Der Auftrag beschränkt sich auf die Führung des Verkehrs der Partei
         oder des Beteiligten mit dem Verfahrensbevollmächtigten:
-        Verfahrensgebühr ...................................
-        Die gleiche Gebühr entsteht auch, wenn im Einverständnis mit dem
+        Verfahrensgebühr ..........
+
+    *   in Höhe der
+        dem Verfahrens-
+        bevollmächtigten
+        zustehenden
+        Verfahrensgebühr,
+        höchstens 1,0,
+        bei Betragsrahmen-
+        gebühren
+        höchstens
+        500,00 €
+
+
+*    *   Die gleiche Gebühr entsteht auch, wenn im Einverständnis mit dem
         Auftraggeber mit der Übersendung der Akten an den Rechtsanwalt des
         höheren Rechtszugs gutachterliche Äußerungen verbunden sind.
-
-    *   in Höhe der dem Verfahrensbevollmächtigten zustehenden
-        Verfahrensgebühr, höchstens 1,0, bei Betragsrahmengebühren höchstens
-        500,00 €
 
 
 *    *   3401
 
     *   Der Auftrag beschränkt sich auf die Vertretung in einem Termin im
         Sinne der Vorbemerkung 3 Abs. 3:
-        Verfahrensgebühr ...................................
+        Verfahrensgebühr ..........
 
-    *   in Höhe der Hälfte der dem Verfahrensbevollmächtigten zustehenden
+    *   in Höhe der
+        Hälfte der
+        dem Verfahrens-
+        bevollmächtigten
+        zustehenden
         Verfahrensgebühr
 
 
 *    *   3402
 
-    *   Terminsgebühr in dem in Nummer 3401 genannten Fall.
+    *   Terminsgebühr in dem in Nummer 3401 genannten Fall ..........
 
-    *   in Höhe der einem Verfahrensbevollmächtigten zustehenden Terminsgebühr
+    *   in Höhe der
+        einem Verfahrens-
+        bevollmächtigten
+        zustehenden
+        Terminsgebühr
 
 
 *    *   3403
 
     *   Verfahrensgebühr für sonstige Einzeltätigkeiten, soweit in Nummer 3406
-        nichts anderes bestimmt ist.
+        nichts anderes bestimmt ist ..........
 
     *   0,8
 
 
-*    *
-    *   Die Gebühr entsteht für sonstige Tätigkeiten in einem gerichtlichen
+*    *   Die Gebühr entsteht für sonstige Tätigkeiten in einem gerichtlichen
         Verfahren, wenn der Rechtsanwalt nicht zum Prozess- oder
         Verfahrensbevollmächtigten bestellt ist, soweit in diesem Abschnitt
         nichts anderes bestimmt ist.
@@ -4809,13 +4795,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3404
 
     *   Der Auftrag beschränkt sich auf ein Schreiben einfacher Art:
-        Die Gebühr 3403 beträgt ............................
+        Die Gebühr 3403 beträgt ..........
 
     *   0,3
 
 
-*    *
-    *   Die Gebühr entsteht insbesondere, wenn das Schreiben weder schwierige
+*    *   Die Gebühr entsteht insbesondere, wenn das Schreiben weder schwierige
         rechtliche Ausführungen noch größere sachliche Auseinandersetzungen
         enthält.
 
@@ -4825,43 +4810,42 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Endet der Auftrag
 
-        1.  im Fall der Nummer 3400, bevor der Verfahrensbevollmächtigte
-            beauftragt oder der Rechtsanwalt gegenüber dem
-            Verfahrensbevollmächtigten tätig geworden ist,
+    *
 
-
-        2.  im Fall der Nummer 3401, bevor der Termin begonnen hat:
-
-
-
-        Die Gebühren 3400 und 3401 betragen ................
-
-    *   höchstens 0,5, bei Betragsrahmengebühren höchstens 250,00 €
-
-
-*    *
-    *   Im Fall der Nummer 3403 gilt die Vorschrift entsprechend.
+*    *   1. im Fall der Nummer 3400, bevor der Verfahrensbevollmächtigte
+        beauftragt oder der Rechtsanwalt gegenüber dem
+        Verfahrensbevollmächtigten tätig geworden ist,
 
     *
+
+*    *   2. im Fall der Nummer 3401, bevor der Termin begonnen hat:
+        Die Gebühren 3400 und 3401 betragen ..........
+
+    *   höchstens 0,5,
+        bei Betragsrahmen-
+        gebühren
+        höchstens
+        250,00 €
+
+
+*    *   Im Fall der Nummer 3403 gilt die Vorschrift entsprechend.
+
 
 *    *   3406
 
     *   Verfahrensgebühr für sonstige Einzeltätigkeiten in Verfahren vor
         Gerichten der Sozialgerichtsbarkeit, wenn Betragsrahmengebühren
-        entstehen (§ 3 RVG) .....
+        entstehen (§ 3 RVG) ..........
 
     *   36,00 bis 408,00 €
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3403 gilt entsprechend.
+*    *   Die Anmerkung zu Nummer 3403 gilt entsprechend.
 
     *
 
-*    *
-
 *    *   Abschnitt 5
-        **Beschwerde, Nichtzulassungsbeschwerde und Erinnerung**
+        Beschwerde, Nichtzulassungsbeschwerde und Erinnerung ****
 
 
 *    *   Vorbemerkung 3.5:
@@ -4869,13 +4853,11 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren.
 
 
-*    *
-
 *    *   3500
 
     *   Verfahrensgebühr für Verfahren über die Beschwerde und die Erinnerung,
         soweit in diesem Abschnitt keine besonderen Gebühren bestimmt sind
-        ..................
+        ..........
 
     *   0,5
 
@@ -4885,8 +4867,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Verfahrensgebühr für Verfahren vor den Gerichten der
         Sozialgerichtsbarkeit über die Beschwerde und die Erinnerung, wenn in
         den Verfahren Betragsrahmengebühren entstehen (§ 3 RVG), soweit in
-        diesem Abschnitt keine besonderen Gebühren bestimmt sind
-        ..................
+        diesem Abschnitt keine besonderen Gebühren bestimmt sind ..........
 
     *   24,00 bis 250,00 €
 
@@ -4894,6 +4875,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3502
 
     *   Verfahrensgebühr für das Verfahren über die Rechtsbeschwerde
+        ..........
 
     *   1,0
 
@@ -4901,13 +4883,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3503
 
     *   Vorzeitige Beendigung des Auftrags:
-        Die Gebühr 3502 beträgt ............................
+        Die Gebühr 3502 beträgt ..........
 
     *   0,5
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
+*    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
 
     *
 
@@ -4915,13 +4896,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für das Verfahren über die Beschwerde gegen die
         Nichtzulassung der Berufung, soweit in Nummer 3511 nichts anderes
-        bestimmt ist ............
+        bestimmt ist ..........
 
     *   1,6
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
+*    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
         Berufungsverfahren angerechnet.
 
     *
@@ -4929,13 +4909,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3505
 
     *   Vorzeitige Beendigung des Auftrags:
-        Die Gebühr 3504 beträgt ............................
+        Die Gebühr 3504 beträgt ..........
 
     *   1,0
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
+*    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
 
     *
 
@@ -4946,22 +4925,24 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Nichtzulassung einer der in der Vorbemerkung 3.2.2 genannten
         Rechtsbeschwerden, soweit in Nummer 3512 nichts anderes bestimmt ist
         ..........
-        Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
-        Revisions- oder Rechtsbeschwerdeverfahren angerechnet.
 
     *   1,6
 
 
+*    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
+        Revisions- oder Rechtsbeschwerdeverfahren angerechnet.
+
+    *
+
 *    *   3507
 
     *   Vorzeitige Beendigung des Auftrags:
-        Die Gebühr 3506 beträgt ............................
+        Die Gebühr 3506 beträgt ..........
 
     *   1,1
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
+*    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
 
     *
 
@@ -4970,7 +4951,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   In dem Verfahren über die Beschwerde gegen die Nichtzulassung der
         Revision können sich die Parteien nur durch einen beim
         Bundesgerichtshof zugelassenen Rechtsanwalt vertreten lassen:
-        Die Gebühr 3506 beträgt ............................
+        Die Gebühr 3506 beträgt ..........
 
     *   2,3
 
@@ -4980,13 +4961,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
     *   Vorzeitige Beendigung des Auftrags, wenn sich die Parteien nur durch
         einen beim Bundesgerichtshof zugelassenen Rechtsanwalt vertreten
         lassen können:
-        Die Gebühr 3506 beträgt ............................
+        Die Gebühr 3506 beträgt ..........
 
     *   1,8
 
 
-*    *
-    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
+*    *   Die Anmerkung zu Nummer 3201 ist entsprechend anzuwenden.
 
     *
 
@@ -4994,88 +4974,97 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für Beschwerdeverfahren vor dem Bundespatentgericht
 
-        1.  nach dem Patentgesetz, wenn sich die Beschwerde gegen einen Beschluss
-            richtet,
+    *
 
-            a)  durch den die Vergütung bei Lizenzbereitschaftserklärung festgesetzt
-                wird oder Zahlung der Vergütung an das Deutsche Patent- und Markenamt
-                angeordnet wird,
+*    *   1. nach dem Patentgesetz, wenn sich die Beschwerde gegen einen
+        Beschluss richtet,
 
-
-            b)  durch den eine Anordnung nach § 50 Abs. 1 PatG oder die Aufhebung
-                dieser Anordnung erlassen wird,
-
-
-            c)  durch den die Anmeldung zurückgewiesen oder über die
-                Aufrechterhaltung, den Widerruf oder die Beschränkung des Patents
-                entschieden wird,
+        a)  durch den die Vergütung bei Lizenzbereitschaftserklärung festgesetzt
+            wird oder Zahlung der Vergütung an das Deutsche Patent- und Markenamt
+            angeordnet wird,
 
 
 
 
+    *
 
-        2.  nach dem Gebrauchsmustergesetz, wenn sich die Beschwerde gegen einen
-            Beschluss richtet,
-
-            a)  durch den die Anmeldung zurückgewiesen wird,
-
-
-            b)  durch den über den Löschungsantrag entschieden wird,
+*    *
+    *
+        b)  durch den eine Anordnung nach § 50 Abs. 1 PatG oder die Aufhebung
+            dieser Anordnung erlassen wird,
 
 
-
-
-
-        3.  nach dem Markengesetz, wenn sich die Beschwerde gegen einen Beschluss
-            richtet,
-
-            a)  durch den über die Anmeldung einer Marke, einen Widerspruch oder einen
-                Antrag auf Löschung oder über die Erinnerung gegen einen solchen
-                Beschluss entschieden worden ist oder
-
-
-            b)  durch den ein Antrag auf Eintragung einer geographischen Angabe oder
-                einer Ursprungsbezeichnung zurückgewiesen worden ist,
+        c)  durch den die Anmeldung zurückgewiesen oder über die
+            Aufrechterhaltung, den Widerruf oder die Beschränkung des Patents
+            entschieden wird,
 
 
 
 
+    *
 
-        4.  nach dem Halbleiterschutzgesetz, wenn sich die Beschwerde gegen einen
-            Beschluss richtet,
+*    *   2. nach dem Gebrauchsmustergesetz, wenn sich die Beschwerde gegen
+        einen Beschluss richtet,
 
-            a)  durch den die Anmeldung zurückgewiesen wird,
-
-
-            b)  durch den über den Löschungsantrag entschieden wird,
+        a)  durch den die Anmeldung zurückgewiesen wird,
 
 
-
-
-
-        5.  nach dem Designgesetz, wenn sich die Beschwerde gegen einen Beschluss
-            richtet,
-
-            a)  durch den die Anmeldung eines Designs zurückgewiesen worden ist,
-
-
-            b)  durch den über den Löschungsantrag gemäß § 36 DesignG entschieden
-                worden ist,
-
-
-            c)  durch den über den Antrag auf Feststellung oder Erklärung der
-                Nichtigkeit gemäß § 34a DesignG entschieden worden ist,
+        b)  durch den über den Löschungsantrag entschieden wird,
 
 
 
 
+    *
 
-        6.  nach dem Sortenschutzgesetz, wenn sich die Beschwerde gegen einen
-            Beschluss des Widerspruchsausschusses richtet
-            .........................................
+*    *   3. nach dem Markengesetz, wenn sich die Beschwerde gegen einen
+        Beschluss richtet,
+
+        a)  durch den über die Anmeldung einer Marke, einen Widerspruch oder einen
+            Antrag auf Löschung oder über die Erinnerung gegen einen solchen
+            Beschluss entschieden worden ist oder
+
+
+        b)  durch den ein Antrag auf Eintragung einer geographischen Angabe oder
+            einer Ursprungsbezeichnung zurückgewiesen worden ist,
 
 
 
+
+    *
+
+*    *   4. nach dem Halbleiterschutzgesetz, wenn sich die Beschwerde gegen
+        einen Beschluss richtet,
+
+        a)  durch den die Anmeldung zurückgewiesen wird,
+
+
+        b)  durch den über den Löschungsantrag entschieden wird,
+
+
+
+
+    *
+
+*    *   5. nach dem Designgesetz, wenn sich die Beschwerde gegen einen
+        Beschluss richtet,
+
+        a)  durch den die Anmeldung eines Designs zurückgewiesen worden ist,
+
+
+        b)  durch den über den Löschungsantrag gemäß § 36 DesignG entschieden
+            worden ist,
+
+
+        c)  durch den über den Antrag auf Feststellung oder Erklärung der
+            Nichtigkeit gemäß § 34a DesignG entschieden worden ist,
+
+
+
+
+    *
+
+*    *   6. nach dem Sortenschutzgesetz, wenn sich die Beschwerde gegen einen
+        Beschluss des Widerspruchsausschusses richtet
 
     *   1,3
 
@@ -5084,14 +5073,12 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für das Verfahren über die Beschwerde gegen die
         Nichtzulassung der Berufung vor dem Landessozialgericht, wenn
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        ..........................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
     *   72,00 bis 816,00 €
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
+*    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
         Berufungsverfahren angerechnet.
 
     *
@@ -5100,22 +5087,19 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 
     *   Verfahrensgebühr für das Verfahren über die Beschwerde gegen die
         Nichtzulassung der Revision vor dem Bundessozialgericht, wenn
-        Betragsrahmengebühren entstehen (§ 3 RVG)
-        ..........................................
+        Betragsrahmengebühren entstehen (§ 3 RVG) ..........
 
-    *   96,00 bis 1 056,00 €
+    *   96,00 bis 1 056,00 €
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
+*    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
         Revisionsverfahren angerechnet.
 
     *
 
 *    *   3513
 
-    *   Terminsgebühr in den in Nummer 3500 genannten Verfahren
-        ..........................................
+    *   Terminsgebühr in den in Nummer 3500 genannten Verfahren ..........
 
     *   0,5
 
@@ -5127,15 +5111,14 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
         Europäischen Beschlusses zur vorläufigen Kontenpfändung oder des
         Antrags auf Erlass einer einstweiligen Verfügung bestimmt das
         Beschwerdegericht Termin zur mündlichen Verhandlung:
-        Die Gebühr 3513 beträgt ............................
+        Die Gebühr 3513 beträgt ..........
 
     *   1,2
 
 
 *    *   3515
 
-    *   Terminsgebühr in den in Nummer 3501 genannten Verfahren
-        ..........................................
+    *   Terminsgebühr in den in Nummer 3501 genannten Verfahren ..........
 
     *   24,00 bis 250,00 €
 
@@ -5143,23 +5126,21 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
 *    *   3516
 
     *   Terminsgebühr in den in Nummern 3502, 3504, 3506 und 3510 genannten
-        Verfahren .......................
+        Verfahren ..........
 
     *   1,2
 
 
 *    *   3517
 
-    *   Terminsgebühr in den in Nummer 3511 genannten Verfahren
-        ..........................................
+    *   Terminsgebühr in den in Nummer 3511 genannten Verfahren ..........
 
     *   60,00 bis 610,00 €
 
 
 *    *   3518
 
-    *   Terminsgebühr in den in Nummer 3512 genannten Verfahren
-        ..........................................
+    *   Terminsgebühr in den in Nummer 3512 genannten Verfahren ..........
 
     *   72,00 bis 792,00 €
 
@@ -5180,7 +5161,9 @@ Strafsachen
 
 *    *   Wahlanwalt
 
-    *   gerichtlich bestellter oder beigeordneter Rechtsanwalt
+    *   gerichtlich bestellter
+        oder beigeordneter
+        Rechtsanwalt
 
 
 *    *   Vorbemerkung 4:
@@ -5208,8 +5191,6 @@ Strafsachen
             gegen die Entscheidung über diese Erinnerung,
 
 
-
-
         2.  in der Zwangsvollstreckung aus Entscheidungen, die über einen aus der
             Straftat erwachsenen vermögensrechtlichen Anspruch oder die Erstattung
             von Kosten ergangen sind (§§ 406b, 464b StPO), für die Mitwirkung bei
@@ -5220,10 +5201,8 @@ Strafsachen
 
 
 
-*    *
-
 *    *   Abschnitt 1
-        **Gebühren des Verteidigers**
+        Gebühren des Verteidigers ****
 
 
 *    *   Vorbemerkung 4.1:
@@ -5243,31 +5222,31 @@ Strafsachen
         Hauptverhandlung angeordnet wurden.
 
 
-*    *
-
 *    *   Unterabschnitt 1
         Allgemeine Gebühren
 
 
-*    *
-
 *    *   4100
 
-    *   Grundgebühr ..............................
-        (1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
-        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
-        welchem Verfahrensabschnitt sie erfolgt.
-        (2) Eine wegen derselben Tat oder Handlung bereits entstandene Gebühr
-        5100 ist anzurechnen.
+    *   Grundgebühr ..........
 
     *   44,00 bis 396,00 €
 
     *   176,00 €
 
 
+*    *   (1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
+        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
+        welchem Verfahrensabschnitt sie erfolgt.
+        (2) Eine wegen derselben Tat oder Handlung bereits entstandene Gebühr
+        5100 ist anzurechnen.
+
+    *
+    *
+
 *    *   4101
 
-    *   Gebühr 4100 mit Zuschlag .................
+    *   Gebühr 4100 mit Zuschlag ..........
 
     *   44,00 bis 495,00 €
 
@@ -5278,25 +5257,34 @@ Strafsachen
 
     *   Terminsgebühr für die Teilnahme an
 
-        1.  richterlichen Vernehmungen und Augenscheinseinnahmen,
+    *
+    *
 
+*    *   1. richterlichen Vernehmungen und Augenscheinseinnahmen,
 
-        2.  Vernehmungen durch die Staatsanwaltschaft oder eine andere
-            Strafverfolgungsbehörde,
+    *
+    *
 
+*    *   2. Vernehmungen durch die Staatsanwaltschaft oder eine andere
+        Strafverfolgungsbehörde,
 
-        3.  Terminen außerhalb der Hauptverhandlung, in denen über die Anordnung
-            oder Fortdauer der Untersuchungshaft oder der einstweiligen
-            Unterbringung verhandelt wird,
+    *
+    *
 
+*    *   3. Terminen außerhalb der Hauptverhandlung, in denen über die
+        Anordnung oder Fortdauer der Untersuchungshaft oder der einstweiligen
+        Unterbringung verhandelt wird,
 
-        4.  Verhandlungen im Rahmen des Täter-Opfer-Ausgleichs sowie
+    *
+    *
 
+*    *   4. Verhandlungen im Rahmen des Täter-Opfer-Ausgleichs sowie
 
-        5.  Sühneterminen nach § 380 StPO .........
+    *
+    *
 
-
-
+*    *
+    *   5. Sühneterminen nach § 380 StPO
 
     *   44,00 bis 330,00 €
 
@@ -5313,14 +5301,12 @@ Strafsachen
 
 *    *   4103
 
-    *   Gebühr 4102 mit Zuschlag .................
+    *   Gebühr 4102 mit Zuschlag ..........
 
     *   44,00 bis 413,00 €
 
     *   183,00 €
 
-
-*    *
 
 *    *   Unterabschnitt 2
         Vorbereitendes Verfahren
@@ -5331,31 +5317,31 @@ Strafsachen
         Verfahren gleich.
 
 
-*    *
-
 *    *   4104
 
-    *   Verfahrensgebühr .........................
-        Die Gebühr entsteht für eine Tätigkeit in dem Verfahren bis zum
-        Eingang der Anklageschrift, des Antrags auf Erlass eines Strafbefehls
-        bei Gericht oder im beschleunigten Verfahren bis zum Vortrag der
-        Anklage, wenn diese nur mündlich erhoben wird.
+    *   Verfahrensgebühr ..........
 
     *   44,00 bis 319,00 €
 
     *   145,00 €
 
 
+*    *   Die Gebühr entsteht für eine Tätigkeit in dem Verfahren bis zum
+        Eingang der Anklageschrift, des Antrags auf Erlass eines Strafbefehls
+        bei Gericht oder im beschleunigten Verfahren bis zum Vortrag der
+        Anklage, wenn diese nur mündlich erhoben wird.
+
+    *
+    *
+
 *    *   4105
 
-    *   Gebühr 4104 mit Zuschlag .................
+    *   Gebühr 4104 mit Zuschlag ..........
 
     *   44,00 bis 399,00 €
 
     *   177,00 €
 
-
-*    *
 
 *    *   Unterabschnitt 3
         Gerichtliches Verfahren
@@ -5367,7 +5353,7 @@ Strafsachen
 *    *   4106
 
     *   Verfahrensgebühr für den ersten Rechtszug vor dem Amtsgericht
-        ......................
+        ..........
 
     *   44,00 bis 319,00 €
 
@@ -5376,7 +5362,7 @@ Strafsachen
 
 *    *   4107
 
-    *   Gebühr 4106 mit Zuschlag .................
+    *   Gebühr 4106 mit Zuschlag ..........
 
     *   44,00 bis 399,00 €
 
@@ -5395,7 +5381,7 @@ Strafsachen
 
 *    *   4109
 
-    *   Gebühr 4108 mit Zuschlag .................
+    *   Gebühr 4108 mit Zuschlag ..........
 
     *   77,00 bis 660,00 €
 
@@ -5405,9 +5391,8 @@ Strafsachen
 *    *   4110
 
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
-        als 5 und bis 8 Stunden an der Hauptverhandlung teil: Zusätzliche
-        Gebühr neben der Gebühr 4108 oder 4109
-        ................................
+        als 5 und bis 8 Stunden an der Hauptverhandlung teil:
+        Zusätzliche Gebühr neben der Gebühr 4108 oder 4109
 
     *
     *   121,00 €
@@ -5416,8 +5401,8 @@ Strafsachen
 *    *   4111
 
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
-        als 8 Stunden an der Hauptverhandlung teil: Zusätzliche Gebühr neben
-        der Gebühr 4108 oder 4109 ................................
+        als 8 Stunden an der Hauptverhandlung teil:
+        Zusätzliche Gebühr neben der Gebühr 4108 oder 4109
 
     *
     *   242,00 €
@@ -5426,20 +5411,17 @@ Strafsachen
 *    *   4112
 
     *   Verfahrensgebühr für den ersten Rechtszug vor der Strafkammer
-        ......................
+        ..........
 
     *   55,00 bis 352,00 €
 
     *   163,00 €
 
 
-*    *
-    *   Die Gebühr entsteht auch für Verfahren
+*    *   Die Gebühr entsteht auch für Verfahren
 
         1.  vor der Jugendkammer, soweit sich die Gebühr nicht nach Nummer 4118
             bestimmt,
-
-
 
 
         2.  im Rehabilitierungsverfahren nach Abschnitt 2 StrRehaG.
@@ -5452,7 +5434,7 @@ Strafsachen
 
 *    *   4113
 
-    *   Gebühr 4112 mit Zuschlag .................
+    *   Gebühr 4112 mit Zuschlag ..........
 
     *   55,00 bis 440,00 €
 
@@ -5462,7 +5444,7 @@ Strafsachen
 *    *   4114
 
     *   Terminsgebühr je Hauptverhandlungstag in den in Nummer 4112 genannten
-        Verfahren .......
+        Verfahren ..........
 
     *   88,00 bis 616,00 €
 
@@ -5471,7 +5453,7 @@ Strafsachen
 
 *    *   4115
 
-    *   Gebühr 4114 mit Zuschlag .................
+    *   Gebühr 4114 mit Zuschlag ..........
 
     *   88,00 bis 770,00 €
 
@@ -5483,7 +5465,6 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 5 und bis 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4114 oder 4115
-        ................................
 
     *
     *   141,00 €
@@ -5494,7 +5475,6 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4114 oder 4115
-        ................................
 
     *
     *   282,00 €
@@ -5504,15 +5484,14 @@ Strafsachen
 
     *   Verfahrensgebühr für den ersten Rechtszug vor dem Oberlandesgericht,
         dem Schwurgericht oder der Strafkammer nach den §§ 74a und 74c GVG
-        ..................................
+        ..........
 
     *   110,00 bis 759,00 €
 
     *   348,00 €
 
 
-*    *
-    *   Die Gebühr entsteht auch für Verfahren vor der Jugendkammer, soweit
+*    *   Die Gebühr entsteht auch für Verfahren vor der Jugendkammer, soweit
         diese in Sachen entscheidet, die nach den allgemeinen Vorschriften zur
         Zuständigkeit des Schwurgerichts gehören.
 
@@ -5521,7 +5500,7 @@ Strafsachen
 
 *    *   4119
 
-    *   Gebühr 4118 mit Zuschlag .................
+    *   Gebühr 4118 mit Zuschlag ..........
 
     *   110,00 bis 949,00 €
 
@@ -5531,18 +5510,18 @@ Strafsachen
 *    *   4120
 
     *   Terminsgebühr je Hauptverhandlungstag in den in Nummer 4118 genannten
-        Verfahren .......
+        Verfahren ..........
 
-    *   143,00 bis 1 023,00 €
+    *   143,00 bis 1 023,00 €
 
     *   466,00 €
 
 
 *    *   4121
 
-    *   Gebühr 4120 mit Zuschlag .................
+    *   Gebühr 4120 mit Zuschlag ..........
 
-    *   143,00 bis 1 279,00 €
+    *   143,00 bis 1 279,00 €
 
     *   569,00 €
 
@@ -5552,7 +5531,6 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 5 und bis 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4120 oder 4121
-        ................................
 
     *
     *   233,00 €
@@ -5563,32 +5541,31 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4120 oder 4121
-        ................................
 
     *
     *   466,00 €
 
 
-*    *
-
 *    *   Berufung
 
 
-*    *
-
 *    *   4124
 
-    *   Verfahrensgebühr für das Berufungsverfahren .......................
-        Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.
+    *   Verfahrensgebühr für das Berufungsverfahren ..........
 
     *   88,00 bis 616,00 €
 
     *   282,00 €
 
 
+*    *   Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.
+
+    *
+    *
+
 *    *   4125
 
-    *   Gebühr 4124 mit Zuschlag .................
+    *   Gebühr 4124 mit Zuschlag ..........
 
     *   88,00 bis 770,00 €
 
@@ -5597,23 +5574,21 @@ Strafsachen
 
 *    *   4126
 
-    *   Terminsgebühr je Hauptverhandlungstag im Berufungsverfahren
-        .......................
+    *   Terminsgebühr je Hauptverhandlungstag im Berufungsverfahren ..........
 
     *   88,00 bis 616,00 €
 
     *   282,00 €
 
 
-*    *
-    *   Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.
+*    *   Die Gebühr entsteht auch für Beschwerdeverfahren nach § 13 StrRehaG.
 
     *
     *
 
 *    *   4127
 
-    *   Gebühr 4126 mit Zuschlag .................
+    *   Gebühr 4126 mit Zuschlag ..........
 
     *   88,00 bis 770,00 €
 
@@ -5625,7 +5600,6 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 5 und bis 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4126 oder 4127
-        ................................
 
     *
     *   141,00 €
@@ -5636,42 +5610,35 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4126 oder 4127
-        ................................
 
     *
     *   282,00 €
 
 
-*    *
-
 *    *   Revision
 
 
-*    *
-
 *    *   4130
 
-    *   Verfahrensgebühr für das Revisionsverfahren
-        ................................
+    *   Verfahrensgebühr für das Revisionsverfahren ..........
 
-    *   132,00 bis 1 221,00 €
+    *   132,00 bis 1 221,00 €
 
     *   541,00 €
 
 
 *    *   4131
 
-    *   Gebühr 4130 mit Zuschlag .................
+    *   Gebühr 4130 mit Zuschlag ..........
 
-    *   132,00 bis 1 526,00 €
+    *   132,00 bis 1 526,00 €
 
     *   663,00 €
 
 
 *    *   4132
 
-    *   Terminsgebühr je Hauptverhandlungstag im Revisionsverfahren
-        .......................
+    *   Terminsgebühr je Hauptverhandlungstag im Revisionsverfahren ..........
 
     *   132,00 bis 616,00 €
 
@@ -5680,7 +5647,7 @@ Strafsachen
 
 *    *   4133
 
-    *   Gebühr 4132 mit Zuschlag .................
+    *   Gebühr 4132 mit Zuschlag ..........
 
     *   132,00 bis 770,00 €
 
@@ -5692,7 +5659,6 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 5 und bis 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4132 oder 4133
-        ................................
 
     *
     *   150,00 €
@@ -5703,13 +5669,10 @@ Strafsachen
     *   Der gerichtlich bestellte oder beigeordnete Rechtsanwalt nimmt mehr
         als 8 Stunden an der Hauptverhandlung teil:
         Zusätzliche Gebühr neben der Gebühr 4132 oder 4133
-        ................................
 
     *
     *   300,00 €
 
-
-*    *
 
 *    *   Unterabschnitt 4
         Wiederaufnahmeverfahren
@@ -5719,63 +5682,68 @@ Strafsachen
         Eine Grundgebühr entsteht nicht.
 
 
-*    *
-
 *    *   4136
 
-    *   Geschäftsgebühr für die Vorbereitung eines Antrags
-        ..................................
-        Die Gebühr entsteht auch, wenn von der Stellung eines Antrags
-        abgeraten wird.
+    *   Geschäftsgebühr für die Vorbereitung eines Antrags ..........
 
-    *   in Höhe der Verfahrensgebühr für den ersten Rechtszug
+    *   in Höhe der Verfahrensgebühr
+        für den ersten Rechtszug
+
+
+*    *   Die Gebühr entsteht auch, wenn von der Stellung eines Antrags
+        abgeraten wird.
 
 
 *    *   4137
 
     *   Verfahrensgebühr für das Verfahren über die Zulässigkeit des Antrags
-        .............
+        ..........
 
-    *   in Höhe der Verfahrensgebühr für den ersten Rechtszug
+    *   in Höhe der Verfahrensgebühr
+        für den ersten Rechtszug
 
 
 *    *   4138
 
-    *   Verfahrensgebühr für das weitere Verfahren
-        ................................
+    *   Verfahrensgebühr für das weitere Verfahren ..........
 
-    *   in Höhe der Verfahrensgebühr für den ersten Rechtszug
+    *   in Höhe der Verfahrensgebühr
+        für den ersten Rechtszug
 
 
 *    *   4139
 
-    *   Verfahrensgebühr für das Beschwerdeverfahren (§ 372 StPO)
-        ...................
+    *   Verfahrensgebühr für das Beschwerdeverfahren (§ 372 StPO) ..........
 
-    *   in Höhe der Verfahrensgebühr für den ersten Rechtszug
+    *   in Höhe der Verfahrensgebühr
+        für den ersten Rechtszug
 
 
 *    *   4140
 
     *   Terminsgebühr für jeden Verhandlungstag ..........
 
-    *   in Höhe der Terminsgebühr für den ersten Rechtszug
+    *   in Höhe der Terminsgebühr
+        für den ersten Rechtszug
 
-
-*    *
 
 *    *   Unterabschnitt 5
         Zusätzliche Gebühren
 
 
-*    *
-
 *    *   4141
 
     *   Durch die anwaltliche Mitwirkung wird die Hauptverhandlung
         entbehrlich:
-        Zusätzliche Gebühr ..........
-        (1) Die Gebühr entsteht, wenn
+
+    *
+
+*    *   Zusätzliche Gebühr ..........
+
+    *   in Höhe der Verfahrensgebühr
+
+
+*    *   (1) Die Gebühr entsteht, wenn
 
         1.  das Strafverfahren nicht nur vorläufig eingestellt wird oder
 
@@ -5806,21 +5774,18 @@ Strafsachen
         Gebühr nach der Rahmenmitte. Eine Erhöhung nach Nummer 1008 und der
         Zuschlag (Vorbemerkung 4 Abs. 4) sind nicht zu berücksichtigen.
 
-    *   in Höhe der Verfahrensgebühr
-
+    *
 
 *    *   4142
 
-    *   Verfahrensgebühr bei Einziehung und verwandten Maßnahmen
-        .....................
+    *   Verfahrensgebühr bei Einziehung und verwandten Maßnahmen ..........
 
     *   1,0
 
     *   1,0
 
 
-*    *
-    *   (1) Die Gebühr entsteht für eine Tätigkeit für den Beschuldigten, die
+*    *   (1) Die Gebühr entsteht für eine Tätigkeit für den Beschuldigten, die
         sich auf die Einziehung, dieser gleichstehende Rechtsfolgen (§ 439
         StPO), die Abführung des Mehrerlöses oder auf eine diesen Zwecken
         dienende Beschlagnahme bezieht.
@@ -5836,15 +5801,14 @@ Strafsachen
 *    *   4143
 
     *   Verfahrensgebühr für das erstinstanzliche Verfahren über
-        vermögensrechtliche Ansprüche (§ 403 StPO) .........
+        vermögensrechtliche Ansprüche (§ 403 StPO) ..........
 
     *   2,0
 
     *   2,0
 
 
-*    *
-    *   (1) Die Gebühr entsteht auch, wenn der Anspruch erstmalig im
+*    *   (1) Die Gebühr entsteht auch, wenn der Anspruch erstmalig im
         Berufungsverfahren geltend gemacht wird.
         (2) Die Gebühr wird zu einem Drittel auf die Verfahrensgebühr, die für
         einen bürgerlichen Rechtsstreit wegen desselben Anspruchs entsteht,
@@ -5856,7 +5820,7 @@ Strafsachen
 *    *   4144
 
     *   Verfahrensgebühr im Berufungs- und Revisionsverfahren über
-        vermögensrechtliche Ansprüche (§ 403 StPO) .........
+        vermögensrechtliche Ansprüche (§ 403 StPO) ..........
 
     *   2,5
 
@@ -5867,7 +5831,7 @@ Strafsachen
 
     *   Verfahrensgebühr für das Verfahren über die Beschwerde gegen den
         Beschluss, mit dem nach § 406 Abs. 5 Satz 2 StPO von einer
-        Entscheidung abgesehen wird ........
+        Entscheidung abgesehen wird ..........
 
     *   0,5
 
@@ -5879,7 +5843,7 @@ Strafsachen
     *   Verfahrensgebühr für das Verfahren über einen Antrag auf gerichtliche
         Entscheidung oder über die Beschwerde gegen eine den Rechtszug
         beendende Entscheidung nach § 25 Abs. 1 Satz 3 bis 5, § 13 StrRehaG
-        .......
+        ..........
 
     *   1,5
 
@@ -5895,18 +5859,16 @@ Strafsachen
     *   in Höhe der Verfahrensgebühr
 
 
-*    *
-    *   Für einen Vertrag über sonstige Ansprüche entsteht eine weitere
+*    *   Für einen Vertrag über sonstige Ansprüche entsteht eine weitere
         Einigungsgebühr nach Teil 1. Maßgebend für die Höhe der Gebühr ist die
         im Einzelfall bestimmte Verfahrensgebühr in der Angelegenheit, in der
         die Einigung erfolgt. Eine Erhöhung nach Nummer 1008 und der Zuschlag
         (Vorbemerkung 4 Abs. 4) sind nicht zu berücksichtigen.
 
-
-*    *
+    *
 
 *    *   Abschnitt 2
-        **Gebühren in der Strafvollstreckung**
+        Gebühren in der Strafvollstreckung ****
 
 
 *    *   Vorbemerkung 4.2:
@@ -5914,44 +5876,38 @@ Strafsachen
         Hauptsache entstehen die Gebühren besonders.
 
 
-*    *
-
 *    *   4200
 
     *   Verfahrensgebühr als Verteidiger für ein Verfahren über
 
-        1.  die Erledigung oder Aussetzung der Maßregel der Unterbringung
+    *
+    *
 
-            a)  in der Sicherungsverwahrung,
+*    *   1. die Erledigung oder Aussetzung der Maßregel der Unterbringung
 
-
-
-
-            b)  in einem psychiatrischen Krankenhaus oder
+        a)  in der Sicherungsverwahrung,
 
 
+        b)  in einem psychiatrischen Krankenhaus oder
 
 
-            c)  in einer Entziehungsanstalt
-
+        c)  in einer Entziehungsanstalt,
 
 
 
 
+    *
+    *
 
+*    *   2. die Aussetzung des Restes einer zeitigen Freiheitsstrafe oder einer
+        lebenslangen Freiheitsstrafe oder
 
-        2.  die Aussetzung des Restes einer zeitigen Freiheitsstrafe oder einer
-            lebenslangen Freiheitsstrafe oder
+    *
+    *
 
-
-
-
-        3.  den Widerruf einer Strafaussetzung zur Bewährung oder den Widerruf der
-            Aussetzung einer Maßregel der Besserung und Sicherung zur Bewährung
-            .........................
-
-
-
+*    *   3. den Widerruf einer Strafaussetzung zur Bewährung oder den Widerruf
+        der Aussetzung einer Maßregel der Besserung und Sicherung zur
+        Bewährung ..........
 
     *   66,00 bis 737,00 €
 
@@ -5960,7 +5916,7 @@ Strafsachen
 
 *    *   4201
 
-    *   Gebühr 4200 mit Zuschlag .................
+    *   Gebühr 4200 mit Zuschlag ..........
 
     *   66,00 bis 921,00 €
 
@@ -5969,8 +5925,7 @@ Strafsachen
 
 *    *   4202
 
-    *   Terminsgebühr in den in Nummer 4200 genannten Verfahren
-        ......................
+    *   Terminsgebühr in den in Nummer 4200 genannten Verfahren ..........
 
     *   66,00 bis 330,00 €
 
@@ -5979,7 +5934,7 @@ Strafsachen
 
 *    *   4203
 
-    *   Gebühr 4202 mit Zuschlag .................
+    *   Gebühr 4202 mit Zuschlag ..........
 
     *   66,00 bis 413,00 €
 
@@ -5989,7 +5944,7 @@ Strafsachen
 *    *   4204
 
     *   Verfahrensgebühr für sonstige Verfahren in der Strafvollstreckung
-        ................
+        ..........
 
     *   33,00 bis 330,00 €
 
@@ -5998,7 +5953,7 @@ Strafsachen
 
 *    *   4205
 
-    *   Gebühr 4204 mit Zuschlag .................
+    *   Gebühr 4204 mit Zuschlag ..........
 
     *   33,00 bis 413,00 €
 
@@ -6007,7 +5962,7 @@ Strafsachen
 
 *    *   4206
 
-    *   Terminsgebühr für sonstige Verfahren .....
+    *   Terminsgebühr für sonstige Verfahren ..........
 
     *   33,00 bis 330,00 €
 
@@ -6016,17 +5971,15 @@ Strafsachen
 
 *    *   4207
 
-    *   Gebühr 4206 mit Zuschlag .................
+    *   Gebühr 4206 mit Zuschlag ..........
 
     *   33,00 bis 413,00 €
 
     *   178,00 €
 
 
-*    *
-
 *    *   Abschnitt 3
-        **Einzeltätigkeiten**
+        Einzeltätigkeiten ****
 
 
 *    *   Vorbemerkung 4.3:
@@ -6045,36 +5998,32 @@ Strafsachen
         Gebühren angerechnet.
 
 
-*    *
-
 *    *   4300
 
     *   Verfahrensgebühr für die Anfertigung oder Unterzeichnung einer Schrift
 
-        1.  zur Begründung der Revision,
+    *
+    *
 
+*    *   1. zur Begründung der Revision,
 
+    *
+    *
 
+*    *   2. zur Erklärung auf die von dem Staatsanwalt, Privatkläger oder
+        Nebenkläger eingelegte Revision oder
 
-        2.  zur Erklärung auf die von dem Staatsanwalt, Privatkläger oder
-            Nebenkläger eingelegte Revision oder
+    *
+    *
 
-
-
-
-        3.  in Verfahren nach den §§ 57a und 67e StGB
-            ..............................
-
-
-
+*    *   3. in Verfahren nach den §§ 57a und 67e StGB ..........
 
     *   66,00 bis 737,00 €
 
     *   321,00 €
 
 
-*    *
-    *   Neben der Gebühr für die Begründung der Revision entsteht für die
+*    *   Neben der Gebühr für die Begründung der Revision entsteht für die
         Einlegung der Revision keine besondere Gebühr.
 
     *
@@ -6084,49 +6033,48 @@ Strafsachen
 
     *   Verfahrensgebühr für
 
-        1.  die Anfertigung oder Unterzeichnung einer Privatklage,
+    *
+    *
 
+*    *   1. die Anfertigung oder Unterzeichnung einer Privatklage,
 
+    *
+    *
 
+*    *   2. die Anfertigung oder Unterzeichnung einer Schrift zur
+        Rechtfertigung der Berufung oder zur Beantwortung der von dem
+        Staatsanwalt, Privatkläger oder Nebenkläger eingelegten Berufung,
 
-        2.  die Anfertigung oder Unterzeichnung einer Schrift zur Rechtfertigung
-            der Berufung oder zur Beantwortung der von dem Staatsanwalt,
-            Privatkläger oder Nebenkläger eingelegten Berufung,
+    *
+    *
 
+*    *   3. die Führung des Verkehrs mit dem Verteidiger,
 
+    *
+    *
 
+*    *   4. die Beistandsleistung für den Beschuldigten bei einer richterlichen
+        Vernehmung, einer Vernehmung durch die Staatsanwaltschaft oder eine
+        andere Strafverfolgungsbehörde oder in einer Hauptverhandlung, einer
+        mündlichen Anhörung oder bei einer Augenscheinseinnahme,
 
-        3.  die Führung des Verkehrs mit dem Verteidiger,
+    *
+    *
 
+*    *   5. die Beistandsleistung im Verfahren zur gerichtlichen Erzwingung der
+        Anklage (§ 172 Abs. 2 bis 4, § 173 StPO) oder
 
+    *
+    *
 
-
-        4.  die Beistandsleistung für den Beschuldigten bei einer richterlichen
-            Vernehmung, einer Vernehmung durch die Staatsanwaltschaft oder eine
-            andere Strafverfolgungsbehörde oder in einer Hauptverhandlung, einer
-            mündlichen Anhörung oder bei einer Augenscheinseinnahme,
-
-
-
-
-        5.  die Beistandsleistung im Verfahren zur gerichtlichen Erzwingung der
-            Anklage (§ 172 Abs. 2 bis 4, § 173 StPO) oder
-
-
-
-
-        6.  sonstige Tätigkeiten in der Strafvollstreckung ................
-
-
-
+*    *   6. sonstige Tätigkeiten in der Strafvollstreckung ..........
 
     *   44,00 bis 506,00 €
 
     *   220,00 €
 
 
-*    *
-    *   Neben der Gebühr für die Rechtfertigung der Berufung entsteht für die
+*    *   Neben der Gebühr für die Rechtfertigung der Berufung entsteht für die
         Einlegung der Berufung keine besondere Gebühr.
 
     *
@@ -6136,22 +6084,22 @@ Strafsachen
 
     *   Verfahrensgebühr für
 
-        1.  die Einlegung eines Rechtsmittels,
+    *
+    *
 
+*    *   1. die Einlegung eines Rechtsmittels,
 
+    *
+    *
 
+*    *   2. die Anfertigung oder Unterzeichnung anderer Anträge, Gesuche oder
+        Erklärungen oder
 
-        2.  die Anfertigung oder Unterzeichnung anderer Anträge, Gesuche oder
-            Erklärungen oder
+    *
+    *
 
-
-
-
-        3.  eine andere nicht in Nummer 4300 oder 4301 erwähnte Beistandsleistung
-            .......
-
-
-
+*    *   3. eine andere nicht in Nummer 4300 oder 4301 erwähnte
+        Beistandsleistung ..........
 
     *   33,00 bis 319,00 €
 
@@ -6160,21 +6108,25 @@ Strafsachen
 
 *    *   4303
 
-    *   Verfahrensgebühr für die Vertretung in einer Gnadensache ............
-        Der Rechtsanwalt erhält die Gebühr auch, wenn ihm die Verteidigung
-        übertragen war.
+    *   Verfahrensgebühr für die Vertretung in einer Gnadensache ..........
 
     *   33,00 bis 330,00 €
 
     *
 
+*    *   Der Rechtsanwalt erhält die Gebühr auch, wenn ihm die Verteidigung
+        übertragen war.
+
+    *
+    *
+
 *    *   4304
 
     *   Gebühr für den als Kontaktperson beigeordneten Rechtsanwalt (§ 34a
-        EGGVG).
+        EGGVG) ..........
 
     *
-    *   3 850,00 €
+    *   3 850,00 €
 
 
 
@@ -6193,7 +6145,9 @@ Bußgeldsachen
 
 *    *   Wahlanwalt
 
-    *   gerichtlich bestellter oder beigeordneter Rechtsanwalt
+    *   gerichtlich bestellter
+        oder beigeordneter
+        Rechtsanwalt
 
 
 *    *   Vorbemerkung 5:
@@ -6222,8 +6176,6 @@ Bußgeldsachen
             gegen einen Kostenfestsetzungsbeschluss gleich,
 
 
-
-
         2.  in der Zwangsvollstreckung aus Entscheidungen, die über die Erstattung
             von Kosten ergangen sind, und für das Beschwerdeverfahren gegen die
             gerichtliche Entscheidung nach Nummer 1.
@@ -6232,10 +6184,8 @@ Bußgeldsachen
 
 
 
-*    *
-
 *    *   Abschnitt 1
-        **Gebühren des Verteidigers**
+        Gebühren des Verteidigers ****
 
 
 *    *   Vorbemerkung 5.1:
@@ -6250,30 +6200,28 @@ Bußgeldsachen
         maßgebend. Mehrere Geldbußen sind zusammenzurechnen.
 
 
-*    *
-
 *    *   Unterabschnitt 1
         Allgemeine Gebühr
 
 
-*    *
-
 *    *   5100
 
-    *   Grundgebühr ..............................
-        (1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
-        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
-        welchem Verfahrensabschnitt sie erfolgt.
-        (2) Die Gebühr entsteht nicht, wenn in einem vorangegangenen
-        Strafverfahren für dieselbe Handlung oder Tat die Gebühr 4100
-        entstanden ist.
+    *   Grundgebühr ..........
 
     *   33,00 bis 187,00 €
 
     *   88,00 €
 
 
-*    *
+*    *   (1) Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
+        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
+        welchem Verfahrensabschnitt sie erfolgt.
+        (2) Die Gebühr entsteht nicht, wenn in einem vorangegangenen
+        Strafverfahren für dieselbe Handlung oder Tat die Gebühr 4100
+        entstanden ist.
+
+    *
+    *
 
 *    *   Unterabschnitt 2
         Verfahren vor der Verwaltungsbehörde
@@ -6287,12 +6235,9 @@ Bußgeldsachen
         vor der Polizei oder der Verwaltungsbehörde.
 
 
-*    *
-
 *    *   5101
 
-    *   Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 €
-        ....................
+    *   Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ..........
 
     *   22,00 bis 121,00 €
 
@@ -6302,7 +6247,7 @@ Bußgeldsachen
 *    *   5102
 
     *   Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5101
-        genannten Verfahren stattfindet ....................
+        genannten Verfahren stattfindet ..........
 
     *   22,00 bis 121,00 €
 
@@ -6311,8 +6256,8 @@ Bußgeldsachen
 
 *    *   5103
 
-    *   Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 €
-        ...............
+    *   Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 €
+        ..........
 
     *   33,00 bis 319,00 €
 
@@ -6322,7 +6267,7 @@ Bußgeldsachen
 *    *   5104
 
     *   Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5103
-        genannten Verfahren stattfindet ....................
+        genannten Verfahren stattfindet ..........
 
     *   33,00 bis 319,00 €
 
@@ -6331,8 +6276,7 @@ Bußgeldsachen
 
 *    *   5105
 
-    *   Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 €
-        ....................
+    *   Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 € ..........
 
     *   44,00 bis 330,00 €
 
@@ -6342,14 +6286,12 @@ Bußgeldsachen
 *    *   5106
 
     *   Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5105
-        genannten Verfahren stattfindet ....................
+        genannten Verfahren stattfindet ..........
 
     *   44,00 bis 330,00 €
 
     *   150,00 €
 
-
-*    *
 
 *    *   Unterabschnitt 3
         Gerichtliches Verfahren im ersten Rechtszug
@@ -6364,12 +6306,9 @@ Bußgeldsachen
         Wiederaufnahmeantrags abgeraten wird.
 
 
-*    *
-
 *    *   5107
 
-    *   Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 €
-        ....................
+    *   Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ..........
 
     *   22,00 bis 121,00 €
 
@@ -6379,7 +6318,7 @@ Bußgeldsachen
 *    *   5108
 
     *   Terminsgebühr je Hauptverhandlungstag in den in Nummer 5107 genannten
-        Verfahren ...
+        Verfahren ..........
 
     *   22,00 bis 264,00 €
 
@@ -6388,8 +6327,8 @@ Bußgeldsachen
 
 *    *   5109
 
-    *   Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 €
-        ...............
+    *   Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 €
+        ..........
 
     *   33,00 bis 319,00 €
 
@@ -6399,7 +6338,7 @@ Bußgeldsachen
 *    *   5110
 
     *   Terminsgebühr je Hauptverhandlungstag in den in Nummer 5109 genannten
-        Verfahren ...
+        Verfahren ..........
 
     *   44,00 bis 517,00 €
 
@@ -6408,8 +6347,7 @@ Bußgeldsachen
 
 *    *   5111
 
-    *   Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 €
-        ....................
+    *   Verfahrensgebühr bei einer Geldbuße von mehr als 5 000,00 € ..........
 
     *   55,00 bis 385,00 €
 
@@ -6419,24 +6357,20 @@ Bußgeldsachen
 *    *   5112
 
     *   Terminsgebühr je Hauptverhandlungstag in den in Nummer 5111 genannten
-        Verfahren ...
+        Verfahren ..........
 
     *   88,00 bis 616,00 €
 
     *   282,00 €
 
 
-*    *
-
 *    *   Unterabschnitt 4
         Verfahren über die Rechtsbeschwerde
 
 
-*    *
-
 *    *   5113
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
     *   88,00 bis 616,00 €
 
@@ -6445,41 +6379,33 @@ Bußgeldsachen
 
 *    *   5114
 
-    *   Terminsgebühr je Hauptverhandlungstag ....
+    *   Terminsgebühr je Hauptverhandlungstag ..........
 
     *   88,00 bis 616,00 €
 
     *   282,00 €
 
 
-*    *
-
 *    *   Unterabschnitt 5
         Zusätzliche Gebühren
 
-
-*    *
 
 *    *   5115
 
     *   Durch die anwaltliche Mitwirkung wird das Verfahren vor der
         Verwaltungsbehörde erledigt oder die Hauptverhandlung entbehrlich:
-        Zusätzliche Gebühr .......................
+        Zusätzliche Gebühr ..........
 
-    *   in Höhe der jeweiligen Verfahrensgebühr
+    *   in Höhe der jeweiligen
+        Verfahrensgebühr
 
 
-*    *
-    *   (1) Die Gebühr entsteht, wenn
+*    *   (1) Die Gebühr entsteht, wenn
 
         1.  das Verfahren nicht nur vorläufig eingestellt wird oder
 
 
-
-
         2.  der Einspruch gegen den Bußgeldbescheid zurückgenommen wird oder
-
-
 
 
         3.  der Bußgeldbescheid nach Einspruch von der Verwaltungsbehörde
@@ -6489,6 +6415,9 @@ Bußgeldsachen
 
 
 
+
+*    *
+    *
         4.  sich das gerichtliche Verfahren durch Rücknahme des Einspruchs gegen
             den Bußgeldbescheid oder der Rechtsbeschwerde des Betroffenen oder
             eines anderen Verfahrensbeteiligten erledigt; ist bereits ein Termin
@@ -6498,32 +6427,29 @@ Bußgeldsachen
             wird, oder
 
 
-
-
         5.  das Gericht nach § 72 Abs. 1 Satz 1 OWiG durch Beschluss entscheidet.
-            (2) Die Gebühr entsteht nicht, wenn eine auf die Förderung des
-            Verfahrens gerichtete Tätigkeit nicht ersichtlich ist.
-            (3) Die Höhe der Gebühr richtet sich nach dem Rechtszug, in dem die
-            Hauptverhandlung vermieden wurde. Für den Wahlanwalt bemisst sich die
-            Gebühr nach der Rahmenmitte.
 
 
 
+        (2) Die Gebühr entsteht nicht, wenn eine auf die Förderung des
+        Verfahrens gerichtete Tätigkeit nicht ersichtlich ist.
+        (3) Die Höhe der Gebühr richtet sich nach dem Rechtszug, in dem die
+        Hauptverhandlung vermieden wurde. Für den Wahlanwalt bemisst sich die
+        Gebühr nach der Rahmenmitte.
 
+    *
     *
 
 *    *   5116
 
-    *   Verfahrensgebühr bei Einziehung und verwandten Maßnahmen
-        .....................
+    *   Verfahrensgebühr bei Einziehung und verwandten Maßnahmen ..........
 
     *   1,0
 
     *   1,0
 
 
-*    *
-    *   (1) Die Gebühr entsteht für eine Tätigkeit für den Betroffenen, die
+*    *   (1) Die Gebühr entsteht für eine Tätigkeit für den Betroffenen, die
         sich auf die Einziehung oder dieser gleichstehende Rechtsfolgen (§ 46
         Abs. 1 OWiG, § 439 StPO) oder auf eine diesen Zwecken dienende
         Beschlagnahme bezieht.
@@ -6536,18 +6462,20 @@ Bußgeldsachen
     *
     *
 
-*    *
-
 *    *   Abschnitt 2
-        **Einzeltätigkeiten**
+        Einzeltätigkeiten ****
 
-
-*    *
 
 *    *   5200
 
-    *   Verfahrensgebühr .........................
-        (1) Die Gebühr entsteht für einzelne Tätigkeiten, ohne dass dem
+    *   Verfahrensgebühr ..........
+
+    *   22,00 bis 121,00 €
+
+    *   57,00 €
+
+
+*    *   (1) Die Gebühr entsteht für einzelne Tätigkeiten, ohne dass dem
         Rechtsanwalt sonst die Verteidigung übertragen ist.
         (2) Die Gebühr entsteht für jede Tätigkeit gesondert, soweit nichts
         anderes bestimmt ist. § 15 RVG bleibt unberührt.
@@ -6558,14 +6486,12 @@ Bußgeldsachen
         Vollstreckung und in einer Gnadensache auch, wenn ihm die Verteidigung
         übertragen war.
 
-    *   22,00 bis 121,00 €
-
-    *   57,00 €
-
+    *
+    *
 
 
 
-Teil 6
+   Teil 6
 Sonstige Verfahren
 ##
 
@@ -6576,9 +6502,12 @@ Sonstige Verfahren
     *   Gebühr
 
 
-*    *   Wahlverteidiger oder Verfahrensbevollmächtigter
+*    *   Wahlverteidiger oder
+        Verfahrensbevollmächtigter
 
-    *   gerichtlich bestellter oder beigeordneter Rechtsanwalt
+    *   gerichtlich bestellter
+        oder beigeordneter
+        Rechtsanwalt
 
 
 *    *   Vorbemerkung 6:
@@ -6596,28 +6525,16 @@ Sonstige Verfahren
         oder Verlegung des Termins in Kenntnis gesetzt worden ist.
 
 
-*    *
-
 *    *   Abschnitt 1
         Verfahren nach dem Gesetz über die internationale Rechtshilfe in
         Strafsachen
-        **und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem
-        Internationalen Strafgerichtshof**
+        und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem
+        Internationalen Strafgerichtshof ****
 
-
-*    *
-    *
-    *
-    *
 
 *    *   Unterabschnitt 1
         Verfahren vor der Verwaltungsbehörde
 
-
-*    *
-    *
-    *
-    *
 
 *    *   Vorbemerkung 6.1.1:
         Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit
@@ -6628,30 +6545,20 @@ Sonstige Verfahren
 
 *    *   6100
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
     *   55,00 bis 374,00 €
 
     *   172,00 €
 
 
-*    *
-    *
-    *
-    *
-
 *    *   Unterabschnitt 2
         Gerichtliches Verfahren
 
 
-*    *
-    *
-    *
-    *
-
 *    *   6101
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
     *   110,00 bis 759,00 €
 
@@ -6660,18 +6567,16 @@ Sonstige Verfahren
 
 *    *   6102
 
-    *   Terminsgebühr je Verhandlungstag
+    *   Terminsgebühr je Verhandlungstag ..........
 
-    *   143,00 bis 1 023,00 €
+    *   143,00 bis 1 023,00 €
 
     *   466,00 €
 
 
-*    *
-
 *    *   Abschnitt 2
-        **Disziplinarverfahren, berufsgerichtliche Verfahren wegen der
-        Verletzung einer Berufspflicht**
+        Disziplinarverfahren, berufsgerichtliche Verfahren wegen der
+        Verletzung einer Berufspflicht ****
 
 
 *    *   Vorbemerkung 6.2:
@@ -6687,8 +6592,6 @@ Sonstige Verfahren
             die Entscheidung über diese Erinnerung,
 
 
-
-
         2.  in der Zwangsvollstreckung aus einer Entscheidung, die über die
             Erstattung von Kosten ergangen ist, und für das Beschwerdeverfahren
             gegen diese Entscheidung.
@@ -6697,70 +6600,69 @@ Sonstige Verfahren
 
 
 
-*    *
-
 *    *   Unterabschnitt 1
         Allgemeine Gebühren
 
 
-*    *
-
 *    *   6200
 
-    *   Grundgebühr ..............................
-        Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
-        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
-        welchem Verfahrensabschnitt sie erfolgt.
+    *   Grundgebühr ..........
 
     *   44,00 bis 385,00 €
 
     *   172,00 €
 
 
+*    *   Die Gebühr entsteht neben der Verfahrensgebühr für die erstmalige
+        Einarbeitung in den Rechtsfall nur einmal, unabhängig davon, in
+        welchem Verfahrensabschnitt sie erfolgt.
+
+    *
+    *
+
 *    *   6201
 
-    *   Terminsgebühr für jeden Tag, an dem ein Termin stattfindet
-        .......................
+    *   Terminsgebühr für jeden Tag, an dem ein Termin stattfindet ..........
 
     *   44,00 bis 407,00 €
 
     *   180,00 €
 
 
-*    *
-    *   Die Gebühr entsteht für die Teilnahme an außergerichtlichen
+*    *   Die Gebühr entsteht für die Teilnahme an außergerichtlichen
         Anhörungsterminen und außergerichtlichen Terminen zur Beweiserhebung.
 
     *
     *
 
-*    *
-
 *    *   Unterabschnitt 2
         Außergerichtliches Verfahren
 
 
-*    *
-
 *    *   6202
 
-    *   Verfahrensgebühr .........................
-        (1) Die Gebühr entsteht gesondert für eine Tätigkeit in einem dem
-        gerichtlichen Verfahren vorausgehenden und der Überprüfung der
-        Verwaltungsentscheidung dienenden weiteren außergerichtlichen
-        Verfahren.
-        (2) Die Gebühr entsteht für eine Tätigkeit in dem Verfahren bis zum
-        Eingang des Antrags oder der Anschuldigungsschrift bei Gericht.
+    *   Verfahrensgebühr ..........
 
     *   44,00 bis 319,00 €
 
     *   145,00 €
 
 
-*    *
+*    *   (1) Die Gebühr entsteht gesondert für eine Tätigkeit in einem dem
+        gerichtlichen Verfahren vorausgehenden und der Überprüfung der
+        Verwaltungsentscheidung dienenden weiteren außergerichtlichen
+        Verfahren.
+        (2) Die Gebühr entsteht für eine Tätigkeit in dem Verfahren bis zum
+        Eingang des Antrags oder der Anschuldigungsschrift bei Gericht.
+
+    *
+    *
 
 *    *   Unterabschnitt 3
-        Gerichtliches Verfahren Erster Rechtszug
+        Gerichtliches Verfahren
+
+
+*    *   Erster Rechtszug
 
 
 *    *   Vorbemerkung 6.2.3:
@@ -6776,11 +6678,9 @@ Sonstige Verfahren
         Hauptverhandlung angeordnet wurden.
 
 
-*    *
-
 *    *   6203
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
     *   55,00 bis 352,00 €
 
@@ -6789,7 +6689,7 @@ Sonstige Verfahren
 
 *    *   6204
 
-    *   Terminsgebühr je Verhandlungstag .........
+    *   Terminsgebühr je Verhandlungstag ..........
 
     *   88,00 bis 616,00 €
 
@@ -6800,7 +6700,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6204.
+        Zusätzliche Gebühr neben der Gebühr 6204 ..........
 
     *
     *   141,00 €
@@ -6810,22 +6710,18 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6204.
+        Zusätzliche Gebühr neben der Gebühr 6204 ..........
 
     *
     *   282,00 €
 
 
-*    *
-
 *    *   Zweiter Rechtszug
 
 
-*    *
-
 *    *   6207
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
     *   88,00 bis 616,00 €
 
@@ -6834,7 +6730,7 @@ Sonstige Verfahren
 
 *    *   6208
 
-    *   Terminsgebühr je Verhandlungstag .........
+    *   Terminsgebühr je Verhandlungstag ..........
 
     *   88,00 bis 616,00 €
 
@@ -6845,7 +6741,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6208.
+        Zusätzliche Gebühr neben der Gebühr 6208 ..........
 
     *
     *   141,00 €
@@ -6855,31 +6751,27 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6208.
+        Zusätzliche Gebühr neben der Gebühr 6208 ..........
 
     *
     *   282,00 €
 
 
-*    *
-
 *    *   Dritter Rechtszug
 
 
-*    *
-
 *    *   6211
 
-    *   Verfahrensgebühr .........................
+    *   Verfahrensgebühr ..........
 
-    *   132,00 bis 1 221,00 €
+    *   132,00 bis 1 221,00 €
 
     *   541,00 €
 
 
 *    *   6212
 
-    *   Terminsgebühr je Verhandlungstag ....
+    *   Terminsgebühr je Verhandlungstag ..........
 
     *   132,00 bis 605,00 €
 
@@ -6890,7 +6782,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 5 und bis 8
         Stunden an der Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6212.
+        Zusätzliche Gebühr neben der Gebühr 6212 ..........
 
     *
     *   147,00 €
@@ -6900,7 +6792,7 @@ Sonstige Verfahren
 
     *   Der gerichtlich bestellte Rechtsanwalt nimmt mehr als 8 Stunden an der
         Hauptverhandlung teil:
-        Zusätzliche Gebühr neben der Gebühr 6212.
+        Zusätzliche Gebühr neben der Gebühr 6212 ..........
 
     *
     *   294,00 €
@@ -6909,39 +6801,34 @@ Sonstige Verfahren
 *    *   6215
 
     *   Verfahrensgebühr für das Verfahren über die Beschwerde gegen die
-        Nichtzulassung der Revision .............................
+        Nichtzulassung der Revision ..........
 
-    *   77,00 bis 1 221,00 €
+    *   77,00 bis 1 221,00 €
 
     *   519,00 €
 
 
-*    *
-    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
+*    *   Die Gebühr wird auf die Verfahrensgebühr für ein nachfolgendes
         Revisionsverfahren angerechnet.
 
     *
     *
 
-*    *
-
 *    *   Unterabschnitt 4
         Zusatzgebühr
 
-
-*    *
 
 *    *   6216
 
     *   Durch die anwaltliche Mitwirkung wird die mündliche Verhandlung
         entbehrlich:
-        Zusätzliche Gebühr .......................
+        Zusätzliche Gebühr ..........
 
-    *   in Höhe der jeweiligen Verfahrensgebühr
+    *   in Höhe der jeweiligen
+        Verfahrensgebühr
 
 
-*    *
-    *   (1) Die Gebühr entsteht, wenn eine gerichtliche Entscheidung mit
+*    *   (1) Die Gebühr entsteht, wenn eine gerichtliche Entscheidung mit
         Zustimmung der Beteiligten ohne mündliche Verhandlung ergeht oder
         einer beabsichtigten Entscheidung ohne Hauptverhandlungstermin nicht
         widersprochen wird.
@@ -6951,81 +6838,75 @@ Sonstige Verfahren
         Hauptverhandlung vermieden wurde. Für den Wahlanwalt bemisst sich die
         Gebühr nach der Rahmenmitte.
 
-    *
-
-*    *
 
 *    *   Abschnitt 3
-        **Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung
-        und bei sonstigen Zwangsmaßnahmen**
+        Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und
+        bei sonstigen Zwangsmaßnahmen ****
 
-
-*    *
 
 *    *   6300
 
     *   Verfahrensgebühr in Freiheitsentziehungssachen nach § 415 FamFG, in
         Unterbringungssachen nach § 312 FamFG und in Verfahren nach § 151 Nr.
-        6 und 7 FamFG ......
+        6 und 7 FamFG
 
     *   44,00 bis 517,00 €
 
     *   224,00 €
 
 
-*    *
-    *   Die Gebühr entsteht für jeden Rechtszug.
+*    *   Die Gebühr entsteht für jeden Rechtszug.
 
     *
     *
 
 *    *   6301
 
-    *   Terminsgebühr in den Fällen der Nummer 6300 .........
+    *   Terminsgebühr in den Fällen der Nummer 6300 ..........
 
     *   44,00 bis 517,00 €
 
     *   224,00 €
 
 
-*    *
-    *   Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.
+*    *   Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.
 
     *
     *
 
 *    *   6302
 
-    *   Verfahrensgebühr in sonstigen Fällen .....
-        Die Gebühr entsteht für jeden Rechtszug des Verfahrens über die
+    *   Verfahrensgebühr in sonstigen Fällen ..........
+
+    *   22,00 bis 330,00 €
+
+    *   141,00 €
+
+
+*    *   Die Gebühr entsteht für jeden Rechtszug des Verfahrens über die
         Verlängerung oder Aufhebung einer Freiheitsentziehung nach den §§ 425
         und 426 FamFG oder einer Unterbringungsmaßnahme nach den §§ 329 und
         330 FamFG.
 
-    *   22,00 bis 330,00 €
-
-    *   141,00 €
-
+    *
+    *
 
 *    *   6303
 
-    *   Terminsgebühr in den Fällen der Nummer 6302 .................
+    *   Terminsgebühr in den Fällen der Nummer 6302 ..........
 
     *   22,00 bis 330,00 €
 
     *   141,00 €
 
 
-*    *
-    *   Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.
+*    *   Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen.
 
     *
     *
-
-*    *
 
 *    *   Abschnitt 4
-        **Gerichtliche Verfahren nach der Wehrbeschwerdeordnung**
+        Gerichtliche Verfahren nach der Wehrbeschwerdeordnung ****
 
 
 *    *   Vorbemerkung 6.4:
@@ -7045,12 +6926,10 @@ Sonstige Verfahren
         maßgebend.
 
 
-*    *
-
 *    *   6400
 
     *   Verfahrensgebühr für das Verfahren auf gerichtliche Entscheidung vor
-        dem Truppendienstgericht .................
+        dem Truppendienstgericht ..........
 
     *   88,00 bis 748,00 €
 
@@ -7059,7 +6938,7 @@ Sonstige Verfahren
 *    *   6401
 
     *   Terminsgebühr je Verhandlungstag in den in Nummer 6400 genannten
-        Verfahren
+        Verfahren ..........
 
     *   88,00 bis 748,00 €
 
@@ -7070,14 +6949,13 @@ Sonstige Verfahren
     *   Verfahrensgebühr für das Verfahren auf gerichtliche Entscheidung vor
         dem Bundesverwaltungsgericht, im Verfahren über die Rechtsbeschwerde
         oder im Verfahren über die Beschwerde gegen die Nichtzulassung der
-        Rechtsbeschwerde
+        Rechtsbeschwerde ..........
 
     *   110,00 bis 869,00 €
 
     *
 
-*    *
-    *   Die Gebühr für ein Verfahren über die Beschwerde gegen die
+*    *   Die Gebühr für ein Verfahren über die Beschwerde gegen die
         Nichtzulassung der Rechtsbeschwerde wird auf die Gebühr für ein
         nachfolgendes Verfahren über die Rechtsbeschwerde angerechnet.
 
@@ -7087,23 +6965,27 @@ Sonstige Verfahren
 *    *   6403
 
     *   Terminsgebühr je Verhandlungstag in den in Nummer 6402 genannten
-        Verfahren
+        Verfahren ..........
 
     *   110,00 bis 869,00 €
 
     *
 
-*    *
-
 *    *   Abschnitt 5
-        **Einzeltätigkeiten und Verfahren auf Aufhebung oder Änderung einer
-        Disziplinarmaßnahme**
+        Einzeltätigkeiten und Verfahren auf Aufhebung oder Änderung einer
+        Disziplinarmaßnahme ****
 
 
 *    *   6500
 
-    *   Verfahrensgebühr
-        (1) Für eine Einzeltätigkeit entsteht die Gebühr, wenn dem
+    *   Verfahrensgebühr ..........
+
+    *   22,00 bis 330,00 €
+
+    *   141,00 €
+
+
+*    *   (1) Für eine Einzeltätigkeit entsteht die Gebühr, wenn dem
         Rechtsanwalt nicht die Verteidigung oder Vertretung übertragen ist.
         (2) Die Gebühr entsteht für jede einzelne Tätigkeit gesondert, soweit
         nichts anderes bestimmt ist. § 15 RVG bleibt unberührt.
@@ -7116,14 +6998,12 @@ Sonstige Verfahren
         oder Änderung einer Disziplinarmaßnahme und im gerichtlichen Verfahren
         vor dem Wehrdienstgericht.
 
-    *   22,00 bis 330,00 €
-
-    *   141,00 €
-
+    *
+    *
 
 
 
-Teil 7
+   Teil 7
 Auslagen
 ##
 
@@ -7151,50 +7031,42 @@ Auslagen
         sie auch von seiner bisherigen Kanzlei aus entstanden wären.
 
 
-*    *
-
 *    *   7000
 
     *   Pauschale für die Herstellung und Überlassung von Dokumenten:
 
-        1.  für Kopien und Ausdrucke
+    *
 
-            a)  aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
-                sachgemäßen Bearbeitung der Rechtssache geboten war,
+*    *   1. für Kopien und Ausdrucke
 
-
-            b)  zur Zustellung oder Mitteilung an Gegner oder Beteiligte und
-                Verfahrensbevollmächtigte aufgrund einer Rechtsvorschrift oder nach
-                Aufforderung durch das Gericht, die Behörde oder die sonst das
-                Verfahren führende Stelle, soweit hierfür mehr als 100 Seiten zu
-                fertigen waren,
+        a)  aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
+            sachgemäßen Bearbeitung der Rechtssache geboten war,
 
 
-            c)  zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr
-                als 100 Seiten zu fertigen waren,
+        b)  zur Zustellung oder Mitteilung an Gegner oder Beteiligte und
+            Verfahrensbevollmächtigte aufgrund einer Rechtsvorschrift oder nach
+            Aufforderung durch das Gericht, die Behörde oder die sonst das
+            Verfahren führende Stelle, soweit hierfür mehr als 100 Seiten zu
+            fertigen waren,
 
 
-            d)  in sonstigen Fällen nur, wenn sie im Einverständnis mit dem
-                Auftraggeber zusätzlich, auch zur Unterrichtung Dritter, angefertigt
-                worden sind:
+        c)  zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr
+            als 100 Seiten zu fertigen waren,
 
 
-
+        d)  in sonstigen Fällen nur, wenn sie im Einverständnis mit dem
+            Auftraggeber zusätzlich, auch zur Unterrichtung Dritter, angefertigt
+            worden sind:
 
 
 
 
     *
 
-*    *
-    *
-        *   für die ersten 50 abzurechnenden Seiten je Seite ..........
-            für jede weitere Seite ..........
-            für die ersten 50 abzurechnenden Seiten in Farbe je Seite ..........
-            für jede weitere Seite in Farbe ..........
-
-
-
+*    *   für die ersten 50 abzurechnenden Seiten je Seite ..........
+        für jede weitere Seite ..........
+        für die ersten 50 abzurechnenden Seiten in Farbe je Seite ..........
+        für jede weitere Seite in Farbe ..........
 
     *   0,50 €
         0,15 €
@@ -7202,27 +7074,18 @@ Auslagen
         0,30 €
 
 
-*    *
-    *
-        2.  Überlassung von elektronisch gespeicherten Dateien oder deren
-            Bereitstellung zum Abruf anstelle der in Nummer 1 Buchstabe d
-            genannten Kopien und Ausdrucke:
-            je Datei ..........
-
-
-
+*    *   2. Überlassung von elektronisch gespeicherten Dateien oder deren
+        Bereitstellung zum Abruf anstelle der in Nummer 1 Buchstabe d
+        genannten Kopien und Ausdrucke:
+        je Datei ..........
 
     *   1,50 €
 
 
 *    *
-    *
-        *   für die in einem Arbeitsgang überlassenen, bereitgestellten oder in
-            einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente
-            insgesamt höchstens ..........
-
-
-
+    *   für die in einem Arbeitsgang überlassenen, bereitgestellten oder in
+        einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente
+        insgesamt höchstens ..........
 
     *   5,00 €
 
@@ -7242,36 +7105,41 @@ Auslagen
 
 *    *   7001
 
-    *   Entgelte für Post- und Telekommunikationsdienstleistungen
-        ....................
-        Für die durch die Geltendmachung der Vergütung entstehenden Entgelte
-        kann kein Ersatz verlangt werden.
+    *   Entgelte für Post- und Telekommunikationsdienstleistungen ..........
 
     *   in voller Höhe
 
 
+*    *   Für die durch die Geltendmachung der Vergütung entstehenden Entgelte
+        kann kein Ersatz verlangt werden.
+
+    *
+
 *    *   7002
 
     *   Pauschale für Entgelte für Post- und
-        Telekommunikationsdienstleistungen ....................
-        (1) Die Pauschale kann in jeder Angelegenheit anstelle der
+        Telekommunikationsdienstleistungen ..........
+
+    *   20 % der
+        Gebühren
+        – höchstens
+        20,00 €
+
+
+*    *   (1) Die Pauschale kann in jeder Angelegenheit anstelle der
         tatsächlichen Auslagen nach Nummer 7001 gefordert werden.
         (2) Werden Gebühren aus der Staatskasse gezahlt, sind diese maßgebend.
-
-    *   20% der Gebühren
-        -höchstens 20,00 €
 
 
 *    *   7003
 
     *   Fahrtkosten für eine Geschäftsreise bei Benutzung eines eigenen
-        Kraftfahrzeugs für jeden gefahrenen Kilometer.
+        Kraftfahrzeugs für jeden gefahrenen Kilometer ..........
 
     *   0,42 €
 
 
-*    *
-    *   Mit den Fahrtkosten sind die Anschaffungs-, Unterhaltungs- und
+*    *   Mit den Fahrtkosten sind die Anschaffungs-, Unterhaltungs- und
         Betriebskosten sowie die Abnutzung des Kraftfahrzeugs abgegolten.
 
     *
@@ -7279,7 +7147,7 @@ Auslagen
 *    *   7004
 
     *   Fahrtkosten für eine Geschäftsreise bei Benutzung eines anderen
-        Verkehrsmittels, soweit sie angemessen sind ...
+        Verkehrsmittels, soweit sie angemessen sind ..........
 
     *   in voller Höhe
 
@@ -7288,36 +7156,24 @@ Auslagen
 
     *   Tage- und Abwesenheitsgeld bei einer Geschäftsreise
 
-        1.  von nicht mehr als 4 Stunden ................
+    *
 
-
-
+*    *   1. von nicht mehr als 4 Stunden ..........
 
     *   30,00 €
 
 
-*    *
-    *
-        2.  von mehr als 4 bis 8 Stunden .................
-
-
-
+*    *   2. von mehr als 4 bis 8 Stunden ..........
 
     *   50,00 €
 
 
-*    *
-    *
-        3.  von mehr als 8 Stunden ...................
-
-
-
+*    *   3. von mehr als 8 Stunden ..........
 
     *   80,00 €
 
 
-*    *
-    *   Bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50%
+*    *   Bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 %
         berechnet werden.
 
     *
@@ -7325,7 +7181,7 @@ Auslagen
 *    *   7006
 
     *   Sonstige Auslagen anlässlich einer Geschäftsreise, soweit sie
-        angemessen sind ............
+        angemessen sind ..........
 
     *   in voller Höhe
 
@@ -7334,13 +7190,12 @@ Auslagen
 
     *   Im Einzelfall gezahlte Prämie für eine Haftpflichtversicherung für
         Vermögensschäden, soweit die Prämie auf Haftungsbeträge von mehr als
-        30 Mio. € entfällt ..................
+        30 Mio. € entfällt ..........
 
     *   in voller Höhe
 
 
-*    *
-    *   Soweit sich aus der Rechnung des Versicherers nichts anderes ergibt,
+*    *   Soweit sich aus der Rechnung des Versicherers nichts anderes ergibt,
         ist von der Gesamtprämie der Betrag zu erstatten, der sich aus dem
         Verhältnis der 30 Mio. € übersteigenden Versicherungssumme zu der
         Gesamtversicherungssumme ergibt.
@@ -7349,19 +7204,22 @@ Auslagen
 
 *    *   7008
 
-    *   Umsatzsteuer auf die Vergütung ........................
-        Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben
-        bleibt.
+    *   Umsatzsteuer auf die Vergütung ..........
 
     *   in voller Höhe
 
+
+*    *   Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben
+        bleibt.
+
+    *
 
 
 
 
 ### Anlage 2 (zu § 13 Absatz 1 Satz 3)
 
-(Fundstelle: BGBl. I 2020, 3254)
+   (Fundstelle: BGBl. I 2022, 665)
 
 
 *    *   Gegenstands-

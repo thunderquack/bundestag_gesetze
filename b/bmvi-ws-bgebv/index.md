@@ -1,7 +1,7 @@
 ---
-Title: Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale
-  Infrastruktur für individuell zurechenbare öffentliche Leistungen im Zusammenhang
-  mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
+Title: Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr
+  für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung
+  der Wasserstraßen und der Schifffahrtsverwaltung
 jurabk: BMVI-WS-BGebV
 layout: default
 origslug: bmvi-ws-bgebv
@@ -9,7 +9,7 @@ slug: bmvi-ws-bgebv
 
 ---
 
-# Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung (BMVI-WS-BGebV)
+# Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung (BMVI-WS-BGebV)
 
 Ausfertigungsdatum
 :   2021-10-28
@@ -17,10 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4744
 
-Änderung durch
-:   Art. 2 Abs. 2 V v. 26.11.2021 I 4982, 5204 (Nr. 81) mWv 7.12.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 11.5.2023 I Nr. 127
 
-Stand: Berichtigung vom 13.12.2021 I 5204 noch nicht berücksichtigt
 
 ## Eingangsformel
 
@@ -32,11 +31,11 @@ Infrastruktur:
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums für Verkehr und
-digitale Infrastruktur für die Wasserstraßen und die Schifffahrt
-werden Gebühren und Auslagen für individuell zurechenbare öffentliche
-Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der
-folgenden Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums für Digitales und
+Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und
+Auslagen für individuell zurechenbare öffentliche Leistungen
+(gebührenfähige Leistungen) erhoben, die auf Grund der folgenden
+Vorschriften erbracht werden:
 
 1.  Bundeswasserstraßengesetz (WaStrG),
 
@@ -57,7 +56,13 @@ folgenden Vorschriften erbracht werden:
     Wangerooge (DünenSchV),
 
 
-6.  Binnenschiffspersonalverordnung (BinSchPersV)
+5a. Nord-Ostsee-Kanal Gefahrenabwehrverordnung (NOK-GefAbwV),
+
+
+6.  Binnenschiffspersonalverordnung (BinSchPersV),
+
+
+6a. Binnenschifffahrtsaufgabengesetz (BinSchAufgG),
 
 
 7.  Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
@@ -129,6 +134,12 @@ folgenden Vorschriften erbracht werden:
     (EmsSchEV),
 
 
+26a. Schifffahrtordnung Emsmündung (EmsSchO),
+
+
+26b. Sperr- und Warngebietverordnung (SperrWarnGebV),
+
+
 27. Seeaufgabengesetz (SeeAufgG),
 
 
@@ -144,6 +155,9 @@ folgenden Vorschriften erbracht werden:
 
 31. Seelotsenaus- und -fortbildungsverordnung
     (SeeLAuFV),
+
+
+31a. Seelotseignungsverordnung (SeeLotsEigV),
 
 
 32. Verordnung über das Seelotswesen außerhalb der Reviere
@@ -274,6 +288,10 @@ Januar 2022 beantragt oder begonnen, aber noch nicht vollständig
 erbracht worden ist, ist das bis zum Ablauf des 17. Januar 2022
 geltende Recht weiter anzuwenden.
 
+(4) Bis zum Ablauf des 31. Dezember 2022 ist der Abschnitt 6 der
+Anlage in der am 29. September 2022 geltenden Fassung weiter
+anzuwenden.
+
 
 ## § 5 Inkrafttreten
 
@@ -283,7 +301,8 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 
 ## Anlage Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4746 - 4778)
+(Fundstelle: BGBl. I 2021, 4746 - 4778;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Abschnitt 1
@@ -293,6 +312,14 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für
 gebührenpflichtige
 ## Leistungen auf dem Gebiet des Aus- und Neubaus von
 Bundeswasserstraßen und der Strompolizei
+
+
+
+Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für
+    Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die
+    Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
+
+
 
 
 
@@ -572,11 +599,32 @@ Bundeswasserstraßen und der Strompolizei
 
     *   Schriftliche Einzelgenehmigung Wangerooge
 
-    *   § 2 Absatz 1
-        DünenSchV
+    *   § 2 Absatz 1 DünenSchV
 
     *
     *   156
+
+
+*    *   21
+
+    *   Verfügung eines Durchfahrtsverbots
+
+    *   § 4 Absatz 3 Satz 1
+        NOK-GefAbwV
+
+    *
+    *   111
+
+
+*    *   22
+
+    *   Anordnung einer Nutzungsbeschränkung
+
+    *   § 4 Absatz 3 Satz 1
+        NOK-GefAbwV
+
+    *
+    *   74,40 – 223
 
 
 
@@ -633,19 +681,23 @@ Binnenschifffahrt
         Leistung.
 
 
-    d)  Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1017, 1022,
-        1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053,
-        1054, 1055, 1056, 1057 und 1061 werden auch dann bis zur vollen Höhe
-        erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am
-        festgesetzten Prüfungstermin nicht erscheint. Ein Rücktritt von einer
-        Prüfungsleistung ohne den Anfall von Gebühren ist bis zwei Wochen vor
-        dem festgesetzten Prüfungstermin möglich.
+    d)  Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1022, 1023,
+        1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054,
+        1055, 1056 und 1057 werden auch dann bis zur vollen Höhe erhoben, wenn
+        der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten
+        Prüfungstermin nicht erscheint.
 
 
 
 
 
-2.  Gebührenreduzierung aufgrund geringeren Aufwands
+2.  Gebührenreduzierung gemäß § 9 Absatz 4 BGebG.
+    Die Gebühr 5031 wird für Veranstaltungen, an denen ausschließlich
+    Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro
+    festgesetzt.
+
+
+3.  Gebührenreduzierung aufgrund geringeren Aufwands
 
     Die Gebühr bei der Nummer 4021 des Gebühren- und
     Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger
@@ -654,14 +706,14 @@ Binnenschifffahrt
     werden.
 
 
-3.  Doppelte Gebühr
+4.  Doppelte Gebühr
 
     Erfordert die gebührenfähige Leistung ein Tätigwerden der Behörde
     außerhalb der Dienstzeit, so kann ein aufwandsentsprechender Aufschlag
     bis zur doppelten Höhe der Ausgangsgebühr erhoben werden.
 
 
-4.  Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten
+5.  Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten
     Untersuchungen
 
     Für eine von einer Behörde der Wasserstraßen- und
@@ -675,7 +727,7 @@ Binnenschifffahrt
     Annahme bestätigt, dass die Angaben nicht mehr zutreffen.
 
 
-5.  Zuschlag bei Wartezeiten
+6.  Zuschlag bei Wartezeiten
 
     Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein
     Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur
@@ -705,7 +757,7 @@ Binnenschifffahrt
 
 *    *   **101**
 
-    *   **Prüfungsverfahren für das Unionspatent**
+    *   **Prüfungsverfahren für das Unionspatent und das Rheinpatent**
 
     *
     *
@@ -715,6 +767,7 @@ Binnenschifffahrt
     *   Zulassung zur behördlichen Befähigungsprüfung
 
     *   § 67 BinSchPersV
+        §§ 7.01, 12.04 RheinSchPersV
 
     *   145
 
@@ -724,6 +777,7 @@ Binnenschifffahrt
     *   Durchführung des theoretischen Prüfungsteils
 
     *   § 38 Absatz 2 BinSchPersV
+        § 12.01 Nummer 3 RheinSchPersV
 
     *   134
 
@@ -733,6 +787,7 @@ Binnenschifffahrt
     *   Durchführung des praktischen Prüfungsteils Reiseplanung
 
     *   § 38 Absatz 3 BinSchPersV
+        § 12.01 Nummer 3 RheinSchPersV
 
     *   277
 
@@ -743,6 +798,7 @@ Binnenschifffahrt
         Simulator
 
     *   § 38 Absatz 3 BinSchPersV
+        § 12.01 Nummer 4 RheinSchPersV
 
     *   255
 
@@ -753,6 +809,7 @@ Binnenschifffahrt
         eines Fahrzeugs
 
     *   § 38 Absatz 3 BinSchPersV
+        § 12.01 Nummer 4 RheinSchPersV
 
     *   255
 
@@ -765,15 +822,6 @@ Binnenschifffahrt
     *   § 38 Absatz 3 BinSchPersV
 
     *   10
-
-
-*    *   1017
-
-    *   Durchführung der zusätzlichen Prüfungsteile
-
-    *   § 38 Absatz 4 BinSchPersV
-
-    *   590
 
 
 *    *   **102**
@@ -821,10 +869,9 @@ Binnenschifffahrt
 
 *    *   **103**
 
-    *   **Prüfungsverfahren für das Sportschifferzeugnis**
+    *   **Prüfungsverfahren für das Sportschifferzeugnis und Sportpatent**
 
-    *   § 18 Absatz 1 BinSchPatentV
-
+    *
     *
 
 *    *   1031
@@ -832,6 +879,7 @@ Binnenschifffahrt
     *   Zulassung zur Prüfung
 
     *   § 67 BinSchPersV
+        §§ 7.01, 12.04 RheinSchPersV
 
     *   82
 
@@ -841,6 +889,7 @@ Binnenschifffahrt
     *   Durchführung des theoretischen Prüfungsteils
 
     *   § 40 Absatz 2 BinSchPersV
+        § 12.02 Nummer 3 RheinSchPersV
 
     *   84
 
@@ -849,7 +898,8 @@ Binnenschifffahrt
 
     *   Durchführung des praktischen Prüfungsteils an Bord eines Fahrzeugs
 
-    *   § 40 Absatz 3 BinSchPatentV
+    *   § 40 Absatz 3 BinSchPersV
+        § 12.02 Nummer 3 RheinSchPersV
 
     *   160
 
@@ -859,6 +909,7 @@ Binnenschifffahrt
     *   Durchführung des praktischen Prüfungsteils an einem Simulator
 
     *   § 40 Absatz 3 BinSchPersV
+        § 12.02 Nummer 3 RheinSchPersV
 
     *   160
 
@@ -867,8 +918,7 @@ Binnenschifffahrt
 
     *   **Prüfungsverfahren für das Kleinschifferzeugnis**
 
-    *   §§ 8.04, 8.05 i. V. m. § 6.03 Nummer 1 RheinSchPersV
-
+    *
     *
 
 *    *   1041
@@ -930,6 +980,7 @@ Binnenschifffahrt
         nicht mit einer Leistung nach der Nummer 1011 verbunden ist
 
     *   § 67 BinSchPersV
+        §§ 7.01, 12.04 RheinSchPersV
 
     *   63
 
@@ -940,6 +991,7 @@ Binnenschifffahrt
         Durchführung der Theorieprüfung
 
     *   § 41 Absatz 2 BinSchPersV
+        § 13.02 RheinSchPersV
 
     *   25
 
@@ -950,6 +1002,7 @@ Binnenschifffahrt
         Durchführung der praktischen Prüfung an einem Simulator
 
     *   § 41 Absatz 3 BinSchPersV
+        § 13.02 Nummer 3 RheinSchPersV
 
     *   146
 
@@ -960,6 +1013,7 @@ Binnenschifffahrt
         Durchführung der praktischen Prüfung an Bord eines Fahrzeugs der WSV
 
     *   § 41 Absatz 3 BinSchPersV
+        § 13.02 Nummer 3 RheinSchPersV
 
     *   246
 
@@ -969,7 +1023,7 @@ Binnenschifffahrt
     *   besondere Berechtigung für Radar auf Fähren:
         Durchführung der praktischen Prüfung
 
-    *   § 41 Absatz 4
+    *   § 41 Absatz 4 BinSchPersV
 
     *   102
 
@@ -981,6 +1035,7 @@ Binnenschifffahrt
         Durchführung der Prüfung, je angebrochener 10 km-Streckenabschnitt
 
     *   § 42 Absatz 2 BinSchPersV
+        § 13.03 Nummer 5 i. V. m. Anlage 5 RheinSchPersV
 
     *   13
 
@@ -991,28 +1046,12 @@ Binnenschifffahrt
         Durchführung der Prüfung
 
     *   § 43 Absatz 2 BinSchPersV
+        § 13.04 Nummer 2 RheinSchPersV
 
     *   130
 
 
 *    *   **106**
-
-    *   **Prüfungsverfahren für die behördliche Befähigungsprüfung auf
-        Betriebsebene**
-
-    *
-    *
-
-*    *   1061
-
-    *   Durchführung des Prüfungsverfahrens durch die IHK
-
-    *   § 59 Absatz 1 BinSchPersV
-
-    *   550
-
-
-*    *   **107**
 
     *   **Erteilung von Schiffsführerzeugnissen und besonderen
         Berechtigungen**
@@ -1020,47 +1059,53 @@ Binnenschifffahrt
     *
     *
 
-*    *   1071
+*    *   1061
 
     *   Erst- oder Folgeausstellung als Karte
 
     *   §§ 78, 79, 80, 81 Absatz 2,
-        auch i. V. m. § 82 Absatz 2, § 129 BinSchPersV
+        auch i. V. m. § 82 Absatz 2, § 130 Absatz 3 BinSchPersV
+        § 12.07 RheinSchPersV
 
     *   129
 
 
-*    *   1072
+*    *   1062
 
     *   Erst- oder Folgeausstellung im elektronischen Format
 
-    *   §§ 78, 79, 80, 81 Absatz 2, § 129 BinSchPersV
+    *   §§ 78, 79, 80, 81 Absatz 2 BinSchPersV
+        § 12.07 RheinSchPersV
 
     *   89
 
 
-*    *   1073
+*    *   1063
 
     *   Erteilung nach Tauglichkeitsverlängerung als Karte
 
     *   § 81 Absatz 3 und 4,
         auch i. V. m. § 82 Absatz 2 BinSchPersV
+        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. § 81 Absatz
+        3 und 4, auch i. V. m. § 82 Absatz 2 BinSchPersV
 
     *   143
 
 
-*    *   1074
+*    *   1064
 
     *   Erteilung nach Tauglichkeitsverlängerung im elektronischen Format
 
     *   § 81 Absatz 3 und 4 BinSchPersV
+        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. §§ 81
+        Absatz 3 und 4 BinSchPersV
 
     *   103
 
 
-*    *   1075
+*    *   1065
 
-    *   Verlängerung einer bis zum 17.01.2022 erteilten Fahrerlaubnis der
+    *   Verlängerung einer bis zum 17.01.2022 ausgestellten Fahrerlaubnis der
         Klasse F und Ausstellung eines Bescheides über die Tauglichkeit
 
     *   § 126 Absatz 3 BinSchPersV
@@ -1068,40 +1113,43 @@ Binnenschifffahrt
     *   150
 
 
-*    *   1076
+*    *   1066
 
     *   Erteilung einer besonderen Berechtigung als Karte, falls diese
-        Leistung nicht mit einer Leistung nach der Nummer 1071 oder 1073
+        Leistung nicht mit einer Leistung nach der Nummer 1061 oder 1063
         verbunden ist
 
     *   § 79 Absatz 1 BinSchPersV
+        § 13.01 Nummer 2 RheinSchPersV
 
     *   129
 
 
-*    *   1077
+*    *   1067
 
     *   Erteilung oder Verlängerung eines Befähigungszeugnisses für
         Sachkundige für die Fahrgastschifffahrt
         (nur im elektronischen Format)
 
     *   § 85 Absatz 2, § 87 Absatz 2 BinSchPersV
+        § 16.10 Nummer 1 RheinSchPersV
 
     *   89
 
 
-*    *   1078
+*    *   1068
 
     *   Erstellung oder Verlängerung eines Befähigungszeugnisses für
         Sachkundige für Flüssigerdgas
         (nur im elektronischen Format)
 
     *   § 85 Absatz 1, § 87 Absatz 2 BinSchPersV
+        § 15.02 Nummer 2 RheinSchPersV
 
     *   89
 
 
-*    *   **108**
+*    *   **107**
 
     *   **Ausstellung eines Schifferdienstbuches oder Fahrtenheftes und
         Erteilung von Befähigungszeugnissen**
@@ -1109,17 +1157,18 @@ Binnenschifffahrt
     *
     *
 
-*    *   1081
+*    *   1071
 
     *   Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines
         Befähigungszeugnisses
 
     *   §§ 60, 84, 123 Absatz 5 und 6, § 129 Absatz 5 Satz 2 BinSchPersV
+        § 5.01 Nummer 2 RheinSchPersV
 
     *   104
 
 
-*    *   1082
+*    *   1072
 
     *   Erstausstellung eines Fahrtenheftes und Ausgabe eines Folgeheftes
 
@@ -1128,78 +1177,88 @@ Binnenschifffahrt
     *   66
 
 
-*    *   1083
+*    *   1073
 
     *   Validierung von Fahrzeiten ohne Eintragung eines
         Befähigungszeugnisses, je angefangene Seite
 
     *   § 27 BinSchPersV
+        § 5.01 Nummer 3 RheinSchPersV
         § 7 Nummer 3 RheinLotsO
 
     *   1,50
-        mindestens aber 5
+        Mindestens
+        aber 5
 
 
-*    *   1084
+*    *   1074
 
     *   Eintragung und Verlängerung eines Befähigungszeugnisses auf
         Einstiegsebene oder Betriebsebene oder des Maschinenpersonals
 
     *   §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3
         BinSchPersV
+        § 10.03 Nummer 2 RheinSchPersV;
+        § 10.02 i. V. m. § 2 RheinSchPersEV i. V. m. § 64 BinSchPersV
 
     *   27
 
 
-*    *   **109**
+*    *   **108**
 
     *   **Umtausch alter Befähigungszeugnisse**
 
     *
     *
 
-*    *   1091
+*    *   1081
 
     *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen
-        A, B oder C oder eines Rheinpatents in ein Unionspatent als Karte
+        A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der
+        BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – als Karte
 
     *   § 129 Absatz 1 und 2 BinSchPersV
+        § 20.03 Nummer 2 RheinSchPersV
 
     *   129
 
 
-*    *   1092
+*    *   1082
 
     *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen
-        A, B oder C oder eines Rheinpatents in ein Unionspatent im
+        A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der
+        BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – im
         elektronischen Format
 
     *   § 129 Absatz 1 und 2 BinSchPersV
+        § 20.03 Nummer 2 RheinSchPersV
 
     *   89
 
 
-*    *   1093
+*    *   1083
 
     *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse D
-        in ein Behördenschifferzeugnis
+        in ein Behördenschifferzeugnis nach BinSchPersV oder in ein
+        Behördenpatent nach RheinSchPersV
 
     *   § 129 Absatz 3 BinSchPersV
 
     *   129
 
 
-*    *   1094
+*    *   1084
 
     *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse E
-        in ein Sportschifferzeugnis nach BinSchPersV
+        in ein Sportschifferzeugnis nach BinSchPersV oder in ein Sportpatent
+        nach der RheinSchPersV
 
     *   § 129 Absatz 4 BinSchPersV
 
     *   129
 
 
-*    *   1095
+*    *   1085
 
     *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F
         in ein Fährschifferzeugnis
@@ -1209,127 +1268,140 @@ Binnenschifffahrt
     *   129
 
 
-*    *   1096
+*    *   1086
 
     *   Umtausch eines bis zum 17.01.2022 nach der BinSchPatentV oder der
-        Schiffspersonalverordnung-Rhein ausgegebenen Schifferdienstbuches in
-        ein Schifferdienstbuch nach BinSchPersV
+        Personalverordnung für den Rhein ausgegebenen Schifferdienstbuches in
+        ein Schifferdienstbuch nach BinSchPersV oder RheinSchPersV
 
     *   § 123 Absatz 5 und 6 BinSchPersV
+        § 20.01 Nummer 2 RheinSchPersV
 
     *   104
 
 
-*    *   1097
+*    *   1087
 
     *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine
         besondere Berechtigung für Radar als Karte, falls diese Leistung nicht
-        mit einer Leistung nach den Nummern 1091, 1093 bis 1095 verbunden ist
+        mit einer Leistung nach der Nummer 1081, 1083, 1084 oder 1085
+        verbunden ist
 
-    *   § 131 Absatz 2 BinSchPersV
+    *   § 131 Absatz 3 BinSchPersV
+        § 20.09 RheinSchPersV
 
     *   129
 
 
-*    *   1098
+*    *   1088
 
     *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine
-        besondere Berechtigung für Radar als elektronisches Dokument, falls
-        diese Leistung nicht mit einer Leistung nach der Nummer 1092 verbunden
-        ist
+        besondere Berechtigung für Radar im elektronischen Format, falls diese
+        Leistung nicht mit einer Leistung nach der Nummer 1082 verbunden ist
 
-    *   § 131 Absatz 2 BinSchPersV
+    *   § 131 Absatz 3 BinSchPersV
+        § 20.09 RheinSchPersV
 
     *   89
 
 
-*    *   **110**
+*    *   1089
 
-    *   **Änderungen von nach Nummern 107 bis 109 erteilten
+    *   Umtausch nach den Ziffern 1081 bis 1088, wenn ein
+        Tauglichkeitsnachweis vorgelegt werden muss
+
+    *   § 129 Absatz 7 Satz 2 BinSchPersV
+        § 20.03 Nummer 2 Satz 5 RheinSchPersV
+
+    *   Zuzüglich
+        14 Euro
+
+
+*    *   **109**
+
+    *   **Änderungen von nach Nummern 106 bis 108 erteilten
         Befähigungszeugnissen**
 
     *
     *
 
-*    *   1101
+*    *   1091
 
     *   Anordnen des Beibringens eines Tauglichkeitsnachweises
 
     *   § 21 Absatz 2,
         auch i. V. m. § 22 Absatz 2 Satz 3, § 22 Absatz 4,
         auch i. V. m. Absatz 5 BinSchPersV
+        § 8.01 Nummer 2 RheinSchPersV
 
     *   112
 
 
-*    *   1102
+*    *   1092
 
     *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen
         Beschränkungen als Karte
 
     *   § 21 Absatz 3 und 4,
-        auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV
+        auch i. V. m. § 22 Absatz 2 BinSchPersV
+        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und
+        4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   150
 
 
-*    *   1103
+*    *   1093
 
     *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen
         Beschränkungen im elektronischen Format
 
     *   § 21 Absatz 3 und 4,
         auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV
+        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und
+        4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   110
 
 
-*    *   1104
+*    *   1094
 
     *   Aussetzung oder Entzug eines Befähigungszeugnisses
 
-    *   §§ 91 – 94 BinSchPersV
+    *   §§ 94 – 97 BinSchPersV
+        §§ 8.01, 8.02 RheinSchPersV
 
     *   238
 
 
-*    *   **111**
+*    *   **110**
 
     *   **Zulassung von Lehrgängen**
 
     *
     *
 
-*    *   1111
+*    *   1101
 
-    *   Zulassung eines Basislehrgangs für Sachkundige für die
-        Fahrgastschifffahrt
+    *   Zulassung eines Basis- oder Auffrischungslehrgangs für Sachkundige für
+        die Fahrgastschifffahrt
 
     *   § 56 BinSchPersV
+        § 16.05 RheinSchPersV
 
     *   275 – 545
 
 
-*    *   1112
-
-    *   Zulassung eines Auffrischungslehrgangs für Sachkundige für die
-        Fahrgastschifffahrt
-
-    *   § 56 BinSchPersV
-
-    *   275 – 545
-
-
-*    *   1113
+*    *   1102
 
     *   Zulassung eines Lehrgangs für Sachkundige für Flüssigerdgas
 
     *   § 56 BinSchPersV
+        § 15.04 RheinSchPersV
 
     *   275 – 545
 
 
-*    *   1114
+*    *   1103
 
     *   Zulassung eines Lehrgangs grundlegende Sicherheitsausbildung
 
@@ -1338,7 +1410,7 @@ Binnenschifffahrt
     *   275 – 545
 
 
-*    *   1115
+*    *   1104
 
     *   Zulassung eines Lehrgangs Maschinenkundige
 
@@ -1347,32 +1419,24 @@ Binnenschifffahrt
     *   275 – 545
 
 
-*    *   1116
+*    *   1105
 
-    *   Zulassung eines Lehrgangs atemschutzgerättragende Personen
+    *   Zulassung eines Grund- oder Wiederholungslehrgangs
+        atemschutzgerättragende Personen
 
     *   § 58 i. V. m. Anlage 23 BinSchPersV
 
     *   275 – 545
 
 
-*    *   1117
-
-    *   Zulassung eines Ausbildungsprogramms für die Betriebsebene
-
-    *   § 55 Absatz 1 BinSchPersV
-
-    *   275 – 545
-
-
-*    *   **112**
+*    *   **111**
 
     *   **Zulassung von Simulatoren**
 
     *
     *
 
-*    *   1121
+*    *   1101
 
     *   Zulassung eines Fahrsimulators
 
@@ -1381,7 +1445,7 @@ Binnenschifffahrt
     *   5531
 
 
-*    *   1122
+*    *   1102
 
     *   Zulassung eines Radarsimulators
 
@@ -1390,14 +1454,14 @@ Binnenschifffahrt
     *   2777
 
 
-*    *   **113**
+*    *   **112**
 
     *   **Befreiung von Fahrerlaubnissen**
 
     *
     *
 
-*    *   1131
+*    *   1121
 
     *   Erteilung einer Erlaubnis zum Führen von Fahrzeugen ohne
         Fahrerlaubnis, Zulassung einer Ausnahme
@@ -1407,31 +1471,46 @@ Binnenschifffahrt
     *   112
 
 
-*    *   **114**
+*    *   **113**
 
-    *   **Verlängerung der Ermächtigung von Ärzten**
+    *   **Zulassung von Ärzten**
 
     *
     *
 
-*    *   1141
+*    *   1131
 
-    *   Erteilung einer Verlängerung der Ermächtigung zur Durchführung
-        ärztlicher Tauglichkeitsuntersuchungen
+    *   Erteilung einer Zulassung
 
-    *   § 137 Absatz 2 i. V. m. Anlage 32 BinSchPersV
+    *   § 24 Absatz 2 i. V. m. Anlage 6a BinSchPersV
+        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2
+        RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a BinSchPersV
+
+    *   607 – 830
+
+
+*    *   1132
+
+    *   Verlängerung einer Zulassung; Umwandlung einer Ermächtigung in eine
+        Zulassung
+
+    *   § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V. m. § 137 Absatz 2,
+        BinSchPersV
+        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2
+        RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V.
+        m. § 137 Absatz 2, BinSchPersV
 
     *   373 – 467
 
 
-*    *   **115**
+*    *   **114**
 
     *   **UKW-Sprechfunkzeugnisse**
 
     *
     *
 
-*    *   1151
+*    *   1141
 
     *   Zulassung zu einer Prüfung
 
@@ -1440,7 +1519,7 @@ Binnenschifffahrt
     *   14,85
 
 
-*    *   1152
+*    *   1142
 
     *   Prüfung
 
@@ -1449,17 +1528,16 @@ Binnenschifffahrt
     *   65,45
 
 
-*    *   1153
+*    *   1143
 
-    *   Teilprüfung oder Wiederholung
-        von 1 Teil / 2 Teilen
+    *   Teilprüfung oder Wiederholung von 1 Teil / 2 Teilen
 
     *   § 9 Absatz 5, § 12 Absatz 2 BinSchSprFunkV
 
     *   42,65 / 65,45
 
 
-*    *   1154
+*    *   1144
 
     *   Erteilung des UKW-Sprechfunkzeugnisses
 
@@ -1468,7 +1546,7 @@ Binnenschifffahrt
     *   21,30
 
 
-*    *   1155
+*    *   1145
 
     *   Erteilung eines Sprechfunkzeugnisses durch FVT
 
@@ -1477,7 +1555,7 @@ Binnenschifffahrt
     *   31,20
 
 
-*    *   1156
+*    *   1146
 
     *   Umschreibung oder Ersatzausfertigung von Berufszeugnissen
 
@@ -1522,7 +1600,7 @@ Binnenschifffahrt
     *   § 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUO
         ES-TRIN
         Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel
-        20\.19, Artikel 22.07 Nummer 1, Artikel 27.01
+        11\.08. Nummer 1, Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01
 
     *   nach
         Zeitaufwand
@@ -2237,9 +2315,9 @@ Binnenschifffahrt
         Abmessungen oder Abladetiefen überschreiten**
 
     *   § 1.06 Nummer 2 BinSchStrO
-        §§ 11.01, 11.02 RheinSchPV
+        § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV
         § 8.01 MoselSchPV
-        § 9.05 DonauSchPV
+        § 8.01 MoselSchPV
 
     *
 
@@ -2862,15 +2940,28 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 
-Auslagen:
-Auslagen werden erhoben
 
-1.  – für die Ausstellung des Kanalsteurerausweises (Nummer 13 des
-    Gebührenverzeichnisses) und
+1.  Auslagen:
+
+    Auslagen werden erhoben
+
+    a)  für die Ausstellung des Kanalsteurerausweises (Nummer 13 des
+        Gebührenverzeichnisses) und
 
 
-2.  – für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des
-    Gebührenverzeichnisses)
+    b)  für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des
+        Gebührenverzeichnisses)
+
+
+
+
+
+2.  Gebührenreduzierung
+    gemäß § 9 Absatz 4 BGebG:
+
+    Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich
+    Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro
+    festgesetzt.
 
 
 
@@ -2892,6 +2983,7 @@ Auslagen werden erhoben
 
     *   § 56 Absatz 1 SeeSchStrO
         § 11 Absatz 1 EmsSchEV
+        § 4 Absatz 1 SperrWarnGebV
         § 3 SeeAufgG
 
     *   208 – 676
@@ -2909,11 +3001,14 @@ Auslagen werden erhoben
     *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge,
         Luftkissen-, Tragflächen-, Bodeneffekt- und
         Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und
-        Flugbooten
+        Flugbooten mit durchschnittlichem Aufwand (z. B. Überschreitung der
+        Genehmigungsgrenzen um weniger als 50%, Wiederholung bei typgleichem
+        Schiff, Schleppverband mit nicht genehmigungspflichtigem Anhang)
 
     *   § 57 Absatz 1 Nummer 1 SeeSchStrO
+        Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO
 
-    *   182 – 3 063
+    *   131
         zuzüglich Zulage
         nach § 4
         Erschwerniszulagenverordnung
@@ -2923,12 +3018,27 @@ Auslagen werden erhoben
         Genehmigungen
 
 
-*    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge,
-        Luftkissen-, Tragflächen-, Bodeneffekt- und
-        Hochgeschwindigkeitsfahrzeuge sowie Katamaranen im Geltungsbereich der
-        Schifffahrtsordnung Emsmündung
+*    *   2a
 
-    *   Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchEV
+    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge,
+        Luftkissen-, Tragflächen-, Bodeneffekt- und
+        Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und
+        Flugbooten mit außergewöhnlichem Aufwand (z. B. Erforderlichkeit
+        besonderer Maßnahmen der Wasserstraßen- und Schifffahrtsverwaltung,
+        Spezialtransporte mit Überbreite, Überhöhe oder außergewöhnlichem
+        Anhang)
+
+    *   § 57 Absatz 1 Nummer 1 SeeSchStrO
+        Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO
+
+    *   206 – 666
+        zuzüglich Zulage
+        nach § 4
+        Erschwerniszulagenverordnung
+        bei außerhalb
+        der Dienstzeit
+        erlassenen
+        Genehmigungen
 
 
 *    *   3
@@ -2936,8 +3046,7 @@ Auslagen werden erhoben
     *   Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände
         sowie des Schleppens außergewöhnlicher Schwimmkörper
 
-    *   § 57 Absatz 1 Nummer 2 SeeSchStrO beziehungsweise Artikel 28 Absatz 1
-        Nummer 2 EmsSchEV
+    *   § 57 Absatz 1 Nummer 2 SeeSchStrO Artikel 28 Absatz 1 Nummer 2 EmsSchO
 
     *   254 – 669
         zuzüglich Zulage
@@ -2966,7 +3075,7 @@ Auslagen werden erhoben
         die Meeresumwelt entstehen kann
 
     *   § 57 Absatz 1 Nummer 4 SeeSchStrO
-        Artikel 28 Absatz 1 Nummer 3 EmsSchEV
+        Artikel 28 Absatz 1 Nummer 3 EmsSchO
 
     *   630
         zuzüglich Zulage
@@ -2985,7 +3094,7 @@ Auslagen werden erhoben
         beeinträchtigen können
 
     *   § 57 Absatz 1 Nummer 5 SeeSchStrO
-        Artikel 28 Absatz 2 Nummer 4 EmsSchEV
+        Artikel 28 Absatz 2 Nummer 4 EmsSchO
 
     *   258
 
@@ -2995,7 +3104,7 @@ Auslagen werden erhoben
     *   Genehmigung wassersportlicher Veranstaltungen
 
     *   § 57 Absatz 1 Nummer 6 SeeSchStrO
-        Artikel 28 Absatz 1 Nummer 6 EmsSchEV
+        Artikel 28 Absatz 1 Nummer 6 EmsSchO
 
     *   213 – 435
         zuzüglich Zulage
@@ -3012,7 +3121,7 @@ Auslagen werden erhoben
     *   Genehmigung des Parasailing
 
     *   § 57 Absatz 1 Nummer 6a SeeSchStrO
-        Artikel 28 Absatz 1 Nummer 5 EmsSchEV
+        Artikel 28 Absatz 1 Nummer 5 EmsSchO
 
     *   262 – 1 620
         zuzüglich Zulage
@@ -3032,7 +3141,7 @@ Auslagen werden erhoben
         darstellen können
 
     *   § 57 Absatz 1 Nummer 7 SeeSchStrO
-        Artikel 28 Absatz 1 Nummer 7 EmsSchEV
+        Artikel 28 Absatz 1 Nummer 7 EmsSchO
 
     *   213 – 351
         zuzüglich Zulage
@@ -3071,7 +3180,7 @@ Auslagen werden erhoben
 
     *   § 51 Absatz 2 SeeSchStrO
 
-    *   59,40
+    *   19,80
 
 
 *    *   12
@@ -3114,6 +3223,7 @@ Auslagen werden erhoben
 
     *   § 59 SeeSchStrO oder
         § 12 EmsSchEV
+        § 4 Absatz 2 SperrWarnGebV
 
     *   217 – 431
 
@@ -3246,6 +3356,15 @@ Auslagen werden erhoben
     *   193
 
 
+*    *   28
+
+    *   Wiederholungsprüfung eines Seelotsanwärters für die Seelotsreviere
+
+    *   § 10 SeeLG
+
+    *   181
+
+
 *    *   29
 
     *   Prüfung eines Bewerbers für die Tätigkeit eines Seelotsen über See
@@ -3273,7 +3392,7 @@ Auslagen werden erhoben
     *   Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und
         Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf
         Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach
-        Nummer 28
+        Nummer 29
 
     *   §§ 11, 17 SeeLG
         § 4 SeelotRevierV
@@ -3415,8 +3534,8 @@ Auslagen werden erhoben
     *   § 8 Absatz 5 und § 9 Absatz 6 Ems LV
         § 8 Absatz 5 und § 9 Absatz 6
         Weser/Jade-LV
-        § 10 Absatz 9 Ems-LV
-        § 10 Absatz 9 Weser/Jade-LV
+        § 10 Absatz 8 Ems-LV
+        § 10 Absatz 8 Weser/Jade-LV
         § 9 Absatz 5, § 10 Absatz 7, 8 und 9 Elbe-LV
         § 11 Absatz 4, § 12 Absatz 4, § 13 Absatz 5 und § 14 Absatz 6, 7 und 8
         NOK-LV
@@ -3587,7 +3706,13 @@ Gebühren und Auslagen
 1.  Gebührenbemessung
 
     a)  Für die Berechnung der Gebühren nach Zeitaufwand wird ein Stundensatz
-        von 119,70 Euro angewendet.
+        von 119,70 Euro angewendet. Abweichend von Satz 1 werden für die
+        Berechnung der Gebühren nach Zeitaufwand im Abschnitt III Bereich „A.
+        Maritime Medizin“ die allgemeinen pauschalen Stundensätze für
+        Verwaltungsbeschäftigte in der Bundesverwaltung nach Anlage 1 Teil A
+        der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S.
+        130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021
+        (BGBl. I S. 204) geändert worden ist, angewendet.
 
 
     b)  Hierbei umfasst die Dauer auch die Reisezeit, eine vom
@@ -4825,7 +4950,7 @@ Gebühren und Auslagen
     *   § 12 Absatz 3 SeeArbG
         i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG
 
-    *   20,70
+    *   19,65
 
 
 *    *   3002
@@ -4836,7 +4961,7 @@ Gebühren und Auslagen
         SeeArbG
         i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG
 
-    *   70 – 130
+    *   149
 
 
 *    *   3003
@@ -4847,7 +4972,7 @@ Gebühren und Auslagen
         i. V. m. § 12 Absatz 3 SeeArbG
         i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG
 
-    *   70 – 130
+    *   149
 
 
 *    *   3004
@@ -4857,7 +4982,7 @@ Gebühren und Auslagen
     *   § 109 Absatz 1 Satz 6 SeeArbG
         i. V. m. § 16 Absatz 1 MariMedV
 
-    *   3 195
+    *   3 075
 
 
 *    *   3005
@@ -4868,7 +4993,7 @@ Gebühren und Auslagen
     *   § 109 Absatz 1 Seite 6 SeeArbG
         i. V. m. § 16 Absatz 4, § 1 MariMedV
 
-    *   3 195
+    *   3 075
 
 
 *    *   3006
@@ -4877,7 +5002,7 @@ Gebühren und Auslagen
 
     *   § 19 Absatz 2 MariMedV
 
-    *   80,15
+    *   78,10
 
 
 *    *   3007
@@ -4887,7 +5012,7 @@ Gebühren und Auslagen
 
     *   § 16 Absatz 1 SeeArbG
 
-    *   2 503
+    *   2 420
 
 
 *    *   3008
@@ -4898,7 +5023,7 @@ Gebühren und Auslagen
     *   § 16 Absatz 1 SeeArbG
         i. V. m. § 10 MariMedV
 
-    *   623
+    *   595
 
 
 *    *   3009
@@ -4908,7 +5033,56 @@ Gebühren und Auslagen
 
     *   § 16 Absatz 1 SeeArbG
 
-    *   978
+    *   958
+
+
+*    *   3010
+
+    *   Erweiterung der Zulassung von Ärzten zur Durchführung von
+        Seelotseignungsuntersuchungen
+
+    *   § 8 SeeLG
+
+    *   520
+
+
+*    *   3011
+
+    *   Durchführung des psychologischen Eignungstests bei
+        Seelotsenbewerberinnen und Seelotsenbewerbern und Feststellung des
+        Ergebnisses
+
+    *   § 3 Absatz 2 SeeLotsEigV
+
+    *   150
+
+
+*    *   3012
+
+    *   Ausstellung des Seelotseignungszeugnisses, gegebenenfalls zuzüglich
+        Gebühren nach Nummer 3013
+
+    *   § 5 Absatz 1 Nummer 2 SeeLotsEigV
+
+    *   16,70
+
+
+*    *   3013
+
+    *   Vorausgegangene körperliche Untersuchung
+
+    *   § 5 Absatz 1 Nummer 2 SeeLotsEigV i. V. m. § 13 Absatz 2, 3 SeeLG
+
+    *   nach Zeitaufwand
+
+
+*    *   3014
+
+    *   Ungültigkeitserklärung eines Seediensttauglichkeitszeugnisses
+
+    *   § 14 Absatz 3 SeeArbG
+
+    *   55,85
 
 
 *    *   **B. Überprüfung der Arbeits- und Lebensbedingungen nach dem
@@ -5176,15 +5350,14 @@ Gebühren für gebührenpflichtige Leistungen
 
     c)  Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein
         erneuter Zustellungsversuch notwendig werden, wird für die erneute
-        Zustellung ein Zuschlag in Höhe von 14 Euro als Auslage erhoben.
+        Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
 
 
     d)  Für eine Auslandszustellung der Befähigungsnachweise nach dem
         Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in
-        Höhe von 6 Euro als Auslage erhoben. Für Auslandszustellungen durch
-        die Bundesdruckerei beläuft sich dieser Zuschlag auf 8,10 Euro. Für
-        Auslandszustellungen nach dem Tabellenabschnitt 2 wird ein Zuschlag in
-        Höhe von 1,60 Euro als Auslage erhoben.
+        Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem
+        Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein
+        Zuschlag von 1,60 Euro als Auslage erhoben.
 
 
 
@@ -5307,16 +5480,17 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 8 Absatz 8 SpFV
 
-    *   25,40
+    *   27,20
 
 
 *    *   11
 
     *   Fahrerlaubnis ohne Prüfung
 
-    *   § 3 Absatz 5 bis 7, § 4 Absatz 5 bis 7 SpFV
+    *   § 3 Absatz 5 bis 7,
+        § 4 Absatz 5 bis 7 SpFV
 
-    *   37,40
+    *   39,20
 
 
 *    *   12
@@ -5325,7 +5499,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 6 Absatz 4 SpFV
 
-    *   20,40
+    *   22,20
 
 
 *    *   13
@@ -5334,7 +5508,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 11 SpFV
 
-    *   37,40
+    *   39,20
 
 
 *    *   14

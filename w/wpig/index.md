@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 990
 
-Änderung durch
-:   Art. 8 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 14 G v. 22.2.2023 I Nr. 51
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -656,6 +653,29 @@ Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei
 Weiterverlagerung von Aktivitäten und Prozessen, die für die
 Durchführung von Wertpapierdienstleistungen,
 Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
+
+
+#### § 2a Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft
+gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind
+oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen.
+Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie
+als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer
+Position für eine Person oder Personengesellschaft nach Satz 1 tätig
+ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person
+gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen
+einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines
+Aufsichts- oder Verwaltungsrats oder eines vergleichbaren
+Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1
+fällt.
 
 
 #### § 3 Ausnahmen
@@ -1527,20 +1547,23 @@ ist.
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
-nach § 80 Absatz 1 bestellten Sonderbeauftragten sowie die im Dienst
-der Deutschen Bundesbank stehenden Personen, soweit sie zur
-Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer
-Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im
-Interesse des Wertpapierinstituts, der zuständigen Behörden oder eines
-Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht
-unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst
-sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere
-Personen, die durch dienstliche Berichterstattung Kenntnis von den in
-Satz 1 bezeichneten Tatsachen erhalten. Die von den beaufsichtigten
-Wertpapierinstituten zu beachtenden allgemeinen datenschutzrechtlichen
-Vorschriften bleiben unberührt. Ein unbefugtes Offenbaren oder
-Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn
-Tatsachen weitergegeben werden an
+nach § 80 Absatz 1 bestellten Sonderbeauftragten, die gerichtlich
+bestellten Treuhänder nach § 27 Absatz 2 sowie die im Dienst der
+Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung
+dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit
+bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse des
+Wertpapierinstituts, der zuständigen Behörden oder eines Dritten
+liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt
+offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind
+oder ihre Tätigkeit beendet ist. Dies gilt auch für die in Satz 1
+genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung
+einer Beauftragung oder Bestellung anvertraut werden. Satz 1 gilt auch
+für andere Personen, die durch dienstliche Berichterstattung Kenntnis
+von den in Satz 1 bezeichneten Tatsachen erhalten. Die von den
+beaufsichtigten Wertpapierinstituten zu beachtenden allgemeinen
+datenschutzrechtlichen Vorschriften bleiben unberührt. Ein unbefugtes
+Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere
+nicht vor, wenn Tatsachen weitergegeben werden an
 
 1.  Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige
     Gerichte,
@@ -1660,24 +1683,33 @@ Tatsachen weitergegeben werden an
     sind,
 
 
-23. das Bundesamt für Sicherheit in der Informationstechnik oder
+23. das Bundesamt für Sicherheit in der Informationstechnik,
 
 
 24. zuständige Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe r der
-    Verordnung (EU) 2020/1503,
+    Verordnung (EU) 2020/1503 oder
+
+
+25. natürliche oder juristische Personen, die als Sonderbeauftragte nach §
+    80 oder Treuhänder nach § 27 Absatz 2 oder in einem vergleichbaren
+    Verhältnis tätig werden; das Gleiche gilt für die
+    Informationsweitergabe an diesen Personenkreis, die im Rahmen der
+    Anbahnung einer Beauftragung oder Bestellung notwendig ist,
 
 
 
-soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben
-benötigen. Für die bei den in Satz 4 Nummern 1 bis 11, 13 bis 23
-genannten Stellen beschäftigten Personen und die von diesen Stellen
-beauftragten Personen sowie für die Mitglieder der in Satz 4 Nummern
+soweit diese Stellen oder Personen die Informationen zur Erfüllung
+ihrer Aufgaben oder zur Prüfung, ob sie eine der in Satz 5 Nummer 25
+genannten Aufgaben ausüben können, benötigen. Für die bei den in Satz
+5 Nummern 1 bis 11, 13 bis 23 und 25 genannten Stellen oder Personen
+beschäftigten Personen und die von diesen Stellen oder Personen
+beauftragten Personen sowie für die Mitglieder der in Satz 5 Nummern
 12 und 19 genannten Ausschüsse gilt die Verschwiegenheitspflicht nach
-Satz 1 entsprechend. Betrifft die Weitergabe von Tatsachen nach Satz 4
+Satz 1 entsprechend. Betrifft die Weitergabe von Tatsachen nach Satz 5
 personenbezogene Daten, sind die allgemeinen datenschutzrechtlichen
 Vorschriften zu beachten.
 
-(2) Befindet sich eine in Absatz 1 Satz 4 Nummer 1 bis 11, 16 bis 18
+(2) Befindet sich eine in Absatz 1 Satz 5 Nummer 1 bis 11, 16 bis 18
 und 20 bis 22 genannte Stelle in einem anderen Staat, so dürfen die
 Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle
 beschäftigten und die von dieser Stelle beauftragten Personen einer
@@ -1692,7 +1724,7 @@ weitergegeben werden, denen diese Stellen zugestimmt haben oder die
 auf Basis der abgeschlossenen Kooperations- oder
 Verwaltungsvereinbarungen statthaft sind.
 
-(3) Eine Weitergabe an Stellen nach Absatz 1 Satz 4 Nummer 16 und 17
+(3) Eine Weitergabe an Stellen nach Absatz 1 Satz 5 Nummer 16 und 17
 darf nur erfolgen, wenn die Anfrage unter Berücksichtigung der
 spezifischen Aufgaben, die die anfragende Stelle gemäß ihrem
 gesetzlichen Auftrag wahrnimmt, hinreichend begründet und hinreichend
@@ -1705,7 +1737,7 @@ hinausgehen und die Informationen ausschließlich den Personen
 übermittelt oder offengelegt werden, die unmittelbar mit der
 Wahrnehmung der spezifischen Aufgabe befasst sind. Andere
 Informationen als aggregierte und anonymisierte Informationen dürfen
-in den Fällen des Absatz 1 Satz 4 Nummer 16 und 17 nur in den
+in den Fällen des Absatz 1 Satz 5 Nummer 16 und 17 nur in den
 Räumlichkeiten der Bundesanstalt und der Deutschen Bundesbank
 eingesehen werden.
 
@@ -1980,6 +2012,12 @@ Rahmen des mit diesem Gesetz verfolgten Zwecks halten müssen.
 Wertpapierdienstleistungen oder inhaltlich dahingehend beschränkt
 werden, dass das Wertpapierinstitut nicht befugt ist, Eigentum oder
 Besitz am Kundengeld oder Kundenwertpapieren zu erwerben.
+
+(10) Die Absätze 1 bis 9 finden auch dann Anwendung, wenn im Zuge
+einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes
+eine juristische Person, die nach den Absätzen 1 bis 4 oder Absatz 6
+erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom
+Ausland ins Inland verlegt.
 
 
 #### § 16 Erlaubnisverfahren und Bekanntmachung
@@ -2270,6 +2308,10 @@ die Erlaubnis nicht versagt werden.
 
 
 
+Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach §
+305, § 320 oder § 333 des Umwandlungsgesetzes ein als juristische
+Person verfasstes Unternehmen seinen juristischen Sitz ins Ausland
+verlegt.
 
 (2) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften
 des Verwaltungsverfahrensgesetzes aufheben, wenn
@@ -2884,7 +2926,11 @@ die durch die Bestellung des Treuhänders entstehen, die diesem zu
 gewährenden Auslagen sowie die Vergütung haften das Wertpapierinstitut
 und der betroffene Inhaber der bedeutenden Beteiligung als
 Gesamtschuldner. Die Bundesanstalt schießt die Auslagen und die
-Vergütung vor.
+Vergütung vor. Bei fahrlässigem Handeln beschränkt sich die
+Ersatzpflicht des Treuhänders auf 1 Million Euro. Handelt es sich um
+eine Aktiengesellschaft, deren Aktien zum Handel im regulierten Markt
+zugelassen sind, beschränkt sich die Ersatzpflicht auf 50 Millionen
+Euro.
 
 (3) Die Bundesanstalt kann in den Fällen des Absatz 2 auch gegenüber
 einem die bedeutende Beteiligung vermittelnden Unternehmen anordnen,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1529
 
 Zuletzt geändert durch
-:   Art. 20 V v. 2.6.2016 I 1257
+:   Art. 39 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -181,7 +181,7 @@ Verkehrssicherstellungsgesetzes, soweit diese betreffen:
     b)  für die ihm nach § 19 Abs. 3 des Verkehrssicherstellungsgesetzes
         übertragenen Aufgaben
 
-        das Bundesamt für Güterverkehr;
+        das Bundesamt für Logistik und Mobilität;
 
 
     c)  im übrigen

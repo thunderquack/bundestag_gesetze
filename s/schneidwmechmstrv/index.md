@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2315
 
-Änderung durch
-:   Art. 2 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 Abs. 73 V v. 18.1.2022 I 39 (Nr. 3) ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 2 Abs. 73 V v. 18.1.2022 I 39
 
 
 ## Eingangsformel

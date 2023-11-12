@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1485
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.7.2021 I 3091
+:   Art. 1 G v. 2.3.2023 I Nr. 56
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -217,8 +217,8 @@ Abgabenordnung abgegeben hat.
 (5a) Rechtzeitig vor der Entscheidung über die Erteilung, die
 Rücknahme oder den Widerruf der Erlaubnis und von
 Erlaubnisausfertigungen gibt die nach Landesrecht zuständige Behörde
-dem Bundesamt für Güterverkehr, den beteiligten Verbänden des
-Verkehrsgewerbes, der fachlich zuständigen Gewerkschaft und der
+dem Bundesamt für Logistik und Mobilität, den beteiligten Verbänden
+des Verkehrsgewerbes, der fachlich zuständigen Gewerkschaft und der
 zuständigen Industrie- und Handelskammer Gelegenheit zur
 Stellungnahme. Vor der Entscheidung über die Erteilung, die Rücknahme
 oder den Widerruf von Erlaubnisausfertigungen kann die nach
@@ -240,7 +240,7 @@ wenn hierfür besondere Gründe vorliegen. Rechtzeitig vor der
 Entscheidung über die Untersagung der Führung von
 Güterkraftverkehrsgeschäften gegenüber dem Unternehmer oder dem
 Verkehrsleiter gibt die nach Landesrecht zuständige Behörde dem
-Bundesamt für Güterverkehr Gelegenheit zur Stellungnahme.
+Bundesamt für Logistik und Mobilität Gelegenheit zur Stellungnahme.
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
@@ -559,16 +559,16 @@ Der Werkverkehr ist erlaubnisfrei. Es besteht keine
 Versicherungspflicht.
 
 
-## 4. Abschnitt - Bundesamt für Güterverkehr
+## 4. Abschnitt - Bundesamt für Logistik und Mobilität
 
 
 
 ### § 10 Organisation
 
-(1) Das Bundesamt für Güterverkehr (Bundesamt) ist eine selbständige
-Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr und digitale Infrastruktur. Es wird von dem Präsidenten
-geleitet.
+(1) Das Bundesamt für Logistik und Mobilität (Bundesamt) ist eine
+selbständige Bundesoberbehörde im Geschäftsbereich des
+Bundesministeriums für Digitales und Verkehr. Es wird von dem
+Präsidenten geleitet.
 
 (2) Der Aufbau des Bundesamtes wird durch das Bundesministerium für
 Verkehr und digitale Infrastruktur geregelt.
@@ -898,12 +898,11 @@ Aufgaben im Zusammenhang mit der Beihilfegewährung.
 
 ### § 14b Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
 
-(1) Das Bundesamt für Güterverkehr ist zuständig für die Aufgaben nach
-den Artikeln 4, 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011
-des Europäischen Parlaments und des Rates vom 16. November 2011 über
-den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-
-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom
-29\.11.2011, S. 1).
+(1) Das Bundesamt ist zuständig für die Aufgaben nach den Artikeln 4,
+11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011 des Europäischen
+Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen
+grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den
+Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1).
 
 (2) Bei der Kontrolle der Einhaltung der Bestimmungen nach Artikel 21
 gilt § 12 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und Satz 2 und 3

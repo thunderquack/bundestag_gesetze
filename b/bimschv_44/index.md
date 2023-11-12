@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 804
 
-Änderung durch
-:   Art. 3 Abs. 1 V v. 6.7.2021 I 2514 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 12.10.2022 I 1801
 
 [^F807597_01_BJNR080410019]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/2193 des
     Europäischen Parlaments und des Rates vom 25. November 2015 zur
@@ -2605,6 +2605,16 @@ ausgestattet werden müsste. Eine solche Abweichung wird für einen
 Zeitraum von nicht mehr als zehn Tagen gewährt, es sei denn, der
 Betreiber weist der zuständigen Behörde nach, dass ein längerer
 Zeitraum gerechtfertigt ist.
+
+(3) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
+von den Anforderungen nach § 19 zulassen, falls unter Berücksichtigung
+der besonderen Umstände des Einzelfalls diese Anforderungen nicht oder
+nur mit unverhältnismäßigem Aufwand erfüllbar sind. Unter den
+Voraussetzungen des Satzes 1 kann die zuständige Behörde
+Austrittsöffnungen zulassen, die weniger als 10 Meter über Gelände
+liegen, wenn dies wegen einer plötzlichen Unterbrechung der
+Gasversorgung oder einer sonstigen außergewöhnlichen Notsituation
+erforderlich ist. Ausnahmen nach Satz 2 sind zu befristen.
 
 
 ### § 33 Weitergehende Anforderungen

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 157
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 1 G v. 7.5.2021 I 850
-
-Änderung durch
-:   Art. 5 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 10.8.2021 I 3436
 
 
 ## Erster Abschnitt - Vollstreckung wegen Geldforderungen

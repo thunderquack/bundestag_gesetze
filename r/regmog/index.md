@@ -14,14 +14,12 @@ Ausfertigungsdatum
 :   2021-03-28
 
 Fundstelle
-:   BGBl I: 2021, 591
+:   BGBl I: 2021, 591 (2023 I Nr. 230, Nr. 293)
 
-Änderung durch
-:   Art. 17 G v. 28.6.2021 I 2250 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 G v. 9.7.2021 I 2467
 
-Änderung durch
-:   Art. 11 G v. 9.7.2021 I 2467 ist berücksichtigt
-
+Stand: Bek. v 12.10.2023 I Nr 293 ist berücksichtigt
 
 ## Eingangsformel
 

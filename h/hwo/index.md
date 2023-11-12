@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 28.3.2021 I 591
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.11.2022 I 2009
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
@@ -66,10 +63,10 @@ Die Ausübung mehrerer Tätigkeiten im Sinne des Satzes 2 Nr. 1 und 2
 ist zulässig, es sei denn, die Gesamtbetrachtung ergibt, dass sie für
 ein bestimmtes zulassungspflichtiges Handwerk wesentlich sind.
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage A zu
-diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe
-streicht, ganz oder teilweise zusammenfaßt oder trennt oder
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Anlage A zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte
+Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder
 Bezeichnungen für sie festsetzt, soweit es die technische und
 wirtschaftliche Entwicklung erfordert.
 
@@ -182,9 +179,9 @@ personenbezogener Daten, und durch Abruf im automatisierten Verfahren,
 soweit dies zur Feststellung erforderlich ist, ob der Betriebsleiter
 die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt
 und ob er seine Aufgaben ordnungsgemäß wahrnimmt. Das
-Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten eines
-Abrufs im automatisierten Verfahren zu regeln.
+Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten
+eines Abrufs im automatisierten Verfahren zu regeln.
 
 
 #### § 5b Verfahren über eine einheitliche Stelle
@@ -261,7 +258,7 @@ Personengesellschaft in die Handwerksrolle eingetragen, wenn der
 Betriebsleiter die Voraussetzungen für die Eintragung in die
 Handwerksrolle mit dem zu betreibenden Handwerk oder einem mit diesem
 verwandten Handwerk erfüllt. Das Bundesministerium für Wirtschaft und
-Energie bestimmt durch Rechtsverordnung mit Zustimmung des
+Klimaschutz bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates, welche zulassungspflichtige Handwerke sich so nahestehen,
 daß die Beherrschung des einen zulassungspflichtigen Handwerks die
 fachgerechte Ausübung wesentlicher Tätigkeiten des anderen
@@ -294,14 +291,14 @@ neben dem Studium eine Berufsausbildung gefordert wird, ist zusätzlich
 der Nachweis zu erbringen, dass diese abgeschlossen ist. Die
 Entscheidung, ob die Voraussetzungen für die Eintragung erfüllt sind,
 trifft die Handwerkskammer. Das Bundesministerium für Wirtschaft und
-Energie kann zum Zwecke der Eintragung in die Handwerksrolle nach Satz
-1 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Klimaschutz kann zum Zwecke der Eintragung in die Handwerksrolle nach
+Satz 1 im Einvernehmen mit dem Bundesministerium für Bildung und
+Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Voraussetzungen bestimmen, unter denen die in Studien- oder
 Schulschwerpunkten abgelegten Prüfungen nach Satz 1 Meisterprüfungen
 in zulassungspflichtigen Handwerken entsprechen.
 
-(2a) Das Bundesministerium für Wirtschaft und Energie kann durch
+(2a) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß in die
 Handwerksrolle einzutragen ist, wer in einem anderen Mitgliedstaat der
 Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des
@@ -430,17 +427,17 @@ ist beizuladen.
 
 #### § 9
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung
-von Richtlinien der Europäischen Union über die Anerkennung von
-Berufsqualifikationen im Rahmen der Niederlassungsfreiheit, des freien
-Dienstleistungsverkehrs und der Arbeitnehmerfreizügigkeit und zur
-Durchführung des Abkommens vom 2. Mai 1992 über den Europäischen
-Wirtschaftsraum (BGBl. 1993 II S. 267) sowie des Abkommens zwischen
-der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und
-der Schweizerischen Eidgenossenschaft andererseits über die
-Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S. 6) zu
-bestimmen,
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Durchführung von Richtlinien der Europäischen Union über die
+Anerkennung von Berufsqualifikationen im Rahmen der
+Niederlassungsfreiheit, des freien Dienstleistungsverkehrs und der
+Arbeitnehmerfreizügigkeit und zur Durchführung des Abkommens vom 2.
+Mai 1992 über den Europäischen Wirtschaftsraum (BGBl. 1993 II S. 267)
+sowie des Abkommens zwischen der Europäischen Gemeinschaft und ihren
+Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft
+andererseits über die Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002
+Nr. L 114 S. 6) zu bestimmen,
 
 1.  unter welchen Voraussetzungen einem Staatsangehörigen eines
     Mitgliedstaates der Europäischen Union, eines Vertragsstaates des
@@ -611,15 +608,15 @@ beiden Trägerorganisationen gemeinsam zu benennen sind. Das gemeinsam
 benannte Mitglied führt den Vorsitz. Hat eine Trägerorganisation ein
 Mitglied nicht innerhalb von einem Monat nach Benennung des Mitglieds
 der anderen Trägerorganisation benannt, so erfolgt die Benennung durch
-das Bundesministerium für Wirtschaft und Energie. Das
-Bundesministerium für Wirtschaft und Energie benennt auch das
+das Bundesministerium für Wirtschaft und Klimaschutz. Das
+Bundesministerium für Wirtschaft und Klimaschutz benennt auch das
 vorsitzende Mitglied, wenn sich die Trägerorganisationen nicht
 innerhalb eines Monats einigen können, nachdem beide ihre Vorschläge
 für das gemeinsam zu benennende Mitglied unterbreitet haben. Die
 Schlichtungskommission gibt sich eine Geschäftsordnung.
 
-(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates das
+(6) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Schlichtungsverfahren zu regeln.
 
 (7) Hält die zuständige Behörde die Erklärung nach Absatz 3 Satz 2
@@ -708,12 +705,12 @@ handwerksähnliches Gewerbe im Sinne dieses Gesetzes, wenn es
 handwerksähnlich betrieben wird und in Anlage B Abschnitt 2 zu diesem
 Gesetz aufgeführt ist.
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage B zu
-diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe
-streicht, ganz oder teilweise zusammenfaßt oder trennt, Bezeichnungen
-für sie festsetzt oder die Gewerbegruppen aufteilt, soweit es die
-technische und wirtschaftliche Entwicklung erfordert.
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Anlage B zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte
+Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt,
+Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt,
+soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
 
 #### § 19
@@ -876,7 +873,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage
 des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen
 Rechtsverordnungen Anwendung.
 
-(4) Das Bundesministerium für Wirtschaft und Energie kann nach
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz kann nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, bestimmen, dass der Erwerb berufs- und arbeitspädagogischer
@@ -947,8 +944,8 @@ zu hören. Dies gilt nicht in den Fällen des § 22a Nr. 1.
 #### § 25
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung
-kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung durch
+kann das Bundesministerium für Wirtschaft und Klimaschutz im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
 Gewerbe der Anlage A und der Anlage B Ausbildungsberufe staatlich
 anerkennen und hierfür Ausbildungsordnungen nach § 26 erlassen. Dabei
@@ -971,8 +968,8 @@ Berufsausbildungsverhältnisse weiterhin die bis zu dem Zeitpunkt der
 Aufhebung oder Änderung geltenden Vorschriften anzuwenden, es sei
 denn, die ändernde Verordnung sieht eine abweichende Regelung vor.
 
-(5) Das Bundesministerium für Wirtschaft und Energie informiert die
-Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz informiert
+die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die
 Abstimmung ein.
 
 
@@ -1068,13 +1065,13 @@ soll stets geprüft werden, ob Regelungen nach Nummer 1, 2, 2a, 2b und
 #### § 27
 
 Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen
-kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung nach Anhörung des
-Hauptausschusses des Bundesinstituts für Berufsbildung durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Ausnahmen von § 25 Abs. 2 und 3 sowie den §§ 26, 31 und 39 zulassen,
-die auch auf eine bestimmte Art und Zahl von Ausbildungsstätten
-beschränkt werden können.
+kann das Bundesministerium für Wirtschaft und Klimaschutz im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Ausnahmen von § 25 Abs. 2 und 3 sowie den §§ 26, 31 und 39
+zulassen, die auch auf eine bestimmte Art und Zahl von
+Ausbildungsstätten beschränkt werden können.
 
 
 #### § 27a
@@ -1149,7 +1146,7 @@ Berufsbildung Empfehlungen beschließen.
 Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in
 beiden Handwerken in einer verkürzten Gesamtausbildungszeit
 gleichzeitig ausgebildet werden. Das Bundesministerium für Wirtschaft
-und Energie bestimmt im Einvernehmen mit dem Bundesministerium für
+und Klimaschutz bestimmt im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung durch Rechtsverordnung für welche verwandte
 Handwerke eine Gesamtausbildungszeit vereinbart werden kann und die
 Dauer der Gesamtausbildungszeit.
@@ -1273,7 +1270,7 @@ Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle zu
 beantragen. Der Antrag kann schriftlich oder elektronisch gestellt
 werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen.
 Auf einen betrieblichen Ausbildungsplan im Sinne des § 11 Absatz 1
-Satz 2 Nummer 1 des Berufsbildungsgesetzes, der der zuständigen Stelle
+Satz 2 Nummer 2 des Berufsbildungsgesetzes, der der zuständigen Stelle
 bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes
 gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
@@ -1707,7 +1704,7 @@ entsprechend.
 
 #### § 40
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann im
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses
@@ -1716,7 +1713,7 @@ Gesetzes erworbene Prüfungszeugnisse den entsprechenden Zeugnissen
 Berufsausbildung und die in der Prüfung nachzuweisenden beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-(2) Das Bundesministerium für Wirtschaft und Energie kann im
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den
@@ -1788,11 +1785,12 @@ des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
 (1) Als Grundlage für eine einheitliche höherqualifizierende
 Berufsbildung kann das Bundesministerium für Bildung und Forschung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach
-Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, Abschlüsse der höherqualifizierenden Berufsbildung anerkennen
-und hierfür Prüfungsregelungen erlassen (Fortbildungsordnungen).
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
+nach Anhörung des Hauptausschusses des Bundesinstituts für
+Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Abschlüsse der höherqualifizierenden Berufsbildung
+anerkennen und hierfür Prüfungsregelungen erlassen
+(Fortbildungsordnungen).
 
 (2) Die Fortbildungsordnungen haben festzulegen:
 
@@ -1978,7 +1976,7 @@ Fortbildungsstufe darf führen, wer
 
 (1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das
 Bundesministerium für Bildung und Forschung im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie nach Anhörung des
+Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 Fortbildungsabschlüsse anerkennen und hierfür Prüfungsregelungen
@@ -2090,10 +2088,10 @@ Prüfungsbestandteile durch die Handwerkskammer zu befreien, wenn
 
 #### § 42i
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung nach Anhörung des
-Hauptausschusses des Bundesinstituts für Berufsbildung durch
-Rechtsverordnung Prüfungszeugnisse, die außerhalb des
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung Prüfungszeugnisse, die außerhalb des
 Anwendungsbereichs dieses Gesetzes oder im Ausland erworben worden
 sind, den entsprechenden Zeugnissen über das Bestehen einer
 Fortbildungsprüfung auf der Grundlage der §§ 42b bis 42f
@@ -2105,10 +2103,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 Als Grundlage für eine geordnete und einheitliche berufliche
 Umschulung kann das Bundesministerium für Bildung und Forschung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach
-Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf,
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
+nach Anhörung des Hauptausschusses des Bundesinstituts für
+Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf,
 
 1.  die Bezeichnung des Umschulungsabschlusses,
 
@@ -2187,15 +2185,15 @@ Bestehens der anderen Prüfung erfolgt.
 
 #### § 42o
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung nach Anhörung des
-Hauptausschusses des Bundesinstituts für Berufsbildung durch
-Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder
-im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen
-über das Bestehen einer Umschulungsprüfung auf der Grundlage der §§
-42j und 42k gleichstellen, wenn die in der Prüfung nachzuweisenden
-beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig
-sind.
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses
+Gesetzes oder im Ausland erworbene Prüfungszeugnisse den
+entsprechenden Zeugnissen über das Bestehen einer Umschulungsprüfung
+auf der Grundlage der §§ 42j und 42k gleichstellen, wenn die in der
+Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und
+Fähigkeiten gleichwertig sind.
 
 
 ### Siebenter Abschnitt - Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
@@ -2278,8 +2276,8 @@ der Anlage A oder der Anlage B) entwickelt werden
 Handlungsfähigkeit stellt der Anbieter der
 Berufsausbildungsvorbereitung eine Bescheinigung aus. Das Nähere
 regelt das Bundesministerium für Bildung und Forschung im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des
-Hauptausschusses des Bundesinstituts für Berufsbildung durch
+mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung
+des Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
@@ -2460,9 +2458,10 @@ Unterausschüsse gelten § 43 Abs. 2 bis 6 und § 44a entsprechend.
 
 (1) Als Grundlage für ein geordnetes und einheitliches
 Meisterprüfungswesen für zulassungspflichtige Handwerke kann das
-Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
+Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit
+dem Bundesministerium für Bildung und Forschung durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+bestimmen,
 
 1.  welche Fertigkeiten und Kenntnisse in den einzelnen
     zulassungspflichtigen Handwerken zum Zwecke der Meisterprüfung zu
@@ -2748,9 +2747,9 @@ trägt die Handwerkskammer.
 
 #### § 50a
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung mit Zustimmung des Bundesrates das
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
+Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In
 der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
 
@@ -2815,17 +2814,17 @@ Vorschriften enthalten
 
 
 
-(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner
-Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer
-2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit
+(3) Soweit das Bundesministerium für Wirtschaft und Klimaschutz von
+seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2
+Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit
 Genehmigung der obersten Landesbehörde zu erlassende Satzung das
 Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 
 #### § 50b
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung durch
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene
 Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen
 einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken
@@ -2951,7 +2950,7 @@ Meisterprüfung abgelegt werden.
 
 (2) Als Grundlage für ein geordnetes und einheitliches
 Meisterprüfungswesen für Handwerke oder Gewerbe im Sinne des Absatzes
-1 kann das Bundesministerium für Wirtschaft und Energie im
+1 kann das Bundesministerium für Wirtschaft und Klimaschutz im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 bestimmen,
@@ -3077,9 +3076,9 @@ Personen berufen werden.
 
 #### § 51d
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung mit Zustimmung des Bundesrates das
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
+Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In
 der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
 
@@ -3144,17 +3143,17 @@ Vorschriften enthalten
 
 
 
-(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner
-Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer
-2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit
+(3) Soweit das Bundesministerium für Wirtschaft und Klimaschutz von
+seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2
+Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit
 Genehmigung der obersten Landesbehörde zu erlassende Satzung das
 Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 
 #### § 51e
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung durch
+Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene
 Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen
 einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder
@@ -4017,7 +4016,7 @@ wirtschaftlich nahestehender Handwerke im Bundesgebiet.
 (2) Auf den Bundesinnungsverband finden die Vorschriften dieses
 Abschnitts sinngemäß Anwendung. Die nach § 80 erforderliche
 Genehmigung der Satzung und ihrer Änderung erfolgt durch das
-Bundesministerium für Wirtschaft und Energie.
+Bundesministerium für Wirtschaft und Klimaschutz.
 
 
 ### Dritter Abschnitt - Kreishandwerkerschaften
@@ -5175,10 +5174,10 @@ geltenden fachlichen Vorschriften sind bis zum Inkrafttreten von
 Rechtsverordnungen nach § 25 Abs. 1, § 45 Abs. 1 und § 51a Abs. 1 in
 Verbindung mit Abs. 2 anzuwenden.
 
-(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, für die Fälle der Absätze 2 bis 4 ergänzende
+(5) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
+Forschung durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, für die Fälle der Absätze 2 bis 4 ergänzende
 Übergangsvorschriften zu erlassen, soweit dies für eine ordnungsgemäße
 Überleitung bestehender Lehrlingsverhältnisse oder sonstiger
 Ausbildungsverhältnisse oder begonnener Prüfungen oder Prüfungsteile
@@ -5293,16 +5292,7 @@ den §§ 7a, 7b, 8 und 9 auch die Fachaufsicht.
 
 #### § 124c
 
-(1) Die Mitglieder der Vollversammlung, der Innungsversammlung, der
-Mitgliederversammlung, der Delegiertenversammlung, der Vorstände und
-der Ausschüsse (Organe) der Handwerksorganisationen nach dem Vierten
-Teil sowie der Hauptgeschäftsführer einer Handwerkskammer bleiben auch
-nach Ablauf ihrer Amtszeit bis zur Abberufung oder bis zur Bestellung
-ihrer Nachfolger im Amt. Regelungen in Gesetz oder Satzung über das
-Ausscheiden, insbesondere den Widerruf, der Bestellung oder des
-Ausscheidens eines Mitglieds, bleiben unberührt.
-
-(2) Der Vorstand einer Handwerksorganisation im Sinne des Absatzes 1
+(1) Der Vorstand einer Handwerksorganisation nach dem Vierten Teil
 kann auch ohne Ermächtigung in der Satzung durch Beschluss den
 Mitgliedern der Organe seiner Handwerksorganisation ermöglichen,
 
@@ -5322,7 +5312,7 @@ von anderslautenden gesetzlichen oder satzungsrechtlichen Bestimmungen
 in Textform eingeladen werden. In der Einladung ist der Beschluss nach
 Satz 1 bekannt zu geben.
 
-(3) Der Präsident einer Handwerkskammer kann auch ohne Ermächtigung in
+(2) Der Präsident einer Handwerkskammer kann auch ohne Ermächtigung in
 der Satzung durch Beschluss den Mitgliedern des Vorstandes
 ermöglichen,
 
@@ -5342,7 +5332,7 @@ Beschluss nach Satz 1 bekannt zu geben. Die Sätze 1 und 2 gelten für
 die übrigen Handwerksorganisationen nach dem Vierten Teil
 entsprechend.
 
-(4) In den Fällen des Absatzes 2 Satz 1 Nummer 2 oder des Absatzes 3
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 oder des Absatzes 2
 Satz 1 Nummer 2
 
 1.  ist ein Beschluss gültig, wenn
@@ -5367,11 +5357,8 @@ Satz 1 Nummer 2
 
 
 
-(5) Die Absätze 1, 3 und 4 gelten für Meisterprüfungsausschüsse nach §
-47 entsprechend.
-
-(6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2023 nicht mehr
-anzuwenden.
+(4) Die Absätze 2 und 3 gelten für Meisterprüfungsausschüsse nach § 47
+entsprechend.
 
 
 ### Dritter Abschnitt - Schlußvorschriften
@@ -5455,7 +5442,8 @@ bleibt § 4 unberührt.
 
 #### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Absatz 2)
 
-(Fundstelle: BGBl. I 2020, 142 – 143)
+(Fundstelle: BGBl. I 2020, 142 – 143,
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nummer
@@ -5731,7 +5719,8 @@ bleibt § 4 unberührt.
 
 #### Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2)
 
-(Fundstelle: BGBl. I 2020, 143 – 144)
+(Fundstelle: BGBl. I 2020, 143 – 144,
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Abschnitt 1

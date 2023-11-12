@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1054
 
 Geändert durch
-:   Art. 2 V v. 26.1.2016 I 108
-
-Änderung durch
-:   Art. 9 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 27.7.2021 I 3274
 
 
 ## § 1 Ziel

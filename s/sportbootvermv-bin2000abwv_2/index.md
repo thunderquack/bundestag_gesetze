@@ -15,4 +15,4 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2021, 587
 
-Stand: Die V tritt gem. § 4 Abs. 3 dieser V mit Ablauf des 31.12.2023 außer Kraft
+Stand: Die V tritt gem. § 4 Abs. 3 dieser V idF d. Art. 1 V v. 13.9.2023 I Nr. 249 mit Ablauf des 30.12.2026 außer Kraft

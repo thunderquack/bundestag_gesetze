@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.7.2017 I 2316;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.4.2021 I 771
-
-Änderung durch
-:   Art. 42 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 Abs. 3 G v. 5.7.2021 I 2274 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 Abs. 3 G v. 5.7.2021 I 2274
 
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
 Parlaments und des Rates vom 9. September 2015 über ein
@@ -932,12 +926,12 @@ Erfüllungsgehilfen befindlichen Räumen ausführen, in denen Unbefugte
 keine Kenntnis von der Anordnung oder den darauf beruhenden
 Tätigkeiten erhalten können. Satz 3 gilt nicht für die Entgegennahme
 der Benachrichtigung über das Vorliegen einer Anordnung gemäß § 12
-Absatz 1 Satz 1.Der Verpflichtete hat die Anordnungsdaten, die bei der
-technischen Umsetzung einer Anordnung aus technischen Gründen in einer
-Telekommunikationsanlage gespeichert oder hinterlegt werden müssen,
-nach Vorgaben des Telekommunikationsgesetzes sowie der Technischen
-Richtlinie nach § 170 Absatz 6 des Telekommunikationsgesetzes gegen
-unbefugte Kenntnisnahme zu schützen.
+Absatz 1 Satz 1. Der Verpflichtete hat die Anordnungsdaten, die bei
+der technischen Umsetzung einer Anordnung aus technischen Gründen in
+einer Telekommunikationsanlage gespeichert oder hinterlegt werden
+müssen, nach Vorgaben des Telekommunikationsgesetzes sowie der
+Technischen Richtlinie nach § 170 Absatz 6 des
+Telekommunikationsgesetzes gegen unbefugte Kenntnisnahme zu schützen.
 
 
 #### § 15 Verschwiegenheit

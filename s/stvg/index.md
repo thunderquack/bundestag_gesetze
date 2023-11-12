@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.7.2021 I 3108
+:   Art. 16 G v. 2.3.2023 I Nr. 56
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
@@ -4685,9 +4685,9 @@ gespeichert
 
         Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder
         die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername,
-        Tag sowie Staat und Ort der Geburt, Geschlecht, Anschrift; bei
-        Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von
-        Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
+        Tag und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit
+        Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen,
+        Ort der Geburt und Geschlecht des Halters,
 
 
     b)  bei juristischen Personen und Behörden:
@@ -4697,7 +4697,7 @@ gespeichert
 
     c)  bei Vereinigungen:
 
-        benannter Vertreter mit den Angaben nach Buchstabe a und
+        benannter Vertreter mit den Angaben nach Buchstabe a oder b und
         gegebenenfalls Name der Vereinigung.
 
 
@@ -4723,7 +4723,7 @@ veräußert wurde (Halterdaten), und zwar
 
     c)  bei Vereinigungen:
 
-        benannter Vertreter mit den Angaben nach Buchstabe a und
+        benannter Vertreter mit den Angaben nach Buchstabe a oder b und
         gegebenenfalls Name der Vereinigung.
 
 
@@ -4960,13 +4960,23 @@ Absatz 2 jeweils erforderlich ist
     Immissionsschutzgesetzes nach Maßgabe der straßenverkehrsrechtlichen
     Vorschriften angeordnet worden oder aufgrund
     straßenverkehrsrechtlicher Vorschriften zum Schutz der Wohnbevölkerung
-    oder der Bevölkerung vor Abgasen ergangen sind, oder
+    oder der Bevölkerung vor Abgasen ergangen sind,
 
 
 19. zur Überprüfung und Ergänzung der Angaben in Anträgen und
     Verwendungsnachweisen zu einer Förderung hinsichtlich der Einhaltung
     der Regelungen über die Förderung des Absatzes von elektrisch
-    betriebenen Fahrzeugen (Umweltbonus).
+    betriebenen Fahrzeugen (Umweltbonus)
+
+
+20. für die in § 98 Absatz 1a Satz 1 der Insolvenzordnung genannten
+    Zwecke, soweit kein Grund zu der Annahme besteht, dass dadurch
+    schutzwürdige Interessen des Betroffenen beeinträchtigt werden oder
+
+
+21. für Maßnahmen nach dem Außenwirtschaftsgesetz, dem
+    Sanktionsdurchsetzungsgesetz oder den jeweils auf den genannten
+    Gesetzen beruhenden Rechtsvorschriften.
 
 
 
@@ -5115,7 +5125,7 @@ das Kraftfahrt-Bundesamt die nach § 33 Abs. 1 gespeicherten
 Fahrzeugdaten und Halterdaten zu den in § 8a Abs. 1 des
 Pflichtversicherungsgesetzes genannten Zwecken.
 
-(4b) Zu den in § 7 Absatz 3 des Internationalen
+(4b) Zu den in § 7 Absatz 2 des Internationalen
 Familienrechtsverfahrensgesetzes, § 4 Abs. 3 Satz 2 des
 Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007
 (BGBl. I S. 314) und den in den §§ 16 und 17 des
@@ -5296,9 +5306,9 @@ erfolgen.
 
 (2c) Die Übermittlung nach § 35 Abs. 1 Nr. 10 aus dem Zentralen
 Fahrzeugregister darf durch Abruf im automatisierten Verfahren an das
-Bundesamt für Güterverkehr und an eine sonstige öffentliche Stelle,
-die mit der Erhebung der Maut nach dem Bundesfernstraßenmautgesetz
-beauftragt ist, erfolgen.
+Bundesamt für Logistik und Mobilität und an eine sonstige öffentliche
+Stelle, die mit der Erhebung der Maut nach dem
+Bundesfernstraßenmautgesetz beauftragt ist, erfolgen.
 
 (2d) Die Übermittlung nach § 35 Absatz 1 Nummer 14 aus dem Zentralen
 Fahrzeugregister darf durch Abruf im automatisierten Verfahren an die
@@ -5336,6 +5346,15 @@ Absatz 5 Nummer 2 und 3 gelten unmittelbar.
 (2j) Die Übermittlung nach § 35 Absatz 1 Nummer 19 darf durch Abruf im
 automatisierten Verfahren an das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle erfolgen.
+
+(2k) Die Übermittlung nach § 35 Absatz 1 Nummer 20 aus dem Zentralen
+Fahrzeugregister darf durch Abruf im automatisierten Verfahren an das
+Insolvenzgericht erfolgen.
+
+(2l) Die Übermittlung nach § 35 Absatz 1 Nummer 21 darf durch Abruf im
+automatisierten Verfahren an die nach dem Außenwirtschaftsgesetz
+zuständigen Behörden und an die Zentralstelle zur
+Sanktionsdurchsetzung erfolgen.
 
 (3) Die Übermittlung nach § 35 Abs. 3 Satz 1 aus dem Zentralen
 Fahrzeugregister darf ferner durch Abruf im automatisierten Verfahren
@@ -7438,10 +7457,7 @@ anzuwenden, sofern der Unfall vor dem 17. Juli 2020 eingetreten ist.
 Bestimmungen geahndet werden.
 
 
-### § 66 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs-
-und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+### § 66 (weggefallen)
 
 
 ### Anlage (zu § 24a)

@@ -52,10 +52,10 @@ Direktoren, oder den Liquidatoren bekannt zu geben.
 
 ### § 4 Bekanntmachung der Registereintragungen
 
-Soweit die öffentliche Bekanntmachung einer Eintragung in das
-Genossenschaftsregister vorgeschrieben ist, ist sie zu veranlassen,
-sobald die Eintragung bewirkt ist und ohne dass eine andere Eintragung
-abgewartet werden darf.
+Die Eintragung ist unverzüglich zum Abruf über das nach § 156 des
+Genossenschaftsgesetzes in Verbindung mit § 9 Absatz 1 des
+Handelsgesetzbuchs bestimmte elektronische Informations- und
+Kommunikationssystem bereitzustellen.
 
 
 ### § 5 (weggefallen)
@@ -197,9 +197,7 @@ genügt, insbesondere ob
 (2) Die Eintragung der Satzung in das Register erfolgt durch Aufnahme
 eines Auszugs.
 
-(3) Der Auszug muss die im § 12 Abs. 2 des Gesetzes vorgesehenen
-Angaben enthalten,
-nämlich:
+(3) Der Auszug muss folgende Angaben enthalten:
 
 1.  das Datum der Satzung;
 
@@ -215,7 +213,6 @@ nämlich:
 
 
 
-ferner:
 
 5.  die Mitglieder des Vorstands, ihre Vertretungsbefugnis (Gesetz § 25)
     und ihre Stellvertreter (Gesetz § 35).
@@ -351,13 +348,13 @@ Liquidatoren die Beendigung ihrer Vertretungsbefugnis zur Eintragung
 anzumelden.
 
 (2) Von Amts wegen auf Grund der Mitteilung der Geschäftsstelle des
-Insolvenzgerichts sind einzutragen (§ 102 Abs. 1 des Gesetzes)
+Insolvenzgerichts sind einzutragen (§ 102 des Gesetzes)
 
 1.  die Aufhebung des Eröffnungsbeschlusses,
 
 
 2.  die Bestellung eines vorläufigen Insolvenzverwalters unter den
-    Voraussetzungen des § 102 Abs. 1 Satz 2 Nr. 2 des Gesetzes,
+    Voraussetzungen des § 102 Satz 2 Nr. 2 des Gesetzes,
 
 
 3.  die Anordnung der Eigenverwaltung durch den Schuldner und deren
@@ -515,7 +512,7 @@ folgenden Nummern 1 bis 8 eingetragen.
     aa) die Eröffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie
         die Aufhebung des Eröffnungsbeschlusses; die Bestellung eines
         vorläufigen Insolvenzverwalters unter den Voraussetzungen des § 102
-        Abs. 1 Satz 2 Nr. 2 des Gesetzes sowie die Aufhebung einer derartigen
+        Satz 2 Nr. 2 des Gesetzes sowie die Aufhebung einer derartigen
         Sicherungsmaßnahme; die Anordnung der Eigenverwaltung durch den
         Schuldner und deren Aufhebung sowie die Anordnung der
         Zustimmungsbedürftigkeit bestimmter Rechtsgeschäfte des Schuldners

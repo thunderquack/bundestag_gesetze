@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 9b G v. 29.3.2021 I 370
-
-Änderung durch
-:   Art. 4 V v. 21.4.2021 I 833 (Nr. 19) ist berücksichtigt
-
-Änderung durch
-:   Art. 10 G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
+:   Art. 4a G v. 19.7.2023 I Nr. 197
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -186,6 +177,9 @@ zählen insbesondere:
 2.  die Durchführung von einfachen Gesundheitstests,
 
 
+2a. die Vorbereitung und Durchführung von Schutzimpfungen,
+
+
 3.  das patientenindividuelle Anpassen von Medizinprodukten sowie
 
 
@@ -229,6 +223,10 @@ entspricht.
 Ausgangsmaterialien oder Lösungen in ein vorsterilisiertes
 geschlossenes Behältnis, ohne dass der Inhalt dabei mit der äußeren
 Umgebung in Kontakt kommt.
+
+(18) Schutzimpfungen im Sinne dieser Verordnung sind
+Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-
+CoV-2.
 
 
 ## Zweiter Abschnitt - Der Betrieb von öffentlichen Apotheken
@@ -274,6 +272,39 @@ Apotheken geltenden Vorschriften verantwortlich.
 berufliche oder gewerbsmäßige Tätigkeit anzuzeigen, bevor sie
 aufgenommen wird.
 
+(3a) Der Apothekenleiter hat sicherzustellen, dass Schutzimpfungen nur
+durchgeführt werden, wenn
+
+1.  die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu
+    impfenden Person durch Apotheker durchgeführt werden, die nach § 20c
+    Absatz 1 des Infektionsschutzgesetzes zur Durchführung von
+    Schutzimpfungen berechtigt sind,
+
+
+2.  die Schutzimpfungen durch Apotheker durchgeführt werden, die nach §
+    20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von
+    Schutzimpfungen berechtigt sind,
+
+
+3.  eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht,
+    die für die Durchführung von Schutzimpfungen erforderlich ist, sofern
+    kein aufsuchendes Impfen durchgeführt wird, und
+
+
+4.  für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die
+    mögliche Schädigungen aus der Durchführung der Schutzimpfungen
+    abdeckt.
+
+
+
+Der Apothekenleiter hat der zuständigen Behörde die Durchführung von
+Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen
+durchgeführt wird, die dafür vorgesehenen Räumlichkeiten spätestens
+eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich
+der Durchführung von Schutzimpfungen oder der Räumlichkeiten sind der
+zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung
+anzuzeigen.
+
 (4) Der Apothekenleiter darf neben Arzneimitteln und
 apothekenpflichtigen Medizinprodukten die in § 1a Absatz 10 genannten
 Waren nur in einem Umfang anbieten oder feilhalten, der den
@@ -309,8 +340,8 @@ Vertretung
 2.  des Leiters einer krankenhausversorgenden Apotheke sowie
 
 
-3.  des Leiters einer Apotheke, auf die die Sondervorschriften des § 34
-    oder des § 35 Anwendung finden.
+3.  des Leiters einer Apotheke, auf die die Sondervorschriften des § 34, §
+    35 oder § 35a Anwendung finden.
 
 
 
@@ -364,7 +395,9 @@ Größe, Art und Leistungsstruktur des Krankenhauses. Satz 2 gilt
 entsprechend für die Versorgung von Einrichtungen im Sinne von § 12a
 des Apothekengesetzes.
 
-(3) (weggefallen)
+(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein
+Apotheker oder eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte
+Person anwesend ist. § 23 Absatz 3 bleibt unberührt.
 
 (4) Die Bewertung der Analyse und die Beratung im Rahmen eines
 Medikationsmanagements müssen durch einen Apotheker der Apotheke
@@ -414,6 +447,70 @@ eingesetzte Personal muss für diese Aufgaben entsprechend qualifiziert
 sein und über die bei den jeweiligen Tätigkeiten gebotene Sorgfalt
 nachweislich zu Anfang und danach fortlaufend vom pharmazeutischen
 Personal unterwiesen werden.
+
+(5b) Abweichend von Absatz 5 Satz 3 entfällt die Pflicht zur
+Beaufsichtigung eines pharmazeutisch-technischen Assistenten bei der
+Ausführung pharmazeutischer Tätigkeiten, wenn
+
+1.  der pharmazeutisch-technische Assistent
+
+    a)  seine Berufstätigkeit in Apotheken mindestens drei Jahre in Vollzeit
+        oder in entsprechendem Umfang in Teilzeit ausgeübt hat und die
+        staatliche Prüfung mindestens mit der Gesamtnote „gut“ bestanden hat
+        oder seine Berufstätigkeit in Apotheken mindestens fünf Jahre in
+        Vollzeit oder in entsprechendem Umfang in Teilzeit ausgeübt hat und
+
+
+    b)  über ein gültiges Fortbildungszertifikat einer Apothekerkammer als
+        Nachweis seiner regelmäßigen Fortbildung verfügt und
+
+
+
+
+
+2.  der Apothekenleiter
+
+    a)  sich im Rahmen einer mindestens einjährigen Berufstätigkeit des
+        pharmazeutisch-technischen Assistenten in seinem Verantwortungsbereich
+        nach § 2 Absatz 2 vergewissert hat, dass der pharmazeutisch-technische
+        Assistent die pharmazeutischen Tätigkeiten ohne Beaufsichtigung
+        zuverlässig ausführen kann, und
+
+
+    b)  nach schriftlicher Anhörung des pharmazeutisch-technischen Assistenten
+        Art und Umfang der pharmazeutischen Tätigkeiten schriftlich oder
+        elektronisch festgelegt hat, für die die Pflicht zur Beaufsichtigung
+        entfällt.
+
+
+
+
+
+
+Pharmazeutisch-technische Assistenten, die ihre Berufsqualifikation
+oder Fortbildungszertifikate im Ausland erworben oder ihren Beruf im
+Ausland ausgeübt haben, müssen eine Berufsqualifikation, eine
+Fortbildung sowie eine Berufserfahrung nachweisen, die den Maßstäben
+des Satzes 1 entsprechen. Die Pflicht zur Beaufsichtigung nach Absatz
+5 Satz 3 entfällt nicht bei der Herstellung von Arzneimitteln zur
+parenteralen Anwendung, beim patientenindividuellen Stellen oder
+Verblistern von Arzneimitteln sowie bei der Abgabe von
+Betäubungsmitteln, von Arzneimitteln mit den Wirkstoffen Lenalidomid,
+Pomalidomid oder Thalidomid und von Arzneimitteln, die nach § 73
+Absatz 3 oder Absatz 3b des Arzneimittelgesetzes in den
+Geltungsbereich dieser Verordnung verbracht werden. Absatz 1 bleibt
+unberührt.
+
+(5c) Die Pflicht zur Beaufsichtigung nach Absatz 5 Satz 3 entsteht
+erneut, soweit der Apothekenleiter auf Grund nachträglich
+eingetretener Umstände nicht mehr sicher ist, dass der pharmazeutisch-
+technische Assistent die jeweilige pharmazeutische Tätigkeit ohne
+Beaufsichtigung zuverlässig ausführen kann, oder der pharmazeutisch-
+technische Assistent über kein gültiges Fortbildungszertifikat einer
+Apothekerkammer als Nachweis seiner regelmäßigen Fortbildung mehr
+verfügt. Die schriftliche oder elektronische Festlegung nach Absatz 5b
+Satz 1 Nummer 2 Buchstabe b ist nach schriftlicher Anhörung des
+pharmazeutisch-technischen Assistenten entsprechend anzupassen.
 
 (6) Zur Versorgung eines Krankenhauses mit Ausnahme der Zustellung
 darf der Apothekenleiter nur Personal einsetzen, das in seinem Betrieb
@@ -804,7 +901,10 @@ insbesondere Folgendes beinhalten:
     werden, den Namen des Kunden sowie
 
 
-7.  den Namen der Person, die das Rezepturarzneimittel hergestellt hat.
+7.  das Namenszeichen der Person, die das Rezepturarzneimittel hergestellt
+    hat, und, falls ein pharmazeutisch-technischer Assistent die
+    Herstellung unter Beaufsichtigung durchgeführt hat, das Namenszeichen
+    des Apothekers, der die Herstellung beaufsichtigt hat.
 
 
 
@@ -883,7 +983,10 @@ Herstellungsanweisung nennen und insbesondere Folgendes beinhalten:
 6.  das Verfalldatum oder das Nachtestdatum sowie
 
 
-7.  die Unterschrift der Person, die das Arzneimittel hergestellt hat.
+7.  das Namenszeichen der Person, die das Arzneimittel hergestellt hat,
+    und, falls ein pharmazeutisch-technischer Assistent die Herstellung
+    unter Beaufsichtigung durchgeführt hat, das Namenszeichen des
+    Apothekers, der die Herstellung beaufsichtigt hat.
 
 
 
@@ -900,19 +1003,28 @@ einschließlich der zulässigen Soll- oder Grenzwerte.
 (4) Die Prüfung ist gemäß der Prüfanweisung nach Absatz 3
 durchzuführen und von der Person zu dokumentieren, die die Prüfung
 durchgeführt hat (Prüfprotokoll). Das Prüfprotokoll muss die zugrunde
-liegende Prüfanweisung nennen und insbesondere Angaben enthalten
+liegende Prüfanweisung nennen und insbesondere folgende Angaben
+enthalten:
 
-1.  zum Datum der Prüfung,
-
-
-2.  zu den Prüfergebnissen und deren Freigabe durch den verantwortlichen
-    Apotheker, der die Prüfung durchgeführt oder beaufsichtigt hat.
+1.  das Datum der Prüfung,
 
 
+2.  die Prüfergebnisse,
+
+
+3.  das Namenszeichen des Prüfenden und, falls ein pharmazeutisch-
+    technischer Assistent die Prüfung unter Beaufsichtigung durchgeführt
+    hat, das Namenszeichen des Apothekers, der die Prüfung beaufsichtigt
+    hat, sowie
+
+
+4.  die Freigabe durch die Unterschrift eines Apothekers der Apotheke.
 
 
 
-### XXXX §§ 9 u. 10 (weggefallen)
+
+
+### (XXXX) §§ 9 und 10 (weggefallen)
 
 -
 
@@ -931,8 +1043,7 @@ Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben,
 soweit es sich um einen Wirkstoff handelt. Die Verantwortung des
 Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe
 bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen
-sind Aufzeichnungen mit Namenszeichen des prüfenden oder die Prüfung
-beaufsichtigenden Apothekers zu machen.
+sind Aufzeichnungen zu machen; § 8 Absatz 4 Satz 2 gilt entsprechend.
 
 (3) Werden Arzneimittel, die keine Fertigarzneimittel sind, zur
 Herstellung anderer Arzneimittel bezogen, gelten die Absätze 1 und 2
@@ -986,8 +1097,10 @@ apothekenpflichtige Medizinprodukte entsprechend.
 4.  das Datum und die Ergebnisse der Prüfung,
 
 
-5.  das Namenszeichen des prüfenden oder die Prüfung beaufsichtigenden
-    Apothekers.
+5.  das Namenszeichen des Prüfenden und, falls ein pharmazeutisch-
+    technischer Assistent die Prüfung unter Beaufsichtigung durchgeführt
+    hat, das Namenszeichen des Apothekers, der die Prüfung beaufsichtigt
+    hat.
 
 
 
@@ -1022,7 +1135,10 @@ aufweisen:
     verschreibende Person abgegeben wird,
 
 
-5.  Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art,
+5.  Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art
+    sowie Angaben zur Konzentration oder zur Menge des sonstigen
+    Bestandteils, soweit dies nach dem jeweiligen Stand der
+    wissenschaftlichen Erkenntnisse erforderlich ist,
 
 
 6.  Herstellungsdatum,
@@ -1418,6 +1534,32 @@ Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht
 verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche
 Anwendung des Arzneimittels erforderlich macht.
 
+(5b) Abweichend von Absatz 5 Satz 1 und 2 und Absatz 5a darf der
+Apotheker bei einem verordneten Arzneimittel, das nicht verfügbar im
+Sinne des § 129 Absatz 2a Satz 2 des Fünften Buches Sozialgesetzbuch
+ist, das verordnete Arzneimittel gegen ein verfügbares
+wirkstoffgleiches Arzneimittel austauschen, sofern der verordnende
+Arzt dies nicht ausgeschlossen hat und die Person, für die das
+Arzneimittel bestimmt ist, einverstanden ist. Dabei dürfen Apotheker
+ohne Rücksprache mit dem verordnenden Arzt von der ärztlichen
+Verordnung im Hinblick auf Folgendes abweichen, sofern hierdurch die
+verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
+
+1.  die Packungsgröße,
+
+
+2.  die Packungsanzahl,
+
+
+3.  die Abgabe von Teilmengen aus der Packung eines Fertigarzneimittels,
+    soweit die verordnete Packungsgröße nicht lieferbar ist, und
+
+
+4.  die Wirkstärke, sofern keine pharmazeutischen Bedenken bestehen.
+
+
+
+
 (6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und,
 falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der
 Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der
@@ -1454,7 +1596,9 @@ pharmazeutisch-technische Assistenten übertragen. Der pharmazeutisch-
 technische Assistent hat in den Fällen des Absatzes 5 Satz 3 und bei
 Verschreibungen, die nicht in der Apotheke verbleiben, die
 Verschreibung vor, in allen übrigen Fällen unverzüglich nach der
-Abgabe der Arzneimittel einem Apotheker vorzulegen.
+Abgabe der Arzneimittel einem Apotheker vorzulegen. Die Pflicht zur
+Vorlage entfällt und entsteht erneut entsprechend den Regelungen in §
+3 Absatz 5b und 5c.
 
 (6a) Bei dem Erwerb und der Abgabe von Blutzubereitungen, Sera aus
 menschlichem Blut und Zubereitungen aus anderen Stoffen menschlicher
@@ -2069,7 +2213,8 @@ versorgt.
 (2) Für den Einsatz des Apothekenpersonals ist der Leiter der
 Krankenhausapotheke verantwortlich.
 
-(3) Die Vorschriften des § 3 Absatz 1, 5 und 6 gelten entsprechend.
+(3) Die Vorschriften des § 3 Absatz 1, 5, 5b, 5c und 6 gelten
+entsprechend.
 
 
 ### § 29 Räume und Einrichtung der Krankenhausapotheke
@@ -2138,7 +2283,7 @@ das Verfalldatum sowie Aufbewahrungshinweise angegeben sind und die
 Packungsbeilage hinzugefügt wird.
 
 (4) Die Vorschriften des § 17 Absatz 1, 1a, 4, 5, 6 Satz 1 Nummer 1
-bis 3 sowie Satz 2 und 3 und Absatz 6a bis 6c gelten entsprechend.
+bis 3 und Satz 2 bis 4 sowie Absatz 6a bis 6c gelten entsprechend.
 
 
 ### § 32 Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
@@ -2459,7 +2604,130 @@ elektronische Verfahren sowie eine Dichtigkeitsprüfung des befüllten
 Behältnisses vorsehen.
 
 
-### XXXX §§ 35a u. 35b (weggefallen)
+### § 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
+
+(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und
+Durchführung von Schutzimpfungen insbesondere Festlegungen zu treffen:
+
+1.  zur Vorbereitung der Impfung,
+
+
+2.  zur Aufklärung und Einholung der Einwilligung der zu impfenden Person,
+
+
+3.  zur Anamnese und zur Entscheidung, wann die Schutzimpfung nicht
+    durchgeführt wird,
+
+
+4.  zur Durchführung der Impfung,
+
+
+5.  zur Dokumentation der Impfung,
+
+
+6.  zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der
+    an den Vorbereitungen und der Durchführung der Schutzimpfung
+    beteiligten Personen und
+
+
+7.  zur Meldung bei Verdacht auf eine über das übliche Ausmaß einer
+    Impfreaktion hinausgehenden gesundheitlichen Schädigung.
+
+
+
+
+(2) Nur Apotheker, die nach § 20c Absatz 1 des
+Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen
+berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der
+Einwilligung der zu impfenden Person und die Schutzimpfungen
+durchführen. Bei der Vorbereitung und der Dokumentation der Impfung
+darf das pharmazeutische Personal der Apotheke unterstützen. Das
+pharmazeutische Personal der Apotheke muss für die Tätigkeit
+ausreichend qualifiziert sein und regelmäßig geschult werden; die
+Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1
+erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
+
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung
+von impfwilligen Personen, die Vorbereitung und die Durchführung der
+Schutzimpfungen muss eine geeignete Räumlichkeit einschließlich
+Wartebereich mit der Ausstattung zur Verfügung stehen, die für die
+Durchführung von Schutzimpfungen erforderlich ist, sofern kein
+aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der
+Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke
+nicht gestört werden; insbesondere können keine Räume genutzt werden,
+die für einen anderweitigen Zweck vorgesehen und in denen die
+notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter
+Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und
+Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen
+Schutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5
+nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener
+Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim
+Aufklärungsgespräch als auch bei der Durchführung der Schutzimpfung
+ist die Privatsphäre der zu impfenden Personen zu schützen.
+
+(4) Vor der Schutzimpfung hat die impfende Person die zu impfende
+Person über die zu verhütende Krankheit und die Impfung aufzuklären,
+die Anamnese durchzuführen und die Einwilligung der zu impfenden
+Person einzuholen. Die Aufklärung umfasst insbesondere
+
+1.  Informationen über den Nutzen der Impfung und über die zu verhütende
+    Krankheit,
+
+
+2.  Hinweise auf mögliche Nebenwirkungen, Komplikationen und
+    Kontraindikationen,
+
+
+3.  Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Impfung,
+
+
+4.  Informationen über Beginn und Dauer der Schutzwirkung und
+
+
+5.  Hinweise zu Auffrischimpfungen.
+
+
+
+
+(5) Die Dokumentation der Schutzimpfung muss Angaben enthalten zu:
+
+1.  Datum und Durchführung der Aufklärung der zu impfenden Person,
+
+
+2.  Datum und Durchführung der Anamnese,
+
+
+3.  Einwilligung der zu impfenden Person,
+
+
+4.  Datum der Impfung,
+
+
+5.  Bezeichnung und Chargenbezeichnung des verwendeten Impfstoffes,
+
+
+6.  Name der geimpften Person, deren Geburtsdatum und Anschrift,
+
+
+7.  Name und Anschrift der Apotheke und
+
+
+8.  Name und Bestätigung der Person, die die Aufklärung, Anamnese und
+    Impfung durchgeführt hat.
+
+
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine
+Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5
+erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer
+von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde,
+aufzubewahren.
+
+(6) Es sind geeignete Hygienemaßnahmen zum Schutz der zu impfenden
+Person und des Apothekenpersonals zu treffen.
+
+
+### § 35b (weggefallen)
 
 -
 
@@ -2484,45 +2752,66 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
     Versandes in den Verkehr bringt,
 
 
+1c. entgegen § 35a Absatz 2 Satz 1 eine Schutzimpfung durchführt,
+
+
 2.  als Apothekenleiter
 
-    a)  einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die
+    a)  entgegen § 2 Absatz 3a Satz 1 Nummer 1 nicht sicherstellt, dass eine
+        Aufklärung, Anamnese oder das Einholen der Einwilligung der zu
+        impfenden Person durchgeführt wird,
+
+
+    b)  entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine
+        Schutzimpfung nur durch einen berechtigten Apotheker durchgeführt
+        wird,
+
+
+    c)  entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht
+        vollständig oder nicht rechtzeitig erstattet,
+
+
+    d)  entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht
+        vollständig oder nicht rechtzeitig erstattet,
+
+
+    e)  einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die
         Vertretung des Apothekenleiters zuwiderhandelt,
 
 
-    b)  entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht
+    f)  entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht
         betreibt,
 
 
-    c)  entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3
+    g)  entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3
         oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
 
 
-    d)  entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3
+    h)  entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3
         pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen
         Apotheker beaufsichtigen läßt,
 
 
-    e)  entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht
+    i)  entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht
         vorrätig hält,
 
 
-    f)  entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes
+    j)  entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes
         Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden
         kann,
 
 
-    g)  entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der
+    k)  entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der
         Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige
         Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
 
-    h)  entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3,
+    l)  entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3,
         jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel
         abgibt oder abgeben läßt,
 
 
-    i)  entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2
+    m)  entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2
         Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des
         Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig
         oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen
@@ -2533,20 +2822,20 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
         oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
 
 
-    j)  entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei
+    n)  entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei
         Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen
         werden,
 
 
-    k)  entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
+    o)  entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
 
 
-    l)  entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an
+    p)  entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an
         sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen
         dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
 
 
-    m)  entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die
+    q)  entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die
         erforderliche Erlaubnis unterhält,
 
 
@@ -2661,6 +2950,19 @@ bis zu diesem Zeitpunkt müssen die Reinraumanforderungen nachweislich
 mindestens den Anforderungen der Klasse A für die lokale Zone und der
 Klasse C für den Umgebungsbereich entsprechen.
 
+(3) Apothekenleiter, die bereits vor dem 30. Juni 2022
+Grippeschutzimpfungen durch ihre Apotheken durchführen lassen, haben
+abweichend von § 2 Absatz 3a Satz 2 der zuständigen Behörde die
+Durchführung von Grippeschutzimpfungen und die dafür vorgesehenen
+Räumlichkeiten bis zum 31. Juli 2022 anzuzeigen.
+
+(4) Apothekenleiter, die vor dem 1. Januar 2023 Schutzimpfungen gegen
+das Coronavirus SARS-CoV-2 durch ihre Apotheken haben durchführen
+lassen, haben abweichend von § 2 Absatz 3a Satz 2 der zuständigen
+Behörde die Durchführung von Schutzimpfungen und, sofern nicht
+ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür
+vorgesehenen Räumlichkeiten bis zum 1. Februar 2023 anzuzeigen.
+
 
 ### § 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
@@ -2692,24 +2994,4 @@ Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
 Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
 Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre
 weiter anzuwenden.
-
-
-### Anlage 1 (weggefallen)
-
--
-
-
-### Anlage 2 (weggefallen)
-
--
-
-
-### Anlage 3 (weggefallen)
-
--
-
-
-### Anlage 4 (weggefallen)
-
--
 

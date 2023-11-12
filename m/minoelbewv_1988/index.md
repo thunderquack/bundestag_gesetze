@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 530
 
 Zuletzt geändert durch
-:   Art. 17 G v. 23.6.2021 I 1858
+:   Art. 10 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -378,7 +378,7 @@ Zeitpunkt erneut Meldungen abzugeben sind.
         Eisenbahnen,
 
         das Bundesministerium für Verkehr und digitale Infrastruktur für die
-        Eisenbahnen des Bundes und das Bundesamt für Güterverkehr
+        Eisenbahnen des Bundes und das Bundesamt für Logistik und Mobilität
 
         sowie
 

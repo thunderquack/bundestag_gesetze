@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 872
 
 Zuletzt geändert durch
-:   Art. 4 V v. 12.12.2018 I 2446
-
-Änderung durch
-:   Art. 73 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 10.8.2021 I 3490
 
 
 ## Eingangsformel
@@ -827,8 +821,8 @@ In das Register werden eingetragen:
     entsprechende Angabe und die Registernummer der Stammeintragung,
 
 
-31. der Tag und die Nummer der internationalen Registrierung (§§ 110, 122
-    Abs. 2 des Markengesetzes),
+31. der Tag und die Nummer der internationalen Registrierung (§ 110 Absatz
+    2 des Markengesetzes),
 
 
 32. der Rechtsübergang einer Marke zusammen mit Angaben über den
@@ -1372,14 +1366,7 @@ Patent- und Markenamt schriftlich zurückgenommen werden.
 
 
 
-### § 43 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
-
-Für Anträge und für sonstige Mitteilungen im Verfahren der
-internationalen Registrierung einer in das Register eingetragenen
-Marke nach Artikel 3 des Madrider Markenabkommens beim Deutschen
-Patent- und Markenamt sind die vom Internationalen Büro der
-Weltorganisation für geistiges Eigentum herausgegebenen amtlichen
-Formblätter zu verwenden.
+### § 43 (weggefallen)
 
 
 ### § 44 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen
@@ -1392,22 +1379,13 @@ Internationalen Büro der Weltorganisation für geistiges Eigentum
 herausgegebenen amtlichen Formblätter zu verwenden.
 
 
-### § 45 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen
-
-Für Anträge und für sonstige Mitteilungen im Verfahren der
-internationalen Registrierung einer beim Deutschen Patent- und
-Markenamt in das Register eingetragenen Marke sowohl nach Artikel 3
-des Madrider Markenabkommens als auch nach Artikel 3 des Protokolls
-zum Madrider Markenabkommen sind die vom Internationalen Büro der
-Weltorganisation für geistiges Eigentum herausgegebenen amtlichen
-Formblätter zu verwenden.
+### § 45 (weggefallen)
 
 
 ### § 46 Schutzverweigerung
 
 (1) Wird einer international registrierten Marke, deren Schutz nach
 Artikel
-3ter des Madrider Markenabkommens oder nach Artikel
 3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der
 Bundesrepublik Deutschland erstreckt worden ist, der Schutz ganz oder
 teilweise verweigert und wird diese Schutzverweigerung dem

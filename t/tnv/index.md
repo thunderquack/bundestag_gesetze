@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 141
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 105 G v. 18.7.2016 I 1666
-
-Änderung durch
-:   Art. 43 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 121 G v. 10.8.2021 I 3436 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
+:   Art. 121 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel

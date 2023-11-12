@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1487
 
+Geändert durch
+:   Art. 6 V v. 6.7.2022 I 1102
+
 
 
 ## Eingangsformel
@@ -34,8 +37,8 @@ Arzneimittelgesetzes ausgenommen sind
 
 
 2.  Arzneimittel aus Blut oder Blutbestandteilen von Tieren, soweit es
-    sich nicht um Zubereitungen von Blutgerinnungsfaktoren, Seren oder
-    Testseren handelt.
+    sich nicht um Zubereitungen von Blutgerinnungsfaktoren oder Seren
+    handelt.
 
 
 

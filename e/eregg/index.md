@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2082
 
 Zuletzt geändert durch
-:   Art. 2 G v. 29.6.2020 I 1531
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1737 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1737 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.6.2021 I 1737
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -727,8 +721,6 @@ des Verbots, öffentliche Gelder zugunsten eines der Tätigkeitsbereiche
 auf einen anderen zu übertragen, sowie die Verwendung der Einnahmen
 aus Entgelten für die Nutzung von Eisenbahnanlagen und des Gewinns aus
 anderen wirtschaftlichen Tätigkeiten zu überprüfen.
-
-(6) (weggefallen)
 
 
 ### § 8 Unabhängigkeit des Betreibers von Eisenbahnanlagen
@@ -2226,8 +2218,6 @@ ausweiten, die nicht in der Verordnung (EU) 2016/919 genannt sind. Die
 Regulierungsbehörde kann dem Betreiber der Schienenwege Vorgaben zum
 Umfang und zur Art und Weise der Differenzierung machen.
 
-(6) (weggefallen)
-
 
 ### § 37 Ausgestaltung der Entgelte für Eisenbahnanlagen und Personenbahnhöfe für Personenverkehrsdienste im Rahmen eines öffentlichen Dienstleistungsauftrags; Kostendeckungsbericht
 
@@ -3636,10 +3626,6 @@ erklären, soweit diese nicht mit den Vorschriften dieses Gesetzes oder
 unmittelbar geltenden Rechtsakten der Europäischen Union im
 Anwendungsbereich dieses Gesetzes in Einklang stehen.
 
-(4) (weggefallen)
-
-(5) (weggefallen)
-
 
 ### § 69 Gebühren und Auslagen
 
@@ -4295,7 +4281,8 @@ private Gleisanschlüsse:
 
 ### Anlage 2 Für die Eisenbahnverkehrsunternehmen zu erbringende Leistungen
 
-(Fundstelle: BGBl. I 2016, 2112)
+(Fundstelle: BGBl. I 2016, 2112;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Das Mindestzugangspaket umfasst Folgendes:
@@ -4435,7 +4422,8 @@ private Gleisanschlüsse:
 
 ### Anlage 3 Inhalt der Schienennetz-Nutzungsbedingungen
 
-(Fundstelle: BGBl. I 2016, 2113)
+(Fundstelle: BGBl. I 2016, 2113;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Schienennetz-Nutzungsbedingungen nach § 19 müssen folgende Angaben
 enthalten:
@@ -4547,7 +4535,8 @@ enthalten:
 
 ### Anlage 4 Anreizsetzung
 
-(Fundstelle: BGBl. I 2016, 2114 - 2115)
+(Fundstelle: BGBl. I 2016, 2114 - 2115;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Anlage 4 verdeutlicht die grundsätzliche Vorgehensweise im Rahmen der
 Anreizsetzung.
@@ -4804,7 +4793,8 @@ Durchführung der Anreizsetzung
 
 ### Anlage 5 Grundsätze und Eckdaten für Regulierungsvereinbarungen zwischen den zuständigen Stellen und Betreibern der Schienenwege
 
-(Fundstelle: BGBl. I 2016, 2116)
+(Fundstelle: BGBl. I 2016, 2116;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Regulierungsvereinbarung spezifiziert die in § 29 aufgeführten
 Elemente, was sich mindestens auf Folgendes bezieht:
@@ -4867,7 +4857,8 @@ Weise durchführen.
 
 ### Anlage 7 Anforderungen in Bezug auf die Kosten der Eisenbahnanlagen und Zugangsentgelte
 
-(Fundstelle: BGBl. I 2016, 2118 - 2119)
+(Fundstelle: BGBl. I 2016, 2118 - 2119;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Die Paare, die von den Betreibern von Eisenbahnanlagen zu

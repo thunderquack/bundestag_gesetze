@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2242
 
 Zuletzt geändert durch
-:   Art. 16 G v. 16.10.2020 I 2187
-
-Änderung durch
-:   Art. 4 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 10 G v. 20.12.2022 I 2752
 
 
 ## Teil 1 - Berufsrecht
@@ -1499,10 +1496,8 @@ Ruhestand werden vom 1. Januar 2013 an als Ruhegeld bei
 Berufsunfähigkeit weitergezahlt.
 
 
-### § 44 Verkündung von Rechtsverordnungen
+### § 44 (weggefallen)
 
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs-
-und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
 
 ### § 45 Anwendungsbestimmungen

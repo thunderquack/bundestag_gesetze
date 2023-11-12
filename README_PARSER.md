@@ -1,5 +1,31 @@
 # Parser for Bundestag Gesetze files
 
+Target is to get a Faiss semantic search portal to use RAG for the Gesetze files, see https://arxiv.org/pdf/2005.11401.pdf as reference for RAG.
+
+The upstream git repository https://github.com/bundestag/gesetze is not maintained any more.
+However, there still exists the tools https://github.com/bundestag/gesetze-tools which can be used
+to update the markdown files from the data source https://www.gesetze-im-internet.de/
+
+The following commands can be used to update to the latest changes, and those changes are actually
+integrated in this repository:
+```
+cd ..
+git clone https://github.com/bundestag/gesetze-tools.git
+cd gesetze-tools
+pip3 install -r requirements.txt
+python3 lawde.py loadall
+python3 lawdown.py convert laws ../bundestag_gesetze_parser
+cd ../bundestag_gesetze_parser
+git add .
+git commit -m "updated to latest from https://www.gesetze-im-internet.de/"
+```
+
+We have different approaches to use the parsed Gesetzte markdown files, mainly:
+- feed all documents in a normal, indexed search index and retrieve them during a search, but then as a postprocessing step re-sort them using similarity search Faiss
+- translate all documents into a Faiss vector space as indexing pre-step for a Faiss vector search
+
+Most experiments show that the second option produces the best results and is faster during search. But it is not a good option for real-time applications where latest changes in source files are available for search immediately. The second option requires a several-hour computation time for Faiss vector index computation. It can be used for a daily job. Because Gesetzte documents do noch change so fast, it is the better option for this use case.
+
 ## Make a index dump from the Gesetze files
 ```
 python3 parser.py

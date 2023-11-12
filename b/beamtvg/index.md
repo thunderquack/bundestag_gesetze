@@ -4855,9 +4855,9 @@ weggefallenen Besoldungsgruppen A 1 und A 2.
 
 (2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem
 Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung
-nicht zugrunde liegt, werden ab 1. April 2021 um 1,1 Prozent erhöht,
-wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1
-gilt entsprechend für
+nicht zugrunde liegt, werden ab 1. April 2022 um 1,7 Prozent Prozent
+erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist.
+Satz 1 gilt entsprechend für
 
 1.  Hinterbliebene eines vor dem 1. Juli 1997 vorhandenen
     Versorgungsempfängers,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 906
 
 Zuletzt geändert durch
-:   Art. 57 Abs. 5 G v. 12.12.2019 I 2652
+:   Art. 24 G v. 20.12.2022 I 2759
 
 
 ## § 1
@@ -133,20 +133,14 @@ anderen Vorschriften, insbesondere des Bundesentschädigungsgesetzes,
 gewährt wird oder gewährt worden ist.
 
 (3) Über die Bewilligung einer Entschädigungsrente nach Absatz 1
-entscheidet das Bundesamt für Soziale Sicherung auf Vorschlag der
-Kommission nach § 3 des Versorgungsruhensgesetzes vom 25. Juli 1991
-(BGBl. I S. 1606, 1684). Soweit es erforderlich ist, kann die
-Kommission bei öffentlichen Stellen Auskünfte einholen und Akten
-einsehen. Für die Übermittlung personenbezogener Daten und die
-Akteneinsicht gelten die für die übermittelnde oder Einsicht
-gewährende Stelle jeweils maßgebenden Regelungen. Auf Antrag des
-Betroffenen hat die Kommission eine von ihm benannte
-Verfolgtenorganisation zu hören. Der Vorschlag der Kommission ist mit
-einer schriftlichen Begründung zu versehen. Dem Betroffenen ist auch
-der Beschluß der Kommission bekanntzugeben. Will das Bundesamt für
-Soziale Sicherung in besonders begründeten Fällen von dem Vorschlag
-der Kommission abweichen, hat es dieses zu begründen. Im gerichtlichen
-Verfahren ist die Kommission beizuladen.
+entscheidet das Bundesamt für Soziale Sicherung. Soweit es
+erforderlich ist, kann das Bundesamt für Soziale Sicherung bei
+öffentlichen Stellen Auskünfte einholen und Akten einsehen. Für die
+Übermittlung personenbezogener Daten und die Akteneinsicht gelten die
+für die übermittelnde oder Einsicht gewährende Stelle jeweils
+maßgebenden Regelungen. Auf Antrag des Betroffenen hat das Bundesamt
+für Soziale Sicherung eine von dem Betroffenen benannte
+Verfolgtenorganisation zu hören.
 
 
 ## § 4
@@ -168,26 +162,24 @@ der Rechtsstaatlichkeit verstoßen oder in schwerwiegendem Maße seine
 Stellung zum eigenen Vorteil oder zum Nachteil anderer mißbraucht hat.
 
 (2) Über die Kürzung oder Aberkennung einer Entschädigungsrente
-entscheidet das Bundesversicherungsamt auf Vorschlag der Kommission
-nach § 3 des Versorgungsruhensgesetzes.
+entscheidet das Bundesamt für Soziale Sicherung.
 
 (3) Für das Verfahren nach Absatz 1 gelten die Vorschriften des
 Versorgungsruhensgesetzes entsprechend; insbesondere finden auf die
 vorläufige Aberkennung von Entschädigungsrenten die Vorschriften über
 ein vorläufiges Ruhen der Versorgung nach § 4 Abs. 4 des
 Versorgungsruhensgesetzes entsprechende Anwendung. Auf Antrag des
-Betroffenen hat die Kommission eine von ihm benannte
-Verfolgtenorganisation zu hören.
+Betroffenen hat das Bundesamt für Soziale Sicherung eine von ihm
+benannte Verfolgtenorganisation zu hören.
 
 (4) Liegen Anhaltspunkte für einen Sachverhalt im Sinne des Absatzes 1
-vor, hat die Deutsche Rentenversicherung Bund den Vorgang über das
-Bundesversicherungsamt der Kommission vorzulegen. Die Vorlage an die
-Kommission ist dem Berechtigten mitzuteilen.
+vor, hat die Deutsche Rentenversicherung Bund den Vorgang dem
+Bundesamt für Soziale Sicherung vorzulegen. Die Vorlage an das
+Bundesamt für Soziale Sicherung ist dem Berechtigten mitzuteilen.
 
-(5) Die Kommission kann Sachverhalte im Sinne des Absatzes 1 auch von
-sich aus aufgreifen. In solchen Fällen teilt sie dies der Deutschen
-Rentenversicherung Bund, dem Bundesversicherungsamt und dem
-Berechtigten mit.
+(5) Das Bundesamt für Soziale Sicherung kann Sachverhalte im Sinne des
+Absatzes 1 auch von sich aus aufgreifen. In solchen Fällen teilt es
+dies der Deutschen Rentenversicherung Bund und dem Berechtigten mit.
 
 
 ## § 6
@@ -215,8 +207,8 @@ erforderlich.
 (4) Über Streitigkeiten aufgrund dieses Gesetzes entscheiden die
 Gerichte der Sozialgerichtsbarkeit; es sind die für die
 Rentenversicherung geltenden Vorschriften anzuwenden. Bei einer
-Entscheidung nach § 5 gilt § 2 Abs. 3 und 4 des
-Versorgungsruhensgesetzes entsprechend.
+Entscheidung nach § 5 gilt § 2 Absatz 2 des Versorgungsruhensgesetzes
+entsprechend.
 
 
 ## § 7 (weggefallen)

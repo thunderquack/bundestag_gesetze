@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
-Zuletzt geändert durch
-:   Art. 48 G v. 10.8.2021 I 3436
-
+Stand: Zuletzt geändert Art. 4 G v. 19.6.2023 I Nr. 154
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -43,16 +41,12 @@ Justizverwaltungsangelegenheiten:
 3.  Registrierung nach dem Rechtsdienstleistungsgesetz,
 
 
-4.  automatisiertes Abrufverfahren in Handels-, Partnerschafts-,
-    Genossenschafts- und Vereinsregisterangelegenheiten,
+4.  Einstellung von Schutzschriften in das Schutzschriftenregister,
 
 
 5.  automatisiertes Abrufverfahren in Grundbuchangelegenheiten, in
     Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des
     Registers für Pfandrechte an Luftfahrzeugen,
-
-
-5a. Einstellung von Schutzschriften in das Schutzschriftenregister,
 
 
 6.  Rechtshilfeverkehr mit dem Ausland in zivilrechtlichen Angelegenheiten
@@ -204,9 +198,9 @@ mit Erlass der Kostenentscheidung, später entstehende Kosten sofort
 fällig.
 
 (2) Die Gebühren für den Abruf von Daten oder Dokumenten aus einem
-Register oder dem Grundbuch und für die Übermittlung von
-Rechnungsunterlagen einer Kleinstkapitalgesellschaft durch das
-Unternehmensregister werden am 15. Tag des auf den Abruf oder die
+Register oder dem Grundbuch und für die Übermittlung von Unterlagen
+durch das Unternehmensregister in den Fällen der Nummer 1440 des
+Kostenverzeichnisses werden am 15. Tag des auf den Abruf oder die
 Übermittlung folgenden Monats fällig, sofern sie nicht über ein
 elektronisches Bezahlsystem sofort beglichen werden.
 
@@ -333,11 +327,12 @@ der die Schutzschrift eingereicht hat.
 
 ### § 16 Unternehmensregister
 
-Die Jahresgebühr für die Führung des Unternehmensregisters schuldet
+(1) Die Jahresgebühr für die Führung des Unternehmensregisters
+schuldet
 
-1.  jedes Unternehmen, das seine Rechnungslegungsunterlagen im
-    Bundesanzeiger bekannt zu machen hat oder beim Betreiber des
-    Bundesanzeigers zur Hinterlegung eingereicht hat, und
+1.  jedes Unternehmen, das seine Rechnungslegungsunterlagen oder
+    Unternehmensberichte der das Unternehmensregister führenden Stelle zur
+    Einstellung in das Unternehmensregister zu übermitteln hat, und
 
 
 2.  jedes Unternehmen, das in dem betreffenden Kalenderjahr nach § 8b
@@ -347,6 +342,15 @@ Die Jahresgebühr für die Führung des Unternehmensregisters schuldet
 
 
 
+
+(2) Die Gebühr für das Verfahren zur Einstellung von Unterlagen in das
+Unternehmensregister schuldet derjenige, der die Unterlagen selbst
+oder durch einen von ihm beauftragten Dritten an das
+Unternehmensregister übermittelt hat.
+
+(3) Die Gebühr für das Verfahren zur Registrierung nach § 3 Absatz 2
+und 3 der Unternehmensregisterverordnung schuldet der zu
+registrierende Nutzer.
 
 
 ### § 16a Behördliche Schlichtung nach § 57a des Luftverkehrsgesetzes
@@ -547,7 +551,7 @@ Teil 1 Gebühren ****
 
 *    *   Abschnitt 2
 
-    *   Unternehmensregister
+    *   (weggefallen)
 
 
 *    *   Abschnitt 3
@@ -557,8 +561,7 @@ Teil 1 Gebühren ****
 
 *    *   Abschnitt 4
 
-    *   Abruf von Daten in Handels-, Partnerschafts-, Genossenschafts- und
-        Vereinsregisterangelegenheiten
+    *   (weggefallen)
 
 
 *    *   Abschnitt 5
@@ -609,7 +612,31 @@ Auslandsbezug**
 
 
 
-**Hauptabschnitt 4 Sonstige Gebühren**
+**Hauptabschnitt 4 Unternehmensregister**
+
+
+*    *   Abschnitt 1
+
+    *   Jahresgebühren
+
+
+*    *   Abschnitt 2
+
+    *   Einstellung von Rechnungslegungsunterlagen
+
+
+*    *   Abschnitt 3
+
+    *   Einstellung von Unternehmensberichten
+
+
+*    *   Abschnitt 4
+
+    *   Sonstige Gebühren
+
+
+
+**Hauptabschnitt 5 Sonstige Gebühren**
 
 Teil 2 Auslagen ****
 
@@ -669,89 +696,10 @@ Teil 1
 
 
 *    *   Abschnitt 2
-        **Unternehmensregister**
+        **(weggefallen)**
 
 
-*    *   Vorbemerkung 1.1.2:
-        Mit der Jahresgebühr nach den Nummern 1120 bis 1122 wird der gesamte
-        Aufwand zur Führung des Unternehmensregisters mit Ausnahme der
-        Übermittlung von Rechnungsunterlagen im Fall der Nummer 1124
-        entgolten. Sie umfasst jedoch nicht den Aufwand für die Erteilung von
-        Ausdrucken oder Kopien, die Überlassung von elektronisch gespeicherten
-        Dokumenten und die Beglaubigung von Kopien, Ausdrucken, Auszügen und
-        Dateien.
-
-
-*    *   1120
-
-    *   Jahresgebühr für die Führung des Unternehmensregisters für jedes
-        Kalenderjahr, wenn das Unternehmen bei der Offenlegung der
-        Rechnungslegungsunterlagen die Erleichterungen nach § 326 HGB in
-        Anspruch nehmen kann
-        ..........
-
-    *   3,00 €
-
-
-*    *   (1) Die Gebühr entsteht für jedes Kalenderjahr, für das ein
-        Unternehmen die Rechnungslegungsunterlagen im Bundesanzeiger bekannt
-        zu machen hat oder beim Betreiber des Bundesanzeigers hinterlegt hat.
-        Dies gilt auch, wenn die bekannt zu machenden Unterlagen nur einen
-        Teil des Kalenderjahres umfassen.
-        (2) Die Gebühr wird nicht erhoben, wenn für das Kalenderjahr die
-        Gebühr 1122 entstanden ist.
-
-    *
-
-*    *   1121
-
-    *   Das Unternehmen kann die Erleichterungen nach § 326 HGB nicht in
-        Anspruch nehmen:
-        Die Gebühr 1120 beträgt
-        ..........
-
-    *   6,00 €
-
-
-*    *   1122
-
-    *   Jahresgebühr für die Führung des Unternehmensregisters für jedes
-        Kalenderjahr, in dem das Unternehmen nach § 8b Abs. 2 Nr. 9 und 10,
-        Abs. 3 Satz 1 Nr. 2 HGB selbst oder durch einen von ihm beauftragten
-        Dritten Daten an das Unternehmensregister übermittelt hat
-        ..........
-
-    *   30,00 €
-
-
-*    *   1123
-
-    *   Übertragung von Unterlagen der Rechnungslegung, die in Papierform zum
-        Register eingereicht wurden, in ein elektronisches Dokument (§ 8b Abs.
-        4 Satz 2, § 9 Abs. 2 HGB):
-        für jede angefangene Seite
-        ..........
-
-    *   3,00 €
-        – mindestens 30,00 €
-
-
-*    *   Die Gebühr wird für die Dokumente eines jeden Unternehmens gesondert
-        erhoben. Mit der Gebühr wird auch die einmalige elektronische
-        Übermittlung der Dokumente an den Antragsteller abgegolten.
-
-    *
-
-*    *   1124
-
-    *   Übermittlung von Rechnungslegungsunterlagen einer
-        Kleinstkapitalgesellschaft oder Kleinstgenossenschaft, die beim
-        Bundesanzeiger hinterlegt sind (§ 326 Abs. 2 HGB):
-        je übermittelter Bilanz
-        ..........
-
-    *   1,00 €
-
+*    *
 
 *    *   Abschnitt 3
         **Bundeszentral- und Gewerbezentralregister**
@@ -759,7 +707,8 @@ Teil 1
 
 *    *   Vorbemerkung 1.1.3:
         Die Gebühr 1130 wird nicht erhoben, wenn ein Führungszeugnis zur
-        Ausübung einer ehrenamtlichen Tätigkeit benötigt wird, die für eine
+        Ausübung einer ehrenamtlichen Betreuung (§ 19 Abs. 1, § 21 BtOG) oder
+        einer ehrenamtlichen Tätigkeit benötigt wird, die für eine
         gemeinnützige Einrichtung, für eine Behörde oder im Rahmen eines der
         in § 32 Abs. 4 Nr. 2 Buchstabe d EStG genannten Dienste ausgeübt wird.
 
@@ -787,36 +736,10 @@ Teil 1
 
 
 *    *   Abschnitt 4
-        Abruf von Daten in Handels-,
-        **Partnerschafts-, Genossenschafts- und
-        Vereinsregisterangelegenheiten**
+        **(weggefallen)**
 
 
-*    *   Vorbemerkung 1.1.4:
-        (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus
-        dem vom Registergericht geführten Datenbestand. Für den Aufruf von
-        Daten und Dokumenten in der Geschäftsstelle des Gerichts werden keine
-        Gebühren erhoben.
-        (2) Neben den Gebühren werden keine Auslagen erhoben.
-
-
-*    *   1140
-
-    *   Abruf von Daten aus dem Register:
-        je Registerblatt
-        ..........
-
-    *   4,50 €
-
-
-*    *   1141
-
-    *   Abruf von Dokumenten, die zum Register eingereicht wurden:
-        für jede abgerufene Datei
-        ..........
-
-    *   1,50 €
-
+*    *
 
 *    *   Abschnitt 5
         Einrichtung und Nutzung des automatisierten Abrufverfahrens
@@ -1123,10 +1046,477 @@ Teil 1
     *
 
 *    *   Hauptabschnitt 4
+        **Unternehmensregister**
+
+
+*    *   Abschnitt 1
+        **Jahresgebühren**
+
+
+*    *   Vorbemerkung 1.4.1:
+        Mit der Jahresgebühr nach diesem Abschnitt wird der gesamte Aufwand
+        zur Führung des Unternehmensregisters entgolten, mit Ausnahme der
+        Einstellung von Rechnungslegungsunterlagen und Unternehmensberichten
+        nach den Abschnitten 2 und 3 sowie der Übermittlung von
+        Rechnungslegungsunterlagen im Fall der Nummer 1440. Sie umfasst jedoch
+        nicht den Aufwand für die Erteilung von Ausdrucken oder Kopien, die
+        Überlassung von elektronisch gespeicherten Dokumenten und die
+        Beglaubigung von Kopien, Ausdrucken, Auszügen und Dateien.
+
+
+*    *   1410
+
+    *   Jahresgebühr für die Führung des Unternehmensregisters für jedes
+        Kalenderjahr, wenn das Unternehmen bei der Offenlegung der
+        Rechnungslegungsunterlagen oder Unternehmensberichte die
+        Erleichterungen nach § 326 HGB in Anspruch nehmen kann
+        ..........
+        (1) Die Gebühr entsteht für jedes Kalenderjahr, für das ein
+        Unternehmen die Rechnungslegungsunterlagen oder Unternehmensberichte
+        der das Unternehmensregister führenden Stelle zur Einstellung in das
+        Unternehmensregister zu übermitteln hat. Dies gilt auch, wenn die zu
+        übermittelnden Unterlagen nur einen Teil des Kalenderjahres umfassen.
+        (2) Die Gebühr wird nicht erhoben, wenn für das Kalenderjahr die
+        Gebühr 1412 entstanden ist.
+
+    *   3,00 €
+
+
+*    *   1411
+
+    *   Das Unternehmen kann die Erleichterungen nach § 326 HGB nicht in
+        Anspruch nehmen:
+        Die Gebühr 1410 beträgt
+        ..........
+
+    *   6,00 €
+
+
+*    *   1412
+
+    *   Jahresgebühr für die Führung des Unternehmensregisters für jedes
+        Kalenderjahr, in dem das Unternehmen Daten nach § 8b Abs. 2 Nr. 9 und
+        10 HGB oder nach § 114 Abs. 1 Satz 4, § 115 Abs. 1 Satz 4, § 116 Abs.
+        2 Satz 3 oder den §§ 117 oder 118 Abs. 4 Satz 4 WpHG selbst oder durch
+        einen von ihm beauftragten Dritten an das Unternehmensregister
+        übermittelt hat
+        ..........
+
+    *   30,00 €
+
+
+*    *   **Abschnitt 2**
+        **Einstellung von Rechnungslegungsunterlagen**
+
+
+*    *   Vorbemerkung 1.4.2:
+        (1) Mit den Gebühren nach diesem Abschnitt wird der Aufwand für die
+        Einstellung von Rechnungslegungsunterlagen sowie für eine Prüfung nach
+        § 329 HGB entgolten.
+        (2) Werden gleichzeitig mehrere Unterlagen übermittelt, die das
+        Unternehmen für dasselbe Geschäftsjahr zu übermitteln hat und erfüllt
+        die Einstellung dieser Unterlagen den Tatbestand derselben Gebühr
+        mehrfach, so handelt es sich nur um ein Verfahren. Das Gleiche gilt,
+        wenn vor der Einstellung in das Unternehmensregister Unterlagen
+        ergänzt oder geändert übermittelt werden; in diesen Fällen erhöhen
+        sich die Gebühren dieses Abschnitts um 50 Prozent.
+        (3) Wird vor der Einstellung der Unterlagen in das
+        Unternehmensregister verlangt, die Unterlagen nicht in das
+        Unternehmensregister einzustellen, ermäßigen sich die Gebühren nach
+        diesem Abschnitt um 50 Prozent. Die Gebühren entstehen nicht, wenn im
+        Fall des Satzes 1 die Nichteinstellung an demselben Kalendertag
+        verlangt wird, an dem die Übermittlung der Unterlagen erfolgt ist.
+
+
+*    *
+    *   Verfahren zur Einstellung von Unterlagen
+
+    *
+
+*    *   1420
+
+    *   der Einzelrechnungslegung von Kleinstkapitalgesellschaften (§ 267a
+        HGB) und ihnen gleichgestellten Personenhandelsgesellschaften (§ 264a
+        Abs. 1 i. V. m. § 267a HGB) nach § 325 Abs. 1 Satz 2 HGB sowie von
+        Kleinstgenossenschaften (§ 336 Abs. 2 Satz 3 i. V. m. § 267a HGB) nach
+        § 339 Abs. 1 HGB
+        ..........
+
+    *   18,50 €
+
+
+*    *   1421
+
+    *   der Einzelrechnungslegung von kleinen Kapitalgesellschaften (§ 267
+        Abs. 1 HGB) und ihnen gleichgestellten kleinen
+        Personenhandelsgesellschaften (§ 264a Abs. 1 i. V. m. § 267 Abs. 1
+        HGB) nach § 325 Abs. 1 Satz 2 HGB sowie von kleinen Genossenschaften
+        (§ 336 Abs. 2 Satz 1 Nr. 2 i. V. m. § 267 Abs. 1 HGB) nach § 339 Abs.
+        1 HGB
+        ..........
+
+    *   25,00 €
+
+
+*    *   1422
+
+    *   der Einzelrechnungslegung von mittelgroßen Kapitalgesellschaften (§
+        267 Abs. 2 HGB) und ihnen gleichgestellten mittelgroßen
+        Personenhandelsgesellschaften (§ 264a Abs. 1 i. V. m. § 267 Abs. 2
+        HGB) nach § 325 Abs. 1 Satz 2 HGB sowie von mittelgroßen
+        Genossenschaften (§ 336 Abs. 2 Satz 1 Nr. 2 i. V. m. § 267 Abs. 2 HGB)
+        nach § 339 Abs. 1 HGB
+        ..........
+
+    *   55,00 €
+
+
+*    *   1423
+
+    *   der Einzelrechnungslegung
+
+        –   von großen Kapitalgesellschaften (§ 267 Abs. 3 HGB) und ihnen
+            gleichgestellten großen Personenhandelsgesellschaften (§ 264a Abs. 1
+            i. V. m. § 267 Abs. 3 HGB) nach § 325 Abs. 1 Satz 2 HGB sowie von
+            großen Genossenschaften (§ 336 Abs. 2 Satz 1 Nr. 2 i. V. m. § 267 Abs.
+            3 HGB) nach § 339 Abs. 1 HGB,
+
+
+        –   von kapitalmarktorientierten Kapitalgesellschaften (§ 264d HGB) und
+            ihnen gleichgestellten kapitalmarktorientierten
+            Personenhandelsgesellschaften (§ 264a Abs. 1 i. V. m. § 264d HGB) nach
+            § 325 Abs. 1 Satz 2 HGB sowie von kapitalmarktorientierten
+            Genossenschaften nach § 339 Abs. 1 HGB,
+
+
+        –   von Kreditinstituten und Zweigniederlassungen im Sinne des § 340 Abs.
+            1 Satz 1 HGB, Finanzdienstleistungsinstituten im Sinne des § 340 Abs.
+            4 Satz 1 HGB, Wertpapierinstituten im Sinne des § 340 Abs. 4a Satz 1
+            HGB und Instituten im Sinne des § 340 Abs. 5 Satz 1 HGB, jeweils nach
+            § 340l Abs. 1 Satz 1 HGB,
+
+
+        –   von Versicherungsunternehmen im Sinne des § 341 Abs. 1 und 2 HGB,
+            Pensionsfonds im Sinne des § 341 Abs. 4 Satz 1 HGB und
+            Versicherungsvereinen auf Gegenseitigkeit (§ 172 Satz 2 VAG), jeweils
+            nach § 341l Abs. 1 Satz 1 HGB,
+
+
+        –   von externen Kapitalverwaltungsgesellschaften (§ 17 Abs. 2 Satz 1 Nr.
+            1 KAGB) nach § 38 Abs. 1 Satz 1 KAGB i. V. m. § 340l Abs. 1 Satz 1
+            HGB, von Investmentaktiengesellschaften nach § 123 Abs. 1 Satz 1 Nr.
+            1, auch i. V. m. § 148 Abs. 1 KAGB, sowie von geschlossenen
+            inländischen Publikums-AIF, die nach § 353 Abs. 5 Satz 1 KAGB zur
+            Rechnungslegung verpflichtet sind, nach § 325 Abs. 1 Satz 2 HGB,
+
+
+        –   von Emittenten von Vermögensanlagen, die nach § 24 VermAnlG zur
+            Rechnungslegung verpflichtet sind, nach § 325 Abs. 1 Satz 2 oder § 339
+            Abs. 1 HGB sowie
+
+
+        –   von Unternehmen, die nach den §§ 1 und 3 PublG zur Rechnungslegung
+            verpflichtet sind, nach § 9 Abs. 1 PublG:
+
+
+
+
+    *
+
+*    *
+    *
+        a)  für Unterlagen, die im Format Extensible Markup Language (XML)
+            übermittelt werden
+            ..........
+
+
+        b)  für Unterlagen, die in dem Offenlegungsformat nach § 328 Abs. 1 Satz 4
+            HGB übermittelt werden
+            ..........
+
+
+
+        Neben dieser Gebühr werden die Gebühren 1420 bis 1422 nicht erhoben.
+        Werden Unterlagen in unterschiedlichen Dateiformaten übermittelt, wird
+        die höhere Gebühr erhoben.
+
+    *   110,00 €
+        330,00 €
+
+
+*    *   1424
+
+    *   der Einzelrechnungslegung
+
+        –   von Unternehmen im Sinne des § 6b Abs. 1 Satz 1 EnWG nach § 6b Abs. 4
+            EnWG,
+
+
+        –   von Betreibern von Wasserstoffnetzen nach § 28k Abs. 2 Satz 4 i. V. m.
+            § 6b Abs. 4 EnWG sowie
+
+
+        –   von Unternehmen im Sinne des § 7 Abs. 1 und 3 TKG nach § 7 Abs. 2 Satz
+            6 TKG
+            ..........
+
+
+
+        Für die Einstellung dieser Unterlagen werden die Gebühren 1420 bis
+        1423 nicht erhoben.
+
+    *   55,00€
+
+
+*    *   1425
+
+    *   der Einzelrechnungslegung von Eisenbahnen nach § 7 Abs. 1 Satz 1 ERegG
+        ..........
+        Für die Einstellung dieser Unterlagen werden die Gebühren 1420 bis
+        1423 nicht erhoben.
+
+    *   45,00 €
+
+
+*    *   1426
+
+    *   der Konzernrechnungslegung nach § 325 Abs. 3, § 340l Abs. 1 Satz 1
+        oder § 341l Abs. 1 Satz 1 HGB oder nach § 15 Abs. 1 Satz 1 PublG:
+
+    *
+
+*    *
+    *
+        a)  für Unterlagen, die im Format Extensible Markup Language (XML)
+            übermittelt werden
+            ..........
+
+
+        b)  für Unterlagen, die in dem Offenlegungsformat nach § 328 Abs. 1 Satz 4
+            HGB übermittelt werden
+            ..........
+
+
+
+        Werden Unterlagen in unterschiedlichen Dateiformaten übermittelt, wird
+        die höhere Gebühr erhoben.
+
+    *   330,00 €
+        550,00 €
+
+
+*    *   1427
+
+    *   der Rechnungslegung von Kapitalgesellschaften mit Sitz in einem
+        anderen Staat durch eine inländische Zweigniederlassung nach § 325a
+        HGB sowie von Unternehmen mit Sitz in einem anderen Staat durch eine
+        inländische Zweigniederlassung nach § 340l Abs. 2 HGB:
+
+    *
+
+*    *
+    *
+        a)  für Unterlagen, die im Format Extensible Markup Language (XML)
+            übermittelt werden
+            ..........
+
+
+
+
+    *   55,00 €
+
+
+*    *
+    *
+        b)  für Unterlagen, die in einem anderen Format übermittelt werden
+            ..........
+
+
+
+
+    *   275,00 €
+
+
+*    *
+    *   Werden Unterlagen in unterschiedlichen Dateiformaten übermittelt, wird
+        die höhere Gebühr erhoben.
+
+    *
+
+*    *   1428
+
+    *   nach § 264 Abs. 3 Satz 1 Nr. 5, § 264b Nr. 4, § 291 Abs. 1 Satz 1 oder
+        § 292 Abs. 1 Nr. 4 HGB
+        ..........
+
+    *   30,00 €
+
+
+*    *   1429
+
+    *   nach § 2 Abs. 2, § 12 Abs. 2 oder § 2 Abs. 3 Satz 6, auch i. V. m. §
+        12 Abs. 3 Satz 3 PublG
+        ..........
+
+    *   30,00 €
+
+
+*    *   **Abschnitt 3**
+        **Einstellung von Unternehmensberichten**
+
+
+*    *   Vorbemerkung 1.4.3:
+        (1) Mit den Gebühren nach diesem Abschnitt wird der Aufwand für die
+        Einstellung von Unternehmensberichten sowie für eine Prüfung nach §
+        329 HGB entgolten.
+        (2) Wird ein Unternehmensbericht vor der Einstellung in das
+        Unternehmensregister ergänzt oder geändert übermittelt, handelt es
+        sich nur um ein Verfahren; in diesen Fällen erhöhen sich die Gebühren
+        dieses Abschnitts um 50 Prozent.
+        (3) Wird vor der Einstellung des Unternehmensberichts in das
+        Unternehmensregister verlangt, diesen nicht in das
+        Unternehmensregister einzustellen, ermäßigen sich die Gebühren nach
+        diesem Abschnitt um 50 Prozent. Die Gebühren entstehen nicht, wenn im
+        Fall des Satzes 1 die Nichteinstellung an demselben Kalendertag
+        verlangt wird, an dem die Übermittlung des Unternehmensberichts
+        erfolgt ist.
+
+
+*    *
+    *   Verfahren zur Einstellung
+
+    *
+
+*    *   1430
+
+    *   eines Jahresfinanzberichts nach § 114 Abs. 1 Satz 4 WpHG
+        ..........
+
+    *   440,00 €
+
+
+*    *   1431
+
+    *   eines Halbjahresfinanzberichts nach § 115 Abs. 1 Satz 4 WpHG
+        ..........
+
+    *   110,00 €
+
+
+*    *   1432
+
+    *   eines Jahresberichts nach § 160 Abs. 1 oder § 353 Abs. 5 Satz 2 KAGB
+        oder nach § 23 Abs. 1 VermAnlG
+        ..........
+
+    *   110,00 €
+
+
+*    *   1433
+
+    *   eines Halbjahresberichts nach § 123 Abs. 2 Satz 1 KAGB
+        ..........
+
+    *   85,00 €
+
+
+*    *   1434
+
+    *   eines Jahresfinanzberichts nach § 6 Abs. 1 TKG
+        ..........
+
+    *   110,00 €
+
+
+*    *   1435
+
+    *   eines Zahlungs- oder Konzernzahlungsberichts nach § 341w HGB
+        ..........
+
+    *   65,00 €
+
+
+*    *   1436
+
+    *   eines Zahlungs- oder Konzernzahlungsberichts nach § 116 Abs. 2 Satz 3
+        WpHG
+        ..........
+
+    *   55,00 €
+
+
+*    *   1437
+
+    *   eines Berichts zur Gleichstellung und Entgeltgleichheit nach § 22 Abs.
+        4 EntgTranspG
+        ..........
+
+    *   55,00 €
+
+
+*    *   1438
+
+    *   eines gesonderten nichtfinanziellen Berichts nach § 289b Abs. 3 Satz 1
+        Nr. 2 Buchstabe a HGB oder eines gesonderten nichtfinanziellen
+        Konzernberichts nach § 315b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB
+        ..........
+
+    *   55,00 €
+
+
+*    *   1439
+
+    *   eines Ertragsteuerinformationsberichts nach § 342m HGB
+        ..........
+
+    *   220,00 €
+
+
+*    *   **Abschnitt 4**
         **Sonstige Gebühren**
 
 
-*    *   1400
+*    *   1440
+
+    *   Übermittlung zur Einsichtnahme von Unterlagen, die nach § 326 Abs. 2
+        Satz 1 oder § 325 Abs. 2b Nr. 3 HGB zur dauerhaften Hinterlegung
+        eingestellt wurden:
+        für jede übermittelte Unterlage
+        ..........
+
+    *   1,00 €
+
+
+*    *   1441
+
+    *   Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die
+        Identitätsprüfung erfolgt anhand
+
+    *
+
+*    *
+    *
+        a)  eines elektronischen Identitätsnachweises oder elektronischen
+            Identifizierungsmittels nach § 3 Abs. 3 Satz 3 Nr. 1 oder Nr. 2 URV
+            ..........
+
+
+        b)  einer von der registerführenden Stelle zur Verfügung gestellten
+            Identifizierungsmethode nach § 3 Abs. 3 Satz 3 Nr. 3 URV
+            ..........
+
+
+
+
+    *   12,00 €
+        22,00 €
+
+
+*    *   Hauptabschnitt 5
+        **Sonstige Gebühren**
+
+
+*    *   1500
 
     *   Beglaubigung von Kopien, Ausdrucken, Auszügen und Dateien
         ..........
@@ -1143,7 +1533,7 @@ Teil 1
         – mindestens: 5,00 €
 
 
-*    *   1401
+*    *   1501
 
     *   Bescheinigungen und schriftliche Auskünfte aus Akten und Büchern
         ..........
@@ -1154,7 +1544,7 @@ Teil 1
     *   15,00 €
 
 
-*    *   1402
+*    *   1502
 
     *   Zeugnisse über das im Bund oder in den Ländern geltende Recht
         ..........
@@ -1162,7 +1552,7 @@ Teil 1
     *   15,00 bis 255,00 €
 
 
-*    *   1403
+*    *   1503
 
     *   Mahnung nach § 5 Abs. 2 JBeitrG
         ..........

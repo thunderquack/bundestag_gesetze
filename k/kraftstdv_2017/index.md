@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2017, 2374
 
 Stand: Ersetzt V 611-17-2 v. 2.7.1979 I 901 (KraftStDV 1979)
+Zuletzt geändert durch
+:   Art. 3 V v. 20.7.2023 I Nr. 199
+
 
 ## Eingangsformel
 
@@ -36,7 +39,7 @@ verordnet das Bundesministerium der Finanzen:
 
 1.  für inländische Fahrzeuge und für besondere Kennzeichen nach § 1
     Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, in dessen Bezirk die
-    nach § 46 der Fahrzeug-Zulassungsverordnung örtlich zuständige
+    nach § 75 der Fahrzeug-Zulassungsverordnung örtlich zuständige
     Zulassungsbehörde ihren Sitz hat;
 
 
@@ -62,9 +65,9 @@ verordnet das Bundesministerium der Finanzen:
 
 
 
-### § 2 Mitwirkung des Bundesamtes für Güterverkehr
+### § 2 Mitwirkung des Bundesamtes für Logistik und Mobilität
 
-Das Bundesamt für Güterverkehr überwacht die Einhaltung der
+Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der
 kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer
 3 Buchstabe d und Absatz 3 des Güterkraftverkehrsgesetzes.
 
@@ -131,8 +134,8 @@ Hauptzollämtern umfasst insbesondere
     übereinstimmen, sowie die Übersendung der Steuererklärung;
 
 
-2.  die Mitteilung der in § 36 Absatz 1 der Fahrzeug-
-    Zulassungsverordnung                    bezeichneten Daten sowie
+2.  die Mitteilung der in § 63 Absatz 1 der Fahrzeug-Zulassungsverordnung
+    bezeichneten Daten sowie
 
 
 3.  die Mitteilung folgender Daten:
@@ -247,9 +250,10 @@ unverzüglich schriftlich anzuzeigen.
 Steuervergünstigung oder wird zu einem späteren Zeitpunkt die
 nachträgliche Anerkennung eines Personenkraftwagens als schadstoffarm
 beantragt, ist der Antrag bei der Zulassungsbehörde zu stellen. Im
-Falle der internetbasierten Zulassung im Sinne von § 15e der Fahrzeug-
-Zulassungsverordnung ist die Absicht der Inanspruchnahme einer
-Steuervergünstigung gegenüber der Zulassungsbehörde anzugeben.
+Falle der internetbasierten Zulassung im Sinne der §§ 27, 29 oder des
+30 Absatz 1 Nummer 2 der Fahrzeug-Zulassungsverordnung ist die Absicht
+der Inanspruchnahme einer Steuervergünstigung gegenüber der
+Zulassungsbehörde anzugeben.
 
 (4) Der Antrag nach Absatz 1 oder Absatz 3 und die Anzeige nach Absatz
 2 sind Steuererklärungen im Sinne des § 150 der Abgabenordnung.
@@ -329,7 +333,7 @@ Kraftfahrzeugsteuer befasst ist.
 
 (1) Der Steuerschuldner hat die Steuerkarte mitzuführen und auf
 Verlangen den Bediensteten der Zollverwaltung, der Polizei oder des
-Bundesamtes für Güterverkehr vorzuzeigen.
+Bundesamtes für Logistik und Mobilität vorzuzeigen.
 
 (2) In den Fällen des § 10 Nummer 1 hat der Steuerschuldner die
 Steuerkarte bei jedem Grenzübertritt vorzulegen und den in Absatz 1

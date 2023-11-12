@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3478
 
 Zuletzt geändert durch
-:   Art. 110 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 14 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 27.7.2021 I 3146
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -730,7 +727,7 @@ Veröffentlichung folgenden Monats an.
         -   land- und forstwirtschaftlichen Geräten
 
 
-        -   Mehrzweckgeräten, deren Hauptantrieb eine installierte Leistung vom
+        -   Mehrzweckgeräten, deren Hauptantrieb eine installierte Leistung von
             mehr als 20 kW aufweist)
 
 

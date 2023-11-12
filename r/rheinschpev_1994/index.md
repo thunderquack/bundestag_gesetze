@@ -16,14 +16,12 @@ Fundstelle
 :   BGBl II: 1994, 3816
 
 Zuletzt geändert durch
-:   Art. 2 V v. 15.9.2020 II 699
+:   Art. 2 V v. 5.4.2023 II Nr. 105
 
 Änderung durch
-:   Art. 3 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Änderung durch
-:   Art. 2 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
-
+Stand: Berichtigung v. 5.9.2023 II Nr. 271 ist berücksichtigt
 
 ## Eingangsformel
 
@@ -84,10 +82,6 @@ jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
 
-## Art 1a (weggefallen)
-
-
-
 ## Art 1a Vorschriften über die Schiffsuntersuchung
 
 § 1.08 Nummer 3, § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter
@@ -111,11 +105,32 @@ Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher
 Verhältnisse ihren nachgeordneten Stellen übertragen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
-ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der
-Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
-durch Rechtsverordnung in dringenden Fällen oder zu Versuchszwecken
-eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer
-von drei Jahren zu treffen.
+ermächtigt, durch Rechtsverordnung
+
+1.  zur Umsetzung einer Anordnung der Zentralkommission für die
+    Rheinschifffahrt nach § 1.22a der Anlage
+
+    a)  in dringenden Fällen oder
+
+
+    b)  zu Versuchszwecken oder zur Zulassung einer technischen Neuerung,
+        durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs
+        nicht beeinträchtigt werden,
+
+
+
+    eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer
+    von drei Jahren zu treffen oder
+
+
+2.  für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu
+    bestimmen.
+
+
+
+Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer
+Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann
+diese durch Verwaltungsakt zugelassen werden.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der
 Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der
@@ -197,14 +212,14 @@ oder fahrlässig
     geeignet zu sein,
 
 
+1a. entgegen § 1.03 Nummer 1 Satz 1 einer Anweisung nicht Folge leistet,
+
+
 2.  entgegen § 1.03 Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
 
 
-2a. entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die
-    Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine
-    Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
-    Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im
-    Körper befindet,
+2a. entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3, Dienst
+    verrichtet,
 
 
 2b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt,
@@ -214,12 +229,20 @@ oder fahrlässig
     oder Informationen zu geben oder zu empfangen,
 
 
+2d. entgegen § 1.10a Nummer 1 Satz 6 die dort genannten Schiffspapiere
+    nicht aufbewahrt,
+
+
 3.  entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen
     benutzt, beschädigt oder unbrauchbar macht,
 
 
 4.  entgegen § 1.15 Nr. 1 feste Gegenstände oder Flüssigkeiten in die
     Wasserstraße einbringt oder einleitet,
+
+
+4a. entgegen § 1.17 Nummer 1 Satz 2 nicht an Bord oder nicht in der Nähe
+    der Unfallstelle bleibt,
 
 
 5.  ohne Erlaubnis nach § 1.23 eine dort genannte Veranstaltung durchführt
@@ -539,11 +562,8 @@ oder fahrlässig als Schiffsführer
     führt, im Körper befindet,
 
 
-2b. anordnet oder zuläßt, daß entgegen § 1.03 Nr. 4 Satz 2 jemand
-    vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs
-    bestimmt, obwohl er eine Blutalkoholkonzentration von 0,5 oder mehr
-    Promille oder eine Alkoholmenge, die zu einer solchen
-    Blutalkoholkonzentration führt, im Körper hat,
+2b. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in
+    Verbindung mit Satz 3, Dienst verrichtet wird,
 
 
 3.  entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln
@@ -594,25 +614,21 @@ oder fahrlässig als Schiffsführer
     rechtzeitig setzt,
 
 
-6.  nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 oder 5
-    vorgeschriebenen Person besetzt ist,
+6.  entgegen § 1.09 Nummer 1 oder 5 Satz 1 nicht dafür sorgt, dass das
+    Ruder mit einer dort genannten Person besetzt ist,
 
 
-7.  nicht sicherstellt, dass sich die in § 1.10 Satz 1 in Verbindung mit
-    Anlage 13 oder § 1.10a Nummer 2 Satz 2 genannten Urkunden oder
-    sonstigen Unterlagen an Bord befinden oder entgegen § 1.10 Satz 2 eine
-    Urkunde oder sonstige Unterlage nicht oder nicht rechtzeitig
+6a. entgegen § 1.09 Nummer 5 Satz 2 nicht dafür sorgt, dass sich im
+    Steuerhaus eine dort genannte Person befindet,
+
+
+7.  entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
     aushändigt,
 
 
-8.  ein Fahrzeug führt, auf dem sich entgegen § 1.11 Nummer 1 ein Abdruck
-    der dort genannten Verordnungen nicht an Bord befindet,
-
-
-8a. ein Fahrzeug, das mit einer Schiffsfunkstelle nach § 4.05 der Anlage
-    ausgerüstet ist, führt, auf dem sich entgegen § 1.11 Nummer 2 ein
-    Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und
-    Regionaler Teil Rhein/Mosel, nicht an Bord befindet,
+8.  entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord
+    mitführt,
 
 
 9.  ein Fahrzeug, einen Schwimmkörper oder eine schwimmende Anlage führt,
@@ -635,8 +651,7 @@ oder fahrlässig als Schiffsführer
     Hilfe leistet,
 
 
-13. entgegen § 1.17 Nr. 1 Satz 2 nicht an Bord oder in der Nähe der
-    Unfallstelle bleibt,
+13. (weggefallen)
 
 
 14. entgegen § 1.17 Nr. 2 nicht oder nicht rechtzeitig für eine Wahrschau
@@ -672,8 +687,8 @@ oder fahrlässig als Schiffsführer
     gekennzeichnet ist,
 
 
-22. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter
-    Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
+22. einer Vorschrift des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz
+    zuwiderhandelt,
 
 
 23. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31
@@ -869,10 +884,7 @@ oder fahrlässig als Schiffsführer
     Nummer 1 Satz 1 oder 2 Buchstabe a überschreitet,
 
 
-38a. ein Fahrzeug mit einer Länge von über 110 m führt, obwohl sich
-    entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der
-    Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als
-    gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
+38a. entgegen § 11.01 Nummer 3 ein Fahrzeug führt,
 
 
 38b. oberhalb von Mannheim ein Fahrzeug, ausgenommen ein Fahrgastschiff,
@@ -926,21 +938,6 @@ oder fahrlässig als Schiffsführer
 (5) Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
 der Rheinschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich
-oder fahrlässig als Mitglied der Besatzung
-
-1.  entgegen § 1.03 Nr. 1 Satz 1 einer Anweisung des Schiffsführers nicht
-    Folge leistet oder
-
-
-2.  entgegen § 1.17 Nr. 1 Satz 2 nicht an Bord oder in der Nähe der
-    Unfallstelle bleibt.
-
-
-
-
-(6) Ordnungswidrig im Sinne des § 7 Abs. 1 des
-Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
-der Rheinschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich
 oder fahrlässig als Eigentümer oder Ausrüster
 
 1.  anordnet oder zuläßt, daß
@@ -960,15 +957,10 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 
-2.  nicht dafür sorgt, dass sich die in § 1.10 Satz 1 in Verbindung mit
-    Anlage 13 oder § 1.10a Nummer 2 Satz 2 genannten Urkunden oder
-    sonstigen Unterlagen an Bord befinden oder die in § 1.10a Nummer 2
-    Satz 1 Halbsatz 2 genannten Schiffspapiere im Bereich der Baustelle
-    verfügbar sind,
+2.  (weggefallen)
 
 
-2a. die in § 1.10a Nummer 1 Satz 5 genannten Schiffspapiere nicht
-    aufbewahrt,
+2a. (weggefallen)
 
 
 3.  ohne Erlaubnis nach § 1.21 Nr. 1 Satz 2 einen Sondertransport
@@ -1043,7 +1035,8 @@ oder fahrlässig als Eigentümer oder Ausrüster
         Personen als vorhandene Sitzplätze an Bord hat,
 
 
-    g)  (weggefallen)
+    g)  auf dem entgegen § 1.10a Nummer 2 Satz 2 eine dort genannte
+        Bescheinigung nicht an Bord mitgeführt wird,
 
 
     h)  das entgegen den §§ 2.01, 2.02 Nummer 2 oder § 2.06 nicht oder nicht
@@ -1060,11 +1053,8 @@ oder fahrlässig als Eigentümer oder Ausrüster
     k)  dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 
-    l)  dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar
-        sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder
-        entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften
-        entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter
-        Halbsatz nicht die vorgeschriebene Tragweite hat,
+    l)  dessen Lichter oder Signalleuchten nicht den Vorschriften des § 3.02
+        Nummer 1 bis 3 oder 4 zweiter Halbsatz entsprechen,
 
 
     m)  das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen

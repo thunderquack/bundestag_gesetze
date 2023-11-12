@@ -19,9 +19,11 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 10 Abs. 2 G v. 27.7.2021 I 3274
+:   Art. 22 G v. 8.10.2023 I Nr. 272
 
-Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
+Änderung durch
+:   Art. 1 G v. 25.10.2023 I Nr. 294 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
 
@@ -822,11 +824,11 @@ pflegt.
 
 #### § 29 Energiewirtschaft
 
-Einem Unternehmen ist es verboten, als Anbieter von Elektrizität oder
-leitungsgebundenem Gas (Versorgungsunternehmen) auf einem Markt, auf
-dem es allein oder zusammen mit anderen Versorgungsunternehmen eine
-marktbeherrschende Stellung hat, diese Stellung missbräuchlich
-auszunutzen, indem es
+Einem Unternehmen ist es verboten, als Anbieter von Elektrizität,
+Fernwärme oder leitungsgebundenem Gas (Versorgungsunternehmen) auf
+einem Markt, auf dem es allein oder zusammen mit anderen
+Versorgungsunternehmen eine marktbeherrschende Stellung hat, diese
+Stellung missbräuchlich auszunutzen, indem es
 
 1.  Entgelte oder sonstige Geschäftsbedingungen fordert, die ungünstiger
     sind als diejenigen anderer Versorgungsunternehmen oder von
@@ -1200,15 +1202,15 @@ Rechtsvorteil der Gruppenfreistellung in diesem Gebiet entziehen.
 
 ##### § 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen
 
-(1) Lassen starre Preise oder andere Umstände vermuten, dass der
-Wettbewerb im Inland möglicherweise eingeschränkt oder verfälscht ist,
-können das Bundeskartellamt und die obersten Landesbehörden die
-Untersuchung eines bestimmten Wirtschaftszweiges oder – Sektor
-übergreifend – einer bestimmten Art von Vereinbarungen oder
-Verhaltensweisen durchführen.
+(1) Lassen Umstände vermuten, dass der Wettbewerb im Inland
+möglicherweise eingeschränkt oder verfälscht ist, können das
+Bundeskartellamt und die obersten Landesbehörden die Untersuchung
+eines bestimmten Wirtschaftszweiges oder – Sektor übergreifend – einer
+bestimmten Art von Vereinbarungen oder Verhaltensweisen durchführen
+(Sektoruntersuchung).
 
-(2) Im Rahmen dieser Untersuchung können das Bundeskartellamt und die
-obersten Landesbehörden die zur Anwendung der Vorschriften dieses
+(2) Im Rahmen der Sektoruntersuchung können das Bundeskartellamt und
+die obersten Landesbehörden die zur Anwendung der Vorschriften dieses
 Teils oder des Artikels 101 oder 102 des Vertrages über die
 Arbeitsweise der Europäischen Union erforderlichen Ermittlungen
 durchführen. Sie können dabei von den betreffenden Unternehmen und
@@ -1216,28 +1218,259 @@ Vereinigungen Auskünfte verlangen, insbesondere die Unterrichtung über
 sämtliche Vereinbarungen, Beschlüsse und aufeinander abgestimmte
 Verhaltensweisen.
 
-(3) Das Bundeskartellamt und die obersten Landesbehörden können einen
-Bericht über die Ergebnisse der Untersuchung nach Absatz 1
-veröffentlichen und Dritte um Stellungnahme bitten.
+(3) Das Bundeskartellamt soll die Sektoruntersuchung innerhalb von 18
+Monaten nach der Einleitung abschließen.
 
-(4) § 49 Absatz 1 sowie die §§ 57, 59, 59a, 59b und 61 gelten
-entsprechend.
+(4) Das Bundeskartellamt veröffentlicht einen Bericht über die
+Ergebnisse der Sektoruntersuchung, die obersten Landesbehörden können
+einen solchen Bericht veröffentlichen. Das Bundeskartellamt und die
+obersten Landesbehörden können Dritte um Stellungnahme bitten. Das
+Bundeskartellamt kann in dem Bericht nach Satz 1 wettbewerbspolitische
+Empfehlungen aussprechen; es leitet in diesem Fall den Bericht der
+Bundesregierung zu.
 
-(5) Die Absätze 1 bis 3 gelten entsprechend bei begründetem Verdacht
-des Bundeskartellamts auf erhebliche, dauerhafte oder wiederholte
-Verstöße gegen verbraucherrechtliche Vorschriften, die nach ihrer Art
-oder ihrem Umfang die Interessen einer Vielzahl von Verbraucherinnen
-und Verbrauchern beeinträchtigen. Dies gilt nicht, wenn die
-Durchsetzung der Vorschriften nach Satz 1 in die Zuständigkeit anderer
-Bundesbehörden fällt. Absatz 4 gilt mit der Maßgabe, dass die
-Regelungen zum Betreten von Räumlichkeiten der Betroffenen zum Zweck
-der Einsichtnahme und Prüfung von Unterlagen gemäß § 59a sowie die
-Regelungen zu Durchsuchungen nach § 59b keine Anwendung finden.
+(5) § 49 Absatz 1 sowie die §§ 57 bis 59b und 61 gelten entsprechend.
 
-(6) Der Anspruch auf Ersatz der Aufwendungen einer Abmahnung nach § 13
+(6) Die Absätze 1 bis 4 Satz 1 und 2 und Absatz 5 gelten entsprechend
+bei begründetem Verdacht des Bundeskartellamts auf erhebliche,
+dauerhafte oder wiederholte Verstöße gegen verbraucherrechtliche
+Vorschriften, die nach ihrer Art oder ihrem Umfang die Interessen
+einer Vielzahl von Verbraucherinnen und Verbrauchern beeinträchtigen.
+Dies gilt nicht, wenn die Durchsetzung der Vorschriften nach Satz 1 in
+die Zuständigkeit anderer Bundesbehörden fällt. Absatz 5 gilt mit der
+Maßgabe, dass die Regelungen zum Betreten von Räumlichkeiten der
+Betroffenen zum Zweck der Einsichtnahme und Prüfung von Unterlagen
+gemäß § 59a sowie die Regelungen zur Beschlagnahme nach § 58, zu
+Durchsuchungen nach § 59b keine Anwendung finden.
+
+(7) Der Anspruch auf Ersatz der Aufwendungen einer Abmahnung nach § 13
 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb ist ab der
 Veröffentlichung eines Abschlussberichts über eine Sektoruntersuchung
-nach Absatz 5 für vier Monate ausgeschlossen.
+nach Absatz 6 für vier Monate ausgeschlossen.
+
+
+##### § 32f Maßnahmen nach einer Sektoruntersuchung
+
+(1) Nach der Veröffentlichung eines Berichts nach § 32e Absatz 4 zu
+einer Sektoruntersuchung nach § 32e Absatz 1 hat das Bundeskartellamt
+unbeschadet seiner sonstigen Befugnisse die weiteren Befugnisse gemäß
+den Absätzen 2 bis 4. Dies gilt nicht in Fällen des § 32e Absatz 6.
+
+(2) Wenn objektiv nachvollziehbare Anhaltspunkte dafür bestehen, dass
+durch künftige Zusammenschlüsse der wirksame Wettbewerb im Inland in
+einem oder mehreren der in dem Bericht nach § 32e Absatz 4
+untersuchten Wirtschaftszweige im Sinne von § 36 Absatz 1 erheblich
+behindert werden könnte, kann das Bundeskartellamt Unternehmen durch
+Verfügung verpflichten, innerhalb eines Zeitraums von drei Jahren ab
+Zustellung der Verfügung jeden Zusammenschluss im Sinne von § 37 in
+einem oder mehreren dieser Wirtschaftszweige nach § 39 anzumelden. Die
+Anmeldepflicht nach Satz 1 gilt nur für Zusammenschlüsse, bei denen
+der Erwerber im letzten Geschäftsjahr Umsatzerlöse im Inland von mehr
+als 50 Millionen Euro und das zu erwerbende Unternehmen im letzten
+Geschäftsjahr Umsatzerlöse im Inland von mehr als 1 Million Euro
+erzielt hat. § 36 Absatz 1 Satz 2 Nummer 2 ist auf von dem Unternehmen
+in den untersuchten Wirtschaftszweigen angemeldete Zusammenschlüsse
+nicht anzuwenden. Im Übrigen gelten die auf Zusammenschlüsse im Sinne
+des Kapitels 7 anwendbaren Vorschriften dieses Gesetzes. Sofern die
+Voraussetzungen nach Satz 1 nach Ablauf des Zeitraums von drei Jahren
+fortbestehen, kann das Bundeskartellamt die Anmeldeverpflichtung um
+drei Jahre verlängern; wiederholte Verlängerungen um jeweils drei
+Jahre sind bis zu dreimal zulässig.
+
+(3) Das Bundeskartellamt kann durch Verfügung feststellen, dass eine
+erhebliche und fortwährende Störung des Wettbewerbs auf mindestens
+einem mindestens bundesweiten Markt, mehreren einzelnen Märkten oder
+marktübergreifend vorliegt, soweit die Anwendung der sonstigen
+Befugnisse nach Teil 1 nach den im Zeitpunkt der Entscheidung beim
+Bundeskartellamt vorliegenden Erkenntnissen voraussichtlich nicht
+ausreichend erscheint, um die Störung des Wettbewerbs wirksam und
+dauerhaft zu beseitigen. Die Verfügung nach Satz 1 ergeht gegenüber
+einem oder mehreren Unternehmen, die als Adressaten von Maßnahmen nach
+Satz 6 oder Absatz 4 in Betracht kommen. Adressaten von Maßnahmen
+können Unternehmen sein, die durch ihr Verhalten und ihre Bedeutung
+für die Marktstruktur zur Störung des Wettbewerbs wesentlich
+beitragen. Bei der Auswahl der Adressaten und der Abhilfemaßnahmen ist
+insbesondere auch die Marktstellung des Unternehmens zu
+berücksichtigen. Das Bundeskartellamt kann die Verfügung nach Satz 1
+durch Beschluss zu einem späteren Zeitpunkt auf weitere Unternehmen im
+Sinne der Sätze 2 und 3 ausdehnen. Das Bundeskartellamt kann im Falle
+einer Feststellung nach Satz 1 den betroffenen Unternehmen alle
+Abhilfemaßnahmen verhaltensorientierter oder struktureller Art
+vorschreiben, die zur Beseitigung oder Verringerung der Störung des
+Wettbewerbs erforderlich sind. Die Abhilfemaßnahmen können
+insbesondere Folgendes zum Gegenstand haben:
+
+1.  die Gewährung des Zugangs zu Daten, Schnittstellen, Netzen oder
+    sonstigen Einrichtungen,
+
+
+2.  Vorgaben zu den Geschäftsbeziehungen zwischen Unternehmen auf den
+    untersuchten Märkten und auf verschiedenen Marktstufen,
+
+
+3.  Verpflichtung zur Etablierung transparenter, diskriminierungsfreier
+    und offener Normen und Standards durch Unternehmen,
+
+
+4.  Vorgaben zu bestimmten Vertragsformen oder Vertragsgestaltungen
+    einschließlich vertraglicher Regelungen zur Informationsoffenlegung,
+
+
+5.  das Verbot der einseitigen Offenlegung von Informationen, die ein
+    Parallelverhalten von Unternehmen begünstigen,
+
+
+6.  die buchhalterische oder organisatorische Trennung von Unternehmens-
+    oder Geschäftsbereichen.
+
+
+
+§ 32 Absatz 2 gilt entsprechend.
+
+(4) Das Bundeskartellamt kann unter den Voraussetzungen des Absatzes 3
+marktbeherrschende Unternehmen sowie Unternehmen mit einer
+überragenden marktübergreifenden Bedeutung für den Wettbewerb nach §
+19a Absatz 1 durch Verfügung dazu verpflichten, Unternehmensanteile
+oder Vermögen zu veräußern, wenn zu erwarten ist, dass durch diese
+Maßnahme die erhebliche und fortwährende Störung des Wettbewerbs
+beseitigt oder erheblich verringert wird. Abhilfemaßnahmen nach Satz 1
+dürfen nur angeordnet werden, wenn Abhilfemaßnahmen nach Absatz 3 Satz
+6 nicht möglich sind, nicht von gleicher Wirksamkeit oder im Vergleich
+zu Abhilfemaßnahmen nach Satz 1 mit einer größeren Belastung für das
+Unternehmen verbunden wären. Vor Erlass der Verfügung ist der
+Monopolkommission und den nach § 48 Absatz 1 zuständigen obersten
+Landesbehörden, in deren Gebiet das Unternehmen seinen Sitz hat,
+Gelegenheit zur Stellungnahme zu geben. Die Verfügung nach Satz 1 ist
+im Bundesanzeiger bekannt zu machen. § 43 Absatz 3 ist entsprechend
+anzuwenden mit der Maßgabe, dass nur die Angaben nach § 39 Absatz 3
+Satz 2 Nummer 1 und 2 bekannt zu machen sind. Die Verfügung kann mit
+Nebenbestimmungen verbunden werden. § 41 Absatz 3 Satz 2 und Absatz 4
+gilt entsprechend. Der Vermögensteil muss nur veräußert werden, wenn
+der Erlös mindestens 50 Prozent desjenigen Wertes beträgt, den ein vom
+Bundeskartellamt beauftragter Wirtschaftsprüfer für den Zeitpunkt des
+der Entflechtungsanordnung nach Satz 1 vorangegangenen
+Jahresabschlusses festgestellt hat. Soweit der tatsächliche
+Verkaufserlös den vom beauftragten Wirtschaftsprüfer festgestellten
+Wert unterschreitet, erhält das veräußernde Unternehmen eine
+zusätzliche Zahlung in Höhe der Hälfte der Differenz zwischen dem
+festgestellten Wert und dem tatsächlichen Verkaufserlös. Erstreckt
+sich die Verfügung auf Vermögensteile, die vor der Einleitung eines
+Verfahrens nach diesem Absatz Gegenstand einer bestandskräftigen
+Freigabe eines Zusammenschlusses durch das Bundeskartellamt oder die
+Europäische Kommission waren oder nach der Erteilung einer
+bestandskräftigen Ministererlaubnis erworben wurden, so ist die
+Verfügung nur zulässig, wenn der Zeitraum zwischen ihrer Zustellung
+und der Zustellung der fusionskontrollrechtlichen Verfügung größer als
+zehn Jahre ist. Ist kein Hauptprüfverfahren eingeleitet worden, so
+tritt an die Stelle der Zustellung der Verfügung der Ablauf der Frist
+nach § 40 Absatz 1 Satz 1. Teile des Vermögens, die ein Unternehmen
+aufgrund einer Verpflichtung nach diesem Absatz oder aufgrund einer
+Verpflichtungszusage nach Absatz 6 veräußert hat, darf das Unternehmen
+innerhalb von fünf Jahren nach der Veräußerung nicht zurückerwerben,
+es sei denn, es weist nach, dass sich die Marktverhältnisse so
+geändert haben, dass eine erhebliche und fortwährende Störung des
+Wettbewerbs nicht mehr vorliegt.
+
+(5) Eine Störung des Wettbewerbs kann insbesondere in folgenden Fällen
+vorliegen:
+
+1.  unilaterale Angebots- oder Nachfragemacht,
+
+
+2.  Beschränkungen des Marktzutritts, des Marktaustritts oder der
+    Kapazitäten von Unternehmen oder des Wechsels zu einem anderen
+    Anbieter oder Nachfrager,
+
+
+3.  gleichförmiges oder koordiniertes Verhalten oder
+
+
+4.  Abschottung von Einsatzfaktoren oder Kunden durch vertikale
+    Beziehungen.
+
+
+
+Bei der Prüfung, ob eine Störung des Wettbewerbs vorliegt, soll
+insbesondere Folgendes berücksichtigt werden:
+
+1.  Anzahl, Größe, Finanzkraft und Umsätze der auf den betroffenen Märkten
+    oder marktübergreifend tätigen Unternehmen, die
+    Marktanteilsverhältnisse sowie der Grad der Unternehmenskonzentration,
+
+
+2.  Verflechtungen der Unternehmen auf den betroffenen, den vor- und
+    nachgelagerten oder in sonstiger Weise miteinander verbundenen
+    Märkten,
+
+
+3.  Preise, Mengen, Auswahl und Qualität der angebotenen Produkte oder
+    Dienstleistungen auf den betroffenen Märkten,
+
+
+4.  Transparenz und Homogenität der Güter auf den betroffenen Märkten,
+
+
+5.  Verträge und Vereinbarungen zwischen Unternehmen auf den betroffenen
+    Märkten,
+
+
+6.  Grad der Dynamik auf den betroffenen Märkten sowie
+
+
+7.  dargelegte Effizienzvorteile, insbesondere Kosteneinsparungen oder
+    Innovationen, bei angemessener Beteiligung der Verbraucher.
+
+
+
+Eine Störung des Wettbewerbs ist fortwährend, wenn diese über einen
+Zeitraum von drei Jahren dauerhaft vorgelegen hat oder wiederholt
+aufgetreten ist und zum Zeitpunkt der Verfügung nach Absatz 3 keine
+Anhaltspunkte bestehen, dass die Störung innerhalb von zwei Jahren mit
+überwiegender Wahrscheinlichkeit entfallen wird.
+
+(6) § 32b gilt für Verfahren nach den Absätzen 3 und 4 entsprechend.
+
+(7) Verfügungen nach den Absätzen 2 bis 4 sollen innerhalb von 18
+Monaten nach der Veröffentlichung des Abschlussberichts nach § 32e
+Absatz 4 ergehen.
+
+(8) Auf Märkten in den von der Bundesnetzagentur regulierten Sektoren
+Eisenbahn, Post und Telekommunikation, für die sektorspezifisches
+Wettbewerbsrecht gilt, sowie den regulierten Elektrizitäts- und
+Gasversorgungsnetzen gemäß dem Energiewirtschaftsgesetz bedarf das
+Bundeskartellamt zur Ergreifung von Abhilfemaßnahmen nach den Absätzen
+3 und 4 des Einvernehmens der Bundesnetzagentur; die Bundesnetzagentur
+veröffentlicht hierzu jeweils eine Stellungnahme. Mögliche
+Abhilfemaßnahmen nach den Absätzen 3 und 4 sind bei der Prüfung im
+Rahmen der Marktanalyse nach § 11 Absatz 2 Nummer 3 des
+Telekommunikationsgesetzes nicht zu berücksichtigen.
+
+(9) Das Bundesministerium für Wirtschaft und Klimaschutz berichtet den
+gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach
+Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die
+Erfahrungen mit der Vorschrift.
+
+
+##### § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
+
+(1) Das Bundeskartellamt kann eine Untersuchung bei einer möglichen
+Nichteinhaltung der Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925
+des Europäischen Parlaments und des Rates vom 14. September 2022 über
+bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der
+Richtlinien (EU) 2019/1937 und (EU) 2020/1828 (Gesetz über digitale
+Märkte) (ABl. L 265 vom 12.10.2022, S. 1) durch ein nach Artikel 3 der
+Verordnung benanntes Unternehmen durchführen.
+
+(2) Das Bundeskartellamt kann alle für die Untersuchung nach Absatz 1
+erforderlichen Ermittlungen durchführen. Die §§ 57 bis 59b und 61
+gelten entsprechend. Sofern die Ermittlungen einen möglichen Verstoß
+gegen Artikel 7 der Verordnung (EU) 2022/1925 zum Gegenstand haben,
+gibt das Bundeskartellamt der Bundesnetzagentur die Möglichkeit zur
+Stellungnahme.
+
+(3) Das Bundeskartellamt erstattet der Europäischen Kommission Bericht
+über die Ergebnisse der Untersuchung nach Absatz 1. Es kann einen
+Bericht über die Ergebnisse der Untersuchung veröffentlichen.
 
 
 #### Abschnitt 2 - Schadensersatz und Vorteilsabschöpfung
@@ -1247,10 +1480,11 @@ nach Absatz 5 für vier Monate ausgeschlossen.
 ##### § 33 Beseitigungs- und Unterlassungsanspruch
 
 (1) Wer gegen eine Vorschrift dieses Teils oder gegen Artikel 101 oder
-102 des Vertrages über die Arbeitsweise der Europäischen Union
-verstößt (Rechtsverletzer) oder wer gegen eine Verfügung der
-Kartellbehörde verstößt, ist gegenüber dem Betroffenen zur Beseitigung
-der Beeinträchtigung und bei Wiederholungsgefahr zur Unterlassung
+102 des Vertrages über die Arbeitsweise der Europäischen Union oder
+gegen die Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 verstößt
+(Rechtsverletzer) oder wer gegen eine Verfügung der Kartellbehörde
+verstößt, ist gegenüber dem Betroffenen zur Beseitigung der
+Beeinträchtigung und bei Wiederholungsgefahr zur Unterlassung
 verpflichtet.
 
 (2) Der Unterlassungsanspruch besteht bereits dann, wenn eine
@@ -1277,20 +1511,14 @@ durch den Verstoß beeinträchtigt ist.
 
 
 
-2.  Einrichtungen, die nachweisen, dass sie eingetragen sind in
-
-    a)  die Liste qualifizierter Einrichtungen nach § 4 des
-        Unterlassungsklagengesetzes oder
-
-
-    b)  das Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3
-        der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates
-        vom 23. April 2009 über Unterlassungsklagen zum Schutz der
-        Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) in der jeweils
-        geltenden Fassung.
-
-
-
+2.  qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des
+    Unterlassungsklagengesetzes eingetragen sind, und qualifizierten
+    Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die
+    in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1
+    Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und
+    des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der
+    Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie
+    2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind.
 
 
 
@@ -1341,16 +1569,19 @@ Gesetzbuchs finden entsprechende Anwendung.
 
 Wird wegen eines Verstoßes gegen eine Vorschrift dieses Teils oder
 gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der
-Europäischen Union Schadensersatz gefordert, so ist das Gericht an die
-Feststellung des Verstoßes gebunden, wie sie in einer
-bestandskräftigen Entscheidung der Kartellbehörde, der Europäischen
-Kommission oder der Wettbewerbsbehörde oder des als solche handelnden
-Gerichts in einem anderen Mitgliedstaat der Europäischen Union
-getroffen wurde. Das Gleiche gilt für entsprechende Feststellungen in
-rechtskräftigen Gerichtsentscheidungen, die infolge der Anfechtung von
-Entscheidungen nach Satz 1 ergangen sind. Diese Verpflichtung gilt
-unbeschadet der Rechte und Pflichten nach Artikel 267 des Vertrages
-über die Arbeitsweise der Europäischen Union.
+Europäischen Union oder wegen eines Verstoßes gegen die Artikel 5, 6
+oder 7 der Verordnung (EU) 2022/1925 Schadensersatz gefordert, so ist
+das Gericht an den bestandskräftigen Benennungsbeschluss der
+Europäischen Kommission nach Artikel 3 der Verordnung (EU) Nr.
+2022/1925 und an die Feststellung des Verstoßes gebunden, wie sie in
+einer bestandskräftigen Entscheidung der Kartellbehörde, der
+Europäischen Kommission oder der Wettbewerbsbehörde oder des als
+solche handelnden Gerichts in einem anderen Mitgliedstaat der
+Europäischen Union getroffen wurde. Das Gleiche gilt für entsprechende
+Feststellungen in rechtskräftigen Gerichtsentscheidungen, die infolge
+der Anfechtung von Entscheidungen nach Satz 1 ergangen sind. Diese
+Verpflichtung gilt unbeschadet der Rechte und Pflichten nach Artikel
+267 des Vertrages über die Arbeitsweise der Europäischen Union.
 
 
 ##### § 33c Schadensabwälzung
@@ -1588,8 +1819,8 @@ nicht zu berücksichtigen.
 Aufzeichnung, auch über den Inhalt einer Vernehmung im
 wettbewerbsbehördlichen Verfahren, wenn und soweit darin eine
 freiwillige Erklärung seitens oder im Namen eines Unternehmens oder
-einer natürlichen Person gegenüber einer
-Wettbewerbsbehörde              enthalten ist,
+einer natürlichen Person gegenüber einer Wettbewerbsbehörde enthalten
+ist,
 
 1.  in der das Unternehmen oder die natürliche Person die Kenntnis von
     einem Kartell und seine beziehungsweise ihre Beteiligung daran darlegt
@@ -1617,7 +1848,8 @@ die Herausgabe an das zuständige Gericht nach § 89b Absatz 8 allein
 zum Zweck der Prüfung verlangen.
 
 (5) Bis zum vollständigen Abschluss des wettbewerbsbehördlichen
-Verfahrens gegen alle Beteiligten ist die Herausgabe von Beweismitteln
+Verfahrens oder des Verfahrens zur Durchsetzung der Verordnung (EU)
+2022/1925 gegen alle Beteiligten ist die Herausgabe von Beweismitteln
 ausgeschlossen, soweit sie Folgendes enthalten:
 
 1.  Informationen, die von einer natürlichen oder juristischen Person oder
@@ -1748,17 +1980,24 @@ Absatz 1 wird gehemmt, wenn
     Vertrages über die Arbeitsweise der Europäischen Union oder gegen eine
     Bestimmung des nationalen Wettbewerbsrechts eines anderen
     Mitgliedstaates der Europäischen Union im Sinne des § 89e Absatz 2
-    trifft oder
+    trifft;
 
 
-3.  der Anspruchsberechtigte gegen den Rechtsverletzer Klage auf Auskunft
+3.  die Europäische Kommission oder eine Behörde, die die in Artikel 1
+    Absatz 6 der Verordnung (EU) 2022/1925 genannten Vorschriften
+    anwendet, Maßnahmen im Hinblick auf eine Untersuchung oder auf ihr
+    Verfahren wegen eines Verstoßes gegen die Artikel 5, 6 oder 7 der
+    Verordnung (EU) Nr. 2022/1925 trifft, oder
+
+
+4.  der Anspruchsberechtigte gegen den Rechtsverletzer Klage auf Auskunft
     oder Herausgabe von Beweismitteln nach § 33g erhoben hat.
 
 
 
 Die Hemmung endet ein Jahr nach der bestands- und rechtskräftigen
 Entscheidung oder der anderweitigen Erledigung des Verfahrens. § 204
-Absatz 2 Satz 3 und 4 des Bürgerlichen Gesetzbuchs findet
+Absatz 2 Satz 2 und 3 des Bürgerlichen Gesetzbuchs findet
 entsprechende Anwendung.
 
 (7) Die Verjährungsfrist eines Anspruchs auf Ausgleichung nach § 33d
@@ -1824,15 +2063,43 @@ Härte, soll die Anordnung auf einen angemessenen Geldbetrag beschränkt
 werden oder ganz unterbleiben. Sie soll auch unterbleiben, wenn der
 wirtschaftliche Vorteil gering ist.
 
-(4) Die Höhe des wirtschaftlichen Vorteils kann geschätzt werden. Der
-abzuführende Geldbetrag ist zahlenmäßig zu bestimmen.
+(4) Es wird vermutet, dass ein Verstoß gegen Vorschriften der Kapitel
+1, 2 oder 5 dieses Teils, gegen Artikel 101 oder 102 des Vertrages
+über die Arbeitsweise der Europäischen Union oder gegen eine Verfügung
+der Kartellbehörde nach § 19a oder nach Kapitel 6 dieses Teils einen
+wirtschaftlichen Vorteil verursacht hat. Die Höhe des wirtschaftlichen
+Vorteils kann geschätzt werden. Für die Schätzung der Vorteilshöhe
+gilt § 287 der Zivilprozessordnung entsprechend mit der Maßgabe, dass
+eine überwiegende Wahrscheinlichkeit genügt. Es wird vermutet, dass
+der wirtschaftliche Vorteil nach Satz 1 mindestens 1 Prozent der
+Umsätze beträgt, die im Inland mit den Produkten oder
+Dienstleistungen, die mit der Zuwiderhandlung in Zusammenhang stehen,
+erzielt wurden. Der Vermutung nach Satz 4 ist der Abschöpfungszeitraum
+nach Absatz 5 Satz 1 zugrunde zu legen. Gegen die Vermutung nach Satz
+1 in Verbindung mit Satz 4 kann nicht vorgebracht werden, dass kein
+wirtschaftlicher Vorteil oder ein Vorteil in nur geringer Höhe
+angefallen ist. Sie kann nur widerlegt werden, soweit das Unternehmen
+nachweist, dass weder die am Verstoß unmittelbar beteiligte
+juristische Person oder Personenvereinigung noch das Unternehmen im
+Abschöpfungszeitraum einen Gewinn in entsprechender Höhe erzielt hat.
+Bei der Ermittlung des Gewinns des Unternehmens nach Satz 7 ist der
+weltweite Gewinn aller natürlichen und juristischen Personen sowie
+Personenvereinigungen zugrunde zu legen, die als wirtschaftliche
+Einheit operieren. Die Vermutung nach Satz 1 in Verbindung mit Satz 4
+gilt nicht, wenn die Erlangung eines Vorteils aufgrund der besonderen
+Natur des Verstoßes ausgeschlossen ist. Der abzuführende Geldbetrag
+ist zahlenmäßig zu bestimmen und darf 10 Prozent des Gesamtumsatzes
+des Unternehmens oder der Unternehmensvereinigung, der in dem der
+Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt worden
+ist, nicht übersteigen.
 
 (5) Die Vorteilsabschöpfung kann nur innerhalb einer Frist von bis zu
 sieben Jahren seit Beendigung der Zuwiderhandlung und längstens für
-einen Zeitraum von fünf Jahren angeordnet werden. § 33h Absatz 6 gilt
-entsprechend. Im Falle einer bestandskräftigen Entscheidung im Sinne
-des § 33b Satz 1 oder einer rechtskräftigen Gerichtsentscheidung im
-Sinne des § 33b Satz 2 beginnt die Frist nach Satz 1 erneut.
+einen Zeitraum von fünf Jahren (Abschöpfungszeitraum) angeordnet
+werden. § 33h Absatz 6 gilt entsprechend. Im Falle einer
+bestandskräftigen Entscheidung im Sinne des § 33b Satz 1 oder einer
+rechtskräftigen Gerichtsentscheidung im Sinne des § 33b Satz 2 beginnt
+die Frist nach Satz 1 erneut.
 
 
 ##### § 34a Vorteilsabschöpfung durch Verbände
@@ -2143,7 +2410,9 @@ zulässig über:
     Dokumente mit qualifizierter elektronischer Signatur,
 
 
-3.  das besondere elektronische Behördenpostfach sowie
+3.  das besondere elektronische Behördenpostfach gegen ein elektronisches
+    oder ein mit Datum und Unterschrift versehenes schriftliches
+    Empfangsbekenntnis sowie
 
 
 4.  eine hierfür bestimmte Internetplattform.
@@ -2240,48 +2509,8 @@ Unternehmen unverzüglich beim Bundeskartellamt anzuzeigen. § 41 bleibt
 unberührt.
 
 
-#### § 39a Aufforderung zur Anmeldung künftiger Zusammenschlüsse
+#### § 39a (weggefallen)
 
-(1) Das Bundeskartellamt kann ein Unternehmen durch Verfügung
-verpflichten, jeden Zusammenschluss des Unternehmens mit anderen
-Unternehmen in einem oder mehreren bestimmten Wirtschaftszweigen
-anzumelden, wenn
-
-1.  das Unternehmen im letzten Geschäftsjahr weltweit Umsatzerlöse von
-    mehr als 500 Millionen Euro erzielt hat,
-
-
-2.  objektiv nachvollziehbare Anhaltspunkte dafür bestehen, dass durch
-    künftige Zusammenschlüsse der wirksame Wettbewerb im Inland in den
-    genannten Wirtschaftszweigen erheblich behindert werden könnte und
-
-
-3.  das Unternehmen in den genannten Wirtschaftszweigen einen Anteil von
-    mindestens 15 Prozent am Angebot oder an der Nachfrage von Waren oder
-    Dienstleistungen in Deutschland hat.
-
-
-
-
-(2) Die Anmeldepflicht nach Absatz 1 gilt nur für Zusammenschlüsse bei
-denen
-
-1.  das zu erwerbende Unternehmen im letzten Geschäftsjahr Umsatzerlöse
-    von mehr als 2 Millionen Euro erzielt hat und
-
-
-2.  mehr als zwei Drittel seiner Umsatzerlöse im Inland erzielt hat.
-
-
-
-
-(3) Eine Verfügung nach Absatz 1 setzt voraus, dass das
-Bundeskartellamt auf einem der betroffenen Wirtschaftszweige zuvor
-eine Untersuchung nach § 32e durchgeführt hat.
-
-(4) Die Anmeldepflicht nach Absatz 1 gilt für drei Jahre ab Zustellung
-der Entscheidung. In der Verfügung sind die relevanten
-Wirtschaftszweige anzugeben.
 
 
 #### § 40 Verfahren der Zusammenschlusskontrolle
@@ -2568,6 +2797,13 @@ Gutachten werden von der Monopolkommission veröffentlicht. Bei
 Gutachten nach Absatz 1 Satz 1 erfolgt dies zu dem Zeitpunkt, zu dem
 sie von der Bundesregierung der gesetzgebenden Körperschaft vorgelegt
 werden.
+
+(4) In ihren Gutachten kann die Monopolkommission Empfehlungen für die
+Durchführung von Sektoruntersuchungen nach § 32e Absatz 1 aussprechen.
+Soweit das Bundeskartellamt der Empfehlung für eine Sektoruntersuchung
+nach § 32e Absatz 1 innerhalb von zwölf Monaten nach der
+Veröffentlichung des Gutachtens nicht gefolgt ist, nimmt es Stellung
+zu der Empfehlung.
 
 
 #### § 45 Mitglieder
@@ -3456,22 +3692,30 @@ Betroffenen und der Markttransparenzstelle zuzuordnen sind.
 ##### § 47k Marktbeobachtung im Bereich Kraftstoffe
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für
-Kraftstoffe eingerichtet. Sie beobachtet den Handel mit Kraftstoffen,
-um den Kartellbehörden die Aufdeckung und Sanktionierung von Verstößen
-gegen die §§ 1, 19 und 20 dieses Gesetzes und die Artikel 101 und 102
-des Vertrages über die Arbeitsweise der Europäischen Union zu
-erleichtern. Sie nimmt ihre Aufgaben nach Maßgabe der Absätze 2 bis 9
-wahr.
+Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der
+Herstellung von und des Handels mit Kraftstoffen, um den
+Kartellbehörden die Aufdeckung und Sanktionierung von Verstößen gegen
+die §§ 1, 19 und 20 dieses Gesetzes und die Artikel 101 und 102 des
+Vertrages über die Arbeitsweise der Europäischen Union zu erleichtern.
+Sie nimmt ihre Aufgaben nach Maßgabe der Absätze 2 bis 9 wahr.
 
 (2) Betreiber von öffentlichen Tankstellen, die Letztverbrauchern
 Kraftstoffe zu selbst festgesetzten Preisen anbieten, sind
-verpflichtet, nach Maßgabe der Rechtsverordnung nach Absatz 8 bei
-jeder Änderung ihrer Kraftstoffpreise diese in Echtzeit und
-differenziert nach der jeweiligen Sorte an die Markttransparenzstelle
-für Kraftstoffe zu übermitteln. Werden dem Betreiber die
-Verkaufspreise von einem anderen Unternehmen vorgegeben, so ist das
-Unternehmen, das über die Preissetzungshoheit verfügt, zur
-Übermittlung verpflichtet.
+verpflichtet, nach Maßgabe der Rechtsverordnung nach Absatz 8
+
+1.  bei jeder Änderung ihrer Kraftstoffpreise diese in Echtzeit und
+    unterschieden nach der jeweiligen Kraftstoffsorte sowie
+
+
+2.  die im Laufe eines bestimmten Zeitraums abgegebenen Kraftstoffmengen
+    unterschieden nach der jeweiligen Kraftstoffsorte
+
+
+
+an die Markttransparenzstelle für Kraftstoffe zu übermitteln. Werden
+dem Betreiber die Verkaufspreise von einem anderen Unternehmen
+vorgegeben, so ist das Unternehmen, das über die Preissetzungshoheit
+verfügt, zur Übermittlung verpflichtet.
 
 (3) Kraftstoffe im Sinne dieser Vorschrift sind Ottokraftstoffe und
 Dieselkraftstoffe. Öffentliche Tankstellen sind Tankstellen, die sich
@@ -3500,7 +3744,9 @@ Verfügung:
 Standortinformationen, aggregierte oder ältere Daten kann die
 Markttransparenzstelle für Kraftstoffe auch an weitere Behörden und
 Stellen der unmittelbaren Bundes- und Landesverwaltung für deren
-gesetzliche Aufgaben weitergeben.
+gesetzliche Aufgaben weitergeben, Mengendaten jedoch nur derart
+aggregiert, dass die Betriebs- und Geschäftsgeheimnisse der einzelnen
+Betreiber gewahrt bleiben.
 
 (5) Die Markttransparenzstelle für Kraftstoffe wird nach Maßgabe der
 Rechtsverordnung nach Absatz 8 ermächtigt, die nach Absatz 2 erhobenen
@@ -3523,11 +3769,11 @@ Kraftstoffe die Befugnisse nach §§ 59, 59a und 59b.
 
 (8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Wege der Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, Vorgaben zur Meldepflicht nach Absatz 2 und zur Weitergabe der
-Preisdaten nach Absatz 5 zu erlassen, insbesondere
+bedarf, Vorgaben zu den Meldepflichten nach Absatz 2 und zur
+Weitergabe der Preisdaten nach Absatz 5 zu erlassen, insbesondere
 
-1.  nähere Bestimmungen zum genauen Zeitpunkt sowie zur Art und Form der
-    Übermittlung der Preisdaten nach Absatz 2 zu erlassen,
+1.  nähere Bestimmungen zum genauen Zeitpunkt oder Zeitraum sowie zur Art
+    und Form der Übermittlung der Daten nach Absatz 2 zu erlassen,
 
 
 2.  angemessene Bagatellgrenzen für die Meldepflicht nach Absatz 2
@@ -3660,9 +3906,11 @@ Artikels 35 Absatz 1 der Verordnung (EG) Nr. 1/2003.
 (2) Zuständige Wettbewerbsbehörde für die Mitwirkung an Verfahren der
 Europäischen Kommission oder der Wettbewerbsbehörden der anderen
 Mitgliedstaaten der Europäischen Union zur Anwendung der Artikel 101
-und 102 des Vertrages über die Arbeitsweise der Europäischen Union ist
-das Bundeskartellamt. Es gelten die bei der Anwendung dieses Gesetzes
-maßgeblichen Verfahrensvorschriften.
+und 102 des Vertrages über die Arbeitsweise der Europäischen Union
+sowie für die Mitwirkung bei der Anwendung der Verordnung (EU)
+2022/1925 durch die Europäische Kommission ist das Bundeskartellamt.
+Es gelten die bei der Anwendung dieses Gesetzes maßgeblichen
+Verfahrensvorschriften.
 
 (3) Die Bediensteten der Wettbewerbsbehörde eines Mitgliedstaates der
 Europäischen Union und andere von dieser Wettbewerbsbehörde
@@ -4049,8 +4297,9 @@ austauschen. Dies gilt nicht
     Geschäftsgeheimnisse, sowie
 
 
-2.  für Informationen, die nach § 50d dieses Gesetzes oder nach Artikel 12
-    der Verordnung (EG) Nr. 1/2003 erlangt worden sind.
+2.  für Informationen, die nach § 50d dieses Gesetzes, nach der Verordnung
+    (EU) 2022/1925 oder nach Artikel 12 der Verordnung (EG) Nr. 1/2003
+    erlangt worden sind.
 
 
 
@@ -4286,15 +4535,20 @@ ausgehen.
 Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für
 die Verhandlung oder für einen Teil davon ist die Öffentlichkeit
 auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung,
-insbesondere des Wohls des Bundes oder eines Landes, oder die
+insbesondere des Wohls des Bundes oder eines Landes, oder eine
 Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses
-besorgen lässt. In den Fällen des § 42 hat das Bundesministerium für
-Wirtschaft und Energie eine öffentliche mündliche Verhandlung
-durchzuführen; mit Einverständnis der Beteiligten kann ohne mündliche
-Verhandlung entschieden werden. In der öffentlichen mündlichen
-Verhandlung hat die Monopolkommission in den Fällen des § 42 das
-Recht, gehört zu werden und die Stellungnahme, die sie nach § 42
-Absatz 5 erstellt hat, zu erläutern.
+besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4
+hat das Bundeskartellamt nach Einleitung des Verfahrens eine
+öffentliche mündliche Verhandlung durchzuführen. In den Fällen des §
+42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine
+öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis
+der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 6 und
+Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden.
+In der öffentlichen mündlichen Verhandlung hat die Monopolkommission
+in den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4 sowie des § 42
+das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht,
+die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu
+erläutern.
 
 (8) Die §§ 45 und 46 des Verwaltungsverfahrensgesetzes sind
 anzuwenden.
@@ -4369,14 +4623,16 @@ Unternehmen oder der Unternehmensvereinigung zugänglich sind. Dies
 umfasst auch allgemeine Marktstudien, die der Einschätzung oder
 Analyse der Wettbewerbsbedingungen oder der Marktlage dienen und sich
 im Besitz des Unternehmens oder der Unternehmensvereinigung befinden.
-Die Kartellbehörde kann vorgeben, in welcher Form die Auskünfte zu
-erteilen sind; insbesondere kann sie vorgeben, dass eine
+Die Verpflichtung gilt auch für die näheren Umstände des Postverkehrs.
+Das Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit
+eingeschränkt. Die Kartellbehörde kann vorgeben, in welcher Form die
+Auskünfte zu erteilen sind; insbesondere kann sie vorgeben, dass eine
 Internetplattform zur Eingabe der Informationen verwendet werden muss.
 Vertreter des Unternehmens oder der Unternehmensvereinigung können von
 der Kartellbehörde zu einer Befragung bestellt werden. Gegenüber
 juristischen Personen sowie Personenvereinigungen, die keine
 Unternehmen oder Unternehmensvereinigungen sind, gelten die Sätze 1
-bis 6 entsprechend.
+bis 8 entsprechend.
 
 (2) Die Inhaber der Unternehmen und ihre Vertretung sowie bei
 juristischen Personen und Personenvereinigungen auch die zur
@@ -4796,7 +5052,8 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 angefochtene Verfügung
 
 1.  eine Verfügung nach § 26 Absatz 4, § 30 Absatz 3, § 31b Absatz 3, § 32
-    Absatz 2a Satz 1 oder § 34 Absatz 1 getroffen wird oder
+    Absatz 2a Satz 1, § 32f Absatz 3 Satz 6 und Absatz 4 oder § 34 Absatz
+    1 getroffen wird oder
 
 
 2.  eine Erlaubnis nach § 42 Absatz 2 Satz 2 in Verbindung mit § 40 Absatz
@@ -5367,10 +5624,10 @@ vorsätzlich oder fahrlässig
 2.  einer vollziehbaren Anordnung nach
 
     a)  § 19a Absatz 2, § 30 Absatz 3, § 31b Absatz 3 Nummer 1 und 3, § 32
-        Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1 oder § 41 Absatz 4
-        Nummer 2, auch in Verbindung mit § 40 Absatz 3a Satz 2, auch in
-        Verbindung mit § 41 Absatz 2 Satz 3 oder § 42 Absatz 2 Satz 2, oder §
-        60 oder
+        Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1, § 32f Absatz 3 Satz 6
+        oder Absatz 4 Satz 1, § 41 Absatz 4 Nummer 2, auch in Verbindung mit §
+        40 Absatz 3a Satz 2, auch in Verbindung mit § 41 Absatz 2 Satz 3 oder
+        § 42 Absatz 2 Satz 2, oder § 60 oder
 
 
     b)  § 39 Absatz 5 oder
@@ -5407,8 +5664,9 @@ vorsätzlich oder fahrlässig
 
 5b. entgegen § 47k Absatz 2 Satz 1, auch in Verbindung mit Satz 2, jeweils
     in Verbindung mit einer Rechtsverordnung nach § 47k Absatz 8 Satz 1
-    Nummer 1 oder Nummer 2, eine dort genannte Änderung nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+    Nummer 1 oder Nummer 2, eine dort genannte Änderung oder Mengenangabe
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    übermittelt,
 
 
 6.  entgegen § 59 Absatz 2 oder Absatz 4, auch in Verbindung mit § 47d
@@ -5418,7 +5676,7 @@ vorsätzlich oder fahrlässig
     nicht rechtzeitig herausgibt,
 
 
-7.  entgegen § 59 Absatz 1 Satz 6, auch in Verbindung mit § 82b Absatz 1,
+7.  entgegen § 59 Absatz 1 Satz 8, auch in Verbindung mit § 82b Absatz 1,
     nicht zu einer Befragung erscheint,
 
 
@@ -6184,14 +6442,16 @@ betragen.
 Für bürgerliche Rechtsstreitigkeiten, die die Anwendung von
 Vorschriften des Teils 1, des Artikels 101 oder 102 des Vertrages über
 die Arbeitsweise der Europäischen Union oder des Artikels 53 oder 54
-des Abkommens über den Europäischen Wirtschaftsraum betreffen, sind
-ohne Rücksicht auf den Wert des Streitgegenstands die Landgerichte
+des Abkommens über den Europäischen Wirtschaftsraum oder der Artikel
+5, 6 oder 7 der Verordnung (EU) 2022/1925 betreffen, sind ohne
+Rücksicht auf den Wert des Streitgegenstands die Landgerichte
 ausschließlich zuständig. Satz 1 gilt auch, wenn die Entscheidung
 eines Rechtsstreits ganz oder teilweise von einer Entscheidung, die
 nach diesem Gesetz zu treffen ist, oder von der Anwendbarkeit des
 Artikels 101 oder 102 des Vertrages über die Arbeitsweise der
 Europäischen Union oder des Artikels 53 oder 54 des Abkommens über den
-Europäischen Wirtschaftsraum abhängt.
+Europäischen Wirtschaftsraum oder der Artikel 5, 6 oder 7 der
+Verordnung (EU) 2022/1925 abhängt.
 
 
 #### § 88 Klageverbindung
@@ -6210,7 +6470,8 @@ Zuständigkeit gegeben ist.
 bürgerliche Rechtsstreitigkeiten, für die nach § 87 ausschließlich die
 Landgerichte zuständig sind, einem Landgericht für die Bezirke
 mehrerer Landgerichte zuzuweisen, wenn eine solche Zusammenfassung der
-Rechtspflege in Kartellsachen, insbesondere der Sicherung einer
+Rechtspflege in Kartellsachen oder der kohärenten Durchsetzung der
+Verordnung (EU) 2022/1925, insbesondere der Sicherung einer
 einheitlichen Rechtsprechung, dienlich ist. Die Landesregierungen
 können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -6295,7 +6556,8 @@ gerichteten Anspruch nach § 33a Absatz 1 auf Antrag aussetzen
 
 (5) Gegen denjenigen, dessen Verstoß gegen eine Vorschrift des Teils 1
 oder gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise
-der Europäischen Union durch eine gemäß § 33b bindende Entscheidung
+der Europäischen Union oder gegen die Artikel 5, 6 oder 7 der
+Verordnung (EU) 2022/1925 durch eine gemäß § 33b bindende Entscheidung
 der Wettbewerbsbehörde festgestellt wurde, kann die Herausgabe dieser
 Entscheidung der Wettbewerbsbehörde bei Vorliegen der Voraussetzungen
 des § 33g im Wege der einstweiligen Verfügung auch ohne die Darlegung
@@ -6418,10 +6680,10 @@ Auskunftserteilung nach Absatz 2 berücksichtigt das Gericht neben §
 2.  die Anhängigkeit des Anspruchs nach § 33a Absatz 1,
 
 
-3.  die Wirksamkeit der öffentlichen Durchsetzung des Kartellrechts,
-    insbesondere den Einfluss der Offenlegung auf laufende Verfahren und
-    auf die Funktionsfähigkeit von Kronzeugenprogrammen und
-    Vergleichsverfahren.
+3.  die Wirksamkeit der öffentlichen Durchsetzung des Kartellrechts oder
+    der Verordnung (EU) 2022/1925, insbesondere den Einfluss der
+    Offenlegung auf laufende Verfahren und auf die Funktionsfähigkeit von
+    Kronzeugenprogrammen und Vergleichsverfahren.
 
 
 
@@ -6526,6 +6788,10 @@ eine Vorlage nach § 89c Absatz 1 bis 4 und 6 vorliegen müssen.
 
 
 
+Im Rahmen der Anwendung der §§ 33g und 89b bis 89d auf Verstöße nach
+der Verordnung (EU) 2022/1925 gelten als Wettbewerbsbehörden die
+Europäische Kommission sowie Behörden, die die in Artikel 1 Absatz 6
+der Verordnung (EU) 2022/1925 genannten Vorschriften anwenden.
 
 (2) Absatz 1 sowie die §§ 33g, 89b bis 89d finden entsprechende
 Anwendung auf die Durchsetzung von Schadensersatzansprüchen oder
@@ -6562,10 +6828,11 @@ Anwendung der Vorschriften dieses Gesetzes, von einer Entscheidung,
 die nach diesen Vorschriften zu treffen ist, oder von der Anwendung
 von Artikel 101 oder 102 des Vertrages über die Arbeitsweise der
 Europäischen Union oder von Artikel 53 oder 54 des Abkommens über den
-europäischen Wirtschaftsraum abhängt. Dies gilt auch in den Fällen
-einer entsprechenden Anwendung der genannten Vorschriften. Satz 1 gilt
-nicht für Rechtsstreitigkeiten über Entscheidungen nach § 42. Das
-Gericht hat dem Bundeskartellamt auf Verlangen Abschriften von allen
+europäischen Wirtschaftsraum oder von der Anwendung der Verordnung
+(EU) 2022/1925 abhängt. Dies gilt auch in den Fällen einer
+entsprechenden Anwendung der genannten Vorschriften. Satz 1 gilt nicht
+für Rechtsstreitigkeiten über Entscheidungen nach § 42. Das Gericht
+hat dem Bundeskartellamt auf Verlangen Abschriften von allen
 Schriftsätzen, Protokollen, Verfügungen und Entscheidungen zu
 übersenden.
 
@@ -6606,31 +6873,32 @@ die Zuständigkeit anderer Bundesbehörden fällt.
 #### § 90a Zusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden
 
 (1) In allen gerichtlichen Verfahren, in denen der Artikel 101 oder
-102 des Vertrages über die Arbeitsweise der Europäischen Union zur
-Anwendung kommt, übermittelt das Gericht der Europäischen Kommission
-über das Bundeskartellamt eine Abschrift jeder Entscheidung
-unverzüglich nach deren Zustellung an die Parteien. Das
-Bundeskartellamt darf der Europäischen Kommission die Unterlagen
-übermitteln, die es nach § 90 Absatz 1 Satz 4 erhalten hat.
+102 des Vertrages über die Arbeitsweise der Europäischen Union oder
+die Verordnung (EU) 2022/1925 zur Anwendung kommt, übermittelt das
+Gericht der Europäischen Kommission über das Bundeskartellamt eine
+Abschrift jeder Entscheidung unverzüglich nach deren Zustellung an die
+Parteien. Das Bundeskartellamt darf der Europäischen Kommission die
+Unterlagen übermitteln, die es nach § 90 Absatz 1 Satz 4 erhalten hat.
 
 (2) Die Europäische Kommission kann in Verfahren nach Absatz 1 aus
 eigener Initiative dem Gericht schriftliche Stellungnahmen
 übermitteln. Das Gericht übermittelt der Europäischen Kommission alle
 zur Beurteilung des Falls notwendigen Schriftstücke, wenn diese darum
-nach Artikel 15 Absatz 3 Satz 5 der Verordnung (EG) Nr. 1/2003
-ersucht. Das Gericht übermittelt dem Bundeskartellamt und den Parteien
-eine Kopie einer Stellungnahme der Europäischen Kommission nach
-Artikel 15 Absatz 3 Satz 3 der Verordnung (EG) Nr. 1/2003. Die
-Europäische Kommission kann in der mündlichen Verhandlung auch
-mündlich Stellung nehmen.
+nach Artikel 15 Absatz 3 Satz 5 der Verordnung (EG) Nr. 1/2003 oder
+nach Artikel 39 Absatz 4 der Verordnung (EU) 2022/1925 ersucht. Das
+Gericht übermittelt dem Bundeskartellamt und den Parteien eine Kopie
+einer Stellungnahme der Europäischen Kommission nach Artikel 15 Absatz
+3 Satz 3 der Verordnung (EG) Nr. 1/2003. Die Europäische Kommission
+kann in der mündlichen Verhandlung auch mündlich Stellung nehmen.
 
 (3) Das Gericht kann in Verfahren nach Absatz 1 die Europäische
 Kommission um die Übermittlung ihr vorliegender Informationen oder um
 Stellungnahmen zu Fragen bitten, die die Anwendung des Artikels 101
 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union
-betreffen. Das Gericht unterrichtet die Parteien über ein Ersuchen
-nach Satz 1 und übermittelt diesen und dem Bundeskartellamt eine Kopie
-der Antwort der Europäischen Kommission.
+oder der Verordnung (EU) 2022/1925 betreffen. Das Gericht unterrichtet
+die Parteien über ein Ersuchen nach Satz 1 und übermittelt diesen und
+dem Bundeskartellamt eine Kopie der Antwort der Europäischen
+Kommission.
 
 (4) In den Fällen der Absätze 2 und 3 kann der Geschäftsverkehr
 zwischen dem Gericht und der Europäischen Kommission auch über das
@@ -6641,9 +6909,12 @@ Bundeskartellamt erfolgen.
 
 Bei den Oberlandesgerichten wird ein Kartellsenat gebildet. Er
 entscheidet über die ihm gemäß § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§
-83, 85 und 86 zugewiesenen Rechtssachen sowie über die Berufung gegen
+83, 85 und 86 zugewiesenen Rechtssachen, über die Berufung gegen
 Endurteile und die Beschwerde gegen sonstige Entscheidungen in
-bürgerlichen Rechtsstreitigkeiten nach § 87.
+bürgerlichen Rechtsstreitigkeiten nach § 87 sowie über Verbandsklagen
+nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und
+Rechtsverhältnisse in den in § 87 aufgeführten bürgerlichen
+Rechtsstreitigkeiten betreffen.
 
 
 #### § 92 Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen
@@ -6696,6 +6967,21 @@ Rechtsmittel:
 
 
     c)  über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in
+        den Fällen des § 574 Absatz 1 der Zivilprozessordnung;
+
+
+
+
+
+4.  in Verbandsklageverfahren nach dem
+    Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und
+    Rechtsverhältnisse in den in § 87 aufgeführten bürgerlichen
+    Rechtsstreitigkeiten betreffen,
+
+    a)  über die Revision gegen Urteile der Oberlandesgerichte und
+
+
+    b)  über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in
         den Fällen des § 574 Absatz 1 der Zivilprozessordnung.
 
 
@@ -8242,8 +8528,10 @@ ausschließen, wenn
 
 
 (2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des
-Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes und § 21 des
-Schwarzarbeitsbekämpfungsgesetzes bleiben unberührt.
+Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des
+Schwarzarbeitsbekämpfungsgesetzes und § 22 des
+Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S.
+2959) bleiben unberührt.
 
 
 ###### § 125 Selbstreinigung
@@ -9334,13 +9622,17 @@ Konzessionen nach § 153 folgende Vorschriften entsprechend anzuwenden:
 3.  § 131 Absatz 2 und 3 und § 132 mit der Maßgabe, dass
 
     a)  § 132 Absatz 2 Satz 2 und 3 für die Vergabe von Konzessionen, die
-        Tätigkeiten nach § 102 Absatz 2 bis 6 betreffen, nicht anzuwenden ist
-        und
+        Tätigkeiten nach § 102 Absatz 2 bis 6 betreffen, nicht anzuwenden ist,
 
 
     b)  die Obergrenze des § 132 Absatz 3 Nummer 2 für Bau- und
         Dienstleistungskonzessionen einheitlich 10 Prozent des Wertes der
-        ursprünglichen Konzession beträgt,
+        ursprünglichen Konzession beträgt und
+
+
+    c)  bei Fehlen einer vertraglichen Indexierungsklausel im Sinne des § 132
+        Absatz 4 der aktualisierte Wert unter Berücksichtigung der
+        durchschnittlichen Inflationsrate in Deutschland berechnet wird,
 
 
 
@@ -10120,14 +10412,47 @@ Geltungsbereichs dieses Gesetzes veranlasst werden.
 Anwendung der §§ 19, 20 und 29 nicht entgegen, soweit in § 111 des
 Energiewirtschaftsgesetzes keine andere Regelung getroffen ist.
 
+(4) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind
+nicht auf Treuhandverwaltungen, Kapitalmaßnahmen oder Enteignungen
+nach den §§ 17, 17a oder 18 des Energiesicherungsgesetzes anzuwenden.
+Satz 1 gilt entsprechend für Übertragungen von Vermögensgegenständen
+nach § 17 Absatz 5 Satz 2 oder § 17b des Energiesicherungsgesetzes an
+juristische Personen des öffentlichen Rechts oder des Privatrechts,
+deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für
+Wiederaufbau unmittelbar oder mittelbar gehalten werden. Satz 1 gilt
+nicht für Privatisierungen nach § 17b Absatz 2 Satz 3 oder § 20 Absatz
+3 des Energiesicherungsgesetzes.
+
 
 ## Teil 6 - Übergangs- und Schlussbestimmungen
 
 
 
-### § 186 Übergangsbestimmungen
+### § 186 Anwendungsbestimmung zu § 47k
 
-(1) § 29 ist nach dem 31. Dezember 2022 nicht mehr anzuwenden.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz hat
+
+1.  das Vorliegen der erforderlichen technischen Voraussetzungen für eine
+    Übermittlung der abgegebenen Mengen nach § 47k Absatz 2 Satz 1 Nummer
+    2 in Verbindung mit der Rechtsverordnung nach § 47k Absatz 8
+    festzustellen und
+
+
+2.  die Feststellung nach Nummer 1 im Bundesanzeiger bekannt zu machen.
+
+
+
+
+(2) § 47k Absatz 2 Satz 1 Nummer 2 ist nach Ablauf des Monats, der auf
+den Monat folgt, in dem die Bekanntmachung nach Absatz 1 Nummer 2
+erfolgt, anzuwenden; dieser Tag ist vom Bundesministerium für
+Wirtschaft und Klimaschutz unverzüglich im Bundesanzeiger bekannt zu
+machen.
+
+
+### § 187 Übergangs- und Schlussbestimmungen
+
+(1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
 
 (2) Vergabeverfahren, die vor dem 18. April 2016 begonnen haben,
 einschließlich der sich an diese anschließenden Nachprüfungsverfahren
@@ -10220,4 +10545,45 @@ entsprechend anzuwenden. Für die Zwecke der Evaluierung und zur
 Untersuchung der Auswirkungen dieser Regelung auf die
 Wettbewerbsverhältnisse und die Versorgungsqualität können Daten aus
 der amtlichen Krankenhausstatistik zusammengeführt werden.
+
+(10) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
+Hinblick auf das Abkommen zwischen dem Bundesministerium für
+Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem
+Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der
+Schweizerischen Eidgenossenschaft über Zusammenarbeit und
+Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
+
+1.  Informationen ausschließlich in kartellbehördlichen Verfahren und sich
+    daran anschließenden Rechtsbehelfsverfahren sowie nur für die Zwecke,
+    für die sie von der schweizerischen Wettbewerbsbehörde übermittelt
+    wurden, verwendet werden dürfen und
+
+
+2.  eine Pflicht zur Wahrung der Vertraulichkeit sowie ein Ausschluss der
+    Offenlegung gegenüber anderen staatlichen Stellen sowie Dritten zu
+    beachten ist,
+
+
+
+soweit sich die in dem Abkommen von der Bundesrepublik Deutschland
+übernommenen Verpflichtungen und gewährten Rechte im Rahmen der nach
+den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit
+halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab
+dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam
+geworden ist. Das Bundesministerium für Wirtschaft und Klimaschutz
+gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem
+Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik
+Deutschland und dem Eidgenössischen Departement für Wirtschaft,
+Bildung und Forschung der Schweizerischen Eidgenossenschaft über
+Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen
+Fundstelle im Bundesgesetzblatt bekannt.
+
+(11) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch
+auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am
+7\. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung
+des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger
+als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7
+mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu
+laufen beginnt.
 

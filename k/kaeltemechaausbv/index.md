@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Mechatroniker für  Kältetechnik/zur
+Title: Verordnung über die Berufsausbildung zum Mechatroniker für Kältetechnik/zur
   Mechatronikerin für Kältetechnik
 jurabk: KälteMechaAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: kaeltemechaausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Mechatroniker für  Kältetechnik/zur Mechatronikerin für Kältetechnik (KälteMechaAusbV)
+# Verordnung über die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik (KälteMechaAusbV)
 
 Ausfertigungsdatum
 :   2007-07-20

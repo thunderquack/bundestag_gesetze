@@ -22,10 +22,7 @@ Mittelbare änderung durch
 :   Art. 7 G v. 20.5.2021 I 1194 ist berücksichtigt
 
 Änderung durch
-:   Bek. v. 3.1.2022 I 15 (Nr. 1) ist berücksichtigt
-
-Änderung durch
-:   Bek. v. 3.1.2022 I 15 (Nr. 1) mWv 1.1.2022 noch nicht berücksichtigt
+:   Bek. v. 3.1.2022 I 15 ist berücksichtigt
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -2140,10 +2137,10 @@ erteilen, wenn
 (2) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen
 Unterlagen beizufügen.
 
-(3) Sofern eine Haftung nach dem Pariser Übereinkommen in Verbindung
-mit § 25 des Atomgesetzes in Betracht kommt, gilt für Kernmaterialien
-anstelle der Regelung des Absatzes 1 Nummer 6 die Regelung der Anlage
-2 zum Atomgesetz.
+(3) Bei der Beförderung von Kernmaterialien im Sinne des § 2 Absatz 4
+des Atomgesetzes ist eine Deckungsvorsorge auch dann zu erbringen,
+wenn die Aktivitätswerte des Absatzes 1 Nummer 6 nicht überschritten
+werden.
 
 
 ##### § 30 Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe

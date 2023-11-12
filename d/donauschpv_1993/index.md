@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 741 (1994 I 523) (1995 II 95)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 31.10.2019 I 1518
-
-Änderung durch
-:   Art. 2 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 8.9.2022 I 1499
 
 
 ## Eingangsformel
@@ -528,9 +525,8 @@ fahrlässig als Schiffsführer
         ausgestattet ist,
 
 
-    h)  das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht
-        mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland
-        AIS Gerät verbunden ist, ausgestattet ist,
+    h)  das entgegen § 10.09 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Inland ECDIS Gerät ausgestattet ist,
 
 
     i)  das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit
@@ -736,9 +732,8 @@ fahrlässig als Eigentümer oder Ausrüster
         ausgestattet ist,
 
 
-    g)  das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht
-        mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland
-        AIS Gerät verbunden ist, ausgestattet ist,
+    g)  das entgegen § 10.09 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Inland ECDIS Gerät ausgestattet ist,
 
 
     h)  das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit

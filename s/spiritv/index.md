@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.6.2003 I 1255;
 
 Zuletzt geändert durch
-:   Art. 15 V v. 5.7.2017 I 2272
-
-Änderung durch
-:   Art. 7 V v. 2.6.2021 I 1362 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 11.10.2021 I 4683 (Nr. 74) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 11.10.2021 I 4683
 
 
 ## Erster Abschnitt - Spirituosen
@@ -381,10 +375,6 @@ folgende Bedingungen erfüllt:
     worden ist.
 
 
-
-
-
-### § 9a (weggefallen)
 
 
 
@@ -882,7 +872,4 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
 
 
-
-
-### Anlage 4 (weggefallen)
 

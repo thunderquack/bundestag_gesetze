@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 1307
 
-Geändert durch
-:   Art. 1 V v. 16.6.2017 I 1874
+Zuletzt geändert durch
+:   Art. 1 V v. 14.6.2022 I 923
 
 Stand: Ersetzt V 806-21-1-297 v. 18.7.2002 I 2699 (VeranstTechAusbV 2002)
 [^rf794345_01_BJNR130700016]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
@@ -110,16 +110,17 @@ Kenntnisse und Fähigkeiten sind:
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden
 Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Berufsbildung, Arbeits- und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+    und Tarifrecht,
 
 
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
+2.  Sicherheit und Gesundheit bei der Arbeit,
 
 
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
+3.  Umweltschutz und Nachhaltigkeit,
 
 
-4.  Umweltschutz,
+4.  digitalisierte Arbeitswelt,
 
 
 5.  Sicherheit bei Veranstaltungen und Produktionen sowie
@@ -517,15 +518,19 @@ wie folgt bewertet worden sind:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Sicherstellen der Energieversorgung für
+2.  im Prüfungsbereich Realisieren eines veranstaltungstechnischen
+    Projekts mit mindestens „ausreichend“,
+
+
+3.  im Prüfungsbereich Sicherstellen der Energieversorgung für
     Veranstaltungstechnik mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
+4.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens
     „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich mit „ungenügend“.
+5.  in keinem Prüfungsbereich mit „ungenügend“.
 
 
 
@@ -563,7 +568,8 @@ Veranstaltungstechnik vom 18. Juli 2002 (BGBl. I S. 2699) außer Kraft.
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
 
-(Fundstelle: BGBl. I 2016,1311 - 1317)
+(Fundstelle: BGBl. I 2016,1311 - 1317;
+bezüglich der Änderungen vgl. Fußnote)
 
 
 ## **Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1266,17 +1272,16 @@ Fähigkeiten**
 
 
 
-   ## **Abschnitt B: integrative Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+   Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und
+Fähigkeiten
+## ****
 
 *    *   Lfd.
         Nr.
 
-    *   Teil des
-        Ausbildungsberufsbildes
+    *   Berufsbildpositionen
 
-    *   Zu vermittelnde
-        Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitliche Richtwerte
         in Wochen im
@@ -1300,26 +1305,54 @@ Fähigkeiten**
 
 *    *   1
 
-    *   Berufsbildung,
-        Arbeits- und Tarifrecht
-        (§ 4 Absatz 3 Nummer 1)
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+        und Tarifrecht
+        (§ 4 Absatz 3
+        Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+    *
+
+*    *
+    *
+    *
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
+
+
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
 
 
 
@@ -1328,26 +1361,36 @@ Fähigkeiten**
 
 *    *   2
 
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
+    *   Sicherheit und Gesundheit bei der Arbeit
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der
-            betriebsverfassungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
+
+
+        e)  ergonomische Arbeitsweisen beachten und anwenden
+
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
@@ -1356,26 +1399,36 @@ Fähigkeiten**
 
 *    *   3
 
-    *   Sicherheit und
-        Gesundheitsschutz
-        bei der Arbeit
+    *   Umweltschutz und Nachhaltigkeit
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
+
+
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
@@ -1387,26 +1440,45 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Umweltschutz
+    *   Digitalisierte Arbeitswelt
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
+
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
+
+
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
+            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
+            lebensbegleitenden Lernens erkennen und ableiten
+
+
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
+            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
+            Medien, planen, bearbeiten und gestalten
+
+
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
+            Vielfalt praktizieren
 
 
 
@@ -1415,9 +1487,7 @@ Fähigkeiten**
 
 *    *   5
 
-    *   Sicherheit bei
-        Veranstaltungen
-        und Produktionen
+    *   Sicherheit bei Veranstaltungen und Produktionen
         (§ 4 Absatz 3 Nummer 5)
 
     *
@@ -1457,15 +1527,11 @@ Fähigkeiten**
 
 
 
-    *   während
-        der gesamten
-        Ausbildung
-
+    *
 
 *    *   6
 
-    *   Kommunikation
-        und Kooperation
+    *   Kommunikation und Kooperation
         (§ 4 Absatz 3 Nummer 6)
 
     *
@@ -1483,6 +1549,8 @@ Fähigkeiten**
     *
 
 *    *
+    *
+    *
         c)  Wertschätzung, Respekt und Vertrauen als Grundlage kundenorientierten
             Verhaltens und erfolgreicher Zusammenarbeit berücksichtigen,
             kulturelle Identitäten berücksichtigen

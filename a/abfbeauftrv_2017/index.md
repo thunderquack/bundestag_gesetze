@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2789
 
-Geändert durch
-:   Art. 2 Abs. 1 G v. 5.7.2017 I 2234
+Zuletzt geändert durch
+:   Art. 4 V v. 28.4.2022 I 700
 
 Stand: Ersetzt V 2129-6-3 v. 26.10.1977 I 1913 (AbfBeauftrV)
 
@@ -107,7 +107,12 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
         oder Absatz 2 des Elektro- und Elektronikgerätegesetzes zurücknehmen,
 
 
-    g)  Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und
+    g)  Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und
+        Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und
+        Elektronikgerätegesetzes freiwillig zurücknehmen,
+
+
+    h)  Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und
         Industrie-Altbatterien gemäß § 8 des Batteriegesetzes vom 25. Juni
         2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom
         20\. November 2015 (BGBl. I S. 2071) geändert worden ist, in der
@@ -117,14 +122,14 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
         verfügt,
 
 
-    h)  Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des
+    i)  Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des
         Batteriegesetzes zurücknehmen, es sei denn, sie sind einem
         freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-
         Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten
         verfügt sowie
 
 
-    i)  Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle
+    j)  Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle
         oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr
         freiwillig zurücknehmen,
 

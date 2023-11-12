@@ -17,13 +17,7 @@ Fundstelle
 :   BAnz: 1953, Nr 244
 
 Zuletzt geändert durch
-:   Art. 289 V v. 25.11.2003 I 2304
-
-Änderung durch
-:   Art. 80 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 1 V v. 25.11.2021 I 4968 (Nr. 80) mWv 1.4.2022 noch nicht berücksichtigt
+:   Art. 1 V v. 25.11.2021 I 4968
 
 
 ## I. - Allgemeines
@@ -189,11 +183,10 @@ für die einzelnen Kalkulationsbereiche entsprechend.
 
 ### Nr 8 Bewertung
 
-(1) Bei der Bewertung der Güter und Dienste bleiben die nach den §§ 15
-und 28 des Umsatzsteuergesetzes (Mehrwertsteuer) abziehbaren
-Vorsteuern und Beträge außer Ansatz. Die nach diesen Vorschriften
-nicht abziehbaren Vorsteuern und Beträge sind Kosten im Sinne von
-Nummer 4.
+(1) Bei der Bewertung der Güter und Dienste bleiben die nach dem
+Umsatzsteuergesetz abziehbaren Steuern und Beträge außer Ansatz. Die
+nach diesen Vorschriften nicht abziehbaren Steuern und Beträge sind
+Kosten im Sinne der Nummer 4.
 
 (2) Bei der Bewertung sind, soweit im Abschnitt III nichts
 Abweichendes bestimmt wird, zugrunde zu legen
@@ -384,7 +377,9 @@ auf fremde Lohnarbeitskosten nicht in Ansatz gebracht werden.
 verrechnungstechnischen Gründen innerhalb der Gemeinkosten verrechnet
 werden, wie Fertigungsstoffe zu behandeln.
 
-(2) Betriebsstoffe zählen nicht zu den Fertigungsstoffen.
+(2) Betriebsstoffe zählen nicht zu den Fertigungsstoffen. Brennstoff-
+und Energiekosten sind verrechnungstechnisch wie Betriebsstoffe zu
+behandeln.
 
 (3) Die Abgrenzung zwischen Fertigungsstoffen, Hilfs- und
 Betriebsstoffen soll nach einheitlichen Gesichtspunkten stetig
@@ -404,16 +399,10 @@ angemessenen Tilgungsanteilen in den Kalkulationen der
 Liefergegenstände als Sonderkosten der Fertigung zu verrechnen.
 
 (3) Der Verlauf und Stand der Tilgung durch die auf Liefergegenstände
-verrechneten Anteile müssen buch- oder karteimäßig nachweisbar sein.
+verrechneten Anteile müssen nachweisbar sein.
 
 
-#### Nr 15 Brennstoffe und Energie
-
-(1) Zu Brennstoffen und Energie zählen feste, flüssige und gasförmige
-Brenn- und Treibstoffe, Dampf, Strom, Preßluft und Preßwasser.
-
-(2) Die Brennstoff- und Energiekosten sind verrechnungstechnisch wie
-Betriebsstoffe zu behandeln.
+#### Nr 15 (weggefallen)
 
 
 #### Nr 16 Mengenermittlung
@@ -443,8 +432,8 @@ berechnet werden (vgl. Nummer 18).
 
 (2) Für Lagerstoffe können Verrechnungspreise verwendet werden. Sie
 müssen auf wirklichkeitsnahen Ermittlungen beruhen, in
-Vorkalkulationen den Preisen gemäß Nummer 8 Absatz 1a und in
-Nachkalkulationen den Preisen gemäß Nummer 8 Absatz 1b nahekommen.
+Vorkalkulationen den Preisen gemäß Nummer 8 Absatz 2a und in
+Nachkalkulationen den Preisen gemäß Nummer 8 Absatz 2b nahekommen.
 Verrechnungspreise sollen in kürzeren Zeiträumen nur abgewandelt
 werden, wenn grundlegende Änderungen der Preise eingetreten sind.
 
@@ -496,12 +485,12 @@ b)  falls solche Zulieferungen in einem Geschäftszweig nicht üblich sind,
 
 
 
-#### Nr 20 Beistellung von Stoffen
+#### Nr 20 Beistellung von Stoffen, Personal oder Anlagen
 
-Vom Auftraggeber kostenlos beigestellte Stoffe sind, soweit sie
-Gemeinkosten verursachen, entsprechend ihrem gegebenenfalls
-geschätzten Wert den Stoffkosten zuzuschlagen und sodann von den
-Selbstkosten mit dem gleichen Wert wieder abzusetzen.
+Vom Auftraggeber kostenlos beigestellte Stoffe, Personal oder Anlagen
+sind, soweit sie Gemeinkosten verursachen, entsprechend ihrem
+gegebenenfalls geschätzten Wert den Kosten zuzuschlagen und sodann von
+den Selbstkosten mit dem gleichen Wert wieder abzusetzen.
 
 
 #### Nr 21 Reststoffe
@@ -582,8 +571,8 @@ berücksichtigen.
 (1) Sozialkosten sind zu gliedern in
 
 a)  gesetzliche Sozialaufwendungen wie Arbeitgeberbeiträge zur
-    Sozialversicherung (Invaliden-, Angestellten-, Knappschafts-, Kranken-
-    und Unfallversicherung) und zur Arbeitslosenversicherung,
+    Sozialversicherung (Renten-, Arbeitslosen-, Kranken-, Pflege- und
+    Unfallversicherung),
 
 
 b)  tarifliche Sozialaufwendungen,
@@ -688,18 +677,16 @@ unterscheiden
 a)  Steuern, die Kosten im Sinne dieser Leitsätze sind (kalkulierbare
     Steuern), insbesondere
 
-    die Gewerbesteuer (auch Gewerbeertrag- und Lohnsummensteuer), die
-    Vermögensteuer, die Grundsteuer, die Kraftfahrzeugsteuer und die
-    Steuer für den Selbstverbrauch (§ 30 des Umsatzsteuergesetzes).
+    die Gewerbesteuer, die Vermögensteuer, die Grundsteuer und die
+    Kraftfahrzeugsteuer.
 
     Als Sonderkosten sind in den Kalkulationen auszuweisen
 
     aa) die auf den Lieferungen und sonstigen Leistungen des Auftragnehmers
-        lastende Umsatzsteuer ohne Abzug der nach den §§ 15 und 28 des
-        Umsatzsteuergesetzes (Mehrwertsteuer) abziehbaren Vorsteuern und
-        Beträge. Die an die Lieferungen und sonstigen Leistungen des
-        Auftragnehmers gebundenen Umsatzsteuerminderungen sind zu
-        berücksichtigen;
+        lastende Umsatzsteuer ohne Abzug der nach dem Umsatzsteuergesetz
+        abziehbaren Steuern und Beträge. Die an die Lieferungen und sonstigen
+        Leistungen des Auftragnehmers gebundenen Umsatzsteuerminderungen sind
+        zu berücksichtigen;
 
 
     bb) besondere auf dem Erzeugnis lastende Verbrauchsteuern.
@@ -716,11 +703,7 @@ b)  Steuern, die nicht Kosten im Sinne dieser Leitsätze sind (nicht
 
 
 
-#### Nr 31 Lastenausgleich
-
-Ausgleichsabgaben im Sinne des Gesetzes über den Lastenausgleich vom
-14\. August 1952 (Bundesgesetzbl. I S. 446) sind nicht Kosten im Sinne
-dieser Leitsätze.
+#### Nr 31 (weggefallen)
 
 
 #### Nr 32 Gebühren und Beiträge
@@ -853,9 +836,9 @@ Nr. 50 als Abschreibungswagnis anzusetzen; Auftraggeber und
 Auftragnehmer können abweichendes vereinbaren.
 
 (3) Ist die bisherige Nutzung nicht einwandfrei zu ermitteln, so kann
-der kalkulatorische Restwert der Anlage (Tagesneuwert der Anlage
-abzüglich der bisherigen Wertminderung) geschätzt und als Ausgangswert
-für die Berechnung der Abschreibung verwendet werden.
+der kalkulatorische Restwert der Anlage (Anschaffungspreis oder
+Herstellkosten abzüglich der bisherigen Wertminderung) geschätzt und
+als Ausgangswert für die Berechnung der Abschreibung verwendet werden.
 
 
 ##### Nr 40
@@ -899,7 +882,7 @@ kalkulatorische Zinsen angesetzt werden. Sie sind in der
 Betriebsrechnung gesondert auszuweisen.
 
 (2) Für kalkulatorische Zinsen setzt das Bundesministerium für
-Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium der
+Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der
 Finanzen einen Höchstsatz fest.
 
 (3) Die für Fremdkapital tatsächlich entstandenen Aufwendungen
@@ -915,10 +898,9 @@ Zinsen, Mieten, Pachten) sind als Gutschriften zu behandeln.
 
 (1) Das betriebsnotwendige Kapital besteht aus dem betriebsnotwendigen
 Vermögen, vermindert um die dem Unternehmen zinslos zur Verfügung
-gestellten Vorauszahlungen und Anzahlungen durch öffentliche
-Auftraggeber und solche Schuldbeträge, die dem Unternehmen im Rahmen
-des gewährten Zahlungsziels von Lieferanten zinsfrei zur Verfügung
-gestellt werden.
+gestellten Vorauszahlungen und Anzahlungen zu Aufträgen und solche
+Schuldbeträge, die dem Unternehmen im Rahmen des gewährten
+Zahlungsziels von Lieferanten zinsfrei zur Verfügung gestellt werden.
 
 (2) Das betriebsnotwendige Vermögen setzt sich aus den Teilen des
 Anlage- und Umlaufvermögens zusammen, die dem Betriebszweck dienen.
@@ -926,9 +908,8 @@ Unberücksichtigt bleibt der Wert der nicht betriebsnotwendigen
 Vermögensteile. Zu diesen gehören insbesondere die stillgelegten
 Anlagen mit Ausnahme betriebsnotwendiger Reserveanlagen in Erzeugungs-
 und Handelsbetrieben, die landwirtschaftlich genutzten Grundstücke,
-die Wohnhäuser, soweit sie nicht für Betriebsangehörige notwendig
-sind, die nicht betriebsnotwendigen Beteiligungen, die Forderungen aus
-Kriegsschäden und die Kriegsfolgeschäden.
+die Wohnhäuser, soweit sie nicht für Betriebsangehörige notwendig sind
+und die nicht betriebsnotwendigen Beteiligungen.
 
 
 ##### Nr 45 Wertansatz des betriebsnotwendigen Vermögens
@@ -953,7 +934,7 @@ anzusetzen, die ihnen an den für die Berechnung maßgebenden Stichtagen
 beizumessen sind.
 
 (6) Bei der Ermittlung des betriebsnotwendigen Kapitals sind, soweit
-nicht Bestimmungen der Absätze 1 bis 6 entgegenstehen, die
+nicht Bestimmungen der Absätze 1 bis 5 entgegenstehen, die
 Wertberichtigungsposten der Kapitalseite von den Buchwerten der
 Vermögensseite der Bilanz abzusetzen.
 
@@ -990,11 +971,11 @@ Verlustgefahren.
 abgegolten.
 
 (2) Für die Einzelwagnisse können kalkulatorische Wagniskosten
-(Wagnisprämien) in die Kostenrechnung eingesetzt werden.
-Betriebsfremde Wagnisse sind außer Betracht zu lassen. Soweit Wagnisse
-durch Versicherungen gedeckt oder eingetretene Wagnisverluste in
-anderen Kostenarten abgegolten sind, ist der Ansatz von Wagniskosten
-nicht zulässig.
+(Wagnisprämien) in der Kostenrechnung angesetzt werden. Betriebsfremde
+Wagnisse sind außer Betracht zu lassen. Soweit Wagnisse durch
+Versicherungen gedeckt oder eingetretene Wagnisverluste in anderen
+Kostenarten abgegolten sind, ist der Ansatz von Wagniskosten nicht
+zulässig.
 
 
 ##### Nr 49 Ermittlung der kalkulatorischen Wagniskosten
@@ -1055,15 +1036,17 @@ b)  ein Leistungsgewinn bei Vorliegen einer besonderen unternehmerischen
 #### Nr 52 Höhe der Zurechnung
 
 (1) Das Entgelt für das allgemeine Unternehmerwagnis ist in einem
-Hundertsatz vom betriebsnotwendigen Vermögen oder in einem Hundertsatz
-vom Umsatz oder in einer Summe von zwei solchen Hundertsätzen oder in
-einem festen Betrag zu bemessen. Das Bundesministerium für Wirtschaft
-und Arbeit kann hierfür Richt- oder Höchstsätze festlegen.
+Hundertsatz auf die Netto-Selbstkosten oder in einem festen Betrag zu
+bemessen. Das Bundesministerium für Wirtschaft und Energie kann
+hierfür Richt- oder Höchstsätze festlegen.
 
 (2) Ein Leistungsgewinn darf nur berechnet werden, wenn er zwischen
 Auftraggeber und Auftragnehmer vereinbart wurde.
 
 (3) Den Kostenträgern (absatzbestimmten Leistungen) ist der
-kalkulatorische Gewinn unmittelbar oder mittels einfacher Schlüssel
-zuzurechnen.
+kalkulatorische Gewinn unmittelbar zuzurechnen.
+
+(4) Ist die Höhe des Entgelts für das allgemeine Unternehmerwagnis für
+die Leistung durch die Vertragsparteien nicht bestimmt, ist der
+übliche Gewinnzuschlag im Rahmen öffentlicher Aufträge vorzusehen.
 

@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.7.2021 I 2363
+:   Art. 3 G v. 8.10.2023 I Nr. 272
+
+Änderung durch
+:   Art. 2 G v. 25.10.2023 I Nr. 294 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -1896,12 +1899,13 @@ und §§ 73 und 74 gelten entsprechend.
     Zahlungsdiensteaufsichtsgesetz und dem Wertpapierhandelsgesetz,
 
 
-3.  nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, den
-    Devisenbewirtschaftungsgesetzen sowie dem Finanzmonopol-, Steuer- und
-    Zollrecht, auch soweit dessen Strafvorschriften nach anderen Gesetzen
-    anwendbar sind; dies gilt nicht, wenn dieselbe Handlung eine Straftat
-    nach dem Betäubungsmittelgesetz darstellt, und nicht für
-    Steuerstraftaten, welche die Kraftfahrzeugsteuer betreffen,
+3.  nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, dem
+    Sanktionsdurchsetzungsgesetz, den Devisenbewirtschaftungsgesetzen
+    sowie dem Finanzmonopol-, Steuer- und Zollrecht, auch soweit dessen
+    Strafvorschriften nach anderen Gesetzen anwendbar sind; dies gilt
+    nicht, wenn dieselbe Handlung eine Straftat nach dem
+    Betäubungsmittelgesetz darstellt, und nicht für Steuerstraftaten,
+    welche die Kraftfahrzeugsteuer betreffen,
 
 
 4.  nach dem Weingesetz und dem Lebensmittelrecht,
@@ -2329,15 +2333,21 @@ gemacht wird:
 (2) Handelssachen im Sinne dieses Gesetzes sind ferner
 
 1.  die Rechtsstreitigkeiten, in denen sich die Zuständigkeit des
-    Landgerichts nach § 246 Abs. 3 Satz 1, § 396 Abs. 1 Satz 2 des
-    Aktiengesetzes, § 51 Abs. 3 Satz 3 oder nach § 81 Abs. 1 Satz 2 des
-    Genossenschaftsgesetzes, § 87 des Gesetzes gegen
+    Landgerichts nach § 246 Absatz 3 Satz 1, § 396 Absatz 1 Satz 2 des
+    Aktiengesetzes, § 51 Absatz 3 Satz 3 oder § 81 Absatz 1 Satz 2 des
+    Genossenschaftsgesetzes oder nach § 87 des Gesetzes gegen
     Wettbewerbsbeschränkungen, es sei denn, es handelt sich um
-    kartellrechtliche Auskunfts- oder Schadensersatzansprüche, und § 13
-    Abs. 4 des EU-Verbraucherschutzdurchführungsgesetzes richtet,
+    kartellrechtliche Auskunfts- oder Schadensersatzansprüche oder um
+    Auskunfts- und Schadensersatzansprüche wegen eines Verstoßes gegen die
+    Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 des Europäischen
+    Parlaments und des Rates vom 14. September 2022 über bestreitbare und
+    faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU)
+    2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte) (ABl. L 265
+    vom 12.10.2022, S. 1), und § 13 Absatz 4 des EU-
+    Verbraucherschutzdurchführungsgesetzes richtet,
 
 
-2.  die in § 71 Abs. 2 Nr. 4 Buchstabe b bis f genannten Verfahren.
+2.  die in § 71 Absatz 2 Nummer 4 Buchstabe b bis f genannten Verfahren.
 
 
 
@@ -2680,17 +2690,6 @@ Verhandlung und Entscheidung über die Rechtsmittel:
 
 
 (2) § 23b Absatz 1, 2 und 3 Satz 3 und 4 gilt entsprechend.
-
-(3) In Zivilsachen sind Oberlandesgerichte ferner zuständig für die
-Verhandlung und Entscheidung von Musterfeststellungsverfahren nach
-Buch 6 der Zivilprozessordnung im ersten Rechtszug. Ein Land, in dem
-mehrere Oberlandesgerichte errichtet sind, kann durch Rechtsverordnung
-der Landesregierung einem Oberlandesgericht die Entscheidung und
-Verhandlung für die Bezirke mehrerer Oberlandesgerichte oder dem
-Obersten Landesgericht zuweisen, sofern die Zuweisung für eine
-sachdienliche Förderung oder schnellere Erledigung der Verfahren
-zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch
-Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 119a
@@ -3892,8 +3891,8 @@ Das Gericht kann für die Verhandlung oder für einen Teil davon die
     schutzwürdige Interessen verletzt würden,
 
 
-3.  ein privates Geheimnis erörtert wird, dessen unbefugte Offenbarung
-    durch den Zeugen oder Sachverständigen mit Strafe bedroht ist,
+3.  ein privates Geheimnis erörtert wird, dessen unbefugte Offenbarung mit
+    Strafe bedroht ist,
 
 
 4.  eine Person unter 18 Jahren vernommen wird.

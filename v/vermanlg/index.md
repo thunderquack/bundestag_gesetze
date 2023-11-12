@@ -16,25 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2481
 
 Zuletzt geändert durch
-:   Art. 5 G v. 12.8.2020 I 1874
-
-Änderung durch
-:   Art. 7 Abs. 32 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 9.7.2021 I 2570 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 10.8.2021 I 3483 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 10.8.2021 I 3483
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -925,7 +907,7 @@ sofern noch keine Erfüllung eingetreten ist. Der Widerruf muss keine
 Begründung enthalten und ist in Textform gegenüber der im Nachtrag als
 Empfänger des Widerrufs bezeichneten Person zu erklären; zur
 Fristwahrung genügt die rechtzeitige Absendung. Auf die Rechtsfolgen
-des Widerrufs ist § 357a des Bürgerlichen Gesetzbuchs entsprechend
+des Widerrufs ist § 357b des Bürgerlichen Gesetzbuchs entsprechend
 anzuwenden. Der Nachtrag muss an hervorgehobener Stelle eine Belehrung
 über das Widerrufsrecht enthalten.
 
@@ -1776,14 +1758,15 @@ Handlungen erhoben werden können, bleiben unberührt.
 ## Abschnitt 3 - Rechnungslegung und Prüfung
 
 
-### § 23 Erstellung und Bekanntmachung von Jahresberichten
+### § 23 Erstellung und Offenlegung von Jahresberichten
 
 (1) Ein Emittent von Vermögensanlagen, der nicht verpflichtet ist,
 nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss
 offenzulegen, hat für den Schluss eines jeden Geschäftsjahres einen
 Jahresbericht zu erstellen und spätestens sechs Monate nach Ablauf des
-Geschäftsjahres beim Betreiber des Bundesanzeigers elektronisch
-einzureichen sowie den Anlegern auf Anforderung zur Verfügung zu
+Geschäftsjahres der das Unternehmensregister führenden Stelle
+elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln sowie den Anlegern auf Anforderung zur Verfügung zu
 stellen.
 
 (2) Der Jahresbericht besteht mindestens aus
@@ -1806,16 +1789,11 @@ stellen.
 
 
 
-(3) Der Emittent der Vermögensanlagen hat den Jahresbericht
-unverzüglich nach der elektronischen Einreichung im Bundesanzeiger
-bekannt machen zu lassen. § 325 Absatz 1 Satz 2, Absatz 2 bis 2b, 5
-und 6 sowie § 328 Absatz 1 Satz 1 bis 3, Absatz 1a bis 4 und § 329
-Absatz 1, 2 und 4 des Handelsgesetzbuchs gelten entsprechend.
+(3) § 325 Absatz 1b, 2a, 2b, 5 und 6 sowie § 328 Absatz 1 Satz 1 bis
+3, Absatz 1a bis 4 und § 329 Absatz 1, 2 und 4 des Handelsgesetzbuchs
+gelten entsprechend.
 
-(4) Die Bekanntmachung ist über die Internetseite des
-Unternehmensregisters zugänglich zu machen; die Unterlagen sind in
-entsprechender Anwendung des § 8b Absatz 3 Satz 1 Nummer 1 des
-Handelsgesetzbuchs vom Betreiber des Bundesanzeigers zu übermitteln.
+(4) (weggefallen)
 
 
 ### § 24 Inhalt von Jahresabschlüssen und Lageberichten
@@ -1829,9 +1807,10 @@ nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 des
 Handelsgesetzbuchs beizufügen; Emittenten von Vermögensanlagen haben
 den Jahresabschluss um eine Kapitalflussrechnung zu erweitern; dies
 gilt nicht für Emittenten, die die Einstufung als klein im Sinne des §
-267 des Handelsgesetzbuchs erfüllen. § 264 Absatz 1 Satz 4 Halbsatz 1,
-Absatz 3, 4 und § 264b des Handelsgesetzbuchs sind nicht anzuwenden.
-Der Lagebericht hat zusätzlich die folgenden Angaben zu enthalten:
+267 des Handelsgesetzbuchs erfüllen. § 264 Absatz 1 Satz 4 Halbsatz 1
+und Satz 5, Absatz 3, 4 und § 264b des Handelsgesetzbuchs sind nicht
+anzuwenden. Der Lagebericht hat zusätzlich die folgenden Angaben zu
+enthalten:
 
 1.  die Gesamtsumme der im abgelaufenen Geschäftsjahr gezahlten
     Vergütungen, aufgeteilt in feste und variable vom Emittenten von
@@ -2288,14 +2267,12 @@ Handelsgesetzbuchs handelt; der Höchstbetrag des § 335 Absatz 1a des
 Handelsgesetzbuchs ist unabhängig davon anzuwenden, ob die
 Gesellschaft kapitalmarktorientiert im Sinne des § 264d des
 Handelsgesetzbuchs ist. An die Stelle der Pflichten nach § 335 Absatz
-1 Satz 1 Nummer 1 und 2 des Handelsgesetzbuchs treten im Falle der
-Erstellung eines Jahresberichts die Pflichten nach § 23 Absatz 1 und 3
-dieses Gesetzes. Offenlegung im Sinne des § 325 Absatz 1 des
-Handelsgesetzbuchs sind die Einreichung und Bekanntmachung des
-Jahresberichts gemäß § 23 Absatz 1 und 3 dieses Gesetzes.
+1 Satz 1 Nummer 1 und 2 des Handelsgesetzbuchs tritt im Falle der
+Erstellung eines Jahresberichts die Pflicht nach § 23 Absatz 1.
 
-(2) Die Bundesanstalt übermittelt dem Betreiber des Bundesanzeigers
-einmal pro Halbjahr, soweit ihr diese Informationen bekannt sind,
+(2) Die Bundesanstalt übermittelt der das Unternehmensregister
+führenden Stelle einmal pro Halbjahr, soweit ihr diese Informationen
+bekannt sind,
 
 1.  Name und Anschrift der Emittenten von Vermögensanlagen sowie im Fall
     mehrerer Vermögensanlagen desselben Emittenten auch die konkrete
@@ -2332,9 +2309,10 @@ und 2 verhängt worden sind.
 
 (4) Die Bundesanstalt kann die der Verhängung eines unanfechtbaren
 Ordnungsgeldes nach den Absätzen 1 und 2 gegen einen Emittenten von
-Vermögensanlagen im Sinne des Satzes 1 zugrunde liegenden Tatsachen im
-Bundesanzeiger öffentlich bekannt machen, soweit dies zur Beseitigung
-oder Verhinderung von Missständen geboten ist.
+Vermögensanlagen im Sinne des Satzes 1 zugrunde liegenden Tatsachen
+der das Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister übermitteln, soweit dies zur Beseitigung oder
+Verhinderung von Missständen geboten ist.
 
 
 ### § 32 Übergangsvorschriften
@@ -2520,4 +2498,11 @@ Informationsblatts weiterhin anzuwenden.
 Anlegerschutzes vom 9. Juli 2021 (BGBl. I S. 2570) ist erstmals auf
 Jahresabschlüsse und Lageberichte für das nach dem 31. Dezember 2020
 beginnende Geschäftsjahr anzuwenden.
+
+(19) Die §§ 23 und 31 in der ab dem 1. August 2022 geltenden Fassung
+sind erstmals auf Jahresberichte für das nach dem 31. Dezember 2021
+beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten
+Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung
+sind letztmals anzuwenden auf Jahresberichte für das vor dem 1. Januar
+2022 beginnende Geschäftsjahr.
 

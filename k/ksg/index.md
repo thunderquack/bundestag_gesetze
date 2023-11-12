@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2513
 
-Änderung durch
-:   Art. 1 G v. 18.8.2021 I 3905 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 18.8.2021 I 3905
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -259,7 +259,6 @@ Jahresemissionsmengen und jährlichen Minderungsziele sind verbindlich,
 soweit dieses Gesetz auf sie Bezug nimmt. Subjektive Rechte und
 klagbare Rechtspositionen werden durch dieses Gesetz oder aufgrund
 dieses Gesetzes nicht begründet.
-
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, die Zuordnung von

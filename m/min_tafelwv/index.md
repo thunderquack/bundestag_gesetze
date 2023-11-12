@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 1036
 
 Zuletzt geändert durch
-:   Art. 25 V v. 5.7.2017 I 2272
+:   Art. 2 V v. 20.6.2023 I Nr. 159
 
 
 ## Eingangsformel
@@ -502,7 +502,7 @@ angereicherten Tafelwasser zugesetzt werden.
 
 (2) (weggefallen)
 
-(3) Tafelwasser darf nur so hergestellt werden, daß die in § 6 in
+(3) Tafelwasser darf nur so hergestellt werden, daß die in § 7 in
 Verbindung mit Anlage 2 der Trinkwasserverordnung für Trinkwasser
 festgelegten Grenzwerte für chemische Stoffe eingehalten sind.
 
@@ -529,7 +529,7 @@ entspricht.
 Fertigpackungen nur am Quellort abgefüllt werden.
 
 
-### § 13 Mikrobiologische Anforderungen
+### § 13 Mikrobiologische Anforderungen, Anforderungen hinsichtlich Indikatorparametern und sonstige Anforderungen
 
 (1) Für Quellwasser und Tafelwasser gilt § 4 Abs. 1 Satz 1 und 2
 entsprechend. Bei Quellwasser und Tafelwasser, das in zur Abgabe an
@@ -540,6 +540,32 @@ sein. Für Quellwasser gilt darüber hinaus § 4 Abs. 2 entsprechend.
 (2) Zur Feststellung, ob die Bestimmungen des Absatzes 1 eingehalten
 werden, sind die in der Anlage 2 angegebenen Untersuchungsverfahren
 anzuwenden.
+
+(3) Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte
+Fertigpackungen abgefüllt wird, muss am Punkt der Abfüllung
+
+1.  die mikrobiologischen Anforderungen nach Anlage 7 Teil A einhalten und
+
+
+2.  die Anforderungen hinsichtlich der Indikatorparameter nach Anlage 7
+    Teil B einhalten.
+
+
+
+
+(4) Trinkwasser darf nicht in zur Abgabe an den Endverbraucher
+bestimmte Fertigpackungen abgefüllt werden, wenn
+
+1.  für das Trinkwasser eine Abweichung für chemische Parameter nach § 66
+    Absatz 1 der Trinkwasserverordnung zugelassen wurde oder
+
+
+2.  das Trinkwasser am Punkt der Abfüllung nicht den mikrobiologischen
+    Anforderungen und den Anforderungen hinsichtlich der
+    Indikatorparameter nach Absatz 3 entspricht.
+
+
+
 
 
 ### § 14 Kennzeichnung
@@ -707,7 +733,10 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 
 9.  Quellwasser, das nach § 12 Abs. 2 nicht gewonnen oder abgefüllt werden
-    darf.
+    darf,
+
+
+10. Trinkwasser, das nach § 13 Absatz 4 nicht abgefüllt werden darf.
 
 
 
@@ -1771,3 +1800,108 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 13 Absatz 3)
+
+### Anlage 7 Mikrobiologische Anforderungen und Anforderungen hinsichtlich Indikatorparametern für Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte Fertigpackungen abgefüllt wird
+
+(Fundstelle: BGBl. 2023 I Nr. 159, 62)
+
+## Teil A: Mikrobiologische Anforderungen
+
+
+*    *   Parameter
+
+    *   Einheit als
+
+    *[^F826103_03_BJNR010360984BJNE003800130]
+   Grenzwert/Anforderung
+
+    *   Referenzmethode
+
+
+*    *   Escherichia coli (E. coli)
+
+    *   Anzahl/250 ml
+
+    *   0
+
+    *   DIN EN ISO 9308-1:2017-09
+        DIN EN ISO 9308-2:2014-06
+
+
+*    *   Intestinale Enterokokken
+
+    *   Anzahl/250 ml
+
+    *   0
+
+    *   DIN EN ISO 7899-2:2000-11
+
+
+*    *   Pseudomonas aeruginosa
+
+    *   Anzahl/250 ml
+
+    *   0
+
+    *   DIN EN ISO 16266:2008-05
+
+
+
+## Teil B: Indikatorparameter
+
+
+*    *   Parameter
+
+    *   Einheit als
+
+    *[^F826103_04_BJNR010360984BJNE003800130]
+   Grenzwert/Anforderung
+
+    *   Bemerkungen
+
+
+*    *   Wasserstoffionenkonzentration
+
+    *   pH-Einheiten
+
+    *   *                      4,5 und*                      9,5
+
+    *   Für Wasser, das von Natur aus kohlensäurehaltig ist oder das mit
+        Kohlensäure versetzt wurde, kann der Mindestwert niedriger liegen.
+
+
+*    *   Coliforme Bakterien
+
+    *   Anzahl/250 ml
+
+    *   0
+
+    *   DIN EN ISO 9308-1:2017-09
+        DIN EN ISO 9308-2:2014-06
+
+
+*    *   Koloniezahl bei 22 °C
+
+    *   Anzahl/ml
+
+    *   100
+
+    *   DIN EN ISO 6222:1999-07
+
+
+*    *   Koloniezahl bei 36 °C
+
+    *   Anzahl/ml
+
+    *   20
+
+    *   DIN EN ISO 6222:1999-07
+
+
+
+    Die festgelegten Werte berücksichtigen die Messunsicherheiten der
+    Analyseverfahren und der Probenahmeverfahren.
+[^F826103_03_BJNR010360984BJNE003800130]:     Die festgelegten Werte berücksichtigen die Messunsicherheiten der
+    Analyseverfahren und der Probenahmeverfahren.
+[^F826103_04_BJNR010360984BJNE003800130]: 

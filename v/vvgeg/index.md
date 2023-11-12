@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1908, 305
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 51 G v. 1.4.2015 I 434
-
-Änderung durch
-:   Art. 4 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 9.6.2021 I 1666
 
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
@@ -185,15 +182,15 @@ zu informieren; der Widerspruch muss innerhalb von sechs Monaten nach
 Zugang des Hinweises beim Versicherer eingehen.
 
 
-## (XXXX) Art 9 bis 15 (weggefallen)
-
-
-
-## Artikel 8 Musterwiderrufsbelehrung
+## Art 8 Musterwiderrufsbelehrung
 
 Das Muster in der Anlage des Versicherungsvertragsgesetzes in der bis
 einschließlich 14. Juni 2021 geltenden Fassung kann noch bis zum
 Ablauf des 31. Dezember 2021 verwendet werden. In diesem Fall ist § 8
 des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni
 2021 geltenden Fassung anzuwenden.
+
+
+## (XXXX) Art 9 bis 15 (weggefallen)
+
 

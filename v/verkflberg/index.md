@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2716
 
 Zuletzt geändert durch
-:   Art. 22 G v. 23.7.2013 I 2586
-
-Änderung durch
-:   Art. 3 Abs. 2 G v. 2.6.2021 I 1278 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 2 G v. 2.6.2021 I 1278
 
 
 ## § 1 Anwendungsbereich

@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2446 (2019 I 1113)
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 8 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 7 Abs. 35 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 25.6.2021 I 2083 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 26 G v. 8.10.2023 I Nr. 272
 
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
@@ -448,6 +439,29 @@ Zahlungsinstrument zur Auslösung und Verarbeitung der Zahlungsvorgänge
 des Zahlers zur Verfügung zu stellen.
 
 
+#### § 1a Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft
+gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind
+oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen.
+Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie
+als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer
+Position für eine Person oder Personengesellschaft nach Satz 1 tätig
+ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person
+gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen
+einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines
+Aufsichts- oder Verwaltungsrats oder eines vergleichbaren
+Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1
+fällt.
+
+
 #### § 2 Ausnahmen; Verordnungsermächtigung
 
 (1) Als Zahlungsdienste gelten nicht
@@ -799,13 +813,20 @@ Kreditwesengesetzes gelten entsprechend.
 #### § 6 Verschwiegenheitspflicht
 
 Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die
-nach diesem Gesetz bestellten Aufsichtspersonen und Abwickler und die
-nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes
-beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt
-gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts,
-Zahlungsdienstleisters oder E-Geld-Emittenten, der zuständigen
-Behörden oder eines Dritten liegt, insbesondere Geschäfts- und
-Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten. § 9 des
+nach diesem Gesetz bestellten Abwickler, die nach § 20 Absatz 2 in
+Verbindung mit § 45c des Kreditwesengesetzes bestellten
+Sonderbeauftragten, die gerichtlich bestellten Treuhänder nach § 14
+Absatz 1 Satz 2 in Verbindung mit § 2c Absatz 2 Satz 2 des
+Kreditwesengesetzes und die nach § 4 Absatz 3 des
+Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen
+die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren
+Geheimhaltung im Interesse des Instituts, Zahlungsdienstleisters oder
+E-Geld-Emittenten, der zuständigen Behörden oder eines Dritten liegt,
+insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt
+offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind
+oder ihre Tätigkeit beendet ist. Diese Verschwiegenheitspflicht
+besteht auch, sofern ihnen Tatsachen im Rahmen der Anbahnung einer
+Beauftragung oder Bestellung anvertraut werden. § 9 des
 Kreditwesengesetzes gilt entsprechend.
 
 
@@ -1165,6 +1186,11 @@ Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
 Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
 soweit die Sicherheit informationstechnischer Systeme betroffen ist.
 
+(9) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer
+Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
+juristische Person, die nach Absatz 1 erlaubnispflichtige Geschäfte
+betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
+
 
 #### § 11 Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung
 
@@ -1271,6 +1297,11 @@ Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
 Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
 Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
 soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+
+(7) Die Absätze 1 bis 5 finden auch dann Anwendung, wenn im Zuge einer
+Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
+juristische Person, die nach Absatz 1 erlaubnispflichtige Geschäfte
+betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
 
 #### § 12 Versagung der Erlaubnis
@@ -1396,7 +1427,10 @@ des E-Geld-Geschäfts ist zu versagen, wenn
 
 (1) Die Erlaubnis eines Instituts erlischt, wenn das Institut von ihr
 nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder
-wenn es ausdrücklich auf sie verzichtet.
+wenn es ausdrücklich auf sie verzichtet. Die Erlaubnis erlischt auch
+dann, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des
+Umwandlungsgesetzes ein als juristische Person verfasstes Institut
+seinen juristischen Sitz ins Ausland verlegt.
 
 (2) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften
 des Verwaltungsverfahrensgesetzes aufheben, wenn
@@ -1757,11 +1791,8 @@ Verpflichteten nach § 2 Absatz 1 des Geldwäschegesetzes untersagen.
 Die Anordnung nach Satz 2 kann die Bundesanstalt auch gegenüber jeder
 anderen Person treffen, die für den Verstoß verantwortlich ist.
 
-(2) Die Bundesanstalt kann unter den Voraussetzungen des Absatzes 1
-Befugnisse, die Organen des Instituts zustehen, ganz oder teilweise
-auf einen Sonderbeauftragten übertragen, der zur Wahrung der
-Befugnisse geeignet erscheint. § 45c Absatz 6 und 7 des
-Kreditwesengesetzes gilt entsprechend.
+(2) Die Bundesanstalt kann einen Sonderbeauftragten bestellen. § 45c
+des Kreditwesengesetzes gilt entsprechend.
 
 (2a) Die Aufsichtsbehörde kann einen Geschäftsleiter verwarnen, wenn
 dieser gegen die Bestimmungen dieses Gesetzes, des Geldwäschegesetzes
@@ -1830,14 +1861,11 @@ begründete Verdacht, dass eine wirksame Aufsicht über das Institut
 nicht möglich ist, kann die Bundesanstalt zur Abwendung dieser
 Gefahren einstweilige Maßnahmen treffen. Sie kann insbesondere
 
-1.  Anweisungen für die Geschäftsführung des Instituts erlassen,
+1.  Anweisungen für die Geschäftsführung des Instituts erlassen und
 
 
 2.  Inhabern und Geschäftsleitern die Ausübung ihrer Tätigkeit untersagen
-    oder beschränken und
-
-
-3.  Aufsichtspersonen bestellen.
+    oder beschränken.
 
 
 
@@ -1861,8 +1889,8 @@ Vermeidung der Erlaubnisaufhebung vorübergehend
 
 
 
-§ 45c Absatz 2 Nummer 8, Absatz 6 und 7, § 46 Absatz 1 Satz 3 bis 6
-sowie § 46c des Kreditwesengesetzes gelten entsprechend.
+§ 46 Absatz 1 Satz 3 bis 6 sowie § 46c des Kreditwesengesetzes gelten
+entsprechend.
 
 (4) Wird ein Institut zahlungsunfähig oder tritt Überschuldung ein, so
 haben die Geschäftsleiter dies der Bundesanstalt unter Beifügung
@@ -2668,6 +2696,12 @@ Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
 Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
 soweit die Sicherheit informationstechnischer Systeme betroffen ist.
 
+(8) Die Absätze 1 bis 6 finden auch dann Anwendung, wenn im Zuge einer
+Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
+juristische Person, die nach Absatz 1 registrierungspflichtige
+Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland
+verlegt.
+
 
 ### § 35 Versagung der Registrierung
 
@@ -2750,7 +2784,10 @@ anzuhören.
 (1) Die Registrierung erlischt, wenn der
 Kontoinformationsdienstleister von ihr nicht innerhalb eines Jahres
 seit ihrer Erteilung Gebrauch macht oder wenn er ausdrücklich auf sie
-verzichtet.
+verzichtet. Die Registrierung erlischt auch dann, wenn im Zuge einer
+Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ein
+als juristische Person verfasster Kontoinformationsdienstleister
+seinen juristischen Sitz ins Ausland verlegt.
 
 (2) Die Bundesanstalt kann die Registrierung außer nach den
 Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
@@ -3715,8 +3752,8 @@ einlegen. Beschwerdebefugte Stellen sind:
 1.  die Industrie- und Handelskammern;
 
 
-2.  qualifizierte Einrichtungen nach § 3 Absatz 1 Nummer 1 des
-    Unterlassungsklagengesetzes;
+2.  Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des
+    Unterlassungsklagengesetzes und
 
 
 3.  rechtsfähige Verbände zur Förderung gewerblicher Interessen,

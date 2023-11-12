@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2140
 
+Änderung durch
+:   Art. 27 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: §§ 11 bis 20 treten gem. § 27 Abs. 1 Satz 1 dieser V am 17.9.2016 in Kraft
 
 ## Eingangsformel
@@ -170,11 +173,16 @@ ab, wenn
     durch Sachurteil über die Streitigkeit entschieden hat,
 
 
-7.  die Streitigkeit durch Vergleich oder in anderer Weise beigelegt wurde
+7.  die Ansprüche oder Rechtsverhältnisse, die Gegenstand der Streitigkeit
+    sind, zu einer Verbandsklage im Verbandsklageregister angemeldet
+    wurden und die Klage noch rechtshängig ist,
+
+
+8.  die Streitigkeit durch Vergleich oder in anderer Weise beigelegt wurde
     oder
 
 
-8.  der Anspruch, der Gegenstand der Streitigkeit ist, verjährt ist und
+9.  der Anspruch, der Gegenstand der Streitigkeit ist, verjährt ist und
     der Antragsgegner die Einrede der Verjährung erhoben hat.
 
 
@@ -229,11 +237,16 @@ Unterlagen beizufügen. Der Antragsteller hat zu versichern, dass
     anhängig ist,
 
 
-4.  die Streitigkeit weder durch Vergleich noch in anderer Weise beigelegt
+4.  die Ansprüche oder Rechtsverhältnisse, die Gegenstand der Streitigkeit
+    sind, nicht zu einer noch rechtshängigen Verbandsklage im
+    Verbandsklageregister angemeldet sind,
+
+
+5.  die Streitigkeit weder durch Vergleich noch in anderer Weise beigelegt
     wurde und
 
 
-5.  wegen der Streitigkeit ein Antrag auf Bewilligung von
+6.  wegen der Streitigkeit ein Antrag auf Bewilligung von
     Prozesskostenhilfe nicht abgelehnt worden ist, weil die beabsichtigte
     Rechtsverfolgung keine hinreichende Aussicht auf Erfolg bot oder
     mutwillig erschien.
@@ -346,10 +359,7 @@ Beteiligten das Ergebnis des Schlichtungsverfahrens unter Angabe der
 Beteiligten und des Verfahrensgegenstands in Textform mit. In der
 Mitteilung ist das Ergebnis des Schlichtungsverfahrens zu erläutern.
 Mit dieser Mitteilung ist das Verfahren bei der
-Verbraucherschlichtungsstelle beendet. Wurde die Streitigkeit nicht
-beigelegt, ist die Mitteilung als „Bescheinigung über einen
-erfolglosen Einigungsversuch nach § 15a Absatz 1 Satz 2 des Gesetzes
-betreffend die Einführung der Zivilprozessordnung“ zu bezeichnen.
+Verbraucherschlichtungsstelle beendet.
 
 
 ### § 10 Kosten des Verfahrens
@@ -364,6 +374,27 @@ Schlichtungsverfahrens nach § 6 ab oder gibt den Antrag nach § 24
 Absatz 1 an eine andere Verbraucherschlichtungsstelle ab. Die Gebühr
 kann auf Antrag des Unternehmens erlassen oder gemindert werden, wenn
 die Erhebung der Gebühr ganz oder teilweise unangemessen wäre.
+
+
+### § 10a Bescheinigung über einen erfolglosen Schlichtungsversuch
+
+Auf Antrag eines Beteiligten hat die Geschäftsstelle eine
+Bescheinigung über einen erfolglosen Schlichtungsversuch nach § 15a
+Absatz 1 Satz 2 des Gesetzes, betreffend die Einführung der
+Zivilprozessordnung auszustellen, wenn ein Schlichtungsverfahren
+durchgeführt wurde, aber die Streitigkeit nicht beigelegt werden
+konnte. Die Bescheinigung hat folgende Angaben zu enthalten:
+
+1.  die Namen und Anschriften der Beteiligten,
+
+
+2.  eine kurze Darstellung des Gegenstands des Schlichtungsverfahrens und
+
+
+3.  den Zeitpunkt der Beendigung des Schlichtungsverfahrens.
+
+
+
 
 
 ## Abschnitt 2 - Anerkannte Verbraucherschlichtungsstellen

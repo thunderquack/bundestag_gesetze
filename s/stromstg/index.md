@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 378 (2000 I 147)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 30.3.2021 I 607
+:   Art. 2 G v. 19.12.2022 I 2483
 
 
 ## § 1 Steuergegenstand, Steuergebiet
@@ -183,8 +183,8 @@ Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets
 beziehen will, bedarf der Erlaubnis. Einer Erlaubnis als Eigenerzeuger
 bedarf es nicht, wenn der Eigenerzeuger Inhaber einer Erlaubnis als
 Versorger ist oder soweit der Eigenerzeuger Strom zum Selbstverbrauch
-entnimmt, der nach § 9 Abs. 1 Nr. 3 Buchstabe a, Nr. 4 oder Nr. 5 von
-der Steuer befreit ist.
+entnimmt, der nach § 9 Absatz 1 Nummer 3 Buchstabe a, Nummer 4, 5 oder
+Nummer 6 von der Steuer befreit ist.
 
 (2) Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen
 erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken
@@ -213,16 +213,8 @@ dem Versorgungsnetz Strom zum Selbstverbrauch entnimmt. Bei
 Eigenerzeugern entsteht die Steuer vorbehaltlich Satz 1 mit der
 Entnahme von Strom zum Selbstverbrauch im Steuergebiet.
 
-(1a) Die Steuer entsteht nicht, wenn
-
-1.  Strom nach diesem Gesetz von der Steuer befreit ist oder
-
-
-2.  die Voraussetzungen für eine der in § 11 Nummer 12 oder 14 genannten
-    Steuerbefreiungen vorliegen.
-
-
-
+(1a) Die Steuer entsteht nicht, wenn Strom nach diesem Gesetz von der
+Steuer befreit ist.
 
 (2) Steuerschuldner ist in den Fällen des Absatzes 1 Satz 1 der
 Versorger und im Falle des Absatzes 1 Satz 2 der Eigenerzeuger.
@@ -396,7 +388,42 @@ Gefährdung der Steuer erkennbar sind.
     zwei Megawatt erzeugt und am Ort der Erzeugung verwendet wird, sofern
     die Anlagen weder mittel- noch unmittelbar an das Netz der allgemeinen
     Versorgung mit Strom angeschlossen sind und zur Stromerzeugung
-    nachweislich versteuerte Energieerzeugnisse eingesetzt werden.
+    nachweislich versteuerte Energieerzeugnisse eingesetzt werden;
+
+
+7.  Strom, für den bei der Entnahme die Voraussetzungen vorliegen nach
+
+    a)  Artikel XI des Abkommens vom 19. Juni 1951 zwischen den Parteien des
+        Nordatlantikvertrags über die Rechtsstellung ihrer Truppen (BGBl. 1961
+        II S. 1183, 1190) in der jeweils geltenden Fassung und den Artikeln 65
+        bis 67 des Zusatzabkommens vom 3. August 1959 zu dem Abkommen vom 19.
+        Juni 1951 zwischen den Parteien des Nordatlantikvertrages über die
+        Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik
+        Deutschland stationierten ausländischen Truppen (BGBl. 1961 II S.
+        1183, 1218) in der jeweils geltenden Fassung,
+
+
+    b)  Artikel 15 des Abkommens vom 13. März 1967 zwischen der Bundesrepublik
+        Deutschland und dem Obersten Hauptquartier der Alliierten Mächte,
+        Europa, über die besonderen Bedingungen für die Einrichtung und den
+        Betrieb internationaler militärischer Hauptquartiere in der
+        Bundesrepublik Deutschland (BGBl. 1969 II S. 1997, 2009) in der
+        jeweils geltenden Fassung und
+
+
+    c)  den Artikeln III bis V des Abkommens zwischen der Bundesrepublik
+        Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober
+        1954 über die von der Bundesrepublik Deutschland zu gewährenden
+        Abgabenvergünstigungen für die von den Vereinigten Staaten im
+        Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (BGBl.
+        1955 II S. 821, 823) in der jeweils geltenden Fassung;
+
+
+
+
+
+8.  Strom, der von in internationalen Übereinkommen vorgesehenen
+    internationalen Einrichtungen entnommen wird.
 
 
 
@@ -585,24 +612,72 @@ Auslaufen der Freistellungsanzeige ist vom Bundesministerium der
 Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
+## § 9d Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+
+(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
+nach § 3 versteuerten Strom, der durch die ausländischen Streitkräfte
+oder Hauptquartiere entnommen worden ist und der nicht von der Steuer
+befreit ist. Artikel 67 Absatz 3 Buchstabe a Ziffer i des
+Zusatzabkommens vom 3. August 1959, Artikel 15 des Abkommens vom 13.
+März 1967 und Artikel III des Abkommens vom 15. Oktober 1954 gelten
+auch für diese Steuerentlastung.
+
+(2) Entlastungsberechtigt ist derjenige, der den Strom unmittelbar zu
+dem begünstigten Zweck geleistet hat.
+
+(3) Der Leistung von Strom steht die Entnahme von Strom zur Erzeugung
+von Wärme zur Lieferung an den begünstigten Personenkreis nach Absatz
+1 gleich. Entlastungsberechtigt ist der Lieferer, der den Strom zur
+Erzeugung von Wärme unmittelbar entnommen hat.
+
+(4) Ausländische Streitkräfte, Hauptquartiere und Mitglieder der
+ausländischen Streitkräfte oder der Hauptquartiere sind solche im Sinn
+des Truppenzollgesetzes vom 19. Mai 2009 (BGBl. I S. 1090), das durch
+Artikel 8 des Gesetzes vom 15. Juli 2009 (BGBl. I S. 1870) geändert
+worden ist, in der jeweils geltenden Fassung.
+
+
+## § 9e Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
+
+(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
+nach § 3 versteuerten Strom, der
+
+1.  durch ausländische Streitkräfte eines anderen Mitgliedstaats der
+    Europäischen Union oder ihr ziviles Begleitpersonal entnommen worden
+    ist oder
+
+
+2.  für die Versorgung ihrer Kasinos oder Kantinen entnommen worden ist,
+
+
+
+wenn diese Streitkräfte im Steuergebiet an einer
+Verteidigungsanstrengung teilnehmen, die zur Durchführung einer
+Tätigkeit der Europäischen Union im Zusammenhang mit der Gemeinsamen
+Sicherheits- und Verteidigungspolitik unternommen wird.
+
+(2) Entlastungsberechtigt ist derjenige, der den Strom unmittelbar zu
+dem begünstigten Zweck geleistet hat.
+
+
 ## § 10 Erlass, Erstattung oder Vergütung in Sonderfällen
 
 (1) Die Steuer für nachweislich versteuerten Strom, den ein
 Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke,
 ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat,
-wird auf Antrag nach Maßgabe der Absätze 2 bis 8 erlassen, erstattet
-oder vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000
-Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei
-abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme,
-Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird
-jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten
-Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden
-Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer
-auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet
-oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das
-Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
-Die Steuerentlastung wird nicht für Strom gewährt, der für
-Elektromobilität verwendet wird.
+wird auf Antrag nach Maßgabe der nachfolgenden Absätze erlassen,
+erstattet oder vergütet, soweit die Steuer im Kalenderjahr den Betrag
+von 1 000 Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung
+wird dabei abgezogen. Die Steuer für Strom, der zur Erzeugung von
+Licht, Wärme, Kälte, Druckluft und mechanischer Energie entnommen
+worden ist, wird jedoch nur erlassen, erstattet oder vergütet, soweit
+die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des
+Produzierenden Gewerbes genutzt worden sind. Abweichend von Satz 3
+wird die Steuer auch in dem in § 9b Absatz 1 Satz 3 genannten Fall
+erlassen, erstattet oder vergütet. Erlass-, erstattungs- oder
+vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes,
+das den Strom entnommen hat. Die Steuerentlastung wird nicht für Strom
+gewährt, der für Elektromobilität verwendet wird.
 
 (1a) (weggefallen)
 
@@ -701,10 +776,17 @@ vergütet
         Verordnung (EG) Nr. 1221/2009 registriert worden ist, und
 
 
-    b)  die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind.
+    b)  die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 erfüllt sind,
 
 
 
+
+
+3.  für das Antragsjahr 2023, wenn das Unternehmen nachweist, dass es im
+    Antragsjahr die Voraussetzungen nach Absatz 3 Satz 1 Nummer 1 erfüllt
+    und mit dem Antrag die Bereitschaft erklärt, alle in dem jeweiligen
+    System des Absatzes 3 Satz 1 Nummer 1 als wirtschaftlich vorteilhaft
+    identifizierten Endenergieeinsparmaßnahmen umzusetzen.
 
 
 
@@ -729,6 +811,7 @@ nicht durch Umwandlung im Sinn des Umwandlungsgesetzes vom 28. Oktober
 1994 (BGBl. I S. 3210; 1995 I S. 428), das zuletzt durch Artikel 2
 Absatz 48 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044)
 geändert worden ist, in der jeweils geltenden Fassung entstanden sind.
+Satz 1 Nummer 2 gilt nicht für das Antragsjahr 2023.
 
 (6) Stellt die Bundesregierung fest, dass der nach der Anlage zu § 10
 für das Antragsjahr vorgesehene Zielwert für eine Reduzierung der
@@ -862,7 +945,9 @@ dieses Gesetzes durch Rechtsverordnung
 
 
 4.  die Zuordnung von Unternehmen zu einem Abschnitt oder einer Klasse der
-    Klassifikation der Wirtschaftszweige zu regeln (§ 2 Nr. 3 und 5);
+    Klassifikation der Wirtschaftszweige (§ 2 Nummer 3 und 5) auch
+    abweichend von den Zuordnungsregelungen der Klassifikation der
+    Wirtschaftszweige zu regeln;
 
 
 5.  zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der
@@ -969,40 +1054,7 @@ dieses Gesetzes durch Rechtsverordnung
     nur mit unvertretbarem Aufwand möglich ist;
 
 
-12. Bestimmungen zu erlassen zur Umsetzung der Steuerbefreiungen nach
-
-    a)  Artikel XI des Abkommens vom 19. Juni 1951 zwischen den Parteien des
-        Nordatlantikvertrages über die Rechtsstellung ihrer Truppen (BGBl.
-        1961 II S. 1183, 1190) in der jeweils geltenden Fassung und den
-        Artikeln 65 bis 67 des Zusatzabkommens vom 3. August 1959 zu dem
-        Abkommen vom 19. Juni 1951 zwischen den Parteien des
-        Nordatlantikvertrages über die Rechtsstellung ihrer Truppen
-        hinsichtlich der in der Bundesrepublik Deutschland stationierten
-        ausländischen Truppen (BGBl. 1961 II S. 1183, 1218) in der jeweils
-        geltenden Fassung,
-
-
-    b)  Artikel 15 des Abkommens vom 13. März 1967 zwischen der Bundesrepublik
-        Deutschland und dem Obersten Hauptquartier der Alliierten Mächte,
-        Europa, über die besonderen Bedingungen für die Einrichtung und den
-        Betrieb internationaler militärischer Hauptquartiere in der
-        Bundesrepublik Deutschland (BGBl. 1969 II S. 1997, 2009) in der
-        jeweils geltenden Fassung und
-
-
-    c)  den Artikeln III bis V des Abkommens zwischen der Bundesrepublik
-        Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober
-        1954 über die von der Bundesrepublik zu gewährenden
-        Abgabenvergünstigungen für die von den Vereinigten Staaten im
-        Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (BGBl.
-        1955 II S. 821, 823) in der jeweils geltenden Fassung.
-
-
-
-
-
-*   Dabei kann es anordnen, dass bei einem Missbrauch für alle daran
-    Beteiligten die Steuer entsteht;
+12. (weggefallen)
 
 
 13. zur Umsetzung der sich aus Durchführungsverordnungen des Rates auf
@@ -1053,8 +1105,9 @@ dieses Gesetzes durch Rechtsverordnung
 14. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der
     Besteuerung, zur Verfahrenserleichterung und zur Vermeidung
     unangemessener wirtschaftlicher Belastungen Bestimmungen in Bezug auf
-    die steuerliche Begünstigung internationaler Einrichtungen und derer
-    Mitglieder zu erlassen und dabei insbesondere
+    die steuerliche Begünstigung der in § 9 Absatz 1 Nummer 8 genannten
+    internationalen Einrichtungen und von deren Mitgliedern zu erlassen
+    und dabei insbesondere
 
     a)  die Voraussetzungen für die Gewährung einer Steuerbefreiung
         einschließlich der Begriffe näher zu bestimmen, das Verfahren der

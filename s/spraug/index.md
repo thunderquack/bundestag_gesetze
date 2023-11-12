@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2312, 2316
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.12.2021 I 5162
+:   Art. 6e G v. 16.9.2022 I 1454
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1027,13 +1027,9 @@ insbesondere über
 
 ### § 39 Sonderregelung aus Anlass der COVID-19-Pandemie
 
-(1) Eine Versammlung nach § 15 kann bis zum Ablauf des 19. März 2022
-auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn
+Eine Versammlung nach § 15 kann bis zum Ablauf des 7. April 2023 auch
+mittels audiovisueller Einrichtungen durchgeführt werden, wenn
 sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis
 von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist
 unzulässig.
-
-(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
-drei Monate verlängern.
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 5.10.2021 I 4607
+:   Art. 18 G v. 8.10.2023 I Nr. 272
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -172,14 +172,16 @@ sind eigene Kammern zu bilden. Zu diesen Streitigkeiten gehören auch
     liegen, und
 
 
-3.  Klagen aufgrund von Verträgen nach den §§ 73b und 73c des Fünften
-    Buches Sozialgesetzbuch sowie Klagen im Zusammenhang mit der Teilnahme
-    an der vertragsärztlichen Versorgung aufgrund von Ermächtigungen nach
-    den §§ 116, 116a und 117 bis 119b des Fünften Buches Sozialgesetzbuch,
-    Klagen wegen der Vergütung nach § 120 des Fünften Buches
-    Sozialgesetzbuch sowie Klagen aufgrund von Verträgen nach § 140a des
-    Fünften Buches Sozialgesetzbuch, soweit es um die Bereinigung der
-    Gesamtvergütung nach § 140d des Fünften Buches Sozialgesetzbuch geht.
+3.  Klagen aufgrund von Verträgen nach § 73b des Fünften Buches
+    Sozialgesetzbuch und § 73c des Fünften Buches Sozialgesetzbuch in der
+    am 22. Juli 2015 geltenden Fassung sowie Klagen im Zusammenhang mit
+    der Teilnahme an der vertragsärztlichen Versorgung aufgrund von
+    Ermächtigungen nach den §§ 116, 116a und 117 bis 119c des Fünften
+    Buches Sozialgesetzbuch, Klagen wegen der Vergütung nach § 120 des
+    Fünften Buches Sozialgesetzbuch sowie Klagen aufgrund von Verträgen
+    nach § 140a des Fünften Buches Sozialgesetzbuch, soweit es um die
+    Bereinigung der Gesamtvergütung nach § 140d des Fünften Buches
+    Sozialgesetzbuch geht.
 
 
 
@@ -637,17 +639,20 @@ Entscheidungen der Sozialgerichte.
     Beanstandungen von Entscheidungen der Landesschiedsämter und der
     sektorenübergreifenden Schiedsgremien auf Landesebene nach dem Fünften
     Buch Sozialgesetzbuch, gegen Entscheidungen der Schiedsstellen nach §
-    120 Absatz 4 des Fünften Buches Sozialgesetzbuch, der Schiedsstellen
+    75 Absatz 3c, § 111b Absatz 6, § 120 Absatz 4, § 132a Absatz 3 und §
+    132l Absatz 4 des Fünften Buches Sozialgesetzbuch, der Schiedsstellen
     nach § 133 des Neunten Buches Sozialgesetzbuch, der Schiedsstelle nach
-    § 76 des Elften Buches Sozialgesetzbuch und der Schiedsstellen nach §
-    81 des Zwölften Buches Sozialgesetzbuch,
+    § 76 des Elften Buches Sozialgesetzbuch und des Schiedsgremiums nach §
+    113c Absatz 4 des Elften Buches Sozialgesetzbuch und der
+    Schiedsstellen nach § 81 des Zwölften Buches Sozialgesetzbuch,
 
 
 2.  Aufsichtsangelegenheiten gegenüber Trägern der Sozialversicherung und
     ihren Verbänden, gegenüber den Kassenärztlichen und
-    Kassenzahnärztlichen Vereinigungen sowie der Kassenärztlichen und
-    Kassenzahnärztlichen Bundesvereinigung, bei denen die Aufsicht von
-    einer Landes- oder Bundesbehörde ausgeübt wird,
+    Kassenzahnärztlichen Vereinigungen, gegenüber der Kassenärztlichen und
+    Kassenzahnärztlichen Bundesvereinigung und den Medizinischen Diensten
+    sowie dem Medizinischen Dienst Bund, bei denen die Aufsicht von einer
+    Landes- oder Bundesbehörde ausgeübt wird,
 
 
 3.  Klagen in Angelegenheiten der Erstattung von Aufwendungen nach § 6b
@@ -715,14 +720,25 @@ Rechtszug über
     Bundesausschuss, Klagen gegen die Festsetzung von Festbeträgen durch
     die Spitzenverbände der Krankenkassen oder den Spitzenverband Bund der
     Krankenkassen, Klagen gegen Entscheidungen der Schiedsstellen nach den
-    §§ 129, 130b und 134 des Fünften Buches Sozialgesetzbuch sowie Klagen
-    gegen Entscheidungen des Schlichtungsausschusses Bund nach § 19 des
+    §§ 125, 129, 130b, 131, 134, 134a des Fünften Buches Sozialgesetzbuch
+    und der Schlichtungsstelle nach § 319 des Fünften Buches
+    Sozialgesetzbuch sowie Klagen gegen Entscheidungen des
+    Schlichtungsausschusses Bund nach § 19 des
     Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom
     10\. April 1991 (BGBl. I S. 886), das zuletzt durch Artikel 3 des
-    Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist.
+    Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist,
 
 
-4.  (weggefallen)
+4.  Klagen gegen Entscheidungen des Qualitätsausschusses nach § 113b
+    Absatz 1 des Elften Buches Sozialgesetzbuch sowie des erweiterten
+    Qualitätsausschusses nach § 113b Absatz 3 des Elften Buches
+    Sozialgesetzbuch und gegen Entscheidungen des Bundesministeriums für
+    Gesundheit nach § 113b Absatz 9 des Elften Buches Sozialgesetzbuch
+    gegenüber dem Qualitätsausschuss und dem erweiterten
+    Qualitätsausschuss sowie über Klagen, welche die Mitwirkung an den
+    Richtlinien des Medizinischen Dienstes Bund betreffen (§ 17 Absatz 1
+    und 1c, § 112a Absatz 2, § 114a Absatz 7 und § 114c Absatz 1 des
+    Elften Buches Sozialgesetzbuch).
 
 
 
@@ -1138,6 +1154,12 @@ Feststellung hat.
 (2) Unter Absatz 1 Nr. 1 fällt auch die Feststellung, in welchem
 Umfang Beiträge zu berechnen oder anzurechnen sind.
 
+(3) Mit Klagen, die sich gegen Verwaltungsakte der Deutschen
+Rentenversicherung Bund nach § 7a des Vierten Buches Sozialgesetzbuch
+richten, kann die Feststellung begehrt werden, ob eine
+Erwerbstätigkeit als Beschäftigung oder selbständige Tätigkeit
+ausgeübt wird.
+
 
 #### § 55a
 
@@ -1441,10 +1463,11 @@ die vorbereitenden Schriftsätzen beigefügt sind.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -1761,10 +1784,14 @@ vertretungsbefugt nur
 
 
 4.  Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte
-    Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des
-    Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nr. 2 und
-    3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr.
-    1 des Steuerberatungsgesetzes handeln, in Angelegenheiten nach den §§
+    Buchprüfer, Personen und Vereinigungen im Sinne der §§ 3a und 3c des
+    Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des
+    Steuerberatungsgesetzes, zu beschränkter geschäftsmäßiger
+    Hilfeleistung in Steuersachen nach den §§ 3d und 3e des
+    Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser
+    Befugnisse sowie Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3
+    des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz
+    2 des Steuerberatungsgesetzes handeln, in Angelegenheiten nach den §§
     28h und 28p des Vierten Buches Sozialgesetzbuch,
 
 
@@ -4296,19 +4323,19 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
 einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
 die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
-ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
-Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
-sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts das Landessozialgericht, an die Stelle des
-Bundesgerichtshofs das Bundessozialgericht und an die Stelle der
-Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten
-über Entscheidungen des Bundeskartellamts, die die freiwillige
-Vereinigung von Krankenkassen nach § 172a des Fünften Buches
-Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen
-Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden,
-dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an
-die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die
-Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
+ausschließen. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Landessozialgericht, an die Stelle des Bundesgerichtshofs das
+Bundessozialgericht und an die Stelle der Zivilprozessordnung das
+Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des
+Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen
+nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§
+63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe
+entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Landessozialgericht, an die Stelle des Bundesgerichtshofs das
+Bundessozialgericht und an die Stelle der Zivilprozessordnung das
+Sozialgerichtsgesetz tritt.
 
 
 ### § 203
@@ -4397,11 +4424,33 @@ entsprechend.
 
 ### § 210
 
-Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen
+(1) Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen
 nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020
 bei den Sozialgerichten anhängig sind, gehen in dem Stadium, in dem
 sie sich befinden, auf die Landessozialgerichte über. Dies gilt nicht
 für Verfahren, die sich in der Hauptsache erledigt haben.
+
+(2) Verfahren gegen Entscheidungen der Schiedsstellen nach § 75 Absatz
+3c, § 111b Absatz 6, § 132a Absatz 3, § 132l Absatz 4 des Fünften
+Buches Sozialgesetzbuch und des Schiedsgremiums nach § 113c Absatz 4
+des Elften Buches Sozialgesetzbuch, die am 1. Januar 2023 anhängig
+sind, gehen in dem Stadium, in dem sie sich befinden, auf die
+Landessozialgerichte über. Satz 1 gilt nicht für Verfahren, die sich
+in der Hauptsache erledigt haben.
+
+(3) Verfahren gegen Entscheidungen der Schiedsstellen nach den §§ 125,
+131 und 134a des Fünften Buches Sozialgesetzbuch, der
+Schlichtungsstelle nach § 319 des Fünften Buches Sozialgesetzbuch, des
+Qualitätsausschusses nach § 113b Absatz 1 des Elften Buches
+Sozialgesetzbuch und des erweiterten Qualitätsausschusses nach § 113b
+Absatz 3 des Elften Buches Sozialgesetzbuch sowie Klagen, welche die
+Mitwirkung an den Richtlinien des Medizinischen Dienstes Bund
+betreffen (§ 17 Absatz 1, §§ 18b, 112a Absatz 2, § 114a Absatz 7 und §
+114c Absatz 1 des Elften Buches Sozialgesetzbuch in der am 31.
+Dezember 2022 geltenden Fassung), die am 1. Januar 2023 anhängig sind,
+gehen in dem Stadium, in dem sie sich befinden, auf das
+Landessozialgericht Berlin-Brandenburg über. Satz 1 gilt nicht für
+Verfahren, die sich in der Hauptsache erledigt haben.
 
 
 ### (XXXX) §§ 211 bis 217 (weggefallen)

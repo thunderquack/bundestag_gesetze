@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 25.6.2021 I 2050
+:   Art. 10 G v. 16.12.2022 I 2294
 
 
 ## Abschnitt I - Allgemeines
@@ -175,13 +175,12 @@ Von der Gewerbesteuer sind befreit
     Investitionskreditbank Aktiengesellschaft, die Investitionsbank
     Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die
     Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die
-    Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank
-    - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz,
-    das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
-    Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und
-    Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
-    Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-
-    Konsortialbank Gesellschaft mit beschränkter Haftung;
+    Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank
+    Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern -
+    Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die
+    Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige
+    Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die
+    Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
 
 3.  die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
@@ -470,7 +469,7 @@ Von der Gewerbesteuer sind befreit
     2 des Erneuerbare-Energien-Gesetzes, wenn sich deren Tätigkeit
     ausschließlich auf die Erzeugung und Vermarktung von Strom aus einer
     auf, an oder in einem Gebäude angebrachten Solaranlage bis zu einer
-    installierten Leistung von 10 Kilowatt beschränkt.
+    installierten Leistung von 30 Kilowatt beschränkt.
 
 
 
@@ -642,7 +641,8 @@ Körperschaftsteuergesetzes entsprechend.
 vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des
 Gewerbeertrags entsprechend anzuwenden.
 
-(2) Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des
+(2)
+1             Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des
 Einkommensteuergesetzes verbleibende geminderte Sanierungsertrag im
 Sinne des § 3a Absatz 3 Satz 1 des Einkommensteuergesetzes mindert
 nacheinander
@@ -661,23 +661,30 @@ nacheinander
 
 
 
-Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge
-nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens, wenn dieses die
-erlassenen Schulden innerhalb eines Zeitraums von fünf Jahren vor dem
-Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und
-soweit die entsprechenden Beträge zum Ablauf des Wirtschaftsjahrs der
-Übertragung bereits entstanden waren. Der verbleibende
-Sanierungsertrag nach Satz 2 ist zunächst um den Minderungsbetrag nach
-§ 3a Absatz 3 Satz 2 Nummer 13 des Einkommensteuergesetzes zu kürzen.
-Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5 entsprechend
-anzuwenden. In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des
-Körperschaftsteuergesetzes entsprechend anzuwenden. An den
-Feststellungen der vortragsfähigen Fehlbeträge nehmen nur die nach
-Anwendung der Sätze 1 und 2 verbleibenden Beträge teil.
+2             Ein nach Satz 1 verbleibender Sanierungsertrag mindert
+die Beträge nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens,
+wenn dieses die erlassenen Schulden innerhalb eines Zeitraums von fünf
+Jahren vor dem Schuldenerlass auf das zu sanierende Unternehmen
+übertragen hat und soweit die entsprechenden Beträge zum Ablauf des
+Wirtschaftsjahrs der Übertragung bereits entstanden waren.
+3             Der verbleibende Sanierungsertrag nach Satz 2 ist
+zunächst um den Minderungsbetrag nach § 3a Absatz 3 Satz 2 Nummer 13
+des Einkommensteuergesetzes zu kürzen.
+4             Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5
+entsprechend anzuwenden; dies gilt für Zwecke der Minderung nach Satz
+1 Nummer 3 mit der Maßgabe, dass der sich für die Mitunternehmerschaft
+insgesamt ergebende Sanierungsertrag im Verhältnis der den
+Mitunternehmern zum Ende des vorangegangenen Erhebungszeitraums
+zugerechneten Fehlbeträge den Mitunternehmern zuzurechnen ist.
+5             In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des
+Körperschaftsteuergesetzes entsprechend anzuwenden.
+6             An den Feststellungen der vortragsfähigen Fehlbeträge
+nehmen nur die nach Anwendung der Sätze 1 und 2 verbleibenden Beträge
+teil.
 
 (3) In den Fällen des § 2 Absatz 2 Satz 2 ist § 15 Satz 1 Nummer 1a
-des Körperschaftsteuergesetzes entsprechend anzuwenden. Absatz 2 Satz
-3 gilt entsprechend.
+des Körperschaftsteuergesetzes entsprechend anzuwenden.
+2             Absatz 2 Satz 3 gilt entsprechend.
 
 
 ### § 8 Hinzurechnungen
@@ -1869,15 +1876,24 @@ Erhebungszeitraum 2021 anzuwenden.
 1             § 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
-2             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes
+2             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt
+erstmals für den Erhebungszeitraum 2023 anzuwenden.
+3             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20.
+Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-
+Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale –
+letztmalig für den Erhebungszeitraum 2023 anzuwenden.
+4             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2015 anzuwenden.
-3             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes
+5             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
-4             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes
+6             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
+7             § 3 Nummer 32 in der Fassung des Artikels 10 des
+Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den
+Erhebungszeitraum 2022 anzuwenden.
 
 (3)
 1             § 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12.
@@ -1891,13 +1907,16 @@ einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des
 Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des
 Körperschaftsteuergesetzes ermittelte Einkommen gelten als
 Gewerbeertrag nach Satz 1.“
-
 3             § 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes
 vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den
 Erhebungszeitraum 2017 anzuwenden.
 4             § 7 Satz 9 in der Fassung des Artikels 3 des Gesetzes
 vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den
 Erhebungszeitraum 2022 anzuwenden.
+
+(3a) § 7b Absatz 2 Satz 4 in der Fassung des Artikels 10 des Gesetzes
+vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den
+Erhebungszeitraum 2023 anzuwenden.
 
 (4)
 1             § 8 Nummer 1 Buchstabe d Satz 2 ist nur auf Entgelte
@@ -1927,10 +1946,11 @@ werden.
 anzuwenden.
 
 (5b) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen
-mit der Maßgabe anzuwenden, dass für den Erhebungszeitraum 2019 an die
-Stelle des 15. Kalendermonats der 21. Kalendermonat tritt sowie dass
-für den Erhebungszeitraum 2020 an die Stelle des 15. Kalendermonats
-der 18. Kalendermonat tritt.
+mit der Maßgabe anzuwenden, dass für die Erhebungszeiträume 2019 bis
+2021 der 21. Kalendermonat, für den Erhebungszeitraum 2022 der 20.
+Kalendermonat, für den Erhebungszeitraum 2023 der 18. Kalendermonat
+und für den Erhebungszeitraum 2024 der 17. Kalendermonat an die Stelle
+des 15. Kalendermonats tritt.
 
 (6) § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 Doppelbuchstabe bb in
 der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I

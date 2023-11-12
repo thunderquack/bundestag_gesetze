@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Fachverkäufer im  Lebensmittelhandwerk/zur
+Title: Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur
   Fachverkäuferin im Lebensmittelhandwerk
 jurabk: LebensMAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: lebensmausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Fachverkäufer im  Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk (LebensMAusbV)
+# Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk (LebensMAusbV)
 
 Ausfertigungsdatum
 :   2006-03-31

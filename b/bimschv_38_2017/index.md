@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3892
 
-Geändert durch
-:   Art. 1 V v. 21.5.2019 I 742
-
-Änderung durch
-:   Art. 1 V v. 12.11.2021 I 4932 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 13.7.2023 I Nr. 200
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
@@ -79,11 +76,13 @@ das elektrischen Strom an Letztverbraucher liefert.
 Batterieelektrofahrzeug oder ein von außen aufladbares
 Hybridelektrofahrzeug der Klassen M 1 und N 1 im Sinne des § 2 Nummer
 1 der Ladesäulenverordnung vom 9. März 2016 (BGBl. I S. 457), die
-zuletzt durch Artikel 1 der Verordnung vom 2. November 2021 (BGBl. I
-S. 4788) geändert worden ist, in der jeweils geltenden Fassung.
+zuletzt durch Artikel 4 des Gesetzes vom 22. Mai 2023 (BGBl. 2023 I
+Nr. 133) geändert worden ist, in der jeweils geltenden Fassung.
 
 (3) Ein reines Batterieelektrofahrzeug ist ein Kraftfahrzeug im Sinne
-des § 2 Nummer 2 der Ladesäulenverordnung.
+des § 2 Nummer 2 des Elektromobilitätsgesetzes vom 5. Juni 2015
+(BGBl. I S. 898), das zuletzt durch Artikel 2 Absatz 34 des Gesetzes
+vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist.
 
 (4) Nahrungs- und Futtermittelpflanzen sind Kulturpflanzen mit hohem
 Stärkegehalt, Zuckerpflanzen oder Ölpflanzen, die als Hauptkulturen
@@ -248,7 +247,20 @@ Immissionsschutzgesetzes ist der Betreiber eines Ladepunktes im Sinne
 des § 2 Nummer 8 der Ladesäulenverordnung oder eine von ihm bestimmte
 Person.
 
-(2) Bei der Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3
+(2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des
+Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem
+Verpflichtungsjahr kann von jedem Betreiber nur ein einziger Dritter
+bestimmt werden. Bestimmt der Betreiber eines Ladepunktes entgegen
+Satz 2 mehrere Dritte, stellt die zuständige Stelle nach § 20 Absatz 1
+die Bescheinigung nach § 8 Absatz 2 Satz 1 nur an denjenigen Dritten
+aus, der die Angaben zu den energetischen Mengen des elektrischen
+Stroms nach § 8 Absatz 1 Satz 1 im jeweiligen Verpflichtungsjahr
+zuerst mitgeteilt hat. Die zuständige Stelle nach § 20 Absatz 1 kann
+die Vorlage der Vereinbarung nach Satz 1 verlangen. Eine Änderung des
+Dritten ist nach dem Zeitpunkt der Mitteilung nach § 8 Absatz 1 Satz 1
+ausgeschlossen.
+
+(3) Bei der Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3
 des Bundes-Immissionsschutzgesetzes wird die energetische Menge
 elektrischen Stroms nach Absatz 1 mit dem Faktor 3 multipliziert. Die
 Treibhausgasemissionen des elektrischen Stroms nach Absatz 1 werden
@@ -266,46 +278,55 @@ Stroms
 
 
 
-(3) Der Wert der durchschnittlichen Treibhausgasemissionen pro
+(4) Der Wert der durchschnittlichen Treibhausgasemissionen pro
 Energieeinheit des Stroms in Deutschland wird von der nach § 20 Absatz
 1 zuständigen Stelle jährlich auf Basis geeigneter internationaler
 Normen ermittelt und bis zum Ablauf des 31. Oktober für das
 darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben.
 
-(4) Zur Berechnung der Treibhausgasemissionen des elektrischen Stroms
-nach Absatz 2 wird der Wert der durchschnittlichen
-Treibhausgasemissionen pro Energieeinheit Strom der jeweiligen
-erneuerbaren Energie in Deutschland verwendet, wenn im Fall des § 6
+(5) Zur Berechnung der Treibhausgasemissionen des elektrischen Stroms
+nach Absatz 3 wird ab dem Verpflichtungsjahr 2024 der Wert der
+durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der
+jeweiligen erneuerbaren Energie in Deutschland verwendet, wenn im Fall
+des § 6
 
-1.  ausschließlich Strom aus erneuerbaren Energien nach § 2 Absatz 5
-    Nummer 1 und 2 eingesetzt wird und
-
-
-2.  der Strom nicht aus dem Netz nach § 3 Nummer 35 des Erneuerbare-
-    Energien-Gesetzes entnommen wird, sondern direkt von einer
-    Stromerzeugungsanlage nach § 61a Nummer 2 des Erneuerbare-Energien-
-    Gesetzes bezogen wird.
+1.  ausschließlich Strom aus erneuerbaren Energien in Form von Wind oder
+    Sonne (§ 2 Absatz 5 Nummer 1 oder 2) eingesetzt wird und
 
 
+2.  der Strom nicht aus dem Netz im Sinne des § 3 Nummer 35 des
+    Erneuerbare-Energien-Gesetzes entnommen wird, sondern nachweislich
+    direkt von einer Stromerzeugungsanlage hinter demselben
+    Netzverknüpfungspunkt bezogen wird.
 
-Die Werte der durchschnittlichen Treibhausgasemissionen pro
-Energieeinheit Strom der erneuerbaren Energien in Deutschland werden
-von der nach § 20 Absatz 1 zuständigen Stelle jährlich auf Basis
-geeigneter internationaler Normen ermittelt und bis zum Ablauf des 31.
-Oktober für das darauffolgende Verpflichtungsjahr im Bundesanzeiger
-bekannt gegeben. Für Strommengen, die nur anteilig die Voraussetzungen
-nach Satz 1 erfüllen, gilt Satz 1 für den entsprechenden Anteil. Der
-Dritte nach Absatz 1 führt Aufzeichnungen über den Standort und die
-Art der Stromerzeugungsanlage sowie über die von ihr erzeugte
-Strommenge zur Verwendung in Straßenfahrzeugen mit Elektroantrieb und
-fügt die Aufzeichnung der Mitteilung nach § 8 bei.
+
+
+Als Nachweis nach Satz 1 Nummer 2 gelten Messwerte des
+Messstellenbetreibers von Messeinrichtungen nach § 2 Satz 1 Nummer 10,
+12 und 14 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I
+S. 2034), das zuletzt durch Artikel 2 des Gesetzes vom 22. Mai 2023
+(BGBl. 2023 I Nr. 133) geändert worden ist, des zeitgleichen
+Verbrauchs bezogen auf jedes 15-Minuten-Intervall. Die Werte der
+durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der
+erneuerbaren Energien in Deutschland werden von der zuständigen Stelle
+nach § 20 Absatz 1 jährlich auf Basis geeigneter internationaler
+Normen ermittelt und bis zum Ablauf des 31. Oktober für das
+darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben.
+Für Strommengen, die nur anteilig die Voraussetzungen nach Satz 1
+erfüllen, gilt Satz 1 nur für den entsprechenden Anteil. Der Dritte im
+Sinne des Absatz 1 Satz 2 führt Aufzeichnungen über den Standort und
+die Art der Stromerzeugungsanlage und fügt die Aufzeichnungen sowie
+den Nachweis nach Satz 2 der Mitteilung der energetischen Menge nach §
+8 Absatz 1 Satz 1 bei. Wird der Nachweis nach Satz 2 nicht oder nicht
+vollständig erbracht, wird zur Berechnung der Treibhausgasemissionen
+der Wert nach Absatz 4 verwendet.
 
 
 #### § 6 Energetische Menge des elektrischen Stroms aus öffentlich zugänglichen Ladepunkten
 
 (1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über
 die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2
-Nummer 9 der Ladesäulenverordnung unter Angabe
+Nummer 5 der Ladesäulenverordnung unter Angabe
 
 1.  des genauen Standortes, an dem sich der Ladepunkt befindet,
 
@@ -319,6 +340,10 @@ Nummer 9 der Ladesäulenverordnung unter Angabe
 
 
 
+Die zuständige Stelle nach § 20 Absatz 1 kann im Bundesanzeiger
+bekannt geben, welche weitere Angaben den Aufzeichnungen beizufügen
+sind, um nachzuweisen, dass es sich um einen öffentlich zugänglichen
+Ladepunkt im Sinne des § 2 Nummer 5 der Ladesäulenverordnung handelt.
 
 (2) Der Dritte fügt bei Aufbau und Außerbetriebnahme von Ladepunkten
 den Aufzeichnungen die Anzeige des Ladepunktbetreibers gegenüber der
@@ -328,6 +353,14 @@ bereits bestehende Ladepunkte ist die Anzeige, die zum Zeitpunkt des
 Aufbaus gegenüber der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.
 
+(3) Die Anrechnung von Strom, der über einen öffentlich zugänglichen
+Ladepunkt entnommen wurde, auf die Erfüllung der Verpflichtung zur
+Minderung der Treibhausgasemissionen ist nur dann möglich, wenn die
+Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
+Eisenbahnen den angezeigten Ladepunkt veröffentlicht hat oder der
+Dritte der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen die Zustimmung zur Veröffentlichung erteilt hat.
+
 
 #### § 7 Energetische Menge des elektrischen Stroms in anderen Fällen
 
@@ -335,23 +368,33 @@ Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.
 Ladepunkte entnommen wurde, auf die Erfüllung der Verpflichtung zur
 Minderung der Treibhausgasemissionen ist nur dann möglich, sofern
 dieser Strom für reine Batterieelektrofahrzeuge genutzt wurde und ein
-Schätzwert nach Absatz 3 bekanntgegeben wurde.
+Schätzwert nach Absatz 3 bekanntgegeben wurde. Ladepunktbetreiber ist
+in diesen Fällen die Person, auf die nachweislich das reine
+Batterieelektrofahrzeug zugelassen ist. Elektrischer Strom zur
+Verwendung in zulassungsfreien Fahrzeugen gemäß § 3 Absatz 3 der
+Fahrzeug-Zulassungsverordnung vom 20. Juli 2023 (BGBl. 2023 I Nr. 199,
+S. 2) kann nur auf die Erfüllung der Verpflichtung zur Minderung der
+Treibhausgasemissionen angerechnet werden, wenn für die entsprechende
+Fahrzeugklasse ein eigener Schätzwert nach Absatz 3 bekannt gegeben
+wurde.
 
 (2) Der Dritte nach § 5 Absatz 1 Satz 2 führt Aufzeichnungen über die
-Personen, auf die nachweislich ein reines Batterieelektrofahrzeug
-zugelassen ist, sowie über das reine Batterieelektrofahrzeug selbst.
-Als Nachweis gilt eine Zulassungsbescheinigung Teil I des reinen
-Batterieelektrofahrzeugs, die gemäß § 11 Absatz 1 Satz 1 der Fahrzeug-
-Zulassungsverordnung vom 3. Februar 2011 (BGBl. I S. 139), die zuletzt
-durch Artikel 8 des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3091)
-geändert worden ist, ausgefertigt worden ist und als Kopie vorgelegt
-wird. Spätestens nach Ablauf eines Jahres ist eine Kopie der aktuellen
-Zulassungsbescheinigung Teil I als Nachweis erforderlich. Der Dritte
-bewahrt die Kopien der Zulassungsbescheinigungen Teil I für die Dauer
-von drei Jahren auf. Bei der Mitteilung nach § 8 fügt der Dritte die
-Aufzeichnungen bei. Die nach § 20 Absatz 1 zuständige Stelle kann
-Näheres zum Format und dem Inhalt der Aufzeichnungen nach Satz 3 im
-Bundesanzeiger bekannt geben.
+Personen, auf die nachweislich ein reines Batterieelektrofahrzeug, für
+das eine Zulassungspflicht nach § 3 der Fahrzeug-Zulassungsverordnung
+besteht, zugelassen ist, sowie über das reine Batterieelektrofahrzeug
+selbst. Als Nachweis gilt eine Zulassungsbescheinigung Teil I des
+reinen Batterieelektrofahrzeugs, die gemäß § 13 Absatz 1 Satz 1 der
+Fahrzeug-Zulassungsverordnung ausgefertigt worden ist und als Kopie
+vorgelegt wird. Spätestens nach Ablauf eines Jahres ist eine Kopie der
+aktuellen Zulassungsbescheinigung Teil I als Nachweis erforderlich.
+Der Dritte bewahrt die Kopien der Zulassungsbescheinigungen Teil I für
+die Dauer von drei Jahren auf. Für Fahrzeuge nach § 3 Absatz 3 der
+Fahrzeug-Zulassungsverordnung gilt als Nachweis die
+Übereinstimmungsbescheinigung im Sinne des § 2 Satz 1 Nummer 7 der
+Fahrzeug-Zulassungsverordnung. Bei der Mitteilung nach § 8 fügt der
+Dritte die Aufzeichnungen bei. Die nach § 20 Absatz 1 zuständige
+Stelle kann Näheres zum Format und dem Inhalt der Aufzeichnungen nach
+Satz 3 im Bundesanzeiger bekannt geben.
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit gibt die Schätzwerte der anrechenbaren energetischen Mengen
@@ -363,45 +406,67 @@ Batterieelektrofahrzeugen in Deutschland.
 (4) Die energetische Menge des im jeweiligen Verpflichtungsjahr nach §
 5 anrechenbaren elektrischen Stroms ergibt sich durch die
 Multiplikation der Zahl der reinen Batterieelektrofahrzeuge, die nach
-Absatz 2 zu den Dritten gerechnet werden, mit dem Schätzwert.
+Absatz 2 zu den Dritten gerechnet werden, mit dem Schätzwert. Die
+Anrechnung der dem jeweiligen Schätzwert entsprechenden Strommenge
+kann pro reinem Batterieelektrofahrzeug und pro Verpflichtungsjahr nur
+einmal erfolgen.
 
-(5) Die Bestimmung der Person als Dritter, die nicht der Betreiber des
-Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem
-Verpflichtungsjahr kann nur ein Dritter bestimmt werden. Bestimmt der
-Betreiber eines Ladepunktes unter Verstoß gegen Satz 2 mehrere Dritte,
-stellt die gemäß § 20 Absatz 1 zuständige Stelle die Bescheinigung
-nach § 8 Absatz 2 nur an den Dritten aus, der die Angaben nach § 8
-Absatz 1 zuerst mitgeteilt hat. Die Vereinbarung nach Satz 1 wird auf
-Verlangen der nach § 20 Absatz 1 zuständigen Stelle vorgelegt.
+(5) Wird in einem Verpflichtungsjahr ein reines
+Batterieelektrofahrzeug, für dessen Strommenge bereits eine Mitteilung
+über die energetische Menge des elektrischen Stroms nach § 8 Absatz 1
+Satz 1 erfolgte, auf eine andere Person zugelassen, hat die Person,
+auf die das Fahrzeug bisher zugelassen war, die andere Person über
+diese Mitteilung zu informieren. Ein Hinweis auf diese
+Informationspflicht ist in die Vereinbarung nach § 5 Absatz 2 Satz 1
+aufzunehmen.
 
 
 #### § 8 Mitteilung der energetischen Menge
 
-(1) Der Dritte teilt der nach § 20 Absatz 1 zuständigen Stelle die
-energetischen Mengen des elektrischen Stroms, der nach § 6 zur
-Verwendung in Straßenfahrzeugen mit Elektroantrieb und nach § 7 zur
-Verwendung in reinen Batterieelektrofahrzeugen im jeweiligen
-Verpflichtungsjahr entnommen wurde, bis zum 28. Februar des
-Folgejahres mit. Die nach § 20 Absatz 1 zuständige Stelle kann
-verlangen, dass der Dritte innerhalb einer angemessenen Frist die in
-den §§ 6 und 7 genannten Unterlagen zur Prüfung vorlegt. Sie prüft
-anhand dieser Unterlagen, ob die Voraussetzungen für die Anrechnung
-erfüllt sind.
+(1) Der Dritte teilt der zuständigen Stelle nach § 20 Absatz 1 die
+energetischen Mengen des elektrischen Stroms mit, die
+
+1.  nach § 6 zur Verwendung in Straßenfahrzeugen mit Elektroantrieb im
+    jeweiligen Verpflichtungsjahr entnommen wurde, bis zum Ablauf des
+    28\. Februar des Folgejahres oder
+
+
+2.  nach § 7 zur Verwendung in reinen Batterieelektrofahrzeugen im
+    jeweiligen Verpflichtungsjahr entnommen wurde, bis zum Ablauf des
+    15\. November des jeweiligen Verpflichtungsjahres.
+
+
+
+Die nach § 20 Absatz 1 zuständige Stelle kann verlangen, dass der
+Dritte innerhalb einer angemessenen Frist die in den §§ 6 und 7
+genannten Unterlagen zur Prüfung vorlegt. Sie prüft anhand dieser
+Unterlagen, ob die Voraussetzungen für die Anrechnung erfüllt sind.
+Erfolgt die Mitteilung nach Satz 1 Nummer 2 nicht durch den
+Ladepunktbetreiber selbst, sondern durch eine vom Ladepunktbetreiber
+bestimmte Person, dürfen mehrere Mitteilungen einer energetischen
+Menge des elektrischen Stroms in einem Verpflichtungsjahr nur
+abgegeben werden, wenn die jeweils vorhergehende Mitteilung mindestens
+500 Megawattstunden umfasst hat.
 
 (2) Die nach § 20 Absatz 1 zuständige Stelle stellt dem Dritten eine
 Bescheinigung über die mitgeteilte energetische Menge elektrischen
 Stroms aus. In der Bescheinigung sind die energetische Menge des
-elektrischen Stroms in Megawattstunden und die nach § 5 Absatz 2
+elektrischen Stroms in Megawattstunden und die nach § 5 Absatz 3
 errechneten Treibhausgasemissionen in Kilogramm CO
 2             -Äquivalent angegeben. Die Bescheinigung kann auf Antrag
-des Dritten in mehrere Teilbescheinigungen aufgeteilt werden. Die nach
-§ 20 Absatz 1 zuständige Stelle übersendet der nach § 20 Absatz 2
-zuständigen Stelle auf Verlangen Informationen über die erteilten
-Bescheinigungen.
+des Dritten in mehrere Teilbescheinigungen aufgeteilt werden. Alle
+Teilbescheinigungen werden nur an den Dritten ausgestellt, der die
+Mitteilung nach Absatz 1 Satz 1 vornimmt. Die nach § 20 Absatz 1
+zuständige Stelle übersendet der nach § 20 Absatz 2 zuständigen Stelle
+auf Verlangen Informationen über die erteilten Bescheinigungen.
 
 (3) Die nach § 20 Absatz 1 zuständige Stelle kann Näheres zum Format
 und zur Art und Weise der Datenübermittlung im Bundesanzeiger
 bekanntgeben.
+
+(4) Die Mitteilung von Strommengen nach § 6 darf ausschließlich
+Strommengen enthalten, die aus öffentlich zugänglichen Ladepunkten
+entnommen wurden.
 
 
 #### § 9 Nachweis durch den Verpflichteten
@@ -714,7 +779,7 @@ den Rohstoffen nach Anlage 1 Nummer 7.
 
 2.  zur Berechnung der Treibhausgasemissionen die energetische Menge mit
     dem Faktor 2 sowie mit dem Wert der in den anerkannten Nachweisen nach
-    § 14 der Biokraftstoff-Nachhaltigkeitsverordnung ausgewiesenen
+    § 8 der Biokraftstoff-Nachhaltigkeitsverordnung ausgewiesenen
     Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro
     Gigajoule multipliziert.
 
@@ -723,7 +788,7 @@ den Rohstoffen nach Anlage 1 Nummer 7.
 Treibhausgasminderungsmengen, die den nach § 37a Absatz 4
 vorgeschriebenen Prozentsatz übersteigen, werden auf Antrag des
 Verpflichteten auf den Prozentsatz des folgenden Kalenderjahres
-angerechnet. Die Reihenfolge, in der die Nachweise nach § 14 der
+angerechnet. Die Reihenfolge, in der die Nachweise nach § 8 der
 Biokraftstoff-Nachhaltigkeitsverordnung berücksichtigt werden, ist
 durch den Verpflichteten nach § 37a Absatz 1 Satz 1 und 2 mit Absatz 4
 Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes festzulegen.
@@ -776,7 +841,7 @@ Die Daten nach Satz 1 sind erstmals für das Verpflichtungsjahr 2021 zu
 (1) Das Umweltbundesamt ist zuständig für
 
 1.  die Ermittlung und Bekanntgabe der Werte der durchschnittlichen
-    Treibhausgasemissionen nach § 5 Absatz 3 und 4,
+    Treibhausgasemissionen nach § 5 Absatz 4 und 5,
 
 
 2.  die Prüfung der nach § 8 Absatz 1 mitgeteilten energetischen Menge
@@ -847,7 +912,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1
 
-(Fundstelle: BGBl. I 2017, 3899)
+(Fundstelle: BGBl. I 2017, 3899;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach §
 14 Absatz 1 sind:
@@ -1013,7 +1079,7 @@ Werte:
 
 
 
-(zu § 5 Absatz 2 und § 11 Absatz 2)
+(zu § 5 Absatz 3 und § 11 Absatz 2)
 
 ### Anlage 3 Anpassungsfaktoren für die Antriebseffizienz
 
@@ -1048,7 +1114,8 @@ Die Anpassungsfaktoren für die Antriebseffizienz sind:
 
 ### Anlage 4 Rohstoffe für die Herstellung von Biokraftstoffen nach § 13a
 
-(Fundstelle: BGBl. I 2019, 743)
+(Fundstelle: BGBl. I 2019, 743;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Rohstoffe für die Herstellung von Biokraftstoffen, deren Beitrag zu
 dem in Artikel 3 Absatz 4 Unterabsatz 1 der Richtlinie 2009/28/EG

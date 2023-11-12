@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 914
 
 Zuletzt geändert durch
-:   Art. 24 Abs. 18 G v. 23.6.2017 I 1693
-
-Änderung durch
-:   Art. 63 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 63 G v. 10.8.2021 I 3436
 
 
 

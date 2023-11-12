@@ -17,6 +17,9 @@ Fundstelle
 :   BGBl I: 2020, 2575
 
 Stand: Ersetzt G 9231-11 v. 14.8.2006 I 1958 (BKrFQG)
+Zuletzt geändert durch
+:   Art. 2 G v. 16.8.2023 I Nr. 218
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2018/645 des
 Europäischen Parlaments und des Rates vom 18. April 2018 zur Änderung
 der Richtlinie 2003/59/EG über die Grundqualifikation und
@@ -1174,7 +1177,13 @@ Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen
     Überwachungsverfahren;
 
 
-5.  die Fahrerqualifizierungsnachweise.
+5.  die Fahrerqualifizierungsnachweise;
+
+
+6.  Ausnahmen von diesem Gesetz oder den auf Grund der Nummern 1 bis 5
+    erlassenen Rechtsverordnungen, soweit die Ausnahmen zur Durchführung
+    von Rechtsakten der Europäischen Union zur Bewältigung krisenhafter
+    Situationen erforderlich sind.
 
 
 
@@ -1241,17 +1250,14 @@ Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro
 geahndet werden.
 
 (4) Soweit eine Ordnungswidrigkeit nach Absatz 1 oder nach Absatz 2
-Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Güterverkehr
-festgestellt wird oder in einem Unternehmen begangen wird, das seinen
-Sitz im Ausland hat, ist das Bundesamt für Güterverkehr
-Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
-über Ordnungswidrigkeiten.
+Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Logistik und
+Mobilität festgestellt wird oder in einem Unternehmen begangen wird,
+das seinen Sitz im Ausland hat, ist das Bundesamt für Logistik und
+Mobilität Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten.
 
 
-### § 29 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs-
-und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+### § 29 (weggefallen)
 
 
 ### § 30 Übergangsvorschriften

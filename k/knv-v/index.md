@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 670
 
-Geändert durch
-:   Art. 2 Abs. 1 G v. 21.12.2015 I 2498
-
-Änderung durch
-:   Art. 3 Abs. 4 V v. 6.7.2021 I 2514 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 Abs. 4 V v. 6.7.2021 I 2514
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

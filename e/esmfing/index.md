@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1918
 
-Geändert durch
-:   Art. 1 G v. 29.11.2014 I 1821, 2193
+Zuletzt geändert durch
+:   Art. 1 G v. 14.12.2022 I 2270
 
 
 ## § 1 Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität

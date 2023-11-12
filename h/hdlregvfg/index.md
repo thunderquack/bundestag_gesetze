@@ -16,7 +16,7 @@ Fundstelle
 :   RMBl: 1937, 515
 
 Zuletzt geändert durch
-:   Art. 44 G v. 10.8.2021 I 3436
+:   Art. 2 G v. 22.2.2023 I Nr. 51
 
 
 ## Eingangsformel
@@ -120,18 +120,25 @@ aufzubewahren.
 
 (1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des
 Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden
-Dokumente werden für jedes Registerblatt (§ 13) in einen dafür
-bestimmten Registerordner aufgenommen. Sie sind in der zeitlichen
-Folge ihres Eingangs und nach der Art des jeweiligen Dokuments
-abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der
-Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend die
-Gesellschaften mit beschränkter Haftung) ist der Gesellschafterliste
-zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache
-der Europäischen Union übermittelten Übersetzungen (§ 11 des
-Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten
-zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist
-kenntlich zu machen, dass die für eine frühere Fassung eingereichte
-Übersetzung nicht dem aktualisierten Stand des Dokuments entspricht.
+Dokumente sowie eine Verschmelzungs-, Spaltungs- oder
+Formwechselbescheinigung nach § 316 Absatz 1 Satz 4, § 329 Satz 3 oder
+§ 343 Absatz 1 Satz 4 des Umwandlungsgesetzes werden für jedes
+Registerblatt (§ 13) in einen dafür bestimmten Registerordner
+aufgenommen. Aufgenommen werden sollen solche Dokumente, deren
+Einreichung zum Handelsregister durch Rechtsvorschriften besonders
+angeordnet ist; hiervon ausgenommen sind jedoch Dokumente, die gemäß §
+12 Absatz 1 Satz 5 des Handelsgesetzbuchs eingereicht werden. Sie sind
+in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen
+Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in
+der Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend
+die Gesellschaften mit beschränkter Haftung) ist der
+Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die
+in einer Amtssprache der Europäischen Union übermittelten
+Übersetzungen (§ 11 des Handelsgesetzbuchs) sind den jeweiligen
+Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument
+eingereicht, ist kenntlich zu machen, dass die für eine frühere
+Fassung eingereichte Übersetzung nicht dem aktualisierten Stand des
+Dokuments entspricht.
 
 (2) Schriftstücke, die vor dem 1. Januar 2007 eingereicht worden sind,
 können zur Ersetzung der Urschrift in ein elektronisches Dokument
@@ -185,6 +192,11 @@ Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
 bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
 aufzubewahren.
 
+(7) Wird ein in den Registerordner eingestelltes Dokument gegen ein
+neues Dokument ausgetauscht, so ist der Austausch kenntlich zu machen
+und das Datum der Aufnahme des alten Dokuments in den Registerordner
+anzugeben.
+
 
 ### § 10 Einsichtnahme
 
@@ -194,21 +206,69 @@ Dienststunden zu ermöglichen.
 
 (2) Die Einsicht in das elektronische Registerblatt erfolgt über ein
 Datensichtgerät oder durch Einsicht in einen aktuellen oder
-chronologischen Ausdruck. Dem Einsichtnehmenden kann gestattet werden,
-das Registerblatt selbst auf dem Bildschirm des Datensichtgerätes
-aufzurufen, wenn technisch sichergestellt ist, dass der Abruf von
-Daten die nach § 9 Abs. 1 des Handelsgesetzbuchs zulässige Einsicht
-nicht überschreitet und Veränderungen an dem Inhalt des
-Handelsregisters nicht vorgenommen werden können.
+chronologischen Ausdruck. Die Landesjustizverwaltungen können weitere
+Formen der Einsicht in das elektronische Registerblatt ermöglichen.
+Dem Einsichtnehmenden kann gestattet werden, das Registerblatt selbst
+auf dem Bildschirm des Datensichtgerätes aufzurufen, wenn technisch
+sichergestellt ist, dass der Abruf von Daten die nach § 9 Abs. 1 des
+Handelsgesetzbuchs zulässige Einsicht nicht überschreitet und
+Veränderungen an dem Inhalt des Handelsregisters nicht vorgenommen
+werden können.
 
 (3) Über das Datensichtgerät ist auch der Inhalt des Registerordners
 einschließlich der nach § 9 Abs. 4 oder Abs. 5 Satz 2 aufgenommenen
 Angaben und der eingereichten Übersetzungen zugänglich zu machen.
 
 
-### § 11
+### § 11 Bereitstellung von Unternehmensdaten über das Europäische System der Registervernetzung
 
-(weggefallen)
+(1) In Bezug auf Kapitalgesellschaften übermitteln die
+Registergerichte an die zentrale Europäische Plattform gemäß § 9b
+Absatz 1 Satz 2 des Handelsgesetzbuchs die in Absatz 2 genannten
+Informationen des Handelsregisters zum Abruf über das Europäische
+Justizportal. Die Übermittlung weiterer Informationen des
+Handelsregisters nach § 9b Absatz 1 oder Absatz 2 des
+Handelsgesetzbuchs bleibt hiervon unberührt. § 9b Absatz 3 des
+Handelsgesetzbuchs gilt entsprechend.
+
+(2) Die folgenden Informationen werden übermittelt:
+
+1.  Firma und Rechtsform der Gesellschaft,
+
+
+2.  Sitz und Mitgliedstaat der Gesellschaft,
+
+
+3.  Eintragungsnummer und einheitliche europäische Kennung der
+    Gesellschaft,
+
+
+4.  ob die Gesellschaft aufgelöst oder gelöscht wurde,
+
+
+5.  Gegenstand der Gesellschaft,
+
+
+6.  im Handelsregister eingetragene Informationen über alle Personen, die
+    als Organ oder als Mitglied eines Organs der Gesellschaft befugt sind,
+    die Gesellschaft gerichtlich und außergerichtlich zu vertreten, sowie
+    Informationen dazu, ob die zur Vertretung der Gesellschaft befugten
+    Personen die Gesellschaft allein oder nur gemeinschaftlich vertreten
+    können,
+
+
+7.  Informationen über alle von der Gesellschaft in anderen
+    Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten
+    des Abkommens über den Europäischen Wirtschaftsraum eingerichtete
+    Zweigniederlassungen, einschließlich des Namens, der
+    Eintragungsnummer, der einheitlichen europäischen Kennung und des
+    Staates, in dem die Zweigniederlassung eingetragen ist und
+
+
+8.  Informationen über eine grenzüberschreitende Umwandlung.
+
+
+
 
 
 ## II. - Führung des Handelsregisters
@@ -292,7 +352,7 @@ zu wiederholen.
 
 Diejenigen Eintragungen, die lediglich andere Eintragungen
 wiederholen, erläutern oder begründen und daher nach § 30a Abs. 4 Satz
-4 nicht in den aktuellen Ausdruck einfließen, sind grau zu hinterlegen
+5 nicht in den aktuellen Ausdruck einfließen, sind grau zu hinterlegen
 oder es ist auf andere Weise sicherzustellen, dass diese Eintragungen
 nicht in den aktuellen Ausdruck übernommen werden.
 
@@ -306,9 +366,6 @@ berichtigt werden. Die Berichtigung ist als solche kenntlich zu
 machen.
 
 (2) Die Berichtigung nach Absatz 1 ist den Beteiligten bekanntzugeben.
-Die öffentliche Bekanntmachung kann unterbleiben, wenn die
-Berichtigung einen offensichtlich unwesentlichen Punkt der Eintragung
-betrifft.
 
 (3) Eine versehentlich vorgenommene Rötung oder Kenntlichmachung nach
 § 16 oder § 16a ist zu löschen oder auf andere eindeutige Weise zu
@@ -394,9 +451,8 @@ Archivierung von Handelsregisterblättern zuständigen Stelle verfügbar
 gehalten werden, soweit landesrechtliche Vorschriften nicht
 entgegenstehen.
 
-Verfahren bei Anmeldung,
 
-## III. - Eintragung und Bekanntmachung
+## III. - Verfahren bei Anmeldung, Eintragung und Registerbekanntmachungen
 
 
 
@@ -443,12 +499,43 @@ Eintragung ein durch den Antragsteller behebbares Hindernis entgegen,
 so hat der Richter unverzüglich zu verfügen; liegt ein nach § 23
 einzuholendes Gutachten bis dahin nicht vor, so ist dies dem
 Antragsteller unverzüglich mitzuteilen. Der Richter entscheidet auch
-über die erforderlichen Bekanntmachungen.
+über die erforderlichen Registerbekanntmachungen gemäß § 10 Absatz 3
+des Handelsgesetzbuchs.
 
 (2) Der Richter ist für die Eintragung auch dann zuständig, wenn sie
 vom Beschwerdegericht oder nach § 395 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit verfügt ist.
+
+(3) Unbeschadet des Absatzes 1 Satz 2 sind innerhalb eines Zeitraumes
+von in der Regel zehn Werktagen nach dem Eingang der vollständigen
+Anmeldung oder im Fall eines durch den Antragsteller behebbaren
+Eintragungshindernisses innerhalb eines Zeitraumes von in der Regel
+zehn Werktagen nach dessen Behebung einzutragen:
+
+1.  die Gründung einer Gesellschaft mit beschränkter Haftung, die mittels
+    Videokommunikation gemäß § 2 Absatz 3 des Gesetzes betreffend die
+    Gesellschaften mit beschränkter Haftung in Verbindung mit den §§ 16a
+    bis 16e des Beurkundungsgesetzes notariell beurkundet wurde, und
+
+
+2.  die Errichtung einer Zweigniederlassung einer Kapitalgesellschaft, die
+    dem Recht eines anderen Mitgliedstaates der Europäischen Union oder
+    eines anderen Vertragsstaates des Abkommens über den Europäischen
+    Wirtschaftsraum unterliegt, deren Anmeldung zur Eintragung mittels
+    Videokommunikation nach § 12 Absatz 1 Satz 2 des Handelsgesetzbuchs in
+    Verbindung mit § 40a des Beurkundungsgesetzes beglaubigt wurde.
+
+
+
+Im Fall der Anmeldung der Gründung einer Gesellschaft mit beschränkter
+Haftung mittels Videokommunikation mit ausschließlich natürlichen
+Personen als Gesellschaftern und der Verwendung von Musterprotokollen
+nach § 2 Absatz 1a oder 3 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung beträgt die Frist nach Satz 1 fünf Werktage.
+Erfolgt die Eintragung nicht innerhalb der Frist nach Satz 1 oder Satz
+2, informiert das Registergericht die Antragssteller über die Gründe
+für die Verzögerung.
 
 
 ### § 26 Änderung eingetragener Angaben
@@ -460,20 +547,17 @@ behebbaren Eintragungshindernisses innerhalb von 21 Tagen nach dessen
 Behebung einzutragen und bekannt zu machen.
 
 
-### § 27 Vornahme der Eintragung, Wortlaut der Bekanntmachung
+### § 27 Vornahme der Eintragung
 
-(1) Der Richter nimmt die Eintragung und Bekanntmachung entweder
-selbst vor oder er verfügt die Eintragung und die Bekanntmachung durch
-den Urkundsbeamten der Geschäftsstelle.
+(1) Der Richter nimmt die Eintragung entweder selbst vor oder er
+verfügt die Eintragung durch den Urkundsbeamten der Geschäftsstelle.
 
 (2) Nimmt der Richter die Eintragung nicht selbst vor, so hat er in
 der Eintragungsverfügung den genauen Wortlaut der Eintragung sowie die
 Eintragungsstelle im Register samt aller zur Eintragung erforderlichen
-Merkmale festzustellen. Der Wortlaut der öffentlichen Bekanntmachung
-ist besonders zu verfügen, wenn er von dem der Eintragung abweicht.
-Der Urkundsbeamte der Geschäftsstelle hat die Ausführung der
-Eintragungsverfügung zu veranlassen, die Eintragung zu signieren und
-die verfügten Bekanntmachungen herbeizuführen.
+Merkmale festzustellen. Der Urkundsbeamte der Geschäftsstelle hat die
+Ausführung der Eintragungsverfügung zu veranlassen und die Eintragung
+zu signieren.
 
 (3) Die Wirksamkeit der Eintragung (§ 8a Abs. 1 des
 Handelsgesetzbuchs) ist in geeigneter Weise zu überprüfen. Die
@@ -482,6 +566,11 @@ Vollständigkeit sowie ihre Abrufbarkeit aus dem Datenspeicher (§ 48)
 prüfen.
 
 (4) Bei jeder Eintragung ist der Tag der Eintragung anzugeben.
+
+(5) Die Landesjustizverwaltung kann bestimmen, dass eine elektronische
+Aufzeichnung des genauen Zeitpunktes der erstmaligen Abrufbarkeit
+einer Eintragung oder Tatsache im Registerordner des jeweiligen
+Registerblattes gespeichert wird.
 
 
 ### § 28 Elektronische Signatur
@@ -505,14 +594,23 @@ Grundbuchverfügung entsprechend.
 
 
 2.  für die Beglaubigung und die Erteilung oder elektronische Übermittlung
-    von Bescheinigungen nach § 9 Abs. 5 des Handelsgesetzbuchs;
+    von Bescheinigungen nach § 9 Abs. 5 des Handelsgesetzbuchs und von
+    Verschmelzungs-, Spaltungs- oder Formwechselbescheinigungen nach § 316
+    Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des
+    Umwandlungsgesetzes;
 
 
 3.  für die Eintragung der in § 32 des Handelsgesetzbuchs vorgesehenen
     Vermerke im Zusammenhang mit einem Insolvenzverfahren;
 
 
-4.  für die Eintragung der inländischen Geschäftsanschrift.
+4.  für die Eintragung der Geschäftsanschrift;
+
+
+5.  für die elektronische Aufzeichnung der erstmaligen Abrufbarkeit einer
+    Eintragung oder Tatsache im Registerordner, falls die
+    Landesjustizverwaltung eine elektronische Aufzeichnung gemäß § 27
+    Absatz 5 bestimmt.
 
 
 
@@ -597,7 +695,8 @@ Ausdruck" der Vermerk "Dieser Ausdruck wird nicht unterschrieben und
 gilt als beglaubigte Abschrift. aufgedruckt sein oder werden.
 
 (4) Ausdrucke aus dem Registerblatt werden als chronologischer oder
-aktueller Ausdruck erteilt. Der chronologische Ausdruck gibt alle
+aktueller Ausdruck erteilt. Die Landesjustizverwaltung kann weitere
+Formen von Ausdrucken bestimmen. Der chronologische Ausdruck gibt alle
 Eintragungen des Registerblatts wieder. Der aktuelle Ausdruck enthält
 den letzten Stand der Eintragungen. Nicht in den aktuellen Ausdruck
 aufgenommen werden diejenigen Eintragungen, die gerötet oder auf
@@ -611,7 +710,12 @@ auch als fortlaufender Text erstellt werden.
 
 (5) Ausdrucke können dem Antragsteller auch elektronisch übermittelt
 werden. Die elektronische Übermittlung amtlicher Ausdrucke erfolgt
-unter Verwendung einer qualifizierten elektronischen Signatur.
+unter Verwendung einer Authentifizierung durch Vertrauensdienste nach
+der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des
+Rates vom 23. Juli 2014 über elektronische Identifizierung und
+Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
+zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
+73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44).
 
 (6) § 30 Abs. 3 gilt entsprechend.
 
@@ -625,33 +729,44 @@ Bescheinigungen und Zeugnisse können auch in elektronischer Form (§
 126a des Bürgerlichen Gesetzbuchs) übermittelt werden.
 
 
-### § 32
+### § 32 Bereitstellung der Eintragung zum Abruf
 
-Die Veröffentlichung der Eintragung ist unverzüglich zu veranlassen.
+Die Eintragung ist unverzüglich zum Abruf über das von der
+Landesjustizverwaltung nach § 9 Absatz 1 Satz 2 des Handelsgesetzbuchs
+bestimmte elektronische Informations- und Kommunikationssystem
+bereitzustellen.
 
 
-### § 33
+### § 33 Registerbekanntmachungen nach § 10 Absatz 3 des Handelsgesetzbuchs
 
-(1) Die öffentlichen Bekanntmachungen sollen knapp gefaßt und leicht
+(1) Registerbekanntmachungen nach § 10 Absatz 3 des Handelsgesetzbuchs
+werden in dem von der Landesjustizverwaltung nach § 9 Absatz 1 Satz 2
+des Handelsgesetzbuchs bestimmten elektronischen Informations- und
+Kommunikationssystem in der zeitlichen Folge ihrer Bekanntmachung für
+jedes Registerblatt gesondert als Veröffentlichung zum Abruf
+bereitgestellt.
+
+(2) Der Richter nimmt die Registerbekanntmachung entweder selbst vor
+oder er verfügt die Vornahme der Registerbekanntmachung durch den
+Urkundsbeamten der Geschäftsstelle, der diese dann für den Richter
+vornimmt. Der Wortlaut der Registerbekanntmachung ist besonders zu
+verfügen. Der Urkundsbeamte der Geschäftsstelle hat die verfügten
+Registerbekanntmachungen herbeizuführen.
+
+(3) Die Registerbekanntmachung soll knapp gefasst und leicht
 verständlich sein.
 
-(2) In den Bekanntmachungen ist das Gericht und der Tag der Eintragung
-zu bezeichnen, einer Unterschrift bedarf es nicht.
+(4) In der Registerbekanntmachung ist das Gericht und gegebenenfalls
+der Tag der betreffenden Eintragung zu bezeichnen, einer Unterschrift
+bedarf es nicht.
 
-(3) Die Bekanntmachungen sind tunlichst nach dem anliegenden Muster
-abzufassen. Der Tag der Bekanntmachung ist durch die bekannt machende
-Stelle beizufügen.
+(5) Die Registerbekanntmachungen sind möglichst nach dem Muster in
+Anlage 3 abzufassen. Der Tag der Registerbekanntmachung ist durch die
+bekanntmachende Stelle beizufügen.
 
 
-### § 34
+### § 34 (weggefallen)
 
-In den Bekanntmachungen sind, falls entsprechende Mitteilungen
-vorliegen, auch der Unternehmensgegenstand, soweit er sich nicht aus
-der Firma ergibt, und die Lage der Geschäftsräume anzugeben. Ist eine
-inländische Geschäftsanschrift eingetragen, so ist diese anstelle der
-Lage der Geschäftsräume anzugeben. Es ist in den Bekanntmachungen
-darauf hinzuweisen, daß die in Satz 1 genannten Angaben ohne Gewähr
-für die Richtigkeit erfolgen.
 
 
 ### § 34a Veröffentlichungen im Amtsblatt der Europäischen Union
@@ -671,10 +786,11 @@ Nr. L 199 S. 1) sowie der Verordnung (EG) Nr. 2157/2001 des Rates vom
 Wird eine Firma im Handelsregister gelöscht, weil das Unternehmen nach
 Art oder Umfang einen in kaufmännischer Weise eingerichteten
 Geschäftsbetrieb nicht erfordert, so kann auf Antrag des Inhabers in
-der Bekanntmachung der Grund der Löschung erwähnt werden. Handelt es
-sich um einen Handwerker, der bereits in die Handwerksrolle
+einer Registerbekanntmachung der Grund der Löschung erwähnt werden.
+Handelt es sich um einen Handwerker, der bereits in die Handwerksrolle
 eingetragen ist, so kann neben der Angabe des Grundes der Löschung in
-der Bekanntmachung auch auf diese Eintragung hingewiesen werden.
+einer Registerbekanntmachung auch auf diese Eintragung hingewiesen
+werden.
 
 
 ### § 36
@@ -739,9 +855,20 @@ Weise elektronisch übermittelt werden. § 15 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit bleibt unberührt.
 
-(3) Für die Texte für die öffentliche Bekanntmachung der Eintragungen
-sowie für Mitteilungen nach § 37 und Anfragen nach § 38 gelten die
-Absätze 1 und 2 entsprechend.
+(3) Für die Texte für die Mitteilungen nach § 37 und Anfragen nach §
+38 gelten die Absätze 1 und 2 entsprechend.
+
+
+### § 38b Überprüfung ausländischer Registereintragungen über das Europäische System der Registervernetzung
+
+Die Registergerichte können im Rahmen von Verfahren zur Anmeldung und
+Eintragung der Zweigniederlassung einer Kapitalgesellschaft, die dem
+Recht eines anderen Mitgliedstaates der Europäischen Union oder eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum unterliegt, Urkunden und Informationen zur
+Gesellschaft durch den Informationsaustausch über die zentrale
+Europäische Plattform gemäß § 9b Absatz 2 des Handelsgesetzbuchs
+abrufen und überprüfen.
 
 
 ## IV. - Sondervorschriften für die Abteilungen A und B
@@ -968,9 +1095,15 @@ einzutragen:
         Firma und Rechtsform sowie inländische Anschrift einer für
         Willenserklärungen und Zustellungen empfangsberechtigten Person, sowie
         die Errichtung oder Aufhebung von Zweigniederlassungen, und zwar unter
-        Angabe des Ortes einschließlich der Postleitzahl, der inländischen
-        Geschäftsanschrift und, falls der Firma für eine Zweigniederlassung
-        ein Zusatz beigefügt ist, unter Angabe dieses Zusatzes;
+        Angabe des Ortes einschließlich der Postleitzahl, der
+        Geschäftsanschrift sowie im Falle einer Zweigniederlassung, die dem
+        Recht eines anderen Mitgliedstaates der Europäischen Union oder eines
+        anderen Vertragsstaates des Abkommens über den Europäischen
+        Wirtschaftsraum unterliegt, unter Angabe des Staates, sowie falls
+        vorhanden der Registernummer und der einheitlichen europäischen
+        Kennung der Zweigniederlassung und, falls der Firma für eine
+        Zweigniederlassung ein Zusatz beigefügt ist, unter Angabe dieses
+        Zusatzes;
 
 
     c)  unter Buchstabe c der Gegenstand des Unternehmens
@@ -1166,6 +1299,52 @@ so ist bei der Eintragung in der Spalte "Bemerkungen" auf das
 bisherige Registerblatt zu verweisen und umgekehrt.
 
 
+#### § 46a
+
+(1) Eintragungen bei grenzüberschreitenden Umwandlungen nach dem
+Umwandlungsgesetz enthalten mindestens die folgenden Angaben:
+
+1.  von allen beteiligten Gesellschaften Firma und Rechtsform sowie das
+    Register, in dem die Gesellschaft eingetragen ist, und die Nummer der
+    Eintragung,
+
+
+2.  bei einer grenzüberschreitenden Verschmelzung durch Aufnahme oder
+    einer grenzüberschreitenden Spaltung zur Aufnahme die Tatsache, dass
+    eine grenzüberschreitende Verschmelzung oder Spaltung erfolgt ist, und
+    den Tag der Eintragung,
+
+
+3.  bei einer grenzüberschreitenden Verschmelzung durch Neugründung, einer
+    grenzüberschreitenden Spaltung zur Neugründung oder einem
+    grenzüberschreitenden Formwechsel die Tatsache, dass die Eintragung
+    der neuen Gesellschaft oder die Eintragung der neuen Rechtsform
+    infolge einer grenzüberschreitenden Verschmelzung oder Spaltung oder
+    eines grenzüberschreitenden Formwechsels erfolgte.
+
+
+
+
+(2) Bei Schließung des Registerblattes infolge einer
+grenzüberschreitenden Umwandlung sind mindestens anzugeben:
+
+1.  die Tatsache, dass die Schließung infolge einer grenzüberschreitenden
+    Verschmelzung, einer grenzüberschreitenden Aufspaltung oder eines
+    grenzüberschreitenden Formwechsels erfolgte, und
+
+
+2.  der Tag der Schließung.
+
+
+
+
+(3) Bei Ausstellung der Verschmelzungs-, Spaltungs- oder
+Formwechselbescheinigung bestimmt sich der Inhalt der Eintragung nach
+§ 316 Absatz 1, § 329 oder § 343 Absatz 1 des Umwandlungsgesetzes.
+
+(4) Nach anderen Vorschriften erforderliche Angaben bleiben unberührt.
+
+
 ## IVa. - Vorschriften für das elektronisch geführte Handelsregister
 
 
@@ -1281,7 +1460,11 @@ Genossenschaftsregister sowie das Unternehmensregister am 1. Januar
 
 Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren
 einschließlich des Rechts, von den abgerufenen Daten Abdrucke zu
-fertigen, bestimmen sich nach § 9 Abs. 1 des Handelsgesetzbuchs.
+fertigen, bestimmen sich nach § 9 Abs. 1 des Handelsgesetzbuchs. Für
+den Abruf im automatisierten Verfahren ist technisch sicherzustellen,
+dass ein Abruf der der Einsicht unterliegenden Abdrucke, Dokumente und
+Informationen jeweils nur einzeln für jedes Registerblatt möglich ist
+und dass keine gezielte Suche nach natürlichen Personen möglich ist.
 Abdrucke stehen den Ausdrucken (§ 30a) nicht gleich.
 
 
@@ -1356,150 +1539,394 @@ Der Reichsminister der Justiz
 
 -
 
-(zu § 33 Abs. 3)
+(zu § 33 Absatz 5)
 
-#### Anlage 3 Muster für Bekanntmachungen
+#### Anlage 3 Muster für Registerbekanntmachungen
 
-(Fundstelle: BGBl. I 2008, 2040)
-Amtsgericht Charlottenburg – Registergericht –,
-Aktenzeichen: HRB 8297
+(Fundstelle: BGBl. I 2021, 3351)
 
-In ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges
-erfolgen ohne Gewähr:
+[Bezeichnung des zuständigen Gerichts],
 
-Neueintragungen
-27\.06.2009
-HRB 8297 Jahn & Schubert GmbH, Berlin, Behrenstr. 9, 10117 Berlin.
-Gesellschaft mit beschränkter Haftung. Gegenstand: der Betrieb einer
-Buchdruckerei. Stammkapital: 30 000 EUR. Allgemeine
-Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt
-er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so
-wird die Gesellschaft durch zwei Geschäftsführer oder durch einen
-Geschäftsführer gemeinsam mit einem Prokuristen vertreten.
-Geschäftsführerin: Wedemann, Frauke, Berlin \*18.05.1986,
-einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft
-mit sich im eigenen Namen oder als Vertreter eines Dritten
-Rechtsgeschäfte abzuschließen. Gesellschaftsvertrag vom 13. 01. 2009
-mit Änderung vom 17.01.2009.
+Aktenzeichen: [Registernummer]
 
-Bekannt gemacht am: 30.06.2009.
+[Anlass der Bekanntmachung]
+
+[ggf. Datum der Eintragung]
+
+[Registernummer], [Firma], [Rechtsform], [Sitz],
+[Inhalt der Bekanntmachung]
+
+Tag der Registerbekanntmachung: [Datum].
 
 
 #### Anlage 4 (zu § 50 Abs. 1)
 
 (Fundstelle: BGBl. I 2001, 3693;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Handelsregister des Amtsgerichts       Abteilung A       Nummer der
-Firma: HR A
-----------------------------------------------------------------------
----------
-I a) Firma     I a) Allgemeine  I         I a) Rechtsform, I a) Tag
-I b) Sitz,     I    Vertretungs-          I    Beginn und  I    der
-I    Nieder-   I    regelung    I         I    Satzung     I    Ein-
-I    lassung,  I b) Inhaber,    I         I b) Sonstige    I    tra-
-I    inländische    persönlich  I         I    Rechts-     I    gung
-I    Geschäfts-     haftende    I Prokura I    verhältnisse  b) Be-
-I    anschrift I    Gesell-     I         I c) Komman-     I    mer-
-I    Zweig-    I    schafter,   I         I    ditisten,   I    kun-
-Nummer der I    nieder-   I    Geschäftts- I         I    Mitglieder
-I    gen
-Eintragung I    lassungen I    führer,     I         I    2)
-I
-I c) Gegenstand     Vorstand,   I         I                I
-I    des Unter-     Vertretungs-          I                I
-I    nehmens 1)     berechtigte I         I                I
-I              I    und besondere         I                I
-I              I    Vertretungs-          I                I
-I              I    befugnis    I         I                I
-I              I    befugnis    I         I                I
-----------------------------------------------------------------------
----------
-1     I      2       I        3       I    4    I        5       I
-6
-----------------------------------------------------------------------
----------
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
-I              I                I         I                I
------
 
-1)  Die Anmeldung des Unternehmensgegenstandes ist nur bei der
-    Europäischen wirtschaftlichen Interessenvereinigung und Juristischen
-    Personen zwingend.
+*    *   Handelsregister des Amtsgerichts
+
+    *   Abteilung A
+
+    *   Nummer der Firma: HR A
 
 
-2)  Mitglieder sind hier solche der Europäischen wirtschaftlichen
-    Interessenvereinigung.
+*    *   Nummer
+        der Ein-
+        tragung
+
+    *
+        a)  Firma
 
 
 
+
+        b)  Sitz, Niederlassung,
+            inländische Geschäftsanschrift
+            Zweigniederlassungen
+
+
+
+
+        c)[^BJNR705150937BJNE008801310_01_BJNR705150937BJNE008802160]
+  Gegenstand des Unternehmens
+
+
+
+
+    *
+        a)  Allgemeine Ver-
+            tretungsregelung
+
+
+
+
+        b)  Inhaber, persönlich
+            haftende Gesell-
+            schafter, Geschäfts-
+            führer, Vorstand, Ver-
+            tretungsberechtigte
+            und besondere Ver-
+            tretungsbefugnis
+
+
+
+
+    *   Prokura
+
+    *
+        a)  Rechtsform,
+            Beginn und
+            Satzung
+
+
+        b)  Sonstige Rechts-
+            verhältnisse
+
+
+
+
+        c)  Kommanditisten,
+[^BJNR705150937BJNE008801310_02_BJNR705150937BJNE008802160]
+            Mitglieder
+
+
+
+
+    *
+        a)  Tag
+            der Ein-
+            tragung
+
+
+
+
+        b)  Bemer-
+            kungen
+
+
+
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+
+   \_\_\__\_\__\_\__\_\_
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim
 Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
+    Die Anmeldung des Unternehmensgegenstandes ist nur bei der
+    Europäischen wirtschaftlichen Interessenvereinigung und juristischen
+    Personen zwingend.
+[^BJNR705150937BJNE008801310_01_BJNR705150937BJNE008802160]:     Mitglieder sind hier solche der Europäischen wirtschaftlichen
+    Interessenvereinigung.
+[^BJNR705150937BJNE008801310_02_BJNR705150937BJNE008802160]: 
 
 #### Anlage 5 (zu § 50 Abs. 1)
 
 (Fundstelle: BGBl. I 2001, 3693;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Handelsregister des Amtsgerichts       Abteilung B       Nummer der
-Firma: HR B
-----------------------------------------------------------------------
----------
-I a) Firma     I       I a) Allgemeine I      I a) Rechtsform, I a)
-Tag
-I b) Sitz,     I       I    Vertretungs-      I    Beginn,     I
-der
-I    Nieder-   I       I    regelung   I      I    Satzung     I
-Ein-
-I    lassung,          I b) Vorstand,  I      I    oder Gesell-
-tra-
-I    inländische       I    Leitungs-  I      I    schafts-    I
-gung
-I    Geschäfts-  Grund I    organ,     I      I    vertrag     I b)
-Bem-
-I    anschrift,  oder  I    geschäfts- I Pro- I b) Sonstige    I
-er-      I
-I    empfangs- I Stamm-     führende   I kura I    Rechts-     I
-kun-
-I    berechtigte kapital    Direktoren,I      I    verhältnisse
-gen
-I    Person    I       I    persönlich I      I                I
-Nummer I    Zweig-    I       I    haftende   I      I
-I
-der    I    nieder-   I       I    Gesell-    I      I
-I
-Ein-   I    lassungen I       I    schafter,  I      I
-I
-tragung  c) Gegenstand        I    Geschäfts- I      I
-I
-I    des Unter-        I    führer,    I      I                I
-I    nehmens   I       I    Vertretungs-      I                I
-I              I       I    berechtigte       I                I
-I              I       I    und besondere     I                I
-I              I       I    Vertretungs-      I                I
-I              I       I    befugnis          I                I
-----------------------------------------------------------------------
----------
-1    I      2       I   3   I       4       I  5   I       6        I
-7
-----------------------------------------------------------------------
----------
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
-I              I       I               I      I                I
------
+
+*    *   Handelsregister des Amtsgerichts
+
+    *   Abteilung B
+
+    *   Nummer der Firma: HR B
+
+
+*    *   Nummer
+        der Ein-
+        tragung
+
+    *
+        a)  Firma
+
+
+
+
+        b)  Sitz, Nieder-
+            lassung,
+            inländische Geschäftsanschrift,
+            empfangsberechtigte Person
+            Zweignieder-
+            lassungen
+
+
+
+
+        c)  Gegenstand des Unternehmens
+
+
+
+
+    *   Grund-
+        oder
+        Stamm
+        kapital
+
+    *
+        a)  Allgemeine Ver-
+            tretungsregelung
+
+
+
+
+        b)  Vorstand,
+            Leitungsorgan,
+            geschäftsführende Direktoren,
+            persönlich haftende Gesell-
+            schafter, Geschäfts-
+            führer, Vertretungs-
+            berechtigte und
+            besondere Ver-
+            tretungsbefugnis
+
+
+
+
+    *   Prokura
+
+    *
+        a)  Rechtsform,
+            Beginn, Satzung
+            oder Gesell-
+            schaftsvertrag
+
+
+
+
+        b)  Sonstige Rechts-
+            verhältnisse
+
+
+
+
+    *
+        a)  Tag
+            der Ein-
+            tragung
+
+
+
+
+        b)  Bemer-
+            kungen
+
+
+
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   \_\_\__\_\__\_\_\_\_
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim
 Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 

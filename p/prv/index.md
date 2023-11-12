@@ -119,9 +119,8 @@ Berufsbezeichnungen aller in der Partnerschaft vertretenen Berufe (§ 2
 Abs. 1 des Partnerschaftsgesellschaftsgesetzes). Dies gilt auch für
 Partnerschaften, an denen Steuerberater, Steuerbevollmächtigte,
 Wirtschaftsprüfer oder vereidigte Buchprüfer beteiligt sind, es sei
-denn, die Partnerschaft soll als Steuerberatungs-,
-Wirtschaftsprüfungs- oder Buchprüfungsgesellschaft anerkannt werden (§
-53 des Steuerberatungsgesetzes, §§ 31, 130 Abs. 2 der
+denn, die Partnerschaft soll als Wirtschaftsprüfungs- oder
+Buchprüfungsgesellschaft anerkannt werden (§§ 31, 130 Abs. 2 der
 Wirtschaftsprüferordnung).
 
 (3) In Spalte 3 ist unter Buchstabe a die allgemeine Regelung zur
@@ -180,13 +179,16 @@ Berufskammer, so sind dieser sämtliche Eintragungen mitzuteilen.
 
 Die Bekanntmachungen erfolgen in dem für das Handelsregister
 bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
+Registerbekanntmachungen im Sinne des § 10 Absatz 3 des
+Handelsgesetzbuchs sind möglichst nach dem Muster in Anlage 4
+abzufassen.
 
 
 ## § 8 Namenslöschung wegen Nichtausübung freiberuflicher Tätigkeit
 
 Wird der Name einer Partnerschaft gelöscht, weil unter diesem keine
 freiberufliche Tätigkeit ausgeübt wird, so kann auf Antrag der
-Gesellschafter in der Bekanntmachung der Grund der Löschung erwähnt
+Gesellschafter in einer Bekanntmachung der Grund der Löschung erwähnt
 werden.
 
 
@@ -476,18 +478,20 @@ dem Bildschirm stets sichtbar sein.
 ![bgbl1_1995_j0812_0010.jpg](bgbl1_1995_j0812_0010.jpg)
 (zu § 7)
 
-## Anlage 4 Muster für Bekanntmachungen
+## Anlage 4 Muster für Registerbekanntmachungen
 
-Amtsgericht München – Registergericht –, Aktenzeichen: PR 1292
-Die in ( ) gesetzten Angaben der Geschäftsanschrift und des
-Unternehmensgegenstandes erfolgen ohne Gewähr:
-Neueintragungen
-27\.06.2004
-PR 1292 Müller und Partner, Rechtsanwälte und Steuerberater, München
-(Junkerstr. 7, 80117 München). Partnerschaft. Gegenstand: Ausübung
-rechtsanwaltlicher und steuerberatender Tätigkeit. Jeweils zwei
-Partner vertreten gemeinsam. Partner: Müller, Peter, Rechtsanwalt,
-Starnberg, \* 18.05.1966; Schmidt, Christian, Steuerberater, München,
-\* 13.01.1966.
-Bekannt gemacht am: 30.06.2004.
+(Fundstelle: BGBl. I 2021, 3348)
+
+[Bezeichnung des zuständigen Gerichts],
+
+Aktenzeichen: [Registernummer]
+
+[Anlass der Bekanntmachung]
+
+[ggf. Datum der Eintragung]
+
+[Registernummer], [Name], [Sitz],
+[Inhalt der Bekanntmachung]
+
+Tag der Registerbekanntmachung: [Datum].
 

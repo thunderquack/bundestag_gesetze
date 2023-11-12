@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1494
 
 Zuletzt geändert durch
-:   Art. 8 G v. 4.11.2016 I 2473
-
-Änderung durch
-:   Art. 53 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 53 G v. 23.6.2021 I 1858
 
 
 ## § 1 Geltungsbereich

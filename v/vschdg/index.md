@@ -18,13 +18,10 @@ Fundstelle
 :   BGBl I: 2006, 3367
 
 Zuletzt geändert durch
-:   Art. 6 G v. 26.11.2020 I 2568
+:   Art. 19 G v. 24.6.2022 I 959
 
 Änderung durch
-:   Art. 7 Abs. 1 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 25.6.2021 I 2123 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -71,8 +68,7 @@ Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen
 innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten
 Verstößen mit Unions-Dimension zuständig
 
-1.  das Bundesamt für Justiz im Falle eines Verdachtes eines Verstoßes
-    gegen
+1.  das Umweltbundesamt im Falle eines Verdachtes eines Verstoßes gegen
 
     a)  die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26
         und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte
@@ -84,8 +80,8 @@ Verstößen mit Unions-Dimension zuständig
         Europäischen Union und die zu ihrer Umsetzung oder Durchführung
         erlassenen Rechtsvorschriften, soweit die Rechtsakte in den
         Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind
-        und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung
-        nach § 12 Absatz 1 übertragen worden ist,
+        und dem Umweltbundesamt die Zuständigkeit durch Rechtsverordnung nach
+        § 12 Absatz 1 übertragen worden ist,
 
 
 
@@ -192,9 +188,9 @@ Verstößen mit Unions-Dimension zuständig
 
 ### § 3 Zentrale Verbindungsstelle
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz ist
-zentrale Verbindungsstelle im Sinne des Artikels 5 Absatz 1 der
-Verordnung (EU) 2017/2394.
+(1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz ist zentrale Verbindungsstelle im Sinne des
+Artikels 5 Absatz 1 der Verordnung (EU) 2017/2394.
 
 (2) Die zentrale Verbindungsstelle berichtet den für den
 Verbraucherschutz zuständigen obersten Landesbehörden jährlich,
@@ -306,7 +302,7 @@ Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der
 Verordnung (EU) 2017/2394 eine in § 3 Abs. 1 Satz 1 Nr. 1 bis 3 des
 Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2 bis 4 des
 Gesetzes gegen den unlauteren Wettbewerb genannte Stelle (beauftragter
-Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 4e des
+Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 2a des
 Unterlassungsklagengesetzes, auch in Verbindung mit § 8 Abs. 5 Satz 2
 zweiter Halbsatz des Gesetzes gegen den unlauteren Wettbewerb, auf das
 Abstellen dieser Verstöße hinzuwirken. Der beauftragte Dritte handelt
@@ -391,16 +387,17 @@ Versicherungen und Kreditinstitute, Finanzdienstleistungsinstitute
 oder Wertpapierinstitute nach § 2 Nummer 2 Buchstabe b dem
 Aufgabenbereich Banken und sonstige Finanzdienstleistungen zuzuordnen.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz, das
-Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft
-und Energie und das Bundesministerium für Verkehr und digitale
-Infrastruktur werden jeweils ermächtigt, die Ermächtigung zum Erlass
-einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des
-Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in
-§ 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu
-übertragen, in dem diese individuell zurechenbare öffentliche
-Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
+(3) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz, das Bundesministerium der Finanzen, das
+Bundesministerium für Wirtschaft und Klimaschutz und das
+Bundesministerium für Digitales und Verkehr werden jeweils ermächtigt,
+die Ermächtigung zum Erlass einer Rechtsverordnung nach § 22 Absatz 4
+Satz 1 des Bundesgebührengesetzes durch Rechtsverordnung ohne
+Zustimmung des Bundesrates auf die zu ihrem jeweiligen
+Geschäftsbereich gehörende, in § 2 Nummer 1, 2, 2a, 3, 5 oder 6
+genannte Behörde in dem Umfang zu übertragen, in dem diese individuell
+zurechenbare öffentliche Leistungen nach diesem Gesetz oder aufgrund
+dieses Gesetzes erbringt.
 
 
 ## Abschnitt 4 - Anpassung an geändertes Gemeinschaftsrecht
@@ -411,16 +408,16 @@ Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
 
 (1) Soweit weitere Rechtsakte der Europäischen Union in den
 Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden
-sind, wird das Bundesministerium der Justiz und für Verbraucherschutz
-ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EU)
-2017/2394 im Einvernehmen mit dem Bundesministerium der Finanzen durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für
-Justiz zu übertragen. Im Falle einer Rechtsverordnung nach Satz 1
-bleibt § 2 Nummer 2 und 4 unberührt.
+sind, wird das Bundesministerium für Umwelt, Naturschutz, nukleare
+Sicherheit und Verbraucherschutz ermächtigt, die Zuständigkeit für die
+Durchführung der Verordnung (EU) 2017/2394 im Einvernehmen mit dem
+Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
+des Bundesrates auf das Umweltbundesamt zu übertragen. Im Falle einer
+Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2 und 4 unberührt.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates
+(2) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates
 
 1.  Verweisungen auf Vorschriften der Verordnung (EU) 2017/2394 in diesem
     Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser
@@ -895,7 +892,7 @@ entsprechend anzuwenden.
 
 ### § 29 Evaluierung
 
-Das Bundesministerium der Justiz und für Verbraucherschutz berichtet
-dem Deutschen Bundestag bis zum 31. Januar 2025 über die Anwendung des
-Gesetzes durch Bundesbehörden.
+Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz berichtet dem Deutschen Bundestag bis zum 31. Januar
+2025 über die Anwendung des Gesetzes durch Bundesbehörden.
 

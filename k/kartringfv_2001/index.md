@@ -18,7 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 10.10.2012 I 2113
 
-Diese Verordnung dient der Umsetzung der Richtlinie 98/57/EG desRates
+Diese Verordnung dient der Umsetzung der Richtlinie 98/57/EG des Rates
 vom 20. Juli 1998 zur Bekämpfung von Ralstonia solanacearum(Smith)
 Yabuuchi et al. (ABl. EG Nr. L 235 S. 1).
 

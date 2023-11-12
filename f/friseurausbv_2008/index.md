@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 856
 
-Geändert durch
-:   Art. 1 V v. 30.4.2021 I 861
+Zuletzt geändert durch
+:   Art. 1 V v. 5.7.2022 I 1070
 
 [^f771102_01_BJNR085600008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
     der Handwerksordnung. Die Ausbildungsordnung und der damit
@@ -548,6 +548,13 @@ werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
 
+## § 10a Übergangsvorschrift
+
+Für Berufsausbildungsverhältnisse, die im Zeitraum vom 1. August 2021
+bis zum Ablauf des 31. Juli 2022 begonnen wurden, ist § 7 Absatz 4
+Nummer 1 Buchstabe b nicht anzuwenden.
+
+
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
@@ -895,8 +902,7 @@ Kenntnisse und Fähigkeiten
 
 *    *   3
 
-    *   Dekorative Kosmetik
-        und Maniküre
+    *   Dekorative Kosmetik und Maniküre
         (§ 4 Abs. 2 Abschnitt A Nr. 3)
 
     *
@@ -915,6 +921,9 @@ Kenntnisse und Fähigkeiten
         e)  Nagelhaut und Nägel behandeln sowie Nägel formen
 
 
+        f)  Augenbrauen und Wimpern gestalten und färben
+
+
 
 
     *   6
@@ -922,16 +931,13 @@ Kenntnisse und Fähigkeiten
     *
 
 *    *
-        f)  Nägel polieren und dekorativ gestalten
+        g)  Nägel polieren und dekorativ gestalten
 
 
-        g)  Hände und Unterarme mit ausgewählten Präparaten massieren
+        h)  Hände und Unterarme mit ausgewählten Präparaten massieren
 
 
-        h)  Make-up für besondere Anlässe gestalten
-
-
-        i)  Augenbrauen und Wimpern gestalten und färben
+        i)  Make-up für besondere Anlässe gestalten
 
 
 

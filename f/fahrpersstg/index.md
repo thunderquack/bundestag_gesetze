@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. 19.2.1987 I 640;
 
 Zuletzt geändert durch
-:   Art. 138 G v. 20.11.2019 I 1626
+:   Art. 19 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Anwendungsbereich
@@ -232,8 +232,8 @@ die Fahrervermittlungsagentur zur Erfüllung der sich aus diesem Gesetz
 und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
 ergebenden Pflichten zu treffen haben.
 
-(2) Unberührt bleibt die Zuständigkeit des Bundesamtes für
-Güterverkehr nach § 9 Abs. 2 dieses Gesetzes und nach § 11 Abs. 2 Nr.
+(2) Unberührt bleibt die Zuständigkeit des Bundesamtes für Logistik
+und Mobilität nach § 9 Abs. 2 dieses Gesetzes und nach § 11 Abs. 2 Nr.
 3 Buchstabe a, § 12 Abs. 6 des Güterkraftverkehrsgesetzes.
 
 (3) Der Unternehmer, der Fahrzeughalter und die Mitglieder des
@@ -673,7 +673,7 @@ Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche
 Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des
 Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36
 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für
-Güterverkehr.
+Logistik und Mobilität.
 
 (3) (weggefallen)
 

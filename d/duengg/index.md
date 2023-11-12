@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 54 (136)
 
 Zuletzt geändert durch
-:   Art. 96 G v. 10.8.2021 I 3436
+:   Art. 2 Abs. 13 G v. 20.12.2022 I 2752
 
 [^BJNR005400009_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -836,7 +836,7 @@ anderer Mitgliedstaaten oder der Europäische Kommission mitteilen.
 (7) Zum Zweck der Überwachung der Einhaltung der Anforderungen des § 3
 Absatz 1 bis 3 und der auf Grund des § 3 Absatz 4 auch in Verbindung
 mit Absatz 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz
-6, erlassenen Rechtsverordnungen übermitteln die in den Nummern 1 bis
+5, erlassenen Rechtsverordnungen übermitteln die in den Nummern 1 bis
 4 genannten Stellen und Behörden den für die Überwachung nach Absatz 1
 zuständigen Behörden auf Ersuchen die folgenden Daten:
 
@@ -954,7 +954,7 @@ erheben, speichern und nutzen. Zu dem in Absatz 7 Satz 1 genannten
 Zweck dürfen die zuständigen Behörden diese Daten mit Daten
 abgleichen, die sie nach diesem Gesetz oder den auf Grund des § 3
 Absatz 4 oder 5 und des § 4, jeweils auch in Verbindung mit § 15
-Absatz 6, erlassenen Rechtsverordnungen erhoben, gespeichert oder
+Absatz 5, erlassenen Rechtsverordnungen erhoben, gespeichert oder
 genutzt haben. Die in Satz 1 genannten Daten sind durch die nach
 Absatz 1 zuständige Behörde unverzüglich zu löschen, sobald sie zur
 Erfüllung des Zwecks, zu dem sie erhoben, gespeichert oder genutzt
@@ -1178,28 +1178,28 @@ Toleranz planmäßig ausnutzt.
 1.  einer Rechtsverordnung
 
     a)  nach § 3 Absatz 4 oder 5 Nummer 2, 3, 5, 6, 8 oder 10, auch in
-        Verbindung mit § 15 Absatz 6 Satz 1, oder nach § 11a Absatz 2 Satz 6
-        Nummer 1, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+        Verbindung mit § 15 Absatz 5 Satz 1, oder nach § 11a Absatz 2 Satz 6
+        Nummer 1, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
 
     b)  nach § 3 Absatz 5 Nummer 1 oder 9, jeweils auch in Verbindung mit § 15
-        Absatz 6 Satz 1 oder 2 Nummer 1, oder nach § 3 Absatz 5 Nummer 4, auch
-        in Verbindung mit § 15 Absatz 6 Satz 1,
+        Absatz 5 Satz 1 oder 2 Nummer 1, oder nach § 3 Absatz 5 Nummer 4, auch
+        in Verbindung mit § 15 Absatz 5 Satz 1,
 
 
     c)  nach § 3 Absatz 5 Nummer 7 oder § 11a Absatz 2 Satz 4 oder 6 Nummer 2,
-        jeweils auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+        jeweils auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
         oder nach § 11 Absatz 3 Nummer 7 oder 8,
 
 
-    d)  nach § 4, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+    d)  nach § 4, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
 
-    e)  nach § 5 Abs. 2, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2
+    e)  nach § 5 Abs. 2, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2
         Nummer 1,
 
 
-    f)  nach § 7, auch in Verbindung mit § 15 Absatz 6 Satz 1 oder 2 Nummer 1,
+    f)  nach § 7, auch in Verbindung mit § 15 Absatz 5 Satz 1 oder 2 Nummer 1,
 
 
 
@@ -1286,11 +1286,7 @@ die Sachbereiche dieses Gesetzes, insbesondere über den Verkehr mit
 oder die Anwendung von Düngemitteln, betreffen, dienen, ohne
 Zustimmung des Bundesrates erlassen.
 
-(5) Rechtsverordnungen können abweichend von § 2 Absatz 1 des
-Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet
-werden.
-
-(6) In den Rechtsverordnungen auf Grund dieses Gesetzes, ausgenommen §
+(5) In den Rechtsverordnungen auf Grund dieses Gesetzes, ausgenommen §
 11, kann die jeweilige Ermächtigung ganz oder teilweise auf die
 Landesregierungen übertragen werden. Soweit eine nach Satz 1 erlassene
 Rechtsverordnung die Landesregierungen zum Erlass von

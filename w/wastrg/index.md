@@ -19,27 +19,8 @@ Neugefasst durch
 :   Bek. v. 23.5.2007 I 962; 2008, 1980;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 29.11.2018 I 2237
+:   Art. 3 G v. 18.8.2021 I 3901
 
-Änderung durch
-:   Art. 335 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2b G v. 3.12.2020 I 2694 ist berücksichtigt
-
-Änderung durch
-:   Art. 1 G v. 2.6.2021 I 1278 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 3.6.2021 I 1465 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 57 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 18.8.2021 I 3901 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 20.2.2019 I 196 ist berücksichtigt
 
 ## Abschnitt 1 - Bundeswasserstraßen
 
@@ -1957,7 +1938,7 @@ Erstattung vom Bund verlangen.
 
 (Inkrafttreten)
 
-((zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)
+(zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)
 
 ### Anlage 1 Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 

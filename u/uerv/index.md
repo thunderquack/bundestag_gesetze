@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 169
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.6.2021 I 2334
-
-Änderung durch
-:   Art. 3 V v. 12.11.2021 I 4932 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 12.11.2021 I 4932
 
 [^f801540_01_BJNR016900018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
     Rates vom 20. April 2015 zur Festlegung von Berechnungsverfahren und

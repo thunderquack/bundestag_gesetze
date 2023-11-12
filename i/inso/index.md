@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2866
 
 Zuletzt geändert durch
-:   Art. 35 G v. 10.8.2021 I 3436
+:   Art. 11 G v. 20.7.2022 I 1166
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -2440,6 +2440,40 @@ Protokoll an Eides Statt versichert, er habe die von ihm verlangte
 Auskunft nach bestem Wissen und Gewissen richtig und vollständig
 erteilt. Die §§ 478 bis 480, 483 der Zivilprozeßordnung gelten
 entsprechend.
+
+(1a) Das Gericht kann an Stelle des Gerichtsvollziehers die Maßnahmen
+nach § 802l Absatz 1 Satz 1 der Zivilprozessordnung durchführen, wenn
+
+1.  eine Aufforderung zur Auskunftserteilung nach § 97 Absatz 1 nicht
+    zustellbar ist und
+
+    a)  die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit
+        der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2
+        der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten
+        vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+
+    b)  die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt,
+        dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+
+    c)  die Meldebehörde innerhalb von drei Monaten vor der Aufforderung zur
+        Auskunftserteilung die Auskunft erteilt hat, dass ihr keine derzeitige
+        Anschrift des Schuldners bekannt ist;
+
+
+
+
+
+2.  der Schuldner seiner Auskunftspflicht nach § 97 nicht nachkommt oder
+
+
+3.  dies aus anderen Gründen zur Erreichung der Zwecke des
+    Insolvenzverfahrens erforderlich erscheint.
+
+
+
+§ 802l Absatz 2 der Zivilprozessordnung ist entsprechend anzuwenden.
 
 (2) Das Gericht kann den Schuldner zwangsweise vorführen und nach
 Anhörung in Haft nehmen lassen,
@@ -6228,16 +6262,16 @@ Lage ist, seine Geschäftsführung an den Interessen der Gläubiger
 auszurichten.
 
 (3) Einem vorläufigen Gläubigerausschuss ist vor Erlass der
-Entscheidung nach Absatz 2 Gelegenheit zur Äußerung zu geben. Ohne
-Äußerung des Gläubigerausschusses darf eine Entscheidung nur ergehen,
-wenn seit der Antragstellung zwei Werktage vergangen sind oder wenn
-offensichtlich mit nachteiligen Veränderungen der Vermögenslage des
-Schuldners zu rechnen ist, die sich nicht anders als durch Bestellung
-eines vorläufigen Insolvenzverwalters abwenden lassen. An einen die
-vorläufige Eigenverwaltung unterstützenden einstimmigen Beschluss des
-vorläufigen Gläubigerausschusses ist das Gericht gebunden. Stimmt der
-vorläufige Gläubigerausschuss einstimmig gegen die vorläufige
-Eigenverwaltung, unterbleibt die Anordnung.
+Entscheidung nach Absatz 1 oder Absatz 2 Gelegenheit zur Äußerung zu
+geben. Ohne Äußerung des Gläubigerausschusses darf eine Entscheidung
+nur ergehen, wenn seit der Antragstellung zwei Werktage vergangen sind
+oder wenn offensichtlich mit nachteiligen Veränderungen der
+Vermögenslage des Schuldners zu rechnen ist, die sich nicht anders als
+durch Bestellung eines vorläufigen Insolvenzverwalters abwenden
+lassen. An einen die vorläufige Eigenverwaltung unterstützenden
+einstimmigen Beschluss des vorläufigen Gläubigerausschusses ist das
+Gericht gebunden. Stimmt der vorläufige Gläubigerausschuss einstimmig
+gegen die vorläufige Eigenverwaltung, unterbleibt die Anordnung.
 
 (4) Bestellt das Gericht einen vorläufigen Insolvenzverwalter, sind
 die Gründe hierfür schriftlich darzulegen. § 27 Absatz 2 Nummer 4 gilt
@@ -6394,8 +6428,7 @@ anzuordnen oder nach § 270e aufzuheben.
 Die Forderungen der Insolvenzgläubiger sind beim Sachwalter
 anzumelden. Die §§ 32 und 33 sind nicht anzuwenden.
 
-(3) § 270b Absatz 1 Satz 1, Absatz 2 und 3 ist entsprechend
-anzuwenden.
+(3) § 270b Absatz 3 und 4 ist entsprechend anzuwenden.
 
 
 ### § 270g Eigenverwaltung bei gruppenangehörigen Schuldnern

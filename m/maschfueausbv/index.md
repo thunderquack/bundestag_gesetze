@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 647
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.8.2007 I 2134
+:   Art. 2 V v. 14.6.2023 I Nr. 151
 
 Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -549,8 +549,8 @@ Vorschriften des dritten und vierten Ausbildungsjahres im
 1.  Schwerpunkt Metalltechnik/Kunststofftechnik in einem der
     Ausbildungsberufe
 
-    Verfahrensmechaniker für Kunststoff- und Kautschuktechnik/
-    Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik,
+    Kunststoff- und Kautschuktechnologe/Kunststoff- und
+    Kautschuktechnologin,
 
     Feinwerkmechaniker/Feinwerkmechanikerin,
 

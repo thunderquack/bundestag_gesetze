@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1121, 1137
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2020 I 3320
-
-Änderung durch
-:   Art. 19 G v. 25.6.2021 I 2154 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 27 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 10.3.2023 I Nr. 64
 
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft
@@ -499,7 +493,7 @@ soweit diese nicht die Zugehörigkeit zur Patentanwaltskammer sowie die
 Kanzlei betreffen. Von den Vorschriften des Dritten Teils der
 Patentanwaltsordnung gelten nur die §§ 39, 39a Absatz 1 bis 5, §§ 39b,
 39c, 41, 45b und 51. § 18 Absatz 2 bleibt unberührt. Die Vorschriften
-der nach § 52b der Patentanwaltsordnung erlassenen Berufsordnung
+der nach § 52a der Patentanwaltsordnung erlassenen Berufsordnung
 gelten, soweit sie die §§ 39, 39a Absatz 1 bis 5, §§ 39b, 41 und 49a
 Absatz 1 der Patentanwaltsordnung näher ausgestalten.
 
@@ -589,8 +583,8 @@ entsprechend.
 
 (4) Für die Mitteilungspflichten der Gerichte und Behörden zur
 Einleitung von Verfahren gelten § 34a Satz 1 des Gesetzes über die
-Tätigkeit europäischer Rechtsanwälte in Deutschland und § 34 Absatz 2
-Satz 2 der Patentanwaltsordnung entsprechend.
+Tätigkeit europäischer Rechtsanwälte in Deutschland und § 34 Absatz 3
+der Patentanwaltsordnung entsprechend.
 
 
 ## Teil 3 - Berufsausübung als niedergelassener europäischer Patentanwalt
@@ -599,9 +593,9 @@ Satz 2 der Patentanwaltsordnung entsprechend.
 ### § 20 Niedergelassener europäischer Patentanwalt
 
 Ein europäischer Patentanwalt, der in einem anderen Mitgliedstaat, in
-dem der Beruf des Patentanwalts reglementiert ist, niedergelassen ist
-und der in die Patentanwaltskammer aufgenommen ist, ist berechtigt,
-sich unter der Berufsbezeichnung seines Herkunftsstaates zur
+dem der Beruf des Patentanwalts reglementiert ist, zugelassen ist und
+der in die Patentanwaltskammer aufgenommen ist, ist berechtigt, sich
+unter der Berufsbezeichnung seines Herkunftsstaates zur
 Rechtsbesorgung auf dem Gebiet des ausländischen und des
 internationalen gewerblichen Rechtsschutzes in Deutschland
 niederzulassen (niedergelassener europäischer Patentanwalt).
@@ -623,15 +617,15 @@ Rechtsanwälte in Deutschland entsprechend.
 Patentanwaltskammer, für die Rechtsstellung des niedergelassenen
 europäischen Patentanwalts nach der Aufnahme sowie für die Rücknahme
 und den Widerruf der Aufnahme gelten mit Ausnahme der §§ 5 bis 13, 18
-Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 19 und 24 der Zweite bis
-Vierte Teil, der Dritte Abschnitt des Fünften Teils sowie der Sechste
-bis Achte Teil der Patentanwaltsordnung sinngemäß sowie die aufgrund
-von § 29 Absatz 5 der Patentanwaltsordnung erlassene Rechtsverordnung.
-An die Stelle der Ausschließung aus der Patentanwaltschaft nach § 96
-Absatz 1 Nummer 4 der Patentanwaltsordnung tritt der Verlust der
-Mitgliedschaft. Vorläufige Berufs- oder Vertretungsverbote nach § 132
-Absatz 1 Satz 1 der Patentanwaltsordnung sind für das Bundesgebiet
-auszusprechen.
+Absatz 2 Nummer 1 und Absatz 4, der §§ 19 und 24 sowie des § 52j
+Absatz 3 der Zweite bis Vierte Teil, der Dritte Abschnitt des Fünften
+Teils sowie der Sechste bis Achte Teil sowie § 159 der
+Patentanwaltsordnung sinngemäß sowie die aufgrund von § 29 Absatz 6
+der Patentanwaltsordnung erlassene Rechtsverordnung. An die Stelle der
+Ausschließung aus der Patentanwaltschaft nach § 96 Absatz 1 Nummer 4
+der Patentanwaltsordnung tritt der Verlust der Mitgliedschaft.
+Vorläufige Berufs- oder Vertretungsverbote nach § 132 Absatz 1 Satz 1
+der Patentanwaltsordnung sind für das Bundesgebiet auszusprechen.
 
 (3) Der niedergelassene europäische Patentanwalt hat bei der Führung
 seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache

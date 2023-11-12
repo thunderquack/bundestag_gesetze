@@ -18,28 +18,7 @@ Fundstelle
 :   BGBl I: 2013, 1111
 
 Zuletzt geändert durch
-:   Art. 10c G v. 28.4.2020 I 960
-
-Änderung durch
-:   Art. 11 G v. 12.5.2021 I 1087 (Nr. 24) mWv 26.5.2021 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 12 G v. 12.5.2021 I 1087 (Nr. 24) mWv 26.5.2022 noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 19 G v. 12.5.2021 I 1087 (Nr. 24) noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 16 G v. 27.7.2021 I 3146 (Nr. 49) mWv 16.7.2021 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 21 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 21 G v. 10.8.2021 I 3436
 
 [^F780609_01_BJNR111100013]:     Die Verordnung dient der Umsetzung der Richtlinie 2011/65/ EU des
     Europäischen Parlaments und des Rates vom 8. Juni 2011 zur
@@ -374,14 +353,20 @@ Im Sinne dieser Verordnung bezeichnet der Ausdruck
     Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und
     zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl.
     L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
-    27\.12.2019, S. 165);
+    27\.12.2019, S. 165, die durch die Verordnung (EU) 2020/561 (ABl. L 130
+    vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden
+    Fassung);
 
 
 21. In-vitro-Diagnostikum:
 
-    ein In-vitro-Diagnostikum im Sinne von § 3 Nummer 4 des
-    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020
-    geltenden Fassung;
+    ein In-vitro-Diagnostikum im Sinne von Artikel 2 Nummer 2 der
+    Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates
+    1092 Bundesgesetzblatt Jahrgang 2021 Teil I Nr. 24, ausgegeben zu Bonn
+    am 21. Mai 2021 vom 5. April 2017 über In-vitro-Diagnostika und zur
+    Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der
+    Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S.
+    11; L 334 vom 27.12.2019, S. 167) in der jeweils geltenden Fassung;
 
 
 22. aktives, implantierbares medizinisches Gerät:
@@ -883,7 +868,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 1 ein Elektro- oder Elektronikgerät in Verkehr
 bringt.
 
-(2) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Absatz 2 Satz 1 Nummer 3 ein Elektro- und Elektronikgerät

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1318
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.5.2020 I 1077
+:   Art. 7 V v. 6.7.2022 I 1102
 
 
 ## Eingangsformel
@@ -138,8 +138,8 @@ nach den Vorschriften dieser Verordnung gekennzeichnet werden.
 
 ## § 3
 
-Fertigarzneimittel, die nach § 47 Absatz 1 Satz 1 Nummer 2 Buchstabe a
-des Arzneimittelgesetzes vom ausschließlichen Vertrieb über Apotheken
+Fertigarzneimittel, die nach § 47 Absatz 1 Nummer 2 Buchstabe a des
+Arzneimittelgesetzes vom ausschließlichen Vertrieb über Apotheken
 freigestellt sind, und Arzneimittel zur spezifischen Therapie von
 Gerinnungsstörungen bei Hämophilie können, soweit sie nach § 5
 entsprechend gekennzeichnet sind, auf Grund einer ärztlichen

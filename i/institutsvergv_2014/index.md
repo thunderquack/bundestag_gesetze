@@ -16,10 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4270
 
-Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
 Zuletzt geändert durch
-:   Art. 1 V v. 20.9.2021 I 4308
+:   Art. 1 V v. 14.2.2023 I Nr. 41
 
+Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
     Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
@@ -60,14 +60,14 @@ und auf Unternehmen, die ausschließlich Finanzdienstleistungen gemäß §
 erbringen, ist sie nicht anzuwenden.
 
 (2) § 5 Absatz 6 und § 16 sind nicht anzuwenden auf Institute, die
-weder ein CRR-Institut gemäß § 1 Absatz 3d Satz 3 des
+weder ein CRR-Kreditinstitut gemäß § 1 Absatz 3d Satz 1 des
 Kreditwesengesetzes noch bedeutend gemäß § 1 Absatz 3c des
 Kreditwesengesetzes sind.
 
 (3) Abschnitt 3 gilt nur für bedeutende Institute gemäß § 1 Absatz 3c
 des Kreditwesengesetzes. Die §§ 18, 19 Absatz 1 Satz 1 und 2, Absatz 2
 und 3, § 20 Absatz 1 und 3 bis 6 sowie die §§ 21 und 22 gelten auch
-für CRR-Institute, die nicht bedeutend gemäß § 1 Absatz 3c des
+für CRR-Kreditinstitute, die nicht bedeutend gemäß § 1 Absatz 3c des
 Kreditwesengesetzes sind, wenn
 
 1.  sie übergeordnete Unternehmen sind, deren Bilanzsumme auf
@@ -589,10 +589,15 @@ entsprechend. Bei der Festsetzung des Gesamtbetrags
 2.  ist sicherzustellen, dass das Institut und die Gruppe in der Lage
     sind,
 
-    a)  eine angemessene Eigenmittel- und Liquiditätsausstattung und
+    a)  eine angemessene Eigenmittel- und Liquiditätsausstattung,
 
 
     b)  die kombinierten Kapitalpufferanforderungen gemäß § 10i des
+        Kreditwesengesetzes und
+
+
+    c)  sofern es sich um ein global systemrelevantes Institut handelt, die
+        Anforderung an den Puffer der Verschuldungsquote gemäß § 10j des
         Kreditwesengesetzes
 
 
@@ -1370,7 +1375,7 @@ Anlagetätigkeiten ausführt, in der gruppenweiten Vergütungsstrategie
 die Einhaltung der Anforderungen gemäß Absatz 1 Satz 2 sowie Absatz 2
 sicherzustellen, sofern sich deren berufliche Tätigkeit direkt und
 wesentlich auf das Risikoprofil oder die Geschäftstätigkeit mindestens
-eines CRR-Institutes der Gruppe auswirkt.
+eines CRR-Kreditinstitutes der Gruppe auswirkt.
 
 (5) Das übergeordnete Unternehmen hat die Einhaltung der gruppenweiten
 Vergütungsstrategie in den nachgeordneten Unternehmen sicherzustellen.

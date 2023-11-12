@@ -22,10 +22,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.9.2002 I 3490;
 
-Stand: zuletzt geändert Art. 4 G v. 25.2.2021 I 306
-Änderung durch
-:   Art. 17 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: zuletzt geändert Art. 17 G v. 10.8.2021 I 3436
 
 ## Teil 1 - Allgemeine Vorschriften
 

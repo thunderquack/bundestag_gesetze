@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.11.2008 I 2260;
 
 Zuletzt geändert durch
-:   Art. 104 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 2 G v. 9.12.2020 I 2863 (Nr. 61) mWv 15.12.2020 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.12.2020 I 2863
 
 
 ## (XXXX) §§ 1 bis 14 (weggefallen)

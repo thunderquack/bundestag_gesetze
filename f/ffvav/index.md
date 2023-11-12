@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4591 (4831)
 
+Geändert durch
+:   Art. 2 G v. 4.1.2023 I Nr. 9
+
 
 ## § 1 Anwendungsbereich
 
@@ -213,7 +216,19 @@ Weise zur Verfügung stellen:
     Durchschnittskunden derselben Nutzerkategorie; im Fall der
     elektronischen Übermittlung der Abrechnung kann ein solcher Vergleich
     vom Versorgungsunternehmen alternativ online bereitgestellt und in der
-    Abrechnung darauf verwiesen werden.
+    Abrechnung darauf verwiesen werden,
+
+
+7.  in Fällen, in denen das Versorgungsunternehmen sich gegenüber dem
+    Kunden zur Lieferung von Wärme oder Kälte verpflichtet, die zu einem
+    bestimmten Anteil aus oder auf Basis von erneuerbaren Energien oder
+    unvermeidbarer Abwärme erzeugt worden ist, einen Nachweis über den
+    Anteil oder die Menge der eingesetzten erneuerbaren Energieträger und
+    der eingesetzten Wärme- oder Kältetechnologien mittels
+    Herkunftsnachweisen, die von der zuständigen Behörde nach § 5 des
+    Herkunftsnachweisregistergesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr.
+    9) für die an den Kunden gelieferte Wärme oder Kälte ausgestellt
+    wurde.
 
 
 

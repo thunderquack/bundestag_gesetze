@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3675
 
 Zuletzt geändert durch
-:   Art. 9 G v. 12.12.2019 I 2637
-
-Änderung durch
-:   Art. 17 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 62 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 19.6.2023 I Nr. 154
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -86,16 +77,16 @@ Umwandlungsgesetzes vorgeschriebenen Hinweis bekannt zu machen.
 #### § 6 Verbesserung des Umtauschverhältnisses
 
 (1) Unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der
-Verordnung kann eine Klage gegen den Verschmelzungsbeschluss einer
-übertragenden Gesellschaft nicht darauf gestützt werden, dass das
-Umtauschverhältnis der Anteile nicht angemessen ist.
+Verordnung kann eine Klage gegen den Verschmelzungsbeschluss nicht
+darauf gestützt werden, dass das Umtauschverhältnis der Anteile nicht
+angemessen ist.
 
 (2) Ist bei der Gründung einer SE durch Verschmelzung nach dem
 Verfahren der Verordnung das Umtauschverhältnis der Anteile nicht
-angemessen, so kann jeder Aktionär einer übertragenden Gesellschaft,
-dessen Recht, gegen die Wirksamkeit des Verschmelzungsbeschlusses
-Klage zu erheben, nach Absatz 1 ausgeschlossen ist, von der SE einen
-Ausgleich durch bare Zuzahlung verlangen.
+angemessen, so kann jeder Aktionär, dessen Recht, gegen die
+Wirksamkeit des Verschmelzungsbeschlusses Klage zu erheben, nach
+Absatz 1 ausgeschlossen ist, von der SE einen Ausgleich durch bare
+Zuzahlung verlangen.
 
 (3) Die bare Zuzahlung ist nach Ablauf des Tages, an dem die
 Verschmelzung im Sitzstaat der SE nach den dort geltenden Vorschriften
@@ -104,19 +95,21 @@ Prozentpunkten über dem jeweiligen Basiszinssatz nach § 247 des
 Bürgerlichen Gesetzbuchs zu verzinsen. Die Geltendmachung eines
 weiteren Schadens ist nicht ausgeschlossen.
 
-(4) Macht ein Aktionär einer übertragenden Gesellschaft unter den
-Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung geltend,
-dass das Umtauschverhältnis der Anteile nicht angemessen sei, so hat
-auf seinen Antrag das Gericht nach dem Spruchverfahrensgesetz vom 12.
-Juni 2003 (BGBl. I S. 838) eine angemessene bare Zuzahlung zu
-bestimmen. Satz 1 findet auch auf Aktionäre einer übertragenden
-Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen
-Union oder in einem anderen Vertragsstaat des Abkommens über den
-Europäischen Wirtschaftsraum Anwendung, sofern nach dem Recht dieses
-Staates ein Verfahren zur Kontrolle und Änderung des
+(4) Macht ein Aktionär unter den Voraussetzungen des Artikels 25 Abs.
+3 Satz 1 der Verordnung geltend, dass das Umtauschverhältnis der
+Anteile nicht angemessen sei, so hat auf seinen Antrag das Gericht
+nach dem Spruchverfahrensgesetz vom 12. Juni 2003 (BGBl. I S. 838)
+eine angemessene bare Zuzahlung zu bestimmen. Satz 1 findet auch auf
+Aktionäre einer Gesellschaft mit Sitz in einem anderen Mitgliedstaat
+der Europäischen Union oder in einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum Anwendung, sofern nach
+dem Recht dieses Staates ein Verfahren zur Kontrolle und Änderung des
 Umtauschverhältnisses der Aktien vorgesehen ist und deutsche Gerichte
 für die Durchführung eines solchen Verfahrens international zuständig
 sind.
+
+(5) Die §§ 72a und 72b des Umwandlungsgesetzes und § 10a des
+Spruchverfahrensgesetzes sind entsprechend anzuwenden.
 
 
 #### § 7 Abfindungsangebot im Verschmelzungsplan
@@ -143,11 +136,7 @@ jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu
 verzinsen. Die Geltendmachung eines weiteren Schadens ist nicht
 ausgeschlossen.
 
-(3) Die Angemessenheit einer anzubietenden Barabfindung ist stets
-durch Verschmelzungsprüfer zu prüfen. Die §§ 10 bis 12 des
-Umwandlungsgesetzes sind entsprechend anzuwenden. Die Berechtigten
-können auf die Prüfung oder den Prüfungsbericht verzichten; die
-Verzichtserklärungen sind notariell zu beurkunden.
+(3) § 30 Absatz 2 des Umwandlungsgesetzes gilt entsprechend.
 
 (4) Das Angebot nach Absatz 1 kann nur binnen zwei Monaten nach dem
 Tage angenommen werden, an dem die Verschmelzung im Sitzstaat der SE
@@ -164,10 +153,11 @@ darauf gestützt werden, dass das Angebot nach Absatz 1 zu niedrig
 bemessen oder dass die Barabfindung im Verschmelzungsplan nicht oder
 nicht ordnungsgemäß angeboten worden ist.
 
-(6) Einer anderweitigen Veräußerung des Anteils durch den Aktionär
-stehen nach Fassung des Verschmelzungsbeschlusses bis zum Ablauf der
-in Absatz 4 bestimmten Frist Verfügungsbeschränkungen bei den
-beteiligten Rechtsträgern nicht entgegen.
+(6) Einer anderweitigen Veräußerung des Anteils durch einen Aktionär,
+der nach Absatz 1 Adressat des Barabfindungsangebots ist, stehen nach
+Fassung des Verschmelzungsbeschlusses bis zum Ablauf der in Absatz 4
+Satz 1 bestimmten Frist Verfügungsbeschränkungen bei den beteiligten
+Rechtsträgern nicht entgegen.
 
 (7) Macht ein Aktionär einer übertragenden Gesellschaft unter den
 Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der Verordnung geltend,
@@ -553,7 +543,8 @@ Verwaltungsrat zu beachten. Reicht die Zahl der neu zu besetzenden
 Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
 Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
 Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
-regulären Ende wahrgenommen werden.
+regulären Ende wahrgenommen werden. § 76 Absatz 4 und § 111 Absatz 5
+des Aktiengesetzes gelten entsprechend.
 
 
 #### § 25 Bekanntmachung über die Zusammensetzung des Verwaltungsrats
@@ -1157,6 +1148,11 @@ Konzernabschluss und den Konzernlagebericht. Der Einzelabschluss nach
 § 325 Abs. 2a Satz 1 des Handelsgesetzbuchs darf erst nach Billigung
 durch den Verwaltungsrat offen gelegt werden.
 
+(4a) Absatz 1 Satz 1 und Absatz 3 gelten entsprechend für einen
+Ertragsteuerinformationsbericht (§§ 342b, 342c, 342d Absatz 2 Nummer 2
+des Handelsgesetzbuchs) und eine Erklärung nach § 342d Absatz 2 Nummer
+1 des Handelsgesetzbuchs.
+
 (5) Billigt der Verwaltungsrat den Jahresabschluss, so ist dieser
 festgestellt, sofern nicht der Verwaltungsrat beschließt, die
 Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen.
@@ -1355,10 +1351,10 @@ eines Landes entsprechend Absatz 1 besteht.
 
 (1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des
 § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333
-des Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes
-sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des §
-334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des
-Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung.
+des Handelsgesetzbuchs und der §§ 346 bis 349 des Umwandlungsgesetzes
+sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und der §§
+334 und 342o des Handelsgesetzbuchs gelten auch für die SE im Sinne
+des Artikels 9 Abs. 1 Buchstabe c Doppelbuchstabe ii der Verordnung.
 Soweit sie
 
 1.  Mitglieder des Vorstands,
@@ -1478,4 +1474,12 @@ anzuwenden. § 34 Absatz 5 Satz 2 in der ab dem 1. Juli 2021 geltenden
 Fassung muss so lange nicht angewandt werden, wie alle Mitglieder des
 Verwaltungsrats und des Prüfungsausschusses vor dem 1. Juli 2021
 bestellt worden sind.
+
+
+### § 58 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+§ 47 Absatz 4a und § 53 Absatz 1 in der jeweils ab dem 22. Juni 2023
+geltenden Fassung sind erstmals auf Ertragsteuerinformationsberichte
+und Erklärungen nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs
+für ein nach dem 21. Juni 2024 beginnendes Geschäftsjahr anzuwenden.
 

@@ -493,7 +493,7 @@ von Kommanditkapital ist § 10 Abs. 3 entsprechend anzuwenden.
 (3) Ist unbekannt oder ungewiß, wer Gesellschafter oder Mitglied des
 Berechtigten oder Rechtsnachfolger dieser Personen ist oder wo sich
 diese Personen aufhalten, so wird auf Antrag von Mitberechtigten oder
-von Amts wegen ein Pfleger nach den §§ 1911, 1913 des Bürgerlichen
+von Amts wegen ein Pfleger nach den §§ 1882 und 1884 des Bürgerlichen
 Gesetzbuchs bestellt.
 
 

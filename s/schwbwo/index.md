@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.4.1990 I 811;
 
 Zuletzt geändert durch
-:   Art. 20i G v. 22.11.2021 I 4906
+:   Art. 1 V v. 18.3.2022 I 477
 
 
 ## Erster Teil - Wahl der Schwerbehindertenvertretung in Betrieben und Dienststellen
@@ -511,7 +511,7 @@ einzuleiten. Im übrigen gelten die §§ 1 bis 16 entsprechend.
 #### § 18 Voraussetzungen
 
 Besteht der Betrieb oder die Dienststelle nicht aus räumlich weiter
-auseinanderliegenden Teilen und sind dort weniger als fünzig
+auseinanderliegenden Teilen und sind dort weniger als fünfzig
 Wahlberechtigte beschäftigt, ist die Schwerbehindertenvertretung in
 einem vereinfachten Wahlverfahren nach Maßgabe der folgenden
 Vorschriften zu wählen.
@@ -561,6 +561,14 @@ in einer Liste fest. Unverzüglich nach Beendigung der Wahlhandlung
 zählt er öffentlich die Stimmen aus und stellt das Ergebnis fest.
 
 (4) § 13 Abs. 2 und 3 sowie die §§ 14 bis 16 gelten entsprechend.
+
+(5) Die Wahlversammlung der Schwerbehindertenvertretung kann im
+vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz
+erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung
+keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Für
+die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der
+Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder
+gilt § 11 entsprechend.
 
 
 #### § 21 Nachwahl des stellvertretenden Mitglieds
@@ -682,19 +690,8 @@ entsprechend.
 
 
 
-### § 28 Sonderregelungen aus Anlass der COVID-19-Pandemie
+### § 28 (weggefallen)
 
-(1) Bis zum Ablauf des 19. März 2022 kann die Wahlversammlung der
-Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels
-Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass
-Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine
-Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des
-Wahlrechts durch Stimmabgabe bei der Wahl der
-Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
-
-(2) Bis zum Ablauf des 19. März 2022 gilt § 11 für die Stimmabgabe bei
-der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden
-Mitglieder im vereinfachten Wahlverfahren entsprechend.
 
 
 ### § 29 (Inkrafttreten)

@@ -19,19 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.6.2016 I 1489;
 
 Zuletzt geändert durch
-:   Art. 337 V v. 19.6.2020 I 1328
-
-Mittelbare änderung durch
-:   Art. 3 Nr. 2 G v. 3.6.2021 I 1465 ist berücksichtigt
-
-Änderung durch
-:   Art. 7 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 35 G v. 27.7.2021 I 3146 ist berücksichtigt
-
-Änderung durch
-:   Art. 2 V v. 19.10.2021 I 4717 (Nr. 75) ist berücksichtigt
+:   Art. 2 G v. 14.3.2023 I Nr. 73
 
 
 ## § 1
@@ -293,14 +281,14 @@ Bundes nehmen die Aufgaben nach § 1 Nummer 12 wahr
 (1b) Sie nehmen ferner die Aufgaben nach § 1 Nummer 3 Buchstabe e
 wahr, soweit sie ihnen übertragen werden.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
-Heimat und dem Bundesministerium der Finanzen durch Rechtsverordnung
-Aufgaben, die dem Bund nach diesem Gesetz obliegen, zur Ausübung auf
-die Bundespolizei und die Zollverwaltung übertragen, soweit sie nicht
-nach Maßgabe einer Vereinbarung mit den Küstenländern über die
-Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben von der
-Wasserschutzpolizei ausgeübt werden.
+(2) Das Bundesministerium für Digitales und Verkehr kann im
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat und
+dem Bundesministerium der Finanzen durch Rechtsverordnung Aufgaben,
+die dem Bund nach diesem Gesetz obliegen, zur Ausübung auf die
+Bundespolizei und die Zollverwaltung übertragen, soweit sie nicht nach
+Maßgabe einer Vereinbarung mit den Küstenländern über die Ausübung der
+schifffahrtspolizeilichen Vollzugsaufgaben von der Wasserschutzpolizei
+ausgeübt werden.
 
 
 ## § 3a
@@ -468,7 +456,7 @@ Pflichten der Behörden und Beamten des Polizeidienstes nach dem Gesetz
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist eine
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr und digitale Infrastruktur. Es hat die Aufgaben
+Digitales und Verkehr. Es hat die Aufgaben
 
 1.  nach § 1 Nummer 4, soweit es sich um nautische Systeme, Anlagen,
     Instrumente und Geräte sowie Funkanlagen handelt und diese Aufgaben
@@ -515,8 +503,8 @@ Verkehr und digitale Infrastruktur. Es hat die Aufgaben
 
 
 6.  nach sonstigen gesetzlichen Vorschriften, soweit sie dem
-    Bundesministerium für Verkehr und digitale Infrastruktur auf dem
-    Gebiet der Schifffahrt obliegen und dem Bundesamt übertragen werden,
+    Bundesministerium für Digitales und Verkehr auf dem Gebiet der
+    Schifffahrt obliegen und dem Bundesamt übertragen werden,
 
 
 
@@ -541,26 +529,25 @@ der Aufgaben nach § 1 Nummer 13 kann sich das Bundesamt für
 Seeschifffahrt und Hydrographie der Hilfe der Berufsgenossenschaft
 Verkehrswirtschaft Post-Logistik Telekommunikation oder der
 anerkannten Organisationen im Sinne des Satzes 1 bedienen. Das
-Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung die Einzelheiten zum
-Anerkennungsverfahren und zu den Eignungskriterien für anerkannte
-Organisationen zu regeln. Bei der Erfüllung der Aufgaben nach § 1
-Nummer 16 bedient sich das Bundesamt für Seeschifffahrt und
-Hydrographie außerdem der Hilfe des Umweltbundesamtes, des
-Bundesinstituts für Risikobewertung und der Berufsgenossenschaft
-Verkehrswirtschaft Post-Logistik Telekommunikation; es kann sich der
-Hilfe weiterer Stellen bedienen, soweit diese zustimmen. Bei der
-Erfüllung seiner sonstigen Aufgaben kann das Bundesamt für
-Seeschifffahrt und Hydrographie sich bei Bedarf geeigneter Stellen mit
-deren Zustimmung bedienen.
+Bundesministerium für Digitales und Verkehr wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch
+Rechtsverordnung die Einzelheiten zum Anerkennungsverfahren und zu den
+Eignungskriterien für anerkannte Organisationen zu regeln. Bei der
+Erfüllung der Aufgaben nach § 1 Nummer 16 bedient sich das Bundesamt
+für Seeschifffahrt und Hydrographie außerdem der Hilfe des
+Umweltbundesamtes, des Bundesinstituts für Risikobewertung und der
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation; es kann sich der Hilfe weiterer Stellen bedienen,
+soweit diese zustimmen. Bei der Erfüllung seiner sonstigen Aufgaben
+kann das Bundesamt für Seeschifffahrt und Hydrographie sich bei Bedarf
+geeigneter Stellen mit deren Zustimmung bedienen.
 
 (2a) Ferner hat das Bundesamt für Seeschifffahrt und Hydrographie die
 Aufgabe nach § 1 Nummer 11 nach Maßgabe einer Rechtsverordnung nach
-Satz 2 wahrzunehmen. Das Bundesministerium für Verkehr und digitale
-Infrastruktur wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ohne
-Zustimmung des Bundesrates durch Rechtsverordnung
+Satz 2 wahrzunehmen. Das Bundesministerium für Digitales und Verkehr
+wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, nukleare Sicherheit und Verbraucherschutz ohne Zustimmung
+des Bundesrates durch Rechtsverordnung
 
 1.  den Umfang der in Satz 1 bezeichneten Aufgabe näher zu bestimmen,
 
@@ -574,13 +561,13 @@ Zustimmung des Bundesrates durch Rechtsverordnung
 
 (2b) Soweit dem Bundesamt für Seeschifffahrt und Hydrographie Aufgaben
 aus dem Geschäftsbereich eines anderen Bundesministeriums übertragen
-werden, wird das Bundesministerium für Verkehr und digitale
-Infrastruktur ermächtigt, die Fachaufsicht insoweit durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf das
-Bundesministerium zu übertragen, dessen Geschäftsbereich betroffen
-ist. Die Rechtsverordnung bedarf des Einvernehmens mit dem betroffenen
-Bundesministerium. Eine Rechtsverordnung nach Satz 1 kann auch die
-organisatorischen Auswirkungen der Aufgabenübertragung regeln.
+werden, wird das Bundesministerium für Digitales und Verkehr
+ermächtigt, die Fachaufsicht insoweit durch Rechtsverordnung ohne
+Zustimmung des Bundesrates auf das Bundesministerium zu übertragen,
+dessen Geschäftsbereich betroffen ist. Die Rechtsverordnung bedarf des
+Einvernehmens mit dem betroffenen Bundesministerium. Eine
+Rechtsverordnung nach Satz 1 kann auch die organisatorischen
+Auswirkungen der Aufgabenübertragung regeln.
 
 (3) Bezugnahmen in früheren Rechtsvorschriften auf das Bundesamt für
 Schiffsvermessung und auf das Deutsche Hydrographische Institut sind
@@ -590,11 +577,10 @@ Bezugnahmen auf das Bundesamt für Seeschifffahrt und Hydrographie.
 ## § 5a
 
 Die Aufgabe nach § 1 Nummer 14 wird durch das Bundesministerium des
-Innern, für Bau und Heimat wahrgenommen; es kann die Aufgabe auf eine
-ihm nachgeordnete Behörde übertragen. Vor Festlegung der
-Gefahrenstufen 2 und 3 soll sich die zuständige Behörde mit dem
-Bundesministerium für Verkehr und digitale Infrastruktur ins Benehmen
-setzen.
+Innern und für Heimat wahrgenommen; es kann die Aufgabe auf eine ihm
+nachgeordnete Behörde übertragen. Vor Festlegung der Gefahrenstufen 2
+und 3 soll sich die zuständige Behörde mit dem Bundesministerium für
+Digitales und Verkehr ins Benehmen setzen.
 
 
 ## § 6
@@ -636,16 +622,15 @@ aus, die ihr durch Rechtsverordnung nach § 9 Absatz 1 übertragen sind.
 (4) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation untersteht bei der Durchführung der Aufgaben nach
 den Absätzen 1 bis 3 der Fachaufsicht des Bundesministeriums für
-Verkehr und digitale Infrastruktur. Umfang und Art der Durchführung
-seiner Aufsicht bestimmt das Bundesministerium für Verkehr und
-digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales. Das Bundesministerium für Verkehr und digitale
-Infrastruktur wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Arbeit und Soziales eine Rechtsverordnung ohne
-Zustimmung des Bundesrates über die Aufsicht nach Satz 2 sowie die
-Organisation der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
-Telekommunikation zu erlassen, soweit dies die Durchführung der
-Aufgaben nach den Absätzen 1 bis 3 betrifft.
+Digitales und Verkehr. Umfang und Art der Durchführung seiner Aufsicht
+bestimmt das Bundesministerium für Digitales und Verkehr im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales. Das
+Bundesministerium für Digitales und Verkehr wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales eine
+Rechtsverordnung ohne Zustimmung des Bundesrates über die Aufsicht
+nach Satz 2 sowie die Organisation der Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation zu erlassen, soweit
+dies die Durchführung der Aufgaben nach den Absätzen 1 bis 3 betrifft.
 
 (5) Die Kosten der Durchführung der dem Bunde obliegenden
 Schiffssicherheitsaufgaben trägt, soweit sie nicht durch besondere
@@ -666,29 +651,27 @@ Verkehrswirtschaft Post-Logistik Telekommunikation.
 
 ## § 7
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-zur Erfüllung von Aufgaben nach § 1 Nummer 4 und § 2 juristischen
-Personen des privaten Rechts, die nach ihrer Satzung entsprechenden
-Zwecken dienen, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-die Anerkennung der Schiffe und die Überwachung der Bordausbildung im
-Sinne des § 2 Absatz 1 Satz 2, die Abnahme von Prüfungen, die
-Erteilung von Befähigungszeugnissen für Schiffsleute und Führer von
-Sportfahrzeugen sowie die Prüfung der Verkehrs- und Betriebssicherheit
-von Schiffen, die die Bundesflagge führen und die nicht
-internationalen Sicherheitsregelungen im Sinne des
-Schiffssicherheitsgesetzes unterliegen, die Erteilung der
-entsprechenden Erlaubnisse, Zeugnisse, Bescheinigungen und die
-Erhebung der Kosten nach Maßgabe des § 12 und der auf Grund des § 12
-Absatz 2 erlassenen Verordnung ganz oder teilweise übertragen. Das
-Bundesministerium für Verkehr und digitale Infrastruktur kann ferner
-durch Rechtsverordnung die Erfüllung der Aufgaben nach § 1 Nummer 12,
-soweit sie sich auf nicht amtlich registrierte Seeschiffe beziehen,
-auf die in Satz 1 genannten Personen übertragen.
+(1) Das Bundesministerium für Digitales und Verkehr kann zur Erfüllung
+von Aufgaben nach § 1 Nummer 4 und § 2 juristischen Personen des
+privaten Rechts, die nach ihrer Satzung entsprechenden Zwecken dienen,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anerkennung
+der Schiffe und die Überwachung der Bordausbildung im Sinne des § 2
+Absatz 1 Satz 2, die Abnahme von Prüfungen, die Erteilung von
+Befähigungszeugnissen für Schiffsleute und Führer von Sportfahrzeugen
+sowie die Prüfung der Verkehrs- und Betriebssicherheit von Schiffen,
+die die Bundesflagge führen und die nicht internationalen
+Sicherheitsregelungen im Sinne des Schiffssicherheitsgesetzes
+unterliegen, die Erteilung der entsprechenden Erlaubnisse, Zeugnisse,
+Bescheinigungen und die Erhebung der Kosten nach Maßgabe des § 12 und
+der auf Grund des § 12 Absatz 2 erlassenen Verordnung ganz oder
+teilweise übertragen. Das Bundesministerium für Digitales und Verkehr
+kann ferner durch Rechtsverordnung die Erfüllung der Aufgaben nach § 1
+Nummer 12, soweit sie sich auf nicht amtlich registrierte Seeschiffe
+beziehen, auf die in Satz 1 genannten Personen übertragen.
 
 (2) Die juristischen Personen unterstehen, soweit von den
 Ermächtigungen des Absatzes 1 Gebrauch gemacht worden ist, der
-Fachaufsicht des Bundesministeriums für Verkehr und digitale
-Infrastruktur.
+Fachaufsicht des Bundesministeriums für Digitales und Verkehr.
 
 
 ## § 7a
@@ -730,8 +713,8 @@ Anordnungen. Sie ist insbesondere befugt
 
 
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates für
 Schiffsausrüstung
 
 1.  Anforderungen an die Gewährleistung von Sicherheit und Gesundheit,
@@ -761,11 +744,10 @@ Schiffsausrüstung
 
 zu regeln.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Anforderungen an benannte Stellen und deren Zulassung
-einschließlich des erforderlichen Verfahrens zu bestimmen,
-insbesondere über
+(4) Das Bundesministerium für Digitales und Verkehr wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Anforderungen an benannte Stellen und deren Zulassung einschließlich
+des erforderlichen Verfahrens zu bestimmen, insbesondere über
 
 1.  Unabhängigkeit, technische Kenntnisse und Erfahrungen sowie berufliche
     Zuverlässigkeit der Stelle,
@@ -798,8 +780,8 @@ insbesondere über
 
 (5) In Rechtsverordnungen nach Absatz 4 kann abweichend von den §§ 5
 und 6 die Zuständigkeit für die Zulassung oder Überwachung der
-benannten Stellen dem Bundesministerium für Verkehr und digitale
-Infrastruktur ganz oder teilweise vorbehalten werden.
+benannten Stellen dem Bundesministerium für Digitales und Verkehr ganz
+oder teilweise vorbehalten werden.
 
 
 ## § 8
@@ -881,18 +863,18 @@ oder internationaler Organisationen zuzulassen.
 
 ## § 9
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, zur Abwehr von Gefahren für die Sicherheit und
-Leichtigkeit des Seeverkehrs, zur Abwehr von Gefahren für die
-Meeresumwelt, zur Verhütung von der Seeschifffahrt ausgehender
-schädlicher Umwelteinwirkungen im Sinne des Bundes-
-Immissionsschutzgesetzes und zur Gewährleistung eines sicheren,
-effizienten und gefahrlosen Schiffsbetriebs und zur Abwehr und
-Verhütung der vom Abwracken von Seeschiffen ausgehenden Gefahren und
-schädlichen Umwelteinwirkungen im Hinblick auf an Bord befindliche
-Gefahrstoffe und im Hinblick auf Tätigkeiten vor der
-Außerdienststellung eines Schiffes und dem Beginn der Abwrackarbeiten
-ohne Zustimmung des Bundesrates Rechtsverordnungen zu erlassen über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des
+Seeverkehrs, zur Abwehr von Gefahren für die Meeresumwelt, zur
+Verhütung von der Seeschifffahrt ausgehender schädlicher
+Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes und
+zur Gewährleistung eines sicheren, effizienten und gefahrlosen
+Schiffsbetriebs und zur Abwehr und Verhütung der vom Abwracken von
+Seeschiffen ausgehenden Gefahren und schädlichen Umwelteinwirkungen im
+Hinblick auf an Bord befindliche Gefahrstoffe und im Hinblick auf
+Tätigkeiten vor der Außerdienststellung eines Schiffes und dem Beginn
+der Abwrackarbeiten ohne Zustimmung des Bundesrates Rechtsverordnungen
+zu erlassen über
 
 1.  die Begrenzung der Binnenwasserstraßen, auf denen wegen ihrer
     Bedeutung für den Seeschiffsverkehr Internationale Regeln zur
@@ -1009,8 +991,8 @@ sachkundige Personen oder Einrichtungen des privaten Rechts, die
 durchführen, anerkannt und zur Durchführung zugelassen werden. Soweit
 sich die Verordnung nach Satz 1 Nummer 7 auf Maßnahmen zur Abwehr
 äußerer Gefahren für den Schiffsverkehr bezieht, ist sie im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
-zu erlassen.
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat zu
+erlassen.
 
 (1a) (weggefallen)
 
@@ -1029,8 +1011,8 @@ erlassen werden zur
 
 
 Rechtsverordnungen nach Satz 1 Nummer 2 werden vom Bundesministerium
-für Verkehr und digitale Infrastruktur und vom Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit erlassen.
+für Digitales und Verkehr und vom Bundesministerium für Umwelt,
+Naturschutz, nukleare Sicherheit und Verbraucherschutz erlassen.
 Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 3, 3a, 3b und 3c werden
 im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und,
 soweit Belange der Seefischerei betroffen sind, im Einvernehmen mit
@@ -1038,8 +1020,8 @@ dem Bundesministerium für Ernährung und Landwirtschaft erlassen. Satz
 3 gilt nicht, soweit die Rechtsverordnungen ausschließlich Regelungen
 im Hinblick auf Traditionsschiffe und Sportfahrzeuge treffen.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung zu bestimmen,
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung zu bestimmen,
 
 1.  auf welchen Schiffen und in welchen Fahrtgebieten Tagebücher zu führen
     sind,
@@ -1063,21 +1045,21 @@ ermächtigt, durch Rechtsverordnung zu bestimmen,
 
 
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, zur Förderung der deutschen Handelsflotte im allgemeinen
-deutschen Interesse im Sinne des § 1 Nummer 1 durch Rechtsverordnung
-Maßnahmen zur Abwehr von Nachteilen für die Freiheit der
-wirtschaftlichen Betätigung der deutschen Schifffahrt zu regeln. Es
-kann hierzu insbesondere die Durchführung von Beförderungen zwischen
-zwei Punkten im deutschen Hoheitsgebiet mit einem Schiff unter
-ausländischer Flagge, das nicht die Flagge eines Mitgliedstaates der
-Europäischen Union oder eines Vertragsstaates des Europäischen
-Wirtschaftsraums führt, von der Zustimmung der Generaldirektion
-Wasserstraßen und Schifffahrt abhängig machen.
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+zur Förderung der deutschen Handelsflotte im allgemeinen deutschen
+Interesse im Sinne des § 1 Nummer 1 durch Rechtsverordnung Maßnahmen
+zur Abwehr von Nachteilen für die Freiheit der wirtschaftlichen
+Betätigung der deutschen Schifffahrt zu regeln. Es kann hierzu
+insbesondere die Durchführung von Beförderungen zwischen zwei Punkten
+im deutschen Hoheitsgebiet mit einem Schiff unter ausländischer
+Flagge, das nicht die Flagge eines Mitgliedstaates der Europäischen
+Union oder eines Vertragsstaates des Europäischen Wirtschaftsraums
+führt, von der Zustimmung der Generaldirektion Wasserstraßen und
+Schifffahrt abhängig machen.
 
-(4a) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Auswärtigen Amt auf der Grundlage
-der internationalen Zusammenarbeit durch Rechtsverordnung die
+(4a) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Auswärtigen Amt auf der Grundlage der
+internationalen Zusammenarbeit durch Rechtsverordnung die
 Flaggenstaaten zu bezeichnen, die im Sinne des Artikels 228 Absatz 1
 Satz 1 des Seerechtsübereinkommens der Vereinten Nationen vom 10.
 Dezember 1982 wiederholt ihre Verpflichtung missachtet haben, die
@@ -1091,18 +1073,18 @@ ferner nicht auf den Erlass von Vorschriften, die
 überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 1 des Gesetzes
 über überwachungsbedürftige Anlagen zum Gegenstand haben.
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch Rechtsverordnung die Ermächtigungen nach Absatz 1 Nummer 1 und 2
-auf die Generaldirektion Wasserstraßen und Schifffahrt oder das
-Bundesamt für Seeschifffahrt und Hydrographie übertragen.
+(6) Das Bundesministerium für Digitales und Verkehr kann durch
+Rechtsverordnung die Ermächtigungen nach Absatz 1 Nummer 1 und 2 auf
+die Generaldirektion Wasserstraßen und Schifffahrt oder das Bundesamt
+für Seeschifffahrt und Hydrographie übertragen.
 
 
 ## § 9a
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung die Anforderungen an die Vermessung
-der Wasserfahrzeuge, die Mitwirkung der verantwortlichen Personen
-sowie die erforderlichen Vermessungsbescheinigungen zu regeln. Es wird
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung die Anforderungen an die Vermessung der
+Wasserfahrzeuge, die Mitwirkung der verantwortlichen Personen sowie
+die erforderlichen Vermessungsbescheinigungen zu regeln. Es wird
 ferner ermächtigt, durch Rechtsverordnung die Ausführung der Aufgaben
 nach § 1 Nummer 5 im Sinne des § 5 Absatz 1 Satz 2 Nummer 2 auf eine
 andere zuständige Stelle zu übertragen.
@@ -1240,11 +1222,11 @@ Hafenbetriebe, Schiffsmeldedienste und Hafendienstleister oder andere
 nichtöffentliche Stellen übermittelt werden, wenn dies der Erfüllung
 von Aufgaben nach diesem Gesetz dient. Satz 1 gilt auch für den
 Dritten, an den die Daten übermittelt werden. Die Einzelheiten der
-Datenübermittlung regelt das Bundesministerium für Verkehr und
-digitale Infrastruktur im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat ohne Zustimmung des Bundesrates durch
-Rechtsverordnung. In der Rechtsverordnung sind die Dritten, an die die
-Daten übermittelt werden dürfen, näher zu bestimmen.
+Datenübermittlung regelt das Bundesministerium für Digitales und
+Verkehr im Einvernehmen mit dem Bundesministerium des Innern und für
+Heimat ohne Zustimmung des Bundesrates durch Rechtsverordnung. In der
+Rechtsverordnung sind die Dritten, an die die Daten übermittelt werden
+dürfen, näher zu bestimmen.
 
 (3) Werden Daten an eine ausländische oder über- oder
 zwischenstaatliche öffentliche Stelle oder an eine internationale
@@ -1344,21 +1326,204 @@ unverzüglich die nach Absatz 3 zu speichernden Daten zur Aufnahme in
 das Seeleute-Befähigungs-Verzeichnis.
 
 
+## § 9g
+
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
+Datei
+
+1.  zur Feststellung, welche Befähigungsnachweise in der
+    Sportseeschifffahrt, die von einem nach § 7 Absatz 1 Beliehenen
+    erteilt worden sind, eine Person besitzt,
+
+
+2.  zur Feststellung, welche Befähigungsnachweise ruhen, entzogen oder
+    sichergestellt worden sind.
+
+
+
+
+(2) Zu den in Absatz 1 genannten Zwecken können folgende Daten
+erhoben, gespeichert und verwendet werden:
+
+1.  Vor- und Nachname des Inhabers,
+
+
+2.  Anschrift des Inhabers,
+
+
+3.  Geburtsdatum, Geburtsort des Inhabers,
+
+
+4.  Datum der Erteilung der Fahrerlaubnis,
+
+
+5.  Ausstellungsdatum, ausstellende Stelle und Nummer des erteilten
+    Sportbootführerscheins,
+
+
+6.  nach § 6 Absatz 4 der Verordnung über das Führen von Sportbooten in
+    ihrer jeweils gültigen Fassung erteilte Auflagen,
+
+
+7.  im Fall der Verlustmeldung eines Sportbootführerscheins das Datum der
+    Erteilung einer Ersatzausfertigung,
+
+
+8.  im Fall der Entziehung oder des Ruhens der Fahrerlaubnis den Grund
+    sowie die Frist, innerhalb derer eine neue Fahrerlaubnis nicht erteilt
+    werden darf,
+
+
+9.  im Fall der Sicherstellung das Datum der Sicherstellung und die
+    verwahrende Behörde.
+
+
+
+
+(3) Bei der Herstellung der Befähigungsnachweise durch Dritte haben
+die nach § 7 Absatz 1 Beliehenen dem Hersteller die hierfür
+erforderlichen Daten zu übermitteln. Der Hersteller darf diese Daten
+der Generaldirektion Wasserstraßen und Schifffahrt für die Zwecke des
+Absatzes 1 Nummer 1 übermitteln. Der Hersteller darf ausschließlich
+zum Nachweis des Verbleibs des Befähigungsnachweises alle
+Seriennummern der hergestellten Befähigungsnachweise erheben,
+speichern und verwenden. Die Erhebung, Speicherung und Verwendung der
+übrigen im Befähigungsnachweis enthaltenen Angaben sind nur zulässig,
+sofern die Angaben ausschließlich und vorübergehend der Herstellung
+des Befähigungsnachweises und der Übermittlung der entsprechenden
+Informationen an die Generaldirektion Wasserstraßen und Schifffahrt
+dienen. Die in den Sätzen 3 und 4 genannten Angaben sind nach der
+Erhebung, Speicherung oder Verwendung vom Hersteller unverzüglich zu
+löschen. Die Sätze 1 bis 5 gelten auch für die Erzeugung eines
+Befähigungsnachweises in digitaler Form.
+
+(4) Die Generaldirektion Wasserstraßen und Schifffahrt kann den nach §
+7 Absatz 1 Beliehenen zur Feststellung, ob eine Person einen von
+diesen Verbänden erteilten Befähigungsnachweis besitzt, einen lesenden
+und schreibenden Zugriff auf die Datei nach Absatz 1 gewähren. Sofern
+dies für die Erteilung von Sportbootführerscheinen erforderlich ist,
+kann die Generaldirektion Wasserstraßen und Schifffahrt den nach § 7
+Absatz 1 Beliehenen zur Feststellung, ob eine Person ein
+Befähigungszeugnis oder einen sonstigen Befähigungsnachweis für die
+Führung von Sportfahrzeugen besitzt und welchen Gültigkeitsstatus
+dieser hat, zudem einen lesenden Zugriff auf die diesbezüglich
+gespeicherten Informationen zu dieser Person in ihren Verzeichnissen
+gewähren. Sind zu einer Person keine Informationen nach Satz 1 oder
+Satz 2 in der Datei nach Absatz 1 gespeichert, ist dies den in Satz 1
+genannten Beliehenen von der Generaldirektion Wasserstraßen und
+Schifffahrt automatisiert mitzuteilen, ohne dass der in Satz 1 oder
+Satz 2 genannte Zugriff gewährt wird.
+
+(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen zum
+Zwecke der
+
+1.  Durchführung von Verwaltungsaufgaben
+
+    a)  nach diesem Gesetz oder auf Grund dieses Gesetzes, des
+        Binnenschifffahrtsaufgabengesetzes oder des Seesicherheits-
+        Untersuchungs-Gesetzes erlassener Rechtsvorschriften oder
+
+
+    b)  auf Grund der Landeswassergesetze oder auf Grund dieser Gesetze
+        erlassener Rechtsverordnungen,
+
+
+
+    einschließlich der Feststellung der Tauglichkeit, Zuverlässigkeit und
+    Befähigung einer Person, an Dienststellen der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes, Polizeidienststellen der Länder,
+    die Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder,
+    der Bundesstelle für Seeunfalluntersuchung, die mit der Abnahme von
+    Prüfungen in der Seeschifffahrt Beauftragten und die nach § 7 Absatz 1
+    Beliehenen,
+
+
+2.  Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr
+    stehen, an Gerichte, Staatsanwaltschaften, das Bundeskriminalamt als
+    Strafverfolgungsbehörde und die Polizeidienststellen der Länder,
+
+
+3.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
+    Gerichte, Staatsanwaltschaften, Dienststellen der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes und die Polizeidienststellen der
+    Länder oder
+
+
+4.  Vollstreckung einer Anordnung über das Ruhen von Fahrerlaubnissen,
+    Patenten, Befähigungszeugnissen und sonstigen Befähigungsnachweisen,
+    ihre Entziehung, ihre Rücknahme, ihren Widerruf oder ihr Ruhen an
+    Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+    und die Polizeidienststellen der Länder
+
+
+
+übermittelt werden, soweit dies im Einzelfall zur Erfüllung der in den
+Nummern 1 bis 4 genannten Aufgaben jeweils erforderlich ist.
+
+(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen an
+die hierfür zuständigen Stellen der Europäischen Union sowie an
+internationale Organisationen und andere Staaten, bei denen ein
+angemessener Datenschutzstandard gewährleistet ist, übermittelt
+werden, soweit dies im jeweiligen Einzelfall erforderlich ist
+
+1.  für Verwaltungsaufgaben auf dem Gebiet der Schifffahrt, einschließlich
+    der ordnungsgemäßen Durchführung von Prüfungsverfahren oder Entziehung
+    von Befähigungsnachweisen,
+
+
+2.  zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem
+    Gebiet der Schifffahrt oder
+
+
+3.  zur Verfolgung von Straftaten nach Maßgabe der Vorschriften für die
+    internationale Rechtshilfe in Strafsachen.
+
+
+
+Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck
+verwendet werden dürfen, zu dem sie übermittelt worden sind.
+
+(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind
+unverzüglich zu löschen, sobald sie für die Aufgaben nach Absatz 1
+nicht mehr erforderlich sind, spätestens jedoch,
+
+1.  wenn der Befähigungsnachweis zurückgegeben wird,
+
+
+2.  wenn eine amtliche Mitteilung über den Tod des
+    Befähigungsnachweisinhabers eingeht.
+
+
+
+
+(8) Die nach § 7 Absatz 1 Beliehenen haben in einem mit der
+Generaldirektion Wasserstraßen und Schifffahrt abgestimmten
+Dateiformat das gesamte gemeinsame Verzeichnis der Inhaber einer
+Fahrererlaubnis für Sportschifffahrt mit dem Geltungsbereich
+Seeschifffahrtsstraßen bis zum 31. Dezember 2023 an die
+Generaldirektion Wasserstraßen und Schifffahrt zu übermitteln. Nach
+vollständiger Übertragung ist das gemeinsame Verzeichnis der Inhaber
+einer Fahrerlaubnis von den nach § 7 Absatz 1 Beliehenen unverzüglich
+zu löschen. Die Generaldirektion Wasserstraßen und Schifffahrt ist
+befugt, die nach Satz 1 übermittelten Daten zu erheben und in der
+Datei nach Absatz 1 zu speichern und zu den in Absatz 1 genannten
+Zwecken zu verwenden.
+
+
 ## § 10 (weggefallen)
 
 
 
 ## § 11
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung die Übermittlung von Unterlagen,
-die sich auf das Schifffahrtsgeschäft beziehen (insbesondere Verträge,
-Protokolle, Briefe, Studien, Marktberichte, Statistiken, Gutachten)
-und die Erteilung von Auskünften hierüber an Behörden und sonstige
-Stellen des Auslandes zu verbieten oder von einer Genehmigung abhängig
-zu machen, soweit dies erforderlich ist, um die deutsche
-Seeschifffahrt in der Freiheit ihrer wirtschaftlichen Betätigung zu
-schützen.
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung die Übermittlung von Unterlagen, die sich auf das
+Schifffahrtsgeschäft beziehen (insbesondere Verträge, Protokolle,
+Briefe, Studien, Marktberichte, Statistiken, Gutachten) und die
+Erteilung von Auskünften hierüber an Behörden und sonstige Stellen des
+Auslandes zu verbieten oder von einer Genehmigung abhängig zu machen,
+soweit dies erforderlich ist, um die deutsche Seeschifffahrt in der
+Freiheit ihrer wirtschaftlichen Betätigung zu schützen.
 
 
 ## § 12
@@ -1378,10 +1543,10 @@ nimmt, Abgaben erhoben. Abgabenschuldner ist auch der Eigentümer des
 Schiffes. Mehrere Schuldner haften als Gesamtschuldner.
 Abgabengläubiger ist der Bund.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung die Höhe der Abgaben näher zu bestimmen. Soweit
-die Rechtsverordnung Abgaben für das Befahren des Nord-Ostsee-Kanals
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung die Höhe der Abgaben näher zu bestimmen. Soweit die
+Rechtsverordnung Abgaben für das Befahren des Nord-Ostsee-Kanals
 betrifft, sind vor ihrem Erlass die Küstenländer zu hören. Die Abgaben
 sind so zu bemessen, dass ihr Aufkommen höchstens die Ausgaben für den
 Kanal und die bundeseigenen Häfen einschließlich derjenigen für
@@ -1416,8 +1581,8 @@ Die erforderlichen nautischen und seemännischen Kenntnisse sind durch
 das erfolgreiche Ablegen einer Prüfung nachzuweisen. Ein zugelassener
 Kanalsteurer ist verpflichtet, sich fortzubilden.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die näheren Anforderungen an die Zulassung zum Kanalsteurer und das
     Verfahren zu regeln, insbesondere hinsichtlich Rücknahme, Widerruf und
@@ -1464,11 +1629,11 @@ werden von demjenigen, der diese Leistungen im eigenen oder fremden
 Namen veranlasst, Entgelte erhoben. Entgeltschuldner ist auch der
 Eigentümer des Schiffes. Mehrere Schuldner haften als Gesamtschuldner.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, nach Anhören der Küstenländer durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Höhe der Entgelte für die Leistungen
-der Kanalsteurer auf dem Nord-Ostsee-Kanal festzusetzen. Die Entgelte
-sind so zu bemessen, dass das Einkommen der Kanalsteurer demjenigen
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+nach Anhören der Küstenländer durch Rechtsverordnung ohne Zustimmung
+des Bundesrates die Höhe der Entgelte für die Leistungen der
+Kanalsteurer auf dem Nord-Ostsee-Kanal festzusetzen. Die Entgelte sind
+so zu bemessen, dass das Einkommen der Kanalsteurer demjenigen
 vergleichbarer Berufsgruppen in der Seeschifffahrt entspricht sowie
 Vorhaltung, Betrieb und Unterhaltung der erforderlichen Einrichtungen
 und die Erfüllung der sich aus Absatz 2 Satz 1 Nummer 1 bis 5
@@ -1606,16 +1771,16 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, soweit dies zur Durchsetzung der in der Anlage
-bezeichneten internationalen Übereinkommen in der Seeschifffahrt
-erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
-nach Absatz 1 Nummer 4 oder Nummer 5 geahndet werden können.
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+soweit dies zur Durchsetzung der in der Anlage bezeichneten
+internationalen Übereinkommen in der Seeschifffahrt erforderlich ist,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände
+zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 4 oder
+Nummer 5 geahndet werden können.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Anlage zu ändern, soweit dies erforderlich ist, um
+(5) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage zu
+ändern, soweit dies erforderlich ist, um
 
 1.  Änderungen in umwelt- oder klimaschutzbezogenen internationalen
     Übereinkommen in der Seeschifffahrt Rechnung zu tragen oder
@@ -1629,12 +1794,11 @@ Anlage zu ändern, soweit dies erforderlich ist, um
 soweit diese jeweils völkerrechtlich als verbindlich angenommen und
 auf Grund innerstaatlichen Rechts anzuwenden sind.
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
-Europäischen Union erforderlich ist, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als
-Ordnungswidrigkeit nach Absatz 1 Nummer 6 oder Nummer 7 geahndet
-werden können.
+(6) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union
+erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
+nach Absatz 1 Nummer 6 oder Nummer 7 geahndet werden können.
 
 
 ## § 16 (weggefallen)
@@ -1729,18 +1893,15 @@ Gesetzes eingeschränkt.
 
 ## § 22
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch allgemeine Verwaltungsvorschriften das Nähere zur einheitlichen
-Anwendung der Vorschriften dieses Gesetzes oder der auf Grund dieses
-Gesetzes erlassenen Rechtsverordnungen durch seine nachgeordneten
-Behörden oder die von ihm beliehenen juristischen Personen regeln.
+Das Bundesministerium für Digitales und Verkehr kann durch allgemeine
+Verwaltungsvorschriften das Nähere zur einheitlichen Anwendung der
+Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes
+erlassenen Rechtsverordnungen durch seine nachgeordneten Behörden oder
+die von ihm beliehenen juristischen Personen regeln.
 
 
-## § 22a
+## § 22a (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ## § 22b
@@ -1749,8 +1910,8 @@ verkündet werden.
 anzuwenden, an dem das Ballastwasser-Übereinkommen für die
 Bundesrepublik Deutschland in Kraft tritt.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt
-den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
+(2) Das Bundesministerium für Digitales und Verkehr gibt den in Absatz
+1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
@@ -1774,15 +1935,15 @@ Internationale Übereinkommen
     Meeresverschmutzung durch Schiffe vom 2. November 1973 und das
     Protokoll von 1978 zu diesem Übereinkommen vom 17. Februar 1978 (BGBl.
     1982 II S. 2, 4; 1996 II S. 399), zuletzt geändert durch die
-    Entschließungen MEPC.314(74), MEPC.315(74) und MEPC.316(74) vom 17.
-    Mai 2019 (BGBl. 2021 II S. 90),
+    Entschließung MEPC.324(75) vom 20. November 2020 (BGBl. 2022 II S.
+    155),
 
 
 3.  Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung
     von Ballastwasser und Sedimenten von Schiffen (Ballastwasser-
     Übereinkommen) vom 13. Februar 2004 (BGBl. 2013 II S. 42, 44), zuletzt
-    geändert durch die Entschließungen MEPC.296(72), MEPC.297(72) und
-    MEPC.299(72) vom 13. April 2018 (BGBl. 2020 II S. 401).
+    geändert durch die Entschließung MEPC.325(75) vom 20. November 2020
+    (BGBl. 2022 II S. 155).
 
 
 

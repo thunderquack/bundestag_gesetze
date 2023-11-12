@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2860
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.3.2020 I 412
-
-Änderung durch
-:   Art. 1 V v. 19.10.2021 I 4717 (Nr. 75) textlich nachgewiesen, dokumentarisch nicht abschließend bearbeitet
+:   Art. 4 G v. 14.3.2023 I Nr. 73
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
@@ -246,9 +243,8 @@ Sicherstellung der Eintragungsunterlagen zu sorgen.
 (4) Die Anwendung der in Abschnitt E der Anlage aufgeführten
 internationalen Schiffssicherheitsnormen als allgemein anerkannte
 Regeln der Technik oder der seemännischen Praxis bleibt unberührt. Das
-Bundesministerium für Verkehr und digitale Infrastruktur macht den
-Abschnitt E betreffende Änderungen und Ergänzungen im Verkehrsblatt
-bekannt.
+Bundesministerium für Digitales und Verkehr macht den Abschnitt E
+betreffende Änderungen und Ergänzungen im Verkehrsblatt bekannt.
 
 
 ## § 7 Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
@@ -474,7 +470,7 @@ der Sicherheitsorganisation verstoßen wird.
 (1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt
 unter Beachtung der allgemeinen Regeln des Völkerrechts und der
 internationalen Regelungen, in den Häfen zugleich unter Einhaltung der
-Vorschriften, die zur Umsetzung der Richtlinie 95/21/EG und deren
+Vorschriften, die zur Umsetzung der Richtlinie 2009/16/EG und deren
 gemeinschaftsrechtlicher Änderungen und Ergänzungen sowie weiterer
 gemeinschaftsrechtlicher Vorschriften über die Hafenstaatkontrolle
 erlassen werden.
@@ -505,10 +501,10 @@ Einhaltung von Umweltschutzstandards.
 
 ## § 15 Rechtsetzungsermächtigung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, zur Abwehr von Gefahren im Sinne des Seeaufgabengesetzes
-durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand
-der völkerrechtlich als verbindlich angenommenen und aufgrund
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur
+Abwehr von Gefahren im Sinne des Seeaufgabengesetzes durch
+Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand der
+völkerrechtlich als verbindlich angenommenen und aufgrund
 innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich oder
 unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu
 ändern.
@@ -792,6 +788,19 @@ I.2/1 Zu Kapitel II-1 der Anlage zu SOLAS (Bauart - Bauweise, Unterteilung
         (VkBl. 2017 S. 1186)
 
 
+    -   Änderung von 2019 (MSC.458(101))
+
+        Angenommen am 14. Juni 2019
+
+        (VkBl. 2020 S. 339)
+
+
+    -   Änderung von 2020 (MSC.475(102))
+
+        Angenommen am 11. November 2020
+        (VkBl. 2022 S. 245)
+
+
 
 
     Zu Regel II-1/3-2:
@@ -1018,7 +1027,7 @@ I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz,
             (VkBl. 2015 S. 330)
 
 
-        -   Änderung von 2016 (MSC.404(96))
+        -   Änderung von 2016 (MSC.403(96))
 
             Angenommen am 19. Mai 2016
 
@@ -1030,6 +1039,18 @@ I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz,
             Angenommen am 25. November 2016
 
             (VkBl. 2017 S. 770)
+
+            Änderung von 2019 (MSC.457(101))
+
+            Angenommen am 14. Juni 2019
+
+            (VkBl. 2020 S. 338)
+
+            Änderung von 2021 (MSC.484(103))
+
+            Angenommen am 13. Mai 2021
+
+            (VkBl. 2022 S. 413)
 
 
 
@@ -1052,6 +1073,20 @@ I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz,
         Angenommen am 15. Juni 2017
 
         (VkBl. 2017 S. 1186)
+
+
+    -   Änderung von 2019 (MSC.458(101))
+
+        Angenommen am 14. Juni 2019
+
+        (VkBl. 2020 S. 339)
+
+
+    -   Änderung von 2020 (MSC.475(102))
+
+        Angenommen am 11. November 2020
+
+        (VkBl. 2022 S. 245)
 
 
 
@@ -1122,6 +1157,20 @@ I.3 Zu Kapitel III der Anlage zu SOLAS (Rettungsmittel und
         (VkBl. 2018 S. 112)
 
 
+    -   Änderung von 2019 (MSC.459(101))
+
+        Angenommen am 13. Juni 2019
+
+        (VkBl. 2020 S. 486)
+
+
+    -   Änderung von 2021 (MSC.485(103))
+
+        Angenommen am 13. Mai 2021
+
+        (VkBl. 2022 S. 414)
+
+
 
 
     Zu Regel 4 (in Verbindung mit Regel 1.2.2.7 des LSA-Codes):
@@ -1132,6 +1181,15 @@ I.3 Zu Kapitel III der Anlage zu SOLAS (Rettungsmittel und
     Angenommen am 19. Oktober 1989
 
     (VkBl. 1998 S. 892, Anlagenband B 8119)
+
+    -   Änderung von 2020 (MSC.481(102))
+
+        Angenommen am 9. November 2020
+
+        (VkBl. 2022 S. 386)
+
+
+
 
     Zu Regel 9.2.3:
 
@@ -1230,6 +1288,27 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
         (VkBl. 2015 S. 789)
 
 
+    -   Änderung von 2015 (MSC.1/Rundschreiben 1453/Rev.1
+
+        vom 12. Juni 2015)
+
+        (VkBl. 2015 S. 735)
+
+
+    -   Änderung von 2015 (MSC.1/Rundschreiben 1454/Rev.1
+
+        vom 9. Juli 2013)
+
+        (VkBl. 2016 S. 23)
+
+
+    -   Änderung von 2019 (MSC.462(101))
+
+        Angenommen am 13. Juni 2019
+
+        (VkBl. 2020 S. 852)
+
+
     -   Änderung von 2017 (MSC.426(98))
 
         Angenommen am 15. Juni 2017
@@ -1292,7 +1371,7 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
 
 I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
 
-[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001661360]
+[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001662360]
     (soweit der Anwendungsbereich dieses Gesetzes nach seinem § 1 Absatz 3
     Nummer 3 in Verbindung mit § 9 Absatz 1 Satz 1 Nummer 5
     Seeaufgabengesetz gegeben ist)
@@ -1367,6 +1446,13 @@ I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
         (VkBl. 2019 S. 249)
 
 
+    -   Änderung von 2019 (MSC.460(101))
+
+        Angenommen am 14. Juni 2019
+
+        (VkBl. 2020 S. 807 und Sonderband C 8026)
+
+
 
 
     Zu Regel 11:
@@ -1425,6 +1511,13 @@ I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
         Angenommen am 24. Mai 2018
 
         (VkBl. 2019 S. 265)
+
+
+    -   Änderung von 2020 (MSC.476(102))
+
+        Angenommen am 11. November 2020
+
+        (VkBl. 2022 S. 246)
 
 
 
@@ -1670,6 +1763,20 @@ I.11/1 Zu Kapitel XI-1 der Anlage zu SOLAS (Besondere Maßnahmen zur Erhöhung
         (VkBl. 2017 S. 145)
 
 
+    -   Änderung 2019 (MSC.461(101))
+
+        Angenommen am 13. Juni 2019
+
+        (VkBl. 2020 S. 852)
+
+
+    -   Änderung 2021 (MSC.483(103))
+
+        Angenommen am 13. Mai 2021
+
+        (VkBl. 2022 S. 412)
+
+
 
 
     Zu Regel 3:
@@ -1878,7 +1985,7 @@ II.0.7 Änderungen vom Dezember 2003 (MEPC.111(50))
     (BGBl. 2005 II S. 314)
 
 
-[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001661360]
+[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001662360]
     II.0.8
 *   Änderung vom April 2004 (MEPC.115(51))
 
@@ -2100,6 +2207,15 @@ II.0.35 Änderungen vom Mai 2019
     (BGBl. 2021 II S. 90)
 
 
+II.0.36 Änderungen vom November 2020
+
+    (Entschließung MEPC.324(75))
+
+    Angenommen am 20. November 2020
+
+    (BGBl. 2022 II S. 155)
+
+
 II.1 Zu Anlage I:
 
     Zu Regel 1:
@@ -2165,14 +2281,18 @@ II.1 Zu Anlage I:
 
     (VkBl. 2004 S. 672)
 
-    Änderungen von 2013 an der Neufassung der Richtlinien und
-    Spezifikationen für Überwachungs- und Kontrollsysteme für das
-    Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49) und
-    MEPC.240(65))
+    -   Änderungen von 2013 an der Neufassung der Richtlinien und
+        Spezifikationen für Überwachungs- und Kontrollsysteme für das
+        Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49))
 
-    Angenommen am 17. Mai 2013
+        (Entschließung MEPC.240(65))
 
-    (VkBl. 2018 S. 817)
+        Angenommen am 17. Mai 2013
+
+        (VkBl. 2018 S. 817)
+
+
+
 
     Zu Regel 47 Absatz 2:
 
@@ -2692,7 +2812,7 @@ IV.1 Empfehlungen zur Vermessung oben offener Containerschiffe
 
 
 
-**VI.**[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001661360]
+**VI.**[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001662360]
  Regel I/2 Absatz 11, I/4 und I/14 sowie - soweit es sich um die
     Verantwortlichkeiten des Schiffseigentümers und des Schiffsführers
     nach den §§ 7 bis 9 dieses Gesetzes handelt - die Kapitel II bis VIII
@@ -2765,6 +2885,15 @@ IX.0.1 Änderungen vom April 2018
     Angenommen am 13. April 2018
 
     (BGBl. 2020 II S. 401)
+
+
+IX.0.2 Änderungen vom November 2020
+
+    (Entschließung MEPC.325(75))
+
+    Angenommen am 20. November 2020
+
+    (BGBl. 2022 II S. 155)
 
 
 IX.1 Zur Anlage:
@@ -2892,7 +3021,7 @@ IX.1 Zur Anlage:
 
 
 
-    2.[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001661360]
+    2.[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001662360]
   den in Abschnitt D Nr. 1 bis 4, 5, 6 bis 7.3, 8 bis 8.5, 9, 10 bis
         10\.4, 11 bis 11.2, 12 bis 12.2
         , 12.4, 13 bis 13.1, 14.1 und 15 bis 19 genannten Richtlinien.
@@ -2936,14 +3065,15 @@ IX.1 Zur Anlage:
 
 I.1.1 Zu den Regeln II-1/2.28 und II-1/3-10:
 
-    Richtlinien für die Prüfung der Konformität mit den Zielorientierten
-    Schiffbaunormen für Massengutschiffe und Öltankschiffe
+    Überarbeitete Richtlinien für die Prüfung der Konformität mit den
+    Zielorientierten Schiffbaunormen für Massengutschiffe und
+    Öltankschiffe
 
-    Entschließung MSC.296(87)
+    (Entschließung MSC.454(100))
 
-    Angenommen am 20. Mai 2010
+    Angenommen am 7. Dezember 2018
 
-    (VkBl. 2013 S. 153)
+    (VkBl. 2020 S. 227)
 
 
 I.1.2 Zu Regel II-1/4:
@@ -3118,6 +3248,20 @@ I.3.1 Zu Regel III/4:
         (VkBl. 2018 S. 113)
 
 
+    -   Änderung von 2019 (MSC.472(101))
+
+        Angenommen am 14. Juni 2019
+
+        (VkBl. 2021 S. 437)
+
+
+    -   Änderung von 2021 (MSC.488(103))
+
+        Angenommen am 13. Mai 2021
+
+        (VkBl. 2022 S. 415)
+
+
 
 
 
@@ -3178,6 +3322,17 @@ I.4.1 Zu Regel V/15 (hinsichtlich der anzuwendenden Mindestanforderungen):
 
         (VkBl. 2005 S. 713)
 
+        -   geändert durch
+
+            Entschließung MSC.466(101)
+
+            Angenommen am 14. Juni 2019
+
+            (VkBl. 2020 S. 490)
+
+
+
+
 
     c)  Leistungsanforderungen für integrierte Navigationssysteme (INS)
         (Entschl. MSC.252(83))
@@ -3185,6 +3340,17 @@ I.4.1 Zu Regel V/15 (hinsichtlich der anzuwendenden Mindestanforderungen):
         Angenommen am 8. Oktober 2007
 
         (VkBl. 2011 S. 155)
+
+        -   geändert durch
+
+            Entschließung MSC.452(99)
+
+            Angenommen am 24. Mai 2018
+
+            (VkBl. 2020 S. 337)
+
+
+
 
 
 
@@ -3224,6 +3390,17 @@ I.4.3 Zu Regel V/19:
 
         (VkBl. 2005 S. 713)
 
+        -   geändert durch
+
+            Entschließung MSC.466(101)
+
+            Angenommen am 14. Juni 2019
+
+            (VkBl. 2020 S. 490)
+
+
+
+
 
     c)  Leistungsanforderungen für integrierte Navigationssysteme (INS)
         (Entschl. MSC.252(83))
@@ -3231,6 +3408,17 @@ I.4.3 Zu Regel V/19:
         Angenommen am 8. Oktober 2007
 
         (VkBl. 2011 S. 155)
+
+        –   geändert durch
+
+            Entschließung MSC.452(99)
+
+            Angenommen am 24. Mai 2018
+
+            (VkBl. 2020 S. 337)
+
+
+
 
 
 
@@ -3832,14 +4020,24 @@ II.5 Zu Anlage VI:
 
     (VkBl. 2020 S. 663; 2021 S. 186)
 
-    –   Änderungen der Richtlinien von 2018 über die Methode zur Berechnung
+    -   Änderungen der Richtlinien von 2018 über die Methode zur Berechnung
         des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
 
-        (Entschließung MEPC.308(73) und (MEPC.322(74))
+        (Entschließung MEPC.308(73)) (MEPC.322(74))
 
-        Angenommen am 17. Mai 2019
+        Angenommen am 17. Mai 2019
 
         (VkBl. 2020 S. 692)
+
+
+    -   Änderungen der Richtlinien von 2018 über die Methode zur Berechnung
+        des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+
+        (Entschließung MEPC.332(76))
+
+        Angenommen am 17. Juni 2021
+
+        (VkBl. 2022 S. 285)
 
 
 
@@ -3864,6 +4062,37 @@ II.5 Zu Anlage VI:
     Vom 17. Juni 2013
 
     (VkBl. 2021 S. 125)
+
+    Zu Regel 20 Absatz 3:
+
+    Richtlinien von 2018 über die Methode zur Berechnung des erreichten
+    Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung
+    MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+
+    Angenommen am 26. Oktober 2018
+
+    (VkBl. 2020 S. 663, VkBl. 2021 S. 186)
+
+
+    -   Änderungen der Richtlinien von 2018 über die Methode zur Berechnung
+        des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+        (Entschließung MEPC.308(73)) (MEPC.322(74))
+
+        Angenommen am 17. Mai 2019
+
+        (VkBl. 2020 S. 692)
+
+
+    -   Änderungen der Richtlinien von 2018 über die Methode zur Berechnung
+        des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+        (Entschließung MEPC.332(76))
+
+        Angenommen am 17. Juni 2021
+
+        (VkBl. 2022 S. 285)
+
+
+
 
     Zu Regel 21:
 
@@ -4139,7 +4368,8 @@ VI.2 Zur Anlage:
     Zu Regel B-1:
 
     Richtlinien für die Ballastwasser-Behandlung und die Erstellung von
-    Ballastwasser-Behandlungsplänen (G4) (MEPC.127(53))
+    Ballastwasser-Behandlungsplänen (G4) MEPC.127(53), korrigiert durch
+    MEPC 53/24/Add.1/Corr.1)
 
     Angenommen am 22. Juli 2005
 
@@ -4164,7 +4394,7 @@ VI.2 Zur Anlage:
 
     (VkBl. 2011 S. 271)
 
-    Zu Regel D–3.1:
+    Zu Regel D-3.1:
 
     Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen
     (G8)
@@ -4174,6 +4404,22 @@ VI.2 Zur Anlage:
     Angenommen am 22. Juli 2005
 
     (VkBl. 2021 S. 152)
+
+    Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen
+    (G8)
+    (MEPC.174(58))
+
+    Angenommen am 10. Oktober 2008
+
+    (VkBl. 2011 S. 180, Berichtigung der Bekanntmachung VkBl. 2011 S. 650)
+
+    Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen
+    (G8) 2016
+    (MEPC.279(70))
+
+    Angenommen am 28. Oktober 2016
+
+    (VkBl. 2019 S. 364)
 
     Zu Regel D-3.2:
 
@@ -4205,27 +4451,20 @@ VI.2 Zur Anlage:
 
     (VkBl. 2011 S. 555)
 
-    Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen
-    (G8)
-    (MEPC.174(58))
+    Zu Regel E-1:
 
-    Angenommen am 10. Oktober 2008
+    Leitlinien von 2020 für Inbetriebnahmeprüfungen von Ballastwasser-
+    Behandlungssystemen (BWM.2/ Rundschreiben 70/Rev.1)
 
-    (VkBl. 2011 S. 180, Berichtigung der Bekanntmachung VkBl. 2011 S. 650)
+    Angenommen am 9. Dezember 2020
 
-    Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen
-    (G8) 2016
-    (MEPC.279(70))
-
-    Angenommen am 28. Oktober 2016
-
-    (VkBl. 2019 S. 364)
+    (VkBl. 2022 S. 283)
 
 
 
 
 
-**D.**[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001661360]
+**D.**[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001662360]
  Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union
     **:**
 
@@ -4365,7 +4604,7 @@ VI.2 Zur Anlage:
         (ABl. L 261 vom 22.7.2021, S. 45),
 
 
-    11.[^F805382_01_BJNR286010998BJNE001661360]
+    11.[^F805382_01_BJNR286010998BJNE001662360]
  Artikel 3, 5 bis 7 und 11 in Verbindung mit den Anhängen I bis V sowie
         mit den Artikeln 1 und 2 der Richtlinie 97/70/EG des Rates vom 11.
         Dezember 1997 über eine harmonisierte Sicherheitsregelung für
@@ -4728,6 +4967,13 @@ VI.2 Zur Anlage:
             (VkBl. 1998 S. 892, Anlagenband B 8119)
 
 
+        -   Änderung von 2020 (MSC.479(102))
+
+            Angenommen am 11. November 2020
+
+            (VkBl. 2022 S. 247)
+
+
 
 
 
@@ -5005,10 +5251,9 @@ VI.2 Zur Anlage:
         (VkBl. 2012 S. 829)
 
 
-    33. MEPC.2/Rundschreiben 18 „Vorläufige Einstufung Flüssiger Stoffe“ vom
-        17\. Dezember 2010
+    33. MEPC.2/Rundschreiben 27 „Vorläufige Einstufung Flüssiger Stoffe“
 
-        (VkBl. 2013 S. 125)
+        (VkBl. 2022 S. 5)
 
 
     34. Entschließung A.1050(27) „Überarbeitete Empfehlungen zum Begehen
@@ -5110,22 +5355,22 @@ VI.2 Zur Anlage:
 
     Vgl. § 1 der Gefahrgutverordnung See in der Fassung der Bekanntmachung
     vom 9. Februar 2016 (BGBl. I S. 182), in der jeweiligen Fassung
-[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001661360]:     Artikel 6 Nr. 1 der Verordnung vom 28. Juni 2006 (BGBl. I S. 1417).
-[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001661360]:     Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-
+[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001662360]:     Artikel 6 Nr. 1 der Verordnung vom 28. Juni 2006 (BGBl. I S. 1417).
+[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001662360]:     Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-
     Übereinkommen genannten Vorschriften der Vollzugsverordnung für den
     Funkdienst (Radio Regulations) der Internationalen Fernmeldeunion nach
     dem Stand vom 1. September 2001, soweit sie den mobilen Seefunkdienst
     und den mobilen Seefunkdienst über Satelliten betreffen, kann beim
     Bundesministerium für Verkehr und digitale Infrastruktur, Robert-
     Schuman-Platz 1, 53175 Bonn, bezogen werden.
-[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001661360]:     Die in Abschnitt D Nr. 12.1 genannte Richtlinie gilt für Norwegen
+[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001662360]:     Die in Abschnitt D Nr. 12.1 genannte Richtlinie gilt für Norwegen
     eingeschränkt, vgl. ABl. EU 2004 Nr. L 88 S. 55.
-[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001661360]:     Das Bundesministerium für Verkehr-, Bau- und Wohnungswesen hat den
+[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001662360]:     Das Bundesministerium für Verkehr-, Bau- und Wohnungswesen hat den
     Wortlaut der in diesem Abschnitt aufgeführten Regelungen, soweit sie
     vor dem 1. Januar 2001 in Kraft getreten sind, im Verkehrsblatt 2001
     S. 313, Anlagenband B 8126 zusammenfassend veröffentlicht.
-[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001661360]:     Artikel 3 der Richtlinie verweist zusätzlich auf das Protokoll vom 2.
+[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001662360]:     Artikel 3 der Richtlinie verweist zusätzlich auf das Protokoll vom 2.
     April 1993 zu dem Internationalen Übereinkommen von Torremolinos über
     die Sicherheit von Fischereifahrzeugen von 1997 („Torremolinos-
     Protokoll“) (VkBl. 1999 S. 142, Anlagenband B 8319).
-[^F805382_01_BJNR286010998BJNE001661360]: 
+[^F805382_01_BJNR286010998BJNE001662360]: 

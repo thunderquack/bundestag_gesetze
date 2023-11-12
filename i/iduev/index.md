@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2372
 
-Änderung durch
-:   Art. 93 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+Geändert durch
+:   Art. 93 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 1994
 
-Geändert durch
-:   Art. 1 V v. 30.7.2020 I 1869
+Zuletzt geändert durch
+:   Art. 1 V v. 11.7.2023 I Nr. 185
 
 § 6 dieser Verordnung dient der Umsetzung der Richtlinie 2005/36/EG
 des Europäischen Parlaments und des Rates vom 7. September 2005 über

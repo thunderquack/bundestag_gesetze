@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4834
 
+Geändert durch
+:   Art. 6 G v. 31.10.2022 I 1966
+
 
 ## Eingangsformel
 
@@ -1461,7 +1464,7 @@ Staatsanwaltschaften der Länder
 
     *   Güterrechtsregister
 
-    *   130 Jahre
+    *   130 Jahre, längstens bis zum 31. Dezember 2037
 
     *
 
@@ -1473,7 +1476,7 @@ Staatsanwaltschaften der Länder
 
     *   70 Jahre
         vom Zeitpunkt
-        der Eintragung an
+        der Eintragung an, längstens bis zum 31. Dezember 2037
 
     *
 

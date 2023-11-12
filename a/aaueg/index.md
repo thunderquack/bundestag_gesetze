@@ -161,7 +161,7 @@ für die Rente nach dem Sechsten Buch Sozialgesetzbuch maßgebenden
 Rentenartfaktor geteilt wird. Unterschreitet der Monatsbetrag des
 angepassten Betrags den Monatsbetrag der nach den Sätzen 1 und 2
 festgestellten Leistung, wird dieser so lange gezahlt, bis die
-angepasste Renten diesen Betrag erreicht. Die Sätze 1 bis 6 sind auch
+angepasste Rente diesen Betrag erreicht. Die Sätze 1 bis 6 sind auch
 bei Beginn einer Rente wegen Todes nach den Vorschriften des Sechsten
 Buches Sozialgesetzbuch in der Zeit vom 1. Juli 1995 bis zum 31.
 Dezember 1996 anzuwenden, wenn der verstorbene Versicherte eine Rente
@@ -454,7 +454,7 @@ Leistungen oder Leistungsteile fest; im übrigen ist die Deutsche
 Rentenversicherung Bund berechtigt, mit anderen Trägern der
 Rentenversicherung Vereinbarungen über die Durchführung der
 Versicherung und die Feststellung von Leistungen zu treffen.
-Leistungen oer Leistungsteile, die auf in die Rentenversicherung
+Leistungen oder Leistungsteile, die auf in die Rentenversicherung
 überführten Ansprüchen oder Anwartschaften beruhen, sind auch dann
 Aufwendungen im Sinne des § 15, wenn sie aufgrund der Sätze 2 bis 4
 von einem anderen Träger der Rentenversicherung für die Deutsche

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 42
 
 Zuletzt geändert durch
-:   Art. 127 G v. 10.8.2021 I 3436
+:   Art. 29 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -86,11 +86,11 @@ der Lizenzurkunde erforderlich, so hat das Unternehmen die
 Lizenzurkunde und deren beglaubigten Kopien unverzüglich vorzulegen.
 
 
-### § 3 Zuständigkeiten des Bundesamtes für Güterverkehr (Bundesamt)
+### § 3 Zuständigkeiten des Bundesamtes für Logistik und Mobilität (Bundesamt)
 
-Das Bundesamt für Güterverkehr (Bundesamt) ist zuständig für die
-Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen nach
-Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
+Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für
+die Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen
+nach Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
 
 
 ## 2. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit CEMT-Genehmigungen und CEMT-Umzugsgenehmigungen

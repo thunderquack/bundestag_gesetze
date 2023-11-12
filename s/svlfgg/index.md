@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 579
 
 Zuletzt geändert durch
-:   Art. 15 G v. 12.6.2020 I 1248
+:   Art. 16 G v. 20.12.2022 I 2759
 
 
 ## § 1 Errichtung
@@ -73,10 +73,26 @@ Sicherung.
 
 ## § 5 Dienstherrnfähigkeit, Dienstrecht
 
-Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat
-das Recht, Beamtinnen und Beamte zu haben. Für die
-Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft,
-Forsten und Gartenbau gelten § 144 Satz 1 sowie die §§ 145 bis 147 des
+(1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+besitzt Dienstherrnfähigkeit im Sinne des § 2 des
+Bundesbeamtengesetzes. Die Beamtinnen und Beamten sind
+Bundesbeamtinnen und Bundesbeamte.
+
+(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
+auf Vorschlag des Vorstandes der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau die Beamtinnen und Beamten. Es
+kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese
+Befugnis ganz oder teilweise auf die Geschäftsführung weiter zu
+übertragen.
+
+(3) Oberste Dienstbehörde für die Geschäftsführung und ihre
+Stellvertretung ist das Bundesministerium für Arbeit und Soziales, für
+die übrigen Beamtinnen und Beamten der Vorstand der Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau, der seine Befugnisse ganz
+oder teilweise auf die Geschäftsführung übertragen kann.
+
+(4) Für die Dienstordnungsangestellten der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau gelten die §§ 144 bis 147 des
 Siebten Buches Sozialgesetzbuch entsprechend.
 
 
@@ -109,17 +125,7 @@ wenn die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 gegenüber ihren Tarifbeschäftigten Leistungen der betrieblichen
 Altersversorgung unmittelbar zugesagt hat.
 
-(1a) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
-für Altersrückstellungen gelten die Vorschriften des Vierten Titels
-des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch mit der
-Maßgabe, dass eine Anlage auch in Euro-denominierten Aktien im Rahmen
-eines passiven, indexorientierten Managements zulässig ist. Die
-Anlageentscheidungen sind jeweils so zu treffen, dass der Anteil an
-Aktien maximal 20 Prozent des Deckungskapitals beträgt. Änderungen des
-Aktienkurses können vorübergehend zu einem höheren Anteil an Aktien am
-Deckungskapital führen. Die Sätze 1 bis 3 gelten auch für das
-Deckungskapital für Altersrückstellungen nach § 12 der
-Sozialversicherungs-Rechnungsverordnung.
+(1a) (weggefallen)
 
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch
 Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit

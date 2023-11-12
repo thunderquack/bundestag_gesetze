@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.8.2020 I 1936;
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 22.11.2020 I 2466
-
-Änderung durch
-:   Art. 16 G v. 22.11.2021 I 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 17.7.2023 I Nr. 191
 
 
 ## Erster Abschnitt - Förderungsfähige Maßnahmen
@@ -449,9 +446,9 @@ ständigen Wohnsitz im Inland haben und
 
 1.  eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1, 2 oder 4, den
     §§ 23a, 25 Absatz 1 oder 2, den §§ 25a, 25b, 28, 37, 38 Absatz 1
-    Nummer 2, § 104a oder als Ehegatte, Lebenspartner oder Kind eines
-    Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach
-    § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
+    Nummer 2, den §§ 104a, 104c oder als Ehegatte, Lebenspartner oder Kind
+    eines Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis
+    nach § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
 
 
 2.  eine Aufenthaltserlaubnis nach § 25 Absatz 3, 4 Satz 2 oder Absatz 5,
@@ -1094,11 +1091,10 @@ verwaltet und eingezogen.
 
 (1) Über die Förderungsleistung einschließlich der Höhe der
 Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen
-oder elektronischen Antrag, der den Vorgaben des § 36a Absatz 2 Satz 4
-Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entsprechen muss.
-Maßnahmebeitrag und Unterhaltsbeitrag müssen spätestens bis zum Ende
-der Maßnahme, bei mehreren in sich selbstständigen Abschnitten bis zum
-Ende des jeweiligen Maßnahmeabschnittes beantragt werden.
+oder elektronischen Antrag. Maßnahmebeitrag und Unterhaltsbeitrag
+müssen spätestens bis zum Ende der Maßnahme, bei mehreren in sich
+selbstständigen Abschnitten bis zum Ende des jeweiligen
+Maßnahmeabschnittes beantragt werden.
 
 (2) Soweit für die Erhebung der für Entscheidungen nach diesem Gesetz
 erforderlichen Tatsachen Vordrucke vorgesehen sind, sind diese zu

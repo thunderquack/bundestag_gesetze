@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 9a G v. 30.3.2021 I 448
-
-Änderung durch
-:   Art. 23 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 31 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 14.3.2023 I Nr. 73
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1129,13 +1123,26 @@ Einschränkung anzuwenden, daß nur die Entnahme von Blutproben und
 andere geringfügige Eingriffe zulässig sind. Die Entnahme einer
 Blutprobe bedarf abweichend von § 81a Absatz 2 Satz 1 der
 Strafprozessordnung keiner richterlichen Anordnung, wenn bestimmte
-Tatsachen den Verdacht begründen, dass eine Ordnungswidrigkeit nach
-den §§ 24a und 24c des Straßenverkehrsgesetzes begangen worden ist. In
-einem Strafverfahren entnommene Blutproben und sonstige Körperzellen,
-deren Entnahme im Bußgeldverfahren nach Satz 1 zulässig gewesen wäre,
-dürfen verwendet werden. Die Verwendung von Blutproben und sonstigen
-Körperzellen zur Durchführung einer Untersuchung im Sinne des § 81e
-der Strafprozeßordnung ist unzulässig.
+Tatsachen den Verdacht begründen, dass eine Ordnungswidrigkeit
+begangen worden ist
+
+1.  nach den §§ 24a und 24c des Straßenverkehrsgesetzes oder
+
+
+2.  nach § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes in Verbindung
+    mit einer Vorschrift einer auf Grund des § 3 Absatz 1 Satz 1 Nummer 1
+    des Binnenschifffahrtsaufgabengesetzes erlassenen Rechtsverordnung,
+    sofern diese Vorschrift das Verhalten im Verkehr im Sinne des § 3
+    Absatz 1 Satz 1 Nummer 1 Buchstabe a Doppelbuchstabe aa des
+    Binnenschifffahrtsaufgabengesetzes regelt.
+
+
+
+In einem Strafverfahren entnommene Blutproben und sonstige
+Körperzellen, deren Entnahme im Bußgeldverfahren nach Satz 1 zulässig
+gewesen wäre, dürfen verwendet werden. Die Verwendung von Blutproben
+und sonstigen Körperzellen zur Durchführung einer Untersuchung im
+Sinne des § 81e der Strafprozeßordnung ist unzulässig.
 
 (4a) § 100j Absatz 1 Satz 1 Nummer 2 der Strafprozessordnung, auch in
 Verbindung mit § 100j Absatz 2 der Strafprozessordnung, ist mit der

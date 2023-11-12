@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 1149
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.9.2019 I 1397
+:   Art. 1 V v. 19.8.2022 I 1438
 
 
 ## Eingangsformel
@@ -116,8 +116,8 @@ baren Auslagen. Die Erstattung richtet sich nach den für Bundesbeamte
 geltenden Vorschriften.
 
 (2) Die Mitglieder des Beirats erhalten für jeden Kalendertag einer
-Sitzung einen Pauschbetrag für Zeitaufwand in Höhe von 75 Euro. Für
-den Vorsitzenden beträgt der Pauschbetrag 150 Euro.
+Sitzung einen Pauschbetrag für Zeitaufwand in Höhe von 79 Euro. Für
+den Vorsitzenden beträgt der Pauschbetrag 158 Euro.
 
 
 ### Zweiter Abschnitt - Ausschüsse

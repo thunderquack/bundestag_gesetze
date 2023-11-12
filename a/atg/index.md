@@ -17,13 +17,13 @@ Fundstelle
 :   BGBl I: 1959, 814
 
 Neugefasst durch
-:   Bek. v. 15.7.1985 I 1565
+:   Bek. v. 15.7.1985 I 1565;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.8.2021 I 3530
+:   Art. 1 G v. 4.12.2022 I 2153
 
 Änderung durch
-:   Bek. v. 3.1.2022 I 14 (Nr. 1) mWv 1.1.2022 ist berücksichtigt
+:   Bek. v. 3.1.2022 I 14 ist berücksichtigt
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -916,7 +916,19 @@ Elektrizitätsmengenkontingent des Kernkraftwerks Mülheim-Kärlich gemäß
 Anlage 3 Spalte 2 sind von einer Übertragung nach Absatz 1b Satz 1 bis
 3 ausgenommen Elektrizitätsmengen von 25 900,00 Gigawattstunden.
 
-(1e) (weggefallen)
+(1e) Abweichend von Absatz 1a Satz 1 erlöschen die Berechtigungen zum
+Leistungsbetrieb für die Kernkraftwerke Isar 2, Emsland und
+Neckarwestheim 2 mit Ablauf des 15. April 2023. Dies gilt unabhängig
+davon, ob die in Anlage 3 Spalte 2 für die Kernkraftwerke Isar 2,
+Emsland und Neckarwestheim 2 jeweils aufgeführte Elektrizitätsmenge
+oder die sich auf Grund von Übertragungen nach Absatz 1b für diese
+Anlagen ergebende Elektrizitätsmenge erzeugt worden ist. Für den
+weiteren Leistungsbetrieb nach Satz 1 sind nur die in der jeweiligen
+Anlage noch vorhandenen Brennelemente zu nutzen. Auf die in Satz 1
+genannten Kernkraftwerke ist § 19a Absatz 1 nicht anzuwenden. Im
+Übrigen bleiben die Vorschriften dieses Gesetzes, insbesondere die
+Befugnisse der zuständigen atomrechtlichen Genehmigungs- und
+Aufsichtsbehörden nach den §§ 17 und 19 unberührt.
 
 (2) Die Genehmigung darf nur erteilt werden, wenn
 

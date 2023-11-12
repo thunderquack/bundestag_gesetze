@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 15 V v. 29.11.2018 I 2034; 2021 I 5261
-
-Änderung durch
-:   Art. 82 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 82 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel

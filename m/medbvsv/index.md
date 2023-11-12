@@ -17,18 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 26.05.2020 V1
 
-Stand: Die V tritt gem. § 10 dieser V idF d. Art. 3a Nr. 2 G v. 28.5.2021 I 1174 am 31.5.2022 außer Kraft
+Stand: Die V tritt gem. § 10 Satz 2 dieser V idF d. Art. 3a Nr. 2 G v. 28.5.2021 I 1174, d. Art. 1 Nr. 2 V v. 9.3.2022 BAnz AT 10.03.2022 V1 u. d. Art. 8b G v. 16.9.2022 I 1454 am 31.12.2023 außer Kraft
 Zuletzt geändert durch
-:   Art. 1 V v. 29.4.2021 BAnz AT 30.04.2021 V4
-
-Änderung durch
-:   Art. 3a G v. 28.5.2021 I 1174 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8b G v. 16.9.2022 I 1454
 
 Die v tritt gem. § 10 dieser v nach § 5 abs. 4 satz 1 g v. 20.7.2000 i 1045 (ifsg), dieser idf d. art. 1 nr. 4 g v. 27.3.2020 i 587, mit aufhebung der feststellung der epidemischen lage von nationaler tragweite außer kraft, ansonsten spätestens mit ablauf des 31.3.2021; die geltung dieser v ist durch
-:   § 10 idF d. Art. 10 Abs. 2 G v. 29.3.2021 I 370 über den 31. März 2021 hinaus verlängert worden
+:   § 10 dieser V idF d. Art. 10 Abs. 2 G v. 29.3.2021 I 370 iVm Art. 3a Nr. 2 G v. 28.5.2021 I 1174 über den 31.3.2021 hinaus bis zum 31.5.2022, durch § 10 Satz 2 dieser V idF d. Art. 1 Nr. 2 V v. 9.3.2022 BAnz AT 10.03.2022 V1 über den 31. Mai 2022 bis zum 25.11.2022 u. durch § 10 dieser V idF d. Art. 8b G v. 16.9.2022 BGBl I 2022, 1454 über den 25.11.2022 hinaus bis zum 31.12.2023 verlängert worden
 
 [^BJNR614700020_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -49,9 +43,8 @@ Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 ## § 1 Zweck der Verordnung und Begriffsbestimmungen
 
 (1) Diese Verordnung dient der Sicherstellung der Versorgung der
-Bevölkerung mit Produkten des medizinischen Bedarfs während der vom
-Deutschen Bundestag am 28. März 2020 festgestellten epidemischen Lage
-von nationaler Tragweite.
+Bevölkerung mit Produkten des medizinischen Bedarfs während der durch
+das Coronavirus SARS-CoV-2 verursachten Epidemie.
 
 (2) Produkte des medizinischen Bedarfs im Sinne dieser Verordnung sind
 Arzneimittel, deren Wirk-, Ausgangs- und Hilfsstoffe, Betäubungsmittel
@@ -379,5 +372,5 @@ Beschäftigten bereitgestellt werden.
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
-am 31. Mai 2022 außer Kraft.
+am 31. Dezember 2023 außer Kraft.
 

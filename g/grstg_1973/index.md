@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 965
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.7.2021 I 2931
+:   Art. 21 G v. 16.12.2022 I 2294
 
 
 ## Abschnitt I - Steuerpflicht
@@ -193,11 +193,11 @@ Grundsteuer befreit
 
 
 6.  Grundbesitz, der für die Zwecke eines Krankenhauses benutzt wird, wenn
-    das Krankenhaus in dem Kalenderjahr, das dem Veranlagungszeitpunkt (§
-    13 Abs. 1) vorangeht, die Voraussetzungen des § 67 Abs. 1 oder 2 der
-    Abgabenordnung erfüllt hat. Der Grundbesitz muß ausschließlich
-    demjenigen, der ihn benutzt, oder einer juristischen Person des
-    öffentlichen Rechts zuzurechnen sein.
+    das Krankenhaus in dem Kalenderjahr, das dem Veranlagungszeitpunkt
+    (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) vorangeht, die
+    Voraussetzungen des § 67 Abs. 1 oder 2 der Abgabenordnung erfüllt hat.
+    Der Grundbesitz muß ausschließlich demjenigen, der ihn benutzt, oder
+    einer juristischen Person des öffentlichen Rechts zuzurechnen sein.
 
 
 
@@ -373,8 +373,8 @@ Prozent ermäßigt, wenn
 
 
 2.  die sich aus der Förderzusage im Sinne des § 13 Absatz 2 des
-    Wohnraumförderungsgesetzes ergebenden Bindungen für jeden
-    Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums bestehen.
+    Wohnraumförderungsgesetzes ergebenden Bindungen im
+    Hauptveranlagungszeitraum bestehen.
 
 
 
@@ -404,19 +404,13 @@ noch des Absatzes 3 vor, wird die Steuermesszahl nach Absatz 1 Nummer
     im Sinne des § 52 der Abgabenordnung anerkannt ist, oder
 
 
-3.  einer Genossenschaft oder einem Verein zugerechnet wird, der seine
-    Geschäftstätigkeit auf die in § 5 Absatz 1 Nummer 10 Buchstabe a und b
-    des Körperschaftsteuergesetzes genannten Bereiche beschränkt und von
-    der Körperschaftsteuer befreit ist.
+3.  einer Genossenschaft oder einem Verein zugerechnet wird, für deren
+    oder dessen Tätigkeit eine Steuerbefreiung nach § 5 Absatz 1 Nummer 10
+    des Körperschaftsteuergesetzes besteht und soweit der Grundbesitz der
+    begünstigten Tätigkeit zuzuordnen ist.
 
 
 
-Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für
-jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums
-gewährt, wenn nachgewiesen wird, dass die jeweiligen Voraussetzungen
-am Hauptveranlagungsstichtag vorlagen. Entfallen die Voraussetzungen
-des Satzes 1 während des Hauptveranlagungszeitraums, ist dies nach §
-19 Absatz 2 anzuzeigen.
 
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute
 Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück
@@ -425,6 +419,20 @@ Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein
 Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen
 Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung
 der Steuermesszahl entsprechend anteilig zu gewähren.
+
+(6) Der Abschlag auf die Steuermesszahl nach den Absätzen 2 bis 5 wird
+auf Antrag zunächst für jeden Erhebungszeitraum innerhalb des
+Hauptveranlagungszeitraums gewährt, wenn nachgewiesen wird, dass die
+jeweiligen Voraussetzungen zum Hauptveranlagungszeitpunkt vorliegen.
+Treten die Voraussetzungen der Absätze 2 bis 5 erst im Laufe des
+Hauptveranlagungszeitraums ein und liegen sie zu Beginn des
+Erhebungszeitraums vor, wird der Steuermessbetrag auf Antrag nach § 17
+Absatz 2 Nummer 1 neu veranlagt. Entfallen die Voraussetzungen der
+Absätze 2 bis 5, ist dies nach § 19 Absatz 2 anzuzeigen und ist der
+Steuermessbetrag nach § 17 Absatz 2 Nummer 1 neu zu veranlagen oder
+nach § 21 zu ändern. Der Antrag auf eine Ermäßigung der Steuermesszahl
+nach den Absätzen 2 bis 5 kann durch eine entsprechende Angabe in
+einer Erklärung nach § 228 Absatz 1 des Bewertungsgesetzes erfolgen.
 
 
 ### § 16 Hauptveranlagung
@@ -537,10 +545,11 @@ Steuermeßbeträge vorgenommen.
 
 (1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen
 eines ganz oder teilweise von der Grundsteuer befreiten
-Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als
-Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei
-Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das
-für die Festsetzung des Steuermeßbetrags zuständig ist.
+Steuergegenstandes, die zu einer Änderung oder zum Wegfall der
+Steuerbefreiung führen kann, hat derjenige anzuzeigen, der nach § 10
+als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von
+drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu
+erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
 
 (2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl
 nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als
@@ -548,6 +557,9 @@ Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei
 Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu
 erstatten, das für die Festsetzung des Steuermessbetrags zuständig
 ist.
+
+(3) Die Anzeigen nach den Absätzen 1 und 2 sind Steuererklärungen im
+Sinne der Abgabenordnung, die eigenhändig zu unterschreiben sind.
 
 
 ### § 20 Aufhebung des Steuermeßbetrags
@@ -828,7 +840,7 @@ vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende
 Minderung des tatsächlichen Reinertrags 100 Prozent, ist die
 Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen.
 Der tatsächliche Reinertrag eines Betriebs der Land- und
-Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 3
+Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 2
 Satz 1 und 2 des Bewertungsgesetzes für ein Wirtschaftsjahr. Er gilt
 als in dem Erlasszeitraum bezogen, in dem das für den Betrieb der
 Land- und Forstwirtschaft maßgebliche Wirtschaftsjahr endet.

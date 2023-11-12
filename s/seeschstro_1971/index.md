@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1998 I 3209; 1999 I 193;
 
 Zuletzt geändert durch
-:   Art. 2 § 12 V v. 21.9.2018 I 1398
+:   Art. 2 V v. 11.5.2023 I Nr. 127
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -514,13 +514,19 @@ Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder
 Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem
 Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
-(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille
-oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-einer solchen Atem- oder Blutalkoholkonzentration führt, darf ein
-Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine
-andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht
-ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem
-Kite- und Segelsurfbrett entsprechend.
+(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder
+mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer
+solchen Atem- oder Blutalkoholkonzentration führt, oder unter der
+Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach
+Absatz 3 Satz 1 steht, darf ein Fahrzeug nicht führen oder als
+Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-,
+Decks- oder Maschinendienstes nicht ausüben. Eine Wirkung nach Satz 1
+liegt vor, wenn eine der in Anlage IV genannten Substanzen im Blut
+nachgewiesen wird. Die Sätze 1 und 2 gelten nicht, wenn die Substanz
+aus der bestimmungsgemäßen Einnahme eines für einen bestimmten
+Krankheitsfall verschriebenen Medikamentes herrührt. Die Sätze 1 bis 3
+gelten für das Fahren mit einem Wassermotorrad oder einem Kite- und
+Segelsurfbrett entsprechend.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines
 Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 unterliegenden
@@ -1656,8 +1662,10 @@ Verkehrssituation zu berücksichtigen und den getroffenen Maßnahmen der
 Verkehrslenkung nachzukommen.
 
 (3) Von den Liegestellen im Achterwehrer Schiffahrtskanal darf nur
-nach Anmeldung bei der Schleusenaufsicht abgelegt werden; dies gilt
-nicht für Sportfahrzeuge.
+nach Anmeldung bei der Schleusenaufsicht abgelegt werden.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Sportfahrzeuge. § 58 bleibt
+unberührt.
 
 
 ### § 44
@@ -1833,11 +1841,13 @@ zugelassenen Liegestellen im Schleusenvorhafen Kiel-Holtenau und im
 Binnenhafen Brunsbüttel oder das beim Schleusenmeister angemeldete
 Ausschleusen zur Elbe.
 
-(2) Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren
-Lagerplatz unmittelbar am Nord-Ostsee-Kanal zwischen den Schleusen
-haben und auf dem Nord-Ostsee-Kanal fahren wollen, benötigen einen vom
-zuständigen Wasserstraßen- und Schifffahrtsamt ausgestellten
-Fahrtausweis.
+(2) Sportfahrzeuge, die ihren ständigen Lager- oder Liegeplatz an der
+Eider oberhalb der Schleuse Lexfähre, an der Obereider, am Audorfer
+See, unmittelbar am oder im Nord-Ostsee-Kanal zwischen den Schleusen
+haben, dürfen den Kanal uneingeschränkt benutzen. Als Nachweis des
+Vorliegens der Voraussetzungen des Satzes 1 benötigen sie einen vom
+zuständigen Wasserstraßen- und Schifffahrtsamt auf Antrag
+ausgestellten Fahrtausweis.
 
 (3) Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, daß sie vor
 Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle
@@ -2161,12 +2171,14 @@ fahrlässig
     Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
 
-1b. entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des
-    Brücken-, Decks- oder Maschinendienstes ausübt, mit einem
-    Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er
-    0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder
-    mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-    einer solchen Atem- oder Blutalkoholkonzentration führt,
+1b. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein
+    Fahrzeug, auch ein Wassermotorrad oder ein Kite- und Segelsurfbrett
+    führt oder eine andere Tätigkeit des Brücken-, Decks- oder
+    Maschinendienstes ausübt, obwohl er 0,25 mg/l oder mehr Alkohol in der
+    Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im
+    Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration
+    führt oder unter der Wirkung eines in Anlage IV aufgeführten
+    berauschenden Mittels nach § 3 Absatz 3 Satz 1 steht,
 
 
 1c. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich
@@ -5800,6 +5812,67 @@ Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
 
 (Inhalt: nicht darstellbare kartographische Karte;
 Fundstelle: BGBl. I 1998, 3264)
+
+
+### Anlage IV Benennung berauschender Mittel
+
+(Fundstelle: BGBl. 2023 I Nr. 127, 3)
+
+
+*    *   Mittel
+
+    *   Substanz
+
+
+*    *   Cannabis
+
+    *   Tetrahydrocannabinol (THC)
+
+
+*    *   Heroin
+
+    *   Morphin
+
+
+*    *   Morphin
+
+    *   Morphin
+
+
+*    *   Kokain
+
+    *   Benzoylecgonin
+
+
+*    *   Amphetamine
+
+    *   Amphetamin
+
+
+*    *   Designer Amphetamine
+
+    *   Methylendioxyamphetamin (MDA)
+
+
+*    *
+    *   Methylendioxyethylamphetamin (MDE)
+
+
+*    *
+    *   Methylendioxymetamphetamin (MDAE)
+
+
+*    *   Metamphetamin
+
+    *   Metamphetamin
+
+
+
+
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle
+genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen
+der Grenzwertkommission beim Bundesministerium für Digitales und
+Verkehr für den Bereich des Straßenverkehrs.
 
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 

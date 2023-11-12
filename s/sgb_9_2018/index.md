@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2016, 3234
 
 Zuletzt geändert durch
-:   Art. 7c G v. 27.9.2021 I 4530
+:   Art. 2 G v. 6.6.2023 I Nr. 146
+
+Mittelbare änderung durch
+:   Art. 10 G v. 6.6.2023 I Nr. 146 ist berücksichtigt
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
@@ -941,12 +944,15 @@ Absatz 1 Satz 2 zu beteiligende Jobcenter dies in Abstimmung mit den
 Leistungsberechtigten vereinbaren.
 
 (4) Bestehen im Einzelfall Anhaltspunkte für einen Betreuungsbedarf
-nach § 1896 Absatz 1 des Bürgerlichen Gesetzbuches, informiert der für
-die Durchführung des Teilhabeplanverfahrens verantwortliche
-Rehabilitationsträger mit Zustimmung der Leistungsberechtigten die
-zuständige Betreuungsbehörde über die Erstellung des Teilhabeplans,
-soweit dies zur Vermittlung anderer Hilfen, bei denen kein Betreuer
-bestellt wird, erforderlich ist.
+nach § 1814 Absatz 1 des Bürgerlichen Gesetzbuchs, wird die zuständige
+Betreuungsbehörde mit Zustimmung des Leistungsberechtigten vom für die
+Durchführung des Teilhabeplanverfahrens verantwortlichen
+Rehabilitationsträger informiert. Der Betreuungsbehörde werden in
+diesen Fällen die Ergebnisse der bisherigen Ermittlungen und Gutachten
+mit dem Zweck mitgeteilt, dass diese dem Leistungsberechtigten andere
+Hilfen, bei denen kein Betreuer bestellt wird, vermitteln kann. Auf
+Vorschlag der Betreuungsbehörde kann sie mit Zustimmung des
+Leistungsberechtigten am Teilhabeplanverfahren beratend teilnehmen.
 
 
 #### § 23 Verantwortliche Stelle für den Sozialdatenschutz
@@ -1324,17 +1330,9 @@ Angebot.
 Leistungsträgern und Leistungserbringern unabhängige ergänzende
 Beratung von Betroffenen für Betroffene besonders zu berücksichtigen.
 
-(4) Das Bundesministerium für Arbeit und Soziales erlässt eine
-Förderrichtlinie, nach deren Maßgabe die Dienste gefördert werden
-können, welche ein unabhängiges ergänzendes Beratungsangebot anbieten.
-Das Bundesministerium für Arbeit und Soziales entscheidet im Benehmen
-mit der zuständigen obersten Landesbehörde über diese Förderung.
+(4) (weggefallen)
 
-(5) Die Förderung erfolgt aus Bundesmitteln und ist bis zum 31.
-Dezember 2022 befristet. Die Bundesregierung berichtet den
-gesetzgebenden Körperschaften des Bundes bis zum 30. Juni 2021 über
-die Einführung und Inanspruchnahme der ergänzenden unabhängigen
-Teilhabeberatung.
+(5) (weggefallen)
 
 (6) Die Bundesmittel für die Zuschüsse werden ab dem Jahr 2023 auf 65
 Millionen Euro festgesetzt. Aus den Bundesmitteln sind insbesondere
@@ -1454,6 +1452,79 @@ Einrichtungen in anderer Weise nicht sichergestellt werden kann.
 
 (4) Rehabilitationsdienste und -einrichtungen mit gleicher
 Aufgabenstellung sollen Arbeitsgemeinschaften bilden.
+
+
+#### § 36a Zuschuss zu Kosten für Erdgas, Wärme und andere Brennstoffe sowie Strom; Verordnungsermächtigung
+
+(1) Zum Ausgleich von Erdgas-, Wärme- und anderen Brennstoffkosten
+sowie Stromkosten zahlen die Rehabilitationsträger nach § 6 Absatz 1
+Nummer 1 bis 4 den anspruchsberechtigten Leistungserbringern auf
+Antrag einen einmaligen Zuschuss zu den Kosten für Erdgas, Wärme- und
+andere Brennstoffe sowie Strom. Der Zuschuss beträgt 95 Prozent der
+Differenz zwischen den entstandenen Energiekosten des Jahres 2022 und
+denen des Jahres 2021. Leistungsberechtigte nach Absatz 2 Nummer 3
+erhalten auf Antrag einen Zuschuss in Höhe von 95 Prozent eines
+Fünftels der Differenz zwischen den entstandenen Energiekosten des
+Jahres 2022 und denen des Jahres 2021. Bei den entstandenen
+Energiekosten im Sinne der Sätze 2 und 3 sind die Entlastungen nach
+dem Erdgas-Wärme-Soforthilfegesetz zu berücksichtigen.
+
+(2) Anspruchsberechtigte Leistungserbringer sind
+
+1.  Medizinische Vorsorge- und Rehabilitationseinrichtungen,
+
+    a)  mit denen ein Vertrag nach § 15 Absatz 2 des Sechsten Buches in
+        Verbindung mit § 38 oder nach den §§ 33 und 34 des Siebten Buches
+        besteht oder
+
+
+    b)  mit denen ein Versorgungsvertrag nach § 111 Absatz 2, § 111a Absatz 1
+        oder § 111c Absatz 1 des Fünften Buches besteht, oder
+
+
+    c)  die von der gesetzlichen Rentenversicherung oder der gesetzlichen
+        Unfallversicherung selbst betrieben werden,
+
+
+
+
+
+2.  Einrichtungen der beruflichen Rehabilitation nach § 51,
+
+
+3.  Werkstätten für behinderte Menschen oder
+
+
+4.  andere Leistungsanbieter nach § 60, soweit sie Leistungen nach § 57
+    erbringen.
+
+
+
+
+(3) Die nach Absatz 1 entstehenden Aufwendungen der
+Rehabilitationsträger einschließlich der Verwaltungskosten werden aus
+den Mitteln des Wirtschaftsstabilisierungsfonds getragen. Die
+Bereitstellung der Mittel erfolgt durch das Bundesamt für Soziale
+Sicherung. Die anfallenden Verwaltungskosten des Bundesamts für
+Soziale Sicherung werden ebenfalls aus den Mitteln des
+Wirtschaftsstabilisierungsfonds getragen.
+
+(4) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
+Einvernehmen mit den Bundesministerien für Gesundheit, für Wirtschaft
+und Klimaschutz sowie der Finanzen durch Rechtsverordnung mit
+Zustimmung des Bundesrates nähere Bestimmungen zu den konkreten
+Voraussetzungen des Zuschusses nach Absatz 1, zum Verfahren nach
+Absatz 1 sowie zur Bereitstellung der Mittel nach Absatz 3 zu
+erlassen. Hierbei können insbesondere die Berechnung des Zuschusses,
+der Auszahlungszeitpunkt, das Antrags- und Auszahlungsverfahren sowie
+das Verfahren zur Umsetzung der Mittelbereitstellung an die
+Rehabilitationsträger näher geregelt werden.
+
+(5) § 29a des Erdgas-Wärme-Preisbremsengesetzes gilt entsprechend.
+
+(6) Es ist eine Erfolgskontrolle zu der Regelung durchzuführen. Die
+Kosten der Erfolgskontrolle werden aus den Mitteln des
+Wirtschaftsstabilisierungsfonds getragen.
 
 
 #### § 37 Qualitätssicherung, Zertifizierung
@@ -2212,6 +2283,9 @@ insbesondere
     Rehabilitationsträger nach § 6 Absatz 1 Nummer 2 bis 5,
 
 
+2a. die Kosten eines Jobcoachings,
+
+
 3.  die Kosten einer notwendigen Arbeitsassistenz für schwerbehinderte
     Menschen als Hilfe zur Erlangung eines Arbeitsplatzes,
 
@@ -2222,14 +2296,18 @@ insbesondere
     a)  zur Berufsausübung,
 
 
-    b)  zur Teilhabe an einer Leistung zur Teilhabe am Arbeitsleben oder zur
-        Erhöhung der Sicherheit auf dem Weg vom und zum Arbeitsplatz und am
-        Arbeitsplatz selbst, es sei denn, dass eine Verpflichtung des
-        Arbeitgebers besteht oder solche Leistungen als medizinische Leistung
-        erbracht werden können,
+    b)  zur Teilhabe an einer Leistung zur Teilhabe am Arbeitsleben,
+
+
+    c)  zur Erhöhung der Sicherheit auf dem Weg vom und zum Arbeitsplatz oder
+
+
+    d)  zur Erhöhung der Sicherheit am Arbeitsplatz selbst,
 
 
 
+    es sei denn, dass eine Verpflichtung des Arbeitgebers besteht oder
+    solche Leistungen als medizinische Leistung erbracht werden können,
 
 
 5.  die Kosten technischer Arbeitshilfen, die wegen Art oder Schwere der
@@ -2707,12 +2785,9 @@ Teilhabe am Arbeitsleben ein Budget für Arbeit.
 Arbeitgeber zum Ausgleich der Leistungsminderung des Beschäftigten und
 die Aufwendungen für die wegen der Behinderung erforderliche Anleitung
 und Begleitung am Arbeitsplatz. Der Lohnkostenzuschuss beträgt bis zu
-75 Prozent des vom Arbeitgeber regelmäßig gezahlten Arbeitsentgelts,
-höchstens jedoch 40 Prozent der monatlichen Bezugsgröße nach § 18
-Absatz 1 des Vierten Buches. Dauer und Umfang der Leistungen bestimmen
-sich nach den Umständen des Einzelfalles. Durch Landesrecht kann von
-dem Prozentsatz der Bezugsgröße nach Satz 2 zweiter Halbsatz nach oben
-abgewichen werden.
+75 Prozent des vom Arbeitgeber regelmäßig gezahlten Arbeitsentgelts.
+Dauer und Umfang der Leistungen bestimmen sich nach den Umständen des
+Einzelfalles.
 
 (3) Ein Lohnkostenzuschuss ist ausgeschlossen, wenn zu vermuten ist,
 dass der Arbeitgeber die Beendigung eines anderen
@@ -2779,7 +2854,7 @@ werden.
 
 (5) Die Bundesagentur für Arbeit soll den Menschen mit Behinderungen
 bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von
-Absatz 1 unterstützen. Dies umfasst im Fall des Absatzes 2 Satz 4 auch
+Absatz 1 unterstützen. Dies umfasst im Fall des Absatzes 2 Satz 2 auch
 die Unterstützung bei der Suche nach einer geeigneten Einrichtung der
 beruflichen Rehabilitation.
 
@@ -3151,7 +3226,14 @@ beruflichen Qualifikation entspricht. Dafür gilt folgende Zuordnung:
 
 
 4.  bei einer fehlenden Ausbildung (Qualifikationsgruppe 4) ein
-    Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße.
+    Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße,
+    mindestens jedoch ein Arbeitsentgelt in Höhe des Betrages, der sich
+    ergibt, wenn der Mindestlohn je Zeitstunde nach § 1 Absatz 2 Satz 1
+    des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des §
+    11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen
+    Verordnung mit einem Siebtel der tariflichen regelmäßigen
+    wöchentlichen Arbeitszeit, die für Tarifbeschäftigte im öffentlichen
+    Dienst des Bundes gilt, vervielfacht wird.
 
 
 
@@ -4242,10 +4324,10 @@ zur Gesamtplanung nach Kapitel 7.
 Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches
 in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst
 die Leistung auch die Leistungen der häuslichen Pflege nach den §§ 64a
-bis 64f, 64i und 66 des Zwölften Buches, solange die Teilhabeziele
-nach Maßgabe des Gesamtplanes (§ 121) erreicht werden können, es sei
-denn der Leistungsberechtigte hat vor Vollendung des für die
-Regelaltersrente im Sinne des Sechsten Buches erforderlichen
+bis 64f, 64i bis 64k und 66 des Zwölften Buches, solange die
+Teilhabeziele nach Maßgabe des Gesamtplanes (§ 121) erreicht werden
+können, es sei denn der Leistungsberechtigte hat vor Vollendung des
+für die Regelaltersrente im Sinne des Sechsten Buches erforderlichen
 Lebensjahres keine Leistungen der Eingliederungshilfe erhalten. Satz 1
 gilt entsprechend in Fällen, in denen der Leistungsberechtigte
 vorübergehend Leistungen nach den §§ 64g und 64h des Zwölften Buches
@@ -4654,6 +4736,34 @@ der Angemessenheitsgrenze nach § 42a Absatz 6 des Zwölften Buches
 übernommen, sofern dies wegen der besonderen Bedürfnisse des Menschen
 mit Behinderungen erforderlich ist. Kapitel 8 ist anzuwenden.
 
+(6) Bei einer stationären Krankenhausbehandlung nach § 39 des Fünften
+Buches werden auch Leistungen für die Begleitung und Befähigung des
+Leistungsberechtigten durch vertraute Bezugspersonen zur
+Sicherstellung der Durchführung der Behandlung erbracht, soweit dies
+aufgrund des Vertrauensverhältnisses des Leistungsberechtigten zur
+Bezugsperson und aufgrund der behinderungsbedingten besonderen
+Bedürfnisse erforderlich ist. Vertraute Bezugspersonen im Sinne von
+Satz 1 sind Personen, die dem Leistungsberechtigten gegenüber im
+Alltag bereits Leistungen der Eingliederungshilfe insbesondere im
+Rahmen eines Rechtsverhältnisses mit einem Leistungserbringer im Sinne
+des Kapitels 8 erbringen. Die Leistungen umfassen Leistungen zur
+Verständigung und zur Unterstützung im Umgang mit
+Belastungssituationen als nichtmedizinische Nebenleistungen zur
+stationären Krankenhausbehandlung. Bei den Leistungen im Sinne von
+Satz 1 findet § 91 Absatz 1 und 2 gegenüber Kostenträgern von
+Leistungen zur Krankenbehandlung mit Ausnahme der Träger der
+Unfallversicherung keine Anwendung. § 17 Absatz 2 und 2a des Ersten
+Buches bleibt unberührt.
+
+(7) Das Bundesministerium für Gesundheit und das Bundesministerium für
+Arbeit und Soziales evaluieren im Einvernehmen mit den Ländern die
+Wirkung einschließlich der finanziellen Auswirkungen der Regelungen in
+Absatz 6 und in § 44b des Fünften Buches. Die Ergebnisse sind bis zum
+31\. Dezember 2025 zu veröffentlichen. Die Einbeziehung Dritter in die
+Durchführung der Untersuchung erfolgt im Benehmen mit den zuständigen
+obersten Landesbehörden, soweit Auswirkungen auf das
+Sozialleistungssystem der Eingliederungshilfe untersucht werden.
+
 
 #### § 114 Leistungen zur Mobilität
 
@@ -5032,12 +5142,18 @@ Eingliederungshilfe zusammen mit
     auf eine pauschale Geldleistung,
 
 
-5.  die Erkenntnisse aus vorliegenden sozialmedizinischen Gutachten und
+5.  die Erkenntnisse aus vorliegenden sozialmedizinischen Gutachten,
 
 
 6.  das Ergebnis über die Beratung des Anteils des Regelsatzes nach § 27a
     Absatz 3 des Zwölften Buches, der den Leistungsberechtigten als
-    Barmittel verbleibt.
+    Barmittel verbleibt, und
+
+
+7.  die Einschätzung, ob für den Fall einer stationären
+    Krankenhausbehandlung die Begleitung und Befähigung des
+    Leistungsberechtigten durch vertraute Bezugspersonen zur
+    Sicherstellung der Durchführung der Behandlung erforderlich ist.
 
 
 
@@ -5092,7 +5208,7 @@ machen.
 
 
 2.  Einrichtungen der beruflichen Rehabilitation, in denen der schulische
-    Teil der Ausbildung nach § 61a Absatz 2 Satz 4 erfolgen kann.
+    Teil der Ausbildung nach § 61a Absatz 2 Satz 2 erfolgen kann.
 
 
 
@@ -6074,6 +6190,13 @@ Kapitel 9 aufzubringende Beitrag höher ist als der Einkommenseinsatz
 nach dem am 31. Dezember 2019 geltenden Recht.
 
 
+#### § 150a Übergangsregelung für Ausländerinnen und Ausländer mit Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung
+
+§ 100 Absatz 1 findet keine Anwendung, soweit Leistungsberechtigte
+nach § 18 des Asylbewerberleistungsgesetzes Leistungen nach dem
+Asylbewerberleistungsgesetz erhalten.
+
+
 ## Teil 3 - Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)
 
 
@@ -6176,6 +6299,49 @@ aufzustellen, die für die Bewertung des Grades der Behinderung, die
 Kriterien für die Bewertung der Hilflosigkeit und die Voraussetzungen
 für die Vergabe von Merkzeichen maßgebend sind, die nach Bundesrecht
 im Schwerbehindertenausweis einzutragen sind.
+
+
+#### § 153a Sachverständigenbeirat, Verfahren
+
+(1) Beim Bundesministerium für Arbeit und Soziales wird ein
+unabhängiger „Sachverständigenbeirat Versorgungsmedizinische
+Begutachtung“ gebildet. Der Beirat berät das Bundesministerium für
+Arbeit und Soziales zu allen versorgungsärztlichen Angelegenheiten und
+bereitet die Fortentwicklung der in der Versorgungsmedizin-Verordnung
+enthaltenen Versorgungsmedizinischen Grundsätze vor, die bei der
+Begutachtung im Schwerbehindertenrecht und im Sozialen
+Entschädigungsrecht verbindlich anzuwenden sind. Dies geschieht
+teilhabeorientiert auf der Grundlage des aktuellen Standes der
+medizinischen Wissenschaft und der Medizintechnik unter
+Berücksichtigung versorgungsmedizinischer Erfordernisse.
+
+(2) Für den Beirat benennen die Länder, der Deutsche Behindertenrat
+und das Bundesministerium für Arbeit und Soziales jeweils sieben
+Personen, darunter jeweils mindestens vier Ärztinnen und Ärzte, die
+versorgungsmedizinisch oder wissenschaftlich besonders qualifiziert
+sind. Eine der vom Bundesministerium für Arbeit und Soziales zu
+benennenden Personen ist ein Vertreter oder eine Vertreterin aus dem
+versorgungsmedizinischen ärztlich-gutachterlichen Bereich der
+Bundeswehr. Das Bundesministerium für Arbeit und Soziales beruft die
+benannten Personen als Mitglieder in den Beirat.
+
+(3) Die Mitglieder des Beirates werden für die Dauer von vier Jahren
+berufen. Die Mitgliedschaft im Beirat ist ein persönliches Ehrenamt,
+das keine Vertretung zulässt. Die Mitglieder des Beirates unterliegen
+keinerlei Weisungen, üben ihre Tätigkeit unabhängig aus und sind nur
+ihrem Gewissen verantwortlich. Scheidet ein Mitglied aus, erfolgt für
+dieses Mitglied eine Neuberufung für den restlichen Zeitraum der
+Berufungsperiode. Der Beirat bestimmt durch Wahl aus seiner Mitte den
+Vorsitz sowie die Stellvertretung des Vorsitzes und gibt sich eine
+Geschäftsordnung. Die Geschäftsführung des Beirates wird vom
+Bundesministerium für Arbeit und Soziales ausgeübt, welches zu den
+Sitzungen einlädt und im Einvernehmen mit dem vorsitzenden Mitglied
+die Tagesordnung festlegt.
+
+(4) Die Beschlüsse des Beirates werden mit einfacher Mehrheit der
+berufenen Mitglieder gefasst. Zu den Beratungen des Beirates können
+externe Sachverständige hinzugezogen werden. Es können Arbeitsgruppen
+gebildet werden.
 
 
 ### Kapitel 2 - Beschäftigungspflicht der Arbeitgeber
@@ -8688,12 +8854,10 @@ Die Inklusionsbetriebe bieten den schwerbehinderten Menschen
 Beschäftigung, Maßnahmen der betrieblichen Gesundheitsförderung und
 arbeitsbegleitende Betreuung an, soweit erforderlich auch Maßnahmen
 der beruflichen Weiterbildung oder Gelegenheit zur Teilnahme an
-entsprechenden außerbetrieblichen Maßnahmen und Unterstützung bei der
-Vermittlung in eine sonstige Beschäftigung in einem Betrieb oder einer
-Dienststelle auf dem allgemeinen Arbeitsmarkt sowie geeignete
-Maßnahmen zur Vorbereitung auf eine Beschäftigung in einem
-Inklusionsbetrieb. Satz 1 gilt entsprechend für psychisch kranke
-Menschen im Sinne des § 215 Absatz 4.
+entsprechenden außerbetrieblichen Maßnahmen sowie geeignete Maßnahmen
+zur Vorbereitung auf eine Beschäftigung in einem Inklusionsbetrieb.
+Satz 1 gilt entsprechend für psychisch kranke Menschen im Sinne des §
+215 Absatz 4.
 
 
 #### § 217 Finanzielle Leistungen

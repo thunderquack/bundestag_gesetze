@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1583
 
 Zuletzt geändert durch
-:   Art. 2 § 13 V v. 21.9.2018 I 1398
+:   Art. 3 V v. 11.5.2023 I Nr. 127
 
 
 ## Eingangsformel
@@ -128,13 +128,19 @@ Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder
 Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem
 Wassermotorrad oder einem Segelsurfbrett entsprechend.
 
-(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille
-oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-einer solchen Atem- oder Blutalkoholkonzentration führt, darf ein
-Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine
-andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht
-ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem
-Segelsurfbrett entsprechend.
+(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder
+mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer
+solchen Atem- oder Blutalkoholkonzentration führt, oder unter der
+Wirkung eines in der Anlage (zu § 3 Absatz 4) aufgeführten
+berauschenden Mittels nach Absatz 3 Satz 1 steht, darf ein Fahrzeug
+nicht führen oder als Mitglied der Schiffsbesatzung eine andere
+Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben.
+Eine Wirkung nach Satz 1 liegt vor, wenn eine der in Anlage IV
+genannten Substanzen im Blut nachgewiesen wird. Die Sätze 1 und 2
+gelten nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme
+eines für einen bestimmten Krankheitsfall verschriebenen Medikamentes
+herrührt. Die Sätze 1 bis 3 gelten für das Fahren mit einem
+Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines
 Fahrbeschränkungen und Fahrverboten nach Artikel 21 Abs. 1 der
@@ -855,4 +861,66 @@ Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 ## Schlußformel
 
 Der Bundesminister für Verkehr
+
+(zu § 3 Absatz 4)
+
+## Anlage Benennung berauschender Mittel
+
+(Fundstelle: BGBl. 2023 I Nr. 127, 4)
+
+
+*    *   Mittel
+
+    *   Substanz
+
+
+*    *   Cannabis
+
+    *   Tetrahydrocannabinol (THC)
+
+
+*    *   Heroin
+
+    *   Morphin
+
+
+*    *   Morphin
+
+    *   Morphin
+
+
+*    *   Kokain
+
+    *   Benzoylecgonin
+
+
+*    *   Amphetamine
+
+    *   Amphetamin
+
+
+*    *   Designer Amphetamine
+
+    *   Methylendioxyamphetamin (MDA)
+
+
+*    *
+    *   Methylendioxyethylamphetamin (MDE)
+
+
+*    *
+    *   Methylendioxymetamphetamin (MDAE)
+
+
+*    *   Metamphetamin
+
+    *   Metamphetamin
+
+
+
+
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle
+genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen
+der Grenzwertkommission beim Bundesministerium für Digitales und
+Verkehr für den Bereich des Straßenverkehrs.
 

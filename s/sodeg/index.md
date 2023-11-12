@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 575, 578
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.11.2021 I 4906
+:   Art. 1 G v. 18.3.2022 I 473
 
 
 ## § 1 Einsatz sozialer Dienstleister zur Krisenbewältigung
@@ -146,18 +146,19 @@ Erstattungsanspruch entsteht erst dann, wenn die Leistungsträger
 vollständige Kenntnis von den Tatsachen nach Satz 1 oder Satz 2
 erlangen und frühestens drei Monate nach der letzten Zuschusszahlung
 des maßgeblichen Zeitraumes der Zuschussgewährung; er überschreitet
-nicht die Höhe der insgesamt geleisteten Zuschüsse. Ab dem 1. Januar
-2021 beginnt ein neuer Zeitraum der Zuschussgewährung. Die sozialen
-Dienstleister haben gegenüber dem zuschussgewährenden Leistungsträger
-den Zufluss vorrangiger Mittel nach Satz 1 und nach Satz 2 anzuzeigen.
-Die Stellen, die vorrangige Mittel nach Satz 1 oder nach Satz 2
-erbringen, haben auf Ersuchen eines Leistungsträgers diesem die für
-die Feststellung seines nachträglichen Erstattungsanspruchs
-erforderlichen Informationen, einschließlich personenbezogener Daten,
-über die geleisteten vorrangigen Mittel mitzuteilen.
+nicht die Höhe der insgesamt geleisteten Zuschüsse. Mit jedem
+Kalenderjahr beginnt ein neuer Zeitraum der Zuschussgewährung. Die
+sozialen Dienstleister haben gegenüber dem zuschussgewährenden
+Leistungsträger den Zufluss vorrangiger Mittel nach Satz 1 und nach
+Satz 2 anzuzeigen. Die Stellen, die vorrangige Mittel nach Satz 1 oder
+nach Satz 2 erbringen, haben auf Ersuchen eines Leistungsträgers
+diesem die für die Feststellung seines nachträglichen
+Erstattungsanspruchs erforderlichen Informationen, einschließlich
+personenbezogener Daten, über die geleisteten vorrangigen Mittel
+mitzuteilen.
 
 
-## § 5 Zuständigkeit und Geltungsdauer
+## § 5 Zuständigkeit und Geltungsdauer; Verordnungsermächtigung
 
 Die Länder bestimmen die zuständigen Behörden für die
 Aufgabenwahrnehmung nach diesem Gesetz, soweit sich auch die
@@ -169,7 +170,10 @@ Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, im
 Bereich des Aufenthaltsgesetzes zusätzlich im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat, eine von § 3 Satz 5
 nach oben abweichende Höchstgrenze für die Zuschusshöhe bestimmen. Der
-besondere Sicherstellungsauftrag endet mit Ablauf des 19. März 2022.
+besondere Sicherstellungsauftrag endet mit Ablauf des 30. Juni 2022.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates den besonderen Sicherstellungsauftrag bis
+zum 23. September 2022 zu verlängern
 
 
 ## § 6 Datenschutz

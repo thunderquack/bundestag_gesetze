@@ -17,9 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 457
 
-Stand: Zukünftige amtl. Langüberschrift: Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für elektrisch betriebene Fahrzeug (ab 1.1.2022; 2021 I 4788)
 Zuletzt geändert durch
-:   Art. 2 V v. 2.11.2021 I 4788
+:   Art. 1 V v. 17.6.2023 I Nr. 156
+
+Mittelbare änderung durch
+:   Art. 2 V v. 17.6.2023 I Nr. 156 ist berücksichtigt
 
 [^F793381_01_BJNR045700016]:     Notifiziert gemäß der Richtlinie 98/34/EG des Europäischen Parlaments
     und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem
@@ -155,20 +157,10 @@ August 2021 (BGBl. I S. 3436) geändert worden ist, bleiben unberührt.
 § 49 Absatz 2 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes ist
 entsprechend anzuwenden.
 
-(6) Ab der Feststellung der technischen Möglichkeit durch das
-Bundesamt für Sicherheit in der Informationstechnik nach § 30 des
-Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034), das
-zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S.
-3026) geändert worden ist, muss bei dem Aufbau von Ladepunkten
-sichergestellt werden, dass energiewirtschaftlich relevante Mess- und
-Steuerungsvorgänge über ein Smart-Meter-Gateway entsprechend den
-Anforderungen des Energiewirtschaftsgesetzes und des
-Messstellenbetriebsgesetzes abgewickelt werden können.
-
-(7) Die Absätze 1 bis 3 sind nicht für kabellos und induktiv
+(6) Die Absätze 1 bis 3 sind nicht für kabellos und induktiv
 betriebene Ladepunkte anzuwenden.
 
-(8) Die in den Absätzen 1 bis 3 genannten DIN EN-Normen sind im Beuth
+(7) Die in den Absätzen 1 bis 3 genannten DIN EN-Normen sind im Beuth
 Verlag GmbH, Berlin, erschienen und in der Deutschen
 Nationalbibliothek archivmäßig gesichert hinterlegt.
 
@@ -193,17 +185,26 @@ stellt er sicher, indem er
 
 
 
-2.  an dem jeweiligen Ladepunkt die für den bargeldlosen Zahlungsvorgang
-    erforderliche Authentifizierung und den Zahlungsvorgang mittels eines
-    gängigen kartenbasierten Zahlungssystems beziehungsweise
-    Zahlungsverfahrens in unmittelbarer Nähe zum Ladepunkt oder mittels
-    eines gängigen webbasierten Systems ermöglicht, wobei in der
-    Menüführung mindestens die Sprachen Deutsch und Englisch zu
-    berücksichtigen sind und mindestens eine Variante des Zugangs zum
-    webbasierten Zahlungssystem kostenlos ermöglicht werden muss.
+2.  an dem jeweiligen Ladepunkt oder in dessen unmittelbarer Nähe
+
+    a)  die für den bargeldlosen Zahlungsvorgang erforderliche
+        Authentifizierung ermöglicht und
+
+
+    b)  einen kontaktlosen Zahlungsvorgang mindestens mittels eines gängigen
+        Debit- und Kreditkartensystems durch Vorhalten einer Karte mit der
+        Fähigkeit zur Nahfeldkommunikation anbietet.
 
 
 
+
+
+
+Im Fall von Satz 2 Nummer 2 kann die Bezahlung zusätzlich mittels
+eines gängigen webbasierten Systems ermöglicht werden, wenn die
+Menüführung auf Deutsch und Englisch verfügbar ist und mindestens eine
+Variante des Zugangs zu einem webbasierten Bezahlsystem kostenlos
+ermöglicht wird. § 270a des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 
 ## § 5 Anzeige- und Nachweispflichten
@@ -282,12 +283,26 @@ ausgenommen.
 worden sind, sind von den Anforderungen nach § 3 Absatz 4 und § 4
 ausgenommen.
 
-(3) Ladepunkte, die vor dem 1. März 2022 in Betrieb genommen worden
-sind, sind von den Anforderungen nach § 3 Absatz 4 ausgenommen.
+(3) Für Ladepunkte, die vor dem 1. März 2022 in Betrieb genommen
+worden sind, sind
 
-(4) Die in den Absätzen 1 bis 3 genannten Ladepunkte müssen
-hinsichtlich der dort genannten Anforderungen nicht nachgerüstet
-werden.
+1.  § 3 Absatz 4 nicht anzuwenden,
+
+
+2.  § 4 in der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
+
+
+
+
+(4) Für Ladepunkte, die vor dem 1. Juli 2024 in Betrieb genommen
+worden sind, ist § 4 in der am 23. Juni 2023 geltenden Fassung weiter
+anzuwenden.
+
+
+## § 9 Anwendungsbestimmungen
+
+Bis zum Ablauf des 30. Juni 2024 sind § 4 und § 8 Absatz 3 und 4 in
+der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
 
 
 ## Schlussformel

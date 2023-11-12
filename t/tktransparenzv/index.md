@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2977
 
-Änderung durch
-:   Art. 45 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 45 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel

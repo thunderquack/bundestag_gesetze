@@ -16,16 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.12.2018 I 2357
+:   Art. 5 G v. 10.8.2021 I 3490
 
 Änderung durch
-:   Art. 24 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 Abs. 1 G v. 27.7.2021 I 3274 (Nr. 50) ist berücksichtigt
-
-Änderung durch
-:   Art. 5 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
@@ -2030,8 +2024,8 @@ laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder
 uneidlich vernehmen, Augenschein nehmen, die Beweiskraft einer
 vorgelegten Urkunde würdigen sowie andere zur Aufklärung der Sache
 erforderlichen Ermittlungen anstellen. Die Vorschriften des Buches 2
-der Zivilprozessordnung zu diesen Beweismitteln sind entsprechend
-anzuwenden.
+der Zivilprozessordnung zu diesen Beweismitteln sowie § 128a der
+Zivilprozessordnung sind entsprechend anzuwenden.
 
 (2) Bis zum Beschluß, mit dem das Verfahren abgeschlossen wird, ist
 der Anmelder oder Inhaber der Marke oder ein anderer an dem Verfahren
@@ -3567,197 +3561,26 @@ Deutschen Patent- und Markenamt zu stellen. Das Verfahren richtet sich
 nach § 53.
 
 
-## Teil 6 - Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
+## Teil 6 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
 
 
 
-### Abschnitt 1 - Schutz von Marken nach dem Madrider Markenabkommen
+### Abschnitt 1 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
 
 
 
-#### § 107 Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache
-
-(1) Die Vorschriften dieses Gesetzes sind auf internationale
-Registrierungen von Marken nach der Stockholmer Fassung vom 14. Juli
-1967 des Madrider Abkommens vom 14. April 1891 über die internationale
-Registrierung von Marken (BGBl. 1970 II S. 293, 418) (Madrider
-Markenabkommen), die durch Vermittlung des Deutschen Patent- und
-Markenamts vorgenommen werden oder deren Schutz sich auf das Gebiet
-der Bundesrepublik Deutschland erstreckt, entsprechend anzuwenden,
-soweit in diesem Abschnitt oder im Madrider Markenabkommen nichts
-anderes bestimmt ist.
-
-(2) Sämtliche Anträge sowie sonstige Mitteilungen im Verfahren der
-internationalen Registrierung und das Verzeichnis der Waren und
-Dienstleistungen sind nach Wahl des Antragstellers entweder in
-französischer oder in englischer Sprache einzureichen.
-
-
-#### § 108 Antrag auf internationale Registrierung
-
-(1) Der Antrag auf internationale Registrierung einer in das Register
-eingetragenen Marke nach Artikel 3 des Madrider Markenabkommens ist
-beim Deutschen Patent- und Markenamt zu stellen.
-
-(2) Wird der Antrag auf internationale Registrierung vor der
-Eintragung der Marke in das Register gestellt, so gilt er als am Tag
-der Eintragung der Marke zugegangen.
-
-(3) Mit dem Antrag ist das Verzeichnis der Waren und Dienstleistungen,
-nach Klassen geordnet in der Reihenfolge der internationalen
-Klassifikation von Waren und Dienstleistungen, einzureichen.
-
-
-#### § 109 Gebühren
-
-(1) Ist der Antrag auf internationale Registrierung vor der Eintragung
-der Marke in das Register gestellt worden, so wird die nationale
-Gebühr für das Verfahren auf internationale Registrierung am Tage der
-Eintragung fällig.
-
-(2) Die nationale Gebühr nach dem Patentkostengesetz für die
-internationale Registrierung ist innerhalb eines Monats nach
-Fälligkeit, die sich nach § 3 Abs. 1 des Patentkostengesetzes oder
-nach Absatz 1 richtet, zu zahlen.
-
-
-#### § 110 Eintragung im Register
-
-Der Tag und die Nummer der internationalen Registrierung einer im
-Register eingetragenen Marke sind in das Register einzutragen.
-
-
-#### § 111 Nachträgliche Schutzerstreckung
-
-(1) Beim Deutschen Patent- und Markenamt kann ein Antrag auf
-nachträgliche Schutzerstreckung einer international registrierten
-Marke nach Artikel
-3(hoch)ter Abs. 2 des Madrider Markenabkommens gestellt werden.
-
-(2) Die nationale Gebühr nach dem Patentkostengesetz für die
-nachträgliche Schutzerstreckung ist innerhalb eines Monats nach
-Fälligkeit (§ 3 Abs. 1 des Patentkostengesetzes) zu zahlen.
-
-
-#### § 112 Wirkung der internationalen Registrierung
-
-(1) Die internationale Registrierung einer Marke, deren Schutz nach
-Artikel
-3ter des Madrider Markenabkommens auf das Gebiet der Bundesrepublik
-Deutschland erstreckt worden ist, hat dieselbe Wirkung, wie wenn die
-Marke am Tag der internationalen Registrierung nach Artikel 3 Abs. 4
-des Madrider Markenabkommens oder am Tag der Eintragung der
-nachträglichen Schutzerstreckung nach Artikel
-3ter Abs. 2 des Madrider Markenabkommens zur Eintragung in das vom
-Deutschen Patent- und Markenamt geführte Register angemeldet und
-eingetragen worden wäre.
-
-(2) Die in Absatz 1 bezeichnete Wirkung gilt als nicht eingetreten,
-wenn der international registrierten Marke nach den §§ 113 bis 115 der
-Schutz verweigert wird.
-
-
-#### § 113 Prüfung auf absolute Schutzhindernisse
-
-(1) International registrierte Marken werden in gleicher Weise wie zur
-Eintragung in das Register angemeldete Marken nach § 37 auf absolute
-Schutzhindernisse geprüft. § 37 Abs. 2 ist nicht anzuwenden.
-
-(2) An die Stelle der Zurückweisung der Anmeldung (§ 37 Abs. 1) tritt
-die Verweigerung des Schutzes.
-
-
-#### § 114 Widerspruch gegen eine international registrierte Marke
-
-(1) An die Stelle der Veröffentlichung der Eintragung (§ 41 Absatz 2)
-tritt für international registrierte Marken die Veröffentlichung in
-dem vom Internationalen Büro der Weltorganisation für geistiges
-Eigentum herausgegebenen Veröffentlichungsblatt.
-
-(2) Die Frist zur Erhebung des Widerspruchs (§ 42 Abs. 1) gegen die
-Schutzgewährung für international registrierte Marken beginnt mit dem
-ersten Tag des Monats, der dem Monat folgt, der als Ausgabemonat des
-Heftes des Veröffentlichungsblattes angegeben ist, in dem die
-Veröffentlichung der international registrierten Marke enthalten ist.
-
-(3) An die Stelle der Löschung der Eintragung (§ 43 Abs. 2) tritt die
-Verweigerung des Schutzes.
-
-
-#### § 115 Schutzentziehung
-
-(1) An die Stelle des Antrags auf Erklärung des Verfalls einer Marke
-(§ 49) oder der Nichtigkeit wegen absoluter Schutzhindernisse (§ 50)
-oder älterer Rechte (§ 51) tritt für international registrierte Marken
-der Antrag auf Schutzentziehung.
-
-(2) Wird ein Antrag auf Schutzentziehung nach § 49 Absatz 1 wegen
-mangelnder Benutzung gestellt, so tritt an die Stelle des Tages, ab
-dem kein Widerspruch mehr gegen die Marke möglich ist,
-
-1.  der Tag, an dem das Schutzerstreckungsverfahren abgeschlossen wurde,
-    oder
-
-
-2.  der Tag, an dem die Frist des Artikels 5 Absatz 2 des Madrider
-    Markenabkommens abgelaufen ist, sofern bis zu diesem Zeitpunkt dem
-    Internationalen Büro der Weltorganisation für geistiges Eigentum weder
-    eine Mitteilung über die Schutzbewilligung noch eine Mitteilung über
-    die vorläufige Schutzverweigerung zugegangen ist.
-
-
-
-
-
-#### § 116 Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke
-
-(1) Wird aufgrund einer international registrierten Marke Widerspruch
-gegen die Eintragung einer Marke erhoben, so ist § 43 Absatz 1 mit der
-Maßgabe anzuwenden, dass an die Stelle des Zeitpunkts, ab dem kein
-Widerspruch mehr gegen die Marke möglich war, einer der in § 115
-Absatz 2 bezeichneten Tage tritt.
-
-(2) Wird aufgrund einer international registrierten Marke ein Antrag
-auf Erklärung der Nichtigkeit einer eingetragenen Marke nach § 51
-gestellt, so ist § 53 Absatz 5 mit der Maßgabe anzuwenden, dass an die
-Stelle des Zeitpunkts, ab dem kein Widerspruch mehr gegen die Marke
-möglich war, einer der in § 115 Absatz 2 bezeichneten Tage tritt.
-
-
-#### § 117 Ausschluß von Ansprüchen wegen mangelnder Benutzung
-
-Werden Ansprüche im Sinne der §§ 14 und 18 bis 19c wegen der
-Verletzung einer international registrierten Marke geltend gemacht, so
-ist § 25 mit der Maßgabe anzuwenden, daß an die Stelle des Zeitpunkts,
-ab dem kein Widerspruch mehr gegen die Marke möglich war, einer der in
-§ 115 Absatz 2 bezeichneten Tage tritt.
-
-
-#### § 118 Zustimmung bei Übertragungen international registrierter Marken
-
-Das Deutsche Patent- und Markenamt erteilt dem Internationalen Büro
-der Weltorganisation für geistiges Eigentum die nach Artikel
-9bis Abs. 1 des Madrider Markenabkommens erforderliche Zustimmung im
-Falle der Übertragung einer international registrierten Marke ohne
-Rücksicht darauf, ob die Marke für den neuen Inhaber der international
-registrierten Marke in das vom Deutschen Patent- und Markenamt
-geführte Register eingetragen ist.
-
-
-### Abschnitt 2 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
-
-
-
-#### § 119 Anwendung der Vorschriften dieses Gesetzes; Sprachen
+#### § 107 Anwendung der Vorschriften dieses Gesetzes; Sprachen
 
 (1) Die Vorschriften dieses Gesetzes sind auf internationale
-Registrierungen von Marken nach dem Madrider Protokoll vom 27. Juni
-1989 zum Madrider Abkommen über die internationale Registrierung von
-Marken (Protokoll zum Madrider Markenabkommen), die durch Vermittlung
-des Deutschen Patent- und Markenamts vorgenommen werden oder deren
-Schutz sich auf das Gebiet der Bundesrepublik Deutschland erstreckt,
-entsprechend anzuwenden, soweit in diesem Abschnitt oder im Protokoll
-zum Madrider Markenabkommen nichts anderes bestimmt ist.
+Registrierungen von Marken nach dem Protokoll vom 27. Juni 1989 zum
+Madrider Abkommen über die internationale Registrierung von Marken
+(BGBl. 1995 II S. 1016, 1017), das zuletzt durch die Verordnung vom
+24\. August 2008 (BGBl. 2008 II S. 822) geändert worden ist (Protokoll
+zum Madrider Markenabkommen), die durch Vermittlung des Deutschen
+Patent- und Markenamts vorgenommen werden oder deren Schutz sich auf
+das Gebiet der Bundesrepublik Deutschland erstreckt, entsprechend
+anzuwenden, soweit in diesem Abschnitt oder im Protokoll zum Madrider
+Markenabkommen nichts anderes bestimmt ist.
 
 (2) Sämtliche Anträge sowie sonstige Mitteilungen im Verfahren der
 internationalen Registrierung und das Verzeichnis der Waren und
@@ -3765,15 +3588,15 @@ Dienstleistungen sind nach Wahl des Antragstellers in französischer
 oder in englischer Sprache einzureichen.
 
 
-#### § 120 Antrag auf internationale Registrierung
+#### § 108 Antrag auf internationale Registrierung
 
 (1) Der Antrag auf internationale Registrierung einer zur Eintragung
 in das Register angemeldeten Marke oder einer in das Register
 eingetragenen Marke nach Artikel 3 des Protokolls zum Madrider
 Markenabkommen ist beim Deutschen Patent- und Markenamt zu stellen.
-Der Antrag kann auch schon vor der Eintragung der Marke gestellt
-werden, wenn die internationale Registrierung auf der Grundlage einer
-im Register eingetragenen Marke vorgenommen werden soll.
+Der Antrag kann vor der Eintragung der Marke gestellt werden, wenn die
+internationale Registrierung auf der Grundlage einer im Register
+eingetragenen Marke vorgenommen werden soll.
 
 (2) Soll die internationale Registrierung auf der Grundlage einer im
 Register eingetragenen Marke vorgenommen werden und wird der Antrag
@@ -3786,23 +3609,22 @@ nach Klassen geordnet in der Reihenfolge der internationalen
 Klassifikation von Waren und Dienstleistungen, einzureichen.
 
 
-#### § 121 Gebühren
+#### § 109 Gebühren
 
-(1) Soll die internationale Registrierung nach dem Madrider
-Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen auf
-der Grundlage einer im Register eingetragenen Marke vorgenommen werden
-und ist der Antrag auf internationale Registrierung vor der Eintragung
-der Marke in das Register gestellt worden, so wird die nationale
-Gebühr nach dem Patentkostengesetz für die internationale
-Registrierung am Tag der Eintragung fällig.
+(1) Soll die internationale Registrierung auf der Grundlage einer im
+Register eingetragenen Marke vorgenommen werden und ist der Antrag auf
+internationale Registrierung vor der Eintragung der Marke in das
+Register gestellt worden, so wird die nationale Gebühr nach dem
+Patentkostengesetz für die internationale Registrierung am Tag der
+Eintragung fällig.
 
 (2) Die nationale Gebühr nach dem Patentkostengesetz für die
 internationale Registrierung ist innerhalb eines Monats nach
-Fälligkeit, die sich nach § 3 Abs. 1 des Patentkostengesetzes oder
-nach Absatz 1 richtet, zu zahlen.
+Fälligkeit zu zahlen. Die Fälligkeit richtet sich nach § 3 Absatz 1
+des Patentkostengesetzes oder nach Absatz 1.
 
 
-#### § 122 Vermerk in den Akten, Eintragung im Register
+#### § 110 Vermerk in den Akten, Eintragung im Register
 
 (1) Ist die internationale Registrierung auf der Grundlage einer zur
 Eintragung in das Register angemeldeten Marke vorgenommen worden, so
@@ -3811,61 +3633,140 @@ Akten der angemeldeten Marke zu vermerken.
 
 (2) Der Tag und die Nummer der internationalen Registrierung, die auf
 der Grundlage einer im Register eingetragenen Marke vorgenommen worden
-ist, ist in das Register einzutragen. Satz 1 ist auch anzuwenden, wenn
-die internationale Registrierung auf der Grundlage einer zur
+ist, sind in das Register einzutragen. Satz 1 ist auch anzuwenden,
+wenn die internationale Registrierung auf der Grundlage einer zur
 Eintragung in das Register angemeldeten Marke vorgenommen worden ist
 und die Anmeldung zur Eintragung geführt hat.
 
 
-#### § 123 Nachträgliche Schutzerstreckung
+#### § 111 Nachträgliche Schutzerstreckung
 
 (1) Der Antrag auf nachträgliche Schutzerstreckung einer international
-registrierten Marke nach Artikel
-3(hoch)ter Abs. 2 des Protokolls zum Madrider Markenabkommen kann beim
-Deutschen Patent- und Markenamt gestellt werden. Soll die
-nachträgliche Schutzerstreckung auf der Grundlage einer im Register
-eingetragenen Marke vorgenommen werden und wird der Antrag schon vor
-der Eintragung der Marke gestellt, so gilt er als am Tag der
+registrierten Marke nach Artikel 3ter Absatz 2 des Protokolls zum
+Madrider Markenabkommen kann beim Deutschen Patent- und Markenamt
+gestellt werden. Soll der Schutz auf der Grundlage einer im Register
+eingetragenen Marke nachträglich erstreckt werden und wird der Antrag
+schon vor der Eintragung der Marke gestellt, so gilt er als am Tag der
 Eintragung zugegangen.
 
-(2) Die nachträgliche Schutzerstreckung auf der Grundlage einer im
-Register eingetragenen Marke kann sowohl nach dem Madrider
-Markenabkommen als auch nach dem Protokoll zum Madrider Markenabkommen
-vorgenommen werden.
-
-(3) Die nationale Gebühr nach dem Patentkostengesetz für die
+(2) Die nationale Gebühr nach dem Patentkostengesetz für die
 nachträgliche Schutzerstreckung ist innerhalb eines Monats nach
-Fälligkeit (§ 3 Abs. 1 des Patentkostengesetzes) zu zahlen.
+Fälligkeit (§ 3 Absatz 1 des Patentkostengesetzes) zu zahlen.
 
 
-#### § 124 Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken
+#### § 112 Wirkung der internationalen Registrierung und der nachträglichen Schutzerstreckung
 
-Die §§ 112 bis 117 sind auf international registrierte Marken, deren
-Schutz nach Artikel
-3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der
-Bundesrepublik Deutschland erstreckt worden ist, entsprechend
-anzuwenden mit der Maßgabe, daß an die Stelle der in den §§ 112 bis
-117 aufgeführten Vorschriften des Madrider Markenabkommens die
-entsprechenden Vorschriften des Protokolls zum Madrider Markenabkommen
-treten.
+(1) Die internationale Registrierung oder die nachträgliche
+Schutzerstreckung einer Marke, deren Schutz nach Artikel 3 und 3ter
+des Protokolls zum Madrider Markenabkommen auf das Gebiet der
+Bundesrepublik Deutschland erstreckt worden ist, hat dieselbe Wirkung,
+wie wenn die Marke am Tag der internationalen Registrierung nach
+Artikel 3 Absatz 4 des Protokolls zum Madrider Markenabkommen oder am
+Tag der Eintragung der nachträglichen Schutzerstreckung nach Artikel
+3ter Absatz 2 des Protokolls zum Madrider Markenabkommen zur
+Eintragung in das vom Deutschen Patent- und Markenamt geführte
+Register angemeldet und eingetragen worden wäre.
+
+(2) Die in Absatz 1 bezeichnete Wirkung gilt als nicht eingetreten,
+wenn der international registrierten Marke nach den §§ 113 bis 115 der
+Schutz verweigert wird.
 
 
-#### § 125 Umwandlung einer internationalen Registrierung
+#### § 113 Prüfung auf absolute Schutzhindernisse
+
+(1) International registrierte Marken werden in gleicher Weise wie zur
+Eintragung in das Register angemeldete Marken nach § 37 auf absolute
+Schutzhindernisse geprüft. § 37 Absatz 2 ist nicht anzuwenden.
+
+(2) An die Stelle der Zurückweisung der Anmeldung (§ 37 Absatz 1)
+tritt die Verweigerung des Schutzes.
+
+
+#### § 114 Widerspruch gegen eine international registrierte Marke
+
+(1) An die Stelle der Veröffentlichung der Eintragung (§ 41 Absatz 2)
+tritt für international registrierte Marken die Veröffentlichung in
+dem vom Internationalen Büro der Weltorganisation für geistiges
+Eigentum herausgegebenen Veröffentlichungsblatt.
+
+(2) Die Frist zur Erhebung des Widerspruchs (§ 42 Absatz 1) gegen die
+Schutzgewährung für international registrierte Marken beginnt mit dem
+ersten Tag des Monats, der dem Monat folgt, der als Ausgabemonat
+desjenigen Heftes des Veröffentlichungsblattes angegeben ist, in dem
+die Veröffentlichung der international registrierten Marke enthalten
+ist.
+
+(3) An die Stelle der Löschung der Eintragung (§ 43 Absatz 2 Satz 1)
+tritt die Verweigerung des Schutzes.
+
+
+#### § 115 Schutzentziehung
+
+(1) An die Stelle des Antrags (§ 49) oder der Klage (§ 55) auf
+Erklärung des Verfalls einer Marke oder des Antrags auf Erklärung der
+Nichtigkeit wegen absoluter Schutzhindernisse (§ 50) oder des Antrags
+oder der Klage auf Erklärung der Nichtigkeit wegen des Bestehens
+älterer Rechte (§ 51) tritt für international registrierte Marken der
+Antrag oder die Klage auf Schutzentziehung.
+
+(2) Im Falle des Antrags oder der Klage auf Schutzentziehung nach § 49
+Absatz 1 oder § 55 wegen mangelnder Benutzung tritt an die Stelle des
+Tages, ab dem kein Widerspruch mehr gegen die Marke möglich ist,
+
+1.  der Tag, an dem das Schutzerstreckungsverfahren abgeschlossen wurde,
+    oder
+
+
+2.  der Tag, an dem die Frist des Artikels 5 Absatz 2a des Protokolls zum
+    Madrider Markenabkommen abgelaufen ist, sofern bis zu diesem Zeitpunkt
+    dem Internationalen Büro der Weltorganisation für geistiges Eigentum
+    weder eine Mitteilung über die Schutzbewilligung noch eine Mitteilung
+    über die vorläufige Schutzverweigerung zugegangen ist.
+
+
+
+
+
+#### § 116 Widerspruch aufgrund einer international registrierten Marke und Antrag oder Klage auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke
+
+(1) Wird aufgrund einer international registrierten Marke Widerspruch
+gegen die Eintragung einer Marke erhoben, so ist § 43 Absatz 1 mit der
+Maßgabe anzuwenden, dass an die Stelle des Zeitpunkts, ab dem kein
+Widerspruch mehr gegen die Marke möglich war, einer der in § 115
+Absatz 2 bezeichneten Tage tritt.
+
+(2) Wird aufgrund einer international registrierten Marke ein Antrag
+auf Erklärung der Nichtigkeit einer eingetragenen Marke nach § 51
+gestellt oder eine solche Klage erhoben, so sind § 53 Absatz 6 und §
+55 Absatz 3 mit der Maßgabe anzuwenden, dass an die Stelle des
+Zeitpunkts, ab dem kein Widerspruch mehr gegen die Marke möglich war,
+einer der in § 115 Absatz 2 bezeichneten Tage tritt.
+
+
+#### § 117 Ausschluss von Ansprüchen wegen mangelnder Benutzung
+
+Werden Ansprüche im Sinne der §§ 14 und 18 bis 19c wegen der
+Verletzung einer international registrierten Marke geltend gemacht, so
+ist § 25 mit der Maßgabe anzuwenden, dass an die Stelle des
+Zeitpunkts, ab dem kein Widerspruch mehr gegen die Marke möglich war,
+einer der in § 115 Absatz 2 bezeichneten Tage tritt.
+
+
+#### § 118 Umwandlung einer internationalen Registrierung
 
 (1) Wird beim Deutschen Patent- und Markenamt ein Antrag nach Artikel
 9quinquies des Protokolls zum Madrider Markenabkommen auf Umwandlung
-einer im internationalen Register gemäß Artikel 6 Abs. 4 des
+einer im internationalen Register gemäß Artikel 6 Absatz 4 des
 Protokolls zum Madrider Markenabkommen gelöschten Marke gestellt und
 geht der Antrag mit den erforderlichen Angaben dem Deutschen Patent-
-und Markenamt vor Ablauf einer Frist von drei Monaten nach dem Tag der
+und Markenamt innerhalb einer Frist von drei Monaten nach dem Tag der
 Löschung der Marke im internationalen Register zu, so ist der Tag der
-internationalen Registrierung dieser Marke nach Artikel 3 Abs. 4 des
+internationalen Registrierung dieser Marke nach Artikel 3 Absatz 4 des
 Protokolls zum Madrider Markenabkommen oder der Tag der Eintragung der
-Schutzerstreckung nach Artikel
-3ter Abs. 2 des Protokolls zum Madrider Markenabkommen, gegebenenfalls
-mit der für die internationale Registrierung in Anspruch genommenen
-Priorität, für die Bestimmung des Zeitrangs im Sinne des § 6 Abs. 2
-maßgebend.
+nachträglichen Schutzerstreckung nach Artikel 3ter Absatz 2 des
+Protokolls zum Madrider Markenabkommen, gegebenenfalls mit der für die
+internationale Registrierung in Anspruch genommenen Priorität, für die
+Bestimmung des Zeitrangs im Sinne des § 6 Absatz 2 maßgebend.
 
 (2) Der Antragsteller hat eine Bescheinigung des Internationalen Büros
 der Weltorganisation für geistiges Eigentum einzureichen, aus der sich
@@ -3878,49 +3779,43 @@ hatte.
 Verzeichnisses der Waren oder Dienstleistungen, für die die Eintragung
 beantragt wird, einzureichen.
 
-(4) Der Antrag auf Umwandlung wird im übrigen wie eine Anmeldung zur
+(4) Der Antrag auf Umwandlung wird im Übrigen wie eine Anmeldung zur
 Eintragung einer Marke behandelt. War jedoch am Tag der Löschung der
-Marke im internationalen Register die Frist nach Artikel 5 Abs. 2 des
-Protokolls zum Madrider Markenabkommen zur Verweigerung des Schutzes
-bereits abgelaufen und war an diesem Tag kein Verfahren zur
-Schutzverweigerung oder zur nachträglichen Schutzentziehung anhängig,
-so wird die Marke ohne vorherige Prüfung unmittelbar nach § 41 Absatz
-1 in das Register eingetragen. Gegen die Eintragung einer Marke nach
-Satz 2 kann Widerspruch nicht erhoben werden.
+Marke im internationalen Register die Frist nach Artikel 5 Absatz 2a
+des Protokolls zum Madrider Markenabkommen zur Verweigerung des
+Schutzes bereits abgelaufen und war an diesem Tag kein Verfahren zur
+Schutzverweigerung oder zur Schutzentziehung anhängig, so wird die
+Marke ohne vorherige Prüfung unmittelbar nach § 41 Absatz 1 in das
+Register eingetragen. Gegen die Eintragung einer Marke nach Satz 2
+kann kein Widerspruch erhoben werden.
 
 
-### Abschnitt 3 - Unionsmarken
-
-
-
-#### § 125a (weggefallen)
+### Abschnitt 2 - Unionsmarken
 
 
 
-#### § 125b Anwendung der Vorschriften dieses Gesetzes
+#### § 119 Anwendung der Vorschriften dieses Gesetzes
 
 Die Vorschriften dieses Gesetzes sind auf Marken, die nach der
-Verordnung (EG) Nr. 207/2009 des Rates vom 26. Februar 2009 über die
-Unionsmarke (ABl. L 78 vom 24.3.2009, S. 1), die durch die Verordnung
-(EU) 2015/2424 (ABl. L 341 vom 24.12.2015, S. 21; L 71 vom 16.3.2016,
-S. 322; L 110 vom 26.4.2016, S. 4) geändert worden ist
-(Unionsmarkenverordnung), angemeldet oder eingetragen worden sind, in
-den Fällen der Nummern 1 und 2 unmittelbar und in den Fällen der
-Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
+Verordnung (EU) 2017/1001 des Europäischen Parlaments und des Rates
+vom 14. Juni 2017 über die Unionsmarke (ABl. L 154 vom 16.6.2017, S.
+1) angemeldet oder eingetragen worden sind, in den Fällen der Nummern
+1 und 2 unmittelbar und in den Fällen der Nummern 3 bis 6 entsprechend
+wie folgt anzuwenden:
 
 1.  für die Anwendung des § 9 (relative Schutzhindernisse) sind
     angemeldete oder eingetragene Unionsmarken mit älterem Zeitrang den
     nach diesem Gesetz angemeldeten oder eingetragenen Marken mit älterem
     Zeitrang gleichgestellt, jedoch mit der Maßgabe, dass an die Stelle
     der Bekanntheit im Inland gemäß § 9 Absatz 1 Nummer 3 die Bekanntheit
-    in der Union gemäß Artikel 9 Absatz 2 Buchstabe c der
-    Unionsmarkenverordnung tritt;
+    in der Union gemäß Artikel 9 Absatz 2 Buchstabe c der Verordnung (EU)
+    2017/1001 tritt;
 
 
 2.  dem Inhaber einer eingetragenen Unionsmarke stehen neben den
-    Ansprüchen nach den Artikeln 9 bis 11 der Unionsmarkenverordnung die
-    Ansprüche auf Schadensersatz (§ 14 Absatz 7 und 8), Vernichtung und
-    Rückruf (§ 18), Auskunft (§ 19), Vorlage und Besichtigung (§ 19a),
+    Ansprüchen nach den Artikeln 9 bis 13 der Verordnung (EU) 2017/1001
+    die Ansprüche auf Schadensersatz (§ 14 Absatz 6 und 7), Vernichtung
+    und Rückruf (§ 18), Auskunft (§ 19), Vorlage und Besichtigung (§ 19a),
     Sicherung von Schadensersatzansprüchen (§ 19b) und
     Urteilsbekanntmachung (§ 19c) zu;
 
@@ -3935,21 +3830,21 @@ Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
     eingetragene Unionsmarke mit älterem Zeitrang gestützt, so ist § 43
     Absatz 1 mit der Maßgabe entsprechend anzuwenden, dass an die Stelle
     der Benutzung der Marke mit älterem Zeitrang gemäß § 26 die Benutzung
-    der Unionsmarke mit älterem Zeitrang nach Artikel 18 der
-    Unionsmarkenverordnung tritt;
+    der Unionsmarke mit älterem Zeitrang nach Artikel 18 der Verordnung
+    (EU) 2017/1001 tritt;
 
 
-5.  wird ein Antrag auf Erklärung des Verfalls oder der Nichtigkeit der
-    Eintragung einer Marke (§ 53 Absatz 1) auf eine eingetragene
-    Unionsmarke mit älterem Zeitrang gestützt, so ist
+5.  wird ein Antrag (§ 53 Absatz 1) oder eine Klage (§ 55 Absatz 1) auf
+    Erklärung des Verfalls oder der Nichtigkeit der Eintragung einer Marke
+    auf eine eingetragene Unionsmarke mit älterem Zeitrang gestützt, so
 
-    a)  § 51 Absatz 2 Satz 1 entsprechend anzuwenden;
+    a)  ist § 51 Absatz 2 Satz 1 entsprechend anzuwenden;
 
 
-    b)  § 53 Absatz 6 mit der Maßgabe entsprechend anzuwenden, dass an die
-        Stelle der Benutzung der Marke mit älterem Zeitrang gemäß § 26 die
-        Benutzung der Unionsmarke nach Artikel 18 der Unionsmarkenverordnung
-        tritt;
+    b)  sind § 53 Absatz 6 und § 55 Absatz 3 mit der Maßgabe entsprechend
+        anzuwenden, dass an die Stelle der Benutzung der Marke mit älterem
+        Zeitrang gemäß § 26 die Benutzung der Unionsmarke nach Artikel 18 der
+        Verordnung (EU) 2017/1001 tritt;
 
 
 
@@ -3964,14 +3859,14 @@ Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
 
 
 
-#### § 125c Nachträgliche Feststellung der Ungültigkeit einer Marke
+#### § 120 Nachträgliche Feststellung der Ungültigkeit einer Marke
 
 (1) Ist für eine angemeldete oder eingetragene Unionsmarke der
 Zeitrang einer im Register des Deutschen Patent- und Markenamts
 eingetragenen Marke nach Artikel 39 oder Artikel 40 der
 Unionsmarkenverordnung in Anspruch genommen worden und ist die im
 Register des Deutschen Patent- und Markenamts eingetragene Marke wegen
-Nichtverlängerung der Schutzdauer nach § 47 Absatz 6 oder wegen
+Nichtverlängerung der Schutzdauer nach § 47 Absatz 8 oder wegen
 Verzichts nach § 48 Absatz 1 gelöscht worden, so kann auf Antrag
 nachträglich die Ungültigkeit dieser Marke wegen Verfalls oder wegen
 Nichtigkeit festgestellt werden. In diesem Fall entfaltet der Zeitrang
@@ -3992,7 +3887,7 @@ der Erklärung des Verfalls oder der Nichtigkeit der Marke die
 Feststellung ihrer Ungültigkeit tritt.
 
 
-#### § 125d Umwandlung von Unionsmarken
+#### § 121 Umwandlung von Unionsmarken
 
 (1) Ist dem Deutschen Patent- und Markenamt ein Antrag auf Umwandlung
 einer angemeldeten oder eingetragenen Unionsmarke nach Artikel 139
@@ -4023,7 +3918,7 @@ Gegen die Eintragung kann Widerspruch nicht erhoben werden.
 Gesetzes für die Anmeldung von Marken anzuwenden.
 
 
-#### § 125e Unionsmarkenstreitsachen; Unionsmarkengerichte
+#### § 122 Unionsmarkenstreitsachen; Unionsmarkengerichte
 
 (1) Für alle Klagen, für die nach der Unionsmarkenverordnung die
 Unionsmarkengerichte im Sinne des Artikels 123 Absatz 1 der
@@ -4048,7 +3943,7 @@ Unionsmarkengericht eines anderen Landes übertragen.
 § 142 entsprechend anzuwenden.
 
 
-#### § 125f Unterrichtung der Kommission
+#### § 123 Unterrichtung der Kommission
 
 Das Bundesministerium der Justiz und für Verbraucherschutz teilt der
 Kommission der Europäischen Gemeinschaften die Unionsmarkengerichte
@@ -4057,7 +3952,7 @@ Bezeichnung oder der örtlichen Zuständigkeit der Unionsmarkengerichte
 erster und zweiter Instanz mit.
 
 
-#### § 125g Örtliche Zuständigkeit der Unionsmarkengerichte
+#### § 124 Örtliche Zuständigkeit der Unionsmarkengerichte
 
 Sind nach Artikel 125 der Unionsmarkenverordnung deutsche
 Unionsmarkengerichte international zuständig, so gelten für die
@@ -4069,7 +3964,7 @@ eine Zuständigkeit danach nicht begründet, so ist das Gericht örtlich
 zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
 
 
-#### § 125h Insolvenzverfahren
+#### § 125 Insolvenzverfahren
 
 (1) Ist dem Insolvenzgericht bekannt, daß zur Insolvenzmasse eine
 angemeldete oder eingetragene Unionsmarke gehört, so ersucht es das
@@ -4102,7 +3997,7 @@ Falle der Eigenverwaltung (§ 270 der Insolvenzordnung) tritt der
 Sachwalter an die Stelle des Insolvenzverwalters.
 
 
-#### § 125i Erteilung der Vollstreckungsklausel
+#### § 125a Erteilung der Vollstreckungsklausel
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 110 Absatz 2
 Satz 3 der Unionsmarkenverordnung ist das Bundespatentgericht
@@ -4377,12 +4272,36 @@ Tatbestände werden durch das Landesrecht bestimmt.
 #### § 135 Ansprüche wegen Verletzung
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
-Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den
-nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur
-Geltendmachung von Ansprüchen Berechtigten bei Wiederholungsgefahr auf
-Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch
-dann, wenn eine Zuwiderhandlung erstmalig droht. Die §§ 18, 19, 19a
-und 19c gelten entsprechend.
+Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann bei
+Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der
+Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht.
+Die Ansprüche nach Satz 1 stehen zu
+
+1.  den nach § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb zur
+    Geltendmachung von Ansprüchen Berechtigten,
+
+
+2.  Vereinigungen im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr.
+    1151/2012,
+
+
+3.  anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von
+    Erzeugerorganisationen und anerkannten Branchenverbänden im Sinne der
+    Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+    Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für
+    landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+    (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+    1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S.
+    261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom
+    6\.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117
+    (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist, in ihrer
+    jeweils geltenden Fassung, wenn deren Zielsetzung auch den Schutz
+    gegen Verstöße nach Artikel 13 der Verordnung (EU) Nr. 1151/2012
+    umfasst.
+
+
+
+Die §§ 18, 19, 19a und 19c gelten entsprechend.
 
 (2) § 128 Abs. 2 und 3 gilt entsprechend.
 

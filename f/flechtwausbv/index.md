@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin
+Title: Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 jurabk: FlechtwAusbV
 layout: default
 origslug: flechtwausbv
@@ -7,7 +7,7 @@ slug: flechtwausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin (FlechtwAusbV)
+# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin (FlechtwAusbV)
 
 Ausfertigungsdatum
 :   2006-03-31

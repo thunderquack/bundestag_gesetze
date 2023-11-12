@@ -1423,7 +1423,7 @@ Tabelle 1
 
 *    *   16.21
 
-    *   Herstellung von Furnier-, Sperrholz-, Holzfaser-und Holzspanplatten
+    *   Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten
 
     *   0,41
 
@@ -1487,7 +1487,7 @@ Tabelle 1
 
 *    *   24.20
 
-    *   Herstellung von Stahlrohren, Rohrform-, Rohrverschluss-und
+    *   Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und
         Rohrverbindungsstücken aus Stahl
 
     *   0,19

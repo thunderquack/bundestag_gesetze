@@ -16,15 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1809
 
-Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2020 I 3015
-
-Änderung durch
-:   Art. 1 V v. 9.8.2021 I 3568 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 21.12.2021 I 5254 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 1 V v. 30.10.2023 I Nr. 292
 
 ## Eingangsformel
 
@@ -46,18 +38,18 @@ Münster/Osnabrück, Nürnberg, Saarbrücken und Stuttgart werden Kosten
 
 (1a) Ferner werden für die Inanspruchnahme von Diensten und
 Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und
-Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bautzen, Bayreuth,
-Braunschweig-Wolfsburg, Coburg-Brandensteinsebene, Donaueschingen-
-Villingen, Donauwörth HEL, Dortmund, Eggenfelden, Emden, Frankfurt-
-Hahn, Friedrichshafen, Giebelstadt, Hamburg-Finkenwerder, Hassfurt-
-Schweinfurt, Heringsdorf, Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-
-Calden, Kiel-Holtenau, Lahr, Leipzig-Altenburg Airport, Lübeck-
-Blankensee, Magdeburg/City, Mannheim City, Memmingen, Mengen-
-Hohentengen, Mönchengladbach, Neubrandenburg, Niederrhein,
-Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall,
-Siegerland, Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser
-Airport und Zweibrücken Kosten (Gebühren und Auslagen) erhoben
-(Gebührenbereich 2).
+Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bamberg-Breitenau,
+Bautzen, Bayreuth, Braunschweig-Wolfsburg, Coburg-Brandensteinsebene,
+Donaueschingen-Villingen, Donauwörth HEL, Dortmund, Eggenfelden,
+Emden, Frankfurt-Hahn, Friedrichshafen, Giebelstadt, Hamburg-
+Finkenwerder, Hassfurt-Schweinfurt, Heringsdorf, Hof-Plauen,
+Karlsruhe/ Baden-Baden, Kassel-Calden, Kiel-Holtenau, Lahr, Leipzig-
+Altenburg Airport, Lübeck-Blankensee, Magdeburg/City, Mannheim City,
+Memmingen, Mengen-Hohentengen, Mönchengladbach, Neubrandenburg,
+Niederrhein, Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen,
+Schwäbisch Hall, Siegerland, Straubing, Strausberg, Sylt,
+Wilhelmshaven Jadeweser Airport und Zweibrücken Kosten (Gebühren und
+Auslagen) erhoben (Gebührenbereich 2).
 
 (1b) Die Art des notwendigen Flugsicherungsdienstes bestimmt sich nach
 der Anlage.
@@ -75,7 +67,7 @@ Abflug. Zähleinheit des Gebührenbereichs 2 ist die Landung.
 ## § 2
 
 (1) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 1 beträgt ab 1. Januar 2022 218,05 Euro. Die
+im Gebührenbereich 1 beträgt ab 1. Januar 2023 255,94 Euro. Die
 Berechnung des Gebührensatzes für die Flughäfen des Gebührenbereichs 1
 sowie der daraus resultierenden Gebühr richtet sich nach der
 Durchführungsverordnung (EU) 2019/317 der Kommission vom 11. Februar
@@ -85,7 +77,7 @@ Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013
 (ABl. L 56 vom 25.2.2019, S. 1).
 
 (2) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 2 beträgt ab 1. Januar 2022 218,05 Euro. Zur
+im Gebührenbereich 2 beträgt ab 1. Januar 2023 255,94 Euro. Zur
 Ermittlung des Gebührensatzes wird die algebraische Differenz aus den
 durch das Bundesaufsichtsamt für Flugsicherung anerkannten geplanten
 Kosten für die Flugsicherung an den Flugplätzen des Gebührenbereichs 2
@@ -142,7 +134,8 @@ Der Bundesminister für Verkehr
 
 ## Anlage (zu § 1 Absatz 1b)
 
-(Fundstelle: BGBl. I 2021, S. 3569)
+(Fundstelle: BGBl. I 2021, S. 3569;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  **Flugplätze, an denen Flugverkehrskontrolldienst notwendig ist:**
@@ -219,6 +212,8 @@ Der Bundesminister für Verkehr
 2.  **Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:**
 
     Allendorf/Eder
+
+    Bamberg-Breitenau
 
     Bautzen
 

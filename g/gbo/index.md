@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1114;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 5.10.2021 I 4607
+:   Art. 16 G v. 19.12.2022 I 2606
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -349,11 +349,12 @@ dem Inhaber eines grundstücksgleichen Rechts ist auf Verlangen
 Auskunft aus diesem Protokoll zu geben, es sei denn, die Bekanntgabe
 würde den Erfolg strafrechtlicher Ermittlungen oder die
 Aufgabenwahrnehmung einer Verfassungsschutzbehörde, des
-Bundesnachrichtendienstes, des Militärischen Abschirmdienstes oder die
-Zentralstelle für Finanztransaktionsuntersuchungen gefährden. Das
-Protokoll kann nach Ablauf von zwei Jahren vernichtet werden. Einer
-Protokollierung bedarf es nicht, wenn die Einsicht oder Abschrift dem
-Auskunftsberechtigten nach Satz 2 gewährt wird.
+Bundesnachrichtendienstes, des Militärischen Abschirmdienstes, der
+Zentralstelle für Sanktionsdurchsetzung oder die Zentralstelle für
+Finanztransaktionsuntersuchungen gefährden. Das Protokoll kann nach
+Ablauf von zwei Jahren vernichtet werden. Einer Protokollierung bedarf
+es nicht, wenn die Einsicht oder Abschrift dem Auskunftsberechtigten
+nach Satz 2 gewährt wird.
 
 
 ### § 12a
@@ -535,7 +536,9 @@ enthaltenen personenbezogenen Daten keine Anwendung.
 (1) Eine Eintragung soll, soweit nicht das Gesetz etwas anderes
 vorschreibt, nur auf Antrag erfolgen. Antragsberechtigt ist jeder,
 dessen Recht von der Eintragung betroffen wird oder zu dessen Gunsten
-die Eintragung erfolgen soll.
+die Eintragung erfolgen soll. In den Fällen des § 20 soll die
+Eintragung nur erfolgen, wenn ein Notar den Antrag im Namen eines
+Antragsberechtigten eingereicht hat.
 
 (2) Der genaue Zeitpunkt, in dem ein Antrag beim Grundbuchamt eingeht,
 soll auf dem Antrag vermerkt werden. Der Antrag ist beim Grundbuchamt
@@ -791,16 +794,8 @@ Register geführt werden. Dabei sind das Registergericht und das
 Registerblatt anzugeben.
 
 
-### § 33
+### § 33 (weggefallen)
 
-(1) Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern
-Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass
-ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners
-gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des
-güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
-
-(2) Ist das Grundbuchamt zugleich das Registergericht, so genügt statt
-des Zeugnisses nach Absatz 1 die Bezugnahme auf das Register.
 
 
 ### § 34
@@ -2361,9 +2356,10 @@ elektronischer Zeichen versichert.
 grundstücksgleichen Rechts ist jederzeit Auskunft aus einem über die
 Abrufe zu führenden Protokoll zu geben, soweit nicht die Bekanntgabe
 den Erfolg strafrechtlicher Ermittlungen oder die Aufgabenwahrnehmung
-einer Verfassungsschutzbehörde, des Bundesnachrichtendienstes oder des
-Militärischen Abschirmdienstes gefährden würde; dieses Protokoll kann
-nach Ablauf von zwei Jahren vernichtet werden.
+einer Verfassungsschutzbehörde, des Bundesnachrichtendienstes, des
+Militärischen Abschirmdienstes oder der Zentralstelle für
+Sanktionsdurchsetzung gefährden würde; dieses Protokoll kann nach
+Ablauf von zwei Jahren vernichtet werden.
 
 (6) Genehmigungen nach Absatz 2 gelten in Ansehung der Voraussetzungen
 nach den Absätzen 1 und 2 Satz 3 Nr. 1 und 2 im gesamten Land, dessen

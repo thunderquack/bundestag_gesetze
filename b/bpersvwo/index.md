@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.12.1994 I 3653;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.9.2005 I 2906
-
-Änderung durch
-:   Art. 1 V v. 24.4.2020 BAnz AT 28.04.2020 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 23 G v. 9.6.2021 I 1614 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 9.6.2021 I 1614
 
 
 ## Erster Teil - Wahl des Personalrates

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3641
 
 Geändert durch
-:   Art. 1 V v. 10.12.2018 I 2329
-
-Änderung durch
-:   Art. 7 Abs. 37 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 37 G v. 12.5.2021 I 990
 
 
 ## Eingangsformel

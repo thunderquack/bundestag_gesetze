@@ -16,22 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2498
 
 Zuletzt geändert durch
-:   Art. 7 G v. 8.8.2020 I 1818
-
-Änderung durch
-:   Art. 17 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 23 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 16.7.2021 I 3026 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 14 Nr. 2 G v. 16.7.2021 I 3026 (Nr. 47) ist berücksichtigt
-
-Änderung durch
-:   Art. 88 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 9 G v. 20.12.2022 I 2512
 
 Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
@@ -40,10 +25,13 @@ Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
 ### § 1 Anwendungsbereich
 
-(1) Dieses Gesetz dient der Erhöhung der Nettostromerzeugung aus
-Kraft-Wärme-Kopplungsanlagen auf 110 Terawattstunden bis zum Jahr 2020
-sowie auf 120 Terawattstunden bis zum Jahr 2025 im Interesse der
-Energieeinsparung sowie des Umwelt- und Klimaschutzes.
+(1) Zweck dieses Gesetzes ist es, insbesondere im Interesse der
+Energieeinsparung sowie des Klima- und Umweltschutzes die
+Transformation zu einer nachhaltigen und treibhausgasneutralen
+Energieversorgung im Staatsgebiet der Bundesrepublik Deutschland
+einschließlich der deutschen ausschließlichen Wirtschaftszone
+(Bundesgebiet) zu unterstützen, die vollständig auf erneuerbaren
+Energien beruht.
 
 (2) Dieses Gesetz regelt
 
@@ -394,9 +382,9 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 20. „Nettostromerzeugung“ die an den Generatorklemmen gemessene
-    Stromerzeugung einer Anlage abzüglich des für ihren Betrieb
-    erforderlichen Eigenverbrauchs im Sinne von § 61a Nummer 1 des
-    Erneuerbare-Energien-Gesetzes in der jeweils geltenden Fassung,
+    Stromerzeugung einer Anlage abzüglich des Stromverbrauchs der
+    Stromerzeugungsanlage oder von deren Neben- und Hilfsanlagen zur
+    Erzeugung von Strom im technischen Sinn,
 
 
 21. „Netzbetreiber“ die Betreiber von Stromnetzen aller Spannungsebenen
@@ -439,12 +427,12 @@ Im Sinne dieses Gesetzes ist oder sind
     ist,
 
 
-28. „stromkostenintensive Unternehmen“ Unternehmen, selbstständige oder
-    nichtselbstständige Unternehmensteile, für die das Bundesamt für
-    Wirtschaft und Ausfuhrkontrolle abnahmestellenbezogen die EEG-Umlage
-    für Strom, der selbst verbraucht wird, nach § 63 Nummer 1 in
-    Verbindung mit § 64 oder nach § 63 Nummer 1a in Verbindung mit § 64a
-    des Erneuerbare-Energien-Gesetzes für das jeweilige Kalenderjahr
+28. „stromkostenintensive Unternehmen“ Unternehmen oder selbständige Teile
+    eines Unternehmens, für die das Bundesamt für Wirtschaft und
+    Ausfuhrkontrolle abnahmestellenbezogen die Umlagen für Strom, der
+    selbst verbraucht wird, nach § 29 Absatz 1 Nummer 1 in Verbindung mit
+    den §§ 30 bis 35 oder nach § 29 Absatz 1 Nummer 2 in Verbindung mit §
+    36 des Energiefinanzierungsgesetzes für das jeweilige Kalenderjahr
     begrenzt hat,
 
 
@@ -455,6 +443,12 @@ Im Sinne dieses Gesetzes ist oder sind
 
 29a. „Unternehmen“ ein Unternehmen im Sinn von § 3 Nummer 47 des
     Erneuerbare-Energien-Gesetzes,
+
+
+29b. „Unternehmen in Schwierigkeiten“ ein Unternehmen in Schwierigkeiten im
+    Sinn der Mitteilung der Kommission – Leitlinien für staatliche
+    Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller
+    Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1),
 
 
 30. „Verbraucherabgang“ die Übergabestelle nach § 10 Absatz 1 der
@@ -609,9 +603,9 @@ Betreiber der KWK-Anlage vom Netzbetreiber abzunehmen.
 
 
 (2) Innovative KWK-Systeme mit einer elektrischen Leistung von mehr
-als 1 bis einschließlich 10 Megawatt haben Anspruch auf eine
-finanzielle Förderung nach den §§ 7c und 8b in Verbindung mit einer
-Rechtsverordnung nach § 33b. Innovative KWK-Systeme mit einer
+als 500 Kilowatt bis einschließlich 10 Megawatt haben Anspruch auf
+eine finanzielle Förderung nach den §§ 7c und 8b in Verbindung mit
+einer Rechtsverordnung nach § 33b. Innovative KWK-Systeme mit einer
 elektrischen Leistung von mehr als 10 Megawatt haben unbeschadet eines
 Anspruchs auf Zuschlagszahlung nach Absatz 1 Anspruch auf eine
 finanzielle Förderung nach den §§ 7a und 7b.
@@ -654,10 +648,21 @@ sowie der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen, wenn
 
 
 5.  die Anlagen, die Anforderungen nach § 9 Absatz 1, 1a oder 2 des
-    Erneuerbare-Energien-Gesetzes erfüllen, und
+    Erneuerbare-Energien-Gesetzes erfüllen,
 
 
-6.  eine Zulassung von dem Bundesamt für Wirtschaft und Ausfuhrkontrolle
+6.  im Fall von neuen KWK-Anlagen mit einer elektrischen Leistung von mehr
+    als 10 Megawatt, die Strom auf Basis von gasförmigen Brennstoffen
+    gewinnen und die nach dem 30. Juni 2023 nach dem Bundes-
+    Immissionsschutzgesetz genehmigt worden sind, die Anlagen ab dem 1.
+    Januar 2028 mit höchstens 10 Prozent der Kosten, die eine mögliche
+    Neuerrichtung einer KWK-Anlage mit gleicher Leistung nach dem
+    aktuellen Stand der Technik betragen würde, so umgestellt werden
+    können, dass sie ihren Strom ausschließlich auf Basis von Wasserstoff
+    gewinnen können, und
+
+
+7.  eine Zulassung von dem Bundesamt für Wirtschaft und Ausfuhrkontrolle
     erteilt wurde.
 
 
@@ -690,11 +695,11 @@ Dampfsammelschienen-KWK-Anlagen
 
 
 In den Fällen des Satzes 1 besteht der Anspruch auf Zahlung des
-Zuschlags ausschließlich für Strom, der auf Basis von Abfall, Abwärme,
-Biomasse, gasförmigen oder flüssigen Brennstoffen gewonnen wurde; die
-Abgrenzung dieses Stroms gegenüber anderem Strom, der in der Anlage
-erzeugt wird, hat gemäß den allgemein anerkannten Regeln der Technik
-zu erfolgen.
+Zuschlags ausschließlich für KWK-Strom, der auf Basis von Abfall,
+Abwärme, Biomasse, gasförmigen oder flüssigen Brennstoffen gewonnen
+wurde; die Abgrenzung dieses KWK-Stroms gegenüber anderem KWK-Strom,
+der in der Anlage erzeugt wird, hat gemäß den allgemein anerkannten
+Regeln der Technik zu erfolgen.
 
 (2) Eine Verdrängung von Fernwärmeversorgung nach Absatz 1 Nummer 4
 liegt nicht vor, wenn
@@ -727,16 +732,15 @@ KWK-Anlagen im Sinn des § 5 Absatz 1 Nummer 1,
 
 
 2.  die KWK-Strom an Letztverbraucher in einer Kundenanlage oder in einem
-    geschlossenen Verteilernetz liefern, soweit für diesen KWK-Strom die
-    volle EEG-Umlage entrichtet wird,
+    geschlossenen Verteilernetz liefern,
 
 
 3.  die in stromkostenintensiven Unternehmen eingesetzt werden und deren
     KWK-Strom von diesen Unternehmen selbst verbraucht wird oder
 
 
-4.  deren Betreiber ein Unternehmen ist, das einer Branche nach Anlage 4
-    des Erneuerbare-Energien-Gesetzes zuzuordnen ist, sobald eine
+4.  deren Betreiber ein Unternehmen ist, das einer Branche nach Anlage 2
+    des Energiefinanzierungsgesetzes zuzuordnen ist, sobald eine
     Verordnung nach § 33 Absatz 2 Nummer 1 erlassen wurde.
 
 
@@ -744,13 +748,8 @@ KWK-Anlagen im Sinn des § 5 Absatz 1 Nummer 1,
 Für den Einsatz der KWK-Anlagen in stromkostenintensiven Unternehmen
 nach Satz 1 Nummer 3 ist maßgeblich, dass die KWK-Anlage zu einer
 Abnahmestelle gehört, an der das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle die EEG-Umlage für Strom, der selbst verbraucht wird,
-begrenzt hat. Stromkostenintensive Unternehmen im Sinn des Satzes 1
-Nummer 3 sind auch solche Unternehmen, für die das Bundesamt für
-Wirtschaft und Ausfuhrkontrolle abnahmestellenbezogen die EEG-Umlage
-für Strom, der selbst verbraucht wird, nach § 63 Nummer 1 in
-Verbindung mit § 103 Absatz 3 oder Absatz 4 des Erneuerbare-Energien-
-Gesetzes für das jeweilige Kalenderjahr begrenzt hat.
+Ausfuhrkontrolle die Umlagen für Strom, der selbst verbraucht wird,
+nach den §§ 29 bis 35 des Energiefinanzierungsgesetzes begrenzt hat.
 
 (4) Mit dem Zuschlag zahlt der Netzbetreiber zusätzlich das Entgelt
 für die dezentrale Einspeisung nach § 18 der
@@ -766,8 +765,8 @@ Absatz 2 anzuwenden.
 
 (1) Der Zuschlag für KWK-Strom, der in ein Netz der allgemeinen
 Versorgung eingespeist wird und auf den die §§ 61e bis 61g und 104
-Absatz 4 des Erneuerbare-Energien-Gesetzes nicht anzuwenden sind,
-beträgt
+Absatz 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022
+geltenden Fassung nicht anzuwenden sind, beträgt
 
 1.  für den KWK-Leistungsanteil von bis zu 50 Kilowatt: 8 Cent je
     Kilowattstunde,
@@ -802,7 +801,7 @@ beträgt
 
 Der Zuschlag nach Satz 1 Nummer 5 Buchstabe a erhöht sich ab dem 1.
 Januar 2023 um 0,5 Cent je Kilowattstunde, soweit das
-Bundesministerium für Wirtschaft und Energie im Jahr 2022 die
+Bundesministerium für Wirtschaft und Klimaschutz im Jahr 2022 die
 Angemessenheit der Erhöhung überprüft und festgestellt hat, dass mit
 der Erhöhung der Zuschläge die Differenz zwischen den
 Gesamtgestehungskosten der Stromerzeugung der KWK-Anlagen und dem
@@ -1080,12 +1079,19 @@ System eine bestehende KWK-Anlage ersetzt, die
 
 
 
-Ein Ersatz im Sinn des Satzes 1 liegt vor, wenn die neue KWK-Anlage in
-dasselbe Wärmenetz einspeist, in das auch die bestehende KWK-Anlage
-eingespeist hat und die bestehende KWK-Anlage oder in den Fällen des
-Absatzes 3 der bestehende Dampferzeuger innerhalb von zwölf Monaten
-vor oder nach Aufnahme des Dauerbetriebs der neuen KWK-Anlage,
-frühestens aber nach dem 1. Januar 2016, endgültig stillgelegt wird.
+Ein Ersatz im Sinne des Satzes 1 liegt vor, wenn
+
+1.  die neue KWK-Anlage in dasselbe Wärmenetz einspeist, in das auch die
+    bestehende KWK-Anlage eingespeist hat, und
+
+
+2.  die bestehende KWK-Anlage oder in den Fällen des Absatzes 3 der
+    bestehende Dampferzeuger innerhalb von zwölf Monaten vor oder nach
+    Aufnahme des Dauerbetriebs der neuen KWK-Anlage endgültig stillgelegt
+    wird.
+
+
+
 Die neue KWK-Anlage, die die elektrische KWK-Leistung einer
 bestehenden KWK-Anlage ersetzt, muss nicht an dem Standort errichtet
 werden. Keine bestehende KWK-Anlage im Sinn dieser Vorschrift ist eine
@@ -1303,6 +1309,10 @@ des Dauerbetriebs gezahlt für
 
 
 
+Nicht zu den Kosten der Modernisierung sind die Kosten zu zählen, die
+der Vorbereitung der Umstellung oder der Umstellung auf einen Betrieb
+der Stromgewinnung auf der ausschließlichen Basis von Wasserstoff
+dienen.
 
 (3) Für nachgerüstete KWK-Anlagen wird der Zuschlag ab Wiederaufnahme
 des Dauerbetriebs gezahlt für
@@ -1327,10 +1337,33 @@ des Dauerbetriebs gezahlt für
 
 
 
-(4) Ab dem Kalenderjahr 2021 wird der Zuschlag für bis zu 5 000
-Vollbenutzungsstunden, ab dem Kalenderjahr 2023 für bis zu 4 000
-Vollbenutzungsstunden und ab dem Kalenderjahr 2025 für bis zu 3 500
-Vollbenutzungsstunden pro Kalenderjahr gezahlt.
+(4) Der Zuschlag wird pro Kalenderjahr gezahlt für bis zu
+
+1.  5 000 Vollbenutzungsstunden ab dem Kalenderjahr 2021,
+
+
+2.  4 000 Vollbenutzungsstunden ab dem Kalenderjahr 2023,
+
+
+3.  3 500 Vollbenutzungsstunden ab dem Kalenderjahr 2025,
+
+
+4.  3 300 Vollbenutzungsstunden ab dem Kalenderjahr 2026,
+
+
+5.  3 100 Vollbenutzungsstunden ab dem Kalenderjahr 2027,
+
+
+6.  2 900 Vollbenutzungsstunden ab dem Kalenderjahr 2028,
+
+
+7.  2 700 Vollbenutzungsstunden ab dem Kalenderjahr 2029 und
+
+
+8.  2 500 Vollbenutzungsstunden ab dem Kalenderjahr 2030.
+
+
+
 
 
 ### § 8a Ausschreibung der Zuschlagzahlung für KWK-Strom
@@ -1412,28 +1445,6 @@ Das Ausschreibungsvolumen für die Ausschreibungen nach den §§ 8a und
 8b beträgt pro Kalenderjahr 200 Megawatt elektrische KWK-Leistung.
 
 
-### § 8d Zahlungsanspruch und Eigenversorgung
-
-(1) Die Betreiber von KWK-Anlagen und innovativen KWK-Systemen, die
-Zuschlagzahlungen nach § 8a oder eine finanzielle Förderung nach § 8b
-erhalten haben, müssen nach der Beendigung ihres Anspruchs nach § 8a
-oder § 8b für den in ihrer Anlage oder ihrem KWK-System erzeugten
-Strom, den sie selbst verbrauchen, nach § 61 Absatz 1 des Erneuerbare-
-Energien-Gesetzes die EEG-Umlage bezahlen, soweit der Anspruch nicht
-nach § 61a Nummer 1 des Erneuerbare-Energien-Gesetzes entfällt. Im
-Übrigen sind die §§ 61a bis 61g des Erneuerbare-Energien-Gesetzes
-nicht anzuwenden.
-
-(2) Wenn die KWK-Anlage oder das innovative KWK-System nach der
-Beendigung des Anspruchs nach § 8a oder § 8b modernisiert wird und
-wenn die Kosten der Modernisierung mindestens 50 Prozent der Kosten
-betragen, die die Neuerrichtung mit gleicher installierter KWK-
-Leistung nach aktuellem Stand der Technik gekostet hätte, ist Absatz 1
-nicht mehr anzuwenden und die Höhe der nach § 61 Absatz 1 des
-Erneuerbare-Energien-Gesetzes zu zahlenden EEG-Umlage bestimmt sich
-nach § 61c des Erneuerbare-Energien-Gesetzes.
-
-
 ### § 9 Neue KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 2 Kilowatt
 
 (1) Betreiber von neuen KWK-Anlagen mit einer elektrischen KWK-
@@ -1468,7 +1479,9 @@ Vorliegen der Voraussetzungen der §§ 7a bis 7c.
 
 1a. sofern zutreffend, das Handelsregister, Vereinsregister oder
     Genossenschaftsregister, in das der Anlagenbetreiber eingetragen ist,
-    und die entsprechende Registernummer,
+    und die entsprechende Registernummer; wenn keine Registernummer
+    zugeteilt wurde, ist hilfsweise, soweit vorhanden, die Umsatzsteuer-
+    Identifikationsnummer anzugeben,
 
 
 1b. die Angabe, ob der Anlagenbetreiber ein Unternehmen im Sinn der
@@ -1498,6 +1511,10 @@ Vorliegen der Voraussetzungen der §§ 7a bis 7c.
     Fassung,
 
 
+1e. die Nummer, unter der die Anlage im Marktstammdatenregister nach §
+    111e des Energiewirtschaftsgesetzes registriert ist,
+
+
 2.  Angaben und Nachweise über den Zeitpunkt der Aufnahme des
     Dauerbetriebs sowie über die sonstigen Voraussetzungen für eine
     Zulassung,
@@ -1517,14 +1534,33 @@ Vorliegen der Voraussetzungen der §§ 7a bis 7c.
     Sachverständigengutachten über die elektrische KWK-Leistung, den
     genutzten Brennstoff, den Zeitpunkt der endgültigen Stilllegung der
     bestehenden KWK-Anlage sowie sonstige relevante Eigenschaften nach den
-    §§ 7a bis 7c, soweit erforderlich, und
+    §§ 7a bis 7c, soweit erforderlich,
 
 
 6.  Angaben zur Erfüllung der Anforderungen nach § 9 Absatz 1, 1a oder 2
-    des Erneuerbare-Energien-Gesetzes.
+    des Erneuerbare-Energien-Gesetzes,
+
+
+7.  einen geeigneten Nachweis zur Erfüllung der Anforderungen nach § 6
+    Absatz 1 Nummer 6,
+
+
+8.  eine Bestätigung, dass der Anlagenbetreiber kein Unternehmen in
+    Schwierigkeiten ist, und
+
+
+9.  eine Bestätigung, dass gegen den Anlagenbetreiber keine offenen
+    Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen
+    Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und
+    ihrer Unvereinbarkeit mit dem Europäischen Binnenmarkt bestehen.
 
 
 
+Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine
+Selbstverpflichtung des Antragstellers enthalten, jede Änderung des
+Inhalts der abgegebenen Bestätigungen bis zum Abschluss des
+Zulassungsverfahrens unverzüglich dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle mitzuteilen.
 
 (3) Die Einhaltung der allgemein anerkannten Regeln der Technik nach
 Absatz 2 Nummer 4 wird vermutet, wenn das Sachverständigengutachten
@@ -1606,13 +1642,13 @@ Dauerbetriebs der Anlage nach Modernisierung oder Nachrüstung sind die
 Sätze 1 und 2 entsprechend anzuwenden.
 
 (4) Bei Änderung von Eigenschaften der KWK-Anlage im Sinne des § 10
-Absatz 2 Nummer 4 erlischt die Zulassung rückwirkend zum Zeitpunkt der
-Änderung. Satz 1 gilt nicht, wenn der Betreiber der KWK-Anlage eine
-Änderung der Zulassung bis zum Ablauf des auf die Änderung folgenden
-Kalenderjahres bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle
-beantragt. Der Netzbetreiber, an dessen Netz die Anlage direkt oder
-mittelbar angeschlossen ist, ist über die Änderung in Kenntnis zu
-setzen.
+Absatz 2 Satz 1 Nummer 4 erlischt die Zulassung rückwirkend zum
+Zeitpunkt der Änderung. Satz 1 gilt nicht, wenn der Betreiber der KWK-
+Anlage eine Änderung der Zulassung bis zum Ablauf des auf die Änderung
+folgenden Kalenderjahres bei dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle beantragt. Der Netzbetreiber, an dessen Netz die
+Anlage direkt oder mittelbar angeschlossen ist, ist über die Änderung
+in Kenntnis zu setzen.
 
 
 ### § 12 Vorbescheid für neue KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt
@@ -1636,8 +1672,8 @@ Immissionsschutzgesetz in der jeweils geltenden Fassung vorgelegen
 hat.
 
 (2) Der Antrag muss die nach § 6 Absatz 1 Nummer 1 bis 4 und § 10
-Absatz 2 erforderlichen Angaben auf Grundlage der Planungen für die
-KWK-Anlage zum Zeitpunkt der Antragstellung enthalten.
+Absatz 2 Satz 1 erforderlichen Angaben auf Grundlage der Planungen für
+die KWK-Anlage zum Zeitpunkt der Antragstellung enthalten.
 
 (3) Der Antrag muss vor Baubeginn der Anlage gestellt werden.
 
@@ -1756,6 +1792,22 @@ Die Höhe der Zuschlagzahlung nach diesem Abschnitt verringert sich um
 20 Prozent, solange Anlagenbetreiber die zur Registrierung der Anlage
 erforderlichen Angaben nicht nach Maßgabe der Rechtsverordnung nach §
 111f des Energiewirtschaftsgesetzes übermittelt haben.
+
+
+### § 13b Rückforderung
+
+Zahlt ein Netzbetreiber einem Anlagenbetreiber mehr als nach diesem
+Gesetz vorgeschrieben, muss er den Mehrbetrag zurückfordern. Ist die
+Zahlung in Übereinstimmung mit dem Ergebnis eines Verfahrens der
+Clearingstelle nach § 32a Absatz 5 erfolgt und beruht die
+Rückforderung auf der Anwendung einer nach der Zahlung in anderer
+Sache ergangenen höchstrichterlichen Entscheidung, ist der
+Anlagenbetreiber berechtigt, insoweit die Einrede der Übereinstimmung
+der Berechnung der Zahlung mit einer Entscheidung der Clearingstelle
+für Zahlungen zu erheben, die bis zum Tag der höchstrichterlichen
+Entscheidung geleistet worden sind. Der Rückforderungsanspruch
+verjährt mit Ablauf des zweiten auf die Einspeisung folgenden
+Kalenderjahres; die Pflicht nach Satz 1 erlischt insoweit.
 
 
 ## Abschnitt 3 - Vorschriften zum Nachweis der Menge des eingespeisten KWK-Stroms und zur Übermittlung von Daten an das Statistische Bundesamt
@@ -1945,8 +1997,8 @@ Richtigkeit
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle übermittelt
 jährlich die folgenden Daten an das Statistische Bundesamt:
 
-1.  die nach § 10 Absatz 2 Nummer 1 bis 4 anfallenden Daten der KWK-
-    Anlagen,
+1.  die nach § 10 Absatz 2 Satz 1 Nummer 1 bis 4 anfallenden Daten der
+    KWK-Anlagen,
 
 
 2.  die Angaben zur KWK-Nettostromerzeugung,
@@ -2063,6 +2115,8 @@ sind
 
 
 
+(5) § 13b ist entsprechend anzuwenden.
+
 
 ### § 19 Höhe des Zuschlags für den Neu- und Ausbau von Wärmenetzen
 
@@ -2134,20 +2188,36 @@ erfüllt. Der Antrag des Wärmenetzbetreibers muss enthalten:
     Abzugsbeträge nach § 19 Absatz 3,
 
 
-4.  Angaben zum zuständigen Übertragungsnetzbetreiber.
+4.  Angaben zum zuständigen Übertragungsnetzbetreiber,
+
+
+5.  eine Bestätigung, dass der Antragsteller kein Unternehmen in
+    Schwierigkeiten ist, und
+
+
+6.  eine Bestätigung, dass gegen den Antragsteller keine offenen
+    Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen
+    Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und
+    ihrer Unvereinbarkeit mit dem Europäischen Binnenmarkt bestehen.
 
 
 
-§ 10 Absatz 2 Nummer 1a bis 1d ist entsprechend anzuwenden. Die
-Zulassung ergeht gegenüber dem Wärmenetzbetreiber und dem für die
-Auszahlung des Zuschlags nach § 18 Absatz 3 zuständigen
-Übertragungsnetzbetreiber.
+Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine
+Selbstverpflichtung des Antragstellers enthalten, jede Änderung des
+Inhalts der abgegebenen Bestätigungen bis zum Abschluss des
+Zulassungsverfahrens unverzüglich dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle mitzuteilen. § 10 Absatz 2 Satz 1 Nummer 1a bis 1d
+ist entsprechend anzuwenden. Die Zulassung ergeht gegenüber dem
+Wärmenetzbetreiber und dem für die Auszahlung des Zuschlags nach § 18
+Absatz 3 zuständigen Übertragungsnetzbetreiber.
 
 (2) Die Angaben nach § 18 Absatz 1 Nummer 2 sind anhand von gemessenen
 Werten nachzuweisen. Liegen im Zeitpunkt der Antragstellung noch keine
 gemessenen Werte vor, so genügen vorläufig prognostizierte Werte,
-sofern der Nachweis nach Ablauf von 36 Monaten anhand von gemessenen
-Werten nachgereicht wird.
+sofern der Nachweis nach Ablauf von 36 Monaten oder bei einem
+Wärmenetz, das nach dem 31. Dezember 2019 und vor dem 1. Juli 2021 in
+Betrieb genommen worden ist, innerhalb von 48 Monaten anhand von
+gemessenen Werten nachgereicht wird.
 
 (3) Der Antrag auf Zulassung ist nach der Inbetriebnahme des neuen
 oder ausgebauten Wärmenetzes bis zum 1. Juli des Kalenderjahres zu
@@ -2244,6 +2314,8 @@ installierten elektrischen KWK-Leistung der KWK-Anlage. Dem Neubau
 gleichgestellt ist die Umrüstung bestehender Behälter mit fabrikneuen
 Komponenten in einen Wärmespeicher.
 
+(5) § 13b ist entsprechend anzuwenden.
+
 
 ### § 23 Höhe des Zuschlags für den Neubau von Wärmespeichern
 
@@ -2309,17 +2381,31 @@ erfüllt. Der Antrag des Betreibers des Wärmespeichers muss enthalten:
 
 
 4.  einen Nachweis über das Vorliegen der Voraussetzungen nach § 22 Absatz
-    1 Nummer 1 bis 4 sowie über die Angaben nach § 23 Absatz 1 und 2 und
+    1 Nummer 1 bis 4 sowie über die Angaben nach § 23 Absatz 1 und 2,
 
 
-5.  Angaben zum zuständigen Übertragungsnetzbetreiber.
+5.  Angaben zum zuständigen Übertragungsnetzbetreiber,
+
+
+6.  eine Bestätigung, dass der Antragsteller kein Unternehmen in
+    Schwierigkeiten ist, und
+
+
+7.  eine Bestätigung, dass gegen den Antragsteller keine offenen
+    Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen
+    Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und
+    ihrer Unvereinbarkeit mit dem Europäischen Binnenmarkt bestehen.
 
 
 
-§ 10 Absatz 2 Nummer 1a bis 1d ist entsprechend anzuwenden. Die
-Zulassung ergeht gegenüber dem Betreiber des Wärmespeichers und dem
-für die Auszahlung des Zuschlags nach § 22 Absatz 3 zuständigen
-Übertragungsnetzbetreiber.
+Die Bestätigung nach Satz 2 Nummer 6 und 7 muss ferner eine
+Selbstverpflichtung des Antragstellers enthalten, jede Änderung des
+Inhalts der abgegebenen Bestätigungen bis zum Abschluss des
+Zulassungsverfahrens unverzüglich dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle mitzuteilen. § 10 Absatz 2 Satz 1 Nummer 1a bis 1d
+ist entsprechend anzuwenden. Die Zulassung ergeht gegenüber dem
+Betreiber des Wärmespeichers und dem für die Auszahlung des Zuschlags
+nach § 22 Absatz 3 zuständigen Übertragungsnetzbetreiber.
 
 (2) Die Einhaltung der allgemein anerkannten Regeln der Technik bei
 der Berechnung der Wärmeverluste nach Absatz 1 Satz 2 Nummer 3 wird
@@ -2366,427 +2452,29 @@ Die §§ 22, 23 und 24 sind für den Neubau von Kältespeichern
 entsprechend anzuwenden.
 
 
-## Abschnitt 6 - Regelungen zur Umlage der Kosten
+## Abschnitt 6 - Finanzierung und Begrenzung der Zuschlagszahlungen
 
 
-### § 26 KWKG-Umlage
+### § 26 Finanzierung der Zuschlagszahlungen
 
-(1) Die Netzbetreiber sind berechtigt, die Kosten für die nach diesem
-Gesetz erforderlichen Ausgaben bei der Berechnung der Netzentgelte als
-Aufschlag in Ansatz zu bringen (KWKG-Umlage).
+Die Finanzierung der Ausgaben der Netzbetreiber nach diesem Gesetz und
+nach aufgrund dieses Gesetzes erlassener Rechtsverordnungen bestimmt
+sich nach dem Energiefinanzierungsgesetz.
 
-(2) Werden die Netzentgelte nicht gesondert in Rechnung gestellt,
-können die Kosten nach Absatz 1 bei dem Gesamtpreis für den Strombezug
-entsprechend in Ansatz gebracht werden.
 
-(3) Die Netzbetreiber müssen für die Netzentgelte sowie für die KWKG-
-Umlage und die Zuschlagzahlungen getrennte Konten führen; § 6b Absatz
-3 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
+### § 27 Begrenzung der Zuschlagszahlungen
 
+(1) Der nach Anlage 1 des Energiefinanzierungsgesetzes ermittelte
+KWKG-Finanzierungsbedarf darf einen Betrag von 1,8 Milliarden Euro pro
+Kalenderjahr nicht überschreiten.
 
-### § 26a Ermittlung der KWKG-Umlage
-
-(1) Die Übertragungsnetzbetreiber ermitteln die KWKG-Umlage für das
-folgende Kalenderjahr transparent aus den Angaben nach Absatz 2 in
-Cent pro Kilowattstunde; hierbei müssen die Jahresendabrechnungen der
-vorangegangenen Kalenderjahre berücksichtigt werden.
-
-(2) Für die Ermittlung der KWKG-Umlage nach Absatz 1 müssen den
-Übertragungsnetzbetreibern die folgenden Daten mitgeteilt werden:
-
-1.  von den Netzbetreibern bis zum 31. August eines Kalenderjahres
-    elektronisch
-
-    a)  die für das folgende Kalenderjahr prognostizierten KWK-Strommengen für
-        Anlagen nach den §§ 6, 9, 13 und 35,
-
-
-    b)  die für das folgende Kalenderjahr prognostizierten KWK-Strommengen für
-        Anlagen nach den §§ 8a und 8b sowie die Höhe der entsprechenden
-        Ausschreibungszuschläge,
-
-
-    c)  die für das folgende Kalenderjahr prognostizierten auszuzahlenden Boni
-        nach den §§ 7a bis 7c,
-
-
-    d)  die Summe der prognostizierten Stromabgaben an alle Letztverbraucher
-        im Bereich ihres Netzes,
-
-
-    e)  die prognostizierten Stromabgaben an Letztverbraucher, die nach den §§
-        26, 27a, 27b oder § 27c Absatz 1 umlagepflichtig sind, und
-
-
-    f)  die prognostizierten Stromabgaben an Letztverbraucher, die der
-        Regelung des § 36 Absatz 3 unterfallen, sowie deren voraussichtliche
-        Umlagenhöhe,
-
-
-
-
-
-2.  vom Bundesamt für Wirtschaft und Ausfuhrkontrolle
-
-    a)  bis zum 15. September eines Kalenderjahres
-
-        aa) die zur Auszahlung für das folgende Kalenderjahr prognostizierte
-            Fördersumme für Wärme- und Kältenetze differenziert nach Regelzonen,
-
-
-        bb) die zur Auszahlung für das folgende Kalenderjahr prognostizierte
-            Fördersumme für Wärme- und Kältespeicher, differenziert nach
-            Regelzonen, und
-
-
-
-
-
-    b)  die von den stromkostenintensiven Unternehmen in den Anträgen nach §
-        66 des Erneuerbare-Energien-Gesetzes nach § 27 Absatz 3 Nummer 1
-        abgegebenen Prognosen unverzüglich nach Ablauf der Antragsfrist.
-
-
-
-
-
-
-Bei der Meldung nach Satz 1 Nummer 2 Buchstabe a hat das Bundesamt für
-Wirtschaft und Ausfuhrkontrolle Anträge, die aufgrund der Begrenzung
-der Zuschlagsumme nach § 29 Absatz 3 nicht berücksichtigt wurden, in
-der Zuschlagsumme für das jeweils nächste Kalenderjahr zu
-berücksichtigen. Für die Zwecke des Satzes 1 Nummer 1 teilen die
-Übertragungsnetzbetreiber die nach Satz 1 Nummer 2 Buchstabe b vom
-Bundesamt für Wirtschaft und Ausfuhrkontrolle erhaltenen Prognosedaten
-den zuständigen Netzbetreibern unverzüglich mit.
-
-(3) Die Übertragungsnetzbetreiber müssen bei der Ermittlung der KWKG-
-Umlage nach Absatz 1 die Sorgfalt eines ordentlichen und
-gewissenhaften Kaufmanns anwenden.
-
-(4) Werden erforderliche Daten nach Absatz 2 Satz 1 Nummer 1 nicht
-oder nicht fristgerecht den Übertragungsnetzbetreibern mitgeteilt,
-sind die Übertragungsnetzbetreiber berechtigt, die Daten für die
-Ermittlung der KWKG-Umlage zu schätzen.
-
-
-### § 26b Veröffentlichung der KWKG-Umlage
-
-(1) Die Übertragungsnetzbetreiber veröffentlichen bis zum 25. Oktober
-eines Kalenderjahres die KWKG-Umlage für das folgende Kalenderjahr auf
-ihren Internetseiten.
-
-(2) Bei der Veröffentlichung sind in nicht personenbezogener Form auch
-die Datengrundlagen, Annahmen, Rechenwege, Berechnungen und Endwerte
-anzugeben, die in die Ermittlung eingeflossen sind. Die Angaben müssen
-einen sachkundigen Dritten in die Lage versetzen, ohne weitere
-Informationen die Ermittlung der KWKG-Umlage vollständig
-nachzuvollziehen.
-
-
-### § 26c Geringfügige Stromverbräuche Dritter und Messung und Schätzung
-
-Die §§ 62a, 62b und 104 Absatz 10 und 11 des Erneuerbare-Energien-
-Gesetzes sind im Rahmen der Erhebung der KWKG-Umlage entsprechend
-anzuwenden.
-
-
-### § 27 Begrenzte KWKG-Umlage bei stromkostenintensiven Unternehmen
-
-(1) Für stromkostenintensive Unternehmen und für Rechtsträger nach
-§ 64a Absatz 8 des Erneuerbare-Energien-Gesetzes ist die KWKG-Umlage
-nach § 26 in den Kalenderjahren begrenzt, in denen die EEG-Umlage für
-sie begrenzt ist nach
-
-1.  § 63 Nummer 1 in Verbindung mit § 64 des Erneuerbare-Energien-Gesetzes
-    oder
-
-
-2.  § 63 Nummer 1a in Verbindung mit § 64a des Erneuerbare-Energien-
-    Gesetzes.
-
-
-
-In den Fällen des Satzes 1 Nummer 1 wird die Höhe der KWKG-Umlage in
-entsprechender Anwendung des § 64 Absatz 2 des Erneuerbare-Energien-
-Gesetzes mit den Maßgaben ermittelt, dass
-
-1.  die Bezugsgröße in § 64 Absatz 2 Nummer 2 des Erneuerbare-Energien-
-    Gesetzes die KWKG-Umlage ist und
-
-
-2.  abweichend von § 64 Absatz 2 Nummer 4 des Erneuerbare-Energien-
-    Gesetzes die Begrenzung nur insoweit erfolgt, dass die von dem
-    stromkostenintensiven Unternehmen zu zahlende KWKG-Umlage für den
-    Stromanteil über 1 Gigawattstunde den Wert von 0,03 Cent pro
-    Kilowattstunde nicht unterschreitet.
-
-
-
-In den Fällen des Satzes 1 Nummer 2 wird die Höhe der KWKG-Umlage in
-entsprechender Anwendung des § 64a Absatz 2 des Erneuerbare-Energien-
-Gesetzes mit den Maßgaben ermittelt, dass
-
-1.  die Bezugsgröße in § 64a Absatz 2 Satz 2 des Erneuerbare-Energien-
-    Gesetzes die KWKG-Umlage ist und
-
-
-2.  abweichend von § 64a Absatz 2 Satz 4 des Erneuerbare-Energien-Gesetzes
-    die Begrenzung nur insoweit erfolgt, dass die von dem
-    stromkostenintensiven Unternehmen oder dem Rechtsträger nach § 64a
-    Absatz 8 des Erneuerbare-Energien-Gesetzes zu zahlende KWKG-Umlage den
-    Wert von 0,03 Cent pro Kilowattstunde nicht unterschreitet.
-
-
-
-
-(2) Zur Erhebung der nach Absatz 1 begrenzten KWKG-Umlage sind
-abweichend von § 26 ausschließlich die Übertragungsnetzbetreiber
-berechtigt, die die Umlage als eigenständige Umlage erheben.
-
-(2a) Die Übertragungsnetzbetreiber sind ferner zur Erhebung der KWKG-
-Umlage als eigenständige Umlage berechtigt
-
-1.  für die Strommengen, die von einer nach Absatz 1 begrenzten
-    Abnahmestelle an eine nicht nach Absatz 1 begrenzte Abnahmestelle
-    weitergeleitet werden, oder
-
-
-2.  für die Strommengen an Abnahmestellen, für die für das betreffende
-    Kalenderjahr ein Antrag auf Begrenzung nach § 66 des Erneuerbare-
-    Energien-Gesetzes gestellt worden ist.
-
-
-
-
-(3) Unternehmen, die die Begrenzung nach Absatz 1 in Anspruch nehmen
-wollen, müssen abnahmestellenbezogen mitteilen
-
-1.  dem Bundesamt für Wirtschaft und Ausfuhrkontrolle im Rahmen der
-    Antragstellung nach § 66 des Erneuerbare-Energien-Gesetzes
-
-    a)  die für das folgende Kalenderjahr prognostizierten Strommengen, für
-        die die KWKG-Umlage begrenzt wird, aufgeschlüsselt nach
-        Kalendermonaten und Abnahmestellen,
-
-
-    b)  die für das folgende Kalenderjahr prognostizierten Strommengen, die an
-        den unter Buchstabe a genannten Abnahmestellen an Dritte
-        weitergeleitet werden,
-
-
-    c)  den für das folgende Kalenderjahr prognostizierten Höchstbetrag nach §
-        64 Absatz 2 Nummer 3 Buchstabe a oder b oder § 64a Absatz 2 Satz 3 des
-        Erneuerbare-Energien-Gesetzes und
-
-
-    d)  die Netzbetreiber, an deren Netz die unter Buchstabe a genannten
-        Abnahmestellen unmittelbar oder mittelbar angeschlossen sind,
-
-
-
-
-
-2.  den Übertragungsnetzbetreibern bis zum 31. Mai des auf die Begrenzung
-    folgenden Jahres elektronisch den im vorangegangen Kalenderjahr aus
-    dem Netz bezogenen und selbst verbrauchten Strom sowie an Dritte
-    weitergeleitete Strommengen; dies ist auch im Fall des Absatzes 2a
-    anzuwenden.
-
-
-
-§ 26a Absatz 4 ist entsprechend anzuwenden.
-
-(4) Die Übertragungsnetzbetreiber haben im Begrenzungsjahr für jede
-nach Absatz 1 begrenzte Abnahmestelle und jede Abnahmestelle, an der
-die Übertragungsnetzbetreiber nach Absatz 2a zur Erhebung der KWKG-
-Umlage berechtigt sind, Anspruch auf monatliche Abschlagszahlungen der
-KWKG-Umlage. Die Höhe der Abschlagszahlungen richtet sich nach den von
-den stromkostenintensiven Unternehmen prognostizierten und nach Absatz
-3 mitgeteilten Daten. Die Jahresendabrechnung, in der Abweichungen
-zwischen den prognostizierten und den tatsächlichen Werten
-auszugleichen sind, erfolgt bis zum 31. Juli des Folgejahres.
-Zahlungsansprüche aus der Jahresendabrechnung nach Satz 3 zugunsten
-oder zulasten der Übertragungsnetzbetreiber müssen innerhalb von zwei
-Monaten ausgeglichen werden.
-
-
-### § 27a Begrenzte KWKG-Umlage bei Anlagen zur Verstromung von Kuppelgasen
-
-(1) Für Unternehmen oder selbständige Teile eines Unternehmens wird
-die KWKG-Umlage nach § 26 für den selbst verbrauchten Stromanteil über
-1 Gigawattstunde, der in einer Anlage erzeugt wurde, die
-ausschließlich Strom mit Kuppelgasen nach § 104 Absatz 2 des
-Erneuerbare-Energien-Gesetzes erzeugt, auf 15 Prozent der nach § 26
-ermittelten Umlage begrenzt, wenn das Unternehmen
-
-1.  einer Branche nach Liste 1 der Anlage 4 des Erneuerbare-Energien-
-    Gesetzes zuzuordnen ist und
-
-
-2.  ein zertifiziertes Energie- oder Umweltmanagementsystem betreibt.
-
-
-
-
-(2) Unternehmen, die die Begrenzung nach Absatz 1 in Anspruch nehmen
-wollen, müssen dem zuständigen Netzbetreiber bis zum 31. März des auf
-die Begrenzung folgenden Jahres die in der Anlage nach Absatz 1 im
-vorangegangenen Kalenderjahr erzeugte und selbst verbrauchte
-Strommenge mitteilen.
-
-(3) Beträgt bei einem Unternehmen die Begrenzung nach Absatz 1 bezogen
-auf das letzte Kalenderjahr 500 000 Euro oder mehr, ist § 74a Absatz 3
-des Erneuerbare-Energien-Gesetzes mit der Maßgabe entsprechend
-anzuwenden, dass die Mitteilung an die Bundesnetzagentur bis zum 31.
-August des jeweiligen Folgejahres erfolgen muss.
-
-
-### § 27b Begrenzte KWKG-Umlage bei Stromspeichern
-
-Für Strom, der zum Zweck der Zwischenspeicherung in einem
-elektrischen, chemischen, mechanischen oder physikalischen
-Stromspeicher verbraucht wird, ist § 61l des Erneuerbare-Energien-
-Gesetzes mit der Maßgabe entsprechend anzuwenden, dass die
-Mitteilungen nach den §§ 74 und 74a des Erneuerbare-Energien-Gesetzes
-gegenüber dem zuständigen Netzbetreiber bis zum 31. März des auf die
-Begrenzung folgenden Jahres erfolgen müssen.
-
-
-### § 27c Begrenzte KWKG-Umlage bei Schienenbahnen
-
-(1) Für Schienenbahnen nach § 3 Nummer 40 des Erneuerbare-Energien-
-Gesetzes, deren Jahresverbrauch an einer Abnahmestelle mehr als 1
-Gigawattstunde beträgt, ist die KWKG-Umlage abweichend von § 26 so
-begrenzt, dass sich das Netzentgelt für selbst verbrauchte
-Strombezüge, die über 1 Gigawattstunde hinausgehen, an dieser
-Abnahmestelle aufgrund von § 26 höchstens um 0,04 Cent pro
-Kilowattstunde erhöhen darf. Übersteigen die Stromkosten für
-selbstverbrauchten Strom im letzten abgeschlossenen Geschäftsjahr 4
-Prozent des Umsatzes im Sinn von § 277 des Handelsgesetzbuches, darf
-sich das Netznutzungsentgelt für die über 1 Gigawattstunde
-hinausgehenden selbstverbrauchten Strombezüge aufgrund von § 26
-höchstens um 0,03 Cent pro Kilowattstunde erhöhen. Für die Definition
-der Abnahmestelle im Sinn dieses Paragrafen ist § 65 Absatz 7 Nummer 1
-des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden.
-
-(2) Schienenbahnen, deren nach Absatz 1 begrenzte Verbrauchsstellen
-sich in den Netzen mehrerer Netzbetreiber befinden, können durch
-Erklärung gegenüber den Übertragungsnetzbetreibern bestimmen, dass die
-Erhebung der KWKG-Umlage an den betroffenen Entnahmestellen durch die
-Übertragungsnetzbetreiber nach § 27 Absatz 2 bis 4 erfolgt. Die
-Erklärung muss spätestens bis zum 30. Juni eines Jahres erfolgen. Die
-Erhebung der KWKG-Umlage durch die Übertragungsnetzbetreiber erfolgt
-ab dem auf die Erklärung folgenden Kalenderjahr. Den betroffenen
-Netzbetreibern muss eine Abschrift der Erklärung unverzüglich von der
-Schienenbahn übermittelt werden.
-
-(3) § 27 Absatz 3 Nummer 2 ist mit den Maßgaben anzuwenden, dass die
-Meldung gegenüber dem zur Erhebung der KWKG-Umlage berechtigten
-Netzbetreiber zu erfolgen hat und im Fall des Absatzes 1 Satz 2
-zusätzlich zu den Strommengen auch das Verhältnis der Stromkosten zum
-handelsrechtlichen Umsatz mitzuteilen ist.
-
-
-### § 27d Herstellung von Grünem Wasserstoff
-
-Für Strom, der zur Herstellung von Grünem Wasserstoff verbraucht wird,
-verringert sich die KWKG-Umlage unabhängig vom Verwendungszweck des
-hergestellten Wasserstoffs nach Maßgabe des § 69b des Erneuerbare-
-Energien-Gesetzes und nach Maßgabe der Rechtsverordnung nach § 93 des
-Erneuerbare-Energien-Gesetzes auf null.
-
-
-### § 28 Belastungsausgleich
-
-(1) Die Netzbetreiber können für die in einem Kalenderjahr geleisteten
-Zuschlagzahlungen, finanziellen Förderungen und Boni einen
-finanziellen Ausgleich von dem vorgelagerten Übertragungsnetzbetreiber
-verlangen. Hierbei müssen sie etwaige Erlöse oder vermiedene
-Aufwendungen aus der Verwertung des kaufmännisch abgenommenen KWKG-
-Stroms nach § 4 Absatz 2 Satz 4 in Abzug bringen.
-
-(2) Die Übertragungsnetzbetreiber haben untereinander einen
-finanziellen Anspruch auf Belastungsausgleich, sofern sie bezogen auf
-die Einnahmen aus der KWKG-Umlage im Bereich ihres Netzes höhere
-Zahlungen zu leisten hatten als es dem Durchschnitt aller
-Übertragungsnetzbetreiber entspricht.
-
-(3) Die Übertragungsnetzbetreiber haben einen finanziellen Anspruch
-auf Belastungsausgleich gegen die ihnen unmittelbar oder mittelbar
-nachgelagerten Netzbetreiber in Höhe deren Einnahmen aus der KWKG-
-Umlage.
-
-(4) Auf die zu erwartenden Ausgleichsbeträge nach den Absätzen 1 bis 3
-sind aufgrund der nach § 26a Absatz 2 Satz 1 Nummer 1 mitgeteilten
-Daten monatliche Abschläge in zwölf gleichen Raten zu zahlen. Die
-Raten nach Satz 1 sind bis spätestens zum 15. des jeweiligen
-Folgemonats zu zahlen. Wenn ein Netzbetreiber die erforderlichen Daten
-nicht oder nicht rechtzeitig den Übertragungsnetzbetreibern mitgeteilt
-hat, richtet sich die Höhe der Abschläge nach der Schätzung der
-Übertragungsnetzbetreiber nach § 26a Absatz 4. Ein Anspruch des
-Netzbetreibers auf Anpassung der Abschläge besteht nur, wenn und
-soweit die Übertragungsnetzbetreiber für eine Abnahmestelle eine
-Mitteilung nach § 27 Absatz 3 Nummer 1 bei der Festlegung der Höhe des
-Abschlags berücksichtigt haben, das Unternehmen aber für diese
-Abnahmestelle im folgenden Jahr keine Begrenzung erhält.
-
-(5) Die Jahresendabrechnung des Belastungsausgleichs für das
-vorangegangene Kalenderjahr zwischen Netzbetreibern und
-Übertragungsnetzbetreibern sowie unter den Übertragungsnetzbetreibern
-erfolgt bis zum 30. November eines Kalenderjahres mit Wertstellung zum
-30\. Juni des darauf folgenden Kalenderjahres. Jeder Netzbetreiber muss
-den Übertragungsnetzbetreibern alle Daten, die für die
-Jahresendabrechnung des Belastungsausgleichs des vorangegangenen
-Kalenderjahres erforderlich sind, elektronisch bis zum 31. Juli eines
-Kalenderjahres zur Verfügung stellen, insbesondere
-
-1.  die Angabe der Stromabgaben an Letztverbraucher des vorangegangenen
-    Kalenderjahres im Bereich ihres Netzes insgesamt,
-
-
-2.  die Angabe der Stromabgaben an Letztverbraucher des vorangegangenen
-    Kalenderjahres im Bereich ihres Netzes, die nach den §§ 26, 27a, 27b
-    oder § 27c Absatz 1 umlagepflichtig gewesen sind,
-
-
-3.  die KWK-Strommengen für Anlagen nach den §§ 6, 9, 13 und 35,
-
-
-4.  die KWK-Strommengen für Anlagen nach den §§ 8a und 8b sowie die Höhe
-    der entsprechenden Ausschreibungszuschläge,
-
-
-5.  die Beträge für die Auszahlung der Boni nach den §§ 7a bis 7c und
-
-
-6.  die Beträge für die Förderung von Wärme- und Kältenetzen und von
-    Wärme- und Kältespeichern nach den §§ 18 bis 25 und 35.
-
-
-
-Die Daten können auch Kalenderjahre vor dem vorangegangenen
-Kalenderjahr betreffen und sind in diesem Fall gesondert auszuweisen.
-Für die Zwecke des Satzes 2 teilen die Übertragungsnetzbetreiber die
-nach § 27 Absatz 3 Satz 1 Nummer 2 erhaltenen Daten dem jeweils
-zuständigen Netzbetreiber unverzüglich mit.
-
-
-### § 29 Begrenzung der Höhe der KWKG-Umlage und der Zuschlagzahlungen
-
-(1) Die Summe der Zuschlagzahlungen für KWK-Strom aus neuen und
-bestehenden KWK-Anlagen nach den §§ 6 bis 13 und 35 und für Wärme- und
-Kältenetze sowie für Wärme- und Kältespeicher nach den §§ 18 bis 25
-und 35 darf einen Betrag von 1,8 Milliarden Euro je Kalenderjahr nicht
-überschreiten.
-
-(2) Die Summe der Zuschlagzahlungen für Wärme- und Kältenetze sowie
+(2) Die Summe der Zuschlagszahlungen für Wärme- und Kältenetze sowie
 Wärme- und Kältespeicher nach den §§ 18 bis 25 darf 150 Millionen Euro
-je Kalenderjahr nicht überschreiten, es sei denn, die Einhaltung der
+pro Kalenderjahr nicht überschreiten, es sei denn, die Einhaltung der
 Summe nach Absatz 1 kann unter Berücksichtigung der gemeldeten
-Prognosedaten nach § 26a Absatz 2 Satz 1 Nummer 1 für
-Zuschlagzahlungen für KWK-Strom und einer höheren Summe für Wärme- und
-Kältenetze sowie Wärme- und Kältespeicher insgesamt gewährleistet
+Prognosedaten nach § 50 Nummer 3 des Energiefinanzierungsgesetzes für
+Zuschlagszahlungen für KWK-Strom und einer höheren Summe für Wärme-
+und Kältenetze sowie Wärme- und Kältespeicher insgesamt gewährleistet
 werden. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erteilt die
 Zulassungsbescheide
 
@@ -2803,39 +2491,33 @@ Zulassungsbescheide
 
 
 
-Darüber hinausgehende Beträge werden in der Reihenfolge der
-Antragstellung zur Auszahlung in den Folgejahren beschieden. Die
-Auszahlung der Zuschlagzahlungen durch die Übertragungsnetzbetreiber
-erfolgt in dem im Zulassungsbescheid ausgewiesenen Kalenderjahr und
-Kalendermonat.
 
-(3) Droht auf Grundlage der gemeldeten Prognosedaten nach § 26a Absatz
-2 Satz 1 Nummer 1 und 2 im folgenden Kalenderjahr eine Überschreitung
-der Obergrenze nach Absatz 1, so werden die Zuschlagzahlungen für alle
-KWK-Anlagen nach den §§ 6 und 13 mit einer elektrischen KWK-Leistung
-von mehr als 2 Megawatt entsprechend für das folgende Kalenderjahr
-gekürzt.
+(3) Droht auf Grundlage der nach § 51 Absatz 7 des
+Energiefinanzierungsgesetzes gemeldeten Prognosedaten nach § 50 Nummer
+3 und § 57 Satz 1 Nummer 1 und 2 des Energiefinanzierungsgesetzes im
+folgenden Kalenderjahr eine Überschreitung der Obergrenze nach Absatz
+1, so werden die Zuschlagszahlungen für alle KWK-Anlagen nach § 6 mit
+einer elektrischen KWK-Leistung von mehr als 2 Megawatt entsprechend
+für das folgende Kalenderjahr gekürzt.
 
-(3a) Die Zuschlagzahlungen für KWK-Strom aus KWK-Anlagen, deren
+(4) Die Zuschlagszahlungen für KWK-Strom aus KWK-Anlagen, deren
 Förderung durch Ausschreibungen nach § 8a oder § 8b ermittelt worden
 ist, sind gegenüber der sonstigen Förderung nach diesem Gesetz
 vorrangig und werden nicht nach Absatz 3 gekürzt.
 
-(4) Die Übertragungsnetzbetreiber übermitteln dem Bundesamt für
-Wirtschaft und Ausfuhrkontrolle die zur Ermittlung der Kürzung der
-Zuschlagzahlungen nach Absatz 3 erforderlichen Daten auf Grundlage der
-gemeldeten Prognosedaten nach § 26a Absatz 2 Satz 1 Nummer 1 und 2 bis
-zum 30. September eines jeden Jahres, und zwar in nicht
-personenbezogener Form. Das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle ermittelt die entsprechenden Kürzungssätze und
-veröffentlicht diese bis zum 20. Oktober eines jeden Jahres im
-Bundesanzeiger.
+(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ermittelt die
+entsprechenden Kürzungssätze und veröffentlicht diese bis zum 20.
+Oktober eines jeden Jahres im Bundesanzeiger.
 
-(5) Die gekürzten Zuschlagzahlungen für den geförderten KWK-Strom
+(6) Die gekürzten Zuschlagszahlungen für den geförderten KWK-Strom
 werden in den Folgejahren in der Reihenfolge der Zulassung an die
 betreffenden Anlagenbetreiber nachgezahlt. Die Nachzahlungen erfolgen
 in der Reihenfolge der Anspruchsentstehung vorrangig vor den
 Ansprüchen auf KWK-Zuschlag der KWK-Anlagen aus dem Prognosejahr.
+
+
+### (XXXX) §§ 27a bis 29 (weggefallen)
+
 
 
 ## Abschnitt 7 - Sonstige Vorschriften
@@ -2870,46 +2552,19 @@ oder einer Buchprüfungsgesellschaft geprüft sein:
 
 4.  die Angaben der Betreiber von Wärme- oder Kältespeichern mit einem
     Volumen von mehr als 100 Kubikmetern Wasseräquivalent nach § 22 Absatz
-    1 Nummer 1 bis 3, § 23 Absatz 1 Satz 1 und § 24 Absatz 6,
-
-
-5.  die Abrechnung der stromkostenintensiven Unternehmen nach § 27 Absatz
-    3 Nummer 2, sofern die Übertragungsnetzbetreiber deren Prüfung
-    verlangen,
-
-
-6.  die Zugehörigkeit zu einer Branche nach Liste 1 der Anlage 4 des
-    Erneuerbare-Energien-Gesetzes, das Vorhandensein eines gültigen DIN EN
-    ISO-50001-Zertifikates oder eines gültigen Eintragungs- oder
-    Verlängerungsbescheides der EMAS-Registrierungsstelle über die
-    Eintragung in das EMAS-Register sowie die Bestätigung, welche selbst
-    verbrauchte Strommenge in einer Anlage erzeugt wurde, die
-    ausschließlich Strom mit Kuppelgasen erzeugt nach § 27a Absatz 1,
-
-
-7.  der Nachweis der Unternehmen zum Verhältnis der Stromkosten zu den
-    Umsatzerlösen nach § 27c Absatz 1,
-
-
-8.  die Abrechnung unter den Übertragungsnetzbetreibern nach § 28 Absatz 5
-    Satz 1,
-
-
-9.  die Abrechnung der Netzbetreiber nach § 28 Absatz 5 Satz 2, sofern die
-    Übertragungsnetzbetreiber auf Grund der nicht unerheblichen Bedeutung
-    für den Belastungsausgleich die Prüfung verlangen.
+    1 Nummer 1 bis 3, § 23 Absatz 1 Satz 1 und § 24 Absatz 6.
 
 
 
 
 (2) Zu den Prüfungen nach Absatz 1 muss jeweils ein gesonderter
 Prüfungsvermerk erteilt und vorgelegt werden. Werden die Abrechnungen
-nach Absatz 1 Nummer 2, 5, 7 und 8, die Anträge im Hinblick auf die
-Angaben nach Absatz 1 Nummer 3 und 4 oder der Nachweis nach Absatz 1
-Nummer 6 nach Erteilung des Prüfvermerks geändert, muss der Prüfer,
-der die ursprüngliche Prüfung durchgeführt hat, diese Unterlagen
-erneut prüfen, soweit es die Änderung erforderlich macht. Der
-Prüfungsvermerk ist um das Ergebnis der Nachtragsprüfung zu ergänzen.
+nach Absatz 1 Nummer 2 und die Anträge im Hinblick auf die Angaben
+nach Absatz 1 Nummer 3 und 4 nach Erteilung des Prüfvermerks geändert,
+muss der Prüfer, der die ursprüngliche Prüfung durchgeführt hat, diese
+Unterlagen erneut prüfen, soweit es die Änderung erforderlich macht.
+Der Prüfungsvermerk ist um das Ergebnis der Nachtragsprüfung zu
+ergänzen.
 
 (3) Für die Prüfungen nach den Absätzen 1 und 2 sind § 319 Absatz 2
 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des
@@ -3003,41 +2658,24 @@ zuständig.
 
 (1) Die Bundesnetzagentur hat unbeschadet weiterer Aufgaben, die ihr
 in diesem Gesetz oder in aufgrund dieses Gesetzes erlassenen
-Rechtsverordnungen übertragen werden, die Aufgabe zu überwachen, dass
+Rechtsverordnungen übertragen werden, die Aufgabe, zu überwachen, dass
 
 1.  die Übertragungsnetzbetreiber
 
-    a)  die KWKG-Umlage nach den §§ 26a und 26b ordnungsgemäß ermitteln,
-        festlegen und veröffentlichen,
-
-
-    b)  die KWKG-Umlage nach den §§ 27 und 27c Absatz 2 ordnungsgemäß erheben,
-
-
-    c)  für Wärme- und Kältenetze sowie Wärme- und Kältespeicher nur die
-        Zuschlagzahlungen nach den §§ 18, 21, 22 und 25 leisten und
-
-
-    d)  den Belastungsausgleich nach § 28 durchführen,
-
-
-
-
-
-2.  die Netzbetreiber
-
-    a)  für KWK-Anlagen und innovative KWK-Systeme nur die Zuschlagzahlungen
+    a)  für KWK-Anlagen und innovative KWK-Systeme nur die Zuschlagszahlungen
         nach den §§ 5 bis 8b und 13 leisten und den Strom nach § 4 abnehmen,
 
 
-    b)  die KWKG-Umlage nach den §§ 26, 27a, 27b und 27c Absatz 1 und § 36
-        ordnungsgemäß erheben und
-
-
-    c)  den Belastungsausgleich nach § 28 durchführen.
+    b)  für Wärme- und Kältenetze sowie für Wärme- und Kältespeicher nur die
+        Zuschlagszahlungen nach den §§ 18, 21, 22 und 25 leisten,
 
 
 
+
+
+2.  die Netzbetreiber für KWK-Anlagen und innovative KWK-Systeme nur die
+    Zuschlagszahlungen nach den §§ 5 bis 8b und 13 leisten und den Strom
+    nach § 4 abnehmen.
 
 
 
@@ -3055,13 +2693,28 @@ Wärme- und Kältespeichern möglich, die keine Unternehmen sind.
 (3) (weggefallen)
 
 
-### § 32 (weggefallen)
+### § 32 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
 
+(1) Der Bundesgerichtshof muss die Bundesnetzagentur über alle
+bürgerlichen Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben,
+unterrichten. Er muss der Bundesnetzagentur auf Verlangen Abschriften
+von allen Schriftsätzen, Protokollen, Verfügungen und Entscheidungen
+übersenden.
+
+(2) Der Präsident oder die Präsidentin der Bundesnetzagentur kann,
+wenn er oder sie es zur Wahrung des öffentlichen Interesses als
+angemessen erachtet, aus den Mitgliedern der Regulierungsbehörde eine
+Vertretung bestellen, die befugt ist, dem Bundesgerichtshof
+schriftliche Erklärungen abzugeben, auf Tatsachen und Beweismittel
+hinzuweisen, den Terminen beizuwohnen, in ihnen Ausführungen zu machen
+und Fragen an Parteien, Zeugen und Sachverständige zu richten.
+Schriftliche Erklärungen der vertretenden Personen sind den Parteien
+von dem Bundesgerichtshof mitzuteilen.
 
 
 ### § 32a Clearingstelle
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann zur
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann zur
 Vermeidung und Beilegung von Streitigkeiten eine Clearingstelle
 einrichten und den Betrieb auf den Betreiber der Clearingstelle nach §
 81 des Erneuerbare-Energien-Gesetzes oder eine andere juristische
@@ -3166,9 +2819,9 @@ Clearingstelle ermöglichen,
 Die Verfahrensvorschriften können Regelungen zur Zusammenarbeit mit
 den Behörden nach Absatz 2 enthalten. Erlass und Änderungen der
 Verfahrensvorschriften bedürfen der vorherigen Zustimmung des
-Bundesministeriums für Wirtschaft und Energie. Die Durchführung der
-Verfahren steht jeweils unter dem Vorbehalt der vorherigen Zustimmung
-der Verfahrensparteien zu den Verfahrensvorschriften.
+Bundesministeriums für Wirtschaft und Klimaschutz. Die Durchführung
+der Verfahren steht jeweils unter dem Vorbehalt der vorherigen
+Zustimmung der Verfahrensparteien zu den Verfahrensvorschriften.
 
 (8) Die Wahrnehmung der Aufgaben nach diesem Paragrafen ist keine
 Rechtsdienstleistung im Sinn des § 2 Absatz 1 des
@@ -3228,11 +2881,9 @@ Bundestages
 2.  die Zuschlagzahlungen für KWK-Strom, der nicht in ein Netz der
     allgemeinen Versorgung eingespeist wird, anzupassen und auf andere als
     auf die in § 6 Absatz 3 und § 7 Absatz 2 und 3 genannten
-    Leistungsklassen und Einsatzbereiche auszudehnen, soweit dieser Strom
-    durch die EEG-Umlage für Letztverbraucher und Eigenversorger nach § 61
-    Absatz 1 des Erneuerbare-Energien-Gesetzes belastet wird und die
-    Anpassung oder Ausdehnung erforderlich ist, um einen wirtschaftlichen
-    Betrieb der Anlage zu ermöglichen, und
+    Leistungsklassen und Einsatzbereiche auszudehnen, soweit die Anpassung
+    oder Ausdehnung erforderlich ist, um einen wirtschaftlichen Betrieb
+    der Anlage zu ermöglichen, und
 
 
 3.  Zuschlagzahlungen für bestehende KWK-Anlagen einzuführen, welche KWK-
@@ -3246,9 +2897,9 @@ Bundestages
 
 
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf,
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf,
 
 1.  (weggefallen)
 
@@ -3325,8 +2976,13 @@ vorzusehen
 
 
     h)  zu Anforderungen an Gebote und zum Ausschluss von Bietern und Geboten
-        insbesondere für den Fall, dass Gebote nicht den Anforderungen
-        entsprechen oder bei begründetem Verdacht auf missbräuchliche Gebote,
+        und zum Widerruf von Zuschlägen insbesondere für den Fall, dass Gebote
+        nicht den Anforderungen entsprechen oder bei begründetem Verdacht auf
+        missbräuchliche Gebote oder Gebote, an denen unionsfremde Bieter im
+        Sinn des § 2 Nummer 19 des Außenwirtschaftsgesetzes beteiligt sind,
+        wenn durch den Betrieb der gebotsgegenständlichen Anlage die
+        öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland
+        voraussichtlich beeinträchtigt würden,
 
 
 
@@ -3528,6 +3184,12 @@ vorzusehen
 
 
 
+11a. zu den Voraussetzungen der Rückgabe von Ausschreibungszuschlägen für
+    Standorte, die nach § 2 Absatz 2 der Aufbauhilfeverordnung 2021 vom
+    15\. September 2021 (BGBl. I S. 4214) durch den Starkregen und das
+    Hochwasser im Juli 2021 betroffen gelten,
+
+
 12. zu den nach den Nummern 1 bis 11 zu übermittelnden Informationen und
     dem Schutz der in diesem Zusammenhang übermittelten personenbezogenen
     Daten, insbesondere Aufklärungs-, Auskunfts-, Übermittlungs- und
@@ -3667,8 +3329,8 @@ Zustimmung des Bundesrates
     bis 3 und
 
 
-3.  das Bundesministerium für Wirtschaft und Energie zu ermächtigen, im
-    Rahmen von Kooperationsvereinbarungen nach § 1 Absatz 6 mit den
+3.  das Bundesministerium für Wirtschaft und Klimaschutz zu ermächtigen,
+    im Rahmen von Kooperationsvereinbarungen nach § 1 Absatz 6 mit den
     anderen Mitgliedstaaten der Europäischen Union unter Berücksichtigung
     der Vorgaben nach § 1
 
@@ -3944,6 +3606,12 @@ vorzusehen
     1 Nummer 11 genannten Regelungen,
 
 
+12a. zu den Voraussetzungen der Rückgabe von Förderberechtigungen für
+    Standorte, die nach § 2 Absatz 2 der Aufbauhilfeverordnung 2021 vom
+    15\. September 2021 (BGBl. I S. 4214) durch den Starkregen und das
+    Hochwasser im Juli 2021 als betroffen gelten,
+
+
 13. zu den im Zusammenhang mit den Nummern 1 bis 12 zu übermittelnden
     Informationen und dem Schutz der in diesem Zusammenhang übermittelten
     personenbezogenen Daten, insbesondere Aufklärungs-, Auskunfts-,
@@ -4002,22 +3670,22 @@ nicht der Zustimmung des Bundesrates oder des Bundestages.
 
 ### § 34 Evaluierungen
 
-(1) Das Bundesministerium für Wirtschaft und Energie überprüft
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft
 jährlich die Angemessenheit der Höhe der Zuschlagzahlungen für KWK-
 Anlagen, um zu gewährleisten, dass die Zuschläge die Differenz
 zwischen den Gesamtgestehungskosten der Stromerzeugung der KWK-Anlagen
 und dem Marktpreis nicht überschreiten. Im Fall einer drohenden
 Überschreitung der Differenz nach Satz 1 informiert das
-Bundesministerium für Wirtschaft und Energie den Deutschen Bundestag
-bis spätestens zum 31. August eines jeden Jahres und schlägt
+Bundesministerium für Wirtschaft und Klimaschutz den Deutschen
+Bundestag bis spätestens zum 31. August eines jeden Jahres und schlägt
 gegebenenfalls eine gesetzliche Anpassung vor. In den Jahren 2021 und
-2022 überprüft das Bundesministerium für Wirtschaft und Energie auch,
-ob und in welchem Umfang die zum 1. Januar 2023 in Kraft tretende
-Anhebung der Vergütung nach § 7 Absatz 1 Nummer 5 angemessen und
-erforderlich ist, und schlägt dem Deutschen Bundestag gegebenenfalls
-eine gesetzliche Anpassung vor.
+2022 überprüft das Bundesministerium für Wirtschaft und Klimaschutz
+auch, ob und in welchem Umfang die zum 1. Januar 2023 in Kraft
+tretende Anhebung der Vergütung nach § 7 Absatz 1 Nummer 5 angemessen
+und erforderlich ist, und schlägt dem Deutschen Bundestag
+gegebenenfalls eine gesetzliche Anpassung vor.
 
-(2) Das Bundesministerium für Wirtschaft und Energie führt im Jahr
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz führt im Jahr
 2017, im Jahr 2022, im Jahr 2025 sowie im Jahr 2029 eine umfassende
 Evaluierung der Entwicklung der KWK-Stromerzeugung in Deutschland
 durch, insbesondere mit Blick auf
@@ -4062,38 +3730,39 @@ bereits eingetretener und sich abzeichnender Entwicklungen bei der
 KWK-Stromerzeugung. Im Hinblick auf die Erreichung der
 klimapolitischen Ziele der Bundesregierung erfolgt die
 Zwischenüberprüfung in Abstimmung mit dem Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit. Falls absehbar die
-Erreichung der Ziele nach § 1 gefährdet ist oder aus der Evaluierung
-nach Satz 1 Nummer 7 Änderungsbedarf resultiert, wird die
+Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Falls
+absehbar die Erreichung der Ziele nach § 1 gefährdet ist oder aus der
+Evaluierung nach Satz 1 Nummer 7 Änderungsbedarf resultiert, wird die
 Bundesregierung dem Deutschen Bundestag die erforderlichen Maßnahmen
 vorschlagen.
 
-(3) Das Bundesministerium für Wirtschaft und Energie evaluiert ferner
-im Jahr 2021 die Erfahrungen mit den Ausschreibungen nach den §§ 8a
-und 8b.
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert
+ferner im Jahr 2021 die Erfahrungen mit den Ausschreibungen nach den
+§§ 8a und 8b.
 
 (4) Die Bundesnetzagentur, das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle und das Umweltbundesamt unterstützen das
-Bundesministerium für Wirtschaft und Energie bei der Erstellung der
-Überprüfungen und Evaluierungen nach den Absätzen 1 bis 3. Zur
-Unterstützung soll das Bundesministerium für Wirtschaft und Energie
-außerdem wissenschaftliche Gutachten in Auftrag geben.
+Bundesministerium für Wirtschaft und Klimaschutz bei der Erstellung
+der Überprüfungen und Evaluierungen nach den Absätzen 1 bis 3. Zur
+Unterstützung soll das Bundesministerium für Wirtschaft und
+Klimaschutz außerdem wissenschaftliche Gutachten in Auftrag geben.
 
 (5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt,
 die nach den §§ 10, 11, 15, 20, 21, 24 und 25 erhobenen und die nach §
 17 an das Statistische Bundesamt zu übermittelnden Daten dem
-Bundesministerium für Wirtschaft und Energie zu Zwecken der
+Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der
 Überprüfung und Evaluierung nach den Absätzen 1 bis 3 in nicht
 personenbezogener Form zu übermitteln. Die Bundesnetzagentur ist
 berechtigt, die im Rahmen der Ausschreibungen nach den §§ 8a und 8b
-erhobenen Daten dem Bundesministerium für Wirtschaft und Energie zu
-Zwecken der Evaluierung nach Absatz 3 zu übermitteln. Das
-Bundesministerium für Wirtschaft und Energie darf die nach den Sätzen
-1 und 2 erlangten Daten an beauftragte Dritte zu Zwecken der
+erhobenen Daten dem Bundesministerium für Wirtschaft und Klimaschutz
+zu Zwecken der Evaluierung nach Absatz 3 zu übermitteln. Das
+Bundesministerium für Wirtschaft und Klimaschutz darf die nach den
+Sätzen 1 und 2 erlangten Daten an beauftragte Dritte zu Zwecken der
 Überprüfung und Evaluierung nach den Absätzen 1 bis 3 übermitteln.
-Daten, die Geschäftsgeheimnisse darstellen, dürfen an beauftragte
-Dritte nur übermittelt werden, wenn ein Bezug zu dem Unternehmen nicht
-mehr hergestellt werden kann.
+Daten, die Geschäftsgeheimnisse darstellen, dürfen ohne
+Geheimhaltungsvereinbarung an beauftragte Dritte nur übermittelt
+werden, wenn ein Bezug zu dem Unternehmen nicht mehr hergestellt
+werden kann.
 
 
 ### § 35 Übergangsbestimmungen
@@ -4188,29 +3857,14 @@ Wärme- und Kältenetze, für die nach dem 31. Dezember 2015
 Zulassungsbescheide erteilt worden sind, erfolgt durch den zuständigen
 Übertragungsnetzbetreiber.
 
-(8) Für Ansprüche der Betreiber von Wärme- und Kältespeichern auf
-Zahlung eines Zuschlags sind die §§ 5b, 6b und 7b des Kraft-Wärme-
-Kopplungsgesetzes sowie die diesbezüglichen Begriffsbestimmungen in
-der Fassung vom 19. März 2002 (BGBl. I S. 1092), das zuletzt durch
-Artikel 331 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
-geändert worden ist, anzuwenden, wenn der vollständige Antrag nach §
-6b bis zum 31. Dezember 2015 bei dem Bundesamt für Wirtschaft und
-Ausfuhrkontrolle eingegangen ist. Die Auszahlung der Zuschläge für
-Wärme- und Kältespeicher, für die nach dem 31. Dezember 2015
-Zulassungsbescheide erteilt worden sind, erfolgt durch den zuständigen
-Übertragungsnetzbetreiber.
+(8) Für Ansprüche der Betreiber von KWK-Anlagen auf Zahlung eines
+Zuschlags ist § 6 Absatz 1 Satz 1 Nummer 2 in der am 31. Dezember 2022
+geltenden Fassung anzuwenden, wenn die Inbetriebnahme dieser Anlagen
+bis zum 31. Dezember 2023 erfolgt ist.
 
-(9) Für die Ansprüche der Betreiber von KWK-Anlagen oder KWKK-Anlagen
-auf Anbringung der Messeinrichtungen ist § 8 Absatz 1 Satz 4 des
-Kraft-Wärme-Kopplungsgesetzes in der Fassung vom 19. März 2002 (BGBl.
-I S. 1092), das zuletzt durch Artikel 331 der Verordnung vom 31.
-August 2015 (BGBl. I S. 1474) geändert worden ist, bis zum 30. Juni
-2016 anzuwenden.
+(9) (weggefallen)
 
-(10) Für den Aufschlag auf die Netzentgelte für das Jahr 2016 ist der
-von den Übertragungsnetzbetreibern am 23. Oktober 2015 auf Grundlage
-der parlamentarischen Beratungen veröffentlichte indikative Wert
-maßgebend. § 27 Absatz 2 findet hierbei Anwendung.
+(10) (weggefallen)
 
 (11) Im Fall der Kürzung der Zuschlagzahlung nach § 29 Absatz 3 sind
 KWK-Anlagen mit einer elektrischen KWK-Leistung von 2 bis 10 Megawatt
@@ -4219,12 +3873,7 @@ von der Kürzung ausgenommen, wenn die Anlagen bis zum 31. Dezember
 
 (12) (weggefallen)
 
-(13) Für Ansprüche der Betreiber von Wärme- und Kältenetzen auf
-Zahlung eines Zuschlags sind die §§ 18 und 21 sowie die
-diesbezüglichen Begriffsbestimmungen des Kraft-Wärme-Kopplungsgesetzes
-in der am 31. Dezember 2016 geltenden Fassung anzuwenden, wenn der
-vollständige Antrag auf Zulassung nach § 20 bis zum 31. Dezember 2016
-bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle eingegangen ist.
+(13) (weggefallen)
 
 (14) Abweichend von den §§ 8a und 8b können Betreiber von KWK-Anlagen
 auch Ansprüche nach den §§ 6 bis 8 sowie den diesbezüglichen
@@ -4344,18 +3993,19 @@ der Maßgabe anzuwenden, dass der Zuschlag für KWK-Strom bis zu einer
 Strommenge gewährt wird, die maximal der Stromerzeugung der KWK-Anlage
 in der Hälfte der nach § 8 insgesamt vorgesehenen förderfähigen
 Vollbenutzungsstunden entspricht, auch wenn auf diesen Strom die §§
-61e bis 61g und § 104 Absatz 4 des Erneuerbare-Energien-Gesetzes
-anzuwenden sind, wenn für das Vorhaben ein Vorbescheid bis zum 31.
-Dezember 2019 beantragt worden ist. Abweichend von Satz 1 ist § 15
-Absatz 4 Satz 3 ab dem 1. Januar 2020 auch auf KWK-Anlagen mit einer
-elektrischen Leistung von bis zu 50 Kilowatt anzuwenden, die bis zum
-13\. August 2020 in Dauerbetrieb genommen worden sind. Abweichend von
-Satz 4 ist § 15 Absatz 4 Satz 3 auch schon vor dem 1. Januar 2020 auf
-KWK-Anlagen anzuwenden, die bis zum 13. August 2020 in Dauerbetrieb
-genommen worden sind, soweit für das betreffende Kalenderjahr noch
-keine Mitteilung nach § 15 Absatz 4 des Kraft-Wärme-Kopplungsgesetzes
-in der am 13. August 2020 geltenden Fassung durch den Betreiber der
-KWK-Anlage erfolgt ist. Soweit in den Fällen des Satzes 4 und 5 § 15
+61e bis 61g und § 104 Absatz 4 des Erneuerbare-Energien-Gesetzes in
+der am 31. Dezember 2022 geltenden Fassung anzuwenden sind, wenn für
+das Vorhaben ein Vorbescheid bis zum 31. Dezember 2019 beantragt
+worden ist. Abweichend von Satz 1 ist § 15 Absatz 4 Satz 3 ab dem 1.
+Januar 2020 auch auf KWK-Anlagen mit einer elektrischen Leistung von
+bis zu 50 Kilowatt anzuwenden, die bis zum 13. August 2020 in
+Dauerbetrieb genommen worden sind. Abweichend von Satz 4 ist § 15
+Absatz 4 Satz 3 auch schon vor dem 1. Januar 2020 auf KWK-Anlagen
+anzuwenden, die bis zum 13. August 2020 in Dauerbetrieb genommen
+worden sind, soweit für das betreffende Kalenderjahr noch keine
+Mitteilung nach § 15 Absatz 4 des Kraft-Wärme-Kopplungsgesetzes in der
+am 13. August 2020 geltenden Fassung durch den Betreiber der KWK-
+Anlage erfolgt ist. Soweit in den Fällen des Satzes 4 und 5 § 15
 Absatz 4 Satz 3 anzuwenden ist, ist auch § 7 Absatz 5 Satz 2 mit der
 Maßgabe entsprechend anzuwenden, dass § 7 Absatz 7 des Kraft-Wärme-
 Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung auf KWK-
@@ -4370,13 +4020,6 @@ dem 1. Januar 2023 in Betrieb genommen worden sind.
 Nummer 1 Buchstabe b dürfen erst nach der beihilferechtlichen
 Genehmigung durch die Europäische Kommission und nur nach Maßgabe der
 Genehmigung angewandt werden.
-
-(19a) Die Verlängerung der Frist in § 18 Absatz 1 Nummer 2 auf 48
-Monate für Wärmenetze, die nach dem 31. Dezember 2019 und vor dem 1.
-Juli 2021 in Betrieb genommen worden sind, durch Artikel 12 Nummer 13
-des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) darf erst nach der
-beihilferechtlichen Genehmigung durch die Europäische Kommission und
-nur nach Maßgabe der Genehmigung angewandt werden.
 
 (20) § 7 Absatz 1 Satz 1 Nummer 5 ist anzuwenden auf KWK-Anlagen, die
 nach dem 31. Dezember 2020 den Dauerbetrieb aufgenommen oder nach
@@ -4404,111 +4047,21 @@ als 500 Kilowatt bis einschließlich 1 Megawatt,
 
 
 
-
-### § 36 Übergangsbestimmungen zur Begrenzung der KWKG-Umlage
-
-(1) Die zu zahlende KWKG-Umlage beträgt abweichend von § 26 Absatz 2
-des Kraft-Wärme-Kopplungsgesetzes in der am 31. Dezember 2016
-geltenden Fassung 0,056 Cent pro Kilowattstunde für im Jahr 2016
-bezogene und selbst verbrauchte Strommengen an Abnahmestellen,
-
-1.  für die im Jahr 2016 die Voraussetzungen des § 27 Absatz 1 des Kraft-
-    Wärme-Kopplungsgesetzes in der am 1. Januar 2017 geltenden Fassung
-    nicht vorlagen und
+(22) Sofern nach § 7c Absatz 1 Satz 2 Nummer 2 eine Stilllegung der
+bestehenden KWK-Anlagen oder in den Fällen des § 7c Absatz 3 des
+bestehenden Dampferzeugers spätestens zwischen dem 1. Januar 2022 und
+dem 1. April 2024 zu erfolgen hat, ist § 7c Absatz 1 Satz 2 Nummer 2
+nicht anzuwenden und die bestehende KWK-Anlage oder in den Fällen des
+§ 7c Absatz 3 der bestehende Dampferzeuger muss stattdessen bis zum
+Ablauf des 31. März 2024 endgültig stillgelegt sein.
 
 
-2.  für die der Letztverbraucher eine Begrenzung der KWKG-Umlage nach § 26
-    Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der am 31. Dezember 2016
-    geltenden Fassung auf 0,03 Cent je Kilowattstunde in Anspruch genommen
-    hat oder hätte nehmen können.
+### § 36 (weggefallen)
 
 
 
-Satz 1 ist nur anzuwenden, wenn und soweit durch die Privilegierung
-von der Pflicht zur Zahlung der KWKG-Umlage in den Jahren 2014 bis
-2016 die Begünstigung des Letztverbrauchers sowie der im Sinn der
-Verordnung (EU) Nr. 1407/2013 mit ihm verbundenen Unternehmen den Wert
-von insgesamt 160 000 Euro übersteigt. Soweit sich im Rahmen der
-Endabrechnung der KWKG-Umlage für das Jahr 2016 nach den Sätzen 1 und
-2 eine Pflicht zur Nachzahlung ergibt, ist die Nachzahlung ab dem Tag
-der Endabrechnung für das Jahr 2016 nach § 352 Absatz 2 des
-Handelsgesetzbuchs zu verzinsen.
+### § 37 (weggefallen)
 
-(2) Letztverbraucher, die zu einer Nachzahlung nach Absatz 1
-verpflichtet sind, müssen dem zuständigen Netzbetreiber bis zum 31.
-März 2017 den im Jahr 2016 aus dem Netz bezogenen und
-selbstverbrauchten Strom sowie das Verhältnis der Stromkosten zum
-handelsrechtlichen Umsatz melden. Netzbetreiber, die Nachzahlungen
-nach Absatz 1 erhalten haben, melden dem jeweiligen
-Übertragungsnetzbetreiber auf Anforderung die Namen der zahlenden
-Letztverbraucher, deren Stromverbrauch im Jahr 2016, den nachgezahlten
-oder nachzuzahlenden Betrag in Euro und den Zahlungsstatus. Erhaltene
-Nachzahlungen sind im Rahmen der jeweiligen Jahresendabrechnung nach §
-28 Absatz 5 anzurechnen.
-
-(3) Für Letztverbraucher, die im Jahr 2016 bei Anwendung des § 26
-Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der am 31. Dezember 2016
-geltenden Fassung berechtigt gewesen wären, für den Jahresverbrauch an
-einer Abnahmestelle die dort geregelte Begünstigung in Anspruch zu
-nehmen, darf sich in den Jahren 2017 und 2018 die nach § 26 Absatz 1
-erhobene KWKG-Umlage für den 1 Gigawattstunde übersteigenden
-Stromverbrauch an dieser Abnahmestelle in einem Jahr jeweils nicht auf
-mehr als die folgenden Werte erhöhen:
-
-1.  für Letztverbraucher, die im Jahr 2016 berechtigt gewesen wären, eine
-    Begrenzung der KWKG-Umlage auf 0,04 Cent pro Kilowattstunde in
-    Anspruch zu nehmen, im Jahr 2017 auf nicht mehr als 0,08 Cent pro
-    Kilowattstunde und im Jahr 2018 auf nicht mehr als 0,16 Cent pro
-    Kilowattstunde,
-
-
-2.  für Letztverbraucher, die im Jahr 2016 berechtigt gewesen wären, eine
-    Begrenzung der KWKG-Umlage auf 0,03 Cent pro Kilowattstunde in
-    Anspruch zu nehmen, im Jahr 2017 auf nicht mehr als 0,06 Cent pro
-    Kilowattstunde und im Jahr 2018 auf nicht mehr als 0,12 Cent pro
-    Kilowattstunde.
-
-
-
-Die Absätze 1 und 2 bleiben unberührt. Letztverbraucher, die die
-Begrenzung nach Satz 1 in Anspruch nehmen wollen, müssen dem
-zuständigen Netzbetreiber bis zum 31. März eines Jahres den im jeweils
-vorangegangenen Kalenderjahr aus dem Netz bezogenen und selbst
-verbrauchten Strom melden.
-
-(4) Für Unternehmen, die im Jahr 2017 die Begrenzung nach § 27 Absatz
-1 in Anspruch nehmen wollen, ist § 27 Absatz 3 mit der Maßgabe
-anzuwenden, dass die Meldung der prognostizierten Strommengen je
-Abnahmestelle und Kalendermonat sowie der tatsächliche Höchstbetrag
-aus dem Begrenzungsbescheid an den regelverantwortlichen
-Übertragungsnetzbetreiber bis zum 31. Januar 2017 zu erfolgen hat. Im
-Fall einer nicht oder nicht rechtzeitig erfolgten Mitteilung nach Satz
-1 wird im Jahr 2017 die volle KWKG-Umlage nach § 26 Absatz 1 erhoben
-und die Begrenzung nach § 27 Absatz 1 erst im Rahmen der
-Jahresendabrechnung seitens der Übertragungsnetzbetreiber gewährt.
-
-(5) Im Jahr 2017 müssen die Netzbetreiber bis zum 31. Januar 2017 ihre
-Vorjahresmeldungen nach § 27 Absatz 1 des Kraft-Wärme-
-Kopplungsgesetzes in der am 31. Dezember 2016 geltenden Fassung im
-Sinn des § 26a Absatz 2 Nummer 1 Buchstabe d präzisieren. Die
-Meldepflicht nach § 26a Absatz 2 Satz 1 Nummer 1 bleibt unberührt.
-
-
-### § 37 Übergangsbestimmungen zur Berechnung der KWKG-Umlage und zum Belastungsausgleich
-
-(1) Für das Jahr 2017 ist § 27 des Kraft-Wärme-Kopplungsgesetzes in
-der am 31. Dezember 2016 geltenden Fassung mit der Maßgabe anzuwenden,
-dass für die KWKG-Umlage ein Wert von 0,438 Cent pro Kilowattstunde
-gilt.
-
-(2) Für das Jahr 2017 ist § 28 Absatz 4 mit der Maßgabe anzuwenden,
-dass abweichend von § 28 Absatz 4 Satz 4 ein Anspruch auf einmalige
-Anpassung der Prognose und Abschläge aufgrund der Meldungen nach § 36
-Absatz 4 zum 31. Januar 2017 besteht.
-
-(3) § 26 Absatz 2 Satz 3 des Kraft-Wärme-Kopplungsgesetzes in der am
-31\. Dezember 2016 geltenden Fassung ist bis zum 1. April 2017
-anzuwenden.
 
 (zu den §§ 7b und 7d)
 

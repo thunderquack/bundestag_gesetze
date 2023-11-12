@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3686
 
 Zuletzt geändert durch
-:   Art. 11 G v. 12.6.2020 I 1248
+:   Art. 15 G v. 20.12.2022 I 2759
 
 
 ## § 1 Erstattungsanspruch
@@ -89,14 +89,13 @@ Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach § 20
 Absatz 1 des Mutterschutzgesetzes gezahlt hat. Stellt die Krankenkasse
 eine inhaltliche Abweichung zwischen ihrer Berechnung der Erstattung
 und dem Antrag des Arbeitgebers fest, hat sie diese Abweichung und die
-Gründe hierfür dem Arbeitgeber durch Datenübertragung nach § 28a
-Absatz 1a Satz 1 des Vierten Buches Sozialgesetzbuch unverzüglich zu
-melden; dies gilt auch, wenn dem Antrag vollständig entsprochen wird.
-§ 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt
-entsprechend.
+Gründe hierfür dem Arbeitgeber durch Datenübertragung nach § 95 Absatz
+1 Satz 1 des Vierten Buches Sozialgesetzbuch unverzüglich zu melden;
+dies gilt auch, wenn dem Antrag vollständig entsprochen wird. § 28a
+Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt entsprechend.
 
 (3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch
-Datenübertragung nach § 28a Absatz 1a Satz 1 und § 95b Absatz 1 Satz 1
+Datenübertragung nach § 95 Absatz 1 Satz 1 und § 95b Absatz 1 Satz 1
 des Vierten Buches Sozialgesetzbuch an die zuständige Krankenkasse zu
 übermitteln. § 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch
 gilt für die Meldung nach Satz 1 entsprechend.

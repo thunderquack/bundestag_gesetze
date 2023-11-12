@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1490
 
+Geändert durch
+:   Art. 10 G v. 24.6.2022 I 959
+
 Stand: Ersetzt V 806-21-1-147 v. 23.11.1987 I 2392 (ReNoPatAusbV)
 [^f786550_01_BJNR149000014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -2890,8 +2893,8 @@ Notarfachangestellte**
         a)  Familien- und Güterstand bei der Vorbereitung von Urkunden prüfen
 
 
-        b)  betreuungs-, familien- und vormundschaftsgerichtliche Genehmigungen
-            bei Vorbereitung und Vollzug von Urkunden berücksichtigen
+        b)  betreuungs- und familiengerichtliche Genehmigungen bei Vorbereitung
+            und Vollzug von Urkunden berücksichtigen
 
 
         c)  familienrechtliche Verträge unter Beachtung der Formerfordernisse

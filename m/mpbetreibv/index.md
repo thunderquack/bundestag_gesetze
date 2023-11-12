@@ -44,16 +44,13 @@ Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und
 3\.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die
 Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert
 worden ist, in der jeweils geltenden Fassung aufgeführten Produkte.
-Für In-vitro-Diagnostika ist bis einschließlich 25. Mai 2022 die
-Medizinprodukte-Betreiberverordnung in der bis einschließlich 25. Mai
-2021 geltenden Fassung anzuwenden.
 
 (2) Diese Verordnung gilt nicht für Medizinprodukte
 
 1.  zur klinischen Prüfung,
 
 
-2.  zur Leistungsbewertungsprüfung oder
+2.  zur Verwendung in einer Leistungsstudie oder
 
 
 3.  die in ausschließlich eigener Verantwortung für persönliche Zwecke
@@ -213,12 +210,12 @@ durchführen, wer
 Vorlage eines Zertifikats einer Stelle nachgewiesen werden, die von
 der im Geltungsbereich dieser Rechtsverordnung für Benannte Stellen
 zuständigen Behörde nach Artikel 35 Absatz 1 der Verordnung (EU)
-2017/745 anerkannt wurde. Die Erfüllung der besonderen Anforderungen
-kann auch durch Zertifikate, die von der zuständigen Stelle in einem
-anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat
-des Europäischen Wirtschaftsraums ausgestellt wurden und die
-inhaltlich den Zertifikaten nach Satz 1 entsprechen, nachgewiesen
-werden.
+2017/745 oder Artikel 31 Absatz 1 der Verordnung (EU) 2017/746
+anerkannt wurde. Die Erfüllung der besonderen Anforderungen kann auch
+durch Zertifikate, die von der zuständigen Stelle in einem anderen
+Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des
+Europäischen Wirtschaftsraums ausgestellt wurden und die inhaltlich
+den Zertifikaten nach Satz 1 entsprechen, nachgewiesen werden.
 
 
 ## § 6 Beauftragter für Medizinproduktesicherheit

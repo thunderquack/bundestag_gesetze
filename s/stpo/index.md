@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.12.2021 I 5252
+:   Art. 2 G v. 26.7.2023 I Nr. 203
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -562,11 +562,11 @@ einem sicheren Übermittlungsweg eingereicht werden.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle der Behörde oder des
-    Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle der Behörde oder des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -1255,7 +1255,8 @@ führen würde.
 (1) Den Berufsgeheimnisträgern nach § 53 Absatz 1 Satz 1 Nummer 1 bis
 4 stehen die Personen gleich, die im Rahmen
 
-1.  eines Vertragsverhältnisses,
+1.  eines Vertragsverhältnisses einschließlich der gemeinschaftlichen
+    Berufsausübung,
 
 
 2.  einer berufsvorbereitenden Tätigkeit oder
@@ -1887,11 +1888,92 @@ sind.
 
 #### § 81b Erkennungsdienstliche Maßnahmen bei dem Beschuldigten
 
-Soweit es für die Zwecke der Durchführung des Strafverfahrens oder für
-die Zwecke des Erkennungsdienstes notwendig ist, dürfen Lichtbilder
-und Fingerabdrücke des Beschuldigten auch gegen seinen Willen
-aufgenommen und Messungen und ähnliche Maßnahmen an ihm vorgenommen
-werden.
+(1) Soweit es für die Zwecke der Durchführung des Strafverfahrens oder
+für die Zwecke des Erkennungsdienstes notwendig ist, dürfen
+Lichtbilder und Fingerabdrücke des Beschuldigten auch gegen seinen
+Willen aufgenommen und Messungen und ähnliche Maßnahmen an ihm
+vorgenommen werden.
+
+(2) Über die Fälle des Absatzes 1 hinaus sind die Fingerabdrücke des
+Beschuldigten für die Erstellung eines Datensatzes gemäß Artikel 5
+Absatz 1 Buchstabe b der Verordnung (EU) 2019/816 des Europäischen
+Parlaments und des Rates vom 17. April 2019 zur Einrichtung eines
+zentralisierten Systems für die Ermittlung der Mitgliedstaaten, in
+denen Informationen zu Verurteilungen von Drittstaatsangehörigen und
+Staatenlosen (ECRIS-TCN) vorliegen, zur Ergänzung des Europäischen
+Strafregisterinformationssystems und zur Änderung der Verordnung (EU)
+2018/1726 (ABl. L 135 vom 22.5.2019, S. 1), die durch die Verordnung
+(EU) 2019/818 (ABl. L 135 vom 22.5.2019, S. 85) geändert worden ist,
+auch gegen dessen Willen aufzunehmen, sofern
+
+1.  es sich bei dem Beschuldigten um einen Drittstaatsangehörigen im Sinne
+    des Artikels 3 Nummer 7 der Verordnung (EU) 2019/816 handelt,
+
+
+2.  der Beschuldigte rechtskräftig zu einer Freiheitsstrafe oder
+    Jugendstrafe verurteilt oder gegen ihn rechtskräftig allein eine
+    freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet
+    worden ist,
+
+
+3.  keine Fingerabdrücke des Beschuldigten vorhanden sind, die im Rahmen
+    eines Strafverfahrens aufgenommen worden sind, und
+
+
+4.  die entsprechende Eintragung im Bundeszentralregister noch nicht
+    getilgt ist.
+
+
+
+Wenn auf Grund bestimmter Tatsachen und bei Würdigung der Umstände des
+Einzelfalles die Gefahr besteht, dass der Beschuldigte sich dieser
+Maßnahme entziehen werde, dann dürfen die Fingerabdrücke abweichend
+von Satz 1 Nummer 2 bereits vor der Rechtskraft der Entscheidung
+aufgenommen werden.
+
+(3) Für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1
+Buchstabe b der Verordnung (EU) 2019/816 sind die nach Absatz 1 für
+die Zwecke der Durchführung des Strafverfahrens, die nach Absatz 2
+oder die nach § 163b Absatz 1 Satz 3 aufgenommenen Fingerabdrücke an
+das Bundeskriminalamt zu übermitteln.
+
+(4) Für die Erstellung eines Datensatzes gemäß Artikel 5 Absatz 1
+Buchstabe b der Verordnung (EU) 2019/816 darf das Bundeskriminalamt
+die nach den Absätzen 1 und 2 sowie die nach § 163b Absatz 1 Satz 3
+aufgenommenen und ihm übermittelten Fingerabdrücke verarbeiten. Bei
+den nach Absatz 1 für die Zwecke der Durchführung des Strafverfahrens,
+den nach Absatz 2 Satz 2 und den nach § 163b Absatz 1 Satz 3
+aufgenommenen Fingerabdrücken ist eine über die Speicherung
+hinausgehende Verarbeitung nach Satz 1 unzulässig, solange die
+Entscheidung noch nicht rechtskräftig ist. Die Verarbeitung nach Satz
+1 ist ferner unzulässig, wenn
+
+1.  der Beschuldigte rechtskräftig freigesprochen wurde,
+
+
+2.  das Verfahren nicht nur vorläufig eingestellt wurde oder
+
+
+3.  die alleinige Anordnung einer freiheitsentziehenden Maßregel der
+    Besserung und Sicherung gegen den Beschuldigten rechtskräftig
+    unterbleibt.
+
+
+
+Satz 3 gilt entsprechend in den Fällen des Absatzes 2 Satz 2, wenn der
+Beschuldigte rechtskräftig zu einer anderen Strafe als Freiheitsstrafe
+oder Jugendstrafe verurteilt wurde. Ist die Verarbeitung der
+Fingerabdrücke nach Satz 3 oder 4 unzulässig, so sind die
+Fingerabdrücke zu löschen.
+
+(5) Für die Verarbeitung für andere Zwecke als die Erstellung eines
+Datensatzes gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU)
+2019/816 gelten die §§ 481 bis 485. Die Verarbeitung der nach Absatz 2
+Satz 2 aufgenommenen Fingerabdrücke ist jedoch erst zulässig, wenn die
+Entscheidung rechtskräftig und die Verarbeitung für die Erstellung
+eines Datensatzes nicht nach Absatz 4 Satz 3 oder 4 unzulässig ist.
+Die übrigen Bestimmungen über die Verarbeitung der nach Absatz 1 oder
+2 oder nach § 163b aufgenommenen Fingerabdrücke bleiben unberührt.
 
 
 #### § 81c Untersuchung anderer Personen
@@ -4710,15 +4792,16 @@ Gesetz und anderen Rechtsvorschriften.
 #### § 110d Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach den §§ 176e und 184b des Strafgesetzbuches
 
 Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6
-des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 oder §
-184 Absatz 1 Nummer 1, 2 und 4 des Strafgesetzbuches vorgenommen
-werden, bedürfen der Zustimmung des Gerichts. In dem Antrag ist
-darzulegen, dass die handelnden Polizeibeamten auf den Einsatz
-umfassend vorbereitet wurden. Bei Gefahr im Verzug genügt die
-Zustimmung der Staatsanwaltschaft. Die Maßnahme ist zu beenden, wenn
-nicht das Gericht binnen drei Werktagen zustimmt. Die Zustimmung ist
-schriftlich zu erteilen und zu befristen. Eine Verlängerung ist
-zulässig, solange die Voraussetzungen für den Einsatz fortbestehen.
+des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 und 3
+oder § 184b Absatz 1 Satz 1 Nummer 1, 2 und 4 sowie Satz 2 des
+Strafgesetzbuches vorgenommen werden, bedürfen der Zustimmung des
+Gerichts. In dem Antrag ist darzulegen, dass die handelnden
+Polizeibeamten auf den Einsatz umfassend vorbereitet wurden. Bei
+Gefahr im Verzug genügt die Zustimmung der Staatsanwaltschaft. Die
+Maßnahme ist zu beenden, wenn nicht das Gericht binnen drei Werktagen
+zustimmt. Die Zustimmung ist schriftlich zu erteilen und zu befristen.
+Eine Verlängerung ist zulässig, solange die Voraussetzungen für den
+Einsatz fortbestehen.
 
 
 #### § 111 Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
@@ -6081,9 +6164,9 @@ Einlegung eines Rechtsmittels darf die Freilassung nicht aufgehalten
 werden. § 120 Abs. 3 gilt entsprechend.
 
 (4) Hat der Untergebrachte einen gesetzlichen Vertreter oder einen
-Bevollmächtigten im Sinne des § 1906 Abs. 5 des Bürgerlichen
-Gesetzbuches, so sind Entscheidungen nach Absatz 1 bis 3 auch diesem
-bekannt zu geben.
+Bevollmächtigten im Sinne des § 1831 Absatz 5 und des § 1820 Absatz 2
+Nummer 2 des Bürgerlichen Gesetzbuches, so sind Entscheidungen nach
+Absatz 1 bis 3 auch diesem bekannt zu geben.
 
 
 #### § 127 Vorläufige Festnahme
@@ -7200,21 +7283,25 @@ Betracht,
     erstreben,
 
 
-6.  an einem sozialen Trainingskurs teilzunehmen oder
+6.  an einem sozialen Trainingskurs teilzunehmen,
 
 
 7.  an einem Aufbauseminar nach § 2b Abs. 2 Satz 2 oder an einem
-    Fahreignungsseminar nach § 4a des Straßenverkehrsgesetzes
-    teilzunehmen.
+    Fahreignungsseminar nach § 4a des Straßenverkehrsgesetzes teilzunehmen
+    oder
+
+
+8.  sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und
+    behandeln zu lassen (Therapieweisung).
 
 
 
 Zur Erfüllung der Auflagen und Weisungen setzt die Staatsanwaltschaft
 dem Beschuldigten eine Frist, die in den Fällen des Satzes 2 Nummer 1
 bis 3, 5 und 7 höchstens sechs Monate, in den Fällen des Satzes 2
-Nummer 4 und 6 höchstens ein Jahr beträgt. Die Staatsanwaltschaft kann
-Auflagen und Weisungen nachträglich aufheben und die Frist einmal für
-die Dauer von drei Monaten verlängern; mit Zustimmung des
+Nummer 4, 6 und 8 höchstens ein Jahr beträgt. Die Staatsanwaltschaft
+kann Auflagen und Weisungen nachträglich aufheben und die Frist einmal
+für die Dauer von drei Monaten verlängern; mit Zustimmung des
 Beschuldigten kann sie auch Auflagen und Weisungen nachträglich
 auferlegen und ändern. Erfüllt der Beschuldigte die Auflagen und
 Weisungen, so kann die Tat nicht mehr als Vergehen verfolgt werden.
@@ -9465,9 +9552,10 @@ Entziehungsanstalt anzuordnen.
 
 (2) Ist Anklage erhoben worden wegen einer in § 181b des
 Strafgesetzbuchs genannten Straftat zum Nachteil eines Minderjährigen
-und kommt die Erteilung einer Weisung nach § 153a dieses Gesetzes oder
-nach den §§ 56c, 59a Absatz 2 Satz 1 Nummer 4 oder § 68b Absatz 2 Satz
-2 des Strafgesetzbuchs in Betracht, wonach sich der Angeklagte
+und kommt die Erteilung einer Weisung nach § 153a Absatz 1 Satz 2
+Nummer 8 dieses Gesetzes oder nach § 56c Absatz 2 Nummer 6, § 59a
+Absatz 2 Satz 1 Nummer 5 oder § 68b Absatz 2 Satz 2 des
+Strafgesetzbuchs in Betracht, wonach sich der Angeklagte
 psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln
 zu lassen hat (Therapieweisung), soll ein Sachverständiger über den
 Zustand des Angeklagten und die Behandlungsaussichten vernommen
@@ -14377,7 +14465,35 @@ der Kosten des Verfahrens treffen.
 Vollstreckungsbehörde vollstreckt.
 
 (2) Die Anordnung setzt voraus, daß die Geldstrafe nicht eingebracht
-werden kann oder die Vollstreckung nach § 459c Abs. 2 unterbleibt.
+werden kann oder die Vollstreckung nach § 459c Abs. 2 unterbleibt. Vor
+der Anordnung ist der Verurteilte darauf hinzuweisen, dass ihm gemäß §
+459a Zahlungserleichterungen bewilligt werden können und ihm gemäß
+Rechtsverordnung nach Artikel 293 des Einführungsgesetzes zum
+Strafgesetzbuch oder sonst landesrechtlich gestattet werden kann, die
+Vollstreckung der Ersatzfreiheitsstrafe durch freie Arbeit abzuwenden;
+besteht Anlass zu der Annahme, dass der Verurteilte der deutschen
+Sprache nicht hinreichend mächtig ist, hat der Hinweis in einer ihm
+verständlichen Sprache zu erfolgen.
+
+(2a) Die Vollstreckungsbehörde und die gemäß § 463d Satz 2 Nummer 2
+eingebundene Gerichtshilfe können zu dem Zweck, dem Verurteilten
+Möglichkeiten aufzuzeigen, die Geldstrafe mittels
+Zahlungserleichterungen zu tilgen oder die Vollstreckung einer
+Ersatzfreiheitsstrafe durch freie Arbeit abzuwenden, einer von der
+Vollstreckungsbehörde beauftragten nichtöffentlichen Stelle die
+hierfür erforderlichen personenbezogenen Daten übermitteln. Die
+beauftragte Stelle ist darauf hinzuweisen, dass sie die übermittelten
+Daten nur für die in Satz 1 genannten Zwecke verwenden und verarbeiten
+darf. Sie darf personenbezogene Daten nur erheben sowie die erhobenen
+Daten verarbeiten und nutzen, soweit der Verurteilte eingewilligt hat
+und dies für die in Satz 1 genannten Zwecke erforderlich ist. Die
+Vorschriften der Verordnung (EU) 2016/679 und des
+Bundesdatenschutzgesetzes finden auch dann Anwendung, wenn die
+personenbezogenen Daten nicht automatisiert verarbeitet werden und
+nicht in einem Dateisystem gespeichert sind oder gespeichert werden.
+Die personenbezogenen Daten sind von der beauftragten Stelle nach
+Ablauf eines Jahres nach Beendigung der beauftragten Tätigkeit zu
+vernichten.
 
 (3) Wegen eines Teilbetrages, der keinem vollen Tag Freiheitsstrafe
 entspricht, darf die Vollstreckung der Ersatzfreiheitsstrafe nicht
@@ -14780,7 +14896,9 @@ Entscheidungen. In den Fällen des § 67d Absatz 6 des Strafgesetzbuches
 ist der Verurteilte mündlich zu hören. Das Gericht erklärt die
 Anordnung von Maßnahmen nach § 67h Abs. 1 Satz 1 und 2 des
 Strafgesetzbuchs für sofort vollziehbar, wenn erhebliche rechtswidrige
-Taten des Verurteilten drohen.
+Taten des Verurteilten drohen; für Entscheidungen nach § 67d Absatz 5
+Satz 1 des Strafgesetzbuches bleibt es bei der sofortigen
+Vollziehbarkeit (§§ 307 und 462 Absatz 3 Satz 2).
 
 (7) Für die Anwendung des § 462a Abs. 1 steht die Führungsaufsicht in
 den Fällen des § 67c Abs. 1, des § 67d Abs. 2 bis 6 und des § 68f des
@@ -14929,10 +15047,19 @@ Verpflichtung nicht nachkommt.
 
 Zur Vorbereitung der nach den §§ 453 bis 461 zu treffenden
 Entscheidungen kann sich das Gericht oder die Vollstreckungsbehörde
-der Gerichtshilfe bedienen; dies kommt insbesondere vor einer
-Entscheidung über den Widerruf der Strafaussetzung oder der Aussetzung
-des Strafrestes in Betracht, sofern nicht ein Bewährungshelfer
-bestellt ist.
+der Gerichtshilfe bedienen. Die Gerichtshilfe soll einbezogen werden
+vor einer Entscheidung
+
+1.  über den Widerruf der Strafaussetzung oder der Aussetzung eines
+    Strafrestes, sofern nicht ein Bewährungshelfer bestellt ist,
+
+
+2.  über die Anordnung der Vollstreckung der Ersatzfreiheitsstrafe, um die
+    Abwendung der Anordnung oder Vollstreckung durch
+    Zahlungserleichterungen oder durch freie Arbeit zu fördern.
+
+
+
 
 
 #### § 463e Mündliche Anhörung im Wege der Bild- und Tonübertragung

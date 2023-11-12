@@ -1,5 +1,6 @@
 ---
-Title: Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet
+Title: Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren und Restrukturierungssachen
+  im Internet
 jurabk: InsoBekV
 layout: default
 origslug: insobekv
@@ -7,7 +8,7 @@ slug: insobekv
 
 ---
 
-# Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet (InsoBekV)
+# Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren und Restrukturierungssachen im Internet (InsoBekV)
 
 Ausfertigungsdatum
 :   2002-02-12
@@ -15,15 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 677
 
-Stand: Zukünftige amtl. Langüberschrift: Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren und Restrukturierungssachen im Internet (ab 17.7.2022; 2020 I 3256)
-Stand: Zukünftige amtl. Buchstabenabkürzung: InsBekV (ab 17.7.2022; 2020 I 3256)
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2020 I 3256
-
-[^bjnr067700002_01_BJNR067700002]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 7 Nr. 1 G v.
-    22\.12.2020 I 3256 mWv 17.7.2022 wie folgt gefasst:  **Verordnung zu
-    öffentlichen Bekanntmachungen in Insolvenzverfahren und
-    Restrukturierungssachen im Internet (InsBekV)**
 
 
 ## Eingangsformel
@@ -41,6 +35,9 @@ den Anforderungen dieser Verordnung zu entsprechen. Die
 Veröffentlichung darf nur die Daten enthalten, die nach der
 Insolvenzordnung oder nach anderen Vorschriften, die eine öffentliche
 Bekanntmachung in Insolvenzverfahren vorsehen, bekannt zu machen sind.
+Für öffentliche Bekanntmachungen in Restrukturierungssachen im
+Internet gilt diese Verordnung entsprechend, soweit in den
+nachfolgenden Vorschriften nichts Abweichendes geregelt ist.
 
 
 ## § 2 Datensicherheit, Schutz vor Missbrauch
@@ -105,6 +102,12 @@ Entscheidung über die Restschuldbefreiung zu laufen beginnt.
 
 (3) Sonstige Veröffentlichungen nach der Insolvenzordnung werden einen
 Monat nach dem ersten Tag der Veröffentlichung gelöscht.
+
+(4) Die in einem elektronischen Informations- und Kommunikationssystem
+erfolgte Veröffentlichung von Daten aus einer Restrukturierungssache
+wird spätestens sechs Monate nach der Anordnung des jeweiligen
+Stabilisierungs- oder Restrukturierungsinstruments, bei
+Stabilisierungsanordnungen nach dem Ende ihrer Wirkungsdauer gelöscht.
 
 
 ## § 4 Einsichtsrecht

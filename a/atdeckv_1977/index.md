@@ -284,12 +284,12 @@ der Anlage 2 angegebenen Werte.
 oder in einer sonstigen zur Beseitigung radioaktiver Abfälle
 zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen
 Euro, sofern es sich bei der Landessammelstelle oder der sonstigen
-Einrichtung nicht um eine Kernanlage
-im Sinne des              § 2 Absatz 4 des Atomgesetzes handelt. Wird
-in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen
-Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus
-einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die
-Regeldeckungssumme 70 Millionen Euro.
+Einrichtung nicht um eine Kernanlage im Sinne von § 2 Absatz 4 des
+Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung
+radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit
+radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des
+§ 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70
+Millionen Euro.
 
 (4) Für die Beförderung radioaktiver Stoffe gilt Absatz 1
 entsprechend; bei der Beförderung sonstiger radioaktiver Stoffe sind
@@ -826,8 +826,7 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 
     *   hochradioaktive Strahlenquellen nach § 4 Absatz 36 des
         Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der
-        Spalte 3 höhere Summen
-        genannt werden
+        Spalte 3 höhere Summen genannt sind
 
     *   0,05
 

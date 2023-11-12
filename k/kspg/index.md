@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1726
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 5 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 17 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 22 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 10.8.2021 I 3436
 
 [^F1_777603_BJNR172610012]:     Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie
     2009/31/EG des Europäischen Parlaments und des Rates vom 23. April
@@ -1699,12 +1693,12 @@ Wertes der Anzahl der Berechtigungen nach § 3 Absatz 4 Satz 1 des
 Treibhausgas-Emissionshandelsgesetzes, die der im Betriebsjahr
 gespeicherten Menge Kohlendioxid entspricht, jeweils zum Jahresende
 bei der zuständigen Behörde als Sicherheit in Geld zu leisten. Das
-geleistete Geld ist nach Maßgabe des § 1807 des Bürgerlichen
-Gesetzbuchs verzinslich anzulegen; die Zinsen werden zusätzlich zum
-Betrag nach Satz 1 Teil der Sicherheit. Das Geld steht für die
-Erfüllung der anderen in Absatz 1 genannten Pflichten und Ansprüche
-nachrangig zur Verfügung und ist vom Betreiber unverzüglich zu
-ersetzen, soweit es in Anspruch genommen wird.
+geleistete Geld ist nach Maßgabe des § 1841 Absatz 2 und des § 1842
+des Bürgerlichen Gesetzbuchs verzinslich anzulegen; die Zinsen werden
+zusätzlich zum Betrag nach Satz 1 Teil der Sicherheit. Das Geld steht
+für die Erfüllung der anderen in Absatz 1 genannten Pflichten und
+Ansprüche nachrangig zur Verfügung und ist vom Betreiber unverzüglich
+zu ersetzen, soweit es in Anspruch genommen wird.
 
 
 ### § 31 Übertragung der Verantwortung

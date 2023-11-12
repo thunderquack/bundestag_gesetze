@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 1364
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.11.2015 I 2018
+:   Art. 12 Abs. 20 G v. 16.12.2022 I 2328
 
 
 ## § 1 Formulare
@@ -31,13 +31,13 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit verwendet.
 (2) Absatz 1 gilt nicht, soweit Unterhalt
 
 1.  für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch
-    Sozialgesetzbuch, Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch,
-    Hilfe zur Erziehung oder Eingliederungshilfe nach dem Achten Buch
-    Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder
-    Unterhalt nach § 1607 Abs. 2 oder 3 des Bürgerlichen Gesetzbuchs
-    erhalten hat, von dem Träger der Sozialhilfe, des Sozialgeldes, der
-    öffentlichen Jugendhilfe, dem Land oder dem Dritten aus übergegangenem
-    Recht oder
+    Sozialgesetzbuch, Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten
+    Buches Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe
+    nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem
+    Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des
+    Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe,
+    des Bürgergeldes, der öffentlichen Jugendhilfe, dem Land oder dem
+    Dritten aus übergegangenem Recht oder
 
 
 2.  nach § 94 Absatz 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33

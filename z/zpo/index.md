@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.10.2021 I 4607
+:   Art. 6 G v. 8.10.2023 I Nr. 272
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -469,13 +469,6 @@ Landesregierungen können diese Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
 
-##### § 32c Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
-
-Für Klagen in Musterfeststellungsverfahren nach Buch 6 ist das Gericht
-des allgemeinen Gerichtsstands des Beklagten ausschließlich zuständig,
-sofern sich dieser im Inland befindet.
-
-
 ##### § 33 Besonderer Gerichtsstand der Widerklage
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden,
@@ -808,22 +801,31 @@ Verschulden der Partei gleich.
 natürliche Person ist, wirksam eine andere natürliche Person
 schriftlich mit ihrer gerichtlichen Vertretung bevollmächtigt, so
 steht diese Person einem gesetzlichen Vertreter gleich, wenn die
-Bevollmächtigung geeignet ist, gemäß § 1896 Abs. 2 Satz 2 des
-Bürgerlichen Gesetzbuchs die Erforderlichkeit einer Betreuung
+Bevollmächtigung geeignet ist, gemäß § 1814 Absatz 3 Satz 2 Nummer 1
+des Bürgerlichen Gesetzbuchs die Erforderlichkeit einer Betreuung
 entfallen zu lassen.
 
 
 ##### § 52 Umfang der Prozessfähigkeit
 
-(1) Eine Person ist insoweit prozessfähig, als sie sich durch Verträge
+Eine Person ist insoweit prozessfähig, als sie sich durch Verträge
 verpflichten kann.
 
 
-##### § 53 Prozessunfähigkeit bei Betreuung oder Pflegschaft
+##### § 53 Prozessfähigkeit bei rechtlicher Betreuung
 
-Wird in einem Rechtsstreit eine prozessfähige Person durch einen
-Betreuer oder Pfleger vertreten, so steht sie für den Rechtsstreit
-einer nicht prozessfähigen Person gleich.
+(1) Bei Personen, für die ein Betreuer bestellt ist, richtet sich die
+Prozessfähigkeit nach den allgemeinen Vorschriften.
+
+(2) Wird ein Betreuter in einem Rechtsstreit durch einen Betreuer
+vertreten, kann der Betreuer in jeder Lage des Verfahrens gegenüber
+dem Prozessgericht schriftlich oder zu Protokoll der Geschäftsstelle
+erklären, dass der Rechtsstreit fortan ausschließlich durch ihn
+geführt wird (Ausschließlichkeitserklärung). Mit Eingang der
+Ausschließlichkeitserklärung steht der Betreute für den weiteren
+Rechtsstreit einer nicht prozessfähigen Person gleich. Der Betreuer
+kann die Ausschließlichkeitserklärung jederzeit mit Wirkung für die
+Zukunft zurücknehmen.
 
 
 ##### § 53a (weggefallen)
@@ -2434,10 +2436,11 @@ die vorbereitenden Schriftsätzen beigefügt sind.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -2810,10 +2813,19 @@ des anderen Rechtsstreits oder bis zur Entscheidung der
 Verwaltungsbehörde auszusetzen sei.
 
 (2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits
-von Feststellungszielen abhängt, die den Gegenstand eines anhängigen
-Musterfeststellungsverfahrens bilden, auf Antrag des Klägers, der
-nicht Verbraucher ist, anordnen, dass die Verhandlung bis zur
-Erledigung des Musterfeststellungsverfahrens auszusetzen sei.
+ganz oder zum Teil von dem Bestehen oder Nichtbestehen von
+Rechtsverhältnissen oder Rechtsfragen abhängt, die Gegenstand einer
+Verbandsklage nach dem Verbraucherrechtedurchsetzungsgesetz sind, auf
+Antrag des Klägers, der nicht Verbraucher oder nach diesem Gesetz
+einem Verbraucher gleichgestellt ist, anordnen, dass die Verhandlung
+bis zur rechtskräftigen Entscheidung oder sonstigen Erledigung des
+Verbandsklageverfahrens auszusetzen sei.
+
+(3) Das Gericht kann, wenn eine für die Entscheidung des Rechtsstreits
+erhebliche Beweisfrage bereits Gegenstand einer schriftlichen
+Begutachtung durch einen in einem anderen Verfahren ernannten
+Sachverständigen ist, anordnen, dass die Verhandlung bis zur Vorlage
+des nach § 411a verwertbaren Gutachtens ausgesetzt wird.
 
 
 ##### § 149 Aussetzung bei Verdacht einer Straftat
@@ -3168,9 +3180,10 @@ bestimmt ist.
 ###### § 167 Rückwirkung der Zustellung
 
 Soll durch die Zustellung eine Frist gewahrt werden oder die
-Verjährung neu beginnen oder nach § 204 des Bürgerlichen Gesetzbuchs
-gehemmt werden, tritt diese Wirkung bereits mit Eingang des Antrags
-oder der Erklärung ein, wenn die Zustellung demnächst erfolgt.
+Verjährung neu beginnen oder nach § 204 oder § 204a des Bürgerlichen
+Gesetzbuchs gehemmt werden, tritt diese Wirkung bereits mit Eingang
+des Antrags oder der Erklärung ein, wenn die Zustellung demnächst
+erfolgt.
 
 
 ###### § 168 Aufgaben der Geschäftsstelle
@@ -3238,6 +3251,16 @@ Zustellung an den Leiter.
 Zustellung an einen von ihnen.
 
 
+###### § 170a Zustellung bei rechtlicher Betreuung
+
+(1) Wird an eine Person zugestellt, für die ein Betreuer bestellt ist,
+ist diesem eine Abschrift des zugestellten Dokuments mitzuteilen,
+soweit er bekannt ist und sein Aufgabenkreis betroffen ist.
+
+(2) Wird nach § 170 Absatz 1 an den Betreuer zugestellt, ist dem
+Betreuten eine Abschrift des zugestellten Dokuments mitzuteilen.
+
+
 ###### § 171 Zustellung an Bevollmächtigte
 
 An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher
@@ -3272,14 +3295,14 @@ sicheren Übermittlungsweg zugestellt werden.
 (2) Einen sicheren Übermittlungsweg für die elektronische Zustellung
 eines elektronischen Dokuments haben zu eröffnen:
 
-1.  Rechtsanwälte, Notare, Gerichtsvollzieher sowie
+1.  Rechtsanwälte, Notare, Gerichtsvollzieher, Steuerberater sowie
 
 
 2.  Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
 
 
 
-Steuerberater und sonstige in professioneller Eigenschaft am Prozess
+Sonstige              in professioneller Eigenschaft am Prozess
 beteiligte Personen, Vereinigungen und Organisationen, bei denen von
 einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen
 sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
@@ -3476,55 +3499,78 @@ als elektronisches Dokument unverzüglich zurückzuleiten.
 
 ###### § 183 Zustellung im Ausland
 
-(1) Soweit nicht unmittelbar anwendbare Regelungen der Europäischen
-Union in ihrer jeweils geltenden Fassung, insbesondere
+(1) Für die Durchführung
 
-1.  die Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des
-    Rates vom 13. November 2007 über die Zustellung gerichtlicher und
+1.  der Verordnung (EU) 2020/1784 des Europäischen Parlaments und des
+    Rates vom 25. November 2020 über die Zustellung gerichtlicher und
     außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den
-    Mitgliedstaaten („Zustellung von Schriftstücken“) und zur Aufhebung
-    der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom
-    10\.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L
-    158 vom 10.6.2013, S. 1) geändert worden ist, sowie
+    Mitgliedstaaten (Zustellung von Schriftstücken) (ABl. L 405 vom
+    2\.12.2020, S. 40; L 173 vom 30.6.2022, S. 133) in ihrer jeweils
+    geltenden Fassung sowie
 
 
-2.  das Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich
-    Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und
-    außergerichtlicher Schriftstücke in Zivil- oder Handelssachen (ABl. L
-    300 vom 17.11.2005, S. 55)
+2.  des Abkommens zwischen der Europäischen Gemeinschaft und dem
+    Königreich Dänemark vom 19. Oktober 2005 über die Zustellung
+    gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder
+    Handelssachen (ABl. L 300 vom 17.11.2005, S. 55; L 120 vom 5.5.2006,
+    S. 23), das durch die Mitteilung Dänemarks vom 22. Dezember 2020 (ABl.
+    L 19 vom 21.1.2021, S. 1) geändert worden ist,
 
 
 
-maßgeblich sind, gelten für die Zustellung im Ausland die
-nachfolgenden Absätze 2 bis 5. Für die Durchführung der in Satz 1
-genannten Regelungen gelten § 1067 Absatz 1, § 1068 Absatz 1 und §
-1069 Absatz 1.
+gelten § 1067 Absatz 1, § 1069 Absatz 1 sowie die §§ 1070 und 1071.
+Soweit nicht für die Zustellung im Ausland die vorgenannten Regelungen
+maßgeblich sind, gelten für die Zustellung im Ausland die Absätze 2
+bis 6.
 
-(2) Eine Zustellung im Ausland ist nach den bestehenden
-völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke
-aufgrund solcher Vereinbarungen unmittelbar durch die Post zugestellt
-werden dürfen, dann soll dies durch Einschreiben mit Rückschein oder
-mittels eines gleichwertigen Nachweises bewirkt werden, anderenfalls
-soll die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts
-unmittelbar durch die Behörden des fremden Staates erfolgen.
+(2) Eine Zustellung im Ausland ist nach den völkerrechtlichen
+Vereinbarungen vorzunehmen, die im Verhältnis zu dem jeweiligen Staat
+gelten. Wenn Schriftstücke aufgrund solcher Vereinbarungen unmittelbar
+durch die Post zugestellt werden dürfen, dann soll dies durch
+Einschreiben mit Rückschein oder mittels eines gleichwertigen
+Nachweises bewirkt werden, anderenfalls soll die Zustellung auf
+Ersuchen des Vorsitzenden des Prozessgerichts unmittelbar durch die
+Behörden des ausländischen Staates erfolgen. Eine Zustellung durch die
+zuständige deutsche Auslandsvertretung soll nur in den Fällen des
+Absatzes 4 erfolgen.
 
-(3) Ist eine Zustellung nach Absatz 2 nicht möglich, ist durch die
-zuständige diplomatische oder konsularische Vertretung des Bundes oder
-die sonstige zuständige Behörde zuzustellen. Nach Satz 1 ist
-insbesondere zu verfahren, wenn völkerrechtliche Vereinbarungen nicht
-bestehen, die zuständigen Stellen des betreffenden Staates zur
-Rechtshilfe nicht bereit sind oder besondere Gründe eine solche
-Zustellung rechtfertigen.
+(3) Bestehen keine völkerrechtlichen Vereinbarungen zur Zustellung, so
+erfolgt die Zustellung vorbehaltlich des Absatzes 4 auf Ersuchen des
+Vorsitzenden des Prozessgerichts durch die Behörden des ausländischen
+Staates.
 
-(4) An entsandte Beschäftige einer deutschen Auslandsvertretung und
-die in ihrer Privatwohnung lebenden Personen erfolgt die Zustellung
+(4) Folgende Zustellungen in den Fällen der Absätze 2 und 3 erfolgen
 auf Ersuchen des Vorsitzenden des Prozessgerichts durch die zuständige
-Auslandsvertretung.
+deutsche Auslandsvertretung:
+
+1.  Zustellungen, deren Erledigung durch die Behörden des ausländischen
+    Staates nicht oder nicht innerhalb einer angemessenen Zeit zu erwarten
+    ist oder für die ein sonstiger begründeter Ausnahmefall vorliegt,
+
+
+2.  Zustellungen an ausländische Staaten sowie
+
+
+3.  Zustellungen an entsandte Beschäftigte einer deutschen
+    Auslandsvertretung und die in ihrer Privatwohnung lebenden Personen.
+
+
+
 
 (5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz
-genügt der Rückschein oder ein gleichwertiger Nachweis. Die Zustellung
-nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird
-durch das Zeugnis der ersuchten Behörde nachgewiesen.
+genügt der Rückschein oder ein gleichwertiger Nachweis. Im Übrigen
+wird die Zustellung durch das Zeugnis der ersuchten Behörde
+nachgewiesen.
+
+(6) Soweit völkerrechtliche Vereinbarungen eine Zustellung
+außergerichtlicher Schriftstücke ermöglichen, ist für die Übermittlung
+solcher Schriftstücke in das Ausland das Amtsgericht zuständig, in
+dessen Bezirk die Person, die die Zustellung betreibt, ihren Wohnsitz
+oder gewöhnlichen Aufenthalt hat. Bei notariellen Urkunden ist auch
+das Amtsgericht zuständig, in dessen Bezirk der beurkundende Notar
+seinen Amtssitz hat. Bei juristischen Personen tritt an die Stelle des
+Wohnsitzes oder des gewöhnlichen Aufenthalts der Sitz der juristischen
+Person.
 
 
 ###### § 184 Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
@@ -5344,6 +5390,14 @@ unberücksichtigt, so ergeht das Urteil
 
 
 
+##### § 305b Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung
+
+Durch die Geltendmachung der dem Rechtsträger nach § 133 Absatz 3 Satz
+2 des Umwandlungsgesetzes zustehenden Einrede wird eine unter dem
+Vorbehalt der beschränkten Haftung ergehende Verurteilung des
+Rechtsträgers nicht ausgeschlossen.
+
+
 ##### § 306 Verzicht
 
 Verzichtet der Kläger bei der mündlichen Verhandlung auf den geltend
@@ -6491,18 +6545,33 @@ Parteien von dem Eingang.
 
 ##### § 363 Beweisaufnahme im Ausland
 
-(1) Soll die Beweisaufnahme im Ausland erfolgen, so hat der
-Vorsitzende die zuständige Behörde um Aufnahme des Beweises zu
-ersuchen.
+(1) Für die Durchführung der Verordnung (EU) 2020/1783 des
+Europäischen Parlaments und des Rates vom 25. November 2020 über die
+Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem
+Gebiet der Beweisaufnahme in Zivil- oder Handelssachen
+(Beweisaufnahme) (ABl. L 405 vom 2.12.2020, S. 1) in ihrer jeweils
+geltenden Fassung gelten die §§ 1072 und 1073. Soweit die Verordnung
+(EU) 2020/1783 für die Beweisaufnahme im Ausland nicht maßgeblich ist,
+gelten hierfür die Absätze 2 und 3.
 
-(2) Kann die Beweisaufnahme durch einen Konsularbeamten erfolgen, so
-ist das Ersuchen an diesen zu richten.
+(2) Die Beweisaufnahme im Ausland ist nach denjenigen
+völkerrechtlichen Vereinbarungen vorzunehmen, die im Verhältnis zu dem
+jeweiligen Staat gelten. Das Ersuchen zur Durchführung der
+Beweisaufnahme im Ausland ist von dem Vorsitzenden des Prozessgerichts
+zu stellen. Sieht eine völkerrechtliche Vereinbarung mehrere Wege zur
+Aufnahme von Beweisen vor, soll die Beweisaufnahme nur dann durch
+einen deutschen Konsularbeamten erfolgen, wenn ihre Erledigung durch
+die Behörden des ausländischen Staates nicht oder nicht innerhalb
+einer angemessenen Zeit zu erwarten ist oder ein sonstiger begründeter
+Ausnahmefall vorliegt.
 
-(3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom
-28\. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der
-Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder
-Handelssachen bleiben unberührt. Für die Durchführung gelten die §§
-1072 und 1073.
+(3) Bestehen keine völkerrechtlichen Vereinbarungen zur Beweisaufnahme
+im Ausland, ersucht der Vorsitzende des Prozessgerichts die Behörden
+des ausländischen Staates um Aufnahme des Beweises. Ist eine
+Beweisaufnahme durch diese nicht oder nicht innerhalb einer
+angemessenen Zeit zu erwarten oder liegt sonst ein begründeter
+Ausnahmefall vor, so kann der Vorsitzende des Prozessgerichts deutsche
+Konsularbeamte um Aufnahme des Beweises ersuchen.
 
 
 ##### § 364 Parteimitwirkung bei Beweisaufnahme im Ausland
@@ -10051,359 +10120,12 @@ Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis
 605 entsprechend anzuwenden.
 
 
-## Buch 6 - Musterfeststellungsverfahren
+## Buch 6 - (weggefallen)
 
 
 
-### § 606 Musterfeststellungsklage
+### (XXXX) §§ 606 bis 614 (weggefallen)
 
-(1) Mit der Musterfeststellungsklage können qualifizierte
-Einrichtungen die Feststellung des Vorliegens oder Nichtvorliegens von
-tatsächlichen und rechtlichen Voraussetzungen für das Bestehen oder
-Nichtbestehen von Ansprüchen oder Rechtsverhältnissen
-(Feststellungsziele) zwischen Verbrauchern und einem Unternehmer
-begehren. Qualifizierte Einrichtungen im Sinne von Satz 1 sind die in
-§ 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes
-bezeichneten Stellen, die
-
-1.  als Mitglieder mindestens zehn Verbände, die im gleichen
-    Aufgabenbereich tätig sind, oder mindestens 350 natürliche Personen
-    haben,
-
-
-2.  mindestens vier Jahre in der Liste nach § 4 des
-    Unterlassungsklagengesetzes oder dem Verzeichnis der Europäischen
-    Kommission nach Artikel 4 der Richtlinie 2009/22/EG des Europäischen
-    Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen
-    zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30)
-    eingetragen sind,
-
-
-3.  in Erfüllung ihrer satzungsmäßigen Aufgaben Verbraucherinteressen
-    weitgehend durch nicht gewerbsmäßige aufklärende oder beratende
-    Tätigkeiten wahrnehmen,
-
-
-4.  Musterfeststellungsklagen nicht zum Zwecke der Gewinnerzielung erheben
-    und
-
-
-5.  nicht mehr als 5 Prozent ihrer finanziellen Mittel durch Zuwendungen
-    von Unternehmen beziehen.
-
-
-
-Bestehen ernsthafte Zweifel daran, dass die Voraussetzungen nach Satz
-2 Nummer 4 oder 5 vorliegen, verlangt das Gericht vom Kläger die
-Offenlegung seiner finanziellen Mittel. Es wird unwiderleglich
-vermutet, dass Verbraucherzentralen und andere Verbraucherverbände,
-die überwiegend mit öffentlichen Mitteln gefördert werden, die
-Voraussetzungen des Satzes 2 erfüllen.
-
-(2) Die Klageschrift muss Angaben und Nachweise darüber enthalten,
-dass
-
-1.  die in Absatz 1 Satz 2 genannten Voraussetzungen vorliegen;
-
-
-2.  von den Feststellungszielen die Ansprüche oder Rechtsverhältnisse von
-    mindestens zehn Verbrauchern abhängen.
-
-
-
-Die Klageschrift soll darüber hinaus für den Zweck der Bekanntmachung
-im Klageregister eine kurze Darstellung des vorgetragenen
-Lebenssachverhaltes enthalten. § 253 Absatz 2 bleibt unberührt.
-
-(3) Die Musterfeststellungsklage ist nur zulässig, wenn
-
-1.  sie von einer qualifizierten Einrichtung im Sinne des Absatzes 1 Satz
-    2 erhoben wird,
-
-
-2.  glaubhaft gemacht wird, dass von den Feststellungszielen die Ansprüche
-    oder Rechtsverhältnisse von mindestens zehn Verbrauchern abhängen und
-
-
-3.  zwei Monate nach öffentlicher Bekanntmachung der
-    Musterfeststellungsklage mindestens 50 Verbraucher ihre Ansprüche oder
-    Rechtsverhältnisse zur Eintragung in das Klageregister wirksam
-    angemeldet haben.
-
-
-
-
-
-### § 607 Bekanntmachung der Musterfeststellungsklage
-
-(1) Die Musterfeststellungsklage ist im Klageregister mit folgenden
-Angaben öffentlich bekannt zu machen:
-
-1.  Bezeichnung der Parteien,
-
-
-2.  Bezeichnung des Gerichts und des Aktenzeichens der
-    Musterfeststellungsklage,
-
-
-3.  Feststellungsziele,
-
-
-4.  kurze Darstellung des vorgetragenen Lebenssachverhaltes,
-
-
-5.  Zeitpunkt der Bekanntmachung im Klageregister,
-
-
-6.  Befugnis der Verbraucher, Ansprüche oder Rechtsverhältnisse, die von
-    den Feststellungszielen abhängen, zur Eintragung in das Klageregister
-    anzumelden, Form, Frist und Wirkung der Anmeldung sowie ihrer
-    Rücknahme,
-
-
-7.  Wirkung eines Vergleichs, Befugnis der angemeldeten Verbraucher zum
-    Austritt aus dem Vergleich sowie Form, Frist und Wirkung des
-    Austritts,
-
-
-8.  Verpflichtung des Bundesamts für Justiz, nach rechtskräftigem
-    Abschluss des Musterfeststellungsverfahrens jedem angemeldeten
-    Verbraucher auf dessen Verlangen einen schriftlichen Auszug über die
-    Angaben zu überlassen, die im Klageregister zu ihm und seiner
-    Anmeldung erfasst sind.
-
-
-
-
-(2) Das Gericht veranlasst innerhalb von 14 Tagen nach Erhebung der
-Musterfeststellungklage deren öffentliche Bekanntmachung, wenn die
-Klageschrift die nach § 606 Absatz 2 Satz 1 vorgeschriebenen
-Anforderungen erfüllt.
-
-(3) Das Gericht veranlasst unverzüglich die öffentliche Bekanntmachung
-seiner Terminbestimmungen, Hinweise und Zwischenentscheidungen im
-Klageregister, wenn dies zur Information der Verbraucher über den
-Fortgang des Verfahrens erforderlich ist. Die öffentliche
-Bekanntmachung von Terminen muss spätestens eine Woche vor dem
-jeweiligen Terminstag erfolgen. Das Gericht veranlasst ferner
-unverzüglich die öffentliche Bekanntmachung einer Beendigung des
-Musterfeststellungsverfahrens; die Vorschriften der §§ 611, 612
-bleiben hiervon unberührt.
-
-
-### § 608 Anmeldung von Ansprüchen oder Rechtsverhältnissen
-
-(1) Bis zum Ablauf des Tages vor Beginn des ersten Termins können
-Verbraucher Ansprüche oder Rechtsverhältnisse, die von den
-Feststellungszielen abhängen, zur Eintragung in das Klageregister
-anmelden.
-
-(2) Die Anmeldung ist nur wirksam, wenn sie frist- und formgerecht
-erfolgt und folgende Angaben enthält:
-
-1.  Name und Anschrift des Verbrauchers,
-
-
-2.  Bezeichnung des Gerichts und Aktenzeichen der
-    Musterfeststellungsklage,
-
-
-3.  Bezeichnung des Beklagten der Musterfeststellungsklage,
-
-
-4.  Gegenstand und Grund des Anspruchs oder des Rechtsverhältnisses des
-    Verbrauchers,
-
-
-5.  Versicherung der Richtigkeit und Vollständigkeit der Angaben.
-
-
-
-Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten.
-Die Angaben der Anmeldung werden ohne inhaltliche Prüfung in das
-Klageregister eingetragen.
-
-(3) Die Anmeldung kann bis zum Ablauf des Tages des Beginns der
-mündlichen Verhandlung in der ersten Instanz zurückgenommen werden.
-
-(4) Anmeldung und Rücknahme sind in Textform gegenüber dem Bundesamt
-für Justiz zu erklären.
-
-
-### § 609 Klageregister; Verordnungsermächtigung
-
-(1) Klageregister ist das Register für Musterfeststellungsklagen. Es
-wird vom Bundesamt für Justiz geführt und kann elektronisch betrieben
-werden.
-
-(2) Bekanntmachungen und Eintragungen nach den §§ 607 und 608 sind
-unverzüglich vorzunehmen. Die im Klageregister zu einer
-Musterfeststellungsklage erfassten Angaben sind bis zum Schluss des
-dritten Jahres nach rechtskräftigem Abschluss des Verfahrens
-aufzubewahren.
-
-(3) Öffentliche Bekanntmachungen können von jedermann unentgeltlich im
-Klageregister eingesehen werden.
-
-(4) Nach § 608 angemeldete Verbraucher können vom Bundesamt für Justiz
-Auskunft über die zu ihrer Anmeldung im Klageregister erfassten
-Angaben verlangen. Nach rechtskräftigem Abschluss des
-Musterfeststellungsverfahrens hat das Bundesamt für Justiz einem
-angemeldeten Verbraucher auf dessen Verlangen einen schriftlichen
-Auszug über die Angaben zu überlassen, die im Klageregister zu ihm und
-seiner Anmeldung erfasst sind.
-
-(5) Das Bundesamt für Justiz hat dem Gericht der
-Musterfeststellungsklage auf dessen Anforderung einen Auszug aller im
-Klageregister zu der Musterfeststellungsklage erfassten Angaben über
-die Personen zu übersenden, die bis zum Ablauf des in § 606 Absatz 3
-Nummer 3 genannten Tages zur Eintragung in das Klageregister
-angemeldet sind. Das Gericht übermittelt den Parteien formlos eine
-Abschrift des Auszugs.
-
-(6) Das Bundesamt für Justiz hat den Parteien auf deren Anforderung
-einen schriftlichen Auszug aller im Klageregister zu der
-Musterfeststellungsklage erfassten Angaben über die Personen zu
-überlassen, die sich bis zu dem in § 608 Absatz 1 genannten Tag zur
-Eintragung in das Klageregister angemeldet haben.
-
-(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-näheren Bestimmungen über Inhalt, Aufbau und Führung des
-Klageregisters, die Einreichung, Eintragung, Änderung und Vernichtung
-der im Klageregister erfassten Angaben, die Erteilung von Auszügen aus
-dem Klageregister sowie die Datensicherheit und Barrierefreiheit zu
-treffen.
-
-
-### § 610 Besonderheiten der Musterfeststellungsklage
-
-(1) Ab dem Tag der Rechtshängigkeit der Musterfeststellungsklage kann
-gegen den Beklagten keine andere Musterfeststellungsklage erhoben
-werden, soweit deren Streitgegenstand denselben Lebenssachverhalt und
-dieselben Feststellungsziele betrifft. Die Wirkung von Satz 1
-entfällt, sobald die Musterfeststellungsklage ohne Entscheidung in der
-Sache beendet wird.
-
-(2) Werden am selben Tag mehrere Musterfeststellungsklagen, deren
-Streitgegenstand denselben Lebenssachverhalt und dieselben
-Feststellungsziele betrifft, bei Gericht eingereicht, findet § 147
-Anwendung.
-
-(3) Während der Rechtshängigkeit der Musterfeststellungsklage kann ein
-angemeldeter Verbraucher gegen den Beklagten keine Klage erheben,
-deren Streitgegenstand denselben Lebenssachverhalt und dieselben
-Feststellungsziele betrifft.
-
-(4) Das Gericht hat spätestens im ersten Termin zur mündlichen
-Verhandlung auf sachdienliche Klageanträge hinzuwirken.
-
-(5) Auf die Musterfeststellungsklage sind die im ersten Rechtszug für
-das Verfahren vor den Landgerichten geltenden Vorschriften
-entsprechend anzuwenden, soweit sich aus den Vorschriften dieses
-Buches nicht Abweichungen ergeben. Nicht anzuwenden sind § 128 Absatz
-2, § 278 Absatz 2 bis 5 sowie die §§ 306 und 348 bis 350.
-
-(6) Die §§ 66 bis 74 finden keine Anwendung im Verhältnis zwischen den
-Parteien der Musterfeststellungsklage und Verbrauchern, die
-
-1.  einen Anspruch oder ein Rechtsverhältnis angemeldet haben oder
-
-
-2.  behaupten, entweder einen Anspruch gegen den Beklagten zu haben oder
-    vom Beklagten in Anspruch genommen zu werden oder in einem
-    Rechtsverhältnis zum Beklagten zu stehen.
-
-
-
-
-
-### § 611 Vergleich
-
-(1) Ein gerichtlicher Vergleich kann auch mit Wirkung für und gegen
-die angemeldeten Verbraucher geschlossen werden.
-
-(2) Der Vergleich soll Regelungen enthalten über
-
-1.  die auf die angemeldeten Verbraucher entfallenden Leistungen,
-
-
-2.  den von den angemeldeten Verbrauchern zu erbringenden Nachweis der
-    Leistungsberechtigung,
-
-
-3.  die Fälligkeit der Leistungen und
-
-
-4.  die Aufteilung der Kosten zwischen den Parteien.
-
-
-
-
-(3) Der Vergleich bedarf der Genehmigung durch das Gericht. Das
-Gericht genehmigt den Vergleich, wenn es ihn unter Berücksichtigung
-des bisherigen Sach- und Streitstandes als angemessene gütliche
-Beilegung des Streits oder der Ungewissheit über die angemeldeten
-Ansprüche oder Rechtsverhältnisse erachtet. Die Genehmigung ergeht
-durch unanfechtbaren Beschluss.
-
-(4) Den zum Zeitpunkt der Genehmigung angemeldeten Verbrauchern wird
-der genehmigte Vergleich mit einer Belehrung über dessen Wirkung, über
-ihr Recht zum Austritt aus dem Vergleich sowie über die einzuhaltende
-Form und Frist zugestellt. Jeder Verbraucher kann innerhalb einer
-Frist von einem Monat nach Zustellung des genehmigten Vergleichs
-seinen Austritt aus dem Vergleich erklären. Der Austritt muss bei dem
-Gericht schriftlich oder zu Protokoll der Geschäftsstelle erklärt
-werden. Durch den Austritt wird die Wirksamkeit der Anmeldung nicht
-berührt.
-
-(5) Der genehmigte Vergleich wird wirksam, wenn weniger als 30 Prozent
-der angemeldeten Verbraucher ihren Austritt aus dem Vergleich erklärt
-haben. Das Gericht stellt durch unanfechtbaren Beschluss den Inhalt
-und die Wirksamkeit des genehmigten Vergleichs fest. Der Beschluss ist
-im Klageregister öffentlich bekannt zu machen. Mit der Bekanntmachung
-des Beschlusses wirkt der Vergleich für und gegen diejenigen
-angemeldeten Verbraucher, die nicht ihren Austritt erklärt haben.
-
-(6) Der Abschluss eines gerichtlichen Vergleichs vor dem ersten Termin
-ist unzulässig.
-
-
-### § 612 Bekanntmachungen zum Musterfeststellungsurteil
-
-(1) Das Musterfeststellungsurteil ist nach seiner Verkündung im
-Klageregister öffentlich bekannt zu machen.
-
-(2) Die Einlegung eines Rechtsmittels gegen das
-Musterfeststellungsurteil ist im Klageregister öffentlich bekannt zu
-machen. Dasselbe gilt für den Eintritt der Rechtskraft des
-Musterfeststellungsurteils.
-
-
-### § 613 Bindungswirkung des Musterfeststellungsurteils; Aussetzung
-
-(1) Das rechtskräftige Musterfeststellungsurteil bindet das zur
-Entscheidung eines Rechtsstreits zwischen einem angemeldeten
-Verbraucher und dem Beklagten berufene Gericht, soweit dessen
-Entscheidung die Feststellungsziele und den Lebenssachverhalt der
-Musterfeststellungsklage betrifft. Dies gilt nicht, wenn der
-angemeldete Verbraucher seine Anmeldung wirksam zurückgenommen hat.
-
-(2) Hat ein Verbraucher vor der Bekanntmachung der Angaben zur
-Musterfeststellungsklage im Klageregister eine Klage gegen den
-Beklagten erhoben, die die Feststellungsziele und den
-Lebenssachverhalt der Musterfeststellungsklage betrifft, und meldet er
-seinen Anspruch oder sein Rechtsverhältnis zum Klageregister an, so
-setzt das Gericht das Verfahren bis zur rechtskräftigen Entscheidung
-oder sonstigen Erledigung der Musterfeststellungsklage oder wirksamen
-Rücknahme der Anmeldung aus.
-
-
-### § 614 Rechtsmittel
-
-Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache
-hat stets grundsätzliche Bedeutung im Sinne des § 543 Absatz 2 Nummer
-1\.
 
 
 ### (XXXX) §§ 615 bis 687 (weggefallen)
@@ -11256,16 +10978,28 @@ kann eine Räumungsfrist höchstens bis zum vertraglich bestimmten
 Zeitpunkt der Beendigung gewährt werden.
 
 
-#### § 722 Vollstreckbarkeit ausländischer Urteile
+#### § 722 Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung
 
 (1) Aus dem Urteil eines ausländischen Gerichts findet die
 Zwangsvollstreckung nur statt, wenn ihre Zulässigkeit durch ein
 Vollstreckungsurteil ausgesprochen ist.
 
-(2) Für die Klage auf Erlass des Urteils ist das Amtsgericht oder
-Landgericht, bei dem der Schuldner seinen allgemeinen Gerichtsstand
-hat, und sonst das Amtsgericht oder Landgericht zuständig, bei dem
-nach § 23 gegen den Schuldner Klage erhoben werden kann.
+(2) Für die Klage auf Erlass des Urteils ist das Landgericht
+zuständig, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat,
+und sonst das Landgericht, bei dem nach § 23 gegen den Schuldner Klage
+erhoben werden kann.
+
+(3) Der Vorsitzende der Zivilkammer entscheidet als Einzelrichter. Die
+Regelungen über die Vorlage zur Entscheidung über eine Übernahme sowie
+die Übernahme durch die Zivilkammer nach § 348 Absatz 3 bleiben
+unberührt.
+
+(4) Sind in einem Land mehrere Landgerichte errichtet, so kann die
+Landesregierung die Zuständigkeit durch Rechtsverordnung einem oder
+mehreren Landgerichten übertragen. Die Landesregierung kann die
+Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung
+übertragen. Mehrere Länder können die Zuständigkeit eines oder
+mehrerer Landgerichte über die Landesgrenzen hinaus vereinbaren.
 
 
 #### § 723 Vollstreckungsurteil
@@ -11482,14 +11216,10 @@ verurteilt sind.
 
 #### § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
 
-Betreibt ein Ehegatte oder Lebenspartner, der in Gütergemeinschaft
-lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig
-ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut
-ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit
-des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten
-oder Lebenspartners gegen den Betrieb des Erwerbsgeschäfts oder der
-Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister
-eingetragen war.
+Betreibt ein Ehegatte, der in Gütergemeinschaft lebt und das Gesamtgut
+nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so
+genügt zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn
+ergangenes Urteil.
 
 
 #### § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
@@ -12755,7 +12485,7 @@ Gericht angefochten werden.
 
 #### § 797 Verfahren bei vollstreckbaren Urkunden
 
-(1) Die vollsteckbare Ausfertigung wird erteilt bei
+(1) Die vollstreckbare Ausfertigung wird erteilt bei
 
 1.  gerichtlichen Urkunden von dem Urkundsbeamten der Geschäftsstelle des
     die Urkunde verwahrenden Gerichts,
@@ -14076,12 +13806,8 @@ lassen. Der Gerichtsvollzieher hat dem Schuldner den Beschluss mit dem
 Zustellungsnachweis sofort zuzustellen, sofern nicht eine öffentliche
 Zustellung erforderlich ist. An Stelle einer an den Schuldner im
 Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe
-zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr.
-1393/2007 noch nach dem Abkommen zwischen der Europäischen
-Gemeinschaft und dem Königreich Dänemark über die Zustellung
-gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und
-Handelssachen vom 19. Oktober 2005 (ABl. L 300 vom 17.11.2005, S. 55,
-L 120 vom 5.5.2006, S. 23) zu bewirken ist.
+zur Post, sofern die Zustellung nicht nach unmittelbar anwendbaren
+Regelungen der Europäischen Union zu bewirken ist.
 
 (3) Mit der Zustellung des Beschlusses an den Drittschuldner ist die
 Pfändung als bewirkt anzusehen.
@@ -14438,11 +14164,8 @@ Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen
 selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich
 beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu
 bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post,
-sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007
-noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem
-Königreich Dänemark über die Zustellung gerichtlicher und
-außergerichtlicher Schriftstücke in Zivil- und Handelssachen zu
-bewirken ist.
+sofern die Zustellung nicht nach unmittelbar anwendbaren Regelungen
+der Europäischen Union zu bewirken ist.
 
 (2) Die Benachrichtigung an den Drittschuldner hat die Wirkung eines
 Arrestes (§ 930), sofern die Pfändung der Forderung innerhalb eines
@@ -18382,42 +18105,37 @@ angeordnet werden, gelten die Vorschriften dieses Buches entsprechend.
 
 
 
-### Abschnitt 1 - Zustellung nach der Verordnung (EG) Nr. 1393/2007
+### Abschnitt 1 - Zustellung nach der Verordnung (EU) 2020/1784
 
 
 
-#### § 1067 Zustellung durch diplomatische oder konsularische Vertretungen
+#### § 1067 Zustellung durch Auslandsvertretungen
 
-(1) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007
-durch eine deutsche Auslandsvertretung an eine Person, die nicht die
-deutsche Staatsangehörigkeit besitzt, wird nur vorgenommen, sofern der
-Mitgliedstaat, in dem die Zustellung erfolgen soll, dies nicht durch
-eine Erklärung nach Artikel 23 Absatz 1 der Verordnung (EG) Nr.
-1393/2007 ausgeschlossen hat.
+(1) Eine Zustellung nach Artikel 17 der Verordnung (EU) 2020/1784
+durch die zuständige deutsche Auslandsvertretung soll nur im
+begründeten Ausnahmefall erfolgen. Eine Zustellung nach Satz 1 an
+einen Adressaten, der nicht deutscher Staatsangehöriger ist, ist nur
+zulässig, sofern der Mitgliedstaat, in dem die Zustellung erfolgen
+soll, dies nicht durch eine Erklärung nach Artikel 33 Absatz 1 Satz 1
+der Verordnung (EU) 2020/1784 ausgeschlossen hat.
 
-(2) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007,
-die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur
+(2) Eine Zustellung nach Artikel 17 der Verordnung (EU) 2020/1784, die
+in der Bundesrepublik Deutschland bewirkt werden soll, ist nur
 zulässig, wenn der Adressat des zuzustellenden Schriftstücks
 Staatsangehöriger des Übermittlungsstaats ist.
 
 
-#### § 1068 Zustellung durch die Post
+#### § 1068 Elektronische Zustellung
 
-(1) Zum Nachweis der Zustellung nach Artikel 14 der Verordnung (EG)
-Nr. 1393/2007 genügt der Rückschein oder der gleichwertige Beleg.
-
-(2) Sofern die ausländische Übermittlungsstelle keine besondere, im
-deutschen Recht vorgesehene Form der Zustellung wünscht, kann ein
-Schriftstück, dessen Zustellung eine deutsche Empfangsstelle im Rahmen
-von Artikel 7 Absatz 1 der Verordnung (EG) Nr. 1393/2007 zu bewirken
-oder zu veranlassen hat, ebenfalls durch Einschreiben mit Rückschein
-zugestellt werden.
+An Adressaten in der Bundesrepublik Deutschland dürfen gerichtliche
+elektronische Schriftstücke nur nach Artikel 19 Absatz 1 Buchstabe a
+der Verordnung (EU) 2020/1784 elektronisch zugestellt werden.
 
 
-#### § 1069 Zuständigkeiten; Verordnungsermächtigungen
+#### § 1069 Zuständigkeiten nach der Verordnung (EU) 2020/1784; Verordnungsermächtigungen
 
 (1) Für Zustellungen im Ausland sind als deutsche Übermittlungsstelle
-im Sinne von Artikel 2 Abs. 1 der Verordnung (EG) Nr. 1393/2007
+im Sinne von Artikel 3 Absatz 1 der Verordnung (EU) 2020/1784
 zuständig:
 
 1.  für gerichtliche Schriftstücke das die Zustellung betreibende Gericht
@@ -18437,55 +18155,69 @@ zuständig:
 
 
 (2) Für Zustellungen in der Bundesrepublik Deutschland ist als
-deutsche Empfangsstelle im Sinne von Artikel 2 Abs. 2 der Verordnung
-(EG) Nr. 1393/2007 die Geschäftsstelle desjenigen Amtsgerichts
-zuständig, in dessen Bezirk das Schriftstück zugestellt werden soll.
-Die Landesregierungen können die Aufgaben der Empfangsstelle einem
+deutsche Empfangsstelle im Sinne von Artikel 3 Absatz 2 der Verordnung
+(EU) 2020/1784 die Geschäftsstelle desjenigen Amtsgerichts zuständig,
+in dessen Bezirk das Schriftstück zugestellt werden soll. Die
+Landesregierungen können die Aufgaben der Empfangsstelle einem
 Amtsgericht für die Bezirke mehrerer Amtsgerichte durch
 Rechtsverordnung zuweisen.
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung die Stelle,
-die in dem jeweiligen Land als deutsche Zentralstelle im Sinne von
-Artikel 3 Satz 1 der Verordnung (EG) Nr. 1393/2007 zuständig ist. Die
-Aufgaben der Zentralstelle können in jedem Land nur einer Stelle
-zugewiesen werden.
+die in dem jeweiligen Land als deutsche Zentralstelle nach Artikel 4
+der Verordnung (EU) 2020/1784 zuständig ist. Die Aufgaben der
+Zentralstelle können in jedem Land nur einer Stelle zugewiesen werden.
 
-(4) Die Landesregierungen können die Befugnis zum Erlass einer
+(4) Zentralstelle des Bundes nach Artikel 4 der Verordnung (EU)
+2020/1784 ist das Bundesamt für Justiz. Es unterstützt bei Bedarf die
+zuständigen Behörden der Länder.
+
+(5) Die Landesregierungen können die Befugnis zum Erlass einer
 Rechtsverordnung nach Absatz 1 Nr. 2, Absatz 2 Satz 2 und Absatz 3
 Satz 1 einer obersten Landesbehörde übertragen.
 
 
-#### § 1070 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
+#### § 1070 Sprache eingehender Anträge, Bescheinigungen und Mitteilungen
 
-Wenn die Verordnung (EG) Nr. 1393/2007 im Verhältnis zu Dänemark auf
-Grund des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen
+Aus dem Ausland eingehende Zustellungsanträge, Bescheinigungen über
+die Zustellung sowie sonstige Mitteilungen nach der Verordnung (EU)
+2020/1784 müssen in deutscher oder in englischer Sprache abgefasst
+oder von einer Übersetzung in die deutsche oder englische Sprache
+begleitet sein.
+
+
+#### § 1071 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
+
+Wenn die Verordnung (EU) 2020/1784 im Verhältnis zu Dänemark auf Grund
+des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen
 Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die
 Zustellung gerichtlicher und außergerichtlicher Schriftstücke in
 Zivil- oder Handelssachen anwendbar ist, gelten die Vorschriften der
-§§ 1067 bis 1069 entsprechend.
+§§ 1067 bis 1070 entsprechend.
 
 
-#### § 1071 (weggefallen)
-
--
-
-
-### Abschnitt 2 - Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
+### Abschnitt 2 - Beweisaufnahme nach der Verordnung (EU) 2020/1783
 
 
 
 #### § 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
 
-Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
-erfolgen, so kann das Gericht
+Soll die Beweisaufnahme nach der Verordnung (EU) 2020/1783 erfolgen,
+so kann das deutsche Gericht
 
-1.  unmittelbar das zuständige Gericht eines anderen Mitgliedstaats um
-    Aufnahme des Beweises ersuchen oder
+1.  nach den Artikeln 12 bis 18 der Verordnung (EU) 2020/1783 das
+    zuständige Gericht eines anderen Mitgliedstaats um Aufnahme des
+    Beweises ersuchen,
 
 
-2.  unter den Voraussetzungen des Artikels 17 der Verordnung (EG) Nr.
-    1206/2001 eine unmittelbare Beweisaufnahme in einem anderen
-    Mitgliedstaat beantragen.
+2.  unter den Voraussetzungen der Artikel 19 und 20 der Verordnung (EU)
+    2020/1783 eine unmittelbare Beweisaufnahme in einem anderen
+    Mitgliedstaat beantragen oder
+
+
+3.  unter den Voraussetzungen des Artikels 21 der Verordnung (EU)
+    2020/1783 und nur in einem begründeten Ausnahmefall einen deutschen
+    Konsularbeamten um Vernehmung eines deutschen Staatsangehörigen in
+    einem anderen Mitgliedstaat ersuchen.
 
 
 
@@ -18494,23 +18226,24 @@ erfolgen, so kann das Gericht
 #### § 1073 Teilnahmerechte
 
 (1) Das ersuchende deutsche Gericht oder ein von diesem beauftragtes
-Mitglied darf im Geltungsbereich der Verordnung (EG) Nr. 1206/2001 bei
-der Erledigung des Ersuchens auf Beweisaufnahme durch das ersuchte
-ausländische Gericht anwesend und beteiligt sein. Parteien, deren
-Vertreter sowie Sachverständige können sich hierbei in dem Umfang
-beteiligen, in dem sie in dem betreffenden Verfahren an einer
-inländischen Beweisaufnahme beteiligt werden dürfen.
+Mitglied darf im Geltungsbereich der Verordnung (EU) 2020/1783 bei der
+Erledigung des Ersuchens auf Beweisaufnahme durch das ersuchte
+ausländische Gericht oder durch den deutschen Konsularbeamten anwesend
+und beteiligt sein. Parteien, deren Vertreter sowie Sachverständige
+können sich hierbei in dem Umfang beteiligen, in dem sie in dem
+betreffenden Verfahren an einer inländischen Beweisaufnahme beteiligt
+werden dürfen.
 
-(2) Eine unmittelbare Beweisaufnahme im Ausland nach Artikel 17 Abs. 3
-der Verordnung (EG) Nr. 1206/2001 dürfen Mitglieder des Gerichts sowie
+(2) Eine unmittelbare Beweisaufnahme im Ausland nach Artikel 19 Absatz
+3 der Verordnung (EU) 2020/1783 dürfen Mitglieder des Gerichts sowie
 von diesem beauftragte Sachverständige durchführen.
 
 
-#### § 1074 Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001
+#### § 1074 Zuständigkeiten nach der Verordnung (EU) 2020/1783; Verordnungsermächtigung
 
 (1) Für Beweisaufnahmen in der Bundesrepublik Deutschland ist als
-ersuchtes Gericht im Sinne von Artikel 2 Abs. 1 der Verordnung (EG)
-Nr. 1206/2001 dasjenige Amtsgericht zuständig, in dessen Bezirk die
+ersuchtes Gericht im Sinne von Artikel 3 Absatz 1 der Verordnung (EU)
+2020/1783 dasjenige Amtsgericht zuständig, in dessen Bezirk die
 Verfahrenshandlung durchgeführt werden soll.
 
 (2) Die Landesregierungen können die Aufgaben des ersuchten Gerichts
@@ -18520,20 +18253,23 @@ Rechtsverordnung zuweisen.
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung die Stelle,
 die in dem jeweiligen Land
 
-1.  als deutsche Zentralstelle im Sinne von Artikel 3 Abs. 1 der
-    Verordnung (EG) Nr. 1206/2001 zuständig ist,
+1.  als deutsche Zentralstelle nach Artikel 4 der Verordnung (EU)
+    2020/1783 zuständig ist,
 
 
-2.  als zuständige Stelle Ersuchen auf unmittelbare Beweisaufnahme im
-    Sinne von Artikel 17 Abs. 1 der Verordnung (EG) Nr. 1206/2001
-    entgegennimmt.
+2.  als zuständige Stelle über Ersuchen um unmittelbare Beweisaufnahme
+    nach Artikel 19 Absatz 1 der Verordnung (EU) 2020/1783 entscheidet.
 
 
 
 Die Aufgaben nach den Nummern 1 und 2 können in jedem Land nur jeweils
 einer Stelle zugewiesen werden.
 
-(4) Die Landesregierungen können die Befugnis zum Erlass einer
+(4) Zentralstelle des Bundes nach Artikel 4 der Verordnung (EU)
+2020/1783 ist das Bundesamt für Justiz. Es unterstützt bei Bedarf die
+zuständigen Behörden der Länder.
+
+(5) Die Landesregierungen können die Befugnis zum Erlass einer
 Rechtsverordnung nach den Absätzen 2 und 3 Satz 1 einer obersten
 Landesbehörde übertragen.
 
@@ -18541,9 +18277,9 @@ Landesbehörde übertragen.
 #### § 1075 Sprache eingehender Ersuchen
 
 Aus dem Ausland eingehende Ersuchen auf Beweisaufnahme sowie
-Mitteilungen nach der Verordnung (EG) Nr. 1206/2001 müssen in
-deutscher Sprache abgefasst oder von einer Übersetzung in die deutsche
-Sprache begleitet sein.
+Mitteilungen nach der Verordnung (EU) 2020/1783 müssen in deutscher
+Sprache abgefasst oder von einer Übersetzung in die deutsche Sprache
+begleitet sein.
 
 
 ### Abschnitt 3 - Prozesskostenhilfe nach der Richtlinie 2003/8/EG
@@ -18822,8 +18558,8 @@ entsprechend. Die §§ 185 bis 188 sind nicht anzuwenden.
 
 (2) Ist der Europäische Zahlungsbefehl in einem anderen Mitgliedstaat
 der Europäischen Union zuzustellen, gelten die Vorschriften der
-Verordnung (EG) Nr. 1393/2007 sowie für die Durchführung § 1068 Abs. 1
-und § 1069 Abs. 1 entsprechend.
+Verordnung (EU) 2020/1784 sowie für die Durchführung dieser Verordnung
+§ 1067 Absatz 1, § 1069 Absatz 1 und § 1070 entsprechend.
 
 
 #### Titel 2 - Einspruch gegen den Europäischen Zahlungsbefehl

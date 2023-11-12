@@ -17,20 +17,20 @@ Fundstelle
 :   BGBl I: 2002, 4350
 
 Neugefasst durch
-:   Bek. v. 11.3.2019 I 229
+:   Bek. v. 11.3.2019 I 229;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.3.2021 I 475
+:   Art. 2 V v. 28.6.2023 I Nr. 174
 
 
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung enthält allgemeine Ausnahmen von
 
-1.  der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt vom
-    30\. März 2017 (BGBl. I S. 711, 993), die zuletzt durch Artikel 1 der
-    Verordnung vom 20. Februar 2019 (BGBl. I S. 124) geändert worden ist
-    und
+1.  der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt in der
+    Fassung der Bekanntmachung vom 26. März 2021 (BGBl. I S. 481), die
+    zuletzt durch Artikel 1 der Verordnung vom 28. Juni 2023 (BGBl. 2023 I
+    Nr. 174) geändert worden ist und
 
 
 2.  der Gefahrgutverordnung See in der Fassung der Bekanntmachung vom 7.
@@ -1106,91 +1106,10 @@ In dieser Anlage bedeuten:
 
 *    *   1.1
 
-    *   2
-
-    *   Klassifizie-
-        rungscode
-
-    *   Gefäße, klein, mit Gas (Gaspatronen) (UN 2037)
-        mit folgenden Eigenschaften:
+    *   (weggefallen)
 
     *
     *
-    *
-    *   Essigsäure,
-        Kohlenwasserstoffgemisch
-
-
-*    *
-    *
-    *   5A
-
-    *   erstickend,
-
-    *   (E)
-
-    *
-    *   2.2
-
-    *
-
-*    *
-    *
-    *   5F
-
-    *   entzündbar,
-
-    *
-    *
-    *   2.1
-
-    *
-
-*    *
-    *
-    *   5FC
-
-    *   entzündbar, ätzend oder
-
-    *
-    *
-    *   2.1 + 8
-
-    *
-
-*    *
-    *
-    *   5O
-
-    *   oxidierend
-
-    *   (E)
-
-    *
-    *   2.2 + 5.1
-
-    *
-
-*    *
-    *
-    *
-    *   Bem. 1: Dieser Gruppe dürfen auch nach Kapitel 3.4 des ADR/RID/ADN
-        freigestellte Gegenstände der Klasse 2 beigegeben werden (z. B.
-        Kohlendioxidpatronen).
-
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Bem. 2: Feuerzeuge und deren Nachfüllpatronen der UN 1057 sind
-        Gegenstände des Klassifizierungscodes 6F des ADR/RID/ADN und dürfen
-        daher nicht im Rahmen dieser Ausnahme befördert werden (Beförderung
-        nach Sondervorschrift 654 ADR/RID/ADN).
-
     *
     *
     *
@@ -1198,90 +1117,13 @@ In dieser Anlage bedeuten:
 
 *    *   1.2
 
-    *   2
-
-    *   Klassifizie-
-        rungscode
-
-    *   Gefäße, klein, mit Gas (Gaspatronen) (UN 2037)
-        mit folgenden Eigenschaften:
+    *   (weggefallen)
 
     *
     *
     *
     *
-
-*    *
     *
-    *   5T
-
-    *   giftig,
-
-    *   (D)
-
-    *
-    *   2.3
-
-    *
-
-*    *
-    *
-    *   5TF
-
-    *   giftig, entzündbar,
-
-    *
-    *
-    *   2.3 + 2.1
-
-    *
-
-*    *
-    *
-    *   5TC
-
-    *   giftig, ätzend,
-
-    *
-    *
-    *   2.3 + 8
-
-    *
-
-*    *
-    *
-    *   5TO
-
-    *   giftig, oxidierend,
-
-    *
-    *
-    *   2.3 + 5.1
-
-    *
-
-*    *
-    *
-    *   5TFC
-
-    *   giftig, entzündbar, ätzend oder
-
-    *
-    *
-    *   2.3 + 2.1 + 8
-
-    *
-
-*    *
-    *
-    *   5TOC
-
-    *   giftig, oxidierend, ätzend
-
-    *
-    *
-    *   2.3 + 5.1 + 8
-
     *
 
 *    *   1.3
@@ -2423,23 +2265,7 @@ In dieser Anlage bedeuten:
     Beutel oder Sack aus Kunststofffolie verpackt werden.
 
 
-2.12 Gefäße, klein, mit Gas (Gaspatronen), die eingedrückt, aber noch dicht
-    sind, dürfen nur in Fässern, Kanistern oder Kisten aus Pappe (z. B.
-    „4GW“) mit inerten Füllstoffen verpackt werden. Teilentleerte und
-    nicht funktionsfähige Gefäße, klein, mit Gas (Gaspatronen), der Klasse
-    2 Klassifizierungscode 5F, die entzündbare Gase enthalten, können auch
-    unter folgenden Bedingungen befördert werden:
-
-    a)  Sie sind so in Pappkisten einzusetzen, dass eine Bewegung und eine
-        Belastung der Ventile vermieden werden.
-
-
-    b)  Die Pappkisten müssen nach Kapitel 6.1 ADR/RID bauartgeprüft,
-        -zugelassen und gekennzeichnet sein. Es gelten die Anforderungen der
-        Verpackungsgruppe II.
-
-
-
+2.12 (weggefallen)
 
 
 2.13 Abfallfeuerlöscher der Abfalluntergruppe 1.3 dürfen auch in folgenden
@@ -3232,7 +3058,7 @@ gefährlichen Gütern**
 Verantwortung der Bundeswehr**
 
 
-**1**[^f806001_02_BJNR435000002BJNE000710123]
+**1**[^f806001_02_BJNR435000002BJNE000711123]
  Abweichend von § 1 Absatz 3 Nummer 1 in Verbindung mit § 5 Absatz 6
     der GGVSEB dürfen folgende Allgemeine Ausnahmegenehmigungen der
     Bundeswehr zur Gefahrgutverordnung Straße, Eisenbahn und
@@ -3607,9 +3433,9 @@ unter Einhaltung der nachfolgenden Bestimmungen befördert werden:
 
     Bei Einstufung nach Nummer 4.2, 4.5 oder 4.6 ist der Stoff der Klasse
     3, 8 oder 9 zusätzlich anzugeben.
-[^f806001_01_BJNR435000002BJNE000710123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
+[^f806001_01_BJNR435000002BJNE000711123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
     Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
     Abteilung gesetzliche Schutzaufgaben, Referat Grundsatz Gefahrgutwesen
     (BAUIDBw GS III 1), Fontainengraben 200, Postfach 29 63, 53123 Bonn,
     angefordert werden.
-[^f806001_02_BJNR435000002BJNE000710123]: 
+[^f806001_02_BJNR435000002BJNE000711123]: 

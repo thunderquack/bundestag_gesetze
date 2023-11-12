@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3680
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2018 I 2619
-
-Änderung durch
-:   Art. 25 Abs. 3 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 Abs. 3 G v. 7.8.2021 I 3311
 
 [^F772692_BJNR368000009]:     Diese Verordnung dient der Umsetzung des Artikels 15 Absatz 1 und 3
     der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates

@@ -47,9 +47,8 @@ Bürgerlichen Gesetzbuchs nicht vorliegt, die Zwecke der Erziehung
 maßgebend. Vor der Entscheidung sind die Ehegatten sowie
 erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes
 zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige
-Kosten geschehen kann. Der § 1779 Abs. 3 Satz 2 des Bürgerlichen
-Gesetzbuchs findet entsprechende Anwendung. Das Kind ist zu hören,
-wenn es das zehnte Jahr vollendet hat.
+Kosten geschehen kann. Das Kind ist zu hören, wenn es das zehnte Jahr
+vollendet hat.
 
 
 ## § 3
@@ -68,11 +67,9 @@ Kindes zu bestimmen. Er bedarf dazu der Genehmigung des
 Familiengerichts. Vor der Genehmigung sind die Eltern sowie
 erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes
 zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige
-Kosten geschehen kann. Der § 1779 Abs. 3 Satz 2 des Bürgerlichen
-Gesetzbuchs findet entsprechende Anwendung. Auch ist das Kind zu
-hören, wenn es das zehnte Lebensjahr vollendet hat. Weder der Vormund
-noch der Pfleger können eine schon erfolgte Bestimmung über die
-religiöse Erziehung ändern.
+Kosten geschehen kann. Auch ist das Kind zu hören, wenn es das zehnte
+Lebensjahr vollendet hat. Weder der Vormund noch der Pfleger können
+eine schon erfolgte Bestimmung über die religiöse Erziehung ändern.
 
 
 ## § 4

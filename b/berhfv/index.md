@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 2
 
+Geändert durch
+:   Art. 2 V v. 16.12.2022 I 2368
+
 
 ## Eingangsformel
 
@@ -456,10 +459,11 @@ strafrechtliche Verfolgung.**
 
 
 
+(zu § 1 Nummer 2)
 
-## Anlage 2
+## Anlage 2 Antrag auf Vergütung
 
-(Fundstelle: BGBl. I 2014, 10)
+(Fundstelle: BGBl. I 2022, 2411 - 2412)
 
 
 

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 2010, 2011
 
 Zuletzt geändert durch
-:   Art. 15 G v. 12.5.2021 I 1087
-
-Änderung durch
-:   Art. 1 V v. 26.10.2021 I 4742 (Nr. 76) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 26.10.2021 I 4742
 
 Diese Verordnung dient der Umsetzung
 
@@ -6978,7 +6975,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ### Anlage 7 Besondere Eichfristen für einzelne Messgeräte
 
 (Fundstelle: BGBl. I 2014, 2064 - 2068;
-bzgl. der einzelnen Änderungen vgl. Fußnote))
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Tabelle 1
 

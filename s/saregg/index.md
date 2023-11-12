@@ -481,7 +481,7 @@ Bundesinstitut für Arzneimittel und Medizinprodukte erteilt eine
 Auskunft an die gemäß Absatz 3 Auskunft ersuchende Person auch dann,
 wenn die Information des Samenspenders nach Satz 1 fehlschlägt.
 
-(6) Das Bundesinstitut für Arzneimittel und Medizinproduktekann für
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für
 die Erteilung von Auskünften aus dem Samenspenderregister Entgelte
 verlangen.
 

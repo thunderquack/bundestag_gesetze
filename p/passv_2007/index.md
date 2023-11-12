@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Stand: Zuletzt geändert Art. 1 V v. 15.10.2020 I 2199
-Änderung durch
-:   Art. 2 V v. 20.8.2021 I 3682 (Nr. 56) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 8 V v. 30.10.2023 I Nr. 290
 
 ## Kapitel 1 - Passmuster
 
@@ -418,9 +415,9 @@ an der Belassung des amtlichen Passes vorliegt.
 
 (3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen
 Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind
-die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 21 Euro, die
-Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 13 Euro und
-die Gebühren nach Absatz 1 Nummer 2 um 12 Euro anzuheben.
+die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die
+Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 44 Euro und
+die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 (4) Gebühren sind nicht zu erheben
 
@@ -1812,7 +1809,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 8
 
-   (Fundstelle: BGBl. I 2007, 2453 - 2455)
+   (Fundstelle: BGBl. I 2007, 2453 - 2455;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Musterfoto**
@@ -1872,12 +1870,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        ![bgbl1_2007_j23860_0680.jpg](bgbl1_2007_j23860_0680.jpg)
 
 *    *   **Fotoqualität**
-        Das Foto sollte (insbesondere bei der Aufnahme mit einer
-        Digitalkamera) auf hochwertigem Papier mit einer Druckauflösung von
-        mindestens 600 dpi vorliegen. Das Foto muss farbneutral sein und die
-        Hauttöne natürlich wiedergeben. Das Foto darf keine Knicke oder
-        Verunreinigungen aufweisen. Das Foto kann in Schwarzweiß oder Farbe
-        vorliegen.
+        Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen.
+        Das Foto muss farbneutral sein und die Hauttöne natürlich wiedergeben.
+        Digitale Fotos sind grundsätzlich in Farbe vorzulegen. Ist die Vorlage
+        eines papierbasierten Fotos in Ausnahmefällen gestattet, darf dieses
+        Foto in Farbe oder Schwarzweiß vorgelegt werden; es darf keine Knicke
+        oder Verunreinigung aufweisen.
 
     *        ![bgbl1_2007_j23860_0690.jpg](bgbl1_2007_j23860_0690.jpg)
 

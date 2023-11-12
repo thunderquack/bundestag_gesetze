@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.6.2021 I 2056
+:   Art. 7 G v. 20.12.2022 I 2730
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -309,11 +309,17 @@ und 3 folgende Aufgaben:
     Amtshilfegesetzes;
 
 
-5g. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e und 5f im
-    Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen
-    Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e
-    und 5f durch die jeweils zuständige Landesfinanzbehörde bleiben
-    hiervon unberührt;
+5g. die Entgegennahme, die Weiterleitung und die Übermittlung von
+    Informationen nach § 9 Absatz 1 bis 3 und die Durchführung der
+    Verfahren gemäß den §§ 10 bis 12 und 25 bis 27 des Plattformen-
+    Steuertransparenzgesetzes;
+
+
+5h. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e, 5f und
+    5g im Rahmen der dem Bundeszentralamt für Steuern gesetzlich
+    übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern
+    5c, 5d, 5e, 5f und 5g durch die jeweils zuständige Landesfinanzbehörde
+    bleiben hiervon unberührt;
 
 
 6.  die zentrale Sammlung und Auswertung von Unterlagen über steuerliche
@@ -382,27 +388,19 @@ und 3 folgende Aufgaben:
     erhalten oder Arbeitnehmer des Bundes oder einer sonstigen
     Körperschaft, einer Anstalt oder einer Stiftung des öffentlichen
     Rechts im Bereich des Bundes sind, benennt die Bundesagentur für
-    Arbeit als Familienkasse zentrale Ansprechpartner. Das
-    Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung
-    ohne Zustimmung des Bundesrates Bundesfamilienkassen zur Wahrnehmung
-    der Aufgaben der Familienkassen nach § 72 Absatz 1 des
-    Einkommensteuergesetzes für die in § 72 Absatz 3 Nummer 3 des
-    Einkommensteuergesetzes ausgenommenen Behörden, Körperschaften,
-    Anstalten oder Stiftungen des öffentlichen Rechts im Bereich des
-    Bundes einzurichten. Diese können auch Aufgaben im Auftrag der
-    mittelbaren Verwaltung wahrnehmen. Die Landesregierungen werden
-    ermächtigt, durch Rechtsverordnung Landesfamilienkassen zur
-    Wahrnehmung der Aufgaben nach § 72 Abs. 1 des Einkommensteuergesetzes
-    einzurichten. Diese können auch Aufgaben der mittelbaren Verwaltung
-    wahrnehmen. Die Ermächtigung kann durch Rechtsverordnung auf die
-    zuständigen obersten Landesbehörden übertragen werden. Die
-    Familienkassen gelten als Bundesfinanzbehörden, soweit sie den
-    Familienleistungsausgleich durchführen, und unterliegen insoweit der
-    Fachaufsicht des Bundeszentralamtes für Steuern. Das Bundeszentralamt
-    für Steuern erteilt diesen Familienkassen ein Merkmal zur
-    Identifizierung (Familienkassenschlüssel) und veröffentlicht die Namen
-    und die Anschriften dieser Familienkassen jeweils zu Beginn eines
-    Kalenderjahres im Bundessteuerblatt;
+    Arbeit als Familienkasse zentrale Ansprechpartner. Die
+    Landesregierungen werden ermächtigt, durch Rechtsverordnung
+    Landesfamilienkassen zur Wahrnehmung der Aufgaben nach § 72 Abs. 1 des
+    Einkommensteuergesetzes einzurichten. Diese können auch Aufgaben der
+    mittelbaren Verwaltung wahrnehmen. Die Ermächtigung kann durch
+    Rechtsverordnung auf die zuständigen obersten Landesbehörden
+    übertragen werden. Die Familienkassen gelten als Bundesfinanzbehörden,
+    soweit sie den Familienleistungsausgleich durchführen, und unterliegen
+    insoweit der Fachaufsicht des Bundeszentralamtes für Steuern. Das
+    Bundeszentralamt für Steuern erteilt diesen Familienkassen ein Merkmal
+    zur Identifizierung (Familienkassenschlüssel) und veröffentlicht die
+    Namen und die Anschriften dieser Familienkassen jeweils zu Beginn
+    eines Kalenderjahres im Bundessteuerblatt;
 
 
 12. die Durchführung der Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5
@@ -471,8 +469,8 @@ und 3 folgende Aufgaben:
 
     e)  die Übermittlung der Identifikationsnummer (§ 139b der Abgabenordnung)
         im Anfrageverfahren nach § 22a Absatz 2 in Verbindung mit § 10 Absatz
-        2a, 2b und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 des
-        Einkommensteuergesetzes,
+        2a, 2b und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 sowie nach §
+        52 Absatz 30b des Einkommensteuergesetzes,
 
 
     f)  die Gewährung der Altersvorsorgezulage nach Abschnitt XI des
@@ -591,8 +589,13 @@ und 3 folgende Aufgaben:
     Informationen zu unterrichten;
 
 
-29. die Durchführung der gesonderten Feststellung und Erteilung der
-    Bescheinigung nach § 27 Abs. 8 des Körperschaftsteuergesetzes;
+29. die Durchführung der gesonderten Feststellung der Einlagenrückgewähr
+    nach § 27 Absatz 8 des Körperschaftsteuergesetzes;
+
+
+29a. Entgegennahme, Verarbeitung und Weiterleitung der Versicherungsdaten
+    bei privaten Krankenversicherungen und privaten Pflege-
+    Pflichtversicherungen nach § 39 Absatz 4a des Einkommensteuergesetzes;
 
 
 30. die Bildung, Speicherung und Bereitstellung elektronischer
@@ -729,10 +732,22 @@ und 3 folgende Aufgaben:
     1 des Sechsten Buches Sozialgesetzbuch genannten Fällen;
 
 
+45a. die Durchführung des Besteuerungsverfahrens nach dem Gesetz zur
+    Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU)
+    2022/1854;
+
+
 46. Mitwirkung bei der Festlegung der Einzelheiten der
     Risikomanagementsysteme zur Gewährleistung eines bundeseinheitlichen
     Vollzugs auf dem Gebiet der Steuern, die von den Landesfinanzbehörden
-    im Auftrag des Bundes verwaltet werden.
+    im Auftrag des Bundes verwaltet werden;
+
+
+46a. die Prüfung nach § 7 Absatz 1 Satz 1 und 2 des Gesetzes über
+    steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus
+    Gesellschaftsmitteln, wenn im Zeitpunkt der Antragstellung keine
+    Finanzbehörde nach § 20 der Abgabenordnung für die Besteuerung der
+    ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist.
 
 
 
@@ -747,8 +762,9 @@ Datenschutzkontrolle zu speichern.
 (1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen
 wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach
 § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt
-nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5 bis 7, 9, 10, 13 bis
-17, 19, 22 bis 24, 26, 28, 28a, 28b, 30 bis 34, 36, 38 und 42 bis 46.
+nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9,
+10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und
+42 bis 46.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie
@@ -870,7 +886,9 @@ neben der für den Zollfahndungsdienst zuständigen Direktion
 (Zollkriminalamt) eine für die Aufgaben nach dem Gesetz über das
 Aufspüren von Gewinnen aus schweren Straftaten (Geldwäschegesetz)
 zuständige Direktion (Zentralstelle für
-Finanztransaktionsuntersuchungen) eingerichtet. Andere
+Finanztransaktionsuntersuchungen) eingerichtet. Für die Aufgaben nach
+§ 1 des Sanktionsdurchsetzungsgesetzes wird eine zuständige Direktion
+(Zentralstelle für Sanktionsdurchsetzung) eingerichtet. Andere
 Organisationseinheiten können eingerichtet werden.
 
 (3) Die Zuständigkeiten und Aufgaben der Direktionen und der anderen
@@ -888,8 +906,8 @@ die Leitung und Erledigung seiner Bauaufgaben im Wege der Organleihe
 Landesbehörden sowie Landesbetrieben, Sondervermögen des Landes und
 landesunmittelbaren juristischen Personen des öffentlichen Rechts
 übertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die
-Landesbehörden die Anordnungen des fachlich zuständigen
-Bundesministeriums zu befolgen haben.
+Landesbehörden die Anordnungen der fachlich zuständigen Bundesbehörde
+zu befolgen haben.
 
 
 ### § 6 Sitz und Aufgaben der Landesoberbehörde
@@ -1213,7 +1231,7 @@ Bericht über den aktuellen Stand und die Fortschritte des
 Zusammenwirkens von Bund und Ländern nach Absatz 2.
 
 
-### § 20a Druckdienstleistungen für Bundesfinanzbehörden
+### § 20a Druckdienstleistungen für Bundes- oder Landesfinanzbehörden
 
 (1) Das Bundesministerium der Finanzen darf sich zum Drucken und
 Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der
@@ -1227,8 +1245,8 @@ Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung
 personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
 Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
-2) in der jeweils geltenden Fassung im Rahmen eines Vertrages
-bedienen, wenn
+2; L 47 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung im
+Rahmen eines Vertrages bedienen, wenn
 
 1.  die Druckdienstleistung insoweit weder von der Bundesverwaltung noch
     durch automatische Einrichtungen der Behörden eines Landes oder eines
@@ -1252,7 +1270,7 @@ bedienen, wenn
 5.  der Auftragsverarbeiter im Rahmen der Artikel 25 und 32 der Verordnung
     (EU) 2016/679 ein vom Bundesministerium der Finanzen freizugebendes
     IT-Sicherheitskonzept nach dem Standard des aktuellen IT-
-    Grundschutzkatalogs des Bundesamtes für Sicherheit in der
+    Grundschutzkompendiums des Bundesamtes für Sicherheit in der
     Informationstechnik erstellt hat,
 
 
@@ -1268,6 +1286,7 @@ bedienen, wenn
 
 
 
+Satz 1 gilt für die obersten Finanzbehörden der Länder entsprechend.
 
 (2) Absatz 1 gilt entsprechend, wenn der Auftragsverarbeiter sich
 eines weiteren Auftragsverarbeiters bedienen will.

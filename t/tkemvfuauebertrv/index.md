@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3534
 
-Geändert durch
-:   Art. 2 V v. 5.10.2017 I 3534
-
-Änderung durch
-:   Art. 47 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 47 G v. 23.6.2021 I 1858
 
 
 ## § 1 Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz

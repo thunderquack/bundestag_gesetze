@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1474
 
 Zuletzt geändert durch
-:   Art. 2 V v. 1.9.2020 I 1977
-
-Änderung durch
-:   Art. 1 V v. 1.10.2021 I 4622 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 1.10.2021 I 4622
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -1918,7 +1915,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
 
-(Fundstelle: BGBl. I 2006, 1488 - 1499)
+(Fundstelle: BGBl. I 2006, 1488 - 1499;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 **Symbole und ihre Bedeutung**
 
 *    *   V
@@ -4614,8 +4612,8 @@ Februar 2000).
 
 ### Anlage II Beschusszeichen, Prüfzeichen
 
-( Fundstelle: BGBl. I 2006, 1500 - 1503; bzgl. der einzelnen
-Änderungen vgl. Fußnote )
+( Fundstelle: BGBl. I 2006, 1500 - 1503;
+bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *   **Abbildung 1**
 

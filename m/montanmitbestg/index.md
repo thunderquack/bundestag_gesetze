@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1951, 347
 
 Zuletzt geändert durch
-:   Art. 5 G v. 24.4.2015 I 642
-
-Änderung durch
-:   Art. 14 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 7.8.2021 I 3311
 
 
 ## Erster Teil - Allgemeines

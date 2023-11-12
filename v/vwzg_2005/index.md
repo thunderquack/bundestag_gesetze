@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2354
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 2 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 7 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 10.8.2021 I 3436
 
 
 
@@ -134,10 +128,11 @@ nicht verweigert wird.
 (4) Das Dokument kann an Behörden, Körperschaften, Anstalten und
 Stiftungen des öffentlichen Rechts, an Rechtsanwälte, Patentanwälte,
 Notare, Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer,
-vereidigte Buchprüfer, Steuerberatungsgesellschaften,
-Wirtschaftsprüfungsgesellschaften und Buchprüfungsgesellschaften auch
-auf andere Weise, auch elektronisch, gegen Empfangsbekenntnis
-zugestellt werden.
+vereidigte Buchprüfer, Berufsausübungsgesellschaften im Sinne der
+Bundesrechtsanwaltsordnung, der Patentanwaltsordnung und des
+Steuerberatungsgesetzes, Wirtschaftsprüfungsgesellschaften und
+Buchprüfungsgesellschaften auch auf andere Weise, auch elektronisch,
+gegen Empfangsbekenntnis zugestellt werden.
 
 (5) Ein elektronisches Dokument kann im Übrigen unbeschadet des
 Absatzes 4 elektronisch zugestellt werden, soweit der Empfänger
@@ -212,7 +207,9 @@ Zustellungsfiktion nach Satz 1 elektronisch zu benachrichtigen.
 (1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an
 ihre gesetzlichen Vertreter zuzustellen. Gleiches gilt bei Personen,
 für die ein Betreuer bestellt ist, soweit der Aufgabenkreis des
-Betreuers reicht.
+Betreuers reicht. Das zugestellte Dokument ist der betreuten Person
+nach Wahl der Behörde abschriftlich mitzuteilen oder elektronisch zu
+übermitteln.
 
 (2) Bei Behörden wird an den Behördenleiter, bei juristischen
 Personen, nicht rechtsfähigen Personenvereinigungen und Zweckvermögen

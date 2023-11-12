@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 481
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.11.2012 I 2347
-
-Änderung durch
-:   Art. 44 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 44 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel

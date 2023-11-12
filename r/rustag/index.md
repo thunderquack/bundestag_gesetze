@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1913, 583
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.8.2021 I 3538
+:   Art. 5 G v. 16.8.2023 I Nr. 217
 
 
 ## § 1
@@ -309,8 +309,8 @@ Identität und Staatsangehörigkeit geklärt sind und er
     Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit,
     eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die
     in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 22,
-    23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 des Aufenthaltsgesetzes
-    aufgeführten Aufenthaltszwecke besitzt,
+    23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 und § 104c des
+    Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 
 3.  den Lebensunterhalt für sich und seine unterhaltsberechtigten

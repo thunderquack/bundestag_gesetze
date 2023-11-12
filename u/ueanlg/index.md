@@ -479,7 +479,7 @@ durchgeführten Prüfungen überwachungsbedürftiger Anlagen oder nach
 deren Ergebnissen richten.
 
 
-#### § 17 Anforderungen an die mit Prüfungen von überwachungs- bedürftigen Anlagen beauftragten Personen
+#### § 17 Anforderungen an die mit Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen
 
 Die zugelassene Überwachungsstelle muss gewährleisten, dass die mit
 Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen

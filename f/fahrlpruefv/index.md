@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 2, 42
 
 Zuletzt geändert durch
-:   Art. 3 V v. 2.10.2019 I 1416
+:   Art. 5 V v. 18.3.2022 I 498
 
 Stand: Ersetzt V 9231-7-10 v. 19.6.2012 I 1302 (FahrlPrüfO 2012)
 Mittelbare änderung durch
@@ -402,8 +402,8 @@ zur fahrpraktischen Prüfung und zur Fachkundeprüfung zu, wenn
 Fahrlehreranwärter für die Fahrlehrerlaubnis der Klasse BE auf Antrag
 zu den Lehrproben im theoretischen und fahrpraktischen Unterricht zu,
 wenn ihm die Anwärterbefugnis nach § 9 Absatz 1 des Fahrlehrergesetzes
-erteilt worden ist oder gleichzeitig erteilt wird. Die gemäß § 4
-Absatz 4 Satz 2 des Fahrlehrergesetzes nachzureichenden
+erteilt worden ist oder gleichzeitig erteilt wird. Die gemäß § 4
+Absatz 6 Satz 2 des Fahrlehrergesetzes nachzureichenden
 Bescheinigungen hat der Fahrlehreranwärter dem vorsitzenden Mitglied
 des Prüfungsausschusses oder dem nach Absatz 5 bestimmten Mitglied zur
 Prüfung und zur Weiterleitung an die nach Landesrecht zuständige

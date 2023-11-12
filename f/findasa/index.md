@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1500
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.5.2017 I 1194
-
-Änderung durch
-:   Art. 1 V v. 30.6.2021 BAnz AT 30.06.2021 V1 mWv 1.7.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 24.6.2022 I 959
 
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung
@@ -502,8 +499,8 @@ bestellen:
     Streitschlichtungssysteme,
 
 
-4.  einen Vertreter oder eine Vertreterin des Bundesministeriums der
-    Justiz und für Verbraucherschutz und
+4.  einen Vertreter oder eine Vertreterin des Bundesministeriums für
+    Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz und
 
 
 5.  einen Vertreter oder eine Vertreterin der Gewerkschaften.

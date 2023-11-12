@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 213
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.7.2021 I 3108
+:   Art. 11 G v. 19.6.2023 I Nr. 154
 
 Neufassung durch
 :   Art. 1 G v. 5.4.1965 I 213 udB "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)"
@@ -940,6 +940,57 @@ ohne Zustimmung des Bundesrates
 
 
 
+
+
+### § 14a
+
+(1) Benannte Einrichtung im Sinne des Artikels 10a Absatz 13
+Unterabsatz 2 Buchstabe b und des Artikels 25a Absatz 13 Unterabsatz 2
+Buchstabe b der Richtlinie 2009/103/EG des Europäischen Parlaments und
+des Rates vom 16. September 2009 über die Kraftfahrzeug-
+Haftpflichtversicherung und die Kontrolle der entsprechenden
+Versicherungspflicht (ABl. L 263 vom 7.10.2009, S. 11), die zuletzt
+durch die Richtlinie (EU) 2021/2118 (ABl. L 430 vom 2.12.2021, S. 1)
+geändert worden ist, ist die Verhandlungsstelle über die
+Regressabkommen zwischen den Insolvenzfonds für Kraftfahrzeugunfälle
+(Verhandlungsstelle).
+
+(2) Die Verhandlungsstelle ist beauftragt, Vereinbarungen nach Artikel
+10a Absatz 13 Unterabsatz 1 und Artikel 25a Absatz 13 Unterabsatz 1
+der Richtlinie 2009/103/EG auszuhandeln und abzuschließen, deren
+Vertragspartei die von der Bundesrepublik Deutschland nach Artikel 10a
+Absatz 1 und Artikel 25a Absatz 1 der Richtlinie 2009/103/EG
+einzurichtenden oder zuzulassenden Stellen bei ihrer Einrichtung oder
+Zulassung werden.
+
+(3) Die Aufgaben und Befugnisse der Verhandlungsstelle werden von der
+in § 13a Absatz 1 Satz 1 genannten Verkehrsopferhilfe mit deren
+Einverständnis wahrgenommen.Sofern die Wahrnehmung der Aufgaben und
+Befugnisse durch die Verkehrsopferhilfe nicht gewährleistet ist, wird
+das Bundesministerium der Justiz ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates die Aufgaben und Befugnisse der
+Verhandlungsstelle zu übertragen auf
+
+1.  die in § 13 Absatz 1 Satz 1 genannte Anstalt oder
+
+
+2.  eine andere bestehende juristische Person des Privatrechts, wenn diese
+
+    a)  bereit ist, die Aufgaben der Verhandlungsstelle zu übernehmen, und
+
+
+    b)  hinreichende Gewähr für die sachgerechte Erfüllung der Aufgaben nach
+        Absatz 2 bietet.
+
+
+
+
+
+
+
+(4) Die juristische Person, welche die Aufgaben und Befugnisse der
+Verhandlungsstelle wahrnimmt, untersteht insoweit der Aufsicht des
+Bundesministeriums der Justiz.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1882
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.8.2017 I 3158
+:   Art. 13 G v. 28.6.2023 I Nr. 172
 
 
 ## Abschnitt 1 - Lenk- und Ruhezeiten im nationalen Bereich
@@ -696,8 +696,10 @@ gilt entsprechend.
 
 Die Kontrollkarten werden an die für die Kontrolle der
 Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen
-ausgegeben. Die Kontrollkarte weist die Kontrollbehörde aus und
-ermöglicht das Lesen, Ausdrucken und Herunterladen der im
+sowie an die für die Prüfungen nach § 2 Absatz 1 des
+Schwarzarbeitsbekämpfungsgesetzes zuständigen Behörden der
+Zollverwaltung ausgegeben. Die Kontrollkarte weist die Kontrollbehörde
+aus und ermöglicht das Lesen, Ausdrucken und Herunterladen der im
 Massenspeicher des Fahrtenschreibers oder auf Fahrerkarten
 gespeicherten Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt
 fünf Jahre.

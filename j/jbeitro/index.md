@@ -55,7 +55,7 @@ sie von Justizbehörden des Bundes einzuziehen sind:
     Beträge;
 
 
-4b. nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in
+4b. nach den §§ 168d, 292 und 292a des Gesetzes über das Verfahren in
     Familiensachen und in den Angelegenheiten der freiwilligen
     Gerichtsbarkeit festgesetzte Ansprüche;
 

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 890
 
 Zuletzt geändert durch
-:   Art. 3 V v. 12.12.2018 I 2446
-
-Änderung durch
-:   Art. 72 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 14.6.2022 I 878
 
 
 ## Eingangsformel
@@ -337,6 +331,10 @@ offensichtlich nicht notwendig sind. Wiederholungen von
 Schutzansprüchen oder Anspruchsteilen können durch Bezugnahme auf
 diese ersetzt werden.
 
+(4) Sind in der Gebrauchsmusteranmeldung Nukleotid- oder
+Aminosäuresequenzen offenbart, so gelten die §§ 11 bis 11b der
+Patentverordnung entsprechend.
+
 
 ### § 7 Zeichnungen
 
@@ -402,22 +400,13 @@ sind.
 
 ### § 8 Abzweigung
 
-(1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland
-für dieselbe Erfindung bereits früher ein Patent angemeldet, so kann
-er mit der Gebrauchsmusteranmeldung die Erklärung abgeben, dass der
-für die Patentanmeldung maßgebende Anmeldetag in Anspruch genommen
-wird. Ein für die Patentanmeldung beanspruchtes Prioritätsrecht bleibt
-für die Gebrauchsmusteranmeldung erhalten. Das Recht nach Satz 1 kann
-bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem die
-Patentanmeldung erledigt oder ein etwaiges Einspruchsverfahren
-abgeschlossen ist, jedoch längstens bis zum Ablauf des zehnten Jahres
-nach dem Anmeldetag der Patentanmeldung ausgeübt werden (§ 5 Abs. 1
-des Gebrauchsmustergesetzes).
-
-(2) Der Abschrift der fremdsprachigen Patentanmeldung (§ 5 Abs. 2 des
-Gebrauchsmustergesetzes) ist eine deutsche Übersetzung beizufügen, es
-sei denn, die Anmeldungsunterlagen stellen bereits die Übersetzung der
-fremdsprachigen Patentanmeldung dar.
+Bei Abzweigung eines Gebrauchsmusters aus einer Patentanmeldung (§ 5
+des Gebrauchsmustergesetzes) ist der Abschrift der fremdsprachigen
+Patentanmeldung eine deutsche Übersetzung beizufügen. Dies ist nicht
+erforderlich, wenn die Anmeldungsunterlagen für das Gebrauchsmuster
+bereits die Übersetzung der fremdsprachigen Patentanmeldung darstellen
+oder die Übersetzung bereits im Rahmen der Patentanmeldung beim
+Deutschen Patent- und Markenamt eingereicht worden ist.
 
 
 ### § 9 Fremdsprachige Dokumente

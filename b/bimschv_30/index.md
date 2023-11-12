@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 305, 317
 
 Zuletzt geändert durch
-:   Art. 2 V v. 13.12.2019 I 2739
+:   Art. 1 V v. 12.10.2022 I 1800
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -672,7 +672,7 @@ erforderlichen Angaben enthalten sind.
 
 ### § 16 Zulassung von Ausnahmen
 
-Abweichend von der in § 5 Abs. 1 Satz 1 festgelegten Kapselung von
+(1) Abweichend von der in § 5 Abs. 1 Satz 1 festgelegten Kapselung von
 Einrichtungen zur biologischen Behandlung oder ihrer Ausführung in
 geschlossenen Räumen mit Schleusen und der in § 5 Abs. 2 festgelegten
 vollständigen Zuführung des beim Rottevorgang entstehenden Abgases zu
@@ -687,6 +687,32 @@ Anhang 4 Nummer 3.3.1 der Deponieverordnung vom 27. April 2009 (BGBl.
 I S. 900), unterschreitet und durch sonstige betriebliche Maßnahmen
 sichergestellt wird, dass der Vorsorge gegen schädliche
 Umwelteinwirkungen auf andere Weise Genüge getan ist.
+
+(2) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
+von den Anforderungen der §§ 4 bis 6 und 13 zulassen, solange und
+soweit
+unter              Berücksichtigung der besonderen Umstände des
+Einzelfalls
+
+1.  dies wegen einer durch eine ernste oder erhebliche Gasmangellage
+    ausgelösten Notwendigkeit erforderlich ist,
+
+
+2.  einzelne Anforderungen der §§ 4 bis 6 und 13 nicht oder nur mit
+    unverhältnismäßigem Aufwand erfüllbar sind und
+
+
+3.  die Anforderungen der Richtlinien 2010/75/EU eingehalten werden.
+
+
+
+Die Ausnahmen sind zu befristen. Die Zulassung der Ausnahme kann
+jederzeit widerrufen werden. Sie ist zu widerrufen, wenn die
+Voraussetzungen des Satzes 1 Nummer 1 nicht mehr vorliegen. Die
+zuständige Behörde dokumentiert die Gründe für die Zulassung von
+Ausnahmen im Anhang des Genehmigungsbescheids, einschließlich der
+festgelegten Auflagen. Diese Informationen sind der Öffentlichkeit
+zugänglich zu machen.
 
 
 ### § 17 Weitergehende Anforderungen

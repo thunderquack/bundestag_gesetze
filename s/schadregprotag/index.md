@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1002
 
-Änderung durch
-:   Art. 1 G v. 9.12.2020 I 2873 (Nr. 61) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 9.12.2020 I 2873
 
 
 

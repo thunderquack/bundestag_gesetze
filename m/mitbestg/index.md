@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1153
 
 Zuletzt geändert durch
-:   Art. 7 G v. 24.4.2015 I 642
-
-Änderung durch
-:   Art. 17 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 7.8.2021 I 3311
 
 
 ## Erster Teil - Geltungsbereich

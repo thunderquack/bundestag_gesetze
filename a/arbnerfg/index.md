@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 756
 
 Zuletzt geändert durch
-:   Art. 7 G v. 31.7.2009 I 2521
-
-Änderung durch
-:   Art. 25 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 7.7.2021 I 2363
 
 
 ## Erster Abschnitt - Anwendungsbereich und Begriffsbestimmungen
@@ -153,7 +150,7 @@ Betriebes an dem Zustandekommen der Diensterfindung maßgebend.
 
 #### § 11 Vergütungsrichtlinien
 
-Der Bundesminister für Arbeit erläßt nach Anhörung der
+Das Bundesministerium für Arbeit und Soziales erläßt nach Anhörung der
 Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer (§ 12 des
 Tarifvertragsgesetzes) Richtlinien über die Bemessung der Vergütung.
 
@@ -482,7 +479,8 @@ Schiedsstelle hat zu versuchen, eine gütliche Einigung herbeizuführen.
 
 #### § 29 Errichtung der Schiedsstelle
 
-(1) Die Schiedsstelle wird beim Patentamt errichtet.
+(1) Die Schiedsstelle wird beim Deutschen Patent- und Markenamt
+errichtet.
 
 (2) Die Schiedsstelle kann außerhalb ihres Sitzes zusammentreten.
 
@@ -494,35 +492,38 @@ Vertreter und zwei Beisitzern.
 
 (2) Der Vorsitzende und sein Vertreter sollen die Befähigung zum
 Richteramt nach dem Deutschen Richtergesetz besitzen. Sie werden vom
-Bundesminister der Justiz für die Dauer von vier Jahren berufen. Eine
-Wiederberufung ist zulässig.
+Bundesministerium der Justiz und für Verbraucherschutz für die Dauer
+von vier Jahren berufen. Eine Wiederberufung ist zulässig.
 
 (3) Die Beisitzer sollen auf dem Gebiet der Technik, auf das sich die
 Erfindung oder der technische Verbesserungsvorschlag bezieht,
-besondere Erfahrung besitzen. Sie werden vom Präsidenten des
-Patentamts aus den Mitgliedern oder Hilfsmitgliedern des Patentamts
-für den einzelnen Streitfall berufen.
+besondere Erfahrung besitzen. Sie werden vom Präsidenten des Deutschen
+Patent- und Markenamts aus den Mitgliedern oder Hilfsmitgliedern des
+Patentamts für den einzelnen Streitfall berufen.
 
 (4) Auf Antrag eines Beteiligten ist die Besetzung der Schiedsstelle
 um je einen Beisitzer aus Kreisen der Arbeitgeber und der Arbeitnehmer
-zu erweitern. Diese Beisitzer werden vom Präsidenten des Patentamts
-aus Vorschlagslisten ausgewählt und für den einzelnen Streitfall
-bestellt. Zur Einreichung von Vorschlagslisten sind berechtigt die in
-§ 11 genannten Spitzenorganisationen, ferner die Gewerkschaften und
-die selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder
-berufspolitischer Zwecksetzung, die keiner dieser
-Spitzenorganisationen angeschlossen sind, wenn ihnen eine erhebliche
-Zahl von Arbeitnehmern angehört, von denen nach der ihnen im Betrieb
-obliegenden Tätigkeit erfinderische Leistungen erwartet werden.
+zu erweitern. Diese Beisitzer werden vom Präsidenten des Deutschen
+Patent- und Markenamts aus Vorschlagslisten ausgewählt und für den
+einzelnen Streitfall bestellt. Zur Einreichung von Vorschlagslisten
+sind berechtigt die in § 11 genannten Spitzenorganisationen, ferner
+die Gewerkschaften und die selbständigen Vereinigungen von
+Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung, die
+keiner dieser Spitzenorganisationen angeschlossen sind, wenn ihnen
+eine erhebliche Zahl von Arbeitnehmern angehört, von denen nach der
+ihnen im Betrieb obliegenden Tätigkeit erfinderische Leistungen
+erwartet werden.
 
-(5) Der Präsident des Patentamts soll den Beisitzer nach Absatz 4 aus
-der Vorschlagsliste derjenigen Organisation auswählen, welcher der
-Beteiligte angehört, wenn der Beteiligte seine Zugehörigkeit zu einer
-Organisation vor der Auswahl der Schiedsstelle mitgeteilt hat.
+(5) Der Präsident des Deutschen Patent- und Markenamts soll den
+Beisitzer nach Absatz 4 aus der Vorschlagsliste derjenigen
+Organisation auswählen, welcher der Beteiligte angehört, wenn der
+Beteiligte seine Zugehörigkeit zu einer Organisation vor der Auswahl
+der Schiedsstelle mitgeteilt hat.
 
 (6) Die Dienstaufsicht über die Schiedsstelle führt der Vorsitzende,
-die Dienstaufsicht über den Vorsitzenden der Präsident des Patentamts.
-Die Mitglieder der Schiedsstelle sind an Weisungen nicht gebunden.
+die Dienstaufsicht über den Vorsitzenden der Präsident des Deutschen
+Patent- und Markenamts. Die Mitglieder der Schiedsstelle sind an
+Weisungen nicht gebunden.
 
 
 #### § 31 Anrufung der Schiedsstelle
@@ -815,10 +816,11 @@ Verbesserungsvorschläge gilt Satz 1 entsprechend.
 
 ### § 45 Durchführungsbestimmungen
 
-Der Bundesminister der Justiz wird ermächtigt, im Einvernehmen mit dem
-Bundesminister für Arbeit die für die Erweiterung der Besetzung der
-Schiedsstelle (§ 30 Abs. 4 und 5) erforderlichen
-Durchführungsbestimmungen zu erlassen. Insbesondere kann er bestimmen,
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
+Soziales die für die Erweiterung der Besetzung der Schiedsstelle (§ 30
+Abs. 4 und 5) erforderlichen Durchführungsbestimmungen zu erlassen.
+Insbesondere kann es bestimmen,
 
 1.  welche persönlichen Voraussetzungen Personen erfüllen müssen, die als
     Beisitzer aus Kreisen der Arbeitgeber oder der Arbeitnehmer

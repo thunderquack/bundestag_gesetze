@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.11.2020 I 2456
-
-Änderung durch
-:   Art. 25 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 14.9.2021 I 4250 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 1 G v. 14.9.2021 I 4250
 
 
 ## Abschnitt 1 - Grundlagen der Anstalt

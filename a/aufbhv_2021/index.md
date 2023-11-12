@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4214
 
+Geändert durch
+:   Art. 1 V v. 31.5.2023 I Nr. 141
+
 
 ## Eingangsformel
 
@@ -63,9 +66,7 @@ Ländern erfolgt nach dem Schlüssel:
 Der Schlüssel nach Satz 1 ist im gegenseitigen Einvernehmen zwischen
 den betroffenen Ländern und dem Bund auf die prozentuale Verteilung
 der nach § 2 ermittelten Gesamtschäden anzupassen. Dazu wird
-spätestens sechs Monate nach dem letztmaligen Bewilligungszeitpunkt
-von Anträgen der Geschädigten auf Hilfsmaßnahmen, aber nicht später
-als am 30. Juni 2026, in einer Bund-Länder-Vereinbarung ein
+spätestens am 30. Juni 2031 in einer Bund-Länder-Vereinbarung ein
 angepasster Verteilungsschlüssel festgelegt.
 
 (5) Die Verteilung der auf den Bund und die Länder entfallenden Mittel

@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1087
 
+V aufgeh. durch
+:   § 14 Satz 2 V 7110-3-212 v. 4.9.2023 I Nr. 239 mWv 1.7.2024
+
+Ersetzt durch
+:   V 7110-3-212 v. 4.9.2023 I Nr. 239 (RaumausMstrV 2024)
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 66 V v. 18.1.2022 I 39
 

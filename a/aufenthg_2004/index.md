@@ -1,7 +1,6 @@
-Gesetz
-über den Aufenthalt, die Erwerbstätigkeit
 ---
-Title: und die Integration von Ausländern im Bundesgebiet
+Title: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern
+  im Bundesgebiet
 jurabk: AufenthG 2004
 layout: default
 origslug: aufenthg_2004
@@ -9,7 +8,7 @@ slug: aufenthg_2004
 
 ---
 
-# und die Integration von Ausländern im Bundesgebiet (AufenthG 2004)
+# Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG 2004)
 
 Ausfertigungsdatum
 :   2004-07-30
@@ -21,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 9.7.2021 I 2467
+:   Art. 4 G v. 8.10.2023 I Nr. 271
 
 [^f770910_01_BJNR195010004]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 2001/40/EG des Rates
@@ -1160,26 +1159,34 @@ Erscheinen erforderlich ist, ohne Erlaubnis wahrnehmen.
 Lebensverhältnisse der Bundesrepublik Deutschland ist ein Ausländer,
 der als Asylberechtigter, Flüchtling im Sinne von § 3 Absatz 1 des
 Asylgesetzes oder subsidiär Schutzberechtigter im Sinne von § 4 Absatz
-1 des Asylgesetzes anerkannt worden ist oder dem nach § 22, § 23 oder
-§ 25 Absatz 3 erstmalig eine Aufenthaltserlaubnis erteilt worden ist,
-verpflichtet, für den Zeitraum von drei Jahren ab Anerkennung oder
-Erteilung der Aufenthaltserlaubnis in dem Land seinen gewöhnlichen
-Aufenthalt (Wohnsitz) zu nehmen, in das er zur Durchführung seines
-Asylverfahrens oder im Rahmen seines Aufnahmeverfahrens zugewiesen
-worden ist. Satz 1 findet keine Anwendung, wenn der Ausländer, sein
-Ehegatte, eingetragener Lebenspartner oder ein minderjähriges lediges
-Kind, mit dem er verwandt ist und in familiärer Lebensgemeinschaft
-lebt, eine sozialversicherungspflichtige Beschäftigung mit einem
-Umfang von mindestens 15 Stunden wöchentlich aufnimmt oder aufgenommen
-hat, durch die diese Person mindestens über ein Einkommen in Höhe des
-monatlichen durchschnittlichen Bedarfs nach den §§ 20 und 22 des
-Zweiten Buches Sozialgesetzbuch für eine Einzelperson verfügt, oder
-eine Berufsausbildung aufnimmt oder aufgenommen hat oder in einem
-Studien- oder Ausbildungsverhältnis steht. Die Frist nach Satz 1 kann
-um den Zeitraum verlängert werden, für den der Ausländer seiner nach
-Satz 1 bestehenden Verpflichtung nicht nachkommt. Fallen die Gründe
-nach Satz 2 innerhalb von drei Monaten weg, wirkt die Verpflichtung
-zur Wohnsitznahme nach Satz 1 in dem Land fort, in das der Ausländer
+1 des Asylgesetzes anerkannt worden ist oder dem nach §§ 22, 23, 24
+Absatz 1 oder 25 Absatz 3 erstmalig eine Aufenthaltserlaubnis erteilt
+worden ist, verpflichtet, für den Zeitraum von drei Jahren ab
+Anerkennung oder Erteilung der Aufenthaltserlaubnis in dem Land seinen
+gewöhnlichen Aufenthalt (Wohnsitz) zu nehmen, in das er zur
+Durchführung seines Asylverfahrens oder im Rahmen seines
+Aufnahmeverfahrens zugewiesen oder gemäß § 24 Absatz 3 verteilt worden
+ist. Satz 1 findet keine Anwendung, wenn der Ausländer, sein Ehegatte,
+eingetragener Lebenspartner oder ein minderjähriges lediges Kind, mit
+dem er verwandt ist und in familiärer Lebensgemeinschaft lebt, eine
+sozialversicherungspflichtige Beschäftigung mit einem Umfang von
+mindestens 15 Stunden wöchentlich aufnimmt oder aufgenommen hat, durch
+die diese Person mindestens über ein Einkommen in Höhe des monatlichen
+durchschnittlichen Bedarfs nach den §§ 20 und 22 des Zweiten Buches
+Sozialgesetzbuch für eine Einzelperson verfügt, oder eine
+Berufsausbildung aufnimmt oder aufgenommen hat oder in einem Studien-
+oder Ausbildungsverhältnis steht oder einen Integrationskurs nach §
+43, einen Berufssprachkurs nach § 45a, eine Qualifizierungsmaßnahme
+von einer Dauer von mindestens drei Monaten, die zu einer
+Berufsanerkennung führt, oder eine Weiterbildungsmaßnahme nach den §§
+81 und 82 des Dritten Buches Sozialgesetzbuch aufnimmt, aufgenommen
+oder abgeschlossen hat, sofern der Kurs oder die Maßnahme nicht an dem
+nach Satz 1 verpflichtenden Wohnsitz ohne Verzögerung durchgeführt
+oder fortgesetzt werden kann. Die Frist nach Satz 1 kann um den
+Zeitraum verlängert werden, für den der Ausländer seiner nach Satz 1
+bestehenden Verpflichtung nicht nachkommt. Fallen die Gründe nach Satz
+2 innerhalb von drei Monaten weg, wirkt die Verpflichtung zur
+Wohnsitznahme nach Satz 1 in dem Land fort, in das der Ausländer
 seinen Wohnsitz verlegt hat.
 
 (1a) Wird ein Ausländer, dessen gewöhnlicher Aufenthalt durch eine
@@ -1191,20 +1198,22 @@ Zuweisungsentscheidung zugewiesen wurde. Die bis zur Volljährigkeit
 verbrachte Aufenthaltszeit ab Anerkennung als Asylberechtigter,
 Flüchtling im Sinne von § 3 Absatz 1 des Asylgesetzes oder subsidiär
 Schutzberechtigter im Sinne von § 4 Absatz 1 des Asylgesetzes oder
-nach erstmaliger Erteilung eines Aufenthaltstitels nach den §§ 22, 23
-oder 25 Absatz 3 wird auf die Frist nach Absatz 1 Satz 1 angerechnet.
+nach erstmaliger Erteilung eines Aufenthaltstitels nach den §§ 22, 23,
+24 Absatz 1 oder 25 Absatz 3 wird auf die Frist nach Absatz 1 Satz 1
+angerechnet.
 
 (2) Ein Ausländer, der der Verpflichtung nach Absatz 1 unterliegt und
 der in einer Aufnahmeeinrichtung oder anderen vorübergehenden
-Unterkunft wohnt, kann innerhalb von sechs Monaten nach Anerkennung
-oder Aufnahme längstens bis zum Ablauf der nach Absatz 1 geltenden
-Frist zu seiner Versorgung mit angemessenem Wohnraum verpflichtet
-werden, seinen Wohnsitz an einem bestimmten Ort zu nehmen, wenn dies
-der Förderung seiner nachhaltigen Integration in die
-Lebensverhältnisse der Bundesrepublik Deutschland nicht entgegensteht.
-Soweit im Einzelfall eine Zuweisung angemessenen Wohnraums innerhalb
-von sechs Monaten nicht möglich war, kann eine Zuweisung nach Satz 1
-innerhalb von einmalig weiteren sechs Monaten erfolgen.
+Unterkunft wohnt, kann innerhalb von sechs Monaten nach Anerkennung,
+Aufnahme oder Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1
+längstens bis zum Ablauf der nach Absatz 1 geltenden Frist zu seiner
+Versorgung mit angemessenem Wohnraum verpflichtet werden, seinen
+Wohnsitz an einem bestimmten Ort zu nehmen, wenn dies der Förderung
+seiner nachhaltigen Integration in die Lebensverhältnisse der
+Bundesrepublik Deutschland nicht entgegensteht. Soweit im Einzelfall
+eine Zuweisung angemessenen Wohnraums innerhalb von sechs Monaten
+nicht möglich war, kann eine Zuweisung nach Satz 1 innerhalb von
+einmalig weiteren sechs Monaten erfolgen.
 
 (3) Zur Förderung seiner nachhaltigen Integration in die
 Lebensverhältnisse der Bundesrepublik Deutschland kann ein Ausländer,
@@ -1217,8 +1226,8 @@ zu nehmen, wenn dadurch
 1.  seine Versorgung mit angemessenem Wohnraum,
 
 
-2.  sein Erwerb hinreichender mündlicher Deutschkenntnisse im Sinne des
-    Niveaus A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen
+2.  sein Erwerb ausreichender mündlicher Deutschkenntnisse im Sinne des
+    Niveaus B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen
     und
 
 
@@ -1253,11 +1262,21 @@ auf Antrag des Ausländers aufzuheben,
         minderjährigen ledigen Kind, mit dem er verwandt ist und in familiärer
         Lebensgemeinschaft lebt, eine sozialversicherungspflichtige
         Beschäftigung im Sinne von Absatz 1 Satz 2, ein den Lebensunterhalt
-        sicherndes Einkommen oder ein Ausbildungs- oder Studienplatz zur
-        Verfügung steht oder
+        überwiegend sicherndes Einkommen oder ein Ausbildungs- oder
+        Studienplatz zur Verfügung steht,
 
 
-    b)  der Ehegatte, eingetragene Lebenspartner oder ein minderjähriges
+    b)  ihm oder seinem Ehegatten, seinem eingetragenen Lebenspartner oder
+        einem minderjährigen ledigen Kind, mit dem er verwandt ist und in
+        familiärer Lebensgemeinschaft lebt, ein Integrationskurs nach § 43,
+        ein Berufssprachkurs nach § 45a, eine Qualifizierungsmaßnahme von
+        einer Dauer von mindestens drei Monaten, die zu einer
+        Berufsanerkennung führt, oder eine Weiterbildungsmaßnahme nach den §§
+        81 und 82 des Dritten Buches Sozialgesetzbuch zeitnah zur Verfügung
+        steht, oder
+
+
+    c)  der Ehegatte, eingetragene Lebenspartner oder ein minderjähriges
         lediges Kind, mit dem er verwandt ist und mit dem er zuvor in
         familiärer Lebensgemeinschaft gelebt hat, an einem anderen Wohnort
         leben,
@@ -3374,24 +3393,23 @@ Flüchtlinge. Solange die Länder für die Verteilung keinen abweichenden
 Schlüssel vereinbart haben, gilt der für die Verteilung von
 Asylbewerbern festgelegte Schlüssel.
 
-(4) Die oberste Landesbehörde oder die von ihr bestimmte Stelle
-erlässt eine Zuweisungsentscheidung. Die Landesregierungen werden
+(4) Die oberste Landesbehörde des Landes, in das der Ausländer nach
+Absatz 3 verteilt wurde, oder die von ihr bestimmte Stelle kann eine
+Zuweisungsentscheidung erlassen. Die Landesregierungen werden
 ermächtigt, die Verteilung innerhalb der Länder durch Rechtsverordnung
 zu regeln, sie können die Ermächtigung durch Rechtsverordnung auf
 andere Stellen übertragen; § 50 Abs. 4 des Asylgesetzes findet
 entsprechende Anwendung. Ein Widerspruch gegen die
 Zuweisungsentscheidung findet nicht statt. Die Klage hat keine
-aufschiebende Wirkung.
+aufschiebende Wirkung. Die Zuweisungsentscheidung erlischt mit
+Erteilung einer Aufenthaltserlaubnis nach Absatz 1.
 
 (5) Der Ausländer hat keinen Anspruch darauf, sich in einem bestimmten
 Land oder an einem bestimmten Ort aufzuhalten. Er hat seine Wohnung
 und seinen gewöhnlichen Aufenthalt an dem Ort zu nehmen, dem er nach
 den Absätzen 3 und 4 zugewiesen wurde.
 
-(6) Die Ausübung einer selbständigen Tätigkeit darf nicht
-ausgeschlossen werden. Die Aufenthaltserlaubnis berechtigt nicht zur
-Ausübung einer Beschäftigung; sie kann nach § 4a Absatz 2 erlaubt
-werden.
+(6) (weggefallen)
 
 (7) Der Ausländer wird über die mit dem vorübergehenden Schutz
 verbundenen Rechte und Pflichten schriftlich in einer ihm
@@ -3402,10 +3420,9 @@ verständlichen Sprache unterrichtet.
 
 (1) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn er
 als Asylberechtigter anerkannt ist. Dies gilt nicht, wenn der
-Ausländer auf Grund eines besonders schwerwiegenden
-Ausweisungsinteresses nach § 54 Absatz 1 ausgewiesen worden ist. Bis
-zur Erteilung der Aufenthaltserlaubnis gilt der Aufenthalt als
-erlaubt.
+Ausländer unter den Voraussetzungen des § 53 Absatz 3a ausgewiesen
+worden ist. Bis zur Erteilung der Aufenthaltserlaubnis gilt der
+Aufenthalt als erlaubt.
 
 (2) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn
 das Bundesamt für Migration und Flüchtlinge die Flüchtlingseigenschaft
@@ -3519,22 +3536,26 @@ Identität oder Staatsangehörigkeit täuscht oder zumutbare
 Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
 
 
-#### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden
+#### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und jungen Volljährigen
 
-(1) Einem jugendlichen oder heranwachsenden geduldeten Ausländer soll
-eine Aufenthaltserlaubnis erteilt werden, wenn
+(1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber
+einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf
+Monaten im Besitz einer Duldung ist, soll eine Aufenthaltserlaubnis
+erteilt werden, wenn
 
-1.  er sich seit vier Jahren ununterbrochen erlaubt, geduldet oder mit
+1.  er sich seit drei Jahren ununterbrochen erlaubt, geduldet oder mit
     einer Aufenthaltsgestattung im Bundesgebiet aufhält,
 
 
-2.  er im Bundesgebiet in der Regel seit vier Jahren erfolgreich eine
+2.  er im Bundesgebiet in der Regel seit drei Jahren erfolgreich eine
     Schule besucht oder einen anerkannten Schul- oder Berufsabschluss
-    erworben hat,
+    erworben hat. Von dieser Voraussetzung wird abgesehen, wenn der
+    Ausländer sie wegen einer körperlichen, geistigen oder seelischen
+    Krankheit oder Behinderung nicht erfüllen kann,
 
 
 3.  der Antrag auf Erteilung der Aufenthaltserlaubnis vor Vollendung des
-    21\. Lebensjahres gestellt wird,
+    27\. Lebensjahres gestellt wird,
 
 
 4.  es gewährleistet erscheint, dass er sich auf Grund seiner bisherigen
@@ -3548,7 +3569,7 @@ eine Aufenthaltserlaubnis erteilt werden, wenn
 
 
 
-Solange sich der Jugendliche oder der Heranwachsende in einer
+Solange sich der Jugendliche oder der junge Volljährige in einer
 schulischen oder beruflichen Ausbildung oder einem Hochschulstudium
 befindet, schließt die Inanspruchnahme öffentlicher Leistungen zur
 Sicherstellung des eigenen Lebensunterhalts die Erteilung der
@@ -3592,17 +3613,30 @@ bleiben.
 (4) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2
 erteilt werden.
 
+(5) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind
+für die Anwendung des Absatzes 1 Satz 1 Nummer 1 auch die in § 60b
+Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+
+(6) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll
+eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die
+Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der
+Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die
+Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt
+werden.
+
 
 #### § 25b Aufenthaltsgewährung bei nachhaltiger Integration
 
-(1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer
-1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich
-nachhaltig in die Lebensverhältnisse der Bundesrepublik Deutschland
-integriert hat. Dies setzt regelmäßig voraus, dass der Ausländer
+(1) Einem Ausländer, der geduldet oder Inhaber einer
+Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1
+Nummer 1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn
+er sich nachhaltig in die Lebensverhältnisse der Bundesrepublik
+Deutschland integriert hat. Dies setzt regelmäßig voraus, dass der
+Ausländer
 
-1.  sich seit mindestens acht Jahren oder, falls er zusammen mit einem
+1.  sich seit mindestens sechs Jahren oder, falls er zusammen mit einem
     minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt, seit
-    mindestens sechs Jahren ununterbrochen geduldet, gestattet oder mit
+    mindestens vier Jahren ununterbrochen geduldet, gestattet oder mit
     einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat,
 
 
@@ -3692,6 +3726,17 @@ zudem voraus, dass der Ausländer, sein Ehegatte oder sein
 Lebenspartner über hinreichende schriftliche Kenntnisse der deutschen
 Sprache verfügt.
 
+(7) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind
+für die Anwendung des Absatzes 1 Satz 2 Nummer 1 auch die in § 60b
+Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+
+(8) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll
+eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die
+Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der
+Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die
+Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt
+werden.
+
 
 #### § 26 Dauer des Aufenthalts
 
@@ -3728,13 +3773,9 @@ Niederlassungserlaubnis zu erteilen, wenn
     wird,
 
 
-2.  das Bundesamt für Migration und Flüchtlinge nicht nach § 73 Absatz 2a
+2.  das Bundesamt für Migration und Flüchtlinge nicht nach § 73b Absatz 3
     des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den
-    Widerruf oder die Rücknahme vorliegen; ist der Erteilung der
-    Aufenthaltserlaubnis eine Entscheidung des Bundesamtes vorausgegangen,
-    die im Jahr 2015, 2016 oder 2017 unanfechtbar geworden ist, muss das
-    Bundesamt mitgeteilt haben, dass die Voraussetzungen für den Widerruf
-    oder die Rücknahme nicht vorliegen,
+    Widerruf oder die Rücknahme vorliegen,
 
 
 3.  sein Lebensunterhalt überwiegend gesichert ist,
@@ -3764,13 +3805,9 @@ Alternative besitzt, eine Niederlassungserlaubnis zu erteilen, wenn
     wird,
 
 
-2.  das Bundesamt für Migration und Flüchtlinge nicht nach § 73 Absatz 2a
+2.  das Bundesamt für Migration und Flüchtlinge nicht nach § 73b Absatz 3
     des Asylgesetzes mitgeteilt hat, dass die Voraussetzungen für den
-    Widerruf oder die Rücknahme vorliegen; ist der Erteilung der
-    Aufenthaltserlaubnis eine Entscheidung des Bundesamtes vorausgegangen,
-    die im Jahr 2015, 2016 oder 2017 unanfechtbar geworden ist, muss das
-    Bundesamt mitgeteilt haben, dass die Voraussetzungen für den Widerruf
-    oder die Rücknahme nicht vorliegen,
+    Widerruf oder die Rücknahme vorliegen,
 
 
 3.  er die deutsche Sprache beherrscht,
@@ -4000,8 +4037,8 @@ Kind eines Ausländers, der eine Aufenthaltserlaubnis nach den §§ 22,
 oder humanitären Gründen oder zur Wahrung politischer Interessen der
 Bundesrepublik Deutschland erteilt werden. § 26 Abs. 4 gilt
 entsprechend. Ein Familiennachzug wird in den Fällen des § 25 Absatz
-4, 4b und 5, § 25a Absatz 2, § 25b Absatz 4, § 104a Abs. 1 Satz 1 und
-§ 104b nicht gewährt.
+4, 4b und 5, § 25a Absatz 2, § 25b Absatz 4, § 104a Abs. 1 Satz 1, §
+104b und § 104c nicht gewährt.
 
 (4) Die Aufenthaltserlaubnis wird dem Ehegatten und dem minderjährigen
 ledigen Kind eines Ausländers oder dem minderjährigen ledigen Kind
@@ -4111,23 +4148,29 @@ Aufenthaltserlaubnis unbeachtlich, wenn
 
 
 5.  der Ausländer im Besitz einer Blauen Karte EU, einer ICT-Karte oder
-    einer Mobiler-ICT-Karte oder einer Aufenthaltserlaubnis nach § 18d
-    oder § 18f ist,
+    einer Mobiler-ICT-Karte oder eines Aufenthaltstitels nach den §§ 18a,
+    18b Absatz 1, § 18c Absatz 3, den §§ 18d, 18f, 19c Absatz 1 für eine
+    Beschäftigung als leitender Angestellter, als Führungskraft, als
+    Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
+    als Ingenieur oder Techniker im Forschungsteam eines
+    Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4 Satz 1
+    oder § 21 ist,
 
 
 6.  es dem Ehegatten auf Grund besonderer Umstände des Einzelfalles nicht
     möglich oder nicht zumutbar ist, vor der Einreise Bemühungen zum
-    Erwerb einfacher Kenntnisse der deutschen Sprache zu unternehmen,
+    Erwerb einfacher Kenntnisse der deutschen Sprache zu unternehmen, oder
 
 
-7.  der Ausländer einen Aufenthaltstitel nach den §§ 18c Absatz 3 und § 21
-    besitzt und die Ehe bereits bestand, als er seinen Lebensmittelpunkt
-    in das Bundesgebiet verlegt hat, oder
-
-
-8.  der Ausländer unmittelbar vor der Erteilung einer
+7.  der Ausländer unmittelbar vor der Erteilung einer
     Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU
-    Inhaber einer Aufenthaltserlaubnis nach § 18d war.
+    Inhaber einer Blauen Karte EU oder einer Aufenthaltserlaubnis nach den
+    §§ 18a, 18b Absatz 1, den §§ 18d, 19c Absatz 1 für eine Beschäftigung
+    als leitender Angestellter, als Führungskraft, als
+    Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
+    als Ingenieur oder Techniker im Forschungsteam eines
+    Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4 Satz 1
+    oder § 21 war.
 
 
 
@@ -4267,13 +4310,30 @@ wenn
     Absatz 1 oder 2, eine Niederlassungserlaubnis nach § 26 Absatz 3 oder
     nach Erteilung einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1
     zweite Alternative eine Niederlassungserlaubnis nach § 26 Absatz 4
-    besitzt oder
+    besitzt,
 
 
 2.  der Ausländer oder sein mit ihm in familiärer Lebensgemeinschaft
     lebender Ehegatte eine Niederlassungserlaubnis nach § 18c Absatz 3,
     eine Blaue Karte EU, eine ICT-Karte oder eine Mobiler-ICT-Karte oder
-    eine Aufenthaltserlaubnis nach § 18d oder § 18f besitzt.
+    eine Aufenthaltserlaubnis nach den §§ 18a, 18b Absatz 1, den §§ 18d,
+    18f, § 19c Absatz 1 für eine Beschäftigung als leitender Angestellter,
+    als Führungskraft, als Unternehmensspezialist, als Wissenschaftler,
+    als Gastwissenschaftler, als Ingenieur oder Techniker im
+    Forschungsteam eines Gastwissenschaftlers oder als Lehrkraft, § 19c
+    Absatz 2 oder 4 Satz 1 oder § 21 besitzt, oder
+
+
+3.  der Ausländer oder sein mit ihm in familiärer Lebensgemeinschaft
+    lebender Ehegatte unmittelbar vor der Erteilung einer
+    Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU
+    Inhaber einer Blauen Karte EU oder einer Aufenthaltserlaubnis nach den
+    §§ 18a, 18b Absatz 1, den §§ 18d, 19c Absatz 1 für eine Beschäftigung
+    als leitender Angestellter, als Führungskraft, als
+    Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
+    als Ingenieur oder Techniker im Forschungsteam eines
+    Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4 Satz 1
+    oder § 21 war.
 
 
 
@@ -4919,8 +4979,8 @@ bestimmen:
 
 
 5.  die Voraussetzungen und das Verfahren zur Erteilung einer
-    Arbeitserlaubnis zum Zweck der Saisonbeschäftigung an Staatsangehörige
-    der in Anhang II zu der Verordnung (EG) Nr. 539/2001 des Rates vom 15.
+    Arbeitserlaubnis der Bundesagentur für Arbeit an Staatsangehörige der
+    in Anhang II zu der Verordnung (EG) Nr. 539/2001 des Rates vom 15.
     März 2001 zur Aufstellung der Liste der Drittländer, deren
     Staatsangehörige beim Überschreiten der Außengrenzen im Besitz eines
     Visums sein müssen, sowie der Liste der Drittländer, deren
@@ -4930,7 +4990,15 @@ bestimmen:
 
 6.  Berufe, in denen für Angehörige bestimmter Staaten die Erteilung einer
     Blauen Karte EU zu versagen ist, weil im Herkunftsland ein Mangel an
-    qualifizierten Arbeitnehmern in diesen Berufsgruppen besteht.
+    qualifizierten Arbeitnehmern in diesen Berufsgruppen besteht,
+
+
+7.  Fälle, in denen ein Arbeitgeber, der Rechtspflichten in Bezug auf die
+    Beschäftigung, insbesondere arbeits-, sozialversicherungs- oder
+    steuerrechtliche Pflichten, verletzt hat, von der Möglichkeit
+    ausgeschlossen werden kann, dass die Bundesagentur für Arbeit eine
+    Zustimmung oder Arbeitserlaubnis für die Beschäftigung eines
+    Ausländers bei diesem Arbeitgeber erteilt.
 
 
 
@@ -5053,38 +5121,16 @@ Staatsangehörige Anwendung, wenn sie nicht über ausreichende
 Kenntnisse der deutschen Sprache verfügen und in besonderer Weise
 integrationsbedürftig sind, sowie auf Ausländer, die
 
-1.  eine Aufenthaltsgestattung besitzen und
-
-    a)  bei denen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist
-        oder
-
-
-    b)  die vor dem 1. August 2019 in das Bundesgebiet eingereist sind, sich
-        seit mindestens drei Monaten gestattet im Bundesgebiet aufhalten,
-        nicht aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes
-        stammen und bei der Agentur für Arbeit ausbildungsuchend,
-        arbeitsuchend oder arbeitslos gemeldet sind oder beschäftigt sind oder
-        in einer Berufsausbildung im Sinne von § 57 Absatz 1 des Dritten
-        Buches Sozialgesetzbuch stehen oder in Maßnahmen nach dem Zweiten
-        Unterabschnitt des Dritten Abschnitts des Dritten Kapitels oder § 74
-        Absatz 1 Satz 2 des Dritten Buches Sozialgesetzbuch gefördert werden
-        oder bei denen die Voraussetzungen des § 11 Absatz 4 Satz 2 und 3 des
-        Zwölften Buches Sozialgesetzbuch vorliegen oder
-
-
-
+1.  eine Aufenthaltsgestattung besitzen,
 
 
 2.  eine Duldung nach § 60a Absatz 2 Satz 3 besitzen oder
 
 
-3.  eine Aufenthaltserlaubnis nach § 25 Absatz 5 besitzen.
+3.  eine Aufenthaltserlaubnis nach § 24 oder § 25 Absatz 5 besitzen.
 
 
 
-Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach §
-29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und
-dauerhafter Aufenthalt nicht zu erwarten ist.
 
 
 ### § 44a Verpflichtung zur Teilnahme an einem Integrationskurs
@@ -5107,9 +5153,10 @@ verpflichtet, wenn
 
 
 
-2.  er Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und die
-    Teilnahme am Integrationskurs in einer Eingliederungsvereinbarung nach
-    dem Zweiten Buch Sozialgesetzbuch vorgesehen ist,
+2.  er Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und ihn
+    der Träger der Grundsicherung für Arbeitsuchende nach § 15 Absatz 5
+    Satz 2 oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur Teilnahme
+    am Integrationskurs auffordert,
 
 
 3.  er in besonderer Weise integrationsbedürftig ist und die
@@ -5125,19 +5172,16 @@ verpflichtet, wenn
 
 In den Fällen des Satzes 1 Nr. 1 stellt die Ausländerbehörde bei der
 Erteilung des Aufenthaltstitels fest, dass der Ausländer zur Teilnahme
-verpflichtet ist. In den Fällen des Satzes 1 Nr. 2 ist der Ausländer
-auch zur Teilnahme verpflichtet, wenn der Träger der Grundsicherung
-für Arbeitsuchende ihn zur Teilnahme auffordert. Der Träger der
-Grundsicherung für Arbeitsuchende soll in den Fällen des Satzes 1 Nr.
-1 und 3 beim Bezug von Leistungen nach dem Zweiten Buch
-Sozialgesetzbuch für die Maßnahmen nach § 15 des Zweiten Buches
-Sozialgesetzbuch der Verpflichtung durch die Ausländerbehörde im
-Regelfall folgen. Sofern der Träger der Grundsicherung für
-Arbeitsuchende im Einzelfall eine abweichende Entscheidung trifft, hat
-er dies der Ausländerbehörde mitzuteilen, die die Verpflichtung
-widerruft. Die Verpflichtung ist zu widerrufen, wenn einem Ausländer
-neben seiner Erwerbstätigkeit eine Teilnahme auch an einem
-Teilzeitkurs nicht zuzumuten ist. Darüber hinaus können die
+verpflichtet ist. Der Träger der Grundsicherung für Arbeitsuchende
+soll in den Fällen des Satzes 1 Nr. 1 und 3 beim Bezug von Leistungen
+nach dem Zweiten Buch Sozialgesetzbuch für die Maßnahmen nach § 15 des
+Zweiten Buches Sozialgesetzbuch der Verpflichtung durch die
+Ausländerbehörde im Regelfall folgen. Sofern der Träger der
+Grundsicherung für Arbeitsuchende im Einzelfall eine abweichende
+Entscheidung trifft, hat er dies der Ausländerbehörde mitzuteilen, die
+die Verpflichtung widerruft. Die Verpflichtung ist zu widerrufen, wenn
+einem Ausländer neben seiner Erwerbstätigkeit eine Teilnahme auch an
+einem Teilzeitkurs nicht zuzumuten ist. Darüber hinaus können die
 Ausländerbehörden einen Ausländer bei der Erteilung eines
 Aufenthaltstitels nach § 25 Absatz 1 oder 2 zur Teilnahme an einem
 Integrationskurs verpflichten, wenn er sich lediglich auf einfache Art
@@ -5215,36 +5259,13 @@ zur Durchführung der Maßnahmen privater oder öffentlicher Träger.
 
 (2) Ein Ausländer ist zur Teilnahme an einer Maßnahme der
 berufsbezogenen Deutschsprachförderung verpflichtet, wenn er
-Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und die
-Teilnahme an der Maßnahme in einer Eingliederungsvereinbarung nach dem
-Zweiten Buch Sozialgesetzbuch vorgesehen ist. Leistungen zur
-Eingliederung in Arbeit nach dem Zweiten Buch Sozialgesetzbuch und
-Leistungen der aktiven Arbeitsförderung nach dem Dritten Buch
-Sozialgesetzbuch bleiben unberührt. Die Teilnahme an der
-berufsbezogenen Deutschsprachförderung setzt für Ausländer mit einer
-Aufenthaltsgestattung nach dem Asylgesetz voraus, dass
-
-1.  bei dem Ausländer ein rechtmäßiger und dauerhafter Aufenthalt zu
-    erwarten ist oder
-
-
-2.  der Ausländer vor dem 1. August 2019 in das Bundesgebiet eingereist
-    ist, er sich seit mindestens drei Monaten gestattet im Bundesgebiet
-    aufhält, nicht aus einem sicheren Herkunftsstaat nach § 29a des
-    Asylgesetzes stammt und bei der Agentur für Arbeit ausbildungsuchend,
-    arbeitsuchend oder arbeitslos gemeldet ist oder beschäftigt ist oder
-    in einer Berufsausbildung im Sinne von § 57 Absatz 1 des Dritten
-    Buches Sozialgesetzbuch steht oder in Maßnahmen nach dem Zweiten
-    Unterabschnitt des Dritten Abschnitts des Dritten Kapitels oder § 74
-    Absatz 1 Satz 2 des Dritten Buches Sozialgesetzbuch gefördert wird
-    oder bei dem die Voraussetzungen des § 11 Absatz 4 Satz 2 und 3 des
-    Zwölften Buches Sozialgesetzbuch vorliegen.
-
-
-
-Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach §
-29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und
-dauerhafter Aufenthalt nicht zu erwarten ist.
+Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und ihn der
+Träger der Grundsicherung für Arbeitsuchende nach § 15 Absatz 5 Satz 2
+oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur Teilnahme an der
+Maßnahme auffordert. Leistungen zur Eingliederung in Arbeit nach dem
+Zweiten Buch Sozialgesetzbuch und Leistungen der aktiven
+Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch bleiben
+unberührt.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen
@@ -5489,6 +5510,13 @@ erforderlichen Maßnahmen zu treffen, wenn
 
 (4) Die Identität eines Ausländers ist durch erkennungsdienstliche
 Maßnahmen zu sichern, wenn eine Verteilung gemäß § 15a stattfindet.
+
+(4a) Die Identität eines Ausländers, der eine Aufenthaltserlaubnis
+nach § 24 beantragt und der das vierzehnte Lebensjahr vollendet hat,
+ist vor Erteilung der Aufenthaltserlaubnis durch erkennungsdienstliche
+Maßnahmen zu sichern. Bei Ausländern nach Satz 1, die das sechste,
+aber noch nicht das vierzehnte Lebensjahr vollendet haben, soll die
+Identität durch erkennungsdienstliche Maßnahmen gesichert werden.
 
 (5) Zur Feststellung und Sicherung der Identität sollen die
 erforderlichen Maßnahmen durchgeführt werden,
@@ -5957,21 +5985,14 @@ Grundinteresse der Gesellschaft berührt und die Ausweisung für die
 Wahrung dieses Interesses unerlässlich ist.
 
 (3a) Ein Ausländer, der als Asylberechtigter anerkannt ist, der im
-Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings
-genießt oder der einen von einer Behörde der Bundesrepublik
-Deutschland ausgestellten Reiseausweis nach dem Abkommen vom 28. Juli
-1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559)
-besitzt, darf nur ausgewiesen werden, wenn er aus schwerwiegenden
-Gründen als eine Gefahr für die Sicherheit der Bundesrepublik
-Deutschland oder eine terroristische Gefahr anzusehen ist oder er eine
-Gefahr für die Allgemeinheit darstellt, weil er wegen einer schweren
-Straftat rechtskräftig verurteilt wurde.
-
-(3b) Ein Ausländer, der die Rechtsstellung eines subsidiär
-Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylgesetzes genießt,
-darf nur ausgewiesen werden, wenn er eine schwere Straftat begangen
-hat oder er eine Gefahr für die Allgemeinheit oder die Sicherheit der
-Bundesrepublik Deutschland darstellt.
+Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings im
+Sinne des § 3 Absatz 1 des Asylgesetzes oder eines subsidiär
+Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylgesetzes genießt
+oder der einen von einer Behörde der Bundesrepublik Deutschland
+ausgestellten Reiseausweis nach dem Abkommen vom 28. Juli 1951 über
+die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) besitzt,
+darf nur bei Vorliegen zwingender Gründe der nationalen Sicherheit
+oder öffentlichen Ordnung ausgewiesen werden.
 
 (4) Ein Ausländer, der einen Asylantrag gestellt hat, kann nur unter
 der Bedingung ausgewiesen werden, dass das Asylverfahren unanfechtbar
@@ -5979,7 +6000,7 @@ ohne Anerkennung als Asylberechtigter oder ohne die Zuerkennung
 internationalen Schutzes (§ 1 Absatz 1 Nummer 2 des Asylgesetzes)
 abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
 
-1.  ein Sachverhalt vorliegt, der nach Absatz 3 eine Ausweisung
+1.  ein Sachverhalt vorliegt, der nach Absatz 3a eine Ausweisung
     rechtfertigt oder
 
 
@@ -7021,7 +7042,11 @@ falsche Angaben selbst herbeiführt. Satz 1 Nummer 3 gilt bei
 unbegleiteten minderjährigen Ausländern nicht für die Rücknahme des
 Asylantrags oder den Verzicht auf die Antragstellung, wenn die
 Rücknahme oder der Verzicht auf das Stellen eines Asylantrags im
-Interesse des Kindeswohls erfolgte.
+Interesse des Kindeswohls erfolgte. Abweichend von den Sätzen 1 bis 3
+ist einem Ausländer, der als Asylberechtigter anerkannt ist, der im
+Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings oder
+eines subsidiär Schutzberechtigten genießt, die Erwerbstätigkeit
+erlaubt.
 
 
 #### § 60b Duldung für Personen mit ungeklärter Identität
@@ -7497,11 +7522,15 @@ ausnahmsweise abgesehen werden, wenn der Ausländer glaubhaft macht,
 dass er sich der Abschiebung nicht entziehen will. Die Sicherungshaft
 ist unzulässig, wenn feststeht, dass aus Gründen, die der Ausländer
 nicht zu vertreten hat, die Abschiebung nicht innerhalb der nächsten
-drei Monate durchgeführt werden kann. Abweichend von Satz 3 ist die
-Sicherungshaft bei einem Ausländer, von dem eine erhebliche Gefahr für
-Leib und Leben Dritter oder bedeutende Rechtsgüter der inneren
-Sicherheit ausgeht, auch dann zulässig, wenn die Abschiebung nicht
-innerhalb der nächsten drei Monate durchgeführt werden kann.
+drei Monate durchgeführt werden kann; bei einem Ausländer, bei dem ein
+Fall des § 54 Absatz 1 Nummer 1 bis 1b oder Absatz 2 Nummer 1 oder 3
+vorliegt und auf den nicht das Jugendstrafrecht angewendet wurde oder
+anzuwenden wäre, gilt abweichend ein Zeitraum von sechs Monaten.
+Abweichend von Satz 3 ist die Sicherungshaft bei einem Ausländer, von
+dem eine erhebliche Gefahr für Leib und Leben Dritter oder bedeutende
+Rechtsgüter der inneren Sicherheit ausgeht, auch dann zulässig, wenn
+die Abschiebung nicht innerhalb der nächsten drei Monate durchgeführt
+werden kann.
 
 (3a) Fluchtgefahr im Sinne von Absatz 3 Satz 1 Nummer 1 wird
 widerleglich vermutet, wenn
@@ -7653,11 +7682,16 @@ anzurechnen. § 62a Absatz 1 findet entsprechende Anwendung.
 
 #### § 62a Vollzug der Abschiebungshaft
 
-(1) Abschiebungsgefangene sind getrennt von Strafgefangenen
-unterzubringen. Werden mehrere Angehörige einer Familie inhaftiert, so
-sind diese getrennt von den übrigen Abschiebungsgefangenen
-unterzubringen. Ihnen ist ein angemessenes Maß an Privatsphäre zu
-gewährleisten.
+(1) Die Abschiebungshaft wird grundsätzlich in speziellen
+Hafteinrichtungen vollzogen. Sind spezielle Hafteinrichtungen im
+Bundesgebiet nicht vorhanden oder geht von dem Ausländer eine
+erhebliche Gefahr für Leib und Leben Dritter oder bedeutende
+Rechtsgüter der inneren Sicherheit aus, kann sie in sonstigen
+Haftanstalten vollzogen werden; die Abschiebungsgefangenen sind in
+diesem Fall getrennt von Strafgefangenen unterzubringen. Werden
+mehrere Angehörige einer Familie inhaftiert, so sind diese getrennt
+von den übrigen Abschiebungsgefangenen unterzubringen. Ihnen ist ein
+angemessenes Maß an Privatsphäre zu gewährleisten.
 
 (2) Den Abschiebungsgefangenen wird gestattet, mit Rechtsvertretern,
 Familienangehörigen, den zuständigen Konsularbehörden und einschlägig
@@ -9322,25 +9356,28 @@ Zusatzfunktion eines elektronischen Identitätsnachweises genutzt
 werden. Insoweit sind § 2 Absatz 3 bis 7, 10, 12 und 13, § 4 Absatz 3,
 § 7 Absatz 3b, 4 und 5, § 10 Absatz 1 bis 5, 6 Satz 1, Absatz 7, 8
 Satz 1 und Absatz 9, die §§ 10a, 11 Absatz 1 bis 5 und 7, § 12 Absatz
-2 Satz 2, die §§ 13, 16, 18, 18a, 19 Absatz 1, 2 Satz 1 und 2 und
-Absatz 3 bis 6, die §§ 19a, 20 Absatz 2 und 3, die §§ 20a, 21, 21a,
-21b, 27 Absatz 2 und 3, § 32 Absatz 1 Nummer 5 und 6 mit Ausnahme des
-dort angeführten § 19 Absatz 2 Nummer 6a bis 8, Absatz 2 und 3 sowie §
-33 Nummer 1, 2 und 4 des Personalausweisgesetzes mit der Maßgabe
-entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der
-Personalausweisbehörde und der Hersteller der Dokumente an die Stelle
-des Ausweisherstellers tritt. Neben den in § 18 Absatz 3 Satz 2 des
-Personalausweisgesetzes aufgeführten Daten können im Rahmen des
-elektronischen Identitätsnachweises unter den Voraussetzungen des § 18
-Absatz 4 des Personalausweisgesetzes auch die nach Absatz 3 Nummer 3
-gespeicherten Nebenbestimmungen sowie die Abkürzung der
-Staatsangehörigkeit übermittelt werden. Für das Sperrkennwort und die
-Sperrmerkmale gilt Absatz 2 Satz 3 entsprechend.
+2 Satz 2, die §§ 18, 18a, 19 Absatz 1, 2 Satz 1 und 2 und Absatz 3 bis
+6, die §§ 19a, 20 Absatz 2 und 3, die §§ 20a, 21, 21a, 21b, 27 Absatz
+1 Nummer 6, Absatz 2 und 3, § 32 Absatz 1 Nummer 5 und 6 mit Ausnahme
+des dort angeführten § 19 Absatz 2 Nummer 6a bis 8, Absatz 2 und 3
+sowie § 33 Nummer 1, 2 und 4 des Personalausweisgesetzes mit der
+Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die
+Stelle der Personalausweisbehörde und der Hersteller der Dokumente an
+die Stelle des Ausweisherstellers tritt. Neben den in § 18 Absatz 3
+Satz 2 des Personalausweisgesetzes aufgeführten Daten können im Rahmen
+des elektronischen Identitätsnachweises unter den Voraussetzungen des
+§ 18 Absatz 4 des Personalausweisgesetzes auch die nach Absatz 3
+Nummer 3 gespeicherten Nebenbestimmungen übermittelt werden. Für das
+Sperrkennwort und die Sperrmerkmale gilt Absatz 2 Satz 3 entsprechend.
 
 (6) Die mit der Ausführung dieses Gesetzes betrauten oder zur
-hoheitlichen Identitätsfeststellung befugten Behörden dürfen die in
-der Zone für das automatische Lesen enthaltenen Daten zur Erfüllung
-ihrer gesetzlichen Aufgaben verarbeiten.
+hoheitlichen Identitätsfeststellung befugten Behörden dürfen die im
+Chip gespeicherten Daten zur Erfüllung ihrer gesetzlichen Aufgaben mit
+Ausnahme der biometrischen Daten automatisiert verarbeiten. Können die
+Daten aus dem Chip nicht ausgelesen werden, dürfen die dort genannten
+Behörden die für das automatische Lesen in der Zone nach Absatz 2 Satz
+2 enthaltenen Daten zur Erfüllung ihrer gesetzlichen Aufgaben
+automatisiert verarbeiten.
 
 (7) Öffentliche Stellen dürfen die im elektronischen Speicher- und
 Verarbeitungsmedium eines Dokuments nach Absatz 1 gespeicherten Daten
@@ -9349,7 +9386,35 @@ Erfüllung ihrer jeweiligen gesetzlichen Aufgaben erforderlich ist. Die
 im elektronischen Speicher- und Verarbeitungsmedium gespeicherte
 Anschrift und die nach Absatz 1 Satz 3 Nummer 5 aufzubringende
 Anschrift dürfen durch die Ausländerbehörden sowie durch andere durch
-Landesrecht bestimmte Behörden geändert werden.
+Landesrecht bestimmte Behörden geändert werden. Abweichend von Satz 1
+dürfen öffentliche Stellen, wenn dies durch ein Gesetz oder auf Grund
+eines Gesetzes bestimmt ist, mit Zustimmung des Inhabers des
+elektronischen Aufenthaltstitels zur Prüfung der Identität des
+Inhabers des elektronischen Aufenthaltstitels
+
+1.  die auf dem elektronischen Speicher- und Verarbeitungsmedium des
+    elektronischen Aufenthaltstitels gespeicherten Daten nach Absatz 2
+    Satz 2 und die Daten, die zur Überprüfung der Echtheit des
+    elektronischen Aufenthaltstitels erforderlich sind, sowie das auf dem
+    elektronischen Speicher- und Verarbeitungsmedium gespeicherte
+    Lichtbild auslesen und
+
+
+2.  von den ausgelesenen Daten ausschließlich das Lichtbild, die Daten
+    nach Absatz 2 Satz 2 Nummer 1, 2, 4, 6, 8, 9 sowie die Daten, die zur
+    Überprüfung der Echtheit des elektronischen Aufenthaltstitels
+    erforderlich sind, verwenden.
+
+
+
+Anlässlich der Datenverarbeitung nach Satz 3 überprüft die
+verarbeitende öffentliche Stelle die Echtheit des elektronischen
+Aufenthaltstitels. Von den nach Satz 3 Nummer 1 ausgelesenen Daten
+sind die Daten nach Satz 3 Nummer 2 von der verarbeitenden
+öffentlichen Stelle unverzüglich nach Beendigung der Prüfung der
+Identität des Inhabers, die übrigen Daten unverzüglich nach dem
+Auslesen zu löschen, soweit dies nicht durch Gesetz oder auf Grund
+eines Gesetzes abweichend geregelt ist.
 
 (8) Die durch technische Mittel vorgenommene Verarbeitung
 personenbezogener Daten aus Dokumenten nach Absatz 1 darf nur im Wege
@@ -9363,17 +9428,10 @@ Absatz 1.
 
 (1) Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 können
 abweichend von § 78 nach einem einheitlichen Vordruckmuster
-ausgestellt werden, wenn
-
-1.  der Aufenthaltstitel zum Zwecke der Verlängerung der Aufenthaltsdauer
-    um einen Monat erteilt werden soll oder
-
-
-2.  die Ausstellung zur Vermeidung außergewöhnlicher Härten geboten ist.
-
-
-
-Das Vordruckmuster enthält folgende Angaben:
+ausgestellt werden, wenn zur Vermeidung außergewöhnlicher Härten der
+Aufenthaltstitel zur Verlängerung der Aufenthaltsdauer um höchstens
+einen Monat erteilt werden soll. Das Vordruckmuster enthält folgende
+Angaben:
 
 1.  Name und Vornamen des Inhabers,
 
@@ -9536,8 +9594,7 @@ Familiennachzugs zu einem Ausländer beantragt,
     Absatz 3 Nummer 2 genannten Straftaten eingeleitet wurde, oder
 
 
-3.  bei dem ein Widerrufsverfahren nach § 73b Absatz 1 Satz 1 des
-    Asylgesetzes oder ein Rücknahmeverfahren nach § 73b Absatz 3 des
+3.  bei dem ein Widerrufs- oder Rücknahmeverfahren nach § 73b des
     Asylgesetzes eingeleitet wurde,
 
 
@@ -9646,6 +9703,13 @@ oder einer Mobiler-ICT-Karte gestellt wird, so wird über den Antrag
 auf Erteilung einer Aufenthaltserlaubnis zum Zweck des
 Familiennachzugs gleichzeitig mit dem Antrag auf Erteilung einer ICT-
 Karte oder einer Mobiler-ICT-Karte entschieden.
+
+(7) Ist die Identität durch erkennungsdienstliche Behandlung gemäß §
+49 dieses Gesetzes oder § 16 des Asylgesetzes zu sichern, so darf eine
+Fiktionsbescheinigung nach Absatz 5 nur ausgestellt oder ein
+Aufenthaltstitel nur erteilt werden, wenn die erkennungsdienstliche
+Behandlung durchgeführt worden ist und eine Speicherung der hierdurch
+gewonnenen Daten im Ausländerzentralregister erfolgt ist.
 
 
 #### § 81a Beschleunigtes Fachkräfteverfahren
@@ -10194,18 +10258,24 @@ Bundesagentur für Arbeit, den zuständigen Träger der Grundsicherung
 für Arbeitsuchende oder den zuständigen Träger der Leistungen nach dem
 Asylbewerberleistungsgesetz über eine nicht ordnungsgemäße Teilnahme
 eines nach § 44a Absatz 1 Satz 1 zur Teilnahme verpflichteten
-Ausländers informieren. Das Bundesamt für Migration und Flüchtlinge
-darf die nach Satz 1 übermittelten Daten auf Ersuchen den
-Ausländerbehörden, der Bundesagentur für Arbeit, den Trägern der
-Grundsicherung für Arbeitsuchende oder den Trägern der Leistungen nach
-dem Asylbewerberleistungsgesetz und den Staatsangehörigkeitsbehörden
+Ausländers oder eines Ausländers, dessen Teilnahme an einem
+Integrationskurs im Rahmen eines Kooperationsplans nach § 15 Absatz 2
+des Zweiten Buches Sozialgesetzbuch vorgesehen ist, informieren. Das
+Bundesamt für Migration und Flüchtlinge darf die nach Satz 1
+übermittelten Daten auf Ersuchen den Ausländerbehörden, der
+Bundesagentur für Arbeit, den Trägern der Grundsicherung für
+Arbeitsuchende oder den Trägern der Leistungen nach dem
+Asylbewerberleistungsgesetz und den Staatsangehörigkeitsbehörden
 übermitteln, soweit dies für die Erteilung einer Zulassung oder
 Berechtigung zum Integrationskurs, zur Kontrolle der Erfüllung der
 Teilnahmeverpflichtung, für die Verlängerung einer
 Aufenthaltserlaubnis, für die Erteilung einer Niederlassungserlaubnis
 oder einer Erlaubnis zum Daueraufenthalt – EU, zur Überwachung der
-Eingliederungsvereinbarung, zur Integration in den Arbeitsmarkt oder
-zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Darüber
+Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch in
+der bis zum 30. Juni 2023 gültigen Fassung oder des Kooperationsplans
+nach dem Zweiten Buch Sozialgesetzbuch in der ab dem 1. Juli 2023
+gültigen Fassung, zur Integration in den Arbeitsmarkt oder zur
+Durchführung des Einbürgerungsverfahrens erforderlich ist. Darüber
 hinaus ist eine Verarbeitung dieser Daten durch das Bundesamt für
 Migration und Flüchtlinge nur für die Durchführung und Abrechnung der
 Integrationskurse sowie für die Durchführung eines wissenschaftlichen
@@ -10244,9 +10314,12 @@ Grundsicherung für Arbeitsuchende und den Staatsangehörigkeitsbehörden
 Berechtigung zur Maßnahme, zur Kontrolle der ordnungsgemäßen
 Teilnahme, für die Erteilung einer Niederlassungserlaubnis oder einer
 Erlaubnis zum Daueraufenthalt-EU, zur Überwachung der
-Eingliederungsvereinbarung, zur Integration in den Arbeitsmarkt oder
-zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Die mit
-der Durchführung der berufsbezogenen Deutschsprachförderung betrauten
+Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch in
+der bis zum 30. Juni 2023 gültigen Fassung oder des Kooperationsplans
+nach dem Zweiten Buch Sozialgesetzbuch in der ab dem 1. Juli 2023
+gültigen Fassung, zur Integration in den Arbeitsmarkt oder zur
+Durchführung des Einbürgerungsverfahrens erforderlich ist. Die mit der
+Durchführung der berufsbezogenen Deutschsprachförderung betrauten
 privaten und öffentlichen Träger dürfen die zuständige
 Ausländerbehörde, die Bundesagentur für Arbeit oder den zuständigen
 Träger der Grundsicherung für Arbeitsuchende über eine nicht
@@ -10644,7 +10717,10 @@ asylrechtlichen Aufgaben im Zusammenhang mit der Aufenthaltsgewährung,
 der Verteilung der aufgenommenen Ausländer im Bundesgebiet, der
 Wohnsitzverlegung aufgenommener Ausländer in andere Mitgliedstaaten
 der Europäischen Union, der Familienzusammenführung und der Förderung
-der freiwilligen Rückkehr übermittelt werden.
+der freiwilligen Rückkehr übermittelt werden. Die Daten dürfen auf
+Ersuchen auch den Mitgliedsstaaten der Europäischen Union und der
+Europäischen Kommission übermittelt werden, um Aufgaben nach den
+Artikeln 10 und 27 Absatz 1 der Richtlinie 2001/55/EG zu erfüllen.
 
 (6) Die Registerbehörde hat über Datenübermittlungen nach Absatz 5
 Aufzeichnungen zu fertigen. § 13 des AZR-Gesetzes gilt entsprechend.
@@ -11770,9 +11846,9 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
     e)  beim Bundesamt für Migration und Flüchtlinge einen Beirat für
-        Forschungsmigration einzurichten, der es bei der Anerkennung von
-        Forschungseinrichtungen unterstützt und die Anwendung des § 18d
-        beobachtet und bewertet,
+        Forschungsmigration und Fachkräfteeinwanderung einzurichten, der es
+        bei der Anerkennung von Forschungseinrichtungen unterstützt und die
+        Anwendung des § 18d beobachtet und bewertet,
 
 
     f)  den Zeitpunkt des Beginns der Bearbeitung von Anträgen auf Anerkennung
@@ -11929,7 +12005,10 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
     j)  die Pflichten von Ausländern, die sich im Bundesgebiet aufhalten,
         hinsichtlich der Ausstellung, Neubeantragung und Verlängerung, des
         Verlustes und Wiederauffindens sowie der Vorlage und Abgabe von
-        Dokumenten nach § 78.
+        Dokumenten nach § 78,
+
+
+    k)  Einzelheiten der Ausgabe und den Versand der Dokumente nach § 78.
 
 
 
@@ -12278,7 +12357,15 @@ ergriffen hat.
 Dezember 2019 erlaubt wurden, gilt § 60a Absatz 6 in der bis zu diesem
 Tag geltenden Fassung fort.
 
-(17) (weggefallen)
+(17) Auf Personen mit einer bis zum Ablauf des 30. Juni 2023
+abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten
+Buches Sozialgesetzbuch in der bis zu diesem Zeitpunkt gültigen
+Fassung sind bis zur erstmaligen Erstellung eines Kooperationsplans
+nach § 15 des Zweiten Buches Sozialgesetzbuch in der ab dem 1. Juli
+2023 gültigen Fassung, spätestens bis zum Ablauf des 31. Dezember
+2023, § 44a Absatz 1 Satz 1 Nummer 2 und Satz 3 sowie § 45a Absatz 2
+Satz 1 in der bis zum 30. Juni 2023 gültigen Fassung weiter
+anzuwenden.
 
 
 ### § 104a Altfallregelung
@@ -12449,6 +12536,59 @@ verlängert wird, abweichend von § 5 Abs. 1 Nr. 1, Abs. 2 und § 10 Abs.
 
 
 
+### § 104c Chancen-Aufenthaltsrecht
+
+(1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer
+1, 1a und 4 sowie § 5 Absatz 2 eine Aufenthaltserlaubnis erteilt
+werden, wenn er sich am 31. Oktober 2022 seit fünf Jahren
+ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis
+im Bundesgebiet aufgehalten hat und er
+
+1.  sich zur freiheitlichen demokratischen Grundordnung der Bundesrepublik
+    Deutschland bekennt und
+
+
+2.  nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat
+    verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50
+    Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem
+    Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen
+    werden können, oder Verurteilungen nach dem Jugendstrafrecht, die
+    nicht auf Jugendstrafe lauten, grundsätzlich außer Betracht bleiben.
+
+
+
+Die Aufenthaltserlaubnis nach Satz 1 soll versagt werden, wenn der
+Ausländer wiederholt vorsätzlich falsche Angaben gemacht oder über
+seine Identität oder Staatsangehörigkeit getäuscht hat und dadurch
+seine Abschiebung verhindert. Für die Anwendung des Satzes 1 sind auch
+die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+
+(2) Dem Ehegatten, dem Lebenspartner und minderjährigen, ledigen
+Kindern, die mit einem Begünstigten nach Absatz 1 in häuslicher
+Gemeinschaft leben, soll unter den Voraussetzungen des Absatzes 1
+Nummer 1 und 2 eine Aufenthaltserlaubnis auch dann erteilt werden,
+wenn diese sich am 31. Oktober 2022 noch nicht seit fünf Jahren
+ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis
+im Bundesgebiet aufgehalten haben. Das Gleiche gilt für das
+volljährige ledige Kind, wenn es bei der Einreise in das Bundesgebiet
+minderjährig war. Absatz 1 Satz 2 findet entsprechende Anwendung.
+
+(3) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2
+erteilt werden. Sie gilt als Aufenthaltstitel nach Kapitel 2 Abschnitt
+5\. Sie wird für 18 Monate erteilt und ist nicht verlängerbar. Während
+des Aufenthalts nach Satz 3 kann nur eine Aufenthaltserlaubnis nach
+§ 25a oder § 25b erteilt werden. Der Antrag auf Erteilung eines
+anderen Aufenthaltstitels als nach § 25a oder § 25b entfaltet nicht
+die Wirkung nach § 81 Absatz 4.
+
+(4) Der Ausländer ist spätestens bei der Erteilung der
+Aufenthaltserlaubnis auf die Voraussetzungen für die Erteilung einer
+Aufenthaltserlaubnis nach § 25b und, falls er das 27. Lebensjahr noch
+nicht vollendet hat, nach § 25a hinzuweisen. Dabei soll die
+Ausländerbehörde auch konkrete Handlungspflichten, die in zumutbarer
+Weise zu erfüllen sind, bezeichnen.
+
+
 ### § 105 Übergangsregelung zur Duldung für Personen mit ungeklärter Identität
 
 (1) Die Ausländerbehörde entscheidet bei geduldeten Ausländern über
@@ -12477,25 +12617,23 @@ Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1,
 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§
 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1
 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1
-bis 4 und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf
-Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4 getroffenen Regelungen
-des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen
-werden.
+bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, und § 104a Abs. 7
+Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4
+und § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a,
+getroffenen Regelungen des Verwaltungsverfahrens kann durch
+Landesrecht nicht abgewichen werden.
 
 
 ### § 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 
-Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4, die bis zum
-Ablauf des 31. August 2011 nach einheitlichem Vordruckmuster gemäß §
-78 in der bis zu diesem Zeitpunkt geltenden Fassung dieses Gesetzes
-ausgestellt wurden, sind bei Neuausstellung, spätestens aber bis zum
-Ablauf des 31. August 2021 als eigenständige Dokumente mit
-elektronischem Speicher- und Verarbeitungsmedium nach § 78
-auszustellen. Unbeschadet dessen können Inhaber eines
-Aufenthaltstitels nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 ein
-eigenständiges Dokument mit elektronischem Speicher- und
-Verarbeitungsmedium nach § 78 beantragen, wenn sie ein berechtigtes
-Interesse an der Neuausstellung darlegen.
+Inhaber eines nach § 78a Absatz 1 Satz 1 ausgestellten
+Aufenthaltstitels können ein eigenständiges Dokument mit
+elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen,
+wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
+Unbeschadet dessen können Inhaber eines Aufenthaltstitels nach § 4
+Absatz 1 Satz 2 Nummer 2 bis 4 ein eigenständiges Dokument mit
+elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen,
+wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
 
 
 ### § 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
@@ -12505,6 +12643,85 @@ Maßnahmen und Verpflichtungen nach § 54a Absatz 1 bis 4 in der bis zum
 bestanden, gelten nach dem 1. Januar 2016 als Maßnahmen und
 Verpflichtungen im Sinne von § 56 in der ab dem 1. Januar 2016
 geltenden Fassung.
+
+
+### § 105d Ermächtigung zur vorübergehenden Ausübung von Heilkunde
+
+(1) Stehen für die ärztliche Versorgung von Ausländern, die eine
+Aufenthaltserlaubnis nach § 24 Absatz 1 besitzen oder beantragt haben
+und denen eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5
+in Verbindung mit Absatz 3 ausgestellt worden ist, in einer
+Aufnahmeeinrichtung oder einer anderen für die Unterbringung dieser
+Personen durch das Land bestimmten Einrichtung Ärzte, die über eine
+Approbation oder Erlaubnis zur vorübergehenden Ausübung des ärztlichen
+Berufs nach der Bundesärzteordnung verfügen, nicht in ausreichender
+Zahl zur Verfügung und ist hierdurch die Sicherstellung der ärztlichen
+Versorgung dieser Personen in diesen Einrichtungen gefährdet, können
+Personen, die eine Aufenthaltserlaubnis nach § 24 Absatz 1 besitzen
+oder beantragt haben und denen eine entsprechende
+Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3
+ausgestellt worden ist und die in diesen Einrichtungen wohnen sowie
+über eine abgeschlossene Ausbildung als Arzt verfügen, auf Antrag
+vorübergehend zur Ausübung von Heilkunde in diesen Einrichtungen
+ermächtigt werden, um Ärzte bei der ärztlichen Versorgung dieser
+Personen in diesen Einrichtungen zu unterstützen.
+
+(2) Für die Ermächtigung nach Absatz 1 gelten die folgenden
+Beschränkungen:
+
+1.  die Tätigkeit erfolgt unter der Verantwortung eines Arztes;
+
+
+2.  die Berufsbezeichnung „Ärztin“ oder „Arzt“ darf nicht geführt werden;
+
+
+3.  die Behandlungserlaubnis erstreckt sich nur auf Personen in der
+    Aufnahmeeinrichtung oder der anderen für die Unterbringung dieser
+    Personen durch das Land bestimmten Einrichtung;
+
+
+4.  eine sprachliche Verständigung der ermächtigten Personen mit den zu
+    behandelnden Personen in diesen Einrichtungen muss sichergestellt
+    sein.
+
+
+
+
+(3) Die Ermächtigung nach Absatz 1 wird befristet erteilt. Sie kann
+jederzeit widerrufen werden, wenn die Voraussetzungen nach Absatz 1
+nicht mehr gegeben sind oder berechtigte Zweifel an der Qualifikation
+als Arzt erkennbar werden.
+
+(4) Die Erteilung der Ermächtigung nach Absatz 1 setzt voraus, dass
+
+1.  der Antragsteller seine Qualifikation als Arzt glaubhaft macht und
+
+
+2.  ihm eine Approbation oder Erlaubnis zur vorübergehenden Ausübung des
+    ärztlichen Berufs nach § 3 oder § 10 der Bundesärzteordnung nicht
+    erteilt werden kann, weil die erforderlichen Unterlagen und Nachweise
+    aus Gründen, die nicht in der Person des Antragstellers liegen, nicht
+    vorgelegt werden können.
+
+
+
+Zur Glaubhaftmachung nach Satz 1 Nummer 1 hat der Antragsteller an
+Eides statt zu versichern, dass er über eine abgeschlossene Ausbildung
+als Arzt verfügt und hat in einem Fachgespräch mit einem von der
+zuständigen Behörde beauftragten Arzt seinen Ausbildungsweg sowie
+seine ärztliche Kompetenz nachzuweisen.
+
+(5) Ein späteres Verfahren zur Erteilung der Approbation nach § 3 der
+Bundesärzteordnung oder Verfahren zur Erteilung einer Erlaubnis zur
+vorübergehenden Ausübung des ärztlichen Berufs nach § 10 der
+Bundesärzteordnung bleibt von der Ermächtigung zur vorübergehenden
+Ausübung von Heilkunde nach Absatz 1 unberührt.
+
+(6) Das Verfahren zur Erteilung der Ermächtigung nach den Absätzen 1
+bis 5 führt die zuständige Behörde des Landes durch, in dem die
+Heilkunde ausgeübt werden soll, oder das Land oder die gemeinsame
+Einrichtung, das oder die nach § 12 Absatz 3 Satz 3 der
+Bundesärzteordnung vereinbart wurde.
 
 
 ### § 106 Einschränkung von Grundrechten

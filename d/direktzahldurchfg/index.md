@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 897
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.7.2021 I 2995
+:   Art. 2 Abs. 27 G v. 20.12.2022 I 2752
 
 
 ## Abschnitt 1 - Allgemeine und gemeinsame Bestimmungen
@@ -1028,11 +1028,8 @@ die Durchführung zuständige Stelle die Bundesanstalt für
 Landwirtschaft und Ernährung bestimmt werden.
 
 
-### § 28 Verkündung von Rechtsverordnungen
+### § 28 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 29 Inkrafttreten

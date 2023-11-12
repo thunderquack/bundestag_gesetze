@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3241
 
+Geändert durch
+:   Art. 8 V v. 4.10.2022 I 1614
+
 
 
 ## Eingangsformel
@@ -49,12 +52,29 @@ Löschungsvermerke.
 (1) Das Refinanzierungsregister kann in Papierform oder nach Maßgabe
 des Teils 2 als elektronisches Register geführt werden.
 
-(2) Stellt ein registerführendes Unternehmen die Registerführung von
+(2) Wird ein in Papierform geführtes Refinanzierungsregister in
+körperlich nicht dauerhaft verbundener Form geführt, hat jede Seite
+des Refinanzierungsregisters die in § 4 Absatz 1 bis 3 geforderten
+Angaben zu enthalten. Jede Seite ist vom Verwalter eigenhändig mit
+zumindest seinem Namenskürzel zu versehen. Auf sämtlichen Seiten einer
+Abteilung oder Unterabteilung des Refinanzierungsregisters ist eine
+fortlaufende Nummerierung anzubringen.
+
+(3) Stellt ein registerführendes Unternehmen die Registerführung von
 einem elektronischen Register auf ein Register in Papierform um, so
 sind die Registerdaten vollständig auszudrucken und das Register in
 Papierform weiterzuführen. Im Falle der Umstellung von einem in
 Papierform geführten Register auf ein elektronisches Register sind
-sämtliche Registerdaten in das elektronische Register zu übernehmen.
+vorbehaltlich des § 10 Absatz 2 für nicht gelöschte
+Refinanzierungstransaktionen sämtliche Registerdaten in das
+elektronische Register zu überführen, es sein denn, in Spalte 7 ist
+vermerkt, dass die im Rahmen der Refinanzierungstransaktion
+eingetragenen Übertragungsansprüche nicht mehr bestehen. Soweit nach
+Satz 2 Registerdaten für nicht gelöschte Refinanzierungstransaktionen
+nicht in das elektronische Register zu überführen sind, sind die
+Formulare der betreffenden Refinanzierungstransaktionen bis zu ihrer
+Löschung als Anlage des elektronischen Registers zu den Akten zu
+nehmen.
 
 
 ### § 3 Vollständigkeit und Richtigkeit des Refinanzierungsregisters
@@ -63,7 +83,10 @@ Eintragungen sind in der Weise dauerhaft aufzuzeichnen, dass etwaig
 vorgenommene spätere Änderungen und Löschungen jederzeit erkennbar
 sind. Durch technische und organisatorische Maßnahmen ist
 sicherzustellen, dass der ursprüngliche Inhalt weiterhin feststellbar
-bleibt.
+bleibt. Die Sätze 1 und 2 gelten mit Ausnahme der in Spalte 1
+enthaltenen Angaben und mit Ausnahme von Löschungsvermerken nicht für
+Eintragungen, bei denen seit der ordnungsgemäßen vollständigen
+Löschung mindestens zehn Jahre verstrichen sind.
 
 
 ### § 4 Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und Unterabteilungen
@@ -134,10 +157,13 @@ Formulars RR in folgender Weise vorzunehmen:
         um ein Grundstück handelt, kann entweder die Bezeichnung im
         Bestandsverzeichnis des Grundbuchs (Gemarkung, Flur, Flurstück)
         übernommen oder auf das Grundbuchblatt verwiesen werden. In letzterem
-        Fall ist zusätzlich die Anschrift anzugeben. Sofern es sich um ein
-        Luftfahrzeug handelt, ist das einschlägige Luftfahrzeugregisterblatt
-        einzutragen. Handelt es sich um ein Schiff, ist das einschlägige
-        Schiffsregisterblatt anzugeben.
+        Fall sind hierzu das Amtsgericht, der Grundbuchbezirk und die Nummer
+        des Grundbuchblatts sowie zusätzlich die Postadresse oder eine
+        sonstige ortsübliche Lagebezeichnung des Grundstücks anzugeben. Sofern
+        es sich um ein Luftfahrzeug handelt, ist das einschlägige
+        Luftfahrzeugregisterblatt einzutragen. Handelt es sich um ein Schiff,
+        sind die Bezeichnung des Registers, die Registerstelle sowie das
+        einschlägige Schiffsregisterblatt anzugeben.
 
 
     b)  In Unterspalte b ist die Abteilung des Registers anzugeben, in der das
@@ -194,8 +220,15 @@ Formulars RR in folgender Weise vorzunehmen:
 7.  Spalte 7 ist für sonstige Bemerkungen vorzusehen, beispielsweise für
     Anmerkungen, die zur eindeutigen rechtlichen Zuordnung des Gegenstands
     neben den übrigen Angaben erforderlich sind oder die Zuordnung
-    erleichtern. Bei Bedarf kann in Spalte 7 auch das Namenskürzel der
-    eintragenden Person erfasst werden.
+    erleichtern. Bei beendeten Refinanzierungstransaktionen, die nicht
+    gelöscht sind, ist hier unter Angabe der maßgeblichen Daten zu
+    vermerken, dass die im Rahmen der Refinanzierungstransaktion
+    eingetragenen Übertragungsansprüche nicht mehr bestehen, insbesondere,
+    weil die zu übertragenden Forderungen vollständig getilgt oder
+    abgetreten, die zu übertragenden Pfandrechte zur Löschung oder
+    Abtretung bewilligt oder die den Übertragungsanspruch begründenden
+    Verträge aufgehoben oder beendet wurden. Bei Bedarf kann in Spalte 7
+    auch das Namenskürzel der eintragenden Person erfasst werden.
 
 
 
@@ -211,13 +244,13 @@ Bezeichnung zu verwenden. Die Unterspalten a bis c der Spalte 3 können
 gegebenenfalls angepasst werden. Sofern die Unterspalten a bis c der
 Spalte 3 für die nach Satz 2 erforderlichen Angaben nicht ausreichen,
 können Beiblätter hinzugefügt werden, die Teil des
-Refinanzierungsregisters werden. Die Beiblätter sind mit der laufenden
-Nummer der jeweiligen Eintragung aus Spalte 1 Buchstabe a des
-Formulars zu kennzeichnen. Im Ausland belegene Grundstücke,
-Luftfahrzeuge oder Schiffe, die nicht in öffentlichen Registern
-erfasst sind, sind mit den innerhalb der jeweiligen Rechtsordnung
-gebräuchlichen Angaben einzutragen, die eine eindeutige
-Identifizierung des jeweiligen Objekts ermöglichen.
+Refinanzierungsregisters werden. Die Beiblätter sind mit den Angaben
+nach § 4 Absatz 1 bis 3 sowie der laufenden Nummer der jeweiligen
+Eintragung aus Spalte 1 Buchstabe a des Formulars zu kennzeichnen. Im
+Ausland belegene Grundstücke, Luftfahrzeuge oder Schiffe, die nicht in
+öffentlichen Registern erfasst sind, sind mit den innerhalb der
+jeweiligen Rechtsordnung gebräuchlichen Angaben einzutragen, die eine
+eindeutige Identifizierung des jeweiligen Objekts ermöglichen.
 
 
 ### § 7 Schutz des Refinanzierungsregisters
@@ -235,7 +268,7 @@ Wasser besonders zu schützen.
 
 (1) Der Inhalt des elektronisch geführten Refinanzierungsregisters
 muss auf Dauer unverändert in lesbarer Form wiedergabefähig sowie auf
-Dauer revisionssicher archiviert sein.
+Dauer revisionssicher archiviert sein. § 3 Satz 3 gilt entsprechend.
 
 (2) Der Inhalt des elektronischen Refinanzierungsregisters muss auf
 dem Bildschirm und in Ausdrucken in einer Weise sichtbar gemacht
@@ -247,9 +280,9 @@ vollständig ausgedruckt werden können.
 ### § 9 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
 
 (1) Die eingesetzten Datenverarbeitungssysteme müssen dem Stand der
-Technik und den Anforderungen der Anlage zu § 9 Satz 1 des
-Bundesdatenschutzgesetzes entsprechen. Insbesondere müssen sie
-gewährleisten, dass
+Technik sowie den Anforderungen des Datenschutzes und der
+Datensicherheit entsprechen. Insbesondere müssen sie gewährleisten,
+dass
 
 1.  ihre Funktionen nur genutzt werden können, wenn sich der Benutzer dem
     System gegenüber sicher ausweist (Identifikation und Authentisierung),
@@ -272,12 +305,16 @@ gewährleisten, dass
 
 
 6.  etwaige Verfälschungen der gespeicherten Daten durch technische
-    Prüfmechanismen unverzüglich bemerkt werden können (Unverfälschtheit)
-    und
+    Prüfmechanismen unverzüglich bemerkt werden können (Unverfälschtheit),
 
 
 7.  auftretende Fehlfunktionen unverzüglich gemeldet werden
-    (Verlässlichkeit).
+    (Verlässlichkeit) und
+
+
+8.  der Austausch von Daten aus dem oder für das Refinanzierungsregister
+    im System und bei Einsatz öffentlicher Netze sicher erfolgen kann
+    (Übertragungssicherheit).
 
 
 
@@ -287,7 +324,16 @@ Sicherungskopie des elektronisch geführten Refinanzierungsregisters
 aufzubewahren. Die Sicherungskopie ist auf einem anderen Datenträger
 als das Refinanzierungsregister zu speichern und mindestens am Ende
 eines jeden Arbeitstages auf den Stand zu bringen, den das
-Refinanzierungsregister zu diesem Zeitpunkt hat.
+Refinanzierungsregister zu diesem Zeitpunkt hat. Das Original und
+mindestens eine Sicherungskopie des Refinanzierungsregisters müssen
+auf Datenträgern gespeichert werden, die sich innerhalb des
+Geltungsbereichs des Kreditwesengesetzes befinden. Im Falle einer
+technischen Auslagerung ist zudem sicherzustellen, dass das
+Auslagerungsunternehmen im Fall der Insolvenz des registerführenden
+Unternehmens verpflichtet ist, die Datensätze in einer Form, die
+elektronisch mit standardisierten Datenbankanwendungen verarbeitet
+werden kann, an den Sachwalter im Sinne des § 22l Absatz 1 Satz 1 des
+Kreditwesengesetzes des registerführenden Unternehmens zu übermitteln.
 
 
 ## Teil 3 - Schlussbestimmungen
@@ -296,10 +342,32 @@ Refinanzierungsregister zu diesem Zeitpunkt hat.
 
 ### § 10 Übergangsbestimmung
 
-Refinanzierungsregister, die auf Grund der §§ 22a bis 22o des
+(1) Refinanzierungsregister, die auf Grund der §§ 22a bis 22o des
 Kreditwesengesetzes bereits vor Inkrafttreten dieser Verordnung
 eingerichtet worden sind, dürfen bis zum 30. Juni 2007 in der
 bisherigen Art und Weise fortgeführt werden.
+
+(2) Es ist zulässig, das elektronische Refinanzierungsregister nur für
+die ab dem Zeitpunkt seiner Einführung hinzukommenden Abteilungen nach
+§ 22a Absatz 1 Satz 2 des Kreditwesengesetzes oder im Fall der
+Registerführung für Dritte nur für die ab dem Zeitpunkt seiner
+Einführung hinzukommenden Unterabteilungen nach § 22b Absatz 1 Satz 2
+des Kreditwesengesetzes zu führen. Der maßgebliche Zeitpunkt ist in
+dem in Papierform wie auch in dem elektronisch geführten Teil des
+Refinanzierungsregisters anzugeben. Die Einheitlichkeit des
+Refinanzierungsregisters ist durch deutliche Verweise auf die in
+Papierform fortgeführten Bestandteile herzustellen.
+
+(3) Auf vor dem 1. Juli 2023 in das Refinanzierungsregister
+vorgenommene Eintragungen finden die §§ 5 und 6 in der bis zum 30.
+Juni 2023 geltenden Fassung Anwendung. Auf vor dem 1. Juli 2023
+vollständig gelöschte Refinanzierungstransaktionen und auf
+Refinanzierungstransaktionen, bei denen in Spalte 7 vermerkt ist, dass
+die im Rahmen der Refinanzierungstransaktion eingetragenen
+Übertragungsansprüche nicht mehr bestehen, findet § 2 in der bis zum
+30\. Juni 2023 geltenden Fassung Anwendung. § 2 Absatz 2 Satz 2 findet
+nur auf Seiten einer Abteilung oder Unterabteilung Anwendung, auf
+denen nach dem 30. Juni 2023 Eintragungen vorgenommen werden.
 
 
 ### § 11 Inkrafttreten

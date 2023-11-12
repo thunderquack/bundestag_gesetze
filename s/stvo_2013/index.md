@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Konstitutive Neufassung gem. V v. 6.3.2013 I 367, in Kraft getreten am 1.4.2013
 Zuletzt geändert durch
-:   Art. 13 G v. 12.7.2021 I 3091
+:   Art. 2 V v. 28.8.2023 I Nr. 236
 
 
 ## I. - Allgemeine Verkehrsregeln
@@ -62,7 +62,7 @@ nicht für
 
 
 4.  motorisierte Krankenfahrstühle im Sinne des § 2 Nummer 13 der
-    Fahrzeug-Zulassungs-Verordnung,
+    Fahrzeug- Zulassungsverordnung,
 
 
 5.  Einsatzfahrzeuge der in § 35 Absatz 1 genannten Organisationen, soweit
@@ -1462,7 +1462,7 @@ Straßenteil, gelten diese Vorschriften entsprechend.
 ### § 27 Verbände
 
 (1) Für geschlossene Verbände gelten die für den gesamten Fahrverkehr
-einheitlich bestehenden Verkehrsregeln und Anordnungen sinngemäß.Mehr
+einheitlich bestehenden Verkehrsregeln und Anordnungen sinngemäß. Mehr
 als 15 Rad Fahrende dürfen einen geschlossenen Verband bilden. Dann
 dürfen sie zu zweit nebeneinander auf der Fahrbahn fahren. Kinder- und
 Jugendgruppen zu Fuß müssen, soweit möglich, die Gehwege benutzen.
@@ -1910,6 +1910,15 @@ Die Verkehrsteilnehmer haben die Anweisungen der Polizeibeamten zu
 befolgen.
 
 
+### § 36a Zeichen und Weisungen bei Transportbegleitung mit Anordnungsbefugnis
+
+Die Zeichen und Weisungen eines Transportbegleiters nach § 3 Absatz 1
+Nummer 2 der Straßenverkehr-Transportbegleitungsverordnung, die dieser
+in entsprechender Anwendung des § 36 Absatz 1 bis 4 gibt, sind zu
+befolgen. Zeichen und Weisungen der Polizei gehen den Zeichen und
+Weisungen eines Transportbegleiters vor.
+
+
 ### § 37 Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
 
 (1) Lichtzeichen gehen Vorrangregeln und Vorrang regelnden
@@ -2264,7 +2273,7 @@ Sinnbild
    als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung
 einer Parkflächenvorhaltung für elektrisch betriebene Fahrzeuge kann
 das Sinnbild zusätzlich auf der Parkfläche aufgebracht sein.
-Elektrisch betriebene Fahrzeuge sind die nach § 9a Absatz 2 und 4,
+Elektrisch betriebene Fahrzeuge sind die nach § 11 Absatz 2 und 4,
 jeweils auch in Verbindung mit Absatz 5, der Fahrzeug-
 Zulassungsverordnung gekennzeichneten Fahrzeuge.
 
@@ -2398,6 +2407,10 @@ im Verzug kann zur Aufrechterhaltung der Sicherheit oder Ordnung des
 Straßenverkehrs die Polizei an Stelle der an sich zuständigen Behörden
 tätig werden und vorläufige Maßnahmen treffen; sie bestimmt dann die
 Mittel zur Sicherung und Lenkung des Verkehrs.
+
+(2a) Transportbegleiter nach § 1 Nummer 6 der Straßenverkehr-
+Transportbegleitungsverordnung sind befugt, den Verkehr nach Maßgabe
+des § 3 der Straßenverkehr-Transportbegleitungsverordnung zu regeln.
 
 (3) Die Erlaubnis nach § 29 Absatz 2 und nach § 30 Absatz 2 erteilt
 die Straßenverkehrsbehörde, dagegen die höhere Verwaltungsbehörde,
@@ -3245,9 +3258,9 @@ Straßenverkehrsgesetzes handelt auch, wer vorsätzlich oder fahrlässig
 Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder
 fahrlässig
 
-1.  entgegen § 36 Absatz 1 bis 4 ein Zeichen oder eine Weisung oder
-    entgegen Absatz 5 Satz 4 ein Haltgebot oder eine Anweisung eines
-    Polizeibeamten nicht befolgt,
+1.  entgegen § 36 Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 oder
+    Absatz 4, oder entgegen § 36 Absatz 5 Satz 4 oder § 36a Satz 1 ein
+    Zeichen, eine Weisung oder eine Anweisung nicht befolgt,
 
 
 2.  einer Vorschrift des § 37 über das Verhalten an Wechsellichtzeichen,

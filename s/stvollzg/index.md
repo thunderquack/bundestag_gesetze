@@ -3594,111 +3594,150 @@ eingeschränkt.
 1977 in Kraft, soweit die Absätze 2 und 3 nichts anderes bestimmen.
 
 
-*
-    (2) 1. Am 1. Januar 1980 treten folgende Vorschriften in Kraft:
+*    *   (2)
+
+    *   1.
+
+    *   Am 1. Januar 1980 treten folgende Vorschriften in Kraft:
 
 
-
-
-
-
-
-*    *   § 37
+*    *
+    *
+    *   § 37
 
     *   - Arbeitszuweisung -
 
 
-*    *   § 39 Abs. 1
+*    *
+    *
+    *   § 39 Abs. 1
 
     *   - Freies Beschäftigungsverhältnis -
 
 
-*    *   § 41 Abs. 2
+*    *
+    *
+    *   § 41 Abs. 2
 
     *   - Zustimmungsbedürftigkeit bei weiterbildenden Maßnahmen -
 
 
-*    *   § 42
+*    *
+    *
+    *   § 42
 
     *   - Freistellung von der Arbeitspflicht -
 
 
-*    *   § 149 Abs. 1
+*    *
+    *
+    *   § 149 Abs. 1
 
     *   - Arbeitsbetriebe, Einrichtungen zur beruflichen Bildung -
 
 
-*    *   § 162 Abs. 1
+*    *
+    *
+    *   § 162 Abs. 1
 
     *   - Beiräte -.
 
 
+*    *
+    *   2.
+
+    *   (weggefallen)
+
+    *
+
+*    *
+    *   3.
+
+    *   (weggefallen)
+
+    *
+
+*    *   (3)
+
+    *
+    *   Durch besonderes Bundesgesetz werden die folgenden Vorschriften an
+        inzwischen vorgenommene Gesetzesänderungen angepaßt und in Kraft
+        gesetzt:
 
 
-2.
-
-
-
-
-
-3.  (3) Durch besonderes Bundesgesetz werden die folgenden Vorschriften an
-    inzwischen vorgenommene Gesetzesänderungen angepaßt und in Kraft
-    gesetzt:
-
-
-
-
-*    *   § 41 Abs. 3
+*    *
+    *
+    *   § 41 Abs. 3
 
     *   - Zustimmungsbedürftigkeit bei Beschäftigung in Unternehmerbetrieben -
 
 
-*    *   § 45
+*    *
+    *
+    *   § 45
 
     *   - Ausfallentschädigung -
 
 
-*    *   § 46
+*    *
+    *
+    *   § 46
 
     *   - Taschengeld -
 
 
-*    *   § 47
+*    *
+    *
+    *   § 47
 
     *   - Hausgeld -
 
 
-*    *   § 49
+*    *
+    *
+    *   § 49
 
     *   - Unterhaltsbeitrag -
 
 
-*    *   § 50
+*    *
+    *
+    *   § 50
 
     *   - Haftkostenbeitrag -
 
 
-*    *   § 65 Abs. 2 Satz 2
+*    *
+    *
+    *   § 65 Abs. 2 Satz 2
 
     *   - Krankenversicherungsleistungen bei Krankenhausaufenthalt -
 
 
-*    *   § 93 Abs. 2
+*    *
+    *
+    *   § 93 Abs. 2
 
     *   - Inanspruchnahme des Hausgeldes -
 
 
-*    *   § 176 Abs. 2 und 3
+*    *
+    *
+    *   § 176 Abs. 2 und 3
 
     *   - Ausfallentschädigung und Taschengeld im Jugendstrafvollzug -
 
 
-*    *   § 189
+*    *
+    *
+    *   § 189
 
     *   - Verordnung über Kosten -
 
 
-*    *   § 190 Nr. 1 bis 10 und 13 bis 18, §§ 191 bis 193
+*    *
+    *
+    *   § 190 Nr. 1 bis 10 und 13 bis 18, §§ 191 bis 193
 
     *   - Sozialversicherung -.
 

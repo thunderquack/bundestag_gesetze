@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3182
 
+Zuletzt geändert durch
+:   Art. 4 Abs. 2 V v. 20.6.2023 I Nr. 159
+
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
@@ -82,6 +85,16 @@ der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu
 erlassen.
 
 
+## § 4a Alt-Sachverhalte
+
+Die Nummern 6.3 und 6.5 der Anlage Teil I Abschnitt 6 gelten für die
+Erhebung von Gebühren für gebührenfähige Leistungen, die nach dem 7.
+Juli 2021 und vor dem 7. Juli 2022 begonnen, aber noch nicht
+vollständig erbracht worden sind, mit der Maßgabe, dass der vor dem
+15\. März 2022 liegende Zeitraum bei der Ermittlung der Gebühr nicht
+berücksichtigt wird.
+
+
 ## § 5 Übergangsregelung
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
@@ -93,7 +106,8 @@ geltende Recht weiter anzuwenden.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 3183 - 3194)
+(Fundstelle: BGBl. I 2021, 3183 - 3194;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil l
 
@@ -865,7 +879,7 @@ SchlärmschG
 
 *    *   6.2
 
-    *   Erteilung oder Erneuerung einer Sicherheitsbescheinigung
+    *   Erteilung, Änderung oder Erneuerung einer Sicherheitsbescheinigung
 
     *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 8 der
         Durchführungsverordnung (EU) 2018/763
@@ -875,11 +889,62 @@ SchlärmschG
 
 *    *   6.3
 
-    *   Erteilung oder Erneuerung einer Sicherheitsgenehmigung
+    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines
+        Eisenbahnverkehrsunternehmens
 
-    *   §§ 14 und 16 Absatz 3 ESiV
+    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung
+        (EU) 2018/761
+
+    *   mit einer Betriebsleistung von jährlich mindestens 100 000 000 km:
+        185 640 Euro
+        mit einer Betriebsleistung von jährlich mindestens 10 000 000 km und
+        weniger als 100 000 000 km:
+        34 080 Euro
+        mit einer Betriebsleistung von jährlich mindestens 5 000 000 km und
+        weniger als 10 000 000 km:
+        24 120 Euro
+        mit einer Betriebsleistung von jährlich mindestens 1 000 000 km und
+        weniger als 5 000 000 km:
+        14 280 Euro
+        mit einer Betriebsleistung von jährlich mindestens 100 000 km und
+        weniger als 1 000 000 km:
+        8 040 Euro
+        mit einer Betriebsleistung von jährlich mindestens 20 000 km und
+        weniger als 100 000 km:
+        2 520 Euro
+        mit einer Betriebsleistung von jährlich weniger als 20 000 km:
+        1 080 Euro
+
+
+*    *   6.4
+
+    *   Erteilung, Änderung oder Erneuerung einer Sicherheitsgenehmigung
+
+    *   §§ 14 und 16 Absatz 1 und 3 ESiV
 
     *   nach Zeitaufwand, mindestens 600 und höchstens 100 000 Euro
+
+
+*    *   6.5
+
+    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines
+        Eisenbahninfrastrukturunternehmens
+
+    *   §§ 14 und 16 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten
+        Verordnung (EU) 2018/761
+
+    *   mit mindestens 10 000 Streckenkilometern oder mit mindestens 10 000
+        Verkehrsstationen:
+        9 981 000 Euro
+        mit mindestens 2 000 und weniger als 10 000 Streckenkilometern oder
+        mit mindestens 2 000 und weniger als 10 000 Verkehrsstationen:
+        990 480 Euro
+        mit mindestens 500 und weniger als 2 000 Streckenkilometern oder mit
+        mindestens 500 und weniger als 2 000 Verkehrsstationen:
+        6 480 Euro
+        mit weniger als 500 Streckenkilometern oder mit weniger als 500
+        Verkehrsstationen:
+        3 480 Euro
 
 
 
@@ -1301,7 +1366,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
     *   Entscheidung über Maßnahmen im Falle der Nichteinhaltung von
         Grenzwerten und Anforderungen
 
-    *   § 39 IfSG, § 9 TrinkwV
+    *   § 39 IfSG, § 63 TrinkwV
 
     *   nach Zeitaufwand
 
@@ -1312,7 +1377,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Befüllung von Schienenfahrzeugen;
         bis zu 10 Hydranten
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   900 Euro
 
@@ -1323,7 +1388,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Befüllung von Schienenfahrzeugen;
         11 bis 50 Hydranten
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   1 150 Euro
 
@@ -1334,7 +1399,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Befüllung von Schienenfahrzeugen;
         51 bis 100 Hydranten
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   1 500 Euro
 
@@ -1345,7 +1410,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Befüllung von Schienenfahrzeugen;
         101 bis 200 Hydranten
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   1 700 Euro
 
@@ -1356,7 +1421,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Befüllung von Schienenfahrzeugen;
         über 200 Hydranten
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   2 300 Euro
 
@@ -1366,7 +1431,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
     *   Prüfung einer mobilen Anlage zur ausschließlichen Trinkwasser-
         Befüllung von Schienenfahrzeugen
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   500 Euro
 
@@ -1385,7 +1450,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
     *   Prüfung einer Trinkwasserversorgungsanlage in einem Schienenfahrzeug
 
-    *   § 39 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
     *   450 Euro
 
@@ -1406,7 +1471,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
         Schienenfahrzeugen, zentrale Prüfung der Fahrzeugakten eines
         Betreibers
 
-    *   § 39 und 41 IfSG, §§ 18 bis 20 TrinkwV
+    *   § 39 und 41 IfSG, §§ 54 bis 60 TrinkwV
 
     *   3 600 Euro
 

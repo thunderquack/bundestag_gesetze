@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1138
 
 Zuletzt geändert durch
-:   Art. 2g G v. 16.7.2021 I 2970
+:   Art. 8 V v. 30.8.2023 I Nr. 233
 
 
 ## Eingangsformel
@@ -71,25 +71,51 @@ Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch
 Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der
 Beitragsanteil des Beschäftigten.
 
-(2) In den Fällen des Übergangsbereichs wird der vom Arbeitgeber zu
-zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die
-beitragspflichtige Einnahme und anschließender Verdoppelung des
-gerundeten Ergebnisses berechnet. Der vom Arbeitgeber zu tragende
-Beitragsanteil wird durch Anwendung des halben sich aus der Summe des
-Beitragssatzes zur gesetzlichen Rentenversicherung, der gesetzlichen
-Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen
-Krankenversicherung zuzüglich des kassenindividuellen
-Zusatzbeitragssatzes ergebenden Beitragssatzes auf das der
-Beschäftigung zugrunde liegende Arbeitsentgelt berechnet und gerundet.
-Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten
-Beitrag ergibt den Beitragsanteil des Beschäftigten. Bei Entgelten bis
-zu 450 Euro ergibt sich die beitragspflichtige Einnahme durch
-Anwendung des Faktors F (§ 163 Abs. 10 des Sechsten Buches
-Sozialgesetzbuch) auf das der Beschäftigung zugrunde liegende
-Arbeitsentgelt. Vom Beschäftigten allein zu tragende Beitragsanteile
-werden durch Anwendung des maßgebenden Beitragssatzes oder
-Beitragszuschlags auf die beitragspflichtige Einnahme berechnet und
+(2) Abweichend von Absatz 1 Satz 1 wird in den Fällen des
+Übergangsbereichs der vom Arbeitgeber zu zahlende Beitrag durch
+Anwendung des halben Beitragssatzes auf die beitragspflichtige
+Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches
+Sozialgesetzbuch und anschließende Verdoppelung des gerundeten
+Ergebnisses berechnet. Bei Entgelten bis zur Geringfügigkeitsgrenze
+ergibt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1
+des Vierten Buches Sozialgesetzbuch durch Anwendung des Faktors F auf
+das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten
+Buches Sozialgesetzbuch zugrunde liegende Arbeitsentgelt. Der vom
+Beschäftigten zu tragende Beitragsanteil wird durch Anwendung des
+jeweiligen halben Beitragssatzes zur gesetzlichen Rentenversicherung,
+der sozialen Pflegeversicherung nach § 55 Absatz 1 Satz 1 des Elften
+Buches Sozialgesetzbuch, zur Arbeitsförderung und der gesetzlichen
+Krankenversicherung sowie des halben kassenindividuellen
+Zusatzbeitragssatzes auf die nach § 20 Absatz 2a Satz 6 des Vierten
+Buches Sozialgesetzbuch ermittelte beitragspflichtige Einnahme
+berechnet und gerundet. Der Abzug des Beitragsanteils des
+Beschäftigten von dem nach Satz 1 errechneten Beitrag ergibt den
+Beitragsanteil des Arbeitgebers. Überschreiten einzelne Entgelte in
+Fällen des § 20 Absatz 2a des Vierten Buches Sozialgesetzbuch nicht
+die Geringfügigkeitsgrenze, ist kein Beitragsanteil nach Satz 3 zu
+ermitteln, der Arbeitgeber trägt insoweit den gesamten Beitrag allein.
+Vom Beschäftigten allein zu tragende Beitragsanteile werden durch
+Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf
+die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten
+Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen
+gerundet. Die den Beitragsanteil des Beschäftigten reduzierenden
+Beträge werden durch Anwendung des maßgebenden Beitragsabschlags auf
+die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 6 des Vierten
+Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen
 gerundet.
+
+(3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt
+Absatz 2 Satz 1, 2 und 6 mit der Maßgabe, dass die beitragspflichtige
+Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch
+berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende
+Beitragsanteil durch Anwendung des halben Beitragssatzes zur
+gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur
+Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des
+halben kassenindividuellen Zusatzbeitragssatzes auf das der
+Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches
+Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und
+gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1
+errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
 
 
 ## Zweiter Abschnitt - Zahlungen des Arbeitgebers
@@ -115,9 +141,6 @@ gilt
 
 
 
-Abweichend von Satz 1 und 2 tritt in den Fällen des § 28f Abs. 4 des
-Vierten Buches Sozialgesetzbuch an die Stelle der Einzugsstelle die
-beauftragte Stelle.
 
 (2) Zahlungen in fremder Währung und durch Wechsel sind nicht
 zugelassen.
@@ -208,9 +231,7 @@ Verlangen des Zahlungsempfängers sind die Überweisungen beschleunigt,
 z. B. durch Blitzgiro oder telegrafisch, vorzunehmen; die anfallenden
 Gebühren behalten die Einzugsstellen ein.
 
-(4) In den Fällen des § 28f Abs. 4 des Vierten Buches Sozialgesetzbuch
-tritt an die Stelle der Einzugsstelle im Sinne der Absätze 1 bis 3 die
-beauftragte Stelle.
+(4) (weggefallen)
 
 
 ### § 6 Abrechnung
@@ -428,10 +449,14 @@ nehmen;
     des Vierten Buches Sozialgesetzbuch,
 
 
-8.  eine Kopie des Antrags nach § 7a Abs. 1 des Vierten Buches
+8.  eine Kopie des Antrags nach § 7a Absatz 1 des Vierten Buches
     Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für
-    ihre Entscheidung benötigten Unterlagen sowie deren Bescheid nach § 7a
-    Abs. 2 des Vierten Buches Sozialgesetzbuch,
+    ihre Entscheidung benötigten Unterlagen, deren Bescheid nach § 7a
+    Absatz 2 des Vierten Buches Sozialgesetzbuch, gutachterliche
+    Äußerungen nach § 7a Absatz 4b des Vierten Buches Sozialgesetzbuch
+    sowie eine Dokumentation, welchen Auftragnehmern er eine Kopie der
+    gutachterlichen Äußerung nach § 7a Absatz 4b Satz 4 des Vierten Buches
+    Sozialgesetzbuch ausgehändigt hat,
 
 
 9.  den Bescheid der zuständigen Einzugsstelle über die Feststellung der
@@ -444,7 +469,8 @@ nehmen;
     Beschäftigten steuerrechtlich kein Arbeitslohn sind,
 
 
-11. den Nachweis der Elterneigenschaft nach § 55 Abs. 3 des Elften Buches
+11. den Nachweis der Elterneigenschaft sowie den Nachweis über die Anzahl
+    der zu berücksichtigenden Kinder nach § 55 Abs. 3 des Elften Buches
     Sozialgesetzbuch,
 
 
@@ -471,12 +497,11 @@ nehmen;
     Rheinschifffahrtszugehörigkeitsurkunde,
 
 
-17. Veranlagungs-, Änderungs- und Nachtragsbescheide der Träger der
-    gesetzlichen Unfallversicherung,
+17. (weggefallen)
 
 
-18. die Daten der übermittelten Bescheinigungen nach § 106 des Vierten
-    Buches Sozialgesetzbuch,
+18. die Daten der übermittelten Bescheinigungen nach den §§ 106 bis 106c
+    des Vierten Buches Sozialgesetzbuch,
 
 
 18a. bei einem Antrag auf Abschluss einer Ausnahmevereinbarung eine
@@ -487,9 +512,9 @@ nehmen;
     Interesse liegt,
 
 
-19. die schriftliche Erklärung des Verzichts auf die Versicherungsfreiheit
-    nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten
-    Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber
+19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5
+    Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches
+    Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber
     dokumentiert ist.
 
 
@@ -500,11 +525,11 @@ weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
 (3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht
 elektronisch aus der Abrechnung des Arbeitgebers entnommen werden
 können, sind dem Arbeitgeber von den zuständigen Stellen oder dem
-Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum
-31\. Dezember 2026 kann sich der Arbeitgeber von der Führung
-elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen
-Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten
-Buches Sozialgesetzbuch befreien lassen.
+Beschäftigten, soweit möglich, in elektronischer Form zur Verfügung zu
+stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der
+Führung elektronischer Unterlagen auf Antrag bei dem für ihn
+zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des
+Vierten Buches Sozialgesetzbuch befreien lassen.
 
 
 ### § 9 Beitragsabrechnung
@@ -515,7 +540,7 @@ Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den
 folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu
 erfassen und lesbar zur Verfügung zu stellen; für die
 Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach
-Mitgliedsnummern:
+Unternehmernummern nach § 136a des Siebten Buches Sozialgesetzbuch:
 
 1.  dem Familien- und Vornamen und gegebenenfalls dem betrieblichen
     Ordnungsmerkmal,
@@ -855,9 +880,17 @@ Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
     Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat,
 
 
+21a. den Bescheid des Rentenversicherungsträgers über die Befreiung des
+    Arbeitgebers nach § 8 Absatz 3 Satz 2,
+
+
 22. die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und
     8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach §
-    98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden.
+    98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden,
+
+
+23. über die Befreiung der elektronischen Übermittlung nach § 126 des
+    Vierten Buches Sozialgesetzbuch.
 
 
 

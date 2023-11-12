@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 648
 
 Zuletzt geändert durch
-:   Art. 459 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 49 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 49 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel

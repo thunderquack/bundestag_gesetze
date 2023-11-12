@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1383
 
-Geändert durch
-:   Art. 13 G v. 17.7.2017 I 2581
+Zuletzt geändert durch
+:   Art. 3 V v. 12.5.2022 I 777
 
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
@@ -376,6 +376,34 @@ nach Absatz 3 Satz 1 Nummer 1 oder das Passwort mehr als dreimal
 hintereinander unrichtig übermittelt wurde. Die abrufende Stelle hat
 Maßnahmen zum Schutz gegen unberechtigte Nutzungen des Abrufsystems zu
 treffen.
+
+(5) Soweit nach datenschutzrechtlichen Vorschriften zum Zweck der
+Vermeidung von Mehrfach-Untersuchungen bei unterschiedlichen
+zugelassenen Ärztinnen und Ärzten ein Abgleich von Daten zwischen dem
+Seediensttauglichkeitsverzeichnis und dem Seelotseignungsverzeichnis
+zulässig ist, werden bei jedem Abruf von Daten aus dem
+Seediensttauglichkeitsverzeichnis von der Berufsgenossenschaft
+folgende Daten mit den entsprechenden Daten dieser Person im
+Seelotseignungsverzeichnis abgeglichen:
+
+1.  Familienname, Vorname, Geburtsdatum und Geburtsort der untersuchten
+    Person nach § 19 Absatz 3 Nummer 1 bis 3 des Seelotsgesetzes,
+
+
+2.  Sperrvermerke der Berufsgenossenschaft nach § 19 Absatz 3 Nummer 17
+    des Seearbeitsgesetzes.
+
+
+
+Unrichtige Angaben im Seediensttauglichkeitsverzeichnis sind durch die
+Berufsgenossenschaft zu berichtigen und an die entsprechenden Daten zu
+dieser Person im Seelotseignungsverzeichnis anzugleichen. Ergibt der
+Abgleich nach Satz 1, dass Daten im Seelotseignungsverzeichnis
+unrichtig sind, ist eine Berichtigung des
+Seelotseignungsverzeichnisses durch die registerführende Stelle zu
+veranlassen. Liegt eine Berichtigungsmeldung nach § 8 Absatz 3 Satz 3
+der Seelotseignungsverordnung vor, ist das
+Seediensttauglichkeitsverzeichnis zu berichtigen.
 
 
 ### Unterabschnitt 2 - Anforderungen an besondere Personengruppen

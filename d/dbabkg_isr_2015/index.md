@@ -24,7 +24,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Artikel 1
+## Art 1
 
 Dem in Berlin am 21. August 2014 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der
@@ -33,7 +33,7 @@ vom Einkommen und vom Vermögen wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
 
 
-## Artikel 2
+## Art 2
 
 Sofern nach Artikel 17 Absatz 2 des Abkommens ein Besteuerungsrecht
 der Bundesrepublik Deutschland besteht, wird sie dieses für Steuern,
@@ -41,7 +41,7 @@ die für Zeiträume bis zum 31. Dezember 2040 erhoben werden, nicht
 ausüben.
 
 
-## Artikel 3
+## Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

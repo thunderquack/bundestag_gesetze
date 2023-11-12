@@ -16,16 +16,10 @@ Fundstelle
 :   BGBl I: 2008, 842
 
 Zuletzt geändert durch
-:   Art. 47 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 79 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 80 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 80 G v. 20.8.2021 I 3932
 
 Mittelbare änderung durch
-:   Art. 89 Nr. 8 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 89 Nr. 8 G v. 20.8.2021 I 3932 ist berücksichtigt
 
 
 ## § 1 Fördervoraussetzungen

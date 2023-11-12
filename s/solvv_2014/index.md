@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4168
 
-Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926;
 Zuletzt geändert durch
-:   Art. 1 V v. 19.2.2019 I 122
+:   Art. 1 V v. 14.2.2023 I Nr. 40
 
-Änderung durch
-:   Art. 1 V v. 20.9.2021 I 4306 (Nr. 67) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926
     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
     Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
@@ -1807,6 +1804,83 @@ der Verordnung (EU) Nr. 575/2013, innerhalb des
 Kapitalpufferanforderung werden wie folgt berechnet:
 ![bgbl1_2013_j4168-1_0010.jpg](bgbl1_2013_j4168-1_0010.jpg)![bgbl1_2013_j4168-1_0020.jpg](bgbl1_2013_j4168-1_0020.jpg)„Q
 n             “ steht für die Ordinalzahl des betreffenden Quartils.
+
+
+### Kapitel 4 - Puffer der Verschuldungsquote
+
+
+#### § 37a Maximal ausschüttungsfähiger Betrag in Bezug auf die Verschuldungsquote
+
+(1) Der maximal ausschüttungsfähige Betrag in Bezug auf die
+Verschuldungsquote im Sinne des § 10j Absatz 3 Satz 1 des
+Kreditwesengesetzes errechnet sich durch Multiplikation des nach
+Absatz 2 berechneten Betrags mit dem nach Absatz 3 festgelegten
+Faktor. Er reduziert sich durch jede nach § 10j Absatz 3 Satz 4 Nummer
+1 bis 3 des Kreditwesengesetzes durchgeführte Maßnahme.
+
+(2) Der zu multiplizierende Betrag ergibt sich aus
+
+1.  den Zwischengewinnen, die nicht im harten Kernkapital nach Artikel 26
+    Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich
+    etwaiger Gewinnausschüttungen oder Zahlungen im Zusammenhang mit den
+    Maßnahmen nach § 10j Absatz 3 Satz 4 Nummer 1 bis 3 des
+    Kreditwesengesetzes,
+
+
+2.  zuzüglich der Gewinne zum Jahresende, die nicht im harten Kernkapital
+    nach Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten
+    sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen im
+    Zusammenhang mit den Maßnahmen nach § 10j Absatz 3 Satz 4 Nummer 1 bis
+    3 des Kreditwesengesetzes,
+
+
+3.  abzüglich der Beträge, die in Form von Steuern zu zahlen wären, wenn
+    die unter den Nummern 1 und 2 aufgeführten Gewinne einbehalten würden.
+
+
+
+
+(3) Liegt das von dem global systemrelevanten Institut vorgehaltene
+und nicht zur Einhaltung der Eigenmittelanforderungen nach Artikel 92
+Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 und zur
+Einhaltung der zusätzlichen Eigenmittelanforderungen zur Absicherung
+gegen Risiken einer übermäßigen Verschuldung nach § 6c sowie nach § 10
+Absatz 3 und 4 des Kreditwesengesetzes verwendete Kernkapital,
+ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße im
+Sinne von Artikel 429 Absatz 4 der Verordnung (EU) Nr. 575/2013,
+innerhalb des
+
+1.  ersten, das heißt des untersten, Quartils der Anforderung an den
+    Puffer der Verschuldungsquote, so beträgt der Faktor 0;
+
+
+2.  zweiten Quartils der Anforderung an den Puffer der Verschuldungsquote,
+    so beträgt der Faktor 0,2;
+
+
+3.  dritten Quartils der Anforderung an den Puffer der Verschuldungsquote,
+    so beträgt der Faktor 0,4;
+
+
+4.  vierten, das heißt des obersten, Quartils der Anforderung an den
+    Puffer der Verschuldungsquote, so beträgt der Faktor 0,6.
+
+
+
+
+(4) Die Ober- und Untergrenzen für jedes Quartil der Anforderung an
+den Puffer der Verschuldungsquote sind wie folgt zu berechnen:
+
+*    *        ![bgbl1_2023_j00400_0010.jpg](bgbl1_2023_j00400_0010.jpg)
+
+*    *        ![bgbl1_2023_j00400_0020.jpg](bgbl1_2023_j00400_0020.jpg)
+
+*    *
+
+
+
+   Dabei steht Q
+n              für die Ordinalzahl des betreffenden Quartils.
 
 
 ## Teil 5 - Übergangs- und Schlussbestimmungen

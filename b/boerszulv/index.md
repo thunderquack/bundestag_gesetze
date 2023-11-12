@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2832;
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 5 G v. 8.7.2019 I 1002
-
-Änderung durch
-:   Art. 2 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 3.6.2021 I 1423
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung

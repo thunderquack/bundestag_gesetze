@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1950, 1986
 
 Zuletzt geändert durch
-:   Art. 4 G v. 9.7.2021 I 2467
+:   Art. 4 G v. 20.4.2023 I Nr. 106
 
 
 ## § 1 Anwendungsbereich; Begriffsbestimmungen
@@ -193,34 +193,7 @@ Bei unfreiwilliger durch die zuständige Agentur für Arbeit bestätigter
 Arbeitslosigkeit nach weniger als einem Jahr Beschäftigung bleibt das
 Recht aus Absatz 1 während der Dauer von sechs Monaten unberührt.
 
-(4) Unionsbürger bedürfen für die Einreise keines Visums und für den
-Aufenthalt keines Aufenthaltstitels. Familienangehörige und
-nahestehende Personen, die nicht Unionsbürger sind, bedürfen für die
-Einreise eines Visums nach den Bestimmungen für Ausländer, für die das
-Aufenthaltsgesetz gilt. Der Besitz einer gültigen Aufenthaltskarte,
-auch der eines anderen Mitgliedstaates der Europäischen Union,
-entbindet nach Artikel 5 Abs. 2 der Richtlinie 2004/38/EG des
-Europäischen Parlaments und des Rates vom 29. April 2004 über das
-Recht der Unionsbürger und ihrer Familienangehörigen, sich im
-Hoheitsgebiet der Mitgliedstaaten frei zu bewegen und aufzuhalten und
-zur Änderung der Verordnung (EWG) Nr. 1612/68 und zur Aufhebung der
-Richtlinien 64/221/EWG, 68/360/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG,
-90/364/EWG, 90/365/EWG und 93/96/EWG (ABl. EU Nr. L 229 S. 35) von der
-Visumpflicht.
-
-(5) Für einen Aufenthalt von Unionsbürgern von bis zu drei Monaten ist
-der Besitz eines gültigen Personalausweises oder Reisepasses
-ausreichend. Familienangehörige, die nicht Unionsbürger sind, haben
-das gleiche Recht, wenn sie im Besitz eines anerkannten oder sonst
-zugelassenen Passes oder Passersatzes sind und sie den Unionsbürger
-begleiten oder ihm nachziehen.
-
-(6) Für die Ausstellung des Visums werden keine Gebühren erhoben. Für
-die Ausstellung des Visums an nahestehende Personen werden Gebühren
-erhoben. Die Gebühren entsprechen denjenigen, die von Ausländern
-erhoben werden, für die das Aufenthaltsgesetz gilt.
-
-(7) Das Nichtbestehen des Rechts nach Absatz 1 kann festgestellt
+(4) Das Nichtbestehen des Rechts nach Absatz 1 kann festgestellt
 werden, wenn feststeht, dass die betreffende Person das Vorliegen
 einer Voraussetzung für dieses Recht durch die Verwendung von
 gefälschten oder verfälschten Dokumenten oder durch Vorspiegelung
@@ -233,6 +206,59 @@ Einem Familienangehörigen, der nicht Unionsbürger ist, kann in diesen
 Fällen die Erteilung der Aufenthaltskarte oder des Visums versagt
 werden oder seine Aufenthaltskarte kann eingezogen werden.
 Entscheidungen nach den Sätzen 1 bis 3 bedürfen der Schriftform.
+
+
+## § 2a Visum, Dokumente, Visumverfahren
+
+(1) Unionsbürger bedürfen für die Einreise keines Visums und für den
+Aufenthalt keines Aufenthaltstitels. Für ihren Aufenthalt von bis zu
+drei Monaten ist der Besitz eines gültigen Personalausweises oder
+Reisepasses ausreichend. Satz 2 gilt auch für Familienangehörige, die
+nicht Unionsbürger sind, wenn sie im Besitz eines anerkannten oder
+sonst zugelassenen Passes oder Passersatzes sind und sie den
+Unionsbürger begleiten oder ihm nachziehen. Soweit nach dem
+Europäischen Übereinkommen über die Regelung des Personenverkehrs
+zwischen den Mitgliedstaaten des Europarates vom 10. Februar 1959
+(BGBl. 1959 II S. 389, 390) günstigere Regelungen Anwendung finden,
+bleiben diese unberührt.
+
+(2) Familienangehörige und nahestehende Personen, die nicht
+Unionsbürger sind, bedürfen für die Einreise eines Visums. Für die
+Ausstellung des Visums werden keine Gebühren erhoben. Satz 1 findet
+keine Anwendung auf Personen, die in entsprechender Anwendung des
+Aufenthaltsgesetzes oder einer nach § 99 Absatz 1 Nummer 2 des
+Aufenthaltsgesetzes erlassenen Rechtsverordnung wegen ihrer
+Staatsangehörigkeit auch für einen Aufenthalt, der kein Kurzaufenthalt
+ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten
+dürfen.
+
+(3) Der Besitz einer gültigen Aufenthaltskarte, auch derjenigen eines
+anderen Mitgliedstaates der Europäischen Union oder eines EWR-Staates,
+entbindet nach Artikel 5 Absatz 2 der Richtlinie 2004/38/EG des
+Europäischen Parlaments und des Rates vom 29. April 2004 über das
+Recht der Unionsbürger und ihrer Familienangehörigen, sich im
+Hoheitsgebiet der Mitgliedstaaten frei zu bewegen und aufzuhalten und
+zur Änderung der Verordnung (EWG) Nr. 1612/68 und zur Aufhebung der
+Richtlinien 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG,
+75/35/EWG, 90/364/EWG, 90/365/EWG und 93/96/EWG (ABl. L 158 vom
+30\.4.2004, S. 77; L 229 vom 29.6.2004, S. 35; L 204 vom 4.8.2007, S.
+28) von der Visumpflicht.
+
+(4) Ein Visum kann vor Einreise annulliert werden, indem eine
+Feststellung nach § 2 Absatz 4, § 5 Absatz 4 oder § 6 Absatz 1
+erfolgt. Die Feststellung bedarf der Schriftform. § 11 Absatz 8 Satz 1
+und Absatz 12 Satz 2 bleibt unberührt. Zuständig sind die Stelle, die
+das Visum ausgestellt hat, sowie die mit der polizeilichen Kontrolle
+des grenzüberschreitenden Verkehrs beauftragten Behörden.
+
+(5) Die zuständigen Landesbehörden unterrichten das Auswärtige Amt
+über Aufenthaltsrechte nach den §§ 2 und 16 dieses Gesetzes von
+Personen, die die Voraussetzungen nach § 1 Absatz 2 Nummer 2 oder
+Nummer 3 des Aufenthaltsgesetzes erfüllen. Das Auswärtige Amt
+unterrichtet die zuständige Landesbehörde über ein Ende der
+Rechtsstellung nach § 1 Absatz 2 Nummer 2 oder Nummer 3 des
+Aufenthaltsgesetzes, wenn Tatsachen die Annahme rechtfertigen, dass
+sie Aufenthaltsrechte nach den §§ 2 und 16 dieses Gesetzes haben.
 
 
 ## § 3 Familienangehörige
@@ -296,8 +322,9 @@ und zum Aufenthalt im Bundesgebiet verliehen werden, wenn
 1.  es sich um eine nahestehende Person im Sinne des § 1 Absatz 2 Nummer 4
     Buchstabe a handelt und
 
-    a)  der Unionsbürger ihr zum Zeitpunkt der erstmaligen Antragstellung seit
-        mindestens zwei Jahren und nicht nur vorübergehend Unterhalt gewährt,
+    a)  der Unionsbürger ihr zum Zeitpunkt der erstmaligen Antragstellung
+        nachhaltig, in der Regel mindestens zwei Jahre, und nicht nur
+        vorübergehend Unterhalt gewährt,
 
 
     b)  der Unionsbürger mit ihr in dem Staat, in dem sie vor der Verlegung
@@ -586,7 +613,7 @@ Nachweise hinaus
 ## § 6 Verlust des Rechts auf Einreise und Aufenthalt
 
 (1) Der Verlust des Rechts nach § 2 Abs. 1 kann unbeschadet des § 2
-Absatz 7 und des § 5 Absatz 4 nur aus Gründen der öffentlichen
+Absatz 4 und des § 5 Absatz 4 nur aus Gründen der öffentlichen
 Ordnung, Sicherheit oder Gesundheit (Artikel 45 Absatz 3, Artikel 52
 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union)
 festgestellt und die Bescheinigung über das Daueraufenthaltsrecht oder
@@ -663,7 +690,7 @@ wurde.
 Freizügigkeitsrecht nach § 6 Abs. 1 verloren haben, dürfen nicht
 erneut in das Bundesgebiet einreisen und sich darin aufhalten.
 Unionsbürgern und ihren Familienangehörigen, bei denen das
-Nichtbestehen des Freizügigkeitsrechts nach § 2 Absatz 7 festgestellt
+Nichtbestehen des Freizügigkeitsrechts nach § 2 Absatz 4 festgestellt
 worden ist, kann untersagt werden, erneut in das Bundesgebiet
 einzureisen und sich darin aufzuhalten. Dies soll untersagt werden,
 wenn ein besonders schwerer Fall, insbesondere ein wiederholtes
@@ -673,11 +700,15 @@ Ordnung und Sicherheit der Bundesrepublik Deutschland in erheblicher
 Weise beeinträchtigt. Bei einer Entscheidung nach den Sätzen 2 und 3
 findet § 6 Absatz 3, 6 und 8 entsprechend Anwendung. Das Verbot nach
 den Sätzen 1 bis 3 wird von Amts wegen befristet. Die Frist ist unter
-Berücksichtigung der Umstände des Einzelfalles festzusetzen und darf
-fünf Jahre nur in den Fällen des § 6 Absatz 1 überschreiten. Die Frist
-beginnt mit der Ausreise. Ein nach angemessener Frist oder nach drei
-Jahren gestellter Antrag auf Aufhebung oder auf Verkürzung der
-festgesetzten Frist ist innerhalb von sechs Monaten zu bescheiden.
+Berücksichtigung der Umstände des Einzelfalles auf Grund der auf
+Tatsachen gestützten Annahme der künftig von einem Aufenthalt der
+Person innerhalb der Europäischen Union und der Schengen-Staaten
+ausgehenden Gefahren für die öffentliche Ordnung und Sicherheit
+festzusetzen und darf fünf Jahre nur in den Fällen des § 6 Absatz 1
+überschreiten. Die Frist beginnt mit der Ausreise. Ein nach
+angemessener Frist oder nach drei Jahren gestellter Antrag auf
+Aufhebung oder auf Verkürzung der festgesetzten Frist ist innerhalb
+von sechs Monaten zu bescheiden.
 
 
 ## § 8 Ausweispflicht
@@ -788,11 +819,12 @@ bestimmte Bundespolizeibehörde.
 (1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1
 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8,
 die §§ 13, 14 Absatz 2, § 44 Absatz 4, die §§ 45a, 46 Absatz 2, § 50
-Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 73, 74 Absatz
-2, § 77 Absatz 1, die §§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95
-Absatz 1 Nummer 4 und 8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97,
-98 Absatz 2 Nummer 2, Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99
-des Aufenthaltsgesetzes entsprechende Anwendung.
+Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 71 Absatz 3
+Nummer 2 erste Alternative, die §§ 73, 74 Absatz 2, § 77 Absatz 1, die
+§§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4 und
+8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer 2,
+Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des
+Aufenthaltsgesetzes entsprechende Anwendung.
 
 (2) § 73 des Aufenthaltsgesetzes ist nur zur Feststellung von Gründen
 gemäß § 6 Absatz 1, hiervon abweichend in den Fällen des Absatzes 8
@@ -830,7 +862,7 @@ Absatzes 8 Satz 1 und des Absatzes 12 Satz 2 entsprechend anzuwenden.
 
 (7) Die Mitteilungspflichten nach § 87 Absatz 2 Satz 1 Nummer 1 bis 3
 des Aufenthaltsgesetzes bestehen insoweit entsprechend, als die dort
-genannten Umstände auch für die Feststellung nach § 2 Absatz 7, § 5
+genannten Umstände auch für die Feststellung nach § 2 Absatz 4, § 5
 Absatz 4 und § 6 Absatz 1 entscheidungserheblich sein können. Sie
 bestehen in den Fällen des Absatzes 8 Satz 1 und des Absatzes 12 Satz
 2 ohne diese Einschränkung.
@@ -845,7 +877,7 @@ bestehen in den Fällen des Absatzes 8 Satz 1 und des Absatzes 12 Satz
 2.  nicht Unionsbürger sind, sich selbst als Ehegatten oder Lebenspartner
     im Bundesgebiet aufgehalten haben, und die nach der Scheidung oder
     Aufhebung der Ehe oder Aufhebung der Lebenspartnerschaft nach § 3
-    Absatz 4 ein Aufenthaltsrecht behalten, und
+    Absatz 4 ein Aufenthaltsrecht behalten, oder
 
 
 3.  als nahestehende Personen eines Unionsbürgers ein Aufenthaltsrecht
@@ -913,8 +945,10 @@ entsprechende Anwendung, soweit die Übermittlung von
 teilnehmerbezogenen Daten im Rahmen der Durchführung von
 Integrationskursen nach § 44 Absatz 4 des Aufenthaltsgesetzes, zur
 Überwachung einer Eingliederungsvereinbarung nach dem Zweiten Buch
-Sozialgesetzbuch oder zur Durchführung des Einbürgerungsverfahrens
-erforderlich ist.
+Sozialgesetzbuch in der bis zum 30. Juni 2023 gültigen Fassung oder
+eines Kooperationsplans nach dem Zweiten Buch Sozialgesetzbuch in der
+ab dem 1. Juli 2023 gültigen Fassung oder zur Durchführung des
+Einbürgerungsverfahrens erforderlich ist.
 
 (14) Das Aufenthaltsgesetz findet auch dann Anwendung, wenn es eine
 günstigere Rechtsstellung vermittelt als dieses Gesetz. Hat die
@@ -1022,7 +1056,7 @@ des Austrittsabkommens Rechte als Grenzgänger haben, sind
 verpflichtet, ein Dokument (Aufenthaltsdokument für Grenzgänger-GB) zu
 beantragen, mit dem diese Rechte bescheinigt werden.
 
-(4) § 2 Absatz 4 Satz 2 und Absatz 7 und § 5 Absatz 3 und 4 finden
+(4) § 2 Absatz 4, § 2a Absatz 2 und 4 sowie § 5 Absatz 3 und 4 finden
 entsprechende Anwendung.
 
 (5) Für die Anwendung anderer Gesetze als des Aufenthaltsgesetzes und

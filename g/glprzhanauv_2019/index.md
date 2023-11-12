@@ -17,7 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 929
 
-Stand: Die V tritt gem. § 2 dieser V am 1.8.2023 außer Kraft
+Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 31.7.2023 hinaus bis zum 31.7.2026 verlängert worden
 
 ## Eingangsformel
 
@@ -34,7 +34,7 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2023 von der
+Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2026 von der
 Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über
 erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen
 über das Bestehen der Abschluss- oder Gesellenprüfung in
@@ -78,7 +78,7 @@ gleichgestellt:
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1.
-August 2023 außer Kraft.
+August 2026 außer Kraft.
 
 
 ## Schlussformel

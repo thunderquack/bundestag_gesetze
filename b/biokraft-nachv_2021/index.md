@@ -1789,8 +1789,9 @@ wahrnehmen, gelten sie als informationspflichtige Stellen nach § 2
 Absatz 1 Nummer 2 des Umweltinformationsgesetzes in der Fassung der
 Bekanntmachung vom 27. Oktober 2014 (BGBl. I S. 1643), das zuletzt
 durch Artikel 2 des Gesetzes vom 25. Februar 2021 (BGBl. I S. 306)
-geändert worden ist, in der jeweils geltenen Fassung, im
-Geltungsbereich des Umweltinformationsgesetzes.
+geändert worden ist, in der jeweils
+geltenden              Fassung, im Geltungsbereich des
+Umweltinformationsgesetzes.
 
 
 #### Unterabschnitt 3 - Überwachung von Zertifizierungsstellen

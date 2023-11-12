@@ -1,8 +1,6 @@
 ---
 Title: Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden
-  an Behörden oder sonstige öffentliche Stellen des Bundes sowie zur Durchführung
-  des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt gemäß § 3 Absatz
-  3 des Gesetzes zur Europäischen Bürgerinitiative
+  an Behörden oder sonstige öffentliche Stellen des Bundes
 jurabk: BMeldDÜV 2 2015
 layout: default
 origslug: bmeldd_v_2_2015
@@ -10,7 +8,7 @@ slug: bmeldduev_2_2015
 
 ---
 
-# Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes sowie zur Durchführung des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt gemäß § 3 Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative (BMeldDÜV 2 2015)
+# Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes (BMeldDÜV 2 2015)
 
 Ausfertigungsdatum
 :   2014-12-01
@@ -19,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 1950
 
 Zuletzt geändert durch
-:   Art. 84 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 7 G v. 9.7.2021 I 2467 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 23.6.2023 I Nr. 169
 
 
 ## Eingangsformel
@@ -34,20 +29,12 @@ das Bundesministerium des Innern:
 
 ## § 1 Allgemeines
 
-(1) Diese Verordnung regelt die Durchführung
-
-1.  von regelmäßigen Datenübermittlungen der Meldebehörden an das
-    Bundesamt für Personalmanagement der Bundeswehr, an die Datenstelle
-    der Rentenversicherung, an das Bundesamt für Justiz, an das
-    Kraftfahrt-Bundesamt, an das Bundeszentralamt für Steuern, an das
-    Bundesverwaltungsamt und an das Ausländerzentralregister sowie
-
-
-2.  des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt
-    gemäß § 3 Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative.
-
-
-
+(1) Diese Verordnung regelt die Durchführung von regelmäßigen
+Datenübermittlungen der Meldebehörden an das Bundesamt für
+Personalmanagement der Bundeswehr, an die Datenstelle der
+Rentenversicherung, an das Bundesamt für Justiz, an das Kraftfahrt-
+Bundesamt, an das Bundeszentralamt für Steuern, an das
+Bundesverwaltungsamt und an das Ausländerzentralregister.
 
 (2) Meldebehörde im Sinne dieser Verordnung ist bei mehreren Wohnungen
 der betroffenen Person die Meldebehörde der Hauptwohnung.
@@ -85,14 +72,14 @@ Mai 2014 herausgegebene DSMeld legt Form und Inhalt der zu
 OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße
 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der
 Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum
-Bund (ITZBund), Dienstsitz Bonn, An der Küppe 2, 53225 Bonn, bezogen
-werden.
+Bund (ITZBund), Dienstsitz Bonn, Bernkasteler Straße 8, 53175 Bonn,
+bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
-Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger
-bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und
-der Beginn der Anwendung anzugeben.
+Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt
+gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn
+der Anwendung anzugeben.
 
 
 ## § 4 Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr
@@ -472,10 +459,11 @@ nach Speicherung einer Geburt oder eines Sterbefalles, nach einer
 erstmaligen Erfassung einer Person aus sonstigen Gründen oder nach
 Speicherung einer Namensänderung, einer Änderung der Anschrift, des
 Geschlechts, des Doktorgrades, des Geburtstages oder Geburtsortes
-gemäß § 139b Absatz 7 und 8 der Abgabenordnung zur Zuteilung der
-Identifikationsnummer oder zur Aktualisierung der beim
-Bundeszentralamt für Steuern gemäß § 139b Absatz 3 der Abgabenordnung
-gespeicherten Daten unverzüglich folgende Daten (BZSt-Mitteilung):
+gemäß § 139b Absatz 6, 7 Satz 1 und 2 und Absatz 8 der Abgabenordnung
+zur Zuteilung der Identifikationsnummer oder zur Aktualisierung der
+beim Bundeszentralamt für Steuern gemäß § 139b Absatz 3 der
+Abgabenordnung gespeicherten Daten unverzüglich folgende Daten (BZSt-
+Mitteilung):
 
 *    *
     *
@@ -558,7 +546,14 @@ gespeicherten Daten unverzüglich folgende Daten (BZSt-Mitteilung):
 
     *   Identifikationsnummer nach § 139b der Abgabenordnung
 
-    *   2701.
+    *   2701,
+
+
+*    *   12.
+
+    *   Staatsangehörigkeiten
+
+    *   1001.
 
 
 
@@ -647,6 +642,31 @@ Identifikationsnummer zugeteilt, übermittelt die Meldebehörde statt
 der Identifikationsnummer das Vorläufige Bearbeitungsmerkmal nach §
 139b Absatz 6 Satz 2 der Abgabenordnung (Datenblätter 2702, 2705,
 2706, 2708).
+
+(3) Nach einem Verwaltungskontakt im Rahmen eines melderechtlichen
+Verwaltungsverfahrens, der darauf hindeutet, dass die betroffene
+Person als Einwohner in Deutschland aufhältig ist, übermittelt die
+Meldebehörde der Hauptwohnung oder alleinigen Wohnung dem
+Bundeszentralamt für Steuern auf Grund des § 139b Absatz 6 und 8 der
+Abgabenordnung unverzüglich Monat und Jahr des Verwaltungskontakts
+sowie die folgenden Daten:
+
+*    *
+    *   Blattnummer des DSMeld (Datenblatt)
+
+
+*    *   1. Identifikationsnummer
+
+    *   2701
+
+
+*    *   2. Geburtsdatum
+
+    *   0601.
+
+
+
+Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 10 Datenübermittlung an das Bundesverwaltungsamt
@@ -842,68 +862,12 @@ Daten dieser Person (BVA-Optionsmitteilung Wiederzuzug):
 
 
 
-(3) Das Bundesverwaltungsamt kann bei zentralen Meldedatenbeständen
-der Länder, sofern solche nicht vorhanden sind, bei sonstigen Stellen,
-die durch Landesrecht dazu bestimmt sind, oder bei den Meldebehörden
-zur stichprobenartigen Überprüfung der Gültigkeit der
-Unterstützungsbekundungen der Europäischen Bürgerinitiative gemäß § 3
-Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative folgende Daten
-abrufen:
-
-*    *
-    *
-    *   Blattnummer des
-        DSMeld (Datenblatt)
-
-
-*    *   1.
-
-    *   Familienname
-
-    *   0101 bis 0106,
-
-
-*    *   2.
-
-    *   frühere Namen
-
-    *   0201 bis 0204,
-
-
-*    *   3.
-
-    *   Vornamen
-
-    *   0301, 0302,
-
-
-*    *   4.
-
-    *   Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat
-
-    *   0601 bis 0603,
-
-
-*    *   5.
-
-    *   Staatsangehörigkeiten
-
-    *   1001,
-
-
-*    *   6.
-
-    *   derzeitige und frühere Anschriften
-
-    *   1201 bis 1203, 1205 bis 1213a.
-
-
-
+(3) (weggefallen)
 
 
 ## § 11 Datenübermittlung an das Ausländerzentralregister
 
-Die Meldebehörden übermitteln gemäß § 6 Absatz 1 Nummer 9 des AZR-
+(1) Die Meldebehörden übermitteln gemäß § 6 Absatz 1 Nummer 9 des AZR-
 Gesetzes bei Änderung der Anschrift unverzüglich folgende Daten an das
 Ausländerzentralregister (Ausländerzentralregistermitteilung):
 
@@ -927,9 +891,10 @@ Ausländerzentralregister (Ausländerzentralregistermitteilung):
     *   0301 bis 0303,
 
 
-*    *   4. Geburtsdatum und Geburtsort
+*    *   4. Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den
+        Staat
 
-    *   0601, 0602,
+    *   0601 bis 0603,
 
 
 *    *   5. Geschlecht
@@ -947,11 +912,33 @@ Ausländerzentralregister (Ausländerzentralregistermitteilung):
     *   1200 bis 1212,
 
 
-*    *   8. AZR-Nummer, übergangsweise Seriennummer des Ankunftsnachweises
+*    *   8. AZR-Nummer
 
-    *   1712.
+    *   1712,
 
 
+*    *   9. Doktorgrad
+
+    *   0401,
+
+
+*    *   10. Einzugsdatum
+
+    *   1301,
+
+
+*    *   11. Auszugsdatum
+
+    *   1306.
+
+
+
+(2) Die Meldebehörden übermitteln nach § 6 Absatz 1 Nummer 9 des AZR-
+Gesetzes unverzüglich die Eintragung einer Auskunftssperre gemäß § 51
+des Bundesmeldegesetzes und deren Wegfall an das
+Ausländerzentralregister. Zum Zweck der eindeutigen Zuordnung sind
+zusätzlich die Daten nach Absatz 1 Nummer 1 bis 6 und 8 zu
+übermitteln.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten

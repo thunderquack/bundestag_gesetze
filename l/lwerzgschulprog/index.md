@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2858
 
-Geändert durch
-:   Art. 1 G v. 11.12.2020 I 2880
+Zuletzt geändert durch
+:   Art. 2 Abs. 29 G v. 20.12.2022 I 2752
 
 
 ## Eingangsformel
@@ -304,11 +304,8 @@ nach § 4 auf die Bundesanstalt für Landwirtschaft und Ernährung zu
 übertragen.
 
 
-## § 7 Verkündung von Rechtsverordnungen
+## § 7 (weggefallen)
 
-Rechtsverordnungen des Bundes nach diesem Gesetz können abweichend von
-§ 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
-Bundesanzeiger verkündet werden.
 
 
 ## § 8 Übergangsvorschriften

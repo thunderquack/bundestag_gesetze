@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.3.1971 I 337,
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.3.2020 I 433
-
-Änderung durch
-:   Art. 2 G v. 31.5.2021 I 1221 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 31.5.2021 I 1221
 
 
 ## § 1

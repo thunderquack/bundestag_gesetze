@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2512
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.12.2020 I 3256
-
-Änderung durch
-:   Art. 5 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 3.6.2021 I 1423
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

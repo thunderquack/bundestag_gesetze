@@ -19,23 +19,9 @@ Neugefasst durch
 :   Bek. v. 16.12.1980; 1981 I 1;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.10.2017 I 3546
+:   Art. 1 G v. 30.8.2021 I 4074
 
-Änderung durch
-:   Art. 22 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 23 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 20.8.2021 I 3914 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 30.8.2021 I 4074 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
 ## Erster Abschnitt - Das Patent
 
@@ -305,8 +291,8 @@ Erfindung zuerst beim Deutschen Patent- und Markenamt angemeldet hat.
 
 (1) Damit die sachliche Prüfung der Patentanmeldung durch die
 Feststellung des Erfinders nicht verzögert wird, gilt im Verfahren vor
-dem Patentamt der Anmelder als berechtigt, die Erteilung des Deutschen
-Patent- und Markenamts zu verlangen.
+dem Deutschen Patent- und Markenamt der Anmelder als berechtigt, die
+Erteilung des Patents zu verlangen.
 
 (2) Wird ein Patent auf Grund eines auf widerrechtliche Entnahme (§ 21
 Abs. 1 Nr. 3) gestützten Einspruchs widerrufen oder führt der
@@ -1050,7 +1036,16 @@ Vertreters oder Zustellungsbevollmächtigten genügt. Auch sind darin
 Anfang, Ablauf, Erlöschen, Anordnung der Beschränkung, Widerruf,
 Erklärung der Nichtigkeit der Patente und ergänzender
 Schutzzertifikate (§ 16a) sowie die Erhebung eines Einspruchs und
-einer Nichtigkeitsklage zu vermerken.
+einer Nichtigkeitsklage zu vermerken. In dem Register sind ferner der
+vom Europäischen Patentamt mitgeteilte Tag der Eintragung der
+einheitlichen Wirkung des europäischen Patents sowie der mitgeteilte
+Tag des Eintritts der Wirkung des europäischen Patents mit
+einheitlicher Wirkung nach Maßgabe des Artikels 4 Absatz 1 der
+Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und des
+Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten
+Zusammenarbeit im Bereich der Schaffung eines einheitlichen
+Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1; L 307 vom 28.10.2014,
+S. 83) zu vermerken.
 
 (2) Der Präsident des Deutschen Patent- und Markenamts kann bestimmen,
 daß weitere Angaben in das Register eingetragen werden.
@@ -1061,7 +1056,12 @@ Patentinhabers und seines Vertreters sowie
 Zustellungsbevollmächtigten, wenn sie ihm nachgewiesen wird. Solange
 die Änderung nicht eingetragen ist, bleibt der frühere Anmelder,
 Patentinhaber, Vertreter oder Zustellungsbevollmächtigte nach Maßgabe
-dieses Gesetzes berechtigt und verpflichtet.
+dieses Gesetzes berechtigt und verpflichtet. Übernimmt der neu im
+Register als Anmelder oder als Patentinhaber Eingetragene ein
+Einspruchsverfahren vor dem Deutschen Patent- und Markenamt, ein
+Einspruchs- oder Beschwerdeverfahren vor dem Bundespatentgericht oder
+ein Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof, so ist dafür
+die Zustimmung der übrigen Verfahrensbeteiligten nicht erforderlich.
 
 (4) Das Deutsche Patent- und Markenamt trägt auf Antrag des
 Patentinhabers oder des Lizenznehmers die Erteilung einer
@@ -1424,6 +1424,10 @@ Unterrichtung. Sie muß enthalten:
 
 
 
+Sind in der Kurzfassung mehrere Zeichnungen erwähnt und ist nicht
+eindeutig, welche Zeichnung die Erfindung nach Auffassung des
+Anmelders am deutlichsten kennzeichnet, so bestimmt die Prüfungsstelle
+diejenige Zeichnung, die die Erfindung am deutlichsten kennzeichnet.
 
 
 ### § 37
@@ -1713,7 +1717,8 @@ innerhalb einer bestimmten Frist zu äußern.
 (1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und
 anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich
 vernehmen sowie andere zur Aufklärung der Sache erforderliche
-Ermittlungen anstellen. Bis zum Beschluß über die Erteilung ist der
+Ermittlungen anstellen. § 128a der Zivilprozessordnung ist
+entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der
 Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen.
 Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so
 weist sie den Antrag zurück. Der Beschluß, durch den der Antrag
@@ -2001,10 +2006,16 @@ Einspruchsverfahren entsprechend anzuwenden.
 
 ### § 61
 
-(1) Die Patentabteilung entscheidet durch Beschluß, ob und in welchem
-Umfang das Patent aufrechterhalten oder widerrufen wird. Das Verfahren
-wird von Amts wegen ohne den Einsprechenden fortgesetzt, wenn der
-Einspruch zurückgenommen wird.
+(1) Die Patentabteilung entscheidet durch Beschluss. Auf einen
+zulässigen Einspruch hin entscheidet die Patentabteilung, ob und in
+welchem Umfang das Patent aufrechterhalten oder widerrufen wird. Nimmt
+der Einsprechende den Einspruch zurück, so wird das Verfahren von Amts
+wegen ohne den Einsprechenden fortgesetzt. Abweichend von Satz 3 ist
+das Verfahren beendet, wenn sich der zurückgenommene Einspruch
+ausschließlich auf den Widerrufsgrund der widerrechtlichen Entnahme
+nach § 21 Absatz 1 Nummer 3 gestützt hat. In diesem Fall oder wenn das
+Verfahren in der Hauptsache erledigt ist, wird die Beendigung des
+Verfahrens durch Beschluss festgestellt.
 
 (2) Abweichend von Absatz 1 entscheidet der Beschwerdesenat des
 Bundespatentgerichts,
@@ -2063,12 +2074,14 @@ Urkundsbeamten der Geschäftsstelle des Patentgerichts erteilt.
 
 (1) Auf der Offenlegungsschrift (§ 32 Abs. 2), auf der Patentschrift
 (§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des Patents
-(§ 58 Abs. 1) ist der Erfinder zu nennen, sofern er bereits benannt
-worden ist. Die Nennung ist im Register (§ 30 Abs. 1) zu vermerken.
-Sie unterbleibt, wenn der vom Anmelder angegebene Erfinder es
-beantragt. Der Antrag kann jederzeit widerrufen werden; im Falle des
-Widerrufs wird die Nennung nachträglich vorgenommen. Ein Verzicht des
-Erfinders auf Nennung ist ohne rechtliche Wirksamkeit.
+(§ 58 Abs. 1) ist der Erfinder mit Namen und Ortsangabe zu nennen,
+sofern er bereits benannt worden ist. Die Nennung ist mit Namen und
+Ortsangabe im Register (§ 30 Abs. 1) zu vermerken. Sie unterbleibt
+vollständig oder hinsichtlich der Ortsangabe, wenn der vom Anmelder
+angegebene Erfinder es beantragt. Der Antrag kann jederzeit widerrufen
+werden; im Falle des Widerrufs wird die Nennung nachträglich
+vorgenommen. Ein Verzicht des Erfinders auf Nennung ist ohne
+rechtliche Wirksamkeit.
 
 (2) Ist die Person des Erfinders unrichtig oder im Falle des Absatzes
 1 Satz 3 überhaupt nicht angegeben, so sind der Patentsucher oder
@@ -2511,8 +2524,17 @@ des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien
 so früh wie möglich auf Gesichtspunkte hin, die für die Entscheidung
 voraussichtlich von besonderer Bedeutung sein werden oder der
 Konzentration der Verhandlung auf die für die Entscheidung
-wesentlichen Fragen dienlich sind. Eines solchen Hinweises bedarf es
-nicht, wenn die zu erörternden Gesichtspunkte nach dem Vorbringen der
+wesentlichen Fragen dienlich sind. Dieser Hinweis soll innerhalb von
+sechs Monaten nach Zustellung der Klage erfolgen. Ist eine
+Patentstreitsache anhängig, soll der Hinweis auch dem anderen Gericht
+von Amts wegen übermittelt werden. Das Patentgericht kann den Parteien
+zur Vorbereitung des Hinweises nach Satz 1 eine Frist für eine
+abschließende schriftliche Stellungnahme setzen. Setzt das
+Patentgericht keine Frist, darf der Hinweis nicht vor Ablauf der Frist
+nach § 82 Absatz 3 Satz 2 und 3 erfolgen. Stellungnahmen der Parteien,
+die nach Fristablauf eingehen, muss das Patentgericht für den Hinweis
+nicht berücksichtigen. Eines Hinweises nach Satz 1 bedarf es nicht,
+wenn die zu erörternden Gesichtspunkte nach dem Vorbringen der
 Parteien offensichtlich erscheinen. § 139 der Zivilprozessordnung ist
 ergänzend anzuwenden.
 
@@ -3642,7 +3664,7 @@ einer Bewilligung der Verfahrenskostenhilfe nach § 115 Absatz 4 der
 Zivilprozessordnung entgegenstehende Beschränkung auszuschließen. Die
 gezahlten Raten sind erst dann auf die Jahresgebühren zu verrechnen,
 wenn die Kosten des Patenterteilungsverfahrens einschließlich etwa
-entstandener Kosten für einen beigeordneten Vertreter durch die
+entstandener Kosten einer beigeordneten Vertretung durch die
 Ratenzahlungen gedeckt sind. Soweit die Jahresgebühren durch die
 gezahlten Raten als entrichtet angesehen werden können, ist § 5 Abs. 2
 des Patentkostengesetzes entsprechend anzuwenden.
@@ -3712,7 +3734,7 @@ zuständig ist, für welches die Verfahrenskostenhilfe nachgesucht wird.
 (3) Die nach den §§ 130 bis 133 ergehenden Beschlüsse sind
 unanfechtbar, soweit es sich nicht um einen Beschluß der
 Patentabteilung handelt, durch den die Patentabteilung die
-Verfahrenskostenhilfe oder die Beiordnung eines Vertreters nach § 133
+Verfahrenskostenhilfe oder die Beiordnung einer Vertretung nach § 133
 verweigert; die Rechtsbeschwerde ist ausgeschlossen. § 127 Abs. 3 der
 Zivilprozeßordnung ist auf das Verfahren vor dem Patentgericht
 entsprechend anzuwenden.

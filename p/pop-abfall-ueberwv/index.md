@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2644
 
-Geändert durch
-:   Art. 5 Abs. 4 G v. 23.10.2020 I 2232
+Zuletzt geändert durch
+:   Art. 6 V v. 28.4.2022 I 700
 
 
 ## § 1 Anwendungsbereich
@@ -225,8 +225,8 @@ Rückgabe von Erzeugnissen und der nach Gebrauch der Erzeugnisse
 verbleibenden Abfälle gilt spätestens mit der Annahme an einer Anlage
 zur weiteren Entsorgung, ausgenommen Anlagen zur Zwischenlagerung der
 Abfälle, als abgeschlossen, soweit kein früherer Zeitpunkt bestimmt
-ist. Im Fall einer freiwilligen Rücknahme gilt § 26 Absatz 2 bis 4 des
-Kreislaufwirtschaftsgesetzes entsprechend.
+ist. Im Fall einer freiwilligen Rücknahme gilt § 26a Absatz 1 bis 4
+des Kreislaufwirtschaftsgesetzes entsprechend.
 
 (4) Die Nachweispflichten nach Absatz 1 gelten nicht für die
 Überlassung von Altgeräten nach § 3 Nummer 3 des Elektro- und

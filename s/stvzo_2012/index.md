@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 679
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.11.2019 I 2015
-
-Änderung durch
-:   Art. 1 V v. 25.6.2021 I 2204 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 12.7.2021 I 3091 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 V v. 20.7.2023 I Nr. 199
 
 
 ## A. - Personen (weggefallen)
@@ -296,16 +290,16 @@ Betriebserlaubnis des Fahrzeugs.
     ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden
     Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf
     Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die
-    Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 11
-    Absatz 1 Satz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4
-    Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder
-    aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich
-    zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu
-    beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk
-    enthalten sein, dass diese in einer mitzuführenden Erlaubnis,
-    Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die
-    Pflicht zur Mitteilung von Änderungen nach § 13 der Fahrzeug-
-    Zulassungsverordnung bleibt unberührt.
+    Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 13
+    Absatz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5
+    der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender
+    Nachweis einen entsprechenden Eintrag einschließlich zu beachtender
+    Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden
+    Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein,
+    dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem
+    mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung
+    von Änderungen nach § 15 der Fahrzeug-Zulassungsverordnung bleibt
+    unberührt.
 
 
 
@@ -323,7 +317,7 @@ auch für Fahrten, die der amtlich anerkannte Sachverständige für den
 Kraftfahrzeugverkehr oder der Ersteller des Gutachtens des nach § 30
 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen
 benannten Technischen Dienstes im Rahmen der Erstellung des Gutachtens
-durchführt. Kurzzeitkennzeichen dürfen nur nach Maßgabe des § 16a
+durchführt. Kurzzeitkennzeichen dürfen nur nach Maßgabe des § 42
 Absatz 6 der Fahrzeug-Zulassungsverordnung verwendet werden.
 
 (6) Werden an Fahrzeugen von Fahrzeugherstellern, die Inhaber einer
@@ -534,7 +528,7 @@ werden.
 
 (4) Bei zulassungspflichtigen Fahrzeugen ist der Behörde mit dem
 Antrag eine Zulassungsbescheinigung Teil II vorzulegen. Wenn diese
-noch nicht vorhanden ist, ist nach § 12 der Fahrzeug-
+noch nicht vorhanden ist, ist nach § 14 der Fahrzeug-
 Zulassungsverordnung zu beantragen, dass diese ausgefertigt wird.
 
 (5) Ist für die Erteilung einer Genehmigung für Fahrzeuge zusätzlich
@@ -797,11 +791,11 @@ werden, müssen in einer amtlich genehmigten Bauart ausgeführt sein:
 20. Fahrtschreiber (§ 57a);
 
 
-21. Beleuchtungseinrichtungen für Kennzeichen (§ 10 der Fahrzeug-
+21. Beleuchtungseinrichtungen für Kennzeichen (§ 12 der Fahrzeug-
     Zulassungsverordnung);
 
 
-21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10
+21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 12
     Fahrzeugzulassungs-Verordnung);
 
 
@@ -931,7 +925,7 @@ Zulassungsverordnung haben ihre Fahrzeuge auf ihre Kosten nach Maßgabe
 der Anlage VIII in Verbindung mit Anlage VIIIa in regelmäßigen
 Zeitabständen untersuchen zu lassen. Ausgenommen sind
 
-1.  Fahrzeuge mit rotem Kennzeichen nach den §§ 16 und 17 der Fahrzeug-
+1.  Fahrzeuge mit rotem Kennzeichen nach den §§ 41 und 43 der Fahrzeug-
     Zulassungsverordnung,
 
 
@@ -1067,12 +1061,12 @@ aus einem anderen amtlichen Dokument ersichtlich ist.
 
 Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen
 nach § 29 berechtigten Personen sind verpflichtet, nach Abschluss
-einer Hauptuntersuchung oder einer Sicherheitsprüfung die in § 34
+einer Hauptuntersuchung oder einer Sicherheitsprüfung die in § 61
 Absatz 1 der Fahrzeug-Zulassungsverordnung genannten Daten an das
 Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister zu
 übermitteln. Darüber hinaus müssen die zur Durchführung von
 Hauptuntersuchungen nach § 29 berechtigten Personen nach Abschluss
-einer Hauptuntersuchung die in § 34 Absatz 2 der Fahrzeug-
+einer Hauptuntersuchung die in § 61 Absatz 2 der Fahrzeug-
 Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur
 Speicherung im Zentralen Fahrzeugregister übermitteln. Die jeweilige
 Übermittlung hat
@@ -1559,6 +1553,8 @@ Fahrzeugbreite die folgenden Einrichtungen nicht zu berücksichtigen:
 
 
 
+Gemessen wird bei geschlossenen Türen und Fenstern und bei
+Geradeausstellung der Räder.
 
 
 *    *   (2) Bei Kraftfahrzeugen, Fahrzeugkombinationen und Anhängern
@@ -3202,7 +3198,7 @@ Reifenbreite sind zulässig
     Höchstgeschwindigkeit 8 km/h nicht übersteigt,
 
 
-2.  für Arbeitsmaschinen und Stapler (§ 3 Absatz 2 Satz 1 Nummer 1
+2.  für Arbeitsmaschinen und Stapler (§ 3 Absatz 3 Satz 1 Nummer 1
     Buchstabe a der Fahrzeug-Zulassungsverordnung), deren durch die Bauart
     bestimmte Höchstgeschwindigkeit 8 km/h nicht übersteigt, und für
     Fahrzeuge, die von ihnen mitgeführt werden,
@@ -3316,8 +3312,7 @@ Radeinbauten) versehen sein.
 
 
 7.  die hinter land- oder forstwirtschaftlichen einachsigen Zug- oder
-    Arbeitsmaschinen mitgeführten Sitzkarren (§ 3 Absatz 2 Satz 1 Nummer 2
-    Buchstabe i der Fahrzeug-Zulassungsverordnung),
+    Arbeitsmaschinen mitgeführten Sitzkarren,
 
 
 8.  die Vorderräder von mehrachsigen Anhängern für die Beförderung von
@@ -4902,7 +4897,7 @@ vorgeschrieben sind – dürfen auf einem abnehmbaren Schild oder Gestell
 9.  fahrbaren Baubuden,
 
 
-10. Wohnwagen und Packwagen im Schaustellergewerbe nach § 3 Absatz 2 Satz
+10. Wohnwagen und Packwagen im Schaustellergewerbe nach § 3 Absatz 3 Satz
     1 Nummer 2 Buchstabe b der Fahrzeug-Zulassungsverordnung,
 
 
@@ -5351,9 +5346,9 @@ mehreren Warnleuchten für blaues Blinklicht dürfen ausgerüstet sein:
 
 1.  Kraftfahrzeuge sowie Anhänger, die dem Vollzugsdienst der Polizei, der
     Militärpolizei, der Bundespolizei, des Zolldienstes, des Bundesamtes
-    für Güterverkehr oder der Bundesstelle für Flugunfalluntersuchung
-    dienen, insbesondere Kommando-, Streifen-, Mannschaftstransport-,
-    Verkehrsunfall-, Mordkommissionsfahrzeuge,
+    für Logistik und Mobilität oder der Bundesstelle für
+    Flugunfalluntersuchung dienen, insbesondere Kommando-, Streifen-,
+    Mannschaftstransport-, Verkehrsunfall-, Mordkommissionsfahrzeuge,
 
 
 2.  Einsatz- und Kommando-Kraftfahrzeuge sowie Anhänger der Feuerwehren
@@ -5394,8 +5389,8 @@ dürfen folgende Warnleuchten und Signalgeber haben:
 
 
 
-Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr
-dürfen mit einem nach hinten wirkenden Signalgeber für rote
+Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Logistik und
+Mobilität dürfen mit einem nach hinten wirkenden Signalgeber für rote
 Lichtschrift ausgerüstet sein. Die Warnleuchten für rotes Blinklicht
 und blaues Blinklicht dürfen nicht gemeinsam betrieben werden können.
 Ergänzend zu den Signalgebern dürfen fluoreszierende oder
@@ -6070,7 +6065,7 @@ zulässig.
     c)  einachsigen Anhängern hinter Krafträdern;
 
 
-    d)  Sitzkarren (§ 3 Absatz 2 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-
+    d)  Sitzkarren (§ 3 Absatz 3 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-
         Zulassungsverordnung).
 
 
@@ -8518,20 +8513,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-2.2 Wenn untersuchungspflichtige Fahrzeuge ohne Gestellung eines Fahrers
+2.2. Wenn untersuchungspflichtige Fahrzeuge ohne Gestellung eines Fahrers
     gewerbsmäßig vermietet werden, ohne dass sie für den Mieter zugelassen
     sind, beträgt die Frist für die Hauptuntersuchung in allen Fällen
-    zwölf Monate; davon ausgenommen beträgt die Frist für die
-    Hauptuntersuchung an Personenkraftwagen nach Nummer 2.1.2.1 und an
-    Lastkraftwagen mit einer zulässigen Gesamtmasse ≤ 3,5 t nach Nummer
-    2\.1.4.1 24 Monate, wenn diese für eine Mindestdauer von 36 Monaten von
-    einem Mieter gemietet werden. An Kraftfahrzeugen nach Nummer 2.1.3
-    sind Sicherheitsprüfungen in Zeitabständen von drei, sechs und neun
-    Monaten und an Kraftfahrzeugen, selbstfahrenden Arbeitsmaschinen,
-    Zugmaschinen und Wohnmobilen nach den Nummern 2.1.4.3, 2.1.4.4 und
-    2\.1.6.3 sowie Anhängern, einschließlich angehängten Arbeitsmaschinen
-    nach Nummer 2.1.5.4, in einem Abstand von sechs Monaten nach der
-    letzten Hauptuntersuchung durchführen zu lassen.
+    zwölf Monate. Abweichend von Satz 1 beträgt, sofern die nachfolgenden
+    Fahrzeuge für eine Mindestdauer von einem Jahr von einem Mieter
+    gemietet werden, die Frist für die Hauptuntersuchung an
+
+    1.  Personenkraftwagen nach Nummer 2.1.2.1 36 Monate und
+
+
+    2.  Lastkraftwagen mit einer zulässigen Gesamtmasse*
+        3,5 t nach Nummer 2.1.4.1 24 Monate.
+
+
+
+    Wird der Mietvertrag nachträglich auf eine Dauer von weniger als einem
+    Jahr verkürzt, beträgt die Frist für die Hauptuntersuchung in allen
+    Fällen zwölf Monate.
 
 
 2.3 Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und
@@ -8562,7 +8561,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21.
     Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des
     Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist §
-    7 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden.
+    8 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden.
     Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit
     dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um
     höchstens einen Monat überschritten werden, wenn die mit der Prüfung
@@ -8775,7 +8774,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     beeinträchtigen und eine unmittelbare Untersagung des Betriebs des
     Fahrzeugs auf öffentlichen Straßen rechtfertigen. Die vorhandene
     Prüfplakette ist zu entfernen und es hat die unverzügliche
-    Benachrichtigung der nach § 46 der Fahrzeug-Zulassungsverordnung
+    Benachrichtigung der nach § 75 der Fahrzeug-Zulassungsverordnung
     zuständigen Zulassungsbehörde zu erfolgen. Der Fahrzeugführer ist
     darauf hinzuweisen, dass er das Fahrzeug auf öffentlichen Straßen
     nicht mehr in Betrieb setzen darf. Der Halter ist im
@@ -8812,20 +8811,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 3.1.4.8 bei der Eintragung der Laufleistung des Fahrzeugs nach dem Stand des
     Wegstreckenzählers in den Untersuchungsbericht durch Vergleich mit der
     in dem Untersuchungsbericht der zuletzt durchgeführten
-    Hauptuntersuchung dokumentierten oder nach § 39 Absatz 5b der
-    Fahrzeug-Zulassungsverordnung übermittelten Laufleistung des Fahrzeugs
-    fest, dass der durch den Wegstreckenzähler angezeigte Stand niedriger
-    ist als der auf dem Untersuchungsbericht oder Prüfprotokoll
-    dokumentierte Stand, der bei der zuletzt durchgeführten
-    Hauptuntersuchung oder Sicherheitsprüfung festgestellt wurde, und der
-    Einbau eines anderen Wegstreckenzählers in das Kraftfahrzeug nicht
-    nachgewiesen werden kann, so ist der Stand des Wegstreckenzählers
-    nicht plausibel und hat er das Ergebnis der Prüfung des
-    Wegstreckenzählers unverzüglich den zuständigen Zulassungsbehörden auf
-    elektronischem Weg über das Kraftfahrt-Bundesamt unter Benennung der
-    fahrzeugidentifizierenden Merkmale mitzuteilen und die fehlende
-    Plausibilität auf dem Untersuchungsbericht oder Prüfprotokoll zu
-    vermerken.
+    Hauptuntersuchung dokumentierten oder nach § 66 Absatz 8 der Fahrzeug-
+    Zulassungsverordnung übermittelten Laufleistung des Fahrzeugs fest,
+    dass der durch den Wegstreckenzähler angezeigte Stand niedriger ist
+    als der auf dem Untersuchungsbericht oder Prüfprotokoll dokumentierte
+    Stand, der bei der zuletzt durchgeführten Hauptuntersuchung oder
+    Sicherheitsprüfung festgestellt wurde, und der Einbau eines anderen
+    Wegstreckenzählers in das Kraftfahrzeug nicht nachgewiesen werden
+    kann, so ist der Stand des Wegstreckenzählers nicht plausibel und hat
+    er das Ergebnis der Prüfung des Wegstreckenzählers unverzüglich den
+    zuständigen Zulassungsbehörden auf elektronischem Weg über das
+    Kraftfahrt-Bundesamt unter Benennung der fahrzeugidentifizierenden
+    Merkmale mitzuteilen und die fehlende Plausibilität auf dem
+    Untersuchungsbericht oder Prüfprotokoll zu vermerken.
 
 
 3.1.5 Untersuchungsberichte über Hauptuntersuchungen sind
@@ -44417,7 +44415,8 @@ Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
 
 ### Anlage XXIX EG-Fahrzeugklassen
 
-(Fundstelle: BGBl. I 2012, 931 - 935)
+(Fundstelle: BGBl. I 2012, 931 - 935;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt 1
 

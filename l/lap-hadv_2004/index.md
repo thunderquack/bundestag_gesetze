@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1088
 
 Zuletzt geändert durch
-:   Art. 3 V v. 25.8.2021 I 4058
+:   Art. 1 V v. 22.12.2022 I 2893
 
 
 ## Eingangsformel
@@ -165,7 +165,7 @@ durchlaufen.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -308,11 +308,6 @@ dieser kann externe Beraterinnen und Berater sowie Fach- und
 Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren
 durchführen. Einzelheiten regelt das Auswärtige Amt.
 
-(2a) Bis zum 31. Dezember 2022 können die mündlichen Teile des
-Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt
-werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
-stehen.
-
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und
 Bewerber zugelassen, die nach den eingereichten Unterlagen die
 Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein
@@ -410,7 +405,7 @@ Mitglieder anwesend sind. Der Ausschuss entscheidet mit
 Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der oder des
 Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 der Auswahlausschuss schon dann beschlussfähig ist, wenn die oder der
 Vorsitzende und ein weiteres Mitglied anwesend sind.
 
@@ -594,7 +589,7 @@ Ausbildungsinhalte.
 
 ### § 10a Digitale Lehrformate
 
-Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 für
+Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024 für
 alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
 
 
@@ -742,7 +737,7 @@ der schriftliche Teil aus drei Aufsichtsarbeiten, zählen der
 schriftliche Teil zu drei Vierteln und der mündliche Teil zu einem
 Viertel.
 
-(3a) Bis zum 31. Dezember 2022 können in den Fachprüfungen
+(3a) Bis zum 31. Dezember 2024 können in den Fachprüfungen
 
 1.  die Aufsichtsarbeiten
 
@@ -785,7 +780,7 @@ bestehen aus
 Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der
 mündliche Teil je zur Hälfte.
 
-(4a) Bis zum 31. Dezember 2022 können in den Sprachprüfungen
+(4a) Bis zum 31. Dezember 2024 können in den Sprachprüfungen
 
 1.  die Aufsichtsarbeiten mit Unterstützung durch Informationstechnik
     durchgeführt werden und
@@ -824,7 +819,7 @@ wurde.
 
 
 
-(1a) Bis zum 31. Dezember 2022 kann
+(1a) Bis zum 31. Dezember 2024 kann
 
 1.  die Aufgabe für den Aktenvortrag mit Unterstützung durch
     Informationstechnik gestellt werden,

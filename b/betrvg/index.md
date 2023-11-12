@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 13
 
 Neugefasst durch
-:   Bek. v. 25.9.2001 I 2518;
+:   Bek. v. 25.9.2001 I 2518
 
 Zuletzt geändert durch
-:   Art. 5 G v. 10.12.2021 I 5162
+:   Art. 6d G v. 16.9.2022 I 1454
 
 § 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung
 des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001
@@ -3231,6 +3231,10 @@ gehören insbesondere
 5a. Fragen des betrieblichen Umweltschutzes;
 
 
+5b. Fragen der unternehmerischen Sorgfaltspflichten in Lieferketten gemäß
+    dem Lieferkettensorgfaltspflichtengesetz;
+
+
 6.  die Einschränkung oder Stillegung von Betrieben oder von
     Betriebsteilen;
 
@@ -3371,8 +3375,8 @@ mehr als 300 Arbeitnehmern zu seiner Unterstützung einen Berater
 hinzuziehen; § 80 Abs. 4 gilt entsprechend; im Übrigen bleibt § 80
 Abs. 3 unberührt. Als Betriebsänderungen im Sinne des Satzes 1 gelten
 
-1.  Einschränkung und Stillegung des ganzen Betriebs oder von wesentlichen
-    Betriebsteilen,
+1.  Einschränkung und Stilllegung des ganzen Betriebs oder von
+    wesentlichen Betriebsteilen,
 
 
 2.  Verlegung des ganzen Betriebs oder von wesentlichen Betriebsteilen,
@@ -4315,22 +4319,20 @@ werden durch dieses Gesetz nicht berührt.
 ### § 129 Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Versammlungen nach den §§ 42, 53 und 71 können bis zum Ablauf des
-19\. März 2022 auch mittels audiovisueller Einrichtungen durchgeführt
+7\. April 2023 auch mittels audiovisueller Einrichtungen durchgeführt
 werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte
 Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine
 Aufzeichnung ist unzulässig.
 
 (2) Die Teilnahme an Sitzungen der Einigungsstelle sowie die
-Beschlussfassung können bis zum Ablauf des 19. März 2022 auch mittels
+Beschlussfassung können bis zum Ablauf des 7. April 2023 auch mittels
 einer Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist,
 dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine
 Aufzeichnung ist unzulässig. Die Teilnehmer, die mittels Video- und
 Telefonkonferenz teilnehmen, bestätigen ihre Anwesenheit gegenüber dem
 Vorsitzenden der Einigungsstelle in Textform.
 
-(3) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Fristen nach Absatz 1 Satz 1 und
-Absatz 2 Satz 1 um bis zu drei Monate verlängern.
+(3) (weggefallen)
 
 
 ### § 130 Öffentlicher Dienst

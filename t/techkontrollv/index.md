@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.5.2018 I 544
+:   Art. 17 G v. 2.3.2023 I Nr. 56
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2000/30/EG des
 Europäischen Parlaments und des Rates vom 6. Juni 2000 über die
@@ -64,25 +64,35 @@ Im Sinne dieser Verordnung bezeichnet der Begriff:
 
 1.  „Nutzfahrzeug“: ein Kraftfahrzeug samt zugehörigem Anhänger oder
     Sattelanhänger, das der Beförderung von Gütern oder Fahrgästen dient
-    und der Fahrzeugklasse M
-    2                   , M
-    3                   , N
-    2                   , N
-    3                   , O
-    3                   , O
-    4                    des Anhangs II der Richtlinie 2007/46/EG des
-    Europäischen Parlaments und des Rates vom 5. September 2007 zur
-    Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und
-    Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und
-    selbstständigen technischen Einheiten für diese Fahrzeuge
-    (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1) oder der
-    Fahrzeugklasse T
-    b                    nach Artikel 4 Nummer 1 Buchstabe b der
-    Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates
-    vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von
-    land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S.
-    1), die zuletzt durch die Delegierte Verordnung (EU) 2016/1788 (ABl. L
-    277 vom 13.10.2016, S. 1) geändert worden ist, angehört,
+    und
+
+    a)  der Fahrzeugklasse M
+        2                         , M
+        3                         , N
+        2                         , N
+        3                         , O
+        3                          oder O
+        4                          nach Artikel 4 der Verordnung (EU) 2018/858
+        des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die
+        Genehmigung und die Marktüberwachung von Kraftfahrzeugen und
+        Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und
+        selbstständigen technischen Einheiten für diese Fahrzeuge, zur
+        Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und
+        zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S.
+        1), die zuletzt durch die Delegierte Verordnung (EU) 2021/1445 (ABl. L
+        313 vom 6.9.2021, S. 4) geändert worden ist, oder
+
+
+    b)  der Fahrzeugklasse T1b, T2b, T3b, T4.1b, T4.2b oder T4.3b nach Artikel
+        4 der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des
+        Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung
+        von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom
+        2\.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/519 (ABl.
+        L 91 vom 29.3.2019, S. 42) geändert worden ist,
+
+
+
+    angehört,
 
 
 2.  "Kontrolle": die von den Behörden nicht angekündigte und somit
@@ -144,9 +154,9 @@ Durchführung von Sicherheitsprüfungen anerkannten
 Kraftfahrzeugwerkstätten aus gegebenem Anlass beauftragen, an den
 technischen Kontrollen ganz oder teilweise mitzuwirken.
 
-(3) Das Bundesamt für Güterverkehr wird als die für die Bundesrepublik
-Deutschland zuständige Kontaktstelle bestimmt, die im Rahmen dieser
-Verordnung die Informationen und die Amtshilfe unter den
+(3) Das Bundesamt für Logistik und Mobilität wird als die für die
+Bundesrepublik Deutschland zuständige Kontaktstelle bestimmt, die im
+Rahmen dieser Verordnung die Informationen und die Amtshilfe unter den
 Mitgliedstaaten und deren Behörden und das Berichtswesen mit der
 Kommission der Europäischen Union entsprechend der §§ 8 bis 10
 durchführt.
@@ -171,8 +181,8 @@ Land zugelassenen Nutzfahrzeugen und dem Verkehrsaufkommen mit
 Nutzfahrzeugen. Die Zahlen über den jeweiligen Bestand der
 Nutzfahrzeuge und das Verkehrsaufkommen mit Nutzfahrzeugen in den
 Ländern werden alle zwei Jahre zum 30. Juni für die vorangegangenen
-zwei Jahre den Ländern durch das Bundesamt für Güterverkehr in
-Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
+zwei Jahre den Ländern durch das Bundesamt für Logistik und Mobilität
+in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
 
 ## § 5 Kontrollen auf der Straße
@@ -283,10 +293,15 @@ liegt ein offensichtlicher Mangel vor.
 
 Die zuständigen Behörden oder deren Beauftragte haben einen
 Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie
-2014/47/EU zu fertigen, wenn ein erheblicher oder gefährlicher Mangel
-festgestellt oder eine gründlichere technische Unterwegskontrolle
-durchgeführt wurde. Eine Ausfertigung des Kontrollberichts erhält der
-Fahrer des geprüften Nutzfahrzeugs.
+2014/47/EU in der durch Artikel 1 Nummer 2 der Delegierten Richtlinie
+(EU) 2021/1716 der Kommission vom 29. Juni 2021 zur Änderung der
+Richtlinie 2014/47/EU des Europäischen Parlaments und des Rates
+hinsichtlich Änderungen der Bezeichnungen von Fahrzeugklassen aufgrund
+von Änderungen der Typgenehmigungsvorschriften (ABl. L 342 vom
+27\.9.2021, S. 45) geänderten Fassung zu fertigen, wenn ein erheblicher
+oder gefährlicher Mangel festgestellt oder eine gründlichere
+technische Unterwegskontrolle durchgeführt wurde. Eine Ausfertigung
+des Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
 
 
 ## § 7 Bewertung von Mängeln und Folgemaßnahmen
@@ -335,18 +350,19 @@ werden:
 ## § 8 Informationen unter den Mitgliedstaaten
 
 Die obersten Landesbehörden oder die von ihnen beauftragten Stellen
-teilen jährlich zum 30. Juni dem Bundesamt für Güterverkehr zur
-Durchführung der Informationen unter den Mitgliedstaaten mit, welche
-Behörde in ihrem Land für die Durchführung der Kontrollen zuständig
-und wer Ansprechpartner ist.
+teilen jährlich zum 30. Juni dem Bundesamt für Logistik und Mobilität
+zur Durchführung der Informationen unter den Mitgliedstaaten mit,
+welche Behörde in ihrem Land für die Durchführung der Kontrollen
+zuständig und wer Ansprechpartner ist.
 
 
 ## § 9 Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten
 
-(1) Das Bundesamt für Güterverkehr nimmt die Aufgaben als nationale
-Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen, Mitteilungen
-und Ersuchen nach den Absätzen 2 bis 5 richten die zuständigen
-Behörden der Länder unmittelbar an die nationale Kontaktstelle.
+(1) Das Bundesamt für Logistik und Mobilität nimmt die Aufgaben als
+nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen,
+Mitteilungen und Ersuchen nach den Absätzen 2 bis 5 richten die
+zuständigen Behörden der Länder unmittelbar an die nationale
+Kontaktstelle.
 
 (2) Werden an einem nicht in Deutschland zugelassenen Fahrzeug
 erhebliche oder gefährliche Mängel festgestellt, die zu einer
@@ -383,10 +399,10 @@ zugelassen ist, welche die erforderlichen Maßnahmen ergreift.
 ## § 10 Berichtswesen
 
 (1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln
-dem Bundesamt für Güterverkehr jeweils für zwei Kalenderjahre
-spätestens zwei Monate nach deren Ablauf einen nach dem Muster in
-Anlage 3 für ihren Bereich erstellten Bericht über die Anwendung
-dieser Verordnung mit folgenden Angaben:
+dem Bundesamt für Logistik und Mobilität jeweils für zwei
+Kalenderjahre spätestens zwei Monate nach deren Ablauf einen nach dem
+Muster in Anlage 3 für ihren Bereich erstellten Bericht über die
+Anwendung dieser Verordnung mit folgenden Angaben:
 
 1.  Anzahl der kontrollierten Nutzfahrzeuge, aufgeschlüsselt nach den
     Fahrzeugklassen und nach dem Zulassungsland gemäß des Anhangs V
@@ -401,12 +417,12 @@ dieser Verordnung mit folgenden Angaben:
 
 
 Das Musterformular ist in elektronischem Format für jedes
-Zulassungsland zu erstellen und dem Bundesamt für Güterverkehr
-ausschließlich per De-Mail oder E-Mail zu übermitteln.
+Zulassungsland zu erstellen und dem Bundesamt für Logistik und
+Mobilität ausschließlich per De-Mail oder E-Mail zu übermitteln.
 
-(2) Das Bundesamt für Güterverkehr erstellt auf Grund der Berichte
-nach Absatz 1 einen für Deutschland zusammengefassten Bericht und
-übersendet diesen dem Bundesministerium für Verkehr und digitale
+(2) Das Bundesamt für Logistik und Mobilität erstellt auf Grund der
+Berichte nach Absatz 1 einen für Deutschland zusammengefassten Bericht
+und übersendet diesen dem Bundesministerium für Verkehr und digitale
 Infrastruktur zur Weiterleitung an die Kommission der Europäischen
 Union. Der Bericht wird den obersten Verkehrsbehörden der Länder
 übermittelt.
@@ -414,12 +430,12 @@ Union. Der Bericht wird den obersten Verkehrsbehörden der Länder
 (3) (weggefallen)
 
 
-## § 11 Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei und der Zollverwaltung
+## § 11 Kontrollen des Bundesamtes für Logistik und Mobilität, der Bundespolizei und der Zollverwaltung
 
 Diese Verordnung wird entsprechend angewendet durch:
 
-1.  das Bundesamt für Güterverkehr gemäß § 11 Abs. 2 Nr. 3 Buchstabe m des
-    Güterkraftverkehrsgesetzes,
+1.  das Bundesamt für Logistik und Mobilität gemäß § 11 Abs. 2 Nr. 3
+    Buchstabe m des Güterkraftverkehrsgesetzes,
 
 
 2.  die Bundespolizei bei Einfahrten von Nutzfahrzeugen aus einem
@@ -453,7 +469,7 @@ Der Bundesrat hat zugestimmt.
 
 (zu § 10 Absatz 1)
 
-## Anlage 3 Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
+## Anlage 3 Muster des Formulars für den Bericht an das Bundesamt für Logistik und Mobilität über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
 
 (Fundstelle: BGBl. I 2018, 547 — 548)
 

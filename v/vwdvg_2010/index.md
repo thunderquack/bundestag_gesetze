@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1480
 
-Geändert durch
-:   Art. 29 G v. 10.8.2021 I 3436
+Zuletzt geändert durch
+:   Art. 2 G v. 20.12.2022 I 2727
 
 
 ## § 1 Übermittlung und Verwendung
@@ -33,7 +33,10 @@ und der nach § 5 erlassenen Rechtsverordnung. Die in den Sätzen 1 und
 2 genannten Stellen informieren das Statistische Bundesamt und die
 statistischen Ämter der Länder so früh wie möglich über anstehende
 Änderungen der zu übermittelnden Daten, soweit diese Änderungen die
-Verwendung der Daten nach Absatz 2 beeinträchtigen könnten.
+Verwendung der Daten nach Absatz 2 beeinträchtigen könnten. Nach
+Maßgabe des § 3c übermitteln die betreffenden Bundesbehörden dem
+Statistischen Bundesamt die bei ihnen vorhandenen Daten anlassbezogen
+für die in Absatz 2 bestimmten Zwecke.
 
 (2) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen die übermittelten Daten nur verwenden für
@@ -50,7 +53,11 @@ dürfen die übermittelten Daten nur verwenden für
 
 
 4.  die Zusammenführung von Daten nach Maßgabe des § 13a des
-    Bundesstatistikgesetzes.
+    Bundesstatistikgesetzes und
+
+
+5.  die Aufgabenwahrnehmung nach § 3 Absatz 1 Nummer 9 in Verbindung mit
+    § 8 des Bundesstatistikgesetzes.
 
 
 
@@ -227,9 +234,11 @@ beschäftigten Personen entsprechend.
 ## § 3b Daten der Deutschen Bundesbank
 
 Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt
-folgende Daten hinsichtlich der zu den Wirtschaftsklassen
-64\.19-Kreditinstitute und 64.92-Spezialkreditinstitute gehörenden
-Institute nach Anhang I der Verordnung (EG) Nr. 1893/2006 in der
+erstmalig für das Berichtsjahr 2021 folgende Daten der zu den
+Wirtschaftsgruppen 64.1 – Zentralbanken und Kreditinstitute –, 64.9 –
+Sonstige Finanzierungsinstitutionen – und 66.1 – Mit
+Finanzdienstleistungen verbundene Tätigkeiten – gehörenden rechtlichen
+Einheiten nach Anhang I zur Verordnung (EG) Nr. 1893/2006 in der
 jeweils geltenden Fassung, soweit sie der Deutschen Bundesbank
 vorliegen:
 
@@ -263,6 +272,37 @@ Kreditwesengesetzes für die bei dem Statistischen Bundesamt und den
 statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
 
+## § 3c Daten über bewilligte staatliche finanzwirksame Hilfen
+
+Bundesbehörden, die über die erforderlichen Daten verfügen,
+übermitteln dem Statistischen Bundesamt anlassbezogen zur
+statistischen Aufbereitung folgende Daten, die in Verfahren zur
+Bewilligung finanzwirksamer Hilfen im Rahmen von staatlichen Förder-
+und Hilfsprogrammen mit gesamtwirtschaftlicher Relevanz und Wirkung
+erhoben worden sind:
+
+1.  die in § 2 Satz 1 Nummer 1 bis 5, 11 und 12 angeführten Merkmale,
+
+
+2.  Steuernummer einschließlich Steuerart und Nummer des Finanzamts, bei
+    Änderungen auch die bisherige Steuernummer,
+
+
+3.  die erfassten und zur Bewilligung der finanzwirksamen Hilfen
+    erforderlichen Daten der Antragsbegründung und
+
+
+4.  Angaben zu Förderart, Förderhöhe und Förderzeitraum.
+
+
+
+Das Statistische Bundesamt übermittelt die Daten auf Anforderung an
+die statistischen Ämter der Länder jeweils für deren
+Zuständigkeitsbereich für statistische Aufbereitungen auf regionaler
+Ebene. § 8 Absatz 1 Satz 3 des Bundesstatistikgesetzes gilt für die
+statistischen Ämter der Länder entsprechend.
+
+
 ## § 4 Rückfragen
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -273,7 +313,11 @@ Satz 1 Nummer 1 bis 3 genannten Zwecke erforderlich ist. Für die nach
 § 3 übermittelten Daten gilt dies nur, wenn die Bundesagentur für
 Arbeit die Unstimmigkeiten nicht selbst fristgerecht beheben kann. Die
 Leiterinnen und Leiter der betroffenen Wirtschaftseinheiten sind
-auskunftspflichtig.
+auskunftspflichtig. Das Statistische Bundesamt darf zur Klärung von
+Unstimmigkeiten, die sich aus den übermittelten Daten nach § 3c oder
+bei einer Zusammenführung nach § 1 Absatz 2 Nummer 4 ergeben haben,
+den betroffenen datenhaltenden Stellen im Einzelfall Rückfragen
+stellen.
 
 
 ## § 5 Verordnungsermächtigung

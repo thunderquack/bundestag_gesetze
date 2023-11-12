@@ -16,19 +16,7 @@ Fundstelle
 :   RGBl: 1892, 477
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 23 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 18 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 64 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.2.2023 I Nr. 51
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
@@ -50,14 +38,37 @@ sämtlichen Gesellschaftern zu unterzeichnen.
 (1a) Die Gesellschaft kann in einem vereinfachten Verfahren gegründet
 werden, wenn sie höchstens drei Gesellschafter und einen
 Geschäftsführer hat. Für die Gründung im vereinfachten Verfahren ist
-das in der Anlage bestimmte Musterprotokoll zu verwenden. Darüber
-hinaus dürfen keine vom Gesetz abweichenden Bestimmungen getroffen
-werden. Das Musterprotokoll gilt zugleich als Gesellschafterliste. Im
-Übrigen finden auf das Musterprotokoll die Vorschriften dieses
-Gesetzes über den Gesellschaftsvertrag entsprechende Anwendung.
+das in Anlage 1 bestimmte Musterprotokoll zu verwenden. Darüber hinaus
+dürfen keine vom Gesetz abweichenden Bestimmungen getroffen werden.
+Das Musterprotokoll gilt zugleich als Gesellschafterliste. Im Übrigen
+finden auf das Musterprotokoll die Vorschriften dieses Gesetzes über
+den Gesellschaftsvertrag entsprechende Anwendung.
 
 (2) Die Unterzeichnung durch Bevollmächtigte ist nur auf Grund einer
-notariell errichteten oder beglaubigten Vollmacht zulässig.
+notariell errichteten oder beglaubigten Vollmacht zulässig. Die
+notarielle Errichtung der Vollmacht kann auch mittels
+Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes
+erfolgen.
+
+(3) Die notarielle Beurkundung des Gesellschaftsvertrags kann auch
+mittels Videokommunikation gemäß den §§ 16a bis 16e des
+Beurkundungsgesetzes erfolgen, sofern andere Formvorschriften nicht
+entgegenstehen; dabei dürfen in den Gesellschaftsvertrag auch
+Verpflichtungen zur Abtretung von Geschäftsanteilen an der
+Gesellschaft aufgenommen werden. Im Fall der Beurkundung mittels
+Videokommunikation genügen abweichend von Absatz 1 Satz 2 für die
+Unterzeichnung die qualifizierten elektronischen Signaturen der
+mittels Videokommunikation an der Beurkundung teilnehmenden
+Gesellschafter. Sonstige Willenserklärungen, welche nicht der
+notariellen Form bedürfen, können mittels Videokommunikation gemäß den
+§§ 16a bis 16e des Beurkundungsgesetzes beurkundet werden; sie müssen
+in die nach Satz 1 errichtete elektronische Niederschrift aufgenommen
+werden. Satz 3 ist auf einstimmig gefasste Beschlüsse entsprechend
+anzuwenden. Die Gründung mittels Videokommunikation kann auch im Wege
+des vereinfachten Verfahrens nach Absatz 1a oder unter Verwendung der
+in Anlage 2 bestimmten Musterprotokolle erfolgen. Bei Verwendung der
+in Anlage 2 bestimmten Musterprotokolle gilt Absatz 1a Satz 3 bis 5
+entsprechend.
 
 
 ### § 3 Inhalt des Gesellschaftsvertrags
@@ -174,7 +185,7 @@ finden die Absätze 1 bis 4 keine Anwendung mehr; die Firma nach Absatz
 geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
 
 1.  als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz
-    oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen
+    oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen
     Gesetzbuchs) unterliegt,
 
 
@@ -199,7 +210,7 @@ geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
 
 
     d)  der unrichtigen Darstellung nach § 400 des Aktiengesetzes, § 331 des
-        Handelsgesetzbuchs, § 313 des Umwandlungsgesetzes oder § 17 des
+        Handelsgesetzbuchs, § 346 des Umwandlungsgesetzes oder § 17 des
         Publizitätsgesetzes oder
 
 
@@ -216,9 +227,12 @@ geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
 
 
 
-Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen
-einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar
-ist.
+Satz 2 Nummer 2 gilt entsprechend, wenn die Person in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum einem
+vergleichbaren Verbot unterliegt. Satz 2 Nr. 3 gilt entsprechend bei
+einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2
+Nr. 3 genannten Taten vergleichbar ist.
 
 (3) Zu Geschäftsführern können Gesellschafter oder andere Personen
 bestellt werden. Die Bestellung erfolgt entweder im
@@ -268,8 +282,9 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
     Gesellschaftsvertrag bestellt sind,
 
 
-3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter nach
-    den Vorgaben des § 40,
+3.  eine von den Anmeldenden unterschriebene oder mit den qualifizierten
+    elektronischen Signaturen der Anmeldenden versehene Liste der
+    Gesellschafter nach den Vorgaben des § 40,
 
 
 4.  im Fall des § 5 Abs. 4 die Verträge, die den Festsetzungen zugrunde
@@ -291,12 +306,14 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
 Abs. 2 und 3 bezeichneten Leistungen auf die Geschäftsanteile bewirkt
 sind und daß der Gegenstand der Leistungen sich endgültig in der
 freien Verfügung der Geschäftsführer befindet. Das Gericht kann bei
-erheblichen Zweifeln an der Richtigkeit der Versicherung Nachweise
-(unter anderem Einzahlungsbelege) verlangen.
+erheblichen Zweifeln an der Richtigkeit der Versicherung Nachweise wie
+insbesondere die Vorlage von Einzahlungsbelegen eines in der
+Europäischen Union niedergelassenen Finanzinstituts oder
+Zahlungsdienstleisters verlangen.
 
 (3) In der Anmeldung haben die Geschäftsführer zu versichern, daß
 keine Umstände vorliegen, die ihrer Bestellung nach § 6 Abs. 2 Satz 2
-Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie über ihre
+Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen, und daß sie über ihre
 unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden
 sind. Die Belehrung nach § 53 Abs. 2 des Bundeszentralregistergesetzes
 kann schriftlich vorgenommen werden; sie kann auch durch einen Notar
@@ -854,10 +871,11 @@ schuldrechtliche Geschäft über einen verbotswidrigen Erwerb oder eine
 verbotswidrige Inpfandnahme nichtig.
 
 (3) Der Erwerb eigener Geschäftsanteile ist ferner zulässig zur
-Abfindung von Gesellschaftern nach § 29 Abs. 1, § 122i Abs. 1 Satz 2,
-§ 125 Satz 1 in Verbindung mit § 29 Abs. 1 und § 207 Abs. 1 des
-Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten nach dem
-Wirksamwerden der Umwandlung oder nach der Rechtskraft der
+Abfindung von Gesellschaftern nach § 29 Absatz 1, nach § 125 Satz 1 in
+Verbindung mit § 29 Absatz 1, nach § 207 Absatz 1, nach § 313 Absatz
+1, nach § 327 in Verbindung mit § 313 Absatz 1 und nach § 340 Absatz 1
+des Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten nach
+dem Wirksamwerden der Umwandlung oder nach der Rechtskraft der
 gerichtlichen Entscheidung erfolgt und die Gesellschaft im Zeitpunkt
 des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb
 bilden könnte, ohne das Stammkapital oder eine nach dem
@@ -1034,9 +1052,9 @@ Urschrift oder öffentlich beglaubigter Abschrift beizufügen.
 
 (3) Die neuen Geschäftsführer haben in der Anmeldung zu versichern,
 daß keine Umstände vorliegen, die ihrer Bestellung nach § 6 Abs. 2
-Satz 2 Nr. 2 und 3 sowie Satz 3 entgegenstehen und daß sie über ihre
-unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden
-sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
+Satz 2 Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen und daß sie über
+ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt
+worden sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
 (4) (weggefallen)
 
@@ -1045,10 +1063,11 @@ sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
 (1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder
 Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer
-Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter
-zum Handelsregister einzureichen, aus welcher Name, Vorname,
-Geburtsdatum und Wohnort derselben sowie die Nennbeträge und die
-laufenden Nummern der von einem jeden derselben übernommenen
+Beteiligung eine von ihnen unterschriebene oder mit ihrer
+qualifizierten elektronischen Signatur versehene Liste der
+Gesellschafter zum Handelsregister einzureichen, aus welcher Name,
+Vorname, Geburtsdatum und Wohnort derselben sowie die Nennbeträge und
+die laufenden Nummern der von einem jeden derselben übernommenen
 Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines
 Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am
 Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine
@@ -1065,7 +1084,8 @@ auf Mitteilung und Nachweis.
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt,
 hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf
 etwaige später eintretende Unwirksamkeitsgründe die Liste anstelle der
-Geschäftsführer zu unterschreiben, zum Handelsregister einzureichen
+Geschäftsführer zu unterschreiben oder mit seiner qualifizierten
+elektronischen Signatur zu versehen, zum Handelsregister einzureichen
 und eine Abschrift der geänderten Liste an die Gesellschaft zu
 übermitteln. Die Liste muss mit der Bescheinigung des Notars versehen
 sein, dass die geänderten Eintragungen den Veränderungen entsprechen,
@@ -1276,6 +1296,9 @@ Rechtsstreits gegenüber einem Gesellschafter betrifft.
 ### § 48 Gesellschafterversammlung
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefaßt.
+Versammlungen können auch fernmündlich oder mittels Videokommunikation
+abgehalten werden, wenn sämtliche Gesellschafter sich damit in
+Textform einverstanden erklären.
 
 (2) Der Abhaltung einer Versammlung bedarf es nicht, wenn sämtliche
 Gesellschafter in Textform mit der zu treffenden Bestimmung oder mit
@@ -1413,14 +1436,18 @@ wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 
 ### § 53 Form der Satzungsänderung
 
-(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluß
+(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluss
 der Gesellschafter erfolgen.
 
-(2) Der Beschluß muß notariell beurkundet werden, derselbe bedarf
-einer Mehrheit von drei Vierteilen der abgegebenen Stimmen. Der
-Gesellschaftsvertrag kann noch andere Erfordernisse aufstellen.
+(2) Der Beschluss bedarf einer Mehrheit von drei Vierteilen der
+abgegebenen Stimmen. Der Gesellschaftsvertrag kann noch andere
+Erfordernisse aufstellen.
 
-(3) Eine Vermehrung der den Gesellschaftern nach dem
+(3) Der Beschluss muss notariell beurkundet werden. Erfolgt die
+Beschlussfassung einstimmig, so ist § 2 Absatz 3 Satz 1, 3 und 4
+entsprechend anzuwenden.
+
+(4) Eine Vermehrung der den Gesellschaftern nach dem
 Gesellschaftsvertrag obliegenden Leistungen kann nur mit Zustimmung
 sämtlicher beteiligter Gesellschafter beschlossen werden.
 
@@ -1449,6 +1476,9 @@ Handelsregister des Sitzes der Gesellschaft eingetragen ist.
 (1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es zur
 Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer
 notariell aufgenommenen oder beglaubigten Erklärung des Übernehmers.
+Die notarielle Aufnahme oder Beglaubigung der Erklärung kann auch
+mittels Videokommunikation gemäß den §§ 16a bis 16e und 40a des
+Beurkundungsgesetzes erfolgen.
 
 (2) Zur Übernahme eines Geschäftsanteils können von der Gesellschaft
 die bisherigen Gesellschafter oder andere Personen, welche durch die
@@ -1522,8 +1552,9 @@ entsprechend.
     Abschrift derselben;
 
 
-2.  eine von den Anmeldenden unterschriebene Liste der Personen, welche
-    die neuen Geschäftsanteile übernommen haben; aus der Liste müssen die
+2.  eine von den Anmeldenden unterschriebene oder mit einer qualifizierten
+    elektronischen Signatur versehene Liste der Personen, welche die neuen
+    Geschäftsanteile übernommen haben; aus der Liste müssen die
     Nennbeträge der von jedem übernommenen Geschäftsanteile ersichtlich
     sein;
 
@@ -1916,9 +1947,11 @@ Gewinnverteilung beschlossen ist, zu diesem Zweck gemeldet haben.
 Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall des
 Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer
 Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz
-errichtet und staatlich überwacht ist. Die Gläubiger sind in der
-Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs auf die
-Befriedigung oder Sicherstellung hinzuweisen.
+errichtet und staatlich überwacht ist. Die Gläubiger sind auf die
+Befriedigung oder Sicherstellung durch eine gesonderte Erklärung
+hinzuweisen, die der das Unternehmensregister führenden Stelle
+gemeinsam mit dem Jahresabschluss elektronisch zur Einstellung in das
+Unternehmensregister zu übermitteln ist.
 
 
 ### § 58e Beschluss über die Kapitalherabsetzung
@@ -2091,7 +2124,7 @@ welche nicht vom Gericht ernannt sind, können auch durch Beschluß der
 Gesellschafter vor Ablauf des Zeitraums, für welchen sie bestellt
 sind, abberufen werden.
 
-(4) Für die Auswahl der Liquidatoren findet § 6 Abs. 2 Satz 2 und 3
+(4) Für die Auswahl der Liquidatoren findet § 6 Abs. 2 Satz 2 bis 4
 entsprechende Anwendung.
 
 (5) Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit
@@ -2114,7 +2147,7 @@ Urschrift oder öffentlich beglaubigter Abschrift beizufügen.
 
 (3) In der Anmeldung haben die Liquidatoren zu versichern, daß keine
 Umstände vorliegen, die ihrer Bestellung nach § 66 Abs. 4 in
-Verbindung mit § 6 Abs. 2 Satz 2 Nr. 2 und 3 sowie Satz 3
+Verbindung mit § 6 Abs. 2 Satz 2 Nr. 2 und 3 sowie Satz 3 und 4
 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht
 gegenüber dem Gericht belehrt worden sind. § 8 Abs. 3 Satz 2 ist
 anzuwenden.
@@ -2336,10 +2369,6 @@ die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in
 Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
 
-## Abschnitt 6 - Ordnungs-, Straf- und Bußgeldvorschriften
-
-
-
 ## Abschnitt 7 - Ordnungs-, Straf- und Bußgeldvorschriften
 
 
@@ -2550,7 +2579,415 @@ Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
 das eingelegte Rechtsmittel zu übermitteln.
 
 
-### Anlage (zu § 2 Abs. 1a)
+### Anlage 1 (zu § 2 Abs. 1a)
 
-(Fundstelle: BGBl. I 2008, 2044 - 2045 )
+(Fundstelle: BGBl. I 2008, 2044 - 2045)
 
+
+### Anlage 2 (zu § 2 Absatz 3)
+
+(Fundstelle: BGBl. I 2021, 3364 - 3366)
+
+
+a)
+    *        *   Musterprotokoll für die Gründung einer Einpersonengesellschaft mittels
+            Videokommunikation
+
+
+    *        *   UR. Nr.
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+
+    *        *   Heute, den
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+
+    *        *   erschien mittels Videokommunikation vor mir,
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+
+    *        *   Notar/in mit dem Amtssitz in
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+        *
+
+    *        *[^F817138_2_BJNR004770892BJNE015600360]
+   Herr/Frau
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *[^F817138_3_BJNR004770892BJNE015600360]
+   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *
+            1.  Der/Die
+                Erschienene errichtet hiermit nach § 2 Absatz 3 GmbHG mittels einer
+                Beurkundung im Wege der Videokommunikation nach den §§ 16a ff. BeurkG
+                eine Gesellschaft mit beschränkter Haftung unter der Firma
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                mit dem Sitz in
+
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\_
+
+
+
+
+
+    *        *
+            2.  Gegenstand des Unternehmens ist   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+
+
+
+
+    *        *
+            3.  Das Stammkapital der Gesellschaft beträgt
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ € (i. W.
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ Euro)
+                und wird vollständig von:
+
+                Herrn/Frau
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ (Geschäftsanteil Nr. 1)
+                übernommen.
+
+[^F817138_4_BJNR004770892BJNE015600360]
+                Die Einlage ist in Geld zu erbringen, und zwar sofort in voller
+                Höhe/zu 50 Prozent sofort, im Übrigen sobald die
+                Gesellschafterversammlung ihre Einforderung beschließt
+                .
+
+
+
+
+
+    *        *
+            4.[^F817138_5_BJNR004770892BJNE015600360]
+  Zum Geschäftsführer der Gesellschaft wird/Zu den Geschäftsführern der
+                Gesellschaft werden
+
+                Herr/Frau
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                geboren am \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_, wohnhaft in
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+[^F817138_6_BJNR004770892BJNE015600360]
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_bestell
+                t.
+
+                Der Geschäftsführer ist/Die Geschäftsführer sind
+                von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit.
+                Ist nur ein Geschäftsführer bestellt, so vertritt dieser die
+                Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird
+                die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen
+                Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten.
+
+
+
+
+
+    *        *
+            5.  Die Gesellschaft trägt die mit der Gründung verbundenen Kosten bis zu
+                einem Gesamtbetrag von 600 €, höchstens jedoch bis zum Betrag ihres
+                Stammkapitals. Darüberhinausgehende Kosten trägt der Gesellschafter.
+
+
+
+
+
+    *        *
+            6.  Von dieser Urkunde erhält eine Ausfertigung jeder Gesellschafter,
+                beglaubigte Ablichtungen die Gesellschaft und das Registergericht (in
+                elektronischer Form) sowie eine einfache Abschrift das Finanzamt –
+                Körperschaftsteuerstelle –.
+
+
+
+
+
+    *        *
+            7.  Der/Die Erschienene
+                wurden vom Notar/von der Notarin
+                insbesondere auf Folgendes hingewiesen:
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+
+
+
+
+
+
+
+
+
+
+b)
+    *        *   Musterprotokoll für die Gründung einer Mehrpersonengesellschaft
+            mittels Videokommunikation
+
+
+    *        *   UR. Nr.
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+
+    *        *   Heute, den
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+
+    *        *   erschien mittels Videokommunikation vor mir,
+
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+
+    *        *   Notar/in mit dem Amtssitz in
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_,
+
+        *
+
+    *        *[^F817138_7_BJNR004770892BJNE015600360]
+   Herr/Frau
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *[^F817138_8_BJNR004770892BJNE015600360]
+   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *   Herr/Frau
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *   Herr/Frau
+
+        *
+
+    *        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+        *
+
+    *        *
+            1.  Die Erschienenen errichten hiermit nach § 2 Absatz 3 GmbHG durch
+                Beurkundung des Gesellschaftsvertrages mittels Videokommunikation nach
+                den §§ 16a ff. BeurkG eine Gesellschaft mit beschränkter Haftung unter
+                der Firma
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                mit dem Sitz in
+
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\_
+
+
+
+
+
+    *        *
+            2.  Gegenstand des Unternehmens ist   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+                _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+
+
+
+
+    *        *
+            3.  Das Stammkapital der Gesellschaft beträgt
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ € (i. W.
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ Euro)
+                und wird wie folgt übernommen:
+
+[^F817138_9_BJNR004770892BJNE015600360]
+                Herr/Frau
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ übernimmt einen
+                Geschäftsanteil mit einem Nennbetrag in Höhe von
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_€ (i. W.
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ Euro)
+                (Geschäftsanteil Nr. 1),
+
+                Herr/Frau
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ übernimmt einen
+                Geschäftsanteil mit einem Nennbetrag in Höhe von
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ € (i. W.
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_Euro)
+                (Geschäftsanteil Nr. 2),
+
+                Herr/Frau
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ übernimmt einen
+                Geschäftsanteil mit einem Nennbetrag in Höhe von
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ € (i. W.
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_ Euro)
+                (Geschäftsanteil Nr. 3).
+
+[^F817138_10_BJNR004770892BJNE015600360]
+                Die Einlagen sind in Geld zu erbringen, und zwar sofort in voller
+                Höhe/zu 50 Prozent sofort, im Übrigen sobald die
+                Gesellschafterversammlung ihre Einforderung beschließt.
+
+
+
+
+
+    *        *
+            4.  Zum Geschäftsführer der Gesellschaft wird/Zu den Geschäftsführern der
+                Gesellschaft werden
+
+                Herr/Frau
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                geboren am \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_, wohnhaft in
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                Herr/Frau
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+                geboren am \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_, wohnhaft in
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+[^F817138_11_BJNR004770892BJNE015600360]
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_bestell
+                t.
+
+                Der Geschäftsführer ist/Die Geschäftsführer sind
+                von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit.
+                Ist nur ein Geschäftsführer bestellt, so vertritt dieser die
+                Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird
+                die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen
+                Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten.
+
+
+
+
+
+    *        *
+            5.  Die Gesellschaft trägt die mit der Gründung verbundenen Kosten bis zu
+                einem Gesamtbetrag von 600 €, höchstens jedoch bis zum Betrag ihres
+                Stammkapitals. Darüberhinausgehende Kosten tragen die Gesellschafter
+                im Verhältnis der Nennbeträge ihrer Geschäftsanteile.
+
+
+
+
+
+    *        *
+            6.  Von dieser Urkunde erhält eine Ausfertigung jeder Gesellschafter,
+                beglaubigte Ablichtungen die Gesellschaft und das Registergericht (in
+                elektronischer Form) sowie eine einfache Abschrift das Finanzamt –
+                Körperschaftsteuerstelle –.
+
+
+
+
+
+    *        *
+            7.  Die Erschienenen wurden vom Notar/von der Notarin
+                insbesondere auf Folgendes hingewiesen:
+
+                \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+                __\_\_
+
+
+
+
+
+
+
+
+
+
+    Nicht Zutreffendes streichen. Bei juristischen Personen ist die Anrede
+    Herr/Frau wegzulassen.
+[^F817138_2_BJNR004770892BJNE015600360]:     Hier sind neben der Bezeichnung des Gesellschafters und den Angaben
+    zur notariellen Identitätsfeststellung ggf. der Güterstand und die
+    Zustimmung des Ehegatten sowie die Angaben zu einer etwaigen
+    Vertretung zu vermerken.
+[^F817138_3_BJNR004770892BJNE015600360]:     Nicht Zutreffendes streichen. Bei der Unternehmergesellschaft muss die
+    zweite Alternative gestrichen werden.
+[^F817138_4_BJNR004770892BJNE015600360]:     Nicht Zutreffendes streichen.
+[^F817138_5_BJNR004770892BJNE015600360]:     Weitere Geschäftsführer können ergänzt werden.
+[^F817138_6_BJNR004770892BJNE015600360]:     Nicht Zutreffendes streichen. Bei juristischen Personen ist die Anrede
+    Herr/Frau wegzulassen.
+[^F817138_7_BJNR004770892BJNE015600360]:     Hier sind jeweils neben der Bezeichnung des Gesellschafters und den
+    Angaben zur notariellen Identitätsfeststellung ggf. der Güterstand und
+    die Zustimmung des Ehegatten sowie die Angaben zu einer etwaigen
+    Vertretung zu vermerken.
+[^F817138_8_BJNR004770892BJNE015600360]:     Nicht Zutreffendes streichen.
+[^F817138_9_BJNR004770892BJNE015600360]:     Nicht Zutreffendes streichen. Bei der Unternehmergesellschaft muss die
+    zweite Alternative gestrichen werden.
+[^F817138_10_BJNR004770892BJNE015600360]:     Weitere Geschäftsführer können ergänzt werden.
+[^F817138_11_BJNR004770892BJNE015600360]: 

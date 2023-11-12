@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin
+Title: Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
 jurabk: HafenSchAusbV
 layout: default
 origslug: hafenschausbv
@@ -7,7 +7,7 @@ slug: hafenschausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin (HafenSchAusbV)
+# Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin (HafenSchAusbV)
 
 Ausfertigungsdatum
 :   2006-01-20

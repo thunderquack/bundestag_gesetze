@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte
-  und Steuerberatungsgesellschaften
+  und Berufsausübungsgesellschaften
 jurabk: StBDV
 layout: default
 origslug: stbdv
@@ -8,7 +8,7 @@ slug: stbdv
 
 ---
 
-# Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBDV)
+# Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften (StBDV)
 
 Ausfertigungsdatum
 :   1979-11-12
@@ -16,14 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1922
 
-Stand: Zukünftige amtl. Langüberschrift: Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften (ab 1.8.2022; 2021 I 2363)
 Zuletzt geändert durch
 :   Art. 5 G v. 7.7.2021 I 2363
-
-[^F0192209792_01_BJNR019220979]:     Nichtamtlicher Hinweis: Die amtl. Langüberschrift wurde gem. Art. 5
-    Nr. 1 G v. 9.7.2021 I 2363 mWv 1.8.2022 wie folgt gefasst:
-    **Verordnung zur Durchführung der Vorschriften über Steuerberater,
-    Steuerbevollmächtigte und Berufsausübungsgesellschaften**
 
 
 ## Eingangsformel
@@ -836,35 +830,44 @@ geltenden Fassung).
 (weggefallen)
 
 
-## Dritter Teil - Anerkennung als Steuerberatungsgesellschaft
+## Dritter Teil - Anerkennung als Berufsausübungsgesellschaft
 
 
 
 ### § 40 Verfahren
 
-(1) Der Antrag auf Anerkennung als Steuerberatungsgesellschaft ist
+(1) Der Antrag auf Anerkennung als Berufsausübungsgesellschaft ist
 schriftlich bei der Steuerberaterkammer einzureichen, in deren
-Kammerbezirk die Gesellschaft ihren Sitz hat. In dem Antrag sind Name,
-Beruf und berufliche Niederlassung der Personen anzugeben, die die
-Gesellschaft verantwortlich führen (§ 32 Abs. 3 Satz 2 des Gesetzes)
-sowie Name, Beruf und berufliche Niederlassung der sonst zur
-Vertretung berechtigten Personen (§ 50 Abs. 2 und 3 des Gesetzes).
+Kammerbezirk die Berufsausübungsgesellschaft ihren Sitz hat. In dem
+Antrag sind anzugeben:
+
+1.  Name, Beruf und berufliche Niederlassung der Personen, die die
+    Berufsausübungsgesellschaft verantwortlich führen (§ 55b des
+    Steuerberatungsgesetzes), sowie
+
+
+2.  Name, Beruf und berufliche Niederlassung der Gesellschafter der
+    Berufsausübungsgesellschaft (§ 50 Absatz 1 des
+    Steuerberatungsgesetzes).
+
+
+
 
 (2) Die zuständige Steuerberaterkammer prüft anhand des
-Gesellschaftsvertrages oder der Satzung, ob der Nachweis der
-verantwortlichen Führung der Gesellschaft durch Steuerberater nach §
-32 Abs. 3 Satz 2 des Gesetzes erbracht ist und ob die Voraussetzungen
-der §§ 49 bis 53 des Gesetzes für die Anerkennung als
-Steuerberatungsgesellschaft gegeben sind.
+Gesellschaftsvertrages oder der Satzung, ob die Voraussetzungen nach §
+53 Absatz 2 des Steuerberatungsgesetzes erfüllt sind.
 
 (3) Liegen die Voraussetzungen für die Anerkennung vor, hat die
-zuständige Steuerberaterkammer die Gesellschaft durch Ausstellung
-einer Urkunde nach § 41 als Steuerberatungsgesellschaft anzuerkennen.
-Vor Eintragung in das Handels- oder Partnerschaftsregister kann die
-zuständige Steuerberaterkammer bereits bestätigen, daß bis auf die
-Eintragung in das Handels- oder Partnerschaftsregister alle
-Voraussetzungen für die Anerkennung vorliegen. Über die Ablehnung des
-Antrags auf Anerkennung ist ein schriftlicher Bescheid zu erteilen.
+zuständige Steuerberaterkammer die Berufsausübungsgesellschaft durch
+Ausstellung einer Urkunde nach § 54 Absatz 4 des
+Steuerberatungsgesetzes als Berufsausübungsgesellschaft anzuerkennen.
+Vor Eintragung in das Handels- und Partnerschaftsregister kann die
+zuständige Steuerberaterkammer bereits bestätigen, dass bis auf die
+Eintragung in das Handels- und Partnerschaftsregister alle
+Voraussetzungen für die Anerkennung vorliegen.
+
+(4) Über die Ablehnung des Antrags ist ein schriftlicher Bescheid zu
+erteilen.
 
 
 ### § 41 Anerkennungsurkunde
@@ -877,10 +880,10 @@ Die Anerkennungsurkunde enthält
 2.  Ort und Datum der Anerkennung,
 
 
-3.  Firma oder Name der Gesellschaft,
+3.  Firma oder Name der Berufsausübungsgesellschaft,
 
 
-4.  die Anerkennung als Steuerberatungsgesellschaft,
+4.  die Anerkennung als Berufsausübungsgesellschaft,
 
 
 5.  Dienstsiegel und
@@ -891,7 +894,7 @@ Die Anerkennungsurkunde enthält
 
 
 Außer der Firma oder dem Namen sind keine weiteren Bezeichnungen der
-Gesellschaft in die Anerkennungsurkunde aufzunehmen.
+Berufsausübungsgesellschaft in die Anerkennungsurkunde aufzunehmen.
 
 
 ## Vierter Teil - Verleihung der Berechtigung zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle"
@@ -1057,301 +1060,10 @@ Abs. 4 bis 6 gilt sinngemäß.
 (3) (weggefallen)
 
 
-## Fünfter Teil - Berufsregister
+## Fünfter Teil - (weggefallen)
 
 
-
-### § 45 Registerführende Stelle
-
-(1) Das Berufsregister wird durch die zuständige Steuerberaterkammer
-geführt. Die Steuerberaterkammern können sich bei der Führung des
-Berufsregisters einer nach § 84 des Gesetzes gebildeten
-Arbeitsgemeinschaft bedienen.
-
-(2) Alle Eintragungen und Löschungen im Berufsregister sind den
-Beteiligten mitzuteilen. Die Löschung von
-Steuerberatungsgesellschaften ist ferner dem zuständigen
-Registergericht mitzuteilen.
-
-(3) Die Einsicht in das Berufsregister ist jedem gestattet, der ein
-berechtigtes Interesse darlegt.
-
-
-### § 46 Eintragung
-
-In das Berufsregister sind einzutragen:
-
-1.  Steuerberater und Steuerbevollmächtigte, wenn sie in dem Bezirk, für
-    den das Register geführt wird (Registerbezirk), bestellt werden oder
-    wenn sie ihre berufliche Niederlassung in den Registerbezirk verlegen,
-    und zwar
-
-    a)  Name, Vorname, Geburtstag, Geburtsort,
-
-
-    b)  Tag der Bestellung und die Behörde oder die Steuerberaterkammer, die
-        die Bestellung vorgenommen hat,
-
-
-    c)  Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle"
-        und von Bezeichnungen nach der Fachberaterordnung,
-
-
-    d)  Anschrift der beruflichen Niederlassung und die geschäftliche E-Mail-
-        Adresse,
-
-
-    e)  berufliche Zusammenschlüsse im Sinne von § 56 Abs. 1 bis 3 des
-        Gesetzes,
-
-
-    f)  sämtliche weiteren Beratungsstellen und die Namen der die weiteren
-        Beratungsstellen leitenden Personen,
-
-
-    g)  Name und Anschrift des Zustellungsbevollmächtigten im Sinne von § 46
-        Abs. 2 Nr. 5 des Gesetzes,
-
-
-    h)  Bestehen eines Berufs- oder Vertretungsverbotes im Sinne von § 90
-        Absatz 1 Nummer 4 oder § 134 des Gesetzes und, sofern ein Vertreter
-        bestellt ist, die Vertreterbestellung unter Angabe von Familiennamen
-        und Vornamen des Vertreters
-
-
-
-
-    sowie alle Veränderungen zu den Buchstaben a und c bis h;
-
-
-2.  Steuerberatungsgesellschaften, wenn sie im Registerbezirk anerkannt
-    werden oder wenn sie ihren Sitz in den Registerbezirk verlegen, und
-    zwar
-
-    a)  Firma oder Name und Rechtsform,
-
-
-    b)  Tag der Anerkennung als Steuerberatungsgesellschaft und die für die
-        Finanzverwaltung zuständige oberste Landesbehörde oder die
-        Steuerberaterkammer, die die Anerkennung ausgesprochen hat,
-
-
-    c)  Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle",
-
-
-    d)  Sitz und Anschrift und die geschäftliche E-Mail-Adresse,
-
-
-    e)  berufliche Zusammenschlüsse im Sinne von § 56 Abs. 2 des Gesetzes,
-
-
-    f)  Namen der Mitglieder des zur gesetzlichen Vertretung berufenen Organs
-        sowie der vertretungsberechtigten Gesellschafter und Partner,
-
-
-    g)  sämtliche weiteren Beratungsstellen und die Namen der die weiteren
-        Beratungsstellen leitenden Personen
-
-
-
-    sowie alle Veränderungen zu den Buchstaben a und c bis g;
-
-
-3.  weitere Beratungsstellen von Steuerberatern und
-    Steuerbevollmächtigten, wenn sie im Registerbezirk errichtet werden,
-    und zwar
-
-    a)  Namen und Ort der beruflichen Niederlassung des Steuerberaters oder
-        Steuerbevollmächtigten,
-
-
-    b)  Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle",
-
-
-    c)  Anschrift der weiteren Beratungsstelle,
-
-
-    d)  Namen der die weitere Beratungsstelle leitenden Person
-
-
-
-
-    sowie alle Veränderungen zu den Buchstaben a bis d;
-
-
-4.  weitere Beratungsstellen von Steuerberatungsgesellschaften, wenn sie
-    im Registerbezirk errichtet werden, und zwar
-
-    a)  Firma, Sitz und Rechtsform der Steuerberatungsgesellschaft,
-
-
-    b)  Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle",
-
-
-    c)  Anschrift der weiteren Beratungsstelle,
-
-
-    d)  Namen der die weitere Beratungsstelle leitenden Person
-
-
-
-
-    sowie alle Veränderungen zu den Buchstaben a bis d.
-
-
-
-
-
-### § 47 Löschung
-
-(1) Im Berufsregister sind zu löschen
-
-1.  Steuerberater und Steuerbevollmächtigte,
-
-    a)  wenn die Bestellung erloschen oder vollziehbar zurückgenommen oder
-        widerrufen ist,
-
-
-    b)  wenn die berufliche Niederlassung aus dem Registerbezirk verlegt wird;
-
-
-
-
-
-2.  Steuerberatungsgesellschaften,
-
-    a)  wenn die Anerkennung erloschen oder vollziehbar zurückgenommen oder
-        widerrufen ist,
-
-
-    b)  wenn der Sitz aus dem Registerbezirk verlegt wird;
-
-
-
-
-
-3.  weitere Beratungsstellen, wenn die Beratungsstelle aufgelöst ist.
-
-
-
-
-(2) Die Eintragung über die Befugnis zur Führung der Bezeichnung
-"Landwirtschaftliche Buchstelle" ist zu löschen, wenn bei einer
-Steuerberatungsgesellschaft die in § 44 Abs. 3 des Gesetzes
-bezeichneten Voraussetzungen weggefallen sind. Die Eintragung von
-Bezeichnungen nach der Fachberaterordnung ist zu löschen, wenn die
-Bezeichnung nicht mehr geführt werden darf.
-
-
-### § 48 Mitteilungspflichten
-
-(1) Die in das Berufsregister einzutragenden Tatsachen sind der
-zuständigen Steuerberaterkammer mitzuteilen
-
-1.  in Fällen des § 46 Nr. 1 von dem einzutragenden Steuerberater oder
-    Steuerbevollmächtigten;
-
-
-2.  im Falle des § 46 Nr. 2 von den Mitgliedern des zur gesetzlichen
-    Vertretung berufenen Organs oder den vertretungsberechtigten
-    Gesellschaftern der einzutragenden Steuerberatungsgesellschaft;
-
-
-3.  im Falle des § 46 Nr. 3 von dem Steuerberater oder
-    Steuerbevollmächtigten, der die weitere Beratungsstelle errichtet hat;
-
-
-4.  im Falle des § 46 Nr. 4 von den Mitgliedern des zur gesetzlichen
-    Vertretung berufenen Organs oder den vertretungsberechtigten
-    Gesellschaftern der Steuerberatungsgesellschaft, die die auswärtige
-    Beratungsstelle errichtet hat.
-
-
-
-
-(2) Die im Berufsregister zu löschenden Tatsachen sind der zuständigen
-Steuerberaterkammer mitzuteilen
-
-1.  im Falle des § 47 Abs. 1 Nr. 1 Buchstabe b von dem Steuerberater oder
-    Steuerbevollmächtigten, der seine berufliche Niederlassung verlegt;
-
-
-2.  in den Fällen des § 47 Abs. 1 Nr. 2 Buchstabe b von den Mitgliedern
-    des zur gesetzlichen Vertretung berufenen Organs oder den
-    vertretungsberechtigten Gesellschaftern der
-    Steuerberatungsgesellschaft;
-
-
-3.  in den Fällen des § 47 Abs. 1 Nr. 3 von den in Absatz 1 Nr. 3 oder 4
-    genannten Personen;
-
-
-4.  in den Fällen des § 47 Abs. 2 von den Mitgliedern des zur gesetzlichen
-    Vertretung berufenen Organs oder den vertretungsberechtigten
-    Gesellschaftern der Steuerberatungsgesellschaft.
-
-
-
-
-
-### § 49 Vereine, Personenvereinigungen und Körperschaften, die zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" befugt sind
-
-(1) In das Berufsregister sind ferner einzutragen
-
-1.  Vereine, die nach § 44 Abs. 4 des Gesetzes befugt sind, die
-    Bezeichnung "Landwirtschaftliche Buchstelle" als Zusatz zum Namen zu
-    führen, wenn sie ihren Sitz im Registerbezirk haben,
-
-
-2.  Buchstellen von Körperschaften des öffentlichen Rechts und
-    Personenvereinigungen, für die nach § 44 Abs. 5 des Gesetzes die
-    Bezeichnung "Landwirtschaftliche Buchstelle" geführt werden darf, wenn
-    die Buchstellen im Registerbezirk gelegen sind.
-
-
-
-
-(2) Die Eintragung nach Absatz 1 ist zu löschen,
-
-a)  wenn der Verein im Sinne des § 44 Abs. 4 des Gesetzes oder die
-    Buchstelle der Personenvereinigung oder Körperschaft im Sinne des § 44
-    Abs. 5 des Gesetzes aufgelöst ist,
-
-
-b)  wenn die in § 44 Abs. 4 oder 5 des Gesetzes bezeichneten
-    Voraussetzungen weggefallen sind,
-
-
-c)  wenn der Sitz des Vereins im Sinne des § 44 Abs. 4 des Gesetzes oder
-    die Buchstelle der Personenvereinigung oder Körperschaft im Sinne des
-    § 44 Abs. 5 des Gesetzes aus dem Registerbezirk verlegt wird.
-
-
-
-
-(3) Die Eintragung oder Löschung ist von den Vertretungsberechtigten
-des Vereins, Personenvereinigung oder Körperschaft zu beantragen. Die
-Löschung kann auch von Amts wegen vorgenommen werden.
-
-
-### § 50 Anzeigepflichten
-
-(1) Alljährlich im Monat Januar haben die Mitglieder des zur
-gesetzlichen Vertretung berufenen Organs oder die
-vertretungsberechtigten Gesellschafter einer
-Steuerberatungsgesellschaft sowie die Gesellschafter einer
-Gesellschaft bürgerlichen Rechts im Sinne des § 50a Abs. 2 Satz 1 des
-Gesetzes eine von ihnen unterschriebene Liste der Gesellschafter, aus
-welcher Name, Vorname, Beruf, Wohnort und berufliche Niederlassung der
-Gesellschafter, ihre Aktien, Stammeinlagen oder
-Beteiligungsverhältnisse zu ersehen sind, bei der zuständigen
-Steuerberaterkammer einzureichen. Sind seit Einreichung der letzten
-Liste Veränderungen hinsichtlich der Person oder des Berufs der
-Gesellschafter und des Umfangs der Beteiligung nicht eingetreten, so
-genügt die Einreichung einer entsprechenden Erklärung.
-
-(2) Absatz 1 gilt entsprechend in den Fällen des § 154 Abs. 2 Satz 1
-des Gesetzes.
+### (XXXX) §§ 45 bis 50 (weggefallen)
 
 
 ## Sechster Teil - Berufshaftpflichtversicherung
@@ -1361,14 +1073,11 @@ des Gesetzes.
 ### § 51 Versicherungspflicht
 
 (1) Selbständige Steuerberater und Steuerbevollmächtigte sowie
-Steuerberatungsgesellschaften sind verpflichtet, sich gegen die sich
+Berufsausübungsgesellschaften sind verpflichtet, sich gegen die sich
 aus ihrer Berufstätigkeit (§§ 33, 57 Absatz 3 Nummer 2 und 3 des
 Gesetzes) ergebenden Haftpflichtgefahren für Vermögensschäden zu
 versichern und die Versicherung während der Dauer ihrer Bestellung
-oder Anerkennung aufrechtzuerhalten. Satz 1 gilt sinngemäß für
-Partnerschaftsgesellschaften, auch solche mit beschränkter
-Berufshaftung nach § 8 Absatz 4 des
-Partnerschaftsgesellschaftsgesetzes. Der Versicherungsschutz muss sich
+oder Anerkennung aufrechtzuerhalten. Der Versicherungsschutz muss sich
 auch auf solche Vermögensschäden erstrecken, für die der
 Versicherungsnehmer nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs
 einzustehen hat.
@@ -1406,19 +1115,19 @@ Versicherungsfall zweihundertfünfzigtausend Euro betragen.
 Selbstbehalt ist auszuschließen für den Fall, daß bei Geltendmachung
 des Schadens durch einen Dritten die Bestellung des Steuerberaters
 oder Steuerbevollmächtigten oder die Anerkennung der
-Steuerberatungsgesellschaft erloschen ist.
+Berufsausübungsgesellschaft erloschen ist.
 
 (3) Wird eine Jahreshöchstleistung für alle in einem Versicherungsjahr
 verursachten Schäden vereinbart, muß sie mindestens eine Million Euro
 betragen.
 
-(4) Die Absätze 1 und 3 gelten für Partnerschaftsgesellschaften mit
-beschränkter Berufshaftung nach § 8 Absatz 4 des
-Partnerschaftsgesellschaftsgesetzes mit der Maßgabe, dass die
-Mindestversicherungssumme für den einzelnen Versicherungsfall eine
-Million Euro und die Jahreshöchstleistung für alle in einem
-Versicherungsjahr verursachten Schäden mindestens vier Millionen Euro
-betragen muss.
+(4) Die Absätze 1 bis 3 gelten für Berufsausübungsgesellschaften mit
+der Maßgabe, dass die Mindestversicherungssumme in den Fällen des §
+55f Absatz 3 des Steuerberatungsgesetzes eine Million Euro und in den
+Fällen des § 55f Absatz 4 des Steuerberatungsgesetzes
+fünfhunderttausend Euro sowie die Jahreshöchstleistung für alle in
+einem Versicherungsjahr verursachten Schäden mindestens den vierfachen
+Betrag der Mindestversicherungssumme betragen muss.
 
 
 ### § 53 Weiterer Inhalt des Versicherungsvertrages
@@ -1524,11 +1233,12 @@ geschäftsmäßigen Hilfeleistung in Steuersachen entstehen.
 (1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt,
 niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder
 vereidigter Buchprüfer bestellt oder ist eine versicherungspflichtige
-Gesellschaft zugleich als Rechtsanwaltsgesellschaft,
+Berufsausübungsgesellschaft zugleich als Berufsausübungsgesellschaft
+im Sinne der Bundesrechtsanwaltsordnung,
 Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft
 anerkannt, wird der Versicherungspflicht auch mit einer diesen Berufen
 vorgeschriebenen Berufshaftpflichtversicherung genügt, sofern der
-Versicherungsvertrag die Voraussetzungen der §§ 52 bis 53a erfüllt.
+Versicherungsvertrag die Voraussetzungen der §§ 52 und 53a erfüllt.
 
 (2) Erfolgt die Bestellung zum Steuerberater auf Grund des Bestehens
 einer Eignungsprüfung im Sinne des § 37a Abs. 2 des Gesetzes, so sind
@@ -1570,12 +1280,15 @@ oder eine beglaubigte Abschrift des Versicherungsscheines
 nachzuweisen.
 
 (2) Absatz 1 gilt sinngemäß für die Anerkennung als
-Steuerberatungsgesellschaft.
+Berufsausübungsgesellschaft.
 
-(3) Absatz 1 gilt sinngemäß für Partnerschaftsgesellschaften mit der
-Maßgabe, dass eine entsprechende Versicherungsbescheinigung mit der
-Anmeldung zum Partnerschaftsregister der Steuerberaterkammer, in deren
-Bezirk die Partnerschaftsgesellschaft ihren Sitz hat, vorzulegen ist.
+(3) Absatz 1 gilt sinngemäß für Berufsausübungsgesellschaften, die
+nach § 53 Absatz 1 Satz 2 des Steuerberatungsgesetzes nicht
+anerkennungspflichtig sind, mit der Maßgabe, dass eine entsprechende
+Versicherungsbescheinigung mit der Übermittlung der Daten für das
+Verzeichnis nach § 86b des Steuerberatungsgesetzes der
+Steuerberaterkammer, in deren Bezirk die Berufsausübungsgesellschaft
+ihren Sitz hat, vorzulegen ist.
 
 
 ### § 56 Anzeige von Veränderungen

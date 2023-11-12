@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1986, 2663
 
 Zuletzt geändert durch
-:   Art. 4 V v. 18.7.2016 I 1722
+:   Art. 9 V v. 19.12.2022 I 2432
 
 
 ## Eingangsformel
@@ -185,7 +185,9 @@ vor, so ist auf diesen Zeitpunkt unabhängig von der
 Gewinnermittlungsart für jedes Wirtschaftsgut des Anlagevermögens der
 Unterschiedsbetrag zwischen dem gemeinen Wert und dem Wert, der nach §
 4 Abs. 1 oder nach § 5 des Einkommensteuergesetzes anzusetzen wäre,
-gesondert und bei mehreren Beteiligten einheitlich festzustellen.
+gesondert und bei mehreren Beteiligten einheitlich festzustellen. Auf
+eine gesonderte Feststellung nach Satz 1 kann verzichtet werden, wenn
+es sich um einen Fall von geringer Bedeutung handelt.
 
 
 ## § 9 Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken

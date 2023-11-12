@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 193
 
-Geändert durch
-:   Art. 8 Abs. 11 G v. 17.7.2015 I 1245
-
-Änderung durch
-:   Art. 25 Abs. 4 G v. 7.8.2021 I 3311 (Nr. 51)textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 25 Abs. 4 G v. 7.8.2021 I 3311
 
 
 ## Eingangsformel

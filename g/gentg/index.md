@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.12.1993 I 2066;
 
 Zuletzt geändert durch
-:   Art. 95 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 11 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 7 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 7 G v. 27.9.2021 I 4530
 
 
 ## Erster Teil - Allgemeine Vorschriften

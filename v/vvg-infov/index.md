@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 3004
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.3.2020 I 484
-
-Änderung durch
-:   Art. 6 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 9.6.2021 I 1666
 
 [^F769932.1_BJNR300400007]:     Die Verordnung dient der Umsetzung der Richtlinie 92/49/EWG des Rates
     vom 18. Juni 1992 zur Koordinierung der Rechts- und

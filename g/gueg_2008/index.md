@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 306
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 30.3.2021 I 402
+:   Art. 3e G v. 28.6.2022 I 938
 
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
@@ -649,8 +649,8 @@ liegt in der Regel vor, wenn der Täter
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung
-(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 7. Juli 2018
-geltende Fassung maßgeblich.
+(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 13. Januar
+2021 geltende Fassung maßgeblich.
 
 
 ### § 20 Bußgeldvorschriften

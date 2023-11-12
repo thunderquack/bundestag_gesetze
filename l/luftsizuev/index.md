@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 947
 
 Zuletzt geändert durch
-:   Art. 3 V v. 2.4.2008 I 647
-
-Änderung durch
-:   Art. 5 G v. 22.4.2020 I 840 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.4.2020 I 840
 
 
 

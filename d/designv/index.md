@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 18
 
 Zuletzt geändert durch
-:   Art. 7 V v. 12.12.2018 I 2446
-
-Änderung durch
-:   Art. 75 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 Abs. 2 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 Abs. 2 G v. 10.8.2021 I 3490
 
 
 ## Abschnitt 1 - Allgemeines

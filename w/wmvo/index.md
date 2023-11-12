@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1297
 
 Zuletzt geändert durch
-:   Art. 11 G v. 10.12.2021 I 5162
+:   Art. 1 V v. 19.6.2023 I Nr. 158
 
 
 
@@ -609,6 +609,9 @@ Behinderung eine Stimmabgabe durch Abgabe eines Stimmzettels nach den
 Absätzen 3 und 4 überwiegend nicht möglich, kann der Wahlvorstand eine
 andere Form der Ausübung des Wahlrechts beschließen.
 
+(6) Der Wahlvorstand kann beschließen, dass die Wahl auch als
+Briefwahl durchgeführt wird.
+
 
 #### § 22 Wahlvorgang
 
@@ -977,7 +980,7 @@ der Erfüllung ihrer Aufgabe zu fördern. Für die Vertrauensperson gilt
 (4) Die Kosten, die durch die Interessenvertretung der Werkstatträte
 auf Bundesebene entstehen, trägt der nach § 63 Absatz 2 des Neunten
 Buches Sozialgesetzbuch zuständige Träger. Dieser überweist jeweils
-zum 1. Februar eines jeden Jahres 1,60 Euro für jeden
+zum 1. Februar eines jeden Jahres 1,81 Euro für jeden
 Werkstattbeschäftigten, der sich am 1. Januar dieses Jahres in seiner
 Zuständigkeit befindet, an die Interessenvertretung der Werkstatträte
 auf Bundesebene. Gleichzeitig unterrichtet er die Interessenvertretung
@@ -1035,8 +1038,29 @@ Verlangen von der Tätigkeit freizustellen, in Werkstätten mit mehr als
 700 wahlberechtigten Frauen auch die erste Stellvertreterin. Die
 Befreiung nach den Sätzen 1 und 3 erstreckt sich nicht auf Maßnahmen
 nach § 5 Absatz 3 der Werkstättenverordnung. Im Übrigen gelten § 37
-Absatz 1 und 2, 4 bis 6 sowie die §§ 38 und 39 für die
+Absatz 1 und 2, 4 bis 6 sowie die §§ 38 und 39 Absatz 1 bis 3 für die
 Frauenbeauftragte und die Stellvertreterinnen entsprechend.
+
+(6) Die Kosten, die durch die Interessenvertretung der
+Frauenbeauftragten auf Bundesebene entstehen, trägt der nach § 63
+Absatz 2 des Neunten Buches Sozialgesetzbuch zuständige Träger. Dieser
+überweist jeweils zum 1. Februar eines jeden Jahres 1,81 Euro für
+jeden Werkstattbeschäftigten, der sich am 1. Januar dieses Jahres in
+seiner Zuständigkeit befindet, an die Interessenvertretung der
+Frauenbeauftragten auf Bundesebene. Gleichzeitig unterrichtet er die
+Interessenvertretung über die Berechnungsgrundlagen seiner Zahlung.
+Die Interessenvertretung der Frauenbeauftragten auf Bundesebene leitet
+jährlich zum 30. Juni jedem zuständigen Träger einen Bericht über die
+Verwendung der im Vorjahr insgesamt erhaltenen Mittel zu. Sie erörtert
+diese Berichte auf Verlangen mit den zuständigen Trägern oder deren
+überregionaler Vertretung. Der Betrag nach Satz 2 erhöht sich in
+entsprechender Anwendung des § 160 Absatz 3 Satz 1 bis 3 des Neunten
+Buches Sozialgesetzbuch jeweils zu dem Zeitpunkt, zu dem die nächste
+Neubestimmung der Beträge der Ausgleichsabgabe erfolgt. Die sich
+ergebenden Beträge sind auf zwei Nachkommastellen kaufmännisch zu
+runden. Das Bundesministerium für Arbeit und Soziales gibt den
+Erhöhungsbetrag und die sich nach Satz 7 ergebenden Beträge im
+Bundesanzeiger bekannt.
 
 
 ### § 39b Wahlen und Amtszeit
@@ -1106,10 +1130,8 @@ November 2001. § 13 gilt entsprechend.
 
 
 
-### § 40b Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
+### § 40b (weggefallen)
 
-Bis zum Ablauf des 19. März 2022 kann der Wahlvorstand beschließen,
-dass die Wahl auch als Briefwahl durchgeführt wird.
 
 
 ### § 41 Inkrafttreten

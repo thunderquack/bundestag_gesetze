@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1730
 
 Zuletzt geändert durch
-:   Art. 4 G v. 25.6.2021 I 2050
+:   Art. 14 G v. 16.12.2022 I 2294
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
@@ -1220,10 +1220,9 @@ abweichende Bestimmungen getroffen.
 
 #### § 26 Anlagebestimmungen
 
-Ein Spezial-Investmentfonds ist ein Investmentfonds, der die
-Voraussetzungen für eine Gewerbesteuerbefreiung nach § 15 Absatz 2 und
-3 erfüllt und in der Anlagepraxis nicht wesentlich gegen die
-nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
+Ein Spezial-Investmentfonds ist ein Investmentfonds, der in der
+Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
+(Anlagebestimmungen) verstößt:
 
 1.  Der Investmentfonds oder dessen Verwalter ist in seinem Sitzstaat
     einer Aufsicht über Vermögen zur gemeinschaftlichen Kapitalanlage
@@ -1318,7 +1317,9 @@ nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
     Projektgesellschaften anlegen, dürfen bis zu 100 Prozent ihres Wertes
     in Beteiligungen an Kapitalgesellschaften investieren, die die
     Voraussetzungen von Immobilien-Gesellschaften oder Infrastruktur-
-    Projektgesellschaften erfüllen. Höchstens 20 Prozent des Wertes des
+    Projektgesellschaften erfüllen. Innerhalb der Grenzen des Satzes 1
+    dürfen auch Unternehmensbeteiligungen gehalten werden, die vor dem 28.
+    November 2013 erworben wurden. Höchstens 20 Prozent des Wertes des
     Investmentfonds werden in Kryptowerte im Sinne von Nummer 4 Buchstabe
     n investiert.
 
@@ -1336,7 +1337,7 @@ nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
 
 
     c)  Gesellschaften, deren Unternehmensgegenstand auf die Erzeugung
-        erneuerbarer Energien nach § 5 Nummer 14 des Erneuerbare-Energien-
+        erneuerbarer Energien nach § 3 Nummer 21 des Erneuerbare-Energien-
         Gesetzes gerichtet ist.
 
 
@@ -1350,6 +1351,27 @@ nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
     zu einer Höhe von 30 Prozent des Wertes des Investmentfonds und im
     Übrigen Kredite bis zu einer Höhe von 60 Prozent des Verkehrswertes
     der unmittelbar oder mittelbar gehaltenen Immobilien aufnehmen.
+
+
+7a. Die Einnahmen aus einer aktiven unternehmerischen Bewirtschaftung im
+    Sinne des § 15 Absatz 2 Satz 1 Nummer 2 betragen in einem
+    Geschäftsjahr weniger als 5 Prozent der gesamten Einnahmen des
+    Investmentfonds. Erzielt der Investmentfonds Einnahmen aus der
+    Erzeugung oder Lieferung von Strom, die im Zusammenhang mit der
+    Vermietung und Verpachtung von Immobilien stehen und
+
+    a)  aus dem Betrieb von Anlagen zur Stromerzeugung aus erneuerbaren
+        Energien im Sinne des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes
+        oder
+
+
+    b)  aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder
+        Elektrofahrräder stammen,
+
+
+
+    erhöht sich die Grenze des Satzes 1 auf 10 Prozent, wenn die Grenze
+    des Satzes 1 nur durch diese Einnahmen überschritten wird.
 
 
 8.  An dem Investmentfonds dürfen sich unmittelbar und mittelbar über
@@ -1383,7 +1405,8 @@ nachfolgenden weiteren Voraussetzungen (Anlagebestimmungen) verstößt:
     die nicht die Voraussetzungen der Nummer 8 Satz 2 erfüllen.
 
 
-10. Die Anlagebestimmungen gehen aus den Anlagebedingungen hervor.
+10. Die Anlagebestimmungen gehen mit Ausnahme der Nummer 7a aus den
+    Anlagebedingungen hervor.
 
 
 
@@ -1429,7 +1452,7 @@ Anlegerzusammensetzung wiederherzustellen.
 
 #### § 29 Steuerpflicht des Spezial-Investmentfonds
 
-(1) Die Vorschriften der §§ 6 und 7 für die Besteuerung von
+(1) Die Vorschriften der §§ 6, 7, 11 und 15 für die Besteuerung von
 Investmentfonds sind auf Spezial-Investmentfonds anzuwenden, soweit
 sich aus den nachfolgenden Regelungen keine Abweichungen ergeben.
 
@@ -1443,7 +1466,11 @@ liegende Beteiligungshöhe voraussetzen. Dies gilt auch, wenn in
 Abkommen zur Vermeidung der Doppelbesteuerung Abweichendes geregelt
 ist.
 
-(4) Spezial-Investmentfonds sind von der Gewerbesteuer befreit.
+(4) Die Körperschaftsteuer des Spezial-
+Investmentfonds              ermäßigt sich nicht um die vom Spezial-
+Investmentfonds gezahlte Gewerbesteuer nach § 29 Absatz 1 in
+Verbindung mit § 15. Die vom Spezial-Investmentfonds gezahlte
+Gewerbesteuer ist nicht als Werbungskosten abziehbar.
 
 
 #### § 30 Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte mit Steuerabzug
@@ -1646,12 +1673,14 @@ Entrichtungspflichtigen nicht mitgeteilt hat.
 
 #### § 33 Inländische Immobilienerträge und sonstige inländische Einkünfte ohne Steuerabzug
 
-(1) Die Steuerpflicht für die inländischen Immobilienerträge eines
-Spezial-Investmentfonds entfällt, wenn der Spezial-Investmentfonds auf
-ausgeschüttete oder ausschüttungsgleiche inländische Immobilienerträge
-Kapitalertragsteuer gemäß § 50 erhebt, an die zuständige Finanzbehörde
-abführt und den Anlegern Steuerbescheinigungen gemäß § 45a Absatz 2
-des Einkommensteuergesetzes ausstellt.
+(1) Die Körperschaftsteuerpflicht für die inländischen
+Immobilienerträge eines Spezial-Investmentfonds entfällt, wenn der
+Spezial-Investmentfonds auf ausgeschüttete oder ausschüttungsgleiche
+inländische Immobilienerträge Kapitalertragsteuer gemäß § 50 erhebt,
+an die zuständige Finanzbehörde abführt und den Anlegern
+Steuerbescheinigungen gemäß § 45a Absatz 2 des Einkommensteuergesetzes
+ausstellt. Die Gewerbesteuerpflicht eines Spezial-Investmentfonds nach
+§ 29 Absatz 1 in Verbindung mit § 15 entfällt nicht.
 
 (2) Die ausgeschütteten oder ausschüttungsgleichen inländischen
 Immobilienerträge gelten bei einem vereinnahmenden Investmentfonds
@@ -2105,9 +2134,10 @@ Beteiligungseinnahmen vollständig steuerbefreit, wenn
 
 (5) Sind in den ausgeschütteten oder ausschüttungsgleichen Erträgen
 inländische Immobilienerträge oder sonstige inländische Einkünfte
-enthalten, die von dem Spezial-Investmentfonds versteuert wurden, so
-sind 20 Prozent dieser ausgeschütteten oder ausschüttungsgleichen
-Erträge steuerfrei. Absatz 4 Satz 2 ist entsprechend anzuwenden.
+enthalten, die auf Ebene des Spezial-Investmentfonds der
+Körperschaftsteuer unterlegen haben, so sind 20 Prozent dieser
+ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz
+4 Satz 2 ist entsprechend anzuwenden.
 
 
 #### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung
@@ -2183,6 +2213,12 @@ Absatz 1 Satz 2 zugerechnet werden. Dies gilt nicht, wenn
 (2) Die nach § 43 Absatz 3 zu gewährenden Teilfreistellungen sind bei
 der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes
 nur zur Hälfte zu berücksichtigen.
+
+(3) Die tarifliche Einkommensteuer des Anlegers ermäßigt sich nicht um
+die vom Spezial-Investmentfonds gezahlte Gewerbesteuer nach § 29
+Absatz 1 in Verbindung mit § 15. Die vom Spezial-Investmentfonds
+gezahlte Gewerbesteuer ist beim Anleger nicht als Betriebsausgabe oder
+Werbungskosten abziehbar.
 
 
 #### § 46 Zinsschranke
@@ -3059,4 +3095,25 @@ letztmals für den Veranlagungszeitraum 2021 anzuwenden.
 
 in der Fassung des Artikels 4 des Gesetzes vom 25. Juni 2021 (BGBl. I
 S. 2050).
+
+(7) Ab dem 1. Januar 2023 anzuwenden sind:
+
+1.  § 26,
+
+
+2.  § 29 Absatz 1 und 4,
+
+
+3.  § 33 Absatz 1,
+
+
+4.  § 42 Absatz 5 Satz 1,
+
+
+5.  § 45 Absatz 3
+
+
+
+in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022
+(BGBl. I S. 2294).
 

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1348
 
-Zuletzt geändert durch
-:   Art. 12 G v. 24.2.2021 I 274
-
+Stand: Zuletzt geändert Art. 7c G v. 19.7.2023 I Nr. 197
 [^F780848_01_BJNR134810013]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
     Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
@@ -217,8 +215,8 @@ drei Jahren dem Deutschen Bundestag.
 Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum
 Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung
 dürfen Notfallsanitäterinnen und Notfallsanitäter heilkundliche
-Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver Art, dann
-eigenverantwortlich durchführen, wenn
+Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver oder
+medikamentöser Art, dann eigenverantwortlich durchführen, wenn
 
 1.  sie diese Maßnahmen in ihrer Ausbildung erlernt haben und beherrschen
     und
@@ -401,12 +399,12 @@ Selbständigkeit und Selbstbestimmung in ihr Handeln mit einzubeziehen.
 
     c)  Durchführen medizinischer Maßnahmen der Erstversorgung bei
         Patientinnen und Patienten im Notfalleinsatz und dabei Anwenden von in
-        der Ausbildung erlernten und beherrschten, auch invasiven Maßnahmen,
-        um einer Verschlechterung der Situation der Patientinnen und Patienten
-        bis zum Eintreffen der Notärztin oder des Notarztes oder dem Beginn
-        einer weiteren ärztlichen Versorgung vorzubeugen, wenn ein
-        lebensgefährlicher Zustand vorliegt oder wesentliche Folgeschäden zu
-        erwarten sind,
+        der Ausbildung erlernten und beherrschten, auch invasiven oder
+        medikamentösen Maßnahmen, um einer Verschlechterung der Situation der
+        Patientinnen und Patienten bis zum Eintreffen der Notärztin oder des
+        Notarztes oder dem Beginn einer weiteren ärztlichen Versorgung
+        vorzubeugen, wenn ein lebensgefährlicher Zustand vorliegt oder
+        wesentliche Folgeschäden zu erwarten sind,
 
 
     d)  angemessenes Umgehen mit Menschen in Notfall- und Krisensituationen,
@@ -767,6 +765,11 @@ Ausbildungsvertrages ist der Schülerin oder dem Schüler und deren
 gesetzlichen Vertretern auszuhändigen.
 
 (4) Änderungen des Ausbildungsvertrages bedürfen der Schriftform.
+
+(5) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und
+Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für den
+Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze
+anzuwenden.
 
 
 ### § 13 Pflichten des Ausbildungsträgers

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3794, 3814
 
 Zuletzt geändert durch
-:   Art. 24 G v. 21.12.2020 I 3096
+:   Art. 2 V v. 19.12.2022 I 2432
 
 
 ## § 1
@@ -65,7 +65,7 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-11. das Finanzamt Kassel-Hofgeismar für in der Republik Kroatien ansässige
+11. das Finanzamt Kassel für in der Republik Kroatien ansässige
     Unternehmer,
 
 
@@ -85,8 +85,8 @@ Zuletzt geändert durch
     Luxemburg ansässige Unternehmer,
 
 
-16. das Finanzamt Berlin Neukölln für in der Republik Mazedonien ansässige
-    Unternehmer,
+16. das Finanzamt Berlin Neukölln für in der Republik Nordmazedonien
+    ansässige Unternehmer,
 
 
 17. das Finanzamt Kleve für im Königreich der Niederlande ansässige
@@ -128,8 +128,8 @@ Zuletzt geändert durch
 
 
 
-21. das Finanzamt Kassel-Hofgeismar für in der Portugiesischen Republik
-    ansässige Unternehmer,
+21. das Finanzamt Kassel für in der Portugiesischen Republik ansässige
+    Unternehmer,
 
 
 22. das Finanzamt Chemnitz-Süd für in Rumänien ansässige Unternehmer,
@@ -151,8 +151,7 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-27. das Finanzamt Kassel-Hofgeismar für im Königreich Spanien ansässige
-    Unternehmer,
+27. das Finanzamt Kassel für im Königreich Spanien ansässige Unternehmer,
 
 
 28. das Finanzamt Oranienburg für in der Republik Slowenien ansässige
@@ -194,6 +193,17 @@ Finanzamt Berlin Neukölln zuständig.
 (2a) Abweichend von den Absätzen 1 und 2 ist für die Unternehmer, die
 von § 18 Abs. 4c des Umsatzsteuergesetzes Gebrauch machen, das
 Bundeszentralamt für Steuern zuständig.
+
+(2b) Für die Unternehmer mit Sitz außerhalb des Gemeinschaftsgebiets
+(§ 1 Absatz 2a des Umsatzsteuergesetzes), die im Gemeinschaftsgebiet
+weder ihre Geschäftsleitung noch eine umsatzsteuerliche Betriebsstätte
+haben und die in einem anderen Mitgliedstaat der Europäischen Union
+die Teilnahme an dem Verfahren im Sinne des § 18j des
+Umsatzsteuergesetzes angezeigt haben, sind die Absätze 1 und 2 für
+Zwecke der Durchführung des Verfahrens im Sinne des § 18j des
+Umsatzsteuergesetzes mit der Maßgabe anzuwenden, dass der Unternehmer
+in dem Mitgliedstaat als ansässig zu behandeln ist, in dem die
+Teilnahme angezeigt wurde.
 
 (3) Die örtliche Zuständigkeit nach § 61 Absatz 1 Satz 1 und § 61a
 Absatz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung

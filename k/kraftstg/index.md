@@ -1,5 +1,5 @@
 ---
-Title: Kraftfahrzeugsteuergesetz
+Title: Kraftfahrzeugsteuergesetz 2002
 jurabk: KraftStG
 layout: default
 origslug: kraftstg
@@ -7,7 +7,7 @@ slug: kraftstg
 
 ---
 
-# Kraftfahrzeugsteuergesetz (KraftStG)
+# Kraftfahrzeugsteuergesetz 2002 (KraftStG)
 
 Ausfertigungsdatum
 :   1927-12-21

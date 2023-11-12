@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 703
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2020 I 3328
+:   Art. 3 V v. 16.12.2022 I 2368
 
 
 

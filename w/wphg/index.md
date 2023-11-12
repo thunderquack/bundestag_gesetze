@@ -19,40 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 1 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 7 Abs. 4 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 Abs. 1 G v. 9.7.2021 I 2570 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 56 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 19.12.2022 I 2606
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -1186,6 +1153,29 @@ Artikels 4 Nummer 1 der Verordnung (EU) Nr. 1286/2014.
 Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014.
 
 
+### § 2a Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft
+gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind
+oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen.
+Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie
+als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer
+Position für eine Person oder Personengesellschaft nach Satz 1 tätig
+ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person
+gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen
+einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines
+Aufsichts- oder Verwaltungsrats oder eines vergleichbaren
+Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1
+fällt.
+
+
 ### § 3 Ausnahmen; Verordnungsermächtigung
 
 (1) Als Wertpapierdienstleistungsunternehmen gelten nicht
@@ -1636,8 +1626,8 @@ Herkunftsstaat wählt, hat dies unverzüglich zu veröffentlichen.
 Außerdem muss er die Information, dass die Bundesrepublik Deutschland
 sein Herkunftsstaat ist,
 
-1.  unverzüglich dem Unternehmensregister gemäß § 8b des
-    Handelsgesetzbuchs zur Speicherung übermitteln und
+1.  unverzüglich der das Unternehmensregister führenden Stelle zur
+    Einstellung in das Unternehmensregister übermitteln und
 
 
 2.  unverzüglich den folgenden Behörden mitteilen:
@@ -2401,6 +2391,28 @@ Anfechtungsklage gegen Maßnahmen nach den Absätzen 1 bis 3 haben keine
 aufschiebende Wirkung.
 
 
+### § 14a Befugnisse zur Durchsetzung von Sanktionsmaßnahmen
+
+(1) Die Bundesanstalt kann die zur Durchsetzung eines von einer
+zuständigen Stelle der Europäischen Union oder Einrichtungen eines
+Mitgliedstaates der Europäischen Union beschlossenen Handelsverbotes
+von Finanzinstrumenten erforderlichen Maßnahmen gegenüber jedermann
+anordnen. Sie kann insbesondere den Handel mit einzelnen oder mehreren
+Finanzinstrumenten untersagen und die Aussetzung des Handels in
+einzelnen oder mehreren Finanzinstrumenten an Märkten, an denen
+Finanzinstrumente gehandelt werden, anordnen. Die Bundesanstalt kann
+Anordnungen nach den Sätzen 1 und 2 auch gegenüber einem öffentlich-
+rechtlichen Rechtsträger, gegenüber einer Börse oder gegenüber deren
+Börsenträger erlassen.
+
+(2) § 125 Absatz 1 Satz 1 gilt entsprechend. Die Zuständigkeit der
+Börsenaufsichtsbehörden nach § 3 Absatz 1 Satz 1 des Börsengesetzes
+bleibt unberührt.
+
+(3) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1
+haben keine aufschiebende Wirkung.
+
+
 ### § 15 Produktintervention
 
 (1) Der Bundesanstalt stehen die Befugnisse nach Artikel 42 der
@@ -3026,17 +3038,17 @@ verpflichtet ist, Insiderinformationen zu veröffentlichen, hat diese
 vor ihrer Veröffentlichung der Bundesanstalt und den
 Geschäftsführungen der Handelsplätze, an denen seine Finanzinstrumente
 zum Handel zugelassen oder in den Handel einbezogen sind, mitzuteilen
-sowie unverzüglich nach ihrer Veröffentlichung dem
-Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur
-Speicherung zu übermitteln.
+sowie unverzüglich nach ihrer Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln.
 
 (2) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der
 gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 596/2014
 verpflichtet ist, Informationen zu Eigengeschäften von Führungskräften
 zu veröffentlichen, hat diese Informationen unverzüglich, jedoch nicht
-vor ihrer Veröffentlichung, dem Unternehmensregister im Sinne des § 8b
-des Handelsgesetzbuchs zur Speicherung zu übermitteln sowie die
-Veröffentlichung der Bundesanstalt mitzuteilen.
+vor ihrer Veröffentlichung, der das Unternehmensregister führenden
+Stelle zur Einstellung in das Unternehmensregister zu übermitteln
+sowie die Veröffentlichung der Bundesanstalt mitzuteilen.
 
 (3) Verstößt der Emittent gegen die Verpflichtungen nach Absatz 1 oder
 nach Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014,
@@ -4034,9 +4046,9 @@ entsprechenden Vorschriften anderer Mitgliedstaaten der Europäischen
 Union oder anderer Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum unverzüglich, spätestens drei Handelstage nach Zugang
 der Mitteilung zu veröffentlichen; er übermittelt sie außerdem
-unverzüglich, jedoch nicht vor ihrer Veröffentlichung dem
-Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur
-Speicherung. Erreicht, überschreitet oder unterschreitet ein
+unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister. Erreicht, überschreitet oder unterschreitet ein
 Inlandsemittent in Bezug auf eigene Aktien entweder selbst, über ein
 Tochterunternehmen oder über eine in eigenem Namen, aber für Rechnung
 dieses Emittenten handelnde Person die Schwellen von 5 Prozent oder 10
@@ -4081,8 +4093,9 @@ innerhalb von zwei Handelstagen zu veröffentlichen. Er hat die
 Veröffentlichung gleichzeitig der Bundesanstalt entsprechend § 40
 Absatz 2, auch in Verbindung mit einer Rechtsverordnung nach Absatz 3
 Nummer 2, mitzuteilen. Er übermittelt die Informationen außerdem
-unverzüglich, jedoch nicht vor ihrer Veröffentlichung, dem
-Unternehmensregister nach § 8b des Handelsgesetzbuchs zur Speicherung.
+unverzüglich, jedoch nicht vor ihrer Veröffentlichung, der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister.
 
 (2) Bei der Ausgabe von Bezugsaktien ist die Gesamtzahl der
 Stimmrechte abweichend von Absatz 1 Satz 1 nur im Zusammenhang mit
@@ -4153,8 +4166,8 @@ die Mitteilungspflicht nach Absatz 1 nicht erfüllt wurde, entsprechend
 § 40 Absatz 1 Satz 1 in Verbindung mit der Rechtsverordnung nach § 40
 Absatz 3 Nummer 1 zu veröffentlichen; er übermittelt diese
 Informationen außerdem unverzüglich, jedoch nicht vor ihrer
-Veröffentlichung dem Unternehmensregister nach § 8b des
-Handelsgesetzbuchs zur Speicherung.
+Veröffentlichung der das Unternehmensregister führenden Stelle zur
+Einstellung in das Unternehmensregister.
 
 (3) Die Satzung eines Emittenten mit Sitz im Inland kann vorsehen,
 dass Absatz 1 keine Anwendung findet. Absatz 1 findet auch keine
@@ -4217,9 +4230,9 @@ eines Drittstaates der Öffentlichkeit zur Verfügung zu stellen sind,
 in der in § 40 Absatz 1 Satz 1, auch in Verbindung mit einer
 Rechtsverordnung nach Absatz 3, geregelten Weise veröffentlichen und
 gleichzeitig der Bundesanstalt mitteilen. Die Informationen sind
-außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung dem
-Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur
-Speicherung zu übermitteln.
+außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -4452,9 +4465,9 @@ Satzungsregelungen des Emittenten auf schriftlichem Wege.
 
 unverzüglich veröffentlichen und gleichzeitig der Bundesanstalt diese
 Veröffentlichung mitteilen. Er übermittelt diese Informationen
-außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung dem
-Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur
-Speicherung.
+außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -4480,8 +4493,8 @@ nach Maßgabe des § 50 Absatz 1 in Verbindung mit einer
 Rechtsverordnung nach § 50 Absatz 2 veröffentlichen und die
 Veröffentlichung gleichzeitig der Bundesanstalt mitteilen; sie müssen
 die Informationen außerdem unverzüglich, jedoch nicht vor der
-Veröffentlichung dem Unternehmensregister im Sinne des § 8b des
-Handelsgesetzbuchs zur Speicherung übermitteln.
+Veröffentlichung der das Unternehmensregister führenden Stelle zur
+Einstellung in das Unternehmensregister übermitteln.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -8865,16 +8878,18 @@ Abschlüsse und Berichte:
 
 Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann
 sie ihre Anordnung unter Nennung des betroffenen Unternehmens und den
-Grund für die Anordnung im Bundesanzeiger und auf ihrer Internetseite
-bekannt machen, soweit hieran ein öffentliches Interesse besteht. Die
-Bekanntmachung des Grunds für die Anordnung darf keine
-personenbezogenen Daten enthalten. Auf die Prüfung des verkürzten
-Abschlusses und des zugehörigen Zwischenlageberichts sowie des
-Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht
-anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der
-Wertpapiere zum Handel im organisierten Markt fortgesetzt werden,
-insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an
-dessen Bekanntmachung ein öffentliches Interesse besteht.
+Grund für die Anordnung auf ihrer Internetseite bekannt machen, soweit
+hieran ein öffentliches Interesse besteht. Die Bekanntmachung des
+Grunds für die Anordnung darf keine personenbezogenen Daten enthalten.
+Auf die Prüfung des verkürzten Abschlusses und des zugehörigen
+Zwischenlageberichts sowie des Zahlungsberichts und
+Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann
+trotz Wegfalls der Zulassung der Wertpapiere zum Handel im
+organisierten Markt fortgesetzt werden, insbesondere dann, wenn
+Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein
+öffentliches Interesse besteht. Die Bekanntmachung nach Satz 6 ist
+außerdem unverzüglich der das Unternehmensregister führenden Stelle
+zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (2) Prüfungsgegenstand können auch die Abschlüsse und Berichte sein,
 die die beiden Geschäftsjahre zum Gegenstand haben, die dem
@@ -8987,18 +9002,15 @@ Feststellung nach Absatz 1 Satz 2 unter Nennung des betroffenen
 Unternehmens samt den wesentlichen Teilen der Begründung unverzüglich
 bekannt
 
-1.  auf ihrer Internetseite,
+1.  auf ihrer Internetseite sowie
 
 
-2.  im Bundesanzeiger sowie
-
-
-3.  in einem überregionalen Börsenpflichtblatt oder über ein elektronisch
-    betriebenes Informationsverbreitungssystem, das bei Kreditinstituten,
-    bei nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen
-    Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und
-    die an einer inländischen Börse zur Teilnahme am Handel zugelassen
-    sind, und bei Versicherungsunternehmen weit verbreitet ist.
+2.  in einem überregionalen Börsenpflichtblatt oder über ein elektronisch
+    betriebenes Informationsverbreitungssystem, das weit verbreitet ist
+    bei Kreditinstituten, bei nach § 53 Absatz 1 Satz 1 des
+    Kreditwesengesetzes tätigen Unternehmen, bei anderen Unternehmen, die
+    ihren Sitz im Inland haben und die an einer inländischen Börse zur
+    Teilnahme am Handel zugelassen sind, und bei Versicherungsunternehmen.
 
 
 
@@ -9011,12 +9023,16 @@ Bundesanstalt unter Neuaufstellung des Abschlusses oder Berichts für
 das geprüfte Geschäftsjahr oder im nächsten Abschluss oder Bericht zu
 berichtigen ist. Behebt das Unternehmen den nach Satz 1 bekannt
 gemachten Fehler, macht die Bundesanstalt dies auf die dort genannte
-Weise ebenfalls bekannt.
+Weise ebenfalls bekannt. Bekanntmachungen nach den Sätzen 1 und 5 sind
+außerdem unverzüglich der das Unternehmensregister führenden Stelle
+zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (3) Ergibt die Prüfung durch die Bundesanstalt keine Beanstandungen,
 so teilt die Bundesanstalt dies dem Unternehmen mit. Die Bundesanstalt
 macht das Prüfungsergebnis gemäß Absatz 2 Satz 1 bekannt, wenn sie
-zuvor die Prüfung bekannt gemacht hat.
+zuvor die Prüfung bekannt gemacht hat. Die Bekanntmachung nach Satz 2
+ist außerdem unverzüglich der das Unternehmensregister führenden
+Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (4) Die Bundesanstalt löscht die nach Absatz 2 Satz 1 und 5 sowie nach
 Absatz 3 Satz 2 auf ihrer Internetseite bekannt gemachten
@@ -9178,13 +9194,13 @@ Rechnungslegungsunterlagen zusätzlich zu ihrer Verfügbarkeit im
 Unternehmensregister öffentlich zugänglich sind. Das Unternehmen teilt
 die Bekanntmachung gleichzeitig mit ihrer Veröffentlichung der
 Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
-ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des
-Handelsgesetzbuchs zur Speicherung. Ein Unternehmen, das als
+ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
+zur Einstellung in das Unternehmensregister. Ein Unternehmen, das als
 Inlandsemittent Wertpapiere begibt und der Verpflichtung nach Satz 1
 unterliegt, hat außerdem unverzüglich, jedoch nicht vor
 Veröffentlichung der Bekanntmachung nach Satz 2, den
-Jahresfinanzbericht an das Unternehmensregister zur Speicherung zu
-übermitteln.
+Jahresfinanzbericht an die das Unternehmensregister führende Stelle
+zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (2) Der Jahresfinanzbericht hat mindestens zu enthalten
 
@@ -9275,11 +9291,12 @@ Internetadresse der Bericht zusätzlich zu seiner Verfügbarkeit im
 Unternehmensregister öffentlich zugänglich ist. Das Unternehmen teilt
 die Bekanntmachung gleichzeitig mit ihrer Veröffentlichung der
 Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
-ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des
-Handelsgesetzbuchs zur Speicherung. Es hat außerdem unverzüglich,
-jedoch nicht vor Veröffentlichung der Bekanntmachung nach Satz 2 den
-Halbjahresfinanzbericht an das Unternehmensregister zur Speicherung zu
-übermitteln.
+ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
+zur Einstellung in das Unternehmensregister. Es hat außerdem
+unverzüglich, jedoch nicht vor Veröffentlichung der Bekanntmachung
+nach Satz 2 den Halbjahresfinanzbericht an die das
+Unternehmensregister führende Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln.
 
 (2) Der Halbjahresfinanzbericht hat mindestens
 
@@ -9410,14 +9427,14 @@ Konzernzahlungsbericht zusätzlich zu seiner Verfügbarkeit im
 Unternehmensregister öffentlich zugänglich ist. Das Unternehmen teilt
 die Bekanntmachung gleichzeitig mit ihrer Veröffentlichung der
 Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
-ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des
-Handelsgesetzbuchs zur Speicherung. Ein Unternehmen im Sinne von Satz
-1 hat außerdem unverzüglich, jedoch nicht vor Veröffentlichung der
-Bekanntmachung nach Satz 2 den Zahlungsbericht oder
-Konzernzahlungsbericht an das Unternehmensregister zur Speicherung zu
-übermitteln, es sei denn, die Übermittlung erfolgt nach § 8b Absatz 2
-Nummer 4 in Verbindung mit Absatz 3 Satz 1 Nummer 1 des
-Handelsgesetzbuchs.
+ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
+zur Einstellung in das Unternehmensregister. Ein Unternehmen im Sinne
+von Satz 1 hat außerdem unverzüglich, jedoch nicht vor
+Veröffentlichung der Bekanntmachung nach Satz 2 den Zahlungsbericht
+oder Konzernzahlungsbericht an die das Unternehmensregister führende
+Stelle zur Einstellung in das Unternehmensregister zu übermitteln, es
+sei denn, die Übermittlung erfolgt nach § 8b Absatz 2 Nummer 4 in
+Verbindung mit Absatz 3 Satz 1 Nummer 1 des Handelsgesetzbuchs.
 
 (3) Die Bundesanstalt kann ein Unternehmen zur Erklärung auffordern,
 ob es im Sinne des § 341r des Handelsgesetzbuchs in der
@@ -9538,12 +9555,13 @@ Verbindung mit einer Rechtsverordnung nach § 114 Absatz 3 oder § 115
 Absatz 6, geregelten Weise der Öffentlichkeit zur Verfügung zu
 stellen, zu veröffentlichen und gleichzeitig der Bundesanstalt
 mitzuteilen. Die Informationen sind außerdem unverzüglich, jedoch
-nicht vor ihrer Veröffentlichung dem Unternehmensregister im Sinne des
-§ 8b des Handelsgesetzbuchs zur Speicherung zu übermitteln. Das
-Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die
-Gleichwertigkeit von Regeln eines Drittstaates und die Freistellung
-von Unternehmen nach Satz 1 erlassen.
+nicht vor ihrer Veröffentlichung der das Unternehmensregister
+führenden Stelle zur Einstellung in das Unternehmensregister zu
+übermitteln. Das Bundesministerium der Finanzen kann durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nähere Bestimmungen über die Gleichwertigkeit von Regeln eines
+Drittstaates und die Freistellung von Unternehmen nach Satz 1
+erlassen.
 
 (5) (weggefallen)
 

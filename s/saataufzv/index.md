@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 214
 
 Zuletzt geändert durch
-:   Art. 2 V v. 21.7.2009 I 2107
-
-Änderung durch
-:   Art. 4 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 28.9.2021 I 4595
 
 
 ## Eingangsformel

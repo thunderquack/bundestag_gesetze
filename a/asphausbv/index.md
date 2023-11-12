@@ -1023,9 +1023,9 @@ Der Bundesminister für Wirtschaft
 
 
 
+    *
     *   8
 
-    *
 
 *    *   5
 

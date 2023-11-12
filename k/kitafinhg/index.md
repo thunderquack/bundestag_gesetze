@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2403, 2407
 
 Zuletzt geändert durch
-:   Art. 1 G v. 25.6.2021 I 2020
+:   Art. 1 G v. 23.5.2023 I Nr. 136
 
 Investitionsprogramm
 
@@ -1315,8 +1315,8 @@ Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die
 Bestimmungen dieses Kapitels sinngemäß.
 
 (2) Die Investitionen sind zu 100 Prozent des gemäß § 27 Absatz 1
-bereitgestellten Verfügungsrahmens des Landes bis zum 30. Juni 2023
-abzuschließen; die Mittel können bis zum 31. Dezember 2023 abgerufen
+bereitgestellten Verfügungsrahmens des Landes bis zum 31. Dezember
+2023 abzuschließen; die Mittel können bis zum 30. Juni 2024 abgerufen
 werden.
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur
@@ -1336,28 +1336,27 @@ der Finanzhilfen und übermitteln entsprechende (Förder-)Richtlinien.
 
 (2) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zu den Stichtagen 31. Dezember 2021, 31. Dezember
-2022 und 31. Dezember 2023 über die Anzahl der bewilligten und
-zusätzlich geschaffenen Betreuungsplätze in Kindertageseinrichtungen
-und in der Kindertagespflege, differenziert nach Plätzen für Kinder
-unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum
-Schuleintritt, sowie über die hierfür jeweils aufgewendeten Bundes-
-und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und
-sonstigen Mitteln. Hierfür legen sie Listen über die mit diesem
-Investitionsprogramm geförderten Projekte vor.
+2022 und 30. Juni 2024 über die Anzahl der bewilligten und zusätzlich
+geschaffenen Betreuungsplätze in Kindertageseinrichtungen und in der
+Kindertagespflege, differenziert nach Plätzen für Kinder unter drei
+Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt,
+sowie über die hierfür jeweils aufgewendeten Bundes- und Landesmittel,
+getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln.
+Hierfür legen sie Listen über die mit diesem Investitionsprogramm
+geförderten Projekte vor.
 
 (3) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zu den Stichtagen 31. Dezember 2021, 31. Dezember
-2022 und 31. Dezember 2023 über die Art und Anzahl der bewilligten und
+2022 und 30. Juni 2024 über die Art und Anzahl der bewilligten und
 bereits durchgeführten Ausstattungsinvestitionen gemäß § 26 Absatz 1
 Satz 2.
 
 (4) Die Prüfung des Verwendungsnachweises erfolgt laufend und ist bis
-zum 31. Dezember 2024 abzuschließen. Bestehen tatsächliche
-Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich
-erscheinen lassen, haben das Bundesministerium für Familie, Senioren,
-Frauen und Jugend sowie der Bundesrechnungshof ein Recht auf
-einzelfallbezogene Informationsbeschaffung einschließlich örtlicher
-Erhebungsbefugnisse.
+zum 30. Juni 2025 abzuschließen. Bestehen tatsächliche Anhaltspunkte,
+die eine Rückforderung von Bundesmitteln möglich erscheinen lassen,
+haben das Bundesministerium für Familie, Senioren, Frauen und Jugend
+sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene
+Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
 
 (5) Die Länder unterrichten das Bundesministerium für Familie,
 Senioren, Frauen und Jugend unverzüglich über einschlägige
@@ -1365,9 +1364,9 @@ Prüfungsbemerkungen ihrer Rechnungsprüfungsbehörden.
 
 (6) Die Länder unterrichten das Bundesministerium für Familie,
 Senioren, Frauen und Jugend nach Prüfung des Verwendungsnachweises der
-verausgabten Finanzhilfen bis zum 30. Juni 2025 in Form eines
+verausgabten Finanzhilfen bis zum 31. Dezember 2025 in Form eines
 zusammenfassenden Abschlussberichts. Der Abschlussbericht enthält zum
-Stichtag 30. Juni 2023 die Gesamtzahl der im Land zur Verfügung
+Stichtag 31. Dezember 2023 die Gesamtzahl der im Land zur Verfügung
 stehenden Betreuungsplätze und die Zahl der mit den Finanzhilfen im
 Land zusätzlich geschaffenen Betreuungsplätze, differenziert nach
 neuen und gesicherten Plätzen für Kinder unter drei Jahren und Plätzen

@@ -340,15 +340,16 @@ Vermächtnisse oder Auflagen stehen den Nacherbschaften gleich.
     Vermögen gerichtet ist;
 
 
-9.  was bei Aufhebung einer Stiftung oder bei Auflösung eines Vereins,
-    dessen Zweck auf die Bindung von Vermögen gerichtet ist, erworben
-    wird. Dem steht gleich der Erwerb bei Auflösung einer Vermögensmasse
-    ausländischen Rechts, deren Zweck auf die Bindung von Vermögen
-    gerichtet ist, sowie der Erwerb durch Zwischenberechtigte während des
-    Bestehens der Vermögensmasse. Wie eine Auflösung wird auch der
-    Formwechsel eines rechtsfähigen Vereins, dessen Zweck wesentlich im
-    Interesse einer Familie oder bestimmter Familien auf die Bindung von
-    Vermögen gerichtet ist, in eine Kapitalgesellschaft behandelt;
+9.  was bei Auflösung, Aufhebung, Zulegung oder Zusammenlegung von
+    Stiftungen oder bei Auflösung eines Vereins, dessen Zweck auf die
+    Bindung von Vermögen gerichtet ist, erworben wird. Dem steht gleich
+    der Erwerb bei Auflösung einer Vermögensmasse ausländischen Rechts,
+    deren Zweck auf die Bindung von Vermögen gerichtet ist, sowie der
+    Erwerb durch Zwischenberechtigte während des Bestehens der
+    Vermögensmasse. Wie eine Auflösung wird auch der Formwechsel eines
+    rechtsfähigen Vereins, dessen Zweck wesentlich im Interesse einer
+    Familie oder bestimmter Familien auf die Bindung von Vermögen
+    gerichtet ist, in eine Kapitalgesellschaft behandelt;
 
 
 10. was als Abfindung für aufschiebend bedingt, betagt oder befristet

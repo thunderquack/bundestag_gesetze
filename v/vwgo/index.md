@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.10.2021 I 4650
+:   Art. 19 G v. 8.10.2023 I Nr. 272
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -161,7 +161,19 @@ Abs. 1 kann auch vorgesehen werden, daß die Senate in der Besetzung
 von fünf Richtern und zwei ehrenamtlichen Richtern entscheiden. Satz 1
 Halbsatz 2 und Satz 2 gelten nicht für die Fälle des § 99 Abs. 2.
 
-(4) (weggefallen)
+(4) In Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 kann der
+Senat den Rechtsstreit einem seiner Mitglieder als Einzelrichter zur
+Entscheidung übertragen, wenn
+
+1.  die Sache keine besonderen Schwierigkeiten tatsächlicher oder
+    rechtlicher Art aufweist und
+
+
+2.  die Rechtssache keine grundsätzliche Bedeutung hat.
+
+
+
+§ 6 Absatz 2 bis 4 gilt entsprechend.
 
 
 #### § 10
@@ -175,6 +187,19 @@ Anzahl.
 (3) Die Senate des Bundesverwaltungsgerichts entscheiden in der
 Besetzung von fünf Richtern, bei Beschlüssen außerhalb der mündlichen
 Verhandlung in der Besetzung von drei Richtern.
+
+(4) In Verfahren nach § 50 Absatz 1 Nummer 6 kann der Senat in einer
+Besetzung mit drei Richtern entscheiden, wenn
+
+1.  die Sache keine besonderen Schwierigkeiten tatsächlicher oder
+    rechtlicher Art aufweist und
+
+
+2.  die Rechtssache keine grundsätzliche Bedeutung hat.
+
+
+
+§ 6 Absatz 2 bis 4 gilt entsprechend.
 
 
 #### § 11
@@ -785,7 +810,8 @@ sämtliche Streitigkeiten, die betreffen
 
 
 3a. die Errichtung, den Betrieb und die Änderung von Anlagen zur Nutzung
-    von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern,
+    von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern
+    sowie Anlagen von Windenergie auf See im Küstenmeer,
 
 
 3b. die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-
@@ -798,10 +824,10 @@ sämtliche Streitigkeiten, die betreffen
     Absatz 1 Nummer 6 begründet ist,
 
 
-4a. Planfeststellungsverfahren für die Errichtung, den Betrieb und die
-    Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-
-    Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts
-    nach § 50 Absatz 1 Nummer 6 begründet ist,
+4a. Planfeststellungs- oder Plangenehmigungsverfahren für die Errichtung,
+    den Betrieb und die Änderung von Einrichtungen nach § 66 Absatz 1 des
+    Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des
+    Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
 
 5.  Verfahren für die Errichtung, den Betrieb und die wesentliche Änderung
@@ -964,8 +990,15 @@ Rechtszug
     Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem
     Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem
     Bundesbedarfsplangesetz, dem § 43e Absatz 4 des
-    Energiewirtschaftsgesetzes, dem § 54a Absatz 1 des Windenergie-auf-
-    See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
+    Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-
+    Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind,
+    über sämtliche Streitigkeiten, die Vorhaben zur Errichtung und zur
+    Anbindung von Terminals zum Import von Wasserstoff und Derivaten
+    betreffen, sowie über die ihm nach dem LNG-Beschleunigungsgesetz
+    zugewiesenen Verfahren,
+
+
+7.  über die ihm nach dem Energiesicherungsgesetz zugewiesenen Verfahren.
 
 
 
@@ -1161,10 +1194,11 @@ die vorbereitenden Schriftsätzen beigefügt sind.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -1468,7 +1502,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen
 Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger
 Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig,
 als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung
@@ -1578,21 +1612,28 @@ Bevollmächtigte vor dem Verwaltungsgericht vertretungsbefugt nur
 
 
 3.  Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte
-    Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des
-    Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nr. 2 und
-    3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr.
-    1 des Steuerberatungsgesetzes handeln, in Abgabenangelegenheiten,
+    Buchprüfer, Personen und Vereinigungen im Sinne der §§ 3a und 3c des
+    Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des
+    Steuerberatungsgesetzes, zu beschränkter geschäftsmäßiger
+    Hilfeleistung in Steuersachen nach den §§ 3d und 3e des
+    Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser
+    Befugnisse sowie Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3
+    des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz
+    2 des Steuerberatungsgesetzes handeln, in Abgabenangelegenheiten,
 
 
 3a. Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte
-    Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des
-    Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nummer 2
-    und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3
-    Nummer 1 des Steuerberatungsgesetzes handeln, in Angelegenheiten
-    finanzieller Hilfeleistungen im Rahmen staatlicher Hilfsprogramme zur
-    Abmilderung der Folgen der COVID-19-Pandemie, wenn und soweit diese
-    Hilfsprogramme eine Einbeziehung der Genannten als prüfende Dritte
-    vorsehen,
+    Buchprüfer, Personen und Vereinigungen im Sinne der §§ 3a und 3c des
+    Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des
+    Steuerberatungsgesetzes, zu beschränkter geschäftsmäßiger
+    Hilfeleistung in Steuersachen nach den §§ 3d und 3e des
+    Steuerberatungsgesetzes berechtigte Personen im Rahmen dieser
+    Befugnisse sowie Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3
+    des Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz
+    2 des Steuerberatungsgesetzes handeln, in Angelegenheiten finanzieller
+    Hilfeleistungen im Rahmen staatlicher Hilfsprogramme zur Abmilderung
+    der Folgen der COVID-19-Pandemie, wenn und soweit diese Hilfsprogramme
+    eine Einbeziehung der Genannten als prüfende Dritte vorsehen,
 
 
 4.  berufsständische Vereinigungen der Landwirtschaft für ihre Mitglieder,
@@ -2025,7 +2066,49 @@ Unanfechtbarkeit ausgesetzt.
 (2) Das Rechtsmittelgericht kann auf Antrag anordnen, daß die
 aufschiebende Wirkung fortdauert.
 
-(3) § 80 Abs. 5 bis 8 und § 80a gelten entsprechend.
+(3) § 80 Abs. 5 bis 8 und die §§ 80a und 80c gelten entsprechend.
+
+
+#### § 80c
+
+(1) In Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50
+Absatz 1 Nummer 6 gelten für die Anordnung oder Wiederherstellung der
+aufschiebenden Wirkung (§§ 80 und 80a) ergänzend die Absätze 2 bis 4.
+Von Satz 1 ausgenommen sind in § 48 Absatz 1 Satz 1 Nummer 6 das
+Anlegen von Verkehrsflughäfen und von Verkehrslandeplätzen mit
+beschränktem Bauschutzbereich sowie in § 48 Absatz 1 Satz 1 Nummer 13
+Planfeststellungsverfahren für Braunkohletagebaue.
+
+(2) Das Gericht kann einen Mangel des angefochtenen Verwaltungsaktes
+außer Acht lassen, wenn offensichtlich ist, dass dieser in absehbarer
+Zeit behoben sein wird. Ein solcher Mangel kann insbesondere sein
+
+1.  eine Verletzung von Verfahrens- oder Formvorschriften oder
+
+
+2.  ein Mangel bei der Abwägung im Rahmen der Planfeststellung oder der
+    Plangenehmigung.
+
+
+
+Das Gericht soll eine Frist zur Behebung des Mangels setzen.
+Verstreicht die Frist, ohne dass der Mangel behoben worden ist, gilt §
+80 Absatz 7 entsprechend. Satz 1 gilt grundsätzlich nicht für
+Verfahrensfehler gemäß § 4 Absatz 1 des Umwelt-Rechtsbehelfsgesetzes.
+
+(3) Entscheidet das Gericht im Rahmen einer Vollzugsfolgenabwägung,
+soll es die Anordnung oder Wiederherstellung der aufschiebenden
+Wirkung in der Regel auf diejenigen Maßnahmen des angefochtenen
+Verwaltungsaktes beschränken, bei denen dies erforderlich ist, um
+anderenfalls drohende irreversible Nachteile zu verhindern. Es kann
+die beschränkte Anordnung oder Wiederherstellung der aufschiebenden
+Wirkung von der Leistung einer Sicherheit durch den Begünstigten des
+angefochtenen Verwaltungsaktes abhängig machen.
+
+(4) Das Gericht hat im Rahmen einer Vollzugsfolgenabwägung die
+Bedeutung von Vorhaben besonders zu berücksichtigen, wenn ein
+Bundesgesetz feststellt, dass diese im überragenden öffentlichen
+Interesse liegen.
 
 
 ### 9. Abschnitt - Verfahren im ersten Rechtszug
@@ -2274,6 +2357,57 @@ werden, zurückweisen und ohne weitere Ermittlungen entscheiden, wenn
 Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu
 machen. Satz 1 gilt nicht, wenn es mit geringem Aufwand möglich ist,
 den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
+
+(4) Abweichend von Absatz 3 hat das Gericht in Verfahren nach § 48
+Absatz 1 Satz 1 Nummer 3 bis 15 und § 50 Absatz 1 Nummer 6 Erklärungen
+und Beweismittel, die erst nach Ablauf einer nach den Absätzen 1 und 2
+gesetzten Frist vorgebracht werden, zurückzuweisen und ohne weitere
+Ermittlungen zu entscheiden, wenn der Beteiligte
+
+1.  die Verspätung nicht genügend entschuldigt und
+
+
+2.  über die Folgen einer Fristversäumung belehrt worden ist.
+
+
+
+Absatz 3 Satz 2 und 3 gilt entsprechend.
+
+
+#### § 87c
+
+(1) Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50
+Absatz 1 Nummer 6 sollen vorrangig und beschleunigt durchgeführt
+werden. Dies gilt auch
+
+1.  für Verfahren nach § 47 Absatz 1 Nummer 1, wenn sie Bauleitpläne mit
+    Darstellungen oder Festsetzungen von Flächen für die in § 48 Absatz 1
+    Satz 1 Nummer 3, 3a, 3b oder 5 genannten Vorhaben zum Gegenstand haben
+    und
+
+
+2.  für Verfahren nach § 47 Absatz 1 Nummer 2, wenn sie Raumordnungspläne
+    mit Festlegungen von Gebieten zur Nutzung von Windenergie zum
+    Gegenstand haben.
+
+
+
+Besonders zu priorisieren sind Verfahren über Vorhaben, wenn ein
+Bundesgesetz feststellt, dass diese im überragenden öffentlichen
+Interesse liegen. Von Satz 1 ausgenommen sind in § 48 Absatz 1 Satz 1
+Nummer 6 das Anlegen von Verkehrsflughäfen und von
+Verkehrslandeplätzen mit beschränktem Bauschutzbereich sowie in § 48
+Absatz 1 Satz 1 Nummer 13 Planfeststellungsverfahren für
+Braunkohletagebaue.
+
+(2) In den in Absatz 1 genannten Verfahren soll der Vorsitzende oder
+der Berichterstatter in geeigneten Fällen die Beteiligten zu einem
+frühen ersten Termin zur Erörterung des Sach- und Streitstandes und
+zur gütlichen Beilegung des Rechtsstreits laden. Kommt es in diesem
+Termin nicht zu einer gütlichen Beilegung des Rechtsstreits, erörtert
+der Vorsitzende oder der Berichterstatter mit den Beteiligten den
+weiteren Ablauf des Verfahrens und die mögliche Terminierung der
+mündlichen Verhandlung.
 
 
 #### § 88
@@ -2571,7 +2705,7 @@ Vernehmung auch an diesen Ort übertragen.
 Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
 
 (4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
-87 Absatz 1 Satz 2 Nummer 1).
+87 Absatz 1 Satz 2 Nummer 1 und § 87c Absatz 2 Satz 1).
 
 
 #### § 103
@@ -3627,6 +3761,10 @@ unberührt.
 Staatskasse auferlegt werden, soweit sie nicht durch das Verschulden
 eines Beteiligten entstanden sind.
 
+(5) Soweit der Antragsteller allein auf Grund von § 80c Absatz 2
+unterliegt, fallen die Gerichtskosten dem obsiegenden Teil zur Last.
+Absatz 3 bleibt unberührt.
+
 
 #### § 155
 
@@ -3924,15 +4062,15 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
 einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
 die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
-ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
-Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
-sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des
-Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der
-Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im
-Sinne des § 1062 der Zivilprozeßordnung ist das zuständige
-Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung
-das zuständige Oberverwaltungsgericht.
+ausschließen. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das
+Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die
+Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der
+Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im
+Sinne des § 1065 der Zivilprozeßordnung das zuständige
+Oberverwaltungsgericht.
 
 
 ### § 174

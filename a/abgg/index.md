@@ -379,9 +379,9 @@ Aufsichtspersonen persönlich betreuen muss, führt die Nichteintragung
 in die Anwesenheitsliste nicht zu einer Kürzung der Kostenpauschale.
 Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der
 Auslegung an ersetzt durch Amtieren als Präsident oder als
-Schriftführer, durch protokollierte Wortmeldung in einer Sitzung, des
-Deutschen Bundestages durch Teilnahme an einer namentlichen Abstimmung
-oder einer Wahl mit Namensaufruf, durch Eintragung in die
+Schriftführer, durch protokollierte Wortmeldung in einer Sitzung des
+Deutschen Bundestages, durch Teilnahme an einer namentlichen
+Abstimmung oder einer Wahl mit Namensaufruf, durch Eintragung in die
 Anwesenheitsliste eines Ausschusses oder eines sonstigen Gremiums des
 Bundestages, durch Wortmeldungen in einem Ausschuss oder einem
 sonstigen Gremium des Bundestages, durch Eintragung in die
@@ -1911,11 +1911,6 @@ Deutschen Bundestag.
 
 
 ## Zwölfter Abschnitt - (weggefallen)
-
--
-
-
-### § 55 (weggefallen)
 
 -
 

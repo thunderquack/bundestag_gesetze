@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3250 (3431)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.11.2020 I 2349
-
-Änderung durch
-:   Art. 75 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 76 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 76 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel
@@ -84,9 +78,9 @@ Fassung zu gewähren. Für Folgen einer Wehrdienstbeschädigung, die
 während des laufenden Wehrdienstverhältnisses eingetreten sind, werden
 auch Leistungen nach § 15 des Bundesversorgungsgesetzes in der bis zum
 31\. Dezember 2023 geltenden Fassung und der Verordnung zur
-Durchführung des § 15 des Bundesversorgungsgesetzes in der bis zum 31.
-Dezember 2023 geltenden Fassung vom 31. Januar 1972 (BGBl. I S. 105)
-in der bis zum 31. Dezember 2023 geltenden Fassung gewährt.
+Durchführung des § 15 des Bundesversorgungsgesetzes vom 31. Januar
+1972 (BGBl. I S. 105) in der bis zum 31. Dezember 2023 geltenden
+Fassung gewährt.
 
 
 ### § 3 Verzicht auf unentgeltliche truppenärztliche Versorgung

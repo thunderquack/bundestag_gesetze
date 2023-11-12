@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2347
 
 Zuletzt geändert durch
-:   Art. 7 V v. 2.6.2016 I 1257
+:   Art. 8 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -61,7 +61,7 @@ ausüben, übertragen:
 –   Bundesanstalt für Straßenwesen,
 
 
-–   Bundesamt für Güterverkehr,
+–   Bundesamt für Logistik und Mobilität,
 
 
 –   Bundesamt für Seeschifffahrt und Hydrographie,

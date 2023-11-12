@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 2262, 2275
 
 Zuletzt geändert durch
-:   Art. 7 G v. 9.12.2020 I 2870
+:   Art. 2b G v. 19.7.2023 I Nr. 197
 
 
 ## § 1 Anspruch auf Abschläge
@@ -26,12 +26,12 @@ Krankenversicherung und den Trägern der Kosten in Krankheits-, Pflege-
 und Geburtsfällen nach beamtenrechtlichen Vorschriften für
 verschreibungspflichtige Arzneimittel, deren Kosten diese ganz oder
 teilweise erstattet haben, nach dem Anteil der Kostentragung Abschläge
-entsprechend § 130a Absatz 1, 1a, 2, 3, 3a und 3b des Fünften Buches
-Sozialgesetzbuch zu gewähren. Die Abschläge nach Satz 1 sind auch zu
-gewähren, wenn das Arzneimittel gemäß § 73 Absatz 1 Satz 1 Nummer 1a
-des Arzneimittelgesetzes in den Geltungsbereich dieses Gesetzes
-verbracht wurde. Dies gilt auch für sonstige Träger von Kosten in
-Krankheitsfällen, die diese im Rahmen einer Absicherung im
+entsprechend § 130a Absatz 1, 1a, 1b, 2, 3, 3a, 3b und 3d des Fünften
+Buches Sozialgesetzbuch zu gewähren. Die Abschläge nach Satz 1 sind
+auch zu gewähren, wenn das Arzneimittel gemäß § 73 Absatz 1 Satz 1
+Nummer 1a des Arzneimittelgesetzes in den Geltungsbereich dieses
+Gesetzes verbracht wurde. Dies gilt auch für sonstige Träger von
+Kosten in Krankheitsfällen, die diese im Rahmen einer Absicherung im
 Krankheitsfall tragen, durch die eine Versicherungspflicht nach § 193
 Absatz 3 Satz 1 des Versicherungsvertragsgesetzes und nach § 5 Absatz
 1 Nummer 13 des Fünften Buches Sozialgesetzbuch ausgeschlossen wird.

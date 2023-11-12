@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1133;
 
 Zuletzt geändert durch
-:   Art. 42 G v. 10.8.2021 I 3436
+:   Art. 7 Abs. 4 G v. 31.10.2022 I 1966
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -703,13 +703,8 @@ Stellung des Eintragungsantrags erteilte Vollmacht widerrufen wird,
 bedürfen der in § 37 Abs. 1 Satz 1 vorgeschriebenen Form.
 
 
-### § 40
+### § 40 (weggefallen)
 
-Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern
-Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass
-ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners
-gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des
-güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
 
 
 ### § 41

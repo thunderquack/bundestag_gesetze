@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2826
 
-Geändert durch
-:   Art. 178 V v. 19.6.2020 I 1328
+Zuletzt geändert durch
+:   Art. 14 G v. 17.7.2023 I Nr. 191
 
 
 ## § 1 Art und Gegenstand der Erhebung
@@ -669,7 +669,7 @@ folgenden Erhebungsmerkmalen erhoben:
 
 2.  für Arbeitslose und Arbeitsuchende:
 
-    a)  Bezug von Arbeitslosengeld und Arbeitslosengeld II,
+    a)  Bezug von Arbeitslosengeld und Bürgergeld,
 
 
     b)  Anlass der Arbeitssuche,
@@ -1510,4 +1510,12 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 
+
+
+## § 20 Übergangsregelung
+
+Die Erhebungen für die im Jahr 2022 liegenden Berichtswochen werden
+nach dem Mikrozensusgesetz vom 7. Dezember 2016 (BGBl. I S. 2826), das
+durch Artikel 178 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328)
+geändert worden ist, durchgeführt.
 

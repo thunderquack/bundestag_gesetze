@@ -1,5 +1,5 @@
 ---
-Title: Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+Title: Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 jurabk: StBGebV
 layout: default
 origslug: stbgebv
@@ -7,7 +7,7 @@ slug: stbgebv
 
 ---
 
-# Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBGebV)
+# Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften (StBGebV)
 
 Ausfertigungsdatum
 :   1981-12-17
@@ -15,14 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 1442
 
-Stand: Zukünftige amtl. Langüberschrift: Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften (ab 1.8.2022; 2021 I 2363)
 Zuletzt geändert durch
-:   Art. 30 G v. 7.7.2021 I 2363
-
-[^F014420981_01_BJNR014420981]:     Nichtamtlicher Hinweis: Die amtl. Langüberschrift wurde gem. Art. 30
-    Nr. 1 G v. 9.7.2021 I 2363 mWv 1.8.2022 wie folgt gefasst:
-    **Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und
-    Berufsausübungsgesellschaften**
+:   Art. 1 V v. 10.6.2022 I 877
 
 
 ## Eingangsformel
@@ -46,7 +40,7 @@ dieser Verordnung. Dies gilt für die Höhe der Vergütung nur, soweit
 nicht etwas anderes vereinbart wird.
 
 (2) Für die Vergütung der Steuerbevollmächtigten und der
-Steuerberatungsgesellschaften gelten die Vorschriften über die
+Berufsausübungsgesellschaften gelten die Vorschriften über die
 Vergütung der Steuerberater entsprechend.
 
 
@@ -122,9 +116,8 @@ Auftraggeber tätig, so erhält er die Gebühren nur einmal.
 (2) Jeder Auftraggeber schuldet dem Steuerberater die Gebühren und
 Auslagen, die er schulden würde, wenn der Steuerberater nur in seinem
 Auftrag tätig geworden wäre. Der Steuerberater kann aber insgesamt
-nicht mehr als die Gebühr nach Absatz 1 fordern, die in den Fällen des
-§ 40 Abs. 5 nach Maßgabe dieser Vorschrift zu berechnen ist; die
-Auslagen kann er nur einmal fordern.
+nicht mehr fordern als die nach Absatz 1 berechneten Gebühren und die
+insgesamt entstandenen Auslagen.
 
 
 ### § 7 Fälligkeit
@@ -160,8 +153,8 @@ Angabe des Gesamtbetrages.
 
 (3) Hat der Auftraggeber die Vergütung gezahlt, ohne die Berechnung
 erhalten zu haben, so kann er die Mitteilung der Berechnung noch
-fordern, solange der Steuerberater zur Aufbewahrung der Handakten
-verpflichtet ist.
+fordern, solange der Steuerberater zur Aufbewahrung der Handakten nach
+§ 66 des Steuerberatungsgesetzes verpflichtet ist.
 
 
 ## Zweiter Abschnitt - Gebührenberechnung
@@ -414,9 +407,8 @@ ist auf eine Gebühr anzurechnen, die der Steuerberater für eine
 sonstige Tätigkeit erhält, die mit der Raterteilung oder Auskunft
 zusammenhängt.
 
-(2) Wird ein Steuerberater, der mit der Angelegenheit noch nicht
-befasst gewesen ist, mit der Prüfung der Erfolgsaussicht eines
-Rechtsmittels beauftragt, ist für die Vergütung das
+(2) Wird ein Steuerberater mit der Prüfung der Erfolgsaussicht eines
+Rechtsmittels beauftragt, so ist für die Vergütung das
 Rechtsanwaltsvergütungsgesetz sinngemäß anzuwenden. Die Gebühren
 bestimmen sich nach Teil 2 Abschnitt 1 des Vergütungsverzeichnisses
 zum Rechtsanwaltsvergütungsgesetz.
@@ -647,15 +639,34 @@ Gebührenrahmen.
 *    *   11.
 
     *   der Erklärung zur Feststellung nach dem Bewertungsgesetz oder dem
-        Erbschaftsteuergesetzes
+        Erbschaftsteuer- und Schenkungsteuergesetz, vorbehaltlich der Nummer
+        11a,
 
     *
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
-        erklärte Wert, jedoch mindestens 25 000 Euro;
+        erklärte Wert, jedoch mindestens 25 000 Euro;
 
     *   1                       /20 bis
         18                       /20
+
+
+*    *   11a.
+
+    *   der Erklärung zur Feststellung oder Festsetzung für Zwecke der
+        Grundsteuer im Rahmen des ab dem Jahr 2025 anzuwendenden
+        Grundsteuerrechts
+
+    *
+
+*    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
+        Grundsteuerwert oder, sofern dessen Feststellung nicht vorgesehen ist,
+        der jeweilige Grundsteuermessbetrag dividiert durch die
+        Grundsteuermesszahl nach § 15 Absatz 1 Nummer 2 Buchstabe a des
+        Grundsteuergesetzes, jedoch jeweils mindestens 25 000 Euro;
+
+    *   1                       /20 bis
+        9                       /20
 
 
 *    *   12.

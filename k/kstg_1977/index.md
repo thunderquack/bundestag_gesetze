@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 25.6.2021 I 2056
+:   Art. 9 G v. 16.12.2022 I 2294
 
 
 ## Erster Teil - Steuerpflicht
@@ -360,13 +360,12 @@ Hoheitsbetrieb zusammengefasst werden.
     Investitionskreditbank Aktiengesellschaft, die Investitionsbank
     Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die
     Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die
-    Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank
-    - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz,
-    das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
-    Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und
-    Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
-    Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-
-    Konsortialbank Gesellschaft mit beschränkter Haftung;
+    Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank
+    Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern -
+    Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die
+    Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige
+    Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die
+    Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
 
 2a. die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
@@ -1949,6 +1948,8 @@ Voraussetzungen erfüllt sind:
     2                   Mittelbare Beteiligungen sind zu berücksichtigen,
     wenn die Beteiligung an jeder vermittelnden Gesellschaft die Mehrheit
     der Stimmrechte gewährt.
+    3                   Satz 2 gilt nicht, wenn bereits die unmittelbare
+    Beteiligung die Mehrheit der Stimmrechte gewährt.
 
 
 2.  1                   Organträger muss eine natürliche Person oder eine
@@ -2074,11 +2075,22 @@ Organträger in die Organgesellschaft zu behandeln.
 2             Mehrabführungen der Organgesellschaft, die ihre Ursache
 in organschaftlicher Zeit haben, gelten als Einlagenrückgewähr der
 Organgesellschaft an den Organträger.
-3             Minder- oder Mehrabführungen im Sinne der Sätze 1 und 2
+3             Die Einlage erhöht und die Einlagenrückgewähr mindert
+den Buchwert der Beteiligung an der Organgesellschaft; dabei darf
+dieser nicht negativ werden.
+4             In den Fällen des Absatzes 1 Satz 1 Nummer 1 Satz 2 ist
+Satz 3 auf den Buchwert der Beteiligung an jeder vermittelnden
+Gesellschaft entsprechend anzuwenden.
+5             Soweit die Einlagenrückgewähr die Summe aus Buchwert und
+Einlage übersteigt, liegt ein Ertrag vor, auf den die Regelungen des §
+8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes sowie § 3 Nummer 40
+Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes anzuwenden
+sind.
+6             Minder- oder Mehrabführungen im Sinne der Sätze 1 und 2
 liegen insbesondere vor, wenn der an den Organträger abgeführte Gewinn
 von dem Steuerbilanzgewinn der Organgesellschaft abweicht und diese
 Abweichung in organschaftlicher Zeit verursacht ist.
-4             Minder- und Mehrabführungen nach den Sätzen 1 und 2
+7             Minder- und Mehrabführungen nach den Sätzen 1 und 2
 gelten in dem Zeitpunkt als erfolgt, in dem das Wirtschaftsjahr der
 Organgesellschaft endet.
 
@@ -2721,19 +2733,18 @@ Einkommensteuergesetzes gewähren können.
 
 (8)
 1             Eine Einlagenrückgewähr können auch Körperschaften oder
-Personenvereinigungen erbringen, die in einem anderen Mitgliedstaat
-der Europäischen Union der unbeschränkten Steuerpflicht unterliegen,
-wenn sie Leistungen im Sinne des § 20 Abs. 1 Nr. 1 oder 9 des
-Einkommensteuergesetzes gewähren können.
+Personenvereinigungen erbringen, die nicht der unbeschränkten
+Steuerpflicht im Inland unterliegen, wenn sie Leistungen im Sinne des
+§ 20 Absatz 1 Nummer 1 oder 9 des Einkommensteuergesetzes gewähren
+können.
 2             Die Einlagenrückgewähr ist in entsprechender Anwendung
 der Absätze 1 bis 6 und der §§ 28 und 29 zu ermitteln.
-3             Der als Leistung im Sinne des Satzes 1 zu
-berücksichtigende Betrag wird auf Antrag der Körperschaft oder
-Personenvereinigung für den jeweiligen Veranlagungszeitraum gesondert
-festgestellt.
+3             Der als Einlagenrückgewähr zu berücksichtigende Betrag
+wird auf Antrag der Körperschaft oder Personenvereinigung für das
+jeweilige Wirtschaftsjahr gesondert festgestellt.
 4             Der Antrag ist nach amtlich vorgeschriebenem Vordruck
-bis zum Ende des Kalenderjahrs zu stellen, das auf das Kalenderjahr
-folgt, in dem die Leistung erfolgt ist.
+bis zum Ende des zwölften Monats zu stellen, der auf das Ende des
+Wirtschaftsjahres folgt, in dem die Leistung erfolgt ist.
 5             Zuständig für die gesonderte Feststellung ist die
 Finanzbehörde, die im Zeitpunkt der Abgabe des Antrags nach § 20 der
 Abgabenordnung für die Besteuerung nach dem Einkommen örtlich
@@ -2746,10 +2757,11 @@ Bundeszentralamt für Steuern zuständig.
 Einlagenrückgewähr erforderlichen Umstände darzulegen.
 8             In die Bescheinigung nach Absatz 3 ist das Aktenzeichen
 der nach Satz 5 oder 6 zuständigen Behörde aufzunehmen.
-9             Soweit Leistungen nach Satz 1 nicht gesondert
-festgestellt worden sind, gelten sie als Gewinnausschüttung, die beim
-Anteilseigner zu Einnahmen im Sinne des § 20 Abs. 1 Nr. 1 oder 9 des
-Einkommensteuergesetzes führen.
+9             Soweit für Leistungen nach Satz 1 oder
+Nennkapitalrückzahlungen eine Einlagenrückgewähr nicht gesondert
+festgestellt worden ist, gelten sie als Gewinnausschüttung, die beim
+Anteilseigner zu Einnahmen im Sinne des § 20 Absatz 1 Nummer 1 oder 9
+des Einkommensteuergesetzes führen.
 
 
 ### § 28 Umwandlung von Rücklagen in Nennkapital und Herabsetzung des Nennkapitals
@@ -3255,10 +3267,17 @@ Investitions- und Förderbank erstmals für den Veranlagungszeitraum
 bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische
 Wohnungsbaukreditanstalt letztmals für den Veranlagungszeitraum 2013
 anzuwenden.
-3             § 5 Absatz 1 Nummer 16 Satz 1 und 2 in der am 1. Januar
+3             § 5 Absatz 1 Nummer 2 ist für die Investitionsbank
+Sachsen-Anhalt erstmals für den Veranlagungszeitraum 2023 anzuwenden.
+4             Die Steuerbefreiung nach § 5 Absatz 1 Nummer 2 in der
+bis zum 20. Dezember 2022 geltenden Fassung ist für die
+Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank
+– Girozentrale – letztmalig für den Veranlagungszeitraum 2023
+anzuwenden.
+5             § 5 Absatz 1 Nummer 16 Satz 1 und 2 in der am 1. Januar
 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2015
 anzuwenden.
-4             § 5 Absatz 1 Nummer 24 in der am 31. Dezember 2014
+6             § 5 Absatz 1 Nummer 24 in der am 31. Dezember 2014
 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2014
 anzuwenden.
 
@@ -3388,40 +3407,60 @@ nach dem 31. Dezember 2021 erfolgen.
 6             Hinsichtlich des Zeitpunkts der Minder- und
 Mehrabführungen ist dabei auf das Ende des Wirtschaftsjahres der
 Organgesellschaft abzustellen.
-7             Beim Organträger sind noch bestehende Ausgleichsposten
-für organschaftliche Minder- und Mehrabführungen, die nach Maßgabe des
-§ 14 Absatz 4 in der am 31. Dezember 2021 geltenden Fassung in der
-Steuerbilanz gebildet wurden, in dem Wirtschaftsjahr aufzulösen, das
-nach dem 31. Dezember 2021 endet.
+7             Noch bestehende Ausgleichsposten für organschaftliche
+Minder- und Mehrabführungen, die nach Maßgabe des § 14 Absatz 4 in der
+am 31. Dezember 2021 geltenden Fassung in der Steuerbilanz gebildet
+wurden oder noch zu bilden sind, sind nach den zu berücksichtigenden
+organschaftlichen Minder- und Mehrabführungen im Sinne von § 14 Absatz
+4 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl.
+I S. 2050) zum Schluss des Wirtschaftsjahres aufzulösen, das nach dem
+31\. Dezember 2021 endet.
 8             Aktive Ausgleichsposten erhöhen, passive
 Ausgleichsposten mindern dabei den Buchwert der Beteiligung des
 Organträgers an der Organgesellschaft in der Steuerbilanz.
-9             Soweit ein passiver Ausgleichsposten die Summe aus dem
+9             Noch bestehende Ausgleichsposten sind für Zwecke der
+Sätze 7 und 8 zunächst durch Anwendung eines Angleichungsfaktors zu
+erhöhen, wenn die Beteiligungshöhe des Organträgers zum 31. Dezember
+2021 oder, falls die Organschaft zu diesem Zeitpunkt nicht mehr
+besteht, am Ende des letzten Wirtschaftsjahres der Organschaft,
+weniger als 100 Prozent am Nennkapital der Organgesellschaft betragen
+hat.
+10             Angleichungsfaktor ist der Kehrwert des
+durchschnittlichen Beteiligungsanteils des Organträgers bezogen auf
+das Nennkapital der Organgesellschaft an den Bilanzstichtagen der
+letzten fünf Wirtschaftsjahre.
+11             Das Produkt aus Angleichungsfaktor und Ausgleichsposten
+tritt für Zwecke der Sätze 7 und 8 jeweils an die Stelle der noch
+bestehenden Ausgleichsposten.
+12             Besteht das Organschaftsverhältnis weniger als fünf
+Wirtschaftsjahre, ist Satz 11 mit der Maßgabe anzuwenden, dass der
+entsprechend kürzere Zeitraum zugrunde zu legen ist.
+13             Soweit ein passiver Ausgleichsposten die Summe aus dem
 aktiven Ausgleichsposten und dem Buchwert der Beteiligung des
 Organträgers an der Organgesellschaft in der Steuerbilanz übersteigt,
 liegt ein Ertrag aus der Beteiligung an der Organgesellschaft vor.
-10             § 3 Nummer 40 Buchstabe c und § 3c Absatz 2 des
-Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 7 und 8 dieses
+14             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des
+Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses
 Gesetzes sind auf diesen Beteiligungsertrag anzuwenden.
-11             Bis zur Höhe des Betrages nach Satz 9 kann durch den
-Steuerpflichtigen eine den steuerlichen Gewinn mindernde Rücklage
-gebildet werden.
-12             Soweit diese Rücklage gebildet wird, sind § 3 Nummer 40
-Buchstabe c und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b
-Absatz 2, 3, 7 und 8 dieses Gesetzes auf den Ertrag nach Satz 9 nicht
-anzuwenden.
-13             Die Rücklage nach Satz 11 ist grundsätzlich im
+15             Bis zur Höhe des Beteiligungsertrags nach Satz 13 kann
+eine den steuerlichen Gewinn mindernde Rücklage gebildet werden.
+16             Soweit diese Rücklage gebildet wird, sind § 3 Nummer 40
+Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b
+Absatz 2, 3, 6, 7 und 8 dieses Gesetzes auf den Beteiligungsertrag
+nach Satz 13 nicht anzuwenden.
+17             Die Rücklage nach Satz 15 ist grundsätzlich im
 Wirtschaftsjahr der Bildung und in den neun folgenden
 Wirtschaftsjahren zu jeweils einem Zehntel gewinnerhöhend aufzulösen.
-14             Die Rücklage ist in vollem Umfang gewinnerhöhend
+18             Die Rücklage ist in vollem Umfang gewinnerhöhend
 aufzulösen, wenn die Beteiligung des Organträgers an der
-Organgesellschaft veräußert wird.
-15             Der Veräußerung gleichgestellt sind insbesondere die
+Organgesellschaft oder der vermittelnden Gesellschaft veräußert wird;
+bei einer teilweisen Veräußerung ist die Rücklage anteilig aufzulösen.
+19             Der Veräußerung gleichgestellt sind insbesondere die
 Umwandlung der Organgesellschaft auf eine Personengesellschaft oder
 eine natürliche Person, die verdeckte Einlage der Beteiligung an der
 Organgesellschaft und die Auflösung der Organgesellschaft.
-16             § 3 Nummer 40 Buchstabe c und § 3c Absatz 2 des
-Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 7 und 8 dieses
+20             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des
+Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses
 Gesetzes sind bei der Auflösung der Rücklage anzuwenden.
 
 (6f) § 15 in der Fassung des Artikels 6 des Gesetzes vom 11. Dezember
@@ -3488,9 +3527,10 @@ Einkunftsteile ist § 26 Absatz 2 Satz 1 in der am 31. Dezember 2014
 geltenden Fassung in allen Fällen anzuwenden, in denen die
 Körperschaftsteuer noch nicht bestandskräftig festgesetzt ist.
 
-(10) § 27 Absatz 1 Satz 6 in der Fassung des Artikels 3 Nummer 10 des
-Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) gilt letztmals für den
-Veranlagungszeitraum 2005.
+(10) § 27 Absatz 8 in der Fassung des Artikels 9 des Gesetzes vom
+16\. Dezember 2022 (BGBl. I S. 2294) ist erstmalig anzuwenden auf
+Leistungen und Nennkapitalrückzahlungen, die nach dem 31. Dezember
+2022 erbracht werden.
 
 (10a) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016
 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016

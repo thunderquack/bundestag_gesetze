@@ -74,7 +74,7 @@ verlangen, dass diese Bescheinigung zum Zeitpunkt ihrer Vorlage nicht
 des § 12 Absatz 4 sowie der §§ 17 und 46a Absatz 1 Satz 1 Nummer 1 der
 Bundesrechtsanwaltsordnung die §§ 6 bis 36, 46a bis 46c Absatz 1, 4
 und 5 der Bundesrechtsanwaltsordnung sinngemäß sowie die auf Grund von
-§ 31c der Bundesrechtsanwaltsordnung erlassene Rechtsverordnung.
+§ 31d der Bundesrechtsanwaltsordnung erlassene Rechtsverordnung.
 
 (2) Die Aufnahme in die Rechtsanwaltskammer ist auch dann zu
 widerrufen, wenn die Berechtigung zur Berufsausübung im Herkunftsstaat
@@ -118,7 +118,7 @@ verwendet werden.
 
 (1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer
 gelten die Vorschriften des Dritten, Vierten, Sechsten, Siebenten,
-Neunten bis Elften und Dreizehnten Teils der
+Neunten bis Elften und Dreizehnten Teils sowie § 207a der
 Bundesrechtsanwaltsordnung.
 
 (2) Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie nach den §§ 150
@@ -183,8 +183,8 @@ schuldhaft verursachten Schadens wird durch die Rechtsform eines
 Zusammenschlusses, dem er im Herkunftsstaat angehört, nur
 ausgeschlossen oder beschränkt, soweit eine
 Berufshaftpflichtversicherung oder Garantie besteht, die den
-Voraussetzungen des § 59j der Bundesrechtsanwaltsordnung entspricht. §
-7 gilt entsprechend.
+Voraussetzungen des der §§ 59n und 59o der Bundesrechtsanwaltsordnung
+entspricht. § 7 gilt entsprechend.
 
 (3) Der niedergelassene europäische Rechtsanwalt kann im Rechtsverkehr
 die Bezeichnung eines Zusammenschlusses zur gemeinschaftlichen
@@ -256,8 +256,6 @@ genannt ist.
 
 (4) In anwaltsgerichtlichen Verfahren hat das Gericht der zuständigen
 Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben.
-Personen, die diese beauftragt hat, ist der Zutritt zu
-nichtöffentlichen Verhandlungen gestattet.
 
 
 #### § 10 Zustellungen
@@ -746,13 +744,13 @@ Voraussetzungen für die Einrichtung vor, wird er nur zu diesem Zweck
 in das Verzeichnis der Rechtsanwaltskammer und das Gesamtverzeichnis
 der Bundesrechtsanwaltskammer eingetragen. Für die Eintragung in diese
 Verzeichnisse gilt § 31 Absatz 1 Satz 3, 5 und 6, Absatz 3 Nummer 1, 2
-und 5, Absatz 4 Satz 1 und 2 sowie Absatz 5 Satz 1 und 2 der
+und 5, Absatz 5 Satz 1 und 2 sowie Absatz 6 Satz 1 und 2 der
 Bundesrechtsanwaltsordnung sinngemäß mit der Maßgabe, dass an die
 Stelle der Beendigung der Mitgliedschaft in der Rechtsanwaltskammer
 der Verlust der Zulassung zur Rechtsanwaltschaft im Herkunftsstaat
 oder der Antrag auf Löschung des besonderen elektronischen
 Anwaltspostfachs tritt. Zudem gilt für die Eintragung in diese
-Verzeichnisse die auf Grund von § 31c der Bundesrechtsanwaltsordnung
+Verzeichnisse die auf Grund von § 31d der Bundesrechtsanwaltsordnung
 erlassene Rechtsverordnung.
 
 (2) Nach der Eintragung im Gesamtverzeichnis richtet die
@@ -760,7 +758,7 @@ Bundesrechtsanwaltskammer für den dienstleistenden europäischen
 Rechtsanwalt ein besonderes elektronisches Anwaltspostfach ein. § 31a
 Absatz 1 Satz 2, Absatz 2 bis 4 und 6 der Bundesrechtsanwaltsordnung
 gilt sinngemäß mit der Maßgabe nach Absatz 1 Satz 3. Zudem gilt die
-auf Grund von § 31c der Bundesrechtsanwaltsordnung erlassene
+auf Grund von § 31d der Bundesrechtsanwaltsordnung erlassene
 Rechtsverordnung.
 
 (3) Die Rechtsanwaltskammer kann zur Deckung des Verwaltungsaufwands
@@ -768,7 +766,7 @@ für die Einrichtung und den Betrieb des besonderen elektronischen
 Anwaltspostfachs von dem dienstleistenden europäischen Rechtsanwalt
 Gebühren nach festen Sätzen sowie Auslagen erheben. Sie bestimmt die
 Gebühren- und Auslagentatbestände sowie die Höhe und die Fälligkeit
-der Gebühren und Auslagen durch Satzung; § 192 Satz 2 der
+der Gebühren und Auslagen durch Satzung; § 192 Satz 2 und 3 der
 Bundesrechtsanwaltsordnung gilt entsprechend. Die Gebühren und
 Auslagen dürfen die von den Mitgliedern der Rechtsanwaltskammer für
 die Einrichtung und den Betrieb des besonderen elektronischen
@@ -777,7 +775,7 @@ Gebühren ist regelmäßig zu überprüfen. Die Satzung ist der
 Aufsichtsbehörde anzuzeigen. Für die Einziehung rückständiger Gebühren
 und Auslagen gilt § 84 der Bundesrechtsanwaltsordnung entsprechend. Ab
 dem in § 84 Absatz 2 der Bundesrechtsanwaltsordnung bezeichneten
-Zeitpunkt sind § 31 Absatz 5 Satz 1 und 2 und § 31a Absatz 4 der
+Zeitpunkt sind § 31 Absatz 6 Satz 1 und 2 und § 31a Absatz 4 der
 Bundesrechtsanwaltsordnung sinngemäß anwendbar.
 
 
@@ -1032,8 +1030,8 @@ Verfahrens aus der Sicht der übermittelnden Stelle erforderlich sind,
 den für die Einleitung dieser Verfahren zuständigen Stellen, soweit
 hierdurch schutzwürdige Interessen des Betroffenen nicht
 beeinträchtigt werden oder das öffentliche Interesse das
-Geheimhaltungsinteresse des Betroffenen überwiegt. § 36 Abs. 2 Satz 2
-der Bundesrechtsanwaltsordnung gilt entsprechend.
+Geheimhaltungsinteresse des Betroffenen überwiegt. § 36 Absatz 3 der
+Bundesrechtsanwaltsordnung gilt entsprechend.
 
 
 ## Teil 6 - Rechtsweg in verwaltungsrechtlichen Anwaltssachen und allgemeine Vorschriften für das Verwaltungsverfahren

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 20. 2.2004 I 318;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 24.5.2016 I 1217
+:   Art. 1 G v. 16.8.2023 I Nr. 218
 
 
 ## Abschnitt 1 - Allgemeine Vorschrift
@@ -329,9 +329,14 @@ Erhebungsmerkmale:
 
 
     d)  bei der Beförderung gefährlicher Güter die Gefahrklasse gemäß der
-        Richtlinie 94/55/EG des Rates vom 21. November 1994 und zusätzlich die
-        Angabe, ob die Güter dem § 7 der Gefahrgutverordnung Straße
-        unterliegen,
+        Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom
+        24\. September 2008 über die Beförderung gefährlicher Güter im
+        Binnenland (ABl. L 260 vom 30.9.2008, S. 13), die zuletzt durch die
+        Delegierte Richtlinie (EU) 2022/2407 der Kommission vom 20. September
+        2022 zur Anpassung der Anhänge der Richtlinie 2008/68/ EG des
+        Europäischen Parlaments und des Rates an den wissenschaftlichen und
+        technischen Fortschritt (ABl. L 317 vom 9.12.2022, S. 64) geändert
+        worden ist,
 
 
     e)  Gewicht des Gutes (Bruttogewicht in 100 Kilogramm je Güterart),
@@ -359,7 +364,10 @@ Erhebungsmerkmale:
     j)  Auslastungsgrad des Rauminhalts,
 
 
-    k)  im Transit durchquerte Länder.
+    k)  im Transit durchquerte Länder und
+
+
+    l)  Begründung bei Nichteinsatz des Fahrzeugs.
 
 
 
@@ -440,7 +448,7 @@ abgeschlossene Geschäftsjahr erhoben.
 
 
 (2) Zur Durchführung der Unternehmensstatistik des Güterkraftverkehrs
-nach § 1 Nr. 4 übermittelt die im Bundesamt für Güterverkehr
+nach § 1 Nr. 4 übermittelt die im Bundesamt für Logistik und Mobilität
 zuständige Stelle die von den Unternehmen des gewerblichen
 Güterkraftverkehrs und des Werkverkehrs mitgeteilten amtlichen
 Kennzeichen der Lastkraftfahrzeuge und Kraftfahrzeuganhänger dem
@@ -456,8 +464,8 @@ Beförderungsmonats sind beim Kraftfahrt-Bundesamt die
 Erhebungsunterlagen zur Erhebung nach § 1 Nr. 3 zu vernichten.
 
 (2) Jeweils spätestens ein Jahr nach dem Erhebungsstichtag sind beim
-Bundesamt für Güterverkehr die Erhebungsunterlagen zur Erhebung nach §
-1 Nr. 4 zu vernichten.
+Bundesamt für Logistik und Mobilität die Erhebungsunterlagen zur
+Erhebung nach § 1 Nr. 4 zu vernichten.
 
 
 ## Abschnitt 4 - Statistik des Luftverkehrs
@@ -594,7 +602,8 @@ Personennahverkehr mit Eisenbahnen oder Straßenbahnen
 Omnibussen betreiben, und zwar bei
 
 1.  Unternehmen, die mindestens 250.000 Fahrgäste im Jahr befördert haben,
-    nach § 17 Abs. 1,
+    sowie allen Unternehmen mit gewerblichem Schienennahverkehr nach § 17
+    Abs. 1,
 
 
 2.  höchstens 2.500 Unternehmen, die weniger als 250.000 Fahrgäste im Jahr
@@ -605,8 +614,15 @@ Omnibussen betreiben, und zwar bei
 
 
 
-Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt
-sich nach den Ergebnissen der Erhebung nach Satz 1 Nr. 3.
+Ausgenommen von der Erhebung sind Unternehmen, die ausschließlich
+freigestellten Schülerverkehr gemäß § 1 Satz 1 Nummer 4 Buchstabe d
+der Freistellungs-Verordnung betreiben. Für Unternehmen, die
+ausschließlich Omnibusverkehr betreiben und die nach einer Erhebung
+gemäß § 17 Absatz 3 neugegründet werden, wird das Erreichen der
+Schwellenwerte gemäß Satz 1 Nummer 1 und 2 durch eine Vorbefragung
+ermittelt. Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht
+sind, beurteilt sich nach den Ergebnissen der Erhebung nach Satz 1 Nr.
+3\.
 
 (2) Die Erhebung nach § 1 Nr. 8 wird durchgeführt bei Unternehmen, die
 Schienen-Personenfernverkehr betreiben.
@@ -627,10 +643,23 @@ Verkehrs betreiben, und zwar bei
 
 
 
-(4) Die Erhebungen nach § 1 Nr. 10 und 11 werden durchgeführt bei
-Unternehmen, die Schienenstrecken des öffentlichen Verkehrs betreiben.
+(4) Die Erhebung nach § 1 Nummer 10 wird durchgeführt bei Unternehmen,
+die Schienenstrecken des öffentlichen Verkehrs betreiben.
 
-(5) Die Erhebung nach § 1 Nr. 12 wird durchgeführt bei Unternehmen,
+(5) Die Erhebung nach § 1 Nummer 11 wird durchgeführt bei Unternehmen,
+die Schienenstrecken des öffentlichen Verkehrs betreiben, soweit sie
+vom Geltungsbereich der Richtlinie (EU) 2016/798 des Europäischen
+Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit
+(ABl. L 138 vom 26.5.2016, S. 102; L 59 vom 7.3.2017, S. 41; L 110 vom
+30\.4.2018, S. 141; L 317 vom 9.12.2019, S. 114), die zuletzt durch die
+Verordnung (EU) 2020/1530 des Europäischen Parlaments und des Rates
+vom 21. Oktober 2020 zur Änderung der Richtlinie (EU) 2016/798
+hinsichtlich der Anwendung von Vorschriften für die
+Eisenbahnsicherheit und -interoperabilität in der festen Ärmelkanal-
+Verbindung (ABl. L 352 vom 22.10.2020, S. 1) geändert worden ist,
+ausgenommen sind.
+
+(6) Die Erhebung nach § 1 Nr. 12 wird durchgeführt bei Unternehmen,
 die Eisenbahnstrecken des öffentlichen Verkehrs betreiben.
 
 
@@ -895,7 +924,7 @@ Berichtsjahres erfasst.
 
 ### § 21 Schienenverkehrsunfallstatistik
 
-Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Abs. 4 erfasst
+Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Absatz 5 erfasst
 jährlich für Verkehrsunfälle auf Schienenstrecken des öffentlichen
 Verkehrs, an denen mindestens ein bewegtes - beim Zusammenprall auch
 haltendes - Schienenfahrzeug im Fahrbetrieb beteiligt war, folgende
@@ -1027,7 +1056,7 @@ Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
     Personenkraftwagen, für die Erhebungen nach § 1 Nr. 3 und 4.
 
 
-10. Datum des Fluges für die Erhebung nach § 1 Nr. 5.
+10. (weggefallen)
 
 
 
@@ -1161,8 +1190,7 @@ jeweils für die Erhebung zuständige statistische Amt mit den
 Auskunftspflichtigen eine Sonderregelung über die Datenübermittlung
 vereinbart hat.
 
-(4) Die Datenübermittlung erfolgt in elektronischer Form, soweit dies
-für die beteiligte Stelle zumutbar ist.
+(4) (weggefallen)
 
 
 ### § 27 Durchführung
@@ -1186,14 +1214,14 @@ Bundesamt durchgeführt.
 
 (3) Die Erhebung nach § 1 Nr. 4 in Verbindung mit § 8
 (Unternehmensstatistik des Güterkraftverkehrs) wird vom Bundesamt für
-Güterverkehr durchgeführt.
+Logistik und Mobilität durchgeführt.
 
 (4) Die Erhebungen nach § 1 Nr. 3 und 4 werden hinsichtlich der
 methodischen Fragen im Benehmen mit dem Statistischen Bundesamt
 durchgeführt.
 
 (5) Die Erhebungen nach § 1 Nr. 3 und 4 werden im Kraftfahrt-Bundesamt
-und im Bundesamt für Güterverkehr in Organisationseinheiten
+und im Bundesamt für Logistik und Mobilität in Organisationseinheiten
 durchgeführt, die räumlich, organisatorisch und personell von anderen
 Aufgabenbereichen der Bundesämter getrennt sind. Die in diesen
 Organisationseinheiten tätigen Personen müssen Amtsträger oder für den
@@ -1215,7 +1243,7 @@ Länder dem Statistischen Bundesamt.
 gegenüber den gesetzgebenden Körperschaften und für Zwecke der
 Planung, nicht jedoch zur Regelung von Einzelfällen, vom Statistischen
 Bundesamt, den statistischen Ämtern der Länder, dem Kraftfahrt-
-Bundesamt und dem Bundesamt für Güterverkehr Tabellen mit
+Bundesamt und dem Bundesamt für Logistik und Mobilität Tabellen mit
 statistischen Ergebnissen aus den Erhebungen nach § 1 Nr. 1 bis 12
 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall
 ausweisen. Zur Vorbereitung von Planungs- und Gesetzgebungsverfahren
@@ -1227,12 +1255,12 @@ Tabellen nur für die Zwecke verwenden, für die sie übermittelt worden
 sind. Sie sind, soweit es sich nicht um offenkundige Tatsachen
 handelt, von den Gutachtern geheim zu halten. Die Übermittlungen sind
 vom Statistischen Bundesamt, vom Kraftfahrt-Bundesamt und vom
-Bundesamt für Güterverkehr nach Maßgabe des § 16 Abs. 9 des
+Bundesamt für Logistik und Mobilität nach Maßgabe des § 16 Abs. 9 des
 Bundesstatistikgesetzes aufzuzeichnen. Die Aufzeichnungen sind
 mindestens fünf Jahre aufzubewahren.
 
-(2) Das Bundesamt für Güterverkehr und das Kraftfahrt-Bundesamt
-übermitteln dem Statistischen Bundesamt auf Ersuchen aus den
+(2) Das Bundesamt für Logistik und Mobilität und das Kraftfahrt-
+Bundesamt übermitteln dem Statistischen Bundesamt auf Ersuchen aus den
 Erhebungen nach § 1 Nr. 3 und 4 Einzelangaben in der angeforderten
 sachlichen und regionalen Gliederungstiefe, soweit dies für die
 methodische Weiterentwicklung der Statistiken
@@ -1249,8 +1277,8 @@ erforderlich ist.
     Verbindung mit § 7 (Güterkraftverkehrsstatistik),
 
 
-2.  das Bundesamt für Güterverkehr die Ergebnisse der Erhebung nach § 1
-    Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des
+2.  das Bundesamt für Logistik und Mobilität die Ergebnisse der Erhebung
+    nach § 1 Nr. 4 in Verbindung mit § 8 (Unternehmensstatistik des
     Güterkraftverkehrs).
 
 
@@ -1303,7 +1331,7 @@ anzuordnen.
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 23 Abs. 1 des Bundesstatistikgesetzes das
-Bundesamt für Güterverkehr, soweit Auskunftspflichten nach § 26 Abs. 1
-Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 für die Statistiken nach § 1 Nr.
-3 und 4 betroffen sind.
+Bundesamt für Logistik und Mobilität, soweit Auskunftspflichten nach §
+26 Abs. 1 Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 für die Statistiken
+nach § 1 Nr. 3 und 4 betroffen sind.
 

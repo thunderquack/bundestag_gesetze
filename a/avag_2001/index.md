@@ -18,7 +18,10 @@ Fundstelle
 :   BGBl I: 2001, 288 (436)
 
 Neugefasst durch
-:   Bek. v. 30.11.2015 I 2146
+:   Bek. v. 30.11.2015 I 2146;
+
+Geändert durch
+:   Art. 1 G v. 7.11.2022 I 1982; 2023 I Nr. 216
 
 
 ## Teil 1 - Allgemeines
@@ -75,7 +78,12 @@ Neugefasst durch
 
 
     b)  Haager Übereinkommen vom 30. Juni 2005 über
-        Gerichtsstandsvereinbarungen.
+        Gerichtsstandsvereinbarungen;
+
+
+    c)  Haager Übereinkommen vom 2. Juli 2019 über die Anerkennung und
+        Vollstreckung ausländischer Entscheidungen in Zivil- und
+        Handelssachen.
 
 
 
@@ -1129,9 +1137,31 @@ des Haager Übereinkommens vom 30. Juni 2005 über
 Gerichtsstandsvereinbarungen werden von dem Gericht ausgestellt, dem
 die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
+(2) Die Entscheidung über die Ausstellung einer Bescheinigung nach
+Artikel 13 Absatz 1 Buchstabe e oder Absatz 3 des Haager
+Übereinkommens vom 30. Juni 2005 über Gerichtsstandsvereinbarungen ist
+anfechtbar. Hierfür gelten die Vorschriften über die Anfechtbarkeit
+der Entscheidung über die Erteilung der Vollstreckungsklausel
+sinngemäß.
+
+
+### Abschnitt 8 - Haager Übereinkommen vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen
+
+
+
+#### § 59 Bescheinigungen zu inländischen Titeln
+
+(1) Bescheinigungen nach Artikel 12 Absatz 1 Buchstabe d und Absatz 3
+des Haager Übereinkommens vom 2. Juli 2019 über die Anerkennung und
+Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen
+werden von dem Gericht ausgestellt, dem die Erteilung einer
+vollstreckbaren Ausfertigung des Titels obliegt.
+
 (2) Die Entscheidung über die Ausstellung der Bescheinigung nach
-Artikel 13 Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über
-Gerichtsstandsvereinbarungen ist anfechtbar. Hierfür gelten die
-Vorschriften über die Anfechtbarkeit der Entscheidung über die
-Erteilung der Vollstreckungsklausel sinngemäß.
+Artikel 12 Absatz 1 Buchstabe d oder Absatz 3 des Haager
+Übereinkommens vom 2. Juli 2019 über die Anerkennung und Vollstreckung
+ausländischer Entscheidungen in Zivil- und Handelssachen ist
+anfechtbar. Hierfür gelten die Vorschriften über die Anfechtbarkeit
+der Entscheidung über die Erteilung der Vollstreckungsklausel
+sinngemäß.
 

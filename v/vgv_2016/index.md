@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 624
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.6.2021 I 1691
+:   Art. 1 V v. 17.8.2023 I Nr. 222
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/24/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
@@ -112,8 +112,7 @@ vergeben, bleibt unberührt.
 (7) Kann das beabsichtigte Bauvorhaben oder die vorgesehene Erbringung
 einer Dienstleistung zu einem Auftrag führen, der in mehreren Losen
 vergeben wird, ist der geschätzte Gesamtwert aller Lose zugrunde zu
-legen. Bei Planungsleistungen gilt dies nur für Lose über gleichartige
-Leistungen. Erreicht oder überschreitet der geschätzte Gesamtwert den
+legen. Erreicht oder überschreitet der geschätzte Gesamtwert den
 maßgeblichen Schwellenwert, gilt diese Verordnung für die Vergabe
 jedes Loses.
 
@@ -408,7 +407,7 @@ zuständigen Aufsichts-oder Prüfbehörden auf deren Anforderung hin zu
 (6) § 5 bleibt unberührt.
 
 
-### Unterabschnitt 2 - Kommunikation
+### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
 
 
 #### § 9 Grundsätze der Kommunikation
@@ -478,6 +477,94 @@ gemäß § 3 Absatz 1 des Vertrags über die Errichtung des IT-
 Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz
 der Informationstechnologie in den Verwaltungen von Bund und Ländern
 vom 1. April 2010 zu verwenden.
+
+
+#### § 10a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+
+(1) Auftragsbekanntmachungen, Vorinformationen,
+Vergabebekanntmachungen und Bekanntmachungen über Auftragsänderungen
+(Bekanntmachungen) sind elektronisch nach den Vorgaben der
+Durchführungsverordnung (EU) 2019/1780 zu erstellen. Sofern nicht
+aufgrund von Absatz 3 Satz 2 oder Absatz 4 etwas anderes geregelt ist,
+sind die Angaben zu den in Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 für die Bekanntmachungen als
+fakultativ gekennzeichneten Angaben freiwillig.
+
+(2) Für Bekanntmachungen haben öffentliche Auftraggeber den
+Datenaustauschstandard eForms in der jeweils geltenden Fassung zu
+verwenden. Der Datenaustauschstandard eForms wird vom
+Bundesministerium des Innern und für Heimat im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Klimaschutz festgelegt und
+unverzüglich im Bundesanzeiger bekannt gemacht. Soweit für die Inhalte
+von Datenfeldern des Datenaustauschstandards eForms weitere oberste
+Bundesbehörden fachlich zuständig sind, ist die Festlegung dieser
+Datenfelder vor ihrer Bekanntmachung jeweils auch mit ihnen
+abzustimmen.
+
+(3) Im Datenaustauschstandard eForms können die Vorgaben der
+Durchführungsverordnung (EU)
+2019/1780              für die Inhalte bestimmter Angaben in der
+Bekanntmachung konkretisiert werden. Einzelne der in Tabelle 2 des
+Anhangs der Durchführungsverordnung (EU) 2019/1780 als fakultativ
+gekennzeichnete Angaben können im Datenaustauschstandard eForms für
+bestimmte Bekanntmachungen für verpflichtend oder als nicht erfassbar
+erklärt werden, sofern dies aus technischen Gründen oder aufgrund der
+Anforderungen nach Absatz 4 erforderlich ist. Änderungen des
+Datenaustauschstandards eForms werden vom Bundesministerium des Innern
+und für Heimat im Einvernehmen mit dem Bundeministerium für Wirtschaft
+und Klimaschutz festgelegt und im Bundesanzeiger bekannt gemacht.
+Absatz 2 Satz 3 gilt entsprechend. Bei jeder Änderung sind das Datum
+der Bekanntmachung im Bundesanzeiger und das Datum, ab dem der
+geänderte Datenaustauschstandard eForms anzuwenden ist, anzugeben.
+
+(4) In Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+2019/1780 als fakultativ gekennzeichnete Datenfelder sind für
+öffentliche Auftraggeber unbeschadet der Vorgaben des
+Datenaustauschstandards eForms nach Absatz 3 Satz 2 verpflichtend,
+soweit sie strategische Aspekte der Beschaffung betreffen.
+Strategische Aspekte der Beschaffung im Sinne des Satzes 1 sind:
+
+1.  Aspekte der Qualität und der Innovation, einschließlich der Angabe, ob
+    Nebenangebote zugelassen sind,
+
+
+2.  soziale und umweltbezogene Aspekte, einschließlich der Datenfelder für
+    die Beschaffung sauberer Straßenfahrzeuge,
+
+
+3.  wesentliche Aspekte der Zuschlagskriterien,
+
+
+4.  mittelständische Interessen sowie
+
+
+5.  die Identifizierung der Organisationseinheiten.
+
+
+
+Die betroffenen Datenfelder sind im Datenaustauschstandard eForms als
+verpflichtende Datenfelder aufzunehmen.
+
+(5) Bekanntmachungen sind dem Amt für Veröffentlichungen der
+Europäischen Union elektronisch über den Datenservice Öffentlicher
+Einkauf zu übermitteln. Der Datenservice Öffentlicher Einkauf ist beim
+Beschaffungsamt des BMI eingerichtet und wird dort betrieben. Die über
+den Datenservice Öffentlicher Einkauf an das Amt für
+Veröffentlichungen der Europäischen Union übermittelten
+Bekanntmachungen werden auch über den Bekanntmachungsservice des
+Datenservice Öffentlicher Einkauf veröffentlicht und frei zugänglich
+zur Verfügung gestellt. Das Beschaffungsamt des BMI trifft die
+erforderlichen technischen und organisatorischen Maßnahmen, um die
+Verfügbarkeit, die Integrität, die Authentizität und die
+Vertraulichkeit der im Datenservice Öffentlicher Einkauf verarbeiteten
+personenbezogenen Daten entsprechend dem jeweiligen Stand der Technik
+sicherzustellen.
+
+(6) Die Absätze 1 bis 5 gelten mit Blick auf § 7 Absatz 4 der
+Unterschwellenvergabeordnung nicht für die Vergabe von öffentlichen
+Aufträgen, deren geschätzter Auftragswert ohne Umsatzsteuer die
+Schwellenwerte gemäß § 106 des Gesetzes gegen
+Wettbewerbsbeschränkungen nicht erreicht.
 
 
 #### § 11 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
@@ -1288,17 +1375,14 @@ Zeitraum es betrieben wird.
 wie folgt über eine Änderung der Gültigkeitsdauer:
 
 1.  Wird die Gültigkeitsdauer ohne Einstellung des dynamischen
-    Beschaffungssystems geändert, ist das Muster gemäß Anhang II der
-    Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11. November
-    2015 zur Einführung von Standardformularen für die Veröffentlichung
-    von Vergabebekanntmachungen für öffentliche Aufträge und zur Aufhebung
-    der Durchführungsverordnung (EU) Nr. 842/2011 (ABl. L 296 vom
-    12\.11.2015, S. 1) in der jeweils geltenden Fassung zu verwenden.
+    Beschaffungssystems geändert, erfolgt dies nach den Vorgaben der
+    Spalte 38 in Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+    2019/1780 in Verbindung mit § 10a.
 
 
-2.  Wird das dynamische Beschaffungssystem eingestellt, ist das Muster
-    gemäß Anhang III der Durchführungsverordnung (EU) 2015/1986 zu
-    verwenden.
+2.  Wird das dynamische Beschaffungssystem eingestellt, erfolgt dies nach
+    den Vorgaben der Spalte 29 in Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a.
 
 
 
@@ -1909,15 +1993,16 @@ Auftraggeber kann dem Bewerber oder Bieter dafür eine Frist setzen.
 ### Unterabschnitt 4 - Veröffentlichungen, Transparenz
 
 
-#### § 37 Auftragsbekanntmachung; Beschafferprofil
+#### § 37 Auftragsbekanntmachung; Beschafferprofil; Ex-ante-Transparenz
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen
 öffentlichen Auftrag zu vergeben oder eine Rahmenvereinbarung
 abzuschließen, in einer Auftragsbekanntmachung mit. § 17 Absatz 5 und
 § 38 Absatz 4 bleiben unberührt.
 
-(2) Die Auftragsbekanntmachung wird nach dem Muster gemäß Anhang II
-der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(2) Die Auftragsbekanntmachung wird nach den Vorgaben der Spalte 16
+der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780
+in Verbindung mit § 10a erstellt.
 
 (3) Der öffentliche Auftraggeber benennt in der Auftragsbekanntmachung
 die Vergabekammer, an die sich die Unternehmen zur Nachprüfung geltend
@@ -1932,30 +2017,40 @@ relevanten Informationen wie zum Beispiel Kontaktstelle, Anschrift,
 E-Mail-Adresse, Telefon- und Telefaxnummer des öffentlichen
 Auftraggebers.
 
+(5) Die freiwillige Ex-ante-Transparenzbekanntmachung im Sinne des §
+135 Absatz 3 Satz 1 Nummer 2 und Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen erfolgt nach den Vorgaben der Spalte 25 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a.
+
 
 #### § 38 Vorinformation
 
 (1) Der öffentliche Auftraggeber kann die Absicht einer geplanten
-Auftragsvergabe mittels Veröffentlichung einer Vorinformation nach dem
-Muster gemäß Anhang I der Durchführungsverordnung (EU) 2015/1986
+Auftragsvergabe mittels Veröffentlichung einer Vorinformation nach den
+Vorgaben der Spalte 4 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a
 bekanntgeben.
 
 (2) Die Vorinformation kann an das Amt für Veröffentlichungen der
-Europäischen Union versandt oder im Beschafferprofil veröffentlicht
-werden. Veröffentlicht der öffentliche Auftraggeber eine
-Vorinformation im Beschafferprofil, übermittelt er die Mitteilung
-dieser Veröffentlichung dem Amt für Veröffentlichungen der
-Europäischen Union nach dem Muster gemäß Anhang VIII der
-Durchführungsverordnung (EU) 2015/1986.
+Europäischen Union über den Datenservice Öffentlicher Einkauf versandt
+oder im Beschafferprofil veröffentlicht werden. Veröffentlicht der
+öffentliche Auftraggeber eine Vorinformation im Beschafferprofil,
+übermittelt er die Mitteilung dieser Veröffentlichung dem Amt für
+Veröffentlichungen der Europäischen Union über den Datenservice
+Öffentlicher Einkauf nach den Vorgaben der Spalte 1 der Tabelle 2 des
+Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit §
+10a.
 
 (3) Hat der öffentliche Auftraggeber eine Vorinformation gemäß Absatz
 1 veröffentlicht, kann die Mindestfrist für den Eingang von Angeboten
 im offenen Verfahren auf 15 Tage und im nicht offenen Verfahren oder
 Verhandlungsverfahren auf zehn Tage verkürzt werden, sofern
 
-1.  die Vorinformation alle nach Anhang I der Durchführungsverordnung (EU)
-    2015/1986 geforderten Informationen enthält, soweit diese zum
-    Zeitpunkt der Veröffentlichung der Vorinformation vorlagen, und
+1.  die Vorinformation alle nach Spalte 7 der Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 geforderten Informationen
+    enthält, soweit diese zum Zeitpunkt der Veröffentlichung der
+    Vorinformation vorlagen, und
 
 
 2.  die Vorinformation wenigstens 35 Tage und nicht mehr als zwölf Monate
@@ -1984,8 +2079,9 @@ die Vorinformation
     (Interessensbekundung),
 
 
-4.  alle nach Anhang I der Durchführungsverordnung (EU) 2015/1986
-    geforderten Informationen enthält und
+4.  alle nach Spalte 10 der Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 geforderten Informationen
+    enthält und
 
 
 5.  wenigstens 35 Tage und nicht mehr als zwölf Monate vor dem Zeitpunkt
@@ -2019,10 +2115,11 @@ Amt für Veröffentlichungen der Europäischen Union.
 der Vergabe eines öffentlichen Auftrags oder nach dem Abschluss einer
 Rahmenvereinbarung eine Vergabebekanntmachung mit den Ergebnissen des
 Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen
-Union.
+Union über den Datenservice Öffentlicher Einkauf.
 
-(2) Die Vergabebekanntmachung wird nach dem Muster gemäß Anhang III
-der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(2) Die Vergabebekanntmachung wird nach den Vorgaben der Spalte 29 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a erstellt.
 
 (3) Ist das Vergabeverfahren durch eine Vorinformation in Gang gesetzt
 worden und hat der öffentliche Auftraggeber beschlossen, keine weitere
@@ -2040,9 +2137,9 @@ werden.
 
 (5) Auftragsänderungen gemäß § 132 Absatz 2 Nummer 2 und 3 des
 Gesetzes gegen Wettbewerbsbeschränkungen sind gemäß § 132 Absatz 5 des
-Gesetzes gegen Wettbewerbsbeschränkungen unter Verwendung des Musters
-gemäß Anhang XVII der Durchführungsverordnung (EU) 2015/1986
-bekanntzumachen.
+Gesetzes gegen Wettbewerbsbeschränkungen unter Verwendung der Vorgaben
+der Spalte 38 in Tabelle 2 des Anhangs der Durchführungsverordnung
+(EU) 2019/1780 in Verbindung mit § 10a bekanntzumachen.
 
 (6) Der öffentliche Auftraggeber ist nicht verpflichtet, einzelne
 Angaben zu veröffentlichen, wenn deren Veröffentlichung
@@ -2066,11 +2163,9 @@ würde.
 
 #### § 40 Veröffentlichung von Bekanntmachungen
 
-(1) Auftragsbekanntmachungen, Vorinformationen,
-Vergabebekanntmachungen und Bekanntmachungen über Auftragsänderungen
-(Bekanntmachungen) sind dem Amt für Veröffentlichungen der
-Europäischen Union mit elektronischen Mitteln zu übermitteln. Der
-öffentliche Auftraggeber muss den Tag der Absendung nachweisen können.
+(1) Der öffentliche Auftraggeber muss den Tag der Absendung der
+Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen
+Union nachweisen können.
 
 (2) Bekanntmachungen werden durch das Amt für Veröffentlichungen der
 Europäischen Union veröffentlicht. Als Nachweis der Veröffentlichung
@@ -3241,10 +3336,12 @@ Vergabebekanntmachungen quartalsweise bündeln. In diesem Fall
 versendet er die Zusammenstellung spätestens 30 Tage nach
 Quartalsende.
 
-(4) Für die Bekanntmachungen nach den Absätzen 1 bis 3 ist das Muster
-gemäß Anhang XVIII der Durchführungsverordnung (EU) 2015/1986 zu
-verwenden. Die Veröffentlichung der Bekanntmachungen erfolgt gemäß §
-40\.
+(4) Die Auftragsbekanntmachung nach Absatz 1 erfolgt nach den Vorgaben
+der Spalte 20, die Bekanntmachung der Vorinformation nach Absatz 2
+nach den Vorgaben der Spalte 12 und die Vergabebekanntmachung nach
+Absatz 3 nach den Vorgaben der Spalte 33 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 jeweils in Verbindung mit §
+10a. Die Veröffentlichung der Bekanntmachungen erfolgt gemäß § 40.
 
 
 ## Abschnitt 4 - Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen
@@ -3344,9 +3441,10 @@ dieses Abschnitts an.
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen
 Planungswettbewerb auszurichten, in einer Wettbewerbsbekanntmachung
-mit. Die Wettbewerbsbekanntmachung wird nach dem Muster gemäß Anhang
-IX der Durchführungsverordnung (EU) 2015/1986 erstellt. § 40 ist
-entsprechend anzuwenden.
+mit. Die Wettbewerbsbekanntmachung wird nach den Vorgaben der Spalte
+23 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+2019/1780 in Verbindung mit § 10a erstellt. § 40 ist entsprechend
+anzuwenden.
 
 (2) Beabsichtigt der öffentliche Auftraggeber im Anschluss an einen
 Planungswettbewerb einen Dienstleistungsauftrag im
@@ -3357,9 +3455,10 @@ Wettbewerbsbekanntmachung anzugeben.
 
 (3) Die Ergebnisse des Planungswettbewerbs sind bekanntzumachen und
 innerhalb von 30 Tagen an das Amt für Veröffentlichungen der
-Europäischen Union zu übermitteln. Die Bekanntmachung wird nach dem
-Muster gemäß Anhang X der Durchführungsverordnung (EU) 2015/1986
-erstellt.
+Europäischen Union über den Datenservice Öffentlicher Einkauf zu
+übermitteln. Die Bekanntmachung wird nach den Vorgaben der Spalte 36
+der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780
+in Verbindung mit § 10a erstellt.
 
 (4) § 39 Absatz 6 gilt entsprechend.
 
@@ -3626,6 +3725,50 @@ Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
 Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 (ABl. L 124 vom 8.6.1971, S. 1).
+
+
+### § 83 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+
+(1) Bis zum Ablauf des sich nach Absatz 2 ergebenden Tages sind
+
+1.  § 10a Absatz 1, Absatz 2 Satz 1 und Absatz 3 bis 6 nicht anzuwenden
+    und
+
+
+2.  die §§ 23, 37, 38, 39, 40, 66 und 70 in ihrer am 23. August 2023
+    geltenden Fassung weiter anzuwenden.
+
+
+
+
+(2) Maßgeblicher Tag im Sinne des Absatzes 1 ist der Tag, an dem
+
+1.  das Bundesministerium des Innern und für Heimat im Einvernehmen mit
+    dem Bundesministerium für Wirtschaft und Klimaschutz den
+    Datenaustauschstandard eForms entsprechend § 10a Absatz 2 Satz 2
+    festgelegt und im Bundesanzeiger bekanntgemacht hat und
+
+
+2.  das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen
+    mit dem Bundesministerium des Innern und für Heimat festgestellt und
+    im Bundesanzeiger bekanntgemacht hat, dass
+
+    a)  die Voraussetzungen für die elektronische Erstellung von
+        Bekanntmachungen nach der Durchführungsverordnung (EU) 2019/1780
+        entsprechend § 10a Absatz 1 Satz 1 vorliegen und
+
+
+    b)  die Voraussetzungen für die elektronische Übermittlung von
+        Bekanntmachungen über den Datenservice Öffentlicher Einkauf
+        entsprechend § 10a Absatz 5 Satz 1 vorliegen,
+
+
+
+
+    frühestens jedoch der 24. Oktober 2023.
+
+
+
 
 (zu § 31 Absatz 2)
 

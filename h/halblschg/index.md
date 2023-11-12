@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2294
 
 Zuletzt geändert durch
-:   Art. 12 G v. 17.7.2017 I 2541
-
-Änderung durch
-:   Art. 9 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 10.8.2021 I 3490
 
 
 ## Erster Abschnitt - Der Schutz der Topographien
@@ -415,13 +412,15 @@ Bekanntmachung ist im Urteil zu bestimmen.
 ### § 11 Anwendung von Vorschriften des Patentgesetzes, des Gebrauchsmustergesetzes und des Gesetzes zum Schutz von Geschäftsgeheimnissen
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
-Gutachten (§ 29 Abs. 1 und 2), über die Wiedereinsetzung in den
-vorigen Stand (§ 123), über die Weiterbehandlung der Anmeldung (§
-123a), über die Wahrheitspflicht im Verfahren (§ 124), über die
-elektronische Verfahrensführung (§ 125a), über die Amtssprache (§
-126), über Zustellungen (§ 127), über die Rechtshilfe der Gerichte (§
-128) und über den Rechtsschutz bei überlangen Gerichtsverfahren (§
-128b) sind auch für Topographieschutzsachen anzuwenden.
+Gutachten (§ 29 Abs. 1 und 2), über die Nutzung von urheberrechtlich
+geschützten Werken und sonstigen Schutzgegenständen (§ 29a), über die
+Wiedereinsetzung in den vorigen Stand (§ 123), über die
+Weiterbehandlung der Anmeldung (§ 123a), über die Wahrheitspflicht im
+Verfahren (§ 124), über die elektronische Verfahrensführung (§ 125a),
+über die Amtssprache (§ 126), über Zustellungen (§ 127), über die
+Rechtshilfe der Gerichte (§ 128) und über den Rechtsschutz bei
+überlangen Gerichtsverfahren (§ 128b) sind auch für
+Topographieschutzsachen entsprechend anzuwenden.
 
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Bewilligung
 von Verfahrenskostenhilfe (§ 21 Abs. 2), über die Übertragung und die

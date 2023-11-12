@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 743
 
-Geändert durch
-:   Art. 1 V v. 21.12.2020 I 3206
-
-Änderung durch
-:   Art. 54 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 54 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel

@@ -16,12 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3122, 3144
 
-Änderung durch
-:   Art. 324 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 G v. 9.6.2021 I 1614 ist berücksichtigt
-
+Stand: Zuletzt geändert Art. 19 G v. 9.6.2021 I 1614
 
 ## § 1 Erfassung und Dokumentation
 

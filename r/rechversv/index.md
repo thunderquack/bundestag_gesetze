@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3378
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2018 I 2672
-
-Änderung durch
-:   Art. 25 Abs. 7 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 69 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 69 G v. 10.8.2021 I 3436
 
 Diese Verordnung dient der Umsetzung der Richtlinie 91/674/EWG des
 Rates vom 19. Dezember 1991 über den Jahresabschluß und den

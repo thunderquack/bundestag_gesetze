@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1259
 
 Zuletzt geändert durch
-:   Art. 15 G v. 20.11.2015 I 2029
-
-Änderung durch
-:   Art. 25 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 3.6.2021 I 1534
 
 
 ## Eingangsformel

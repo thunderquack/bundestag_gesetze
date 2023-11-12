@@ -17,19 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 212
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.10.2020 I 2232
-
-Änderung durch
-:   Art. 2 Abs. 2 G v. 9.12.2020 I 2873 (Nr. 61) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1699 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 2.3.2023 I Nr. 56
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -4565,14 +4553,14 @@ zu hunderttausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer
 Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr,
-soweit es sich um Ordnungswidrigkeiten nach Absatz 1 Nummer 6 bis 8
-oder nach Absatz 2 Nummer 1, 7, 8, 10 bis 13 und 15 handelt und die
-Zuwiderhandlung im Zusammenhang mit der Beförderung von Abfällen durch
-Fahrzeuge zur Güterbeförderung auf der Straße in einem Unternehmen
-begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche
-Niederlassung hat, und soweit die betroffene Person im Inland keinen
-Wohnsitz hat.
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und
+Mobilität, soweit es sich um Ordnungswidrigkeiten nach Absatz 1 Nummer
+6 bis 8 oder nach Absatz 2 Nummer 1, 7, 8, 10 bis 13 und 15 handelt
+und die Zuwiderhandlung im Zusammenhang mit der Beförderung von
+Abfällen durch Fahrzeuge zur Güterbeförderung auf der Straße in einem
+Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine
+geschäftliche Niederlassung hat, und soweit die betroffene Person im
+Inland keinen Wohnsitz hat.
 
 
 ### § 70 Einziehung

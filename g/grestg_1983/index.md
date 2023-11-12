@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.2.1997 I 418, 1804;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 25.6.2021 I 2056
+:   Art. 23 G v. 16.12.2022 I 2294
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
@@ -416,7 +416,7 @@ Jahren nach dem Übergang des Grundstücks auf die Gesamthand
 vermindert. Satz 1 gilt nicht, soweit allein durch den Austritt des
 Vereinigten Königreichs Großbritannien und Nordirland aus der
 Europäischen Union sich der Anteil des Veräußerers am Vermögen der
-Gesamthand innerhalb von zehn Jahren nach dem Übergang des Grundstücks
+Gesamthand innerhalb von fünf Jahren nach dem Übergang des Grundstücks
 auf die Gesamthand vermindert. Bei der Anwendung des Satzes 1 gilt die
 Ausübung der Option nach § 1a des Körperschaftsteuergesetzes als
 Verminderung des Anteils des Veräußerers am Vermögen der Gesamthand,
@@ -455,16 +455,20 @@ Gesamthänders am Vermögen der erwerbenden Gesamthand innerhalb von
 fünf Jahren nach dem Übergang des Grundstücks auf die Gesamthand
 vermindert. Absatz 1 ist nicht entsprechend anzuwenden, wenn die
 erwerbende Gesamthand nach § 1a des Körperschaftsteuergesetzes optiert
-hat und von einer Gesamthand übergeht, die nicht nach § 1a des
-Körperschaftsteuergesetzes optiert hat; es sei denn die Ausübung und
-Wirksamkeit der Option liegt länger als die in Satz 2 genannte Frist
-zurück und die jeweilige Beteiligung am Vermögen der Gesamthand
-besteht länger als die in Satz 2 genannte Frist. Absatz 1 ist nicht
-entsprechend anzuwenden, wenn die erwerbende Gesamthand eine
-Gesellschaft im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes
-mit Sitz im Ausland ist, deren Ort der Geschäftsleitung im Inland
-belegen ist, und die nach inländischem Gesellschaftsrecht als
-Personengesellschaft behandelt wird.
+hat und das Grundstück von einer Gesamthand übergeht, die nicht nach §
+1a des Körperschaftsteuergesetzes optiert hat; es sei denn die
+Ausübung und Wirksamkeit der Option liegt länger als die in Satz 2
+genannte Frist zurück und die jeweilige Beteiligung am Vermögen der
+Gesamthand besteht länger als die in Satz 2 genannte Frist. Bei der
+Anwendung des Satzes 2 gilt die Ausübung der Option nach § 1a des
+Körperschaftsteuergesetzes als Verminderung des Anteils des
+Gesamthänders am Vermögen der erwerbenden Gesamthand, wenn die Option
+innerhalb der jeweils für Satz 2 geltenden Frist ausgeübt und wirksam
+wird. Absatz 1 ist nicht entsprechend anzuwenden, wenn die erwerbende
+Gesamthand eine Gesellschaft im Sinne des § 1 Absatz 1 des
+Körperschaftsteuergesetzes mit Sitz im Ausland ist, deren Ort der
+Geschäftsleitung im Inland belegen ist, und die nach inländischem
+Gesellschaftsrecht als Personengesellschaft behandelt wird.
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten insoweit nicht, als
 
@@ -848,10 +852,26 @@ Aufhebung oder Änderung einer Steuerfestsetzung begründet, endet die
 Festsetzungsfrist (§§ 169 bis 171 der Abgabenordnung) insoweit nicht
 vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 
+(4a) Wenn die Anteile in Erfüllung eines Rechtsgeschäfts im Sinne des
+§ 1 Absatz 3 Nummer 1 oder Nummer 3 oder des § 1 Absatz 3a nach
+Abschluss dieses Rechtsgeschäfts übergehen und dadurch der Tatbestand
+des § 1 Absatz 2a oder Absatz 2b verwirklicht wird, so wird auf Antrag
+die Festsetzung nach § 1 Absatz 3 Nummer 1 oder Nummer 3 oder § 1
+Absatz 3a aufgehoben oder geändert. In den Fällen des Satzes 1 endet
+die Festsetzungsfrist für den aufgrund des Übergangs der Anteile
+erfüllten Tatbestand nach § 1 Absatz 2a oder Absatz 2b nicht vor
+Ablauf der Festsetzungsfrist der aufzuhebenden oder zu ändernden
+Festsetzung nach § 1 Absatz 3 Nummer 1 oder Nummer 3 oder nach § 1
+Absatz 3a.
+
 (5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der
 in § 1 Absatz 2 bis 3a bezeichneten Erwerbsvorgänge rückgängig gemacht
 wird, der nicht fristgerecht und in allen Teilen vollständig angezeigt
-(§§ 18 bis 20) war.
+(§§ 18 bis 20) war. Die Vorschrift des Absatzes 4a gilt nicht, wenn
+einer der in § 1 Absatz 3 Nummer 1 oder Nummer 3 oder in § 1 Absatz 3a
+oder in § 1 Absatz 2a oder Absatz 2b bezeichneten Erwerbsvorgänge
+nicht fristgerecht und in allen Teilen vollständig angezeigt (§§ 18
+bis 20) war.
 
 
 ## Siebenter Abschnitt - Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen, Anzeigepflichten und Erteilung der Unbedenklichkeitsbescheinigung
@@ -1108,6 +1128,12 @@ Abgabenordnung in elektronischer Form übermittelt werden.
 nicht anzuwenden. Die Begrenzung der Höhe des Verspätungszuschlags
 nach § 152 Absatz 10 der Abgabenordnung findet keine Anwendung.
 
+(7) In den Fällen des Absatzes 2 Nummer 4 beginnt die
+Festsetzungsfrist mit Ablauf des Kalenderjahres, in dem das in Absatz
+4 Satz 1 genannte Finanzamt von der anzeigepflichtigen Änderung
+Kenntnis erlangt hat, spätestens jedoch zehn Jahre nach Ablauf des
+Kalenderjahres, in dem die anzeigepflichtige Änderung eingetreten ist.
+
 
 ### § 20 Inhalt der Anzeigen
 
@@ -1333,12 +1359,12 @@ in der Fassung des Artikels 32 des Gesetzes vom 21. Dezember 2020
 (BGBl. I S. 3096) sind erstmals auf Erwerbsvorgänge anzuwenden, die
 nach dem 28. Dezember 2020 verwirklicht werden.
 
-(18) § 1 Absatz 2a Satz 1 und 4, Absatz 2b, 3 und 3a Satz 1, § 5
-Absatz 3, § 6 Absatz 3 Satz 2 und Absatz 4, § 6a Satz 1, § 7 Absatz 3,
-§ 8 Absatz 2 Satz 1 Nummer 3 und 4 und Satz 2, § 13 Nummer 5 bis 8,
-§ 17 Absatz 3 Satz 1 Nummer 2 und § 19 Absatz 1 Satz 1 Nummer 3a bis 9
-und Absatz 6 in der am 1. Juli 2021 geltenden Fassung sind erstmals
-auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021
+(18) § 1 Absatz 2a Satz 1 und 4, Absatz 2b, 3 und 3a Satz 1, § 5
+Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4, § 6a Satz 1, § 7
+Absatz 3, § 8 Absatz 2 Satz 1 Nummer 3 und 4 und Satz 2, § 13 Nummer 5
+bis 8, § 17 Absatz 3 Satz 1 Nummer 2 und § 19 Absatz 1 Satz 1 Nummer
+3a bis 9 und Absatz 6 in der am 1. Juli 2021 geltenden Fassung sind
+erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021
 verwirklicht werden.
 
 (19) Bei Anwendung des § 1 Absatz 2a in der am 1. Juli 2021 geltenden
@@ -1396,11 +1422,11 @@ Anwendung.
 Anteilen der Gesellschaft, die vor dem 1. Juli 2021 erfolgen,
 unberücksichtigt.
 
-(24) § 5 Absatz 3, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3
-in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn
-die in § 5 Absatz 3, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz
-3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1.
-Juli 2021 abgelaufen war.
+(24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7
+Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht
+anzuwenden, wenn die in § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 oder
+Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung
+geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
 
 
 ### (XXXX) §§ 24 bis 27 (weggefallen)

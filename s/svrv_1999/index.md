@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1627
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.3.2020 I 604
+:   Art. 1 V v. 1.12.2022 I 2132
 
 
 ## Eingangsformel
@@ -453,39 +453,13 @@ anzuzeigen.
 Dezember 1999 angeschafft werden. Nähere Einzelheiten sind in den
 Kontenrahmen zu regeln.
 
-(2) Anteile von Trägern der gesetzlichen Rentenversicherung an einem
-Wohnungsbau-Unternehmen in der Form einer Aktiengesellschaft sind nach
-einem auf dem Ertragswert berechneten Gesamtwert zu bewerten.
-
-(3) Beteiligungen von Trägern der gesetzlichen Unfallversicherung an
-Gemeinschaftseinrichtungen sind jährlich in dem Umfang abzuschreiben,
-wie sie von den Einrichtungen abgeschrieben werden.
-
-(4) (weggefallen)
-
-(5) Die Kassenärztlichen und Kassenzahnärztlichen Vereinigungen und
+(2) Die Kassenärztlichen und Kassenzahnärztlichen Vereinigungen und
 deren Bundesvereinigungen können abweichend von § 11 Abs. 1
 Wertpapiere zum Rückkaufwert aktivieren, wenn dieser dauerhaft unter
 den Anschaffungskosten liegt. Die Differenz ist abweichend von § 11
 Abs. 6 als außerordentlicher Verlust in Ansatz zu bringen. Gleiches
 gilt, wenn am Jahresende der Kurswert der Wertpapiere unter den
 Anschaffungskosten liegt.
-
-
-### § 20a Übergangsvorschriften zur Ersten Verordnung zur Änderung der Sozialversicherungs-Rechnungsverordnung
-
-§ 16 Absatz 2 kann bis zum 31. Dezember 2010 mit der Maßgabe
-angewendet werden, dass bei Gegenständen der beweglichen Einrichtung,
-die ohne Umsatzsteuer den Wert von 410 Euro nicht übersteigen, nach
-Maßgabe allgemeiner Verwaltungsvorschriften von der Aufnahme in das
-Verzeichnis abgesehen werden kann.
-
-
-### § 20b Anwendungsbestimmung
-
-§ 12 Absatz 1 Satz 5 und 6, § 12 Absatz 1a in der ab dem 14. Dezember
-2010 geltenden Fassung und § 18 Absatz 3 sind erstmals auf die
-Jahresrechnung für das Geschäftsjahr 2010 anzuwenden.
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten

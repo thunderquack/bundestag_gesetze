@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.5.2021 I 1087
-
-Mittelbare änderung durch
-:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 19.7.2023 I Nr. 197
 
 
 ## § 1
@@ -43,17 +37,29 @@ Mittelbare änderung durch
     L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
     27\.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L
     130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils
-    geltenden Fassung und im Sinne des § 3 Nummer 4 des
-    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
-    geltenden Fassung,
+    geltenden Fassung und im Sinne von Artikel 2 Nummer 2 der Verordnung
+    (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April
+    2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie
+    98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117
+    vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019,
+    S. 167) in der jeweils geltenden Fassung,
 
 
 2.  andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich
-    die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von
-    Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden beim
-    Menschen bezieht, sowie operative plastisch-chirurgische Eingriffe,
-    soweit sich die Werbeaussage auf die Veränderung des menschlichen
-    Körpers ohne medizinische Notwendigkeit bezieht,
+    die Werbeaussage bezieht
+
+    a)  auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden,
+        Körperschäden oder krankhaften Beschwerden beim Menschen,
+
+
+    b)  auf Schwangerschaftsabbrüche,
+
+
+    c)  auf operative plastisch-chirurgische Eingriffe zur Veränderung des
+        menschlichen Körpers ohne medizinische Notwendigkeit,
+
+
+
 
 
 3.  Verfahren und Behandlungen, soweit sich die Werbeaussage auf die
@@ -123,9 +129,7 @@ Ausübung ihres Berufes anwenden.
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt
 insbesondere dann vor,
 
-1.  wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des
-    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
-    geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder anderen
+1.  wenn Arzneimitteln, Verfahren, Behandlungen, Gegenständen oder anderen
     Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt
     werden, die sie nicht haben,
 
@@ -148,10 +152,8 @@ insbesondere dann vor,
 3.  wenn unwahre oder zur Täuschung geeignete Angaben
 
     a)  über die Zusammensetzung oder Beschaffenheit von Arzneimitteln,
-        Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes
-        in der bis einschließlich 25. Mai 2021 geltenden Fassung, Gegenständen
-        oder anderen Mitteln oder über die Art und Weise der Verfahren oder
-        Behandlungen oder
+        Gegenständen oder anderen Mitteln oder über die Art und Weise der
+        Verfahren oder Behandlungen oder
 
 
     b)  über die Person, Vorbildung, Befähigung oder Erfolge des Herstellers,
@@ -490,8 +492,9 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend.
-Ferner darf für die in § 1 Absatz 1 Nummer 2 genannten operativen
-plastisch-chirurgischen Eingriffe nicht wie folgt geworben werden:
+Ferner darf für die in § 1 Absatz 1 Nummer 2 Buchstabe c genannten
+operativen plastisch-chirurgischen Eingriffe nicht wie folgt geworben
+werden:
 
 1.  mit der Wirkung einer solchen Behandlung durch vergleichende
     Darstellung des Körperzustandes oder des Aussehens vor und nach dem
@@ -533,8 +536,17 @@ aufgeführten Krankheiten oder Leiden bei Menschen beziehen.
 (2) Die Werbung für andere Mittel, Verfahren, Behandlungen oder
 Gegenstände außerhalb der Fachkreise darf sich nicht auf die
 Erkennung, Beseitigung oder Linderung der in der Anlage aufgeführten
-Krankheiten oder Leiden beziehen. Dies gilt nicht für die Werbung für
-Verfahren oder Behandlungen in Heilbädern, Kurorten und Kuranstalten.
+Krankheiten oder Leiden beziehen. Satz 1 gilt nicht für die Werbung
+für Verfahren oder Behandlungen
+
+1.  zur Durchführung von Schwangerschaftsabbrüchen durch Ärztinnen und
+    Ärzte,
+
+
+2.  in Heilbädern, Kurorten und Kuranstalten.
+
+
+
 
 
 ## § 13

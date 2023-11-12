@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 2 G v. 18.8.2021 I 3901
+:   Art. 5 G v. 3.7.2023 I Nr. 176
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
@@ -1766,6 +1766,26 @@ Stauhaltungsdämme nicht den vorstehenden Anforderungen, so kann die
 zuständige Behörde die Durchführung der erforderlichen Maßnahmen
 innerhalb angemessener Fristen anordnen.
 
+(3) Eine Solaranlage darf nicht errichtet und betrieben werden
+
+1.  in und über einem oberirdischen Gewässer, das kein künstliches oder
+    erheblich verändertes Gewässer ist, und
+
+
+2.  in und über einem künstlichen oder erheblich veränderten Gewässer,
+    wenn ausgehend von der Linie des Mittelwasserstandes
+
+    a)  die Anlage mehr als 15 Prozent der Gewässerfläche bedeckt oder
+
+
+    b)  der Abstand zum Ufer weniger als 40 Meter beträgt.
+
+
+
+
+
+
+
 
 #### § 37 Wasserabfluss
 
@@ -2621,10 +2641,14 @@ unbefugt Grundwasser erschlossen wird.
 ### Abschnitt 1 - Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz
 
 
-#### § 50 Öffentliche Wasserversorgung
+#### § 50 Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die der Allgemeinheit dienende Wasserversorgung (öffentliche
-Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge.
+Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge. Hierzu gehört
+auch, dass Trinkwasser aus dem Leitungsnetz an öffentlichen Orten
+durch Innen- und Außenanlagen bereitgestellt wird, soweit dies
+technisch durchführbar und unter Berücksichtigung des Bedarfs und der
+örtlichen Gegebenheiten, wie Klima und Geografie, verhältnismäßig ist.
 
 (2) Der Wasserbedarf der öffentlichen Wasserversorgung ist vorrangig
 aus ortsnahen Wasservorkommen zu decken, soweit überwiegende Gründe
@@ -2643,16 +2667,84 @@ Beachtung der hygienischen Anforderungen.
 (4) Wassergewinnungsanlagen dürfen nur nach den allgemein anerkannten
 Regeln der Technik errichtet, unterhalten und betrieben werden.
 
+(4a) Das Bundesministerium für Umwelt, Naturschutz, nukleare
+Sicherheit und Verbraucherschutz erlässt durch Rechtsverordnung mit
+Zustimmung des Bundesrates Vorschriften über
+
+1.  die Bewertung von Einzugsgebieten von Entnahmestellen für die
+    Trinkwassergewinnung sowie über das Risikomanagement für solche
+    Einzugsgebiete, jeweils einschließlich der Regelung von
+
+    a)  Pflichten der Betreiber von Wassergewinnungsanlagen, der Behörden, von
+        Verursachern und möglichen Verursachern von Gewässerbelastungen sowie
+        von Grundstückseigentümern und Inhabern der tatsächlichen Gewalt über
+        Grundstücke,
+
+
+    b)  Befugnissen der zuständigen Behörde zur Anordnung bestimmter Maßnahmen
+        gegenüber den Betreibern von Wassergewinnungsanlagen, Verursachern und
+        möglichen Verursachern von Gewässerbelastungen sowie
+        Grundstückseigentümern und Inhabern der tatsächlichen Gewalt über
+        Grundstücke,
+
+
+
+
+
+2.  die Anforderungen an die Fachkunde der Personen, die die Bewertung und
+    das Risikomanagement durchführen,
+
+
+3.  die behördlichen Verfahren bei der Bewertung und beim
+    Risikomanagement, einschließlich der Behörden und Betreibern von
+    Wassergewinnungsanlagen obliegenden Dokumentations- und
+    Berichtspflichten sowie der Pflichten zur Beschaffung und Übermittlung
+    von Informationen,
+
+
+4.  die Anforderungen an Untersuchungsstellen, die Rohwasser,
+    Oberflächenwasser und Grundwasser untersuchen sowie Anforderungen an
+    die Untersuchungsverfahren,
+
+
+5.  die Anforderungen an Maßnahmenprogramme und Bewirtschaftungspläne im
+    Zusammenhang mit dem Risikomanagement nach Nummer 1.
+
+
+
+Die Bewertung nach Satz 1 Nummer 1 umfasst insbesondere
+
+1.  die Bestimmung und nähere Beschreibung von Einzugsgebieten von
+    Entnahmestellen für die Trinkwassergewinnung, einschließlich
+    kartenmäßiger Darstellungen und Georeferenzierung,
+
+
+2.  die Erfassung und Bewertung von Gefährdungen für die menschliche
+    Gesundheit und die Trinkwassergewinnung und
+
+
+3.  die Überwachung und die Untersuchung des Oberflächenwassers, des
+    Grundwassers und des Rohwassers.
+
+
+
+Das Risikomanagement nach Satz 1 Nummer 1 umfasst insbesondere
+Vorsorge-, Risikominderungs-, Überwachungs- und
+Untersuchungsmaßnahmen, sonstige Maßnahmen zur Risikobeherrschung
+sowie die Prüfung der Notwendigkeit, Schutzgebiete festzusetzen oder
+anzupassen.
+
 (5) Durch Rechtsverordnung der Landesregierung oder durch Entscheidung
 der zuständigen Behörde können Träger der öffentlichen
-Wasserversorgung verpflichtet werden, auf ihre Kosten die
-Beschaffenheit des für Zwecke der öffentlichen Wasserversorgung
-gewonnenen oder gewinnbaren Wassers zu untersuchen oder durch eine von
-ihr bestimmte Stelle untersuchen zu lassen. Insbesondere können Art,
-Umfang und Häufigkeit der Untersuchungen sowie die Übermittlung der
-Untersuchungsergebnisse näher geregelt werden. Die Landesregierung
-kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere
-Landesbehörden übertragen.
+Wasserversorgung verpflichtet werden, über die Verpflichtungen in
+einer Verordnung nach Absatz 4a hinaus auf ihre Kosten weitergehende
+Untersuchungen der Beschaffenheit des für Zwecke der öffentlichen
+Wasserversorgung gewonnenen oder gewinnbaren Wassers vorzunehmen oder
+durch eine von ihr bestimmte Stelle vornehmen zu lassen. Insbesondere
+können Art, Umfang und Häufigkeit der Untersuchungen sowie die
+Übermittlung der Untersuchungsergebnisse näher geregelt werden. Die
+Landesregierung kann die Ermächtigung nach Satz 1 durch
+Rechtsverordnung auf andere Landesbehörden übertragen.
 
 
 #### § 51 Festsetzung von Wasserschutzgebieten
@@ -4002,7 +4094,7 @@ insbesondere zu berücksichtigen:
 
 Dies gilt für Satzungen nach § 34 Absatz 4 und § 35 Absatz 6 des
 Baugesetzbuches entsprechend. Die zuständige Behörde hat der Gemeinde
-die hierfür erforderlichen Informationen nach § 4 Absatz 2 Satz 4 des
+die hierfür erforderlichen Informationen nach § 4 Absatz 2 Satz 6 des
 Baugesetzbuches zur Verfügung zu stellen.
 
 (4) In festgesetzten Überschwemmungsgebieten ist die Errichtung oder
@@ -5070,7 +5162,8 @@ Verteidigung gehörenden Stellen übertragen wird.
     a)  § 23 Absatz 1 Nummer 1, 3 bis 8 oder Nummer 9 oder
 
 
-    b)  § 23 Absatz 1 Nummer 10 oder Nummer 11
+    b)  § 23 Absatz 1 Nummer 10 oder Nummer 11 oder § 50 Absatz 4a Satz 1
+        Nummer 3
 
 
 

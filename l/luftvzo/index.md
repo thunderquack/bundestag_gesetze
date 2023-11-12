@@ -19,16 +19,7 @@ Neufassung durch
 :   Bek. v. 10.7.2008 I 1229;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.12.2019 I 2510
-
-Änderung durch
-:   Art. 3 G v. 14.6.2021 I 1766 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 132 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 V v. 7.12.2021 I 5190 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 7.12.2021 I 5190
 
 
 ## Erster Abschnitt - Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge

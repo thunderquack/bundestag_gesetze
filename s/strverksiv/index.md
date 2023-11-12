@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1795
 
 Zuletzt geändert durch
-:   Art. 504 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 56 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 56 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4098
 
+Geändert durch
+:   Art. 2 V v. 15.3.2022 I 485
+
 
 ## Eingangsformel
 
@@ -53,7 +56,7 @@ S. 1) in nicht personenbezogener Form mit folgenden Angaben:
 (2) Der erste Bericht im Sinne des Absatzes 1, der den Zeitraum ab dem
 27\. Juli 2013 bis zum 31. Dezember 2014 erfasst, ist bis zum 1. Juni
 2015 zu veröffentlichen. Die nachfolgenden Berichte für die sich
-jeweils anschließenden Zeiträume sind jeweils bis 1. März des Jahres
+jeweils anschließenden Zeiträume sind jeweils bis 1. Juni des Jahres
 zu veröffentlichen, das dem Berichtszeitraum folgt.
 
 

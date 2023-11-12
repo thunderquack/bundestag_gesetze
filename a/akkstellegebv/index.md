@@ -247,6 +247,23 @@ Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten
 einer geänderten Fassung dieser Verordnung eine Gebührenfestsetzung
 nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
 
+(5) Für individuell zurechenbare öffentliche Leistungen, die ab dem 1.
+Oktober 2021, jedoch vor dem 1. April 2022 beantragt oder, sofern kein
+Antrag erforderlich ist, begonnen, aber noch nicht beendet worden
+sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum
+Ablauf des 31. März 2022 geltenden Fassung zu erheben.
+
+(6) Abweichend von Absatz 5 werden für individuell zurechenbare
+öffentliche Leistungen, die vor dem 1. April 2022 beantragt oder,
+sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet
+worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 1.
+April 2022 geltenden Fassung erhoben, soweit bei diesen Leistungen mit
+Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn
+der Leistungserbringung unter Hinweis auf das Inkrafttreten einer
+neuen Fassung der Akkreditierungsstellengebührenverordnung eine
+Gebührenfestsetzung nach der geänderten Fassung ausdrücklich
+vorbehalten worden ist.
+
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
@@ -262,7 +279,8 @@ ist, außer Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2017, 3879 - 3881)
+(Fundstelle: BGBl. I 2017, 3879 - 3881;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Tarifstelle
@@ -521,7 +539,7 @@ ist, außer Kraft.
 
     *   Bedienstete mit Büro-, Assistenz- oder Sachbearbeiteraufgaben
 
-    *   119,47 Euro
+    *   121,40 Euro
 
 
 *    *   7.2
@@ -534,7 +552,7 @@ ist, außer Kraft.
         Staatsexamen oder gleichwertiger Abschluss) und entsprechender
         Tätigkeit
 
-    *   157,11 Euro
+    *   161,39 Euro
 
 
 

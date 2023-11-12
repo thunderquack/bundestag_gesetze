@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2658
 
 Zuletzt geändert durch
-:   Art. 4 V v. 25.6.2020 I 1495
+:   Art. 6 V v. 19.12.2022 I 2432
 
 
 ## Eingangsformel
@@ -328,9 +328,9 @@ Erstattung der dort vorgesehenen Anzeigen dürfen unterbleiben,
 
 
 
-(5) Die vorstehenden Vorschriften gelten entsprechend für Notare
-(Bezirksnotare) und sonstige Urkundspersonen, soweit ihnen Geschäfte
-des Nachlaßgerichtes übertragen sind.
+(5) Die vorstehenden Vorschriften gelten entsprechend für Notare und
+sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes
+übertragen sind.
 
 
 ### § 8 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden
@@ -371,8 +371,8 @@ Angaben darf unterbleiben, wenn Gegenstand der Schenkung nur Hausrat
 12 000 Euro und anderes Vermögen im reinen Wert von höchstens 20 000
 Euro ist.
 
-(4) Die vorstehenden Vorschriften gelten entsprechend für Notare
-(Bezirksnotare) und sonstige Urkundspersonen.
+(4) Die vorstehenden Vorschriften gelten entsprechend für Notare und
+sonstige Urkundspersonen.
 
 
 ### § 9 Anzeigepflicht der Auslandsstellen
@@ -915,8 +915,8 @@ Anschrift                  .........................................
 ...................
 Geburtstag                 .............
 Anschrift                  .........................................
-3\.  Vertrag vom                .......... Urkundenrolle-Nr.
-............
+3\.  Vertrag vom                .......... Urkundenverzeichnis-Nr.
+......
 4\.  Ergänzende Angaben (§ 34 ErbStG, § 8 ErbStDV)
 Persönliches Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder
 Lebenspartner)

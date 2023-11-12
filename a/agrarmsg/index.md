@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 917
 
+Neugefasst durch
+:   Bek. v. 24.8.2021 I 4036;
+
 Zuletzt geändert durch
-:   Art. 1 G v. 14.11.2020 I 2425
-
-Änderung durch
-:   Art. 1 G v. 2.6.2021 I 1278 (Nr. 28) mWv 9.6.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Neufassung durch
-:   Bek. v. 24.8.2021 I 4036 (Nr. 60) mWv 9.6.2021 noch nicht berücksichtigt
+:   Art. 2 Abs. 21 G v. 20.12.2022 I 2752
 
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen
@@ -137,7 +134,7 @@ gerechtfertigt oder unionsrechtlich zwingend ist.
 4.  verderbliche Agrar-, Fischerei- und Lebensmittelerzeugnisse sind
     solche Agrar-, Fischerei- und Lebensmittelerzeugnisse, bei denen auf
     Grund ihrer Beschaffenheit oder auf Grund ihrer Verarbeitungsstufe
-    davon auszugehen ist, dass sie innerhalb von 30 Tagen nach der Ernte
+    davon auszugehen ist, dass sie innerhalb von 30 Tagen nach der Ernte
     oder der Erzeugung, jeweils ohne Berücksichtigung etwaiger
     Schutzmaßnahmen, oder innerhalb von 30 Tagen nach der Verarbeitung
     nicht mehr zum Verkauf geeignet sind;
@@ -210,19 +207,19 @@ Gesetzes, soweit
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf, Teil 2 dieses Gesetzes auf
-nicht in Anhang I des Vertrages über die Arbeitsweise der Europäischen
-Union angeführte Agrarerzeugnisse für anwendbar zu erklären, soweit im
-Hinblick auf die Förderung der landwirtschaftlichen Erzeugung ein
-Bedürfnis für die Anerkennung von Agrarorganisationen für derartige
-Erzeugnisse besteht.
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Teil 2
+dieses Gesetzes auf nicht in Anhang I des Vertrages über die
+Arbeitsweise der Europäischen Union angeführte Agrarerzeugnisse für
+anwendbar zu erklären, soweit im Hinblick auf die Förderung der
+landwirtschaftlichen Erzeugung ein Bedürfnis für die Anerkennung von
+Agrarorganisationen für derartige Erzeugnisse besteht.
 
 
 ### § 3 Zuständigkeit; Verordnungsermächtigung
 
 (1) Zuständig für die Durchführung dieses Gesetzes, der auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen und des in § 1 Absatz 1,
+dieses Gesetzes erlassenen Rechtsverordnungen und des in § 1 Absatz 1,
 auch in Verbindung mit den Absätzen 2 oder 3, genannten Unionsrechts
 ist die nach Landesrecht zuständige Stelle (zuständige Stelle), soweit
 nicht in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen
@@ -248,8 +245,8 @@ oder der Käufer oder beide in Deutschland niedergelassen ist oder sind
 ### § 4 Voraussetzungen und Verfahren der Anerkennung; Verordnungsermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf,
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1.  die Agrarerzeugnisse, für die jeweils Agrarorganisationen anerkannt
     werden, zu bestimmen,
@@ -357,7 +354,7 @@ Verhaltensweisen einer anerkannten Agrarorganisation (Vorschriften)
 für dieser Agrarorganisation nicht angehörende Einzelunternehmen oder
 Gruppierungen (Nichtmitglieder) für verbindlich erklärt werden können
 (Allgemeinverbindlichkeit), wird das Bundesministerium ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
 durch Rechtsverordnung nach Maßgabe der Absätze 2 und 3 und einer
 Rechtsverordnung auf Grund des Absatzes 4 die Allgemeinverbindlichkeit
 ganz oder teilweise anzuordnen.
@@ -392,9 +389,9 @@ den betreffenden Erzeugnisbereich zu begegnen,
 Der Antrag kann wiederholt gestellt werden.
 
 (4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die mit Ausnahme der Regelung zu Nummer 1 der Zustimmung des
-Bundesrates bedarf, zu regeln
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die mit Ausnahme der Regelung zu Nummer 1 der
+Zustimmung des Bundesrates bedarf, zu regeln
 
 1.  nach Maßgabe des Satzes 2 die Erzeugnisbereiche, für die eine
     Rechtsverordnung nach Absatz 1 erlassen werden kann,
@@ -421,7 +418,7 @@ zweckmäßig ist.
 
 (5) Für die vorzeitige Aufhebung einer Rechtsverordnung nach Absatz 1
 sind das Einvernehmen des Bundesministeriums für Wirtschaft und
-Energie und die Zustimmung des Bundesrates nicht erforderlich.
+Klimaschutz und die Zustimmung des Bundesrates nicht erforderlich.
 
 (6) Bezieht sich eine nach dem Unionsrecht ermöglichte Erklärung der
 Allgemeinverbindlichkeit auf einen räumlichen Bereich in dem Gebiet
@@ -435,18 +432,18 @@ die Ermächtigung auf oberste Landesbehörden übertragen.
 ### § 6 Kartellbestimmungen; Verordnungsermächtigung
 
 (1) Für Tätigkeiten, die eine Agrarorganisation in dem von ihrer
-Anerkennung umfassten Bereich vornimmt und die dem in § 1 Absatz 1
+Anerkennung umfassten Bereich vornimmt und die dem in § 1 Absatz 1
 Nummer 1, auch in Verbindung mit den Absätzen 2 oder 3, genannten
 Unionsrecht, dem Teil 2 dieses Gesetzes und den auf Grund dieses
 Gesetzes in Bezug auf Agrarorganisationen erlassenen
-Rechtsverordnungen (Agrarorganisationenrecht) entsprechen, gilt § 1
+Rechtsverordnungen (Agrarorganisationenrecht) entsprechen, gilt § 1
 des Gesetzes gegen Wettbewerbsbeschränkungen nicht. Im Übrigen bleiben
 die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
 unberührt.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf,
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1.  den Austausch von Erkenntnissen über Tatsachen hinsichtlich der
     anerkannten Agrarorganisationen zwischen den für die Anerkennung
@@ -471,13 +468,13 @@ die der Zustimmung des Bundesrates bedarf,
 ### § 7 Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, soweit dies während
-schwerer Ungleichgewichte auf den Märkten zur Durchführung von
-Rechtsakten der Europäischen Union über die Nichtanwendung des
-Artikels 101 Absatz 1 des Vertrags über die Arbeitsweise der
-Europäischen Union auf Vereinbarungen und Beschlüsse von
-landwirtschaftlichen Erzeugerbetrieben, anerkannten
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+soweit dies während schwerer Ungleichgewichte auf den Märkten zur
+Durchführung von Rechtsakten der Europäischen Union über die
+Nichtanwendung des Artikels 101 Absatz 1 des Vertrags über die
+Arbeitsweise der Europäischen Union auf Vereinbarungen und Beschlüsse
+von landwirtschaftlichen Erzeugerbetrieben, anerkannten
 Agrarorganisationen oder sonstigen Vereinigungen erforderlich ist,
 Vorschriften über das Verfahren sowie den Inhalt, Gegenstand und
 geografischen Anwendungsbereich der Vereinbarungen und Beschlüsse zu
@@ -505,7 +502,7 @@ den Märkten sachlich gerechtfertigt ist.
 (3) Soweit ein Rechtsakt der Europäischen Union die Nichtanwendung von
 Artikel 101 Absatz 1 des Vertrags über die Arbeitsweise der
 Europäischen Union auf Vereinbarungen und Beschlüsse im Sinne des
-Absatzes 1 Satz 1 anordnet, gilt das Verbot des § 1 des Gesetzes gegen
+Absatzes 1 Satz 1 anordnet, gilt das Verbot des § 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen für solche Vereinbarungen und Beschlüsse
 nicht. Rechtsverordnungen nach Absatz 1, auch in Verbindung mit Absatz
 2, können auch für die Durchführung des Satzes 1 erlassen werden. In
@@ -708,7 +705,7 @@ Nummer 1 sind zum Zeitpunkt des Vertragsschlusses zwischen Lieferant
 und Käufer nach den Artikeln 3, 4 und 6 des Anhangs zu der Empfehlung
 der Kommission vom 6. Mai 2003 betreffend die Definition der
 Kleinstunternehmen sowie der kleinen und mittleren Unternehmen
-(2003/361/EG) (ABl. L 124 vom 20.5.2003, S. 36) in der jeweils
+(2003/361/EG) (ABl. L 124 vom 20.5.2003, S. 36) in der jeweils
 geltenden Fassung zu bestimmen. Der Jahresumsatz ist im Einklang mit
 Artikel 4 Absatz 1 Satz 1 des Anhangs zu der Empfehlung 2003/361/EG
 auf Jahresbasis zu berechnen; hierzu ist der letzte Rechnungsabschluss
@@ -731,11 +728,11 @@ bestimmt ist.
 Lieferanten spätestens innerhalb der folgenden Fristen zu leisten:
 
 1.  für verderbliche Agrar-, Fischerei- oder Lebensmittelerzeugnisse
-    innerhalb von 30 Tagen nach der Lieferung,
+    innerhalb von 30 Tagen nach der Lieferung,
 
 
 2.  für andere Agrar-, Fischerei- oder Lebensmittelerzeugnisse innerhalb
-    von 60 Tagen nach der Lieferung.
+    von 60 Tagen nach der Lieferung.
 
 
 
@@ -766,7 +763,7 @@ Zahlungsfristen zulässig ist.
 (5) § 271a Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs gilt auch,
 wenn der Schuldner eine Behörde ist.
 
-(6) Abweichend von § 286 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs
+(6) Abweichend von § 286 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs
 kommt der Schuldner spätestens in Verzug, wenn er nicht innerhalb von
 30 Tagen nach dem sich aus Absatz 2 ergebenden Fristbeginn leistet.
 
@@ -941,7 +938,7 @@ Lieferanten für
 
 
 ist unlauter, es sei denn, diese Handelspraktik wurde zuvor klar und
-eindeutig, insbesondere auch unter Beachtung des § 16, zwischen Käufer
+eindeutig, insbesondere auch unter Beachtung des § 16, zwischen Käufer
 und Lieferant vereinbart.
 
 (2) Eine Vereinbarung zu Preisnachlässen im Rahmen von
@@ -956,7 +953,7 @@ den vereinbarten Preisnachlass nicht verlangen.
 
 ##### § 21 Vorlage einer Zahlungen- und Kostenschätzung
 
-Wurden Zahlungen oder Preisnachlässe nach § 20 Absatz 1 zwischen
+Wurden Zahlungen oder Preisnachlässe nach § 20 Absatz 1 zwischen
 Käufer und Lieferant vereinbart, kann der Lieferant verlangen, dass
 ihm der Käufer folgende Informationen in Textform übermittelt:
 
@@ -984,13 +981,13 @@ Rahmen von Verkaufsaktionen.
 ##### § 22 Wirksamkeit des Vertrages
 
 (1) Die allgemeinen Vorschriften über die Wirksamkeit von Verträgen
-und Vertragsbestimmungen, insbesondere die §§ 134, 138 und 305 bis 310
-des Bürgerlichen Gesetzbuchs, bleiben durch die §§ 11 bis 17 und 20
+und Vertragsbestimmungen, insbesondere die §§ 134, 138 und 305 bis 310
+des Bürgerlichen Gesetzbuchs, bleiben durch die §§ 11 bis 17 und 20
 unberührt.
 
 (2) Sind Vertragsbestimmungen auf Grund der §§ 11 bis 17 oder 20 ganz
 oder teilweise unwirksam, so bleibt der Vertrag im Übrigen wirksam.
-Soweit die Vertragsbestimmungen auf Grund der §§ 11 bis 17 oder 20
+Soweit die Vertragsbestimmungen auf Grund der §§ 11 bis 17 oder 20
 unwirksam sind, richtet sich der Inhalt des Vertrages nach den
 gesetzlichen Vorschriften.
 
@@ -1012,7 +1009,7 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
         Lebensmittelerzeugnisse ohne Zahlung des geschuldeten Kaufpreises
         oder, soweit die Agrar-, Fischerei- oder Lebensmittelerzeugnisse nicht
         mehr verwendbar sind, ohne die Zahlung der Kosten der Beseitigung
-        vorsehen, das nach § 12 nicht wirksam vereinbart werden kann,
+        vorsehen, das nach § 12 nicht wirksam vereinbart werden kann,
 
 
     c)  Fristen für die Beendigung des Vertrages oder die Abbestellung von
@@ -1025,14 +1022,14 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
 
 
     e)  Rechte zur Änderung des Vertrages durch den Käufer vorsehen, die nach
-        § 15 nicht wirksam vereinbart werden können,
+        § 15 nicht wirksam vereinbart werden können,
 
 
     f)  eine Pflicht zur Kostenübernahme durch den Lieferanten vorsehen, die
         nach § 16 nicht wirksam vereinbart werden kann oder
 
 
-    g)  eine Beteiligung an den Listungskosten vorsehen, die nach § 17 Satz 1
+    g)  eine Beteiligung an den Listungskosten vorsehen, die nach § 17 Satz 1
         nicht wirksam vereinbart werden kann,
 
 
@@ -1040,7 +1037,7 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
 
 
 2.  seine vertraglichen Zahlungspflichten nicht oder nicht innerhalb der
-    in § 11 Absatz 2 Satz 1 Nummer 1 oder 2 vorgesehenen Frist erfüllt, es
+    in § 11 Absatz 2 Satz 1 Nummer 1 oder 2 vorgesehenen Frist erfüllt, es
     sei denn, der Käufer hat ein Recht, die Leistung zu verweigern,
 
 
@@ -1050,21 +1047,21 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
 
 
 4.  einzelne Leistungen aus einem Vertrag über den Kauf von verderblichen
-    Agrar-, Fischerei- oder Lebensmittelerzeugnissen entgegen § 13
+    Agrar-, Fischerei- oder Lebensmittelerzeugnissen entgegen § 13
     kurzfristig abbestellt,
 
 
 5.  von dem Lieferanten Leistungen verlangt, auf die er keinen Anspruch
-    hat, weil sie nach § 14, § 15, § 16 oder § 17 Satz 1 nicht wirksam
+    hat, weil sie nach § 14, § 15, § 16 oder § 17 Satz 1 nicht wirksam
     vereinbart werden können oder weil es an einer klaren, eindeutigen und
     wirksamen Vereinbarung nach § 20 fehlt,
 
 
-6.  entgegen § 18 dem Lieferanten Vergeltungsmaßnahmen geschäftlicher Art
+6.  entgegen § 18 dem Lieferanten Vergeltungsmaßnahmen geschäftlicher Art
     androht oder derartige Maßnahmen gegen den Lieferanten ergreift,
 
 
-7.  eine Bestätigung nach § 19 Satz 1 oder Satz 2 nicht erteilt,
+7.  eine Bestätigung nach § 19 Satz 1 oder Satz 2 nicht erteilt,
 
 
 8.  eine Schätzung der Zahlungen oder Preisnachlässe oder eine
@@ -1081,7 +1078,7 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
 ##### § 24 Anwendbarkeit des Gesetzes gegen Wettbewerbsbeschränkungen
 
 Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen,
-insbesondere die §§ 19 und 20 des Gesetzes gegen
+insbesondere die §§ 19 und 20 des Gesetzes gegen
 Wettbewerbsbeschränkungen, sowie die Aufgaben, Befugnisse und
 Zuständigkeiten des Bundeskartellamts bleiben unberührt.
 
@@ -1128,13 +1125,13 @@ anderweitiger Rechtsbehelfe einlegen:
 
 
 In der Beschwerde ist darzulegen, gegen welche der nach § 23 Satz 2 in
-Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes
+Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes
 zum Schutz von Geschäftsgeheimnissen verbotenen Handelspraktiken der
 Käufer gegenüber dem Lieferanten verstoßen haben soll.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, das
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das
 Beschwerdeverfahren näher zu regeln.
 
 
@@ -1175,8 +1172,8 @@ einzulegen, und der Befugnisse der Durchsetzungsbehörde nach § 28
 können der Lieferant und der Käufer vereinbaren, alternative
 Streitbeilegungsverfahren einschließlich der Anrufung einer
 Ombudsstelle zu nutzen, wenn sich der Lieferant durch den Käufer einer
-Handelspraktik ausgesetzt sieht, die nach § 23 Satz 2 in Verbindung
-mit den §§ 11 bis 21 oder in Verbindung mit § 4 des Gesetzes zum
+Handelspraktik ausgesetzt sieht, die nach § 23 Satz 2 in Verbindung
+mit den §§ 11 bis 21 oder in Verbindung mit § 4 des Gesetzes zum
 Schutz von Geschäftsgeheimnissen verboten ist.
 
 
@@ -1193,19 +1190,19 @@ Schutz von Geschäftsgeheimnissen verboten ist.
 
 
 2.  nach Anhörung des Käufers einen Verstoß gegen eines der in § 23 Satz 2
-    in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des
+    in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des
     Gesetzes zum Schutz von Geschäftsgeheimnissen normierten Verbote
     festzustellen und die Anordnungen zu treffen, die zur Beseitigung des
     Verstoßes und zur Verhütung künftiger Verstöße notwendig sind,
 
 
-3.  ihre nach Nummer 2 sowie nach § 55 Absatz 1 Nummer 1a und 1b gegenüber
+3.  ihre nach Nummer 2 sowie nach § 55 Absatz 1 Nummer 1a und 1b gegenüber
     Käufern getroffenen Entscheidungen nach Maßgabe der Absätze 5 bis 7 zu
     veröffentlichen und
 
 
 4.  Leitlinien zur Einstufung von Erzeugnissen als verderblich im Sinne
-    des § 2 Absatz 1 Nummer 4 zu veröffentlichen.
+    des § 2 Absatz 1 Nummer 4 zu veröffentlichen.
 
 
 
@@ -1214,7 +1211,7 @@ Schutz von Geschäftsgeheimnissen verboten ist.
 Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt.
 Entscheidungen im Verfahren nach § 55 Absatz 1 Nummer 1b hinsichtlich
 des Vorliegens eines Verstoßes gegen eines der in den § 23 Satz 2 in
-Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes
+Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes
 zum Schutz von Geschäftsgeheimnissen normierten Verbote trifft die
 Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt. Vor
 Entscheidungen hinsichtlich der Höhe des festzusetzenden Bußgelds nach
@@ -1231,9 +1228,9 @@ das Bundeskartellamt diese Informationen der Durchsetzungsbehörde
 übermitteln.
 
 (3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, das Verfahren zur
-Beteiligung des Bundeskartellamts näher zu regeln.
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das
+Verfahren zur Beteiligung des Bundeskartellamts näher zu regeln.
 
 (4) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2
 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-
@@ -1348,7 +1345,7 @@ Artikel 8 Absatz 2 der Richtlinie (EU) 2019/633 teil.
 Beschwerden gegen Entscheidungen des Bundeskartellamts zuständige
 Oberlandesgericht (zuständiges Gericht).
 
-(2) Die §§ 42 bis 44a der Verwaltungsgerichtsordnung sind entsprechend
+(2) Die §§ 42 bis 44a der Verwaltungsgerichtsordnung sind entsprechend
 anzuwenden.
 
 
@@ -1552,7 +1549,7 @@ Verfahren wird in die Lage zurückversetzt, in der es sich vor dem
 Schluss der mündlichen Verhandlung befand. Im schriftlichen Verfahren
 tritt an die Stelle des Schlusses der mündlichen Verhandlung der
 Zeitpunkt, bis zu dem Schriftsätze eingereicht werden können. Für den
-Ausspruch des Gerichts ist § 343 der Zivilprozessordnung anzuwenden.
+Ausspruch des Gerichts ist § 343 der Zivilprozessordnung anzuwenden.
 
 (6) § 149 Absatz 1 Satz 2 der Verwaltungsgerichtsordnung ist
 entsprechend anzuwenden.
@@ -1563,7 +1560,7 @@ entsprechend anzuwenden.
 (1) Die in § 36 Nummer 1 bis 3 bezeichneten Beteiligten können die
 Akten des zuständigen Gerichts einsehen und sich von der
 Geschäftsstelle auf eigene Kosten Ausfertigungen, Auszüge und
-Abschriften aushändigen lassen. § 299 Absatz 3 der Zivilprozessordnung
+Abschriften aushändigen lassen. § 299 Absatz 3 der Zivilprozessordnung
 gilt entsprechend.
 
 (2) Einsicht in Vorakten, Beiakten, Gutachten und Auskünfte ist nur
@@ -1619,7 +1616,7 @@ anderes bestimmt ist, folgende Vorschriften entsprechend:
 
 ###### § 44 Zulassung der Revision, absolute Revisionsgründe
 
-(1) Gegen Entscheidungen der Oberlandesgerichte findet die Revision an
+(1) Gegen Entscheidungen des Oberlandesgerichts findet die Revision an
 den Bundesgerichtshof statt, wenn das Oberlandesgericht die Revision
 zugelassen hat.
 
@@ -1688,7 +1685,7 @@ mit der Zustellung der angefochtenen Entscheidung.
     Nummer 2 dieses Gesetzes sowie
 
 
-2.  die §§ 192 bis 201 des Gerichtsverfassungsgesetzes über die Beratung
+2.  die §§ 192 bis 201 des Gerichtsverfassungsgesetzes über die Beratung
     und Abstimmung sowie über den Rechtsschutz bei überlangen
     Gerichtsverfahren.
 
@@ -1710,7 +1707,7 @@ Lauf der Beschwerdefrist.
 Klageverfahren Beteiligten zu.
 
 (2) Die Revision kann nur darauf gestützt werden, dass die
-Entscheidung auf einer Verletzung des Rechts beruht; die §§ 546 und
+Entscheidung auf einer Verletzung des Rechts beruht; die §§ 546 und
 547 der Zivilprozessordnung gelten entsprechend.
 
 (3) Die Revision ist binnen einer Frist von einem Monat schriftlich
@@ -1722,9 +1719,9 @@ getroffenen tatsächlichen Feststellungen gebunden, außer, wenn in
 Bezug auf diese Feststellungen zulässige und begründete
 Revisionsgründe vorgebracht worden sind.
 
-(5) Für die Revision gelten im Übrigen § 34 Absatz 3, 4 Nummer 1 und
+(5) Für die Revision gelten im Übrigen § 34 Absatz 3, 4 Nummer 1 und
 Absatz 5 sowie die §§ 36 bis 38 und 40 bis 43 entsprechend. Für den
-Erlass einstweiliger Anordnungen ist das nach § 32 Absatz 1 zuständige
+Erlass einstweiliger Anordnungen ist das nach § 32 Absatz 1 zuständige
 Gericht zuständig.
 
 
@@ -1750,9 +1747,9 @@ Kostenfestsetzungsbeschlüssen entsprechend.
 Durchsetzungsbehörde gestattet werden, Fragen an Betroffene, Zeugen
 und Sachverständige zu richten.
 
-(2) Im gerichtlichen Bußgeldverfahren hat bei Entscheidungen nach § 55
+(2) Im gerichtlichen Bußgeldverfahren hat bei Entscheidungen nach § 55
 Absatz 1 Nummer 1b auch das Bundeskartellamt die Rechte der
-Verwaltungsbehörde nach § 76 des Gesetzes über Ordnungswidrigkeiten.
+Verwaltungsbehörde nach § 76 des Gesetzes über Ordnungswidrigkeiten.
 Dem Vertreter des Bundeskartellamts kann gestattet werden, Fragen an
 Betroffene, Zeugen und Sachverständige zu richten.
 
@@ -1770,7 +1767,7 @@ die der Staatskasse auferlegten Kosten trägt.
 
 ###### § 49 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
 
-(1) Das nach § 32 Absatz 1 zuständige Gericht entscheidet
+(1) Das nach § 32 Absatz 1 zuständige Gericht entscheidet
 
 1.  im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach § 55
     Absatz 1 Nummer 1a oder 1b,
@@ -1778,11 +1775,11 @@ die der Staatskasse auferlegten Kosten trägt.
 
 2.  über einen Antrag auf gerichtliche Entscheidung (§ 62 des Gesetzes
     über Ordnungswidrigkeiten) in den Fällen des § 52 Absatz 2 Satz 3 und
-    des § 69 Absatz 1 Satz 2 des Gesetzes über Ordnungswidrigkeiten.
+    des § 69 Absatz 1 Satz 2 des Gesetzes über Ordnungswidrigkeiten.
 
 
 
-§ 140 Absatz 1 Nummer 1 der Strafprozessordnung in Verbindung mit § 46
+§ 140 Absatz 1 Nummer 1 der Strafprozessordnung in Verbindung mit § 46
 Absatz 1 des Gesetzes über Ordnungswidrigkeiten findet keine
 Anwendung.
 
@@ -1792,7 +1789,7 @@ Mitgliedern, das vorsitzende Mitglied eingeschlossen.
 
 ###### § 50 Rechtsbeschwerde beim Bundesgerichtshof
 
-Über die Rechtsbeschwerde (§ 79 des Gesetzes über
+Über die Rechtsbeschwerde (§ 79 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die
 angefochtene Entscheidung auf, ohne in der Sache selbst zu
 entscheiden, so verweist er die Sache an das Oberlandesgericht, dessen
@@ -1802,7 +1799,7 @@ Entscheidung aufgehoben wird, zurück.
 ###### § 51 Wiederaufnahmeverfahren gegen den Bußgeldbescheid
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der
-Durchsetzungsbehörde (§ 85 Absatz 4 des Gesetzes über
+Durchsetzungsbehörde (§ 85 Absatz 4 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet das nach § 32 Absatz 1 zuständige
 Gericht.
 
@@ -1810,8 +1807,39 @@ Gericht.
 ###### § 52 Gerichtliche Entscheidungen bei der Vollstreckung
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen
-Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
+Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
 von dem nach § 32 Absatz 1 zuständigen Gericht erlassen.
+
+
+##### Unterabschnitt 3 - Gemeinsame Bestimmungen für das gerichtliche Verfahren
+
+
+###### § 52a Zuständiger Senat bei dem Oberlandesgericht
+
+Der nach § 91 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bei
+dem Oberlandesgericht gebildete Kartellsenat entscheidet über die nach
+diesem Gesetz dem Oberlandesgericht zugewiesenen Rechtssachen.
+
+
+###### § 52b Zuständiger Senat beim Bundesgerichtshof
+
+(1) Der nach § 94 des Gesetzes gegen Wettbewerbsbeschränkungen beim
+Bundesgerichtshof gebildete Kartellsenat entscheidet über folgende
+Rechtsmittel:
+
+1.  in Verwaltungssachen über die Revision gegen Entscheidungen des
+    Oberlandesgerichts (§§ 44, 46, 47) und über die
+    Nichtzulassungsbeschwerde (§ 45),
+
+
+2.  in Bußgeldsachen über die Rechtsbeschwerde gegen Entscheidungen des
+    Oberlandesgerichts (§ 50).
+
+
+
+
+(2) § 94 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen gilt
+entsprechend.
 
 
 ### Kapitel 2 - Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen
@@ -1820,9 +1848,9 @@ von dem nach § 32 Absatz 1 zuständigen Gericht erlassen.
 #### § 53 Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf, zur Durchführung
-unionsrechtlicher Bestimmungen über die Gestaltung von
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur
+Durchführung unionsrechtlicher Bestimmungen über die Gestaltung von
 Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von
 Agrarerzeugnissen Vorschriften über
 
@@ -1871,18 +1899,19 @@ Rechtsverordnung nach Absatz 1
 ### § 54 Überwachung; Mitteilungen; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
-die nach Maßgabe des Absatzes 2 der Zustimmung des Bundesrates bedarf,
-die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des
-Agrarorganisationenrechts oder der Einhaltung des Rechts über
-Geschäftsbeziehungen in der Lebensmittellieferkette oder zur Erfüllung
-von Mitteilungspflichten gegenüber Organen der Europäischen Union
-erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-,
-Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie
-Pflichten zur Duldung des Betretens und der Besichtigung von
-Geschäftsräumen und Betriebsstätten während der üblichen Geschäfts-
-und Betriebszeiten, zur Vornahme von Proben sowie zur Einsichtnahme
-und zum Kopieren von Geschäftsunterlagen vorgeschrieben werden.
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die nach Maßgabe des Absatzes 2 der Zustimmung des
+Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung
+der Einhaltung des Agrarorganisationenrechts oder der Einhaltung des
+Rechts über Geschäftsbeziehungen in der Lebensmittellieferkette oder
+zur Erfüllung von Mitteilungspflichten gegenüber Organen der
+Europäischen Union erforderlich sind. Insbesondere können
+Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige
+Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und
+der Besichtigung von Geschäftsräumen und Betriebsstätten während der
+üblichen Geschäfts- und Betriebszeiten, zur Vornahme von Proben sowie
+zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen
+vorgeschrieben werden.
 
 (2) Die Zustimmung des Bundesrates ist nicht erforderlich, wenn die
 Vorschriften
@@ -1905,11 +1934,11 @@ Vorschriften
     bezeichnet,
 
 
-1a. entgegen § 10 Absatz 3 eine Auskunft nicht, nicht richtig, nicht
+1a. entgegen § 10 Absatz 3 eine Auskunft nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erteilt,
 
 
-1b. entgegen § 23 Satz 1 ein wirtschaftliches Ungleichgewicht nach § 23
+1b. entgegen § 23 Satz 1 ein wirtschaftliches Ungleichgewicht nach § 23
     Satz 2 ausnutzt,
 
 
@@ -1922,7 +1951,7 @@ Vorschriften
     b)  § 4 Absatz 1 Nummer 5 oder
 
 
-    c)  § 7 Absatz 3 Satz 3 oder § 54 Absatz 1 Satz 1
+    c)  § 7 Absatz 3 Satz 3 oder § 54 Absatz 1 Satz 1
 
 
 
@@ -1940,8 +1969,8 @@ Vorschriften
 
 
 
-(1a) In den Fällen des Absatzes 1 Nummer 1b in Verbindung mit § 23
-Satz 1 und 2 Nummer 9 bleibt die Strafbarkeit nach § 23 des Gesetzes
+(1a) In den Fällen des Absatzes 1 Nummer 1b in Verbindung mit § 23
+Satz 1 und 2 Nummer 9 bleibt die Strafbarkeit nach § 23 des Gesetzes
 zum Schutz von Geschäftsgeheimnissen unberührt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1b
@@ -1956,7 +1985,7 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände
 zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 3
 geahndet werden können.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
 Nummer 1a und 1b die Durchsetzungsbehörde.
 
@@ -1976,11 +2005,8 @@ Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs
 Monaten begrenzt wird.
 
 
-### § 57 Verkündung von Rechtsverordnungen
+### § 57 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 58 Übergangsbestimmungen
@@ -1998,13 +2024,13 @@ anzupassen.
 ### § 59 Evaluierung der Regelungen über unlautere Handelspraktiken
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet
-unter Beteiligung des Bundesministeriums für Wirtschaft und Energie
-den durch das Zweite Gesetz zur Änderung des
+unter Beteiligung des Bundesministeriums für Wirtschaft und
+Klimaschutz den durch das Zweite Gesetz zur Änderung des
 Agrarmarktstrukturgesetzes vom 2. Juni 2021 (BGBl. I S. 1278)
 eingefügten Teil 3 Kapitel 1 Abschnitt 1 nach Ablauf von zwei Jahren
 nach Inkrafttreten des Gesetzes im Hinblick auf die Wirksamkeit der
 Regelungen. Gegenstand der Evaluierung ist insbesondere die Auswirkung
-der §§ 11 bis 23 auf die Gestaltung der Vertragsbeziehungen von
+der §§ 11 bis 23 auf die Gestaltung der Vertragsbeziehungen von
 Lieferanten und Käufern. Neben der Überprüfung der Einhaltung
 bestehender Verbote kann der Deutsche Bundestag im Zuge der
 Evaluierung gegebenenfalls auch die Liste verbotener Handelspraktiken

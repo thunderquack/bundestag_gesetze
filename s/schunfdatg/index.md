@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3118
 
 Zuletzt geändert durch
-:   Art. 150 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 3 Abs. 6 G v. 2.6.2021 I 1278 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 6 G v. 2.6.2021 I 1278
 
 
 ## § 1 Anwendungsbereich

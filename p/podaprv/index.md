@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 12
 
 Zuletzt geändert durch
-:   Art. 25 G v. 15.8.2019 I 1307
+:   Art. 11 V v. 7.6.2023 I Nr. 148
 
 
 ## Eingangsformel
@@ -37,6 +37,13 @@ von 1000 Stunden.
 Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten
 und Fertigkeiten zu entwickeln und einzuüben. Die praktische
 Ausbildung findet an Patientinnen und Patienten statt.
+
+(2a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning
+beinhalten, können zielgerichtet bei der Konzeption des theoretischen
+und praktischen Unterrichts in einem angemessenen Umfang
+berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist
+von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere
+regeln die Länder.
 
 (3) Die regelmäßige und erfolgreiche Teilnahme an den
 Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung
@@ -175,13 +182,17 @@ bestellt.
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem
 Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule
-ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei
-Fachprüferinnen oder Fachprüfern zu benoten. Aus den Noten der
-Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des
-Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder
-Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den
+ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder
+Fachprüfern zu benoten. Aus den Noten der Fachprüferinnen oder
+Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die
+Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der
+Noten der einzelnen Fachprüferinnen oder Fachprüfer sowie aus den
 Noten der drei Aufsichtsarbeiten die Prüfungsnote für den
-schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist
+schriftlichen Teil der Prüfung als das arithmetische Mittel der Noten
+der einzelnen Aufsichtsarbeiten unter Berücksichtigung ihres
+zeitlichen Umfangs. Die Berechnung erfolgt auf zwei Stellen nach dem
+Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende
+Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist
 bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit
 "ausreichend" benotet wird.
 
@@ -209,15 +220,19 @@ Prüfung soll für den einzelnen Prüfling in den Fächern Nummer 1 und 2
 jeweils nicht länger als 15 Minuten, in den Fächern Nummer 3 und 4
 jeweils nicht länger als 10 Minuten dauern.
 
-(2) Die Prüfung in jedem Fach wird von mindestens einer Fachprüferin
-oder einem Fachprüfer abgenommen und benotet. Die oder der Vorsitzende
-des Prüfungsausschusses ist berechtigt, sich in allen Fächern an der
-Prüfung zu beteiligen; sie oder er kann auch selbst prüfen. Aus den
-Noten der Fachprüferinnen oder Fachprüfer bildet die oder der
-Vorsitzende des Prüfungsausschusses im Benehmen mit den
-Fachprüferinnen oder Fachprüfern die Prüfungsnote für den mündlichen
-Teil der Prüfung. Der mündliche Teil der Prüfung ist bestanden, wenn
-jedes Fach mindestens mit "ausreichend" benotet wird.
+(2) Die Prüfung in jedem Fach wird von zwei Fachprüferinnen oder
+Fachprüfern abgenommen und benotet. Die oder der Vorsitzende ist
+berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm
+steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder
+Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die
+Note für jedes einzelne Fach als das arithmetische Mittel der Noten
+der einzelnen Fachprüferinnen oder Fachprüfer sowie die Prüfungsnote
+für den mündlichen Teil der Prüfung als das arithmetische Mittel der
+Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen
+nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die
+entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung
+ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet
+wird.
 
 (3) Die oder der Vorsitzende des Prüfungsausschusses kann mit
 Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern
@@ -253,14 +268,20 @@ die Patientin oder den Patienten verantwortlichen Fachpersonal. Die
 Prüfung soll für den einzelnen Prüfling im Fach 1 nicht länger als 120
 Minuten, im Fach 2 nicht länger als 180 Minuten dauern.
 
-(3) Der praktische Teil der Prüfung wird in jedem Fach von mindestens
-zwei Fachprüferinnen oder Fachprüfern, darunter mindestens einer
+(3) Der praktische Teil der Prüfung wird in jedem Fach von zwei
+Fachprüferinnen oder Fachprüfern, darunter mindestens einer
 Fachprüferin oder einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b,
-abgenommen und benotet. Aus den Noten der Fachprüferinnen oder
-Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im
-Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für
-den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist
-bestanden, wenn jedes Fach mit mindestens "ausreichend" benotet wird.
+abgenommen und benotet. Die oder der Vorsitzende des
+Prüfungsausschusses ist berechtigt, an der Prüfung teilzunehmen; ihr
+oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen
+oder Fachprüfer bildet die oder der Vorsitzende des
+Prüfungsausschusses die Prüfungsnote für den praktischen Teil der
+Prüfung als das arithmetische Mittel der Noten der einzelnen
+Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei
+Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist
+die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der
+Prüfung ist bestanden, wenn jedes Fach mit mindestens "ausreichend"
+benotet wird.
 
 
 ## § 8 Niederschrift
@@ -270,35 +291,70 @@ Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
 
 
-## § 9 Benotung
+## § 9 Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der
-mündlichen und praktischen Prüfung werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
+benotet:
 
--   "sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße
-    entspricht,
+*    *   Berechneter Zahlenwert
 
+    *   Note in Worten
+        (Zahlenwert)
 
--   "gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-
-
--   "befriedigend" (3), wenn die Leistung im Allgemeinen den Anforderungen
-    entspricht,
+    *   Notendefinition
 
 
--   "ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im
-    Ganzen den Anforderungen noch entspricht,
+*    *   1,00 bis 1,49
+
+    *   sehr gut
+        (1)
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
--   "mangelhaft" (5), wenn die Leistung den Anforderungen nicht
-    entspricht, jedoch erkennen lässt, dass die notwendigen
-    Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit
-    behoben werden können,
+*    *   1,50 bis 2,49
+
+    *   gut
+        (2)
+
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
--   "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
-    und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-    absehbarer Zeit nicht behoben werden können.
+*    *   2,50 bis 3,49
+
+    *   befriedigend
+        (3)
+
+    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
+
+
+*    *   3,50 bis 4,49
+
+    *   ausreichend
+        (4)
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   4,50 bis 5,49
+
+    *   mangelhaft
+        (5)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
+        Mängel in absehbarer Zeit behoben werden können
+
+
+*    *   5,50 bis 6,00
+
+    *   ungenügend
+        (6)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
+        absehbarer Zeit nicht behoben werden können
 
 
 
@@ -516,14 +572,16 @@ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des
 Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die
 Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der
 Vorsitzende des Prüfungsausschusses nach Rücksprache mit den
-Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens
-zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden.
-Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem
-Muster der Anlage 5b erteilt.
+Fachprüfern über das Bestehen. Die oder der Vorsitzende des
+Prüfungsausschusses muss zu diesem Zweck an der Prüfung teilnehmen;
+ihr oder ihm steht ein Fragerecht zu. Die Eignungsprüfung soll
+mindestens zweimal jährlich angeboten werden. Sie darf einmal
+wiederholt werden. Über die bestandene Eignungsprüfung wird eine
+Bescheinigung nach dem Muster der Anlage 5b erteilt.
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 7a
 Absatz 3 Satz 6 des Podologengesetzes einer Eignungsprüfung zu
-unterziehen haben. Abweichend von Absatz 3 Satz 13 ist dabei
+unterziehen haben. Abweichend von Absatz 3 Satz 14 ist dabei
 sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach
 der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt
 werden kann.
@@ -609,10 +667,12 @@ wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit
 Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen
 genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung,
 entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache
-mit den Fachprüfern über das Bestehen.
+mit den Fachprüfern über das Bestehen. Die oder der Vorsitzende des
+Prüfungsausschusses muss zu diesem Zweck an der Prüfung teilnehmen;
+ihr oder ihm steht ein Fragerecht zu.
 
 (5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3
-Satz 2 bis 12 entsprechend.
+Satz 2 bis 13 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden und darf in jedem Prüfungsteil, das nicht bestanden wurde,

@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1964, 711
 
-Geändert durch
-:   Art. 1 V v. 11.2.1983 I 85
-
-Änderung durch
-:   Art. 1 V v. 18.5.2021 I1181 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 18.5.2021 I 1181
 
 
 

@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 10.4.1991 I 886;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.7.2021 I 2754
-
-Änderung durch
-:   Art. 20e G v. 22.11.2021 I 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 10.12.2021 I 5162 (Nr. 83) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 26.7.2023 I Nr. 202
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -89,15 +83,18 @@ Im Sinne dieses Gesetzes sind
         Kinderkrankenpfleger,
 
 
-    g)  Krankenpflegehelferin, Krankenpflegehelfer,
+    g)  im Bereich der Pflegehilfe und -assistenz, insbesondere für die Berufe
+        Krankenpflegehelfer, Krankenpflegehelferin, Pflegehelfer,
+        Pflegehelferin, Pflegeassistent, Pflegeassistentin,
+        Pflegefachassistent, Pflegefachassistentin,
 
 
-    h)  medizinisch-technischer Laboratoriumsassistent, medizinisch-technische
-        Laboratoriumsassistentin,
+    h)  medizinischer Technologe für Laboratoriumsanalytik, medizinische
+        Technologin für Laboratoriumsanalytik,
 
 
-    i)  medizinisch-technischer Radiologieassistent, medizinisch-technische
-        Radiologieassistentin,
+    i)  medizinischer Technologe für Radiologie, medizinische Technologin für
+        Radiologie,
 
 
     j)  Logopäde, Logopädin,
@@ -106,8 +103,8 @@ Im Sinne dieses Gesetzes sind
     k)  Orthoptist, Orthoptistin,
 
 
-    l)  medizinisch-technischer Assistent für Funktionsdiagnostik,
-        medizinisch-technische Assistentin für Funktionsdiagnostik,
+    l)  medizinischer Technologe für Funktionsdiagnostik, medizinische
+        Technologin für Funktionsdiagnostik,
 
 
     m)  Anästhesietechnische Assistentin, Anästhesietechnischer Assistent,
@@ -242,7 +239,10 @@ Dieses Gesetz findet keine Anwendung auf
 
 
 
-§ 28 bleibt unberührt.
+§ 28 bleibt unberührt. § 26f findet hinsichtlich der Krankenhäuser der
+Träger der gesetzlichen Unfallversicherung und ihrer Vereinigungen
+auch Anwendung, soweit die gesetzliche Unfallversicherung die Kosten
+trägt.
 
 
 ### § 4
@@ -539,7 +539,7 @@ entscheiden, bleibt unberührt.
 vereinbaren die Grundstrukturen für Investitionsbewertungsrelationen
 und das Verfahren zu ihrer Ermittlung, insbesondere zur Kalkulation in
 einer sachgerechten und repräsentativen Auswahl von Krankenhäusern; §
-17b Absatz 3 Satz 4 bis 6 und Absatz 7 Satz 6 ist entsprechend
+17b Absatz 3 Satz 4 und 5, Absatz 3a und 7 Satz 6 ist entsprechend
 anzuwenden. In den Investitionsbewertungsrelationen ist der
 Investitionsbedarf für die voll- und teilstationären Leistungen
 pauschaliert abzubilden; der Differenzierungsgrad soll praktikabel
@@ -885,13 +885,21 @@ Schlüssel mit Stand vom 6. November 2018 ergibt. Mit dem Betrag nach
 Satz 1 können auch länderübergreifende Vorhaben gefördert werden. Die
 einem Land nach Satz 1 zustehenden Fördermittel, die nicht durch die
 von einem Land bis zum 31. Dezember 2021 vollständig gestellten
-Anträge ausgeschöpft werden, werden mit Ablauf des Jahres 2023 durch
-das Bundesamt für Soziale Sicherung an den Bund zurückgeführt.
+Anträge ausgeschöpft werden, können vom Bundesamt für Soziale
+Sicherung zur Deckung seiner Aufwendungen gemäß Absatz 6 Satz 3
+verwendet werden. Spätestens mit Ablauf des Jahres 2025 werden durch
+das Bundesamt für Soziale Sicherung die durch die Länder nicht
+ausgeschöpften oder durch das Bundesamt für Soziale Sicherung nicht
+für andere Aufgaben verwendeten Mittel an den Bund zurückgeführt. Das
+Bundesamt für Soziale Sicherung berichtet dem Bundesministerium für
+Gesundheit beginnend zum 31. Dezember 2022 halbjährlich über die
+entstandenen und voraussichtlich entstehenden Aufwendungen.
 Fördermittel können auch für die Finanzierung der Zinsen, der Tilgung
 und der Verwaltungskosten von Darlehen gewährt werden, soweit diese
 zur Finanzierung förderungsfähiger Vorhaben aufgenommen worden sind.
-Mindestens 15 Prozent der gewährten Fördermittel sind für Maßnahmen
-zur Verbesserung der Informationssicherheit zu verwenden.
+Mindestens 15 Prozent der gewährten Fördermittel sind für technische
+und organisatorische Maßnahmen zur Verbesserung der
+Informationssicherheit zu verwenden.
 
 (4) Die Krankenhausträger melden ihren Förderbedarf, unter Angabe
 insbesondere des Vorhabens und der Fördersumme, unter Nutzung der vom
@@ -933,13 +941,16 @@ ist, dass
 
 
     b)  die in Buchstabe a genannten Haushaltsmittel um den Betrag der von dem
-        Land nach Nummer 2 zu tragenden Kosten zu erhöhen und
+        Land nach Nummer 2 zu tragenden Kosten zu erhöhen,
 
 
 
 
 
-4.  die auf Grundlage des Absatzes 7 geregelten Voraussetzungen erfüllt
+4.  das Krankenhaus an der Auswertung nach § 14b Satz 3 teilnimmt und
+
+
+5.  die auf Grundlage des Absatzes 7 geregelten Voraussetzungen erfüllt
     sind.
 
 
@@ -976,32 +987,44 @@ Rechtsverordnung nach § 12 Absatz 3 auch das Nähere zu
 2.  dem Nachweis der Fördervoraussetzungen nach Absatz 5 Satz 1 und
 
 
-3.  dem Nachweis der zweckentsprechenden Verwendung der Fördermittel und
-    zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter
-    Fördermittel.
+3.  dem Nachweis der zweckentsprechenden Verwendung der Fördermittel
+    während und nach dem Ende der Vorhaben und zur Rückzahlung überzahlter
+    oder nicht zweckentsprechend verwendeter Fördermittel.
 
 
 
 
 
-### § 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung
+### § 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung und Begleitforschung für die digitale Transformation im Rahmen des Krankenhauszukunftsfonds
 
-Das Bundesministerium für Gesundheit beauftragt bis zum 28. Februar
-2021 eine Forschungseinrichtung mit einer den Krankenhauszukunftsfonds
-begleitenden Auswertung hinsichtlich der Digitalisierung aller
-Krankenhäuser und insbesondere der nach § 14a geförderten Vorhaben.
-Aus der Auswertung soll sich ergeben, inwieweit die Digitalisierung
-der Krankenhäuser und die Versorgung von Patientinnen und Patienten
-durch die Förderung verbessert werden konnten. Im Rahmen dieser
-Auswertung ist der Reifegrad aller Krankenhäuser hinsichtlich der
-Digitalisierung jeweils zum 30. Juni 2021 und zum 30. Juni 2023 unter
-Berücksichtigung von Bewertungskriterien anerkannter Reifegradmodelle
-festzustellen. Die Krankenhäuser, denen Fördermittel nach § 14a
-gewährt worden sind, übermitteln der vom Bundesministerium für
-Gesundheit beauftragten Forschungseinrichtung auf deren Anforderung in
+Das Bundesministerium für Gesundheit führt zur Evaluation des
+Krankenhauszukunftsfonds eine Auswertung hinsichtlich der
+Digitalisierung aller Krankenhäuser und insbesondere der nach § 14a
+geförderten Vorhaben sowie eine Begleitforschung zur digitalen
+Transformation der Krankenhäuser durch. Aus der Evaluation soll sich
+ergeben, inwieweit die Digitalisierung der Krankenhäuser, der Umgang
+mit technologischen Innovationen und die Versorgung von Patientinnen
+und Patienten durch die Förderung verbessert sowie zukünftige Bedarfe
+zur digitalen Transformation im Krankenhausbereich identifiziert und
+geeignete Weiterentwicklungsstrategien entwickelt werden. Im Rahmen
+einer Auswertung durch eine durch das Bundesministerium für Gesundheit
+beauftragte Forschungseinrichtung ist der Reifegrad aller
+Krankenhäuser hinsichtlich der Digitalisierung jeweils zum Stichtag
+30\. Juni 2021 und 30. Juni 2024 unter Berücksichtigung von
+Bewertungskriterien anerkannter Reifegradmodelle festzustellen. Das
+Bundesministerium für Gesundheit wird ermächtigt, in der
+Rechtsverordnung nach § 12 Absatz 3 einen weiteren Stichtag
+festzulegen. Die Empfänger von Fördermitteln nach § 14a übermitteln
+der vom Bundesministerium für Gesundheit mit der Reifegradmessung
+beauftragten Forschungseinrichtung auf deren Anforderung in
 elektronischer Form die für die Auswertung erforderlichen
 strukturierten Selbsteinschätzungen hinsichtlich des Umsetzungsstands
-digitaler Maßnahmen.
+digitaler Maßnahmen. Den teilnehmenden Krankenhäusern wird ein
+Teilnahmezertifikat durch die mit der Reifegradmessung beauftragte
+Forschungseinrichtung ausgestellt. Die Länder prüfen, ob diejenigen
+Krankenhäuser, die nach § 14a eine Förderung in dem jeweiligen Land
+erhalten, an der Reifegradmessung teilgenommen haben und bestätigen
+die Teilnahme gegenüber dem Bundesamt für Soziale Sicherung.
 
 
 ### § 15 Beteiligung an Schließungskosten
@@ -1197,12 +1220,13 @@ jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu
 bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3
 nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der
 Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die
-in der Krankenpflegehilfe ausgebildet werden, nach dem ersten Jahr
-ihrer Ausbildung im Verhältnis 6 zu 1 auf die Stelle einer voll
-ausgebildeten Person nach Teil 2 des Pflegeberufegesetzes anzurechnen.
-Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen
-der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu
-den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1
+im in § 2 Nummer 1a Buchstabe g genannten Bereich der Pflegehilfe und
+‑assistenz ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung
+im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person
+nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den
+Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der
+Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den
+Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1
 gehören auch die Kosten der berufspraktischen Ausbildung von
 Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen
 oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2
@@ -1469,7 +1493,11 @@ vertieft zu prüfen. Zur Förderung der palliativmedizinischen
 Versorgung durch Palliativdienste ist die Kalkulation eines
 Zusatzentgelts zu ermöglichen; im Einvernehmen mit der betroffenen
 medizinischen Fachgesellschaft sind die hierfür erforderlichen
-Kriterien bis zum 29. Februar 2016 zu entwickeln.
+Kriterien bis zum 29. Februar 2016 zu entwickeln. Zur sachgerechten
+Abbildung der Kosten von telekonsiliarärztlichen Leistungen haben die
+Vertragsparteien nach Absatz 2 Satz 1 auf der Grundlage eines Konzepts
+des Instituts für das Entgeltsystem im Krankenhaus spätestens bis zum
+30\. September 2024 Entgelte zu vereinbaren.
 
 (1a) Soweit allgemeine Krankenhausleistungen nicht oder noch nicht in
 die Entgelte nach Absatz 1 Satz 1 einbezogen werden können, weil der
@@ -1572,33 +1600,72 @@ Krankenhäusern kalkuliert. Auf der Grundlage eines vom Institut für
 das Entgeltsystem im Krankenhaus zu entwickelnden Vorschlags
 vereinbaren die Vertragsparteien nach Absatz 2 Satz 1 bis spätestens
 zum 31. Dezember 2016 ein praktikables Konzept für eine repräsentative
-Kalkulation nach Satz 3 und deren Weiterentwicklung. Als Bestandteil
-des Konzepts haben die Vertragsparteien geeignete Maßnahmen zu seiner
-Umsetzung zu vereinbaren; dabei können sie insbesondere Maßnahmen
-ergreifen, um die Lieferung uneingeschränkt verwertbarer Daten zu
-gewährleisten und um die Richtigkeit der übermittelten Daten umfassend
-überprüfen zu können. Das Institut für das Entgeltsystem im
-Krankenhaus bestimmt auf der Grundlage des Konzepts nach Satz 4,
-welche Krankenhäuser an der Kalkulation teilnehmen; diese
-Krankenhäuser sind zur Übermittlung der für die Durchführung der
-Kalkulation erforderlichen Daten an das Institut für das Entgeltsystem
-im Krankenhaus verpflichtet.
+Kalkulation nach Satz 3; zur Gewährleistung einer repräsentativen
+Kalkulation der nach Absatz 4 auszugliedernden Pflegepersonalkosten
+hat das Institut für das Entgeltsystem im Krankenhaus das Konzept
+anzupassen. Das Institut für das Entgeltsystem im Krankenhaus bestimmt
+auf der Grundlage des Konzepts nach Satz 4, welche Krankenhäuser an
+der Kalkulation teilnehmen; diese Krankenhäuser sind zur Übermittlung
+der für die Durchführung der Kalkulation erforderlichen Daten an das
+Institut für das Entgeltsystem im Krankenhaus verpflichtet.
+
+(3a) Das Institut für das Entgeltsystem im Krankenhaus hat für jede
+nicht erfolgte, nicht vollständige oder nicht fristgerechte
+Übermittlung der für die Durchführung der Kalkulation nach Absatz 3
+Satz 4 erforderlichen Daten einen Abschlag von den pauschalierten
+Pflegesätzen nach § 17 Absatz 1 je Standort eines Krankenhauses
+festzulegen. Eine Übermittlung gilt als nicht vollständig, wenn die
+Daten von weniger als 95 Prozent der für den jeweiligen Standort eines
+Krankenhauses an das Institut für das Entgeltsystem im Krankenhaus
+übermittelten voll- und teilstationären Krankenhausfälle verwertbar
+sind. Der Abschlag nach Satz 1 ergibt sich aus der Multiplikation der
+Anzahl der voll- und teilstationären Krankenhausfälle, deren Daten
+durch das Krankenhaus je Krankenhausstandort nicht übermittelt werden
+oder zwar übermittelt werden, aber durch das Institut für das
+Entgeltsystem im Krankenhaus nicht verwertbar sind, mit einem
+fallbezogenen Abschlagswert. Der fallbezogene Abschlagswert beträgt im
+ersten Jahr der Datenübermittlung, in dem eine Übermittlung nicht,
+nicht vollständig oder nicht fristgerecht erfolgt, 20 Euro je voll-
+und teilstationären Krankenhausfall, dessen Daten nicht übermittelt
+werden oder zwar übermittelt werden, aber durch das Institut für das
+Entgeltsystem im Krankenhaus nicht verwertbar sind. Für jedes weitere
+Jahr der Datenübermittlung, in dem eine Übermittlung nicht, nicht
+vollständig oder nicht fristgerecht erfolgt, erhöht sich der
+fallbezogene Abschlagswert nach Satz 4 um jeweils 10 Euro. Abweichend
+von den Sätzen 3 bis 5 beträgt der Abschlag nach Satz 1 mindestens
+20 000 Euro und höchstens 500 000 Euro pro Jahr der Datenübermittlung.
+Das Institut für das Entgeltsystem im Krankenhaus unterrichtet jeweils
+die Vertragsparteien nach § 18 Absatz 2 über Verstöße und die Höhe des
+jeweiligen Abschlags nach Satz 1. Die Vertragsparteien nach § 18
+Absatz 2 berücksichtigen den Abschlag nach Satz 1 bei der Vereinbarung
+nach § 11 des Krankenhausentgeltgesetzes und § 11 der
+Bundespflegesatzverordnung.
 
 (4) Die Vertragsparteien nach Absatz 2 Satz 1 haben auf der Grundlage
 eines Konzepts des Instituts für das Entgeltsystem im Krankenhaus die
 Pflegepersonalkosten für die unmittelbare Patientenversorgung auf
-bettenführenden Stationen aus dem Vergütungssystem auszugliedern und
-eine neue Pflegepersonalkostenvergütung zu entwickeln. Hierfür haben
-sie insbesondere erstmals bis zum 31. Januar 2019 eine eindeutige,
-bundeseinheitliche Definition der auszugliedernden
-Pflegepersonalkosten zu vereinbaren und dabei auch Regelungen für die
-Zuordnung von Kosten von Pflegepersonal festzulegen, das überwiegend
-in der unmittelbaren Patientenversorgung auf bettenführenden Stationen
-tätig ist. Die Krankenhäuser haben die Vorgaben zur Ausgliederung und
-zur bundeseinheitlichen Definition nach den Sätzen 1 und 2 für die
-Abgrenzung ihrer Kosten und Leistungen rückwirkend ab dem 1. Januar
-2019 anzuwenden. Die Vertragsparteien nach Absatz 2 Satz 1 haben die
-Bewertungsrelationen für das DRG-Vergütungssystem erstmals für das
+bettenführenden Stationen und in Kreißsälen aus dem Vergütungssystem
+auszugliedern und eine neue Pflegepersonalkostenvergütung zu
+entwickeln; ab dem Jahr 2025 haben die Vertragsparteien nach Absatz 2
+Satz 1 auf der Grundlage eines angepassten Konzepts des Instituts für
+das Entgeltsystem im Krankenhaus die Pflegepersonalkosten für die
+unmittelbare Patientenversorgung auf bettenführenden Stationen und in
+Kreißsälen nach den Vorgaben des Absatzes 4a aus dem Vergütungssystem
+auszugliedern und die Pflegepersonalkostenvergütung
+weiterzuentwickeln. Hierfür haben sie insbesondere erstmals bis zum
+31\. Januar 2019 eine eindeutige, bundeseinheitliche Definition der
+auszugliedernden Pflegepersonalkosten zu vereinbaren und dabei auch
+Regelungen für die Zuordnung von Kosten von Pflegepersonal
+festzulegen, das überwiegend in der unmittelbaren Patientenversorgung
+auf bettenführenden Stationen tätig ist. Die Krankenhäuser haben die
+Vorgaben zur Ausgliederung und zur bundeseinheitlichen Definition nach
+Satz 1 erster Halbsatz und Satz 2 für die Abgrenzung ihrer Kosten und
+Leistungen rückwirkend ab dem 1. Januar 2019 anzuwenden; für die
+Vereinbarungen ab dem Jahr 2025 haben die Krankenhäuser ab dem 1.
+Januar 2023 die Vorgaben zur Ausgliederung und zur bundeseinheitlichen
+Definition nach Absatz 4a für die Abgrenzung ihrer Kosten und
+Leistungen anzuwenden. Die Vertragsparteien nach Absatz 2 Satz 1 haben
+die Bewertungsrelationen für das DRG-Vergütungssystem erstmals für das
 Jahr 2020 um die Summe der Bewertungsrelationen der nach Satz 1
 auszugliedernden Pflegepersonalkosten und die Zusatzentgelte um die
 pflegerelevanten Kosten zu vermindern sowie auf dieser Grundlage die
@@ -1612,21 +1679,90 @@ Absatz 2 für die Abzahlung des Pflegebudgets nach § 6a des
 Krankenhausentgeltgesetzes anzuwenden. Für die Ausgliederung der
 Pflegepersonalkosten und die Entwicklung einer neuen
 Pflegepersonalkostenvergütung nach Satz 1 sowie für die Vereinbarung
-einer bundeseinheitlichen Definition nach Satz 2 gelten die Regelungen
-nach Absatz 2 Satz 4 bis 7 zur Einbindung der Berufsorganisationen der
-Krankenpflegeberufe, zur Beschlussfassung sowie zu den Teilnahme und
-Zugangsrechten des Bundesministeriums für Gesundheit entsprechend. Für
-die Ausweisung der auszugliedernden Pflegepersonalkosten in einem
-Katalog mit bundeseinheitlichen Bewertungsrelationen und die
-Weiterentwicklung des Katalogs nach Satz 5 gelten die
-Veröffentlichungspflichten nach Absatz 2 Satz 8 entsprechend. Die
-Vertragsparteien nach Absatz 2 Satz 1 berichten dem Bundesministerium
-für Gesundheit über die Auswirkungen, die die Einführung des
-Pflegebudgets nach § 6a des Krankenhausentgeltgesetzes auf die
-Entwicklung der Pflegepersonalstellen und -kosten in den Jahren 2020
-bis 2024 hat. Sie haben hierzu zum 31. August 2022 einen
+einer bundeseinheitlichen Definition nach Satz 2 oder Absatz 4a Satz 1
+gelten die Regelungen nach Absatz 2 Satz 4 bis 7 zur Einbindung der
+Berufsorganisationen der Krankenpflegeberufe, zur Beschlussfassung
+sowie zu den Teilnahme- und Zugangsrechten des Bundesministeriums für
+Gesundheit entsprechend. Für die Ausweisung der auszugliedernden
+Pflegepersonalkosten in einem Katalog mit bundeseinheitlichen
+Bewertungsrelationen und die Weiterentwicklung des Katalogs nach Satz
+5 gelten die Veröffentlichungspflichten nach Absatz 2 Satz 8
+entsprechend. Die Vertragsparteien nach Absatz 2 Satz 1 berichten dem
+Bundesministerium für Gesundheit über die Auswirkungen, die die
+Einführung des Pflegebudgets nach § 6a des Krankenhausentgeltgesetzes
+auf die Entwicklung der Pflegepersonalstellen und -kosten in den
+Jahren 2020 bis 2024 hat. Sie haben hierzu zum 31. August 2022 einen
 Zwischenbericht und zum 31. August 2025 einen abschließenden Bericht
 vorzulegen.
+
+(4a) Für die Jahre ab 2025 haben die Vertragsparteien nach Absatz 2
+Satz 1 erstmals bis zum 31. Dezember 2022 zu vereinbaren, dass in der
+eindeutigen bundeseinheitlichen Definition der auszugliedernden
+Pflegepersonalkosten nach Absatz 4 Satz 2 ausschließlich das
+Pflegepersonal und die Pflegepersonalkosten der folgenden
+Berufsgruppen zu berücksichtigen sind:
+
+1.  als Pflegefachkräfte Personen, die über die Erlaubnis zum Führen einer
+    Berufsbezeichnung nach § 1 Absatz 1 des Pflegeberufegesetzes oder § 58
+    Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren
+    Erlaubnis zum Führen der Berufsbezeichnung nach dem
+    Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder
+    nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden
+    Fassung nach § 64 des Pflegeberufegesetzes fortgilt,
+
+
+2.  als Pflegehilfskräfte
+
+    a)  Personen, die erfolgreich eine landesrechtlich geregelte Assistenz-
+        oder Helferausbildung in der Pflege von mindestens einjähriger Dauer
+        abgeschlossen haben, die die von der 89. Arbeits- und
+        Sozialministerkonferenz 2012 und der 86. Gesundheitsministerkonferenz
+        2013 als Mindestanforderungen beschlossenen Eckpunkte für die in
+        Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und
+        Helferberufen in der Pflege (BAnz AT 17.02.2016 B3) erfüllt,
+
+
+    b)  Personen, die erfolgreich eine landesrechtlich geregelte Ausbildung in
+        der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens
+        einjähriger Dauer abgeschlossen haben,
+
+
+    c)  Personen, denen auf der Grundlage des Krankenpflegegesetzes in der am
+        31\. Dezember 2003 geltenden Fassung eine Erlaubnis als
+        Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist,
+
+
+    d)  Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der
+        Verordnung über die Berufsausbildung zum Medizinischen
+        Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen
+        haben oder eine Qualifikation vorweisen, die dieser Ausbildung
+        entspricht,
+
+
+    e)  Anästhesietechnische Assistentinnen und Anästhesietechnische
+        Assistenten, die über die Erlaubnis zum Führen der Berufsbezeichnung
+        nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-
+        Assistenten-Gesetzes verfügen, und
+
+
+    f)  Notfallsanitäterinnen und Notfallsanitäter, denen die Erlaubnis zum
+        Führen einer Berufsbezeichnung nach § 1 Absatz 1 des
+        Notfallsanitätergesetzes erteilt worden ist, und
+
+
+
+
+
+3.  als Hebammen Personen mit einer Erlaubnis zum Führen der
+    Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes, auch in
+    Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes.
+
+
+
+In der Vereinbarung haben sie auch Regelungen für die Zuordnung von
+Kosten von Pflegepersonal festzulegen, das überwiegend in der
+unmittelbaren Patientenversorgung auf bettenführenden Stationen oder
+in Kreißsälen tätig ist.
 
 (5) Zur Finanzierung der ihnen übertragenen Aufgaben nach den Absätzen
 1 bis 4 sowie § 10 Abs. 2 und § 17d vereinbaren die Vertragsparteien
@@ -1907,7 +2043,20 @@ und die nicht fristgemäße Geltendmachung auf von der Krankenkasse oder
 vom Krankenhaus zu vertretenden Gründen beruht. Die Krankenhäuser sind
 befugt, personen- und einrichtungsbezogene Daten für die Erörterung
 der Rechtmäßigkeit der Abrechnung im erforderlichen Umfang zu
-verarbeiten.
+verarbeiten. Für die Durchführung der Erörterung und für eine
+gerichtliche Überprüfung der Abrechnung hat der Medizinische Dienst
+die für die Prüfung der Rechtmäßigkeit einer Abrechnung bei dem
+Krankenhaus erhobenen Daten und Unterlagen an die Krankenkasse zu
+übermitteln. Die Krankenkassen dürfen die erhobenen Daten und
+Unterlagen nur für die in Satz 5 genannten Zwecke verarbeiten; eine
+Zusammenführung ist nur mit Daten des die Erörterung oder die
+gerichtliche Überprüfung betreffenden Einzelfalles zulässig. Die von
+dem Medizinischen Dienst übermittelten Daten und Unterlagen sind nach
+Abschluss der Erörterung oder der gerichtlichen Überprüfung von der
+Krankenkasse zu löschen. Das Nähere zum Verfahren der Übermittlung
+vereinbart der Spitzenverband Bund der Krankenkassen mit dem
+Medizinischen Dienst Bund mit Wirkung für die Krankenkassen und die
+Medizinischen Dienste.
 
 (3) Zur Überprüfung der Ergebnisse der Prüfungen nach § 275c Absatz 1
 des Fünften Buches Sozialgesetzbuch können die beteiligten Parteien
@@ -2000,7 +2149,7 @@ einzubeziehen.
 
 (7) Der Spitzenverband Bund der Krankenkassen und die Deutsche
 Krankenhausgesellschaft legen dem Bundesministerium für Gesundheit bis
-zum 30. Juni 2023 einen gemeinsamen Bericht über die Auswirkungen der
+zum 30. Juni 2025 einen gemeinsamen Bericht über die Auswirkungen der
 Weiterentwicklung der Krankenhausabrechnungsprüfung vor. Der Bericht
 hat insbesondere die Auswirkungen der Einzelfallprüfung nach § 275c
 des Fünften Buches Sozialgesetzbuch, der Strukturprüfung nach § 275d
@@ -2045,16 +2194,21 @@ Auswahl von psychiatrischen und psychosomatischen Einrichtungen
 kalkuliert, die ab dem 1. Januar 2020 die vom Gemeinsamen
 Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
 Sozialgesetzbuch festgelegten Anforderungen erfüllen sollen; § 17b
-Absatz 3 Satz 4 bis 6 ist entsprechend anzuwenden. Soweit an der
-Kalkulation teilnehmende Einrichtungen die vom Gemeinsamen
-Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
+Absatz 3 Satz 4 und 5 und Absatz 3a ist entsprechend anzuwenden.
+Soweit an der Kalkulation teilnehmende Einrichtungen die vom
+Gemeinsamen Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
 Sozialgesetzbuch festgelegten Anforderungen nicht erfüllen, haben die
 Vertragsparteien nach § 17b Absatz 2 Satz 1 eine geeignete
 Übergangsfrist zu bestimmen. Vor dem 1. Januar 2020 soll für die
 Kalkulation eine umfassende Umsetzung der Vorgaben der Psychiatrie-
 Personalverordnung zur Zahl der Personalstellen erfolgen. Für die
 Dauer einer Übergangsfrist nach Satz 8 gelten die bisherigen Vorgaben
-der Psychiatrie-Personalverordnung zur Personalausstattung weiter.
+der Psychiatrie-Personalverordnung zur Personalausstattung weiter. Zur
+sachgerechten Abbildung der Kosten von telekonsiliarärztlichen
+Leistungen haben die Vertragsparteien nach § 17b Absatz 2 Satz 1 auf
+der Grundlage eines Konzepts des Instituts für das Entgeltsystem im
+Krankenhaus spätestens bis zum 30. September 2024 Entgelte zu
+vereinbaren.
 
 (2) Mit den Entgelten nach Absatz 1 werden die voll- und
 teilstationären sowie stationsäquivalenten allgemeinen
@@ -3018,9 +3172,7 @@ des Bundesrates
     Ausgleiche,
 
 
-5.  den in § 22 Absatz 1 Satz 2 genannten Zeitraum längstens bis zum 31.
-    März 2022 verlängern oder längstens bis zum 31. März 2022 abweichend
-    festlegen und
+5.  einen von § 22 Absatz 1 Satz 2 abweichenden Zeitraum regeln und
 
 
 6.  vorsehen, dass die Übermittlung der Daten nach § 24 Absatz 2 Satz 1
@@ -3049,8 +3201,7 @@ des Bundesrates
 
 
 4.  die in § 21a Absatz 1 Satz 1, Absatz 3 Satz 3, Absatz 7 Satz 1 und
-    Absatz 8 Satz 1 genannten Fristen jeweils um bis zu sechs Monate
-    verlängern.
+    Absatz 8 Satz 1 genannten Fristen abweichend regeln.
 
 
 
@@ -3129,8 +3280,8 @@ Arzneimittel und Medizinprodukte. Ab dem 1. Januar 2021 kann die Liste
 nach Satz 1 auch Strukturmerkmale enthalten.
 
 (3) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
-ohne Zustimmung des Bundesrates die in Absatz 1 genannten Fristen um
-bis zu insgesamt zwölf Monate verlängern.
+ohne Zustimmung des Bundesrates von Absatz 1 abweichende Zeiträume
+regeln.
 
 (4) Im Rahmen der Prüfung von Strukturmerkmalen sind die in Absatz 1
 genannten Zeiträume von dem Nachweis auszunehmen, dass ein in Absatz 1
@@ -3466,6 +3617,538 @@ Abschlussbericht, den er bis zum 31. August 2022 dem Bundesministerium
 für Gesundheit vorlegt.
 
 
+### § 26e Erneute Sonderleistung an Pflegefachkräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+
+(1) Ist ein zugelassenes Krankenhaus, das seine Leistungen nach dem
+Krankenhausentgeltgesetz abrechnet, im Zeitraum vom 1. Januar 2021 bis
+zum 31. Dezember 2021 besonders belastet gewesen durch die
+vollstationäre Behandlung von Patientinnen und Patienten, die mit dem
+Coronavirus SARS-CoV-2 infiziert gewesen sind, so hat es Anspruch auf
+eine Auszahlung aus Bundesmitteln in der nach Absatz 6 ermittelten
+Höhe. Als besonders belastet gilt ein Krankenhaus, in dem im Zeitraum
+nach Satz 1 mehr als zehn Patientinnen und Patienten behandelt worden
+sind, die
+
+1.  mit dem Coronavirus SARS-CoV-2 infiziert gewesen sind und
+
+
+2.  mehr als 48 Stunden gemäß der Anlage zur Vereinbarung über die
+    Übermittlung von Daten nach § 21 Absatz 4 und 5 des
+    Krankenhausentgeltgesetzes – Version 2021 für das Datenjahr 2020,
+    Fortschreibung vom 24. November 2020 – beatmet worden sind.
+
+
+
+Welches Krankenhaus Anspruch auf die Auszahlung aus Bundesmitteln hat,
+ermittelt das Institut für das Entgeltsystem im Krankenhaus auf der
+Grundlage der Daten, die ihm nach § 21 Absatz 3b Satz 1 Nummer 3 des
+Krankenhausentgeltgesetzes für das Datenjahr 2021 zur Verfügung
+stehen. Das Institut für das Entgeltsystem im Krankenhaus
+veröffentlicht bis zum 1. Juli 2022 eine Übersicht über alle
+Krankenhäuser, die einen Anspruch auf die Auszahlung aus Bundesmitteln
+haben, barrierefrei auf seiner Internetseite. In der Veröffentlichung
+sind jeweils der Name des Krankenhauses und sein Kennzeichen nach §
+293 Absatz 1 des Fünften Buches Sozialgesetzbuch anzugeben.
+
+(2) Erhält ein Krankenhaus die Auszahlung aus Bundesmitteln, muss es
+mit dem ausgezahlten Betrag eine Prämie als einmalige Sonderleistung
+an diejenigen Pflegefachkräfte zahlen, die im Jahr 2021 für mindestens
+185 Tage in der unmittelbaren Patientenversorgung auf bettenführenden
+Stationen in dem Krankenhaus beschäftigt gewesen sind. In Satz 1
+genannte Pflegefachkräfte, die als Intensivpflegefachkräfte im Jahr
+2021 für mindestens drei Monate in der Intensivpflege tätig waren,
+erhalten eine um den Faktor 1,5 erhöhte Prämie. Die Zahlung soll
+innerhalb von vier Wochen erfolgen, nachdem das Krankenhaus seine
+Auszahlung vom Spitzenverband Bund der Krankenkassen nach Absatz 7
+Satz 4 erhalten hat. An Pflegefachkräfte nach den Sätzen 1 und 2, die
+im Jahr 2021 an mindestens einem Tag in Teilzeit in dem Krankenhaus
+beschäftigt waren und an Pflegefachkräfte nach den Sätzen 1 und 2, die
+nicht im gesamten Jahr 2021 in dem Krankenhaus beschäftigt waren, muss
+das Krankenhaus die Prämie anteilig in der Höhe zahlen, die dem
+Verhältnis ihrer vertraglichen Arbeitszeit zu der Arbeitszeit in
+Vollzeitbeschäftigung und dem Verhältnis der Dauer ihrer Beschäftigung
+in dem Krankenhaus zur Ganzjahresbeschäftigung entspricht.
+
+(3) Pflegefachkräfte im Sinne des Absatzes 2 sind Personen, die über
+die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1, § 58
+Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes, auch in
+Verbindung mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes,
+verfügen. Intensivpflegefachkräfte im Sinne des Absatzes 2 Satz 2 sind
+Pflegefachkräfte im Sinne des Satzes 1, die über eine abgeschlossene
+landesrechtliche Weiterbildung als Fachkrankenpflegerin für
+Intensivpflege und Anästhesie oder als Fachkrankenpfleger für
+Intensivpflege und Anästhesie verfügen.
+
+(4) Das Institut für das Entgeltsystem im Krankenhaus fordert die
+Krankenhäuser, die Anspruch auf die Auszahlung aus Bundesmitteln
+haben, bis zum 4. Juli 2022 auf, ihm bis zum 31. Juli 2022 die
+folgenden Angaben mitzuteilen:
+
+1.  die Anzahl der in Absatz 2 Satz 1 genannten Pflegefachkräfte,
+    umgerechnet in Vollkräfte,
+
+
+2.  die Anzahl der in Absatz 2 Satz 2 genannten Intensivpflegefachkräfte,
+    umgerechnet in Vollkräfte,
+
+
+3.  die Anzahl der nach § 21 Absatz 2 Nummer 1 Buchstabe e des
+    Krankenhausentgeltgesetzes für das Datenjahr 2021 an das Institut für
+    das Entgeltsystem im Krankenhaus gemeldeten Pflegefachkräfte, die im
+    Jahr 2021 insgesamt in der Intensivpflege eingesetzt waren,
+    umgerechnet in Vollkräfte.
+
+
+
+Das Institut für das Entgeltsystem im Krankenhaus kann den
+Krankenhäusern weitere Vorgaben zum Inhalt und zur Ausgestaltung der
+Mitteilung machen. Das Institut für das Entgeltsystem im Krankenhaus
+prüft die ihm nach Satz 1 mitgeteilten Daten auf der Grundlage der
+Daten, die ihm nach § 21 Absatz 2 Nummer 1 Buchstabe e des
+Krankenhausentgeltgesetzes für das Datenjahr 2021 zur Verfügung
+stehen, auf Plausibilität.
+
+(5) Das Institut für das Entgeltsystem im Krankenhaus ermittelt die
+Prämienhöhe für die in Absatz 2 Satz 1 genannten Pflegefachkräfte,
+umgerechnet in Vollkräfte, indem es
+
+1.  von der Gesamtzahl aller nach Absatz 4 Satz 1 Nummer 1 mitgeteilten
+    Pflegefachkräfte die Gesamtzahl aller nach Absatz 4 Satz 1 Nummer 2
+    mitgeteilten Intensivpflegefachkräfte abzieht,
+
+
+2.  die Gesamtzahl aller nach Absatz 4 Satz 1 Nummer 2 mitgeteilten
+    Intensivpflegfachkräfte mit 1,5 multipliziert,
+
+
+3.  die nach Nummer 1 ermittelte Zahl zu der nach Nummer 2 ermittelten
+    Zahl addiert und
+
+
+4.  einen Betrag von 500 Millionen Euro durch die nach Nummer 3 ermittelte
+    Zahl dividiert.
+
+
+
+Bei der Ermittlung sind die nach Durchführung der
+Plausibilitätsprüfung nach Absatz 4 Satz 3 ermittelten Werte zu Grunde
+zu legen. Das Institut für das Entgeltsystem im Krankenhaus ermittelt
+die Prämienhöhe für die in Absatz 2 Satz 2 genannten
+Intensivpflegefachkräfte, umgerechnet in Vollkräfte, indem es die nach
+Satz 1 ermittelte Prämienhöhe mit 1,5 multipliziert.
+
+(6) Das Institut für das Entgeltsystem im Krankenhaus ermittelt für
+jedes Krankenhaus die Höhe der Auszahlung aus Bundesmitteln, auf die
+das Krankenhaus nach Absatz 1 Satz 1 einen Anspruch hat, indem es
+
+1.  die nach Absatz 5 Satz 1 für Pflegefachkräfte ermittelte Prämienhöhe
+    mit der nach Absatz 4 Satz 1 Nummer 1 mitgeteilten Anzahl der
+    Pflegefachkräfte abzüglich der nach Absatz 4 Satz 1 Nummer 2
+    mitgeteilten Anzahl der Intensivpflegefachkräfte multipliziert,
+
+
+2.  die nach Absatz 5 Satz 3 für Intensivpflegefachkräfte ermittelte
+    Prämienhöhe mit der nach Absatz 4 Satz 1 Nummer 2 mitgeteilten Anzahl
+    der Intensivpflegefachkräfte multipliziert und
+
+
+3.  die nach den Nummern 1 und 2 ermittelten Beträge addiert.
+
+
+
+Bei der Ermittlung sind die nach Durchführung der
+Plausibilitätsprüfung nach Absatz 4 Satz 3 ermittelten Werte zu Grunde
+zu legen. Das Institut für das Entgeltsystem im Krankenhaus erlässt
+für jedes Krankenhaus, das Anspruch auf die Auszahlung aus
+Bundesmitteln hat, bis zum 30. September 2022 einen Bescheid nach § 31
+Absatz 2, der den Namen des Krankenhauses und sein Kennzeichen nach §
+293 Absatz 1 des Fünften Buches Sozialgesetzbuch enthält und Folgendes
+festlegt:
+
+1.  die Höhe des Auszahlungsbetrags,
+
+
+2.  die nach Absatz 5 ermittelte Prämienhöhe für Pflegefachkräfte und
+    Intensivpflegefachkräfte,
+
+
+3.  die Anzahl der seiner Berechnung nach Absatz 5 zu Grunde gelegten in
+    Vollkräfte umgerechneten Pflegefachkräfte und
+    Intensivpflegefachkräfte.
+
+
+
+Das Institut für das Entgeltsystem im Krankenhaus übermittelt dem
+Spitzenverband Bund der Krankenkassen sowie dem Bundesministerium für
+Gesundheit bis zum 4. Oktober 2022 unter Angabe der Namen der
+Krankenhäuser und ihrer Kennzeichen nach § 293 Absatz 1 des Fünften
+Buches Sozialgesetzbuch eine krankenhausbezogene Aufstellung der
+Angaben nach Satz 3 Nummer 1 bis 3. Krankenhäuser, die die Angaben
+nach Absatz 4 Satz 1 nicht oder nicht rechtzeitig mitgeteilt haben,
+erhalten keine Auszahlung aus Bundesmitteln und zahlen keine Prämien
+nach Absatz 2.
+
+(7) Das Bundesamt für Soziale Sicherung zahlt einen Betrag in Höhe von
+500 Millionen Euro bis zum 4. Oktober 2022 aus der Liquiditätsreserve
+des Gesundheitsfonds an den Spitzenverband Bund der Krankenkassen. Das
+Bundesamt für Soziale Sicherung unterrichtet das Bundesministerium für
+Gesundheit unverzüglich über die Auszahlung. Der Bund erstattet den
+gezahlten Betrag innerhalb von einer Woche nach der Unterrichtung nach
+Satz 2 an die Liquiditätsreserve des Gesundheitsfonds. Der
+Spitzenverband Bund der Krankenkassen leitet den Auszahlungsbetrag in
+der Höhe, der in dem Bescheid nach Absatz 6 Satz 3 für das jeweilige
+Krankenhaus festgelegt wurde, an das jeweilige Krankenhaus weiter.
+Nach Abschluss der Weiterleitungen nach Satz 4 übermittelt der
+Spitzenverband Bund der Krankenkassen dem Bundesministerium für
+Gesundheit bis zum 31. Januar 2023 eine krankenhausbezogene
+Aufstellung der weitergeleiteten Beträge. Die notwendigen Aufwendungen
+des Instituts für das Entgeltsystem im Krankenhaus für die Erfüllung
+der Aufgaben nach dieser Vorschrift sind aus dem Zuschlag nach § 17b
+Absatz 5 Satz 1 Nummer 1 zu finanzieren, der erforderlichenfalls
+entsprechend zu erhöhen ist.
+
+(8) Jedes Krankenhaus, das die Auszahlung aus Bundesmitteln erhalten
+hat, muss den Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer
+2, dem Spitzenverband Bund der Krankenkassen und dem Institut für das
+Entgeltsystem im Krankenhaus bis zum 30. September 2023 eine
+Bestätigung des Jahresabschlussprüfers über die zweckentsprechende
+Verwendung der Mittel vorlegen, die auch die Anzahl der in Absatz 2
+Satz 1 genannten Pflegefachkräfte, die nach Absatz 4 Satz 1 Nummer 2
+mitgeteilte Anzahl der Intensivpflegefachkräfte und die Anzahl der im
+Jahr 2021 insgesamt in der Intensivpflege eingesetzten
+Pflegefachkräfte beinhalten muss. Werden die Bestätigungen nicht oder
+nicht vollständig vorgelegt oder wurden die Mittel nicht
+zweckentsprechend verwendet, ist der entsprechende Betrag bis zum 31.
+Dezember 2023 an den Spitzenverband Bund der Krankenkassen
+zurückzuzahlen. Dieser leitet die zurückgezahlten Beträge an die
+Liquiditätsreserve des Gesundheitsfonds weiter. Das Bundesamt für
+Soziale Sicherung erstattet die Summe der zurückgezahlten Beträge bis
+zum 31. Juli 2024 aus der Liquiditätsreserve des Gesundheitsfonds an
+den Bund.
+
+
+### § 26f Ausgleich für Steigerungen der Kosten für den Bezug von Erdgas, Wärme und Strom
+
+(1) Zugelassene Krankenhäuser erhalten für den Zeitraum vom
+1\. Oktober 2022 bis zum 30. April 2024 aus der Liquiditätsreserve des
+Gesundheitsfonds zwei krankenhausindividuelle Ausgleichszahlungen zum
+pauschalen Ausgleich von mittelbar durch den Anstieg der Energiepreise
+verursachten Kostensteigerungen und krankenhausindividuelle
+Erstattungsbeträge zum Ausgleich ihrer gestiegenen Kosten für den
+Bezug von leitungsgebundenem Erdgas, leitungsgebundener Fernwärme und
+leitungsgebundenem Strom. Der Bund stellt der Liquiditätsreserve des
+Gesundheitsfonds zur Verfügung:
+
+1.  bis zum 17. Januar 2023 einen Betrag für das Jahr 2023 in Höhe von bis
+    zu 4,5 Milliarden Euro und
+
+
+2.  bis zum 16. Januar 2024 einen Betrag für das Jahr 2024 in Höhe von bis
+    zu weiteren 1,5 Milliarden Euro.
+
+
+
+Mittel, die für das Jahr 2023 nicht an die Länder oder an die
+benannten Krankenkassen gezahlt worden sind, stehen für Zahlungen im
+Jahr 2024 zur Verfügung. Nach Abschluss der Zahlungen an die Länder
+und an die benannten Krankenkassen nach dieser Vorschrift nicht
+gezahlte Mittel werden an den Bund zurückgeführt.
+
+(2) Für die Ermittlung der Höhe der ersten krankenhausindividuellen
+Ausgleichszahlung nach Absatz 1 Satz 1 übermitteln die zugelassenen
+Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer
+Vereinigungen bis zum 10. Januar 2023 die Anzahl ihrer auf die
+akutstationäre Versorgung der gesetzlichen Unfallversicherung
+entfallenden Betten und Intensivbetten an die für die
+Krankenhausplanung zuständigen Landesbehörden, die diese Anzahl und
+die Summe der ihnen nach § 21 Absatz 3 Satz 1 Nummer 3 des
+Krankenhausentgeltgesetzes zum 31. März 2022 durch die Datenstelle
+jeweils übermittelte Anzahl der aufgestellten Betten und
+Intensivbetten der Krankenhäuser addieren und das Ergebnis bis zum 15.
+Januar 2023 an das Bundesamt für Soziale Sicherung übermitteln. Das
+Bundesamt für Soziale Sicherung teilt einen Betrag in Höhe von 1,5
+Milliarden Euro auf die Länder entsprechend dem Verhältnis der von
+diesen jeweils fristgerecht übermittelten Bettenanzahlen auf und zahlt
+den hiernach auf jedes Land entfallenden Betrag am 31. Januar 2023, am
+28\. Februar 2023 und am 31. März 2023 in drei gleichen Teilbeträgen
+aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Land
+zur Weiterleitung an die Krankenhäuser entsprechend dem Verhältnis der
+jeweiligen Bettenanzahl. Nach dem 15. Januar 2023 übermittelte Daten
+zur Bettenanzahl bleiben bei der Aufteilung nach Satz 2
+unberücksichtigt.
+
+(2a) Für die Ermittlung der Höhe der zweiten krankenhausindividuellen
+Ausgleichszahlung nach Absatz 1 Satz 1 addieren die für die
+Krankenhausplanung zuständigen Landesbehörden die Anzahl der ihnen
+nach Absatz 2 Satz 1 übermittelten auf die akutstationäre Versorgung
+der gesetzlichen Unfallversicherung entfallenden Betten und
+Intensivbetten der zugelassenen Krankenhäuser der Träger der
+gesetzlichen Unfallversicherung und ihrer Vereinigungen und die Summe
+der ihnen nach § 21 Absatz 3 Satz 1 Nummer 3 des
+Krankenhausentgeltgesetzes zum 1. Juli 2023 durch die Datenstelle für
+das Kalenderjahr 2022 jeweils übermittelten Anzahl der aufgestellten
+Betten und Intensivbetten der Krankenhäuser und übermitteln das
+Ergebnis bis zum 15. August 2023 an das Bundesamt für Soziale
+Sicherung. Das Bundesamt für Soziale Sicherung teilt einen Betrag in
+Höhe von 2,5 Milliarden Euro auf die Länder entsprechend dem
+Verhältnis der von diesen jeweils fristgerecht übermittelten
+Bettenanzahlen auf und zahlt den hiernach auf jedes Land entfallenden
+Betrag am 29. September 2023, am 30. November 2023 und am 31. Mai 2024
+in drei gleichen Teilbeträgen aus der Liquiditätsreserve des
+Gesundheitsfonds an das jeweilige Land zur Weiterleitung an die
+Krankenhäuser entsprechend dem Verhältnis der jeweiligen Bettenanzahl,
+soweit sich aus Absatz 6 Satz 7 keine abweichende Berechnung des am
+31\. Mai 2024 zu zahlenden Teilbetrages ergibt. Nach dem 15. August
+2023 übermittelte Daten zur Bettenanzahl bleiben bei der Aufteilung
+nach Satz 2 unberücksichtigt.
+
+(3) Die Krankenhäuser ermitteln die Höhe der krankenhausindividuellen
+Erstattungsbeträge nach Absatz 1 Satz 1 für folgende Zeiträume
+getrennt:
+
+1.  Oktober 2022 bis Dezember 2022,
+
+
+2.  Januar 2023 bis Dezember 2023 und
+
+
+3.  Januar 2024 bis April 2024.
+
+
+
+
+(4) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen
+Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 1, indem sie
+von ihren auf die Monate Oktober 2022 bis Dezember 2022 entfallenden
+Kosten für den Bezug von leitungsgebundenem Erdgas, leitungsgebundener
+Fernwärme und leitungsgebundenem Strom die Summe abziehen, die dem
+dreifachen Betrag der für den Monat März 2022 gezahlten Abschläge für
+leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und
+leitungsgebundenen Strom entspricht, und das Ergebnis gemäß Absatz 7
+Satz 1 Nummer 1 mindern. Soweit in den Bezugskosten nach Satz 1 Kosten
+von Einrichtungen des Krankenhauses enthalten sind, die nicht der
+akutstationären Versorgung dienen, insbesondere Kosten medizinischer
+Versorgungszentren, von Vorsorge- oder Rehabilitationseinrichtungen
+oder stationärer Pflegeeinrichtungen, sind die Bezugskosten nach Satz
+1 um die rechnerisch auf diese Einrichtungen entfallenden Anteile zu
+verringern. Ist der sich aus der Berechnung nach den Sätzen 1 und 2
+ergebende Differenzbetrag größer als null, übermitteln die
+Krankenhäuser den Differenzbetrag an die für die Krankenhausplanung
+zuständige Landesbehörde oder an eine von dieser Landesbehörde
+benannte Krankenkasse und weisen gegenüber dieser Landesbehörde oder
+Krankenkasse durch Vorlage der entsprechenden Abrechnungen die Höhe
+der Bezugskosten nach Satz 1 nach. Nach Prüfung der nach Satz 3
+übermittelten Differenzbeträge und vorgelegten Nachweise addiert die
+für die Krankenhausplanung zuständige Landesbehörde oder die benannte
+Krankenkasse die übermittelten Differenzbeträge und übermittelt das
+Ergebnis bis zum 15. Februar 2023 an das Bundesamt für Soziale
+Sicherung. Das Bundesamt für Soziale Sicherung zahlt die
+entsprechenden Beträge aus der Liquiditätsreserve des Gesundheitsfonds
+an das jeweilige Land oder an die benannte Krankenkasse zur
+Weiterleitung an die Krankenhäuser.
+
+(5) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen
+Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 2, indem sie
+
+1.  von den auf die Monate Januar 2023 bis Dezember 2023 voraussichtlich
+    entfallenden Kosten für den Bezug von leitungsgebundenem Erdgas,
+    leitungsgebundener Fernwärme und leitungsgebundenem Strom die Summe
+    abziehen, die dem zwölffachen Betrag der für den Monat März 2022
+    gezahlten Abschläge für leitungsgebundenes Erdgas, leitungsgebundene
+    Fernwärme und leitungsgebundenen Strom entspricht,
+
+
+2.  das Ergebnis nach Nummer 1 gemäß Absatz 7 Satz 1 Nummer 2 mindern und
+
+
+3.  das Ergebnis nach Nummer 2 um den Teil eines sich aus den
+    Jahresrechnungen für leitungsgebundenes Erdgas, leitungsgebundene
+    Fernwärme und leitungsgebundenen Strom für das Jahr 2022 ergebenden
+    Nachzahlungsbetrags erhöhen oder eines sich ergebenden
+    Rückzahlungsbetrags verringern, der auf die Monate Oktober 2022 bis
+    Dezember 2022 entfällt.
+
+
+
+Bei der Ermittlung nach Satz 1 sind die Abschläge zu Grunde zu legen,
+die die Versorgungsunternehmen den Krankenhäusern nach den §§ 4 und 7
+des Strompreisbremsegesetzes sowie nach den §§ 6 und 14 des Erdgas-
+Wärme-Preisbremsengesetzes in Rechnung gestellt haben. Absatz 4 Satz 2
+und 3 gilt entsprechend. Nach Prüfung der übermittelten
+Differenzbeträge und der vorgelegten Nachweise addiert die für die
+Krankenhausplanung zuständige Landesbehörde oder die benannte
+Krankenkasse die übermittelten Differenzbeträge und übermittelt das
+Ergebnis bis zum 30. April 2023 an das Bundesamt für Soziale
+Sicherung, das die übermittelten Beträge addiert. Nach dem 30. April
+2023 dem Bundesamt für Soziale Sicherung übermittelte Beträge bleiben
+unberücksichtigt. Das Bundesamt für Soziale Sicherung berechnet nach
+dem 4. August 2023 einen Höchstbetrag der Erstattungsbeträge für den
+Zeitraum nach Absatz 3 Nummer 2 als Differenz zwischen dem Betrag nach
+Absatz 1 Satz 2 Nummer 1 und der Summe der nach den Absätzen 2, 2a und
+4 im Jahr 2023 an die Länder oder an die benannten Krankenkassen
+gezahlten Beträge. Unterschreitet die nach Satz 4 berechnete Summe der
+fristgerecht übermittelten Beträge den nach Satz 6 berechneten
+Höchstbetrag, zahlt das Bundesamt für Soziale Sicherung die
+fristgerecht übermittelten Beträge in Abständen von jeweils zwei
+Monaten in drei gleichen Teilbeträgen aus der Liquiditätsreserve des
+Gesundheitsfonds an die Länder oder an die benannten Krankenkassen zur
+Weiterleitung an die Krankenhäuser. Überschreitet die nach Satz 4
+berechnete Summe der fristgerecht übermittelten Beträge den nach Satz
+6 berechneten Höchstbetrag, kürzt das Bundesamt für Soziale Sicherung
+die auf die Länder entfallenden Beträge in dem Verhältnis, in dem die
+Summe der fristgerecht übermittelten Beträge zu dem Höchstbetrag
+steht, und zahlt den sich jeweils ergebenden Betrag in Abständen von
+jeweils zwei Monaten in vier gleichen Teilbeträgen aus der
+Liquiditätsreserve des Gesundheitsfonds an die Länder oder an die
+benannten Krankenkassen zur Weiterleitung an die Krankenhäuser.
+
+(6) Die Krankenhäuser ermitteln die Höhe des krankenhausindividuellen
+Erstattungsbetrags für den Zeitraum nach Absatz 3 Nummer 3, indem sie
+
+1.  von den auf die Monate Januar 2024 bis April 2024 voraussichtlich
+    entfallenden Kosten für den Bezug von leitungsgebundenem Erdgas,
+    leitungsgebundener Fernwärme und leitungsgebundenem Strom die Summe
+    abziehen, die dem vierfachen Betrag der für den Monat März 2022
+    gezahlten Abschläge für leitungsgebundenes Erdgas, leitungsgebundene
+    Fernwärme und leitungsgebundenen Strom entspricht,
+
+
+2.  von dem Ergebnis nach Nummer 1 den Wert nach Absatz 7 Satz 1 Nummer 3
+    abziehen und
+
+
+3.  das Ergebnis nach Nummer 2 um einen sich aus den Jahresrechnungen für
+    leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und
+    leitungsgebundenen Strom für das Jahr 2023 ergebenden
+    Nachzahlungsbetrag erhöhen oder einen sich ergebenden
+    Rückzahlungsbetrag verringern.
+
+
+
+Absatz 4 Satz 2 und 3 gilt entsprechend. Nach Prüfung der
+übermittelten Differenzbeträge nach Satz 1 und der vorgelegten
+Nachweise addiert die für die Krankenhausplanung zuständige
+Landesbehörde oder die benannte Krankenkasse die übermittelten
+Differenzbeträge und übermittelt das Ergebnis bis zum 30. April 2024
+an das Bundesamt für Soziale Sicherung, das die übermittelten Beträge
+addiert. Nach dem 30. April 2024 dem Bundesamt für Soziale Sicherung
+übermittelte Beträge bleiben bei der Berechnung unberücksichtigt. Das
+Bundesamt für Soziale Sicherung berechnet einen Höchstbetrag der
+Erstattungsbeträge für den Zeitraum nach Absatz 3 Nummer 3, indem es
+den Betrag nach Absatz 1 Satz 2 Nummer 2 und den für das Jahr 2023
+nicht gezahlten Betrag nach Absatz 1 Satz 2 Nummer 1 addiert und von
+dieser Summe die nach Absatz 2a Satz 2 im Jahr 2024 vorgesehenen und
+die nach Absatz 8 Satz 6 im Jahr 2024 an die Länder gezahlten Beträge
+abzieht. Unterschreitet die Summe der fristgerecht übermittelten
+Beträge den nach Satz 5 berechneten Höchstbetrag, zahlt das Bundesamt
+für Soziale Sicherung die fristgerecht übermittelten Beträge aus der
+Liquiditätsreserve des Gesundheitsfonds an die Länder oder die
+benannten Krankenkassen zur Weiterleitung an die Krankenhäuser.
+Überschreitet die Summe der fristgerecht übermittelten Beträge den
+Höchstbetrag, kürzt das Bundesamt für Soziale Sicherung den für das
+Jahr 2024 vorgesehenen Teilbetrag nach Absatz 2a Satz 2 um den Betrag,
+um den die fristgerecht übermittelten Beträge den Höchstbetrag
+übersteigen und zahlt die fristgerecht übermittelten Beträge aus der
+Liquiditätsreserve des Gesundheitsfonds an die Länder oder die
+benannten Krankenkassen zur Weiterleitung an die Krankenhäuser;
+überschreitet die Summe der fristgerecht übermittelten Beträge den
+Höchstbetrag einschließlich des für das Jahr 2024 vorgesehenen
+Teilbetrags nach Absatz 2a Satz 2, kürzt das Bundesamt für Soziale
+Sicherung die auf die Länder entfallenden Beträge in dem Verhältnis,
+in dem die Summe der übermittelten Beträge zu dem Höchstbetrag
+einschließlich des für das Jahr vorgesehenen Teilbetrags nach Absatz
+2a Satz 2 steht und zahlt den sich jeweils ergebenden Betrag aus der
+Liquiditätsreserve des Gesundheitsfonds an die Länder oder an die
+benannten Krankenkassen zur Weiterleitung an die Krankenhäuser.
+
+(7) Bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge
+nach den Absätzen 4 bis 6 ist durch die Krankenhäuser mindernd zu
+berücksichtigen:
+
+1.  bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge
+    nach Absatz 4 der Veränderungswert nach § 9 Absatz 1b des
+    Krankenhausentgeltgesetzes für das Jahr 2022,
+
+
+2.  bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge
+    nach Absatz 5 der Veränderungswert nach § 9 Absatz 1b des
+    Krankenhausentgeltgesetzes für das Jahr 2023 und
+
+
+3.  bei der Ermittlung der krankenhausindividuellen Erstattungsbeträge
+    nach Absatz 6 der Veränderungswert nach § 9 Absatz 1b des
+    Krankenhausentgeltgesetzes für das Jahr 2024.
+
+
+
+Die jeweils aufgrund der Verminderung nach Satz 1 abzuziehenden
+Beträge gehen nicht in den Gesamtbetrag oder die Erlösausgleiche nach
+diesem Gesetz oder der Bundespflegesatzverordnung ein.
+
+(8) Krankenhäuser, die Zahlungen nach Absatz 2 oder Absatz 2a oder den
+Absätzen 4 bis 6 erhalten haben, sind verpflichtet, eine
+Energieberatung durch einen Gebäudeenergieberater durchführen zu
+lassen und der für die Krankenhausplanung zuständigen Landesbehörde
+oder der benannten Krankenkasse bis zum 15. Januar 2024 die erfolgte
+Beratung und die konkreten Maßnahmen zur Umsetzung der Empfehlungen
+der Energieberatung nachzuweisen. Bei Krankenhäusern, die den Nachweis
+nach Satz 1 nicht oder nicht rechtzeitig vorlegen, kürzt die für die
+Krankenhausplanung zuständige Landesbehörde oder die benannte
+Krankenkasse den nach Absatz 6 Satz 3 an das Bundesamt für Soziale
+Sicherung zu übermittelnden Betrag um 20 Prozent. Die Kosten der
+Energieberatung nach Satz 1 werden den Krankenhäusern bis zu einer
+Höhe von 10 000 Euro je Krankenhaus aus den Mitteln nach Absatz 1 Satz
+2 erstattet, sofern die Energieberatung im Zeitraum vom 1. Dezember
+2022 bis zum 31. Dezember 2023 durchgeführt wird. Förderungen aus
+anderen öffentlichen Mitteln sind anzurechnen. Die Krankenhäuser legen
+die entsprechenden Abrechnungen und eine Bestätigung, dass die geltend
+gemachten Kosten der Energieberatung nicht aus anderen öffentlichen
+Mitteln gefördert werden, der für die Krankenhausplanung zuständigen
+Landesbehörde oder der von dieser Landesbehörde benannten Krankenkasse
+bis zum 15. Februar 2024 vor. Nach Prüfung der vorgelegten Nachweise
+addiert die für die Krankenhausplanung zuständige Landesbehörde oder
+die von dieser Landesbehörde benannte Krankenkasse die geltend
+gemachten Kosten und übermittelt das Ergebnis bis zum 15. März 2024 an
+das Bundesamt für Soziale Sicherung. Nach dem 15. März 2024 dem
+Bundesamt für Soziale Sicherung übermittelte Beträge bleiben
+unberücksichtigt. Das Bundesamt für Soziale Sicherung zahlt die
+entsprechenden Beträge aus der Liquiditätsreserve des Gesundheitsfonds
+an das jeweilige Land oder an die benannte Krankenkasse zur
+Weiterleitung an die Krankenhäuser.
+
+(9) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 vereinbaren bis
+zum 15. Januar 2023 das Nähere zum Nachweis der Bezugskosten für
+leitungsgebundenes Erdgas, leitungsgebundene Fernwärme und
+leitungsgebundenen Strom. Kommt eine Vereinbarung nicht innerhalb
+dieser Frist zustande, legt die Schiedsstelle nach § 18a Absatz 6 ohne
+Antrag einer Vertragspartei den Inhalt der Vereinbarung innerhalb von
+zwei Wochen fest.
+
+(10) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zum
+Verfahren der Übermittlung der von den für die Krankenhausplanung
+zuständigen Landesbehörden oder den benannten Krankenkassen addierten
+Differenzbeträge sowie zum Verfahren der Zahlung aus der
+Liquiditätsreserve des Gesundheitsfonds nach den Absätzen 2, 2a und 4
+bis 6. Das Bundesamt für Soziale Sicherung teilt dem Bundesministerium
+für Gesundheit unverzüglich die Höhe der an die jeweiligen Länder oder
+benannten Krankenkassen nach den Absätzen 2, 2a und 4 bis 6 gezahlten
+Beträge mit.
+
+(11) Die Länder oder die benannten Krankenkassen übermitteln dem
+Bundesministerium für Gesundheit und dem Spitzenverband Bund der
+Krankenkassen jeweils zum 30. Juni 2023, zum 30. Juni 2024 und zum 30.
+September 2024 eine krankenhausbezogene Aufstellung über die
+krankenhausindividuellen Ausgleichszahlungen nach den Absätzen 2 und
+2a, über die krankenhausindividuellen Erstattungsbeträge nach den
+Absätzen 4 bis 6 und über die Erstattung der Kosten der
+Energieberatung nach Absatz 8. Der Spitzenverband Bund der
+Krankenkassen übermittelt den Vertragsparteien nach § 18 Absatz 2 die
+Höhe der einem Krankenhaus gezahlten krankenhausindividuellen
+Ausgleichszahlungen nach den Absätzen 2 und 2a, der
+krankenhausindividuellen Erstattungsbeträge nach den Absätzen 4 bis 6
+und der Erstattung der Kosten der Energieberatung nach Absatz 8.
+
+
 ## 5. Abschnitt - Sonstige Vorschriften
 
 
@@ -3702,4 +4385,19 @@ kann der Bund gegenüber dem Beliehenen Rückgriff nehmen.
 
 Die Aufwendungen des Beliehenen werden durch den DRG-Systemzuschlag
 nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
+
+
+### § 36 Unterstützung und Beratung durch das Institut für das Entgeltsystem im Krankenhaus
+
+Das Institut für das Entgeltsystem im Krankenhaus unterstützt und
+berät das Bundesministerium für Gesundheit nach dessen Weisung bei der
+Wahrnehmung seiner Aufgaben hinsichtlich der Krankenhausversorgung und
+-finanzierung, insbesondere durch die Übermittlung und Erläuterung von
+Datenauswertungen, soweit nicht Geschäfts- oder Betriebsgeheimnisse
+betroffen sind. Das Bundesministerium für Gesundheit kann diese
+Auswertungen auch den für die Krankenhausplanung zuständigen
+Landesbehörden übermitteln; es setzt die Vertragsparteien nach § 17b
+Absatz 2 Satz 1 über die Art der Unterstützungsleistungen des
+Instituts in Kenntnis. Die Aufwendungen des Instituts werden durch den
+Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
 

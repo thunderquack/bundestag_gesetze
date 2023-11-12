@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1713
 
 Zuletzt geändert durch
-:   Art. 6 G v. 25.6.2021 I 2050
+:   Art. 13 G v. 16.12.2022 I 2294
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -574,10 +574,11 @@ unentgeltlich übertragen wurde, auch die unbeschränkte Steuerpflicht
 des jeweiligen Rechtsvorgängers einzubeziehen. Zeiträume, in denen die
 natürliche Person und der oder die Rechtsvorgänger gleichzeitig
 unbeschränkt steuerpflichtig waren, werden dabei nur einmal angesetzt.
-Entfällt der Steueranspruch nach Absatz 3, gelten der Steuerpflichtige
-sowie dessen unmittelbarer oder mittelbarer Rechtsnachfolger
-abweichend von den Sätzen 1 bis 3 als unbeschränkt Steuerpflichtige im
-Sinne des Absatzes 1.
+Entfällt der Steueranspruch nach Absatz 3 in der jeweils geltenden
+Fassung oder einer bis zum 30. Juni 2021 geltenden Fassung, gelten der
+Steuerpflichtige sowie dessen unmittelbarer oder mittelbarer
+Rechtsnachfolger abweichend von den Sätzen 1 bis 3 als unbeschränkt
+Steuerpflichtige im Sinne des Absatzes 1.
 
 (3) Beruht die Beendigung der unbeschränkten Steuerpflicht im Sinne
 des Absatzes 1 Satz 1 Nummer 1 auf einer nur vorübergehenden
@@ -1239,9 +1240,9 @@ Abkommens, ist Absatz 1 nicht anzuwenden, wenn
 (7) Die Einkünfte der Stiftung nach Absatz 1 werden in entsprechender
 Anwendung der Vorschriften des Körperschaftsteuergesetzes und des
 Einkommensteuergesetzes ermittelt. Bei der Ermittlung der Einkünfte
-gilt § 10 Absatz 3 entsprechend; § 8b des Körperschaftsteuergesetzes
-bleibt unberücksichtigt. Ergibt sich ein negativer Betrag, entfällt
-die Zurechnung.
+gilt § 10 Absatz 3 Satz 3 bis 6 entsprechend; § 8b des
+Körperschaftsteuergesetzes bleibt unberücksichtigt. Ergibt sich ein
+negativer Betrag, entfällt die Zurechnung.
 
 (8) Die nach Absatz 1 dem Stifter oder der bezugs- oder
 anfallsberechtigten Person zuzurechnenden Einkünfte gehören bei
@@ -1462,17 +1463,17 @@ Absatz 6 des Einkommensteuergesetzes in der Fassung des Artikels 1 des
 Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den
 Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 
-(3) § 6 in der am 30. Juni 2021 geltenden Fassung ist auf noch am 31.
-Dezember 2021 laufende Stundungen im Sinne des § 6 Absatz 4 und 5 in
-der am 30. Juni 2021 geltenden Fassung sowie auf noch laufende Fristen
-im Sinne des § 6 Absatz 3 in der am 30. Juni 2021 geltenden Fassung
-weiterhin anzuwenden. Abweichend von Satz 2 sind Minderungen des
-Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am 30. Juni 2021
-geltenden Fassung auf Veräußerungen nach dem 24. März 2021 nicht mehr
-zu berücksichtigen.
+(3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni
+2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in
+der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses
+Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von
+Satz 1 sind Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz
+6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem
+24\. März 2021 nicht mehr zu berücksichtigen.
 
-(4) Die §§ 7 bis 13, 15 bis 18 und 20 in der am 1. Juli 2021 geltenden
-Fassung sind erstmals anzuwenden
+(4) Die §§ 7 bis 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden
+Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind
+erstmals anzuwenden
 
 1.  für die Einkommen- und Körperschaftsteuer für den
     Veranlagungszeitraum,

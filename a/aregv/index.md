@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2529
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.11.2021 I 4955
+:   Art. 8 G v. 20.7.2022 I 1237
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -120,9 +120,9 @@ Fällen nicht.
 Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum
 30\. Juni des Kalenderjahres gestellt werden; die Anpassung erfolgt zum
 1\. Januar des folgenden Kalenderjahres. Der Antrag auf Anpassung nach
-Satz 1 Nummer 1a muss einmal jährlich zum 30. Juni des Kalenderjahres
-gestellt werden; die Anpassung erfolgt zum 1. Januar des folgenden
-Jahres.
+Satz 1 Nummer 1a muss einmal jährlich zum 31. Dezember des
+Kalenderjahres gestellt werden; die Anpassung erfolgt zum 1. Januar
+des übernächsten Jahres.
 
 (5) Erfolgt eine Bestimmung des Qualitätselements nach Maßgabe des §
 19, so hat die Regulierungsbehörde von Amts wegen die Erlösobergrenze
@@ -162,8 +162,8 @@ verursacht wird, soweit der Netzbetreiber für die Durchführung
 zuständig war. Das Regulierungskonto wird durch den Netzbetreiber
 geführt.
 
-(1a) Der Netzbetreiber ermittelt bis zum 30. Juni des Jahres, das dem
-Kalenderjahr folgt, für das der Kapitalkostenaufschlag genehmigt
+(1a) Der Netzbetreiber ermittelt bis zum 31. Dezember des Jahres, das
+dem Kalenderjahr folgt, für das der Kapitalkostenaufschlag genehmigt
 wurde, die Differenz aus dem genehmigten Kapitalkostenaufschlag nach §
 10a und dem Kapitalkostenaufschlag, wie er sich bei der
 Berücksichtigung der tatsächlich entstandenen Kapitalkosten ergibt.
@@ -183,10 +183,11 @@ inländischer Emittenten.
 durch den Netzbetreiber ermittelten Saldo sowie dessen Verteilung nach
 Maßgabe des Satzes 2. Der nach den Absätzen 1 und 1a ermittelte und
 nach Absatz 2 verzinste Saldo des Regulierungskontos des letzten
-abgeschlossenen Kalenderjahres wird annuitätisch über die drei dem
-Jahr der Ermittlung folgenden Kalenderjahre durch Zu- und Abschläge
-auf die Erlösobergrenze verteilt. Die Annuitäten werden gemäß Absatz 2
-verzinst.
+abgeschlossenen Kalenderjahres wird annuitätisch über drei
+Kalenderjahre durch Zu- und Abschläge auf die Erlösobergrenze
+verteilt. Die Verteilung beginnt jeweils im übernächsten Jahr nach
+Antragstellung nach § 4 Absatz 4 Satz 3. Die Annuitäten werden gemäß
+Absatz 2 verzinst.
 
 (4) Der Antrag nach § 4 Absatz 4 Satz 1 Nummer 1a muss neben dem
 ermittelten Saldo die der Anpassung zugrunde liegenden Daten,
@@ -537,9 +538,9 @@ oder Erlöse aus
 
 
 8.  vermiedenen Netzentgelten im Sinne von § 18 der
-    Stromnetzentgeltverordnung, § 57 Absatz 3 des Erneuerbare-Energien-
-    Gesetzes und § 6 Absatz 4 und § 13 Absatz 5 des Kraft-Wärme-
-    Kopplungsgesetzes,
+    Stromnetzentgeltverordnung, § 13 Absatz 2 des
+    Energiefinanzierungsgesetzes und § 6 Absatz 4 und § 13 Absatz 5 des
+    Kraft-Wärme-Kopplungsgesetzes,
 
 
 8a. (weggefallen)
@@ -990,7 +991,8 @@ Beteiligung richtet sich grundsätzlich nach einem
 Aufteilungsschlüssel, der von den Übertragungsnetzbetreibern gemeinsam
 bestimmt wird. Wird ein Aufteilungsschlüssel nach Satz 3 nicht
 bestimmt, erfolgt die Aufteilung entsprechend den §§ 26, 28 und 30 des
-Kraft-Wärme-Kopplungsgesetzes.
+Kraft-Wärme-Kopplungsgesetzes in der am 31. Dezember 2022 geltenden
+Fassung.
 
 (3) Die auf jeden einzelnen Übertragungsnetzbetreiber entfallende
 Beteiligung wird im Falle einer negativen Differenz durch einen
@@ -1483,7 +1485,7 @@ ergibt.
 Forschungs- und Entwicklungsvorhabens im Rahmen der staatlichen
 Energieforschungsförderung, das durch eine zuständige Behörde eines
 Landes oder des Bundes, insbesondere des Bundesministeriums für
-Wirtschaft und Energie oder des Bundesministeriums für Bildung und
+Wirtschaft und Klimaschutz oder des Bundesministeriums für Bildung und
 Forschung bewilligt wurde und fachlich betreut wird. Kosten für
 Forschungs- und Entwicklungsvorhaben, die bereits bei der Bestimmung
 des Ausgangsniveaus der Erlösobergrenzen nach § 6 Absatz 1 und 2, als
@@ -1899,12 +1901,12 @@ Verteilernetzbetreibern beruht.
 ### § 33 Evaluierung und Berichte der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Energie zum 31. Dezember 2024 einen Bericht mit einer Evaluierung
-und Vorschlägen zur weiteren Ausgestaltung der Anreizregulierung vor.
-Der Bericht enthält Angaben zur Entwicklung des Investitionsverhaltens
-der Netzbetreiber und zur Notwendigkeit weiterer Maßnahmen zur
-Vermeidung von Investitionshemmnissen. Sie kann im Rahmen der
-Evaluierung insbesondere Vorschläge machen
+und Klimaschutz zum 31. Dezember 2024 einen Bericht mit einer
+Evaluierung und Vorschlägen zur weiteren Ausgestaltung der
+Anreizregulierung vor. Der Bericht enthält Angaben zur Entwicklung des
+Investitionsverhaltens der Netzbetreiber und zur Notwendigkeit
+weiterer Maßnahmen zur Vermeidung von Investitionshemmnissen. Sie kann
+im Rahmen der Evaluierung insbesondere Vorschläge machen
 
 1.  zur Verwendung weiterer als der in Anlage 3 aufgeführten
     Vergleichsmethoden und zu ihrer sachgerechten Kombination,
@@ -1936,8 +1938,8 @@ Wirtschaftskreisen Gelegenheit zur Stellungnahme und veröffentlicht
 die erhaltenen Stellungnahmen im Internet.
 
 (3) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Energie zum 31. Dezember 2024 einen Bericht zur Notwendigkeit der
-Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden,
+und Klimaschutz zum 31. Dezember 2024 einen Bericht zur Notwendigkeit
+der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden,
 unter Berücksichtigung der internationalen Entwicklung von
 Anreizregulierungssystemen, vor.
 
@@ -1948,26 +1950,26 @@ hinaus in regelmäßigen Abständen aussagekräftige Kennzahlen über das
 Investitionsverhalten der Netzbetreiber.
 
 (5) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Energie im Laufe der dritten Regulierungsperiode einen Bericht zum
-Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten bei
-Elektrizitätsverteilernetzen vor.
+und Klimaschutz im Laufe der dritten Regulierungsperiode einen Bericht
+zum Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten
+bei Elektrizitätsverteilernetzen vor.
 
 (6) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Energie im Laufe der dritten Regulierungsperiode einen Bericht zur
-Struktur und Effizienz von Elektrizitäts- und
+und Klimaschutz im Laufe der dritten Regulierungsperiode einen Bericht
+zur Struktur und Effizienz von Elektrizitäts- und
 Gasverteilernetzbetreibern vor, die sich für das vereinfachte
 Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts
 insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der
 Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
 
 (7) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Energie zum 31. Dezember 2027 einen Bericht mit einer Evaluierung
-des Anreizinstruments zur Verringerung von Engpassmanagementkosten der
-Übertragungsnetzbetreiber und mit Vorschlägen zur weiteren
-Ausgestaltung einer sachgerechten Einbeziehung von Kosten aus dem
-Engpassmanagement in die Anreizregulierung vor. Die Bundesnetzagentur
-hat zur Erstellung des Berichts die Vertreter von Wirtschaft und
-Verbrauchern zu hören.
+und Klimaschutz zum 31. Dezember 2027 einen Bericht mit einer
+Evaluierung des Anreizinstruments zur Verringerung von
+Engpassmanagementkosten der Übertragungsnetzbetreiber und mit
+Vorschlägen zur weiteren Ausgestaltung einer sachgerechten
+Einbeziehung von Kosten aus dem Engpassmanagement in die
+Anreizregulierung vor. Die Bundesnetzagentur hat zur Erstellung des
+Berichts die Vertreter von Wirtschaft und Verbrauchern zu hören.
 
 
 ## Teil 5 - Schlussvorschriften
@@ -2388,6 +2390,15 @@ t              – VK
 0             ) + S
 t             .
 
+Ab der dritten Regulierungsperiode erfolgt die Festsetzung der
+Erlösobergrenze nach den §§ 4 bis 17 für die Betreiber von
+Elektrizitäts- und Gasversorgungsnetzen nach der folgenden Formel:
+
+*    *        ![bgbl1_2016_j2147-1_0010.jpg](bgbl1_2016_j2147-1_0010.jpg)   .
+
+
+
+
 Dabei ist:
 
 *    *   EO
@@ -2396,12 +2407,6 @@ Dabei ist:
     *   Erlösobergrenze aus Netzentgelten, die im Jahr t der jeweiligen
         Regulierungsperiode nach Maßgabe des § 4 Anwendung findet.
 
-
-*    *
-    *   Ab der dritten Regulierungsperiode erfolgt die Festsetzung der
-        Erlösobergrenze nach den §§ 4 bis 17 für die Betreiber von
-        Elektrizitäts- und Gasversorgungsnetzen nach der folgenden Formel:
-        ![bgbl1_2016_j2147-1_0010.jpg](bgbl1_2016_j2147-1_0010.jpg)
 
 *    *   KA
         dnb,t
@@ -2416,10 +2421,14 @@ Dabei ist:
         vnb,0
 
     *   Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3 im
-        Basisjahr. KA
-        vnb,t                        Vorübergehend nicht beeinflussbarer
-        Kostenanteil nach § 11 Absatz 3, der für das Jahr t der jeweiligen
-        Regulierungsperiode anzuwenden ist.
+        Basisjahr.
+
+
+*    *   KA
+        vnb,t
+
+    *   Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3,
+        der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.
 
 
 *    *   V
@@ -2433,12 +2442,25 @@ Dabei ist:
         b,0
 
     *   Beeinflussbarer Kostenanteil nach § 11 Absatz 4 im Basisjahr. Er
-        entspricht den Ineffizienzen nach § 15 Absatz 3. KA
-        b,t                        Beeinflussbarer Kostenanteil nach § 11
-        Absatz 4, der für das Jahr t der jeweiligen Regulierungsperiode
-        anzuwenden ist. B
-        0                        Bonus nach § 12a im Basisjahr. T Dauer der
-        jeweiligen Regulierungsperiode in Jahren.
+        entspricht den Ineffizienzen nach § 15 Absatz 3.
+
+
+*    *   KA
+        b,t
+
+    *   Beeinflussbarer Kostenanteil nach § 11 Absatz 4, der für das Jahr t
+        der jeweiligen Regulierungsperiode anzuwenden ist.
+
+
+*    *   B
+        0
+
+    *   Bonus nach § 12a im Basisjahr.
+
+
+*    *   T
+
+    *   Dauer der jeweiligen Regulierungsperiode in Jahren.
 
 
 *    *   VPI
@@ -2465,9 +2487,14 @@ Dabei ist:
         t                       /VPI
         0                        ist PF
         t                        dabei durch Multiplikation der einzelnen
-        Jahreswerte einer Regulierungsperiode zu bilden. KKA
-        t                        Kapitalkostenaufschlag nach § 10a, der für
-        das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.
+        Jahreswerte einer Regulierungsperiode zu bilden.
+
+
+*    *   KKA
+        t
+
+    *   Kapitalkostenaufschlag nach § 10a, der für das Jahr t der jeweiligen
+        Regulierungsperiode anzuwenden ist.
 
 
 *    *   EF

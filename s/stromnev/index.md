@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2225
 
 Zuletzt geändert durch
-:   Art. 2 V v. 27.7.2021 I 3229
+:   Art. 6 G v. 20.7.2022 I 1237
 
 
 ## Eingangsformel
@@ -1494,9 +1494,8 @@ Gewerbes, deren Stromkosten für selbstverbrauchten Strom im
 vorangegangenen Geschäftsjahr 4 Prozent des Umsatzes im Sinne von §
 277 Absatz 1 des Handelsgesetzbuches übersteigen, für die über 1
 Gigawattstunde hinausgehenden selbstverbrauchten Strombezüge um
-höchstens 0,025 Cent je Kilowattstunde erhöhen. Die §§ 62a, 62b und
-104 Absatz 10 und 11 des Erneuerbare-Energien-Gesetzes sowie § 27b des
-Kraft-Wärme-Kopplungsgesetzes sind im Rahmen der Erhebung des
+höchstens 0,025 Cent je Kilowattstunde erhöhen. Die §§ 21, 45 und 46
+des Energiefinanzierungsgesetzes sind im Rahmen der Erhebung des
 Aufschlags nach Satz 15 entsprechend anzuwenden. Der Umlagemechanismus
 nach Satz 15 ist erstmalig zum 1. Januar 2012 anzuwenden. Die
 Vereinbarung eines individuellen Netzentgeltes erfolgt unter dem
@@ -1692,7 +1691,7 @@ Anhang muss enthalten:
     Gesamtbetrag und
 
 
-9.  im Vorjahr nach § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes in
+9.  im Vorjahr nach § 13 Absatz 2 des Energiefinanzierungsgesetzes in
     Abzug gebrachten Netzentgelte.
 
 
@@ -1938,7 +1937,7 @@ dieser Verordnung eine beihilferechtliche Notifizierung der
 Übergangsregelung nach den Sätzen 1 und 2 erfolgt sein, dürfen die
 Sätze 1 und 2 erst nach einer beihilferechtlichen Genehmigung und nach
 Maßgabe einer solchen Genehmigung angewendet werden; das
-Bundesministerium für Wirtschaft und Energie macht den Tag einer
+Bundesministerium für Wirtschaft und Klimaschutz macht den Tag einer
 beihilferechtlichen Notifizierung und einer Bekanntgabe einer
 beihilferechtlichen Genehmigung jeweils im Bundesanzeiger bekannt.
 

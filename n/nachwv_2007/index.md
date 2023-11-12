@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2298
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 5 G v. 23.10.2020 I 2232
+:   Art. 5 V v. 28.4.2022 I 700
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -1214,30 +1214,26 @@ Register nach § 25 Abs. 2 Satz 2 elektronisch führen, müssen sie die
 Register unter Zugrundelegung dieser Formblätter in entsprechender
 Anwendung der §§ 17 bis 20 führen.
 
-(8) Abfallentsorger, die Abfälle behandeln und lagern, registrieren,
-unabhängig davon, ob sie zur Nachweisführung verpflichtet sind oder
-nicht, zusätzlich die Menge an Erzeugnissen, Materialien und Stoffen,
-die aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder
-aus einem sonstigen Verwertungsverfahren hervorgehen, indem sie für
-jedes Erzeugnis, Material und jede Stoffart ein eigenes Verzeichnis
+(8) Abfallentsorger, die Abfälle behandeln, registrieren, unabhängig
+davon, ob sie zur Nachweisführung verpflichtet sind oder nicht,
+zusätzlich die Menge an Erzeugnissen, Materialien und Stoffen, die aus
+der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus
+einem sonstigen Verwertungsverfahren hervorgehen, indem sie für jedes
+Erzeugnis, Material und jede Stoffart ein eigenes Verzeichnis
 erstellen, in welchem sie
 
 1.  als Überschrift die Erzeugnis-, Material- oder Stoffart angeben,
 
 
-2.  die Menge der aus der Vorbereitung zur Wiederverwendung, aus dem
-    Recycling oder aus einem sonstigen Verwertungsverfahren
-    hervorgegangenen Erzeugnisse, Materialien oder Stoffe angeben und
-
-
-3.  unterhalb dieser Angaben fortlaufend für jede aus der Behandlung
+2.  unterhalb dieser Angaben fortlaufend für jede aus der Behandlung
     hervorgegangene Erzeugnis-, Material- oder Stoffcharge spätestens zehn
-    Kalendertage nach Abschluss der Behandlung ihre Menge und das Datum,
-    an dem das Ende der Abfalleigenschaft erreicht wurde, angeben und
-    diese Angaben unterschreiben. Absatz 6 Satz 2 bis 4 gilt entsprechend.
+    Kalendertage nach Abschluss der Behandlung das Datum, an dem das Ende
+    der Abfalleigenschaft erreicht wurde, angeben und diese Angaben
+    unterschreiben.
 
 
 
+Absatz 6 Satz 2 bis 4 gilt entsprechend.
 
 
 ### § 25 Dauer der Registrierung, elektronische Registerführung

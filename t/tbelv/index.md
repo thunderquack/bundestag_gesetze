@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1938
 
-Änderung durch
-:   Art. 13 G v. 25.6.2021 I 2083 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 13 G v. 25.6.2021 I 2083
 
 Stand: Die V tritt gem. § 5 Satz 2 dieser V am 31.12.2024 außer Kraft
 

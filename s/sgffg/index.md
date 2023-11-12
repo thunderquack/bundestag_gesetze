@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3115
 
-Änderung durch
-:   Art. 5 G v. 9.6.2021 I 1730 (Nr. 32) mWv 1.7.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 5 G v. 9.6.2021 I 1730
 
 
 ## § 1 Anwendungsbereich

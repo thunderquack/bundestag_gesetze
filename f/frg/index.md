@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1960, 93, 94
 
 Zuletzt geändert durch
-:   Art. 7 G v. 11.11.2016 I 2500
+:   Art. 11 G v. 20.12.2022 I 2759
 
 
 ## Inhaltsverzeichnis
@@ -930,7 +930,8 @@ gewährt, so ruht die Rente in Höhe des in Euro umgerechneten Betrags,
 der als Leistung des Trägers der Sozialversicherung oder der anderen
 Stelle außerhalb der Bundesrepublik Deutschland ausgezahlt wird. Auf
 Steigerungsbeträge aus Beiträgen der Höherversicherung findet Satz 1
-keine Anwendung.
+keine Anwendung. § 18d des Vierten Buches Sozialgesetzbuch gilt
+entsprechend.
 
 (2) Der Berechtigte hat dem zuständigen Träger der gesetzlichen
 Rentenversicherungen unverzüglich anzuzeigen, wenn ihm eine der in

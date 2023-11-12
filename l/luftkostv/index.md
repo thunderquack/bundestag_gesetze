@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 346
 
 Zuletzt geändert durch
-:   Art. 3 V v. 30.3.2017 I 683
-
-Änderung durch
-:   Art. 3 V v. 9.3.2021 I 338 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 14.6.2021 I 1766 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 7.12.2021 I 5190 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 7.12.2021 I 5190
 
 
 ## Eingangsformel

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.2.1996 I 210;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.10.2019 I 1470
+:   Art. 3b G v. 19.7.2023 I Nr. 197
 
 
 ## § 1 Anwendungsbereich
@@ -227,14 +227,14 @@ berechnet werden.
 
 ## § 6a Gebühren bei stationärer Behandlung
 
-(1) Bei vollstationären, teilstationären sowie vor- und
-nachstationären privatärztlichen Leistungen sind die nach dieser
-Verordnung berechneten Gebühren einschließlich der darauf entfallenden
-Zuschläge um 25 von Hundert zu mindern. Abweichend davon beträgt die
-Minderung für Leistungen und Zuschläge nach Satz 1 von Belegärzten
-oder niedergelassenen anderen Ärzten 15 vom Hundert. Ausgenommen von
-der Minderungspflicht ist der Zuschlag nach Buchstabe J in Abschnitt B
-V des Gebührenverzeichnisses.
+(1) Bei vollstationären, stationsäquivalenten, tagesstationären,
+teilstationären sowie vor- und nachstationären privatärztlichen
+Leistungen sind die nach dieser Verordnung berechneten Gebühren
+einschließlich der darauf entfallenden Zuschläge um 25 von Hundert zu
+mindern. Abweichend davon beträgt die Minderung für Leistungen und
+Zuschläge nach Satz 1 von Belegärzten oder niedergelassenen anderen
+Ärzten 15 vom Hundert. Ausgenommen von der Minderungspflicht ist der
+Zuschlag nach Buchstabe J in Abschnitt B V des Gebührenverzeichnisses.
 
 (2) Neben den nach Absatz 1 geminderten Gebühren darf der Arzt Kosten
 nicht berechnen; die §§ 7 bis 10 bleiben unberührt.

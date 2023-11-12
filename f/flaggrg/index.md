@@ -16,19 +16,10 @@ Fundstelle
 :   BGBl I: 1951, 79
 
 Neugefasst durch
-:   Bek. v. 26.10.1994 I 3140
+:   Bek. v. 26.10.1994 I 3140;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 134 G v. 18.7.2016 I 1666
-
-Änderung durch
-:   Art. 339 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 134 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
+:   Art. 2 Abs. 40 G v. 20.12.2022 I 2752
 
 
 ## Erster Abschnitt - Flaggenrecht der Seeschiffe
@@ -827,13 +818,6 @@ Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31.
 Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur
 Änderung des Flaggenrechtsgesetzes und der Schiffsregisterordnung vom
 20\. Dezember 2012 (BGBl. I S. 2792) erlassenen Fassung.
-
-
-### § 25
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### Anlage (zu § 7 Absatz 2 Satz 1)

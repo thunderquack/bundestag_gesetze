@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2234
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.1.2021 I 140
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1699 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 24 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 22.9.2021 I 4363 (Nr. 68) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 25.10.2023 I Nr. 294
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie 94/62/EG des
 Europäischen Parlaments und des Rates vom 20. Dezember 1994 über
@@ -274,6 +265,24 @@ Geltungsbereich dieses Gesetzes beauftragt hat, in eigenem Namen
 sämtliche Aufgaben wahrzunehmen, um die Herstellerpflichten nach
 diesem Gesetz zu erfüllen.
 
+(14b) Elektronischer Marktplatz ist eine Website oder jedes andere
+Instrument, mit dessen Hilfe Informationen über das Internet zur
+Verfügung gestellt werden und die oder das es Vertreibern, die nicht
+Betreiber des Marktplatzes sind, ermöglicht, Waren in eigenem Namen in
+Verkehr zu bringen. Betreiber eines elektronischen Marktplatzes ist
+jede natürliche oder juristische Person oder rechtsfähige
+Personengesellschaft, die einen elektronischen Marktplatz unterhält
+und es Vertreibern ermöglicht, über diesen Marktplatz Waren in Verkehr
+zu bringen.
+
+(14c) Fulfilment-Dienstleister ist jede natürliche oder juristische
+Person oder rechtsfähige Personengesellschaft, die im Rahmen einer
+Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen für
+Vertreiber im Geltungsbereich dieses Gesetzes anbietet: Lagerhaltung,
+Verpacken, Adressieren und Versand von Waren, an denen sie kein
+Eigentumsrecht hat. Post-, Paketzustell- oder sonstige
+Frachtverkehrsdienstleister gelten nicht als Fulfilment-Dienstleister.
+
 (15) Registrierter Sachverständiger ist, wer
 
 1.  nach § 36 der Gewerbeordnung öffentlich bestellt ist,
@@ -460,8 +469,8 @@ Verpackungen sowie die Registrierungsnummer nach § 9 Absatz 3 Satz 2
 anzugeben. Die Systeme haben den Herstellern eine erfolgte Beteiligung
 unter Angabe von Materialart und Masse der beteiligten Verpackungen
 unverzüglich schriftlich oder elektronisch zu bestätigen; dies gilt
-auch, wenn die Beteiligung durch einen beauftragten Dritten nach § 33
-vermittelt wurde.
+auch, wenn die Beteiligung durch einen beauftragten Dritten nach § 35
+Absatz 1 vermittelt wurde.
 
 (2) Abweichend von Absatz 1 Satz 1 kann ein Hersteller von
 systembeteiligungspflichtigen Serviceverpackungen von den
@@ -473,7 +482,9 @@ Vorvertreiber, auf den die Systembeteiligungspflicht übergeht, eine
 Bestätigung über die erfolgte Systembeteiligung verlangen. Mit der
 Übertragung der Systembeteiligungspflicht gehen auch die
 Herstellerpflichten nach den §§ 9 bis 11 insoweit auf den
-verpflichteten Vorvertreiber über.
+verpflichteten Vorvertreiber über; der Hersteller nach Absatz 1 Satz 1
+bleibt jedoch zusätzlich selbst zur Registrierung gemäß § 9
+verpflichtet.
 
 (3) Soweit in Verkehr gebrachte systembeteiligungspflichtige
 Verpackungen wegen Beschädigung oder Unverkäuflichkeit nicht an den
@@ -506,6 +517,24 @@ betreffenden Verpackung nachweist.
 oder sonstige wirtschaftliche Vorteile für den Fall zu versprechen
 oder zu gewähren, dass die Vertreiber Hersteller von
 systembeteiligungspflichtigen Verpackungen an ihr System vermitteln.
+
+(7) Hersteller dürfen systembeteiligungspflichtige Verpackungen nicht
+in Verkehr bringen, wenn sie sich mit diesen Verpackungen nicht gemäß
+Absatz 1 Satz 1 an einem System beteiligt haben. Nachfolgende
+Vertreiber dürfen systembeteiligungspflichtige Verpackungen nicht zum
+Verkauf anbieten und Betreiber eines elektronischen Marktplatzes
+dürfen das Anbieten von systembeteiligungspflichtigen Verpackungen zum
+Verkauf nicht ermöglichen, wenn sich die Hersteller mit diesen
+Verpackungen nicht gemäß Absatz 1 Satz 1 an einem System beteiligt
+haben. Fulfilment-Dienstleister dürfen keine der in § 3 Absatz 14c
+Satz 1 genannten Tätigkeiten in Bezug auf systembeteiligungspflichtige
+Verpackungen erbringen, wenn sich die Hersteller mit diesen
+Verpackungen nicht gemäß Absatz 1 Satz 1 an einem System beteiligt
+haben; umfasst die Tätigkeit eines Fulfilment-Dienstleisters das
+Verpacken von Waren in systembeteiligungspflichtige
+Versandverpackungen, so gilt der Vertreiber der Waren, für den der
+Fulfilment-Dienstleister tätig wird, hinsichtlich der
+Versandverpackungen als Hersteller nach Absatz 1 Satz 1.
 
 
 ### § 8 Branchenlösung
@@ -590,12 +619,11 @@ die Leistung einer Sicherheit entsprechend § 18 Absatz 4 verlangen.
 
 ### § 9 Registrierung
 
-(1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, sich vor
-dem Inverkehrbringen von systembeteiligungspflichtigen Verpackungen
-bei der Zentralen Stelle registrieren zu lassen. Änderungen von
-Registrierungsdaten sowie die dauerhafte Aufgabe der
-Herstellertätigkeit sind der Zentralen Stelle unverzüglich
-mitzuteilen.
+(1) Hersteller von mit Ware befüllten Verpackungen sind verpflichtet,
+sich vor dem Inverkehrbringen der Verpackungen bei der Zentralen
+Stelle registrieren zu lassen. Änderungen von Registrierungsdaten
+sowie die dauerhafte Aufgabe der Herstellertätigkeit sind der
+Zentralen Stelle unverzüglich mitzuteilen.
 
 (2) Bei der Registrierung nach Absatz 1 Satz 1 sind die folgenden
 Angaben zu machen:
@@ -624,19 +652,29 @@ Angaben zu machen:
     einer Bevollmächtigung die gleichen Angaben zum Bevollmächtigten;
 
 
-5.  Markennamen, unter denen der Hersteller seine
-    systembeteiligungspflichtigen Verpackungen in Verkehr bringt;
+5.  Markennamen, unter denen der Hersteller seine Verpackungen in Verkehr
+    bringt;
 
 
-6.  Erklärung, dass der Hersteller seine Rücknahmepflichten durch
-    Beteiligung an einem oder mehreren Systemen oder durch eine oder
-    mehrere Branchenlösungen erfüllt;
+6.  Angaben zu den Verpackungen, die der Hersteller in Verkehr bringt,
+    aufgeschlüsselt nach systembeteiligungspflichtigen Verpackungen gemäß
+    § 3 Absatz 8, den jeweiligen Verpackungen gemäß § 15 Absatz 1 Satz 1
+    Nummer 1 bis 5 und Einweggetränkeverpackungen, die gemäß § 31 der
+    Pfandpflicht unterliegen;
 
 
-7.  Erklärung, dass die Angaben der Wahrheit entsprechen.
+7.  Erklärung, dass sämtliche Angaben nach diesem Absatz der Wahrheit
+    entsprechen.
 
 
 
+Hersteller nach § 7 Absatz 1 Satz 1 haben darüber hinaus eine
+Erklärung abzugeben, dass sie ihre Rücknahmepflichten durch
+Beteiligung an einem oder mehreren Systemen oder durch eine oder
+mehrere Branchenlösungen erfüllen; im Falle einer vollständigen
+Übertragung der Systembeteiligungspflicht gemäß § 7 Absatz 2 auf einen
+oder mehrere Vorvertreiber haben sie stattdessen zu erklären, dass sie
+nur bereits systembeteiligte Serviceverpackungen in Verkehr bringen.
 
 (3) Die erstmalige Registrierung sowie Änderungsmitteilungen haben
 über das auf der Internetseite der Zentralen Stelle zur Verfügung
@@ -649,19 +687,24 @@ bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die
 Übermittlung elektronischer Dokumente vorschreiben.
 
 (4) Die Zentrale Stelle veröffentlicht die registrierten Hersteller
-mit den in Absatz 2 Nummer 1, 2 Buchstabe a und Nummer 5 genannten
-Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum
-im Internet. Bei Herstellern, deren Registrierung beendet ist, ist
-zusätzlich das Datum des Marktaustritts anzugeben. Die im Internet
-veröffentlichten Daten sind dort drei Jahre nach Ablauf des Jahres, in
-dem die Registrierung des Herstellers endet, zu löschen.
+mit den in Absatz 2 Nummer 1, 2 Buchstabe a und Nummern 5 und 6
+genannten Angaben sowie mit der Registrierungsnummer und dem
+Registrierungsdatum im Internet. Bei Herstellern, deren Registrierung
+beendet ist, ist zusätzlich das Datum des Marktaustritts anzugeben.
+Die im Internet veröffentlichten Daten sind dort drei Jahre nach
+Ablauf des Jahres, in dem die Registrierung des Herstellers endet, zu
+löschen.
 
-(5) Hersteller dürfen systembeteiligungspflichtige Verpackungen nicht
-in Verkehr bringen, wenn sie nicht oder nicht ordnungsgemäß nach
-Absatz 1 registriert sind. Vertreiber dürfen
-systembeteiligungspflichtige Verpackungen nicht zum Verkauf anbieten,
-wenn die Hersteller dieser Verpackungen entgegen Absatz 1 nicht oder
-nicht ordnungsgemäß registriert sind.
+(5) Hersteller dürfen Verpackungen nicht in Verkehr bringen, wenn sie
+nicht oder nicht ordnungsgemäß nach Absatz 1 registriert sind.
+Vertreiber dürfen Verpackungen nicht zum Verkauf und Betreiber eines
+elektronischen Marktplatzes dürfen das Anbieten von Verpackungen zum
+Verkauf nicht ermöglichen, wenn die Hersteller dieser Verpackungen
+nicht oder nicht ordnungsgemäß nach Absatz 1 registriert sind.
+Fulfilment-Dienstleister dürfen keine der in § 3 Absatz 14c Satz 1
+genannten Tätigkeiten in Bezug auf Verpackungen erbringen, wenn die
+Hersteller dieser Verpackungen nicht oder nicht ordnungsgemäß nach
+Absatz 1 registriert sind.
 
 
 ### § 10 Datenmeldung
@@ -786,21 +829,21 @@ hinterlegen ist.
 
 ### § 12 Ausnahmen
 
-Die Vorschriften dieses Abschnitts gelten nicht für
+(1) Die Vorschriften dieses Abschnitts gelten nicht für Verpackungen,
+die nachweislich nicht im Geltungsbereich dieses Gesetzes an
+Endverbraucher abgegeben werden.
+
+(2) Die Vorschriften dieses Abschnitts, mit Ausnahme von § 9, gelten
+nicht für
 
 1.  Mehrwegverpackungen,
 
 
-2.  Einweggetränkeverpackungen, die nach § 31 der Pfandpflicht
+2.  Einweggetränkeverpackungen, die nach § 31 der Pfandpflicht
     unterliegen,
 
 
-3.  systembeteiligungspflichtige Verpackungen, die nachweislich nicht im
-    Geltungsbereich dieses Gesetzes an den Endverbraucher abgegeben
-    werden,
-
-
-4.  Verkaufsverpackungen schadstoffhaltiger Füllgüter.
+3.  Verkaufsverpackungen schadstoffhaltiger Füllgüter.
 
 
 
@@ -2030,10 +2073,24 @@ aufgeführten hoheitlichen Aufgaben beliehen. Die Zentrale Stelle
     Statistischen Bundesamt auf Anforderung die die für die Erhebung nach
     § 5a des Umweltstatistikgesetzes erforderlichen Daten, soweit sie der
     Zentralen Stelle aufgrund ihrer Pflichten nach diesem Gesetz
-    vorliegen, und
+    vorliegen,
 
 
-30. ist befugt, die mit der Erfüllung der ihr nach diesem Absatz
+30. stellt dem Umweltbundesamt gemäß § 8 Absatz 2 Satz 2 bis 4 des
+    Einwegkunststofffondsgesetzes vom 11. Mai 2023 (BGBl. 2023 I Nr. 124),
+    in der jeweils geltenden Fassung, die vorhandenen Registerangaben nach
+    § 9 einschließlich der notwendigen technischen Informationen zum
+    Datenabruf zur Verfügung,
+
+
+31. verwendet die gemäß § 8 Absatz 3 Satz 1 des
+    Einwegkunststofffondsgesetzes vom Umweltbundesamt übermittelten
+    Registerangaben zur Erfüllung ihrer Aufgaben und legt gemäß § 8 Absatz
+    3 Satz 2 des Einwegkunststofffondsgesetzes im Einvernehmen mit dem
+    Umweltbundesamt das Format des elektronischen Datenaustauschs fest und
+
+
+32. ist befugt, die mit der Erfüllung der ihr nach diesem Absatz
     zugewiesenen Aufgaben notwendigerweise zusammenhängenden Tätigkeiten
     durchzuführen.
 
@@ -2125,7 +2182,8 @@ dem Prüferregister entfernen.
 (4) Die Zentrale Stelle kann einen registrierten Sachverständigen oder
 einen nach Absatz 2 registrierten Prüfer für bis zu drei Jahre aus dem
 Prüferregister entfernen, wenn er wiederholt und grob pflichtwidrig
-gegen die Prüfleitlinien verstoßen hat.
+gegen die Prüfleitlinien nach diesem Gesetz oder dem
+Einwegkunststofffondsgesetz verstoßen hat.
 
 
 ### § 28 Organisation
@@ -2512,12 +2570,12 @@ Gestalt und Schriftgröße mindestens der Preisauszeichnung für das
 jeweilige Produkt entsprechen.
 
 (5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß §
-9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung
-der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt
-durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2394)
-geändert worden ist, in der jeweils geltenden Fassung bezüglich der
-von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht
-zur Angabe des Grundpreises befreit sind.
+4 Absatz 3 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung
+der Bekanntmachung vom 12. November 2021 (BGBl. I S. 4921), die
+zuletzt durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S.
+2394) geändert worden ist, in der jeweils geltenden Fassung bezüglich
+der von ihnen in Verkehr gebrachten Getränkeverpackungen von der
+Pflicht zur Angabe des Grundpreises befreit sind.
 
 
 ## Abschnitt 7 - Minderung des Verbrauchs bestimmter Einwegverpackungen
@@ -2605,7 +2663,7 @@ deutscher Sprache zu erfolgen.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 7 Absatz 1 Satz 4
+1.  entgegen § 5 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 7 Absatz 7 Satz 1
     oder § 9 Absatz 5 Satz 1 eine Verpackung oder einen
     Verpackungsbestandteil in Verkehr bringt,
 
@@ -2621,24 +2679,30 @@ deutscher Sprache zu erfolgen.
     gewährt,
 
 
-5.  entgegen § 8 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht
+5.  entgegen § 7 Absatz 7 Satz 2 oder § 9 Absatz 5 Satz 2 eine Verpackung
+    zum Verkauf anbietet oder das Anbieten einer Verpackung zum Verkauf
+    ermöglicht,
+
+
+5a. entgegen § 7 Absatz 7 Satz 3 erster Halbsatz oder § 9 Absatz 5 Satz 3
+    eine in § 3 Absatz 14c Satz 1 genannte Tätigkeit erbringt,
+
+
+6.  entgegen § 8 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstattet,
 
 
-6.  entgegen § 8 Absatz 3 Satz 3 oder § 17 Absatz 3 Satz 1 einen
+7.  entgegen § 8 Absatz 3 Satz 3 oder § 17 Absatz 3 Satz 1 einen
     Mengenstromnachweis nicht, nicht richtig, nicht vollständig, nicht in
     der vorgeschriebenen Weise oder nicht rechtzeitig hinterlegt,
 
 
-7.  entgegen § 9 Absatz 1 Satz 1 sich nicht, nicht richtig, nicht
+8.  entgegen § 9 Absatz 1 Satz 1 sich nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig registrieren lässt,
 
 
-8.  entgegen § 9 Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig,
+9.  entgegen § 9 Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig macht,
-
-
-9.  entgegen § 9 Absatz 5 Satz 2 eine Verpackung zum Verkauf anbietet,
 
 
 10. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
@@ -2738,10 +2802,10 @@ deutscher Sprache zu erfolgen.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3,
 4, 12, 13 und 18 mit einer Geldbuße bis zu zweihunderttausend Euro, in
-den Fällen des Absatzes 1 Nummer 1, 5, 6, 7, 9, 11, 14, 15, 16, 17,
-19, 20, 21, 22, 23, 25 und 26 mit einer Geldbuße bis zu hunderttausend
-Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend
-Euro geahndet werden.
+den Fällen des Absatzes 1 Nummer 1, 5, 5a, 6, 7, 8, 11, 14, 15, 16,
+17, 19, 20, 21, 22, 23, 25 und 26 mit einer Geldbuße bis zu
+hunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis
+zu zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die nach Landesrecht zuständige

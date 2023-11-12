@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.1.2021 I 70
-
-Änderung durch
-:   Art. 1 V v. 18.5.2021 I 1096 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 5 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 8.11.2021 I 4791 (Nr. 77) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 26.7.2023 I Nr. 204
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -643,10 +628,79 @@ zuständige oberste Landesbehörde, an die Stelle der obersten
 Landesbehörde jeweils das Bundesinstitut für Arzneimittel und
 Medizinprodukte.
 
-(4) Eine Erlaubnis nach Absatz 1 berechtigt das in einem
-Drogenkonsumraum tätige Personal nicht, eine Substanzanalyse der
-mitgeführten Betäubungsmittel durchzuführen oder beim unmittelbaren
-Verbrauch der mitgeführten Betäubungsmittel aktive Hilfe zu leisten.
+
+### § 10b Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen
+
+(1) Die zuständigen Landesbehörden können eine Erlaubnis für
+Modellvorhaben zur qualitativen und quantitativen chemischen Analyse
+von mitgeführten, nicht ärztlich, zahnärztlich oder tierärztlich
+verschriebenen Betäubungsmitteln erteilen, wenn mit der Analyse eine
+Risikobewertung und gesundheitliche Aufklärung über die Folgen des
+Konsums für die die Betäubungsmittel besitzende Person verbunden ist
+(Drug-Checking-Modellvorhaben).
+
+(2) Die Landesregierungen haben zur Verbesserung des
+Gesundheitsschutzes und einer besseren gesundheitlichen Aufklärung
+durch Rechtsverordnung Bestimmungen über die Erteilung einer in Absatz
+1 genannten Erlaubnis einschließlich der hierfür geltenden
+Voraussetzungen zu erlassen. In der Rechtsverordnung nach Satz 1 sind
+insbesondere folgende Anforderungen an die Durchführung von Drug-
+Checking-Modellvorhaben festzulegen:
+
+1.  Vorhandensein einer zweckdienlichen sachlichen Ausstattung;
+
+
+2.  Gewährleistung einer Aufklärung über die Risiken des Konsums von
+    Betäubungsmitteln einschließlich einer Beratung zum Zweck der
+    gesundheitlichen Risikominderung beim Konsum;
+
+
+3.  Gewährleistung einer Vermittlung in weiterführende Angebote der
+    Suchthilfe bei Bedarf seitens der Konsumierenden;
+
+
+4.  Dokumentation der zur Untersuchung eingereichten Substanzen mit
+    Untersuchungsergebnis und der angewandten Methode zur Ermöglichung der
+    in Absatz 3 Satz 1 genannten gesundheitlichen Aufklärung und
+    wissenschaftlichen Begleitung und zur Berücksichtigung der
+    Untersuchungsergebnisse in öffentlichen substanzbezogenen Warnungen;
+
+
+5.  Vorgaben zur Sicherheit und Kontrolle des Betäubungsmittelverkehrs bei
+    Verwahrung und Transport von zu untersuchenden Proben und zur
+    Vernichtung der zu untersuchenden Proben nach der Substanzanalyse;
+
+
+6.  Festlegung erforderlicher Formen der Zusammenarbeit mit den für die
+    öffentliche Sicherheit und Ordnung zuständigen örtlichen Behörden;
+
+
+7.  ständige Anwesenheit während der üblichen Geschäftszeiten des
+    Modellvorhabens von persönlich zuverlässigem Personal in ausreichender
+    Zahl, das für die Erfüllung der in den Nummern 1 bis 6 genannten
+    Anforderungen fachlich qualifiziert ist;
+
+
+8.  Vorhandensein einer sachkundigen Person, die für die Einhaltung der in
+    den Nummern 1 bis 7 genannten Anforderungen, der Auflagen der
+    Erlaubnisbehörde sowie der Anordnungen der Überwachungsbehörde
+    verantwortlich ist und die die ihr obliegenden Verpflichtungen ständig
+    während der üblichen Geschäftszeiten des Modellvorhabens erfüllen kann
+    und gegenüber der zuständigen Behörde vor Erteilung der in Absatz 1
+    genannten Erlaubnis zu benennen ist.
+
+
+
+In der Rechtsverordnung nach Satz 1 sind das Verfahren der Erteilung
+der in Absatz 1 genannten Erlaubnis und die hierfür jeweils zuständige
+Behörde zu bestimmen.
+
+(3) Die Länder stellen jeweils eine wissenschaftliche Begleitung und
+Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele
+einer besseren gesundheitlichen Aufklärung sowie eines verbesserten
+Gesundheitsschutzes sicher. Die Länder übermitteln dem
+Bundesministerium für Gesundheit oder einem von ihm beauftragten
+Dritten auf Anforderung die Ergebnisse der Modellvorhaben.
 
 
 ## Dritter Abschnitt - Pflichten im Betäubungsmittelverkehr
@@ -855,6 +909,28 @@ versorgten Palliativpatienten oder zu dessen Pflege anwesende Dritte
 über die ordnungsgemäße Anwendung der überlassenen Betäubungsmittel
 aufzuklären und eine schriftliche Gebrauchsanweisung mit Angaben zur
 Einzel- und Tagesgabe auszuhändigen.
+
+(1b) Abweichend von Absatz 1 dürfen die in Anlage III bezeichneten
+Betäubungsmittel durch Notfallsanitäter im Sinne des
+Notfallsanitätergesetzes ohne vorherige ärztliche Anordnung im Rahmen
+einer heilkundlichen Maßnahme verabreicht werden, wenn diese nach
+standardisierten ärztlichen Vorgaben handeln, ein Eintreffen eines
+Arztes nicht abgewartet werden kann und die Verabreichung zur
+Abwendung von Gefahren für die Gesundheit oder zur Beseitigung oder
+Linderung erheblicher Beschwerden erforderlich ist. Die
+standardisierten ärztlichen Vorgaben müssen
+
+1.  den handelnden Notfallsanitätern in Textform vorliegen,
+
+
+2.  Regelungen zu Art und Weise der Verabreichung enthalten und
+
+
+3.  Festlegungen darüber treffen, in welchen Fällen das Eintreffen eines
+    Arztes nicht abgewartet werden kann.
+
+
+
 
 (2) Die nach Absatz 1 verschriebenen Betäubungsmittel dürfen nur im
 Rahmen des Betriebs einer Apotheke und gegen Vorlage der Verschreibung
@@ -1187,9 +1263,10 @@ Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1
 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken,
 Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die
 zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung
-der in § 10a Abs. 2 aufgeführten Mindeststandards; den mit der
-Überwachung beauftragten Personen stehen die in den §§ 22 und 24
-geregelten Befugnisse zu.
+der in § 10a Absatz 2 oder in § 10b Absatz 2 aufgeführten
+Mindeststandards oder Anforderungen; den mit der Überwachung
+beauftragten Personen stehen die in den §§ 22 und 24 geregelten
+Befugnisse zu.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist
 zugleich die besondere Verwaltungsdienststelle im Sinne der
@@ -1212,21 +1289,23 @@ für den Verkauf von Cannabis zu medizinischen Zwecken fest.
 (3) Der Anbau von Nutzhanf im Sinne des Buchstabens d der
 Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I unterliegt der
 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung.
-Artikel 45 Absatz 4 Unterabsatz 1 und der Anhang der
-Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli
-2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013
-des Europäischen Parlaments und des Rates hinsichtlich des
-integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur
-Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227
-vom 31.7.2014, S. 69) in der jeweils geltenden Fassung gelten
-entsprechend. Im Übrigen gelten die Vorschriften des Integrierten
-Verwaltungs- und Kontrollsystems über den Anbau von Hanf entsprechend.
-Die Bundesanstalt für Landwirtschaft und Ernährung darf die ihr nach
-den Vorschriften des Integrierten Verwaltungs- und Kontrollsystems
-über den Anbau von Hanf von den zuständigen Landesstellen
-übermittelten Daten sowie die Ergebnisse von im Rahmen der Regelungen
-über die Basisprämie durchgeführten THC-Kontrollen zum Zweck der
-Überwachung nach diesem Gesetz verwenden.
+Artikel 5 Unterabsatz 1 und 2 und Anhang I der Delegierten Verordnung
+(EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um
+zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in
+ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der
+genannten Verordnung festgelegte Interventionskategorien sowie um
+Vorschriften über den Anteil für den Standard für den guten
+landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1
+(ABl. L 20 vom 31.1.2022, S. 52) in der jeweils geltenden Fassung
+gelten entsprechend. Im Übrigen gelten die Vorschriften des
+Integrierten Verwaltungs- und Kontrollsystems über den Anbau von Hanf
+entsprechend. Die Bundesanstalt für Landwirtschaft und Ernährung darf
+die ihr nach den Vorschriften des Integrierten Verwaltungs- und
+Kontrollsystems über den Anbau von Hanf von den zuständigen
+Landesstellen übermittelten Daten sowie die Ergebnisse von im Rahmen
+der Regelungen über die Basisprämie durchgeführten THC-Kontrollen zum
+Zweck der Überwachung nach diesem Gesetz verwenden.
 
 
 ### § 20 Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
@@ -1600,6 +1679,9 @@ bestraft, wer
     Betäubungsmittel überlässt,
 
 
+6b. entgegen § 13 Absatz 1b Satz 1 Betäubungsmittel verabreicht,
+
+
 7.  entgegen § 13 Absatz 2
 
     a)  Betäubungsmittel in einer Apotheke oder tierärztlichen Hausapotheke,
@@ -1672,8 +1754,8 @@ wenn der Täter
 
 
 
-(4) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 Nr. 1, 2, 5,
-6 Buchstabe b, Nr. 10 oder 11 fahrlässig, so ist die Strafe
+(4) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 Nummer 1, 2,
+5, 6 Buchstabe b, Nummer 6b, 10 oder 11 fahrlässig, so ist die Strafe
 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Das Gericht kann von einer Bestrafung nach den Absätzen 1, 2 und 4
@@ -1810,7 +1892,12 @@ sonstiger Weise verschafft oder besitzt. Von der Verfolgung soll
 abgesehen werden, wenn der Täter in einem Drogenkonsumraum
 Betäubungsmittel lediglich zum Eigenverbrauch, der nach § 10a geduldet
 werden kann, in geringer Menge besitzt, ohne zugleich im Besitz einer
-schriftlichen Erlaubnis für den Erwerb zu sein.
+schriftlichen Erlaubnis für den Erwerb zu sein. Ebenfalls soll von der
+Verfolgung abgesehen werden, wenn der Täter, der Betäubungsmittel
+lediglich zum Eigenverbrauch in geringer Menge besitzt, ohne zugleich
+im Besitz einer schriftlichen Erlaubnis für den Erwerb zu sein,
+anlässlich der Nutzung eines in § 10b genannten Modellvorhabens
+angetroffen wird.
 
 (2) Ist die Klage bereits erhoben, so kann das Gericht in jeder Lage
 des Verfahrens unter den Voraussetzungen des Absatzes 1 mit Zustimmung
@@ -2212,8 +2299,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   {4,5α-Epoxy-7α-[(
-        R                       )-2-hydroxypentan-2-yl]-6-methoxy-17-methyl-6,
-        14-ethenomorphinan-3-yl}acetat
+        R                       )-2-hydroxypentan-2-yl]-6-methoxy-17-methyl-
+        6,14-ethenomorphinan-3-yl}acetat
 
 
 *    *   -
@@ -2443,18 +2530,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   b)
 
     *   wenn sie aus dem Anbau in Ländern der Europäischen Union mit
-        zertifiziertem Saatgut von Sorten stammen, die am 15. März des
-        Anbaujahres in dem in Artikel 9 der Delegierten Verordnung (EU) Nr.
-        639/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung
-        (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates mit
-        Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher
-        Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen
-        Agrarpolitik und zur Änderung des Anhangs X der genannten Verordnung
-        (ABl. L 181 vom 20.6.2014, S. 1) in der jeweils geltenden Fassung
-        genannten gemeinsamen Sortenkatalog für landwirtschaftliche
-        Pflanzenarten aufgeführt sind, oder ihr Gehalt an Tetrahydrocannabinol
-        0,2 Prozent nicht übersteigt und der Verkehr mit ihnen (ausgenommen
-        der Anbau) ausschließlich gewerblichen oder wissenschaftlichen Zwecken
+        zertifiziertem Saatgut von Hanfsorten stammen, die am 15. März des
+        Anbaujahres im gemeinsamen Sortenkatalog für landwirtschaftliche
+        Pflanzenarten aufgeführt sind und die nach Artikel 17 der Richtlinie
+        2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen
+        Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom
+        20\.7.2002, S. 1) in der jeweils geltenden Fassung durch die
+        Europäische Kommission im Amtsblatt der Europäischen Union Reihe C
+        veröffentlicht sind, oder ihr Gehalt an Tetrahydrocannabinol 0,3
+        Prozent nicht übersteigt und der Verkehr mit ihnen (ausgenommen der
+        Anbau) ausschließlich gewerblichen oder wissenschaftlichen Zwecken
         dient, die einen Missbrauch zu Rauschzwecken ausschließen,
 
 
@@ -2466,23 +2551,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   d)
 
-    *   wenn sie von Unternehmen der Landwirtschaft angebaut werden, die die
-        Voraussetzungen des § 1 Absatz 4 des Gesetzes über die Alterssicherung
-        der Landwirte erfüllen, mit Ausnahme von Unternehmen der
-        Forstwirtschaft, des Garten- und Weinbaus, der Fischzucht, der
-        Teichwirtschaft, der Imkerei, der Binnenfischerei und der
-        Wanderschäferei, oder die für eine Beihilfegewährung nach der
-        Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des
-        Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an
-        Inhaber landwirtschaftlicher Betriebe im Rahmen von
-        Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der
-        Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr.
-        73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils
-        geltenden Fassung in Betracht kommen und der Anbau ausschließlich aus
-        zertifiziertem Saatgut von Sorten erfolgt, die am 15. März des
-        Anbaujahres in dem in Artikel 9 der Delegierten Verordnung (EU) Nr.
-        639/2014 genannten gemeinsamen Sortenkatalog für landwirtschaftliche
-        Pflanzenarten aufgeführt sind (Nutzhanf) oder
+    *   wenn sie von Unternehmen der Landwirtschaft angebaut werden, die
+
+        aa) Voraussetzungen des § 1 Absatz 4 des Gesetzes über die Alterssicherung
+            der Landwirte erfüllen, mit Ausnahme von Unternehmen der
+            Forstwirtschaft, des Garten- und Weinbaus, der Fischzucht, der
+            Teichwirtschaft, der Imkerei, der Binnenfischerei und der
+            Wanderschäferei, oder
+
+
+        bb) für eine Direktzahlung nach dem GAP-Direktzahlungen-Gesetz in Betracht
+            kommen
+
+
+
+
+
+*    *
+    *   und der Anbau ausschließlich aus zertifiziertem Saatgut von Hanfsorten
+        erfolgt, die am 15. März des Anbaujahres im gemeinsamen Sortenkatalog
+        für landwirtschaftliche Pflanzenarten aufgeführt sind und die nach
+        Artikel 17 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über
+        einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten
+        (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung
+        durch die Europäische Kommission im Amtsblatt der Europäischen Union
+        Reihe C veröffentlicht sind (Nutzhanf) oder
 
 
 *    *   e)
@@ -3373,8 +3466,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   6,11-Dimethyl-3-phenethyl-1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazoc
-        in-8-ol
+    *   6,11-Dimethyl-3-phenethyl-1,2,3,4,5,6-hexahydro-2,6-methano-3-
+        benzazocin-8-ol
 
 
 *    *   **Phencyclidin**
@@ -3785,6 +3878,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   ADB-BINACA
+        (ADB-BUTINACA, ADMB-BINACA)
+
+    *   N
+        -(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-
+        1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
     *   ADB-CHMINACA
         (MAB-CHMINACA)
 
@@ -3972,6 +4076,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Brorphin
+
+    *   1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-
+        benzimidazol-2-on
+
+
+*    *   -
+
     *   Buphedron
 
     *   2-(Methylamino)-1-phenylbutan-1-on
@@ -4017,6 +4129,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Ketobemidon
 
     *   1-[4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl]propan-1-on
+
+
+*    *   -
+
+    *   3-Chlormethcathinon (3-CMC, Clophedron)
+
+    *   1-(3-Chlorphenyl)-2-methylaminopropan-1-on
 
 
 *    *   -
@@ -4131,7 +4250,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008117116]
+    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008119125]
    CUMYL-4CN-BINACA
         (SGT-78)
 
@@ -4469,6 +4588,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Methyl{2-[1-(5-fluorpentyl)-1
         H                       -indazol-
         3-carboxamido]-3-methylbutanoat}
+
+
+*    *   -
+
+    *   Eutylon (N-Ethylnorbutylon, bk-EBDB)
+
+    *   1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on
+
+
+*    *   -
+
+    *   Etazen (Etodesnitazen)
+
+    *   N,N                       -Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-
+        1
+        H                       -benzimidazol-1-yl}ethan-1-amin
+
+
+*    *   -
+
+    *   Etonitazepyn (
+        N                       -Pyrrolidino Etonitazen)
+
+    *   2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-
+        1-ylethyl)-1
+        H                       -benzimidazol
 
 
 *    *   -
@@ -4884,8 +5029,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   (Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl]a
-        zanid
+    *   (Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-
+        yl]azanid
 
 
 *    *   **Metamfetamin**
@@ -5013,6 +5158,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   3,3-Diethyl-5-methylpiperidin-2,4-dion
+
+
+*    *   -
+
+    *   Metonitazen
+
+    *   N,N-Diethyl-2-{2-[(4-methoxyphenyl)methyl]-5-nitro-1H-
+        benzimidazol-1-yl}ethan-1-amin
 
 
 *    *   -
@@ -5229,6 +5382,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -(2-pyridyl)propanamid
 
 
+*    *   -
+
+    *   Protonitazen
+
+    *   N,N
+        -Diethyl-2-{2-[(4-propoxyphenyl)methyl]-5-nitro-
+        1
+        H                       -benzimidazol-1-yl}ethan-1-amin
+
+
 *    *   **Pyrovaleron**
 
     *   -
@@ -5242,6 +5405,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (Alpha-PHP,*                       -PHP, PV-7)
 
     *   1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on
+
+
+*    *   -
+
+    *   α-Pyrrolidinoisohexanophenon
+        (Alpha-PiHP, α-PiHP, 4-Methyl-α-PVP)
+
+    *   4-Methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-on
 
 
 *    *   -
@@ -5440,8 +5611,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan
-        -2-ol
+    *   1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-
+        phenylpropan-2-ol
 
 
 
@@ -5485,7 +5656,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Rahmenbeschlusses 2004/757/JI des Rates zur Aufnahme neuer
     psychoaktiver Substanzen in die Drogendefinition (ABl. L 66 vom
     7\.3.2019, S. 3) umgesetzt.
-[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008117116]: 
+[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008119125]: 
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
@@ -5809,8 +5980,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   10-Chlor-11b-(2-chlorphenyl)-2,3,7,11b-tetrahydro[1,3]oxazolo[3,2-d][1
-        ,4]benzodiazepin-6(5
+    *   10-Chlor-11b-(2-chlorphenyl)-2,3,7,11b-tetrahydro[1,3]oxazolo[3,2-
+        d][1,4]benzodiazepin-6(5
         H                       )-on
 
 
@@ -5973,8 +6144,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       ,6
         R                       ,7
         R                       ,14
-        R                       )-4,5-Epoxy-7-[(R)-2-hydroxypentan-2-yl]-6-met
-        hoxy-17-methyl-6,14-ethenomorphinan-3-ol
+        R                       )-4,5-Epoxy-7-[(R)-2-hydroxypentan-2-yl]-6-
+        methoxy-17-methyl-6,14-ethenomorphinan-3-ol
 
 
 *    *   **Fenetyllin**
@@ -6065,8 +6236,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   10-Brom-11b-(2-fluorphenyl)-2,3,7,11b-tetrahydro[1,3]oxazolo[3,2-d][1,
-        4]benzodiazepin-6(5
+    *   10-Brom-11b-(2-fluorphenyl)-2,3,7,11b-tetrahydro[1,3]oxazolo[3,2-
+        d][1,4]benzodiazepin-6(5
         H                       )-on
 
 
@@ -6151,8 +6322,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   6-(2-Chlorphenyl)-2-[(Z)-4-methylpiperazin-1-ylmethylen]-8-nitro-2,4-d
-        ihydro-1
+    *   6-(2-Chlorphenyl)-2-[(Z)-4-methylpiperazin-1-ylmethylen]-8-nitro-2,4-
+        dihydro-1
         H                       -imidazo[1,2-a][1,4]benzodiazepin-1-on
 
 
@@ -6284,8 +6455,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (6a
         RS                       ,10a
-        RS                       )-1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-y
-        l)-6,6a,7,8,10,10a-hexahydro-9
+        RS                       )-1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-
+        yl)-6,6a,7,8,10,10a-hexahydro-9
         H                       -benzo[c]chromen-9-on
 
 
@@ -6380,8 +6551,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (2
         RS                       ,11b
-        SR                       )-10-Chlor-2-methyl-11b-phenyl-2,3,7,11b-tetr
-        ahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5
+        SR                       )-10-Chlor-2-methyl-11b-phenyl-2,3,7,11b-
+        tetrahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5
         H                       )-on
 
 
@@ -6458,8 +6629,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (2
         R                       ,6
         R                       ,11
-        R                       )-6,11-Dimethyl-3-(3-methylbut-2-en-1-yl)-1,2,
-        3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol
+        R                       )-6,11-Dimethyl-3-(3-methylbut-2-en-1-yl)-
+        1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol
 
 
 *    *   **Pentobarbital**
@@ -6669,8 +6840,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
         -   ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der
-            Anlagen I bis III je abgeteilte Form bis zu 025 mg Triazolam enthalten
-            -
+            Anlagen I bis III je abgeteilte Form bis zu 0,25 mg Triazolam
+            enthalten -
 
 
 

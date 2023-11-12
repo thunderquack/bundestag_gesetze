@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1284
 
 Zuletzt geändert durch
-:   Art. 21 G v. 20.8.2021 I 3932
+:   Art. 2 G v. 1.7.2022 I 1030
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
@@ -1388,6 +1388,14 @@ Finanzen.
 (2) Größeren Beschaffungen und größeren Entwicklungsvorhaben sind
 ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt
 entsprechend.
+
+(3) Verträge über Beschaffungsmaßnahmen und Entwicklungsvorhaben sowie
+Betreiberverträge, die im Geschäftsbereich des Bundesministeriums der
+Verteidigung geschlossen werden sollen und die ein Finanzvolumen von
+25 Millionen Euro überschreiten, sind dem Haushaltsausschuss des
+Deutschen Bundestages zur Billigung vorzulegen. Bis zur Billigung des
+Haushaltsausschusses des Deutschen Bundestages sind Verträge zu der
+entsprechenden Maßnahme schwebend unwirksam.
 
 
 ### § 55 Öffentliche Ausschreibung

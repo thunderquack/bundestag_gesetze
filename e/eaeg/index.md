@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1842
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 5 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 7 Abs. 11 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 11 G v. 12.5.2021 I 990
 
 
 ## § 1 Begriffsbestimmungen

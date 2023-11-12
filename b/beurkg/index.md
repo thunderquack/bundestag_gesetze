@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1969, 1513
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.12.2021 II 1282
+:   Art. 5 G v. 8.10.2023 I Nr. 271
 
 
-## Erster Abschnitt - Allgemeine Vorschriften
+## Abschnitt 1 - Allgemeine Vorschriften
 
 
 
@@ -30,8 +30,8 @@ durch den Notar.
 
 (2) Soweit für öffentliche Beurkundungen neben dem Notar auch andere
 Urkundspersonen oder sonstige Stellen zuständig sind, gelten die
-Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2 und des Fünften
-Abschnittes, entsprechend.
+Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2 und des
+Abschnitts 5, entsprechend.
 
 
 ### § 2 Überschreiten des Amtsbezirks
@@ -145,11 +145,11 @@ Sprache errichten. Er soll dem Verlangen nur entsprechen, wenn er der
 fremden Sprache hinreichend kundig ist.
 
 
-## Zweiter Abschnitt - Beurkundung von Willenserklärungen
+## Abschnitt 2 - Beurkundung von Willenserklärungen
 
 
 
-### 1. - Ausschließung des Notars
+### Unterabschnitt 1 - Ausschließung des Notars
 
 
 
@@ -204,7 +204,7 @@ diese darauf gerichtet sind,
 einen rechtlichen Vorteil zu verschaffen.
 
 
-### 2. - Niederschrift
+### Unterabschnitt 2 - Niederschrift
 
 
 
@@ -264,12 +264,17 @@ Notar über die Geschäftsfähigkeit getroffen hat.
 
 #### § 12 Nachweise für die Vertretungsberechtigung
 
-Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
+(1) Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
 gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder in
 beglaubigter Abschrift beigefügt werden. Ergibt sich die
 Vertretungsberechtigung aus einer Eintragung im Handelsregister oder
 in einem ähnlichen Register, so genügt die Bescheinigung eines Notars
 nach § 21 der Bundesnotarordnung.
+
+(2) Wird eine Willenserklärung als von einem Bevollmächtigten
+abgegeben beurkundet, so gilt die Vorlage der Vollmachtsurkunde
+gegenüber dem Notar auch als Vorlage gegenüber demjenigen, gegenüber
+dem die beurkundete Willenserklärung abgegeben wird.
 
 
 #### § 13 Vorlesen, Genehmigen, Unterschreiben
@@ -393,7 +398,129 @@ werden. Die Niederschrift soll auch von dem Dolmetscher unterschrieben
 werden.
 
 
-### 3. - Prüfungs- und Belehrungspflichten
+### Unterabschnitt 3 - Beurkundung mittels Videokommunikation; Elektronische Niederschrift
+
+
+
+#### § 16a Zulässigkeit
+
+(1) Die Beurkundung von Willenserklärungen kann mittels des von der
+Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen
+Videokommunikationssystems nach den folgenden Vorschriften erfolgen,
+soweit dies durch Gesetz zugelassen ist.
+
+(2) Der Notar soll die Beurkundung mittels Videokommunikation
+ablehnen, wenn er die Erfüllung seiner Amtspflichten auf diese Weise
+nicht gewährleisten kann, insbesondere wenn er sich auf diese Weise
+keine Gewissheit über die Person eines Beteiligten verschaffen kann
+oder er Zweifel an der erforderlichen Rechtsfähigkeit oder
+Geschäftsfähigkeit eines Beteiligten hat.
+
+
+#### § 16b Aufnahme einer elektronischen Niederschrift
+
+(1) Bei der Beurkundung von Willenserklärungen mittels
+Videokommunikation muss eine elektronische Niederschrift über die
+Verhandlung aufgenommen werden. Auf die elektronische Niederschrift
+sind die Vorschriften über die Niederschrift entsprechend anzuwenden,
+soweit in den Absätzen 2 bis 5 sowie den §§ 16c bis 16e nichts anderes
+bestimmt ist.
+
+(2) Die elektronische Niederschrift wird als elektronisches Dokument
+errichtet.
+
+(3) Ort der Verhandlung ist der Ort, an dem die elektronische
+Niederschrift aufgenommen wird. In der elektronischen Niederschrift
+soll festgestellt werden, dass die Verhandlung mittels
+Videokommunikation durchgeführt worden ist. Am Schluss der
+elektronischen Niederschrift sollen die Namen der Personen
+wiedergegeben werden, die diese nach Absatz 4 signieren; dem Namen des
+Notars soll seine Amtsbezeichnung beigefügt werden.
+
+(4) Die elektronische Niederschrift ist mit qualifizierten
+elektronischen Signaturen zu versehen, die an die Stelle der nach
+diesem Gesetz vorgesehenen Unterschriften treten. Diese sollen auf
+einem Zertifikat beruhen, das auf Dauer prüfbar ist. Die Beteiligten
+sollen die qualifizierten elektronischen Signaturen selbst erstellen.
+Der Notar muss die qualifizierte elektronische Signatur selbst
+erstellen; § 33 Absatz 3 der Bundesnotarordnung gilt entsprechend.
+
+(5) Die elektronische Niederschrift soll den Beteiligten auf Verlangen
+vor der Genehmigung auch zur Durchsicht elektronisch übermittelt
+werden.
+
+
+#### § 16c Feststellung der Beteiligten mittels Videokommunikation
+
+Erfolgt die Beurkundung mittels Videokommunikation, soll sich der
+Notar Gewissheit über die Person der Beteiligten anhand eines ihm
+elektronisch übermittelten Lichtbildes sowie anhand eines der
+folgenden Nachweise oder Mittel verschaffen:
+
+1.  eines elektronischen Identitätsnachweises nach § 18 des
+    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
+    78 Absatz 5 des Aufenthaltsgesetzes, der auf dem Vertrauensniveau
+    „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung
+    (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23.
+    Juli 2014 über elektronische Identifizierung und Vertrauensdienste für
+    elektronische Transaktionen im Binnenmarkt und zur Aufhebung der
+    Richtlinie
+    1999/93/EG                    (ABl. L 257 vom 28.8.2014, S. 73; L 23
+    vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert wurde,
+    oder
+
+
+2.  eines elektronischen Identifizierungsmittels, das von einem anderen
+    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+    des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurde
+    und das
+
+    a)  für die Zwecke der grenzüberschreitenden Authentifizierung nach
+        Artikel 6 der Verordnung (EU) Nr. 910/2014 anerkannt ist und
+
+
+    b)  auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2
+        Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert wurde.
+
+
+
+
+
+
+Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des
+betreffenden Beteiligten nebst Vornamen, Familienname, Tag der Geburt,
+ausstellendem Staat, Dokumentenart, Gültigkeitsdauer sowie derjenigen
+Daten, die zur Überprüfung der Echtheit des Dokuments erforderlich
+sind, aus dem elektronischen Speicher- und Verarbeitungsmedium eines
+von der Bundesrepublik Deutschland ausgegebenen Personalausweises,
+Passes oder elektronischen Aufenthaltstitels oder eines amtlichen
+Ausweises oder Passes eines anderen Staates, mit dem die Pass- und
+Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein
+Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung
+eines Lichtbildes nicht erforderlich.
+
+
+#### § 16d Nachweise für die Vertretungsberechtigung bei elektronischen Niederschriften
+
+Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
+gesetzlichen Vertreters sollen der elektronischen Niederschrift in
+elektronisch beglaubigter Abschrift beigefügt werden.
+
+
+#### § 16e Gemischte Beurkundung
+
+(1) Erfolgt die Beurkundung mit einem Teil der Beteiligten, die bei
+dem Notar körperlich anwesend sind, und mit dem anderen Teil der
+Beteiligten mittels Videokommunikation, so ist zusätzlich zu der
+elektronischen Niederschrift mit den bei dem Notar körperlich
+anwesenden Beteiligten eine inhaltsgleiche Niederschrift nach § 8
+aufzunehmen. Dies soll in der Niederschrift und der elektronischen
+Niederschrift vermerkt werden.
+
+(2) Beide Niederschriften sind zusammen zu verwahren.
+
+
+### Unterabschnitt 4 - Prüfungs- und Belehrungspflichten
 
 
 
@@ -485,7 +612,7 @@ Niederschrift vermerken.
 Notar in der Niederschrift vermerken, ob der Brief vorgelegen hat.
 
 
-### 4. - Beteiligung behinderter Personen
+### Unterabschnitt 5 - Beteiligung behinderter Personen
 
 
 
@@ -503,7 +630,7 @@ sollen in der Niederschrift festgestellt werden.
 unterschrieben werden.
 
 
-#### § 23 Besonderheiten für hörbehinderte Beteiligte
+#### § 23 Besonderheiten bei hörbehinderten Beteiligten
 
 Eine Niederschrift, in der nach § 22 Abs. 1 festgestellt ist, daß ein
 Beteiligter nicht hinreichend zu hören vermag, muß diesem Beteiligten
@@ -514,7 +641,7 @@ vermutet, daß sie ihm zur Durchsicht vorgelegt und von ihm genehmigt
 worden ist.
 
 
-#### § 24 Besonderheiten für hör- und sprachbehinderte Beteiligte, mit denen eine schriftliche Verständigung nicht möglich ist
+#### § 24 Besonderheiten bei hör- und sprachbehinderten Beteiligten, mit denen eine schriftliche Verständigung nicht möglich ist
 
 (1) Vermag ein Beteiligter nach seinen Angaben oder nach der
 Überzeugung des Notars nicht hinreichend zu hören oder zu sprechen und
@@ -597,7 +724,7 @@ wer
 
 
 
-### 5. - Besonderheiten für Verfügungen von Todes wegen
+### Unterabschnitt 6 - Besonderheiten für Verfügungen von Todes wegen
 
 
 
@@ -710,11 +837,11 @@ diesem Grunde nicht unwirksam, wenn er die Aufschrift auf dem
 verschlossenen Umschlag unterschrieben hat.
 
 
-## Dritter Abschnitt - Sonstige Beurkundungen
+## Abschnitt 3 - Sonstige Beurkundungen
 
 
 
-### 1. - Niederschriften
+### Unterabschnitt 1 - Niederschriften
 
 
 
@@ -728,8 +855,14 @@ werden, soweit in § 39 nichts anderes bestimmt ist.
 #### § 37 Inhalt der Niederschrift
 
 (1) Die Niederschrift muß enthalten
-1\. die Bezeichnung des Notars sowie
-2\. den Bericht über seine Wahrnehmungen.
+
+1.  die Bezeichnung des Notars sowie
+
+
+2.  den Bericht über seine Wahrnehmungen.
+
+
+
 Der Bericht des Notars in einem Schriftstück, auf das in der
 Niederschrift verwiesen und das dieser beigefügt wird, gilt als in der
 Niederschrift selbst enthalten. Satz 2 gilt entsprechend, wenn der
@@ -753,7 +886,7 @@ eidesstattlichen Versicherung belehren und dies in der Niederschrift
 vermerken.
 
 
-### 2. - Vermerke
+### Unterabschnitt 2 - Vermerke
 
 
 
@@ -773,11 +906,11 @@ und Ort und Tag der Ausstellung angeben soll (Vermerk).
 #### § 39a Einfache elektronische Zeugnisse
 
 (1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können
-elektronisch errichtet werden. Das hierzu erstellte Dokument muss mit
-einer qualifizierten elektronischen Signatur versehen werden. Diese
-soll auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Der
-Notar muss die qualifizierte elektronische Signatur selbst erzeugen. §
-33 Absatz 3 der Bundesnotarordnung gilt entsprechend.
+elektronisch errichtet werden; Beglaubigungen qualifizierter
+elektronischer Signaturen sind elektronisch zu errichten. Das hierzu
+erstellte Dokument muss mit einer qualifizierten elektronischen
+Signatur versehen werden. § 16b Absatz 4 Satz 2 und 4 gilt
+entsprechend.
 
 (2) Mit dem Zeugnis muss eine Bestätigung der Notareigenschaft durch
 die zuständige Stelle verbunden werden. Das Zeugnis soll Ort und Tag
@@ -785,7 +918,18 @@ der Ausstellung angeben.
 
 (3) Bei der Beglaubigung eines elektronischen Dokuments, das mit einer
 qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis
-der Signaturprüfung dokumentiert werden.
+der Signaturprüfung dokumentiert werden. Ist das elektronische
+Dokument mit der qualifizierten elektronischen Signatur eines Notars
+versehen, so genügt die Dokumentation der Prüfung seiner
+qualifizierten elektronischen Signatur.
+
+(4) Bei der Beglaubigung einer qualifizierten elektronischen Signatur
+ist der Bezug zwischen dem Zeugnis und dem mit der zu beglaubigenden
+qualifizierten elektronischen Signatur versehenen elektronischen
+Dokument durch kryptografische Verfahren nach dem Stand der Technik
+herzustellen, wenn das Zeugnis nicht in dem mit der zu beglaubigenden
+qualifizierten elektronischen Signatur versehenen elektronischen
+Dokument enthalten ist.
 
 
 #### § 40 Beglaubigung einer Unterschrift
@@ -813,7 +957,38 @@ ein durch die Unterschrift gedeckter Text nicht vorhanden war.
 entsprechend.
 
 
-#### § 41 Beglaubigung der Zeichnung einer Firma oder Namensunterschrift
+#### § 40a Beglaubigung einer qualifizierten elektronischen Signatur
+
+(1) Eine qualifizierte elektronische Signatur soll nur beglaubigt
+werden, wenn sie in Gegenwart des Notars oder mittels des von der
+Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen
+Videokommunikationssystems anerkannt worden ist. Die Beglaubigung kann
+mittels Videokommunikation nur erfolgen, soweit dies durch Gesetz
+zugelassen ist.
+
+(2) Der Beglaubigungsvermerk muss die Person bezeichnen, welche die
+qualifizierte elektronische Signatur anerkannt hat. In dem Vermerk
+soll angegeben werden, ob die qualifizierte elektronische Signatur in
+Gegenwart des Notars oder mittels Videokommunikation anerkannt worden
+ist.
+
+(3) Bei der Beglaubigung einer qualifizierten elektronischen Signatur
+mittels Videokommunikation ist eine Signaturprüfung nach § 39a Absatz
+3 nicht erforderlich.
+
+(4) § 10 Absatz 1, 2 und 3 Satz 1 und § 40 Absatz 2 und 5 gelten
+entsprechend. Im Falle der Beglaubigung mittels Videokommunikation
+gilt § 16c entsprechend.
+
+(5) Der Notar soll die Beglaubigung einer mittels Videokommunikation
+anerkannten qualifizierten elektronischen Signatur ablehnen, wenn er
+die Erfüllung seiner Amtspflichten auf diese Weise nicht gewährleisten
+kann, insbesondere wenn er sich auf diese Weise keine Gewissheit über
+die Person verschaffen kann, welche die qualifizierte elektronische
+Signatur anerkannt hat.
+
+
+#### § 41 Beglaubigung der Zeichnung einer Namensunterschrift
 
 Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur
 Aufbewahrung beim Gericht bestimmt ist, muß die Zeichnung in Gegenwart
@@ -846,7 +1021,7 @@ Bestimmungen enthält.
 (4) Bei der Beglaubigung eines Ausdrucks oder einer Abschrift eines
 elektronischen Dokuments, das mit einer qualifizierten elektronischen
 Signatur versehen ist, soll das Ergebnis der Signaturprüfung
-dokumentiert werden.
+dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
 
 #### § 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
@@ -855,7 +1030,7 @@ Bei der Feststellung des Zeitpunktes, zu dem eine private Urkunde
 vorgelegt worden ist, gilt § 42 Abs. 2 entsprechend.
 
 
-## Vierter Abschnitt - Behandlung der Urkunden
+## Abschnitt 4 - Behandlung der Urkunden
 
 
 
@@ -863,7 +1038,7 @@ vorgelegt worden ist, gilt § 42 Abs. 2 entsprechend.
 
 Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur
 und Prägesiegel verbunden werden. Das gleiche gilt für Schriftstücke
-sowie für Karten, Zeichnungen oder Abbildungen, die  nach § 9 Abs. 1
+sowie für Karten, Zeichnungen oder Abbildungen, die nach § 9 Abs. 1
 Satz 2, 3, §§ 14, 37 Abs. 1 Satz 2, 3 der Niederschrift beigefügt
 worden sind.
 
@@ -887,7 +1062,12 @@ Urkunde zu verbindenden Blatt niederzulegen. Wird die elektronische
 Fassung der Urschrift zum Zeitpunkt der Richtigstellung bereits in der
 elektronischen Urkundensammlung verwahrt, darf der Nachtragsvermerk
 nur noch auf einem gesonderten, mit der Urkunde zu verbindenden Blatt
-niedergelegt werden.
+niedergelegt werden. Bei elektronischen Niederschriften ist der
+Nachtragsvermerk in einem gesonderten elektronischen Dokument
+niederzulegen, das vom Notar mit einer qualifizierten elektronischen
+Signatur zu versehen und zusammen mit der elektronischen Urschrift in
+der elektronischen Urkundensammlung zu verwahren ist; § 16b Absatz 4
+Satz 2 und 4 und § 39a Absatz 2 Satz 1 gelten entsprechend.
 
 (3) Ergibt sich im übrigen nach Abschluß der Niederschrift die
 Notwendigkeit einer Änderung oder Berichtigung, so hat der Notar
@@ -900,7 +1080,7 @@ hierüber eine besondere Niederschrift aufzunehmen.
 berichtigt, geändert, ergänzt oder aufgehoben, soll der Notar durch
 einen mit dem Datum zu versehenden und von ihm zu unterschreibenden
 Nachtragsvermerk auf die andere Niederschrift verweisen. § 44a Absatz
-2 Satz 3 und 4 gilt entsprechend. Anstelle eines Nachtragsvermerks
+2 Satz 3 bis 5 gilt entsprechend. Anstelle eines Nachtragsvermerks
 kann der Notar die andere Niederschrift zusammen mit der Niederschrift
 verwahren.
 
@@ -919,7 +1099,10 @@ elektronisches Dokument übertragen und in der elektronischen
 Urkundensammlung verwahrt, steht die elektronische Fassung der
 Urschrift derjenigen in Papierform gleich.
 
-(3) (weggefallen)
+(3) Das nach § 16b oder § 39a erstellte elektronische Dokument
+(elektronische Urkunde), das in der elektronischen Urkundensammlung
+verwahrt wird, gilt als Urschrift im Sinne dieses Gesetzes
+(elektronische Urschrift).
 
 
 ### § 45a Aushändigung der Urschrift
@@ -935,6 +1118,24 @@ Ausfertigung tritt an die Stelle der Urschrift.
 (2) Die Urschrift einer Urkunde, die in der Form eines Vermerks
 verfasst ist, ist auszuhändigen, wenn nicht die Verwahrung verlangt
 wird.
+
+
+### § 45b Verwahrung und Aushändigung elektronischer Urkunden
+
+(1) Das nach § 16b erstellte elektronische Dokument bleibt in der
+Verwahrung des Notars. Elektronische Vervielfältigungen dieses
+elektronischen Dokuments sollen nicht ausgehändigt werden.
+
+(2) Das nach § 39a erstellte elektronische Dokument bleibt nur dann in
+der Verwahrung des Notars, wenn die Verwahrung verlangt wird. Die
+Verwahrung kann nur verlangt werden, wenn das Dokument den nach § 35
+Absatz 4 der Verordnung über die Führung notarieller Akten und
+Verzeichnisse zu beachtenden Vorgaben für die Einstellung
+elektronischer Dokumente in die elektronische Urkundensammlung
+entspricht. Elektronische Vervielfältigungen dieses elektronischen
+Dokuments können ausgehändigt werden. Wird die Verwahrung nicht
+verlangt, ist das nach § 39a erstellte elektronische Dokument
+auszuhändigen.
 
 
 ### § 46 Ersetzung der Urschrift
@@ -959,10 +1160,13 @@ Absatz 1 entsprechend; in dem Vermerk soll zusätzlich die Tatsache der
 sicheren Speicherung im Elektronischen Urkundenarchiv angegeben
 werden.
 
-(3) Die Ersetzung erfolgt durch die Stelle, die für die Erteilung
+(3) Ist die elektronische Urschrift ganz oder teilweise zerstört
+worden, so gilt Absatz 2 Satz 2 und 3 entsprechend.
+
+(4) Die Ersetzung erfolgt durch die Stelle, die für die Erteilung
 einer Ausfertigung zuständig ist.
 
-(4) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden,
+(5) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden,
 wenn er sich in der Urkunde der sofortigen Zwangsvollstreckung
 unterworfen hat. Von der Ersetzung der Urschrift sollen die Personen,
 die eine Ausfertigung verlangen können, verständigt werden, soweit sie
@@ -971,8 +1175,8 @@ sich ohne erhebliche Schwierigkeiten ermitteln lassen.
 
 ### § 47 Ausfertigung
 
-Die Ausfertigung der Niederschrift vertritt die Urschrift im
-Rechtsverkehr.
+Die Ausfertigung der Niederschrift oder der elektronischen
+Niederschrift vertritt die Urschrift im Rechtsverkehr.
 
 
 ### § 48 Zuständigkeit für die Erteilung der Ausfertigung
@@ -988,23 +1192,25 @@ der Geschäftsstelle die Ausfertigung.
 (1) Die Ausfertigung besteht, jeweils mit einem Ausfertigungsvermerk
 versehen, in
 
-1.  einer Abschrift der Urschrift oder der elektronischen Fassung der
-    Urschrift oder
+1.  einer Abschrift der Urschrift, der elektronischen Urschrift oder der
+    elektronischen Fassung der Urschrift oder
 
 
-2.  einem Ausdruck der elektronischen Fassung der Urschrift.
+2.  einem Ausdruck der elektronischen Urschrift oder der elektronischen
+    Fassung der Urschrift.
 
 
 
 
 (2) Der Ausfertigungsvermerk soll den Tag und den Ort der Erteilung
 angeben, die Person bezeichnen, der die Ausfertigung erteilt wird, und
-die Übereinstimmung der Ausfertigung mit der Urschrift oder der
-elektronischen Fassung der Urschrift bestätigen. Er muß unterschrieben
-und mit dem Siegel der erteilenden Stelle versehen sein. Besteht die
-Ausfertigung in einer Abschrift oder einem Ausdruck der elektronischen
+die Übereinstimmung der Ausfertigung mit der Urschrift, der
+elektronischen Urschrift oder der elektronischen Fassung der Urschrift
+bestätigen. Er muß unterschrieben und mit dem Siegel der erteilenden
+Stelle versehen sein. Besteht die Ausfertigung in einer Abschrift oder
+einem Ausdruck der elektronischen Urschrift oder der elektronischen
 Fassung der Urschrift, soll das Ergebnis der Signaturprüfung
-dokumentiert werden.
+dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
 (3) Werden Abschriften von Urkunden mit der Ausfertigung durch Schnur
 und Prägesiegel verbunden oder befinden sie sich mit dieser auf
@@ -1097,7 +1303,7 @@ Zivilkammer des Landgerichts, in dessen Bezirk die Stelle, gegen die
 sich die Beschwerde richtet, ihren Sitz hat.
 
 
-## Fünfter Abschnitt - Verwahrung der Urkunden
+## Abschnitt 5 - Verwahrung der Urkunden
 
 
 
@@ -1128,7 +1334,7 @@ Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk
 angegeben werden, soweit sie nicht aus dem elektronischen Dokument
 eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk
 müssen mit einer qualifizierten elektronischen Signatur versehen
-werden. § 39a Absatz 1 Satz 3 bis 5, Absatz 2 Satz 1 gilt
+werden. § 16b Absatz 4 Satz 2 und 4 und § 39a Absatz 2 Satz 1 gelten
 entsprechend.
 
 (2) Werden nach der Einstellung der elektronischen Fassung einer in
@@ -1140,12 +1346,16 @@ Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und
 zusammen mit der elektronischen Fassung der Urschrift oder Abschrift
 in der elektronischen Urkundensammlung zu verwahren.
 
-(3) Die von dem Notar in der elektronischen Urkundensammlung
+(3) Werden der elektronischen Urschrift Unterlagen oder andere
+Urschriften beigefügt, so gelten die Absätze 1 und 2 entsprechend. §
+44a Absatz 2 Satz 5 und § 44b Absatz 1 Satz 2 bleiben unberührt.
+
+(4) Die von dem Notar in der elektronischen Urkundensammlung
 verwahrten elektronischen Dokumente stehen den Dokumenten gleich, aus
-denen sie nach den Absätzen 1 und 2 übertragen worden sind.
+denen sie nach den Absätzen 1 bis 3 übertragen worden sind.
 
 
-## Sechster Abschnitt - Verwahrung
+## Abschnitt 6 - Verwahrung
 
 
 
@@ -1340,19 +1550,15 @@ verpflichtet, von ihm verwahrte Wertpapiere zu verwalten, soweit in
 der Verwahrungsanweisung nichts anderes bestimmt ist.
 
 
-## Siebter Abschnitt - Schlußvorschriften
+## Abschnitt 7 - Schlussvorschriften
 
 
 
-### 1. - Verhältnis zu anderen Gesetzen
+### Unterabschnitt 1 - Verhältnis zu anderen Gesetzen
 
 
 
-#### a) - Bundesrecht
-
-
-
-##### § 63 Beseitigung von Doppelzuständigkeiten
+#### § 63 Beseitigung von Doppelzuständigkeiten
 
 (1) u. (2) (Änderungsvorschriften)
 
@@ -1364,23 +1570,19 @@ Erklärung vor einem Gericht oder Notar vorsehen, ist nur der Notar
 zuständig.
 
 
-##### § 64 Beurkundungen nach dem Personenstandsgesetz
+#### § 64 Beurkundungen nach dem Personenstandsgesetz
 
 Dieses Gesetz gilt nicht für Beurkundungen nach dem
 Personenstandsgesetz.
 
 
-##### § 65 Unberührt bleibendes Bundesrecht
+#### § 65 Unberührt bleibendes Bundesrecht
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben
 bundesrechtliche Vorschriften über Beurkundungen unberührt.
 
 
-#### b) - Landesrecht
-
-
-
-##### § 66 Unberührt bleibendes Landesrecht
+#### § 66 Unberührt bleibendes Landesrecht
 
 (1) Unbeschadet der Zuständigkeit des Notars bleiben folgende
 landesrechtliche Vorschriften unberührt:
@@ -1459,8 +1661,8 @@ Beurkundungszuständigkeiten nicht neu übertragen werden.
     Notar andere Urkundspersonen oder sonstige Stellen zuständig sind, und
 
 
-3.  keine Regelung getroffen werden, die den Vorschriften des Ersten bis
-    Vierten Abschnitts dieses Gesetzes entgegensteht.
+3.  keine Regelung getroffen werden, die den Vorschriften der Abschnitte 1
+    bis 4 dieses Gesetzes entgegensteht.
 
 
 
@@ -1468,7 +1670,7 @@ Beurkundungszuständigkeiten nicht neu übertragen werden.
 (4) (weggefallen)
 
 
-##### § 67 Zuständigkeit der Amtsgerichte, Zustellung
+#### § 67 Zuständigkeit der Amtsgerichte; Zustellung
 
 (1) Unbeschadet der Zuständigkeit sonstiger Stellen sind die
 Amtsgerichte zuständig für die Beurkundung von
@@ -1491,22 +1693,18 @@ daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt
 erhält; § 174 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 
 
-##### § 68
+#### § 68 Übertragung auf andere Stellen
 
 Die Länder sind befugt, durch Gesetz die Zuständigkeit für die
 öffentliche Beglaubigung von Abschriften oder Unterschriften anderen
 Personen oder Stellen zu übertragen.
 
 
-##### § 69 (weggefallen)
+#### § 69 (weggefallen)
 
 
 
-#### c) - Amtliche Beglaubigungen
-
-
-
-##### § 70
+#### § 70 Amtliche Beglaubigungen
 
 Dieses Gesetz gilt nicht für amtliche Beglaubigungen, mit denen eine
 Verwaltungsbehörde zum Zwecke der Verwendung in Verwaltungsverfahren
@@ -1522,32 +1720,20 @@ Form mit uneingeschränkter Beweiskraft zu beglaubigen, bleibt
 unberührt.
 
 
-#### d) - Eidesstattliche Versicherungen in Verwaltungsverfahren
-
-
-
-##### § 71
+#### § 71 Eidesstattliche Versicherungen in Verwaltungsverfahren
 
 Dieses Gesetz gilt nicht für die Aufnahme eidesstattlicher
 Versicherungen in Verwaltungsverfahren.
 
 
-#### e) - Erklärungen juristischer Personen des öffentlichen Rechts
-
-
-
-##### § 72
+#### § 72 Erklärungen juristischer Personen des öffentlichen Rechts
 
 Die bundes- oder landesrechtlich vorgeschriebene Beidrückung des
 Dienstsiegels bei Erklärungen juristischer Personen des öffentlichen
 Rechts wird durch die öffentliche Beurkundung ersetzt.
 
 
-#### f) - Bereits errichtete Urkunden
-
-
-
-##### § 73
+#### § 73 Bereits errichtete Urkunden
 
 (1) §§ 45 bis 49, 51, 52, 54 dieses Gesetzes gelten auch für Urkunden,
 die vor dem Inkrafttreten dieses Gesetzes errichtet worden sind. Dies
@@ -1562,29 +1748,18 @@ Testamente, die vor dem Inkrafttreten dieses Gesetzes vor einem
 Richter errichtet worden sind.
 
 
-#### g) - Verweisungen
-
-
-
-##### § 74
+#### § 74 Verweisungen
 
 Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz
 aufgehobenen oder abgeänderten Vorschriften verwiesen ist, treten die
 entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
 
-### 2. - Geltung in Berlin
+### Unterabschnitt 2 - Übergangsvorschrift
 
 
 
-#### § 75 (weggefallen)
-
-
-### 3. - Übergangsvorschrift
-
-
-
-#### § 76 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
+#### § 75 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
 
 (1) Für Beurkundungen und sonstige Amtshandlungen, die vor dem 1.
 Januar 2022 vorgenommen worden sind, sind die §§ 55 und 56 nicht

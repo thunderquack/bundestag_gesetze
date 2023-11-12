@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2034, 2187 (2021 I 5261)
 
-Mittelbare änderung durch
-:   Art. 1 V v. 8.10.2021 I 4646, 5261 (Nr. 72) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 V v. 12.6.2023 I Nr. 149
 
 [^f804921_34_BJNR218700018]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -70,26 +70,26 @@ Gesetz gestützten Rechtsverordnungen bleiben unberührt.
 
 3.  intensive Lichtquellen, die intensive gepulste oder ungepulste
     inkohärente optische Strahlung aussenden, deren Zweck es ist, einen
-    Effekt auf das Zielgewebe auszuüben,
+    wesentlichen Effekt auf das Zielgewebe auszuüben,
 
 
 4.  Hochfrequenzgeräte, die hochfrequente elektromagnetische Felder
 
-    a)  im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz aussenden, die
-        bei ihrer Anwendung am Menschen zu spezifischen Absorptionsraten oder
-        Leistungsdichten führen können, die die Basisgrenzwerte der Anlage 1
-        überschreiten können,
+    a)  im Frequenzbereich von mehr als 100 Kilohertz bis 300 Gigahertz
+        aussenden, die bei ihrer Anwendung am Menschen zu spezifischen
+        Absorptionsraten oder Leistungsdichten führen können, die die
+        Basisgrenzwerte der Anlage 1 überschreiten können,
 
 
-    b)  im Frequenzbereich von 100 Kilohertz bis zu 10 Megahertz aussenden,
-        die bei ihrer Anwendung am Menschen im Körperinneren elektrische
-        Feldstärken verursachen können, die die Basisgrenzwerte der Anlage 1
-        überschreiten, oder
+    b)  im Frequenzbereich von mehr als 100 Kilohertz bis zu 10 Megahertz
+        aussenden, die bei ihrer Anwendung am Menschen im Körperinneren
+        elektrische Feldstärken verursachen können, die die Basisgrenzwerte
+        der Anlage 1 überschreiten, oder
 
 
-    c)  im Frequenzbereich von 100 Kilohertz bis zu 110 Megahertz aussenden,
-        die bei ihrer Anwendung am Menschen Kontaktströme hervorrufen können,
-        die die Referenzwerte der Anlage 1 überschreiten,
+    c)  im Frequenzbereich von mehr als 100 Kilohertz bis zu 110 Megahertz
+        aussenden, die bei ihrer Anwendung am Menschen Kontaktströme
+        hervorrufen können, die die Referenzwerte der Anlage 1 überschreiten,
 
 
 
@@ -250,11 +250,11 @@ durchgeführte Beratung und Aufklärung dokumentiert werden.
 der Anlage spätestens zwei Wochen vor Inbetriebnahme anzuzeigen. In
 der Anzeige sind der Name oder die Firma des Betreibers sowie die
 Anschrift der Betriebsstätte und die Angaben zur Identifikation der
-jeweiligen Anlage zu nennen.
-Der Anzeige ist ein Nachweis beizufügen, dass die Personen, die die
-Anlage anwenden, über die erforderliche Fachkunde verfügen.
-Wird eine Anlage am 31. Dezember 2020 bereits betrieben, hat die
-Anzeige bis zum Ablauf des 31. März 2021 zu erfolgen.
+jeweiligen Anlage zu nennen.Der Anzeige ist ein Nachweis beizufügen,
+dass die Personen, die die Anlage anwenden, über die erforderliche
+Fachkunde verfügen. Wird eine Anlage am 31. Dezember 2020 bereits
+betrieben, hat die Anzeige bis zum Ablauf des 31. März 2021 zu
+erfolgen.
 
 (4) Der Betreiber einer Anlage hat der zuständigen Behörde auf
 Verlangen nachzuweisen, dass die Anforderungen an den Betrieb der
@@ -262,8 +262,52 @@ Anlage und die Anforderungen an die Dokumentation der Anwendungen und
 der Aufklärungsgespräche erfüllt sind.
 
 
-## § 4 (zukünftig in Kraft)
+## § 4 Fachkunde
 
+(1) Der Betreiber einer Anlage muss sicherstellen, dass die Person,
+die die Anlage anwendet, über die erforderliche Fachkunde nach den §§
+5, 6, 7, 8, 9 oder 11 verfügt. Die Anforderungen an die Fachkunde sind
+abhängig von der jeweiligen Art der Anwendung. Die Fachkunde soll dazu
+befähigen, das Behandlungsverfahren sicher anzuwenden, mit der
+Anwendung verbundene Risiken zu vermeiden und unvermeidliche Risiken
+sachgerecht zu minimieren.
+
+(2) Die Fachkunde umfasst theoretische Kenntnisse und praktische
+Erfahrungen. Sie umfasst insbesondere Kenntnisse
+
+1.  der physikalischen Eigenschaften der von der Anlage ausgehenden
+    nichtionisierenden Strahlung,
+
+
+2.  der biologischen Wirkungen und der Risiken dieser Strahlung,
+
+
+3.  des Ausmaßes der Exposition,
+
+
+4.  des technischen Aufbaus der verwendeten Anlage und der einzuhaltenden
+    Anwendungsregeln und
+
+
+5.  in Anatomie und Physiologie des Menschen sowie der Kriterien, die eine
+    Behandlung ausschließen.
+
+
+
+
+(3) Die Fachkunde kann durch die erfolgreiche Teilnahme an einer
+geeigneten Schulung oder durch eine geeignete Aus-, Weiter- oder
+Fortbildung erworben werden. Sie ist auf dem aktuellen Stand zu
+halten. Wurde die Fachkunde durch Schulung erworben, ist hierzu
+mindestens alle fünf Jahre eine Teilnahme an einer geeigneten
+Aktualisierungsschulung erforderlich. Eine entsprechende Schulung,
+Aktualisierungsschulung, Ausbildung, Weiterbildung oder Fortbildung
+kann auch in einem anderen Mitgliedstaat der Europäischen Union oder
+in einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum erfolgen. Eine entsprechende Schulung oder
+Aktualisierungsschulung kann auch in der Schweiz erfolgen. Aus den
+Inhalten der Schulung oder Aktualisierungsschulung muss sich ergeben,
+dass die betreffenden Anforderungen dieser Bestimmung erfüllt sind.
 
 
 ## § 5 Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
@@ -301,8 +345,39 @@ dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender
 ärztlicher Weiterbildung oder Fortbildung durchgeführt werden.
 
 
-## § 7 (zukünftig in Kraft)
+## § 7 Fachkunde zur Anwendung von Anlagen zur elektrischen Nerven- und Muskelstimulation und zur Magnetfeldstimulation
 
+(1) Die erforderliche Fachkunde zur Anwendung von
+Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur
+transkutanen elektrischen Nerven- und Muskelstimulation zum Zweck des
+Muskelaufbaus und der Muskelstraffung wird durch erfolgreiche
+Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit
+Anlage 3 Teil E Abschnitt 1 und 2 oder durch eine Ausbildung nach dem
+Masseur- und Physiotherapeutengesetz vom 26. Mai 1994 (BGBl. I S.
+1084), das zuletzt durch Artikel 9 des Gesetzes vom 11. Juli 2021
+(BGBl. I S. 2754) geändert worden ist, oder von approbierten Ärztinnen
+und Ärzten durch entsprechende ärztliche Weiterbildung oder
+Fortbildung erworben.
+
+(2) Die erforderliche Fachkunde zur Anwendung von
+Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur
+transkutanen elektrischen Nervenstimulation oder zur
+Magnetfeldstimulation zu anderen Zwecken als dem Muskelaufbau oder der
+Muskelstraffung wird durch erfolgreiche Teilnahme an einer Schulung
+gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil E Abschnitt 1
+oder durch eine Ausbildung nach dem Masseur- und
+Physiotherapeutengesetz oder von approbierten Ärztinnen und Ärzten
+durch entsprechende ärztliche Weiterbildung oder Fortbildung erworben.
+
+(3) Die erforderliche Fachkunde zur Anwendung von
+Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur
+transkutanen elektrischen Nervenstimulation, zur Muskelstimulation
+oder zur Magnetfeldstimulation jeweils zu kosmetischen Zwecken im
+Bereich des Gesichts und der Halsvorderseite wird durch erfolgreiche
+Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit
+Anlage 3 Teil B und Teil E Abschnitt 1 oder von approbierten Ärztinnen
+und Ärzten durch entsprechende ärztliche Weiterbildung oder
+Fortbildung erworben.
 
 
 ## § 8 Stimulation des Zentralen Nervensystems
@@ -320,12 +395,11 @@ wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3
 Teil A in Verbindung mit Anlage 3 Teil B und Teil F oder durch die
 Approbation als Ärztin oder als Arzt erworben.
 
-(2) Ultraschallanwendungen, insbesondere Anwendungen von fokussiertem
-Ultraschall, bei denen die Integrität der Epidermis als Schutzbarriere
-verletzt wird, sowie Ultraschallanwendungen, die der gezielten
-thermischen Gewebekoagulation oder der Fettgewebereduktion dienen,
-dürfen nur von einer approbierten Ärztin oder einem approbierten Arzt
-durchgeführt werden.
+(2) Ultraschallanwendungen, bei denen die Integrität der Epidermis als
+Schutzbarriere verletzt wird, sowie Ultraschallanwendungen, die der
+gezielten thermischen Gewebekoagulation oder der Fettgewebereduktion
+dienen, dürfen nur von einer approbierten Ärztin oder einem
+approbierten Arzt durchgeführt werden.
 
 
 ## § 10 Anwendung von Ultraschall an einer schwangeren Person
@@ -394,7 +468,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
 ## Anlage 1 Werte für Anlagen im Sinne dieser Verordnung
 
-(Fundstelle: BGBl. I 2018, 2191 - 2192)
+(Fundstelle: BGBl. I 2018, 2191 - 2192; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 1.  **Hochfrequenzgeräte**                    (§ 2 Absatz 1 Nummer 4)
@@ -575,15 +650,14 @@ handelt, wer vorsätzlich oder fahrlässig
     Die Kontaktstromstärke ist über alle Elektroden zu summieren.
 
 
-3.  **Grenzwertausschöpfung von Geräten, die gleichzeitig mehrere
-    Frequenzen verwenden**                    (§ 2 Absatz 1 Nummer 4 und
-    5)
+3.  **Summationsregeln für Geräte, die gleichzeitig mehrere Frequenzen
+    verwenden**                    (§ 2 Absatz 1 Nummer 4 und 5)
 
     a)  Summationsformeln für spezifische Absorptionsraten
         SAR                          und Leistungsdichten S
 
 
-        *            *                ![bgbl1_2018_j2034-1_0320.jpg](bgbl1_2018_j2034-1_0320.jpg)
+        *            *                ![bgbl1_2023_j0149_0010.jpg](bgbl1_2023_j0149_0010.jpg)
 
 
 
@@ -594,8 +668,8 @@ handelt, wer vorsätzlich oder fahrlässig
         der Frequenz i,
 
         SAR
-        B                          = SAR-Basisgrenzwert gemäß Anhang 1 Nummer
-        1 a),
+        B                          = SAR-Basisgrenzwert gemäß Anlage 1 Nummer
+        1 Buchstabe a,
 
         S
         i                          = Beitrag zur Leistungsdichte durch die
@@ -603,7 +677,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
         S
         B                          = Basisgrenzwert für die
-        Leistungsflussdichte gemäß Anhang 1 Nummer 1 a)
+        Leistungsflussdichte gemäß Anlage 1 Nummer 1 Buchstabe a
 
 
     b)  Summationsformeln für induzierte elektrische Felder
@@ -611,7 +685,7 @@ handelt, wer vorsätzlich oder fahrlässig
         i
 
 
-        *            *                ![bgbl1_2018_j2034-1_0330.jpg](bgbl1_2018_j2034-1_0330.jpg)
+        *            *                ![bgbl1_2023_j0149_0020.jpg](bgbl1_2023_j0149_0020.jpg)
 
 
 
@@ -623,8 +697,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
         E
         B, j                          = Basisgrenzwert des induzierten
-        elektrischen Feldes bei der Frequenz j, gemäß Anhang 1 Nummer 1 a) und
-        Nummer 2 a)
+        elektrischen Feldes bei der Frequenz j, gemäß Anlage 1 Nummer 1
+        Buchstabe b und Nummer 2 Buchstabe a
 
 
     c)  Summationsformeln für Kontaktströme
@@ -632,12 +706,12 @@ handelt, wer vorsätzlich oder fahrlässig
         j
 
 
-        *            *                ![bgbl1_2018_j2034-1_0340.jpg](bgbl1_2018_j2034-1_0340.jpg)
+        *            *                ![bgbl1_2023_j0149_0030.jpg](bgbl1_2023_j0149_0030.jpg)
 
 
 
 
-        *            *                ![bgbl1_2018_j2034-1_0350.jpg](bgbl1_2018_j2034-1_0350.jpg)
+        *            *                ![bgbl1_2023_j0149_0040.jpg](bgbl1_2023_j0149_0040.jpg)
 
 
 
@@ -649,11 +723,12 @@ handelt, wer vorsätzlich oder fahrlässig
 
         I
         R1, j                          = Referenzwert des Kontaktstromes bei
-        der Frequenz j, gemäß Anhang 1 Nummer 1 c)
+        der Frequenz j, gemäß Anlage 1 Nummer 1 Buchstabe c und Nummer 2
+        Buchstabe b)
 
         I
         R2, j                          = Referenzwert des Kontaktstromes bei
-        der Frequenz j, gemäß Anhang 1 Nummer 2 b)
+        der Frequenz j, gemäß Anlage 1 Nummer 1 Buchstabe c)
 
 
 
@@ -700,302 +775,297 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)
+(zu § 5 Absatz 1, § 6 Absatz 1, § 7 und § 9 Absatz 1)
 
 ## Anlage 3 Fachkunde
 
-(Fundstelle: BGBl. I 2018, 2194 - 2196)
+(Fundstelle: Anhang 1 zum BGBl. 2023 I Nr. 149 v. 12.6.2023, S. 5 - 8)
 
 ## Teil A: Erwerb und Aktualisierung der Fachkunde
 
+Die Lerninhalte zum Erwerb der Fachkunde und zur Aktualisierung der
+Fachkunde (Fortbildung) sind in Module unterteilt. Der jeweils
+erforderliche Schulungsumfang ist in Lerneinheiten (LE; 1 LE = 45
+Minuten) angegeben.
 
-**1.** **Übersicht: Module Erwerb/Aktualisierung der Fachkunde**
+## Abschnitt 1: Übersicht Module Erwerb/Aktualisierung der Fachkunde
 
-    Die Lerninhalte zum Erwerb der Fachkunde und zur Aktualisierung der
-    Fachkunde (Fortbildung) sind in Module unterteilt. Der jeweils
-    erforderliche Schulungsumfang ist in Lerneinheiten (LE; 1 LE = 45
-    Minuten) angegeben:
+Tabelle 1: Fachkunde-Module
 
-    *        *   Kürzel
+*    *   Kürzel
 
-        *   Module
+    *   Module
 
-        *   Mindest-
-            anzahl LE
+    *   Mindest-
+        anzahl LE
 
 
-    *        *   **Erwerb der Fachkunde**
+*    *   **Erwerb der Fachkunde**
 
 
-    *        *   GK
+*    *   GK
 
-        *   Grundlagen der Haut und deren Anhangsgebilde
+    *   Grundlagen der Haut und deren Anhangsgebilde
 
-        *   80
+    *   80
 
 
-    *        *   OS
+*    *   OS
 
-        *   Optische Strahlung
+    *   Optische Strahlung
 
-        *   120
+    *   120
 
 
-    *        *   US
+*    *   US
 
-        *   Ultraschall
+    *   Ultraschall
 
-        *   40
+    *   40
 
 
-    *        *   EK
+*    *   EK
 
-        *   EMF (Hochfrequenzgeräte) in der Kosmetik
+    *   EMF (Hochfrequenzgeräte) in der Kosmetik
 
-        *   40
+    *   40
 
 
-    *        *   ES
+*    *   ES
 
-        *   EMF (Niederfrequenz-, Gleichstrom- und Magnetfeldgeräte) zur
-            Stimulation
+    *   EMF (Niederfrequenz-, Gleichstrom- und Magnetfeldgeräte) zur
+        Stimulation
 
-        *   24
+    *   24
 
 
-    *        *   **Aktualisierung der Fachkunde (Fortbildung)**
+*    *   **Aktualisierung der Fachkunde (Aktualisierungsschulung)**
 
 
-    *        *   AGK
+*    *   AGK
 
-        *   Aktualisierung von GK
+    *   Aktualisierung von GK
 
-        *   2
+    *   2
 
 
-    *        *   AOS
+*    *   AOS
 
-        *   Aktualisierung von OS
+    *   Aktualisierung von OS
 
-        *   6
+    *   6
 
 
-    *        *   AUS
+*    *   AUS
 
-        *   Aktualisierung von US
+    *   Aktualisierung von US
 
-        *   6
+    *   6
 
 
-    *        *   AEK
+*    *   AEK
 
-        *   Aktualisierung von EK
+    *   Aktualisierung von EK
 
-        *   6
+    *   6
 
 
-    *        *   AES
+*    *   AES
 
-        *   Aktualisierung von ES
+    *   Aktualisierung von ES
 
-        *   6
+    *   6
 
 
 
 
-    *        *   Fachkundegruppe
+Tabelle 2: Fachkundegruppen
 
-        *   Bezug
+*    *   Fachkundegruppe
 
-        *   Erwerb
+    *   Bezug
 
-        *   Aktualisierung
+    *   Erwerb
 
+    *   Aktualisierung
 
-    *        *
-        *
-        *   erforderliche Module
 
-        *   LE
+*    *
+    *
+    *   erforderliche Module
 
-        *   erforderliche Module
+    *   LE
 
-        *   LE
+    *   erforderliche Module
 
+    *   LE
 
-    *        *   Laser/Intensive Lichtquellen
 
-        *   § 5 NiSV
+*    *   Laser/Intensive Lichtquellen
 
-        *   GK, OS
+    *   § 5 NiSV
 
-        *   200
+    *   GK, OS
 
-        *   AGK, AOS
+    *   200
 
-        *   8
+    *   AGK, AOS
 
+    *   8
 
-    *        *   Ultraschall
 
-        *   § 9 NiSV
+*    *   Ultraschall
 
-        *   GK, US
+    *   § 9 NiSV
 
-        *   120
+    *   GK, US
 
-        *   AGK, AUS
+    *   120
 
-        *   8
+    *   AGK, AUS
 
+    *   8
 
-    *        *   EMF-Kosmetik
 
-        *   § 6 NiSV
+*    *   EMF-Kosmetik
 
-        *   GK, EK
+    *   § 6 NiSV
 
-        *   120
+    *   GK, EK
 
-        *   AGK, AEK
+    *   120
 
-        *   8
+    *   AGK, AEK
 
+    *   8
 
-    *        *   EMF-Stimulation
 
-        *   §§ 7, 8 NiSV
+*    *   EMF-Muskelstimulation
 
-        *   ES
+    *   § 7 Absatz 1 NiSV
 
-        *   24
+    *   ES
 
-        *   AGS, AES
+    *   24
 
-        *   6
+    *   AES
 
+    *   6
 
 
+*    *   EMF-Stimulation
 
+    *   § 7 Absatz 2 NiSV
 
-**2.** **Übersicht Fachkunde für spezifische Anwendungen**
+    *   ES
 
-    Die Anforderungen an die Fachkunde sind abhängig von der Art der
-    Anwendung (Fachkundegruppen).
+    *   24
 
-    *        *   Modul
+    *   AES
 
-        *   Fachkundegruppe
+    *   6
 
 
-    *        *
-        *   Laser/Intensive Lichtquellen
+*    *   EMF-Stimulation zu kosmetischen Zwecken
 
-        *   Ultraschall
+    *   § 7 Absatz 3 NiSV
 
-        *   EMF-Kosmetik
+    *   GK, ES
 
-        *   EMF-Stimulation
+    *   104
 
+    *   AGK, AES
 
-    *        *   GK
+    *   8
 
-        *   x
 
-        *   x
 
-        *   x
 
-        *
 
-    *        *   OS
+## **Abschnitt 2: Übersicht Fachkunde für spezifische Anwendungen**
 
-        *   x
+Die Anforderungen an die Fachkunde sind abhängig von der Art der
+Anwendung (Fachkundegruppen).
 
-        *
-        *
-        *
+Die Fachkunde für die Anwendung von Lasereinrichtungen und intensiven
+Lichtquellen (Fachkundegruppe Laser/Intensive Lichtquellen) wird durch
+die erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des
+Moduls "Grundlagen der Haut und deren Anhangsgebilde" und einer
+Schulung mit den Lerninhalten des Moduls "optische Strahlung"
+erworben.
 
-    *        *   US
+Die Fachkunde für die Anwendung von elektromagnetischen Feldern am
+Menschen durch Hochfrequenzgeräte zu kosmetischen Zwecken
+(Fachkundegruppe EMF-Kosmetik) wird durch die erfolgreiche Teilnahme
+an einer Schulung mit den Lerninhalten des Moduls "Grundlagen der Haut
+und deren Anhangsgebilde" und einer Schulung mit den Lerninhalten des
+Moduls "Elektromagnetische Felder in der Kosmetik" erworben.
 
-        *
-        *   x
+Die Fachkunde für die Anwendung von Niederfrequenzgeräten,
+Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen
+Nerven- und Muskelstimulation zum Zweck des Muskelaufbaus und der
+Muskelstraffung (Fachkundegruppe EMF-Muskelstimulation) wird durch die
+erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des
+Moduls "Elektromagnetische Felder zur Stimulation" erworben.
+Zusätzlich ist der in Teil E Abschnitt 2 beschriebene Nachweis
+erforderlich.
 
-        *
-        *
+Die Fachkunde für die Anwendung von Niederfrequenzgeräten,
+Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen
+Nervenstimulation oder zur Magnetfeldstimulation zu anderen Zwecken
+als dem Muskelaufbau oder der Muskelstraffung (Fachkundegruppe EMF-
+Stimulation) wird durch die erfolgreiche Teilnahme an einer Schulung
+mit den Lerninhalten des Moduls "Elektromagnetische Felder zur
+Stimulation" erworben.
 
-    *        *   EK
+Die Fachkunde für die Anwendung von Niederfrequenzgeräten,
+Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen
+Nervenstimulation, zur Muskelstimulation oder zur
+Magnetfeldstimulation jeweils zu kosmetischen Zwecken im Bereich des
+Gesichts und der Halsvorderseite (Fachkundegruppe EMF-Stimulation zu
+kosmetischen Zwecken) wird durch die erfolgreiche Teilnahme an einer
+Schulung mit den Lerninhalten des Moduls "Grundlagen der Haut und
+deren Anhangsgebilde" und einer Schulung mit den Lerninhalten des
+Moduls "Elektromagnetische Felder zur Stimulation" erworben.
 
-        *
-        *
-        *   x
+Die Fachkunde für die Anwendung von Ultraschall (Fachkundegruppe
+Ultraschall) wird durch die erfolgreiche Teilnahme an einer Schulung
+mit den Lerninhalten des Moduls "Grundlagen der Haut und deren
+Anhangsgebilde" und einer Schulung mit den Lerninhalten des Moduls
+"Ultraschall" erworben.
 
-        *
 
-    *        *   ES
+## **Abschnitt 3: Gleichwertigkeit mit Fachkunde-Modul Teil B**
 
-        *
-        *
-        *
-        *   x
+Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des
+Moduls "Grundlagen der Haut und deren Anhangsgebilde" ist nicht
+erforderlich, wenn eine Person
 
+1.  eine staatlich anerkannte Berufsausbildung zum Kosmetiker/zur
+    Kosmetikerin erfolgreich absolviert hat,
 
 
+2.  einen Bildungsgang staatlich geprüfter Kosmetiker/staatlich geprüfte
+    Kosmetikerin erfolgreich absolviert hat,
 
-    Die Fachkunde für die Anwendung von Lasereinrichtungen und intensiven
-    Lichtquellen wird durch die erfolgreiche Teilnahme an einer Schulung
-    mit den Lerninhalten des Moduls „Grundlagen der Haut und deren
-    Anhangsgebilde“ und einer Schulung mit den Lerninhalten des Moduls
-    „optische Strahlung“ erworben.
 
-    Die Fachkunde für die Anwendung von elektromagnetischen Feldern am
-    Menschen durch Hochfrequenzgeräte zu kosmetischen Zwecken wird durch
-    die erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des
-    Moduls „Grundlagen der Haut und deren Anhangsgebilde“ und einer
-    Schulung mit den Lerninhalten des Moduls „Elektromagnetische Felder in
-    der Kosmetik“ erworben.
+3.  die Meisterprüfung im Kosmetikgewerbe erfolgreich absolviert hat oder
 
-    Die Fachkunde für die Anwendung von elektromagnetischen Feldern am
-    Menschen durch Niederfrequenz-, Gleichstrom- oder Magnetfeldgeräte zur
-    Stimulation wird durch die erfolgreiche Teilnahme an einer Schulung
-    mit den Lerninhalten des Moduls „Elektromagnetische Felder zur
-    Stimulation“ erworben.
 
-    Die Fachkunde für die Anwendung von Ultraschall wird durch die
-    erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des
-    Moduls „Grundlagen der Haut und deren Anhangsgebilde“ und einer
-    Schulung mit den Lerninhalten des Moduls „Ultraschall“ erworben.
+4.  am 5. Dezember 2021 über eine berufliche Praxis im Kosmetikgewerbe von
+    mindestens fünf Jahren verfügt.
 
 
-**3.** **Gleichwertigkeit mit Fachkunde-Modul Teil B**
 
-    Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des
-    Moduls „Grundlagen der Haut und deren Anhangsgebilde“ ist nicht
-    erforderlich, wenn eine Person
 
-    1.  eine staatlich anerkannte Berufsausbildung zum Kosmetiker/zur
-        Kosmetikerin erfolgreich absolviert hat,
+Der Tag des Eintritts der jeweiligen Bedingung nach Ziffer 1 bis 4
+gilt als Bezugsdatum im Sinne von § 4 Absatz 3 Satz 3. Liegt dieser
+Zeitpunkt vor dem 5. Dezember 2021, gilt stattdessen dieser Stichtag
+als Bezugsdatum.
 
 
-    2.  einen Bildungsgang staatlich geprüfter Kosmetiker/staatlich geprüfte
-        Kosmetikerin erfolgreich absolviert hat,
-
-
-    3.  die Meisterprüfung im Kosmetikgewerbe erfolgreich absolviert hat oder
-
-
-    4.  am 5. Dezember 2021 über eine berufliche Praxis im Kosmetikgewerbe von
-        mindestens fünf Jahren verfügt.
-
-
-
-
-
-
-
-
-## Teil B: Fachkunde-Modul „Grundlagen der Haut und deren
-Anhangsgebilde“
+## **Teil B: Fachkunde-Modul „Grundlagen der Haut und deren
+Anhangsgebilde“**
 
 Lerninhalte (Mindestanzahl LE 80)
 
@@ -1020,16 +1090,13 @@ Lerninhalte (Mindestanzahl LE 80)
 7.  Übungen
 
 
-8.  Praktikum
-
-
-9.  Prüfung
+8.  Prüfung
 
 
 
 
 
-## Teil C: Fachkunde-Modul „Optische Strahlung“
+## **Teil C: Fachkunde-Modul „Optische Strahlung“**
 
 Lerninhalte (Mindestanzahl LE 120)
 
@@ -1070,7 +1137,8 @@ Lerninhalte (Mindestanzahl LE 120)
 
 
 13. Selbständige Durchführung von unterschiedlichen Anwendungen unter
-    fachärztlicher Aufsicht
+    Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit
+    entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
 14. Prüfung
@@ -1079,8 +1147,8 @@ Lerninhalte (Mindestanzahl LE 120)
 
 
 
-## Teil D: Fachkunde-Modul „Elektromagnetische Felder
-(Hochfrequenzgeräte) in der Kosmetik“
+## **Teil D: Fachkunde-Modul „Elektromagnetische Felder
+(Hochfrequenzgeräte) in der Kosmetik“**
 
 Lerninhalte (Mindestanzahl LE 40)
 
@@ -1118,7 +1186,8 @@ Lerninhalte (Mindestanzahl LE 40)
 
 
 12. Selbständige Durchführung von unterschiedlichen Anwendungen unter
-    fachärztlicher Aufsicht
+    Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit
+    entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
 13. Prüfung
@@ -1127,23 +1196,16 @@ Lerninhalte (Mindestanzahl LE 40)
 
 
 
-## Teil E: Fachkunde-Modul „Elektromagnetische Felder
-(Niederfrequenz-, Gleichstrom- oder Magnetfeldgeräte) zur Stimulation“
+## **Teil E: Fachkunde-Modul „Elektromagnetische Felder
+(Niederfrequenz-, Gleichstrom- oder Magnetfeldgeräte) zur
+Stimulation“**
 
-Voraussetzung für die Teilnahme an diesem Modul ist der Nachweis einer
-Lizenz als Übungsleiterin/Übungsleiter mit einer Ausbildung von
-mindestens 120 Lerneinheiten oder mindestens einer C-Lizenz als
-Trainerin/Trainer mit einer Ausbildung von mindestens 120
-Lerneinheiten oder einer vergleichbaren Ausbildung. Nachweise aus
-einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über
-die Erfüllung der Anforderungen nach Teil E stehen inländischen
-Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden
-Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen
-vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind.
-Unterlagen nach Satz 2 sind auf Verlangen im Original oder in Kopie
-vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte
-deutsche Übersetzung können verlangt werden.
+Abschnitt 2 enthält Anforderungen, die sich nur auf die Fachkunde nach
+§ 7 Absatz 1 beziehen. Die Anforderungen in Abschnitt 1 beziehen sich
+dagegen auf die Fachkunde nach § 7 Absatz 1, 2 und 3.
+
+
+## **Abschnitt 1: Übersicht der Inhalte des Fachkunde-Moduls**
 
 Lerninhalte (Mindestanzahl LE 24)
 
@@ -1180,7 +1242,8 @@ Lerninhalte (Mindestanzahl LE 24)
 
 
 11. Selbständige Durchführung von unterschiedlichen Anwendungen unter
-    fachärztlicher Aufsicht
+    Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit
+    entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
 12. Prüfung
@@ -1189,7 +1252,26 @@ Lerninhalte (Mindestanzahl LE 24)
 
 
 
-## Teil F: Fachkunde-Modul „Ultraschall“
+## **Abschnitt 2: Zusätzliche Anforderungen für den Erwerb der
+Fachkunde nach § 7 Absatz 1**
+
+Voraussetzung für die Teilnahme an diesem Modul ist der Nachweis einer
+Lizenz als Übungsleiterin oder Übungsleiter mit einer Ausbildung von
+mindestens 120 Lerneinheiten oder mindestens einer C-Lizenz als
+Trainerin oder Trainer mit einer Ausbildung von mindestens 120
+Lerneinheiten oder einer vergleichbaren Ausbildung. Nachweise aus
+einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über
+die Erfüllung der Anforderungen nach Teil E stehen inländischen
+Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden
+Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen
+vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind.
+Unterlagen nach Satz 2 sind auf Verlangen im Original oder in Kopie
+vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte
+deutsche Übersetzung können verlangt werden.
+
+
+## **Teil F: Fachkunde-Modul „Ultraschall“**
 
 Lerninhalte (Mindestanzahl LE 40)
 

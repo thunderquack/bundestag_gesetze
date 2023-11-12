@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 529
 
 Zuletzt geändert durch
-:   Art. 3 G v. 24.2.2021 I 274
-
-Änderung durch
-:   Art. 8 G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 11.7.2021 I 2754
 
 
 ## Eingangsformel

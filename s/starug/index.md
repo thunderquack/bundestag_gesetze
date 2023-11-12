@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3256
 
-Geändert durch
-:   Art. 38 G v. 10.8.2021 I 3436
+Zuletzt geändert durch
+:   Art. 12 G v. 20.7.2022 I 1166
 
 
 ## Teil 1 - Krisenfrüherkennung und Krisenmanagement
@@ -1165,9 +1165,10 @@ abgestimmt wird. Die Ladungsfrist beträgt mindestens 14 Tage.
 (2) Dem Antrag ist der vollständige Restrukturierungsplan nebst
 Anlagen beizufügen.
 
-(3) Die Planbetroffenen sind zu dem Termin zu laden. Die Ladung
-enthält den Hinweis darauf, dass der Termin und die Abstimmung auch
-dann durchgeführt werden können, wenn nicht alle Planbetroffenen
+(3) Die Planbetroffenen sind zu dem Termin zu laden. Der Ladung ist
+der vollständige Restrukturierungsplan nebst Anlagen beizufügen. Die
+Ladung enthält den Hinweis darauf, dass der Termin und die Abstimmung
+auch dann durchgeführt werden können, wenn nicht alle Planbetroffenen
 teilnehmen. Das Gericht kann den Schuldner mit der Zustellung der
 Ladungen beauftragen.
 
@@ -1236,7 +1237,7 @@ anzuhören.
 zusammen. Der Hinweis soll innerhalb von zwei Wochen nach
 Antragstellung oder, sofern ein Anhörungstermin stattfindet, innerhalb
 von zwei Wochen nach diesem Termin ergehen. Für die Ladung zu dem
-Anhörungstermin gelten § 45 Absatz 3 und § 46 Absatz 1 Satz 3
+Anhörungstermin gelten § 45 Absatz 3 und § 46 Absatz 1 Satz 4
 entsprechend.
 
 
@@ -1663,21 +1664,35 @@ versagen, wenn
 
 
 
-(2) Sieht der Restrukturierungsplan eine neue Finanzierung vor, ist
+(2) Liegt ein Mangel nach Absatz 1 Nummer 2 darin begründet, dass
+infolge einer unzutreffenden Bewertung des Unternehmens die
+Voraussetzungen für eine gruppenübergreifende Mehrheitsentscheidung
+nach den §§ 26 bis 28 nicht gegeben sind, so kann die Versagung der
+Bestätigung auf diesen Mangel nur gestützt werden, wenn ein hierdurch
+benachteiligter Planbetroffener dies beantragt. Der Antrag ist nur
+zulässig, wenn der Antragsteller dem Plan bereits im
+Abstimmungsverfahren widersprochen hat. Ist die Abstimmung außerhalb
+eines gerichtlichen Abstimmungstermins erfolgt, so gilt dies nur dann,
+wenn in dem Planangebot oder, sofern eine Versammlung der
+Planbetroffenen stattgefunden hat, in dem Einberufungsschreiben zu der
+Versammlung auf die Erforderlichkeit des Widerspruchs und die Folgen
+eines unterbliebenen Widerspruchs gesondert hingewiesen worden ist.
+
+(3) Sieht der Restrukturierungsplan eine neue Finanzierung vor, ist
 die Bestätigung zu versagen, wenn das dem Plan zugrunde liegende
 Restrukturierungskonzept unschlüssig ist oder wenn Umstände bekannt
 sind, aus denen sich ergibt, dass das Konzept nicht von den
 tatsächlichen Gegebenheiten ausgeht oder keine begründete Aussicht auf
 Erfolg vermittelt.
 
-(3) Ist die Planabstimmung nicht im gerichtlichen Verfahren erfolgt,
+(4) Ist die Planabstimmung nicht im gerichtlichen Verfahren erfolgt,
 gehen Zweifel an der ordnungsgemäßen Annahme des
 Restrukturierungsplans durch die Planbetroffenen zulasten des
 Schuldners. Besteht Streit über das einem Planbetroffenen zustehende
 Stimmrecht, legt das Gericht seiner Entscheidung das nach Maßgabe des
 § 24 zu bestimmende Stimmrecht zugrunde.
 
-(4) Die Bestätigung ist auch zu versagen, wenn die Annahme des
+(5) Die Bestätigung ist auch zu versagen, wenn die Annahme des
 Restrukturierungsplans unlauter herbeigeführt worden ist, insbesondere
 durch Begünstigung eines Planbetroffenen.
 
@@ -2027,7 +2042,7 @@ wurden.
 Prüfungen als Sachverständiger vorzunehmen, insbesondere
 
 1.  zu den Bestätigungsvoraussetzungen nach § 63 Absatz 1 Nummer 1, Absatz
-    2 und § 64 Absatz 1 oder
+    3 und § 64 Absatz 1 oder
 
 
 2.  zur Angemessenheit der Entschädigung bei einem Eingriff in
@@ -2148,7 +2163,12 @@ Absatz 2 vor,
 
 3.  kann das Gericht dem Schuldner aufgeben, dem Beauftragten Zahlungen
     anzuzeigen und Zahlungen außerhalb des gewöhnlichen Geschäftsbetriebs
-    nur zu tätigen, wenn der Beauftragte zustimmt.
+    nur zu tätigen, wenn der Beauftragte zustimmt,
+
+
+4.  hat der Beauftragte auch die Aufgabe, den Schuldner und die Gläubiger
+    bei der Ausarbeitung und Aushandlung des Restrukturierungskonzepts und
+    des auf ihm basierenden Plans zu unterstützen.
 
 
 
@@ -2368,11 +2388,141 @@ Vereinbarung der Bemessung der Vergütung zugrunde zu legen, wenn die
 Vereinbarung nicht zu einer unangemessenen Vergütung führt.
 
 
-### Kapitel 4 - (zukünftig in Kraft)
+### Kapitel 4 - Öffentliche Restrukturierungssachen
 
 
-#### (XXXX) §§ 84 bis 88 (zukünftig in Kraft)
+#### § 84 Antrag und erste Entscheidung
 
+(1) In Verfahren über Restrukturierungssachen erfolgen öffentliche
+Bekanntmachungen nur, wenn der Schuldner dies beantragt. Der Antrag
+ist vor der ersten Entscheidung in der Restrukturierungssache zu
+stellen und kann nur bis zur ersten Entscheidung zurückgenommen
+werden. Auf den Antrag findet Artikel 102c § 5 des Einführungsgesetzes
+zur Insolvenzordnung entsprechende Anwendung.
+
+(2) Hat der Schuldner beantragt, dass in den Verfahren in der
+Restrukturierungssache öffentliche Bekanntmachungen erfolgen sollen,
+sind in der ersten Entscheidung, die in der Restrukturierungssache
+ergeht, anzugeben:
+
+1.  die Gründe, auf denen die internationale Zuständigkeit des Gerichts
+    beruht, sowie
+
+
+2.  ob die Zuständigkeit auf Artikel 3 Absatz 1 oder Absatz 2 der
+    Verordnung (EU) 2015/848 des Europäischen Parlaments und des Rates vom
+    20\. Mai 2015 über Insolvenzverfahren (ABl. L 141 vom 5.6.2015, S. 19;
+    L 349 vom 21.12.2016, S. 6) in der jeweils geltenden Fassung beruht.
+
+
+
+Öffentlich bekannt zu machen sind die in Artikel 24 Absatz 2 der
+Verordnung (EU) 2015/848 genannten Angaben. Artikel 102c § 4 des
+Einführungsgesetzes zur Insolvenzordnung ist entsprechend anzuwenden.
+
+
+#### § 85 Besondere Bestimmungen
+
+(1) Öffentlich bekannt zu machen sind neben den in § 84 Absatz 2 Satz
+2 genannten Angaben:
+
+1.  Ort und Zeit gerichtlicher Termine,
+
+
+2.  die Bestellung und Abberufung eines Restrukturierungsbeauftragten,
+
+
+3.  sämtliche gerichtliche Entscheidungen, die in der
+    Restrukturierungssache ergehen.
+
+
+
+
+(2) Erfolgen öffentliche Bekanntmachungen nach Absatz 1, ist eine
+Zustellung von Ladungen zu Terminen gegenüber Aktionären,
+Kommanditaktionären und Inhabern von Schuldverschreibungen nicht
+erforderlich. Handelt es sich bei dem Schuldner um eine börsennotierte
+Aktiengesellschaft, findet § 121 Absatz 4a des Aktiengesetzes
+entsprechende Anwendung.
+
+
+#### § 86 Öffentliche Bekanntmachung; Verordnungsermächtigung
+
+(1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und
+länderübergreifende Veröffentlichung im Internet; diese kann
+auszugsweise geschehen. Die Bekanntmachung gilt als bewirkt, sobald
+nach dem Tag der Veröffentlichung zwei weitere Tage verstrichen sind.
+
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Einzelheiten der zentralen und länderübergreifenden Veröffentlichung
+im Internet zu regeln. Dabei sind insbesondere Löschungsfristen
+vorzusehen sowie Vorschriften, die sicherstellen, dass die
+Veröffentlichungen
+
+1.  unversehrt, vollständig, sachlich richtig und aktuell bleiben,
+
+
+2.  jederzeit ihrem Ursprung nach zugeordnet werden können.
+
+
+
+
+(3) Die öffentliche Bekanntmachung genügt zum Nachweis der Zustellung
+an alle Beteiligten, auch wenn dieses Gesetz neben ihr eine besondere
+Zustellung vorschreibt.
+
+
+#### § 87 Restrukturierungsforum; Verordnungsermächtigung
+
+(1) Planbetroffene können im Restrukturierungsforum des
+Bundesanzeigers andere Planbetroffene auffordern, das Stimmrecht im
+Rahmen einer Planabstimmung in bestimmter Weise auszuüben, eine
+Stimmrechtsvollmacht zu erteilen oder einen Vorschlag zur Änderung des
+vorgelegten Restrukturierungsplans zu unterstützen.
+
+(2) Die Aufforderung hat die folgenden Angaben zu enthalten:
+
+1.  den Namen und eine Anschrift des Planbetroffenen,
+
+
+2.  den Schuldner,
+
+
+3.  das Restrukturierungsgericht und das Aktenzeichen der
+    Restrukturierungssache,
+
+
+4.  den Vorschlag für die Stimmrechtsausübung, für die
+    Stimmrechtsvollmacht oder zur Änderung des Plans und
+
+
+5.  den Tag der Versammlung der Planbetroffenen oder des Fristablaufs zur
+    Annahme des Planangebots.
+
+
+
+
+(3) Die Aufforderung kann auf eine Begründung auf der Internetseite
+des Auffordernden und deren elektronische Adresse hinweisen.
+
+(4) Der Schuldner kann im Restrukturierungsforum des Bundesanzeigers
+auf eine Stellungnahme zu der Aufforderung auf seiner Internetseite
+hinweisen.
+
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, die äußere Gestaltung des Restrukturierungsforums
+und weitere Einzelheiten insbesondere zu der Aufforderung, dem
+Hinweis, den Entgelten, zu Löschungsfristen, zum Löschungsanspruch, zu
+Missbrauchsfällen und zur Einsichtnahme zu regeln.
+
+
+#### § 88 Anwendbarkeit des Artikels 102c des Einführungsgesetzes zur Insolvenzordnung
+
+In öffentlichen Restrukturierungssachen ist Artikel 102c §§ 1, 2, 3
+Absatz 1 und 3, die §§ 6, 15, 25 und 26 des Einführungsgesetzes zur
+Insolvenzordnung entsprechend anwendbar.
 
 
 ### Kapitel 5 - Anfechtungs- und Haftungsrecht
@@ -2412,11 +2562,11 @@ Restrukturierungsvorhabens verbunden sind.
 Restrukturierungsplans und Rechtshandlungen, die im Vollzug eines
 solchen Plans erfolgen, sind mit Ausnahme von Forderungen im Rang des
 § 39 Absatz 1 Nummer 5 der Insolvenzordnung und Sicherheitsleistungen,
-die nach § 135 der Insolvenzordnung oder § 6 des Anfechtungsgesetzes
-anfechtbar sind, bis zur nachhaltigen Restrukturierung einer
-Anfechtung nur zugänglich, wenn die Bestätigung auf der Grundlage
-unrichtiger oder unvollständiger Angaben des Schuldners erfolgte und
-dem anderen Teil dies bekannt war.
+die nach § 135 der Insolvenzordnung oder den §§ 6 und 6a des
+Anfechtungsgesetzes anfechtbar sind, bis zur nachhaltigen
+Restrukturierung einer Anfechtung nur zugänglich, wenn die Bestätigung
+auf der Grundlage unrichtiger oder unvollständiger Angaben des
+Schuldners erfolgte und dem anderen Teil dies bekannt war.
 
 (2) Sieht der gestaltende Teil des Restrukturierungsplans die
 Übertragung des gesamten schuldnerischen Vermögens oder wesentlicher

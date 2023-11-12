@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 26.10.2005 I 3104
 
 Zuletzt geändert durch
-:   Art. 488 V v. 31.8.2015 I 1474
+:   Art. 27 G v. 2.3.2023 I Nr. 56
 
 Diese Verordnung dient der Umsetzung der Richtlinie 95/50/EG des
 Rates vom 6. Oktober 1995 über einheitliche Verfahren für die
@@ -41,8 +41,8 @@ für Kontrollen in den Unternehmen.
 Gefahrguttransporten der Streitkräfte, die durch deutsche Behörden und
 die Streitkräfte gemeinsam durchgeführt werden.
 
-(3) Das Bundesamt für Güterverkehr wendet die §§ 2 bis 6 entsprechend
-an.
+(3) Das Bundesamt für Logistik und Mobilität wendet die §§ 2 bis 6
+entsprechend an.
 
 
 ## § 2 Begriffsbestimmungen
@@ -101,9 +101,9 @@ dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um zu
 auf der Straße eingehalten werden. Diese Kontrollen werden in
 Ausführung von Artikel 3 der Verordnung (EWG) Nr. 4060/89 und Artikel
 1 der Verordnung (EWG) Nr. 3912/92 durchgeführt. Das Bundesamt für
-Güterverkehr kontrolliert im Rahmen seiner Zuständigkeit nach dem
-Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße in
-angemessenem Umfang.
+Logistik und Mobilität kontrolliert im Rahmen seiner Zuständigkeit
+nach dem Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße
+in angemessenem Umfang.
 
 (2) Bei der Festlegung des repräsentativen Anteils der
 Gefahrguttransporte im Sinne des Absatzes 1 Satz 1 ist der Anteil der
@@ -111,13 +111,13 @@ im jeweiligen Land zugelassenen Lastkraftwagen, Zugmaschinen und
 Sattelzugmaschinen am Gesamtbestand der genannten Kraftfahrzeuge in
 Deutschland zu berücksichtigen. Die Zahlen über Gefahrgutbeförderungen
 und Fahrzeugbestände werden jährlich zum 30. Juni für das
-vorangegangene Jahr durch das Bundesamt für Güterverkehr in Abstimmung
-mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
+vorangegangene Jahr durch das Bundesamt für Logistik und Mobilität in
+Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
 (3) Die nach Landesrecht für die Überwachung zuständigen Behörden und
-das Bundesamt für Güterverkehr orientieren sich bei der Durchführung
-von Kontrollmaßnahmen, die der Umsetzung der Richtlinie 95/50/EG
-dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis der
+das Bundesamt für Logistik und Mobilität orientieren sich bei der
+Durchführung von Kontrollmaßnahmen, die der Umsetzung der Richtlinie
+95/50/EG dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis der
 Kontrolle händigt der Prüfer dem Fahrzeugführer eine geeignete
 Kontrollbescheinigung aus.
 
@@ -172,7 +172,7 @@ andere geeignete Maßnahmen ergreifen.
 ## § 5 Berichtswesen
 
 (1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte
-Stelle und das Bundesamt für Güterverkehr übermitteln dem
+Stelle und das Bundesamt für Logistik und Mobilität übermitteln dem
 Bundesministerium für Verkehr und digitale Infrastruktur für jedes
 Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach
 dem Muster in der Anlage 5 erstellten Bericht über die Anwendung
@@ -194,10 +194,10 @@ dieser Verordnung mit folgenden Angaben:
 
 
 
-(2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach
-Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem
-Bundesministerium für Verkehr und digitale Infrastruktur zur
-Weiterleitung an die Kommission der Europäischen Gemeinschaften.
+(2) Das Bundesamt für Logistik und Mobilität erstellt aufgrund der
+Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet
+diesen dem Bundesministerium für Verkehr und digitale Infrastruktur
+zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
 (zu § 3 Abs. 3 Satz 1)
 

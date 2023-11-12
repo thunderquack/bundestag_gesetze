@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1554
 
 Zuletzt geändert durch
-:   Art. 4 V v. 22.7.2021 I 3552
+:   Art. 4 V v. 15.12.2022 I 2862
 
 
 ## Eingangsformel
@@ -41,7 +41,7 @@ Vorbereitungsdienst dauert in der Regel 24 Monate.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -78,12 +78,8 @@ persönlichen Eigenschaften für den mittleren nichttechnischen
 Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer
 Auswahlkommission durchgeführt und besteht aus einem schriftlichen und
 einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des
-Innern, für Bau und Heimat kann anstelle des Bundesverwaltungsamts
-eine andere Behörde über die Einstellung entscheiden.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür
-geeignete technische Einrichtungen zur Verfügung stehen.
+Innern und für Heimat kann anstelle des Bundesverwaltungsamts eine
+andere Behörde über die Einstellung entscheiden.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
@@ -128,7 +124,7 @@ Auswahlkommission werden von der Einstellungsbehörde für die Dauer von
 drei Jahren bestellt. Wiederbestellung ist zulässig.
 
 (4a) Die Einstellungsbehörde kann festlegen, dass die
-Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 4
+Auswahlkommission bis zum 31. Dezember 2024 – abweichend von Absatz 4
 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
@@ -285,7 +281,7 @@ Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei
 der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch
 Behörden des Bundes und der Kommunen unterstützt.
 
-(1a) Bis zum 31. Dezember 2022 können für einzelne oder alle
+(1a) Bis zum 31. Dezember 2024 können für einzelne oder alle
 Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 (2) Die Ausbildung gliedert sich in folgende Abschnitte:
@@ -355,13 +351,13 @@ Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 
 (3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember
-2022 das Praktikum II – abweichend von Absatz 2 – in einer
+2024 das Praktikum II – abweichend von Absatz 2 – in einer
 Bundesbehörde absolviert wird.
 
 (4) Das Bundesverwaltungsamt kann mit Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat festlegen, dass bis
-zum 31. Dezember 2022 die Ausbildungsabschnitte – abweichend von
-Absatz 2 –
+Bundesministeriums des Innern und für Heimat festlegen, dass bis zum
+31\. Dezember 2024 die Ausbildungsabschnitte – abweichend von Absatz 2
+–
 
 1.  anders gegliedert werden,
 
@@ -384,7 +380,7 @@ Zwischenlehrgang und mindestens 540 Lehrstunden auf den
 Abschlusslehrgang.
 
 (1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31.
-Dezember 2022 die Lehrstunden – abweichend von Absatz 1 Satz 2 –
+Dezember 2024 die Lehrstunden – abweichend von Absatz 1 Satz 2 –
 anders auf die Ausbildungsabschnitte verteilt werden.
 
 (2) Die fachtheoretische Ausbildung erstreckt sich auf folgende
@@ -496,11 +492,11 @@ Leistungstests zu erbringen:
 Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung
 in der Zwischenprüfung und in der Abschlussprüfung.
 
-(1a) Bis zum 31. Dezember 2022 können schriftliche Leistungstests mit
+(1a) Bis zum 31. Dezember 2024 können schriftliche Leistungstests mit
 Unterstützung durch Informationstechnik durchgeführt werden.
 
 (1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31.
-Dezember 2022 – abweichend von Absatz 1 Satz 1 – weniger
+Dezember 2024 – abweichend von Absatz 1 Satz 1 – weniger
 Leistungstests zu absolvieren sind.
 
 (2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
@@ -761,12 +757,12 @@ rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen
 Kenntnisse nachzuweisen.
 
-(1a) Mit Zustimmung des Bundesministeriums des Innern, für Bau und
-Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31.
-Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung
-verzichtet wird, wenn nicht gewährleistet werden kann, dass die
-Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur
-Bewältigung der COVID-19-Pandemie erfolgt.
+(1a) Mit Zustimmung des Bundesministeriums des Innern und für Heimat
+kann das Bundesverwaltungsamt festlegen, dass bis zum 31. Dezember
+2024 auf die Durchführung der mündlichen Abschlussprüfung verzichtet
+wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne
+Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der
+COVID-19-Pandemie erfolgt.
 
 (2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens
 drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf
@@ -789,8 +785,8 @@ Bewertungen für die einzelnen Fachgebiete gebildet.
 (5) Die mündliche Abschlussprüfung ist nicht öffentlich. Angehörige
 des Prüfungsamts können unabhängig vom Einverständnis der
 Anwärterinnen und Anwärter anwesend sein. Das Prüfungsamt kann
-Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-Bau und Heimat und des Bundesverwaltungsamts, die mit der Ausbildung
+Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+für Heimat und des Bundesverwaltungsamts, die mit der Ausbildung
 befasst sind, die Anwesenheit allgemein oder im Einzelfall gestatten.
 In Ausnahmefällen kann auch anderen mit der Ausbildung befassten
 Personen die Anwesenheit gestattet werden, wenn die Anwärterin oder

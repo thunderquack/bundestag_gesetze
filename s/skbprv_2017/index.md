@@ -15,16 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1506, 1519
 
-Geändert durch
-:   Art. 4 G v. 9.6.2021 I 1614
+Zuletzt geändert durch
+:   Art. 1 V v. 17.10.2022 I 1872
 
 Stand: Ersetzt V 51-3-5 v. 21.8.2012 I 1804 (SKBPRV)
 
 ## (XXXX)
 
-Bezirkspersonalräte werden bei folgenden militärischen Dienststellen
-gebildet, die den Behörden der Mittelstufe nach § 4 Absatz 1 Nummer 4
-des Bundespersonalvertretungsgesetzes entsprechen:
+Bezirkspersonalräte werden bei den folgenden militärischen
+Dienststellen gebildet, die den Behörden der Mittelstufe nach § 4
+Absatz 1 Nummer 4 des Bundespersonalvertretungsgesetzes entsprechen:
 
 1.  Kommando Heer,
 
@@ -38,10 +38,13 @@ des Bundespersonalvertretungsgesetzes entsprechen:
 4.  Kommando Streitkräftebasis,
 
 
-5.  Kommando Sanitätsdienst der Bundeswehr und
+5.  Kommando Sanitätsdienst der Bundeswehr,
 
 
-6.  Kommando Cyber- und Informationsraum.
+6.  Kommando Cyber- und Informationsraum und
+
+
+7.  Territoriales Führungskommando der Bundeswehr.
 
 
 

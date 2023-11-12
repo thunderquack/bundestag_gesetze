@@ -1571,7 +1571,7 @@ anzuwenden.
 
 (2) Die Vorschriften in § 216 Abs. 1, §§ 232, 401 Abs. 1, § 418 Abs.
 1, §§ 435, 442 Abs. 2, § 448 Abs. 2, §§ 452, 453, 468, 578a, 776,
-1287, 1416 Abs. 3, § 1795 Abs. 1 Nr. 2, §§ 2114, 2168a des
+1287, 1416 Abs. 3, § 1824 Absatz 1 Nummer 2, §§ 2114, 2168a des
 Bürgerlichen Gesetzbuches gelten sinngemäß mit der Maßgabe, daß an die
 Stelle des eingetragenen Schiffes das in der Luftfahrzeugrolle
 eingetragene Luftfahrzeug und an die Stelle der Schiffshypothek das

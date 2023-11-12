@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 514
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.12.2018 I 2444
-
-Änderung durch
-:   Art. 7 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 10.8.2021 I 3490
 
 
 ## Eingangsformel
@@ -457,6 +454,16 @@ gewährt werden.
 berechtigtes Interesse glaubhaft gemacht wird. In Verfahren mit
 mehreren Beteiligten soll außerdem das Einverständnis der anderen
 Beteiligten glaubhaft gemacht werden.
+
+
+### § 18a Fristberechnung bei Feiertagen
+
+Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine
+Willenserklärung abzugeben, eine Leistung zu bewirken oder eine
+Verfahrenshandlung vorzunehmen und fällt der letzte Tag der Frist auf
+einen an mindestens einer der Dienststellen des Deutschen Patent- und
+Markenamts geltenden gesetzlichen Feiertag, so tritt an dessen Stelle
+der nächste Werktag.
 
 
 ### § 19 Entscheidung nach Lage der Akten

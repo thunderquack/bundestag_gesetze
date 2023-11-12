@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1552
 
-Änderung durch
-:   Art. 1 Nr. 18 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 Nr. 18 V v. 5.1.2022 I 2
 
 
 ## (XXXX)

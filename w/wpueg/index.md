@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3822
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.3.2020 I 529
-
-Änderung durch
-:   Art. 7 Abs. 5 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 58 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 20.7.2022 I 1166
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -766,9 +757,9 @@ Bundesanstalt unverzüglich die Veröffentlichung mitzuteilen.
 (4) Die Hauptversammlung nach Absatz 3 ist mindestens 14 Tage vor der
 Versammlung einzuberufen. Der Tag der Einberufung ist nicht
 mitzurechnen. § 121 Abs. 7 des Aktiengesetzes gilt entsprechend.
-Abweichend von § 121 Abs. 5 des Aktiengesetzes und etwaigen
-Bestimmungen der Satzung ist die Gesellschaft bei der Wahl des
-Versammlungsortes frei. Wird die Frist des § 123 Abs. 1 des
+Abweichend von § 121 Absatz 5 Satz 1 und 2 des Aktiengesetzes und
+etwaigen Bestimmungen der Satzung ist die Gesellschaft bei der Wahl
+des Versammlungsortes frei. Wird die Frist des § 123 Abs. 1 des
 Aktiengesetzes unterschritten, so müssen zwischen Anmeldung und
 Versammlung mindestens vier Tage liegen und sind Mitteilungen nach §
 125 Abs. 1 Satz 1 des Aktiengesetzes unverzüglich zu machen; § 121

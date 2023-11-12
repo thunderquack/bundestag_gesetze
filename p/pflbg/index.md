@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2581
 
 Zuletzt geändert durch
-:   Art. 13a G v. 24.2.2021 I 274
-
-Änderung durch
-:   Art. 9a G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. Art. 9a G v. 11.7.2021 I 2754
 
 [^F799294_01_BJNR258110017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die

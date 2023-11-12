@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 796
 
 Zuletzt geändert durch
-:   Art. 5 G v. 5.12.2012 I 2449
-
-Änderung durch
-:   Art. 4 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 27.7.2021 I 3146
 
 
 ## § 1 Anwendungsbereich

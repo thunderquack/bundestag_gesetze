@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1992, 266
 
 Zuletzt geändert durch
-:   Art. 28 G v. 8.7.2016 I 1594
-
-Änderung durch
-:   Art. 78 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 78 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel

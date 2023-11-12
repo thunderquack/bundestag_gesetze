@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 129 G v. 10.8.2021 I 3436
+:   Art. 12 V v. 20.7.2023 I Nr. 199
 
 
 ## Eingangsformel
@@ -55,16 +55,19 @@ verbundene, im Gebührentarif genannte Amtshandlungen, Prüfungen oder
 Untersuchungen in einer Gesamtbezeichnung, die zugehörigen Beträge in
 einem Gesamtbetrag zusammengefasst werden.
 
+(3) Unterliegt die Amtshandlung der Umsatzsteuer, kann diese der
+Gebühr hinzugerechnet werden.
+
 
 ## § 2 Auslagen
 
 (1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der
 Gebührenschuldner folgende Auslagen zu tragen:
 
-1.  Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde
-    und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil-
-    und Expresszustellungen, soweit sie auf besonderen Antrag des
-    Gebührenschuldners erfolgen,
+1.  Portokosten; Entgelte für Zustellungen durch die Post mit
+    Postzustellungsurkunde und für Nachnahmen sowie im
+    Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen,
+    soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
 
 
 2.  Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die
@@ -127,9 +130,23 @@ Gebührenschuldner folgende Auslagen zu tragen:
 
 11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung
     der Zulassungsbehörde an den Versicherer auf Grund der
-    Versicherungsbestätigung nach § 24 Absatz 1 der Fahrzeug-
-    Zulassungsverordnung oder der Anzeige nach § 25 Absatz 2 der Fahrzeug-
-    Zulassungsverordnung.
+    Versicherungsbestätigung nach § 50 Absatz 1 der Fahrzeug-
+    Zulassungsverordnung oder der Anzeige nach § 51 Absatz 2 der Fahrzeug-
+    Zulassungsverordnung,
+
+
+12. die Kosten eines amtlich anerkannten Sachverständigen für den
+    Kraftfahrzeugverkehr, eines technischen Dienstes mit
+    Gesamtfahrzeugbefugnissen der jeweiligen Fahrzeugklassen oder einer
+    anderen vom Kraftfahrt-Bundesamt beauftragten Stelle für die
+    Begutachtung eines Kraftfahrzeugs mit automatisierter oder autonomer
+    Fahrfunktion einschließlich der Bewertung der informationstechnischen
+    Sicherheit von Fahrzeugen und Fahrzeugteilen,
+
+
+13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens
+    gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-
+    Betriebs-Verordnung.
 
 
 
@@ -404,6 +421,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
         weitere Folgegenehmigung
 
 
+*    *   111.3
+
+    *
+    *   einer Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion
+
+    *   8 925,00 bis 89 240,00
+
+
+*    *   111.4
+
+    *
+    *   einer Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer
+        Fahrfunktion
+
+    *   8 925,00 bis 89 240,00
+
+
+*    *   111.5
+
+    *
+    *   einer Genehmigung einer nachträglichen Aktivierung einer autonomen
+        Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal-
+        und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
+*    *   111.6
+
+    *
+    *   einer Genehmigung einer nachträglichen Aktivierung einer
+        automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen
+        nach Personal- und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
+*    *   111.7
+
+    *
+    *   einer Erprobungsgenehmigung für automatisierte Fahrfunktionen
+        nach Personal- und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
 *    *   112
 
     *
@@ -481,6 +544,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
     *   Gebühr nach Gebührennummer 112.1 bzw. 112.2 (einmalig) zzgl. 22,00
         Euro für jeden weiteren Folgenachtrag
+
+
+*    *   112.4
+
+    *
+    *   zur Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion
+
+    *   4 462,50 bis 44 620,00
+
+
+*    *   112.5
+
+    *
+    *   zur Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer
+        Fahrfunktion
+
+    *   4 462,50 bis 44 620,00
+
+
+*    *   112.6
+
+    *
+    *   einer Genehmigung einer nachträglichen Aktivierung einer autonomen
+        Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal-
+        und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
+*    *   112.7
+
+    *
+    *   einer Genehmigung einer nachträglichen Aktivierung einer
+        automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen
+        nach Personal- und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
+*    *   112.8
+
+    *
+    *   einer Erprobungsgenehmigung für automatisierte Fahrfunktionen
+        nach Personal- und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
 
 
 *    *   113
@@ -849,7 +958,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 *    *   123.1
 
     *
-    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4
+    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4
         Nummer 1 FZV über die Zulassungsbehörde
 
     *   3,80
@@ -858,7 +967,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 *    *   123.2
 
     *
-    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4
+    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4
         Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen
         bevollmächtigten Vertreter nebst Überwachung
 
@@ -919,9 +1028,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
     *
     *   Registrierung einer elektronischen Mitteilung über die Zuteilung eines
-        Versicherungskennzeichens im ZFZR
+        Versicherungskennzeichens oder einer Versicherungsplakette im ZFZR
 
     *   0,20
+
+
+*    *
+    *   **2a**
+
+    *   **Großkundenschnittstelle beim Kraftfahrt-Bundesamt**
+
+    *
+
+*    *   128
+
+    *
+    *   Registrierung einer juristischen Person des Privatrechts als Großkunde
+        bei der Großkundenschnittstelle des Kraftfahrt-Bundesamtes
+
+    *   3 220,00
+
+
+*    *   129
+
+    *
+    *   Entgegennahme eines Antrages eines Großkunden durch die
+        Großkundenschnittstelle [und Weiterleitung des Antrags an die
+        zuständige Zulassungsbehörde]
+
+    *   0,30
 
 
 *    *
@@ -1403,6 +1538,74 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 
 *    *
+    *   **9.**
+
+    *   **Maßnahmen des Fernstraßen-Bundesamts oder der auf Grund des
+        Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft
+        privaten Rechts**
+
+    *
+
+*    *   183
+
+    *
+    *   Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an
+        Arbeitsstellen
+
+    *   45,00 bis 1 070,00
+
+
+*    *   184
+
+    *
+    *   Entscheidung über eine Erlaubnis nach § 29 Absatz 2 StVO für
+        Veranstaltungen, die ausschließlich auf den mit Zeichen 330.1 und
+        330\.2 gekennzeichneten Autobahnen in der Baulast des Bundes
+        stattfinden (§ 44a Abs. 1 Satz 3 StVO)
+
+    *   45,00 bis 1 070,00
+
+
+*    *
+    *
+    *   bei größeren Veranstaltungen mit außergewöhnlich hohem
+        Verwaltungsaufwand
+
+    *   1 070,00 bis 3 207,00
+
+
+*    *   185
+
+    *
+    *   Entscheidung über eine Ausnahme von einer Vorschrift der StVO nach §
+        46 Absatz 2a StVO je Ausnahmetatbestand und je Fahrzeug/Person
+        Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl
+        betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter
+        Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte
+        Gesamtgebühr berechnet werden; dabei darf die Untergrenze des
+        Gebührenrahmens von 45,00 Euro je Fahrzeug/Person und je
+        Ausnahmetatbestand nicht unterschritten werden.
+
+    *   45,00 bis 1 070,00
+
+
+*    *   186
+
+    *
+    *   Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach
+        Beginn der sachlichen Bearbeitung
+        Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die
+        Rücknahme des Widerspruchs das Verfahren besonders rasch und mit
+        geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der
+        Billigkeit nicht widerspricht.
+
+    *   Gebühr in Höhe der Gebühr für
+        die beantragte oder angefochtene Amtshandlung, mindestens
+        jedoch 180,00 Euro; bei
+        gebührenfreien angefochtenen Amtshandlungen 180,00 Euro.
+
+
+*    *
     *   **B.**
 
     *   **Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs**
@@ -1429,7 +1632,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001130123]
+[^F1.774775_01_BJNR009800011BJNE001135123]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -1591,10 +1794,9 @@ Gebühren der Behörden im Landesbereich
 *    *   203
 
     *
-    *   Ortskundeprüfung
+    *   (weggefallen)
 
-    *   20,50 bis 57,30
-
+    *
 
 *    *   204
 
@@ -1894,7 +2096,7 @@ Gebühren der Behörden im Landesbereich
 *    *
     *
     *   Die Gebühren nach Nummern 221.1, 221.2 und 221.3 erhöhen sich, wenn
-        der Abruf von Daten gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-
+        der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-
         Bundesamt nicht möglich ist und die Daten im örtlichen
         Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
@@ -1929,7 +2131,7 @@ Gebühren der Behörden im Landesbereich
         oder eine Gebühr nach Nummer 221.2, 221.6 oder 221.8 nicht zusätzlich
         anfällt
 
-    *   27,00
+    *   30,00
 
 
 *    *   221.1.1
@@ -1937,29 +2139,51 @@ Gebühren der Behörden im Landesbereich
     *
     *   Internetbasierte Zulassung, internetbasierte Wiederzulassung außer im
         Fall der Nummer 221.7
-        Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten
-        um 0,30 Euro.
 
-    *   27,90
+    *   12,80
+
+
+*    *
+    *
+    *   Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten
+        um 0,30 Euro
+
+    *
+
+*    *   221.1.2
+
+    *
+    *   Tageszulassung eines Fahrzeugs
+
+    *   45,90
+
+
+*    *   221.1.3
+
+    *
+    *   Internetbasierte Tageszulassung
+
+    *   14,90
 
 
 *    *   221.2
 
     *
-    *   Umschreibung aus einem anderen Zulassungsbezirk und Zuteilung eines
-        neuen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der
-        Nummer 221.2.1
+    *   Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk
+        und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –,
+        außer im Fall der Nummer 221.2.1
 
-    *   27,00
+    *   27,10
 
 
 *    *   221.2.1
 
     *
-    *   Internetbasierte Umschreibung aus einem anderen Zulassungsbezirk und
-        Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –
+    *   Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen
+        Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne
+        Halterwechsel
 
-    *   28,20
+    *   12,10
 
 
 *    *   221.3
@@ -1990,61 +2214,60 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Wiederzulassung nach Außerbetriebsetzung innerhalb desselben
-        Zulassungsbezirks – ohne Halterwechsel mit nach § 14 Absatz 1 Satz 4
+        Zulassungsbezirks – ohne Halterwechsel mit nach § 16 Absatz 1 Satz 4
         FZV reserviertem Kennzeichen –, außer im Fall der Nummer 221.7
 
-    *   11,60
+    *   23,00
 
 
 *    *   221.7
 
     *
     *   Internetbasierte Wiederzulassung nach Außerbetriebsetzung innerhalb
-        desselben Zulassungsbezirks – ohne Halterwechsel und mit nach § 14
-        Absatz 1 Satz 4 reserviertem Kennzeichen –
-        Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten
-        um 0,30 Euro.
+        desselben Zulassungsbezirks – ohne Halterwechsel und mit nach § 16
+        Absatz 1 Satz 4 reserviertem Kennzeichen – Diese Gebühr erhöht sich
+        für einen Plakettenträger für Prüfplaketten um 0,30 Euro
 
-    *   12,50
+    *   10,60
 
 
 *    *   221.8
 
     *
     *   Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung
-        des bisherigen Kennzeichens – Halterwechsel –, außer im Fall der
-        Nummer 221.8.1
+        des bisherigen Kennzeichens – Halterwechsel -, außer im Fall der
+        Nummer 221.8.1.
 
-    *   16,70
+    *   24,20
 
 
 *    *   221.8.1
 
     *
     *   Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks
-        bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel –
+        bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel
 
-    *   17,00
+    *   10,40
 
 
 *    *   221.9
 
     *
-    *   Umschreibung aus einem anderen Zulassungsbezirk bei Beibehaltung des
-        bisherigen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall
-        der Nummer 221.9.1
+    *   Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk
+        bei Beibehaltung des bisherigen Kennzeichens – mit und ohne
+        Halterwechsel –, außer im Fall der Nummer 221.9.1
 
-    *   16,70
+    *   23,60
 
 
 *    *   221.9.1
 
     *
-    *   Internetbasierte Umschreibung aus einem anderen Zulassungsbezirk bei
-        Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel
-        –
+    *   Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen
+        Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit
+        und ohne Halterwechsel.
 
-    *   17,00
+    *   9,90
 
 
 *    *   221.10
@@ -2052,28 +2275,48 @@ Gebühren der Behörden im Landesbereich
     *
     *   Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines
         neuen Kennzeichens – Halterwechsel –, außer im Fall der Nummer
-        221\.10.1
+        221\.10.1.
 
-    *   27,00
+    *   26,20
 
 
 *    *   221.10.1
 
     *
     *   Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks
-        und Zuteilung eines neuen Kennzeichens – Halterwechsel –
-        Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten
-        um 0,30 Euro.
+        und Zuteilung eines neuen Kennzeichens – Halterwechsel – Diese Gebühr
+        erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro.
 
-    *   27,90
+    *   12,40
 
+
+*    *   221.11.1
+
+    *
+    *   Elektronischer Antrag einer juristischen Person auf Zulassung,
+        Wiederzulassung oder Außerbetriebsetzung, der über die
+        Großkundenschnittstelle beim Kraftfahrt-Bundesamt abgewickelt wird.
+
+    *   entsprechend der Nummern 221.1.1, 221.7 oder 224
+
+
+*    *   221.11.2
+
+    *
+    *   Soweit der Bearbeitungsaufwand aufgrund besonderer Umstände des
+        Einzelfalls nicht durch die Gebühr nach Nummer 221.11.1 i.V.m. den
+        Gebühren nach den Nummern 221.1.1, 221.7 oder 224 abgegolten ist, wird
+        zusätzlich der Zeitaufwand berechnet. Die Gebühr hierfür beträgt je
+        angefangene Viertelstunde Bearbeitungszeit 12,80 Euro.
+
+    *
 
 *    *   222
 
     *
     *   Zuteilung und Ausfertigung eines Vordrucks einer
         Zulassungsbescheinigung Teil II außerhalb eines Zulassungsverfahrens
-        Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3
+        Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3
         Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
         im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
@@ -2092,7 +2335,7 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3
+    *   Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3
         Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
         im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
@@ -2119,7 +2362,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   innerhalb oder außerhalb des Zulassungsbezirks
 
-    *   6,90
+    *   15,90
 
 
 *    *   224.2
@@ -2127,27 +2370,22 @@ Gebühren der Behörden im Landesbereich
     *
     *   internetbasiert
 
-    *   5,70
+    *   2,10
 
 
 *    *   224.3
 
     *
-    *   Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV gleichzeitig
-        mit der Außerbetriebsetzung außer bei internetbasierter
-        Außerbetriebsetzung
+    *   (weggefallen)
 
-    *   5,10
-
+    *
 
 *    *   224.4
 
     *
-    *   Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV zu einem
-        anderen Zeitpunkt als dem der Außerbetriebsetzung
+    *   (weggefallen)
 
-    *   10,20
-
+    *
 
 *    *   225
 
@@ -2169,7 +2407,7 @@ Gebühren der Behörden im Landesbereich
     *   Internetbasierte Änderung der Anschrift des Halters innerhalb
         desselben Zulassungsbezirks
 
-    *   11,40
+    *   4,30
 
 
 *    *   226
@@ -2214,7 +2452,7 @@ Gebühren der Behörden im Landesbereich
         gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer
         225\.
         Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten
-        gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich
+        gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich
         ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind,
         um 15,30 Euro.
         Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der
@@ -2696,7 +2934,7 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4
-        EmoG in Verbindung mit § 9a Absatz 4 FZV
+        EmoG in Verbindung mit § 14 Absatz 4 FZV
 
     *   11,00
 
@@ -3503,6 +3741,48 @@ Gebühren der Behörden im Landesbereich
         Billigkeit nicht widerspricht.
 
 
+*    *
+    *   **H.**
+
+    *   Autonome-Fahrzeuge-Genehmigungs- und-Betriebs-Verordnung (AFGBV) ****
+
+    *
+
+*    *   400a
+
+    *
+    *   Genehmigung des festgelegten Betriebsbereichs für Kraftfahrzeuge mit
+        autonomer Fahrfunktion
+
+    *
+
+*    *   400a.1
+
+    *
+    *   Prüfung eines Antrags zur Genehmigung eines festgelegten
+        Betriebsbereichs für den Einsatz von Kraftfahrzeugen mit autonomer
+        Fahrfunktion nach § 8 AFGBV einschließlich Begehung des
+        Betriebsbereichs, Sachverhaltsaufklärung, Abstimmung mit zu
+        beteiligenden Dritten, Prüfung der zugrundeliegenden Betriebserlaubnis
+        des Kraftfahrzeugs mit autonomer Fahrfunktion sowie Entscheidung über
+        den Antrag hinsichtlich Erteilung, Änderung, Verlängerung, Ablehnung
+        oder Aufhebung, einschließlich Eintragung
+
+    *   790,60 bis 79 060,00
+
+
+*    *   400a.2
+
+    *
+    *   Begutachtung und Prüfung von Nachträgen für einen festgelegten
+        Betriebsbereich für bereits genehmigte festgelegte Betriebsbereiche
+        sowie Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung
+        eines genehmigten festgelegten Betriebsbereichs
+        nach Personal- und Sachaufwand je Stunde und Person
+
+    *   49,00 bis 129,00
+
+
 
 ## 3. Abschnitt
 
@@ -4269,7 +4549,7 @@ Fahrzeugteileverordnung
 *    *
     *
     *   Begutachtung nach §§ 21 und 23 StVZO
-[^F796317_01_BJNR009800011BJNE001130123]
+[^F796317_01_BJNR009800011BJNE001135123]
         oder § 13 EG-FGV
 
     *
@@ -4289,17 +4569,17 @@ Fahrzeugteileverordnung
         1
 
     *   Hauptuntersuchung (HU)
-[^F796317_03_BJNR009800011BJNE001130123]
+[^F796317_03_BJNR009800011BJNE001135123]
         nach § 29 StVZO
-[^F796317_04_BJNR009800011BJNE001130123]
+[^F796317_04_BJNR009800011BJNE001135123]
         ,
-[^F796317_05_BJNR009800011BJNE001130123]
+[^F796317_05_BJNR009800011BJNE001135123]
         ,
-[^F796317_06_BJNR009800011BJNE001130123]
+[^F796317_06_BJNR009800011BJNE001135123]
         ,
-[^F796317_07_BJNR009800011BJNE001130123]
+[^F796317_07_BJNR009800011BJNE001135123]
         ,
-[^F796317_08_BJNR009800011BJNE001130123]
+[^F796317_08_BJNR009800011BJNE001135123]
         ,
 
     *   Sicherheitsprüfung
@@ -4310,7 +4590,7 @@ Fahrzeugteileverordnung
 
 *    *   Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV
         und GA
-[^F796317_02_BJNR009800011BJNE001130123]
+[^F796317_02_BJNR009800011BJNE001135123]
         nach § 23 StVZO
         , 6
 
@@ -4855,22 +5135,22 @@ Fahrzeugteileverordnung
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001130123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+[^F1.774775_01_BJNR009800011BJNE001135123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
     EG- FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F796317_01_BJNR009800011BJNE001130123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F796317_01_BJNR009800011BJNE001135123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F796317_02_BJNR009800011BJNE001130123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F796317_02_BJNR009800011BJNE001135123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
     zuzüglich dem 0,6- Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F796317_03_BJNR009800011BJNE001130123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F796317_03_BJNR009800011BJNE001135123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -4878,11 +5158,11 @@ Fahrzeugteileverordnung
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F796317_04_BJNR009800011BJNE001130123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F796317_04_BJNR009800011BJNE001135123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F796317_05_BJNR009800011BJNE001130123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F796317_05_BJNR009800011BJNE001135123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -4891,16 +5171,16 @@ Fahrzeugteileverordnung
     Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage
     VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der
     Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
-[^F796317_06_BJNR009800011BJNE001130123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F796317_06_BJNR009800011BJNE001135123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F796317_07_BJNR009800011BJNE001130123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F796317_07_BJNR009800011BJNE001135123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F796317_08_BJNR009800011BJNE001130123]: 
+[^F796317_08_BJNR009800011BJNE001135123]: 
 (zu Gebühren-Nummer 263.1.1)
 
 ## Anhang Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO

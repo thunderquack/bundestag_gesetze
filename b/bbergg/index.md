@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.6.2021 I 1760
+:   Art. 4 G v. 22.3.2023 I Nr. 88
 
 
 ## Eingangsformel
@@ -2083,9 +2083,9 @@ Rahmenbetriebsplan einen zur Auslegung geeigneten Plan beizufügen.
 (3) Verfügen die beteiligten Behörden zu den nach Absatz 2 Satz 2 und
 3 zu machenden Angaben über zweckdienliche Informationen, so
 unterrichten sie den Unternehmer und stellen ihm die Informationen auf
-Verlangen zur Verfügung. Das gilt insbesondere für Informationen aus
-einem vorausgegangenen Raumordnungsverfahren; die dafür zuständige
-Behörde hat die Unterlagen aus diesem Verfahren, die für die
+Verlangen zur Verfügung. Das gilt insbesondere für Informationen einer
+vorausgegangenen Raumverträglichkeitsprüfung; die dafür zuständige
+Behörde hat die Unterlagen aus dieser Prüfung, die für die
 Umweltverträglichkeitsprüfung von Bedeutung sein können, der nach
 Absatz 1 Satz 2 zuständigen Behörde zur Verfügung zu stellen.
 

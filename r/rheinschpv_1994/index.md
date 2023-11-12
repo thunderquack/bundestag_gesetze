@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl II: 1994, 3816 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 1 iVm Anlage 1 V v. 15.9.2020 II 699
+:   Art. 1 § 1 Abs. 1 Nr. 2 iVm Abs. 2 Nr. 2 (Anlage 2 Anlageband) V v. 5.4.2023 II Nr. 105
 
 Änderung durch
-:   Art. 1 Nr. 1 iVm Anlage 1 bis 3 u. Art. 2 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 iVm Anlage 1, 2 u. 3 V v. 16.2.2022 II 82 (Nr. 4) mWv 1.6.2022 bzw. 25.4.2022 noch nicht berücksichtigt
+:   Art. 1 Nr. 1 iVm Anlage 1 bis 5 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -180,6 +177,11 @@ Zuletzt geändert durch
     *   Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze
 
 
+*    *   § 1.25
+
+    *   Anordnungen, Erlaubnisse und Genehmigungen
+
+
 *    *
 
 *    *
@@ -248,7 +250,7 @@ Zuletzt geändert durch
 
 *    *   § 3.02
 
-    *   Lichter und Signalleuchten
+    *   Lichter
 
 
 *    *   § 3.03
@@ -415,8 +417,8 @@ Zuletzt geändert durch
 
 *    *   § 3.28
 
-    *   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der
-        Wasserstraße ausführen
+    *   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten im
+        Fahrwasser ausführen
 
 
 *    *   § 3.29
@@ -1168,7 +1170,7 @@ Zuletzt geändert durch
 
 *    *   § 14.12
 
-    *   Lobith
+    *   (weggefallen)
 
 
 *    *   § 14.13
@@ -1534,7 +1536,10 @@ ab) "schnelles Schiff": ein Fahrzeug mit Maschinenantrieb, ausgenommen ein
     ist;
 
 
-ac) (weggefallen)
+ac) „Inland AIS Gerät“: ein Gerät, das auf einem Fahrzeug eingebaut ist
+    und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs-
+    und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt
+    wird;
 
 
 ad) „LNG-System“:
@@ -1560,33 +1565,37 @@ ag) “festverbundener Tank” ein mit dem Schiff verbundener Tank, wobei die
     unabhängige Wandungen gebildet sein können.
 
 
-ah)[^bjnr338160994bjne003407126_01_BJNR338160994BJNE003408119]
- „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
-    Binnenschiffe Ausgabe 2021/1
-    . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein
-    Rheinuferstaat oder Belgien zu verstehen.
+ah) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
+    Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter
+    Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
+
+
+ai) „ES-RIS“ der Europäische Standard für
+    Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der
+    Anwendung des ES-RIS ist unter Mitgliedstaat ein Rheinuferstaat oder
+    Belgien zu verstehen.
 
 
 
 
-    Europäischer Standard der technischen Vorschriften für Binnenschiffe
-    (ES-TRIN), Edition 2021/1, vom Europäischen Ausschuss zur Ausarbeitung
-    von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen mit
-    Beschluss 2020-II-1 vom 13. Oktober 2020.
-[^bjnr338160994bjne003407126_01_BJNR338160994BJNE003408119]: 
 
 #### § 1.02 Schiffsführer
 
 
-1.  Jedes Fahrzeug sowie jeder Schwimmkörper muß unter der Führung einer
-    hierfür geeigneten Person stehen. Diese wird als "Schiffsführer"
-    bezeichnet. Seine Eignung gilt als vorhanden, wenn er ein Rheinpatent
-    oder ein anderes nach der Rheinpatentverordnung zugelassenes Zeugnis
-    für die Fahrzeugart und die zu befahrende Strecke besitzt. Sind nach
-    der Verordnung über das Schiffspersonal auf dem Rhein mehrere
-    Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der
-    Schiffsführer, unter dessen Führung das Fahrzeug steht, ein
-    Streckenzeugnis für den betreffenden Streckenabschnitt.
+1.  Jedes Fahrzeug sowie jeder Schwimmkörper muss unter der Führung einer
+    hierfür geeigneten Person stehen. Diese wird als „Schiffsführer“
+    bezeichnet. Ihre Eignung gilt als vorhanden, wenn sie ein nach der
+    Rheinschiffspersonalverordnung zur Schiffsführung des jeweiligen
+    Fahrzeuges gültiges Befähigungszeugnis als Schiffsführer besitzt.
+    Befährt der Schiffsführer einen in § 13.03 der
+    Rheinschiffspersonalverordnung genannten Streckenabschnitt, muss er
+    zudem die hierfür nach dieser Vorschrift erforderliche besondere
+    Berechtigung besitzen.
+
+    Sind nach der Rheinschiffspersonalverordnung mehrere Schiffsführer für
+    das Fahrzeug vorgeschrieben, benötigt nur der Schiffsführer, unter
+    dessen Führung das Fahrzeug steht, die besondere Berechtigung gemäß §
+    13\.03 der Rheinschiffspersonalverordnung.
 
 
 2.  Jeder Verband muß gleichfalls unter der Führung eines hierfür
@@ -1666,12 +1675,22 @@ ah)[^bjnr338160994bjne003407126_01_BJNR338160994BJNE003408119]
     Bestimmungen dieser Verordnung verantwortlich.
 
 
-4.  Die Mitglieder der diensttuenden Mindestbesatzung nach der
-    Rheinschiffsuntersuchungsordnung und sonstige Personen an Bord, die
-    vorübergehend selbständig den Kurs und die Geschwindigkeit des
+4.  Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung nach
+    der Rheinschiffspersonalverordnung und sonstiger Personen an Bord, die
+    vorübergehend selbstständig den Kurs und die Geschwindigkeit des
     Fahrzeugs bestimmen, dürfen nicht durch Übermüdung, Einwirkung von
     Alkohol, Medikamenten, Drogen oder aus einem anderen Grund
     beeinträchtigt sein.
+
+    Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
+    einer Alkoholmenge im Körper, die zu einer solchen
+    Blutalkoholkonzentration führt, oder bei einem gleichwertigen
+    Alkoholgehalt in der Atemluft ist es den Mitgliedern der
+    Mindestbesatzung verboten, ihren Dienst zu verrichten.
+
+    Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an
+    Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit
+    des Fahrzeugs bestimmen.
 
     Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
     einer Alkoholmenge im Körper, die zu einer solchen
@@ -1820,10 +1839,11 @@ Wasserstraße und der Anlagen angepasst sein.
 
 
 3.  Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem
-    Schiffsattest nach der Rheinschiffsuntersuchungsordnung versehen ist,
-    Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen
-    und Besatzung und Betrieb mit den Vorschriften der
-    Rheinschiffsuntersuchungsordnung übereinstimmen.
+    Schiffsattest nach der Rheinschiffsuntersuchungsordnung oder einem
+    nach dieser Verordnung als gleichwertig anerkannten Zeugnis versehen
+    ist, Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes oder
+    des Zeugnisses entsprechen, und Besatzung und Betrieb mit den
+    Vorschriften der Rheinschiffspersonalverordnung übereinstimmen.
 
 
 4.  Unbeschadet der Nummer 3 müssen die unter Nummer 44 im Schiffsattest
@@ -1832,8 +1852,6 @@ Wasserstraße und der Anlagen angepasst sein.
     Kinder an Bord vorhanden sein. Für Kinder bis zu 30 kg Körpergewicht
     oder 6 Jahren Alter sind nur Feststoffwesten nach den in Artikel 13.08
     Nummer 2 ES-TRIN genannten Normen zulässig.
-
-
 
 
 5.  Sind die nach Artikel 14.02 Nummer 4 ES-TRIN geforderten Geländer
@@ -1869,8 +1887,6 @@ Wasserstraße und der Anlagen angepasst sein.
     Geländer sofort wieder zu schließen oder zu setzen.
 
 
-
-
 6.  Die Mitglieder der Besatzung und die sonstigen Personen an Bord müssen
     Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN tragen
 
@@ -1894,7 +1910,6 @@ Wasserstraße und der Anlagen angepasst sein.
 *   Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt
     werden und nur, wenn durch den übrigen Schiffsverkehr keine Gefährdung
     zu erwarten ist.
-
 
 
 
@@ -1924,13 +1939,18 @@ Wasserstraße und der Anlagen angepasst sein.
 
 
 5.  Auf jedem in Fahrt befindlichen schnellen Schiff muss das Ruder von
-    einer Person, die das für die zu befahrende Strecke erforderliche
-    Patent nach der Rheinpatentverordnung und das Radarpatent besitzt,
-    besetzt sein. Eine zweite Person, die ebenfalls das für die zu
-    befahrende Strecke erforderliche Patent nach der Rheinpatentverordnung
-    und das Radarpatent besitzt, muss sich im Steuerhaus befinden,
-    ausgenommen beim An- und Ablegen sowie in den Schleusenvorhäfen und in
-    den Schleusen.
+    einer Person besetzt sein, die ein nach der
+    Rheinschiffspersonalverordnung gültiges Befähigungszeugnis als
+    Schiffsführer und die besondere Berechtigung für Radarfahrten sowie
+    erforderlichenfalls eine besondere Berechtigung für das Befahren von
+    Abschnitten des Rheins, die mit besonderen Risiken ausgewiesen wurden,
+    besitzt.
+
+    Eine zweite Person, die ebenfalls ein Befähigungszeugnis als
+    Schiffsführer und die oben genannten erforderlichen besonderen
+    Berechtigungen besitzt, muss sich im Steuerhaus befinden, ausgenommen
+    beim An- und Ablegen sowie in den Schleusenvorhäfen und in den
+    Schleusen.
 
 
 
@@ -1938,10 +1958,20 @@ Wasserstraße und der Anlagen angepasst sein.
 
 #### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen an Bord
 
-Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung
-müssen sich, soweit sie auf Grund besonderer Bestimmungen
-vorgeschrieben sind, an Bord befinden. Sie sind auf Verlangen den
-Bediensteten der zuständigen Behörden auszuhändigen.
+
+1.  Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung
+    müssen sich, soweit sie auf Grund besonderer Bestimmungen
+    vorgeschrieben sind, an Bord befinden. Sie sind auf Verlangen den
+    Bediensteten der zuständigen Behörden auszuhändigen.
+
+
+2.  Bestimmte Urkunden und sonstige Unterlagen nach Anlage 13 dieser
+    Verordnung dürfen gemäß den Bedingungen nach Anlage 13 dieser
+    Verordnung in einer jederzeit lesbaren elektronischen Textfassung zur
+    Verfügung gestellt werden.
+
+
+
 
 
 #### § 1.10a Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord
@@ -2587,29 +2617,23 @@ Begriffsbestimmungen und Anwendungen
 ##### § 3.02 Lichter und Signalleuchten
 
 
-1.  Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung
-    vorgeschriebenen Lichter von allen Seiten sichtbar sein und ein
-    gleichmäßiges, ununterbrochenes Licht werfen.
+1.  Soweit nichts anderes bestimmt ist, müssen die Lichter von allen
+    Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht
+    werfen.
 
 
-2.  Es dürfen nur Signalleuchten verwendet werden,
-
-    a)  deren Gehäuse, Zubehör und Lichtquellen das Zulassungskennzeichen
-        tragen, das in den Vorschriften über die Farbe und Lichtstärke der
-        Bordlichter sowie die Zulassung von Signalleuchten in der
-        Rheinschiffahrt vorgeschrieben ist und
+2.  Signalleuchten, ihre Gehäuse und ihr Zubehör müssen den Vorschriften
+    des Artikels 7.05 Nummer 1 ES-TRIN entsprechen.
 
 
-    b)  deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den
-        Bestimmungen dieser Verordnung entsprechen.
+3.  Lichter müssen in horizontaler Ausstrahlung, Farbe und Stärke den
+    Anforderungen dieser Verordnung entsprechen.
 
 
-
-
-
-3.  Die Nachtbezeichnung stilliegender nicht motorisierter Fahrzeuge
-    braucht nicht Nummer 2 zu entsprechen; sie muß jedoch bei klarer Sicht
-    und dunklem Hintergrund eine Tragweite von etwa 1.000,00 m haben.
+4.  Die Nachtbezeichnung stillliegender, nicht motorisierter Fahrzeuge
+    braucht nicht den Nummern 2 und 3 zu entsprechen; sie muss jedoch bei
+    klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1000 m
+    haben.
 
 
 
@@ -4693,7 +4717,7 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     a)  sie mit einem Radargerät und einem Gerät zur Anzeige der
         Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 Nummer 1 ES-TRIN
         ausgerüstet sind. Das gilt auch für Inland ECDIS Geräte, die unter
-        Verwendung von Inland ECDIS beim Steuern des Fahrzeugs mit
+        Verwendung von Inland ECDIS beim Steuern des Fahrzeuges mit
         überlagertem Radarbild betrieben werden können (Navigationsmodus). Die
         Geräte müssen in gutem Betriebszustand sein und einem von der
         zuständigen Behörde eines Rheinuferstaates oder Belgiens für den Rhein
@@ -4702,9 +4726,9 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
         Wendegeschwindigkeit ausgerüstet zu sein;
 
 
-    b)  sich an Bord eine Person befindet, die das Radarpatent oder ein
-        anderes nach der Verordnung über die Erteilung von Radarpatenten
-        anerkanntes Zeugnis besitzt; bei guter Sicht kann jedoch Radar zu
+    b)  sich an Bord eine Person befindet, die eine nach der
+        Rheinschiffspersonalverordnung gültige besondere Berechtigung für
+        Radarfahrten besitzt; bei guter Sicht kann jedoch Radar zu
         Übungszwecken verwendet werden, auch wenn sich eine solche Person
         nicht an Bord befindet.
 
@@ -4809,15 +4833,18 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
 
 3.  Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen,
     ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im
-    Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das
-    mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und
-    dieses zusammen mit einer aktuellen elektronischen
-    Binnenschifffahrtskarte nutzen.
+    Informationsmodus oder einem vergleichbaren Gerät zur Anzeige
+    elektronischer Binnenschifffahrtskarten, das mit dem Inland AIS Gerät
+    verbunden sein muss, ausgestattet sein und dieses zusammen mit einer
+    aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland
+    ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I
+    „Elektronisches Kartendarstellungs- und Informationssystem für die
+    Binnenschifffahrt“ des ES-RIS entsprechen.
 
 
-4.  Es müssen folgende Daten gemäß Kapitel 2 des Standards
-    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt
-    werden:
+4.  Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II
+    „Standard für Verfolgungs- und Aufspürungssysteme in der
+    Binnenschifffahrt“ des ES-RIS übermittelt werden:
 
 
     a)  User Identifier (Maritime Mobile Service Identity, MMSI);
@@ -4826,12 +4853,13 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     b)  Schiffsname;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
-        Aufspürung in der Binnenschifffahrt;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
+        „Standard für Verfolgungs- und Aufspürungssysteme in der
+        Binnenschifffahrt“ des ES-RIS;
 
 
-    d)  einheitliche europäische Schiffsnummer (ENI), oder, für die
-        Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
+    d)  einheitliche europäische Schiffsnummer (ENI) oder für Seeschiffe,
+        sofern keine ENI erteilt wurde, die IMO Nummer;
 
 
     e)  Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
@@ -4858,8 +4886,7 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
 
 
     l)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
-        Genauigkeit von 1 m gemäß
-        Anlage 11;
+        Genauigkeit von 1 m gemäß Anlage 11;
 
 
     m)  Rufzeichen.
@@ -4878,8 +4905,9 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
-        Aufspürung in der Binnenschifffahrt;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
+        „Standard für Verfolgungs- und Aufspürungssysteme in der
+        Binnenschifffahrt“ des ES-RIS;
 
 
     d)  Navigationsstatus gemäß Anlage 11;
@@ -6368,13 +6396,14 @@ b)  die Fahrzeuge, denen die zuständige Behörde das Vorrecht ausdrücklich
 ##### § 6.32 Mit Radar fahrende Fahrzeuge
 
 
-1.  Fahrzeuge dürfen nur mit Radar fahren, wenn sich eine Person, die
-    neben dem für die Fahrzeugart und die zu befahrende Strecke
-    erforderlichen Rheinpatent oder neben einem anderen nach der
-    Rheinpatentverordnung zugelassenen Befähigungszeugnis das Radarpatent
-    nach der Verordnung über die Erteilung von Radarpatenten besitzt, und
-    eine zweite Person, die mit der Verwendung von Radar in der
-    Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten.
+1.  Fahrzeuge dürfen nur mit Radar fahren, wenn sich eine Person, die ein
+    nach der Rheinschiffspersonalverordnung gültiges Befähigungszeugnis
+    als Schiffsführer sowie die besondere Berechtigung für Radarfahrten
+    und erforderlichenfalls eine besondere Berechtigung für das Befahren
+    von Abschnitten des Rheins die mit besonderen Risiken ausgewiesen
+    wurden, besitzt, und eine zweite Person, die mit der Verwendung von
+    Radar in der Schifffahrt vertraut ist, ständig im Steuerhaus
+    aufhalten.
 
     Wenn im Schiffsattest vermerkt ist, dass das Fahrzeug über einen
     Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht
@@ -6908,14 +6937,14 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 2.  Die einsatzfähige Wache wird durch ein Mitglied der Besatzung
     sichergestellt, das
 
-    a)  bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber einer
-        Sachkundebescheinigung nach § 4a.02 der Verordnung über das
-        Schiffspersonal auf dem Rhein ist,
+    a)  bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber eines
+        Befähigungszeugnisses nach § 15.02 der Rheinschiffspersonalverordnung
+        ist,
 
 
     b)  bei Fahrzeugen nach Nummer 1 Buchstabe b Inhaber einer
-        Sachkundebescheinigung nach § 4.01 der Verordnung über das
-        Schiffspersonal auf dem Rhein ist.
+        Sachkundebescheinigung nach § 14.01 der Rheinschiffspersonalverordnung
+        ist.
 
 
 
@@ -8264,9 +8293,9 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 
 
 3.  Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn sich an
-    Bord eine Person befindet, die ein nach der Verordnung über das
-    Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig
-    anerkanntes Radarzeugnis besitzt.
+    Bord eine Person befindet, die die nach der
+    Rheinschiffspersonalverordnung gültige besondere Berechtigung für
+    Radarfahrten besitzt.
 
 
 4.  Ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110
@@ -8897,7 +8926,8 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 
 1.  Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor
     der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch
-    gemäß der im Standard ERI 1.3 festgelegten ERINOT Nachricht melden:
+    gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden
+    in der Binnenschifffahrt“ des ES-RIS melden:
 
     a)  Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN
         unterliegt;
@@ -10515,11 +10545,6 @@ Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
 
-
-
-#### § 15.09 (weggefallen)
-
--
 
 
 #### § 15.09 Anstrich und Außenreinigung der Fahrzeuge
@@ -14227,18 +14252,60 @@ auf dem Fahrzeug“
 
 2.  **Bezugspunkt der Positionsinformation auf dem Fahrzeug**
 
-    Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit
-    von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
+    2.1 Bei Inland AIS Geräten, die vor dem 1. Dezember 2015 eingebaut wurden:
+
+        a)  Für ein Fahrzeug
+
+            Der Schiffsführer muss die Werte für A, B, C und D mit einer
+            Genauigkeit von 1 m eingeben.
+
+            Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+            ![bgbl2_2022_j0090_0010.jpg](bgbl2_2022_j0090_0010.jpg)
+            Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
 
 
-    *        *            ![bgbl2_2014_j0742_0010.jpg](bgbl2_2014_j0742_0010.jpg)
+        b)  Für einen Verband
 
-    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+            Der Schiffsführer muss die Werte für A, B, C und D mit einer
+            Genauigkeit von 1 m und die Werte für W und L mit einer Genauigkeit
+            von 0,1 m eingeben.
+
+            Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+            ![bgbl2_2022_j0090_0020.jpg](bgbl2_2022_j0090_0020.jpg)
+            Erläuterungen zu den W, L, A, B, C und D Werten für einen Verband
 
 
-    *        *            ![bgbl2_2014_j0742_0020.jpg](bgbl2_2014_j0742_0020.jpg)
 
-    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband
+
+
+    2.2 Bei Inland AIS Geräten, die nach dem 1. Dezember 2015 eingebaut
+        wurden:
+
+        a)  Für ein Fahrzeug
+
+            Der Schiffsführer muss die Werte für A, B, C und D mit einer
+            Genauigkeit von 0,1 m eingeben.
+
+            Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+            ![bgbl2_2022_j0090_0030.jpg](bgbl2_2022_j0090_0030.jpg)
+            Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+
+        b)  Für einen Verband
+
+            Der Schiffsführer muss die Werte für EA, EB, EC und ED mit einer
+            Genauigkeit von 0,1 m eingeben.
+
+            Das Maß EA ist in Richtung des Bugs ausgerichtet.
+
+            ![bgbl2_2022_j0091_0010.jpg](bgbl2_2022_j0091_0010.jpg)
+            Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband
+
+
+
 
 
 
@@ -14316,13 +14383,16 @@ Bezeichnung:
 
 
 
-#### Anlage 13 VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 RHEINSCHPV
+#### Anlage 13 Verzeichnis der mitzuführenden Urkunden und Sonstigen Unterlagen nach § 1.10 RheinSchPV
+
+(Fundstelle: Anlageband zum BGBl. 2023 II Nr. 105 v. 13.04.2023, S. 47
+- 51)
 
 In der Spalte „Rechtsgrundlage“ der nachfolgenden Tabelle wird auf die
 folgenden Vorschriften, Übereinkommen und Verwaltungsvereinbarungen
 verwiesen:
 
--   Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
+-   Rheinschiffspersonalverordnung (RheinSchPersV),
 
 
 -   Rheinschiffsuntersuchungsordnung (RheinSchUO),
@@ -14348,6 +14418,17 @@ verwiesen:
 
 
 
+In der vorletzten Spalte der nachfolgenden Tabelle wird angegeben, ob
+die Aushändigung der an Bord mitzuführenden Urkunden und sonstigen
+Unterlagen auf einem elektronischen Träger autorisiert ist oder nicht.
+
+Die letzte Spalte „Elektronisches Format“ der nachfolgenden Tabelle
+präzisiert das elektronische Format, in dem Urkunden und sonstige
+Unterlagen in elektronischer Form ausgehändigt werden können. Das in
+der nachfolgenden Tabelle angegebene PDF-Format entspricht dem in der
+internationalen Norm ISO 32000-1 : 2008 definierten Format. Das
+elektronische Format PDF/A in der folgenden Tabelle entspricht dem in
+der internationalen Norm ISO 19005-1 : 2005 festgelegten Format.
 
 
 *    *   Kategorie
@@ -14356,9 +14437,17 @@ verwiesen:
 
     *   Rechtsgrundlage
 
+    *   Elektronisch lesbare Textfassung von mitzuführenden Urkunden und
+        sonstigen Unterlagen
+
+    *   Geeignetes elektronisches Format
+
 
 *    *   **1. Fahrzeuge**
 
+    *
+    *
+    *
 
 *    *   1.1
 
@@ -14367,79 +14456,117 @@ verwiesen:
 
     *   RheinSchUO § 1.04
 
+    *   nicht zugelassen
+
+    *
 
 *    *   1.2
 
     *   die Rheinschifffahrtszugehörigkeitsurkunde
 
-    *   Beschluss ZKR 2015-II-10
+    *   Beschluss
+        ZKR 2015-II-10
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   1.3
 
     *   der Eichschein des Fahrzeugs
 
-    *   Übereinkommen vom 15. Februar 1966
+    *   Übereinkommen vom
+        15\. Februar 1966
 
+    *   nicht zugelassen
+
+    *
 
 *    *   **2. Besatzung**
 
+    *
+    *
+    *
 
-*    *   2.1
+*    *   2.1.1a
 
-    *   ein für die zu befahrende Strecke nach der Verordnung über das
-        Schiffspersonal auf dem Rhein erteiltes Rheinpatent oder als
-        gleichwertig anerkanntes Schiffsführerzeugnis und für die anderen
-        Mitglieder der Besatzung das ordnungsgemäß ausgefüllte
-        Schifferdienstbuch oder ein nach dieser Verordnung erteiltes großes
-        Patent oder als gleichwertig anerkanntes Schiffsführerzeugnis; bei als
-        gleichwertig anerkannten Schiffsführerzeugnissen hat der Schiffsführer
-        auf bestimmten Streckenabschnitten zusätzlich das nach der Verordnung
-        über das Schiffspersonal auf dem Rhein geforderte Streckenzeugnis
-        mitzuführen
+    *   Das Befähigungszeugnis als Schiffsführer, das gegebenenfalls die
+        notwendigen besonderen Berechtigungen umfasst, und das nach der
+        Rheinschiffspersonalverordnung gültig ist, mit Ausnahme des
+        Sportpatents, des Behördenpatents oder des vorläufigen Rheinpatents
 
     *   RheinSchPersV § 3.02
 
+    *   zugelassen
+
+    *   PDF/A-Format
+
+
+*    *   2.1.1b
+
+    *   Das Sportpatent, das Behördenpatent oder das vorläufige Rheinpatent
+
+    *   RheinSchPersV § 3.02
+        (§ 12.08 für das vorläufige Rheinpatent)
+
+    *   nicht zugelassen
+
+    *
+
+*    *   2.1.2
+
+    *   Für die anderen Mitglieder der Besatzung ein ordnungsgemäß
+        ausgefülltes, gültiges Schifferdienstbuch, mit dem (den)
+        entsprechenden Befähigungszeugnis(sen)
+
+    *   RheinSchPersV § 3.02
+
+    *   nicht zugelassen
+
+    *
 
 *    *   2.2
 
-    *   das ordnungsgemäß ausgefüllte Bordbuch, einschließlich der
-        Bescheinigung nach Anlage A4 der Verordnung über das Schiffspersonal
-        auf dem Rhein oder einer Kopie der Seite mit den Eintragungen der
-        Fahrbeziehungsweise Ruhezeiten aus dem Bordbuch des Schiffes, auf dem
-        die letzte Reise des Besatzungsmitgliedes stattgefunden hat; auf
-        Fahrzeugen, die über ein gemäß Anlage O zur
-        Rheinschiffsuntersuchungsordnung auf dem Rhein anerkanntes
-        Gemeinschaftszeugnis oder Unionszeugnis verfügen, kann statt des von
-        einer zuständigen Behörde eines Rheinuferstaates oder Belgiens
-        ausgestellten Bordbuches ein von einer zuständigen Behörde eines
-        Drittstaates ausgestelltes und von der ZKR anerkanntes Bordbuch
-        mitgeführt werden; anerkannte Bordbücher sind mindestens in einer der
-        Amtssprachen der ZKR zu führen
+    *   das ordnungsgemäß ausgefüllte Bordbuch einschließlich der
+        Bescheinigung nach Anlage 8 der Rheinschiffspersonalverordnung oder
+        einer Kopie der Seite mit den Eintragungen der Fahrbeziehungsweise
+        Ruhezeiten aus dem Bordbuch des Schiffes, auf dem die letzte Reise des
+        Besatzungsmitgliedes stattgefunden hat; auf Fahrzeugen, die über ein
+        gemäß Anlage O zur Rheinschiffsuntersuchungsordnung auf dem Rhein
+        anerkanntes Gemeinschaftszeugnis oder Unionszeugnis verfügen, kann
+        statt des von einer zuständigen Behörde eines Rheinuferstaates oder
+        Belgiens ausgestellten Bordbuches ein von einer zuständigen Behörde
+        eines Drittstaates ausgestelltes und von der ZKR anerkanntes Bordbuch
+        mitgeführt werden.
 
-    *   RheinSchPersV § 3.13
+    *   RheinSchPersV § 18.04
 
+    *   nicht zugelassen
+
+    *
 
 *    *   2.3
 
     *   die Bescheinigung über die Ausgabe der Bordbücher
 
-    *   RheinSchPersV § 3.13
+    *   RheinSchPersV § 18.04
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   2.4
 
-    *   ein nach der Verordnung über das Schiffspersonal auf dem Rhein
-        erteiltes oder als gleichwertig anerkanntes Radarzeugnis; dieses
-        Dokument ist an Bord nicht erforderlich, wenn die Rheinpatentkarte die
-        Eintragung „Radar“ oder ein anderes Schiffsführerzeugnis, das nach
-        dieser Verordnung zugelassen ist, die entsprechende Eintragung
-        enthält; wenn die Zentralkommission für die Rheinschifffahrt das
-        Schiffsführerzeugnis und das Radarzeugnis eines Staates als
-        gleichwertig anerkannt hat, wird das Radarzeugnis nicht gefordert,
-        sofern das Schiffsführerzeugnis einen entsprechenden Vermerk enthält
+    *   die nach der Rheinschiffspersonalverordnung gültige besondere
+        Berechtigung für Radarfahrten
 
-    *   RheinSchPersV § 6.03
+    *   RheinSchPersV § 13.02
+
+    *   zugelassen
+
+    *   PDF/A-Format
 
 
 *    *   2.5
@@ -14448,13 +14575,21 @@ verwiesen:
 
     *   Regionale Vereinbarung über den Binnenschifffahrtsfunk Anhang 5
 
+    *   nicht zugelassen
+
+    *
 
 *    *   2.6
 
-    *   die Bescheinigungen, die für das Sicherheitspersonal auf
-        Fahrgastschiffen vorgeschrieben sind
+    *   die Befähigungszeugnisse für das Sicherheitspersonal auf
+        Fahrgastschiffen
 
-    *   RheinSchPersV § 5.01ff
+    *   RheinSchPersV
+        § 16.01 ff
+
+    *   Ausschließlich für Sachkundige für Fahrgastschifffahrt akzeptiert
+
+    *   PDF/A-Format
 
 
 *    *   2.7
@@ -14463,11 +14598,18 @@ verwiesen:
         Bescheinigungen des Schiffsführers und der Besatzungsmitglieder, die
         am Bunkervorgang beteiligt sind
 
-    *   RheinSchPersV § 4a.02
+    *   RheinSchPersV § 15.02
+
+    *   zugelassen
+
+    *   PDF/A-Format
 
 
 *    *   **3. Fahrtgebiete**
 
+    *
+    *
+    *
 
 *    *   3.1
 
@@ -14476,6 +14618,10 @@ verwiesen:
         werden darf
 
     *   ES-TRIN Artikel 23.01
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   3.2
@@ -14489,16 +14635,27 @@ verwiesen:
 
     *   ES-TRIN Artikel 28.04 Nummer 2 Buchstabe c
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   **4. Navigations- und Informationsgeräte**
 
+    *
+    *
+    *
 
 *    *   4.1
 
     *   die Bescheinigung über Einbau und Funktion der Radaranlage
 
-    *   ES-TRIN Artikel 7.06 Nummer 1
-        ES-TRIN Anlage 5 Abschnitt III Artikel 9 und Abschnitt VI
+    *   ES-TRIN Artikel 7.06 Nummer 1 ES-TRIN Anlage 5 Abschnitt III Artikel 9
+        und Abschnitt VI
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   4.2
@@ -14508,6 +14665,10 @@ verwiesen:
     *   ES-TRIN Artikel 7.06 Nummer 1
         ES-TRIN Anlage 5 Abschnitt III Artikel 9 und Abschnitt VI
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   4.3
 
@@ -14515,6 +14676,10 @@ verwiesen:
 
     *   ES-TRIN Artikel 7.06 Nummer 3
         ES-TRIN Anlage 5 Abschnitt IV Artikel 2 Nummer 9
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   4.4
@@ -14524,15 +14689,26 @@ verwiesen:
 
     *   ES-TRIN Anlage 5 Abschnitt V Artikel 1 und 2 Nummer 6
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   4.5
 
     *   die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“
 
     *
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   **5. Ausrüstungen**
 
+    *
+    *
+    *
 
 *    *   5.1
 
@@ -14540,6 +14716,10 @@ verwiesen:
         betriebenen Steuereinrichtungen
 
     *   ES-TRIN Artikel 6.09 Nummer 5
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   5.2
@@ -14549,6 +14729,10 @@ verwiesen:
 
     *   ES-TRIN Artikel 7.12 Nummer 12
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.3
 
@@ -14556,6 +14740,10 @@ verwiesen:
         Schiffsdampfkessel und sonstigen Druckbehälter
 
     *   ES-TRIN Artikel 8.01 Nummer 2
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   5.4
@@ -14565,12 +14753,20 @@ verwiesen:
 
     *   ES-TRIN Artikel 9.01 Nummer 3
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.5
 
     *   die Unterlagen über elektrische Anlagen
 
     *   ES-TRIN Artikel 10.01 Nummer 2
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   5.6
@@ -14579,12 +14775,20 @@ verwiesen:
 
     *   ES-TRIN Artikel 13.02 Nummer 3 Buchstabe a
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.7
 
     *   die Prüfkennzeichnung der tragbaren Feuerlöscher
 
     *   ES-TRIN Artikel 13.03 Nummer 5
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   5.8
@@ -14594,6 +14798,10 @@ verwiesen:
     *   ES-TRIN Artikel 13.04 Nummer 8
         ES-TRIN Artikel 13.05 Nummer 9
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.9
 
@@ -14601,12 +14809,20 @@ verwiesen:
 
     *   ES-TRIN Artikel 14.12 Nummer 6, 7 und 9
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.10
 
     *   die Bescheinigung über die Prüfung der Flüssiggasanlagen
 
     *   ES-TRIN Artikel 17.13
+
+    *   zugelassen
+
+    *   PDF-Format
 
 
 *    *   5.11
@@ -14616,6 +14832,10 @@ verwiesen:
 
     *   ES-TRIN Artikel 18.01 Nummer 5 und 9
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   5.12
 
@@ -14624,17 +14844,77 @@ verwiesen:
 
     *   ES-TRIN Artikel 30.03 Nummer 1 und Anlage 8 Nummer 1.4.9
 
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.13
+
+    *   bei Fahrzeugen, die für die Beförderung und Übernachtung von mehr als
+        12 Fahrgästen zugelassen sind, die Sicherheitsrolle
+
+    *   RheinSchPV § 8.10
+
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   **6. Ladung und Abfälle**
 
+    *
+    *
+    *
 
 *    *   6.1
 
     *   die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3
         erforderlichen Urkunden
 
-    *   ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2
+    *   ADN Unterabschnitte 8.1.2.1, 8.1.2.2 und 8.1.2.3
 
+    *
+    *
+
+*    *   6.1.1
+
+    *   das Beförderungspapier
+
+    *   ADN, 8.1.2.1 b
+
+    *   zugelassen
+
+    *   Ausschließlich in einem Format, das die Anforderungen des
+        Unterabschnitts 5.4.0.2 ADN erfüllt, in Verbindung mit dem Leitfaden
+        für die Anwendung des Unterabschnitts 5.4.0.2 ADN
+
+
+*    *   6.1.2
+
+    *   Europäisches Übereinkommen über die internationale Beförderung von
+        gefährlichen Gütern auf Binnenwasserstraßen mit der beigefügten
+        Verordnung (ADN)
+
+    *   ADN, 8.1.2.1 d
+
+    *   zugelassen
+
+    *   Jederzeit lesbare elektronische Textfassung
+
+
+*    *   6.1.3
+
+    *   weitere nach Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 ADN
+        erforderliche Unterlagen
+
+    *   ADN, 8.1.2.1, a, c und e bis h und k
+        ADN, 8.1.2.2, a, c bis h
+        ADN, 8.1.2.3, a, c bis x
+
+    *   nicht zugelassen
+
+    *
 
 *    *   6.2
 
@@ -14652,14 +14932,22 @@ verwiesen:
         RheinSchPV § 1.07 Nummer 5 (Ergebnis der Stabilitätsprüfung und
         Stauplan)
 
+    *   zugelassen
+
+    *   PDF-Format
+
 
 *    *   6.3
 
     *   das ordnungsgemäß ausgefüllte Ölkontrollbuch
 
     *   RheinSchPV § 15.05 und Anlage 10
-        CDNI Anlage 2 (Anwendungsbestimmung) Teil A Artikel 2.03 und Anhang I
+        CDNI Anlage 2 (Anwendungsbestimmung) Teil A Artikel 1.01, 2.03 und
+        Anhang I
 
+    *   nicht zugelassen
+
+    *
 
 *    *   6.4
 
@@ -14670,13 +14958,22 @@ verwiesen:
 
     *   CDNI Anlage 2 (Anwendungsbestimmung) Teil A Artikel 3.04 Nummer 1
 
+    *   nicht zugelassen
+
+    *
 
 *    *   6.5
 
     *   die Entladebescheinigung
 
     *   RheinSchPV § 15.08 Nummer 2
-        CDNI Anlage 2 und Teil B, Muster des Anhangs IV
+        CDNI, Anlage 2 und Teil B, Muster des Anhangs IV
+
+    *   zugelassen
+
+    *   Lesbare elektronische Fassung mit fälschungssicherer Signatur gemäß
+        der Verordnung (EU) Nr. 910/2014 oder gemäß vergleichbaren nationalen
+        Vorschriften der Schweizerischen Eidgenossenschaft
 
 
 

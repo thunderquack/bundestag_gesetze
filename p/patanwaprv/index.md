@@ -922,9 +922,9 @@ Bundespatentgerichts nicht in Anspruch genommen werden.
 
 (5) Kann durch Nebentätigkeiten ein Widerstreit mit der Pflicht nach §
 23 Absatz 1 Satz 1 oder ein Interessenwiderstreit im Sinne des § 39a
-Absatz 4 der Patentanwaltsordnung entstehen, so haben Bewerberinnen
-und Bewerber dies dem Deutschen Patent- und Markenamt unverzüglich
-anzuzeigen.
+Absatz 4 bis 6 und des § 41 der Patentanwaltsordnung entstehen, so
+haben Bewerberinnen und Bewerber dies dem Deutschen Patent- und
+Markenamt unverzüglich anzuzeigen.
 
 (6) Das Deutsche Patent- und Markenamt hat die Genehmigung von
 Nebentätigkeiten zu versagen oder zu widerrufen, anzeigepflichtige
@@ -942,7 +942,8 @@ Ausübung von Nebentätigkeiten zu erlassen, wenn diese
 
 3.  Bewerberinnen und Bewerber in einen Widerstreit mit ihrer Pflicht nach
     § 23 Absatz 1 Satz 1 oder in einen Interessenwiderstreit im Sinne des
-    § 39a Absatz 4 der Patentanwaltsordnung bringen können.
+    § 39a Absatz 4 bis 6 und des § 41 der Patentanwaltsordnung bringen
+    können.
 
 
 
@@ -1026,20 +1027,23 @@ Mitgliedern:
 
 (2) Die Berufung der Mitglieder der Prüfungskommission und die
 Bestellung der Vorsitzenden nach Absatz 1 Nummer 1 und 2 erfolgt durch
-das Bundesamt für Justiz. Die Präsidentin oder der Präsident des
-Deutschen Patent- und Markenamts und des Bundespatentgerichts sowie
-der Vorstand der Patentanwaltskammer sind berechtigt, dem Bundesamt
-für Justiz die Mitglieder und die Vorsitzenden vorzuschlagen. Die oder
-der amtierende Vorsitzende der Prüfungskommission soll zu den
-Vorschlägen gehört werden. Jede Berufung und Bestellung setzt das
-Einverständnis der betroffenen Person voraus.
+das Deutsche Patent- und Markenamt. Die Präsidentin oder der Präsident
+des Bundespatentgerichts und der Vorstand der Patentanwaltskammer sind
+berechtigt, dem Deutschen Patent- und Markenamt die Mitglieder und die
+Vorsitzenden vorzuschlagen. Die oder der amtierende Vorsitzende der
+Prüfungskommission soll zu den Vorschlägen nach Satz 2 und den übrigen
+vom Deutschen Patent- und Markenamt in Aussicht genommenen Personen
+gehört werden. Jede Berufung und Bestellung setzt das Einverständnis
+der betroffenen Person voraus.
 
 (3) Die Berufung in die Prüfungskommission erfolgt für eine Amtszeit
-von drei Jahren. Eine mehrmalige Berufung ist zulässig.
+von fünf Jahren. Eine mehrmalige Berufung ist zulässig. Wer das 65.
+Lebensjahr vollendet hat, soll nicht mehr berufen werden.
 
 (4) Die Amtszeit endet vorzeitig, wenn das Mitglied
 
-1.  auf seinen Antrag hin vom Bundesamt für Justiz abberufen wird,
+1.  auf seinen Antrag hin vom Deutschen Patent- und Markenamt abberufen
+    wird,
 
 
 2.  aus dem Deutschen Patent- und Markenamt oder dem Bundespatentgericht
@@ -1052,7 +1056,7 @@ von drei Jahren. Eine mehrmalige Berufung ist zulässig.
     Patentassessor ausübt oder unmittelbar aufnimmt, oder
 
 
-4.  vom Bundesamt für Justiz aus wichtigem Grund gemäß § 86 des
+4.  vom Deutschen Patent- und Markenamt aus wichtigem Grund gemäß § 86 des
     Verwaltungsverfahrensgesetzes abberufen wird.
 
 
@@ -1061,14 +1065,14 @@ von drei Jahren. Eine mehrmalige Berufung ist zulässig.
 (5) Eine Amtszeit, die nach Absatz 3 oder Absatz 4 Nummer 1 bis 3
 während eines laufenden Prüfungsverfahrens endet, verlängert sich für
 die Zwecke dieses Verfahrens bis zu dessen Abschluss. Bei einem
-Eintritt in den Ruhestand kann das Bundesamt für Justiz die Amtszeit
-mit dem Einverständnis des Mitglieds verlängern, höchstens jedoch bis
-zur Vollendung seines 70. Lebensjahres.
+Eintritt in den Ruhestand kann das Deutsche Patent- und Markenamt die
+Amtszeit mit dem Einverständnis des Mitglieds um bis zu zwei Jahre
+verlängern.
 
-(6) Scheidet ein Mitglied vorzeitig aus, so hat das Bundesamt für
-Justiz für den Rest seiner Amtszeit ein neues Mitglied zu berufen.
-Hiervon kann abgesehen werden, wenn die verbleibende Amtszeit nicht
-mehr als acht Monate betragen hätte.
+(6) Scheidet ein Mitglied vorzeitig aus, so hat das Deutsche Patent-
+und Markenamt für den Rest seiner Amtszeit ein neues Mitglied zu
+berufen. Hiervon kann abgesehen werden, wenn die verbleibende Amtszeit
+nicht mehr als acht Monate betragen hätte.
 
 (7) Die Absätze 3 bis 6 Satz 1 gelten für die Bestellung der
 Vorsitzenden sinngemäß.
@@ -1167,7 +1171,7 @@ der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
 
 (1) Zur Prüfung nach § 8 der Patentanwaltsordnung wird zugelassen, wer
 die Voraussetzungen der §§ 6 und 7 der Patentanwaltsordnung oder des §
-158 der Patentanwaltsordnung erfüllt.
+10a der Patentanwaltsordnung erfüllt.
 
 (2) Die Zulassung zur Prüfung ist schriftlich beim Deutschen Patent-
 und Markenamt zu beantragen. In dem Antrag muss ein bestimmter
@@ -1189,7 +1193,7 @@ eingehende Anträge hat das Deutsche Patent- und Markenamt zu
 berücksichtigen, wenn der Stand der Prüfungsorganisation eine
 Teilnahme noch zulässt.
 
-(5) Wer nach § 158 der Patentanwaltsordnung zur Prüfung zugelassen
+(5) Wer nach § 10a der Patentanwaltsordnung zur Prüfung zugelassen
 werden will, muss den Zulassungsantrag spätestens sechs Monate vor dem
 Monatsersten des beantragten Prüfungstermins stellen. Spätere, bis zu
 zwei Monate vor dem Monatsersten des beantragten Prüfungstermins
@@ -1198,10 +1202,6 @@ berücksichtigen, wenn der Stand der Prüfungsorganisation eine
 Teilnahme noch zulässt. Dem Antrag sind beizufügen:
 
 1.  die in § 2 Absatz 2 Nummer 1 bis 5 und Absatz 5 genannten Unterlagen,
-    wobei im Fall des § 158 Absatz 1 Satz 1 Nummer 2 der
-    Patentanwaltsordnung an die Stelle der in § 2 Absatz 2 Nummer 5
-    genannten Unterlagen die zum Nachweis des Abschlusses der technischen
-    Ausbildung erforderlichen Zeugnisse und Bescheinigungen treten,
 
 
 2.  eine Bestätigung des Arbeitgebers über Art, Dauer und Umfang der
@@ -1222,11 +1222,11 @@ Teilnahme noch zulässt. Dem Antrag sind beizufügen:
 (1) Die Prüfungsgebühr beträgt 650 Euro. Prüflinge, die zur Prüfung
 zugelassen wurden, haben die Prüfungsgebühr spätestens einen Monat vor
 dem Monatsersten des beantragten Prüfungstermins mittels
-Banküberweisung an die Präsidentin oder den Präsidenten des Deutschen
-Patent- und Markenamts zu zahlen und die Zahlung auf Anforderung
-nachzuweisen. Wird die Gebühr nicht rechtzeitig gezahlt oder nicht
-innerhalb von zwei Wochen nach Anforderung nachgewiesen, gilt der
-Antrag auf Zulassung zur Prüfung als zurückgenommen.
+Banküberweisung an das Deutsche Patent- und Markenamt zu zahlen und
+die Zahlung auf Anforderung nachzuweisen. Wird die Gebühr nicht
+rechtzeitig gezahlt oder nicht innerhalb von zwei Wochen nach
+Anforderung nachgewiesen, gilt der Antrag auf Zulassung zur Prüfung
+als zurückgenommen.
 
 (2) Wird die Zulassung zur Prüfung zurückgenommen, wird die
 Prüfungsgebühr vollständig erstattet. Gleiches gilt bei einem
@@ -1243,10 +1243,9 @@ erneute Prüfungsgebühr zahlen.
 
 ### § 38 Rücknahme der Zulassung und Rücktritt
 
-(1) Die Präsidentin oder der Präsident des Deutschen Patent- und
-Markenamts kann die Zulassung zur Prüfung zurücknehmen, wenn
-nachträglich Tatsachen bekannt werden, die der Zulassung zur Prüfung
-entgegengestanden haben.
+(1) Das Deutsche Patent- und Markenamt kann die Zulassung zur Prüfung
+zurücknehmen, wenn nachträglich Tatsachen bekannt werden, die der
+Zulassung zur Prüfung entgegengestanden haben.
 
 (2) Prüflinge können bis zur Ladung zur schriftlichen Prüfung von der
 Prüfung zurücktreten. Der Rücktritt ist schriftlich gegenüber dem
@@ -1396,7 +1395,7 @@ der mündlichen Prüfung Personen zulassen, die
     einen Antrag auf Zulassung zur Prüfung gestellt haben,
 
 
-3.  einen Antrag auf Zulassung zur Prüfung nach § 158 der
+3.  einen Antrag auf Zulassung zur Prüfung nach § 10a der
     Patentanwaltsordnung gestellt haben oder
 
 
@@ -2002,7 +2001,7 @@ zeitlicher oder inhaltlicher Hinsicht erlassen werden. Über den Umfang
 und die Art der weiteren Ausbildung hat der Prüfungsausschuss nach
 Anhörung des Prüflings zu entscheiden.
 
-(4) Bei Prüflingen nach § 158 der Patentanwaltsordnung tritt an die
+(4) Bei Prüflingen nach § 10a der Patentanwaltsordnung tritt an die
 Stelle der weiteren Ausbildung nach Absatz 3 eine weitere praktische
 Tätigkeit auf dem Gebiet des gewerblichen Rechtsschutzes.
 
@@ -2067,7 +2066,7 @@ Unterhalts während ihrer Ausbildung bei einem Gericht für
 Patentstreitsachen, beim Deutschen Patent- und Markenamt und beim
 Bundespatentgericht sowie während ihrer Prüfungszeit ein
 Unterhaltsdarlehen zu gewähren. Dies gilt nicht für Prüflinge, die
-nach § 158 der Patentanwaltsordnung zur Prüfung zugelassen sind.
+nach § 10a der Patentanwaltsordnung zur Prüfung zugelassen sind.
 
 (2) Ein Antrag nach Absatz 1 ist schriftlich beim Deutschen Patent-
 und Markenamt zu stellen, das über ihn durch schriftlichen Bescheid zu
@@ -2466,70 +2465,28 @@ der Maßgabe, dass in den Fällen des § 43 Absatz 1 und des § 45 Absatz
 Absatz 2 die Prüfungsgebühr auf die Hälfte ermäßigt.
 
 
-## Teil 5 - Übergangs- und Schlussbestimmungen
+## Teil 5 - Übergangsbestimmungen
 
 
 ### § 76 Übergangsbestimmungen zu Teil 1
 
-(1) Bei der Jahresfrist nach § 4 Absatz 2 Nummer 2 bleiben vor dem 1.
-Oktober 2017 liegende Zeiten unberücksichtigt.
-
-(2) Die Ausbildungshöchstdauer nach § 7 Nummer 1 gilt nicht für
+(1) Die Ausbildungshöchstdauer nach § 7 Nummer 1 gilt nicht für
 Ausbildungen, die vor dem 1. Oktober 2017 begonnen haben.
 
-(3) § 10 Absatz 2 Nummer 1 gilt nicht für Beurteilungen im zweiten und
-dritten Ausbildungsabschnitt, wenn der jeweilige Ausbildungsabschnitt
-vor dem 1. Oktober 2017 begonnen hat. In diesen Fällen gilt für die
-Beurteilungen § 8 Absatz 2 Satz 3 und 4 der Patentanwaltsausbildungs-
-und -prüfungsverordnung in der bis zum 30. September 2017 geltenden
-Fassung.
-
-(4) Abweichend von § 21 Absatz 6 Satz 1 und § 22 Absatz 3 Nummer 2
-muss der regelmäßige Besuch der Arbeitsgemeinschaften für Zeiten vor
+(2) Abweichend von § 21 Absatz 6 Satz 1 und § 22 Absatz 3 Nummer 2
+muss der regelmäßige Besuch der Arbeitsgemeinschaften für die Zeit vor
 dem 1. Oktober 2017 nicht bescheinigt und nachgewiesen werden.
 
-(5) Die Frist von vier Monaten nach § 22 Absatz 3 Nummer 1 gilt nicht
-für Bescheinigungen, die vor dem 1. Oktober 2017 ausgestellt wurden.
-
-(6) Die Bestimmungen des § 28 Absatz 1 und 3 über das Erreichen des
-Ausbildungsziels im zweiten und dritten Ausbildungsabschnitt gelten
-nicht, wenn der jeweilige Ausbildungsabschnitt vor dem 1. Oktober 2017
-begonnen hat.
-
-(7) Das Insolvenzrecht und das Marken- und Designrecht können erst
-dann zum Gegenstand der Prüfung nach § 32 Absatz 4 werden, wenn sie
+(3) Das Insolvenzrecht und das Marken- und Designrecht können erst
+dann zum Gegenstand der Prüfung nach § 32 Absatz 4 werden, wenn sie
 zuvor Gegenstand des Studiengangs waren.
 
 
-### § 77 Übergangsbestimmungen zu Teil 2
+### § 77 Übergangsvorschrift zu § 33
 
-(1) Abweichend von § 33 Absatz 1 Nummer 4 müssen bis zum 31. Dezember
-2018 nur 40 Patentanwälte oder Patentassessoren berufen werden.
-
-(2) In den Fällen des § 36 Absatz 4 und 5 Satz 1 und 2 ist eine
-Prüfung im Prüfungstermin Februar 2018 zu ermöglichen, wenn die
-Zulassungsanträge bis zum 30. November 2017 gestellt wurden.
-
-(3) Abweichend von § 37 Absatz 1 Satz 1 beträgt die Prüfungsgebühr für
-Prüfungen, die vor dem 1. Juni 2018 stattfinden, 260 Euro.
-
-(4) § 34 Absatz 4 Satz 2 und 3 sowie die §§ 39, 40, 43, 44, 46, 47 und
-49 bis 52 sind auf Prüfungen, die vor dem 1. Juni 2018 stattfinden,
-nicht anzuwenden. Stattdessen gelten in diesen Fällen die §§ 29, 31
-Absatz 1, die §§ 32 bis 34 Absatz 1 Satz 1 und 2, Absatz 2 und 6, § 35
-Absatz 1 bis 3 und 5, § 36 Absatz 1 bis 5 und die §§ 37 und 38 der
-Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30.
-September 2017 geltenden Fassung.
-
-(5) § 45 Absatz 1 Satz 1 und Absatz 3 gilt für Prüfungen, die vor dem
-1\. Juni 2018 stattfinden, mit der Maßgabe, dass die Klausuren mit der
-Note „ungenügend (7)“ zu bewerten sind.
-
-(6) Die §§ 54 und 55 sind auf Wiederholungsprüfungen, die vor dem 1.
-Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen
-Fällen die §§ 39 und 40 Absatz 3 Satz 2 der Patentanwaltsausbildungs-
-und -prüfungsverordnung in der bis zum 30. September 2017 geltenden
-Fassung.
+Für Mitglieder der Prüfungskommission, die vor dem 31. Juli 2022
+berufen wurden, gilt § 33 Absatz 3 Satz 1 in der bis zum 31. Juli 2022
+geltenden Fassung.
 
 
 ### § 78 Übergangsbestimmungen zu Teil 3
@@ -2537,38 +2494,7 @@ Fassung.
 Die Vorschriften über die Sicherung des Unterhalts nach Teil 3 gelten
 nur für Unterhaltsdarlehen, die ab dem 1. Oktober 2017 gewährt werden.
 Für davor gewährte Darlehen gelten die Vorschriften des Dritten Teils
-der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum
-30\. September 2017 geltenden Fassung.
-
-
-### § 79 Übergangsbestimmungen zu Teil 4
-
-(1) Die §§ 69 bis 72 sind auf Eignungsprüfungen, die vor dem 1. Juni
-2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen
-Fällen die §§ 44a, 44e Absatz 1 Satz 1, Absatz 2 Satz 1 und § 44f
-Absatz 1 bis 3 der Patentanwaltsausbildungs- und -prüfungsverordnung
-in der bis zum 30. September 2017 geltenden Fassung. Zudem gelten § 36
-Absatz 1 Satz 1, Absatz 2, § 37 Absatz 2 und § 38 Absatz 6 und 7 Satz
-1 und 3 der Patentanwaltsausbildungs- und -prüfungsverordnung in der
-bis zum 30. September 2017 geltenden Fassung entsprechend. Die
-Verweisungen in § 75 Absatz 1 gelten für Eignungsprüfungen, die vor
-dem 1. Juni 2018 stattfinden, nur nach Maßgabe von § 77 Absatz 3 und
-4\.
-
-(2) Die §§ 73, 74 und 75 Absatz 2 sind auf Wiederholungen von
-Eignungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nicht
-anzuwenden. Stattdessen gilt in diesen Fällen § 44g Satz 1, 2, 4 und 5
-der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum
-30\. September 2017 geltenden Fassung.
-
-
-### § 80 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am 1. Oktober 2017 in Kraft. Gleichzeitig tritt
-die Patentanwaltsausbildungs- und -prüfungsverordnung in der Fassung
-der Bekanntmachung vom 8. Dezember 1977 (BGBl. I S. 2491), die zuletzt
-durch Artikel 213 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
-geändert worden ist, außer Kraft.
+dieser Verordnung in der bis zum 30. September 2017 geltenden Fassung.
 
 
 ### Schlussformel

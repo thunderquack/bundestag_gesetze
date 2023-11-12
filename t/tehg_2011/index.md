@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 1475
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.8.2020 I 1818
-
-Änderung durch
-:   Art. 18 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 10.8.2021 I 3436
 
 [^F775521_01_BJNR147510011]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein

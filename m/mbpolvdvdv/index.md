@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 506
 
-Geändert durch
-:   Art. 2 V v. 22.7.2021 I 3552
+Zuletzt geändert durch
+:   Art. 2 V v. 15.12.2022 I 2862
 
 Stand: Ersetzt V 2030-6-20 v. 19.12.2001 I 3882 (AP-mDBGSV)
 
@@ -41,7 +41,7 @@ Bundespolizei.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -375,7 +375,7 @@ Befähigungsnachweis nicht bis zum Abschluss des Vorbereitungsdienstes
 vorlegen, werden nicht in ein Beamtenverhältnis auf Probe übernommen.
 
 (3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31.
-Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die
+Dezember 2024 die Einstellung mit der Auflage versehen wird, dass die
 in Absatz 2 genannten Befähigungsnachweise auch noch nach Abschluss
 des Vorbereitungsdienstes vorgelegt werden können.
 
@@ -743,7 +743,7 @@ Tätigkeiten vermittelt werden.
 praktischen Ausbildung mindestens ein Leistungstest durchzuführen.
 
 (4a) Die Bundespolizeiakademie kann mit Zustimmung des
-Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022
+Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024
 davon abgesehen werden kann, in der Grundausbildung in jedem Fach der
 theoretischen und der praktischen Ausbildung mindestens einen
 Leistungstest durchzuführen.
@@ -831,7 +831,7 @@ durchzuführen
 
 
 (3a) Die Bundespolizeiakademie kann mit Zustimmung des
-Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022
+Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024
 während der weiteren Ausbildung in den in Absatz 2 Nummer 1 Buchstabe
 c, d, g und h und Nummer 2 genannten Fächern auf einen Leistungstest
 verzichtet werden kann.
@@ -1049,7 +1049,7 @@ Die Zwischenprüfung besteht aus
 
 
 Die Bundespolizeiakademie kann mit Zustimmung des
-Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 in
+Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2024 in
 der Zwischenprüfung die praktische Prüfung entfällt.
 
 
@@ -1348,8 +1348,8 @@ das Ergebnis mit und erläutert es.
 4.  Angehörige des Prüfungsamts,
 
 
-5.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern,
-    für Bau und Heimat und
+5.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern
+    und für Heimat und
 
 
 6.  eine Vertreterin oder ein Vertreter des Bundespolizeipräsidiums.
@@ -1464,8 +1464,8 @@ Note ist die Note der Zwischenprüfung.
 (1) Hat eine Anwärterin oder ein Anwärter die Zwischenprüfung nicht
 bestanden, so kann sie oder er die Zwischenprüfung einmal wiederholen.
 In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit
-Einverständnis des Bundesministeriums des Innern, für Bau und Heimat
-eine zweite Wiederholung zulassen.
+Einverständnis des Bundesministeriums des Innern und für Heimat eine
+zweite Wiederholung zulassen.
 
 (2) Die Wiederholung der Zwischenprüfung erfolgt frühestens drei
 Monate nach Bekanntgabe des Ergebnisses. Sie muss spätestens bis zum
@@ -1850,8 +1850,8 @@ das Ergebnis mit und erläutert es.
 4.  Angehörige des Prüfungsamts,
 
 
-5.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern,
-    für Bau und Heimat sowie
+5.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern
+    und für Heimat sowie
 
 
 6.  eine Vertreterin oder ein Vertreter des Bundespolizeipräsidiums.
@@ -1965,8 +1965,8 @@ zugeordnete Note ist die Abschlussnote.
 bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der
 Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In
 begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit
-Einverständnis des Bundesministeriums des Innern, für Bau und Heimat
-eine zweite Wiederholung zulassen.
+Einverständnis des Bundesministeriums des Innern und für Heimat eine
+zweite Wiederholung zulassen.
 
 (2) Die Wiederholung der Laufbahnprüfung erfolgt frühestens drei
 Monate nach Bekanntgabe des Ergebnisses.

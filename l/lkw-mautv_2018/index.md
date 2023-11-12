@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1156
 
 Zuletzt geändert durch
-:   Art. 4 V v. 28.9.2021 I 4619
+:   Art. 33 G v. 2.3.2023 I Nr. 56
 
 Stand: Ersetzt V 9290-13-2 v. 24.6.2003 I 1003 (LKW-MautV)
 
@@ -198,16 +198,16 @@ es sei denn, er kann vorher
 ## § 6 Nachweis der ordnungsgemäßen Entrichtung der Maut
 
 Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für
-Güterverkehr die Richtigkeit aller für die Mauterhebung maßgeblichen
-Tatsachen durch Vorlage geeigneter Unterlagen nachzuweisen. Geeignete
-Unterlagen sind insbesondere der Einbuchungsbeleg, der Zahlungsbeleg,
-der Fahrzeugschein oder die Zulassungsbescheinigung Teil I sowie
-fahrzeugbezogene Nachweise im Sinne des § 7 Absatz 5 des
-Bundesfernstraßenmautgesetzes. Statt des Einbuchungsbelegs ist bei der
-manuellen Einbuchung über die Internetseite oder die mobile
-Applikation auch die Angabe der Einbuchungsnummer geeignet. Die
-Verpflichtung zum ergänzenden Nachweis der Zahlung im Einzelfall
-bleibt hiervon unberührt.
+Logistik und Mobilität die Richtigkeit aller für die Mauterhebung
+maßgeblichen Tatsachen durch Vorlage geeigneter Unterlagen
+nachzuweisen. Geeignete Unterlagen sind insbesondere der
+Einbuchungsbeleg, der Zahlungsbeleg, der Fahrzeugschein oder die
+Zulassungsbescheinigung Teil I sowie fahrzeugbezogene Nachweise im
+Sinne des § 7 Absatz 5 des Bundesfernstraßenmautgesetzes. Statt des
+Einbuchungsbelegs ist bei der manuellen Einbuchung über die
+Internetseite oder die mobile Applikation auch die Angabe der
+Einbuchungsnummer geeignet. Die Verpflichtung zum ergänzenden Nachweis
+der Zahlung im Einzelfall bleibt hiervon unberührt.
 
 
 ## § 7 Nachweis der Emissionsklasse für im Inland zugelassene Fahrzeuge
@@ -240,19 +240,19 @@ Teil I.
 
 
 (3) Bei Vorlage sonstiger geeigneter Unterlagen entscheidet das
-Bundesamt für Güterverkehr nach pflichtgemäßem Ermessen darüber, ob
-die Emissionsklasse des mautpflichtigen Fahrzeuges zweifelsfrei und
-damit ordnungsgemäß nachgewiesen ist.
+Bundesamt für Logistik und Mobilität nach pflichtgemäßem Ermessen
+darüber, ob die Emissionsklasse des mautpflichtigen Fahrzeuges
+zweifelsfrei und damit ordnungsgemäß nachgewiesen ist.
 
 (4) Ergeben sich aus den vorgelegten Unterlagen Widersprüche
 hinsichtlich der Emissionsklasse, so entscheidet das Bundesamt für
-Güterverkehr nach pflichtgemäßem Ermessen, ob die Emissionsklasse
-ordnungsgemäß nachgewiesen ist und bestimmt die für die Einstufung
-geltende Emissionsklasse sowie den Zeitraum, für den von dieser
-auszugehen ist. Dies gilt auch, wenn Tatsachen auf eine eingeschränkte
-oder fehlende Funktionsfähigkeit des Abgasreinigungs- oder
-Partikelminderungssystems schließen lassen. Absatz 5 Satz 2 und 3 gilt
-entsprechend.
+Logistik und Mobilität nach pflichtgemäßem Ermessen, ob die
+Emissionsklasse ordnungsgemäß nachgewiesen ist und bestimmt die für
+die Einstufung geltende Emissionsklasse sowie den Zeitraum, für den
+von dieser auszugehen ist. Dies gilt auch, wenn Tatsachen auf eine
+eingeschränkte oder fehlende Funktionsfähigkeit des Abgasreinigungs-
+oder Partikelminderungssystems schließen lassen. Absatz 5 Satz 2 und 3
+gilt entsprechend.
 
 (5) Im Fall des nicht ordnungsgemäßen Nachweises der Emissionsklasse
 eines Fahrzeuges ist hinsichtlich des Mautteilsatzes für die
@@ -282,28 +282,23 @@ der folgenden Emissionsklasse angehören:
 
 
 2.  der Schadstoffklasse S 5 bei erstmaliger Zulassung nach dem 30.
-    September 2009 und vor dem
-    1\. Januar 2014,
+    September 2009 und vor dem 1. Januar 2014,
 
 
 3.  der Schadstoffklasse S 4 bei erstmaliger Zulassung nach dem 30.
-    September 2006 und vor dem
-    1\. Oktober 2009,
+    September 2006 und vor dem 1. Oktober 2009,
 
 
 4.  der Schadstoffklasse S 3 bei erstmaliger Zulassung nach dem 30.
-    September 2001 und vor dem
-    1\. Oktober 2006,
+    September 2001 und vor dem 1. Oktober 2006,
 
 
 5.  der Schadstoffklasse S 2 bei erstmaliger Zulassung nach dem 30.
-    September 1996 und vor dem
-    1\. Oktober 2001,
+    September 1996 und vor dem 1. Oktober 2001,
 
 
 6.  der Schadstoffklasse S 1 bei erstmaliger Zulassung nach dem 30.
-    September 1993 und vor dem
-    1\. Oktober 1996,
+    September 1993 und vor dem 1. Oktober 1996,
 
 
 7.  keiner Schadstoffklasse bei erstmaliger Zulassung vor dem 1. Oktober
@@ -315,14 +310,14 @@ der folgenden Emissionsklasse angehören:
 (3) Fällt ein mautpflichtiges Fahrzeug bei einer Kontrolle durch
 besonders hohe Geräusch- oder überdurchschnittliche Abgasentwicklung
 auf oder bestehen zu der Vermutungsregelung nach Absatz 2 erhebliche
-gegenteilige Anhaltspunkte, so kann das Bundesamt für Güterverkehr
-verlangen, dass der Mautschuldner auf eigene Kosten nachweist, dass
-das Fahrzeug tatsächlich der Emissionsklasse angehört, die ihm
-zugeschrieben wurde. Dies kann durch ein Gutachten eines amtlich
-anerkannten Sachverständigen belegt werden. Das Bundesamt für
-Güterverkehr kann verlangen, dass der Mautschuldner diese Unterlagen
-in deutscher Sprache vorzulegen hat. Die Kosten für die Übersetzung
-sind vom Mautschuldner zu tragen.
+gegenteilige Anhaltspunkte, so kann das Bundesamt für Logistik und
+Mobilität verlangen, dass der Mautschuldner auf eigene Kosten
+nachweist, dass das Fahrzeug tatsächlich der Emissionsklasse angehört,
+die ihm zugeschrieben wurde. Dies kann durch ein Gutachten eines
+amtlich anerkannten Sachverständigen belegt werden. Das Bundesamt für
+Logistik und Mobilität kann verlangen, dass der Mautschuldner diese
+Unterlagen in deutscher Sprache vorzulegen hat. Die Kosten für die
+Übersetzung sind vom Mautschuldner zu tragen.
 
 (4) § 7 Absatz 3 bis 5 gilt entsprechend.
 
@@ -354,8 +349,8 @@ Tatsachen wahrheitsgemäß und vollständig anzugeben.
 (1) Falls eine Voll- oder Teilstornierung gemäß § 9 ausgeschlossen
 ist, kann der Mautschuldner eine Erstattung nur dann verlangen, wenn
 er sein Erstattungsverlangen innerhalb von zwei Monaten nach Ablauf
-des Gültigkeitszeitraums gegenüber dem Bundesamt für Güterverkehr
-geltend gemacht hat und
+des Gültigkeitszeitraums gegenüber dem Bundesamt für Logistik und
+Mobilität geltend gemacht hat und
 
 1.  für eine teilweise nicht befahrene Strecke nachweist, dass ihm eine
     vorherige Geltendmachung aus tatsächlichen Gründen nicht möglich war,
@@ -368,15 +363,16 @@ geltend gemacht hat und
 
 
 
-(2) Das Bundesamt für Güterverkehr kann für Erstattungsverlangen nach
-Absatz 1 und für Erstattungsverlangen nach § 4 Absatz 2 Satz 2 des
-Bundesfernstraßenmautgesetzes ein Muster im Bundesanzeiger bekannt
-geben. Falls ein solches bekannt gegeben ist, ist dieses zu verwenden.
-Erstattungsanträge sollen dem Bundesamt für Güterverkehr unter Nutzung
-des von diesem zur Verfügung gestellten Verwaltungsportals
-elektronisch übermittelt werden. Voraussetzung für die Übermittlung
-des Antrags über das Verwaltungsportal ist, dass der Antragstellende
-sich zuvor mit einem Nutzerkonto registriert.
+(2) Das Bundesamt für Logistik und Mobilität kann für
+Erstattungsverlangen nach Absatz 1 und für Erstattungsverlangen nach
+§ 4 Absatz 2 Satz 2 des Bundesfernstraßenmautgesetzes ein Muster im
+Bundesanzeiger bekannt geben. Falls ein solches bekannt gegeben ist,
+ist dieses zu verwenden. Erstattungsanträge sollen dem Bundesamt für
+Logistik und Mobilität unter Nutzung des von diesem zur Verfügung
+gestellten Verwaltungsportals elektronisch übermittelt werden.
+Voraussetzung für die Übermittlung des Antrags über das
+Verwaltungsportal ist, dass der Antragstellende sich zuvor mit einem
+Nutzerkonto registriert.
 
 (3) Für Erstattungsverlangen nach Absatz 1 sowie Erstattungsverlangen
 nach § 4 Absatz 2 Satz 2 des Bundesfernstraßenmautgesetzes wird eine

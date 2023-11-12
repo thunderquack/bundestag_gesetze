@@ -17,19 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2026, 2031
 
 Zuletzt geändert durch
-:   Art. 15 G v. 23.6.2017 I 1822
-
-Änderung durch
-:   Art. 19 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 66 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 66 G v. 10.8.2021 I 3436
 
 
 ## § 1 Umstellung auf Euro
@@ -263,4 +251,21 @@ besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind
 diese Sitze mit Personen des unterrepräsentierten Geschlechts zu
 besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate
 können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
+
+
+## § 11 Übergangsvorschriften zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+
+(1) § 6 Absatz 2 Satz 3, § 8 Absatz 3 Satz 1, § 39 Absatz 3 Satz 1, §
+66 Absatz 4 und § 67 Absatz 3 Satz 1 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung in der ab dem 1. August 2022
+geltenden Fassung sind erstmals ab dem 1. August 2023 anzuwenden.
+
+(2) § 58d Absatz 2 Satz 4 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung in der ab dem 1. August 2022 geltenden
+Fassung ist erstmals auf Jahresabschlüsse für das nach dem 31.
+Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 58d Absatz 2 Satz
+4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung
+in der bis einschließlich 31. Juli 2022 geltenden Fassung ist
+letztmals anzuwenden auf Jahresabschlüsse für das vor dem 1. Januar
+2022 beginnende Geschäftsjahr.
 

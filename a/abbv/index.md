@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 856
 
-Änderung durch
-:   Art. 2 V v. 18.5.2021 I1181 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 18.5.2021 I 1181
 
 
 ## Eingangsformel
@@ -96,11 +96,6 @@ ist der Betrag mit 4 vom Hundert für das Jahr zu verzinsen.
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
-## Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-
 ## § 4 Übergangsregelung
 
 Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des
@@ -109,9 +104,15 @@ Vereinbarung getroffen haben, ist diese Verordnung in der bis zum
 Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
 
 
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
+
 ## Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2010, 857 - 871)
+(Fundstelle: BGBl. I 2010, 857 - 871; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 ## Inhaltsverzeichnis
 
@@ -700,7 +701,10 @@ Kapitel 2
 
 
    und den Anteil der kapitalisierten Kosten für die weiteren
-    Erneuerungen
+    Erneuerungen (
+    E
+    wei
+    e                   )
 
     *        *            ![bgbl1_2010_j0856_0080.jpg](bgbl1_2010_j0856_0080.jpg)
 
@@ -723,7 +727,7 @@ Kapitel 2
     ausgedrückt durch die Multiplikation der Gleichung mit q
     m                   , steht ein Betrag von
 
-    *        *            ![bgbl1_2010_j0856_0010.jpg](bgbl1_2010_j0856_0010.jpg)
+    *        *            ![bgbl1_2010_j0856-1_0090.jpg](bgbl1_2010_j0856-1_0090.jpg)
 
 
 
@@ -935,7 +939,7 @@ Kapitel 2
     eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu
     einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten
     baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten
-    baulichen Anlage
+    baulichen Anlage E
     alt                    mit der theoretischen Nutzungsdauer m nach
     Nummer 2.5 zu ermitteln.
 
@@ -2998,7 +3002,7 @@ Ausstattungen von Straßen und Wegen sowie
 
     *   15
 
-    *   0
+    *   1
 
 
 *    *   10.7.8

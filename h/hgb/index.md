@@ -16,28 +16,7 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 14 G v. 22.12.2020 I 3256
-
-Änderung durch
-:   Art. 7 Abs. 2 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 51 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 19.6.2023 I Nr. 154
 
 
 ## Erstes Buch - Handelsstand
@@ -145,39 +124,43 @@ wiedergegeben werden kann.
 nähere Bestimmungen über die elektronische Führung des
 Handelsregisters, die elektronische Anmeldung, die elektronische
 Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit
-nicht durch das Bundesministerium der Justiz und für Verbraucherschutz
-nach § 387 Abs. 2 des Gesetzes über das Verfahren in Familiensachen
-und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
-entsprechende Vorschriften erlassen werden. Dabei können sie auch
-Einzelheiten der Datenübermittlung regeln sowie die Form zu
-übermittelnder elektronischer Dokumente festlegen, um die Eignung für
-die Bearbeitung durch das Gericht sicherzustellen. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die Landesjustizverwaltungen übertragen.
+nicht durch das Bundesministerium der Justiz nach § 387 Abs. 2 des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende
+Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der
+Datenübermittlung regeln sowie die Form zu übermittelnder
+elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung
+durch das Gericht sicherzustellen. Die Landesregierungen können die
+Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
+übertragen.
 
 
 #### § 8b Unternehmensregister
 
 (1) Das Unternehmensregister wird vorbehaltlich einer Regelung nach §
-9a Abs. 1 vom Bundesministerium der Justiz und für Verbraucherschutz
-elektronisch geführt.
+9a Abs. 1 vom Bundesministerium der Justiz elektronisch geführt.
 
 (2) Über die Internetseite des Unternehmensregisters sind zugänglich:
 
-1.  Eintragungen im Handelsregister und deren Bekanntmachung und zum
-    Handelsregister eingereichte Dokumente;
+1.  Eintragungen im Handelsregister und zum Handelsregister eingereichte
+    Dokumente;
 
 
-2.  Eintragungen im Genossenschaftsregister und deren Bekanntmachung und
-    zum Genossenschaftsregister eingereichte Dokumente;
+2.  Eintragungen im Genossenschaftsregister und zum
+    Genossenschaftsregister eingereichte Dokumente;
 
 
-3.  Eintragungen im Partnerschaftsregister und deren Bekanntmachung und
-    zum Partnerschaftsregister eingereichte Dokumente;
+3.  Eintragungen im Partnerschaftsregister und zum Partnerschaftsregister
+    eingereichte Dokumente;
 
 
-4.  Unterlagen der Rechnungslegung nach den §§ 325 und 339 sowie
-    Unterlagen nach § 341w, soweit sie bekannt gemacht wurden;
+4.  Unterlagen der Rechnungslegung und Unternehmensberichte, die nach
+    diesem Gesetz, dem Publizitätsgesetz, dem Eisenbahnregulierungsgesetz,
+    dem Energiewirtschaftsgesetz, dem Entgelttransparenzgesetz, dem
+    Kapitalanlagegesetzbuch, dem Telekommunikationsgesetz, dem
+    Vermögensanlagengesetz oder dem Wertpapierhandelsgesetz offengelegt
+    wurden, mit Ausnahme der zur dauerhaften Hinterlegung eingestellten
+    Unterlagen;
 
 
 5.  gesellschaftsrechtliche Bekanntmachungen im Bundesanzeiger;
@@ -203,11 +186,9 @@ elektronisch geführt.
 
 9.  Veröffentlichungen und sonstige der Öffentlichkeit zur Verfügung
     gestellte Informationen nach den §§ 5, 26 Absatz 1 und 2, § 40 Absatz
-    1, den §§ 41, 46 Absatz 2, den §§ 50, 51 Absatz 2, § 114 Absatz 1 bis
-    § 116 Absatz 2, den §§ 117, 118 Absatz 4 und § 127 des
+    1, den §§ 41, 46 Absatz 2, den §§ 50, 51 Absatz 2 und § 127 des
     Wertpapierhandelsgesetzes, sofern die Veröffentlichung nicht bereits
-    über Nummer 4 oder Nummer 7 in das Unternehmensregister eingestellt
-    wird;
+    über Nummer 7 in das Unternehmensregister eingestellt wird;
 
 
 10. Mitteilungen über kapitalmarktrechtliche Veröffentlichungen an die
@@ -217,7 +198,17 @@ elektronisch geführt.
 
 
 11. Bekanntmachungen der Insolvenzgerichte nach § 9 der Insolvenzordnung,
-    ausgenommen Verfahren nach dem Zehnten Teil der Insolvenzordnung.
+    ausgenommen Verfahren nach dem Zehnten Teil der Insolvenzordnung;
+
+
+12. Registerbekanntmachungen aus dem Handels-, Genossenschafts- und
+    Partnerschaftsregister;
+
+
+13. Bekanntmachungen der Bundesanstalt für Finanzdienstleistungsaufsicht
+    nach § 107 Absatz 1 Satz 6, § 109 Absatz 2 Satz 1 und 5, Absatz 3 Satz
+    2 des Wertpapierhandelsgesetzes und nach § 31 Absatz 4 des
+    Vermögensanlagengesetzes.
 
 
 
@@ -225,63 +216,76 @@ elektronisch geführt.
 (3) Zur Einstellung in das Unternehmensregister sind dem
 Unternehmensregister zu übermitteln:
 
-1.  die Daten nach Absatz 2 Nr. 4 bis 8 und die nach § 326 Absatz 2 von
-    einer Kleinstkapitalgesellschaft hinterlegten Bilanzen durch den
-    Betreiber des Bundesanzeigers;
+1.  die Daten nach Absatz 2 Nummer 5 bis 8 durch den Betreiber des
+    Bundesanzeigers,
 
 
-2.  die Daten nach Absatz 2 Nr. 9 und 10 durch den jeweils
-    Veröffentlichungspflichtigen oder den von ihm mit der Veranlassung der
-    Veröffentlichung beauftragten Dritten.
+2.  die Daten nach Absatz 2 Nummer 4, 9 und 10 sowie diejenigen
+    Unterlagen, die dauerhaft hinterlegt werden sollen, durch den jeweils
+    Offenlegungs- oder Veröffentlichungspflichtigen oder den von ihm mit
+    der Veranlassung der Offenlegung oder Veröffentlichung beauftragten
+    Dritten,
+
+
+3.  die Daten nach Absatz 2 Nummer 13 durch die Bundesanstalt für
+    Finanzdienstleistungsaufsicht.
 
 
 
-Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1
-bis 3 und 11 zum Unternehmensregister, soweit die Übermittlung für die
-Eröffnung eines Zugangs zu den Originaldaten über die Internetseite
-des Unternehmensregisters erforderlich ist. Die Bundesanstalt für
-Finanzdienstleistungsaufsicht überwacht die Übermittlung der
-Veröffentlichungen und der sonstigen der Öffentlichkeit zur Verfügung
-gestellten Informationen nach den §§ 5, 26 Absatz 1 und 2, § 40 Absatz
-1, den §§ 41, 46 Absatz 2, den §§ 50, 51 Absatz 2, § 114 Absatz 1 bis
-§ 116 Absatz 2, den §§ 117, 118 Absatz 4 und § 127 des
-Wertpapierhandelsgesetzes an das Unternehmensregister zur Speicherung
-und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und
-erforderlich sind. Die Bundesanstalt kann die gebotene Übermittlung
-der in Satz 3 genannten Veröffentlichungen, der Öffentlichkeit zur
-Verfügung gestellten Informationen und Mitteilung auf Kosten des
-Pflichtigen vornehmen, wenn die Übermittlungspflicht nicht, nicht
-richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise
-erfüllt wird. Für die Überwachungstätigkeit der Bundesanstalt gelten §
-6 Absatz 3 Satz 1 und 3, Absatz 15 und 16, die §§ 13, 18 und 21 des
+Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2
+Nummer 1 bis 3, 11 und 12 zum Unternehmensregister, soweit die
+Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über
+die Internetseite des Unternehmensregisters erforderlich ist. Die das
+Unternehmensregister führende Stelle stellt dem Betreiber des
+Bundesanzeigers die nach Satz 2 von den Landesjustizverwaltungen
+übermittelten Daten zur Verfügung, soweit dies für die Erfüllung der
+Aufgabe der Zuordnung von Einreichungen beim Betreiber des
+Bundesanzeigers nach Absatz 2 Nummer 5 bis 8 erforderlich ist. Die
+Daten dürfen vom Betreiber des Bundesanzeigers nur für diese Zwecke
+verwendet werden. Die Bundesanstalt für Finanzdienstleistungsaufsicht
+überwacht die Übermittlung der Veröffentlichungen und der sonstigen
+der Öffentlichkeit zur Verfügung gestellten Informationen nach den §§
+5, 26 Absatz 1 und 2, § 40 Absatz 1, den §§ 41, 46 Absatz 2, den §§
+50, 51 Absatz 2, § 114 Absatz 1 bis § 116 Absatz 2, den §§ 117, 118
+Absatz 4 und § 127 des Wertpapierhandelsgesetzes an das
+Unternehmensregister zur Einstellung und kann Anordnungen treffen, die
+zu ihrer Durchsetzung geeignet und erforderlich sind. Die
+Bundesanstalt kann die gebotene Übermittlung der in Satz 5 genannten
+Veröffentlichungen, der Öffentlichkeit zur Verfügung gestellten
+Informationen und Mitteilung auf Kosten des Pflichtigen vornehmen,
+wenn die Übermittlungspflicht nicht, nicht richtig, nicht vollständig
+oder nicht in der vorgeschriebenen Weise erfüllt wird. Für die
+Überwachungstätigkeit der Bundesanstalt gelten § 6 Absatz 3 Satz 1 und
+3, Absatz 15 und 16, die §§ 13, 18 und 21 des
 Wertpapierhandelsgesetzes entsprechend.
 
 (4) Die Führung des Unternehmensregisters schließt die Erteilung von
 Ausdrucken sowie die Beglaubigung entsprechend § 9 Abs. 3 und 4
-hinsichtlich der im Unternehmensregister gespeicherten Unterlagen der
-Rechnungslegung im Sinn des Absatzes 2 Nr. 4 ein. Gleiches gilt für
-die elektronische Übermittlung von zum Handelsregister eingereichten
-Schriftstücken nach § 9 Abs. 2, soweit sich der Antrag auf Unterlagen
-der Rechnungslegung im Sinn des Absatzes 2 Nr. 4 bezieht; § 9 Abs. 3
-gilt entsprechend.
+hinsichtlich der im Unternehmensregister eingestellten Unterlagen der
+Rechnungslegung und Unternehmensberichte im Sinn des Absatzes 2 Nr. 4
+ein.
+
+(5) Die Führung des Unternehmensregisters schließt auch den
+Informationsaustausch nach § 9c ein.
 
 
 #### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
 
 (1) Die Einsichtnahme in das Handelsregister sowie in die zum
 Handelsregister eingereichten Dokumente ist jedem zu
-Informationszwecken gestattet. Die Landesjustizverwaltungen bestimmen
-das elektronische Informations- und Kommunikationssystem, über das die
-Daten aus den Handelsregistern abrufbar sind, und sind für die
-Abwicklung des elektronischen Abrufverfahrens zuständig. Die
-Landesregierung kann die Zuständigkeit durch Rechtsverordnung
-abweichend regeln; sie kann diese Ermächtigung durch Rechtsverordnung
-auf die Landesjustizverwaltung übertragen. Die Länder können ein
-länderübergreifendes, zentrales elektronisches Informations- und
-Kommunikationssystem bestimmen. Sie können auch eine Übertragung der
-Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes
-sowie mit dem Betreiber des Unternehmensregisters eine Übertragung der
-Abwicklungsaufgaben auf das Unternehmensregister vereinbaren.
+Informationszwecken durch einzelne Abrufe gestattet. Die
+Landesjustizverwaltungen bestimmen das elektronische Informations- und
+Kommunikationssystem, über das die Daten aus den Handelsregistern
+abrufbar sind, und sind für die Abwicklung des elektronischen
+Abrufverfahrens zuständig. Die Landesregierung kann die Zuständigkeit
+durch Rechtsverordnung abweichend regeln; sie kann diese Ermächtigung
+durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die
+Länder können ein länderübergreifendes, zentrales elektronisches
+Informations- und Kommunikationssystem bestimmen. Sie können auch eine
+Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines
+anderen Landes sowie mit dem Betreiber des Unternehmensregisters eine
+Übertragung der Abwicklungsaufgaben auf das Unternehmensregister
+vereinbaren.
 
 (2) Sind Dokumente nur in Papierform vorhanden, kann die elektronische
 Übermittlung nur für solche Schriftstücke verlangt werden, die weniger
@@ -290,8 +294,13 @@ Handelsregister eingereicht wurden.
 
 (3) Die Übereinstimmung der übermittelten Daten mit dem Inhalt des
 Handelsregisters und den zum Handelsregister eingereichten Dokumenten
-wird auf Antrag durch das Gericht beglaubigt. Dafür ist eine
-qualifizierte elektronische Signatur zu verwenden.
+wird auf Antrag durch das Gericht beglaubigt. Dafür hat eine
+Authentifizierung durch einen Vertrauensdienst nach der Verordnung
+(EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23.
+Juli 2014 über elektronische Identifizierung und Vertrauensdienste für
+elektronische Transaktionen im Binnenmarkt und zur Aufhebung der
+Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom
+29\.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) zu erfolgen.
 
 (4) Von den Eintragungen und den eingereichten Dokumenten kann ein
 Ausdruck verlangt werden. Von den zum Handelsregister eingereichten
@@ -308,55 +317,55 @@ nicht erfolgt ist.
 (6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1
 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch
 über das Unternehmensregister an das Gericht vermittelt werden. Die
-Einsichtnahme in die Bilanz einer Kleinstkapitalgesellschaft (§ 267a),
-die von dem Recht nach § 326 Absatz 2 Gebrauch gemacht hat, erfolgt
-nur auf Antrag durch Übermittlung einer Kopie.
+Einsichtnahme in die beim Unternehmensregister zur dauerhaften
+Hinterlegung eingestellten Daten erfolgt nur auf Antrag durch
+Übermittlung einer Kopie.
 
 
 #### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-einer juristischen Person des Privatrechts die Aufgaben nach § 8b Abs.
-1 zu übertragen. Der Beliehene erlangt die Stellung einer
-Justizbehörde des Bundes. Zur Erstellung von Beglaubigungen führt der
-Beliehene ein Dienstsiegel; nähere Einzelheiten hierzu können in der
-Rechtsverordnung nach Satz 1 geregelt werden. Die Dauer der Beleihung
-ist zu befristen; sie soll fünf Jahre nicht unterschreiten;
-Kündigungsrechte aus wichtigem Grund sind vorzusehen. Eine juristische
-Person des Privatrechts darf nur beliehen werden, wenn sie
-grundlegende Erfahrungen mit der Veröffentlichung von
-kapitalmarktrechtlichen Informationen und gerichtlichen Mitteilungen,
-insbesondere Handelsregisterdaten, hat und ihr eine ausreichende
-technische und finanzielle Ausstattung zur Verfügung steht, die die
-Gewähr für den langfristigen und sicheren Betrieb des
-Unternehmensregisters bietet.
+(1) Das Bundesministerium der Justiz wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates einer juristischen
+Person des Privatrechts die Aufgaben nach § 8b Abs. 1 zu übertragen.
+Der Beliehene erlangt die Stellung einer Justizbehörde des Bundes. Zur
+Erstellung von Beglaubigungen führt der Beliehene ein Dienstsiegel;
+nähere Einzelheiten hierzu können in der Rechtsverordnung nach Satz 1
+geregelt werden. Die Dauer der Beleihung ist zu befristen; sie soll
+fünf Jahre nicht unterschreiten; Kündigungsrechte aus wichtigem Grund
+sind vorzusehen. Eine juristische Person des Privatrechts darf nur
+beliehen werden, wenn sie grundlegende Erfahrungen mit der
+Veröffentlichung von kapitalmarktrechtlichen Informationen und
+gerichtlichen Mitteilungen, insbesondere Handelsregisterdaten, hat und
+ihr eine ausreichende technische und finanzielle Ausstattung zur
+Verfügung steht, die die Gewähr für den langfristigen und sicheren
+Betrieb des Unternehmensregisters bietet.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Einzelheiten der Datenübermittlung zwischen den Behörden der Länder
-und dem Unternehmensregister einschließlich Vorgaben über Datenformate
-zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht
+(2) Das Bundesministerium der Justiz wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der
+Datenübermittlung zwischen den Behörden der Länder und dem
+Unternehmensregister einschließlich Vorgaben über Datenformate zu
+regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht
 sind ausgeschlossen.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-technischen Einzelheiten zu Aufbau und Führung des
-Unternehmensregisters, Einzelheiten der Datenübermittlung
+(3) Das Bundesministerium der Justiz wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die technischen
+Einzelheiten zu Aufbau und Führung des Unternehmensregisters, die
+technischen Einzelheiten zur Anmeldung und Identifikation von Nutzern
+des Unternehmensregisters, Einzelheiten der Datenübermittlung
 einschließlich Vorgaben über Datenformate, die nicht unter Absatz 2
-fallen, Löschungsfristen für die im Unternehmensregister gespeicherten
-Daten, Überwachungsrechte der Bundesanstalt für
-Finanzdienstleistungsaufsicht gegenüber dem Unternehmensregister
-hinsichtlich der Übermittlung, Einstellung, Verwaltung, Verarbeitung
-und des Abrufs kapitalmarktrechtlicher Daten einschließlich der
-Zusammenarbeit mit amtlich bestellten Speicherungssystemen anderer
-Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten
-des Abkommens über den Europäischen Wirtschaftsraum im Rahmen des
-Aufbaus eines europaweiten Netzwerks zwischen den
-Speicherungssystemen, die Zulässigkeit sowie Art und Umfang von
-Auskunftsdienstleistungen mit den im Unternehmensregister
-gespeicherten Daten, die über die mit der Führung des
-Unternehmensregisters verbundenen Aufgaben nach diesem Gesetz
+fallen, Einzelheiten der Prüfung der übermittelten Daten,
+Löschungsfristen für die im Unternehmensregister gespeicherten Daten,
+Überwachungsrechte der Bundesanstalt für Finanzdienstleistungsaufsicht
+gegenüber dem Unternehmensregister hinsichtlich der Übermittlung,
+Einstellung, Verwaltung, Verarbeitung und des Abrufs
+kapitalmarktrechtlicher Daten einschließlich der Zusammenarbeit mit
+amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten der
+Europäischen Union oder anderer Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten
+Netzwerks zwischen den Speicherungssystemen, die Zulässigkeit sowie
+Art und Umfang von Auskunftsdienstleistungen mit den im
+Unternehmensregister gespeicherten Daten, die über die mit der Führung
+des Unternehmensregisters verbundenen Aufgaben nach diesem Gesetz
 hinausgehen, zu regeln. Soweit Regelungen getroffen werden, die
 kapitalmarktrechtliche Daten berühren, ist die Rechtsverordnung nach
 Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen zu
@@ -366,29 +375,52 @@ Verwendung der im Register gespeicherten Daten angemessen Rechnung zu
 tragen.
 
 
-#### § 9b Europäisches System der Registervernetzung; Verordnungsermächtigung
+#### § 9b Europäisches System der Registervernetzung
 
-(1) Die Eintragungen im Handelsregister und die zum Handelsregister
-eingereichten Dokumente sowie die Unterlagen der Rechnungslegung nach
-§ 325 sind, soweit sie Kapitalgesellschaften betreffen oder
-Zweigniederlassungen von Kapitalgesellschaften, die dem Recht eines
-anderen Mitgliedstaates der Europäischen Union oder eines anderen
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-unterliegen, auch über das Europäische Justizportal zugänglich. Hierzu
-übermitteln die Landesjustizverwaltungen die Daten des
-Handelsregisters und der Betreiber des Unternehmensregisters
+(1) Folgende Informationen und Unterlagen, soweit sie
+Kapitalgesellschaften betreffen oder Zweigniederlassungen von
+Kapitalgesellschaften, die dem Recht eines anderen Mitgliedstaates der
+Europäischen Union oder eines anderen Vertragsstaates des Abkommens
+über den Europäischen Wirtschaftsraum unterliegen, sind auch über das
+Europäische Justizportal zugänglich:
+
+1.  Eintragungen im Handelsregister,
+
+
+2.  Registerbekanntmachungen,
+
+
+3.  zum Handelsregister eingereichte Dokumente,
+
+
+4.  Unterlagen der Rechnungslegung nach § 325 sowie
+
+
+5.  eine Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung nach §
+    316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des
+    Umwandlungsgesetzes.
+
+
+
+Hierzu übermitteln die Landesjustizverwaltungen die Daten des
+Handelsregisters und die das Unternehmensregister führende Stelle
 übermittelt die Daten der Rechnungslegungsunterlagen jeweils an die
-zentrale Europäische Plattform nach Artikel 4a Absatz 1 der Richtlinie
-2009/101/EG des Europäischen Parlaments und des Rates vom 16.
-September 2009 zur Koordinierung der Schutzbestimmungen, die in den
-Mitgliedstaaten den Gesellschaften im Sinne des Artikels 54 Absatz 2
-des Vertrags im Interesse der Gesellschafter sowie Dritter
-vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten
-(ABl. L 258 vom 1.10.2009, S. 11), die zuletzt durch die Richtlinie
-2013/24/EU (ABl. L 158 vom 10.6.2013, S. 365) geändert worden ist,
-soweit die Übermittlung für die Eröffnung eines Zugangs zu den
-Originaldaten über den Suchdienst auf der Internetseite des
-Europäischen Justizportals erforderlich ist.
+zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie
+(EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni
+2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl. L 169 vom
+30\.6.2017, S. 46), die zuletzt durch die Richtlinie (EU) 2019/2121
+(ABl. L 321 vom 12.12.2019, S. 1; L 20 vom 24.1.2020, S. 24) geändert
+worden ist, soweit die Übermittlung für die Eröffnung eines Zugangs zu
+den Originaldaten über den Suchdienst auf der Internetseite des
+Europäischen Justizportals erforderlich ist. Die Zugänglichmachung der
+Informationen und Unterlagen über das Europäische Justizportal erfolgt
+nach Maßgabe der Bestimmungen der Durchführungsverordnung (EU)
+2021/1042 der Kommission vom 18. Juni 2021 mit
+Durchführungsbestimmungen zur Richtlinie (EU) 2017/1132 des
+Europäischen Parlaments und des Rates in Bezug auf technische
+Spezifikationen und Verfahren für das System der Registervernetzung
+und zur Aufhebung der Durchführungsverordnung (EU) 2020/2244 der
+Kommission (ABl. L 225 vom 25.6.2021, S. 7).
 
 (2) Das Registergericht, bei dem das Registerblatt einer
 Kapitalgesellschaft oder Zweigniederlassung einer Kapitalgesellschaft
@@ -398,7 +430,8 @@ Europäische Plattform teil. Den Kapitalgesellschaften und
 Zweigniederlassungen von Kapitalgesellschaften im Sinne des Absatzes 1
 Satz 1 ist zu diesem Zweck eine einheitliche europäische Kennung
 zuzuordnen. Das Registergericht übermittelt nach Maßgabe der folgenden
-Absätze an die zentrale Europäische Plattform die Information über
+Absätze an die zentrale Europäische Plattform die Informationen und
+Unterlagen über
 
 1.  die Eintragung der Eröffnung, Einstellung oder Aufhebung eines
     Insolvenzverfahrens über das Vermögen der Gesellschaft,
@@ -409,56 +442,217 @@ Absätze an die zentrale Europäische Plattform die Information über
     der Gesellschaft,
 
 
-3.  die Löschung der Gesellschaft sowie
+3.  die Löschung der Gesellschaft,
 
 
-4.  das Wirksamwerden einer Verschmelzung nach § 122a des
-    Umwandlungsgesetzes.
+4.  die Verschmelzungs-, Spaltungs- oder Formwechselbescheinigung nach §
+    316 Absatz 1 Satz 4, § 329 Satz 3 oder § 343 Absatz 1 Satz 4 des
+    Umwandlungsgesetzes, das Wirksamwerden einer grenzüberschreitenden
+    Umwandlung sowie die Eintragung der aus einer grenzüberschreitenden
+    Spaltung hervorgehenden, neuen Gesellschaft oder die Eintragung der
+    grenzüberschreitenden Spaltung zur Aufnahme im Register der
+    übernehmenden Gesellschaft,
+
+
+5.  die Eintragung der Errichtung der Zweigniederlassung und die
+    Eintragung der Aufhebung der Zweigniederlassung sowie
+
+
+6.  die Änderung folgender Daten der Gesellschaft oder der
+    Zweigniederlassung:
+
+    a)  der Firma der Gesellschaft oder der Zweigniederlassung,
+
+
+    b)  des Sitzes der Gesellschaft oder der Geschäftsanschrift der
+        Zweigniederlassung,
+
+
+    c)  der Rechtsform der Gesellschaft,
+
+
+    d)  der Eintragungsnummer der Gesellschaft oder der Zweigniederlassung,
+
+
+    e)  der Personen, die als gesetzlich vorgesehenes Gesellschaftsorgan oder
+        als Mitglieder eines solchen Organs befugt sind, die Gesellschaft
+        gerichtlich und außergerichtlich zu vertreten, oder die an der
+        Verwaltung, Beaufsichtigung oder Kontrolle der Gesellschaft
+        teilnehmen.
 
 
 
+
+
+
+Die Übermittlung der Informationen und Unterlagen erfolgt nach Maßgabe
+der Bestimmungen der Durchführungsverordnung (EU) 2021/1042.
 
 (3) Die Landesjustizverwaltungen bestimmen das elektronische
 Informations- und Kommunikationssystem, über das die Daten aus dem
 Handelsregister zugänglich gemacht (Absatz 1) und im Rahmen des
 Informationsaustauschs zwischen den Registern übermittelt und
 empfangen werden (Absatz 2), und sie sind, vorbehaltlich der
-Zuständigkeit des Betreibers des Unternehmensregisters nach Absatz 1
-Satz 2, für die Abwicklung des Datenverkehrs nach den Absätzen 1 und 2
-zuständig. § 9 Absatz 1 Satz 3 bis 5 gilt entsprechend.
+Zuständigkeit der das Unternehmensregister führenden Stelle nach
+Absatz 1 Satz 2, für die Abwicklung des Datenverkehrs nach den
+Absätzen 1 und 2 zuständig. § 9 Absatz 1 Satz 3 bis 5 gilt
+entsprechend.
 
-(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-erforderlichen Bestimmungen zu treffen über
-
-1.  Struktur, Zuordnung und Verwendung der einheitlichen europäischen
-    Kennung,
-
-
-2.  den Umfang der Mitteilungspflicht im Rahmen des Informationsaustauschs
-    zwischen den Registern und die Liste der dabei zu übermittelnden
-    Daten,
-
-
-3.  die Einzelheiten des elektronischen Datenverkehrs nach den Absätzen 1
-    und 2 einschließlich Vorgaben über Datenformate und
-    Zahlungsmodalitäten sowie
-
-
-4.  den Zeitpunkt der erstmaligen Datenübermittlung.
+(4) Die das Unternehmensregister führende Stelle übermittelt nach den
+Vorgaben der Durchführungsverordnung (EU) 2021/1042 eine Änderung der
+Unterlagen der Rechnungslegung, die eine Kapitalgesellschaft mit Sitz
+im Inland offengelegt hat (§ 325 Absatz 1b Satz 1), unverzüglich an
+die zentrale Europäische Plattform, wenn die Kapitalgesellschaft eine
+Zweigniederlassung errichtet hat, die dem Recht eines anderen
+Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+unterliegt. Empfängt die das Unternehmensregister führende Stelle über
+das Europäische System der Registervernetzung Daten zu einer Änderung
+der Unterlagen der Rechnungslegung einer Kapitalgesellschaft, die dem
+Recht eines anderen Mitgliedstaates der Europäischen Union oder eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum unterliegt und die eine inländische Zweigniederlassung
+errichtet hat, so bestätigt die registerführende Stelle den Eingang
+der Daten über das Europäische System der Registervernetzung.
 
 
+#### § 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung
+
+(1) Die das Unternehmensregister führende Stelle ist die zuständige
+Stelle für die Beantwortung eines über die zentrale Europäische
+Plattform gemäß § 9b Absatz 1 Satz 2 eingehenden Ersuchens eines
+anderen Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+nach Artikel 13i der Richtlinie (EU) 2017/1132 um Informationen, die
+relevant sind für die Disqualifikation einer Person
+
+1.  als Geschäftsführer einer Gesellschaft mit beschränkter Haftung gemäß
+    § 6 Absatz 2 Satz 2 Nummer 2 und 3 des Gesetzes über die
+    Gesellschaften mit beschränkter Haftung oder
+
+
+2.  als Mitglied des Vorstands einer Aktiengesellschaft gemäß § 76 Absatz
+    3 Satz 2 Nummer 2 und 3 des Aktiengesetzes.
 
 
 
-#### § 10 Bekanntmachung der Eintragungen
+Auf Anfrage eines Registergerichts führt die zuständige Stelle ein
+Ersuchen nach Artikel 13i der Richtlinie (EU) 2017/1132 gegenüber
+anderen Mitgliedstaaten der Europäischen Union oder anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+durch und leitet die erhaltenen Antworten an das anfragende
+Registergericht weiter.
 
-Das Gericht macht die Eintragungen in das Handelsregister in dem von
-der Landesjustizverwaltung bestimmten elektronischen Informations- und
-Kommunikationssystem in der zeitlichen Folge ihrer Eintragung nach
-Tagen geordnet bekannt; § 9 Abs. 1 Satz 4 und 5 gilt entsprechend.
-Soweit nicht ein Gesetz etwas anderes vorschreibt, werden die
-Eintragungen ihrem ganzen Inhalt nach veröffentlicht.
+(2) Die zuständige Stelle erhält zum Zweck der Beantwortung eines
+Ersuchens die für die Beantwortung erforderliche Auskunft aus dem
+Bundeszentralregister nach § 57a Absatz 4 des
+Bundeszentralregistergesetzes und aus dem Gewerbezentralregister nach
+§ 150c Absatz 3 der Gewerbeordnung.
+
+(3) Die Beantwortung und die Durchführung eines Ersuchens erfolgen
+gemäß den Bestimmungen der Durchführungsverordnung (EU) 2020/2244
+sowie einer nach Absatz 6 erlassenen Verordnung.
+
+(4) Die Beantwortung eines Ersuchens ist beschränkt auf die Angabe
+gemäß Artikel 13i Absatz 4 Satz 1 der Richtlinie (EU) 2017/1132,
+
+1.  ob die betroffene Person disqualifiziert ist
+
+    a)  gemäß § 6 Absatz 2 Satz 2 Nummer 2 und 3 des Gesetzes über die
+        Gesellschaften mit beschränkter Haftung als Geschäftsführer einer
+        Gesellschaft mit beschränkter Haftung oder
+
+
+    b)  gemäß § 76 Absatz 3 Satz 2 Nummer 2 und 3 des Aktiengesetzes als
+        Mitglied des Vorstands einer Aktiengesellschaft oder
+
+
+
+
+
+2.  ob entsprechende Informationen im Bundeszentralregister oder
+    Gewerbezentralregister enthalten sind.
+
+
+
+Weitergehende Informationen über eine Disqualifikation der betroffenen
+Person werden durch die das Unternehmensregister führende Stelle über
+die zentrale Europäische Plattform nicht übermittelt.
+
+(5) Die zuständige Stelle darf die von einem ersuchenden
+Mitgliedstaat, von einem Registergericht oder nach Absatz 2
+übermittelten personenbezogenen Daten der betroffenen Personen für die
+Zwecke der Beantwortung und der Durchführung eines Ersuchens
+verarbeiten. Die personenbezogenen Daten der betroffenen Personen sind
+von der zuständigen Stelle unverzüglich zu löschen, sobald und soweit
+diese nicht mehr für die Beantwortung oder die Durchführung des
+Ersuchens erforderlich sind.
+
+(6) Durch Rechtsverordnung nach § 9a Absatz 3 können auch die
+erforderlichen Bestimmungen in Bezug auf die Beantwortung und die
+Durchführung der Ersuchen durch die zuständige Stelle getroffen
+werden, einschließlich der Bestimmungen über
+
+1.  Inhalt, Frist, Form und Umfang der Beantwortung der Ersuchen,
+
+
+2.  die technischen Einzelheiten zum Empfang, zur Verarbeitung und zur
+    Weitergabe der erforderlichen Daten für die Beantwortung und die
+    Durchführung der Ersuchen,
+
+
+3.  die technischen Vorgaben zur Speicherung, Löschung, Berichtigung und
+    Verarbeitung von Daten über die betroffenen Personen durch die
+    zuständige Stelle,
+
+
+4.  die Prüfung der vom Bundeszentralregister oder vom
+    Gewerbezentralregister erhaltenen Daten im Hinblick auf die Erfüllung
+    der Voraussetzungen einer Disqualifikation gemäß § 6 Absatz 2 Satz 2
+    Nummer 2 und 3 des Gesetzes über die Gesellschaften mit beschränkter
+    Haftung oder gemäß § 76 Absatz 3 Satz 2 Nummer 2 und 3 des
+    Aktiengesetzes,
+
+
+5.  die Voraussetzungen, Formalien, Fristen und Inhalte der Durchführung
+    der Ersuchen.
+
+
+
+
+
+#### § 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen
+
+(1) Die Eintragungen in das Handelsregister sowie
+Registerbekanntmachungen nach Absatz 3 werden durch ihre erstmalige
+Abrufbarkeit über das nach § 9 Absatz 1 bestimmte elektronische
+Informations- und Kommunikationssystem bekannt gemacht. § 9 Absatz 1
+Satz 4 und 5 gilt entsprechend.
+
+(2) Die Eintragungen in das Handelsregister und die eingereichten
+Dokumente, die gemäß § 9 der unbeschränkten Einsichtnahme unterliegen,
+sind unverzüglich nach der Eintragung in das Handelsregister zum Abruf
+über das nach § 9 Absatz 1 bestimmte elektronische Informations- und
+Kommunikationssystem bereitzustellen.
+
+(3) Das Registergericht kann in den gesetzlich bestimmten Fällen in
+dem nach § 9 Absatz 1 bestimmten elektronischen Informations- und
+Kommunikationssystem sonstige oder zusätzliche Tatsachen bekannt
+machen (Registerbekanntmachungen).
+
+(4) Eine Eintragung gilt mit dem Ablauf des Tages der Eintragung und
+eine Registerbekanntmachung gilt mit dem Ablauf des Tages der
+Registerbekanntmachung als bekannt gemacht. Dies gilt nicht, wenn der
+Nachweis erbracht wird, dass der Abruf der Eintragung oder der
+Registerbekanntmachung
+
+1.  bereits zu einem früheren Zeitpunkt möglich war oder
+
+
+2.  erstmalig erst zu einem späteren Zeitpunkt möglich war.
+
+
+
 
 
 #### § 10a Anwendung der Verordnung (EU) 2016/679
@@ -471,30 +665,27 @@ Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
 L 314 vom 22.11.2016, S. 72) wird dadurch erfüllt, dass die betroffene
 Person Einsicht in das Handelsregister und in die zum Handelsregister
-eingereichten Dokumente sowie in das für die Bekanntmachungen der
-Eintragungen bestimmte elektronische Informations- und
-Kommunikationssystem nehmen kann. Eine Information der betroffenen
+eingereichten Dokumente nehmen kann. Eine Information der betroffenen
 Person über konkrete Empfänger, gegenüber denen die im Register, in
-Bekanntmachungen der Eintragungen oder in zum Register einzureichenden
+Registerbekanntmachungen oder in zum Register einzureichenden
 Dokumenten enthaltenen personenbezogenen Daten offengelegt werden,
 erfolgt nicht.
 
-(2) Hinsichtlich der im Handelsregister, in Bekanntmachungen der
-Eintragungen oder in zum Handelsregister einzureichenden Dokumenten
-enthaltenen personenbezogenen Daten kann das Recht auf Berichtigung
-nach Artikel 16 der Verordnung (EU) 2016/679 nur unter den
-Voraussetzungen ausgeübt werden, die in den §§ 393 bis 395 und §§ 397
-bis 399 des Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der Freiwilligen Gerichtsbarkeit sowie der
-Rechtsverordnung nach § 387 Absatz 2 des Gesetzes über das Verfahren
-in Familiensachen und in den Angelegenheiten der Freiwilligen
-Gerichtsbarkeit für eine Löschung oder Berichtigung vorgesehen sind.
+(2) Hinsichtlich der im Handelsregister, in Registerbekanntmachungen
+oder in zum Handelsregister einzureichenden Dokumenten enthaltenen
+personenbezogenen Daten kann das Recht auf Berichtigung nach Artikel
+16 der Verordnung (EU) 2016/679 nur unter den Voraussetzungen ausgeübt
+werden, die in den §§ 393 bis 395 und §§ 397 bis 399 des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
+Freiwilligen Gerichtsbarkeit sowie der Rechtsverordnung nach § 387
+Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der Freiwilligen Gerichtsbarkeit für eine Löschung
+oder Berichtigung vorgesehen sind.
 
 (3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU)
 2016/679 findet in Bezug auf die im Handelsregister, in
-Bekanntmachungen der Eintragungen oder in zum Handelsregister
-einzureichenden Dokumenten enthaltenen personenbezogenen Daten keine
-Anwendung.
+Registerbekanntmachungen oder in zum Handelsregister einzureichenden
+Dokumenten enthaltenen personenbezogenen Daten keine Anwendung.
 
 
 #### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen  Union
@@ -515,15 +706,18 @@ Originalfassung bekannt war.
 #### § 12 Anmeldungen zur Eintragung und Einreichungen
 
 (1) Anmeldungen zur Eintragung in das Handelsregister sind
-elektronisch in öffentlich beglaubigter Form einzureichen. Die gleiche
-Form ist für eine Vollmacht zur Anmeldung erforderlich. Anstelle der
-Vollmacht kann die Bescheinigung eines Notars nach § 21 Absatz 3 der
-Bundesnotarordnung eingereicht werden. Rechtsnachfolger eines
-Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche
-Urkunden nachzuweisen.
+elektronisch in öffentlich beglaubigter Form einzureichen. Die
+öffentliche Beglaubigung mittels Videokommunikation gemäß § 40a des
+Beurkundungsgesetzes ist zulässig. Die gleiche Form ist für eine
+Vollmacht zur Anmeldung erforderlich. Anstelle der Vollmacht kann die
+Bescheinigung eines Notars nach § 21 Absatz 3 der Bundesnotarordnung
+eingereicht werden. Rechtsnachfolger eines Beteiligten haben die
+Rechtsnachfolge soweit tunlich durch öffentliche Urkunden
+nachzuweisen.
 
-(2) Dokumente sind elektronisch einzureichen. Ist eine Urschrift oder
-eine einfache Abschrift einzureichen oder ist für das Dokument die
+(2) Dokumente sind elektronisch in einem maschinenlesbaren und
+durchsuchbaren Datenformat einzureichen. Ist eine Urschrift oder eine
+einfache Abschrift einzureichen oder ist für das Dokument die
 Schriftform bestimmt, genügt die Übermittlung einer elektronischen
 Aufzeichnung; ist ein notariell beurkundetes Dokument oder eine
 öffentlich beglaubigte Abschrift einzureichen, so ist ein mit einem
@@ -554,7 +748,43 @@ offensichtlich nicht errichtet worden.
 Zweigniederlassung.
 
 
-#### (XXXX) §§ 13a bis 13c (weggefallen)
+#### § 13a Europäische Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Inland
+
+(1) In Bezug auf Zweigniederlassungen, die dem Recht eines anderen
+Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+unterliegen und die von einer Kapitalgesellschaft mit Sitz im Inland
+errichtet wurden, gelten die folgenden Vorschriften.
+
+(2) Die Landesjustizverwaltungen stellen sicher, dass die Daten der
+Zweigniederlassungen, die im Rahmen des Europäischen Systems der
+Registervernetzung gemäß § 9b empfangen werden, an dasjenige
+Registergericht weitergeleitet werden, das für die Gesellschaft
+zuständig ist.
+
+(3) Das zuständige Registergericht bestätigt den Eingang der Daten
+über das Europäische System der Registervernetzung gemäß § 9b und
+trägt unverzüglich von Amts wegen die folgenden gemäß Absatz 2
+erhaltenen Daten zu der Zweigniederlassung oder deren Änderung in das
+Registerblatt der Gesellschaft ein:
+
+1.  Errichtung, Aufhebung oder Löschung der Zweigniederlassung,
+
+
+2.  Firma der Zweigniederlassung,
+
+
+3.  Geschäftsanschrift der Zweigniederlassung einschließlich des Staates,
+
+
+4.  Eintragungsnummer und einheitliche europäische Kennung der
+    Zweigniederlassung.
+
+
+
+
+
+#### (XXXX) §§ 13b u. 13c (weggefallen)
 
 
 #### § 13d Sitz oder Hauptniederlassung im Ausland
@@ -625,11 +855,14 @@ bekannt war. In der Anmeldung sind ferner anzugeben
 
 (3) Die in Absatz 2 Satz 5 Nr. 3 genannten Personen haben jede
 Änderung dieser Personen oder der Vertretungsbefugnis einer dieser
-Personen zur Eintragung in das Handelsregister anzumelden. Für die
-gesetzlichen Vertreter der Gesellschaft gelten in Bezug auf die
-Zweigniederlassung § 76 Abs. 3 Satz 2 und 3 des Aktiengesetzes sowie §
-6 Abs. 2 Satz 2 und 3 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung entsprechend.
+Personen zur Eintragung in das Handelsregister anzumelden. Wenn die
+Gesellschaft nicht dem Recht eines Mitgliedstaates der Europäischen
+Union oder eines anderen Vertragsstaates des Abkommens über den
+Europäischen Wirtschaftsraum unterliegt, gelten für die gesetzlichen
+Vertreter der Gesellschaft in Bezug auf die Zweigniederlassung § 76
+Absatz 3 Satz 2 bis 4 des Aktiengesetzes sowie § 6 Absatz 2 Satz 2 bis
+4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung
+entsprechend.
 
 (3a) An die in Absatz 2 Satz 5 Nr. 3 genannten Personen als Vertreter
 der Gesellschaft können unter der im Handelsregister eingetragenen
@@ -660,6 +893,13 @@ Europäischen Systems der Registervernetzung (§ 9b) empfangen werden,
 an das Registergericht weitergeleitet werden, das für eine inländische
 Zweigniederlassung dieser Gesellschaft zuständig ist.
 
+(7) Das zuständige Registergericht bestätigt den Eingang der Daten
+über das Europäische System der Registervernetzung. Sofern zum
+Zeitpunkt des Dateneingangs bei dem Registergericht keine Anmeldung in
+Bezug auf die mitgeteilten Tatsachen vorliegt, fordert es die
+Gesellschaft zur unverzüglichen Anmeldung der geänderten Tatsachen
+auf.
+
 
 #### § 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland
 
@@ -670,16 +910,19 @@ Ausland gelten ergänzend die folgenden Vorschriften.
 und, sofern die Satzung nicht in deutscher Sprache erstellt ist, eine
 beglaubigte Übersetzung in deutscher Sprache beizufügen. Die
 Vorschriften des § 37 Abs. 2 und 3 des Aktiengesetzes finden
-Anwendung. Soweit nicht das ausländische Recht eine Abweichung nötig
-macht, sind in die Anmeldung die in § 23 Abs. 3 und 4 des
-Aktiengesetzes vorgesehenen Bestimmungen und Bestimmungen der Satzung
-über die Zusammensetzung des Vorstandes aufzunehmen; erfolgt die
-Anmeldung in den ersten zwei Jahren nach der Eintragung der
-Gesellschaft in das Handelsregister ihres Sitzes, sind auch die
-Angaben über Festsetzungen nach den §§ 26 und 27 des Aktiengesetzes
-und der Ausgabebetrag der Aktien sowie Name und Wohnort der Gründer
-aufzunehmen. Der Anmeldung ist die für den Sitz der Gesellschaft
-ergangene gerichtliche Bekanntmachung beizufügen.
+Anwendung. § 37 Absatz 2 des Aktiengesetzes ist nicht anzuwenden auf
+Aktiengesellschaften, die dem Recht eines Mitgliedstaates der
+Europäischen Union oder eines anderen Vertragsstaates des Abkommens
+über den Europäischen Wirtschaftsraum unterliegen. Soweit nicht das
+ausländische Recht eine Abweichung nötig macht, sind in die Anmeldung
+die in § 23 Abs. 3 und 4 des Aktiengesetzes vorgesehenen Bestimmungen
+und Bestimmungen der Satzung über die Zusammensetzung des Vorstandes
+aufzunehmen; erfolgt die Anmeldung in den ersten zwei Jahren nach der
+Eintragung der Gesellschaft in das Handelsregister ihres Sitzes, sind
+auch die Angaben über Festsetzungen nach den §§ 26 und 27 des
+Aktiengesetzes und der Ausgabebetrag der Aktien sowie Name und Wohnort
+der Gründer aufzunehmen. Der Anmeldung ist die für den Sitz der
+Gesellschaft ergangene gerichtliche Bekanntmachung beizufügen.
 
 (3) Die Eintragung der Errichtung der Zweigniederlassung hat auch die
 Angaben nach § 39 des Aktiengesetzes sowie die Angaben nach § 13e Abs.
@@ -693,7 +936,11 @@ Abweichungen nötig macht.
 
 (5) Im übrigen gelten die Vorschriften der §§ 81, 263 Satz 1, § 266
 Abs. 1 und 2, § 273 Abs. 1 Satz 1 des Aktiengesetzes sinngemäß, soweit
-nicht das ausländische Recht Abweichungen nötig macht.
+nicht das ausländische Recht Abweichungen nötig macht. § 81 Absatz 3
+des Aktiengesetzes ist nicht anzuwenden auf Aktiengesellschaften, die
+dem Recht eines Mitgliedstaates der Europäischen Union oder eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum unterliegen.
 
 (6) Für die Aufhebung einer Zweigniederlassung gelten die Vorschriften
 über ihre Errichtung sinngemäß.
@@ -717,11 +964,15 @@ beglaubigter Abschrift und, sofern der Gesellschaftsvertrag nicht in
 deutscher Sprache erstellt ist, eine beglaubigte Übersetzung in
 deutscher Sprache beizufügen. Die Vorschriften des § 8 Abs. 1 Nr. 2
 und Abs. 3 und 4 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung sind anzuwenden. Wird die Errichtung der
-Zweigniederlassung in den ersten zwei Jahren nach der Eintragung der
-Gesellschaft in das Handelsregister ihres Sitzes angemeldet, so sind
-in die Anmeldung auch die nach § 5 Abs. 4 des Gesetzes betreffend die
-Gesellschaften mit beschränkter Haftung getroffenen Festsetzungen
+beschränkter Haftung sind anzuwenden. § 8 Absatz 3 des Gesetzes
+betreffend die Gesellschaften mit beschränkter Haftung ist nicht
+anzuwenden auf Gesellschaften, die dem Recht eines Mitgliedstaates der
+Europäischen Union oder eines anderen Vertragsstaates des Abkommens
+über den Europäischen Wirtschaftsraum unterliegen. Wird die Errichtung
+der Zweigniederlassung in den ersten zwei Jahren nach der Eintragung
+der Gesellschaft in das Handelsregister ihres Sitzes angemeldet, so
+sind in die Anmeldung auch die nach § 5 Abs. 4 des Gesetzes betreffend
+die Gesellschaften mit beschränkter Haftung getroffenen Festsetzungen
 aufzunehmen, soweit nicht das ausländische Recht Abweichungen nötig
 macht.
 
@@ -740,7 +991,12 @@ Abweichungen nötig macht.
 (5) Im übrigen gelten die Vorschriften der §§ 39, 65 Abs. 1 Satz 1, §
 67 Abs. 1 und 2, § 74 Abs. 1 Satz 1 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung sinngemäß, soweit nicht das
-ausländische Recht Abweichungen nötig macht.
+ausländische Recht Abweichungen nötig macht. § 39 Absatz 3 des
+Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ist
+nicht anzuwenden auf Gesellschaften, die dem Recht eines
+Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+unterliegen.
 
 (6) Für die Aufhebung einer Zweigniederlassung gelten die Vorschriften
 über ihre Errichtung sinngemäß.
@@ -798,16 +1054,20 @@ Rechtshandlungen, die innerhalb von fünfzehn Tagen nach der
 Bekanntmachung vorgenommen werden, sofern der Dritte beweist, daß er
 die Tatsache weder kannte noch kennen mußte.
 
-(3) Ist eine einzutragende Tatsache unrichtig bekanntgemacht, so kann
-sich ein Dritter demjenigen gegenüber, in dessen Angelegenheiten die
-Tatsache einzutragen war, auf die bekanntgemachte Tatsache berufen, es
-sei denn, daß er die Unrichtigkeit kannte.
+(3) Ist eine einzutragende und bekannt gemachte Tatsache unrichtig
+eingetragen, so kann sich ein Dritter demjenigen gegenüber, in dessen
+Angelegenheit die Tatsache einzutragen war, auf die eingetragene
+Tatsache berufen, es sei denn, dass er die Unrichtigkeit kannte.
 
 (4) Für den Geschäftsverkehr mit einer in das Handelsregister
 eingetragenen Zweigniederlassung eines Unternehmens mit Sitz oder
 Hauptniederlassung im Ausland ist im Sinne dieser Vorschriften die
 Eintragung und Bekanntmachung durch das Gericht der Zweigniederlassung
 entscheidend.
+
+(5) Die Absätze 1 bis 3 sind nicht anzuwenden im Hinblick auf die im
+Registerblatt einer Kapitalgesellschaft eingetragenen Informationen
+über eine Zweigniederlassung der Gesellschaft im Ausland.
 
 
 #### § 15a Öffentliche Zustellung
@@ -1104,8 +1364,7 @@ einzutragen. Das gleiche gilt für
 
 
 
-(2) Die Eintragungen werden nicht bekanntgemacht. Die Vorschriften des
-§ 15 sind nicht anzuwenden.
+(2) Die Vorschriften des § 15 sind nicht anzuwenden.
 
 
 #### § 33
@@ -1446,11 +1705,11 @@ und 3 sowie der §§ 87a bis 87c anzuwenden.
 (1) Eine Vereinbarung zwischen dem Prinzipal und dem
 Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des
 Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränkt
-(Wettbewerbsverbot), bedarf der Schriftform und der Aushändigung einer
+(Wettbewerbverbot), bedarf der Schriftform und der Aushändigung einer
 vom Prinzipal unterzeichneten, die vereinbarten Bestimmungen
 enthaltenden Urkunde an den Gehilfen.
 
-(2) Das Wettbewerbsverbot ist nur verbindlich, wenn sich der Prinzipal
+(2) Das Wettbewerbverbot ist nur verbindlich, wenn sich der Prinzipal
 verpflichtet, für die Dauer des Verbots eine Entschädigung zu zahlen,
 die für jedes Jahr des Verbots mindestens die Hälfte der von dem
 Handlungsgehilfen zuletzt bezogenen vertragsmäßigen Leistungen
@@ -1459,7 +1718,7 @@ erreicht.
 
 #### § 74a
 
-(1) Das Wettbewerbsverbot ist insoweit unverbindlich, als es nicht zum
+(1) Das Wettbewerbverbot ist insoweit unverbindlich, als es nicht zum
 Schutze eines berechtigten geschäftlichen Interesses des Prinzipals
 dient. Es ist ferner unverbindlich, soweit es unter Berücksichtigung
 der gewährten Entschädigung nach Ort, Zeit oder Gegenstand eine
@@ -1505,7 +1764,7 @@ Entschädigung gezahlt wird, durch anderweite Verwertung seiner
 Arbeitskraft erwirbt oder zu erwerben böswillig unterläßt, soweit die
 Entschädigung unter Hinzurechnung dieses Betrags den Betrag der
 zuletzt von ihm bezogenen vertragsmäßigen Leistungen um mehr als ein
-Zehntel übersteigen würde. Ist der Gehilfe durch das Wettbewerbsverbot
+Zehntel übersteigen würde. Ist der Gehilfe durch das Wettbewerbverbot
 gezwungen worden, seinen Wohnsitz zu verlegen, so tritt an die Stelle
 des Betrags von einem Zehntel der Betrag von einem Viertel. Für die
 Dauer der Verbüßung einer Freiheitsstrafe kann der Gehilfe eine
@@ -1523,7 +1782,7 @@ Prinzipals auf, so wird das Wettbewerbverbot unwirksam, wenn der
 Gehilfe vor Ablauf eines Monats nach der Kündigung schriftlich
 erklärt, daß er sich an die Vereinbarung nicht gebunden erachte.
 
-(2) In gleicher Weise wird das Wettbewerbsverbot unwirksam, wenn der
+(2) In gleicher Weise wird das Wettbewerbverbot unwirksam, wenn der
 Prinzipal das Dienstverhältnis kündigt, es sei denn, daß für die
 Kündigung ein erheblicher Anlaß in der Person des Gehilfen vorliegt
 oder daß sich der Prinzipal bei der Kündigung bereit erklärt, während
@@ -1732,7 +1991,7 @@ Provision nach Absatz 3 dem ausgeschiedenen Handelsvertreter zusteht.
 
 (2) Ist dem Handelsvertreter ein bestimmter Bezirk oder ein bestimmter
 Kundenkreis zugewiesen, so hat er Anspruch auf Provision auch für die
-Geschäfte, die ohne seine Mitwirkung mit Personen seines Bezirks oder
+Geschäfte, die ohne seine Mitwirkung mit Personen seines Bezirkes oder
 seines Kundenkreises während des Vertragsverhältnisses abgeschlossen
 sind. Dies gilt nicht, wenn und soweit die Provision nach Absatz 3 dem
 ausgeschiedenen Handelsvertreter zusteht.
@@ -1834,7 +2093,7 @@ des Unternehmers entweder ihm oder einem von ihm zu bestimmenden
 Wirtschaftsprüfer oder vereidigten Buchsachverständigen Einsicht in
 die Geschäftsbücher oder die sonstigen Urkunden so weit gewährt wird,
 wie dies zur Feststellung der Richtigkeit oder Vollständigkeit der
-Abrechnung oder des Buchauszugs erforderlich ist.
+Abrechnung oder des Buchauszuges erforderlich ist.
 
 (5) Diese Rechte des Handelsvertreters können nicht ausgeschlossen
 oder beschränkt werden.
@@ -1888,7 +2147,7 @@ Vertragsverhältnisses maßgeblich.
 
 #### § 89a
 
-(1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grund
+(1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grunde
 ohne Einhaltung einer Kündigungsfrist gekündigt werden. Dieses Recht
 kann nicht ausgeschlossen oder beschränkt werden.
 
@@ -1900,9 +2159,10 @@ verpflichtet.
 
 #### § 89b
 
-(1) Der Handelsvertreter kann von dem Unternehmer nach Beendigung des
-Vertragsverhältnisses einen angemessenen Ausgleich verlangen, wenn und
-soweit
+(1) Der
+Handelvertreter              kann von dem Unternehmer nach Beendigung
+des Vertragsverhältnisses einen angemessenen Ausgleich verlangen, wenn
+und soweit
 
 1.  der Unternehmer aus der Geschäftsverbindung mit neuen Kunden, die der
     Handelsvertreter geworben hat, auch nach Beendigung des
@@ -2065,19 +2325,18 @@ Bausparkassenvertreter.
 (1) Für das Vertragsverhältnis eines Handelsvertreters, der
 vertraglich nicht für weitere Unternehmer tätig werden darf oder dem
 dies nach Art und Umfang der von ihm verlangten Tätigkeit nicht
-möglich ist, kann das Bundesministerium der Justiz und für
-Verbraucherschutz im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Energie nach Anhörung von Verbänden der
-Handelsvertreter und der Unternehmer durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf, die untere Grenze der
-vertraglichen Leistungen des Unternehmers festsetzen, um die
-notwendigen sozialen und wirtschaftlichen Bedürfnisse dieser
-Handelsvertreter oder einer bestimmten Gruppe von ihnen
-sicherzustellen. Die festgesetzten Leistungen können vertraglich nicht
-ausgeschlossen oder beschränkt werden.
+möglich ist, kann das Bundesministerium der Justiz im Einvernehmen mit
+dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung von
+Verbänden der Handelsvertreter und der Unternehmer durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+untere Grenze der vertraglichen Leistungen des Unternehmers
+festsetzen, um die notwendigen sozialen und wirtschaftlichen
+Bedürfnisse dieser Handelsvertreter oder einer bestimmten Gruppe von
+ihnen sicherzustellen. Die festgesetzten Leistungen können vertraglich
+nicht ausgeschlossen oder beschränkt werden.
 
 (2) Absatz 1 gilt auch für das Vertragsverhältnis eines
-Versicherungsvertreters, der auf Grund eines Vertrags oder mehrerer
+Versicherungsvertreters, der auf Grund eines Vertrages oder mehrerer
 Verträge damit betraut ist, Geschäfte für mehrere Versicherer zu
 vermitteln oder abzuschließen, die zu einem Versicherungskonzern oder
 zu einer zwischen ihnen bestehenden Organisationsgemeinschaft gehören,
@@ -2153,7 +2412,7 @@ kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
 (1) Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen
 oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon
-entbindet, unverzüglich nach dem Abschluß des Geschäfts jeder Partei
+entbindet, unverzüglich nach dem Abschlusse des Geschäfts jeder Partei
 eine von ihm unterzeichnete Schlußnote zuzustellen, welche die
 Parteien, den Gegenstand und die Bedingungen des Geschäfts,
 insbesondere bei Verkäufen von Waren oder Wertpapieren deren Gattung
@@ -2376,7 +2635,7 @@ Gesellschaftsvertrag ein anderes bestimmt ist.
 Aufwendungen, die er den Umständen nach für erforderlich halten darf,
 oder erleidet er unmittelbar durch seine Geschäftsführung oder aus
 Gefahren, die mit ihr untrennbar verbunden sind, Verluste, so ist ihm
-die Gesellschaft zum Ersatz verpflichtet.
+die Gesellschaft zum Ersatze verpflichtet.
 
 (2) Aufgewendetes Geld hat die Gesellschaft von der Zeit der
 Aufwendung an zu verzinsen.
@@ -2522,7 +2781,7 @@ Kapitalanteil entnommene Geld wird davon abgeschrieben.
 (1) Von dem Jahresgewinne gebührt jedem Gesellschafter zunächst ein
 Anteil in Höhe von vier vom Hundert seines Kapitalanteils. Reicht der
 Jahresgewinn hierzu nicht aus, so bestimmen sich die Anteile nach
-einem entsprechend niedrigeren Satz.
+einem entsprechend niedrigeren Satze.
 
 (2) Bei der Berechnung des nach Absatz 1 einem Gesellschafter
 zukommenden Gewinnanteils werden Leistungen, die der Gesellschafter im
@@ -2777,7 +3036,7 @@ Zeitpunkte stattfinden.
 ##### § 133
 
 (1) Auf Antrag eines Gesellschafters kann die Auflösung der
-Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder
+Gesellschaft vor dem Ablaufe der für ihre Dauer bestimmten Zeit oder
 bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne
 Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn
 ein wichtiger Grund vorliegt.
@@ -2869,7 +3128,7 @@ nach der Ausschließung nur ein Gesellschafter verbleibt.
 
 (2) Für die Auseinandersetzung zwischen der Gesellschaft und dem
 ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft
-in dem Zeitpunkt maßgebend, in welchem die Klage auf Ausschließung
+in dem Zeitpunkte maßgebend, in welchem die Klage auf Ausschließung
 erhoben ist.
 
 
@@ -3078,8 +3337,9 @@ und Benutzung der Bücher und Papiere.
 
 Vereinbaren die Gesellschafter statt der Liquidation eine andere Art
 der Auseinandersetzung, so finden, solange noch ungeteiltes
-Gesellschaftsvermögen vorhanden ist, im Verhältnis zu Dritten die für
-die Liquidation geltenden Vorschriften entsprechende Anwendung.
+Gesellschaftvermögen              vorhanden ist, im Verhältnisse zu
+Dritten die für die Liquidation geltenden Vorschriften entsprechende
+Anwendung.
 
 
 #### Sechster Titel - Verjährung. Zeitliche Begrenzung der Haftung.
@@ -3146,8 +3406,8 @@ Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine
 Kommanditgesellschaft, wenn bei einem oder bei einigen von den
 Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf
 den Betrag einer bestimmten Vermögenseinlage beschränkt ist
-(Kommanditisten), während bei dem anderen Teil der Gesellschafter eine
-Beschränkung der Haftung nicht stattfindet (persönlich haftende
+(Kommanditisten), während bei dem anderen Teile der Gesellschafter
+eine Beschränkung der Haftung nicht stattfindet (persönlich haftende
 Gesellschafter).
 
 (2) Soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist,
@@ -3164,11 +3424,7 @@ bürgerlichen Rechts Kommanditist, so sind auch deren Gesellschafter
 entsprechend § 106 Abs. 2 und spätere Änderungen in der
 Zusammensetzung der Gesellschafter zur Eintragung anzumelden.
 
-(2) Bei der Bekanntmachung der Eintragung der Gesellschaft sind keine
-Angaben zu den Kommanditisten zu machen; die Vorschriften des § 15
-sind insoweit nicht anzuwenden.
-
-(3) Diese Vorschriften finden im Falle des Eintritts eines
+(2) Diese Vorschriften finden im Falle des Eintritts eines
 Kommanditisten in eine bestehende Handelsgesellschaft und im Falle des
 Ausscheidens eines Kommanditisten aus einer Kommanditgesellschaft
 entsprechende Anwendung.
@@ -3268,7 +3524,7 @@ Insolvenzverwalter oder den Sachwalter ausgeübt.
 
 #### § 172
 
-(1) Im Verhältnis zu den Gläubigern der Gesellschaft wird nach der
+(1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der
 Eintragung in das Handelsregister die Einlage eines Kommanditisten
 durch den in der Eintragung angegebenen Betrag bestimmt.
 
@@ -3333,21 +3589,21 @@ lassen.
 
 Die Erhöhung sowie die Herabsetzung einer Einlage ist durch die
 sämtlichen Gesellschafter zur Eintragung in das Handelsregister
-anzumelden. § 162 Abs. 2 gilt entsprechend. Auf die Eintragung in das
-Handelsregister des Sitzes der Gesellschaft finden die Vorschriften
-des § 14 keine Anwendung.
+anzumelden. Auf die Eintragung in das Handelsregister des Sitzes der
+Gesellschaft finden die Vorschriften des § 14 keine Anwendung.
 
 
 #### § 176
 
 (1) Hat die Gesellschaft ihre Geschäfte begonnen, bevor sie in das
 Handelsregister des Gerichts, in dessen Bezirke sie ihren Sitz hat,
-eingetragen ist, so haftet jeder Kommanditist, der dem Geschäftsbeginn
-zugestimmt hat, für die bis zur Eintragung begründeten
-Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden
-Gesellschafter, es sei denn, daß seine Beteiligung als Kommanditist
-dem Gläubiger bekannt war. Diese Vorschrift kommt nicht zur Anwendung,
-soweit sich aus § 2 oder § 105 Abs. 2 ein anderes ergibt.
+eingetragen ist, so haftet jeder Kommanditist, der dem
+Geschäftsbeginne zugestimmt hat, für die bis zur Eintragung
+begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich
+haftenden Gesellschafter, es sei denn, daß seine Beteiligung als
+Kommanditist dem Gläubiger bekannt war. Diese Vorschrift kommt nicht
+zur Anwendung, soweit sich aus § 2 oder § 105 Abs. 2 ein anderes
+ergibt.
 
 (2) Tritt ein Kommanditist in eine bestehende Handelsgesellschaft ein,
 so findet die Vorschrift des Absatzes 1 Satz 1 für die in der Zeit
@@ -3385,30 +3641,30 @@ anderer betreibt, mit einer Vermögenseinlage beteiligt, hat die
 Einlage so zu leisten, daß sie in das Vermögen des Inhabers des
 Handelsgeschäfts übergeht.
 
-(2) Der Inhaber wird aus den in dem Betrieb geschlossenen Geschäften
+(2) Der Inhaber wird aus den in dem Betriebe geschlossenen Geschäften
 allein berechtigt und verpflichtet.
 
 
 #### § 231
 
-(1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verlust
+(1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verluste
 nicht bestimmt, so gilt ein den Umständen nach angemessener Anteil als
 bedungen.
 
-(2) Im Gesellschaftsvertrag kann bestimmt werden, daß der stille
-Gesellschafter nicht am Verlust beteiligt sein soll; seine Beteiligung
-am Gewinn kann nicht ausgeschlossen werden.
+(2) Im Gesellschaftsvertrage kann bestimmt werden, daß der stille
+Gesellschafter nicht am Verluste beteiligt sein soll; seine
+Beteiligung am Gewinne kann nicht ausgeschlossen werden.
 
 
 #### § 232
 
-(1) Am Schluß jedes Geschäftsjahrs wird der Gewinn und Verlust
+(1) Am Schlusse jedes Geschäftsjahrs wird der Gewinn und Verlust
 berechnet und der auf den stillen Gesellschafter fallende Gewinn ihm
 ausbezahlt.
 
-(2) Der stille Gesellschafter nimmt an dem Verlust nur bis zum Betrag
-seiner eingezahlten oder rückständigen Einlage teil. Er ist nicht
-verpflichtet, den bezogenen Gewinn wegen späterer Verluste
+(2) Der stille Gesellschafter nimmt an dem Verluste nur bis zum
+Betrage seiner eingezahlten oder rückständigen Einlage teil. Er ist
+nicht verpflichtet, den bezogenen Gewinn wegen späterer Verluste
 zurückzuzahlen; jedoch wird, solange seine Einlage durch Verlust
 vermindert ist, der jährliche Gewinn zur Deckung des Verlustes
 verwendet.
@@ -3455,10 +3711,10 @@ und dessen Guthaben in Geld zu berichtigen.
 
 (2) Die zur Zeit der Auflösung schwebenden Geschäfte werden von dem
 Inhaber des Handelsgeschäfts abgewickelt. Der stille Gesellschafter
-nimmt teil an dem Gewinn und Verlust, der sich aus diesen Geschäften
+nimmt teil an dem Gewinn und Verluste, der sich aus diesen Geschäften
 ergibt.
 
-(3) Er kann am Schluß jedes Geschäftsjahrs Rechenschaft über die
+(3) Er kann am Schlusse jedes Geschäftsjahrs Rechenschaft über die
 inzwischen beendigten Geschäfte, Auszahlung des ihm gebührenden
 Betrags und Auskunft über den Stand der noch schwebenden Geschäfte
 verlangen.
@@ -3473,7 +3729,7 @@ Verlust übersteigt, seine Forderung als Insolvenzgläubiger geltend
 machen.
 
 (2) Ist die Einlage rückständig, so hat sie der stille Gesellschafter
-bis zu dem Betrag, welcher zur Deckung seines Anteils am Verlust
+bis zu dem Betrage, welcher zur Deckung seines Anteils am Verlust
 erforderlich ist, zur Insolvenzmasse einzuzahlen.
 
 
@@ -3881,10 +4137,10 @@ ist. Der nach den Sätzen 1 und 2 anzuwendende Abzinsungszinssatz wird
 von der Deutschen Bundesbank nach Maßgabe einer Rechtsverordnung
 ermittelt und monatlich bekannt gegeben. In der Rechtsverordnung nach
 Satz 4, die nicht der Zustimmung des Bundesrates bedarf, bestimmt das
-Bundesministerium der Justiz und für Verbraucherschutz im Benehmen mit
-der Deutschen Bundesbank das Nähere zur Ermittlung der
-Abzinsungszinssätze, insbesondere die Ermittlungsmethodik und deren
-Grundlagen, sowie die Form der Bekanntgabe.
+Bundesministerium der Justiz im Benehmen mit der Deutschen Bundesbank
+das Nähere zur Ermittlung der Abzinsungszinssätze, insbesondere die
+Ermittlungsmethodik und deren Grundlagen, sowie die Form der
+Bekanntgabe.
 
 (3) Bei Vermögensgegenständen des Anlagevermögens, deren Nutzung
 zeitlich begrenzt ist, sind die Anschaffungs- oder die
@@ -4082,8 +4338,9 @@ festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der
 Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt
 worden oder der Buchungsbeleg entstanden ist.
 
+Vorlegung im
 
-##### § 258 Vorlegung im Rechtsstreit
+##### § 258 
 
 (1) Im Laufe eines Rechtsstreits kann das Gericht auf Antrag oder von
 Amts wegen die Vorlegung der Handelsbücher einer Partei anordnen.
@@ -4213,7 +4470,7 @@ Kleinstkapitalgesellschaften aufgestellter Jahresabschluss den
 Erfordernissen des Satzes 1 entspricht.
 
 (3) Eine Kapitalgesellschaft, die nicht im Sinne des § 264d
-kapitalmarktorientiert ist und als Tochterunternehmen in den
+kapitalmarktorientiert ist und die als Tochterunternehmen in den
 Konzernabschluss eines Mutterunternehmens mit Sitz in einem
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist,
@@ -4241,7 +4498,7 @@ folgenden Voraussetzungen erfüllt sind:
         und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments
         und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und
         83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19), die zuletzt
-        durch die Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86)
+        durch die Richtlinie (EU) 2021/2101 (ABl. L 429 vom 1.12.2021, S. 1)
         geändert worden ist,
 
 
@@ -4249,8 +4506,9 @@ folgenden Voraussetzungen erfüllt sind:
         17\. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und
         konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG
         und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG
-        des Rates (ABl. L 157 vom 9.6.2006, S. 87), die durch die Richtlinie
-        2013/34/EU (ABl. L 182 vom 29.6.2013, S. 19) geändert worden ist;
+        des Rates (ABl. L 157 vom 9.6.2006, S. 87), die zuletzt durch die
+        Richtlinie 2014/56/EU (ABl. L 158 vom 27.5.2014, S. 196) geändert
+        worden ist;
 
 
 
@@ -4286,13 +4544,13 @@ folgenden Voraussetzungen erfüllt sind:
 Hat bereits das Mutterunternehmen einzelne oder alle der in Satz 1
 Nummer 5 bezeichneten Unterlagen offengelegt, braucht das
 Tochterunternehmen die betreffenden Unterlagen nicht erneut
-offenzulegen, wenn sie im Bundesanzeiger unter dem Tochterunternehmen
-auffindbar sind; § 326 Absatz 2 ist auf diese Offenlegung nicht
-anzuwenden. Satz 2 gilt nur dann, wenn das Mutterunternehmen die
-betreffende Unterlage in deutscher oder in englischer Sprache
-offengelegt hat oder das Tochterunternehmen zusätzlich eine
-beglaubigte Übersetzung dieser Unterlage in deutscher Sprache nach §
-325 Absatz 1 bis 1b offenlegt.
+offenzulegen, wenn sie im Unternehmensregister unter dem
+Tochterunternehmen auffindbar sind; § 326 Absatz 2 ist auf diese
+Offenlegung nicht anzuwenden. Satz 2 gilt nur dann, wenn das
+Mutterunternehmen die betreffende Unterlage in deutscher oder in
+englischer Sprache offengelegt hat oder das Tochterunternehmen
+zusätzlich eine beglaubigte Übersetzung dieser Unterlage in deutscher
+Sprache nach § 325 Absatz 1 bis 1b offenlegt.
 
 (4) Absatz 3 ist nicht anzuwenden, wenn eine Kapitalgesellschaft das
 Tochterunternehmen eines Mutterunternehmens ist, das einen
@@ -4717,7 +4975,7 @@ B.  Rückstellungen:
 
 C.  Verbindlichkeiten:
 
-    1.  Anleihen
+    1.  Anleihen,
 
         davon konvertibel;
 
@@ -4975,15 +5233,11 @@ Berechnung ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend
 anzuwenden. Die Mitgliedschaft in einer eingetragenen Genossenschaft
 gilt nicht als Beteiligung im Sinne dieses Buches.
 
-(2) Verbundene Unternehmen im Sinne dieses Buches sind solche
-Unternehmen, die als Mutter- oder Tochterunternehmen (§ 290) in den
-Konzernabschluß eines Mutterunternehmens nach den Vorschriften über
-die Vollkonsolidierung einzubeziehen sind, das als oberstes
-Mutterunternehmen den am weitestgehenden Konzernabschluß nach dem
-Zweiten Unterabschnitt aufzustellen hat, auch wenn die Aufstellung
-unterbleibt, oder das einen befreienden Konzernabschluß nach den §§
-291 oder 292 aufstellt oder aufstellen könnte; Tochterunternehmen, die
-nach § 296 nicht einbezogen werden, sind ebenfalls verbundene
+(2) Verbundene Unternehmen im Sinne dieses Buches sind unabhängig von
+ihrer Rechtsform und ihrem Sitz solche, die im Verhältnis zueinander
+Mutterunternehmen und Tochterunternehmen gemäß § 290 Absatz 1 Satz 1
+und Absatz 2 bis 4 sind; alle mit demselben Mutterunternehmen
+verbundenen Tochterunternehmen sind auch untereinander verbundene
 Unternehmen.
 
 
@@ -6494,11 +6748,14 @@ die Aufstellung des befreienden Konzernabschlusses und des befreienden
 Konzernlageberichts bei Kreditinstituten im Einklang mit der
 Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den
 Jahresabschluß und den konsolidierten Abschluß von Banken und anderen
-Finanzinstituten (ABl. EG Nr. L 372 S. 1) und bei
+Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom
+23\.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl.
+L 224 vom 16.8.2006, S. 1) geändert worden ist, und bei
 Versicherungsunternehmen im Einklang mit der Richtlinie 91/674/EWG des
 Rates vom 19. Dezember 1991 über den Jahresabschluß und den
-konsolidierten Jahresabschluß von Versicherungsunternehmen (ABl. EG
-Nr. L 374 S. 7) in ihren jeweils geltenden Fassungen zu erfolgen.
+konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom
+31\.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L
+224 vom 16.8.2006, S. 1) geändert worden ist, zu erfolgen.
 
 (3) Die Befreiung nach Absatz 1 kann trotz Vorliegens der
 Voraussetzungen nach Absatz 2 von einem Mutterunternehmen nicht in
@@ -6525,7 +6782,7 @@ Anspruch genommen werden, wenn
 ###### § 292 Befreiende Wirkung von Konzernabschlüssen aus Drittstaaten
 
 (1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines
-Mutterunternehmens mit Sitz in einem Staat, der nicht Mitglied der
+Mutterunternehmens mit Sitz in einem Staat ist, der nicht Mitglied der
 Europäischen Union und auch nicht Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum ist, braucht einen Konzernabschluss und
 einen Konzernlagebericht nicht aufzustellen, wenn dieses andere
@@ -7899,8 +8156,11 @@ Konzernlagebericht aufzunehmen. § 289f ist entsprechend anzuwenden.
 (1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten
 Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der
 Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des
-Rates vom 19. Juli 2002 in der jeweils geltenden Fassung verpflichtet,
-die nach den Artikeln 2, 3 und 6 der genannten Verordnung übernommenen
+Rates vom 19. Juli 2002 betreffend die Anwendung internationaler
+Rechnungslegungsstandards (ABl. L 243 vom 11.9.2002, S. 1), die
+zuletzt durch die Verordnung (EG) Nr. 297/2008 (ABl. L 97 vom
+9\.4.2008, S. 62) geändert worden ist, verpflichtet, die nach den
+Artikeln 2, 3 und 6 der genannten Verordnung übernommenen
 internationalen Rechnungslegungsstandards anzuwenden, so sind von den
 Vorschriften des Zweiten bis Achten Titels nur § 294 Abs. 3, § 297
 Absatz 1a, 2 Satz 4, § 298 Abs. 1, dieser jedoch nur in Verbindung mit
@@ -8053,6 +8313,21 @@ des Konzernabschlusses und die für Zwecke der Offenlegung erstellte
 Wiedergabe des Konzernlageberichts den Vorgaben des § 328 Absatz 1
 entsprechen.
 
+(3b) Der Abschlussprüfer des Jahresabschlusses hat im Rahmen der
+Prüfung auch zu beurteilen, ob die Kapitalgesellschaft
+
+1.  für das Geschäftsjahr, das demjenigen Geschäftsjahr vorausging, für
+    dessen Schluss der zu prüfende Jahresabschluss aufgestellt wird, zur
+    Offenlegung eines Ertragsteuerinformationsberichts gemäß § 342m Absatz
+    1 oder 2 verpflichtet war und
+
+
+2.  im Falle der Nummer 1 ihre dort genannte Verpflichtung zur Offenlegung
+    erfüllt hat.
+
+
+
+
 (4) Bei einer börsennotierten Aktiengesellschaft ist außerdem im
 Rahmen der Prüfung zu beurteilen, ob der Vorstand die ihm nach § 91
 Abs. 2 des Aktiengesetzes obliegenden Maßnahmen in einer geeigneten
@@ -8075,15 +8350,14 @@ EU Nr. L 157 S. 87), die zuletzt durch die Richtlinie 2014/56/EU (ABl.
 L 158 vom 27.5.2014, S. 196) geändert worden ist, angenommen worden
 sind.
 
-(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Energie durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, zusätzlich zu den bei der Durchführung der
-Abschlussprüfung nach Absatz 5 anzuwendenden internationalen
-Prüfungsstandards weitere Abschlussprüfungsanforderungen
-vorzuschreiben, wenn dies durch den Umfang der Abschlussprüfung
-bedingt ist und den in den Absätzen 1 bis 4 genannten Prüfungszielen
-dient.
+(6) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+zusätzlich zu den bei der Durchführung der Abschlussprüfung nach
+Absatz 5 anzuwendenden internationalen Prüfungsstandards weitere
+Abschlussprüfungsanforderungen vorzuschreiben, wenn dies durch den
+Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis
+4 genannten Prüfungszielen dient.
 
 
 ##### § 318 Bestellung und Abberufung des Abschlußprüfers
@@ -8094,8 +8368,9 @@ wählen die Gesellschafter des Mutterunternehmens. Bei Gesellschaften
 mit beschränkter Haftung und bei offenen Handelsgesellschaften und
 Kommanditgesellschaften im Sinne des § 264a Abs. 1 kann der
 Gesellschaftsvertrag etwas anderes bestimmen. Der Abschlußprüfer soll
-jeweils vor Ablauf des Geschäftsjahrs gewählt werden, auf das sich
-seine Prüfungstätigkeit erstreckt. Die gesetzlichen Vertreter, bei
+jeweils vor Ablauf des
+Geschäftsjahrs              gewählt werden, auf das sich seine
+Prüfungstätigkeit erstreckt. Die gesetzlichen Vertreter, bei
 Zuständigkeit des Aufsichtsrats dieser, haben unverzüglich nach der
 Wahl den Prüfungsauftrag zu erteilen. Der Prüfungsauftrag kann nur
 widerrufen werden, wenn nach Absatz 3 ein anderer Prüfer bestellt
@@ -8130,7 +8405,7 @@ Abschlussprüfer zu bestellen, wenn
 
 2.  die Vorschriften zur Bestellung des Prüfers nach Artikel 16 der
     Verordnung (EU) Nr. 537/2014 oder die Vorschriften zur Laufzeit des
-    Prüfungsmandats nach Artikel 17 der Verordnung (EU) Nr. 527/2014 nicht
+    Prüfungsmandats nach Artikel 17 der Verordnung (EU) Nr. 537/2014 nicht
     eingehalten worden sind.
 
 
@@ -8503,8 +8778,9 @@ angewandten Rechnungslegungs- und Prüfungsgrundsätze anzugeben; er hat
 ferner eine Beurteilung des Prüfungsergebnisses zu enthalten. In einem
 einleitenden Abschnitt haben zumindest die Beschreibung des
 Gegenstands der Prüfung und die Angabe zu den angewandten
-Rechnungslegungsgrundsätzen zu erfolgen. Über das Ergebnis der Prüfung
-nach § 317 Absatz 3a ist in einem besonderen Abschnitt zu berichten.
+Rechnungslegungsgrundsätzen zu erfolgen. Über das Ergebnis der
+Prüfungen nach § 317 Absatz 3a und 3b ist jeweils in einem besonderen
+Abschnitt zu berichten.
 
 (1a) Bei der Erstellung des Bestätigungsvermerks hat der
 Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die
@@ -8751,20 +9027,20 @@ kann mit dem Prüfungsbericht zum Jahresabschluss zusammengefasst
 werden.
 
 
-#### Vierter Unterabschnitt - Offenlegung. Prüfung durch den Betreiber des Bundesanzeigers
+#### Vierter Unterabschnitt - Offenlegung. Prüfung durch die das Unternehmensregister führende Stelle
 
 
 
 ##### § 325 Offenlegung
 
-(1) Die Mitglieder des vertretungsberechtigten Organs von
-Kapitalgesellschaften haben für die Gesellschaft folgende Unterlagen
-in deutscher Sprache offenzulegen:
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen,
+sofern sie aufzustellen oder zu erstellen sind, in deutscher Sprache
+offenzulegen:
 
-1.  den festgestellten oder gebilligten Jahresabschluss, den Lagebericht,
-    die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5
-    und den Bestätigungsvermerk oder den Vermerk über dessen Versagung
-    sowie
+1.  den festgestellten Jahresabschluss, den Lagebericht, den
+    Bestätigungsvermerk oder den Vermerk über dessen Versagung und die
+    Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 sowie
 
 
 2.  den Bericht des Aufsichtsrats und die nach § 161 des Aktiengesetzes
@@ -8772,11 +9048,12 @@ in deutscher Sprache offenzulegen:
 
 
 
-Die Unterlagen sind elektronisch beim Betreiber des Bundesanzeigers in
-einer Form einzureichen, die ihre Bekanntmachung ermöglicht.
+Die Unterlagen sind der das Unternehmensregister führenden Stelle
+elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln.
 
 (1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach
-dem Abschlussstichtag des Geschäftsjahrs einzureichen, auf das sie
+dem Abschlussstichtag des Geschäftsjahrs zu übermitteln, auf das sie
 sich beziehen. Liegen die Unterlagen nach Absatz 1 Satz 1 Nummer 2
 nicht innerhalb der Frist vor, sind sie unverzüglich nach ihrem
 Vorliegen nach Absatz 1 offenzulegen.
@@ -8787,26 +9064,24 @@ Jahresabschluss nur der Vorschlag für die Ergebnisverwendung
 enthalten, ist der Beschluss über die Ergebnisverwendung nach seinem
 Vorliegen nach Absatz 1 Satz 1 offenzulegen.
 
-(2) Die Mitglieder des vertretungsberechtigten Organs der
-Kapitalgesellschaft haben für diese die in Absatz 1 bezeichneten
-Unterlagen jeweils unverzüglich nach der Einreichung im Bundesanzeiger
-bekannt machen zu lassen.
+(2) (weggefallen)
 
-(2a) Bei der Offenlegung nach Absatz 2 kann an die Stelle des
-Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315e
-Absatz 1 bezeichneten internationalen Rechnungslegungsstandards
-aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht
-Gebrauch macht, hat die dort genannten Standards vollständig zu
-befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244,
-245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9
-bis 11a, 14 bis 17, § 286 Absatz 1 und 3 anzuwenden. Die
-Verpflichtung, einen Lagebericht offenzulegen, bleibt unberührt; der
-Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den
-Einzelabschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des
-Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten
-Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann
-wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2
-genannte Voraussetzung nicht eingehalten werden, entfällt das
+(2a) Bei der Offenlegung nach Absatz 1 in Verbindung mit § 8b Absatz 2
+Nummer 4 kann bei großen Kapitalgesellschaften (§ 267 Absatz 3) an die
+Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den
+in § 315e Absatz 1 bezeichneten internationalen
+Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das
+von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards
+vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs.
+2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8
+Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Absatz 1 und 3
+anzuwenden. Die Verpflichtung, einen Lagebericht offenzulegen, bleibt
+unberührt; der Lagebericht nach § 289 muss in dem erforderlichen
+Umfang auch auf den Einzelabschluss nach Satz 1 Bezug nehmen. Die
+übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts
+und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit
+nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in
+Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das
 Wahlrecht nach Satz 1.
 
 (2b) Die befreiende Wirkung der Offenlegung des Einzelabschlusses nach
@@ -8815,38 +9090,40 @@ Absatz 2a tritt ein, wenn
 1.  statt des vom Abschlussprüfer zum Jahresabschluss erteilten
     Bestätigungsvermerks oder des Vermerks über dessen Versagung der
     entsprechende Vermerk zum Abschluss nach Absatz 2a in die Offenlegung
-    nach Absatz 2 einbezogen wird,
+    nach Absatz 1 einbezogen wird,
 
 
 2.  der Vorschlag für die Verwendung des Ergebnisses und gegebenenfalls
     der Beschluss über seine Verwendung unter Angabe des
     Jahresüberschusses oder Jahresfehlbetrags in die Offenlegung nach
-    Absatz 2 einbezogen werden und
+    Absatz 1 einbezogen werden und
 
 
 3.  der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über
-    dessen Versagung nach Absatz 1 und 1a Satz 1 offen gelegt wird.
+    dessen Versagung in deutscher Sprache nach Maßgabe des Absatzes 1a
+    Satz 1 und des Absatzes 4 der das Unternehmensregister führenden
+    Stelle elektronisch zur Einstellung in das Unternehmensregister durch
+    dauerhafte Hinterlegung übermittelt wird.
 
 
 
 
-(3) Die Absätze 1 bis 2 und 4 Satz 1 gelten entsprechend für die
-Mitglieder des vertretungsberechtigten Organs einer
-Kapitalgesellschaft, die einen Konzernabschluss und einen
+(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 Satz 1 gelten
+entsprechend für die Mitglieder des vertretungsberechtigten Organs
+einer Kapitalgesellschaft, die einen Konzernabschluss und einen
 Konzernlagebericht aufzustellen haben.
 
 (3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des
 Mutterunternehmens oder mit einem von diesem aufgestellten
-Einzelabschluss nach Absatz 2a bekannt gemacht, können die Vermerke
-des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst
+Einzelabschluss nach Absatz 2a offengelegt, können die Vermerke des
+Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst
 werden; in diesem Fall können auch die jeweiligen Prüfungsberichte
 zusammengefasst werden.
 
-(4) Bei einer Kapitalgesellschaft im Sinn des § 264d, die keine
-Kapitalgesellschaft im Sinn des § 327a ist, beträgt die Frist nach
-Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen
-nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Einreichung der
-Unterlagen maßgebend.
+(4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist
+nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der
+Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der
+Übermittlung der Unterlagen maßgebend.
 
 (5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten
 der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz
@@ -8854,22 +9131,22 @@ der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz
 in anderer Weise bekannt zu machen, einzureichen oder Personen
 zugänglich zu machen, bleiben unberührt.
 
-(6) Die §§ 11 und 12 Abs. 2 gelten für die beim Betreiber des
-Bundesanzeigers einzureichenden Unterlagen entsprechend; § 325a Absatz
-1 Satz 5 und § 340l Absatz 2 Satz 6 bleiben unberührt.
+(6) Die §§ 11 und 12 Absatz 2 gelten entsprechend für die Unterlagen,
+die an die das Unternehmensregister führende Stelle zur Einstellung in
+das Unternehmensregister zu übermitteln sind; § 325a Absatz 1 Satz 5
+und § 340l Absatz 2 Satz 6 bleiben unberührt.
 
 
 ##### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften
-mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-haben die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen oder, wenn
-solche nicht angemeldet sind, die gesetzlichen Vertreter der
+mit Sitz in einem anderen Staat haben die in § 13e Absatz 2 Satz 5
+Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht
+vorhanden sind, die Mitglieder des vertretungsberechtigten Organs der
 Gesellschaft für diese die Unterlagen der Rechnungslegung der
 Hauptniederlassung, die nach dem für die Hauptniederlassung
-maßgeblichen Recht erstellt, geprüft und offengelegt oder hinterlegt
-worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4 offenzulegen.
+maßgeblichen Recht aufgestellt, geprüft und offengelegt worden sind,
+nach den §§ 325, 327a und 328 offenzulegen; § 329 ist anzuwenden.
 Bestehen mehrere inländische Zweigniederlassungen derselben
 Gesellschaft, brauchen die Unterlagen der Rechnungslegung der
 Hauptniederlassung nur von den nach Satz 1 verpflichteten Personen
@@ -8878,7 +9155,7 @@ Fall beschränkt sich die Offenlegungspflicht der übrigen
 Zweigniederlassungen auf die Angabe des Namens der Zweigniederlassung,
 des Registers sowie der Registernummer der Zweigniederlassung, für die
 die Offenlegung gemäß Satz 2 bewirkt worden ist. Die Unterlagen sind
-in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache
+in deutscher Sprache zu übermitteln. Soweit dies nicht die Amtssprache
 am Sitz der Hauptniederlassung ist, können die Unterlagen der
 Hauptniederlassung auch
 
@@ -8897,8 +9174,8 @@ Hauptniederlassung auch
 
 
 
-eingereicht werden; von der Beglaubigung des Registers ist eine
-beglaubigte Übersetzung in deutscher Sprache einzureichen.
+übermittelt werden; von der Beglaubigung des Registers ist eine
+beglaubigte Übersetzung in deutscher Sprache zu übermitteln.
 
 (2) Diese Vorschrift gilt nicht für Zweigniederlassungen, die von
 Kreditinstituten im Sinne des § 340 oder von Versicherungsunternehmen
@@ -8907,42 +9184,48 @@ im Sinne des § 341 errichtet werden.
 (3) Bei der Anwendung von Absatz 1 ist für die Einstufung einer
 Kapitalgesellschaft als Kleinstkapitalgesellschaft (§ 267a) und für
 die Geltung von Erleichterungen bei der Rechnungslegung das Recht des
-anderen Mitgliedstaates der Europäischen Union oder das Recht des
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-maßgeblich. Darf eine Kleinstkapitalgesellschaft nach dem für sie
-maßgeblichen Recht die Offenlegungspflicht durch die Hinterlegung der
-Bilanz erfüllen, darf sie die Offenlegung nach Absatz 1 ebenfalls
-durch Hinterlegung bewirken. § 326 Absatz 2 gilt entsprechend.
+anderen Staates maßgeblich. Darf eine Kleinstkapitalgesellschaft nach
+dem für sie maßgeblichen Recht die Offenlegungspflicht durch die
+Hinterlegung der Bilanz erfüllen, darf sie die Offenlegung nach Absatz
+1 ebenfalls durch Hinterlegung bewirken. § 326 Absatz 2 gilt
+entsprechend.
+
+(4) Die das Unternehmensregister führende Stelle fordert die
+Kapitalgesellschaft zur unverzüglichen Offenlegung der Änderung der
+Unterlagen der Rechnungslegung gemäß Absatz 1 auf, wenn zum Zeitpunkt
+eines Dateneingangs nach § 9b Absatz 4 Satz 2 die Änderung noch nicht
+offengelegt worden ist.
 
 
 ##### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
 
 (1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1
-mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die
-Bilanz und den Anhang einzureichen haben. Der Anhang braucht die die
-Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
+mit der Maßgabe anzuwenden, daß die Mitglieder des
+vertretungsberechtigten Organs nur die Bilanz und den Anhang zu
+übermitteln haben. Der Anhang braucht die die Gewinn- und
+Verlustrechnung betreffenden Angaben nicht zu enthalten.
 
-(2) Die gesetzlichen Vertreter von Kleinstkapitalgesellschaften (§
-267a) können ihre sich aus § 325 Absatz 1 bis 2 ergebenden Pflichten
-auch dadurch erfüllen, dass sie die Bilanz in elektronischer Form zur
-dauerhaften Hinterlegung beim Betreiber des Bundesanzeigers einreichen
-und einen Hinterlegungsauftrag erteilen. § 325 Absatz 1 Satz 2, Absatz
-1a und 1b ist entsprechend anzuwenden. Kleinstkapitalgesellschaften
-dürfen von dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn
-sie gegenüber dem Betreiber des Bundesanzeigers mitteilen, dass sie
-zwei der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267
+(2) Auf Kleinstkapitalgesellschaften (§ 267a) ist § 325 Absatz 1 mit
+der Maßgabe anzuwenden, dass die Mitglieder des
+vertretungsberechtigten Organs nur die Bilanz zu übermitteln haben und
+dabei die Einstellung in das Unternehmensregister durch dauerhafte
+Hinterlegung verlangen können. Kleinstkapitalgesellschaften dürfen von
+dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber
+der das Unternehmensregister führenden Stelle mitteilen, dass sie zwei
+der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267
 Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
 
 
 ##### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
 
 Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1
-mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter
+mit der Maßgabe anzuwenden, daß die Mitglieder des
+vertretungsberechtigten Organs
 
 1.  die Bilanz nur in der für kleine Kapitalgesellschaften nach § 266 Abs.
-    1 Satz 3 vorgeschriebenen Form beim Betreiber des Bundesanzeigers
-    einreichen müssen. In der Bilanz oder im Anhang sind jedoch die
-    folgenden Posten des § 266 Abs. 2 und 3 zusätzlich gesondert
+    1 Satz 3 vorgeschriebenen Form der das Unternehmensregister führenden
+    Stelle übermitteln müssen. In der Bilanz oder im Anhang sind jedoch
+    die folgenden Posten des § 266 Abs. 2 und 3 zusätzlich gesondert
     anzugeben:
 
     Auf der Aktivseite
@@ -9021,7 +9304,7 @@ mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter
 
 
 2.  den Anhang ohne die Angaben nach § 285 Nr. 2 und 8 Buchstabe a, Nr. 12
-    beim Betreiber des Bundesanzeigers einreichen dürfen.
+    der das Unternehmensregister führenden Stelle übermitteln dürfen.
 
 
 
@@ -9047,14 +9330,14 @@ sind diese Abschlüsse, Lageberichte und Erklärungen so wiederzugeben,
 dass sie den für ihre Aufstellung maßgeblichen Vorschriften
 entsprechen, soweit nicht Erleichterungen nach den §§ 326 und 327 in
 Anspruch genommen werden oder eine Rechtsverordnung des
-Bundesministeriums der Justiz und für Verbraucherschutz nach Absatz 4
-hiervon Abweichungen ermöglicht. Sie haben in diesem Rahmen
-vollständig und richtig zu sein. Die Sätze 1 und 2 gelten auch für die
-teilweise Offenlegung sowie für die Veröffentlichung oder
-Vervielfältigung in anderer Form auf Grund des Gesellschaftsvertrages
-oder der Satzung. Eine Kapitalgesellschaft, die als Inlandsemittent (§
-2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1
-des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im
+Bundesministeriums der Justiz nach Absatz 4 hiervon Abweichungen
+ermöglicht. Sie haben in diesem Rahmen vollständig und richtig zu
+sein. Die Sätze 1 und 2 gelten auch für die teilweise Offenlegung
+sowie für die Veröffentlichung oder Vervielfältigung in anderer Form
+auf Grund des Gesellschaftsvertrages oder der Satzung. Eine
+Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des
+Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des
+Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im
 Sinne des § 327a ist, hat offenzulegen:
 
 1.  die in Absatz 1 Satz 1 bezeichneten Unterlagen in dem einheitlichen
@@ -9101,8 +9384,8 @@ genannten zusammenfassenden Beurteilungen des Prüfungsergebnisses der
 Abschlussprüfer in Bezug auf den in gesetzlicher Form erstellten
 Abschluss gelangt ist und ob der Bestätigungsvermerk einen Hinweis
 nach § 322 Abs. 3 Satz 2 enthält. Ferner ist anzugeben, ob die
-Unterlagen bei dem Betreiber des Bundesanzeigers eingereicht worden
-sind.
+Unterlagen der das Unternehmensregister führenden Stelle übermittelt
+worden sind.
 
 (3) Absatz 1 Satz 1 bis 3 ist auf den Vorschlag für die Verwendung des
 Ergebnisses und den Beschluss über seine Verwendung entsprechend
@@ -9114,43 +9397,41 @@ sich beziehen und wo dieser offengelegt worden ist; dies gilt auch für
 die nachträgliche Offenlegung des Bestätigungsvermerks oder des
 Vermerks über seine Versagung.
 
-(4) Die Rechtsverordnung nach § 330 Abs. 1 Satz 1, 4 und 5 kann dem
-Betreiber des Bundesanzeigers Abweichungen von der Kontoform nach §
-266 Abs. 1 Satz 1 gestatten.
+(4) Die Rechtsverordnung nach § 330 Abs. 1 Satz 1, 4 und 5 kann der
+das Unternehmensregister führenden Stelle Abweichungen von der
+Kontoform nach § 266 Abs. 1 Satz 1 gestatten.
 
 (5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft
 (§ 326 Absatz 2) gelten Absatz 1 Satz 1 bis 3 und Absatz 1a Satz 1
 entsprechend.
 
 
-##### § 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers
+##### § 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle
 
-(1) Der Betreiber des Bundesanzeigers prüft, ob die einzureichenden
-Unterlagen fristgemäß und vollzählig eingereicht worden sind. Der
-Betreiber des Unternehmensregisters stellt dem Betreiber des
-Bundesanzeigers die nach § 8b Abs. 3 Satz 2 von den
-Landesjustizverwaltungen übermittelten Daten zur Verfügung, soweit
-dies für die Erfüllung der Aufgaben nach Satz 1 erforderlich ist. Die
-Daten dürfen vom Betreiber des Bundesanzeigers nur für die in Satz 1
-genannten Zwecke verwendet werden.
+(1) Die das Unternehmensregister führende Stelle prüft, ob die zu
+übermittelnden Unterlagen fristgemäß und vollzählig übermittelt worden
+sind. Soweit dies für die Erfüllung der Aufgaben nach Satz 1
+erforderlich ist, darf die das Unternehmensregister führende Stelle
+die von den Landesjustizverwaltungen nach § 8b Absatz 3 Satz 2
+übermittelten Daten verwenden.
 
 (2) Gibt die Prüfung Anlass zu der Annahme, dass von der Größe der
 Kapitalgesellschaft abhängige Erleichterungen oder die Erleichterung
-nach § 327a nicht hätten in Anspruch genommen werden dürfen, kann der
-Betreiber des Bundesanzeigers von der Kapitalgesellschaft innerhalb
-einer angemessenen Frist die Mitteilung der Umsatzerlöse (§ 277 Abs.
-1) und der durchschnittlichen Zahl der Arbeitnehmer (§ 267 Abs. 5)
-oder Angaben zur Eigenschaft als Kapitalgesellschaft im Sinn des §
-327a verlangen. Unterlässt die Kapitalgesellschaft die fristgemäße
-Mitteilung, gelten die Erleichterungen als zu Unrecht in Anspruch
-genommen.
+nach § 327a nicht hätten in Anspruch genommen werden dürfen, kann die
+das Unternehmensregister führende Stelle von der Kapitalgesellschaft
+innerhalb einer angemessenen Frist die Mitteilung der Umsatzerlöse (§
+277 Abs. 1) und der durchschnittlichen Zahl der Arbeitnehmer (§ 267
+Abs. 5) oder Angaben zur Eigenschaft als Kapitalgesellschaft im Sinn
+des § 327a verlangen. Unterlässt die Kapitalgesellschaft die
+fristgemäße Mitteilung, gelten die Erleichterungen als zu Unrecht in
+Anspruch genommen.
 
 (3) In den Fällen des § 325a Absatz 1 Satz 5 und des § 340l Absatz 2
 Satz 6 kann im Einzelfall die Vorlage einer Übersetzung in die
 deutsche Sprache verlangt werden.
 
 (4) Ergibt die Prüfung nach Absatz 1 Satz 1, dass die offen zu
-legenden Unterlagen nicht oder unvollständig eingereicht wurden, wird
+legenden Unterlagen nicht oder unvollständig übermittelt wurden, wird
 die jeweils für die Durchführung von Ordnungsgeldverfahren nach den §§
 335, 340o und 341o zuständige Verwaltungsbehörde unterrichtet.
 
@@ -9161,30 +9442,30 @@ die jeweils für die Durchführung von Ordnungsgeldverfahren nach den §§
 
 ##### § 330
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-dem Bundesministerium für Wirtschaft und Energie durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
-Kapitalgesellschaften Formblätter vorzuschreiben oder andere
-Vorschriften für die Gliederung des Jahresabschlusses oder des
-Konzernabschlusses oder den Inhalt des Anhangs, des Konzernanhangs,
-des Lageberichts oder des Konzernlageberichts zu erlassen, wenn der
-Geschäftszweig eine von den §§ 266, 275 abweichende Gliederung des
-Jahresabschlusses oder des Konzernabschlusses oder von den
-Vorschriften des Ersten Abschnitts und des Ersten und Zweiten
-Unterabschnitts des Zweiten Abschnitts abweichende Regelungen
-erfordert. Die sich aus den abweichenden Vorschriften ergebenden
-Anforderungen an die in Satz 1 bezeichneten Unterlagen sollen den
-Anforderungen gleichwertig sein, die sich für große
-Kapitalgesellschaften (§ 267 Abs. 3) aus den Vorschriften des Ersten
-Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten
-Abschnitts sowie den für den Geschäftszweig geltenden Vorschriften
-ergeben. Über das geltende Recht hinausgehende Anforderungen dürfen
-nur gestellt werden, soweit sie auf Rechtsakten des Rates der
-Europäischen Union beruhen. Die Rechtsverordnung nach Satz 1 kann auch
-Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten.
-Satz 4 gilt auch in den Fällen, in denen ein Geschäftszweig eine von
-den §§ 266 und 275 abweichende Gliederung nicht erfordert.
+(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium der Finanzen und dem Bundesministerium für
+Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, für Kapitalgesellschaften
+Formblätter vorzuschreiben oder andere Vorschriften für die Gliederung
+des Jahresabschlusses oder des Konzernabschlusses oder den Inhalt des
+Anhangs, des Konzernanhangs, des Lageberichts oder des
+Konzernlageberichts zu erlassen, wenn der Geschäftszweig eine von den
+§§ 266, 275 abweichende Gliederung des Jahresabschlusses oder des
+Konzernabschlusses oder von den Vorschriften des Ersten Abschnitts und
+des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts
+abweichende Regelungen erfordert. Die sich aus den abweichenden
+Vorschriften ergebenden Anforderungen an die in Satz 1 bezeichneten
+Unterlagen sollen den Anforderungen gleichwertig sein, die sich für
+große Kapitalgesellschaften (§ 267 Abs. 3) aus den Vorschriften des
+Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des
+Zweiten Abschnitts sowie den für den Geschäftszweig geltenden
+Vorschriften ergeben. Über das geltende Recht hinausgehende
+Anforderungen dürfen nur gestellt werden, soweit sie auf Rechtsakten
+des Rates der Europäischen Union beruhen. Die Rechtsverordnung nach
+Satz 1 kann auch Abweichungen von der Kontoform nach § 266 Abs. 1 Satz
+1 gestatten. Satz 4 gilt auch in den Fällen, in denen ein
+Geschäftszweig eine von den §§ 266 und 275 abweichende Gliederung
+nicht erfordert.
 
 (2) Absatz 1 ist auf folgende Institute ungeachtet ihrer Rechtsform
 nach Maßgabe der Sätze 3 und 4 anzuwenden:
@@ -9313,7 +9594,7 @@ bestraft, wer
     Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2
     oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem
     die Verhältnisse des Konzerns unrichtig wiedergegeben oder
-    verschleiert worden sind, offenlegt oder,
+    verschleiert worden sind, offenlegt oder
 
 
 3a. (weggefallen)
@@ -9494,9 +9775,11 @@ Kapitalgesellschaft
     Konzernberichts,
 
 
-5.  bei der Offenlegung, Hinterlegung, Veröffentlichung oder
-    Vervielfältigung einer Vorschrift des § 328 über Form, Format oder
-    Inhalt oder
+5.  oder als in § 13e Absatz 2 Satz 5 Nummer 3 genannte angemeldete Person
+    einer Kapitalgesellschaft bei der Offenlegung, Hinterlegung,
+    Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328,
+    auch in Verbindung mit § 325a Absatz 1 Satz 1 erster Halbsatz, über
+    Form, Format oder Inhalt oder
 
 
 6.  einer auf Grund des § 330 Abs. 1 Satz 1 erlassenen Rechtsverordnung,
@@ -9627,26 +9910,37 @@ In den Fällen des Absatzes 3 Satz 1 in Verbindung mit Absatz 2 Satz 1
 Nummer 1 oder Satz 2 ist § 30 Absatz 2 Satz 3 des Gesetzes über
 Ordnungswidrigkeiten anzuwenden.
 
-(3b) Gesamtumsatz im Sinne des Absatzes 3a Satz 1 Nummer 2 ist der
-Betrag der Umsatzerlöse nach § 277 Absatz 1 oder der Betrag der
-Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren
-nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie
-2013/34/EU. Handelt es sich bei der Kapitalgesellschaft um ein
-Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290,
-ist anstelle des Gesamtumsatzes der Kapitalgesellschaft der
-Gesamtumsatz im Konzernabschluss des Mutterunternehmens maßgeblich,
-der für den größten Kreis von Unternehmen aufgestellt wird. Wird der
-Konzernabschluss für den größten Kreis von Unternehmen nicht nach den
-in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz
-nach Maßgabe der den Umsatzerlösen vergleichbaren Posten des
-Konzernabschlusses zu ermitteln. Ist ein Jahres- oder Konzernabschluss
-für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres-
-oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr
-maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz
-geschätzt werden.
+(3b) Gesamtumsatz im Sinne des Absatzes 3a Satz 1 Nummer 2 ist
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Satz 1 des Gesetzes
-über Ordnungswidrigkeiten ist
+1.  im Falle von Kapitalgesellschaften, die ihren Jahresabschluss nach den
+    handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 2013/34/EU aufstellen, der Betrag der
+    Umsatzerlöse nach § 277 Absatz 1 oder der Betrag der Nettoumsatzerlöse
+    nach Maßgabe des auf die Gesellschaft anwendbaren nationalen Rechts im
+    Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU,
+
+
+2.  in allen Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses der Kapitalgesellschaft gelten.
+
+
+
+Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen
+oder um ein Tochterunternehmen im Sinne des § 290, ist anstelle des
+Gesamtumsatzes der Kapitalgesellschaft der Gesamtumsatz im
+Konzernabschluss des Mutterunternehmens maßgeblich, der für den
+größten Kreis von Unternehmen aufgestellt wird. Ist ein Jahres- oder
+Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar,
+ist der Jahres- oder Konzernabschluss für das unmittelbar
+vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht
+verfügbar, kann der Gesamtumsatz geschätzt werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist
 
 1.  die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen des
     Absatzes 1 bei Kapitalgesellschaften, die kapitalmarktorientiert im
@@ -9719,9 +10013,9 @@ nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der
 rechtzeitigen Offenlegung vom Bundesamt für Justiz (Bundesamt) ein
 Ordnungsgeldverfahren nach den Absätzen 2 bis 6 durchzuführen; im Fall
 der Nummer 2 treten die in § 13e Absatz 2 Satz 5 Nummer 3 genannten
-Personen, sobald sie angemeldet sind, an die Stelle der Mitglieder des
-vertretungsberechtigten Organs der Kapitalgesellschaft. Das
-Ordnungsgeldverfahren kann auch gegen die Kapitalgesellschaft
+angemeldeten Personen, sobald sie angemeldet sind, an die Stelle der
+Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft.
+Das Ordnungsgeldverfahren kann auch gegen die Kapitalgesellschaft
 durchgeführt werden, für die die Mitglieder des
 vertretungsberechtigten Organs die in Satz 1 Nr. 1 und 2 genannten
 Pflichten zu erfüllen haben. Dem Verfahren steht nicht entgegen, dass
@@ -9767,30 +10061,20 @@ Beträge:
 
 (1b) Gesamtumsatz im Sinne des Absatzes 1a Satz 1 Nummer 2 ist
 
-1.  im Falle von Kreditinstituten, Zahlungsinstituten,
-    Wertpapierinstituten und Finanzdienstleistungsinstituten im Sinne des
-    § 340 der sich aus dem auf das Institut anwendbaren nationalen Recht
-    im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28
-    Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom
-    8\. Dezember 1986 über den Jahresabschluss und den konsolidierten
-    Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom
-    31\.12.1986, S. 1) ergebende Gesamtbetrag, abzüglich der Umsatzsteuer
-    und sonstiger direkt auf diese Erträge erhobener Steuern,
+1.  im Falle von Kapitalgesellschaften, die ihren Jahresabschluss nach den
+    handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 2013/34/EU aufstellen, der Betrag der
+    Umsatzerlöse nach § 277 Absatz 1 oder der Betrag der Nettoumsatzerlöse
+    nach Maßgabe des auf die Gesellschaft anwendbaren nationalen Rechts im
+    Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU,
 
 
-2.  im Falle von Versicherungsunternehmen der sich aus dem auf das
-    Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit
-    Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991
-    über den Jahresabschluss und den konsolidierten Abschluss von
-    Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7) ergebende
-    Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf
-    diese Erträge erhobener Steuern,
-
-
-3.  im Übrigen der Betrag der Umsatzerlöse nach § 277 Absatz 1 oder der
-    Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren
-    nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie
-    2013/34/EU.
+2.  in allen Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses der Kapitalgesellschaft gelten.
 
 
 
@@ -9798,15 +10082,11 @@ Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen
 oder um ein Tochterunternehmen im Sinne von § 290, ist anstelle des
 Gesamtumsatzes der Kapitalgesellschaft der Gesamtumsatz im
 Konzernabschluss des Mutterunternehmens maßgeblich, der für den
-größten Kreis von Unternehmen aufgestellt wird. Wird der
-Konzernabschluss für den größten Kreis von Unternehmen nicht nach den
-in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz
-nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten
-des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder
-Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar,
-ist der Jahres- oder Konzernabschluss für das unmittelbar
-vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht
-verfügbar, kann der Gesamtumsatz geschätzt werden.
+größten Kreis von Unternehmen aufgestellt wird. Ist ein
+Jahresabschluss oder Konzernabschluss für das maßgebliche
+Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss
+für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch
+dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (1c) Soweit dem Bundesamt Ermessen bei der Höhe eines Ordnungsgeldes
 zusteht, hat es auch frühere Verstöße der betroffenen Person zu
@@ -9821,20 +10101,38 @@ unterrichtet das Bundesamt die Bundesanstalt für
 Finanzdienstleistungsaufsicht über diesen Umstand sowie über den
 Ausgang des Beschwerdeverfahrens.
 
-(2) Auf das Verfahren sind die §§ 15 bis 19, § 40 Abs. 1, § 388 Abs.
-1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über das Verfahren in
-Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12 Abs. 1 Nr. 1
-bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21 Abs. 1, §§ 23
-und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe der
-nachfolgenden Absätze entsprechend anzuwenden. Das
+(2) Auf das Verfahren sind die §§ 15 bis 19 Absatz 1 und 3, § 40 Abs.
+1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12
+Abs. 1 Nr. 1 bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21
+Abs. 1, §§ 23 und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe
+der nachfolgenden Absätze entsprechend anzuwenden. Das
 Ordnungsgeldverfahren ist ein Justizverwaltungsverfahren. Zur
-Vertretung der Beteiligten sind auch Wirtschaftsprüfer und vereidigte
-Buchprüfer, Steuerberater, Steuerbevollmächtigte, Personen und
-Vereinigungen im Sinn des § 3 Nr. 4 des Steuerberatungsgesetzes sowie
-Gesellschaften im Sinn des § 3 Nr. 2 und 3 des
-Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr. 1 des
-Steuerberatungsgesetzes handeln, befugt.
+Vertretung der Beteiligten sind auch befugt
+
+1.  Wirtschaftsprüfer und vereidigte Buchprüfer,
+
+
+2.  Steuerberater und Steuerbevollmächtigte,
+
+
+3.  Personen und Vereinigungen im Sinne der §§ 3a und 3c des
+    Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des
+    Steuerberatungsgesetzes,
+
+
+4.  zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach
+    den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im
+    Rahmen dieser Befugnisse sowie
+
+
+5.  Gesellschaften im Sinne des § 3 Satz 1 Nummer 2 und 3 des
+    Steuerberatungsgesetzes, die durch Personen im Sinne des § 3 Satz 2
+    des Steuerberatungsgesetzes handeln.
+
+
+
 
 (2a) Die Akten einschließlich der Verfahrensakten in der
 Zwangsvollstreckung werden elektronisch geführt. Auf die elektronische
@@ -9928,12 +10226,13 @@ spätestens sechs Wochen nach Wegfall des Hindernisses nachzuholen. Ist
 innerhalb eines Jahres seit dem Ablauf der Sechswochenfrist nach
 Absatz 4 weder Wiedereinsetzung beantragt noch die versäumte Handlung
 nachgeholt worden, kann Wiedereinsetzung nicht mehr gewährt werden.
-Die Wiedereinsetzung ist nicht anfechtbar. Haben die Beteiligten
-Wiedereinsetzung nicht beantragt oder ist die Ablehnung des
-Wiedereinsetzungsantrags bestandskräftig geworden, können sich die
-Beteiligten mit der Beschwerde nicht mehr darauf berufen, dass sie
-unverschuldet gehindert waren, in der Sechswochenfrist Einspruch
-einzulegen oder ihrer gesetzlichen Verpflichtung nachzukommen.
+Die Wiedereinsetzung ist nicht anfechtbar; § 335a Absatz 3 Satz 4
+bleibt unberührt. Haben die Beteiligten Wiedereinsetzung nicht
+beantragt oder ist die Ablehnung des Wiedereinsetzungsantrags
+bestandskräftig geworden, können sich die Beteiligten mit der
+Beschwerde nicht mehr darauf berufen, dass sie unverschuldet gehindert
+waren, in der Sechswochenfrist Einspruch einzulegen oder ihrer
+gesetzlichen Verpflichtung nachzukommen.
 
 (5a) (weggefallen)
 
@@ -9952,11 +10251,10 @@ für den Konzernabschluss und den Konzernlagebericht entsprechend mit
 der Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293
 tritt.
 
-(7) Das Bundesministerium der Justiz und für Verbraucherschutz kann
-zur näheren Ausgestaltung der elektronischen Aktenführung und
-elektronischen Kommunikation nach Absatz 2a in der ab dem 1. Januar
-2018 geltenden Fassung durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf,
+(7) Das Bundesministerium der Justiz kann zur näheren Ausgestaltung
+der elektronischen Aktenführung und elektronischen Kommunikation nach
+Absatz 2a in der ab dem 1. Januar 2018 geltenden Fassung durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1.  die Weiterführung von Akten in Papierform gestatten, die bereits vor
     Einführung der elektronischen Aktenführung in Papierform angelegt
@@ -10014,9 +10312,9 @@ Zustimmung des Bundesrates bedarf,
 
 
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann die
-Ermächtigungen des Satzes 1 durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf das Bundesamt für Justiz übertragen.
+Das Bundesministerium der Justiz kann die Ermächtigungen des Satzes 1
+durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das
+Bundesamt für Justiz übertragen.
 
 
 ###### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
@@ -10060,10 +10358,13 @@ Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit entsprechend, soweit sich aus diesem
 Absatz nichts anderes ergibt. Über die Rechtsbeschwerde entscheidet
 das für den Sitz des Landgerichts zuständige Oberlandesgericht. Die
-Rechtsbeschwerde steht auch dem Bundesamt zu. Vor dem
-Oberlandesgericht müssen sich die Beteiligten durch einen Rechtsanwalt
-vertreten lassen; dies gilt nicht für das Bundesamt. Absatz 1 Satz 2
-und Absatz 2 Satz 6 und 8 gelten entsprechend.
+Rechtsbeschwerde steht auch dem Bundesamt zu und kann auch gegen eine
+vom Landgericht gewährte Wiedereinsetzung in die Sechswochenfrist nach
+§ 335 Absatz 4 Satz 1 zur Erfüllung der gesetzlichen
+Offenlegungspflicht zugelassen werden. Vor dem Oberlandesgericht
+müssen sich die Beteiligten durch einen Rechtsanwalt vertreten lassen;
+dies gilt nicht für das Bundesamt. Absatz 1 Satz 2 und Absatz 2 Satz 6
+und 8 gelten entsprechend.
 
 (4) Auf die elektronische Aktenführung des Gerichts und die
 Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die
@@ -10118,7 +10419,7 @@ unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 
 
-#### § 336
+#### § 336 Pflicht zur Aufstellung von Jahresabschluß und Lagebericht
 
 (1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242)
 um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und
@@ -10225,7 +10526,7 @@ aufzukommen haben.
 
 (2) Im Anhang sind ferner anzugeben:
 
-1.  Name und Anschrift des zuständigen Prüfungsverbands, dem die
+1.  Name und Anschrift des zuständigen Prüfungsverbandes, dem die
     Genossenschaft angehört;
 
 
@@ -10262,25 +10563,24 @@ einen Anhang zu erweitern, wenn sie unter der Bilanz angeben:
 Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des
 dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten
 Jahresabschluß, den Lagebericht, die Erklärungen nach § 264 Absatz 2
-Satz 3 und § 289 Absatz 1 Satz 5 und den Bericht des Aufsichtsrats
-beim Betreiber des Bundesanzeigers elektronisch einzureichen. Ist die
-Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des
-Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der Verordnung
-(EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem Jahresabschluß
-einzureichen; hat der Prüfungsverband die Bestätigung des
-Jahresabschlusses versagt, so muß dies auf dem eingereichten
+Satz 3 und § 289 Absatz 1 Satz 5 und den Bericht des Aufsichtsrats in
+deutscher Sprache der das Unternehmensregister führenden Stelle
+elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln. Ist die Erteilung eines Bestätigungsvermerks nach § 58
+Abs. 2 des Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der
+Verordnung (EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem
+Jahresabschluß zu übermitteln; hat der Prüfungsverband die Bestätigung
+des Jahresabschlusses versagt, so muß dies auf dem übermittelten
 Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband
 unterschrieben sein. Ist die Prüfung des Jahresabschlusses im
-Zeitpunkt der Einreichung der Unterlagen nach Satz 1 nicht
+Zeitpunkt der Übermittlung der Unterlagen nach Satz 1 nicht
 abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über
-seine Versagung unverzüglich nach Abschluß der Prüfung einzureichen.
-Wird der Jahresabschluß oder der Lagebericht nach der Einreichung
-geändert, so ist auch die geänderte Fassung einzureichen.
+seine Versagung unverzüglich nach Abschluß der Prüfung zu übermitteln.
+Wird der Jahresabschluß oder der Lagebericht nach der Übermittlung
+geändert, so ist auch die geänderte Fassung zu übermitteln.
 
-(2) § 325 Absatz 1 Satz 2, Absatz 2, 2a, 4 und 6 sowie die §§ 326 bis
-329 sind entsprechend anzuwenden. Hat eine Kleinstgenossenschaft von
-der Erleichterung für Kleinstkapitalgesellschaften nach § 326 Absatz 2
-Gebrauch gemacht, gilt § 9 Absatz 6 Satz 3 entsprechend.
+(2) § 325 Absatz 2a, 2b, 4 und 6 sowie die §§ 326 bis 329 sind
+entsprechend anzuwenden.
 
 (3) Die §§ 335 und 335a finden mit den Maßgaben entsprechende
 Anwendung, dass sich das Ordnungsgeldverfahren gegen die Mitglieder
@@ -10292,7 +10592,7 @@ Genossenschaft durchgeführt werden, für die die Mitglieder des
 Vorstands die in Absatz 1 genannten Pflichten zu erfüllen haben.
 
 
-### Vierter Abschnitt - Ergänzende Vorschriften für Unternehmen bestimmter Geschäftszweige
+### Vierter Abschnitt - Ergänzende Vorschriften für bestimmte Unternehmen
 
 
 
@@ -10352,8 +10652,7 @@ sie nicht nach dessen § 3 von der Anwendung ausgenommen sind. § 340c
 Absatz 1 ist nicht anzuwenden auf Wertpapierinstitute, wenn diese
 Skontroführer im Sinne des § 27 Absatz 1 Satz 1 des Börsengesetzes
 sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen
-der Rechtsform oder für Zweigniederlassungen bestehen, bleiben
-unberührt.
+der Rechtsform bestehen, bleiben unberührt.
 
 (5) Dieser Unterabschnitt ist auch auf Institute im Sinne des § 1
 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes anzuwenden. Zusätzliche
@@ -10864,11 +11163,13 @@ Genossenschaft, auf Sparkassen und auf sonstige landesrechtliche
 
 (1) Kreditinstitute haben den Jahresabschluß und den Lagebericht sowie
 den Konzernabschluß und den Konzernlagebericht und die anderen in §
-325 bezeichneten Unterlagen nach § 325 Abs. 2 bis 5, §§ 328, 329 Abs.
-1 und 4 offenzulegen. Kreditinstitute, die nicht Zweigniederlassungen
-sind, haben die in Satz 1 bezeichneten Unterlagen außerdem in jedem
-anderen Mitgliedstaat der Europäischen Gemeinschaft und in jedem
-anderen Vertragsstaat des Abkommens über den Europäischen
+325 bezeichneten Unterlagen, sofern sie zu erstellen sind, in
+deutscher Sprache nach § 325 Absatz 1 Satz 2 und Absatz 1a bis 5 sowie
+den §§ 327a und 328 offenzulegen; § 329 Absatz 1, 2 und 4 ist
+entsprechend anzuwenden. Kreditinstitute, die nicht
+Zweigniederlassungen sind, haben die in Satz 1 bezeichneten Unterlagen
+außerdem in jedem anderen Mitgliedstaat der Europäischen Gemeinschaft
+und in jedem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum offenzulegen, in dem sie eine Zweigniederlassung
 errichtet haben. Die Offenlegung nach Satz 2 richtet sich nach dem
 Recht des jeweiligen Mitgliedstaats oder Vertragsstaats.
@@ -10876,19 +11177,19 @@ Recht des jeweiligen Mitgliedstaats oder Vertragsstaats.
 (2) Zweigniederlassungen im Geltungsbereich dieses Gesetzes von
 Unternehmen mit Sitz in einem anderen Staat haben die in Absatz 1 Satz
 1 bezeichneten Unterlagen ihrer Hauptniederlassung, die nach deren
-Recht aufgestellt und geprüft worden sind, nach § 325 Abs. 2 bis 5, §§
-328, 329 Abs. 1, 3 und 4 offenzulegen. Unternehmen mit Sitz in einem
-Drittstaat im Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung,
-deren Wertpapiere im Sinn des § 2 Absatz 1 des
-Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel am
-regulierten Markt zugelassen sind, haben zudem eine Bescheinigung der
-Wirtschaftsprüferkammer gemäß § 134 Abs. 2a der
-Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder
-eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 4 Satz 8
-der Wirtschaftsprüferordnung über die Befreiung von der
-Eintragungsverpflichtung offenzulegen. Satz 2 ist nicht anzuwenden,
-soweit ausschließlich Schuldtitel im Sinne des § 2 Absatz 1 Nummer 3
-des Wertpapierhandelsgesetzes
+Recht aufgestellt und geprüft worden sind, nach § 325 Absatz 1 Satz 2
+und Absatz 1a bis 5 sowie den §§ 327a und 328 offenzulegen; § 329 ist
+entsprechend anzuwenden. Unternehmen mit Sitz in einem Drittstaat im
+Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung, deren
+Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes an
+einer inländischen Börse zum Handel am regulierten Markt zugelassen
+sind, haben zudem eine Bescheinigung der Wirtschaftsprüferkammer gemäß
+§ 134 Abs. 2a der Wirtschaftsprüferordnung über die Eintragung des
+Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer
+gemäß § 134 Abs. 4 Satz 8 der Wirtschaftsprüferordnung über die
+Befreiung von der Eintragungsverpflichtung offenzulegen. Satz 2 ist
+nicht anzuwenden, soweit ausschließlich Schuldtitel im Sinne des § 2
+Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes
 
 1.  mit einer Mindeststückelung zu je 100 000 Euro oder einem
     entsprechenden Betrag anderer Währung an einer inländischen Börse zum
@@ -10911,7 +11212,7 @@ Absatz 1 Satz 1 nicht offenzulegen, sofern die nach den Sätzen 1 und 2
 offenzulegenden Unterlagen nach einem an die Richtlinie 86/635/EWG
 angepaßten Recht aufgestellt und geprüft worden oder den nach einem
 dieser Rechte aufgestellten Unterlagen gleichwertig sind. Die
-Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht
+Unterlagen sind in deutscher Sprache zu übermitteln. Soweit dies nicht
 die Amtssprache am Sitz der Hauptniederlassung ist, können die
 Unterlagen der Hauptniederlassung auch
 
@@ -10930,8 +11231,8 @@ Unterlagen der Hauptniederlassung auch
 
 
 
-eingereicht werden; von der Beglaubigung des Registers ist eine
-beglaubigte Übersetzung in deutscher Sprache einzureichen.
+übermittelt werden; von der Beglaubigung des Registers ist eine
+beglaubigte Übersetzung in deutscher Sprache zu übermitteln.
 
 (3) § 339 ist auf Kreditinstitute, die Genossenschaften sind, nicht
 anzuwenden.
@@ -10986,10 +11287,10 @@ Wertpapierinstitute im Sinne des § 340 Absatz 4a Satz 1 sowie auf
 Institute im Sinne des § 340 Absatz 5 anzuwenden. § 331 ist darüber
 hinaus auch anzuwenden auf die Verletzung von Pflichten durch
 
-1.  den Geschäftsleiter (§ 1 Absatz 2 Satz 1 des Kreditwesengesetzes)
-    eines nicht in der Rechtsform der Kapitalgesellschaft betriebenen
-    Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340
-    Absatz 4 Satz 1,
+1.  den Geschäftsleiter (§ 1 Absatz 2 des Kreditwesengesetzes) eines nicht
+    in der Rechtsform der Kapitalgesellschaft betriebenen Kreditinstituts
+    oder Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz
+    1,
 
 
 1a. den Geschäftsleiter (§ 2 Absatz 36 des Wertpapierinstitutsgesetzes)
@@ -11018,7 +11319,8 @@ bestraft, wer als Mitglied eines nach § 340k Absatz 5 Satz 1 in
 Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten
 Prüfungsausschusses eines Kreditinstituts im Sinne des § 340 Absatz 1
 Satz 1, eines Finanzdienstleistungsinstituts im Sinne des § 340 Absatz
-4 Satz 1 oder eines Instituts im Sinne des § 1 Absatz 3 des
+4 Satz 1, eines Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz
+1 oder eines Instituts im Sinne des § 1 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes
 
 1.  eine in § 340n Absatz 2a bezeichnete Handlung begeht und dafür einen
@@ -11037,16 +11339,18 @@ Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend.
 ###### § 340n Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Geschäftsleiter im Sinne des § 1
-Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Kreditwesengesetzes oder
-als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen
-Finanzdienstleistungsinstituts im Sinne des § 340 Abs. 4 Satz 1, oder
-als Geschäftsleiter im Sinne des § 2 Absatz 36 des
-Wertpapierinstitutsgesetzes, oder als Inhaber eines in der Rechtsform
-des Einzelkaufmanns betriebenen Wertpapierinstituts im Sinne des § 340
-Absatz 4a Satz 1, oder als Geschäftsleiter im Sinne des § 1 Absatz 8
-Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines Instituts im
-Sinne des § 340 Absatz 5 oder als Mitglied des Aufsichtsrats eines der
-vorgenannten Unternehmen
+Absatz 2 oder des § 53 Absatz 2 Nummer 1 des Kreditwesengesetzes eines
+Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340
+Absatz 4 Satz 1 oder als Geschäftsleiter im Sinne des § 2 Absatz 36
+des Wertpapierinstitutsgesetzes eines Wertpapierinstituts im Sinne des
+§ 340 Absatz 4a Satz 1 oder als Geschäftsleiter im Sinne des § 1
+Absatz 8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines
+Instituts im Sinne des § 1 Absatz 3 des
+Zahlungsdiensteaufsichtsgesetzes oder als Inhaber eines in der
+Rechtsform des Einzelkaufmanns betriebenen
+Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1 oder
+Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 oder als
+Mitglied des Aufsichtsrats eines der vorgenannten Unternehmen
 
 1.  bei der Aufstellung oder Feststellung des Jahresabschlusses oder bei
     der Aufstellung des Zwischenabschlusses gemäß § 340a Abs. 3 einer
@@ -11200,8 +11504,7 @@ Zahlungsdiensteaufsichtsgesetzes.
 
 1.  als Mitglied eines nach § 324 Absatz 1 Satz 1, auch in Verbindung mit
     § 340k Absatz 5 Satz 1, eingerichteten Prüfungsausschusses eines
-    Instituts im Sinne des Absatzes 2 Satz 4 genannten Institute, das
-    keine Sparkasse ist,
+    Instituts im Sinne des Absatzes 2 Satz 4, das keine Sparkasse ist,
 
     a)  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
         nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
@@ -11279,27 +11582,38 @@ In den Fällen des Absatzes 3 Satz 1 in Verbindung mit Absatz 2 Satz 1
 Nummer 1 oder Satz 2 ist § 30 Absatz 2 Satz 3 des Gesetzes über
 Ordnungswidrigkeiten anzuwenden.
 
-(3b) Als Gesamtumsatz ist anstelle des Betrags der Umsatzerlöse der
-sich aus dem auf das Kreditinstitut anwendbaren nationalen Recht im
-Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28
-Buchstabe B Nummer 1, 2, 3, 4 und 7 der Richtlinie 86/635/EWG des
-Rates vom 8. Dezember 1986 über den Jahresabschluss und den
-konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl.
-L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt
-durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1)
-geändert worden ist, ergebende Gesamtbetrag, abzüglich der
-Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
-maßgeblich. Handelt es sich bei dem Kreditinstitut um ein
-Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290,
-ist anstelle des Gesamtumsatzes des Kreditinstituts der jeweilige
-Gesamtbetrag im Konzernabschluss des Mutterunternehmens maßgeblich,
-der für den größten Kreis von Unternehmen aufgestellt wird. Wird der
-Konzernabschluss für den größten Kreis von Unternehmen nicht nach den
-in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz
-nach Maßgabe der Posten des Konzernabschlusses zu ermitteln, die mit
-den von Satz 1 erfassten Posten vergleichbar sind. Ist ein Jahres-
-oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht
-verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar
+(3b) Gesamtumsatz im Sinne des Absatzes 3a Satz 1 Nummer 2 ist
+
+1.  im Falle von Kreditinstituten, die ihren Jahresabschluss nach den
+    handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986
+    über den Jahresabschluß und den konsolidierten Abschluß von Banken und
+    anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom
+    23\.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl.
+    L 224 vom 16.8.2006, S. 1) geändert worden ist, aufstellen, der
+    Gesamtbetrag derjenigen Posten, die nach den auf das Kreditinstitut
+    anwendbaren handelsrechtlichen Vorschriften oder nach dem auf das
+    Kreditinstitut anwendbaren nationalen Recht den in Artikel 27 Nummer
+    1, 3, 4, 6 und 7 oder Artikel 28 Buchstabe B Nummer 1 bis 4 und 7 der
+    Richtlinie 86/635/EWG genannten Posten entsprechen,
+
+
+2.  in Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses des Unternehmens gelten.
+
+
+
+Handelt es sich bei dem Kreditinstitut um ein Mutterunternehmen oder
+um ein Tochterunternehmen im Sinne des § 290, ist anstelle des
+Gesamtumsatzes des Kreditinstituts der jeweilige Gesamtbetrag im
+Konzernabschluss des Mutterunternehmens maßgeblich, der für den
+größten Kreis von Unternehmen aufgestellt wird. Ist ein Jahres- oder
+Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar,
+ist der Jahres- oder Konzernabschluss für das unmittelbar
 vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht
 verfügbar, kann der Gesamtumsatz geschätzt werden.
 
@@ -11316,23 +11630,23 @@ Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
 
 ###### § 340o Festsetzung von Ordnungsgeld
 
-Personen, die
+(1) Personen, die
 
-1.  als Geschäftsleiter im Sinne des § 1 Absatz 2 Satz 1 des
-    Kreditwesengesetzes eines Kreditinstituts oder
-    Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1,
-    oder als Geschäftsleiter im Sinne des § 2 Absatz 36 des
-    Wertpapierinstitutsgesetzes eines Wertpapierinstituts im Sinne des §
-    340 Absatz 4a Satz 1, oder als Geschäftsleiter im Sinne des § 1 Absatz
-    8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines Instituts im
-    Sinne des § 340 Absatz 5 oder als Inhaber eines in der Rechtsform des
-    Einzelkaufmanns betriebenen Finanzdienstleistungsinstituts im Sinne
-    des § 340 Absatz 4 Satz 1 oder Wertpapierinstituts im Sinne des § 340
-    Absatz 4a Satz 1 den § 340l Absatz 1 Satz 1 in Verbindung mit § 325
-    Absatz 2 bis 5, die §§ 328, 329 Absatz 1 über die Pflicht zur
-    Offenlegung des Jahresabschlusses, des Lageberichts, des
-    Konzernabschlusses, des Konzernlageberichts und anderer Unterlagen der
-    Rechnungslegung oder
+1.  als Geschäftsleiter im Sinne des § 1 Absatz 2 des Kreditwesengesetzes
+    eines Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des
+    § 340 Absatz 4 Satz 1 oder als Geschäftsleiter im Sinne des § 2 Absatz
+    36 des Wertpapierinstitutsgesetzes eines Wertpapierinstituts im Sinne
+    des § 340 Absatz 4a Satz 1 oder als Geschäftsleiter im Sinne des § 1
+    Absatz 8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines
+    Instituts im Sinne des § 1 Absatz 3 des
+    Zahlungsdiensteaufsichtsgesetzes oder als Inhaber eines in der
+    Rechtsform des Einzelkaufmanns betriebenen
+    Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1 oder
+    Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 den § 340l
+    Absatz 1 Satz 1 in Verbindung mit § 325 Absatz 1 Satz 2 und Absatz 1a
+    bis 5 über die Pflicht zur Offenlegung des Jahresabschlusses, des
+    Lageberichts, des Konzernabschlusses, des Konzernlageberichts und
+    anderer Unterlagen der Rechnungslegung oder
 
 
 2.  als Geschäftsleiter von Zweigniederlassungen im Sinn des § 53 Abs. 1
@@ -11342,8 +11656,31 @@ Personen, die
 
 
 nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung
-von Ordnungsgeld anzuhalten. Die §§ 335 bis 335b sind entsprechend
-anzuwenden.
+von Ordnungsgeld anzuhalten.
+
+(2) Die §§ 335 bis 335b sind mit der Maßgabe entsprechend anzuwenden,
+dass Gesamtumsatz im Sinne des § 335 Absatz 1a Satz 1 Nummer 2
+Folgendes ist:
+
+1.  im Falle von Unternehmen, die ihren Jahresabschluss nach den
+    handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 86/635/EWG aufstellen, der Gesamtbetrag
+    derjenigen Posten, die nach den auf das Unternehmen anwendbaren
+    handelsrechtlichen Vorschriften oder nach dem auf das Unternehmen
+    anwendbaren nationalen Recht den in Artikel 27 Nummer 1, 3, 4, 6 und 7
+    oder Artikel 28 Buchstabe B Nummer 1 bis 4 und 7 der Richtlinie
+    86/635/EWG genannten Posten entsprechen,
+
+
+2.  in Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses des Unternehmens gelten.
+
+
+
 
 
 #### Zweiter Unterabschnitt - Ergänzende Vorschriften für Versicherungsunternehmen und Pensionsfonds
@@ -11820,24 +12157,18 @@ betrieben werden.
 
 (1) Versicherungsunternehmen haben den Jahresabschluß und den
 Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und
-die anderen in § 325 bezeichneten Unterlagen nach § 325 Abs. 2 bis 5,
-§§ 328, 329 Abs. 1 und 4 offenzulegen. Von den in § 341a Abs. 5
-genannten Versicherungsunternehmen ist § 325 Abs. 1 mit der Maßgabe
-anzuwenden, dass die Frist für die Einreichung der Unterlagen beim
-Betreiber des Bundesanzeigers 15 Monate, im Fall des § 325 Abs. 4 Satz
-1 vier Monate beträgt; § 327a ist anzuwenden.
+die anderen in § 325 bezeichneten Unterlagen, sofern sie zu erstellen
+sind, in deutscher Sprache nach § 325 Absatz 1 Satz 2 und Absatz 1a
+bis 5 sowie den §§ 327a und 328 offenzulegen; § 329 Absatz 1, 2 und 4
+ist entsprechend anzuwenden. Von einem in § 341a Absatz 5 Satz 1
+genannten Versicherungsunternehmen ist Satz 1 mit der Maßgabe
+anzuwenden, dass die Frist zur Offenlegung 15 Monate beträgt, es sei
+denn, das Versicherungsunternehmen ist kapitalmarktorientiert im Sinne
+des § 264d und begibt nicht ausschließlich die von § 327a erfassten
+Schuldtitel; in diesem Fall beträgt die Frist zur Offenlegung gemäß
+Satz 1 in Verbindung mit § 325 Absatz 4 Satz 1 vier Monate.
 
-(2) Die gesetzlichen Vertreter eines Mutterunternehmens haben
-abweichend von § 325 Abs. 3 unverzüglich nach der Hauptversammlung
-oder der dieser entsprechenden Versammlung der obersten Vertretung,
-welcher der Konzernabschluß und der Konzernlagebericht vorzulegen
-sind, jedoch spätestens vor Ablauf des dieser Versammlung folgenden
-Monats den Konzernabschluß mit dem Bestätigungsvermerk oder dem
-Vermerk über dessen Versagung und den Konzernlagebericht mit Ausnahme
-der Aufstellung des Anteilsbesitzes beim Betreiber des Bundesanzeigers
-elektronisch einzureichen.
-
-(3) Soweit Absatz 1 Satz 1 auf § 325 Abs. 2a Satz 3 und 5 verweist,
+(2) Soweit Absatz 1 Satz 1 auf § 325 Abs. 2a Satz 3 und 5 verweist,
 gelten die folgenden Maßgaben und ergänzenden Bestimmungen:
 
 1.  Die in § 325 Abs. 2a Satz 3 genannten Vorschriften des Ersten
@@ -12112,28 +12443,38 @@ In den Fällen des Absatzes 3 Satz 1 in Verbindung mit Absatz 2 Satz 1
 Nummer 1 oder Satz 2 ist § 30 Absatz 2 Satz 3 des Gesetzes über
 Ordnungswidrigkeiten anzuwenden.
 
-(3b) Als Gesamtumsatz ist anstelle des Betrags der Umsatzerlöse der
-sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen
-Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates
-vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten
-Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S.
-7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom
-16\.8.2006, S. 1) geändert worden ist, ergebende Gesamtbetrag,
-abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge
-erhobener Steuern, maßgeblich. Handelt es sich bei dem
-Versicherungsunternehmen um ein Mutterunternehmen oder um ein
-Tochterunternehmen im Sinne des § 290, ist anstelle des Gesamtumsatzes
-des Versicherungsunternehmens der jeweilige Gesamtbetrag im
-Konzernabschluss des Mutterunternehmens maßgeblich, der für den
-größten Kreis von Unternehmen aufgestellt wird. Wird der
-Konzernabschluss für den größten Kreis von Unternehmen nicht nach der
-in Satz 1 genannten Vorschrift aufgestellt, ist der Gesamtumsatz nach
-Maßgabe der Posten des Konzernabschlusses zu ermitteln, die mit den
-von Satz 1 erfassten Posten vergleichbar sind. Ist ein Jahres- oder
-Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar,
-ist der Jahres- oder Konzernabschluss für das unmittelbar
-vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht
-verfügbar, kann der Gesamtumsatz geschätzt werden.
+(3b) Gesamtumsatz im Sinne des Absatzes 3a Satz 1 Nummer 2 ist
+
+1.  im Falle von Versicherungsunternehmen, die ihren Jahresabschluss nach
+    den handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991
+    über den Jahresabschluß und den konsolidierten Abschluß von
+    Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+    zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+    1) geändert worden ist, aufstellen, der Betrag der gebuchten
+    Bruttobeiträge nach Maßgabe der handelsrechtlichen Vorschriften oder
+    des auf das Versicherungsunternehmen anwendbaren nationalen Rechts im
+    Einklang mit Artikel 35 der Richtlinie 91/674/EWG,
+
+
+2.  in Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses des Versicherungsunternehmens gelten.
+
+
+
+Handelt es sich bei dem Versicherungsunternehmen um ein
+Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290,
+ist anstelle des Gesamtumsatzes des Versicherungsunternehmens der
+jeweilige Gesamtbetrag im Konzernabschluss des Mutterunternehmens
+maßgeblich, der für den größten Kreis von Unternehmen aufgestellt
+wird. Ist ein Jahres- oder Konzernabschluss für das maßgebliche
+Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss
+für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch
+dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a die
@@ -12153,7 +12494,7 @@ Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz
 
 ###### § 341o Festsetzung von Ordnungsgeld
 
-Personen, die
+(1) Personen, die
 
 1.  als Mitglieder des vertretungsberechtigten Organs eines
     Versicherungsunternehmens oder eines Pensionsfonds § 341l in
@@ -12169,8 +12510,30 @@ Personen, die
 
 
 nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung
-von Ordnungsgeld anzuhalten. Die §§ 335 bis 335b sind entsprechend
-anzuwenden.
+von Ordnungsgeld anzuhalten.
+
+(2) Die §§ 335 bis 335b sind mit der Maßgabe entsprechend anzuwenden,
+dass Gesamtumsatz im Sinne des § 335 Absatz 1a Satz 1 Nummer 2
+Folgendes ist:
+
+1.  im Falle von Versicherungsunternehmen, die ihren Jahresabschluss nach
+    den handelsrechtlichen Vorschriften oder dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im
+    Einklang mit der Richtlinie 91/674/EWG aufstellen, der Betrag der
+    gebuchten Bruttobeiträge nach Maßgabe der handelsrechtlichen
+    Vorschriften oder des auf das Versicherungsunternehmen anwendbaren
+    nationalen Rechts im Einklang mit Artikel 35 der Richtlinie
+    91/674/EWG,
+
+
+2.  in Fällen, die nicht in Nummer 1 genannt sind, der Betrag der
+    Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+    ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+    des Jahresabschlusses des Versicherungsunternehmens gelten.
+
+
+
 
 
 ###### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
@@ -12487,21 +12850,21 @@ beziehen.
 
 ###### § 341w Offenlegung
 
-(1) Die gesetzlichen Vertreter von Kapitalgesellschaften haben für
-diese den Zahlungsbericht spätestens ein Jahr nach dem
-Abschlussstichtag elektronisch in deutscher Sprache beim Betreiber des
-Bundesanzeigers einzureichen und unverzüglich nach Einreichung im
-Bundesanzeiger bekannt machen zu lassen. Im Falle einer
-Kapitalgesellschaft im Sinne des § 264d beträgt die Frist abweichend
-von Satz 1 sechs Monate nach dem Abschlussstichtag; § 327a gilt
-entsprechend.
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Kapitalgesellschaft im Sinne des § 341q haben für diese den
+Zahlungsbericht spätestens ein Jahr nach dem Abschlussstichtag in
+deutscher Sprache der das Unternehmensregister führenden Stelle
+elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln. Im Falle einer Kapitalgesellschaft im Sinne des § 264d
+beträgt die Frist abweichend von Satz 1 sechs Monate nach dem
+Abschlussstichtag.
 
-(2) Absatz 1 gilt entsprechend für die gesetzlichen Vertreter von
-Mutterunternehmen, die einen Konzernzahlungsbericht zu erstellen
-haben.
+(2) Absatz 1 gilt entsprechend für die Mitglieder des
+vertretungsberechtigten Organs eines Mutterunternehmens im Sinne des §
+341v, das einen Konzernzahlungsbericht zu erstellen hat.
 
-(3) § 325 Absatz 1 Satz 2 und Absatz 6 sowie § 328 Absatz 1 Satz 1 bis
-3, Absatz 1a bis 4 und § 329 Absatz 1, 3 und 4 gelten entsprechend.
+(3) § 325 Absatz 6 sowie § 328 Absatz 1 Satz 1 bis 3, Absatz 1a bis 4
+und § 329 Absatz 1, 3 und 4 gelten entsprechend.
 
 
 ##### Dritter Titel - Bußgeldvorschriften, Ordnungsgelder
@@ -12566,22 +12929,966 @@ ist.
 Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
 
 
-### Fünfter Abschnitt - Privates Rechnungslegungsgremium. Rechnungslegungsbeirat
+#### Vierter Unterabschnitt - Ergänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne
 
 
 
-#### § 342 Privates Rechnungslegungsgremium
+##### Erster Titel - Anwendungsbereich; Begriffsbestimmungen
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann
-eine privatrechtlich organisierte Einrichtung durch Vertrag anerkennen
-und ihr folgende Aufgaben übertragen:
+
+
+###### § 342 Anwendungsbereich
+
+(1) Dieser Unterabschnitt ist anzuwenden auf Kapitalgesellschaften mit
+Sitz im Inland und auf Personenhandelsgesellschaften im Sinne des §
+264a Absatz 1 mit Sitz im Inland, wenn diese Kapitalgesellschaften und
+Personenhandelsgesellschaften
+
+1.  unverbundene Unternehmen sind und eine Niederlassung, eine feste
+    Geschäftseinrichtung oder eine dauerhafte Geschäftstätigkeit in
+    mindestens einem anderen Staat haben,
+
+
+2.  oberste Mutterunternehmen sind und sie oder ein verbundenes
+    Unternehmen eine Niederlassung, eine feste Geschäftseinrichtung oder
+    eine dauerhafte Geschäftstätigkeit in mindestens einem anderen Staat
+    haben oder
+
+
+3.  Tochterunternehmen von obersten Mutterunternehmen mit Sitz in einem
+    Drittstaat sind und
+
+    a)  mittelgroß oder groß im Sinne des § 267 Absatz 2 bis 4 sind oder
+
+
+    b)  ausschließlich dem Zweck dienen, die Berichtspflichten nach diesem
+        Unterabschnitt zu umgehen.
+
+
+
+
+
+
+
+(2) Dieser Unterabschnitt ist ferner anzuwenden auf
+Kapitalgesellschaften mit Sitz in einem Drittstaat, die
+
+1.  unverbundene Unternehmen sind oder verbundene Unternehmen sind, wenn
+    das oberste Mutterunternehmen seinen Sitz in einem Drittstaat hat, und
+
+
+2.  eine Zweigniederlassung im Inland haben,
+
+    a)  deren Umsatzerlöse im Sinne des § 342b Absatz 4 in mindestens zwei
+        aufeinander folgenden Geschäftsjahren jeweils 12 Millionen Euro
+        übersteigen und diesen Betrag danach in zwei aufeinander folgenden
+        Geschäftsjahren jeweils nicht unterschreiten oder
+
+
+    b)  die ausschließlich dem Zweck dient, die Berichtspflichten nach diesem
+        Unterabschnitt zu umgehen.
+
+
+
+
+
+
+
+
+###### § 342a Begriffsbestimmungen
+
+Im Sinne dieses Unterabschnitts sind
+
+1.  unverbundene Unternehmen: Unternehmen, die nicht verbundene
+    Unternehmen nach § 271 Absatz 2 sind;
+
+
+2.  oberste Mutterunternehmen: Mutterunternehmen, die den Konzernabschluss
+    für den größten Kreis von Unternehmen aufstellen;
+
+
+3.  Drittstaaten: Staaten, die weder Mitgliedstaat der Europäischen Union
+    noch Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+    sind;
+
+
+4.  Steuerhoheitsgebiete: Staaten oder nichtstaatliche Rechtsräume, die in
+    Bezug auf die Ertragsteuer über Fiskalautonomie verfügen;
+
+
+5.  Mitglieder des vertretungsberechtigten Organs bei
+    Personenhandelsgesellschaften im Sinne des § 264a Absatz 1: die
+    Mitglieder des vertretungsberechtigten Organs der
+    vertretungsberechtigten Gesellschaften;
+
+
+6.  Berichtszeitraum: das Geschäftsjahr, für das der
+    Ertragsteuerinformationsbericht zu erstellen ist.
+
+
+
+
+
+##### Zweiter Titel - Pflicht zur Ertragsteuerinformationsberichterstattung
+
+
+
+###### § 342b Unverbundene Unternehmen mit Sitz im Inland
+
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 haben für diese für
+das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht
+gemäß
+
+1.  § 342g Nummer 1, § 342h Absatz 1 Nummer 1 bis 3 und Absatz 2 bis 5,
+    den §§ 342i, 342j Absatz 1 und § 342k Absatz 2 sowie
+
+
+2.  § 342k Absatz 1 und § 342l
+
+
+
+zu erstellen, wenn die in den Jahresabschlüssen der Gesellschaft
+ausgewiesenen Umsatzerlöse in mindestens zwei aufeinander folgenden
+Geschäftsjahren jeweils 750 Millionen Euro übersteigen.
+
+(2) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 sind von der Pflicht
+nach Absatz 1 befreit, wenn die Gesellschaft ein CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes oder ein Großes
+Wertpapierinstitut im Sinne des § 2 Absatz 18 des
+Wertpapierinstitutsgesetzes ist und für den Berichtszeitraum die nach
+§ 26a Absatz 1 Satz 2 des Kreditwesengesetzes erforderlichen Angaben
+offengelegt hat.
+
+(3) Die Pflicht nach Absatz 1 erlischt, wenn die in den
+Jahresabschlüssen ausgewiesenen Umsatzerlöse in zwei aufeinander
+folgenden Geschäftsjahren jeweils 750 Millionen Euro unterschreiten.
+
+(4) Umsatzerlöse nach den Absätzen 1 und 3 sind
+
+1.  bei Kreditinstituten im Sinne des § 340 Absatz 1,
+    Finanzdienstleistungsinstituten im Sinne des § 340 Absatz 4,
+    Wertpapierinstituten im Sinne des § 340 Absatz 4a oder Instituten im
+    Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes: der
+    Gesamtbetrag derjenigen Posten, die nach den jeweils anwendbaren
+    handelsrechtlichen Vorschriften den in Artikel 27 Nummer 1, 3, 4, 6
+    und 7 oder Artikel 28 Buchstabe B Nummer 1 bis 4 und 7 der Richtlinie
+    86/635/EWG genannten Posten entsprechen,
+
+
+2.  bei Versicherungsunternehmen im Sinne des § 341 Absatz 1 oder
+    Pensionsfonds im Sinne des § 341 Absatz 4: der Betrag der gebuchten
+    Bruttobeiträge nach Maßgabe der jeweils anwendbaren handelsrechtlichen
+    Vorschriften,
+
+
+3.  in Fällen, die nicht von den Nummern 1 und 2 erfasst werden: der
+    Betrag der Umsatzerlöse nach § 277 Absatz 1.
+
+
+
+
+
+###### § 342c Oberste Mutterunternehmen mit Sitz im Inland
+
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 2 haben für diese für
+das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht
+gemäß
+
+1.  § 342g Nummer 2, den §§ 342h, 342i, 342j Absatz 1 und § 342k Absatz 2
+    sowie
+
+
+2.  § 342k Absatz 1 und § 342l
+
+
+
+zu erstellen, wenn die in den Konzernabschlüssen der Gesellschaft
+ausgewiesenen Konzernumsatzerlöse in mindestens zwei aufeinander
+folgenden Geschäftsjahren jeweils 750 Millionen Euro übersteigen.
+
+(2) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 2 sind von der Pflicht
+nach Absatz 1 befreit, wenn die Gesellschaft ein CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes oder ein Großes
+Wertpapierinstitut im Sinne des § 2 Absatz 18 des
+Wertpapierinstitutsgesetzes ist und für den Berichtszeitraum unter
+Einbeziehung sämtlicher in den Konzernabschluss der Gesellschaft
+einbezogenen Unternehmen die nach § 26a Absatz 1 Satz 2 des
+Kreditwesengesetzes erforderlichen Angaben offengelegt hat.
+
+(3) Die Pflicht nach Absatz 1 erlischt, wenn die in den
+Konzernabschlüssen ausgewiesenen Konzernumsatzerlöse in zwei
+aufeinander folgenden Geschäftsjahren jeweils 750 Millionen Euro
+unterschreiten.
+
+(4) Konzernumsatzerlöse nach den Absätzen 1 und 3 sind
+
+1.  bei Gesellschaften, die den Konzernabschluss nach den auf der
+    Grundlage der Verordnung (EG) Nr. 1606/2002 übernommenen
+    internationalen Rechnungslegungsstandards aufstellen: der Betrag der
+    Konzernumsatzerlöse, der sich bei Anwendung dieser
+    Rechnungslegungsstandards ergibt,
+
+
+2.  in Fällen, die nicht von Nummer 1 erfasst werden: der sich bei
+    entsprechender Anwendung des § 342b Absatz 4 ergebende Betrag.
+
+
+
+
+
+###### § 342d Tochterunternehmen mit Sitz im Inland von obersten Mutterunternehmen mit Sitz in einem Drittstaat
+
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3 haben das oberste
+Mutterunternehmen der Gesellschaft aufzufordern, ihr für das
+vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht zur
+Verfügung zu stellen, der gemäß § 342g Nummer 2, den §§ 342h, 342i und
+342j Absatz 3 sowie den §§ 342k und 342l erstellt worden ist, wenn die
+in den Konzernabschlüssen des obersten Mutterunternehmens
+ausgewiesenen Konzernumsatzerlöse in mindestens zwei aufeinander
+folgenden Geschäftsjahren jeweils einen Betrag übersteigen, der zum
+Wechselkurs vom 21. Dezember 2021 bei Rundung auf das nächste Tausend
+einem Betrag von 750 Millionen Euro entspricht.
+
+(2) Wenn das oberste Mutterunternehmen einen
+Ertragsteuerinformationsbericht nicht zur Verfügung stellt oder der
+zur Verfügung gestellte Bericht nicht den gesetzlichen Vorgaben
+entspricht, haben die Mitglieder des vertretungsberechtigten Organs
+der Gesellschaft für diese Folgendes zu erstellen:
+
+1.  eine Erklärung darüber, dass das oberste Mutterunternehmen einen
+    Ertragsteuerinformationsbericht nicht zur Verfügung gestellt hat oder
+    dass der zur Verfügung gestellte Bericht nicht den gesetzlichen
+    Vorgaben entspricht, sowie
+
+
+2.  einen Ertragsteuerinformationsbericht gemäß
+
+    a)  § 342g Nummer 2, den §§ 342h, 342i, 342j Absatz 1 und § 342k Absatz 2
+        sowie
+
+
+    b)  § 342k Absatz 1 und § 342l
+
+
+
+    mit denjenigen Angaben, über die die Gesellschaft verfügt und die sie
+    beschaffen kann.
+
+
+
+
+(3) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3 sind von den
+Pflichten nach den Absätzen 1 und 2 befreit, wenn das oberste
+Mutterunternehmen einen Ertragsteuerinformationsbericht gemäß § 342g
+Nummer 2, den §§ 342h, 342i und 342j Absatz 3 sowie den §§ 342k und
+342l erstellt hat, der
+
+1.  spätestens ein Jahr nach dem Ende des Berichtszeitraums in mindestens
+    einer Amtssprache der Europäischen Union kostenlos auf der
+    Internetseite des obersten Mutterunternehmens veröffentlicht worden
+    ist,
+
+
+2.  von einem anderen Tochterunternehmen mit Sitz im Inland spätestens ein
+    Jahr nach dem Ende des Berichtszeitraums in deutscher Sprache der das
+    Unternehmensregister führenden Stelle zur Einstellung in das
+    Unternehmensregister übermittelt oder von einem Tochterunternehmen mit
+    Sitz in einem anderen Mitgliedstaat der Europäischen Union oder einem
+    anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum nach Maßgabe des jeweiligen nationalen Rechts im
+    Einklang mit Artikel 48d Absatz 1 der Richtlinie 2013/34/EU
+    offengelegt worden ist und
+
+
+3.  den Namen und den Sitz desjenigen Tochterunternehmens angibt, das den
+    Bericht gemäß Nummer 2 offengelegt hat.
+
+
+
+
+(4) Die Pflichten nach den Absätzen 1 und 2 erlöschen, wenn die in den
+Konzernabschlüssen des obersten Mutterunternehmens ausgewiesenen
+Konzernumsatzerlöse in zwei aufeinander folgenden Geschäftsjahren
+jeweils einen Betrag unterschreiten, der zum Wechselkurs vom 21.
+Dezember 2021 bei Rundung auf das nächste Tausend einem Betrag von 750
+Millionen Euro entspricht.
+
+(5) Konzernumsatzerlöse nach den Absätzen 1 und 4 sind der Betrag der
+Konzernumsatzerlöse, der sich bei Anwendung der
+Rechnungslegungsgrundsätze ergibt, die nach dem jeweiligen nationalen
+Recht für die Aufstellung des Konzernabschlusses des obersten
+Mutterunternehmens gelten.
+
+
+###### § 342e Inländische Zweigniederlassungen unverbundener Unternehmen mit Sitz in einem Drittstaat
+
+(1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2
+einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 erste
+Alternative haben die in § 13e Absatz 2 Satz 5 Nummer 3 genannten
+angemeldeten Personen oder, wenn solche nicht vorhanden sind, die
+Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft
+die Hauptniederlassung aufzufordern, ihnen für das vergangene
+Geschäftsjahr einen Ertragsteuerinformationsbericht zur Verfügung zu
+stellen, der gemäß § 342g Nummer 1, § 342h Absatz 1 Nummer 1 bis 3 und
+Absatz 2 bis 5, den §§ 342i und 342j Absatz 2 sowie den §§ 342k und
+342l erstellt worden ist, wenn die in den Jahresabschlüssen der
+Kapitalgesellschaft ausgewiesenen Umsatzerlöse in mindestens zwei
+aufeinander folgenden Geschäftsjahren jeweils einen Betrag
+übersteigen, der zum Wechselkurs vom 21. Dezember 2021 bei Rundung auf
+das nächste Tausend einem Betrag von 750 Millionen Euro entspricht.
+
+(2) Wenn die Hauptniederlassung einen Ertragsteuerinformationsbericht
+nicht zur Verfügung stellt oder der zur Verfügung gestellte Bericht
+nicht den gesetzlichen Vorgaben entspricht, haben die nach Absatz 1
+Verpflichteten für die Kapitalgesellschaft Folgendes zu erstellen:
+
+1.  eine Erklärung darüber, dass die Hauptniederlassung einen
+    Ertragsteuerinformationsbericht nicht zur Verfügung gestellt hat oder
+    dass der zur Verfügung gestellte Bericht nicht den gesetzlichen
+    Vorgaben entspricht, sowie
+
+
+2.  einen Ertragsteuerinformationsbericht gemäß
+
+    a)  § 342g Nummer 1, § 342h Absatz 1 Nummer 1 bis 3 und Absatz 2 bis 5,
+        den §§ 342i, 342j Absatz 2 und § 342k Absatz 2 sowie
+
+
+    b)  § 342k Absatz 1 und § 342l
+
+
+
+    mit denjenigen Angaben, über die sie verfügen und die sie beschaffen
+    können.
+
+
+
+
+(3) Die nach den Absätzen 1 und 2 Verpflichteten sind von den dort
+genannten Pflichten befreit, wenn die Kapitalgesellschaft einen
+Ertragsteuerinformationsbericht gemäß § 342g Nummer 1, § 342h Absatz 1
+Nummer 1 bis 3 und Absatz 2 bis 5, den §§ 342i und 342j Absatz 2 sowie
+den §§ 342k und 342l erstellt hat, der
+
+1.  spätestens ein Jahr nach dem Ende des Berichtszeitraums in mindestens
+    einer Amtssprache der Europäischen Union kostenlos auf der
+    Internetseite der Gesellschaft veröffentlicht worden ist,
+
+
+2.  von einer anderen inländischen Zweigniederlassung spätestens ein Jahr
+    nach dem Ende des Berichtszeitraums in deutscher Sprache der das
+    Unternehmensregister führenden Stelle zur Einstellung in das
+    Unternehmensregister übermittelt oder von einer Zweigniederlassung in
+    einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach
+    Maßgabe des jeweiligen nationalen Rechts im Einklang mit Artikel 48d
+    Absatz 1 der Richtlinie 2013/34/EU offengelegt worden ist und
+
+
+3.  den Namen und die Geschäftsanschrift derjenigen Zweigniederlassung
+    angibt, für die die Offenlegung gemäß Nummer 2 bewirkt worden ist.
+
+
+
+
+(4) Die Pflichten nach den Absätzen 1 und 2 erlöschen, wenn die in den
+Jahresabschlüssen der Kapitalgesellschaft ausgewiesenen Umsatzerlöse
+in zwei aufeinander folgenden Geschäftsjahren jeweils einen Betrag
+unterschreiten, der zum Wechselkurs vom 21. Dezember 2021 bei Rundung
+auf das nächste Tausend einem Betrag von 750 Millionen Euro
+entspricht.
+
+(5) Umsatzerlöse nach den Absätzen 1 und 4 sind der Betrag der
+Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze
+ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung
+des Jahresabschlusses der Kapitalgesellschaft gelten.
+
+
+###### § 342f Inländische Zweigniederlassungen verbundener Unternehmen mit Sitz in einem Drittstaat
+
+(1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2
+einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 zweite
+Alternative haben die in § 13e Absatz 2 Satz 5 Nummer 3 genannten
+angemeldeten Personen oder, wenn solche nicht vorhanden sind, die
+Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft
+das oberste Mutterunternehmen aufzufordern, ihnen für das vergangene
+Geschäftsjahr einen Ertragsteuerinformationsbericht zur Verfügung zu
+stellen, der gemäß § 342g Nummer 2, den §§ 342h, 342i, 342j Absatz 3
+sowie den §§ 342k und 342l erstellt worden ist, wenn
+
+1.  die in den Konzernabschlüssen des obersten Mutterunternehmens
+    ausgewiesenen Konzernumsatzerlöse in mindestens zwei aufeinander
+    folgenden Geschäftsjahren jeweils einen Betrag übersteigen, der zum
+    Wechselkurs vom 21. Dezember 2021 bei Rundung auf das nächste Tausend
+    einem Betrag von 750 Millionen Euro entspricht, und
+
+
+2.  das oberste Mutterunternehmen kein Tochterunternehmen hat, das den
+    Pflichten nach § 342d Absatz 1 und 2 oder vergleichbaren Pflichten
+    nach Maßgabe des Rechts eines anderen Mitgliedstaats der Europäischen
+    Union oder eines anderen Vertragsstaats des Abkommens über den
+    Europäischen Wirtschaftsraum im Einklang mit Artikel 48b Absatz 4 der
+    Richtlinie 2013/34/EU unterliegt.
+
+
+
+
+(2) Wenn das oberste Mutterunternehmen einen
+Ertragsteuerinformationsbericht nicht zur Verfügung stellt oder der
+zur Verfügung gestellte Bericht nicht den gesetzlichen Vorgaben
+entspricht, haben die nach Absatz 1 Verpflichteten für die
+Kapitalgesellschaft Folgendes zu erstellen:
+
+1.  eine Erklärung darüber, dass das oberste Mutterunternehmen einen
+    Ertragsteuerinformationsbericht nicht zur Verfügung gestellt hat oder
+    dass der zur Verfügung gestellte Bericht nicht den gesetzlichen
+    Vorgaben entspricht, sowie
+
+
+2.  einen Ertragsteuerinformationsbericht gemäß
+
+    a)  § 342g Nummer 2, den §§ 342h, 342i, 342j Absatz 3 und § 342k Absatz 2
+        sowie
+
+
+    b)  § 342k Absatz 1 und § 342l
+
+
+
+    mit denjenigen Angaben, über die sie verfügen und die sie beschaffen
+    können.
+
+
+
+
+(3) Die nach den Absätzen 1 und 2 Verpflichteten sind von den dort
+genannten Pflichten befreit, wenn das oberste Mutterunternehmen einen
+Ertragsteuerinformationsbericht gemäß § 342g Nummer 2, den §§ 342h,
+342i, 342j Absatz 3 sowie den §§ 342k und 342l erstellt hat, der
+
+1.  spätestens ein Jahr nach dem Ende des Berichtszeitraums in mindestens
+    einer Amtssprache der Europäischen Union kostenlos auf der
+    Internetseite des obersten Mutterunternehmens veröffentlicht worden
+    ist,
+
+
+2.  von einer anderen inländischen Zweigniederlassung spätestens ein Jahr
+    nach dem Ende des Berichtszeitraums in deutscher Sprache der das
+    Unternehmensregister führenden Stelle zur Einstellung in das
+    Unternehmensregister übermittelt oder von einer Zweigniederlassung in
+    einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach
+    Maßgabe des jeweiligen nationalen Rechts im Einklang mit Artikel 48d
+    Absatz 1 der Richtlinie 2013/34/EU offengelegt worden ist und
+
+
+3.  den Namen und die Geschäftsanschrift derjenigen Zweigniederlassung
+    angibt, für die die Offenlegung gemäß Nummer 2 bewirkt worden ist.
+
+
+
+
+(4) Die Pflichten nach den Absätzen 1 und 2 erlöschen, wenn die in den
+Konzernabschlüssen des obersten Mutterunternehmens ausgewiesenen
+Konzernumsatzerlöse in zwei aufeinander folgenden Geschäftsjahren
+jeweils einen Betrag unterschreiten, der zum Wechselkurs vom 21.
+Dezember 2021 bei Rundung auf das nächste Tausend einem Betrag von 750
+Millionen Euro entspricht.
+
+(5) Konzernumsatzerlöse nach den Absätzen 1 und 4 sind der Betrag der
+Konzernumsatzerlöse, der sich bei Anwendung der
+Rechnungslegungsgrundsätze ergibt, die nach dem jeweiligen nationalen
+Recht für die Aufstellung des Konzernabschlusses des obersten
+Mutterunternehmens gelten.
+
+
+##### Dritter Titel - Einzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts
+
+
+
+###### § 342g Einzubeziehende Unternehmen
+
+In den Ertragsteuerinformationsbericht sind einzubeziehen:
+
+1.  in den Fällen der §§ 342b und 342e das unverbundene Unternehmen;
+
+
+2.  in den Fällen der §§ 342c, 342d und 342f das oberste Mutterunternehmen
+    und alle Tochterunternehmen, die in den für den Berichtszeitraum
+    aufgestellten Konzernabschluss des obersten Mutterunternehmens
+    einbezogen sind.
+
+
+
+
+
+###### § 342h Pflichtangaben
+
+(1) Im Ertragsteuerinformationsbericht sind anzugeben:
+
+1.  in den Fällen der §§ 342b und 342e der Name des unverbundenen
+    Unternehmens oder in den Fällen der §§ 342c, 342d und 342f der Name
+    des obersten Mutterunternehmens;
+
+
+2.  der Berichtszeitraum;
+
+
+3.  die verwendete Währung;
+
+
+4.  in den Fällen der §§ 342c, 342d und 342f die Namen aller
+    Tochterunternehmen, die in den für den Berichtszeitraum aufgestellten
+    Konzernabschluss des obersten Mutterunternehmens einbezogen sind und
+    ihren Sitz in folgenden Gebieten haben:
+
+    a)  in einem Mitgliedstaat der Europäischen Union oder einem anderen
+        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+
+
+    b)  in Steuerhoheitsgebieten, die am 1. März des Berichtszeitraums in den
+        Anhängen I und II der Schlussfolgerungen des Rates zur überarbeiteten
+        EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke (ABl.
+        C 103 vom 3.3.2022, S. 1) in der jeweils geltenden Fassung aufgeführt
+        sind.
+
+
+
+
+
+
+
+(2) Im Ertragsteuerinformationsbericht sind ferner zu dem oder den
+einzubeziehenden Unternehmen nach Maßgabe des § 342i anzugeben:
+
+1.  eine kurze Beschreibung der Art der Geschäftstätigkeiten im
+    Berichtszeitraum;
+
+
+2.  die Zahl der Arbeitnehmer im Berichtszeitraum;
+
+
+3.  die Erträge im Berichtszeitraum, einschließlich der Erträge aus
+    Geschäften mit nahestehenden Unternehmen und Personen;
+
+
+4.  der Gewinn oder Verlust vor Ertragsteuern im Berichtszeitraum;
+
+
+5.  die für den Berichtszeitraum zu zahlende Ertragsteuer;
+
+
+6.  die im Berichtszeitraum gezahlte Ertragsteuer auf Kassenbasis und
+
+
+7.  die einbehaltenen Gewinne am Ende des Berichtszeitraums.
+
+
+
+
+(3) Für die Angaben nach Absatz 2 gelten vorbehaltlich des Absatzes 4
+die folgenden Vorgaben:
+
+1.  die Zahl der Arbeitnehmer nach Absatz 2 Nummer 2 ist in
+    Vollzeitäquivalenten anzugeben;
+
+
+2.  die Erträge nach Absatz 2 Nummer 3 umfassen
+
+    a)  bei Unternehmen, die ihren Jahresabschluss für den Berichtszeitraum
+        nach Maßgabe des jeweiligen nationalen Rechts im Einklang mit der
+        Richtlinie 2013/34/EU aufstellen, diejenigen Posten nach nationalem
+        Recht, die den Posten 1, 4, 9 bis 11 in Anhang V oder den Posten 1, 6
+        bis 9 in Anhang VI der Richtlinie 2013/34/EU entsprechen, wobei
+        jeweils von verbundenen Unternehmen erhaltene Dividenden nicht
+        berücksichtigt werden dürfen, oder
+
+
+    b)  bei allen anderen Unternehmen diejenigen Erträge, welche sich bei
+        Anwendung der Rechnungslegungsgrundsätze ergeben, auf deren Grundlage
+        der Jahresabschluss für den Berichtszeitraum aufgestellt wird, wobei
+        Erträge aus Wertanpassungen und von verbundenen Unternehmen erhaltene
+        Dividenden nicht berücksichtigt werden dürfen;
+
+
+
+
+
+3.  der Gewinn oder Verlust vor Ertragsteuern nach Absatz 2 Nummer 4 ist
+    in Anwendung der Rechnungslegungsgrundsätze zu bestimmen, auf deren
+    Grundlage der Jahresabschluss für den Berichtszeitraum aufgestellt
+    wird;
+
+
+4.  die zu zahlende Ertragsteuer nach Absatz 2 Nummer 5 entspricht dem
+    laufenden Steueraufwand auf zu versteuernde Gewinne oder Verluste des
+    Berichtszeitraums ohne latente Steuern und Rückstellungen für
+    ungewisse Steuerverbindlichkeiten;
+
+
+5.  die gezahlte Ertragsteuer auf Kassenbasis nach Absatz 2 Nummer 6
+    umfasst alle im Berichtszeitraum entrichteten Ertragsteuern und
+    schließt Quellensteuern ein, die von anderen Unternehmen in Bezug auf
+    Zahlungen an das einzubeziehende Unternehmen entrichtet wurden;
+
+
+6.  die einbehaltenen Gewinne nach Absatz 2 Nummer 7 umfassen die Gewinne
+    vergangener Geschäftsjahre und des Berichtszeitraums, für die am Ende
+    des Berichtszeitraums keine Gewinnausschüttung beschlossen ist.
+
+
+
+
+(4) Die Angaben nach Absatz 2 können insgesamt auch gemäß den Vorgaben
+in Anhang III Abschnitt III Teil B und C der Richtlinie 2011/16/EU des
+Rates vom 15. Februar 2011 über die Zusammenarbeit der
+Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der
+Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1), die zuletzt
+durch die Richtlinie (EU) 2021/514 (ABl. L 104 vom 25.3.2021, S. 1)
+geändert worden ist, gemacht werden.
+
+(5) Im Ertragsteuerinformationsbericht ist anzugeben, ob die nach
+Absatz 2 erforderlichen Angaben gemäß den Vorgaben des Absatzes 3 oder
+4 gemacht wurden.
+
+
+###### § 342i Länderbezogener Ausweis der Angaben
+
+(1) Die Angaben nach § 342h Absatz 2 sind wie folgt getrennt
+auszuweisen:
+
+1.  für jeden Mitgliedstaat der Europäischen Union und jeden anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum,
+    wobei die Angaben auf der Ebene des Mitgliedstaats oder Vertragsstaats
+    zusammenzufassen sind, wenn ein Mitgliedstaat oder Vertragsstaat
+    mehrere Steuerhoheitsgebiete umfasst;
+
+
+2.  für jedes Steuerhoheitsgebiet, das im Berichtszeitraum am 1. März in
+    Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste
+    nicht kooperativer Länder und Gebiete für Steuerzwecke aufgeführt war;
+
+
+3.  für jedes Steuerhoheitsgebiet, das im Berichtszeitraum und in dem
+    diesem unmittelbar vorausgehenden Geschäftsjahr jeweils am 1. März in
+    Anhang II der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste
+    nicht kooperativer Länder und Gebiete für Steuerzwecke aufgeführt war.
+
+
+
+Für andere Steuerhoheitsgebiete sind die Angaben nach § 342h Absatz 2
+zusammengefasst auszuweisen.
+
+(2) Die Angaben sind demjenigen Steuerhoheitsgebiet zuzuordnen, in dem
+die Niederlassung oder feste Geschäftseinrichtung belegen ist oder die
+dauerhafte Geschäftstätigkeit besteht, auf die sich die Angaben
+jeweils beziehen, vorausgesetzt, die Niederlassung, feste
+Geschäftseinrichtung oder dauerhafte Geschäftstätigkeit kann im
+betreffenden Steuerhoheitsgebiet der Ertragsteuer unterliegen. Angaben
+zu einbehaltenen Gewinnen sind stets dem Steuerhoheitsgebiet
+zuzuordnen, in dem die Hauptniederlassung belegen ist. Unterliegen
+mehrere verbundene Unternehmen in einem Steuerhoheitsgebiet der
+Ertragsteuer, so sind die nach den Sätzen 1 und 2 diesem
+Steuerhoheitsgebiet jeweils zuzuordnenden Angaben für das
+Steuerhoheitsgebiet zusammenzufassen. Angaben zu einer Niederlassung,
+festen Geschäftseinrichtung oder dauerhaften Geschäftstätigkeit dürfen
+nicht mehr als einem Steuerhoheitsgebiet zugeordnet werden.
+
+
+###### § 342j Währung
+
+(1) Der Ertragsteuerinformationsbericht ist in den Fällen der §§ 342b,
+342c und 342d Absatz 2 Nummer 2 in Euro zu erstellen.
+
+(2) In den Fällen des § 342e ist der Bericht in derjenigen Währung zu
+erstellen, in der der Jahresabschluss des unverbundenen Unternehmens
+für den Berichtszeitraum aufgestellt wird.
+
+(3) In den Fällen des § 342d, die nicht von Absatz 1 erfasst sind, und
+in den Fällen des § 342f ist der Bericht in derjenigen Währung zu
+erstellen, in der der Konzernabschluss des obersten Mutterunternehmens
+für den Berichtszeitraum aufgestellt wird.
+
+
+###### § 342k Weglassen nachteiliger Angaben
+
+(1) Angaben nach § 342h Absatz 1 und 2 müssen nicht in den
+Ertragsteuerinformationsbericht aufgenommen werden, wenn ihre
+Offenlegung den Unternehmen, auf die sie sich beziehen, einen
+erheblichen Nachteil zufügen würde. Satz 1 gilt nicht für Angaben, die
+sich auf die in § 342i Absatz 1 Satz 1 Nummer 2 oder 3 genannten
+Steuerhoheitsgebiete beziehen.
+
+(2) Wenn Absatz 1 Satz 1 angewendet wird, so ist dies im
+Ertragsteuerinformationsbericht anzugeben und gebührend zu begründen.
+Die nicht aufgenommenen Angaben sind spätestens in den
+Ertragsteuerinformationsbericht aufzunehmen, der für das vierte
+Geschäftsjahr nach dem Berichtszeitraum erstellt wird.
+
+
+###### § 342l Formblatt; maschinenlesbares elektronisches Format
+
+(1) Der Ertragsteuerinformationsbericht ist unter Verwendung des von
+der Europäischen Kommission auf der Grundlage des Artikels 48c Absatz
+4 Satz 2 der Richtlinie 2013/34/EU festzulegenden Formblatts zu
+erstellen.
+
+(2) Der Ertragsteuerinformationsbericht ist in einem von der
+Europäischen Kommission auf der Grundlage des Artikels 48c Absatz 4
+Satz 2 der Richtlinie 2013/34/EU festzulegenden maschinenlesbaren
+elektronischen Format zu erstellen.
+
+
+##### Vierter Titel - Offenlegung und Veröffentlichung
+
+
+
+###### § 342m Offenlegung im Unternehmensregister
+
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der
+Pflicht nach § 342b Absatz 1 oder § 342c Absatz 1 unterliegen, haben
+für die Gesellschaft den Ertragsteuerinformationsbericht spätestens
+ein Jahr nach dem Ende des Berichtszeitraums in deutscher Sprache der
+das Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln.
+
+(2) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3, die der Pflicht
+nach § 342d Absatz 1 unterliegen, haben für die Gesellschaft den
+Ertragsteuerinformationsbericht, den das oberste Mutterunternehmen zur
+Verfügung gestellt hat, spätestens ein Jahr nach dem Ende des
+Berichtszeitraums in deutscher Sprache der das Unternehmensregister
+führenden Stelle zur Einstellung in das Unternehmensregister zu
+übermitteln. Wenn das oberste Mutterunternehmen einen
+Ertragsteuerinformationsbericht nicht zur Verfügung stellt oder der
+zur Verfügung gestellte Bericht nicht den gesetzlichen Vorgaben
+entspricht, haben die Mitglieder des vertretungsberechtigten Organs
+der Gesellschaft für diese anstelle des Berichts Folgendes nach
+Maßgabe des Satzes 1 zu übermitteln:
+
+1.  die Erklärung nach § 342d Absatz 2 Nummer 1 und
+
+
+2.  den Ertragsteuerinformationsbericht nach § 342d Absatz 2 Nummer 2.
+
+
+
+
+(3) Die in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten
+Personen oder, wenn solche nicht vorhanden sind, die Mitglieder des
+vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des
+§ 342 Absatz 2, die der Pflicht nach § 342e Absatz 1 oder § 342f
+Absatz 1 unterliegen, haben für die Kapitalgesellschaft den
+Ertragsteuerinformationsbericht, den die Hauptniederlassung oder das
+oberste Mutterunternehmen zur Verfügung gestellt hat, spätestens ein
+Jahr nach dem Ende des Berichtszeitraums in deutscher Sprache der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln. Wenn die Hauptniederlassung oder
+das oberste Mutterunternehmen einen Ertragsteuerinformationsbericht
+nicht zur Verfügung stellt oder der zur Verfügung gestellte Bericht
+nicht den gesetzlichen Vorgaben entspricht, haben die nach Satz 1
+Verpflichteten für die Kapitalgesellschaft anstelle des Berichts
+Folgendes nach Maßgabe des Satzes 1 zu übermitteln:
+
+1.  die Erklärung nach § 342e Absatz 2 Nummer 1 oder § 342f Absatz 2
+    Nummer 1 und
+
+
+2.  den Ertragsteuerinformationsbericht nach § 342e Absatz 2 Nummer 2 oder
+    § 342f Absatz 2 Nummer 2.
+
+
+
+
+(4) Die §§ 11 und 328 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1 und 4
+sowie § 329 Absatz 1 und 4 sind entsprechend anzuwenden. Bei
+inländischen Zweigniederlassungen von Kapitalgesellschaften im Sinne
+des § 342 Absatz 2 Nummer 1 kann die das Unternehmensregister führende
+Stelle von den in § 13e Absatz 2 Satz 5 Nummer 3 genannten
+angemeldeten Personen oder, wenn solche nicht vorhanden sind, von den
+Mitgliedern des vertretungsberechtigten Organs der Kapitalgesellschaft
+verlangen, ihr innerhalb einer angemessenen Frist die Umsatzerlöse der
+Zweigniederlassung für die letzten beiden Geschäftsjahre mitzuteilen.
+Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2 von
+Kapitalgesellschaften im Sinne des § 342 Absatz 2 Nummer 1 zweite
+Alternative und bei Vorliegen der Voraussetzungen des § 342f Absatz 1
+Nummer 1 kann die das Unternehmensregister führende Stelle von den in
+§ 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder,
+wenn solche nicht vorhanden sind, von den Mitgliedern des
+vertretungsberechtigten Organs der Kapitalgesellschaft verlangen, ihr
+innerhalb einer angemessenen Frist Namen und Sitz eines
+Tochterunternehmens mitzuteilen, das für den Konzern den Pflichten
+nach § 342d Absatz 1 und 2 oder vergleichbaren Pflichten nach Maßgabe
+des Rechts eines anderen Mitgliedstaats der Europäischen Union oder
+eines anderen Vertragsstaats des Abkommens über den Europäischen
+Wirtschaftsraum im Einklang mit Artikel 48b Absatz 4 der Richtlinie
+2013/34/EU unterliegt. Wird die fristgemäße Mitteilung nach Satz 2
+unterlassen, so wird vermutet, dass die Voraussetzungen des § 342
+Absatz 2 Nummer 2 Buchstabe a erfüllt sind. Wird die fristgemäße
+Mitteilung nach Satz 3 unterlassen, so wird vermutet, dass es kein
+dort genanntes Tochterunternehmen gibt.
+
+
+###### § 342n Veröffentlichung auf der Internetseite der Gesellschaft
+
+(1) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der
+Pflicht nach § 342b Absatz 1 oder § 342c Absatz 1 unterliegen, haben
+für die Gesellschaft den Ertragsteuerinformationsbericht spätestens
+ein Jahr nach dem Ende des Berichtszeitraums für mindestens fünf Jahre
+kostenlos und in deutscher Sprache auf der Internetseite der
+Gesellschaft zu veröffentlichen. Die Pflicht nach Satz 1 entfällt,
+wenn die Mitglieder des vertretungsberechtigten Organs der
+Gesellschaft
+
+1.  ihre Pflicht zur Offenlegung gemäß § 342m Absatz 1 erfüllt haben und
+
+
+2.  auf der Internetseite der Gesellschaft für mindestens fünf Jahre den
+    Hinweis veröffentlichen, dass
+
+    a)  der Ertragsteuerinformationsbericht über die Internetseite des
+        Unternehmensregisters kostenlos zugänglich ist und
+
+
+    b)  die Pflicht zur Veröffentlichung des Ertragsteuerinformationsberichts
+        auf der Internetseite der Gesellschaft deshalb entfällt.
+
+
+
+
+
+
+
+(2) Die Mitglieder des vertretungsberechtigten Organs einer
+Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3, die der Pflicht
+nach § 342d Absatz 1 unterliegen, haben für die Gesellschaft
+spätestens ein Jahr nach dem Ende des Berichtszeitraums für mindestens
+fünf Jahre Folgendes kostenlos und in deutscher Sprache auf der
+Internetseite der Gesellschaft oder der eines verbundenen Unternehmens
+zu veröffentlichen:
+
+1.  im Falle des § 342m Absatz 2 Satz 1 den
+    Ertragsteuerinformationsbericht, den das oberste Mutterunternehmen zur
+    Verfügung gestellt hat, oder
+
+
+2.  im Falle des § 342m Absatz 2 Satz 2 die Erklärung und den
+    Ertragsteuerinformationsbericht, die beziehungsweise den die
+    Gesellschaft erstellt hat.
+
+
+
+Absatz 1 Satz 2 ist entsprechend anzuwenden.
+
+(3) Die in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten
+Personen oder, wenn solche nicht vorhanden sind, die Mitglieder des
+vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des
+§ 342 Absatz 2, die der Pflicht nach § 342e Absatz 1 oder § 342f
+Absatz 1 unterliegen, haben für die Kapitalgesellschaft spätestens ein
+Jahr nach dem Ende des Berichtszeitraums für mindestens fünf Jahre
+Folgendes kostenlos und in deutscher Sprache auf der Internetseite der
+Kapitalgesellschaft oder gegebenenfalls derjenigen eines verbundenen
+Unternehmens zu veröffentlichen:
+
+1.  im Falle des § 342m Absatz 3 Satz 1 den
+    Ertragsteuerinformationsbericht, den die Hauptniederlassung oder das
+    oberste Mutterunternehmen zur Verfügung gestellt hat, oder
+
+
+2.  im Falle des § 342m Absatz 3 Satz 2 die Erklärung und den
+    Ertragsteuerinformationsbericht, die beziehungsweise den sie für die
+    Kapitalgesellschaft erstellt haben.
+
+
+
+Absatz 1 Satz 2 ist entsprechend anzuwenden.
+
+
+##### Fünfter Titel - Bußgeldvorschriften; Ordnungsgelder
+
+
+
+###### § 342o Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer
+
+1.  entgegen § 342b Absatz 1 Nummer 1, § 342c Absatz 1 Nummer 1, § 342d
+    Absatz 2 Nummer 2 Buchstabe a, § 342e Absatz 2 Nummer 2 Buchstabe a
+    oder § 342f Absatz 2 Nummer 2 Buchstabe a einen
+    Ertragsteuerinformationsbericht nicht richtig oder nicht vollständig
+    erstellt oder
+
+
+2.  entgegen § 342n Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1
+    einen Ertragsteuerinformationsbericht oder eine Erklärung nicht, nicht
+    richtig, nicht rechtzeitig oder nicht mindestens fünf Jahre
+    veröffentlicht.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+zweihundertfünfzigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
+
+
+###### § 342p Ordnungsgelder
+
+Das Bundesamt für Justiz hat ein Ordnungsgeldverfahren durchzuführen
+gegen
+
+1.  die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft
+    im Sinne des § 342 Absatz 1, die § 342m Absatz 1 oder 2 hinsichtlich
+    der Pflicht zur Offenlegung des Ertragsteuerinformationsberichts oder
+    der Erklärung nach § 342d Absatz 2 Nummer 1 nicht befolgen,
+
+
+2.  die Mitglieder des vertretungsberechtigten Organs einer
+    Kapitalgesellschaft im Sinne des § 342 Absatz 2, die § 342m Absatz 3
+    hinsichtlich der Pflicht zur Offenlegung des
+    Ertragsteuerinformationsberichts oder der Erklärung nach § 342e Absatz
+    2 Nummer 1 oder § 342f Absatz 2 Nummer 1 nicht befolgen.
+
+
+
+Im Falle des Satzes 1 Nummer 2 treten die in § 13e Absatz 2 Satz 5
+Nummer 3 genannten angemeldeten Personen, sobald sie angemeldet sind,
+an die Stelle der Mitglieder des vertretungsberechtigten Organs der
+Kapitalgesellschaft. Das Ordnungsgeldverfahren kann im Falle des
+Satzes 1 Nummer 1 auch gegen die Gesellschaft im Sinne des § 342
+Absatz 1 und im Falle des Satzes 1 Nummer 2 auch gegen die
+Kapitalgesellschaft im Sinne des § 342 Absatz 2 durchgeführt werden. §
+335 Absatz 1 Satz 3 bis 5 und Absatz 1c bis 7 sowie die §§ 335a und
+335b sind mit der Maßgabe entsprechend anzuwenden, dass das
+Ordnungsgeld höchstens zweihundertfünfzigtausend Euro beträgt.
+
+
+### Fünfter Abschnitt - Privates Rechnungslegungsgremium; Rechnungslegungsbeirat
+
+
+
+#### § 342q Privates Rechnungslegungsgremium
+
+(1) Das Bundesministerium der Justiz kann eine privatrechtlich
+organisierte Einrichtung durch Vertrag anerkennen und ihr folgende
+Aufgaben übertragen:
 
 1.  Entwicklung von Empfehlungen zur Anwendung der Grundsätze über die
     Konzernrechnungslegung,
 
 
-2.  Beratung des Bundesministeriums der Justiz und für Verbraucherschutz
-    bei Gesetzgebungsvorhaben zu Rechnungslegungsvorschriften,
+2.  Beratung des Bundesministeriums der Justiz bei Gesetzgebungsvorhaben
+    zu Rechnungslegungsvorschriften,
 
 
 3.  Vertretung der Bundesrepublik Deutschland in internationalen
@@ -12604,23 +13911,21 @@ ausgeübt werden.
 
 (2) Die Beachtung der die Konzernrechnungslegung betreffenden
 Grundsätze ordnungsmäßiger Buchführung wird vermutet, soweit vom
-Bundesministerium der Justiz und für Verbraucherschutz bekanntgemachte
-Empfehlungen einer nach Absatz 1 Satz 1 anerkannten Einrichtung
-beachtet worden sind.
+Bundesministerium der Justiz bekanntgemachte Empfehlungen einer nach
+Absatz 1 Satz 1 anerkannten Einrichtung beachtet worden sind.
 
 
-#### § 342a Rechnungslegungsbeirat
+#### § 342r Rechnungslegungsbeirat
 
-(1) Beim Bundesministerium der Justiz und für Verbraucherschutz wird
-vorbehaltlich Absatz 9 ein Rechnungslegungsbeirat mit den Aufgaben
-nach § 342 Abs. 1 Satz 1 gebildet.
+(1) Beim Bundesministerium der Justiz wird vorbehaltlich Absatz 9 ein
+Rechnungslegungsbeirat mit den Aufgaben nach § 342q Absatz 1 Satz 1
+gebildet.
 
 (2) Der Rechnungslegungsbeirat setzt sich zusammen aus
 
-1.  einem Vertreter des Bundesministeriums der Justiz und für
-    Verbraucherschutz als Vorsitzendem sowie je einem Vertreter des
-    Bundesministeriums der Finanzen und des Bundesministeriums für
-    Wirtschaft und Energie,
+1.  einem Vertreter des Bundesministeriums der Justiz als Vorsitzendem
+    sowie je einem Vertreter des Bundesministeriums der Finanzen und des
+    Bundesministeriums für Wirtschaft und Klimaschutz,
 
 
 2.  vier Vertretern von Unternehmen,
@@ -12635,14 +13940,14 @@ nach § 342 Abs. 1 Satz 1 gebildet.
 
 
 (3) Die Mitglieder des Rechnungslegungsbeirats werden durch das
-Bundesministerium der Justiz und für Verbraucherschutz berufen. Als
-Mitglieder sollen nur Rechnungsleger berufen werden.
+Bundesministerium der Justiz berufen. Als Mitglieder sollen nur
+Rechnungsleger berufen werden.
 
 (4) Die Mitglieder des Rechnungslegungsbeirats sind unabhängig und
 nicht weisungsgebunden. Ihre Tätigkeit im Beirat ist ehrenamtlich.
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz kann
-eine Geschäftsordnung für den Beirat erlassen.
+(5) Das Bundesministerium der Justiz kann eine Geschäftsordnung für
+den Beirat erlassen.
 
 (6) Der Beirat kann für bestimmte Sachgebiete Fachausschüsse und
 Arbeitskreise einsetzen.
@@ -12652,12 +13957,12 @@ beschlußfähig, wenn mindestens zwei Drittel der Mitglieder anwesend
 sind. Bei Abstimmungen entscheidet die Stimmenmehrheit, bei
 Stimmengleichheit die Stimme des Vorsitzenden.
 
-(8) Für die Empfehlungen des Rechnungslegungsbeirats gilt § 342 Abs. 2
-entsprechend.
+(8) Für die Empfehlungen des Rechnungslegungsbeirats gilt § 342q
+Absatz 2 entsprechend.
 
 (9) Die Bildung eines Rechnungslegungsbeirats nach Absatz 1
-unterbleibt, soweit das Bundesministerium der Justiz und für
-Verbraucherschutz eine Einrichtung nach § 342 Abs. 1 anerkennt.
+unterbleibt, soweit das Bundesministerium der Justiz eine Einrichtung
+nach § 342q Absatz 1 anerkennt.
 
 
 ## Viertes Buch - Handelsgeschäfte
@@ -12697,13 +14002,13 @@ Vorschriften sich ein anderes ergibt.
 #### § 346
 
 Unter Kaufleuten ist in Ansehung der Bedeutung und Wirkung von
-Handlungen und Unterlassungen auf die im Handelsverkehr geltenden
+Handlungen und Unterlassungen auf die im Handelsverkehre geltenden
 Gewohnheiten und Gebräuche Rücksicht zu nehmen.
 
 
 #### § 347
 
-(1) Wer aus einem Geschäft, das auf seiner Seite ein Handelsgeschäft
+(1) Wer aus einem Geschäfte, das auf seiner Seite ein Handelsgeschäft
 ist, einem anderen zur Sorgfalt verpflichtet ist, hat für die Sorgfalt
 eines ordentlichen Kaufmanns einzustehen.
 
@@ -12800,7 +14105,7 @@ Zeitabschnitten durch Verrechnung und Feststellung des für den einen
 oder anderen Teil sich ergebenden Überschusses ausgeglichen werden
 (laufende Rechnung, Kontokorrent), so kann derjenige, welchem bei dem
 Rechnungsabschluß ein Überschuß gebührt, von dem Tage des Abschlusses
-an Zinsen von dem Überschuß verlangen, auch soweit in der Rechnung
+an Zinsen von dem Überschusse verlangen, auch soweit in der Rechnung
 Zinsen enthalten sind.
 
 (2) Der Rechnungsabschluß geschieht jährlich einmal, sofern nicht ein
@@ -12835,7 +14140,7 @@ aus der laufenden Rechnung zukommt, so können dem Gläubiger gegenüber
 Schuldposten, die nach der Pfändung durch neue Geschäfte entstehen,
 nicht in Rechnung gestellt werden. Geschäfte, die auf Grund eines
 schon vor der Pfändung bestehenden Rechtes oder einer schon vor diesem
-Zeitpunkt bestehenden Verpflichtung des Drittschuldners vorgenommen
+Zeitpunkte bestehenden Verpflichtung des Drittschuldners vorgenommen
 werden, gelten nicht als neue Geschäfte im Sinne dieser Vorschrift.
 
 
@@ -12895,7 +14200,8 @@ Dasselbe gilt von Verpflichtungsscheinen, die von einem Kaufmann über
 Gegenstände der bezeichneten Art an Order ausgestellt sind, ohne daß
 darin die Leistung von einer Gegenleistung abhängig gemacht ist.
 
-(2) Ferner können Konnossemente der Verfrachter, Ladescheine der
+(2) Ferner können
+Konossemente              der Verfrachter, Ladescheine der
 Frachtführer, Lagerscheine sowie Transportversicherungspolicen durch
 Indossament übertragen werden, wenn sie an Order lauten.
 
@@ -12907,7 +14213,7 @@ Papier auf den Indossatar über.
 
 (2) Dem legitimierten Besitzer der Urkunde kann der Schuldner nur
 solche Einwendungen entgegensetzen, welche die Gültigkeit seiner
-Erklärung in der Urkunde betreffen oder sich aus dem Inhalt der
+Erklärung in der Urkunde betreffen oder sich aus dem Inhalte der
 Urkunde ergeben oder ihm unmittelbar gegen den Besitzer zustehen.
 
 (3) Der Schuldner ist nur gegen Aushändigung der quittierten Urkunde
@@ -12919,15 +14225,30 @@ zur Leistung verpflichtet.
 (1) In betreff der Form des Indossaments, in betreff der Legitimation
 des Besitzers und der Prüfung der Legitimation sowie in betreff der
 Verpflichtung des Besitzers zur Herausgabe, finden die Vorschriften
-der
-Artikel 11 bis 13, 36, 74 der Wechselordnung
-entsprechende Anwendung.
+der Artikel 13, 14 Absatz 2, Artikel 16 und 40 Absatz 3 Satz 2 des
+Wechselgesetzes entsprechende Anwendung.
 
 (2) Ist die Urkunde vernichtet oder abhanden gekommen, so unterliegt
 sie der Kraftloserklärung im Wege des Aufgebotsverfahrens. Ist das
 Aufgebotsverfahren eingeleitet, so kann der Berechtigte, wenn er bis
 zur Kraftloserklärung Sicherheit bestellt, Leistung nach Maßgabe der
 Urkunde von dem Schuldner verlangen.
+
+
+#### § 365a
+
+Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt
+ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt
+wie die Transportversicherungspolice, sofern sichergestellt ist, dass
+die Authentizität und Integrität der Aufzeichnung gewahrt bleiben
+(elektronische Transportversicherungspolice). Das Bundesministerium
+der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+des Innern und für Heimat durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung,
+Vorlage, Rückgabe und Übertragung einer elektronischen
+Transportversicherungspolice sowie die Einzelheiten des Verfahrens
+einer nachträglichen Eintragung in eine elektronische
+Transportversicherungspolice zu regeln.
 
 
 #### § 366
@@ -13002,8 +14323,8 @@ ihrer Seite der Vertrag ein Handelsgeschäft ist.
 einen anderen Kaufmann aus den zwischen ihnen geschlossenen
 beiderseitigen Handelsgeschäften zustehen, ein Zurückbehaltungsrecht
 an den beweglichen Sachen und Wertpapieren des Schuldners, welche mit
-dessen Willen auf Grund von Handelsgeschäften in seinen Besitze
-gelangt sind, sofern er sie noch im Besitz hat, insbesondere mittels
+dessen Willen auf Grund von Handelsgeschäften in seinen Besitz gelangt
+sind, sofern er sie noch im Besitze hat, insbesondere mittels
 Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
 Das Zurückbehaltungsrecht ist auch dann begründet, wenn das Eigentum
 an dem Gegenstande von dem Schuldner auf den Gläubiger übergegangen
@@ -13019,7 +14340,7 @@ können.
 Zurückbehaltung des Gegenstandes der von dem Schuldner vor oder bei
 der Übergabe erteilten Anweisung oder der von dem Gläubiger
 übernommenen Verpflichtung, in einer bestimmten Weise mit dem
-Gegenstand zu verfahren, widerstreitet.
+Gegenstande zu verfahren, widerstreitet.
 
 (4) Der Schuldner kann die Ausübung des Zurückbehaltungsrechts durch
 Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist
@@ -13063,7 +14384,7 @@ Gerichtsstand der Niederlassung hat, erhoben werden.
 
 (1) In Ansehung der Befriedigung aus dem zurückbehaltenen Gegenstande
 gilt zugunsten des Gläubigers der Schuldner, sofern er bei dem
-Besitzerwerbe des Gläubigers der Eigentümer des Gegenstands war, auch
+Besitzerwerbe des Gläubigers der Eigentümer des Gegenstandes war, auch
 weiter als Eigentümer, sofern nicht der Gläubiger weiß, daß der
 Schuldner nicht mehr Eigentümer ist.
 
@@ -13082,7 +14403,7 @@ war.
 
 #### § 373
 
-(1) Ist der Käufer mit der Annahme der Ware im Verzug, so kann der
+(1) Ist der Käufer mit der Annahme der Ware im Verzuge, so kann der
 Verkäufer die Ware auf Gefahr und Kosten des Käufers in einem
 öffentlichen Lagerhaus oder sonst in sicherer Weise hinterlegen.
 
@@ -13092,7 +14413,7 @@ oder Marktpreis hat, nach vorgängiger Androhung den Verkauf auch aus
 freier Hand durch einen zu solchen Verkäufen öffentlich ermächtigten
 Handelsmakler oder durch eine zur öffentlichen Versteigerung befugte
 Person zum laufenden Preise bewirken. Ist die Ware dem Verderb
-ausgesetzt und Gefahr im Verzug, so bedarf es der vorgängigen
+ausgesetzt und Gefahr im Verzuge, so bedarf es der vorgängigen
 Androhung nicht; dasselbe gilt, wenn die Androhung aus anderen Gründen
 untunlich ist.
 
@@ -13105,15 +14426,15 @@ Versteigerung mitbieten.
 Käufer von der Zeit und dem Orte der Versteigerung vorher zu
 benachrichtigen; von dem vollzogenen Verkaufe hat er bei jeder Art des
 Verkaufs dem Käufer unverzüglich Nachricht zu geben. Im Falle der
-Unterlassung ist er zum Schadensersatz verpflichtet. Die
+Unterlassung ist er zum Schadensersatze verpflichtet. Die
 Benachrichtigungen dürfen unterbleiben, wenn sie untunlich sind.
 
 
 #### § 374
 
 Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt,
-welche dem Verkäufer nach dem Bürgerlichen Gesetzbuch zustehen, wenn
-der Käufer im Verzug der Annahme ist.
+welche dem Verkäufer nach dem Bürgerlichen Gesetzbuche zustehen, wenn
+der Käufer im Verzuge der Annahme ist.
 
 
 #### § 375
@@ -13122,7 +14443,7 @@ der Käufer im Verzug der Annahme ist.
 Bestimmung über Form, Maß oder ähnliche Verhältnisse vorbehalten, so
 ist der Käufer verpflichtet, die vorbehaltene Bestimmung zu treffen.
 
-(2) Ist der Käufer mit der Erfüllung dieser Verpflichtung im Verzug,
+(2) Ist der Käufer mit der Erfüllung dieser Verpflichtung in Verzug,
 so kann der Verkäufer die Bestimmung statt des Käufers vornehmen oder
 gemäß den §§ 280, 281 des Bürgerlichen Gesetzbuchs Schadensersatz
 statt der Leistung verlangen oder gemäß § 323 des Bürgerlichen
@@ -13164,7 +14485,7 @@ erfolgen.
 (4) Auf den Verkauf mittels öffentlicher Versteigerung findet die
 Vorschrift des § 373 Abs. 4 Anwendung. Von dem Verkauf oder Kaufe hat
 der Gläubiger den Schuldner unverzüglich zu benachrichtigen; im Falle
-der Unterlassung ist er zum Schadensersatz verpflichtet.
+der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 
 #### § 377
@@ -13318,9 +14639,9 @@ dem Kommittenten bestimmten höchsten Preis nicht erreicht.
 (1) Befindet sich das Gut, welches dem Kommissionär zugesendet ist,
 bei der Ablieferung in einem beschädigten oder mangelhaften Zustande,
 der äußerlich erkennbar ist, so hat der Kommissionär die Rechte gegen
-den Frachtführer oder Schiffer zu wahren, für den Beweis des Zustands
+den Frachtführer oder Schiffer zu wahren, für den Beweis des Zustandes
 zu sorgen und dem Kommittenten unverzüglich Nachricht zu geben; im
-Falle der Unterlassung ist er zum Schadensersatz verpflichtet.
+Falle der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 (2) Ist das Gut dem Verderb ausgesetzt oder treten später
 Veränderungen an dem Gute ein, die dessen Entwertung befürchten
@@ -13449,7 +14770,7 @@ verfügen kann.
 
 Der Kommissionär kann sich, auch wenn er Eigentümer des
 Kommissionsguts ist, für die in § 397 bezeichneten Ansprüche nach
-Maßgabe der für das Pfandrecht geltenden Vorschriften aus dem Gut
+Maßgabe der für das Pfandrecht geltenden Vorschriften aus dem Gute
 befriedigen.
 
 
@@ -13474,7 +14795,7 @@ selbst als Käufer übernimmt.
 (2) Im Falle einer solchen Ausführung der Kommission beschränkt sich
 die Pflicht des Kommissionärs, Rechenschaft über die Abschließung des
 Kaufes oder Verkaufs abzulegen, auf den Nachweis, daß bei dem
-berechneten Preis der zur Zeit der Ausführung der Kommission
+berechneten Preise der zur Zeit der Ausführung der Kommission
 bestehende Börsen- oder Marktpreis eingehalten ist. Als Zeit der
 Ausführung gilt der Zeitpunkt, in welchem der Kommissionär die Anzeige
 von der Ausführung zur Absendung an den Kommittenten abgegeben hat.
@@ -13541,8 +14862,8 @@ einem Dritten für Rechnung des Kommittenten erfolgt sei.
 
 (2) Eine Vereinbarung zwischen dem Kommittenten und dem Kommissionär,
 daß die Erklärung darüber, ob die Kommission durch Selbsteintritt oder
-durch Abschluß mit einem Dritten ausgeführt sei, später als am Tag der
-Ausführungsanzeige abgegeben werden dürfe, ist nichtig.
+durch Abschluß mit einem Dritten ausgeführt sei, später als am Tage
+der Ausführungsanzeige abgegeben werden dürfe, ist nichtig.
 
 (3) Widerruft der Kommittent die Kommission und geht der Widerruf dem
 Kommissionär zu, bevor die Ausführungsanzeige zur Absendung abgegeben
@@ -13555,15 +14876,15 @@ mehr zu.
 (1) Die Vorschriften dieses Abschnitts kommen auch zur Anwendung, wenn
 ein Kommissionär im Betriebe seines Handelsgewerbes ein Geschäft
 anderer als der in § 383 bezeichneten Art für Rechnung eines anderen
-im eigenen Namen zu schließen übernimmt. Das gleiche gilt, wenn ein
-Kaufmann, der nicht Kommissionär ist, im Betrieb seines
+in eigenem Namen zu schließen übernimmt. Das gleiche gilt, wenn ein
+Kaufmann, der nicht Kommissionär ist, im Betriebe seines
 Handelsgewerbes ein Geschäft in der bezeichneten Weise zu schließen
 übernimmt.
 
 (2) Als Einkaufs- und Verkaufskommission im Sinne dieses Abschnitts
 gilt auch eine Kommission, welche die Lieferung einer nicht
 vertretbaren beweglichen Sache, die aus einem von dem Unternehmer zu
-beschaffenden Stoff herzustellen ist, zum Gegenstand hat.
+beschaffenden Stoffe herzustellen ist, zum Gegenstande hat.
 
 
 ### Vierter Abschnitt - Frachtgeschäft
@@ -13662,13 +14983,12 @@ Gut, eine behält der Frachtführer.
 Aufzeichnung, die dieselben Funktionen erfüllt wie der Frachtbrief,
 sofern sichergestellt ist, dass die Authentizität und die Integrität
 der Aufzeichnung gewahrt bleiben (elektronischer Frachtbrief). Das
-Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Einzelheiten der Ausstellung, des Mitführens
-und der Vorlage eines elektronischen Frachtbriefs sowie des Verfahrens
-einer nachträglichen Eintragung in einen elektronischen Frachtbrief zu
-regeln.
+Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium des Innern und für Heimat durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der
+Ausstellung, des Mitführens und der Vorlage eines elektronischen
+Frachtbriefs sowie des Verfahrens einer nachträglichen Eintragung in
+einen elektronischen Frachtbrief zu regeln.
 
 
 ##### § 409 Beweiskraft des Frachtbriefs
@@ -13751,16 +15071,15 @@ aus Gründen, die nicht seinem Risikobereich zuzurechnen sind, über die
 Lade- oder Entladezeit hinaus, so hat er Anspruch auf eine angemessene
 Vergütung (Standgeld).
 
-(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und
-digitale Infrastruktur durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, für die Binnenschiffahrt unter
-Berücksichtigung der Art der zur Beförderung bestimmten Fahrzeuge, der
-Art und Menge der umzuschlagenden Güter, der beim Güterumschlag zur
-Verfügung stehenden technischen Mittel und der Erfordernisse eines
-beschleunigten Verkehrsablaufs die Voraussetzungen für den Beginn der
-Lade- und Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu
-bestimmen.
+(4) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium für Digitales und Verkehr durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
+die Binnenschiffahrt unter Berücksichtigung der Art der zur
+Beförderung bestimmten Fahrzeuge, der Art und Menge der
+umzuschlagenden Güter, der beim Güterumschlag zur Verfügung stehenden
+technischen Mittel und der Erfordernisse eines beschleunigten
+Verkehrsablaufs die Voraussetzungen für den Beginn der Lade- und
+Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu bestimmen.
 
 
 ##### § 413 Begleitpapiere
@@ -14476,13 +15795,12 @@ Absenders gestellt anzusehen.
 die dieselben Funktionen erfüllt wie der Ladeschein, sofern
 sichergestellt ist, dass die Authentizität und die Integrität der
 Aufzeichnung gewahrt bleiben (elektronischer Ladeschein). Das
-Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage,
-Rückgabe und Übertragung eines elektronischen Ladescheins sowie die
-Einzelheiten des Verfahrens einer nachträglichen Eintragung in einen
-elektronischen Ladeschein zu regeln.
+Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium des Innern und für Heimat durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der
+Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen
+Ladescheins sowie die Einzelheiten des Verfahrens einer nachträglichen
+Eintragung in einen elektronischen Ladeschein zu regeln.
 
 
 ##### § 444 Wirkung des Ladescheins. Legitimation
@@ -14936,7 +16254,8 @@ der Beförderung, insbesondere
     Unternehmer und
 
 
-3.  die Sicherung von Schadensersatzansprüchen des Versenders.
+3.  die Sicherung von
+    Schadensersatzansprüchen                    des Versenders.
 
 
 
@@ -14956,7 +16275,7 @@ Versenders ab.
 Versenders wahrzunehmen und dessen Weisungen zu befolgen.
 
 
-#### § 455 Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten
+#### § 455 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Versender ist verpflichtet, das Gut, soweit erforderlich, zu
 verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen
@@ -15152,17 +16471,18 @@ zu lagern und aufzubewahren.
 (2) Der Einlagerer wird verpflichtet, die vereinbarte Vergütung zu
 zahlen.
 
-(3) Die Vorschriften dieses Abschnitts gelten nur, wenn die Lagerung
-und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens gehören.
-Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer
-Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des
-Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen,
-so sind in Ansehung des Lagergeschäfts auch insoweit die Vorschriften
-des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies
-gilt jedoch nicht für die §§ 348 bis 350.
+(3) Die
+Vorschriften              dieses Abschnitts gelten nur, wenn die
+Lagerung und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens
+gehören. Erfordert das Unternehmen nach Art oder Umfang einen in
+kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die
+Firma des Unternehmens auch nicht nach § 2 in das Handelsregister
+eingetragen, so sind in Ansehung des Lagergeschäfts auch insoweit die
+Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend
+anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
 
-#### § 468 Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten
+#### § 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Einlagerer ist verpflichtet, dem Lagerhalter, wenn
 gefährliches Gut eingelagert werden soll, rechtzeitig in Textform die
@@ -15258,7 +16578,7 @@ den letzten ihm bekannt gewordenen legitimierten Besitzer des
 Lagerscheins zu richten.
 
 
-#### § 472 Versicherung, Einlagerung bei einem Dritten
+#### § 472 Versicherung. Einlagerung bei einem Dritten
 
 (1) Der Lagerhalter ist verpflichtet, das Gut auf Verlangen des
 Einlagerers zu versichern. Ist der Einlagerer ein Verbraucher, so hat
@@ -15383,13 +16703,12 @@ genügt.
 Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein,
 sofern sichergestellt ist, dass die Authentizität und die Integrität
 der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das
-Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage,
-Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die
-Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen
-elektronischen Lagerschein zu regeln.
+Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium des Innern und für Heimat durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der
+Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen
+Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche
+Eintragungen in einen elektronischen Lagerschein zu regeln.
 
 
 #### § 475d Wirkung des Lagerscheins. Legitimation
@@ -16481,13 +17800,13 @@ Aufzeichnung, die dieselben Funktionen erfüllt wie das Konnossement,
 sofern sichergestellt ist, dass die Authentizität und die Integrität
 der Aufzeichnung gewahrt bleiben (elektronisches Konnossement).
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage,
-Rückgabe und Übertragung eines elektronischen Konnossements sowie die
-Einzelheiten des Verfahrens einer nachträglichen Eintragung in ein
-elektronisches Konnossement zu regeln.
+(3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium des Innern und für Heimat durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines
+elektronischen Konnossements sowie die Einzelheiten des Verfahrens
+einer nachträglichen Eintragung in ein elektronisches Konnossement zu
+regeln.
 
 
 ###### § 517 Beweiskraft des Konnossements
@@ -16716,13 +18035,12 @@ genügt.
 Aufzeichnung, die dieselben Funktionen erfüllt wie der Seefrachtbrief,
 sofern sichergestellt ist, dass die Authentizität und die Integrität
 der Aufzeichnung gewahrt bleiben (elektronischer Seefrachtbrief). Das
-Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
-Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Einzelheiten der Ausstellung und der Vorlage
-eines elektronischen Seefrachtbriefs sowie die Einzelheiten des
-Verfahrens über nachträgliche Eintragungen in einen elektronischen
-Seefrachtbrief zu regeln.
+Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium des Innern und für Heimat durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der
+Ausstellung und der Vorlage eines elektronischen Seefrachtbriefs sowie
+die Einzelheiten des Verfahrens über nachträgliche Eintragungen in
+einen elektronischen Seefrachtbrief zu regeln.
 
 
 ##### Zweiter Titel - Reisefrachtvertrag
@@ -18634,16 +19952,4 @@ in ein Schiff sowie ein Urteil oder ein Beschluss in einem Verfahren
 über einen Arrest in ein Schiff können dem Kapitän dieses Schiffes
 oder, soweit ein Binnenschiff betroffen ist, dem Schiffer zugestellt
 werden.
-
-
-### Neunter Abschnitt - (weggefallen)
-
-
-
-### Elfter Abschnitt - (weggefallen)
-
-
-
-#### Anlage (weggefallen)
-
 

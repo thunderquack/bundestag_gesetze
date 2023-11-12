@@ -23,7 +23,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Artikel 1
+## Art 1
 
 Dem in Tirana am 23. September 2015 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Albanien über Soziale
@@ -31,7 +31,7 @@ Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
 
-## Artikel 2
+## Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -59,7 +59,7 @@ werden:
 
 
 
-## Artikel 3
+## Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

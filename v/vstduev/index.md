@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1960, 1961
 
+Geändert durch
+:   Art. 11 G v. 24.10.2022 I 1838
+
 
 ## § 1 Anwendungsbereich
 
@@ -37,16 +40,19 @@ Verordnungen:
     Zwischenerzeugnissteuerverordnung,
 
 
-5.  Kaffeesteuergesetz und Kaffeesteuerverordnung,
+5.  Biersteuergesetz und Biersteuerverordnung
 
 
-6.  Alkoholsteuergesetz und Alkoholsteuerverordnung,
+6.  Kaffeesteuergesetz und Kaffeesteuerverordnung,
 
 
-7.  Alkopopsteuergesetz,
+7.  Alkoholsteuergesetz und Alkoholsteuerverordnung,
 
 
-8.  Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchführungsverordnung.
+8.  Alkopopsteuergesetz,
+
+
+9.  Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchführungsverordnung.
 
 
 

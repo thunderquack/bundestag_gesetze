@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2107
 
 Zuletzt geändert durch
-:   Art. 3 V v. 6.1.2014 I 26
-
-Änderung durch
-:   Art. 5 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 28.9.2021 I 4595
 
 [^F1_772396_BJNR210710009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/62/EG der
     Kommission vom 20. Juni 2008 mit Ausnahmeregelungen für die Zulassung

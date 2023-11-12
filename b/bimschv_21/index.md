@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 18.8.2014 I 1453;
 
-Stand: zuletzt geändert Art. 3 V v. 24.3.2017 I 656
-Änderung durch
-:   Art. 12 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: zuletzt geändert Art. 12 G v. 27.7.2021 I 3146
 Diese Verordnung dient der Umsetzung der Richtlinie 2009/126/EG des
 Europäischen Parlaments und des Rates vom 21. Oktober 2009 über Phase
 II der Benzindampf-Rückgewinnung beim Betanken von Kraftfahrzeugen an

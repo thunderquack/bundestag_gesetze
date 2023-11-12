@@ -16,22 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 22 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 7 Abs. 6 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 61 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 19.6.2023 I Nr. 154
 
 
 ## Eingangsformel
@@ -826,14 +811,14 @@ bezahlt worden, so ist dies nach Art und Höhe der Beträge
 nachzuweisen.
 
 (2) In der Anmeldung haben die Vorstandsmitglieder zu versichern, daß
-keine Umstände vorliegen, die ihrer Bestellung nach § 76 Abs. 3 Satz 2
-Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie über ihre
-unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden
-sind. Die Belehrung nach § 53 Abs. 2 des Bundeszentralregistergesetzes
-kann schriftlich vorgenommen werden; sie kann auch durch einen Notar
-oder einen im Ausland bestellten Notar, durch einen Vertreter eines
-vergleichbaren rechtsberatenden Berufs oder einen Konsularbeamten
-erfolgen.
+keine Umstände vorliegen, die ihrer Bestellung nach § 76 Absatz 3 Satz
+2 Nummer 2 und 3 sowie Satz 3 und 4 entgegenstehen, und daß sie über
+ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt
+worden sind. Die Belehrung nach § 53 Abs. 2 des
+Bundeszentralregistergesetzes kann schriftlich vorgenommen werden; sie
+kann auch durch einen Notar oder einen im Ausland bestellten Notar,
+durch einen Vertreter eines vergleichbaren rechtsberatenden Berufs
+oder einen Konsularbeamten erfolgen.
 
 (3) In der Anmeldung sind ferner anzugeben:
 
@@ -1786,9 +1771,10 @@ Berichtigung verlangen.
 (1) Vorbehaltlich der Regelungen in Satz 2 trägt die Gesellschaft die
 Kosten für die nach den §§ 67a bis 67d, auch in Verbindung mit § 125
 Absatz 1, 2 und 5, und nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2
-Satz 2 notwendigen Aufwendungen der Intermediäre, soweit diese auf
-Methoden beruhen, die dem jeweiligen Stand der Technik entsprechen.
-Die folgenden Kosten sind hiervon ausgenommen:
+Satz 2 und § 118a Absatz 1 Satz 4 notwendigen Aufwendungen der
+Intermediäre, soweit diese auf Methoden beruhen, die dem jeweiligen
+Stand der Technik entsprechen. Die folgenden Kosten sind hiervon
+ausgenommen:
 
 1.  die Kosten für die notwendigen Aufwendungen der Letztintermediäre für
     die nichtelektronische Übermittlung von Informationen an den Aktionär
@@ -1805,20 +1791,21 @@ Die folgenden Kosten sind hiervon ausgenommen:
 
 Die Intermediäre legen die Entgelte für die Aufwendungen für jede
 Dienstleistung, die nach den §§ 67a bis 67e, § 118 Absatz 1 Satz 3 bis
-5 sowie Absatz 2 Satz 2, § 125 Absatz 1 Satz 1, Absatz 2 und 5 und §
-129 Absatz 5 erbracht wird, offen. Die Offenlegung erfolgt getrennt
-gegenüber der Gesellschaft und denjenigen Aktionären, für die sie die
-Dienstleistung erbringen. Unterschiede zwischen den Entgelten für die
-Ausübung von Rechten im Inland und in grenzüberschreitenden Fällen
-sind nur zulässig, wenn sie gerechtfertigt sind und den Unterschieden
-bei den tatsächlichen Kosten, die für die Erbringung der
-Dienstleistungen entstanden sind, entsprechen.
+5 sowie Absatz 2 Satz 2, § 118a Absatz 1 Satz 4, § 125 Absatz 1 Satz
+1, Absatz 2 und 5 und § 129 Absatz 5 erbracht wird, offen. Die
+Offenlegung erfolgt getrennt gegenüber der Gesellschaft und denjenigen
+Aktionären, für die sie die Dienstleistung erbringen. Unterschiede
+zwischen den Entgelten für die Ausübung von Rechten im Inland und in
+grenzüberschreitenden Fällen sind nur zulässig, wenn sie
+gerechtfertigt sind und den Unterschieden bei den tatsächlichen
+Kosten, die für die Erbringung der Dienstleistungen entstanden sind,
+entsprechen.
 
 (2) Unbeschadet sonstiger Regelungen nach diesem Gesetz sind für die
 Pflichten nach den §§ 67a bis 67e, 125 Absatz 1 Satz 1, Absatz 2 und 5
 sowie für die Bestätigungen nach § 118 Absatz 1 Satz 3 bis 5 sowie
-Absatz 2 Satz 2 und § 129 Absatz 5 die Anforderungen der
-Durchführungsverordnung (EU) 2018/1212 zu beachten.
+Absatz 2 Satz 2, § 118a Absatz 1 Satz 4 und § 129 Absatz 5 die
+Anforderungen der Durchführungsverordnung (EU) 2018/1212 zu beachten.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -1832,7 +1819,7 @@ regeln:
 
 2.  die Übermittlung und Weiterleitung von Informationen und Mitteilungen
     gemäß den §§ 67a bis 67d, 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2
-    Satz 2 und § 129 Absatz 5 und
+    Satz 2, § 118a Absatz 1 Satz 4 und § 129 Absatz 5 und
 
 
 3.  die Vervielfältigung, Übermittlung und Weiterleitung der Mitteilungen
@@ -1911,11 +1898,12 @@ Bausparkassen erworben hat.
 
 3.  wenn der Erwerb geschieht, um Aktionäre nach § 305 Abs. 2, § 320b oder
     nach § 29 Abs. 1, § 125 Satz 1 in Verbindung mit § 29 Abs. 1, § 207
-    Abs. 1 Satz 1 des Umwandlungsgesetzes abzufinden,
+    Abs. 1 Satz 1, § 313 Absatz 1, auch in Verbindung mit § 327, oder §
+    340 Absatz 1 des Umwandlungsgesetzes abzufinden,
 
 
-4.  wenn der Erwerb unentgeltlich geschieht oder ein Kreditinstitut mit
-    dem Erwerb eine Einkaufskommission ausführt,
+4.  wenn der Erwerb unentgeltlich geschieht oder ein Kreditinstitut oder
+    Wertpapierinstitut mit dem Erwerb eine Einkaufskommission ausführt,
 
 
 5.  durch Gesamtrechtsnachfolge,
@@ -2152,7 +2140,7 @@ geschäftsfähige Person sein. Mitglied des Vorstands kann nicht sein,
 wer
 
 1.  als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz
-    oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen
+    oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen
     Gesetzbuchs) unterliegt,
 
 
@@ -2177,7 +2165,7 @@ wer
 
 
     d)  der unrichtigen Darstellung nach § 400 dieses Gesetzes, § 331 des
-        Handelsgesetzbuchs, § 313 des Umwandlungsgesetzes oder § 17 des
+        Handelsgesetzbuchs, § 346 des Umwandlungsgesetzes oder § 17 des
         Publizitätsgesetzes,
 
 
@@ -2193,9 +2181,12 @@ wer
 
 
 
-Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen
-einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar
-ist.
+Satz 2 Nummer 2 gilt entsprechend, wenn die Person in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum einem
+vergleichbaren Verbot unterliegt. Satz 2 Nr. 3 gilt entsprechend bei
+einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2
+Nr. 3 genannten Taten vergleichbar ist.
 
 (3a) Besteht der Vorstand bei börsennotierten Gesellschaften, für die
 das Mitbestimmungsgesetz, das Gesetz über die Mitbestimmung der
@@ -2330,9 +2321,9 @@ oder öffentlich beglaubigter Abschrift beizufügen.
 
 (3) Die neuen Vorstandsmitglieder haben in der Anmeldung zu
 versichern, daß keine Umstände vorliegen, die ihre Bestellung nach §
-76 Abs. 3 Satz 2 Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie
-über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt
-worden sind. § 37 Abs. 2 Satz 2 ist anzuwenden.
+76 Abs. 3 Satz 2 Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen, und
+daß sie über ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht
+belehrt worden sind. § 37 Abs. 2 Satz 2 ist anzuwenden.
 
 (4) (weggefallen)
 
@@ -2938,10 +2929,15 @@ Mitbestimmungsergänzungsgesetzes gelten, aus Aufsichtsratsmitgliedern
 der Aktionäre und der Arbeitnehmer und aus einem weiteren Mitglied,
 bei Gesellschaften, für die das Drittelbeteiligungsgesetz gilt, aus
 Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,
-bei Gesellschaften für die das Gesetz über die Mitbestimmung der
+bei Gesellschaften, für die das Gesetz über die Mitbestimmung der
 Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21.
-Dezember 2006 (BGBl. I S. 3332) gilt, aus Aufsichtsratsmitgliedern der
-Aktionäre und der Arbeitnehmer,
+Dezember 2006 (BGBl. I S. 3332) in der jeweils geltenden Fassung gilt,
+aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer, bei
+Gesellschaften, für die das Gesetz über die Mitbestimmung der
+Arbeitnehmer bei grenzüberschreitendem Formwechsel und
+grenzüberschreitender Spaltung vom 4. Januar 2023 (BGBl. 2023 I Nr.
+10) in der jeweils geltenden Fassung gilt, aus
+Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,
 bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der
 Aktionäre.
 
@@ -2968,14 +2964,17 @@ Wahl der Aufsichtsratsmitglieder der Arbeitnehmer sind die in Satz 1
 genannten Gesetze zur Mitbestimmung anzuwenden.
 
 (3) Bei börsennotierten Gesellschaften, die aus einer
-grenzüberschreitenden Verschmelzung hervorgegangen sind und bei denen
-nach dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
-grenzüberschreitenden Verschmelzung das Aufsichts- oder
-Verwaltungsorgan aus derselben Zahl von Anteilseigner- und
-Arbeitnehmervertretern besteht, müssen in dem Aufsichts- oder
-Verwaltungsorgan Frauen und Männer jeweils mit einem Anteil von
-mindestens 30 Prozent vertreten sein. Absatz 2 Satz 2, 4, 6 und 7 gilt
-entsprechend.
+grenzüberschreitenden Verschmelzung, einem grenzüberschreitenden
+Formwechsel oder einer grenzüberschreitenden Spaltung hervorgegangen
+sind und bei denen nach dem Gesetz über die Mitbestimmung der
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung oder nach
+dem Gesetz über die Mitbestimmung der Arbeitnehmer bei
+grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung
+das Aufsichts- oder Verwaltungsorgan aus derselben Zahl von
+Anteilseigner- und Arbeitnehmervertretern besteht, müssen in dem
+Aufsichts- oder Verwaltungsorgan Frauen und Männer jeweils mit einem
+Anteil von mindestens 30 Prozent vertreten sein. Absatz 2 Satz 2, 4, 6
+und 7 gilt entsprechend.
 
 (4) Nach anderen als den zuletzt angewandten gesetzlichen Vorschriften
 kann der Aufsichtsrat nur zusammengesetzt werden, wenn nach § 97 oder
@@ -3146,7 +3145,7 @@ werden nicht erstattet.
 (1) Mitglied des Aufsichtsrats kann nur eine natürliche, unbeschränkt
 geschäftsfähige Person sein. Ein Betreuter, der bei der Besorgung
 seiner Vermögensangelegenheiten ganz oder teilweise einem
-Einwilligungsvorbehalt (§ 1903 des Bürgerlichen Gesetzbuchs)
+Einwilligungsvorbehalt (§ 1825 des Bürgerlichen Gesetzbuchs)
 unterliegt, kann nicht Mitglied des Aufsichtsrats sein.
 
 (2) Mitglied des Aufsichtsrats kann nicht sein, wer
@@ -3183,8 +3182,10 @@ gewählt worden ist.
 Aufsichtsratsmitglieder der Arbeitnehmer sowie der weiteren Mitglieder
 bestimmen sich nach dem Mitbestimmungsgesetz, dem Montan-
 Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem
-Drittelbeteiligungsgesetz und dem Gesetz über die Mitbestimmung der
-Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung.
+Drittelbeteiligungsgesetz, dem Gesetz über die Mitbestimmung der
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung und dem
+Gesetz über die Mitbestimmung der Arbeitnehmer bei
+grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung.
 
 (4) Die Satzung kann persönliche Voraussetzungen nur für
 Aufsichtsratsmitglieder fordern, die von der Hauptversammlung ohne
@@ -3206,10 +3207,12 @@ Gesellschaft tätig ist, vertraut sein.
 gewählt, soweit sie nicht in den Aufsichtsrat zu entsenden oder als
 Aufsichtsratsmitglieder der Arbeitnehmer nach dem
 Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem
-Drittelbeteiligungsgesetz oder dem Gesetz über die Mitbestimmung der
-Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung zu wählen
-sind. An Wahlvorschläge ist die Hauptversammlung nur gemäß §§ 6 und 8
-des Montan-Mitbestimmungsgesetzes gebunden.
+Drittelbeteiligungsgesetz, dem Gesetz über die Mitbestimmung der
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung oder dem
+Gesetz über die Mitbestimmung der Arbeitnehmer bei
+grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung
+zu wählen sind. An Wahlvorschläge ist die Hauptversammlung nur gemäß
+§§ 6 und 8 des Montan-Mitbestimmungsgesetzes gebunden.
 
 (2) Ein Recht, Mitglieder in den Aufsichtsrat zu entsenden, kann nur
 durch die Satzung und nur für bestimmte Aktionäre oder für die
@@ -3276,9 +3279,11 @@ Hauptversammlung ohne Bindung an einen Wahlvorschlag gewählt worden
 sind noch auf Grund der Satzung in den Aufsichtsrat entsandt sind,
 gelten außer Absatz 3 das Mitbestimmungsgesetz, das Montan-
 Mitbestimmungsgesetz, das Mitbestimmungsergänzungsgesetz, das
-Drittelbeteiligungsgesetz, das SE-Beteiligungsgesetz und das Gesetz
-über die Mitbestimmung der Arbeitnehmer bei einer
-grenzüberschreitenden Verschmelzung.
+Drittelbeteiligungsgesetz, das SE-Beteiligungsgesetz, das Gesetz über
+die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden
+Verschmelzung und das Gesetz über die Mitbestimmung der Arbeitnehmer
+bei grenzüberschreitendem Formwechsel und grenzüberschreitender
+Spaltung.
 
 (5) Für die Abberufung eines Ersatzmitglieds gelten die Vorschriften
 über die Abberufung des Aufsichtsratsmitglieds, für das es bestellt
@@ -3706,8 +3711,9 @@ und 111a bis 111c gelten ferner
     Absatz 2 gewährt oder geschuldet wird;
 
 
-5.  Geschäfte von Kreditinstituten, die zur Sicherung ihrer Stabilität
-    durch die zuständige Behörde angeordnet oder gebilligt wurden;
+5.  Geschäfte von Kreditinstituten oder Wertpapierinstituten, die zur
+    Sicherung ihrer Stabilität durch die zuständige Behörde angeordnet
+    oder gebilligt wurden;
 
 
 6.  Geschäfte, die allen Aktionären unter den gleichen Bedingungen
@@ -4006,6 +4012,100 @@ ermächtigen vorzusehen, die Bild- und Tonübertragung der Versammlung
 zuzulassen.
 
 
+###### § 118a Virtuelle Hauptversammlung
+
+(1) Die Satzung kann vorsehen oder den Vorstand dazu ermächtigen,
+vorzusehen, dass die Versammlung ohne physische Präsenz der Aktionäre
+oder ihrer Bevollmächtigten am Ort der Hauptversammlung abgehalten
+wird (virtuelle Hauptversammlung). Wird eine virtuelle
+Hauptversammlung abgehalten, sind die folgenden Voraussetzungen
+einzuhalten:
+
+1.  die gesamte Versammlung wird mit Bild und Ton übertragen,
+
+
+2.  die Stimmrechtsausübung der Aktionäre ist im Wege elektronischer
+    Kommunikation, namentlich über elektronische Teilnahme oder
+    elektronische Briefwahl, sowie über Vollmachtserteilung möglich,
+
+
+3.  den elektronisch zu der Versammlung zugeschalteten Aktionären wird das
+    Recht eingeräumt, Anträge und Wahlvorschläge im Wege der
+    Videokommunikation in der Versammlung zu stellen,
+
+
+4.  den Aktionären wird ein Auskunftsrecht nach § 131 im Wege
+    elektronischer Kommunikation eingeräumt,
+
+
+5.  den Aktionären wird, sofern der Vorstand von der Möglichkeit des § 131
+    Absatz 1a Satz 1 Gebrauch macht, der Bericht des Vorstands oder dessen
+    wesentlicher Inhalt bis spätestens sieben Tage vor der Versammlung
+    zugänglich gemacht,
+
+
+6.  den Aktionären wird das Recht eingeräumt, Stellungnahmen nach § 130a
+    Absatz 1 bis 4 im Wege elektronischer Kommunikation einzureichen,
+
+
+7.  den elektronisch zu der Versammlung zugeschalteten Aktionären wird ein
+    Rederecht in der Versammlung im Wege der Videokommunikation nach §
+    130a Absatz 5 und 6 eingeräumt,
+
+
+8.  den elektronisch zu der Versammlung zugeschalteten Aktionären wird ein
+    Recht zum Widerspruch gegen einen Beschluss der Hauptversammlung im
+    Wege elektronischer Kommunikation eingeräumt.
+
+
+
+Für die Fristberechnung nach Satz 2 Nummer 5 gilt § 121 Absatz 7; bei
+börsennotierten Gesellschaften hat das Zugänglichmachen über die
+Internetseite der Gesellschaft zu erfolgen. § 118 Absatz 1 Satz 3 und
+4 sowie § 67a Absatz 2 Satz 1 und Absatz 3 gelten entsprechend.
+
+(2) Die Mitglieder des Vorstands sollen am Ort der Hauptversammlung
+teilnehmen. Gleiches gilt für die Mitglieder des Aufsichtsrats, sofern
+deren Teilnahme nicht nach § 118 Absatz 3 Satz 2 im Wege der Bild- und
+Tonübertragung erfolgen darf. Der Versammlungsleiter und in den Fällen
+des § 176 Absatz 2 Satz 1 und 2 der Abschlussprüfer haben am Ort der
+Hauptversammlung teilzunehmen. Ein von der Gesellschaft nach § 134
+Absatz 3 Satz 5 benannter Stimmrechtsvertreter kann am Ort der
+Hauptversammlung teilnehmen.
+
+(3) Eine Bestimmung in der Satzung nach Absatz 1 Satz 1, die die
+Abhaltung virtueller Hauptversammlungen vorsieht, muss befristet
+werden. Die Abhaltung virtueller Hauptversammlungen darf in einer
+solchen Bestimmung für einen Zeitraum von längstens fünf Jahren nach
+Eintragung der Gesellschaft vorgesehen werden.
+
+(4) Eine Ermächtigung des Vorstands durch die Satzung nach Absatz 1
+Satz 1, die Abhaltung virtueller Hauptversammlungen vorzusehen, muss
+befristet werden. Sie kann für einen Zeitraum von längstens fünf
+Jahren nach Eintragung der Gesellschaft erteilt werden.
+
+(5) Werden nach Absatz 1 Satz 1 getroffene Bestimmungen oder
+Ermächtigungen durch Satzungsänderung geschaffen,
+
+1.  darf die Bestimmung die Abhaltung virtueller Hauptversammlungen bis zu
+    einem Zeitraum von längstens fünf Jahren nach Eintragung der
+    Satzungsänderung vorsehen und
+
+
+2.  kann die Ermächtigung des Vorstands für einen Zeitraum von längstens
+    fünf Jahren nach Eintragung der Satzungsänderung erteilt werden.
+
+
+
+
+(6) Bestimmt dieses oder ein anderes Gesetz, dass Unterlagen in der
+Hauptversammlung zugänglich zu machen sind, so sind die Unterlagen den
+der Hauptversammlung elektronisch zugeschalteten Aktionären während
+des Zeitraums der Versammlung über die Internetseite der Gesellschaft
+oder eine über diese zugängliche Internetseite eines Dritten
+zugänglich zu machen.
+
+
 ###### § 119 Rechte der Hauptversammlung
 
 (1) Die Hauptversammlung beschließt in den im Gesetz und in der
@@ -4014,9 +4114,11 @@ Satzung ausdrücklich bestimmten Fällen, namentlich über
 1.  die Bestellung der Mitglieder des Aufsichtsrats, soweit sie nicht in
     den Aufsichtsrat zu entsenden oder als Aufsichtsratsmitglieder der
     Arbeitnehmer nach dem Mitbestimmungsgesetz, dem
-    Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz oder dem
+    Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, dem
     Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
-    grenzüberschreitenden Verschmelzung zu wählen sind;
+    grenzüberschreitenden Verschmelzung oder dem Gesetz über die
+    Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel
+    und grenzüberschreitender Spaltung zu wählen sind;
 
 
 2.  die Verwendung des Bilanzgewinns;
@@ -4176,11 +4278,26 @@ zur Veröffentlichung zuzuleiten, bei denen davon ausgegangen werden
 kann, dass sie die Information in der gesamten Europäischen Union
 verbreiten.
 
+(4b) Im Fall der virtuellen Hauptversammlung muss die Einberufung auch
+angeben, wie sich Aktionäre und ihre Bevollmächtigten elektronisch zur
+Versammlung zuschalten können. Zusätzlich ist in der Einberufung
+darauf hinzuweisen, dass eine physische Präsenz der Aktionäre und
+ihrer Bevollmächtigten am Ort der Hauptversammlung ausgeschlossen ist.
+Bei börsennotierten Gesellschaften ist im Fall der virtuellen
+Hauptversammlung abweichend von Absatz 3 Satz 3 Nummer 2 Buchstabe b
+das Verfahren für die Stimmabgabe im Wege elektronischer Kommunikation
+anzugeben. Zudem ist bei diesen Gesellschaften zusätzlich auf § 126
+Absatz 4 und, falls der Vorstand von der Möglichkeit des § 131 Absatz
+1a Satz 1 Gebrauch macht, auf § 131 Absatz 1a bis 1f hinzuweisen sowie
+darauf, dass der Bericht des Vorstands oder dessen wesentlicher Inhalt
+nach § 118a Absatz 1 Satz 2 Nummer 5 zugänglich gemacht wird.
+
 (5) Wenn die Satzung nichts anderes bestimmt, soll die
 Hauptversammlung am Sitz der Gesellschaft stattfinden. Sind die Aktien
 der Gesellschaft an einer deutschen Börse zum Handel im regulierten
 Markt zugelassen, so kann, wenn die Satzung nichts anderes bestimmt,
-die Hauptversammlung auch am Sitz der Börse stattfinden.
+die Hauptversammlung auch am Sitz der Börse stattfinden. Im Fall der
+virtuellen Hauptversammlung finden die Sätze 1 und 2 keine Anwendung.
 
 (6) Sind alle Aktionäre erschienen oder vertreten, kann die
 Hauptversammlung Beschlüsse ohne Einhaltung der Bestimmungen dieses
@@ -4486,6 +4603,17 @@ insgesamt mehr als 5 000 Zeichen beträgt.
 Beschlußfassung Gegenanträge, so kann der Vorstand die Gegenanträge
 und ihre Begründungen zusammenfassen.
 
+(4) Im Fall der virtuellen Hauptversammlung gelten Anträge, die nach
+den Absätzen 1 bis 3 zugänglich zu machen sind, als im Zeitpunkt der
+Zugänglichmachung gestellt. Die Gesellschaft hat zu ermöglichen, dass
+das Stimmrecht zu diesen Anträgen ausgeübt werden kann, sobald die
+Aktionäre die gesetzlichen oder satzungsmäßigen Voraussetzungen für
+die Ausübung des Stimmrechts nachweisen können. Sofern der Aktionär,
+der den Antrag gestellt hat, nicht ordnungsgemäß legitimiert und,
+sofern eine Anmeldung erforderlich ist, nicht ordnungsgemäß zur
+Hauptversammlung angemeldet ist, muss der Antrag in der Versammlung
+nicht behandelt werden.
+
 
 ###### § 127 Wahlvorschläge von Aktionären
 
@@ -4570,7 +4698,11 @@ Durchführung der Hauptversammlung geben. In der Hauptversammlung ist
 ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der
 Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie
 bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von
-jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen.
+jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen. Im
+Fall der virtuellen Hauptversammlung sind die elektronisch zu der
+Versammlung zugeschalteten oder vertretenen Aktionäre und die
+elektronisch zu der Versammlung zugeschalteten Vertreter von
+Aktionären in das Verzeichnis nach Satz 2 aufzunehmen.
 
 (2) Sind einem Intermediär oder einer in § 135 Abs. 8 bezeichneten
 Person Vollmachten zur Ausübung des Stimmrechts erteilt worden und übt
@@ -4588,7 +4720,9 @@ dieser Aktien zur Aufnahme in das Verzeichnis gesondert anzugeben.
 Dies gilt auch für Namensaktien, als deren Aktionär der Ermächtigte im
 Aktienregister eingetragen ist.
 
-(4) Das Verzeichnis ist vor der ersten Abstimmung allen Teilnehmern
+(4) Das Verzeichnis ist vor der ersten Abstimmung allen Teilnehmern,
+im Fall der virtuellen Hauptversammlung allen elektronisch zu der
+Versammlung zugeschalteten Aktionären und Vertretern von Aktionären
 zugänglich zu machen. Jedem Aktionär ist auf Verlangen bis zu zwei
 Jahren nach der Hauptversammlung Einsicht in das Teilnehmerverzeichnis
 zu gewähren.
@@ -4612,6 +4746,10 @@ Satz 2, § 137. Bei nichtbörsennotierten Gesellschaften reicht eine vom
 Vorsitzenden des Aufsichtsrats zu unterzeichnende Niederschrift aus,
 soweit keine Beschlüsse gefaßt werden, für die das Gesetz eine
 Dreiviertel- oder größere Mehrheit bestimmt.
+
+(1a) Der Notar hat seine Wahrnehmungen über den Gang der
+Hauptversammlung unter Anwesenheit am Ort der Hauptversammlung zu
+machen.
 
 (2) In der Niederschrift sind der Ort und der Tag der Verhandlung, der
 Name des Notars sowie die Art und das Ergebnis der Abstimmung und die
@@ -4654,6 +4792,47 @@ einschließlich der Angaben nach Absatz 2 Satz 2 auf ihrer
 Internetseite veröffentlichen.
 
 
+###### § 130a Stellungnahme- und Rederecht bei virtuellen Hauptversammlungen
+
+(1) Im Fall der virtuellen Hauptversammlung haben die Aktionäre das
+Recht, vor der Versammlung Stellungnahmen zu den Gegenständen der
+Tagesordnung im Wege elektronischer Kommunikation unter Verwendung der
+in der Einberufung hierfür mitgeteilten Adresse einzureichen. Das
+Recht kann auf ordnungsgemäß zu der Versammlung angemeldete Aktionäre
+beschränkt werden. Der Umfang der Stellungnahmen kann in der
+Einberufung angemessen beschränkt werden.
+
+(2) Stellungnahmen sind bis spätestens fünf Tage vor der Versammlung
+einzureichen.
+
+(3) Die eingereichten Stellungnahmen sind allen Aktionären bis
+spätestens vier Tage vor der Versammlung zugänglich zu machen. Das
+Zugänglichmachen kann auf ordnungsgemäß zu der Versammlung angemeldete
+Aktionäre beschränkt werden. Bei börsennotierten Gesellschaften hat
+das Zugänglichmachen über die Internetseite der Gesellschaft zu
+erfolgen; im Fall des Satzes 2 kann das Zugänglichmachen auch über die
+Internetseite eines Dritten erfolgen. § 126 Absatz 2 Satz 1 Nummer 1,
+3 und 6 gilt entsprechend.
+
+(4) Für die Berechnung der in den Absätzen 2 und 3 Satz 1 genannten
+Fristen gilt § 121 Absatz 7.
+
+(5) Den elektronisch zu der Versammlung zugeschalteten Aktionären ist
+in der Versammlung ein Rederecht im Wege der Videokommunikation zu
+gewähren. Für die Redebeiträge ist die von der Gesellschaft angebotene
+Form der Videokommunikation zu verwenden. Anträge und Wahlvorschläge
+nach § 118a Absatz 1 Satz 2 Nummer 3, das Auskunftsverlangen nach §
+131 Absatz 1, Nachfragen nach § 131 Absatz 1d sowie weitere Fragen
+nach § 131 Absatz 1e dürfen Bestandteil des Redebeitrags sein. § 131
+Absatz 2 Satz 2 gilt entsprechend.
+
+(6) Die Gesellschaft kann sich in der Einberufung vorbehalten, die
+Funktionsfähigkeit der Videokommunikation zwischen Aktionär und
+Gesellschaft in der Versammlung und vor dem Redebeitrag zu überprüfen
+und diesen zurückzuweisen, sofern die Funktionsfähigkeit nicht
+sichergestellt ist.
+
+
 ###### § 131 Auskunftsrecht des Aktionärs
 
 (1) Jedem Aktionär ist auf Verlangen in der Hauptversammlung vom
@@ -4671,6 +4850,46 @@ Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) in der
 Hauptversammlung, der der Konzernabschluss und der Konzernlagebericht
 vorgelegt werden, erstreckt sich auch auf die Lage des Konzerns und
 der in den Konzernabschluss einbezogenen Unternehmen.
+
+(1a) Im Fall der virtuellen Hauptversammlung ist Absatz 1 Satz 1 mit
+der Maßgabe anzuwenden, dass der Vorstand vorgeben kann, dass Fragen
+der Aktionäre bis spätestens drei Tage vor der Versammlung im Wege der
+elektronischen Kommunikation einzureichen sind. Für die Berechnung der
+Frist gilt § 121 Absatz 7. Nicht fristgerecht eingereichte Fragen
+müssen nicht berücksichtigt werden.
+
+(1b) Der Umfang der Einreichung von Fragen kann in der Einberufung
+angemessen beschränkt werden. Das Recht zur Einreichung von Fragen
+kann auf ordnungsgemäß zu der Versammlung angemeldete Aktionäre
+beschränkt werden.
+
+(1c) Die Gesellschaft hat ordnungsgemäß eingereichte Fragen vor der
+Versammlung allen Aktionären zugänglich zu machen und bis spätestens
+einen Tag vor der Versammlung zu beantworten; für die Berechnung der
+Frist gilt § 121 Absatz 7. Bei börsennotierten Gesellschaften haben
+das Zugänglichmachen der Fragen und deren Beantwortung über die
+Internetseite der Gesellschaft zu erfolgen. § 126 Absatz 2 Satz 1
+Nummer 1, 3 und 6 gilt für das Zugänglichmachen der Fragen
+entsprechend. Sind die Antworten einen Tag vor Beginn und in der
+Versammlung durchgängig zugänglich, darf der Vorstand in der
+Versammlung die Auskunft zu diesen Fragen verweigern.
+
+(1d) Jedem elektronisch zu der Versammlung zugeschalteten Aktionär ist
+in der Versammlung im Wege der elektronischen Kommunikation ein
+Nachfragerecht zu allen vor und in der Versammlung gegebenen Antworten
+des Vorstands einzuräumen. Absatz 2 Satz 2 gilt auch für das
+Nachfragerecht.
+
+(1e) Zudem ist jedem elektronisch zu der Versammlung zugeschalteten
+Aktionär in der Versammlung im Wege der elektronischen Kommunikation
+das Recht einzuräumen, Fragen zu Sachverhalten zu stellen, die sich
+erst nach Ablauf der Frist nach Absatz 1a Satz 1 ergeben haben. Absatz
+2 Satz 2 gilt auch für dieses Fragerecht.
+
+(1f) Der Versammlungsleiter kann festlegen, dass das Auskunftsrecht
+nach Absatz 1, das Nachfragerecht nach Absatz 1d und das Fragerecht
+nach Absatz 1e in der Hauptversammlung ausschließlich im Wege der
+Videokommunikation ausgeübt werden dürfen.
 
 (2) Die Auskunft hat den Grundsätzen einer gewissenhaften und getreuen
 Rechenschaft zu entsprechen. Die Satzung oder die Geschäftsordnung
@@ -4726,12 +4945,15 @@ Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 Auskunft außerhalb der Hauptversammlung gegeben worden, so ist sie
 jedem anderen Aktionär auf dessen Verlangen in der Hauptversammlung zu
 geben, auch wenn sie zur sachgemäßen Beurteilung des Gegenstands der
-Tagesordnung nicht erforderlich ist. Der Vorstand darf die Auskunft
-nicht nach Absatz 3 Satz 1 Nr. 1 bis 4 verweigern. Sätze 1 und 2
-gelten nicht, wenn ein Tochterunternehmen (§ 290 Abs. 1, 2 des
-Handelsgesetzbuchs), ein Gemeinschaftsunternehmen (§ 310 Abs. 1 des
-Handelsgesetzbuchs) oder ein assoziiertes Unternehmen (§ 311 Abs. 1
-des Handelsgesetzbuchs) die Auskunft einem Mutterunternehmen (§ 290
+Tagesordnung nicht erforderlich ist. Im Fall der virtuellen
+Hauptversammlung ist zu gewährleisten, dass jeder elektronisch zu der
+Versammlung zugeschaltete Aktionär sein Verlangen nach Satz 1 im Wege
+der elektronischen Kommunikation übermitteln kann. Der Vorstand darf
+die Auskunft nicht nach Absatz 3 Satz 1 Nr. 1 bis 4 verweigern. Die
+Sätze 1 bis 3 gelten nicht, wenn ein Tochterunternehmen (§ 290 Abs. 1,
+2 des Handelsgesetzbuchs), ein Gemeinschaftsunternehmen (§ 310 Abs. 1
+des Handelsgesetzbuchs) oder ein assoziiertes Unternehmen (§ 311 Abs.
+1 des Handelsgesetzbuchs) die Auskunft einem Mutterunternehmen (§ 290
 Abs. 1, 2 des Handelsgesetzbuchs) zum Zwecke der Einbeziehung der
 Gesellschaft in den Konzernabschluß des Mutterunternehmens erteilt und
 die Auskunft für diesen Zweck benötigt wird.
@@ -4739,7 +4961,10 @@ die Auskunft für diesen Zweck benötigt wird.
 (5) Wird einem Aktionär eine Auskunft verweigert, so kann er
 verlangen, daß seine Frage und der Grund, aus dem die Auskunft
 verweigert worden ist, in die Niederschrift über die Verhandlung
-aufgenommen werden.
+aufgenommen werden. Im Fall der virtuellen Hauptversammlung ist zu
+gewährleisten, dass jeder elektronisch zu der Versammlung
+zugeschaltete Aktionär sein Verlangen nach Satz 1 im Wege der
+elektronischen Kommunikation übermitteln kann.
 
 
 ###### § 132 Gerichtliche Entscheidung über das Auskunftsrecht
@@ -4752,9 +4977,21 @@ ihren Sitz hat.
 nicht gegeben worden ist, und, wenn über den Gegenstand der
 Tagesordnung, auf den sich die Auskunft bezog, Beschluß gefaßt worden
 ist, jeder in der Hauptversammlung erschienene Aktionär, der in der
-Hauptversammlung Widerspruch zur Niederschrift erklärt hat. Der Antrag
-ist binnen zwei Wochen nach der Hauptversammlung zu stellen, in der
-die Auskunft abgelehnt worden ist.
+Hauptversammlung Widerspruch zur Niederschrift erklärt hat. Im Fall
+der virtuellen Hauptversammlung sind folgende elektronisch
+zugeschaltete Aktionäre antragsberechtigt:
+
+1.  jeder Aktionär, dem die verlangte Auskunft nicht gegeben worden ist,
+
+
+2.  jeder Aktionär, der Widerspruch im Wege elektronischer Kommunikation
+    erklärt hat, wenn über den Gegenstand der Tagesordnung, auf den sich
+    die Auskunft bezog, Beschluss gefasst worden ist.
+
+
+
+Der Antrag ist binnen zwei Wochen nach der Hauptversammlung zu
+stellen, in der die Auskunft abgelehnt worden ist.
 
 (3) § 99 Abs. 1, 3 Satz 1, 2 und 4 bis 6 sowie Abs. 5 Satz 1 und 3
 gilt entsprechend. Die Beschwerde findet nur statt, wenn das
@@ -6063,9 +6300,12 @@ unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz
 Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des
 Handelsgesetzbuchs) für den Konzernabschluss und den
 Konzernlagebericht. Nach Satz 1 vorzulegen sind auch der gesonderte
-nichtfinanzielle Bericht (§ 289b des Handelsgesetzbuchs) und der
+nichtfinanzielle Bericht (§ 289b des Handelsgesetzbuchs), der
 gesonderte nichtfinanzielle Konzernbericht (§ 315b des
-Handelsgesetzbuchs), sofern sie erstellt wurden.
+Handelsgesetzbuchs), der Ertragsteuerinformationsbericht (§§ 342b,
+342c, 342d Absatz 2 Nummer 2 des Handelsgesetzbuchs) und die Erklärung
+nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs, sofern sie
+erstellt wurden.
 
 (2) Zugleich hat der Vorstand dem Aufsichtsrat den Vorschlag
 vorzulegen, den er der Hauptversammlung für die Verwendung des
@@ -6124,9 +6364,12 @@ bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert
 über Umstände, die seine Befangenheit besorgen lassen und über
 Leistungen, die er zusätzlich zu den Abschlussprüfungsleistungen
 erbracht hat. Der Aufsichtsrat hat auch den gesonderten
-nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs) und den
+nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs), den
 gesonderten nichtfinanziellen Konzernbericht (§ 315b des
-Handelsgesetzbuchs) zu prüfen, sofern sie erstellt wurden.
+Handelsgesetzbuchs), den Ertragsteuerinformationsbericht (§§ 342b,
+342c, 342d Absatz 2 Nummer 2 des Handelsgesetzbuchs) und die Erklärung
+nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs zu prüfen, sofern
+sie erstellt wurden.
 
 (2) Der Aufsichtsrat hat über das Ergebnis der Prüfung schriftlich an
 die Hauptversammlung zu berichten. In dem Bericht hat der Aufsichtsrat
@@ -6300,7 +6543,7 @@ soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats
 den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch
 zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das
 Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf
-Kreditinstitute nicht anzuwenden.
+Kreditinstitute oder Wertpapierinstitute nicht anzuwenden.
 
 (2) Ist der Jahresabschluß von einem Abschlußprüfer zu prüfen, so hat
 der Abschlußprüfer an den Verhandlungen über die Feststellung des
@@ -6585,14 +6828,15 @@ zugänglich zu machen; in dem Bericht ist der vorgeschlagene
 Ausgabebetrag zu begründen.
 
 (5) Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach
-dem Beschluß die neuen Aktien von einem Kreditinstitut oder einem nach
-§ 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes
-über das Kreditwesen tätigen Unternehmen mit der Verpflichtung
-übernommen werden sollen, sie den Aktionären zum Bezug anzubieten. Der
-Vorstand hat dieses Bezugsangebot mit den Angaben gemäß Absatz 2 Satz
-1 und einen endgültigen Ausgabebetrag gemäß Absatz 2 Satz 2 bekannt zu
-machen; gleiches gilt, wenn die neuen Aktien von einem anderen als
-einem Kreditinstitut oder Unternehmen im Sinne des Satzes 1 mit der
+dem Beschluß die neuen Aktien von einem Kreditinstitut, einem
+Wertpapierinstitut oder einem nach § 53 Abs. 1 Satz 1 oder § 53b Abs.
+1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätigen
+Unternehmen mit der Verpflichtung übernommen werden sollen, sie den
+Aktionären zum Bezug anzubieten. Der Vorstand hat dieses Bezugsangebot
+mit den Angaben gemäß Absatz 2 Satz 1 und einen endgültigen
+Ausgabebetrag gemäß Absatz 2 Satz 2 bekannt zu machen; gleiches gilt,
+wenn die neuen Aktien von einem anderen als einem Kreditinstitut,
+Wertpapierinstitut oder Unternehmen im Sinne des Satzes 1 mit der
 Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug
 anzubieten.
 
@@ -7377,12 +7621,12 @@ Grundkapitals ist das Grundkapital herabgesetzt.
 Eintragung des Beschlusses bekanntgemacht worden ist, ist, wenn sie
 sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck
 melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen
-können. Die Gläubiger sind in der Bekanntmachung der Eintragung auf
-dieses Recht hinzuweisen. Das Recht, Sicherheitsleistung zu verlangen,
-steht Gläubigern nicht zu, die im Fall des Insolvenzverfahrens ein
-Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die
-nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich
-überwacht ist.
+können. Die Gläubiger sind in einer Bekanntmachung zu der Eintragung
+auf dieses Recht hinzuweisen. Das Recht, Sicherheitsleistung zu
+verlangen, steht Gläubigern nicht zu, die im Fall des
+Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer
+Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz
+errichtet und staatlich überwacht ist.
 
 (2) Zahlungen an die Aktionäre dürfen auf Grund der Herabsetzung des
 Grundkapitals erst geleistet werden, nachdem seit der Bekanntmachung
@@ -7533,15 +7777,17 @@ erst für ein Geschäftsjahr zulässig, das später als zwei Jahre nach
 der Beschlußfassung über die Kapitalherabsetzung beginnt. Dies gilt
 nicht, wenn die Gläubiger, deren Forderungen vor der Bekanntmachung
 der Eintragung des Beschlusses begründet worden waren, befriedigt oder
-sichergestellt sind, soweit sie sich binnen sechs Monaten nach der
-Bekanntmachung des Jahresabschlusses, auf Grund dessen die
-Gewinnverteilung beschlossen ist, zu diesem Zweck gemeldet haben.
-Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall des
-Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer
-Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz
-errichtet und staatlich überwacht ist. Die Gläubiger sind in der
-Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs auf die
-Befriedigung oder Sicherstellung hinzuweisen.
+sichergestellt sind, soweit sie sich binnen sechs Monaten, nachdem der
+der Gewinnverteilung zugrundeliegende Jahresabschluss in das
+Unternehmensregister eingestellt worden ist, zu diesem Zweck gemeldet
+haben. Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall
+des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus
+einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem
+Schutz errichtet und staatlich überwacht ist. Die Gläubiger sind auf
+die Befriedigung und Sicherstellung durch eine gesonderte Erklärung
+hinzuweisen, die der das Unternehmensregister führenden Stelle
+gemeinsam mit dem Jahresabschluss elektronisch zur Einstellung in das
+Unternehmensregister zu übermitteln ist.
 
 (3) Die Beträge, die aus der Auflösung von Kapital- und
 Gewinnrücklagen und aus der Kapitalherabsetzung gewonnen sind, dürfen
@@ -7734,10 +7980,10 @@ Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs.
 2 nur dann nichtig, wenn er
 
 1.  in einer Hauptversammlung gefaßt worden ist, die unter Verstoß gegen §
-    121 Abs. 2 und 3 Satz 1 oder Abs. 4 einberufen war,
+    121 Abs. 2 und 3 Satz 1 oder Abs. 4 und 4b Satz 1 einberufen war,
 
 
-2.  nicht nach § 130 Abs. 1 und 2 Satz 1 und Abs. 4 beurkundet ist,
+2.  nicht nach § 130 Absatz 1 bis 2 Satz 1 und Absatz 4 beurkundet ist,
 
 
 3.  mit dem Wesen der Aktiengesellschaft nicht zu vereinbaren ist oder
@@ -7764,9 +8010,9 @@ Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs.
 ###### § 242 Heilung der Nichtigkeit
 
 (1) Die Nichtigkeit eines Hauptversammlungsbeschlusses, der entgegen §
-130 Abs. 1 und 2 Satz 1 und Abs. 4 nicht oder nicht gehörig beurkundet
-worden ist, kann nicht mehr geltend gemacht werden, wenn der Beschluß
-in das Handelsregister eingetragen worden ist.
+130 Absatz 1 bis 2 Satz 1 und Absatz 4 nicht oder nicht gehörig
+beurkundet worden ist, kann nicht mehr geltend gemacht werden, wenn
+der Beschluß in das Handelsregister eingetragen worden ist.
 
 (2) Ist ein Hauptversammlungsbeschluß nach § 241 Nr. 1, 3 oder 4
 nichtig, so kann die Nichtigkeit nicht mehr geltend gemacht werden,
@@ -7807,23 +8053,40 @@ zu erlangen suchte und der Beschluß geeignet ist, diesem Zweck zu
 dienen. Dies gilt nicht, wenn der Beschluß den anderen Aktionären
 einen angemessenen Ausgleich für ihren Schaden gewährt.
 
-(3) Die Anfechtung kann nicht gestützt werden:
+(3) Die Anfechtung kann nicht gestützt werden
 
 1.  auf die durch eine technische Störung verursachte Verletzung von
-    Rechten, die nach § 118 Abs. 1 Satz 2, Abs. 2 Satz 1 und § 134 Abs. 3
-    auf elektronischem Wege wahrgenommen worden sind, es sei denn, der
-    Gesellschaft ist grobe Fahrlässigkeit oder Vorsatz vorzuwerfen; in der
-    Satzung kann ein strengerer Verschuldensmaßstab bestimmt werden,
+    Rechten, die nach § 118 Absatz 1 Satz 2 und Absatz 2 Satz 1 sowie §
+    134 Absatz 3 auf elektronischem Wege wahrgenommen worden sind,
 
 
-2.  auf eine Verletzung der §§ 67a, 67b, 121 Absatz 4a oder des § 124a,
+2.  auf die durch eine technische Störung verursachte Verletzung von
+    Rechten, die nach § 118a Absatz 1 Satz 2 Nummer 2, 3, 4 in Verbindung
+    mit § 131, nach § 118a Absatz 1 Satz 2 Nummer 6 in Verbindung mit §
+    130a Absatz 1 bis 4, nach § 118a Absatz 1 Satz 2 Nummer 7 in
+    Verbindung mit § 130a Absatz 5 und 6 sowie nach § 118a Absatz 1 Satz 2
+    Nummer 8 auf elektronischem Wege wahrgenommen worden sind,
 
 
-3.  auf Gründe, die ein Verfahren nach § 318 Abs. 3 des Handelsgesetzbuchs
-    rechtfertigen.
+3.  auf die durch eine technische Störung verursachte Verletzung von §
+    118a Absatz 1 Satz 2 Nummer 1 und 5 sowie Absatz 6,
+
+
+4.  auf eine Verletzung der §§ 67a, 67b, 118 Absatz 1 Satz 3 bis 5 und
+    Absatz 2 Satz 2, von § 118a Absatz 1 Satz 4, § 121 Absatz 4a oder des
+    § 124a,
+
+
+5.  auf Gründe, die ein Verfahren nach § 318 Absatz 3 des
+    Handelsgesetzbuchs rechtfertigen.
 
 
 
+Eine Anfechtung kann auf die durch eine technische Störung verursachte
+Verletzung von Rechten aus Satz 1 Nummer 1 und 2 sowie Vorschriften
+aus Satz 1 Nummer 3 nur gestützt werden, wenn der Gesellschaft grobe
+Fahrlässigkeit oder Vorsatz vorzuwerfen ist; in der Satzung kann ein
+strengerer Verschuldensmaßstab bestimmt werden.
 
 (4) Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von
 Informationen kann nur angefochten werden, wenn ein objektiv
@@ -7878,6 +8141,9 @@ Zur Anfechtung ist befugt
 
 
 
+Im Fall der virtuellen Hauptversammlung gelten alle zu der Versammlung
+elektronisch zugeschalteten Aktionäre als erschienen im Sinne des
+Satzes 1 Nummer 1.
 
 
 ###### § 246 Anfechtungsklage
@@ -7910,7 +8176,8 @@ an der Klage beteiligen.
 
 ###### § 246a Freigabeverfahren
 
-(1) Wird gegen einen Hauptversammlungsbeschluss über eine Maßnahme der
+(1) Wird gegen einen Hauptversammlungsbeschluss zur Änderung der
+Satzung nach § 118a Absatz 1 Satz 1, über eine Maßnahme der
 Kapitalbeschaffung, der Kapitalherabsetzung (§§ 182 bis 240) oder
 einen Unternehmensvertrag (§§ 291 bis 307) Klage erhoben, so kann das
 Gericht auf Antrag der Gesellschaft durch Beschluss feststellen, dass
@@ -8125,16 +8392,16 @@ gebunden, so kann die Anfechtung auch darauf gestützt werden, daß der
 Wahlvorschlag gesetzwidrig zustande gekommen ist. § 243 Abs. 4 und §
 244 gelten.
 
-(2) Für die Anfechtungsbefugnis gilt § 245 Nr. 1, 2 und 4. Die Wahl
-eines Aufsichtsratsmitglieds, das nach dem Montan-Mitbestimmungsgesetz
-auf Vorschlag der Betriebsräte gewählt worden ist, kann auch von jedem
-Betriebsrat eines Betriebs der Gesellschaft, jeder in den Betrieben
-der Gesellschaft vertretenen Gewerkschaft oder deren
-Spitzenorganisation angefochten werden. Die Wahl eines weiteren
-Mitglieds, das nach dem Montan-Mitbestimmungsgesetz oder dem
-Mitbestimmungsergänzungsgesetz auf Vorschlag der übrigen
-Aufsichtsratsmitglieder gewählt worden ist, kann auch von jedem
-Aufsichtsratsmitglied angefochten werden.
+(2) Für die Anfechtungsbefugnis gilt § 245 Satz 1 Nummer 1, 2 und 4
+sowie Satz 2. Die Wahl eines Aufsichtsratsmitglieds, das nach dem
+Montan-Mitbestimmungsgesetz auf Vorschlag der Betriebsräte gewählt
+worden ist, kann auch von jedem Betriebsrat eines Betriebs der
+Gesellschaft, jeder in den Betrieben der Gesellschaft vertretenen
+Gewerkschaft oder deren Spitzenorganisation angefochten werden. Die
+Wahl eines weiteren Mitglieds, das nach dem Montan-
+Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz auf
+Vorschlag der übrigen Aufsichtsratsmitglieder gewählt worden ist, kann
+auch von jedem Aufsichtsratsmitglied angefochten werden.
 
 (3) Für das Anfechtungsverfahren gelten die §§ 246, 247, 248 Abs. 1
 Satz 2 und § 248a.
@@ -8321,13 +8588,14 @@ Handelsgesetzbuchs.
 
 (6) Die Nichtigkeit nach Absatz 1 Nr. 1, 3 und 4, Absatz 2, Absatz 3
 Nr. 1 und 2, Absatz 4 und 5 kann nicht mehr geltend gemacht werden,
-wenn seit der Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs
-in den Fällen des Absatzes 1 Nr. 3 und 4, des Absatzes 2 und des
-Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen Fällen drei Jahre
-verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung
-der Nichtigkeit des Jahresabschlusses rechtshängig, so verlängert sich
-die Frist, bis über die Klage rechtskräftig entschieden ist oder sie
-sich auf andere Weise endgültig erledigt hat.
+wenn seit der Einstellung des Jahresabschlusses in das
+Unternehmensregister in den Fällen des Absatzes 1 Nr. 3 und 4, des
+Absatzes 2 und des Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen
+Fällen drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine
+Klage auf Feststellung der Nichtigkeit des Jahresabschlusses
+rechtshängig, so verlängert sich die Frist, bis über die Klage
+rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig
+erledigt hat.
 
 (7) Für die Klage auf Feststellung der Nichtigkeit gegen die
 Gesellschaft gilt § 249 sinngemäß. Ist für die Gesellschaft als
@@ -8674,7 +8942,7 @@ nicht aufgelöste Gesellschaften gelten.
 
 (2) Die Satzung oder ein Beschluß der Hauptversammlung kann andere
 Personen als Abwickler bestellen. Für die Auswahl der Abwickler gilt §
-76 Abs. 3 Satz 2 und 3 sinngemäß. Auch eine juristische Person kann
+76 Abs. 3 Satz 2 bis 4 sinngemäß. Auch eine juristische Person kann
 Abwickler sein.
 
 (3) Auf Antrag des Aufsichtsrats oder einer Minderheit von Aktionären,
@@ -9090,6 +9358,11 @@ den Vorstand der Aktiengesellschaft geltenden Vorschriften über
 
 11. die Vorlegung, Prüfung und Offenlegung eines Einzelabschlusses nach §
     325 Abs. 2a des Handelsgesetzbuchs;
+
+
+11a. die Vorlage eines Ertragsteuerinformationsberichts (§§ 342b, 342c,
+    342d Absatz 2 Nummer 2 des Handelsgesetzbuchs) und einer Erklärung
+    nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs;
 
 
 12. die Ausgabe von Aktien bei bedingter Kapitalerhöhung, bei genehmigtem
@@ -9569,7 +9842,7 @@ anderen Vertragsteils zu geben.
 
 ##### § 294 Eintragung. Wirksamwerden
 
-Der Vorstand der Gesellschaft hat das Bestehen und die Art des
+(1) Der Vorstand der Gesellschaft hat das Bestehen und die Art des
 Unternehmensvertrages sowie den Namen des anderen Vertragsteils zur
 Eintragung in das Handelsregister anzumelden; beim Bestehen einer
 Vielzahl von Teilgewinnabführungsverträgen kann anstelle des Namens
@@ -9740,8 +10013,8 @@ Forderungen begründet worden sind, bevor die Eintragung der Beendigung
 des Vertrags in das Handelsregister nach § 10 des Handelsgesetzbuchs
 bekannt gemacht worden ist, Sicherheit zu leisten, wenn sie sich
 binnen sechs Monaten nach der Bekanntmachung der Eintragung zu diesem
-Zweck bei ihm melden. Die Gläubiger sind in der Bekanntmachung der
-Eintragung auf dieses Recht hinzuweisen.
+Zweck bei ihm melden. Die Gläubiger sind in einer Bekanntmachung zu
+der Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern
 nicht zu, die im Fall des Insolvenzverfahrens ein Recht auf
@@ -10460,8 +10733,8 @@ begründet worden sind, bevor die Eintragung der Eingliederung in das
 Handelsregister bekanntgemacht worden ist, ist, wenn sie sich binnen
 sechs Monaten nach der Bekanntmachung zu diesem Zweck melden,
 Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können.
-Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses
-Recht hinzuweisen.
+Die Gläubiger sind in einer Bekanntmachung zu der Eintragung auf
+dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern
 nicht zu, die im Falle des Insolvenzverfahrens ein Recht auf

@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 2018, 1398 (2032)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 V v. 26.11.2021 I 4982, 5204
+:   Art. 1 V v. 5.1.2022 I 2
 
 Änderung durch
-:   Art. 1 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F804091_01_BJNR139810018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/1629 des
     Europäischen Parlaments und des Rates vom 14. September 2016 zur
@@ -71,7 +71,7 @@ Bundes
 2.  die Anforderungen an die Anzahl und Qualifikation der
     Besatzungsmitglieder nach
 
-    a)  Teil II der Schiffspersonalverordnung-Rhein für Seeschiffe, sofern die
+    a)  Teil III der Rheinschiffspersonalverordnung für Seeschiffe, sofern die
         Anforderungen des Kapitels 25 ES-TRIN eingehalten werden,
 
 
@@ -179,7 +179,7 @@ Seeschiffe, einschließlich Seeschleppboote und Seeschubboote, die
 
 
 
-[^F804091_03_BJNR139810018BJNE000202119]
+[^F804091_03_BJNR139810018BJNE000203119]
 (8) Mit den Vorschriften des ES-TRIN wird die von der
 Zentralkommission für die Rheinschifffahrt beschlossene
 Rheinschiffsuntersuchungsordnung in der am 7. Dezember 2017 geänderten
@@ -188,7 +188,7 @@ auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 
     Beschluss 2017-II-20 der Zentralkommission für die Rheinschifffahrt
     vom 7. Dezember 2017.
-[^F804091_03_BJNR139810018BJNE000202119]: 
+[^F804091_03_BJNR139810018BJNE000203119]: 
 
 ### § 2 Begriffsbestimmungen
 
@@ -289,12 +289,12 @@ auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 (2) Soweit diese Verordnung zusätzlich zu Absatz 1 Nummer 5 auf
 bestimmte Vorschriften verweist, bedeuten:
 
-1.  Schiffspersonalverordnung-Rhein:
+1.  Rheinschiffspersonalverordnung:
 
-    Schiffspersonalverordnung-Rhein vom 16. Dezember 2011 (BGBl. 2011 II
-    S. 1300, Anlageband), die zuletzt durch Artikel 1 in Verbindung mit
-    Anlage 1 der Verordnung vom 27. September 2017 (BGBl. 2017 II S. 1282)
-    geändert worden ist, in der jeweils geltenden Fassung,
+    Anlage 1 zu § 1 Absatz 2 Nummer 1 der
+    Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl.
+    2023 II Nr. 105, Anlageband) in der jeweils geltenden und
+    anzuwendenden Fassung,
 
 
 2.  Binnenschiffspersonalverordnung:
@@ -826,7 +826,7 @@ IV entsprechen.
 (9) Fahrzeuge, schwimmende Anlagen und Schwimmkörper müssen mit
 Personen besetzt sein (Besatzung), die den Anforderungen des ES-TRIN
 in Verbindung mit Teil 3 der Binnenschiffspersonalverordnung oder Teil
-II der Schiffspersonalverordnung-Rhein entsprechen.
+III der Rheinschiffspersonalverordnung entsprechen.
 
 (10) Die Generaldirektion Wasserstraßen und Schifffahrt kann ganz oder
 teilweise davon absehen, die Untersuchung bei einem Fahrzeug, einer
@@ -1006,7 +1006,7 @@ Verordnung erteilten Schiffsattest oder Unionszeugnis gleich,
 
 (3) Im Fall des Absatzes 2 müssen die Anzahl und Zusammensetzung der
 Besatzung den Anforderungen der Binnenschiffspersonalverordnung oder
-der Schiffspersonalverordnung-Rhein entsprechen mit der Maßgabe, dass
+der Rheinschiffspersonalverordnung entsprechen mit der Maßgabe, dass
 
 1.  für den Rhein der Eintrag im Schiffsattest oder im Unionszeugnis und
 
@@ -3165,8 +3165,7 @@ BinSchUO2018Anh VII)
 
 ### Anhang VIII (weggefallen)
 
-(Fundstelle: BGBl. I 2018, 1521 - 1551)             (Text siehe:
-BinSchUO2018Anh VIII)
+(Text siehe: BinSchUO2018Anh VIII)
 
 (zu § 33 Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4)
 

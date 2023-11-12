@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1945
 
 Zuletzt geändert durch
-:   Art. 10 G v. 3.12.2020 I 2744
+:   Art. 1 V v. 23.6.2023 I Nr. 169
 
 
 ## Eingangsformel
@@ -30,7 +30,7 @@ Bundesministerium des Innern:
 
 (1) Diese Verordnung regelt die Durchführung von regelmäßigen
 Datenübermittlungen zwischen den Meldebehörden in den Fällen des § 23
-Absatz 3 und 4 und § 33 Absatz 1 bis 3 des Bundesmeldegesetzes.
+Absatz 2 und 3 und § 33 Absatz 1 bis 3 des Bundesmeldegesetzes.
 
 (2) Hat ein Einwohner mehrere Wohnungen im Inland, sind Meldebehörden
 im Sinne dieser Verordnung sowohl die für die Hauptwohnung als auch
@@ -101,8 +101,8 @@ Mai 2014 herausgegebene DSMeld legt Form und Inhalt der zu
 OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße
 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der
 Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum
-Bund (ITZBund), Dienstsitz Bonn, An der Küppe 2, 53225 Bonn, bezogen
-werden.
+Bund (ITZBund), Dienstsitz Bonn, Bernkasteler Straße 8, 53175 Bonn,
+bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
@@ -113,7 +113,7 @@ der Beginn der Anwendung anzugeben.
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
 
-(1) Gemäß § 23 Absatz 3 und 4 des Bundesmeldegesetzes sind die
+(1) Gemäß § 23 Absatz 2 und 3 des Bundesmeldegesetzes sind die
 Meldebehörden verpflichtet, für die Anmeldung mit vorausgefülltem
 Meldeschein folgende in § 3 Absatz 1 des Bundesmeldegesetzes
 aufgeführte Daten einer Person für andere Meldebehörden im
@@ -164,7 +164,7 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
 
     *   Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch den Staat
 
-    *   0601 bis 0603,
+    *   0601 bis 0603, 0606,
 
 
 *    *   7.
@@ -284,14 +284,24 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
 
 *    *   18.
 
-    *   AZR-Nummer, übergangsweise Seriennummer des Ankunftsnachweises
+    *   AZR-Nummer
 
-    *   1712.
-
-
+    *   1712,
 
 
-(2) Gemäß § 23 Absatz 4 Satz 2 des Bundesmeldegesetzes hat die
+*    *   19.
+
+    *   für die Ausstellung von Pässen und Ausweisen die Tatsache, dass
+        Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder
+        eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des
+        Personalausweisgesetzes getroffen worden ist
+
+    *   2301, 2302.
+
+
+
+
+(2) Gemäß § 23 Absatz 3 Satz 2 des Bundesmeldegesetzes hat die
 Zuzugsmeldebehörde folgende Daten für den vorausgefüllten Meldeschein
 aufzunehmen und der Wegzugsmeldebehörde zu übermitteln:
 
@@ -348,9 +358,6 @@ haben den jeweiligen Zugang zu eröffnen.
 
 (5) Absatz 1 bis Absatz 4 gelten auch beim Bezug einer Nebenwohnung
 und beim Wiederzuzug aus dem Ausland.
-
-(6) Bis zum 30. April 2018 darf von der Pflicht zum Bereithalten der
-Daten nach Absatz 1 abgewichen werden.
 
 
 ## § 5 Organisation und Technik des automatisierten Abrufverfahrens zur Anmeldung
@@ -446,7 +453,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
 
     *   Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch den Staat
 
-    *   0601 bis 0603,
+    *   0601 bis 0603, 0606,
 
 
 *    *   7.
@@ -567,7 +574,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
 
 *    *   18.
 
-    *   AZR-Nummer, übergangsweise Seriennummer des Ankunftsnachweises
+    *   AZR-Nummer
 
     *   1712.
 
@@ -769,7 +776,7 @@ Zuordnung zusätzlich folgende Daten der betroffenen Person zu
 
 *    *   6.
 
-    *   AZR-Nummer, übergangsweise Seriennummer des Ankunftsnachweises
+    *   AZR-Nummer
 
     *   1712.
 
@@ -793,7 +800,7 @@ nach § 6 Absatz 2 übermittelten Daten unverändert zusätzlich zu
 
 ## § 8 Fortschreibung der Daten
 
-(1) Werden in § 3 Absatz 1 und 2 Nummer 7 und 8 des
+(1) Werden in § 3 Absatz 1 und 2 Nummer 4, 7 und 8 des
 Bundesmeldegesetzes bezeichnete Daten bei einer für eine Wohnung der
 Person zuständigen Meldebehörde fortgeschrieben, insbesondere weil sie
 unrichtig oder unvollständig waren oder weil die Person ihren

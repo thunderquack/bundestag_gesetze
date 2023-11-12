@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 10 G v. 23.6.2021 I 1982
+:   Art. 4 G v. 28.6.2023 I Nr. 172
 
-Änderung durch
-:   Art. 22 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
+Stand: Bek. v. 16.2.2022 I 306 ist berücksichtigt
 
 ## Abschnitt 1 - Zweck
 
@@ -311,7 +310,7 @@ Absatz 1 unterstützt von
 9.  den in § 71 Abs. 1 bis 3 des Aufenthaltsgesetzes genannten Behörden,
 
 
-10. dem Bundesamt für Güterverkehr,
+10. dem Bundesamt für Logistik und Mobilität,
 
 
 11. den nach Landesrecht für die Genehmigung und Überwachung des
@@ -634,22 +633,23 @@ das Betreten eines Ortes verbieten.
 
 (1) Die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4
 unterstützenden Stellen sind verpflichtet, einander die für deren
-Prüfungen erforderlichen Informationen einschließlich
-personenbezogener Daten und die Ergebnisse der Prüfungen zu
-übermitteln, soweit deren Kenntnis für die Erfüllung der Aufgaben der
-Behörden oder Stellen erforderlich ist. Die Behörden der
-Zollverwaltung einerseits und die Strafverfolgungsbehörden und die
-Polizeivollzugsbehörden andererseits sind verpflichtet, einander die
-erforderlichen Informationen, einschließlich personenbezogener Daten,
-für die Verhütung und Verfolgung von Straftaten und
-Ordnungswidrigkeiten, die in Zusammenhang mit einem der in § 2 Abs. 1
-genannten Prüfgegenstände stehen, zu übermitteln. An
-Strafverfolgungsbehörden und Polizeivollzugsbehörden sind darüber
-hinaus Informationen einschließlich personenbezogener Daten zu
-übermitteln, sofern tatsächliche Anhaltspunkte dafür vorliegen, dass
-diese Informationen für die Verhütung und Verfolgung von Straftaten
-oder Ordnungswidrigkeiten, die nicht in Zusammenhang mit einem der in
-§ 2 Abs. 1 genannten Prüfgegenstände stehen, erforderlich sind.
+Prüfungen oder für die Zusammenarbeit nach Absatz 6 erforderlichen
+Informationen einschließlich personenbezogener Daten und die
+Ergebnisse der Prüfungen zu übermitteln, soweit deren Kenntnis für die
+Erfüllung der Aufgaben der Behörden oder Stellen erforderlich ist. Die
+Behörden der Zollverwaltung einerseits und die
+Strafverfolgungsbehörden und die Polizeivollzugsbehörden andererseits
+sind verpflichtet, einander die erforderlichen Informationen,
+einschließlich personenbezogener Daten, für die Verhütung und
+Verfolgung von Straftaten und Ordnungswidrigkeiten, die in
+Zusammenhang mit einem der in § 2 Abs. 1 genannten Prüfgegenstände
+stehen, zu übermitteln. An Strafverfolgungsbehörden und
+Polizeivollzugsbehörden sind darüber hinaus Informationen
+einschließlich personenbezogener Daten zu übermitteln, sofern
+tatsächliche Anhaltspunkte dafür vorliegen, dass diese Informationen
+für die Verhütung und Verfolgung von Straftaten oder
+Ordnungswidrigkeiten, die nicht in Zusammenhang mit einem der in § 2
+Abs. 1 genannten Prüfgegenstände stehen, erforderlich sind.
 
 (2) Die Behörden der Zollverwaltung dürfen zur Wahrnehmung ihrer
 Aufgaben nach § 2 Abs. 1 sowie zur Verfolgung von Straftaten oder
@@ -786,15 +786,21 @@ Behörden anderer Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftraum gemäß § 20 Absatz 2 des Arbeitnehmer-Entsendegesetzes,
 § 18 Absatz 2 des Mindestlohngesetzes und § 18 Absatz 6 des
 Arbeitnehmerüberlassungsgesetzes finden die §§ 8a bis 8e des
-Verwaltungsverfahrensgesetzes in Verbindung mit Artikel 6 Absatz 1, 2
-und 4 bis 9, den Artikeln 7 und 21 der Richtlinie 2014/67/EU des
-Europäischen Parlaments und des Rates vom 15. Mai 2014 zur
-Durchsetzung der Richtlinie 96/71/EG über die Entsendung von
-Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur
-Änderung der Verordnung (EU) Nr. 1024/2012 über die
-Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
-Informationssystems („IMI-Verordnung“) (ABl. L 159 vom 28.5.2014, S.
-11) Anwendung.
+Verwaltungsverfahrensgesetzes in Verbindung mit den Artikeln 6, 7, 14
+bis 18 und 21 der Richtlinie 2014/67/EU des Europäischen Parlaments
+und des Rates vom 15. Mai 2014 zur Durchsetzung der Richtlinie
+96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der
+Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU)
+Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des
+Binnenmarkt-Informationssystems („IMI-Verordnung“) (ABl. L 159 vom
+28\.5.2014, S. 11),auch in Verbindung mit Artikel 1 Absatz 11
+Unterabsatz 1 Buchstabe c und Unterabsatz 2 und 3 der Richtlinie (EU)
+2020/1057 des Europäischen Parlaments und des Rates vom 15. Juli 2020
+zur Festlegung besonderer Regeln im Zusammenhang mit der Richtlinie
+96/71/EG und der Richtlinie 2014/67/EU für die Entsendung von
+Kraftfahrern im Straßenverkehrssektor und zur Änderung der Richtlinie
+2006/22/EG bezüglich der Durchsetzungsanforderungen und der Verordnung
+(EU) Nr. 1024/2012 (ABl. L 249 vom 31.7.2020, S. 49) Anwendung.
 
 Übermittlung personenbezogener
 
@@ -1798,17 +1804,16 @@ Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von
 öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse
 oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen
 die erforderlichen Auskünfte geben. Öffentliche Auftraggeber nach Satz
-3 fordern im Rahmen ihrer Tätigkeit Auskünfte des
-Gewerbezentralregisters nach § 150a der Gewerbeordnung an oder
-verlangen vom Bewerber eine Erklärung, dass die Voraussetzungen für
-einen Ausschluss nach Satz 1 oder 2 nicht vorliegen; auch im Falle
-einer Erklärung des Bewerbers können öffentliche Auftraggeber
-Auskünfte des Gewerbezentralregisters nach § 150a der Gewerbeordnung
+3 fordern im Rahmen ihrer Tätigkeit Auskünfte aus dem
+Wettbewerbsregister an oder verlangen vom Bewerber eine Erklärung,
+dass die Voraussetzungen für einen Ausschluss nach Satz 1 oder 2 nicht
+vorliegen; auch im Falle einer Erklärung des Bewerbers können
+öffentliche Auftraggeber Auskünfte aus dem Wettbewerbsregister
 jederzeit anfordern. Für den Bewerber, der den Zuschlag erhalten soll,
 fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen ab
 einer Höhe von 30 000 Euro vor Zuschlagserteilung eine Auskunft aus
-dem Gewerbezentralregister nach § 150a der Gewerbeordnung an. Der
-Bewerber ist vor der Entscheidung über den Ausschluss zu hören.
+dem Wettbewerbsregister an. Der Bewerber ist vor der Entscheidung über
+den Ausschluss zu hören.
 
 (2) Eine Verfehlung nach Absatz 1 steht einer Verletzung von Pflichten
 nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.

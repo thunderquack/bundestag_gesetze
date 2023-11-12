@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 508
 
-Geändert durch
-:   Art. 1 V v. 30.7.2014 I 1314
+Zuletzt geändert durch
+:   Art. 1 V v. 16.10.2023 I Nr. 278
 
 
 ## Eingangsformel
@@ -114,32 +114,55 @@ Flussdiagramm dargestellt.
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 2 Abs. 2 Nr. 1)
+(zu § 2 Absatz 2 Nummer 1)
 
 ## Anlage 1 Bodenstationsnegativliste
 
-( Fundstelle: BGBl. I 2008, 509 )
-Staatsgebiet Armenien
-Staatsgebiet Aserbaidschan
-Staatsgebiet Côte d´Ivoire
-Staatsgebiet Demokratische Volksrepublik Korea (Nordkorea)
-Staatsgebiet Irak
+(Fundstelle: BGBl. 2023 I Nr. 278, S. 1 – 2)
+
+Staatsgebiet Republik Armenien
+
+Staatsgebiet Republik Aserbaidschan
+
+Staatsgebiet Demokratische Bundesrepublik Äthiopien
+
+Staatsgebiet Republik Belarus
+
+Staatsgebiet Volksrepublik China
+
+Staatsgebiet Republik Dschibuti
+
+Staatsgebiet Staat Eritrea
+
+Staatsgebiet Republik Irak
+
 Staatsgebiet Islamische Republik Iran
-Staatsgebiet Kongo
-Staatsgebiet Kuba
-Staatsgebiet Libanon
-Staatsgebiet Liberia
+
+Staatsgebiet Republik Kongo
+
+Staatsgebiet Demokratische Volksrepublik Korea
+
+Staatsgebiet Republik Kuba
+
+Staatsgebiet Libanesische Republik
+
 Staatsgebiet Republik Moldau
-Staatsgebiet Myanmar
-Staatsgebiet Ruanda
-Staatsgebiet Sierra Leone
-Staatsgebiet Simbabwe
-Staatsgebiet Somalia
-Staatsgebiet Sudan
+
+Staatsgebiet Republik der Union Myanmar
+
+Staatsgebiet Republik Ruanda
+
+Staatsgebiet Russische Föderation
+
+Staatsgebiet Republik Simbabwe
+
+Staatsgebiet Bundesrepublik Somalia
+
+Staatsgebiet Republik Sudan
+
+Staatsgebiet Republik Südsudan
+
 Staatsgebiet Arabische Republik Syrien
-Staatsgebiet Turkmenistan
-Staatsgebiet Usbekistan
-Staatsgebiet Weißrussland
 
 (zu § 2 Abs. 2 Nr. 2)
 
@@ -156,65 +179,65 @@ geographischer Breite)
 
 ## Anlage 3 Gebietsnegativliste
 
-(Fundstelle: BGBl. I 2013, 1314)
+Fundstelle: BGBl. 2023 I Nr. 278, S. 2)
 
-Staatsgebiet Afghanistan
+Staatsgebiet Islamische Republik Afghanistan
 
-Staatsgebiet Armenien
+Staatsgebiet Republik Armenien
 
-Staatsgebiet Aserbaidschan
+Staatsgebiet Republik Aserbaidschan
 
-Staatsgebiet Äthiopien
+Staatsgebiet Demokratische Bundesrepublik Äthiopien
 
-Staatsgebiet Bosnien-Herzegowina
+Staatsgebiet Bosnien und Herzegowina
 
-Staatsgebiet Dschibuti
+Staatsgebiet Republik Dschibuti
 
-Staatsgebiet Eritrea
+Staatsgebiet Staat Eritrea
 
 Staatsgebiet Georgien
 
-Staatsgebiet Irak
+Staatsgebiet Republik Irak
 
-Staatsgebiet Israel und palästinensische Autonomiegebiete
+Staatsgebiet Staat Israel und palästinensische Autonomiegebiete
 
-Demokratische Republik Kongo
+Staatsgebiet Republik Jemen
+
+Staatsgebiet Demokratische Republik Kongo
 
 Kosovo/UNMIK (VN-Resolution 1244 (1999))
 
-Staatsgebiet Libanon
+Staatsgebiet Libanesische Republik
 
-Staatsgebiet Mali
+Staatsgebiet Republik Mali
 
 Staatsgebiet Republik Moldau
 
-Staatsgebiet Senegal
+Staatsgebiet Republik der Union Myanmar
 
-Staatsgebiet Somalia
+Staatsgebiet Republik Niger
 
-Staatsgebiet Sudan
+Staatsgebiet Bundesrepublik Somalia
 
-Staatsgebiet Südsudan
+Staatsgebiet Republik Sudan
 
-Staatsgebiet Syrien
+Staatsgebiet Republik Südsudan
 
-Staatsgebiet Tschad
+Staatsgebiet Arabische Republik Syrien
 
 Staatsgebiet Ukraine
-
-Staatsgebiet Usbekistan
 
 Westsahara
 
 Staatsgebiet Zentralafrikanische Republik
 
-Staatsgebiet Zypern
+Staatsgebiet Republik Zypern
 
 (zu § 2 Abs. 2 Nr. 2 Buchstabe b)
 
 ## Anlage 4 Empfängerpositivliste
 
-( Fundstelle: BGBl. I 2008, 510 )
+(Fundstelle: BGBl. I 2008, 510)
 
 1.  Sicherheitsbehörden (militärische, nachrichtendienstliche,
     polizeiliche) der NATO, der Europäischen Union oder eines ihrer
@@ -233,8 +256,8 @@ Staatsgebiet Zypern
         anzufragen,
 
 
-    b)  deren Ermächtigung nach Buchstabe a vom Datenanbieter gegenüber dem
-        Bundesamt für Wirtschaft und Ausfuhrkontrolle angezeigt worden ist,
+    b)  deren Ermächtigung nach Buchstabe a vom Datenanbieter gegenüber der
+        zuständigen Behörde angezeigt worden ist,
 
 
     c)  die zusichern, die Datenanfrage innerhalb des Auftrags der jeweiligen

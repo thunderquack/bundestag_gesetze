@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1971, 2065
 
 Neugefasst durch
-:   Bek. v. 19.10.2001 I 2722;
+:   Bek. v. 19.10.2001 I 2722
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.6.2021 I 1369
+:   Art. 1 V v. 17.4.2023 I Nr. 102
 
 
 ## Teil 1 - Anwendungsbereich
@@ -1117,19 +1117,22 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
 (zu § 1 Absatz 3)
 
-### Anlage Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020
+### Anlage Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023
 
-(Fundstelle: BGBl. I 2019, 1883 — 1927)
+(Fundstelle: BGBl. I 2022, 2166 – 2210;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht
 gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese
 Gemeinden.
-Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2016 und
-31\. Dezember 2017 einschließlich der bis zum 31. März 2018 erfolgten
+
+Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2019 und
+31\. Dezember 2020 einschließlich der bis zum 31. März 2021 erfolgten
 rückwirkenden Bewilligungen.
-Relevanter Gebietsstand ist der 31. März 2018, der für die
+
+Relevanter Gebietsstand ist der 31. März 2021, der für die
 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der
-30\. September 2017.
+30\. September 2020.
 
 ## *Land:* **Baden-Württemberg**
 
@@ -1147,11 +1150,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Achern, Stadt
 
     *   II
-
-
-*    *   Aichtal, Stadt
-
-    *   IV
 
 
 *    *   Albstadt, Stadt
@@ -1196,7 +1194,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Friedrichshall, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Bad Krozingen, Stadt
@@ -1226,22 +1224,27 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Schönborn
 
-    *   III
+    *   IV
 
 
 *    *   Bad Urach, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Bad Waldsee, Stadt
 
-    *   III
+    *   II
+
+
+*    *   Bad Wildbad, Stadt
+
+    *   II
 
 
 *    *   Bad Wurzach, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Baden-Baden, Stadt
@@ -1251,17 +1254,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Baiersbronn
 
-    *   I
+    *   II
 
 
 *    *   Balingen, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Besigheim, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Biberach an der Riß, Stadt
@@ -1281,12 +1284,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Blaubeuren, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Blaustein, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Blumberg, Stadt
@@ -1331,12 +1334,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Brühl
 
-    *   IV
+    *   III
 
 
 *    *   Buchen (Odenwald), Stadt
 
-    *   I
+    *   II
 
 
 *    *   Bühl, Stadt
@@ -1351,7 +1354,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Calw, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Crailsheim, Stadt
@@ -1386,12 +1389,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Dossenheim
 
-    *   VI
+    *   V
 
 
 *    *   Durmersheim
 
-    *   III
+    *   IV
 
 
 *    *   Eberbach, Stadt
@@ -1406,7 +1409,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Edingen-Neckarhausen
 
-    *   IV
+    *   III
 
 
 *    *   Eggenstein-Leopoldshafen
@@ -1421,7 +1424,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eislingen/Fils, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Ellwangen (Jagst), Stadt
@@ -1434,14 +1437,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
+*    *   Endingen am Kaiserstuhl, Stadt
+
+    *   III
+
+
 *    *   Engen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Eningen unter Achalm
 
-    *   III
+    *   IV
 
 
 *    *   Eppelheim, Stadt
@@ -1451,7 +1459,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eppingen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Erbach, Stadt
@@ -1486,7 +1494,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Freiberg am Neckar, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Freiburg im Breisgau, Stadt
@@ -1509,6 +1517,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
+*    *   Gärtringen
+
+    *   IV
+
+
 *    *   Gaggenau, Stadt
 
     *   III
@@ -1519,19 +1532,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Gärtringen
-
-    *   V
-
-
 *    *   Geislingen an der Steige, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Gengenbach, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Gerlingen, Stadt
@@ -1546,7 +1554,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gerstetten
 
-    *   II
+    *   I
 
 
 *    *   Giengen an der Brenz, Stadt
@@ -1576,7 +1584,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gundelfingen
 
-    *   VI
+    *   V
 
 
 *    *   Haigerloch, Stadt
@@ -1586,7 +1594,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hechingen, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Heddesheim
@@ -1601,7 +1609,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Heidenheim an der Brenz, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Heilbronn, Stadt
@@ -1611,17 +1619,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hemsbach, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Herbolzheim, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Herbrechtingen, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Herrenberg, Stadt
@@ -1631,7 +1639,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hockenheim, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Holzgerlingen, Stadt
@@ -1671,7 +1679,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kenzingen, Stadt
 
-    *   II
+    *   IV
 
 
 *    *   Kernen im Remstal
@@ -1689,19 +1697,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
-*    *   Köngen
-
-    *   V
-
-
-*    *   Konstanz, Stadt
-
-    *   V
-
-
 *    *   Korb
 
-    *   IV
+    *   V
+
+
+*    *   Königsbach-Stein
+
+    *   II
+
+
+*    *   Konstanz, Universitätsstadt
+
+    *   V
 
 
 *    *   Korntal-Münchingen, Stadt
@@ -1711,32 +1719,32 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kornwestheim, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Kraichtal, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Künzelsau, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Ladenburg, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Lahr/Schwarzwald, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Laichingen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Langenau, Stadt
@@ -1761,7 +1769,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Leimen, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Leinfelden-Echterdingen, Stadt
@@ -1769,7 +1777,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Leingarten
+*    *   Leingarten, Stadt
 
     *   IV
 
@@ -1781,7 +1789,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Leutenbach
 
-    *   III
+    *   IV
 
 
 *    *   Leutkirch im Allgäu, Stadt
@@ -1791,7 +1799,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Linkenheim-Hochstetten
 
-    *   II
+    *   III
 
 
 *    *   Lorch, Stadt
@@ -1801,12 +1809,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lörrach, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Ludwigsburg, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Malsch
@@ -1814,7 +1822,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Mannheim, Stadt
+*    *   Mannheim, Universitätsstadt
 
     *   V
 
@@ -1826,7 +1834,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Markdorf, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Markgröningen, Stadt
@@ -1841,12 +1849,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Meßstetten, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Metzingen, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Möglingen
@@ -1854,14 +1862,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
-*    *   Mosbach, Stadt
-
-    *   III
-
-
 *    *   Mössingen, Stadt
 
     *   IV
+
+
+*    *   Mosbach, Stadt
+
+    *   III
 
 
 *    *   Mühlacker, Stadt
@@ -1891,17 +1899,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neckargemünd, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Neckarsulm, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Neuenburg am Rhein, Stadt
 
-    *   IV
+    *   V
+
+
+*    *   Neuenstadt am Kocher, Stadt
+
+    *   II
 
 
 *    *   Neuhausen auf den Fildern
@@ -1926,7 +1939,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oberderdingen
 
-    *   II
+    *   III
 
 
 *    *   Oberkirch, Stadt
@@ -1936,7 +1949,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oberndorf am Neckar, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Obersulm
@@ -1946,7 +1959,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Öhringen, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Östringen, Stadt
@@ -1961,7 +1974,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oftersheim
 
-    *   III
+    *   IV
 
 
 *    *   Ostfildern, Stadt
@@ -1989,19 +2002,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Philippsburg, Stadt
+*    *   Phillipsburg, Stadt
 
     *   II
 
 
 *    *   Plankstadt
 
-    *   III
+    *   IV
 
 
 *    *   Plochingen, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Radolfzell am Bodensee, Stadt
@@ -2036,7 +2049,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Renningen, Stadt
 
-    *   VI
+    *   V
 
 
 *    *   Reutlingen, Stadt
@@ -2044,14 +2057,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Rheinau, Stadt
-
-    *   I
-
-
 *    *   Rheinfelden (Baden), Stadt
 
     *   IV
+
+
+*    *   Rheinau, Stadt
+
+    *   II
 
 
 *    *   Rheinstetten, Stadt
@@ -2061,7 +2074,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Riedlingen, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Rielasingen-Worblingen
@@ -2104,7 +2117,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Sankt Georgen i. Schwarzw., Stadt
+*    *   St. Georgen i. Schwarzwald, Stadt
 
     *   II
 
@@ -2112,11 +2125,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Sankt Leon-Rot
 
     *   III
-
-
-*    *   Schönaich
-
-    *   IV
 
 
 *    *   Schopfheim, Stadt
@@ -2129,9 +2137,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
+*    *   Schönaich
+
+    *   IV
+
+
 *    *   Schramberg, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Schriesheim, Stadt
@@ -2146,7 +2159,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schwäbisch Hall, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Schwaigern, Stadt
@@ -2161,7 +2174,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schwieberdingen
 
-    *   V
+    *   VI
 
 
 *    *   Sigmaringen, Stadt
@@ -2171,7 +2184,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Sindelfingen, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Singen (Hohentwiel), Stadt
@@ -2186,7 +2199,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Sinzheim
 
-    *   II
+    *   IV
 
 
 *    *   Spaichingen, Stadt
@@ -2194,19 +2207,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Steinen
-
-    *   V
-
-
 *    *   Steinheim an der Murr, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Stockach, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Straubenhardt
@@ -2224,19 +2232,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Sulz am Neckar, Stadt
-
-    *   I
-
-
 *    *   Süßen, Stadt
 
     *   III
 
 
+*    *   Sulz am Neckar, Stadt
+
+    *   II
+
+
 *    *   Tamm
 
-    *   V
+    *   VI
 
 
 *    *   Tauberbischofsheim, Stadt
@@ -2251,7 +2259,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Tettnang, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Titisee-Neustadt, Stadt
@@ -2261,20 +2269,15 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Trossingen, Stadt
 
-    *   III
+    *   IV
 
 
-*    *   Tübingen, Stadt
+*    *   Tübingen, Universitätsstadt
 
     *   VII
 
 
 *    *   Tuttlingen, Stadt
-
-    *   III
-
-
-*    *   Überlingen, Stadt
 
     *   IV
 
@@ -2284,12 +2287,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
+*    *   Überlingen, Stadt
+
+    *   IV
+
+
 *    *   Uhingen, Stadt
 
     *   III
 
 
-*    *   Ulm, Stadt
+*    *   Ulm, Universitätsstadt
 
     *   IV
 
@@ -2306,7 +2314,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Waghäusel, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Waiblingen, Stadt
@@ -2321,7 +2329,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Waldkirch, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Waldshut-Tiengen, Stadt
@@ -2331,7 +2339,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Walldorf, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Walldürn, Stadt
@@ -2346,7 +2354,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wehr, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Weil am Rhein, Stadt
@@ -2361,10 +2369,15 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weilheim an der Teck, Stadt
 
-    *   IV
+    *   III
 
 
-*    *   Weingarten (Baden)
+*    *   Weil im Schönbuch
+
+    *   VI
+
+
+*    *   Weingarten, Baden
 
     *   III
 
@@ -2381,7 +2394,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weinsberg, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Weinstadt, Stadt
@@ -2396,7 +2409,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wendlingen am Neckar, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Wernau (Neckar), Stadt
@@ -2411,7 +2424,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wiesloch, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Wildberg, Stadt
@@ -2438,12 +2451,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Biberach
 
-    *   I
-
-
-*    *   Böblingen
-
-    *   IV
+    *   II
 
 
 *    *   Bodenseekreis
@@ -2451,9 +2459,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
+*    *   Böblingen
+
+    *   V
+
+
 *    *   Breisgau-Hochschwarzwald
 
-    *   III
+    *   IV
 
 
 *    *   Calw
@@ -2468,12 +2481,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Enzkreis
 
-    *   II
+    *   III
 
 
 *    *   Esslingen
 
-    *   III
+    *   IV
 
 
 *    *   Freudenstadt
@@ -2488,12 +2501,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Heidenheim
 
-    *   I
+    *   II
 
 
 *    *   Heilbronn
 
-    *   II
+    *   III
 
 
 *    *   Hohenlohekreis
@@ -2508,7 +2521,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Konstanz
 
-    *   II
+    *   III
 
 
 *    *   Lörrach
@@ -2533,7 +2546,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ortenaukreis
 
-    *   I
+    *   II
 
 
 *    *   Ostalbkreis
@@ -2553,12 +2566,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rems-Murr-Kreis
 
-    *   II
+    *   III
 
 
 *    *   Reutlingen
 
-    *   II
+    *   III
 
 
 *    *   Rhein-Neckar-Kreis
@@ -2593,7 +2606,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Tuttlingen
 
-    *   I
+    *   II
 
 
 *    *   Waldshut
@@ -2617,7 +2630,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Abensberg, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Aichach, Stadt
@@ -2632,7 +2645,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Altdorf bei Nürnberg, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Altötting, Stadt
@@ -2645,7 +2658,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Alzenau, Stadt
+*    *   Alzenau i. Ufr., Stadt
 
     *   II
 
@@ -2657,7 +2670,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ansbach, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Aschaffenburg, Stadt
@@ -2667,7 +2680,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Augsburg, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Bad Abbach, Markt
@@ -2677,12 +2690,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Aibling, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Bad Kissingen, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Bad Neustadt a. d. Saale, Stadt
@@ -2692,7 +2705,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Reichenhall, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Bad Staffelstein, Stadt
@@ -2707,12 +2720,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Windsheim, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Bad Wörishofen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Bamberg, Stadt
@@ -2730,9 +2743,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Bogen, Stadt
+*    *   Bogen
 
-    *   I
+    *   II
 
 
 *    *   Bruckmühl, Markt
@@ -2741,6 +2754,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 *    *   Buchloe, Stadt
+
+    *   IV
+
+
+*    *   Burgau, Stadt
 
     *   II
 
@@ -2752,7 +2770,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Burgkirchen a. d. Alz
 
-    *   II
+    *   I
 
 
 *    *   Burglengenfeld, Stadt
@@ -2762,12 +2780,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Burgthann
 
-    *   I
+    *   III
 
 
 *    *   Cadolzburg, Markt
 
-    *   II
+    *   III
 
 
 *    *   Cham, Stadt
@@ -2792,7 +2810,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Diedorf, Markt
 
-    *   III
+    *   IV
 
 
 *    *   Dießen a. Ammersee, Markt
@@ -2862,7 +2880,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ergolding, Markt
 
-    *   III
+    *   IV
 
 
 *    *   Erlangen, Stadt
@@ -2897,17 +2915,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Forchheim, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Freilassing, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Freising, Stadt
 
-    *   VI
+    *   VII
 
 
 *    *   Friedberg, Stadt
@@ -2932,12 +2950,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gaimersheim, Markt
 
-    *   IV
+    *   V
 
 
 *    *   Garching bei München, Stadt
 
-    *   VI
+    *   VII
 
 
 *    *   Garmisch-Partenkirchen, Markt
@@ -2947,12 +2965,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gauting
 
-    *   VII
+    *   VI
 
 
 *    *   Geisenfeld, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Gemünden am Main, Stadt
@@ -2978,6 +2996,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Gilching
 
     *   VII
+
+
+*    *   Goldbach, Markt
+
+    *   III
 
 
 *    *   Gräfelfing
@@ -3057,15 +3080,25 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hilpoltstein, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Hirschaid, Markt
 
-    *   II
+    *   I
 
 
 *    *   Höchstadt a. d. Aisch, Stadt
+
+    *   III
+
+
+*    *   Höhenkirchen-Siegertsbrunn
+
+    *   VII
+
+
+*    *   Hösbach, Markt
 
     *   II
 
@@ -3075,24 +3108,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Höhenkirchen-Siegertsbrunn
-
-    *   VII
-
-
 *    *   Holzkirchen, Markt
 
-    *   IV
-
-
-*    *   Hösbach, Markt
-
-    *   II
+    *   VI
 
 
 *    *   Illertissen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Immenstadt i. Allgäu, Stadt
@@ -3100,14 +3123,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Ingolstadt, Stadt
+*    *   Ingolstadt
 
-    *   IV
+    *   V
 
 
 *    *   Ismaning
 
-    *   VII
+    *   VI
 
 
 *    *   Karlsfeld
@@ -3117,7 +3140,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Karlstadt, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Kaufbeuren, Stadt
@@ -3127,12 +3150,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kaufering, Markt
 
-    *   III
+    *   IV
 
 
 *    *   Kelheim, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Kempten (Allgäu), Stadt
@@ -3142,12 +3165,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kirchheim bei München
 
-    *   VII
+    *   VI
 
 
 *    *   Kirchseeon, Markt
 
-    *   VII
+    *   VI
 
 
 *    *   Kissing
@@ -3160,12 +3183,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Kolbermoor, Stadt
+*    *   Königsbrunn, Stadt
 
     *   IV
 
 
-*    *   Königsbrunn, Stadt
+*    *   Kolbermoor, Stadt
 
     *   IV
 
@@ -3192,7 +3215,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Landsberg a. Lech, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Landshut, Stadt
@@ -3202,7 +3225,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Langenzenn, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Lappersdorf, Markt
@@ -3217,7 +3240,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lauingen (Donau), Stadt
 
-    *   I
+    *   II
 
 
 *    *   Lenggries
@@ -3247,7 +3270,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Mainburg, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Maisach
@@ -3262,7 +3285,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Markt Indersdorf, Markt
 
-    *   V
+    *   VI
 
 
 *    *   Markt Schwaben, Markt
@@ -3272,12 +3295,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Marktheidenfeld, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Marktoberdorf, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Marktredwitz, Stadt
@@ -3292,7 +3315,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Meitingen, Markt
 
-    *   II
+    *   III
 
 
 *    *   Memmingen, Stadt
@@ -3307,12 +3330,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Miesbach, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Mindelheim, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Mömbris, Markt
@@ -3322,12 +3345,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Moosburg an der Isar, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Mühldorf am Inn, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Münchberg, Stadt
@@ -3335,14 +3358,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   München, Landeshauptstadt
+*    *   München
 
     *   VII
 
 
 *    *   Murnau am Staffelsee, Markt
 
-    *   V
+    *   VI
 
 
 *    *   Neubiberg
@@ -3352,7 +3375,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neuburg an der Donau, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Neufahrn bei Freising
@@ -3360,7 +3383,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VII
 
 
-*    *   Neumarkt i. d. OPf., Stadt
+*    *   Neumarkt i. d. Oberpfalz, Stadt
 
     *   III
 
@@ -3372,7 +3395,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neustadt an der Aisch, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Neustadt an der Donau, Stadt
@@ -3392,7 +3415,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neu-Ulm, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Nördlingen, Stadt
@@ -3407,7 +3430,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oberasbach, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Oberhaching
@@ -3425,9 +3448,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Olching, Stadt
+*    *   Olching
 
-    *   VI
+    *   VII
 
 
 *    *   Osterhofen, Stadt
@@ -3447,7 +3470,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Pegnitz, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Peißenberg, Markt
@@ -3457,7 +3480,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Peiting, Markt
 
-    *   II
+    *   III
 
 
 *    *   Penzberg, Stadt
@@ -3472,7 +3495,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Pfarrkirchen, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Planegg
@@ -3492,7 +3515,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Poing
 
-    *   VII
+    *   VI
 
 
 *    *   Prien am Chiemsee, Markt
@@ -3500,14 +3523,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Puchheim, Stadt
+*    *   Puchheim
 
     *   VII
 
 
 *    *   Raubling
 
-    *   IV
+    *   III
 
 
 *    *   Regen, Stadt
@@ -3525,29 +3548,34 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Rödental, Stadt
-
-    *   I
-
-
 *    *   Roding, Stadt
 
     *   I
 
 
-*    *   Rosenheim, Stadt
+*    *   Rödental, Stadt
 
-    *   V
-
-
-*    *   Roth, Stadt
-
-    *   II
+    *   I
 
 
 *    *   Röthenbach a. d. Pegnitz, Stadt
 
     *   III
+
+
+*    *   Rosenheim
+
+    *   V
+
+
+*    *   Roßtal, Markt
+
+    *   II
+
+
+*    *   Roth, Stadt
+
+    *   II
 
 
 *    *   Rothenburg ob der Tauber, Stadt
@@ -3557,7 +3585,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schongau, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Schrobenhausen, Stadt
@@ -3577,7 +3605,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schwandorf, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Schweinfurt, Stadt
@@ -3595,14 +3623,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
+*    *   Simbach a. Inn, Stadt
+
+    *   I
+
+
 *    *   Sonthofen, Stadt
 
     *   III
 
 
-*    *   Stadtbergen, Stadt
+*    *   Stadtbergen, Markt
 
-    *   III
+    *   IV
 
 
 *    *   Starnberg, Stadt
@@ -3617,7 +3650,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Stephanskirchen
 
-    *   V
+    *   IV
 
 
 *    *   Straubing, Stadt
@@ -3632,17 +3665,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Taufkirchen
 
-    *   III
+    *   II
 
 
 *    *   Taufkirchen (Vils)
 
-    *   III
+    *   V
 
 
 *    *   Traunreut, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Traunstein, Stadt
@@ -3670,7 +3703,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VII
 
 
-*    *   Unterschleißheim, Stadt
+*    *   Unterschleißheim
 
     *   VII
 
@@ -3692,7 +3725,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Vöhringen, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Waldkirchen, Stadt
@@ -3717,7 +3750,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weilheim i. OB, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Weißenburg i. Bayern, Stadt
@@ -3727,7 +3760,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weißenhorn, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Wendelstein, Markt
@@ -3747,7 +3780,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wolnzach, Markt
 
-    *   II
+    *   III
 
 
 *    *   Würzburg, Stadt
@@ -3757,7 +3790,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Zirndorf, Stadt
 
-    *   II
+    *   III
 
 
 
@@ -3769,7 +3802,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Aichach-Friedberg
 
-    *   II
+    *   III
 
 
 *    *   Altötting
@@ -3864,7 +3897,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eichstätt
 
-    *   I
+    *   III
 
 
 *    *   Erding
@@ -3892,14 +3925,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Fürth
+
+    *   II
+
+
 *    *   Fürstenfeldbruck
 
     *   VI
-
-
-*    *   Fürth
-
-    *   III
 
 
 *    *   Garmisch-Partenkirchen
@@ -3909,7 +3942,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Günzburg
 
-    *   II
+    *   I
 
 
 *    *   Haßberge
@@ -3949,7 +3982,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Landshut
 
-    *   I
+    *   II
 
 
 *    *   Lichtenfels
@@ -3989,15 +4022,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neuburg-Schrobenhausen
 
-    *   I
+    *   II
 
 
 *    *   Neumarkt i. d. Oberpfalz
-
-    *   I
-
-
-*    *   Neustadt a. d. Waldnaab
 
     *   I
 
@@ -4007,9 +4035,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Neustadt a. d. Waldnaab
+
+    *   I
+
+
 *    *   Neu-Ulm
 
-    *   II
+    *   III
 
 
 *    *   Nürnberger Land
@@ -4054,12 +4087,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rosenheim
 
-    *   III
+    *   IV
 
 
 *    *   Roth
 
-    *   I
+    *   II
 
 
 *    *   Rottal-Inn
@@ -4079,7 +4112,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Starnberg
 
-    *   VI
+    *   V
 
 
 *    *   Straubing-Bogen
@@ -4112,18 +4145,18 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Wunsiedel im Fichtelgebirge
-
-    *   I
-
-
 *    *   Würzburg
 
     *   II
 
 
+*    *   Wunsiedel im Fichtelgebirge
 
-## *Land*             : **Berlin**
+    *   I
+
+
+
+## *Land:* **Berlin**
 
 
 *    *   Gemeinde
@@ -4137,7 +4170,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Brandenburg**
+## *Land:* **Brandenburg**
 
 
 *    *   Gemeinde
@@ -4145,17 +4178,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Ahrensfelde
-
-    *   III
-
-
-*    *   Angermünde, Stadt
+*    *   Ahrensfelde-Blumberg
 
     *   II
 
 
-*    *   Bad Belzig, Stadt
+*    *   Angermünde, Stadt
 
     *   II
 
@@ -4167,7 +4195,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Beelitz, Stadt
 
-    *   III
+    *   II
+
+
+*    *   Bad Belzig
+
+    *   II
 
 
 *    *   Bernau bei Berlin, Stadt
@@ -4187,12 +4220,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Brieselang
 
-    *   V
+    *   IV
 
 
 *    *   Cottbus, Stadt
 
     *   II
+
+
+*    *   Dallgow-Döberitz
+
+    *   V
 
 
 *    *   Eberswalde, Stadt
@@ -4202,12 +4240,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eisenhüttenstadt, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Erkner, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Falkensee, Stadt
@@ -4242,12 +4280,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Glienicke/Nordbahn
 
-    *   V
+    *   VI
 
 
 *    *   Guben, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Hennigsdorf, Stadt
@@ -4255,7 +4293,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Hohen Neuendorf, Stadt
+*    *   Hohen Neuendorf
 
     *   IV
 
@@ -4272,12 +4310,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kleinmachnow
 
-    *   IV
+    *   V
 
 
 *    *   Kloster Lehnin
 
-    *   II
+    *   III
 
 
 *    *   Königs Wusterhausen, Stadt
@@ -4287,7 +4325,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lauchhammer, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Lübben/Spreewald, Stadt
@@ -4317,7 +4355,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Mühlenbecker Land
 
-    *   IV
+    *   III
 
 
 *    *   Nauen, Stadt
@@ -4327,7 +4365,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neuenhagen bei Berlin
 
-    *   IV
+    *   III
 
 
 *    *   Neuruppin, Stadt
@@ -4360,7 +4398,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Potsdam, Landeshauptstadt
+*    *   Potsdam, Stadt
 
     *   IV
 
@@ -4382,7 +4420,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rathenow, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Rüdersdorf bei Berlin
@@ -4390,14 +4428,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Schönefeld
-
-    *   III
-
-
 *    *   Schöneiche bei Berlin
 
-    *   III
+    *   IV
+
+
+*    *   Schönefeld
+
+    *   IV
+
+
+*    *   Schorfheide
+
+    *   II
 
 
 *    *   Schwedt/Oder, Stadt
@@ -4442,30 +4485,30 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Velten, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Wandlitz
 
-    *   III
+    *   IV
+
+
+*    *   Wittstock/Dosse, Stadt
+
+    *   I
 
 
 *    *   Werder (Havel), Stadt
 
-    *   III
+    *   IV
 
 
-*    *   Wildau, Stadt
+*    *   Wildau
 
     *   IV
 
 
 *    *   Wittenberge, Stadt
-
-    *   I
-
-
-*    *   Wittstock/Dosse, Stadt
 
     *   I
 
@@ -4480,7 +4523,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Zossen, Stadt
+*    *   Zossen
 
     *   II
 
@@ -4519,7 +4562,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oberhavel
 
-    *   II
+    *   I
 
 
 *    *   Oberspreewald-Lausitz
@@ -4529,7 +4572,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oder-Spree
 
-    *   II
+    *   III
 
 
 *    *   Ostprignitz-Ruppin
@@ -4554,7 +4597,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Teltow-Fläming
 
-    *   II
+    *   I
 
 
 *    *   Uckermark
@@ -4563,7 +4606,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Bremen**
+## *Land:* **Bremen**
 
 
 *    *   Gemeinde
@@ -4582,7 +4625,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Hamburg**
+## *Land:* **Hamburg**
 
 
 *    *   Gemeinde
@@ -4590,13 +4633,13 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Hamburg, Stadt
+*    *   Hamburg, Freie und Hansestadt
 
     *   VI
 
 
 
-## *Land*             : **Hessen**
+## *Land:* **Hessen**
 
 
 *    *   Gemeinde
@@ -4611,17 +4654,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Altenstadt
 
-    *   III
+    *   II
 
 
-*    *   Bad Arolsen, Stadt
+*    *   Arolsen, Stadt
 
     *   I
 
 
-*    *   Aßlar, Stadt
+*    *   Asslar, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Babenhausen, Stadt
@@ -4634,39 +4677,44 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Bad Hersfeld, Stadt
+*    *   Bad Hersfeld, Kreisstadt
 
     *   I
 
 
 *    *   Bad Homburg v.d. Höhe, Stadt
 
-    *   VI
+    *   VII
 
 
 *    *   Bad Nauheim, Stadt
 
-    *   IV
+    *   V
 
 
-*    *   Bad Schwalbach, Stadt
+*    *   Bad Orb, Stadt
 
     *   III
 
 
+*    *   Bad Schwalbach, Kreisstadt
+
+    *   IV
+
+
 *    *   Bad Soden am Taunus, Stadt
 
-    *   VII
+    *   VI
 
 
 *    *   Bad Soden-Salmünster, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Bad Vilbel, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Bad Wildungen, Stadt
@@ -4676,7 +4724,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Baunatal, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Bebra, Stadt
@@ -4686,17 +4734,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bensheim, Stadt
 
-    *   III
-
-
-*    *   Biebertal
-
-    *   II
+    *   IV
 
 
 *    *   Biedenkopf, Stadt
 
     *   I
+
+
+*    *   Biebertal
+
+    *   III
 
 
 *    *   Bischofsheim
@@ -4711,7 +4759,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Braunfels, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Bruchköbel, Stadt
@@ -4721,15 +4769,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Büdingen, Stadt
 
-    *   I
-
-
-*    *   Bürstadt, Stadt
-
     *   II
 
 
-*    *   Buseck
+*    *   Bürstadt, Stadt
 
     *   II
 
@@ -4739,9 +4782,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Butzbach, Stadt
+*    *   Buseck
 
     *   II
+
+
+*    *   Butzbach, Stadt
+
+    *   III
 
 
 *    *   Darmstadt, Stadt
@@ -4756,7 +4804,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Dieburg, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Dietzenbach, Stadt
@@ -4771,12 +4819,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Dreieich, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Egelsbach
 
-    *   VI
+    *   IV
 
 
 *    *   Eichenzell
@@ -4794,12 +4842,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
-*    *   Erbach, Stadt
+*    *   Erbach, Kreisstadt
 
     *   III
 
 
-*    *   Erlensee, Stadt
+*    *   Erlensee
 
     *   IV
 
@@ -4809,12 +4857,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Eschenburg
-
-    *   I
-
-
-*    *   Eschwege, Stadt
+*    *   Eschwege, Kreisstadt
 
     *   I
 
@@ -4826,7 +4869,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Flörsheim am Main, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Frankenberg (Eder), Stadt
@@ -4841,7 +4884,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Freigericht
 
-    *   II
+    *   III
 
 
 *    *   Friedberg (Hessen), Stadt
@@ -4851,12 +4894,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Friedrichsdorf, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Fritzlar, Stadt
 
     *   I
+
+
+*    *   Fürth
+
+    *   II
 
 
 *    *   Fulda, Stadt
@@ -4865,11 +4913,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 *    *   Fuldatal
-
-    *   II
-
-
-*    *   Fürth
 
     *   I
 
@@ -4881,20 +4924,20 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gelnhausen, Stadt
 
-    *   III
-
-
-*    *   Gernsheim, Stadt
-
-    *   III
-
-
-*    *   Gießen, Stadt
-
     *   IV
 
 
-*    *   Ginsheim-Gustavsburg, Stadt
+*    *   Gernsheim
+
+    *   III
+
+
+*    *   Giessen, Universitätsstadt
+
+    *   V
+
+
+*    *   Ginsheim-Gustavsburg
 
     *   IV
 
@@ -4916,7 +4959,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Groß-Umstadt, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Groß-Zimmern
@@ -4936,7 +4979,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hadamar, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Haiger, Stadt
@@ -4951,7 +4994,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hanau, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Hattersheim am Main, Stadt
@@ -4959,7 +5002,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Heppenheim (Bergstraße), Stadt
+*    *   Heppenheim (Bergstr.), Stadt
 
     *   III
 
@@ -4976,7 +5019,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Heusenstamm, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Hochheim am Main, Stadt
@@ -4984,9 +5027,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
-*    *   Höchst i. Odw.
+*    *   Höchst i. Odenwald
 
-    *   II
+    *   III
 
 
 *    *   Hofgeismar, Stadt
@@ -5009,17 +5052,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Hungen, Stadt
-
-    *   I
-
-
 *    *   Hünstetten
 
-    *   I
+    *   II
 
 
 *    *   Hüttenberg
+
+    *   II
+
+
+*    *   Hungen, Stadt
 
     *   II
 
@@ -5056,12 +5099,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kirchhain, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Königstein im Taunus, Stadt
 
-    *   V
+    *   VII
 
 
 *    *   Korbach, Stadt
@@ -5071,12 +5114,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kriftel
 
-    *   VI
+    *   V
 
 
 *    *   Kronberg im Taunus, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Künzell
@@ -5086,7 +5129,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lampertheim, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Langen (Hessen), Stadt
@@ -5114,7 +5157,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Limburg a. d. Lahn, Stadt
+*    *   Limburg an der Lahn, Stadt
 
     *   II
 
@@ -5129,14 +5172,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Lollar, Stadt
+*    *   Lollar
 
-    *   II
+    *   III
 
 
 *    *   Lorsch, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Maintal, Stadt
@@ -5146,7 +5189,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Marburg, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Melsungen, Stadt
@@ -5156,17 +5199,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Michelstadt, Stadt
 
-    *   II
-
-
-*    *   Mörlenbach
-
-    *   II
+    *   III
 
 
 *    *   Mörfelden-Walldorf, Stadt
 
     *   V
+
+
+*    *   Moerlenbach
+
+    *   II
 
 
 *    *   Mühlheim am Main, Stadt
@@ -5176,20 +5219,20 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Mühltal
 
-    *   V
+    *   VI
 
 
-*    *   Münster (Hessen)
+*    *   Münster
 
     *   IV
 
 
 *    *   Nauheim
 
-    *   III
+    *   IV
 
 
-*    *   Neu-Anspach, Stadt
+*    *   Neu-Anspach
 
     *   IV
 
@@ -5204,9 +5247,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Nidda, Stadt
+*    *   Neustadt
 
     *   I
+
+
+*    *   Nidda, Stadt
+
+    *   II
 
 
 *    *   Nidderau, Stadt
@@ -5226,12 +5274,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ober-Ramstadt, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Obertshausen, Stadt
 
-    *   IV
+    *   V
 
 
 *    *   Oberursel (Taunus), Stadt
@@ -5239,7 +5287,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   VI
 
 
-*    *   Oberzent, Stadt
+*    *   Oberzent
 
     *   I
 
@@ -5256,7 +5304,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Petersberg
 
-    *   I
+    *   II
 
 
 *    *   Pfungstadt, Stadt
@@ -5271,12 +5319,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Raunheim, Stadt
 
-    *   VI
+    *   VII
 
 
 *    *   Reinheim, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Reiskirchen
@@ -5284,19 +5332,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Riedstadt, Stadt
+*    *   Riedstadt
 
     *   IV
 
 
 *    *   Rodenbach
 
-    *   IV
-
-
-*    *   Rödermark, Stadt
-
-    *   IV
+    *   III
 
 
 *    *   Rodgau, Stadt
@@ -5304,14 +5347,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
+*    *   Rödermark, Stadt
+
+    *   V
+
+
 *    *   Rosbach v. d. Höhe, Stadt
 
-    *   III
-
-
-*    *   Roßdorf
-
     *   IV
+
+
+*    *   Rossdorf
+
+    *   V
 
 
 *    *   Rotenburg a. d. Fulda, Stadt
@@ -5319,7 +5367,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Rüsselsheim am Main, Stadt
+*    *   Rüsselsheim, Stadt
 
     *   V
 
@@ -5346,7 +5394,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schwalbach am Taunus, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Schwalmstadt, Stadt
@@ -5356,17 +5404,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Seeheim-Jugenheim
 
-    *   V
+    *   IV
 
 
 *    *   Seligenstadt, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Solms, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Stadtallendorf, Stadt
@@ -5376,12 +5424,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Steinau an der Straße, Stadt
 
-    *   I
+    *   II
 
 
-*    *   Steinbach (Taunus), Stadt
+*    *   Steinbach (Taunus)
 
-    *   V
+    *   IV
 
 
 *    *   Taunusstein, Stadt
@@ -5391,7 +5439,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Trebur
 
-    *   IV
+    *   V
 
 
 *    *   Usingen, Stadt
@@ -5416,7 +5464,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wald-Michelbach
 
-    *   II
+    *   I
 
 
 *    *   Weilburg, Stadt
@@ -5439,7 +5487,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Wiesbaden, Landeshauptstadt
+*    *   Wiesbaden, Landeshaupstadt
 
     *   VI
 
@@ -5476,14 +5524,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Gießen
+*    *   Giessen
 
     *   II
 
 
 *    *   Groß-Gerau
 
-    *   III
+    *   IV
 
 
 *    *   Hersfeld-Rotenburg
@@ -5518,7 +5566,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Main-Taunus-Kreis
 
-    *   VI
+    *   VII
 
 
 *    *   Marburg-Biedenkopf
@@ -5533,12 +5581,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Offenbach
 
-    *   IV
+    *   III
 
 
 *    *   Rheingau-Taunus-Kreis
 
-    *   II
+    *   III
 
 
 *    *   Schwalm-Eder-Kreis
@@ -5563,11 +5611,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wetteraukreis
 
-    *   I
+    *   II
 
 
 
-## *Land*             : **Mecklenburg-Vorpommern**
+## *Land:* **Mecklenburg-Vorpommern**
 
 
 *    *   Gemeinde
@@ -5597,7 +5645,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Demmin, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Greifswald, Stadt
@@ -5617,12 +5665,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hagenow, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Ludwigslust, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Neubrandenburg, Stadt
@@ -5640,34 +5688,29 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Pasewalk, Stadt
-
-    *   I
-
-
 *    *   Ribnitz-Damgarten, Stadt
 
     *   II
 
 
-*    *   Rostock, Stadt
+*    *   Rostock, Hansestadt
 
-    *   IV
+    *   III
 
 
 *    *   Schwerin, Landeshauptstadt
 
-    *   III
+    *   II
 
 
 *    *   Stralsund, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Waren (Müritz), Stadt
 
-    *   III
+    *   II
 
 
 *    *   Wismar, Stadt
@@ -5677,7 +5720,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wolgast, Stadt
 
-    *   III
+    *   II
 
 
 
@@ -5687,27 +5730,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Landkreis Rostock
-
-    *   II
-
-
-*    *   Ludwigslust-Parchim
-
-    *   I
-
-
 *    *   Mecklenburgische Seenplatte
 
     *   I
 
 
-*    *   Nordwestmecklenburg
-
-    *   II
-
-
-*    *   Vorpommern-Greifswald
+*    *   Landkreis Rostock
 
     *   II
 
@@ -5717,8 +5745,23 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
+*    *   Nordwestmecklenburg
 
-## *Land*             : **Niedersachsen**
+    *   II
+
+
+*    *   Vorpommern-Greifswald
+
+    *   I
+
+
+*    *   Ludwigslust-Parchim
+
+    *   I
+
+
+
+## *Land:* **Niedersachsen**
 
 
 *    *   Gemeinde
@@ -5791,7 +5834,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Bad Nenndorf, Stadt
+*    *   Bad Nenndorf
 
     *   II
 
@@ -5823,12 +5866,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bassum, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Belm
 
-    *   I
+    *   II
 
 
 *    *   Bergen, Stadt
@@ -5853,7 +5896,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bovenden, Flecken
 
-    *   II
+    *   III
 
 
 *    *   Brake (Unterweser), Stadt
@@ -5883,7 +5926,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bückeburg, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Burgdorf, Stadt
@@ -5891,9 +5934,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Burgwedel, Stadt
+*    *   Burgwedel
 
-    *   V
+    *   III
 
 
 *    *   Buxtehude, Stadt
@@ -5906,7 +5949,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Clausthal-Zellerfeld, Stadt
+*    *   Clausthal-Zellerfeld
 
     *   I
 
@@ -5918,7 +5961,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Cremlingen
 
-    *   III
+    *   II
 
 
 *    *   Cuxhaven, Stadt
@@ -5944,6 +5987,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Dinklage, Stadt
 
     *   I
+
+
+*    *   Dissen am Teutoburger Wald
+
+    *   II
 
 
 *    *   Drochtersen
@@ -5993,7 +6041,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Friedland
 
-    *   I
+    *   II
 
 
 *    *   Friesoythe, Stadt
@@ -6041,11 +6089,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Goldenstedt
-
-    *   I
-
-
 *    *   Goslar, Stadt
 
     *   II
@@ -6061,19 +6104,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Großefehn
+*    *   Grossefehn
 
     *   I
 
 
-*    *   Großenkneten
+*    *   Grossenkneten
 
     *   II
-
-
-*    *   Hagen am Teutoburger Wald
-
-    *   I
 
 
 *    *   Hagen im Bremischen
@@ -6081,19 +6119,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Hagen am Teutoburger Wald
+
+    *   I
+
+
 *    *   Hambühren
 
-    *   II
+    *   I
 
 
 *    *   Hameln, Stadt
 
     *   II
-
-
-*    *   Hann. Münden, Stadt
-
-    *   I
 
 
 *    *   Hannover, Landeshauptstadt
@@ -6133,10 +6171,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Helmstedt, Stadt
 
-    *   II
+    *   I
 
 
-*    *   Hemmingen, Stadt
+*    *   Hemmingen
 
     *   IV
 
@@ -6178,27 +6216,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ilsede
 
-    *   I
+    *   II
 
 
 *    *   Isernhagen
 
-    *   IV
+    *   III
 
 
 *    *   Jever, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Jork
 
     *   IV
-
-
-*    *   Kirchlinteln
-
-    *   I
 
 
 *    *   Königslutter am Elm, Stadt
@@ -6228,7 +6261,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Langwedel, Flecken
 
-    *   I
+    *   II
 
 
 *    *   Leer (Ostfriesland), Stadt
@@ -6238,7 +6271,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lehre
 
-    *   II
+    *   III
 
 
 *    *   Lehrte, Stadt
@@ -6263,7 +6296,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lohne (Oldenburg), Stadt
 
-    *   I
+    *   II
 
 
 *    *   Löningen, Stadt
@@ -6278,7 +6311,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lüneburg, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Melle, Stadt
@@ -6296,14 +6329,24 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Hann. Münden, Stadt
+
+    *   I
+
+
 *    *   Munster, Stadt
 
     *   II
 
 
+*    *   Neuenhaus, Stadt
+
+    *   I
+
+
 *    *   Neu Wulmstorf
 
-    *   V
+    *   VI
 
 
 *    *   Neustadt am Rübenberge, Stadt
@@ -6333,7 +6376,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Nordstemmen
 
-    *   I
+    *   II
 
 
 *    *   Northeim, Stadt
@@ -6348,7 +6391,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Osnabrück, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Osterholz-Scharmbeck, Stadt
@@ -6373,7 +6416,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oyten
 
-    *   II
+    *   III
 
 
 *    *   Papenburg, Stadt
@@ -6393,7 +6436,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Quakenbrück, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Rastede
@@ -6418,7 +6461,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ritterhude
 
-    *   II
+    *   III
 
 
 *    *   Ronnenberg, Stadt
@@ -6438,7 +6481,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rotenburg (Wümme), Stadt
 
-    *   III
+    *   II
 
 
 *    *   Salzgitter, Stadt
@@ -6453,7 +6496,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Sassenburg
 
-    *   II
+    *   I
 
 
 *    *   Saterland
@@ -6461,7 +6504,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Scheessel
+*    *   Scheeßel
 
     *   I
 
@@ -6481,7 +6524,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Schortens, Stadt
+*    *   Schortens
 
     *   I
 
@@ -6498,7 +6541,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Seelze, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Seesen, Stadt
@@ -6543,12 +6586,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Stelle
 
-    *   V
+    *   IV
 
 
 *    *   Stuhr
 
-    *   III
+    *   II
 
 
 *    *   Südbrookmerland
@@ -6608,7 +6651,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Vechelde
 
-    *   III
+    *   I
 
 
 *    *   Vechta, Stadt
@@ -6656,7 +6699,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Werlte, Stadt
+*    *   Werlte
 
     *   I
 
@@ -6681,7 +6724,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Wiesmoor, Stadt
+*    *   Wiesmoor
 
     *   I
 
@@ -6726,6 +6769,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
+*    *   Wurster Nordseeküste
+
+    *   I
+
+
 *    *   Wolfsburg, Stadt
 
     *   IV
@@ -6733,12 +6781,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wunstorf, Stadt
 
-    *   II
-
-
-*    *   Wurster Nordseeküste
-
-    *   I
+    *   III
 
 
 *    *   Zetel
@@ -6798,12 +6841,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Goslar
+*    *   Göttingen
 
     *   I
 
 
-*    *   Göttingen
+*    *   Goslar
 
     *   I
 
@@ -6821,11 +6864,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Harburg
 
     *   III
-
-
-*    *   Heidekreis
-
-    *   I
 
 
 *    *   Helmstedt
@@ -6898,6 +6936,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Soltau-Fallingbostel (Heidekreis)
+
+    *   I
+
+
 *    *   Stade
 
     *   II
@@ -6934,7 +6977,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Nordrhein-Westfalen**
+## *Land:* **Nordrhein-Westfalen**
 
 
 *    *   Gemeinde
@@ -6969,7 +7012,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Alpen
 
-    *   II
+    *   III
 
 
 *    *   Alsdorf, Stadt
@@ -6994,7 +7037,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Arnsberg, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Ascheberg
@@ -7005,6 +7048,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 *    *   Attendorn, Stadt
 
     *   II
+
+
+*    *   Augustdorf
+
+    *   I
 
 
 *    *   Bad Berleburg, Stadt
@@ -7074,7 +7122,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bedburg, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Bedburg-Hau
@@ -7119,7 +7167,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Billerbeck, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Blomberg, Stadt
@@ -7189,17 +7237,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bünde, Stadt
 
-    *   II
-
-
-*    *   Burbach
-
-    *   II
+    *   I
 
 
 *    *   Büren, Stadt
 
     *   I
+
+
+*    *   Burbach
+
+    *   II
 
 
 *    *   Burscheid, Stadt
@@ -7244,7 +7292,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Dorsten, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Dortmund, Stadt
@@ -7262,11 +7310,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Duisburg, Stadt
-
-    *   III
-
-
 *    *   Dülmen, Stadt
 
     *   II
@@ -7274,12 +7317,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Düren, Stadt
 
-    *   III
+    *   II
 
 
-*    *   Düsseldorf, Landeshauptstadt
+*    *   Düsseldorf, Stadt
 
     *   VI
+
+
+*    *   Duisburg, Stadt
+
+    *   III
 
 
 *    *   Eitorf
@@ -7287,7 +7335,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Elsdorf, Stadt
+*    *   Elsdorf
 
     *   III
 
@@ -7307,9 +7355,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Enger, Stadt
+*    *   Enger, Widukindstadt
 
-    *   II
+    *   I
 
 
 *    *   Ennepetal, Stadt
@@ -7329,7 +7377,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Erftstadt, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Erkelenz, Stadt
@@ -7359,7 +7407,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Essen, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Euskirchen, Stadt
@@ -7379,7 +7427,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Frechen, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Freudenberg, Stadt
@@ -7387,14 +7435,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Fröndenberg, Stadt
+*    *   Fröndenberg/Ruhr, Stadt
 
     *   II
 
 
 *    *   Gangelt
 
-    *   I
+    *   II
 
 
 *    *   Geilenkirchen, Stadt
@@ -7404,7 +7452,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Geldern, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Gelsenkirchen, Stadt
@@ -7419,12 +7467,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Geseke, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Gevelsberg, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Gladbeck, Stadt
@@ -7437,27 +7485,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Grefrath
-
-    *   III
-
-
-*    *   Greven, Stadt
-
-    *   III
-
-
-*    *   Grevenbroich, Stadt
-
-    *   IV
-
-
-*    *   Gronau (Westfalen), Stadt
+*    *   Grefrath, Sport- und Freizeitgemeinde
 
     *   II
 
 
-*    *   Gummersbach, Stadt
+*    *   Greven, Stadt
+
+    *   II
+
+
+*    *   Grevenbroich, Stadt
+
+    *   III
+
+
+*    *   Gronau (Westfalen), Stadt
 
     *   II
 
@@ -7467,6 +7510,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
+*    *   Gummersbach, Stadt
+
+    *   II
+
+
 *    *   Haan, Stadt
 
     *   IV
@@ -7474,7 +7522,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hagen, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Halle (Westfalen), Stadt
@@ -7554,7 +7602,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Herten, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Herzebrock-Clarholz
@@ -7587,27 +7635,27 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Hörstel, Stadt
+
+    *   I
+
+
+*    *   Hövelhof, Sennegemeinde
+
+    *   I
+
+
+*    *   Höxter, Stadt
+
+    *   I
+
+
 *    *   Holzwickede
 
     *   III
 
 
 *    *   Horn-Bad Meinberg, Stadt
-
-    *   I
-
-
-*    *   Hörstel, Stadt
-
-    *   I
-
-
-*    *   Hövelhof
-
-    *   I
-
-
-*    *   Höxter, Stadt
 
     *   I
 
@@ -7629,7 +7677,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hünxe
 
-    *   III
+    *   II
 
 
 *    *   Hürth, Stadt
@@ -7644,12 +7692,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Iserlohn, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Isselburg, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Issum
@@ -7664,7 +7712,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Jülich, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Kaarst, Stadt
@@ -7707,7 +7755,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Kerpen, Stadt
+*    *   Kerpen, Kolpingstadt
 
     *   IV
 
@@ -7779,7 +7827,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lage, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Langenfeld (Rheinland), Stadt
@@ -7789,7 +7837,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Langerwehe
 
-    *   II
+    *   I
 
 
 *    *   Leichlingen (Rheinland), Stadt
@@ -7804,7 +7852,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lengerich, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Lennestadt, Stadt
@@ -7829,7 +7877,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lindlar
 
-    *   III
+    *   II
 
 
 *    *   Linnich, Stadt
@@ -7847,14 +7895,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Lohmar, Stadt
-
-    *   IV
-
-
 *    *   Löhne, Stadt
 
     *   II
+
+
+*    *   Lohmar, Stadt
+
+    *   IV
 
 
 *    *   Lotte
@@ -7864,7 +7912,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Lübbecke, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Lüdenscheid, Stadt
@@ -7942,11 +7990,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Moers, Stadt
-
-    *   III
-
-
 *    *   Möhnesee
 
     *   I
@@ -7957,14 +8000,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
+*    *   Moers, Stadt
+
+    *   III
+
+
 *    *   Monheim am Rhein, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Monschau, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Morsbach
@@ -7974,7 +8022,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Much
 
-    *   II
+    *   III
 
 
 *    *   Mülheim an der Ruhr, Stadt
@@ -7984,10 +8032,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Münster, Stadt
 
-    *   V
+    *   IV
 
 
-*    *   Netphen, Stadt
+*    *   Netphen
 
     *   II
 
@@ -7999,7 +8047,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neuenkirchen
 
-    *   II
+    *   I
 
 
 *    *   Neuenrade, Stadt
@@ -8027,6 +8075,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
+*    *   Nideggen, Stadt
+
+    *   II
+
+
 *    *   Niederkassel, Stadt
 
     *   IV
@@ -8042,9 +8095,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
+*    *   Nordkirchen
+
+    *   I
+
+
 *    *   Nörvenich
 
-    *   III
+    *   II
 
 
 *    *   Nottuln
@@ -8059,7 +8117,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oberhausen, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Ochtrup, Stadt
@@ -8069,7 +8127,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Odenthal
 
-    *   IV
+    *   III
 
 
 *    *   Oelde, Stadt
@@ -8079,7 +8137,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Oer-Erkenschwick, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Oerlinghausen, Stadt
@@ -8094,7 +8152,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Olpe, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Olsberg, Stadt
@@ -8124,7 +8182,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Plettenberg, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Porta Westfalica, Stadt
@@ -8132,7 +8190,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Preussisch Oldendorf, Stadt
+*    *   Preußisch Oldendorf, Stadt
 
     *   I
 
@@ -8142,14 +8200,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   V
 
 
-*    *   Radevormwald, Stadt
+*    *   Radevormwald, Stadt auf der Höhe
 
     *   III
 
 
 *    *   Raesfeld
 
-    *   II
+    *   I
 
 
 *    *   Rahden, Stadt
@@ -8204,7 +8262,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rheinbach, Stadt
 
-    *   IV
+    *   III
 
 
 *    *   Rheinberg, Stadt
@@ -8219,22 +8277,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rietberg, Stadt
 
-    *   II
+    *   I
+
+
+*    *   Rösrath
+
+    *   V
 
 
 *    *   Rommerskirchen
 
-    *   III
+    *   IV
 
 
 *    *   Rosendahl
 
     *   I
-
-
-*    *   Rösrath, Stadt
-
-    *   V
 
 
 *    *   Ruppichteroth
@@ -8269,7 +8327,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schermbeck
 
-    *   III
+    *   II
 
 
 *    *   Schleiden, Stadt
@@ -8297,7 +8355,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Schwerte, Stadt
+*    *   Schwerte, Hansestadt a. d. Ruhr
 
     *   III
 
@@ -8309,7 +8367,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Selm, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Senden
@@ -8324,10 +8382,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Siegburg, Stadt
 
-    *   V
+    *   IV
 
 
-*    *   Siegen, Stadt
+*    *   Siegen, Universitätsstadt
 
     *   III
 
@@ -8342,9 +8400,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Solingen, Stadt
+*    *   Solingen, Klingenstadt
 
-    *   IV
+    *   III
 
 
 *    *   Spenge, Stadt
@@ -8382,7 +8440,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Stolberg (Rheinland), Stadt
+*    *   Stolberg (Rheinland), Kupferstadt
 
     *   III
 
@@ -8432,12 +8490,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Velen, Stadt
+*    *   Velen
 
     *   I
 
 
-*    *   Verl, Stadt
+*    *   Verl
 
     *   II
 
@@ -8484,10 +8542,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Waltrop, Stadt
 
-    *   III
+    *   II
 
 
-*    *   Warburg, Stadt
+*    *   Warburg, Hansestadt
 
     *   I
 
@@ -8514,7 +8572,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wegberg, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Weilerswist
@@ -8524,7 +8582,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Welver
 
-    *   II
+    *   I
 
 
 *    *   Wenden
@@ -8534,7 +8592,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Werdohl, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Werl, Stadt
@@ -8554,7 +8612,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Werther (Westf.), Stadt
 
-    *   II
+    *   I
 
 
 *    *   Wesel, Stadt
@@ -8599,7 +8657,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Windeck
 
-    *   II
+    *   I
 
 
 *    *   Winterberg, Stadt
@@ -8622,12 +8680,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Wuppertal, Stadt
+*    *   Würselen, Stadt
 
     *   III
 
 
-*    *   Würselen, Stadt
+*    *   Wuppertal, Stadt
 
     *   III
 
@@ -8649,14 +8707,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
+*    *   Städteregion Aachen
+
+    *   II
+
+
 *    *   Borken
 
     *   I
-
-
-*    *   Coesfeld
-
-    *   II
 
 
 *    *   Düren
@@ -8666,7 +8724,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ennepe-Ruhr-Kreis
 
-    *   III
+    *   II
 
 
 *    *   Euskirchen
@@ -8724,11 +8782,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Städteregion Aachen
-
-    *   II
-
-
 *    *   Steinfurt
 
     *   I
@@ -8745,7 +8798,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Rheinland-Pfalz**
+## *Land:* **Rheinland-Pfalz**
 
 
 *    *   Gemeinde
@@ -8800,12 +8853,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bobenheim-Roxheim
 
-    *   III
+    *   II
 
 
 *    *   Böhl-Iggelheim
 
-    *   II
+    *   III
 
 
 *    *   Boppard, Stadt
@@ -8835,17 +8888,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Grünstadt, Stadt
 
-    *   III
+    *   II
 
 
-*    *   Haßloch
+*    *   Hassloch
 
-    *   III
+    *   II
 
 
-*    *   Herxheim bei Landau/Pfalz
+*    *   Herxheim b. Landau/Pfalz
 
-    *   III
+    *   II
 
 
 *    *   Idar-Oberstein, Stadt
@@ -8878,7 +8931,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Landau in der Pfalz, Stadt
+*    *   Landau i. d. Pfalz, Stadt
 
     *   III
 
@@ -8893,7 +8946,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   IV
 
 
-*    *   Mainz, Landeshauptstadt
+*    *   Mainz, Stadt
 
     *   VI
 
@@ -8920,17 +8973,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Mutterstadt
 
-    *   III
+    *   II
 
 
 *    *   Neustadt (a. d. Weinstr.), Stadt
 
-    *   II
+    *   III
 
 
 *    *   Neuwied, Stadt
 
     *   II
+
+
+*    *   Nieder-Olm, Stadt
+
+    *   IV
 
 
 *    *   Pirmasens, Stadt
@@ -8968,12 +9026,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Worms, Stadt
+*    *   Wörth am Rhein, Stadt
 
     *   III
 
 
-*    *   Wörth am Rhein, Stadt
+*    *   Worms, Stadt
 
     *   III
 
@@ -9020,17 +9078,22 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Birkenfeld, Nationalparklandkreis
+*    *   Birkenfeld
 
     *   I
 
 
-*    *   Eifelkreis Bitburg-Prüm
+*    *   Bitburg-Prüm
 
     *   I
 
 
 *    *   Cochem-Zell
+
+    *   I
+
+
+*    *   Vulkaneifel
 
     *   I
 
@@ -9055,6 +9118,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Rhein-Pfalz-Kreis
+
+    *   III
+
+
 *    *   Mainz-Bingen
 
     *   III
@@ -9070,6 +9138,11 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Südwestpfalz
+
+    *   I
+
+
 *    *   Rhein-Hunsrück-Kreis
 
     *   I
@@ -9080,27 +9153,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Rhein-Pfalz-Kreis
-
-    *   III
-
-
 *    *   Südliche Weinstraße
 
     *   II
 
 
-*    *   Südwestpfalz
-
-    *   I
-
-
 *    *   Trier-Saarburg
-
-    *   I
-
-
-*    *   Vulkaneifel
 
     *   I
 
@@ -9111,7 +9169,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Saarland**
+## *Land:* **Saarland**
 
 
 *    *   Gemeinde
@@ -9131,7 +9189,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Blieskastel, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Dillingen/Saar, Stadt
@@ -9144,11 +9202,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Friedrichsthal, Stadt
-
-    *   I
-
-
 *    *   Heusweiler
 
     *   II
@@ -9156,7 +9209,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Homburg, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Illingen
@@ -9166,7 +9219,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Kirkel
 
-    *   IV
+    *   II
 
 
 *    *   Kleinblittersdorf
@@ -9189,12 +9242,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Marpingen
-
-    *   I
-
-
-*    *   Merzig, Stadt
+*    *   Merzig, Kreisstadt
 
     *   II
 
@@ -9206,7 +9254,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Neunkirchen, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Ottweiler, Stadt
@@ -9216,7 +9264,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Püttlingen, Stadt
 
-    *   III
+    *   I
 
 
 *    *   Quierschied
@@ -9226,7 +9274,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Rehlingen-Siersburg
 
-    *   I
+    *   II
 
 
 *    *   Riegelsberg
@@ -9256,7 +9304,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Sankt Wendel, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Schiffweiler
@@ -9306,7 +9354,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wadgassen
 
-    *   I
+    *   II
 
 
 
@@ -9316,17 +9364,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Neunkirchen
-
-    *   II
-
-
 *    *   Merzig-Wadern
 
-    *   II
+    *   I
 
 
-*    *   Regionalverband Saarbrücken
+*    *   Neunkirchen
 
     *   I
 
@@ -9336,7 +9379,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Saarpfalz-Kreis
+*    *   Saar-Pfalz-Kreis
 
     *   I
 
@@ -9346,8 +9389,13 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Regionalverband Saarbrücken
 
-## *Land*             : **Sachsen**
+    *   I
+
+
+
+## *Land:* **Sachsen**
 
 
 *    *   Gemeinde
@@ -9360,7 +9408,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Aue, Stadt
+*    *   Aue-Bad Schlema
 
     *   I
 
@@ -9377,7 +9425,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bautzen, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Bischofswerda, Stadt
@@ -9387,7 +9435,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Borna, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Burgstädt, Stadt
@@ -9397,12 +9445,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Chemnitz, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Coswig, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Crimmitschau, Stadt
@@ -9417,7 +9465,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Dippoldiswalde, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Döbeln, Stadt
@@ -9425,7 +9473,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Dresden, Landeshauptstadt
+*    *   Dresden, Stadt
 
     *   III
 
@@ -9442,10 +9490,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Flöha, Stadt
 
-    *   II
+    *   I
 
 
-*    *   Frankenberg, Stadt
+*    *   Frankenberg/Sachsen, Stadt
 
     *   I
 
@@ -9460,9 +9508,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Frohburg, Stadt
+*    *   Frohburg
 
-    *   II
+    *   I
 
 
 *    *   Glauchau, Stadt
@@ -9477,7 +9525,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Grimma, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Großenhain, Stadt
@@ -9490,24 +9538,24 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Hohenstein-Ernstthal, Stadt
+*    *   Hohenstein-Ernstthal
 
-    *   II
+    *   I
 
 
 *    *   Hoyerswerda, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Kamenz, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Klipphausen
 
-    *   I
+    *   II
 
 
 *    *   Leipzig, Stadt
@@ -9522,7 +9570,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Limbach-Oberfrohna, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Löbau, Stadt
@@ -9557,7 +9605,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Mittweida, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Mülsen
@@ -9565,9 +9613,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Neustadt in Sachsen, Stadt
+*    *   Neustadt i. Sa., Stadt
 
-    *   II
+    *   I
 
 
 *    *   Nossen, Stadt
@@ -9575,12 +9623,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Oelsnitz/Erzgeb., Stadt
+*    *   Oelsnitz/Vogtland, Stadt
 
     *   I
 
 
-*    *   Oelsnitz/Vogtland, Stadt
+*    *   Oelsnitz/Erzgeb., Stadt
 
     *   I
 
@@ -9612,7 +9660,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Radebeul, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Reichenbach/Vogtl., Stadt
@@ -9622,7 +9670,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Riesa, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Schkeuditz, Stadt
@@ -9662,7 +9710,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weißwasser/O.L., Stadt
 
-    *   II
+    *   I
 
 
 *    *   Werdau, Stadt
@@ -9687,7 +9735,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Zwickau, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Zwönitz, Stadt
@@ -9702,42 +9750,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Bautzen
-
-    *   I
-
-
 *    *   Erzgebirgskreis
 
     *   I
 
 
-*    *   Görlitz
-
-    *   I
-
-
-*    *   Leipzig
-
-    *   II
-
-
-*    *   Meißen
-
-    *   I
-
-
 *    *   Mittelsachsen
-
-    *   I
-
-
-*    *   Nordsachsen
-
-    *   I
-
-
-*    *   Sächsische Schweiz-Osterzgebirge
 
     *   I
 
@@ -9752,8 +9770,38 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
+*    *   Bautzen
 
-## *Land*             : **Sachsen-Anhalt**
+    *   I
+
+
+*    *   Görlitz
+
+    *   I
+
+
+*    *   Meißen
+
+    *   I
+
+
+*    *   Sächsische Schweiz - Osterzgebirge
+
+    *   I
+
+
+*    *   Leipzig
+
+    *   I
+
+
+*    *   Nordsachsen
+
+    *   I
+
+
+
+## *Land:* **Sachsen-Anhalt**
 
 
 *    *   Gemeinde
@@ -9768,12 +9816,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Dürrenberg, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Bernburg (Saale), Stadt
 
-    *   II
+    *   III
 
 
 *    *   Bitterfeld-Wolfen, Stadt
@@ -9808,12 +9856,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eisleben, Lutherstadt
 
+    *   III
+
+
+*    *   Gardelegen, Hansestadt
+
     *   II
-
-
-*    *   Gardelegen, Stadt
-
-    *   I
 
 
 *    *   Genthin, Stadt
@@ -9823,7 +9871,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Gommern, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Gräfenhainichen, Stadt
@@ -9838,7 +9886,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Haldensleben, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Halle (Saale), Stadt
@@ -9848,7 +9896,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Hettstedt, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Hohe Börde
@@ -9861,11 +9909,6 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Klötze, Stadt
-
-    *   I
-
-
 *    *   Köthen (Anhalt), Stadt
 
     *   III
@@ -9873,12 +9916,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Landsberg, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Leuna, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Magdeburg, Landeshauptstadt
@@ -9906,14 +9949,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Oberharz am Brocken, Stadt
+*    *   Oberharz am Brocken
 
     *   II
 
 
-*    *   Oebisfelde-Weferlingen, Stadt
+*    *   Oebisfelde-Weferlingen
 
-    *   II
+    *   III
 
 
 *    *   Oschersleben (Bode), Stadt
@@ -9941,19 +9984,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Salzwedel, Stadt
+*    *   Salzwedel, Hansestadt
 
     *   II
 
 
-*    *   Sandersdorf-Brehna, Stadt
+*    *   Sandersdorf-Brehna
 
-    *   II
+    *   III
 
 
 *    *   Sangerhausen, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Schkopau
@@ -9963,7 +10006,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Schönebeck (Elbe), Stadt
 
-    *   II
+    *   III
 
 
 *    *   Staßfurt, Stadt
@@ -9971,19 +10014,19 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Stendal, Stadt
+*    *   Stendal, Hansestadt
 
     *   II
 
 
 *    *   Südliches Anhalt, Stadt
 
-    *   I
+    *   II
 
 
 *    *   Tangerhütte, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Tangermünde, Stadt
@@ -10008,17 +10051,17 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Weißenfels, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Wernigerode, Stadt
 
-    *   II
+    *   III
 
 
 *    *   Wittenberg, Lutherstadt
 
-    *   II
+    *   III
 
 
 *    *   Wolmirstedt, Stadt
@@ -10043,42 +10086,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Altmarkkreis-Salzwedel
-
-    *   I
-
-
 *    *   Anhalt-Bitterfeld
-
-    *   II
-
-
-*    *   Börde
-
-    *   I
-
-
-*    *   Burgenlandkreis
-
-    *   I
-
-
-*    *   Harz
-
-    *   I
-
-
-*    *   Jerichower Land
-
-    *   II
-
-
-*    *   Mansfeld-Südharz
-
-    *   I
-
-
-*    *   Saalekreis
 
     *   II
 
@@ -10088,18 +10096,53 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Stendal
-
-    *   I
-
-
 *    *   Wittenberg
 
+    *   II
+
+
+*    *   Burgenlandkreis
+
+    *   II
+
+
+*    *   Mansfeld-Südharz
+
+    *   II
+
+
+*    *   Saalekreis
+
+    *   II
+
+
+*    *   Börde
+
+    *   II
+
+
+*    *   Jerichower Land
+
+    *   II
+
+
+*    *   Stendal
+
+    *   II
+
+
+*    *   Harz
+
+    *   I
+
+
+*    *   Altmarkkreis-Salzwedel
+
     *   I
 
 
 
-## *Land*             : **Schleswig-Holstein**
+## *Land:* **Schleswig-Holstein**
 
 
 *    *   Gemeinde
@@ -10109,7 +10152,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Ahrensburg, Stadt
 
-    *   VII
+    *   VI
+
+
+*    *   Altenholz
+
+    *   IV
 
 
 *    *   Bad Bramstedt, Stadt
@@ -10124,7 +10172,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bad Schwartau, Stadt
 
-    *   V
+    *   IV
 
 
 *    *   Bad Segeberg, Stadt
@@ -10134,27 +10182,27 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Bargteheide, Stadt
 
-    *   V
+    *   VI
 
 
-*    *   Barmstedt, Stadt
+*    *   Barmstedt
 
     *   IV
 
 
 *    *   Barsbüttel
 
-    *   VII
+    *   VI
 
 
 *    *   Brunsbüttel, Stadt
 
-    *   II
+    *   I
 
 
-*    *   Büdelsdorf, Stadt
+*    *   Büdelsdorf
 
-    *   II
+    *   III
 
 
 *    *   Eckernförde, Stadt
@@ -10169,15 +10217,15 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Eutin, Stadt
 
-    *   IV
-
-
-*    *   Fehmarn, Stadt
-
     *   III
 
 
 *    *   Flensburg, Stadt
+
+    *   III
+
+
+*    *   Fehmarn, Stadt
 
     *   III
 
@@ -10194,7 +10242,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Glückstadt, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Halstenbek
@@ -10204,7 +10252,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Handewitt
 
-    *   I
+    *   II
 
 
 *    *   Harrislee
@@ -10214,7 +10262,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Heide, Stadt
 
-    *   III
+    *   II
 
 
 *    *   Henstedt-Ulzburg
@@ -10277,7 +10325,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
-*    *   Niebüll, Stadt
+*    *   Niebüll
 
     *   II
 
@@ -10294,7 +10342,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Preetz, Stadt
 
-    *   III
+    *   IV
 
 
 *    *   Quickborn, Stadt
@@ -10314,12 +10362,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Reinbek, Stadt
 
-    *   V
+    *   VI
 
 
 *    *   Rellingen
 
-    *   V
+    *   VI
 
 
 *    *   Rendsburg, Stadt
@@ -10342,12 +10390,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   III
 
 
+*    *   Schwentinental
+
+    *   V
+
+
 *    *   Schwarzenbek, Stadt
-
-    *   IV
-
-
-*    *   Schwentinental, Stadt
 
     *   IV
 
@@ -10359,10 +10407,10 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Sylt
 
-    *   VI
+    *   V
 
 
-*    *   Tornesch, Stadt
+*    *   Tornesch
 
     *   V
 
@@ -10379,7 +10427,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Wentorf bei Hamburg
 
-    *   V
+    *   VI
 
 
 
@@ -10396,12 +10444,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Herzogtum Lauenburg
 
-    *   III
+    *   II
 
 
 *    *   Nordfriesland
 
-    *   II
+    *   I
 
 
 *    *   Ostholstein
@@ -10411,7 +10459,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Pinneberg
 
-    *   III
+    *   IV
 
 
 *    *   Plön
@@ -10431,7 +10479,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Segeberg
 
-    *   III
+    *   II
 
 
 *    *   Steinburg
@@ -10445,7 +10493,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 
 
-## *Land*             : **Thüringen**
+## *Land:* **Thüringen**
 
 
 *    *   Gemeinde
@@ -10455,12 +10503,12 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Altenburg, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Apolda, Stadt
 
-    *   II
+    *   I
 
 
 *    *   Arnstadt, Stadt
@@ -10468,14 +10516,24 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Bad Langensalza, Stadt
+*    *   Bad Frankenhausen/Kyff
 
     *   I
 
 
 *    *   Bad Salzungen, Stadt
 
-    *   II
+    *   I
+
+
+*    *   Bad Langensalza, Stadt
+
+    *   I
+
+
+*    *   Bleicherode, Stadt
+
+    *   I
 
 
 *    *   Eisenach, Stadt
@@ -10488,7 +10546,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Erfurt, Landeshauptstadt
+*    *   Erfurt, Stadt
 
     *   III
 
@@ -10525,20 +10583,15 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
 
 *    *   Jena, Stadt
 
-    *   IV
+    *   III
 
 
-*    *   Leinefelde-Worbis, Stadt
+*    *   Leinefelde-Worbis
 
     *   I
 
 
 *    *   Meiningen, Stadt
-
-    *   II
-
-
-*    *   Meuselwitz, Stadt
 
     *   II
 
@@ -10568,9 +10621,14 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Schmalkalden, Stadt
+*    *   Schleusingen, Stadt
 
     *   II
+
+
+*    *   Schmalkalden, Kurort, Stadt
+
+    *   I
 
 
 *    *   Schmölln, Stadt
@@ -10613,7 +10671,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   II
 
 
-*    *   Zeulenroda-Triebes, Stadt
+*    *   Zeulenroda Triebes, Stadt
 
     *   I
 
@@ -10625,12 +10683,32 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   Mietenstufe
 
 
-*    *   Altenburger Land
+*    *   Eichsfeld
 
     *   I
 
 
-*    *   Eichsfeld
+*    *   Nordhausen
+
+    *   I
+
+
+*    *   Wartburgkreis
+
+    *   I
+
+
+*    *   Unstrut-Hainich-Kreis
+
+    *   I
+
+
+*    *   Kyffhäuserkreis
+
+    *   I
+
+
+*    *   Schmalkalden-Meiningen
 
     *   I
 
@@ -10640,7 +10718,7 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Greiz
+*    *   Sömmerda
 
     *   I
 
@@ -10655,39 +10733,9 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Kyffhäuserkreis
-
-    *   I
-
-
-*    *   Nordhausen
-
-    *   I
-
-
-*    *   Saale-Holzland-Kreis
+*    *   Weimarer Land
 
     *   II
-
-
-*    *   Saale-Orla-Kreis
-
-    *   I
-
-
-*    *   Saalfeld-Rudolstadt
-
-    *   II
-
-
-*    *   Schmalkalden-Meiningen
-
-    *   I
-
-
-*    *   Sömmerda
-
-    *   I
 
 
 *    *   Sonneberg
@@ -10695,36 +10743,42 @@ Relevanter Gebietsstand ist der 31. März 2018, der für die
     *   I
 
 
-*    *   Unstrut-Hainich-Kreis
+*    *   Saalfeld-Rudolstadt
 
     *   I
 
 
-*    *   Wartburgkreis
+*    *   Saale-Holzland-Kreis
 
     *   I
 
 
-*    *   Weimarer Land
+*    *   Saale-Orla-Kreis
 
     *   I
 
 
-*    *
-    *
+*    *   Greiz
 
-*    *   Gemeinsame Mietenstufe
+    *   I
 
-    *
 
-*    *
-    *   Mietenstufe
+*    *   Altenburger Land
+
+    *   I
+
+
+
+
+*    *   **Gemeinsame Mietenstufe:**
+
+    *   **Mietenstufe**
 
 
 *    *   Inseln ohne Festlandanschluss
-        (§ 12 Absatz 4a Satz 1 und 2 des Wohngeldgesetzes)
 
     *   V
+
 
 
 

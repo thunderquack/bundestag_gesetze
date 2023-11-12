@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 60
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.4.2016 I 590, 1318
-
-Änderung durch
-:   Art. 2 V v. 12.11.2021 I 4932 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 12.11.2021 I 4932
 
 
 

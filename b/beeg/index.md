@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.01.2015 I 33
 
 Zuletzt geändert durch
-:   Art. 1 G v. 15.2.2021 I 239
+:   Art. 1 G v. 19.12.2022 I 2510
 
 
 ## Abschnitt 1 - Elterngeld
@@ -149,8 +149,8 @@ wenn diese Person
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5
-        des Aufenthaltsgesetzes erteilt,
+        seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des
+        Aufenthaltsgesetzes erteilt,
 
 
 
@@ -305,7 +305,7 @@ aus Erwerbstätigkeit hatte. Abweichend von Satz 2 sind Kalendermonate
 im Sinne des Satzes 2 Nummer 1 bis 4 auf Antrag der berechtigten
 Person zu berücksichtigen. Abweichend von Satz 2 bleiben auf Antrag
 bei der Ermittlung des Einkommens für die Zeit vom 1. März 2020 bis
-zum Ablauf des 31. Dezember 2021 auch solche Kalendermonate
+zum Ablauf des 23. September 2022 auch solche Kalendermonate
 unberücksichtigt, in denen die berechtigte Person aufgrund der
 COVID-19-Pandemie ein geringeres Einkommen aus Erwerbstätigkeit hatte
 und dies glaubhaft machen kann. Satz 2 Nummer 1 gilt in den Fällen des
@@ -1079,7 +1079,9 @@ Elterngeld angerechneten Einnahmen in Höhe des nach § 2 Absatz 1
 berücksichtigten Einkommens aus Erwerbstätigkeit vor der Geburt bis zu
 300 Euro im Monat als Einkommen unberücksichtigt. Soweit die
 berechtigte Person Elterngeld Plus bezieht, verringern sich die
-Beträge nach Satz 2 um die Hälfte.
+Beträge nach Satz 2 um die Hälfte. Abweichend von Satz 2 bleibt
+Mutterschaftsgeld gemäß § 19 des Mutterschutzgesetzes in voller Höhe
+unberücksichtigt.
 
 (6) Die Absätze 1 bis 4 gelten entsprechend, soweit für eine
 Sozialleistung ein Kostenbeitrag erhoben werden kann, der
@@ -1119,8 +1121,11 @@ Ehegattin der berechtigten Person den inländischen Sitz hat.
 (2) Den nach Absatz 1 zuständigen Behörden obliegt auch die Beratung
 zur Elternzeit.
 
-(2) Der Bund trägt die Ausgaben für das Elterngeld und das
-Betreuungsgeld.
+(3) Der Bund trägt die Ausgaben für das Elterngeld. Die damit
+zusammenhängenden Einnahmen sind an den Bund abzuführen. Für die
+Ausgaben und die mit ihnen zusammenhängenden Einnahmen sind die
+Vorschriften über das Haushaltsrecht des Bundes einschließlich der
+Verwaltungsvorschriften anzuwenden.
 
 
 ### § 13 Rechtsweg
@@ -1255,15 +1260,17 @@ Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus
 dringenden betrieblichen Gründen schriftlich ablehnen.
 
 (5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung
-der Arbeitszeit und ihre Verteilung beantragen. Über den Antrag sollen
-sich der Arbeitgeber und der Arbeitnehmer oder die Arbeitnehmerin
-innerhalb von vier Wochen einigen. Der Antrag kann mit der
-schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden
-werden. Unberührt bleibt das Recht, sowohl die vor der Elternzeit
-bestehende Teilzeitarbeit unverändert während der Elternzeit
-fortzusetzen, soweit Absatz 4 beachtet ist, als auch nach der
-Elternzeit zu der Arbeitszeit zurückzukehren, die vor Beginn der
-Elternzeit vereinbart war.
+der Arbeitszeit und ihre Verteilung beantragen. Der Antrag kann mit
+der schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden
+werden. Über den Antrag sollen sich der Arbeitgeber und der
+Arbeitnehmer oder die Arbeitnehmerin innerhalb von vier Wochen
+einigen. Lehnt der Arbeitgeber den Antrag ab, so hat er dies dem
+Arbeitnehmer oder der Arbeitnehmerin innerhalb der Frist nach Satz 3
+mit einer Begründung mitzuteilen. Unberührt bleibt das Recht, sowohl
+die vor der Elternzeit bestehende Teilzeitarbeit unverändert während
+der Elternzeit fortzusetzen, soweit Absatz 4 beachtet ist, als auch
+nach der Elternzeit zu der Arbeitszeit zurückzukehren, die vor Beginn
+der Elternzeit vereinbart war.
 
 (6) Der Arbeitnehmer oder die Arbeitnehmerin kann gegenüber dem
 Arbeitgeber, soweit eine Einigung nach Absatz 5 nicht möglich ist,
@@ -1310,9 +1317,10 @@ Voraussetzungen:
 Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit
 enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll
 im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte
-Verringerung oder Verteilung der Arbeitszeit ablehnen will, muss er
-dies innerhalb der in Satz 5 genannten Frist mit schriftlicher
-Begründung tun. Hat ein Arbeitgeber die Verringerung der Arbeitszeit
+Verringerung oder Verteilung der Arbeitszeit ablehnt, muss die
+Ablehnung innerhalb der in Satz 5 genannten Frist und mit
+schriftlicher Begründung erfolgen. Hat ein Arbeitgeber die
+Verringerung der Arbeitszeit
 
 1.  in einer Elternzeit zwischen der Geburt und dem vollendeten dritten
     Lebensjahr des Kindes nicht spätestens vier Wochen nach Zugang des
@@ -1759,7 +1767,7 @@ Partnerschaftsbonus bereits begonnen, so gelten allein die
 Bestimmungen des Absatzes 3.
 
 (3) Liegt der Bezug des Partnerschaftsbonus ganz oder teilweise vor
-dem Ablauf des 31. Dezember 2021 und kann die berechtigte Person die
+dem Ablauf des 23. September 2022 und kann die berechtigte Person die
 Voraussetzungen des Bezugs aufgrund der COVID-19-Pandemie nicht
 einhalten, gelten die Angaben zur Höhe des Einkommens und zum Umfang
 der Arbeitszeit, die bei der Beantragung des Partnerschaftsbonus
@@ -1791,7 +1799,10 @@ Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29.
 Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des
 Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist
 für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem
-31\. Dezember 2019 beginnen.
+31\. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c
+in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022
+(BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume
+betreffen, die nach dem 31. Mai 2022 beginnen.
 
 (4) § 9 Absatz 2 und § 25 sind auf Kinder anwendbar, die nach dem 31.
 Dezember 2021 geboren oder nach dem 31. Dezember 2021 mit dem Ziel der

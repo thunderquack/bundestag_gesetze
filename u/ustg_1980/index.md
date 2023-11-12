@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 386;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.12.2021 I 5250
-
-Mittelbare änderung durch
-:   Art. 2 G v. 21.12.2021 I 5250 ist berücksichtigt
+:   Art. 2 G v. 19.7.2023 I Nr. 194
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
@@ -305,11 +302,17 @@ den Gegenstand nicht für ihr Unternehmen erwerben:
     berufskonsularische Vertretungen,
 
 
-2.  im Inland ansässige zwischenstaatliche Einrichtungen oder
+2.  im Inland ansässige zwischenstaatliche Einrichtungen,
 
 
 3.  im Inland stationierte Streitkräfte anderer Vertragsparteien des
-    Nordatlantikvertrags.
+    Nordatlantikvertrags oder
+
+
+4.  im Inland stationierte Streitkräfte anderer Mitgliedstaaten, die an
+    einer Verteidigungsanstrengung teilnehmen, die zur Durchführung einer
+    Tätigkeit der Union im Rahmen der Gemeinsamen Sicherheits- und
+    Verteidigungspolitik unternommen wird.
 
 
 
@@ -328,11 +331,12 @@ diese Streitkräfte nicht der Besteuerung unterlegen hat.
 ### § 2 Unternehmer, Unternehmen
 
 (1) Unternehmer ist, wer eine gewerbliche oder berufliche Tätigkeit
-selbständig ausübt. Das Unternehmen umfasst die gesamte gewerbliche
-oder berufliche Tätigkeit des Unternehmers. Gewerblich oder beruflich
-ist jede nachhaltige Tätigkeit zur Erzielung von Einnahmen, auch wenn
-die Absicht, Gewinn zu erzielen, fehlt oder eine Personenvereinigung
-nur gegenüber ihren Mitgliedern tätig wird.
+selbstständig ausübt, unabhängig davon, ob er nach anderen
+Vorschriften rechtsfähig ist. Das Unternehmen umfasst die gesamte
+gewerbliche oder berufliche Tätigkeit des Unternehmers. Gewerblich
+oder beruflich ist jede nachhaltige Tätigkeit zur Erzielung von
+Einnahmen, auch wenn die Absicht, Gewinn zu erzielen, fehlt oder eine
+Personenvereinigung nur gegenüber ihren Mitgliedern tätig wird.
 
 (2) Die gewerbliche oder berufliche Tätigkeit wird nicht selbständig
 ausgeübt,
@@ -1232,7 +1236,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         der Unternehmer seiner Pflicht zur Abgabe der Zusammenfassenden
         Meldung (§ 18a) nicht nachgekommen ist oder soweit er diese im
         Hinblick auf die jeweilige Lieferung unrichtig oder unvollständig
-        abgegeben hat. § 18a Absatz 10 bleibt unberührt;
+        abgegeben hat;
 
 
 
@@ -1423,29 +1427,49 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
     c)  an die in dem Gebiet eines anderen Mitgliedstaates ansässigen
         ständigen diplomatischen Missionen und berufskonsularischen
-        Vertretungen sowie deren Mitglieder und
+        Vertretungen sowie deren Mitglieder,
 
 
     d)  an die in dem Gebiet eines anderen Mitgliedstaates ansässigen
-        zwischenstaatlichen Einrichtungen sowie deren Mitglieder.
+        zwischenstaatlichen Einrichtungen sowie deren Mitglieder,
+
+
+    e)  an Streitkräfte eines anderen Mitgliedstaates, wenn die Umsätze für
+        den Gebrauch oder Verbrauch durch die Streitkräfte, ihres zivilen
+        Begleitpersonals oder für die Versorgung ihrer Kasinos oder Kantinen
+        bestimmt sind und die Streitkräfte an einer Verteidigungsanstrengung
+        teilnehmen, die zur Durchführung einer Tätigkeit der Union im Rahmen
+        der Gemeinsamen Sicherheits-und Verteidigungspolitik unternommen wird
+        und
+
+
+    f)  an die in dem Gebiet eines anderen Mitgliedstaates stationierten
+        Streitkräfte eines Mitgliedstaates, wenn die Umsätze nicht an die
+        Streitkräfte des anderen Mitgliedstaates ausgeführt werden, die
+        Umsätze für den Gebrauch oder Verbrauch durch die Streitkräfte, ihres
+        zivilen Begleitpersonals oder für die Versorgung ihrer Kasinos oder
+        Kantinen bestimmt sind und die Streitkräfte an einer
+        Verteidigungsanstrengung teilnehmen, die zur Durchführung einer
+        Tätigkeit der Union im Rahmen der Gemeinsamen Sicherheits- und
+        Verteidigungspolitik unternommen wird.
 
 
 
 
     Der Gegenstand der Lieferung muss in den Fällen des Satzes 1 Buchstabe
-    b bis d in das Gebiet des anderen Mitgliedstaates befördert oder
+    b bis d und f in das Gebiet des anderen Mitgliedstaates befördert oder
     versendet werden. Für die Steuerbefreiungen nach Satz 1 Buchstabe b
-    bis d sind die in dem anderen Mitgliedstaat geltenden Voraussetzungen
-    maßgebend. Die Voraussetzungen der Steuerbefreiungen müssen vom
-    Unternehmer nachgewiesen sein. Bei den Steuerbefreiungen nach Satz 1
-    Buchstabe b bis d hat der Unternehmer die in dem anderen Mitgliedstaat
-    geltenden Voraussetzungen dadurch nachzuweisen, dass ihm der Abnehmer
-    eine von der zuständigen Behörde des anderen Mitgliedstaates oder,
-    wenn er hierzu ermächtigt ist, eine selbst ausgestellte Bescheinigung
-    nach amtlich vorgeschriebenem Muster aushändigt. Das Bundesministerium
-    der Finanzen kann mit Zustimmung des Bundesrates durch
-    Rechtsverordnung bestimmen, wie der Unternehmer die übrigen
-    Voraussetzungen nachzuweisen hat;
+    bis d und f sind die in dem anderen Mitgliedstaat geltenden
+    Voraussetzungen maßgebend. Die Voraussetzungen der Steuerbefreiungen
+    müssen vom Unternehmer nachgewiesen sein. Bei den Steuerbefreiungen
+    nach Satz 1 Buchstabe b bis d und f hat der Unternehmer die in dem
+    anderen Mitgliedstaat geltenden Voraussetzungen dadurch nachzuweisen,
+    dass ihm der Abnehmer eine von der zuständigen Behörde des anderen
+    Mitgliedstaates oder, wenn er hierzu ermächtigt ist, eine selbst
+    ausgestellte Bescheinigung nach amtlich vorgeschriebenem Muster
+    aushändigt. Das Bundesministerium der Finanzen kann mit Zustimmung des
+    Bundesrates durch Rechtsverordnung bestimmen, wie der Unternehmer die
+    übrigen Voraussetzungen nachzuweisen hat;
 
 
 8.
@@ -1862,10 +1886,10 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         Frühförderstellen anerkannt sind,
 
 
-    k)  Einrichtungen, die als Betreuer nach § 1896 Absatz 1 des Bürgerlichen
+    k)  Einrichtungen, die als Betreuer nach § 1814 Absatz 1 des Bürgerlichen
         Gesetzbuchs bestellt worden sind, sofern es sich nicht um Leistungen
-        handelt, die nach § 1908i Absatz 1 in Verbindung mit § 1835 Absatz 3
-        des Bürgerlichen Gesetzbuchs vergütet werden,
+        handelt, die nach § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs
+        vergütet werden,
 
 
     l)  Einrichtungen, mit denen eine Vereinbarung zur Pflegeberatung nach §
@@ -1954,19 +1978,19 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 20.
-    a)  die Umsätze folgender Einrichtungen des Bundes, der Länder, der
-        Gemeinden oder der Gemeindeverbände: Theater, Orchester,
-        Kammermusikensembles, Chöre, Museen, botanische Gärten, zoologische
-        Gärten, Tierparks, Archive, Büchereien sowie Denkmäler der Bau- und
-        Gartenbaukunst. Das Gleiche gilt für die Umsätze gleichartiger
-        Einrichtungen anderer Unternehmer, wenn die zuständige Landesbehörde
-        bescheinigt, dass sie die gleichen kulturellen Aufgaben wie die in
-        Satz 1 bezeichneten Einrichtungen erfüllen. Steuerfrei sind auch die
-        Umsätze von Bühnenregisseuren und Bühnenchoreographen an Einrichtungen
-        im Sinne der Sätze 1 und 2, wenn die zuständige Landesbehörde
-        bescheinigt, dass deren künstlerische Leistungen diesen Einrichtungen
-        unmittelbar dienen. Museen im Sinne dieser Vorschrift sind
-        wissenschaftliche Sammlungen und Kunstsammlungen,
+    a)  die Umsätze folgender Einrichtungen juristischer Personen des
+        öffentlichen Rechts: Theater, Orchester, Kammermusikensembles, Chöre,
+        Museen, botanische Gärten, zoologische Gärten, Tierparks, Archive,
+        Büchereien sowie Denkmäler der Bau- und Gartenbaukunst. Das Gleiche
+        gilt für die Umsätze gleichartiger Einrichtungen anderer Unternehmer,
+        wenn die zuständige Landesbehörde bescheinigt, dass sie die gleichen
+        kulturellen Aufgaben wie die in Satz 1 bezeichneten Einrichtungen
+        erfüllen. Steuerfrei sind auch die Umsätze von Bühnenregisseuren und
+        Bühnenchoreographen an Einrichtungen im Sinne der Sätze 1 und 2, wenn
+        die zuständige Landesbehörde bescheinigt, dass deren künstlerische
+        Leistungen diesen Einrichtungen unmittelbar dienen. Museen im Sinne
+        dieser Vorschrift sind wissenschaftliche Sammlungen und
+        Kunstsammlungen,
 
 
     b)  die Veranstaltung von Theatervorführungen und Konzerten durch andere
@@ -2155,8 +2179,8 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
     c)  Leistungen, die von Einrichtungen erbracht werden, die als Vormünder
         nach § 1773 des Bürgerlichen Gesetzbuchs oder als Ergänzungspfleger
-        nach § 1909 des Bürgerlichen Gesetzbuchs bestellt worden sind, sofern
-        es sich nicht um Leistungen handelt, die nach § 1835 Absatz 3 des
+        nach § 1809 des Bürgerlichen Gesetzbuchs bestellt worden sind, sofern
+        es sich nicht um Leistungen handelt, die nach § 1877 Absatz 3 des
         Bürgerlichen Gesetzbuchs vergütet werden,
 
 
@@ -2270,9 +2294,10 @@ folgenden Voraussetzungen erfüllt sind:
 
 
 
-Der Antrag ist nach amtlich vorgeschriebenem Vordruck zu stellen, in
-dem der Antragsteller die zu gewährende Vergütung selbst zu berechnen
-hat.
+Der Antrag, in dem der Antragsteller die zu gewährende Vergütung
+selbst zu berechnen hat, ist nach amtlich vorgeschriebenem Vordruck
+oder amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
+stellen.
 
 (2) Das Bundesministerium der Finanzen kann mit Zustimmung des
 Bundesrates durch Rechtsverordnung näher bestimmen,
@@ -2465,6 +2490,14 @@ innerhalb eines Monats anzuzeigen.
     zuständigen Hauptzollamt innerhalb eines Monats anzuzeigen. In diesem
     Fall wird die Einfuhrumsatzsteuer nach den im Zeitpunkt des Wegfalls
     geltenden Bestimmungen festgesetzt.
+
+
+10. von Gegenständen durch die Streitkräfte anderer Mitgliedstaaten für
+    den eigenen Gebrauch oder Verbrauch oder für den ihres zivilen
+    Begleitpersonals oder für die Versorgung ihrer Kasinos oder Kantinen,
+    wenn diese Streitkräfte an einer Verteidigungsanstrengung teilnehmen,
+    die zur Durchführung einer Tätigkeit der Union im Rahmen der
+    Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird.
 
 
 
@@ -3284,7 +3317,7 @@ Umsätze:
     Zeitschriften oder Teile von diesen enthalten;
 
 
-15. die nach dem 30. Juni 2020 und vor dem 1. Januar 2023 erbrachten
+15. die nach dem 30. Juni 2020 und vor dem 1. Januar 2024 erbrachten
     Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der Abgabe
     von Getränken.
 
@@ -3316,6 +3349,36 @@ Umsätze:
 
 
 
+
+
+
+
+(3) Die Steuer ermäßigt sich auf 0 Prozent für die folgenden Umsätze:
+
+1.  die Lieferungen von Solarmodulen an den Betreiber einer
+    Photovoltaikanlage, einschließlich der für den Betrieb einer
+    Photovoltaikanlage wesentlichen Komponenten und der Speicher, die dazu
+    dienen, den mit Solarmodulen erzeugten Strom zu speichern, wenn die
+    Photovoltaikanlage auf oder in der Nähe von Privatwohnungen, Wohnungen
+    sowie öffentlichen und anderen Gebäuden, die für dem Gemeinwohl
+    dienende Tätigkeiten genutzt werden, installiert wird. Die
+    Voraussetzungen des Satzes 1 gelten als erfüllt, wenn die installierte
+    Bruttoleistung der Photovoltaikanlage laut Marktstammdatenregister
+    nicht mehr als 30 Kilowatt (peak) beträgt oder betragen wird;
+
+
+2.  den innergemeinschaftlichen Erwerb der in Nummer 1 bezeichneten
+    Gegenstände, die die Voraussetzungen der Nummer 1 erfüllen;
+
+
+3.  die Einfuhr der in Nummer 1 bezeichneten Gegenstände, die die
+    Voraussetzungen der Nummer 1 erfüllen;
+
+
+4.  die Installation von Photovoltaikanlagen sowie der Speicher, die dazu
+    dienen, den mit Solarmodulen erzeugten Strom zu speichern, wenn die
+    Lieferung der installierten Komponenten die Voraussetzungen der Nummer
+    1 erfüllt.
 
 
 
@@ -3516,7 +3579,9 @@ Ausführung der Leistung folgenden Kalendermonats:
     Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer
     20 des Projekt-Mechanismen-Gesetzes, zertifizierten
     Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-
-    Gesetzes sowie Gas- und Elektrizitätszertifikaten;
+    Gesetzes, Emissionszertifikaten nach § 3 Nummer 2 des
+    Brennstoffemissionshandelsgesetzes sowie von Gas- und
+    Elektrizitätszertifikaten;
 
 
 7.  Lieferungen der in der Anlage 3 bezeichneten Gegenstände;
@@ -4370,7 +4435,7 @@ Verwendung im Sinne des § 15 Absatz 1b vor.
 auch beim Übergang von der allgemeinen Besteuerung zur Nichterhebung
 der Steuer nach § 19 Abs. 1 und umgekehrt und beim Übergang von der
 allgemeinen Besteuerung zur Durchschnittssatzbesteuerung nach den §§
-23, 23a oder 24 und umgekehrt gegeben.
+23a oder 24 und umgekehrt gegeben.
 
 (8) Eine Änderung der Verhältnisse liegt auch vor, wenn das noch
 verwendungsfähige Wirtschaftsgut, das nicht nur einmalig zur
@@ -4625,7 +4690,7 @@ Unternehmer wirtschaftlich begünstigt wird.
 
 (3) Ist Einfuhrumsatzsteuer, die als Vorsteuer abgezogen worden ist,
 herabgesetzt, erlassen oder erstattet worden, so hat der Unternehmer
-den Vorsteuerabzug entsprechend zu berichtigen. Absatz 1 Satz 7 gilt
+den Vorsteuerabzug entsprechend zu berichtigen. Absatz 1 Satz 8 gilt
 sinngemäß.
 
 (4) Werden die Entgelte für unterschiedlich besteuerte Lieferungen
@@ -4836,14 +4901,14 @@ der untergeordneten Organisationseinheit wahrnehmen oder mehrere
 Organisationseinheiten zu einer Organisationseinheit
 zusammenschließen. Die in § 1a Absatz 3 Nummer 2, § 2b Absatz 2 Nummer
 1, § 3a Absatz 5 Satz 3, § 3c Absatz 4 Satz 1, § 18 Absatz 2 Satz 2, §
-18a Absatz 1 Satz 2, § 19 Absatz 1 und § 20 Absatz 1 Satz 1 Nummer 1
-genannten Betragsgrenzen gelten für Organisationseinheiten stets als
-überschritten. Wahlrechte, deren Rechtsfolgen das gesamte Unternehmen
-der Gebietskörperschaft erfassen, können nur einheitlich ausgeübt
-werden. Die Gebietskörperschaft kann gegenüber dem für sie zuständigen
-Finanzamt mit Wirkung für die Zukunft erklären, dass die Sätze 1 bis 5
-nicht zur Anwendung kommen sollen; ein Widerruf ist nur mit Wirkung
-für die Zukunft möglich.
+18a Absatz 1 Satz 2, § 19 Absatz 1, § 20 Satz 1 Nummer 1 und § 24
+Absatz 1 Satz 1 genannten Betragsgrenzen gelten für
+Organisationseinheiten stets als überschritten. Wahlrechte, deren
+Rechtsfolgen das gesamte Unternehmen der Gebietskörperschaft erfassen,
+können nur einheitlich ausgeübt werden. Die Gebietskörperschaft kann
+gegenüber dem für sie zuständigen Finanzamt mit Wirkung für die
+Zukunft erklären, dass die Sätze 1 bis 5 nicht zur Anwendung kommen
+sollen; ein Widerruf ist nur mit Wirkung für die Zukunft möglich.
 
 (4g) Die oberste Landesfinanzbehörde oder die von ihr beauftragte
 Landesfinanzbehörde kann anordnen, dass eine andere als die nach § 21
@@ -4893,17 +4958,18 @@ abweichend von den Absätzen 1 bis 4 wie folgt zu verfahren:
 
 
 
-(5a) In den Fällen der Fahrzeugeinzelbesteuerung (§ 16 Abs. 5a) hat
+(5a) In den Fällen der Fahrzeugeinzelbesteuerung (§ 16 Absatz 5a) hat
 der Erwerber, abweichend von den Absätzen 1 bis 4, spätestens bis zum
 10\. Tag nach Ablauf des Tages, an dem die Steuer entstanden ist, eine
-Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben, in
-der er die zu entrichtende Steuer selbst zu berechnen hat
-(Steueranmeldung). Die Steueranmeldung muss vom Erwerber eigenhändig
-unterschrieben sein. Gibt der Erwerber die Steueranmeldung nicht ab
-oder hat er die Steuer nicht richtig berechnet, so kann das Finanzamt
-die Steuer festsetzen. Die Steuer ist am zehnten Tag nach Ablauf des
-Tages fällig, an dem sie entstanden ist, und ist bis dahin vom
-Erwerber zu entrichten.
+Steuererklärung, in der er die zu entrichtende Steuer selbst zu
+berechnen hat, nach amtlich vorgeschriebenem Datensatz durch
+Datenfernübertragung zu übermitteln oder nach amtlich vorgeschriebenem
+Vordruck abzugeben (Steueranmeldung). Bei Verwendung des Vordrucks
+muss dieser vom Erwerber eigenhändig unterschrieben sein. Gibt der
+Erwerber die Steueranmeldung nicht ab oder hat er die Steuer nicht
+richtig berechnet, so kann die Finanzbehörde die Steuer festsetzen.
+Die Steuer ist am zehnten Tag nach Ablauf des Tages fällig, an dem sie
+entstanden ist, und ist bis dahin vom Erwerber zu entrichten.
 
 (5b) In den Fällen des § 16 Abs. 5b ist das Besteuerungsverfahren nach
 den Absätzen 3 und 4 durchzuführen. Die bei der
@@ -4958,13 +5024,20 @@ auch angeordnet werden,
 
 
 
-Sind die durch die Rechtsverordnung nach den Sätzen 1 und 2 geregelten
-Voraussetzungen des besonderen Verfahrens erfüllt und schuldet der im
-Ausland ansässige Unternehmer ausschließlich Steuer nach § 13a Absatz
-1 Nummer 1 in Verbindung mit § 14c Absatz 1 oder § 13a Absatz 1 Nummer
-4, kann die Vergütung der Vorsteuerbeträge nur in dem besonderen
-Verfahren durchgeführt werden. Einem Unternehmer, der im
-Gemeinschaftsgebiet ansässig ist und Umsätze ausführt, die zum Teil
+Von der Vergütung ausgeschlossen sind in Rechnung gestellte
+Steuerbeträge für Ausfuhrlieferungen, bei denen die Gegenstände vom
+Abnehmer oder von einem von ihm beauftragten Dritten befördert oder
+versendet wurden, die nach § 4 Nummer 1 Buchstabe a in Verbindung mit
+§ 6 steuerfrei sind, oder für innergemeinschaftliche Lieferungen, die
+nach § 4 Nummer 1 Buchstabe b in Verbindung mit § 6a steuerfrei sind
+oder in Bezug auf § 6a Absatz 1 Satz 1 Nummer 4 steuerfrei sein
+können. Sind die durch die Rechtsverordnung nach den Sätzen 1 und 2
+geregelten Voraussetzungen des besonderen Verfahrens erfüllt und
+schuldet der im Ausland ansässige Unternehmer ausschließlich Steuer
+nach § 13a Absatz 1 Nummer 1 in Verbindung mit § 14c Absatz 1 oder §
+13a Absatz 1 Nummer 4, kann die Vergütung der Vorsteuerbeträge nur in
+dem besonderen Verfahren durchgeführt werden. Einem Unternehmer, der
+im Gemeinschaftsgebiet ansässig ist und Umsätze ausführt, die zum Teil
 den Vorsteuerabzug ausschließen, wird die Vorsteuer höchstens in der
 Höhe vergütet, in der er in dem Mitgliedstaat, in dem er ansässig ist,
 bei Anwendung eines Pro-rata-Satzes zum Vorsteuerabzug berechtigt
@@ -4974,7 +5047,7 @@ Unternehmer seinen Sitz hat, keine Umsatzsteuer oder ähnliche Steuer
 erhoben oder im Fall der Erhebung im Inland ansässigen Unternehmern
 vergütet wird. Von der Vergütung ausgeschlossen sind bei Unternehmern,
 die nicht im Gemeinschaftsgebiet ansässig sind, die Vorsteuerbeträge,
-die auf den Bezug von Kraftstoffen entfallen. Die Sätze 5 und 6 gelten
+die auf den Bezug von Kraftstoffen entfallen. Die Sätze 6 und 7 gelten
 nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind,
 soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) vor dem 1.
 Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im
@@ -4982,7 +5055,7 @@ Gemeinschaftsgebiet erbracht und für diese Umsätze von § 18 Absatz 4c
 Gebrauch gemacht haben oder diese Umsätze in einem anderen
 Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet
 haben; Voraussetzung ist, dass die Vorsteuerbeträge im Zusammenhang
-mit Umsätzen nach § 3a Absatz 5 stehen. Die Sätze 5 und 6 gelten auch
+mit Umsätzen nach § 3a Absatz 5 stehen. Die Sätze 6 und 7 gelten auch
 nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind,
 soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) nach dem 30.
 Juni 2021 als Steuerschuldner Lieferungen nach § 3 Absatz 3a Satz 1
@@ -5561,7 +5634,14 @@ sondern in einem anderen Mitgliedstaat ansässige Steuerpflichtige
 hat diesen Antrag nach amtlich vorgeschriebenem Datensatz durch
 Datenfernübertragung dem Bundeszentralamt für Steuern zu übermitteln.
 In diesem hat er die Steuer für den Vergütungszeitraum selbst zu
-berechnen. § 18 Absatz 4f ist entsprechend anzuwenden.
+berechnen. § 18 Absatz 4f ist entsprechend anzuwenden. Leitet das
+Bundeszentralamt für Steuern den Antrag nicht an den Mitgliedstaat der
+Erstattung weiter, ist der Bescheid über die Ablehnung dem
+Antragsteller durch Bereitstellung zum Datenabruf nach § 122a in
+Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu geben. Hat
+der Empfänger des Bescheids der Bekanntgabe durch Bereitstellung zum
+Datenabruf nach Satz 4 nicht zugestimmt, ist der Bescheid schriftlich
+zu erteilen.
 
 
 ### § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
@@ -6084,7 +6164,13 @@ Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
 3.  soweit er Umsätze aus einer Tätigkeit als Angehöriger eines freien
     Berufs im Sinne des § 18 Abs. 1 Nr. 1 des Einkommensteuergesetzes
-    ausführt,
+    ausführt, oder
+
+
+4.  der eine juristische Person des öffentlichen Rechts ist, soweit er
+    nicht freiwillig Bücher führt und auf Grund jährlicher
+    Bestandsaufnahmen regelmäßig Abschlüsse macht oder hierzu gesetzlich
+    verpflichtet ist,
 
 
 
@@ -6731,39 +6817,7 @@ Datenübermittlungsverfahren nach Absatz 4 Satz 1 zu erlassen.
 
 
 
-### § 23 Allgemeine Durchschnittsätze
-
-(1) Das Bundesministerium der Finanzen kann mit Zustimmung des
-Bundesrates zur Vereinfachung des Besteuerungsverfahrens für Gruppen
-von Unternehmern, bei denen hinsichtlich der Besteuerungsgrundlagen
-annähernd gleiche Verhältnisse vorliegen und die nicht verpflichtet
-sind, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen
-regelmäßig Abschlüsse zu machen, durch Rechtsverordnung
-Durchschnittsätze festsetzen für
-
-1.  die nach § 15 abziehbaren Vorsteuerbeträge oder die Grundlagen ihrer
-    Berechnung oder
-
-
-2.  die zu entrichtende Steuer oder die Grundlagen ihrer Berechnung.
-
-
-
-
-(2) Die Durchschnittsätze müssen zu einer Steuer führen, die nicht
-wesentlich von dem Betrag abweicht, der sich nach diesem Gesetz ohne
-Anwendung der Durchschnittssätze ergeben würde.
-
-(3) Der Unternehmer, bei dem die Voraussetzungen für eine Besteuerung
-nach Durchschnittssätzen im Sinne des Absatzes 1 gegeben sind, kann
-beim Finanzamt bis zur Unanfechtbarkeit der Steuerfestsetzung (§ 18
-Abs. 3 und 4) beantragen, nach den festgesetzten Durchschnittssätzen
-besteuert zu werden. Der Antrag kann nur mit Wirkung vom Beginn eines
-Kalenderjahres an widerrufen werden. Der Widerruf ist spätestens bis
-zur Unanfechtbarkeit der Steuerfestsetzung des Kalenderjahres, für das
-er gelten soll, zu erklären. Eine erneute Besteuerung nach
-Durchschnittssätzen ist frühestens nach Ablauf von fünf Kalenderjahren
-zulässig.
+### § 23 (weggefallen)
 
 
 ### § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
@@ -6779,7 +6833,7 @@ festgesetzt. Ein weiterer Vorsteuerabzug ist ausgeschlossen.
 
 (2) Der Unternehmer, dessen steuerpflichtiger Umsatz, mit Ausnahme der
 Einfuhr und des innergemeinschaftlichen Erwerbs, im vorangegangenen
-Kalenderjahr 35.000 Euro überstiegen hat, kann den Durchschnittsatz
+Kalenderjahr 45 000 Euro überstiegen hat, kann den Durchschnittsatz
 nicht in Anspruch nehmen.
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für die Anwendung des
@@ -6814,7 +6868,7 @@ Sätze 2 bis 4 wie folgt festgesetzt:
     Anlage 2 nicht aufgeführte Getränke abgegeben werden, auf 19 Prozent,
 
 
-3.  für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 9,5
+3.  für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 9,0
     Prozent der Bemessungsgrundlage.
 
 
@@ -6822,7 +6876,7 @@ Sätze 2 bis 4 wie folgt festgesetzt:
 Die Befreiungen nach § 4 mit Ausnahme der Nummern 1 bis 7 bleiben
 unberührt; § 9 findet keine Anwendung. Die Vorsteuerbeträge werden,
 soweit sie den in Satz 1 Nr. 1 bezeichneten Umsätzen zuzurechnen sind,
-auf 5,5 Prozent, in den übrigen Fällen des Satzes 1 auf 9,5 Prozent
+auf 5,5 Prozent, in den übrigen Fällen des Satzes 1 auf 9,0 Prozent
 der Bemessungsgrundlage für diese Umsätze festgesetzt. Ein weiterer
 Vorsteuerabzug entfällt. § 14 ist mit der Maßgabe anzuwenden, dass der
 für den Umsatz maßgebliche Durchschnittssatz in der Rechnung
@@ -7374,9 +7428,9 @@ zur Beseitigung von Unbilligkeiten in Härtefällen oder zur
 Vereinfachung des Besteuerungsverfahrens den Umfang der in diesem
 Gesetz enthaltenen Steuerbefreiungen, Steuerermäßigungen und des
 Vorsteuerabzugs näher bestimmen sowie die zeitlichen Bindungen nach §
-19 Abs. 2, § 23 Abs. 3 und § 24 Abs. 4 verkürzen. Bei der näheren
-Bestimmung des Umfangs der Steuerermäßigung nach § 12 Abs. 2 Nr. 1
-kann von der zolltariflichen Abgrenzung abgewichen werden.
+19 Abs. 2 und § 24 Abs. 4 verkürzen. Bei der näheren Bestimmung des
+Umfangs der Steuerermäßigung nach § 12 Abs. 2 Nr. 1 kann von der
+zolltariflichen Abgrenzung abgewichen werden.
 
 (2) Das Bundesministerium der Finanzen kann mit Zustimmung des
 Bundesrates durch Rechtsverordnung den Wortlaut derjenigen
@@ -7740,13 +7794,13 @@ erstmals auf Besteuerungszeiträume anzuwenden, die nicht der Erklärung
 nach Satz 3 unterliegen.
 
 (22a) Hat eine juristische Person des öffentlichen Rechts gegenüber
-dem Finanzamt gemäß Absatz 22 Satz 3 erklärt, dass sie § 2 Absatz 3 in
+dem Finanzamt gemäß Absatz 22 Satz 3 erklärt, dass sie § 2 Absatz 3 in
 der am 31. Dezember 2015 geltenden Fassung für sämtliche nach dem 31.
 Dezember 2016 und vor dem 1. Januar 2021 ausgeführte Leistungen
-weiterhin anwendet und die Erklärung für vor dem 1. Januar 2021
+weiterhin anwendet und die Erklärung für vor dem 1. Januar 2023
 endende Zeiträume nicht widerrufen, gilt die Erklärung auch für
 sämtliche Leistungen, die nach dem 31. Dezember 2020 und vor dem 1.
-Januar 2023 ausgeführt werden. Die Erklärung nach Satz 1 kann auch für
+Januar 2025 ausgeführt werden. Die Erklärung nach Satz 1 kann auch für
 Zeiträume nach dem 31. Dezember 2020 nur mit Wirkung vom Beginn eines
 auf die Abgabe folgenden Kalenderjahres an widerrufen werden. Es ist
 nicht zulässig, den Widerruf auf einzelne Tätigkeitsbereiche oder
@@ -7832,6 +7886,15 @@ Dezember 2020 bezogen werden. § 5 Absatz 1 Nummer 8 und 9 in der
 Fassung des Artikels 1 des Gesetzes vom 21. Dezember 2021 (BGBl. I S.
 5250) ist auf Einfuhren nach dem 31. Dezember 2020 anzuwenden.
 
+(36) § 18 Absatz 5a in der Fassung des Artikels 16 des Gesetzes vom
+16\. Dezember 2022 (BGBl. I S. 2294) ist erstmals auf die
+Besteuerungszeiträume anzuwenden, die nach dem 31. Dezember 2022
+enden.
+
+(37) § 18g in der Fassung des Artikels 16 des Gesetzes vom
+16\. Dezember 2022 (BGBl. I S. 2294) ist erstmals auf die Übermittlung
+von Daten nach dem 31. Dezember 2022 anzuwenden.
+
 
 ### § 27a Umsatzsteuer-Identifikationsnummer
 
@@ -7870,12 +7933,22 @@ zuständigen Behörden anderer Staaten in Umsatzsteuersachen sowie für
 Übermittlungen an das Statistische Bundesamt nach § 2a des
 Statistikregistergesetzes und an das Bundeskartellamt zur Überprüfung
 und Vervollständigung der Daten nach § 3 Absatz 1 Nummer 4 des
-Wettbewerbsregistergesetzes verarbeitet werden. Außerdem übermitteln
-die Landesfinanzbehörden dem Bundeszentralamt für Steuern die nach
-Absatz 1a erforderlichen Daten. Das Bundeszentralamt für Steuern
-übermittelt den Landesfinanzbehörden die erteilten Umsatzsteuer-
-Identifikationsnummern und die Daten, die sie für die
-Umsatzsteuerkontrolle benötigen.
+Wettbewerbsregistergesetzes verarbeitet werden. Bis zum Abschluss der
+erstmaligen Vergabe der Wirtschafts-Identifikationsnummer nach § 139c
+der Abgabenordnung dürfen die in Satz 1 genannten Daten sowie die vom
+Bundeszentralamt für Steuern erteilte Umsatzsteuer-
+Identifikationsnummer abweichend von Satz 2 auch für die Vergabe der
+Wirtschafts-Identifikationsnummern nach § 139c der Abgabenordnung
+verwendet sowie für die nach § 4 des
+Unternehmensbasisdatenregistergesetzes vorgesehenen Zwecke an das
+Statistische Bundesamt als Registerbehörde für das Basisregister
+übermittelt und von diesem nach Maßgabe des § 3 des
+Unternehmensbasisdatenregistergesetzes gespeichert und verarbeitet
+werden. Außerdem übermitteln die Landesfinanzbehörden dem
+Bundeszentralamt für Steuern die nach Absatz 1a erforderlichen Daten.
+Das Bundeszentralamt für Steuern übermittelt den Landesfinanzbehörden
+die erteilten Umsatzsteuer-Identifikationsnummern und die Daten, die
+sie für die Umsatzsteuerkontrolle benötigen.
 
 
 ### § 27b Umsatzsteuer-Nachschau
@@ -7963,6 +8036,14 @@ Fassung:
 
 
 
+
+(5) § 12 Absatz 2 ist vom 1. Oktober 2022 bis 31. März 2024 mit der
+Maßgabe anzuwenden, dass der dort genannte Steuersatz auch für die
+Lieferung von Gas über das Erdgasnetz gilt.
+
+(6) § 12 Absatz 2 ist vom 1. Oktober 2022 bis 31. März 2024 mit der
+Maßgabe anzuwenden, dass der dort genannte Steuersatz auch für die
+Lieferung von Wärme über ein Wärmenetz gilt.
 
 
 ### § 29 Umstellung langfristiger Verträge

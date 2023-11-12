@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 08.05.2021 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.1.2022 BAnz AT 14.01.2022 V1
+:   Art. 2 V v. 18.3.2022 I 478
 
 
 ## Eingangsformel
@@ -94,72 +94,19 @@ Im Sinne dieser Verordnung ist
 
 
 2.  eine geimpfte Person eine asymptomatische Person, die im Besitz eines
-    auf sie ausgestellten Impfnachweises ist,
+    auf sie ausgestellten Impfnachweises im Sinne von § 22a Absatz 1 des
+    Infektionsschutzgesetzes ist,
 
 
-3.  ein Impfnachweis ein Nachweis hinsichtlich des Vorliegens eines
-    vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in
-    deutscher, englischer, französischer, italienischer oder spanischer
-    Sprache in verkörperter oder digitaler Form, wenn die zugrunde
-    liegenden Schutzimpfungen den vom Paul-Ehrlich-Institut im Benehmen
-    mit dem Robert Koch-Institut im Internet unter der Adresse
-    www.pei.de/impfstoffe/covid-19 unter Berücksichtigung des aktuellen
-    Stands der medizinischen Wissenschaft veröffentlichten Vorgaben
-    hinsichtlich folgender Kriterien entsprechen:
-
-    a)  verwendete Impfstoffe,
-
-
-    b)  für einen vollständigen Impfschutz erforderliche Anzahl an
-        Einzelimpfungen,
-
-
-    c)  für einen weiterhin vollständigen Impfschutz erforderliche
-        Auffrischimpfungen,
-
-
-    d)  Intervallzeiten,
-
-        aa) die nach einer Impfung für einen vollständigen Impfschutz abgewartet
-            werden müssen und
-
-
-        bb) die höchstens zwischen Einzelimpfungen oder Auffrischimpfungen liegen
-            dürfen,
-
-
-
-
-
-
+3.  (weggefallen)
 
 
 4.  eine genesene Person eine asymptomatische Person, die im Besitz eines
-    auf sie ausgestellten Genesenennachweises ist,
+    auf sie ausgestellten Genesenennachweises im Sinne von § 22a Absatz 2
+    des Infektionsschutzgesetzes ist,
 
 
-5.  ein Genesenennachweis ein Nachweis hinsichtlich des Vorliegens eines
-    durch vorherige Infektion erworbenen Immunschutzes gegen das
-    Coronavirus SARS-CoV-2 in deutscher, englischer, französischer,
-    italienischer oder spanischer Sprache in verkörperter oder digitaler
-    Form, wenn der Nachweis den vom Robert Koch-Institut im Internet unter
-    der Adresse www.rki.de/covid-19-genesenennachweis unter
-    Berücksichtigung des aktuellen Stands der medizinischen Wissenschaft
-    veröffentlichten Vorgaben hinsichtlich folgender Kriterien entspricht:
-
-    a)  Art der Testung zum Nachweis der vorherigen Infektion,
-
-
-    b)  Zeit, die nach der Testung zum Nachweis der vorherigen Infektion
-        vergangen sein muss, oder Nachweis zur Aufhebung der aufgrund der
-        vorherigen Infektion erfolgten Absonderung,
-
-
-    c)  Zeit, die die Testung zum Nachweis der vorherigen Infektion höchstens
-        zurückliegen darf,
-
-
-
+5.  (weggefallen)
 
 
 6.  eine getestete Person eine asymptomatische Person, die
@@ -167,36 +114,14 @@ Im Sinne dieser Verordnung ist
     a)  das sechste Lebensjahr noch nicht vollendet hat oder
 
 
-    b)  im Besitz eines auf sie ausgestellten Testnachweises ist,
+    b)  im Besitz eines auf sie ausgestellten Testnachweises im Sinne von §
+        22a Absatz 3 des Infektionsschutzgesetzes ist,
 
 
 
 
 
-7.  ein Testnachweis ein Nachweis hinsichtlich des Nichtvorliegens einer
-    Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer,
-    französischer, italienischer oder spanischer Sprache in verkörperter
-    oder digitaler Form, wenn die zugrundeliegende Testung durch In-vitro-
-    Diagnostika erfolgt ist, die für den direkten Erregernachweis des
-    Coronavirus SARS-CoV-2 bestimmt sind und die auf Grund ihrer CE-
-    Kennzeichnung oder auf Grund einer gemäß § 11 Absatz 1 des
-    Medizinproduktegesetzes erteilten Sonderzulassung verkehrsfähig sind,
-    die zugrunde liegende Testung maximal 24 Stunden zurückliegt und
-
-    a)  vor Ort unter Aufsicht desjenigen stattfindet, der der jeweiligen
-        Schutzmaßnahme unterworfen ist,
-
-
-    b)  im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes
-        durch Personal, das die dafür erforderliche Ausbildung oder Kenntnis
-        und Erfahrung besitzt, erfolgt oder
-
-
-    c)  von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-
-        Testverordnung vorgenommen oder überwacht wurde,
-
-
-
+7.  (weggefallen)
 
 
 8.  auf Grund der Vorschriften des fünften Abschnitts des
@@ -284,21 +209,9 @@ Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur
 Absonderung vorsieht, gilt diese Pflicht nicht für geimpfte Personen
 und genesene Personen.
 
-(2) Absatz 1 gilt nicht, wenn
-
-1.  nach den vom Robert Koch-Institut im Internet unter der Adresse
-    www.rki.de/kontaktpersonenmanagement unter Berücksichtigung des
-    aktuellen Stands der medizinischen Wissenschaft veröffentlichten
-    Vorgaben eine Absonderung auch für bestimmte geimpfte Personen oder
-    genesene Personen möglich ist, oder
-
-
-2.  die Einreise in die Bundesrepublik Deutschland nach Voraufenthalt in
-    einem als Virusvariantengebiet im Sinne der Coronavirus-
-    Einreiseverordnung festgestellten Gebiet erfolgt.
-
-
-
+(2) Absatz 1 gilt nicht für Personen, die nach einem Voraufenthalt in
+einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung
+in die Bundesrepublik Deutschland einreisen.
 
 
 ## Abschnitt 2 - Erleichterungen und Ausnahmen von auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten und Verboten

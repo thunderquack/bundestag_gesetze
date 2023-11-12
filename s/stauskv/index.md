@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2783
 
 Zuletzt geändert durch
-:   Art. 4 V v. 12.7.2017 I 2360
+:   Art. 7 V v. 19.12.2022 I 2432
 
 
 ## Eingangsformel
@@ -103,13 +103,19 @@ bezieht, der
 
 
     Auswirkungen auf die Besteuerungsgrundlagen des Organträgers haben
-    kann, oder
+    kann,
 
 
 4.  zur Verwirklichung eines Erwerbsvorgangs im Sinne von § 1 Absatz 3
     Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des
     Grunderwerbsteuergesetzes (grunderwerbsteuerliche Organschaft) führen
-    kann.
+    kann oder
+
+
+5.  sich nach den §§ 20, 21, 24 oder 25 des Umwandlungssteuergesetzes bei
+    verschiedenen Rechtsträgern steuerlich auswirkt und der steuerliche
+    Wertansatz beim einbringenden oder übertragenden Rechtsträger vom
+    steuerlichen Wertansatz beim übernehmenden Rechtsträger abhängt.
 
 
 
@@ -146,7 +152,12 @@ ist zuständig
     Feststellung nach § 17 Absatz 3 Satz 1 Nummer 2 oder Satz 2 in
     Verbindung mit Absatz 2 des Grunderwerbsteuergesetzes, ist das
     Finanzamt zuständig, das für die gesonderte Feststellung zuständig
-    ist.
+    ist;
+
+
+5.  nach Absatz 2 Satz 1 Nummer 5: das Finanzamt, das nach § 18 oder § 20
+    der Abgabenordnung für den übernehmenden Rechtsträger örtlich
+    zuständig ist.
 
 
 
@@ -204,7 +215,11 @@ unrichtig war.
 § 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017
 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer
 verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017 bei
-der zuständigen Finanzbehörde eingegangen sind.
+der zuständigen Finanzbehörde eingegangen sind. § 1 Absatz 2 Satz 1
+Nummer 3 bis 5 und Absatz 3 Satz 1 Nummer 4 und 5 in der am 23.
+Dezember 2022 geltenden Fassung ist erstmals auf Anträge auf Erteilung
+einer verbindlichen Auskunft anzuwenden, die nach dem 31. Dezember
+2022 bei der zuständigen Finanzbehörde eingegangen sind.
 
 
 ## Schlussformel

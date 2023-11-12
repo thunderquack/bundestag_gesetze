@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2618, 2653
 
 Zuletzt geändert durch
-:   Art. 3 G v. 18.1.2019 I 33
-
-Änderung durch
-:   Art. 3 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 27.7.2021 I 3274
 
 
 ## § 1 Weitere Anwendung von Vorschriften

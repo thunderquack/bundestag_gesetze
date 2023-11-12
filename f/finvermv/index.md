@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1006
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.10.2019 I 1434
+:   Art. 2 V v. 17.4.2023 I Nr. 103
 
 
 ## Abschnitt 1 - Sachkundenachweis
@@ -187,8 +187,8 @@ anzubieten.
 
     b)  einen Sachkundenachweis im Sinne des § 34d Absatz 5 Satz 1 Nummer 4
         der Gewerbeordnung oder einen diesem nach § 27 der
-        Versicherungsvermittlungsverordnung gleichgestellten Abschluss besitzt
-        oder
+        Versicherungsvermittlungsverordnung gleichgestellten Abschluss
+        besitzt,
 
 
 
@@ -196,7 +196,11 @@ anzubieten.
 
 2.  eine Folgeprüfung zur Erweiterung einer nach § 34f Absatz 1 Satz 3
     oder § 34h Absatz 1 Satz 3 der Gewerbeordnung auf einzelne Kategorien
-    von Finanzanlagen beschränkten Erlaubnis ablegt.
+    von Finanzanlagen beschränkten Erlaubnis ablegt oder
+
+
+3.  einen Sachkundenachweis im Sinne des § 34i Absatz 2 Nummer 4 der
+    Gewerbeordnung besitzt.
 
 
 
@@ -276,10 +280,14 @@ Sachkundeprüfung gleichgestellt:
 
     f)  als Kaufmann für Versicherungen und Finanzen „Fachrichtung
         Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen
-        „Fachrichtung Finanzberatung“ oder
+        „Fachrichtung Finanzberatung“,
 
 
-    g)  als Investmentfondskaufmann oder als Investmentfondskauffrau;
+    g)  als Kaufmann für Versicherungen und Finanzanlagen oder als Kauffrau
+        für Versicherungen und Finanzanlagen oder
+
+
+    h)  als Investmentfondskaufmann oder als Investmentfondskauffrau;
 
 
 
@@ -336,7 +344,10 @@ Kenntnisse, Fähigkeiten und Kompetenzen diesen wesentlichen
 Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der
 angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer
 ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung
-(spezifische Sachkundeprüfung) abhängig.
+(spezifische Sachkundeprüfung) abhängig. § 4 Absatz 2 gilt
+entsprechend für einen in einem anderen Mitgliedstaat der Europäischen
+Union oder einem Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftraum erworbenen Abschluss.
 
 
 ## Abschnitt 2 - Vermittlerregister
@@ -545,9 +556,8 @@ Europäischen Parlaments und des Rates in Bezug auf die
 organisatorischen Anforderungen an Wertpapierfirmen und die
 Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die
 Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie
-(ABl. L 87 vom 31.3.2017, S. 1), die durch die Delegierte Verordnung
-(EU) 2017/2294 vom 28. August 2017 (ABl. L 329 vom 28.8.2017, S. 4)
-geändert worden ist, entsprechend.
+(ABl. L 87 vom 31.3.2017, S. 1) in der jeweils geltenden Fassung
+entsprechend.
 
 
 ### § 12 Statusbezogene Informationspflichten
@@ -838,7 +848,7 @@ Risikotoleranz und seiner Fähigkeit Verluste zu tragen, entspricht.
 Der Gewerbetreibende darf dem Anleger nur Finanzanlagen empfehlen, die
 nach den eingeholten Informationen für diesen geeignet sind
 (Geeignetheitsprüfung). Hinsichtlich der Anforderungen an die
-Geeignetheit und den im Zusammenhang mit der Geeignetheit geltenden
+Geeignetheit und der im Zusammenhang mit der Geeignetheit geltenden
 Pflichten sind die Artikel 54 und 55 der Delegierten Verordnung (EU)
 2017/565 der Kommission entsprechend anzuwenden. Sofern der
 Gewerbetreibende die erforderlichen Informationen nicht erlangt, darf
@@ -1281,7 +1291,7 @@ ist.
 
 (1) Der Gewerbetreibende hat
 
-1.  auf seine Kosten die Einhaltung der sich aus den §§ 12 bis 23
+1.  auf seine Kosten die Einhaltung der sich aus den §§ 11a bis 23
     ergebenden Verpflichtungen für jedes Kalenderjahr durch einen
     geeigneten Prüfer prüfen zu lassen und
 
@@ -1301,21 +1311,21 @@ Vertriebsgesellschaft tätig ist, ist er berechtigt, an Stelle des
 Prüfungsberichts nach Satz 1 einen Prüfungsbericht eines Prüfers nach
 Absatz 3 vorzulegen, der die Angemessenheit und Wirksamkeit des
 internen Kontrollsystems der Vertriebsgesellschaft zur Einhaltung der
-sich aus den §§ 12 bis 23 ergebenden Verpflichtungen durch die
+sich aus den §§ 11a bis 23 ergebenden Verpflichtungen durch die
 angeschlossenen Gewerbetreibenden für den Prüfungszeitraum bestätigt;
 spätestens nach vier Jahren hat der Gewerbetreibende einen
 Prüfungsbericht nach Satz 1 vorzulegen. Sofern der Gewerbetreibende im
 Berichtszeitraum keine nach § 34f Absatz 1 oder § 34h Absatz 1 Satz 1
 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat er
 spätestens bis zu dem in Satz 1 genannten Termin anstelle des
-Prüfungsberichts unaufgefordert und schriftlich eine entsprechende
+Prüfungsberichts unaufgefordert und in Textform eine entsprechende
 Erklärung zu übermitteln.
 
 (2) Die für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h
 Absatz 1 der Gewerbeordnung zuständige Behörde kann aus besonderem
 Anlass anordnen, dass Gewerbetreibende sich auf ihre Kosten im Rahmen
 einer außerordentlichen Prüfung durch einen geeigneten Prüfer auf die
-Einhaltung der sich aus den §§ 12 bis 23 ergebenden Pflichten
+Einhaltung der sich aus den §§ 11a bis 23 ergebenden Pflichten
 überprüfen lassen und der Behörde den Prüfungsbericht übermitteln. Der
 Prüfer wird von der nach Satz 1 zuständigen Behörde bestimmt. Absatz 1
 Satz 3 und 5 gilt entsprechend.
@@ -1388,78 +1398,106 @@ Gesamtschuldner.
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 7 Absatz 1 Satz 2 oder Absatz 2 oder § 12 Absatz 1 eine
-    Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig macht,
+1.  entgegen § 7 Absatz 1 Satz 2 oder Absatz 2 eine Mitteilung nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-2.  entgegen § 12a oder § 13 Absatz 1 Satz 1 eine Information nicht, nicht
+2.  entgegen § 11a Absatz 1 Satz 1 Maßnahmen zur Erkennung und Vermeidung
+    von Interessenkonflikten nicht trifft,
+
+
+3.  entgegen § 11a Absatz 2 die Mitteilung über Interessenkonflikte nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+
+4.  entgegen § 11a Absatz 3 durch die Vergütung oder Bewertung Anreize für
+    ihn schafft oder seine Beschäftigten schafft, einem Anleger eine
+    bestimmte Finanzanlage zu empfehlen, obwohl er eine andere, den
+    Bedürfnissen des Anlegers besser entsprechende Finanzanlage anbieten
+    kann,
+
+
+5.  entgegen § 12 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
+
+
+6.  entgegen § 12a oder § 13 Absatz 1 Satz 1 eine Information nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig zur Verfügung stellt,
 
 
-3.  entgegen § 15 ein Informationsblatt nicht, nicht richtig, nicht
+7.  entgegen § 15 ein Informationsblatt nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 
-4.  entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3a Satz 1
+8.  entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3a Satz 1
     eine Information nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig einholt,
 
 
-5.  entgegen § 16 Absatz 1 Satz 2 oder Satz 4 eine Finanzanlage empfiehlt,
+9.  entgegen § 16 Absatz 1 Satz 2 oder Satz 4 eine Finanzanlage empfiehlt,
 
 
-6.  entgegen § 16 Absatz 2 Satz 3 einen Hinweis nicht, nicht richtig,
+10. entgegen § 16 Absatz 2 Satz 3 einen Hinweis nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig erteilt,
 
 
-7.  entgegen § 16 Absatz 2 Satz 4 eine Information nicht, nicht richtig,
+11. entgegen § 16 Absatz 2 Satz 4 eine Information nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 
-8.  entgegen § 17 Absatz 1 Satz 1 eine Zuwendung annimmt oder gewährt,
+12. entgegen § 17 Absatz 1 Satz 1 eine Zuwendung annimmt oder gewährt,
 
 
-9.  entgegen § 18 Absatz 1 Satz 1, auch in Verbindung mit § 19 Satz 2,
+13. entgegen § 18 Absatz 1 Satz 1, auch in Verbindung mit § 19 Satz 2,
     eine Geeignetheitserklärung nicht, nicht richtig, nicht vollständig
     oder nicht rechtzeitig zur Verfügung stellt,
 
 
-10. entgegen § 18a Absatz 3 Satz 1 einen Anleger nicht oder nicht
+14. entgegen § 18a Absatz 1 Satz 1 die Inhalte von Telefongesprächen und
+    sonstiger elektronischer Kommunikation nicht, nicht richtig, nicht
+    vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet,
+
+
+15. entgegen § 18a Absatz 2 Satz 1 nicht alle angemessenen Maßnahmen
+    ergreift, um einschlägige Telefongespräche und sonstige elektronische
+    Kommunikation aufzuzeichnen,
+
+
+16. entgegen § 18a Absatz 3 Satz 1 einen Anleger nicht oder nicht
     rechtzeitig informiert,
 
 
-11. entgegen § 20 sich Eigentum oder Besitz an Geldern oder Anteilen eines
+17. entgegen § 20 sich Eigentum oder Besitz an Geldern oder Anteilen eines
     Anlegers verschafft,
 
 
-12. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige
+18. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige
     nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
     erstattet,
 
 
-13. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+19. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in
     der vorgeschriebenen Weise oder nicht mindestens fünf Jahre
     aufbewahrt,
 
 
-14. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder
+20. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder
     eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig übermittelt,
 
 
-15. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1
+21. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1
     zuwiderhandelt,
 
 
-16. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
+22. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
     gestattet oder
 
 
-17. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen
+23. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen
     Nachweis nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig gibt.
 
@@ -1474,7 +1512,8 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 
 ### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
 
-(Fundstelle: BGBl. I 2012, 1015 - 1017)
+(Fundstelle: BGBl. I 2012, 1015 - 1017; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 *    *   **1.**
@@ -1550,6 +1589,11 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 *    *   2.2.3
 
     *   Börsennotierte Finanzanlageprodukte
+
+
+*    *   2.2.4
+
+    *   Nachhaltigkeitskriterien für Finanzanlageprodukte
 
 
 *    *   **2.3**

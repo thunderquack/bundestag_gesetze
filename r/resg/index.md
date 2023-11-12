@@ -84,6 +84,28 @@ Rechtsverordnung sind insbesondere zu regeln
 
 
 
+### § 3a Sicherheitsüberprüfung auf Grund einer Beorderung oder bei Heranziehung zu einer Dienstleistung mit oder ohne vorherige Beorderung
+
+(1) Für jede beorderte Reservistin und jeden beorderten Reservisten,
+die oder der zu einer in § 60 des Soldatengesetzes genannten
+Dienstleistung bestimmt ist, ist vor Beginn der Dienstleistung eine
+einfache Sicherheitsüberprüfung durchzuführen.
+
+(2) Für jede Reservistin und jeden Reservisten, mit oder ohne
+Beorderung, die oder der zu einer in § 60 des Soldatengesetzes
+genannten Dienstleistung herangezogen wird, ist vor der Heranziehung
+zur Dienstleistung eine einfache Sicherheitsüberprüfung durchzuführen.
+
+(3) Die einfache Sicherheitsüberprüfung unterbleibt, wenn dies zur
+Sicherstellung der Erfüllung des Auftrags der Bundeswehr zwingend
+notwendig ist. Die Entscheidung, ob eine einfache
+Sicherheitsüberprüfung unterbleibt, trifft das Bundesministerium der
+Verteidigung oder die von ihm beauftragte Stelle.
+
+(4) Für die Durchführung der einfachen Sicherheitsüberprüfung gilt das
+Sicherheitsüberprüfungsgesetz.
+
+
 ## Abschnitt 2 - Reservewehrdienstverhältnis
 
 

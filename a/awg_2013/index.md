@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1482
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.8.2021 BAnz AT 07.09.2021 V1
+:   Art. 2 Abs. 11 G v. 20.12.2022 I 2752
 
 
 ## Teil 1 - Rechtsgeschäfte und Handlungen
@@ -535,6 +535,64 @@ Deutscher im Ausland, die sich auf Güter im Sinne des Absatzes 1
 einschließlich ihrer Entwicklung und Herstellung beziehen.
 
 
+### § 5a Vorläufige Beschränkungen zur Umsetzung von Resolutionen des Sicherheitsrates der Vereinten Nationen
+
+[^f824634_01_BJNR148210013BJNE004000125]
+(1) Werden vom Sicherheitsrat der Vereinten Nationen nach Kapitel VII
+der Charta der Vereinten Nationen auf Grund der Resolutionen 751
+(1992), 1267 (1999), 1518 (2003), 1533 (2004), 1591 (2004), 1718
+(2006), 1970 (2011), 1988 (2011), 2048 (2012), 2127 (2013), 2140
+(2014), 2206 (2015), 2231 (2015), 2374 (2017) oder 2653 (2022)
+wirtschaftliche Sanktionsmaßnahmen gegen natürliche oder juristische
+Personen oder Personengesellschaften beschlossen, die mit einer
+Aufnahme dieser natürlichen oder juristischen Personen oder
+Personengesellschaften in die vom Sicherheitsrat geführte und im
+Internet abrufbare konsolidierte Sanktionsliste des Sicherheitsrates
+der Vereinten Nationen
+[^f824634_02_BJNR148210013BJNE004000125]
+einhergehen, gelten mit der Veröffentlichung dieser Aufnahme durch
+eine ebenfalls im Internet abrufbare Pressemitteilung des
+Sicherheitsrates der Vereinten Nationen
+die folgenden vorläufigen Beschränkungen:
+
+1.  Verfügungen über Gelder oder wirtschaftliche Ressourcen, die im
+    Eigentum oder unmittelbar oder mittelbar im Besitz oder unter der
+    Kontrolle der betreffenden Personen oder Personengesellschaften
+    stehen, sind untersagt und
+
+
+2.  Gelder oder wirtschaftliche Ressourcen dürfen den betreffenden
+    Personen oder Personengesellschaften weder unmittelbar noch mittelbar
+    bereitgestellt werden.
+
+
+
+
+(2) Die Beschränkungen nach Absatz 1 gelten bis zur Bekanntgabe einer
+Allgemeinverfügung nach § 6 Absatz 1 Satz 2 oder bis zum Inkrafttreten
+eines im Amtsblatt der Europäischen Gemeinschaften oder der
+Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, die jeweils im Hinblick auf die betreffenden Personen oder
+Personengesellschaften Beschränkungen enthalten, längstens jedoch fünf
+Tage nach Wirksamwerden.
+
+(3) Verfügungen oder Bereitstellungen können im Einzelfall in
+Abweichung von Absatz 1 genehmigt werden, wenn dies zur Vermeidung von
+Härtefällen erforderlich ist.
+
+(4) Durch Rechtsverordnung können neben den in Absatz 1 genannten
+Resolutionen weitere Resolutionen des Sicherheitsrates der Vereinten
+Nationen nach Kapitel VII der Charta der Vereinten Nationen bestimmt
+werden, auf die die in Absatz 1 genannten Beschränkungen Anwendung
+finden.
+
+    www.un.org/securitycouncil/content/un-sc-consolidated-list.
+[^f824634_01_BJNR148210013BJNE004000125]:     https://press.un.org/en/content/security-council/press-release.
+[^f824634_02_BJNR148210013BJNE004000125]: 
+
 ### § 6 Einzeleingriff
 
 (1) Im Außenwirtschaftsverkehr können auch durch Verwaltungsakt
@@ -775,24 +833,25 @@ Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz
 erlassenen Rechtsverordnungen sowie auf Grund von Rechtsakten des
 Rates oder der Kommission der Europäischen Union im Bereich des
 Außenwirtschaftsrechts ist das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle (BAFA) zuständig, soweit in diesem Gesetz oder auf
-Grund einer nach diesem Gesetz erlassenen Rechtsverordnung nichts
-anderes bestimmt ist.
+Ausfuhrkontrolle (BAFA) zuständig, soweit in anderen Gesetzen, in
+diesem Gesetz oder auf Grund einer nach diesem Gesetz erlassenen
+Rechtsverordnung nichts anderes bestimmt ist.
 
 (2) Ausschließlich zuständig sind
 
 1.  die Deutsche Bundesbank im Bereich des Kapital- und Zahlungsverkehrs
-    sowie des Verkehrs mit Auslandswerten und Gold, soweit im Folgenden
-    nichts anderes bestimmt ist,
+    sowie des Verkehrs mit Auslandswerten, einschließlich Geldern, die
+    einer Verfügungsbeschränkung unterliegen, und Gold, soweit im
+    Folgenden nichts anderes bestimmt ist,
 
 
 2.  das Bundesministerium für Wirtschaft und Energie
 
-    a)  im Fall des § 6 Absatz 1 im Einvernehmen mit dem Auswärtigen Amt und
-        dem Bundesministerium der Finanzen; bei Maßnahmen, welche die Bereiche
-        des Kapital- und Zahlungsverkehrs oder den Verkehr mit Auslandswerten
-        und Gold betreffen, ist das Benehmen mit der Deutschen Bundesbank
-        herzustellen,
+    a)  im Fall von § 5a Absatz 3 und § 6 Absatz 1 im Einvernehmen mit dem
+        Auswärtigen Amt und dem Bundesministerium der Finanzen; bei Maßnahmen,
+        welche die Bereiche des Kapital- und Zahlungsverkehrs oder den Verkehr
+        mit Auslandswerten und Gold betreffen, ist das Benehmen mit der
+        Deutschen Bundesbank herzustellen,
 
 
     b)  im Fall des § 7 im Einvernehmen mit dem Auswärtigen Amt und dem
@@ -817,13 +876,17 @@ anderes bestimmt ist.
 3.  das Bundesministerium für Verkehr und digitale Infrastruktur für
     Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des
     Verkehrswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf
-    Grund dieser Vorschrift erlassenen Rechtsverordnung,
+    Grund dieser Vorschrift erlassenen Rechtsverordnung sowie auf Grund
+    von Rechtsakten des Rates oder der Kommission der Europäischen Union
+    im Bereich des Außenwirtschaftsrechts,
 
 
 4.  das Bundesministerium der Finanzen für Anordnungen im Bereich des
     Dienstleistungsverkehrs auf dem Gebiet des Versicherungswesens nach §
     4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift
-    erlassenen Rechtsverordnung,
+    erlassenen Rechtsverordnung sowie auf Grund von Rechtsakten des Rates
+    oder der Kommission der Europäischen Union im Bereich des
+    Außenwirtschaftsrechts,
 
 
 5.  die Bundesanstalt für Landwirtschaft und Ernährung für Anordnungen im
@@ -834,6 +897,22 @@ anderes bestimmt ist.
 
 
 
+
+(2a) Abweichend von den Absätzen 1 und 2 Nummer 1 ist für die
+Entgegennahme von Meldungen bestimmter Personen oder
+Personengesellschaften, denen nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer im Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen,
+aufgrund einer Meldepflicht nach diesem Rechtsakt, die Zentralstelle
+für Sanktionsdurchsetzung zuständig. Eine Meldung nach Satz 1 ist
+nicht erforderlich, soweit gegenüber der Zentralstelle für
+Sanktionsdurchsetzung eine Meldung über Gelder oder wirtschaftliche
+Ressourcen nach einer anderen Rechtsvorschrift abgegeben wurde.
 
 (3) Im Fall des Absatzes 2 Nummer 2 Buchstabe c bedarf eine
 Untersagung der Zustimmung der Bundesregierung. Anordnungen bedürfen
@@ -1111,7 +1190,10 @@ In Rechtsverordnungen nach Satz 1 können ferner geregelt werden,
 
 soweit dies erforderlich ist, um die ordnungsgemäße Durchführung eines
 Prüfverfahrens oder die Wirksamkeit einer Untersagung zu
-gewährleisten.
+gewährleisten. In den Fällen des Satzes 2 Nummer 3 können in den
+Rechtsverordnungen nach Satz 1 ferner auch die näheren Einzelheiten
+über das Verfahren zur Bestellung eines Treuhänders, einschließlich
+der Kosten und der Vergütung des Treuhänders, geregelt werden.
 
 
 ### § 16 Urteil und Zwangsvollstreckung
@@ -1198,11 +1280,14 @@ bestraft, wer
 1.  einem
 
     a)  Ausfuhr-, Einfuhr-, Durchfuhr-, Verbringungs-, Verkaufs-, Erwerbs-,
-        Liefer-, Bereitstellungs-, Weitergabe-, Dienstleistungs- oder
-        Investitionsverbot oder
+        Liefer-, Bereitstellungs-, Weitergabe- oder Investitionsverbot oder
 
 
-    b)  Verfügungsverbot über eingefrorene Gelder und wirtschaftliche
+    b)  Sende-, Übertragungs-, Verbreitungs- oder sonstigen
+        Dienstleistungsverbot oder
+
+
+    c)  Verfügungsverbot über eingefrorene Gelder und wirtschaftliche
         Ressourcen
 
 
@@ -1218,11 +1303,14 @@ bestraft, wer
 2.  gegen eine Genehmigungspflicht für
 
     a)  die Ausfuhr, Einfuhr, Durchfuhr, Verbringung, einen Verkauf, einen
-        Erwerb, eine Lieferung, Bereitstellung, Weitergabe, Dienstleistung
-        oder Investition oder
+        Erwerb, eine Lieferung, Bereitstellung, Weitergabe oder Investition,
 
 
-    b)  die Verfügung über eingefrorene Gelder oder wirtschaftliche Ressourcen
+    b)  eine Sendung, Übertragung, Verbreitung oder sonstige Dienstleistung
+        oder
+
+
+    c)  die Verfügung über eingefrorene Gelder oder wirtschaftliche Ressourcen
 
 
 
@@ -1396,7 +1484,17 @@ Sinne des Artikels 4 Absatz 1 Buchstabe a der Verordnung (EU) 2021/821
 bestimmt sind.
 
 (5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer gegen die Verordnung (EU) 2019/125 verstößt, indem er
+bestraft, wer entgegen Artikel 9 Absatz 2 Buchstabe a der Verordnung
+(EU) Nr. 269/2014 des Rates vom 17. März 2014 über restriktive
+Maßnahmen angesichts von Handlungen, die die territoriale
+Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine
+untergraben oder bedrohen (ABl. L 78 vom 17.3.2014, S. 6), die zuletzt
+durch die Durchführungsverordnung (EU) 2022/1529 (ABl. L 239 vom
+15\.9.2022, S. 1) geändert worden ist, eine Meldung nicht, nicht
+richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(5b) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125
+verstößt, indem er
 
 1.  entgegen Artikel 8 dort genannte Güter ausstellt oder zum Verkauf
     anbietet oder
@@ -1411,7 +1509,8 @@ Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur
 Verordnung (EU) 2019/125 verweisen, findet dieser Anhang in der
 jeweils geltenden Fassung Anwendung.
 
-(6) Der Versuch ist strafbar.
+(6) Der Versuch ist in den Fällen der Absätze 1 bis 5 oder 5b
+strafbar.
 
 (7) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -1476,6 +1575,12 @@ Absatz 10, wird nicht bestraft, wer
 
 
 
+(13) Nach Absatz 5a wird nicht bestraft, wer eine dort genannte
+Meldung freiwillig und vollständig nachholt, wenn nicht die Tat zu
+diesem Zeitpunkt bereits ganz oder zum Teil entdeckt war und der Täter
+dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen
+musste.
+
 
 ### § 19 Bußgeldvorschriften
 
@@ -1515,6 +1620,9 @@ vollständig macht oder nicht richtig oder nicht vollständig benutzt.
 
 2.  einer vollziehbaren Anordnung nach § 7 Absatz 1, 3 oder Absatz 4 oder
     § 23 Absatz 1 oder Absatz 4 Satz 2 zuwiderhandelt,
+
+
+2a. (weggefallen)
 
 
 3.  entgegen § 27 Absatz 1 Satz 1 Waren nicht, nicht richtig, nicht
@@ -1623,6 +1731,10 @@ Zollfahndungsämter vornehmen lassen. Die Verwaltungsbehörde im Sinne
 des § 22 Absatz 3 Satz 1 kann in den Fällen des Satzes 1 Ermittlungen
 auch durch ein anderes Hauptzollamt oder die Zollfahndungsämter
 vornehmen lassen.
+
+(1a) Führt der Generalbundesanwalt die Ermittlungen durch, gilt Absatz
+1 Satz 1 mit der Maßgabe, dass die dort genannten Ausnahmen nicht
+anzuwenden sind.
 
 (2) Die Hauptzollämter und die Zollfahndungsämter sowie deren Beamte
 haben auch ohne Ersuchen der Staatsanwaltschaft oder der
@@ -1733,7 +1845,10 @@ Bundesbank bei der Ausübung der Befugnisse nach den Sätzen 1 und 2 zu
 unterstützen und die Kosten zu tragen.
 
 (5) Auskunftspflichtig ist, wer unmittelbar oder mittelbar am
-Außenwirtschaftsverkehr teilnimmt.
+Außenwirtschaftsverkehr teilnimmt; dies schließt Stellen ein, an die
+ein Auskunftspflichtiger Aufgaben auslagert oder derer er sich in
+sonstiger Weise in unmittelbarem oder mittelbarem Zusammenhang mit der
+Teilnahme am Außenwirtschaftsverkehr bedient.
 
 (6) Der Auskunftspflichtige kann die Auskunft auf solche Fragen
 verweigern, deren Beantwortung ihn selbst oder einen der in § 383
@@ -1767,38 +1882,99 @@ Absatz 3 und § 4 Absatz 1 Nummer 4 und 4a in Verbindung mit § 5 Absatz
 (7) Das Hauptzollamt, das den Verwaltungsakt erlassen hat, ist auch
 für die Entscheidung über den Widerspruch zuständig.
 
-
-### § 24 Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
-
-(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darf die
-Informationen, einschließlich personenbezogener Daten, die ihm bei der
-Erfüllung seiner Aufgaben
-
-1.  nach diesem Gesetz,
+(8) Das Bundesministerium der Finanzen und die Deutsche Bundesbank
+können die Zuständigkeit für die Wahrnehmung der Befugnisse der
+Deutschen Bundesbank und der Hauptzollämter nach dieser Vorschrift im
+Rahmen einer Verwaltungsvereinbarung näher regeln.
 
 
-2.  nach dem Gesetz über die Kontrolle von Kriegswaffen oder
+### § 24 Übermittlung von Informationen
+
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz und das
+Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) dürfen jeweils
+die Informationen, einschließlich personenbezogener Daten, die ihnen
+bei der Erfüllung ihrer Aufgaben
+
+1.  nach diesem Gesetz oder
 
 
-3.  nach Rechtsakten der Europäischen Union im Bereich des
+2.  nach Rechtsakten der Europäischen Union im Bereich des
     Außenwirtschaftsrechts
 
 
 
-bekannt geworden sind, an andere öffentliche Stellen des Bundes
-übermitteln, soweit dies zur Verfolgung der Zwecke des § 4 Absatz 1
-und 2 oder zur Zollabfertigung erforderlich ist.
+bekannt geworden sind, an andere öffentliche Stellen des Bundes oder
+der Länder übermitteln, soweit dies zur Verfolgung der Zwecke des § 4
+Absatz 1 und 2, zur Zollabfertigung oder zur Verfolgung von Straftaten
+oder Ordnungswidrigkeiten nach diesem Gesetz, einer auf Grund dieses
+Gesetzes erlassenen Rechtsverordnung, nach dem Gesetz über die
+Kontrolle von Kriegswaffen oder einer auf Grund des Gesetzes über die
+Kontrolle von Kriegswaffen erlassenen Rechtsverordnung erforderlich
+ist.
 
 (2) Informationen über die Versagung von Genehmigungen dürfen
 abweichend von Absatz 1 nur übermittelt werden, soweit dies zur
-Verfolgung der Zwecke des § 4 Absatz 1 und 2 erforderlich ist.
+Verfolgung der Zwecke des § 4 Absatz 1 und 2 oder zur Verfolgung von
+Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz, einer auf
+Grund dieses Gesetzes erlassenen Rechtsverordnung, nach dem Gesetz
+über die Kontrolle von Kriegswaffen oder einer auf Grund des Gesetzes
+über die Kontrolle von Kriegswaffen erlassenen Rechtsverordnung
+erforderlich ist.
 
 (3) Die Empfänger dürfen die nach den Absätzen 1 und 2 übermittelten
 Informationen, einschließlich personenbezogener Daten, nur für die
-Zwecke verwenden, für die sie übermittelt wurden oder soweit es zur
-Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz
-oder einer Rechtsverordnung nach diesem Gesetz oder nach dem Gesetz
-über die Kontrolle von Kriegswaffen erforderlich ist.
+Zwecke verwenden, für die sie übermittelt wurden oder soweit dies zur
+Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem
+Gesetz, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung,
+nach dem Gesetz über die Kontrolle von Kriegswaffen oder einer auf
+Grund des Gesetzes über die Kontrolle von Kriegswaffen erlassenen
+Rechtsverordnung erforderlich ist.
+
+(4) Die nach § 13 zuständigen Behörden dürfen Informationen im
+Zusammenhang mit einem im Amtsblatt der Europäischen Gemeinschaften
+oder der Europäischen Union veröffentlichten unmittelbar geltenden
+Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union,
+der der Durchführung einer vom Rat der Europäischen Union im Bereich
+der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen
+wirtschaftlichen Sanktionsmaßnahme dient, einschließlich
+personenbezogener Daten, an andere Behörden übermitteln, soweit dies
+erforderlich ist
+
+1.  zur Erfüllung ihrer Aufgaben nach diesem Gesetz,
+
+
+2.  für Zwecke der Strafverfolgung,
+
+
+3.  für Zwecke der Gefahrenabwehr oder
+
+
+4.  zur Erfüllung einer gesetzlich zugewiesenen Aufgabe des Empfängers,
+    die der Durchführung von Sanktionsmaßnahmen dient.
+
+
+
+Die nach § 13 zuständigen Behörden tragen die Verantwortung für die
+Zulässigkeit der Übermittlung. Erfolgt die Übermittlung auf Ersuchen
+der empfangenden Stelle, trägt die empfangende Stelle die
+Verantwortung. Der Empfänger darf die übermittelten personenbezogenen
+Daten nur zu dem Zweck verarbeiten, für den sie ihm übermittelt worden
+sind. Eine Verarbeitung für andere Zwecke ist nur zulässig, soweit die
+Daten auch dafür hätten übermittelt werden dürfen. Regelungen zur
+statistischen Geheimhaltung bleiben unberührt.
+
+(5) Die Deutsche Bundesbank übermittelt Informationen, einschließlich
+personenbezogener Daten, nach Maßgabe des Absatzes 4 auch an die
+Bundesanstalt für Finanzdienstleistungsaufsicht und die Zentralstelle
+für Finanztransaktionsuntersuchungen, soweit dies zur Erfüllung der
+Aufgaben der genannten Behörden oder Stellen erforderlich ist.
+
+(6) Die Deutsche Bundesbank und das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle (BAFA) unterrichten die Zentralstelle für
+Sanktionsdurchsetzung unverzüglich nach Eingang einer Meldung über
+Gelder oder wirtschaftliche Ressourcen, die ihnen gegenüber in
+Erfüllung einer Meldepflicht, die sich nach § 10 des
+Sanktionsdurchsetzungsgesetzes ergibt, abgegeben worden ist.
 
 
 ### § 25 Automatisiertes Abrufverfahren
@@ -1937,11 +2113,8 @@ Januar 2023 zu regeln.
 ## Teil 4 - Schlussvorschriften
 
 
-### § 29 Verkündung von Rechtsverordnungen
+### § 29 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 30 Anwendung unmittelbar geltender Vorschriften der Europäischen Union

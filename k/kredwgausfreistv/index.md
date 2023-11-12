@@ -60,7 +60,7 @@ gilt § 1a Absatz 1 des Kreditwesengesetzes mit der Maßgabe, dass
 
 ## § 2
 
-§ 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10i des
+§ 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10j des
 Kreditwesengesetzes sowie die zugehörigen Vorgaben der Artikel 430 bis
 455 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung
 sind nicht auf die in § 1 genannten Zweigstellen anzuwenden.

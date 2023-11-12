@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2405
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.3.2020 I 497
-
-Änderung durch
-:   Art. 2 V v. 22.9.2021 I 4335 (Nr. 67) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 7.6.2023 I Nr. 148
 
 
 ## Eingangsformel
@@ -1033,15 +1030,15 @@ bestanden haben.
 (1) Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen
 Prüfung und der Dritte Abschnitt der Ärztlichen Prüfung werden jeweils
 vor einer Prüfungskommission abgelegt. Die Prüfungskommissionen werden
-von der nach Landesrecht zuständigen Stelle bestellt. Die
-Prüfungskommissionen bestehen jeweils aus dem Vorsitzenden und
+von der nach Landesrecht zuständigen Stelle bestellt. Jede
+Prüfungskommission besteht aus dem Vorsitzenden und
 
-1.  beim Ersten Abschnitt der Ärztlichen Prüfung aus mindestens zwei,
-    höchstens drei weiteren Mitgliedern,
+1.  beim Ersten Abschnitt der Ärztlichen Prüfung aus zwei weiteren
+    Mitgliedern,
 
 
-2.  beim Dritten Abschnitt der Ärztlichen Prüfung aus mindestens drei,
-    höchstens vier weiteren Mitgliedern.
+2.  beim Dritten Abschnitt der Ärztlichen Prüfung aus drei weiteren
+    Mitgliedern.
 
 
 
@@ -2056,16 +2053,15 @@ entsprechend.
 einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
 Die Prüfungskommission wird von der nach § 12 Absatz 3 der
 Bundesärzteordnung zuständigen Behörde des Landes bestellt. Die
-Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei,
-höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die
-weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende,
-weitere Mitglieder und Stellvertreter werden Professoren oder andere
-Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt.
-Stattdessen können als Mitglieder der Prüfungskommission auch dem
-Lehrkörper einer Universität nicht angehörende Fachärzte bestellt
-werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und
-muss selbst prüfen. § 15 Absatz 3, 5 Satz 1 und Absatz 6 gilt
-entsprechend.
+Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren
+Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind
+Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder und
+Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer,
+die Gegenstand der Prüfung sind, bestellt. Stattdessen können als
+Mitglieder der Prüfungskommission auch dem Lehrkörper einer
+Universität nicht angehörende Fachärzte bestellt werden. Der
+Vorsitzende der Prüfungskommission leitet die Prüfung und muss selbst
+prüfen. § 15 Absatz 3, 5 Satz 1 und Absatz 6 gilt entsprechend.
 
 (5) Die Prüfungskommission hat dem Antragsteller vor dem
 Prüfungstermin einen oder mehrere Patienten mit Bezug zu den in Absatz

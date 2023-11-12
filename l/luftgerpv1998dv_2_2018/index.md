@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 15.11.2018 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.11.2020 BAnz AT 23.11.2020 V1
+:   Art. 1 V v. 13.7.2022 BAnz AT 12.08.2022 V1
 
 
 ## Eingangsformel
@@ -94,8 +94,8 @@ zur Prüfung von Luftfahrtgerät sind für Luftsportgeräte der Kategorie
 2.  schwerkraftgesteuerte Ultraleicht-Flugzeuge
 
     a)  die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte
-        Ultraleicht-Flugzeuge Bauart: Trike und Fußstart-UL“ vom 3. Februar
-        2005 (NfL II-22/05),
+        Ultraleicht-Flugzeuge Bauart: Trike und Fußstart-UL“ vom 1. Dezember
+        2021 (NfL 2021-2-651)
 
 
     b)  die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte

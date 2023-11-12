@@ -16,19 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2821
 
 Zuletzt geändert durch
-:   Art. 73 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 G v. 18.5.2021 I 1122 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19c G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 23.6.2021 I 1982 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 23.6.2021 I 1982
 
 
 ## § 1 Bundesamt für Sicherheit in der Informationstechnik

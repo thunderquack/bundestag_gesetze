@@ -122,17 +122,20 @@ Angaben einzutragen:
 1.  der Amtssitz,
 
 
-2.  der Beginn der amtlichen Tätigkeit,
+2.  der Amtsbereich,
 
 
-3.  das Ende der amtlichen Tätigkeit,
+3.  der Beginn der amtlichen Tätigkeit,
 
 
-4.  die Anschriften und geographischen Koordinaten der Geschäftsstellen
+4.  das Ende der amtlichen Tätigkeit,
+
+
+5.  die Anschriften und geographischen Koordinaten der Geschäftsstellen
     und
 
 
-5.  die Orte und Termine auswärtiger Sprechtage.
+6.  die Orte und Termine auswärtiger Sprechtage.
 
 
 
@@ -172,14 +175,15 @@ Verwahrzuständigkeit im Sinne des Satzes 1 unberührt.
 Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind,
 werden nur die Angaben nach § 78l Absatz 3 Satz 1 Nummer 2, 3 und 5
 der Bundesnotarordnung sowie die Angaben nach § 2 Absatz 1 bis 4 und §
-3 Absatz 1 Nummer 1 bis 3 und Absatz 4 dieser Verordnung eingetragen.
+3 Absatz 1 Nummer 1, 3 und 4 und Absatz 4 dieser Verordnung
+eingetragen.
 
 
 ### § 5 Notarvertretung
 
 (1) Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen
 Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz
-2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
+2 bis 4 und § 3 Absatz 1 Nummer 3 und 4 gelten entsprechend.
 
 (2) Zum Zweck der Vorbereitung einer möglichen Bestellung als
 Notarvertretung können die Notarkammern zu einer Person nach § 1
@@ -258,7 +262,7 @@ dem Notarverzeichnis.
 
 (2) Wird das Ende einer amtlichen Tätigkeit in das Notarverzeichnis
 eingetragen, löscht die Bundesnotarkammer unverzüglich die zu dieser
-Tätigkeit gehörenden Angaben nach § 3 Absatz 1 Nummer 4 und 5 und
+Tätigkeit gehörenden Angaben nach § 3 Absatz 1 Nummer 5 und 6 und
 Absatz 2. Endet mit dem Ende der amtlichen Tätigkeit die Bestellung
 als Amtsperson, löscht die Bundesnotarkammer unverzüglich auch die
 Angaben nach § 2 Absatz 5.
@@ -281,6 +285,11 @@ Amtsenthebung nicht mehr einsehbar.
 solange diese für eine Amtsperson bestellt ist, die rechtlich an der
 Wahrnehmung ihres Amtes gehindert ist. Die Angaben nach § 5 Absatz 2
 Satz 1 Nummer 3 bis 5 sind auch im Fall des Satzes 1 nicht einsehbar.
+
+(5) Der Amtsbereich ist nur einsehbar, soweit dies im Rahmen einer
+Suche nach einem Notar, der Urkundstätigkeiten nach den §§ 16a bis 16e
+und 40a des Beurkundungsgesetzes mittels Videokommunikation vornimmt,
+erforderlich ist.
 
 
 ### § 10 Suchfunktion

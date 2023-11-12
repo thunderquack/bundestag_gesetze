@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 12.1.2021 I 34
 
+Geändert durch
+:   Art. 7 G v. 7.11.2022 I 1982
+
 
 ## Teil 1 - Wohnungseigentum
 
@@ -1259,7 +1262,7 @@ Wirkung gegen den Sondernachfolger eines Wohnungseigentümers
 unberührt, wenn die Sondernachfolge bis zum 31. Dezember 2025
 eintritt.
 
-(4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2022 anwendbar. Eine
+(4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2023 anwendbar. Eine
 Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der
 Wohnungseigentümer war, gilt gegenüber den Wohnungseigentümern dieser
 Gemeinschaft der Wohnungseigentümer bis zum 1. Juni 2024 als

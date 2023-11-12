@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2970
 
+Zuletzt geändert durch
+:   Art. 28 G v. 8.10.2023 I Nr. 272
+
 [^F817220_01_BJNR297010021]:     Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2019/882 des
     Europäischen Parlaments und des Rates vom 17. April 2019 über die
     Barrierefreiheitsanforderungen für Produkte und Dienstleistungen (ABl.

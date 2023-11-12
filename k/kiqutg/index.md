@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2696
 
+Geändert durch
+:   Art. 1 G v. 20.12.2022 I 2791
+
 
 ## § 1 Weiterentwicklung der Qualität und Verbesserung der Teilhabe in der Kindertagesbetreuung
 
@@ -52,7 +55,7 @@ qualitative Standards angestrebt.
 
 ## § 2 Maßnahmen zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in der Kindertagesbetreuung
 
-Maßnahmen zur Weiterentwicklung der Qualität in der
+(1) Maßnahmen zur Weiterentwicklung der Qualität in der
 Kindertagesbetreuung werden auf folgenden Handlungsfeldern ergriffen:
 
 1.  ein bedarfsgerechtes Bildungs-, Erziehungs- und Betreuungsangebot in
@@ -104,26 +107,38 @@ Kindertagesbetreuung werden auf folgenden Handlungsfeldern ergriffen:
 
 
 Förderfähig sind zusätzlich auch Maßnahmen zur Entlastung der Eltern
-bei den Gebühren, die über die in § 90 Absatz 3 und 4 des Achten
-Buches Sozialgesetzbuch in der ab dem 1. August 2019 geltenden Fassung
-geregelten Maßnahmen hinausgehen, um die Teilhabe an
-Kinderbetreuungsangeboten zu verbessern. Maßnahmen gemäß § 2 Satz 1
-Nummern 1 bis 4 sind von vorrangiger Bedeutung.
+bei den Kostenbeiträgen, die bis zum Ablauf des 31. Dezember 2022
+Gegenstand von Verträgen nach § 4 dieses Gesetzes waren und die über
+die in § 90 Absatz 3 und 4 des Achten Buches Sozialgesetzbuch in der
+ab dem 1. August 2019 geltenden Fassung geregelten Maßnahmen
+hinausgehen. Maßnahmen gemäß Satz 1 Nummer 1 bis 4 sowie 6 bis 8 sind
+von vorrangiger Bedeutung. Maßnahmen sind überwiegend in den
+Handlungsfeldern gemäß Satz 1 Nummer 1 bis 4, 6 bis 8 zu ergreifen.
+Maßnahmen, die ab dem 1. Januar 2023 begonnen werden, müssen in den
+Handlungsfeldern gemäß Satz 1 Nummer 1 bis 4, 6 bis 8 ergriffen
+werden.
+
+(2) Maßnahmen, die bis zum Ablauf des 31. Dezember 2022 Gegenstand von
+Verträgen nach § 4 dieses Gesetzes waren, können noch bis zum 30. Juni
+2023 fortgeführt werden, auch wenn damit nicht die Vorgabe nach Absatz
+1 Satz 4 erfüllt wird, dass Maßnahmen überwiegend in den
+Handlungsfeldern gemäß Absatz 1 Satz 1 Nummer 1 bis 4, 6 bis 8
+ergriffen werden.
 
 
 ## § 3 Handlungskonzepte und Finanzierungskonzepte der Länder
 
 (1) Die Länder analysieren anhand möglichst vergleichbarer Kriterien
 und Verfahren ihre jeweilige Ausgangslage in Handlungsfeldern nach § 2
-Satz 1 und Maßnahmen nach § 2 Satz 2.
+Absatz 1 Satz 1 und Maßnahmen nach § 2 Absatz 1 Satz 2.
 
 (2) Auf der Grundlage der Analyse nach Absatz 1 ermitteln die Länder
 in ihrem Zuständigkeitsbereich jeweils
 
-1.  die Handlungsfelder nach § 2 Satz 1, die Maßnahmen nach § 2 Satz 2 und
-    konkreten Handlungsziele, die sie zur Weiterentwicklung der Qualität
-    und zur Verbesserung der Teilhabe in der Kindertagesbetreuung
-    zusätzlich als erforderlich ansehen sowie
+1.  die Handlungsfelder nach § 2 Absatz 1 Satz 1, die Maßnahmen nach § 2
+    Absatz 1 Satz 2 und konkreten Handlungsziele, die sie zur
+    Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in
+    der Kindertagesbetreuung zusätzlich als erforderlich ansehen sowie
 
 
 2.  Kriterien, anhand derer eine Weiterentwicklung der Qualität und
@@ -138,11 +153,14 @@ Ermittlung der Handlungsfelder, Maßnahmen und Handlungsziele nach
 Absatz 2 sollen insbesondere die örtlichen Träger der öffentlichen
 Jugendhilfe, die kommunalen Spitzenverbände auf Landesebene, die
 freien Träger, Sozialpartner sowie Vertreterinnen und Vertreter der
-Elternschaft in geeigneter Weise beteiligt und wissenschaftliche
+Elternschaft in geeigneter Weise beteiligt und die Bedarfe aller
+Familien berücksichtigt werden. Bei der Analyse der Ausgangslage nach
+Absatz 1 sollen die Ergebnisse der jeweils aktuellen Monitoring- und
+Evaluationsberichte gemäß § 6 zugrunde gelegt und wissenschaftliche
 Standards berücksichtigt werden.
 
-(4) Auf der Grundlage der Analyse der Ausgangssituation nach Absatz 1
-und der Ermittlungen nach Absatz 2 stellen die Länder Handlungs- und
+(4) Auf der Grundlage der Analyse der Ausgangslage nach Absatz 1 und
+der Ermittlungen nach Absatz 2 stellen die Länder Handlungs- und
 Finanzierungskonzepte auf, in denen sie anhand der nach Absatz 2
 Nummer 2 ermittelten Kriterien darstellen,
 
@@ -163,7 +181,7 @@ Nummer 2 ermittelten Kriterien darstellen,
 
 ## § 4 Verträge zwischen Bund und Ländern
 
-Jedes Land schließt mit der Bundesrepublik Deutschland, vertreten
+(1) Jedes Land schließt mit der Bundesrepublik Deutschland, vertreten
 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend,
 einen Vertrag über die Weiterentwicklung der Qualität in der
 Kindertagesbetreuung, der als Grundlage für das Monitoring und die
@@ -203,6 +221,10 @@ Evaluation nach § 6 dient. Dieser Vertrag enthält:
 
 
 
+
+(2) Das Land und die Bundesrepublik Deutschland ändern den Vertrag
+nach Absatz 1 auf Grundlage dieses Gesetzes in der Fassung vom 1.
+Januar 2023.
 
 
 ## § 5 Geschäftsstelle des Bundes
@@ -245,14 +267,14 @@ Familie, Senioren, Frauen und Jugend ein, die
 ## § 6 Monitoring und Evaluation
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-führt jährlich, erstmals im Jahr 2020 und letztmals im Jahr 2023, ein
-länderspezifisches sowie länderübergreifendes qualifiziertes
+führt ein länderspezifisches sowie länderübergreifendes qualifiziertes
 Monitoring durch. Das Monitoring ist nach den zehn Handlungsfeldern
-gemäß § 2 Satz 1 und Maßnahmen gemäß § 2 Satz 2 aufzuschlüsseln.
+gemäß § 2 Absatz 1 Satz 1 und Maßnahmen gemäß § 2 Absatz 1 Satz 2
+aufzuschlüsseln.
 
 (2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-veröffentlicht jährlich einen Monitoringbericht. Dieser
-Monitoringbericht umfasst
+veröffentlicht in den Jahren 2023 und 2025 einen Monitoringbericht.
+Dieser Monitoringbericht umfasst
 
 1.  einen allgemeinen Teil zur bundesweiten Beobachtung der quantitativen
     und qualitativen Entwicklung des Angebotes früher Bildung, Erziehung

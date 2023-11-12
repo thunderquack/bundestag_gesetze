@@ -17,20 +17,10 @@ Fundstelle
 :   BGBl I: 2019, 846
 
 Geändert durch
-:   Art. 6 G v. 3.12.2020 I 2744
+:   Art. 3 G v. 5.7.2021 I 2281, 3678
 
 Änderung durch
-:   Art. 3 G v. 15.1.2021 I 530 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Änderung durch
-:   Art. 3 G v. 5.7.2021 I 2281 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Stand: Berichtigung v. 17.8.2021 I 3678 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-Mittelbare änderung durch
-:   Art. 154a Nr. 1 u. 3 Buchst. a u. b G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+:   Art. 3 G v. 8.10.2023 I Nr. 271 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -122,7 +112,7 @@ eID-Karte besitzen.
 
 (2) Die eID-Karte ist Eigentum der Bundesrepublik Deutschland.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat bestimmt
+(3) Das Bundesministerium des Innern und für Heimat bestimmt
 
 1.  den Kartenhersteller,
 
@@ -257,10 +247,12 @@ zuständig.
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk
 die antragstellende Person oder der Karteninhaber für seine Wohnung,
 bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Ist
-die Person nicht meldepflichtig, ist die eID-Karte-
-Behörde zuständig,              in deren Bezirk die Person im
-Zeitpunkt der Antragstellung oder des die behördliche Tätigkeit
-auslösenden Ereignisses wohnt.
+die Person nicht meldepflichtig, ist die eID-Karte-Behörde zuständig,
+in deren Bezirk die Person im Zeitpunkt der Antragstellung oder des
+die behördliche Tätigkeit auslösenden Ereignisses wohnt.
+
+(1a) Für das Führen des eID-Karte-Registers nach § 19 ist die eID-
+Karte-Behörde zuständig, welche die eID-Karte ausgestellt hat.
 
 (2) Im Ausland sind die vom Auswärtigen Amt bestimmten
 Auslandsvertretungen zuständig, in deren Bezirk sich die
@@ -598,8 +590,8 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 11. ausstellende Behörde,
 
 
-12. die Tatsache, dass die eID-Karte in die Sperrliste eingetragen ist,
-    und
+12. die örtlich zuständige eID-Karte-Behörde, wenn diese nicht mit der
+    ausstellenden eID-Karte-Behörde identisch ist, und
 
 
 13. Ordensname, Künstlername.
@@ -611,6 +603,20 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 zur Ausstellung einer neuen eID-Karte, höchstens jedoch bis zum Ablauf
 der Gültigkeitsdauer der eID-Karte, auf die sie sich beziehen, zu
 speichern und dann zu löschen.
+
+(5) Wird eine andere als die ausstellende eID-Karte-Behörde örtlich
+zuständig, darf sie die in Absatz 3 genannten und zur Wahrnehmung
+ihrer Aufgaben erforderlichen Daten speichern. Absatz 4 gilt
+entsprechend.
+
+
+### § 19a Verwendung von im eID-Karte-Register gespeicherten Daten
+
+eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im
+automatisierten Verfahren Daten des eID-Karte-Registers übermitteln
+oder Daten aus eID-Karte-Registern, die in Zuständigkeit anderer eID-
+Karte-Behörden geführt werden, abrufen, sofern dies zur Wahrnehmung
+ihrer Pflichten erforderlich ist.
 
 
 ## Abschnitt 6 - Pflichten des Karteninhabers; Ungültigkeit und Einziehung
@@ -715,11 +721,10 @@ die in der Gesamtheit der Länder mit der jeweiligen Leistung verbunden
 sind. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6 und die §§
 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, für den Bereich der Landesverwaltung durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Gebührenhöhe und die
-Auslagenerstattung näher zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+für den Bereich der Landesverwaltung durch Rechtsverordnung mit
+Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
+Gebührenhöhe und die Auslagenerstattung näher zu bestimmen.
 
 (4) Das Auswärtige Amt kann durch Besondere Gebührenverordnung nach §
 22 Absatz 4 des Bundesgebührengesetzes bestimmen, dass von den
@@ -754,8 +759,8 @@ Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
 ### § 25 Verordnungsermächtigung
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
-im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates
+Das Bundesministerium des Innern und für Heimat wird ermächtigt, im
+Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates
 durch Rechtsverordnung
 
 1.  das Muster der eID-Karte zu bestimmen,
@@ -772,8 +777,8 @@ durch Rechtsverordnung
     regeln,
 
 
-5.  die Herstellung der eID-Karte und die Übermittlung von Geheimnummer,
-    Entsperrnummer und Sperrkennwort zu regeln,
+5.  die Herstellung der eID-Karte und die Übermittlung und Übergabe von
+    Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
 
 
 6.  Einzelheiten der Aushändigung und den Versand der eID-Karte zu regeln,
@@ -820,7 +825,12 @@ durch Rechtsverordnung
 
 
 11. die Einzelheiten der Vergabe der Berechtigungen und der
-    Berechtigungszertifikate festzulegen.
+    Berechtigungszertifikate festzulegen,
+
+
+12. die Einzelheiten zur Durchführung von automatisierten Mitteilungen
+    oder automatisierten Abrufen nach § 19a sowie zur Form und zum Inhalt
+    der zu übermittelnden Daten festzulegen.
 
 
 

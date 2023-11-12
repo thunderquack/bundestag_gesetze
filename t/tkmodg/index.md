@@ -15,7 +15,7 @@ Ausfertigungsdatum
 :   2021-06-23
 
 Fundstelle
-:   BGBl I: 2021, 1858
+:   BGBl I: 2021, 1858 (2022 I 1045)
 
 [^F816631_01_BJNR185800021]:     Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2018/1972 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den

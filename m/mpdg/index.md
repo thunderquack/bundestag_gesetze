@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 960
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.5.2021 I 1087
-
-Mittelbare änderung durch
-:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
+:   Art. 3f G v. 28.6.2022 I 938
 
 Stand: Das Inkrafttreten dieses G wurde mit Ausnahme der §§ 7, 87, 88, 90 Abs. 3 u. § 97 Abs. 1 Satz 2 u. 3 gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben. §§ 7 u. 90 Abs. 3 treten gem. Art. 17 Abs. 4 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 24.4.2020 in Kraft. § 87 tritt gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 am 23.5.2020 in Kraft. Für die §§ 88 u. 97 Abs. 1 Satz 2 u. 3 verbleibt es bei der Inkraftsetzung gem. Art. 17 Abs. 1 Satz 1 G v. 28.4.2020 I 960 zum 23.5.2020.
 
@@ -28,42 +25,34 @@ Stand: Das Inkrafttreten dieses G wurde mit Ausnahme der §§ 7, 87, 88, 90 Abs.
 
 ### § 1 Zweck des Gesetzes
 
-Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU)
-2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017
-über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der
-Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und
-zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl.
-L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
-27\.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L
-130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils
-geltenden Fassung.
+Dieses Gesetz dient der Durchführung und Ergänzung
+
+1.  der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates
+    vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie
+    2001/83/EG, der Verordnung (EG) Nr.
+    178/2002                    und der Verordnung (EG) Nr.
+    1223/2009                    und zur Aufhebung der Richtlinien
+    90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L
+    117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die
+    Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert
+    worden ist, in der jeweils geltenden Fassung und
+
+
+2.  der Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates
+    vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der
+    Richtlinie 98/79/EG und des Beschlusses
+    2010/227/EU                    der Kommission (ABl. L 117 vom
+    5\.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S.
+    167) in der jeweils geltenden Fassung.
+
+
+
 
 
 ### § 2 Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz ist anzuwenden auf Produkte im Anwendungsbereich der
-Verordnung (EU) 2017/745. Für In-vitro-Diagnostika sind bis
-einschließlich 25. Mai 2022 weiter anzuwenden:
-
-1.  das Medizinproduktegesetz in der Fassung der Bekanntmachung vom 7.
-    August 2002 (BGBl. I S. 3146), das zuletzt durch Artikel 223 der
-    Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in
-    der bis einschließlich 25. Mai 2021 geltenden Fassung,
-
-
-2.  die Medizinprodukte-Verordnung vom 20. Dezember 2001 (BGBl. I S.
-    3854), die zuletzt durch Artikel 3 der Verordnung vom 27. September
-    2016 (BGBl. I S. 2203) geändert worden ist, in der bis einschließlich
-    25\. Mai 2021 geltenden Fassung und
-
-
-3.  die Verordnung über klinische Prüfungen von Medizinprodukten vom 10.
-    Mai 2010 (BGBl. I S. 555), die zuletzt durch Artikel 4 der Verordnung
-    vom 13. Juli 2020 (BGBl. I S. 1692) geändert worden ist, in der bis
-    einschließlich 25. Mai 2021 geltenden Fassung.
-
-
-
+Verordnung (EU) 2017/745 und der Verordnung (EU) 2017/746.
 
 (2) Dieses Gesetz gilt auch für das Anwenden, Betreiben und
 Instandhalten von Produkten, die nicht als Medizinprodukte in Verkehr
@@ -75,11 +64,13 @@ angewendet werden.
 ### § 3 Ergänzende Begriffsbestimmungen
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung
-(EU) 2017/745 bezeichnet im Sinne dieses Gesetzes der Ausdruck
+(EU) 2017/745 und des Artikels 2 der Verordnung (EU) 2017/746
+bezeichnet im Sinne dieses Gesetzes der Ausdruck
 
 1.  „Produkte“ Medizinprodukte, ihr Zubehör und die in Anhang XVI der
     Verordnung (EU) 2017/745 aufgeführten und unter den Anwendungsbereich
-    dieser Verordnung fallenden Produkte;
+    dieser Verordnung fallenden Produkte sowie In-vitro-Diagnostika und
+    ihr Zubehör;
 
 
 2.  „Fachkreise“ Angehörige der Heilberufe, Angehörige des Heilgewerbes
@@ -124,12 +115,18 @@ Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung
 
 
 5.  „Hauptprüfer“ den verantwortlichen Leiter einer Gruppe von Prüfern,
-    die in einer Prüfstelle eine klinische Prüfung durchführen;
+    die in einer Prüfstelle eine klinische Prüfung oder Leistungsstudie
+    durchführen;
 
 
 6.  „Leiter der klinischen Prüfung“ einen Prüfer, den der Sponsor mit der
     Leitung einer im Geltungsbereich dieses Gesetzes in mehreren
-    Prüfstellen durchgeführten klinischen Prüfung beauftragt hat.
+    Prüfstellen durchgeführten klinischen Prüfung oder Leistungsstudie
+    beauftragt hat;
+
+
+7.  „Restprobe“ Restmaterial menschlicher Körpersubstanzen, das aus einer
+    medizinisch indizierten Entnahme stammt.
 
 
 
@@ -182,20 +179,29 @@ bestimmten Zeiträume zur Verfügung stehen:
 4.  Anhang XI Teil B Abschnitt 17 und 18.4 der Verordnung (EU) 2017/745,
 
 
-5.  Anhang XIII Abschnitt 4 der Verordnung
-    (EU) 2017/745.
+5.  Anhang XIII Abschnitt 4 der Verordnung (EU) 2017/745,
+
+
+6.  Anhang IX Kapitel III Abschnitt 7 der Verordnung (EU) 2017/746,
+
+
+7.  Anhang X Abschnitt 6 der Verordnung (EU) 2017/746,
+
+
+8.  Anhang XI Abschnitt 6 der Verordnung (EU) 2017/746.
 
 
 
 
 (2) Sponsoren und rechtliche Vertreter eines Sponsors nach Artikel 62
-Absatz 2 der Verordnung (EU) 2017/745, die ihren Sitz im
-Geltungsbereich dieses Gesetzes haben, stellen sicher, dass die in
-Anhang XV Kapitel III Nummer 3 der Verordnung (EU) 2017/745 genannten
-Unterlagen der zuständigen Behörde innerhalb der dort bestimmten
-Zeiträume zur Verfügung stehen, auch wenn sie ihre Geschäftstätigkeit
-eingestellt haben oder ihre Geschäftstätigkeit aus anderen Gründen
-beendet wird.
+Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 58 Absatz 4 der
+Verordnung (EU) 2017/746, die ihren Sitz im Geltungsbereich dieses
+Gesetzes haben, stellen sicher, dass die in Anhang XV Kapitel III
+Nummer 3 der Verordnung (EU) 2017/745 und Anhang XIV Kapitel II Nummer
+3 der Verordnung (EU) 2017/746 genannten Unterlagen der zuständigen
+Behörde innerhalb der dort bestimmten Zeiträume zur Verfügung stehen,
+auch wenn sie ihre Geschäftstätigkeit eingestellt haben oder ihre
+Geschäftstätigkeit aus anderen Gründen beendet wird.
 
 (3) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
@@ -223,13 +229,15 @@ insbesondere
 
 
 
-### § 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung
+### § 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie
 
 (1) Meinungsverschiedenheiten zwischen einem Hersteller und seiner
 Benannten Stelle über die Klassifizierung einzelner Produkte in
-Anwendung des Anhangs VIII der Verordnung (EU) 2017/745 sind der
-zuständigen Bundesoberbehörde nach Maßgabe von Artikel 51 Absatz 2 der
-Verordnung (EU) 2017/745 zur Entscheidung vorzulegen.
+Anwendung des Anhangs VIII der Verordnung (EU) 2017/745 oder der
+Verordnung (EU) 2017/746 sind der zuständigen Bundesoberbehörde nach
+Maßgabe von Artikel 51 Absatz 2 der Verordnung (EU) 2017/745 und
+Artikel 47 Absatz 2 der Verordnung (EU) 2017/746 zur Entscheidung
+vorzulegen.
 
 (2) Auf Antrag einer zuständigen Behörde oder des Herstellers, seines
 Bevollmächtigten oder seiner Benannten Stelle mit Sitz im
@@ -266,7 +274,8 @@ Anträge nach Satz 1 entscheiden.
 (3) Die zuständige Bundesoberbehörde entscheidet auf Antrag einer
 zuständigen Behörde oder eines Sponsors auch unabhängig von einem
 Genehmigungsantrag nach § 38, ob es sich um eine
-genehmigungspflichtige klinische Prüfung handelt.
+genehmigungspflichtige klinische Prüfung oder eine
+genehmigungspflichtige Leistungsstudie handelt.
 
 (4) Ist die zuständige Bundesoberbehörde der Ansicht, dass die
 Europäische Kommission mittels Durchführungsrechtsakt nach Maßgabe des
@@ -276,9 +285,9 @@ Medizinprodukt oder Zubehör zu einem Medizinprodukt darstellt, teilt
 sie dies dem Bundesministerium für Gesundheit unter Angabe der Gründe
 zur Einreichung eines Ersuchens nach Artikel 4 der Verordnung (EU)
 2017/745 mit. Hält die zuständige Bundesoberbehörde ein Ersuchen nach
-Artikel 51 Absatz 3 der Verordnung (EU) 2017/745 für erforderlich,
-teilt sie dies dem Bundesministerium für Gesundheit unter Angabe der
-Gründe mit.
+Artikel 51 Absatz 3 der Verordnung (EU) 2017/745 oder Artikel 47
+Absatz 3 der Verordnung (EU) 2017/746 für erforderlich, teilt sie dies
+dem Bundesministerium für Gesundheit unter Angabe der Gründe mit.
 
 (5) Die zuständige Behörde übermittelt an das Deutsche
 Medizinprodukteinformations- und Datenbanksystem zur zentralen
@@ -304,24 +313,28 @@ den Absätzen 1 und 2 entsprechend.
 
 ### § 7 Sonderzulassung, Verordnungsermächtigung
 
-(1) Unter den in Artikel 59 Absatz 1 der Verordnung (EU) 2017/745
-genannten Voraussetzungen kann die zuständige Bundesoberbehörde auf
-Antrag das Inverkehrbringen oder die Inbetriebnahme von Produkten, bei
-denen die Verfahren nach Maßgabe von Artikel 52 der Verordnung (EU)
-2017/745 nicht durchgeführt wurden, im Geltungsbereich dieses Gesetzes
-zulassen (Sonderzulassung). Der Antrag ist zu begründen.
+(1) Unter den in Artikel 59 Absatz 1 der Verordnung (EU) 2017/745 oder
+in Artikel 54 Absatz 1 der Verordnung (EU) 2017/746 genannten
+Voraussetzungen kann die zuständige Bundesoberbehörde auf Antrag das
+Inverkehrbringen oder die Inbetriebnahme von Produkten, bei denen die
+Verfahren nach Maßgabe von Artikel 52 der Verordnung (EU) 2017/745
+oder Artikel 48 der Verordnung (EU) 2017/746 nicht durchgeführt
+wurden, im Geltungsbereich dieses Gesetzes zulassen (Sonderzulassung).
+Der Antrag ist zu begründen.
 
 (2) Die zuständige Bundesoberbehörde unterrichtet die Europäische
 Kommission und die anderen Mitgliedstaaten über die Erteilung von
 Sonderzulassungen nach Absatz 1 nach Maßgabe von Artikel 59 Absatz 2
-der Verordnung (EU) 2017/745.
+der Verordnung (EU) 2017/745 und Artikel 54 Absatz 2 der Verordnung
+(EU) 2017/746.
 
 (3) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 Folgendes zu regeln:
 
 1.  das Nähere zum Verfahren der Zulassung nach Artikel 59 Absatz 1 und 2
-    der Verordnung (EU) 2017/745, insbesondere
+    der Verordnung (EU) 2017/745 und Artikel 54 Absatz 1 und 2 der
+    Verordnung (EU) 2017/746, insbesondere
 
     a)  die Aufgaben der zuständigen Bundesoberbehörden,
 
@@ -375,8 +388,8 @@ Folgendes zu regeln:
 (1) Der Hersteller hat für Produkte, die im Geltungsbereich dieses
 Gesetzes auf dem Markt bereitgestellt werden, die EU-
 Konformitätserklärung nach Artikel 19 Absatz 1 der Verordnung (EU)
-2017/745 in deutscher oder in englischer Sprache zur Verfügung zu
-stellen.
+2017/745 und Artikel 17 Absatz 1 der Verordnung (EU) 2017/746 in
+deutscher oder in englischer Sprache zur Verfügung zu stellen.
 
 (2) Produkte dürfen im Geltungsbereich dieses Gesetzes nur dann an
 Anwender und Patienten abgegeben werden, wenn die für Anwender und
@@ -433,19 +446,27 @@ Nummer 1, 2, 4 und 5 auszuhändigen.
 
 ### § 10 Freiverkaufszertifikate
 
-Auf Antrag des Herstellers oder seines Bevollmächtigten stellt die
-zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1
-der Verordnung (EU) 2017/745 aus. Ein Freiverkaufszertifikat kann auch
-für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3 der
-Verordnung (EU) 2017/745 in Verkehr gebracht werden. Satz 2 gilt
-entsprechend für Produkte, die vor dem 26. Mai 2021 nach den die
-Richtlinie
-90/385/EWG              des Rates vom 20. Juni 1990 zur Angleichung
-der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare
-medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die
-Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in
-Verkehr gebracht wurden und bis zum 26. Mai 2025 weiter auf dem Markt
-bereitgestellt oder in Betrieb genommen werden dürfen.
+Auf Antrag des Herstellers, seines Bevollmächtigten, eines Produzenten
+von Systemen und Behandlungseinheiten nach Artikel 22 der Verordnung
+(EU) 2017/745 oder eines Händlers oder Importeurs nach Artikel 16
+Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 16 Absatz 1 der
+Verordnung (EU) 2017/746 stellt die zuständige Behörde ein
+Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU)
+2017/745 oder Artikel 55 Absatz 1 der Verordnung (EU) 2017/746 aus.
+Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden,
+die nach Artikel 120 Absatz 3 der Verordnung (EU) 2017/745 oder
+Artikel 110 Absatz 3 der Verordnung (EU) 2017/746 in Verkehr gebracht
+werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai
+2021 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990
+zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive
+implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17)
+und die Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften oder
+die vor dem 26. Mai 2022 nach den die Richtlinie 98/79/EG des
+Europäischen Parlaments und des Rates vom 27. Oktober 1998 über In-
+vitro-Diagnostika (ABl. L 331 vom 7.12.1998, S. 1; L 74 vom 19.3.1999,
+S. 32; L 124 vom 25.5.2000, S. 66) umsetzenden nationalen Vorschriften
+rechtmäßig in Verkehr gebracht wurden und bis zum 26. Mai 2025 weiter
+auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
 
 
 ### § 11 Betreiben und Anwenden von Produkten
@@ -482,20 +503,22 @@ wenn
 ### § 13 Verbote zum Schutz vor Fälschungen und Täuschungen
 
 (1) Es ist verboten, gefälschte Produkte sowie gefälschte Teile und
-Komponenten im Sinne von Artikel 23 der Verordnung (EU) 2017/745
-herzustellen, zu lagern, in den Geltungsbereich dieses Gesetzes zu
-verbringen, zur Abgabe anzubieten, in den Verkehr zu bringen, in den
-Betrieb zu nehmen, auf dem Markt bereitzustellen oder aus dem
-Geltungsbereich dieses Gesetzes zu verbringen.
+Komponenten im Sinne von Artikel 23 der Verordnung (EU) 2017/745 oder
+Artikel 20 der Verordnung (EU) 2017/746 herzustellen, zu lagern, in
+den Geltungsbereich dieses Gesetzes zu verbringen, zur Abgabe
+anzubieten, in den Verkehr zu bringen, in den Betrieb zu nehmen, auf
+dem Markt bereitzustellen oder aus dem Geltungsbereich dieses Gesetzes
+zu verbringen.
 
 (2) Teile und Komponenten gelten entsprechend Artikel 2 Nummer 9 der
-Verordnung (EU) 2017/745 als gefälscht, wenn falsche Angaben zu ihrer
-Identität oder Herkunft gemacht werden.
+Verordnung (EU) 2017/745 und Artikel 2 Nummer 10 der Verordnung (EU)
+2017/746 als gefälscht, wenn falsche Angaben zu ihrer Identität oder
+Herkunft gemacht werden.
 
 
-### § 14 Abgabe von Prüfprodukten
+### § 14 Abgabe von Prüfprodukten und Produkten für Leistungsstudien
 
-Ein Prüfprodukt darf zum Zwecke der Durchführung einer klinischen
+(1) Ein Prüfprodukt darf zum Zwecke der Durchführung einer klinischen
 Prüfung an Ärzte, Zahnärzte oder sonstige Personen, die auf Grund
 ihrer beruflichen Qualifikation zur Durchführung dieser Prüfungen
 befugt sind, nur abgegeben werden, wenn
@@ -509,6 +532,25 @@ befugt sind, nur abgegeben werden, wenn
     Artikel 20 Absatz 1 der Verordnung (EU) 2017/745 die CE-Kennzeichnung
     und die klinische Prüfung dient nicht der Bewertung dieses Produktes
     außerhalb seiner Zweckbestimmung.
+
+
+
+
+(2) Ein Produkt für Leistungsstudien darf zum Zwecke der Durchführung
+einer Leistungsstudie an Ärzte, Zahnärzte oder sonstige Personen, die
+auf Grund ihrer beruflichen Qualifikation zur Durchführung dieser
+Leistungsstudien befugt sind, sowie an Laboratorien und andere
+Einrichtungen nur abgegeben werden, wenn
+
+1.  das Produkt für Leistungsstudien die Voraussetzungen des Artikels 57
+    Absatz 1 der Verordnung (EU) 2017/746 erfüllt und
+
+
+2.  eine Erklärung nach Anhang XIV Kapitel I Ziffer 4.1. der Verordnung
+    (EU) 2017/746 vorliegt, es sei denn, das Produkt für Leistungsstudien
+    trägt nach Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 die CE-
+    Kennzeichnung und die Leistungsstudie dient nicht der Bewertung dieses
+    Produktes außerhalb seiner Zweckbestimmung.
 
 
 
@@ -534,14 +576,19 @@ wenn sie
 ### § 16 Ausstellen von Produkten
 
 (1) Produkte, die nicht die Anforderungen der Verordnung (EU) 2017/745
-erfüllen, dürfen nur ausgestellt werden, wenn ein gut sichtbares
-Schild ausdrücklich darauf hinweist, dass diese Produkte lediglich zu
-Ausstellungs- und Vorführzwecken bestimmt sind und erst bereitgestellt
-werden können, wenn ihre Konformität mit der Verordnung (EU) 2017/745
-hergestellt ist.
+oder der Verordnung (EU) 2017/746 erfüllen, dürfen nur ausgestellt
+werden, wenn ein gut sichtbares Schild ausdrücklich darauf hinweist,
+dass diese Produkte lediglich zu Ausstellungs- und Vorführzwecken
+bestimmt sind und erst bereitgestellt werden können, wenn ihre
+Konformität mit der Verordnung (EU) 2017/745 oder der Verordnung (EU)
+2017/746 hergestellt ist.
 
 (2) Bei Vorführungen sind die erforderlichen Vorkehrungen zum Schutz
 von Personen zu treffen.
+
+(3) In-vitro-Diagnostika, die nach Absatz 1 ausgestellt werden, dürfen
+nicht an Proben, die von einem Besucher der Ausstellung stammen,
+angewendet werden.
 
 
 ## Kapitel 3 - Benannte Stellen, Prüflaboratorien, Konformitätsbewertungsstellen für Drittstaaten
@@ -552,15 +599,17 @@ von Personen zu treffen.
 In deutscher oder englischer Sprache haben die
 Konformitätsbewertungsstellen einzureichen:
 
-1.  Anträge auf Benennung nach Artikel 38 der Verordnung (EU) 2017/745 und
-    die Unterlagen, die dem Antrag beizufügen sind oder die auf Verlangen
-    der für Benannte Stellen zuständigen und von den Ländern nach Artikel
-    35 der Verordnung (EU) 2017/745 bestimmten Behörde vorzulegen sind,
+1.  Anträge auf Benennung nach Artikel 38 der Verordnung (EU) 2017/745
+    oder Artikel 34 der Verordnung (EU) 2017/746 und die Unterlagen, die
+    dem Antrag beizufügen sind oder die auf Verlangen der für Benannte
+    Stellen zuständigen und von den Ländern nach Artikel 35 der Verordnung
+    (EU) 2017/745 und Artikel 31 der Verordnung (EU) 2017/746 bestimmten
+    Behörde vorzulegen sind,
 
 
 2.  die Unterlagen, die für die Durchführung des Benennungsverfahrens nach
-    Artikel 39 der Verordnung
-    (EU) 2017/745                    erforderlich sind.
+    Artikel 39 der Verordnung (EU) 2017/745 oder Artikel 35 der Verordnung
+    (EU) 2017/746 erforderlich sind.
 
 
 
@@ -571,11 +620,7 @@ Konformitätsbewertungsstellen einzureichen:
 (1) Die Wahrnehmung der den Mitgliedstaaten zukommenden und mit der
 Notifizierung und Benennung verbundenen Aufgaben des Kapitels IV der
 Verordnung (EU) 2017/745 sowie des Kapitels IV der Verordnung (EU)
-2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017
-über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG
-und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom
-5\.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S.
-167) obliegen der für Benannte Stellen zuständigen Behörde.
+2017/746 obliegen der für Benannte Stellen zuständigen Behörde.
 
 (2) Hat ein anderer Mitgliedstaat eine Konformitätsbewertungsstelle
 nach Artikel 42 der Verordnung (EU) 2017/745 oder Artikel 38 der
@@ -677,17 +722,19 @@ anerkannten Benannten Stellen bei Überprüfungen zu begleiten.
 ### § 18 Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung
 
 (1) Ein Prüflaboratorium, das von einer Benannten Stelle nach Maßgabe
-von Artikel 37 Absatz 1 der Verordnung (EU) 2017/745 beauftragt wird,
-bestimmte Aufgaben im Zusammenhang mit Konformitätsbewertungen zu
-übernehmen, kann bei der für Benannte Stellen zuständigen Behörde die
-Anerkennung als Prüflaboratorium beantragen. Der Antrag und die für
-die Durchführung des Anerkennungsverfahrens erforderlichen Unterlagen
-sind in deutscher oder englischer Sprache einzureichen.
+von Artikel 37 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 33
+der Verordnung (EU) 2017/746 beauftragt wird, bestimmte Aufgaben im
+Zusammenhang mit Konformitätsbewertungen zu übernehmen, kann bei der
+für Benannte Stellen zuständigen Behörde die Anerkennung als
+Prüflaboratorium beantragen. Der Antrag und die für die Durchführung
+des Anerkennungsverfahrens erforderlichen Unterlagen sind in deutscher
+oder englischer Sprache einzureichen.
 
 (2) Die Anerkennung ist zu erteilen, wenn das Prüflaboratorium den für
 dieses Prüflaboratorium anzuwendenden Anforderungen des Anhangs VII
-der Verordnung (EU) 2017/745 entspricht. Die Anerkennung kann unter
-Auflagen erteilt werden. Die Anerkennung ist zu befristen.
+der Verordnung (EU) 2017/745 oder der Verordnung (EU) 2017/746
+entspricht. Die Anerkennung kann unter Auflagen erteilt werden. Die
+Anerkennung ist zu befristen.
 
 (3) Die Anerkennung erlischt
 
@@ -722,7 +769,8 @@ Prüflaboratorien auf ihrer Internetseite bekannt.
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die
 Einhaltung der auf die anerkannten Prüflaboratorien anwendbaren
-Anforderungen des Anhangs VII der Verordnung (EU) 2017/745.
+Anforderungen des Anhangs VII der Verordnung (EU) 2017/745 oder der
+Verordnung (EU) 2017/746.
 
 (2) Die für Benannte Stellen zuständige Behörde trifft die
 Anordnungen, die zur Beseitigung festgestellter Mängel oder zur
@@ -817,30 +865,38 @@ begleiten.
 
 ### § 22 Befugnisse der für Benannte Stellen zuständigen Behörde
 
-Die Beauftragten der für Benannte Stellen zuständigen Behörde sind
+(1) Die Beauftragten der für Benannte Stellen zuständigen Behörde sind
 befugt, zu den üblichen Betriebs- und Geschäftszeiten im Rahmen der
-Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, den §§ 17c,
-19 und 21 Grundstücke und Geschäftsräume der Benannten Stellen, ihrer
-Zweigstellen und Unterauftragnehmer, der anerkannten Prüflaboratorien
-sowie der benannten Konformitätsbewertungsstellen für Drittstaaten zu
-betreten und zu besichtigen. Das Betretensrecht erstreckt sich auch
-auf Grundstücke und Geschäftsräume des Herstellers, soweit die
-Überwachung beim Hersteller erfolgt.
+Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, Artikel 40
+der Verordnung (EU) 2017/746, den §§ 17c, 19 und 21 Grundstücke und
+Geschäftsräume der Benannten Stellen, ihrer Zweigstellen und
+Unterauftragnehmer, der anerkannten Prüflaboratorien sowie der
+benannten Konformitätsbewertungsstellen für Drittstaaten zu betreten
+und zu besichtigen. Das Betretensrecht erstreckt sich auch auf
+Grundstücke und Geschäftsräume des Herstellers, soweit die Überwachung
+beim Hersteller erfolgt.
+
+(2) Die für Benannte Stellen zuständige Behörde trifft im Rahmen der
+Überwachung und Neubewertung nach Artikel 44 der Verordnung (EU)
+2017/745 und Artikel 40 der Verordnung (EU) 2017/746 die Anordnungen,
+die zur Beseitigung festgestellter Mängel oder zur Verhinderung
+künftiger Mängel notwendig sind.
 
 
 ### § 23 Auskunftsverweigerungsrecht
 
 Eine Person, die im Rahmen der Überwachung nach Artikel 44 der
-Verordnung (EU) 2017/745, § 17c Absatz 3, § 19 Absatz 3 oder § 21
-Absatz 3 zur Auskunft verpflichtet ist, kann die Auskunft auf solche
-Fragen verweigern, deren Beantwortung ihr selbst oder einer ihrer in §
-383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
-Angehörigen die Gefahr zuziehen würde, wegen einer Straftat oder einer
+Verordnung (EU) 2017/745, Artikel 40 der Verordnung (EU) 2017/746, §
+17c Absatz 3, § 19 Absatz 3 oder § 21 Absatz 3 zur Auskunft
+verpflichtet ist, kann die Auskunft auf solche Fragen verweigern,
+deren Beantwortung ihr selbst oder einer ihrer in § 383 Absatz 1
+Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen die
+Gefahr zuziehen würde, wegen einer Straftat oder einer
 Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist
 über ihr Recht zur Verweigerung der Auskunft zu belehren.
 
 
-## Kapitel 4 - Klinische Prüfungen und sonstige klinische Prüfungen
+## Kapitel 4 - Klinische Prüfungen, Leistungsstudien und sonstige klinische Prüfungen
 
 
 ### Abschnitt 1 - Ergänzende Voraussetzungen
@@ -848,104 +904,157 @@ Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist
 
 #### § 24 Allgemeine ergänzende Voraussetzungen
 
-Über die Voraussetzungen der Verordnung
-(EU) 2017/745              hinaus darf eine klinische Prüfung von
-Produkten zu einem der in Artikel 62 Absatz 1 dieser Verordnung
-genannten Zwecke und über die Voraussetzungen des Artikels 82 Absatz 1
-der Verordnung
-(EU) 2017/745              hinaus darf eine sonstige klinische Prüfung
-nur durchgeführt werden, wenn und solange die weiteren Voraussetzungen
-nach diesem Abschnitt vorliegen.
+Über die Voraussetzungen der Verordnung (EU) 2017/745 hinaus darf eine
+klinische Prüfung von Produkten zu einem der in Artikel 62 Absatz 1
+dieser Verordnung genannten Zwecke, über die Voraussetzungen der
+Verordnung (EU) 2017/746 hinaus darf eine Leistungsstudie für In-
+vitro-Diagnostika nach Artikel 58 Absatz 1 oder Absatz 2 Satz 1 der
+Verordnung (EU) 2017/746 und über die Voraussetzungen des Artikels 82
+Absatz 1 der Verordnung (EU) 2017/745 hinaus darf eine sonstige
+klinische Prüfung nur durchgeführt werden, wenn und solange die
+weiteren Voraussetzungen nach diesem Abschnitt vorliegen.
 
 
 #### § 25 Sponsor oder rechtlicher Vertreter des Sponsors
 
 Bei ausschließlich national durchgeführten oder bei national und in
-Drittstaaten durchgeführten klinischen Prüfungen und sonstigen
-klinischen Prüfungen muss ein Sponsor oder ein rechtlicher Vertreter
-des Sponsors im Sinne von Artikel 62 Absatz 2 Unterabsatz 1 der
-Verordnung (EU) 2017/745 vorhanden sein, der seinen Sitz in einem
+Drittstaaten durchgeführten klinischen Prüfungen, Leistungsstudien und
+sonstigen klinischen Prüfungen muss ein Sponsor oder ein rechtlicher
+Vertreter des Sponsors im Sinne von Artikel 62 Absatz 2 Unterabsatz 1
+der Verordnung (EU) 2017/745 oder Artikel 58 Absatz 4 Unterabsatz 1
+der Verordnung (EU) 2017/746 vorhanden sein, der seinen Sitz in einem
 Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat.
 
 
 #### § 26 Versicherungsschutz
 
-(1) Zugunsten der von einer klinischen Prüfung oder einer sonstigen
-klinischen Prüfung betroffenen Personen ist eine Versicherung bei
-einem Versicherer, der in einem Mitgliedstaat der Europäischen Union
-oder in einem anderen Vertragsstaat des Abkommens über den
-Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassen ist,
-abzuschließen.
+(1) Zugunsten der von einer klinischen Prüfung, einer Leistungsstudie
+oder einer sonstigen klinischen Prüfung betroffenen Personen ist eine
+Versicherung bei einem Versicherer, der in einem Mitgliedstaat der
+Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassen
+ist, abzuschließen.
 
 (2) Die abzuschließende Versicherung muss für Schäden haften, wenn bei
-der Durchführung der klinischen Prüfung oder der sonstigen klinischen
-Prüfung ein Mensch getötet oder der Körper oder die Gesundheit eines
-Menschen verletzt wird, und auch Leistungen gewähren, wenn kein
-anderer für den Schaden haftet.
+der Durchführung der klinischen Prüfung, der Leistungsstudie oder der
+sonstigen klinischen Prüfung ein Mensch getötet oder der Körper oder
+die Gesundheit eines Menschen verletzt wird, und auch Leistungen
+gewähren, wenn kein anderer für den Schaden haftet.
 
 (3) Der Umfang der abzuschließenden Versicherung muss in einem
-angemessenen Verhältnis zu den mit der klinischen Prüfung oder der
-sonstigen klinischen Prüfung verbundenen Risiken stehen und auf der
-Grundlage der Risikoabschätzung so festgelegt werden, dass für jeden
-Fall des Todes oder der fortdauernden Erwerbsunfähigkeit einer von der
-klinischen Prüfung oder der sonstigen klinischen Prüfung betroffenen
-Person mindestens 500 000 Euro zur Verfügung stehen.
+angemessenen Verhältnis zu den mit der klinischen Prüfung, der
+Leistungsstudie oder der sonstigen klinischen Prüfung verbundenen
+Risiken stehen und auf der Grundlage der Risikoabschätzung so
+festgelegt werden, dass für jeden Fall des Todes oder der
+fortdauernden Erwerbsunfähigkeit einer von der klinischen Prüfung oder
+der sonstigen klinischen Prüfung betroffenen Person mindestens 500 000
+Euro zur Verfügung stehen.
 
 (4) Soweit aus der Versicherung geleistet wird, erlischt ein Anspruch
 der betroffenen Person auf Schadensersatz.
 
+(5) Für die Durchführung einer sonstigen klinischen Prüfung eines
+Produktes, das bereits die CE-Kennzeichnung nach Artikel 20 Absatz 1
+der Verordnung (EU) 2017/745 trägt, sowie für die Durchführung einer
+klinischen Prüfung, die der weitergehenden Bewertung eines Produktes
+dient, das bereits die CE-Kennzeichnung nach Artikel 20 Absatz 1 der
+Verordnung (EU) 2017/745 trägt, bedarf es einer Versicherung nach
+dieser Vorschrift nicht, wenn die prüfungsbezogene Verwendung des
+Produktes im Rahmen seiner Zweckbestimmung erfolgt, die
+Prüfungsteilnehmer über die normalen Verwendungsbedingungen des
+Produktes hinaus keinen zusätzlichen invasiven oder belastenden
+Verfahren unterzogen werden und eine anderweitige geeignete
+Versicherung für den Prüfer oder Sponsor besteht.
+
 
 #### § 27 Verbot der Durchführung bei untergebrachten Personen
 
-Die Person, bei der eine klinische Prüfung oder eine sonstige
-klinische Prüfung durchgeführt werden soll, darf nicht auf Grund einer
-behördlichen Anordnung oder einer gerichtlichen Anordnung oder
-Genehmigung freiheitsentziehend untergebracht sein.
+Die Person, bei der eine klinische Prüfung, eine Leistungsstudie oder
+eine sonstige klinische Prüfung durchgeführt werden soll, darf nicht
+auf Grund einer behördlichen Anordnung oder einer gerichtlichen
+Anordnung oder Genehmigung freiheitsentziehend untergebracht sein.
 
 
 #### § 28 Einwilligung in die Teilnahme
 
 (1) Ergänzend zu den Artikeln 63 und 82 Absatz 1 der Verordnung (EU)
-2017/745 gelten für die Einwilligung des Prüfungsteilnehmers oder,
-falls dieser nicht in der Lage ist, eine Einwilligung nach Aufklärung
-zu erteilen, seines gesetzlichen oder rechtsgeschäftlichen Vertreters
-die Vorgaben nach den Absätzen 2 bis 6.
+2017/745 und Artikel 59 der Verordnung (EU) 2017/746 gelten für die
+Einwilligung des Prüfungsteilnehmers oder, falls dieser nicht in der
+Lage ist, eine Einwilligung nach Aufklärung zu erteilen, seines
+gesetzlichen oder rechtsgeschäftlichen Vertreters die Vorgaben nach
+den Absätzen 2 bis 6.
 
 (2) Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist,
 eine Einwilligung nach Aufklärung zu erteilen, sein gesetzlicher oder
 rechtsgeschäftlicher Vertreter ist durch einen Prüfer, der Arzt oder,
-bei einer zahnmedizinischen klinischen Prüfung der Zahnarzt ist, im
-Rahmen des Gesprächs nach Artikel 63 Absatz 2 Buchstabe c der
-Verordnung (EU) 2017/745 aufzuklären.
+bei einer zahnmedizinischen klinischen Prüfung oder einer
+zahnmedizinischen Leistungsstudie der Zahnarzt ist, im Rahmen des
+Gesprächs nach Artikel 63 Absatz 2 Buchstabe c der Verordnung (EU)
+2017/745 oder Artikel 59 Absatz 2 Buchstabe c der Verordnung (EU)
+2017/746 aufzuklären.
 
-(3) Eine klinische Prüfung oder eine sonstige klinische Prüfung mit
-einer Person, die nicht in der Lage ist, eine Einwilligung nach
-Aufklärung zu erteilen, darf nur durchgeführt werden, wenn folgende
-Voraussetzungen vorliegen:
+(3) Eine klinische Prüfung, eine Leistungsstudie oder eine sonstige
+klinische Prüfung mit einer Person, die nicht in der Lage ist, eine
+Einwilligung nach Aufklärung zu erteilen, darf nur durchgeführt
+werden, wenn folgende Voraussetzungen vorliegen:
 
 1.  die Voraussetzungen des Artikels 64 Absatz 1 der Verordnung (EU)
-    2017/745 und
+    2017/745 oder des Artikels 60 Absatz 1 der Verordnung (EU) 2017/746
+    und
 
 
 2.  die Voraussetzungen des Artikels 64 Absatz 2 der Verordnung (EU)
-    2017/745.
+    2017/745 oder des Artikels 60 Absatz 2 der Verordnung (EU) 2017/746.
 
 
 
+Bei einer volljährigen Person, die nicht in der Lage ist, eine
+Einwilligung nach Aufklärung zu erteilen, darf eine Leistungsstudie im
+Sinne des Artikels 60 Absatz 1 Buchstabe g Ziffer ii der Verordnung
+(EU) 2017/746, die ausschließlich einen Nutzen für die repräsentierte
+Bevölkerungsgruppe, zu der die betroffene Person gehört, zur Folge
+haben wird (gruppennützige Leistungsstudie), nur durchgeführt werden,
+wenn die betroffene Person vor Eintritt ihrer Einwilligungsunfähigkeit
 
-(4) Eine klinische Prüfung oder eine sonstige klinische Prüfung darf
-bei einem Minderjährigen, der in der Lage ist, das Wesen, die
-Bedeutung und die Tragweite der Prüfung oder Studie zu erkennen und
-seinen Willen hiernach auszurichten, nur durchgeführt werden, wenn
-auch seine schriftliche Einwilligung nach Aufklärung nach Artikel 63
-der Verordnung (EU) 2017/745 zusätzlich zu der schriftlichen
-Einwilligung, die sein gesetzlicher Vertreter nach Aufklärung erteilt
-hat, vorliegt.
+1.  durch einen Arzt über sämtliche für die Einwilligung wesentlichen
+    Umstände, insbesondere über das Wesen, die Ziele, den Nutzen, die
+    Folgen, die Risiken und die Nachteile von Leistungsstudien, die unter
+    den Bedingungen des Artikels 60 Absatz 1 der Verordnung (EU) 2017/746
+    stattfinden sowie die in Artikel 59 Absatz 2 Buchstabe a Ziffer ii und
+    iv der Verordnung (EU) 2017/746 angeführten Inhalte, aufgeklärt wurde
+    und
 
-(5) Eine klinische Prüfung oder eine sonstige klinische Prüfung darf
-in Notfällen nur durchgeführt werden, wenn die Voraussetzungen des
-Artikels 68 der Verordnung (EU) 2017/745 vorliegen.
+
+2.  nach dieser Aufklärung als Volljährige oder Volljähriger schriftlich
+    festgelegt hat, dass sie in bestimmte zum Zeitpunkt der Festlegung
+    noch nicht unmittelbar bevorstehende gruppennützige Leistungsstudien
+    einwilligt.
+
+
+
+Die Einwilligung nach Satz 2 kann jederzeit formlos widerrufen werden.
+Der Betreuer oder Bevollmächtigte prüft, ob die für die Einwilligung
+getroffenen Festlegungen auf die aktuelle Situation zutreffen. § 1901a
+Absatz 1 und 4 bis 6 des Bürgerlichen Gesetzbuches gilt im Übrigen
+entsprechend. Bei Minderjährigen, die auch nach Erreichen der
+Volljährigkeit voraussichtlich nicht in der Lage sein werden, eine
+Einwilligung nach Aufklärung zu erteilen, darf keine gruppennützige
+Leistungsstudie durchgeführt werden.
+
+(4) Eine klinische Prüfung, eine Leistungsstudie oder eine sonstige
+klinische Prüfung darf bei einem Minderjährigen, der in der Lage ist,
+das Wesen, die Bedeutung und die Tragweite der Prüfung oder Studie zu
+erkennen und seinen Willen hiernach auszurichten, nur durchgeführt
+werden, wenn auch seine schriftliche Einwilligung nach Aufklärung nach
+Artikel 63 der Verordnung (EU) 2017/745 oder Artikel 59 der Verordnung
+(EU) 2017/746 zusätzlich zu der schriftlichen Einwilligung, die sein
+gesetzlicher Vertreter nach Aufklärung erteilt hat, vorliegt.
+
+(5) Eine klinische Prüfung, eine Leistungsstudie oder eine sonstige
+klinische Prüfung darf in Notfällen nur durchgeführt werden, wenn die
+Voraussetzungen des Artikels 68 der Verordnung (EU) 2017/745 oder des
+Artikels 64 der Verordnung (EU) 2017/746 vorliegen.
 
 (6) Für den Widerruf der Einwilligung in die Teilnahme an einer
 sonstigen klinischen Prüfung ist Artikel 62 Absatz 5 der Verordnung
@@ -957,26 +1066,27 @@ sonstigen klinischen Prüfung ist Artikel 62 Absatz 5 der Verordnung
 Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine
 Einwilligung nach Aufklärung zu erteilen, sein gesetzlicher oder
 rechtsgeschäftlicher Vertreter muss ausdrücklich schriftlich oder
-elektronisch in die mit der Teilnahme an einer klinischen Prüfung oder
-einer sonstigen klinischen Prüfung verbundene Verarbeitung von
-personenbezogenen Daten, insbesondere von Gesundheitsdaten,
-einwilligen. Er ist über Zweck und Umfang der Verarbeitung dieser
-Daten aufzuklären, insbesondere darüber, dass
+elektronisch in die mit der Teilnahme an einer klinischen Prüfung,
+einer Leistungsstudie oder einer sonstigen klinischen Prüfung
+verbundene Verarbeitung von personenbezogenen Daten, insbesondere von
+Gesundheitsdaten, einwilligen. Er ist über Zweck und Umfang der
+Verarbeitung dieser Daten aufzuklären, insbesondere darüber, dass
 
 1.  die erhobenen Daten, soweit erforderlich,
 
-    a)  für die Dauer der klinischen Prüfung oder der sonstigen klinischen
-        Prüfung zur Überprüfung der ordnungsgemäßen Durchführung der
-        klinischen Prüfung oder der sonstigen klinischen Prüfung zur
-        Einsichtnahme durch die Überwachungsbehörde oder Beauftragte des
-        Sponsors in der Prüfstelle bereitgehalten werden,
+    a)  für die Dauer der klinischen Prüfung, der Leistungsstudie oder der
+        sonstigen klinischen Prüfung zur Überprüfung der ordnungsgemäßen
+        Durchführung der klinischen Prüfung, der Leistungsstudie oder der
+        sonstigen klinischen Prüfung zur Einsichtnahme durch die
+        Überwachungsbehörde oder Beauftragte des Sponsors in der Prüfstelle
+        bereitgehalten werden,
 
 
     b)  pseudonymisiert an den Sponsor oder eine von ihm beauftragte Stelle
         zum Zwecke der wissenschaftlichen Auswertung weitergegeben werden,
 
 
-    c)  im Fall der Verwendung der Prüfungsergebnisse für die
+    c)  im Fall der Verwendung der Prüfungs- oder Studienergebnisse für die
         Konformitätsbewertung pseudonymisiert an den Hersteller und an die an
         der Durchführung eines Konformitätsbewertungsverfahrens beteiligte
         Benannte Stelle, die Europäische Kommission und, sofern zutreffend, an
@@ -987,30 +1097,35 @@ Daten aufzuklären, insbesondere darüber, dass
     d)  im Fall unerwünschter Ereignisse, schwerwiegender unerwünschter
         Ereignisse und von Produktmängeln pseudonymisiert vom Prüfer an den
         Sponsor zur Aufzeichnung nach Artikel 80 Absatz 1 Buchstabe a bis c
-        der Verordnung (EU) 2017/745 weitergegeben werden,
+        der Verordnung (EU) 2017/745 oder Artikel 76 Absatz 1 Buchstabe a bis
+        c der Verordnung (EU) 2017/746 weitergegeben werden,
 
 
     e)  im Fall eines schwerwiegenden unerwünschten Ereignisses, das einen
         Kausalzusammenhang mit dem Prüfprodukt, einem Komparator oder dem
         Prüfverfahren aufweist oder bei dem ein Kausalzusammenhang durchaus
         möglich ist, nach Artikel 80 Absatz 2 der Verordnung (EU) 2017/745
-        pseudonymisiert vom Sponsor über das elektronische System nach Artikel
-        73 der Verordnung (EU) 2017/745 an die Behörden der anderen
-        Mitgliedstaaten der Europäischen Union weitergegeben werden,
+        oder Artikel 76 Absatz 2 der Verordnung (EU) 2017/746 pseudonymisiert
+        vom Sponsor über das elektronische System nach Artikel 73 der
+        Verordnung (EU) 2017/745 oder Artikel 69 der Verordnung (EU) 2017/746
+        an die Behörden der anderen Mitgliedstaaten der Europäischen Union
+        weitergegeben werden,
 
 
 
 
 
 2.  die gespeicherten Daten im Fall eines Widerrufs der Einwilligung zur
-    Teilnahme an der klinischen Prüfung oder an einer sonstigen klinischen
-    Prüfung allein oder gemeinsam mit dem Widerruf der Einwilligung nach
-    Satz 1, weiterhin im Sinne des Artikels 62 Absatz 5 der Verordnung
-    (EU) 2017/745 verwendet werden dürfen, soweit dies erforderlich ist,
-    um
+    Teilnahme an der klinischen Prüfung, an der Leistungsstudie oder an
+    einer sonstigen klinischen Prüfung allein oder gemeinsam mit dem
+    Widerruf der Einwilligung nach Satz 1, weiterhin im Sinne des Artikels
+    62 Absatz 5 der Verordnung (EU) 2017/745 oder des Artikels 58 Absatz 6
+    der Verordnung (EU) 2017/746 verwendet werden dürfen, soweit dies
+    erforderlich ist, um
 
-    a)  Ziele der klinischen Prüfung oder der sonstigen klinischen Prüfung zu
-        verwirklichen oder nicht ernsthaft zu beeinträchtigen oder
+    a)  Ziele der klinischen Prüfung, der Leistungsstudie oder der sonstigen
+        klinischen Prüfung zu verwirklichen oder nicht ernsthaft zu
+        beeinträchtigen oder
 
 
     b)  sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer
@@ -1021,24 +1136,26 @@ Daten aufzuklären, insbesondere darüber, dass
 
 
 3.  die Daten auf Grund der Vorgaben in Anhang XV Kapitel III Abschnitt 3
-    der Verordnung (EU) 2017/745 für die dort bestimmten Fristen
+    der Verordnung (EU) 2017/745 oder in Anhang XIV Kapitel II Abschnitt 3
+    der Verordnung (EU) 2017/746 für die dort bestimmten Fristen
     gespeichert werden.
 
 
 
 
 
-#### § 30 Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung
+#### § 30 Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung, Leistungsstudie oder sonstigen klinischen Prüfung
 
-(1) Soll eine klinische Prüfung oder sonstige klinische Prüfung von
-mehreren Prüfern in einer Prüfstelle durchgeführt werden, so bestimmt
-der Sponsor einen Prüfer als Hauptprüfer. Soll die klinische Prüfung
-oder sonstige klinische Prüfung in Deutschland in mehreren Prüfstellen
-durchgeführt werden, so bestimmt der Sponsor einen Leiter der
-klinischen Prüfung oder sonstigen klinischen Prüfung.
+(1) Soll eine klinische Prüfung, Leistungsstudie oder sonstige
+klinische Prüfung von mehreren Prüfern in einer Prüfstelle
+durchgeführt werden, so bestimmt der Sponsor einen Prüfer als
+Hauptprüfer. Soll die klinische Prüfung, Leistungsstudie oder sonstige
+klinische Prüfung in Deutschland in mehreren Prüfstellen durchgeführt
+werden, so bestimmt der Sponsor einen Leiter der klinischen Prüfung,
+Leistungsstudie oder sonstigen klinischen Prüfung.
 
-(2) Prüfer und Hauptprüfer sowie der Leiter einer klinischen Prüfung
-oder sonstigen klinischen Prüfung müssen
+(2) Prüfer und Hauptprüfer sowie der Leiter einer klinischen Prüfung,
+Leistungsstudie oder sonstigen klinischen Prüfung müssen
 
 1.  Ärzte oder Ärztinnen oder bei für die Zahnheilkunde bestimmten
     Medizinprodukten Zahnärzte oder Zahnärztinnen sein,
@@ -1049,10 +1166,11 @@ oder sonstigen klinischen Prüfung müssen
 
 
 3.  mit den Grundzügen des Medizinprodukterechts, den rechtlichen und
-    wissenschaftlichen Grundlagen von klinischen Prüfungen oder sonstigen
-    klinischen Prüfungen, mit dem Prüfplan und dem Handbuch des klinischen
-    Prüfers vertraut sein und in die sich daraus ergebenden Pflichten
-    eingewiesen worden sein.
+    wissenschaftlichen Grundlagen von klinischen Prüfungen,
+    Leistungsstudien oder sonstigen klinischen Prüfungen, mit dem Prüfplan
+    oder dem Leistungsstudienplan und dem Handbuch des klinischen Prüfers
+    vertraut sein und in die sich daraus ergebenden Pflichten eingewiesen
+    worden sein.
 
 
 
@@ -1060,13 +1178,16 @@ oder sonstigen klinischen Prüfung müssen
 (3) Abweichend von Absatz 2 Nummer 1 dürfen Personen ohne ärztliche
 oder zahnärztliche Qualifikation als Prüfer oder Hauptprüfer tätig
 werden, sofern sie zur Ausübung eines Berufs berechtigt sind, der zu
-einer klinischen Prüfung oder einer sonstigen klinischen Prüfung
-qualifiziert.
+einer klinischen Prüfung, einer Leistungsstudie oder einer sonstigen
+klinischen Prüfung qualifiziert.
 
 (4) Als Leiter einer klinischen Prüfung oder einer sonstigen
 klinischen Prüfung kann nur bestimmt werden, wer eine mindestens
 zweijährige Erfahrung in der klinischen Prüfung von Medizinprodukten
-nachweisen kann.
+nachweisen kann. Als Leiter einer Leistungsstudie kann nur bestimmt
+werden, wer die Voraussetzungen nach Satz 1 erfüllt oder eine
+zweijährige Erfahrung in der Durchführung von interventionellen
+klinischen Leistungsstudien mit In-vitro-Diagnostika nachweisen kann.
 
 (5) Der Nachweis der nach den Absätzen 2 bis 4 geforderten
 Qualifikation ist durch einen aktuellen Lebenslauf und durch andere
@@ -1076,7 +1197,7 @@ aussagefähige Dokumente zu erbringen.
 ### Abschnitt 2 - Voraussetzungen für den Beginn, wesentliche Änderungen und Korrekturmaßnahmen
 
 
-#### Unterabschnitt 1 - Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017/745
+#### Unterabschnitt 1 - Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017/745 und Leistungsstudien nach Artikel 58 Absatz 1 und 2 Satz 1 der Verordnung (EU) 2017/746
 
 
 ##### Titel 1 - Voraussetzungen für den Beginn
@@ -1116,15 +1237,83 @@ Produkten darf nur begonnen werden, wenn
 
 
 
+###### § 31a Beginn einer Leistungsstudie
+
+(1) Eine Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der
+Verordnung (EU) 2017/746 durchgeführt wird und bei der die Probenahme
+kein erhebliches klinisches Risiko für den Prüfungsteilnehmer
+darstellt, darf abweichend von Artikel 66 Absatz 7 Buchstabe a der
+Verordnung (EU) 2017/746 erst begonnen werden, wenn die zuständige
+Bundesoberbehörde innerhalb von zehn Tagen nach dem Validierungsdatum
+nach Artikel 66 Absatz 5 der Verordnung (EU) 2017/746 nicht
+widersprochen hat und die nach § 33 Absatz 1 zuständige Ethik-
+Kommission hierfür eine zustimmende Stellungnahme abgegeben hat.
+
+(2) Eine Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe b
+oder c der Verordnung (EU) 2017/746 durchgeführt wird, darf erst
+begonnen werden, wenn die zuständige Bundesoberbehörde hierfür eine
+Genehmigung erteilt hat und die nach § 33 Absatz 1 zuständige Ethik-
+Kommission hierfür eine zustimmende Stellungnahme abgegeben hat.
+
+(3) Die Absätze 1 und 2 sind auch auf Leistungsstudien anzuwenden, die
+therapiebegleitende Diagnostika einbeziehen.
+
+
+###### § 31b Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika
+
+(1) Leistungsstudien, die therapiebegleitende Diagnostika einbeziehen,
+bei denen nur Restproben verwendet werden, muss der Sponsor dem
+Bundesinstitut für Arzneimittel und Medizinprodukte und dem Paul-
+Ehrlich-Institut vor Beginn über das Deutsche
+Medizinprodukteinformations- und Datenbanksystem nach § 86 anzeigen.
+Das Bundesinstitut für Arzneimittel und Medizinprodukte benachrichtigt
+das Paul-Ehrlich-Institut mittels eines automatisierten Verfahrens
+über den Eingang der Anzeige.
+
+(2) Die Anzeige nach Absatz 1 enthält folgende Angaben und Unterlagen:
+
+1.  den Namen, die Anschrift und die Kontaktdaten des Sponsors und
+    gegebenenfalls seines in der Europäischen Union niedergelassenen
+    rechtlichen Vertreters nach Artikel 58 Absatz 4 der Verordnung (EU)
+    2017/746,
+
+
+2.  den Namen, die Anschrift und die Kontaktdaten des Herstellers des
+    therapiebegleitenden Diagnostikums, das einer Leistungsbewertung
+    unterzogen werden soll, und gegebenenfalls seines Bevollmächtigten,
+    falls diese Angaben von Nummer 1 abweichen,
+
+
+3.  die Bezeichnung der Leistungsstudie,
+
+
+4.  eine kurze Beschreibung des therapiebegleitenden Diagnostikums, das
+    Gegenstand der Leistungsstudie ist,
+
+
+5.  den Internationalen Freinamen (INN) des dazugehörigen Arzneimittels,
+
+
+6.  den Leistungsstudienplan nach Anhang XIII Teil A Abschnitt 2.3.2. der
+    Verordnung (EU) 2017/746 und
+
+
+7.  die Herkunft der zu untersuchenden Proben.
+
+
+
+
+
 ##### Titel 2 - Verfahren bei der Ethik-Kommission
 
 
 ###### § 32 Anforderungen an die Ethik-Kommissionen
 
 (1) Stellungnahmen nach Artikel 62 Absatz 4 Buchstabe b der Verordnung
-(EU) 2017/745 dürfen nur öffentlich-rechtliche, nach Landesrecht
-gebildete Ethik-Kommissionen abgeben, die den Anforderungen nach den
-Absätzen 2 bis 4 entsprechen.
+(EU) 2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU)
+2017/746 dürfen nur öffentlich-rechtliche, nach Landesrecht gebildete
+Ethik-Kommissionen abgeben, die den Anforderungen nach den Absätzen 2
+bis 4 entsprechen.
 
 (2) Ethik-Kommissionen sind besetzt mit mindestens
 
@@ -1189,7 +1378,8 @@ Kommission trifft. Dazu gehören Regelungen
 ###### § 33 Antrag bei der Ethik-Kommission
 
 (1) Die nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU)
-2017/745 erforderliche Stellungnahme einer Ethik-Kommission ist vom
+2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU)
+2017/746 erforderliche Stellungnahme einer Ethik-Kommission ist vom
 Sponsor über das Deutsche Medizinprodukteinformations- und
 Datenbanksystem nach § 86 zu beantragen bei
 
@@ -1200,31 +1390,46 @@ Datenbanksystem nach § 86 zu beantragen bei
     wenn ein Hauptprüfer bestimmt ist, oder
 
 
-3.  der nach Landesrecht für den Leiter der klinischen Prüfung zuständigen
-    Ethik-Kommission, wenn ein Leiter der klinischen Prüfung bestimmt ist.
+3.  der nach Landesrecht für den Leiter der klinischen Prüfung oder der
+    Leistungsstudie zuständigen Ethik-Kommission, wenn ein Leiter der
+    klinischen Prüfung oder der Leistungsstudie bestimmt ist.
 
 
 
 
 (2) Der Antrag muss enthalten:
 
-1.  die Angaben und Unterlagen, die in Anhang XV Kapitel II der Verordnung
-    (EU) 2017/745 genannt sind, mit Ausnahme der in Anhang XV Kapitel II
-    Ziffer 3.1.1. und 4.2. der Verordnung (EU) 2017/745 genannten Angaben
-    und Unterlagen, bei einer klinischen Prüfung und
+1.  die Angaben und Unterlagen,
+
+    a)  die in Anhang XV Kapitel II der Verordnung (EU) 2017/745 genannt sind,
+        mit Ausnahme der in Anhang XV Kapitel II Ziffer 3.1.1. und 4.2. der
+        Verordnung (EU) 2017/745 genannten Angaben und Unterlagen, bei einer
+        klinischen Prüfung oder
+
+
+    b)  die in Anhang XIV Kapitel I der Verordnung (EU) 2017/746 genannt sind,
+        mit Ausnahme der in Anhang XIV Kapitel I Ziffer 1.4. und 4.2. der
+        Verordnung (EU) 2017/746 genannten Angaben und Unterlagen, bei einer
+        Leistungsstudie, und
+
+
+
 
 
 2.  den Namen, die Anschrift und die Kontaktdaten des Leiters der
-    klinischen Prüfung, sofern ein Leiter bestimmt ist.
+    klinischen Prüfung oder der Leistungsstudie, sofern ein Leiter
+    bestimmt ist.
 
 
 
 Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen
 oder rechtsgeschäftlichen Vertreter bestimmt sind, sowie die
 Zusammenfassung des klinischen Prüfplans nach Anhang XV Kapitel II
-Ziffer 1.11. der Verordnung (EU) 2017/745 sind in deutscher Sprache
-einzureichen. Die weiteren Angaben und Unterlagen können in deutscher
-oder englischer Sprache vorgelegt werden.
+Ziffer 1.11. der Verordnung (EU) 2017/745 oder des
+Leistungsstudienplans nach Anhang XIV Kapitel I Ziffer 1.11. der
+Verordnung (EU) 2017/746 sind in deutscher Sprache einzureichen. Die
+weiteren Angaben und Unterlagen können in deutscher oder englischer
+Sprache vorgelegt werden.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte teilt dem
 Sponsor, der zuständigen Ethik-Kommission sowie den nach § 35 Absatz 2
@@ -1250,29 +1455,38 @@ zehn Tagen den Eingang des ordnungsgemäßen Antrags unter Angabe des
 Eingangsdatums.
 
 
-###### § 35 Ethische Bewertung der beantragten klinischen Prüfung
+###### § 35 Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie
 
-(1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan und
-die erforderlichen Unterlagen insbesondere unter ethischen und
-rechtlichen Gesichtspunkten zu beraten und zu prüfen, ob folgende
-Voraussetzungen erfüllt werden:
+(1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan oder
+den Leistungsstudienplan und die erforderlichen Unterlagen
+insbesondere unter ethischen und rechtlichen Gesichtspunkten zu
+beraten und zu prüfen, ob folgende Voraussetzungen erfüllt werden:
 
 1.  die Voraussetzungen und Anforderungen nach Abschnitt 1 und
 
 
-2.  die Voraussetzungen nach Artikel 62 Absatz 4 Buchstabe c bis k, Absatz
-    6 und 7 der Verordnung (EU) 2017/745.
+2.  die Voraussetzungen
+
+    a)  nach Artikel 62 Absatz 4 Buchstabe c bis k, Absatz 6 und 7 der
+        Verordnung (EU) 2017/745 bei einer klinischen Prüfung oder
+
+
+    b)  nach Artikel 58 Absatz 5 Buchstabe c bis k, Absatz 7 und 8 der
+        Verordnung (EU) 2017/746 bei einer Leistungsstudie.
 
 
 
 
-(2) Soll die klinische Prüfung in mehr als einer Prüfstelle
-durchgeführt werden, bewertet die zuständige Ethik-Kommission den
-Antrag im Benehmen mit den Ethik-Kommissionen, die nach Landesrecht
-für die Prüfer oder Hauptprüfer zuständig sind (beteiligte Ethik-
-Kommissionen). Die beteiligten Ethik-Kommissionen prüfen jeweils die
-Qualifikation der Prüfer und die Geeignetheit der Prüfstellen in ihrem
-Zuständigkeitsbereich. Die Stellungnahmen der beteiligten Ethik-
+
+
+
+(2) Soll die klinische Prüfung oder die Leistungsstudie in mehr als
+einer Prüfstelle durchgeführt werden, bewertet die zuständige Ethik-
+Kommission den Antrag im Benehmen mit den Ethik-Kommissionen, die nach
+Landesrecht für die Prüfer oder Hauptprüfer zuständig sind (beteiligte
+Ethik-Kommissionen). Die beteiligten Ethik-Kommissionen prüfen jeweils
+die Qualifikation der Prüfer und die Geeignetheit der Prüfstellen in
+ihrem Zuständigkeitsbereich. Die Stellungnahmen der beteiligten Ethik-
 Kommissionen müssen der zuständigen Ethik-Kommission innerhalb von 20
 Tagen nach Eingang des ordnungsgemäßen Antrags vorgelegt werden.
 
@@ -1287,10 +1501,10 @@ Tage ab Zugang des Informationsersuchens nicht überschreiten.
 Kommission eigene wissenschaftliche Erkenntnisse verwerten,
 Sachverständige beiziehen oder Gutachten anfordern. Sie hat
 Sachverständige beizuziehen oder Gutachten anzufordern, wenn es sich
-um eine klinische Prüfung bei Minderjährigen handelt und sie nicht
-über eigene Fachkenntnisse auf dem Gebiet der Kinderheilkunde,
-einschließlich ethischer und psychosozialer Fragen der
-Kinderheilkunde, verfügt.
+um eine klinische Prüfung oder eine Leistungsstudie bei Minderjährigen
+handelt und sie nicht über eigene Fachkenntnisse auf dem Gebiet der
+Kinderheilkunde, einschließlich ethischer und psychosozialer Fragen
+der Kinderheilkunde, verfügt.
 
 
 ###### § 36 Frist zur Stellungnahme der Ethik-Kommission
@@ -1338,6 +1552,27 @@ eine klinische Prüfung darf nur eine Ablehnung enthalten, wenn
 
 
 
+(3) Eine Stellungnahme der zuständigen Ethik-Kommission in Bezug auf
+eine Leistungsstudie darf nur eine Ablehnung enthalten, wenn
+
+1.  die vorgelegten Unterlagen auch nach Ablauf der in § 34 Absatz 2
+    genannten Frist unvollständig sind,
+
+
+2.  die vorgelegten Unterlagen, insbesondere der Leistungsstudienplan und
+    die Prüferinformation nicht dem Stand der wissenschaftlichen
+    Erkenntnisse entsprechen und die Leistungsstudie ungeeignet ist, den
+    Nachweis für die Sicherheit, die Leistungsmerkmale oder den Nutzen des
+    In-vitro-Diagnostikums zu erbringen, oder
+
+
+3.  die in Artikel 58 Absatz 5 Buchstabe c bis k, Absatz 7 und 8 der
+    Verordnung (EU) 2017/746 sowie die in Kapitel 4 Abschnitt 1 genannten
+    Anforderungen nicht erfüllt sind.
+
+
+
+
 
 ##### Titel 3 - Verfahren bei der Bundesoberbehörde
 
@@ -1345,34 +1580,49 @@ eine klinische Prüfung darf nur eine Ablehnung enthalten, wenn
 ###### § 38 Antrag
 
 (1) Der Antrag nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745
-ist vom Sponsor bei der zuständigen Bundesoberbehörde in deutscher
-oder englischer Sprache zu stellen. Der Antrag muss die in Anhang XV
-Kapitel II der Verordnung (EU) 2017/745 genannten Angaben und
-Unterlagen sowie die Stellungnahme der zuständigen Ethik-Kommission
-enthalten. Unterlagen, die für den Prüfungsteilnehmer oder seinen
-gesetzlichen oder rechtsgeschäftlichen Vertreter bestimmt sind, sind
-in deutscher Sprache einzureichen.
+oder Artikel 66 Absatz 1 der Verordnung (EU) 2017/746 ist vom Sponsor
+bei der zuständigen Bundesoberbehörde in deutscher oder englischer
+Sprache zu stellen. Der Antrag muss die in Anhang XV Kapitel II der
+Verordnung (EU) 2017/745 oder Anhang XIV Kapitel I der Verordnung (EU)
+2017/746 genannten Angaben und Unterlagen sowie die Stellungnahme der
+zuständigen Ethik-Kommission enthalten. Unterlagen, die für den
+Prüfungsteilnehmer oder seinen gesetzlichen oder rechtsgeschäftlichen
+Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
 
 (2) Absatz 1 ist auch anzuwenden, wenn der Sponsor die klinische
-Prüfung in mehr als einem Mitgliedstaat durchführen will und einen
-einzigen Antrag nach Artikel 78 der Verordnung (EU) 2017/745 stellt.
+Prüfung oder die Leistungsstudie in mehr als einem Mitgliedstaat
+durchführen will und einen einzigen Antrag nach Artikel 78 der
+Verordnung (EU) 2017/745 oder Artikel 74 der Verordnung (EU) 2017/746
+stellt.
 
 
 ###### § 39 Umfang der Prüfung des Antrags
 
-(1) Die zuständige Bundesoberbehörde prüft bei klinischen Prüfungen
-den Prüfplan und die erforderlichen Unterlagen nach Maßgabe des
-Artikels 71 Absatz 1 bis 3 der Verordnung (EU) 2017/745 mit Ausnahme
-der in Artikel 62 Absatz 4 Buchstabe c, d, f bis k, Absatz 6 und 7 der
-Verordnung (EU) 2017/745 genannten Aspekte.
+(1) Die zuständige Bundesoberbehörde prüft
 
-(2) Änderungen des Prüfplans, die vom Sponsor im laufenden Verfahren
-vorgenommen werden, um Beanstandungen der Bundesoberbehörde
-auszuräumen, sind vom Sponsor der zuständigen Ethik-Kommission über
-das Deutsche Informations- und Datenbanksystem über Medizinprodukte
-unverzüglich anzuzeigen; sie gelten als zustimmend bewertet, wenn die
-Ethik-Kommission nicht innerhalb von 14 Tagen nach Erhalt der Anzeige
-der Änderung widerspricht.
+1.  bei klinischen Prüfungen: den Prüfplan und die erforderlichen
+    Unterlagen nach Maßgabe des Artikels 71 Absatz 1 bis 3 der Verordnung
+    (EU) 2017/745 mit Ausnahme der in Artikel 62 Absatz 4 Buchstabe c, d,
+    f bis k, Absatz 6 und 7 der Verordnung (EU) 2017/745 genannten Aspekte
+    und
+
+
+2.  bei Leistungsstudien: den Leistungsstudienplan und die erforderlichen
+    Unterlagen nach Maßgabe des Artikels 67 Absatz 1 bis 3 der Verordnung
+    (EU) 2017/746 mit Ausnahme der in Artikel 58 Absatz 5 Buchstabe c, d,
+    f bis k, Absatz 7 und 8 der Verordnung (EU) 2017/746 genannten
+    Aspekte.
+
+
+
+
+(2) Änderungen des Prüfplans oder des Leistungsstudienplans, die vom
+Sponsor im laufenden Verfahren vorgenommen werden, um Beanstandungen
+der Bundesoberbehörde auszuräumen, sind vom Sponsor der zuständigen
+Ethik-Kommission über das Deutsche Informations- und Datenbanksystem
+über Medizinprodukte unverzüglich anzuzeigen; sie gelten als
+zustimmend bewertet, wenn die Ethik-Kommission nicht innerhalb von 14
+Tagen nach Erhalt der Anzeige der Änderung widerspricht.
 
 (3) In den Fällen des § 31 Absatz 1 prüft die zuständige
 Bundesoberbehörde, ob die Klassifizierungsregeln des Anhangs VIII der
@@ -1381,8 +1631,15 @@ widerspricht dem Beginn einer klinischen Prüfung, wenn das Prüfprodukt
 nach den Klassifizierungsregeln nicht als Produkt der Klasse I oder
 nicht als nicht invasives Produkt der Klasse IIa einzustufen ist.
 
+(4) In den Fällen des § 31a Absatz 1 prüft die zuständige
+Bundesoberbehörde, ob die Probenahme ein erhebliches klinisches Risiko
+für den Prüfungsteilnehmer darstellt. Stellt die Probenahme ein
+erhebliches klinisches Risiko für den Prüfungsteilnehmer dar,
+widerspricht die zuständige Bundesoberbehörde dem Beginn einer
+Leistungsstudie.
 
-##### Titel 4 - Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017/745
+
+##### Titel 4 - Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017/745 oder Artikel 71 der Verordnung (EU) 2017/746
 
 
 ###### § 40 Zugang der Ethik-Kommission zu Mitteilungen
@@ -1390,7 +1647,8 @@ nicht als nicht invasives Produkt der Klasse IIa einzustufen ist.
 Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht der
 nach § 33 Absatz 1 zuständigen Ethik-Kommission in geeigneter Form den
 unverzüglichen Zugang zu der Mitteilung des Sponsors über eine
-wesentliche Änderung nach Artikel 75 der Verordnung (EU) 2017/745.
+wesentliche Änderung nach Artikel 75 der Verordnung (EU) 2017/745 oder
+Artikel 71 der Verordnung (EU) 2017/746.
 
 
 ###### § 41 Stellungnahme der Ethik-Kommission
@@ -1407,19 +1665,20 @@ innerhalb von 20 Tagen nach Erhalt der zu prüfenden Änderungen.
 
 (3) Die zuständige Ethik-Kommission nimmt gegenüber dem Sponsor
 innerhalb von 37 Tagen nach Erhalt der Mitteilung des Sponsors über
-eine wesentliche Änderung der klinischen Prüfung Stellung. Die Frist
-verlängert sich um sieben Tage, wenn sich die Ethik-Kommission durch
-Sachverständige beraten lässt. In diesem Fall teilt die Ethik-
-Kommission dem Sponsor spätestens 20 Tage nach Erhalt der Mitteilung
-über die wesentliche Änderung mit, dass sich die Frist auf Grund der
-Beratung durch Sachverständige verlängert, und weist zugleich darauf
-hin, dass sich damit auch die Frist nach Artikel 75 Absatz 3 der
-Verordnung
-(EU) 2017/745              entsprechend verlängert.
+eine wesentliche Änderung der klinischen Prüfung oder der
+Leistungsstudie Stellung. Die Frist verlängert sich um sieben Tage,
+wenn sich die Ethik-Kommission durch Sachverständige beraten lässt. In
+diesem Fall teilt die Ethik-Kommission dem Sponsor spätestens 20 Tage
+nach Erhalt der Mitteilung über die wesentliche Änderung mit, dass
+sich die Frist auf Grund der Beratung durch Sachverständige
+verlängert, und weist zugleich darauf hin, dass sich damit auch die
+Frist nach Artikel 75 Absatz 3 der Verordnung (EU) 2017/745 oder
+Artikel 71 Absatz 3 der Verordnung (EU) 2017/746 entsprechend
+verlängert.
 
 (4) Die Stellungnahme der Ethik-Kommission muss ein eindeutiges Votum
 im Sinne einer Zustimmung oder Ablehnung enthalten. Für eine
-ablehnende Stellungnahme gilt § 37 Absatz 2 entsprechend.
+ablehnende Stellungnahme gilt § 37 Absatz 2 oder 3 entsprechend.
 
 (5) Die zuständige Ethik-Kommission übermittelt ihre Stellungnahme
 über das Deutsche Medizinprodukteinformations- und Datenbanksystem
@@ -1431,17 +1690,19 @@ Behörden.
 ###### § 42 Entscheidung der Bundesoberbehörde
 
 Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75
-Absatz 3 Buchstabe a der Verordnung (EU) 2017/745 genannten Gründe
-eine wesentliche Änderung der klinischen Prüfung ab, unterrichtet sie
-den Sponsor innerhalb von 37 Tagen nach Erhalt der Mitteilung über
-eine wesentliche Änderung. Die Frist verlängert sich um sieben Tage,
-wenn sich die zuständige Bundesoberbehörde durch Sachverständige
-beraten lässt. In diesem Fall teilt sie dem Sponsor spätestens 20 Tage
-nach Erhalt der Mitteilung über die wesentliche Änderung mit, dass
-sich die Frist auf Grund der Beratung durch Sachverständige
-verlängert, und weist zugleich darauf hin, dass sich damit auch die
-Frist nach Artikel 75 Absatz 3 der Verordnung (EU) 2017/745
-entsprechend verlängert.
+Absatz 3 Buchstabe a der Verordnung (EU) 2017/745 oder Artikel 71
+Absatz 3 Buchstabe a der Verordnung (EU) 2017/746 genannten Gründe
+eine wesentliche Änderung der klinischen Prüfung oder der
+Leistungsstudie ab, unterrichtet sie den Sponsor innerhalb von 37
+Tagen nach Erhalt der Mitteilung über eine wesentliche Änderung. Die
+Frist verlängert sich um sieben Tage, wenn sich die zuständige
+Bundesoberbehörde durch Sachverständige beraten lässt. In diesem Fall
+teilt sie dem Sponsor spätestens 20 Tage nach Erhalt der Mitteilung
+über die wesentliche Änderung mit, dass sich die Frist auf Grund der
+Beratung durch Sachverständige verlängert, und weist zugleich darauf
+hin, dass sich damit auch die Frist nach Artikel 75 Absatz 3 der
+Verordnung (EU) 2017/745 oder Artikel 71 Absatz 3 der Verordnung (EU)
+2017/746 entsprechend verlängert.
 
 
 ##### Titel 5 - Korrekturmaßnahmen
@@ -1452,12 +1713,13 @@ entsprechend verlängert.
 (1) Die zuständige Ethik-Kommission hat ihre zustimmende Stellungnahme
 zurückzunehmen, wenn sie davon Kenntnis erlangt, dass zum Zeitpunkt
 der Abgabe der Stellungnahme ein Ablehnungsgrund nach § 37 Absatz 2
-Nummer 2 oder 3 vorgelegen hat. Sie hat ihre zustimmende Stellungnahme
-zu widerrufen, wenn sie Kenntnis erlangt, dass nachträglich Tatsachen
+Nummer 2 oder 3 oder ein Ablehnungsgrund nach § 37 Absatz 3 Nummer 2
+oder 3 vorgelegen hat. Sie hat ihre zustimmende Stellungnahme zu
+widerrufen, wenn sie Kenntnis erlangt, dass nachträglich Tatsachen
 eingetreten sind, die eine Ablehnung nach § 37 Absatz 2 Nummer 2 oder
-3 rechtfertigen. Im Übrigen bleiben die den §§ 48 und 49 des
-Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen
-Vorschriften unberührt.
+3 oder § 37 Absatz 3 Nummer 2 oder 3 rechtfertigen. Im Übrigen bleiben
+die den §§ 48 und 49 des Verwaltungsverfahrensgesetzes entsprechenden
+landesgesetzlichen Vorschriften unberührt.
 
 (2) Widerspruch und Anfechtungsklage gegen den Widerruf und die
 Rücknahme der Stellungnahme haben keine aufschiebende Wirkung.
@@ -1473,47 +1735,56 @@ das Deutsche Medizinprodukteinformations- und Datenbanksystem nach §
 ###### § 44 Korrekturmaßnahmen der Bundesoberbehörde
 
 (1) Die zuständige Bundesoberbehörde hat für alle Meldungen nach
-Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 eine Bewertung
-vorzunehmen und insbesondere festzustellen, ob Korrekturmaßnahmen zu
-veranlassen sind.
+Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 oder Artikel 76
+Absatz 2 und 3 der Verordnung (EU) 2017/746 eine Bewertung vorzunehmen
+und insbesondere festzustellen, ob Korrekturmaßnahmen zu veranlassen
+sind.
 
 (2) Die zuständige Bundesoberbehörde ergreift die in Artikel 76 der
-Verordnung (EU) 2017/745 genannten Korrekturmaßnahmen nach Maßgabe von
-§ 45.
+Verordnung (EU) 2017/745 oder Artikel 72 der Verordnung (EU) 2017/746
+genannten Korrekturmaßnahmen nach Maßgabe von § 45.
 
 
 ###### § 45 Weitere Vorgaben für Korrekturmaßnahmen der Bundesoberbehörde
 
-(1) Die Genehmigung einer klinischen Prüfung ist zurückzunehmen, wenn
-bekannt wird, dass bei der Erteilung der Genehmigung ein
-Versagungsgrund nach Artikel 71 Absatz 4 Buchstabe b, c oder d der
-Verordnung (EU) 2017/745 vorlag, der die von der zuständigen
+(1) Die Genehmigung einer klinischen Prüfung oder einer
+Leistungsstudie ist zurückzunehmen, wenn bekannt wird, dass bei der
+Erteilung der Genehmigung ein Versagungsgrund nach Artikel 71 Absatz 4
+Buchstabe b, c oder d der Verordnung (EU) 2017/745 oder Artikel 67
+Absatz 4 Buchstabe b, c oder d der Verordnung (EU) 2017/746 vorlag,
+der die von der zuständigen
 Bundesoberbehörde              nach § 39 Absatz 1 zu prüfenden Aspekte
 betrifft. In diesen Fällen kann auch das Ruhen der Genehmigung
 befristet angeordnet werden. Im Übrigen bleibt § 48 des
 Verwaltungsverfahrensgesetzes unberührt.
 
-(2) Die Genehmigung einer klinischen Prüfung ist zu widerrufen, wenn
-nachträglich Tatsachen eintreten, die einen von der zuständigen
+(2) Die Genehmigung einer klinischen Prüfung oder einer
+Leistungsstudie ist zu widerrufen, wenn nachträglich Tatsachen
+eintreten, die einen von der zuständigen
 Bundesoberbehörde              nach § 39 Absatz 1 zu prüfenden Aspekt
 betreffen und eine Versagung der Genehmigung nach Artikel 71 Absatz 4
-Buchstabe b, c oder d der Verordnung (EU) 2017/745 rechtfertigen. Die
-Genehmigung kann widerrufen werden, wenn die Gegebenheiten der
-klinischen Prüfung nicht mit den Angaben im Genehmigungsantrag
-übereinstimmen oder wenn Tatsachen Anlass zu Zweifeln an der
-Unbedenklichkeit oder der wissenschaftlichen Grundlage der klinischen
-Prüfung geben. In den Fällen der Sätze 1 und 2 kann auch das Ruhen der
-Genehmigung befristet angeordnet werden. Im Übrigen bleibt § 49 des
-Verwaltungsverfahrensgesetzes unberührt.
+Buchstabe b, c oder d der Verordnung (EU) 2017/745 oder Artikel 67
+Absatz 4 Buchstabe b, c oder d der Verordnung (EU) 2017/746
+rechtfertigen. Die Genehmigung kann widerrufen werden, wenn die
+Gegebenheiten der klinischen Prüfung oder der Leistungsstudie nicht
+mit den Angaben im Genehmigungsantrag übereinstimmen oder wenn
+Tatsachen Anlass zu Zweifeln an der Unbedenklichkeit oder der
+wissenschaftlichen Grundlage der klinischen Prüfung oder der
+Leistungsstudie geben. In den Fällen der Sätze 1 und 2 kann auch das
+Ruhen der Genehmigung befristet angeordnet werden. Im Übrigen bleibt §
+49 des Verwaltungsverfahrensgesetzes unberührt.
 
 (3) Wenn der zuständigen Bundesoberbehörde im Rahmen ihrer Tätigkeit
 Tatsachen bekannt werden, die die Annahme rechtfertigen, dass die für
 die Durchführung einer klinischen Prüfung maßgeblichen Voraussetzungen
-nach der Verordnung (EU) 2017/745 und nach diesem Gesetz nicht mehr
+nach der Verordnung (EU) 2017/745 und nach diesem Gesetz oder die für
+die Durchführung einer Leistungsstudie maßgeblichen Voraussetzungen
+nach der Verordnung (EU) 2017/746 oder nach diesem Gesetz nicht mehr
 vorliegen, kann sie den Sponsor dazu auffordern, Aspekte der
-klinischen Prüfung zu ändern. Die zuständige Bundesoberbehörde kann
-die sofortige Unterbrechung der klinischen Prüfung anordnen. Maßnahmen
-der zuständigen Überwachungsbehörde nach § 77 bleiben davon unberührt.
+klinischen Prüfung oder der Leistungsstudie zu ändern. Die zuständige
+Bundesoberbehörde kann die sofortige Unterbrechung der klinischen
+Prüfung oder der Leistungsstudie anordnen. Maßnahmen der zuständigen
+Überwachungsbehörde nach § 77 bleiben davon unberührt.
 
 (4) Die zuständige Bundesoberbehörde kann Entscheidungen nach den
 Absätzen 1 bis 3 mit Anordnungen zur weiteren Behandlung und
@@ -1522,9 +1793,9 @@ Auswertung daraus gewonnener Erkenntnisse und Daten verbinden.
 
 (5) Widerspruch und Anfechtungsklage gegen den Widerruf, die
 Rücknahme, die Anordnung des Ruhens der Genehmigung, die Anordnung der
-sofortigen Unterbrechung der klinischen Prüfung sowie gegen
-Anordnungen nach den Absätzen 3 und 4 haben keine aufschiebende
-Wirkung.
+sofortigen Unterbrechung der klinischen Prüfung oder der
+Leistungsstudie sowie gegen Anordnungen nach den Absätzen 3 und 4
+haben keine aufschiebende Wirkung.
 
 (6) Die zuständige Bundesoberbehörde informiert die zuständige Ethik-
 Kommission und die für die Prüfstellen und den Sponsor zuständigen
@@ -1535,18 +1806,20 @@ nach § 86.
 
 ###### § 46 Verbot der Fortsetzung
 
-Die klinische Prüfung darf nicht fortgesetzt werden, wenn
+Die klinische Prüfung oder die Leistungsstudie darf nicht fortgesetzt
+werden, wenn
 
 1.  die Stellungnahme der zuständigen Ethik-Kommission zurückgenommen oder
     widerrufen wurde,
 
 
-2.  die Genehmigung einer klinischen Prüfung zurückgenommen oder
-    widerrufen wurde oder
+2.  die Genehmigung einer klinischen Prüfung oder einer Leistungsstudie
+    zurückgenommen oder widerrufen wurde oder
 
 
-3.  das Ruhen der klinischen Prüfung angeordnet wurde oder die sofortige
-    Unterbrechung der klinischen Prüfung angeordnet wurde.
+3.  das Ruhen der klinischen Prüfung oder der Leistungsstudie angeordnet
+    wurde oder die sofortige Unterbrechung der klinischen Prüfung oder der
+    Leistungsstudie angeordnet wurde.
 
 
 
@@ -1613,10 +1886,10 @@ wenn
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden auf eine sonstige
 klinische Prüfung eines Produktes, das bereits die CE-Kennzeichnung
-nach Artikel 20 Absatz 1 der Verordnung (EU) 2017/745 trägt, soweit
+nach Artikel 20 Absatz 1 der Verordnung (EU) 2017/745 trägt, wenn
 
-1.  die sonstige klinische Prüfung im Rahmen der von der CE-Kennzeichnung
-    umfassten Zweckbestimmung durchgeführt wird und
+1.  die prüfungsbezogene Verwendung des Produktes im Rahmen seiner von der
+    CE-Kennzeichnung umfassten Zweckbestimmung erfolgt und
 
 
 2.  die Prüfungsteilnehmer über die normalen Verwendungsbedingungen des
@@ -1956,8 +2229,9 @@ widerrufen wurde.
 
 (1) Der Prüfer oder Hauptprüfer stellt sicher, dass
 
-1.  die klinische Prüfung oder sonstige klinische Prüfung durchgeführt
-    wird in Übereinstimmung mit dem Prüfplan,
+1.  die klinische Prüfung, die Leistungsstudie oder sonstige klinische
+    Prüfung durchgeführt wird in Übereinstimmung mit dem Prüfplan oder
+    Leistungsstudienplan,
 
     a)  zu dem die zuständige Ethik-Kommission eine zustimmende Stellungnahme
         abgegeben hat und
@@ -1972,14 +2246,15 @@ widerrufen wurde.
 
 2.  die vollständige Nachvollziehbarkeit aller Beobachtungen und Befunde,
     die korrekte Dokumentation der Daten und die korrekte Ableitung von
-    Schlussfolgerungen während der Durchführung der klinischen Prüfung
-    oder sonstigen klinischen Prüfung gewährleistet sind,
+    Schlussfolgerungen während der Durchführung der klinischen Prüfung,
+    der Leistungsstudie oder sonstigen klinischen Prüfung gewährleistet
+    sind,
 
 
 3.  durch geeignete technische und organisatorische Maßnahmen
     gewährleistet wird, dass die personenbezogenen Daten der
-    Prüfungsteilnehmer während der Durchführung der klinischen Prüfung
-    oder sonstigen klinischen Prüfung
+    Prüfungsteilnehmer während der Durchführung der klinischen Prüfung,
+    der Leistungsstudie oder sonstigen klinischen Prüfung
 
     a)  von allen beteiligten Personen streng vertraulich behandelt werden und
 
@@ -1995,8 +2270,8 @@ widerrufen wurde.
 
 4.  dem Sponsor oder seinem Beauftragten sowohl die Prüfstelle
     einschließlich der beauftragten Laboratorien als auch jede Art von
-    Daten im Zusammenhang mit der klinischen Prüfung oder sonstigen
-    klinischen Prüfung für Überprüfungen zugänglich sind.
+    Daten im Zusammenhang mit der klinischen Prüfung, der Leistungsstudie
+    oder sonstigen klinischen Prüfung für Überprüfungen zugänglich sind.
 
 
 
@@ -2011,7 +2286,7 @@ der Untersuchung überlassen.
 
 #### § 63 Meldepflichten des Prüfers oder Hauptprüfers
 
-Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen
+(1) Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen
 Prüfung oder sonstigen klinischen Prüfung
 
 1.  unverzüglich
@@ -2032,6 +2307,31 @@ Prüfung oder sonstigen klinischen Prüfung
 2.  entsprechend den zeitlichen Vorgaben des Prüfplans jede Art von
     unerwünschten Ereignissen im Sinne des Artikels 2 Nummer 57 der
     Verordnung (EU) 2017/745.
+
+
+
+
+(2) Der Prüfer oder Hauptprüfer meldet dem Sponsor einer
+Leistungsstudie
+
+1.  unverzüglich
+
+    a)  jedes schwerwiegende unerwünschte Ereignis im Sinne des Artikels 2
+        Nummer 61 der Verordnung (EU) 2017/746 sowie
+
+
+    b)  jeden Produktmangel im Sinne des Artikels 2 Nummer 62 der Verordnung
+        (EU) 2017/746, der bei Ausbleiben angemessener Maßnahmen oder eines
+        Eingriffs oder unter weniger günstigen Umständen zu schwerwiegenden
+        unerwünschten Ereignissen hätte führen können,
+
+
+
+
+
+2.  entsprechend den zeitlichen Vorgaben des Prüfplans jede Art von
+    unerwünschten Ereignissen im Sinne des Artikels 2 Nummer 60 der
+    Verordnung (EU) 2017/746.
 
 
 
@@ -2084,16 +2384,16 @@ im Sinne des § 47 Absatz 3.
 #### § 65 Verarbeitung und Pseudonymisierung personenbezogener Daten
 
 (1) Die zuständigen Behörden dürfen personenbezogene Daten von
-Sponsoren, Prüfern, Hauptprüfern, Leitern von klinischen Prüfungen
-oder sonstigen klinischen Prüfungen verarbeiten, soweit dies zur
-Erfüllung ihrer Überwachungsaufgaben nach den §§ 68 und 69
-erforderlich ist.
+Sponsoren, Prüfern, Hauptprüfern, Leitern von klinischen Prüfungen,
+Leistungsstudien oder sonstigen klinischen Prüfungen verarbeiten,
+soweit dies zur Erfüllung ihrer Überwachungsaufgaben nach den §§ 68
+und 69 erforderlich ist.
 
 (2) Zuständige und beteiligte Ethik-Kommissionen dürfen
 personenbezogene Daten von Sponsoren, Prüfern, Hauptprüfern, Leitern
-von klinischen Prüfungen oder sonstigen klinischen Prüfungen
-verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem
-Gesetz erforderlich ist.
+von klinischen Prüfungen, Leistungsstudien oder sonstigen klinischen
+Prüfungen verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach
+diesem Gesetz erforderlich ist.
 
 (3) Prüfer oder Hauptprüfer müssen vor Übermittlung einer Meldung nach
 § 63 personenbezogene Daten des Prüfungsteilnehmers unter Verwendung
@@ -2101,24 +2401,27 @@ des Identifizierungscodes pseudonymisieren.
 
 (4) Absatz 3 ist entsprechend anzuwenden auf personenbezogene Daten,
 die vom Sponsor nach Artikel 80 Absatz 2 und 3 der Verordnung (EU)
-2017/745 zu übermitteln sind.
+2017/745 oder Artikel 76 Absatz 2 und 3 der Verordnung (EU) 2017/746
+zu übermitteln sind.
 
 (5) Die zuständigen Bundesoberbehörden dürfen die in den Absätzen 1
 und 4 genannten personenbezogenen Daten verarbeiten, soweit dies zur
 Erfüllung ihrer Aufgaben nach diesem Gesetz und der Verordnung (EU)
-2017/745 erforderlich ist.
+2017/745 sowie der Verordnung (EU) 2017/746 erforderlich ist.
 
 
 #### § 66 Eigenverantwortliche korrektive Maßnahmen
 
-(1) Treten während einer klinischen Prüfung oder einer sonstigen
-klinischen Prüfung Umstände auf, die die Sicherheit der
-Prüfungsteilnehmer, der Anwender oder Dritter beeinträchtigen können,
-ergreifen der Sponsor sowie der Prüfer oder Hauptprüfer, der die
-klinische Prüfung oder die sonstige klinische Prüfung durchführt,
-unverzüglich alle erforderlichen Sicherheitsmaßnahmen, um die
-Prüfungsteilnehmer, Anwender oder Dritte vor unmittelbarer oder
-mittelbarer Gefahr zu schützen.
+(1) Treten während einer klinischen Prüfung, einer Leistungsstudie
+nach Artikel 58 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU)
+2017/746 oder einer sonstigen klinischen Prüfung Umstände auf, die die
+Sicherheit der Prüfungsteilnehmer, der Anwender oder Dritter
+beeinträchtigen können, ergreifen der Sponsor sowie der Prüfer oder
+Hauptprüfer, der die klinische Prüfung, die Leistungsstudie oder die
+sonstige klinische Prüfung durchführt, unverzüglich alle
+erforderlichen Sicherheitsmaßnahmen, um die Prüfungsteilnehmer,
+Anwender oder Dritte vor unmittelbarer oder mittelbarer Gefahr zu
+schützen.
 
 (2) Der Sponsor unterrichtet über das Deutsche
 Medizinprodukteinformations- und Datenbanksystem nach § 86
@@ -2130,7 +2433,8 @@ zuständige Ethik-Kommission über diese neuen Umstände.
 #### § 67 Informationsaustausch
 
 Über Meldungen, die nach Artikel 80 Absatz 2 Buchstabe a der
-Verordnung (EU) 2017/745 oder § 64 Absatz 1 Nummer 1 eingehen,
+Verordnung (EU) 2017/745, Artikel 76 Absatz 2 Buchstabe a der
+Verordnung (EU) 2017/746 oder § 64 Absatz 1 Nummer 1 eingehen,
 informiert das Bundesinstitut für Arzneimittel und Medizinprodukte die
 Behörden, die zuständig sind
 
@@ -2146,16 +2450,18 @@ Behörden, die zuständig sind
 
 
 
-#### § 68 Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde
+#### § 68 Überwachung von klinischen Prüfungen, Leistungsstudien und sonstigen klinischen Prüfungen durch die zuständige Behörde
 
 (1) Die zuständige Behörde überprüft in angemessenem Umfang, ob
-Betriebe und Einrichtungen, die Produkte klinisch prüfen, und
-Sponsoren die Verpflichtungen, die ihnen nach der Verordnung (EU)
-2017/745 sowie nach diesem Gesetz und den auf seiner Grundlage
+Betriebe und Einrichtungen, die Produkte klinisch prüfen oder einer
+Leistungsstudie unterziehen, und Sponsoren die Verpflichtungen, die
+ihnen nach der Verordnung (EU) 2017/745 oder der Verordnung (EU)
+2017/746 sowie nach diesem Gesetz und den auf seiner Grundlage
 erlassenen Rechtsverordnungen obliegen, einhalten und ob die klinische
-Prüfung oder sonstige klinische Prüfung gemäß dem genehmigten,
-zustimmend bewerteten oder angezeigten Prüfplan durchgeführt wird. Sie
-überwacht die vom Sponsor nach § 66 durchgeführten Maßnahmen.
+Prüfung, die Leistungsstudie oder sonstige klinische Prüfung gemäß dem
+genehmigten, zustimmend bewerteten oder angezeigten Prüfplan oder
+Leistungsstudienplan durchgeführt wird. Sie überwacht die vom Sponsor
+nach § 66 durchgeführten Maßnahmen.
 
 (2) Für die Durchführung der Überwachung sowie die Befugnisse und
 Mitwirkungspflichten im Rahmen der Überwachung sind die §§ 77 und 79
@@ -2167,7 +2473,8 @@ zuständige Ethik-Kommission sowie die zuständige Bundesoberbehörde
 über nach § 78
 angeordnete              Maßnahmen und trägt den
 Unterrichtungspflichten nach Artikel 76 Absatz 3 der Verordnung (EU)
-2017/745 Rechnung.
+2017/745 oder Artikel 72 Absatz 3 der Verordnung (EU) 2017/746
+Rechnung.
 
 
 #### § 69 Korrekturmaßnahmen der Bundesoberbehörden
@@ -2212,7 +2519,8 @@ werden.
 #### § 70 Kontaktstelle
 
 Die Kontaktstelle im Sinne des Artikels 62 Absatz 4 Buchstabe g der
-Verordnung (EU) 2017/745 ist bei der nach § 85 zuständigen
+Verordnung (EU) 2017/745 oder des Artikels 58 Absatz 5 Buchstabe g der
+Verordnung (EU) 2017/746 ist bei der nach § 85 zuständigen
 Bundesoberbehörde einzurichten.
 
 
@@ -2222,9 +2530,10 @@ Bundesoberbehörde einzurichten.
 ### § 71 Durchführung der Vigilanzaufgaben
 
 (1) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach den
-Artikeln 87 bis 90 der Verordnung (EU) 2017/745 zentral wahr, soweit
-nicht nach dem Atomgesetz, dem Strahlenschutzgesetz oder einer auf
-Grund des Atomgesetzes oder des Strahlenschutzgesetzes erlassenen
+Artikeln 87 bis 90 der Verordnung (EU) 2017/745 und nach den Artikeln
+82 bis 85 der Verordnung (EU) 2017/746 zentral wahr, soweit nicht nach
+dem Atomgesetz, dem Strahlenschutzgesetz oder einer auf Grund des
+Atomgesetzes oder des Strahlenschutzgesetzes erlassenen
 Rechtsverordnung für Medizinprodukte, die ionisierende Strahlen
 erzeugen oder radioaktive Stoffe enthalten, eine andere Behörde
 zuständig ist.
@@ -2258,17 +2567,18 @@ organisatorische Maßnahmen sicherzustellen, dass besonders
 eilbedürftige Fälle unverzüglich bearbeitet werden.
 
 (5) Bei ihrer Risikobewertung berücksichtigt die zuständige
-Bundesoberbehörde Artikel 89 Absatz 3 der Verordnung (EU) 2017/745.
-Ziel und Inhalt der Risikobewertung ist es, festzustellen, ob ein
-unvertretbares Risiko vorliegt und welche
-Sicherheitskorrekturmaßnahmen im Feld oder sonstigen Maßnahmen geboten
-sind.
+Bundesoberbehörde Artikel 89 Absatz 3 der Verordnung (EU) 2017/745 und
+Artikel 84 Absatz 3 der Verordnung (EU) 2017/746. Ziel und Inhalt der
+Risikobewertung ist es, festzustellen, ob ein unvertretbares Risiko
+vorliegt und welche Sicherheitskorrekturmaßnahmen im Feld oder
+sonstigen Maßnahmen geboten sind.
 
 (6) Die zuständige Bundesoberbehörde teilt das Ergebnis ihrer
 Risikobewertung dem Hersteller oder dessen Bevollmächtigten mit. Die
 abschließende Risikobewertung beinhaltet, soweit bereits vorhanden,
 eine Bewertung des Abschlussberichtes des Herstellers nach Artikel 89
-Absatz 5 der Verordnung (EU) 2017/745.
+Absatz 5 der Verordnung (EU) 2017/745 oder Artikel 84 Absatz 5 der
+Verordnung (EU) 2017/746.
 
 (7) Die zuständige Bundesoberbehörde führt eine regelmäßige
 wissenschaftliche Aufarbeitung der durchgeführten Risikobewertungen
@@ -2302,9 +2612,11 @@ Produkte abgeben, zu Untersuchungszwecken Folgendes verlangen:
 
 
 2.  die Überlassung des betroffenen Produktes oder von Mustern der
-    betroffenen Produktcharge zur möglichst zerstörungsfreien Untersuchung
-    durch die zuständige Bundesoberbehörde oder durch einen von ihr
-    beauftragten Sachverständigen.
+    betroffenen Produktcharge, bei In-vitro-Diagnostika auch die
+    Überlassung des von einem Vorkommnis betroffenen Probenmaterials, zur
+    möglichst zerstörungsfreien Untersuchung durch die zuständige
+    Bundesoberbehörde oder durch einen von ihr beauftragten
+    Sachverständigen.
 
 
 
@@ -2347,8 +2659,8 @@ Satz 1 hinzuweisen.
 
 (1) Ergreifen Hersteller im Geltungsbereich dieses Gesetzes
 Sicherheitskorrekturmaßnahmen, sind die Sicherheitsanweisungen im Feld
-nach Artikel 89 Absatz 8 der Verordnung (EU) 2017/745 in deutscher
-Sprache abzufassen.
+nach Artikel 89 Absatz 8 der Verordnung (EU) 2017/745 oder Artikel 84
+Absatz 8 der Verordnung (EU) 2017/746 in deutscher Sprache abzufassen.
 
 (2) Hersteller mit Sitz im Geltungsbereich dieses Gesetzes haben die
 Durchführung von Sicherheitskorrekturmaßnahmen im Feld zu
@@ -2375,12 +2687,15 @@ Gefahren durch Produkte erforderlich sind und teilt das Ergebnis der
 Risikobewertung der zuständigen Behörde mit. Ergreift der betroffene
 Wirtschaftsakteur keine angemessenen Korrekturmaßnahmen, führt die
 zuständige Behörde eine Bewertung nach Artikel 94 der Verordnung (EU)
-2017/745 durch und trifft nach Maßgabe von Artikel 95 der Verordnung
-(EU) 2017/745 alle Maßnahmen, die zum Schutz der Gesundheit oder
-Sicherheit von Patienten, Anwendern oder anderen Personen oder zum
-Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte
-erforderlich sind. Die zuständige Behörde sorgt für die Mitteilung
-nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/745.
+2017/745 oder Artikel 89 der Verordnung (EU) 2017/746 durch und trifft
+nach Maßgabe von Artikel 95 der Verordnung (EU) 2017/745 oder Artikel
+90 der Verordnung (EU) 2017/746 alle Maßnahmen, die zum Schutz der
+Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen
+Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren
+durch Produkte erforderlich sind. Die zuständige Behörde sorgt für die
+Mitteilung nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU)
+2017/745 oder Artikel 90 Absatz 4 Unterabsatz 2 der Verordnung (EU)
+2017/746.
 
 (2) Die zuständige Behörde ist insbesondere befugt, im Geltungsbereich
 dieses Gesetzes
@@ -2435,7 +2750,8 @@ des Strahlenschutzgesetzes erlassenen Rechtsverordnung für
 Medizinprodukte, die ionisierende Strahlen erzeugen oder radioaktive
 Stoffe enthalten, eine andere Behörde zuständig ist, und sorgt für die
 Mitteilungen nach Artikel 95 Absatz 2 und 4 Unterabsatz 2 der
-Verordnung (EU) 2017/745. Absatz 2 findet entsprechende Anwendung.
+Verordnung (EU) 2017/745 oder Artikel 90 Absatz 2 und 4 Unterabsatz 2
+der Verordnung (EU) 2017/746. Absatz 2 findet entsprechende Anwendung.
 
 (5) Die zuständige Behörde unterrichtet die zuständige
 Bundesoberbehörde über die nach Absatz 1 Satz 2 und Absatz 2
@@ -2444,38 +2760,44 @@ zuständige Bundesoberbehörde die zuständige Behörde über die
 getroffenen Maßnahmen.
 
 
-### § 75 Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745
+### § 75 Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU) 2017/746
 
 Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen
 gegen einen Wirtschaftsakteur nach Artikel 95 Absatz 4 der Verordnung
-(EU) 2017/745, teilt die zuständige Bundesoberbehörde der Europäischen
-Kommission und den anderen Mitgliedstaaten alle nach Artikel 95 Absatz
-6 Unterabsatz 1 der Verordnung (EU) 2017/745 erforderlichen
-Informationen mit.
+(EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU) 2017/746,
+teilt die zuständige Bundesoberbehörde der Europäischen Kommission und
+den anderen Mitgliedstaaten alle nach Artikel 95 Absatz 6 Unterabsatz
+1 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 6 Unterabsatz 1
+der Verordnung (EU) 2017/746 erforderlichen Informationen mit.
 
 
-### § 76 Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745
+### § 76 Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 6 der Verordnung (EU) 2017/746 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung (EU) 2017/746
 
 (1) Hat ein anderer Mitgliedstaat der Europäischen Union gegenüber
 einem Wirtschaftsakteur Maßnahmen nach Artikel 95 Absatz 4 der
-Verordnung (EU) 2017/745 angeordnet, entscheidet die zuständige
-Bundesoberbehörde im Einvernehmen mit der zuständigen Behörde, ob
-dagegen Einwände nach Artikel 95 Absatz 6 Unterabsatz 2 der Verordnung
-(EU) 2017/745 zu erheben sind.
+Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU)
+2017/746 angeordnet, entscheidet die zuständige Bundesoberbehörde im
+Einvernehmen mit der zuständigen Behörde, ob dagegen Einwände nach
+Artikel 95 Absatz 6 Unterabsatz 2 der Verordnung (EU) 2017/745 oder
+Artikel 90 Absatz 6 Unterabsatz 2 der Verordnung (EU) 2017/746 zu
+erheben sind.
 
 (2) Die zuständige Bundesoberbehörde übermittelt der Europäischen
 Kommission und den anderen Mitgliedstaaten der Europäischen Union ihre
 Einwände innerhalb der Frist nach Artikel 95 Absatz 7 Unterabsatz 1
-der Verordnung (EU) 2017/745 über das elektronische System nach
-Artikel 100 der Verordnung (EU) 2017/745.
+der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung
+(EU) 2017/746 über das elektronische System nach Artikel 100 der
+Verordnung (EU) 2017/745 oder Artikel 95 der Verordnung (EU) 2017/746.
 
 (3) Gilt eine Maßnahme nach Absatz 1, die ein anderer Mitgliedstaat
 der Europäischen Union angeordnet hat, nach Artikel 95 Absatz 7 der
-Verordnung (EU) 2017/745 oder nach Artikel 96 Absatz 2 der Verordnung
-(EU) 2017/745 als gerechtfertigt, ergreift die zuständige Behörde
-unverzüglich alle Maßnahmen, die zum Schutz der Gesundheit oder
-Sicherheit von Patienten, Anwendern oder anderen Personen oder zum
-Schutz der öffentlichen Gesundheit vor Gefahren durch Medizinprodukte
+Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung (EU)
+2017/746 oder nach Artikel 96 Absatz 2 der Verordnung (EU) 2017/745
+oder Artikel 91 Absatz 2 der Verordnung (EU) 2017/746 als
+gerechtfertigt, ergreift die zuständige Behörde unverzüglich alle
+Maßnahmen, die zum Schutz der Gesundheit oder Sicherheit von
+Patienten, Anwendern oder anderen Personen oder zum Schutz der
+öffentlichen Gesundheit vor Gefahren durch Medizinprodukte
 erforderlich sind.
 
 
@@ -2484,10 +2806,11 @@ erforderlich sind.
 (1) Der Überwachung durch die zuständigen Behörden unterliegen
 
 1.  Betriebe und Einrichtungen, in denen Produkte und Produkte nach § 2
-    Absatz 2 hergestellt, klinisch geprüft, angepasst, verpackt,
-    ausgestellt, in den Verkehr gebracht, auf dem Markt bereitgestellt,
-    errichtet, betrieben, angewendet oder Produkte, die bestimmungsgemäß
-    keimarm oder steril zur Anwendung kommen, aufbereitet werden,
+    Absatz 2 hergestellt, klinisch geprüft, einer Leistungsstudie
+    unterzogen, angepasst, verpackt, ausgestellt, in den Verkehr gebracht,
+    auf dem Markt bereitgestellt, errichtet, betrieben, angewendet oder
+    Produkte, die bestimmungsgemäß keimarm oder steril zur Anwendung
+    kommen, aufbereitet werden,
 
 
 2.  Sponsoren und Personen, die die in Nummer 1 genannten Tätigkeiten
@@ -2507,7 +2830,8 @@ erforderlich sind.
 (2) Die zuständige Behörde hat sich davon zu überzeugen, dass die
 medizinprodukterechtlichen Vorschriften sowie die Vorschriften über
 die Werbung auf dem Gebiet des Heilwesens beachtet werden. Nach
-Maßgabe des Artikels 93 der Verordnung (EU) 2017/745
+Maßgabe des Artikels 93 der Verordnung (EU) 2017/745 oder des Artikels
+88 der Verordnung (EU) 2017/746
 
 1.  prüft die zuständige Behörde, ob die Voraussetzungen zum
     Inverkehrbringen, zur Inbetriebnahme, zum Bereitstellen auf dem Markt,
@@ -2542,11 +2866,11 @@ unter Angabe der Gründe mit.
 
 ### § 78 Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten
 
-(1) Unbeschadet der Vorschriften der Verordnung (EU) 2017/745 zur
-Marktüberwachung und des § 74 Absatz 1 Satz 2 und Absatz 2 ergreift
-die zuständige Behörde die Maßnahmen, die notwendig sind, um einen
-Verstoß zu beseitigen und künftigen Verstößen vorzubeugen. Die
-zuständige Behörde ist insbesondere befugt
+(1) Unbeschadet der Vorschriften der Verordnung (EU) 2017/745 und der
+Verordnung (EU) 2017/746 zur Marktüberwachung und des § 74 Absatz 1
+Satz 2 und Absatz 2 ergreift die zuständige Behörde die Maßnahmen, die
+notwendig sind, um einen Verstoß zu beseitigen und künftigen Verstößen
+vorzubeugen. Die zuständige Behörde ist insbesondere befugt
 
 1.  unbeschadet des § 74 Absatz 4 Anordnungen zu treffen, die zur Abwehr
     einer drohenden Gefahr für die öffentliche Gesundheit, Sicherheit oder
@@ -2566,8 +2890,9 @@ zuständige Behörde ist insbesondere befugt
     oder einzuschränken,
 
 
-5.  den Beginn oder die weitere Durchführung der klinischen Prüfung oder
-    der sonstigen klinischen Prüfung zu verbieten oder einzuschränken,
+5.  den Beginn oder die weitere Durchführung der klinischen Prüfung, der
+    Leistungsstudie oder der sonstigen klinischen Prüfung zu verbieten
+    oder einzuschränken,
 
 
 6.  die Rücknahme, den Rückruf oder die Sicherstellung eines auf dem Markt
@@ -2581,7 +2906,8 @@ Bundesoberbehörde und soweit erforderlich die übrigen zuständigen
 Behörden über die nach Absatz 1 getroffenen Maßnahmen.
 
 (3) Maßnahmen bei festgestellter sonstiger Nichtkonformität im Sinne
-des Artikels 97 Absatz 1 der Verordnung (EU) 2017/745 treffen die
+des Artikels 97 Absatz 1 der Verordnung (EU) 2017/745 oder des
+Artikels 92 Absatz 1 der Verordnung (EU) 2017/746 treffen die
 zuständigen Behörden. Absatz 1 ist anzuwenden.
 
 
@@ -2609,12 +2935,12 @@ Personen sind befugt,
 
 
 4.  Unterlagen über die Entwicklung, die Herstellung, die Prüfung, die
-    klinische Prüfung oder die sonstige klinische Prüfung oder den Erwerb,
-    die Aufbereitung, die Lagerung, die Verpackung, das Inverkehrbringen
-    und den sonstigen Verbleib der Produkte sowie über das im Verkehr
-    befindliche Werbematerial und die Dokumente, die nach Maßgabe der
-    Verordnung nach § 88 Absatz 1 Satz 1 Nummer 6 zu erstellen und zu
-    führen sind, einzusehen,
+    klinische Prüfung, die Leistungsstudie oder die sonstige klinische
+    Prüfung oder den Erwerb, die Aufbereitung, die Lagerung, die
+    Verpackung, das Inverkehrbringen und den sonstigen Verbleib der
+    Produkte sowie über das im Verkehr befindliche Werbematerial und die
+    Dokumente, die nach Maßgabe der Verordnung nach § 88 Absatz 1 Satz 1
+    Nummer 6 zu erstellen und zu führen sind, einzusehen,
 
 
 5.  alle erforderlichen Auskünfte, insbesondere über die in Nummer 4
@@ -2657,10 +2983,12 @@ Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist
 ### § 81 Zuständige Behörden für die Meldepflichten der Importeure und Händler
 
 In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2
-Unterabsatz 2 oder Absatz 7 der Verordnung (EU) 2017/745 informiert
-der Importeur und in Erfüllung der Informationspflichten nach Artikel
-14 Absatz 2 Unterabsatz 2 und Absatz 4 der Verordnung (EU) 2017/745
-informiert der Händler
+Unterabsatz 2 oder Absatz 7 der Verordnung (EU) 2017/745 oder Artikel
+13 Absatz 2 Unterabsatz 2 oder Absatz 7 der Verordnung (EU) 2017/746
+informiert der Importeur und in Erfüllung der Informationspflichten
+nach Artikel 14 Absatz 2 Unterabsatz 2 und Absatz 4 der Verordnung
+(EU) 2017/745 oder Artikel 14 Absatz 2 Unterabsatz 2 und Absatz 4 der
+Verordnung (EU) 2017/746 informiert der Händler
 
 1.  im Fall der Annahme einer von dem Produkt ausgehenden schwerwiegenden
     Gefahr die zuständige Bundesoberbehörde über das Deutsche
@@ -2678,18 +3006,19 @@ informiert der Händler
 ### § 82 Präventive Gesundheitsschutzmaßnahmen
 
 (1) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der
-Verordnung (EU) 2017/745 trifft das Bundesministerium für Gesundheit
-durch Rechtsverordnung nach § 88 Absatz 2, soweit die
-Gesundheitsschutzmaßnahme die Untersagung, Beschränkung oder die
-sonstige Beauflagung der Bereitstellung auf dem Markt oder die
-Inbetriebnahme von betroffenen Produkten oder Produktkategorien
-betrifft.
+Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746
+trifft das Bundesministerium für Gesundheit durch Rechtsverordnung
+nach § 88 Absatz 2, soweit die Gesundheitsschutzmaßnahme die
+Untersagung, Beschränkung oder die sonstige Beauflagung der
+Bereitstellung auf dem Markt oder die Inbetriebnahme von betroffenen
+Produkten oder Produktkategorien betrifft.
 
 (2) Die zuständige Behörde trifft alle erforderlichen Maßnahmen, um
 betroffene Produkte oder Produktkategorien zurückzurufen oder deren
 Rückruf zu veranlassen, soweit diese in Umsetzung der präventiven
 Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU)
-2017/745 erforderlich sind.
+2017/745 oder Artikel 93 der Verordnung (EU) 2017/746 erforderlich
+sind.
 
 (3) Hat der Hersteller oder sein Bevollmächtigter keinen Sitz im
 Geltungsbereich dieses Gesetzes, trifft die zuständige
@@ -2764,28 +3093,27 @@ von Risiken gefälschter Produkte.
 
 ### § 85 Zuständigkeiten und Aufgaben der Behörden
 
-(1) Zuständige Behörden im Sinne der Verordnung (EU) 2017/745 und
-dieses Gesetzes sind, soweit in den Absätzen 2 bis 6 nichts anderes
-bestimmt ist, die Behörden der Länder.
+(1) Zuständige Behörden im Sinne der Verordnung (EU) 2017/745, der
+Verordnung (EU) 2017/746 und dieses Gesetzes sind, soweit in den
+Absätzen 2 bis 6 nichts anderes bestimmt ist, die Behörden der Länder.
 
 (1a) Die Bearbeitung von Meldungen der für die Kontrolle der
 Außengrenzen zuständigen Behörden über Aussetzungen gemäß Artikel 26
-Absatz 1 der Verordnung (EU)
-2019/1020              des Europäischen Parlaments und des Rates vom
-20\. Juni 2019 über Marktüberwachung und die Konformität von Produkten
-sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG)
-Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1) in
-der jeweils geltenden Fassung obliegt der Überwachungsbehörde, die für
-die Zollstelle örtlich zuständig ist.
+Absatz 1 der Verordnung (EU) 2019/1020 des Europäischen Parlaments und
+des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität
+von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der
+Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom
+25\.6.2019, S. 1) in der jeweils geltenden Fassung obliegt der
+Überwachungsbehörde, die für die Zollstelle örtlich zuständig ist.
 
 (1b) Die Aufgabe der Marktüberwachung von über das Internet oder über
 eine andere Form des Fernabsatzes nach Artikel 6 der Verordnung (EU)
-2017/745 zum Verkauf angebotenen Produkten liegt, sofern kein
-Hersteller oder Bevollmächtigter in der Europäischen Union vorhanden
-ist, bei der Überwachungsbehörde, in deren Bezirk das Produkt
-geliefert wurde. Sind nach Satz 1 mehrere Behörden zuständig, so
-entscheidet die zuständige Behörde, die zuerst mit der Sache befasst
-worden ist.
+2017/745 oder nach Artikel 6 der Verordnung (EU) 2017/746 zum Verkauf
+angebotenen Produkten liegt, sofern kein Hersteller oder
+Bevollmächtigter in der Europäischen Union vorhanden ist, bei der
+Überwachungsbehörde, in deren Bezirk das Produkt geliefert wurde. Sind
+nach Satz 1 mehrere Behörden zuständig, so entscheidet die zuständige
+Behörde, die zuerst mit der Sache befasst worden ist.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist,
 sofern dieses Gesetz nicht die Zuständigkeit des Paul-Ehrlich-
@@ -2804,52 +3132,63 @@ Instituts vorsieht, zuständig für
 
 
 5.  die Genehmigung von klinischen Prüfungen nach den Artikeln 70 und 78
-    der Verordnung
-    (EU) 2017/745,                    einschließlich der Prüfung
-    wesentlicher Änderungen nach Artikel 75 der Verordnung (EU) 2017/745,
+    der Verordnung (EU) 2017/745 und von Leistungsstudien nach den
+    Artikeln 66 und 74 der Verordnung (EU) 2017/746, einschließlich der
+    Prüfung wesentlicher Änderungen nach Artikel 75 der Verordnung (EU)
+    2017/745 und Artikel 71 der Verordnung (EU) 2017/746,
 
 
 6.  die Entgegennahme der Anzeige von klinischen Prüfungen nach Artikel 74
     Absatz 1 der Verordnung (EU) 2017/745 und von sonstigen klinischen
-    Prüfungen nach Artikel 82 der Verordnung
-    (EU) 2017/745,
+    Prüfungen nach Artikel 82 der Verordnung (EU) 2017/745 und von
+    Leistungsstudien nach Artikel 70 Absatz 1 der Verordnung (EU)
+    2017/746,
 
 
 7.  Korrekturmaßnahmen nach § 44,
 
 
 8.  Informationen des Sponsors nach Artikel 77 der Verordnung (EU)
-    2017/745,
+    2017/745 oder Artikel 73 der Verordnung (EU) 2017/746,
 
 
 9.  die Bewertung von Meldungen von schwerwiegenden unerwünschten
-    Ereignissen nach Artikel 80 der Verordnung (EU) 2017/745 und § 69,
+    Ereignissen nach Artikel 80 der Verordnung (EU) 2017/745, Artikel 76
+    der Verordnung (EU) 2017/746 und § 69,
 
 
 10. die Bewertung von Meldungen über sicherheitsrelevante Präventiv- und
     Korrekturmaßnahmen nach Artikel 83 Absatz 4 der Verordnung (EU)
-    2017/745,
+    2017/745 und Artikel 78 Absatz 4 der Verordnung (EU) 2017/746,
 
 
 11. die Risikobewertung nach § 71 und die zentrale Bewertung von Meldungen
     schwerwiegender Vorkommnisse und Sicherheitskorrekturmaßnahmen im Feld
-    nach Artikel 89 der Verordnung (EU) 2017/745 sowie die Bewertung von
-    Produkten nach Artikel 94 Buchstabe a der Verordnung (EU) 2017/745,
+    nach Artikel 89 der Verordnung (EU) 2017/745 und Artikel 84 der
+    Verordnung (EU) 2017/746 sowie die Bewertung von Produkten nach
+    Artikel 94 Buchstabe a der Verordnung (EU) 2017/745 und Artikel 89
+    Buchstabe a der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz
+    3 und 4,
 
 
 12. die Wahrnehmung aller sonstigen behördlichen Aufgaben nach den
-    Artikeln 87 bis 90 der Verordnung (EU) 2017/745 sowie die Durchführung
-    des Verfahrens nach Artikel 95 Absatz 1 und 2 der Verordnung (EU)
-    2017/745 und nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 in
-    den Fällen des § 74 Absatz 3 und 4,
+    Artikeln 87 bis 90 der Verordnung (EU) 2017/745 und den Artikeln 82
+    bis 85 der Verordnung (EU) 2017/746 sowie die Durchführung des
+    Verfahrens nach Artikel 95 Absatz 1 und 2 der Verordnung (EU) 2017/745
+    und Artikel 90 Absatz 1 und 2 der Verordnung (EU) 2017/746 und nach
+    Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 und Artikel 90
+    Absatz 4 der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz 3
+    und 4,
 
 
 13. die Bewertung von Maßnahmen, die andere Mitgliedstaaten der
     Europäischen Union nach Artikel 95 Absatz 4 der Verordnung (EU)
-    2017/745 ergriffen haben, einschließlich der Informationsübermittlung
-    nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 und der Erhebung
-    von Einwänden nach Artikel 95 Absatz 7 der Verordnung
-    (EU) 2017/745,
+    2017/745 und Artikel 90 Absatz 4 der Verordnung (EU) 2017/746
+    ergriffen haben, einschließlich der Informationsübermittlung nach
+    Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 und Artikel 90
+    Absatz 6 der Verordnung (EU) 2017/746 und der Erhebung von Einwänden
+    nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 und Artikel 90
+    Absatz 7 der Verordnung (EU) 2017/746,
 
 
 13a. die Anordnung von Maßnahmen nach § 82 Absatz 3,
@@ -2857,10 +3196,11 @@ Instituts vorsieht, zuständig für
 
 14. die zentrale Erfassung von Meldungen der Angehörigen der
     Gesundheitsberufe, der Anwender und Patienten nach Artikel 87 Absatz
-    10 Unterabsatz 2 der Verordnung (EU) 2017/745 sowie die Durchführung
-    der Verfahren nach Artikel 87 Absatz 11 der Verordnung (EU) 2017/745
-    in Verbindung mit der Rechtsverordnung nach § 88 Absatz 1 Satz 1
-    Nummer 7,
+    10 Unterabsatz 2 der Verordnung (EU) 2017/745 und Artikel 82 Absatz 10
+    Unterabsatz 2 der Verordnung (EU) 2017/746 sowie die Durchführung der
+    Verfahren nach Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 und
+    Artikel 82 Absatz 11 der Verordnung (EU) 2017/746 in Verbindung mit
+    der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 7,
 
 
 15. die Errichtung und den Betrieb des Deutschen
@@ -2868,11 +3208,32 @@ Instituts vorsieht, zuständig für
 
 
 
+Bei der Bewertung eines therapiebegleitenden Diagnostikums nach Satz 1
+Nummer 11, das für die sichere und wirksame Verwendung eines
+dazugehörigen Arzneimittels bestimmt ist und für das das Paul-Ehrlich-
+Institut nach § 77 Absatz 2 des Arzneimittelgesetzes zuständig ist,
+hat das Bundesinstitut für Arzneimittel und Medizinprodukte eine
+Stellungnahme des Paul-Ehrlich-Instituts einzuholen und angemessen zu
+berücksichtigen.
 
-(3) Beim Paul-Ehrlich-Institut kann ein Laboratorium eingerichtet
-werden, das als Referenzlaboratorium der Europäischen Union nach
-Artikel 100 der Verordnung (EU) 2017/746 tätig werden kann. Das Paul-
-Ehrlich-Institut stellt sicher, dass Aufgaben als Referenzlaboratorium
+(3) Das Paul-Ehrlich-Institut ist zuständig für
+
+1.  die Aufgaben nach Absatz 2 Satz 1 Nummer 2 bis 14, soweit es sich um
+    In-vitro-Diagnostika handelt, die unter die Regel 1, 2 und 3 Buchstabe
+    a bis e und g des Anhangs VIII der Verordnung (EU) 2017/746 fallen,
+
+
+2.  die Genehmigung einer Leistungsstudie mit einem therapiebegleitenden
+    Diagnostikum, das für die sichere und wirksame Verwendung eines
+    dazugehörigen Arzneimittels bestimmt ist und für das das Paul-Ehrlich-
+    Institut nach § 77 Absatz 2 des Arzneimittelgesetzes zuständig ist.
+
+
+
+Beim Paul-Ehrlich-Institut kann ein Laboratorium eingerichtet werden,
+das als Referenzlaboratorium der Europäischen Union nach Artikel 100
+der Verordnung (EU) 2017/746 tätig werden kann. Das Paul-Ehrlich-
+Institut stellt sicher, dass Aufgaben als Referenzlaboratorium
 organisatorisch getrennt und von anderem Personal wahrgenommen werden,
 als die Aufgaben, die dem Paul-Ehrlich-Institut nach diesem Gesetz
 obliegen.
@@ -2918,7 +3279,7 @@ Bundesoberbehörden und die zuständigen Behörden wissenschaftlich.
 1.  den Austausch von Informationen und Daten zwischen dem Deutschen
     Medizinprodukteinformations- und Datenbanksystem und der Europäischen
     Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU)
-    2017/745,
+    2017/745 und Artikel 30 der Verordnung (EU) 2017/746,
 
 
 2.  die Bereitstellung eines zentralen Portals für die nach diesem Gesetz
@@ -2956,8 +3317,9 @@ Bundesoberbehörden und die zuständigen Behörden wissenschaftlich.
 
 
 4.  die Bereitstellung von Daten aus der Europäischen Datenbank für
-    Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745 für die
-    zuständigen Behörden des Bundes und der Länder.
+    Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745 und
+    Artikel 30 der Verordnung (EU) 2017/746 für die zuständigen Behörden
+    des Bundes und der Länder.
 
 
 
@@ -2982,9 +3344,10 @@ L 314 vom 22.11.2016, S. 72).
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist
 berechtigt, in Meldungen nach Artikel 87 Absatz 11 der Verordnung (EU)
-2017/745 enthaltene personenbezogene Daten von Patientinnen und
-Patienten oder anderen Personen, die beim Betrieb oder der Anwendung
-von Produkten einen gesundheitlichen Schaden erlitten haben, wenn eine
+2017/745 oder Artikel 82 Absatz 11 der Verordnung (EU) 2017/746
+enthaltene personenbezogene Daten von Patientinnen und Patienten oder
+anderen Personen, die beim Betrieb oder der Anwendung von Produkten
+einen gesundheitlichen Schaden erlitten haben, wenn eine
 Anonymisierung nicht möglich ist, pseudonymisiert an den Hersteller
 des in der Meldung genannten Produktes zu übermitteln.
 
@@ -3327,7 +3690,15 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 9.  festzulegen, dass Händler, die Produkte auf dem deutschen Markt
     bereitstellen, dies vor Aufnahme ihrer Tätigkeit bei der zuständigen
-    Behörde anzuzeigen haben, sowie Inhalt und Form der Anzeige zu regeln.
+    Behörde anzuzeigen haben, sowie Inhalt und Form der Anzeige zu regeln;
+
+
+10. vorzuschreiben, dass die in Artikel 5 Absatz 5 Buchstabe g der
+    Verordnung (EU) 2017/746 festgelegten Dokumentationspflichten für
+    Gesundheitseinrichtungen, die In-vitro-Diagnostika zur Eigenverwendung
+    herstellen, auch bei der Herstellung von In-vitro-Diagnostika, die
+    nach Anhang VIII zu der Verordnung (EU) 2017/746 in die Klasse A, B
+    oder C eingestuft sind, anzuwenden sind.
 
 
 
@@ -3397,31 +3768,34 @@ erlassenen Rechtsverordnungen auf Einrichtungen, die der Versorgung
 der Bundeswehr mit Produkten dienen, entsprechend anzuwenden.
 
 (2) Im Bereich der Bundeswehr obliegen der Vollzug der Verordnung (EU)
-2017/745, dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
-Rechtsverordnungen und die Überwachung den zuständigen Stellen und
-Sachverständigen der Bundeswehr.
+2017/745, der Verordnung (EU) 2017/746, dieses Gesetzes und der auf
+Grund dieses Gesetzes erlassenen Rechtsverordnungen und die
+Überwachung den zuständigen Stellen und Sachverständigen der
+Bundeswehr.
 
 (3) Zuständig für die Erteilung einer Sonderzulassung nach Artikel 59
-der Verordnung (EU) 2017/745 für seinen Geschäftsbereich ist das
-Bundesministerium der Verteidigung, soweit das Produkt für die
-Durchführung besonderer Aufgaben der Bundeswehr verwendet werden soll.
-Das Bundesministerium der Verteidigung unterrichtet die Europäische
-Kommission und die anderen Mitgliedstaaten über die Erteilung von
-Sonderzulassungen nach Satz 1 nach Maßgabe von Artikel 59 Absatz 2 der
-Verordnung (EU) 2017/745.
+der Verordnung (EU) 2017/745 oder Artikel 54 der Verordnung (EU)
+2017/746 für seinen Geschäftsbereich ist das Bundesministerium der
+Verteidigung, soweit das Produkt für die Durchführung besonderer
+Aufgaben der Bundeswehr verwendet werden soll. Das Bundesministerium
+der Verteidigung unterrichtet die Europäische Kommission und die
+anderen Mitgliedstaaten über die Erteilung von Sonderzulassungen nach
+Satz 1 nach Maßgabe von Artikel 59 Absatz 2 der Verordnung (EU)
+2017/745 und Artikel 54 Absatz 2 der Verordnung (EU) 2017/746.
 
 
 ### § 91 Ausnahmen
 
 (1) Schreiben die grundlegenden Sicherheits- und
-Leistungsanforderungen nach Anhang I der Verordnung (EU) 2017/745 die
-Angabe eines Datums vor, bis zu dem das Produkt sicher verwendet
-werden kann, und soll das Produkt nach Ablauf dieses Datums zur
-Durchführung besonderer Aufgaben der Bundeswehr oder zum Zweck des
-Zivil- und Katastrophenschutzes angewendet werden, stellen die
-zuständigen Bundesministerien oder, soweit Produkte an Länder
-abgegeben wurden, die zuständigen Behörden der Länder sicher, dass
-Qualität, Leistung und Sicherheit der Produkte gewährleistet sind.
+Leistungsanforderungen nach Anhang I der Verordnung (EU) 2017/745 oder
+Anhang I der Verordnung (EU) 2017/746 die Angabe eines Datums vor, bis
+zu dem das Produkt sicher verwendet werden kann, und soll das Produkt
+nach Ablauf dieses Datums zur Durchführung besonderer Aufgaben der
+Bundeswehr oder zum Zweck des Zivil- und Katastrophenschutzes
+angewendet werden, stellen die zuständigen Bundesministerien oder,
+soweit Produkte an Länder abgegeben wurden, die zuständigen Behörden
+der Länder sicher, dass Qualität, Leistung und Sicherheit der Produkte
+gewährleistet sind.
 
 (2) Das Bundesministerium der Verteidigung kann für seinen
 Geschäftsbereich im Einvernehmen mit dem Bundesministerium für
@@ -3471,7 +3845,18 @@ Strahlenschutzgesetzes oder einer auf dessen Grundlage erlassenen
 Rechtsverordnung unterliegt oder bei dessen Herstellung ionisierende
 Strahlen verwendet wurden, in Verkehr bringt oder in Betrieb nimmt.
 
-(3) Ebenso wird bestraft, wer
+(3) Ebenso wird bestraft, wer entgegen Artikel 110 Absatz 3 Satz 1 der
+Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom
+5\. April 2017 über In-vitro-Diagnostika und zur Aufhebung der
+Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission
+(ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom
+27\.12.2019, S. 167) ein dort genanntes In-vitro-Diagnostikum, das den
+Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+Herstellung ionisierende Strahlen verwendet wurden, in Verkehr bringt
+oder in Betrieb nimmt.
+
+(4) Ebenso wird bestraft, wer
 
 1.  ein Produkt der Klasse III nach Anhang VIII Kapitel III der Verordnung
     (EU) 2017/745, das weder eine Sonderanfertigung noch ein Prüfprodukt
@@ -3603,12 +3988,81 @@ Strahlen verwendet wurden, in Verkehr bringt oder in Betrieb nimmt.
 
 
 
-(4) Der Versuch ist strafbar.
+(5) Ebenso wird bestraft, wer
 
-(5) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
+1.  ein In-vitro-Diagnostikum der Klasse D nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das den
+    Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen verwendet wurden, in den Verkehr
+    bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach Artikel
+    18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass zuvor in
+    einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz 1, 2, 3
+    oder 4 der Verordnung (EU) 2017/746 festgestellt wurde, dass das In-
+    vitro-Diagnostikum den Anforderungen der Verordnung (EU) 2017/746
+    entspricht,
+
+
+2.  ein In-vitro-Diagnostikum der Klasse C nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das den
+    Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen verwendet wurden, in den Verkehr
+    bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach Artikel
+    18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass zuvor in
+    einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz 1, 2, 7
+    oder 8 der Verordnung (EU) 2017/746 festgestellt wurde, dass das In-
+    vitro-Diagnostikum den Anforderungen der Verordnung (EU) 2017/746
+    entspricht,
+
+
+3.  ein In-vitro-Diagnostikum der Klasse B nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das den
+    Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen verwendet wurden, in den Verkehr
+    bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach Artikel
+    18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass zuvor in
+    einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz 1, 2 oder
+    9 der Verordnung (EU) 2017/746 festgestellt wurde, dass das In-vitro-
+    Diagnostikum den Anforderungen der Verordnung (EU) 2017/746
+    entspricht,
+
+
+4.  ein In-vitro-Diagnostikum der Klasse A nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das den
+    Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen verwendet wurden, in den Verkehr
+    bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach Artikel
+    18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass zuvor die
+    Konformität des In-vitro-Diagnostikums durch Ausstellung einer EU-
+    Konformitätserklärung nach Artikel 48 Absatz 1, 2 oder 10 Unterabsatz
+    1 der Verordnung (EU) 2017/746, jeweils in Verbindung mit Artikel 17
+    Absatz 1 Satz 1 der Verordnung (EU) 2017/746, erklärt wurde, oder
+
+
+5.  ein In-vitro-Diagnostikum nach Artikel 48 Absatz 10 Unterabsatz 2 der
+    Verordnung (EU) 2017/746, das kein Produkt für Leistungsstudien ist
+    und das den Vorschriften des Strahlenschutzgesetzes oder einer auf
+    dessen Grundlage erlassenen Rechtsverordnung unterliegt oder bei
+    dessen Herstellung ionisierende Strahlen verwendet wurden, in den
+    Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach
+    Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass
+    zuvor in einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz
+    1, 2 oder 10 Unterabsatz 2 der Verordnung (EU) 2017/746 festgestellt
+    wurde, dass das In-vitro-Diagnostikum den Anforderungen der Verordnung
+    (EU) 2017/746 entspricht.
+
+
+
+
+(6) Der Versuch ist strafbar.
+
+(7) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer
 
-1.  durch eine in den Absätzen 1, 2 oder 3 bezeichnete Handlung
+1.  durch eine in den Absätze 1 bis 4 oder 5 bezeichnete Handlung
 
     a)  die Gesundheit einer großen Zahl von Menschen gefährdet,
 
@@ -3631,10 +4085,10 @@ bestraft, wer
 
 
 
-(6) In minder schweren Fällen des Absatzes 5 beträgt die Strafe
+(8) In minder schweren Fällen des Absatzes 5 beträgt die Strafe
 Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-(7) Handelt der Täter in den Fällen der Absätze 1, 2 oder 3
+(9) Handelt der Täter in den Fällen der Absätze 1 bis 4 oder 5
 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
 Geldstrafe.
 
@@ -3649,11 +4103,12 @@ bestraft, wer
     dieses Gesetzes verbringt,
 
 
-2.  entgegen § 31 oder entgegen § 47 Absatz 2 eine dort genannte klinische
-    Prüfung beginnt,
+2.  entgegen § 31 oder § 31a Absatz 1 oder 2, jeweils auch in Verbindung
+    mit § 31a Absatz 3, oder entgegen § 47 Absatz 2 eine dort genannte
+    klinische Prüfung oder Leistungsstudie beginnt,
 
 
-3.  entgegen § 46 eine klinische Prüfung fortsetzt,
+3.  entgegen § 46 eine klinische Prüfung oder Leistungsstudie fortsetzt,
 
 
 4.  entgegen § 47 Absatz 1 Nummer 3 eine sonstige klinische Prüfung
@@ -3841,6 +4296,108 @@ verstößt, indem er
 
 
 
+(4) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2017/746
+verstößt, indem er
+
+1.  entgegen Artikel 7 einen Text, eine Bezeichnung, ein Warenzeichen,
+    eine Abbildung oder ein Zeichen verwendet,
+
+
+2.  entgegen Artikel 58 Absatz 5 Buchstabe b, e, i oder j eine
+    Leistungsstudie durchführt oder
+
+
+3.  entgegen Artikel 110 Absatz 3 Satz 1 ein dort genanntes In-vitro-
+    Diagnostikum, das nicht den Vorschriften des Strahlenschutzgesetzes
+    oder einer auf dessen Grundlage erlassenen Rechtsverordnung unterliegt
+    oder bei dessen Herstellung ionisierende Strahlen nicht verwendet
+    wurden, in Verkehr bringt oder in Betrieb nimmt.
+
+
+
+
+(5) Ebenso wird bestraft, wer
+
+1.  ein In-vitro-Diagnostikum in den Verkehr bringt, ohne das In-vitro-
+    Diagnostikum zuvor nach Artikel 26 Absatz 1 der Verordnung (EU)
+    2017/746 in der UDI-Datenbank zu registrieren,
+
+
+2.  ein In-vitro-Diagnostikum in den Verkehr bringt, ohne sich zuvor als
+    Hersteller, Bevollmächtigter oder Importeur in das in Artikel 27
+    Absatz 1 Satz 1 der Verordnung (EU) 2017/746 genannte elektronische
+    System nach Artikel 28 Absatz 1 Satz 1 der Verordnung (EU) 2017/746 zu
+    registrieren,
+
+
+3.  ein In-vitro-Diagnostikum der Klasse D nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das nicht
+    den Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen nicht verwendet wurden, in den
+    Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach
+    Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass
+    zuvor in einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz
+    1, 2, 3 oder 4 der Verordnung (EU) 2017/746 festgestellt wurde, dass
+    das In-vitro-Diagnostikum den Anforderungen der Verordnung (EU)
+    2017/746 entspricht,
+
+
+4.  ein In-vitro-Diagnostikum der Klasse C nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Prüfprodukt für Leistungsstudien ist und das
+    nicht den Vorschriften des Strahlenschutzgesetzes oder einer auf
+    dessen Grundlage erlassenen Rechtsverordnung unterliegt oder bei
+    dessen Herstellung ionisierende Strahlen nicht verwendet wurden, in
+    den Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung
+    nach Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne
+    dass zuvor in einem Konformitätsbewertungsverfahren nach Artikel 48
+    Absatz 1, 2, 7 oder 8 der Verordnung (EU) 2017/746 festgestellt wurde,
+    dass das In-vitro-Diagnostikum den Anforderungen der Verordnung (EU)
+    2017/746 entspricht,
+
+
+5.  ein In-vitro-Diagnostikum der Klasse B nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das nicht
+    den Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen nicht verwendet wurden, in den
+    Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach
+    Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass
+    zuvor in einem Konformitätsbewertungsverfahren nach Artikel 48 Absatz
+    1, 2 oder 9 der Verordnung (EU) 2017/746 festgestellt wurde, dass das
+    In-vitro-Diagnostikum den Anforderungen der Verordnung (EU) 2017/746
+    entspricht,
+
+
+6.  ein In-vitro-Diagnostikum der Klasse A nach Anhang VIII der Verordnung
+    (EU) 2017/746, das kein Produkt für Leistungsstudien ist und das nicht
+    den Vorschriften des Strahlenschutzgesetzes oder einer auf dessen
+    Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen
+    Herstellung ionisierende Strahlen nicht verwendet wurden, in den
+    Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung nach
+    Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne dass
+    zuvor die Konformität des In-vitro-Diagnostikums durch Ausstellung
+    einer EU-Konformitätserklärung nach Artikel 48 Absatz 1, 2 oder 10
+    Unterabsatz 1 der Verordnung (EU) 2017/746, jeweils in Verbindung mit
+    Artikel 17 Absatz 1 Satz 1 der Verordnung (EU) 2017/746, erklärt
+    wurde, oder
+
+
+7.  ein In-vitro-Diagnostikum nach Artikel 48 Absatz 10 Unterabsatz 2 der
+    Verordnung (EU) 2017/746, das kein Produkt für Leistungsstudien ist
+    und das nicht den Vorschriften des Strahlenschutzgesetzes oder einer
+    auf dessen Grundlage erlassenen Rechtsverordnung unterliegt oder bei
+    dessen Herstellung ionisierende Strahlen nicht verwendet wurden, in
+    den Verkehr bringt, in Betrieb nimmt oder mit einer CE-Kennzeichnung
+    nach Artikel 18 Absatz 1 der Verordnung (EU) 2017/746 versieht, ohne
+    dass zuvor in einem Konformitätsbewertungsverfahren nach Artikel 48
+    Absatz 1, 2 oder 10 Unterabsatz 2 der Verordnung (EU) 2017/746
+    festgestellt wurde, dass das In-vitro-Diagnostikum den Anforderungen
+    der Verordnung (EU) 2017/746 entspricht.
+
+
+
+
 
 ### § 94 Bußgeldvorschriften
 
@@ -3863,24 +4420,27 @@ fahrlässig begeht.
 4.  entgegen § 16 Absatz 1 ein Produkt ausstellt,
 
 
-5.  entgegen § 80 Absatz 1 Satz 1 eine Maßnahme nicht duldet oder eine
+5.  entgegen § 16 Absatz 3 ein In-vitro-Diagnostikum anwendet,
+
+
+6.  entgegen § 80 Absatz 1 Satz 1 eine Maßnahme nicht duldet oder eine
     Person nicht unterstützt,
 
 
-6.  entgegen § 83 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
+7.  entgegen § 83 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
     Tätigkeit ausübt,
 
 
-7.  entgegen § 83 Absatz 3 Satz 1 einen Nachweis nicht, nicht richtig oder
+8.  entgegen § 83 Absatz 3 Satz 1 einen Nachweis nicht, nicht richtig oder
     nicht rechtzeitig erbringt,
 
 
-8.  entgegen § 83 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, eine
+9.  entgegen § 83 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, eine
     Mitteilung nicht richtig oder nicht vollständig aufzeichnet oder nicht
     oder nicht rechtzeitig übermittelt oder
 
 
-9.  einer Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 1, 3 Buchstabe
+10. einer Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 1, 3 Buchstabe
     b, Nummer 4 bis 6 Buchstabe a bis d, e Doppelbuchstabe bb oder
     Buchstabe g, Nummer 7 Buchstabe a, Nummer 8 oder 9 oder einer
     vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
@@ -3955,7 +4515,44 @@ fahrlässig begeht.
 
 
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+(4) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  ein In-vitro-Diagnostikum, das kein Produkt für Leistungsstudien ist,
+    in den Verkehr bringt, ohne dass zuvor die CE-Kennzeichnung nach
+    Artikel 18 Absatz 3 der Verordnung (EU) 2017/746 angebracht worden
+    ist,
+
+
+2.  als Hersteller nach Artikel 2 Nummer 23 der Verordnung (EU) 2017/746
+    nicht sicherstellt, dass in seiner Organisationseinheit mindestens
+    eine Person mit dem erforderlichen Fachwissen auf dem Gebiet der In-
+    vitro-Diagnostika vorhanden ist, die dieses Fachwissen nach Artikel 15
+    Absatz 1 Satz 2 der Verordnung (EU) 2017/746 nachgewiesen hat,
+
+
+3.  als Kleinst- oder Kleinunternehmer nach Artikel 2 Absatz 2 oder 3 des
+    Anhangs der Empfehlung 2003/361/EG oder als Bevollmächtigter nach
+    Artikel 2 Nummer 25 der Verordnung (EU) 2017/746 nicht sicherstellt,
+    dass er dauerhaft und ständig auf eine in Artikel 15 Absatz 2 zweiter
+    Halbsatz oder Absatz 6 Satz 1 der Verordnung (EU) 2017/746 genannte
+    Person zurückgreifen kann,
+
+
+4.  als Wirtschaftsakteur nach Artikel 2 Nummer 28 der Verordnung (EU)
+    2017/746 nicht sicherstellt, dass eine in Artikel 22 Absatz 2 der
+    Verordnung (EU) 2017/746 genannte Angabe während des in Artikel 10
+    Absatz 7 Unterabsatz 1 der Verordnung (EU) 2017/746 genannten
+    Zeitraums gemacht werden kann, oder
+
+
+5.  ein In-vitro-Diagnostikum, das kein Produkt für Leistungsstudien ist,
+    unter Verstoß gegen die Sicherstellungspflicht nach Artikel 24 Absatz
+    3 Unterabsatz 2 der Verordnung (EU) 2017/746 in den Verkehr bringt.
+
+
+
+
+(5) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 dreißigtausend Euro geahndet werden.
 
 
@@ -3997,6 +4594,37 @@ wurden. Bescheinigungen nach Satz 3, die am 26. Mai 2021 noch nicht
 gemäß den Sätzen 1 und 2 an das Bundesinstitut für Arzneimittel und
 Medizinprodukte übermittelt wurden, sind von den Benannten Stellen
 spätestens bis zum 1. September 2021 zu übermitteln.
+
+
+### § 96a Übergangsvorschrift aus Anlass von Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746
+
+(1) Unbeschadet des Artikels 110 Absatz 8 der Verordnung (EU) 2017/746
+gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und
+§ 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai
+2021 geltenden Fassung bis zu dem in Artikel 113 Absatz 3 Buchstabe a
+der Verordnung (EU) 2017/746 genannten Datum.
+
+(2) Unbeschadet des Artikels 110 Absatz 8 der Verordnung (EU) 2017/746
+sind anstelle der nach Artikel 51 Absatz 5 der Verordnung (EU)
+2017/746 vorgeschriebenen Informationen von den Benannten Stellen bis
+zu dem in Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU)
+2017/746 genannten Datum die in § 18 Absatz 3 Nummer 1 des
+Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+geltenden Fassung vorgeschriebenen Informationen an das Bundesinstitut
+für Arzneimittel und Medizinprodukte zu übermitteln. Bis zu dem in
+Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746
+genannten Datum sind § 18 Absatz 4 und § 33 des
+Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+geltenden Fassung entsprechend anzuwenden.
+
+(3) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34
+Absatz 3 der Verordnung (EU) 2017/745 nicht bis zu dem in Artikel 113
+Absatz 3 Buchstabe a der Verordnung (EU) 2017/746 genannten Datum
+erfolgt, teilt das Bundesministerium für Gesundheit mit, wie die in
+Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746
+genannten Pflichten im Zusammenhang mit EUDAMED zu erfüllen sind. Die
+Mitteilung nach Satz 1 erfolgt durch Bekanntmachung, die im
+Bundesanzeiger veröffentlicht wird.
 
 
 ### § 97 Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745
@@ -4068,6 +4696,83 @@ veröffentlicht wird,
     Absatz 2 der Verordnung (EU) 2017/745 Bestandteil von Eudamed sind,
     mitteilen, dass die übrigen in Artikel 123 Absatz 3 Buchstabe d der
     Verordnung (EU) 2017/745 genannten, mit dem jeweiligen elektronischen
+    System in Zusammenhang stehenden Pflichten und Anforderungen
+    abweichend von der Mitteilung nach Absatz 1 Satz 2 über das jeweilige
+    elektronische System zu erfüllen sind.
+
+
+
+
+
+### § 97a Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 30 der Verordnung (EU) 2017/746
+
+(1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34
+Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2022 im
+Amtsblatt der Europäischen Union veröffentlicht worden, gilt
+
+1.  in Bezug auf die Registrierung von Produkten § 96a Absatz 1,
+
+
+2.  in Bezug auf Artikel 51 Absatz 5 der Verordnung (EU) 2017/746 § 96a
+    Absatz 2.
+
+
+
+Das Bundesministerium für Gesundheit teilt mit, wie die verschiedenen
+in Artikel 113 Absatz 3 Buchstabe f der Verordnung (EU) 2017/746
+genannten und im Zusammenhang mit EUDAMED stehenden Pflichten und
+Anforderungen bis zu dem späteren der in Artikel 113 Absatz 3
+Buchstabe f der Verordnung(EU) 2017/746 genannten Daten wahrgenommen
+werden sollen. Die Mitteilung nach Satz 2 erfolgt durch
+Bekanntmachung, die im Bundesanzeiger veröffentlicht wird.
+
+(2) Sind einzelne elektronische Systeme, die nach Artikel 30 Absatz 2
+der Verordnung (EU) 2017/746 Bestandteil von EUDAMED sind, voll
+funktionsfähig, ohne dass eine Mitteilung der Europäischen Kommission
+nach Artikel 34 Absatz 3 der Verordnung (EU) 2017/745 im Amtsblatt der
+Europäischen Union veröffentlicht wurde, kann das Bundesministerium
+für Gesundheit durch Bekanntmachung, die im Bundesanzeiger
+veröffentlicht wird,
+
+1.  feststellen, dass die volle Funktionsfähigkeit eines elektronischen
+    Systems, das Bestandteil von EUDAMED ist, oder mehrerer solcher
+    elektronischen Systeme gegeben ist;
+
+
+2.  im Falle der Feststellung der vollen Funktionsfähigkeit der
+    elektronischen Systeme nach Artikel 30 Absatz 2 Buchstabe a und b der
+    Verordnung (EU) 2017/746 mitteilen, dass Hersteller bis zu dem in
+    Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746
+    genannten Datum die Anforderungen nach § 96a Absatz 1 auch dadurch
+    erfüllen können, dass sie die Registrierung von Produkten nach Artikel
+    26 der Verordnung (EU) 2017/746 vornehmen;
+
+
+3.  im Falle der Feststellung der vollen Funktionsfähigkeit des
+    elektronischen Systems nach Artikel 30 Absatz 2 Buchstabe d der
+    Verordnung (EU) 2017/746 mitteilen, dass
+
+    a)  Benannte Stellen bis zu dem in Artikel 113 Absatz 3 Buchstabe a der
+        Verordnung (EU) 2017/746 genannten Datum die Anforderungen nach § 96a
+        Absatz 2 auch dadurch erfüllen können, dass sie die Anforderungen nach
+        Artikel 51 Absatz 5 der Verordnung (EU) 2017/746 erfüllen;
+
+
+    b)  die in Artikel 113 Absatz 3 Buchstabe f der Verordnung (EU) 2017/746
+        genannten, im Zusammenhang mit dem elektronischen System nach Artikel
+        30 Absatz 2 Buchstabe d der Verordnung (EU) 2017/746 stehenden
+        Pflichten und Anforderungen abweichend von der Mitteilung nach Absatz
+        1 Satz 2 über dieses elektronische System erfüllt werden können;
+
+
+
+
+
+4.  im Falle der Feststellung der vollen Funktionsfähigkeit eines oder
+    mehrerer der übrigen elektronischen Systeme, die nach Artikel 30
+    Absatz 2 der Verordnung (EU) 2017/746 Bestandteil von EUDAMED sind,
+    mitteilen, dass die übrigen in Artikel 113 Absatz 3 Buchstabe f der
+    Verordnung (EU) 2017/746 genannten, mit dem jeweiligen elektronischen
     System in Zusammenhang stehenden Pflichten und Anforderungen
     abweichend von der Mitteilung nach Absatz 1 Satz 2 über das jeweilige
     elektronische System zu erfüllen sind.
@@ -4207,4 +4912,102 @@ Vorschriften die Medizinprodukte und deren Zubehör im Sinne von § 3
 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis
 einschließlich 25. Mai 2021 geltenden Fassung in Verkehr gebracht
 wurden.
+
+
+### § 100 Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör
+
+(1) Für In-vitro-Diagnostika und deren Zubehör im Sinne von § 3 Nummer
+4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai
+2021 geltenden Fassung, die vor dem 26. Mai 2022 nach den die
+Richtlinie 98/79/EG umsetzenden nationalen Vorschriften rechtmäßig in
+den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende
+Vorschriften anzuwenden:
+
+1.  bis zum 27. Mai 2025 die §§ 4 und 6 Absatz 1 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung,
+
+
+2.  die Vorschriften zur Verpflichtung der Hersteller zum Bereithalten von
+    Unterlagen nach der Richtlinie 98/79/EG,
+
+
+3.  die Vorschriften von Abschnitt 8 des Medizinproduktegesetzes in der
+    bis einschließlich 25. Mai 2021 geltenden Fassung,
+
+
+4.  die Artikel 82 bis 84 der Verordnung
+    (EU) 2017/746,
+
+
+5.  die Artikel 88 bis 93 der Verordnung
+    (EU) 2017/746,
+
+
+6.  die Vorschriften des Kapitels 7 dieses Gesetzes.
+
+
+
+
+(2) Die für Benannte Stellen zuständige Behörde nach Artikel 31 der
+Verordnung (EU) 2017/746 überwacht bis zum 26. Mai 2025 in
+angemessener Weise
+
+1.  die Einhaltung der Verpflichtungen einer Benannten Stelle nach Artikel
+    110 Absatz 3 Unterabsatz 5 der Verordnung (EU) 2017/746 sowie
+
+
+2.  die Einhaltung der Kriterien des Anhangs IX der Richtlinie 98/79/EG
+    durch die Benannte Stelle, die die Verpflichtungen nach Artikel 110
+    Absatz 3 Unterabsatz 5 der Verordnung (EU) 2017/746 zu erfüllen hat,
+    und
+
+
+3.  die Einhaltung der Verpflichtungen eines nach § 15 Absatz 5 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung anerkannten Prüflaboratoriums für In-vitro-
+    Diagnostika.
+
+
+
+§ 15 Absatz 2 Satz 2 bis 5 und Absatz 5 Satz 4 des
+Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+geltenden Fassung ist bis zum 26. Mai 2025 entsprechend anzuwenden.
+
+(3) Vor dem 26. Mai 2022 begonnene Leistungsbewertungsprüfungen nach §
+24 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+geltenden Fassung dürfen auf der Grundlage der bis einschließlich 25.
+Mai 2022 für sie geltenden Vorschriften als Leistungsstudien gemäß
+Artikel 2 Nummer 42 der Verordnung (EU) 2017/746 weiter durchgeführt
+werden. Begonnen im Sinne von Satz 1 ist eine
+Leistungsbewertungsprüfung, wenn nach Vorliegen aller Voraussetzungen
+für den Beginn der Leistungsbewertungsprüfung der erste
+Prüfungsteilnehmer in die Teilnahme an der Leistungsbewertungsprüfung
+eingewilligt hat.
+
+(3a) Für Leistungsstudien, die nach dem 26. Mai 2022 begonnen werden
+sollen, können ab dem 1. April 2022 Anträge nach § 33 über das
+Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86
+gestellt werden. Die Ethik-Kommissionen führen die Prüfung und
+Bewertung von Anträgen nach Satz 1 auf der Grundlage der ab dem 26.
+Mai 2022 geltenden Anforderungen der Verordnung (EU) 2017/746 und nach
+den Verfahren der §§ 33 bis 37 durch. Abweichend von der in § 36
+genannten Frist übermittelt die zuständige Ethik-Kommission die nach
+§ 37 erforderliche Stellungnahme dem Sponsor frühestens am 26. Mai
+2022\.
+
+(4) Für In-vitro-Diagnostika und deren Zubehör im Sinne von § 3 Nummer
+4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai
+2021 geltenden Fassung, die ein Verfalldatum haben und die vor dem 30.
+Juni 2007 zum Zweck des Zivil- und Katastrophenschutzes an die
+zuständigen Behörden des Bundes oder der Länder oder zur Durchführung
+der besonderen Aufgaben der Bundeswehr an die Bundeswehr abgegeben
+wurden, gilt § 44 Absatz 1 des Medizinproduktegesetzes in der bis
+einschließlich 25. Mai 2021 geltenden Fassung.
+
+(5) Die Vorschriften des § 11 sowie der Rechtsverordnung nach § 88
+Absatz 1 Satz 1 Nummer 6 gelten unabhängig davon, nach welchen
+Vorschriften In-vitro-Diagnostika und deren Zubehör im Sinne von § 3
+Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich
+25\. Mai 2021 geltenden Fassung in Verkehr gebracht wurden.
 

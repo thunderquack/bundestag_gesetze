@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 2487
 
 Zuletzt geändert durch
-:   Art. 34 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 7 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 5.1.2022 I 2 (
 
 
 

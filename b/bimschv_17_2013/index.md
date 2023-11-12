@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1021, 1044 (3754)
 
-Änderung durch
-:   Art. 2 V v. 6.7.2021 I 2514 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 6.7.2021 I 2514
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1917,8 +1917,7 @@ a)
     *        *   Cadmium und seine Verbindungen, angegeben als Cadmium, Thallium und
             seine Verbindungen, angegeben als Thallium,
 
-        *   0,05 mg/m
-            3                             ,
+        *   ,
 
 
 
@@ -2941,7 +2940,7 @@ Ausnahmen.
 
 
 1.  Der Wert des Konfidenzintervalls von 95 Prozent eines einzelnen
-    Messergebnisses darf an der für den Tagesmittelwert festgelegten
+    Messergebnisses darf an der für den Jahresmittelwert festgelegten
     Emissionsbegrenzung die folgenden Prozentsätze dieser
     Emissionsbegrenzung nicht überschreiten:
 

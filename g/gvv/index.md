@@ -16,10 +16,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.1.2020 BAnz AT 31.01.2020 V2
-
-Änderung durch
-:   Art. 1 V v. 25.10.2021 BAnz AT 29.10.2021 V2 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 25.10.2021 BAnz AT 29.10.2021 V2
 
 
 ## Eingangsformel

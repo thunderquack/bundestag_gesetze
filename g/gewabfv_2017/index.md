@@ -17,13 +17,16 @@ Fundstelle
 :   BGBl I: 2017, 896
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 2 G v. 23.10.2020 I 2232
-
-Änderung durch
-:   Art. 4 V v. 9.7.2021 I 2598 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 28.4.2022 I 700
 
 Stand: § 4 Abs. 2 und § 6 Abs. 1 u. 3 bis 6 treten gem. § 15 Abs. 2 dieser V am 1.1.2019 in Kraft
 Stand: Ersetzt V 2129-27-2-15 v. 19.6.2002 I 1938 (GewAbfV)
+[^BJNR089600017_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
+    Parlaments und des Rates vom 9. September 2015 über ein
+    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
+    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
+    241 vom 17.9.2015, S. 1).
+
 
 ## Eingangsformel
 
@@ -114,10 +117,9 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
     a)  Siedlungsabfälle aus anderen Herkunftsbereichen als privaten
         Haushaltungen, die aufgeführt sind in Kapitel 20 der Anlage der
-        Abfallverzeichnis-
-        Verordnung vom                          10. Dezember 2001 (BGBl. I S.
-        3379), die zuletzt durch Artikel 2 der Verordnung vom 22. Dezember
-        2016 (BGBl. I S. 3103) geändert worden ist, in der jeweils geltenden
+        Abfallverzeichnis-Verordnung vom 10. Dezember 2001 (BGBl. I S. 3379),
+        die zuletzt durch Artikel 2 der Verordnung vom 22. Dezember 2016
+        (BGBl. I S. 3103) geändert worden ist, in der jeweils geltenden
         Fassung, insbesondere
 
         aa) gewerbliche und industrielle Abfälle sowie
@@ -173,10 +175,10 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 6.  Getrenntsammlungsquote:
 
-    der Quotient der getrennt gesammelten Masse an gewerblichen
-    Siedlungsabfällen und der Gesamtmasse der bei einem Erzeuger
-    anfallenden gewerblichen Siedlungsabfälle multipliziert mit 100
-    Prozent,
+    der Quotient der zur stofflichen Verwertung getrennt gesammelten Masse
+    an gewerblichen Siedlungsabfällen und der Gesamtmasse der bei einem
+    Erzeuger anfallenden gewerblichen Siedlungsabfälle multipliziert mit
+    100 Prozent,
 
 
 7.  Sortierquote:
@@ -237,7 +239,9 @@ Wiederverwendung oder dem Recycling zuzuführen:
 6.  Textilien,
 
 
-7.  Bioabfälle nach § 3 Absatz 7 des Kreislaufwirtschaftsgesetzes und
+7.  Bioabfälle nach § 3 Absatz 7 des Kreislaufwirtschaftsgesetzes;
+    unterteilt nach verpackten Bioabfällen, insbesondere verpackten
+    Lebensmittelabfällen, und unverpackten Bioabfällen sowie
 
 
 8.  weitere Abfallfraktionen, die in den in § 2 Nummer 1 Buchstabe b
@@ -275,11 +279,11 @@ Dokumentation ist wie folgt vorzunehmen:
     wie Liefer- oder Wiegescheine oder ähnliche Dokumente,
 
 
-2.  für die Zuführung der getrennt gesammelten Abfälle zur Vorbereitung
-    zur Wiederverwendung oder zum Recycling durch eine Erklärung
-    desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen
-    Namen und Anschrift sowie die Masse und den beabsichtigten Verbleib
-    des Abfalls zu enthalten hat, und
+2.  für die Zuführung der getrennt gesammelten Abfälle zur Verwertung
+    durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die
+    Erklärung dessen Namen und Anschrift sowie die Masse, die
+    Verwertungsart und den beabsichtigten Verbleib des Abfalls zu
+    enthalten hat, und
 
 
 3.  für das Abweichen von der Pflicht zur getrennten Sammlung durch eine
@@ -390,7 +394,7 @@ erfolgen.
     bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1),
     die zuletzt durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom
     9\.4.2008, S. 13) geändert worden ist, in der jeweils geltenden
-    Fassung, tätig werden darf,
+    Fassung,
 
 
 3.  wer nach § 36 der Gewerbeordnung öffentlich bestellt ist oder
@@ -406,6 +410,34 @@ erfolgen.
 
 
 
+
+
+### § 4a Umgang mit verpackten Bioabfällen
+
+(1) Verpackte Bioabfälle, insbesondere verpackte Lebensmittelabfälle,
+sind
+
+1.  vor dem Recycling oder einer sonstigen stofflichen Verwertung einer
+    gesonderten Verpackungsentfrachtung zuzuführen oder
+
+
+2.  für eine bodenbezogene Verwertung einer Behandlung gemäß der
+    Bioabfallverordnung in der Fassung der Bekanntmachung vom 4. April
+    2013 (BGBl. I S. 658), die zuletzt durch Artikel 1 der Verordnung vom
+    28\. April 2022 (BGBl. I S. 700) geändert worden ist, in der jeweils
+    geltenden Fassung zuzuführen.
+
+
+
+
+(2) Erzeuger und Besitzer haben sich bei der erstmaligen Übergabe der
+verpackten Bioabfälle durch denjenigen, der die Abfälle übernimmt, in
+Textform bestätigen zu lassen, dass die Anforderungen nach Absatz 1
+erfüllt werden. Beauftragt ein Erzeuger oder Besitzer einen Dritten
+mit der Beförderung der verpackten Bioabfälle, so ist dieser
+verpflichtet, die Bestätigung einzuholen. Der Beförderer teilt dem
+Erzeuger oder Besitzer unverzüglich nach dem Erhalt der Bestätigung
+mit, ob die Anforderungen nach Absatz 1 erfüllt werden.
 
 
 ### § 5 Gemeinsame Erfassung und Entsorgung von Kleinmengen
@@ -579,6 +611,13 @@ vornehmen. Das Vermischungsverbot für gefährliche Abfälle des § 9a des
 Kreislaufwirtschaftsgesetzes auch in Verbindung mit § 15 Absatz 3 Satz
 2 des Kreislaufwirtschaftsgesetzes bleibt unberührt.
 
+(1a) Soweit beim Rückbau, bei der Sanierung oder bei der Reparatur
+technischer Bauwerke Stoffe nach § 2 Nummer 18 bis 29 und 32 der
+Ersatzbaustoffverordnung vom 9. Juli 2021 (BGBl. I S. 2598) als
+Abfälle anfallen, gilt für die Getrenntsammlung, die Vorbereitung zur
+Wiederverwendung und das Recycling dieser Abfälle ausschließlich § 24
+der Ersatzbaustoffverordnung.
+
 (2) Die Pflichten nach Absatz 1 Satz 1 entfallen, soweit die getrennte
 Sammlung der jeweiligen Abfallfraktion technisch nicht möglich oder
 wirtschaftlich nicht zumutbar ist. Technisch nicht möglich ist die
@@ -607,11 +646,11 @@ Dokumentation ist wie folgt vorzunehmen:
     wie Liefer- oder Wiegescheine oder ähnliche Dokumente,
 
 
-2.  für die Zuführung der getrennt gesammelten Abfälle zur Vorbereitung
-    zur Wiederverwendung oder zum Recycling durch eine Erklärung
-    desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen
-    Namen und Anschrift sowie die Masse und den beabsichtigten Verbleib
-    des Abfalls zu enthalten hat, und
+2.  für die Zuführung der getrennt gesammelten Abfälle zur Verwertung
+    durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die
+    Erklärung dessen Namen und Anschrift sowie die Masse, die
+    Verwertungsart und den beabsichtigten Verbleib des Abfalls zu
+    enthalten hat, und
 
 
 3.  für das Abweichen von der Pflicht zur getrennten Sammlung durch eine
@@ -621,9 +660,10 @@ Dokumentation ist wie folgt vorzunehmen:
 
 
 Die Dokumentation ist auf Verlangen der zuständigen Behörde
-vorzulegen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für
-Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt
-anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
+vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde
+elektronisch zu erfolgen. Die Pflichten nach den Sätzen 1 bis 3 gelten
+nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der
+insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 
 ### § 9 Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen
@@ -690,9 +730,10 @@ Dokumentation kann insbesondere durch Lagepläne oder Lichtbilder,
 Praxisbelege, wie Liefer- oder Wiegescheine, Entsorgungsverträge oder
 Nachweise desjenigen, der die zuzuführenden Abfälle übernimmt,
 erfolgen. Die Dokumentation ist auf Verlangen der zuständigen Behörde
-vorzulegen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für
-Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt
-anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
+vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde
+elektronisch zu erfolgen. Die Pflichten nach den Sätzen 1 bis 3 gelten
+nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der
+insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften

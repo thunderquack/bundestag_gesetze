@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1961, 165
 
 Zuletzt geändert durch
-:   Art. 43 V v. 19.6.2020 I 1328
+:   Art. 3 G v. 2.3.2023 I Nr. 56
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
@@ -103,8 +103,8 @@ Vollzugsbeamte des Bundes nach diesem Gesetz sind
 5.  (weggefallen)
 
 
-6.  die Beauftragten des Bundesamtes für Güterverkehr, soweit sie mit
-    Überwachungsaufgaben nach den §§ 11 bis 13 des
+6.  die Beauftragten des Bundesamtes für Logistik und Mobilität, soweit
+    sie mit Überwachungsaufgaben nach den §§ 11 bis 13 des
     Güterkraftverkehrsgesetzes betraut sind;
 
 

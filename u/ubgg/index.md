@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2765;
 
 Zuletzt geändert durch
-:   Art. 24 Abs. 20 G v. 23.6.2017 I 1693
-
-Änderung durch
-:   Art. 7 Abs. 31 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 31 G v. 12.5.2021 I 990
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

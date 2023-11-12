@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 195
 
+Geändert durch
+:   Art. 9 G v. 24.6.2022 I 959
+
 
 
 ## Eingangsformel
@@ -109,7 +112,7 @@ Fertigkeiten und Kenntnisse:
 9.2 Nachlaß,
 
 
-9.3 vormundschaftsgerichtliche Angelegenheiten, Betreuung,
+9.3 vormundschaftsrechtliche Angelegenheiten, Betreuung,
 
 
 9.4 öffentliche Register.
@@ -908,10 +911,10 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   9.3
 
-    *   Vormundschaftsgerichtliche Angelegenheiten, Betreuung
+    *   Vormundschaftsrechtliche Angelegenheiten, Betreuung
         (§ 3 Nr. 9.3)
 
-    *   in Verfahren vor dem Vormundschaftsgericht und in Betreuungsverfahren,
+    *   in Verfahren vor dem Familiengericht und in Betreuungsverfahren,
         insbesondere bei Anträgen auf Bestellung eines Betreuers, mitwirken
 
     *

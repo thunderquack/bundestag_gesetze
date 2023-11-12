@@ -149,9 +149,13 @@ oder erstmals verwendet werden.
     L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die
     Verordnung
     (EU) 2020/561                    (ABl. L 130 vom 24.4.2020, S. 18)
-    geändert worden ist, in der jeweils geltenden Fassung und im Sinne des
-    § 3 Nummer 4 des Medizinproduktegesetzes in der bis einschließlich 25.
-    Mai 2021 geltenden Fassung,
+    geändert worden ist, in der jeweils geltenden Fassung sowie im Sinne
+    von Artikel 2 Nummer 2 der Verordnung (EU) 2017/746 des Europäischen
+    Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika
+    und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses
+    2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom
+    3\.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils
+    geltenden Fassung,
 
 
 6.  Umschließungen, wie ortsbewegliche Druckgeräte, Verpackungen und

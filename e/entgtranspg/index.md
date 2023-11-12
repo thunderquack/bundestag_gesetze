@@ -578,7 +578,7 @@ Bericht anzugeben.
 
 (4) Der Bericht nach § 21 ist dem nächsten Lagebericht nach § 289 des
 Handelsgesetzbuches, der dem jeweiligen Berichtszeitraum folgt, als
-Anlage beizufügen und im Bundesanzeiger zu veröffentlichen.
+Anlage beizufügen und im Unternehmensregister offenzulegen.
 
 
 ## Abschnitt 5 - Evaluation, Aufgabe der Gleichstellungsbeauftragten, Übergangsbestimmungen
@@ -630,4 +630,10 @@ darlegen, dass sich die Voraussetzungen wesentlich verändert haben.
 (3) Abweichend von § 22 Absatz 1 Satz 2 und Absatz 2 Satz 2 umfasst
 der Berichtszeitraum für den ersten Bericht nur das letzte
 abgeschlossene Kalenderjahr, das dem Jahr 2017 vorausgeht.
+
+(4) § 22 Absatz 4 in der ab dem 1. August 2022 geltenden Fassung ist
+erstmals anzuwenden auf Berichte zur Gleichstellung und
+Entgeltgleichheit, die Lageberichten beizufügen sind, welche für das
+nach dem 31. Dezember 2021 beginnende Geschäftsjahr aufgestellt
+werden.
 

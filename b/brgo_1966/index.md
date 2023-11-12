@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.11.1993 I 2007;
 
 Zuletzt geändert durch
-:   Bek. v. 26.3.2021 I 797
+:   Bek. v. 16.9.2022 I 1513
 
 
 ## I. - Allgemeine Bestimmungen
@@ -749,6 +749,20 @@ beschließt.
 
 (3) Für jede Ausschußsitzung wird eine Anwesenheitsliste ausgelegt, in
 die sich die Teilnehmer der Sitzung eintragen.
+
+
+### § 37a Zulässigkeit von Ausschusssitzungen als Videokonferenz aus wichtigem Grund
+
+(1) Ausschusssitzungen finden grundsätzlich in Präsenz statt. Aus
+wichtigem Grund kann die Präsidentin oder der Präsident nach Befassung
+des Ständigen Beirats entscheiden, dass Ausschusssitzungen
+ausnahmsweise für einen bestimmten Zeitraum als Videokonferenz
+stattfinden dürfen.
+
+(2) Die Anwesenheit ist zu Beginn der Sitzung festzustellen.
+
+(3) § 37 Absatz 1 Satz 3 und Absatz 2 und §§ 38 bis 45 sind
+entsprechend anzuwenden.
 
 
 ### § 38 Einberufung, Leitung, Tagesordnung

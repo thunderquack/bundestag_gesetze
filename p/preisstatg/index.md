@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1958, 605
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.2.2021 I 266
+:   Art. 4 G v. 20.12.2022 I 2727
 
 
 ## § 1
@@ -63,6 +63,12 @@ der Verordnung (EU) 2016/1952 des Europäischen Parlaments und des
 Rates vom 26. Oktober 2016 über europäische Erdgas- und
 Strompreisstatistik und zur Aufhebung der Richtlinie 2008/92/EG (ABl.
 L 311 vom 17.11.2016, S. 1).
+
+(1a) Soweit elektronische Aufzeichnungen von Transaktionen nach § 7b
+Absatz 3 angefordert werden, sind zu dem Zweck der Berechnung der in
+Absatz 1 genannten Preise und zum Zweck der Gewichtung der
+betrachteten Güter Angaben zu Umsatz und verkauften Mengen zu
+übermitteln. § 7c bleibt unberührt.
 
 (2) Auskunftspflichtig sind die landwirtschaftlichen,
 forstwirtschaftlichen und gewerblichen Unternehmen, Behörden und
@@ -126,6 +132,8 @@ Unternehmen, Behörden und Einrichtungen ab.
 
 (1) Die Statistik nach § 2 Nr. 2 erfaßt die Preise und Entgelte für
 nach Arten und Merkmalen bezeichnete Werk- und Dienstleistungen.
+
+(1a) § 3 Absatz 1a gilt entsprechend.
 
 (2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen
 Personen des Werk- und Dienstleistungsbereichs sowie Behörden und
@@ -329,7 +337,12 @@ Länder auf Anforderung elektronische Aufzeichnungen von Transaktionen.
 Die Aufzeichnungen sind in der Gliederungstiefe zu übermitteln, die
 für die Erstellung der Statistiken erforderlich ist.
 
-(4) Für Unternehmen, deren Inhaber Existenzgründer sind, besteht im
+(4) Für die Durchführung von Revisionen dürfen Angaben zu Merkmalen,
+die in diesem Gesetz geregelt sind, rückwirkend für einen Zeitraum von
+bis zu drei Jahren angefordert werden, soweit diese bei den
+auskunftspflichtigen Einheiten vorliegen.
+
+(5) Für Unternehmen, deren Inhaber Existenzgründer sind, besteht im
 Kalenderjahr der Betriebseröffnung abweichend von § 3 Absatz 2 Satz 1,
 § 4 Absatz 2 Satz 1 und § 5 Absatz 2 keine Auskunftspflicht. In den
 beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht,
@@ -339,7 +352,7 @@ Gesellschaften können sich auf die Befreiung von der Auskunftspflicht
 berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer
 sind.
 
-(5) Existenzgründer im Sinne von Absatz 4 sind natürliche Personen,
+(6) Existenzgründer im Sinne von Absatz 4 sind natürliche Personen,
 die eine gewerbliche oder freiberufliche Tätigkeit in Form einer
 Neugründung, einer Übernahme oder einer tätigen Beteiligung aus
 abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus

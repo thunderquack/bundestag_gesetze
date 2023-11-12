@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.11.2018 I 1938;
 
 Zuletzt geändert durch
-:   Art. 104 G v. 10.8.2021 I 3436
+:   Art. 2 G v. 21.12.2022 I 2852
 
 
 ## Abschnitt 1 - Allgemeines
@@ -2906,9 +2906,25 @@ Handlung fahrlässig begeht.
 
 
 8.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
-    Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses
-    Gesetzes zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 4
-    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+    Gemeinschaft oder der Europäischen Union zuwiderhandelt, die
+    inhaltlich einer Regelung entspricht, zu der die in Nummer 4
+
+    a)  Buchstabe a,
+
+
+    b)  Buchstabe b,
+
+
+    c)  Buchstabe c oder
+
+
+    d)  Buchstabe d
+
+
+
+    genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach
+    Absatz 4 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
+    verweist.
 
 
 
@@ -3250,11 +3266,8 @@ leisten ist, auf Antrag ein angemessener Ausgleich nach Maßgabe des
 jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
 
-### § 40 Verkündung von Rechtsverordnungen
+### § 40 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 41 Verhältnis zu anderen Vorschriften

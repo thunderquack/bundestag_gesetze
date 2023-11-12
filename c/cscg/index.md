@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1976, 253
 
 Zuletzt geändert durch
-:   Art. 12 G v. 8.7.2016 I 1594
+:   Art. 2 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -75,7 +75,7 @@ einschließlich der hieraus folgenden Maßnahmen (Artikel IV Abs. 5 und
 Artikel VI des Übereinkommens) sind diejenigen Behörden, die von den
 Landesregierungen oder den von ihnen benannten Stellen bestimmt
 werden. Zu Kontrollen der Container nach Satz 1 sind außerdem das
-Bundesamt für Güterverkehr im Rahmen des § 11 des
+Bundesamt für Logistik und Mobilität im Rahmen des § 11 des
 Güterkraftverkehrsgesetzes, die Grenzzollstellen und andere für die
 Kontrolle an der Grenze zuständige Stellen der Zollverwaltung
 berechtigt.
@@ -483,7 +483,7 @@ Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche
 Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des
 Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36
 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für
-Güterverkehr.
+Logistik und Mobilität.
 
 
 ## Art 8

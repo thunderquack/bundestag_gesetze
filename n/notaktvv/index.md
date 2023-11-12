@@ -63,17 +63,22 @@ Der Notar führt die folgenden Akten:
 
 
 
-### § 3 Urschriften, Ausfertigungen und Abschriften
+### § 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden
 
 (1) Urschriften, Ausfertigungen und beglaubigte Abschriften von
 Urkunden sind so herzustellen, dass sie gut lesbar, dauerhaft und
-fälschungssicher sind.
+fälschungssicher sind. Satz 1 gilt für die Erstellung elektronischer
+Urkunden entsprechend.
 
 (2) Im Schriftbild der Urschrift einer Urkunde darf nichts unleserlich
 gemacht werden.
 
 (3) Auf jeder Urschrift, Ausfertigung oder Abschrift einer Urkunde
-sind die Urkundenverzeichnisnummer und die Jahreszahl anzugeben.
+sind die Urkundenverzeichnisnummer und die Jahreszahl anzugeben. Satz
+1 gilt für das nach § 39a des Beurkundungsgesetzes erstellte
+elektronische Dokument entsprechend. Auf dem nach § 16b des
+Beurkundungsgesetzes erstellten elektronischen Dokument müssen die
+Urkundenverzeichnisnummer und die Jahreszahl nicht angegeben werden.
 
 
 ### § 4 Form und Übergabe elektronischer Aufzeichnungen
@@ -149,7 +154,10 @@ verarbeitet werden.
 1.  Niederschriften (§§ 8, 36 und 38 des Beurkundungsgesetzes),
 
 
-2.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die Folgendes
+2.  elektronische Niederschriften (§ 16b des Beurkundungsgesetzes),
+
+
+3.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die Folgendes
     enthalten:
 
     a)  die Beglaubigung einer Unterschrift oder eines Handzeichens,
@@ -169,10 +177,10 @@ verarbeitet werden.
 
 
 
-3.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
+4.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
     die Folgendes enthalten:
 
-    a)  die Beglaubigung einer elektronischen Signatur,
+    a)  die Beglaubigung einer qualifizierten elektronischen Signatur,
 
 
     b)  die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt
@@ -186,11 +194,11 @@ verarbeitet werden.
 
 
 
-4.  Vollstreckbarerklärungen nach § 796c Absatz 1 und § 1053 Absatz 4 der
+5.  Vollstreckbarerklärungen nach § 796c Absatz 1 und § 1053 Absatz 4 der
     Zivilprozessordnung und
 
 
-5.  Einigungen, Abschlussprotokolle, Vertragsbeurkundungen und
+6.  Einigungen, Abschlussprotokolle, Vertragsbeurkundungen und
     Vertragsbestätigungen nach § 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, §
     98 Absatz 2 Satz 1 und § 99 Satz 1 des
     Sachenrechtsbereinigungsgesetzes.
@@ -203,16 +211,31 @@ verarbeitet werden.
 1.  Niederschriften über Wechsel- und Scheckproteste,
 
 
-2.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die im
-    Zusammenhang mit einer anderen Beurkundung erstellt und auf die
-    betreffende Urschrift oder eine Ausfertigung der Urkunde oder ein
-    damit zu verbindendes Blatt gesetzt werden, und
+2.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die im
+    Zusammenhang mit einer anderen Beurkundung erstellt werden und
+
+    a)  die auf die betreffende Urschrift oder eine Ausfertigung der Urkunde
+        oder ein damit zu verbindendes Blatt gesetzt werden oder
 
 
-3.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
+    b)  deren elektronische Fassung zusammen mit einer elektronischen
+        Urschrift verwahrt wird, und
+
+
+
+
+
+3.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
     die im Zusammenhang mit einer anderen Beurkundung erstellt werden und
-    deren Ausdruck mit einer Urschrift oder einer Ausfertigung der Urkunde
-    verbunden wird.
+
+    a)  deren Ausdruck mit einer Urschrift oder einer Ausfertigung der Urkunde
+        verbunden wird oder
+
+
+    b)  die zusammen mit einer elektronischen Urschrift verwahrt werden.
+
+
+
 
 
 
@@ -295,13 +318,14 @@ Zur Amtsperson sind anzugeben
 
 (1) Als Beteiligte sind einzutragen
 
-1.  bei Niederschriften nach den §§ 8 und 38 des Beurkundungsgesetzes die
+1.  bei Niederschriften nach den §§ 8 und 38 des Beurkundungsgesetzes und
+    elektronischen Niederschriften (§ 16b des Beurkundungsgesetzes) die
     Erschienenen, deren Erklärungen beurkundet worden sind,
 
 
 2.  bei Beglaubigungen (§§ 39 bis 41 des Beurkundungsgesetzes) diejenigen,
-    welche die Unterschrift, die elektronische Signatur, das Handzeichen
-    oder die Zeichnung vollzogen oder anerkannt haben,
+    welche die Unterschrift, die qualifizierte elektronische Signatur, das
+    Handzeichen oder die Zeichnung vollzogen oder anerkannt haben,
 
 
 3.  bei Vollstreckbarerklärungen (§ 796c Absatz 1 und § 1053 Absatz 4 der
@@ -321,7 +345,7 @@ Zur Amtsperson sind anzugeben
 
 Sind mehr als 20 Beteiligte einzutragen, genügt auch eine
 zusammenfassende Bezeichnung, es sei denn, dass die Beteiligten in den
-Fällen der §§ 8 oder 38 des Beurkundungsgesetzes Erklärungen zur
+Fällen der §§ 8, 16b oder 38 des Beurkundungsgesetzes Erklärungen zur
 Niederschrift abgegeben haben.
 
 (2) Zu den Beteiligten sind anzugeben
@@ -344,12 +368,12 @@ Niederschrift abgegeben haben.
 
 Sofern dies zur Unterscheidung der Beteiligten erforderlich ist, sind
 weitere Angaben aufzunehmen. Haben Beteiligte in Vertretung für eine
-andere Person gehandelt und wurde dabei in eine Niederschrift statt
-des Wohnorts eines Beteiligten ein Dienst- oder Geschäftsort
-aufgenommen, so tritt dieser auch im Urkundenverzeichnis an die Stelle
-des Wohnorts. Bei Beteiligten, die keine natürlichen Personen sind,
-sind statt der in Satz 1 genannten Angaben ihr Name und ihr Sitz
-anzugeben.
+andere Person gehandelt und wurde dabei in eine Niederschrift oder
+elektronische Niederschrift statt des Wohnorts eines Beteiligten ein
+Dienst- oder Geschäftsort aufgenommen, so tritt dieser auch im
+Urkundenverzeichnis an die Stelle des Wohnorts. Bei Beteiligten, die
+keine natürlichen Personen sind, sind statt der in Satz 1 genannten
+Angaben ihr Name und ihr Sitz anzugeben.
 
 (3) Zu den Beteiligten kann angegeben werden
 
@@ -391,12 +415,12 @@ diese zu verwenden.
 
 (1) Als Urkundenarten sind zu unterscheiden
 
-1.  Beglaubigungen von Unterschriften oder Handzeichen mit Anfertigung
-    eines Urkundenentwurfs,
+1.  Beglaubigungen von Unterschriften, Handzeichen oder qualifizierten
+    elektronischen Signaturen mit Anfertigung eines Urkundenentwurfs,
 
 
-2.  Beglaubigungen von Unterschriften oder Handzeichen ohne Anfertigung
-    eines Urkundenentwurfs,
+2.  Beglaubigungen von Unterschriften, Handzeichen oder qualifizierten
+    elektronischen Signaturen ohne Anfertigung eines Urkundenentwurfs,
 
 
 3.  Verfügungen von Todes wegen,
@@ -409,9 +433,12 @@ diese zu verwenden.
 
 
 
+Ist die Beurkundung mittels Videokommunikation oder im Wege der
+gemischten Beurkundung (§ 16e des Beurkundungsgesetzes) erfolgt, so
+ist dies anzugeben.
 
-(2) Die Bundesnotarkammer kann innerhalb der in Absatz 1 genannten
-Urkundenarten weitere Differenzierungen vorsehen.
+(2) Die Bundesnotarkammer kann innerhalb der in Absatz 1 Satz 1
+genannten Urkundenarten weitere Differenzierungen vorsehen.
 
 
 ### § 15 Angaben zu Ausfertigungen
@@ -782,7 +809,12 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
     einzutragen sind, die Urschrift,
 
 
-3.  bei Vermerken im Sinne des § 39 des Beurkundungsgesetzes, die in das
+3.  bei elektronischen Niederschriften im Sinne des § 16b des
+    Beurkundungsgesetzes, ein beglaubigter Ausdruck des elektronischen
+    Dokuments,
+
+
+4.  bei Vermerken im Sinne des § 39 des Beurkundungsgesetzes, die in das
     Urkundenverzeichnis einzutragen sind,
 
     a)  die Urschrift, wenn diese in notarieller Verwahrung verbleibt,
@@ -798,21 +830,34 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 
 
 
-4.  bei einfachen elektronischen Zeugnissen im Sinne des § 39a des
+5.  bei einfachen elektronischen Zeugnissen im Sinne des § 39a des
     Beurkundungsgesetzes, die in das Urkundenverzeichnis einzutragen sind,
-    ein Ausdruck des elektronischen Dokuments,
+
+    a)  ein beglaubigter Ausdruck des elektronischen Dokuments, wenn dieses in
+        notarieller Verwahrung verbleibt,
 
 
-5.  bei Vollstreckbarerklärungen nach § 796c Absatz 1 der
+    b)  ein Ausdruck des elektronischen Dokuments, wenn dieses ausgehändigt
+        wird und der Notar die Urkunde entworfen hat,
+
+
+    c)  in den übrigen Fällen nach Ermessen des Notars ein Ausdruck des
+        elektronischen Dokuments,
+
+
+
+
+
+6.  bei Vollstreckbarerklärungen nach § 796c Absatz 1 der
     Zivilprozessordnung die Urschrift mit der Urschrift des Vergleichs,
 
 
-6.  bei Vollstreckbarerklärungen nach § 1053 Absatz 4 der
+7.  bei Vollstreckbarerklärungen nach § 1053 Absatz 4 der
     Zivilprozessordnung die Urschrift mit einer beglaubigten Abschrift des
     Schiedsspruchs,
 
 
-7.  bei Einigungen, Abschlussprotokollen, Vertragsbeurkundungen und
+8.  bei Einigungen, Abschlussprotokollen, Vertragsbeurkundungen und
     Vertragsbestätigungen nach § 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, §
     98 Absatz 2 Satz 1 und § 99 Satz 1 des
     Sachenrechtsbereinigungsgesetzes die Urschrift.
@@ -823,9 +868,15 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 (2) Die Urkundensammlung ist nach der Reihenfolge der Eintragungen im
 Urkundenverzeichnis zu ordnen.
 
-(3) Nachweise für die Vertretungsberechtigung, die nach § 12 des
-Beurkundungsgesetzes der Niederschrift beigefügt werden sollen, werden
-der Urschrift beigefügt und mit ihr in der Urkundensammlung verwahrt.
+(3) Nachweise für die Vertretungsberechtigung, die nach § 12 Absatz 1
+des Beurkundungsgesetzes der Niederschrift beigefügt werden sollen,
+werden der Urschrift beigefügt und mit ihr in der Urkundensammlung
+verwahrt. Nachweise für die Vertretungsberechtigung, die nach § 16d
+des Beurkundungsgesetzes der elektronischen Niederschrift beigefügt
+werden sollen, werden dem in der Urkundensammlung verwahrten
+beglaubigten Ausdruck der elektronischen Niederschrift in Urschrift
+oder in beglaubigter Abschrift beigefügt und mit ihm in der
+Urkundensammlung verwahrt.
 
 (4) Einem in der Urkundensammlung verwahrten Dokument können andere
 Urschriften oder Unterlagen beigefügt und mit ihm verwahrt werden,
@@ -845,7 +896,13 @@ wenn
 (5) Anstelle der Urschrift ist eine Ausfertigung oder eine beglaubigte
 Abschrift in der Urkundensammlung zu verwahren, wenn nach dem
 Beurkundungsgesetz die Ausfertigung oder die beglaubigte Abschrift an
-die Stelle der Urschrift tritt.
+die Stelle der Urschrift tritt. Anstelle eines beglaubigten Ausdrucks
+der elektronischen Urschrift ist eine Ausfertigung oder eine
+beglaubigte Abschrift in der Urkundensammlung zu verwahren, wenn nach
+dem Beurkundungsgesetz die elektronische Fassung einer Ausfertigung
+oder einer beglaubigten Abschrift an die Stelle der elektronischen
+Urschrift tritt und die Verwahrung eines beglaubigten Ausdrucks der
+elektronischen Urschrift nicht möglich ist.
 
 
 ### § 32 Erbvertragssammlung
@@ -910,18 +967,39 @@ werden als
 
 (3) Dokumente, die in elektronischer Form erstellt wurden, können in
 dieser Form oder als elektronische Fassung des Ausdrucks, der in der
-Urkundensammlung verwahrt wird, verwahrt werden.
+Urkundensammlung verwahrt wird, verwahrt werden. In der Form, in der
+sie erstellt wurden, sind zu verwahren:
 
-(4) Tritt nach dem Beurkundungsgesetz eine Ausfertigung oder eine
+1.  elektronische Niederschriften im Sinne des § 16b des
+    Beurkundungsgesetzes und
+
+
+2.  einfache elektronische Zeugnisse im Sinne des § 39a des
+    Beurkundungsgesetzes, wenn das zu ihrer Errichtung erstellte
+    elektronische Dokument in notarieller Verwahrung verbleibt.
+
+
+
+
+(4) Nachweise für die Vertretungsberechtigung, die nach § 16d des
+Beurkundungsgesetzes der elektronischen Niederschrift beigefügt werden
+sollen, werden zusammen mit der elektronischen Urschrift in der
+elektronischen Urkundensammlung verwahrt.
+
+(5) Tritt nach dem Beurkundungsgesetz eine Ausfertigung oder eine
 beglaubigte Abschrift an die Stelle der Urschrift, so ist die
 elektronische Fassung der Urschrift zu verwahren. Ist eine Verwahrung
 der elektronischen Fassung der Urschrift nicht möglich, so ist eine
 elektronische Fassung der Ausfertigung oder der beglaubigten Abschrift
-zu verwahren, die an die Stelle der Urschrift getreten ist.
+zu verwahren, die an die Stelle der Urschrift getreten ist. Tritt nach
+dem Beurkundungsgesetz die elektronische Fassung einer Ausfertigung
+oder einer beglaubigten Abschrift an die Stelle der elektronischen
+Urschrift, so ist diese anstelle der elektronischen Urschrift zu
+verwahren.
 
-(5) In der elektronischen Urkundensammlung kann neben einer
-Niederschrift auch eine vollständige oder auszugsweise Reinschrift von
-dieser verwahrt werden.
+(6) In der elektronischen Urkundensammlung kann neben einer
+Niederschrift oder einer elektronischen Niederschrift auch eine
+vollständige oder auszugsweise Reinschrift von dieser verwahrt werden.
 
 
 ### § 35 Einstellung von Dokumenten
@@ -932,18 +1010,34 @@ Urkundenverzeichnis in die elektronische Urkundensammlung eingestellt
 werden.
 
 (2) Elektronische Dokumente, die nach dem Beurkundungsgesetz zusammen
-mit der elektronischen Fassung einer Urschrift oder Abschrift in der
-elektronischen Urkundensammlung zu verwahren sind, sollen unverzüglich
-in die elektronische Urkundensammlung eingestellt werden.
+mit der elektronischen Fassung einer Urschrift oder Abschrift oder
+einer elektronischen Urschrift in der elektronischen Urkundensammlung
+zu verwahren sind, sollen unverzüglich in die elektronische
+Urkundensammlung eingestellt werden.
 
 (3) Nachdem ein Dokument in elektronischer Form in die elektronische
 Urkundensammlung eingestellt wurde, dürfen auf der Urschrift oder
 Abschrift, die in der Urkundensammlung verwahrt wird, keine Vermerke
 mehr angebracht werden. Ergibt sich aus einer Rechtsvorschrift die
 Pflicht, auf der Urschrift oder Abschrift, die in der Urkundensammlung
-verwahrt wird, etwas zu vermerken, so ist der Vermerk auf einem
-gesonderten Blatt niederzulegen, das mit der Urschrift oder Abschrift,
-die in der Urkundensammlung verwahrt wird, zu verbinden ist.
+verwahrt wird, etwas zu vermerken, so ist der Vermerk
+
+1.  auf einem gesonderten Blatt niederzulegen, welches mit der in der
+    Urkundensammlung verwahrten Urschrift oder Abschrift zu verbinden ist,
+    wenn die betreffende Urkunde in Papierform errichtet wurde, oder
+
+
+2.  in einem gesonderten elektronischen Dokument niederzulegen, welches
+    zusammen mit der in der elektronischen Urkundensammlung verwahrten
+    Urkunde zu verwahren ist, wenn die betreffende Urkunde in
+    elektronischer Form errichtet wurde.
+
+
+
+Von einem elektronischen Vermerk, der zusammen mit einer
+elektronischen Urkunde in der elektronischen Urkundensammlung verwahrt
+wird, ist ein Ausdruck mit dem in der Urkundensammlung verwahrten
+Ausdruck der elektronischen Urkunde zu verbinden.
 
 (4) Die Einstellung von Dokumenten in die elektronische
 Urkundensammlung hat in einer für die Langzeitarchivierung geeigneten
@@ -1011,12 +1105,6 @@ vorliegende Dokument darf nach der Einstellung in die elektronische
 Urkundensammlung vernichtet werden, es sei denn, dass das Interesse
 der Beteiligten oder Dritter an dessen Erhaltung eine weitere
 Aufbewahrung gebietet.
-
-
-### § 39a Übergangsvorschrift
-
-§ 2 Nummer 1 bis 4 sowie die §§ 31 bis 39 sind erst ab dem 1. Juli
-2022 anzuwenden.
 
 
 ## Abschnitt 6 - Nebenakten

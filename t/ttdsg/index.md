@@ -14,13 +14,10 @@ Ausfertigungsdatum
 :   2021-06-23
 
 Fundstelle
-:   BGBl I: 2021, 1982
+:   BGBl I: 2021, 1982 (2022 I 1045)
 
-Änderung durch
-:   Art. 25 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 12.8.2021 I 3544 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 G v. 12.8.2021 I 3544; 2022 I 1045
 
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des
     Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
@@ -231,12 +228,12 @@ Endnutzers befugt ist, wahrgenommen werden.
 
 #### § 5 Abhörverbot, Geheimhaltungspflicht der Betreiber von Funkanlagen
 
-(1) Mit einer Funkanlage (§ 1 Absatz 1 des Funkanlagengesetzes) dürfen
-nur solche Nachrichten abgehört oder in vergleichbarer Weise zur
-Kenntnis genommen werden, die für den Betreiber der Funkanlage, für
-Funkamateure im Sinne des § 2 Nummer 1 des Amateurfunkgesetzes, für
-die Allgemeinheit oder für einen unbestimmten Personenkreis bestimmt
-sind.
+(1) Mit einer Funkanlage (§ 3 Absatz 1 Nr 1 des Funkanlagengesetzes)
+dürfen nur solche Nachrichten abgehört oder in vergleichbarer Weise
+zur Kenntnis genommen werden, die für den Betreiber der Funkanlage,
+für Funkamateure im Sinne des § 2 Nummer 1 des Amateurfunkgesetzes,
+für die Allgemeinheit oder für einen unbestimmten Personenkreis
+bestimmt sind.
 
 (2) Der Inhalt anderer als in Absatz 1 genannter Nachrichten sowie die
 Tatsache ihres Empfangs dürfen, auch wenn der Empfang unbeabsichtigt
@@ -2044,7 +2041,7 @@ Endeinrichtung gespeichert sind, durch Anbieter von
 Telekommunikationsdiensten oder durch öffentliche Stellen des Bundes,
 ist der oder die Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit zuständige Aufsichtsbehörde für die Einhaltung
-des § 24.
+des § 25.
 
 (3) Im Hinblick auf die Befugnisse des oder der Bundesbeauftragten für
 den Datenschutz und die Informationsfreiheit im Rahmen seiner oder
@@ -2060,7 +2057,7 @@ dies erfordert.
 ### § 30 Zuständigkeit, Aufgaben und Befugnisse der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur ist zuständige Aufsichtsbehörde für die
-Einhaltung der Vorschriften in Teil 2, soweit nicht gemäß § 27 die
+Einhaltung der Vorschriften in Teil 2, soweit nicht gemäß § 29 die
 Zuständigkeit des oder der Bundesbeauftragten für den Datenschutz und
 die Informationsfreiheit gegeben ist.
 

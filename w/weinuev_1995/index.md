@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 14.5.2002 I 1624;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.1.2016 I 2
+:   Art. 2 V v. 21.10.2022 I 1873
 
 
 ## Abschnitt 1 - Überwachung
@@ -759,7 +759,12 @@ Kontrollvorschriften
 
 ### § 22 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
-(1) Wird ein
+(1) Wer ein Erzeugnis des Weinsektors innerhalb der Union in Verkehr
+bringt, hat das amtlich zugelassene Begleitdokument im Sinne des
+Artikels 147 Absatz 1 der Verordnung (EU) Nr. 1308/2013 beim
+Inverkehrbringen beizufügen.
+
+(1a) Wird ein
 
 1.  nicht abgefülltes Erzeugnis, für das ein Begleitpapier nach der
     Verordnung (EG) Nr. 436/2009 ausgestellt ist,
@@ -1389,11 +1394,16 @@ handelt, wer vorsätzlich oder fahrlässig
     vorgeschriebenen Weise anbringt, entgegen § 21 Satz 2 eine Angabe
     nicht, nicht richtig oder nicht vollständig macht oder entgegen § 21
     Satz 3 oder 5 ein Begleitpapier oder eine Kopie nicht oder nicht in
-    der vorgeschriebenen Weise aufbewahrt oder
+    der vorgeschriebenen Weise aufbewahrt,
 
 
-15. entgegen § 22 Abs. 1, 2 oder 4 Satz 1 eine Kopie nicht oder nicht
-    rechtzeitig übersendet oder zuleitet.
+15. entgegen § 22 Absatz 1 ein Begleitdokument nicht, nicht richtig oder
+    nicht rechtzeitig beifügt oder
+
+
+16. entgegen § 22 Absatz 1a, 2 oder 4 Satz 1 eine Kopie nicht, nicht
+    richtig oder nicht rechtzeitig übersendet oder nicht, nicht richtig
+    oder nicht rechtzeitig zuleitet.
 
 
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4728
 
-Geändert durch
-:   Art. 1 V v. 6.1.2022 I 21
+Zuletzt geändert durch
+:   Art. 1 V v. 1.7.2022 I 1039
 
 
 ## Eingangsformel
@@ -36,8 +36,7 @@ Sicherheit in der Informationstechnik:
 Diese Verordnung konkretisiert:
 
 1.  die Pflichten der Unternehmer und der Vermittler nach § 3a Absatz 1
-    Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe a des
-    Personenbeförderungsgesetzes zur Bereitstellung der in der Anlage
+    des Personenbeförderungsgesetzes zur Bereitstellung der in der Anlage
     aufgeführten Daten über den im Auftrag des Bundesministeriums für
     Verkehr und digitale Infrastruktur durch die Bundesanstalt für
     Straßenwesen betriebenen Nationalen Zugangspunkt – auch unter
@@ -49,11 +48,9 @@ Diese Verordnung konkretisiert:
 2.  die Anforderungen an die Registrierung von Erbringern
     bedarfsgesteuerter Mobilitätsdienstleistungen oder multimodaler
     Reiseinformationsdienste für Endnutzer nach Artikel 2 Nummer 12 der
-    Delegierten Verordnung
-    (EU) 2017/1926                    der Kommission vom 31. Mai 2017 zur
-    Ergänzung der Richtlinie
-    2010/40/EU                    des Europäischen Parlaments und des
-    Rates hinsichtlich der Bereitstellung EU-weiter multimodaler
+    Delegierten Verordnung (EU) 2017/1926 der Kommission vom 31. Mai 2017
+    zur Ergänzung der Richtlinie 2010/40/EU des Europäischen Parlaments
+    und des Rates hinsichtlich der Bereitstellung EU-weiter multimodaler
     Reiseinformationsdienste (ABl. L 272 vom 21.10.2017, S. 1; L 125 vom
     14\.5.2019, S. 24) (Dritte) beim Nationalen Zugangspunkt sowie die
     Anforderungen an die Weiterverwendung von Daten insbesondere durch
@@ -79,8 +76,7 @@ Zugangspunkt anzugeben:
 
 
 
-Im Fall der freiwilligen Bereitstellung von in § 3a Absatz 1 Nummer 1
-Buchstabe a und c sowie Nummer 2 Buchstabe a des
+Im Fall der freiwilligen Bereitstellung von in § 3a Absatz 1 des
 Personenbeförderungsgesetzes bezeichneten Daten durch einen
 Einzelunternehmer ist nach § 3a Absatz 3 des
 Personenbeförderungsgesetzes ein Nachweis über die Einwilligung zur
@@ -93,8 +89,7 @@ L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
 23\.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) gegenüber dem Nationalen
 Zugangspunkt zu erbringen.
 
-(2) Wird zur Bereitstellung der Daten nach § 3a Absatz 1 Nummer 1
-Buchstabe a und c sowie Nummer 2 Buchstabe a des
+(2) Wird zur Bereitstellung der Daten nach § 3a Absatz 1 des
 Personenbeförderungsgesetzes ein Erfüllungsgehilfe nach § 3a Absatz 4
 des Personenbeförderungsgesetzes eingesetzt, hat dieser gegenüber dem
 Nationalen Zugangspunkt anzugeben:
@@ -103,23 +98,20 @@ Nationalen Zugangspunkt anzugeben:
     Kontaktperson unter Angabe von deren Telefonnummer und E-Mail-Adresse,
 
 
-2.  die Erklärung, dass die Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a
-    und c sowie Nummer 2 Buchstabe a des Personenbeförderungsgesetzes
-    ausschließlich über den Erfüllungsgehilfen an den Nationalen
-    Zugangspunkt übermittelt werden.
+2.  die Erklärung, dass die Daten nach § 3a Absatz 1 des
+    Personenbeförderungsgesetzes ausschließlich über den
+    Erfüllungsgehilfen an den Nationalen Zugangspunkt übermittelt werden.
 
 
 
 Der Erfüllungsgehilfe hat gegenüber dem Nationalen Zugangspunkt einen
-Nachweis zu erbringen, für wen die Daten nach § 3a Absatz 1 Nummer 1
-Buchstabe a und c sowie Nummer 2 Buchstabe a des
+Nachweis zu erbringen, für wen die Daten nach § 3a Absatz 1 des
 Personenbeförderungsgesetzes bereitgestellt werden und dass der
 Erfüllungsgehilfe ermächtigt ist, alle Rückmeldungen des Nationalen
 Zugangspunktes zur Bereitstellung dieser Daten für den Unternehmer und
 Vermittler entgegenzunehmen. Im Fall der freiwilligen Bereitstellung
-von in § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2
-Buchstabe a des Personenbeförderungsgesetzes bezeichneten Daten durch
-einen Einzelunternehmer nach § 3a Absatz 3 des
+von in § 3a Absatz 1 des Personenbeförderungsgesetzes bezeichneten
+Daten durch einen Einzelunternehmer nach § 3a Absatz 3 des
 Personenbeförderungsgesetzes hat der Erfüllungsgehilfe ferner den
 Nachweis über die in Absatz 1 Satz 2 bezeichnete Einwilligung des
 Unternehmers zu erbringen.
@@ -129,9 +121,8 @@ Erklärungen durch Unternehmer, Vermittler und den Erfüllungsgehilfen
 sind elektronisch zu übermitteln.
 
 (4) Die Absätze 1, 2 und 3 sind entsprechend anzuwenden, soweit Daten
-nach § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe
-a des Personenbeförderungsgesetzes vorrangig über Systeme
-bereitgestellt werden, die in den Ländern, Gemeinden oder
+nach § 3a Absatz 1 des Personenbeförderungsgesetzes vorrangig über
+Systeme bereitgestellt werden, die in den Ländern, Gemeinden oder
 Gemeindeverbänden einzeln oder in einem gemeinsamen Systemverbund
 betrieben werden. Der Nationale Zugangspunkt hat auf seiner Website
 Informationen zu den Betreibern dieser Systeme und zu der
@@ -140,15 +131,45 @@ dieser Systeme dem Nationalen Zugangspunkt die notwendigen
 Informationen zur Verfügung.
 
 
-## § 3 Datenformate
+## § 3 Datenformate; Feststellung der tatsächlichen oder prognostizierten Auslastung im Linienverkehr
 
-Bei der Bereitstellung von Daten nach § 3a Absatz 1 Nummer 1 Buchstabe
-a und c sowie Nummer 2 Buchstabe a des Personenbeförderungsgesetzes
-sind die in der Anlage bezeichneten elektronischen Formate und
-Datenmodelle sowie die bereitzuhaltenden Schnittstellen zu verwenden.
-Reiseinformationen im Sinne der Delegierten Verordnung (EU) 2017/1926
-sind auf der Grundlage der in dieser Verordnung vorgesehenen
-Datenformate bereitzustellen.
+(1) Bei der Bereitstellung von Daten nach § 3a Absatz 1 des
+Personenbeförderungsgesetzes sind die in der Anlage bezeichneten
+elektronischen Formate und Datenmodelle sowie die bereitzuhaltenden
+Schnittstellen zu verwenden. Reiseinformationen im Sinne der
+Delegierten Verordnung (EU) 2017/1926 sind auf der Grundlage der in
+dieser Verordnung vorgesehenen Datenformate bereitzustellen.
+
+(2) Für Kraftfahrzeuge, Obusse und Straßenbahnen im Linienverkehr sind
+die Daten zur prognostizierten oder tatsächlichen Auslastung unter der
+Angabe der gewählten Alternative für jede Linienfahrt bereitzustellen.
+
+(3) Die Auslastung ist auf einer der drei folgenden Auslastungsstufen
+anzugeben:
+
+1.  „geringe Auslastung“: Belegung von weniger als 50 Prozent aller Sitz-
+    und Stehplätze,
+
+
+2.  „moderate Auslastung“: Belegung von zwischen 50 Prozent und 75 Prozent
+    aller Sitz- und Stehplätze,
+
+
+3.  „hohe Auslastung“: Belegung von mehr als 75 Prozent aller Sitz- und
+    Stehplätze.
+
+
+
+
+(4) Zur Ermittlung der Auslastungsstufe für eine Linienfahrt ist der
+Quotient aus den zur Verfügung stehenden Sitz- und Stehplätzen und den
+tatsächlich belegten Sitz- und Stehplätzen oder den prognostizierten
+belegten Sitz- und Stehplätzen im jeweiligen Fahrzeug zugrunde zu
+legen. Abweichend von Satz 1 ist im Linienverkehr mit Fernbussen bei
+der Ermittlung der Auslastungsstufe für eine Linienfahrt der Quotient
+aus den zur Verfügung stehenden Sitzplätzen und den tatsächlich
+belegten Sitzplätzen oder den prognostizierten belegten Sitzplätzen
+zugrunde zu legen.
 
 
 ## § 4 Allgemeine Anforderungen an die Datenbereitstellung zur Gewährleistung eines funktionsfähigen Datenabrufs
@@ -269,8 +290,7 @@ Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik
 zu berücksichtigen.
 
 (2) Erfolgt die elektronische Datenbereitstellung nach § 3a Absatz 1
-Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe a des
-Personenbeförderungsgesetzes über Systeme, die in den Ländern,
+des Personenbeförderungsgesetzes über Systeme, die in den Ländern,
 Gemeinden oder Gemeindeverbänden einzeln oder in einem gemeinsamen
 Systemverbund betrieben werden, bestimmen diese die technische
 Ausgestaltung der elektronischen Datenbereitstellung gegenüber dem
@@ -292,7 +312,7 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage (zu § 1 Nummer 1, §§ 3 und 5 Absatz 1)
 
-(Fundstelle: BGBl. I 2022, 22 - 24)
+(Fundstelle: BGBl. I 2022, 1040 - 1043)
 
 
 *    *   Datenkategorie
@@ -307,17 +327,14 @@ Der Bundesrat hat zugestimmt.
     *   Datenmodell(e)/-standard(s),
         geforderte(s) Datenformat(e)
 
-    *   Alternative(s) Daten
+    *   Alternative(s) Daten-
         modell(e), geforderte(s)
-[^F819931_01_BJNR472800021BJNE001201119]
+[^F822317_01_BJNR472800021BJNE001202123]
         Datenformat(e)
 
 
-*    *   Daten im
-        Zusammenhang
-        mit der Beförderung
-        von Personen
-        **im Linienverkehr**
+*    *   **Daten im Zusammenhang mit der Beförderung von Personen im
+        Linienverkehr**
 
     *   Unternehmer oder Vermittler
 
@@ -326,15 +343,14 @@ Der Bundesrat hat zugestimmt.
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
+    *   NeTEx-EU-Profil/VDV-462 (XML)
 
     *   GTFS (CSV)
 
 
 *    *   Fahrpläne
 
-    *   (Soll-) Fahrpläne mit An- und Abfahrtszeiten an den jeweiligen
+    *   (Soll-)Fahrpläne mit An- und Abfahrtszeiten an den jeweiligen
         Haltestellen unter Verwendung der deutschlandweit einheitlichen
         Haltestellen-ID (VDV 432), Haltezeiten, Anschlüsse, Betriebszeiten und
         Betriebskalender mit einer Zuordnung zwischen Tageskategorien und
@@ -342,8 +358,7 @@ Der Bundesrat hat zugestimmt.
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
+    *   NeTEx-EU-Profil/VDV-462 (XML)
 
     *   GTFS (CSV)
 
@@ -356,20 +371,15 @@ Der Bundesrat hat zugestimmt.
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML) oder
-        Geodaten gemäß
-        INSPIRE-Vorgaben
+    *   NeTEx-EU-Profil/VDV-462 (XML) oder Geodaten gemäß INSPIRE-Vorgaben
 
-    *   GTFS (CSV),
-        Geodaten als
-        (Geo)JSON, GML
+    *   GTFS (CSV), Geodaten als (Geo)JSON, GML
 
 
 *    *   Tarifstruktur/Preise
 
-    *   Gängige Basis-/Normaltarife, Fahrgastkategorien,
-        gängige Tarifprodukte, Sondertarifprodukte, Tarifzonen, grundlegende
+    *   Gängige Basis-/Normaltarife, Fahrgastkategorien, gängige
+        Tarifprodukte, Sondertarifprodukte, Tarifzonen, grundlegende
         Tarifinformationen in Bezug auf
         Rückerstattung/Ersatz/Umtausch/Übertragung einschließlich
         Verkaufsdauer, Gültigkeitsperioden, eingeschränkte
@@ -377,8 +387,7 @@ Der Bundesrat hat zugestimmt.
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
+    *   NeTEx-EU-Profil/VDV-462 (XML)
 
     *   VDV-KA, GTFS (CSV)
 
@@ -405,80 +414,144 @@ Der Bundesrat hat zugestimmt.
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
+    *   NeTEx-EU-Profil/VDV-462 (XML)
 
     *   GTFS (CSV)
 
 
-*    *   Daten im
-        Zusammenhang
-        mit der Beförderung
-        von Personen im
-        **Gelegenheitsverkehr**
+*    *
+    *   Ausfälle, Störungen
+
+    *   Statusänderungen bezogen auf Fahrplan, eingesetztes Fahrzeug oder
+        Routen, Umleitungen unter Verwendung der deutschlandweit einheitlichen
+        Haltestellen-ID
+        (VDV 432), Abweichungen zum standardmäßig eingesetzten Fahrzeug
+
+    *   dynamisch
+
+    *   SIRI PT, ET, SX (XML)
+
+    *   GTFS-RT (Protocol buffers), (Geo)JSON, CSV, VDV 453/454 (XML)
+
+
+*    *
+    *   Verspätungen
+
+    *   Abweichungen vom Soll-Fahrplan unter Verwendung der deutschlandweit
+        einheitlichen Haltestellen-ID (VDV 432)
+
+    *   dynamisch
+
+    *   SIRI PT, ET (XML)
+
+    *   GTFS-RT (Protocol buffers), (Geo)JSON, CSV, VDV 453/454 (XML)
+
+
+*    *
+    *   Voraussichtliche
+        Abfahrts-/Ankunftszeit
+
+    *   Voraussichtliche Ankunftszeit an der Haltestelle oder am Haltepunkt
+        und voraussichtliche Abfahrtszeit von der Haltestelle oder vom
+        Haltepunkt unter Verwendung der deutschlandweit einheitlichen
+        Haltestellen-ID (VDV 432)
+
+    *   dynamisch
+
+    *   SIRI PT, ET, VM (XML)
+
+    *   GTFS-RT (Protocol buffers), VDV
+        453/454 (XML),
+        (Geo)JSON, CSV
+
+
+*    *
+    *   Tatsächliche oder prognostizierte Auslastung
+
+    *   Gemessener oder prognostizierter Auslastungsgrad „hoch“ (75 bis 100
+        %), „moderat“ (50 bis 75 %) oder „gering“ (0 bis 50 %) des
+        eingesetzten Fahrzeugs oder Obusses oder der eingesetzten Straßenbahn,
+        bezogen auf den jeweiligen Fahrtabschnitt, unter Anwendung der
+        Bestimmungen des Regelwerks VDV 7052 zur Erstellung von
+        Auslastungsinformationen in der Fahrgastkommunikation
+
+    *   dynamisch
+
+    *   SIRI VM, ET, SM (XML)
+
+    *   GTFS-RT (Protocol buffers), VDV-454 (XML), CSV
+
+
+*    *   **Daten im Zusammenhang mit der Beförderung von Personen im
+        Gelegenheitsverkehr**
 
     *   Unternehmer oder Vermittler
 
-    *   Name des Anbieters, Kontaktdaten des Anbieters
-        (Telefon, Webseite, E-Mail), Beschreibung der
-        Dienstleistung
+    *   Name des Anbieters, Kontaktdaten des Anbieters (Telefon, Webseite,
+        E-Mail), Beschreibung der Dienstleistung
 
     *   statisch
 
-    *   NeTEx-EU-Profil
-        (XML), JSON
+    *   NeTEx-EU-Profil (XML), JSON
 
     *   XML, CSV
 
 
-*    *   Bediengebiet
-        und -zeiten
+*    *   Bediengebiet und
+        -zeiten
 
-    *   Gebiete, in denen die Beförderungsdienstleistung
-        gemäß behördlicher Genehmigung angeboten wird
-        (Taxi-, Mietwagen- und gebündelter Bedarfsverkehr) inklusive Angaben
-        zum Pflichtfahrgebiet (Taxiverkehr); ggf. Angaben ab wann Dienste im
-        entsprechenden Gebiet angeboten werden (Mietwagen- und gebündelter
-        Bedarfsverkehr)
+    *   Gebiete, in denen die Beförderungsdienstleistung gemäß behördlicher
+        Genehmigung angeboten wird (Taxi-, Mietwagen- und gebündelter
+        Bedarfsverkehr) inklusive Angaben zum Pflichtfahrgebiet (Taxiverkehr);
+        ggf. Angaben ab wann Dienste im entsprechenden Gebiet angeboten werden
+        (Mietwagen- und gebündelter Bedarfsverkehr)
 
     *   statisch
 
-    *   GeoJSON oder
-        Geodaten gemäß
-        INSPIRE-Vorgaben
+    *   GeoJSON oder Geodaten gemäß INSPIRE-Vorgaben
 
     *   XML, CSV, GML
 
 
 *    *   Preise/Beförderungsentgelte
 
-    *   a) Taxenverkehr:
-        Beförderungsentgelt nach § 51 PBefG; Sonderprodukte nach § 51 Abs. 1
-        S. 4 PBefG; Allgemeine Beförderungsbedingungen soweit sie den Preis
-        oder das Beförderungsentgelt betreffen.
+    *
+        a)  Taxenverkehr:
+
+            Beförderungsentgelt nach § 51 PBefG; Sonderprodukte nach § 51 Abs. 1
+            S. 4 PBefG; Allgemeine Beförderungsbedingungen soweit sie den Preis
+            oder das Beförderungsentgelt betreffen.
+
+
+
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
+    *   NeTEx-EU-Profil/VDV-462 (XML)
 
     *   GTFS (CSV), XML, CSV
 
 
 *    *
-    *   b) Mietwagenverkehr und gebündelter Bedarfsverkehr:
-        Gängiger Basis/Normalpreis, Sonderprodukte
-        sowie behördlich nach § 51a Abs. 1 oder 2 PBefG festgelegte Entgelte
-        inkl. Angaben zum zeitlichen oder räumlichen Geltungsbereich.
-        Allgemeine
-        Geschäftsbedingungen soweit sie den Preis oder das Beförderungsentgelt
-        betreffen.
+    *
+    *
+        b)  Mietwagenverkehr und gebündelter Bedarfsverkehr:
+
+            Gängiger Basis-/Normalpreis, Sonderprodukte
+            sowie behördlich nach § 51a Abs. 1 oder 2 PBefG festgelegte Entgelte
+            inkl. Angaben zum zeitlichen oder räumlichen Geltungsbereich.
+            Allgemeine Geschäftsbedingungen soweit sie den Preis oder das
+            Beförderungsentgelt betreffen.
+
+
+
 
     *
     *
     *
 
-*    *   Buchungs- und
+*    *
+    *   Buchungs- und
         Bezahlmöglichkeiten
 
     *   Vertriebskanäle (Webseite, App, Verkaufsstellen), Zahlungsarten und
@@ -491,90 +564,155 @@ Der Bundesrat hat zugestimmt.
     *   XML, CSV
 
 
-*    *   Daten zum Umweltstandard und der
+*    *
+    *   Daten zum Umweltstandard und der
         Barrierefreiheit der eingesetzten Fahrzeuge
 
     *   Fahrzeugart, Eigenschaften (Antriebsart einschließlich der
         Schadstoffklasse sowie Angaben zur Barrierefreiheit nach § 64c PBefG
         inkl. der Anzahl barrierefreier Fahrzeuge im Taxen- und gebündelten
-        Bedarfsverkehr) sowie die Ordnungsnummer der Fahrzeuge.
+        Bedarfsverkehr) sowie die Ordnungsnummer der Fahrzeuge
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML), JSON
+    *   NeTEx-EU-Profil/VDV-462 (XML), JSON
 
     *   XML, CSV
 
 
-*    *   Daten zu
-        Zugangsknoten
-        und deren
-        Infrastruktur im
-        Linien- und
-        **Gelegenheitsverkehr**
+*    *
+    *   Daten zu den tatsächlich abgerechneten Kosten
 
-    *   Zugangsknoten
+    *   entfällt
 
-    *   a) Linienverkehr:
-        Geokoordinaten von Haltestellen, Haltestellenbereichen, Haltepunkten,
-        Bahnhöfen und anderen Zugangsknoten unter Verwendung der
-        deutschlandweit einheitlichen Haltestellen-ID (VDV-432).
+    *   dynamisch
 
-    *   statisch
+    *   JSON, XML
 
-    *   a) Linienverkehr:
-        NeTEx-EU-Profil/
-        VDV 462 (XML) oder
-        Geodaten gemäß
-        INSPIRE-Vorgaben
-
-    *   a) Linienverkehr:
-        GTFS (CSV),
-        Geodaten als
-        (Geo)JSON, GML
+    *   CSV
 
 
 *    *
-    *   b) Gelegenheitsverkehr:
-        Geokoordinaten und Adresse vom Betriebssitz oder anderen behördlich
-        zugelassenen Stellen oder anderen Abstellorten als den Betriebssitz.
+    *   Verfügbarkeit von Fahrzeugen im Verkehr in Echtzeit
+
+    *   Geokoordinaten, Fahrzeugtyp und Barrierefreiheit von für eine Fahrt
+        verfügbaren Fahrzeugen unter Verwendung der Ordnungsnummer in Echtzeit
+
+    *   dynamisch
+
+    *   (Geo)JSON, XML
+
+    *   GML
+
+
+*    *
+    *   Auslastung
+
+    *   Auslastungsgrad (freie Sitzplätze, freie barrierefreie Sitzplätze)
+
+    *   dynamisch
+
+    *   JSON, XML
+
+    *   GML
+
+
+*    *   **Daten zu Zugangsknoten und deren Infrastruktur im Linien- und
+        Gelegenheitsverkehr**
+
+    *   Zugangsknoten
 
     *
-    *   b) Gelegenheitsverkehr:
-        (Geo)JSON oder
-        Geodaten gemäß
-        INSPIRE-Vorgaben
+        a)  Linienverkehr:
 
-    *   b) Gelegenheitsverkehr:
-        XML, CSV, GML
+            Geokoordinaten von Haltestellen, Haltestellenbereichen, Haltepunkten,
+            Bahnhöfen und anderen Zugangsknoten unter Verwendung der
+            deutschlandweit einheitlichen Haltestellen-ID (VDV 432)
 
 
-*    *   Infrastruktur an Zugangsknoten
+        b)  Gelegenheitsverkehr:
 
-    *   Bahnsteige oder Plattformen, Zugänglichkeit wie
-        Treppen, Rolltreppen oder Aufzüge, Fußwege, barrierefreie
-        Zugangsmöglichkeiten, Standorte von Verkaufsstellen und
-        Ticketautomaten (inkl. Angaben zu deren Barrierefreiheit) sowie
-        allgemeine Informationen wie Öffnungszeiten
+            Geokoordinaten und Adresse vom Betriebssitz oder anderen behördlich
+            zugelassenen Stellen oder
+            anderen Abstellorten als den Betriebssitz
+
+
+
 
     *   statisch
 
-    *   NeTEx-EU-Profil/
-        VDV-462 (XML)
-        oder Geodaten
-        gemäß INSPIRE-Vorgaben
+    *
+        a)  Linienverkehr:
 
-    *   GTFS (CSV),
-        Geodaten als
-        (Geo)JSON, GML
+            NeTEx-EU-Profil/VDV
+            462 (XML) oder Geodaten gemäß INSPIRE-Vorgaben
+
+
+        b)  Gelegenheitsverkehr:
+
+            (Geo)JSON oder Geodaten gemäß INSPIRE-Vorgaben
+
+
+
+
+    *
+        a)  Linienverkehr:
+
+            GTFS (CSV),
+            Geodaten als
+            (Geo)JSON, GML
+
+
+        b)  Gelegenheits-verkehr:
+
+            XML, CSV, GML
+
+
+
+
+
+*    *
+    *   Infrastruktur an
+        Zugangsknoten
+
+    *   Bahnsteige oder Plattformen, Zugänglichkeit wie Treppen, Rolltreppen
+        oder Aufzüge, Fußwege, barrierefreie Zugangsmöglichkeiten, Standorte
+        von Verkaufsstellen und Ticketautomaten (inkl. Angaben zu deren
+        Barrierefreiheit) sowie allgemeine Informationen wie Öffnungszeiten
+
+    *   statisch
+
+    *   NeTEx-EU-Profil/VDV-462 XML) oder Geodaten gemäß INSPIRE-Vorgaben
+
+    *   GTFS (CSV), Geodaten als (Geo)JSON, GML
+
+
+*    *
+    *   Aktueller Betriebsstatus der Zugangsknoten und von dort vorhandener
+        Infrastruktur
+
+    *   Statusänderungen an beschreibenden Eigenschaften einer
+        Haltestelle/eines Haltepunktes (Bereiche, Masten, Haltepositionen)
+        einschließlich Angaben zur vorübergehenden oder dauerhaften
+        Stilllegung unter Angabe des Zeitpunkts oder Zeitraums der Stilllegung
+        unter Verwendung der deutschlandweit einheitlichen Haltestellen-ID
+        (VDV 432).
+        Aktueller Zustand der Infrastruktur (wie z. B. geschlossene
+        Zu-/Ausgänge, Bahnsteige, Verkaufsstellen, Treppenhäuser, Rolltreppen,
+        Aufzüge, eingeschränkte barrierefreie Zugangsmöglichkeiten).
+
+    *   dynamisch
+
+    *   SIRI FM, SX (XML) oder Geodaten gemäß
+        INSPIRE-Vorgaben
+
+    *   GTFS-RT (Protocol buffers), (Geo)JSON, CSV, GML
 
 
 
 
 
 **Datenprotokolle und Serviceschnittstellen**
-
 Der Nationale Zugangspunkt unterstützt die im Folgenden genannten
 Protokolle/Schnittstellen für Datengeber und Datennehmer. Die
 Protokolle/Schnittstellen können unabhängig voneinander gewählt
@@ -582,11 +720,11 @@ werden. Details der Verwendung der Protokolle werden vom Nationalen
 Zugangspunkt festgelegt und in dessen technischer Dokumentation
 beschrieben.
 
-–   HTTPS: Komplette Datensätze (sowohl zeichenbasiert, als auch binär-
+–   HTTPS: Komplette Datensätze (sowohl zeichenbasiert als auch binär-
     kodiert) können per HTTPS-Protokoll ausgetauscht werden.
 
 
-–   SOAP: Komplette, XML-kodierte Datensätze können per SOAP-Protokoll
+–   SOAP: Komplette XML-kodierte Datensätze können per SOAP-Protokoll
     (basierend auf HTTPS) ausgetauscht werden. Entsprechende
     Schnittstellenspezifikationen in der Spezifikationssprache WSDL werden
     zur Erzeugung der Schnittstellenimplementierung zur Verfügung
@@ -597,9 +735,14 @@ beschrieben.
     datengeber- als auch datennehmerseitig ansprechbar.
 
 
+–   REST: Komplette, JSON-kodierte Datensätze können per REST (basierend
+    auf HTTPS) ausgetauscht werden.
+
+
+
 
 Werden Daten über Webservices mit anderen WSDL-Spezifikationen oder
-über andere Serviceschnittstellen (z. B. OGC-konforme WMS/WFS)
+über andere Serviceschnittstellen (zum Beispiel OGC-konforme WMS/WFS)
 bereitgestellt, insbesondere um Dritten eine nach Aufrufparametern
 gestaltete, datennehmerspezifische Antwort zu übermitteln, kann der
 Nationale Zugangspunkt für die Speicherung der Metadaten der
@@ -609,4 +752,4 @@ findet jedoch direkt zwischen Datennehmer- und Datengebersystem statt.
 
     Können ergänzend bereitgestellt werden oder alternativ zum geforderten
     Datenformat, bis dieses produktiv eingesetzt wird.
-[^F819931_01_BJNR472800021BJNE001201119]: 
+[^F822317_01_BJNR472800021BJNE001202123]: 

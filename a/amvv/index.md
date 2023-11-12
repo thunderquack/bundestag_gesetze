@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3632
 
 Zuletzt geändert durch
-:   Art. 8 G v. 3.6.2021 I 1309
-
-Änderung durch
-:   Art. 1 V v. 24.2.2022 BAnz AT 28.02.2022 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 19.10.2022 I 1810
 
 
 ## § 1
@@ -35,11 +32,7 @@ Arzneimittel,
 
 
 3.  denen die unter Nummer 1 oder 2 genannten Stoffe und Zubereitungen aus
-    Stoffen zugesetzt sind oder
-
-
-4.  die in den Anwendungsbereich des § 48 Abs. 1 Satz 1 Nr. 2 des
-    Arzneimittelgesetzes fallen,
+    Stoffen zugesetzt sind
 
 
 
@@ -59,7 +52,8 @@ Vorschriften nichts anderes bestimmt ist.
     Telefonnummer zur Kontaktaufnahme,
 
 
-2.  Datum der Ausfertigung,
+2.  Datum der Ausfertigung oder, bei Verschreibungen in elektronischer
+    Form, das Datum der qualifizierten elektronischen Signatur,
 
 
 3.  Name und Geburtsdatum der Person, für die das Arzneimittel bestimmt
@@ -306,8 +300,11 @@ verordneten Arzneimittel darf je Verschreibung für Frauen im
 gebärfähigen Alter den Bedarf für vier Wochen, ansonsten den für zwölf
 Wochen nicht übersteigen.
 
-(4) Eine Verschreibung nach Absatz 1 Satz 1 ist bis zu sechs Tagen
-nach dem Tag ihrer Ausstellung gültig.
+(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln
+sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung gültig.
+Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln in
+elektronischer Form sind bis zu sechs Tage nach dem Datum ihrer
+qualifizierten elektronischen Signatur gültig.
 
 (5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für
 Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen
@@ -354,9 +351,12 @@ Arzneimitteln, die die Wirkstoffe Acitretin, Alitretinoin oder
 Isotretinoin enthalten, darf für Frauen im gebärfähigen Alter je
 Verschreibung den Bedarf für 30 Tage nicht übersteigen.
 
-(2) Verschreibungen von Arzneimitteln nach Absatz 1 sind für Frauen im
-gebärfähigen Alter bis zu sechs Tagen nach dem Tag ihrer Ausstellung
-gültig.
+(2) Verschreibungen von in Absatz 1 genannten Arzneimitteln sind für
+Frauen im gebärfähigen Alter bis zu sechs Tage nach dem Datum ihrer
+Ausfertigung gültig. Verschreibungen von in Absatz 1 genannten
+Arzneimitteln in elektronischer Form sind für Frauen im gebärfähigen
+Alter bis zu sechs Tage nach dem Datum ihrer qualifizierten
+elektronischen Signatur gültig.
 
 
 ## § 4
@@ -403,13 +403,8 @@ verschreibungspflichtigen Stoffen und Zubereitungen aus Stoffen
 gemischt werden.
 
 
-## § 6
+## § 6 (weggefallen)
 
-Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des
-Arzneimittelgesetzes sind Arzneimittel ausgenommen, die weder ein in
-Anlage 2 aufgeführter Stoff, dessen Zubereitung oder Salz sind, noch
-einen solchen Stoff, eine solche Zubereitung oder ein solches Salz
-enthalten.
 
 
 ## § 7 (weggefallen)
@@ -1302,8 +1297,8 @@ eine maximale Anwendungsdauer von drei (Antipyrese) oder vier
 **Dienestrol**
 **Dienogest**
 **Diethylcarbamazin**
-**1-(2-(2-(Diethylmethylazaniumyl)ethoxy)ethyl)-1-methylpyrrolidiniumd
-iiodid**
+**1-(2-(2-(Diethylmethylazaniumyl)ethoxy)ethyl)-1-
+methylpyrrolidiniumdiiodid**
 **Diethyl(4-nitrophenyl)phosphat**
 **Diethylstilbestrol**
 **Diflorason-17,21-diacetat**
@@ -2880,8 +2875,8 @@ und ihre Derivate
 Poly-
 O               -{3-[(2-aminoethyl)sulfanyl]propyl}
 x               -poly-
-O               -[3-({2-[2-(D-mannopyranosylsulfanyl)ethanimidamido]et
-hyl}sulfanyl)propyl]
+O               -[3-({2-[2-(D-
+mannopyranosylsulfanyl)ethanimidamido]ethyl}sulfanyl)propyl]
 y               -poly-
 O               -{3-[(2-pentetamidoethyl)sulfanyl]propyl}
 z **-dextran 10 („Tilmanocept“)**
@@ -3384,8 +3379,8 @@ von 100 mg je Packung –
 **Tetracyclin**              und seine Verbindungen
 **4-epi-Tetracyclin**
 **Tetraisopropylpyrophosphat**
-**Tetrakis(2-methoxy-2-methylpropylisocyanid)kupfer(1+)-tetrafluorobor
-at**
+**Tetrakis(2-methoxy-2-methylpropylisocyanid)kupfer(1+)-
+tetrafluoroborat**
 - als Trägersubstanz für (
 99m              Tc) Technetium -
 **Tetramisol**
@@ -3791,115 +3786,4 @@ und
 in die Gebärmutter und im Rahmen der Veterinärmedizin zusätzlich in
 Scheide und Euter der Tiere**
 **Zuclopenthixol**              und seine Ester
-
-(zu § 6)
-
-## Anlage 2 Stoffe nach § 6
-
-Die Anlage enthält unter grundsätzlicher Verwendung der INN-
-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe.
-
-1.  **Enilconazol**
-
-    **Flunixin**
-
-    **Meclofenaminsäure**
-
-
-2.  Folgende Stoffe, soweit sie in Arzneimitteln enthalten sind, die auch
-    oder ausschließlich zur Infusion oder Injektion, ausgenommen zur
-    subcutanen Injektion, bestimmt sind
-
-    **(2-Aminoethyl)dihydrogenphosphat**
-
-    **Arginin**
-
-    **Betacaroten**
-
-    **Borsäure**
-
-    **Bromhexin**
-
-    **Butafosfan**
-
-    **Calcium**
-
-    **Casein-Hydrolysat**
-
-    **Cocarboxylase**
-
-    **Colecalciferol**
-
-    **Cyanocobalamin**
-
-    **Dexpanthenol**
-
-    **Dimethicon**
-
-    **Ethanol**
-
-    **Fructose**
-
-    **Glucose**
-
-    **Histidin**
-
-    **4,5-O-Hydroxyborandiyl-D-gluconsäure**
-
-    **Isoleucin**
-
-    **Kalium**
-
-    **Leucin**
-
-    **Lysinhydrochlorid**
-
-    **Magnesium**
-
-    **Menadion**
-
-    **Methionin**
-
-    **Natrium**
-
-    **Natriumriboflavin-5'-hydrogenphosphat**
-
-    **Nicotinamid**
-
-    **Phenylalanin**
-
-    **Procain**
-
-    **Pyridoxin**
-
-    **Retinolpalmitat**
-
-    **Sorbitol**
-
-    **Stoffe, die in der Tabelle 1 des Anhangs der Verordnung (EU) Nr.
-    37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch
-    wirksame Stoffe und ihre Einstufung hinsichtlich der
-    Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L
-    15 vom 20.1.2010, S. 1) in der jeweils geltenden Fassung gelistet sind
-    und für die in dieser Verordnung ausschließlich eine Verwendung in
-    homöopathischen Tierarzneimitteln vorgesehen ist, die im Einklang mit
-    homöopathischen Arzneibüchern zubereitet wurden, wobei auch die
-    jeweils angegebene Höchstkonzentration eingehalten wird.**
-
-    **Thiaminchloridhydrochlorid**
-
-    **Threonin**
-
-    **Tocopherolacetat**
-
-    **Toldimfos-Natrium**
-
-    **Tryptophan**
-
-    **Valin**
-
-    **Vetrabutin.**
-
-
-
 

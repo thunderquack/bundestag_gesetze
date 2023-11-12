@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 1150
 
 Zuletzt geändert durch
-:   Art. 3 V v. 2.6.2021 I 1362
+:   Art. 4 V v. 26.4.2023 I Nr. 115
 
 
 ## Eingangsformel
@@ -57,10 +57,6 @@ wenn Milcherzeugnisse für Mitglieder von Genossenschaften oder
 ähnlichen Einrichtungen oder in Einrichtungen zur
 Gemeinschaftsverpflegung hergestellt oder in den Verkehr gebracht
 werden.
-
-(3) Die Vorschriften der Verordnung über diätetische Lebensmittel vom
-20\. Juni 1963 (Bundesgesetzbl. I S. 415) in der jeweiligen Fassung
-bleiben unberührt.
 
 
 ## § 1a Begriffsbestimmungen

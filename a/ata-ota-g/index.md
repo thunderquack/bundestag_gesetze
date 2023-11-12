@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2768
 
-Geändert durch
-:   Art. 11 G v. 24.2.2021 I 274
+Zuletzt geändert durch
+:   Art. 8 G v. 20.7.2022 I 1174
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
@@ -960,6 +960,11 @@ zustimmt. Ist ein Dritter Ausbildungsträger, wird der
 Ausbildungsvertrag nur wirksam, wenn die Schule und die
 verantwortliche Einrichtung der praktischen Ausbildung dem
 Ausbildungsvertrag zustimmen.
+
+(7) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und
+Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für den
+Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze
+anzuwenden.
 
 
 #### § 27 Pflichten des Ausbildungsträgers

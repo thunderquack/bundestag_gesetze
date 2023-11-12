@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 88 G v. 20.8.2021 I 3932
+:   Art. 12 Abs. 14 G v. 16.12.2022 I 2328
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
@@ -242,21 +242,20 @@ Todesfall
 
 (1) Vom Wohngeld ausgeschlossen sind Empfänger und Empfängerinnen von
 
-1.  Arbeitslosengeld II und Sozialgeld nach dem Zweiten Buch
-    Sozialgesetzbuch, auch in den Fällen des § 25 des Zweiten Buches
-    Sozialgesetzbuch,
+1.  Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch, auch in den Fällen
+    des § 25 des Zweiten Buches Sozialgesetzbuch,
 
 
 2.  Leistungen für Auszubildende nach § 27 Absatz 3 des Zweiten Buches
     Sozialgesetzbuch, die als Zuschuss erbracht werden,
 
 
-3.  Übergangsgeld in Höhe des Betrages des Arbeitslosengeldes II nach § 21
-    Abs. 4 Satz 1 des Sechsten Buches Sozialgesetzbuch,
+3.  (weggefallen)
 
 
-4.  Verletztengeld in Höhe des Betrages des Arbeitslosengeldes II nach §
-    47 Abs. 2 des Siebten Buches Sozialgesetzbuch,
+4.  Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz
+    1 Satz 1 des Zweiten Buches Sozialgesetzbuch nach § 47 Abs. 2 des
+    Siebten Buches Sozialgesetzbuch,
 
 
 5.  Grundsicherung im Alter und bei Erwerbsminderung nach dem Zwölften
@@ -289,10 +288,10 @@ Todesfall
 
 
 wenn bei deren Berechnung Kosten der Unterkunft berücksichtigt worden
-sind (Leistungen). Der Ausschluss besteht in den Fällen des Satzes 1
-Nr. 3 und 4, wenn bei der Berechnung des Arbeitslosengeldes II Kosten
-der Unterkunft berücksichtigt worden sind. Der Ausschluss besteht
-nicht, wenn
+sind (Leistungen). Der Ausschluss besteht im Fall des Satzes 1 Nummer
+4, wenn bei der Berechnung des Bürgergeldes nach § 19 Absatz 1 Satz 1
+des Zweiten Buches Sozialgesetzbuch Kosten der Unterkunft
+berücksichtigt worden sind. Der Ausschluss besteht nicht, wenn
 
 1.  die Leistungen nach den Sätzen 1 und 2 ausschließlich als Darlehen
     gewährt werden oder
@@ -365,8 +364,7 @@ Der Ausschluss besteht nicht, wenn
 
 
 
-(3) Ausgeschlossen sind auch Haushaltsmitglieder, deren Leistungen
-nach Absatz 1 auf Grund einer Sanktion vollständig weggefallen sind.
+(3) (weggefallen)
 
 
 #### § 8 Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen
@@ -490,7 +488,8 @@ entsprechenden Unterlagen, sind Pauschbeträge abzusetzen.
 
 (3) Im Fall des § 3 Abs. 1 Satz 2 Nr. 2 ist als Miete der Mietwert des
 Wohnraums zu Grunde zu legen. Im Fall des § 3 Abs. 1 Satz 2 Nr. 3 ist
-als Miete der Höchstbetrag nach § 12 Abs. 1 zu Grunde zu legen.
+als Miete die Summe aus dem Höchstbetrag nach § 12 Absatz 1 und der
+Klimakomponente nach § 12 Absatz 7 zu Grunde zu legen.
 
 
 #### § 10 Belastung
@@ -501,8 +500,9 @@ Bewirtschaftung von Wohnraum in vereinbarter oder festgesetzter Höhe.
 (2) Die Belastung ist von der Wohngeldbehörde (§ 24 Abs. 1 Satz 1) in
 einer Wohngeld-Lastenberechnung zu ermitteln. Von einer vollständigen
 Wohngeld-Lastenberechnung kann abgesehen werden, wenn die auf den
-Wohnraum entfallende Belastung aus Zinsen und Tilgungen den nach § 12
-Abs. 1 maßgebenden Höchstbetrag erreicht oder übersteigt.
+Wohnraum entfallende Belastung aus Zinsen und Tilgungen die Summe aus
+dem Höchstbetrag nach § 12 Absatz 1 und der Klimakomponente nach § 12
+Absatz 7 erreicht oder übersteigt.
 
 
 #### § 11 Zu berücksichtigende Miete und Belastung
@@ -511,18 +511,20 @@ Abs. 1 maßgebenden Höchstbetrag erreicht oder übersteigt.
 oder Belastung ist die Summe aus
 
 1.  der Miete oder Belastung, die sich nach § 9 oder § 10 ergibt, soweit
-    sie nicht nach den Absätzen 2 und 3 in dieser Berechnungsreihenfolge
-    außer Betracht bleibt, jedoch nur bis zum Höchstbetrag nach § 12
-    Absatz 1, und
+    sie nicht nach Absatz 2 oder Absatz 3 in dieser Berechnungsreihenfolge
+    außer Betracht bleibt, jedoch nur bis zur Höhe der Summe, die sich aus
+    dem Höchstbetrag nach § 12 Absatz 1 und der Klimakomponente nach § 12
+    Absatz 7 ergibt, und
 
 
-2.  dem Betrag zur Entlastung bei den Heizkosten nach § 12 Absatz 6.
+2.  dem Gesamtbetrag zur Entlastung bei den Heizkosten nach § 12 Absatz 6.
 
 
 
 Im Fall des § 3 Absatz 1 Satz 2 Nummer 3 ist die Summe aus dem
-Höchstbetrag nach § 12 Absatz 1 und dem Betrag zur Entlastung bei den
-Heizkosten nach § 12 Absatz 6 zu berücksichtigen.
+Höchstbetrag nach § 12 Absatz 1, dem Gesamtbetrag zur Entlastung bei
+den Heizkosten nach § 12 Absatz 6 und der Klimakomponente nach § 12
+Absatz 7 zu berücksichtigen.
 
 (2) Die Miete oder Belastung, die sich nach § 9 oder § 10 ergibt,
 bleibt in folgender Berechnungsreihenfolge und zu dem Anteil außer
@@ -568,16 +570,18 @@ Betracht,
 ist nur der Anteil der Miete oder Belastung zu berücksichtigen, der
 dem Anteil der zu berücksichtigenden Haushaltsmitglieder an der
 Gesamtzahl der Haushaltsmitglieder entspricht. In diesem Fall sind nur
-der Anteil des Höchstbetrages nach § 12 Absatz 1 und der Anteil des
-Betrages zur Entlastung bei den Heizkosten nach § 12 Absatz 6 zu
-berücksichtigen, der dem Anteil der zu berücksichtigenden
+der Anteil des Höchstbetrages nach § 12 Absatz 1, der Anteil des
+Gesamtbetrages zur Entlastung bei den Heizkosten nach § 12 Absatz 6
+und der Anteil des Betrages der Klimakomponente nach § 12 Absatz 7 zu
+berücksichtigen, der jeweils dem Anteil der zu berücksichtigenden
 Haushaltsmitglieder an der Gesamtzahl der Haushaltsmitglieder
-entspricht. Für die Ermittlung des Höchstbetrages und des Betrages zur
-Entlastung bei den Heizkosten ist die Gesamtzahl der
-Haushaltsmitglieder maßgebend.
+entspricht. Für die Ermittlung des Höchstbetrages nach § 12 Absatz 1,
+des Gesamtbetrages zur Entlastung bei den Heizkosten nach § 12 Absatz
+6 und des Betrages der Klimakomponente nach § 12 Absatz 7 ist jeweils
+die Gesamtzahl der Haushaltsmitglieder maßgebend.
 
 
-#### § 12 Höchstbeträge für Miete und Belastung, Beträge zur Entlastung bei den Heizkosten
+#### § 12 Höchstbeträge für Miete und Belastung sowie Entlastung bei den Heizkosten und die Klimakomponente
 
 (1) Die monatlichen Höchstbeträge für Miete und Belastung sind
 vorbehaltlich des § 11 Absatz 3 nach der Anzahl der zu
@@ -609,11 +613,12 @@ der Grundlage von § 5 des Bevölkerungsstatistikgesetzes
 fortgeschrieben wurde.
 
 (4) Das Mietenniveau wird vom Statistischen Bundesamt bei einer
-Anpassung der Höchstbeträge nach Absatz 1 auf der Grundlage von zwei
-aufeinanderfolgenden Ergebnissen der jährlichen Wohngeldstatistik für
-Dezember (§ 36 Absatz 1 Satz 2 Nummer 2) festgestellt. Es ist ein
-bundesweit einheitlicher Stichtag für die Ergebnisse der
-Bevölkerungsstatistik zu Grunde zu legen.
+Anpassung der Höchstbeträge nach Absatz 1 oder einer entsprechenden
+strukturellen Änderung der höchstens zu berücksichtigenden Miete oder
+Belastung auf der Grundlage von zwei aufeinanderfolgenden Ergebnissen
+der jährlichen Wohngeldstatistik für Dezember (§ 36 Absatz 1 Satz 2
+Nummer 2) festgestellt. Es ist ein bundesweit einheitlicher Stichtag
+für die Ergebnisse der Bevölkerungsstatistik zu Grunde zu legen.
 
 (4a) Für die Gemeinden Baltrum, Borkum (Stadt), Juist, Langeoog,
 Norderney (Stadt), Spiekeroog, Wangerooge (Nordseebad), Nebel,
@@ -685,51 +690,128 @@ zugeordnet:
 
 
 
-(6) Die folgenden monatlichen Beträge zur Entlastung bei den
-Heizkosten sind vorbehaltlich des § 11 Absatz 3 nach der Anzahl der zu
-berücksichtigenden Haushaltsmitglieder zu berücksichtigen:
+(6) Der folgende monatliche Gesamtbetrag zur Entlastung bei den
+Heizkosten als Summe aus dem Betrag zur Entlastung bei den Heizkosten
+auf Grund der CO
+2             -Bepreisung und dem Betrag der dauerhaften
+Heizkostenkomponente ist vorbehaltlich des § 11 Absatz 3 nach der
+Anzahl der zu berücksichtigenden Haushaltsmitglieder zu
+berücksichtigen:
 
-*    *   Anzahl der zu
-        berücksichtigenden
-        Haushaltsmitglieder
+*    *   Anzahl
+        der zu
+        berücksichtigenden Haushaltsmit-
+        glieder
+
+    *   Betrag zur Entlastung bei den Heizkosten auf Grund der CO
+        2                       -Bepreisung in Euro
 
     *   Betrag
-        zur Entlastung bei
-        den Heizkosten in Euro
+        der dauerhaften Heiz-kostenkomponente in Euro
+
+    *   Gesamtbetrag zur Entlastung bei den Heizkosten in Euro
 
 
 *    *   1
 
     *   14,40
 
+    *   96
+
+    *   110,40
+
 
 *    *   2
 
     *   18,60
+
+    *   124
+
+    *   142,60
 
 
 *    *   3
 
     *   22,20
 
+    *   148
+
+    *   170,20
+
 
 *    *   4
 
     *   25,80
+
+    *   172
+
+    *   197,80
 
 
 *    *   5
 
     *   29,40
 
+    *   196
+
+    *   225,40
+
 
 *    *   Mehrbetrag
-        für jedes
-        weitere zu
-        berücksichtigende
-        Haushaltsmitglied
+        für jedes weitere
+        zu berücksichtigende Haushaltsmitglied
 
     *   3,60
+
+    *   24
+
+    *   27,60
+
+
+
+
+(7) Der folgende monatliche Betrag ist vorbehaltlich des § 11 Absatz 3
+nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder als
+Klimakomponente zu berücksichtigen:
+
+*    *   Anzahl der zu
+        berücksichtigenden
+        Haushaltsmitglieder
+
+    *   Als Klimakomponente
+        zu berücksichtigender Zuschlag zu den
+        Höchstbeträgen nach
+        § 12 Absatz 1 in Euro
+
+
+*    *   1
+
+    *   19,20
+
+
+*    *   2
+
+    *   24,80
+
+
+*    *   3
+
+    *   29,60
+
+
+*    *   4
+
+    *   34,40
+
+
+*    *   5
+
+    *   39,20
+
+
+*    *   Mehrbetrag für jedes weitere zu berücksichtigende Haushaltsmitglied
+
+    *   4,80
 
 
 
@@ -795,7 +877,11 @@ zulässig.
 
 3.  die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil
     nach § 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes
-    übersteigenden Teile von Leibrenten;
+    übersteigenden Teile von Leibrenten sowie der nach § 3 Nummer 14a des
+    Einkommensteuergesetzes steuerfreie Anteil der Rente aus der
+    gesetzlichen Rentenversicherung, der auf Grund des Zuschlags an
+    Entgeltpunkten für langjährige Versicherung nach dem Sechsten Buch
+    Sozialgesetzbuch geleistet wird;
 
 
 4.  die nach § 3 Nr. 3 des Einkommensteuergesetzes steuerfreien
@@ -1047,7 +1133,8 @@ zulässig.
     b)  der von Nummer 24 oder Nummer 25 erfassten Leistungen,
 
 
-    c)  des Sozialgeldes, das ein zu berücksichtigendes Kind als Mitglied der
+    c)  des Bürgergeldes nach § 19 Absatz 1 Satz 2 des Zweiten Buches
+        Sozialgesetzbuch, das ein zu berücksichtigendes Kind als Mitglied der
         Bedarfsgemeinschaft im Haushalt des getrennt lebenden anderen
         Elternteils anteilig erhält,
 
@@ -1098,11 +1185,11 @@ bleibt unberührt.
 
 (2) Einmaliges Einkommen, das für einen bestimmten Zeitraum bezogen
 wird, ist diesem Zeitraum zuzurechnen. Ist kein Zurechnungszeitraum
-festgelegt oder vereinbart, so ist das einmalige Einkommen jeweils zu
-einem Drittel in den drei Jahren nach dem Zuflussmonat zuzurechnen.
-Ist das einmalige Einkommen vor der Antragstellung zugeflossen, ist es
-nur dann nach Satz 1 oder Satz 2 zuzurechnen, wenn es innerhalb von
-drei Jahren vor der Antragstellung zugeflossen ist.
+festgelegt oder vereinbart, so ist das einmalige Einkommen zu einem
+Zwölftel in den zwölf Monaten nach dem Zuflussmonat zuzurechnen. Ist
+das einmalige Einkommen vor der Antragstellung zugeflossen, ist es nur
+dann nach Satz 1 oder Satz 2 zuzurechnen, wenn es innerhalb von einem
+Jahr vor der Antragstellung zugeflossen ist.
 
 (3) Sonderzuwendungen, Gratifikationen und gleichartige Bezüge und
 Vorteile, die in größeren als monatlichen Abständen gewährt werden,
@@ -1316,7 +1403,7 @@ Anlage 3 ergibt.
 (3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht
 sich für das 13. und jedes weitere zu berücksichtigende
 Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche
-Wohngeld um jeweils 51 Euro, höchstens jedoch bis zur Höhe der zu
+Wohngeld um jeweils 57 Euro, höchstens jedoch bis zur Höhe der zu
 berücksichtigenden Miete oder Belastung.
 
 
@@ -1475,23 +1562,24 @@ anzuwenden.
 
 ### § 24 Wohngeldbehörde und Entscheidung
 
-(1) Über den Wohngeldantrag muss die nach Landesrecht zuständige oder
-von der Landesregierung durch Rechtsverordnung oder auf sonstige Weise
-bestimmte Behörde (Wohngeldbehörde) schriftlich entscheiden. Die
-Landesregierung kann ihre Befugnis nach Satz 1, die Zuständigkeit der
-Wohngeldbehörden zu bestimmen, auf die für die Ausführung des
-Wohngeldgesetzes zuständige oberste Landesbehörde übertragen. § 69 des
+(1) Zuständig für die Durchführung dieses Gesetzes sind die nach
+Landesrecht zuständigen Stellen. Die Landesregierung kann diese
+Befugnis nach Satz 1 auf die für die Ausführung des Wohngeldgesetzes
+zuständige oberste Landesbehörde übertragen. Die nach Satz 1 bestimmte
+Stelle ist eine Wohngeldbehörde im Sinne dieses Gesetzes. § 69 des
 Ersten Buches Sozialgesetzbuch bleibt unberührt.
 
-(2) Der Entscheidung sind die Verhältnisse im Bewilligungszeitraum,
-die im Zeitpunkt der Antragstellung zu erwarten sind, zu Grunde zu
-legen. Treten nach dem Zeitpunkt der Antragstellung bis zur
-Bekanntgabe des Wohngeldbescheides Änderungen der Verhältnisse im
-Bewilligungszeitraum ein, sind sie grundsätzlich nicht zu
-berücksichtigen; Änderungen im Sinne des § 27 Absatz 1 und 2 oder § 28
-Absatz 1 bis 3 sollen berücksichtigt werden. Satz 2 gilt für nach dem
+(2) Die Entscheidung über den Wohngeldantrag ist durch die
+Wohngeldbehörde schriftlich zu erlassen. Der Entscheidung sind die
+Verhältnisse im Bewilligungszeitraum, die im Zeitpunkt der
+Antragstellung zu erwarten sind, zu Grunde zu legen. Treten nach dem
 Zeitpunkt der Antragstellung bis zur Bekanntgabe des
-Wohngeldbescheides zu erwartende Änderungen entsprechend.
+Wohngeldbescheides Änderungen der Verhältnisse im Bewilligungszeitraum
+ein, sind sie grundsätzlich nicht zu berücksichtigen; Änderungen im
+Sinne des § 27 Absatz 1 und 2 oder § 28 Absatz 1 bis 3 sollen
+berücksichtigt werden. Satz 3 gilt für nach dem Zeitpunkt der
+Antragstellung bis zur Bekanntgabe des Wohngeldbescheides zu
+erwartende Änderungen entsprechend.
 
 (3) Der Bewilligungsbescheid muss die in § 27 Abs. 3 Satz 1 Nr. 2 und
 3 genannten Beträge ausweisen und einen Hinweis über die
@@ -1529,11 +1617,10 @@ den Wohngeldbescheid erlassen hat, zuständig für
 
 ### § 25 Bewilligungszeitraum
 
-(1) Das Wohngeld soll für zwölf Monate bewilligt werden. Ist zu
-erwarten, dass sich die maßgeblichen Verhältnisse vor Ablauf von zwölf
-Monaten erheblich ändern, soll der Bewilligungszeitraum entsprechend
-verkürzt werden; im Einzelfall kann der Bewilligungszeitraum geteilt
-werden.
+(1) Das Wohngeld soll für zwölf Monate bewilligt werden. Der
+Bewilligungszeitraum kann unter Berücksichtigung der zu erwartenden
+maßgeblichen Verhältnisse verkürzt, geteilt oder bei voraussichtlich
+gleichbleibenden Verhältnissen auf bis zu 24 Monate verlängert werden.
 
 (2) Der Bewilligungszeitraum beginnt am Ersten des Monats, in dem der
 Wohngeldantrag gestellt worden ist. Treten die Voraussetzungen für die
@@ -1605,6 +1692,45 @@ wohngeldberechtigten Person übermittelt werden; die dadurch
 veranlassten Kosten sollen vom Wohngeld abgezogen werden.
 
 
+### § 26a Vorläufige Zahlung des Wohngeldes
+
+(1) Eine vorläufige Zahlung des Wohngeldes kann erfolgen, wenn zur
+Feststellung des Wohngeldanspruchs voraussichtlich längere Zeit
+erforderlich ist und mit hinreichender Wahrscheinlichkeit ein Anspruch
+auf Wohngeld besteht. Grundlage der vorläufigen Zahlung sind
+ausschließlich die für das Wohngeld maßgeblichen Berechnungsgrößen
+nach § 4.
+
+(2) Die Entscheidung über die vorläufige Zahlung des Wohngeldes steht
+unter dem Vorbehalt der endgültigen Entscheidung über Wohngeld. Der
+Bewilligungsbescheid muss den Hinweis enthalten, dass die Zahlung
+unter Vorbehalt der endgültigen Entscheidung über Wohngeld und der
+möglichen Rückforderung von zu viel gezahltem Wohngeld erfolgt.
+
+(3) Die endgültige Entscheidung über Wohngeld kann auch im
+Zusammenhang mit der Entscheidung über einen Weiterleistungsantrag
+erfolgen. Der Zeitpunkt der Antragstellung für die vorläufige Zahlung
+gilt auch als Zeitpunkt der Antragstellung für die endgültige
+Entscheidung über Wohngeld. Über den Wohngeldanspruch ist endgültig zu
+entscheiden, sofern die vorläufige Entscheidung nicht der endgültigen
+Entscheidung entspricht. Ergeht innerhalb eines Jahres nach Ablauf des
+Bewilligungszeitraums keine endgültige Entscheidung, gilt eine
+vorläufig bewilligte Zahlung als endgültig festgesetzt. Dies gilt
+nicht, wenn die wohngeldberechtigte Person innerhalb der Frist nach
+Satz 4 eine endgültige Entscheidung beantragt oder wenn die
+Wohngeldbehörde Kenntnis von Tatsachen erlangt, dass der
+Wohngeldanspruch nicht oder nur in geringerer Höhe als die vorläufige
+Zahlung besteht und sie über den Wohngeldanspruch innerhalb eines
+Jahres seit Kenntniserlangung von diesen Tatsachen, spätestens aber
+nach Ablauf von zehn Jahren nach der Bekanntgabe der vorläufigen
+Zahlung, endgültig entscheidet.
+
+(4) Das vorläufig gezahlte Wohngeld ist auf das endgültig zu leistende
+Wohngeld anzurechnen. Übersteigt das vorläufig gezahlte das endgültig
+zu leistende Wohngeld, so ist der übersteigende Betrag zu erstatten. §
+30a gilt entsprechend.
+
+
 ### § 27 Änderung des Wohngeldes
 
 (1) Das Wohngeld ist auf Antrag neu zu bewilligen, wenn sich im
@@ -1613,21 +1739,22 @@ laufenden Bewilligungszeitraum
 1.  die Anzahl der zu berücksichtigenden Haushaltsmitglieder erhöht,
 
 
-2.  die zu berücksichtigende Miete oder Belastung abzüglich der Beträge
-    zur Entlastung bei den Heizkosten um mehr als 15 Prozent erhöht oder
+2.  die zu berücksichtigende Miete oder Belastung abzüglich des
+    Gesamtbetrages zur Entlastung bei den Heizkosten um mehr als 10
+    Prozent erhöht oder
 
 
-3.  das Gesamteinkommen um mehr als 15 Prozent verringert
+3.  das Gesamteinkommen um mehr als 10 Prozent verringert
 
 
 
 und sich dadurch das Wohngeld erhöht. Im Fall des Satzes 1 Nr. 2 ist
 das Wohngeld auch rückwirkend zu bewilligen, frühestens jedoch ab
 Beginn des laufenden Bewilligungszeitraums, wenn sich die zu
-berücksichtigende Miete oder Belastung abzüglich der Beträge zur
-Entlastung bei den Heizkosten rückwirkend um mehr als 15 Prozent
+berücksichtigende Miete oder Belastung abzüglich des Gesamtbetrages
+zur Entlastung bei den Heizkosten rückwirkend um mehr als 10 Prozent
 erhöht hat. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das
-Gesamteinkommen um mehr als 15 Prozent verringert, weil sich die
+Gesamteinkommen um mehr als 10 Prozent verringert, weil sich die
 Anzahl der zu berücksichtigenden Haushaltsmitglieder verringert hat.
 
 (2) Über die Leistung des Wohngeldes ist von Amts wegen mit Wirkung ab
@@ -1640,9 +1767,9 @@ Bewilligungszeitraum nicht nur vorübergehend
     Abs. 2 bleibt unberührt,
 
 
-2.  die zu berücksichtigende Miete oder Belastung abzüglich der Beträge
-    zur Entlastung bei den Heizkosten um mehr als 15 Prozent verringert; §
-    6 Abs. 2 bleibt unberührt, oder
+2.  die zu berücksichtigende Miete oder Belastung abzüglich des
+    Gesamtbetrages zur Entlastung bei den Heizkosten um mehr als 15
+    Prozent verringert; § 6 Abs. 2 bleibt unberührt, oder
 
 
 3.  das Gesamteinkommen um mehr als 15 Prozent erhöht
@@ -1653,14 +1780,14 @@ und dadurch das Wohngeld wegfällt oder sich verringert. Als Zeitpunkt
 der Änderung der Verhältnisse gilt im Fall des Satzes 1 Nr. 1 der Tag
 nach dem Auszug, im Fall des Satzes 1 Nr. 2 der Beginn des Zeitraums,
 für den sich die zu berücksichtigende Miete oder Belastung abzüglich
-der Beträge zur Entlastung bei den Heizkosten um mehr als 15 Prozent
-verringert, und im Fall des Satzes 1 Nr. 3 der Beginn des Zeitraums,
-für den das erhöhte Einkommen bezogen wird, das zu einer Erhöhung des
-Gesamteinkommens um mehr als 15 Prozent führt. Tritt die Änderung der
-Verhältnisse nicht zum Ersten eines Monats ein, ist mit Wirkung vom
-Ersten des nächsten Monats an zu entscheiden. Satz 1 Nr. 3 ist auch
-anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent
-erhöht, weil sich die Anzahl der zu berücksichtigenden
+des Gesamtbetrages zur Entlastung bei den Heizkosten um mehr als 15
+Prozent verringert, und im Fall des Satzes 1 Nr. 3 der Beginn des
+Zeitraums, für den das erhöhte Einkommen bezogen wird, das zu einer
+Erhöhung des Gesamteinkommens um mehr als 15 Prozent führt. Tritt die
+Änderung der Verhältnisse nicht zum Ersten eines Monats ein, ist mit
+Wirkung vom Ersten des nächsten Monats an zu entscheiden. Satz 1 Nr. 3
+ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15
+Prozent erhöht, weil sich die Anzahl der zu berücksichtigenden
 Haushaltsmitglieder erhöht hat. Als Zeitpunkt der Antragstellung im
 Sinne des § 24 Abs. 2 gilt der Zeitpunkt der Kenntnis der
 Wohngeldbehörde von den geänderten Verhältnissen. Eine Neuentscheidung
@@ -1862,6 +1989,16 @@ bleibt unberührt.
 (3) Der Rücküberweisungs- und der Erstattungsanspruch verjähren in
 vier Jahren nach Ablauf des Kalenderjahres, in dem die Wohngeldbehörde
 Kenntnis von der Überzahlung erlangt hat.
+
+
+### § 30a Bagatellgrenze bei Rückforderungen
+
+Zur Erprobung einer Bagatellgrenze wird nach Aufhebung der Bewilligung
+oder Feststellung der Unwirksamkeit eines Wohngeldbescheides durch die
+Wohngeldbehörde bis zu einer Höhe von 50 Euro von einer Erstattung
+überzahlten Wohngeldes abgesehen. Dies gilt auch in Fällen einer
+Aufrechnung oder Verrechnung. Die Erprobung dauert bis zum 31.
+Dezember 2024.
 
 
 ### § 31 Rücknahme eines rechtswidrigen nicht begünstigenden Wohngeldbescheides
@@ -2193,7 +2330,7 @@ einem Auswahlsatz von 25 Prozent der wohngeldberechtigten Personen
 sind dem Statistischen Bundesamt jährlich unverzüglich nach Ablauf des
 Erhebungszeitraums für Zusatzaufbereitungen zur Verfügung zu stellen.
 Zu diesem Zweck dürfen die Einzelangaben auch dem Bundesministerium
-des Innern, für Bau und Heimat oder, wenn die Aufgabe der
+für Wohnen, Stadtentwicklung und Bauwesen oder, wenn die Aufgabe der
 Zusatzaufbereitung an das Bundesamt für Bauwesen und Raumordnung
 übertragen worden ist, an dieses übermittelt werden. Dabei sind mehr
 als fünf zu berücksichtigende Haushaltsmitglieder, die Wohnraum
@@ -2292,14 +2429,22 @@ tragen. Die Bundesregierung berichtet dem Deutschen Bundestag über die
 Überprüfung nach den Sätzen 1 und 2, über die Durchführung dieses
 Gesetzes und über die Entwicklung der Mieten für Wohnraum alle zwei
 Jahre bis zum 30. Juni. Dabei fließen auch miet- und
-wohnungsmarktrelevante Daten der Länder ein. Der erste erweiterte
-Bericht erfolgt bis zum 30. Juni 2017.
+wohnungsmarktrelevante Daten der Länder ein. Bis einschließlich 2025
+fließen daneben auch die Einschätzungen der Länder zu den Wirkungen
+der dauerhaften Heizkostenkomponente nach § 12 Absatz 6 und der
+Klimakomponente nach § 12 Absatz 7 ein. Der erste erweiterte Bericht
+erfolgt bis zum 30. Juni 2017.
 
 (2) Die Bundesregierung berichtet dem Deutschen Bundestag über die
 Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in
 Deutschland alle vier Jahre bis zum 30. Juni. Der nächste Bericht
 erfolgt bis zum 30. Juni 2017. Eine im gleichen Jahr vorzulegende
 Berichterstattung nach Absatz 1 ist jeweils zu integrieren.
+
+(3) Zum Zwecke der Evaluierung berichten die Länder nach Ablauf von
+zwei Jahren spätestens bis zum 31. März 2025 gegenüber dem
+Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen über die
+maßgeblichen Kennzahlen der Experimentierklausel des § 30a.
 
 
 ### § 40 Einkommen bei anderen Sozialleistungen
@@ -2572,6 +2717,62 @@ Bewilligungszeitraum vor dem 1. Januar 2021, so ist Absatz 5
 entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
 
 
+### § 42d Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
+
+(1) Ist Wohngeld vor dem 1. Januar 2023 bewilligt worden und liegt
+mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
+2022, so ist abweichend von § 41 Absatz 2 von Amts wegen über die
+Leistung des Wohngeldes für den Zeitraum vom 1. Januar 2023 bis zum
+Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der
+Entscheidung nach Satz 1 sind die §§ 11, 12 und 19 dieses Gesetzes und
+die sich aus der Anlage zu § 1 Absatz 3 der Wohngeldverordnung in der
+ab dem 1. Januar 2023 geltenden Fassung ergebenden Mietenstufen
+anzuwenden. Ergibt sich aus der Entscheidung nach Satz 1 kein höheres
+Wohngeld, verbleibt es bis zum Ende des bisherigen
+Bewilligungszeitraums bei dem bereits bewilligten Wohngeld.
+
+(2) Ist bei der Entscheidung nach Absatz 1 Satz 1 nicht berücksichtigt
+worden, dass sich die Anzahl der zu berücksichtigenden
+Haushaltsmitglieder, die zu berücksichtigende Miete oder Belastung
+oder das Gesamteinkommen geändert hat oder das Wohngeld zweckwidrig
+verwendet wird, so ist die Entscheidung nur rechtswidrig, wenn
+gleichzeitig die Voraussetzungen des § 27 vorliegen. Im Übrigen bleibt
+§ 45 des Zehnten Buches Sozialgesetzbuch unberührt. Wird die
+Entscheidung nach Absatz 1 Satz 1 unter den Voraussetzungen des § 45
+des Zehnten Buches Sozialgesetzbuch zurückgenommen, so wird der
+bisherige Bewilligungsbescheid wieder wirksam. Die §§ 27 und 28
+bleiben unberührt.
+
+(3) Ist Wohngeld vor dem 1. Januar 2023 bewilligt worden und liegt
+mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
+2022 und ist über einen Antrag nach § 27 Absatz 1 oder in einem
+Verfahren nach § 27 Absatz 2 neu zu entscheiden, so ist für die Zeit
+bis zum 31. Dezember 2022 nach dem bis dahin geltenden Recht und ab
+dem 1. Januar 2023 nach neuem Recht zu entscheiden.
+
+(4) Der Bewilligungsbescheid nach Absatz 1 Satz 1 muss auf die
+besonderen Entscheidungsgrundlagen der Absätze 1 und 2 hinweisen,
+insbesondere darauf, dass eine Entscheidung nach § 27 oder § 28 Absatz
+2 oder die Mitteilung über die Unwirksamkeit nach § 28 Absatz 1 oder
+Absatz 3 dem Bewilligungsbescheid noch folgen kann und dass ab dem
+Zeitpunkt der Änderung der Verhältnisse, der auch vor dem 1. Januar
+2023 liegen kann, das Wohngeld wegfallen oder sich verringern kann.
+
+(5) Ist bis zum 31. Dezember 2022 über einen Wohngeldantrag nach § 22
+noch nicht entschieden, so ist für die Zeit bis zum 31. Dezember 2022
+nach dem bis dahin geltenden Recht und für die darauf folgende Zeit
+nach dem neuen Recht zu entscheiden. Ist in den Fällen des Satzes 1
+das ab dem 1. Januar 2023 zu bewilligende Wohngeld geringer als das
+für Dezember 2022 zu bewilligende Wohngeld, so verbleibt es auch für
+den Teil des Bewilligungszeitraums ab dem 1. Januar 2023 bei dem für
+Dezember 2022 zu bewilligenden höheren Wohngeld.
+
+(6) Ist über einen nach dem 31. Dezember 2022 gestellten
+Wohngeldantrag nach § 22 zu entscheiden und beginnt der
+Bewilligungszeitraum vor dem 1. Januar 2023, so ist Absatz 5
+entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
+
+
 ### § 43 Fortschreibung des Wohngeldes
 
 (1) Wurden durch die Änderung dieses Gesetzes die Höchstbeträge für
@@ -2595,11 +2796,31 @@ des Bundesrates (§ 38 Nummer 4) fortgeschrieben:
 
 3.  die Werte für „c“ (Anlage 2) auf Grund der bundesweiten Entwicklung
     der Verbraucherpreise, gemessen durch den Verbraucherpreisindex für
-    Deutschland des Statistischen Bundesamtes.
+    Deutschland des Statistischen Bundesamtes;
+
+
+4.  die Werte für „M“ (Anlage 3) auf Grund der Entwicklung der
+    bundesweiten Bruttokaltmieten, gemessen durch den Teilindex für
+    Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex für
+    Deutschland des Statistischen Bundesamtes;
+
+
+5.  die Werte für „Y“ (Anlage 3) auf Grund der bundesweiten Entwicklung
+    der Verbraucherpreise, gemessen durch den Verbraucherpreisindex für
+    Deutschland des Statistischen Bundesamtes;
+
+
+6.  das zusätzliche Wohngeld für das 13. und jedes weitere zu
+    berücksichtigende Haushaltsmitglied nach § 19 Absatz 3 auf Grund der
+    bundesweiten Entwicklung der Verbraucherpreise, gemessen durch den
+    Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes.
 
 
 
-Die erste Fortschreibung des Wohngeldes erfolgt zum 1. Januar 2022.
+Die erste Fortschreibung der Werte für „M“ und „Y“ (Anlage 3) und des
+zusätzlichen Wohngeldes für das 13. und jedes weitere zu
+berücksichtigende Haushaltsmitglied nach § 19 Absatz 3 erfolgt zum 1.
+Januar 2025.
 
 (2) § 12 Absatz 4 Satz 1 findet bei der Fortschreibung des Wohngeldes
 keine Anwendung.
@@ -2612,42 +2833,84 @@ Jahresdurchschnittswerten des vierten Jahres vor Inkrafttreten der
 Fortschreibung.
 
 (4) Die Höchstbeträge für Miete und Belastung (Anlage 1) werden am 1.
-Januar 2022 und dann alle zwei Jahre zum 1. Januar um den Prozentsatz
+Januar 2025 und dann alle zwei Jahre zum 1. Januar um den Prozentsatz
 erhöht oder verringert, um den sich der vom Statistischen Bundesamt
 festgestellte Teilindex nach Absatz 1 Nummer 1 verändert hat. Für die
-Veränderung am 1. Januar 2022 ist die Erhöhung oder Verringerung des
+Veränderung am 1. Januar 2025 ist die Erhöhung oder Verringerung des
 Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 1 maßgeblich,
-die im Jahr 2020 gegenüber dem Jahr 2018 eingetreten ist. Die sich
+die im Jahr 2023 gegenüber dem Jahr 2021 eingetreten ist. Die sich
 danach ergebenden Beträge sind jeweils bis unter 0,50 Euro auf den
 nächsten vollen Euro-Betrag abzurunden sowie ab 0,50 Euro auf den
 nächsten vollen Euro-Betrag aufzurunden und ergeben die
 fortgeschriebenen Höchstbeträge für Miete und Belastung (Anlage 1).
 
-(5) Die Werte für „b“ (Anlage 2) werden am 1. Januar 2022 und dann
+(5) Die Werte für „b“ (Anlage 2) werden am 1. Januar 2025 und dann
 alle zwei Jahre zum 1. Januar mit einhundert multipliziert und
 anschließend durch die Summe aus einhundert und dem Prozentsatz
 dividiert, um den sich der vom Statistischen Bundesamt festgestellte
 Teilindex nach Absatz 1 Nummer 2 verändert hat. Für die prozentuale
-Veränderung am 1. Januar 2022 ist die Erhöhung oder Verringerung des
+Veränderung am 1. Januar 2025 ist die Erhöhung oder Verringerung des
 Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 2 maßgeblich,
-die im Jahr 2020 gegenüber dem Jahr 2018 eingetreten ist. Die sich
-danach ergebenden Werte sind jeweils auf die sechste Nachkommastelle
+die im Jahr 2023 gegenüber dem Jahr 2021 eingetreten ist. Die sich
+danach ergebenden Werte sind jeweils auf die siebte Nachkommastelle
 abzurunden und ergeben die fortgeschriebenen Werte für „b“ (Anlage 2).
 
-(6) Die Werte für „c“ (Anlage 2) werden am 1. Januar 2022 und dann
+(6) Die Werte für „c“ (Anlage 2) werden am 1. Januar 2025 und dann
 alle zwei Jahre zum 1. Januar mit einhundert multipliziert und
 anschließend durch die Summe aus einhundert und dem Prozentsatz
 dividiert, um den sich der vom Statistischen Bundesamt festgestellte
 Verbraucherpreisindex nach Absatz 1 Nummer 3 verändert hat. Für die
-prozentuale Veränderung am 1. Januar 2022 ist die Erhöhung oder
+prozentuale Veränderung am 1. Januar 2025 ist die Erhöhung oder
 Verringerung des Jahresdurchschnitts des Verbraucherpreisindex nach
-Absatz 1 Nummer 3 maßgeblich, die im Jahr 2020 gegenüber dem Jahr 2018
+Absatz 1 Nummer 3 maßgeblich, die im Jahr 2023 gegenüber dem Jahr 2021
 eingetreten ist. Die sich danach ergebenden Werte sind jeweils auf die
 siebte Nachkommastelle abzurunden und ergeben die fortgeschriebenen
 Werte für „c“ (Anlage 2).
 
-(7) Für die Fortschreibungen nach dem 1. Januar 2022 gelten die
-Absätze 4 bis 6 entsprechend.
+(7) Die Werte für „M“ (Anlage 3) werden am 1. Januar 2025 und dann
+alle zwei Jahre zum 1. Januar um den Prozentsatz erhöht oder
+verringert, um den sich der vom Statistischen Bundesamt festgestellte
+Teilindex nach Absatz 1 Satz 1 Nummer 4 verändert hat. Für die
+Veränderung am 1. Januar 2025 ist die Erhöhung oder Verringerung des
+Jahresdurchschnitts des Teilindex nach Absatz 1 Satz 1 Nummer 4
+maßgeblich, die im Jahr 2023 gegenüber dem Jahr 2021 eingetreten ist.
+Die sich danach ergebenden Beträge sind bei einem Nachkommawert unter
+0,50 Euro auf den nächsten vollen Euro-Betrag abzurunden sowie bei
+einem Nachkommawert ab 0,50 Euro auf den nächsten vollen Euro-Betrag
+aufzurunden; die gerundeten Beträge ergeben die neuen Werte für „M“
+(Anlage 3).
+
+(8) Die Werte für „Y“ (Anlage 3) werden am 1. Januar 2025 und dann
+alle zwei Jahre zum 1. Januar um den Prozentsatz erhöht oder
+verringert, um den sich der vom Statistischen Bundesamt festgestellte
+Verbraucherpreisindex nach Absatz 1 Satz 1 Nummer 5 verändert hat. Für
+die Veränderung am 1. Januar 2025 ist die Erhöhung oder Verringerung
+des Jahresdurchschnitts des Verbraucherpreisindex nach Absatz 1 Satz 1
+Nummer 5 maßgeblich, die im Jahr 2023 gegenüber dem Jahr 2021
+eingetreten ist. Die sich danach ergebenden Beträge sind bei einem
+Nachkommawert bis unter 0,50 Euro auf den nächsten vollen Euro-Betrag
+abzurunden sowie bei einem Nachkommawert ab 0,50 Euro auf den nächsten
+vollen Euro-Betrag aufzurunden; die gerundeten Beträge ergeben die
+neuen Werte für „Y“ (Anlage 3).
+
+(9) Der Wert für das zusätzliche Wohngeld für das 13. und jedes
+weitere zu berücksichtigende Haushaltsmitglied nach § 19 Absatz 3 wird
+am 1. Januar 2025 und dann alle zwei Jahre zum 1. Januar um den
+Prozentsatz erhöht oder verringert, um den sich der vom Statistischen
+Bundesamt festgestellte Verbraucherpreisindex nach Absatz 1 Satz 1
+Nummer 6 verändert hat. Für die Veränderung am 1. Januar 2025 ist die
+Erhöhung oder Verringerung des Jahresdurchschnitts des
+Verbraucherpreisindex nach Absatz 1 Satz 1 Nummer 6 maßgeblich, die im
+Jahr 2023 gegenüber dem Jahr 2021 eingetreten ist. Die sich danach
+ergebenden Beträge sind bei einem Nachkommawert bis unter 0,50 Euro
+auf den nächsten vollen Euro-Betrag abzurunden sowie bei einem
+Nachkommawert ab 0,50 Euro auf den nächsten vollen Euro-Betrag
+aufzurunden; die gerundeten Beträge ergeben die neuen Werte für das
+zusätzliche Wohngeld für das 13. und jedes weitere zu
+berücksichtigende Haushaltsmitglied nach § 19 Absatz 3.
+
+(10) Für die Fortschreibungen nach dem 1. Januar 2025 gelten die
+Absätze 4 bis 9 entsprechend.
 
 
 ### § 44 Übergangsregelung bei Fortschreibung des Wohngeldes
@@ -2658,10 +2921,10 @@ Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch
 an, so ist abweichend von § 41 Absatz 2 von Amts wegen über die
 Leistung des Wohngeldes für den Zeitraum vom Inkrafttreten der
 Fortschreibung bis zum Ende des bisherigen Bewilligungszeitraums neu
-zu entscheiden. Bei der Entscheidung sind die Höchstbeträge für Miete
-und Belastung (Anlage 1) und die Werte für „b“ und „c“ (Anlage 2) in
-der ab dem Inkrafttreten der aktuellen Fortschreibung geltenden
-Fassung anzuwenden.
+zu entscheiden. Bei der Entscheidung sind die Berechnungsgrößen des
+Wohngeldes nach § 43 Absatz 1 Satz 1 Nummer 1 bis 6 in der ab dem
+Inkrafttreten der aktuellen Fortschreibung geltenden Fassung
+anzuwenden.
 
 (2) Ist bei der Entscheidung nach Absatz 1 Satz 1 nicht berücksichtigt
 worden, dass sich die Anzahl der zu berücksichtigenden
@@ -2705,7 +2968,7 @@ unberührt.
 
 ### Anlage 1 (zu § 12 Absatz 1)
 
-(Fundstelle: BGBl. I 2019, 1881)
+(Fundstelle: BGBl. I 2019, 1881; siehe auch Fußnote)
 
 
 *    *   Anzahl
@@ -2980,7 +3243,7 @@ unberührt.
 
 ### Anlage 2 (zu § 19 Absatz 1)
 
-(Fundstelle: BGBl. I 2019, 1882)
+(Fundstelle: BGBl. I 2022, 2164 )
 
 ## **Werte für „a“, „b“ und „c“**
 
@@ -3031,32 +3294,32 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
 *    *   b
 
-    *   5,800E-4
+    *   4,991E-4
 
-    *   4,050E-4
+    *   3,716E-4
 
-    *   3,500E-4
+    *   3,035E-4
 
-    *   3,130E-4
+    *   2,251E-4
 
-    *   2,760E-4
+    *   1,985E-4
 
-    *   2,580E-4
+    *   1,792E-4
 
 
 *    *   c
 
-    *   1,180E-4
+    *   4,620E-5
 
-    *   8,800E-5
+    *   3,450E-5
 
-    *   7,090E-5
+    *   2,780E-5
 
-    *   3,680E-5
+    *   2,000E-5
 
-    *   3,590E-5
+    *   1,950E-5
 
-    *   3,080E-5
+    *   1,880E-5
 
 
 
@@ -3097,39 +3360,39 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
     *   – 6,000E-2
 
-    *   – 1,000E-1
+    *   – 9,000E-2
 
-    *   – 1,400E-1
+    *   – 1,200E-1
 
 
 *    *   b
 
-    *   2,390E-4
+    *   1,657E-4
 
-    *   2,120E-4
+    *   1,648E-4
 
-    *   1,840E-4
+    *   1,432E-4
 
-    *   1,470E-4
+    *   1,300E-4
 
-    *   1,100E-4
+    *   1,188E-4
 
-    *   1,010E-4
+    *   1,152E-4
 
 
 *    *   c
 
-    *   3,160E-5
+    *   1,870E-5
 
-    *   3,160E-5
+    *   1,870E-5
 
-    *   3,330E-5
+    *   1,880E-5
 
-    *   3,850E-5
+    *   1,880E-5
 
-    *   4,530E-5
+    *   2,220E-5
 
-    *   5,130E-5
+    *   2,510E-5
 
 
 
@@ -3180,9 +3443,12 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
 ### Anlage 3 (zu § 19 Absatz 2)
 
-(Fundstelle: BGBl. I 2015, 1617)
+(Fundstelle: BGBl. I 2022, 2164 – 2165)
 
-**Rechenschritte und Rundungen**
+*    *   **Rechenschritte und Rundungen**
+
+
+
 
 1.  Werte für „M“ und „Y“, die unterhalb der folgenden Tabellenwerte
     liegen, werden durch diese ersetzt:
@@ -3230,17 +3496,17 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
     *        *   Y
 
-        *   275
+        *   350
 
-        *   357
+        *   600
 
-        *   414
+        *   800
 
-        *   447
+        *   1 000
 
-        *   532
+        *   1 200
 
-        *   618
+        *   1 400
 
 
 
@@ -3288,17 +3554,17 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
     *        *   Y
 
-        *   702
+        *   1 600
 
-        *   787
+        *   1 800
 
-        *   872
+        *   2 000
 
-        *   957
+        *   2 200
 
-        *   1 248
+        *   2 400
 
-        *   1 443
+        *   2 600
 
 
 

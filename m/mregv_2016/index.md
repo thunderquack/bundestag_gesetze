@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1850
 
 Zuletzt geändert durch
-:   Art. 2 V v. 28.9.2021 I 4619
+:   Art. 35 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Anwendungsbereich
@@ -221,8 +221,8 @@ als geprüft ausweisen:
 nicht älter als drei Monate sein und ist als Originaldokument oder als
 amtlich beglaubigte Kopie des Originaldokuments vorzulegen.
 
-(5) Der Antragsteller hat auf Verlangen des Bundesamtes für
-Güterverkehr zusätzlich die dem Gutachten zugrunde liegenden
+(5) Der Antragsteller hat auf Verlangen des Bundesamtes für Logistik
+und Mobilität zusätzlich die dem Gutachten zugrunde liegenden
 Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
 
 
@@ -345,7 +345,8 @@ Nummer 7 des Mautsystemgesetzes nachzuweisen durch
 
 
 4.  den Antrag auf Vorlage eines Führungszeugnisses oder eines
-    Europäischen Führungszeugnisses beim Bundesamt für Güterverkehr und
+    Europäischen Führungszeugnisses beim Bundesamt für Logistik und
+    Mobilität und
 
 
 5.  einen Auszug aus dem Gewerbezentralregister zur Vorlage bei einer
@@ -372,8 +373,8 @@ entsprechend.
 (1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des
 Mautsystemgesetzes sowie die regelmäßige Überprüfung der
 Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des
-Mautsystemgesetzes werden vom Bundesamt für Güterverkehr Gebühren und
-Auslagen erhoben.
+Mautsystemgesetzes werden vom Bundesamt für Logistik und Mobilität
+Gebühren und Auslagen erhoben.
 
 (2) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
 bestimmen sich nach der Anlage.

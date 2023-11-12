@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1954, 354
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.2.2017 I 298
-
-Änderung durch
-:   Art. 5 G v. 14.6.2021 I 1766 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 14.6.2021 I 1766
 
 
 ## Eingangsformel

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3082
 
 Zuletzt geändert durch
-:   § 44 Abs. 1 G v. 22.5.2013 I 1324
-
-Änderung durch
-:   Art. 8 Abs. 2 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 2 G v. 27.9.2021 I 4530
 
 
 ## § 1 Rechtsform, Name

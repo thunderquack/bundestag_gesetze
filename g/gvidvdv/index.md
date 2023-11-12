@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 2622
 
 Zuletzt geändert durch
-:   Art. 6 V v. 22.7.2021 I 3552
+:   Art. 6 V v. 15.12.2022 I 2862
 
 
 ## Eingangsformel
@@ -45,7 +45,7 @@ Bundes.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -80,11 +80,6 @@ diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren
 Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den
 Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus
 einem schriftlichen und einem mündlichen Teil.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
-werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
-stehen.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
@@ -135,7 +130,7 @@ beruft die Mitglieder der Auswahlkommission und eine ausreichende
 Anzahl von Ersatzmitgliedern.
 
 (2a) Die Einstellungsbehörde kann festlegen, dass bis zum 31. Dezember
-2022 die Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus
+2024 die Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus
 folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes
@@ -196,7 +191,7 @@ Fachstudien an der Hochschule und zwölf Monate Praktika.
 
 
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die
 Studienabschnitte anders gegliedert werden.
 
 (3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt
@@ -205,7 +200,7 @@ die Hochschule in einem Modulhandbuch fest.
 
 ### § 7a Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können für einzelne oder alle
+Bis zum 31. Dezember 2024 können für einzelne oder alle
 Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 
@@ -347,7 +342,7 @@ der Zwischenprüfung haben die Studierenden nachzuweisen, dass sie
 einen Kenntnisstand erreicht haben, der eine erfolgreiche weitere
 Ausbildung erwarten lässt.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung auch
 studiengangbegleitend durchgeführt werden.
 
 (2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe
@@ -356,7 +351,7 @@ Hochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der
 Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen
 ausgewählt, die die Lehrkräfte einreichen.
 
-(2a) Bis zum 31. Dezember 2022 können eine oder zwei der vier
+(2a) Bis zum 31. Dezember 2024 können eine oder zwei der vier
 Klausuren jeweils durch eine Hausarbeit ersetzt werden. Das Thema für
 die jeweilige Hausarbeit wird von der Dekanin oder dem Dekan am
 Zentralbereich aus den Vorschlägen der Lehrkräfte ausgewählt.
@@ -417,7 +412,7 @@ in Form von
 Klausuren können mit Unterstützung durch Informationstechnik
 durchgeführt werden.
 
-(2a) Bis zum 31. Dezember 2020 kann für die Durchführung der Referate
+(2a) Bis zum 31. Dezember 2024 kann für die Durchführung der Referate
 und der anderen mündlichen Leistungen Videokonferenztechnik genutzt
 werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
 stehen.
@@ -528,7 +523,7 @@ durchgeführt. Die Präsentation dauert in der Regel 15 Minuten. Die
 sich daran anschließende Disputation soll mindestens 20 und höchstens
 30 Minuten dauern.
 
-(3a) Bis zum 31. Dezember 2022 kann für die Durchführung der
+(3a) Bis zum 31. Dezember 2024 kann für die Durchführung der
 Präsentation und Disputation Videokonferenztechnik genutzt werden,
 wenn dafür entsprechende technische Einrichtungen zur Verfügung
 stehen.

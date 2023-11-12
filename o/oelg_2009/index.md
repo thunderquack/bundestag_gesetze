@@ -1,6 +1,7 @@
 ---
 Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet
-  des ökologischen Landbaus
+  des ökologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung
+  in gemeinschaftlichen Verpflegungseinrichtungen
 jurabk: ÖLG 2009
 layout: default
 origslug: _lg_2009
@@ -8,7 +9,7 @@ slug: oelg_2009
 
 ---
 
-# Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus (ÖLG 2009)
+# Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung in gemeinschaftlichen Verpflegungseinrichtungen (ÖLG 2009)
 
 Ausfertigungsdatum
 :   2008-12-07
@@ -17,18 +18,12 @@ Fundstelle
 :   BGBl I: 2008, 2358
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 94 G v. 18.7.2016 I 1666
-
-Änderung durch
-:   Art. 1 G v. 27.7.2021 I 3176 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 110 G v. 10.8.2021 I 3436 ist berücksichtigt
+:   Art. 1 G v. 17.8.2023 I Nr. 219
 
 
 ## § 1 Anwendungsbereich
 
-Dieses Gesetz dient der Durchführung der
+(1) Dieses Gesetz dient der Durchführung der
 
 1.  Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom
     30\. Mai 2018 über die ökologische/biologische Produktion und die
@@ -67,6 +62,10 @@ Dieses Gesetz dient der Durchführung der
 Dieses Gesetz dient auch der zur Durchführung der vorgenannten
 Verordnungen erlassenen Rechtsakte der Europäischen Union.
 
+(2) Des Weiteren regelt es die Voraussetzungen für die Kennzeichnung
+der ökologischen/biologischen Produktion in gemeinschaftlichen
+Verpflegungseinrichtungen sowie deren Kontrolle.
+
 
 ## § 2 Durchführung
 
@@ -79,14 +78,14 @@ zuständigen Behörden, soweit nachstehend nichts anderes bestimmt ist.
 für
 
 1.  die Zulassung der Kontrollstellen nach Artikel 28 Absatz 2 der
-    Verordnung (EU) 2017/625 in Verbindung mit Artikel 40 Absatz 1 Satz 1
-    Buchstabe a der Verordnung (EU) 2018/848,
+    Verordnung (EU) 2017/625 in Verbindung mit Artikel 40 Absatz 1
+    Unterabsatz 1 Buchstabe a der Verordnung (EU) 2018/848,
 
 
 2.  den Entzug der Zulassung nach Artikel 33 Satz 1 Buchstabe b und Satz 2
     der Verordnung (EU) 2017/625 oder die Aussetzung der Zulassung nach
-    Artikel 40 Absatz 8 Satz 1 der Verordnung (EU) 2018/848 nach Maßgabe
-    des § 4 Absatz 5,
+    Artikel 40 Absatz 8 Unterabsatz 1 der Verordnung (EU) 2018/848 nach
+    Maßgabe des § 4 Absatz 5,
 
 
 3.  die Erteilung einer Codenummer an Kontrollstellen nach Artikel 28
@@ -99,9 +98,9 @@ für
 
 
 5.  die Durchführung des jährlichen Audits im Rahmen der Überwachung der
-    Kontrollstellen nach Artikel 40 Absatz 1 Satz 2 der Verordnung (EU)
-    2018/848 in Verbindung mit Artikel 33 Buchstabe a der Verordnung (EU)
-    2017/625.
+    Kontrollstellen nach Artikel 40 Absatz 1 Unterabsatz 2 der Verordnung
+    (EU) 2018/848 in Verbindung mit Artikel 33 Buchstabe a der Verordnung
+    (EU) 2017/625.
 
 
 
@@ -109,8 +108,28 @@ für
 (2a) Das Bundessortenamt ist zuständig für die Aufgaben nach Artikel
 13 Absatz 2 der Verordnung (EU) 2018/848.
 
-(3) Die Landesregierungen werden ermächtigt, für die Übertragung der
-Aufgaben nach § 3 Absatz 1 Satz 2 Rechtsverordnungen zu erlassen.
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+
+1.  Aufgaben nach § 3 Absatz 1 Satz 1 auf zugelassene Kontrollstellen als
+    beauftragte Stellen im Sinne des Artikels 3 Nummer 5 der Verordnung
+    (EU) 2017/625 zu übertragen,
+
+
+2.  die in Nummer 1 bezeichneten Stellen mit Aufgaben nach § 3 Absatz 1
+    Satz 2 zu beleihen,
+
+
+3.  die Voraussetzungen und das Verfahren der Übertragung der Aufgaben
+    nach § 3 Absatz 1 Satz 1 oder der Beleihung mit den Aufgaben nach § 3
+    Absatz 1 Satz 2 zu regeln.
+
+
+
+Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch
+Rechtsverordnung ganz oder teilweise auf die nach Landesrecht
+zuständigen Behörden zu übertragen; dabei können sie auch bestimmen,
+dass die Befugnisse nach Satz 1 Nummer 1 oder 2 statt durch
+Rechtsverordnung durch Verwaltungsakt ausgeübt werden können.
 
 
 ## § 3 Kontrollsystem
@@ -134,14 +153,20 @@ Allein die Aufgaben nach
     der Verordnung (EU) 2017/625 sowie
 
 
-4.  Anhang II Teil I Nummer 1.8.5.1 Satz 2 der Verordnung (EU) 2018/848 in
-    Verbindung mit der Delegierten Verordnung (EU) 2020/1794
+4.  Anhang II Teil I Nummer 1.8.5.1 Unterabsatz 3 und Nummer 1.8.6
+    Unterabsatz 1 der Verordnung (EU) 2018/848
 
 
 
 erfordern den Erlass eines Verwaltungsaktes und können von
 Kontrollstellen nur wahrgenommen werden, soweit sie hierfür von der
 nach Landesrecht zuständigen Behörde beliehen worden sind.
+
+(1a) Für die Durchführung der Kontrollen und für die Ausstellung eines
+in einer auf Grund des § 6 erlassenen Rechtsverordnung vorgesehenen
+Zertifikats sind die nach Absatz 1 zugelassenen Kontrollstellen
+zuständig, soweit die Aufgabenwahrnehmung nicht den Erlass eines
+Verwaltungsaktes erfordert.
 
 (2) Unternehmer, die Erzeugnisse im Sinne von Artikel 2 Absatz 1 der
 Verordnung (EU) 2018/848 als ökologische/biologische Erzeugnisse, die
@@ -162,13 +187,15 @@ nicht überschreiten.
 (1) Eine Kontrollstelle ist auf Antrag zuzulassen, wenn
 
 1.  sie die Anforderungen nach Artikel 29 Buchstabe b der Verordnung (EU)
-    2017/625 in Verbindung mit Artikel 40 Absatz 1 Buchstabe a der
-    Verordnung (EU) 2018/848 erfüllt,
+    2017/625 in Verbindung mit Artikel 40 Absatz 1 Unterabsatz 1 Buchstabe
+    a der Verordnung (EU) 2018/848 erfüllt,
 
 
 2.  sichergestellt ist, dass sie die Kontrollen nach Maßgabe von Artikel 9
     der Verordnung (EU) 2017/625 in Verbindung mit Artikel 38 Absatz 1 bis
-    4 der Verordnung (EU) 2018/848 ordnungsgemäß durchführt,
+    4 der Verordnung (EU) 2018/848 und, soweit zusätzlich die Zulassung
+    für diesen Bereich beantragt wird, Kontrollen nach einer auf Grund des
+    § 6 erlassenen Rechtsverordnung ordnungsgemäß durchführt,
 
 
 3.  die für die Zulassung erhobenen Gebühren entrichtet worden sind und
@@ -200,16 +227,16 @@ und 2 erfordern. Unter denselben Voraussetzungen ist auch die
 nachträgliche Aufnahme oder Änderung von Auflagen zulässig.
 
 (5) Die Tätigkeit einer Kontrollstelle wird im Sinne des Artikels 40
-Absatz 1 Buchstabe b sowie Satz 2 der Verordnung (EU) 2018/848 in
-Verbindung mit Artikel 29 Buchstabe a sowie Artikel 33 der Verordnung
-(EU) 2017/625 von der zuständigen Behörde des Landes überwacht, in dem
-die Kontrollstelle ihre jeweilige Tätigkeit ausübt; die Entscheidung
-über Entzug und Aussetzung ihrer Zulassung und die Aufnahme oder
-Änderung von Auflagen zur Zulassung liegt bei der Bundesanstalt für
-Landwirtschaft und Ernährung. Stellt die nach Satz 1 zuständige
-Behörde Tatsachen fest, die den Entzug der Zulassung begründen oder
-die Aufnahme oder Änderung von Auflagen zur Zulassung erforderlich
-machen können, so hat sie,
+Absatz 1 Unterabsatz 1 Buchstabe b sowie Satz 2 der Verordnung (EU)
+2018/848 in Verbindung mit Artikel 29 Buchstabe a sowie Artikel 33 der
+Verordnung (EU) 2017/625 von der zuständigen Behörde des Landes
+überwacht, in dem die Kontrollstelle ihre jeweilige Tätigkeit ausübt;
+die Entscheidung über Entzug und Aussetzung ihrer Zulassung und die
+Aufnahme oder Änderung von Auflagen zur Zulassung liegt bei der
+Bundesanstalt für Landwirtschaft und Ernährung. Stellt die nach Satz 1
+zuständige Behörde Tatsachen fest, die den Entzug der Zulassung
+begründen oder die Aufnahme oder Änderung von Auflagen zur Zulassung
+erforderlich machen können, so hat sie,
 
 1.
     a)  wenn der Ort der zu beanstandenden Kontrolltätigkeit und des Sitzes
@@ -259,12 +286,13 @@ betroffenen Land kontrollierten Unternehmen anzuzeigen.
 
 (1) Die Kontrollstelle ist verpflichtet, die Tätigkeit jedes
 Unternehmers im Sinne des Artikels 34 Absatz 1 der Verordnung (EU) Nr.
-2018/848 und des § 6 Abs. 2 gegen angemessene Vergütung in ihre
-Kontrollen einzubeziehen, soweit der Unternehmer die Einbeziehung
-verlangt und seine Tätigkeit in dem Land ausübt, in dem die
-Kontrollstelle zugelassen ist. Die nach Landesrecht zuständige Behörde
-kann auf Antrag der Kontrollstelle eine Ausnahme von der Verpflichtung
-nach Satz 1 zulassen, soweit
+2018/848 gegen angemessene Vergütung in ihre Kontrollen einzubeziehen,
+soweit der Unternehmer die Einbeziehung verlangt und seine Tätigkeit
+in dem Land ausübt, in dem die Kontrollstelle zugelassen ist. Satz 1
+gilt auch für Unternehmer, die in einer auf Grund des § 6 erlassenen
+Rechtsverordnung bezeichnet sind. Die nach Landesrecht zuständige
+Behörde kann auf Antrag der Kontrollstelle eine Ausnahme von der
+Verpflichtung nach Satz 1 zulassen, soweit
 
 1.  die Kontrollstelle zur Gewährleistung objektiver und wirksamer
     Kontrollen ein berechtigtes Interesse hat, die Tätigkeit des
@@ -272,12 +300,13 @@ nach Satz 1 zulassen, soweit
 
 
 2.  das Durchführen der Kontrollen für das Unternehmen durch eine andere
-    Kontrollstelle sichergestellt ist. Die Kontrollstelle hat die
-    zuständige Behörde unverzüglich über die Entscheidung, das
-    Kontrollverhältnis mit einem Unternehmer zu beenden, zu unterrichten.
+    Kontrollstelle sichergestellt ist.
 
 
 
+Die Kontrollstelle hat die zuständige Behörde unverzüglich über die
+Entscheidung, das Kontrollverhältnis mit einem Unternehmer zu beenden,
+zu unterrichten.
 
 (2) Die Kontrollstelle hat ein Verzeichnis der in ihre Kontrolle
 einbezogenen Unternehmen nach Maßgabe der Sätze 3 und 4 zu führen und
@@ -299,22 +328,34 @@ Verzeichnis muss folgende Angaben enthalten:
 
 
 4.  Art der Tätigkeit des Unternehmers oder der Unternehmergruppe nach
-    Artikel 34 Absatz 1 der Verordnung (EU) 2018/848.
+    Artikel 34 Absatz 1 der Verordnung (EU) 2018/848,
+
+
+5.  Art der Tätigkeit des Unternehmers, der in einer auf Grund des § 6
+    erlassenen Rechtsverordnung bezeichnet ist.
 
 
 
-Darüber hinaus muss das Verzeichnis die Angaben, die in den
-Zertifikaten nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 zu
-machen sind, enthalten und diese nach dem Muster in Anhang VI der
-Verordnung (EU) 2018/848 abbilden. Weitere Angaben darf das
-Verzeichnis nicht enthalten. Die Kontrollstelle ist verpflichtet, die
-Abschriften oder Kopien der von ihr für einen Unternehmer
-ausgestellten Zertifikate ab dem Datum ihrer Ausstellung fünf Jahre
-aufzubewahren und fünf Jahre im Internet verfügbar zu machen und
-anschließend jeweils unverzüglich – bei Speicherung in elektronischer
-Form automatisiert – zu löschen. Aufbewahrungs- und
-Veröffentlichungspflichten nach anderen Rechtsvorschriften bleiben
-unberührt.
+Darüber hinaus muss das Verzeichnis enthalten und abbilden:
+
+1.  die Angaben, die in den Zertifikaten nach Artikel 35 Absatz 1 der
+    Verordnung (EU) 2018/848 zu machen und nach dem Muster in Anhang VI zu
+    der Verordnung (EU) 2018/848 abzubilden sind,
+
+
+2.  die in einer auf Grund des § 6 erlassenen Rechtsverordnung geforderten
+    Angaben und Abbildungen.
+
+
+
+Weitere Angaben darf das Verzeichnis nicht enthalten. Die
+Kontrollstelle ist verpflichtet, die Abschriften oder Kopien der von
+ihr für einen Unternehmer ausgestellten Zertifikate ab dem Datum ihrer
+Ausstellung fünf Jahre aufzubewahren und fünf Jahre im Internet
+verfügbar zu machen und anschließend jeweils unverzüglich – bei
+Speicherung in elektronischer Form automatisiert – zu löschen.
+Aufbewahrungs- und Veröffentlichungspflichten nach anderen
+Rechtsvorschriften bleiben unberührt.
 
 (3) Die Kontrollstellen erteilen einander die für eine ordnungsgemäße
 Durchführung der in § 1 genannten Rechtsakte und dieses Gesetzes
@@ -386,13 +427,19 @@ Verpflegungseinrichtungen gemäß Artikel 2 Absatz 3 der Verordnung (EU)
     Einrichtungen wie Kindertagesstätten und Schulen,
 
 
-3.  die Kennzeichnung von Zutaten mit Bezeichnungen mit Bezug auf die
-    ökologische/biologische Produktion gemäß Verordnung (EU) 2018/848,
+3.  die Kennzeichnung von Zutaten und Erzeugnissen mit Bezeichnungen mit
+    Bezug auf die ökologische/biologische Produktion gemäß Verordnung (EU)
+    2018/848,
 
 
 4.  die fakultative Auszeichnung des Gesamtanteils an Zutaten oder
     Erzeugnissen gemäß Verordnung (EU) 2018/848, die innerhalb einer
-    gemeinschaftlichen Verpflegungseinrichtung verwendet werden.
+    gemeinschaftlichen Verpflegungseinrichtung verwendet werden, sowie die
+    Voraussetzungen für die Auszeichnung,
+
+
+5.  die Durchführung des Kontrollverfahrens einschließlich der
+    Feststellung von Verstößen und der Verhängung von Maßnahmen.
 
 
 
@@ -478,7 +525,9 @@ innergemeinschaftlich verbringen oder in den Verkehr bringen, sowie
 Kontrollstellen im Sinne des § 3 Abs. 1 haben den zuständigen Behörden
 auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den
 zuständigen Behörden durch dieses Gesetz oder auf Grund dieses
-Gesetzes übertragenen Aufgaben erforderlich sind.
+Gesetzes übertragenen Aufgaben erforderlich sind. Satz 1 gilt auch für
+Unternehmer und Kontrollstellen, die in einer auf Grund des § 6
+erlassenen Rechtsverordnung bezeichnet sind.
 
 (2) Personen, die von der zuständigen Behörde beauftragt sind, dürfen
 im Rahmen des Absatzes 1 Betriebsgrundstücke, Geschäfts- oder
@@ -563,8 +612,8 @@ erforderlich ist,
 
 1.  nähere Bestimmungen über die Art und Weise der Durchführung von
     Meldungen zu erlassen, die Unternehmer oder Unternehmergruppen nach
-    Artikel 34 Absatz 1 Satz 1 der Verordnung (EU) 2018/848 über ihre
-    Tätigkeit machen müssen,
+    Artikel 34 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2018/848 über
+    ihre Tätigkeit machen müssen,
 
 
 2.  nähere Bestimmungen zur Veröffentlichung des Verzeichnisses nach
@@ -607,25 +656,22 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 ## § 12 Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer entgegen § 6 Absatz 3 ein Erzeugnis in den Verkehr
-bringt.
-
-(2) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2018/848 des
-Europäischen Parlaments und des Rates vom 30. Mai 2018 über die
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird
+bestraft, wer gegen die Verordnung (EU) 2018/848 des Europäischen
+Parlaments und des Rates vom 30. Mai 2018 über die
 ökologische/biologische Produktion und die Kennzeichnung von
 ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der
 Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S.
 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom
 10\.2.2020, S. 26; L 324 vom 6.10.2020, S. 65) verstößt, indem er
 
-1.  entgegen Artikel 30 Absatz 2 Satz 1 einen dort genannten Begriff
-    verwendet,
+1.  entgegen Artikel 30 Absatz 2 Unterabsatz 1 einen dort genannten
+    Begriff verwendet,
 
 
-2.  entgegen Artikel 30 Absatz 2 Satz 2 eine dort genannte Bezeichnung
-    oder dort genannte Praktiken in der Kennzeichnung oder Werbung
-    verwendet oder
+2.  entgegen Artikel 30 Absatz 2 Unterabsatz 2 eine dort genannte
+    Bezeichnung oder dort genannte Praktiken in der Kennzeichnung oder
+    Werbung verwendet oder
 
 
 3.  entgegen Artikel 30 Absatz 4 in Verbindung mit
@@ -633,10 +679,9 @@ Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S.
     a)  Artikel 13 Absatz 1 der Verordnung (EG) Nr. 1829/2003 des Europäischen
         Parlaments und des Rates vom 22. September 2003 über genetisch
         veränderte Lebensmittel und Futtermittel (ABl. L 268 vom 18.10.2003,
-        S. 1), die zuletzt durch die Verordnung (EU)
-        2019/1381                          (ABl. L 231 vom 6.9.2019, S. 1)
-        geändert worden ist, oder Artikel 25 Absatz 2 Satz 2 Buchstabe a oder
-        b der Verordnung (EG) Nr. 1829/2003 oder
+        S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom
+        6\.9.2019, S. 1) geändert worden ist, oder Artikel 25 Absatz 2 Satz 2
+        Buchstabe a oder b der Verordnung (EG) Nr. 1829/2003 oder
 
 
     b)  Artikel 4 Absatz 1, 2, 3 oder 6 Satz 1 der Verordnung (EG) Nr.
@@ -656,12 +701,12 @@ Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S.
 
 
 
-(3) Ebenso wird bestraft, wer eine in Artikel 30 Absatz 1 Satz 2 der
+(2) Ebenso wird bestraft, wer eine in Artikel 30 Absatz 1 Satz 2 der
 Verordnung (EU) 2018/848 genannte Bezeichnung in der
 Verkehrsbezeichnung eines Erzeugnisses nach Artikel 2 Absatz 1
 Buchstabe b der Verordnung (EU) 2018/848 verwendet, obwohl eine
-Anforderung des Artikels 30 Absatz 5 Satz 1 Buchstabe a der Verordnung
-(EU) 2018/848 nicht erfüllt wird.
+Anforderung des Artikels 30 Absatz 5 Unterabsatz 1 Buchstabe a der
+Verordnung (EU) 2018/848 nicht erfüllt wird.
 
 
 ## § 13 Bußgeldvorschriften
@@ -671,28 +716,34 @@ Handlungen fahrlässig begeht.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Abs. 2 Satz 1 ein Verzeichnis nicht, nicht richtig oder
+1.  entgegen § 5 Absatz 2 Satz 1 ein Verzeichnis nicht, nicht richtig oder
     nicht vollständig führt,
 
 
-1a. entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht
+2.  entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig einträgt,
 
 
-2.  entgegen § 5 Abs. 3 Satz 2 oder 4 oder Abs. 4 Satz 1 die zuständige
-    Behörde, ein Unternehmen oder die Bundesanstalt für Landwirtschaft und
-    Ernährung nicht, nicht richtig oder nicht rechtzeitig unterrichtet,
+3.  entgegen § 5 Absatz 3 Satz 2 oder 4 oder Absatz 4 Satz 1 eine
+    Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vornimmt,
 
 
-3.  entgegen § 5 Abs. 3 Satz 3 eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht,
+4.  entgegen § 5 Absatz 3 Satz 3 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig macht,
 
 
-4.  entgegen § 8 Abs. 1 eine Auskunft nicht, nicht richtig, nicht
+5.  einer Rechtsverordnung nach § 6 oder einer vollziehbaren Anordnung auf
+    Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die
+    Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist,
+
+
+6.  entgegen § 8 Abs. 1 eine Auskunft nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erteilt oder
 
 
-5.  entgegen § 8 Abs. 3 eine Maßnahme nicht duldet, ein Erzeugnis nicht,
+7.  entgegen § 8 Abs. 3 eine Maßnahme nicht duldet, ein Erzeugnis nicht,
     nicht richtig oder nicht rechtzeitig darlegt, die erforderliche Hilfe
     nicht oder nicht rechtzeitig leistet oder eine Unterlage nicht oder
     nicht rechtzeitig vorlegt.
@@ -730,13 +781,13 @@ verstößt, indem er vorsätzlich oder fahrlässig
     nicht vollständig oder nicht rechtzeitig gibt,
 
 
-2.  entgegen Artikel 30 Absatz 3 Satz 1 ein Erzeugnis kennzeichnet oder
-    bewirbt,
+2.  entgegen Artikel 30 Absatz 3 Unterabsatz 1 ein Erzeugnis kennzeichnet
+    oder bewirbt,
 
 
-3.  entgegen Artikel 34 Absatz 1 Satz 1, auch in Verbindung mit Satz 2,
-    eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig macht oder
+3.  entgegen Artikel 34 Absatz 1 Unterabsatz 1, auch in Verbindung mit
+    Unterabsatz 2, eine Meldung nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig macht oder
 
 
 4.  entgegen Artikel 39 Absatz 1 Buchstabe d Ziffer iii erster
@@ -753,9 +804,10 @@ Artikel 30 Absatz 1 Satz 2 der Verordnung (EU) 2018/848 genannte
 Bezeichnung
 
 1.  im Verzeichnis der Zutaten oder in der Verkehrsbezeichnung eines
-    Erzeugnisses nach Artikel 2 Absatz 1 Satz 1 Buchstabe b der Verordnung
-    (EU) 2018/848 verwendet, obwohl eine Anforderung des Artikels 30
-    Absatz 5 Buchstabe b oder c der Verordnung (EU) 2018/848 oder
+    Erzeugnisses nach Artikel 2 Absatz 1 Unterabsatz 1 Buchstabe b der
+    Verordnung (EU) 2018/848 verwendet, obwohl eine Anforderung des
+    Artikels 30 Absatz 5 Unterabsatz 1 Buchstabe b oder c der Verordnung
+    (EU) 2018/848 oder
 
 
 2.  verwendet, obwohl eine Anforderung des Artikels 32 Absatz 1 oder 2 der

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2703
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.11.2018 I 1853
-
-Änderung durch
-:   Art. 14 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 19.8.2021 I 3730 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.8.2021 I 3730
 
 
 ## Eingangsformel

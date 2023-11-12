@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 244
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.9.2021 I 4147
+:   Art. 4 G v. 8.10.2023 I Nr. 272
 
 
 ## Eingangsformel
@@ -954,4 +954,18 @@ behandeln.
 
 (2) In Verfahren nach Absatz 1 soll ein früher erster Termin
 spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
+
+
+## § 45 
+
+
+
+## § 46 Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz
+
+Auf eine vor dem 13. Oktober 2023 anhängig gemachte
+Musterfeststellungsklage sind die §§ 32c und 606 bis 614 der
+Zivilprozessordnung einschließlich der auf Grund des § 609 Absatz 7
+der Zivilprozessordnung erlassenen Musterfeststellungsklagenregister-
+Verordnung sowie § 119 Absatz 3 des Gerichtsverfassungsgesetzes in der
+bis einschließlich 12. Oktober 2023 geltenden Fassung anzuwenden.
 

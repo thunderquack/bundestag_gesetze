@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1208
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.7.2019 I 916
+:   Art. 1 V v. 17.4.2023 I Nr. 103
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -41,10 +41,12 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 
 2.  in den Fällen der Verlegung des Betriebes im Sinne des § 14 Absatz 1
-    Satz 2 Nummer 1 der Gewerbeordnung und in den Fällen des Wechsels oder
+    Satz 2 Nummer 1 der Gewerbeordnung, in den Fällen des Wechsels oder
     der Ausdehnung des Gegenstandes des Betriebes im Sinne des § 14 Absatz
-    1 Satz 2 Nummer 2 der Gewerbeordnung ein Vordruck nach dem Muster der
-    Anlage 2 und
+    1 Satz 2 Nummer 2 der Gewerbeordnung und in den Fällen der Änderung
+    des Namens des Gewerbetreibenden im Sinne des § 14 Absatz 1 Satz 2
+    Nummer 2a der Gewerbeordnung ein Vordruck nach dem Muster der Anlage 2
+    und
 
 
 3.  in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1
@@ -218,8 +220,11 @@ die nachfolgenden Stellen zur Wahrnehmung ihrer jeweiligen Aufgaben:
     14, 16, 21, 22, 24 und 28 bis 30 der Anlage 3,
 
 
-9.  an die für die Lebensmittelüberwachung zuständigen Behörden der Länder
-    nach § 14 Absatz 8 Satz 1 Nummer 10 der Gewerbeordnung mit Ausnahme
+9.  an die nach Landesrecht zuständigen Behörden zur Wahrnehmung der
+    Aufgaben nach dem Lebensmittel-, Bedarfsgegenstände-, Futtermittel-,
+    Tabak-, Tiergesundheits- und Tierschutzrecht nach § 14 Absatz 8 Satz 1
+    Nummer 10 der Gewerbeordnung nach § 14 Absatz 8 Satz 1 Nummer 10 der
+    Gewerbeordnung mit Ausnahme
 
     a)  der Daten in den Feldern 10, 12, 13, 27 bis 31 und 33 der Anlage 1,
 
@@ -227,7 +232,76 @@ die nachfolgenden Stellen zur Wahrnehmung ihrer jeweiligen Aufgaben:
     b)  der Daten in den Feldern 10, 12, 13, 25 bis 28 und 30 der Anlage 2 und
 
 
-    c)  der Daten in den Feldern 10, 12, 13, 28 und 30 der Anlage 3.
+    c)  der Daten in den Feldern 10, 12, 13, 28 und 30 der Anlage 3,
+
+
+
+
+
+10. an die Deutsche Rentenversicherung Knappschaft-Bahn-See nach § 14
+    Absatz 8 Satz 1 Nummer 11 der Gewerbeordnung mit Ausnahme
+
+    a)  der Daten in den Feldern 12, 13, 17, 19, 21 bis 31 und 33 der Anlage
+        1,
+
+
+    b)  der Daten in den Feldern 12, 13, 17, 22 bis 28 und 30 der Anlage 2 und
+
+
+    c)  der Daten in den Feldern 12, 13, 17, 19, 21 bis 28 und 30 der Anlage
+        3,
+
+
+
+
+
+11. an die Ausländerbehörden nach § 14 Absatz 8 Satz 1 Nummer 12 der
+    Gewerbeordnung mit Ausnahme
+
+    a)  der Daten in den Feldern 12 bis 14, 17, 19, 22 bis 29 und 33 der
+        Anlage 1,
+
+
+    b)  der Daten in den Feldern 12 bis 14, 17, 22 bis 26 und 30 der Anlage 2
+        und
+
+
+    c)  der Daten in den Feldern 12 bis 14, 17, 19, 21 bis 28 und 30 der
+        Anlage 3,
+
+
+
+
+
+12. an die Finanzämter nach § 14 Absatz 8 Satz 1 Nummer 13 der
+    Gewerbeordnung mit Ausnahme
+
+    a)  der Daten in den Feldern 6, 12, 13, 19, 21, 22, 27 bis 31 und 33 der
+        Anlage 1,
+
+
+    b)  der Daten in den Feldern 6, 12, 13, 22, 25 bis 28 und 30 der Anlage 2
+        und
+
+
+    c)  der Daten in den Feldern 6, 12, 13, 19, 21, 22, 27 und 30 der Anlage
+        3,
+
+
+
+
+
+13. an die für die Erlaubnisverfahren nach der Gewerbeordnung zuständigen
+    Behörden nach § 14 Absatz 8 Satz 1 Nummer 14 der Gewerbeordnung mit
+    Ausnahme
+
+    a)  der Daten in Feld 33 der Anlage 1,
+
+
+    b)  der Daten in Feld 30 der Anlage 2 und
+
+
+    c)  der Daten in Feld 30 der Anlage 3.
 
 
 
@@ -287,7 +361,7 @@ Absätzen 1 bis 3 genannten Stellen erfolgt elektronisch über
 verwaltungsinterne Kommunikationsnetze oder verschlüsselt über das
 Internet. Bei Datenübermittlungen über das Internet ist als
 Übermittlungsprotokoll der vom Bundesministerium für Wirtschaft und
-Energie im Bundesanzeiger in der jeweils gültigen Fassung bekannt
+Klimaschutz im Bundesanzeiger in der jeweils gültigen Fassung bekannt
 gemachte Standard zu Grunde zu legen. § 3 des Gesetzes über die
 Verbindung der informationstechnischen Netze des Bundes und der Länder
 – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
@@ -297,13 +371,13 @@ Kommunikationsnetze erfolgender direkter elektronischer Kommunikation
 zwischen zuständiger Behörde und den in den Absätzen 1 bis 3 genannten
 Stellen ist das Deutsche Verwaltungsdiensteverzeichnis (DVDV) zu
 Grunde zu legen. Als Datenaustauschformat ist der vom
-Bundesministerium für Wirtschaft und Energie im Bundesanzeiger in der
-jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu legen.
-Bei der Festlegung der Standards für das Übermittlungsprotokoll sowie
-für das Datenaustauschformat nach den Sätzen 2 und 5 sind die vom IT-
-Planungsrat nach § 1 Absatz 1 Satz 1 Nummer 2 des IT-Staatsvertrages
-beschlossenen IT-Interoperabilitäts- und IT-Sicherheitsstandards zu
-beachten.
+Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger in
+der jeweils gültigen Fassung bekannt gemachte Standard zu Grunde zu
+legen. Bei der Festlegung der Standards für das Übermittlungsprotokoll
+sowie für das Datenaustauschformat nach den Sätzen 2 und 5 sind die
+vom IT-Planungsrat nach § 1 Absatz 1 Satz 1 Nummer 2 des IT-
+Staatsvertrages beschlossenen IT-Interoperabilitäts- und IT-
+Sicherheitsstandards zu beachten.
 
 (5) Die zuständige Behörde übermittelt die Daten aus der
 Gewerbeanzeige unverzüglich nach Bescheinigung des Empfangs der
@@ -330,7 +404,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 1 Gewerbe-Anmeldung
 
-(Fundstelle: BGBl. I 2019, 918 – 919)
+(Fundstelle: BGBl. I 2019, 918 – 919; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Gewerbe-Anmeldung
 
@@ -340,7 +415,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 Gewerbe-Ummeldung
 
-(Fundstelle: BGBl. I 2019, 920 – 921)
+(Fundstelle: BGBl. I 2019, 920 – 921; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Gewerbe-Ummeldung
 

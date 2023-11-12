@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1980
 
 Zuletzt geändert durch
-:   Art. 1 G v. 8.6.2021 I 1603
+:   Art. 34 G v. 2.3.2023 I Nr. 56
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2004/52/EG des
 Europäischen Parlaments und des Rates vom 29. April 2004 über die
@@ -114,10 +114,11 @@ dieses Gesetzes so zu betreiben, dass der Mautdienst ermöglicht wird.
 ## § 4 Registrierung von Anbietern
 
 Wer mautdienstbezogene Leistungen als Anbieter erbringen will, muss
-sich beim Bundesamt für Güterverkehr registrieren lassen, soweit er
-nicht bei der zuständigen Behörde eines anderen Mitgliedstaates der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum registriert ist.
+sich beim Bundesamt für Logistik und Mobilität registrieren lassen,
+soweit er nicht bei der zuständigen Behörde eines anderen
+Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+registriert ist.
 
 
 ## § 5 Registrierungsvoraussetzungen
@@ -180,32 +181,33 @@ des § 6, auch in Verbindung mit § 7, nachweist, dass er
 ## § 6 Registrierungsverfahren
 
 (1) Der Antrag auf Registrierung als Anbieter ist schriftlich beim
-Bundesamt für Güterverkehr zu stellen. Zum Nachweis des Vorliegens der
-Voraussetzungen des § 5 sind dem Antrag die hierfür erforderlichen
-Unterlagen und Bescheinigungen, insbesondere ein Auszug über die im
-Handelsregister enthaltenen Eintragungen des Antragstellers als
-Unternehmer und der für die Führung der Geschäfte bestellten Personen,
-beizufügen. Ferner hat der Antragsteller Nachweise darüber beizufügen,
-dass die zur Führung der Geschäfte bestellten Personen zum Zweck der
-Prüfung der Zuverlässigkeit jeweils einen Antrag auf Vorlage eines
-Führungszeugnisses beim Bundesamt für Güterverkehr gestellt haben.
-Namen und Anschriften natürlicher Personen sind zu übermitteln, soweit
-diese in Unterlagen und Bescheinigungen nach Satz 2 enthalten sind.
-Auf Verlangen des Bundesamtes für Güterverkehr hat der Antragsteller
-die Originale oder beglaubigte Kopien der Unterlagen und
-Bescheinigungen vorzulegen.
+Bundesamt für Logistik und Mobilität zu stellen. Zum Nachweis des
+Vorliegens der Voraussetzungen des § 5 sind dem Antrag die hierfür
+erforderlichen Unterlagen und Bescheinigungen, insbesondere ein Auszug
+über die im Handelsregister enthaltenen Eintragungen des
+Antragstellers als Unternehmer und der für die Führung der Geschäfte
+bestellten Personen, beizufügen. Ferner hat der Antragsteller
+Nachweise darüber beizufügen, dass die zur Führung der Geschäfte
+bestellten Personen zum Zweck der Prüfung der Zuverlässigkeit jeweils
+einen Antrag auf Vorlage eines Führungszeugnisses beim Bundesamt für
+Logistik und Mobilität gestellt haben. Namen und Anschriften
+natürlicher Personen sind zu übermitteln, soweit diese in Unterlagen
+und Bescheinigungen nach Satz 2 enthalten sind. Auf Verlangen des
+Bundesamtes für Logistik und Mobilität hat der Antragsteller die
+Originale oder beglaubigte Kopien der Unterlagen und Bescheinigungen
+vorzulegen.
 
-(2) Jeder Antragsteller ist verpflichtet, dem Bundesamt für
-Güterverkehr Änderungen der tatsächlichen Verhältnisse, auf die sich
+(2) Jeder Antragsteller ist verpflichtet, dem Bundesamt für Logistik
+und Mobilität Änderungen der tatsächlichen Verhältnisse, auf die sich
 die Prüfung des Nachweises der Erfüllung der Voraussetzungen nach § 5
 erstreckt, unverzüglich schriftlich mitzuteilen.
 
-(3) Das Bundesamt für Güterverkehr ist befugt, die in den in den
-Absätzen 1 und 2 bezeichneten Unterlagen und Bescheinigungen
+(3) Das Bundesamt für Logistik und Mobilität ist befugt, die in den in
+den Absätzen 1 und 2 bezeichneten Unterlagen und Bescheinigungen
 enthaltenen personenbezogenen Daten zu dem in Absatz 1 Satz 2
 genannten Zweck zu erheben, zu speichern und zu verwenden. Die
-personenbezogenen Daten nach Satz 1 sind vom Bundesamt für
-Güterverkehr
+personenbezogenen Daten nach Satz 1 sind vom Bundesamt für Logistik
+und Mobilität
 
 1.  bei Nichtregistrierung des Antragstellers als Anbieter zwei Jahre nach
     bestandskräftiger oder rechtskräftiger Ablehnung des Antrags auf
@@ -223,33 +225,33 @@ unverzüglich zu löschen.
 ## § 7 Regelmäßige Überprüfung der Registrierungsvoraussetzungen
 
 (1) Jeder in Deutschland registrierte Anbieter ist verpflichtet, dem
-Bundesamt für Güterverkehr Änderungen der tatsächlichen Verhältnisse,
-die für den Nachweis des Vorliegens der Voraussetzungen des § 5
-bedeutsam sind, unverzüglich schriftlich mitzuteilen. § 6 Absatz 3
-gilt entsprechend.
+Bundesamt für Logistik und Mobilität Änderungen der tatsächlichen
+Verhältnisse, die für den Nachweis des Vorliegens der Voraussetzungen
+des § 5 bedeutsam sind, unverzüglich schriftlich mitzuteilen. § 6
+Absatz 3 gilt entsprechend.
 
-(2) Das Bundesamt für Güterverkehr überprüft mindestens einmal
-jährlich bei den in Deutschland registrierten Anbietern, ob die
+(2) Das Bundesamt für Logistik und Mobilität überprüft mindestens
+einmal jährlich bei den in Deutschland registrierten Anbietern, ob die
 Voraussetzungen des § 5 Nummer 2 und 5 bis 7 noch vorliegen. Hierzu
-sind die Anbieter verpflichtet, dem Bundesamt für Güterverkehr jeweils
-bis zum 31. Oktober eines jeden Kalenderjahres das weitere Vorliegen
-dieser Voraussetzungen nachzuweisen. Der Nachweis der Voraussetzung
-des § 5 Nummer 6 ist durch ein auf Veranlassung des Anbieters
-mindestens alle zwei Jahre durchgeführtes Audit zu erbringen. § 6
-Absatz 1 Satz 2 bis 4 und Absatz 3 gilt entsprechend.
+sind die Anbieter verpflichtet, dem Bundesamt für Logistik und
+Mobilität jeweils bis zum 31. Oktober eines jeden Kalenderjahres das
+weitere Vorliegen dieser Voraussetzungen nachzuweisen. Der Nachweis
+der Voraussetzung des § 5 Nummer 6 ist durch ein auf Veranlassung des
+Anbieters mindestens alle zwei Jahre durchgeführtes Audit zu
+erbringen. § 6 Absatz 1 Satz 2 bis 4 und Absatz 3 gilt entsprechend.
 
-(3) Das Bundesamt für Güterverkehr hat die Registrierung zu
+(3) Das Bundesamt für Logistik und Mobilität hat die Registrierung zu
 widerrufen, wenn eine der Voraussetzungen des § 5 nachträglich
-entfallen ist. Das Bundesamt für Güterverkehr hat die Registrierung
-ferner zu widerrufen, wenn ein Anbieter gegen die in den §§ 13 bis 14
-geregelten weiteren Pflichten verstößt und deshalb eine ordnungsgemäße
-Erhebung der jeweiligen Maut nicht gewährleistet ist.
+entfallen ist. Das Bundesamt für Logistik und Mobilität hat die
+Registrierung ferner zu widerrufen, wenn ein Anbieter gegen die in den
+§§ 13 bis 14 geregelten weiteren Pflichten verstößt und deshalb eine
+ordnungsgemäße Erhebung der jeweiligen Maut nicht gewährleistet ist.
 
-(4) Das Bundesamt für Güterverkehr kann die Registrierung widerrufen,
-wenn ein Anbieter gegen die in § 12 Absatz 1 geregelte Pflicht
-verstößt.
+(4) Das Bundesamt für Logistik und Mobilität kann die Registrierung
+widerrufen, wenn ein Anbieter gegen die in § 12 Absatz 1 geregelte
+Pflicht verstößt.
 
-(5) Das Bundesamt für Güterverkehr hat die Registrierung
+(5) Das Bundesamt für Logistik und Mobilität hat die Registrierung
 zurückzunehmen, wenn die Voraussetzungen des § 5 nicht vorgelegen
 haben.
 
@@ -341,12 +343,13 @@ sind in nicht personenbezogener Form Regelungen zu treffen über
 
 (2) Die jeweils für die Erhebung einer Maut in Bund und Ländern
 zuständigen Behörden haben die Angaben nach Absatz 1 so rechtzeitig an
-das Bundesamt für Güterverkehr zur Aufnahme in das Mautdienstregister
-nach § 21 Absatz 1 zu übermitteln, dass die Zulassung von Anbietern
-oder die Wiederholung von Teilen des Zulassungsverfahrens spätestens
-einen Monat vor Beginn der Mauterhebung auf Grundlage der Angaben nach
-Absatz 1 abgeschlossen werden kann. Änderungen sind dem Bundesamt für
-Güterverkehr unverzüglich schriftlich mitzuteilen.
+das Bundesamt für Logistik und Mobilität zur Aufnahme in das
+Mautdienstregister nach § 21 Absatz 1 zu übermitteln, dass die
+Zulassung von Anbietern oder die Wiederholung von Teilen des
+Zulassungsverfahrens spätestens einen Monat vor Beginn der
+Mauterhebung auf Grundlage der Angaben nach Absatz 1 abgeschlossen
+werden kann. Änderungen sind dem Bundesamt für Logistik und Mobilität
+unverzüglich schriftlich mitzuteilen.
 
 (3) Die Entgelte im Sinne des Absatzes 1 Satz 2 Nummer 1 dürfen die
 jeweiligen Kosten des Bundes und der Länder für die Bereitstellung,
@@ -514,21 +517,21 @@ Abdeckung mautpflichtiger Streckennetze nach Satz 1 nicht mehr gegeben
 ist, muss der Anbieter die vollständige Abdeckung unverzüglich
 wiederherstellen.
 
-(2) Ein beim Bundesamt für Güterverkehr registrierter Anbieter muss
-Informationen über die von ihm abgedeckten mautpflichtigen
-Streckennetze sowie Änderungen daran unverzüglich nach der
-Registrierung veröffentlichen. Ein beim Bundesamt für Güterverkehr
-registrierter Anbieter muss innerhalb eines Monats nach der
+(2) Ein beim Bundesamt für Logistik und Mobilität registrierter
+Anbieter muss Informationen über die von ihm abgedeckten
+mautpflichtigen Streckennetze sowie Änderungen daran unverzüglich nach
+der Registrierung veröffentlichen. Ein beim Bundesamt für Logistik und
+Mobilität registrierter Anbieter muss innerhalb eines Monats nach der
 Registrierung ausführliche Pläne für die mögliche Erweiterung seiner
 Dienste auf weitere mautpflichtige Streckennetze veröffentlichen und
-jährlich aktualisieren. Jeder beim Bundesamt für Güterverkehr
-registrierte Anbieter muss dem Bundesamt für Güterverkehr ferner bis
-zum 31. Oktober eines jeden Kalenderjahres eine Erklärung über die
-mautpflichtigen Streckennetze übermitteln, in denen er
-mautdienstbezogene Leistungen erbringt. Das Bundesamt für Güterverkehr
-überprüft mindestens einmal jährlich, ob die bei ihm registrierten
-Anbieter ihren Pflichten aus den Sätzen 1 und 2 nachkommen. § 6 Absatz
-1 Satz 2 bis 5 gilt entsprechend.
+jährlich aktualisieren. Jeder beim Bundesamt für Logistik und
+Mobilität registrierte Anbieter muss dem Bundesamt für Logistik und
+Mobilität ferner bis zum 31. Oktober eines jeden Kalenderjahres eine
+Erklärung über die mautpflichtigen Streckennetze übermitteln, in denen
+er mautdienstbezogene Leistungen erbringt. Das Bundesamt für Logistik
+und Mobilität überprüft mindestens einmal jährlich, ob die bei ihm
+registrierten Anbieter ihren Pflichten aus den Sätzen 1 und 2
+nachkommen. § 6 Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
 
 ## § 13 Pflichten der Anbieter gegenüber den Nutzern
@@ -546,24 +549,23 @@ Mitgliedstaaten über die Bereitstellung von Funkanlagen auf dem Markt
 und zur Aufhebung der Richtlinie 1999/5/EG (ABl. L 153 vom 22.5.2014,
 S. 62; L 16 vom 23.1.2015, S. 66), die durch die Verordnung (EU)
 2018/1139 (ABl. L 212 vom 22.8.2018, S. 1) geändert worden ist, und
-der Richtlinie
-2014/30/EU              des Europäischen Parlaments und des Rates vom
-26\. Februar 2014 zur Harmonisierung der Rechtsvorschriften der
+der Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates
+vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der
 Mitgliedstaaten über die elektromagnetische Verträglichkeit (ABl. L 96
 vom 29.3.2014, S. 79), die durch die Verordnung (EU) 2018/1139 (ABl. L
 212 vom 22.8.2018, S. 1) geändert worden ist, entsprechen. Auf
-Verlangen des Bundesamtes für Güterverkehr hat der Anbieter
+Verlangen des Bundesamtes für Logistik und Mobilität hat der Anbieter
 nachzuweisen, dass die Anforderung nach Satz 1 erfüllt ist.
 
 (3) Ein zugelassener Anbieter ist verpflichtet, den Nutzern seiner
 Dienstleistungen Informationen und technische Unterstützung zur
 ordnungsgemäßen Einstellung jedes Fahrzeuggerätes anzubieten.
 
-(4) Ein beim Bundesamt für Güterverkehr registrierter Anbieter muss
-Nutzern vor Vertragsschluss die allgemeinen Bedingungen offenlegen,
-die er den Verträgen mit seinen Nutzern zu Grunde legt. Ein Anbieter
-muss die Nutzer bei Abschluss eines Vertrags über die für die
-Vertragserfüllung gültigen Zahlungsmittel informieren.
+(4) Ein beim Bundesamt für Logistik und Mobilität registrierter
+Anbieter muss Nutzern vor Vertragsschluss die allgemeinen Bedingungen
+offenlegen, die er den Verträgen mit seinen Nutzern zu Grunde legt.
+Ein Anbieter muss die Nutzer bei Abschluss eines Vertrags über die für
+die Vertragserfüllung gültigen Zahlungsmittel informieren.
 
 (5) Bei der Erstellung der Rechnungen an die einzelnen Nutzer hat ein
 zugelassener Anbieter seine Dienstleistungsentgelte deutlich sichtbar
@@ -656,8 +658,8 @@ für die Erhebung einer Maut in Bund und Ländern zuständigen Behörde.
 (1) Werden Änderungen hinsichtlich der im Mautdienstregister nach § 21
 Absatz 1 gespeicherten Daten eines Mautsystems erforderlich, so hat
 die zuständige Behörde des Bundes oder Landes unverzüglich das
-Bundesamt für Güterverkehr schriftlich zu unterrichten, damit es das
-Mautdienstregister entsprechend ändern kann.
+Bundesamt für Logistik und Mobilität schriftlich zu unterrichten,
+damit es das Mautdienstregister entsprechend ändern kann.
 
 (2) Die für die Erhebung einer Maut in Bund und Ländern zuständigen
 Behörden haben von den nach § 10 Absatz 1 zugelassenen Anbietern alle
@@ -725,8 +727,8 @@ Durchführung der Mauttransaktion erforderlich sind.
 
 
 (3) Die in Absatz 2 genannten Maut-Basisdaten und jede Änderung der
-Maut-Basisdaten sind dem Bundesamt für Güterverkehr entsprechend der
-Frist des § 9 Absatz 2 elektronisch mitzuteilen.
+Maut-Basisdaten sind dem Bundesamt für Logistik und Mobilität
+entsprechend der Frist des § 9 Absatz 2 elektronisch mitzuteilen.
 
 
 ## § 18 Fahrzeugklassifizierung
@@ -737,7 +739,7 @@ werden nur nach Anhang I der Delegierten Verordnung (EU) 2020/203
 klassifiziert.
 
 (2) Die für die Erhebung der Maut zuständige Behörde des Bundes oder
-Landes übermittelt dem Bundesamt für Güterverkehr und dem
+Landes übermittelt dem Bundesamt für Logistik und Mobilität und dem
 Bundesministerium für Verkehr und digitale Infrastruktur mindestens
 sechs Monate vor der Einführung neuer Merkmale für die
 Fahrzeugklassifizierung Informationen über die Einführung. Das
@@ -812,9 +814,9 @@ unberührt.
 
 ## § 21 Mautdienstregister
 
-(1) Das Bundesamt für Güterverkehr führt und aktualisiert das
-nationale elektronische Mautdienstregister (Mautdienstregister). Das
-Mautdienstregister enthält folgende Angaben:
+(1) Das Bundesamt für Logistik und Mobilität führt und aktualisiert
+das nationale elektronische Mautdienstregister (Mautdienstregister).
+Das Mautdienstregister enthält folgende Angaben:
 
 1.  mautpflichtige Streckennetze mit Angaben zu
 
@@ -836,9 +838,9 @@ Mautdienstregister enthält folgende Angaben:
 
 
 
-2.  Anbieter, die beim Bundesamt für Güterverkehr registriert sind sowie
-    die Schlussfolgerungen des regelmäßigen Audits nach § 7 Absatz 2 Satz
-    3 und
+2.  Anbieter, die beim Bundesamt für Logistik und Mobilität registriert
+    sind sowie die Schlussfolgerungen des regelmäßigen Audits nach § 7
+    Absatz 2 Satz 3 und
 
 
 3.  Name und Adresse der zentralen Anlaufstelle nach § 37, einschließlich
@@ -846,32 +848,32 @@ Mautdienstregister enthält folgende Angaben:
 
 
 
-Das Bundesamt für Güterverkehr ist befugt, zu dem in Satz 1 genannten
-Zweck in den Fällen von Satz 2 Nummer 1 Buchstabe d und Satz 2 Nummer
-2 den Namen des gesetzlichen Vertreters des Anbieters zu erheben, zu
-speichern und zu verwenden. Das in Satz 3 genannte Datum ist
-unverzüglich zu löschen, wenn es im Einzelfall für die Führung des in
-Satz 1 genannten Registers nicht mehr erforderlich ist.
+Das Bundesamt für Logistik und Mobilität ist befugt, zu dem in Satz 1
+genannten Zweck in den Fällen von Satz 2 Nummer 1 Buchstabe d und Satz
+2 Nummer 2 den Namen des gesetzlichen Vertreters des Anbieters zu
+erheben, zu speichern und zu verwenden. Das in Satz 3 genannte Datum
+ist unverzüglich zu löschen, wenn es im Einzelfall für die Führung des
+in Satz 1 genannten Registers nicht mehr erforderlich ist.
 
-(2) Das Bundesamt für Güterverkehr aktualisiert das Mautdienstregister
-bei Bedarf, insbesondere auf der Basis der Überprüfungen nach § 7
-Absatz 2 Satz 1 und § 12 Absatz 2 Satz 3.
+(2) Das Bundesamt für Logistik und Mobilität aktualisiert das
+Mautdienstregister bei Bedarf, insbesondere auf der Basis der
+Überprüfungen nach § 7 Absatz 2 Satz 1 und § 12 Absatz 2 Satz 3.
 
 (3) Das Mautdienstregister ist im Bundesanzeiger in nicht
 personenbezogener Form bekannt zu machen.
 
 (4) Zum Ende jedes Kalenderjahres übermittelt das Bundesamt für
-Güterverkehr der Kommission elektronisch das Mautdienstregister in
-nicht personenbezogener Form. Abweichungen zwischen den Daten der von
-den anderen Mitgliedstaaten der Europäischen Union und den anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-übermittelten Mautdienstregister bezüglich der Situation in einem
-Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum teilt das
-Bundesamt für Güterverkehr dem Mitgliedstaat der Europäischen Union
-oder dem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum, in dem der jeweilige Anbieter registriert ist, sowie
-der Kommission mit.
+Logistik und Mobilität der Kommission elektronisch das
+Mautdienstregister in nicht personenbezogener Form. Abweichungen
+zwischen den Daten der von den anderen Mitgliedstaaten der
+Europäischen Union und den anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum übermittelten Mautdienstregister
+bezüglich der Situation in einem Mitgliedstaat der Europäischen Union
+oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum teilt das Bundesamt für Logistik und Mobilität dem
+Mitgliedstaat der Europäischen Union oder dem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum, in dem der
+jeweilige Anbieter registriert ist, sowie der Kommission mit.
 
 
 ## § 22 Anforderungen an Interoperabilitätskomponenten
@@ -955,16 +957,16 @@ werden, wenn diese Komponenten das CE-Zeichen tragen oder für sie eine
 EG-Konformitätserklärung oder Gebrauchstauglichkeitserklärung
 vorliegt.
 
-(2) Hat das Bundesamt für Güterverkehr Grund zu der Annahme, dass
-Interoperabilitätskomponenten, die das CE-Zeichen tragen und in
+(2) Hat das Bundesamt für Logistik und Mobilität Grund zu der Annahme,
+dass Interoperabilitätskomponenten, die das CE-Zeichen tragen und in
 Verkehr gebracht worden sind, bei bestimmungsgemäßer Verwendung die
 Anforderungen des § 22 Absatz 2 oder 3 oder des § 25 nicht erfüllen
 werden, so kann es das weitere Inverkehrbringen dieser Komponenten
 untersagen oder einschränken oder ihre Rücknahme oder ihren Rückruf
-anordnen. Das Bundesamt für Güterverkehr unterrichtet die Kommission
-unverzüglich unter Angabe der Gründe über die getroffenen Maßnahmen
-und erläutert insbesondere, ob die Komponenten nicht übereinstimmend
-sind, weil
+anordnen. Das Bundesamt für Logistik und Mobilität unterrichtet die
+Kommission unverzüglich unter Angabe der Gründe über die getroffenen
+Maßnahmen und erläutert insbesondere, ob die Komponenten nicht
+übereinstimmend sind, weil
 
 1.  die technischen Spezifikationen nicht ordnungsgemäß angewandt wurden
     oder
@@ -977,21 +979,21 @@ sind, weil
 
 (3) Erfüllen Interoperabilitätskomponenten, die das CE-Zeichen tragen,
 nicht die Anforderungen des § 22 Absatz 2 oder Absatz 3, verlangt das
-Bundesamt für Güterverkehr vom Hersteller oder seinem in der
+Bundesamt für Logistik und Mobilität vom Hersteller oder seinem in der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum ansässigen Bevollmächtigten, die
 Konformität oder Gebrauchstauglichkeit der jeweiligen
 Interoperabilitätskomponente entsprechend den geltenden Vorschriften
-herzustellen. Das Bundesamt für Güterverkehr unterrichtet die
-Kommission und die zuständigen Stellen der anderen Mitgliedstaaten der
-Europäischen Union und der anderen Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum hiervon.
+herzustellen. Das Bundesamt für Logistik und Mobilität unterrichtet
+die Kommission und die zuständigen Stellen der anderen Mitgliedstaaten
+der Europäischen Union und der anderen Vertragsstaaten des Abkommens
+über den Europäischen Wirtschaftsraum hiervon.
 
 (4) Das Produktsicherheitsgesetz bleibt unberührt. Das Bundesamt für
-Güterverkehr und die nach dem Produktsicherheitsgesetz zuständigen
-Behörden unterrichten sich gegenseitig über die im Hinblick auf
-Interoperabilitätskomponenten gewonnenen Erkenntnisse und getroffenen
-Maßnahmen.
+Logistik und Mobilität und die nach dem Produktsicherheitsgesetz
+zuständigen Behörden unterrichten sich gegenseitig über die im
+Hinblick auf Interoperabilitätskomponenten gewonnenen Erkenntnisse und
+getroffenen Maßnahmen.
 
 
 ## § 25 Besondere Anforderungen an die Fahrzeuggeräte
@@ -1112,22 +1114,23 @@ diese Anforderungen zum Zeitpunkt der Akkreditierung nicht erfüllt
 wurden.
 
 (4) Die nationale Akkreditierungsstelle unterrichtet das Bundesamt für
-Güterverkehr über die Erteilung, die Änderung, die Entziehung und das
-Erlöschen von Akkreditierungen nach Absatz 2. Auf der Grundlage der
-nach Satz 1 übermittelten Informationen benennt das Bundesamt für
-Güterverkehr der Kommission und den anderen Mitgliedstaaten der
-Europäischen Union sowie den anderen Vertragsstaaten des Abkommens
-über den Europäischen Wirtschaftsraum die in Deutschland ansässigen
-Stellen nach Absatz 1 und gibt den Zuständigkeitsbereich jeder Stelle
-sowie die zuvor von der Kommission erteilten Kennnummern an.
+Logistik und Mobilität über die Erteilung, die Änderung, die
+Entziehung und das Erlöschen von Akkreditierungen nach Absatz 2. Auf
+der Grundlage der nach Satz 1 übermittelten Informationen benennt das
+Bundesamt für Logistik und Mobilität der Kommission und den anderen
+Mitgliedstaaten der Europäischen Union sowie den anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+die in Deutschland ansässigen Stellen nach Absatz 1 und gibt den
+Zuständigkeitsbereich jeder Stelle sowie die zuvor von der Kommission
+erteilten Kennnummern an.
 
-(5) Ist das Bundesamt für Güterverkehr der Auffassung, dass eine von
-einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-notifizierte Stelle den relevanten Kriterien nach Absatz 3 Satz 3
-nicht entspricht, so informiert es hierüber den nach Artikel 31 Absatz
-1 der Richtlinie (EU) 2019/520 eingesetzten Ausschuss für
-elektronische Maut.
+(5) Ist das Bundesamt für Logistik und Mobilität der Auffassung, dass
+eine von einem anderen Mitgliedstaat der Europäischen Union oder einem
+anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum notifizierte Stelle den relevanten Kriterien nach
+Absatz 3 Satz 3 nicht entspricht, so informiert es hierüber den nach
+Artikel 31 Absatz 1 der Richtlinie (EU) 2019/520 eingesetzten
+Ausschuss für elektronische Maut.
 
 
 ## § 28 Einrichtung und Aufgaben der Vermittlungsstelle
@@ -1257,11 +1260,11 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
         Aktualisierungsintervalle zu § 21 Absatz 2 sowie
 
 
-    c)  die Mitteilungspflichten des Bundesamtes für Güterverkehr gegenüber
-        den registerführenden Stellen der anderen Mitgliedstaaten der
-        Europäischen Union und der anderen Vertragsstaaten des Abkommens über
-        den Europäischen Wirtschaftsraum sowie der Kommission nach § 21 Absatz
-        4
+    c)  die Mitteilungspflichten des Bundesamtes für Logistik und Mobilität
+        gegenüber den registerführenden Stellen der anderen Mitgliedstaaten
+        der Europäischen Union und der anderen Vertragsstaaten des Abkommens
+        über den Europäischen Wirtschaftsraum sowie der Kommission nach § 21
+        Absatz 4
 
 
 
@@ -1304,8 +1307,7 @@ Wirtschaftsraum sind befugt, sich zur Identifizierung des Fahrzeugs
 und des Eigentümers oder Halters des Fahrzeugs, bei dem der Verdacht
 besteht, dass die Maut nicht, nicht vollständig oder nicht rechtzeitig
 entrichtet wurde, Fahrzeug- und Halterdaten gemäß Artikel 23 der
-Richtlinie (EU)
-2019/520              gegenseitig zu übermitteln. Nationale
+Richtlinie (EU) 2019/520 gegenseitig zu übermitteln. Nationale
 Kontaktstelle für den Informationsaustausch sind
 
 1.  das Kraftfahrt-Bundesamt für Abrufe von Fahrzeug- und Halterdaten der
@@ -1314,7 +1316,7 @@ Kontaktstelle für den Informationsaustausch sind
     Fahrzeugregister des Kraftfahrt-Bundesamtes und
 
 
-2.  das Bundesamt für Güterverkehr für Abrufe von Fahrzeug- und
+2.  das Bundesamt für Logistik und Mobilität für Abrufe von Fahrzeug- und
     Halterdaten aus den Fahrzeugregistern der anderen Mitgliedstaaten der
     Europäischen Union und der Vertragsstaaten des Abkommens über den
     Europäischen Wirtschaftsraum.
@@ -1371,10 +1373,10 @@ und die zuständige Behörde des genannten Mitgliedstaates.
 
 ## § 35 Abrufe aus den Fahrzeugregistern der anderen Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Das Bundesamt für Güterverkehr ist befugt, die für einen Abruf von
-Fahrzeug- und Halterdaten aus den Fahrzeugregistern der anderen
-Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des
-Abkommens über den Europäischen Wirtschaftsraum erforderlichen, in
+(1) Das Bundesamt für Logistik und Mobilität ist befugt, die für einen
+Abruf von Fahrzeug- und Halterdaten aus den Fahrzeugregistern der
+anderen Mitgliedstaaten der Europäischen Union und der Vertragsstaaten
+des Abkommens über den Europäischen Wirtschaftsraum erforderlichen, in
 Anhang I der Richtlinie (EU) 2019/520 genannten Fahrzeug- und
 Halterdaten an eine nationale Kontaktstelle eines anderen
 Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des
@@ -1382,36 +1384,36 @@ Abkommens über den Europäischen Wirtschaftsraum im Sinne von Artikel
 23 Absatz 2 der Richtlinie (EU) 2019/520 zu übermitteln. Die
 Übermittlung nach Satz 1 darf erfolgen, soweit dies zur Erfüllung des
 in § 33 Satz 1 genannten Zwecks erforderlich ist. Das Bundesamt für
-Güterverkehr darf die durch einen Abruf von Fahrzeug- und Halterdaten
-nach Satz 1 von der in Satz 1 genannten nationalen Kontaktstelle im
-automatisierten Verfahren übermittelten Fahrzeug- und Halterdaten
-erheben, speichern und verwenden, soweit dies für die Erfüllung des in
-§ 33 Satz 1 genannten Zwecks erforderlich ist.
+Logistik und Mobilität darf die durch einen Abruf von Fahrzeug- und
+Halterdaten nach Satz 1 von der in Satz 1 genannten nationalen
+Kontaktstelle im automatisierten Verfahren übermittelten Fahrzeug- und
+Halterdaten erheben, speichern und verwenden, soweit dies für die
+Erfüllung des in § 33 Satz 1 genannten Zwecks erforderlich ist.
 
-(2) Das Bundesamt für Güterverkehr darf die Fahrzeug- und Halterdaten
-nach Absatz 1 Satz 3 an die zuständige Behörde des Bundes oder Landes
-übermitteln, sofern es nicht selbst die zuständige Behörde ist. Die
-Übermittlung nach Satz 1 darf erfolgen, soweit diese Übermittlung für
-die Erfüllung des in § 33 Satz 1 genannten Zwecks für die
-Übermittlungsempfänger jeweils erforderlich ist. Die in Satz 1
-genannten Daten sind vom Bundesamt für Güterverkehr unverzüglich nach
-deren Weiterübermittlung an die zuständige Behörde des Bundes oder
-Landes zu löschen.
+(2) Das Bundesamt für Logistik und Mobilität darf die Fahrzeug- und
+Halterdaten nach Absatz 1 Satz 3 an die zuständige Behörde des Bundes
+oder Landes übermitteln, sofern es nicht selbst die zuständige Behörde
+ist. Die Übermittlung nach Satz 1 darf erfolgen, soweit diese
+Übermittlung für die Erfüllung des in § 33 Satz 1 genannten Zwecks für
+die Übermittlungsempfänger jeweils erforderlich ist. Die in Satz 1
+genannten Daten sind vom Bundesamt für Logistik und Mobilität
+unverzüglich nach deren Weiterübermittlung an die zuständige Behörde
+des Bundes oder Landes zu löschen.
 
-(3) Das Bundesamt für Güterverkehr hat über die Abrufe Aufzeichnungen
-zu fertigen. Die Aufzeichnungen müssen die bei der Durchführung der
-Abrufe verwendeten Fahrzeug- und Halterdaten, den Tag und die Uhrzeit
-der Abrufe, die Kennung der abrufenden Dienststelle und die
-abgerufenen Daten enthalten. Die protokollierten Daten dürfen nur für
-den Zweck der Datenschutzkontrolle, der Datensicherung oder zur
-Sicherstellung eines ordnungsgemäßen Betriebs der
+(3) Das Bundesamt für Logistik und Mobilität hat über die Abrufe
+Aufzeichnungen zu fertigen. Die Aufzeichnungen müssen die bei der
+Durchführung der Abrufe verwendeten Fahrzeug- und Halterdaten, den Tag
+und die Uhrzeit der Abrufe, die Kennung der abrufenden Dienststelle
+und die abgerufenen Daten enthalten. Die protokollierten Daten dürfen
+nur für den Zweck der Datenschutzkontrolle, der Datensicherung oder
+zur Sicherstellung eines ordnungsgemäßen Betriebs der
 Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind
 durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen
 sonstigen Missbrauch zu schützen. Die Protokolldaten sind nach sechs
 Monaten zu löschen.
 
-(4) Das Bundesamt für Güterverkehr hat bei Abrufen zusätzlich
-Aufzeichnungen über den Anlass des Abrufs zu fertigen. Die
+(4) Das Bundesamt für Logistik und Mobilität hat bei Abrufen
+zusätzlich Aufzeichnungen über den Anlass des Abrufs zu fertigen. Die
 Aufzeichnungen müssen die Feststellung der für den Abruf
 verantwortlichen Personen ermöglichen.
 

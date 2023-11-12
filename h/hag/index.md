@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 191
 
 Zuletzt geändert durch
-:   Art. 10 G v. 10.12.2021 I 5162
+:   Art. 6i G v. 16.9.2022 I 1454
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -214,7 +214,7 @@ sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit
 der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat
 sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine
 Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der
-Vorsitzende sein Stimmrecht aus. Bis zum Ablauf des 19. März 2022
+Vorsitzende sein Stimmrecht aus. Bis zum Ablauf des 7. April 2023
 können auf Vorschlag des Vorsitzenden die Teilnahme an Sitzungen des
 Heimarbeitsausschusses sowie die Beschlussfassung auch mittels einer
 Video- und Telefonkonferenz erfolgen, wenn
@@ -227,9 +227,6 @@ Video- und Telefonkonferenz erfolgen, wenn
 
 
 
-Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Frist nach Satz 4 um bis zu drei
-Monate verlängern.
 
 (4) Der Heimarbeitsausschuß kann sonstige Bestimmungen über die
 Geschäftsführung in einer schriftlichen Geschäftsordnung treffen. Für

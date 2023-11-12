@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek v. 29.5.1992 I 1001;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.11.2020 I 2428
+:   Art. 10 G v. 22.3.2023 I Nr. 88
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1481,20 +1481,12 @@ Bei UVP-pflichtigen Anlagen gilt § 20 Absatz 1a und 1b entsprechend.
 (4) § 22 gilt entsprechend.
 
 
-### § 23a Raumordnungsverfahren und Genehmigungsverfahren
+### § 23a Raumverträglichkeitsprüfung und Genehmigungsverfahren
 
-(1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder
-einem anderen raumordnerischen Verfahren, das den Anforderungen des §
-15 Absatz 2 des Raumordnungsgesetzes entspricht (raumordnerisches
-Verfahren), ermittelten, beschriebenen und bewerteten Auswirkungen des
-Vorhabens auf die Umwelt nach Maßgabe des § 20 Absatz 1b bei der
+Die Genehmigungsbehörde hat die bei der Raumverträglichkeitsprüfung
+nach § 15 des Raumordnungsgesetzes überschlägig geprüften Auswirkungen
+des Vorhabens auf die Umwelt nach Maßgabe des § 20 Absatz 1b bei der
 Entscheidung über den Antrag zu berücksichtigen.
-
-(2) Im Genehmigungsverfahren soll hinsichtlich der im raumordnerischen
-Verfahren ermittelten und beschriebenen Auswirkungen auf die in § 1a
-genannten Schutzgüter von den Anforderungen der §§ 2a, 4 bis 4e, 11,
-11a und 20 Absatz 1a insoweit abgesehen werden, als diese
-Verfahrensschritte bereits im raumordnerischen Verfahren erfolgt sind.
 
 
 ### § 24 Vereinfachtes Verfahren

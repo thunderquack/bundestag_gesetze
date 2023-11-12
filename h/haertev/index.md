@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 1449
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.3.2001 I 390
+:   Art. 2 V v. 15.7.2022 I 1162
 
 
 ## Eingangsformel
@@ -67,8 +67,8 @@ dient.
 
 (3) Als Internat oder einem Internat gleichgestellt gelten nur
 Wohnheime, die nach landesrechtlichen Vorschriften der Schulaufsicht
-oder gemäß § 78 des Gesetzes für Jugendwohlfahrt der Aufsicht des
-Landesjugendamtes unterstehen.
+oder nach § 45 des Achten Buches Sozialgesetzbuch der
+Betriebserlaubnispflicht unterliegen.
 
 
 ## § 7 Leistung bei Internatsunterbringung

@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1185
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.12.2019 I 2637
-
-Änderung durch
-:   Art. 16 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 19.6.2023 I Nr. 154
 
 
 ## Übersicht
@@ -37,14 +28,7 @@ Zuletzt geändert durch
 
     *   Übergangsvorschriften
 
-    *   §§ 1-26j
-
-
-*    *
-    *
-    *   Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
-
-    *   §§ 26k-26l
+    *   §§ 1-26m
 
 
 *    *   2.
@@ -922,6 +906,43 @@ aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen
 des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil
 sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
 vorgesehenen Ende wahrgenommen werden.
+
+
+### § 26m Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+
+(1) § 37 Absatz 2 Satz 1, § 76 Absatz 3 Satz 3, § 81 Absatz 3 Satz 1
+und § 265 Absatz 2 Satz 2 des Aktiengesetzes in der ab dem 1. August
+2022 geltenden Fassung sind erstmals ab dem 1. August 2023 anzuwenden.
+
+(2) § 233 Absatz 2 Satz 2 und 4 und § 256 Absatz 6 Satz 1 des
+Aktiengesetzes in der ab dem 1. August 2022 geltenden Fassung sind
+erstmals auf Jahresabschlüsse für das nach dem 31. Dezember 2021
+beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten
+Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung
+sind letztmals anzuwenden auf Jahresabschlüsse für das vor dem 1.
+Januar 2022 beginnende Geschäftsjahr.
+
+
+### § 26n Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+
+(1) Für Hauptversammlungen, die bis einschließlich 31. August 2023
+einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats
+entscheiden, dass die Versammlung als virtuelle Hauptversammlung nach
+§ 118a des Aktiengesetzes abgehalten wird.
+
+(2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4
+des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind
+erstmals auf Hauptversammlungen anzuwenden, die ab dem 27. Juli 2022
+einberufen werden.
+
+
+### § 26o Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+§ 170 Absatz 1 Satz 3, § 171 Absatz 1 Satz 4 und § 283 Nummer 11a des
+Aktiengesetzes in der jeweils ab dem 22. Juni 2023 geltenden Fassung
+sind erstmals auf Ertragsteuerinformationsberichte und Erklärungen
+nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem
+21\. Juni 2024 beginnendes Geschäftsjahr anzuwenden.
 
 
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform

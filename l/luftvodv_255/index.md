@@ -1,6 +1,6 @@
 ---
 Title: Zweihundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Meldepunkten, Streckenführungen und Reiseflughöhen für Flüge nach
+  (Festlegung von Streckenführungen, Meldepunkten und Reiseflughöhen für Flüge nach
   Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
 jurabk: LuftVODV 255
 layout: default
@@ -9,7 +9,7 @@ slug: luftvodv_255
 
 ---
 
-# Zweihundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Meldepunkten, Streckenführungen und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) (LuftVODV 255)
+# Zweihundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenführungen, Meldepunkten und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) (LuftVODV 255)
 
 Ausfertigungsdatum
 :   2016-06-22

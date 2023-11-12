@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 38
 
 Zuletzt geändert durch
-:   Art. 105 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 13.10.2021 I 4676 (Nr. 73) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 13.10.2021 I 4676
 
 [^fn772806_01_BJNR003800010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein

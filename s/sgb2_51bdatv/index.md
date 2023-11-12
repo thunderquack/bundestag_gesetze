@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1150
 
 Zuletzt geändert durch
-:   Art. 39 G v. 20.12.2011 I 2854
+:   Art. 12 Abs. 1 G v. 16.12.2022 I 2328
 
 
 ## Eingangsformel
@@ -85,11 +85,11 @@ Arbeitsuchende ergebenden Daten über:
     Bedarfsgemeinschaft sowie die Art, Größe, Alter und Ausstattung der
     Unterkunft; Beginn, Ende und Art der Leistungen nach § 16a Nummer 1
     bis 4 des Zweiten Buches Sozialgesetzbuch; Angaben zu Grund, Art und
-    Umfang von Sanktionen nach den §§ 31 bis 32 des Zweiten Buches
-    Sozialgesetzbuch sowie von Leistungen nach § 16b des Zweiten Buches
-    Sozialgesetzbuch und Anreizen nach § 11b Absatz 3 des Zweiten Buches
-    Sozialgesetzbuch; Beendigung der Hilfe auf Grund der Einstellung der
-    Leistungen;
+    Umfang von Leistungsminderungen nach den §§ 31 bis 32 des Zweiten
+    Buches Sozialgesetzbuch sowie von Leistungen nach § 16b des Zweiten
+    Buches Sozialgesetzbuch und Anreizen nach § 11b Absatz 3 des Zweiten
+    Buches Sozialgesetzbuch; Beendigung der Hilfe auf Grund der
+    Einstellung der Leistungen;
 
 
 3.  Art und Höhe der angerechneten Einkommen der Leistungsberechtigten;
@@ -108,8 +108,8 @@ Arbeitsuchende ergebenden Daten über:
     Erwerbstätigkeit; Arbeitsuche und Arbeitslosigkeit nach den §§ 137 bis
     144 des Dritten Buches Sozialgesetzbuch sowie Phasen der
     Nichtarbeitsuche; Angaben zur Anwendung von § 65 Absatz 4 des Zweiten
-    Buches Sozialgesetzbuch; Beginn und Ende der abgeschlossenen
-    Eingliederungsvereinbarung.
+    Buches Sozialgesetzbuch; Beginn und Ende des erstellten
+    Kooperationsplans.
 
 
 

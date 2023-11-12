@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2312
 
 Zuletzt geändert durch
-:   Art. 79 V v. 19.6.2020 I 1328
+:   Art. 4 V v. 30.10.2023 I Nr. 290
 
 
 ## § 1 Anwendungsbereich

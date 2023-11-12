@@ -19,10 +19,7 @@ Fundstelle
 :   BGBl I: 2007, 1462
 
 Zuletzt geändert durch
-:   Art. 360 Abs. 1 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 8.11.2021 I 4899 (Nr. 78) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 2.3.2023 I Nr. 56
 
 
 1)  Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des
@@ -429,8 +426,8 @@ erforderlich ist:
     und der Landeskriminalämter,
 
 
-4.  das Bundesamt für Güterverkehr, das Bundesamt für Wirtschaft und
-    Ausfuhrkontrolle (BAFA), das Bundesamt für Verbraucherschutz und
+4.  das Bundesamt für Logistik und Mobilität, das Bundesamt für Wirtschaft
+    und Ausfuhrkontrolle (BAFA), das Bundesamt für Verbraucherschutz und
     Lebensmittelsicherheit, die Bundesanstalt für Landwirtschaft und
     Ernährung und das Auswärtige Amt.
 
@@ -541,9 +538,9 @@ Verwertung oder Beseitigung gemäß Artikel 50 Absatz 2 und 3 bis 4d der
 Verordnung (EG) Nr. 1013/2006 und auf der Grundlage von nach § 11a
 erstellten Kontrollplänen. Bei der Kontrolle von Verbringungen von
 Abfällen wirken die vom Bundesministerium der Finanzen bestimmten
-Zollbehörden sowie das Bundesamt für Güterverkehr im Rahmen ihrer
-bestehenden Aufgaben mit. Die Zollbehörden und das Bundesamt für
-Güterverkehr arbeiten im Rahmen ihrer Möglichkeiten mit den
+Zollbehörden sowie das Bundesamt für Logistik und Mobilität im Rahmen
+ihrer bestehenden Aufgaben mit. Die Zollbehörden und das Bundesamt für
+Logistik und Mobilität arbeiten im Rahmen ihrer Möglichkeiten mit den
 zuständigen Landesbehörden zusammen.
 
 (3) Besteht der Verdacht eines Verstoßes gegen Bestimmungen der
@@ -566,8 +563,8 @@ zuständig ist, in dem die Kontrolle durchgeführt wurde, sowie
 
 
 unverzüglich schriftlich oder elektronisch über den Verdacht und die
-Gründe dafür. Dies gilt nicht, falls das Bundesamt für Güterverkehr
-den alleinigen Verdacht eines Verstoßes gegen die
+Gründe dafür. Dies gilt nicht, falls das Bundesamt für Logistik und
+Mobilität den alleinigen Verdacht eines Verstoßes gegen die
 Kennzeichnungspflicht gemäß § 10 Absatz 1 Satz 1 hat und entweder für
 dessen Verfolgung nach § 18 Absatz 5 zuständig ist oder den Vorgang an
 die zuständige Behörde des jeweiligen Landes abgibt.
@@ -635,10 +632,11 @@ Verordnung (EG) Nr. 1013/2006.
 
 
 2.  führen die Länder das Einvernehmen mit den zuständigen Zollbehörden
-    und dem Bundesamt für Güterverkehr herbei bezüglich der Inhalte der
-    Kontrollpläne, die die Zollbehörden und das Bundesamt für Güterverkehr
-    betreffen; die Generalzolldirektion und das Bundesamt für Güterverkehr
-    teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
+    und dem Bundesamt für Logistik und Mobilität herbei bezüglich der
+    Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für
+    Logistik und Mobilität betreffen; die Generalzolldirektion und das
+    Bundesamt für Logistik und Mobilität teilen den Ländern hierfür die
+    jeweiligen Kontaktstellen mit.
 
 
 
@@ -809,14 +807,14 @@ Nr. 1013/2006.
 (2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 Satz 1 der
 Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission
 ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder,
-die Generalzolldirektion und das Bundesamt für Güterverkehr dem
-Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen,
-die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG)
-Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt veröffentlicht
-den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG) Nr. 1013/2006
-genannten Abschnitt dieses Berichts zusammen mit zweckmäßigen
-Erläuterungen dazu innerhalb eines Monats nach der Übermittlung dieses
-Berichts an die Kommission auf seiner Webseite.
+die Generalzolldirektion und das Bundesamt für Logistik und Mobilität
+dem Umweltbundesamt rechtzeitig auf elektronischem Weg die
+Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der
+Verordnung (EG) Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt
+veröffentlicht den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG)
+Nr. 1013/2006 genannten Abschnitt dieses Berichts zusammen mit
+zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der
+Übermittlung dieses Berichts an die Kommission auf seiner Webseite.
 
 
 ## § 17 Zollstellen
@@ -963,11 +961,11 @@ Geldbuße bis zu zwanzigtausend Euro und in den übrigen Fällen mit
 einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr bei
-Transporten von Abfällen auf der Straße, soweit die Zuwiderhandlung in
-einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch
-eine geschäftliche Niederlassung hat, und soweit die betroffene Person
-im Inland keinen Wohnsitz hat.
+über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität
+bei Transporten von Abfällen auf der Straße, soweit die
+Zuwiderhandlung in einem Unternehmen begangen wird, das im Inland
+weder seinen Sitz noch eine geschäftliche Niederlassung hat, und
+soweit die betroffene Person im Inland keinen Wohnsitz hat.
 
 (6) Soweit dies zur Durchsetzung der Rechtsakte der Europäischen
 Gemeinschaft oder der Europäischen Union erforderlich ist, wird das

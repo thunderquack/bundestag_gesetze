@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1990, 889
 
 Zuletzt angepasst durch
-:   Art. 17 G v. 12.7.2021 I 3091
+:   § 11 V v. 15.8.2022 I 1401
 
 
 ## Eingangsformel

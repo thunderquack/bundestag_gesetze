@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3518;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 27.7.2021 I 3146
+:   Art. 11 G v. 2.3.2023 I Nr. 56
 
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April
 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und
@@ -2882,10 +2882,10 @@ der Wirtschaftsakteur die Informationen der zuständigen Behörde zu
 (1) Der Genehmigung bedürfen
 
 1.  die Errichtung und der Betrieb von Lagern, in denen
-    explosionsgefährliche Stoffe zu gewerblichen Zwecken im Rahmen einer
-    wirtschaftlichen Unternehmung oder eines land- oder
-    forstwirtschaftlichen Betriebes oder bei der Beschäftigung von
-    Arbeitnehmern aufbewahrt werden sollen,
+    explosionsgefährliche Stoffe zu gewerblichen Zwecken
+    ,                    im Rahmen einer wirtschaftlichen Unternehmung
+    oder eines land- oder forstwirtschaftlichen Betriebes oder bei der
+    Beschäftigung von Arbeitnehmern aufbewahrt werden sollen,
 
 
 2.  die wesentliche Änderung der Beschaffenheit oder des Betriebes solcher
@@ -4144,7 +4144,8 @@ von einem Unternehmen begangen, das im Geltungsbereich des Gesetzes
 weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat
 auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz,
 so ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
+Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und
+Mobilität.
 
 
 ### § 42 Strafbare Verletzung von Schutzvorschriften

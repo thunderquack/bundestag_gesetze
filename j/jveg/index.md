@@ -1564,7 +1564,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
     *   2.
 
     *   zur Verlängerung einer Betreuung oder zur Überprüfung eines
-        angeordneten Einwilligungsvorbehalts nach § 1903 des Bürgerlichen
+        angeordneten Einwilligungsvorbehalts nach § 1825 des Bürgerlichen
         Gesetzbuchs,
 
     *
@@ -1630,7 +1630,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
     *   6.
 
     *   zur Einrichtung oder Aufhebung einer Betreuung oder zur Anordnung oder
-        Aufhebung eines Einwilligungsvorbehalts nach § 1903 des Bürgerlichen
+        Aufhebung eines Einwilligungsvorbehalts nach § 1825 des Bürgerlichen
         Gesetzbuchs,
 
     *
@@ -1759,7 +1759,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 *    *
     *   13.
 
-    *   in Verfahren nach den §§ 1904 und 1905 des Bürgerlichen Gesetzbuchs,
+    *   in Verfahren nach den §§ 1829 und 1830 des Bürgerlichen Gesetzbuchs,
 
     *
 

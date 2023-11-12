@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2021
 
-Geändert durch
-:   Art. 7 V v. 22.7.2021 I 3552
+Zuletzt geändert durch
+:   Art. 7 V v. 15.12.2022 I 2862
 
 
 ## Eingangsformel
@@ -54,7 +54,7 @@ Verwaltung und Cyber-Sicherheit“.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -477,7 +477,7 @@ Mitglieder der Auswahlkommission können auch vergleichbare Angestellte
 sein. Mindestens ein Mitglied der Auswahlkommission soll haupt- oder
 nebenamtliche Lehrkraft der Hochschule sein.
 
-(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission –
+(2a) Bis zum 31. Dezember 2024 kann eine Auswahlkommission –
 abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern
 bestehen:
 
@@ -640,10 +640,6 @@ Weitere Auswahlinstrumente können sein:
 
 
 
-(4) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen
-Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete
-technische Einrichtungen zur Verfügung stehen.
-
 
 ### § 19 Bestehen des mündlichen Teils
 
@@ -692,7 +688,7 @@ Auswahlverfahren ausgeschlossen.
 (2) Das Studium umfasst 24 Monate Fachstudien an der Hochschule und
 zwölf Monate berufspraktische Studienzeiten.
 
-(2a) Bis zum 31. Dezember 2022 können in den Fachstudien und den
+(2a) Bis zum 31. Dezember 2024 können in den Fachstudien und den
 berufspraktischen Studienzeiten für einzelne oder alle
 Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
@@ -755,7 +751,7 @@ Studienabschnitte verteilen sich wie folgt auf die Semester:
 
 
 
-(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  die Studienabschnitte – abweichend von Absatz 3 – anders gegliedert
     werden und
@@ -1362,7 +1358,7 @@ wird das arithmetische Mittel der beiden Bewertungen gebildet.
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung auch
 studiengangbegleitend durchgeführt werden.
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass

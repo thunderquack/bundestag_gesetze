@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 768
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.9.2021 I 4355
+:   Art. 3 G v. 20.12.2022 I 2793
 
 
 ## Eingangsformel
@@ -298,13 +298,13 @@ Umsetzung gleichermaßen umgesetzt werden. In seinem Antrag legt der
 Hersteller die Abweichung von den Vorgaben der Anlage 1 dar und
 begründet diese.
 
-(7) Ab dem 1. Januar 2023 müssen digitale Gesundheitsanwendungen
+(7) Ab dem 1. Januar 2025 müssen digitale Gesundheitsanwendungen
 abweichend von den Anforderungen an die Datensicherheit nach Absatz 6
 die von dem Bundesamt für Sicherheit in der Informationstechnik nach
 § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch festgelegten
 Anforderungen an die Datensicherheit erfüllen.
 
-(8) Ab dem 1. April 2023 müssen digitale Gesundheitsanwendungen,
+(8) Ab dem 1. August 2024 müssen digitale Gesundheitsanwendungen,
 abweichend von den Anforderungen an den Datenschutz nach Absatz 6, die
 von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach
 § 139e Absatz 11 des Fünften Buches Sozialgesetzbuch festgelegten
@@ -402,7 +402,7 @@ Verzeichnis veröffentlichen.
 
 ### § 6a Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte
 
-(1) Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2023 so zu
+(1) Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2024 so zu
 gestalten, dass die von der digitalen Gesundheitsanwendung
 verarbeiteten Daten mit Einwilligung des Versicherten in die
 elektronische Patientenakte des Versicherten nach § 341 des Fünften
@@ -412,7 +412,7 @@ Gesellschaft für Telematik nach § 354 Absatz 2 Nummer 6 des Fünften
 Buches Sozialgesetzbuch für den Datenaustausch festgelegte
 Schnittstelle verfügen.
 
-(2) Ab dem 1. Januar 2023 ermöglichen digitale Gesundheitsanwendungen
+(2) Ab dem 1. Januar 2024 ermöglichen digitale Gesundheitsanwendungen
 den Datenexport in die elektronische Patientenakte gemäß einer
 Festlegung für die semantische und syntaktische Interoperabilität von
 Daten der elektronischen Patientenakte nach § 355 Absatz 2a des
@@ -461,7 +461,7 @@ Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis
 der Erfüllung der Anforderungen an die Informationssicherheit
 spätestens ab dem 1. April 2022 zudem die Vorlage eines geeigneten
 Zertifikats oder Nachweises über ein Informationssicherheitsmanagement
-verlangen. Ab dem 1. Januar 2023 ist die Erfüllung der Anforderungen
+verlangen. Ab dem 1. Januar 2024 ist die Erfüllung der Anforderungen
 an die Datensicherheit durch ein Zertifikat des Bundesamts für
 Sicherheit in der Informationstechnik nach § 139e Absatz 10 des
 Fünften Buches Sozialgesetzbuch nachzuweisen. Die Verpflichtung nach
@@ -476,7 +476,7 @@ Buches Sozialgesetzbuch zu erbringen.
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum
 Nachweis der Erfüllung der Anforderungen an den Datenschutz spätestens
-ab dem 1. April 2023 die Vorlage eines Zertifikats nach § 139e Absatz
+ab dem 1. August 2024 die Vorlage eines Zertifikats nach § 139e Absatz
 11 Satz 2 des Fünften Buches Sozialgesetzbuch verlangen. Die
 Verpflichtung nach Satz 1 gilt sowohl für Hersteller digitaler
 Gesundheitsanwendungen, deren digitale Gesundheitsanwendung bereits in
@@ -2358,7 +2358,7 @@ Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
     *   Authentisierung
 
     *   Kann die digitale Gesundheitsanwendung bis spätestens zum 1. Januar
-        2023 eine Authentisierung von GKV-Versicherten als die die digitale
+        2024 eine Authentisierung von GKV-Versicherten als die die digitale
         Gesundheitsanwendung nutzenden Personen über die sichere digitale
         Identität nach § 291 Absatz 8 des Fünften Buches Sozialgesetzbuch
         unterstützen?
@@ -3049,7 +3049,7 @@ genannte Begründung zutrifft, in der Spalte „nicht zutreffend“.
     *   § 5 Absatz 1 und § 6
 
     *   Ja, die digitale Gesundheitsanwendung ist in der Lage, Daten aus vom
-        Versicherten genutzten Medizingeräten der vom Versicherten getragenen
+        Versicherten genutzten Medizingeräten oder vom Versicherten getragenen
         Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) zu
         erfassen, und unterstützt hierzu ein offengelegtes und dokumentiertes
         Profil des ISO/IEEE 11073 Standards. Sofern ein solches geeignetes
@@ -3119,7 +3119,7 @@ genannte Begründung zutrifft, in der Spalte „nicht zutreffend“.
     *   § 6a
 
     *   Ja, die digitale Gesundheitsanwendung ermöglicht es dem Versicherten
-        ab dem 1. Januar 2023, die von der digitalen Gesundheitsanwendung
+        ab dem 1. Januar 2024, die von der digitalen Gesundheitsanwendung
         verarbeiteten Daten mit seiner Einwilligung jederzeit in seine
         elektronische Patientenakte zu übermitteln. Zudem bietet die digitale
         Gesundheitsanwendung dem Nutzer die Möglichkeit einer regelmäßigen,

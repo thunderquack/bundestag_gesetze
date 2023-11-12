@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 1670
 
-Stand: Zuletzt geändert Art. 4 V v. 15.9.2020 II 699
+Stand: Zuletzt geändert Art. 4 V v. 16.2.2022 II 82
 Änderung durch
-:   Art. 5 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
+:   Art. 4 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -84,10 +81,6 @@ jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
 
-## Art 1a (weggefallen)
-
-
-
 ## Art 1a Vorschriften über die Schiffsuntersuchung
 
 § 1.08 Nummer 3 Satzteil vor Buchstabe a und Buchstabe a, § 1.10
@@ -112,11 +105,32 @@ Schiffahrtspolizeibehörde. Diese kann die Regelung örtlicher
 Verhältnisse ihren nachgeordneten Stellen übertragen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
-ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der
-Moselkommission nach § 1.22a der Anlage durch Rechtsverordnung in
-dringenden Fällen oder zu Versuchszwecken eine von der Anlage
-abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu
-treffen.
+ermächtigt, durch Rechtsverordnung
+
+1.  zur Umsetzung einer Anordnung der Moselkommission nach § 1.22a der
+    Anlage
+
+    a)  in dringenden Fällen oder
+
+
+    b)  zu Versuchszwecken oder zur Zulassung einer technischen Neuerung,
+        durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs
+        nicht beeinträchtigt werden,
+
+
+
+    eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer
+    von drei Jahren zu treffen oder
+
+
+2.  für öffentliche Zwecke Ausnahmen von § 10.02 Nummer 3 der Anlage zu
+    bestimmen.
+
+
+
+Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer
+Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann
+diese durch Verwaltungsakt zugelassen werden.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der
 Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der
@@ -196,15 +210,14 @@ oder fahrlässig
     geeignet zu sein,
 
 
+1a. entgegen § 1.03 Nummer 1 Satz 1 einer Anweisung nicht Folge leistet,
+
+
 2.  entgegen § 1.03 Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
 
 
-3.  entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die
-    Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Menge von
-    0,25 mg/l oder mehr Alkohol in der Atemluft oder eine
-    Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
-    Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration
-    führt, im Körper befindet,
+3.  entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3, Dienst
+    verrichtet,
 
 
 3a. entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine
@@ -220,6 +233,10 @@ oder fahrlässig
     oder Informationen zu geben oder zu empfangen,
 
 
+4a. entgegen § 1.10a Nummer 1 Satz 5 dort genannte Schiffspapiere nicht
+    aufbewahrt,
+
+
 5.  entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen
     benutzt, beschädigt oder unbrauchbar macht,
 
@@ -230,6 +247,10 @@ oder fahrlässig
 
 7.  entgegen § 1.16 Nr. 3 Satz 1 nicht die dort genannten Feststellungen
     ermöglicht,
+
+
+7a. entgegen § 1.17 Nummer 2 Satz 2 nicht an Bord oder nicht in der Nähe
+    der Unfallstelle bleibt,
 
 
 8.  ohne Erlaubnis nach § 1.23 eine dort genannte Veranstaltung, Arbeit
@@ -526,12 +547,8 @@ oder fahrlässig als Schiffsführer
     führt, im Körper hat,
 
 
-4.  anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2 jemand
-    vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs
-    bestimmt, obwohl er eine Menge von 0,25 mg/l oder mehr Alkohol in der
-    Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille
-    oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder
-    Blutalkoholkonzentration führt,
+4.  anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in
+    Verbindung mit Satz 2, Dienst verrichtet wird,
 
 
 5.  entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln
@@ -581,14 +598,13 @@ oder fahrlässig als Schiffsführer
     vorgeschriebenen Person besetzt ist,
 
 
-9.  nicht sicherstellt, daß die in § 1.10 Nr. 1 oder 3 Satz 2 genannten
-    Urkunden oder sonstigen Unterlagen an Bord mitgeführt werden, oder
-    entgegen § 1.10 Nr. 4 eine Urkunde oder sonstige Unterlage nicht oder
-    nicht rechtzeitig aushändigt,
+9.  entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    aushändigt,
 
 
-10. ein Fahrzeug führt, auf dem sich entgegen § 1.11 ein Abdruck der dort
-    genannten Verordnungen nicht an Bord befindet,
+10. entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord
+    mitführt,
 
 
 11. ein Fahrzeug, einen Schwimmkörper oder eine schwimmende Anlage führt,
@@ -612,8 +628,7 @@ oder fahrlässig als Schiffsführer
     Hilfe leistet,
 
 
-15. entgegen § 1.17 Nr. 2 Satz 2 nicht an Bord oder in der Nähe der
-    Unfallstelle bleibt,
+15. (weggefallen)
 
 
 16. entgegen § 1.17 Nr. 3 nicht oder nicht rechtzeitig für eine Wahrschau
@@ -652,8 +667,8 @@ oder fahrlässig als Schiffsführer
     gekennzeichnet ist,
 
 
-25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter
-    Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
+25. einer Vorschrift des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz
+    zuwiderhandelt,
 
 
 26. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31
@@ -706,17 +721,21 @@ oder fahrlässig als Schiffsführer
 
 29b. ein Fahrzeug führt,
 
-    a)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
-        ausgestattet ist
+    a)  das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem
+        Inland AIS Gerät oder einer dort genannten Sprechfunkanlage
+        ausgerüstet ist,
 
 
-    b)  das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht
-        mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist
-        oder
+    b)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Gerät ausgestattet ist,
 
 
-    c)  das entgegen § 4.07 Nummer 8 nicht mit einer dort genannten
-        Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+    c)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
+        den dort genannten Bestimmungen entspricht oder
+
+
+    d)  das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland
+        AIS Gerät verwendet,
 
 
 
@@ -872,21 +891,6 @@ oder fahrlässig als Schiffsführer
 (5) Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
 der Moselschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich
-oder fahrlässig als Mitglied der Besatzung
-
-1.  entgegen § 1.03 Nr. 1 Satz 1 einer Anweisung des Schiffsführers nicht
-    Folge leistet oder
-
-
-2.  entgegen § 1.17 Nr. 2 Satz 2 nicht an Bord oder in der Nähe der
-    Unfallstelle bleibt.
-
-
-
-
-(6) Ordnungswidrig im Sinne des § 7 Abs. 1 des
-Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
-der Moselschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich
 oder fahrlässig als Eigentümer oder Ausrüster
 
 1.  anordnet oder zuläßt, daß
@@ -912,10 +916,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
     an Bord vorhanden sind,
 
 
-2.  nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder
-    sonstigen Unterlagen sich an Bord befinden oder die in § 1.10 Nr. 3
-    Satz 1 zweiter Halbsatz genannten Schiffspapiere im Bereich der
-    Baustelle verfügbar sind,
+2.  (weggefallen)
 
 
 3.  ohne Erlaubnis nach § 1.21 Nr. 1 Satz 2 einen Sondertransport
@@ -993,66 +994,75 @@ oder fahrlässig als Eigentümer oder Ausrüster
     f)  das entgegen § 1.07 Nr. 5 mehr Fahrgäste als zugelassen an Bord hat,
 
 
-    g)  das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der
+    g)  auf dem entgegen § 1.10a Nummer 2 Satz 2 eine dort genannte
+        Bescheinigung nicht an Bord mitgeführt wird,
+
+
+    h)  das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der
         vorgeschriebenen Weise gekennzeichnet ist,
 
 
-    h)  das entgegen § 2.03 nicht geeicht ist,
+    i)  das entgegen § 2.03 nicht geeicht ist,
 
 
-    i)  an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen §
+    j)  an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen §
         2\.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
 
 
-    j)  dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
+    k)  dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 
-    k)  dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar
-        sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder
-        entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften
-        entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter
-        Halbsatz nicht die vorgeschriebene Tragweite hat,
+    l)  dessen Lichter oder Signalleuchten nicht den Vorschriften des § 3.02
+        Nummer 1 bis 3 oder 4 zweiter Halbsatz entsprechen,
 
 
-    l)  das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen
+    m)  das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen
         Schallgerät ausgerüstet ist,
 
 
-    m)  das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in
+    n)  das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in
         Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet
         ist,
 
 
-    n)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
+    o)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
         ausgestattet ist,
 
 
-    o)  das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht
-        mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist,
+    p)  das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem
+        Inland AIS Gerät oder einer dort genannten Sprechfunkanlage
+        ausgerüstet ist,
 
 
-    p)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
-        einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
-        ist,
+    q)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Gerät ausgestattet ist,
 
 
-    q)  das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
+    r)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
+        den dort genannten Bestimmungen entspricht oder
+
+
+    s)  das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland
+        AIS Gerät verwendet,
+
+
+    t)  das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
         Maschinenleistung nicht verfügt,
 
 
-    r)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
+    u)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
         Fortbewegung gekuppelter Fahrzeuge verwendet wird,
 
 
-    s)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
+    v)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
         befindet,
 
 
-    t)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
+    w)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
         geschleppt wird oder
 
 
-    u)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
+    x)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
         überschreitet,
 
 

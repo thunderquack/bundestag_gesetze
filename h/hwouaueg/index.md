@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 596, 604
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.2.2020 I 142
-
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.6.2021 I 1654
 
 
 ## § 1

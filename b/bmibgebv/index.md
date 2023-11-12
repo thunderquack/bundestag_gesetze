@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1359
 
-Änderung durch
-:   Art. 2 V v. 11.2.2021 I 204 (Nr. 6) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 10.9.2021 I 4429 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 10.9.2021 I 4229
 
 
 ## Eingangsformel

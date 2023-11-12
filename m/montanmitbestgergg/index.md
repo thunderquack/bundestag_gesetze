@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1956, 707
 
 Zuletzt geändert durch
-:   Art. 26 Abs. 3 G v. 3.6.2021 I 1534
-
-Änderung durch
-:   Art. 15 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 7.8.2021 I 3311
 
 
 ## Art 1 - Mitbestimmung in herrschenden Unternehmen

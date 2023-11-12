@@ -35,12 +35,23 @@ Regelungen der Zivilprozessordnung über die elektronische Aktenführung
 entsprechend.
 
 
-## § 3 Vernichtung von Schriftstücken
+## § 3 Übertragung und Vernichtung von Schriftstücken
 
-Werden Schriftstücke oder sonstige Unterlagen in ein elektronisches
-Dokument übertragen, so dürfen sie nicht vernichtet werden, wenn in
-Betracht kommt, über ihr Vorhandensein oder ihre Beschaffenheit Beweis
-zu erheben.
+(1) Soweit das Deutsche Patent- und Markenamt Akten elektronisch
+führt, soll es an Stelle von Papierdokumenten deren elektronische
+Wiedergabe in der elektronischen Akte aufbewahren. Bei der Übertragung
+der Papierdokumente in elektronische Dokumente ist nach dem Stand der
+Technik sicherzustellen, dass die elektronischen Dokumente mit den
+Papierdokumenten bildlich und inhaltlich übereinstimmen, wenn sie
+lesbar gemacht werden. Von der Übertragung der Papierdokumente in
+elektronische Dokumente kann abgesehen werden, wenn die Übertragung
+unverhältnismäßigen technischen Aufwand erfordert.
+
+(2) Die Papierdokumente sollen nach der Übertragung in elektronische
+Dokumente vernichtet werden. Dies gilt nicht, soweit die Dokumente aus
+rechtlichen Gründen, insbesondere auch zu Beweiszwecken, zurückzugeben
+oder zur Qualitätssicherung des Übertragungsvorgangs aufzubewahren
+sind.
 
 
 ## § 4 Überblick über Aktenbestandteile

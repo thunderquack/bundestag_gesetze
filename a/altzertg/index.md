@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1310, 1322
 
 Zuletzt geändert durch
-:   Art. 5 G v. 9.6.2021 I 1666
+:   Art. 5 G v. 25.10.2023 I Nr. 294
 
 
 ## § 1 Begriffsbestimmungen zum Altersvorsorgevertrag
@@ -545,7 +545,7 @@ Von Satz 1 bleiben unberührt
 
 2.  bei Altersvorsorgeverträgen in Form eines Darlehens und bei
     Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 die
-    Kosten und die Gebühren nach § 6 Absatz 4 der Preisangabenverordnung
+    Kosten und die Gebühren nach § 16 Absatz 4 der Preisangabenverordnung
     sowie
 
 
@@ -732,8 +732,8 @@ Produktinformationsblatt muss folgende Angaben enthalten:
 8.  bei Altersvorsorgeverträgen in Form eines Darlehens und bei
     Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die die
     Angabe des Nettodarlehensbetrags, der Gesamtkosten, ausgedrückt als
-    jährlicher Prozentsatz des Nettodarlehensbetrags nach § 6 Absatz 1 der
-    Preisangabenverordnung, und des Gesamtdarlehensbetrags;
+    jährlicher Prozentsatz des Nettodarlehensbetrags nach § 16 Absatz 1
+    der Preisangabenverordnung, und des Gesamtdarlehensbetrags;
 
 
 9.  eine Aufstellung der Kosten nach § 2a Satz 1 Nummer 1 Buchstabe a bis

@@ -16,40 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 6 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 5 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 Abs. 17 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 17 G v. 3.6.2021 I 1309 (Nr. 28) ist berücksichtigt
-
-Änderung durch
-:   Art. 16 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 17 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 38 G v. 23.6.2021 I 1858 (Nr. 35) ist berücksichtigt
-
-Änderung durch
-:   Art. 13 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 94 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 9 G v. 31.5.2023 I Nr. 140
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
@@ -649,6 +616,20 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     Rückversicherungsvertriebstätigkeiten.
 
 
+34c. Restschuldversicherung: eine Versicherung, die der Absicherung eines
+    Verbrauchers aus einem Vertrag über einen entgeltlichen
+    Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe
+    oder aus einem Vertrag über ein Teilzahlungsgeschäft oder der
+    Absicherung eines Darlehens- oder Leasingnehmers oder seiner
+    Hinterbliebenen für den Fall des Todes, der Krankheit, der
+    Arbeitslosigkeit, der Arbeitsunfähigkeit oder sonstiger Umstände, die
+    zu einem Leistungsausfall des Verbrauchers oder des Darlehens- oder
+    Leasingnehmers führen können, dient, und bei der die
+    Versicherungsleistung bestimmungsgemäß ganz oder teilweise auf die
+    Erfüllung der Ansprüche aus dem jeweiligen Vertragsverhältnis
+    gerichtet ist.
+
+
 35. Volatilitätsanpassung: Anpassung der maßgeblichen risikofreien
     Zinskurve, die von der Europäischen Aufsichtsbehörde für das
     Versicherungswesen und die betriebliche Altersversorgung gemäß Artikel
@@ -682,6 +663,29 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 
+### § 7a Unzuverlässigkeit von sanktionierten Personen
+
+Eine natürliche oder juristische Person oder eine Personengesellschaft
+gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
+Gemeinschaften oder der Europäischen Union veröffentlichten
+unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
+der Europäischen Union, der der Durchführung einer vom Rat der
+Europäischen Union im Bereich der Gemeinsamen Außen- und
+Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
+dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind
+oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche
+Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen.
+Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie
+als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer
+Position für eine Person oder Personengesellschaft nach Satz 1 tätig
+ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person
+gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen
+einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines
+Aufsichts- oder Verwaltungsrats oder eines vergleichbaren
+Kontrollgremiums in einem nach diesem Gesetz beaufsichtigten
+Unternehmen wahrnimmt, das nicht unter Satz 1 fällt.
+
+
 ## Teil 2 - Vorschriften für die Erstversicherung und die Rückversicherung
 
 
@@ -693,8 +697,8 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 ##### § 8 Erlaubnis; Spartentrennung
 
-(1) Versicherungsunternehmen bedürfen zum Geschäftsbetrieb der
-Erlaubnis der Aufsichtsbehörde.
+(1) Versicherungsunternehmen mit Sitz im Inland bedürfen zum
+Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde.
 
 (2) Die Erlaubnis darf nur Aktiengesellschaften einschließlich der
 Europäischen Gesellschaft, Versicherungsvereinen auf Gegenseitigkeit
@@ -717,6 +721,11 @@ bekannt und meldet sie der Europäischen Aufsichtsbehörde für das
 Versicherungswesen und die betriebliche Altersversorgung. Ist ein
 gemäß § 221 sicherungspflichtiges Versicherungsunternehmen betroffen,
 informiert sie zusätzlich den Sicherungsfonds.
+
+(6) Ein Versicherungsunternehmen bedarf der Erlaubnis nach Absatz 1
+auch dann, wenn es im Zuge einer Umwandlung nach § 305, § 320 oder §
+333 des Umwandlungsgesetzes seinen Sitz vom Ausland ins Inland
+verlegt.
 
 
 ##### § 9 Antrag
@@ -1217,10 +1226,12 @@ Mitteilung auf das Kündigungsrecht hinzuweisen.
 
 ##### § 14 Umwandlungen
 
-(1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1
-und 122a des Umwandlungsgesetzes bedarf der Genehmigung der
+(1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1,
+305, 320 und 333 des Umwandlungsgesetzes bedarf der Genehmigung der
 Aufsichtsbehörde. § 13 Absatz 1 Satz 2 und Absatz 2, 4 und 5 ist
-entsprechend anzuwenden.
+entsprechend anzuwenden. Verlegt im Zuge einer Umwandlung nach Satz 1
+das Versicherungsunternehmen seinen Sitz ins Ausland, erlischt die
+Erlaubnis.
 
 (2) Die Aufsichtsbehörde kann die Genehmigung auch versagen, wenn die
 Vorschriften über die Umwandlung nicht beachtet worden sind.
@@ -1597,7 +1608,11 @@ Für die Kosten, die durch die Bestellung des Treuhänders entstehen,
 und für die diesem zu gewährenden Auslagen und die Vergütung haften
 das Versicherungsunternehmen und der betroffene Inhaber einer
 bedeutenden Beteiligung als Gesamtschuldner. Der Bund schießt die
-Auslagen und die Vergütung vor.
+Auslagen und die Vergütung vor. Bei fahrlässigem Handeln beschränkt
+sich die Ersatzpflicht des Treuhänders auf 1 Million Euro. Handelt es
+sich um eine Aktiengesellschaft, deren Aktien zum Handel im
+regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht
+auf 50 Millionen Euro.
 
 (3) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1 auch
 gegenüber einem die bedeutende Beteiligung vermittelnden Unternehmen
@@ -1754,7 +1769,8 @@ interne Kontrollsystem sind für Dritte nachvollziehbar zu
 dokumentieren. Die Dokumentation ist sechs Jahre aufzubewahren; § 257
 Absatz 3 und 5 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-(6) Die Unternehmen haben einen Prozess vorzusehen, der es den
+(6) Die Unternehmen haben einen Prozess gemäß dem
+Hinweisgeberschutzgesetz für interne Meldungen vorzusehen, der es den
 Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität
 ermöglicht, potenzielle oder tatsächliche Verstöße
 
@@ -1776,7 +1792,11 @@ ermöglicht, potenzielle oder tatsächliche Verstöße
     und des Rates vom 26. November 2014 über Basisinformationsblätter für
     verpackte Anlageprodukte für Kleinanleger und
     Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L
-    358 vom 13.12.2014, S. 50) in der jeweils geltenden Fassung
+    358 vom 13.12.2014, S. 50) in der jeweils geltenden Fassung,
+
+
+5.  gegen Vorschriften, bei denen auch eine Meldung an eine externe Stelle
+    im Sinne des Hinweisgeberschutzgesetzes in Betracht kommt,
 
 
 
@@ -3034,8 +3054,8 @@ Folgendes anzuzeigen:
     Geschäftsplans, jede Änderung des tatsächlichen Geschäftsgebietes,
     jede Änderung von Unternehmensverträgen der in den §§ 291 und 292 des
     Aktiengesetzes bezeichneten Art sowie die Absicht der Umwandlung nach
-    den §§ 1 und 122a des Umwandlungsgesetzes, soweit sie nicht der
-    Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
+    den § 1, § 305, § 320 oder § 333 des Umwandlungsgesetzes, soweit sie
+    nicht der Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
 
 
 5.  den Erwerb oder die Aufgabe einer bedeutenden Beteiligung an dem
@@ -3178,7 +3198,7 @@ Gewerbeordnung nicht der Erlaubnispflicht unterliegenden
 Versicherungsvermittler mitzuteilen und dessen Löschung aus dem
 Register zu veranlassen.
 
-(6) Die §§ 48a bis 50 gelten nicht für den Rückversicherungsvertrieb.
+(6) Die §§ 48a bis 50a gelten nicht für den Rückversicherungsvertrieb.
 Für den Rückversicherungsvertrieb im Zusammenhang mit Risiken, die
 nicht in einem Mitglied- oder Vertragsstaat belegen sind, gelten die
 §§ 48 und 51 nicht.
@@ -3343,17 +3363,22 @@ der Leistungen gemäß § 193 Absatz 6 Satz 4 des
 Versicherungsvertragsgesetzes oder einer Prämienfreistellung gemäß §
 165 Absatz 1 des Versicherungsvertragsgesetzes in den ersten fünf
 Jahren nach Vertragsschluss der Versicherungsvermittler die für die
-Vermittlung eines Vertrags der substitutiven Krankenversicherung oder
-der Lebensversicherung angefallene Provision nur bis zur Höhe des
-Betrags einbehält, der bei gleichmäßiger Verteilung der Provision über
-die ersten fünf Jahre seit Vertragsschluss bis zum Zeitpunkt der
-Beendigung, des Ruhendstellens oder der Prämienfreistellung angefallen
-wäre. Ist die vereinbarte Prämienzahlungsdauer kürzer als fünf Jahre,
-so kann diese zugrunde gelegt werden.
+Vermittlung eines Vertrags der substitutiven Krankenversicherung, der
+Lebensversicherung oder der Restschuldversicherung angefallene
+Provision nur bis zur Höhe des Betrags einbehält, der bei
+gleichmäßiger Verteilung der Provision über die ersten fünf Jahre seit
+Vertragsschluss bis zum Zeitpunkt der Beendigung, des Ruhendstellens
+oder der Prämienfreistellung angefallen wäre. Ist die vereinbarte
+Prämienzahlungsdauer kürzer als fünf Jahre, so kann diese zugrunde
+gelegt werden.
 
 (2) Eine entgegenstehende vertragliche Vereinbarung zwischen dem
 Versicherungsunternehmen und dem Versicherungsvermittler ist
 unwirksam.
+
+(3) Absatz 1 Satz 1 und Absatz 2 gelten im Fall des § 50a Absatz 2
+entsprechend mit der Maßgabe, dass auf die Kündigung durch die
+versicherte Person abzustellen ist.
 
 
 ##### § 50 Entgelt bei der Vermittlung substitutiver Krankenversicherungsverträge
@@ -3391,6 +3416,66 @@ Ersparnis der Aufwendungen geführt haben.
 (3) Eine den Vorgaben des Absatzes 1 Satz 2 bis 4 oder des Absatzes 2
 entgegenstehende Vereinbarung zwischen dem Versicherungsunternehmen
 und dem Versicherungsvermittler ist unwirksam.
+
+
+##### § 50a Entgelt bei der Vermittlung von Restschuldversicherungen
+
+(1) Gewährt ein Versicherungsunternehmen einem Versicherungsvermittler
+eine Abschlussprovision für den Abschluss einer
+Restschuldversicherung, darf die gewährte Vergütung 2,5 Prozent des
+durch die Restschuldversicherung abgesicherten Darlehensbetrages oder
+sonstigen Geldbetrages nicht übersteigen. Abschlussprovision im Sinne
+dieser Vorschrift sind sämtliche Vertriebsvergütungen im Sinne von § 7
+Nummer 34b, die an den Abschluss oder den Fortbestand eines Vertrages
+oder mehrerer Verträge oder einen sonstigen Erfolg zur Förderung des
+Abschlusses oder Fortbestands oder der Änderung eines oder mehrerer
+Verträge anknüpfen. Umfasst der Darlehensbetrag oder sonstige
+Geldbetrag einen Anteil für die Prämienzahlung, so bleibt dieser
+Anteil bei der Berechnung der Vergütung außer Betracht. Der Abschluss
+von mehr als einer Restschuldversicherung, die sich auf denselben
+Versicherungsnehmer bezieht und denselben Darlehensbetrag oder
+sonstigen Geldbetrag zum Gegenstand hat, ist unwirksam. Sofern der
+Abschluss mehrerer Verträge zur Einbindung verschiedener Risikoträger
+zur Absicherung verschiedener in § 7 Nummer 34c genannter Umstände
+oder mehrerer versicherter Personen aus mehreren einzelnen Verträgen
+erforderlich ist, gilt dies als Abschluss nur einer
+Restschuldversicherung.
+
+(2) Gewährt ein Versicherungsunternehmen einem Versicherungsnehmer
+eines Gruppenversicherungsvertrags für Restschuldversicherungen oder
+einem mit diesem Versicherungsnehmer verbundenen Unternehmen im Sinne
+des § 7 Nummer 30, dem Mutterunternehmen dieses Versicherungsnehmers
+oder einem Unternehmen, das Tochterunternehmen desselben
+Mutterunternehmens ist, eine Abschlussprovision für den Abschluss
+einer Restschuldversicherung, ist Absatz 1 entsprechend anwendbar.
+
+(3) Eine sonstige Vergütung für durch das Versicherungsunternehmen in
+Anspruch genommene Leistungen eines Versicherungsvermittlers, eines
+mit diesem Versicherungsvermittler verbundenen Unternehmens im Sinne
+des § 7 Nummer 30, des Mutterunternehmens dieses
+Versicherungsvermittlers, eines Unternehmens, das Tochterunternehmen
+desselben Mutterunternehmens ist, oder eines in Absatz 2 genannten
+Versicherungsnehmers oder Unternehmens oder sonstiger Dritter, ist nur
+zulässig, wenn das Versicherungsunternehmen keine Abschlussprovision
+im Sinne der Absätze 1 und 2 zahlt. Eine sonstige Vergütung nach Satz
+1 ist auf den Betrag zu begrenzen, den ein ordentlicher und
+gewissenhafter Geschäftsleiter unter Berücksichtigung der Belange der
+Versicherten mit einem nicht verbundenen Unternehmen vereinbaren
+würde. Erbringt das Versicherungsunternehmen auf Grund eines solchen
+Vertrags einen Vorschuss, gilt dieser als sonstige Vergütung. Eine
+Vergütung von Leistungen oder ein sonstiger geldwerter Vorteil darf
+nur dann gewährt werden, wenn die vereinbarten Leistungen bei dem
+Versicherungsunternehmen zu einer entsprechenden Ersparnis der
+Aufwendungen führen.
+
+(4) Absatz 1 gilt entsprechend, wenn ein Versicherungsunternehmen, ein
+in Absatz 2 genannter Versicherungsnehmer oder in Absatz 2 genanntes
+Unternehmen seinen Angestellten für von diesen vermittelte Verträge
+über Restschuldversicherungen Abschlussprovisionen gewährt. Die
+Vereinbarung einer Abschlussprovision oder einer sonstigen Vergütung
+im Sinne von Absatz 3 durch ein Versicherungsunternehmen bedarf der
+Schriftform. Die Vereinbarung ist unwirksam, soweit sie nicht den
+Vorgaben des Satzes 2 und der Absätze 1 bis 3 entspricht.
 
 
 ##### § 51 Beschwerden über Versicherungsvermittler
@@ -3842,8 +3927,8 @@ nach Satz 1 sind neben § 61 Absatz 1 und 2 entsprechend anzuwenden:
     Absatz 2 Satz 4;
 
 
-3.  von den Vorschriften über die Geschäftstätigkeit die §§ 48 bis 49 und
-    51 sowie für Unternehmen, die ihre Tätigkeit durch eine Niederlassung
+3.  von den Vorschriften über die Geschäftstätigkeit die §§ 48 bis 51
+    sowie für Unternehmen, die ihre Tätigkeit durch eine Niederlassung
     ausüben, außerdem § 15a Absatz 1, § 25 Absatz 6;
 
 
@@ -7725,16 +7810,20 @@ Bescheinigung der zuständigen Behörde des anderen Mitglied- oder
 Vertragsstaats zu erfolgen. Absatz 1 Satz 2, 4 bis 6 ist entsprechend
 anzuwenden.
 
-(3) Jede Umwandlung eines Rückversicherungsunternehmens nach den §§ 1
-und 122a des Umwandlungsgesetzes, bei der Rückversicherungsverträge zu
-den von der Umwandlung erfassten Vermögensgegenständen gehören, bedarf
-der Genehmigung der Aufsichtsbehörde. Absatz 1 Satz 3 und 4 ist
-entsprechend anzuwenden. Die Genehmigung kann auch versagt werden,
-wenn die Vorschriften über die Umwandlung nicht beachtet worden sind.
-Die Absicht der Umwandlung eines Rückversicherungsunternehmens nach
-den §§ 1 und 122a des Umwandlungsgesetzes, soweit sie nicht der
-Genehmigungspflicht nach Satz 1 unterliegt, ist der Aufsichtsbehörde
-unverzüglich anzuzeigen.
+(3) Jede Umwandlung eines Rückversicherungsunternehmens nach den §§ 1,
+305, 320 und 333 des Umwandlungsgesetzes, bei der
+Rückversicherungsverträge zu den von der Umwandlung erfassten
+Vermögensgegenständen gehören, bedarf der Genehmigung der
+Aufsichtsbehörde. Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
+Die Genehmigung kann auch versagt werden, wenn die Vorschriften über
+die Umwandlung nicht beachtet worden sind. Die Absicht der Umwandlung
+eines Rückversicherungsunternehmens nach den §§ 1, 305, 320 und 333
+des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach
+Satz 1 unterliegt, ist der Aufsichtsbehörde unverzüglich anzuzeigen.
+
+(4) Auf Umwandlungen von Rückversicherungsunternehmen nach den §§ 305,
+320 und 333 des Umwandlungsgesetzes findet § 14 Absatz 1 Satz 3
+Anwendung.
 
 
 ##### § 167 Finanzrückversicherung
@@ -8205,19 +8294,20 @@ verpflichtet, wenn mit ihrem Wissen und ohne ihr Einschreiten die in §
 #### § 191 Oberste Vertretung
 
 Für die oberste Vertretung gelten entsprechend die für die
-Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1
-Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3
-und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123
-Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1
-Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4
-sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des
-Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die
-oberste Vertretung die Mitgliederversammlung, so gilt auch § 134
-Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des §
-214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten
-Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von
-drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere
-Mehrheit und weitere Erfordernisse bestimmen.
+Hauptversammlung geltenden Vorschriften der §§ 118, 118a, 119 Absatz 1
+Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, des § 120 Absatz 1 bis 3
+und des § 121 Absatz 1 bis 4 sowie 4b Satz 1 und 2, Absatz 5 Satz 1
+und 3 sowie Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127,
+129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 1a
+bis 5, der §§ 130a bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis
+149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des
+Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die
+Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes
+entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf
+Grund eines Beschlusses der obersten Vertretung gewährt werden. Der
+Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen
+Stimmen. Die Satzung kann eine andere Mehrheit und weitere
+Erfordernisse bestimmen.
 
 
 #### § 192 Rechte von Minderheiten
@@ -13469,28 +13559,9 @@ erforderlichen Maßnahmen auch gegenüber der jeweiligen Versicherungs-
 Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft
 anordnen.
 
-(3) Die Aufsichtsbehörde kann Befugnisse, die Organen einer
-Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-
-Gesellschaft nach Gesetz, Satzung oder Geschäftsordnung zustehen, ganz
-oder teilweise auf einen Sonderbeauftragten übertragen, wenn
-
-1.  Tatsachen vorliegen, aus denen sich ergibt, dass ein oder mehrere
-    Geschäftsleiter oder ein oder mehrere Aufsichtsratsmitglieder die
-    Voraussetzungen des § 24 nicht erfüllen, oder
-
-
-2.  die Versicherungs-Holdinggesellschaft oder gemischte Finanzholding-
-    Gesellschaft nachhaltig gegen Bestimmungen dieses Gesetzes, des
-    Versicherungsvertragsgesetzes, des Geldwäschegesetzes, der Verordnung
-    (EU) Nr. 648/2012 oder gegen die zur Durchführung dieses Gesetzes
-    erlassenen Rechtsverordnungen, die zur Durchführung der Verordnung
-    (EU) Nr. 648/2012 oder der Richtlinie 2009/138/EG erlassenen
-    Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstoßen hat.
-
-
-
-§ 307 Absatz 1 Satz 2 und 3, Absatz 2 bis 4 ist entsprechend
-anzuwenden.
+(3) Die Aufsichtsbehörde kann bei Versicherungs-Holdinggesellschaften
+und gemischten Finanzholding-Gesellschaften einen Sonderbeauftragten
+nach Maßgabe des § 307 einsetzen.
 
 (4) Für Unternehmen mit Sitz im Inland, deren Haupttätigkeit der
 Erwerb und das Halten unmittelbarer oder mittelbarer Beteiligungen an
@@ -14275,20 +14346,31 @@ erforderlich sind. Insbesondere kann sie
 
 
 
-Im Hinblick auf eine Angleichung der bewährten Aufsichtspraktiken
-haben die Mitarbeiter der Europäischen Aufsichtsbehörde für das
-Versicherungswesen und die betriebliche Altersversorgung gemäß Artikel
-21 Absatz 1 der Verordnung (EU) Nr. 1094/2010 des Europäischen
-Parlaments und des Rates vom 24. November 2010 zur Errichtung einer
-Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das
-Versicherungswesen und die betriebliche Altersversorgung), zur
-Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des
-Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S.
-48) das Recht, sich an Prüfungen der in der Richtlinie 2009/138/EG
-genannten Aufsichtskollegien in den Geschäftsräumen der
-Versicherungsunternehmen zu beteiligen, die gemeinsam von der
-Aufsichtsbehörde und mindestens einer zuständigen Behörde eines
-anderen Mitglied- oder Vertragsstaats durchgeführt werden.
+In den Fällen der virtuellen Hauptversammlung nach § 118a des
+Aktiengesetzes und der virtuellen obersten Vertretung sind die
+Vertreter im Wege der Videokommunikation zu der Versammlung
+zuzuschalten und ihnen ist auf Verlangen über die Videokommunikation
+das Wort zu erteilen. Nach § 130a Absatz 1 und 2 des Aktiengesetzes
+eingereichte Stellungnahmen, nach § 131 Absatz 1a und 1b des
+Aktiengesetzes eingereichte Fragen sowie die zu diesen Fragen vor der
+Versammlung gegebenen Antworten sind den Vertretern zugänglich zu
+machen. Die Vertreter dürfen anstelle der Zuschaltung im Wege der
+Videokommunikation am Ort der Hauptversammlung teilnehmen, sofern sie
+dies für erforderlich halten. Im Hinblick auf eine Angleichung der
+bewährten Aufsichtspraktiken haben die Mitarbeiter der Europäischen
+Aufsichtsbehörde für das Versicherungswesen und die betriebliche
+Altersversorgung gemäß Artikel 21 Absatz 1 der Verordnung (EU) Nr.
+1094/2010 des Europäischen Parlaments und des Rates vom 24. November
+2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische
+Aufsichtsbehörde für das Versicherungswesen und die betriebliche
+Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und
+zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331
+vom 15.12.2010, S. 48) das Recht, sich an Prüfungen der in der
+Richtlinie 2009/138/EG genannten Aufsichtskollegien in den
+Geschäftsräumen der Versicherungsunternehmen zu beteiligen, die
+gemeinsam von der Aufsichtsbehörde und mindestens einer zuständigen
+Behörde eines anderen Mitglied- oder Vertragsstaats durchgeführt
+werden.
 
 (2) Die Aufsichtsbehörde hat die Rechte nach Absatz 1 Satz 1 Nummer 1
 und 3 auch gegenüber
@@ -14398,11 +14480,107 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 #### § 307 Sonderbeauftragter
 
-(1) Die Aufsichtsbehörde kann Befugnisse eines Organs ganz oder
-teilweise auf einen Sonderbeauftragten übertragen. Sie bestimmt, in
-welchem Umfang der Sonderbeauftragte anstelle der Organe des
-beaufsichtigten Unternehmens handeln darf. Der Sonderbeauftragte muss
-unabhängig, zuverlässig und fachlich geeignet sein.
+(1) Die Aufsichtsbehörde kann einen Sonderbeauftragten bestellen,
+diesen mit der Wahrnehmung von Aufgaben bei einem Unternehmen betrauen
+und ihm die hierfür erforderlichen Befugnisse übertragen. Der
+Sonderbeauftragte muss unabhängig, zuverlässig und zur ordnungsgemäßen
+Wahrnehmung der ihm übertragenen Aufgaben im Sinne einer nachhaltigen
+Geschäftspolitik des Unternehmens und der Wahrung der
+Finanzmarktstabilität geeignet sein. Soweit der Sonderbeauftragte
+Aufgaben eines Geschäftsleiters oder eines Organs übernimmt, muss er
+Gewähr für die erforderliche fachliche Eignung bieten. Soweit dem
+Sonderbeauftragten nicht die Wahrnehmung der Befugnisse eines
+Geschäftsleiters oder eines Organs übertragen wird, kann auch eine
+juristische Person bestellt werden. Bei der Auswahl einer
+Wirtschaftsprüfungsgesellschaft als Sonderbeauftragter darf die
+Aufsichtsbehörde ohne Prüfung davon ausgehen, dass die
+Wirtschaftsprüfungsgesellschaft nur Personal einsetzt, das zuverlässig
+und zur ordnungsgemäßen Wahrnehmung der übertragenen Aufgaben geeignet
+ist.
+
+(1a) Die Aufsichtsbehörde kann dem Sonderbeauftragten insbesondere
+übertragen:
+
+1.  die Aufgaben und Befugnisse von Organen des Unternehmens insgesamt
+    oder teilweise wahrzunehmen, wenn die Voraussetzungen des § 303 Absatz
+    2 vorliegen;
+
+
+2.  die Aufgaben und Befugnisse eines oder mehrerer Geschäftsleiter
+    wahrzunehmen, wenn das Unternehmen nicht mehr über die erforderliche
+    Anzahl von Geschäftsleitern verfügt, insbesondere, weil die
+    Aufsichtsbehörde die Abberufung eines Geschäftsleiters verlangt oder
+    ihm die Ausübung seiner Tätigkeit untersagt hat;
+
+
+3.  die Aufgaben und Befugnisse von Organen des Unternehmens insgesamt
+    oder teilweise wahrzunehmen, wenn die Aufsicht über das Unternehmen
+    aufgrund von Tatsachen nach § 11 Absatz 2 beeinträchtigt ist;
+
+
+4.  geeignete Maßnahmen zur Herstellung und Sicherung einer
+    ordnungsgemäßen Geschäftsorganisation einschließlich eines
+    angemessenen Risikomanagements zu ergreifen, wenn das Unternehmen
+    nachhaltig gegen Bestimmungen dieses Gesetzes, des
+    Versicherungsvertragsgesetzes, des Geldwäschegesetzes, der Verordnung
+    (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der
+    Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23
+    Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel
+    29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis
+    26, 26b bis 26e oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402,
+    gegen die in § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes
+    genannten Vorschriften, gegen die zur Durchführung dieses Gesetzes
+    erlassenen Rechtsverordnungen, gegen die zur Durchführung der
+    Verordnungen (EU) Nr. 648/2012, (EU) 2015/2365, (EU) 2016/1011, (EU)
+    2017/2402, (EU) 2019/1238 oder der Richtlinie 2009/138/EG erlassenen
+    Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstoßen hat;
+
+
+5.  zu überwachen, dass Anordnungen der Aufsichtsbehörde gegenüber dem
+    Unternehmen beachtet werden;
+
+
+6.  Schadensersatzansprüche gegen Organmitglieder oder ehemalige
+    Organmitglieder zu prüfen, wenn Anhaltspunkte für einen Schaden des
+    Unternehmens durch eine Pflichtverletzung von Organmitgliedern
+    vorliegen.
+
+
+
+
+(1b) Soweit der Sonderbeauftragte in die Aufgaben und Befugnisse eines
+Organs oder Organmitglieds des Unternehmens insgesamt eintritt, ruhen
+die Aufgaben und Befugnisse des betroffenen Organs oder
+Organmitglieds. Der Sonderbeauftragte kann nicht gleichzeitig die
+Funktion eines oder mehrerer Geschäftsleiter und eines oder mehrerer
+Mitglieder eines Verwaltungs- oder Aufsichtsorgans wahrnehmen. Werden
+dem Sonderbeauftragten für die Wahrnehmung einer Aufgabe nur teilweise
+die Befugnisse eines Organs oder Organmitglieds eingeräumt, hat dies
+keine Auswirkung auf die Befugnisse des bestellten Organs oder
+Organmitglieds des Unternehmens. Die umfassende Übertragung aller
+Aufgaben und Befugnisse eines oder mehrerer Geschäftsleiter auf den
+Sonderbeauftragten kann nur in den Fällen des Absatzes 1a Nummer 1 bis
+3 erfolgen. Seine Vertretungsbefugnis richtet sich dabei nach der
+Vertretungsbefugnis des oder der Geschäftsleiter, an dessen oder deren
+Stelle der Sonderbeauftragte bestellt ist. Solange die
+Aufsichtsbehörde einem Sonderbeauftragten die Funktion eines oder
+mehrerer Geschäftsleiter übertragen hat, können die nach anderen
+Rechtsvorschriften hierzu berufenen Personen oder Organe ihr Recht,
+einen Geschäftsleiter zu bestellen, nur mit Zustimmung der
+Aufsichtsbehörde ausüben.
+
+(1c) Überträgt die Aufsichtsbehörde die Wahrnehmung von Aufgaben und
+Befugnissen eines Geschäftsleiters nach Absatz 1a Nummer 1, 2 oder 3
+auf einen Sonderbeauftragten, werden die Übertragung, die
+Vertretungsbefugnis sowie die Aufhebung der Übertragung von Amts wegen
+in das Handelsregister eingetragen.
+
+(1d) Das Organ des Unternehmens, das für den Ausschluss von
+Gesellschaftern von der Geschäftsführung und Vertretung oder für die
+Abberufung geschäftsführungs- oder vertretungsbefugter Personen
+zuständig ist, kann bei Vorliegen eines wichtigen Grundes beantragen,
+die Übertragung der Funktion eines Geschäftsleiters auf den
+Sonderbeauftragten aufzuheben.
 
 (2) Der Sonderbeauftragte ist im Rahmen seiner Aufgaben berechtigt,
 von den Mitgliedern der Organe und den Beschäftigten des Unternehmens
@@ -14423,15 +14601,20 @@ Vergütung setzt die Aufsichtsbehörde fest. Die Aufsichtsbehörde
 schießt die Auslagen und die Vergütung auf Antrag des
 Sonderbeauftragten vor.
 
-(4) Bei fahrlässigem Handeln beschränkt sich die Ersatzpflicht des
-Sonderbeauftragten auf 1 Million Euro für eine Tätigkeit bei einem
-Versicherungsunternehmen. Handelt es sich um eine Aktiengesellschaft,
-deren Aktien zum Handel im regulierten Markt zugelassen sind,
-beschränkt sich die Ersatzpflicht im Sinne des Satzes 1 auf 4
-Millionen Euro. Die Beschränkungen nach den Sätzen 1 und 2 gelten
-auch, wenn dem Sonderbeauftragten die Befugnisse mehrerer Organe
-übertragen worden sind oder er mehrere zum Ersatz verpflichtende
-Handlungen begangen hat.
+(4) Sonderbeauftragte haften bei Handlungen im Rahmen des Absatzes 1a
+Nummer 1 bis 4 und 6, sofern sie selbst Maßnahmen zur Abwendung einer
+Gefahr ergreifen, für Vorsatz und Fahrlässigkeit. Wurde der
+Sonderbeauftragte nach Absatz 1a Nummer 5 ausschließlich für die
+Überwachung von Anordnungen der Aufsichtsbehörde gegenüber dem
+Unternehmen bestellt, so haftet er nur für Vorsatz. Bei fahrlässigem
+Handeln beschränkt sich die Ersatzpflicht des Sonderbeauftragten auf 1
+Million Euro für eine Tätigkeit bei einem Unternehmen. Handelt es sich
+um eine Aktiengesellschaft, deren Aktien zum Handel im regulierten
+Markt zugelassen sind, beschränkt sich die Ersatzpflicht nach Satz 3
+auf 50 Millionen Euro. Die Beschränkungen nach den Sätzen 3 und 4
+gelten auch, wenn dem Sonderbeauftragten die Befugnisse mehrerer
+Organe übertragen worden sind oder er mehrere zum Ersatz
+verpflichtende Handlungen begangen hat.
 
 
 #### § 308 Unerlaubte Versicherungsgeschäfte
@@ -14589,14 +14772,19 @@ Verordnung erfüllen.
 #### § 309 Verschwiegenheitspflicht
 
 (1) Die bei den Versicherungsaufsichtsbehörden beschäftigten oder von
-ihnen beauftragten Personen sowie die Mitglieder des
-Versicherungsbeirats dürfen bei ihrer Tätigkeit erhaltene vertrauliche
-Informationen an keine andere Person oder Behörde weitergeben. Dies
-gilt auch für andere Personen, die durch dienstliche Berichterstattung
-Kenntnis von den in Satz 1 genannten Informationen erhalten. Die Sätze
-1 und 2 gelten nicht für die Weitergabe von Informationen in
-zusammengefasster oder allgemeiner Form, bei der die einzelnen
-Versicherungsunternehmen nicht zu erkennen sind.
+ihnen beauftragten Personen, die nach § 307 bestellten
+Sonderbeauftragten, die nach § 308 Absatz 1 Satz 2 bestellten
+Abwickler und die nach § 19 Absatz 2 Satz 1 gerichtlich bestellten
+Treuhänder sowie die Mitglieder des Versicherungsbeirats dürfen bei
+ihrer Tätigkeit erhaltene vertrauliche Informationen an keine andere
+Person oder Behörde weitergeben. Dies gilt auch für die in Satz 1
+genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung
+einer Beauftragung oder Bestellung anvertraut werden sowie für andere
+Personen, die durch dienstliche Berichterstattung Kenntnis von den in
+Satz 1 genannten Informationen erhalten. Die Sätze 1 und 2 gelten
+nicht für die Weitergabe von Informationen in zusammengefasster oder
+allgemeiner Form, bei der die einzelnen Versicherungsunternehmen nicht
+zu erkennen sind.
 
 (2) Die Schweigepflicht nach Absatz 1 Satz 1 verbietet nicht den
 Informationsaustausch mit den zuständigen Behörden anderer Mitglied-
@@ -14640,8 +14828,8 @@ Absätze 1 und 2 erhalten, nur verwenden
 
 
 
-(5) Die Schweigepflicht nach Absatz 1 Satz 1 verbietet insbesondere
-nicht die Weitergabe von Informationen an
+(5) Die Schweigepflicht nach Absatz 1 verbietet insbesondere nicht die
+Weitergabe von Informationen an
 
 1.  Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige
     Gerichte,
@@ -14714,6 +14902,14 @@ nicht die Weitergabe von Informationen an
 13. das Bundesamt für Sicherheit in der Informationstechnik,
 
 
+14. natürliche oder juristische Personen, die als Sonderbeauftragte nach §
+    307, als Abwickler nach § 308 Absatz 1 Satz 2 oder als Treuhänder nach
+    § 19 Absatz 2 Satz 1 oder in einem vergleichbaren Verhältnis tätig
+    werden; das Gleiche gilt für die Informationsweitergabe an diesen
+    Personenkreis, die im Rahmen der Anbahnung einer Beauftragung oder
+    Bestellung notwendig ist,
+
+
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben
 benötigen.
@@ -14731,14 +14927,14 @@ Informationsaustausch mit allen Unternehmen, die einer Gruppe im Sinne
 des § 7 Nummer 13 angehören, auch wenn es sich um Informationen von
 anderen gruppenangehörigen Unternehmen handelt.
 
-(8) Für die bei den in Absatz 5 Nummer 1 bis 8 und 10 bis 13 genannten
+(8) Für die bei den in Absatz 5 Nummer 1 bis 8 und 10 bis 14 genannten
 Stellen beschäftigten Personen, die von diesen Stellen beauftragten
 Personen und die Mitglieder der in Absatz 5 Nummer 9 genannten
-Ausschüsse gilt die Schweigepflicht nach Absatz 1 Satz 1 entsprechend.
-Befindet sich eine in Absatz 5 Nummer 1 bis 8 und 12 genannte Stelle
-in einem anderen Staat, so dürfen die Informationen nur weitergegeben
-werden, wenn die bei dieser Stelle beschäftigten und von dieser Stelle
-beauftragten Personen einer dem Absatz 1 Satz 1 entsprechenden
+Ausschüsse gilt die Schweigepflicht nach Absatz 1 entsprechend.
+Befindet sich eine in Absatz 5 Nummer 1 bis 8, 12 und 14 genannte
+Stelle in einem anderen Staat, so dürfen die Informationen nur
+weitergegeben werden, wenn die bei dieser Stelle beschäftigten und von
+dieser Stelle beauftragten Personen einer dem Absatz 1 entsprechenden
 Schweigepflicht unterliegen. Die Stelle eines Drittstaats ist darauf
 hinzuweisen, dass die übermittelten Informationen zu keinem anderen
 Zweck verwendet werden dürfen. Informationen, die aus einem anderen
@@ -17316,6 +17512,19 @@ des Aktiengesetzes und § 189 Absatz 3 Satz 1 dieses Gesetzes in
 Verbindung mit § 111 Absatz 5 des Aktiengesetzes in der jeweils vom
 12\. August 2021 an geltenden Fassung des Aktiengesetzes sind erstmals
 auf die Festlegung von Zielgrößen ab dem 12. August 2021 anzuwenden.
+
+
+### § 359 Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+
+(1) Für oberste Vertretungen, die bis einschließlich 31. August 2023
+einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats
+entscheiden, dass die oberste Vertretung als virtuelle oberste
+Vertretung entsprechend § 118a des Aktiengesetzes abgehalten wird.
+
+(2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4
+des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind
+erstmals auf oberste Vertretungen anzuwenden, die ab dem 27. Juli 2022
+einberufen werden.
 
 
 ### Anlage 1 Einteilung der Risiken nach Sparten

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2065
 
+Geändert durch
+:   Art. 1 G v. 23.5.2022 I 752
+
 Stand: Ersetzt G v. 8.4.1922 RGBl I 1922, 335, 393 (RennwLottG)
 
 ## I. Allgemeine Vorschriften für Rennwetten - 
@@ -535,8 +538,8 @@ Aufzeichnungen nach Satz 1 monatlich zu übermitteln.
 
 #### § 24 Zerlegung
 
-(1) Das Gesamtaufkommen der Steuer nach § 16 wird nach den Absätzen 2
-und 3 zerlegt.
+(1) Das Gesamtaufkommen der Steuer nach § 16 wird
+kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
 
 (2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der
 Steuer nach § 16 sind nach den folgenden Zerlegungsmaßstäben zu
@@ -546,21 +549,23 @@ ermitteln:
     Aufkommen der Steuern nach diesem Gesetz und
 
 
-2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder; dabei sind
-    jeweils die am 1. Mai beim Statistischen Bundesamt verfügbaren
-    neuesten Daten des dem Zerlegungsjahr folgenden Jahres zugrunde zu
-    legen.
+2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder, wobei
+    jeweils die zum Ende des Monats, der dem betreffenden
+    Kalendervierteljahr folgt, beim Statistischen Bundesamt verfügbaren
+    neuesten Daten zu Grunde zu legen sind.
 
 
 
 
-(3) Die Zerlegung wird von der in der Durchführungsverordnung zu
-diesem Gesetz bestimmten obersten Landesfinanzbehörde durchgeführt.
-Dabei sind Abschlagszahlungen unter Berücksichtigung des jeweiligen
-Vorjahresergebnisses festzusetzen, die am 15. März, 15. Juni, 15.
-September und 15. Dezember des Jahres zu leisten sind. Bis zur
-Festsetzung der Zerlegungsanteile für das Vorjahr sind die
-Abschlagszahlungen vorläufig in bisheriger Höhe zu entrichten.
+(3) Die Zerlegung wird von der in der Durchführungsverordnung zum
+Rennwett- und Lotteriegesetz bestimmten obersten Landesfinanzbehörde
+durchgeführt. Dabei sind vorläufige Abschlagszahlungen unter
+Berücksichtigung der endgültigen Abrechnung des jeweiligen
+vorangegangenen Kalendervierteljahres festzusetzen. Mit den
+vorläufigen Abschlagszahlungen für ein Kalendervierteljahr sind die
+Zerlegungsanteile für das jeweilige vorangegangene Kalendervierteljahr
+endgültig abzurechnen. Die Zahlungen sind am 15. März, 15. Juni, 15.
+September und 15. Dezember zu leisten.
 
 
 #### § 25 Zuständigkeit
@@ -780,29 +785,31 @@ Nachweis der Steuerbefreiung (§ 28) zu führen.
 
 #### § 34 Zerlegung
 
-(1) Das Aufkommen der Steuer nach § 26 Absatz 1 Satz 2 Nummer 2 wird
-zerlegt. Die Zerlegungsanteile der einzelnen Länder sind nach den
-folgenden Zerlegungsmaßstäben zu ermitteln:
+(1) Das Aufkommen der Steuer nach § 26 Absatz 1 Satz 2 Nummer 2 wird
+kalendervierteljährlich zerlegt. Die Zerlegungsanteile der einzelnen
+Länder sind nach den folgenden Zerlegungsmaßstäben zu ermitteln:
 
 1.  zu 50 Prozent entsprechend den Anteilen am im Jahr 2010 erzielten
     Aufkommen der Steuern nach diesem Gesetz,
 
 
-2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder; dabei sind
-    jeweils die am 1. Mai beim Statistischen Bundesamt verfügbaren
-    neuesten Daten des dem Zerlegungsjahr folgenden Jahres zugrunde zu
-    legen.
+2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder, wobei
+    jeweils die zum Ende des Monats, der dem betreffenden
+    Kalendervierteljahr folgt, beim Statistischen Bundesamt verfügbaren
+    neuesten Daten zu Grunde zu legen sind.
 
 
 
 
-(2) Die Zerlegung wird von der in der Durchführungsverordnung zu
-diesem Gesetz bestimmten obersten Landesfinanzbehörde durchgeführt.
-Dabei sind Abschlagszahlungen unter Berücksichtigung des jeweiligen
-Vorjahresergebnisses festzusetzen, die am 15. März, 15. Juni, 15.
-September und 15. Dezember des Jahres zu leisten sind. Bis zur
-Festsetzung der Zerlegungsanteile für das Vorjahr sind die
-Abschlagszahlungen vorläufig in bisheriger Höhe zu entrichten.
+(2) Die Zerlegung wird von der in der Durchführungsverordnung zum
+Rennwett- und Lotteriegesetz bestimmten obersten Landesfinanzbehörde
+durchgeführt. Dabei sind vorläufige Abschlagszahlungen unter
+Berücksichtigung der endgültigen Abrechnung des jeweiligen
+vorangegangenen Kalendervierteljahres festzusetzen. Mit den
+vorläufigen Abschlagszahlungen für ein Kalendervierteljahr sind die
+Zerlegungsanteile für das jeweilige vorangegangene Kalendervierteljahr
+endgültig abzurechnen. Die Zahlungen sind am 15. März, 15. Juni, 15.
+September und 15. Dezember zu leisten.
 
 
 #### § 35 Zuständigkeit
@@ -946,8 +953,8 @@ oder gänzlich selbständig über Endgeräte genutzt werden können.
 
 #### § 44 Zerlegung
 
-(1) Das Gesamtaufkommen der Steuer nach § 36 wird nach den Absätzen 2
-und 3 zerlegt.
+(1) Das Gesamtaufkommen der Steuer nach § 36 wird
+kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
 
 (2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der
 Steuer nach § 36 sind nach den folgenden Zerlegungsmaßstäben zu
@@ -957,21 +964,23 @@ ermitteln:
     Aufkommen der Steuern nach diesem Gesetz,
 
 
-2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder; dabei sind
-    jeweils die am 1. Mai beim Statistischen Bundesamt verfügbaren
-    neuesten Daten des dem Zerlegungsjahr folgenden Jahres zugrunde zu
-    legen.
+2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder, wobei
+    jeweils die zum Ende des Monats, der dem betreffenden
+    Kalendervierteljahr folgt, beim Statistischen Bundesamt verfügbaren
+    neuesten Daten zu Grunde zu legen sind.
 
 
 
 
-(3) Die Zerlegung wird von der in der Durchführungsverordnung zu
-diesem Gesetz bestimmten obersten Landesfinanzbehörde durchgeführt.
-Dabei sind Abschlagszahlungen unter Berücksichtigung des jeweiligen
-Vorjahresergebnisses festzusetzen, die am 15. März, 15. Juni, 15.
-September und 15. Dezember des Jahres zu leisten sind. Bis zur
-Festsetzung der Zerlegungsanteile für das Vorjahr sind die
-Abschlagszahlungen vorläufig in bisheriger Höhe zu entrichten.
+(3) Die Zerlegung wird von der in der Durchführungsverordnung zum
+Rennwett- und Lotteriegesetz bestimmten obersten Landesfinanzbehörde
+durchgeführt. Dabei sind vorläufige Abschlagszahlungen unter
+Berücksichtigung der endgültigen Abrechnung des jeweiligen
+vorangegangenen Kalendervierteljahres festzusetzen. Mit den
+vorläufigen Abschlagszahlungen für ein Kalendervierteljahr sind die
+Zerlegungsanteile für das jeweilige vorangegangene Kalendervierteljahr
+endgültig abzurechnen. Die Zahlungen sind am 15. März, 15. Juni, 15.
+September und 15. Dezember zu leisten.
 
 
 #### § 45 Zuständigkeit
@@ -1128,8 +1137,8 @@ oder gänzlich selbständig über Endgeräte genutzt werden können.
 
 #### § 54 Zerlegung
 
-(1) Das Gesamtaufkommen der Steuer nach § 46 wird nach den Absätzen 2
-und 3 zerlegt.
+(1) Das Gesamtaufkommen der Steuer nach § 46 wird
+kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
 
 (2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der
 Steuer nach § 46 sind nach den folgenden Zerlegungsmaßstäben zu
@@ -1139,21 +1148,23 @@ ermitteln:
     Aufkommen der Steuern nach diesem Gesetz,
 
 
-2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder; dabei sind
-    jeweils die am 1. Mai beim Statistischen Bundesamt verfügbaren
-    neuesten Daten des dem Zerlegungsjahr folgenden Jahres zugrunde zu
-    legen.
+2.  zu 50 Prozent entsprechend dem Einwohneranteil der Länder, wobei
+    jeweils die zum Ende des Monats, der dem betreffenden
+    Kalendervierteljahr folgt, beim Statistischen Bundesamt verfügbaren
+    neuesten Daten zu Grunde zu legen sind.
 
 
 
 
-(3) Die Zerlegung wird von der in der Durchführungsverordnung zu
-diesem Gesetz bestimmten obersten Landesfinanzbehörde durchgeführt.
-Dabei sind Abschlagszahlungen unter Berücksichtigung des jeweiligen
-Vorjahresergebnisses festzusetzen, die am 15. März, 15. Juni, 15.
-September und 15. Dezember des Jahres zu leisten sind. Bis zur
-Festsetzung der Zerlegungsanteile für das Vorjahr sind die
-Abschlagszahlungen vorläufig in bisheriger Höhe zu entrichten.
+(3) Die Zerlegung wird von der in der Durchführungsverordnung zum
+Rennwett- und Lotteriegesetz bestimmten obersten Landesfinanzbehörde
+durchgeführt. Dabei sind vorläufige Abschlagszahlungen unter
+Berücksichtigung der endgültigen Abrechnung des jeweiligen
+vorangegangenen Kalendervierteljahres festzusetzen. Mit den
+vorläufigen Abschlagszahlungen für ein Kalendervierteljahr sind die
+Zerlegungsanteile für das jeweilige vorangegangene Kalendervierteljahr
+endgültig abzurechnen. Die Zahlungen sind am 15. März, 15. Juni, 15.
+September und 15. Dezember zu leisten.
 
 
 #### § 55 Zuständigkeit
@@ -1294,4 +1305,13 @@ Bundesgesetzblatt bekanntmachen.
 von ihm auf Grund dieses Gesetzes erlassenen Rechtsverordnungen in der
 jeweils geltenden Fassung mit neuem Datum und unter neuer Überschrift
 im Bundesgesetzblatt bekanntmachen.
+
+
+### § 64 Übergangsvorschrift
+
+Für die Abrechnung und den Vollzug der Zerlegung des Aufkommens der
+Steuern nach § 16, § 26 Absatz 1 Satz 2 Nummer 2, §§ 36 und 46 vor dem
+1\. Januar 2022 und die vorläufigen Abschlagszahlungen am 15. März 2022
+finden die §§ 24, 34, 44 und 54 in der am 31. Dezember 2021 geltenden
+Fassung weiterhin Anwendung.
 

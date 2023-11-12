@@ -16,28 +16,13 @@ Fundstelle
 :   RGBl I: 1922, 681
 
 Neugefasst durch
-:   Bek. v. 10.5.2007 I 698
+:   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 30.11.2019 I 1942
+:   Art. 42 G v. 2.3.2023 I Nr. 56
 
 Änderung durch
-:   Art. 2 G v. 22.4.2020 I 840 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 340 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.7.2020 I 1655 ist berücksichtigt
-
-Änderung durch
-:   Art. 1 G v. 14.6.2021 I 1766 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 5.7.2021 I 2287 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 131 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Luftverkehr
@@ -4291,8 +4276,8 @@ angerufen werden, wenn
 
 3.  der streitige Anspruch oder das Rechtsverhältnis des Fluggastes, das
     den Gegenstand des Streitbeilegungsverfahrens bildet, zum
-    Klageregister einer Musterfeststellungsklage nach § 608 der
-    Zivilprozessordnung wirksam angemeldet ist,
+    Verbandsklageregister nach § 46 des
+    Verbraucherrechtedurchsetzungsgesetzes wirksam angemeldet ist,
 
 
 4.  der Anspruch bereits bei einer Schlichtungsstelle nach § 57 oder § 57a
@@ -4321,8 +4306,8 @@ Die Schlichtung nach den §§ 57 und 57a wird unzulässig, wenn während
 des Schlichtungsverfahrens der Anspruch bei einem Gericht rechtshängig
 gemacht wird oder der streitige Anspruch oder das Rechtsverhältnis des
 Fluggastes, das den Gegenstand des Streitbeilegungsverfahrens bildet,
-zum Klageregister einer rechtshängigen Musterfeststellungsklage nach §
-608 der Zivilprozessordnung wirksam angemeldet wird.
+zum rechtshängigen Verbandsklageregister nach § 46 des
+Verbraucherrechtedurchsetzungsgesetzes wirksam angemeldet wird.
 
 (3) Die Schlichtungsstellen können die Schlichtung ablehnen, wenn eine
 grundsätzliche Rechtsfrage, die für die Bewertung der Streitigkeit
@@ -4774,8 +4759,8 @@ Landesbehörden ausgeführt wird,
     entsprechend,
 
 
-3.  das Bundesamt für Güterverkehr im Bereich der Vorlage und Untersagung
-    von Beförderungsentgelten nach den §§ 21 und 21a,
+3.  das Bundesamt für Logistik und Mobilität im Bereich der Vorlage und
+    Untersagung von Beförderungsentgelten nach den §§ 21 und 21a,
 
 
 4.  das Bundesaufsichtsamt für Flugsicherung für Ordnungswidrigkeiten nach

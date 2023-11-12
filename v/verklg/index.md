@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1865
 
 Zuletzt geändert durch
-:   Art. 12 G v. 12.12.2019 I 2510
+:   Art. 40 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Zweck
@@ -226,16 +226,17 @@ anfordern (anforderungsberechtigte Behörde):
 Die anforderungsberechtigte Behörde richtet ihre Anforderung an die
 koordinierende Behörde.
 
-(1a) Koordinierende Behörde ist das Bundesamt für Güterverkehr. Die
-koordinierende Behörde legt fest, welcher Verkehrsträger die
-Verkehrsleistung zu erbringen hat, und übermittelt die Anforderung an
-die zuständige Behörde nach Absatz 2.
+(1a) Koordinierende Behörde ist das Bundesamt für Logistik und
+Mobilität. Die koordinierende Behörde legt fest, welcher
+Verkehrsträger die Verkehrsleistung zu erbringen hat, und übermittelt
+die Anforderung an die zuständige Behörde nach Absatz 2.
 
 (2) Zuständige Behörden für den Erlass eines Verpflichtungsbescheides
 nach Übermittlung der Anforderung durch die koordinierende Behörde
 sind
 
-1.  das Bundesamt für Güterverkehr auf dem Gebiet des Straßenverkehrs,
+1.  das Bundesamt für Logistik und Mobilität auf dem Gebiet des
+    Straßenverkehrs,
 
 
 2.  die Generaldirektion Wasserstraßen und Schifffahrt auf dem Gebiet der

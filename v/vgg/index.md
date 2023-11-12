@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1190
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 24 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 2 G v. 31.5.2021 I 1204 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 31.5.2021 I 1204
 
 [^F794123_01_BJNR119010016]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/26/EU des
     Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
@@ -571,11 +568,11 @@ Anlage der Einnahmen aus den Rechten eine Richtlinie auf
     entsprechen;
 
 
-2.  gewährleisten, dass die Anlage in den in § 1807 Absatz 1 des
-    Bürgerlichen Gesetzbuchs genannten Anlageformen oder in anderen
+2.  gewährleisten, dass die Anlage der Rechtsverordnung nach § 240a Absatz
+    1 Nummer 2 des Bürgerlichen Gesetzbuchs entsprechend oder in anderen
     Anlageformen unter Beachtung der Grundsätze einer wirtschaftlichen
-    Vermögensverwaltung gemäß § 1811 Satz 2 des Bürgerlichen Gesetzbuchs
-    erfolgt;
+    Vermögensverwaltung gemäß § 1798 Absatz 1 Satz 1 des Bürgerlichen
+    Gesetzbuchs erfolgt;
 
 
 3.  gewährleisten, dass die Anlagen in angemessener Weise so gestreut

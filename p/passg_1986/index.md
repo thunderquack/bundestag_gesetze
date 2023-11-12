@@ -16,14 +16,12 @@ Fundstelle
 :   BGBl I: 1986, 537
 
 Zuletzt geändert durch
-:   Art. 12 G v. 3.12.2020 I 2744
+:   Art. 1 G v. 5.7.2021 I 2281
 
 Änderung durch
-:   Art. 7 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
+:   Art. 1 G v. 8.10.2023 I Nr. 271 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Änderung durch
-:   Art. 1 G v. 5.7.2021 I 2281 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
+Stand: Bek. v. 30.10.2023 I Nr. 291 noch nicht berücksichtigt
 
 ## Erster Abschnitt - Paßvorschriften
 
@@ -91,7 +89,7 @@ Deutschland. Der amtliche Pass kann auch
 wenn diese nicht Deutsche im Sinne des Artikels 116 Abs. 1 des
 Grundgesetzes sind.
 
-(5) Das Bundesministerium des Innern, für Bau und Heimat bestimmt den
+(5) Das Bundesministerium des Innern und für Heimat bestimmt den
 Passhersteller sowie den Lieferanten von Geräten zur Aufnahme und
 elektronischen Erfassung von Lichtbildern, sofern diese durch die
 Passbehörde gefertigt werden, und von Fingerabdrücken und macht deren
@@ -100,9 +98,9 @@ Aufnahme und elektronischen Erfassung von Lichtbildern, die im Rahmen
 einer Antragstellung beim Auswärtigen Amt gefertigt werden.
 
 
-### § 2 Befreiung von der Paßpflicht
+### § 2 Befreiung von der Passpflicht; Verordnungsermächtigung
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat kann durch
+(1) Das Bundesministerium des Innern und für Heimat kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Deutsche zur Erleichterung des Grenzübertritts in besonderen Fällen
@@ -128,7 +126,7 @@ zulässig, sofern nicht auf Grund anderer Rechtsvorschriften oder
 zwischenstaatlicher Vereinbarungen Ausnahmen zugelassen sind.
 
 
-### § 4 Paßmuster
+### § 4 Passmuster; Verordnungsermächtigung
 
 (1) Pässe sind nach einheitlichen Mustern auszustellen; sie erhalten
 eine Seriennummer. Der Pass enthält neben dem Lichtbild des
@@ -254,23 +252,22 @@ lediglich enthalten:
 Dezember 2004 über Normen für Sicherheitsmerkmale und biometrische
 Daten in von den Mitgliedstaaten ausgestellten Pässen und
 Reisedokumenten (ABl. EU Nr. L 385 S. 1) sind der Reisepass, der
-Dienstpass und der Diplomatenpass mit einem elektronischen
-Speichermedium zu versehen, auf dem das Lichtbild, Fingerabdrücke, die
-Bezeichnung der erfassten Finger, die Angaben zur Qualität der
-Abdrücke und die in Absatz 2 Satz 2 genannten Angaben gespeichert
-werden. Die gespeicherten Daten sind gegen unbefugtes Auslesen,
-Verändern und Löschen zu sichern. Eine bundesweite Datenbank der
-biometrischen Daten nach Satz 1 wird nicht errichtet.
+Dienstpass und der Diplomatenpass mit einem Chip zu versehen, auf dem
+das Lichtbild, Fingerabdrücke, die Bezeichnung der erfassten Finger,
+die Angaben zur Qualität der Abdrücke und die in Absatz 2 Satz 2
+genannten Angaben gespeichert werden. Die gespeicherten Daten sind
+gegen unbefugtes Auslesen, Verändern und Löschen zu sichern. Eine
+bundesweite Datenbank der biometrischen Daten nach Satz 1 wird nicht
+errichtet.
 
 (4) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken
-und rechten Zeigefingers des Passbewerbers im elektronischen
-Speichermedium des Passes gespeichert. Bei Fehlen eines Zeigefingers,
-ungenügender Qualität des Fingerabdrucks oder Verletzungen der
-Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens,
-des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke
-sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus
-medizinischen Gründen, die nicht nur vorübergehender Art sind,
-unmöglich ist.
+und rechten Zeigefingers des Passbewerbers im Chip des Passes
+gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des
+Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der
+flache Abdruck entweder des Daumens, des Mittelfingers oder des
+Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn
+die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht
+nur vorübergehender Art sind, unmöglich ist.
 
 (4a) Kinder bis zum vollendeten zwölften Lebensjahr erhalten auf
 Antrag einen Kinderreisepass ohne elektronisches Speichermedium; die
@@ -290,9 +287,9 @@ Vereinbarungen festgelegt ist.
 
 (6) Die Muster der amtlichen Pässe, die Anforderungen an das Lichtbild
 sowie die nähere Bestimmung der in § 1 Abs. 4 Satz 2 genannten
-Personen bestimmt das Bundesministerium des Innern, für Bau und Heimat
-im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können
+Personen bestimmt das Bundesministerium des Innern und für Heimat im
+Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können
 Angaben über das Dienstverhältnis des Passinhabers aufgenommen werden.
 Die Rechtsverordnung kann auch von diesem Gesetz abweichende
 Bestimmungen über Gültigkeitsdauer, Ausstellung, Einziehung,
@@ -424,9 +421,9 @@ werden, die den Anforderungen der Rechtsverordnung nach Absatz 3
 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für
 Sicherheit in der Informationstechnik festzustellen.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
-bedarf, Regelungen zu treffen
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+Regelungen zu treffen
 
 1.  über das Verfahren und die technischen Anforderungen für die Aufnahme,
     die elektronische Erfassung, die Echtheitsbewertung und die
@@ -436,6 +433,12 @@ bedarf, Regelungen zu treffen
 2.  zur sicheren Übermittlung des Lichtbilds an die Passbehörde sowie zu
     einer Registrierung und Zertifizierung von Dienstleistern, welche
     Lichtbilder für die Passproduktion an die Passbehörde übermitteln,
+
+
+2a. über von § 6 Absatz 2 Satz 3 in der ab dem 1. Mai 2025 geltenden
+    Fassung abweichende Verfahren zur Fertigung des Lichtbildes sowie zur
+    sicheren Übermittlung dieses Lichtbildes für Fälle, in denen der Pass
+    im Ausland bei der Passbehörde nach § 19 Absatz 2 beantragt wird,
 
 
 3.  über das Verfahren und die technischen Anforderungen für die Aufnahme,
@@ -454,17 +457,21 @@ bedarf, Regelungen zu treffen
     Passhersteller,
 
 
-6.  zur Durchführung von automatisierten Abrufen nach § 22a sowie zur Form
-    und zum Inhalt der zu übermittelnden Daten und
+6.  zur Durchführung von automatisierten Mitteilungen oder automatisierten
+    Abrufen nach den §§ 22 und 22a sowie zur Form und zum Inhalt der zu
+    übermittelnden Daten,
 
 
-7.  über die Einzelheiten des Prüfverfahrens nach Absatz 2 Satz 2.
+7.  über die Einzelheiten des Prüfverfahrens nach Absatz 2 Satz 2 und
+
+
+8.  über die Einzelheiten der Ausgabe und den Versand des Passes.
 
 
 
 Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen
 Amt, Rechtsverordnungen nach Satz 1 Nummer 2 zusätzlich im Benehmen
-mit dem Bundesministerium für Wirtschaft und Energie.
+mit dem Bundesministerium für Wirtschaft und Klimaschutz.
 
 
 ### § 7 Paßversagung
@@ -523,7 +530,11 @@ begründen, daß der Paßbewerber
 
 
 11. eine in § 226a des Strafgesetzbuchs beschriebene Handlung vornehmen
-    oder die Vornahme dieser Handlung durch Dritte veranlassen wird.
+    oder die Vornahme dieser Handlung durch Dritte veranlassen wird;
+
+
+12. im Ausland eine in den §§ 174, 176, 176a, 176b, 176c, 176d oder 182
+    des Strafgesetzbuchs beschriebene Handlung vornehmen wird.
 
 
 
@@ -631,8 +642,8 @@ Deutschen nicht versagt werden.
 Voraussetzungen für seine Erteilung nicht vorgelegen haben oder
 nachträglich weggefallen sind.
 
-(3) Störungen der Funktionsfähigkeit des elektronischen
-Speichermediums berühren nicht die Gültigkeit des Passes.
+(3) Störungen der Funktionsfähigkeit des Chips berühren nicht die
+Gültigkeit des Passes.
 
 
 ### § 12 Einziehung
@@ -769,20 +780,75 @@ im Chip gespeicherten Daten zu gewähren.
 die ausstellende Behörde mitzuteilen.
 
 
-### § 16a Identitätsüberprüfung anhand biometrischer Daten
+### § 16a Echtheitsüberprüfung und Identitätsprüfung; Verarbeitung von Passdaten
 
-Die im Chip des Passes gespeicherten Daten dürfen nur zum Zweck der
-Überprüfung der Echtheit des Dokumentes oder der Identität des
-Passinhabers und nur nach Maßgabe der Sätze 2 und 3 ausgelesen und
-verwendet werden. Soweit die Polizeivollzugsbehörden, die
-Zollverwaltung sowie die Pass-, Personalausweis- und Meldebehörden die
-Echtheit des Passes oder die Identität des Inhabers überprüfen dürfen,
-sind sie befugt, die auf dem elektronischen Speichermedium des Passes
-gespeicherten biometrischen und sonstigen Daten auszulesen, die
-benötigten biometrischen Daten beim Passinhaber zu erheben und die
-biometrischen Daten miteinander zu vergleichen. Die nach Satz 2
-erhobenen Daten sind unverzüglich nach Beendigung der Prüfung der
-Echtheit des Passes oder der Identität des Inhabers zu löschen.
+(1) Soweit die Polizeivollzugsbehörden, die Zollverwaltung sowie die
+Pass-, Personalausweis- und Meldebehörden die Echtheit des Passes oder
+die Identität des Passinhabers nach anderen Rechtsvorschriften
+überprüfen dürfen, sind sie befugt, zum Zweck der Überprüfung der
+Echtheit des Passes oder der Identität des Passinhabers
+
+1.  die auf dem Chip des Passes gespeicherten biometrischen und sonstigen
+    Daten auszulesen,
+
+
+2.  die benötigten biometrischen Daten beim Passinhaber zu erheben und
+
+
+3.  die biometrischen Daten miteinander zu vergleichen.
+
+
+
+Echtheits- und Identitätskontrollen über öffentliche
+Kommunikationswege sind unzulässig.
+
+(2) Die in Absatz 1 Satz 1 genannten Behörden dürfen Daten, die sie im
+Rahmen einer Identitätsfeststellung aus dem Chip des Passes ausgelesen
+haben, mit Ausnahme der biometrischen Daten zur Verarbeitung in einem
+Datenverarbeitungssystem automatisiert speichern, sofern sie dazu
+durch ein Gesetz oder auf Grund eines Gesetzes berechtigt sind. Im
+Übrigen sind die nach Absatz 1 Satz 1 verarbeiteten Daten unverzüglich
+nach Beendigung der Prüfung der Echtheit des Passes oder der Identität
+des Passinhabers zu löschen.
+
+(3) Öffentliche Stellen dürfen, wenn dies durch ein Gesetz oder auf
+Grund eines Gesetzes bestimmt ist, mit Zustimmung des Passinhabers zur
+Prüfung der Identität des Passinhabers
+
+1.  die auf dem Chip des Passes gespeicherten Daten nach § 4 Absatz 2 Satz
+    2 und die Daten, die zur Überprüfung der Echtheit des Passes
+    erforderlich sind, sowie das auf dem Chip gespeicherte Lichtbild
+    auslesen und
+
+
+2.  von den ausgelesenen Daten ausschließlich das Lichtbild, die Daten
+    nach § 4 Absatz 2 Satz 2 Nummer 1 bis 4, 7, 9 sowie die Daten, die zur
+    Überprüfung der Echtheit des Passes erforderlich sind, verwenden.
+
+
+
+Anlässlich der Datenverarbeitung nach Satz 1 überprüft die
+verarbeitende öffentliche Stelle die Echtheit des Passes. Von den nach
+Satz 1 Nummer 1 ausgelesenen Daten sind die Daten nach Satz 1 Nummer 2
+von der verarbeitenden öffentlichen Stelle unverzüglich nach
+Beendigung der Prüfung der Identität des Inhabers, die übrigen Daten
+unverzüglich nach dem Auslesen zu löschen, soweit dies nicht durch
+Gesetz oder auf Grund eines Gesetzes abweichend geregelt ist.
+
+
+### § 16b Verarbeitung der sichtbaren Daten des Passes
+
+(1) Die in § 16a Absatz 1 Satz 1 genannten Behörden dürfen die auf dem
+Pass sichtbar aufgedruckten Daten durch nicht automatisierte Verfahren
+verarbeiten, sofern sie dazu durch ein Gesetz oder auf Grund eines
+Gesetzes berechtigt sind.
+
+(2) Können die Daten aus dem Chip des Passes nach § 16a Absatz 1 Satz
+1 nicht ausgelesen werden, dürfen die dort genannten Behörden die
+Daten der maschinenlesbaren Zone nach § 4 Absatz 2 Satz 2
+automatisiert auslesen und unter den Voraussetzungen des § 16a Absatz
+2 Satz 1 speichern. § 16a Absatz 1 Satz 2, Absatz 2 Satz 2 gilt
+entsprechend.
 
 
 ### § 17 Automatischer Abruf aus Dateien und automatische Speicherung im öffentlichen Bereich
@@ -879,6 +945,9 @@ Ausstellung eines Passes zur Einreise in den Geltungsbereich dieses
 Gesetzes oder eines hierfür bestimmten Passersatzes bedarf es dieser
 Ermächtigung nicht.
 
+(4a) Für das Führen des Passregisters nach § 21 ist die Passbehörde
+zuständig, welche den Pass ausgestellt hat.
+
 (5) Paßbehörde für amtliche Pässe ist das Auswärtige Amt.
 
 (6) Für die Sicherstellung sind die Paßbehörden und die zur
@@ -905,15 +974,14 @@ der Gesamtheit der Länder mit der jeweiligen Leistung verbundenen
 Kosten. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6 und die
 §§ 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, für den Bereich der Landesverwaltung durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Gebührenhöhe und die
-Auslagenerstattung näher zu bestimmen. Wird die individuell
-zurechenbare öffentliche Leistung nach Absatz 1 auf Wunsch des
-Antragstellers außerhalb der Dienstzeit einer Passbehörde vorgenommen,
-kann eine Gebühr bis zur doppelten Höhe der nach der Rechtsverordnung
-nach Satz 1 bestimmten Gebühr erhoben werden.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+für den Bereich der Landesverwaltung durch Rechtsverordnung mit
+Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
+Gebührenhöhe und die Auslagenerstattung näher zu bestimmen. Wird die
+individuell zurechenbare öffentliche Leistung nach Absatz 1 auf Wunsch
+des Antragstellers außerhalb der Dienstzeit einer Passbehörde
+vorgenommen, kann eine Gebühr bis zur doppelten Höhe der nach der
+Rechtsverordnung nach Satz 1 bestimmten Gebühr erhoben werden.
 
 (4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
@@ -975,6 +1043,10 @@ ausschließlich folgende Daten enthalten:
 14. ausstellende Behörde,
 
 
+14a. die örtlich zuständige Passbehörde, wenn diese nicht mit der
+    ausstellenden Passbehörde identisch ist,
+
+
 15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
 
 
@@ -1008,12 +1080,23 @@ Jahre.
 (5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die
 sie eine Ermächtigung gemäß § 19 Abs. 4 Satz 2 erteilt hat.
 
+(6) Wird eine andere als die ausstellende Passbehörde örtlich
+zuständig, darf sie die in Absatz 2 genannten und zur Wahrnehmung
+ihrer Aufgaben erforderlichen Daten mit Ausnahme der biometrischen
+Daten speichern. Absatz 4 gilt entsprechend.
+
 
 ### § 22 Verarbeitung und Nutzung der Daten im Paßregister
 
 (1) Die Paßbehörden dürfen personenbezogene Daten nur nach Maßgabe
 dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben,
 verarbeiten oder nutzen.
+
+(1a) Passbehörden dürfen anderen Passbehörden im automatisierten
+Verfahren Daten des Passregisters übermitteln oder Daten aus
+Passregistern, die in Zuständigkeit anderer Passbehörden geführt
+werden, abrufen, sofern dies zur Wahrnehmung ihrer Pflichten
+erforderlich ist. Dies gilt nicht für biometrische Daten.
 
 (2) Die Paßbehörden dürfen anderen Behörden auf deren Ersuchen Daten
 aus dem Paßregister übermitteln. Voraussetzung ist, daß
@@ -1117,7 +1200,10 @@ Aufzeichnungen zu fertigen, die eine Kontrolle der Zulässigkeit der
 Abrufe ermöglichen. Abrufe nach den Sätzen 5 und 6 werden nur von der
 abrufenden Behörde protokolliert. Die Aufzeichnungen enthalten:
 
-1.  Vor- und Familiennamen sowie Tag und Ort der Geburt der Person, deren
+1.  die nach § 4 Absatz 1 der Pass- und
+    Personalausweisdatenabrufverordnung verwendeten Auswahldaten bei
+    Abrufen nach den Sätzen 4 und 5, in anderen Fällen den Familiennamen,
+    Vornamen sowie den Tag und den Ort der Geburt der Person, deren
     Lichtbild abgerufen wurde,
 
 
@@ -1235,9 +1321,9 @@ Ordnungswidrigkeiten sind
 
 1.  für die Auslandsvertretungen der Bundesrepublik Deutschland das
     Auswärtige Amt oder die vom Auswärtigen Amt im Benehmen mit dem
-    Bundesministerium des Innern, für Bau und Heimat durch
-    Rechtsverordnung bestimmte Behörde des Bundes; die Rechtsverordnung
-    bedarf nicht der Zustimmung des Bundesrates;
+    Bundesministerium des Innern und für Heimat durch Rechtsverordnung
+    bestimmte Behörde des Bundes; die Rechtsverordnung bedarf nicht der
+    Zustimmung des Bundesrates;
 
 
 2.  die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes
@@ -1256,7 +1342,7 @@ Ordnungswidrigkeiten sind
 ### § 27 Allgemeine Verwaltungsvorschriften
 
 Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften über das
+Innern und für Heimat allgemeine Verwaltungsvorschriften über das
 Ausstellen amtlicher Pässe.
 
 

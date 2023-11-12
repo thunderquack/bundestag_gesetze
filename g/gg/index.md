@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 u. 2 Satz 2 G v. 29.9.2020 I 2048
+:   Art. 1 G v. 19.12.2022 I 2478
 
 
 ## Eingangsformel
@@ -1936,9 +1936,11 @@ Anwendung gesetzt werden.
 
 (1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen
 Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt
-und im Bundesgesetzblatte verkündet. Rechtsverordnungen werden von der
-Stelle, die sie erläßt, ausgefertigt und vorbehaltlich anderweitiger
-gesetzlicher Regelung im Bundesgesetzblatte verkündet.
+und im Bundesgesetzblatt verkündet. Das Bundesgesetzblatt kann in
+elektronischer Form geführt werden. Rechtsverordnungen werden von der
+Stelle, die sie erlässt, ausgefertigt. Das Nähere zur Verkündung und
+zur Form von Gegenzeichnung und Ausfertigung von Gesetzen und
+Rechtsverordnungen regelt ein Bundesgesetz.
 
 (2) Jedes Gesetz und jede Rechtsverordnung soll den Tag des
 Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie
@@ -2070,6 +2072,13 @@ Bundestages errichtet werden.
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre
 zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich
 aus dem Haushaltsplan ergeben.
+
+(1a) Zur Stärkung der Bündnis- und Verteidigungsfähigkeit kann der
+Bund ein Sondervermögen für die Bundeswehr mit eigener
+Kreditermächtigung in Höhe von einmalig bis zu 100 Milliarden Euro
+errichten. Auf die Kreditermächtigung sind Artikel 109 Absatz 3 und
+Artikel 115 Absatz 2 nicht anzuwenden. Das Nähere regelt ein
+Bundesgesetz.
 
 (2) Außer zur Verteidigung dürfen die Streitkräfte nur eingesetzt
 werden, soweit dieses Grundgesetz es ausdrücklich zuläßt.

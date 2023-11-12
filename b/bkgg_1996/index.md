@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.1.2009 I 142, 3177
 
 Zuletzt geändert durch
-:   Art. 14 G v. 22.11.2021 I 4906
+:   Art. 10 G v. 16.12.2022 I 2328
 
 
 ## Erster Abschnitt - Leistungen
@@ -109,8 +109,8 @@ nur, wenn er
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5
-        des Aufenthaltsgesetzes erteilt,
+        seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des
+        Aufenthaltsgesetzes erteilt,
 
 
 
@@ -184,24 +184,47 @@ berücksichtigt, wenn es
         fortsetzen kann oder
 
 
-    d)  ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr
-        im Sinne des Jugendfreiwilligendienstegesetzes oder eine
-        Freiwilligenaktivität im Rahmen des Europäischen Solidaritätskorps im
-        Sinne der Verordnung (EU) Nr. 2018/1475 des Europäischen Parlaments
-        und des Rates vom 2. Oktober 2018 zur Festlegung des rechtlichen
-        Rahmens des Europäischen Solidaritätskorps sowie zur Änderung der
-        Verordnung (EU) Nr. 1288/2013 und der Verordnung (EU) Nr. 1293/2013
-        sowie des Beschlusses Nr. 1313/2013/EU (ABl. L 250 vom 4.10.2018, S.
-        1) oder einen anderen Dienst im Ausland im Sinne von § 5 des
-        Bundesfreiwilligendienstgesetzes oder einen entwicklungspolitischen
-        Freiwilligendienst „weltwärts“ im Sinne der Förderleitlinie des
-        Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
-        vom 1. Januar 2016 oder einen Freiwilligendienst aller Generationen im
-        Sinne von § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch oder einen
-        Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie des
-        Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 25.
-        Mai 2018 (GMBl S. 545) oder einen Bundesfreiwilligendienst im Sinne
-        des Bundesfreiwilligendienstgesetzes leistet oder
+    d)  einen der folgenden freiwilligen Dienste leistet:
+
+        aa) ein freiwilliges soziales Jahr im Sinne des
+            Jugendfreiwilligendienstegesetzes,
+
+
+        bb) ein freiwilliges ökologisches Jahr im Sinne des
+            Jugendfreiwilligendienstegesetzes,
+
+
+        cc) einen Bundesfreiwilligendienst im Sinne des
+            Bundesfreiwilligendienstgesetzes,
+
+
+        dd) eine Freiwilligentätigkeit im Rahmen des Europäischen
+            Solidaritätskorps im Sinne der Verordnung (EU) 2021/888 des
+            Europäischen Parlaments und des Rates vom 20. Mai 2021 zur Aufstellung
+            des Programms für das Europäische Solidaritätskorps und zur Aufhebung
+            der Verordnungen (EU) 2018/1475 und (EU) Nr. 375/2014 (ABl. L 202 vom
+            8\.6.2021, S. 32),
+
+
+        ee) einen anderen Dienst im Ausland im Sinne von § 5 des
+            Bundesfreiwilligendienstgesetzes,
+
+
+        ff) einen entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne
+            der Förderleitlinie des Bundesministeriums für wirtschaftliche
+            Zusammenarbeit und Entwicklung vom 1. Januar 2016,
+
+
+        gg) einen Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a
+            des Siebten Buches Sozialgesetzbuch oder
+
+
+        hh) einen Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie
+            des Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 4.
+            Januar 2021 (GMBl S. 77) oder
+
+
+
 
 
 
@@ -307,20 +330,20 @@ gilt Absatz 2 Satz 3 und 4 entsprechend.
 
 ### § 4 Andere Leistungen für Kinder
 
-(1) Kindergeld wird nicht für ein Kind gewährt, für das eine der
-folgenden Leistungen zu zahlen ist oder bei entsprechender
-Antragstellung zu zahlen wäre:
+Kindergeld wird nicht für ein Kind gezahlt, für das eine der folgenden
+Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu
+zahlen wäre:
 
-1.  Kinderzulagen aus der gesetzlichen Unfallversicherung oder
-    Kinderzuschüsse aus den gesetzlichen Rentenversicherungen,
+1.  Leistungen für Kinder, die im Ausland gewährt werden und dem
+    Kindergeld oder der Kinderzulage aus der gesetzlichen
+    Unfallversicherung nach § 217 Absatz 3 des Siebten Buches
+    Sozialgesetzbuch in der bis zum 30. Juni 2020 geltenden Fassung oder
+    dem Kinderzuschuss aus der gesetzlichen Rentenversicherung nach § 270
+    des Sechsten Buches Sozialgesetzbuch in der bis zum 16. November 2016
+    geltenden Fassung vergleichbar sind,
 
 
-2.  Leistungen für Kinder, die außerhalb Deutschlands gewährt werden und
-    dem Kindergeld oder einer der unter Nummer 1 genannten Leistungen
-    vergleichbar sind,
-
-
-3.  Leistungen für Kinder, die von einer zwischen- oder überstaatlichen
+2.  Leistungen für Kinder, die von einer zwischen- oder überstaatlichen
     Einrichtung gewährt werden und dem Kindergeld vergleichbar sind.
 
 
@@ -330,16 +353,11 @@ Bundesagentur für Arbeit nach dem Dritten Buch Sozialgesetzbuch oder
 ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten
 Buches Sozialgesetzbuch oder steht er in Deutschland in einem
 öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein
-Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 3 mit
+Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 2 mit
 Rücksicht darauf ausgeschlossen, dass sein Ehegatte oder Lebenspartner
 als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der
 Europäischen Gemeinschaften für das Kind Anspruch auf Kinderzulage
 hat.
-
-(2) Ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 der Bruttobetrag
-der anderen Leistung niedriger als das Kindergeld nach § 6, wird
-Kindergeld in Höhe des Unterschiedsbetrages gezahlt. Ein
-Unterschiedsbetrag unter 5 Euro wird nicht geleistet.
 
 
 ### § 5 Beginn und Ende des Anspruchs
@@ -362,19 +380,16 @@ ist, nachzuholen ist.
 
 ### § 6 Höhe des Kindergeldes
 
-(1) Das Kindergeld beträgt monatlich für das erste und zweite Kind
-jeweils 219 Euro, für das dritte Kind 225 Euro und für das vierte und
-jedes weitere Kind jeweils 250 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 250 Euro.
 
-(2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 219 Euro
-monatlich.
+(2) (weggefallen)
 
-(3) Darüber hinaus wird für jedes Kind, für das für den Monat Mai 2021
-ein Anspruch auf Kindergeld besteht, für den Monat Mai 2021 ein
-Einmalbetrag in Höhe von 150 Euro gezahlt. Ein Anspruch in Höhe des
-Einmalbetrags von 150 Euro für das Kalenderjahr 2021 besteht auch für
-ein Kind, für das nicht für den Monat Mai 2021, jedoch für mindestens
-einen anderen Kalendermonat im Kalenderjahr 2021 ein Anspruch auf
+(3) Darüber hinaus wird für jedes Kind, für das für den Monat Juli
+2022 ein Anspruch auf Kindergeld besteht, für den Monat Juli 2022 ein
+Einmalbetrag in Höhe von 100 Euro gezahlt. Ein Anspruch in Höhe des
+Einmalbetrags von 100 Euro für das Kalenderjahr 2022 besteht auch für
+ein Kind, für das nicht für den Monat Juli 2022, jedoch für mindestens
+einen anderen Kalendermonat im Kalenderjahr 2022 ein Anspruch auf
 Kindergeld besteht.
 
 
@@ -390,9 +405,9 @@ vollendet haben, einen Kinderzuschlag, wenn
 
 
 2.  sie mit Ausnahme des Wohngeldes, des Kindergeldes und des
-    Kinderzuschlags über Einkommen im Sinne des § 11 Absatz 1 Satz 1 des
-    Zweiten Buches Sozialgesetzbuch in Höhe von mindestens 900 Euro oder,
-    wenn sie alleinerziehend sind, in Höhe von mindestens 600 Euro
+    Kinderzuschlags über Einkommen im Sinne des § 11 Absatz 1 Satz 1 und 2
+    des Zweiten Buches Sozialgesetzbuch in Höhe von mindestens 900 Euro
+    oder, wenn sie alleinerziehend sind, in Höhe von mindestens 600 Euro
     verfügen, wobei Beträge nach § 11b des Zweiten Buches Sozialgesetzbuch
     nicht abzusetzen sind, und
 
@@ -419,7 +434,7 @@ Nummer 3, wenn
 
 
 2.  sich bei der Ermittlung des Einkommens der Eltern nach § 11b Absatz 2
-    und 3 des Zweiten Buches Sozialgesetzbuch wegen Einkommen aus
+    bis 3 des Zweiten Buches Sozialgesetzbuch wegen Einkommen aus
     Erwerbstätigkeit Absetzbeträge in Höhe von mindestens 100 Euro ergeben
     und
 
@@ -441,7 +456,8 @@ eines Kindes in der zweiten Altersstufe nach der
 Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des
 Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der
 sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens
-jedoch ein Betrag in Höhe des Vorjahres.
+jedoch ein Betrag in Höhe des Vorjahres. Der Betrag nach Satz 3 erhöht
+sich ab 1. Juli 2022 um einen Sofortzuschlag in Höhe von 20 Euro.
 
 (3) Ausgehend vom Höchstbetrag mindert sich der jeweilige
 Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches
@@ -451,16 +467,16 @@ Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag
 wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes
 monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für
 ein Kind besteht nicht, wenn zumutbare Anstrengungen unterlassen
-wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. Bei der
-Berücksichtigung des Vermögens des Kindes ist der Grundfreibetrag nach
-§ 12 Absatz 2 Satz 1 Nummer 1a des Zweiten Buches Sozialgesetzbuch
-abzusetzen. Ist das zu berücksichtigende Vermögen höher als der nach
-den Sätzen 1 bis 5 verbleibende monatliche Anspruch auf
-Kinderzuschlag, so dass es den Kinderzuschlag für den ersten Monat des
-Bewilligungszeitraums vollständig mindert, entfällt der Anspruch auf
-Kinderzuschlag. Ist das zu berücksichtigende Vermögen niedriger als
-der monatliche Anspruch auf Kinderzuschlag, ist der Kinderzuschlag im
-ersten Monat des Bewilligungszeitraums um einen Betrag in Höhe des zu
+wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. § 12 des
+Zweiten Buches Sozialgesetzbuch ist mit der Maßgabe anzuwenden, dass
+Vermögen nur berücksichtigt wird, wenn es erheblich ist. Ist das zu
+berücksichtigende Vermögen höher als der nach den Sätzen 1 bis 5
+verbleibende monatliche Anspruch auf Kinderzuschlag, so dass es den
+Kinderzuschlag für den ersten Monat des Bewilligungszeitraums
+vollständig mindert, entfällt der Anspruch auf Kinderzuschlag. Ist das
+zu berücksichtigende Vermögen niedriger als der monatliche Anspruch
+auf Kinderzuschlag, ist der Kinderzuschlag im ersten Monat des
+Bewilligungszeitraums um einen Betrag in Höhe des zu
 berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat
 Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
 
@@ -468,34 +484,35 @@ Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
 bildet den Gesamtkinderzuschlag.
 
 (5) Der Gesamtkinderzuschlag wird in voller Höhe gewährt, wenn das
-nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch mit Ausnahme
-des Wohngeldes und des Kinderzuschlags zu berücksichtigende Einkommen
-oder Vermögen der Eltern einen Betrag in Höhe der bei der Berechnung
-des Arbeitslosengeldes II oder des Sozialgeldes zu berücksichtigenden
-Bedarfe der Eltern (Gesamtbedarf der Eltern) nicht übersteigt. Als
-Einkommen oder Vermögen der Eltern gilt dabei dasjenige der Mitglieder
-der Bedarfsgemeinschaft mit Ausnahme des Einkommens oder Vermögens der
-in dem Haushalt lebenden Kinder. Zur Feststellung des Gesamtbedarfs
-der Eltern sind die Bedarfe für Unterkunft und Heizung in dem
-Verhältnis aufzuteilen, das sich aus den im 12. Bericht der
-Bundesregierung über die Höhe des Existenzminimums von Erwachsenen und
-Kindern festgestellten entsprechenden Bedarfen für Alleinstehende,
-Ehepaare, Lebenspartnerschaften und Kinder ergibt. Bei der
-Berücksichtigung des maßgeblichen Vermögens gilt Absatz 3 Satz 6 und 7
-entsprechend.
+nach den §§ 11 bis 11b des Zweiten Buches Sozialgesetzbuch mit
+Ausnahme des Wohngeldes und des Kinderzuschlags zu berücksichtigende
+Einkommen der Eltern einen Betrag in Höhe der bei der Berechnung des
+Bürgergeldes zu berücksichtigenden Bedarfe der Eltern (Gesamtbedarf
+der Eltern) nicht übersteigt und kein zu berücksichtigendes Vermögen
+der Eltern nach § 12 des Zweiten Buches Sozialgesetzbuch vorhanden
+ist. Als Einkommen oder Vermögen der Eltern gilt dabei dasjenige der
+Mitglieder der Bedarfsgemeinschaft mit Ausnahme des Einkommens oder
+Vermögens der in dem Haushalt lebenden Kinder. Absatz 3 Satz 5 gilt
+entsprechend. Zur Feststellung des Gesamtbedarfs der Eltern sind die
+Bedarfe für Unterkunft und Heizung in dem Verhältnis aufzuteilen, das
+sich aus den im 12. Bericht der Bundesregierung über die Höhe des
+Existenzminimums von Erwachsenen und Kindern festgestellten
+entsprechenden Bedarfen für Alleinstehende, Ehepaare,
+Lebenspartnerschaften und Kinder ergibt.
 
-(6) Der Gesamtkinderzuschlag wird stufenweise gemindert, wenn das zu
-berücksichtigende Einkommen oder Vermögen der Eltern deren
-Gesamtbedarf übersteigt. Wenn das zu berücksichtigende Einkommen der
-Eltern nicht nur aus Erwerbseinkünften besteht, ist davon auszugehen,
-dass die Überschreitung des Gesamtbedarfs der Eltern durch die
-Erwerbseinkünfte verursacht wird, wenn nicht die Summe der anderen
-Einkommensteile oder des Vermögens für sich genommen diesen
-maßgebenden Betrag übersteigt. Der Gesamtkinderzuschlag wird um 45
-Prozent des Betrags, um den die monatlichen Erwerbseinkünfte den
-maßgebenden Betrag übersteigen, monatlich gemindert. Anderes Einkommen
-oder Vermögen der Eltern mindern den Gesamtkinderzuschlag in voller
-Höhe.
+(6) Der Gesamtkinderzuschlag wird um das zu berücksichtigende
+Einkommen der Eltern gemindert, soweit es deren Bedarf übersteigt.
+Wenn das zu berücksichtigende Einkommen der Eltern nicht nur aus
+Erwerbseinkünften besteht, ist davon auszugehen, dass die
+Überschreitung des Gesamtbedarfs der Eltern durch die Erwerbseinkünfte
+verursacht wird, wenn nicht die Summe der anderen Einkommensteile für
+sich genommen diesen maßgebenden Betrag übersteigt. Der
+Gesamtkinderzuschlag wird um 45 Prozent des Betrags, um den die
+monatlichen Erwerbseinkünfte den maßgebenden Betrag übersteigen,
+monatlich gemindert. Anderes Einkommen oder Vermögen der Eltern
+mindern den Gesamtkinderzuschlag in voller Höhe. Bei der
+Berücksichtigung des Vermögens gilt Absatz 3 Satz 6 und 7
+entsprechend.
 
 (7) Über den Gesamtkinderzuschlag ist jeweils für sechs Monate zu
 entscheiden (Bewilligungszeitraum). Der Bewilligungszeitraum beginnt
@@ -878,12 +895,15 @@ Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den
 Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes
 gleichgestellt.
 
-(2) Die Regelung der erweiterten Zugangsmöglichkeit nach § 6a Absatz
-1a ist bis zum 31. Dezember 2023 anzuwenden.
+(2) (weggefallen)
 
 (3) Abweichend von § 6a Absatz 2 beträgt für die Zeit vom 1. Juli 2019
 bis zum 31. Dezember 2020 der monatliche Höchstbetrag des
 Kinderzuschlags für jedes zu berücksichtigende Kind 185 Euro.
+
+(3a) Abweichend von § 6a Absatz 2 beträgt der monatliche Höchstbetrag
+des Kinderzuschlags im Kalenderjahr 2023 für jedes zu
+berücksichtigende Kind 250 Euro.
 
 (4) Wird einer Person Kinderzuschlag für einen nach dem 30. Juni 2019
 und vor dem 1. Juli 2021 beginnenden Bewilligungszeitraum bewilligt
@@ -943,9 +963,7 @@ ergangen, gelten die Sätze 1 bis 5 entsprechend. In den Fällen nach
 den Sätzen 1 bis 6 ist die Verlängerungsregelung nach Absatz 5 nicht
 anzuwenden.
 
-(7a) Bei den Leistungen für Bildung und Teilhabe nach § 6b ist § 68
-Absatz 1 des Zweiten Buches Sozialgesetzbuch sowie eine nach dessen
-Absatz 2 erlassene Rechtsverordnung entsprechend anzuwenden.
+(7a) (weggefallen)
 
 (8) § 1 Absatz 2 Satz 3 und § 2 Absatz 2 und 3 in der Fassung des
 Artikels 3 des Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) ist für
@@ -1007,7 +1025,10 @@ Fachkräfteeinwanderungsgesetzes folgenden Kalendermonats beginnen. § 1
 Absatz 3 Satz 1 Nummer 5 in der Fassung des Artikels 34 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen
 anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019
-beginnen.
+beginnen. § 1 Absatz 3 Nummer 2 Buchstabe c in der Fassung des
+Artikels 5 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist
+für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem
+31\. Mai 2022 beginnen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
@@ -1029,13 +1050,4 @@ die nach § 53 Satz 6 des Einkommensteuergesetzes festzusetzen gewesen
 wäre, wenn die Voraussetzungen nach § 53 Satz 1 und 2 des
 Einkommensteuergesetzes vorgelegen hätten, als zusätzliches Kindergeld
 zu zahlen.
-
-
-### § 22 Bericht der Bundesregierung
-
-Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2023
-einen Bericht über die Auswirkungen des § 6a (Kinderzuschlag) und
-insbesondere über die Auswirkungen der erweiterten Zugangsmöglichkeit
-zum Kinderzuschlag nach § 6a Absatz 1a sowie über die gegebenenfalls
-notwendige Weiterentwicklung dieser Vorschrift vor.
 

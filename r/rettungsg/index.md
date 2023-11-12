@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 725, 729
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 4 G v. 10.7.2020 I 1633
+:   Art. 2 Abs. 8 G v. 20.12.2022 I 2752
 
 
 ## § 1 Enteignung zur Sicherung der Finanzmarktstabilität
@@ -388,11 +388,4 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 
 
-
-
-## § 9 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 

@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2006, 2391
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.11.2021 I 4946
+:   Art. 7 G v. 20.7.2022 I 1237
+
+Änderung durch
+:   Art. 3 G v. 20.12.2022 I 2512 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -110,10 +113,9 @@ insbesondere auch:
         2006 (BGBl. I S. 2477) geändert worden ist,
 
 
-    c)  jeweils gesondert die Umlagen und Aufschläge nach § 60 Absatz 1 des
-        Erneuerbare-Energien-Gesetzes, § 26 des Kraft-Wärme-Kopplungsgesetzes,
-        § 19 Absatz 2 der Stromnetzentgeltverordnung, § 17f Absatz 5 des
-        Energiewirtschaftsgesetzes und § 18 der Verordnung zu abschaltbaren
+    c)  jeweils gesondert die Umlagen und Aufschläge nach § 12 Absatz 1 des
+        Energiefinanzierungsgesetzes, § 19 Absatz 2 der
+        Stromnetzentgeltverordnung und § 18 der Verordnung zu abschaltbaren
         Lasten vom 28. Dezember 2012 (BGBl. I S. 2998) in der jeweils
         geltenden Fassung,
 
@@ -195,12 +197,13 @@ Anschlussnutzers beglichen werden.
 ### § 3 Ersatzversorgung
 
 (1) Für die Ersatzversorgung nach § 38 des Energiewirtschaftsgesetzes
-gelten die §§ 4 bis 8, 10 bis 19 und 22 sowie für die Beendigung der
-Ersatzversorgung nach § 38 Absatz 2 Satz 1 des
-Energiewirtschaftsgesetzes § 20 Absatz 3 entsprechend; § 11 Absatz 2
-gilt mit der Maßgabe, dass der Grundversorger den Energieverbrauch auf
-Grund einer rechnerischen Abgrenzung schätzen und den anteiligen
-Verbrauch in Rechnung stellen darf.
+gelten § 2 Absatz 3 Satz 4, die §§ 4, 5 Absatz 1, die §§ 5a bis 8, 10
+bis 19 und 22 sowie für die Beendigung der Ersatzversorgung nach § 38
+Absatz 4 Satz 1 des Energiewirtschaftsgesetzes § 20 Absatz 3
+entsprechend; § 11 Absatz 2 gilt mit der Maßgabe, dass der
+Grundversorger den Energieverbrauch auf Grund einer rechnerischen
+Abgrenzung schätzen und den anteiligen Verbrauch in Rechnung stellen
+darf.
 
 (2) Der Grundversorger hat dem Kunden unverzüglich nach Kenntnisnahme
 den Zeitpunkt des Beginns und des Endes der Ersatzversorgung in
@@ -621,7 +624,12 @@ Absatz 3 der Niederspannungsanschlussverordnung mit der Unterbrechung
 der Grundversorgung zu beauftragen. Dies gilt nicht, wenn die Folgen
 der Unterbrechung außer Verhältnis zur Schwere der Zuwiderhandlung
 stehen oder der Kunde darlegt, dass hinreichende Aussicht besteht,
-dass er seinen Verpflichtungen nachkommt. Die Verhältnismäßigkeit ist
+dass er seinen Verpflichtungen nachkommt. Im Fall einer Androhung nach
+Satz 1 hat der Grundversorger den Kunden einfach verständlich zu
+informieren, wie er dem Grundversorger das Vorliegen von
+Voraussetzungen nach Satz 5 in Textform mitteilen kann. Der
+Grundversorger hat dem Kunden die Kontaktadresse anzugeben, an die der
+Kunde die Mitteilung zu übermitteln hat. Die Verhältnismäßigkeit ist
 insbesondere dann nicht gewahrt, wenn infolge der Unterbrechung eine
 konkrete Gefahr für Leib oder Leben der dadurch Betroffenen zu
 besorgen ist. Der Grundversorger kann mit der Mahnung zugleich die
@@ -665,48 +673,75 @@ Mehrkosten verursachen. Dazu können beispielsweise gehören
 
 
 4.  Hinweise auf staatliche Unterstützungsmöglichkeiten der sozialen
-    Mindestsicherung oder auf eine anerkannte Schuldner- und
-    Verbraucherberatung.
+    Mindestsicherung und bei welcher Behörde diese beantragt werden kann
+    sowie auf eine anerkannte Schuldner- und Verbraucherberatung.
 
 
 
 Ergänzend ist auch auf die Pflicht des Grundversorgers hinzuweisen,
-dem Kunden spätestens mit der Ankündigung der Unterbrechung eine
-Abwendungsvereinbarung nach Absatz 5 anzubieten. Die Informationen
-nach den Sätzen 1 bis 3 sind in einfacher und verständlicher Weise zu
-erläutern.
+dem Kunden auf dessen Verlangen innerhalb einer Woche sowie unabhängig
+von einem solchen Verlangen des Kunden spätestens mit der Ankündigung
+der Unterbrechung eine Abwendungsvereinbarung nach Absatz 5 anzubieten
+und dem Kunden ein standardisiertes Antwortformular zu übersenden, mit
+dem der Kunde die Übersendung einer Abwendungsvereinbarung anfordern
+kann. Die Informationen nach den Sätzen 1 bis 3 sind in einfacher und
+verständlicher Weise zu erläutern.
 
 (4) Der Beginn der Unterbrechung der Grundversorgung ist dem Kunden
 acht Werktage im Voraus durch briefliche Mitteilung anzukündigen.
 Zusätzlich soll die Ankündigung nach Möglichkeit auch auf
 elektronischem Wege in Textform erfolgen.
 
-(5) Der Grundversorger ist verpflichtet, dem betroffenen Kunden
-spätestens mit der Ankündigung einer Unterbrechung der Grundversorgung
-nach Absatz 4 zugleich in Textform den Abschluss einer
-Abwendungsvereinbarung anzubieten. Das Angebot für die
-Abwendungsvereinbarung hat Folgendes zu beinhalten:
+(5) Der betroffene Kunde ist nach Erhalt einer Androhung der
+Unterbrechung der Grundversorgung wegen Zahlungsverzugs berechtigt,
+von dem Grundversorger die Übermittlung des Angebots einer
+Abwendungsvereinbarung zu verlangen. Der Grundversorger ist
+verpflichtet, dem betroffenen Kunden im Fall eines Verlangens nach
+Satz 1 innerhalb einer Woche und unabhängig von einem solchen
+Verlangen des betroffenen Kunden spätestens mit der Ankündigung einer
+Unterbrechung der Grundversorgung nach Absatz 4 zugleich in Textform
+den Abschluss einer Abwendungsvereinbarung anzubieten. Das Angebot für
+die Abwendungsvereinbarung hat Folgendes zu beinhalten:
 
-1.  eine zinsfreie Ratenzahlungsvereinbarung über die nach Absatz 2 Satz 6
-    bis 8 ermittelten Zahlungsrückstände sowie
+1.  eine Vereinbarung über zinsfreie monatliche Ratenzahlungen zur Tilgung
+    der nach Absatz 2 Satz 6 bis 8 ermittelten Zahlungsrückstände sowie
 
 
-2.  eine Weiterversorgung auf Vorauszahlungsbasis nach § 14 Absatz 1 und
-    2\.
+2.  eine Verpflichtung des Grundversorgers zur Weiterversorgung nach
+    Maßgabe der allgemeinen und ergänzenden Bedingungen, soweit der Kunde
+    seine laufenden Zahlungsverpflichtungen aus dem
+    Grundversorgungsvertrag erfüllt, und
+
+
+3.  allgemein verständliche Erläuterungen der Vorgaben für
+    Abwendungsvereinbarungen.
 
 
 
-Die Ratenzahlungsvereinbarung nach Satz 2 Nummer 1 muss so gestaltet
-sein, dass der Kunde sich dazu verpflichtet, die Zahlungsrückstände in
-einem für den Grundversorger sowie für den Kunden wirtschaftlich
-zumutbaren Zeitraum vollständig auszugleichen. Als in der Regel
-zumutbar ist ein Zeitraum von sechs bis 18 Monaten anzusehen. Nimmt
-der Kunde das Angebot vor Durchführung der Unterbrechung in Textform
-an, darf die Versorgung durch den Grundversorger nicht unterbrochen
-werden. Kommt der Kunde seinen Verpflichtungen aus der
-Abwendungsvereinbarung nicht nach, ist der Grundversorger berechtigt,
-die Grundversorgung unter Beachtung des Absatzes 4 zu unterbrechen.
-Absatz 2 Satz 2 und 3 ist entsprechend anzuwenden.
+Unabhängig vom gesetzlichen Widerrufsrecht des Kunden darf nicht
+ausgeschlossen werden, dass er innerhalb eines Monats nach Abschluss
+der Abwendungsvereinbarung Einwände gegen die der Ratenzahlung
+zugrunde liegenden Forderungen in Textform erheben kann. Die
+Ratenzahlungsvereinbarung nach Satz 3 Nummer 1 muss so gestaltet sein,
+dass der Kunde sich dazu verpflichtet, die Zahlungsrückstände in einem
+für den Grundversorger sowie für den Kunden wirtschaftlich zumutbaren
+Zeitraum vollständig auszugleichen. Als in der Regel zumutbar ist je
+nach Höhe der Zahlungsrückstände ein Zeitraum von sechs bis 18 Monaten
+anzusehen. Überschreiten die Zahlungsrückstände die Summe von 300
+Euro, beträgt dieser Zeitraum mindestens zwölf bis 24 Monate. In die
+Bemessung der Zeiträume nach den Sätzen 6 und 7 soll die Höhe der
+jeweiligen Zahlungsrückstände maßgeblich einfließen. Der Kunde kann in
+dem Zeitraum, den die Abwendungsvereinbarung umfasst, von dem
+Grundversorger eine Aussetzung der Verpflichtungen nach Satz 3 Nummer
+1 hinsichtlich der monatlichen Ratenzahlungsvereinbarung in Höhe von
+bis zu drei Monatsraten verlangen, solange er im Übrigen seine
+laufenden Zahlungsverpflichtungen aus dem Grundversorgungsvertrag
+erfüllt. Darüber hat der Haushaltskunde den Grundversorger vor Beginn
+des betroffenen Zeitraums in Textform zu informieren. Kommt der Kunde
+seinen Verpflichtungen aus der Abwendungsvereinbarung nicht nach, ist
+der Grundversorger berechtigt, die Grundversorgung unter Beachtung des
+Absatzes 4 zu unterbrechen. Absatz 2 Satz 2 und 3 ist entsprechend
+anzuwenden.
 
 (6) In einer Unterbrechungsandrohung im Sinne des Absatzes 2 Satz 1
 und in einer Ankündigung des Unterbrechungsbeginns nach Absatz 4 ist
@@ -725,7 +760,9 @@ pauschale Berechnung muss einfach nachvollziehbar sein. Die Pauschale
 darf die nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten
 nicht übersteigen. Auf Verlangen des Kunden ist die
 Berechnungsgrundlage nachzuweisen. Der Nachweis geringerer Kosten ist
-dem Kunden zu gestatten.
+dem Kunden zu gestatten. Die in Rechnung gestellten Kosten dürfen,
+auch im Fall einer Pauschalisierung, die tatsächlich entstehenden
+Kosten nicht überschreiten.
 
 
 ### § 20 Kündigung
@@ -733,7 +770,7 @@ dem Kunden zu gestatten.
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen
 gekündigt werden. Eine Kündigung durch den Grundversorger ist nur
 möglich, soweit eine Pflicht zur Grundversorgung nach § 36 Absatz 1
-Satz 2 des Energiewirtschaftsgesetzes nicht besteht.
+Satz 4 des Energiewirtschaftsgesetzes nicht besteht.
 
 (2) Die Kündigung bedarf der Textform. Der Grundversorger hat eine
 Kündigung des Kunden unverzüglich nach Eingang unter Angabe des
@@ -770,5 +807,6 @@ Kunden.
 
 Die erstmalige Veröffentlichung des Musters der Abwendungsvereinbarung
 des Grundversorgers auf dessen Internetseite nach § 2 Absatz 3 Satz 7
-hat spätestens zum 1. Januar 2022 zu erfolgen.
+hat spätestens zum 1. Januar 2022 zu erfolgen. § 19 Absatz 5 Satz 9
+ist bis zum Ablauf des 30. April 2024 anwendbar.
 

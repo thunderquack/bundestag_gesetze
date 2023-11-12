@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.12.2020 I 2668
-
-Änderung durch
-:   Art. 19 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
+:   Art. 4 G v. 17.7.2023 I Nr. 190
 
 
 ## Eingangsformel
@@ -111,11 +108,22 @@ Standesamt eine Niederschrift aufzunehmen. Die Niederschrift muss alle
 zur ordnungsgemäßen Beurkundung im Personenstandsregister
 erforderlichen Angaben enthalten.
 
-(2) Für die elektronische Anzeige einer Geburt oder eines Sterbefalls
-sollen das Datenaustauschformat XPersonenstand und das
-Übertragungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt
-gemachten jeweils gültigen Fassung verwendet werden; § 63 Absatz 4
-gilt entsprechend.
+(2) Werden die nach dem Gesetz elektronisch zugelassenen Anzeigen,
+Anmeldungen und Anträge dem Standesamt über ein von einer Behörde
+bereitgestelltes Verwaltungsportal übermittelt, so soll für die
+elektronische Kommunikation zwischen dem Portal und dem Standesamt das
+Datenaustauschformat XPersonenstand und das Übertragungsprotokoll
+OSCI-Transport in der im Bundesanzeiger bekannt gemachten jeweils
+gültigen Fassung verwendet werden. § 63 Absatz 4 gilt entsprechend.
+
+(3) Die nach dem Gesetz gegenüber dem Standesamt zugelassenen
+elektronischen Anzeige-, Anmelde- und Antragsverfahren müssen dem
+Vertrauensniveau  „hoch“  nach Artikel 8 der Verordnung (EU) Nr.
+910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014
+über elektronische Identifizierung und Vertrauensdienste für
+elektronische Transaktionen im Binnenmarkt und zur Aufhebung der
+Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom
+29\.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) entsprechen.
 
 
 ### § 7 Zurückstellen der Beurkundung
@@ -138,7 +146,7 @@ vorzulegen:
 1.  der Personalausweis oder der Reisepass oder
 
 
-2.  eine erweiterte Bescheinigung der Meldebehörde, aus der sich die
+2.  eine Bescheinigung der Meldebehörde, aus der sich die
     Staatsangehörigkeit ergibt.
 
 
@@ -401,18 +409,30 @@ innerhalb eines Standesamts mit folgenden Berechtigungsstufen:
 
 
 4.  Stufe D erlaubt die Einsicht in das Suchverzeichnis, um festzustellen,
-    ob der Eintrag bei dem betreffenden Standesamt geführt wird.
+    ob der Eintrag bei dem betreffenden Standesamt geführt wird,
+
+
+5.  Stufe T erlaubt, einen automatisierten Datenabruf durch einen
+    technischen Benutzer nach § 68 Absatz 2 des Gesetzes auszulösen.
 
 
 
 Eine höhere Berechtigung schließt eine niedrigere ein.
 
-(2) Der Leiter des Standesamts legt die Berechtigung und die jeweilige
-Berechtigungsstufe fest. Die Zugriffsberechtigung für ein nach § 67
-des Gesetzes eingerichtetes zentrales Personenstandsregister wird
-durch Rechtsverordnung der Landesregierung geregelt. Die Ermächtigung
-kann durch Rechtsverordnung auf oberste Landesbehörden übertragen
-werden.
+(2) Die Berechtigung und die jeweiligen Berechtigungsstufen nach
+Absatz 1 werden durch einen von dem Aufgabenträger des Standesamts
+dafür bestimmten Standesbeamten erteilt. Die Zugriffsberechtigung für
+ein nach § 67 des Gesetzes eingerichtetes zentrales
+Personenstandsregister wird durch Rechtsverordnung der Landesregierung
+geregelt. Die Ermächtigung kann durch Rechtsverordnung auf oberste
+Landesbehörden übertragen werden.
+
+(3) Das Löschen eines Registereintrags nach § 7 Absatz 3 und 4 des
+Gesetzes erfolgt durch einen von dem Aufgabenträger des Standesamts
+dafür bestimmten Standesbeamten. Durch technische Maßnahmen ist zu
+gewährleisten, dass nur Registereinträge, einschließlich der
+zugehörigen elektronischen Sammelakten, gelöscht werden können, deren
+Fortführungsfrist nach § 5 Absatz 5 des Gesetzes abgelaufen ist.
 
 
 ### Abschnitt 2 - Führung der Personenstandsregister
@@ -625,6 +645,9 @@ Erscheinen in dem Standesamt verhindert, können sie die Eheschließung
 auch schriftlich oder durch einen Bevollmächtigten anmelden.
 
 (2) Über die mündliche Anmeldung ist eine Niederschrift aufzunehmen.
+Bei schriftlicher Anmeldung der Eheschließung reicht es aus, in der
+Niederschrift auf die elektronisch oder schriftlich übersandten
+Anmeldedaten zu verweisen.
 
 (3) Soll die Ehe nicht in dem Standesamt geschlossen werden, bei dem
 sie angemeldet worden ist, so prüft das Standesamt, das die Anmeldung
@@ -829,13 +852,7 @@ Kind geführt hat, aber durch Erklärungen nach Artikel 47 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder § 94 des
 Bundesvertriebenengesetzes erfolgt ist.
 
-(3) Die Angabe der rechtlichen Zugehörigkeit des Kindes zu einer
-Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist,
-wird auf Wunsch des Personensorgeberechtigten, ab dem 14. Lebensjahr
-nur auf Wunsch des Kindes selbst, eingetragen. Erhält das Standesamt
-eine Mitteilung über den Austritt des Kindes aus dieser
-Religionsgemeinschaft oder den Übertritt in eine andere
-Religionsgemeinschaft, so ist auch dies zu vermerken.
+(3) (weggefallen)
 
 
 ## Kapitel 6 - Sterbefall
@@ -1074,30 +1091,38 @@ bestehen und sich als solcher von dem gewählten Vornamen
 unterscheiden.
 
 
-### § 46 Bescheinigung über Erklärungen zur Namensführung
+### § 46 Familienrechtliche Erklärungen
 
-Das Standesamt, das
+(1) Einer Person deren Name oder Geschlechtseintrag geändert worden
+ist, wird auf Wunsch eine Bescheinigung von dem Standesamt erteilt,
+das
 
 1.  eine Erklärung, Einwilligung oder Zustimmung zur Namensführung auf
     Grund familienrechtlicher Vorschriften entgegengenommen hat,
 
 
-2.  eine Erklärung nach § 94 des Bundesvertriebenengesetzes, § 1 des
+2.  eine Erklärung nach § 94 des Bundesvertriebenengesetzes, § 1 des
     Minderheiten-Namensänderungsgesetzes oder Artikel 47, 48 des
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat,
 
 
-3.  eine Erklärung zur Reihenfolge der Vornamen nach § 45a des Gesetzes
+3.  eine Erklärung nach § 45a oder nach § 45b des Gesetzes
     entgegengenommen hat oder
 
 
 4.  ein Personenstandsregister führt, aus dem sich eine Namensänderung
-    nach den Nummern 1 bis 3 ergibt,
+    oder die Änderung des Geschlechtseintrags nach den Nummern 1 bis 3
+    ergibt.
 
 
 
-erteilt der Person, deren Name geändert worden ist, hierüber auf
-Wunsch eine Bescheinigung.
+
+(2) Wird eine Erklärung zur Namensführung oder eine andere
+familienrechtliche Erklärung nach den §§ 41 bis 45b des Gesetzes
+gegenüber einem Standesamt abgegeben, das für die Entgegennahme nicht
+zuständig ist, sollen dem für die Entgegennahme zuständigen Standesamt
+die Erklärungsdaten mit dem Wortlaut der Erklärung bei Vorliegen der
+technischen Voraussetzungen nach § 63 elektronisch übermittelt werden.
 
 
 ## Kapitel 8 - Berichtigungen
@@ -1151,7 +1176,7 @@ Registerinhalt zu versehen. Die Formulare nach den Mustern der Anlagen
 dabei kann die Zeilengestaltung formatgerecht angepasst werden.
 
 (2) Wird bei der Beantragung einer Geburtsurkunde verlangt, Angaben
-nach § 59 Abs. 1 Nr. 2, 4 oder 5 des Gesetzes nicht aufzunehmen,
+nach § 59 Absatz 1 Nummer 2 oder 4 des Gesetzes nicht aufzunehmen,
 entfällt in dem Urkundenformular auch das entsprechende Angabenfeld.
 
 (3) In den beglaubigten Registerausdruck sind die Hinweise nur auf
@@ -2233,8 +2258,9 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 #### § 61 Mitteilungen für statistische Zwecke
 
 Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer
-Geburt, Eheschließung, Begründung der Lebenspartnerschaft und eines
-Sterbefalls die Daten mitgeteilt, die nach § 2 des
+Geburt, Eheschließung, Begründung der Lebenspartnerschaft, eines
+Sterbefalls und einer Änderung der Geschlechtsangabe die Daten
+mitgeteilt, die nach den §§ 2 und 5 Absatz 3 des
 Bevölkerungsstatistikgesetzes zu übermitteln sind.
 
 
@@ -2320,49 +2346,72 @@ Betriebs- und Sicherheitskonzept (§ 13) zu dokumentieren.
 
 #### § 64 Abrufverfahren
 
-(1) Für Datenübermittlungen im automatisierten Abrufverfahren nach §
-68 Abs. 2 des Gesetzes gilt § 63. Die eingesetzten Verfahren müssen
-sicherstellen, dass nur die zur Aufgabenerfüllung erforderlichen Daten
-abgerufen werden können.
+(1) Für Datenübermittlungen und Datenabrufe im automatisierten
+Abrufverfahren nach § 68 des Gesetzes gilt § 63. Die eingesetzten
+technischen Verfahren für den automatisierten Datenabruf müssen
+sicherstellen, dass nur die zur Aufgabenerfüllung der abrufenden
+Stelle erforderlichen Daten übermittelt werden können. Wird beim
+automatisierten Abruf kein zugehöriger Registereintrag im
+elektronischen Personenstandsregister feststellt, wird die
+Abfragenachricht dem Standesamt zur manuellen Suche im Altregister
+weitergeleitet. Bei einem papiergebundenen Eintrag erfolgt die Antwort
+im teilautomatisierten Verfahren durch das registerführende
+Standesamt. Sofern zu einem Registereintrag ein Sperrvermerk nach § 64
+des Gesetzes eingetragen ist und eine Auskunft nicht erteilt wird,
+erhält die ersuchende Stelle eine automatisierte Mitteilung, die keine
+Rückschlüsse darauf zulassen darf, ob zu der betroffenen Person keine
+Daten vorhanden sind oder ein Sperrvermerk vorliegt.
 
-(2) Zur Sicherung der ordnungsgemäßen Datenverarbeitung und für die
-Abrechnung der Kosten des Abrufs werden alle Abrufe durch das
-registerführende Standesamt protokolliert. Im Protokoll sind das
-registerführende Standesamt, die Registrierungsdaten nach § 16 Abs. 2
-Satz 1, die abrufende Person oder Stelle, ein Aktenzeichen oder eine
-sonstige Kennung des Abrufs, der Zeitpunkt des Abrufs sowie die für
-die Durchführung des Abrufs verwendeten Daten zu speichern. Die
-Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt der
-Empfänger der Daten.
+(2) Datenabrufe im automatisierten Abrufverfahren sollen für die Suche
+des Datensatzes im Personenstandsregister als Auswahldaten die
+Registrierungsdaten des betroffenen Personenstandseintrags nach § 16
+Absatz 2 Satz 1 oder mindestens die Namen der beurkundeten Person, das
+Ereignisdatum und den Ereignisort des personenstandsrechtlichen
+Ereignisses enthalten. Weitere Auswahldaten sind Daten, die in Anlage
+1 zur Verwendung als Suchfeld ausgewiesen sind.
 
-(3) Die nach Absatz 2 gefertigten Protokolle werden vier Jahre nach
-Ablauf des Kalenderjahres vernichtet, in dem der Abruf erfolgt ist.
+(3) Zur Sicherung der ordnungsgemäßen Datenverarbeitung werden alle
+Abrufe durch das registerführende Standesamt protokolliert. Für jeden
+automatisierten Datenabruf ist Folgendes zu protokollieren:
+
+1.  die Registrierungsdaten des abgerufenen Eintrags nach § 16 Absatz 2
+    Satz 1,
+
+
+2.  die abrufende Person und Stelle,
+
+
+3.  die in der Anfragenachricht angegebenen Auswahldaten,
+
+
+4.  die abgerufenen Daten, soweit diese nicht über den Zeitpunkt des
+    Abrufs festgestellt werden können,
+
+
+5.  der Zeitpunkt des Abrufs,
+
+
+6.  das Aktenzeichen oder eine sonstige Kennung der abrufenden Behörde,
+
+
+7.  der Anlass des Abrufs,
+
+
+8.  bei einem automatisierten Abruf die Bezeichnung des Verfahrens.
+
+
+
+Die nach Satz 1 gefertigten Protokolle werden vier Jahre nach Ablauf
+des Kalenderjahres vernichtet, in dem der Abruf erfolgt ist.
+
+(4) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt
+die abrufende Stelle.
 
 
 ## Kapitel 10 - Übergangs- und Schlussvorschriften
 
 
-### § 65 Übergangsbeurkundungen
-
-(1) Standesämter, die am 1. Januar 2009 noch nicht über eine
-Ausstattung zur elektronischen Personenstandsregisterführung verfügen,
-beurkunden die Personenstandsfälle auf Formularen nach den Mustern der
-Anlagen 2 bis 5 im Format DIN A4. Die Formulare sind dem
-Beurkundungssachverhalt anzupassen und können programmgerecht
-eingerichtet werden, soweit dies im Einzelfall notwendig ist; § 48
-Abs. 4 gilt entsprechend. Für die Sicherungsregister gilt Satz 1 mit
-der Maßgabe, dass die Formulare mit der zusätzlichen Angabe
-„Sicherungsregister“ zu versehen sind; die Übereinstimmung mit dem
-jeweiligen Personenstandsregister ist vom Standesbeamten zu
-beglaubigen.
-
-(2) Folgebeurkundungen und Hinweise können auf der Rückseite des
-Formulars vorgenommen werden. Folgebeurkundungen können auch am Rande
-des Haupteintrags vorgenommen werden. Hinweise können auch unterhalb
-des Haupteintrags eingetragen werden.
-
-(3) Für die Übergangsbeurkundungen gelten die §§ 15 bis 19, 21 und 25
-entsprechend.
+### § 65 (weggefallen)
 
 
 ### § 66 Fortführung von Altregistern
@@ -2450,12 +2499,18 @@ werden die ursprüngliche Bezeichnung und die Standesamtsnummer
 übernommen; bei nicht vorhandener oder nicht verwendbarer
 Standesamtsnummer wird die Nummer des erfassenden Standesamts um eine
 fortlaufende dreistellige Ziffernfolge (Suffix) ergänzt, die das
-Standesamt einmalig vergibt. Der Name des Standesbeamten aus dem
-ursprünglichen Eintrag wird ohne Funktionsbezeichnung übernommen. Als
-Heiratseinträge fortgeführte Familienbücher im Sinne des § 77 Absatz 2
-Satz 2 des Personenstandsgesetzes werden mit einer nicht belegten
-Eintragsnummer im Eheregister des Jahres nacherfasst, in dem sie
-angelegt wurden.
+Standesamt einmalig vergibt; sofern für ein Standesamt trotz
+unterschiedlicher Bezeichnungen die gleiche Standesamtsnummer vergeben
+war, erfolgt die Nacherfassung unter der neuen Bezeichnung des
+Standesamtes. Weicht bei zusammengelegten Standesämtern mit neuer
+Bezeichnung und unveränderter Standesamtsnummer der Name des
+neugebildeten Standesamts von dem Namen des erfassten Standesamts ab,
+so sind die Einträge elektronisch unter der neuen Bezeichnung zu
+fassen. Der Name des Standesbeamten aus dem ursprünglichen Eintrag
+wird ohne Funktionsbezeichnung übernommen. Als Heiratseinträge
+fortgeführte Familienbücher im Sinne des § 77 Absatz 2 Satz 2 des
+Personenstandsgesetzes werden mit einer nicht belegten Eintragsnummer
+im Eheregister des Jahres nacherfasst, in dem sie angelegt wurden.
 
 (3) Der Standesbeamte, der die elektronische Erfassung durchführt,
 schließt den Eintrag mit seiner dauerhaft überprüfbaren qualifizierten
@@ -2547,8 +2602,7 @@ in Berlin zuständig. Dabei gelten folgende Besonderheiten:
 
 (3) Urkunden, Entscheidungen und Mitteilungen zu den in Absatz 1
 Nummer 1 und 3 genannten Einträgen und Registern sind dem Standesamt I
-in Berlin zu übersenden; die Übersendung unterbleibt, wenn die
-Mitteilungen nur zur Eintragung von Hinweisen dienen würden.
+in Berlin zu übersenden.
 
 
 ### § 72 Besondere Aufgaben des Standesamts I in Berlin
@@ -2610,7 +2664,7 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 Datenfelder in den Personenstandsregistern
 
-Fundstelle: BGBl. I 2018, 1770 - 1789)
+(Fundstelle: BGBl. I 2022, 1750 — 1770)
 
 
 *    *   Nr.
@@ -2638,8 +2692,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 
 *    *
-    *   Allgemeine Registerangaben
-        für alle Register ****
+    *   Allgemeine Registerangaben für alle Register ****
 
     *
     *
@@ -2665,8 +2718,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Standesamtsnummer
 
-    *   z. B. 06412001 für das Standesamt Frankfurt/Main, ggf. ergänzt um ein
-        Suffix für ein verwaltetes Standesamt
+    *   z. B. 06412001 für das Standesamt Frankfurt am Main, ggf. ergänzt um
+        ein Suffix für ein verwaltetes Standesamt
 
     *   X
 
@@ -2697,9 +2750,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Eintragsnummer
 
-    *   z. B. „334“ für die 334. Beurkundung einer Geburt eines Jahres; bei
-        Stilllegung des Eintrags z. B. 334-1 für die erneute Beurkundung zu
-        dieser Eintragsnummer
+    *   z. B. „334“ für die 334. Beurkundung einer Geburt eines Jahres;
+        bei Stilllegung des Eintrags
+        z. B. 334-1 für die erneute Beurkundung zu dieser Eintragsnummer
 
     *   X
 
@@ -2725,14 +2778,29 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   0014
 
-    *   Nummer der Folgebeurkundung
+    *   Nummer der Erst- und Folgebeurkundung
 
-    *   Beispiel: „3“ für die 3. Folgebeurkundung zu einem Haupteintrag
+    *   Beispiele: „0“ bei Erstbeurkundung, „3“ für die 3. Folgebeurkundung zu
+        einem Haupteintrag
 
-    *
+    *   X
+
     *   X
 
     *
+    *
+    *
+
+*    *   0015
+
+    *   Nummer eines Hinweises
+
+    *   Technisches Datum, Nummer
+
+    *
+    *
+    *   X
+
     *
     *
 
@@ -2755,15 +2823,14 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Anlass eines Hinweises
 
-    *   z. B. Eheschließung des Kindes, Lebenspartnerschaft des Kindes, Kind
-        des Kindes, Tod des Kindes, Wiederverheiratung, Ehe des Verstorbenen
-
+    *
     *
     *
     *   X
 
     *
-    *
+    *   1)
+
 
 *    *   0040
 
@@ -2870,7 +2937,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 
-[^F804512_01_BJNR226300008BJNE007903116]
+   _\_\__\_\__\_\__
+
+[^F823805_01_BJNR226300008BJNE007905116]
 
 *    *   Nr.
 
@@ -2907,15 +2976,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Angaben zur Geburt**
 
     *
@@ -2941,9 +3001,10 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   1041
 
+    *   Geburtszeit
+
     *   Stunde und Minute der Geburt
 
-    *
     *   X
 
     *   X
@@ -2982,7 +3043,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   1052
 
-    *   Geburtsort, Straße
+    *   Geburtsort, Straße, Hausnummer
 
     *
     *   X
@@ -2992,26 +3053,13 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
     *
-
-*    *   1053
-
-    *   Geburtsort, Hausnummer
-
-    *
-    *   X
-
-    *   X
-
-    *
-    *
-    *   2)
-
 
 *    *   1055
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -3052,15 +3100,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Angaben zum Kind**
 
     *
@@ -3085,7 +3124,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1102
+*    *   1101A
 
     *   Ausländische Namensart
 
@@ -3099,7 +3138,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   1105
+*    *   1102
 
     *   Vornamen
 
@@ -3113,7 +3152,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1106
+*    *   1102A
 
     *   Ausländische Namensart
 
@@ -3164,7 +3203,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   1180
 
@@ -3179,6 +3219,19 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   1198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   1199
 
     *   Familiennamensführung nicht nachgewiesen
@@ -3187,15 +3240,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
     *
     *
     *
@@ -3212,10 +3256,10 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *   **1.**
+    *   1.
 
-    *   Die Nummer dient der Zuordnung von Hinweisen und Folgebeurkundungen im
-        Registerausdruck und in der Geburtsurkunde
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde
 
     *   X
 
@@ -3259,7 +3303,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1202
+*    *   1201A
 
     *   Ausländische Namensart
 
@@ -3273,7 +3317,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   1203
+*    *   1202
 
     *   Geburtsname
 
@@ -3287,7 +3331,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1204
+*    *   1202A
 
     *   Ausländische Namensart
 
@@ -3301,7 +3345,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   1205
+*    *   1203
 
     *   Vornamen
 
@@ -3315,7 +3359,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1206
+*    *   1203A
 
     *   Ausländische Namensart
 
@@ -3353,7 +3397,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   1240
 
@@ -3383,7 +3428,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -3457,6 +3503,19 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   1298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   1299
 
     *   Identität nicht nachgewiesen
@@ -3471,20 +3530,24 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   1299A
+
+    *   Namensführung nicht nachgewiesen
+
     *
-    *
-    *
-    *
+    *   X
+
+    *   X
+
     *
     *
     *
 
 *    *
-    *   **2.**
+    *   2.
 
-    *   Die Nummer dient der Zuordnung von Hinweisen und Folgebeurkundungen im
-        Registerausdruck und in der Geburtsurkunde
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde
 
     *   X
 
@@ -3503,7 +3566,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   Es können die Bezeichnungen „Mutter“ oder „Vater“ angegeben werden;
         bei Folgebeurkundungen sind Personen, die weder dem männlichen noch
         dem weiblichen Geschlecht angehören, als „Elternteil“ anzugeben,
-        Beispiel: 2. Vater“
+        Beispiel: „2. Vater“
 
     *   X
 
@@ -3528,7 +3591,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1302
+*    *   1301A
 
     *   Ausländische Namensart
 
@@ -3542,7 +3605,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   1303
+*    *   1302
 
     *   Geburtsname
 
@@ -3556,7 +3619,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1304
+*    *   1302A
 
     *   Ausländische Namensart
 
@@ -3570,7 +3633,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   1305
+*    *   1303
 
     *   Vornamen
 
@@ -3584,7 +3647,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   1306
+*    *   1303A
 
     *   Ausländische Namensart
 
@@ -3622,7 +3685,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   1340
 
@@ -3652,7 +3716,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -3726,6 +3791,19 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   1398
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   1399
 
     *   Identität nicht nachgewiesen
@@ -3740,11 +3818,15 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   1399A
+
+    *   Namensführung nicht nachgewiesen
+
     *
-    *
-    *
-    *
+    *   X
+
+    *   X
+
     *
     *
     *
@@ -3836,15 +3918,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Ehe des Kindes**
 
     *
@@ -3882,7 +3955,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -4014,15 +4088,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Lebenspartnerschaft des Kindes**
 
     *
@@ -4060,7 +4125,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -4192,15 +4258,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Kind des Kindes**
 
     *
@@ -4210,11 +4267,24 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   1700
+
+    *   Anzahl der eingetragenen Kinder
+
+    *
+    *
+    *
+    *   X
+
+    *
+    *   1)
+
+
 *    *   1701
 
     *   Familienname
 
-    *   Angabe des aktuellen Geburtsnamens des Kindes
+    *   Angabe des Geburtsnamens des Kindes
 
     *
     *
@@ -4263,7 +4333,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -4340,15 +4411,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Testamentsverzeichnis**
 
     *
@@ -4368,17 +4430,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   X
 
     *
-    *   5)
+    *   3)
 
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
 
 *    *
     *   **Tod, Todeserklärung, Feststellung der Todeszeit des Kindes**
@@ -4394,7 +4447,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum aus Sterbeeintrag
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *
     *
@@ -4405,11 +4459,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   1942
 
-    *   Sterbezeitraum
+    *   Tag des Beginns eines Sterbezeitzeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person
-        mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *
     *
@@ -4434,7 +4486,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -4459,64 +4512,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   1960
 
-    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
-
-    *   Beschlussdatum
-
-    *
-    *
-    *   X
-
-    *
-    *   2)
-
-
-*    *   1962
-
-    *   Festgestellter Todestag
+    *   Festgestellter Todestag bei Todeserklärung
 
     *   Datum
-
-    *
-    *
-    *   X
-
-    *
-    *   2)
-
-
-*    *   1963
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *
-    *   X
-
-    *
-    *   2)
-
-
-*    *   1964
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   1965
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
 
     *
     *
@@ -4601,15 +4599,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Angaben zur Ehe**
 
     *
@@ -4666,7 +4655,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -4690,12 +4680,17 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *
+*    *   2058
+
+    *   Namensbestimmung
+
+    *   Gemeinsamer Familienname ist Name des Ehegatten zu 1., zu 2. oder
+        Doppelname
+
     *
     *
-    *
-    *
-    *
+    *   X
+
     *
     *
 
@@ -4767,29 +4762,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   4)
 
 
-*    *   2078
-
-    *   Namensbestimmung
-
-    *   Gemeinsamer Familienname ist Name des Ehegatten zu 1., zu 2. oder
-        Doppelname
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
 *    *
     *   **Angaben zu den Ehegatten**
 
@@ -4801,11 +4773,10 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *   **1.**
+    *   1.
 
-    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
-        Datenfelder sowie der Hinweise und Folgebeurkundungen im
-        Registerausdruck und in der Eheurkunde
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der Eheurkunde
 
     *   X
 
@@ -4837,7 +4808,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2101
 
-    *   Familienname (vor Eheschließung)
+    *   Familienname vor der Ehe
 
     *
     *   X
@@ -4849,7 +4820,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2102
+*    *   2101A
 
     *   Ausländische Namensart
 
@@ -4863,21 +4834,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2103
+*    *   2102
 
-    *   Geburtsname (vor Eheschließung)
-
-    *
-    *   X
-
-    *   X
+    *   Geburtsname vor der Ehe
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   2104
+*    *   2102A
 
     *   Ausländische Namensart
 
@@ -4891,21 +4862,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2105
+*    *   2103
 
-    *   Vornamen (vor Eheschließung)
-
-    *
-    *   X
-
-    *   X
+    *   Vornamen vor der Ehe
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   2106
+*    *   2103A
 
     *   Ausländische Namensart
 
@@ -4933,7 +4904,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2112
+*    *   2111A
 
     *   Ausländische Namensart
 
@@ -4947,7 +4918,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2113
+*    *   2112
 
     *   Geburtsname in der Ehe
 
@@ -4961,7 +4932,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2114
+*    *   2112A
 
     *   Ausländische Namensart
 
@@ -4975,7 +4946,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2115
+*    *   2113
 
     *   Vornamen in der Ehe
 
@@ -4990,7 +4961,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   2)
 
 
-*    *   2116
+*    *   2113A
 
     *   Ausländische Namensart
 
@@ -4998,6 +4969,89 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2114
+
+    *   Familienname nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   2114A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Familiennamens nach
+        Eheauflösung
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2115
+
+    *   Geburtsname nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   2115A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Geburtsnamens nach
+        Eheauflösung
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2116
+
+    *   Vorname nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   2116A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens nach
+        Eheauflösung
+
+    *
     *   X
 
     *
@@ -5043,7 +5097,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   2140
 
@@ -5076,7 +5131,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -5151,21 +5207,24 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   2198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
     *
     *
     *
     *
-    *
-    *
-    *
+    *   1)
+
 
 *    *
-    *   **2.**
+    *   2.
 
-    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
-        Datenfelder sowie der Hinweise und Folgebeurkundungen im
-        Registerausdruck und in der Eheurkunde
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der Eheurkunde
 
     *   X
 
@@ -5182,9 +5241,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   Familienrechtliche Bezeichnung
 
     *   Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden;
-        Personen, die
-        weder dem männlichen noch dem weiblichen Geschlecht angehören, sind
-        als „Ehepartner“ anzugeben,
+        Personen, die weder dem männlichen noch dem weiblichen Geschlecht
+        angehören, sind als „Ehepartner“ anzugeben,
         Beispiel: „2. Ehefrau“
 
     *   X
@@ -5198,7 +5256,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2201
 
-    *   Familienname (vor Eheschließung)
+    *   Familienname vor der Ehe
 
     *
     *   X
@@ -5210,7 +5268,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2202
+*    *   2201A
 
     *   Ausländische Namensart
 
@@ -5224,21 +5282,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2203
+*    *   2202
 
-    *   Geburtsname (vor Eheschließung)
-
-    *
-    *   X
-
-    *   X
+    *   Geburtsname vor der Ehe
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   2204
+*    *   2202A
 
     *   Ausländische Namensart
 
@@ -5252,21 +5310,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2205
+*    *   2203
 
-    *   Vornamen (vor Eheschließung)
-
-    *
-    *   X
-
-    *   X
+    *   Vornamen vor der Ehe
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   2206
+*    *   2203A
 
     *   Ausländische Namensart
 
@@ -5294,7 +5352,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2212
+*    *   2211A
 
     *   Ausländische Namensart
 
@@ -5308,7 +5366,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2213
+*    *   2212
 
     *   Geburtsname in der Ehe
 
@@ -5322,7 +5380,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   2214
+*    *   2212A
 
     *   Ausländische Namensart
 
@@ -5336,7 +5394,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   2215
+*    *   2213
 
     *   Vornamen in der Ehe
 
@@ -5351,7 +5409,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   2)
 
 
-*    *   2216
+*    *   2213A
 
     *   Ausländische Namensart
 
@@ -5359,6 +5417,89 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2214
+
+    *   Familienname nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   2214A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Familiennamens nach
+        Eheauflösung
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2215
+
+    *   Geburtsname nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   2215A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Geburtsnamens nach
+        Eheauflösung
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2216
+
+    *   Vornamen nach Eheauflösung
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   2216A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens nach
+        Eheauflösung
+
+    *
     *   X
 
     *
@@ -5404,7 +5545,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   2240
 
@@ -5437,7 +5579,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -5512,14 +5655,18 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   2298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
     *
     *
     *
     *
-    *
-    *
-    *
+    *   1)
+
 
 *    *
     *   **Auflösung der Ehe**
@@ -5543,13 +5690,24 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
+    *   3)
+
+
+*    *
+    *   **Auflösung durch Entscheidung**
+
+    *
+    *
+    *
+    *
+    *
     *
 
 *    *   2391
 
     *   Datum der Eheauflösung
 
-    *   Wirksamkeitsdatum
+    *   Datum der Rechtskraft der Scheidung
 
     *
     *   X
@@ -5560,7 +5718,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2392
 
-    *   Behörde
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -5597,15 +5755,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 1.**
 
     *
@@ -5619,7 +5768,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum aus Sterbeeintrag
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *
     *   X
@@ -5630,10 +5780,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2442
 
-    *   Sterbezeitraum
+    *   Tag des Beginns eines Sterbezeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *
     *   X
@@ -5658,7 +5807,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *   X
@@ -5683,20 +5833,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2460
 
-    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
-
-*    *   2462
-
-    *   Festgestellter Todestag
+    *   Festgestellter Todestag bei Todeserklärung
 
     *   Datum
 
@@ -5707,46 +5844,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   2)
 
-
-*    *   2463
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *   X
-
-    *
-    *
-    *   2)
-
-
-*    *   2464
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   2465
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
 
 *    *   2470
 
@@ -5787,15 +5884,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 2.**
 
     *
@@ -5809,7 +5897,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum aus Sterbeeintrag
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *
     *   X
@@ -5820,10 +5909,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2542
 
-    *   Sterbezeitraum
+    *   Tag des Beginns eines Sterbezeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *
     *   X
@@ -5848,7 +5936,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *   X
@@ -5873,20 +5962,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   2560
 
-    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
-
-*    *   2562
-
-    *   Festgestellter Todestag
+    *   Festgestellter Todestag bei Todeserklärung
 
     *   Datum
 
@@ -5897,46 +5973,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   2)
 
-
-*    *   2563
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *   X
-
-    *
-    *
-    *   2)
-
-
-*    *   2564
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   2565
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
 
 *    *   2570
 
@@ -5977,15 +6013,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Neue Ehe zu 1.**
 
     *
@@ -6004,6 +6031,20 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
+    *
+    *
+
+*    *   2641
+
+    *   Tag der Eheschließung nach Todeserklärung
+
+    *   Nur im Fall der Wiederverheiratung nach Todeserklärung des vorherigen
+        Ehegatten nach § 1319 BGB
+
+    *
+    *   X
+
+    *
     *
     *
 
@@ -6092,6 +6133,20 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   2741
+
+    *   Tag der Eheschließung nach Todeserklärung
+
+    *   Nur im Fall der Wiederverheiratung nach Todeserklärung des vorherigen
+        Ehegatten nach § 1319 BGB
+
+    *
+    *   X
+
+    *
+    *
+    *
+
 *    *   2750
 
     *   Ort der Eheschließung
@@ -6152,15 +6207,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -6246,15 +6292,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -6370,18 +6407,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 
 *    *
-    *   Lebenspartnerschafts-
-        register ****
+    *   Lebenspartnerschaftsregister ****
 
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
     *
     *
     *
@@ -6444,7 +6471,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -6479,7 +6507,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
     *
-    *
+    *   3)
+
 
 *    *   3078
 
@@ -6496,15 +6525,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Angaben zu den Lebenspartnern**
 
     *
@@ -6515,11 +6535,10 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *   **1.**
+    *   1.
 
-    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
-        Datenfelder sowie der Hinweise und Folgebeurkundungen im
-        Registerausdruck und in der
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der
         Lebenspartnerschaftsurkunde
 
     *   X
@@ -6552,7 +6571,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3101
 
-    *   Familienname (vor Begründung)
+    *   Familienname vor der Begründung
 
     *
     *   X
@@ -6564,7 +6583,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3102
+*    *   3101A
 
     *   Ausländische Namensart
 
@@ -6578,21 +6597,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3103
+*    *   3102
 
-    *   Geburtsname (vor Begründung)
-
-    *
-    *   X
-
-    *   X
+    *   Geburtsname vor der Begründung
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   3104
+*    *   3102A
 
     *   Ausländische Namensart
 
@@ -6606,21 +6625,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3105
+*    *   3103
 
-    *   Vornamen (vor Begründung)
-
-    *
-    *   X
-
-    *   X
+    *   Vornamen vor der Begründung
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   3106
+*    *   3103A
 
     *   Ausländische Namensart
 
@@ -6648,7 +6667,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3112
+*    *   3111A
 
     *   Ausländische Namensart
 
@@ -6662,7 +6681,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3113
+*    *   3112
 
     *   Geburtsname in der Lebenspartnerschaft
 
@@ -6676,7 +6695,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3114
+*    *   3112A
 
     *   Ausländische Namensart
 
@@ -6690,7 +6709,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3115
+*    *   3113
 
     *   Vornamen in der Lebenspartnerschaft
 
@@ -6705,7 +6724,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   2)
 
 
-*    *   3116
+*    *   3113A
 
     *   Ausländische Namensart
 
@@ -6713,6 +6732,89 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3114
+
+    *   Familienname nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   3114A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Familiennamens
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3115
+
+    *   Geburtsname nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   3115A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Geburtsnamens
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3116
+
+    *   Vornamen nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   3116A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *
     *   X
 
     *
@@ -6758,7 +6860,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   3140
 
@@ -6791,7 +6894,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -6866,21 +6970,24 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   3198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
     *
     *
     *
     *
-    *
-    *
-    *
+    *   1)
+
 
 *    *
-    *   **2.**
+    *   2.
 
-    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
-        Datenfelder sowie der Hinweise und Folgebeurkundungen im
-        Registerausdruck und in der
+    *   Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise
+        und Folgebeurkundungen im Registerausdruck und in der
         Lebenspartnerschaftsurkunde
 
     *   X
@@ -6913,7 +7020,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3201
 
-    *   Familienname (vor Begründung)
+    *   Familienname vor der Begründung
 
     *
     *   X
@@ -6925,7 +7032,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3202
+*    *   3201A
 
     *   Ausländische Namensart
 
@@ -6939,21 +7046,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3203
+*    *   3202
 
-    *   Geburtsname (vor Begründung)
-
-    *
-    *   X
-
-    *   X
+    *   Geburtsname vor der Begründung
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   3204
+*    *   3202A
 
     *   Ausländische Namensart
 
@@ -6967,21 +7074,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3205
+*    *   3203
 
-    *   Vornamen (vor Begründung)
-
-    *
-    *   X
-
-    *   X
+    *   Vornamen vor der Begründung
 
     *
     *   X
 
+    *   X
+
+    *
+    *   X
+
     *
 
-*    *   3206
+*    *   3203A
 
     *   Ausländische Namensart
 
@@ -7009,7 +7116,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3212
+*    *   3211A
 
     *   Ausländische Namensart
 
@@ -7023,7 +7130,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3213
+*    *   3212
 
     *   Geburtsname in der Lebenspartnerschaft
 
@@ -7037,7 +7144,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   3214
+*    *   3212A
 
     *   Ausländische Namensart
 
@@ -7051,7 +7158,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   3215
+*    *   3213
 
     *   Vornamen in der Lebenspartnerschaft
 
@@ -7066,7 +7173,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *   2)
 
 
-*    *   3216
+*    *   3213A
 
     *   Ausländische Namensart
 
@@ -7074,6 +7181,89 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3214
+
+    *   Familienname nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   3214A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Familiennamens
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3215
+
+    *   Geburtsname nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *
+
+*    *   3215A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Geburtsnamens
+
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3216
+
+    *   Vornamen nach Auflösung
+        der Lebenspartnerschaft
+
+    *
+    *
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   3216A
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *
     *   X
 
     *
@@ -7119,7 +7309,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   3240
 
@@ -7152,7 +7343,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -7227,18 +7419,21 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *
+*    *   3298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
     *
     *
     *
     *
-    *
-    *
-    *
+    *   1)
+
 
 *    *
-    *   Auflösung oder Umwandlung der
-        **Lebenspartnerschaft in eine Ehe**
+    *   **Auflösung oder Umwandlung der Lebenspartnerschaft in eine Ehe**
 
     *
     *
@@ -7251,12 +7446,23 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Art der Auflösung
 
-    *   Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der
-        Todeszeit, Umwandlung in Ehe
+    *   Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der Todeszeit,
+        Umwandlung in Ehe
 
     *
     *   X
 
+    *
+    *
+    *   3)
+
+
+*    *
+    *   **Auflösung durch Entscheidung**
+
+    *
+    *
+    *
     *
     *
     *
@@ -7265,7 +7471,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Datum der Auflösung
 
-    *   Wirksamkeitsdatum
+    *   Datum der Rechtskraft der Auflösungsentscheidung oder der Umwandlung
 
     *
     *   X
@@ -7276,7 +7482,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3392
 
-    *   Behörde
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -7313,15 +7519,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 1.**
 
     *
@@ -7335,7 +7532,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum aus Sterbeeintrag
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *
     *   X
@@ -7346,10 +7544,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3442
 
-    *   Sterbezeitraum
+    *   Tag des Beginns eines Sterbezeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *
     *   X
@@ -7374,7 +7571,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *   X
@@ -7399,20 +7597,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3460
 
-    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
-
-*    *   3462
-
-    *   Festgestellter Todestag
+    *   Festgestellter Todestag bei Todeserklärung
 
     *   Datum
 
@@ -7423,46 +7608,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   2)
 
-
-*    *   3463
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *   X
-
-    *
-    *
-    *   2)
-
-
-*    *   3464
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   3465
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
 
 *    *   3470
 
@@ -7503,15 +7648,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 2.**
 
     *
@@ -7525,7 +7661,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum aus Sterbeeintrag
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *
     *   X
@@ -7536,10 +7673,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3542
 
-    *   Sterbezeitraum
+    *   Tag des Beginns eines Sterbezeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *
     *   X
@@ -7564,7 +7700,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *   X
@@ -7589,20 +7726,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   3560
 
-    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
-
-*    *   3562
-
-    *   Festgestellter Todestag
+    *   Festgestellter Todestag bei Todeserklärung
 
     *   Datum
 
@@ -7613,46 +7737,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   2)
 
-
-*    *   3563
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *   X
-
-    *
-    *
-    *   2)
-
-
-*    *   3564
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   3565
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
-
-    *
-    *   X
-
-    *
-    *
-    *
 
 *    *   3570
 
@@ -7689,15 +7773,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -7787,15 +7862,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Neue Ehe zu 2.**
 
     *
@@ -7881,15 +7947,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Neue Lebenspartnerschaft zu 1.**
 
     *
@@ -7971,15 +8028,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -8105,15 +8153,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Angaben zum Sterbefall**
 
     *
@@ -8127,7 +8166,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todestag
 
-    *   Datum
+    *   Datum des Todes oder Datum des Tages, an dem die Person
+        mit Sicherheit                      tot war
 
     *   X
 
@@ -8142,7 +8182,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todeszeit
 
-    *   Uhrzeit
+    *   Uhrzeit des Todes oder Uhrzeit, zu der die Person mit Sicherheit tot
+        war
 
     *   X
 
@@ -8154,10 +8195,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   4142
 
-    *   Sterbezeitraum (Datumsangaben)
+    *   Tag des Beginns eines Sterbezeitzeitraums
 
-    *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war
+    *   Datum des Tages, an dem die Person zuletzt lebend gesehen wurde
 
     *   X
 
@@ -8170,10 +8210,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   4143
 
-    *   Sterbezeitraum (Uhrzeitangaben)
+    *   Uhrzeit des Beginns eines Sterbezeitzeitraums
 
-    *   Zeitraum umfasst die Uhrzeit am letzten Tag lebend und Uhrzeit
-        am Tag, an dem die Person mit Sicherheit tot war
+    *   Uhrzeit, zu der die Person zuletzt lebend gesehen wurde
 
     *   X
 
@@ -8187,8 +8226,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Todeszeit (nicht exakt)
 
-    *   Nur in Ergänzung zu Feld 4141, wenn Uhrzeit des Todes nur
-        ungefähr (gegen … Uhr) feststeht
+    *   Nur in Ergänzung zu Feld 4141, wenn Uhrzeit des Todes nur ungefähr
+        (gegen … Uhr) feststeht
 
     *   X
 
@@ -8230,20 +8269,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   4152
 
-    *   Sterbeort, Straße
-
-    *
-    *   X
-
-    *   X
-
-    *
-    *
-    *
-
-*    *   4153
-
-    *   Sterbeort, Hausnummer
+    *   Sterbeort, Straße, Hausnummer
 
     *
     *   X
@@ -8258,7 +8284,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -8282,29 +8309,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *   X
 
-    *
-
-*    *   4199
-
-    *   Tot aufgefunden
-
-    *   Nur bei Nacherfassung
-
-    *   X
-
-    *   X
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
@@ -8331,7 +8335,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   4202
+*    *   4201A
 
     *   Ausländische Namensart
 
@@ -8345,7 +8349,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4203
+*    *   4202
 
     *   Geburtsname
 
@@ -8359,7 +8363,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   4204
+*    *   4202A
 
     *   Ausländische Namensart
 
@@ -8373,7 +8377,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4205
+*    *   4203
 
     *   Vornamen
 
@@ -8387,7 +8391,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
 
-*    *   4206
+*    *   4203A
 
     *   Ausländische Namensart
 
@@ -8426,7 +8430,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *
     *
-    *
+    *   3)
+
 
 *    *   4240
 
@@ -8459,7 +8464,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *   X
 
@@ -8524,20 +8530,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
 *    *   4290
 
-    *   Anschrift, Straße
-
-    *
-    *   X
-
-    *   X
-
-    *
-    *
-    *
-
-*    *   4291
-
-    *   Anschrift, Hausnummer
+    *   Anschrift, Straße, Hausnummer
 
     *
     *   X
@@ -8589,6 +8582,19 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   4298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   4299
 
     *   Identität nicht nachgewiesen
@@ -8599,15 +8605,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
     *
     *
     *
@@ -8639,10 +8636,10 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Familienrechtliche Bezeichnung
 
-    *   Es können die Bezeichnungen „Ehefrau“, „Ehemann“, „Lebenspartner“ oder
-        „Lebenspartnerin“ angegeben werden; Personen,
-        die weder dem männlichen noch dem weiblichen Geschlecht angehören,
-        sind als „Ehepartner“ oder „Lebenspartner“ anzugeben,
+    *   Es können die Bezeichnungen „Ehefrau“, „Ehemann, „Lebenspartner“ oder
+        „Lebenspartnerin“ angegeben werden; Personen, die weder dem männlichen
+        noch dem weiblichen Geschlecht angehören, sind als „Ehepartner“ oder
+        „Lebenspartner“ anzugeben,
         Beispiel: „Lebenspartnerin“
 
     *   X
@@ -8667,7 +8664,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4302
+*    *   4301A
 
     *   Ausländische Namensart
 
@@ -8681,7 +8678,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4303
+*    *   4302
 
     *   Geburtsname des Ehegatten, Ehe- oder Lebenspartners
 
@@ -8694,7 +8691,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4304
+*    *   4302A
 
     *   Ausländische Namensart
 
@@ -8708,7 +8705,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4305
+*    *   4303
 
     *   Vornamen des Ehegatten, Ehe- oder Lebenspartners
 
@@ -8721,7 +8718,7 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4306
+*    *   4303A
 
     *   Ausländische Namensart
 
@@ -8748,6 +8745,19 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
+*    *   4398
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   4399
 
     *   Identität nicht nachgewiesen
@@ -8758,15 +8768,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   X
 
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
     *
     *
     *
@@ -8809,7 +8810,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -8874,22 +8876,12 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Führungsort Heiratseintrag
 
-    *   Bei Eheschließung bis zum
-        31\.12.2008 (§ 15a PStG a. F.)
+    *   Bei Eheschließung bis zum 31.12.2008 (§ 15a PStG a. F.)
 
     *
     *
     *   X
 
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -8931,7 +8923,8 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
 
     *   Nähere Kennzeichnung des Ortes
 
-    *   Kreis, Verwaltungsbezirk o. ä.
+    *   Soweit zur Unterscheidung bei gleichlautenden Ortsnamen erforderlich,
+        z. B. Kreis, Verwaltungsbezirk o. ä.
 
     *
     *
@@ -8993,15 +8986,6 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
     *   **Todeserklärung, gerichtliche Feststellung der Todeszeit der
         verstorbenen Person**
 
@@ -9025,61 +9009,9 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
     *
 
-*    *   4662
-
-    *   Festgestellter Todestag
-
-    *   Datum
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   4663
-
-    *   Festgestellte Todeszeit
-
-    *   Uhrzeit
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   4664
-
-    *   Staat
-
-    *   Nur bei Todeserklärung im Ausland
-
-    *
-    *
-    *   X
-
-    *
-    *
-
-*    *   4665
-
-    *   Aufhebung der Todeserklärung
-
-    *   Beschlussdatum
-
-    *
-    *
-    *   X
-
-    *
-    *
-
 *    *   4670
 
-    *   Behörde/Gericht
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -9116,1112 +9048,102 @@ Fundstelle: BGBl. I 2018, 1770 - 1789)
     *
 
 
-[^F804512_01_BJNR226300008BJNE007903116]:    Die Datenfelder unterliegen folgenden Beschränkungen:               1)
-    = Datenfeld ist nicht Bestandteil des Personenstandseintrags und steht
-    nur systemseitig als Funktion zur Verfügung.               2) =
-    Datenfeld steht ab 1. November 2013 zur Verfügung.               3) =
-    Datenfeld steht ausschließlich für die Nacherfassung von Alt- und
-    Übergangsbeurkundungen zur Verfügung.               4) = Datenfeld
+[^F823805_01_BJNR226300008BJNE007905116]:    Die Datenfelder unterliegen folgenden Beschränkungen:               1)
+    = Datenfeld ist nicht Bestandteil des Beurkundungs- und Hinweisteils
+    des Personenstandseintrags und steht nur systemseitig als funktionales
+    Ordnungsmerkmal zur Verfügung.               2) = Datenfeld steht ab
+    1\. November 2013 zur Verfügung.               3) = Datenfeld steht
+    nicht mehr für Eingaben zur Verfügung.               4) = Datenfeld
     steht ab 1. November 2018 zur Verfügung.               5) = Datenfeld
-    steht nicht mehr für Eingaben zur Verfügung.
+    steht nur noch für Berichtigungen zur Verfügung.
 
 
 ### Anlage 2 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2018, 1790 - 1791)
+(Fundstelle: BGBl. I 2022, 1771 - 1772)
 
 
-*    *
-    *   **Eheregister**
 
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *   Ort, Tag der Eheschließung
-
-    *
-
-*    *   Tag der Begründung der
-[^F804512_02_BJNR226300008BJNE008102116]
-        Lebenspartnerschaft
-
-    *
-
-*    *   **1.**
-
-    *   (Ehemann, Ehefrau, Ehepartner)
-
-
-*    *   Familienname vor der Ehe
-
-    *
-
-*    *   Geburtsname vor der Ehe
-
-    *
-
-*    *   Vorname(n) vor der Ehe
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Familienname in der Ehe
-
-    *
-
-*    *   Geburtsname in der Ehe
-
-    *
-
-*    *   Vorname(n) in der Ehe
-
-    *
-
-*    *   **2.**
-
-    *   (Ehefrau, Ehemann, Ehepartner)
-
-
-*    *   Familienname vor der Ehe
-
-    *
-
-*    *   Geburtsname vor der Ehe
-
-    *
-
-*    *   Vorname(n) vor der Ehe
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Familienname in der Ehe
-
-    *
-
-*    *   Geburtsname in der Ehe
-
-    *
-
-*    *   Vorname(n) in der Ehe
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *
-    *   Zu 1.
-
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Recht Namensführung
-
-    *
-
-*    *
-    *   Zu 2.
-
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Recht Namensführung
-
-    *
-
-*    *
-    *   Zu 1. und 2.
-
-
-*    *   Namensbestimmung
-
-    *
-
-*    *   Lebenspartnerschaftseintrag
-
-    *
-
-*    *   **Folgebeurkundung**
-
-    *
-
-*    *
-    *   **Eheregister**
-
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *[^F804512_03_BJNR226300008BJNE008102116]
-   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *[^F804512_04_BJNR226300008BJNE008102116]
-   Beurkundete Daten
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *   Hinweisdaten
-
-    *
-
-
-   Leittext erscheint nur, wenn es der Beurkundungssachverhalt erfordert.
-[^F804512_02_BJNR226300008BJNE008102116]:     Registernummer unter Hinzufügung der fortlaufenden Nummer der
-    Folgebeurkundung nach § 17 PStV.
-[^F804512_03_BJNR226300008BJNE008102116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
-    Folgebeurkundung aktualisierten Daten angegeben.
-[^F804512_04_BJNR226300008BJNE008102116]: 
 
 ### Anlage 3 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2018, 1792 - 1793)
+(Fundstelle: BGBl. I 2022, 1773 - 1774)
 
 
-*    *
-    *   **Lebenspartnerschaftsregister**
 
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *   Ort, Tag der Begründung der
-        Lebenspartnerschaft
-
-    *
-
-*    *   **1.**
-
-    *   (Lebenspartner, Lebenspartnerin)
-
-
-*    *   Familienname
-        vor der Begründung
-
-    *
-
-*    *   Geburtsname
-        vor der Begründung
-
-    *
-
-*    *   Vorname(n)
-        vor der Begründung
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Familienname
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   Geburtsname
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   Vorname(n)
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   **2.**
-
-    *   (Lebenspartner, Lebenspartnerin)
-
-
-*    *   Familienname
-        vor der Begründung
-
-    *
-
-*    *   Geburtsname
-        vor der Begründung
-
-    *
-
-*    *   Vorname(n)
-        vor der Begründung
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Familienname
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   Geburtsname
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   Vorname(n)
-        in der Lebenspartnerschaft
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *
-    *   Zu 1.
-
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Recht Namensführung
-
-    *
-
-*    *
-    *   Zu 2.
-
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Recht Namensführung
-
-    *
-
-*    *
-    *   Zu 1. und 2.
-
-
-*    *   Namensbestimmung
-
-    *
-
-*    *   **Folgebeurkundung**
-
-    *
-
-*    *
-    *   **Lebenspartnerschaftsregister**
-
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *[^F804512_05_BJNR226300008BJNE008202116]
-   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *[^F804512_06_BJNR226300008BJNE008202116]
-   Beurkundete Daten
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *   Hinweisdaten
-
-    *
-
-
-   Registernummer unter Hinzufügung der fortlaufenden Nummer der
-    Folgebeurkundung nach § 17 PStV.
-[^F804512_05_BJNR226300008BJNE008202116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
-    Folgebeurkundung aktualisierten Daten angegeben.
-[^F804512_06_BJNR226300008BJNE008202116]: 
 
 ### Anlage 4 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I. 2018, 2642 - 2643)
+(Fundstelle: BGBl. I 2022, 1775 - 1776)
 
 
-*    *
-    *   **Geburtenregister**
 
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *   Tag, Uhrzeit der Geburt
-
-    *
-
-*    *   Ort der Geburt
-
-    *
-
-*    *
-    *   Kind
-
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   **1.**
-
-    *   (Mutter)
-
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   **2.**
-
-    *   (Vater)
-
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *
-    *   Zu 1. und 2.
-
-
-*    *   Ort, Tag der Eheschließung
-
-    *
-
-*    *   Eheeintrag
-
-    *
-
-*    *
-    *   Zu 1.
-
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *
-    *   Zu 2.
-
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Geburtseintrag
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *
-    *   Kind
-
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Recht Namensführung
-
-    *
-
-*    *   **Folgebeurkundung**
-
-    *
-
-*    *
-    *   **Geburtenregister**
-
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *[^F805433_01_BJNR226300008BJNE008303116]
-   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *[^F805433_02_BJNR226300008BJNE008303116]
-   Beurkundete Daten
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *   Hinweisdaten
-
-    *
-
-
-   _\_\__\_\__\_\__
-
-    Registernummer unter Hinzufügung der fortlaufenden Nummer der
-    Folgebeurkundung nach § 17 PStV.
-[^F805433_01_BJNR226300008BJNE008303116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
-    Folgebeurkundung aktualisierten Daten angegeben.
-[^F805433_02_BJNR226300008BJNE008303116]: 
 
 ### Anlage 5 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2018, 2644)
+(Fundstelle: BGBl. I 2022, 1777 — 1778)
 
 
-*    *
-    *   **Sterberegister**
 
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *   Tag, Uhrzeit des Todes
-
-    *
-
-*    *   Ort des Todes
-
-    *
-
-*    *
-    *   Verstorbene Person
-
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Geburt
-
-    *
-
-*    *   Letzter Wohnsitz
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   Familienstand
-
-    *
-
-*    *
-    *   (Ehemann, Ehefrau, Ehepartner, Lebenspartner, Lebenspartnerin)
-
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *
-    *   Verstorbene Person
-
-
-*    *   Geburtseintrag
-
-    *
-
-*    *[^F805433_03_BJNR226300008BJNE008403116]
-   Ort, Tag der Eheschließung
-
-    *
-
-*    *   Eheeintrag
-        1
-
-    *
-
-*    *   Führungsort Heiratseintrag
-
-    *
-
-*    *   **Folgebeurkundung**
-
-    *
-
-*    *
-    *   **Sterberegister**
-
-
-*    *   Standesamt, Nummer
-
-    *
-
-*    *[^F805433_04_BJNR226300008BJNE008403116]
-   Registernummer
-
-    *
-
-*    *   Anlass der Beurkundung
-
-    *
-
-*    *[^F805433_05_BJNR226300008BJNE008403116]
-   Beurkundete Daten
-
-    *
-
-*    *   Ort, Tag der Beurkundung
-
-    *
-
-*    *   Urkundsperson
-
-    *
-
-*    *
-    *   **Hinweise**
-
-
-*    *   Registernummer
-
-    *
-
-*    *   Hinweisdaten
-
-    *
-
-
-   _\_\__\_\__\_\__
-
-    Bei Begründung einer Lebenspartnerschaft ist der Leittext an den
-    Beurkundungssachverhalt anzupassen.
-[^F805433_03_BJNR226300008BJNE008403116]:     Registernummer unter Hinzufügung der fortlaufenden Nummer der
-    Folgebeurkundung nach § 17 PStV.
-[^F805433_04_BJNR226300008BJNE008403116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
-    Folgebeurkundung aktualisierten Daten angegeben.
-[^F805433_05_BJNR226300008BJNE008403116]: 
 
 ### Anlage 6 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2018, 1797)
+(Fundstelle: BGBl. I 2022, 1779)
+
+
+
+### Anlage 6 E (zu den §§ 48, 55, 70)
+
+(Fundstelle: BGBl. I 2022, 1780)
 
 
 
 ### Anlage 7 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2018, 1798)
+(Fundstelle: BGBl. I 2022, 1781)
+
+
+
+### Anlage 7 E (zu den §§ 48, 55, 70)
+
+(Fundstelle: BGBl. I 2022, 1782)
 
 
 
 ### Anlage 8 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2018, 1799)
+(Fundstelle: BGBl. I 2022, 1783)
+
+
+
+### Anlage 8 E (zu den §§ 48, 55, 70)
+
+(Fundstelle: BGBl. I 2022, 1784)
 
 
 
 ### Anlage 9 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2018, 1800)
+(Fundstelle: BGBl. I 2022, 1785)
+
+
+
+### Anlage 9 E (zu den §§ 48, 70)
+
+(Fundstelle: BGBl. I 2022, 1786)
 
 
 
 ### Anlage 10 (zu § 29)
 
-(Fundstelle: BGBl. I 2018, 1801 - 1802)
+(Fundstelle: BGBl. I 2022, 1787 - 1788)
 
-## **Niederschrift über die Eheschließung**
 
 
-*    *   Standesamt
-
-    *
-
-*    *   Ort, Tag
-
-    *
-
-*    *[^F804512_21_BJNR226300008BJNE008902116]
-   Vor dem unterzeichnenden Standesbeamten erschienen heute zur
-        Eheschließung (bei bestehender Lebenspartnerschaft, begründet am …,
-        Standesamt …, Reg. Nr. L …/…)
-
-
-*    *   **1.**
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   wohnhaft in
-
-    *
-
-*    *   Geburtstag, Geburtsort
-
-    *
-
-*    *   Standesamt, Registernummer
-
-    *
-
-*    *   ausgewiesen durch
-
-    *
-
-*    *   und **2.**
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Familienname
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Geschlecht
-
-    *
-
-*    *   Staatsangehörigkeit
-
-    *
-
-*    *   Religion
-
-    *
-
-*    *   wohnhaft in
-
-    *
-
-*    *   Geburtstag, Geburtsort
-
-    *
-
-*    *   Standesamt, Registernummer
-
-    *
-
-*    *   ausgewiesen durch
-
-    *
-
-*    *   Als Zeugen waren anwesend:
-
-    *
-
-*    *   Weiterhin erschien als Dolmetscher für die …………… Sprache:
-        Er wurde über die Strafbarkeit einer falschen Versicherung an Eides
-        statt belehrt. Er erklärte – unter Berufung auf seinen allgemein
-        geleisteten Eid –, dass er treu und gewissenhaft übertragen werde.
-
-
-*    *   Der Standesbeamte fragte die Eheschließenden, ob sich seit der
-        Anmeldung ihrer Eheschließung Änderungen ergeben haben, die ihre
-        tatsächlichen Verhältnisse der Ehevoraussetzungen betreffen. Auf die
-        Frage des Standesbeamten erklärten die Eheschließenden, dass keine
-        entsprechenden Änderungen eingetreten sind.
-        Sodann fragte der Standesbeamte die Eheschließenden einzeln und
-        nacheinander, ob sie die Ehe miteinander eingehen wollen. Die
-        Eheschließenden bejahten diese Frage.
-        Der Standesbeamte sprach aus, dass sie nunmehr kraft Gesetzes
-        rechtmäßig verbundene Eheleute seien.
-
-
-*    *   Zur Namensführung in der Ehe gaben die Ehegatten keine/folgende
-        Erklärung ab:
-
-
-*    *   Dadurch ergibt sich folgende Namensführung in der Ehe:
-
-
-*    *
-    *   **1. (Ehemann/Ehefrau/Ehepartner)**
-
-
-*    *   Familienname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *
-    *   **2. (Ehefrau/Ehemann/Ehepartner)**
-
-
-*    *   Familienname
-
-    *
-
-*    *   Vorname(n)
-
-    *
-
-*    *   Geburtsname
-
-    *
-
-*    *   Vorgelesen [in deutscher und …………… Sprache]
-        genehmigt und unterschrieben
-
-
-
-
-*    *
-    *   Siegel
-
-
-*    *
-
-*    *
-
-*    *
-
-*    *   Urkundsperson.
-
-
-
-    Abschnitt/Klammerinhalt erscheint nur, wenn der
-    Beurkundungssachverhalt es verlangt. Die Angaben sind entsprechend zu
-    streichen oder zu ergänzen.
-[^F804512_21_BJNR226300008BJNE008902116]: 
 
 ### Anlage 11 (zu § 31 Absatz 2)
 
-(Fundstelle: BGBl. I 2018, 1803)
+(Fundstelle: BGBl. I 2022, 1789)
 
 
 

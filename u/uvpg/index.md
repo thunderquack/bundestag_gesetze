@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
-Änderung durch
-:   Art. 14 G v. 10.9.2021 I 4147 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 G v. 22.3.2023 I Nr. 88
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
@@ -177,7 +177,7 @@ einem Gebiet nach § 7 Absatz 3 des Raumordnungsgesetzes befinden.
 
 
 2.  Linienbestimmungen und andere Entscheidungen in vorgelagerten
-    Verfahren nach den §§ 47 und 49,
+    Verfahren nach § 47,
 
 
 3.  Beschlüsse nach § 10 des Baugesetzbuchs über die Aufstellung, Änderung
@@ -256,7 +256,7 @@ dienen.
 
 (1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben
 des Vorhabenträgers sowie eigener Informationen unverzüglich fest,
-dass nach den §§ 6 bis 14a für das Vorhaben eine Pflicht zur
+dass nach den §§ 6 bis 14b für das Vorhaben eine Pflicht zur
 Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) besteht
 oder nicht. Die Feststellung trifft die Behörde
 
@@ -756,6 +756,25 @@ Feststellung der UVP-Pflicht durchgeführt für
 
 
 
+
+
+#### § 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+
+(1) Bei Städtebauprojekten für Anlagen zur Nutzung solarer
+Strahlungsenergie im bisherigen Außenbereich im Sinne des § 35 des
+Baugesetzbuchs nach Anlage 1 Nummer 18.7 ist von der Durchführung
+einer Umweltverträglichkeitsprüfung abzusehen, wenn die Anlage zur
+Nutzung solarer Strahlungsenergie in einem Gebiet liegt, für das in
+einem Plan Anlagen zur Nutzung solarer Strahlungsenergie vorgesehen
+sind, und wenn bei Aufstellung dieses Plans eine Strategische
+Umweltprüfung durchgeführt wurde.
+
+(2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023
+begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller
+dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum
+Ablauf des 30. Juni 2024 stellt. Satz 1 ist für das gesamte
+Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum
+Ablauf des 30. Juni 2024 abgeschlossen wird.
 
 
 ### Abschnitt 2 - Verfahrensschritte der Umweltverträglichkeitsprüfung
@@ -1719,10 +1738,7 @@ Planungsstand des Vorhabens geprüft. In die Prüfung der
 Umweltverträglichkeit sind bei der Linienbestimmung alle ernsthaft in
 Betracht kommenden Trassenvarianten einzubeziehen.
 
-(2) Absatz 1 gilt nicht, wenn in einem Raumordnungsverfahren bereits
-die Umweltverträglichkeit geprüft wurde und wenn dabei im Falle einer
-Linienbestimmung alle ernsthaft in Betracht kommenden Trassenvarianten
-einbezogen wurden.
+(2) (weggefallen)
 
 (3) Im nachfolgenden Zulassungsverfahren kann die Prüfung der
 Umweltverträglichkeit auf zusätzliche erhebliche oder andere
@@ -1746,22 +1762,14 @@ die Windenergienutzung oder für den Abbau von Rohstoffen ausweist, ist
 anzuwenden.
 
 
-### § 49 Raumordnungsverfahren
+### § 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
 
-(1) Für das Raumordnungsverfahren bei Vorhaben, für die nach diesem
-Gesetz die UVP-Pflicht besteht, wird die Umweltverträglichkeitsprüfung
-nach dem Planungsstand des jeweiligen Vorhabens, einschließlich der
-Standortalternativen nach § 15 Absatz 1 Satz 3 des
-Raumordnungsgesetzes, durchgeführt, soweit durch Landesrecht nicht
-etwas anderes bestimmt ist.
-
-(2) Im nachfolgenden Zulassungsverfahren kann die Prüfung der
-Umweltverträglichkeit auf zusätzliche erhebliche oder andere
-erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
-
-(3) Das Ergebnis des Raumordnungsverfahrens nach § 15 des
-Raumordnungsgesetzes kann nur im Rahmen des Rechtsbehelfsverfahrens
-gegen die nachfolgende Zulassungsentscheidung überprüft werden.
+In der Raumverträglichkeitsprüfung erfolgt die Prüfung der
+Umweltauswirkungen nur nach Maßgabe des Raumordnungsgesetzes. Die
+Umweltverträglichkeitsprüfung im nachfolgenden behördlichen Verfahren,
+das der Zulassungsentscheidung dient, umfasst eine vertiefte Prüfung
+der in der Raumverträglichkeitsprüfung nur überschlägig geprüften
+Umweltauswirkungen.
 
 
 ### § 50 Bauleitpläne
@@ -7634,7 +7642,8 @@ Angaben enthalten.
 
 ### Anlage 5 Liste „SUP-pflichtiger Pläne und Programme“
 
-(Fundstelle: BGBl. I 2021, 588 – 589)
+(Fundstelle: BGBl. I 2021, 588 – 589;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, §
 2 Absatz 7 in den Anwendungsbereich dieses Gesetzes.
@@ -7710,7 +7719,7 @@ Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, §
 
 *    *   1.7
 
-    *   (weggefallen)
+    *   Rechtsverordnungen nach § 249b Absatz 1 und 2 des Baugesetzbuchs
 
 
 *    *   1.8

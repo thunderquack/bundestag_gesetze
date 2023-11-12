@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 5.10.2021 I 4607
+:   Art. 17 G v. 8.10.2023 I Nr. 272
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -225,10 +225,20 @@ zuständig für
 
 3g. Angelegenheiten aus dem Gesetz über die Mitbestimmung der Arbeitnehmer
     bei einer grenzüberschreitenden Verschmelzung vom 21. Dezember 2006
-    (BGBl. I S. 3332) mit Ausnahme der §§ 34 und 35 und nach den §§ 23 bis
-    28 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in
+    (BGBl. I S. 3332) in der jeweils geltenden Fassung mit Ausnahme der §§
+    34 und 35 und nach den §§ 23 bis 28 nur insoweit, als über die Wahl
+    von Vertretern der Arbeitnehmer in das Aufsichts- oder
+    Verwaltungsorgan sowie deren Abberufung mit Ausnahme der Abberufung
+    nach § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
+
+
+3h. Angelegenheiten aus dem Gesetz über die Mitbestimmung der Arbeitnehmer
+    bei grenzüberschreitendem Formwechsel und grenzüberschreitender
+    Spaltung vom 4. Januar 2023 (BGBl. 2023 I Nr. 10) in der jeweils
+    geltenden Fassung mit Ausnahme der §§ 38 und 39 und nach den §§ 25 bis
+    30 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in
     das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung mit
-    Ausnahme der Abberufung nach § 103 Abs. 3 des Aktiengesetzes zu
+    Ausnahme der Abberufung nach § 103 Absatz 3 des Aktiengesetzes zu
     entscheiden ist;
 
 
@@ -430,17 +440,20 @@ Drittelbeteiligungsgesetz, dem § 222 des Neunten Buches
 Sozialgesetzbuch, dem § 51 des Berufsbildungsgesetzes und den zu
 diesen Gesetzen ergangenen Rechtsverordnungen sowie die nach dem
 Gesetz über Europäische Betriebsräte, dem SE-Beteiligungsgesetz, dem
-SCE-Beteiligungsgesetz und dem Gesetz über die Mitbestimmung der
-Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung beteiligten
-Personen und Stellen Beteiligte. Parteifähig im arbeitsgerichtlichen
-Verfahren sind in den Fällen des § 2a Abs. 1 Nr. 4 auch die
-beteiligten Vereinigungen von Arbeitnehmern und Arbeitgebern sowie die
-oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf deren
-Bereich sich die Tätigkeit der Vereinigung erstreckt. Parteifähig im
-arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Absatz 1
-Nummer 5 auch die oberste Arbeitsbehörde des Bundes oder die oberste
-Arbeitsbehörde eines Landes, soweit ihr nach § 5 Absatz 6 des
-Tarifvertragsgesetzes Rechte übertragen sind.
+SCE-Beteiligungsgesetz, dem Gesetz über die Mitbestimmung der
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung und dem
+Gesetz über die Mitbestimmung der Arbeitnehmer bei
+grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung
+beteiligten Personen und Stellen Beteiligte. Parteifähig im
+arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Abs. 1 Nr.
+4 auch die beteiligten Vereinigungen von Arbeitnehmern und
+Arbeitgebern sowie die oberste Arbeitsbehörde des Bundes oder
+derjenigen Länder, auf deren Bereich sich die Tätigkeit der
+Vereinigung erstreckt. Parteifähig im arbeitsgerichtlichen Verfahren
+sind in den Fällen des § 2a Absatz 1 Nummer 5 auch die oberste
+Arbeitsbehörde des Bundes oder die oberste Arbeitsbehörde eines
+Landes, soweit ihr nach § 5 Absatz 6 des Tarifvertragsgesetzes Rechte
+übertragen sind.
 
 
 ### § 11 Prozessvertretung
@@ -1214,14 +1227,13 @@ bestimmt. Die Vorschriften über den frühen ersten Termin zur
 mündlichen Verhandlung und das schriftliche Vorverfahren (§§ 275 bis
 277 der Zivilprozeßordnung), über das vereinfachte Verfahren (§ 495a
 der Zivilprozeßordnung), über den Urkunden- und Wechselprozeß (§§ 592
-bis 605a der Zivilprozeßordnung), über die Musterfeststellungsklage
-(§§ 606 bis 613 der Zivilprozessordnung), über die Entscheidung ohne
-mündliche Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über
-die Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§
-227 Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. §
-127 Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung,
-dass die sofortige Beschwerde bei Bestandsschutzstreitigkeiten
-unabhängig von dem Streitwert zulässig ist.
+bis 605a der Zivilprozeßordnung), über die Entscheidung ohne mündliche
+Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über die
+Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§ 227
+Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. § 127
+Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass
+die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig
+von dem Streitwert zulässig ist.
 
 
 ##### § 46a Mahnverfahren
@@ -1338,10 +1350,11 @@ die vorbereitenden Schriftsätzen beigefügt sind.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -2613,6 +2626,16 @@ Sitz hat; vor ihrer Eintragung ist das Arbeitsgericht zuständig, in
 dessen Bezirk die aus der grenzüberschreitenden Verschmelzung
 hervorgehende Gesellschaft ihren Sitz haben soll.
 
+(6) In Angelegenheiten nach dem Gesetz über die Mitbestimmung der
+Arbeitnehmer bei grenzüberschreitendem Formwechsel und
+grenzüberschreitender Spaltung ist das Arbeitsgericht zuständig, in
+dessen Bezirk die aus dem grenzüberschreitenden Formwechsel oder der
+grenzüberschreitenden Spaltung hervorgegangene Gesellschaft ihren Sitz
+hat; vor ihrer Eintragung ist das Arbeitsgericht zuständig, in dessen
+Bezirk die aus dem grenzüberschreitenden Formwechsel oder der
+grenzüberschreitenden Spaltung hervorgehende Gesellschaft ihren Sitz
+haben soll.
+
 
 ##### § 83 Verfahren
 
@@ -2639,9 +2662,11 @@ Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, den §§
 177, 178 und 222 des Neunten Buches Sozialgesetzbuch, dem § 18a des
 Berufsbildungsgesetzes und den zu diesen Gesetzen ergangenen
 Rechtsverordnungen sowie nach dem Gesetz über Europäische
-Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz
-und dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
-grenzüberschreitenden Verschmelzung im einzelnen Fall beteiligt sind.
+Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz,
+dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
+grenzüberschreitenden Verschmelzung und dem Gesetz über die
+Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel
+und grenzüberschreitender Spaltung im einzelnen Fall beteiligt sind.
 
 (4) Die Beteiligten können sich schriftlich äußern. Bleibt ein
 Beteiligter auf Ladung unentschuldigt aus, so ist der Pflicht zur

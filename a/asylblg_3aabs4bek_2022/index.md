@@ -28,16 +28,19 @@ eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
     als Geldbetrag für alle notwendigen persönlichen Bedarfe anerkannt
 
     a)  für erwachsene Leistungsberechtigte, die in einer Wohnung im Sinne von
-        § 8 des Regelbedarfsermittlungsgesetzes leben und für die nicht Nummer
-        2 Buchstabe a oder Nummer 3 Buchstabe a gelten, sowie für jugendliche
-        Leistungsberechtigte, die nicht mit mindestens einem Elternteil in
-        einer Wohnung leben, je 163 Euro (§ 3a Absatz 1 Nummer 1),
+        § 8 des
+        Regelbedarfs-Ermittlungsgesetzes                          leben und
+        für die nicht Nummer 2 Buchstabe a oder Nummer 3 Buchstabe a gelten,
+        sowie für jugendliche Leistungsberechtigte, die nicht mit mindestens
+        einem Elternteil in einer Wohnung leben, je 163 Euro (§ 3a Absatz 1
+        Nummer 1),
 
 
     b)  für erwachsene Leistungsberechtigte je 147 Euro, wenn sie
 
-        aa) in einer Wohnung im Sinne von § 8 des Regelbedarfsermittlungsgesetzes
-            mit einem Ehegatten oder Lebenspartner oder in eheähnlicher oder
+        aa) in einer Wohnung im Sinne von § 8 des
+            Regelbedarfs-Ermittlungsgesetzes                                mit
+            einem Ehegatten oder Lebenspartner oder in eheähnlicher oder
             lebenspartnerschaftsähnlicher Gemeinschaft mit einem Partner
             zusammenleben (§ 3a Absatz 1 Nummer 2 Buchstabe a),
 
@@ -56,8 +59,8 @@ eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
 
         aa) das 25. Lebensjahr noch nicht vollendet haben, unverheiratet sind und
             mit mindestens einem Elternteil in einer Wohnung im Sinne von § 8 des
-            Regelbedarfsermittlungsgesetzes zusammenleben (§ 3a Absatz 1 Nummer 3
-            Buchstabe a),
+            Regelbedarfs-Ermittlungsgesetzes
+            zusammenleben (§ 3a Absatz 1 Nummer 3 Buchstabe a),
 
 
         bb) in einer stationären Einrichtung untergebracht sind (§ 3a Absatz 1
@@ -87,16 +90,19 @@ eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
     als notwendiger Bedarf anerkannt
 
     a)  für erwachsene Leistungsberechtigte, die in einer Wohnung im Sinne von
-        § 8 des Regelbedarfsermittlungsgesetzes leben und für die nicht Nummer
-        2 Buchstabe a oder Nummer 3 Buchstabe a gelten, sowie für jugendliche
-        Leistungsberechtigte, die nicht mit mindestens einem Elternteil in
-        einer Wohnung leben, je 204 Euro (§ 3a Absatz 2 Nummer 1),
+        § 8 des
+        Regelbedarfs-Ermittlungsgesetzes                          leben und
+        für die nicht Nummer 2 Buchstabe a oder Nummer 3 Buchstabe a gelten,
+        sowie für jugendliche Leistungsberechtigte, die nicht mit mindestens
+        einem Elternteil in einer Wohnung leben, je 204 Euro (§ 3a Absatz 2
+        Nummer 1),
 
 
     b)  für erwachsene Leistungsberechtigte je 183 Euro, wenn sie
 
-        aa) in einer Wohnung im Sinne von § 8 des Regelbedarfsermittlungsgesetzes
-            mit einem Ehegatten oder Lebenspartner oder in eheähnlicher oder
+        aa) in einer Wohnung im Sinne von § 8 des
+            Regelbedarfs-Ermittlungsgesetzes                                mit
+            einem Ehegatten oder Lebenspartner oder in eheähnlicher oder
             lebenspartnerschaftsähnlicher Gemeinschaft mit einem Partner
             zusammenleben (§ 3a Absatz 2 Nummer 2 Buchstabe a),
 
@@ -115,8 +121,8 @@ eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
 
         aa) das 25. Lebensjahr noch nicht vollendet haben, unverheiratet sind und
             mit mindestens einem Elternteil in einer Wohnung im Sinne von § 8 des
-            Regelbedarfsermittlungsgesetzes zusammenleben (§ 3a Absatz 2 Nummer 3
-            Buchstabe a),
+            Regelbedarfs-Ermittlungsgesetzes
+            zusammenleben (§ 3a Absatz 2 Nummer 3 Buchstabe a),
 
 
         bb) in einer stationären Einrichtung untergebracht sind (§ 3a Absatz 2

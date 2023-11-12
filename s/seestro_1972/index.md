@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1977, 816
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 2 V v. 18.3.2009 I 647
-
-Änderung durch
-:   Art. 1 V v. 7.12.2021 I 5188 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 7.12.2021 I 5188
 
 
 ## Teil A - Allgemeines

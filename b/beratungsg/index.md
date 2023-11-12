@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1398
 
 Zuletzt geändert durch
-:   Art. 13a G v. 14.12.2019 I 2789
+:   Art. 3 G v. 11.7.2022 I 1082
 
 
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
@@ -423,6 +423,13 @@ vorgenommen wird.
 
 (2) Der bundesweite zentrale Notruf nach § 1 Absatz 5 Satz 1 erteilt
 Auskunft über die in der Liste nach § 13 Absatz 3 enthaltenen Angaben.
+
+(3) Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen,
+Krankenhäusern sowie Ärztinnen und Ärzten ist es gestattet, sachlich
+und berufsbezogen über die Durchführung eines
+Schwangerschaftsabbruchs, der unter den Voraussetzungen des § 218a
+Absatz 1 bis 3 des Strafgesetzbuches vorgenommen werden soll, zu
+informieren.
 
 
 ### § 14 Bußgeldvorschriften

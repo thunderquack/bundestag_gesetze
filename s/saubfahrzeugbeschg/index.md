@@ -38,23 +38,22 @@ Vorschriften anzuwenden.
 
 Im Sinne dieses Gesetzes ist
 
-1.  "öffentlicher Auftraggeber"                    ein öffentlicher
-    Auftraggeber im Sinne von § 99 Nummer 1 bis 3 des Gesetzes gegen
-    Wettbewerbsbeschränkungen;
+1.  "öffentlicher Auftraggeber" ein öffentlicher Auftraggeber im Sinne von
+    § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen;
 
 
-2.  "Sektorenauftraggeber"                    ein Auftraggeber im Sinne
-    von § 100 des Gesetzes gegen Wettbewerbsbeschränkungen, mit der
-    Maßgabe, dass für den Linienverkehr gemäß §§ 13 in Verbindung mit 42
+2.  "Sektorenauftraggeber" ein Auftraggeber im Sinne von § 100 des
+    Gesetzes gegen Wettbewerbsbeschränkungen, mit der Maßgabe, dass für
+    den Linienverkehr gemäß §§ 13 in Verbindung mit 42
     Personenbeförderungsgesetz erteilte Genehmigungen keine besonderen
     oder ausschließlichen Rechte gemäß § 100 Absatz 2 des Gesetzes gegen
     Wettbewerbsbeschränkungen darstellen;
 
 
-3.  "Straßenfahrzeug"                    ein Fahrzeug der Klasse M oder N
-    gemäß Artikel 4 Absatz 1 Buchstabe a und b der Verordnung (EU)
-    2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018
-    über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und
+3.  "Straßenfahrzeug" ein Fahrzeug der Klasse M oder N gemäß Artikel 4
+    Absatz 1 Buchstabe a und b der Verordnung (EU) 2018/858 des
+    Europäischen Parlaments und des Rates vom 30. Mai 2018 über die
+    Genehmigung und die Marktüberwachung von Kraftfahrzeugen und
     Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und
     selbstständigen technischen Einheiten für diese Fahrzeuge, zur
     Änderung der Verordnung (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und
@@ -62,23 +61,22 @@ Im Sinne dieses Gesetzes ist
     1);
 
 
-4.  "sauberes leichtes Nutzfahrzeug"                    ein Fahrzeug der
-    Klasse M1, M2 oder N1 einschließlich Personenkraftwagen gemäß Artikel
-    4 Absatz 1 Buchstabe a Unterbuchstabe i und ii, Buchstabe b
-    Unterbuchstabe i der Verordnung (EU) 2018/858, dessen
-    Auspuffemissionen den in der Tabelle der Anlage 1 angegebenen Wert in
-    CO
+4.  "sauberes leichtes Nutzfahrzeug" ein Fahrzeug der Klasse M1, M2 oder
+    N1 einschließlich Personenkraftwagen gemäß Artikel 4 Absatz 1
+    Buchstabe a Unterbuchstabe i und ii, Buchstabe b Unterbuchstabe i der
+    Verordnung (EU) 2018/858, dessen Auspuffemissionen den in der Tabelle
+    der Anlage 1 angegebenen Wert in CO
     2                    g/km nicht übersteigen und dessen
     Luftschadstoffemissionen im praktischen Fahrbetrieb unterhalb des in
     der Tabelle der Anlage 1 festgelegten Prozentsatzes der anwendbaren
     Emissionsgrenzwerte liegen;
 
 
-5.  "sauberes schweres Nutzfahrzeug"                    ein Fahrzeug der
-    Klasse M3, N2 oder N3 gemäß Artikel 4 Absatz 1 Buchstabe a
-    Unterbuchstabe iii, Buchstabe b Unterbuchstabe ii und iii der
-    Verordnung (EU) 2018/858, das mit alternativen Kraftstoffen im Sinne
-    von Artikel 2 Nummer 1 und 2 der Richtlinie
+5.  "sauberes schweres Nutzfahrzeug" ein Fahrzeug der Klasse M3, N2 oder
+    N3 gemäß Artikel 4 Absatz 1 Buchstabe a Unterbuchstabe iii, Buchstabe
+    b Unterbuchstabe ii und iii der Verordnung (EU) 2018/858, das mit
+    alternativen Kraftstoffen im Sinne von Artikel 2 Nummer 1 und 2 der
+    Richtlinie
 [^F816768_02_BJNR169110021BJNE000200000]
     2014/94/EU                    des Europäischen Parlaments und des
     Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für
@@ -101,8 +99,8 @@ Im Sinne dieses Gesetzes ist
     konventionellen fossilen Brennstoffen vermischt werden;
 
 
-6.  "emissionsfreies schweres Nutzfahrzeug"                    ein
-    Fahrzeug im Sinne von Nummer 5
+6.  "emissionsfreies schweres Nutzfahrzeug" ein Fahrzeug im Sinne von
+    Nummer 5
 
     a)  ohne Verbrennungsmotor oder
 
@@ -161,9 +159,8 @@ Im Sinne dieses Gesetzes ist
 
 
 
-7.  "nachgerüstetes Fahrzeug"                    ein Fahrzeug, das
-    aufgrund einer Nachrüstung einem Fahrzeug im Sinne von Nummer 4, 5
-    oder 6 entspricht.
+7.  "nachgerüstetes Fahrzeug" ein Fahrzeug, das aufgrund einer Nachrüstung
+    einem Fahrzeug im Sinne von Nummer 4, 5 oder 6 entspricht.
 
 
 

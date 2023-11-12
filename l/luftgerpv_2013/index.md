@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 293
 
-Geändert durch
-:   Art. 4 V v. 12.12.2016 I 2864
-
-Änderung durch
-:   Art. 1 V v. 7.12.2021 I 5190 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 7.12.2021 I 5190
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

@@ -18,10 +18,7 @@ Fundstelle
 Stand: Konstitutive Neufassung gem. Art. I V v. 28.4.1966 I 300, in Kraft getreten am 4.5.1966
 Stand: Ersetzt V v. 6.4.1955 I 157
 Zuletzt geändert durch
-:   Art. 11 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 3 V v. 2.12.2021 I 5049 (Nr. 81) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 2.12.2021 I 5049
 
 
 ## I. - Selbständige Berufe

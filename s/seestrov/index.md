@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1977, 813
 
 Zuletzt geändert durch
-:   Art. 22 G v. 13.10.2016 I 2258
-
-Änderung durch
-:   Art. 1 V v. 7.12.2021 I 5188 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 7.12.2021 I 5188
 
 
 ## Eingangsformel

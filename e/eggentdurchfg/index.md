@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 1244
 
 Zuletzt geändert durch
-:   Art. 58 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 4 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 1 G v. 20.12.2022 I 2752
 
 
 ## § 1 Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
@@ -318,8 +315,7 @@ Rechtsverordnungen treten spätestens sechs Monate nach ihrem
 Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung
 des Bundesrates verlängert werden.
 
-(3) § 73 des Lebensmittel- und Futtermittelgesetzbuches gilt
-entsprechend.
+(3) (weggefallen)
 
 
 ## § 6 Strafvorschriften

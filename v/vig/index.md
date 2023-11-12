@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 17.10.2012 I 2166, 2725
 
-Geändert durch
-:   Art. 2 Abs. 34 G v. 7.8.2013 I 3154
-
-Änderung durch
-:   Art. 8 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 8 G v. 27.7.2021 I 3146
 
 
 ## § 1 Anwendungsbereich

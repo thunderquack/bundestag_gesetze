@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2017, 410
 
 Neugefasst durch
-:   Bek. v. 6.9.2021 I 4122
+:   Bek. v. 6.9.2021 I 4122;
+
+Geändert durch
+:   Art. 26 G v. 20.12.2022 I 2759
 
 Stand: Ersetzt V 224-8 v. 6.1.1988 I 62 (BArchG)
 
@@ -184,7 +187,7 @@ Das Bundesarchiv stellt den bleibenden Wert der Unterlagen im Benehmen
 mit der anbietenden Stelle fest.
 
 (3) Das Bundesarchiv kann auch Unterlagen anderer als der in § 1
-Nummer 8 genannten öffentlichen Stellen sowie Unterlagen
+Nummer 9 genannten öffentlichen Stellen sowie Unterlagen
 nichtöffentlicher Einrichtungen und natürlicher Personen als Archivgut
 des Bundes übernehmen oder erwerben, wenn ihm diese Unterlagen
 angeboten werden und es den bleibenden Wert dieser Unterlagen

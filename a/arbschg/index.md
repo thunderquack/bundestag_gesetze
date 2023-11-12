@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1246
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.11.2021 I 4906
+:   Art. 2 G v. 31.5.2023 I Nr. 140
 
 Änderung der inhaltsübersicht durch
 :   Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -454,9 +454,9 @@ Gesundheitsschutz bei der Arbeit zu gewährleisten, und hilft der
 Arbeitgeber darauf gerichteten Beschwerden von Beschäftigten nicht ab,
 können sich diese an die zuständige Behörde wenden. Hierdurch dürfen
 den Beschäftigten keine Nachteile entstehen. Die in Absatz 1 Satz 2
-und 3 genannten Vorschriften sowie die Vorschriften der
-Wehrbeschwerdeordnung und des Gesetzes über den Wehrbeauftragten des
-Deutschen Bundestages bleiben unberührt.
+und 3 genannten Vorschriften sowie die Vorschriften des
+Hinweisgeberschutzgesetzes, der Wehrbeschwerdeordnung und des Gesetzes
+über den Wehrbeauftragten des Deutschen Bundestages bleiben unberührt.
 
 
 ## Vierter Abschnitt - Verordnungsermächtigungen
@@ -524,8 +524,7 @@ Soziales ohne Zustimmung des Bundesrates spezielle Rechtsverordnungen
 nach Absatz 1 für einen befristeten Zeitraum erlassen. Das
 Bundesministerium für Arbeit und Soziales kann ohne Zustimmung des
 Bundesrates durch Rechtsverordnung für einen befristeten Zeitraum, der
-spätestens sechs Monate nach Aufhebung der Feststellung der
-epidemischen Lage von nationaler Tragweite endet,
+spätestens mit Ablauf des 7. April 2023 endet,
 
 1.  bestimmen, dass spezielle Rechtsverordnungen nach Satz 1 nach
     Aufhebung der Feststellung der epidemischen Lage von nationaler
@@ -731,6 +730,77 @@ Arbeitsprogramme nach § 20a Abs. 2 Nr. 2 und der gemeinsamen
 Beratungs- und Überwachungsstrategie notwendig sind; sie evaluieren
 deren Zielerreichung mit den von der Nationalen Arbeitsschutzkonferenz
 nach § 20a Abs. 2 Nr. 3 bestimmten Kennziffern.
+
+(3a) Zu nach dem 1. Januar 2023 durchgeführten Betriebsbesichtigungen
+und deren Ergebnissen übermitteln die für den Arbeitsschutz
+zuständigen Landesbehörden an den für die besichtigte Betriebsstätte
+zuständigen Unfallversicherungsträger im Wege elektronischer
+Datenübertragung folgende Informationen:
+
+1.  Name und Anschrift des Betriebs,
+
+
+2.  Anschrift der besichtigten Betriebsstätte, soweit nicht mit Nummer 1
+    identisch,
+
+
+3.  Kennnummer zur Identifizierung,
+
+
+4.  Wirtschaftszweig des Betriebs,
+
+
+5.  Datum der Besichtigung,
+
+
+6.  Anzahl der Beschäftigten zum Zeitpunkt der Besichtigung,
+
+
+7.  Vorhandensein einer betrieblichen Interessenvertretung,
+
+
+8.  Art der sicherheitstechnischen Betreuung,
+
+
+9.  Art der betriebsärztlichen Betreuung,
+
+
+10. Bewertung der Arbeitsschutzorganisation einschließlich
+
+    a)  der Unterweisung,
+
+
+    b)  der arbeitsmedizinischen Vorsorge und
+
+
+    c)  der Ersten Hilfe und sonstiger Notfallmaßnahmen,
+
+
+
+
+
+11. Bewertung der Gefährdungsbeurteilung einschließlich
+
+    a)  der Ermittlung von Gefährdungen und Festlegung von Maßnahmen,
+
+
+    b)  der Prüfung der Umsetzung der Maßnahmen und ihrer Wirksamkeit und
+
+
+    c)  der Dokumentation der Gefährdungen und Maßnahmen,
+
+
+
+
+
+12. Verwaltungshandeln in Form von Feststellungen, Anordnungen oder
+    Bußgeldern.
+
+
+
+Die übertragenen Daten dürfen von den Unfallversicherungsträgern nur
+zur Erfüllung der in ihrer Zuständigkeit nach § 17 Absatz 1 des
+Siebten Buches Sozialgesetzbuch liegenden Aufgaben verarbeitet werden.
 
 (4) Die für den Arbeitsschutz zuständige oberste Landesbehörde kann
 mit Trägern der gesetzlichen Unfallversicherung vereinbaren, daß diese

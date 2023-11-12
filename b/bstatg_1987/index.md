@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1987, 462 (565)
 
 Neugefasst durch
-:   Bek. v. 20.10.2016 I 2394;
+:   Bek. v. 20.10.2016 I 2394
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.6.2021 I 1751
+:   Art. 5 G v. 20.12.2022 I 2727
 
 
 ## § 1 Statistik für Bundeszwecke
@@ -439,10 +439,10 @@ aus der Vorbefragung in aggregierter Form verwendet werden.
 Rechts- oder Verwaltungsvorschriften Daten erheben oder bei ihnen
 Daten auf sonstige Weise anfallen, kann die statistische Aufbereitung
 dieser Daten ganz oder teilweise dem Statistischen Bundesamt
-übertragen werden. Das Statistische Bundesamt ist mit Einwilligung der
-Auftrag gebenden Stelle berechtigt, aus den aufbereiteten Daten
-statistische Ergebnisse für allgemeine Zwecke darzustellen und zu
-veröffentlichen.
+übertragen werden. § 13a Satz 1 gilt entsprechend. Das Statistische
+Bundesamt ist mit Einwilligung der Auftrag gebenden Stelle berechtigt,
+aus den aufbereiteten Daten statistische Ergebnisse für allgemeine
+Zwecke darzustellen und zu veröffentlichen.
 
 (2) Besondere Regelungen in einer eine Bundesstatistik anordnenden
 Rechtsvorschrift bleiben unberührt.

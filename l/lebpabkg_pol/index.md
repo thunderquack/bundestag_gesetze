@@ -24,7 +24,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Artikel 1
+## Art 1
 
 Dem in Warschau am 5. Dezember 2014 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Polen zum Export
@@ -33,7 +33,7 @@ der Republik Polen wohnhaft sind, wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
 
 
-## Artikel 2
+## Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zur Durchführung des Abkommens
@@ -58,7 +58,7 @@ getroffen werden über
 
 
 
-## Artikel 3
+## Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

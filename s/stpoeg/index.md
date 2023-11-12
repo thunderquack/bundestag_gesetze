@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 346
 
 Zuletzt geändert durch
-:   Art. 9 G v. 30.3.2021 I 448, 1380
+:   Art. 6b G v. 16.9.2022 I 1454
 
 
 ## Eingangsformel
@@ -295,19 +295,8 @@ und veranlasst gegebenenfalls die Löschung der ursprünglichen
 Mitteilung.
 
 
-## § 10 Hemmung der Unterbrechungsfristen wegen Infektionsschutzmaßnahmen
+## § 10 (weggefallen)
 
-(1) Unabhängig von der Dauer der Hauptverhandlung ist der Lauf der in
-§ 229 Absatz 1 und 2 der Strafprozessordnung genannten
-Unterbrechungsfristen gehemmt, solange die Hauptverhandlung aufgrund
-von Schutzmaßnahmen zur Verhinderung der Verbreitung von Infektionen
-mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) nicht durchgeführt werden
-kann, längstens jedoch für zwei Monate; diese Fristen enden frühestens
-zehn Tage nach Ablauf der Hemmung. Beginn und Ende der Hemmung stellt
-das Gericht durch unanfechtbaren Beschluss fest.
-
-(2) Absatz 1 gilt entsprechend für die in § 268 Absatz 3 Satz 2 der
-Strafprozessordnung genannte Frist zur Urteilsverkündung.
 
 
 ## § 11 Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse

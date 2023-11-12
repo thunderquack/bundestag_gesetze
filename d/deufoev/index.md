@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 04.05.2016 V1
 
 Zuletzt geändert durch
-:   Art. 27 G v. 10.8.2021 I 3436
+:   Art. 6 G v. 21.12.2022 I 2847
 
 
 ## Eingangsformel
@@ -119,13 +119,11 @@ Deutschsprachförderung nur erhalten, wenn
 
 
 
-Für Personen, die eine Aufenthaltsgestattung nach dem Asylgesetz
-besitzen, ist § 45a Absatz 2 Satz 3 und 4 des Aufenthaltsgesetzes zu
-beachten. Personen, deren Wohnsitz oder gewöhnlicher Aufenthalt in
-Grenzgebieten zur Bundesrepublik Deutschland liegt, können eine
+Personen, deren Wohnsitz oder gewöhnlicher Aufenthalt in Grenzgebieten
+zur Bundesrepublik Deutschland liegt, können eine
 Teilnahmeberechtigung für die berufsbezogene Deutschsprachförderung
 erhalten, wenn die Voraussetzungen nach Satz 1 Nummer 1 Buchstabe a
-vorliegen. Satz 4 gilt nur, wenn die Teilnahmeberechtigung im Rahmen
+vorliegen. Satz 3 gilt nur, wenn die Teilnahmeberechtigung im Rahmen
 eines gemeinsamen Projekts der Bundesagentur für Arbeit mit dem
 Nachbarstaat, in dem der Wohnsitz oder gewöhnliche Aufenthalt der
 Person liegt, erteilt wird, bei dem der Nachbarstaat auch für Personen
@@ -147,14 +145,13 @@ erforderlich, dass die Bundesagentur für Arbeit die Zustimmung nach §
 § 16a des Aufenthaltsgesetzes erteilt hat, soweit diese erforderlich
 ist.
 
-(2) Personen nach § 2, die in einer Eingliederungsvereinbarung nach
-dem Zweiten Buch Sozialgesetzbuch oder aufgrund eines diese
-ersetzenden Verwaltungsaktes zur Teilnahme an der berufsbezogenen
-Deutschsprachförderung verpflichtet sind, sind nach § 8 Absatz 3
-vorrangig zu berücksichtigen. In gleicher Weise vorrangig zu
-berücksichtigen sind Personen, die eine Aufenthaltsgestattung nach dem
-Asylgesetz besitzen und bei denen ein rechtmäßiger und dauerhafter
-Aufenthalt zu erwarten ist.
+(2) Personen nach § 2, die aufgrund einer Aufforderung nach § 15
+Absatz 5 Satz 2 oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur
+Teilnahme an der berufsbezogenen Deutschsprachförderung verpflichtet
+sind, sind nach § 8 Absatz 3 vorrangig zu berücksichtigen. In gleicher
+Weise vorrangig zu berücksichtigen sind Personen, die eine
+Aufenthaltsgestattung nach dem Asylgesetz besitzen und bei denen ein
+rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist.
 
 (3) Die Teilnahme an der berufsbezogenen Deutschsprachförderung setzt
 ausreichende deutsche Sprachkenntnisse entsprechend dem Niveau B 1 des
@@ -223,14 +220,14 @@ Voraussetzungen nach § 4 Absatz 1 Satz 1 Nummer 1 nicht erfüllt sind.
 (5) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 3 entscheidet das Bundesamt auf Antrag.
 
-(6) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-4 und 5 entscheiden die Agenturen für Arbeit.
+(6) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1
+Satz 3 und 4 entscheiden die Agenturen für Arbeit.
 
 (7) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 4 entscheidet das Bundesamt auf Antrag.
 
 (8) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-6 entscheidet das Bundesamt auf Antrag.
+5 entscheidet das Bundesamt auf Antrag.
 
 
 ### § 6 Erteilung, Form und Inhalt der Teilnahmeberechtigung
@@ -255,8 +252,8 @@ Satz 2 das Ermessen der Ausländerbehörde bei der Erteilung einer
 Erlaubnis zur Beschäftigung und die Vollziehbarkeit der
 Ausreisepflicht unberührt lassen. Bei Personen nach § 4 Absatz 2 Satz
 1 ist die Erklärung in die Teilnahmeberechtigung aufzunehmen, dass die
-Teilnahme aufgrund einer Eingliederungsvereinbarung oder aufgrund
-eines diese ersetzenden Verwaltungsaktes verpflichtend ist.
+Teilnahme aufgrund einer Aufforderung nach § 15 Absatz 5 Satz 2 oder
+Absatz 6 des Zweiten Buches Sozialgesetzbuch verpflichtend ist.
 Telefonnummer und E-Mail-Adresse sind aufzunehmen, wenn die oder der
 Teilnahmeberechtigte zugestimmt hat. Im Übrigen sollen Angaben zum
 Bildungsstand und zum geeigneten Berufssprachkurs aufgenommen werden.
@@ -959,6 +956,18 @@ berufsbezogenen Deutschsprachförderung notwendig sind.
 
 
 ## Teil 7 - Übergangsregelungen; Inkrafttreten
+
+
+### § 27a
+
+Auf Personen mit einer bis zum Ablauf des 30. Juni 2023
+abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten
+Buches Sozialgesetzbuch in der bis zu diesem Zeitpunkt gültigen
+Fassung sind bis zur erstmaligen Erstellung eines Kooperationsplans
+nach § 15 des Zweiten Buches Sozialgesetzbuch in der ab dem 1. Juli
+2023 gültigen Fassung, spätestens bis zum Ablauf des 31. Dezember
+2023, § 4 Absatz 2 Satz 1 und § 6 Absatz 2 Satz 4 in der bis zum 30.
+Juni 2023 gültigen Fassung weiter anzuwenden.
 
 
 ### § 28 Inkrafttreten

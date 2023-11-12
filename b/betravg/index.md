@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3610
 
 Zuletzt geändert durch
-:   Art. 23 G v. 22.12.2020 I 3256
+:   Art. 14 G v. 20.12.2022 I 2759
 
 
 ## Eingangsformel
@@ -602,14 +602,12 @@ Einem Arbeitnehmer, der die Altersrente aus der gesetzlichen
 Rentenversicherung als Vollrente in Anspruch nimmt, sind auf sein
 Verlangen nach Erfüllung der Wartezeit und sonstiger
 Leistungsvoraussetzungen Leistungen der betrieblichen Altersversorgung
-zu gewähren. Fällt die Altersrente aus der gesetzlichen
-Rentenversicherung wieder weg oder wird sie auf einen Teilbetrag
-beschränkt, so können auch die Leistungen der betrieblichen
-Altersversorgung eingestellt werden. Der ausgeschiedene Arbeitnehmer
-ist verpflichtet, die Aufnahme oder Ausübung einer Beschäftigung oder
-Erwerbstätigkeit, die zu einem Wegfall oder zu einer Beschränkung der
-Altersrente aus der gesetzlichen Rentenversicherung führt, dem
-Arbeitgeber oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
+zu gewähren. Wird die Altersrente aus der gesetzlichen
+Rentenversicherung auf einen Teilbetrag beschränkt, können die
+Leistungen der betrieblichen Altersversorgung eingestellt werden. Der
+ausgeschiedene Arbeitnehmer ist verpflichtet, eine Beschränkung der
+Altersrente aus der gesetzlichen Rentenversicherung dem Arbeitgeber
+oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
 
 
 ### Vierter Abschnitt - Insolvenzsicherung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 851
 
 Zuletzt geändert durch
-:   Art. 125 G v. 10.8.2021 I 3436
+:   Art. 24 G v. 2.3.2023 I Nr. 56
 
 Die Neufassung dieser Verordnung dient der Umsetzung der Richtlinie
 96/26/EG des Rates vom 29. April 1996 über den Zugang zum Beruf des
@@ -221,13 +221,14 @@ Bescheinigungen nachgewiesen:
 2.  einer Eigenkapitalbescheinigung eines Wirtschaftsprüfers, vereidigten
     Buchprüfers, Steuerberaters, Steuerbevollmächtigten, Fachanwalts für
     Steuerrecht, einer Wirtschaftsprüfungs-, Buchprüfungs- oder
-    Steuerberatungsgesellschaft oder eines Kreditinstituts nach dem Muster
-    der Anlage 1. Ist das Unternehmen nach § 316 Abs. 1 des
-    Handelsgesetzbuchs von einem Abschlussprüfer geprüft worden, bedarf es
-    der Bescheinigung des Abschlussprüfers, der den Jahresabschluss
-    geprüft hat. Bei Unternehmen des Taxen- und Mietwagenverkehrs, die
-    keinen Jahresabschluss vorlegen können, ist eine von den vorgenannten
-    Stellen bestätigte Vermögensübersicht vorzulegen. Der Stichtag der
+    Berufsausübungsgesellschaft im Sinne des Steuerberatungsgesetzes oder
+    eines Kreditinstituts nach dem Muster der Anlage 1. Ist das
+    Unternehmen nach § 316 Abs. 1 des Handelsgesetzbuchs von einem
+    Abschlussprüfer geprüft worden, bedarf es der Bescheinigung des
+    Abschlussprüfers, der den Jahresabschluss geprüft hat. Bei Unternehmen
+    des Taxen- und Mietwagenverkehrs, die keinen Jahresabschluss vorlegen
+    können, ist eine von den vorgenannten Stellen bestätigte
+    Vermögensübersicht vorzulegen. Der Stichtag der
     Eigenkapitalbescheinigung oder der Vermögensübersicht darf zum
     Zeitpunkt der Antragstellung nicht länger als ein Jahr zurückliegen.
 
@@ -266,9 +267,9 @@ Der Nachweis über das Vorliegen der Nummern 1 bis 4 ist zu erbringen
 durch Vorlage einer Bescheinigung eines Wirtschaftsprüfers,
 vereidigten Buchprüfers, Steuerberaters, Steuerbevollmächtigten,
 Fachanwalts für Steuerrecht, einer Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft oder eines Kreditinstituts nach dem
-Muster der Anlage 2 (Zusatzbescheinigung). Absatz 2 Nr. 2 Satz 2 und 3
-gilt entsprechend.
+oder Berufsausübungsgesellschaft im Sinne des Steuerberatungsgesetzes
+oder eines Kreditinstituts nach dem Muster der Anlage 2
+(Zusatzbescheinigung). Absatz 2 Nr. 2 Satz 2 und 3 gilt entsprechend.
 
 (4) Im Zweifelsfall kann die zuständige Behörde verlangen, dass der
 Antragsteller ihr diejenigen Unterlagen vorlegt, auf Grund derer die
@@ -526,9 +527,9 @@ bestanden hat und ob strafrechtliche Verurteilungen oder andere
 Tatsachen vorliegen, die geeignet sind, Zweifel an der Zuverlässigkeit
 zu begründen.
 
-(3) Das Bundesamt für Güterverkehr unterrichtet die zuständigen
-Behörden anderer Mitgliedstaaten der Europäischen Union oder des
-Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der
+(3) Das Bundesamt für Logistik und Mobilität unterrichtet die
+zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union
+oder des Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der
 Verordnung (EG) Nr. 1073/2009 über die ihm bekannt gewordenen Verstöße
 gegen die Vorschriften für das Personenkraftverkehrsgewerbe und gemäß
 Artikel 56 Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt
@@ -552,7 +553,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 1 (zu § 2 Abs. 2 Nr. 2)
 
-(Fundstelle: BGBl. I 2000, 855)
+(Fundstelle: BGBl. I 2000, 855;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Eigenkapitalbescheinigung nach § 2 Abs. 2 Nr. 2
 der Berufszugangsverordnung für den Straßenpersonenverkehr
 Das Unternehmen
@@ -585,13 +587,15 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 
 
 ## Anlage 2 (zu § 2 Abs. 3)
 
-(Fundstelle: BGBl. I 2000, 856 - 858)
+(Fundstelle: BGBl. I 2000, 856 - 858;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Zusatzbescheinigung nach § 2 Abs. 3
 der Berufszugangsverordnung für den Straßenpersonenverkehr
 Das Unternehmen
@@ -623,7 +627,8 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 3\. Unbelastetes Privatvermögen des persönlich haftenden Unternehmers
 a) Grundstücke                             Verkehrswert
@@ -654,7 +659,8 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 4\. Zu Gunsten des Unternehmens beliehene Gegenstände des
 Privatvermögens
@@ -688,7 +694,8 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 
 

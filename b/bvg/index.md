@@ -19,10 +19,10 @@ G aufgeh. durch
 :   Art. 58 Nr. 2 G v. 12.12.2019 I 2652 mWv 1.1.2024
 
 Neugefasst durch
-:   Bek. v. 22.1.1982 I 21
+:   Bek. v. 22.1.1982 I 21;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 10.12.2021 I 5162
+:   Art. 1 V v. 21.6.2023 I Nr. 165
 
 
 ## Anspruch auf Versorgung - 
@@ -791,7 +791,7 @@ besondere Voraussetzungen der Versorgung geregelt werden.
 ### § 14
 
 Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt
-ist, erhalten monatlich 183 Euro zum Unterhalt eines Führhunds und als
+ist, erhalten monatlich 201 Euro zum Unterhalt eines Führhunds und als
 Beihilfe zu den Aufwendungen für fremde Führung.
 
 
@@ -799,9 +799,9 @@ Beihilfe zu den Aufwendungen für fremde Führung.
 
 Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen
 Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden
-Kosten mit einem monatlichen Pauschbetrag von 23 bis 151 Euro zu
+Kosten mit einem monatlichen Pauschbetrag von 25 bis 166 Euro zu
 ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von
-2,317 Euro mit der auf Grund einer Rechtsverordnung nach § 24a
+2,548 Euro mit der auf Grund einer Rechtsverordnung nach § 24a
 Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten
 Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf
 volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden.
@@ -1777,9 +1777,28 @@ Einkommen gelten nicht:
     Grundrente nach § 65 ruht,
 
 
-3.  Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs
+3.  Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs
     kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des
-    Einkommensteuergesetzes genannten Betrag.
+    Einkommensteuergesetzes genannten Betrag,
+
+
+4.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes,
+
+
+5.  Einnahmen von Schülerinnen und Schülern allgemein- oder
+    berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet
+    haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden;
+    dies gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf
+    Ausbildungsvergütung haben,
+
+
+6.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
+    Höhe von 3 000 Euro kalenderjährlich nicht übersteigen und
+
+
+7.  Erbschaften.
 
 
 
@@ -1999,8 +2018,8 @@ Alterssicherung oder die Sicherstellung einer angemessenen Bestattung
 und Grabpflege wesentlich erschweren würde. Vermögenswerte aus
 Nachzahlungen von Renten nach diesem Gesetz bleiben für einen Zeitraum
 von einem Jahr unberücksichtigt. Im Übrigen gelten § 90 Absatz 2
-Nummer 1 bis 7 und 9, § 91 des Zwölften Buches Sozialgesetzbuch sowie
-§ 25c Absatz 3 entsprechend.
+Nummer 1 bis 7, 9 und 10, § 91 des Zwölften Buches Sozialgesetzbuch
+sowie § 25c Absatz 3 entsprechend.
 
 (2) Als kleinere Barbeträge oder sonstige Geldwerte sind folgende
 Prozentsätze des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe
@@ -2013,11 +2032,11 @@ a zu berücksichtigen:
     Lebensunterhalt,
 
 
-2.  20 Prozent bei Erbringung aller übrigen Leistungen,
+2.  35 Prozent bei Erbringung aller übrigen Leistungen,
 
 
 
-zuzüglich eines Betrags in Höhe von 20 Prozent des Bemessungsbetrags
+zuzüglich eines Betrags in Höhe von 35 Prozent des Bemessungsbetrags
 für den nicht getrennt lebenden Ehegatten oder Lebenspartner oder für
 den Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen
 Gemeinschaft und in Höhe von 2 Prozent für jede weitere vom
@@ -2049,7 +2068,7 @@ nach § 33 Absatz 1 Satz 2 Buchstabe a zu berücksichtigen:
     Lebensunterhalt,
 
 
-3.  20 Prozent für jeden Elternteil, bei dem die Beschädigten leben, und
+3.  35 Prozent für jeden Elternteil, bei dem die Beschädigten leben, und
     für dessen nicht getrennt lebenden Ehegatten oder Lebenspartner oder
     für dessen Partner einer eheähnlichen oder
     lebenspartnerschaftsähnlichen Gemeinschaft sowie
@@ -2474,9 +2493,10 @@ Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und
 Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den
 übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen
 und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum
-Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels des
-Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen
-Lage der Beschädigten oder Hinterbliebenen entsprechend.
+Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels und die
+§§ 134 und 140 des Zwölften Buches Sozialgesetzbuch unter
+Berücksichtigung der besonderen Lage der Beschädigten oder
+Hinterbliebenen entsprechend.
 
 
 ### § 27b
@@ -3082,82 +3102,96 @@ Ermittlung und Fortentwicklung zu regeln.
 (1) Beschädigte erhalten eine monatliche Grundrente bei einem Grad der
 Schädigungsfolgen
 
-*    *   von  30
+1.
+    *        *   von 30
 
-    *   in Höhe von 156 Euro,
-
-
-
-
-*    *   von  40
-
-    *   in Höhe von 212 Euro,
+        *   in Höhe von 171 Euro,
 
 
 
 
-*    *   von  50
 
-    *   in Höhe von 283 Euro,
+2.
+    *        *   von 40
 
-
-
-
-*    *   von  60
-
-    *   in Höhe von 360 Euro,
+        *   in Höhe von 233 Euro,
 
 
 
 
-*    *   von  70
 
-    *   in Höhe von 499 Euro,
+3.
+    *        *   von 50
 
-
-
-
-*    *   von  80
-
-    *   in Höhe von 603 Euro,
+        *   in Höhe von 311 Euro,
 
 
 
 
-*    *   von  90
 
-    *   in Höhe von 724 Euro,
+4.
+    *        *   von 60
 
-
-
-
-*    *   von 100
-
-    *   in Höhe von 811 Euro.
+        *   in Höhe von 396 Euro,
 
 
 
 
-Die Grundrente erhöht sich für Schwerbeschädigte, die das 65.
-Lebensjahr vollendet haben, bei einem Grad der Schädigungsfolgen
+
+5.
+    *        *   von 70
+
+        *   in Höhe von 549 Euro,
+
+
+
+
+
+6.
+    *        *   von 80
+
+        *   in Höhe von 663 Euro,
+
+
+
+
+
+7.
+    *        *   von 90
+
+        *   in Höhe von 797 Euro,
+
+
+
+
+
+8.
+    *        *   von 100
+
+        *   in Höhe von 891 Euro.
+
+
+
+
+
+
+
+Die monatliche Grundrente erhöht sich für Schwerbeschädigte, die das
+65\. Lebensjahr vollendet haben, bei einem Grad der Schädigungsfolgen
 
 *    *   von 50 und 60
 
-    *   um 32 Euro,
-
-
+    *   um 35 Euro,
 
 
 *    *   von 70 und 80
 
-    *   um 39 Euro,
-
-
+    *   um 43 Euro,
 
 
 *    *   von mindestens 90
 
-    *   um 48 Euro.
+    *   um 53 Euro.
 
 
 
@@ -3179,42 +3213,32 @@ die in folgenden Stufen gewährt wird:
 
 *    *   Stufe I
 
-    *   94 Euro,
-
-
+    *   103 Euro,
 
 
 *    *   Stufe II
 
-    *   193 Euro,
-
-
+    *   212 Euro,
 
 
 *    *   Stufe III
 
-    *   288 Euro,
-
-
+    *   316 Euro,
 
 
 *    *   Stufe IV
 
-    *   385 Euro,
-
-
+    *   424 Euro,
 
 
 *    *   Stufe V
 
-    *   479 Euro,
-
-
+    *   527 Euro,
 
 
 *    *   Stufe VI
 
-    *   578 Euro.
+    *   636 Euro.
 
 
 
@@ -3235,30 +3259,24 @@ Erwerbstätigkeit nicht oder nur in beschränktem Umfang oder nur mit
 (2) Die volle Ausgleichsrente beträgt monatlich bei einem Grad der
 Schädigungsfolgen
 
-*    *   von  50 oder 60
+*    *   von 50 oder 60
 
-    *   499 Euro,
-
-
+    *   549 Euro,
 
 
-*    *   von  70 oder 80
+*    *   von 70 oder 80
 
-    *   603 Euro,
-
-
+    *   663 Euro,
 
 
-*    *   von  90
+*    *   von 90
 
-    *   724 Euro,
-
-
+    *   797 Euro,
 
 
 *    *   von 100
 
-    *   811 Euro.
+    *   891 Euro.
 
 
 
@@ -3273,7 +3291,7 @@ daß
 
 a)  bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe
     von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in
-    Höhe von 0,65 vom Hundert des Bemessungsbetrags von 34 561 Euro,
+    Höhe von 0,65 vom Hundert des Bemessungsbetrags von 38 211 Euro,
     jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)
 
     und
@@ -3368,7 +3386,7 @@ Beträge der Ausgleichsrente angegeben werden.
 ### § 33a
 
 (1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner
-einen Zuschlag von 91 Euro monatlich. Den Zuschlag erhalten auch
+einen Zuschlag von 100 Euro monatlich. Den Zuschlag erhalten auch
 Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder
 für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein
 Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen.
@@ -3540,7 +3558,7 @@ Lehrlingsvergütung bis zu 77 Euro monatlich bleibt unberücksichtigt.
 ### § 35
 
 (1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine
-Pflegezulage von 342 Euro (Stufe I) monatlich gezahlt. Hilflos im
+Pflegezulage von 376 Euro (Stufe I) monatlich gezahlt. Hilflos im
 Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von
 häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung
 ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe
@@ -3551,8 +3569,8 @@ nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft
 zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so
 schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche
 Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles
-unter Berücksichtigung des Umfangs der notwendigen Pflege auf 584,
-832, 1 068, 1 386 oder 1 706 Euro (Stufen II, III, IV, V und VI) zu
+unter Berücksichtigung des Umfangs der notwendigen Pflege auf 642,
+916, 1 174, 1 524 oder 1 876 Euro (Stufen II, III, IV, V und VI) zu
 erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der
 Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten
 Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach
@@ -3664,7 +3682,7 @@ die die Bestattung veranlasst hat.
 
 (4) Stirbt eine rentenberechtigte Beschädigte oder ein
 rentenberechtigter Beschädigter an den Schädigungsfolgen, so wird ein
-Bestattungsgeld in Höhe von mindestens 1 958 Euro gezahlt. Hiervon
+Bestattungsgeld in Höhe von mindestens 2 154 Euro gezahlt. Hiervon
 werden zunächst die Kosten der Bestattung bestritten. Bleibt ein
 Überschuss, so sind nacheinander der Ehegatte, die eingetragene
 Lebenspartnerin oder der eingetragene Lebenspartner, die Kinder, die
@@ -3681,8 +3699,8 @@ Gesundheitsstörung stirbt, die als Schädigungsfolge anerkannt ist.
 (6) Stirbt eine rentenberechtigte Beschädigte oder ein
 rentenberechtigter Beschädigter, ohne dass der Tod Schädigungsfolge
 ist, so hat diejenige Person, die die Bestattung veranlasst hat, einen
-Anspruch auf Übernahme der Kosten der Bestattung bis zur Höhe von 982
-Euro. Lagen die Bestattungskosten unter 982 Euro, so wird der
+Anspruch auf Übernahme der Kosten der Bestattung bis zur Höhe von
+1 080 Euro. Lagen die Bestattungskosten unter 1 080 Euro, so wird der
 Überschuss als Bestattungsgeld gezahlt. Absatz 4 Satz 3 und 4 gilt
 entsprechend.
 
@@ -3757,7 +3775,7 @@ Beschädigten verheiratet war, Anspruch auf eine Witwenversorgung hat.
 ### § 40
 
 Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente
-von 488 Euro monatlich.
+von 537 Euro monatlich.
 
 
 ### § 40a
@@ -3892,7 +3910,7 @@ Ausübung einer Erwerbstätigkeit nicht möglich ist. Im Falle des Satzes
 1 Buchstabe a gilt § 29 entsprechend.
 
 (2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen
-Lebenspartners beträgt monatlich 538 Euro.
+Lebenspartners beträgt monatlich 592 Euro.
 
 (3) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu
 mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Satz
@@ -4102,12 +4120,12 @@ Die Grundrente beträgt monatlich
 
 *    *   bei Halbwaisen
 
-    *   213 Euro,
+    *   234 Euro,
 
 
 *    *   bei Vollwaisen
 
-    *   373 Euro.
+    *   410 Euro.
 
 
 
@@ -4119,12 +4137,12 @@ Die Grundrente beträgt monatlich
 
 *    *   bei Halbwaisen
 
-    *   241 Euro,
+    *   265 Euro,
 
 
 *    *   bei Vollwaisen
 
-    *   336 Euro.
+    *   370 Euro.
 
 
 
@@ -4296,12 +4314,12 @@ oder das 60. Lebensjahr vollendet hat.
 
 *    *   bei einem Elternpaar
 
-    *   660 Euro,
+    *   726 Euro,
 
 
 *    *   bei einem Elternteil
 
-    *   460 Euro.
+    *   506 Euro.
 
 
 
@@ -4312,12 +4330,12 @@ monatlich
 
 *    *   bei einem Elternpaar um
 
-    *   121 Euro,
+    *   133 Euro,
 
 
 *    *   bei einem Elternteil um
 
-    *   91 Euro.
+    *   100 Euro.
 
 
 
@@ -4341,12 +4359,12 @@ monatlich
 
 *    *   bei einem Elternpaar um
 
-    *   374 Euro,
+    *   411 Euro,
 
 
 *    *   bei einem Elternteil um
 
-    *   272 Euro.
+    *   300 Euro.
 
 
 
@@ -4416,7 +4434,7 @@ Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein
 Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es
 beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners,
 die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind
-hinterlassen, 1 958 Euro, in allen übrigen Fällen 982 Euro.
+hinterlassen, 2 154 Euro, in allen übrigen Fällen 1 080 Euro.
 
 
 ### § 53a Beiträge zur Pflegeversicherung
@@ -5633,12 +5651,12 @@ Freibetrages vorliegen.
 
 ### § 88d
 
-Erwachsene Leistungsberechtigte, denen für den Monat Mai 2021
+Erwachsene Leistungsberechtigte, denen für den Monat Juli 2022
 Leistungen nach § 27a gezahlt werden, erhalten für sich und ihren
 Ehegatten oder Lebenspartner im Sinne des § 25 Absatz 4 Satz 2 Nummer
-1 für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum
-Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden
-Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro.
+1 für diesen Monat zum Ausgleich der mit der COVID-19-Pandemie in
+Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von
+jeweils 200 Euro.
 
 
 ### § 88e
@@ -5666,6 +5684,40 @@ Eines gesonderten Antrags bedarf es nicht.
 Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen zu
 berücksichtigen. Der Anspruch auf die Einmalzahlung nach Absatz 2 ist
 unpfändbar.
+
+
+### § 88f
+
+(1) Minderjährige, die ergänzende Hilfe zum Lebensunterhalt nach § 27a
+beziehen, die sich nach der Regelbedarfsstufe 4, 5 oder 6 der Anlage
+zu § 28 des Zwölften Buches Sozialgesetzbuch bemisst, haben Anspruch
+auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Anspruch auf
+den Sofortzuschlag besteht auch dann, wenn Minderjährige
+
+1.  Bildungs- und Teilhabeleistungen nach § 27a dieses Gesetzes in
+    Verbindung mit § 34 des Zwölften Buches Sozialgesetzbuch beziehen oder
+
+
+2.  die Leistungen nach Satz 1 oder Nummer 1 nur deshalb nicht beziehen,
+    weil Kindergeld nach § 30 Absatz 3 der Verordnung zur
+    Kriegsopferfürsorge berücksichtigt wird.
+
+
+
+Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
+
+(2) Wird die Entscheidung über die Bewilligung der ergänzenden Hilfe
+zum Lebensunterhalt nach Absatz 1 Satz 1 oder der Bildungs- und
+Teilhabeleistungen nach Absatz 1 Satz 2 Nummer 1 rückwirkend geändert
+oder fällt die Leistung rückwirkend weg, erfolgt keine rückwirkende
+Aufhebung der Bewilligung und keine Rückforderung des
+Sofortzuschlages. Dies gilt auch, wenn sich nachträglich ergibt, dass
+innerhalb des Bewilligungszeitraums, für den der Sofortzuschlag
+bereits festgesetzt ist, kein Anspruch auf ergänzende Hilfe zum
+Lebensunterhalt oder Bildungs- und Teilhabeleistungen besteht.
+
+(3) Der Anspruch auf den Sofortzuschlag kann nicht übertragen,
+verpfändet oder gepfändet werden.
 
 
 ## Härteausgleich - 

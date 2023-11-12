@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2013, 466
 
 Neugefasst durch
-:   Bek. v. 11.3.2019 I 308
+:   Bek. v. 11.3.2019 I 308;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 26.3.2021 I 475
+:   Art. 4 V v. 28.6.2023 I Nr. 174
 
 
 ## § 1 Kosten
@@ -156,7 +156,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz
         1 Nummer 2 bis 7
 
-    *   211 bis 227.1
+    *   211 bis 228
 
 
 *    *   **III. Teil: Eisenbahnverkehr**
@@ -176,7 +176,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz
         1 Nummer 2 bis 4
 
-    *   611 bis 618.1
+    *   611 bis 619
 
 
 *    *   **IV. Teil: Binnenschiffsverkehr**
@@ -199,7 +199,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
 *    *   1. Abschnitt: Gebühren der Bundesbehörden
 
-    *   901 bis 902
+    *   901 bis 903
 
 
 *    *   2. Abschnitt: Gebühren der Landesbehörden
@@ -366,11 +366,11 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
 *    *   211.1
 
-    *   Erstmalige Untersuchung für Fahrzeuge EX/II, EX/III, FL
+    *   Erstmalige Untersuchung für Fahrzeuge EX/II, EX/III, FL, AT
         (Unterabschnitt 9.1.3.1
         in Verbindung mit Unterabschnitt 9.1.2.1 ADR).
 
-    *   80 bis 110
+    *   95 bis 125
 
 
 *    *   211.2
@@ -378,17 +378,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Erstmalige Untersuchung für MEMU (Unterabschnitt 9.1.3.1 in Verbindung
         mit Unterabschnitt 9.1.2.1 ADR).
 
-    *   90 bis 220
+    *   105 bis 255
 
 
 *    *   211.3
 
-    *   Erstmalige Untersuchung und Erteilung der Zulassungsbescheinigung für
-        AT-Fahrzeuge (Unterabschnitt 9.1.3.1 in Verbindung mit Unterabschnitt
-        9\.1.2.1 ADR).
+    *   (weggefallen)
 
-    *   45
-
+    *
 
 *    *   212
 
@@ -403,14 +400,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Untersuchung eines EX/II-, EX/III-, FL-Fahrzeugs oder MEMU
         (Unterabschnitt 9.1.2.1 ADR).
 
-    *   45
+    *   55
 
 
 *    *   212.2
 
     *   Untersuchung eines AT-Fahrzeugs (Unterabschnitt 9.1.2.1 ADR).
 
-    *   40
+    *   50
 
 
 *    *   213
@@ -418,7 +415,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Nachprüfungen im Anschluss an Prüfungen nach den Gebührennummern 211
         bis 212 je Prüfung.
 
-    *   30
+    *   35
 
 
 *    *   213.1
@@ -426,7 +423,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Wie Gebührennummer 213, jedoch zusätzliche Untersuchung der
         Bremsanlage (Abschnitt 9.2.3 ADR).
 
-    *   35 je begonnene Viertelstunde
+    *   40 je begonnene Viertelstunde
 
 
 *    *   214
@@ -437,7 +434,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         (§ 14 Absatz 4 bis 6 der Gefahrgutverordnung Straße, Eisenbahn und
         Binnenschifffahrt).
 
-    *   30 je begonnene Viertelstunde
+    *   35 je begonnene Viertelstunde
 
 
 *    *   215 bis 220
@@ -459,7 +456,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Prüfung der Antragsunterlagen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   221.2
@@ -494,8 +491,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   222
 
     *   Prüfung vor Inbetriebnahme (P), Gebührenhöhe abhängig vom Fassungsraum
-        des Tanks
-        (Kapitel 6.7 bis 6.10 ADR):
+        des Tanks (Kapitel 6.7 bis 6.10 ADR):
 
     *
     *
@@ -504,13 +500,13 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   222.1
 
     *   Bauprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12,
-        6\.8.2.4, Abschnitt 6.9.5 ADR).
+        6\.8.2.4, Abschnitt 6.13.5 ADR).
 
-    *   195
+    *   230
 
-    *   225
+    *   260
 
-    *   315
+    *   365
 
 
 *    *   222.2
@@ -518,36 +514,36 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung der Ergebnisse der zerstörungsfreien Prüfung der Schweißnähte
         (Unterabschnitt 6.8.1.23 ADR).
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   222.3
 
     *   Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12,
-        6\.8.2.4, Abschnitt 6.9.5 ADR).
-
-    *   100
+        6\.8.2.4, Abschnitt 6.13.5 ADR).
 
     *   115
 
-    *   130
+    *   135
+
+    *   155
 
 
 *    *   222.4
 
     *   Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt
         6\.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt
-        6\.9.5 ADR).
+        6\.13.5 ADR).
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
 
 *    *   222.5
@@ -555,23 +551,23 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 222.1
         bis 222.4.
 
-    *   100
+    *   115
 
-    *   120
+    *   140
 
-    *   155
+    *   180
 
 
 *    *   222.6
 
     *   Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19,
-        6\.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
+        6\.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.13.5 ADR).
 
-    *   60 bis 90
+    *   70 bis 105
 
-    *   80 bis 120
+    *   95 bis 140
 
-    *   100 bis 150
+    *   115 bis 175
 
 
 *    *   222.7
@@ -579,18 +575,17 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung der elektrischen Ausrüstung für die Bedienungsausrüstung der
         festverbundenen Tanks (Unterabschnitt 9.1.2.1 ADR).
 
-    *   100
+    *   115
 
-    *   120
+    *   140
 
-    *   155
+    *   180
 
 
 *    *   223
 
     *   Wiederkehrende Prüfung (P), Gebührenhöhe abhängig vom Fassungsraum des
-        Tanks
-        (Kapitel 6.7 bis 6.10 ADR):
+        Tanks (Kapitel 6.7 bis 6.10 ADR):
 
     *
     *
@@ -599,64 +594,75 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   223.1
 
     *   Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19,
-        6\.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5,
-        6\.10.4 ADR).
+        6\.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.10.4,
+        6\.13.5 ADR).
 
-    *   145 bis 175
+    *   170 bis 205
 
-    *   180 bis 220
+    *   210 bis 260
 
-    *   215 bis 265
+    *   250 bis 305
 
 
 *    *   223.2
 
-    *   Druckprüfung (Unterabschnitt 6.7.2.19,
-        6\.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5 ADR).
-
-    *   100
+    *   Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12,
+        6\.8.2.4, Abschnitt 6.13.5 ADR).
 
     *   115
 
-    *   130
+    *   135
+
+    *   155
 
 
 *    *   223.3
 
     *   Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt
         6\.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt
-        6\.9.5 ADR).
+        6\.13.5 ADR).
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
 
 *    *   223.4
 
-    *   Nachprüfung der elektrischen Ausrüstung
-        für die Bedienungsausrüstung der festverbundenen Tanks (Unterabschnitt
-        9\.1.2.3 ADR).
+    *   Nachprüfung der elektrischen Ausrüstung für die Bedienungsausrüstung
+        der festverbundenen Tanks (Unterabschnitt 9.1.2.3 ADR).
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
-    *   65
+    *   75
+
+
+*    *   223.5
+
+    *   Sichtung der Tankakte, Erstellung des Tankdatenblatts (Absatz
+        6\.8.2.6.2, 6.8.2.3.1 ADR).
+
+    *   50 je begonnene Viertelstunde
+
+    *   50 je begonnene Viertelstunde
+
+    *   50 je begonnene Viertelstunde
 
 
 *    *   224
 
     *   Zwischenprüfung (L) (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14,
-        6\.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR).
+        6\.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.10.4, 6.13.5 ADR).
 
-    *   210
-
-    *   230
+    *   245
 
     *   265
+
+    *   305
 
 
 *    *   225
@@ -670,16 +676,17 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 *    *   225.1
 
     *   Im Zusammenhang mit den Prüfungen vor Inbetriebnahme durchzuführende
-        oder wiederkehrende Funktionsprüfungen von ausgebauten Armaturen
-        (Unterabschnitt 6.8.3.4 ADR).
+        oder wiederkehrende Funktionsprüfungen von ausgebauten
+        Bedienungsausrüstungen (Unterabschnitt 6.8.2.4, 6.8.3.4 ADR).
 
-    *   20 je Funktionsprüfung
+    *   25 je Funktionsprüfung
 
 
 *    *   225.2
 
-    *   Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15,
-        6\.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4 ADR).
+    *   Inbetriebnahmeüberprüfung und außerordentliche Prüfungen
+        (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4,
+        6\.8.3.4, Absatz 6.8.1.5.5 ADR).
         Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen
         oder wiederkehrenden Prüfungen erhoben.
 
@@ -690,10 +697,10 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Bei Tanks, die durch Trennwände unterteilt sind, wird bei der
         erstmaligen Prüfung, wiederkehrenden Prüfung und der Zwischenprüfung
         (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4,
-        6\.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR) ein Zuschlag je Abteil erhoben,
+        6\.8.3.4, Abschnitt 6.10.4, 6.13.5 ADR) ein Zuschlag je Abteil erhoben,
         sofern die Prüfung der Abteile getrennt erfolgt.
 
-    *   25
+    *   30
 
 
 *    *   225.4
@@ -702,7 +709,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Gebührennummern 222.4, 223.3 und 224 bei Behältern zum Transport von
         Gasen (Klasse 2).
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   225.5
@@ -711,14 +718,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14
         und 6.8.3.4 ADR).
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   225.6
 
     *   Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 ADR).
 
-    *   55
+    *   65
 
 
 *    *   225.7
@@ -726,7 +733,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Änderung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR),
         einschließlich eventuell erforderlicher Prüfungen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   225.8
@@ -749,21 +756,45 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu
         berechnen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   227
 
-    *   Getrennte Baumusterzulassung von Ventilen und anderen
-        Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 ADR):
+    *   Getrennte Baumusterzulassung von Bedienungsausrüstungen
+        (Unterabschnitt 6.8.2.3 ADR):
 
     *
 
 *    *   227.1
 
-    *   Ausstellen der Baumusterzulassungsbescheinigung.
+    *   Begutachtung der Antragsunterlagen einschließlich
+        Werkstoffbescheinigungen und schweißtechnischer Unterlagen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
+
+
+*    *   227.2
+
+    *   Durchführung/Untersuchung der Prüfungen am Prototyp gemäß Norm.
+
+    *   50 je begonnene Viertelstunde
+
+
+*    *   227.3
+
+    *   Ausstellen des Baumusterprüfberichts und der
+        Baumusterzulassungsbescheinigung.
+
+    *   50 je begonnene Viertelstunde
+
+
+*    *   228
+
+    *   Nachprüfung und Genehmigung eines betriebseigenen Prüfdienstes für
+        Bedienungsausrüstungen von Tanks.
+
+    *   50 je begonnene Viertelstunde
 
 
 
@@ -787,7 +818,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         oder Verlängerung der Ausnahme (§ 5 Absatz 2 der Gefahrgutverordnung
         Straße, Eisenbahn und Binnenschifffahrt).
 
-    *   60 bis 2 000
+    *   30 je begonnene Viertelstunde
 
 
 *    *   311.2
@@ -823,6 +854,10 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
         –   Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von
             Kesselwagen für die Beförderung von Gasen der Klasse 2
+
+
+        –   Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und
+            abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RID
 
 
 
@@ -879,7 +914,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Prüfung der Antragsunterlagen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   611.2
@@ -928,9 +963,9 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Bauprüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-    *   250
+    *   290
 
-    *   315
+    *   365
 
 
 *    *   613.2
@@ -938,18 +973,18 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung der Ergebnisse der zerstörungsfreien Prüfung der Schweißnähte
         (Absatz 6.8.2.1.23 RID).
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   613.3
 
     *   Druckprüfung (Unterabschnitt 6.8.2.4 RID).
 
-    *   165
-
     *   195
+
+    *   230
 
 
 *    *   613.4
@@ -957,9 +992,9 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Dichtheitsprüfung des Tankkörpers und der Ausrüstungsteile und
         Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.8.2.4 RID).
 
-    *   95
+    *   115
 
-    *   95
+    *   115
 
 
 *    *   613.5
@@ -967,18 +1002,18 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 613.1
         bis 613.4.
 
-    *   95
+    *   115
 
-    *   110
+    *   125
 
 
 *    *   613.6
 
     *   Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.8.2.4 RID).
 
-    *   80 bis 120
+    *   95 bis 140
 
-    *   100 bis 150
+    *   115 bis 175
 
 
 *    *   614
@@ -993,18 +1028,18 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Innere und äußere Prüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-    *   215 bis 255
+    *   250 bis 300
 
-    *   245 bis 295
+    *   285 bis 330
 
 
 *    *   614.2
 
     *   Druckprüfung (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-    *   165
-
     *   195
+
+    *   230
 
 
 *    *   614.3
@@ -1020,36 +1055,34 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Klasse 2.
 
-    *   160
+    *   190
 
-    *   160
+    *   190
 
 
 *    *   614.3.2
 
     *   Klassen 3 bis 9.
 
-    *   95
+    *   115
 
-    *   95
+    *   115
 
 
 *    *   615
 
     *   Zwischenprüfung (L) (Unterabschnitt 6.8.2.4, 6.8.3.4 RID).
 
-    *   265
+    *   305
 
-    *   265
+    *   305
 
 
 *    *   616
 
     *   Weitere Prüfungen:
 
-    *   Gebühr
-        (EUR)
-
+    *
 
 *    *   616.1
 
@@ -1057,14 +1090,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14
         RID).
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   616.2
 
     *   Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 RID).
 
-    *   55
+    *   65
 
 
 *    *   616.3
@@ -1077,10 +1110,11 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
 *    *   616.4
 
-    *   Außerordentliche Prüfungen (Absatz 6.8.2.4.4 RID):
-        Für Prüfungen im Rahmen von außerordentlichen Prüfungen sind Gebühren
-        wie für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen
-        zu entrichten.
+    *   Inbetriebnahmeüberprüfungen und außerordentliche Prüfungen (Absatz
+        6\.8.1.5.5, 6.8.2.4.4 RID):
+        Für Prüfungen im Rahmen von Inbetriebnahmeüberprüfungen und
+        außerordentlichen Prüfungen sind Gebühren wie für die entsprechenden
+        erstmaligen oder wiederkehrenden Prüfungen zu entrichten.
 
     *
 
@@ -1089,9 +1123,9 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Einzelne Funktionsprüfungen:
         Im Zusammenhang mit den Prüfungen nach Unterabschnitt 6.8.2.4 und
         6\.8.3.4 RID vor Inbetriebnahme durchzuführende oder wiederkehrende
-        Funktionsprüfungen von ausgebauten Armaturen.
+        Funktionsprüfungen von ausgebauten Bedienungsausrüstungen.
 
-    *   20 je Funktionsprüfung
+    *   25 je Funktionsprüfung
 
 
 *    *   616.6
@@ -1113,21 +1147,45 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem
         Zeitaufwand zu berechnen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   618
 
-    *   Getrennte Baumusterzulassung von Ventilen und anderen
-        Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 RID):
+    *   Getrennte Baumusterzulassung von Bedienungsausrüstungen
+        (Unterabschnitt 6.8.2.3 RID):
 
     *
 
 *    *   618.1
 
-    *   Ausstellen der Baumusterzulassungsbescheinigung.
+    *   Begutachtung der Antragsunterlagen einschließlich
+        Werkstoffbescheinigungen und schweißtechnischer Unterlagen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
+
+
+*    *   618.2
+
+    *   Durchführung/Untersuchung der Prüfungen am Prototyp gemäß Norm.
+
+    *   50 je begonnene Viertelstunde
+
+
+*    *   618.3
+
+    *   Ausstellen des Baumusterprüfberichts und der
+        Baumusterzulassungsbescheinigung.
+
+    *   50 je begonnene Viertelstunde
+
+
+*    *   619
+
+    *   Nachprüfung und Genehmigung eines betriebseigenen Prüfdienstes für
+        Bedienungsausrüstungen von Tanks.
+
+    *   50 je begonnene Viertelstunde
 
 
 
@@ -1152,7 +1210,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Deutschlands auf Bundeswasserstraßen (§ 5 Absatz 3 der
         Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
 
-    *   50 bis 2 000
+    *   70 bis 2 000
 
 
 *    *   702.1
@@ -1166,7 +1224,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Aufsicht über die ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.4 ADN).
 
-    *   55 je Stunde
+    *   70 je Stunde
 
 
 *    *   703
@@ -1219,15 +1277,15 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Anerkennung von Dokumenten nach Unterabschnitt 8.2.1.9 und 8.2.1.10
         ADN.
 
-    *   55 bis 110
+    *   70 bis 140
 
 
 *    *   705
 
-    *   Eintragung eines Sichtvermerkes nach Absatz 1.6.7.2.2.2 und Abschnitt
-        8\.1.2 ADN.
+    *   Prüfen und Eintragung eines Sichtvermerkes nach Absatz 1.6.7.2.2.2 und
+        Abschnitt 8.1.2 ADN.
 
-    *   30
+    *   35 bis 70
 
 
 *    *   706
@@ -1245,7 +1303,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Zulassungszeugnisses im Ausnahmefall (Abschnitt 1.16.11 ADN) oder zur
         Vornahme von Änderungen im Zulassungszeugnis (Abschnitt 1.16.6 ADN).
 
-    *   30 bis 150
+    *   35 bis 150
 
 
 *    *   707a
@@ -1261,7 +1319,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Einziehung oder Prüfung zur Änderung des normalen Zulassungszeugnisses
         (Unterabschnitt 1.16.13.1 bis 1.16.13.3 ADN).
 
-    *   30 bis 100
+    *   35 bis 140
 
 
 *    *   709
@@ -1269,7 +1327,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Untersagung der Verwendung eines Schiffes (Unterabschnitt 1.16.13.2
         ADN).
 
-    *   30 bis 100
+    *   35 bis 140
 
 
 *    *   710
@@ -1277,7 +1335,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung und Ausstellung eines vorläufigen Zulassungszeugnisses
         (Unterabschnitt 1.16.1.3 ADN).
 
-    *   30 bis 100
+    *   35 bis 140
 
 
 *    *   711
@@ -1296,15 +1354,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         ortsbeweglichen Tanks oder Tankcontainern auf dem Schiff
         (Unterabschnitt 7.1.4.16 ADN).
 
-    *   55
+    *   70
 
 
 *    *   713
 
     *   Genehmigung des Umladens der Ladung in ein anderes Schiff außerhalb
-        einer
-        dafür zugelassenen Umschlagstelle (Unterabschnitt 7.1.4.9 und 7.2.4.9
-        ADN).
+        einer dafür zugelassenen Umschlagstelle (Unterabschnitt 7.1.4.9 und
+        7\.2.4.9 ADN).
 
     *   80 bis 200
 
@@ -1340,7 +1397,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung und Eintragung der Zulassung einer Gleichwertigkeit in das
         Zulassungszeugnis (Unterabschnitt 1.5.3.3 ADN).
 
-    *   30
+    *   35
 
 
 *    *   718
@@ -1363,17 +1420,16 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         erforderlichen Evakuierungsmittel nicht vorhanden sind (Absatz
         7\.1.4.7.1 ADN).
 
-    *   110
+    *   140
 
 
 *    *   720.1
 
     *   Zustimmung zum Laden oder Löschen von Tankschiffen, wenn nicht alle
-        Fragen
-        der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.4.10.1
-        ADN).
+        Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz
+        7\.2.4.10.1 ADN).
 
-    *   110
+    *   140
 
 
 *    *   720.2
@@ -1402,14 +1458,14 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung von Schulungsteilnehmern zum Erwerb der Bescheinigung über
         besondere Kenntnisse des ADN (Gas/Chemie) (Absatz 8.2.2.7.2.1 ADN).
 
-    *   60
+    *   120 bis 150
 
 
 *    *   721.3
 
     *   Ausstellung der Bescheinigung über besondere Kenntnisse des ADN.
 
-    *   20
+    *   65
 
 
 *    *   722
@@ -1432,7 +1488,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz
         7\.1.5.0.5 ADN).
 
-    *   30 bis 55
+    *   35 bis 70
 
 
 *    *   725
@@ -1442,7 +1498,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Schubverbänden oder Beschränkungen der Abmessungen der Verbände oder
         der gekuppelten Schiffe (Unterabschnitt 7.1.5.1 ADN).
 
-    *   30 bis 110
+    *   35 bis 140
 
 
 *    *   726
@@ -1451,7 +1507,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Aufenthalts eines Sachkundigen an Bord in Hafenbecken oder
         zugelassenen Stellen (Absatz 7.1.5.4.2 und 7.2.5.4.2 ADN).
 
-    *   30 bis 110
+    *   35 bis 140
 
 
 *    *   727 und 728
@@ -1465,7 +1521,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Prüfung und Erteilung der Zulassung von Abweichungen nach Absatz
         7\.2.4.2.4 ADN (Schiffbetriebsabfälle, Schiffbetriebsstoffe).
 
-    *   30 bis 55
+    *   35 bis 70
 
 
 *    *   730
@@ -1474,7 +1530,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Ladens oder Löschens während des Löschens von Ladetanks
         (Unterabschnitt 7.2.4.24 ADN).
 
-    *   55 bis 110
+    *   70 bis 140
 
 
 *    *   731
@@ -1483,7 +1539,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Seeschiffen, die Binnenwasserstraßen nur zeitweilig befahren (Absatz
         7\.2.5.0.3 ADN).
 
-    *   30 bis 110
+    *   35 bis 140
 
 
 *    *   732
@@ -1491,7 +1547,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
     *   Auferlegung von Beschränkungen zur Einbeziehung von Tankschiffen in
         großen Schubverbänden (Unterabschnitt 7.2.5.1 ADN).
 
-    *   30 bis 110
+    *   35 bis 140
 
 
 *    *   733 und 734
@@ -1506,7 +1562,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Untersuchungsstelle oder Klassifikationsgesellschaft (Unterabschnitt
         1\.16.3.1 ADN).
 
-    *   50 je Stunde
+    *   70 je Stunde
 
 
 *    *   736
@@ -1515,7 +1571,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz
         7\.2.3.7.2.2 ADN).
 
-    *   100
+    *   140
 
 
 *    *   737
@@ -1524,7 +1580,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         und UN 2983 (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Bemerkung 12
         Buchstabe p ADN).
 
-    *   100
+    *   140
 
 
 *    *   738
@@ -1536,7 +1592,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         oder c, des Unterabschnitts 9.1.0.51, der Absätze 9.1.0.52.1 und
         9\.1.0.52.2 nicht erfüllt (Absatz 7.1.4.7.3 ADN).
 
-    *   100
+    *   140
 
 
 *    *   739
@@ -1548,7 +1604,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Absätze 9.3.x.52.1 und 9.3.x.52.3 nicht erfüllt (Absatz 7.2.4.7.1
         ADN).
 
-    *   100
+    *   140
 
 
 *    *   740
@@ -1558,7 +1614,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
         Explosionsschutzzone, wenn das Schiff die Anforderungen aus Absatz
         7\.1.3.51.5 und 7.1.3.51.6 nicht erfüllt (Absatz 7.1.3.51.8 ADN).
 
-    *   100
+    *   140
 
 
 
@@ -1915,7 +1971,7 @@ bis 4
     *   Prüfung und Erteilung einer Bescheinigung für IMO-Tanks (Absatz
         6\.8.3.1.3.2, 6.8.3.2.3.2, 6.8.3.3.3.2 und 6.8.3.4.3.2 IMDG-Code).
 
-    *   25 je begonnene Viertelstunde
+    *   30 je begonnene Viertelstunde
 
 
 *    *   1060
@@ -1929,7 +1985,7 @@ bis 4
 
     *   Prüfung der Antragsunterlagen.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1060.2
@@ -1940,10 +1996,10 @@ bis 4
 
     *
 
-*    *   1061
+*    *   Gebühren-
+        nummer
 
-    *   Prüfung vor Inbetriebnahme, Gebührenhöhe abhängig vom Fassungsraum des
-        Tanks (Kapitel 6.7 IMDG-Code):
+    *   Gebührentatbestand
 
     *   Gebühr (EUR)
         bis
@@ -1958,16 +2014,25 @@ bis 4
         20 000 Liter:
 
 
+*    *   1061
+
+    *   Prüfung vor Inbetriebnahme, Gebührenhöhe abhängig vom Fassungsraum des
+        Tanks (Kapitel 6.7 IMDG-Code):
+
+    *
+    *
+    *
+
 *    *   1061.1
 
     *   Bauprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12
         IMDG-Code).
 
-    *   195
+    *   230
 
-    *   225
+    *   260
 
-    *   315
+    *   365
 
 
 *    *   1061.2
@@ -1975,11 +2040,11 @@ bis 4
     *   Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12
         IMDG-Code).
 
-    *   100
-
     *   115
 
-    *   130
+    *   135
+
+    *   155
 
 
 *    *   1061.3
@@ -1987,11 +2052,11 @@ bis 4
     *   Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt
         6\.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
 
 *    *   1061.4
@@ -2000,11 +2065,11 @@ bis 4
         bis 1061.3 (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12
         IMDG-Code).
 
-    *   100
+    *   115
 
-    *   100
+    *   115
 
-    *   100
+    *   115
 
 
 *    *   1061.5
@@ -2012,11 +2077,11 @@ bis 4
     *   Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19,
         6\.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-    *   60 bis 90
+    *   70 bis 105
 
-    *   80 bis 120
+    *   95 bis 140
 
-    *   100 bis 150
+    *   115 bis 175
 
 
 *    *   1062
@@ -2045,11 +2110,11 @@ bis 4
     *   Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12
         IMDG-Code).
 
-    *   100
-
     *   115
 
-    *   130
+    *   135
+
+    *   155
 
 
 *    *   1062.3
@@ -2057,11 +2122,11 @@ bis 4
     *   Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt
         6\.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
-    *   65
+    *   75
 
 
 *    *   1063
@@ -2069,11 +2134,11 @@ bis 4
     *   Zwischenprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und
         6\.7.5.12 IMDG-Code).
 
-    *   210
-
-    *   230
+    *   245
 
     *   265
+
+    *   305
 
 
 *    *   1064
@@ -2165,7 +2230,7 @@ bis 4
     *   Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5
         ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1202
@@ -2173,7 +2238,7 @@ bis 4
     *   Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit
         Ausnahme des Absatzes 9 ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1203
@@ -2181,14 +2246,14 @@ bis 4
     *   Festlegung der Prüffristen nach Unterabschnitt 4.1.4.1
         Verpackungsanweisung P 200 Absatz 9 ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1204
 
     *   Prüfung und Zulassung der Druckgefäße nach Absatz 6.2.1.4.1 ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1205
@@ -2196,7 +2261,7 @@ bis 4
     *   Anerkennung des Qualitätssicherungsprogramms nach Absatz 6.2.1.4.2
         ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1206
@@ -2204,14 +2269,14 @@ bis 4
     *   Wiederkehrende Prüfungen nach den Absätzen 6.2.1.6.1 und 6.2.1.6.2
         ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 *    *   1207
 
     *   Bewertung der Eignung des Herstellers nach Absatz 6.2.1.7.2 ADR/RID.
 
-    *   40 je begonnene Viertelstunde
+    *   50 je begonnene Viertelstunde
 
 
 
@@ -2281,24 +2346,12 @@ Eisenbahn und Binnenschifffahrt**
     *   50 bis 25 000
 
 
-*    *   004.1
+*    *   004
 
     *   Prüfung und Erteilung der Zulassung der Bauart von Versandstücken für
-        radioaktive Stoffe mit einer Gesamtbruttomasse von weniger als 1 000
-        Kilogramm (Absatz 5.1.5.2.1 und 5.1.5.3.5, Unterabschnitt 6.4.22.2 bis
-        6\.4.22.4 ADR/RID) und die Bestätigung nach Unterabschnitt 6.4.22.8
-        Buchstabe a ADR/RID.
-
-    *   50 bis 25 000
-
-
-*    *   004.2
-
-    *   Prüfung und Erteilung der Zulassung der Bauart von Versandstücken für
-        radioaktive Stoffe mit einer Gesamtbruttomasse von mehr als 1 000
-        Kilogramm (Absatz 5.1.5.2.1 und 5.1.5.3.5, Unterabschnitt 6.4.22.2 bis
-        6\.4.22.4 ADR/RID) und die Bestätigung nach Unterabschnitt 6.4.22.8
-        Buchstabe a ADR/RID.
+        radioaktive Stoffe (Absatz 5.1.5.2.1 und 5.1.5.3.5, Unterabschnitt
+        6\.4.22.2 bis 6.4.22.4 ADR/RID) und die Bestätigung nach Unterabschnitt
+        6\.4.22.8 Buchstabe a ADR/RID.
 
     *   50 bis 2 000 000
 

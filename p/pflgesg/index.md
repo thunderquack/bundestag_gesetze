@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2354
 
+Zuletzt geändert durch
+:   Art. 3 V v. 13.10.2023 I Nr. 277
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -693,10 +696,9 @@ indem er vorsätzlich oder fahrlässig
     2016/2031 des Europäischen Parlaments und des Rates in Bezug auf
     Maßnahmen zum Schutz vor Pflanzenschädlingen und zur Aufhebung der
     Verordnung (EG) Nr. 690/2008 der Kommission sowie zur Änderung der
-    Durchführungsverordnung (EU)
-    2018/2019                    der Kommission (ABl. L 319 vom
+    Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom
     10\.12.2019, S. 1), die zuletzt durch die Durchführungsverordnung (EU)
-    2020/1825 (ABl. L 406 vom 3.12.2020, S. 58) geändert worden ist, in
+    2023/1134 (ABl. L 149 vom 9.6.2023, S. 62) geändert worden ist, in
     Verbindung mit Anhang II der Durchführungsverordnung (EU) 2019/2072
     einen Unionsquarantäneschädling einschleppt, verbringt, hält, vermehrt
     oder freisetzt,
@@ -765,10 +767,10 @@ indem er vorsätzlich oder fahrlässig
     und einer Liste von Pflanzen, für die gemäß Artikel 73 der genannten
     Verordnung für das Einführen in die Union kein
     Pflanzengesundheitszeugnis benötigt wird (ABl. L 323 vom 19.12.2018,
-    S. 10), die zuletzt durch die Verordnung (EU) 2020/1361 (ABl. L 317
-    vom 1.10.2020, S. 1) geändert worden ist, in Verbindung mit Anhang I
-    der Durchführungsverordnung (EU) 2018/2019 eine Pflanze, ein
-    Pflanzenerzeugnis oder einen dort genannten Gegenstand einführt,
+    S. 10), die zuletzt durch die Durchführungsverordnung (EU) 2023/1174
+    (ABl. L 155 vom 16.6.2023, S. 33) geändert worden ist, in Verbindung
+    mit Anhang I der Durchführungsverordnung (EU) 2018/2019 eine Pflanze,
+    ein Pflanzenerzeugnis oder einen dort genannten Gegenstand einführt,
 
 
 12. entgegen Artikel 43 Absatz 1 Satz 1 Verpackungsmaterial einführt,
@@ -939,14 +941,4 @@ Verweisungen auf Vorschriften in Rechtsakten der Europäischen
 Gemeinschaft oder der Europäischen Union in diesem Gesetz oder in auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit
 es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
-
-
-### § 18 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 114-1, veröffentlichten
-bereinigten Fassung, das zuletzt durch Artikel 3 des Gesetzes vom 11.
-Juni 2019 (BGBl. I S. 754) geändert worden ist, im Bundesanzeiger
-verkündet werden.
 

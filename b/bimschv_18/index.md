@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1588 (1790)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.6.2017 I 1468
-
-Änderung durch
-:   Art. 1 V v. 8.10.2021 I 4644 (Nr. 72) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 8.10.2021 I 4644
 
 
 ## Eingangsformel

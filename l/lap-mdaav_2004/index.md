@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1939
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.8.2021 I 4058
+:   Art. 3 V v. 22.12.2022 I 2893
 
 
 ## Eingangsformel
@@ -95,7 +95,7 @@ und Amtsbezeichnungen:
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -237,10 +237,6 @@ Ausschuss durchgeführt; dieser kann externe Beraterinnen oder Berater
 sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann
 ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
-(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
-werden, wenn dafür geeignete Einrichtungen zur Verfügung stehen.
-
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und
 Bewerber zugelassen, die nach den eingereichten Unterlagen die
 Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein
@@ -291,7 +287,7 @@ unabhängig und an Weisungen nicht gebunden. Mitglieder sind
 
 
 
-(6a) Bis zum 31. Dezember 2022 kann als Mitglied des
+(6a) Bis zum 31. Dezember 2024 kann als Mitglied des
 Auswahlausschusses nach Absatz 6 Satz 4 Nummer 4 und 5 auch jeweils
 eine entsprechende Arbeitnehmerin oder ein entsprechender Arbeitnehmer
 bestellt werden.
@@ -326,7 +322,7 @@ Mitglieder anwesend sind. Er entscheidet mit Stimmenmehrheit; bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 der Auswahlausschuss – abweichend von Absatz 7 Satz 6 – schon dann
 beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres
 Mitglied anwesend sind.
@@ -482,7 +478,7 @@ Abschnitten durchgeführt:
 
 
 
-(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 Ausbildungsabschnitte
 
 1.  in einer anderen Abfolge durchgeführt werden als nach Absatz 1 und
@@ -496,7 +492,7 @@ Ausbildungsabschnitte
 
 ### § 10a Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können für einzelne oder alle
+Bis zum 31. Dezember 2024 können für einzelne oder alle
 Lehrveranstaltungen der Ausbildungsabschnitte digitale Lehrformate
 genutzt werden.
 
@@ -612,7 +608,7 @@ Hauptsprache und im Informationstechnik-Grundlagenkurs sowie im
 Schlusslehrgang je eine Aufsichtsarbeit in der Hauptsprache und in der
 Nebensprache anzufertigen.
 
-(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  einzelne oder alle Aufsichtsarbeiten im Einführungs- und im
     Schlusslehrgang mit Unterstützung durch Informationstechnik
@@ -669,7 +665,7 @@ Einzelkenntnissen gerichtet.
 19) und aus einer Fachprüfung (§ 20). Beide Prüfungen bestehen aus je
 einem schriftlichen und einem mündlichen Teil.
 
-(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 bei der Sprachprüfung und der Fachprüfung
 
 1.  der schriftliche Teil jeweils mit Unterstützung durch
@@ -744,7 +740,7 @@ ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in
 Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf
 Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
 
-(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 die Prüfungskommission nur besetzt ist mit
 
 1.  einer Beamtin oder einem Beamten des gehobenen Dienstes als
@@ -807,7 +803,7 @@ obligatorisch ist:
 
 
 
-(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 – abweichend von Absatz 1 Satz 1 –
 
 1.  der Umfang der Aufsichtsarbeiten reduziert und die Bearbeitungszeit
@@ -869,7 +865,7 @@ Fachgebiete als Prüfungsfächer aus. Es sollen nicht mehr als fünf
 Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für jeden
 Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
 
-(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  der mündliche Teil der Fachprüfung als Einzelprüfung durchgeführt
     wird,

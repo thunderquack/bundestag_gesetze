@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3486
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 12 G v. 20.7.2017 I 2808; 2018 I 472
-
-Änderung durch
-:   Art. 330 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 330 V v. 19.6.2020 I 1328
 
 
 ## § 1 Erfordernis der Planfeststellung

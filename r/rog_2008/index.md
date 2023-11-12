@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2986
 
 Zuletzt geändert durch
-:   Art. 5 G v. 3.12.2020 I 2694
+:   Art. 1 G v 22.3.2023 I Nr. 88
 
 [^F771714_1_BJNR298610008]:     Das Gesetz dient der Umsetzung folgender Rechtsakte des
     Gemeinschaftsrechts:                 Richtlinie 79/409/EWG des Rates
@@ -110,10 +110,11 @@ dies erforderlich ist.
     mit ausreichender Infrastruktur und auf Zentrale Orte auszurichten.
     Der Freiraum ist durch übergreifende Freiraum-, Siedlungs- und weitere
     Fachplanungen zu schützen; es ist ein großräumig übergreifendes,
-    ökologisch wirksames Freiraumverbundsystem zu schaffen. Die weitere
-    Zerschneidung der freien Landschaft und von Waldflächen ist dabei so
-    weit wie möglich zu vermeiden; die Flächeninanspruchnahme im Freiraum
-    ist zu begrenzen.
+    ökologisch wirksames Freiraumverbundsystem zu schaffen. Die
+    Brachflächenentwicklung soll gegenüber neuer Flächeninanspruchnahme
+    nach Möglichkeit vorgezogen werden. Die weitere Zerschneidung der
+    freien Landschaft sowie von Wald- und Moorflächen ist dabei so weit
+    wie möglich zu vermeiden.
 
 
 3.  Die Versorgung mit Dienstleistungen und Infrastrukturen der
@@ -182,31 +183,36 @@ dies erforderlich ist.
     sichern oder, soweit erforderlich, möglich und angemessen,
     wiederherzustellen. Bei der Gestaltung räumlicher Nutzungen sind
     Naturgüter sparsam und schonend in Anspruch zu nehmen;
-    Grundwasservorkommen und die biologische Vielfalt sind zu schützen.
-    Die erstmalige Inanspruchnahme von Freiflächen für Siedlungs- und
-    Verkehrszwecke ist zu verringern, insbesondere durch quantifizierte
-    Vorgaben zur Verringerung der Flächeninanspruchnahme sowie durch die
-    vorrangige Ausschöpfung der Potenziale für die Wiedernutzbarmachung
-    von Flächen, für die Nachverdichtung und für andere Maßnahmen zur
-    Innenentwicklung der Städte und Gemeinden sowie zur Entwicklung
-    vorhandener Verkehrsflächen. Beeinträchtigungen des Naturhaushalts
-    sind auszugleichen, den Erfordernissen des Biotopverbundes ist
-    Rechnung zu tragen. Für den vorbeugenden Hochwasserschutz an der Küste
-    und im Binnenland ist zu sorgen, im Binnenland vor allem durch
-    Sicherung oder Rückgewinnung von Auen, Rückhalteflächen und
-    Entlastungsflächen. Der Schutz der Allgemeinheit vor Lärm und die
-    Reinhaltung der Luft sind sicherzustellen. Den räumlichen
-    Erfordernissen des Klimaschutzes ist Rechnung zu tragen, sowohl durch
-    Maßnahmen, die dem Klimawandel entgegenwirken, als auch durch solche,
-    die der Anpassung an den Klimawandel dienen. Dabei sind die räumlichen
-    Voraussetzungen für den Ausbau der erneuerbaren Energien, für eine
-    sparsame Energienutzung sowie für den Erhalt und die Entwicklung
-    natürlicher Senken für klimaschädliche Stoffe und für die Einlagerung
-    dieser Stoffe zu schaffen. Die nachhaltige Entwicklung im
-    Meeresbereich ist unter Anwendung eines Ökosystemansatzes gemäß der
-    Richtlinie 2014/89/EU des Europäischen Parlaments und des Rates vom
-    23\. Juli 2014 zur Schaffung eines Rahmens für die maritime Raumplanung
-    (ABl. L 257 vom 28.8.2014, S. 135) zu unterstützen.
+    Grundwasservorkommen und die biologische Vielfalt sind zu schützen und
+    weiterzuentwickeln. Der regionale Landschaftswasserhaushalt ist zu
+    stabilisieren, und die ökologische Gewässerentwicklung ist zu fördern.
+    Dieser ist zu stabilisieren, und die ökologische Gewässerentwicklung
+    ist zu fördern. Der in Satz 1 geregelte Wasserhaushalt umfasst auch
+    den Landschaftswasserhaushalt. Die erstmalige Inanspruchnahme von
+    Freiflächen für Siedlungs- und Verkehrszwecke ist zu verringern,
+    insbesondere durch quantifizierte Vorgaben zur Verringerung der
+    Flächeninanspruchnahme sowie durch die vorrangige Ausschöpfung der
+    Potenziale für die Wiedernutzbarmachung von Flächen, für die
+    Nachverdichtung und für andere Maßnahmen zur Innenentwicklung der
+    Städte und Gemeinden sowie zur Entwicklung vorhandener
+    Verkehrsflächen. Beeinträchtigungen des Naturhaushalts sind
+    auszugleichen, den Erfordernissen des Biotopverbundes ist Rechnung zu
+    tragen. Für den vorbeugenden Hochwasserschutz an der Küste und im
+    Binnenland ist zu sorgen, im Binnenland vor allem durch Sicherung oder
+    Rückgewinnung von Auen, Rückhalteflächen und Entlastungsflächen. Der
+    Schutz der Allgemeinheit vor Lärm und die Reinhaltung der Luft sind
+    sicherzustellen. Den räumlichen Erfordernissen des Klimaschutzes ist
+    Rechnung zu tragen, sowohl durch Maßnahmen, die dem Klimawandel
+    entgegenwirken, als auch durch solche, die der Anpassung an den
+    Klimawandel dienen. Dabei sind die räumlichen Voraussetzungen für den
+    Ausbau der erneuerbaren Energien, für eine sparsame Energienutzung
+    sowie für den Erhalt und die Entwicklung natürlicher Senken für
+    klimaschädliche Stoffe und für die Einlagerung dieser Stoffe zu
+    schaffen. Die nachhaltige Entwicklung im Meeresbereich ist unter
+    Anwendung eines Ökosystemansatzes gemäß der Richtlinie 2014/89/EU des
+    Europäischen Parlaments und des Rates vom 23. Juli 2014 zur Schaffung
+    eines Rahmens für die maritime Raumplanung (ABl. L 257 vom 28.8.2014,
+    S. 135) zu unterstützen.
 
 
 7.  Den räumlichen Erfordernissen der Verteidigung und des Zivilschutzes
@@ -254,8 +260,16 @@ dies erforderlich ist.
 4.  sonstige Erfordernisse der Raumordnung:
 
     in Aufstellung befindliche Ziele der Raumordnung, Ergebnisse
-    förmlicher landesplanerischer Verfahren wie des Raumordnungsverfahrens
-    und landesplanerische Stellungnahmen;
+    förmlicher landesplanerischer Verfahren wie der
+    Raumverträglichkeitsprüfung und landesplanerische Stellungnahmen;
+
+
+4a. in Aufstellung befindliche Ziele der Raumordnung:
+
+    Ziele der Raumordnung, die nach Durchführung des
+    Beteiligungsverfahrens nach § 9 Absatz 2 in einem die Ergebnisse der
+    Beteiligung berücksichtigenden Planentwurf enthalten sind und als
+    solche den Verfahrensbeteiligten zur Kenntnis gegeben wurden;
 
 
 5.  öffentliche Stellen:
@@ -377,12 +391,19 @@ Raumordnung in Raumordnungsplänen des Bundes nach § 17 Absatz 2.
 (1) Von Zielen der Raumordnung können im Raumordnungsplan Ausnahmen
 festgelegt werden.
 
-(2) Von Zielen der Raumordnung kann abgewichen werden, wenn die
+(2) Die zuständige Raumordnungsbehörde soll einem Antrag auf
+Abweichung von einem Ziel der Raumordnung stattgeben, wenn die
 Abweichung unter raumordnerischen Gesichtspunkten vertretbar ist und
 die Grundzüge der Planung nicht berührt werden. Antragsberechtigt sind
 die öffentlichen Stellen und die Personen des Privatrechts, die das
 Ziel, von dem eine Abweichung zugelassen werden soll, nach § 4 zu
-beachten haben.
+beachten haben. Antragsberechtigt sind auch Personen des Privatrechts,
+deren beantragtes Vorhaben der Planfeststellung oder der Genehmigung
+mit der Rechtswirkung der Planfeststellung bedarf oder deren
+beantragtes Vorhaben nach § 4 Absatz 2 zu beurteilen ist. Die
+Bundesregierung berichtet dem Deutschen Bundestag bis zum 28.
+September 2024, welche Auswirkungen die Zielabweichungsverfahren nach
+den Sätzen 1 bis 3 auf die kommunale Planungshoheit haben.
 
 
 ### § 7 Allgemeine Vorschriften über Raumordnungspläne
@@ -419,26 +440,25 @@ Insbesondere können dies Gebiete sein,
 2.  die bestimmten raumbedeutsamen Funktionen oder Nutzungen vorbehalten
     bleiben sollen, denen bei der Abwägung mit konkurrierenden
     raumbedeutsamen Funktionen oder Nutzungen besonderes Gewicht
-    beizumessen ist (Vorbehaltsgebiete),
-
-
-3.  in denen bestimmten raumbedeutsamen Maßnahmen oder Nutzungen, die
-    städtebaulich nach § 35 des Baugesetzbuchs zu beurteilen sind, andere
-    raumbedeutsame Belange nicht entgegenstehen, wobei diese Maßnahmen
-    oder Nutzungen an anderer Stelle im Planungsraum ausgeschlossen sind
-    (Eignungsgebiete),
-
-
-4.  die im Meeresbereich liegen, und in denen bestimmten raumbedeutsamen
-    Funktionen oder Nutzungen andere raumbedeutsame Belange nicht
-    entgegenstehen, wobei diese Funktionen oder Nutzungen an anderer
-    Stelle im Planungsraum ausgeschlossen sind (Eignungsgebiete für den
-    Meeresbereich).
+    beizumessen ist (Vorbehaltsgebiete).
 
 
 
-Bei Vorranggebieten kann festgelegt werden, dass sie zugleich die
-Wirkung von Eignungsgebieten nach Satz 2 Nummer 3 oder 4 haben.
+Wird durch die Festlegung von Vorranggebieten der jeweiligen Nutzung
+oder Funktion substanziell Raum verschafft, kann festgelegt werden,
+dass diese Nutzung oder Funktion an anderer Stelle im Planungsraum
+ausgeschlossen ist (Vorranggebiete mit Ausschlusswirkung). Die
+Ermittlung der Vorranggebiete mit Ausschlusswirkung erfolgt auf der
+Grundlage eines gesamträumlichen Planungskonzepts der
+planaufstellenden Stelle. Werden in diesem Planungskonzept Teile des
+Planungsraums für eine Nutzung oder Funktion ausgeschlossen, ist eine
+systematische Unterscheidung, ob der Ausschluss aus tatsächlichen,
+rechtlichen oder planerischen Gründen erfolgt, nicht erforderlich.
+Abweichend von den Sätzen 3 bis 5 ist auf die Ausweisung von
+Windenergiegebieten im Sinne des § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353)
+§ 27 Absatz 4 dieses Gesetzes anzuwenden. Die Sätze 3 bis 5 finden
+keine Anwendung auf die Nutzung Photovoltaik.
 
 (4) Die Raumordnungspläne sollen auch diejenigen Festlegungen zu
 raumbedeutsamen Planungen und Maßnahmen von öffentlichen Stellen und
@@ -462,8 +482,7 @@ der Europäischen Kommission anzuwenden.
 Raumordnungsplänen gelten auch für ihre Änderung, Ergänzung und
 Aufhebung.
 
-(8) Raumordnungspläne nach § 13 Absatz 6 und § 17 sind mindestens alle
-zehn Jahre zu überprüfen.
+(8) Raumordnungspläne sind mindestens alle zehn Jahre zu überprüfen.
 
 
 ### § 8 Umweltprüfung bei der Aufstellung von Raumordnungsplänen
@@ -533,6 +552,16 @@ Erkenntnissen die Durchführung des Raumordnungsplans erhebliche,
 insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt
 hat.
 
+(5) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung
+des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur
+Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der
+Umweltprüfung bei der Aufstellung von Raumordnungsplänen. Sofern dabei
+auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben
+auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und
+Klimaschutz zu erlassen.
+
 
 ### § 9 Beteiligung bei der Aufstellung von Raumordnungsplänen
 
@@ -545,48 +574,90 @@ geben, die für die Planaufstellung bedeutsam sein können. Gleiches
 gilt für weitere ihnen vorliegende Informationen, die für die
 Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind.
 
-(2) Der Öffentlichkeit sowie den in ihren Belangen berührten
-öffentlichen Stellen ist frühzeitig Gelegenheit zur Stellungnahme zum
-Entwurf des Raumordnungsplans, zu seiner Begründung und im Falle einer
-durchgeführten Umweltprüfung zum Umweltbericht zu geben. Dazu sind die
-in Satz 1 genannten sowie weitere nach Einschätzung der für den
-Raumordnungsplan zuständigen Stelle zweckdienliche Unterlagen für die
-Dauer von mindestens einem Monat öffentlich auszulegen. Ort und Dauer
-der Auslegung sind mindestens eine Woche vor Beginn der Auslegung
-öffentlich bekannt zu machen; dabei ist unter Angabe einer
-angemessenen Frist, die zumindest der Auslegungsfrist entspricht,
-darauf hinzuweisen, dass Stellungnahmen abgegeben werden können. Mit
-Ablauf der Frist nach Satz 3 sind alle Stellungnahmen ausgeschlossen,
-die nicht auf besonderen privatrechtlichen Titeln beruhen; hierauf ist
-in der Bekanntmachung nach Satz 3 hinzuweisen. Bei der Beteiligung
-nach den Sätzen 1 bis 3 sollen elektronische Informationstechnologien
-ergänzend genutzt werden. Die zuständige Stelle gewährleistet durch
-organisatorische und technische Maßnahmen, dass die verwendete
-elektronische Informationstechnologie vor fremden Zugriffen gesichert
-wird.
+(2) Die planaufstellende Stelle beteiligt die Öffentlichkeit und die
+in ihren Belangen berührten öffentlichen Stellen frühzeitig; sie gibt
+ihnen Gelegenheit zur Stellungnahme zum Entwurf des Raumordnungsplans,
+zu seiner Begründung und im Falle einer durchgeführten Umweltprüfung
+zum Umweltbericht. Dazu sind die in Satz 1 genannten sowie weitere
+nach Einschätzung der planaufstellenden Stelle zweckdienliche
+Unterlagen für die Dauer von mindestens einem Monat im Internet zu
+veröffentlichen. Internetseite oder Internetadresse und Dauer der
+Veröffentlichung sind mindestens eine Woche vor Beginn der
+Veröffentlichung öffentlich bekannt zu machen. In der Bekanntmachung
+ist unter Angabe einer angemessenen Frist, die zumindest der
+Veröffentlichungsfrist entspricht und drei Monate nicht übersteigen
+soll, darauf hinzuweisen, dass
+
+1.  Stellungnahmen abgegeben werden können,
+
+
+2.  die Stellungnahmen elektronisch übermittelt werden sollen,
+
+
+3.  mit Ablauf der Frist alle Stellungnahmen ausgeschlossen sind, die
+    nicht auf besonderen privatrechtlichen Titeln beruhen.
+
+
+
+Zusätzlich zur Veröffentlichung im Internet ist eine oder sind mehrere
+andere leicht zu erreichende, auch analoge Zugangsmöglichkeiten zur
+Verfügung zu stellen, soweit dies nach Feststellung der das
+Beteiligungsverfahren durchführenden Stelle angemessen und zumutbar
+ist. In der Bekanntmachung ist auf diese Zugangsmöglichkeiten
+hinzuweisen.
 
 (3) Wird der Planentwurf nach Durchführung der Verfahrensschritte nach
 Absatz 2 dergestalt geändert, dass dies zu einer erstmaligen oder
 stärkeren Berührung von Belangen führt, so ist der geänderte Teil
-erneut auszulegen; in Bezug auf die Änderung ist erneut Gelegenheit
-zur Stellungnahme zu geben. Die Dauer der Auslegung und die Frist zur
-Stellungnahme können angemessen verkürzt werden. Die Beteiligung nach
-den Sätzen 1 und 2 kann auf die von der Änderung berührte
-Öffentlichkeit sowie auf die in ihren Belangen berührten öffentlichen
-Stellen beschränkt werden, wenn durch die Änderung des Planentwurfs
-die Grundzüge der Planung nicht berührt werden.
+erneut im Internet zu veröffentlichen; in Bezug auf die Änderung ist
+erneut Gelegenheit zur Stellungnahme zu geben. Die Dauer der
+Veröffentlichung und die Frist zur Stellungnahme können angemessen
+verkürzt werden. Die Beteiligung nach Satz 1 soll auf die von der
+Änderung erstmalig oder stärker in ihren Belangen berührte
+Öffentlichkeit sowie auf die von der Änderung erstmalig oder stärker
+in ihren Belangen berührten öffentlichen Stellen beschränkt werden,
+wenn durch die Änderung des Planentwurfs die Grundzüge der Planung
+nicht berührt werden. Absatz 2 Satz 3 bis 6 gilt entsprechend.
 
 (4) Wird die Durchführung eines Raumordnungsplans voraussichtlich
 erhebliche Auswirkungen auf das Gebiet eines Nachbarstaates haben, so
-ist die von diesem Staat als zuständig benannte oder, sofern der Staat
-keine Behörde benannt hat, die oberste für Raumordnung zuständige
-Behörde zu unterrichten; ihr ist ein Exemplar des Planentwurfs zu
-übermitteln. Der Behörde nach Satz 1 ist eine angemessene Frist zu
-setzen, innerhalb derer sie Gelegenheit zur Stellungnahme hat. Absatz
-2 Satz 5 und 6 sowie Absatz 3 gelten entsprechend. Soweit die
+ist die von diesem Staat als zuständig benannte Behörde zu
+unterrichten. Hat der Staat keine Behörde benannt, so ist die oberste
+für Raumordnung zuständige Behörde dieses Staates zu unterrichten. Der
+zu unterrichtenden Behörde ist ein Exemplar des Planentwurfs
+elektronisch zu übermitteln. Der Behörde nach Satz 1 ist eine
+angemessene Frist zu setzen, innerhalb derer sie Gelegenheit zur
+Stellungnahme hat. Absatz 3 Satz 1 bis 3 gilt entsprechend. Wenn die
 Durchführung des Plans erhebliche Umweltauswirkungen auf einen
 Nachbarstaat haben kann, ist dieser nach den §§ 60 und 61 des Gesetzes
-über die Umweltverträglichkeitsprüfung zu beteiligen.
+über die Umweltverträglichkeitsprüfung in der Fassung der
+Bekanntmachung vom 18. März 2021 (BGBl. I S. 540), das durch Artikel
+14 des Gesetzes vom 10. September 2021 (BGBl. I S. 4147) geändert
+worden ist, zu beteiligen.
+
+(5) Bei geringfügigen Änderungen eines Raumordnungsplans
+einschließlich der Ergänzung oder Aufhebung einzelner Festlegungen
+kann die Beteiligung auf die von der Änderung in ihren Belangen
+berührte Öffentlichkeit und die von der Änderung in ihren Belangen
+berührten öffentlichen Stellen beschränkt werden, wenn
+
+1.  die Grundzüge der Planung nicht berührt werden,
+
+
+2.  nach § 8 Absatz 2 Satz 1 festgestellt wurde, dass die Änderungen,
+    Ergänzungen oder Aufhebungen voraussichtlich keine erheblichen
+    Umweltauswirkungen haben werden, und
+
+
+3.  der Meeresbereich nicht berührt ist.
+
+
+
+Satz 1 gilt auch für die vollständige oder teilweise Aufhebung von
+Raumordnungsplänen, die funktionslos geworden sind, weil ihre
+Verwirklichung aufgrund tatsächlicher oder rechtlicher Entwicklungen
+auf unabsehbare Zeit offenkundig ausgeschlossen ist. In den Fällen der
+Sätze 1 und 2 finden die Absätze 1 und 4 keine Anwendung.
 
 
 ### § 10 Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen
@@ -596,17 +667,18 @@ verkündet wird, ist er oder seine Genehmigung oder der Beschluss über
 ihn öffentlich bekannt zu machen; mit der Bekanntmachung wird der
 Raumordnungsplan wirksam.
 
-(2) Der Raumordnungsplan ist mit der Begründung und, soweit über die
+(2) Der Raumordnungsplan ist mit der Begründung und, wenn über die
 Annahme des Raumordnungsplans nicht durch Gesetz entschieden wird,
 einer Rechtsbehelfsbelehrung sowie im Falle einer durchgeführten
 Umweltprüfung mit der zusammenfassenden Erklärung nach Absatz 3 und
-der Aufstellung der Überwachungsmaßnahmen nach § 8 Absatz 4 Satz 1 zu
-jedermanns Einsicht bereitzuhalten. Bei der Bekanntmachung nach Absatz
-1 oder der Verkündung ist darauf hinzuweisen, wo die Einsichtnahme
-erfolgen kann. Bei der Bekanntmachung oder Verkündung von
-Raumordnungsplänen sowie bei der Bereithaltung von Raumordnungsplänen
-und von Unterlagen sollen elektronische Informationstechnologien
-ergänzend genutzt werden. § 9 Absatz 2 Satz 6 gilt entsprechend.
+der Aufstellung der Überwachungsmaßnahmen nach § 8 Absatz 4 Satz 1 im
+Internet zu veröffentlichen. Zusätzlich ist Einsichtnahme an einem
+oder mehreren Orten zu gewähren. Wenn das Landesrecht keine
+Bestimmungen zum Ort der Einsichtnahme trifft, wird er von der
+planaufstellenden Stelle bestimmt. In der Bekanntmachung oder in der
+Verkündung des Raumordnungsplans ist auf die Veröffentlichung unter
+Angabe der Internetseite oder Internetadresse sowie auf die
+Einsichtnahmemöglichkeit hinzuweisen.
 
 (3) Dem Raumordnungsplan ist eine zusammenfassende Erklärung
 beizufügen über die Art und Weise, wie die Umweltbelange und die
@@ -647,27 +719,20 @@ beachtlich, wenn
 
 
 (2) Für die Rechtswirksamkeit eines Regionalplans ist auch
-unbeachtlich, wenn
-
-1.  § 13 Absatz 2 Satz 1 hinsichtlich des Entwickelns des Regionalplans
-    aus dem Raumordnungsplan für das Landesgebiet verletzt worden ist,
-    ohne dass hierbei die sich aus dem Raumordnungsplan für das
-    Landesgebiet ergebende geordnete räumliche Entwicklung beeinträchtigt
-    worden ist, oder
-
-
-2.  der Regionalplan aus einem Raumordnungsplan für das Landesgebiet
-    entwickelt worden ist, dessen Unwirksamkeit wegen Verletzung von
-    Verfahrens- oder Formvorschriften sich nach Bekanntmachung oder
-    Verkündung des Regionalplans herausstellt.
-
-
-
+unbeachtlich, wenn der Regionalplan aus einem Raumordnungsplan für das
+Landesgebiet entwickelt worden ist, dessen Unwirksamkeit wegen
+Verletzung von Verfahrens- oder Formvorschriften sich nach
+Bekanntmachung oder Verkündung des Regionalplans herausstellt.
 
 (3) Für die Abwägung nach § 7 Abs. 2 ist die Sach- und Rechtslage im
 Zeitpunkt der Beschlussfassung über den Raumordnungsplan maßgebend.
 Mängel im Abwägungsvorgang sind nur erheblich, wenn sie offensichtlich
-und auf das Abwägungsergebnis von Einfluss gewesen sind.
+und auf das Abwägungsergebnis von Einfluss gewesen sind. Werden in
+einem Raumordnungsplan einzelne Vorranggebiete mit Ausschlusswirkung
+oder Teile dieser Gebiete fehlerhaft festgelegt, bleibt der
+Raumordnungsplan im Übrigen wirksam, sofern die Grundzüge der Planung
+nicht berührt sind und der vorrangigen Nutzung oder Funktion
+substanziell Raum verschafft wird.
 
 (4) Bei Anwendung des § 8 gilt ergänzend zu den Absätzen 1 bis 3:
 
@@ -754,6 +819,10 @@ Nummer 1 übernehmen; hierfür gelten die Absätze 5 und 6, § 7 Absatz 3,
 4 und 8 sowie die §§ 9 und 10 entsprechend. Satz 1 Nummer 2 gilt nicht
 in den Ländern Berlin, Bremen, Hamburg und Saarland.
 
+(1a) Raumordnungspläne nach Absatz 1 Satz 1 sind den Zielen der
+Raumordnung anzupassen, die in den Bundesraumordnungsplänen nach § 17
+festgelegt sind. § 4 Absatz 1 bleibt unberührt.
+
 (2) Die Regionalpläne sind aus dem Raumordnungsplan für das
 Landesgebiet zu entwickeln. Die Flächennutzungspläne und die
 Ergebnisse der von Gemeinden beschlossenen sonstigen städtebaulichen
@@ -813,7 +882,11 @@ enthalten, insbesondere zu
     c)  Sanierung und Entwicklung von Raumfunktionen,
 
 
-    d)  Freiräume zur Gewährleistung des vorbeugenden Hochwasserschutzes;
+    d)  Freiräume zur Gewährleistung des vorbeugenden Hochwasserschutzes,
+
+
+    e)  Freiräume zur Gewährleistung eines natürlichen Klimaschutzes,
+        insbesondere für Moorerhalt und Moorschutz;
 
 
 
@@ -901,125 +974,178 @@ liegenden Vorbereitung oder Verwirklichung von Raumordnungsplänen
 entstehen.
 
 
-### § 15 Raumordnungsverfahren
+### § 15 Raumverträglichkeitsprüfung
 
-(1) Die für Raumordnung zuständige Landesbehörde prüft nach Maßgabe
-der folgenden Absätze in einem besonderen Verfahren die
-Raumverträglichkeit raumbedeutsamer Planungen und Maßnahmen im Sinne
-von § 1 der Raumordnungsverordnung (Raumordnungsverfahren). Hierbei
-sind die raumbedeutsamen Auswirkungen der Planung oder Maßnahme unter
-überörtlichen Gesichtspunkten zu prüfen; insbesondere werden die
-Übereinstimmung mit den Erfordernissen der Raumordnung und die
-Abstimmung mit anderen raumbedeutsamen Planungen und Maßnahmen
-geprüft. Gegenstand der Prüfung nach Satz 2 sollen auch ernsthaft in
-Betracht kommende Standort- oder Trassenalternativen sein.
+(1) Die nach Landesrecht zuständige Raumordnungsbehörde (zuständige
+Raumordnungsbehörde) prüft nach Maßgabe dieser Vorschrift in einem
+besonderen Verfahren die Raumverträglichkeit raumbedeutsamer Planungen
+und Maßnahmen im Sinne von § 1 der Raumordnungsverordnung. Gegenstand
+der Raumverträglichkeitsprüfung sind die
 
-(2) Der Träger der raumbedeutsamen Planung oder Maßnahme legt der für
-Raumordnung zuständigen Landesbehörde die Verfahrensunterlagen vor,
-die notwendig sind, um eine Bewertung der raumbedeutsamen Auswirkungen
-des Vorhabens zu ermöglichen. Die Verfahrensunterlagen sollen in einem
-verkehrsüblichen elektronischen Format eingereicht werden. Bei
-raumbedeutsamen Planungen und Maßnahmen der Verteidigung entscheidet
-das Bundesministerium der Verteidigung oder die von ihm bestimmte
-Stelle, bei raumbedeutsamen Planungen und Maßnahmen des Zivilschutzes
-die zuständige Stelle über Art und Umfang der Angaben für die Planung
-oder Maßnahme.
-
-(3) Die in ihren Belangen berührten öffentlichen Stellen und die
-Öffentlichkeit sind zu beteiligen. Die Verfahrensunterlagen sind für
-die Dauer von mindestens einem Monat im Internet zu veröffentlichen.
-Der Träger der raumbedeutsamen Planung oder Maßnahme hat Anspruch
-darauf, dass seine Betriebs- und Geschäftsgeheimnisse von der Behörde
-nicht unbefugt offenbart werden. Ort und Dauer der Veröffentlichung
-sind mindestens eine Woche vor Beginn der Veröffentlichung öffentlich
-bekannt zu machen; dabei ist unter Angabe einer angemessenen Frist,
-die zumindest der Veröffentlichungsfrist entspricht, darauf
-hinzuweisen, dass Stellungnahmen abgegeben werden können und bei der
-Abgabe elektronische Informationstechnologien genutzt werden sollen.
-In der Bekanntmachung nach Satz 4 ist darauf hinzuweisen, dass und wo
-die Veröffentlichung im Internet nach Satz 2 erfolgt. Als zusätzliches
-Informationsangebot nach Satz 2 sind zusätzlich zur Veröffentlichung
-im Internet andere leicht zu erreichende Zugangsmöglichkeiten, etwa
-durch Versendung oder öffentlich zugängliche Lesegeräte, zur Verfügung
-zu stellen, soweit dies nach Feststellung der nach Absatz 2 Satz 1
-zuständigen Behörde angemessen und zumutbar ist. Auf diese
-Zugangsmöglichkeiten ist in der Bekanntmachung nach Satz 4
-hinzuweisen. § 9 Absatz 2 Satz 6 gilt entsprechend. Bei
-raumbedeutsamen Planungen und Maßnahmen, die erhebliche Auswirkungen
-auf Nachbarstaaten haben können, erfolgt die Beteiligung der
-betroffenen Nachbarstaaten im Raumordnungsverfahren nach den
-Grundsätzen der Gegenseitigkeit und Gleichwertigkeit. Bei
-raumbedeutsamen Planungen und Maßnahmen nach Absatz 2 Satz 3 erfolgt
-die Entscheidung darüber, ob und in welchem Umfang die Öffentlichkeit
-einbezogen wird, im Einvernehmen mit den dort genannten Stellen.
-
-(4) Das Raumordnungsverfahren ist nach Vorliegen der vollständigen
-Unterlagen innerhalb einer Frist von sechs Monaten abzuschließen. Hält
-der Vorhabenträger nach Abschluss des Raumordnungsverfahrens an der
-Realisierung der raumbedeutsamen Planung oder Maßnahme nach Absatz 1
-Satz 1 fest, soll er zeitnah die Durchführung des hierfür
-erforderlichen Zulassungsverfahrens oder, sofern dies gesetzlich
-vorgesehen ist, des Verfahrens zur Bestimmung der Planung und
-Linienführung beantragen. Die nach Absatz 2 Satz 1 zuständige Behörde
-soll der Zulassungsbehörde die Verfahrensunterlagen, die Gegenstand
-des Raumordnungsverfahrens waren, unverzüglich nach der Antragstellung
-des Vorhabenträgers in einem verkehrsüblichen elektronischen Format
-übermitteln. Im Zulassungsverfahren soll die Prüfung auf Belange
-beschränkt werden, die nicht Gegenstand des Raumordnungsverfahrens
-waren. Wird das Vorhaben abschnittsweise zugelassen, können das
-Raumordnungsverfahren sowie das Zulassungsverfahren oder, sofern dies
-gesetzlich vorgesehen ist, das Verfahren zur Bestimmung der Planung
-und Linienführung insoweit aufeinander abgestimmt werden.
-
-(5) Der Träger einer raumbedeutsamen Planung oder Maßnahme kann die
-Durchführung eines Raumordnungsverfahrens bei der für Raumordnung
-zuständigen Landesbehörde beantragen. Stellt der Träger der
-raumbedeutsamen Planung oder Maßnahme keinen Antrag, zeigt er dies der
-für Raumordnung zuständigen Landesbehörde unter Beifügung der für die
-Raumverträglichkeitsprüfung erforderlichen Unterlagen vor Einleitung
-eines Zulassungsverfahrens oder, sofern dies gesetzlich vorgesehen
-ist, eines Verfahrens zur Bestimmung der Planung und Linienführung an.
-In diesem Fall soll die für Raumordnung zuständige Landesbehörde ein
-Raumordnungsverfahren einleiten, wenn sie befürchtet, dass die Planung
-oder Maßnahme im Hinblick auf die in Absatz 1 Satz 2 zweiter Halbsatz
-genannten Kriterien zu raumbedeutsamen Konflikten führen wird. Die für
-Raumordnung zuständige Landesbehörde teilt ihre Entscheidung dem
-Träger der raumbedeutsamen Planung oder Maßnahme innerhalb von vier
-Wochen nach dessen Anzeige gemäß Satz 2 mit. Bei raumbedeutsamen
-Planungen und Maßnahmen von öffentlichen Stellen des Bundes, von
-anderen öffentlichen Stellen, die im Auftrag des Bundes tätig sind,
-sowie von Personen des Privatrechts nach § 5 Absatz 1 trifft die für
-Raumordnung zuständige Landesbehörde die Entscheidung nach Satz 4 im
-Benehmen mit dieser Stelle oder Person.
-
-(6) Für die Länder Berlin, Bremen und Hamburg gilt Absatz 1 Satz 1
-nicht. Schaffen diese Länder allein oder gemeinsam mit anderen Ländern
-Rechtsgrundlagen für Raumordnungsverfahren, finden die Absätze 1 bis 5
-Anwendung.
-
-(7) Das Ergebnis des Raumordnungsverfahrens kann nur im Rahmen des
-Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung
-überprüft werden.
+1.  Prüfung der raumbedeutsamen Auswirkungen der Planung oder Maßnahme
+    unter überörtlichen Gesichtspunkten, insbesondere die Übereinstimmung
+    mit den Erfordernissen der Raumordnung und die Abstimmung mit anderen
+    raumbedeutsamen Planungen und Maßnahmen,
 
 
-### § 16 Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren
+2.  Prüfung der ernsthaft in Betracht kommenden Standort- oder
+    Trassenalternativen und
+
+
+3.  überschlägige Prüfung der Auswirkungen des Vorhabens auf die
+    Schutzgüter nach § 2 Absatz 1 des Gesetzes über die
+    Umweltverträglichkeitsprüfung unter Berücksichtigung der Kriterien
+    nach Anlage 3 des Gesetzes über die Umweltverträglichkeitsprüfung.
+
+
+
+Die Raumverträglichkeitsprüfung endet innerhalb einer Frist von sechs
+Monaten nach Vorliegen der vollständigen Verfahrensunterlagen. Die
+Raumordnungsbehörde übermittelt dem Vorhabenträger das Ergebnis ihrer
+Prüfung in Form einer gutachterlichen Stellungnahme. Erfolgt keine
+Übermittlung innerhalb der Frist nach Satz 3, ist das Verfahren der
+Raumverträglichkeitsprüfung gleichwohl abgeschlossen, und die
+Zulassungsbehörde kann das Zulassungsverfahren auf Antrag des
+Vorhabenträgers einleiten; in diesem Fall beteiligt sie die
+Raumordnungsbehörde im Rahmen der fachrechtlichen Behördenbeteiligung.
+Der Vorhabenträger kann zudem, sofern dies gesetzlich vorgesehen ist,
+das Verfahren zur Bestimmung der Planung und Linienführung beantragen.
+Übermittelt die Raumordnungsbehörde ihre gutachterliche Stellungnahme
+nicht fristgerecht, kann der Vorhabenträger beantragen, dass die
+Raumordnungsbehörde die Raumverträglichkeitsprüfung abweichend von den
+Sätzen 3 und 5 weiterführt. In den Fällen des Satzes 7 kann der
+Vorhabenträger im weiteren Verlauf jederzeit einen Antrag auf
+Zulassung des Vorhabens oder auf Durchführung des Verfahrens zur
+Bestimmung der Planung und Linienführung stellen; mit einem solchen
+Antrag endet zugleich die Raumverträglichkeitsprüfung.
+
+(2) Der Vorhabenträger legt der zuständigen Raumordnungsbehörde die
+Verfahrensunterlagen vor, die notwendig sind, um eine Bewertung der
+raumbedeutsamen Auswirkungen des Vorhabens zu ermöglichen; hierzu
+gehören auch geeignete Angaben entsprechend der Anlage 2 des Gesetzes
+über die Umweltverträglichkeitsprüfung zu den Merkmalen des Vorhabens
+und des Standorts sowie zu den möglichen erheblichen
+Umweltauswirkungen des Vorhabens. Die Verfahrensunterlagen sollen in
+einem verkehrsüblichen elektronischen Format eingereicht werden.
+Innerhalb eines Monats nach Eingang der Verfahrensunterlagen prüft die
+zuständige Raumordnungsbehörde deren Vollständigkeit und fordert den
+Vorhabenträger bei Bedarf unter genauer Bezeichnung der noch
+erforderlichen Unterlagen oder Daten zur Vervollständigung auf.
+Fordert die Raumordnungsbehörde den Vorhabenträger zur
+Vervollständigung der Unterlagen auf, hat sie, soweit möglich, die
+Raumverträglichkeitsprüfung vor der Vervollständigung zu beginnen.
+Fordert die Raumordnungsbehörde den Vorhabenträger nicht innerhalb der
+Frist nach Satz 3 zur Vervollständigung der Verfahrensunterlagen auf,
+beginnt die Frist des Absatzes 1 Satz 3 am Tag des Eingangs der
+Verfahrensunterlagen nach Satz 1. Bei raumbedeutsamen Planungen und
+Maßnahmen der Verteidigung entscheidet das Bundesministerium der
+Verteidigung oder die von ihm bestimmte Stelle, bei raumbedeutsamen
+Planungen und Maßnahmen des Zivilschutzes die zuständige Stelle über
+Art und Umfang der Angaben für die Planung oder Maßnahme.
+
+(3) Die zuständige Raumordnungsbehörde beteiligt frühzeitig die
+Öffentlichkeit und die in ihren Belangen berührten öffentlichen
+Stellen. Sie hat die Verfahrensunterlagen für die Dauer von mindestens
+einem Monat im Internet zu veröffentlichen. Der Vorhabenträger hat
+Anspruch darauf, dass seine Betriebs- und Geschäftsgeheimnisse nicht
+unbefugt offenbart werden. Bestehen Anhaltspunkte dafür, dass eine
+Bekanntgabe der Angaben nach Absatz 2 Satz 1 für die Interessen des
+Bundes oder eines Landes nachteilig sein kann oder dass diese Angaben
+nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen,
+kann die zuständige Raumordnungsbehörde die Vorlage einer aus sich
+heraus verständlichen und zusammenhängenden Darstellung verlangen, die
+den Inhalt der Unterlagen ohne Preisgabe des Geheimnisses beschreibt.
+Internetseite oder Internetadresse und Dauer der Veröffentlichung sind
+mindestens eine Woche vor Beginn der Veröffentlichung öffentlich
+bekannt zu machen. In der Bekanntmachung ist unter Angabe einer
+angemessenen Frist, die zumindest der Veröffentlichungsfrist
+entspricht, darauf hinzuweisen, dass Stellungnahmen abgegeben werden
+können und dass die Übermittlung elektronisch erfolgen soll.
+Zusätzlich zur Veröffentlichung im Internet ist eine oder sind mehrere
+andere leicht zu erreichende, auch analoge Zugangsmöglichkeiten zur
+Verfügung zu stellen, soweit dies nach Feststellung der zuständigen
+Raumordnungsbehörde angemessen und zumutbar ist. In der Bekanntmachung
+ist auf diese Zugangsmöglichkeiten hinzuweisen. Bei raumbedeutsamen
+Planungen und Maßnahmen nach Absatz 2 Satz 6 erfolgt die Entscheidung
+darüber, ob und in welchem Umfang die Öffentlichkeit einbezogen wird,
+im Einvernehmen mit den dort genannten Stellen. Bei raumbedeutsamen
+Planungen und Maßnahmen, die erhebliche Auswirkungen auf
+Nachbarstaaten haben können, erfolgt die Beteiligung der betroffenen
+Nachbarstaaten nach den Grundsätzen der Gegenseitigkeit und
+Gleichwertigkeit.
+
+(4) Der Vorhabenträger kann die Durchführung einer
+Raumverträglichkeitsprüfung bei der zuständigen Raumordnungsbehörde
+beantragen. Stellt der Vorhabenträger keinen Antrag, so zeigt er dies
+der zuständigen Raumordnungsbehörde vor Einleitung eines
+Zulassungsverfahrens oder, sofern dies gesetzlich vorgesehen ist,
+eines Verfahrens zur Bestimmung der Planung und Linienführung an. Der
+Anzeige sind die für die Raumverträglichkeitsprüfung erforderlichen
+Unterlagen nach Absatz 2 Satz 1 beizufügen. Die zuständige
+Raumordnungsbehörde soll die Raumverträglichkeitsprüfung einleiten,
+wenn sie erwartet, dass das Vorhaben zu raumbedeutsamen Konflikten mit
+den Erfordernissen der Raumordnung oder mit anderen raumbedeutsamen
+Planungen und Maßnahmen führen wird. Die zuständige
+Raumordnungsbehörde teilt ihre Entscheidung über die Einleitung der
+Prüfung dem Vorhabenträger innerhalb von vier Wochen nach dessen
+Anzeige mit. Bei raumbedeutsamen Planungen und Maßnahmen von
+öffentlichen Stellen des Bundes, von anderen öffentlichen Stellen, die
+im Auftrag des Bundes tätig sind, sowie von Personen des Privatrechts
+nach § 5 Absatz 1 trifft die zuständige Raumordnungsbehörde die
+Entscheidung über die Einleitung der Prüfung im Benehmen mit dieser
+Stelle oder Person.
+
+(5) Hält der Vorhabenträger nach Abschluss der
+Raumverträglichkeitsprüfung an der Realisierung seines Vorhabens fest,
+soll er zeitnah die Durchführung des hierfür erforderlichen
+Zulassungsverfahrens oder, sofern es gesetzlich vorgesehen ist, des
+Verfahrens zur Bestimmung der Planung und Linienführung beantragen. Im
+Zuge der Antragstellung übermittelt der Vorhabenträger der
+Zulassungsbehörde die Unterlagen, die Gegenstand der
+Raumverträglichkeitsprüfung waren, sowie im Falle ihres Vorliegens die
+gutachterliche Stellungnahme in einem verkehrsüblichen elektronischen
+Format. Im Zulassungsverfahren soll die Prüfung auf Belange beschränkt
+werden, die nicht Gegenstand der Raumverträglichkeitsprüfung waren,
+jedoch bleibt die Prüfung der Umweltauswirkungen im Rahmen der
+Umweltverträglichkeitsprüfung nach dem Gesetz über die
+Umweltverträglichkeitsprüfung und nach Maßgabe des Fachrechts im
+Rahmen des Zulassungsverfahrens unberührt. Die Zulassungsbehörde
+bezieht die gutachterliche Stellungnahme der zuständigen
+Raumordnungsbehörde auf der Grundlage des § 4 Absatz 1 Satz 1 in
+Verbindung mit § 3 Absatz 1 Nummer 4 nach Maßgabe des Fachrechts in
+ihre Entscheidung ein. Wird das Vorhaben abschnittsweise zugelassen,
+können die Raumverträglichkeitsprüfung sowie das Zulassungsverfahren
+oder, sofern es gesetzlich vorgesehen ist, das Verfahren zur
+Bestimmung der Planung und Linienführung insoweit aufeinander
+abgestimmt werden.
+
+(6) Das Ergebnis der Raumverträglichkeitsprüfung kann nur im Rahmen
+des Rechtsbehelfsverfahrens gegen die nachfolgende
+Zulassungsentscheidung überprüft werden.
+
+(7) In den Ländern Berlin, Bremen und Hamburg gelten die Absätze 1 bis
+6 nur, wenn das Landesrecht eine Raumverträglichkeitsprüfung vorsieht.
+
+
+### § 16 Beschleunigte Raumverträglichkeitsprüfung; Absehen von Raumverträglichkeitsprüfungen
 
 (1) Bei der Prüfung der Raumverträglichkeit raumbedeutsamer Planungen
 und Maßnahmen kann, soweit keine anderen Rechtsvorschriften
 entgegenstehen, auf die Beteiligung einzelner öffentlicher Stellen
-nach § 15 Abs. 3 Satz 1 und 6 verzichtet werden, wenn die
+nach § 15 Absatz 3 Satz 1 und 10 verzichtet werden, wenn die
 raumbedeutsamen Auswirkungen dieser Planungen und Maßnahmen gering
 sind oder wenn für die Prüfung der Raumverträglichkeit erforderliche
 Stellungnahmen schon in einem anderen Verfahren abgegeben wurden
-(beschleunigtes Raumordnungsverfahren). Die Frist nach § 15 Abs. 4
-Satz 2 beträgt beim beschleunigten Raumordnungsverfahren grundsätzlich
-drei Monate.
+(beschleunigte Raumverträglichkeitsprüfung). Die Frist nach § 15
+Absatz 1 Satz 3 beträgt bei der beschleunigten
+Raumverträglichkeitsprüfung grundsätzlich drei Monate.
 
-(2) Von der Durchführung eines Raumordnungsverfahrens kann bei solchen
-Planungen und Maßnahmen abgesehen werden, für die sichergestellt ist,
-dass ihre Raumverträglichkeit anderweitig geprüft wird. Die
-Landesregierungen können durch Rechtsverordnung regeln, welche Fälle
-die Durchführung eines Raumordnungsverfahrens erübrigen.
+(2) Von der Durchführung einer Raumverträglichkeitsprüfung soll bei
+solchen Planungen und Maßnahmen abgesehen werden, für die
+sichergestellt ist, dass ihre Raumverträglichkeit anderweitig geprüft
+wird. Die Landesregierungen können durch Rechtsverordnung regeln,
+welche Fälle die Durchführung einer Raumverträglichkeitsprüfung
+erübrigen.
 
 
 ## Abschnitt 3 - Raumordnung im Bund
@@ -1027,12 +1153,13 @@ die Durchführung eines Raumordnungsverfahrens erübrigen.
 
 ### § 17 Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat stellt im
-Einvernehmen mit den fachlich betroffenen Bundesministerien für die
-deutsche ausschließliche Wirtschaftszone einen Raumordnungsplan als
-Rechtsverordnung auf. Der Raumordnungsplan soll unter Berücksichtigung
-etwaiger Wechselwirkungen zwischen Land und Meer sowie unter
-Berücksichtigung von Sicherheitsaspekten Festlegungen treffen
+(1) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+stellt im Einvernehmen mit den fachlich betroffenen Bundesministerien
+für die deutsche ausschließliche Wirtschaftszone einen
+Raumordnungsplan als Rechtsverordnung auf. Der Raumordnungsplan soll
+unter Berücksichtigung etwaiger Wechselwirkungen zwischen Land und
+Meer sowie unter Berücksichtigung von Sicherheitsaspekten Festlegungen
+treffen
 
 1.  zur Gewährleistung der Sicherheit und Leichtigkeit des
     Schiffsverkehrs,
@@ -1049,15 +1176,16 @@ Berücksichtigung von Sicherheitsaspekten Festlegungen treffen
 
 
 Das Bundesamt für Seeschifffahrt und Hydrographie führt mit Zustimmung
-des Bundesministeriums des Innern, für Bau und Heimat die
+des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen die
 vorbereitenden Verfahrensschritte zur Aufstellung des
-Raumordnungsplans durch. Das Bundesministerium des Innern, für Bau und
-Heimat arbeitet mit den angrenzenden Staaten und Ländern zusammen, um
-die Abstimmung und Kohärenz des Raumordnungsplans mit den
-Raumplanungen der angrenzenden Staaten und Länder sicherzustellen.
+Raumordnungsplans durch. Das Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen arbeitet mit den angrenzenden Staaten
+und Ländern zusammen, um die Abstimmung und Kohärenz des
+Raumordnungsplans mit den Raumplanungen der angrenzenden Staaten und
+Länder sicherzustellen.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat kann im
-Einvernehmen mit den fachlich betroffenen Bundesministerien
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+kann im Einvernehmen mit den fachlich betroffenen Bundesministerien
 länderübergreifende Raumordnungspläne für den Hochwasserschutz sowie
 zu Standortkonzepten für Häfen und Flughäfen als Grundlage für ihre
 verkehrliche Anbindung im Rahmen der Bundesverkehrswegeplanung als
@@ -1066,24 +1194,26 @@ räumliche Entwicklung und Ordnung des Bundesgebietes unter nationalen
 oder europäischen Gesichtspunkten erforderlich ist. Die Beratungs- und
 Unterrichtungspflicht nach § 24 Absatz 1 und 4 ist zu beachten. Das
 Bundesamt für Bauwesen und Raumordnung führt mit Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat die vorbereitenden
-Verfahrensschritte zur Aufstellung der Raumordnungspläne durch. Das
-Bundesministerium des Innern, für Bau und Heimat beteiligt bei der
-Planaufstellung die Bundesministerien und stellt das Benehmen mit den
-Ländern und den angrenzenden Staaten her.
+Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen die
+vorbereitenden Verfahrensschritte zur Aufstellung der
+Raumordnungspläne durch. Das Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen beteiligt bei der Planaufstellung die
+Bundesministerien und stellt das Benehmen mit den Ländern und den
+angrenzenden Staaten her.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat kann im
-Einvernehmen mit den fachlich betroffenen Bundesministerien für die
-räumliche Entwicklung des Bundesgebietes einzelne Grundsätze der
-Raumordnung nach § 2 Absatz 2 durch Grundsätze in einem
+(3) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+kann im Einvernehmen mit den fachlich betroffenen Bundesministerien
+für die räumliche Entwicklung des Bundesgebietes einzelne Grundsätze
+der Raumordnung nach § 2 Absatz 2 durch Grundsätze in einem
 Raumordnungsplan konkretisieren. Die Beratungs- und
 Unterrichtungspflicht nach § 24 Absatz 1 und 4 ist zu beachten. Das
 Bundesamt für Bauwesen und Raumordnung führt mit Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat die vorbereitenden
-Verfahrensschritte zur Aufstellung des Raumordnungsplans durch. Das
-Bundesministerium des Innern, für Bau und Heimat beteiligt bei der
-Planaufstellung die Bundesministerien und stellt das Benehmen mit den
-Ländern und den angrenzenden Staaten her.
+Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen die
+vorbereitenden Verfahrensschritte zur Aufstellung des
+Raumordnungsplans durch. Das Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen beteiligt bei der Planaufstellung die
+Bundesministerien und stellt das Benehmen mit den Ländern und den
+angrenzenden Staaten her.
 
 (4) Zur Vorbereitung oder Verwirklichung von Raumordnungsplänen nach
 den Absätzen 1 und 2 kann der Träger der Bundesraumordnung
@@ -1093,30 +1223,25 @@ Vereinbarungen treffen; Gegenstand dieser Vereinbarungen kann auch die
 der im Interesse des Vertragspartners liegenden Vorbereitung oder
 Verwirklichung von Raumordnungsplänen entstehen.
 
-(5) Auf den Raumordnungsplan nach Absatz 3 finden die §§ 8 und 10
-keine Anwendung. Der Raumordnungsplan nach Absatz 3 ist im
-Bundesanzeiger bekannt zu machen; mit der Bekanntmachung tritt er in
-Kraft. Die Bekanntmachung kann auch dadurch bewirkt werden, dass der
-Raumordnungsplan bei der Bundesverwaltung zu jedermanns Einsicht
-ausgelegt und im Bundesanzeiger darauf hingewiesen wird, wo der
-Raumordnungsplan eingesehen werden kann. Elektronische
-Informationstechnologien sollen ergänzend genutzt werden; § 9 Absatz 2
-Satz 6 gilt entsprechend.
+(5) Auf den Raumordnungsplan nach Absatz 3 findet § 8 keine Anwendung.
 
 
-### § 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes
+### § 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes; Bekanntmachung von Raumordnungsplänen des Bundes
 
-(1) Bei der Aufstellung des Raumordnungsplans nach § 17 Absatz 1 sind
-Ort und Dauer der Auslegung nach § 9 Absatz 2 mindestens eine Woche
-vor Beginn der Auslegung im Verkündungsblatt und auf der Internetseite
-der auslegenden Behörde nach § 17 Absatz 1 Satz 3 amtlich bekannt zu
-machen.
+(1) Bei der Aufstellung der Raumordnungspläne nach § 17 Absatz 1 und 2
+findet § 9 Absatz 2 Satz 3 mit der Maßgabe Anwendung, dass die
+öffentliche Bekanntmachung auf der Internetseite und im
+Verkündungsblatt der auslegenden Behörde erfolgt. Auf
+Raumordnungspläne nach § 17 Absatz 3 findet § 9 Absatz 1 und 4 keine
+Anwendung; § 9 Absatz 2 und 3 findet mit der Maßgabe Anwendung, dass
+die Beteiligung auf in ihren Belangen berührte öffentliche Stellen
+beschränkt werden kann.
 
-(2) Bei der Aufstellung der Raumordnungspläne nach § 17 Absatz 2 sind
-Ort und Dauer der Auslegung nach § 9 Absatz 2 mindestens eine Woche
-vor Beginn der Auslegung im Verkündungsblatt und auf der Internetseite
-der auslegenden Behörde nach § 17 Absatz 2 Satz 4 amtlich bekannt zu
-machen.
+(2) Das Erfordernis der Veröffentlichung einer Rechtsbehelfsbelehrung
+nach § 10 Absatz 2 Satz 1 findet auf die Raumordnungspläne des Bundes
+nach § 17 keine Anwendung. Raumordnungspläne des Bundes nach § 17
+Absatz 3 sind im Bundesanzeiger bekannt zu machen; § 10 Absatz 1, 3
+und 4 findet auf diese Pläne keine Anwendung.
 
 
 ### § 19 Zielabweichung bei Raumordnungsplänen des Bundes
@@ -1125,30 +1250,30 @@ Hinsichtlich der Zielabweichung bei Raumordnungsplänen des Bundes gilt
 § 6 Abs. 2 mit der Maßgabe, dass über den Antrag auf Zielabweichung
 bei Raumordnungsplänen nach § 17 Absatz 1 das Bundesamt für
 Seeschifffahrt und Hydrographie und bei Raumordnungsplänen nach § 17
-Absatz 2 das Bundesministerium des Innern, für Bau und Heimat
-entscheidet. Wird über den Antrag auf Zielabweichung im
-Zulassungsverfahren über eine raumbedeutsame Planung oder Maßnahme
-oder in einem anderen Verfahren entschieden, ist das Benehmen mit dem
-Bundesministerium des Innern, für Bau und Heimat erforderlich.
+Absatz 2 das Bundesamt für Bauwesen und Raumordnung entscheidet. Wird
+über den Antrag auf Zielabweichung im Zulassungsverfahren über eine
+raumbedeutsame Planung oder Maßnahme oder in einem anderen Verfahren
+entschieden, ist das Benehmen mit dem Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen erforderlich.
 
 
 ### § 20 Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes
 
 Für die Untersagung raumbedeutsamer Planungen und Maßnahmen bei
 Raumordnungsplänen des Bundes gilt § 12 Abs. 2 und 3 mit der Maßgabe,
-dass für die Untersagung das Bundesministerium des Innern, für Bau und
-Heimat zuständig ist.
+dass für die Untersagung das Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen zuständig ist.
 
 
 ### § 21 Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Planungen und Maßnahmen zu bestimmen, für
-die ein Raumordnungsverfahren durchgeführt werden soll, wenn sie im
-Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben.
+die eine Raumverträglichkeitsprüfung durchgeführt werden soll, wenn
+sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung die Bedeutung und Form der
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+wird ermächtigt, durch Rechtsverordnung die Bedeutung und Form der
 Planzeichen zu bestimmen, die für die Festlegungen in
 Raumordnungsplänen notwendig sind. Die Rechtsverordnung nach Satz 1
 bedarf der Zustimmung des Bundesrates, wenn sie die Bedeutung und Form
@@ -1160,14 +1285,14 @@ der Länder notwendig sind.
 
 (1) Das Bundesamt für Bauwesen und Raumordnung führt ein
 Informationssystem zur räumlichen Entwicklung im Bundesgebiet und in
-den angrenzenden Gebieten. Das Bundesministerium des Innern, für Bau
-und Heimat stellt den Ländern die Ergebnisse des Informationssystems
-zur Verfügung.
+den angrenzenden Gebieten. Das Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen stellt den Ländern die Ergebnisse des
+Informationssystems zur Verfügung.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung erstattet dem
-Bundesministerium des Innern, für Bau und Heimat zur Vorlage an den
-Deutschen Bundestag in regelmäßigen Abständen Berichte, insbesondere
-über
+Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen zur
+Vorlage an den Deutschen Bundestag in regelmäßigen Abständen Berichte,
+insbesondere über
 
 1.  die bei der räumlichen Entwicklung des Bundesgebietes zugrunde zu
     legenden Tatsachen (Bestandsaufnahme, Entwicklungstendenzen),
@@ -1194,13 +1319,13 @@ beschränken.
 ### § 23 Beirat für Raumentwicklung
 
 (1) Der Beirat für Raumentwicklung hat die Aufgabe, das
-Bundesministerium des Innern, für Bau und Heimat in Grundsatzfragen
-der räumlichen Entwicklung zu beraten.
+Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen in
+Grundsatzfragen der räumlichen Entwicklung zu beraten.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat beruft im
-Benehmen mit den zuständigen Spitzenverbänden in den Beirat Vertreter
-aus der Wissenschaft und der Praxis aus Bereichen mit relevanten
-Bezügen zur räumlichen Entwicklung des Bundesgebietes.
+(2) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+beruft in den Beirat Vertreter aus der Wissenschaft und der Praxis aus
+Bereichen mit relevanten Bezügen zur räumlichen Entwicklung des
+Bundesgebietes.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften und Schlussvorschriften
@@ -1209,14 +1334,14 @@ Bezügen zur räumlichen Entwicklung des Bundesgebietes.
 ### § 24 Zusammenarbeit von Bund und Ländern
 
 (1) Grundsätzliche Angelegenheiten der Raumordnung sollen vom
-Bundesministerium des Innern, für Bau und Heimat und den für
-Raumordnung zuständigen obersten Landesbehörden in der
-Ministerkonferenz für Raumordnung gemeinsam beraten werden.
+Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen und den
+für Raumordnung zuständigen obersten Landesbehörden in der
+Raumentwicklungsministerkonferenz gemeinsam beraten werden.
 
-(2) Bund und Länder können im Rahmen der Ministerkonferenz für
-Raumordnung Leitbilder für die räumliche Entwicklung des
-Bundesgebietes oder von über die Länder hinausgreifenden
-Zusammenhängen entwickeln.
+(2) Bund und Länder können im Rahmen der
+Raumentwicklungsministerkonferenz Leitbilder für die räumliche
+Entwicklung des Bundesgebietes oder von über die Länder
+hinausgreifenden Zusammenhängen entwickeln.
 
 (3) Der Bund beteiligt sich in Zusammenarbeit mit den Ländern an einer
 Politik des räumlichen Zusammenhalts in der Europäischen Union und im
@@ -1257,7 +1382,8 @@ Aufstellung des Raumordnungsplans bedeutsam sein können.
 (3) Grenzt das Plangebiet eines ausländischen Raumordnungsplans an die
 deutsche ausschließliche Wirtschaftszone an, so ist im Hinblick auf
 die dortigen Auswirkungen die für das Beteiligungsverfahren zuständige
-deutsche Stelle das Bundesministerium des Innern, für Bau und Heimat.
+deutsche Stelle das Bundesministerium für Wohnen, Stadtentwicklung und
+Bauwesen.
 
 
 ### § 26 (weggefallen)
@@ -1267,23 +1393,32 @@ deutsche Stelle das Bundesministerium des Innern, für Bau und Heimat.
 ### § 27 Anwendungsvorschrift für die Raumordnung in den Ländern
 
 (1) Verfahren zur Aufstellung von Raumordnungsplänen nach § 13 sowie
-Raumordnungsverfahren nach § 15, die vor dem 29. November 2017
-förmlich eingeleitet wurden, werden nach den bis zum 28. November 2017
-geltenden Raumordnungsgesetzen von Bund und Ländern abgeschlossen. Ist
-mit gesetzlich vorgeschriebenen einzelnen Schritten des Verfahrens
-noch nicht begonnen worden, können diese auch nach den Vorschriften
-dieses Gesetzes durchgeführt werden.
+Raumordnungsverfahren, die nach § 15 in der bis zum 27. September 2023
+geltenden Fassung förmlich eingeleitet wurden, werden nach den bis zum
+27\. September 2023 geltenden Raumordnungsgesetzen von Bund und Ländern
+abgeschlossen. Ist mit gesetzlich vorgeschriebenen einzelnen Schritten
+des Verfahrens noch nicht begonnen worden, können diese auch nach den
+Vorschriften dieses Gesetzes durchgeführt werden.
 
 (2) § 11 ist auch auf Raumordnungspläne der Länder anzuwenden, die vor
-dem 29. November 2017 in Kraft getreten sind. Weiter gehende
+dem 28. September 2023 in Kraft getreten sind. Weiter gehende
 landesrechtliche Regelungen zur Unbeachtlichkeit von Fehlern bei der
-Planaufstellung oder durch Fristablauf bleiben unberührt.
+Planaufstellung oder durch Fristablauf bleiben unberührt. Auf
+Raumordnungspläne, die vor dem 28. September 2023 in Kraft getreten
+sind, findet § 11 Absatz 2 in der bis zum 27. September 2023 geltenden
+Fassung weiterhin Anwendung.
 
-(3) Am 29. November 2017 geltendes Landesrecht, das § 2 Absatz 2, die
+(3) Am 28. September 2023 geltendes Landesrecht, das § 2 Absatz 2, die
 §§ 6 bis 12 oder die Vorschriften des Abschnitts 2 dieses Gesetzes
 ergänzt, sowie landesrechtliche Gebührenregelungen und weiter gehendes
 Landesrecht zur Beschleunigung des Verfahrens bei Änderung eines
 ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
+
+(4) Für Raumordnungspläne, die Windenergiegebiete im Sinne von § 2
+Nummer 1 des Windenergieflächenbedarfsgesetzes vom 20. Juli 2022
+(BGBl. I S. 1353) beinhalten, sind die Überleitungsvorschriften des §
+245e des Baugesetzbuchs und die Sonderregelungen des § 249 des
+Baugesetzbuchs vorrangig anzuwenden.
 
 
 ### Anlage 1 (zu § 8 Abs. 1)

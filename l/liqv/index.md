@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3117
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.12.2017 I 4033
-
-Änderung durch
-:   Art. 7 Abs. 41 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 41 G v. 12.5.2021 I 990
 
 § 9 dieser Verordnung dient der Umsetzung von Artikel 5 und 6 der
 Richtlinie 2000/46/EG des Europäischen Parlaments und des Rates vom

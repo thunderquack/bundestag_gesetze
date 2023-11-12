@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 148 (1281)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 18.8.2021 I 3908
+:   Art. 2 Abs. 15 G v. 20.12.2022 I 2752
 
 Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
 
@@ -3921,11 +3921,8 @@ nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
 
 
-### § 73 Verkündung von Rechtsverordnungen
+### § 73 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 74 Übergangsvorschriften
@@ -4067,11 +4064,4 @@ werden.
 (13) Pflanzenschutzmittel, die nach den am 13. Februar 2012 geltenden
 Bestimmungen gekennzeichnet sind, dürfen noch bis zum 14. Juni 2015 in
 Verkehr gebracht werden.
-
-(14) Bis zum Ablauf des 31. März 2012 ist § 73 mit der Maßgabe
-anzuwenden, dass die Verkündung abweichend von § 1 des Gesetzes über
-die Verkündung von Rechtsverordnungen im elektronischen Bundesanzeiger
-erfolgt und auf eine so verkündete Verordnung unter Angabe der Stelle
-ihrer Veröffentlichung und des Tages ihres Inkrafttretens
-nachrichtlich im Bundesgesetzblatt hinzuweisen ist.
 

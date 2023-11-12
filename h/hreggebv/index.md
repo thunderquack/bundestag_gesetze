@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Zukünftige amtl. Langüberschrift: Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen (ab 1.1.2024; 2021 I 3436)
 Zuletzt geändert durch
-:   Art. 46 G v. 10.8.2021 I 3436
+:   Art. 5 G v. 22.2.2023 I Nr. 51
 
 [^bjnr256200004_01_BJNR256200004]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 46 Nr. 1 G v.
     10\.8.2021 I 3436 mWv 1.1.2024 wie folgt gefasst:  **Verordnung über
@@ -38,14 +38,15 @@ verordnet das Bundesministerium der Justiz:
 Für Eintragungen in das Handels-, Partnerschafts- oder
 Genossenschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung
 der zum Handels- oder Genossenschaftsregister einzureichenden
-Unterlagen sowie die Übertragung von Schriftstücken in ein
-elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs werden
-Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung
-erhoben. Satz 1 gilt nicht für die aus Anlass eines
-Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für
-Löschungen nach § 395 des Gesetzes über das Verfahren in
-Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit.
+Unterlagen, die Bereitstellung von Registerdaten und von Dokumenten,
+die zum Register eingereicht wurden, zum Abruf sowie die Übertragung
+von Schriftstücken in ein elektronisches Dokument nach § 9 Abs. 2 des
+Handelsgesetzbuchs werden Gebühren nach dem Gebührenverzeichnis der
+Anlage zu dieser Verordnung erhoben. Satz 1 gilt nicht für die aus
+Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden
+Eintragungen und für Löschungen nach § 395 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
 
 
 ## § 2 Allgemeine Vorschriften
@@ -55,12 +56,16 @@ die gleichzeitig angemeldete Eintragung der Errichtung einer
 Zweigniederlassung und für die Eintragung einer Prokura gesondert
 erhoben.
 
-(2) Betrifft dieselbe spätere Anmeldung mehrere Tatsachen, ist für
+(2) Gebühren für die Bereitstellung von Registerdaten oder Dokumenten
+zum Abruf werden neben den Gebühren für Eintragungen im Register oder
+für Entgegennahmen zum Register gesondert erhoben.
+
+(3) Betrifft dieselbe spätere Anmeldung mehrere Tatsachen, ist für
 jede Tatsache die Gebühr gesondert zu erheben. Das Eintreten oder das
 Ausscheiden einzutragender Personen ist hinsichtlich einer jeden
 Person eine besondere Tatsache.
 
-(3) Als jeweils dieselbe Tatsache betreffend sind zu behandeln:
+(4) Als jeweils dieselbe Tatsache betreffend sind zu behandeln:
 
 1.  die Anmeldung einer zur Vertretung berechtigten Person und die
     gleichzeitige Anmeldung ihrer Vertretungsmacht oder deren
@@ -94,7 +99,7 @@ Person eine besondere Tatsache.
 
 
 
-(4) Anmeldungen, die am selben Tag beim Registergericht eingegangen
+(5) Anmeldungen, die am selben Tag beim Registergericht eingegangen
 sind und dasselbe Unternehmen betreffen, werden als eine Anmeldung
 behandelt.
 
@@ -150,15 +155,15 @@ Teil von den Gebühren 1503, 2501 und 3501 des Gebührenverzeichnisses
 auszugehen. § 3 Absatz 2 bleibt unberührt.
 
 
-## Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-
 ## § 5a Übergangsvorschrift
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der
 Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
+
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1)
@@ -1094,15 +1099,9 @@ Teil 5
 
 *    *   5001
 
+    *   (weggefallen)
+
     *
-        –   der Bekanntmachung der Eröffnungsbilanz durch die Liquidatoren (§ 89
-            Satz 3 GenG)
-
-
-
-
-    *   30,00 €
-
 
 *    *   5002
 
@@ -1153,8 +1152,7 @@ Teil 5
 *    *   5006
 
     *
-        –   von Verträgen, eines Verschmelzungsplans oder von entsprechenden
-            Entwürfen nach dem UmwG
+        –   von Verträgen, Plänen oder entsprechenden Entwürfen nach dem UmwG
 
 
 
@@ -1174,6 +1172,34 @@ Teil 5
     *   2,00 €
         – mindestens
         25,00 €
+
+
+
+
+Teil 6
+## Bereitstellung zum Abruf
+
+
+*    *   Nr.
+
+    *   Gebührentatbestand
+
+    *   Gebührenbetrag
+
+
+*    *   6000
+
+    *   Bereitstellung von Registerdaten oder Dokumenten zum Abruf
+        Die Gebühr entsteht neben jeder Gebühr für eine Eintragung nach den
+        Teilen 1 bis 4 und neben jeder Gebühr für eine Entgegennahme nach Teil
+        5 gesondert. § 34 Abs. 5 GNotKG ist nicht anzuwenden.
+
+    *   1/3
+        der für die
+        Eintragung oder
+        Entgegennahme
+        bestimmten
+        Gebühr
 
 
 

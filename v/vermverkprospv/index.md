@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 3464
 
 Zuletzt geändert durch
-:   Art. 24 Abs. 8 G v. 23.6.2017 I 1693
-
-Änderung durch
-:   Art. 1 V v. 18.8.2021 I 3917 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 18.8.2021 I 3917
 
 
 

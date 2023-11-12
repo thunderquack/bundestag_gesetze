@@ -467,8 +467,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   3
 
-    *   4
-
 
 *    *   1
 
@@ -959,8 +957,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   2
 
     *   3
-
-    *   4
 
 
 *    *   1

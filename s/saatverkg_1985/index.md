@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.7.2004 I 1673;
 
 Zuletzt geändert durch
-:   Art. 99 G v. 10.8.2021 I 3436
+:   Art. 2 Abs. 14 G v. 20.12.2022 I 2752
 
 [^BJNR016330985_01]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 66/401/EWG des Rates
@@ -3432,13 +3432,6 @@ mit Zustimmung des Bundesrates die Anwendung der Regelungen nach Satz
 Rechtsvorschriften der Europäischen Gemeinschaft oder der Europäischen
 Union über den Verkehr mit vegetativem Vermehrungsgut von Reben für
 die genannten Vertragsstaaten anwendbar werden.
-
-
-### § 61b Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 62 Übergangsvorschrift

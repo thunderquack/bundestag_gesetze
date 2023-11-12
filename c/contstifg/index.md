@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.6.2009 I 1537
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.8.2020 I 1887
-
-Änderung durch
-:   Art. 1 G v. 9.7.2021 I 2512 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 9.7.2021 I 2512
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

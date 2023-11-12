@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1237
 
 Zuletzt geändert durch
-:   Beschluss d. Bundestages v. 10.12.2021, Bek. v. 10.12.2021 I 5203
+:   Beschluss d. Bundestages v. 15.12.2022 gem. Bek. v. 15.12.2022 I 2598
 
 Konstitutiv neugefasst durch
 :   Bek. v. 2.7.1980 I 1237
@@ -982,6 +982,12 @@ Fraktion oder von fünf vom Hundert der Mitglieder des Bundestages oder
 ein einstimmiger Beschluß des Ausschusses vorliegt und die Genehmigung
 des Präsidenten erteilt worden ist.
 
+(4) In begründeten Ausnahmefällen ist die Einberufung einer Sitzung,
+an der Mitglieder eines Ausschusses über elektronische
+Kommunikationsmittel teilnehmen können, möglich. Die Einberufung
+erfolgt für diese Fälle nach Maßgabe eines Beschlusses des
+Ausschusses.
+
 
 ### § 61 Tagesordnung der Ausschüsse
 
@@ -1036,6 +1042,9 @@ Ausschuß die Stellungnahmen vorgelegt oder kommt eine Vereinbarung
 Bundestag Bericht erstatten, frühestens jedoch in der vierten auf die
 Überweisung folgenden Sitzungswoche.
 
+(3) Beraten mehrere Ausschüsse in gemeinsamer Sitzung über denselben
+Verhandlungsgegenstand, stimmen die Ausschüsse getrennt ab.
+
 
 ### § 64 Verhandlungsgegenstände
 
@@ -1067,25 +1076,29 @@ schriftlich zu erstatten. Sie können mündlich ergänzt werden.
 
 (2) Die Berichte müssen die Beschlußempfehlung des federführenden
 Ausschusses mit Begründung sowie die Ansicht der Minderheit und die
-Stellungnahmen der beteiligten Ausschüsse enthalten. Wenn kommunale
-Spitzenverbände im Rahmen des § 69 Abs. 5 Stellung genommen haben,
-müssen, sofern Informationssitzungen nach § 70 Abs. 1 stattgefunden
-haben, sollen die dargelegten Auffassungen in ihren wesentlichen
-Punkten im Bericht wiedergegeben werden.
+Stellungnahmen der beteiligten Ausschüsse enthalten.
 
 
-### § 67 Beschlußfähigkeit im Ausschuß
+### § 67 Beschlussfähigkeit und Abstimmungen im Ausschuss
 
-Der Ausschuß ist beschlußfähig, wenn die Mehrheit der Mitglieder
-anwesend ist. Er gilt solange als beschlußfähig, wie nicht vor einer
-Abstimmung ein Mitglied verlangt, die Beschlußfähigkeit durch
+(1) Der Ausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder
+anwesend ist. Als anwesend gelten auch diejenigen Mitglieder, die im
+Fall der Einberufung gemäß § 60 Absatz 4 über elektronische
+Kommunikationsmittel an der Sitzung teilnehmen.
+
+(2) Der Ausschuss gilt so lange als beschlussfähig, wie nicht vor
+einer Abstimmung ein Mitglied verlangt, die Beschlussfähigkeit durch
 Auszählen festzustellen. Der Vorsitzende kann die Abstimmung, vor der
-die Feststellung der Beschlußfähigkeit verlangt wurde, auf bestimmte
+die Feststellung der Beschlussfähigkeit verlangt wurde, auf bestimmte
 Zeit verschieben und, wenn kein Widerspruch erfolgt, die Aussprache
 fortsetzen oder einen anderen Tagesordnungspunkt aufrufen. Ist nach
-Feststellung der Beschlußunfähigkeit die Sitzung auf bestimmte Zeit
-unterbrochen worden und nach Wiedereröffnung die Beschlußfähigkeit
-noch nicht gegeben, gilt Satz 3.
+Feststellung der Beschlussunfähigkeit die Sitzung auf bestimmte Zeit
+unterbrochen worden und nach Wiedereröffnung die Beschlussfähigkeit
+noch nicht gegeben, gilt Satz 2.
+
+(3) Für Abstimmungen können in Abweichung von § 48 Absatz 1 Satz 1 im
+Fall der Einberufung gemäß § 60 Absatz 4 auch elektronische
+Kommunikationsmittel genutzt werden.
 
 
 ### § 68 Herbeirufung eines Mitgliedes der Bundesregierung zu den Ausschußsitzungen
@@ -1096,111 +1109,87 @@ Sitzung gehört werden soll. Über einen entsprechenden Antrag ist in
 nichtöffentlicher Sitzung zu entscheiden.
 
 
-### § 69 Nichtöffentliche Ausschußsitzungen
+### § 69 Öffentliche Ausschusssitzungen und Zutritt
 
-(1) Die Beratungen der Ausschüsse sind grundsätzlich nicht öffentlich.
-Der Ausschuß kann beschließen, für einen bestimmten
-Verhandlungsgegenstand oder Teile desselben die Öffentlichkeit
-zuzulassen. Die Öffentlichkeit einer Sitzung ist hergestellt, wenn der
-Presse und sonstigen Zuhörern im Rahmen der Raumverhältnisse der
-Zutritt gestattet wird.
+(1) Die Ausschüsse beschließen, ob und inwieweit sie in öffentlicher
+Sitzung beraten. Sie berücksichtigen hierbei insbesondere das
+Interesse der Öffentlichkeit an öffentlichen Sitzungen, die
+Besonderheit der Beratungsgegenstände und etwaige Erfahrungen mit
+öffentlichen Sitzungen. Der Beschluss erfolgt in nichtöffentlicher
+Sitzung. Er kann auf Dauer, für einzelne Sitzungen, für bestimmte
+Verhandlungsgegenstände oder Teile derselben gefasst werden. Bei
+öffentlichen Sitzungen ist der Presse und sonstigen Zuhörern im Rahmen
+der Raumverhältnisse der Zutritt zu gestatten. Öffentliche Sitzungen
+sollen grundsätzlich im Internet übertragen werden.
 
-(2) An den nichtöffentlichen Ausschußsitzungen können Mitglieder des
-Bundestages, die dem Ausschuß nicht angehören, als Zuhörer teilnehmen,
-es sei denn, daß der Bundestag bei der Einsetzung der Ausschüsse
-beschließt, das Zutrittsrecht für einzelne Ausschüsse auf die
-ordentlichen Mitglieder und deren namentlich benannte Stellvertreter
-zu beschränken. Diese Beschränkung kann nachträglich für die Beratung
-bestimmter Fragen aus dem Geschäftsbereich der Ausschüsse erfolgen.
-Die Ausschüsse können für bestimmte Verhandlungsgegenstände im
-Einzelfall Ausnahmen von der Beschränkung des Zutrittsrechts
-beschließen.
+(2) Soweit ein Ausschuss noch keinen Beschluss nach Absatz 1 Satz 1
+gefasst hat, finden dessen Sitzungen nichtöffentlich statt. Hat der
+Bundestag das Zutrittsrecht zu einem Ausschuss vollständig oder für
+Teile seines Geschäftsbereichs auf die ordentlichen Mitglieder und
+deren namentlich benannten Stellvertreter beschränkt (geschlossener
+Ausschuss), tagt dieser Ausschuss nach Maßgabe der
+Zutrittsbeschränkung grundsätzlich nichtöffentlich. Im Einzelfall kann
+dieser Ausschuss hiervon Ausnahmen beschließen.
 
-(3) Berät ein Ausschuß, dessen Verhandlungen nicht vertraulich sind,
-Vorlagen von Mitgliedern des Bundestages, so ist dem
-Erstunterzeichner, wenn er nicht Mitglied des Ausschusses ist, die
-Tagesordnung zuzuleiten. Er kann insoweit mit beratender Stimme an der
-Sitzung teilnehmen oder sich von einem der anderen Antragsteller
-vertreten lassen. In besonderen Fällen soll der Ausschuß auch andere
-Mitglieder des Bundestages zu seinen Verhandlungen mit beratender
-Stimme hinzuziehen oder zulassen.
+(3) Die Beratungen eines Ausschusses zu einer Vorlage, die als
+Verschlusssache eingestuft ist, erfolgen in nichtöffentlicher Sitzung.
+Es gelten die Vorschriften der Geheimschutzordnung des Deutschen
+Bundestages.
 
 (4) Vorbehaltlich gesetzlicher Beschränkungen des Zutrittsrechts haben
 die Fraktionsvorsitzenden beratende Stimme in allen Ausschüssen und
 Sonderausschüssen (§ 54). Sie können ein Mitglied ihrer Fraktion
-beauftragen, sie zu vertreten.
+beauftragen, sie zu vertreten. An Sitzungen nicht geschlossener
+Ausschüsse können Mitglieder des Bundestages, die nicht dem Ausschuss
+angehören, als Zuhörer teilnehmen. Bei den Beratungen geschlossener
+Ausschüsse kann einer der Antragsteller, der nicht Mitglied des
+Ausschusses ist, zur Begründung der Vorlage mit beratender Stimme
+teilnehmen. Darüber hinaus können geschlossene Ausschüsse im
+Einzelfall Ausnahmen von der Beschränkung des Zutritts beschließen.
 
-(5) Berät der Ausschuss einen ihm federführend überwiesenen
+(5) Berät ein nicht geschlossener Ausschuss, dessen Verhandlungen
+nicht mindestens VS-VERTRAULICH sind, eine Vorlage von Mitgliedern des
+Bundestages, so ist dem Erstunterzeichner, wenn er nicht Mitglied des
+Ausschusses ist, die Tagesordnung zuzuleiten. Er kann insoweit mit
+beratender Stimme an der Sitzung teilnehmen oder sich von einem der
+anderen Antragsteller vertreten lassen. In besonderen Fällen soll der
+Ausschuss auch andere Mitglieder des Bundestages zu seinen
+Verhandlungen mit beratender Stimme hinzuziehen oder zulassen.
+
+
+### § 69a Besondere Beteiligungsrechte Dritter
+
+(1) Berät ein Ausschuss einen ihm federführend überwiesenen
 Gesetzentwurf, durch den wesentliche Belange von Gemeinden und
 Gemeindeverbänden berührt werden, ist den auf Bundesebene bestehenden
 kommunalen Spitzenverbänden vor Beschlussfassung im Ausschuss
-Gelegenheit zur Stellungnahme zu geben. Wesentliche Belange im Sinne
-des Satzes 1 werden durch Gesetze berührt, die ganz oder teilweise von
-den Gemeinden oder Gemeindeverbänden auszuführen sind, ihre
-öffentlichen Finanzen unmittelbar betreffen oder auf ihre
-Verwaltungsorganisation einwirken. Von der Bestimmung des Satzes 1
-kann bei Regierungsvorlagen abgesehen werden, wenn aus der Begründung
-der Vorlagen die Auffassungen der kommunalen Spitzenverbände
-ersichtlich sind. Die Rechte des Ausschusses aus § 70 Abs. 1 bleiben
-unberührt.
+Gelegenheit zur Stellungnahme zu geben. Hiervon kann bei
+Regierungsvorlagen abgesehen werden, wenn aus der Begründung der
+Vorlagen die Auffassungen der kommunalen Spitzenverbände ersichtlich
+sind. Wesentliche Belange im Sinne des Satzes 1 werden durch Gesetze
+berührt, die ganz oder teilweise von den Gemeinden oder
+Gemeindeverbänden auszuführen sind, ihre öffentlichen Finanzen
+unmittelbar betreffen oder auf ihre Verwaltungsorganisation einwirken.
 
-(6) Ist bei Ausschußsitzungen die Teilnahme auf die ordentlichen
-Mitglieder und deren namentlich benannte Stellvertreter beschränkt,
-kann einer der Antragsteller, der nicht Mitglied des Ausschusses ist,
-zur Begründung der Vorlage teilnehmen.
+(2) Betrifft eine Anhörung gemäß § 70 Absatz 1 durch den
+federführenden Ausschuss Gesetzentwürfe gemäß Absatz 1 Satz 3, ist den
+auf Bundesebene bestehenden kommunalen Spitzenverbänden Gelegenheit
+zur Teilnahme an der Anhörung zu geben. Absatz 1 Satz 2 gilt
+entsprechend. Im Falle einer Teilnahme unterbleibt eine Anrechnung
+nach § 70 Absatz 2 Satz 2. Die Stellungnahmen der Spitzenverbände
+sollen in ihren wesentlichen Punkten im Bericht wiedergegeben werden.
 
-(7) Für die Beratung einer VS der Geheimhaltungsgrade VS-VERTRAULICH
-und höher gelten die Bestimmungen der Geheimschutzordnung des
-Deutschen Bundestages.
-
-(8) Beraten mehrere Ausschüsse in gemeinsamer Sitzung über denselben
-Verhandlungsgegenstand, stimmen die Ausschüsse getrennt ab.
-
-
-### § 69a Erweiterte öffentliche Ausschußberatungen
-
-(1) Die Ausschüsse sollen im Benehmen mit dem Ältestenrat und im
-Einvernehmen mit den mitberatenden Ausschüssen als Schlußberatung der
-überwiesenen Vorlagen öffentliche Aussprachen durchführen, in denen
-die Beschlußempfehlung und der Bericht des federführenden Ausschusses
-beschlossen wird. Der Vorsitzende des federführenden Ausschusses
-beruft die Sitzung im Einvernehmen mit den mitberatenden Ausschüssen
-ein. Die Tagesordnung wird den Mitgliedern des Bundestages, dem
-Bundesrat und der Bundesregierung mitgeteilt.
-
-(2) Der federführende Ausschuß legt Gestaltung und Dauer der
-Aussprache im Einvernehmen mit den mitberatenden Ausschüssen fest. Der
-Vorsitzende des federführenden Ausschusses leitet die Sitzung. Er hat
-die dem Präsidenten im Rahmen von Plenarsitzungen zur Verfügung
-stehenden Rechte zur Aufrechterhaltung der Ordnung mit Ausnahme der
-Rechte nach § 38.
-
-(3) Soweit nicht anders beschlossen ist, erteilt der Vorsitzende das
-Wort nach Maßgabe von § 59 Abs. 2. Will der Vorsitzende sich als
-Redner an der Aussprache beteiligen, so hat er während dieser Zeit den
-Vorsitz abzugeben. Rederecht und das Recht, Anträge zur Sache zu
-stellen, haben alle Mitglieder des Bundestages. Anträge zur
-Geschäftsordnung können nur von den Mitgliedern des federführenden
-Ausschusses, deren Stellvertretern sowie beratenden Mitgliedern dieses
-Ausschusses gestellt werden.
-
-(4) Stimmberechtigt sind die Mitglieder des federführenden
-Ausschusses, im Falle der Stellvertretung deren Stellvertreter.
-
-(5) Hat der federführende Ausschuß eine Erweiterte öffentliche
-Ausschußberatung beschlossen, kann ein Viertel seiner Mitglieder
-verlangen, daß die Vorlage statt dessen vom Bundestag in einer
-allgemeinen Aussprache beraten wird. Eine Vorlage, zu der eine
-Erweiterte öffentliche Ausschußberatung stattgefunden hat, kann ohne
-besondere Vereinbarung im Ältestenrat nicht Gegenstand einer
-nochmaligen Aussprache im Plenum sein. Der federführende Ausschuß kann
-jedoch eine nochmalige Befassung im Plenum verlangen, wobei sich die
-Befassung auf eine Berichterstattung aus dem Ausschuß durch einen
-Sprecher zu beschränken hat. Der Sprecher hat die verschiedenen im
-Ausschuß vertretenen Positionen innerhalb von fünf Minuten darzulegen.
+(3) Betrifft eine Anhörung gemäß § 70 Absatz 1 durch den
+federführenden Ausschuss Gesetzentwürfe, die in erheblicher Weise die
+Rechte und Freiheiten natürlicher Personen in Bezug auf die
+Verarbeitung personenbezogener Daten betreffen, ist auf Beschluss des
+Ausschusses oder auf Verlangen eines Viertels seiner Mitglieder dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+Gelegenheit zur Teilnahme an der Anhörung zu geben. Absatz 2 Satz 3
+und 4 gilt entsprechend.
 
 
-### § 70 Öffentliche Anhörungssitzungen
+### § 70 Anhörungssitzungen
 
 (1) Zur Information über einen Gegenstand seiner Beratung kann ein
 Ausschuß öffentliche Anhörungen von Sachverständigen,
@@ -1210,7 +1199,8 @@ eines Viertels seiner Mitglieder dazu verpflichtet; bei nicht
 überwiesenen Verhandlungsgegenständen im Rahmen des § 62 Abs. 1 Satz 3
 erfolgt eine Anhörung auf Beschluß des Ausschusses. Die
 Beschlußfassung ist nur zulässig, wenn ein entsprechender Antrag auf
-der Tagesordnung des Ausschusses steht.
+der Tagesordnung des Ausschusses steht. Öffentliche Anhörungen sollen
+grundsätzlich im Internet übertragen werden.
 
 (2) Wird gemäß Absatz 1 die Durchführung einer Anhörung von einer
 Minderheit der Mitglieder des Ausschusses verlangt, müssen die von ihr
@@ -1231,11 +1221,19 @@ der Anhörung Fragerecht; dieses kann im Einvernehmen mit dem
 federführenden Ausschuß auf einzelne seiner Mitglieder beschränkt
 werden.
 
-(4) Betrifft die Anhörung durch den federführenden Ausschuss
-Gesetzentwürfe gemäß § 69 Absatz 5 Satz 1, ist den auf Bundesebene
-bestehenden kommunalen Spitzenverbänden Gelegenheit zur Teilnahme an
-der Anhörung zu geben, wobei eine Anrechnung nach Absatz 2 Satz 2
-unterbleibt. § 69 Absatz 5 Satz 3 gilt entsprechend.
+(4) Mit Ausnahme der Bediensteten von obersten Bundes- oder
+Landesbehörden, die den gesetzlichen Auftrag haben, den Bundestag zu
+beraten, oder sich von Verfassungs oder von Gesetzes wegen auf
+Unabhängigkeit berufen können, der Richterinnen und Richter sowie der
+Bereiche von Forschung und Lehre ist eine Einladung von Bundes- oder
+Landesbediensteten als Sachverständige oder Auskunftspersonen zu
+Anhörungen außer in berechtigten Ausnahmefällen nicht erlaubt. Der
+Ausschuss kann die Expertise dieser Personengruppe durch eine
+Teilnahme an regulären Beratungssitzungen oder schriftliche
+Stellungnahme einbeziehen. Im Übrigen ist mit der Tagesordnung zu
+veröffentlichen, auf Vorschlag welcher Fraktionen die einzelnen
+Sachverständigen oder Auskunftspersonen zu einer öffentlichen Anhörung
+eingeladen wurden.
 
 (5) Der Ausschuß kann in eine allgemeine Aussprache mit den
 Auskunftspersonen eintreten, soweit dies zur Klärung des Sachverhalts
@@ -1247,13 +1245,16 @@ berücksichtigen.
 (6) Zur Vorbereitung einer öffentlichen Anhörung soll der Ausschuß den
 Auskunftspersonen die jeweilige Fragestellung übermitteln. Er kann sie
 um Einreichung einer schriftlichen Stellungnahme bitten.
+Auskunftspersonen haben im Vorfeld ihrer mündlichen oder schriftlichen
+Stellungnahme etwaige finanzielle Interessenverknüpfungen in Bezug auf
+den Gegenstand der Beratungen offenzulegen.
 
 (7) Ersatz von Auslagen an Sachverständige und Auskunftspersonen
 erfolgt nur auf Grund von Ladungen durch Beschluß des Ausschusses mit
 vorheriger Zustimmung des Präsidenten.
 
-(8) Die Absätze 1 bis 7 gelten auch für Anhörungen in
-nichtöffentlicher Sitzung.
+(8) Absatz 1 Satz 1 bis 3 sowie die Absätze 2 bis 7 gelten auch für
+Anhörungen in nichtöffentlicher Sitzung.
 
 
 ### § 71 Antragstellung im Ausschuß, Schluß der Aussprache
@@ -1279,10 +1280,11 @@ abweichende Meinungen vorgetragen werden konnten.
 
 ### § 72 Abstimmung außerhalb einer Sitzung
 
-Der Ausschuß kann den Vorsitzenden einstimmig ermächtigen, außerhalb
-der Sitzungswochen über bestimmte Fragen in besonderen Eilfällen eine
-schriftliche Abstimmung durchführen zu lassen. Macht der Ausschuß von
-dieser Möglichkeit Gebrauch, hat der Vorsitzende den Mitgliedern des
+Der Ausschuß kann den Vorsitzenden einstimmig ermächtigen, auch
+außerhalb einer Sitzung über bestimmte Fragen in besonderen Eilfällen
+eine schriftliche Abstimmung durchführen zu lassen. § 122a Absatz 1
+findet entsprechende Anwendung. Macht der Ausschuß von dieser
+Möglichkeit Gebrauch, hat der Vorsitzende den Mitgliedern des
 Ausschusses den Entwurf einer Beschlußempfehlung zuzuleiten, über die
 innerhalb einer bestimmten Frist in entsprechender Anwendung des § 46
 Satz 1 abgestimmt werden kann. Eine schriftliche Abstimmung entfällt,
@@ -1290,24 +1292,45 @@ wenn eine Sitzung des Ausschusses auf Grund der Bestimmungen des § 60
 Abs. 2 oder 3 stattfindet.
 
 
-### § 73 Ausschußprotokolle
+### § 73 Ausschussprotokolle
 
-(1) Über jede Ausschußsitzung ist ein schriftliches Protokoll
-anzufertigen. Es muß mindestens alle Anträge und die Beschlüsse des
-Ausschusses enthalten. Stenographische Aufnahmen von Ausschußsitzungen
-bedürfen der Genehmigung des Präsidenten.
+(1) Über jede Ausschusssitzung ist ein schriftliches Protokoll
+anzufertigen. Es muss mindestens alle Ausschussdrucksachen, die
+Gegenstand der Beratung waren, und die Beschlüsse des Ausschusses
+enthalten sowie den wesentlichen Verlauf der Ausschussberatung
+zusammenfassen.
 
-(2) Protokolle über nichtöffentliche Sitzungen der Ausschüsse (§ 69
-Abs. 1 Satz 1) sind grundsätzlich keine Verschlußsachen im Sinne der
-Geheimschutzordnung (vgl. § 2 Abs. 5 GSO). Soweit sie der
-Öffentlichkeit nicht ohne weiteres zugänglich sein sollen, sind sie
-vom Ausschuß mit einem entsprechenden Vermerk zu versehen; die
-Einzelheiten werden in den nach Absatz 3 zu erlassenden Richtlinien
-geregelt. Protokolle von öffentlichen Sitzungen (§ 69 Abs. 1 Satz 2, §
-70 Abs. 1) dürfen diesen Vermerk nicht tragen.
+(2) Ausschussprotokolle sind grundsätzlich unverzüglich zu
+veröffentlichen, soweit sie nicht als Verschlusssache eingestuft sind.
+Soweit der Ausschuss das Protokoll mit dem Vermerk „Nur zur
+dienstlichen Verwendung“ versehen hat oder es sich um ein Protokoll
+über eine nichtöffentliche Sitzung handelt, erfolgt die
+Veröffentlichung spätestens ein Jahr nach der entsprechenden
+Ausschusssitzung. Protokolle von Sitzungen geschlossener Ausschüsse,
+des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung in
+Immunitätsangelegenheiten, des Petitionsausschusses, des
+Haushaltsausschusses einschließlich des Rechnungsprüfungsausschusses,
+des Richterwahlausschusses und des Wahlausschusses für die Richter des
+Bundesverfassungsgerichts werden nur auf Beschluss des Ausschusses
+veröffentlicht.
 
-(3) Für die Behandlung der Protokolle erläßt der Präsident im Benehmen
-mit dem Präsidium besondere Richtlinien.
+(3) Der Präsident kann im Benehmen mit dem Ältestenrat ergänzende
+Richtlinien erlassen.
+
+(4) Für die Protokollierung der Sitzungen der Untersuchungsausschüsse
+gilt § 11 des Gesetzes zur Regelung des Rechts der
+Untersuchungsausschüsse des Deutschen Bundestages. Für die Behandlung
+der Protokolle von Untersuchungsausschüssen, die keine
+Verschlusssachen sind, hat der Untersuchungsausschuss vor Beendigung
+seines Auftrags Empfehlungen zu geben. Über Abweichungen von diesen
+Empfehlungen entscheidet nach Auflösung des Untersuchungsausschusses
+der Präsident.
+
+(5) Stenographische Aufnahmen von Ausschusssitzungen bedürfen der
+Genehmigung des Präsidenten. Technische Aufzeichnungen von
+nichtöffentlichen Sitzungen sind eine Woche nach Verteilung des
+entsprechenden Protokolls zu löschen, es sei denn, dass der Ausschuss
+etwas anderes beschlossen hat.
 
 
 ### § 74 Anwendbarkeit der Bestimmungen der Geschäftsordnung
@@ -1403,7 +1426,9 @@ unterzeichnet sein, es sei denn, daß die Geschäftsordnung etwas
 anderes vorschreibt oder zuläßt.
 
 (2) Gesetzentwürfe müssen, Anträge können mit einer kurzen Begründung
-versehen werden.
+versehen werden. Gesetzentwürfen zur Änderung geltender Gesetze soll
+eine Synopse beigefügt werden, die die Entwurfsfassung dem geltenden
+Gesetz gegenüberstellt.
 
 
 ### § 77 Behandlung der Vorlagen
@@ -1893,7 +1918,7 @@ Stellungnahme der beteiligten Ausschüsse einzuholen. Will er von der
 Stellungnahme eines oder mehrerer Ausschüsse abweichen, soll eine
 gemeinsame Sitzung mit den mitberatenden Ausschüssen anberaumt werden.
 In eilbedürftigen Fällen können die Vorsitzenden der mitberatenden
-Ausschüsse entsprechend § 72 Satz 2 schriftlich abstimmen lassen.
+Ausschüsse entsprechend § 72 Satz 3 schriftlich abstimmen lassen.
 
 (4) Will der Ausschuss für die Angelegenheiten der Europäischen Union
 von seinem Recht gemäß Absatz 2 Satz 3 Gebrauch machen, gilt für das
@@ -1978,7 +2003,7 @@ Antrag hat mindestens die wesentlichen Klagegründe zu benennen. Absatz
 Prozessbevollmächtigten im Einvernehmen mit den Antragstellern erfolgt
 und bei der Formulierung der Klageschrift sowie der Durchführung des
 Klageverfahrens die Antragsteller angemessen zu beteiligen sind. Diese
-haben einen Bevollmächtigten zu benennen. § 69 Absatz 3 Satz 3 ist
+haben einen Bevollmächtigten zu benennen. § 69 Absatz 5 Satz 3 ist
 anzuwenden.
 
 (3) Abweichende Auffassungen, die gemäß § 12 Absatz 1 Satz 2 des
@@ -2544,30 +2569,6 @@ Abweichungen von den Vorschriften dieser Geschäftsordnung können im
 einzelnen Fall mit Zweidrittelmehrheit der anwesenden Mitglieder des
 Bundestages beschlossen werden, wenn die Bestimmungen des
 Grundgesetzes dem nicht entgegenstehen.
-
-
-### § 126a Besondere Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19
-
-(1) Der Bundestag ist abweichend von § 45 Absatz 1 beschlussfähig,
-wenn mehr als ein Viertel der Mitglieder im Sitzungssaal anwesend ist.
-
-(2) Anwesend im Sinne des § 67 Satz 1 sind auch diejenigen Mitglieder,
-die über elektronische Kommunikationsmittel an der Sitzung teilnehmen.
-
-(3) Die Ausschüsse, einschließlich des Ausschusses für Wahlprüfung,
-Immunität und Geschäftsordnung, können ihren Vorsitzenden auch in
-Sitzungswochen entsprechend § 72 zu Abstimmungen außerhalb einer
-Sitzung ermächtigen, für Abstimmungen und Beschlussfassungen können in
-Abweichung von § 48 Absatz 1 Satz 1 auch elektronische
-Kommunikationsmittel genutzt werden.
-
-(4) Öffentliche Ausschussberatungen und öffentliche Anhörungssitzungen
-können auch so durchgeführt werden, dass der Öffentlichkeit Zugang
-ausschließlich durch elektronische Übermittlungswege gewährt wird.
-
-(5) 126a findet ab 19. März 2022 keine Anwendung mehr. Vor diesem
-Datum kann die Regelung jederzeit durch Beschluss des Bundestages
-aufgehoben werden.
 
 
 ### § 127 Auslegung dieser Geschäftsordnung

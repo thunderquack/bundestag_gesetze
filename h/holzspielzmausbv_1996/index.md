@@ -495,7 +495,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   4
 
-    *   Arbeits-Sicherheit, Umweltschutz und rationelle Energieverwendung (§ 4
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4
         Nr. 4)
 
     *   a)

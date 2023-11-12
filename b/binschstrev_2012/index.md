@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2012, 2 (1717)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 4 V v. 26.11.2021 I 4982, 5204
+:   Art. 1 u. 2 V v. 8.9.2022 I 1499
 
 Änderung durch
-:   Art. 4 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -360,13 +360,12 @@ oder fahrlässig als Schiffsführer
     Person besetzt ist,
 
 
-6.  entgegen § 1.09 Nummer 4 nicht dafür sorgt, dass in dem dort genannten
-    Fall zu seiner Unterrichtung und der des Rudergängers ein Ausguck
+6.  entgegen § 1.09 Nummer 4 Satz 1 nicht dafür sorgt, dass ein Ausguck
     aufgestellt ist,
 
 
 7.  entgegen § 1.12 Nummer 3 Satz 1 oder Nummer 4, § 1.13 Nummer 2 oder 3,
-    §§ 1.14, 1.15 Nummer 2 oder § 1.17 Nummer 1 Satz 1, Nummer 3 oder 4,
+    § 1.14, § 1.15 Nummer 2 oder § 1.17 Nummer 1 Satz 1 oder Nummer 4,
     jeweils auch in Verbindung mit Nummer 5, in den dort jeweils genannten
     Fällen nicht oder nicht rechtzeitig für eine Benachrichtigung sorgt,
 
@@ -388,16 +387,17 @@ oder fahrlässig als Schiffsführer
     rechtzeitig Hilfe leistet,
 
 
-12. entgegen § 1.17 Nummer 1 Satz 1 für eine Benachrichtigung der nächsten
-    Dienststelle nicht, nicht richtig oder nicht rechtzeitig sorgt,
-
-
-13. entgegen § 1.17 Nummer 1 Satz 2 in dem in § 1.17 Nummer 1 Satz 1
+12. entgegen § 1.17 Nummer 1 Satz 2 in dem in § 1.17 Nummer 1 Satz 1
     genannten Fall nicht an Bord oder in der Nähe der Unfallstelle bleibt,
 
 
-14. entgegen § 1.17 Nummer 2 in dem dort genannten Fall nicht oder nicht
+13. entgegen § 1.17 Nummer 2 in dem dort genannten Fall nicht oder nicht
     rechtzeitig für eine Wahrschau sorgt,
+
+
+14. entgegen § 1.17 Nummer 3, auch in Verbindung mit Nummer 5, eine
+    Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vornimmt,
 
 
 15. entgegen § 1.18 Nummer 1 oder 2 in den dort jeweils genannten Fällen
@@ -1845,22 +1845,8 @@ oder fahrlässig als Schiffsführer
 
 
 3.  entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe aa nicht
-    sicherstellt, dass das von ihm geführte Fahrzeug
-
-    a)  mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1 ausgestattet
-        ist,
-
-
-    b)  in dem in § 4.07 Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS
-        Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden
-        ist, ausgestattet ist oder
-
-
-    c)  in dem in § 4.07 Nummer 8 genannten Fall mit einer Sprechfunkanlage
-        für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
-
-
-
+    sicherstellt, dass ein Fahrzeug mit einem dort genannten Gerät
+    ausgestattet oder mit einer Sprechfunkanlage ausgerüstet ist,
 
 
 4.  entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe bb nicht
@@ -1916,23 +1902,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 5.  entgegen § 4.07 Nummer 11 Buchstabe a die Inbetriebnahme eines
-    Fahrzeugs anordnet oder zulässt, obwohl das Fahrzeug
-
-    a)  nicht mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1
-        ausgestattet ist,
-
-
-    b)  in dem in § 4.07 Nummer 3 Satz 1 genannten Fall nicht mit einem Inland
-        ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät
-        verbunden ist, ausgestattet ist oder
-
-
-    c)  in dem in § 4.07 Nummer 8 genannten Fall nicht mit einer
-        Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist
-        oder
-
-
-
+    Fahrzeugs anordnet oder zulässt oder
 
 
 6.  entgegen § 4.07 Nummer 11 Buchstabe b die Inbetriebnahme eines

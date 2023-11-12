@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von
-  Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
+  Einkommen und Vermögen beim Bürgergeld
 jurabk: AlgIIV 2008
 layout: default
 origslug: algiiv_2008
@@ -8,7 +8,7 @@ slug: algiiv_2008
 
 ---
 
-# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld (AlgIIV 2008)
+# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld (AlgIIV 2008)
 
 Ausfertigungsdatum
 :   2007-12-17
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2942
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.3.2021 I 358
+:   Art. 1 V v. 13.2.2023 I Nr. 38
 
 
 ## Eingangsformel
@@ -66,7 +66,8 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     den alliierten Streitkräften in Berlin,
 
 
-7.  (weggefallen)
+7.  nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei gewährte
+    Leistungen zur Abmilderung der gestiegenen Verbrauchspreise,
 
 
 8.  Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an
@@ -74,13 +75,15 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     wird,
 
 
-9.  bei Sozialgeldempfängern, die das 15. Lebensjahr noch nicht vollendet
+9.  bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten
+    Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet
     haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100
     Euro monatlich nicht übersteigen,
 
 
-10. nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei gewährte
-    Leistungen auf Grund der COVID-19-Pandemie sowie diesen Leistungen
+10. nach § 3 Nummer 11a oder 11b des Einkommensteuergesetzes steuerfrei
+    gewährte Leistungen aufgrund der COVID-19-Pandemie sowie den
+    Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes
     entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
 
 
@@ -90,8 +93,7 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
 
 12. Geldgeschenke an Minderjährige anlässlich der Firmung, Kommunion,
     Konfirmation oder vergleichbarer religiöser Feste sowie anlässlich der
-    Jugendweihe, soweit sie den in § 12 Absatz 2 Satz 1 Nummer 1a des
-    Zweiten Buches Sozialgesetzbuch genannten Betrag nicht überschreiten,
+    Jugendweihe, soweit sie den Betrag von 3 100 Euro nicht überschreiten,
 
 
 13. die auf Grund eines Bundesprogramms gezahlten Außerordentlichen
@@ -109,7 +111,16 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     Grund einer epidemischen Lage von nationaler Tragweite, die vom
     Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des
     Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des
-    Bundes oder der Länder gezahlt werden.
+    Bundes oder der Länder gezahlt werden,
+
+
+16. in der Zeit vom 1. Januar 2023 bis zum Ablauf des 30. Juni 2023
+    erzielte Einnahmen von Schülerinnen und Schülern allgemein- oder
+    berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet
+    haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden,
+    soweit diese einen Betrag in Höhe von 2 400 Euro kalenderjährlich
+    nicht überschreiten; dies gilt nicht für Schülerinnen und Schüler, die
+    einen Anspruch auf Ausbildungsvergütung haben.
 
 
 
@@ -138,15 +149,6 @@ Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit
 um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei
 Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein
 Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
-
-(4) Nicht als Einkommen zu berücksichtigen sind Einnahmen von
-Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die
-das 25. Lebensjahr noch nicht vollendet haben, aus Erwerbstätigkeiten,
-die in den Schulferien ausgeübt werden, soweit diese einen Betrag in
-Höhe von 2 400 Euro kalenderjährlich nicht überschreiten. Satz 1 gilt
-nicht für Schülerinnen und Schüler, die einen Anspruch auf
-Ausbildungsvergütung haben. Die Bestimmungen des
-Jugendarbeitsschutzgesetzes bleiben unberührt.
 
 
 ## § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
@@ -354,7 +356,7 @@ abwesend ist, ein Pauschbetrag in Höhe von 6 Euro abzusetzen.
 
 ## § 7 Nicht zu berücksichtigendes Vermögen
 
-(1) Außer dem in § 12 Abs. 3 des Zweiten Buches Sozialgesetzbuch
+(1) Außer dem in § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch
 genannten Vermögen sind Vermögensgegenstände nicht als Vermögen zu
 berücksichtigen, die zur Aufnahme oder Fortsetzung der
 Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
@@ -363,7 +365,7 @@ Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
 liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in
 Haushaltsgemeinschaft lebende Leistungsberechtigte Leistungen
 erbringen, ist Vermögen nicht zu berücksichtigen, das nach § 12 Abs. 2
-des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Abs. 3
+des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Absatz 1
 des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
 
 

@@ -2417,7 +2417,7 @@ differenziert wird.
 Im Zuge der abschließenden Herstellung des Einvernehmens mit den
 fachlich betroffenen Bundesministerien wurde ergänzt, dass zum
 überwiegenden öffentlichen Interesse, welches Ausnahmen von einer
-Hochwasser schutzregelung rechtfertigt, auch der Klimaschutz zählen
+Hochwasserschutzregelung rechtfertigt, auch der Klimaschutz zählen
 kann (Anlagen, die primär und unmittelbar dem Klimaschutz dienen).
 
 Des Weiteren wurde die erste Stufe des Zulassungsverfahrens – die

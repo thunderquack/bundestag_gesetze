@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1919
 
 Zuletzt geändert durch
-:   Art. 3 G v. 30.3.2021 I 607
+:   Art. 4 G v. 24.10.2022 I 1838
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -360,7 +360,14 @@ empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
 
 5.  die in internationalen Übereinkommen vorgesehenen internationalen
-    Einrichtungen.
+    Einrichtungen;
+
+
+6.  die Streitkräfte eines anderen Mitgliedstaats und deren ziviles
+    Begleitpersonal, wenn diese Streitkräfte an einer
+    Verteidigungsanstrengung im Steuergebiet teilnehmen, die zur
+    Durchführung einer Tätigkeit der Union im Zusammenhang mit der
+    Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird.
 
 
 
@@ -399,8 +406,12 @@ Voraussetzungen für die Steuerfreiheit
     für die internationalen Einrichtungen;
 
 
+6.  im Fall des Absatzes 1 Nummer 6 im Zusammenhang mit der Gemeinsamen
+    Sicherheits- und Verteidigungspolitik der Union
 
-und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie)
+
+
+und eine Freistellungsbescheinigung (Artikel 12 der Systemrichtlinie)
 vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -584,10 +595,13 @@ wenn der Versender innerhalb von vier Monaten nach Beginn der
 Beförderung im Sinn des § 9 nachweist, dass der Kaffee
 
 1.  zu Personen befördert worden ist, die zum Empfang von Kaffee unter
-    Steueraussetzung berechtigt sind oder
+    Steueraussetzung berechtigt sind,
 
 
-2.  ordnungsgemäß ausgeführt worden ist.
+2.  zu Empfängern in anderen Mitgliedstaaten befördert worden ist oder
+
+
+3.  ordnungsgemäß ausgeführt worden ist.
 
 
 
@@ -801,7 +815,9 @@ Kaffees.
 Mitgliedstaats zu gewerblichen Zwecken anders als in den in Absatz 1
 genannten Fällen in das Steuergebiet, entsteht die Steuer dadurch,
 dass der Kaffee erstmals im Steuergebiet in Besitz gehalten oder
-verwendet wird. Dies gilt nicht, wenn der in Besitz gehaltene Kaffee
+verwendet wird. In allen anderen Fällen entsteht die Steuer mit dem
+Inbesitzhalten des Kaffees, wenn die Steuer im Steuergebiet noch nicht
+erhoben wurde. Dies gilt nicht, wenn der in Besitz gehaltene Kaffee
 
 1.  im Anschluss an die Beförderung von der Steuer befreit ist,
 
@@ -1007,18 +1023,20 @@ Steuerschuldners unter der Voraussetzung erlassen oder erstattet
 werden, dass der Steuerschuldner innerhalb von vier Monaten ab der
 Entstehung der Steuer nach § 11 Absatz 2 Nummer 1 nachweist, dass
 
-1.  der Kaffee oder die kaffeehaltige Ware in der Annahme befördert wurde,
-    dass für diese ein Steueraussetzungsverfahren nach § 9 wirksam
-    eröffnet worden ist, und
+1.  der Kaffee in der Annahme befördert wurde, dass für diesen ein
+    Steueraussetzungsverfahren nach § 9 wirksam eröffnet worden ist, und
 
 
-2.  diese Waren
+2.  dieser Kaffee
 
-    a)  zu Personen befördert worden sind, die zum Empfang von Kaffee oder
-        kaffeehaltiger Waren unter Steueraussetzung berechtigt sind, oder
+    a)  zu Personen befördert worden ist, die zum Empfang von Kaffee unter
+        Steueraussetzung berechtigt sind,
 
 
-    b)  ordnungsgemäß ausgeführt worden sind.
+    b)  zu Empfängern in anderen Mitgliedstaaten befördert worden ist oder
+
+
+    c)  ordnungsgemäß ausgeführt worden ist.
 
 
 
@@ -1176,7 +1194,9 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1
     zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann
     in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen
-    sachverständiger Stellen geregelt werden;
+    sachverständiger Stellen geregelt werden. Hierbei sind das Datum der
+    Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei
+    der die Veröffentlichung archivmäßig gesichert niedergelegt ist;
 
 
 6.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
@@ -1221,12 +1241,21 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     den Datenübermittler authentifiziert und die Vertraulichkeit und
     Integrität des elektronisch übermittelten Datensatzes gewährleistet.
     Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
-    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden.
+    Hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine
+    Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig
+    gesichert niedergelegt ist;
 
 
 7.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
-    ergeben.
+    ergeben;
+
+
+8.  zur Verfahrensvereinfachung, zur Vermeidung unangemessener
+    wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit
+    der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 11 und
+    21 zu erlassen.
 
 
 

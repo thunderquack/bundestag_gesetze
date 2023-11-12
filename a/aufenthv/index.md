@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 4 V v. 20.8.2021 I 3682
+:   Art. 9 V v. 30.10.2023 I Nr. 290
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -208,23 +208,20 @@ Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer
 Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung
 ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4
 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente
-ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben,
-deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht
-überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr
-werden abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1
-Nummer 1, 3 und 4 ohne elektronisches Speicher- und
-Verarbeitungsmedium ausgegeben; in begründeten Fällen können sie auch
-mit elektronischem Speicher- und Verarbeitungsmedium ausgegeben
-werden. Passersatzpapiere nach Satz 4 ohne elektronisches Speicher-
-und Verarbeitungsmedium sind höchstens ein Jahr gültig, längstens
-jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung
-dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur
-Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es
-ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere
-nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem
-Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet
-ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn
-Jahren ausgestellt werden.
+ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein
+Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften
+Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere
+nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben; in begründeten
+Fällen können sie auch mit Chip ausgegeben werden. Passersatzpapiere
+nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch
+bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser
+Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des
+zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein
+aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer
+3 und 4, die an heimatlose Ausländer nach dem Gesetz über die
+Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt
+werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren
+ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten
 neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung,
@@ -326,14 +323,13 @@ Daten in von den Mitgliedstaaten ausgestellten Pässen und
 Reisedokumenten (ABl. L 385 vom 29.12.2004, S. 1) sind
 Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 mit Ausnahme
 der in § 6 Satz 2 und § 7 genannten Reiseausweise für Ausländer mit
-einem elektronischen Speicher- und Verarbeitungsmedium zu versehen,
-auf dem das Lichtbild, die Fingerabdrücke, die Bezeichnung der
-erfassten Finger, die Angaben zur Qualität der Abdrücke und die in
-Absatz 3 Satz 2 genannten Angaben gespeichert werden. Die
-gespeicherten Daten sind mittels geeigneter technischer und
-organisatorischer Maßnahmen nach Artikel 24, 25 und 32 der Verordnung
-(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
-2016 zum Schutz natürlicher Personen bei der Verarbeitung
+einem Chip zu versehen, auf dem das Lichtbild, die Fingerabdrücke, die
+Bezeichnung der erfassten Finger, die Angaben zur Qualität der
+Abdrücke und die in Absatz 3 Satz 2 genannten Angaben gespeichert
+werden. Die gespeicherten Daten sind mittels geeigneter technischer
+und organisatorischer Maßnahmen nach Artikel 24, 25 und 32 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
 personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
 Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
@@ -342,11 +338,10 @@ Verändern und Löschen zu sichern. Eine bundesweite Datenbank der
 biometrischen Daten nach Satz 1 wird nicht errichtet.
 
 (5) Abweichend von Absatz 4 Satz 1 werden in Passersatzpapieren mit
-elektronischem Speicher- und Verarbeitungsmedium bei Antragstellern,
-die das sechste Lebensjahr noch nicht vollendet haben, keine
-Fingerabdrücke gespeichert. Die Unterschrift durch den Antragsteller
-ist zu leisten, wenn er zum Zeitpunkt der Beantragung des Passersatzes
-das zehnte Lebensjahr vollendet hat.
+Chip bei Antragstellern, die das sechste Lebensjahr noch nicht
+vollendet haben, keine Fingerabdrücke gespeichert. Die Unterschrift
+durch den Antragsteller ist zu leisten, wenn er zum Zeitpunkt der
+Beantragung des Passersatzes das zehnte Lebensjahr vollendet hat.
 
 (6) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1 können mit dem
 Hinweis ausgestellt werden, dass die Personendaten auf den eigenen
@@ -422,9 +417,9 @@ Anhaltspunkt für die Absicht einer missbräuchlichen Verwendung kann
 insbesondere auch gewertet werden, dass der wiederholte Verlust von
 Passersatzpapieren des Antragstellers geltend gemacht wird.
 
-(5) Der Reiseausweis für Ausländer ohne elektronisches Speicher- und
-Verarbeitungsmedium darf, soweit dies zulässig ist, nur verlängert
-werden, wenn die Ausstellungsvoraussetzungen weiterhin vorliegen.
+(5) Der Reiseausweis für Ausländer ohne Chip darf, soweit dies
+zulässig ist, nur verlängert werden, wenn die
+Ausstellungsvoraussetzungen weiterhin vorliegen.
 
 
 #### § 6 Ausstellung des Reiseausweises für Ausländer im Inland
@@ -454,33 +449,31 @@ ausgestellt werden,
 
 
 In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für
-Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium
-ausgestellt. Die ausstellende Behörde darf in den Fällen des Satzes 1
-Nummer 3 und 4 Ausnahmen von § 5 Absatz 2 und 3 sowie in den Fällen
-des Satzes 1 Nummer 3 Ausnahmen von § 5 Absatz 4 zulassen. Bei
-Ausländern, denen nach einer Aufnahmezusage nach § 23 Absatz 4 des
-Aufenthaltsgesetzes eine Aufenthaltserlaubnis erteilt worden ist, ist
-die Erlangung eines Passes oder Passersatzes regelmäßig nicht
-zumutbar. Dies gilt entsprechend für Ausländer, die bis zum Ablauf des
-31\. Juli 2015 im Rahmen des Programms zur dauerhaften Neuansiedlung
-von Schutzsuchenden (Resettlement-Flüchtlinge) einen Aufenthaltstitel
-nach § 23 Absatz 2 des Aufenthaltsgesetzes erhalten haben.
+Ausländer ohne Chip ausgestellt. Die ausstellende Behörde darf in den
+Fällen des Satzes 1 Nummer 3 und 4 Ausnahmen von § 5 Absatz 2 und 3
+sowie in den Fällen des Satzes 1 Nummer 3 Ausnahmen von § 5 Absatz 4
+zulassen. Bei Ausländern, denen nach einer Aufnahmezusage nach § 23
+Absatz 4 des Aufenthaltsgesetzes eine Aufenthaltserlaubnis erteilt
+worden ist, ist die Erlangung eines Passes oder Passersatzes
+regelmäßig nicht zumutbar. Dies gilt entsprechend für Ausländer, die
+bis zum Ablauf des 31. Juli 2015 im Rahmen des Programms zur
+dauerhaften Neuansiedlung von Schutzsuchenden (Resettlement-
+Flüchtlinge) einen Aufenthaltstitel nach § 23 Absatz 2 des
+Aufenthaltsgesetzes erhalten haben.
 
 
 #### § 7 Ausstellung des Reiseausweises für Ausländer im Ausland
 
-(1) Im Ausland darf ein Reiseausweis für Ausländer ohne elektronisches
-Speicher- und Verarbeitungsmedium nach Maßgabe des § 5 ausgestellt
-werden, um dem Ausländer die Einreise in das Bundesgebiet zu
-ermöglichen, sofern die Voraussetzungen für die Erteilung eines
-hierfür erforderlichen Aufenthaltstitels vorliegen.
+(1) Im Ausland darf ein Reiseausweis für Ausländer ohne Chip nach
+Maßgabe des § 5 ausgestellt werden, um dem Ausländer die Einreise in
+das Bundesgebiet zu ermöglichen, sofern die Voraussetzungen für die
+Erteilung eines hierfür erforderlichen Aufenthaltstitels vorliegen.
 
-(2) Im Ausland darf ein Reiseausweis für Ausländer ohne elektronisches
-Speicher- und Verarbeitungsmedium zudem nach Maßgabe des § 5 einem in
-§ 28 Abs. 1 Satz 1 Nr. 1 bis 3 des Aufenthaltsgesetzes bezeichneten
-ausländischen Familienangehörigen oder dem Lebenspartner eines
-Deutschen erteilt werden, wenn dieser im Ausland mit dem Deutschen in
-familiärer Lebensgemeinschaft lebt.
+(2) Im Ausland darf ein Reiseausweis für Ausländer ohne Chip zudem
+nach Maßgabe des § 5 einem in § 28 Abs. 1 Satz 1 Nr. 1 bis 3 des
+Aufenthaltsgesetzes bezeichneten ausländischen Familienangehörigen
+oder dem Lebenspartner eines Deutschen erteilt werden, wenn dieser im
+Ausland mit dem Deutschen in familiärer Lebensgemeinschaft lebt.
 
 
 #### § 8 Gültigkeitsdauer des Reiseausweises für Ausländer
@@ -1104,8 +1097,7 @@ andererseits über die Freizügigkeit vom Erfordernis eines
 Aufenthaltstitels befreit. Soweit in dem Abkommen vorgesehen ist, dass
 das Aufenthaltsrecht durch eine Aufenthaltserlaubnis bescheinigt wird,
 wird nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes diese
-Aufenthaltserlaubnis auf Antrag als Dokument mit elektronischem
-Speicher- und Verarbeitungsmedium ausgestellt.
+Aufenthaltserlaubnis auf Antrag als Dokument mit Chip ausgestellt.
 
 
 ##### § 29 Befreiung in Rettungsfällen
@@ -1140,9 +1132,6 @@ Ausländer vom Erfordernis eines Aufenthaltstitels befreit, wenn sie
 
 ### Abschnitt 3 - Visumverfahren
 
-
-
-#### § 30a (weggefallen)
 
 
 #### § 31 Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -2028,19 +2017,19 @@ An Gebühren sind zu erheben
 
 
 
-### § 45a (weggefallen)
+### § 45a Gebühren für Expressverfahren
 
+Für die Ausstellung eines Aufenthaltstitels nach § 78 Absatz 1 Satz 1
+des Aufenthaltsgesetzes in eilbedürftigen Fällen (Expressverfahren)
+ist zu den Gebührentatbeständen nach den §§ 44, 44a, 45 und 45c eine
+zusätzliche Gebühr in Höhe von 35 Euro zu erheben.
 
 
 ### § 45b Gebühren für Aufenthaltstitel in Ausnahmefällen
 
-(1) Für die Ausstellung eines Aufenthaltstitels in den Fällen des §
-78a Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes ist eine Gebühr
-in Höhe von 50 Euro zu erheben.
-
-(2) Für die Ausstellung eines Aufenthaltstitels in den Fällen des §
-78a Absatz 1 Satz 1 Nummer 2 des Aufenthaltsgesetzes ermäßigt sich die
-nach den §§ 44, 44a oder § 45 zu erhebende Gebühr um 44 Euro.
+Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1
+des Aufenthaltsgesetzes ermäßigt sich die nach den §§ 44, 44a oder 45
+zu erhebende Gebühr um 44 Euro.
 
 
 ### § 45c Gebühr bei Neuausstellung
@@ -2062,8 +2051,8 @@ Neuausstellung notwendig wird auf Grund
     Aufenthaltsgesetzes,
 
 
-4.  des Verlustes der technischen Funktionsfähigkeit des elektronischen
-    Speicher- und Verarbeitungsmediums oder
+4.  des Verlustes der technischen Funktionsfähigkeit des
+    Chip                    oder
 
 
 5.  der Beantragung nach § 105b Satz 2 des Aufenthaltsgesetzes.
@@ -2735,10 +2724,9 @@ die Erteilung eines nationalen Visums befreit.
 
 (2) Bei Staatsangehörigen der Schweiz entspricht die Gebühr nach § 45
 für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die
-auf Antrag als Dokument mit elektronischem Speicher- und
-Verarbeitungsmedium nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes
-ausgestellt wird, der Höhe der für die Ausstellung von
-Personalausweisen an Deutsche erhobenen Gebühr. Wird die
+auf Antrag als Dokument mit Chip nach § 78 Absatz 1 Satz 2 des
+Aufenthaltsgesetzes ausgestellt wird, der Höhe der für die Ausstellung
+von Personalausweisen an Deutsche erhobenen Gebühr. Wird die
 Aufenthaltserlaubnis für eine Person ausgestellt, die zum Zeitpunkt
 der Antragstellung noch nicht 24 Jahre alt ist, beträgt die Gebühr
 jeweils die Höhe, die für die Ausstellung von Personalausweisen an
@@ -2757,79 +2745,67 @@ genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im
 Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge oder
 subsidiär Schutzberechtigter im Sinne des § 4 Absatz 1 des
-Asylgesetzes genießen, sind von den Gebühren nach
+Asylgesetzes genießen, sind befreit von den Gebühren nach
 
-1.  § 44 Nr. 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47 Abs. 1 Nr.
-    11 für die Erteilung, Neuausstellung sowie Ausstellung und Übertragung
-    der Niederlassungserlaubnis in Ausnahmefällen,
+1.  § 44 Nummer 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und 47 Absatz 1
+    Nummer 11 für die Erteilung, Neuausstellung sowie Ausstellung und
+    Übertragung der Niederlassungserlaubnis in Ausnahmefällen,
 
 
-2.  § 45 Nr. 1 und 2, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47 Abs. 1
-    Nr. 11 für die Erteilung, Verlängerung, Neuausstellung sowie
-    Ausstellung und Übertragung der Aufenthaltserlaubnis in
+2.  § 45 Nummer 1 und 2, § 45c Absatz 1 Nummer 1 und 2, § 45b und 47
+    Absatz 1 Nummer 11 für die Erteilung, Verlängerung, Neuausstellung
+    sowie Ausstellung und Übertragung der Aufenthaltserlaubnis in
     Ausnahmefällen,
 
 
-3.  § 47 Abs. 1 Nr. 8 für die Ausstellung einer Fiktionsbescheinigung,
+3.  § 47 Absatz 1 Nummer 8 für die Ausstellung einer Fiktionsbescheinigung
+    sowie
 
 
-4.  § 49 Abs. 1 und 2 für die Bearbeitung von Anträgen auf Vornahme der in
-    den Nummern 1 und 2 genannten Amtshandlungen sowie
+4.  § 49 Absatz 1 und 2 für die Bearbeitung von Anträgen auf Vornahme der
+    in den Nummern 1 und 2 genannten Amtshandlungen.
 
-
-5.  § 45a für die Vornahme der den elektronischen Identitätsnachweis
-    betreffenden Amtshandlungen
-
-
-
-befreit.
-
-(4) Personen, die aus besonders gelagerten politischen Interessen der
-Bundesrepublik Deutschland ein Aufenthaltsrecht nach § 23 Abs. 2 des
-Aufenthaltsgesetzes erhalten, sind von den Gebühren nach
-
-1.  § 44 Nr. 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47 Abs. 1 Nr.
-    11 für die Erteilung, Neuausstellung sowie Ausstellung und Übertragung
-    der Niederlassungserlaubnis in Ausnahmefällen,
-
-
-2.  § 49 Abs. 1 und 2 für die Bearbeitung von Anträgen auf Vornahme der in
-    Nummer 1 genannten Amtshandlungen sowie
-
-
-3.  § 45a für die Vornahme der den elektronischen Identitätsnachweis
-    betreffenden Amtshandlungen
 
 
 
-befreit.
+(4) Personen, die aus besonders gelagerten politischen Interessen der
+Bundesrepublik Deutschland ein Aufenthaltsrecht nach § 23 Absatz 2 des
+Aufenthaltsgesetzes erhalten, sind befreit von den Gebühren nach
+
+1.  § 44 Nummer 3, § 45 Absatz 1 Nummer 1 und 2, § 45b und 47 Absatz 1
+    Nummer 11 für die Erteilung, Neuausstellung sowie Ausstellung und
+    Übertragung der Niederlassungserlaubnis in Ausnahmefällen sowie
+
+
+2.  § 49 Absatz 1 und 2 für die Bearbeitung von Anträgen auf Vornahme der
+    in Nummer 1 genannten Amtshandlungen.
+
+
+
 
 (5) Ausländer, die für ihren Aufenthalt im Bundesgebiet ein Stipendium
-aus öffentlichen Mitteln erhalten, sind von den Gebühren nach
+aus öffentlichen Mitteln erhalten, sind befreit von den Gebühren nach
 
 1.  § 46 Absatz 2 Nummer 1 für die Erteilung eines nationalen Visums,
 
 
-2.  § 45 Nr. 1 und 2, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47 Abs. 1
-    Nr. 11 für die Erteilung, Verlängerung, Neuausstellung sowie
-    Ausstellung und Übertragung der Aufenthaltserlaubnis in
+2.  § 45 Nummer 1 und 2, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47
+    Absatz 1 Nummer 11 für die Erteilung, Verlängerung, Neuausstellung
+    sowie Ausstellung und Übertragung der Aufenthaltserlaubnis in
     Ausnahmefällen,
 
 
-3.  § 47 Abs. 1 Nr. 8 für die Erteilung einer Fiktionsbescheinigung,
+3.  § 47 Absatz 1 Nummer 8 für die Erteilung einer Fiktionsbescheinigung
+    sowie
 
 
-4.  § 49 Abs. 2 für die Bearbeitung von Anträgen auf Vornahme der in
-    Nummer 2 genannten Amtshandlungen sowie
-
-
-5.  § 45a für die Vornahme der den elektronischen Identitätsnachweis
-    betreffenden Amtshandlungen
+4.  § 49 Absatz 2 für die Bearbeitung von Anträgen auf Vornahme der in
+    Nummer 2 genannten Amtshandlungen.
 
 
 
-befreit. Satz 1 Nr. 1 gilt auch für die Ehegatten oder Lebenspartner
-und minderjährigen ledigen Kinder, soweit diese in die Förderung
+Satz 1 Nummer 1 gilt auch für die Ehegatten oder Lebenspartner und
+minderjährigen ledigen Kinder, soweit diese in die Förderung
 einbezogen sind.
 
 (6) Zugunsten von Ausländern, die im Bundesgebiet kein Arbeitsentgelt
@@ -2934,15 +2910,11 @@ Gebühren nach
 
 
 8.  § 48 Abs. 1 Nr. 10 und 12 für die Erteilung und Verlängerung eines
-    Ausweisersatzes,
+    Ausweisersatzes und
 
 
 9.  § 49 Abs. 2 für die Bearbeitung von Anträgen auf Vornahme der in den
-    Nummern 1 bis 3 und 6 bis 8 bezeichneten Amtshandlungen und
-
-
-10. § 45a für die Vornahme der den elektronischen Identitätsnachweis
-    betreffenden Amtshandlungen
+    Nummern 1 bis 3 und 6 bis 8 bezeichneten Amtshandlungen
 
 
 
@@ -3111,12 +3083,11 @@ Ausweisersatz, so hat er der zuständigen Ausländerbehörde jedes dieser
 Papiere unverzüglich vorzulegen.
 
 
-### § 57a Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 des Aufenthaltsgesetzes
+### § 57a Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes
 
 Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2
-Nummer 2 bis 4 des Aufenthaltsgesetzes als Dokument mit elektronischem
-Speicher- und Verarbeitungsmedium ausgestellt worden ist, ist
-verpflichtet, unverzüglich
+Nummer 2 bis 4 des Aufenthaltsgesetzes als Dokument mit Chip
+ausgestellt worden ist, ist verpflichtet, unverzüglich
 
 1.  der für den Wohnort, ersatzweise der für den Aufenthaltsort im Inland
     zuständigen Ausländerbehörde oder einer anderen nach Landesrecht
@@ -3128,9 +3099,8 @@ verpflichtet, unverzüglich
 
 
 2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des
-    elektronischen Speicher- und Verarbeitungsmediums der zuständigen
-    Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu
-    beantragen.
+    Chip                    der zuständigen Ausländerbehörde das Dokument
+    vorzulegen und die Neuausstellung zu beantragen.
 
 
 
@@ -3226,9 +3196,8 @@ verwenden:
         Aufenthaltsgesetzes) das in Anlage D11 abgedruckte Muster,
 
 
-    c)  zum Aufenthaltstitel mit elektronischem Speicher- und
-        Verarbeitungsmedium (§ 78 Absatz 1 des Aufenthaltsgesetzes) das in
-        Anlage D11a abgedruckte Muster,
+    c)  zum Aufenthaltstitel mit Chip (§ 78 Absatz 1 des Aufenthaltsgesetzes)
+        das in Anlage D11a abgedruckte Muster,
 
 
 
@@ -3243,9 +3212,8 @@ verwenden:
     Muster und
 
 
-14. für die Änderung der Anschrift auf Dokumenten mit elektronischem
-    Speicher- und Verarbeitungsmedium (§ 78 Absatz 7 Satz 2 des
-    Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster.
+14. für die Änderung der Anschrift auf Dokumenten mit Chip (§ 78 Absatz 7
+    Satz 2 des Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster.
 
 
 
@@ -3265,26 +3233,24 @@ Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu
 verwenden.
 
 (2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des
-Aufenthaltsgesetzes als eigenständige Dokumente mit elektronischem
-Speicher- und Verarbeitungsmedium auszustellen sind, sowie die Muster
-der Aufenthalts- und Daueraufenthaltskarten, Aufenthaltsdokumente-GB
-und Aufenthaltsdokumente für Grenzgänger-GB, die nach § 11 Absatz 3
-Satz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1
-des Aufenthaltsgesetzes als Dokumente mit elektronischem Speicher- und
-Verarbeitungsmedium auszustellen sind, richten sich nach der
-Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur
-einheitlichen Gestaltung des Aufenthaltstitels für
-Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) in der jeweils
-geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach
-Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen
-Gemeinschaft und ihren Mitgliedstaaten einerseits und der
-Schweizerischen Eidgenossenschaft andererseits auf Antrag als
-Dokumente mit elektronischem Speicher- und Verarbeitungsmedium
-ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2
-sind in Anlage D14a abgedruckt. Aufenthaltstitel nach § 78 Absatz 1 in
-Verbindung mit § 4 Absatz 1 Satz 2 Nummer 4 des Aufenthaltsgesetzes,
-die gemäß dem bis zum 1. Dezember 2013 zu verwendenden Muster der
-Anlage D14a ausgestellt wurden, behalten ihre Gültigkeit.
+Aufenthaltsgesetzes als eigenständige Dokumente mit Chip auszustellen
+sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten,
+Aufenthaltsdokumente-GB und Aufenthaltsdokumente für Grenzgänger-GB,
+die nach § 11 Absatz 3 Satz 1 des Freizügigkeitsgesetzes/EU in
+Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit
+Chip auszustellen sind, richten sich nach der Verordnung (EG) Nr.
+1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des
+Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom
+15\.6.2002, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für
+Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni
+1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten
+einerseits und der Schweizerischen Eidgenossenschaft andererseits auf
+Antrag als Dokumente mit Chip ausgestellt werden. Die Muster für
+Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt.
+Aufenthaltstitel nach § 78 Absatz 1 in Verbindung mit § 4 Absatz 1
+Satz 2 Nummer 4 des Aufenthaltsgesetzes, die gemäß dem bis zum 1.
+Dezember 2013 zu verwendenden Muster der Anlage D14a ausgestellt
+wurden, behalten ihre Gültigkeit.
 
 (2a) Auf Antrag des Ausländers wird bei Dokumenten nach Absatz 2 Satz
 1 und Satz 2 durch die zuständige Ausländerbehörde entweder bei
@@ -3492,27 +3458,25 @@ für Bau und Heimat festgelegt und bekannt gemacht.
 
 
 
-#### Unterabschnitt 1 - Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
+#### Unterabschnitt 1 - Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
 
 
 
-##### § 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium
+##### § 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip
 
 (1) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken
-und rechten Zeigefingers des Antragstellers im elektronischen
-Speicher- und Verarbeitungsmedium des Dokuments gespeichert. Bei
-Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks
-oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck
-entweder des Daumens, des Mittelfingers oder des Ringfingers
-gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme
-der Fingerabdrücke aus medizinischen Gründen, die nicht nur
-vorübergehender Art sind, unmöglich ist.
+und rechten Zeigefingers des Antragstellers im Chip des Dokuments
+gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des
+Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der
+flache Abdruck entweder des Daumens, des Mittelfingers oder des
+Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn
+die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht
+nur vorübergehender Art sind, unmöglich ist.
 
 (2) Auf Verlangen hat die Ausländerbehörde dem Dokumenteninhaber
-Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium
-gespeicherten Daten zu gewähren. Die bei der Ausländerbehörde
-gespeicherten Fingerabdrücke sind spätestens nach Aushändigung des
-Dokuments zu löschen.
+Einsicht in die im Chip gespeicherten Daten zu gewähren. Die bei der
+Ausländerbehörde gespeicherten Fingerabdrücke sind spätestens nach
+Aushändigung des Dokuments zu löschen.
 
 
 ##### § 61b Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
@@ -3534,22 +3498,20 @@ der Informationstechnik in der jeweils geltenden Fassung entsprechen.
 Diese Technischen Richtlinien sind vom Bundesamt für Sicherheit in der
 Informationstechnik im Bundesanzeiger zu veröffentlichen.
 
-(4) Beantragung, Ausstellung und Ausgabe von Dokumenten mit
-elektronischem Speicher- und Verarbeitungsmedium dürfen nicht zum
-Anlass genommen werden, die dafür erforderlichen Angaben und die
-biometrischen Merkmale außer bei den zuständigen Ausländerbehörden zu
-speichern. Entsprechendes gilt für die zur Ausstellung erforderlichen
-Antragsunterlagen sowie für personenbezogene fotografische Datenträger
-(Mikrofilme).
+(4) Beantragung, Ausstellung und Ausgabe von Dokumenten mit Chip
+dürfen nicht zum Anlass genommen werden, die dafür erforderlichen
+Angaben und die biometrischen Merkmale außer bei den zuständigen
+Ausländerbehörden zu speichern. Entsprechendes gilt für die zur
+Ausstellung erforderlichen Antragsunterlagen sowie für
+personenbezogene fotografische Datenträger (Mikrofilme).
 
 (5) Eine zentrale, alle Seriennummern umfassende Speicherung darf nur
 bei dem Dokumentenhersteller und ausschließlich zum Nachweis des
-Verbleibs der Dokumente mit elektronischem Speicher- und
-Verarbeitungsmedium erfolgen. Die Speicherung weiterer Angaben
-einschließlich der biometrischen Daten bei dem Dokumentenhersteller
-ist unzulässig, soweit sie nicht ausschließlich und vorübergehend der
-Herstellung der Dokumente dient; die Angaben sind anschließend zu
-löschen.
+Verbleibs der Dokumente mit Chip erfolgen. Die Speicherung weiterer
+Angaben einschließlich der biometrischen Daten bei dem
+Dokumentenhersteller ist unzulässig, soweit sie nicht ausschließlich
+und vorübergehend der Herstellung der Dokumente dient; die Angaben
+sind anschließend zu löschen.
 
 (6) Die Seriennummern dürfen nicht so verwendet werden, dass mit ihrer
 Hilfe ein Abruf personenbezogener Daten aus Dateisystemen oder eine
@@ -3562,9 +3524,9 @@ dürfen die Seriennummern verwendet werden:
 
 2.  durch die Polizeibehörden und -dienststellen des Bundes und der Länder
     für den Abruf der in Dateisystemen gespeicherten Seriennummern solcher
-    Dokumente mit elektronischem Speicher- und Verarbeitungsmedium, die
-    für ungültig erklärt worden sind, abhanden gekommen sind oder bei
-    denen der Verdacht einer Benutzung durch Nichtberechtigte besteht.
+    Dokumente mit Chip, die für ungültig erklärt worden sind, abhanden
+    gekommen sind oder bei denen der Verdacht einer Benutzung durch
+    Nichtberechtigte besteht.
 
 
 
@@ -3660,13 +3622,12 @@ hinsichtlich der Vorgaben zur zentralen Qualitätssicherungsstatistik.
 ##### § 61f Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich
 
 (1) Behörden und sonstige öffentliche Stellen dürfen Dokumente mit
-elektronischem Speicher- und Verarbeitungsmedium nicht zum
-automatischen Abruf personenbezogener Daten verwenden. Abweichend von
-Satz 1 dürfen die Polizeibehörden und -dienststellen des Bundes und
-der Länder sowie, soweit sie Aufgaben der Grenzkontrolle wahrnehmen,
-die Zollbehörden Dokumente mit elektronischem Speicher- und
-Verarbeitungsmedium im Rahmen ihrer Aufgaben und Befugnisse zum
-automatischen Abruf personenbezogener Daten verwenden, die für Zwecke
+Chip nicht zum automatischen Abruf personenbezogener Daten verwenden.
+Abweichend von Satz 1 dürfen die Polizeibehörden und -dienststellen
+des Bundes und der Länder sowie, soweit sie Aufgaben der
+Grenzkontrolle wahrnehmen, die Zollbehörden Dokumente mit Chip im
+Rahmen ihrer Aufgaben und Befugnisse zum automatischen Abruf
+personenbezogener Daten verwenden, die für Zwecke
 
 1.  der Grenzkontrolle,
 
@@ -3683,8 +3644,7 @@ Regelungen nach Absatz 2 keine personenbezogenen Aufzeichnungen
 gefertigt werden.
 
 (2) Personenbezogene Daten dürfen, soweit gesetzlich nichts anderes
-bestimmt ist, beim automatischen Lesen des Dokuments mit
-elektronischem Speicher- und Verarbeitungsmedium nicht in
+bestimmt ist, beim automatischen Lesen des Dokuments mit Chip nicht in
 Dateisystemen gespeichert werden; dies gilt auch für Abrufe aus dem
 polizeilichen Fahndungsbestand, die zu einer Feststellung geführt
 haben.
@@ -3737,7 +3697,9 @@ Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 ##### § 62 Dateisystemführungspflicht der Ausländerbehörden
 
 Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen
-"Ausländerdatei A" und "Ausländerdatei B".
+"Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der
+Ausländerdatei A entfällt, sofern die Speicherung der Daten im
+Ausländerzentralregister erfolgt.
 
 
 ##### § 63 Ausländerdatei A
@@ -4989,9 +4951,8 @@ Gesetzes. Soweit bis dahin die Angaben noch nicht gespeichert worden
 sind, sind die Ausländerbehörden verpflichtet, unverzüglich ihre
 Speicherung nachzuholen.
 
-Übergangsregelung
 
-### § 82b zu § 31 Absatz 1 Satz 1 Nummer 1 und 2
+### § 82b Übergangsregelung zu § 31 Absatz 1 Satz 1 Nummer 1 und 2
 
 Bis zur vollständigen Umsetzung des § 31 Absatz 1 Satz 1 Nummer 1 und
 2 im automatisierten Visumverfahren des Bundesverwaltungsamtes,
@@ -5422,6 +5383,7 @@ b)  nach Beendigung eines erlaubten Aufenthalts in einem der vorstehend
 Der Weiterflug muss innerhalb von zwölf Stunden nach der Ankunft in
 Deutschland von demjenigen Flughafen ausgehen, in dessen
 Transitbereich sich der Ausländer ausschließlich befindet.
+Kuba
 Libanon
 Mali
 Sudan
@@ -5871,9 +5833,10 @@ werden können, sollen nur in einem Trägervordruck nach Anlage D1 oder
 D2b oder auf einem Etikett nach dieser Anlage eingetragen werden.
 
 
-### Anlage D11a Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
+### Anlage D11a Zusatzblatt zum Aufenthaltstitel mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-(Fundstelle: BGBl. I 2011, 1538 - 1539)
+(Fundstelle: BGBl. I 2011, 1538 - 1539;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## - Vorderseite -
 
@@ -5948,9 +5911,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage D14a Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
+### Anlage D14a Dokumente mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-   (Fundstelle: BGBl. I 2021, 3694 - 3703)
+   (Fundstelle: BGBl. I 2021, 3694 - 3703;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Vorderseite –
 

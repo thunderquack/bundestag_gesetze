@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3. 2.1995 I 158;
 
 Zuletzt geändert durch
-:   Art. 116 G v. 10.8.2021 I 3436
+:   Art. 3 G v. 28.6.2023 I Nr. 172
 
 
 ## § 1 Arbeitnehmerüberlassung, Erlaubnispflicht
@@ -710,7 +710,8 @@ Leiharbeitnehmer erhalten das Merkblatt und den Nachweis nach Absatz 1
 auf Verlangen in ihrer Muttersprache. Die Kosten des Merkblatts trägt
 der Verleiher. Der Verleiher hat den Leiharbeitnehmer vor jeder
 Überlassung darüber zu informieren, dass er als Leiharbeitnehmer tätig
-wird.
+wird, und ihm die Firma und Anschrift des Entleihers, dem er
+überlassen wird, in Textform mitzuteilen.
 
 (3) Der Verleiher hat den Leiharbeitnehmer unverzüglich über den
 Zeitpunkt des Wegfalls der Erlaubnis zu unterrichten. In den Fällen
@@ -725,6 +726,12 @@ anzuwenden. Das Recht des Leiharbeitnehmers auf Vergütung bei
 Annahmeverzug des Verleihers (§ 615 Satz 1 des Bürgerlichen
 Gesetzbuchs) kann nicht durch Vertrag aufgehoben oder beschränkt
 werden; § 615 Satz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.
+Das Recht des Leiharbeitnehmers auf Vergütung kann durch Vereinbarung
+von Kurzarbeit für den Arbeitsausfall und für die Dauer aufgehoben
+werden, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem Dritten
+Buch Sozialgesetzbuch gezahlt wird; eine solche Vereinbarung kann das
+Recht des Leiharbeitnehmers auf Vergütung bis längstens zum Ablauf des
+30\. Juni 2022 ausschließen.
 
 (5) Der Entleiher darf Leiharbeitnehmer nicht tätig werden lassen,
 wenn sein Betrieb unmittelbar durch einen Arbeitskampf betroffen ist.
@@ -768,15 +775,14 @@ gemacht, so gilt der Entleiher als Arbeitgeber im Sinne des Gesetzes
 
 ## § 11a Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, für den Fall außergewöhnlicher
-Verhältnisse auf dem Arbeitsmarkt durch Rechtsverordnung ohne
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4
 Satz 2 geregelte Recht des Leiharbeitnehmers auf Vergütung bei
 Vereinbarung von Kurzarbeit für den Arbeitsausfall und für die Dauer
 aufgehoben ist, für die dem Leiharbeitnehmer Kurzarbeitergeld nach dem
 Dritten Buch Sozialgesetzbuch gezahlt wird. Die Verordnung ist
-zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 31.
-Dezember 2021 außer Kraft.
+zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 30. Juni
+2023 außer Kraft.
 
 
 ## § 12 Rechtsbeziehungen zwischen Verleiher und Entleiher
@@ -815,13 +821,22 @@ gilt nicht, soweit die Voraussetzungen der in § 8 Absatz 2 und 4 Satz
 2 genannten Ausnahme vorliegen.
 
 
-## § 13a Informationspflicht des Entleihers über freie Arbeitsplätze
+## § 13a Informationspflicht des Entleihers über freie Arbeitsplätze und Übernahmegesuch des Leiharbeitnehmers
 
-Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des
+(1) Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des
 Entleihers, die besetzt werden sollen, zu informieren. Die Information
 kann durch allgemeine Bekanntgabe an geeigneter, dem Leiharbeitnehmer
 zugänglicher Stelle im Betrieb und Unternehmen des Entleihers
 erfolgen.
+
+(2) Der Entleiher hat einem Leiharbeitnehmer, der ihm seit mindestens
+sechs Monaten überlassen ist und der ihm in Textform den Wunsch nach
+dem Abschluss eines Arbeitsvertrages angezeigt hat, innerhalb eines
+Monats nach Zugang der Anzeige eine begründete Antwort in Textform
+mitzuteilen. Satz 1 gilt nicht, sofern der Leiharbeitnehmer dem
+Entleiher diesen Wunsch in den letzten zwölf Monaten bereits einmal
+angezeigt hat. Für die Bestimmung der Dauer der Überlassung nach Satz
+1 gilt § 1 Absatz 1b Satz 2 entsprechend.
 
 
 ## § 13b Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten
@@ -859,10 +874,12 @@ Leiharbeitnehmer auch im Entleiherbetrieb zu berücksichtigen. Soweit
 Bestimmungen des Mitbestimmungsgesetzes, des Montan-
 Mitbestimmungsgesetzes, des Mitbestimmungsergänzungsgesetzes, des
 Drittelbeteiligungsgesetzes, des Gesetzes über die Mitbestimmung der
-Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung, des SE-
-und des SCE-Beteiligungsgesetzes oder der auf Grund der jeweiligen
-Gesetze erlassenen Wahlordnungen eine bestimmte Anzahl oder einen
-bestimmten Anteil von Arbeitnehmern voraussetzen, sind
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung, des
+Gesetzes über die Mitbestimmung der Arbeitnehmer bei
+grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung,
+des SE- und des SCE-Beteiligungsgesetzes oder der auf Grund der
+jeweiligen Gesetze erlassenen Wahlordnungen eine bestimmte Anzahl oder
+einen bestimmten Anteil von Arbeitnehmern voraussetzen, sind
 Leiharbeitnehmer auch im Entleiherunternehmen zu berücksichtigen.
 Soweit die Anwendung der in Satz 5 genannten Gesetze eine bestimmte
 Anzahl oder einen bestimmten Anteil von Arbeitnehmern erfordert, sind
@@ -1018,8 +1035,8 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
     lässt,
 
 
-9.  entgegen § 13a Satz 1 den Leiharbeitnehmer nicht, nicht richtig oder
-    nicht vollständig informiert,
+9.  entgegen § 13a Absatz 1 Satz 1 den Leiharbeitnehmer nicht, nicht
+    richtig oder nicht vollständig informiert,
 
 
 10. entgegen § 13b Satz 1 Zugang nicht gewährt,
@@ -1051,32 +1068,30 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
     nicht rechtzeitig macht,
 
 
-16. entgegen § 17b Absatz 2 eine Versicherung nicht beifügt,
-
-
-17. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht
+16. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht
     mindestens zwei Jahre aufbewahrt oder
 
 
-18. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht
+17. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Weise bereithält.
 
 
 
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis
-18 kann mit einer Geldbuße bis zu dreißigtausend Euro, die
+17 kann mit einer Geldbuße bis zu dreißigtausend Euro, die
 Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer
 Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach
 Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1
-Nummer 4, 5, 6a und 8 mit einer Geldbuße bis zu tausend Euro geahndet
-werden.
+Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und die
+Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5 und 6a mit einer Geldbuße
+bis zu tausend Euro geahndet werden.
 
 (3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1
-Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 18 die Behörden
+Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 17 die Behörden
 der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen
 des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die
 Bundesagentur für Arbeit.
@@ -1114,7 +1129,7 @@ unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach §
 ## § 17b Meldepflicht
 
 (1) Überlässt ein Verleiher mit Sitz im Ausland einen Leiharbeitnehmer
-zur Arbeitsleistung einem Entleiher, hat der Entleiher, sofern eine
+zur Arbeitsleistung einem Entleiher, hat der Verleiher, sofern eine
 Rechtsverordnung nach § 3a auf das Arbeitsverhältnis Anwendung findet,
 vor Beginn jeder Überlassung der zuständigen Behörde der
 Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit
@@ -1141,18 +1156,14 @@ folgenden Angaben zuzuleiten:
 6.  Branche, in die die Leiharbeitnehmer überlassen werden sollen, und
 
 
-7.  Familienname, Vornamen oder Firma sowie Anschrift des Verleihers.
+7.  Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
 
 
 
-Änderungen bezüglich dieser Angaben hat der Entleiher unverzüglich zu
+Änderungen bezüglich dieser Angaben hat der Verleiher unverzüglich zu
 melden.
 
-(2) Der Entleiher hat der Anmeldung eine Versicherung des Verleihers
-beizufügen, dass dieser seine Verpflichtungen nach § 8 Absatz 5
-einhält.
-
-(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne
 Zustimmung des Bundesrates bestimmen,
 
@@ -1171,7 +1182,7 @@ Zustimmung des Bundesrates bestimmen,
 
 
 
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
+(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
 Satz 1 bestimmen.
 

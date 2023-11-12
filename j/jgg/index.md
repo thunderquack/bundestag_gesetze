@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.12.1974 I 3427;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 25 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 8 G v. 3.6.2021 I 1444 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 16.6.2021 I 1810 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 25.6.2021 I 2099
 
 
 ## Erster Teil - Anwendungsbereich
@@ -851,13 +842,14 @@ mehrerer Amtsgerichte bestellt ist, kann hiervon abgewichen werden.
 
 (3) Familiengerichtliche Erziehungsaufgaben sind
 
-1.  die Unterstützung der Eltern, des Vormundes und des Pflegers durch
-    geeignete Maßnahmen (§ 1631 Abs. 3, §§ 1800, 1915 des Bürgerlichen
-    Gesetzbuches),
+1.  die Unterstützung der Eltern, des Vormunds und des Pflegers durch
+    geeignete Maßnahmen (§ 1631 Absatz 3, § 1802 Absatz 1 Satz 1, § 1813
+    Absatz 1 des Bürgerlichen Gesetzbuchs),
 
 
 2.  die Maßnahmen zur Abwendung einer Gefährdung des Jugendlichen (§§
-    1666, 1666a, 1837 Abs. 4, § 1915 des Bürgerlichen Gesetzbuches).
+    1666, 1666a, auch in Verbindung mit § 1802 Absatz 2 Satz 3 und § 1813
+    Absatz 1 des Bürgerlichen Gesetzbuches).
 
 
 3.  (weggefallen)
@@ -3250,8 +3242,6 @@ Unterbringung in der Sicherungsverwahrung nachträglich anordnen, wenn
 
 
 
-
-(7) (weggefallen)
 
 
 ### Zweiter Abschnitt - Gerichtsverfassung und Verfahren

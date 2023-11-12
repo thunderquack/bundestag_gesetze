@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1928
 
-Geändert durch
-:   Art. 284 V v. 19.6.2020 I 1328
+Zuletzt geändert durch
+:   Art. 2 Abs. 28 G v. 20.12.2022 I 2752
 
 
 ## § 1 Anwendungsbereich
@@ -289,11 +289,8 @@ Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance
 Verordnung (EU) Nr. 1306/2013 sind nicht durchzuführen.
 
 
-## § 6 Verkündung von Rechtsverordnungen
+## § 6 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ## § 7 Übergangsregelungen

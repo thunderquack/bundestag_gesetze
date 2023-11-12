@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1459
 
-Änderung durch
-:   Art. 1 Nr. 16 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 Nr. 16 V v. 5.1.2022 I 2
 
 
 ## Inhaltsverzeichnis
@@ -1178,8 +1178,8 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
                 Unionszeugnisses für Binnenschiffe nach dem 30.12.2029
 
 
-        *            *   6.06 Buch-
-                stabe b
+        *            *   6.06
+                Buchstabe b
 
             *   Schallsignalanlage
 

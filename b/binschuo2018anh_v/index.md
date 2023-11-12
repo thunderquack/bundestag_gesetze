@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398, 1475
 
 Geändert durch
-:   Art. 2 Abs. 6 Nr. 11 V v. 26.11.2021 I 4982
+:   Art. 2 Abs. 6 Nr. 11 V v. 26.11.2021 I 4982, 5204, 2023 I Nr. 144
 
 
 ## Inhaltsverzeichnis

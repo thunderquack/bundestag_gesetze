@@ -878,7 +878,7 @@ einem Vertragsschluß zwischen diesem und
 Der Vertreter ist für den Abschluß von Erbbaurechtsverträgen oder
 Kaufverträgen über das Grundstück oder das Gebäude von den
 Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs nicht befreit.
-Für die Erteilung der Genehmigung nach § 1821 des Bürgerlichen
+Für die Erteilung der Genehmigung nach § 1850 des Bürgerlichen
 Gesetzbuchs ist statt des Landkreises das Betreuungsgericht zuständig;
 ist der Vertretene minderjährig, tritt an die Stelle des
 Betreuungsgerichts das Familiengericht.

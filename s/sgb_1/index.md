@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 32 G v. 20.8.2021 I 3932
+:   Art. 4 G v. 20.12.2022 I 2759
+
+Mittelbare änderung durch
+:   Art. 18 G v. 20.12.2022 I 2759 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 22 Nr. 1 G v. 20.12.2022 I 2759 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -333,6 +339,13 @@ Inanspruchnahme öffentlicher Mittel bleibt unberührt. Im übrigen
 ergibt sich ihr Verhältnis zueinander aus den besonderen Teilen dieses
 Gesetzbuchs; § 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches
 findet keine Anwendung.
+
+(4) Die Leistungsträger arbeiten mit den Betreuungsbehörden bei der
+Erfüllung ihrer Aufgaben zur Vermittlung geeigneter Hilfen zur
+Betreuungsvermeidung zusammen. Soziale Rechte dürfen nicht deshalb
+abgelehnt, versagt oder eingeschränkt werden, weil ein rechtlicher
+Betreuer nach § 1814 Absatz 1 des Bürgerlichen Gesetzbuchs bestellt
+worden ist oder bestellt werden könnte.
 
 
 ### Zweiter Titel - Einzelne Sozialleistungen und zuständige Leistungsträger

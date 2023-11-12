@@ -49,7 +49,7 @@ und Ausfuhrkontrolle (BAFA)".
 ## § 4 Anpassung von Bezeichnungen
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesamtes
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, in Gesetzen und Rechtsverordnungen die Bezeichnungen
 "Bundesamt für gewerbliche Wirtschaft", "Bundesamt für Wirtschaft" und
 "Bundesausfuhramt" durch die Bezeichnung "Bundesamt für Wirtschaft und

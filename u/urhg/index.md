@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 4 G v. 26.11.2020 I 2568
-
-Änderung durch
-:   Art. 1 G v. 31.5.2021 I 1204 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 25 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 23.6.2021 I 1858
 
 
 ## Teil 1 - Urheberrecht

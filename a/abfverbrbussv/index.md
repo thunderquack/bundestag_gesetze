@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 1761
 
 Zuletzt geändert durch
-:   Art. 3 G v. 1.11.2016 I 2452
-
-Änderung durch
-:   Art. 2 V v. 8.11.2021 I 4899 (Nr. 78) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 9.5.2022 I 741
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -160,7 +157,7 @@ des Europäischen Parlaments und des Rates aufgeführten Abfällen, die
 zur Verwertung bestimmt sind, in bestimmte Staaten, für die der OECD-
 Beschluss über die Kontrolle der grenzüberschreitenden Verbringung von
 Abfällen nicht gilt (ABl. L 316 vom 4.12.2007, S. 6), die zuletzt
-durch die Verordnung (EU) 2021/1840 (ABl. L 373 vom 21.10.2021, S. 1)
+durch die Verordnung (EU) 2022/520 (ABl. L 104 vom 1.4.2022, S. 63)
 geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 1 in Verbindung mit Spalte a des Anhangs Abfälle

@@ -418,8 +418,7 @@ solchen Zeugnisses
 
 1.  bei Bestehen einer Ausrüstungs- oder Zulassungspflicht für
     Navigations- oder Funkausrüstung an Bord dem Bundesamt für
-    Seeschiffahrt oder Hydrographie zur Überprüfung dieser Ausrüstung
-    sowie
+    Seeschiffahrt und Hydrographie zur Überprüfung dieser Ausrüstung sowie
 
 
 2.  in jedem Fall der Berufsgenossenschaft Verkehrswirtschaft Post-

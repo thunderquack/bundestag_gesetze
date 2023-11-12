@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zum Anspruch auf Schutzimpfung gegen Influenza und Masern
+Title: Verordnung zum Anspruch auf Schutzimpfung gegen Masern
 jurabk: MasernISchImpfAnsprV
 layout: default
 origslug: masernischimpfansprv
@@ -7,7 +7,7 @@ slug: masernischimpfansprv
 
 ---
 
-# Verordnung zum Anspruch auf Schutzimpfung gegen Influenza und Masern (MasernISchImpfAnsprV)
+# Verordnung zum Anspruch auf Schutzimpfung gegen Masern (MasernISchImpfAnsprV)
 
 Ausfertigungsdatum
 :   2021-03-10
@@ -15,13 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 11.03.2021 V2
 
-Stand: V tritt gem. § 3 idF d. Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1 am 31.3.2023 außer Kraft
-Geändert durch
-:   Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1
+Zuletzt geändert durch
+:   Art. 1 V v. 29.3.2023 I Nr. 91
 
 Die geltung der v ist durch
-:   § 3 idF d. Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1 mWv 25.2.2022 über den 31.3.2022 hinaus bis zum 31.3.2023 verlängert worden
+:   § 3 idF d. Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1 über den 31.3.2022 hinaus bis zum 31.3.2023 u. durch § 3 idF d. Art. 1 Nr. 2 V v. 29.3.2023 I Nr. 91 über den 31.3.2023 hinaus verlängert worden
 
+Stand: § 1 tritt gem. § 3 idF d. Art. 1 Nr. 2 V v. 29.3.2023 I Nr. 91 am 31.3.2023 außer Kraft
 
 ## Eingangsformel
 
@@ -33,16 +33,8 @@ Ständigen Impfkommission und des Spitzenverbandes Bund der
 Krankenkassen:
 
 
-## § 1 Schutzimpfungen gegen Influenza
+## § 1 (weggefallen)
 
-Versicherte, die das 60. Lebensjahr vollendet haben, haben im Rahmen
-der Verfügbarkeit der vorhandenen Impfstoffe Anspruch auf eine
-Schutzimpfung gegen Influenza mit einem inaktivierten, quadrivalenten
-Influenza-Impfstoff mit aktueller von der Weltgesundheitsorganisation
-empfohlener Antigenkombination. Der Anspruch auf einen Influenza-
-Hochdosis-Impfstoff nach § 20i Absatz 1 des Fünften Buches
-Sozialgesetzbuch bleibt unberührt; eine Verordnung des Influenza-
-Hochdosis-Impfstoffs gilt als wirtschaftlich.
 
 
 ## § 2 Schutzimpfungen gegen Masern
@@ -62,8 +54,7 @@ eine zweite Schutzimpfung gegen Masern, insbesondere mit einem
 Kombinationsimpfstoff.
 
 
-## § 3 Inkrafttreten, Außerkrafttreten
+## § 3 Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft und am
-31\. März 2023 außer Kraft.
+§ 1 tritt am 31. März 2023 außer Kraft.
 

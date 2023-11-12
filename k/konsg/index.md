@@ -33,13 +33,18 @@ beschlossen:
 
 Die Konsularbeamten (Berufskonsularbeamte oder Honorarkonsularbeamte)
 sind berufen,
--   bei der Zusammenarbeit zwischen der Bundesrepublik
-Deutschland und dem Empfangsstaat, namentlich auf den
-Gebieten außenwirtschaftlicher und entwicklungspolitischer
-Beziehungen, des Verkehrs, der Kultur und der Rechtspflege
-mitzuwirken,
--   Deutschen sowie inländischen juristischen Personen nach
-pflichtgemäßem Ermessen Rat und Beistand zu gewähren.
+
+-   bei der Zusammenarbeit zwischen der Bundesrepublik Deutschland und dem
+    Empfangsstaat, namentlich auf den Gebieten außenwirtschaftlicher und
+    entwicklungspolitischer Beziehungen, des Verkehrs, der Kultur und der
+    Rechtspflege mitzuwirken,
+
+
+-   Deutschen sowie inländischen juristischen Personen nach pflichtgemäßem
+    Ermessen Rat und Beistand zu gewähren.
+
+
+
 
 
 ### § 2 Übertragene konsularische Aufgaben

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.12.1997; 1998 I 5;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 G v. 15.2.2016 I 198
-
-Änderung durch
-:   Art. 1 V v. 2.12.2021 I 5068 (Nr. 82) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 Abs. 3 V v. 20.6.2023 I Nr. 159
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -3843,7 +3840,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 14
 
-   (Fundstelle: BGBl. I 2021, 5070 - 5125)
+   (Fundstelle: BGBl. I 2021, 5070 - 5125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden
 Informationen:
@@ -16011,8 +16009,10 @@ gelegt wird.
 
     *   6
 
-    *   berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie
-        98/83/EG)
+    *   berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU)
+        2020/2184 des Europäischen Parlaments und des Rates vom 16. Dezember
+        2020 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
+        L 435 vom 23.12.2020, S. 1)).
 
 
 *    *   15
@@ -16032,7 +16032,7 @@ gelegt wird.
         356
         366
         367
-[^F819584_02_BJNR008660992BJNE003800125]
+[^F819584_02_BJNR008660992BJNE003801130]
         460
         476\*
 
@@ -16423,6 +16423,6 @@ gelegt wird.
 
 
 
-[^F819584_02_BJNR008660992BJNE003800125]:     Stoffnummer aus Anhang I Tabelle 1 Spalte 1 der Verordnung (EU) Nr.
+[^F819584_02_BJNR008660992BJNE003801130]:     Stoffnummer aus Anhang I Tabelle 1 Spalte 1 der Verordnung (EU) Nr.
     10/2011.
 

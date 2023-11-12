@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1554
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.9.2021 I 4386
+:   Art. 8 V v. 19.12.2022 I 2432
 
 
 ## Eingangsformel
@@ -319,7 +319,7 @@ zu übersenden, soweit nicht über die einzelne Zahlung bereits eine
 Unterrichtung erfolgt ist.
 
 
-## 4. Teil - Besondere Vorschriften zu Mitteilungen über Billigkeitsleistungen anlässlich der Corona-Krise
+## 4. Teil - Besondere Vorschriften
 
 
 
@@ -396,21 +396,23 @@ mitteilungspflichtigen Stelle unter Angabe des Datums, an dem die
 Zahlung bei der mitteilungspflichtigen Stelle eingegangen ist,
 mitzuteilen.
 
-(3) Mitteilungen über im Kalenderjahr 2020 ausgezahlte Leistungen sind
-abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach
-Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der
-Freigabe der amtlich bestimmten Schnittstelle bis zum 30. April 2021
-zu übermitteln. Das Bundesministerium der Finanzen kann im
-Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach
-Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes
-Schreiben verlängern, sofern die technischen Voraussetzungen für die
-Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten
-Antrag einer mitteilungspflichtigen Stelle kann die oberste
-Finanzbehörde desjenigen Landes, in dem die mitteilungspflichtige
-Stelle ihren Sitz hat, dieser die Frist nach Satz 1 oder Satz 2 um
-längstens zehn Monate verlängern, sofern die technischen
-Voraussetzungen für die Übersendung der Mitteilungen bei der
-mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
+(3) Mitteilungen nach Absatz 1 sind abweichend von § 93c Absatz 1
+Nummer 1 der Abgabenordnung nach Veröffentlichung des amtlich
+vorgeschriebenen Datensatzes und der Freigabe der amtlich bestimmten
+Schnittstelle bis zum 30. April des auf das Jahr der Auszahlung
+folgenden Jahres zu übermitteln. Das Bundesministerium der Finanzen
+kann im Einvernehmen mit den obersten Finanzbehörden der Länder die
+Frist nach Satz 1 durch ein im Bundessteuerblatt Teil I zu
+veröffentlichendes Schreiben verlängern, sofern die technischen
+Voraussetzungen für die Annahme der Mitteilungen nicht rechtzeitig
+vorliegen. Auf begründeten Antrag einer mitteilungspflichtigen Stelle
+kann die oberste Finanzbehörde desjenigen Landes, in dem die
+mitteilungspflichtige Stelle ihren Sitz hat, dieser die Frist nach
+Satz 1 oder Satz 2 für im Kalenderjahr 2020 ausgezahlte Leistungen um
+längstens vierzehn Monate und für im Kalenderjahr 2021 ausgezahlte
+Leistungen um längstens sechs Monate verlängern, sofern die
+technischen Voraussetzungen für die Übersendung der Mitteilungen bei
+der mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
 Bundesministerium der Finanzen ist über eine gewährte
 Fristverlängerung zu unterrichten.
 
@@ -419,9 +421,62 @@ Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2
 bleiben unberührt.
 
 
-### Schlußformel
+### § 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
 
-Der Bundesrat hat zugestimmt.
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat als
+mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den
+Finanzbehörden aus Anlass des Erdgas- und Strompreisanstiegs nach dem
+Energiekostendämpfungsprogramm bewilligte Leistungen nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+nach Maßgabe des § 93c der Abgabenordnung mitzuteilen.
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz
+1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben
+mitzuteilen:
+
+1.  die Art und die Höhe der jeweils gewährten Zahlung,
+
+
+2.  das Datum, an dem die Zahlung bewilligt wurde,
+
+
+3.  das Datum der Zahlung und
+
+
+4.  bei unbarer Zahlung die Bankverbindung für das Konto, auf das die
+    Zahlungen geleistet wurden.
+
+
+
+Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren
+Kalenderjahr ganz oder teilweise zurückerstattet, ist die Rückzahlung
+abweichend von § 93c Absatz 3 der Abgabenordnung vom Bundesamt für
+Wirtschaft und Ausfuhrkontrolle unter Angabe des Datums, an dem die
+Zahlung bei ihm eingegangen ist, mitzuteilen.
+
+(3) Mitteilungen über im Kalenderjahr 2022 ausgezahlte Leistungen sind
+abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach
+Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der
+Freigabe der amtlich bestimmten Schnittstelle bis zum 31. Dezember
+2025 zu übermitteln. Das Bundesministerium der Finanzen kann im
+Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach
+Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes
+Schreiben verlängern, sofern die technischen Voraussetzungen für die
+Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten
+Antrag des Bundesamts für Wirtschaft und Ausfuhrkontrolle kann die
+oberste Finanzbehörde desjenigen Landes, in dem das Bundesamt für
+Wirtschaft und Ausfuhrkontrolle seinen Sitz hat, diesem die Frist nach
+den Sätzen 1 oder 2 um längstens zehn Monate verlängern, sofern die
+technischen Voraussetzungen für die Übersendung der Mitteilungen bei
+dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nicht rechtzeitig
+vorliegen; das Bundesministerium der Finanzen ist über eine gewährte
+Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser
+Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2
+bleiben unberührt. Mitteilungspflichten über Leistungen im Sinne des
+Absatzes 1 Satz 1, die sich nach anderen Bestimmungen dieser
+Verordnung ergeben, sind nicht anzuwenden.
 
 
 ### § 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung
@@ -463,25 +518,121 @@ von § 93c Absatz 3 der Abgabenordnung von der mitteilungspflichtigen
 Stelle unter Angabe des Datums, an dem die Zahlung bei der
 mitteilungspflichtigen Stelle eingegangen ist, mitzuteilen.
 
-(3) Mitteilungen über die im Kalenderjahr 2021 ausgezahlten Leistungen
-sind abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach
-Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der
-Freigabe der amtlich bestimmten Schnittstelle bis zum 30. April 2022
-zu übermitteln. Das Bundesministerium der Finanzen kann im
-Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach
-Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes
-Schreiben verlängern, sofern die technischen Voraussetzungen für die
-Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten
-Antrag einer mitteilungspflichtigen Stelle kann die oberste
-Finanzbehörde desjenigen Landes, in dem die mitteilungspflichtige
-Stelle ihren Sitz hat, dieser die Frist nach Satz 1 oder Satz 2 um
-längstens zehn Monate verlängern, sofern die technischen
-Voraussetzungen für die Übersendung der Mitteilungen bei der
-mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
+(3) Mitteilungen nach Absatz 1 sind abweichend von § 93c Absatz 1
+Nummer 1 der Abgabenordnung nach Veröffentlichung des amtlich
+vorgeschriebenen Datensatzes und der Freigabe der amtlich bestimmten
+Schnittstelle bis zum 30. April des auf das Jahr der Auszahlung
+folgenden Jahres zu übermitteln. Das Bundesministerium der Finanzen
+kann im Einvernehmen mit den obersten Finanzbehörden der Länder die
+Frist nach Satz 1 durch ein im Bundessteuerblatt Teil I zu
+veröffentlichendes Schreiben verlängern, sofern die technischen
+Voraussetzungen für die Annahme der Mitteilungen nicht rechtzeitig
+vorliegen. Auf begründeten Antrag einer mitteilungspflichtigen Stelle
+kann die oberste Finanzbehörde desjenigen Landes, in dem die
+mitteilungspflichtige Stelle ihren Sitz hat, dieser die Frist nach
+Satz 1 oder Satz 2 für im Kalenderjahr 2021 ausgezahlte Leistungen um
+längstens vierzehn Monate und für im Kalenderjahr 2022 ausgezahlte
+Leistungen um längstens sechs Monate verlängern, sofern die
+technischen Voraussetzungen für die Übersendung der Mitteilungen bei
+der mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
 Bundesministerium der Finanzen ist über eine gewährte
 Fristverlängerung zu unterrichten.
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser
 Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2
 bleiben hiervon unberührt.
+
+
+### § 15 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021
+
+(1) Behörden und andere öffentliche Stellen haben als
+mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den
+Finanzbehörden aus Anlass der Starkregen- und Hochwasserkatastrophe im
+Juli 2021 als Aufbauhilfen des Bundes und der Länder aus den Mitteln
+des Fonds „Aufbauhilfe 2021“ bewilligte Leistungen nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+nach Maßgabe des § 93c der Abgabenordnung mitzuteilen; mitzuteilen
+sind Leistungen an
+
+1.  Privathaushalte,
+
+
+2.  gewerbliche Unternehmen, Selbständige und Angehörige der freien
+    Berufe,
+
+
+3.  Wohnungsunternehmen und Vermieter von Wohnraum,
+
+
+4.  Vermieter und Verpächter von ganz oder teilweise für eine gewerbliche,
+    selbständige oder freiberufliche Tätigkeit genutzten Gebäuden oder
+    Gebäudeteilen,
+
+
+5.  Betriebe der Land- und Forstwirtschaft und ähnliche Betriebe, Betriebe
+    der Fischerei und Aquakultur.
+
+
+
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz
+1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben
+mitzuteilen:
+
+1.  die Art und die Höhe der im jeweils vorangegangenen Kalenderjahr
+    gewährten Zahlung,
+
+
+2.  soweit vorhanden, das Objekt, für das die Zahlung bewilligt wurde,
+
+
+3.  das Datum, an dem die Zahlung bewilligt wurde,
+
+
+4.  das Datum der Zahlung und
+
+
+5.  bei unbarer Zahlung die Bankverbindung für das Konto, auf das die
+    Zahlung geleistet wurde.
+
+
+
+Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren
+Kalenderjahr ganz oder teilweise zurückerstattet, ist die Rückzahlung
+abweichend von § 93c Absatz 3 der Abgabenordnung von der
+mitteilungspflichtigen Stelle unter Angabe des Datums, an dem die
+Zahlung bei der mitteilungspflichtigen Stelle eingegangen ist,
+mitzuteilen.
+
+(3) Abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung sind
+Mitteilungen nach Absatz 1 nach Veröffentlichung des amtlich
+vorgeschriebenen Datensatzes und der Freigabe der amtlich bestimmten
+Schnittstelle für im Kalenderjahr 2021 ausgezahlte Leistungen bis zum
+31\. Dezember 2022 sowie für in den Folgejahren ausgezahlte Leistungen
+bis zum 30. April des auf das Jahr der Auszahlung folgenden Jahres zu
+übermitteln. Das Bundesministerium der Finanzen kann im Einvernehmen
+mit den obersten Finanzbehörden der Länder die Frist nach Satz 1 durch
+ein im Bundessteuerblatt Teil I zu veröffentlichendes Schreiben
+verlängern, sofern die technischen Voraussetzungen für die Annahme der
+Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten Antrag einer
+mitteilungspflichtigen Stelle kann die oberste Finanzbehörde
+desjenigen Landes, in dem die mitteilungspflichtige Stelle ihren Sitz
+hat, dieser die Frist nach Satz 1 oder Satz 2 für im Kalenderjahr 2021
+ausgezahlte Leistungen um längstens zehn Monate und für im
+Kalenderjahr 2022 ausgezahlte Leistungen um längstens sechs Monate
+verlängern, sofern die technischen Voraussetzungen für die Übersendung
+der Mitteilungen bei der mitteilungspflichtigen Stelle nicht
+rechtzeitig vorliegen; das Bundesministerium der Finanzen ist über
+eine gewährte Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen oder andere
+Mitteilungspflichten nach dieser Verordnung sind nicht anzuwenden. § 1
+Absatz 2 bleibt unberührt. Das Bundesministerium der Finanzen oder die
+obersten Finanzbehörden der Länder können Ausnahmen von der
+Mitteilungspflicht nach Absatz 1 zulassen.
+
+
+### Schlußformel
+
+Der Bundesrat hat zugestimmt.
 

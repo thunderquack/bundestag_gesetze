@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3167
 
 Zuletzt geändert durch
-:   Art. 8 G v. 8.8.2020 I 1818
-
-Änderung durch
-:   Art. 18 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 V v. 14.7.2021 I 2860 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 17.3.2023 I Nr. 81
 
 
 ## § 1 Anwendungsbereich
@@ -281,12 +275,11 @@ Ausschreibung für innovative KWK-Systeme
 
 
 (5) Liegt in zwei aufeinander folgenden Gebotsterminen der
-Ausschreibungen für KWK-Anlagen jeweils die Gebotsmenge aller in der
-Ausschreibung fristgerecht eingegangenen Gebote unter dem
-Ausschreibungsvolumen, verringert sich das Ausschreibungsvolumen nach
-Absatz 2, 3 oder 4 für den darauffolgenden Gebotstermin auf den
-rechnerischen Durchschnittswert der Gebotsmengen der in den beiden
-vorangegangenen Gebotsterminen fristgerecht eingegangenen Gebote
+Ausschreibungen für KWK-Anlagen jeweils die Gebotsmenge aller
+zulässigen Gebote unter dem Ausschreibungsvolumen, verringert sich das
+Ausschreibungsvolumen nach Absatz 2, 3 oder 4 für den darauffolgenden
+Gebotstermin auf den rechnerischen Durchschnittswert der Gebotsmengen
+der in den beiden vorangegangenen Gebotsterminen zulässigen Gebote
 abzüglich 10 Prozent.
 
 (6) Liegt in zwei aufeinander folgenden Gebotsterminen der
@@ -299,6 +292,13 @@ Gebotsterminen aufgrund von Absatz 5 nicht zur Ausschreibung
 zugelassene Ausschreibungsvolumen, maximal jedoch um weitere 10
 Prozent des insgesamt für diesen Gebotstermin nach Absatz 1
 vorgesehenen Ausschreibungsvolumens.
+
+(7) Im Rahmen der Mengensteuerung des Ausschreibungsvolumens nach den
+Absätzen 5 und 6 sind Gebote unberücksichtigt zu lassen, für die
+Anhaltspunkte bestehen, dass sie zu dem Zweck abgegeben wurden, eine
+Verringerung des Ausschreibungsvolumens nach Absatz 5 zu verhindern
+oder eine Erhöhung des Ausschreibungsvolumens nach Absatz 6
+auszulösen.
 
 
 ## § 4 Elektronisches Verfahren
@@ -595,31 +595,23 @@ ist.
 (2) Die Gebote müssen der ausschreibenden Stelle spätestens am
 jeweiligen Gebotstermin zugegangen sein.
 
-(3) Ein Gebot muss eine Gebotsmenge von mehr als 1 000 Kilowatt
-elektrische KWK-Leistung umfassen; es darf folgende Gebotsmengen nicht
-überschreiten:
+(3) Ein Gebot muss eine Gebotsmenge von mehr als 500 Kilowatt
+elektrischer KWK-Leistung umfassen; es darf folgende Gebotsmengen
+nicht überschreiten:
 
-1.  für die Ausschreibung für KWK-Anlagen eine Gebotsmenge von in den
-    Fällen der Ausschreibungen für KWK-Anlagen mehr als 500 Kilowatt und
-    in den Fällen der Ausschreibungen für innovative KWK-Systeme 50 000
-    Kilowatt elektrische KWK-Leistung und
+1.  für die Ausschreibung für KWK-Anlagen eine Gebotsmenge von 50 000
+    Kilowatt elektrischer KWK-Leistung und
 
 
 2.  für die Ausschreibung für innovative KWK-Systeme eine Gebotsmenge von
-    10 000 Kilowatt elektrische KWK-Leistung.
+    10 000 Kilowatt elektrischer KWK-Leistung.
 
 
 
 Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als
-500 Kilowatt in den Fällen der Ausschreibungen für KWK-Anlagen oder
-1 000 Kilowatt in den Fällen der Ausschreibungen für innovative KWK-
-Systeme umfassen, sofern die elektrische Leistung des Generators
-weniger als 500 Kilowatt in den Fällen der Ausschreibungen für KWK-
-Anlagen oder 1 000 Kilowatt in den Fällen der Ausschreibungen für
-innovative KWK-Systeme beträgt, die elektrische Leistung der KWK-
-Anlage jedoch über 500 Kilowatt in den Fällen der Ausschreibungen für
-KWK-Anlagen oder 1 000 Kilowatt in den Fällen der Ausschreibungen für
-innovative KWK-Systeme Kilowatt liegt.
+500 Kilowatt elektrischer KWK-Leistung umfassen, wenn die elektrische
+Leistung des Generators weniger als 500 Kilowatt beträgt, die
+elektrische Leistung der KWK-Anlage jedoch über 500 Kilowatt liegt.
 
 (4) Bieter dürfen in einer Ausschreibung mehrere Gebote für
 unterschiedliche KWK-Anlagen abgeben. In diesem Fall müssen sie ihre
@@ -630,9 +622,8 @@ ist unzulässig.
 (5) Die ausschreibende Stelle darf für die Ausschreibungsverfahren
 Formatvorgaben machen.
 
-(6) Die ausschreibende Stelle veröffentlicht auf ihrer Internetseite
-Formularvorlagen für die nach Absatz 1 Nummer 12 abzugebenden
-Eigenerklärungen.
+(6) Die ausschreibende Stelle veröffentlicht Formularvorlagen für die
+nach Absatz 1 Nummer 12 abzugebenden Eigenerklärungen.
 
 
 ## § 9 Rücknahme und Bindungswirkung von Geboten
@@ -810,7 +801,7 @@ Zuschlagsverfahren aus, wenn
         einschließlich 50 000 Kilowatt liegt,
 
 
-    b)  für innovative KWK-Systeme nicht zwischen mehr als 1 000 bis
+    b)  für innovative KWK-Systeme nicht zwischen mehr als 500 bis
         einschließlich 10 000 Kilowatt liegt,
 
 
@@ -827,7 +818,7 @@ Zuschlagsverfahren aus, wenn
 
 
 7.  in dem Gebot oder den nach § 8 Absatz 1 Nummer 12 abzugebenden
-    Eigenerklärungen unrichtige Angaben gemacht worden sind oder
+    Eigenerklärungen unrichtige Angaben gemacht worden sind,
 
 
 8.  der im Gebot angegebene Standort
@@ -836,10 +827,14 @@ Zuschlagsverfahren aus, wenn
         Kooperationsstaat der Bundesrepublik Deutschland ist, oder
 
 
-    b)  des innovativen KWK-Systems nicht im Bundesgebiet liegt.
+    b)  des innovativen KWK-Systems nicht im Bundesgebiet liegt oder
 
 
 
+
+
+9.  sie für die KWK-Anlage bereits nach dem Erneuerbare-Energien-Gesetz
+    einen Zuschlag erteilt hat.
 
 
 
@@ -878,7 +873,7 @@ soll und hierfür Gebote abgegeben werden.
 
 ## § 13 Ausschluss von Bietern
 
-Die ausschreibende Stelle muss Bieter und deren Gebote von dem
+(1) Die ausschreibende Stelle muss Bieter und deren Gebote von dem
 Zuschlagsverfahren ausschließen, wenn
 
 1.  der Bieter
@@ -902,6 +897,32 @@ Zuschlagsverfahren ausschließen, wenn
 
 
 
+
+(2) Die ausschreibende Stelle kann im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Klimaschutz einen Bieter, der ein
+Unionsfremder im Sinn des § 2 Absatz 19 des Außenwirtschaftsgesetzes
+ist oder dessen unmittelbare oder mittelbare Gesellschafter
+Unionsfremde sind, von dem Zuschlagsverfahren ausschließen, wenn durch
+den Betrieb der gebotsgegenständlichen Anlage die öffentliche Ordnung
+oder Sicherheit der Bundesrepublik Deutschland voraussichtlich
+beeinträchtigt würden. Unionsfremde Bieter aus den Mitgliedstaaten der
+Europäischen Freihandelsassoziation stehen unionsansässigen Bietern
+gleich.
+
+(3) Die ausschreibende Stelle kann außer nach den Vorschriften des
+Verwaltungsverfahrensgesetzes im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Klimaschutz den Zuschlag eines
+Bieters, der ein Unionsfremder im Sinn des § 2 Absatz 19 des
+Außenwirtschaftsgesetzes ist oder dessen unmittelbare oder mittelbare
+Gesellschafter Unionsfremde sind, widerrufen, wenn durch den Betrieb
+der gebotsgegenständlichen Anlage die öffentliche Ordnung oder
+Sicherheit der Bundesrepublik Deutschland voraussichtlich
+beeinträchtigt werden.
+
+(4) Ein Bieter hat auf Anforderung der ausschreibenden Stelle
+innerhalb von vier Wochen die zur Prüfung nach Absatz 2 oder 3
+notwendigen Unterlagen zur Verfügung zu stellen, insbesondere
+Unterlagen zu seiner Beteiligungsstruktur und seinen Geschäftsfeldern.
 
 
 ## § 14 Zuordnung der Zuschläge und Sicherheiten bei gemeinsamen grenzüberschreitenden Ausschreibungen
@@ -1000,6 +1021,9 @@ nach § 8 Absatz 1 Nummer 12 Buchstabe c.
     zurücknimmt oder widerruft,
 
 
+2a. wenn der Zuschlag nach § 18 Absatz 3 wirksam zurückgegeben wurde,
+
+
 3.  wenn der Zuschlag durch Verbrauch der insgesamt nach § 19 Absatz 2
     Satz 1 förderfähigen Vollbenutzungsstunden, durch Zeitablauf oder auf
     sonstige Weise seine Wirksamkeit verliert,
@@ -1013,8 +1037,8 @@ nach § 8 Absatz 1 Nummer 12 Buchstabe c.
 
 
     b)  für innovative KWK-Systeme die elektrische Leistung der KWK-Anlage des
-        innovativen KWK-Systems mit Aufnahme des Dauerbetriebs bei 1 Megawatt
-        oder darunter oder oberhalb von 10 Megawatt liegt,
+        innovativen KWK-Systems mit Aufnahme des Dauerbetriebs bei 500
+        Kilowatt oder darunter oder oberhalb von 10 Megawatt liegt,
 
 
 
@@ -1062,7 +1086,7 @@ Rechte und Pflichten des Bieters nach dieser Verordnung ein. Eine
 Systeme und andere Standorte ist nicht zulässig.
 
 
-## § 18 Erlöschen von Zuschlägen
+## § 18 Erlöschen und Rückgabe von Zuschlägen
 
 (1) Zuschläge erlöschen 54 Monate nach ihrer Bekanntgabe nach § 15
 Absatz 2, soweit nicht die KWK-Anlage oder das innovative KWK-System
@@ -1078,6 +1102,26 @@ das innovative KWK-System nach § 24 nicht innerhalb von zwölf Monaten
 nach Aufnahme oder Wiederaufnahme des Dauerbetriebs durch das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle zugelassen wurde oder
 hätte zugelassen werden müssen.
+
+(3) Zuschläge für KWK-Anlagen oder innovative KWK-Systeme für
+Standorte, die nach § 2 Absatz 2 der Aufbauhilfeverordnung 2021 vom
+15\. September 2021 (BGBl. I S. 4214) durch den Starkregen und das
+Hochwasser im Juli 2021 als betroffen gelten, können durch die Bieter
+bis zum 1. Januar 2023 zurückgegeben werden; im Übrigen ist eine
+Rückgabe ausgeschlossen. Die Rückgabe erfolgt durch schriftliche
+Erklärung gegenüber der ausschreibenden Stelle. Wird ein Zuschlag
+zurückgegeben, ist
+
+1.  § 5 mit der Maßgabe anzuwenden, dass der Zuschlagswert des
+    zurückgegebenen Zuschlags den Höchstwert für zukünftige Gebote des
+    Bieters oder eines mit ihm verbundenen Unternehmens in der jeweiligen
+    Ausschreibung an dem betreffenden Standort bildet,
+
+
+2.  § 21 für diesen Zuschlag ab dem 1. Juli 2021 nicht mehr anzuwenden.
+
+
+
 
 
 ## § 19 Höhe, Dauer und Voraussetzungen des Anspruchs auf Zuschlagszahlung
@@ -1128,15 +1172,12 @@ Kalenderjahr,
 
 
 
-Wird der in der KWK-Anlage oder dem innovativen KWK-System erzeugte
-Strom entgegen § 8a Absatz 2 Nummer 2 des Kraft-Wärme-
-Kopplungsgesetzes selbst verbraucht, ist § 8d Absatz 1 des Kraft-
-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Abweichend von Satz 1
-Nummer 1 darf der in der KWK-Anlage oder dem innovativen KWK-System
-erzeugte Strom auch in ein geschlossenes Verteilernetz eingespeist
-werden. Im Fall des Satzes 3 ist der in der KWK-Anlage oder dem
-innovativen KWK-System erzeugte Strom so zu behandeln, als wäre er in
-das Netz der allgemeinen Versorgung eingespeist worden.
+Abweichend von Satz 1 Nummer 1 darf der in der KWK-Anlage oder dem
+innovativen KWK-System erzeugte Strom auch in ein geschlossenes
+Verteilernetz eingespeist werden. Im Fall des Satzes 2 ist der in der
+KWK-Anlage oder dem innovativen KWK-System erzeugte Strom so zu
+behandeln, als wäre er in das Netz der allgemeinen Versorgung
+eingespeist worden.
 
 (4) Der Zuschlagswert verringert sich für das jeweilige Kalenderjahr
 für die Anzahl der Vollbenutzungsstunden in Höhe des in dem
@@ -1177,7 +1218,12 @@ In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-
 Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe
 anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die
 anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung,
-Kälteerzeugung oder Prozesswärme maßgeblich ist.
+Kälteerzeugung oder Prozesswärme maßgeblich ist. In dem Kalenderjahr,
+in dem die KWK-Anlage in Betrieb genommen wird, sind die Sätze 1 und 2
+mit der Maßgabe entsprechend anzuwenden, dass für dieses Kalenderjahr
+anstelle des Wertes von 30 Prozent ein Wert von 2,5 Prozent pro
+Kalendermonat, der nach der Inbetriebnahme für dieses Kalenderjahr
+verbleibt, anzusetzen ist.
 
 (6) Entgegen den Absätzen 2 bis 5 erhaltene Zahlungen sind dem zur
 Auszahlung der Zuschlagszahlung verpflichteten Netzbetreiber
@@ -1243,13 +1289,13 @@ innovative KWK-System bereits verwirklicht wurde:
 
 
 Die Mitteilung nach Satz 1 hat mittels eines von der ausschreibenden
-Stelle auf ihrer Internetseite veröffentlichten Formulars zu erfolgen.
-Wurde der Dauerbetrieb der Komponenten zur Bereitstellung innovativer
-erneuerbarer Wärme des innovativen KWK-Systems aufgenommen, ist
-zusätzlich anzugeben, ob und in welcher Höhe eine investive Förderung
-nach den Richtlinien zur Förderung der Nutzung erneuerbarer Energien
-im Wärmemarkt in Anspruch genommen wurde. Die Mitteilung nach Satz 4
-hat zusätzlich gegenüber dem zuständigen Netzbetreiber zu erfolgen.
+Stelle veröffentlichten Formulars zu erfolgen. Wurde der Dauerbetrieb
+der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des
+innovativen KWK-Systems aufgenommen, ist zusätzlich anzugeben, ob und
+in welcher Höhe eine investive Förderung nach den Richtlinien zur
+Förderung der Nutzung erneuerbarer Energien im Wärmemarkt in Anspruch
+genommen wurde. Die Mitteilung nach Satz 4 hat zusätzlich gegenüber
+dem zuständigen Netzbetreiber zu erfolgen.
 
 (2) Während der Dauer der Zuschlagszahlung ist dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle und dem zur Zuschlagszahlung
@@ -1627,8 +1673,8 @@ ergibt.
 Bundesgebiet haben, ist Absatz 1 mit der Maßgabe anzuwenden, dass
 
 1.  die §§ 3, 4 Absatz 2 und 3, die §§ 6, 7 Absatz 1, 3, 4 und 5, § 8
-    Absatz 1 bis 3 sowie die §§ 8b, 8d, 10, 11, 14, 16 und 35 des Kraft-
-    Wärme-Kopplungsgesetzes nicht anzuwenden sind und
+    Absatz 1 bis 3 sowie die §§ 8b, 10, 11, 14, 16 und 35 des Kraft-Wärme-
+    Kopplungsgesetzes nicht anzuwenden sind und
 
 
 2.  § 7 Absatz 5 des Kraft-Wärme-Kopplungsgesetzes mit der Maßgabe
@@ -1654,22 +1700,23 @@ anderen Mitgliedstaats der Europäischen Union darf nur mit der
 Zustimmung dieses Mitgliedstaats und nach Maßgabe dieser Zustimmung
 erfolgen.
 
-(2) Das Bundesministerium für Wirtschaft und Energie kann zu diesem
-Zweck in völkerrechtlichen Vereinbarungen mit anderen Mitgliedstaaten
-der Europäischen Union die Durchführung von gemeinsamen
-grenzüberschreitenden oder geöffneten Ausschreibungen vereinbaren und
-durch diese völkerrechtliche Vereinbarung die Bestimmungen des Kraft-
-Wärme-Kopplungsgesetzes und die Bestimmungen dieser Verordnung nach
-Maßgabe der völkerrechtlichen Vereinbarung auch für Anlagen im
-Staatsgebiet anderer Mitgliedstaaten der Europäischen Union ganz oder
-teilweise für anwendbar erklären, sofern sichergestellt ist, dass der
-in den Anlagen erzeugte KWK-Strom in das Bundesgebiet physikalisch
-importiert wird oder die tatsächlichen Auswirkungen des in den Anlagen
-erzeugten Stroms auf den deutschen Strommarkt vergleichbar sind zu der
-Auswirkung, die der Strom bei einer Einspeisung im Bundesgebiet hätte.
+(2) Das Bundesministerium für Wirtschaft und Klimaschutz kann zu
+diesem Zweck in völkerrechtlichen Vereinbarungen mit anderen
+Mitgliedstaaten der Europäischen Union die Durchführung von
+gemeinsamen grenzüberschreitenden oder geöffneten Ausschreibungen
+vereinbaren und durch diese völkerrechtliche Vereinbarung die
+Bestimmungen des Kraft-Wärme-Kopplungsgesetzes und die Bestimmungen
+dieser Verordnung nach Maßgabe der völkerrechtlichen Vereinbarung auch
+für Anlagen im Staatsgebiet anderer Mitgliedstaaten der Europäischen
+Union ganz oder teilweise für anwendbar erklären, sofern
+sichergestellt ist, dass der in den Anlagen erzeugte KWK-Strom in das
+Bundesgebiet physikalisch importiert wird oder die tatsächlichen
+Auswirkungen des in den Anlagen erzeugten Stroms auf den deutschen
+Strommarkt vergleichbar sind zu der Auswirkung, die der Strom bei
+einer Einspeisung im Bundesgebiet hätte.
 
-(3) Das Bundesministerium für Wirtschaft und Energie kann im Rahmen
-der völkerrechtlichen Vereinbarung nach Absatz 2 regeln:
+(3) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+Rahmen der völkerrechtlichen Vereinbarung nach Absatz 2 regeln:
 
 1.  die Aufteilung der Kohlendioxid-Emissionen und der Kohlendioxid-
     Emissionsminderung durch die Erzeugung des KWK-Stroms und der
@@ -1799,7 +1846,7 @@ der völkerrechtlichen Vereinbarung nach Absatz 2 regeln:
 
 
 
-(4) Das Bundesministerium für Wirtschaft und Energie kann in
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz kann in
 völkerrechtlichen Vereinbarungen mit anderen Mitgliedstaaten der
 Europäischen Union die Durchführung von geöffneten ausländischen
 Ausschreibungen für KWK-Anlagen im Bundesgebiet regeln. Eine
@@ -1860,17 +1907,25 @@ zulassen, wenn
 
 ## § 28 Evaluierung
 
-(1) Das Bundesministerium für Wirtschaft und Energie stellt im Jahr
-2022 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-Wärme-
-Kopplungsgesetzes den Stand der Dekarbonisierung der Wärmenetze fest
-und prüft im Rahmen der Ausschreibungen für innovative KWK-Systeme
-geeignete Maßnahmen zur stärkeren Einbeziehung der Biomasse zur
-Optimierung von Systemen mit größeren Anteilen erneuerbarer Wärme, um
-eine weitergehende Dekarbonisierung zu erzielen.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz stellt im
+Jahr 2022 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-
+Wärme-Kopplungsgesetzes den Stand der Dekarbonisierung der Wärmenetze
+fest und prüft im Rahmen der Ausschreibungen für innovative KWK-
+Systeme geeignete Maßnahmen zur stärkeren Einbeziehung der Biomasse
+zur Optimierung von Systemen mit größeren Anteilen erneuerbarer Wärme,
+um eine weitergehende Dekarbonisierung zu erzielen.
 
 (2) Ergibt eine Evaluierung nach § 34 Absatz 2 Satz 1 des Kraft-Wärme-
 Kopplungsgesetzes, dass die Erreichung der Ziele des § 1 Absatz 1 des
 Kraft-Wärme-Kopplungsgesetzes nicht gesichert erscheint, soll die
 ausschreibende Stelle das Ausschreibungsvolumen in dem erforderlichen
 Umfang, höchstens um 100 Megawatt pro Kalenderjahr, erhöhen.
+
+
+## § 29 Übergangsbestimmungen
+
+Für nicht erloschene Zuschläge, die in den Ausschreibungen vor dem 1.
+März 2020 erteilt wurden, verlängern sich die Fristen in § 18 Absatz 1
+und § 21 Absatz 1 und 2 Satz 1 um einen Zeitraum von jeweils sechs
+Kalendermonaten.
 

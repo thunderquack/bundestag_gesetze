@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 930
 
 Zuletzt geändert durch
-:   Art. 8 G v. 19.3.2020 I 529
-
-Änderung durch
-:   Art. 7 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 28 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 3.6.2021 I 1568
 
 
 ## Eingangsformel

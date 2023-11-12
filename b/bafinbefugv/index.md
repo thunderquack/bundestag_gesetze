@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.12.2021 I 5256
+:   Art. 1 V v. 12.1.2023 I Nr. 15
 
 
 ## Eingangsformel
@@ -180,7 +180,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
     1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33
     Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in
     Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz
-    2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 62 Absatz
+    2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 60 Absatz
     2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des §
     84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz
     1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des
@@ -265,12 +265,16 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 7.  Rechtsverordnungen nach Maßgabe des § 4 Absatz 3 Satz 1 und des § 20
     Absatz 3 Satz 1 und 2 des Wertpapierprospektgesetzes im Einvernehmen
-    mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie
+    mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
 
 8.  Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über
     Bausparkassen nach Anhörung der Deutschen Bundesbank und der
-    Spitzenverbände der Bausparkassen
+    Spitzenverbände der Bausparkassen sowie
+
+
+9.  Rechtsverordnungen nach Maßgabe des § 12 Absatz 2b Satz 1 des
+    Restrukturierungsfondsgesetzes
 
 
 
@@ -338,11 +342,14 @@ Abwicklungsgesetzes zu erlassen
 
 
 2.  im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der
-    Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3 und
+    Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3,
 
 
 3.  im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der
-    Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
+    Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1 und
+
+
+4.  nach Maßgabe des § 152i Absatz 1.
 
 
 

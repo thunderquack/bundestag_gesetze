@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 2012, 2182
 
 G aufgeh. durch
-:   seinen § 28 idF d. Art. 1 G v. 16.10.2020 I 2186 mWv 1.1.2024
+:   § 28 idF d. Art. 7 G v. 8.10.2023 I Nr. 272 mit Ablauf des 31.8.2024
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.10.2020 I 2186
+:   Art. 7 G v. 8.10.2023 I Nr. 272
+
+Die geltung dieses g ist durch
+:   § 28 idF d. Art. 1 G v. 16.10.2020 I 2186 über den 31.10.2020 hinaus bis zum 31.12.2023 und durch § 28 idF d. Art. 7 G v. 8.10.2023 I Nr. 272 über den 31.12.2023 hinaus bis zum 31.8.2024 verlängert worden
 
 
 ## Abschnitt 1 - Musterverfahrensantrag; Vorlageverfahren
@@ -849,5 +852,5 @@ Fassung weiterhin anzuwenden.
 
 ### § 28 Außerkrafttreten
 
-Dieses Gesetz tritt mit Ablauf des 31. Dezember 2023 außer Kraft.
+Dieses Gesetz tritt mit Ablauf des 31. August 2024 außer Kraft.
 

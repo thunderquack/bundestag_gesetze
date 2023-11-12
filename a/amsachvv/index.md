@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1978, 30
 
 Zuletzt geändert durch
-:   Art. 4 G v. 9.8.2019 I 1202
+:   Art. 5 V v. 6.7.2022 I 1102
 
 
 ## Eingangsformel
@@ -43,10 +43,7 @@ Erlaß einer Rechtsverordnung
 
 
 
-an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei
-Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an
-die Stelle des Bundesministeriums das Bundesministerium für Ernährung
-und Landwirtschaft.
+an.
 
 
 ## § 2
@@ -55,8 +52,8 @@ und Landwirtschaft.
 
 (2) Dem Ausschuss für Apothekenpflicht gehören an
 
-1.  drei Hochschullehrer der Medizin, davon je ein Hochschullehrer der
-    Pharmakologie, der Inneren Medizin und des Faches Veterinärmedizin,
+1.  zwei Hochschullehrer der Medizin, davon je ein Hochschullehrer der
+    Pharmakologie und der Inneren Medizin,
 
 
 2.  ein Hochschullehrer der Pharmazie,
@@ -71,31 +68,25 @@ und Landwirtschaft.
 5.  ein Zahnarzt,
 
 
-6.  ein Tierarzt,
+6.  ein Heilpraktiker,
 
 
-7.  ein Heilpraktiker,
+7.  zwei Vertreter der pharmazeutischen Industrie,
 
 
-8.  zwei Vertreter der humanpharmazeutischen Industrie,
+8.  ein Vertreter der Reformwaren-Hersteller,
 
 
-9.  zwei Vertreter der veterinärpharmazeutischen Industrie,
+9.  zwei Vertreter der Apothekerschaft,
 
 
-10. ein Vertreter der Reformwaren-Hersteller,
+10. zwei Vertreter des Einzelhandels außerhalb der Apotheken,
 
 
-11. zwei Vertreter der Apothekerschaft,
+11. ein Vertreter der Arbeitsgemeinschaft der Verbraucher und
 
 
-12. zwei Vertreter des Einzelhandels außerhalb der Apotheken,
-
-
-13. ein Vertreter der Arbeitsgemeinschaft der Verbraucher und
-
-
-14. zwei Vertreter der Sozialversicherungsträger.
+12. zwei Vertreter der Sozialversicherungsträger.
 
 
 
@@ -104,17 +95,15 @@ und Landwirtschaft.
 
 1.  als stimmberechtigte Mitglieder
 
-    a)  zwei Hochschullehrer der Pharmakologie, davon ein Hochschullehrer des
-        Faches Veterinärmedizin, und ein Hochschullehrer der Klinischen
-        Pharmakologie,
+    a)  ein Hochschullehrer der Pharmakologie und ein Hochschullehrer der
+        Klinischen Pharmakologie,
 
 
     b)  zwei Hochschullehrer der Pharmazie, davon ein Hochschullehrer des
         Faches Klinische Pharmazie,
 
 
-    c)  zwei Hochschullehrer des Faches Innere Medizin, davon ein
-        Hochschullehrer des Faches Veterinärmedizin,
+    c)  ein Hochschullehrer des Faches Innere Medizin,
 
 
     d)  ein Hochschullehrer des Faches Allgemeinmedizin,
@@ -127,13 +116,10 @@ und Landwirtschaft.
         Epidemiologie,
 
 
-    g)  ein Mitglied der Arzneimittelkommission der deutschen Ärzteschaft,
+    g)  ein Mitglied der Arzneimittelkommission der deutschen Ärzteschaft und
 
 
-    h)  ein Mitglied der Arzneimittelkommission der Tierärzte und
-
-
-    i)  ein Mitglied der Arzneimittelkommission der deutschen Apotheker sowie
+    h)  ein Mitglied der Arzneimittelkommission der deutschen Apotheker sowie
 
 
 
@@ -153,19 +139,13 @@ und Landwirtschaft.
     d)  ein Zahnarzt,
 
 
-    e)  ein Tierarzt,
+    e)  ein Heilpraktiker,
 
 
-    f)  ein Heilpraktiker,
+    f)  ein Vertreter der Apothekerschaft und
 
 
-    g)  ein Vertreter der Apothekerschaft,
-
-
-    h)  zwei Vertreter der humanpharmazeutischen Industrie und
-
-
-    i)  ein Vertreter der veterinärpharmazeutischen Industrie.
+    g)  zwei Vertreter der pharmazeutischen Industrie.
 
 
 
@@ -179,11 +159,14 @@ und Landwirtschaft.
 ## § 3
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden
-durch das Bundesministerium im Einvernehmen mit dem Bundesministerium
-für Ernährung und Landwirtschaft einheitlich für den Zeitraum von
-jeweils fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende
-Mitglieder oder Stellvertreter werden nur für den Rest des jeweiligen
-Berufungszeitraums berufen.
+durch das Bundesministerium einheitlich für den Zeitraum von jeweils
+fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende Mitglieder
+oder Stellvertreter werden nur für den Rest des jeweiligen
+Berufungszeitraums berufen. Die Amtszeit der Mitglieder, die für den
+Bereich der Tierarzneimittel nach § 2 Absatz 2 Nummer 1, 6 und 9 und
+nach § 2 Absatz 3 Nummer 1 Buchstabe a, c und h sowie Nummer 2
+Buchstabe e und i in der am 18. Juli 2022 geltenden Fassung berufen
+worden sind, endet mit Ablauf des 18. Juli 2022.
 
 (2) Wiederholte Berufungen sind zulässig.
 
@@ -213,25 +196,12 @@ sind nicht öffentlich.
 Arzneimittel und Medizinprodukte.
 
 (3) Die Ausschüsse geben sich jeweils eine Geschäftsordnung, die der
-Zustimmung des Bundesministeriums und des Bundesministeriums für
-Ernährung und Landwirtschaft bedarf. Die Geschäftsordnungen werden vom
-Bundesinstitut für Arzneimittel und Medizinprodukte auf dessen
-Homepage im Internet veröffentlicht.
+Zustimmung des Bundesministeriums bedarf. Die Geschäftsordnungen
+werden vom Bundesinstitut für Arzneimittel und Medizinprodukte auf
+dessen Homepage im Internet veröffentlicht.
 
 
 ## § 6
-
-Die Anlage zu der Verordnung in der Fassung vom 19. April 2013 ist für
-den jeweiligen Ausschuss so lange weiter anzuwenden, bis für diesen
-eine neue Geschäftsordnung gemäß § 5 Absatz 3 Satz 2 öffentlich
-zugänglich gemacht wurde.
-
-
-## § 7 (weggefallen)
-
-
-
-## § 8
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

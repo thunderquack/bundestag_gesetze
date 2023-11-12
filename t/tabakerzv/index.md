@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 2016, 980
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.10.2020 I 2229
+:   Art. 1 V v. 24.7.2023 I Nr. 196
+
+Diese Verordnung dient der Umsetzung der Delegierten Richtlinie
+2022/2100 der Kommission vom 29. Juni 2022 zur Änderung der Richtlinie
+2014/40/EU des Europäischen Parlaments und des Rates hinsichtlich der
+Rücknahme bestimmter Ausnahmen in Bezug auf erhitzte Tabakerzeugnisse
+(ABl. L 283 vom 3.11.2022, S. 4).
 
 
 ## Abschnitt 1 - Tabakerzeugnisse
@@ -170,16 +176,18 @@ weit wie möglich den Anforderungen des Anhangs der Richtlinie
 
 #### § 5a Bestimmung von Tabakerzeugnissen mit einem charakteristischen Aroma
 
-Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen mit
-einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1 Buchstabe a
-des Tabakerzeugnisgesetzes durch das Bundesamt für Verbraucherschutz
-und Lebensmittelsicherheit anzuwendende Verfahren richtet sich nach
-den Artikeln 2 und 4, Artikel 5 Absatz 1 und 4, den Artikeln 6 und 7
-Absatz 1, den Artikeln 8 und 9 Absatz 1 und 4 und Artikel 12 der
-Durchführungsverordnung (EU) 2016/779 der Kommission vom 18. Mai 2016
-zur Festlegung einheitlicher Regeln für die Verfahren, mit denen
-bestimmt wird, ob ein Tabakerzeugnis ein charakteristisches Aroma hat
-(ABl. L 131 vom 20.5.2016, S. 48).
+(1) Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen
+mit einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1
+Buchstabe a des Tabakerzeugnisgesetzes durch das Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit anzuwendende Verfahren
+richtet sich nach den Artikeln 2 und 4, Artikel 5 Absatz 1 und 4, den
+Artikeln 6 und 7 Absatz 1, den Artikeln 8 und 9 Absatz 1 und 4 und
+Artikel 12 der Durchführungsverordnung (EU) 2016/779 der Kommission
+vom 18. Mai 2016 zur Festlegung einheitlicher Regeln für die
+Verfahren, mit denen bestimmt wird, ob ein Tabakerzeugnis ein
+charakteristisches Aroma hat (ABl. L 131 vom 20.5.2016, S. 48).
+
+(2) Absatz 1 gilt für erhitzte Tabakerzeugnisse entsprechend.
 
 
 #### § 6 Mitteilungspflichten
@@ -745,6 +753,20 @@ folgende Anforderungen:
 3.  bei jeder Marke muss jeder in Anhang I der Richtlinie 2014/40/EU in
     der jeweils geltenden Fassung aufgeführte Text-Warnhinweis in gleicher
     Anzahl erscheinen.
+
+
+
+
+
+#### § 16a Erhitzte Tabakerzeugnisse
+
+Für erhitzte Tabakerzeugnisse, die als Rauchtabakerzeugnisse
+eingestuft sind,
+
+1.  gelten die §§ 12 bis 14 entsprechend,
+
+
+2.  sind die §§ 15 und 16 nicht anzuwenden.
 
 
 
@@ -1393,17 +1415,16 @@ Mai 2020 anzuwenden.
 
 ### Anlage 1 Verbotene Zusatzstoffe in Tabakerzeugnissen
 
-(Fundstelle: BGBl. I 2017, 1201 – 1203)
+(Fundstelle: BGBl. I 2017, 1201 – 1203;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck
     erwecken, dass ein Tabakerzeugnis einen gesundheitlichen Nutzen habe
     oder geringere Gesundheitsrisiken berge:
 
-    a)  Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz
-        1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung
-        in der jeweils geltenden Fassung für diätetische Lebensmittel
-        zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+    a)  Aminosäuren und modifizierte Aminosäuren sowie S-Adenosylmethionin und
+        L-5-Hydroxytryptophan
 
 
     b)  Carnitin
@@ -1569,7 +1590,8 @@ Mai 2020 anzuwenden.
 
 ### Anlage 2 Verbotene Inhaltsstoffe in elektronischen Zigaretten und Nachfüllbehältern
 
-(Fundstelle: BGBl. I 2017, 1203 – 1204)
+(Fundstelle: BGBl. I 2017, 1203 – 1204;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck
@@ -1577,10 +1599,8 @@ Mai 2020 anzuwenden.
     Nachfüllbehälters einen gesundheitlichen Nutzen habe oder geringere
     Gesundheitsrisiken berge:
 
-    a)  Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz
-        1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung
-        in der jeweils geltenden Fassung für diätetische Lebensmittel
-        zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+    a)  Aminosäuren und modifizierte Aminosäuren sowie S-Adenosylmethionin und
+        L-5-Hydroxytryptophan
 
 
     b)  Carnitin

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3656
 
 Zuletzt geändert durch
-:   Art. 3 G v. 11.12.2018 I 2357
-
-Änderung durch
-:   Art. 8 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 30.8.2021 I 4074 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 30.8.2021 I 4074
 
 
 ## § 1 Geltungsbereich, Verordnungsermächtigungen
@@ -102,15 +96,21 @@ Gebühr führt. Legt der Erinnerungsführer gemäß § 64 Abs. 6 Satz 2 des
 Markengesetzes Beschwerde ein, hat er eine Beschwerdegebühr nicht zu
 entrichten.
 
-(2) Die Jahresgebühren für Patente, Schutzzertifikate und
-Patentanmeldungen und die Aufrechterhaltungsgebühren für
-Gebrauchsmuster und eingetragene Designs sind jeweils für die folgende
-Schutzfrist am letzten Tag des Monats fällig, der durch seine
-Benennung dem Monat entspricht, in den der Anmeldetag fällt. Wird ein
-Gebrauchsmuster oder ein Design erst nach Beendigung der ersten oder
-einer folgenden Schutzfrist eingetragen, so ist die
-Aufrechterhaltungsgebühr am letzten Tag des Monats fällig, in dem die
-Eintragung in das Register erfolgt ist.
+(2) Die Jahresgebühren für Patente und Patentanmeldungen und die
+Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene
+Designs sind jeweils für die folgende Schutzfrist am letzten Tag des
+Monats fällig, der durch seine Benennung dem Monat entspricht, in den
+der Anmeldetag fällt. Wird ein Gebrauchsmuster oder ein Design erst
+nach Beendigung der ersten oder einer folgenden Schutzfrist
+eingetragen, so ist die Aufrechterhaltungsgebühr am letzten Tag des
+Monats fällig, in dem die Eintragung in das Register erfolgt ist. Die
+Jahresgebühren für Schutzzertifikate werden am letzten Tag des Monats
+fällig, der durch seine Benennung dem Monat entspricht, in den der
+Laufzeitbeginn fällt. Wird das Schutzzertifikat erst nach Ablauf des
+Grundpatents erteilt, wird die Jahresgebühr für die bis dahin
+abgelaufenen Schutzfristen am letzten Tag des Monats fällig, in den
+der Tag der Erteilung fällt; die Fälligkeit der Jahresgebühren für
+nachfolgende Schutzfristen richtet sich nach Satz 3.
 
 (3) Die Verlängerungsgebühren für Marken sind jeweils für die folgende
 Schutzfrist sechs Monate vor dem Ablauf der Schutzdauer gemäß § 47
@@ -173,13 +173,14 @@ eines Beitritts zum Einspruch im Fall der gerichtlichen Entscheidung
 nach § 61 Absatz 2 des Patentgesetzes soll vor Zahlung der Gebühr
 keine gerichtliche Handlung vorgenommen werden.
 
-(2) Die Jahresgebühren für Patente, Schutzzertifikate und
-Patentanmeldungen und die Aufrechterhaltungsgebühren für
-Gebrauchsmuster und eingetragene Designs dürfen frühestens ein Jahr
-vor Eintritt der Fälligkeit vorausgezahlt werden, soweit nichts
-anderes bestimmt ist. Die Verlängerungsgebühren für Marken dürfen
-frühestens sechs Monate vor Eintritt der Fälligkeit vorausgezahlt
-werden.
+(2) Die Jahresgebühren für Patente und Patentanmeldungen und die
+Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene
+Designs dürfen frühestens ein Jahr vor Eintritt der Fälligkeit
+vorausgezahlt werden, soweit nichts anderes bestimmt ist. Die
+Verlängerungsgebühren für Marken dürfen frühestens sechs Monate vor
+Eintritt der Fälligkeit vorausgezahlt werden. Die Jahresgebühren für
+Schutzzertifikate dürfen schon früher als ein Jahr vor Eintritt der
+Fälligkeit vorausgezahlt werden.
 
 
 ## § 6 Zahlungsfristen, Folgen der Nichtzahlung
@@ -656,418 +657,354 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   50
 
 
-*    *   312 050
+*    *   312 050
 
     *   für das 5. Patentjahr . . . . . . . . . .
 
-    *   90
+    *   100
 
 
-*    *   312 051
+*    *   312 051
 
-    *   – bei Lizenzbereitschaftserklärung
-
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   45
-
-
-*    *   312 052
-
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
     *   50
 
 
-*    *   312 060
+*    *   312 052
+
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+
+    *   50
+
+
+*    *   312 060
 
     *   für das 6. Patentjahr . . . . . . . . . .
 
-    *   130
+    *   150
 
 
-*    *   312 061
+*    *   312 061
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   65
+    *   75
 
 
-*    *   312 062
+*    *   312 062
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 070
+*    *   312 070
 
     *   für das 7. Patentjahr . . . . . . . . . .
 
-    *   180
+    *   210
 
 
-*    *   312 071
+*    *   312 071
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   90
+    *   105
 
 
-*    *   312 072
+*    *   312 072
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 080
+*    *   312 080
 
     *   für das 8. Patentjahr . . . . . . . . . .
 
-    *   240
+    *   280
 
 
-*    *   312 081
+*    *   312 081
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   120
+    *   140
 
 
-*    *   312 082
+*    *   312 082
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 090
+*    *   312 090
 
     *   für das 9. Patentjahr . . . . . . . . . .
-
-    *   290
-
-
-*    *   312 091
-
-    *   – bei Lizenzbereitschaftserklärung
-
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   145
-
-
-*    *   312 092
-
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
-
-    *   50
-
-
-*    *   312 100
-
-    *   für das 10. Patentjahr . . . . . . . . . .
 
     *   350
 
 
-*    *   312 101
+*    *   312 091
 
-    *   – bei Lizenzbereitschaftserklärung
-
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
     *   175
 
 
-*    *   312 102
+*    *   312 092
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 110
+*    *   312 100
+
+    *   für das 10. Patentjahr . . . . . . . . . .
+
+    *   430
+
+
+*    *   312 101
+
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
+
+    *   215
+
+
+*    *   312 102
+
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+
+    *   50
+
+
+*    *   312 110
 
     *   für das 11. Patentjahr . . . . . . . . . .
 
-    *   470
+    *   540
 
 
-*    *   312 111
+*    *   312 111
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   235
+    *   270
 
 
-*    *   312 112
+*    *   312 112
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 120
+*    *   312 120
 
     *   für das 12. Patentjahr . . . . . . . . . .
 
-    *   620
+    *   680
 
 
-*    *   312 121
+*    *   312 121
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   310
+    *   340
 
 
-*    *   312 122
+*    *   312 122
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 130
+*    *   312 130
 
     *   für das 13. Patentjahr . . . . . . . . . .
 
-    *   760
+    *   830
 
 
-*    *   312 131
+*    *   312 131
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   380
+    *   415
 
 
-*    *   312 132
+*    *   312 132
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 140
+*    *   312 140
 
     *   für das 14. Patentjahr . . . . . . . . . .
 
-    *   910
+    *   980
 
 
-*    *   312 141
+*    *   312 141
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   455
+    *   490
 
 
-*    *   312 142
+*    *   312 142
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 150
+*    *   312 150
 
     *   für das 15. Patentjahr . . . . . . . . . .
 
-    *   1 060
+    *   1 130
 
 
-*    *   312 151
+*    *   312 151
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   530
+    *   565
 
 
-*    *   312 152
+*    *   312 152
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 160
+*    *   312 160
 
     *   für das 16. Patentjahr . . . . . . . . . .
 
-    *   1 230
+    *   1 310
 
 
-*    *   312 161
+*    *   312 161
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG)
-
-    *   615
+    *   655
 
 
-*    *   312 162
+*    *   312 162
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2)
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 170
+*    *   312 170
 
-    *   für das 17. Patentjahr
+    *   für das 17. Patentjahr . . . . . . . . . .
 
-    *   1 410
-
-
-*    *   312 171
-
-    *   – bei Lizenzbereitschaftserklärung
-
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   705
+    *   1 490
 
 
-*    *   312 172
+*    *   312 171
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
+
+    *   745
+
+
+*    *   312 172
+
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 180
+*    *   312 180
 
     *   für das 18. Patentjahr . . . . . . . . . .
 
-    *   1 590
+    *   1 670
 
 
-*    *   312 181
+*    *   312 181
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   795
+    *   835
 
 
-*    *   312 182
+*    *   312 182
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 190
+*    *   312 190
 
     *   für das 19. Patentjahr . . . . . . . . . .
 
-    *   1 760
+    *   1 840
 
 
-*    *   312 191
+*    *   312 191
 
-    *   – bei Lizenzbereitschaftserklärung
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
 
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   880
+    *   920
 
 
-*    *   312 192
+*    *   312 192
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
 
-*    *   312 200
+*    *   312 200
 
-    *   für das 20. Patentjahr
+    *   für das 20. Patentjahr . . . . . . . . . .
 
-    *   1 940
-
-
-*    *   312 201
-
-    *   – bei Lizenzbereitschaftserklärung
-
-    *
-
-*    *
-    *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
-
-    *   970
+    *   2 030
 
 
-*    *   312 202
+*    *   312 201
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+        . .
+
+    *   1 015
+
+
+*    *   312 202
+
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
@@ -1077,39 +1014,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   312 205
+*    *   312 205
 
-    *   Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . .
+    *   Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . .
         .
 
-    *   200
+    *   210
 
 
-*    *   312 206
+*    *   312 206
 
-    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
+    *   – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . .
         . .
 
-    *   100
+    *   105
 
 
-*    *   312 207
+*    *   312 207
 
-    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
+    *   – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 
     *   50
 
-
-*    *
-    *   Jahresgebühren gemäß § 16a PatG
-
-    *
 
 *    *   312 210
 
     *   für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   2 650
+    *   2 920
 
 
 *    *   312 211
@@ -1121,7 +1053,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-    *   1 325
+    *   1 460
 
 
 *    *   312 212
@@ -1135,7 +1067,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   2 940
+    *   3 240
 
 
 *    *   312 221
@@ -1147,7 +1079,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-    *   1 470
+    *   1 620
 
 
 *    *   312 222
@@ -1161,7 +1093,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   3 290
+    *   3 620
 
 
 *    *   312 231
@@ -1173,7 +1105,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG)
 
-    *   1 645
+    *   1 810
 
 
 *    *   312 232
@@ -1187,7 +1119,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   3 650
+    *   4 020
 
 
 *    *   312 241
@@ -1199,7 +1131,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-    *   1 825
+    *   2 010
 
 
 *    *   312 242
@@ -1213,7 +1145,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   4 120
+    *   4 540
 
 
 *    *   312 251
@@ -1225,7 +1157,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-    *   2 060
+    *   2 270
 
 
 *    *   312 252
@@ -1239,7 +1171,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . .
 
-    *   4 520
+    *   4 980
 
 
 *    *   312 261
@@ -1251,7 +1183,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   (§ 23 Abs. 1 PatG) . . . . . . . . . .
 
-    *   2 260
+    *   2 490
 
 
 *    *   312 262
@@ -1799,10 +1731,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   334 100
 
-    *   Nationale Gebühr für die internationale Registrierung nach Artikel 3
-        des Madrider Markenabkommens (§ 108 MarkenG) oder nach dem Protokoll
-        zum Madrider Markenabkommen und dem Protokoll zum Madrider
-        Markenabkommen (§§ 108 und 120 MarkenG) . . . . . . . . . .
+    *   Nationale Gebühr für die internationale Registrierung nach dem
+        Protokoll zum Madrider Markenabkommen (§ 108 MarkenG) . . . . . . . .
+        . .
 
     *   180
 
@@ -1811,19 +1742,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel
         3
-        ter                        Abs. 2 des Madrider Markenabkommens (§ 111
-        MarkenG) oder nach Artikel 3
         ter                        Abs. 2 des Protokolls zum Madrider
-        Markenabkommen (§ 123 Abs. 1 MarkenG) sowie nach dem Madrider
-        Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§ 123
-        Abs. 2 MarkenG) . . . . . . . . . .
+        Markenabkommen (§ 111 Abs. 1 MarkenG) . . . . . . . . . .
 
     *   120
 
 
 *    *
     *   Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei
-        Klassen (§ 125 Abs. 1 MarkenG)
+        Klassen (§ 118 Abs. 1 MarkenG)
 
     *
 
@@ -1857,16 +1784,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   334 800
 
     *   – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a
-        MarkenG) . . . . . . . . . .
+        MarkenG). . . . . . . . . .
 
     *   150
 
 
-*    *   **5. Gemeinschaftsmarken**
+*    *   **5. Unionsmarken**
 
 
 *    *
-    *   Umwandlungsverfahren (§ 125d Abs. 1 MarkenG)
+    *   Umwandlungsverfahren (§ 122 Abs. 1 MarkenG)
 
     *
 
@@ -1886,7 +1813,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Klassengebühr bei Umwandlung ab der zweiten Klasse pro Klasse
+    *   Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse
 
     *
 

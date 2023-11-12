@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2274, 2280
 
-Geändert durch
-:   Art. 71 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 4 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 G v. 7.8.2021
 
 
 ## § 1 Erhebungsmerkmale für die Gleichstellungsstatistik
@@ -362,19 +359,4 @@ erfassenden und zu meldenden personenbezogenen Daten erlangen.
 
 Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1
 Absatz 1 und 2 ausgenommen.
-
-
-## Anlage 1 (weggefallen)
-
-
-## Anlage 2 (weggefallen)
-
-
-## Anlage 3 (weggefallen)
-
-
-## Anlage 4 (weggefallen)
-
-
-## Anlage 5 (weggefallen)
 

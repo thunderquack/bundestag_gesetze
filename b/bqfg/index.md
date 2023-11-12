@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2515
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.12.2020 I 2702
+:   Art. 10 G v. 16.8.2023 I Nr. 217
 
 
 ## Teil 1 - Allgemeiner Teil

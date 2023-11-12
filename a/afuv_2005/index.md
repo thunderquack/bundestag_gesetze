@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 242
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 109 G v. 18.7.2016 I 1666
-
-Mittelbare änderung durch
-:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
+:   Art. 1 V v. 21.6.2023 I Nr. 160
 
 
 ## Eingangsformel
@@ -133,10 +130,6 @@ Im Sinne dieser Verordnung ist
     Bedingungen erforderlich ist.
 
 
-
-
-
-## Anlage 2 (weggefallen)
 
 
 
@@ -1487,5 +1480,9 @@ Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.
     veröffentlicht.
 
 
+
+
+
+## Anlage 2 (weggefallen)
 
 

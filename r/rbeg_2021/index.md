@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2855
 
+Geändert durch
+:   Art. 12 Abs. 13 G v. 16.12.2022 I 2328
+
 Stand: Ersetzt G 8601-8 v. 22.12.2016 I 3159 (RBEG 2017)
 
 ## § 1 Grundsatz
@@ -70,8 +73,7 @@ folgenden Leistungen bezogen haben:
     Kapitel des Zwölften Buches Sozialgesetzbuch,
 
 
-3.  Arbeitslosengeld II oder Sozialgeld nach dem Zweiten Buch
-    Sozialgesetzbuch,
+3.  Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch,
 
 
 4.  Leistungen nach dem Asylbewerberleistungsgesetz.

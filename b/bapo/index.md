@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.7.1989 I 1478, 1842;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 15.8.2019 I 1307
-
-Änderung durch
-:   Art. 8 Abs. 3a G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 3a G v. 27.9.2021 I 4530
 
 
 ## § 1

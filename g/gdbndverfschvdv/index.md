@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1368
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 V v. 16.8.2021 I 3582
+:   Art. 2 V v. 15.12.2022 I 2865
 
 Stand: Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
 
@@ -61,7 +61,7 @@ Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -497,7 +497,7 @@ Auswahlkommission eine Tarifbeschäftigte oder ein Tarifbeschäftigter
 oder eine Soldatin oder ein Soldat sein, wenn sie oder er über die
 erforderliche Qualifikation verfügt.
 
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024
 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus
 folgenden Mitgliedern besteht:
 
@@ -576,7 +576,7 @@ kognitive und sprachliche Fähigkeiten geprüft.
 
 
 
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024
 im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet
 wird.
 
@@ -715,7 +715,7 @@ Hochschule.
 (2) Das Studium umfasst Fachstudien an der Hochschule und
 berufspraktische Studienzeiten.
 
-(2a) Bis zum 31. Dezember 2022 können für einzelne oder alle
+(2a) Bis zum 31. Dezember 2024 können für einzelne oder alle
 Lehrveranstaltungen, die keine als Verschlusssachen eingestuften
 Inhalte enthalten, digitale Lehrformate genutzt werden.
 
@@ -779,7 +779,7 @@ Studienabschnitte verteilen sich wie folgt auf die Semester:
 
 
 (3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
+festlegen, dass bis zum 31. Dezember 2024
 
 1.  die Studienabschnitte anders gegliedert werden und
 
@@ -797,7 +797,7 @@ einer berufspraktischen Studienzeit.
 Lehrstunden.
 
 (4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Zahl der Lehrstunden um
+festlegen, dass bis zum 31. Dezember 2024 die Zahl der Lehrstunden um
 bis zu 10 Prozent verringert wird.
 
 (5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
@@ -1010,7 +1010,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 
 (2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 eine Reduzierung der
+festlegen, dass bis zum 31. Dezember 2024 eine Reduzierung der
 Studiengebiete vorgenommen wird.
 
 
@@ -1020,7 +1020,7 @@ Studiengebiete vorgenommen wird.
 absolvieren. Sechs Leistungstests sind Klausuren.
 
 (1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 im Hauptstudium
+festlegen, dass bis zum 31. Dezember 2024 im Hauptstudium
 
 1.  die Zahl der zu absolvierenden Leistungstests auf weniger als zwölf
     reduziert wird,
@@ -1175,7 +1175,7 @@ der zuständigen Dienstbehörde eine Praktikumsordnung.
 Leistungstests zu absolvieren.
 
 (2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 in den praxisbezogenen
+festlegen, dass bis zum 31. Dezember 2024 in den praxisbezogenen
 Lehrveranstaltungen die Zahl der zu absolvierenden Leistungstests auf
 zwei oder einen reduziert wird.
 
@@ -1204,7 +1204,7 @@ zu bestimmen.
 gegeben.
 
 (4) Ein bereits bekannt gegebener Ausbildungsplan kann bis zum 31.
-Dezember 2022 von der jeweiligen Ausbildungsbehörde geändert werden.
+Dezember 2024 von der jeweiligen Ausbildungsbehörde geändert werden.
 Die Änderung ist der Hochschule und der oder dem Studierenden
 mitzuteilen.
 
@@ -1239,7 +1239,7 @@ Einzelbewertungen der einzelnen Ausbildungsstationen.
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
 (1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Zwischenprüfung
+festlegen, dass bis zum 31. Dezember 2024 die Zwischenprüfung
 studiengangbegleitend durchgeführt wird.
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass
@@ -1260,7 +1260,7 @@ Zentralen Lehrbereich der Hochschule organisiert und durchgeführt.
 (2) Je eine Klausur wird in den Studiengebieten des Grundstudiums nach
 § 27 Nummer 1 bis 4 geschrieben.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt werden.
 
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
@@ -1269,7 +1269,7 @@ eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt werden.
 geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die
 Klausuren – abweichend von Absatz 4 Satz 1 – nicht an
 aufeinanderfolgenden Arbeitstagen geschrieben werden.
 
@@ -1395,7 +1395,7 @@ selbständig zu bearbeiten.
 angefertigt.
 
 (2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Diplomarbeit ganz oder
+festlegen, dass bis zum 31. Dezember 2024 die Diplomarbeit ganz oder
 teilweise während eines anderen Studienabschnitts als der
 berufspraktischen Studienzeit II angefertigt wird. Die Diplomarbeit
 ist jedoch so zu planen, dass die Bearbeitungszeit nicht den letzten
@@ -1413,7 +1413,7 @@ Themenvorschläge unterbreiten.
 beginnt mit Ausgabe des Themas.
 
 (2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Diplomarbeit eine
+festlegen, dass bis zum 31. Dezember 2024 für die Diplomarbeit eine
 längere Bearbeitungszeit als vier Monate vorgesehen wird. Die
 Regelungen zur Verhinderung in § 57 bleiben unberührt.
 
@@ -1561,7 +1561,7 @@ verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer der
 Wiederholung.
 
 (4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Wiederholung der
+festlegen, dass bis zum 31. Dezember 2024 für die Wiederholung der
 Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen
 wird.
 
@@ -1594,7 +1594,7 @@ die zuvor erreichten.
 
 (2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
 festlegen, dass in der Fachrichtung „Bundesnachrichtendienst“ bis zum
-31\. Dezember 2022
+31\. Dezember 2024
 
 1.  der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1
     Nummer 1 bis 4 und 6 auch anders zugeordnet wird und
@@ -1621,7 +1621,7 @@ festlegen, dass in der Fachrichtung „Bundesnachrichtendienst“ bis zum
 
 (3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
 festlegen, dass in der Fachrichtung „Verfassungsschutz“ bis zum 31.
-Dezember 2022
+Dezember 2024
 
 1.  der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1
     Nummer 1 bis 6 auch anders zugeordnet wird und
@@ -1640,7 +1640,7 @@ geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
 
 (5a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
+festlegen, dass bis zum 31. Dezember 2024
 
 1.  die Klausuren – abweichend von Absatz 5 Satz 1 – nicht an
     aufeinanderfolgenden Arbeitstagen geschrieben werden oder
@@ -1724,7 +1724,7 @@ Abschlussprüfung werden der oder dem Studierenden mitgeteilt
 
 
 Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen,
-dass bis zum 31. Dezember 2022 die Rangpunktzahl der Diplomarbeit und
+dass bis zum 31. Dezember 2024 die Rangpunktzahl der Diplomarbeit und
 die Rangpunkte des Diplomkolloquiums zu einem späteren Zeitpunkt
 mitgeteilt wird als dem Zeitpunkt der Mitteilung über die Zulassung
 oder Nichtzulassung zur mündlichen Abschlussprüfung.
@@ -1773,7 +1773,7 @@ Beamtinnen und Beamte angehören. Mindestens zwei Mitglieder einer
 Prüfungskommission sollen haupt- oder  nebenamtliche Lehrkräfte der
 Hochschule sein.
 
-(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022
+(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  die Prüfungskommission für die Bewertung der mündlichen
     Abschlussprüfung nur aus den folgenden Mitgliedern besteht:
@@ -1833,7 +1833,7 @@ Fachrichtung geprüft werden.
 (4) In einer Gruppe dürfen höchstens fünf Studierende geprüft werden.
 
 (4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die mündliche
+festlegen, dass bis zum 31. Dezember 2024 die mündliche
 Abschlussprüfung als Einzelprüfung durchgeführt wird.
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder
@@ -1853,8 +1853,8 @@ gestatten:
 1.  Vertreterinnen und Vertretern des Bundeskanzleramtes,
 
 
-2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-    Bau und Heimat,
+2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+    für Heimat,
 
 
 3.  den Präsidentinnen oder den Präsidenten der Dienstbehörden,
@@ -2239,240 +2239,4 @@ unterworfen.
 (2) Teil des systematischen Qualitätsmanagements ist die Evaluation.
 Das Nähere zur Evaluation regelt die Evaluationsordnung des
 Fachbereichs Nachrichtendienste der Hochschule.
-
-
-### § 83 Übergangsvorschriften für Studierende,die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst begonnen haben
-
-(1) Für Studierende, die vor dem 1. Oktober 2018 mit dem
-Vorbereitungsdienst gehobener Dienst im Bundesnachrichtendienst
-begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und
-Prüfung für den gehobenen Dienst im Bundesnachrichtendienst vom 5.
-Dezember 2006 (BGBl. I S. 2767), die zuletzt durch Artikel 3 Absatz 15
-der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden
-ist, mit der Maßgabe weiter anzuwenden, dass an die Stelle des § 28
-Absatz 5 Satz 3 und 4 der Verordnung über die Laufbahn, Ausbildung und
-Prüfung für den gehobenen Dienst im Bundesnachrichtendienst § 10
-dieser Verordnung tritt.
-
-(2) Bis zum 31. Dezember 2022 gelten ferner die Maßgaben der folgenden
-Absätze. Von den dort geregelten Abweichungsmöglichkeiten darf nur
-Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der
-COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-(3) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Zahl der Lehrstunden – abweichend von § 13 Absatz 2 der in Absatz
-    1 genannten Verordnung – um bis zu 10 Prozent verringert wird,
-
-
-2.  die Ausbildungsabschnitte – abweichend von § 13 Absatz 3 Satz 1 der in
-    Absatz 1 genannten Verordnung – gegliedert werden,
-
-
-3.  Lehrveranstaltungen oder Teile von Lehrveranstaltungen – abweichend
-    von § 17 Absatz 2 Satz 1 und 3 der in Absatz 1 genannten Verordnung –
-    in einen anderen Ausbildungsabschnitt, und zwar auch in einen
-    Abschnitt der berufspraktischen Studienzeit verschoben werden,
-
-
-4.  im Hauptstudium – abweichend von § 24 Absatz 3 Satz 1 der in Absatz 1
-    genannten Verordnung –
-
-    a)  die Zahl der zu erbringenden Leistungsnachweise auf weniger als 14
-        reduziert wird und mehr als sechs Leistungsnachweise in einer anderen
-        Form als der schriftlichen Aufsichtsarbeit zu erbringen sind oder
-
-
-    b)  vollständig auf Leistungsnachweise verzichtet wird,
-
-
-
-
-
-5.  in den praxisbezogenen Lehrveranstaltungen die Zahl der zu
-    erbringenden Leistungstests – abweichend von § 25 Absatz 2 Satz 1 der
-    in Absatz 1 genannten Verordnung – auf weniger als fünf reduziert
-    wird.
-
-
-
-
-(4) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2021
-eine Prüfungskommission – abweichend von § 30 Absatz 2 Satz 1 der in
-Absatz 1 genannten Verordnung – nur aus den folgenden Mitgliedern
-besteht:
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
-    oder Vorsitzendem,
-
-
-2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender
-    oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-
-3.  einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer
-    Beisitzender oder weiterem Beisitzendem.
-
-
-
-Eine oder einer der Beisitzenden kann eine Arbeitnehmerin oder ein
-Arbeitnehmer oder eine Soldatin oder ein Soldat sein.
-
-(5) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022 die
-Prüfungskommission – abweichend von § 30 Absatz 6 Satz 1 der in Absatz
-1 genannten Verordnung – schon dann beschlussfähig ist, wenn
-mindestens zwei Mitglieder anwesend sind. Im Fall einer solchen
-Festlegung soll mindestens eines der anwesenden Mitglieder haupt- oder
-nebenamtliche Lehrkraft der Hochschule sein.
-
-(6) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Diplomarbeit eine
-längere als die in § 33 Absatz 3 Satz 1 der in Absatz 1 genannten
-Verordnung vorgesehene Bearbeitungszeit gilt.
-
-(7) Das Prüfungsamt kann festlegen, dass – abweichend von § 34 Absatz
-1 Satz 2 der in Absatz 1 genannten Verordnung –
-
-1.  die Aufgaben der schriftlichen Arbeiten den Studiengebieten nach § 17
-    Absatz 2 der in Absatz 1 genannten Verordnung anders zugeordnet
-    werden,
-
-
-2.  die Aufgaben der jeweiligen schriftlichen Arbeit aus mehr als einem
-    der Studiengebiete nach § 17 Absatz 2 der in Absatz 1 genannten
-    Verordnung entnommen werden.
-
-
-
-
-(8) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass die schriftlichen Arbeiten – abweichend von § 34
-Absatz 3 der in Absatz 1 genannten Verordnung – nicht an
-aufeinanderfolgenden Arbeitstagen geschrieben werden.
-
-(9) Ist festgelegt worden, dass im Hauptstudium vollständig auf
-Leistungsnachweise verzichtet wird, so legt die Hochschule im
-Einvernehmen mit der Dienstbehörde fest, welche anderen Bewertungen –
-abweichend von § 40 Absatz 1 Satz 1 Nummer 2 der in Absatz 1 genannten
-Verordnung – statt der Durchschnittspunktzahl des Hauptstudiums in die
-Berechnung der Abschlussnote eingehen.
-
-
-### § 84 Übergangsvorschriften für Studierende, die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes begonnen haben
-
-(1) Für Studierende, die vor dem 1. Oktober 2018 mit dem
-Vorbereitungsdienst gehobener Dienst im Verfassungsschutz des Bundes
-begonnen haben, ist weiter die Verordnung über die Laufbahn,
-Ausbildung und Prüfung für den gehobenen Dienst im Verfassungsschutz
-des Bundes vom 11. Oktober 2001 (BGBl. I S. 2640), die zuletzt durch
-Artikel 13 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert
-worden ist, anzuwenden.
-
-(2) Bis zum 31. Dezember 2022 gelten ferner die Maßgaben der folgenden
-Absätze. Von den dort geregelten Abweichungsmöglichkeiten darf nur
-Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der
-COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-(3) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Zahl der Lehrstunden – abweichend von § 13 Absatz 2 der in Absatz
-    1 genannten Verordnung – um bis zu 10 Prozent verringert wird,
-
-
-2.  die Ausbildungsabschnitte abweichend von § 13 Absatz 3 Satz 1 der in
-    Absatz 1 genannten Verordnung gegliedert werden,
-
-
-3.  Lehrveranstaltungen oder Teile von Lehrveranstaltungen – abweichend
-    von § 17 Absatz 2 der in Absatz 1 genannten Verordnung – in einen
-    anderen Ausbildungsabschnitt, und zwar auch in einen Abschnitt der
-    berufspraktischen Studienzeit verschoben werden,
-
-
-4.  im Hauptstudium – abweichend von § 23 Absatz 3 der in Absatz 1
-    genannten Verordnung –
-
-    a)  die Zahl der zu erbringenden Leistungsnachweise auf weniger als zwölf
-        reduziert wird und mehr als sechs Leistungsnachweise in einer anderen
-        Form als der schriftlichen Aufsichtsarbeit zu erbringen sind oder
-
-
-    b)  vollständig auf Leistungsnachweise verzichtet wird,
-
-
-
-
-
-5.  in den praxisbezogenen Lehrveranstaltungen die Zahl der zu
-    erbringenden Leistungsnachweise – abweichend von § 24 Absatz 2 der in
-    Absatz 1 genannten Verordnung – auf weniger als vier reduziert wird.
-
-
-
-
-(4) Das Prüfungsamt kann festlegen, dass – abweichend von § 29 Absatz
-2 Satz 1 der in Absatz 1 genannten Verordnung – eine
-Prüfungskommission nur aus den folgenden Mitgliedern besteht:
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
-    oder Vorsitzendem,
-
-
-2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender
-    oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-
-3.  einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer
-    Beisitzender oder weiterem Beisitzendem.
-
-
-
-
-(5) Das Prüfungsamt kann festlegen, dass – abweichend von § 29 Absatz
-5 Satz 1 der in Absatz 1 genannten Verordnung – die Prüfungskommission
-schon dann beschlussfähig ist, wenn mindestens zwei Mitglieder
-anwesend sind. Im Fall einer solchen Festlegung soll mindestens eines
-der anwesenden Mitglieder haupt- oder nebenamtliche Lehrkraft der
-Hochschule sein.
-
-(6) Im Einvernehmen mit der Dienstbehörde kann die Hochschule für die
-Diplomarbeit – abweichend von § 32 Absatz 3 Satz 1 der in Absatz 1
-genannten Verordnung –
-
-1.  eine längere Bearbeitungszeit festlegen,
-
-
-2.  festlegen, dass die Diplomarbeit während eines anderen
-    Ausbildungsabschnitts geschrieben wird.
-
-
-
-
-(7) Das Prüfungsamt kann – abweichend von § 33 Absatz 1 der in Absatz
-1 genannten Verordnung – festlegen, dass
-
-1.  die Aufgaben der schriftlichen Arbeiten den Studiengebieten nach § 17
-    Absatz 2 der in Absatz 1 genannten Verordnung anders zugeordnet
-    werden,
-
-
-2.  die Aufgaben der jeweiligen schriftlichen Arbeit aus mehr als einem
-    der Studiengebiete nach § 17 Absatz 2 entnommen werden.
-
-
-
-
-(8) Das Prüfungsamt kann festlegen, dass die schriftlichen Arbeiten –
-abweichend von § 33 Absatz 3 Satz 2 der in Absatz 1 genannten
-Verordnung – nicht an aufeinanderfolgenden Arbeitstagen geschrieben
-werden.
-
-(9) Ist festgelegt worden, dass im Hauptstudium vollständig auf
-Leistungsnachweise verzichtet wird, so legt die Hochschule im
-Einvernehmen mit der Dienstbehörde fest, welche anderen Bewertungen
-abweichend von § 39 Absatz 1 Satz 1 Nummer 2 statt der
-Durchschnittspunktzahl des Hauptstudiums in die Berechnung der
-Abschlussnote eingehen.
 

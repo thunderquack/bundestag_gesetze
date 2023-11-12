@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 566
 
 Zuletzt geändert durch
-:   Art. 100 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 2 G v. 28.5.2021 I 1174 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 28.5.2021 I 1174
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

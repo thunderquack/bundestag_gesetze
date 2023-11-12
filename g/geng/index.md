@@ -19,19 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.10.2006 I 2230;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.12.2020 I 3256
-
-Änderung durch
-:   Art. 20 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 22 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 67 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 20.7.2022 I 1166
 
 
 ## Abschnitt 1 - Errichtung der Genossenschaft
@@ -347,28 +335,7 @@ soweit diese Bestimmung, ihr Fehlen oder ihre Nichtigkeit
 
 ### § 12 Veröffentlichung der Satzung
 
-(1) Die eingetragene Satzung ist von dem Gericht im Auszug zu
-veröffentlichen.
-
-(2) Die Veröffentlichung muss enthalten:
-
-1.  das Datum der Satzung,
-
-
-2.  die Firma und den Sitz der Genossenschaft,
-
-
-3.  den Gegenstand des Unternehmens,
-
-
-4.  die Mitglieder des Vorstands sowie deren Vertretungsbefugnis,
-
-
-5.  die Zeitdauer der Genossenschaft, falls diese auf eine bestimmte Zeit
-    beschränkt ist.
-
-
-
+Die eingetragene Satzung ist von dem Gericht zu veröffentlichen.
 
 
 ### § 13 Rechtszustand vor der Eintragung
@@ -532,10 +499,7 @@ zum Register eingereichten vollständigen Wortlaut der Satzung
 der Satzung bisher nicht eingereicht worden, so hat der Vorstand zu
 erklären, dass der eingereichte Wortlaut der Satzung mit dem zuletzt
 zum Register eingereichten vollständigen Wortlaut der Satzung und
-allen seither beschlossenen Änderungen übereinstimmt. Die
-Veröffentlichung des Beschlusses findet nur insoweit statt, als
-derselbe eine der in § 12 Abs. 2 bezeichneten Bestimmungen zum
-Gegenstand hat.
+allen seither beschlossenen Änderungen übereinstimmt.
 
 (6) Der Beschluss hat keine rechtliche Wirkung, bevor er in das
 Genossenschaftsregister des Sitzes der Genossenschaft eingetragen ist.
@@ -691,7 +655,7 @@ Genossenschaft den vereinbarten Sollzinssatz zu zahlen.
 (1) Werden der Geschäftsanteil oder die auf ihn zu leistenden
 Einzahlungen herabgesetzt oder die für die Einzahlungen festgesetzten
 Fristen verlängert, so ist der wesentliche Inhalt des Beschlusses der
-Generalversammlung durch das Gericht bei der Bekanntmachung der
+Generalversammlung durch das Gericht in einer Bekanntmachung zu der
 Eintragung in das Genossenschaftsregister anzugeben.
 
 (2) Den Gläubigern der Genossenschaft ist, wenn sie sich binnen sechs
@@ -868,8 +832,7 @@ Genossenschaft für einzelne Geschäfte erforderlich ist.
 Jede Änderung des Vorstands oder der Vertretungsbefugnis eines
 Vorstandsmitglieds hat der Vorstand zur Eintragung in das
 Genossenschaftsregister anzumelden. Der Anmeldung sind die Urkunden
-über die Änderung in Urschrift oder Abschrift beizufügen. Die
-Eintragung ist vom Gericht bekannt zu machen.
+über die Änderung in Urschrift oder Abschrift beizufügen.
 
 
 ### § 29 Publizität des Genossenschaftsregisters
@@ -886,9 +849,9 @@ Rechtshandlungen, die innerhalb von fünfzehn Tagen nach der
 Bekanntmachung vorgenommen werden, sofern der Dritte beweist, dass er
 die Änderung weder kannte noch kennen musste.
 
-(3) Ist die Änderung unrichtig bekannt gemacht, so kann sich ein
-Dritter auf die Bekanntmachung der Änderung berufen, es sei denn, dass
-er die Unrichtigkeit kannte.
+(3) Ist die Änderung unrichtig eingetragen, so kann sich ein Dritter
+auf die Eintragung der Änderung berufen, es sei denn, dass er die
+Unrichtigkeit kannte.
 
 (4) (weggefallen)
 
@@ -1180,7 +1143,7 @@ Vorstandsmitglieder sinngemäß.
 (1) Die Genossenschaft kann Prokura nach Maßgabe der §§ 48 bis 53 des
 Handelsgesetzbuchs erteilen. An die Stelle der Eintragung in das
 Handelsregister tritt die Eintragung in das Genossenschaftsregister. §
-28 Satz 3 und § 29 gelten entsprechend.
+29 gilt entsprechend.
 
 (2) Die Genossenschaft kann auch Handlungsvollmacht erteilen. § 54 des
 Handelsgesetzbuchs ist anzuwenden.
@@ -1254,12 +1217,7 @@ vertretene Mitglied zu entlasten oder von einer Verbindlichkeit zu
 befreien ist oder ob die Genossenschaft gegen ihn oder das vertretene
 Mitglied einen Anspruch geltend machen soll.
 
-(7) Die Satzung kann zulassen, dass Beschlüsse der Mitglieder
-schriftlich oder in elektronischer Form gefasst werden; das Nähere hat
-die Satzung zu regeln. Ferner kann die Satzung vorsehen, dass in
-bestimmten Fällen Mitglieder des Aufsichtsrats im Wege der Bild- und
-Tonübertragung an der Generalversammlung teilnehmen können und dass
-die Generalversammlung in Bild und Ton übertragen werden darf.
+(7) (weggefallen)
 
 
 ### § 43a Vertreterversammlung
@@ -1333,6 +1291,146 @@ Satzung hierfür bestimmten geringeren Teil in Textform beantragt wird.
 § 45 Abs. 3 gilt entsprechend.
 
 
+### § 43b Formen der Generalversammlung
+
+(1) Die Generalversammlung muss in einer der folgenden Formen
+abgehalten werden:
+
+1.  als Präsenzversammlung an einem Ort, an dem die Mitglieder gemeinsam
+    physisch anwesend sind,
+
+
+2.  als virtuelle Versammlung ohne gemeinsame physische Anwesenheit der
+    Mitglieder an einem Ort,
+
+
+3.  als hybride Versammlung, an der die Mitglieder wahlweise am Ort der
+    Versammlung physisch anwesend oder ohne physische Anwesenheit an
+    diesem Ort teilnehmen können,
+
+
+4.  als Versammlung im gestreckten Verfahren, aufgespalten in
+
+    a)  eine Erörterungsphase, die abgehalten wird
+
+        aa) als virtuelle Versammlung oder
+
+
+        bb) als hybride Versammlung und
+
+
+
+
+
+    b)  eine zeitlich nachgelagerte Abstimmungsphase.
+
+
+
+
+
+
+
+(2) Bei einer Präsenzversammlung können Beschlüsse der Mitglieder auch
+schriftlich oder im Wege der elektronischen Kommunikation gefasst
+werden; das Nähere hat die Satzung zu regeln. Ferner kann die Satzung
+vorsehen, dass
+
+1.  in bestimmten Fällen Mitglieder des Aufsichtsrats im Wege der Bild-
+    und Tonübertragung an der Generalversammlung teilnehmen können und
+
+
+2.  die Generalversammlung in Bild und Ton übertragen werden darf.
+
+
+
+
+(3) Bei einer virtuellen Versammlung muss sichergestellt sein, dass
+
+1.  der gesamte Versammlungsverlauf allen teilnehmenden Mitgliedern
+    schriftlich oder im Wege der elektronischen Kommunikation mitgeteilt
+    wird und
+
+
+2.  alle teilnehmenden Mitglieder ihre Rede-, Antrags-, Auskunfts- und
+    Stimmrechte schriftlich oder im Wege der elektronischen Kommunikation
+    ausüben können.
+
+
+
+Die Satzung kann die Einzelheiten dazu regeln, wie die Rede-,
+Antrags-, Auskunfts- und Stimmrechte schriftlich oder im Wege der
+elektronischen Kommunikation ausgeübt werden können.
+
+(4) Bei einer hybriden Versammlung muss sichergestellt sein, dass
+
+1.  der gesamte Versammlungsverlauf allen teilnehmenden Mitgliedern im
+    Wege der elektronischen Kommunikation mitgeteilt wird,
+
+
+2.  die Mitglieder, die ohne physische Anwesenheit am Ort der Versammlung
+    teilnehmen, ihre Rede-, Antrags-, Auskunfts- und Stimmrechte im Wege
+    der elektronischen Kommunikation ausüben können und
+
+
+3.  der Vorstand und der Aufsichtsrat durch physisch am Ort der
+    Versammlung anwesende Mitglieder vertreten sind.
+
+
+
+Die Satzung kann die Einzelheiten dazu regeln, wie die Rede-,
+Antrags-, Auskunfts- und Stimmrechte im Wege der elektronischen
+Kommunikation ausgeübt werden können.
+
+(5) Bei einer Versammlung im gestreckten Verfahren muss sichergestellt
+sein, dass
+
+1.  während einer als virtuelle Versammlung stattfindenden
+    Erörterungsphase Absatz 3 mit Ausnahme der Anforderungen an die
+    Ausübung von Stimmrechten erfüllt ist,
+
+
+2.  während einer als hybride Versammlung stattfindenden Erörterungsphase
+    Absatz 4 mit Ausnahme der Anforderungen an die Ausübung von
+    Stimmrechten erfüllt ist und
+
+
+3.  während der Abstimmungsphase alle Mitglieder ihre Stimmrechte
+    schriftlich oder im Wege der elektronischen Kommunikation ausüben
+    können.
+
+
+
+Die Satzung kann die Einzelheiten dazu regeln, wie die Stimmrechte
+nach Satz 1 Nummer 3 ausgeübt werden können.
+
+(6) Vorbehaltlich einer Satzungsbestimmung nach Satz 3 entscheiden
+Vorstand und Aufsichtsrat gemeinsam nach pflichtgemäßem Ermessen unter
+Berücksichtigung der Interessen der Mitglieder über die Form
+
+1.  der Versammlung nach Absatz 1 und
+
+
+2.  der Erörterungsphase nach Absatz 1 Nummer 4 Buchstabe a und b, falls
+    eine Entscheidung für eine Versammlung im gestreckten Verfahren
+    getroffen wurde.
+
+
+
+Hat die Genossenschaft keinen Aufsichtsrat, entscheidet der Vorstand
+gemeinsam mit einem von der Generalversammlung aus ihrer Mitte
+gewählten Bevollmächtigten. Können sich Vorstand und Aufsichtsrat oder
+Vorstand und der Bevollmächtigte nach Satz 2 nicht nach Satz 1 auf
+eine Form einigen oder kommt eine Entscheidung aus sonstigen Gründen
+nicht zustande, ist eine Präsenzversammlung abzuhalten. Die Satzung
+kann eine in Absatz 1 bestimmte Form der Versammlung festlegen oder
+das Auswahlermessen nach Satz 1 beschränken. Die Abhaltung einer
+Präsenzversammlung kann nach Satz 4 nicht ausgeschlossen werden.
+
+(7) Mitglieder, die an einer Versammlung nach Absatz 1 Nummer 2 bis 4
+schriftlich oder im Wege der elektronischen Kommunikation teilgenommen
+haben, gelten als erschienen.
+
+
 ### § 44 Einberufung der Generalversammlung
 
 (1) Die Generalversammlung wird durch den Vorstand einberufen, soweit
@@ -1375,10 +1473,26 @@ bekannt zu machen.
 
 (1) Die Generalversammlung muss in der durch die Satzung bestimmten
 Weise mit einer Frist von mindestens zwei Wochen einberufen werden.
-Bei der Einberufung ist die Tagesordnung bekannt zu machen. Die
-Tagesordnung einer Vertreterversammlung ist allen Mitgliedern durch
-Veröffentlichung in den Genossenschaftsblättern oder im Internet unter
-der Adresse der Genossenschaft oder durch unmittelbare
+Bei der Einberufung ist Folgendes bekannt zu machen:
+
+1.  die Tagesordnung,
+
+
+2.  die Form der Versammlung nach § 43b Absatz 1,
+
+
+3.  im Fall von § 43b Absatz 1 Nummer 4 zusätzlich die Form der
+    Erörterungsphase und
+
+
+4.  im Fall von § 43b Absatz 1 Nummer 2 bis 4 die erforderlichen Angaben
+    zur Nutzung der schriftlichen oder elektronischen Kommunikation.
+
+
+
+Die Tagesordnung einer Vertreterversammlung ist allen Mitgliedern
+durch Veröffentlichung in den Genossenschaftsblättern oder im Internet
+unter der Adresse der Genossenschaft oder durch unmittelbare
 Benachrichtigung in Textform bekannt zu machen.
 
 (2) Über Gegenstände, deren Verhandlung nicht in der durch die Satzung
@@ -1396,9 +1510,17 @@ Beschlussfassung bedarf es der Ankündigung nicht.
 ### § 47 Niederschrift
 
 (1) Über die Beschlüsse der Generalversammlung ist eine Niederschrift
-anzufertigen. Sie soll den Ort und den Tag der Versammlung, den Namen
-des Vorsitzenden sowie Art und Ergebnis der Abstimmung und die
-Feststellung des Vorsitzenden über die Beschlussfassung enthalten.
+anzufertigen. Sie soll den Ort und den Tag der Versammlung, die Form
+der Versammlung nach § 43b Absatz 1 und im Fall von § 43b Absatz 1
+Nummer 4 zusätzlich die Form der Erörterungsphase, den Namen des
+Vorsitzenden sowie Art und Ergebnis der Abstimmung und die
+Feststellung des Vorsitzenden über die Beschlussfassung enthalten. Bei
+Versammlungen nach § 43b Absatz 1 Nummer 2 oder Nummer 4 Buchstabe a
+ist als Ort der Versammlung der Sitz der Genossenschaft anzugeben. Im
+Fall von Versammlungen nach § 43b Absatz 1 Nummer 2 bis 4 ist der
+Niederschrift ein Verzeichnis der Mitglieder beizufügen, die an der
+Beschlussfassung mitgewirkt haben. In diesem Verzeichnis ist zu jedem
+Mitglied die Art der Stimmabgabe anzugeben.
 
 (2) Die Niederschrift ist vom Vorsitzenden und mindestens einem
 anwesenden Mitglied des Vorstands zu unterschreiben. Ihr sind die
@@ -1489,6 +1611,13 @@ Mitglied des Vorstands und des Aufsichtsrats, wenn es durch die
 Ausführung des Beschlusses eine strafbare Handlung oder eine
 Ordnungswidrigkeit begehen oder wenn es ersatzpflichtig werden würde.
 
+(2a) Die Anfechtung eines Beschlusses der Generalversammlung nach §
+43b Absatz 1 Nummer 2 bis 4 kann nicht auf Verletzungen des Gesetzes
+oder der Mitgliederrechte gestützt werden, die auf technische
+Störungen der elektronischen Kommunikation zurückzuführen sind, es sei
+denn, der Genossenschaft ist Vorsatz oder grobe Fahrlässigkeit
+vorzuwerfen. Die Absätze 1 und 2 bleiben unberührt.
+
 (3) Die Klage ist gegen die Genossenschaft zu richten. Die
 Genossenschaft wird durch den Vorstand, sofern dieser nicht selbst
 klagt, und durch den Aufsichtsrat, sofern dieser nicht selbst klagt,
@@ -1508,8 +1637,7 @@ erklärt ist, wirkt dieses Urteil auch gegenüber den Mitgliedern der
 Genossenschaft, die nicht Partei des Rechtsstreits waren. Ist der
 Beschluss in das Genossenschaftsregister eingetragen, hat der Vorstand
 dem Registergericht das Urteil einzureichen und dessen Eintragung zu
-beantragen. Eine gerichtliche Bekanntmachung der Eintragung erfolgt
-nur, wenn der eingetragene Beschluss veröffentlicht worden war.
+beantragen.
 
 
 ### § 52 (weggefallen)
@@ -1579,10 +1707,10 @@ einzureichen:
 2.  die im Prüfungszeitraum festgestellten Jahresabschlüsse;
 
 
-3.  ein Nachweis über die im Prüfungszeitraum erfolgte Offenlegung des
-    Jahresabschlusses im Bundesanzeiger oder darüber, dass ein
-    entsprechender Bekanntmachungs- oder Hinterlegungsauftrag erteilt
-    wurde;
+3.  ein Nachweis über die im Prüfungszeitraum erfolgte Einstellung des
+    Jahresabschlusses im Unternehmensregister oder darüber, dass der
+    Jahresabschluss zur Einstellung an die das Unternehmensregister
+    führende Stelle übermittelt wurde;
 
 
 4.  eine Abschrift der Mitgliederliste;
@@ -2840,8 +2968,8 @@ Pflichten des Vorstands und unterliegen gleich diesem der Überwachung
 des Aufsichtsrats. Sie haben für den Beginn der Liquidation eine
 Bilanz (Eröffnungsbilanz) sowie für den Schluss eines jeden Jahres
 einen Jahresabschluss und erforderlichenfalls einen Lagebericht
-aufzustellen. Die Eröffnungsbilanz ist zu veröffentlichen; die
-Bekanntmachung ist zu dem Genossenschaftsregister einzureichen.
+aufzustellen. Die Eröffnungsbilanz ist nach § 339 des
+Handelsgesetzbuchs offenzulegen.
 
 
 ### § 90 Voraussetzung für Vermögensverteilung
@@ -3003,7 +3131,7 @@ aufgelöst.
 
 ### § 102 Eintragung der Eröffnung des Insolvenzverfahrens
 
-(1) Die Eröffnung des Insolvenzverfahrens ist von Amts wegen in das
+Die Eröffnung des Insolvenzverfahrens ist von Amts wegen in das
 Genossenschaftsregister einzutragen. Das Gleiche gilt für
 
 1.  die Aufhebung des Eröffnungsbeschlusses,
@@ -3029,8 +3157,6 @@ Genossenschaftsregister einzutragen. Das Gleiche gilt für
 
 
 
-
-(2) Die Eintragungen nach Absatz 1 werden nicht bekannt gemacht.
 
 
 ### (XXXX) §§ 103 und 104 (weggefallen)
@@ -3685,17 +3811,10 @@ I S. 2182) am 25. Dezember 1993 von der Verwaltungsbehörde vorgenommen
 worden sind.
 
 
-### § 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen
+### § 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen, Registerbekanntmachungen
 
-(1) § 8 Abs. 1 sowie die §§ 8a, 9, 10a und 11 des Handelsgesetzbuchs
-finden auf das Genossenschaftsregister Anwendung. Eine gerichtliche
-Bekanntmachung von Eintragungen findet nur gemäß den §§ 12, 16 Abs. 5,
-§ 28 Satz 3, § 42 Abs. 1 Satz 3, § 51 Abs. 5 sowie in den Fällen des §
-22 Abs. 1, des § 22a Abs. 1, des § 82 Abs. 1 und des § 97 statt. § 10
-des Handelsgesetzbuchs ist entsprechend anzuwenden.
-
-(2) Soweit nicht ein anderes bestimmt ist, werden die Eintragungen
-ihrem ganzen Inhalt nach veröffentlicht.
+§ 8 Absatz 1 sowie die §§ 8a, 9, 10, 10a und 11 des Handelsgesetzbuchs
+finden auf das Genossenschaftsregister Anwendung.
 
 
 ### § 157 Anmeldungen zum Genossenschaftsregister
@@ -3704,7 +3823,8 @@ Die in § 11 Abs. 1 geregelte Anmeldung zum Genossenschaftsregister ist
 von sämtlichen Mitgliedern des Vorstands, die anderen nach diesem
 Gesetz vorzunehmenden Anmeldungen sind vom Vorstand oder den
 Liquidatoren elektronisch in öffentlich beglaubigter Form
-einzureichen.
+einzureichen. Die öffentliche Beglaubigung mittels Videokommunikation
+gemäß § 40a des Beurkundungsgesetzes ist zulässig.
 
 
 ### § 158 Ersatzweise Bekanntmachung
@@ -3865,4 +3985,15 @@ erstmals ab dem 1. Januar 2022 anzuwenden.
 § 9 Absatz 3 und 4 in der vom 12. August 2021 an geltenden Fassung
 findet erstmals auf die Festlegung von Zielgrößen ab dem 12. August
 2021 Anwendung.
+
+
+### § 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+
+§ 53a Absatz 2 Satz 1 Nummer 3 und § 89 Satz 3 in der ab dem 1. August
+2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen
+für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr
+anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis
+einschließlich 31. Juli 2022 geltenden Fassung sind letztmals
+anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar
+2022 beginnende Geschäftsjahr.
 

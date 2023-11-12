@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1573
 
 Zuletzt geändert durch
-:   Art. 483 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 2.8.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 16.4.2021 I 822
 
 
 ## Eingangsformel

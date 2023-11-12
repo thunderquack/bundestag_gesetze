@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 18
 
-Geändert durch
-:   Art. 102 G v. 10.8.2021 I 3436
+Zuletzt geändert durch
+:   Art. 2 Abs. 17 G v. 20.12.2022 I 2752
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1564,11 +1564,8 @@ Verweisungen auf Vorschriften des Unionsrechts in diesem Gesetz zu
 erforderlich ist.
 
 
-### § 29 Verkündung von Rechtsverordnungen
+### § 29 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 30 Außerkrafttreten

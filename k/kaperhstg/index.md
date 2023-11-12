@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.10.1967 I 977;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 7.12.2006 I 2782
+:   Art. 38 G v. 16.12.2022 I 2294
 
 
 ## § 1 Steuern vom Einkommen und Ertrag der Anteilseigner
@@ -91,21 +91,16 @@ Gesellschaften anzuwenden, wenn
 
 
 
-Der Erwerber der Anteilsrechte hat nachzuweisen, daß die
-Voraussetzungen der Nummern 1 bis 3 erfüllt sind.
+Der Erwerber der Anteilsrechte oder die ausländische Gesellschaft
+haben nachzuweisen, daß die Voraussetzungen der Nummern 1 bis 3
+erfüllt sind. Zuständig für die Prüfung nach den Sätzen 1 und 2 ist
+die Finanzbehörde, die im Zeitpunkt der Antragstellung nach § 20 der
+Abgabenordnung für die Besteuerung der ausländischen Gesellschaft nach
+dem Einkommen örtlich zuständig ist. Ist im Zeitpunkt der
+Antragstellung nach § 20 der Abgabenordnung keine Finanzbehörde
+zuständig, ist das Bundeszentralamt für Steuern zuständig.
 
-(2) Setzt die ausländische Gesellschaft in den Fällen des Absatzes 1
-innerhalb von fünf Jahren nach Ausgabe der neuen Anteilsrechte ihr
-Kapital herab und zahlt sie die dadurch freiwerdenden Mittel ganz oder
-teilweise zurück, so gelten die zurückgezahlten Beträge bei den
-Anteilseignern insoweit als Einkünfte aus Kapitalvermögen im Sinne des
-§ 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes, als sie den Betrag der
-Erhöhung des Kapitals nicht übersteigen. Das gleiche gilt, wenn die
-ausländische Gesellschaft Maßnahmen trifft, die den in Satz 1
-bezeichneten Maßnahmen vergleichbar sind. Die Sätze 1 und 2 sind in
-den Fällen des § 27 Abs. 8 des Körperschaftsteuergesetzes in der
-Fassung des Artikels 3 des Gesetzes vom 7. Dezember 2006 (BGBl. I S.
-2782) nicht anzuwenden.
+(2) (weggefallen)
 
 
 ## § 8
@@ -133,14 +128,11 @@ ist, soweit dafür eine Rücklage als verwendet gilt, die aus Gewinnen
 eines vor dem 1. Januar 1977 abgelaufenen Wirtschaftsjahrs gebildet
 worden ist.
 
+(3) § 7 Absatz 2 ist letztmals auf die Rückzahlung von Nennkapital
+anzuwenden, wenn die Rückzahlung vor dem 1. Januar 2023 erfolgt ist.
 
-## § 9 Anwendung im Land Berlin
 
-Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+## § 9 (weggefallen)
 
 
 ## § 10 Anwendungszeitraum

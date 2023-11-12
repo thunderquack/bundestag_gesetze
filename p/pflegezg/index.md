@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 874, 896
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.11.2021 I 4906
-
-Mittelbare änderung durch
-:   Art. 19 G v. 22.11.2021 I 4906 ist berücksichtigt
+:   Art. 2 G v. 19.12.2022 I 2510
 
 
 ## § 1 Ziel des Gesetzes
@@ -91,8 +88,8 @@ Familienpflegezeit oder einer Freistellung nach § 2 Absatz 5 des
 Familienpflegezeitgesetzes in Anspruch genommen, ist die Pflegezeit in
 unmittelbarem Anschluss an die Familienpflegezeit oder die
 Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes zu
-beanspruchen und abweichend von Satz 1 dem Arbeitgeber spätestens acht
-Wochen vor Beginn der Pflegezeit schriftlich anzukündigen.
+beanspruchen; sie ist abweichend von Satz 1 dem Arbeitgeber spätestens
+acht Wochen vor Beginn schriftlich anzukündigen.
 
 (4) Wenn nur teilweise Freistellung in Anspruch genommen wird, haben
 Arbeitgeber und Beschäftigte über die Verringerung und die Verteilung
@@ -121,6 +118,16 @@ Arbeitgeber durch ein ärztliches Zeugnis nachzuweisen. Absatz 1 Satz
 2, Absatz 3 Satz 1 und 2 und Absatz 4 gelten entsprechend. § 45 des
 Fünften Buches Sozialgesetzbuch bleibt unberührt.
 
+(6a) Beschäftigte von Arbeitgebern mit in der Regel 15 oder weniger
+Beschäftigten können bei ihrem Arbeitgeber den Abschluss einer
+Vereinbarung über eine Pflegezeit nach Absatz 1 Satz 1 oder eine
+sonstige Freistellung nach Absatz 5 Satz 1 oder Absatz 6 Satz 1
+beantragen. Der Arbeitgeber hat den Antrag innerhalb von vier Wochen
+nach Zugang zu beantworten. Eine Ablehnung des Antrags ist zu
+begründen. Wird eine Pflegezeit oder sonstige Freistellung nach Satz 1
+vereinbart, gelten die Absätze 2, 3 Satz 4 und 6 erster Halbsatz,
+Absatz 4 Satz 1 sowie Absatz 6 Satz 2 und 4 entsprechend.
+
 (7) Ein Anspruch auf Förderung richtet sich nach den §§ 3, 4, 5 Absatz
 1 Satz 1 und Absatz 2 sowie den §§ 6 bis 10 des
 Familienpflegezeitgesetzes.
@@ -134,10 +141,11 @@ Zeitraum in Anspruch genommene Pflegezeit kann bis zur Höchstdauer
 verlängert werden, wenn der Arbeitgeber zustimmt. Eine Verlängerung
 bis zur Höchstdauer kann verlangt werden, wenn ein vorgesehener
 Wechsel in der Person des Pflegenden aus einem wichtigen Grund nicht
-erfolgen kann. Pflegezeit und Familienpflegezeit nach § 2 des
-Familienpflegezeitgesetzes dürfen gemeinsam die Gesamtdauer von 24
-Monaten je pflegebedürftigem nahen Angehörigen nicht überschreiten.
-Die Pflegezeit wird auf Berufsbildungszeiten nicht angerechnet.
+erfolgen kann; dies gilt nicht für Fälle des § 3 Absatz 6a. Pflegezeit
+und Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes dürfen
+gemeinsam die Gesamtdauer von 24 Monaten je pflegebedürftigem nahen
+Angehörigen nicht überschreiten. Die Pflegezeit wird auf
+Berufsbildungszeiten nicht angerechnet.
 
 (2) Ist der nahe Angehörige nicht mehr pflegebedürftig oder die
 häusliche Pflege des nahen Angehörigen unmöglich oder unzumutbar,
@@ -193,7 +201,10 @@ Absatz 1 Satz 4 nicht überschritten wird.
 (1) Der Arbeitgeber darf das Beschäftigungsverhältnis von der
 Ankündigung, höchstens jedoch zwölf Wochen vor dem angekündigten
 Beginn, bis zur Beendigung der kurzzeitigen Arbeitsverhinderung nach §
-2 oder der Freistellung nach § 3 nicht kündigen.
+2 oder der Freistellung nach § 3 nicht kündigen. Im Fall einer
+Vereinbarung über eine Freistellung nach § 3 Absatz 6a dieses Gesetzes
+oder nach § 2a Absatz 5a des Familienpflegezeitgesetzes beginnt der
+Kündigungsschutz mit dem Beginn der Freistellung.
 
 (2) In besonderen Fällen kann eine Kündigung von der für den
 Arbeitsschutz zuständigen obersten Landesbehörde oder der von ihr
@@ -289,47 +300,6 @@ Von den Vorschriften dieses Gesetzes kann nicht zuungunsten der
 Beschäftigten abgewichen werden.
 
 
-## § 9 Sonderregelungen aus Anlass der COVID-19-Pandemie
+## § 9 (weggefallen)
 
-(1) Abweichend von § 2 Absatz 1 haben Beschäftigte das Recht, in dem
-Zeitraum vom 29. Oktober 2020 bis einschließlich 31. März 2022 bis zu
-20 Arbeitstage der Arbeit fernzubleiben, wenn die akute
-Pflegesituation auf Grund der COVID-19-Pandemie aufgetreten ist. Der
-Zusammenhang wird vermutet.
-
-(2) § 2 Absatz 3 Satz 2 ist bis zum Ablauf des 31. März 2022 mit der
-Maßgabe anzuwenden, dass sich der Anspruch auch nach § 150 Absatz 5d
-Satz 1 des Elften Buches Sozialgesetzbuch richtet.
-
-(3) Abweichend von § 3 Absatz 3 Satz 1 gilt, dass die Ankündigung in
-Textform erfolgen muss.
-
-(4) Abweichend von § 3 Absatz 3 Satz 4 muss sich die
-Familienpflegezeit oder die Freistellung nach § 2 Absatz 5 des
-Familienpflegezeitgesetzes nicht unmittelbar an die Pflegezeit
-anschließen, wenn der Arbeitgeber zustimmt, die Gesamtdauer nach § 4
-Absatz 1 Satz 4 nicht überschritten wird und die Familienpflegezeit
-oder die Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes
-spätestens mit Ablauf des 31. März 2022 endet. Die Ankündigung muss
-abweichend von § 3 Absatz 3 Satz 5 spätestens zehn Tage vor Beginn der
-Familienpflegezeit erfolgen.
-
-(5) Abweichend von § 3 Absatz 3 Satz 6 muss sich die Pflegezeit nicht
-unmittelbar an die Familienpflegezeit oder an die Freistellung nach §
-2 Absatz 5 des Familienpflegezeitgesetzes anschließen, wenn der
-Arbeitgeber zustimmt, die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht
-überschritten wird und die Pflegezeit spätestens mit Ablauf des 31.
-März 2022 endet; die Inanspruchnahme ist dem Arbeitgeber spätestens
-zehn Tage vor Beginn der Pflegezeit in Textform anzukündigen.
-
-(6) Abweichend von § 3 Absatz 4 Satz 1 gilt, dass die Vereinbarung in
-Textform zu treffen ist.
-
-(7) Abweichend von § 4 Absatz 1 Satz 2 und 3 können Beschäftigte mit
-Zustimmung des Arbeitgebers nach einer beendeten Pflegezeit zur Pflege
-oder Betreuung desselben pflegebedürftigen Angehörigen Pflegezeit
-erneut, jedoch insgesamt nur bis zur Höchstdauer nach § 4 Absatz 1
-Satz 1 in Anspruch nehmen, wenn die Gesamtdauer nach § 4 Absatz 1 Satz
-4 nicht überschritten wird und die Pflegezeit spätestens mit Ablauf
-des 31. März 2022 endet.
 

@@ -16,19 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 469 (1975 I 1916)(1976 I 507)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.3.2021 I 327
-
-Änderung durch
-:   Art. 7 G v. 16.6.2021 I 1810 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 25.6.2021 I 2083 (Nr. 37) ist berücksichtigt
-
-Änderung durch
-:   Art. 3 G v. 12.8.2021 I 3542 (Nr. 54) ist berücksichtigt
-
-Änderung durch
-:   Art. 3 Abs. 2 G v. 14.9.2021 I 4250 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 26.7.2023 I Nr. 203, dieser geändert durch Art. 3 G v. 16.8.2023 I Nr. 218
 
 
 ## Übersicht
@@ -642,9 +630,10 @@ Sozialversicherung, einschließlich der Arbeitslosenversicherung, oder
 des Steuerrechts begründet. Die Vorschriften über den Arbeitsschutz
 finden sinngemäße Anwendung.
 
-(3) Absatz 2 gilt entsprechend für freie Arbeit, die aufgrund einer
-Anordnung im Gnadenwege ausgeübt wird sowie für gemeinnützige
-Leistungen und Arbeitsleistungen nach § 56b Abs. 2 Satz 1 Nr. 3 des
+(3) Absatz 1 Satz 3 und Absatz 2 gelten entsprechend für freie Arbeit,
+die aufgrund einer Anordnung im Gnadenwege ausgeübt wird, Absatz 2
+gilt entsprechend für gemeinnützige Leistungen und Arbeitsleistungen
+nach § 56b Abs. 2 Satz 1 Nr. 3 und § 59a Absatz 2 Satz 1 Nummer 4 des
 Strafgesetzbuches, § 153a Abs. 1 Satz 1 Nr. 3 der Strafprozeßordnung,
 § 10 Abs. 1 Satz 3 Nr. 4 und § 15 Abs. 1 Satz 1 Nr. 3 des
 Jugendgerichtsgesetzes und § 98 Abs. 1 Satz 1 Nr. 1 des Gesetzes über
@@ -1404,6 +1393,41 @@ Gesetzes zur Änderung des Anti-Doping-Gesetzes vom 12. August 2021
 (BGBl. I S. 3542) ist nicht auf Verfahren anzuwenden, in denen vor dem
 1\. Oktober 2021 die Eröffnung des Hauptverfahrens beschlossen worden
 ist.
+
+
+### Art 316n Übergangsvorschrift zum Gesetz zur Änderung des Strafgesetzbuches – Aufhebung des Verbots der Werbung für den Schwangerschaftsabbruch (§ 219a StGB), zur Änderung des Heilmittelwerbegesetzes, zur Änderung des Schwangerschaftskonfliktgesetzes, zur Änderung des Einführungsgesetzes zum Strafgesetzbuch und zur Änderung des Gesetzes zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
+
+(1) Strafgerichtliche Urteile, die aufgrund der folgenden Vorschriften
+nach dem 3. Oktober 1990 ergangen sind, werden aufgehoben:
+
+1.  aufgrund des § 219a des Strafgesetzbuches
+
+    a)  in der vom 16. Juni 1993 bis einschließlich 31. Dezember 1998
+        geltenden Fassung,
+
+
+    b)  in der vom 1. Januar 1999 bis einschließlich 28. März 2019 geltenden
+        Fassung,
+
+
+    c)  in der vom 29. März 2019 bis einschließlich 31. Dezember 2020
+        geltenden Fassung oder
+
+
+    d)  in der seit dem 1. Januar 2021 geltenden Fassung sowie
+
+
+
+
+
+2.  aufgrund des § 219b des Strafgesetzbuches in der vom 1. Oktober 1987
+    bis einschließlich 15. Juni 1993 geltenden Fassung.
+
+
+
+
+(2) Die Verfahren, die den in Absatz 1 genannten Urteilen zugrunde
+liegen, werden eingestellt.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht

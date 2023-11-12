@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2886
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2022 I 170
+:   Art. 1 V v. 7.8.2023 I Nr. 210
 
 
 ## Eingangsformel
@@ -30,13 +30,13 @@ verordnet das Bundesministerium der Justiz:
 
 ## § 1
 
-(1) § 206 Abs. 1 Satz 1 der Bundesrechtsanwaltsordnung ist auf die in
-der Anlage 1 zu dieser Verordnung aufgeführten Berufsangehörigen der
-dort bezeichneten Staaten und Gebiete anzuwenden.
+(1) Die in Anlage 1 aufgeführten Berufe der dort bezeichneten Staaten
+und Gebiete erfüllen die Voraussetzungen des § 206 Absatz 2 Satz 1 der
+Bundesrechtsanwaltsordnung.
 
-(2) § 206 Abs. 2 Satz 1 der Bundesrechtsanwaltsordnung ist auf die in
-der Anlage 2 zu dieser Verordnung aufgeführten Berufsangehörigen der
-dort bezeichneten Staaten anzuwenden.
+(2) Die in Anlage 2 aufgeführten Berufe der dort bezeichneten Staaten
+und Gebiete erfüllen die Voraussetzungen des § 206 Absatz 2 Satz 2 der
+Bundesrechtsanwaltsordnung.
 
 
 ## § 2
@@ -155,9 +155,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aдвокат, Advokat, Qorğauşy
 
 
+*    *   – in Kenia:
+
+    *   Advocate
+
+
 *    *   – in Kolumbien:
 
     *   Abogado
+
+
+*    *   – in der Demokratischen Republik Kongo:
+
+    *   Avocat
 
 
 *    *   – in der Republik Korea:
@@ -174,11 +184,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – in Marokko:
 
     *   Mohamin
-
-
-*    *   – in Mazedonien:
-
-    *   Advokat
 
 
 *    *   – in Mexiko:
@@ -205,6 +210,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – in Nigeria:
 
     *   Legal Practitioner
+
+
+*    *   – in Nordmazedonien:
+
+    *   Advokat
 
 
 *    *   – in Pakistan:
@@ -296,6 +306,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Fundstelle: BGBl. I 2005, 1453
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   – in Kosovo:
+
+    *   Avokat, Advokat
+
 
 *    *   – in Serbien:
 

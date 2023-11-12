@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1036
 
+Geändert durch
+:   Art. 7 V v. 4.10.2022 I 1614
+
 
 ## Eingangsformel
 
@@ -254,11 +257,15 @@ Sachkenntnis, Umsicht und ohne Zwang handelt.
 
 ### § 12 Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der
+(1) Der Flugzeugbeleihungswert ist längstens jährlich zu überwachen.
+Bestehen Anhaltspunkte, dass sich die Grundlagen der
 Flugzeugbeleihungswertermittlung nicht nur unerheblich verschlechtert
 haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das
 allgemeine Preisniveau auf dem jeweiligen Flugzeugmarkt in einem die
-Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der
+Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Eine
+Überprüfung ist auch dann vorzunehmen, wenn die auf dem
+Beleihungsobjekt abgesicherte Forderung einen wesentlichen
+Leistungsrückstand von mindestens 90 Tagen aufweist. Der
 Flugzeugbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung

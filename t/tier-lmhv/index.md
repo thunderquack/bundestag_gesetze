@@ -19,11 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 18.4.2018 I 480 (619);
 
-Geändert durch
-:   Art. 2 V v. 19.6.2020 I 1480
-
-Änderung durch
-:   Art. 2 V v. 11.1.2021 I 47 (Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 V v. 11.1.2021 I 47
 
 [^BJNR182800007_01]:     Diese Verordnung dient der Umsetzung der Richtlinie 96/23/EG des Rates
     vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter

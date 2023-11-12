@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2726
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 34 G v. 18.7.2017 I 2745
+:   Art. 5 V v. 19.12.2022 I 2432
 
 
 ## § 1 Aufbau der Identifikationsnummer
@@ -33,7 +33,7 @@ Satz 1 und Absatz 8 der Abgabenordnung gelten die §§ 2 und 9 der
 Zweiten Bundesmeldedatenübermittlungsverordnung.
 
 (2) Die Datenübermittlungen des Bundeszentralamts für Steuern an die
-Meldebehörden nach § 139b Abs. 6 Satz 5 und Abs. 7 Satz 2 der
+Meldebehörden nach § 139b Absatz 6 Satz 4 und Abs. 7 Satz 2 der
 Abgabenordnung erfolgen durch Datenübertragung über verwaltungseigene
 Kommunikationsnetze oder über das Internet. Sie erfolgen unmittelbar
 oder über Vermittlungsstellen. Die zu übermittelnden Daten sind mit
@@ -71,10 +71,7 @@ Sicherheit in der Informationstechnik festzulegen.
 
 (1) Das Bundeszentralamt für Steuern unterrichtet den
 Steuerpflichtigen unverzüglich über die ihm zugeteilte
-Identifikationsnummer und über die Daten, die zu diesem Zeitpunkt beim
-Bundeszentralamt für Steuern zu seiner Identifikationsnummer nach §
-139b Absatz 3 Nummer 3 bis 10, 12 und 14 der Abgabenordnung
-gespeichert sind.
+Identifikationsnummer.
 
 (2) Stellen die Finanzbehörden Unrichtigkeiten der Daten im Sinne des
 § 139b Abs. 3 der Abgabenordnung fest, teilen sie dies dem

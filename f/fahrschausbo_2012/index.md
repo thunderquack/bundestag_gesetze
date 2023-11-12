@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1318
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.11.2020 I 2704
+:   Art. 2 V v. 18.3.2022 I 498
 
 
 ## Eingangsformel
@@ -110,15 +110,30 @@ anzustreben.
 
 ## § 4 Theoretischer Unterricht
 
-(1) Der theoretische Unterricht hat sich an den im Rahmenplan (Anlagen
-1 und 2) aufgeführten Inhalten zu orientieren und ist systematisch
-nach Lektionen aufzubauen. Der Unterricht soll methodisch vielfältig
-sein. Die Unterrichtsmedien sollen zielgerichtet ausgewählt und
-eingesetzt werden. Die Ausbildung setzt das selbstständige Lernen
-durch die Fahrschüler voraus. Zur Ergebnissicherung sind
-Lernkontrollen einzusetzen; das Ausfüllen von Testbogen nach Art der
-Prüfungsbogen auch mithilfe elektronischer Medien darf nicht
-Gegenstand des theoretischen Mindestunterrichts sein.
+(1) Die Ausbildung setzt das selbstständige Lernen durch die
+Fahrschüler voraus.
+
+(1a) Der theoretische Unterricht hat sich an den im Rahmenplan
+(Anlagen 1 und 2) aufgeführten Inhalten zu orientieren und ist
+systematisch nach Lektionen aufzubauen. Der Unterricht soll methodisch
+vielfältig sein. Die Unterrichtsmedien sollen zielgerichtet ausgewählt
+und eingesetzt werden. Zur Ergebnissicherung sind Lernkontrollen
+einzusetzen; das Ausfüllen von Testbogen nach Art der Prüfungsbogen
+auch mithilfe digitaler Medien darf nicht Gegenstand des theoretischen
+Mindestunterrichts sein.
+
+(1b) Der theoretische Unterricht setzt die physische Präsenz der
+Fahrschüler voraus. Ist Präsenzunterricht in begründeten
+Ausnahmefällen nicht oder nur eingeschränkt möglich, kann der
+Unterricht mit Genehmigung der nach Landesrecht zuständigen Behörden
+auch in digitaler Form stattfinden. In den Fällen des Satzes 2 sind
+die Anforderungen nach Anlage 2a zu § 4 der Durchführungsverordnung
+zum Fahrlehrergesetz zu erfüllen. Der digitale Unterricht ist synchron
+durchzuführen, alle Teilnehmer sind zeitgleich am Unterricht zu
+beteiligen. Die nach Landesrecht zuständige Behörde kann die
+Genehmigung nach Satz 2 von weiteren Anforderungen abhängig machen,
+soweit dies erforderlich ist, einen ordnungsgemäßen Unterricht zu
+gewährleisten.
 
 (2) Der Rahmenplan für den theoretischen Unterricht gliedert sich in
 einen allgemeinen Teil (Anlage 1) und einen klassenspezifischen Teil
@@ -245,7 +260,9 @@ wenn der Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis der
 Klasse B in einer mindestens 15-minütigen Fahrt innerhalb und
 außerhalb geschlossener Ortschaften nachgewiesen hat, dass er in der
 Lage ist, ein Kraftfahrzeug mit Schaltgetriebe sicher,
-verantwortungsvoll und umweltbewusst zu führen.
+verantwortungsvoll und umweltbewusst zu führen. Der Abschluss der
+Ausbildung nach Absatz 1 durch einen Fahrlehreranwärter ist nicht
+zulässig.
 
 (4) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder
 die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte
@@ -264,8 +281,8 @@ Folgendes nach dem Muster der Anlage 7 zu bescheinigen:
 oder der für die verantwortliche Leitung des Ausbildungsbetriebes
 bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und
 dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis zur
-Unterschrift vorzulegen. Die Unterzeichnung kann auch elektronisch
-erfolgen.
+Unterschrift vorzulegen und im Anschluss an die Unterschrift
+auszuhändigen. Die Unterzeichnung kann auch elektronisch erfolgen.
 
 
 ## § 5b Evaluierung

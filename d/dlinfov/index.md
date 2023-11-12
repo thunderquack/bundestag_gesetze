@@ -212,10 +212,7 @@ Form zur Verfügung stellen:
 
 
 (2) Absatz 1 findet keine Anwendung auf Dienstleistungsempfänger, die
-Letztverbraucher sind im Sinne der Preisangabenverordnung in der
-Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die
-zuletzt durch Artikel 6 des Gesetzes vom 29. Juli 2009 (BGBl. I S.
-2355) geändert worden ist, in der jeweils geltenden Fassung.
+Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind.
 
 
 ## § 5 Verbot diskriminierender Bestimmungen

@@ -17,11 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2141
 
-Geändert durch
-:   Art. 1 G v. 21.12.2006 I 3364
-
-Änderung durch
-:   Art. 53 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt gändert durch
+:   Art. 53 G v. 10.8.2021 I 3436
 
 
 ## § 1 Anwendungsbereich

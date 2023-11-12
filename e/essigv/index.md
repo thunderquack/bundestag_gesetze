@@ -15,18 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 732
 
-Zuletzt geändert durch
-:   Art. 2 V v. 5.7.2017 I 2272
-
-
-## Eingangsformel
-
-Auf Grund des § 5 Nr. 1, 4 und 5 des Lebensmittelgesetzes in der
-Fassung der Bekanntmachung vom 17. Januar 1936 (Reichsgesetzbl. I S.
-17), zuletzt geändert durch das Gesetz zur Änderung des
-Lebensmittelgesetzes vom 8. September 1969 (Bundesgesetzbl. I S.
-1590), in Verbindung mit Artikel 129 des Grundgesetzes wird mit
-Zustimmung des Bundesrates verordnet:
+Neugefasst durch
+:   Bek. v. 26.01.2023 I Nr. 31
 
 
 ## § 1
@@ -63,11 +53,6 @@ Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
 Vorschriften dieser Verordnung.
 
 
-## § 1a
-
--
-
-
 ## § 2
 
 Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als
@@ -77,12 +62,11 @@ erwartenden Beanspruchungen sicher widerstehen und aus Werkstoffen
 hergestellt sind, die von Essigessenz nicht angegriffen werden und mit
 ihr nicht in gefährlicher Weise reagieren. Die Behältnisse müssen in
 deutscher Sprache und in deutlich sichtbarer, leicht lesbarer Schrift
-mit dem Hinweis "Vorsicht! Nicht unverdünnt genießen!" versehen sein.
+mit dem Hinweis „Vorsicht! Nicht unverdünnt genießen!“ versehen sein.
 
 
-## § 3
+## § 3 (weggefallen)
 
--
 
 
 ## § 4
@@ -90,21 +74,21 @@ mit dem Hinweis "Vorsicht! Nicht unverdünnt genießen!" versehen sein.
 (1) Essig darf nur in den Verkehr gebracht werden, wenn er wie folgt
 gekennzeichnet ist:
 
-1.  Gärungsessig als "Essig" in Verbindung mit der Angabe der Ausgangs-
+1.  Gärungsessig als „Essig“ in Verbindung mit der Angabe der Ausgangs-
     und Rohstoffe;
 
 
-2.  Essig aus Essigsäure als "Essig aus Essigsäure"; Essig aus Essigessenz
-    als "Essig aus Essigessenz";
+2.  Essig aus Essigsäure als „Essig aus Essigsäure“; Essig aus Essigessenz
+    als „Essig aus Essigessenz“;
 
 
 3.  mit Essigessenz oder Essig aus Essigessenz vermischter Gärungsessig
-    als "Essig" mit dem Hinweis "hergestellt unter Zusatz von
-    Essigessenz";
+    als „Essig“ mit dem Hinweis „hergestellt unter Zusatz von
+    Essigessenz“;
 
 
 4.  mit Essigsäure oder Essig aus Essigsäure vermischter Gärungsessig als
-    "Essig" mit dem Hinweis "hergestellt unter Zusatz von Essigsäure".
+    „Essig“ mit dem Hinweis „hergestellt unter Zusatz von Essigsäure“.
 
 
 
@@ -116,7 +100,7 @@ solche gekennzeichnet ist.
 Ausgangs- oder Rohstoffen oder erlaubten Zusätzen entstammen
 (Gesamtsäuregehalt), ist, berechnet als wasserfreie Essigsäure, bei
 Essig in Gramm je 100 Milliliter, bei Essigessenz in Gramm je 100
-Gramm mit den Worten "...% Säure" anzugeben.
+Gramm mit den Worten „…% Säure“ anzugeben.
 
 (4) Für die Art und Weise der Angaben nach den Absätzen 1 bis 3 gelten
 Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung
@@ -134,52 +118,32 @@ Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
 Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
-## § 4a (weggefallen)
-
-
-
 ## § 5
 
-(1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittegesetzbuches wird bestraft, wer entgegen § 2 Essig oder
+Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Essig oder
 Essigsäure in nicht vorschriftsmäßigen Behältnissen oder in
 Behältnissen ohne den vorgeschriebenen Warnhinweis in den Verkehr
 bringt.
 
-(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 oder
-2 Essig oder Essigessenz, die nicht oder nicht in der vorgeschriebenen
-Weise gekennzeichnet sind, in den Verkehr bringt.
-
-(3) Wer eine in den Absätzen 1 und 2 bezeichnete Handlung fahrlässig
-begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
+1.  Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
+    Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 oder
+    2 Essig oder Essigessenz, die nicht oder nicht in der vorgeschriebenen
+    Weise gekennzeichnet sind, in den Verkehr bringt.
 
 
-## § 6
-
--
-
-
-## § 7
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8
-des Gesetzes zur Änderung und Ergänzung des Lebensmittelgesetzes vom
-21\. Dezember 1958 (Bundesgesetzbl. I S. 950) auch im Land Berlin.
+2.  Wer eine in den Absätzen 1 und 2 bezeichnete Handlung fahrlässig
+    begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
+    Futtermittelgesetzbuches ordnungswidrig.
 
 
-## § 8
-
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
-(2)
-
-(3)
 
 
-## Schlußformel
 
-Der Bundesminister für Jugend, Familie und Gesundheit
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten
+## § 6 (weggefallen)
+
+
+
+## § 7 (Inkrafttreten)
+
 

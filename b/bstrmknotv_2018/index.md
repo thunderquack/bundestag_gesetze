@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 17.08.2018 V1
 
-Geändert durch
-:   Art. 1 V v. 12.11.2019 BAnz AT 04.12.2019 V2
+Zuletzt geändert durch
+:   Art. 1 V v. 9.11.2022 BAnz AT 14.11.2022 V1
 
 
 ## Eingangsformel
@@ -45,9 +45,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage Festlegung der von § 3a Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 BFStrMG abweichenden Knotenpunkte
 
-(Fundstelle: BAnz AT 04.12.2019 V2)
-
-Gültig ab 1. Dezember 2019
+(Fundstelle: BAnz AT 14.11.2022 V1)
 
 
 *    *   lfd. Nr.
@@ -63,17 +61,7 @@ Gültig ab 1. Dezember 2019
 
 *    *   1
 
-    *   B1
-
-    *   B1 Düsseldorf, Fährstraße
-
-    *   51.20702
-
-    *   6.75711
-
-
-*    *   2
-
+    *
     *   B1
 
     *   B1 Düsseldorf, Nördlicher Zubringer
@@ -83,30 +71,9 @@ Gültig ab 1. Dezember 2019
     *   6.79608
 
 
-*    *   3
+*    *   2
 
-    *   B1
-
-    *   B1 Mülheim an der Ruhr, Sauerbruchstraße
-
-    *   51.41655
-
-    *   6.89274
-
-
-*    *   4
-
-    *   B1
-
-    *   B1 Mülheim an der Ruhr, Frohnhauser Weg
-
-    *   51.43134
-
-    *   6.92947
-
-
-*    *   5
-
+    *
     *   B1
 
     *   B1 Dortmund, Westfalendamm
@@ -116,8 +83,9 @@ Gültig ab 1. Dezember 2019
     *   7.49455
 
 
-*    *   6
+*    *   3
 
+    *
     *   B1
 
     *   B1 Unna, An der Steinkuhle
@@ -127,30 +95,21 @@ Gültig ab 1. Dezember 2019
     *   7.6897
 
 
-*    *   7
+*    *   4
 
+    *
     *   B1
 
-    *   B1 Horn-Bad Meinberg, A
+    *   B1 Horn-Bad Meinberg
 
     *   51.89325
 
     *   9.00841
 
 
-*    *   8
+*    *   5
 
-    *   B1
-
-    *   B1 Blomberg, Auf der Heide
-
-    *   51.91992
-
-    *   9.03294
-
-
-*    *   9
-
+    *
     *   B1
 
     *   B1 Blomberg, D
@@ -160,8 +119,9 @@ Gültig ab 1. Dezember 2019
     *   9.07215
 
 
-*    *   10
+*    *   6
 
+    *
     *   B1
 
     *   B1 Blomberg, A
@@ -171,19 +131,9 @@ Gültig ab 1. Dezember 2019
     *   9.12987
 
 
-*    *   11
+*    *   7
 
-    *   B1
-
-    *   B1 Hameln, Fluthamelstraße
-
-    *   52.10119
-
-    *   9.39088
-
-
-*    *   12
-
+    *
     *   B1
 
     *   B1 Hameln, B
@@ -193,8 +143,9 @@ Gültig ab 1. Dezember 2019
     *   9.40966
 
 
-*    *   13
+*    *   8
 
+    *
     *   B1
 
     *   B1 Coppenbrügge, Am Schecken, A
@@ -204,41 +155,33 @@ Gültig ab 1. Dezember 2019
     *   9.45502
 
 
-*    *   14
+*    *   9
 
+    *
     *   B1
 
     *   B1 Salzhemmendorf
 
-    *   52.08414
+    *   52.08416
 
-    *   9.61191
+    *   9.6119
 
 
-*    *   15
+*    *   10
 
+    *
     *   B1
 
-    *   B1 Hildeshelm
+    *   B1 Hildesheim, B
 
     *   52.15404
 
     *   9.92939
 
 
-*    *   16
+*    *   11
 
-    *   B1
-
-    *   B1 Hildesheim, Bismarckplatz
-
-    *   52.1582
-
-    *   9.9634
-
-
-*    *   17
-
+    *
     *   B1
 
     *   B1 Cremlingen
@@ -248,8 +191,9 @@ Gültig ab 1. Dezember 2019
     *   10.71627
 
 
-*    *   18
+*    *   12
 
+    *
     *   B1
 
     *   B1 Königslutter am Elm
@@ -259,19 +203,9 @@ Gültig ab 1. Dezember 2019
     *   10.84014
 
 
-*    *   19
+*    *   13
 
-    *   B1
-
-    *   B1 Magdeburg, Universitätsplatz
-
-    *   52.13899
-
-    *   11.6396
-
-
-*    *   20
-
+    *
     *   B1
 
     *   B1 Biederitz, Berliner Straße, B
@@ -281,8 +215,9 @@ Gültig ab 1. Dezember 2019
     *   11.73632
 
 
-*    *   21
+*    *   14
 
+    *
     *   B1
 
     *   B1 Burg, Berliner Chaussee, A
@@ -292,74 +227,9 @@ Gültig ab 1. Dezember 2019
     *   11.89361
 
 
-*    *   22
+*    *   15
 
-    *   B1
-
-    *   B1 Potsdam, Tankstelle Pirschheide
-
-    *   52.37574
-
-    *   13.00764
-
-
-*    *   23
-
-    *   B1
-
-    *   B1 Potsdam, A
-
-    *   52.38778
-
-    *   13.02722
-
-
-*    *   24
-
-    *   B1
-
-    *   B1 Berlin, Sundgauer Straße
-
-    *   52.43834
-
-    *   13.27142
-
-
-*    *   25
-
-    *   B1
-
-    *   B1 Berlin, Braillestraße
-
-    *   52.45349
-
-    *   13.31555
-
-
-*    *   26
-
-    *   B1
-
-    *   B1 Berlin, Alt-Kaulsdorf
-
-    *   52.50498
-
-    *   13.59453
-
-
-*    *   27
-
-    *   B1
-
-    *   B1 Berlin, Kressenweg
-
-    *   52.50493
-
-    *   13.59871
-
-
-*    *   28
-
+    *
     *   B1
 
     *   B1 Fredersdorf-Vogelsdorf
@@ -369,52 +239,45 @@ Gültig ab 1. Dezember 2019
     *   13.74114
 
 
-*    *   29
+*    *   16
 
+    *
     *   B2
 
-    *   B2 Ahrensfelde, Karower Weg
+    *   B2 Schwedt/Oder
 
-    *   52.60178
+    *   53.09936
 
-    *   13.51606
-
-
-*    *   30
-
-    *   B2
-
-    *   B2 Berlin, C
-
-    *   52.56114
-
-    *   13.46778
+    *   14.28204
 
 
-*    *   31
+*    *   17
 
+    *
     *   B2
 
     *   B2 Berlin, Potsdamer Chaussee, B
 
-    *   52.50491
+    *   52.50159
 
-    *   13.16277
+    *   13.15763
 
 
-*    *   32
+*    *   18
 
+    *
     *   B2
 
-    *   B2 Berlin, Potsdamer Chaussee, C
+    *   B2 Lutherstadt Wittenberg, C
 
-    *   52.50162
+    *   51.84273
 
-    *   13.15769
+    *   12.63293
 
 
-*    *   33
+*    *   19
 
+    *
     *   B2
 
     *   B2 Zschepplin, B
@@ -424,8 +287,9 @@ Gültig ab 1. Dezember 2019
     *   12.52752
 
 
-*    *   34
+*    *   20
 
+    *
     *   B2
 
     *   B2 Krostitz
@@ -435,8 +299,21 @@ Gültig ab 1. Dezember 2019
     *   12.45519
 
 
-*    *   35
+*    *   21
 
+    *
+    *   B2
+
+    *   B2 Leipzig, C
+
+    *   51.35275
+
+    *   12.39247
+
+
+*    *   22
+
+    *
     *   B2
 
     *   B2 Groitzsch
@@ -446,41 +323,33 @@ Gültig ab 1. Dezember 2019
     *   12.29147
 
 
-*    *   36
+*    *   23
 
+    *
     *   B2
 
-    *   B2 Gera, Stadtring Nord-Ost
+    *   B2 Leipzig, B
 
-    *   50.91893
+    *   51.35288
 
-    *   12.13402
+    *   12.39272
 
 
-*    *   37
+*    *   24
 
+    *
     *   B2
 
-    *   B2 Lutherstadt Wittenberg, Gustav-Adolf-Straße
+    *   B2 Schleiz, Grauer Berg
 
-    *   51.87515
+    *   50.55601
 
-    *   12.64889
-
-
-*    *   38
-
-    *   B2
-
-    *   B2 Lutherstadt Wittenberg, G
-
-    *   51.84273
-
-    *   12.63293
+    *   11.81131
 
 
-*    *   39
+*    *   25
 
+    *
     *   B2
 
     *   B2 Töpen, Hofer Straße, A
@@ -490,8 +359,9 @@ Gültig ab 1. Dezember 2019
     *   11.86755
 
 
-*    *   40
+*    *   26
 
+    *
     *   B2
 
     *   B2 Töpen, Moosanger, B
@@ -501,30 +371,21 @@ Gültig ab 1. Dezember 2019
     *   11.88853
 
 
-*    *   41
+*    *   27
 
+    *
     *   B2
 
-    *   B2 Feilitzsch, C
+    *   B2 Feilitzsch, B
 
     *   50.34649
 
     *   11.9032
 
 
-*    *   42
+*    *   28
 
-    *   B2
-
-    *   B2 Hof, Schützenweg
-
-    *   50.32209
-
-    *   11.91345
-
-
-*    *   43
-
+    *
     *   B2
 
     *   B2 Bayreuth
@@ -534,41 +395,69 @@ Gültig ab 1. Dezember 2019
     *   11.61025
 
 
-*    *   44
+*    *   29
 
+    *
     *   B2
 
-    *   B2 Creußen, G
+    *   B2 Creußen, A
+
+    *   49.87602
+
+    *   11.61158
+
+
+*    *   30
+
+    *
+    *   B2
+
+    *   B2 Creußen, B
+
+    *   49.85967
+
+    *   11.61548
+
+
+*    *   31
+
+    *
+    *   B2
+
+    *   B2 Creußen, C
 
     *   49.85633
 
     *   11.61941
 
 
-*    *   45
+*    *   32
 
+    *
     *   B2
 
-    *   B2 Creußen, H
+    *   B2 Creußen, D
 
-    *   49.83925
+    *   49.8388
 
-    *   11.61966
+    *   11.61943
 
 
-*    *   46
+*    *   33
 
+    *
     *   B2
 
     *   B2 Schnabelwaid, A
 
-    *   49.82183
+    *   49.82148
 
-    *   11.59958
+    *   11.59944
 
 
-*    *   47
+*    *   34
 
+    *
     *   B2
 
     *   B2 Schnabelwaid, B
@@ -578,30 +467,33 @@ Gültig ab 1. Dezember 2019
     *   11.5957
 
 
-*    *   48
+*    *   35
 
+    *
     *   B2
 
-    *   B2 Schnabelwaid, C
+    *   B2 Schnabelwaid, D
 
     *   49.80324
 
     *   11.58289
 
 
-*    *   49
+*    *   36
 
+    *
     *   B2
 
     *   B2 Pegnitz, A
 
-    *   49.78426
+    *   49.78432
 
-    *   11.57795
+    *   11.57797
 
 
-*    *   50
+*    *   37
 
+    *
     *   B2
 
     *   B2 Pegnitz, D
@@ -611,8 +503,9 @@ Gültig ab 1. Dezember 2019
     *   11.52768
 
 
-*    *   51
+*    *   38
 
+    *
     *   B2
 
     *   B2 Pegnitz, E
@@ -622,8 +515,9 @@ Gültig ab 1. Dezember 2019
     *   11.52544
 
 
-*    *   52
+*    *   39
 
+    *
     *   B2
 
     *   B2 Igensdorf, A
@@ -633,74 +527,21 @@ Gültig ab 1. Dezember 2019
     *   11.23409
 
 
-*    *   53
+*    *   40
 
+    *
     *   B2
 
-    *   B2 Erlangen-Höchstadt (Gemfr. Gebiet), C
+    *   B2 Erlangen-Höchstadt (Gemfr. Gebiet), B
 
-    *   49.51671
+    *   49.5167
 
-    *   11.14467
-
-
-*    *   54
-
-    *   B2
-
-    *   B2 Schwabach, Am Pointgraben
-
-    *   49.34113
-
-    *   11.02212
+    *   11.14468
 
 
-*    *   55
+*    *   41
 
-    *   B2
-
-    *   B2 Schwabach, Gewerbestraße
-
-    *   49.32324
-
-    *   11.04016
-
-
-*    *   56
-
-    *   B2
-
-    *   B2 Georgensgmünd, A
-
-    *   49.17627
-
-    *   11.06919
-
-
-*    *   57
-
-    *   B2
-
-    *   B2 Höttingen, A
-
-    *   49.08559
-
-    *   10.97748
-
-
-*    *   58
-
-    *   B2
-
-    *   B2 Ellingen
-
-    *   49.07826
-
-    *   10.97147
-
-
-*    *   59
-
+    *
     *   B2
 
     *   B2 Treuchtlingen, C
@@ -710,8 +551,9 @@ Gültig ab 1. Dezember 2019
     *   10.91816
 
 
-*    *   60
+*    *   42
 
+    *
     *   B2
 
     *   B2 Langenaltheim
@@ -721,8 +563,9 @@ Gültig ab 1. Dezember 2019
     *   10.86862
 
 
-*    *   61
+*    *   43
 
+    *
     *   B2
 
     *   B2 Monheim, A
@@ -732,19 +575,21 @@ Gültig ab 1. Dezember 2019
     *   10.86332
 
 
-*    *   62
+*    *   44
 
+    *
     *   B2
 
     *   B2 Monheim, C
 
-    *   48.86934
+    *   48.86898
 
-    *   10.85727
+    *   10.85725
 
 
-*    *   63
+*    *   45
 
+    *
     *   B2
 
     *   B2 Monheim, E
@@ -754,19 +599,21 @@ Gültig ab 1. Dezember 2019
     *   10.82929
 
 
-*    *   64
+*    *   46
 
+    *
     *   B2
 
-    *   B2 Kaisheim, A
+    *   B2 Kaisheim
 
     *   48.80127
 
     *   10.82252
 
 
-*    *   65
+*    *   47
 
+    *
     *   B2
 
     *   B2 Augsburg, Mühlhauser Straße
@@ -776,8 +623,21 @@ Gültig ab 1. Dezember 2019
     *   10.92043
 
 
-*    *   66
+*    *   48
 
+    *
+    *   B2
+
+    *   B2 Friedberg, Meringer Straße, A
+
+    *   48.34991
+
+    *   10.9533
+
+
+*    *   49
+
+    *
     *   B2
 
     *   B2 Althegnenberg
@@ -787,30 +647,33 @@ Gültig ab 1. Dezember 2019
     *   11.04401
 
 
-*    *   67
+*    *   50
 
+    *
     *   B2
 
-    *   B2 Starnberg, Leutstettener Straße
+    *   B2 München, Lortzingstraße
 
-    *   48.00262
+    *   48.14892
 
-    *   11.34546
+    *   11.45473
 
 
-*    *   68
+*    *   51
 
+    *
     *   B2
 
-    *   B2 Starnberg, Hanfelder Straße
+    *   B2 München, Landsberger Straße, G
 
-    *   48.00061
+    *   48.14097
 
-    *   11.34278
+    *   11.52232
 
 
-*    *   69
+*    *   52
 
+    *
     *   B2
 
     *   B2 Wielenbach, A
@@ -820,8 +683,9 @@ Gültig ab 1. Dezember 2019
     *   11.16496
 
 
-*    *   70
+*    *   53
 
+    *
     *   B2
 
     *   B2 Wielenbach, B
@@ -831,8 +695,9 @@ Gültig ab 1. Dezember 2019
     *   11.1642
 
 
-*    *   71
+*    *   54
 
+    *
     *   B2
 
     *   B2 Eglfing, A
@@ -842,8 +707,9 @@ Gültig ab 1. Dezember 2019
     *   11.18292
 
 
-*    *   72
+*    *   55
 
+    *
     *   B2
 
     *   B2 Eglfing, C
@@ -853,107 +719,81 @@ Gültig ab 1. Dezember 2019
     *   11.19216
 
 
-*    *   73
+*    *   56
 
+    *
     *   B2
 
-    *   B2 Ohlstadt, B
+    *   B2 Oberau
 
-    *   47.62342
+    *   47.57536
 
-    *   11.2004
-
-
-*    *   74
-
-    *   B2
-
-    *   B2 Oberau, A
-
-    *   47.57531
-
-    *   11.16107
+    *   11.16117
 
 
-*    *   75
+*    *   57
 
-    *   B2
-
-    *   B2 Oberau, B
-
-    *   47.55253
-
-    *   11.13291
-
-
-*    *   76
-
-    *   B2
-
-    *   B2 Garmisch-Partenkirchen, Hagenrainweg
-
-    *   47.49883
-
-    *   11.10113
-
-
-*    *   77
-
-    *   B2
-
-    *   B2 Garmisch-Partenkirchen, Ludwigstraße
-
-    *   47.49408
-
-    *   11.1056
-
-
-*    *   78
-
+    *
     *   B2
 
     *   B2 Garmisch-Partenkirchen, A
+
+    *   47.50093
+
+    *   11.10183
+
+
+*    *   58
+
+    *
+    *   B2
+
+    *   B2 Garmisch-Partenkirchen, B
 
     *   47.48596
 
     *   11.13021
 
 
-*    *   79
+*    *   59
 
+    *
     *   B2
 
-    *   B2 Garmisch-Partenkirchen, B
+    *   B2 Garmisch-Partenkirchen, C
 
     *   47.48563
 
     *   11.13309
 
 
-*    *   80
+*    *   60
 
+    *
     *   B2
 
-    *   B2 Garmisch-Partenkirchen, C
+    *   B2 Garmisch-Partenkirchen, D
 
     *   47.48647
 
     *   11.15097
 
 
-*    *   81
+*    *   61
 
+    *
     *   B2
 
-    *   B2 Garmisch-Partenkirchen, D
+    *   B2 Garmisch-Partenkirchen, E
 
     *   47.48768
 
     *   11.15602
 
 
-*    *   82
+*    *   62
 
+    *
     *   B2
 
     *   B2 Krün, Gerold, Mittenwaldbahn, A
@@ -963,8 +803,9 @@ Gültig ab 1. Dezember 2019
     *   11.19896
 
 
-*    *   83
+*    *   63
 
+    *
     *   B2
 
     *   B2 Krün, Gerold, Mittenwaldbahn, B
@@ -974,8 +815,9 @@ Gültig ab 1. Dezember 2019
     *   11.21061
 
 
-*    *   84
+*    *   64
 
+    *
     *   B2
 
     *   B2 Krün, Gerold, Mittenwaldbahn, C
@@ -985,8 +827,9 @@ Gültig ab 1. Dezember 2019
     *   11.21852
 
 
-*    *   85
+*    *   65
 
+    *
     *   B2
 
     *   B2 Krün, Geroldsee
@@ -996,8 +839,9 @@ Gültig ab 1. Dezember 2019
     *   11.22252
 
 
-*    *   86
+*    *   66
 
+    *
     *   B2
 
     *   B2 Mittenwald, B
@@ -1007,8 +851,9 @@ Gültig ab 1. Dezember 2019
     *   11.27433
 
 
-*    *   87
+*    *   67
 
+    *
     *   B2
 
     *   B2 Mittenwald, Am Oberen Rain
@@ -1018,8 +863,9 @@ Gültig ab 1. Dezember 2019
     *   11.27392
 
 
-*    *   88
+*    *   68
 
+    *
     *   B2
 
     *   B2 Mittenwald, E
@@ -1029,8 +875,9 @@ Gültig ab 1. Dezember 2019
     *   11.26272
 
 
-*    *   89
+*    *   69
 
+    *
     *   B3
 
     *   B3 Neu Wulmstorf, A
@@ -1040,8 +887,9 @@ Gültig ab 1. Dezember 2019
     *   9.78873
 
 
-*    *   90
+*    *   70
 
+    *
     *   B3
 
     *   B3 Wenzendorf, A
@@ -1051,8 +899,21 @@ Gültig ab 1. Dezember 2019
     *   9.80761
 
 
-*    *   91
+*    *   71
 
+    *
+    *   B3
+
+    *   B3 Welle
+
+    *   53.2463
+
+    *   9.80656
+
+
+*    *   72
+
+    *
     *   B3
 
     *   B3 Wietzendorf, A
@@ -1062,8 +923,9 @@ Gültig ab 1. Dezember 2019
     *   9.88248
 
 
-*    *   92
+*    *   73
 
+    *
     *   B3
 
     *   B3 Wietzendorf, B
@@ -1073,30 +935,21 @@ Gültig ab 1. Dezember 2019
     *   9.88689
 
 
-*    *   93
+*    *   74
 
+    *
     *   B3
 
-    *   B3 Brüggen, A
+    *   B3 Brüggen
 
     *   52.03744
 
-    *   9.76388
+    *   9.76391
 
 
-*    *   94
+*    *   75
 
-    *   B3
-
-    *   B3 Brüggen, B
-
-    *   52.03442
-
-    *   9.76517
-
-
-*    *   95
-
+    *
     *   B3
 
     *   B3 Alfeld (Leine), Am Wahrberg
@@ -1106,8 +959,9 @@ Gültig ab 1. Dezember 2019
     *   9.81173
 
 
-*    *   96
+*    *   76
 
+    *
     *   B3
 
     *   B3 Alfeld (Leine)
@@ -1117,19 +971,9 @@ Gültig ab 1. Dezember 2019
     *   9.82308
 
 
-*    *   97
+*    *   77
 
-    *   B3
-
-    *   B3 Einbeck, K663
-
-    *   51.89331
-
-    *   9.87723
-
-
-*    *   98
-
+    *
     *   B3
 
     *   B3 Einbeck, A
@@ -1139,8 +983,9 @@ Gültig ab 1. Dezember 2019
     *   9.83919
 
 
-*    *   99
+*    *   78
 
+    *
     *   B3
 
     *   B3 Einbeck, B
@@ -1150,8 +995,9 @@ Gültig ab 1. Dezember 2019
     *   9.84162
 
 
-*    *   100
+*    *   79
 
+    *
     *   B3
 
     *   B3 Einbeck, C
@@ -1161,41 +1007,33 @@ Gültig ab 1. Dezember 2019
     *   9.83978
 
 
-*    *   101
+*    *   80
 
+    *
     *   B3
 
     *   B3 Einbeck, Rosenplänter
 
     *   51.7919
 
-    *   9.93155
+    *   9.93156
 
 
-*    *   102
+*    *   81
 
+    *
     *   B3
 
-    *   B3 Einbeck, H
+    *   B3 Einbeck, D
 
     *   51.77793
 
     *   9.93743
 
 
-*    *   103
+*    *   82
 
-    *   B3
-
-    *   B3 Northeim, Friedrichstraße
-
-    *   51.70381
-
-    *   9.99268
-
-
-*    *   104
-
+    *
     *   B3
 
     *   B3 Niemetal
@@ -1205,8 +1043,9 @@ Gültig ab 1. Dezember 2019
     *   9.72985
 
 
-*    *   105
+*    *   83
 
+    *
     *   B3
 
     *   B3 Hann. Münden, C
@@ -1216,8 +1055,9 @@ Gültig ab 1. Dezember 2019
     *   9.68049
 
 
-*    *   106
+*    *   84
 
+    *
     *   B3
 
     *   B3 Hann. Münden, B
@@ -1227,8 +1067,9 @@ Gültig ab 1. Dezember 2019
     *   9.66965
 
 
-*    *   107
+*    *   85
 
+    *
     *   B3
 
     *   B3 Hann. Münden, Feuerwehr Volkmarshausen
@@ -1238,30 +1079,33 @@ Gültig ab 1. Dezember 2019
     *   9.66748
 
 
-*    *   108
+*    *   86
 
+    *
     *   B3
 
-    *   B3 Hann. Münden, Leineweberstraße
+    *   B3 Hann. Münden, Göttinger Straße, A
 
-    *   51.4461
+    *   51.43354
 
-    *   9.66617
+    *   9.65156
 
 
-*    *   109
+*    *   87
 
+    *
     *   B3
 
-    *   B3 Fuldatal, Berliner Straße
+    *   B3 Hann. Münden, Göttinger Straße, B
 
-    *   51.4017
+    *   51.43258
 
-    *   9.57639
+    *   9.6503
 
 
-*    *   110
+*    *   88
 
+    *
     *   B3
 
     *   B3 Fuldatal, A
@@ -1271,30 +1115,9 @@ Gültig ab 1. Dezember 2019
     *   9.57521
 
 
-*    *   111
+*    *   89
 
-    *   B3
-
-    *   B3 Kassel, Linderweg
-
-    *   51.3398
-
-    *   9.51719
-
-
-*    *   112
-
-    *   B3
-
-    *   B3 Kassel, Bosestraße
-
-    *   51.29979
-
-    *   9.48151
-
-
-*    *   113
-
+    *
     *   B3
 
     *   B3 Bad Zwesten, B
@@ -1304,8 +1127,9 @@ Gültig ab 1. Dezember 2019
     *   9.18609
 
 
-*    *   114
+*    *   90
 
+    *
     *   B3
 
     *   B3 Jesberg, A
@@ -1315,8 +1139,9 @@ Gültig ab 1. Dezember 2019
     *   9.14779
 
 
-*    *   115
+*    *   91
 
+    *
     *   B3
 
     *   B3 Gilserberg, A
@@ -1326,19 +1151,45 @@ Gültig ab 1. Dezember 2019
     *   9.0689
 
 
-*    *   116
+*    *   92
 
+    *
     *   B3
 
-    *   B3 Gilserberg, Hohe Warte, B
+    *   B3 Gilserberg, C
+
+    *   50.9432
+
+    *   9.04879
+
+
+*    *   93
+
+    *
+    *   B3
+
+    *   B3 Gilserberg, D
+
+    *   50.94039
+
+    *   9.04487
+
+
+*    *   94
+
+    *
+    *   B3
+
+    *   B3 Gilserberg, E
 
     *   50.93034
 
     *   9.03111
 
 
-*    *   117
+*    *   95
 
+    *
     *   B3
 
     *   B3 Rauschenberg
@@ -1348,8 +1199,9 @@ Gültig ab 1. Dezember 2019
     *   8.96491
 
 
-*    *   118
+*    *   96
 
+    *
     *   B3
 
     *   B3 Cölbe
@@ -1359,8 +1211,9 @@ Gültig ab 1. Dezember 2019
     *   8.83902
 
 
-*    *   119
+*    *   97
 
+    *
     *   B3
 
     *   B3 Frankfurt am Main, Habsburgerallee
@@ -1370,19 +1223,9 @@ Gültig ab 1. Dezember 2019
     *   8.70302
 
 
-*    *   120
+*    *   98
 
-    *   B3
-
-    *   B3 Darmstadt, Carl-Schenck-Ring
-
-    *   49.88828
-
-    *   8.63283
-
-
-*    *   121
-
+    *
     *   B3
 
     *   B3 Zwingenberg, Lange Hart
@@ -1392,8 +1235,9 @@ Gültig ab 1. Dezember 2019
     *   8.60836
 
 
-*    *   122
+*    *   99
 
+    *
     *   B3
 
     *   B3 Heppenheim (Bergstraße)
@@ -1403,19 +1247,9 @@ Gültig ab 1. Dezember 2019
     *   8.64864
 
 
-*    *   123
+*    *   100
 
-    *   B3
-
-    *   B3 Laudenbach, Südspange
-
-    *   49.60445
-
-    *   8.65469
-
-
-*    *   124
-
+    *
     *   B3
 
     *   B3 Malsch, B
@@ -1425,19 +1259,9 @@ Gültig ab 1. Dezember 2019
     *   8.66143
 
 
-*    *   125
+*    *   101
 
-    *   B3
-
-    *   B3 Karlsruhe, Durlach, Grötzinger Straße
-
-    *   48.99974
-
-    *   8.47911
-
-
-*    *   126
-
+    *
     *   B3
 
     *   B3 Bietigheim
@@ -1447,8 +1271,9 @@ Gültig ab 1. Dezember 2019
     *   8.2809
 
 
-*    *   127
+*    *   102
 
+    *
     *   B3
 
     *   B3 Achern, Gewerbegebiet
@@ -1458,19 +1283,9 @@ Gültig ab 1. Dezember 2019
     *   8.05517
 
 
-*    *   128
+*    *   103
 
-    *   B3
-
-    *   B3 Renchen, Weidenstraße
-
-    *   48.58644
-
-    *   8.01186
-
-
-*    *   129
-
+    *
     *   B3
 
     *   B3 Renchen
@@ -1480,19 +1295,9 @@ Gültig ab 1. Dezember 2019
     *   7.99794
 
 
-*    *   130
+*    *   104
 
-    *   B3
-
-    *   B3 Offenburg, Kolpingstraße
-
-    *   48.46431
-
-    *   7.93
-
-
-*    *   131
-
+    *
     *   B3
 
     *   B3 Friesenheim
@@ -1502,8 +1307,9 @@ Gültig ab 1. Dezember 2019
     *   7.87673
 
 
-*    *   132
+*    *   105
 
+    *
     *   B3
 
     *   B3 Lahr/Schwarzwald
@@ -1513,8 +1319,9 @@ Gültig ab 1. Dezember 2019
     *   7.8356
 
 
-*    *   133
+*    *   106
 
+    *
     *   B3
 
     *   B3 Kenzingen, Elz
@@ -1524,74 +1331,33 @@ Gültig ab 1. Dezember 2019
     *   7.76441
 
 
-*    *   134
+*    *   107
 
+    *
     *   B3
 
-    *   B3 Freiburg im Breisgau, Nordstraße
-
-    *   48.01009
-
-    *   7.85458
-
-
-*    *   135
-
-    *   B3
-
-    *   B3 Müllheim, Alte Poststraße
-
-    *   47.81218
-
-    *   7.61029
-
-
-*    *   136
-
-    *   B3
-
-    *   B3 Bad Bellingen, A
+    *   B3 Bad Bellingen
 
     *   47.73078
 
     *   7.57644
 
 
-*    *   137
+*    *   108
 
+    *
     *   B3
 
-    *   B3 Bad Bellingen, D
+    *   B3 Bad Bellingen, Hasselbach
 
     *   47.71581
 
     *   7.57896
 
 
-*    *   138
+*    *   109
 
-    *   B3
-
-    *   B3 Weil am Rhein, Burgunder Straße
-
-    *   47.6122
-
-    *   7.61314
-
-
-*    *   139
-
-    *   B3
-
-    *   B3 Freiburg im Breisgau, Burkheimer Straße, A
-
-    *   47.98401
-
-    *   7.78551
-
-
-*    *   140
-
+    *
     *   B4
 
     *   B4 Lentföhrden, A
@@ -1601,8 +1367,9 @@ Gültig ab 1. Dezember 2019
     *   9.88418
 
 
-*    *   141
+*    *   110
 
+    *
     *   B4
 
     *   B4 Lentföhrden, Kieler Straße
@@ -1612,8 +1379,9 @@ Gültig ab 1. Dezember 2019
     *   9.88659
 
 
-*    *   142
+*    *   111
 
+    *
     *   B4
 
     *   B4 Nützen, Kieler Straße
@@ -1623,8 +1391,21 @@ Gültig ab 1. Dezember 2019
     *   9.88421
 
 
-*    *   143
+*    *   112
 
+    *
+    *   B4
+
+    *   B4 Bilsen
+
+    *   53.76822
+
+    *   9.87675
+
+
+*    *   113
+
+    *
     *   B4
 
     *   B4 Quickborn
@@ -1634,63 +1415,45 @@ Gültig ab 1. Dezember 2019
     *   9.88394
 
 
-*    *   144
+*    *   114
 
+    *
     *   B4
 
     *   B4 Bönningstedt, A
+
+    *   53.66538
+
+    *   9.90449
+
+
+*    *   115
+
+    *
+    *   B4
+
+    *   B4 Bönningstedt, B
 
     *   53.65772
 
     *   9.90721
 
 
-*    *   145
+*    *   116
 
+    *
     *   B4
 
-    *   B4 Bönningstedt, B
+    *   B4 Bönningstedt, C
 
     *   53.65658
 
     *   9.90721
 
 
-*    *   146
+*    *   117
 
-    *   B4
-
-    *   B4 Hamburg, A
-
-    *   53.625
-
-    *   9.90927
-
-
-*    *   147
-
-    *   B4
-
-    *   B4 Hamburg, Langenfelder Damm
-
-    *   53.58338
-
-    *   9.9337
-
-
-*    *   148
-
-    *   B4
-
-    *   B4 Hamburg, Neuer Kamp
-
-    *   53.55703
-
-    *   9.96413
-
-
-*    *   149
-
+    *
     *   B4
 
     *   B4 Melbeck, A
@@ -1700,8 +1463,9 @@ Gültig ab 1. Dezember 2019
     *   10.40512
 
 
-*    *   150
+*    *   118
 
+    *
     *   B4
 
     *   B4 Melbeck, B
@@ -1711,30 +1475,33 @@ Gültig ab 1. Dezember 2019
     *   10.4321
 
 
-*    *   151
+*    *   119
 
+    *
     *   B4
 
     *   B4 Bienenbüttel
 
-    *   53.14748
+    *   53.14744
 
-    *   10.46717
+    *   10.46724
 
 
-*    *   152
+*    *   120
 
+    *
     *   B4
 
-    *   B4 Barum, A
+    *   B4 Barum
 
     *   53.06532
 
     *   10.53396
 
 
-*    *   153
+*    *   121
 
+    *
     *   B4
 
     *   B4 Emmendorf
@@ -1744,8 +1511,9 @@ Gültig ab 1. Dezember 2019
     *   10.53903
 
 
-*    *   154
+*    *   122
 
+    *
     *   B4
 
     *   B4 Suderburg
@@ -1755,8 +1523,9 @@ Gültig ab 1. Dezember 2019
     *   10.49459
 
 
-*    *   155
+*    *   123
 
+    *
     *   B4
 
     *   B4 Wrestedt, A
@@ -1766,8 +1535,9 @@ Gültig ab 1. Dezember 2019
     *   10.48753
 
 
-*    *   156
+*    *   124
 
+    *
     *   B4
 
     *   B4 Wrestedt, B
@@ -1777,8 +1547,9 @@ Gültig ab 1. Dezember 2019
     *   10.48711
 
 
-*    *   157
+*    *   125
 
+    *
     *   B4
 
     *   B4 Sprakensehl, A
@@ -1788,19 +1559,57 @@ Gültig ab 1. Dezember 2019
     *   10.48744
 
 
-*    *   158
+*    *   126
 
+    *
     *   B4
 
     *   B4 Sprakensehl, B
 
-    *   52.73921
+    *   52.73931
 
-    *   10.48736
+    *   10.48739
 
 
-*    *   159
+*    *   127
 
+    *
+    *   B4
+
+    *   B4 Groß Oesingen, A
+
+    *   52.68628
+
+    *   10.47271
+
+
+*    *   128
+
+    *
+    *   B4
+
+    *   B4 Groß Oesingen, B
+
+    *   52.6809
+
+    *   10.4712
+
+
+*    *   129
+
+    *
+    *   B4
+
+    *   B4 Groß Oesingen, E
+
+    *   52.632
+
+    *   10.47145
+
+
+*    *   130
+
+    *
     *   B4
 
     *   B4 Ribbesbüttel, Gifhorner Straße, B
@@ -1810,8 +1619,9 @@ Gültig ab 1. Dezember 2019
     *   10.53302
 
 
-*    *   160
+*    *   131
 
+    *
     *   B4
 
     *   B4 Lüneburg
@@ -1821,8 +1631,9 @@ Gültig ab 1. Dezember 2019
     *   10.4053
 
 
-*    *   161
+*    *   132
 
+    *
     *   B4
 
     *   B4 Harz (LK Goslar), A
@@ -1832,8 +1643,9 @@ Gültig ab 1. Dezember 2019
     *   10.55871
 
 
-*    *   162
+*    *   133
 
+    *
     *   B4
 
     *   B4 Harz (LK Goslar), Nordhäuser Straße, F
@@ -1843,30 +1655,45 @@ Gültig ab 1. Dezember 2019
     *   10.55743
 
 
-*    *   163
+*    *   134
 
+    *
     *   B4
 
-    *   B4 Harz (LK Goslar), B
+    *   B4 Harz (LK Goslar), Steinbruch, A
 
-    *   51.85633
+    *   51.85622
 
-    *   10.55158
+    *   10.55124
 
 
-*    *   164
+*    *   135
 
+    *
+    *   B4
+
+    *   B4 Harz (LK Goslar), Steinbruch, B
+
+    *   51.85442
+
+    *   10.54708
+
+
+*    *   136
+
+    *
     *   B4
 
     *   B4 Harz (LK Goslar), Luchsweg
 
-    *   51.83837
+    *   51.83836
 
     *   10.52866
 
 
-*    *   165
+*    *   137
 
+    *
     *   B4
 
     *   B4 Harz (LK Goslar), Nordhäuser Straße, A
@@ -1876,8 +1703,9 @@ Gültig ab 1. Dezember 2019
     *   10.52978
 
 
-*    *   166
+*    *   138
 
+    *
     *   B4
 
     *   B4 Clausthal-Zellerfeld, Alte Torfhausstraße
@@ -1887,8 +1715,9 @@ Gültig ab 1. Dezember 2019
     *   10.53541
 
 
-*    *   167
+*    *   139
 
+    *
     *   B4
 
     *   B4 Braunlage, Oderbrück Süd
@@ -1898,30 +1727,33 @@ Gültig ab 1. Dezember 2019
     *   10.55145
 
 
-*    *   168
+*    *   140
 
+    *
     *   B4
 
-    *   B4 Harz (LK Goslar), D
+    *   B4 Harz (LK Goslar), B
 
     *   51.7604
 
     *   10.54964
 
 
-*    *   169
+*    *   141
 
+    *
     *   B4
 
     *   B4 Braunlage, Alte Harzburger Straße
 
     *   51.73036
 
-    *   10.5914
+    *   10.59139
 
 
-*    *   170
+*    *   142
 
+    *
     *   B4
 
     *   B4 Braunlage, Wolfsbachtal
@@ -1931,8 +1763,9 @@ Gültig ab 1. Dezember 2019
     *   10.66148
 
 
-*    *   171
+*    *   143
 
+    *
     *   B4
 
     *   B4 Braunlage, Gerhart-Hauptmann-Straße, B
@@ -1942,8 +1775,21 @@ Gültig ab 1. Dezember 2019
     *   10.66746
 
 
-*    *   172
+*    *   144
 
+    *
+    *   B4
+
+    *   B4 Greußen
+
+    *   51.20054
+
+    *   10.9712
+
+
+*    *   145
+
+    *
     *   B4
 
     *   B4 Straußfurt, Prösebach
@@ -1953,30 +1799,9 @@ Gültig ab 1. Dezember 2019
     *   10.98847
 
 
-*    *   173
+*    *   146
 
-    *   B4
-
-    *   B4 Straußfurt, Fabrikstraße
-
-    *   51.16392
-
-    *   10.98958
-
-
-*    *   174
-
-    *   B4
-
-    *   B4 Henschleben, Straße der Einheit
-
-    *   51.1419
-
-    *   10.97236
-
-
-*    *   175
-
+    *
     *   B4
 
     *   B4 Nordhausen, B
@@ -1986,8 +1811,9 @@ Gültig ab 1. Dezember 2019
     *   10.79962
 
 
-*    *   176
+*    *   147
 
+    *
     *   B4
 
     *   B4 Itzgrund, Lindach
@@ -1997,8 +1823,9 @@ Gültig ab 1. Dezember 2019
     *   10.91579
 
 
-*    *   177
+*    *   148
 
+    *
     *   B4
 
     *   B4 Itzgrund, Gaukenbach
@@ -2008,74 +1835,33 @@ Gültig ab 1. Dezember 2019
     *   10.90811
 
 
-*    *   178
+*    *   149
 
+    *
     *   B4
 
-    *   B4 Rattelsdorf, B
+    *   B4 Rattelsdorf, A
 
     *   50.05936
 
     *   10.87747
 
 
-*    *   179
+*    *   150
 
+    *
     *   B4
 
-    *   B4 Rattelsdorf, D
+    *   B4 Rattelsdorf, C
 
     *   50.02805
 
     *   10.88198
 
 
-*    *   180
+*    *   151
 
-    *   B4R
-
-    *   B4R Nürnberg, Gotenstraße
-
-    *   49.4298
-
-    *   11.09031
-
-
-*    *   181
-
-    *   B4R
-
-    *   B4R Nürnberg, Vogelweiherstraße
-
-    *   49.4297
-
-    *   11.07161
-
-
-*    *   182
-
-    *   B4R
-
-    *   B4R Nürnberg, Ernst-Sachs-Straße
-
-    *   49.42926
-
-    *   11.05684
-
-
-*    *   183
-
-    *   B4R
-
-    *   B4R Nürnberg, Rollnerstraße
-
-    *   49.46948
-
-    *   11.08146
-
-
-*    *   184
-
+    *
     *   B4R
 
     *   B4R Nürnberg, Nordring, B
@@ -2085,19 +1871,9 @@ Gültig ab 1. Dezember 2019
     *   11.09073
 
 
-*    *   185
+*    *   152
 
-    *   B4R
-
-    *   B4R Nürnberg, Bismarckstraße
-
-    *   49.46406
-
-    *   11.10309
-
-
-*    *   186
-
+    *
     *   B4R
 
     *   B4R Nürnberg, Bayernstraße, B
@@ -2107,8 +1883,9 @@ Gültig ab 1. Dezember 2019
     *   11.10535
 
 
-*    *   187
+*    *   153
 
+    *
     *   B4R
 
     *   B4R Nürnberg, Nordwestring, D
@@ -2118,8 +1895,21 @@ Gültig ab 1. Dezember 2019
     *   11.05027
 
 
-*    *   188
+*    *   154
 
+    *
+    *   B5
+
+    *   B5 Braderup, A
+
+    *   54.83299
+
+    *   8.88949
+
+
+*    *   155
+
+    *
     *   B5
 
     *   B5 Niebüll
@@ -2129,8 +1919,9 @@ Gültig ab 1. Dezember 2019
     *   8.86144
 
 
-*    *   189
+*    *   156
 
+    *
     *   B5
 
     *   B5 Risum-Lindholm, A
@@ -2140,8 +1931,21 @@ Gültig ab 1. Dezember 2019
     *   8.878
 
 
-*    *   190
+*    *   157
 
+    *
+    *   B5
+
+    *   B5 Loheide
+
+    *   54.68281
+
+    *   8.95687
+
+
+*    *   158
+
+    *
     *   B5
 
     *   B5 Langenhom
@@ -2151,8 +1955,9 @@ Gültig ab 1. Dezember 2019
     *   8.94946
 
 
-*    *   191
+*    *   159
 
+    *
     *   B5
 
     *   B5 Bredstedt
@@ -2162,8 +1967,9 @@ Gültig ab 1. Dezember 2019
     *   8.96343
 
 
-*    *   192
+*    *   160
 
+    *
     *   B5
 
     *   B5 Hattstedtermarsch, A
@@ -2173,8 +1979,9 @@ Gültig ab 1. Dezember 2019
     *   9.00022
 
 
-*    *   193
+*    *   161
 
+    *
     *   B5
 
     *   B5 Horstedt
@@ -2184,8 +1991,9 @@ Gültig ab 1. Dezember 2019
     *   9.07109
 
 
-*    *   194
+*    *   162
 
+    *
     *   B5
 
     *   B5 Witzwort
@@ -2195,8 +2003,9 @@ Gültig ab 1. Dezember 2019
     *   9.0553
 
 
-*    *   195
+*    *   163
 
+    *
     *   B5
 
     *   B5 Oldenswort, Dithmarscher Straße
@@ -2206,8 +2015,9 @@ Gültig ab 1. Dezember 2019
     *   8.95561
 
 
-*    *   196
+*    *   164
 
+    *
     *   B5
 
     *   B5 Stelle-Wittenwurth
@@ -2217,19 +2027,9 @@ Gültig ab 1. Dezember 2019
     *   9.03686
 
 
-*    *   197
+*    *   165
 
-    *   B5
-
-    *   B5 Heide, Sophie-Dethleffs-Straße
-
-    *   54.18984
-
-    *   9.09002
-
-
-*    *   198
-
+    *
     *   B5
 
     *   B5 Hemmingstedt
@@ -2239,107 +2039,45 @@ Gültig ab 1. Dezember 2019
     *   9.06781
 
 
-*    *   199
+*    *   166
 
+    *
     *   B5
 
-    *   B5 Bekmünde
+    *   B5 Helse, B
 
-    *   53.93873
+    *   53.96417
 
-    *   9.44745
+    *   9.00761
 
 
-*    *   200
+*    *   167
 
+    *
     *   B5
 
-    *   B5 Heiligenstedten
+    *   B5 Marne, A
 
-    *   53.93938
+    *   53.96223
 
-    *   9.45623
+    *   9.00731
 
 
-*    *   201
+*    *   168
 
+    *
     *   B5
 
-    *   B5 Hamburg, Osterstraße
+    *   B5 Marne, B
 
-    *   53.57463
+    *   53.96052
 
-    *   9.95942
-
-
-*    *   202
-
-    *   B5
-
-    *   B5 Hamburg, Löwenstraße
-
-    *   53.58646
-
-    *   9.97406
+    *   9.00706
 
 
-*    *   203
+*    *   169
 
-    *   B5
-
-    *   B5 Hamburg, Bebelallee
-
-    *   53.5939
-
-    *   9.99583
-
-
-*    *   204
-
-    *   B5
-
-    *   B5 Hamburg, Poßmoorweg
-
-    *   53.58872
-
-    *   10.0158
-
-
-*    *   205
-
-    *   B5
-
-    *   B5 Hamburg, Heidhorst
-
-    *   53.51459
-
-    *   10.16661
-
-
-*    *   206
-
-    *   B5
-
-    *   B5 Hamburg, Bergedorfer Straße, A
-
-    *   53.50759
-
-    *   10.18003
-
-
-*    *   207
-
-    *   B5
-
-    *   B5 Hamburg, Johann-Meyer-Straße
-
-    *   53.48964
-
-    *   10.20341
-
-
-*    *   208
-
+    *
     *   B5
 
     *   B5 Geesthacht
@@ -2349,8 +2087,9 @@ Gültig ab 1. Dezember 2019
     *   10.3963
 
 
-*    *   209
+*    *   170
 
+    *
     *   B5
 
     *   B5 Lanze, Dorfstraße
@@ -2360,8 +2099,9 @@ Gültig ab 1. Dezember 2019
     *   10.58683
 
 
-*    *   210
+*    *   171
 
+    *
     *   B5
 
     *   B5 Lanze
@@ -2371,8 +2111,9 @@ Gültig ab 1. Dezember 2019
     *   10.59559
 
 
-*    *   211
+*    *   172
 
+    *
     *   B5
 
     *   B5 Nostorf, B
@@ -2382,8 +2123,9 @@ Gültig ab 1. Dezember 2019
     *   10.6721
 
 
-*    *   212
+*    *   173
 
+    *
     *   B5
 
     *   B5 Gumtow, Berliner Straße, A
@@ -2393,8 +2135,9 @@ Gültig ab 1. Dezember 2019
     *   12.22998
 
 
-*    *   213
+*    *   174
 
+    *
     *   B5
 
     *   B5 Gumtow, Berliner Straße, B
@@ -2404,30 +2147,9 @@ Gültig ab 1. Dezember 2019
     *   12.2342
 
 
-*    *   214
+*    *   175
 
-    *   B5
-
-    *   B5 Kyritz, D
-
-    *   52.95084
-
-    *   12.40261
-
-
-*    *   215
-
-    *   B5
-
-    *   B5 Berlin, Am Postfenn
-
-    *   52.50676
-
-    *   13.2284
-
-
-*    *   216
-
+    *
     *   B6
 
     *   B6 Loxstedt
@@ -2437,19 +2159,9 @@ Gültig ab 1. Dezember 2019
     *   8.59779
 
 
-*    *   217
+*    *   176
 
-    *   B6
-
-    *   B6 Bremen, Langemarckstraße
-
-    *   53.06688
-
-    *   8.78228
-
-
-*    *   218
-
+    *
     *   B6
 
     *   B6 Syke, Heiligenfelde
@@ -2459,8 +2171,9 @@ Gültig ab 1. Dezember 2019
     *   8.86485
 
 
-*    *   219
+*    *   177
 
+    *
     *   B6
 
     *   B6 Schellerten
@@ -2470,19 +2183,21 @@ Gültig ab 1. Dezember 2019
     *   10.08456
 
 
-*    *   220
+*    *   178
 
+    *
     *   B6
 
-    *   B6 Holle, Astenbeck, C
+    *   B6 Holle
 
     *   52.10432
 
     *   10.12783
 
 
-*    *   221
+*    *   179
 
+    *
     *   B6
 
     *   B6 Baddeckenstedt, Zur Rast
@@ -2492,8 +2207,9 @@ Gültig ab 1. Dezember 2019
     *   10.22932
 
 
-*    *   222
+*    *   180
 
+    *
     *   B6
 
     *   B6 Halle (Saale), A
@@ -2503,8 +2219,9 @@ Gültig ab 1. Dezember 2019
     *   11.9937
 
 
-*    *   223
+*    *   181
 
+    *
     *   B6
 
     *   B6 Kabelsketal, A
@@ -2514,30 +2231,45 @@ Gültig ab 1. Dezember 2019
     *   12.10875
 
 
-*    *   224
+*    *   182
 
+    *
     *   B6
 
-    *   B6 Machern
+    *   B6 Leipzig, Hauptstadion
 
-    *   51.35865
+    *   51.37603
 
-    *   12.62341
+    *   12.37183
 
 
-*    *   225
+*    *   183
 
+    *
     *   B6
 
-    *   B6 Bennewitz
+    *   B6 Leipzig
+
+    *   51.3527
+
+    *   12.39529
+
+
+*    *   184
+
+    *
+    *   B6
+
+    *   B6 Bennewitz, A
 
     *   51.36206
 
     *   12.70132
 
 
-*    *   226
+*    *   185
 
+    *
     *   B6
 
     *   B6 Wurzen, A
@@ -2547,8 +2279,9 @@ Gültig ab 1. Dezember 2019
     *   12.75249
 
 
-*    *   227
+*    *   186
 
+    *
     *   B6
 
     *   B6 Wurzen, B
@@ -2558,8 +2291,9 @@ Gültig ab 1. Dezember 2019
     *   12.75531
 
 
-*    *   228
+*    *   187
 
+    *
     *   B6
 
     *   B6 Wurzen, C
@@ -2569,8 +2303,9 @@ Gültig ab 1. Dezember 2019
     *   12.75915
 
 
-*    *   229
+*    *   188
 
+    *
     *   B6
 
     *   B6 Lossatal, Waldhof
@@ -2580,8 +2315,21 @@ Gültig ab 1. Dezember 2019
     *   12.88495
 
 
-*    *   230
+*    *   189
 
+    *
+    *   B6
+
+    *   B6 Lossatal, Hängebäumchen
+
+    *   51.33422
+
+    *   12.89897
+
+
+*    *   190
+
+    *
     *   B6
 
     *   B6 Oschatz
@@ -2591,8 +2339,9 @@ Gültig ab 1. Dezember 2019
     *   13.13545
 
 
-*    *   231
+*    *   191
 
+    *
     *   B6
 
     *   B6 Oschatz, Lonnewitz
@@ -2602,8 +2351,9 @@ Gültig ab 1. Dezember 2019
     *   13.14191
 
 
-*    *   232
+*    *   192
 
+    *
     *   B6
 
     *   B6 Dresden, Cossebaude, A
@@ -2613,8 +2363,9 @@ Gültig ab 1. Dezember 2019
     *   13.63793
 
 
-*    *   233
+*    *   193
 
+    *
     *   B6
 
     *   B6 Dresden, Cossebaude, B
@@ -2624,184 +2375,33 @@ Gültig ab 1. Dezember 2019
     *   13.63981
 
 
-*    *   234
+*    *   194
 
+    *
     *   B6
 
-    *   B6 Dresden, Cossebauder Straße
+    *   B6 Dresden, Eissporthalle
 
-    *   51.06187
+    *   51.06155
 
-    *   13.68127
+    *   13.72112
 
 
-*    *   235
+*    *   195
 
+    *
     *   B6
 
-    *   B6 Dresden, A
-
-    *   51.06103
-
-    *   13.69734
-
-
-*    *   236
-
-    *   B6
-
-    *   B6 Dresden, B
-
-    *   51.06134
-
-    *   13.70232
-
-
-*    *   237
-
-    *   B6
-
-    *   B6 Dresden, C
-
-    *   51.06143
-
-    *   13.70384
-
-
-*    *   238
-
-    *   B6
-
-    *   B6 Dresden, D
-
-    *   51.06162
-
-    *   13.7075
-
-
-*    *   239
-
-    *   B6
-
-    *   B6 Dresden, E
-
-    *   51.06159
-
-    *   13.70971
-
-
-*    *   240
-
-    *   B6
-
-    *   B6 Dresden, Friedrichstraße
-
-    *   51.06157
-
-    *   13.71285
-
-
-*    *   241
-
-    *   B6
-
-    *   B6 Dresden, Hoyerswerdaer Straße
-
-    *   51.06298
-
-    *   13.75185
-
-
-*    *   242
-
-    *   B6
-
-    *   B6 Dresden, F
-
-    *   51.06034
-
-    *   13.8758
-
-
-*    *   243
-
-    *   B6
-
-    *   B6 Bautzen, Löbauer Straße, B
+    *   B6 Bautzen
 
     *   51.17289
 
     *   14.47319
 
 
-*    *   244
+*    *   196
 
-    *   B7
-
-    *   B7 Düsseldorf, Graf-Recke-Straße
-
-    *   51.24306
-
-    *   6.81446
-
-
-*    *   245
-
-    *   B7
-
-    *   B7 Wuppertal, Kasinostraße
-
-    *   51.25463
-
-    *   7.14125
-
-
-*    *   246
-
-    *   B7
-
-    *   B7 Wuppertal, Wupperstraße
-
-    *   51.25625
-
-    *   7.1565
-
-
-*    *   247
-
-    *   B7
-
-    *   B7 Wuppertal, Bendahler Straße
-
-    *   51.25712
-
-    *   7.16362
-
-
-*    *   248
-
-    *   B7
-
-    *   B7 Wuppertal, Bachstraße
-
-    *   51.27298
-
-    *   7.20686
-
-
-*    *   249
-
-    *   B7
-
-    *   B7 Wuppertal, Gildenstraße
-
-    *   51.27601
-
-    *   7.23056
-
-
-*    *   250
-
+    *
     *   B7
 
     *   B7 Brilon, B
@@ -2811,8 +2411,9 @@ Gültig ab 1. Dezember 2019
     *   8.67088
 
 
-*    *   251
+*    *   197
 
+    *
     *   B7
 
     *   B7 Marsberg, A
@@ -2822,30 +2423,9 @@ Gültig ab 1. Dezember 2019
     *   8.84033
 
 
-*    *   252
+*    *   198
 
-    *   B7
-
-    *   B7 Kassel, Hegelsbergstraße
-
-    *   51.33708
-
-    *   9.49017
-
-
-*    *   253
-
-    *   B7
-
-    *   B7 Kassel, Wimmelstraße
-
-    *   51.31858
-
-    *   9.5122
-
-
-*    *   254
-
+    *
     *   B7
 
     *   B7 Creuzburg, A
@@ -2855,8 +2435,9 @@ Gültig ab 1. Dezember 2019
     *   10.22633
 
 
-*    *   255
+*    *   199
 
+    *
     *   B7
 
     *   B7 Creuzburg, B
@@ -2866,52 +2447,9 @@ Gültig ab 1. Dezember 2019
     *   10.2284
 
 
-*    *   256
+*    *   200
 
-    *   B7
-
-    *   B7 Weimar, Kromsdorfer Straße
-
-    *   50.99336
-
-    *   11.33162
-
-
-*    *   257
-
-    *   B7
-
-    *   B7 Jena, Cospedaer Grund
-
-    *   50.93711
-
-    *   11.55809
-
-
-*    *   258
-
-    *   B7
-
-    *   B7 Jena, A
-
-    *   50.93266
-
-    *   11.59433
-
-
-*    *   259
-
-    *   B7
-
-    *   B7 Jena, Dorfstraße
-
-    *   50.93296
-
-    *   11.65415
-
-
-*    *   260
-
+    *
     *   B7
 
     *   B7 Nöbdenitz
@@ -2921,8 +2459,9 @@ Gültig ab 1. Dezember 2019
     *   12.28414
 
 
-*    *   261
+*    *   201
 
+    *
     *   B7
 
     *   B7 Schmölln
@@ -2932,85 +2471,33 @@ Gültig ab 1. Dezember 2019
     *   12.33601
 
 
-*    *   262
+*    *   202
 
-    *   B7
-
-    *   B7 Windischleuba, Chausseestraße
-
-    *   51.01928
-
-    *   12.46631
-
-
-*    *   263
-
+    *
     *   B8
 
-    *   B8 Wesel, Pastor-Bölitz-Straße
-
-    *   51.65659
-
-    *   6.60807
-
-
-*    *   264
-
-    *   B8
-
-    *   B8 Düsseldorf, Maurenbrecherstraße
-
-    *   51.24897
-
-    *   6.802
-
-
-*    *   265
-
-    *   B8
-
-    *   B8 Köln, Hacketäuerstraße
-
-    *   50.97095
-
-    *   7.00681
-
-
-*    *   266
-
-    *   B8
-
-    *   B8/B506 Köln, Clevischer Ring
+    *   B8/B506 Köln
 
     *   50.96409
 
     *   7.00613
 
 
-*    *   267
+*    *   203
 
+    *
     *   B8
 
-    *   B8 Köln, Merheimer Heideweg
+    *   B8 Troisdorf, B
 
-    *   50.94186
+    *   50.815
 
-    *   7.02902
-
-
-*    *   268
-
-    *   B8
-
-    *   B8 Köln, Frankfurter Straße, J
-
-    *   50.86407
-
-    *   7.08381
+    *   7.14903
 
 
-*    *   269
+*    *   204
 
+    *
     *   B8
 
     *   B8 Troisdorf, Theodor-Heuss-Ring
@@ -3020,8 +2507,9 @@ Gültig ab 1. Dezember 2019
     *   7.15582
 
 
-*    *   270
+*    *   205
 
+    *
     *   B8
 
     *   B8 Hennef (Sieg), Westerwaldstraße
@@ -3031,52 +2519,21 @@ Gültig ab 1. Dezember 2019
     *   7.3667
 
 
-*    *   271
+*    *   206
 
+    *
     *   B8
 
-    *   B8 Wallmerod, Frankfurter Straße, B
-
-    *   50.48149
-
-    *   7.95594
-
-
-*    *   272
-
-    *   B8
-
-    *   B8 Elz, B
-
-    *   50.40445
-
-    *   8.03951
-
-
-*    *   273
-
-    *   B8
-
-    *   B8 Limburg an der Lahn, A
-
-    *   50.40341
-
-    *   8.04123
-
-
-*    *   274
-
-    *   B8
-
-    *   B8 Limburg an der Lahn, B
+    *   B8 Limburg an der Lahn
 
     *   50.40285
 
     *   8.04315
 
 
-*    *   275
+*    *   207
 
+    *
     *   B8
 
     *   B8 Brechen, Goldener Grund FR West
@@ -3086,8 +2543,9 @@ Gültig ab 1. Dezember 2019
     *   8.13234
 
 
-*    *   276
+*    *   208
 
+    *
     *   B8
 
     *   B8 Brechen, Goldener Grund FR Ost, A
@@ -3097,8 +2555,9 @@ Gültig ab 1. Dezember 2019
     *   8.13586
 
 
-*    *   277
+*    *   209
 
+    *
     *   B8
 
     *   B8 Brechen, Goldener Grund FR Ost, B
@@ -3108,8 +2567,9 @@ Gültig ab 1. Dezember 2019
     *   8.14434
 
 
-*    *   278
+*    *   210
 
+    *
     *   B8
 
     *   B8 Selters (Taunus)
@@ -3119,19 +2579,21 @@ Gültig ab 1. Dezember 2019
     *   8.20928
 
 
-*    *   279
+*    *   211
 
+    *
     *   B8
 
-    *   B8 Glashütten, Schloßborner Weg
+    *   B8 Bad Camberg
 
-    *   50.21578
+    *   50.29497
 
-    *   8.40265
+    *   8.26971
 
 
-*    *   280
+*    *   212
 
+    *
     *   B8
 
     *   B8 Königstein im Taunus, Billtalhöhe
@@ -3141,63 +2603,33 @@ Gültig ab 1. Dezember 2019
     *   8.443
 
 
-*    *   281
+*    *   213
 
+    *
     *   B8
 
-    *   B8 Frankfurt am Main, Scheidswaldstraße
-
-    *   50.12072
-
-    *   8.70718
-
-
-*    *   282
-
-    *   B8
-
-    *   B8 Frankfurt am Main, Bornheimer Landwehr
-
-    *   50.12275
-
-    *   8.71103
-
-
-*    *   283
-
-    *   B8
-
-    *   B8 Frankfurt am Main, Am Buchwald
-
-    *   50.12356
-
-    *   8.71684
-
-
-*    *   284
-
-    *   A661
-
-    *   Erlenbruch
-
-    *   50.1229
-
-    *   8.7276
-
-
-*    *   285
-
-    *   B8
-
-    *   B8 Frankfurt am Main, B
+    *   B8 Frankfurt am Main, C
 
     *   50.12907
 
     *   8.75757
 
 
-*    *   286
+*    *   214
 
+    *
+    *   B8
+
+    *   B8 Frankfurt am Main, B
+
+    *   50.12744
+
+    *   8.75266
+
+
+*    *   215
+
+    *
     *   B8
 
     *   B8 Marktheidenfeld, A
@@ -3207,19 +2639,21 @@ Gültig ab 1. Dezember 2019
     *   9.58224
 
 
-*    *   287
+*    *   216
 
+    *
     *   B8
 
-    *   B8 Marktheidenfeld, C
+    *   B8 Marktheidenfeld, B
 
     *   49.83213
 
     *   9.61106
 
 
-*    *   288
+*    *   217
 
+    *
     *   B8
 
     *   B8 Erlenbach bei Marktheidenfeld, A
@@ -3229,8 +2663,9 @@ Gültig ab 1. Dezember 2019
     *   9.64897
 
 
-*    *   289
+*    *   218
 
+    *
     *   B8
 
     *   B8 Mainbernheim, Hoheimer Weg
@@ -3240,8 +2675,9 @@ Gültig ab 1. Dezember 2019
     *   10.21346
 
 
-*    *   290
+*    *   219
 
+    *
     *   B8
 
     *   B8 Iphofen
@@ -3251,19 +2687,21 @@ Gültig ab 1. Dezember 2019
     *   10.35814
 
 
-*    *   291
+*    *   220
 
+    *
     *   B8
 
-    *   B8 Markt Bibart, E
+    *   B8 Markt Bibart, B
 
     *   49.65241
 
     *   10.41596
 
 
-*    *   292
+*    *   221
 
+    *
     *   B8
 
     *   B8 Scheinfeld
@@ -3273,19 +2711,9 @@ Gültig ab 1. Dezember 2019
     *   10.45609
 
 
-*    *   293
+*    *   222
 
-    *   B8
-
-    *   B8 Scheinfeld, NEA30, B
-
-    *   49.63888
-
-    *   10.47894
-
-
-*    *   294
-
+    *
     *   B8
 
     *   B8 Langenfeld
@@ -3295,63 +2723,57 @@ Gültig ab 1. Dezember 2019
     *   10.49588
 
 
-*    *   295
+*    *   223
 
+    *
     *   B8
 
-    *   B8 Fürth, Dr.-Henry-Kissinger-Platz
-
-    *   49.47625
-
-    *   10.99104
-
-
-*    *   296
-
-    *   A73
-
-    *   Nürnberg/Fürth
-
-    *   49.4644
-
-    *   11.0153
-
-
-*    *   297
-
-    *   B8
-
-    *   B8 Nürnberg, Ferdinandstraße
-
-    *   49.46279
-
-    *   11.01946
-
-
-*    *   298
-
-    *   B8
-
-    *   B8 Nürnberg, Fürther Straße, C
+    *   B8 Nürnberg, Fürther Straße, F
 
     *   49.45811
 
     *   11.03322
 
 
-*    *   299
+*    *   224
 
+    *
     *   B8
 
-    *   B8 Fürth, Jakobinenstraße, A
+    *   B8 Nürnberg, Fürther Straße, E
 
-    *   49.46917
+    *   49.45924
 
-    *   11.002
+    *   11.03064
 
 
-*    *   300
+*    *   225
 
+    *
+    *   B8
+
+    *   B8 Nürnberg, Fürther Straße, C
+
+    *   49.45996
+
+    *   11.02845
+
+
+*    *   226
+
+    *
+    *   B8
+
+    *   B8 Nürnberg, Fürther Straße, B
+
+    *   49.4608
+
+    *   11.02593
+
+
+*    *   227
+
+    *
     *   B8
 
     *   B8 Mintraching, A
@@ -3361,8 +2783,9 @@ Gültig ab 1. Dezember 2019
     *   12.27689
 
 
-*    *   301
+*    *   228
 
+    *
     *   B8
 
     *   B8 Mintraching, B
@@ -3372,8 +2795,9 @@ Gültig ab 1. Dezember 2019
     *   12.28064
 
 
-*    *   302
+*    *   229
 
+    *
     *   B8
 
     *   B8 Pfatter, B
@@ -3383,8 +2807,9 @@ Gültig ab 1. Dezember 2019
     *   12.34683
 
 
-*    *   303
+*    *   230
 
+    *
     *   B8
 
     *   B8 Atting, Stefan-Schwarz-Straße
@@ -3394,140 +2819,93 @@ Gültig ab 1. Dezember 2019
     *   12.52528
 
 
-*    *   304
+*    *   231
 
+    *
     *   B8
 
-    *   B8 Straßkirchen, B
+    *   B8 Moos, A
 
-    *   48.83309
+    *   48.73844
 
-    *   12.71678
+    *   12.95318
 
 
-*    *   305
+*    *   232
 
+    *
     *   B8
 
-    *   B8 Straßkirchen, A
-
-    *   48.83254
-
-    *   12.71864
-
-
-*    *   306
-
-    *   B8
-
-    *   B8 Moos
+    *   B8 Moos, B
 
     *   48.72809
 
     *   12.97444
 
 
-*    *   307
+*    *   233
 
+    *
     *   B8
 
-    *   B8 Vilshofen an der Donau, F
+    *   B8 Vilshofen an der Donau, B
 
     *   48.61583
 
     *   13.22764
 
 
-*    *   308
+*    *   234
 
+    *
+    *   B8
+
+    *   B8 Passau, Regensburger Straße, E
+
+    *   48.5773
+
+    *   13.40494
+
+
+*    *   235
+
+    *
+    *   B8
+
+    *   B8 Passau, Regensburger Straße, C
+
+    *   48.57362
+
+    *   13.41881
+
+
+*    *   236
+
+    *
+    *   B8
+
+    *   B8 Passau, Regensburger Straße, B
+
+    *   48.57348
+
+    *   13.42393
+
+
+*    *   237
+
+    *
     *   B9
 
-    *   B9 Kevelaer
+    *   B9 Kevelaer, A
 
     *   51.59778
 
     *   6.23366
 
 
-*    *   309
+*    *   238
 
-    *   B9
-
-    *   B9 Köln, Arenzhofstraße
-
-    *   51.03934
-
-    *   6.90231
-
-
-*    *   310
-
-    *   B9
-
-    *   B9 Köln, Scheibenstraße
-
-    *   50.98402
-
-    *   6.94744
-
-
-*    *   311
-
-    *   B9
-
-    *   B9 Köln, Mollwitzstraße
-
-    *   50.97862
-
-    *   6.94867
-
-
-*    *   312
-
-    *   B9
-
-    *   B9 Köln, Ritterstraße
-
-    *   50.94857
-
-    *   6.95104
-
-
-*    *   313
-
-    *   B9
-
-    *   B9 Köln, Zülpicher Platz
-
-    *   50.93114
-
-    *   6.9407
-
-
-*    *   314
-
-    *   B9
-
-    *   B9 Köln, Ulrichgasse
-
-    *   50.92397
-
-    *   6.95245
-
-
-*    *   315
-
-    *   B9
-
-    *   B9 Bonn, Tempelstraße
-
-    *   50.72494
-
-    *   7.11206
-
-
-*    *   316
-
+    *
     *   B9
 
     *   B9 Bad Breisig, Bonner Straße, A
@@ -3537,8 +2915,9 @@ Gültig ab 1. Dezember 2019
     *   7.28704
 
 
-*    *   317
+*    *   239
 
+    *
     *   B9
 
     *   B9 Spay, An der B9
@@ -3548,8 +2927,9 @@ Gültig ab 1. Dezember 2019
     *   7.64409
 
 
-*    *   318
+*    *   240
 
+    *
     *   B9
 
     *   B9 Spay
@@ -3559,8 +2939,9 @@ Gültig ab 1. Dezember 2019
     *   7.64449
 
 
-*    *   319
+*    *   241
 
+    *
     *   B9
 
     *   B9 Bad Breisig, Bonner Straße, B
@@ -3570,8 +2951,9 @@ Gültig ab 1. Dezember 2019
     *   7.28864
 
 
-*    *   320
+*    *   242
 
+    *
     *   B9
 
     *   B9 Nierstein
@@ -3581,19 +2963,45 @@ Gültig ab 1. Dezember 2019
     *   8.33832
 
 
-*    *   321
+*    *   243
 
+    *
+    *   B9
+
+    *   B9 Worms, Rheindürkheim
+
+    *   49.68263
+
+    *   8.35234
+
+
+*    *   244
+
+    *
+    *   B9
+
+    *   B9 Worms, B
+
+    *   49.66806
+
+    *   8.3549
+
+
+*    *   245
+
+    *
     *   B9
 
     *   B9 Wörth am Rhein, Steinallee
 
-    *   49.0108
+    *   49.01093
 
-    *   8.18632
+    *   8.18639
 
 
-*    *   322
+*    *   246
 
+    *
     *   B10
 
     *   B10 Spirkelbach, Alte Bundesstraße
@@ -3603,8 +3011,9 @@ Gültig ab 1. Dezember 2019
     *   7.82171
 
 
-*    *   323
+*    *   247
 
+    *
     *   B10
 
     *   B10 Wilgartswiesen
@@ -3614,8 +3023,9 @@ Gültig ab 1. Dezember 2019
     *   7.89777
 
 
-*    *   324
+*    *   248
 
+    *
     *   B10
 
     *   B10 Rinnthal
@@ -3625,19 +3035,21 @@ Gültig ab 1. Dezember 2019
     *   7.90826
 
 
-*    *   325
+*    *   249
 
+    *
     *   B10
 
-    *   B10 Annweiler am Trifels, B
+    *   B10 Annweiler am Trifels
 
     *   49.21203
 
     *   7.97729
 
 
-*    *   326
+*    *   250
 
+    *
     *   B10
 
     *   B10 Pfinztal
@@ -3647,8 +3059,9 @@ Gültig ab 1. Dezember 2019
     *   8.54949
 
 
-*    *   327
+*    *   251
 
+    *
     *   B10
 
     *   B10 Remchingen, An der B10
@@ -3658,19 +3071,21 @@ Gültig ab 1. Dezember 2019
     *   8.56447
 
 
-*    *   328
+*    *   252
 
+    *
     *   B10
 
-    *   B10/B294 Pforzheim, B
+    *   B10 Pforzheim, Eutinger Straße, D
 
-    *   48.89321
+    *   48.89835
 
-    *   8.70486
+    *   8.72525
 
 
-*    *   329
+*    *   253
 
+    *
     *   B10
 
     *   B10 Pforzheim, Nieferner Weg
@@ -3680,8 +3095,9 @@ Gültig ab 1. Dezember 2019
     *   8.76024
 
 
-*    *   330
+*    *   254
 
+    *
     *   B10
 
     *   B10 Mühlacker, Neuer Stöckach
@@ -3691,8 +3107,9 @@ Gültig ab 1. Dezember 2019
     *   8.82093
 
 
-*    *   331
+*    *   255
 
+    *
     *   B10
 
     *   B10 Mühlacker, A
@@ -3702,8 +3119,9 @@ Gültig ab 1. Dezember 2019
     *   8.87626
 
 
-*    *   332
+*    *   256
 
+    *
     *   B10
 
     *   B10 Mühlacker, B
@@ -3713,8 +3131,9 @@ Gültig ab 1. Dezember 2019
     *   8.87849
 
 
-*    *   333
+*    *   257
 
+    *
     *   B10
 
     *   B10 Korntal-Münchingen
@@ -3724,8 +3143,21 @@ Gültig ab 1. Dezember 2019
     *   9.10229
 
 
-*    *   334
+*    *   258
 
+    *
+    *   B10
+
+    *   B10/B27 Dreieck Stuttgart-Zuffenhausen
+
+    *   48.83987
+
+    *   9.17229
+
+
+*    *   259
+
+    *
     *   B10
 
     *   B10 Kuchen, Seewiesenstraße
@@ -3735,8 +3167,9 @@ Gültig ab 1. Dezember 2019
     *   9.79039
 
 
-*    *   335
+*    *   260
 
+    *
     *   B10
 
     *   B10 Lonsee, B
@@ -3746,8 +3179,9 @@ Gültig ab 1. Dezember 2019
     *   9.90092
 
 
-*    *   336
+*    *   261
 
+    *
     *   B10
 
     *   B10 Westerstetten, Hinterdenkental, A
@@ -3757,19 +3191,9 @@ Gültig ab 1. Dezember 2019
     *   9.91983
 
 
-*    *   337
+*    *   262
 
-    *   B10
-
-    *   B10 Ulm, Wilhelmsburg
-
-    *   48.41808
-
-    *   9.97227
-
-
-*    *   338
-
+    *
     *   B10
 
     *   B10 Neu-Ulm, Froschlachweg
@@ -3779,30 +3203,9 @@ Gültig ab 1. Dezember 2019
     *   10.08806
 
 
-*    *   339
+*    *   263
 
-    *   B10
-
-    *   B10 Gingen an der Fils, A
-
-    *   48.66763
-
-    *   9.76806
-
-
-*    *   340
-
-    *   B10
-
-    *   B10 Gingen an der Fils, B
-
-    *   48.66672
-
-    *   9.76919
-
-
-*    *   341
-
+    *
     *   B10
 
     *   B10 Lonsee, A
@@ -3812,30 +3215,21 @@ Gültig ab 1. Dezember 2019
     *   9.90335
 
 
-*    *   342
+*    *   264
 
+    *
     *   B11
 
-    *   B11 Wallgau, E
+    *   B11 Wallgau, D
 
     *   47.53287
 
     *   11.28486
 
 
-*    *   343
+*    *   265
 
-    *   B11
-
-    *   B11 Wallgau, D
-
-    *   47.5371
-
-    *   11.28648
-
-
-*    *   344
-
+    *
     *   B11
 
     *   B11 Wallgau, C
@@ -3845,8 +3239,9 @@ Gültig ab 1. Dezember 2019
     *   11.28781
 
 
-*    *   345
+*    *   266
 
+    *
     *   B11
 
     *   B11 Wallgau, B
@@ -3856,8 +3251,9 @@ Gültig ab 1. Dezember 2019
     *   11.28938
 
 
-*    *   346
+*    *   267
 
+    *
     *   B11
 
     *   B11 Wallgau, A
@@ -3867,19 +3263,21 @@ Gültig ab 1. Dezember 2019
     *   11.29129
 
 
-*    *   347
+*    *   268
 
+    *
     *   B11
 
     *   B11 Kochel am See, Alte Kesselbergstraße
 
-    *   47.62742
+    *   47.6274
 
-    *   11.35481
+    *   11.35483
 
 
-*    *   348
+*    *   269
 
+    *
     *   B11
 
     *   B11 Kochel am See
@@ -3889,19 +3287,9 @@ Gültig ab 1. Dezember 2019
     *   11.35389
 
 
-*    *   349
+*    *   270
 
-    *   B11
-
-    *   B11 Kochel am See, Altjoch
-
-    *   47.63781
-
-    *   11.35161
-
-
-*    *   350
-
+    *
     *   B11
 
     *   B11 Kochel am See, Maler-Adam-Weg
@@ -3911,19 +3299,9 @@ Gültig ab 1. Dezember 2019
     *   11.38306
 
 
-*    *   351
+*    *   271
 
-    *   B11
-
-    *   B11 Wolfratshausen, Andreasbrücke
-
-    *   47.91509
-
-    *   11.41873
-
-
-*    *   352
-
+    *
     *   B11
 
     *   B11 Icking, B
@@ -3933,8 +3311,9 @@ Gültig ab 1. Dezember 2019
     *   11.42159
 
 
-*    *   353
+*    *   272
 
+    *
     *   B11
 
     *   B11 Icking, A
@@ -3944,8 +3323,9 @@ Gültig ab 1. Dezember 2019
     *   11.44805
 
 
-*    *   354
+*    *   273
 
+    *
     *   B11
 
     *   B11 Bad Heilbrunn, C
@@ -3955,8 +3335,9 @@ Gültig ab 1. Dezember 2019
     *   11.43439
 
 
-*    *   355
+*    *   274
 
+    *
     *   B11
 
     *   B11 Geretsried, Kirchplatz
@@ -3966,30 +3347,21 @@ Gültig ab 1. Dezember 2019
     *   11.46001
 
 
-*    *   356
+*    *   275
 
+    *
     *   B11
 
-    *   B11 Wolfratshausen, B
+    *   B11 Wolfratshausen, C
 
     *   47.8983
 
     *   11.41143
 
 
-*    *   357
+*    *   276
 
-    *   B11
-
-    *   B11 Wolfratshausen, Geltinger Straße
-
-    *   47.9103
-
-    *   11.42156
-
-
-*    *   358
-
+    *
     *   B11
 
     *   B11 Geretsried
@@ -3999,8 +3371,9 @@ Gültig ab 1. Dezember 2019
     *   11.45569
 
 
-*    *   359
+*    *   277
 
+    *
     *   B11
 
     *   B11 Grafling, Alte Straße, B
@@ -4010,8 +3383,9 @@ Gültig ab 1. Dezember 2019
     *   12.96916
 
 
-*    *   360
+*    *   278
 
+    *
     *   B11
 
     *   B11 Grafling, A
@@ -4021,8 +3395,9 @@ Gültig ab 1. Dezember 2019
     *   12.98058
 
 
-*    *   361
+*    *   279
 
+    *
     *   B11
 
     *   B11 Regen, Schweinhütt, Gstettnweg
@@ -4032,19 +3407,21 @@ Gültig ab 1. Dezember 2019
     *   13.18339
 
 
-*    *   362
+*    *   280
 
+    *
     *   B11
 
     *   B11 Zwiesel, Info Zentrum
 
-    *   48.99958
+    *   48.99957
 
-    *   13.21568
+    *   13.21569
 
 
-*    *   363
+*    *   281
 
+    *
     *   B11
 
     *   B11 Zwiesel, B
@@ -4054,8 +3431,9 @@ Gültig ab 1. Dezember 2019
     *   13.24273
 
 
-*    *   364
+*    *   282
 
+    *
     *   B11
 
     *   B11 Zwiesel, A
@@ -4065,8 +3443,9 @@ Gültig ab 1. Dezember 2019
     *   13.22937
 
 
-*    *   365
+*    *   283
 
+    *
     *   B11
 
     *   B11 Bayerisch Eisenstein, D
@@ -4076,8 +3455,9 @@ Gültig ab 1. Dezember 2019
     *   13.19979
 
 
-*    *   366
+*    *   284
 
+    *
     *   B11
 
     *   B11 Bayerisch Eisenstein, B
@@ -4087,19 +3467,9 @@ Gültig ab 1. Dezember 2019
     *   13.19117
 
 
-*    *   367
+*    *   285
 
-    *   B12
-
-    *   B12 Lindau (Bodensee), Grenzsiedlung
-
-    *   47.53743
-
-    *   9.73497
-
-
-*    *   368
-
+    *
     *   B12
 
     *   B12 Isny im Allgäu, A
@@ -4109,8 +3479,9 @@ Gültig ab 1. Dezember 2019
     *   10.07851
 
 
-*    *   369
+*    *   286
 
+    *
     *   B12
 
     *   B12 Kraftisried, Volgelwirth
@@ -4120,8 +3491,9 @@ Gültig ab 1. Dezember 2019
     *   10.44579
 
 
-*    *   370
+*    *   287
 
+    *
     *   B12
 
     *   B12 Kraftisried, Klosterfrauenholz
@@ -4131,8 +3503,9 @@ Gültig ab 1. Dezember 2019
     *   10.45308
 
 
-*    *   371
+*    *   288
 
+    *
     *   B12
 
     *   B12 Marktoberdorf, B
@@ -4142,8 +3515,9 @@ Gültig ab 1. Dezember 2019
     *   10.55031
 
 
-*    *   372
+*    *   289
 
+    *
     *   B12
 
     *   B12 Marktoberdorf, A
@@ -4153,8 +3527,9 @@ Gültig ab 1. Dezember 2019
     *   10.55354
 
 
-*    *   373
+*    *   290
 
+    *
     *   B12
 
     *   B12 Kaufbeuren, Weinhaldeweg
@@ -4164,8 +3539,9 @@ Gültig ab 1. Dezember 2019
     *   10.64489
 
 
-*    *   374
+*    *   291
 
+    *
     *   B12
 
     *   B12 Jengen
@@ -4175,8 +3551,9 @@ Gültig ab 1. Dezember 2019
     *   10.69457
 
 
-*    *   375
+*    *   292
 
+    *
     *   B12
 
     *   B12 Maitenbeth, B
@@ -4186,8 +3563,9 @@ Gültig ab 1. Dezember 2019
     *   12.06283
 
 
-*    *   376
+*    *   293
 
+    *
     *   B12
 
     *   B12 Reichertsheim, E
@@ -4197,8 +3575,9 @@ Gültig ab 1. Dezember 2019
     *   12.25069
 
 
-*    *   377
+*    *   294
 
+    *
     *   B12
 
     *   B12 Rattenkirchen
@@ -4208,8 +3587,9 @@ Gültig ab 1. Dezember 2019
     *   12.30537
 
 
-*    *   378
+*    *   295
 
+    *
     *   B12
 
     *   B12 Heldenstein
@@ -4219,8 +3599,9 @@ Gültig ab 1. Dezember 2019
     *   12.35317
 
 
-*    *   379
+*    *   296
 
+    *
     *   B12
 
     *   B12 Kirchdorf am Inn, Harter Forst FR West
@@ -4230,8 +3611,9 @@ Gültig ab 1. Dezember 2019
     *   12.92858
 
 
-*    *   380
+*    *   297
 
+    *
     *   B12
 
     *   B12 Kirchdorf am Inn, Harter Forst FR Ost
@@ -4241,8 +3623,9 @@ Gültig ab 1. Dezember 2019
     *   12.9344
 
 
-*    *   381
+*    *   298
 
+    *
     *   B12
 
     *   B12 Ering, D
@@ -4252,8 +3635,9 @@ Gültig ab 1. Dezember 2019
     *   13.10235
 
 
-*    *   382
+*    *   299
 
+    *
     *   B12
 
     *   B12 Ering, Simbacher Straße, A
@@ -4263,19 +3647,9 @@ Gültig ab 1. Dezember 2019
     *   13.11676
 
 
-*    *   383
+*    *   300
 
-    *   B12
-
-    *   B12 Pocking
-
-    *   48.36471
-
-    *   13.27249
-
-
-*    *   384
-
+    *
     *   B12
 
     *   B12 Hinterschmiding, A
@@ -4285,19 +3659,9 @@ Gültig ab 1. Dezember 2019
     *   13.61421
 
 
-*    *   385
+*    *   301
 
-    *   B12
-
-    *   B12 Hinterschmiding, Waldmühlstraße
-
-    *   48.84341
-
-    *   13.64307
-
-
-*    *   386
-
+    *
     *   B12
 
     *   B12 Philippsreut
@@ -4307,8 +3671,9 @@ Gültig ab 1. Dezember 2019
     *   13.6777
 
 
-*    *   387
+*    *   302
 
+    *
     *   B13
 
     *   B13 Ochsenfurt, A
@@ -4318,8 +3683,9 @@ Gültig ab 1. Dezember 2019
     *   10.0586
 
 
-*    *   388
+*    *   303
 
+    *
     *   B13
 
     *   B13 Ochsenfurt, Uffenheimer Straße, B
@@ -4329,8 +3695,9 @@ Gültig ab 1. Dezember 2019
     *   10.0731
 
 
-*    *   389
+*    *   304
 
+    *
     *   B13
 
     *   B13 Ergersheim
@@ -4340,8 +3707,9 @@ Gültig ab 1. Dezember 2019
     *   10.28389
 
 
-*    *   390
+*    *   305
 
+    *
     *   B13
 
     *   B13 Burgbernheim, C
@@ -4351,8 +3719,9 @@ Gültig ab 1. Dezember 2019
     *   10.34905
 
 
-*    *   391
+*    *   306
 
+    *
     *   B13
 
     *   B13 Marktbergel
@@ -4362,8 +3731,9 @@ Gültig ab 1. Dezember 2019
     *   10.3517
 
 
-*    *   392
+*    *   307
 
+    *
     *   B13
 
     *   B13 Oberdachstetten, D
@@ -4373,30 +3743,9 @@ Gültig ab 1. Dezember 2019
     *   10.44065
 
 
-*    *   393
+*    *   308
 
-    *   B13
-
-    *   B13 Ansbach, Ludwig-Keller-Straße
-
-    *   49.30185
-
-    *   10.58453
-
-
-*    *   394
-
-    *   B13
-
-    *   B13 Ansbach, Welserstraße
-
-    *   49.29569
-
-    *   10.58118
-
-
-*    *   395
-
+    *
     *   B13
 
     *   B13 Muhr am See, A
@@ -4406,8 +3755,9 @@ Gültig ab 1. Dezember 2019
     *   10.72062
 
 
-*    *   396
+*    *   309
 
+    *
     *   B13
 
     *   B13 Muhr am See, B
@@ -4417,8 +3767,9 @@ Gültig ab 1. Dezember 2019
     *   10.73371
 
 
-*    *   397
+*    *   310
 
+    *
     *   B13
 
     *   B13 Theilenhofen, A
@@ -4428,8 +3779,9 @@ Gültig ab 1. Dezember 2019
     *   10.80781
 
 
-*    *   398
+*    *   311
 
+    *
     *   B13
 
     *   B13 Weißenburg in Bayern, A
@@ -4439,8 +3791,9 @@ Gültig ab 1. Dezember 2019
     *   11.00017
 
 
-*    *   399
+*    *   312
 
+    *
     *   B13
 
     *   B13 Weißenburg in Bayern, D
@@ -4450,8 +3803,9 @@ Gültig ab 1. Dezember 2019
     *   11.05612
 
 
-*    *   400
+*    *   313
 
+    *
     *   B13
 
     *   B13 Eichstätt, B
@@ -4461,8 +3815,9 @@ Gültig ab 1. Dezember 2019
     *   11.15577
 
 
-*    *   401
+*    *   314
 
+    *
     *   B13
 
     *   B13 Eichstätt, A
@@ -4472,8 +3827,9 @@ Gültig ab 1. Dezember 2019
     *   11.15779
 
 
-*    *   402
+*    *   315
 
+    *
     *   B13
 
     *   B13 Eichstätt, Anton-Bachschmid-Straße
@@ -4483,19 +3839,21 @@ Gültig ab 1. Dezember 2019
     *   11.16124
 
 
-*    *   403
+*    *   316
 
+    *
     *   B13
 
-    *   B13 Adelschlag, A
+    *   B13 Adelschlag
 
     *   48.86668
 
     *   11.2203
 
 
-*    *   404
+*    *   317
 
+    *
     *   B13
 
     *   B13 Eitensheim, A
@@ -4505,8 +3863,9 @@ Gültig ab 1. Dezember 2019
     *   11.27945
 
 
-*    *   405
+*    *   318
 
+    *
     *   B13
 
     *   B13 Eitensheim, B
@@ -4516,19 +3875,21 @@ Gültig ab 1. Dezember 2019
     *   11.28217
 
 
-*    *   406
+*    *   319
 
+    *
     *   B13
 
-    *   B13 Ingolstadt, Hindenburgstraße
+    *   B13 Ingolstadt, Friedrichshofer Straße
 
-    *   48.77202
+    *   48.77806
 
-    *   11.4314
+    *   11.37956
 
 
-*    *   407
+*    *   320
 
+    *
     *   B13
 
     *   B13 Pörnbach, E
@@ -4538,8 +3899,9 @@ Gültig ab 1. Dezember 2019
     *   11.48718
 
 
-*    *   408
+*    *   321
 
+    *
     *   B13
 
     *   B13 Pörnbach, F
@@ -4549,8 +3911,9 @@ Gültig ab 1. Dezember 2019
     *   11.48949
 
 
-*    *   409
+*    *   322
 
+    *
     *   B13
 
     *   B13 Pfaffenhofen an der Ilm, B
@@ -4560,8 +3923,21 @@ Gültig ab 1. Dezember 2019
     *   11.5002
 
 
-*    *   410
+*    *   323
 
+    *
+    *   B13
+
+    *   B13 Pfaffenhofen an der Ilm, C
+
+    *   48.53801
+
+    *   11.51387
+
+
+*    *   324
+
+    *
     *   B13
 
     *   B13 Hettenshausen, Münchener Straße, B
@@ -4571,8 +3947,9 @@ Gültig ab 1. Dezember 2019
     *   11.51279
 
 
-*    *   411
+*    *   325
 
+    *
     *   B13
 
     *   B13 Holzkirchen, A
@@ -4582,8 +3959,9 @@ Gültig ab 1. Dezember 2019
     *   11.68938
 
 
-*    *   412
+*    *   326
 
+    *
     *   B13
 
     *   B13 Sachsenkam, A
@@ -4593,8 +3971,9 @@ Gültig ab 1. Dezember 2019
     *   11.65505
 
 
-*    *   413
+*    *   327
 
+    *
     *   B13
 
     *   B13 Sachsenkam, B
@@ -4604,8 +3983,9 @@ Gültig ab 1. Dezember 2019
     *   11.63713
 
 
-*    *   414
+*    *   328
 
+    *
     *   B13
 
     *   B13 Gaißach, Lexen
@@ -4615,8 +3995,9 @@ Gültig ab 1. Dezember 2019
     *   11.5665
 
 
-*    *   415
+*    *   329
 
+    *
     *   B13
 
     *   B13 Gaißach, A
@@ -4626,8 +4007,9 @@ Gültig ab 1. Dezember 2019
     *   11.56568
 
 
-*    *   416
+*    *   330
 
+    *
     *   B13
 
     *   B13 Gaißach, B
@@ -4637,52 +4019,57 @@ Gültig ab 1. Dezember 2019
     *   11.56341
 
 
-*    *   417
+*    *   331
 
+    *
     *   B13
 
-    *   B13 Lenggries, Toni-Seber-Weg, B
+    *   B13 Lenggries, A
 
     *   47.69467
 
     *   11.56479
 
 
-*    *   418
+*    *   332
 
+    *
     *   B13
 
-    *   B13 Lenggries, A
+    *   B13 Lenggries, B
 
     *   47.68976
 
     *   11.56793
 
 
-*    *   419
+*    *   333
 
+    *
     *   B13
 
-    *   B13 Lenggries, Toni-Seber-Weg, D
+    *   B13 Lenggries, C
 
     *   47.66793
 
     *   11.57843
 
 
-*    *   420
+*    *   334
 
+    *
     *   B13
 
-    *   B13 Lenggries, Toni-Seber-Weg
+    *   B13 Lenggries, D
 
     *   47.65943
 
     *   11.58585
 
 
-*    *   421
+*    *   335
 
+    *
     *   B13
 
     *   B13 Lenggries, Hellerschwang, C
@@ -4692,30 +4079,33 @@ Gültig ab 1. Dezember 2019
     *   11.59352
 
 
-*    *   422
+*    *   336
 
+    *
     *   B13
 
-    *   B13 Lenggries, Toni-Seber-Weg, F
+    *   B13 Lenggries, E
 
     *   47.62251
 
     *   11.59548
 
 
-*    *   423
+*    *   337
 
+    *
     *   B13
 
-    *   B13 Lenggries, Toni-Seber-Weg, H
+    *   B13 Lenggries, G
 
     *   47.60695
 
     *   11.5824
 
 
-*    *   424
+*    *   338
 
+    *
     *   B14
 
     *   B14 Tuttlingen
@@ -4725,8 +4115,9 @@ Gültig ab 1. Dezember 2019
     *   8.85139
 
 
-*    *   425
+*    *   339
 
+    *
     *   B14
 
     *   B14 Wurmlingen, Rietheimer Straße
@@ -4736,8 +4127,9 @@ Gültig ab 1. Dezember 2019
     *   8.7829
 
 
-*    *   426
+*    *   340
 
+    *
     *   B14
 
     *   B14 Wurmlingen, Weilheimer Straße
@@ -4747,63 +4139,33 @@ Gültig ab 1. Dezember 2019
     *   8.78135
 
 
-*    *   427
+*    *   341
 
+    *
     *   B14
 
-    *   B14 Rietheim-Weilheim, Untere Hauptstraße
-
-    *   48.02199
-
-    *   8.77275
-
-
-*    *   428
-
-    *   B14
-
-    *   B14 Aldingen
+    *   B14 Aldingen, B
 
     *   48.10748
 
     *   8.69637
 
 
-*    *   429
+*    *   342
 
+    *
     *   B14
 
     *   B14 Rottweil
 
-    *   48.14974
+    *   48.14979
 
-    *   8.61544
-
-
-*    *   430
-
-    *   B14
-
-    *   B14 Herrenberg, B
-
-    *   48.59964
-
-    *   8.87201
+    *   8.61509
 
 
-*    *   431
+*    *   343
 
-    *   B14
-
-    *   B14 Herrenberg, A
-
-    *   48.60051
-
-    *   8.87264
-
-
-*    *   432
-
+    *
     *   B14
 
     *   B14 Stuttgart, Konrad-Adenauer-Straße
@@ -4813,19 +4175,9 @@ Gültig ab 1. Dezember 2019
     *   9.18493
 
 
-*    *   433
+*    *   344
 
-    *   B14
-
-    *   B14 Mainhardt, Stock, Riegenhof, B
-
-    *   49.07714
-
-    *   9.57859
-
-
-*    *   434
-
+    *
     *   B14
 
     *   B14 Mainhardt, B
@@ -4835,19 +4187,9 @@ Gültig ab 1. Dezember 2019
     *   9.59487
 
 
-*    *   435
+*    *   345
 
-    *   B14
-
-    *   B14 Mainhardt, Stuttgarter Straße
-
-    *   49.08591
-
-    *   9.61117
-
-
-*    *   436
-
+    *
     *   B14
 
     *   B14 Michelfeld, B
@@ -4857,8 +4199,9 @@ Gültig ab 1. Dezember 2019
     *   9.64011
 
 
-*    *   437
+*    *   346
 
+    *
     *   B14
 
     *   B14 Michelfeld, A
@@ -4868,19 +4211,9 @@ Gültig ab 1. Dezember 2019
     *   9.64843
 
 
-*    *   438
+*    *   347
 
-    *   B14
-
-    *   B14 Petersaurach, D
-
-    *   49.31295
-
-    *   10.68044
-
-
-*    *   439
-
+    *
     *   B14
 
     *   B14 Petersaurach, C
@@ -4890,8 +4223,9 @@ Gültig ab 1. Dezember 2019
     *   10.68807
 
 
-*    *   440
+*    *   348
 
+    *
     *   B14
 
     *   B14 Heilsbronn, Rondellweg Süd
@@ -4901,8 +4235,9 @@ Gültig ab 1. Dezember 2019
     *   10.76672
 
 
-*    *   441
+*    *   349
 
+    *
     *   B14
 
     *   B14 Roßtal, C
@@ -4912,41 +4247,33 @@ Gültig ab 1. Dezember 2019
     *   10.85806
 
 
-*    *   442
+*    *   350
 
+    *
     *   B14
 
-    *   B14 Nürnberg, Röthenbacher Hauptstraße
+    *   B14 Nürnberg, Äußere Sulzbacher Straße
 
-    *   49.42064
+    *   49.46585
 
-    *   11.03289
+    *   11.12227
 
 
-*    *   443
+*    *   351
 
+    *
     *   B14
 
     *   B14 Schwaig bei Nürnberg, Am Eichenrangen, A
 
-    *   49.48644
+    *   49.48642
 
-    *   11.2167
-
-
-*    *   444
-
-    *   B14
-
-    *   B14 Reichenschwand, Kirchstraße
-
-    *   49.5126
-
-    *   11.37546
+    *   11.21662
 
 
-*    *   445
+*    *   352
 
+    *
     *   B14
 
     *   B14 Henfenfeld
@@ -4956,8 +4283,9 @@ Gültig ab 1. Dezember 2019
     *   11.41418
 
 
-*    *   446
+*    *   353
 
+    *
     *   B14
 
     *   B14 Neukirchen b. Sulzbach-Rosenberg, B
@@ -4967,30 +4295,21 @@ Gültig ab 1. Dezember 2019
     *   11.65871
 
 
-*    *   447
+*    *   354
 
+    *
     *   B14
 
     *   B14 Sulzbach-Rosenberg, D
 
-    *   49.50308
+    *   49.50307
 
     *   11.68261
 
 
-*    *   448
+*    *   355
 
-    *   B14
-
-    *   B14 Hahnbach, Hauptstraße, A
-
-    *   49.53529
-
-    *   11.80653
-
-
-*    *   449
-
+    *
     *   B14
 
     *   B14 Gebenbach, A
@@ -5000,8 +4319,9 @@ Gültig ab 1. Dezember 2019
     *   11.89032
 
 
-*    *   450
+*    *   356
 
+    *
     *   B14
 
     *   B14 Gebenbach, B
@@ -5011,8 +4331,9 @@ Gültig ab 1. Dezember 2019
     *   11.89398
 
 
-*    *   451
+*    *   357
 
+    *
     *   B14
 
     *   B14 Schnaittenbach, Parkplatz B 14
@@ -5022,19 +4343,9 @@ Gültig ab 1. Dezember 2019
     *   12.03225
 
 
-*    *   452
+*    *   358
 
-    *   B15
-
-    *   B15 Rosenheim, Hubertusstraße
-
-    *   47.86159
-
-    *   12.11127
-
-
-*    *   453
-
+    *
     *   B15
 
     *   B15 Soyen, D
@@ -5044,8 +4355,9 @@ Gültig ab 1. Dezember 2019
     *   12.20538
 
 
-*    *   454
+*    *   359
 
+    *
     *   B15
 
     *   B15 Taufkirchen (Vils), D
@@ -5055,8 +4367,9 @@ Gültig ab 1. Dezember 2019
     *   12.13053
 
 
-*    *   455
+*    *   360
 
+    *
     *   B15
 
     *   B15 Vilsheim, A
@@ -5066,30 +4379,21 @@ Gültig ab 1. Dezember 2019
     *   12.13957
 
 
-*    *   456
+*    *   361
 
-    *   B15
-
-    *   B15 Altfraunhofen, Steimerberg
-
-    *   48.44572
-
-    *   12.14463
-
-
-*    *   457
-
+    *
     *   B15
 
     *   B15 Landshut, B
 
     *   48.52982
 
-    *   12.144
+    *   12.14401
 
 
-*    *   458
+*    *   362
 
+    *
     *   B15
 
     *   B15 Ergoldsbach, B
@@ -5099,30 +4403,69 @@ Gültig ab 1. Dezember 2019
     *   12.21149
 
 
-*    *   459
+*    *   363
 
-    *   B15
-
-    *   B15 Ergoldsbach, Rosengasse
-
-    *   48.68942
-
-    *   12.20396
-
-
-*    *   460
-
+    *
     *   B15
 
     *   B15 Ergoldsbach, A
 
     *   48.71646
 
-    *   12.19112
+    *   12.19114
 
 
-*    *   461
+*    *   364
 
+    *
+    *   B15
+
+    *   B15 Neufahrn in Niederbayern, Hauptstraße, B
+
+    *   48.72627
+
+    *   12.18973
+
+
+*    *   365
+
+    *
+    *   B15
+
+    *   B15 Schierling, A
+
+    *   48.85735
+
+    *   12.18661
+
+
+*    *   366
+
+    *
+    *   B15
+
+    *   B15 Hagelstadt, C
+
+    *   48.89778
+
+    *   12.2133
+
+
+*    *   367
+
+    *
+    *   B15
+
+    *   B15 Köfering, Hauptstraße
+
+    *   48.94039
+
+    *   12.20096
+
+
+*    *   368
+
+    *
     *   B15
 
     *   B15 Obertraubling, B
@@ -5132,8 +4475,9 @@ Gültig ab 1. Dezember 2019
     *   12.1828
 
 
-*    *   462
+*    *   369
 
+    *
     *   B15
 
     *   B15 Tirschenreuth, C
@@ -5143,8 +4487,9 @@ Gültig ab 1. Dezember 2019
     *   12.33799
 
 
-*    *   463
+*    *   370
 
+    *
     *   B15
 
     *   B15 Tirschenreuth, B
@@ -5154,8 +4499,9 @@ Gültig ab 1. Dezember 2019
     *   12.31542
 
 
-*    *   464
+*    *   371
 
+    *
     *   B15
 
     *   B15 Tirschenreuth, A
@@ -5165,8 +4511,9 @@ Gültig ab 1. Dezember 2019
     *   12.30506
 
 
-*    *   465
+*    *   372
 
+    *
     *   B15
 
     *   B15 Leonberg, B
@@ -5176,30 +4523,21 @@ Gültig ab 1. Dezember 2019
     *   12.29881
 
 
-*    *   466
+*    *   373
 
+    *
     *   B15
 
-    *   B15 Hof, A
+    *   B15 Hof
 
     *   50.29928
 
     *   11.91746
 
 
-*    *   467
+*    *   374
 
-    *   B16
-
-    *   B16 Füssen, Kaiser-Maximilian-Platz
-
-    *   47.56962
-
-    *   10.70048
-
-
-*    *   468
-
+    *
     *   B16
 
     *   B16 Salgen, A
@@ -5209,8 +4547,9 @@ Gültig ab 1. Dezember 2019
     *   10.47655
 
 
-*    *   469
+*    *   375
 
+    *
     *   B16
 
     *   B16 Pfaffenhausen, C
@@ -5220,8 +4559,9 @@ Gültig ab 1. Dezember 2019
     *   10.44349
 
 
-*    *   470
+*    *   376
 
+    *
     *   B16
 
     *   B16 Deisenhausen, B
@@ -5231,8 +4571,9 @@ Gültig ab 1. Dezember 2019
     *   10.34593
 
 
-*    *   471
+*    *   377
 
+    *
     *   B16
 
     *   B16 Krumbach (Schwaben)
@@ -5242,19 +4583,9 @@ Gültig ab 1. Dezember 2019
     *   10.34428
 
 
-*    *   472
+*    *   378
 
-    *   B16
-
-    *   B16 Höchstädt an der Donau, Ellimahdstraße
-
-    *   48.61686
-
-    *   10.56759
-
-
-*    *   473
-
+    *
     *   B16
 
     *   B16 Schwenningen
@@ -5264,8 +4595,9 @@ Gültig ab 1. Dezember 2019
     *   10.65878
 
 
-*    *   474
+*    *   379
 
+    *
     *   B16
 
     *   B16 Donauwörth, Am Donaufeld, A
@@ -5275,8 +4607,9 @@ Gültig ab 1. Dezember 2019
     *   10.74454
 
 
-*    *   475
+*    *   380
 
+    *
     *   B16
 
     *   B16 Rain, A
@@ -5286,19 +4619,21 @@ Gültig ab 1. Dezember 2019
     *   10.89644
 
 
-*    *   476
+*    *   381
 
+    *
     *   B16
 
-    *   B16 Oberhausen, A
+    *   B16 Oberhausen
 
     *   48.72418
 
-    *   11.13553
+    *   11.13555
 
 
-*    *   477
+*    *   382
 
+    *
     *   B16
 
     *   B16 Manching, C
@@ -5308,8 +4643,9 @@ Gültig ab 1. Dezember 2019
     *   11.48949
 
 
-*    *   478
+*    *   383
 
+    *
     *   B16
 
     *   B16 Münchsmünster
@@ -5319,8 +4655,9 @@ Gültig ab 1. Dezember 2019
     *   11.6605
 
 
-*    *   479
+*    *   384
 
+    *
     *   B16
 
     *   B16 Abensberg, Rappersdorf
@@ -5330,8 +4667,9 @@ Gültig ab 1. Dezember 2019
     *   11.85122
 
 
-*    *   480
+*    *   385
 
+    *
     *   B16
 
     *   B16 Kelheim
@@ -5341,8 +4679,9 @@ Gültig ab 1. Dezember 2019
     *   11.91575
 
 
-*    *   481
+*    *   386
 
+    *
     *   B16
 
     *   B16 Bad Abbach, C
@@ -5352,8 +4691,9 @@ Gültig ab 1. Dezember 2019
     *   11.97201
 
 
-*    *   482
+*    *   387
 
+    *
     *   B16
 
     *   B16 Bad Abbach, B
@@ -5363,8 +4703,9 @@ Gültig ab 1. Dezember 2019
     *   12.01872
 
 
-*    *   483
+*    *   388
 
+    *
     *   B16
 
     *   B16 Pentling, Regensburger Straße, B
@@ -5374,8 +4715,9 @@ Gültig ab 1. Dezember 2019
     *   12.04926
 
 
-*    *   484
+*    *   389
 
+    *
     *   B16
 
     *   B16 Pentling, Regensburger Straße, A
@@ -5385,19 +4727,9 @@ Gültig ab 1. Dezember 2019
     *   12.05429
 
 
-*    *   485
+*    *   390
 
-    *   B16
-
-    *   B16 Bernhardswald
-
-    *   49.07957
-
-    *   12.23005
-
-
-*    *   486
-
+    *
     *   B16A
 
     *   B16A Münchsmünster, A
@@ -5407,8 +4739,9 @@ Gültig ab 1. Dezember 2019
     *   11.64373
 
 
-*    *   487
+*    *   391
 
+    *
     *   B17
 
     *   B17 Halblech, B
@@ -5418,8 +4751,9 @@ Gültig ab 1. Dezember 2019
     *   10.79459
 
 
-*    *   488
+*    *   392
 
+    *
     *   B17
 
     *   B17 Steingaden, D
@@ -5429,19 +4763,21 @@ Gültig ab 1. Dezember 2019
     *   10.86056
 
 
-*    *   489
+*    *   393
 
+    *
     *   B17
 
     *   B17 Steingaden, B
 
     *   47.74196
 
-    *   10.88545
+    *   10.88544
 
 
-*    *   490
+*    *   394
 
+    *
     *   B17
 
     *   B17 Peiting, Kreuther Weg
@@ -5451,8 +4787,9 @@ Gültig ab 1. Dezember 2019
     *   10.89301
 
 
-*    *   491
+*    *   395
 
+    *
     *   B17
 
     *   B17 Schongau, Parkplatzverbindung
@@ -5462,19 +4799,9 @@ Gültig ab 1. Dezember 2019
     *   10.88465
 
 
-*    *   492
+*    *   396
 
-    *   B17
-
-    *   B17 Hohenfurch
-
-    *   47.84463
-
-    *   10.89864
-
-
-*    *   493
-
+    *
     *   B19
 
     *   B19 Oberstdorf, B
@@ -5484,8 +4811,9 @@ Gültig ab 1. Dezember 2019
     *   10.23085
 
 
-*    *   494
+*    *   397
 
+    *
     *   B19
 
     *   B19 Oberstdorf, A
@@ -5495,30 +4823,45 @@ Gültig ab 1. Dezember 2019
     *   10.25171
 
 
-*    *   495
+*    *   398
 
+    *
     *   B19
 
-    *   B19 Kempten (Allgäu)
+    *   B19 Kempten (Allgäu), A
 
     *   47.69934
 
     *   10.31308
 
 
-*    *   496
+*    *   399
 
+    *
     *   B19
 
-    *   B19 Kempten (Allgäu), Bahnhofstraße, A
+    *   B19 Kempten (Allgäu), C
 
-    *   47.72417
+    *   47.70391
 
-    *   10.31581
+    *   10.31288
 
 
-*    *   497
+*    *   400
 
+    *
+    *   B19
+
+    *   B19 Kempten (Allgäu), B
+
+    *   47.73963
+
+    *   10.32329
+
+
+*    *   401
+
+    *
     *   B19
 
     *   B19 Königsbronn, Gaintalsträßle
@@ -5528,8 +4871,9 @@ Gültig ab 1. Dezember 2019
     *   10.10357
 
 
-*    *   498
+*    *   402
 
+    *
     *   B19
 
     *   B19 Aalen, B
@@ -5539,8 +4883,9 @@ Gültig ab 1. Dezember 2019
     *   10.12561
 
 
-*    *   499
+*    *   403
 
+    *
     *   B19
 
     *   B19 Hüttlingen
@@ -5550,8 +4895,9 @@ Gültig ab 1. Dezember 2019
     *   10.06236
 
 
-*    *   500
+*    *   404
 
+    *
     *   B19
 
     *   B19 Aalen, A
@@ -5561,8 +4907,9 @@ Gültig ab 1. Dezember 2019
     *   10.04945
 
 
-*    *   501
+*    *   405
 
+    *
     *   B19
 
     *   B19 Abtsgmünd, C
@@ -5572,8 +4919,9 @@ Gültig ab 1. Dezember 2019
     *   9.93818
 
 
-*    *   502
+*    *   406
 
+    *
     *   B19
 
     *   B19 Obergröningen, C
@@ -5583,8 +4931,9 @@ Gültig ab 1. Dezember 2019
     *   9.92114
 
 
-*    *   503
+*    *   407
 
+    *
     *   B19
 
     *   B19 Abtsgmünd, A
@@ -5594,8 +4943,9 @@ Gültig ab 1. Dezember 2019
     *   9.90058
 
 
-*    *   504
+*    *   408
 
+    *
     *   B19
 
     *   B19 Abtsgmünd, Stein-Gallenberg-B19
@@ -5605,8 +4955,9 @@ Gültig ab 1. Dezember 2019
     *   9.88153
 
 
-*    *   505
+*    *   409
 
+    *
     *   B19
 
     *   B19 Sulzbach-Laufen, F
@@ -5616,8 +4967,9 @@ Gültig ab 1. Dezember 2019
     *   9.86777
 
 
-*    *   506
+*    *   410
 
+    *
     *   B19
 
     *   B19 Sulzbach-Laufen, Hägelesburg
@@ -5627,30 +4979,21 @@ Gültig ab 1. Dezember 2019
     *   9.86208
 
 
-*    *   507
+*    *   411
 
-    *   B19
-
-    *   B19 Sulzbach-Laufen, Sommerhalde
-
-    *   48.9433
-
-    *   9.85736
-
-
-*    *   508
-
+    *
     *   B19
 
     *   B19 Sulzbach-Laufen, B
 
-    *   48.96673
+    *   48.96672
 
     *   9.82722
 
 
-*    *   509
+*    *   412
 
+    *
     *   B19
 
     *   B19 Sulzbach-Laufen, A
@@ -5660,19 +5003,9 @@ Gültig ab 1. Dezember 2019
     *   9.8239
 
 
-*    *   510
+*    *   413
 
-    *   B19
-
-    *   B19 Gaildorf, Bühlhaldenstraße
-
-    *   48.97801
-
-    *   9.80304
-
-
-*    *   511
-
+    *
     *   B19
 
     *   B19 Gaildorf, C
@@ -5682,8 +5015,9 @@ Gültig ab 1. Dezember 2019
     *   9.78889
 
 
-*    *   512
+*    *   414
 
+    *
     *   B19
 
     *   B19 Gaildorf, Gutenberg, A
@@ -5693,19 +5027,9 @@ Gültig ab 1. Dezember 2019
     *   9.78538
 
 
-*    *   513
+*    *   415
 
-    *   B19
-
-    *   B19 Gaildorf, Graf-Pückler-Straße
-
-    *   49.00064
-
-    *   9.76795
-
-
-*    *   514
-
+    *
     *   B19
 
     *   B19 Gaildorf, B
@@ -5715,8 +5039,9 @@ Gültig ab 1. Dezember 2019
     *   9.74372
 
 
-*    *   515
+*    *   416
 
+    *
     *   B19
 
     *   B19 Gaildorf, A
@@ -5726,30 +5051,9 @@ Gültig ab 1. Dezember 2019
     *   9.73886
 
 
-*    *   516
+*    *   417
 
-    *   B19
-
-    *   B19 Schwäbisch Hall, Gelbingen, Salinenstraße
-
-    *   49.1204
-
-    *   9.73718
-
-
-*    *   517
-
-    *   B19
-
-    *   B19 Künzelsau, Austraße
-
-    *   49.27997
-
-    *   9.68816
-
-
-*    *   518
-
+    *
     *   B19
 
     *   B19 Dörzbach, B
@@ -5759,8 +5063,9 @@ Gültig ab 1. Dezember 2019
     *   9.72559
 
 
-*    *   519
+*    *   418
 
+    *
     *   B19
 
     *   B19 Dörzbach, A
@@ -5770,8 +5075,9 @@ Gültig ab 1. Dezember 2019
     *   9.71971
 
 
-*    *   520
+*    *   419
 
+    *
     *   B19
 
     *   B19 Igersheim, Bachsträßchen
@@ -5781,8 +5087,9 @@ Gültig ab 1. Dezember 2019
     *   9.83524
 
 
-*    *   521
+*    *   420
 
+    *
     *   B19
 
     *   B19 Igersheim, Schafwiese
@@ -5792,8 +5099,9 @@ Gültig ab 1. Dezember 2019
     *   9.86513
 
 
-*    *   522
+*    *   421
 
+    *
     *   B19
 
     *   B19 Würzburg, Unterer Blosenbergweg
@@ -5803,30 +5111,9 @@ Gültig ab 1. Dezember 2019
     *   9.92882
 
 
-*    *   523
+*    *   422
 
-    *   B19
-
-    *   B19 Meiningen, Unterer Grund
-
-    *   50.58999
-
-    *   10.43179
-
-
-*    *   524
-
-    *   B19
-
-    *   B19 Meiningen, Jerusalemer Straße
-
-    *   50.58851
-
-    *   10.41218
-
-
-*    *   525
-
+    *
     *   B19
 
     *   B19 Wasungen, A
@@ -5836,52 +5123,45 @@ Gültig ab 1. Dezember 2019
     *   10.38078
 
 
-*    *   526
+*    *   423
 
+    *
     *   B19
 
-    *   B19 Wasungen, Obertor
-
-    *   50.66234
-
-    *   10.37008
-
-
-*    *   527
-
-    *   B19
-
-    *   B19 Breitungen/Werra, B
+    *   B19 Breitungen/Werra
 
     *   50.76133
 
     *   10.3475
 
 
-*    *   528
+*    *   424
 
+    *
     *   B20
 
-    *   B20 Bischofswiesen
+    *   B20 Bischofswiesen, Wegmacher Kapelle
 
     *   47.70745
 
     *   12.92721
 
 
-*    *   529
+*    *   425
 
+    *
     *   B20
 
-    *   B20 Bad Reichenhall, Tiroler Straße
+    *   B20 Bad Reichenhall, Berchtesgadener Straße
 
-    *   47.71897
+    *   47.7172
 
-    *   12.87407
+    *   12.87734
 
 
-*    *   530
+*    *   426
 
+    *
     *   B20
 
     *   B20 Piding
@@ -5891,8 +5171,9 @@ Gültig ab 1. Dezember 2019
     *   12.93087
 
 
-*    *   531
+*    *   427
 
+    *
     *   B20
 
     *   B20 Ainring
@@ -5902,52 +5183,57 @@ Gültig ab 1. Dezember 2019
     *   12.93627
 
 
-*    *   532
+*    *   428
 
+    *
     *   B20
 
-    *   B20 Burgkirchen an der Alz, B
+    *   B20 Burgkirchen an der Alz, A
 
     *   48.12135
 
     *   12.74658
 
 
-*    *   533
+*    *   429
 
+    *
     *   B20
 
-    *   B20 Burghausen, Zündhölzlberg
+    *   B20 Burghausen, Burgkirchener Straße, F
 
-    *   48.15998
+    *   48.16516
 
-    *   12.82013
+    *   12.80925
 
 
-*    *   534
+*    *   430
 
+    *
     *   B20
 
-    *   B20 Burghausen, Fröschlbauerweg
+    *   B20 Burghausen, Burgkirchener Straße, C
 
-    *   48.16289
+    *   48.17645
 
-    *   12.8217
+    *   12.8253
 
 
-*    *   535
+*    *   431
 
+    *
     *   B20
 
-    *   B20 Burghausen, Pergerstraße
+    *   B20 Burghausen, Burgkirchener Straße, B
 
-    *   48.16637
+    *   48.17844
 
-    *   12.82825
+    *   12.82608
 
 
-*    *   536
+*    *   432
 
+    *
     *   B20
 
     *   B20 Zeilarn, B
@@ -5957,8 +5243,9 @@ Gültig ab 1. Dezember 2019
     *   12.84968
 
 
-*    *   537
+*    *   433
 
+    *
     *   B20
 
     *   B20 Zeilarn, A
@@ -5968,19 +5255,9 @@ Gültig ab 1. Dezember 2019
     *   12.82933
 
 
-*    *   538
+*    *   434
 
-    *   B20
-
-    *   B20 Wurmannsquick, A
-
-    *   48.34484
-
-    *   12.81507
-
-
-*    *   539
-
+    *
     *   B20
 
     *   B20 Falkenberg, Gmainbauerstraße
@@ -5990,8 +5267,9 @@ Gültig ab 1. Dezember 2019
     *   12.73601
 
 
-*    *   540
+*    *   435
 
+    *
     *   B20
 
     *   B20 Simbach, C
@@ -6001,8 +5279,9 @@ Gültig ab 1. Dezember 2019
     *   12.72482
 
 
-*    *   541
+*    *   436
 
+    *
     *   B20
 
     *   B20 Simbach, B
@@ -6012,8 +5291,9 @@ Gültig ab 1. Dezember 2019
     *   12.72007
 
 
-*    *   542
+*    *   437
 
+    *
     *   B20
 
     *   B20 Landau an der Isar, A
@@ -6023,8 +5303,9 @@ Gültig ab 1. Dezember 2019
     *   12.68259
 
 
-*    *   543
+*    *   438
 
+    *
     *   B20
 
     *   B20 Stallwang, B
@@ -6034,8 +5315,9 @@ Gültig ab 1. Dezember 2019
     *   12.64769
 
 
-*    *   544
+*    *   439
 
+    *
     *   B20
 
     *   B20 Stallwang, A
@@ -6045,8 +5327,9 @@ Gültig ab 1. Dezember 2019
     *   12.6405
 
 
-*    *   545
+*    *   440
 
+    *
     *   B20
 
     *   B20 Loitzendorf, A
@@ -6056,19 +5339,9 @@ Gültig ab 1. Dezember 2019
     *   12.64672
 
 
-*    *   546
+*    *   441
 
-    *   B20
-
-    *   B20 Traitsching, Büchsenmühle, B
-
-    *   49.12843
-
-    *   12.65303
-
-
-*    *   547
-
+    *
     *   B20
 
     *   B20 Traitsching, A
@@ -6078,8 +5351,9 @@ Gültig ab 1. Dezember 2019
     *   12.65293
 
 
-*    *   548
+*    *   442
 
+    *
     *   B20
 
     *   B20 Cham
@@ -6089,8 +5363,9 @@ Gültig ab 1. Dezember 2019
     *   12.65586
 
 
-*    *   549
+*    *   443
 
+    *
     *   B20
 
     *   B20 Runding
@@ -6100,8 +5375,9 @@ Gültig ab 1. Dezember 2019
     *   12.71173
 
 
-*    *   550
+*    *   444
 
+    *
     *   B20
 
     *   B20 Furth im Wald
@@ -6111,19 +5387,21 @@ Gültig ab 1. Dezember 2019
     *   12.84627
 
 
-*    *   551
+*    *   445
 
+    *
     *   B21
 
     *   B21 Schneizlreuth, D
 
-    *   47.6802
+    *   47.68023
 
-    *   12.83322
+    *   12.83321
 
 
-*    *   552
+*    *   446
 
+    *
     *   B21
 
     *   B21 Schneizlreuth, B
@@ -6133,8 +5411,9 @@ Gültig ab 1. Dezember 2019
     *   12.84517
 
 
-*    *   553
+*    *   447
 
+    *
     *   B21
 
     *   B21 Schneizlreuth, A
@@ -6144,30 +5423,33 @@ Gültig ab 1. Dezember 2019
     *   12.85197
 
 
-*    *   554
+*    *   448
 
+    *
     *   B21
 
     *   B21 Bad Reichenhall
 
-    *   47.71374
+    *   47.73573
 
-    *   12.87144
+    *   12.88085
 
 
-*    *   555
+*    *   449
 
+    *
     *   B22
 
-    *   B22 Burgebrach, Oberharnsbach, Hofweg
+    *   B22 Prichsenstadt, D
 
-    *   49.82828
+    *   49.83392
 
-    *   10.78803
+    *   10.32509
 
 
-*    *   556
+*    *   450
 
+    *
     *   B22
 
     *   B22 Frensdorf, Walsdorfer Wald
@@ -6177,8 +5459,9 @@ Gültig ab 1. Dezember 2019
     *   10.81634
 
 
-*    *   557
+*    *   451
 
+    *
     *   B22
 
     *   B22 Scheßlitz, C
@@ -6188,8 +5471,9 @@ Gültig ab 1. Dezember 2019
     *   11.11485
 
 
-*    *   558
+*    *   452
 
+    *
     *   B22
 
     *   B22 Hollfeld, Schönfelder Weg, B
@@ -6199,8 +5483,9 @@ Gültig ab 1. Dezember 2019
     *   11.30033
 
 
-*    *   559
+*    *   453
 
+    *
     *   B22
 
     *   B22 Thurnau, Busbach
@@ -6210,8 +5495,9 @@ Gültig ab 1. Dezember 2019
     *   11.3847
 
 
-*    *   560
+*    *   454
 
+    *
     *   B22
 
     *   B22 Weidenberg
@@ -6221,19 +5507,21 @@ Gültig ab 1. Dezember 2019
     *   11.69137
 
 
-*    *   561
+*    *   455
 
+    *
     *   B22
 
-    *   B22 Speichersdorf, E
+    *   B22 Speichersdorf, A
 
     *   49.87646
 
     *   11.80335
 
 
-*    *   562
+*    *   456
 
+    *
     *   B22
 
     *   B22 Kemnath, J
@@ -6243,19 +5531,21 @@ Gültig ab 1. Dezember 2019
     *   11.96973
 
 
-*    *   563
+*    *   457
 
+    *
     *   B22
 
-    *   B22 Erbendorf, B
+    *   B22 Erbendorf, A
 
     *   49.83256
 
     *   12.04929
 
 
-*    *   564
+*    *   458
 
+    *
     *   B22
 
     *   B22 Kirchendemenreuth, A
@@ -6265,8 +5555,9 @@ Gültig ab 1. Dezember 2019
     *   12.09169
 
 
-*    *   565
+*    *   459
 
+    *
     *   B22
 
     *   B22 Weiden in der Oberpfalz, Heilige Staude
@@ -6276,8 +5567,9 @@ Gültig ab 1. Dezember 2019
     *   12.18948
 
 
-*    *   566
+*    *   460
 
+    *
     *   B22
 
     *   B22 Leuchtenberg, A
@@ -6287,19 +5579,9 @@ Gültig ab 1. Dezember 2019
     *   12.2616
 
 
-*    *   567
+*    *   461
 
-    *   B22
-
-    *   B22 Leuchtenberg, Brauhausstraße
-
-    *   49.60371
-
-    *   12.2663
-
-
-*    *   568
-
+    *
     *   B22
 
     *   B22 Leuchtenberg, G
@@ -6309,8 +5591,9 @@ Gültig ab 1. Dezember 2019
     *   12.27501
 
 
-*    *   569
+*    *   462
 
+    *
     *   B22
 
     *   B22 Gleiritsch, A
@@ -6320,19 +5603,21 @@ Gültig ab 1. Dezember 2019
     *   12.32561
 
 
-*    *   570
+*    *   463
 
+    *
     *   B22
 
     *   B22 Teunz
 
-    *   49.48977
+    *   49.48962
 
-    *   12.36319
+    *   12.36329
 
 
-*    *   571
+*    *   464
 
+    *
     *   B22
 
     *   B22 Oberviechtach, A
@@ -6342,19 +5627,9 @@ Gültig ab 1. Dezember 2019
     *   12.4014
 
 
-*    *   572
+*    *   465
 
-    *   B22
-
-    *   B22 Oberviechtach, Forst, B
-
-    *   49.45097
-
-    *   12.43569
-
-
-*    *   573
-
+    *
     *   B22
 
     *   B22 Oberviechtach, B
@@ -6364,19 +5639,21 @@ Gültig ab 1. Dezember 2019
     *   12.43892
 
 
-*    *   574
+*    *   466
 
+    *
     *   B22
 
     *   B22 Rötz, Buchbrunnen
 
-    *   49.36328
+    *   49.36329
 
     *   12.51161
 
 
-*    *   575
+*    *   467
 
+    *
     *   B22
 
     *   B22 Pemfling, A
@@ -6386,8 +5663,9 @@ Gültig ab 1. Dezember 2019
     *   12.63069
 
 
-*    *   576
+*    *   468
 
+    *
     *   B22
 
     *   B22 Pemfling, C
@@ -6397,8 +5675,9 @@ Gültig ab 1. Dezember 2019
     *   12.62908
 
 
-*    *   577
+*    *   469
 
+    *
     *   B22
 
     *   B22 Willmering, Am Wasserlauf
@@ -6408,8 +5687,9 @@ Gültig ab 1. Dezember 2019
     *   12.66346
 
 
-*    *   578
+*    *   470
 
+    *
     *   B23
 
     *   B23 Rottenbuch
@@ -6419,19 +5699,9 @@ Gültig ab 1. Dezember 2019
     *   10.94273
 
 
-*    *   579
+*    *   471
 
-    *   B23
-
-    *   B23 Rottenbuch, Schnaitbergweg, A
-
-    *   47.75468
-
-    *   10.94017
-
-
-*    *   580
-
+    *
     *   B23
 
     *   B23 Oberammergau, A
@@ -6441,19 +5711,21 @@ Gültig ab 1. Dezember 2019
     *   11.0748
 
 
-*    *   581
+*    *   472
 
+    *
     *   B23
 
-    *   B23 Oberammergau, C
+    *   B23 Oberammergau, B
 
     *   47.57668
 
     *   11.07723
 
 
-*    *   582
+*    *   473
 
+    *
     *   B23
 
     *   B23 Oberau, Jägersteig
@@ -6463,19 +5735,21 @@ Gültig ab 1. Dezember 2019
     *   11.11856
 
 
-*    *   583
+*    *   474
 
+    *
     *   B23
 
     *   B23 Oberau, C
 
-    *   47.56366
+    *   47.56365
 
-    *   11.12516
+    *   11.12517
 
 
-*    *   584
+*    *   475
 
+    *
     *   B23
 
     *   B23 Oberau, B
@@ -6485,8 +5759,9 @@ Gültig ab 1. Dezember 2019
     *   11.12835
 
 
-*    *   585
+*    *   476
 
+    *
     *   B23
 
     *   B23 Oberau, A
@@ -6496,8 +5771,9 @@ Gültig ab 1. Dezember 2019
     *   11.12989
 
 
-*    *   586
+*    *   477
 
+    *
     *   B23
 
     *   B23 Oberau, Alte Dorfstraße
@@ -6507,8 +5783,21 @@ Gültig ab 1. Dezember 2019
     *   11.13474
 
 
-*    *   587
+*    *   478
 
+    *
+    *   B23
+
+    *   B23 Oberau, E
+
+    *   47.55253
+
+    *   11.13291
+
+
+*    *   479
+
+    *
     *   B23
 
     *   B23 Grainau
@@ -6518,41 +5807,45 @@ Gültig ab 1. Dezember 2019
     *   11.02491
 
 
-*    *   588
+*    *   480
 
+    *
     *   B23
 
-    *   B23 Garmisch-Partenkirchen, F
+    *   B23 Garmisch-Partenkirchen, C
 
     *   47.48151
 
     *   11.00289
 
 
-*    *   589
+*    *   481
 
+    *
     *   B23
 
-    *   B23 Garmisch-Partenkirchen, E
+    *   B23 Garmisch-Partenkirchen, B
 
-    *   47.48188
+    *   47.4819
 
     *   10.99862
 
 
-*    *   590
+*    *   482
 
+    *
     *   B23
 
-    *   B23 Garmisch-Partenkirchen, C
+    *   B23 Garmisch-Partenkirchen, A
 
-    *   47.4829
+    *   47.48242
 
-    *   10.98792
+    *   10.98891
 
 
-*    *   591
+*    *   483
 
+    *
     *   B25
 
     *   B25 Feuchtwangen, B
@@ -6562,30 +5855,33 @@ Gültig ab 1. Dezember 2019
     *   10.3117
 
 
-*    *   592
+*    *   484
 
+    *
     *   B25
 
-    *   B25 Feuchtwangen, I
+    *   B25 Feuchtwangen, G
 
     *   49.13848
 
     *   10.31564
 
 
-*    *   593
+*    *   485
 
+    *
     *   B25
 
-    *   B25 Dinkelsbühl, D
+    *   B25 Dinkelsbühl, B
 
     *   49.08103
 
     *   10.32147
 
 
-*    *   594
+*    *   486
 
+    *
     *   B25
 
     *   B25 Dinkelsbühl, Alte Neustädtleiner Straße, B
@@ -6595,19 +5891,9 @@ Gültig ab 1. Dezember 2019
     *   10.33612
 
 
-*    *   595
+*    *   487
 
-    *   B25
-
-    *   B25 Wilburgstetten, Wörnitz
-
-    *   49.02878
-
-    *   10.385
-
-
-*    *   596
-
+    *
     *   B25
 
     *   B25 Fremdingen, Hochrain
@@ -6617,8 +5903,21 @@ Gültig ab 1. Dezember 2019
     *   10.44836
 
 
-*    *   597
+*    *   488
 
+    *
+    *   B25
+
+    *   B25 Möttingen
+
+    *   48.81064
+
+    *   10.58723
+
+
+*    *   489
+
+    *
     *   B25
 
     *   B25 Harburg (Schwaben), A
@@ -6628,8 +5927,9 @@ Gültig ab 1. Dezember 2019
     *   10.67197
 
 
-*    *   598
+*    *   490
 
+    *
     *   B25
 
     *   B25 Harburg (Schwaben), C
@@ -6639,52 +5939,21 @@ Gültig ab 1. Dezember 2019
     *   10.70465
 
 
-*    *   599
+*    *   491
 
+    *
     *   B25
 
     *   B25 Harburg (Schwaben), D
 
-    *   48.75202
+    *   48.75201
 
-    *   10.72489
-
-
-*    *   600
-
-    *   B26
-
-    *   B26 Griesheim, Groß-Gerauer-Straße
-
-    *   49.85981
-
-    *   8.5552
+    *   10.72492
 
 
-*    *   601
+*    *   492
 
-    *   A672
-
-    *   Darmstadt, Dreieck (Übergang A 672/B 26)
-
-    *   49.86722
-
-    *   8.61048
-
-
-*    *   602
-
-    *   B26
-
-    *   B26 Darmstadt, Hügelstraße, A
-
-    *   49.8699
-
-    *   8.65629
-
-
-*    *   603
-
+    *
     *   B26
 
     *   B26 Hösbach, A
@@ -6694,8 +5963,9 @@ Gültig ab 1. Dezember 2019
     *   9.23696
 
 
-*    *   604
+*    *   493
 
+    *
     *   B26
 
     *   B26 Aschaffenburg (Gemfr. Gebiet), A
@@ -6705,8 +5975,9 @@ Gültig ab 1. Dezember 2019
     *   9.3291
 
 
-*    *   605
+*    *   494
 
+    *
     *   B26
 
     *   B26 Aschaffenburg (Gemfr. Gebiet), C
@@ -6716,8 +5987,9 @@ Gültig ab 1. Dezember 2019
     *   9.43422
 
 
-*    *   606
+*    *   495
 
+    *
     *   B26
 
     *   B26 Main-Spessart (Gemfr. Gebiet), Spessartweg
@@ -6727,8 +5999,9 @@ Gültig ab 1. Dezember 2019
     *   9.4561
 
 
-*    *   607
+*    *   496
 
+    *
     *   B26
 
     *   B26 Rechtenbach
@@ -6738,19 +6011,21 @@ Gültig ab 1. Dezember 2019
     *   9.53454
 
 
-*    *   608
+*    *   497
 
+    *
     *   B26
 
-    *   B26 Lohr a. Main, A
+    *   B26 Lohr a. Main
 
     *   49.99334
 
     *   9.56155
 
 
-*    *   609
+*    *   498
 
+    *
     *   B26
 
     *   B26 Neuendorf
@@ -6760,8 +6035,9 @@ Gültig ab 1. Dezember 2019
     *   9.6482
 
 
-*    *   610
+*    *   499
 
+    *
     *   B26
 
     *   B26 Gemünden am Main, A
@@ -6771,8 +6047,9 @@ Gültig ab 1. Dezember 2019
     *   9.67194
 
 
-*    *   611
+*    *   500
 
+    *
     *   B26
 
     *   B26 Karlstadt, A
@@ -6782,8 +6059,9 @@ Gültig ab 1. Dezember 2019
     *   9.71363
 
 
-*    *   612
+*    *   501
 
+    *
     *   B26
 
     *   B26 Arnstein, B
@@ -6793,19 +6071,21 @@ Gültig ab 1. Dezember 2019
     *   10.00263
 
 
-*    *   613
+*    *   502
 
+    *
     *   B26
 
     *   B26 Viereth-Trunstadt, Neue Mainstraße
 
-    *   49.92937
+    *   49.92933
 
-    *   10.75495
+    *   10.7549
 
 
-*    *   614
+*    *   503
 
+    *
     *   B26A
 
     *   B26A Arnstein, Strutholz
@@ -6815,8 +6095,9 @@ Gültig ab 1. Dezember 2019
     *   10.03
 
 
-*    *   615
+*    *   504
 
+    *
     *   B27
 
     *   B27 Blumberg, B
@@ -6826,19 +6107,9 @@ Gültig ab 1. Dezember 2019
     *   8.59873
 
 
-*    *   616
+*    *   505
 
-    *   B27
-
-    *   B27 Donaueschingen, Haberfeld
-
-    *   47.9501
-
-    *   8.52128
-
-
-*    *   617
-
+    *
     *   B27
 
     *   B27 Deißlingen, Am Schacht, B
@@ -6848,8 +6119,9 @@ Gültig ab 1. Dezember 2019
     *   8.63562
 
 
-*    *   618
+*    *   506
 
+    *
     *   B27
 
     *   B27 Deißlingen, Am Schacht, A
@@ -6859,8 +6131,9 @@ Gültig ab 1. Dezember 2019
     *   8.63606
 
 
-*    *   619
+*    *   507
 
+    *
     *   B27
 
     *   B27 Rottweil, B
@@ -6870,8 +6143,9 @@ Gültig ab 1. Dezember 2019
     *   8.66461
 
 
-*    *   620
+*    *   508
 
+    *
     *   B27
 
     *   B27 Rottweil, A
@@ -6881,8 +6155,9 @@ Gültig ab 1. Dezember 2019
     *   8.71309
 
 
-*    *   621
+*    *   509
 
+    *
     *   B27
 
     *   B27 Schömberg, B
@@ -6892,8 +6167,9 @@ Gültig ab 1. Dezember 2019
     *   8.73839
 
 
-*    *   622
+*    *   510
 
+    *
     *   B27
 
     *   B27 Schömberg, A
@@ -6903,8 +6179,9 @@ Gültig ab 1. Dezember 2019
     *   8.74172
 
 
-*    *   623
+*    *   511
 
+    *
     *   B27
 
     *   B27 Dotternhausen
@@ -6914,8 +6191,9 @@ Gültig ab 1. Dezember 2019
     *   8.80026
 
 
-*    *   624
+*    *   512
 
+    *
     *   B27
 
     *   B27 Mössingen, Lindenhof
@@ -6925,63 +6203,9 @@ Gültig ab 1. Dezember 2019
     *   9.0035
 
 
-*    *   625
+*    *   513
 
-    *   B27
-
-    *   B27 Stuttgart, Dobelstraße
-
-    *   48.77011
-
-    *   9.18648
-
-
-*    *   626
-
-    *   B27
-
-    *   B27 Stuttgart, Alexanderstraße
-
-    *   48.77342
-
-    *   9.18706
-
-
-*    *   627
-
-    *   B27
-
-    *   B27 Stuttgart, Kronenstraße
-
-    *   48.78305
-
-    *   9.17749
-
-
-*    *   628
-
-    *   B27
-
-    *   B27 Stuttgart, Heilbronner Straße, D
-
-    *   48.79062
-
-    *   9.18113
-
-
-*    *   629
-
-    *   B27
-
-    *   B27 Stuttgart, Schellingstraße
-
-    *   48.78125
-
-    *   9.17698
-
-
-*    *   630
-
+    *
     *   B27
 
     *   B27 Walheim, B
@@ -6991,8 +6215,9 @@ Gültig ab 1. Dezember 2019
     *   9.15105
 
 
-*    *   631
+*    *   514
 
+    *
     *   B27
 
     *   B27 Lauffen am Neckar, Kirrberg, B
@@ -7002,8 +6227,9 @@ Gültig ab 1. Dezember 2019
     *   9.16118
 
 
-*    *   632
+*    *   515
 
+    *
     *   B27
 
     *   B27 Talheim, Im Pfädle
@@ -7013,30 +6239,21 @@ Gültig ab 1. Dezember 2019
     *   9.18161
 
 
-*    *   633
+*    *   516
 
-    *   B27
-
-    *   B27 Gundelsheim, Wiesenstraße
-
-    *   49.28964
-
-    *   9.14497
-
-
-*    *   634
-
+    *
     *   B27
 
     *   B27 Haßmersheim
 
-    *   49.30198
+    *   49.3021
 
-    *   9.15423
+    *   9.15427
 
 
-*    *   635
+*    *   517
 
+    *
     *   B27
 
     *   B27 Limbach, B
@@ -7046,8 +6263,21 @@ Gültig ab 1. Dezember 2019
     *   9.238
 
 
-*    *   636
+*    *   518
 
+    *
+    *   B27
+
+    *   B27 Buchen (Odenwald), Am Rüdtschen Eck
+
+    *   49.50115
+
+    *   9.27544
+
+
+*    *   519
+
+    *
     *   B27
 
     *   B27 Buchen (Odenwald), Am runden Tisch
@@ -7057,19 +6287,9 @@ Gültig ab 1. Dezember 2019
     *   9.29791
 
 
-*    *   637
+*    *   520
 
-    *   B27
-
-    *   B27 Höpfingen, Hauptstraße
-
-    *   49.60212
-
-    *   9.42821
-
-
-*    *   638
-
+    *
     *   B27
 
     *   B27 Hardheim, A
@@ -7079,8 +6299,9 @@ Gültig ab 1. Dezember 2019
     *   9.53893
 
 
-*    *   639
+*    *   521
 
+    *
     *   B27
 
     *   B27 Königheim, C
@@ -7090,8 +6311,9 @@ Gültig ab 1. Dezember 2019
     *   9.5735
 
 
-*    *   640
+*    *   522
 
+    *
     *   B27
 
     *   B27 Tauberbischofsheim
@@ -7101,8 +6323,9 @@ Gültig ab 1. Dezember 2019
     *   9.67235
 
 
-*    *   641
+*    *   523
 
+    *
     *   B27
 
     *   B27 Zellingen, B
@@ -7112,8 +6335,9 @@ Gültig ab 1. Dezember 2019
     *   9.83416
 
 
-*    *   642
+*    *   524
 
+    *
     *   B27
 
     *   B27 Eußenheim, B
@@ -7123,30 +6347,9 @@ Gültig ab 1. Dezember 2019
     *   9.80722
 
 
-*    *   643
+*    *   525
 
-    *   B27
-
-    *   B27 Eußenheim, Augasse
-
-    *   49.99069
-
-    *   9.80986
-
-
-*    *   644
-
-    *   B27
-
-    *   B27 Gössenheim, Bäckergasse
-
-    *   50.02041
-
-    *   9.78063
-
-
-*    *   645
-
+    *
     *   B27
 
     *   B27 Hammelburg, A
@@ -7156,8 +6359,9 @@ Gültig ab 1. Dezember 2019
     *   9.86716
 
 
-*    *   646
+*    *   526
 
+    *
     *   B27
 
     *   B27 Petersberg, Mausehundgraben
@@ -7167,19 +6371,21 @@ Gültig ab 1. Dezember 2019
     *   9.71169
 
 
-*    *   647
+*    *   527
 
+    *
     *   B27
 
     *   B27 Hünfeld, B
 
-    *   50.64875
+    *   50.64872
 
-    *   9.74981
+    *   9.7498
 
 
-*    *   648
+*    *   528
 
+    *
     *   B27
 
     *   B27 Hünfeld, A
@@ -7189,8 +6395,9 @@ Gültig ab 1. Dezember 2019
     *   9.75259
 
 
-*    *   649
+*    *   529
 
+    *
     *   B27
 
     *   B27 Burghaun, Hersfelder Straße, B
@@ -7200,8 +6407,9 @@ Gültig ab 1. Dezember 2019
     *   9.72105
 
 
-*    *   650
+*    *   530
 
+    *
     *   B27
 
     *   B27 Burghaun
@@ -7211,8 +6419,9 @@ Gültig ab 1. Dezember 2019
     *   9.70177
 
 
-*    *   651
+*    *   531
 
+    *
     *   B27
 
     *   B27 Haunetal
@@ -7222,8 +6431,9 @@ Gültig ab 1. Dezember 2019
     *   9.68614
 
 
-*    *   652
+*    *   532
 
+    *
     *   B27
 
     *   B27 Bad Hersfeld
@@ -7233,19 +6443,9 @@ Gültig ab 1. Dezember 2019
     *   9.72322
 
 
-*    *   653
+*    *   533
 
-    *   B27
-
-    *   B27 Ludwigsau, Am Stetenrain
-
-    *   50.92173
-
-    *   9.75399
-
-
-*    *   654
-
+    *
     *   B27
 
     *   B27 Ludwigsau
@@ -7255,30 +6455,33 @@ Gültig ab 1. Dezember 2019
     *   9.76529
 
 
-*    *   655
+*    *   534
 
+    *
     *   B27
 
-    *   B27 Bebra, B
+    *   B27 Bebra, Cornberger Höhe, B
 
-    *   51.02765
+    *   51.02769
 
-    *   9.84206
+    *   9.84232
 
 
-*    *   656
+*    *   535
 
+    *
     *   B27
 
-    *   B27 Bebra, A
+    *   B27 Bebra, Cornberger Höhe, A
 
-    *   51.02851
+    *   51.02852
 
-    *   9.85143
+    *   9.85138
 
 
-*    *   657
+*    *   536
 
+    *
     *   B27
 
     *   B27 Cornberg
@@ -7288,30 +6491,33 @@ Gültig ab 1. Dezember 2019
     *   9.87634
 
 
-*    *   658
+*    *   537
 
+    *
     *   B27
 
-    *   B27 Sontra, C
+    *   B27 Sontra, B
 
     *   51.06195
 
     *   9.91562
 
 
-*    *   659
+*    *   538
 
+    *
     *   B27
 
-    *   B27 Sontra, A
+    *   B27 Sontra, Forsthaus
 
     *   51.08782
 
     *   9.94219
 
 
-*    *   660
+*    *   539
 
+    *
     *   B27
 
     *   B27 Wehretal, Sontra
@@ -7321,8 +6527,9 @@ Gültig ab 1. Dezember 2019
     *   9.97639
 
 
-*    *   661
+*    *   540
 
+    *
     *   B27
 
     *   B27 Eschwege, B
@@ -7332,8 +6539,9 @@ Gültig ab 1. Dezember 2019
     *   9.98439
 
 
-*    *   662
+*    *   541
 
+    *
     *   B27
 
     *   B27 Eschwege, A
@@ -7343,8 +6551,9 @@ Gültig ab 1. Dezember 2019
     *   9.98269
 
 
-*    *   663
+*    *   542
 
+    *
     *   B27
 
     *   B27 Bad Sooden-Allendorf, A
@@ -7354,8 +6563,9 @@ Gültig ab 1. Dezember 2019
     *   9.96549
 
 
-*    *   664
+*    *   543
 
+    *
     *   B27
 
     *   B27 Bad Sooden-Allendorf, B
@@ -7365,8 +6575,9 @@ Gültig ab 1. Dezember 2019
     *   9.94192
 
 
-*    *   665
+*    *   544
 
+    *
     *   B27
 
     *   B27 Bad Sooden-Allendorf, Jugendburg Ludwigstein
@@ -7376,8 +6587,9 @@ Gültig ab 1. Dezember 2019
     *   9.91678
 
 
-*    *   666
+*    *   545
 
+    *
     *   B27
 
     *   B27 Neu-Eichenberg, Mühlenberg
@@ -7387,8 +6599,9 @@ Gültig ab 1. Dezember 2019
     *   9.90532
 
 
-*    *   667
+*    *   546
 
+    *
     *   B27
 
     *   B27 Ebergötzen
@@ -7398,8 +6611,9 @@ Gültig ab 1. Dezember 2019
     *   10.1349
 
 
-*    *   668
+*    *   547
 
+    *
     *   B27
 
     *   B27 Wollershausen, Postweg
@@ -7409,8 +6623,9 @@ Gültig ab 1. Dezember 2019
     *   10.25593
 
 
-*    *   669
+*    *   548
 
+    *
     *   B27
 
     *   B27 Bad Lauterberg im Harz, A
@@ -7420,8 +6635,9 @@ Gültig ab 1. Dezember 2019
     *   10.50777
 
 
-*    *   670
+*    *   549
 
+    *
     *   B27
 
     *   B27 Oberharz am Brocken, Boderandweg
@@ -7431,19 +6647,9 @@ Gültig ab 1. Dezember 2019
     *   10.69842
 
 
-*    *   671
+*    *   550
 
-    *   B27
-
-    *   B27 Oberharz am Brocken, Kalte Tal
-
-    *   51.76455
-
-    *   10.82778
-
-
-*    *   672
-
+    *
     *   B27
 
     *   B27 Blankenburg (Harz), Knorrenberg
@@ -7453,41 +6659,21 @@ Gültig ab 1. Dezember 2019
     *   10.93802
 
 
-*    *   673
+*    *   551
 
+    *
     *   B28
 
-    *   B28 Kehl, K5373
-
-    *   48.57556
-
-    *   7.80612
-
-
-*    *   674
-
-    *   B28
-
-    *   B28 Oppenau, A
+    *   B28 Oppenau
 
     *   48.49426
 
     *   8.1419
 
 
-*    *   675
+*    *   552
 
-    *   B28
-
-    *   B28 Oppenau, Armersgrund
-
-    *   48.46018
-
-    *   8.16183
-
-
-*    *   676
-
+    *
     *   B28
 
     *   B28 Bad Peterstal-Griesbach, A
@@ -7497,8 +6683,9 @@ Gültig ab 1. Dezember 2019
     *   8.2711
 
 
-*    *   677
+*    *   553
 
+    *
     *   B28
 
     *   B28 Freudenstadt, Kasernenbrunnenweg
@@ -7508,8 +6695,9 @@ Gültig ab 1. Dezember 2019
     *   8.31917
 
 
-*    *   678
+*    *   554
 
+    *
     *   B28
 
     *   B28 Freudenstadt, B
@@ -7519,8 +6707,9 @@ Gültig ab 1. Dezember 2019
     *   8.32351
 
 
-*    *   679
+*    *   555
 
+    *
     *   B28
 
     *   B28 Freudenstadt, Rotwasser
@@ -7530,8 +6719,9 @@ Gültig ab 1. Dezember 2019
     *   8.34785
 
 
-*    *   680
+*    *   556
 
+    *
     *   B28
 
     *   B28 Freudenstadt, Sandwald
@@ -7541,8 +6731,9 @@ Gültig ab 1. Dezember 2019
     *   8.35906
 
 
-*    *   681
+*    *   557
 
+    *
     *   B28
 
     *   B28 Horb am Neckar, A
@@ -7552,19 +6743,21 @@ Gültig ab 1. Dezember 2019
     *   8.60372
 
 
-*    *   682
+*    *   558
 
+    *
     *   B28
 
-    *   B28 Horb am Neckar, E
+    *   B28 Horb am Neckar, Seehaus
 
-    *   48.44837
+    *   48.44838
 
-    *   8.6198
+    *   8.61976
 
 
-*    *   683
+*    *   559
 
+    *
     *   B28
 
     *   B28 Eutingen im Gäu, Am Flugplatz, B
@@ -7574,30 +6767,9 @@ Gültig ab 1. Dezember 2019
     *   8.7585
 
 
-*    *   684
+*    *   560
 
-    *   B28
-
-    *   B28 Tübingen, Hegelstraße, A
-
-    *   48.51501
-
-    *   9.05619
-
-
-*    *   685
-
-    *   B28
-
-    *   B28 Reutlingen, Benzstraße
-
-    *   48.49635
-
-    *   9.19563
-
-
-*    *   686
-
+    *
     *   B28
 
     *   B28 Bad Urach
@@ -7607,8 +6779,9 @@ Gültig ab 1. Dezember 2019
     *   9.37885
 
 
-*    *   687
+*    *   561
 
+    *
     *   B28
 
     *   B28 Römerstein, A
@@ -7618,8 +6791,9 @@ Gültig ab 1. Dezember 2019
     *   9.49119
 
 
-*    *   688
+*    *   562
 
+    *
     *   B28
 
     *   B28 Römerstein, B
@@ -7629,8 +6803,9 @@ Gültig ab 1. Dezember 2019
     *   9.58028
 
 
-*    *   689
+*    *   563
 
+    *
     *   B28
 
     *   B28 Laichingen, A
@@ -7640,30 +6815,21 @@ Gültig ab 1. Dezember 2019
     *   9.58974
 
 
-*    *   690
+*    *   564
 
+    *
     *   B28
 
     *   B28 Heroldstatt
 
-    *   48.46396
+    *   48.46403
 
-    *   9.66174
-
-
-*    *   691
-
-    *   B28
-
-    *   B28 Blaubeuren, Karlstraße
-
-    *   48.40412
-
-    *   9.79106
+    *   9.66173
 
 
-*    *   692
+*    *   565
 
+    *
     *   B28
 
     *   B28 Blaubeuren, Altental, A
@@ -7673,52 +6839,21 @@ Gültig ab 1. Dezember 2019
     *   9.8468
 
 
-*    *   693
+*    *   566
 
-    *   B28
-
-    *   B28 Ulm, Blaubeurer Straße, K
-
-    *   48.40027
-
-    *   9.96485
-
-
-*    *   694
-
-    *   B28
-
-    *   B28 Tübingen, Hegelstraße, B
-
-    *   48.51497
-
-    *   9.05523
-
-
-*    *   695
-
+    *
     *   B29
 
     *   B29 Böbingen an der Rems, Mögglinger Straße
 
     *   48.82074
 
-    *   9.92331
+    *   9.9233
 
 
-*    *   696
+*    *   567
 
-    *   B29
-
-    *   B29 Essingen
-
-    *   48.81941
-
-    *   10.02144
-
-
-*    *   697
-
+    *
     *   B29
 
     *   B29 Aalen, Schanzenstraße
@@ -7728,19 +6863,21 @@ Gültig ab 1. Dezember 2019
     *   10.07664
 
 
-*    *   698
+*    *   568
 
+    *
     *   B29
 
-    *   B29 Aalen, A
+    *   B29 Aalen
 
     *   48.88628
 
     *   10.14194
 
 
-*    *   699
+*    *   569
 
+    *
     *   B29
 
     *   B29 Lauchheim
@@ -7750,8 +6887,9 @@ Gültig ab 1. Dezember 2019
     *   10.27965
 
 
-*    *   700
+*    *   570
 
+    *
     *   B29
 
     *   B29 Bopfingen, A
@@ -7761,19 +6899,9 @@ Gültig ab 1. Dezember 2019
     *   10.33352
 
 
-*    *   701
+*    *   571
 
-    *   B29
-
-    *   B29 Bopfingen, Nördlinger Straße
-
-    *   48.8558
-
-    *   10.36154
-
-
-*    *   702
-
+    *
     *   B29
 
     *   B29 Bopfingen, E
@@ -7783,52 +6911,45 @@ Gültig ab 1. Dezember 2019
     *   10.36376
 
 
-*    *   703
+*    *   572
 
+    *
     *   B30
 
-    *   B30 Ravensburg, Friedrichshafener Straße, B
-
-    *   47.73865
-
-    *   9.59823
-
-
-*    *   704
-
-    *   B30
-
-    *   B30 Bad Waldsee, F
+    *   B30 Bad Waldsee, D
 
     *   47.87333
 
     *   9.69976
 
 
-*    *   705
+*    *   573
 
+    *
     *   B30
 
-    *   B30 Bad Waldsee, K7936
+    *   B30 Bad Waldsee, C
 
     *   47.91043
 
     *   9.76509
 
 
-*    *   706
+*    *   574
 
+    *
     *   B30
 
-    *   B30 Bad Waldsee, D
+    *   B30 Bad Waldsee, B
 
     *   47.9151
 
     *   9.76808
 
 
-*    *   707
+*    *   575
 
+    *
     *   B30
 
     *   B30 Bad Waldsee, Fliederstraße
@@ -7838,8 +6959,9 @@ Gültig ab 1. Dezember 2019
     *   9.76431
 
 
-*    *   708
+*    *   576
 
+    *
     *   B30
 
     *   B30 Bad Waldsee, A
@@ -7849,8 +6971,9 @@ Gültig ab 1. Dezember 2019
     *   9.76442
 
 
-*    *   709
+*    *   577
 
+    *
     *   B30
 
     *   B30 Eberhardzell
@@ -7860,19 +6983,9 @@ Gültig ab 1. Dezember 2019
     *   9.76739
 
 
-*    *   710
+*    *   578
 
-    *   B30
-
-    *   B30 Eberhardzell, Winterstetter Straße
-
-    *   47.98525
-
-    *   9.77297
-
-
-*    *   711
-
+    *
     *   B31
 
     *   B31 Breisach am Rhein, Zur Rheinbrücke
@@ -7882,63 +6995,69 @@ Gültig ab 1. Dezember 2019
     *   7.58556
 
 
-*    *   712
+*    *   579
 
+    *
     *   B31
 
-    *   B31 Buchenbach, Jägerpfad, B
+    *   B31 Buchenbach, Falkensteig, Löwenplatz
 
     *   47.94292
 
     *   8.0083
 
 
-*    *   713
+*    *   580
 
+    *
     *   B31
 
-    *   B31 Breitnau, A
+    *   B31 Breitnau, Höllbach
 
     *   47.92783
 
     *   8.03151
 
 
-*    *   714
+*    *   581
 
+    *
     *   B31
 
-    *   B31 Breitnau, B
+    *   B31 Breitnau, Poschthalde
 
     *   47.92271
 
     *   8.04422
 
 
-*    *   715
+*    *   582
 
+    *
     *   B31
 
-    *   B31 Breitnau, C
+    *   B31 Breitnau
 
     *   47.91837
 
     *   8.06495
 
 
-*    *   716
+*    *   583
 
+    *
     *   B31
 
-    *   B31 Breitnau, Höllsteig, A
+    *   B31 Breitnau, Oswaldkapelle
 
     *   47.91628
 
     *   8.0709
 
 
-*    *   717
+*    *   584
 
+    *
     *   B31
 
     *   B31 Breitnau, Ravennaschlucht
@@ -7948,30 +7067,9 @@ Gültig ab 1. Dezember 2019
     *   8.07712
 
 
-*    *   718
+*    *   585
 
-    *   B31
-
-    *   B31 Breitnau, D
-
-    *   47.91432
-
-    *   8.08033
-
-
-*    *   719
-
-    *   B31
-
-    *   B31 Breitnau, Oberhöllsteig, B
-
-    *   47.91331
-
-    *   8.09029
-
-
-*    *   720
-
+    *
     *   B31
 
     *   B31 Hinterzarten
@@ -7981,19 +7079,9 @@ Gültig ab 1. Dezember 2019
     *   8.12291
 
 
-*    *   721
+*    *   586
 
-    *   B31
-
-    *   B31 Titisee-Neustadt, A
-
-    *   47.9061
-
-    *   8.13346
-
-
-*    *   722
-
+    *
     *   B31
 
     *   B31 Titisee-Neustadt, Saiger Straße
@@ -8003,19 +7091,21 @@ Gültig ab 1. Dezember 2019
     *   8.20792
 
 
-*    *   723
+*    *   587
 
+    *
     *   B31
 
-    *   B31 Titisee-Neustadt, B
+    *   B31 Titisee-Neustadt
 
-    *   47.90316
+    *   47.90315
 
-    *   8.25752
+    *   8.25759
 
 
-*    *   724
+*    *   588
 
+    *
     *   B31
 
     *   B31 Löffingen, Fürstenbergstraße
@@ -8025,8 +7115,9 @@ Gültig ab 1. Dezember 2019
     *   8.34814
 
 
-*    *   725
+*    *   589
 
+    *
     *   B31
 
     *   B31 Löffingen, Studerstraße
@@ -8036,8 +7127,9 @@ Gültig ab 1. Dezember 2019
     *   8.36147
 
 
-*    *   726
+*    *   590
 
+    *
     *   B31
 
     *   B31 Geisingen, Unterhölzer
@@ -8047,19 +7139,21 @@ Gültig ab 1. Dezember 2019
     *   8.59493
 
 
-*    *   727
+*    *   591
 
+    *
     *   B31
 
-    *   B31 Freiburg im Breisgau, FR1, A
+    *   B31 Freiburg im Breisgau, Leo-Wohleb-Straße
 
     *   47.99102
 
-    *   7.85604
+    *   7.85615
 
 
-*    *   728
+*    *   592
 
+    *
     *   B31
 
     *   B31 Bodman-Ludwigshafen
@@ -8069,8 +7163,9 @@ Gültig ab 1. Dezember 2019
     *   9.03202
 
 
-*    *   729
+*    *   593
 
+    *
     *   B31
 
     *   B31 Sipplingen, A
@@ -8080,8 +7175,9 @@ Gültig ab 1. Dezember 2019
     *   9.07873
 
 
-*    *   730
+*    *   594
 
+    *
     *   B31
 
     *   B31 Sipplingen, Seestraße
@@ -8091,8 +7187,9 @@ Gültig ab 1. Dezember 2019
     *   9.09389
 
 
-*    *   731
+*    *   595
 
+    *
     *   B31
 
     *   B31 Überlingen, Brünnensbach
@@ -8102,41 +7199,21 @@ Gültig ab 1. Dezember 2019
     *   9.13115
 
 
-*    *   732
+*    *   596
 
+    *
     *   B31
 
-    *   B31 Überlingen, Im Guggenbühl
+    *   B31 Überlingen, Galgenbühl
 
     *   47.78088
 
     *   9.16357
 
 
-*    *   733
+*    *   597
 
-    *   B31
-
-    *   B31 Überlingen, Heiligengrundweg
-
-    *   47.77556
-
-    *   9.17504
-
-
-*    *   734
-
-    *   B31
-
-    *   B31 Überlingen, Rengoldshauser Straße
-
-    *   47.75921
-
-    *   9.19512
-
-
-*    *   735
-
+    *
     *   B31
 
     *   B31 Überlingen
@@ -8146,8 +7223,9 @@ Gültig ab 1. Dezember 2019
     *   9.2113
 
 
-*    *   736
+*    *   598
 
+    *
     *   B31
 
     *   B31 Uhldingen-Mühlhofen, A
@@ -8157,8 +7235,9 @@ Gültig ab 1. Dezember 2019
     *   9.22535
 
 
-*    *   737
+*    *   599
 
+    *
     *   B31
 
     *   B31 Uhldingen-Mühlhofen, C
@@ -8168,8 +7247,9 @@ Gültig ab 1. Dezember 2019
     *   9.2448
 
 
-*    *   738
+*    *   600
 
+    *
     *   B31
 
     *   B31 Hagnau am Bodensee, Kreuzäckerweg
@@ -8179,206 +7259,9 @@ Gültig ab 1. Dezember 2019
     *   9.32485
 
 
-*    *   739
+*    *   601
 
-    *   B31
-
-    *   B31 Friedrichshafen, Möwenstraße
-
-    *   47.65891
-
-    *   9.44137
-
-
-*    *   740
-
-    *   B32
-
-    *   B32 Opfenbach, Kapellenweg
-
-    *   47.64233
-
-    *   9.83168
-
-
-*    *   741
-
-    *   B32
-
-    *   B32 Ravensburg, Gartenstraße
-
-    *   47.78388
-
-    *   9.61509
-
-
-*    *   742
-
-    *   B32
-
-    *   B32 Fronreute, A
-
-    *   47.85696
-
-    *   9.59098
-
-
-*    *   743
-
-    *   B32
-
-    *   B32 Fronreute, Häcklerweiher
-
-    *   47.87855
-
-    *   9.57513
-
-
-*    *   744
-
-    *   B32
-
-    *   B32 Eichstegen, B
-
-    *   47.95465
-
-    *   9.5185
-
-
-*    *   745
-
-    *   B32
-
-    *   B32 Boms, B
-
-    *   47.98294
-
-    *   9.51524
-
-
-*    *   746
-
-    *   B32
-
-    *   B32 Boms, A
-
-    *   47.98507
-
-    *   9.51598
-
-
-*    *   747
-
-    *   B32
-
-    *   B32 Bad Saulgau, Bussenstraße
-
-    *   48.02098
-
-    *   9.49049
-
-
-*    *   748
-
-    *   B32
-
-    *   B32 Bad Saulgau, Herbertinger Straße, A
-
-    *   48.03223
-
-    *   9.47296
-
-
-*    *   749
-
-    *   B32
-
-    *   B32 Sigmaringen, Mühlberg
-
-    *   48.08949
-
-    *   9.21791
-
-
-*    *   750
-
-    *   B32
-
-    *   B32 Veringenstadt, B
-
-    *   48.16708
-
-    *   9.20374
-
-
-*    *   751
-
-    *   B32
-
-    *   B32 Veringenstadt, Forellenweg, A
-
-    *   48.1849
-
-    *   9.21866
-
-
-*    *   752
-
-    *   B32
-
-    *   B32 Veringenstadt, Forellenweg, B
-
-    *   48.18456
-
-    *   9.22162
-
-
-*    *   753
-
-    *   B32
-
-    *   B32 Veringenstadt, A
-
-    *   48.1886
-
-    *   9.22102
-
-
-*    *   754
-
-    *   B32
-
-    *   B32 Hettingen
-
-    *   48.22649
-
-    *   9.22847
-
-
-*    *   755
-
-    *   B32
-
-    *   B32 Neufra
-
-    *   48.26151
-
-    *   9.17176
-
-
-*    *   756
-
-    *   B32
-
-    *   B32 Burladingen, Schlichtestraße
-
-    *   48.29694
-
-    *   9.07231
-
-
-*    *   757
-
+    *
     *   B32
 
     *   B32 Horb am Neckar, Rauschbart
@@ -8388,8 +7271,177 @@ Gültig ab 1. Dezember 2019
     *   8.70219
 
 
-*    *   758
+*    *   602
 
+    *
+    *   B32
+
+    *   B32 Fronreute, A
+
+    *   47.85696
+
+    *   9.59098
+
+
+*    *   603
+
+    *
+    *   B32
+
+    *   B32 Fronreute, Häcklerweiher
+
+    *   47.87855
+
+    *   9.57513
+
+
+*    *   604
+
+    *
+    *   B32
+
+    *   B32 Eichstegen, B
+
+    *   47.95465
+
+    *   9.5185
+
+
+*    *   605
+
+    *
+    *   B32
+
+    *   B32 Boms, B
+
+    *   47.98294
+
+    *   9.51524
+
+
+*    *   606
+
+    *
+    *   B32
+
+    *   B32 Boms, A
+
+    *   47.98507
+
+    *   9.51598
+
+
+*    *   607
+
+    *
+    *   B32
+
+    *   B32 Bad Saulgau, A
+
+    *   48.03223
+
+    *   9.47296
+
+
+*    *   608
+
+    *
+    *   B32
+
+    *   B32 Sigmaringen, Mühlberg
+
+    *   48.08949
+
+    *   9.21791
+
+
+*    *   609
+
+    *
+    *   B32
+
+    *   B32 Veringenstadt, B
+
+    *   48.16708
+
+    *   9.20374
+
+
+*    *   610
+
+    *
+    *   B32
+
+    *   B32 Veringenstadt, Forellenweg, A
+
+    *   48.1849
+
+    *   9.21866
+
+
+*    *   611
+
+    *
+    *   B32
+
+    *   B32 Veringenstadt, Forellenweg, B
+
+    *   48.18456
+
+    *   9.22162
+
+
+*    *   612
+
+    *
+    *   B32
+
+    *   B32 Veringenstadt, A
+
+    *   48.1886
+
+    *   9.22102
+
+
+*    *   613
+
+    *
+    *   B32
+
+    *   B32 Hettingen
+
+    *   48.22649
+
+    *   9.22847
+
+
+*    *   614
+
+    *
+    *   B32
+
+    *   B32 Neufra
+
+    *   48.26151
+
+    *   9.17176
+
+
+*    *   615
+
+    *
+    *   B32
+
+    *   B32 Burladingen, Schlichtestraße
+
+    *   48.29694
+
+    *   9.07231
+
+
+*    *   616
+
+    *
     *   B33
 
     *   B33 Biberach
@@ -8399,8 +7451,9 @@ Gültig ab 1. Dezember 2019
     *   8.01716
 
 
-*    *   759
+*    *   617
 
+    *
     *   B33
 
     *   B33 Biberach, Radweg Biberach-Fußbach
@@ -8410,19 +7463,21 @@ Gültig ab 1. Dezember 2019
     *   8.0179
 
 
-*    *   760
+*    *   618
 
+    *
     *   B33
 
-    *   B33 Haslach im Kinzigtal, C
+    *   B33 Haslach im Kinzigtal, A
 
     *   48.27931
 
     *   8.12167
 
 
-*    *   761
+*    *   619
 
+    *
     *   B33
 
     *   B33 Hornberg, In der Mühlenmatte
@@ -8432,8 +7487,9 @@ Gültig ab 1. Dezember 2019
     *   8.23047
 
 
-*    *   762
+*    *   620
 
+    *
     *   B33
 
     *   B33 Hornberg, Franz-Göttler-Weg
@@ -8443,8 +7499,9 @@ Gültig ab 1. Dezember 2019
     *   8.2333
 
 
-*    *   763
+*    *   621
 
+    *
     *   B33
 
     *   B33 Triberg im Schwarzwald, Franz-Göttler-Weg
@@ -8454,8 +7511,9 @@ Gültig ab 1. Dezember 2019
     *   8.2351
 
 
-*    *   764
+*    *   622
 
+    *
     *   B33
 
     *   B33 Triberg im Schwarzwald, Schönwälder Straße
@@ -8465,74 +7523,33 @@ Gültig ab 1. Dezember 2019
     *   8.239
 
 
-*    *   765
+*    *   623
 
+    *
     *   B33
 
     *   B33 Triberg im Schwarzwald, A
 
-    *   48.13243
+    *   48.131
 
-    *   8.28526
+    *   8.28749
 
 
-*    *   766
+*    *   624
 
+    *
     *   B33
 
     *   B33 Triberg im Schwarzwald, B
 
-    *   48.13169
+    *   48.13087
 
-    *   8.2861
-
-
-*    *   767
-
-    *   B33
-
-    *   B33 Triberg im Schwarzwald, C
-
-    *   48.13105
-
-    *   8.28737
+    *   8.28998
 
 
-*    *   768
+*    *   625
 
-    *   B33
-
-    *   B33 Triberg im Schwarzwald, D
-
-    *   48.13088
-
-    *   8.28995
-
-
-*    *   769
-
-    *   B33
-
-    *   B33 Triberg im Schwarzwald, E
-
-    *   48.1293
-
-    *   8.28931
-
-
-*    *   770
-
-    *   B33
-
-    *   B33 Triberg im Schwarzwald, F
-
-    *   48.12808
-
-    *   8.28984
-
-
-*    *   771
-
+    *
     *   B33
 
     *   B33 Sankt Georgen im Schwarzwald, Günterbergweg
@@ -8542,19 +7559,9 @@ Gültig ab 1. Dezember 2019
     *   8.3515
 
 
-*    *   772
+*    *   626
 
-    *   B33
-
-    *   B33 Sankt Georgen im Schwarzwald, Ursprung
-
-    *   48.13103
-
-    *   8.36043
-
-
-*    *   773
-
+    *
     *   B33
 
     *   B33 Villingen-Schwenningen, Villingen
@@ -8564,8 +7571,9 @@ Gültig ab 1. Dezember 2019
     *   8.46277
 
 
-*    *   774
+*    *   627
 
+    *
     *   B33
 
     *   B33 Villingen-Schwenningen
@@ -8575,52 +7583,45 @@ Gültig ab 1. Dezember 2019
     *   8.48872
 
 
-*    *   775
+*    *   628
 
+    *
     *   B34
 
-    *   B34 Rheinfelden (Baden), A
+    *   B34 Rheinfelden (Baden), B
 
-    *   47.54885
+    *   47.5479
 
-    *   7.75281
+    *   7.75036
 
 
-*    *   776
+*    *   629
 
+    *
     *   B34
 
-    *   B34 Singen (Hohentwiel), Am Schloßgarten
+    *   B34 Gottmadingen
 
-    *   47.76228
+    *   47.74136
 
-    *   8.83435
-
-
-*    *   777
-
-    *   B34
-
-    *   B34 Singen (Hohentwiel), L191, B
-
-    *   47.76098
-
-    *   8.83486
+    *   8.7275
 
 
-*    *   778
+*    *   630
 
+    *
     *   B35
 
     *   B35 Knittlingen
 
-    *   49.00345
+    *   49.00349
 
-    *   8.7674
+    *   8.76736
 
 
-*    *   779
+*    *   631
 
+    *
     *   B35
 
     *   B35 Bretten, Albrecht-Dürer-Straße
@@ -8630,8 +7631,9 @@ Gültig ab 1. Dezember 2019
     *   8.69963
 
 
-*    *   780
+*    *   632
 
+    *
     *   B35
 
     *   B35 Bruchsal
@@ -8641,19 +7643,21 @@ Gültig ab 1. Dezember 2019
     *   8.61087
 
 
-*    *   781
+*    *   633
 
+    *
     *   B36
 
-    *   B36/B44 Mannheim, Kurt-Schumacher-Brücke
+    *   B36/B44 Mannheim
 
     *   49.49115
 
     *   8.45775
 
 
-*    *   782
+*    *   634
 
+    *
     *   B36
 
     *   B36/B37 Mannheim, C
@@ -8663,63 +7667,21 @@ Gültig ab 1. Dezember 2019
     *   8.46437
 
 
-*    *   783
+*    *   635
 
-    *   B36
-
-    *   B36 Karlsruhe, Boschstraße
-
-    *   49.02823
-
-    *   8.35862
-
-
-*    *   784
-
-    *   B36
-
-    *   B36 Karlsruhe, Gablonzer Straße
-
-    *   49.02173
-
-    *   8.356
-
-
-*    *   785
-
+    *
     *   B37
 
-    *   B37 Kaiserslautern, Panzer Kaserne Ost
+    *   B37 Bad Dürkheim, Ruheforst
 
-    *   49.44349
+    *   49.44866
 
-    *   7.83705
-
-
-*    *   786
-
-    *   B37
-
-    *   B37 Bad Dürkheim, B
-
-    *   49.44878
-
-    *   8.0054
+    *   8.00494
 
 
-*    *   787
+*    *   636
 
-    *   B37
-
-    *   B37 Bad Dürkheim, A
-
-    *   49.45333
-
-    *   8.03628
-
-
-*    *   788
-
+    *
     *   B37
 
     *   B37 Bad Dürkheim, Jägertal
@@ -8729,8 +7691,9 @@ Gültig ab 1. Dezember 2019
     *   8.05308
 
 
-*    *   789
+*    *   637
 
+    *
     *   B37
 
     *   B37 Mannheim, Schubertstraße
@@ -8740,19 +7703,21 @@ Gültig ab 1. Dezember 2019
     *   8.49171
 
 
-*    *   790
+*    *   638
 
+    *
     *   B37
 
-    *   B37 Neckarsteinach, Schloßweg
+    *   B37 Neckarsteinach, Vier Burgen
 
     *   49.4086
 
     *   8.82773
 
 
-*    *   791
+*    *   639
 
+    *
     *   B37
 
     *   B37 Hirschhorn (Neckar)
@@ -8762,8 +7727,21 @@ Gültig ab 1. Dezember 2019
     *   8.93554
 
 
-*    *   792
+*    *   640
 
+    *
+    *   B37
+
+    *   B37 Eberbach
+
+    *   49.42387
+
+    *   9.00268
+
+
+*    *   641
+
+    *
     *   B37
 
     *   B37 Zwingenberg
@@ -8773,8 +7751,9 @@ Gültig ab 1. Dezember 2019
     *   9.02374
 
 
-*    *   793
+*    *   642
 
+    *
     *   B37
 
     *   B37 Neckargerach
@@ -8784,8 +7763,9 @@ Gültig ab 1. Dezember 2019
     *   9.04185
 
 
-*    *   794
+*    *   643
 
+    *
     *   B37
 
     *   B37 Neckargerach, Untere Wingert, B
@@ -8795,8 +7775,9 @@ Gültig ab 1. Dezember 2019
     *   9.06297
 
 
-*    *   795
+*    *   644
 
+    *
     *   B38
 
     *   B38 Dörrenbach, A
@@ -8806,30 +7787,9 @@ Gültig ab 1. Dezember 2019
     *   7.97499
 
 
-*    *   796
+*    *   645
 
-    *   B38
-
-    *   B38 Mannheim, Carl-Benz-Straße
-
-    *   49.4982
-
-    *   8.48868
-
-
-*    *   797
-
-    *   B38
-
-    *   B38 Mannheim, Friedrich-Ebert-Straße
-
-    *   49.50251
-
-    *   8.49641
-
-
-*    *   798
-
+    *
     *   B39
 
     *   B39 Neustadt an der Weinstraße, Nonnentalstraße
@@ -8839,19 +7799,21 @@ Gültig ab 1. Dezember 2019
     *   8.10655
 
 
-*    *   799
+*    *   646
 
+    *
     *   B39
 
     *   B39 Altlußheim, A
 
-    *   49.31937
+    *   49.3194
 
-    *   8.45919
+    *   8.45923
 
 
-*    *   800
+*    *   647
 
+    *
     *   B39
 
     *   B39 Angelbachtal
@@ -8861,8 +7823,9 @@ Gültig ab 1. Dezember 2019
     *   8.7537
 
 
-*    *   801
+*    *   648
 
+    *
     *   B39
 
     *   B39 Sinsheim, Steigeweg
@@ -8872,8 +7835,9 @@ Gültig ab 1. Dezember 2019
     *   8.92977
 
 
-*    *   802
+*    *   649
 
+    *
     *   B39
 
     *   B39 Kirchardt
@@ -8883,8 +7847,9 @@ Gültig ab 1. Dezember 2019
     *   8.97616
 
 
-*    *   803
+*    *   650
 
+    *
     *   B39
 
     *   B39 Löwenstein, B
@@ -8894,96 +7859,33 @@ Gültig ab 1. Dezember 2019
     *   9.39674
 
 
-*    *   804
+*    *   651
 
-    *   B40
-
-    *   B40 Mainz, Gärtnergasse
-
-    *   50.00197
-
-    *   8.26148
-
-
-*    *   805
-
-    *   B40
-
-    *   B40 Mainz, Raimundistraße
-
-    *   50.0079
-
-    *   8.26704
-
-
-*    *   806
-
-    *   B40
-
-    *   B40 Wiesbaden, Kloberstraße
-
-    *   50.00675
-
-    *   8.28409
-
-
-*    *   807
-
+    *
     *   B41
 
-    *   B41 Saarbrücken, Brauerstraße
-
-    *   49.24055
-
-    *   7.00066
-
-
-*    *   808
-
-    *   B41
-
-    *   B41 Neunkirchen, D
+    *   B41 Neunkirchen, Halde
 
     *   49.33568
 
     *   7.15787
 
 
-*    *   809
+*    *   652
 
+    *
     *   B41
 
-    *   B41 Neunkirchen, C
+    *   B41 Neunkirchen, Obere Saukaul
 
     *   49.34525
 
     *   7.14407
 
 
-*    *   810
+*    *   653
 
-    *   B41
-
-    *   B41 Namborn, Hinterste Röth (Die Reed)
-
-    *   49.52652
-
-    *   7.16709
-
-
-*    *   811
-
-    *   B41
-
-    *   B41 Ottweiler, B
-
-    *   49.39095
-
-    *   7.1517
-
-
-*    *   812
-
+    *
     *   B41
 
     *   B41 Ellweiler, B
@@ -8993,8 +7895,9 @@ Gültig ab 1. Dezember 2019
     *   7.15914
 
 
-*    *   813
+*    *   654
 
+    *
     *   B41
 
     *   B41 Birkenfeld, B
@@ -9004,19 +7907,21 @@ Gültig ab 1. Dezember 2019
     *   7.16151
 
 
-*    *   814
+*    *   655
 
+    *
     *   B41
 
     *   B41 Rötsweiler-Nockenthal
 
     *   49.70396
 
-    *   7.26082
+    *   7.26088
 
 
-*    *   815
+*    *   656
 
+    *
     *   B41
 
     *   B41 Bärenbach
@@ -9026,52 +7931,33 @@ Gültig ab 1. Dezember 2019
     *   7.4366
 
 
-*    *   816
+*    *   657
 
+    *
     *   B41
 
-    *   B41 Kirn, Lohweg
+    *   B41 Kirn, A
 
     *   49.78326
 
     *   7.46276
 
 
-*    *   817
+*    *   658
 
+    *
     *   B41
 
-    *   B41 Kirn, Meckenbacher Weg
+    *   B41 Kirn, B
 
     *   49.78421
 
     *   7.46543
 
 
-*    *   818
+*    *   659
 
-    *   B41
-
-    *   B41 Hochstetten-Dhaun, B
-
-    *   49.79472
-
-    *   7.49412
-
-
-*    *   819
-
-    *   B41
-
-    *   B41 Hochstetten-Dhaun, A
-
-    *   49.79504
-
-    *   7.49679
-
-
-*    *   820
-
+    *
     *   B41
 
     *   B41 Monzingen
@@ -9081,41 +7967,21 @@ Gültig ab 1. Dezember 2019
     *   7.60298
 
 
-*    *   821
+*    *   660
 
+    *
     *   B42
 
-    *   B42 Leubsdorf, Arien Dorfer Weg
+    *   B42 Koblenz, Ehrenbreitstein
 
-    *   50.54628
+    *   50.36241
 
-    *   7.28635
-
-
-*    *   822
-
-    *   B42
-
-    *   B42 Hammerstein, Burgweg
-
-    *   50.47331
-
-    *   7.35229
+    *   7.611
 
 
-*    *   823
+*    *   661
 
-    *   B42
-
-    *   B42 Lahnstein, Braubacher Straße
-
-    *   50.28579
-
-    *   7.62709
-
-
-*    *   824
-
+    *
     *   B42
 
     *   B42 Kamp-Bornhofen, Boppard-Filsen
@@ -9125,8 +7991,21 @@ Gültig ab 1. Dezember 2019
     *   7.59263
 
 
-*    *   825
+*    *   662
 
+    *
+    *   B42
+
+    *   B42 Kamp-Bornhofen
+
+    *   50.23124
+
+    *   7.61202
+
+
+*    *   663
+
+    *
     *   B42
 
     *   B42 Sankt Goarshausen, A
@@ -9136,19 +8015,9 @@ Gültig ab 1. Dezember 2019
     *   7.73293
 
 
-*    *   826
+*    *   664
 
-    *   B42
-
-    *   B42 Kaub, Karolinengasse
-
-    *   50.08544
-
-    *   7.7653
-
-
-*    *   827
-
+    *
     *   B42
 
     *   B42 Kaub
@@ -9158,8 +8027,9 @@ Gültig ab 1. Dezember 2019
     *   7.77749
 
 
-*    *   828
+*    *   665
 
+    *
     *   B42
 
     *   B42 Lorch, Binger Weg, A
@@ -9169,8 +8039,9 @@ Gültig ab 1. Dezember 2019
     *   7.81531
 
 
-*    *   829
+*    *   666
 
+    *
     *   B42
 
     *   B42 Lorch, Binger Weg, B
@@ -9180,8 +8051,9 @@ Gültig ab 1. Dezember 2019
     *   7.81857
 
 
-*    *   830
+*    *   667
 
+    *
     *   B42
 
     *   B42 Lorch
@@ -9191,30 +8063,9 @@ Gültig ab 1. Dezember 2019
     *   7.83203
 
 
-*    *   831
+*    *   668
 
-    *   B43
-
-    *   B43 Wiesbaden, Maaraustraße
-
-    *   50.00016
-
-    *   8.30562
-
-
-*    *   832
-
-    *   A661
-
-    *   Offenbach-Kaiserlei
-
-    *   50.1064
-
-    *   8.7381
-
-
-*    *   833
-
+    *
     *   B43
 
     *   B43 Offenbach a. Main, PP Südosthessen
@@ -9224,85 +8075,9 @@ Gültig ab 1. Dezember 2019
     *   8.7747
 
 
-*    *   834
+*    *   669
 
-    *   B43
-
-    *   B43 Offenbach am Main, A
-
-    *   50.11164
-
-    *   8.80128
-
-
-*    *   835
-
-    *   B43
-
-    *   B43 Offenbach am Main, B
-
-    *   50.11218
-
-    *   8.80278
-
-
-*    *   836
-
-    *   B43
-
-    *   B43 Offenbach am Main, C
-
-    *   50.11289
-
-    *   8.80467
-
-
-*    *   837
-
-    *   B43
-
-    *   B43 Offenbach am Main, Ulmenstraße
-
-    *   50.11399
-
-    *   8.80721
-
-
-*    *   838
-
-    *   B43
-
-    *   B43 Offenbach am Main, Bischofsheimer Weg
-
-    *   50.11544
-
-    *   8.80973
-
-
-*    *   839
-
-    *   B43
-
-    *   B43 Mühlheim am Main, Senefelderallee
-
-    *   50.11674
-
-    *   8.81211
-
-
-*    *   840
-
-    *   B43
-
-    *   B43 Mühlheim am Main, Südring
-
-    *   50.12231
-
-    *   8.86931
-
-
-*    *   841
-
+    *
     *   B43
 
     *   B43 Hanau, Ludwigstraße
@@ -9312,41 +8087,9 @@ Gültig ab 1. Dezember 2019
     *   8.9089
 
 
-*    *   842
+*    *   670
 
-    *   B44
-
-    *   B44 Mannheim, Dalbergstraße
-
-    *   49.49333
-
-    *   8.46079
-
-
-*    *   843
-
-    *   B44
-
-    *   B44 Mannheim, Zeppelinstraße
-
-    *   49.50559
-
-    *   8.46317
-
-
-*    *   844
-
-    *   B44
-
-    *   B44 Mannheim, Luzenbergstraße, A
-
-    *   49.52403
-
-    *   8.48144
-
-
-*    *   845
-
+    *
     *   B44
 
     *   B44 Mannheim, Schienenstraße
@@ -9356,41 +8099,9 @@ Gültig ab 1. Dezember 2019
     *   8.48191
 
 
-*    *   846
+*    *   671
 
-    *   B44
-
-    *   B44 Biblis, Außerhalb Biblis, A
-
-    *   49.67979
-
-    *   8.45315
-
-
-*    *   847
-
-    *   B45
-
-    *   B45 Niddatal, Enggasse
-
-    *   50.25514
-
-    *   8.83727
-
-
-*    *   848
-
-    *   B45
-
-    *   B45 Hanau, Alter Rückinger Weg
-
-    *   50.14551
-
-    *   8.90938
-
-
-*    *   849
-
+    *
     *   B45
 
     *   B45 Groß-Umstadt, Wiebelsbach
@@ -9400,30 +8111,45 @@ Gültig ab 1. Dezember 2019
     *   8.95498
 
 
-*    *   850
+*    *   672
 
+    *
     *   B45
 
     *   B45 Groß-Umstadt, Silberwald
 
-    *   49.82268
+    *   49.82291
 
-    *   8.96564
+    *   8.96547
 
 
-*    *   851
+*    *   673
 
+    *
     *   B45
 
-    *   B45 Höchst im Odenwald, E
+    *   B45 Höchst im Odenwald, B
 
     *   49.81305
 
     *   8.97051
 
 
-*    *   852
+*    *   674
 
+    *
+    *   B45
+
+    *   B45 Höchst im Odenwald, E
+
+    *   49.76851
+
+    *   8.99304
+
+
+*    *   675
+
+    *
     *   B45
 
     *   B45 Bad König
@@ -9433,8 +8159,9 @@ Gültig ab 1. Dezember 2019
     *   8.99691
 
 
-*    *   853
+*    *   676
 
+    *
     *   B45
 
     *   B45 Michelstadt, Unterer Hammer
@@ -9444,8 +8171,9 @@ Gültig ab 1. Dezember 2019
     *   9.00539
 
 
-*    *   854
+*    *   677
 
+    *
     *   B45
 
     *   B45 Erbach, Schönnemer Straße
@@ -9455,8 +8183,9 @@ Gültig ab 1. Dezember 2019
     *   8.99426
 
 
-*    *   855
+*    *   678
 
+    *
     *   B45
 
     *   B45 Beerfelden, A
@@ -9466,8 +8195,9 @@ Gültig ab 1. Dezember 2019
     *   8.98505
 
 
-*    *   856
+*    *   679
 
+    *
     *   B45
 
     *   B45 Beerfelden, Buchhelle
@@ -9477,8 +8207,9 @@ Gültig ab 1. Dezember 2019
     *   8.98457
 
 
-*    *   857
+*    *   680
 
+    *
     *   B45
 
     *   B45 Beerfelden, C
@@ -9488,8 +8219,9 @@ Gültig ab 1. Dezember 2019
     *   8.97453
 
 
-*    *   858
+*    *   681
 
+    *
     *   B45
 
     *   B45 Beerfelden, D
@@ -9499,8 +8231,9 @@ Gültig ab 1. Dezember 2019
     *   8.96505
 
 
-*    *   859
+*    *   682
 
+    *
     *   B45
 
     *   B45 Eberbach
@@ -9510,8 +8243,9 @@ Gültig ab 1. Dezember 2019
     *   8.96027
 
 
-*    *   860
+*    *   683
 
+    *
     *   B45
 
     *   B45 Eberbach, Gammelsbach
@@ -9521,8 +8255,9 @@ Gültig ab 1. Dezember 2019
     *   8.96546
 
 
-*    *   861
+*    *   684
 
+    *
     *   B45
 
     *   B45 Bammental
@@ -9532,8 +8267,9 @@ Gültig ab 1. Dezember 2019
     *   8.79675
 
 
-*    *   862
+*    *   685
 
+    *
     *   B45
 
     *   B45 Sinsheim, B
@@ -9543,8 +8279,9 @@ Gültig ab 1. Dezember 2019
     *   8.84854
 
 
-*    *   863
+*    *   686
 
+    *
     *   B47
 
     *   B47 Lindenfels, Schöne Aussicht
@@ -9554,19 +8291,21 @@ Gültig ab 1. Dezember 2019
     *   8.75842
 
 
-*    *   864
+*    *   687
 
+    *
     *   B47
 
-    *   B47 Reichelsheim (Odenwald), Kriemhildstraße, C
+    *   B47 Reichelsheim (Odenwald)
 
     *   49.69956
 
     *   8.821
 
 
-*    *   865
+*    *   688
 
+    *
     *   B47
 
     *   B47 Amorbach, B
@@ -9576,19 +8315,21 @@ Gültig ab 1. Dezember 2019
     *   9.21694
 
 
-*    *   866
+*    *   689
 
+    *
     *   B47
 
-    *   B47 Walldürn
+    *   B47 Walldürn, A
 
     *   49.62416
 
     *   9.29086
 
 
-*    *   867
+*    *   690
 
+    *
     *   B48
 
     *   B48 Waldhambach, B
@@ -9598,8 +8339,9 @@ Gültig ab 1. Dezember 2019
     *   8.00615
 
 
-*    *   868
+*    *   691
 
+    *
     *   B48
 
     *   B48 Waldrohrbach
@@ -9609,8 +8351,9 @@ Gültig ab 1. Dezember 2019
     *   7.95332
 
 
-*    *   869
+*    *   692
 
+    *
     *   B48
 
     *   B48 Annweiler am Trifels, B
@@ -9620,19 +8363,9 @@ Gültig ab 1. Dezember 2019
     *   7.89788
 
 
-*    *   870
+*    *   693
 
-    *   B48
-
-    *   B48 Leimen
-
-    *   49.31456
-
-    *   7.83884
-
-
-*    *   871
-
+    *
     *   B48
 
     *   B48 Fischbach, A
@@ -9642,8 +8375,9 @@ Gültig ab 1. Dezember 2019
     *   7.91671
 
 
-*    *   872
+*    *   694
 
+    *
     *   B48
 
     *   B48 Enkenbach-Alsenborn, C
@@ -9653,8 +8387,9 @@ Gültig ab 1. Dezember 2019
     *   7.90522
 
 
-*    *   873
+*    *   695
 
+    *
     *   B48
 
     *   B48 Imsweiler, A
@@ -9664,8 +8399,9 @@ Gültig ab 1. Dezember 2019
     *   7.80995
 
 
-*    *   874
+*    *   696
 
+    *
     *   B48
 
     *   B48 Rockenhausen, Im Degenbachtal
@@ -9675,8 +8411,9 @@ Gültig ab 1. Dezember 2019
     *   7.82097
 
 
-*    *   875
+*    *   697
 
+    *
     *   B48
 
     *   B48 Alsenz, C
@@ -9686,8 +8423,9 @@ Gültig ab 1. Dezember 2019
     *   7.80987
 
 
-*    *   876
+*    *   698
 
+    *
     *   B48
 
     *   B48 Alsenz, Oberer Pfaffenpfad
@@ -9697,8 +8435,9 @@ Gültig ab 1. Dezember 2019
     *   7.80769
 
 
-*    *   877
+*    *   699
 
+    *
     *   B48
 
     *   B48 Alsenz, A
@@ -9708,41 +8447,33 @@ Gültig ab 1. Dezember 2019
     *   7.82078
 
 
-*    *   878
+*    *   700
 
-    *   B48
-
-    *   B48 Bad Kreuznach, Hochstraße
-
-    *   49.84788
-
-    *   7.85844
-
-
-*    *   879
-
+    *
     *   B49
 
-    *   B49 Trier, Nikolaus-Leis-Straße
+    *   B49 Trier, Nikolaus-Leis-Straße, B
 
-    *   49.76849
+    *   49.76861
 
-    *   6.64396
+    *   6.6448
 
 
-*    *   880
+*    *   701
 
+    *
     *   B49
 
-    *   B49 Trier, Zurmaiener Straße, A
+    *   B49 Wittlich, B
 
-    *   49.77162
+    *   49.98797
 
-    *   6.65634
+    *   6.90355
 
 
-*    *   881
+*    *   702
 
+    *
     *   B49
 
     *   B49 Reil, A
@@ -9752,8 +8483,9 @@ Gültig ab 1. Dezember 2019
     *   7.1035
 
 
-*    *   882
+*    *   703
 
+    *
     *   B49
 
     *   B49 Briedern
@@ -9763,8 +8495,9 @@ Gültig ab 1. Dezember 2019
     *   7.21015
 
 
-*    *   883
+*    *   704
 
+    *
     *   B49
 
     *   B49 Treis-Karden, Moselwehr
@@ -9774,8 +8507,9 @@ Gültig ab 1. Dezember 2019
     *   7.33229
 
 
-*    *   884
+*    *   705
 
+    *
     *   B49
 
     *   B49 Brodenbach, Alte Poststraße, B
@@ -9785,8 +8519,9 @@ Gültig ab 1. Dezember 2019
     *   7.42064
 
 
-*    *   885
+*    *   706
 
+    *
     *   B49
 
     *   B49 Brodenbach, Alte Poststraße, A
@@ -9796,52 +8531,21 @@ Gültig ab 1. Dezember 2019
     *   7.42502
 
 
-*    *   886
+*    *   707
 
+    *
     *   B49
 
     *   B49 Niederfell
 
-    *   50.27983
+    *   50.28022
 
-    *   7.45982
-
-
-*    *   887
-
-    *   B49
-
-    *   B49 Koblenz, Schlachthofstraße
-
-    *   50.36096
-
-    *   7.56818
+    *   7.4596
 
 
-*    *   888
+*    *   708
 
-    *   B49
-
-    *   B49 Koblenz, Blücherstraße
-
-    *   50.36283
-
-    *   7.57379
-
-
-*    *   889
-
-    *   B49
-
-    *   B49 Koblenz, Karl-Tesche-Straße
-
-    *   50.36342
-
-    *   7.57668
-
-
-*    *   890
-
+    *
     *   B49
 
     *   B49 Leun, Martinskirchweg
@@ -9851,8 +8555,9 @@ Gültig ab 1. Dezember 2019
     *   8.36129
 
 
-*    *   891
+*    *   709
 
+    *
     *   B49
 
     *   B49 Grünberg
@@ -9862,19 +8567,9 @@ Gültig ab 1. Dezember 2019
     *   8.95122
 
 
-*    *   892
+*    *   710
 
-    *   B49
-
-    *   B49 Alsfeld, Alte Liederbacher Straße
-
-    *   50.74159
-
-    *   9.25372
-
-
-*    *   893
-
+    *
     *   B50
 
     *   B50 Roth an der Our
@@ -9884,41 +8579,57 @@ Gültig ab 1. Dezember 2019
     *   6.23483
 
 
-*    *   894
+*    *   711
 
+    *
     *   B50
 
-    *   B50 Niedergeckler, Dorfstraße
+    *   B50 Mülbach
 
-    *   49.96986
+    *   49.96607
 
-    *   6.30487
+    *   6.3988
 
 
-*    *   895
+*    *   712
 
+    *
     *   B50
 
-    *   B50 Bitburg, K15
+    *   B50 Bitburg, C
 
     *   49.97509
 
     *   6.49249
 
 
-*    *   896
+*    *   713
 
+    *
     *   B50
 
-    *   B50 Bitburg, Mötscher Straße, E
+    *   B50 Morbach
 
-    *   49.96482
+    *   49.85685
 
-    *   6.53472
+    *   7.16987
 
 
-*    *   897
+*    *   714
 
+    *
+    *   B50
+
+    *   B50 Hochscheid, An der Hunsrückhöhenstraße
+
+    *   49.88259
+
+    *   7.2173
+
+
+*    *   715
+
+    *
     *   B50
 
     *   B50 Platten
@@ -9928,19 +8639,21 @@ Gültig ab 1. Dezember 2019
     *   6.96854
 
 
-*    *   898
+*    *   716
 
+    *
     *   B51
 
-    *   B51 Drebber, Felstehausen
+    *   B51 Lemförde
 
-    *   52.63678
+    *   52.46276
 
-    *   8.41112
+    *   8.35638
 
 
-*    *   899
+*    *   717
 
+    *
     *   B51
 
     *   B51 Georgsmarienhütte
@@ -9950,8 +8663,9 @@ Gültig ab 1. Dezember 2019
     *   8.06386
 
 
-*    *   900
+*    *   718
 
+    *
     *   B51
 
     *   B51 Glandorf
@@ -9961,8 +8675,9 @@ Gültig ab 1. Dezember 2019
     *   7.95029
 
 
-*    *   901
+*    *   719
 
+    *
     *   B51
 
     *   B51 Ostbevern, Loburg, E
@@ -9972,30 +8687,21 @@ Gültig ab 1. Dezember 2019
     *   7.8537
 
 
-*    *   902
+*    *   720
 
+    *
     *   B51
 
-    *   B51/B55A Köln, Zoobrücke
+    *   B51/B55A Köln
 
     *   50.95582
 
     *   6.97339
 
 
-*    *   903
+*    *   721
 
-    *   B51
-
-    *   B51 Köln, Worringer Straße
-
-    *   50.95295
-
-    *   6.96927
-
-
-*    *   904
-
+    *
     *   B51
 
     *   B51 Köln, A
@@ -10005,8 +8711,9 @@ Gültig ab 1. Dezember 2019
     *   6.94424
 
 
-*    *   905
+*    *   722
 
+    *
     *   B51
 
     *   B51 Weinsheim
@@ -10016,8 +8723,9 @@ Gültig ab 1. Dezember 2019
     *   6.45398
 
 
-*    *   906
+*    *   723
 
+    *
     *   B51
 
     *   B51 Prüm, Dausfeld
@@ -10027,8 +8735,9 @@ Gültig ab 1. Dezember 2019
     *   6.44843
 
 
-*    *   907
+*    *   724
 
+    *
     *   B51
 
     *   B51 Fließem
@@ -10038,8 +8747,9 @@ Gültig ab 1. Dezember 2019
     *   6.53582
 
 
-*    *   908
+*    *   725
 
+    *
     *   B51
 
     *   B51 Bitburg
@@ -10049,8 +8759,9 @@ Gültig ab 1. Dezember 2019
     *   6.51729
 
 
-*    *   909
+*    *   726
 
+    *
     *   B51
 
     *   B51 Meckel, Meilbrück
@@ -10060,30 +8771,33 @@ Gültig ab 1. Dezember 2019
     *   6.5423
 
 
-*    *   910
+*    *   727
 
+    *
     *   B51
 
     *   B51 Newel, Echternacher Hof
 
-    *   49.81813
+    *   49.8181
 
-    *   6.57242
+    *   6.57244
 
 
-*    *   911
+*    *   728
 
+    *
     *   B51
 
     *   B51 Trier
 
-    *   49.77047
+    *   49.77044
 
-    *   6.61491
+    *   6.61499
 
 
-*    *   912
+*    *   729
 
+    *
     *   B51
 
     *   B51 Trier, Kestenberg
@@ -10093,8 +8807,9 @@ Gültig ab 1. Dezember 2019
     *   6.62111
 
 
-*    *   913
+*    *   730
 
+    *
     *   B51
 
     *   B51 Ockfen
@@ -10104,19 +8819,9 @@ Gültig ab 1. Dezember 2019
     *   6.56978
 
 
-*    *   914
+*    *   731
 
-    *   B51
-
-    *   B51 Saarburg, Am Saarufer
-
-    *   49.59894
-
-    *   6.55755
-
-
-*    *   915
-
+    *
     *   B51
 
     *   B51 Serrig
@@ -10126,8 +8831,9 @@ Gültig ab 1. Dezember 2019
     *   6.57146
 
 
-*    *   916
+*    *   732
 
+    *
     *   B51
 
     *   B51 Völklingen
@@ -10137,41 +8843,9 @@ Gültig ab 1. Dezember 2019
     *   6.89644
 
 
-*    *   917
+*    *   733
 
-    *   B51
-
-    *   B51 Völklingen, Altenkesseler Straße
-
-    *   49.24758
-
-    *   6.90787
-
-
-*    *   918
-
-    *   B51
-
-    *   B51 Saarbrücken, Matzenberg
-
-    *   49.24566
-
-    *   6.92002
-
-
-*    *   919
-
-    *   B53
-
-    *   B53 Pölich, Hauptstraße, B
-
-    *   49.79418
-
-    *   6.84903
-
-
-*    *   920
-
+    *
     *   B53
 
     *   B53 Piesport, B
@@ -10181,8 +8855,9 @@ Gültig ab 1. Dezember 2019
     *   6.90027
 
 
-*    *   921
+*    *   734
 
+    *
     *   B53
 
     *   B53 Piesport, A
@@ -10192,8 +8867,9 @@ Gültig ab 1. Dezember 2019
     *   6.90344
 
 
-*    *   922
+*    *   735
 
+    *
     *   B53
 
     *   B53 Piesport, C
@@ -10203,8 +8879,9 @@ Gültig ab 1. Dezember 2019
     *   6.94614
 
 
-*    *   923
+*    *   736
 
+    *
     *   B53
 
     *   B53 Enkirch, Bahnhofstraße, B
@@ -10214,8 +8891,9 @@ Gültig ab 1. Dezember 2019
     *   7.12072
 
 
-*    *   924
+*    *   737
 
+    *
     *   B53
 
     *   B53 Zell (Mosel), C
@@ -10225,8 +8903,9 @@ Gültig ab 1. Dezember 2019
     *   7.17378
 
 
-*    *   925
+*    *   738
 
+    *
     *   B54
 
     *   B54 Gronau (Westfalen)
@@ -10236,8 +8915,9 @@ Gültig ab 1. Dezember 2019
     *   6.99631
 
 
-*    *   926
+*    *   739
 
+    *
     *   B54
 
     *   B54 Ochtrup, B
@@ -10247,8 +8927,9 @@ Gültig ab 1. Dezember 2019
     *   7.18588
 
 
-*    *   927
+*    *   740
 
+    *
     *   B54
 
     *   B54 Ochtrup, A
@@ -10258,8 +8939,9 @@ Gültig ab 1. Dezember 2019
     *   7.19242
 
 
-*    *   928
+*    *   741
 
+    *
     *   B54
 
     *   B54 Altenberge
@@ -10269,19 +8951,21 @@ Gültig ab 1. Dezember 2019
     *   7.44098
 
 
-*    *   929
+*    *   742
 
+    *
     *   B54
 
-    *   B54 Hagen, C
+    *   B54 Hagen, A
 
     *   51.29631
 
     *   7.53362
 
 
-*    *   930
+*    *   743
 
+    *
     *   B54
 
     *   B54 Kierspe, B
@@ -10291,8 +8975,9 @@ Gültig ab 1. Dezember 2019
     *   7.61633
 
 
-*    *   931
+*    *   744
 
+    *
     *   B54
 
     *   B54 Zehnhausen bei Rennerod
@@ -10302,41 +8987,21 @@ Gültig ab 1. Dezember 2019
     *   8.06168
 
 
-*    *   932
+*    *   745
 
+    *
     *   B54
 
-    *   B54 Rennerod, Gewerbestraße
+    *   B54 Oberneisen, A
 
-    *   50.60206
+    *   50.32542
 
-    *   8.06395
-
-
-*    *   933
-
-    *   B54
-
-    *   B54 Elbtal, Bachstraße
-
-    *   50.50266
-
-    *   8.06476
+    *   8.06558
 
 
-*    *   934
+*    *   746
 
-    *   B54
-
-    *   B54 Hahnstätten, Rheinstraße
-
-    *   50.29713
-
-    *   8.06129
-
-
-*    *   935
-
+    *
     *   B54
 
     *   B54 Aarbergen, B
@@ -10346,8 +9011,9 @@ Gültig ab 1. Dezember 2019
     *   8.05979
 
 
-*    *   936
+*    *   747
 
+    *
     *   B54
 
     *   B54 Aarbergen, Mühlberg
@@ -10357,8 +9023,9 @@ Gültig ab 1. Dezember 2019
     *   8.04533
 
 
-*    *   937
+*    *   748
 
+    *
     *   B54
 
     *   B54 Hohenstein, B
@@ -10368,8 +9035,9 @@ Gültig ab 1. Dezember 2019
     *   8.0669
 
 
-*    *   938
+*    *   749
 
+    *
     *   B54
 
     *   B54 Taunusstein, Hammermühle
@@ -10379,8 +9047,9 @@ Gültig ab 1. Dezember 2019
     *   8.10728
 
 
-*    *   939
+*    *   750
 
+    *
     *   B54
 
     *   B54 Taunusstein, Hähncheskopf
@@ -10390,107 +9059,33 @@ Gültig ab 1. Dezember 2019
     *   8.12239
 
 
-*    *   940
+*    *   751
 
-    *   B54
-
-    *   B54 Taunusstein, Hohlweg
-
-    *   50.14001
-
-    *   8.14161
-
-
-*    *   941
-
+    *
     *   B55
 
-    *   B55 Köln, Pantaleonswall
+    *   B55 Lennestadt, Westfälische Straße
 
-    *   50.92962
+    *   51.08943
 
-    *   6.94431
+    *   7.99491
 
 
-*    *   942
+*    *   752
 
+    *
     *   B55
 
-    *   B55 Köln, Gotenring, Severinsbrücke
+    *   B55 Lennestadt, D
 
-    *   50.9318
+    *   51.10853
 
-    *   6.97446
-
-
-*    *   943
-
-    *   B55
-
-    *   B55 Köln, Brück, Hovenstraße
-
-    *   50.94557
-
-    *   7.07907
+    *   8.03537
 
 
-*    *   944
+*    *   753
 
-    *   B55
-
-    *   B55 Köln, Vogelsanger Weg
-
-    *   50.93803
-
-    *   6.85245
-
-
-*    *   945
-
-    *   B55
-
-    *   B55 Köln, Eupener Straße
-
-    *   50.93745
-
-    *   6.89027
-
-
-*    *   946
-
-    *   B55
-
-    *   B55 Köln, Peter-von-Fliesteden-Straße
-
-    *   50.93729
-
-    *   6.89504
-
-
-*    *   947
-
-    *   B55
-
-    *   B55 Drolshagen, A
-
-    *   51.04106
-
-    *   7.74554
-
-
-*    *   948
-
-    *   B55
-
-    *   B55 Drolshagen, B
-
-    *   51.04006
-
-    *   7.74664
-
-
-*    *   949
-
+    *
     *   B55
 
     *   B55 Lennestadt, B
@@ -10500,19 +9095,9 @@ Gültig ab 1. Dezember 2019
     *   8.01903
 
 
-*    *   950
+*    *   754
 
-    *   B55
-
-    *   B55 Lennestadt, Elspe, Bielefelder Straße, A
-
-    *   51.15462
-
-    *   8.05458
-
-
-*    *   951
-
+    *
     *   B55
 
     *   B55 Lennestadt, A
@@ -10522,41 +9107,45 @@ Gültig ab 1. Dezember 2019
     *   8.11935
 
 
-*    *   952
+*    *   755
 
+    *
     *   B55
 
-    *   B55 Meschede, D
+    *   B55 Meschede, C
 
     *   51.30546
 
     *   8.25894
 
 
-*    *   953
+*    *   756
 
+    *
     *   B55
 
-    *   B55 Meschede, C
+    *   B55 Meschede, B
 
     *   51.31588
 
     *   8.26819
 
 
-*    *   954
+*    *   757
 
+    *
     *   B55
 
-    *   B55 Meschede, B
+    *   B55 Meschede, A
 
     *   51.32295
 
     *   8.25745
 
 
-*    *   955
+*    *   758
 
+    *
     *   B55
 
     *   B55 Meschede, Gewässer-Lehrpfad
@@ -10566,19 +9155,21 @@ Gültig ab 1. Dezember 2019
     *   8.26615
 
 
-*    *   956
+*    *   759
 
-    *   B55A
+    *
+    *   B55
 
-    *   B55A Köln, Innere Kanalstraße
+    *   B55 Meschede, Stimmstamm
 
-    *   50.95877
+    *   51.38991
 
-    *   6.96749
+    *   8.30302
 
 
-*    *   957
+*    *   760
 
+    *
     *   B56
 
     *   B56 Geilenkirchen
@@ -10588,8 +9179,9 @@ Gültig ab 1. Dezember 2019
     *   6.10395
 
 
-*    *   958
+*    *   761
 
+    *
     *   B56
 
     *   B56 Geilenkirchen, Am Pulverbusch
@@ -10599,19 +9191,9 @@ Gültig ab 1. Dezember 2019
     *   6.11731
 
 
-*    *   959
+*    *   762
 
-    *   B56
-
-    *   B56 Zülpich, Bonner Straße, A
-
-    *   50.68744
-
-    *   6.65403
-
-
-*    *   960
-
+    *
     *   B56
 
     *   B56 Alfter, Waldville
@@ -10621,8 +9203,9 @@ Gültig ab 1. Dezember 2019
     *   7.00305
 
 
-*    *   961
+*    *   763
 
+    *
     *   B57
 
     *   B57 Xanten, Rheinberger Straße, B
@@ -10632,30 +9215,45 @@ Gültig ab 1. Dezember 2019
     *   6.46901
 
 
-*    *   962
+*    *   764
 
+    *
     *   B57
 
-    *   B57 Erkelenz, A
+    *   B57 Erkelenz
 
     *   51.1023
 
-    *   6.32448
+    *   6.32447
 
 
-*    *   963
+*    *   765
 
+    *
     *   B57
 
-    *   B57 Aachen, A
+    *   B57 Aachen, D
+
+    *   50.79662
+
+    *   6.10321
+
+
+*    *   766
+
+    *
+    *   B57
+
+    *   B57 Aachen, B
 
     *   50.73457
 
     *   6.09084
 
 
-*    *   964
+*    *   767
 
+    *
     *   B57
 
     *   B57 Aachen, Trappenweg
@@ -10665,8 +9263,9 @@ Gültig ab 1. Dezember 2019
     *   6.08959
 
 
-*    *   965
+*    *   768
 
+    *
     *   B58
 
     *   B58 Geldern, Weseler Straße, A
@@ -10676,8 +9275,9 @@ Gültig ab 1. Dezember 2019
     *   6.3974
 
 
-*    *   966
+*    *   769
 
+    *
     *   B58
 
     *   B58 Wesel, Büdericher Insel, B
@@ -10687,8 +9287,9 @@ Gültig ab 1. Dezember 2019
     *   6.60877
 
 
-*    *   967
+*    *   770
 
+    *
     *   B58
 
     *   B58 Wesel, Büdericher Insel, A
@@ -10698,85 +9299,81 @@ Gültig ab 1. Dezember 2019
     *   6.61067
 
 
-*    *   968
+*    *   771
 
+    *
     *   B58
 
-    *   B58 Beckum, Neubeckumer Straße, D
+    *   B58 Beckum, Neubeckumer Straße, E
 
     *   51.76219
 
     *   8.04309
 
 
-*    *   969
+*    *   772
 
-    *   B58
-
-    *   B58 Beckum, Poststraße
-
-    *   51.75898
-
-    *   8.04181
-
-
-*    *   970
-
-    *   B59
-
-    *   B59 Köln, Kolkrabenweg
-
-    *   50.96645
-
-    *   6.88124
-
-
-*    *   971
-
+    *
     *   B59
 
     *   B59 Köln, Venloer Straße, A
 
-    *   50.96253
+    *   50.96245
 
-    *   6.89001
+    *   6.89029
 
 
-*    *   972
+*    *   773
 
+    *
     *   B61
 
-    *   B61 Bad Oeynhausen, ZOB Nord
+    *   B61 Gütersloh, Berliner Straße, D
 
-    *   52.20594
+    *   51.92222
 
-    *   8.79852
+    *   8.40021
 
 
-*    *   973
+*    *   774
 
+    *
     *   B61
 
-    *   B61 Kirchdorf, D
+    *   B61 Bielefeld, Herforder Straße, E
+
+    *   52.0376
+
+    *   8.5622
+
+
+*    *   775
+
+    *
+    *   B61
+
+    *   B61 Kirchdorf, E
 
     *   52.57849
 
     *   8.84091
 
 
-*    *   974
+*    *   776
 
+    *
     *   B61
 
-    *   B61 Kirchdorf
+    *   B61 Kirchdorf, B
 
     *   52.59688
 
     *   8.82481
 
 
-*    *   975
+*    *   777
 
+    *
     *   B61
 
     *   B61 Scholen
@@ -10786,19 +9383,9 @@ Gültig ab 1. Dezember 2019
     *   8.76595
 
 
-*    *   976
+*    *   778
 
-    *   B62
-
-    *   B62 Roth, Mittelstraße
-
-    *   50.76812
-
-    *   7.71473
-
-
-*    *   977
-
+    *
     *   B62
 
     *   B62 Netphen, Bittenbach
@@ -10808,8 +9395,9 @@ Gültig ab 1. Dezember 2019
     *   8.07839
 
 
-*    *   978
+*    *   779
 
+    *
     *   B62
 
     *   B62 Hilchenbach, Eisenstraße
@@ -10819,19 +9407,21 @@ Gültig ab 1. Dezember 2019
     *   8.16371
 
 
-*    *   979
+*    *   780
 
+    *
     *   B62
 
-    *   B62 Biedenkopf
+    *   B62 Biedenkopf, C
 
     *   50.89638
 
     *   8.54524
 
 
-*    *   980
+*    *   781
 
+    *
     *   B62
 
     *   B62 Lahntal, C
@@ -10841,8 +9431,9 @@ Gültig ab 1. Dezember 2019
     *   8.68008
 
 
-*    *   981
+*    *   782
 
+    *
     *   B62
 
     *   B62 Lahntal, A
@@ -10852,8 +9443,9 @@ Gültig ab 1. Dezember 2019
     *   8.78789
 
 
-*    *   982
+*    *   783
 
+    *
     *   B62
 
     *   B62 Niederaula, B
@@ -10863,8 +9455,9 @@ Gültig ab 1. Dezember 2019
     *   9.62743
 
 
-*    *   983
+*    *   784
 
+    *
     *   B62
 
     *   B62 Niederaula, A
@@ -10874,8 +9467,9 @@ Gültig ab 1. Dezember 2019
     *   9.63631
 
 
-*    *   984
+*    *   785
 
+    *
     *   B62
 
     *   B62 Friedewald, Roteberg
@@ -10885,19 +9479,21 @@ Gültig ab 1. Dezember 2019
     *   9.82239
 
 
-*    *   985
+*    *   786
 
+    *
     *   B62
 
-    *   B62 Philippsthal (Werra), Industriestraße, A
+    *   B62 Philippsthal (Werra)
 
-    *   50.84375
+    *   50.83971
 
-    *   9.96957
+    *   9.9924
 
 
-*    *   986
+*    *   787
 
+    *
     *   B62
 
     *   B62 Vacha, A
@@ -10907,8 +9503,9 @@ Gültig ab 1. Dezember 2019
     *   10.03137
 
 
-*    *   987
+*    *   788
 
+    *
     *   B62
 
     *   B62 Vacha, B
@@ -10918,8 +9515,9 @@ Gültig ab 1. Dezember 2019
     *   10.03408
 
 
-*    *   988
+*    *   789
 
+    *
     *   B62
 
     *   B62 Krayenberggemeinde, A
@@ -10929,8 +9527,9 @@ Gültig ab 1. Dezember 2019
     *   10.07726
 
 
-*    *   989
+*    *   790
 
+    *
     *   B62
 
     *   B62 Krayenberggemeinde, B
@@ -10940,173 +9539,21 @@ Gültig ab 1. Dezember 2019
     *   10.07992
 
 
-*    *   990
+*    *   791
 
-    *   B62
-
-    *   B62 Leimbach, Eschenweg
-
-    *   50.82225
-
-    *   10.17846
-
-
-*    *   991
-
-    *   B62
-
-    *   B62 Leimbach, A
-
-    *   50.81745
-
-    *   10.18866
-
-
-*    *   992
-
+    *
     *   B62
 
     *   B62 Barchfeld-Immelborn, C
-
-    *   50.79799
-
-    *   10.27164
-
-
-*    *   993
-
-    *   B62
-
-    *   B62 Barchfeld Barchfeld-Immelborn, B
 
     *   50.79875
 
     *   10.29648
 
 
-*    *   994
+*    *   792
 
-    *   B62
-
-    *   B62 Zella-Mehlis, Kläranlage, A
-
-    *   50.65622
-
-    *   10.62644
-
-
-*    *   995
-
-    *   B62
-
-    *   B62 Zella-Mehlis, Kläranlage, B
-
-    *   50.65674
-
-    *   10.63068
-
-
-*    *   996
-
-    *   B62
-
-    *   B62 Zella-Mehlis, A
-
-    *   50.65736
-
-    *   10.63383
-
-
-*    *   997
-
-    *   B62
-
-    *   B62 Zella-Mehlis, B
-
-    *   50.65935
-
-    *   10.63684
-
-
-*    *   998
-
-    *   B62
-
-    *   B62 Zella-Mehlis, C
-
-    *   50.65999
-
-    *   10.63978
-
-
-*    *   999
-
-    *   B62
-
-    *   B62 Zella-Mehlis, Meisenbach
-
-    *   50.66079
-
-    *   10.64158
-
-
-*    *   1000
-
-    *   B62
-
-    *   B62 Zella-Mehlis, D
-
-    *   50.66126
-
-    *   10.64499
-
-
-*    *   1001
-
-    *   B62
-
-    *   B62 Zella-Mehlis, E
-
-    *   50.65465
-
-    *   10.6609
-
-
-*    *   1002
-
-    *   B62
-
-    *   B62 Zella-Mehlis, F
-
-    *   50.65382
-
-    *   10.66187
-
-
-*    *   1003
-
-    *   B62
-
-    *   B62 Zella-Mehlis, Am Schießstand
-
-    *   50.64246
-
-    *   10.67828
-
-
-*    *   1004
-
-    *   B63
-
-    *   B63 Hamm, Geinegge, A
-
-    *   51.71919
-
-    *   7.79315
-
-
-*    *   1005
-
+    *
     *   B63
 
     *   B63 Werl, Werler Straße
@@ -11116,8 +9563,9 @@ Gültig ab 1. Dezember 2019
     *   7.86881
 
 
-*    *   1006
+*    *   793
 
+    *
     *   B64
 
     *   B64 Altenbeken, Dune
@@ -11127,30 +9575,9 @@ Gültig ab 1. Dezember 2019
     *   8.91948
 
 
-*    *   1007
+*    *   794
 
-    *   B64
-
-    *   B64 Altenbeken, C
-
-    *   51.73862
-
-    *   8.93873
-
-
-*    *   1008
-
-    *   B64
-
-    *   B64 Höxter, L890
-
-    *   51.71148
-
-    *   9.29128
-
-
-*    *   1009
-
+    *
     *   B64
 
     *   B64 Höxter, Godelheimer Straße, A
@@ -11160,8 +9587,9 @@ Gültig ab 1. Dezember 2019
     *   9.37732
 
 
-*    *   1010
+*    *   795
 
+    *
     *   B64
 
     *   B64 Eschershausen, Lenne-Freizeitweg
@@ -11171,30 +9599,33 @@ Gültig ab 1. Dezember 2019
     *   9.66941
 
 
-*    *   1011
+*    *   796
 
+    *
     *   B64
 
     *   B64 Einbeck, B
 
-    *   51.86878
+    *   51.86879
 
-    *   9.8233
+    *   9.82344
 
 
-*    *   1012
+*    *   797
 
+    *
     *   B64
 
     *   B64 Einbeck, A
 
-    *   51.86922
+    *   51.86923
 
-    *   9.82973
+    *   9.82971
 
 
-*    *   1013
+*    *   798
 
+    *
     *   B64
 
     *   B64 Einbeck, D
@@ -11204,8 +9635,9 @@ Gültig ab 1. Dezember 2019
     *   9.89207
 
 
-*    *   1014
+*    *   799
 
+    *
     *   B64
 
     *   B64 Einbeck, E
@@ -11215,8 +9647,9 @@ Gültig ab 1. Dezember 2019
     *   9.92373
 
 
-*    *   1015
+*    *   800
 
+    *
     *   B64
 
     *   B64 Bad Gandersheim, A
@@ -11226,8 +9659,9 @@ Gültig ab 1. Dezember 2019
     *   10.00931
 
 
-*    *   1016
+*    *   801
 
+    *
     *   B64
 
     *   B64 Bad Gandersheim, B
@@ -11237,8 +9671,9 @@ Gültig ab 1. Dezember 2019
     *   10.0124
 
 
-*    *   1017
+*    *   802
 
+    *
     *   B64
 
     *   B64 Bad Gandersheim, Dannhäuser Wausterberg
@@ -11248,8 +9683,9 @@ Gültig ab 1. Dezember 2019
     *   10.11234
 
 
-*    *   1018
+*    *   803
 
+    *
     *   B64
 
     *   B64 Seesen, B
@@ -11259,8 +9695,9 @@ Gültig ab 1. Dezember 2019
     *   10.1198
 
 
-*    *   1019
+*    *   804
 
+    *
     *   B65
 
     *   B65 Bad Essen, Wittlage
@@ -11270,8 +9707,21 @@ Gültig ab 1. Dezember 2019
     *   8.3711
 
 
-*    *   1020
+*    *   805
 
+    *
+    *   B65
+
+    *   B65 Bad Essen, A
+
+    *   52.31372
+
+    *   8.43683
+
+
+*    *   806
+
+    *
     *   B65
 
     *   B65 Hille, A
@@ -11281,8 +9731,9 @@ Gültig ab 1. Dezember 2019
     *   8.74894
 
 
-*    *   1021
+*    *   807
 
+    *
     *   B65
 
     *   B65 Bad Nenndorf, A
@@ -11292,8 +9743,9 @@ Gültig ab 1. Dezember 2019
     *   9.33334
 
 
-*    *   1022
+*    *   808
 
+    *
     *   B65
 
     *   B65 Barsinghausen, B
@@ -11303,8 +9755,9 @@ Gültig ab 1. Dezember 2019
     *   9.44822
 
 
-*    *   1023
+*    *   809
 
+    *
     *   B65
 
     *   B65 Bückeburger Allee Gewerbegebiet
@@ -11314,30 +9767,21 @@ Gültig ab 1. Dezember 2019
     *   9.71317
 
 
-*    *   1024
+*    *   810
 
+    *
     *   B65
 
-    *   B65 Sehnde, Am Park
+    *   B65 Sehnde, Haydnstraße
 
-    *   52.33951
+    *   52.31608
 
-    *   9.93105
-
-
-*    *   1025
-
-    *   B65
-
-    *   B65 Sehnde, Albert-Schweitzer-Straße
-
-    *   52.3218
-
-    *   9.95424
+    *   9.97619
 
 
-*    *   1026
+*    *   811
 
+    *
     *   B65
 
     *   B65 Peine, A
@@ -11347,63 +9791,33 @@ Gültig ab 1. Dezember 2019
     *   10.20285
 
 
-*    *   1027
+*    *   812
 
-    *   B66
-
-    *   B66 Bielefeld, Niederwall
-
-    *   52.01577
-
-    *   8.5319
-
-
-*    *   1028
-
+    *
     *   B68
 
     *   B68 Cloppenburg
 
     *   52.80518
 
-    *   7.98326
+    *   7.98327
 
 
-*    *   1029
+*    *   813
 
+    *
     *   B68
 
-    *   B68 Lastrup, A
-
-    *   52.76555
-
-    *   7.96441
-
-
-*    *   1030
-
-    *   B68
-
-    *   B68 Badbergen, An der B 68, C
-
-    *   52.62322
-
-    *   7.97524
-
-
-*    *   1031
-
-    *   B68
-
-    *   B68 Bersenbrück, An der B 68
+    *   B68 Bersenbrück
 
     *   52.59045
 
     *   7.95407
 
 
-*    *   1032
+*    *   814
 
+    *
     *   B68
 
     *   B68 Alfhausen
@@ -11413,8 +9827,21 @@ Gültig ab 1. Dezember 2019
     *   7.95753
 
 
-*    *   1033
+*    *   815
 
+    *
+    *   B68
+
+    *   B68 Osnabrück, Hansastraße
+
+    *   52.29483
+
+    *   8.0353
+
+
+*    *   816
+
+    *
     *   B69
 
     *   B69 Vechta
@@ -11424,19 +9851,9 @@ Gültig ab 1. Dezember 2019
     *   8.31025
 
 
-*    *   1034
+*    *   817
 
-    *   B69
-
-    *   B69 Diepholz, Aschener Straße, B
-
-    *   52.65424
-
-    *   8.33597
-
-
-*    *   1035
-
+    *
     *   B70
 
     *   B70 Papenburg
@@ -11446,8 +9863,9 @@ Gültig ab 1. Dezember 2019
     *   7.36786
 
 
-*    *   1036
+*    *   818
 
+    *
     *   B70
 
     *   B70 Kluse
@@ -11457,8 +9875,9 @@ Gültig ab 1. Dezember 2019
     *   7.35002
 
 
-*    *   1037
+*    *   819
 
+    *
     *   B70
 
     *   B70 Renkenberge
@@ -11468,8 +9887,9 @@ Gültig ab 1. Dezember 2019
     *   7.34434
 
 
-*    *   1038
+*    *   820
 
+    *
     *   B70
 
     *   B70 Haren (Ems), A
@@ -11479,8 +9899,9 @@ Gültig ab 1. Dezember 2019
     *   7.31899
 
 
-*    *   1039
+*    *   821
 
+    *
     *   B70
 
     *   B70 Meppen, A
@@ -11490,8 +9911,9 @@ Gültig ab 1. Dezember 2019
     *   7.2903
 
 
-*    *   1040
+*    *   822
 
+    *
     *   B70
 
     *   B70 Meppen, B
@@ -11501,8 +9923,9 @@ Gültig ab 1. Dezember 2019
     *   7.29532
 
 
-*    *   1041
+*    *   823
 
+    *
     *   B70
 
     *   B70 Meppen, Industriestraße
@@ -11512,8 +9935,9 @@ Gültig ab 1. Dezember 2019
     *   7.30302
 
 
-*    *   1042
+*    *   824
 
+    *
     *   B70
 
     *   B70 Lingen (Ems)
@@ -11523,8 +9947,9 @@ Gültig ab 1. Dezember 2019
     *   7.30872
 
 
-*    *   1043
+*    *   825
 
+    *
     *   B70
 
     *   B70 Lingen (Ems), Laxtener Sand
@@ -11534,8 +9959,9 @@ Gültig ab 1. Dezember 2019
     *   7.33942
 
 
-*    *   1044
+*    *   826
 
+    *
     *   B70
 
     *   B70 Spelle, Lingener Straße
@@ -11545,8 +9971,9 @@ Gültig ab 1. Dezember 2019
     *   7.42658
 
 
-*    *   1045
+*    *   827
 
+    *
     *   B70
 
     *   B70 Raesfeld, Parkplatz
@@ -11556,19 +9983,9 @@ Gültig ab 1. Dezember 2019
     *   6.84556
 
 
-*    *   1046
+*    *   828
 
-    *   B71
-
-    *   B71 Beverstedt, Kirchwistedt, Hinrich-Busch-Str.
-
-    *   53.42342
-
-    *   8.89093
-
-
-*    *   1047
-
+    *
     *   B71
 
     *   B71 Bremervörde, B
@@ -11578,19 +9995,9 @@ Gültig ab 1. Dezember 2019
     *   9.16514
 
 
-*    *   1048
+*    *   829
 
-    *   B71
-
-    *   B71 Rotenburg (Wümme), Mühlenweg
-
-    *   53.16281
-
-    *   9.32031
-
-
-*    *   1049
-
+    *
     *   B71
 
     *   B71 Bötersen, B
@@ -11600,8 +10007,9 @@ Gültig ab 1. Dezember 2019
     *   9.32353
 
 
-*    *   1050
+*    *   830
 
+    *
     *   B71
 
     *   B71 Rotenburg (Wümme), C
@@ -11611,8 +10019,9 @@ Gültig ab 1. Dezember 2019
     *   9.34653
 
 
-*    *   1051
+*    *   831
 
+    *
     *   B71
 
     *   B71 Hemsbünde
@@ -11622,8 +10031,9 @@ Gültig ab 1. Dezember 2019
     *   9.4535
 
 
-*    *   1052
+*    *   832
 
+    *
     *   B71
 
     *   B71 Brockel, Rotenburger Weg
@@ -11633,8 +10043,21 @@ Gültig ab 1. Dezember 2019
     *   9.49549
 
 
-*    *   1053
+*    *   833
 
+    *
+    *   B71
+
+    *   B71 Neuenkirchen, B
+
+    *   53.0385
+
+    *   9.70539
+
+
+*    *   834
+
+    *
     *   B71
 
     *   B71 Soltau, B
@@ -11644,8 +10067,9 @@ Gültig ab 1. Dezember 2019
     *   9.95042
 
 
-*    *   1054
+*    *   835
 
+    *
     *   B71
 
     *   B71 Soltau, A
@@ -11655,41 +10079,45 @@ Gültig ab 1. Dezember 2019
     *   9.95578
 
 
-*    *   1055
+*    *   836
 
+    *
     *   B71
 
     *   B71 Suhlendorf, E
 
-    *   52.93111
+    *   52.93109
 
-    *   10.80295
+    *   10.80297
 
 
-*    *   1056
+*    *   837
 
+    *
     *   B71
 
-    *   B71 Salzwedel, D
+    *   B71 Salzwedel, A
 
     *   52.88384
 
     *   10.98776
 
 
-*    *   1057
+*    *   838
 
+    *
     *   B71
 
-    *   B71 Salzwedel, A
+    *   B71 Salzwedel, B
 
     *   52.88401
 
     *   10.99867
 
 
-*    *   1058
+*    *   839
 
+    *
     *   B71
 
     *   B71 Salzwedel, C
@@ -11699,19 +10127,21 @@ Gültig ab 1. Dezember 2019
     *   11.00802
 
 
-*    *   1059
+*    *   840
 
+    *
     *   B71
 
-    *   B71 Kalbe (Milde), C
+    *   B71 Kalbe (Milde), D
 
     *   52.63591
 
     *   11.3056
 
 
-*    *   1060
+*    *   841
 
+    *
     *   B71
 
     *   B71 Gardelegen, Jävenitzer Straße
@@ -11721,8 +10151,9 @@ Gültig ab 1. Dezember 2019
     *   11.49032
 
 
-*    *   1061
+*    *   842
 
+    *
     *   B71
 
     *   B71 Letzlingen, Jävenitzer Straße
@@ -11732,19 +10163,21 @@ Gültig ab 1. Dezember 2019
     *   11.48964
 
 
-*    *   1062
+*    *   843
 
+    *
     *   B71
 
     *   B71 Westheide, A
 
-    *   52.37532
+    *   52.37539
 
-    *   11.4628
+    *   11.46287
 
 
-*    *   1063
+*    *   844
 
+    *
     *   B71
 
     *   B71 Westheide, B
@@ -11754,8 +10187,9 @@ Gültig ab 1. Dezember 2019
     *   11.46039
 
 
-*    *   1064
+*    *   845
 
+    *
     *   B72
 
     *   B72 Osteel, Schwarzer Weg
@@ -11765,8 +10199,9 @@ Gültig ab 1. Dezember 2019
     *   7.25368
 
 
-*    *   1065
+*    *   846
 
+    *
     *   B72
 
     *   B72 Großefehn, Auricher Landstraße, A
@@ -11776,8 +10211,9 @@ Gültig ab 1. Dezember 2019
     *   7.54809
 
 
-*    *   1066
+*    *   847
 
+    *
     *   B72
 
     *   B72 Großefehn, Auricher Landstraße, B
@@ -11787,8 +10223,9 @@ Gültig ab 1. Dezember 2019
     *   7.60605
 
 
-*    *   1067
+*    *   848
 
+    *
     *   B72
 
     *   B72 Großefehn, Auricher Landstraße, C
@@ -11798,8 +10235,9 @@ Gültig ab 1. Dezember 2019
     *   7.60657
 
 
-*    *   1068
+*    *   849
 
+    *
     *   B72
 
     *   B72 Hesel, Brinkweg
@@ -11809,8 +10247,9 @@ Gültig ab 1. Dezember 2019
     *   7.59682
 
 
-*    *   1069
+*    *   850
 
+    *
     *   B72
 
     *   B72 Saterland, Zum Möhlenkamp
@@ -11820,8 +10259,9 @@ Gültig ab 1. Dezember 2019
     *   7.65017
 
 
-*    *   1070
+*    *   851
 
+    *
     *   B72
 
     *   B72 Saterland, A
@@ -11831,8 +10271,9 @@ Gültig ab 1. Dezember 2019
     *   7.66593
 
 
-*    *   1071
+*    *   852
 
+    *
     *   B72
 
     *   B72 Saterland, Erlenstraße
@@ -11842,8 +10283,9 @@ Gültig ab 1. Dezember 2019
     *   7.66798
 
 
-*    *   1072
+*    *   853
 
+    *
     *   B72
 
     *   B72 Saterland, B
@@ -11853,19 +10295,21 @@ Gültig ab 1. Dezember 2019
     *   7.68788
 
 
-*    *   1073
+*    *   854
 
+    *
     *   B72
 
-    *   B72 Garrel, Friesoyther Straße, A
+    *   B72 Garrel, Friesoyther Straße
 
     *   52.90095
 
     *   7.98484
 
 
-*    *   1074
+*    *   855
 
+    *
     *   B72
 
     *   B72 Emstek
@@ -11875,19 +10319,9 @@ Gültig ab 1. Dezember 2019
     *   8.10749
 
 
-*    *   1075
+*    *   856
 
-    *   A27
-
-    *   Cuxhaven
-
-    *   53.8412
-
-    *   8.7341
-
-
-*    *   1076
-
+    *
     *   B73
 
     *   B73 Neuhaus (Oste)
@@ -11897,30 +10331,33 @@ Gültig ab 1. Dezember 2019
     *   9.01456
 
 
-*    *   1077
+*    *   857
 
+    *
     *   B73
 
     *   B73 Wingst, Geestberg
 
-    *   53.75819
+    *   53.7582
 
-    *   9.08402
+    *   9.08404
 
 
-*    *   1078
+*    *   858
 
+    *
     *   B73
 
-    *   B73 Burweg, Hauptstraße, A
+    *   B73 Hechthausen
 
-    *   53.61313
+    *   53.64643
 
-    *   9.28428
+    *   9.22153
 
 
-*    *   1079
+*    *   859
 
+    *
     *   B73
 
     *   B73 Himmelpforten, B
@@ -11930,8 +10367,9 @@ Gültig ab 1. Dezember 2019
     *   9.32225
 
 
-*    *   1080
+*    *   860
 
+    *
     *   B73
 
     *   B73 Stade
@@ -11941,8 +10379,9 @@ Gültig ab 1. Dezember 2019
     *   9.38841
 
 
-*    *   1081
+*    *   861
 
+    *
     *   B73
 
     *   B73 Agathenburg, Hauptstraße
@@ -11952,8 +10391,9 @@ Gültig ab 1. Dezember 2019
     *   9.52261
 
 
-*    *   1082
+*    *   862
 
+    *
     *   B73
 
     *   B73 Dollern, Hauptstraße
@@ -11963,8 +10403,9 @@ Gültig ab 1. Dezember 2019
     *   9.55569
 
 
-*    *   1083
+*    *   863
 
+    *
     *   B73
 
     *   B73 Nottensdorf
@@ -11974,19 +10415,69 @@ Gültig ab 1. Dezember 2019
     *   9.60557
 
 
-*    *   1084
+*    *   864
 
+    *
     *   B73
 
-    *   B73 Hamburg, Cuxhavener Straße
+    *   B73 Hamburg, Cuxhavener Straße, A
+
+    *   53.47181
+
+    *   9.89261
+
+
+*    *   865
+
+    *
+    *   B73
+
+    *   B73 Hamburg, Cuxhavener Straße, B
+
+    *   53.47162
+
+    *   9.89693
+
+
+*    *   866
+
+    *
+    *   B73
+
+    *   B73 Hamburg, Cuxhavener Straße, C
 
     *   53.47091
 
     *   9.90514
 
 
-*    *   1085
+*    *   867
 
+    *
+    *   B73
+
+    *   B73 Hamburg Moorburg
+
+    *   53.47065
+
+    *   9.92354
+
+
+*    *   868
+
+    *
+    *   B74
+
+    *   B74 Vollersode, B
+
+    *   53.31879
+
+    *   8.87659
+
+
+*    *   869
+
+    *
     *   B74
 
     *   B74 Gnarrenburg, A
@@ -11996,8 +10487,9 @@ Gültig ab 1. Dezember 2019
     *   8.99365
 
 
-*    *   1086
+*    *   870
 
+    *
     *   B75
 
     *   B75 Scheeßel, B
@@ -12007,8 +10499,9 @@ Gültig ab 1. Dezember 2019
     *   9.45133
 
 
-*    *   1087
+*    *   871
 
+    *
     *   B75
 
     *   B75 Tostedt
@@ -12018,30 +10511,21 @@ Gültig ab 1. Dezember 2019
     *   9.74897
 
 
-*    *   1088
+*    *   872
 
-    *   B75
+    *
+    *   B76
 
-    *   B75 Hamburg, Gottschalkring
+    *   B76 Eckernförde
 
-    *   53.44993
+    *   54.46279
 
-    *   9.96679
-
-
-*    *   1089
-
-    *   A253
-
-    *   Hamburg-Wilstorf (Übergang A 253/B 75)
-
-    *   53.45134
-
-    *   9.9809
+    *   9.83962
 
 
-*    *   1090
+*    *   873
 
+    *
     *   B76
 
     *   B76 Altenhof, Brunnenbek
@@ -12051,8 +10535,9 @@ Gültig ab 1. Dezember 2019
     *   9.87596
 
 
-*    *   1091
+*    *   874
 
+    *
     *   B76
 
     *   B76 Schwentinental, Preetzer Chaussee
@@ -12062,8 +10547,9 @@ Gültig ab 1. Dezember 2019
     *   10.26427
 
 
-*    *   1092
+*    *   875
 
+    *
     *   B76
 
     *   B76 Bösdorf, A
@@ -12073,8 +10559,9 @@ Gültig ab 1. Dezember 2019
     *   10.49823
 
 
-*    *   1093
+*    *   876
 
+    *
     *   B76
 
     *   B76 Bösdorf, B
@@ -12084,8 +10571,9 @@ Gültig ab 1. Dezember 2019
     *   10.51431
 
 
-*    *   1094
+*    *   877
 
+    *
     *   B76
 
     *   B76 Scharbeutz, Strandzugang 2
@@ -12095,19 +10583,9 @@ Gültig ab 1. Dezember 2019
     *   10.76833
 
 
-*    *   1095
+*    *   878
 
-    *   B76
-
-    *   B76 Scharbeutz, Strandallee, C
-
-    *   54.00936
-
-    *   10.76831
-
-
-*    *   1096
-
+    *
     *   B77
 
     *   B77 Schlotfeld, No de Halloh
@@ -12117,8 +10595,9 @@ Gültig ab 1. Dezember 2019
     *   9.56559
 
 
-*    *   1097
+*    *   879
 
+    *
     *   B77
 
     *   B77 Itzehoe
@@ -12128,8 +10607,9 @@ Gültig ab 1. Dezember 2019
     *   9.53839
 
 
-*    *   1098
+*    *   880
 
+    *
     *   B77
 
     *   B77 Itzehoe, Sandberg
@@ -12139,8 +10619,21 @@ Gültig ab 1. Dezember 2019
     *   9.53275
 
 
-*    *   1099
+*    *   881
 
+    *
+    *   B79
+
+    *   B79 Wolfenbüttel, Leipziger Straße
+
+    *   52.16032
+
+    *   10.56423
+
+
+*    *   882
+
+    *
     *   B79
 
     *   B79 Osterwieck, B
@@ -12150,41 +10643,9 @@ Gültig ab 1. Dezember 2019
     *   10.86815
 
 
-*    *   1100
+*    *   883
 
-    *   B79
-
-    *   B79 Halberstadt, Rabahne
-
-    *   51.8948
-
-    *   11.03515
-
-
-*    *   1101
-
-    *   B79
-
-    *   B79 Halberstadt, Heinrich-Julius-Straße, B
-
-    *   51.89165
-
-    *   11.04876
-
-
-*    *   1102
-
-    *   B80
-
-    *   B80 Bad Karlshafen, Mündener Straße
-
-    *   51.64468
-
-    *   9.45524
-
-
-*    *   1103
-
+    *
     *   B80
 
     *   B80 Gutsbezirk Reinhardswald, A
@@ -12194,8 +10655,9 @@ Gültig ab 1. Dezember 2019
     *   9.47752
 
 
-*    *   1104
+*    *   884
 
+    *
     *   B80
 
     *   B80 Gutsbezirk Reinhardswald, Buntsandsteinbruch
@@ -12205,8 +10667,9 @@ Gültig ab 1. Dezember 2019
     *   9.49529
 
 
-*    *   1105
+*    *   885
 
+    *
     *   B80
 
     *   B80 Gutsbezirk Reinhardswald, B
@@ -12216,30 +10679,21 @@ Gültig ab 1. Dezember 2019
     *   9.54478
 
 
-*    *   1106
+*    *   886
 
+    *
     *   B80
 
-    *   B80 Oberweser, Erlenweg
+    *   B80 Gutsbezirk Reinhardswald, C
 
-    *   51.59916
+    *   51.6119
 
-    *   9.54192
-
-
-*    *   1107
-
-    *   B80
-
-    *   B80 Oberweser, Weißehütte
-
-    *   51.56512
-
-    *   9.59307
+    *   9.53781
 
 
-*    *   1108
+*    *   887
 
+    *
     *   B80
 
     *   B80 Gutsbezirk Reinhardswald, D
@@ -12249,8 +10703,9 @@ Gültig ab 1. Dezember 2019
     *   9.62902
 
 
-*    *   1109
+*    *   888
 
+    *
     *   B80
 
     *   B80 Hann. Münden, B
@@ -12260,8 +10715,9 @@ Gültig ab 1. Dezember 2019
     *   9.69429
 
 
-*    *   1110
+*    *   889
 
+    *
     *   B80
 
     *   B80 Hann. Münden, C
@@ -12271,19 +10727,21 @@ Gültig ab 1. Dezember 2019
     *   9.72711
 
 
-*    *   1111
+*    *   890
 
+    *
     *   B80
 
-    *   B80 Hann. Münden, D
+    *   B80 Hann. Münden, Am Rischenbach
 
     *   51.39321
 
     *   9.74272
 
 
-*    *   1112
+*    *   891
 
+    *
     *   B80
 
     *   B80 Halle (Saale), Holzplatz
@@ -12293,8 +10751,9 @@ Gültig ab 1. Dezember 2019
     *   11.95745
 
 
-*    *   1113
+*    *   892
 
+    *
     *   B81
 
     *   B81 Oberharz am Brocken, Radeweg
@@ -12304,19 +10763,9 @@ Gültig ab 1. Dezember 2019
     *   10.8323
 
 
-*    *   1114
+*    *   893
 
-    *   B81
-
-    *   B81 Blankenburg (Harz), Klosterstraße
-
-    *   51.79359
-
-    *   10.9519
-
-
-*    *   1115
-
+    *
     *   B81
 
     *   B81 Gröningen
@@ -12326,8 +10775,9 @@ Gültig ab 1. Dezember 2019
     *   11.18074
 
 
-*    *   1116
+*    *   894
 
+    *
     *   B82
 
     *   B82 Schladen-Werla, Am Vorderbruch
@@ -12337,8 +10787,9 @@ Gültig ab 1. Dezember 2019
     *   10.61121
 
 
-*    *   1117
+*    *   895
 
+    *
     *   B82
 
     *   B82 Vahlberg, A
@@ -12348,8 +10799,9 @@ Gültig ab 1. Dezember 2019
     *   10.75166
 
 
-*    *   1118
+*    *   896
 
+    *
     *   B83
 
     *   B83 Rinteln, B
@@ -12359,8 +10811,9 @@ Gültig ab 1. Dezember 2019
     *   9.1309
 
 
-*    *   1119
+*    *   897
 
+    *
     *   B83
 
     *   B83 Bodenwerder, B
@@ -12370,8 +10823,9 @@ Gültig ab 1. Dezember 2019
     *   9.50129
 
 
-*    *   1120
+*    *   898
 
+    *
     *   B83
 
     *   B83 Heinsen, E
@@ -12381,30 +10835,9 @@ Gültig ab 1. Dezember 2019
     *   9.46044
 
 
-*    *   1121
+*    *   899
 
-    *   B83
-
-    *   B83 Beverungen, Zum Osterfeld
-
-    *   51.67509
-
-    *   9.37563
-
-
-*    *   1122
-
-    *   B83
-
-    *   B83 Hofgeismar, Roggenbreite
-
-    *   51.51323
-
-    *   9.41785
-
-
-*    *   1123
-
+    *
     *   B83
 
     *   B83 Grebenstein, Ellixen
@@ -12414,8 +10847,9 @@ Gültig ab 1. Dezember 2019
     *   9.40879
 
 
-*    *   1124
+*    *   900
 
+    *
     *   B83
 
     *   B83 Körle, Parkplatz Mülmisch
@@ -12425,30 +10859,69 @@ Gültig ab 1. Dezember 2019
     *   9.53198
 
 
-*    *   1125
+*    *   901
 
+    *
     *   B83
 
-    *   B83 Melsungen, A
+    *   B83 Melsungen, D
 
     *   51.15168
 
     *   9.55794
 
 
-*    *   1126
+*    *   902
 
+    *
+    *   B83
+
+    *   B83 Melsungen, C
+
+    *   51.12312
+
+    *   9.54138
+
+
+*    *   903
+
+    *
     *   B83
 
     *   B83 Melsungen, B
+
+    *   51.12214
+
+    *   9.54024
+
+
+*    *   904
+
+    *
+    *   B83
+
+    *   B83 Melsungen, A
+
+    *   51.12143
+
+    *   9.53911
+
+
+*    *   905
+
+    *
+    *   B83
+
+    *   B83 Melsungen, E
 
     *   51.10393
 
     *   9.54709
 
 
-*    *   1127
+*    *   906
 
+    *
     *   B83
 
     *   B83 Morschen
@@ -12458,8 +10931,9 @@ Gültig ab 1. Dezember 2019
     *   9.63287
 
 
-*    *   1128
+*    *   907
 
+    *
     *   B83
 
     *   B83 Rotenburg an der Fulda
@@ -12469,8 +10943,9 @@ Gültig ab 1. Dezember 2019
     *   9.77561
 
 
-*    *   1129
+*    *   908
 
+    *
     *   B84
 
     *   B84 Rasdorf, C
@@ -12480,19 +10955,9 @@ Gültig ab 1. Dezember 2019
     *   9.8775
 
 
-*    *   1130
+*    *   909
 
-    *   B84
-
-    *   B84 Rasdorf, Heileweg
-
-    *   50.71745
-
-    *   9.88899
-
-
-*    *   1131
-
+    *
     *   B84
 
     *   B84 Buttlar
@@ -12502,74 +10967,9 @@ Gültig ab 1. Dezember 2019
     *   9.95833
 
 
-*    *   1132
+*    *   910
 
-    *   B84
-
-    *   B84 Unterbreizbach, Am Rosenrain
-
-    *   50.7928
-
-    *   9.99824
-
-
-*    *   1133
-
-    *   B84
-
-    *   B84 Hörselberg-Hainich
-
-    *   51.02271
-
-    *   10.51856
-
-
-*    *   1134
-
-    *   B84
-
-    *   B84 Bad Langensalza, B
-
-    *   51.10288
-
-    *   10.66912
-
-
-*    *   1135
-
-    *   B84
-
-    *   B84 Bad Langensalza, A
-
-    *   51.10405
-
-    *   10.66436
-
-
-*    *   1136
-
-    *   B84
-
-    *   B84 Bad Langensalza, Erfurter Straße
-
-    *   51.1067
-
-    *   10.65231
-
-
-*    *   1137
-
-    *   B84
-
-    *   B84 Bad Langensalza, Felsenkellerstraße
-
-    *   51.10858
-
-    *   10.65288
-
-
-*    *   1138
-
+    *
     *   B84
 
     *   B84 Ebeleben, C
@@ -12579,8 +10979,9 @@ Gültig ab 1. Dezember 2019
     *   10.72251
 
 
-*    *   1139
+*    *   911
 
+    *
     *   B84
 
     *   B84 Ebeleben, B
@@ -12590,8 +10991,9 @@ Gültig ab 1. Dezember 2019
     *   10.72184
 
 
-*    *   1140
+*    *   912
 
+    *
     *   B85
 
     *   B85 Kölleda
@@ -12601,30 +11003,9 @@ Gültig ab 1. Dezember 2019
     *   11.22308
 
 
-*    *   1141
+*    *   913
 
-    *   B85
-
-    *   B85 Remda-Teichel, Molkereistraße
-
-    *   50.78586
-
-    *   11.31205
-
-
-*    *   1142
-
-    *   B85
-
-    *   B85 Rudolstadt, August-Bebel-Straße
-
-    *   50.71897
-
-    *   11.33319
-
-
-*    *   1143
-
+    *
     *   B85
 
     *   B85 Rudolstadt, Herbert-Stauch-Straße
@@ -12634,8 +11015,9 @@ Gültig ab 1. Dezember 2019
     *   11.31837
 
 
-*    *   1144
+*    *   914
 
+    *
     *   B85
 
     *   B85 Probstzella, Am Bahnhof
@@ -12645,8 +11027,9 @@ Gültig ab 1. Dezember 2019
     *   11.38384
 
 
-*    *   1145
+*    *   915
 
+    *
     *   B85
 
     *   B85 Ludwigsstadt, A
@@ -12656,8 +11039,9 @@ Gültig ab 1. Dezember 2019
     *   11.39435
 
 
-*    *   1146
+*    *   916
 
+    *
     *   B85
 
     *   B85 Kronach (Gemfr. Gebiet)
@@ -12667,8 +11051,9 @@ Gültig ab 1. Dezember 2019
     *   11.37491
 
 
-*    *   1147
+*    *   917
 
+    *
     *   B85
 
     *   B85 Ludwigsstadt, C
@@ -12678,41 +11063,21 @@ Gültig ab 1. Dezember 2019
     *   11.37284
 
 
-*    *   1148
+*    *   918
 
+    *
     *   B85
 
-    *   B85 Kronach, Neuglosberg, A
+    *   B85 Pressig, A
 
-    *   50.28832
+    *   50.3589
 
-    *   11.29866
-
-
-*    *   1149
-
-    *   B85
-
-    *   B85/B303 Kronach
-
-    *   50.24476
-
-    *   11.32068
+    *   11.31971
 
 
-*    *   1150
+*    *   919
 
-    *   B85
-
-    *   B85 Kronach, Obere Ziegelangerstraße
-
-    *   50.2404
-
-    *   11.31973
-
-
-*    *   1151
-
+    *
     *   B85
 
     *   B85 Weißenbrunn, B
@@ -12722,8 +11087,9 @@ Gültig ab 1. Dezember 2019
     *   11.3184
 
 
-*    *   1152
+*    *   920
 
+    *
     *   B85
 
     *   B85 Kulmbach, A
@@ -12733,8 +11099,9 @@ Gültig ab 1. Dezember 2019
     *   11.37472
 
 
-*    *   1153
+*    *   921
 
+    *
     *   B85
 
     *   B85 Kulmbach, D
@@ -12744,8 +11111,9 @@ Gültig ab 1. Dezember 2019
     *   11.40052
 
 
-*    *   1154
+*    *   922
 
+    *
     *   B85
 
     *   B85 Kulmbach, Lösau, D
@@ -12755,8 +11123,9 @@ Gültig ab 1. Dezember 2019
     *   11.41912
 
 
-*    *   1155
+*    *   923
 
+    *
     *   B85
 
     *   B85 Kulmbach, Metzdorf
@@ -12766,8 +11135,33 @@ Gültig ab 1. Dezember 2019
     *   11.43397
 
 
-*    *   1156
+*    *   924
 
+    *
+    *   B85
+
+    *   B85 Bayreuth, Hindenburgstraße, A
+
+    *   49.94831
+
+    *   11.56586
+
+
+*    *   925
+
+    *
+    *   B85
+
+    *   B85 Bayreuth, Hindenburgstraße, B
+
+    *   49.94712
+
+    *   11.56837
+
+
+*    *   926
+
+    *
     *   B85
 
     *   B85 Pegnitz
@@ -12777,8 +11171,9 @@ Gültig ab 1. Dezember 2019
     *   11.51463
 
 
-*    *   1157
+*    *   927
 
+    *
     *   B85
 
     *   B85 Bayreuth (Gemfr. Gebiet), A
@@ -12788,8 +11183,9 @@ Gültig ab 1. Dezember 2019
     *   11.51766
 
 
-*    *   1158
+*    *   928
 
+    *
     *   B85
 
     *   B85 Bayreuth (Gemfr. Gebiet), B
@@ -12799,8 +11195,9 @@ Gültig ab 1. Dezember 2019
     *   11.52331
 
 
-*    *   1159
+*    *   929
 
+    *
     *   B85
 
     *   B85 Bayreuth (Gemfr. Gebiet), C
@@ -12810,8 +11207,9 @@ Gültig ab 1. Dezember 2019
     *   11.53842
 
 
-*    *   1160
+*    *   930
 
+    *
     *   B85
 
     *   B85 Bayreuth (Gemfr. Gebiet), D
@@ -12821,8 +11219,9 @@ Gültig ab 1. Dezember 2019
     *   11.55044
 
 
-*    *   1161
+*    *   931
 
+    *
     *   B85
 
     *   B85 Amberg-Sulzbach (Gemfr. Gebiet), C
@@ -12832,8 +11231,9 @@ Gültig ab 1. Dezember 2019
     *   11.63643
 
 
-*    *   1162
+*    *   932
 
+    *
     *   B85
 
     *   B85 Sulzbach-Rosenberg
@@ -12843,8 +11243,9 @@ Gültig ab 1. Dezember 2019
     *   11.75338
 
 
-*    *   1163
+*    *   933
 
+    *
     *   B85
 
     *   B85 Ebermannsdorf, Pittersberg
@@ -12854,8 +11255,9 @@ Gültig ab 1. Dezember 2019
     *   12.03987
 
 
-*    *   1164
+*    *   934
 
+    *
     *   B85
 
     *   B85 Ebermannsdorf, Simmerruh
@@ -12865,8 +11267,9 @@ Gültig ab 1. Dezember 2019
     *   12.04477
 
 
-*    *   1165
+*    *   935
 
+    *
     *   B85
 
     *   B85 Bodenwöhr, Radweg-Bodenwöhr-Neuenschwand
@@ -12876,52 +11279,57 @@ Gültig ab 1. Dezember 2019
     *   12.27466
 
 
-*    *   1166
+*    *   936
 
+    *
     *   B85
 
-    *   B85 Bruck in der Oberpfalz, Kellerweg, B
+    *   B85 Bruck in der Oberpfalz
 
-    *   49.25322
+    *   49.25323
 
     *   12.3124
 
 
-*    *   1167
+*    *   937
 
+    *
     *   B85
 
-    *   B85 Schwandorf (Gemfr. Gebiet), B
+    *   B85 Schwandorf (Gemfr. Gebiet), A
 
     *   49.25374
 
     *   12.36063
 
 
-*    *   1168
+*    *   938
 
+    *
     *   B85
 
-    *   B85 Schwandorf (Gemfr. Gebiet), A
+    *   B85 Schwandorf (Gemfr. Gebiet), B
 
     *   49.25411
 
     *   12.36322
 
 
-*    *   1169
+*    *   939
 
+    *
     *   B85
 
     *   B85 Schwandorf (Gemfr. Gebiet), C
 
-    *   49.24233
+    *   49.24229
 
-    *   12.39397
+    *   12.39417
 
 
-*    *   1170
+*    *   940
 
+    *
     *   B85
 
     *   B85 Schwandorf (Gemfr. Gebiet), D
@@ -12931,8 +11339,9 @@ Gültig ab 1. Dezember 2019
     *   12.39788
 
 
-*    *   1171
+*    *   941
 
+    *
     *   B85
 
     *   B85 Roding, Rodinger Forst FR Ost
@@ -12942,8 +11351,9 @@ Gültig ab 1. Dezember 2019
     *   12.45698
 
 
-*    *   1172
+*    *   942
 
+    *
     *   B85
 
     *   B85 Roding, Rodinger Forst FR West
@@ -12953,8 +11363,9 @@ Gültig ab 1. Dezember 2019
     *   12.45948
 
 
-*    *   1173
+*    *   943
 
+    *
     *   B85
 
     *   B85 Roding, A
@@ -12964,8 +11375,9 @@ Gültig ab 1. Dezember 2019
     *   12.49389
 
 
-*    *   1174
+*    *   944
 
+    *
     *   B85
 
     *   B85 Roding, B
@@ -12975,30 +11387,9 @@ Gültig ab 1. Dezember 2019
     *   12.514
 
 
-*    *   1175
+*    *   945
 
-    *   B85
-
-    *   B85 Roding, Piendling
-
-    *   49.20705
-
-    *   12.52726
-
-
-*    *   1176
-
-    *   B85
-
-    *   B85 Prackenbach, Eismannsberger Straße
-
-    *   49.12707
-
-    *   12.79201
-
-
-*    *   1177
-
+    *
     *   B85
 
     *   B85 Prackenbach, Am Kugelbach
@@ -13008,8 +11399,9 @@ Gültig ab 1. Dezember 2019
     *   12.79538
 
 
-*    *   1178
+*    *   946
 
+    *
     *   B85
 
     *   B85 Viechtach, A
@@ -13019,8 +11411,9 @@ Gültig ab 1. Dezember 2019
     *   12.85217
 
 
-*    *   1179
+*    *   947
 
+    *
     *   B85
 
     *   B85 Viechtach, Waldfrieden, A
@@ -13030,8 +11423,9 @@ Gültig ab 1. Dezember 2019
     *   12.86174
 
 
-*    *   1180
+*    *   948
 
+    *
     *   B85
 
     *   B85 Viechtach, Waldfrieden, B
@@ -13041,8 +11435,9 @@ Gültig ab 1. Dezember 2019
     *   12.86556
 
 
-*    *   1181
+*    *   949
 
+    *
     *   B85
 
     *   B85 Viechtach, C
@@ -13052,19 +11447,21 @@ Gültig ab 1. Dezember 2019
     *   12.92312
 
 
-*    *   1182
+*    *   950
 
+    *
     *   B85
 
     *   B85 Patersdorf, Grünbach
 
     *   49.01504
 
-    *   12.98048
+    *   12.98051
 
 
-*    *   1183
+*    *   951
 
+    *
     *   B85
 
     *   B85 Regen, Wieshof
@@ -13074,19 +11471,21 @@ Gültig ab 1. Dezember 2019
     *   13.13979
 
 
-*    *   1184
+*    *   952
 
+    *
     *   B85
 
-    *   B85 Kirchdorf im Wald, A
+    *   B85 Kirchdorf im Wald
 
     *   48.9338
 
     *   13.24205
 
 
-*    *   1185
+*    *   953
 
+    *
     *   B85
 
     *   B85 Eppenschlag, B
@@ -13096,41 +11495,45 @@ Gültig ab 1. Dezember 2019
     *   13.29905
 
 
-*    *   1186
+*    *   954
 
+    *
     *   B85
 
-    *   B85 Schönberg, B
+    *   B85 Schönberg, Mitternacher Ohe
 
     *   48.85657
 
     *   13.30764
 
 
-*    *   1187
+*    *   955
 
+    *
     *   B85
 
-    *   B85 Schönberg, C
+    *   B85 Schönberg, A
 
     *   48.85409
 
     *   13.30698
 
 
-*    *   1188
+*    *   956
 
+    *
     *   B85
 
-    *   B85 Schönberg, D
+    *   B85 Schönberg, B
 
     *   48.83805
 
     *   13.31398
 
 
-*    *   1189
+*    *   957
 
+    *
     *   B85
 
     *   B85 Schönberg, Eberhardsreuther Weg
@@ -13140,30 +11543,33 @@ Gültig ab 1. Dezember 2019
     *   13.34803
 
 
-*    *   1190
+*    *   958
 
+    *
     *   B85
 
-    *   B85 Schönberg, E
+    *   B85 Schönberg, C
 
     *   48.82506
 
     *   13.35897
 
 
-*    *   1191
+*    *   959
 
+    *
     *   B85
 
-    *   B85 Saldenburg, Spitzingerreuth, A
+    *   B85 Saldenburg, B
 
-    *   48.77767
+    *   48.77965
 
-    *   13.36614
+    *   13.37161
 
 
-*    *   1192
+*    *   960
 
+    *
     *   B85
 
     *   B85 Saldenburg, Preying, Brigidastraße
@@ -13173,30 +11579,21 @@ Gültig ab 1. Dezember 2019
     *   13.37564
 
 
-*    *   1193
+*    *   961
 
+    *
     *   B85
 
-    *   B85 Passau, A
+    *   B85 Passau
 
     *   48.60384
 
     *   13.40959
 
 
-*    *   1194
+*    *   962
 
-    *   B86
-
-    *   B86 Weißensee, Landgräfin-Jutta-Straße, B
-
-    *   51.19939
-
-    *   11.06445
-
-
-*    *   1195
-
+    *
     *   B87
 
     *   B87 Tauche, Fremdenstraße
@@ -13206,8 +11603,9 @@ Gültig ab 1. Dezember 2019
     *   14.20451
 
 
-*    *   1196
+*    *   963
 
+    *
     *   B87
 
     *   B87 Herzberg (Elster), Frankfurter Straße
@@ -13217,8 +11615,33 @@ Gültig ab 1. Dezember 2019
     *   13.25229
 
 
-*    *   1197
+*    *   964
 
+    *
+    *   B87
+
+    *   B87 Mockrehna, B
+
+    *   51.51065
+
+    *   12.82409
+
+
+*    *   965
+
+    *
+    *   B87
+
+    *   B87 Mockrehna, E
+
+    *   51.50735
+
+    *   12.79384
+
+
+*    *   966
+
+    *
     *   B87
 
     *   B87 Leipzig, A
@@ -13228,52 +11651,21 @@ Gültig ab 1. Dezember 2019
     *   12.29883
 
 
-*    *   1198
+*    *   967
 
+    *
     *   B87
 
-    *   B87 Naumburg (Saale)
+    *   B87 Naumburg (Saale), B
 
     *   51.13925
 
     *   11.73023
 
 
-*    *   1199
+*    *   968
 
-    *   B87
-
-    *   B87 Lanitz-Hassel-Tal, Gernstedt, B
-
-    *   51.11722
-
-    *   11.61288
-
-
-*    *   1200
-
-    *   B87
-
-    *   B87 Ilmtal, Großhettstedt, C
-
-    *   50.79099
-
-    *   11.13406
-
-
-*    *   1201
-
-    *   B88
-
-    *   B88 Seebach, Friedrich-Engels-Ring
-
-    *   50.91131
-
-    *   10.42641
-
-
-*    *   1202
-
+    *
     *   B88
 
     *   B88 Waltershausen, B
@@ -13283,8 +11675,9 @@ Gültig ab 1. Dezember 2019
     *   10.43769
 
 
-*    *   1203
+*    *   969
 
+    *
     *   B88
 
     *   B88 Friedrichroda
@@ -13294,8 +11687,9 @@ Gültig ab 1. Dezember 2019
     *   10.58261
 
 
-*    *   1204
+*    *   970
 
+    *
     *   B88
 
     *   B88 Leinatal, Am Querberg
@@ -13305,30 +11699,9 @@ Gültig ab 1. Dezember 2019
     *   10.6064
 
 
-*    *   1205
+*    *   971
 
-    *   B88
-
-    *   B88 Gehren, Friedensstraße
-
-    *   50.65014
-
-    *   10.99768
-
-
-*    *   1206
-
-    *   B88
-
-    *   B88 Königsee-Rottenbach, Blankenburger Straße
-
-    *   50.66459
-
-    *   11.10427
-
-
-*    *   1207
-
+    *
     *   B88
 
     *   B88 Königsee-Rottenbach, In den Gelängen
@@ -13338,74 +11711,21 @@ Gültig ab 1. Dezember 2019
     *   11.20567
 
 
-*    *   1208
+*    *   972
 
+    *
     *   B88
 
-    *   B88 Bad Blankenburg, Schwarzburger Straße
+    *   B88 Kahla, B
 
-    *   50.68292
+    *   50.80937
 
-    *   11.27172
-
-
-*    *   1209
-
-    *   B88
-
-    *   B88 Rudolstadt, Am Flutgraben
-
-    *   50.72847
-
-    *   11.37121
+    *   11.57799
 
 
-*    *   1210
+*    *   973
 
-    *   B88
-
-    *   B88 Uhlstädt-Kirchhasel, Erfurter Straße
-
-    *   50.75366
-
-    *   11.50511
-
-
-*    *   1211
-
-    *   B88
-
-    *   B88 Uhlstädt-Kirchhasel, Saalbahn FR Nord
-
-    *   50.7557
-
-    *   11.50801
-
-
-*    *   1212
-
-    *   B88
-
-    *   B88 Uhlstädt-Kirchhasel, Saalbahn FR Süd
-
-    *   50.75764
-
-    *   11.50802
-
-
-*    *   1213
-
-    *   B88
-
-    *   B88 Jena, Florian-Geyer-Weg
-
-    *   50.9586
-
-    *   11.61778
-
-
-*    *   1214
-
+    *
     *   B88
 
     *   B88 Dornburg-Camburg, Steudnitz
@@ -13415,8 +11735,9 @@ Gültig ab 1. Dezember 2019
     *   11.69172
 
 
-*    *   1215
+*    *   974
 
+    *
     *   B88
 
     *   B88 Dornburg-Camburg, Wachtbergweg
@@ -13426,30 +11747,9 @@ Gültig ab 1. Dezember 2019
     *   11.71161
 
 
-*    *   1216
+*    *   975
 
-    *   B89
-
-    *   B89 Hildburghausen, Kaltenbronner Weg
-
-    *   50.42144
-
-    *   10.74951
-
-
-*    *   1217
-
-    *   B89
-
-    *   B89 Eisfeld, Am Bahnhof
-
-    *   50.4184
-
-    *   10.90478
-
-
-*    *   1218
-
+    *
     *   B89
 
     *   B89 Schalkau, B
@@ -13459,41 +11759,9 @@ Gültig ab 1. Dezember 2019
     *   11.02396
 
 
-*    *   1219
+*    *   976
 
-    *   B89
-
-    *   B89 Hildburghausen, Puschkinplatz
-
-    *   50.42655
-
-    *   10.72567
-
-
-*    *   1220
-
-    *   B90
-
-    *   B90 Bad Lobenstein, Gewerbegebiet Goldbach
-
-    *   50.45087
-
-    *   11.65384
-
-
-*    *   1221
-
-    *   B91
-
-    *   B91 Halle (Saale), Merseburger Straße, C
-
-    *   51.44478
-
-    *   11.98405
-
-
-*    *   1222
-
+    *
     *   B92
 
     *   B92 Bad Brambach, B
@@ -13503,8 +11771,9 @@ Gültig ab 1. Dezember 2019
     *   12.31079
 
 
-*    *   1223
+*    *   977
 
+    *
     *   B92
 
     *   B92 Bad Brambach, A
@@ -13514,8 +11783,9 @@ Gültig ab 1. Dezember 2019
     *   12.3126
 
 
-*    *   1224
+*    *   978
 
+    *
     *   B92
 
     *   B92 Adorf/Vogtl.
@@ -13525,8 +11795,9 @@ Gültig ab 1. Dezember 2019
     *   12.2562
 
 
-*    *   1225
+*    *   979
 
+    *
     *   B92
 
     *   B92 Plauen, B
@@ -13536,8 +11807,9 @@ Gültig ab 1. Dezember 2019
     *   12.15385
 
 
-*    *   1226
+*    *   980
 
+    *
     *   B92
 
     *   B92 Elsterberg
@@ -13547,41 +11819,21 @@ Gültig ab 1. Dezember 2019
     *   12.17273
 
 
-*    *   1227
+*    *   981
 
-    *   B92
-
-    *   B92 Gera, Plauensche Straße
-
-    *   50.86118
-
-    *   12.09186
-
-
-*    *   1228
-
-    *   B92
-
-    *   B92 Gera, Ronneburger Straße
-
-    *   50.88106
-
-    *   12.12079
-
-
-*    *   1229
-
+    *
     *   B93
 
-    *   B93 Schneeberg, Neustädtler Straße, A
+    *   B93 Wilkau-Haßlau
 
-    *   50.59222
+    *   50.67908
 
-    *   12.63913
+    *   12.50758
 
 
-*    *   1230
+*    *   982
 
+    *
     *   B93
 
     *   B93 Ponitz, B
@@ -13591,41 +11843,21 @@ Gültig ab 1. Dezember 2019
     *   12.44267
 
 
-*    *   1231
+*    *   983
 
-    *   B93
-
-    *   B93 Nobitz, Zehma, C
-
-    *   50.92182
-
-    *   12.44542
-
-
-*    *   1232
-
+    *
     *   B94
 
-    *   B94 Zeulenroda-Triebes
+    *   B94 Zeulenroda-Triebes, A
 
     *   50.65463
 
     *   11.99151
 
 
-*    *   1233
+*    *   984
 
-    *   B94
-
-    *   B94 Langenwetzendorf, Naitschau, C
-
-    *   50.65599
-
-    *   12.09955
-
-
-*    *   1234
-
+    *
     *   B94
 
     *   B94 Greiz, Gewerbegebiet
@@ -13635,8 +11867,9 @@ Gültig ab 1. Dezember 2019
     *   12.20612
 
 
-*    *   1235
+*    *   985
 
+    *
     *   B94
 
     *   B94 Heinsdorfergrund
@@ -13646,30 +11879,9 @@ Gültig ab 1. Dezember 2019
     *   12.33213
 
 
-*    *   1236
+*    *   986
 
-    *   B94
-
-    *   B94 Lengenfeld, Polenzstraße, D
-
-    *   50.57103
-
-    *   12.38074
-
-
-*    *   1237
-
-    *   B95
-
-    *   B95 Ehrenfriedersdorf, Pochwerkstraße
-
-    *   50.64142
-
-    *   12.96632
-
-
-*    *   1238
-
+    *
     *   B95
 
     *   B95 Ehrenfriedersdorf, A
@@ -13679,30 +11891,21 @@ Gültig ab 1. Dezember 2019
     *   12.96937
 
 
-*    *   1239
+*    *   987
 
+    *
     *   B95
 
-    *   B95 Gelenau/Erzgeb., Willy-Poller-Straße
+    *   B95 Gelenau/Erzgeb.
 
-    *   50.70044
+    *   50.71571
 
-    *   12.93989
-
-
-*    *   1240
-
-    *   B95
-
-    *   B95 Gelenau/Erzgeb., Fritz-Reuter-Straße, A
-
-    *   50.7155
-
-    *   12.9378
+    *   12.93778
 
 
-*    *   1241
+*    *   988
 
+    *
     *   B95
 
     *   B95/B180 Burkhardtsdorf
@@ -13712,19 +11915,9 @@ Gültig ab 1. Dezember 2019
     *   12.93047
 
 
-*    *   1242
+*    *   989
 
-    *   B96
-
-    *   B96 Kottmar, Am Adlerberg
-
-    *   50.97407
-
-    *   14.67267
-
-
-*    *   1243
-
+    *
     *   B96
 
     *   B96 Cunewalde
@@ -13734,41 +11927,21 @@ Gültig ab 1. Dezember 2019
     *   14.47423
 
 
-*    *   1244
+*    *   990
 
+    *
     *   B96
 
-    *   B96 Lohsa, Wittichenauer Straße
-
-    *   51.36701
-
-    *   14.30894
-
-
-*    *   1245
-
-    *   B96
-
-    *   B96 Senftenberg, Kleinkoschener Straße, B
-
-    *   51.49862
-
-    *   14.06509
-
-
-*    *   1246
-
-    *   B96
-
-    *   B96 Lichterfeld-Schacksdorf, A
+    *   B96 Lichterfeld-Schacksdorf
 
     *   51.6175
 
     *   13.81941
 
 
-*    *   1247
+*    *   991
 
+    *
     *   B96
 
     *   B96 Sonnewalde, Finsterwalder Straße, C
@@ -13778,41 +11951,21 @@ Gültig ab 1. Dezember 2019
     *   13.64562
 
 
-*    *   1248
+*    *   992
 
+    *
     *   B96
 
-    *   B96 Berlin, Mariendorfer Damm, B
+    *   B96 Berlin, Sellerstraße
 
-    *   52.43761
+    *   52.53805
 
-    *   13.38808
-
-
-*    *   1249
-
-    *   B96
-
-    *   B96 Berlin, Ullsteinstraße
-
-    *   52.45271
-
-    *   13.38448
+    *   13.36708
 
 
-*    *   1250
+*    *   993
 
-    *   B96
-
-    *   B96 Berlin, Albrechtstraße
-
-    *   52.46084
-
-    *   13.38485
-
-
-*    *   1251
-
+    *
     *   B96
 
     *   B96 Berlin, Schmitzweg
@@ -13822,8 +11975,9 @@ Gültig ab 1. Dezember 2019
     *   13.34147
 
 
-*    *   1252
+*    *   994
 
+    *
     *   B96
 
     *   B96 Glienicke/Nordbahn
@@ -13833,30 +11987,45 @@ Gültig ab 1. Dezember 2019
     *   13.30654
 
 
-*    *   1253
+*    *   995
 
+    *
     *   B96
 
-    *   B96 Löwenberger Land, Hauptstraße
+    *   B96 Löwenberger Land, C
+
+    *   52.84116
+
+    *   13.19665
+
+
+*    *   996
+
+    *
+    *   B96
+
+    *   B96 Löwenberger Land, Hauptstraße, A
 
     *   52.85563
 
     *   13.17355
 
 
-*    *   1254
+*    *   997
 
+    *
     *   B96
 
     *   B96 Löwenberger Land, D
 
-    *   52.89962
+    *   52.89959
 
-    *   13.15573
+    *   13.15572
 
 
-*    *   1255
+*    *   998
 
+    *
     *   B96
 
     *   B96 Gransee, Rastplatz
@@ -13866,8 +12035,9 @@ Gültig ab 1. Dezember 2019
     *   13.16535
 
 
-*    *   1256
+*    *   999
 
+    *
     *   B96
 
     *   B96 Fürstenberg/Havel, Rastplatz, B
@@ -13877,8 +12047,9 @@ Gültig ab 1. Dezember 2019
     *   13.12806
 
 
-*    *   1257
+*    *   1000
 
+    *
     *   B96
 
     *   B96 Neustrelitz, Auf den Lehmkuhlen
@@ -13888,8 +12059,9 @@ Gültig ab 1. Dezember 2019
     *   13.10638
 
 
-*    *   1258
+*    *   1001
 
+    *
     *   B96
 
     *   B96 Blumenholz, B
@@ -13899,52 +12071,9 @@ Gültig ab 1. Dezember 2019
     *   13.17067
 
 
-*    *   1259
+*    *   1002
 
-    *   B96A
-
-    *   B96A Berlin, Blankenburger Straße
-
-    *   52.5815
-
-    *   13.40421
-
-
-*    *   1260
-
-    *   B96A
-
-    *   B96A Berlin, Westerlandstraße
-
-    *   52.55778
-
-    *   13.4139
-
-
-*    *   1261
-
-    *   B96A
-
-    *   B96A Berlin, Am Oberbaum
-
-    *   52.50269
-
-    *   13.4468
-
-
-*    *   1262
-
-    *   B96A
-
-    *   B96A Berlin, Schnellerstraße
-
-    *   52.45882
-
-    *   13.50647
-
-
-*    *   1263
-
+    *
     *   B96A
 
     *   B96A Berlin, F
@@ -13954,19 +12083,9 @@ Gültig ab 1. Dezember 2019
     *   13.5087
 
 
-*    *   1264
+*    *   1003
 
-    *   B96A
-
-    *   B96A Berlin, Brückenstraße
-
-    *   52.4564
-
-    *   13.50991
-
-
-*    *   1265
-
+    *
     *   B96A
 
     *   B96A Berlin, Adlergestell, E
@@ -13976,19 +12095,9 @@ Gültig ab 1. Dezember 2019
     *   13.53237
 
 
-*    *   1266
+*    *   1004
 
-    *   B96A
-
-    *   B96A Berlin, Otto-Franke-Straße
-
-    *   52.43152
-
-    *   13.54678
-
-
-*    *   1267
-
+    *
     *   B96A
 
     *   B96A Berlin, Bulgarische Straße, A
@@ -13998,8 +12107,9 @@ Gültig ab 1. Dezember 2019
     *   13.47778
 
 
-*    *   1268
+*    *   1005
 
+    *
     *   B96A
 
     *   B96A Berlin, B
@@ -14009,8 +12119,9 @@ Gültig ab 1. Dezember 2019
     *   13.46851
 
 
-*    *   1269
+*    *   1006
 
+    *
     *   B96A
 
     *   B96A Berlin, Puschkinallee, B
@@ -14020,19 +12131,9 @@ Gültig ab 1. Dezember 2019
     *   13.46699
 
 
-*    *   1270
+*    *   1007
 
-    *   B97
-
-    *   B97 Dresden, Dörnichtweg
-
-    *   51.11637
-
-    *   13.76997
-
-
-*    *   1271
-
+    *
     *   B97
 
     *   B97 Ottendorf-Okrilla
@@ -14042,19 +12143,21 @@ Gültig ab 1. Dezember 2019
     *   13.82481
 
 
-*    *   1272
+*    *   1008
 
+    *
     *   B97
 
-    *   B97 Bernsdorf, Forststraße
+    *   B97 Laußnitz, Kieswerk Ottendorf-Okrilla
 
-    *   51.34856
+    *   51.20673
 
-    *   14.01439
+    *   13.83815
 
 
-*    *   1273
+*    *   1009
 
+    *
     *   B97
 
     *   B97 Bernsdorf, A
@@ -14064,30 +12167,33 @@ Gültig ab 1. Dezember 2019
     *   14.08413
 
 
-*    *   1274
+*    *   1010
 
+    *
     *   B97
 
     *   B97 Hoyerswerda, B
+
+    *   51.41849
+
+    *   14.17985
+
+
+*    *   1011
+
+    *
+    *   B97
+
+    *   B97 Hoyerswerda, C
 
     *   51.42467
 
     *   14.22643
 
 
-*    *   1275
+*    *   1012
 
-    *   B98
-
-    *   B98 Schönfeld, B
-
-    *   51.2993
-
-    *   13.71352
-
-
-*    *   1276
-
+    *
     *   B98
 
     *   B98 Schmölln-Putzkau, A
@@ -14097,52 +12203,69 @@ Gültig ab 1. Dezember 2019
     *   14.20156
 
 
-*    *   1277
+*    *   1013
 
+    *
     *   B98
 
     *   B98 Schmölln-Putzkau, B
 
     *   51.10531
 
-    *   14.20807
+    *   14.20805
 
 
-*    *   1278
+*    *   1014
 
+    *
+    *   B98
+
+    *   B98 Sohland a.d. Spree, E
+
+    *   51.05478
+
+    *   14.37465
+
+
+*    *   1015
+
+    *
     *   B99
 
-    *   B99 Zittau, Kämmelstraße
+    *   B99 Görlitz, B
 
-    *   50.90154
+    *   51.147
 
-    *   14.82225
+    *   14.971
 
 
-*    *   1279
+*    *   1016
 
+    *
     *   B99
 
-    *   B99 Görlitz, Leschwitzer Straße
+    *   B99 Görlitz, A
 
-    *   51.1225
+    *   51.14834
 
-    *   14.98265
-
-
-*    *   1280
-
-    *   B101
-
-    *   B101 Elsterwerda, Elsterstraße, B
-
-    *   51.45456
-
-    *   13.52147
+    *   14.97038
 
 
-*    *   1281
+*    *   1017
 
+    *
+    *   B100
+
+    *   B100 Kemberg, An der B100
+
+    *   51.79432
+
+    *   12.60294
+
+
+*    *   1018
+
+    *
     *   B101
 
     *   B101 Herzberg (Elster), B
@@ -14152,8 +12275,9 @@ Gültig ab 1. Dezember 2019
     *   13.23104
 
 
-*    *   1282
+*    *   1019
 
+    *
     *   B101
 
     *   B101 Jüterbog
@@ -14163,8 +12287,21 @@ Gültig ab 1. Dezember 2019
     *   13.09706
 
 
-*    *   1283
+*    *   1020
 
+    *
+    *   B101
+
+    *   B101 Berlin, Großbeerenstraße
+
+    *   52.43086
+
+    *   13.37641
+
+
+*    *   1021
+
+    *
     *   B101
 
     *   B101 Schwarzenberg/Erzgeb., Weidauerstraße
@@ -14174,30 +12311,9 @@ Gültig ab 1. Dezember 2019
     *   12.78955
 
 
-*    *   1284
+*    *   1022
 
-    *   B101
-
-    *   B101 Raschau-Markersbach, Zimmermannsweg
-
-    *   50.52911
-
-    *   12.84668
-
-
-*    *   1285
-
-    *   B101
-
-    *   B101 Raschau-Markersbach, Annaberger Straße, A
-
-    *   50.53724
-
-    *   12.87737
-
-
-*    *   1286
-
+    *
     *   B101
 
     *   B101 Schlettau, A
@@ -14207,52 +12323,57 @@ Gültig ab 1. Dezember 2019
     *   12.9429
 
 
-*    *   1287
+*    *   1023
 
+    *
     *   B101
 
-    *   B101 Pockau-Lengefeld, An der Heinzebank
+    *   B101 Pockau-Lengefeld, D
 
-    *   50.68138
+    *   50.68252
 
-    *   13.12186
+    *   13.12436
 
 
-*    *   1288
+*    *   1024
 
+    *
     *   B101
 
-    *   B101 Nossen, Zellsteig
+    *   B101 Großhartmannsdorf, A
 
-    *   51.049
+    *   50.80466
 
-    *   13.29055
+    *   13.32309
 
 
-*    *   1289
+*    *   1025
 
+    *
     *   B101
 
-    *   B101 Berlin, Großbeerenstraße
+    *   B101 Großhartmannsdorf, B
 
-    *   52.4309
+    *   50.80642
 
-    *   13.37643
+    *   13.32317
 
 
-*    *   1290
+*    *   1026
 
+    *
     *   B102
 
-    *   B102 Dahme/Mark, Luckauer Chaussee, A
+    *   B102 Dahme/Mark, Luckauer Chaussee
 
     *   51.86471
 
     *   13.43955
 
 
-*    *   1291
+*    *   1027
 
+    *
     *   B102
 
     *   B102 Dahme/Mark, A
@@ -14262,8 +12383,9 @@ Gültig ab 1. Dezember 2019
     *   13.40892
 
 
-*    *   1292
+*    *   1028
 
+    *
     *   B102
 
     *   B102 Bad Belzig, Bahnhofstraße
@@ -14273,19 +12395,21 @@ Gültig ab 1. Dezember 2019
     *   12.58946
 
 
-*    *   1293
+*    *   1029
 
+    *
     *   B102
 
-    *   B102 Rathenow, Am Hafen
+    *   B102 Brandenburg an der Havel, F
 
-    *   52.58156
+    *   52.4221
 
-    *   12.33666
+    *   12.53227
 
 
-*    *   1294
+*    *   1030
 
+    *
     *   B102
 
     *   B102 Rathenow
@@ -14295,19 +12419,9 @@ Gültig ab 1. Dezember 2019
     *   12.33903
 
 
-*    *   1295
+*    *   1031
 
-    *   B103
-
-    *   B103 Gumtow, Pritzwalker Straße, A
-
-    *   53.01823
-
-    *   12.31882
-
-
-*    *   1296
-
+    *
     *   B103
 
     *   B103 Gumtow, B
@@ -14317,8 +12431,9 @@ Gültig ab 1. Dezember 2019
     *   12.25294
 
 
-*    *   1297
+*    *   1032
 
+    *
     *   B103
 
     *   B103 Gumtow, A
@@ -14328,52 +12443,45 @@ Gültig ab 1. Dezember 2019
     *   12.2423
 
 
-*    *   1298
+*    *   1033
 
+    *
     *   B103
 
-    *   B103 Pritzwalk, Dorfmitte
+    *   B103 Meyenburg, Pritzwalker Straße
 
-    *   53.11951
+    *   53.30531
 
-    *   12.18246
+    *   12.23585
 
 
-*    *   1299
+*    *   1034
 
+    *
     *   B103
 
-    *   B103 Güstrow, Bredentiner Straße
+    *   B103 Plau am See, Hopfensoll, B
 
-    *   53.80877
+    *   53.47441
 
-    *   12.18823
-
-
-*    *   1300
-
-    *   B104
-
-    *   B104 Selmsdorf, Tannenweg
-
-    *   53.88379
-
-    *   10.83823
+    *   12.26367
 
 
-*    *   1301
+*    *   1035
 
-    *   B104
+    *
+    *   B103
 
-    *   B104 Rehna, Hinterstraße
+    *   B103 Güstrow
 
-    *   53.78164
+    *   53.79489
 
-    *   11.04555
+    *   12.20712
 
 
-*    *   1302
+*    *   1036
 
+    *
     *   B104
 
     *   B104 Brüsewitz, A
@@ -14383,8 +12491,9 @@ Gültig ab 1. Dezember 2019
     *   11.28672
 
 
-*    *   1303
+*    *   1037
 
+    *
     *   B104
 
     *   B104 Brüsewitz, B
@@ -14394,30 +12503,9 @@ Gültig ab 1. Dezember 2019
     *   11.29535
 
 
-*    *   1304
+*    *   1038
 
-    *   B104
-
-    *   B104 Schwerin, Pappelgrund
-
-    *   53.64878
-
-    *   11.40656
-
-
-*    *   1305
-
-    *   B104
-
-    *   B104 Schwerin, Güstrower Straße, A
-
-    *   53.65031
-
-    *   11.4312
-
-
-*    *   1306
-
+    *
     *   B104
 
     *   B104 Cambs, C
@@ -14427,8 +12515,9 @@ Gültig ab 1. Dezember 2019
     *   11.57222
 
 
-*    *   1307
+*    *   1039
 
+    *
     *   B104
 
     *   B104 Kuhlen-Wendorf, C
@@ -14438,41 +12527,9 @@ Gültig ab 1. Dezember 2019
     *   11.58541
 
 
-*    *   1308
+*    *   1040
 
-    *   B104
-
-    *   B104 Lalendorf, Radener Seestraße
-
-    *   53.76025
-
-    *   12.43392
-
-
-*    *   1309
-
-    *   B104
-
-    *   B104 Teterow, Niendorf, D
-
-    *   53.76255
-
-    *   12.61868
-
-
-*    *   1310
-
-    *   B104
-
-    *   B104 Malchin, Schloßstraße
-
-    *   53.75374
-
-    *   12.69773
-
-
-*    *   1311
-
+    *
     *   B104
 
     *   B104 Reuterstadt Stavenhagen, A
@@ -14482,8 +12539,9 @@ Gültig ab 1. Dezember 2019
     *   12.86381
 
 
-*    *   1312
+*    *   1041
 
+    *
     *   B104
 
     *   B104 Ritzerow
@@ -14493,8 +12551,9 @@ Gültig ab 1. Dezember 2019
     *   12.94621
 
 
-*    *   1313
+*    *   1042
 
+    *
     *   B104
 
     *   B104 Neubrandenburg, A
@@ -14504,8 +12563,9 @@ Gültig ab 1. Dezember 2019
     *   13.19738
 
 
-*    *   1314
+*    *   1043
 
+    *
     *   B104
 
     *   B104 Sponholz, B
@@ -14515,19 +12575,9 @@ Gültig ab 1. Dezember 2019
     *   13.35881
 
 
-*    *   1315
+*    *   1044
 
-    *   B104
-
-    *   B104 Strasburg (Uckermark), D
-
-    *   53.49181
-
-    *   13.69487
-
-
-*    *   1316
-
+    *
     *   B104
 
     *   B104 Löcknitz, B
@@ -14537,8 +12587,9 @@ Gültig ab 1. Dezember 2019
     *   14.23948
 
 
-*    *   1317
+*    *   1045
 
+    *
     *   B105
 
     *   B105 Bad Doberan, B
@@ -14548,8 +12599,9 @@ Gültig ab 1. Dezember 2019
     *   11.87905
 
 
-*    *   1318
+*    *   1046
 
+    *
     *   B105
 
     *   B105 Bad Doberan, A
@@ -14559,19 +12611,9 @@ Gültig ab 1. Dezember 2019
     *   11.88318
 
 
-*    *   1319
+*    *   1047
 
-    *   B105
-
-    *   B105 Mönchhagen, A
-
-    *   54.14403
-
-    *   12.22502
-
-
-*    *   1320
-
+    *
     *   B105
 
     *   B105 Divitz-Spoldershagen, B
@@ -14581,8 +12623,9 @@ Gültig ab 1. Dezember 2019
     *   12.6551
 
 
-*    *   1321
+*    *   1048
 
+    *
     *   B105
 
     *   B105 Divitz-Spoldershagen, A
@@ -14592,8 +12635,9 @@ Gültig ab 1. Dezember 2019
     *   12.68198
 
 
-*    *   1322
+*    *   1049
 
+    *
     *   B105
 
     *   B105 Karnin
@@ -14603,8 +12647,9 @@ Gültig ab 1. Dezember 2019
     *   12.82723
 
 
-*    *   1323
+*    *   1050
 
+    *
     *   B105
 
     *   B105 Velgast
@@ -14614,8 +12659,9 @@ Gültig ab 1. Dezember 2019
     *   12.85785
 
 
-*    *   1324
+*    *   1051
 
+    *
     *   B105
 
     *   B105 Sundhagen, E
@@ -14625,8 +12671,9 @@ Gültig ab 1. Dezember 2019
     *   13.29318
 
 
-*    *   1325
+*    *   1052
 
+    *
     *   B105
 
     *   B105 Wackerow
@@ -14636,8 +12683,9 @@ Gültig ab 1. Dezember 2019
     *   13.35045
 
 
-*    *   1326
+*    *   1053
 
+    *
     *   B106
 
     *   B106 Bad Kleinen, C
@@ -14647,74 +12695,69 @@ Gültig ab 1. Dezember 2019
     *   11.42219
 
 
-*    *   1327
+*    *   1054
 
+    *
     *   B107
 
-    *   B107 Buckautal, Buckau
+    *   B107 Claußnitz, Steinbruch Diethensdorf
 
-    *   52.22354
+    *   50.94191
 
-    *   12.32436
+    *   12.87549
 
 
-*    *   1328
+*    *   1055
 
+    *
     *   B107
 
-    *   B107 Genthin, Dorfstraße
+    *   B107 Claußnitz, B
 
-    *   52.36893
+    *   50.94413
 
-    *   12.15905
+    *   12.87247
 
 
-*    *   1329
+*    *   1056
 
+    *
+    *   B107
+
+    *   B107 Claußnitz, A
+
+    *   50.94688
+
+    *   12.86665
+
+
+*    *   1057
+
+    *
     *   B107
 
     *   B107 Jerichow, An der Alten Elbe, B
 
-    *   52.49388
+    *   52.49382
 
-    *   12.02992
-
-
-*    *   1330
-
-    *   B107
-
-    *   B107 Wust-Fischbeck, Fährstraße
-
-    *   52.54034
-
-    *   12.01658
+    *   12.03003
 
 
-*    *   1331
+*    *   1058
 
+    *
     *   B109
 
     *   B109 Zehdenick, Castrop-Rauxel-Allee
 
-    *   52.97965
+    *   52.97966
 
-    *   13.34436
-
-
-*    *   1332
-
-    *   B109
-
-    *   B109 Zehdenick, Phillipp-Müller-Straße
-
-    *   52.98584
-
-    *   13.34036
+    *   13.34434
 
 
-*    *   1333
+*    *   1059
 
+    *
     *   B109
 
     *   B109 Zehdenick, B
@@ -14724,8 +12767,33 @@ Gültig ab 1. Dezember 2019
     *   13.38748
 
 
-*    *   1334
+*    *   1060
 
+    *
+    *   B109
+
+    *   B109 Prenzlau, I
+
+    *   53.30796
+
+    *   13.83441
+
+
+*    *   1061
+
+    *
+    *   B109
+
+    *   B109 Prenzlau, H
+
+    *   53.30842
+
+    *   13.83801
+
+
+*    *   1062
+
+    *
     *   B109
 
     *   B109 Prenzlau, E
@@ -14735,19 +12803,21 @@ Gültig ab 1. Dezember 2019
     *   13.86815
 
 
-*    *   1335
+*    *   1063
 
+    *
     *   B109
 
-    *   B109 Ducherow, Rathebur Dorfstraße, A
+    *   B109 Ducherow, Dorfstraße
 
     *   53.74185
 
     *   13.78397
 
 
-*    *   1336
+*    *   1064
 
+    *
     *   B109
 
     *   B109 Diedrichshagen
@@ -14757,8 +12827,9 @@ Gültig ab 1. Dezember 2019
     *   13.51292
 
 
-*    *   1337
+*    *   1065
 
+    *
     *   B110
 
     *   B110 Broderstorf
@@ -14768,41 +12839,21 @@ Gültig ab 1. Dezember 2019
     *   12.29936
 
 
-*    *   1338
+*    *   1066
 
+    *
     *   B110
 
-    *   B110 Tessin, Siedlungsweg
+    *   B110 Tessin, A
 
-    *   54.02919
+    *   54.03218
 
-    *   12.45878
-
-
-*    *   1339
-
-    *   B110
-
-    *   B110 Lühburg, Repnitz
-
-    *   53.99941
-
-    *   12.55978
+    *   12.44749
 
 
-*    *   1340
+*    *   1067
 
-    *   B110
-
-    *   B110 Dargun, Röcknitzstraße
-
-    *   53.90519
-
-    *   12.83976
-
-
-*    *   1341
-
+    *
     *   B110
 
     *   B110 Dargun, E
@@ -14812,8 +12863,9 @@ Gültig ab 1. Dezember 2019
     *   12.86406
 
 
-*    *   1342
+*    *   1068
 
+    *
     *   B110
 
     *   B110 Demmin, C
@@ -14823,8 +12875,9 @@ Gültig ab 1. Dezember 2019
     *   13.06828
 
 
-*    *   1343
+*    *   1069
 
+    *
     *   B110
 
     *   B110 Demmin, D
@@ -14834,19 +12887,45 @@ Gültig ab 1. Dezember 2019
     *   13.09463
 
 
-*    *   1344
+*    *   1070
 
+    *
+    *   B110
+
+    *   B110 Usedom, D
+
+    *   53.87613
+
+    *   13.91902
+
+
+*    *   1071
+
+    *
     *   B111
 
-    *   B111 Lühmannsdorf, Alt Brüssow
+    *   B111 Gützkow
 
-    *   54.00664
+    *   53.943
 
-    *   13.62857
+    *   13.39785
 
 
-*    *   1345
+*    *   1072
 
+    *
+    *   B111
+
+    *   B111 Wolgast, Chausseestraße, D
+
+    *   54.05247
+
+    *   13.7729
+
+
+*    *   1073
+
+    *
     *   B111
 
     *   B111 Zinnowitz
@@ -14856,8 +12935,9 @@ Gültig ab 1. Dezember 2019
     *   13.93022
 
 
-*    *   1346
+*    *   1074
 
+    *
     *   B111
 
     *   B111 Ückeritz
@@ -14867,63 +12947,105 @@ Gültig ab 1. Dezember 2019
     *   14.06667
 
 
-*    *   1347
+*    *   1075
 
+    *
     *   B113
 
-    *   B113 Penkun, Mühlenweg
+    *   B113 Tantow
 
-    *   53.30572
+    *   53.27253
 
-    *   14.28105
-
-
-*    *   1348
-
-    *   B115
-
-    *   B115 Bad Muskau, Schmaler Weg
-
-    *   51.5312
-
-    *   14.70854
+    *   14.34708
 
 
-*    *   1349
+*    *   1076
 
-    *   B115
+    *
+    *   B113
 
-    *   B115 Weißkeißel, B
+    *   B113 Ramin, Linken
 
-    *   51.50362
+    *   53.45159
 
-    *   14.71268
+    *   14.36622
 
 
-*    *   1350
+*    *   1077
 
+    *
     *   B156
 
-    *   B156 Bautzen, Goethestraße
+    *   B156 Elsterheide, D
 
-    *   51.17553
+    *   51.52664
 
-    *   14.442
+    *   14.21534
 
 
-*    *   1351
+*    *   1078
 
+    *
+    *   B156
+
+    *   B156 Elsterheide, C
+
+    *   51.53932
+
+    *   14.18652
+
+
+*    *   1079
+
+    *
+    *   B156
+
+    *   B156 Elsterheide, B
+
+    *   51.54086
+
+    *   14.18224
+
+
+*    *   1080
+
+    *
     *   B156
 
     *   B156 Elsterheide, A
 
-    *   51.53932
+    *   51.55247
 
-    *   14.18657
+    *   14.14697
 
 
-*    *   1352
+*    *   1081
 
+    *
+    *   B158
+
+    *   B158 Bad Freienwalde (Oder), Schiffmühler Straße
+
+    *   52.7905
+
+    *   14.04639
+
+
+*    *   1082
+
+    *
+    *   B158
+
+    *   B158 Werneuchen, D
+
+    *   52.63916
+
+    *   13.74935
+
+
+*    *   1083
+
+    *
     *   B158
 
     *   B158 Werneuchen, C
@@ -14933,19 +13055,21 @@ Gültig ab 1. Dezember 2019
     *   13.7433
 
 
-*    *   1353
+*    *   1084
 
+    *
     *   B158
 
     *   B158 Werneuchen, A
 
-    *   52.63204
+    *   52.63202
 
-    *   13.73991
+    *   13.73987
 
 
-*    *   1354
+*    *   1085
 
+    *
     *   B158
 
     *   B158 Werneuchen, B
@@ -14955,19 +13079,21 @@ Gültig ab 1. Dezember 2019
     *   13.73831
 
 
-*    *   1355
+*    *   1086
 
+    *
     *   B167
 
-    *   B167 Temnitztal, A
+    *   B167 Temnitztal
 
     *   52.87681
 
     *   12.62332
 
 
-*    *   1356
+*    *   1087
 
+    *
     *   B167
 
     *   B167 Neuruppin, B
@@ -14977,8 +13103,9 @@ Gültig ab 1. Dezember 2019
     *   12.76742
 
 
-*    *   1357
+*    *   1088
 
+    *
     *   B167
 
     *   B167 Neuruppin, A
@@ -14988,19 +13115,9 @@ Gültig ab 1. Dezember 2019
     *   12.76929
 
 
-*    *   1358
+*    *   1089
 
-    *   B167
-
-    *   B167 Löwenberger Land, A
-
-    *   52.89846
-
-    *   13.15657
-
-
-*    *   1359
-
+    *
     *   B167
 
     *   B167 Liebenwalde, Hammerallee
@@ -15010,19 +13127,21 @@ Gültig ab 1. Dezember 2019
     *   13.41116
 
 
-*    *   1360
+*    *   1090
 
+    *
     *   B167
 
     *   B167 Schorfheide, Finowfurt, A
 
-    *   52.84972
+    *   52.84966
 
-    *   13.68597
+    *   13.68638
 
 
-*    *   1361
+*    *   1091
 
+    *
     *   B167
 
     *   B167 Schorfheide, Finowfurt, B
@@ -15032,8 +13151,9 @@ Gültig ab 1. Dezember 2019
     *   13.68791
 
 
-*    *   1362
+*    *   1092
 
+    *
     *   B167
 
     *   B167 Neuhardenberg, B
@@ -15043,63 +13163,57 @@ Gültig ab 1. Dezember 2019
     *   14.21842
 
 
-*    *   1363
+*    *   1093
 
-    *   B168
-
-    *   B168 Turnow-Preilack, B
-
-    *   51.87496
-
-    *   14.37667
-
-
-*    *   1364
-
+    *
     *   B169
 
-    *   B169 Lößnitz, Lessingstraße
+    *   B169 Plessa, Hauptstraße
 
-    *   50.61105
+    *   51.46436
 
-    *   12.72205
+    *   13.6126
 
 
-*    *   1365
+*    *   1094
 
+    *
     *   B169
 
-    *   B169 Rodewisch, Straße des Friedens
+    *   B169 Chemnitz, D
 
-    *   50.53113
+    *   50.8718
 
-    *   12.41256
+    *   12.97067
 
 
-*    *   1366
+*    *   1095
 
+    *
     *   B169
 
-    *   B169 Auerbach/Vogtl.
+    *   B169 Chemnitz, B
 
-    *   50.50053
+    *   50.84849
 
-    *   12.39693
+    *   12.94412
 
 
-*    *   1367
+*    *   1096
 
+    *
     *   B169
 
-    *   B169 Falkenstein/Vogtl., A
+    *   B169 Rodewisch, B
 
-    *   50.47356
+    *   50.53212
 
-    *   12.35178
+    *   12.43125
 
 
-*    *   1368
+*    *   1097
 
+    *
     *   B170
 
     *   B170 Altenberg, Bauweg
@@ -15109,19 +13223,21 @@ Gültig ab 1. Dezember 2019
     *   13.72033
 
 
-*    *   1369
+*    *   1098
 
+    *
     *   B170
 
-    *   B170 Altenberg, B
+    *   B170 Altenberg, C
 
     *   50.80597
 
     *   13.67633
 
 
-*    *   1370
+*    *   1099
 
+    *
     *   B170
 
     *   B170 Altenberg, Standspur Kipsdorf
@@ -15131,8 +13247,9 @@ Gültig ab 1. Dezember 2019
     *   13.68611
 
 
-*    *   1371
+*    *   1100
 
+    *
     *   B171
 
     *   B171 Olbernhau, Heckenweg
@@ -15142,41 +13259,9 @@ Gültig ab 1. Dezember 2019
     *   13.3226
 
 
-*    *   1372
+*    *   1101
 
-    *   B171
-
-    *   B171 Sayda, Platz der Opfer des Faschismus
-
-    *   50.71264
-
-    *   13.41945
-
-
-*    *   1373
-
-    *   B171
-
-    *   B171 Hartmannsdorf-Reichenau, Butterstraße
-
-    *   50.80246
-
-    *   13.56384
-
-
-*    *   1374
-
-    *   B173
-
-    *   B173 Lichtenfels
-
-    *   50.15246
-
-    *   11.12442
-
-
-*    *   1375
-
+    *
     *   B173
 
     *   B173 Lichtenfels, Kiesgewinnung Trieb
@@ -15186,8 +13271,9 @@ Gültig ab 1. Dezember 2019
     *   11.12684
 
 
-*    *   1376
+*    *   1102
 
+    *
     *   B173
 
     *   B173 Redwitz an der Rodach, B
@@ -15197,8 +13283,9 @@ Gültig ab 1. Dezember 2019
     *   11.20222
 
 
-*    *   1377
+*    *   1103
 
+    *
     *   B173
 
     *   B173 Redwitz an der Rodach, A
@@ -15208,8 +13295,9 @@ Gültig ab 1. Dezember 2019
     *   11.21139
 
 
-*    *   1378
+*    *   1104
 
+    *
     *   B173
 
     *   B173 Marktrodach, B
@@ -15219,8 +13307,9 @@ Gültig ab 1. Dezember 2019
     *   11.42567
 
 
-*    *   1379
+*    *   1105
 
+    *
     *   B173
 
     *   B173 Wallenfels, B
@@ -15230,8 +13319,9 @@ Gültig ab 1. Dezember 2019
     *   11.44812
 
 
-*    *   1380
+*    *   1106
 
+    *
     *   B173
 
     *   B173 Wallenfels, Schneidmühlstraße
@@ -15241,8 +13331,9 @@ Gültig ab 1. Dezember 2019
     *   11.52605
 
 
-*    *   1381
+*    *   1107
 
+    *
     *   B173
 
     *   B173 Schwarzenbach am Wald, B
@@ -15252,19 +13343,21 @@ Gültig ab 1. Dezember 2019
     *   11.58341
 
 
-*    *   1382
+*    *   1108
 
+    *
     *   B173
 
-    *   B173 Plauen
+    *   B173 Plauen, B
 
     *   50.49943
 
     *   12.19177
 
 
-*    *   1383
+*    *   1109
 
+    *
     *   B173
 
     *   B173 Zwickau, B
@@ -15274,8 +13367,9 @@ Gültig ab 1. Dezember 2019
     *   12.46342
 
 
-*    *   1384
+*    *   1110
 
+    *
     *   B173
 
     *   B173 Bernsdorf
@@ -15285,8 +13379,9 @@ Gültig ab 1. Dezember 2019
     *   12.67131
 
 
-*    *   1385
+*    *   1111
 
+    *
     *   B173
 
     *   B173 Flöha
@@ -15296,19 +13391,9 @@ Gültig ab 1. Dezember 2019
     *   13.05775
 
 
-*    *   1386
+*    *   1112
 
-    *   B173
-
-    *   B173 Oederan, Ringstraße
-
-    *   50.86838
-
-    *   13.18924
-
-
-*    *   1387
-
+    *
     *   B173
 
     *   B173 Freiberg
@@ -15318,19 +13403,9 @@ Gültig ab 1. Dezember 2019
     *   13.35867
 
 
-*    *   1388
+*    *   1113
 
-    *   B173
-
-    *   B173 Dresden, Coventrystraße
-
-    *   51.04985
-
-    *   13.67
-
-
-*    *   1389
-
+    *
     *   B174
 
     *   B174 Marienberg, Rastplatz
@@ -15340,8 +13415,9 @@ Gültig ab 1. Dezember 2019
     *   13.22201
 
 
-*    *   1390
+*    *   1114
 
+    *
     *   B174
 
     *   B174 Wolkenstein, Heinzebank
@@ -15351,8 +13427,9 @@ Gültig ab 1. Dezember 2019
     *   13.11893
 
 
-*    *   1391
+*    *   1115
 
+    *
     *   B174
 
     *   B174 Großolbersdorf, Rastplatz der Freundschaft
@@ -15362,8 +13439,9 @@ Gültig ab 1. Dezember 2019
     *   13.11025
 
 
-*    *   1392
+*    *   1116
 
+    *
     *   B175
 
     *   B175 Zwickau, Fernblick
@@ -15373,8 +13451,9 @@ Gültig ab 1. Dezember 2019
     *   12.43056
 
 
-*    *   1393
+*    *   1117
 
+    *
     *   B175
 
     *   B175 Zwickau, Alberthöhe
@@ -15384,8 +13463,9 @@ Gültig ab 1. Dezember 2019
     *   12.45467
 
 
-*    *   1394
+*    *   1118
 
+    *
     *   B175
 
     *   B175 Glauchau
@@ -15395,8 +13475,9 @@ Gültig ab 1. Dezember 2019
     *   12.52958
 
 
-*    *   1395
+*    *   1119
 
+    *
     *   B175
 
     *   B175 Hartha, C
@@ -15406,8 +13487,9 @@ Gültig ab 1. Dezember 2019
     *   12.96265
 
 
-*    *   1396
+*    *   1120
 
+    *
     *   B175
 
     *   B175 Hartha, A
@@ -15417,8 +13499,9 @@ Gültig ab 1. Dezember 2019
     *   13.01061
 
 
-*    *   1397
+*    *   1121
 
+    *
     *   B175
 
     *   B175 Döbeln, D
@@ -15428,8 +13511,9 @@ Gültig ab 1. Dezember 2019
     *   13.14016
 
 
-*    *   1398
+*    *   1122
 
+    *
     *   B175
 
     *   B175 Döbeln, E
@@ -15439,30 +13523,21 @@ Gültig ab 1. Dezember 2019
     *   13.14449
 
 
-*    *   1399
+*    *   1123
 
+    *
     *   B175
 
     *   B175 Döbeln, F
 
-    *   51.12075
+    *   51.12074
 
-    *   13.15032
-
-
-*    *   1400
-
-    *   B176
-
-    *   B176 Straußfurt, Straße der Jugend
-
-    *   51.16142
-
-    *   10.99887
+    *   13.15051
 
 
-*    *   1401
+*    *   1124
 
+    *
     *   B176
 
     *   B176 Groitzsch, B
@@ -15472,8 +13547,9 @@ Gültig ab 1. Dezember 2019
     *   12.31935
 
 
-*    *   1402
+*    *   1125
 
+    *
     *   B176
 
     *   B176 Borna
@@ -15483,8 +13559,9 @@ Gültig ab 1. Dezember 2019
     *   12.48616
 
 
-*    *   1403
+*    *   1126
 
+    *
     *   B176
 
     *   B176 Colditz, C
@@ -15494,8 +13571,9 @@ Gültig ab 1. Dezember 2019
     *   12.84177
 
 
-*    *   1404
+*    *   1127
 
+    *
     *   B179
 
     *   B179 Bestensee, Pätz, Fernstraße, B
@@ -15505,8 +13583,9 @@ Gültig ab 1. Dezember 2019
     *   13.66712
 
 
-*    *   1405
+*    *   1128
 
+    *
     *   B179
 
     *   B179 Bestensee, Pätz, Fernstraße, A
@@ -15516,52 +13595,9 @@ Gültig ab 1. Dezember 2019
     *   13.66649
 
 
-*    *   1406
+*    *   1129
 
-    *   B179
-
-    *   B179 Königs Wusterhausen, Zeesen, Alte Hauptstr.
-
-    *   52.26483
-
-    *   13.63386
-
-
-*    *   1407
-
-    *   B180
-
-    *   B180 Gornau/Erzgeb., Am Berg
-
-    *   50.78419
-
-    *   13.05049
-
-
-*    *   1408
-
-    *   B180
-
-    *   B180 Gornau/Erzgeb., An der Kuppe
-
-    *   50.76024
-
-    *   13.03008
-
-
-*    *   1409
-
-    *   B180
-
-    *   B180 Stollberg/Erzgeb.
-
-    *   50.70912
-
-    *   12.75936
-
-
-*    *   1410
-
+    *
     *   B180
 
     *   B180 Callenberg, B
@@ -15571,8 +13607,9 @@ Gültig ab 1. Dezember 2019
     *   12.63434
 
 
-*    *   1411
+*    *   1130
 
+    *
     *   B180
 
     *   B180 Altenburg, Elie-Wiesel-Straße, B
@@ -15582,52 +13619,33 @@ Gültig ab 1. Dezember 2019
     *   12.42599
 
 
-*    *   1412
+*    *   1131
 
+    *
     *   B180
 
-    *   B180 Kriebitzsch, Industriegebiet Altenburger Str.
+    *   B180 Kriebitzsch, Industriegebiet Altenburger Straße
 
     *   51.03227
 
     *   12.3314
 
 
-*    *   1413
+*    *   1132
 
+    *
     *   B180
 
-    *   B180 Zeitz, Nicolaiplatz
-
-    *   51.05055
-
-    *   12.13066
-
-
-*    *   1414
-
-    *   B180
-
-    *   B180 Zeitz, A
+    *   B180 Zeitz, B
 
     *   51.05705
 
     *   12.11785
 
 
-*    *   1415
+*    *   1133
 
-    *   B180
-
-    *   B180 Zeitz, B
-
-    *   51.05586
-
-    *   12.11428
-
-
-*    *   1416
-
+    *
     *   B180
 
     *   B180 Zeitz, C
@@ -15637,30 +13655,45 @@ Gültig ab 1. Dezember 2019
     *   12.11128
 
 
-*    *   1417
+*    *   1134
 
+    *
+    *   B180
+
+    *   B180 Aschersleben, B
+
+    *   51.79824
+
+    *   11.4599
+
+
+*    *   1135
+
+    *
     *   B182
 
-    *   B182 Kemberg, Lammsdorf, Feuerwehr Rackith
+    *   B182 Belgern-Schildau, H
 
-    *   51.80525
+    *   51.41791
 
-    *   12.6726
+    *   13.18182
 
 
-*    *   1418
+*    *   1136
 
+    *
     *   B183
 
-    *   B183 Südliches Anhalt, Gnetscher Straße, A
+    *   B183 Torgau, A
 
-    *   51.67814
+    *   51.55566
 
-    *   12.07459
+    *   12.96636
 
 
-*    *   1419
+*    *   1137
 
+    *
     *   B183
 
     *   B183 Arzberg
@@ -15670,30 +13703,33 @@ Gültig ab 1. Dezember 2019
     *   13.11565
 
 
-*    *   1420
+*    *   1138
 
+    *
     *   B184
 
-    *   B184 Bitterfeld-Wolfen, Am Bad
+    *   B184 Bitterfeld-Wolfen, B
 
-    *   51.61577
+    *   51.68241
 
-    *   12.29415
-
-
-*    *   1421
-
-    *   B185
-
-    *   B185 Harzgerode, Langes Tal
-
-    *   51.6464
-
-    *   11.1128
+    *   12.27383
 
 
-*    *   1422
+*    *   1139
 
+    *
+    *   B184
+
+    *   B184 Bitterfeld-Wolfen, A
+
+    *   51.68341
+
+    *   12.27349
+
+
+*    *   1140
+
+    *
     *   B185
 
     *   B185 Köthen (Anhalt), Prosigker Kreisstraße, B
@@ -15703,8 +13739,9 @@ Gültig ab 1. Dezember 2019
     *   12.00125
 
 
-*    *   1423
+*    *   1141
 
+    *
     *   B185
 
     *   B185 Köthen (Anhalt), Prosigker Kreisstraße, A
@@ -15714,30 +13751,69 @@ Gültig ab 1. Dezember 2019
     *   11.99908
 
 
-*    *   1424
+*    *   1142
 
-    *   B185
+    *
+    *   B186
 
-    *   B185 Dessau-Roßlau, Oranienbaumer Chaussee, B
+    *   B186 Markranstädt, A
 
-    *   51.83332
+    *   51.29552
 
-    *   12.25837
+    *   12.22787
 
 
-*    *   1425
+*    *   1143
 
+    *
+    *   B186
+
+    *   B186 Markranstädt, B
+
+    *   51.2937
+
+    *   12.23406
+
+
+*    *   1144
+
+    *
+    *   B186
+
+    *   B186 Markranstädt, C
+
+    *   51.29283
+
+    *   12.23564
+
+
+*    *   1145
+
+    *
+    *   B186
+
+    *   B186 Markranstädt, D
+
+    *   51.2916
+
+    *   12.23686
+
+
+*    *   1146
+
+    *
     *   B187
 
-    *   B187 Lutherstadt Wittenberg, Potsdamer Ring
+    *   B187 Coswig (Anhalt), B
 
-    *   51.86396
+    *   51.89342
 
-    *   12.6589
+    *   12.34441
 
 
-*    *   1426
+*    *   1147
 
+    *
     *   B187
 
     *   B187 Schönewalde
@@ -15747,8 +13823,9 @@ Gültig ab 1. Dezember 2019
     *   13.1654
 
 
-*    *   1427
+*    *   1148
 
+    *
     *   B187A
 
     *   B187A Osternienburger Land, A
@@ -15758,8 +13835,9 @@ Gültig ab 1. Dezember 2019
     *   12.01562
 
 
-*    *   1428
+*    *   1149
 
+    *
     *   B188
 
     *   B188 Uetze, B
@@ -15769,8 +13847,9 @@ Gültig ab 1. Dezember 2019
     *   10.09698
 
 
-*    *   1429
+*    *   1150
 
+    *
     *   B188
 
     *   B188 Meinersen
@@ -15780,19 +13859,21 @@ Gültig ab 1. Dezember 2019
     *   10.31675
 
 
-*    *   1430
+*    *   1151
 
+    *
     *   B188
 
-    *   B188 Meinersen, Dorfstraße
+    *   B188 Ahnsen, L414
 
-    *   52.48406
+    *   52.48024
 
-    *   10.33474
+    *   10.34094
 
 
-*    *   1431
+*    *   1152
 
+    *
     *   B188
 
     *   B188 Gifhorn, Fahle Heide
@@ -15802,19 +13883,9 @@ Gültig ab 1. Dezember 2019
     *   10.47958
 
 
-*    *   1432
+*    *   1153
 
-    *   B188
-
-    *   B188 Wolfsburg
-
-    *   52.45682
-
-    *   10.76333
-
-
-*    *   1433
-
+    *
     *   B188
 
     *   B188 Rathenow, A
@@ -15824,8 +13895,9 @@ Gültig ab 1. Dezember 2019
     *   12.40655
 
 
-*    *   1434
+*    *   1154
 
+    *
     *   B188
 
     *   B188 Stechow-Ferchesar
@@ -15835,8 +13907,9 @@ Gültig ab 1. Dezember 2019
     *   12.41753
 
 
-*    *   1435
+*    *   1155
 
+    *
     *   B189
 
     *   B189 Rochau, B
@@ -15846,8 +13919,9 @@ Gültig ab 1. Dezember 2019
     *   11.77935
 
 
-*    *   1436
+*    *   1156
 
+    *
     *   B189
 
     *   B189 Seehausen (Altmark), B
@@ -15857,8 +13931,9 @@ Gültig ab 1. Dezember 2019
     *   11.7315
 
 
-*    *   1437
+*    *   1157
 
+    *
     *   B189
 
     *   B189 Seehausen (Altmark), A
@@ -15868,30 +13943,21 @@ Gültig ab 1. Dezember 2019
     *   11.73144
 
 
-*    *   1438
+*    *   1158
 
+    *
     *   B189
 
-    *   B189 Seehausen (Altmark), Märsche
+    *   B189 Heiligengrabe, B
 
-    *   52.9721
+    *   53.14642
 
-    *   11.73506
-
-
-*    *   1439
-
-    *   B189
-
-    *   B189 Heiligengrabe, Am Spatzenberg
-
-    *   53.14363
-
-    *   12.35674
+    *   12.37976
 
 
-*    *   1440
+*    *   1159
 
+    *
     *   B190
 
     *   B190 Seehausen (Altmark)
@@ -15901,8 +13967,9 @@ Gültig ab 1. Dezember 2019
     *   11.72095
 
 
-*    *   1441
+*    *   1160
 
+    *
     *   B191
 
     *   B191 Zernien, E
@@ -15912,19 +13979,33 @@ Gültig ab 1. Dezember 2019
     *   10.88036
 
 
-*    *   1442
+*    *   1161
 
+    *
     *   B191
 
     *   B191 Zernien, B
 
-    *   53.07033
+    *   53.07036
 
-    *   10.92701
+    *   10.92695
 
 
-*    *   1443
+*    *   1162
 
+    *
+    *   B191
+
+    *   B191 Malliß, Ludwigsluster Straße, B
+
+    *   53.21683
+
+    *   11.34935
+
+
+*    *   1163
+
+    *
     *   B192
 
     *   B192 Goldberg, Plauer Chaussee
@@ -15934,8 +14015,9 @@ Gültig ab 1. Dezember 2019
     *   12.08948
 
 
-*    *   1444
+*    *   1164
 
+    *
     *   B192
 
     *   B192 Neu Poserin, B
@@ -15945,8 +14027,9 @@ Gültig ab 1. Dezember 2019
     *   12.20927
 
 
-*    *   1445
+*    *   1165
 
+    *
     *   B192
 
     *   B192 Klink, B
@@ -15956,19 +14039,57 @@ Gültig ab 1. Dezember 2019
     *   12.62984
 
 
-*    *   1446
+*    *   1166
 
+    *
     *   B192
 
     *   B192 Möllenhagen, A
 
-    *   53.52321
+    *   53.52352
 
-    *   12.92136
+    *   12.9185
 
 
-*    *   1447
+*    *   1167
 
+    *
+    *   B192
+
+    *   B192 Möllenhagen, B
+
+    *   53.52323
+
+    *   12.92132
+
+
+*    *   1168
+
+    *
+    *   B193
+
+    *   B193 Penzlin, Warener Chaussee, B
+
+    *   53.49997
+
+    *   13.06912
+
+
+*    *   1169
+
+    *
+    *   B194
+
+    *   B194 Reuterstadt Stavenhagen, Schultetusstraße, A
+
+    *   53.70538
+
+    *   12.91165
+
+
+*    *   1170
+
+    *
     *   B194
 
     *   B194 Borrentin, B
@@ -15978,8 +14099,9 @@ Gültig ab 1. Dezember 2019
     *   12.96924
 
 
-*    *   1448
+*    *   1171
 
+    *
     *   B194
 
     *   B194 Borrentin, Lindenhof, D
@@ -15989,41 +14111,9 @@ Gültig ab 1. Dezember 2019
     *   13.00137
 
 
-*    *   1449
+*    *   1172
 
-    *   B195
-
-    *   B195 Lenzen (Elbe), Zum Seeblick
-
-    *   53.09435
-
-    *   11.48958
-
-
-*    *   1450
-
-    *   B195
-
-    *   B195 Lenzerwische, I
-
-    *   53.0864
-
-    *   11.30578
-
-
-*    *   1451
-
-    *   B195
-
-    *   B195 Lenzerwische, C
-
-    *   53.09845
-
-    *   11.28402
-
-
-*    *   1452
-
+    *
     *   B195
 
     *   B195 Amt Neuhaus, Neuhaus (Elbe), Am Markt
@@ -16033,8 +14123,9 @@ Gültig ab 1. Dezember 2019
     *   10.9266
 
 
-*    *   1453
+*    *   1173
 
+    *
     *   B195
 
     *   B195 Lüttow-Valluhn
@@ -16044,8 +14135,9 @@ Gültig ab 1. Dezember 2019
     *   10.89676
 
 
-*    *   1454
+*    *   1174
 
+    *
     *   B195
 
     *   B195 Zarrentin am Schaalsee, A
@@ -16055,8 +14147,9 @@ Gültig ab 1. Dezember 2019
     *   10.91564
 
 
-*    *   1455
+*    *   1175
 
+    *
     *   B196
 
     *   B196 Bergen auf Rügen, Silvitz
@@ -16066,8 +14159,9 @@ Gültig ab 1. Dezember 2019
     *   13.51028
 
 
-*    *   1456
+*    *   1176
 
+    *
     *   B196
 
     *   B196 Zirkow, C
@@ -16077,30 +14171,9 @@ Gültig ab 1. Dezember 2019
     *   13.57036
 
 
-*    *   1457
+*    *   1177
 
-    *   B196
-
-    *   B196 Baabe, Göhrener Weg
-
-    *   54.36136
-
-    *   13.70493
-
-
-*    *   1458
-
-    *   B197
-
-    *   B197 Friedland, Bauersheimer Weg, B
-
-    *   53.67736
-
-    *   13.56312
-
-
-*    *   1459
-
+    *
     *   B198
 
     *   B198 Stuer
@@ -16110,30 +14183,21 @@ Gültig ab 1. Dezember 2019
     *   12.3065
 
 
-*    *   1460
+*    *   1178
 
+    *
     *   B198
 
-    *   B198 Vipperow, B
+    *   B198 Vipperow
 
-    *   53.33049
+    *   53.3307
 
-    *   12.62988
-
-
-*    *   1461
-
-    *   B198
-
-    *   B198 Vipperow, A
-
-    *   53.33089
-
-    *   12.63204
+    *   12.63097
 
 
-*    *   1462
+*    *   1179
 
+    *
     *   B198
 
     *   B198 Wesenberg
@@ -16143,19 +14207,33 @@ Gültig ab 1. Dezember 2019
     *   12.89018
 
 
-*    *   1463
+*    *   1180
 
+    *
+    *   B198
+
+    *   B198 Prenzlau, Neubrandenburger Straße, B
+
+    *   53.31974
+
+    *   13.84726
+
+
+*    *   1181
+
+    *
     *   B198
 
     *   B198 Uckerfelde, Parkplatz
 
-    *   53.26678
+    *   53.2668
 
-    *   13.94467
+    *   13.94468
 
 
-*    *   1464
+*    *   1182
 
+    *
     *   B198
 
     *   B198 Uckerfelde
@@ -16165,8 +14243,21 @@ Gültig ab 1. Dezember 2019
     *   13.94881
 
 
-*    *   1465
+*    *   1183
 
+    *
+    *   B199
+
+    *   B199 Leck, Flensburger Straße, B
+
+    *   54.76287
+
+    *   8.98163
+
+
+*    *   1184
+
+    *
     *   B199
 
     *   B199 Leck, Petersburger Weg
@@ -16176,8 +14267,9 @@ Gültig ab 1. Dezember 2019
     *   8.98781
 
 
-*    *   1466
+*    *   1185
 
+    *
     *   B199
 
     *   B199 Stadum
@@ -16187,8 +14279,9 @@ Gültig ab 1. Dezember 2019
     *   9.01707
 
 
-*    *   1467
+*    *   1186
 
+    *
     *   B199
 
     *   B199 Stadum, Nordstadum
@@ -16198,8 +14291,9 @@ Gültig ab 1. Dezember 2019
     *   9.07419
 
 
-*    *   1468
+*    *   1187
 
+    *
     *   B199
 
     *   B199 Wallsbüll
@@ -16209,8 +14303,9 @@ Gültig ab 1. Dezember 2019
     *   9.22093
 
 
-*    *   1469
+*    *   1188
 
+    *
     *   B199
 
     *   B199 Steinbergkirche
@@ -16220,8 +14315,33 @@ Gültig ab 1. Dezember 2019
     *   9.7442
 
 
-*    *   1470
+*    *   1189
 
+    *
+    *   B199
+
+    *   B199 Gelting
+
+    *   54.74656
+
+    *   9.89388
+
+
+*    *   1190
+
+    *
+    *   B199
+
+    *   B199 Kappeln
+
+    *   54.66518
+
+    *   9.92087
+
+
+*    *   1191
+
+    *
     *   B200
 
     *   B200 Wanderup, A
@@ -16231,8 +14351,9 @@ Gültig ab 1. Dezember 2019
     *   9.33172
 
 
-*    *   1471
+*    *   1192
 
+    *
     *   B200
 
     *   B200 Schwesing
@@ -16242,8 +14363,9 @@ Gültig ab 1. Dezember 2019
     *   9.11796
 
 
-*    *   1472
+*    *   1193
 
+    *
     *   B201
 
     *   B201 Oster-Ohrstedt, B
@@ -16253,8 +14375,9 @@ Gültig ab 1. Dezember 2019
     *   9.27209
 
 
-*    *   1473
+*    *   1194
 
+    *
     *   B201
 
     *   B201 Silberstedt, B
@@ -16264,8 +14387,9 @@ Gültig ab 1. Dezember 2019
     *   9.35352
 
 
-*    *   1474
+*    *   1195
 
+    *
     *   B201
 
     *   B201 Silberstedt, A
@@ -16275,30 +14399,9 @@ Gültig ab 1. Dezember 2019
     *   9.39945
 
 
-*    *   1475
+*    *   1196
 
-    *   B201
-
-    *   B201 Twedt, Dorfstraße
-
-    *   54.59244
-
-    *   9.66992
-
-
-*    *   1476
-
-    *   B201
-
-    *   B201 Süderbrarup, Westenstraße
-
-    *   54.6368
-
-    *   9.7662
-
-
-*    *   1477
-
+    *
     *   B202
 
     *   B202 Tating
@@ -16308,8 +14411,9 @@ Gültig ab 1. Dezember 2019
     *   8.65881
 
 
-*    *   1478
+*    *   1197
 
+    *
     *   B202
 
     *   B202 Kotzenbüll, A
@@ -16319,8 +14423,9 @@ Gültig ab 1. Dezember 2019
     *   8.89256
 
 
-*    *   1479
+*    *   1198
 
+    *
     *   B202
 
     *   B202 Kotzenbüll, B
@@ -16330,8 +14435,9 @@ Gültig ab 1. Dezember 2019
     *   8.91848
 
 
-*    *   1480
+*    *   1199
 
+    *
     *   B202
 
     *   B202 Friedrichstadt, Am Deich, B
@@ -16341,8 +14447,9 @@ Gültig ab 1. Dezember 2019
     *   9.08911
 
 
-*    *   1481
+*    *   1200
 
+    *
     *   B202
 
     *   B202 Erfde, D
@@ -16352,8 +14459,21 @@ Gültig ab 1. Dezember 2019
     *   9.30712
 
 
-*    *   1482
+*    *   1201
 
+    *
+    *   B202
+
+    *   B202 Rastorf, B
+
+    *   54.27906
+
+    *   10.3197
+
+
+*    *   1202
+
+    *
     *   B202
 
     *   B202 Lammershagen
@@ -16363,19 +14483,9 @@ Gültig ab 1. Dezember 2019
     *   10.47711
 
 
-*    *   1483
+*    *   1203
 
-    *   B203
-
-    *   B203 Friedrichsgabekoog, Zum Deich
-
-    *   54.15836
-
-    *   8.95677
-
-
-*    *   1484
-
+    *
     *   B203
 
     *   B203 Heide
@@ -16385,8 +14495,9 @@ Gültig ab 1. Dezember 2019
     *   9.18271
 
 
-*    *   1485
+*    *   1204
 
+    *
     *   B203
 
     *   B203 Welmbüttel
@@ -16396,8 +14507,9 @@ Gültig ab 1. Dezember 2019
     *   9.25048
 
 
-*    *   1486
+*    *   1205
 
+    *
     *   B203
 
     *   B203 Tellingstedt
@@ -16407,19 +14519,45 @@ Gültig ab 1. Dezember 2019
     *   9.27222
 
 
-*    *   1487
+*    *   1206
 
+    *
     *   B203
 
-    *   B203 Elsdorf-Westermühlen
+    *   B203 Elsdorf-Westermühlen, C
+
+    *   54.25262
+
+    *   9.53305
+
+
+*    *   1207
+
+    *
+    *   B203
+
+    *   B203 Elsdorf-Westermühlen, B
+
+    *   54.25516
+
+    *   9.53343
+
+
+*    *   1208
+
+    *
+    *   B203
+
+    *   B203 Elsdorf-Westermühlen, A
 
     *   54.26622
 
     *   9.55119
 
 
-*    *   1488
+*    *   1209
 
+    *
     *   B203
 
     *   B203 Borgstedt
@@ -16429,8 +14567,9 @@ Gültig ab 1. Dezember 2019
     *   9.69594
 
 
-*    *   1489
+*    *   1210
 
+    *
     *   B203
 
     *   B203 Neu Duvenstedt, B
@@ -16440,8 +14579,9 @@ Gültig ab 1. Dezember 2019
     *   9.70463
 
 
-*    *   1490
+*    *   1211
 
+    *
     *   B203
 
     *   B203 Neu Duvenstedt, A
@@ -16451,8 +14591,9 @@ Gültig ab 1. Dezember 2019
     *   9.70341
 
 
-*    *   1491
+*    *   1212
 
+    *
     *   B203
 
     *   B203 Loose
@@ -16462,19 +14603,9 @@ Gültig ab 1. Dezember 2019
     *   9.89554
 
 
-*    *   1492
+*    *   1213
 
-    *   B203
-
-    *   B203 Damp, Moorholz
-
-    *   54.5686
-
-    *   9.9529
-
-
-*    *   1493
-
+    *
     *   B205
 
     *   B205 Negernbötel
@@ -16484,19 +14615,9 @@ Gültig ab 1. Dezember 2019
     *   10.23016
 
 
-*    *   1494
+*    *   1214
 
-    *   B206
-
-    *   B206 Itzehoe, Meifortweg
-
-    *   53.93107
-
-    *   9.50714
-
-
-*    *   1495
-
+    *
     *   B206
 
     *   B206 Itzehoe, Kieler Landstraße
@@ -16506,8 +14627,9 @@ Gültig ab 1. Dezember 2019
     *   9.54886
 
 
-*    *   1496
+*    *   1215
 
+    *
     *   B206
 
     *   B206 Itzehoe
@@ -16517,8 +14639,9 @@ Gültig ab 1. Dezember 2019
     *   9.57099
 
 
-*    *   1497
+*    *   1216
 
+    *
     *   B206
 
     *   B206 Lohbarbek
@@ -16528,8 +14651,9 @@ Gültig ab 1. Dezember 2019
     *   9.63594
 
 
-*    *   1498
+*    *   1217
 
+    *
     *   B206
 
     *   B206 Föhrden-Barl, B
@@ -16539,8 +14663,9 @@ Gültig ab 1. Dezember 2019
     *   9.7999
 
 
-*    *   1499
+*    *   1218
 
+    *
     *   B206
 
     *   B206 Föhrden-Barl, Hauptstraße, C
@@ -16550,8 +14675,9 @@ Gültig ab 1. Dezember 2019
     *   9.82822
 
 
-*    *   1500
+*    *   1219
 
+    *
     *   B206
 
     *   B206 Buchholz (Forstgutsbez.), A
@@ -16561,41 +14687,45 @@ Gültig ab 1. Dezember 2019
     *   10.0633
 
 
-*    *   1501
+*    *   1220
 
+    *
     *   B206
 
-    *   B206 Buchholz (Forstgutsbez.), D
+    *   B206 Buchholz (Forstgutsbez.), C
 
     *   53.91984
 
     *   10.09877
 
 
-*    *   1502
+*    *   1221
 
+    *
     *   B206
 
-    *   B206 Buchholz (Forstgutsbez.), E
+    *   B206 Buchholz (Forstgutsbez.), D
 
     *   53.91871
 
     *   10.11915
 
 
-*    *   1503
+*    *   1222
 
+    *
     *   B206
 
-    *   B206 Buchholz (Forstgutsbez.), F
+    *   B206 Buchholz (Forstgutsbez.), E
 
     *   53.92155
 
     *   10.15388
 
 
-*    *   1504
+*    *   1223
 
+    *
     *   B207
 
     *   B207 Talkau
@@ -16605,8 +14735,9 @@ Gültig ab 1. Dezember 2019
     *   10.56322
 
 
-*    *   1505
+*    *   1224
 
+    *
     *   B207
 
     *   B207 Alt Mölln
@@ -16616,8 +14747,9 @@ Gültig ab 1. Dezember 2019
     *   10.65518
 
 
-*    *   1506
+*    *   1225
 
+    *
     *   B208
 
     *   B208 Kulpin
@@ -16627,8 +14759,9 @@ Gültig ab 1. Dezember 2019
     *   10.67865
 
 
-*    *   1507
+*    *   1226
 
+    *
     *   B208
 
     *   B208 Ziethen, B
@@ -16638,30 +14771,9 @@ Gültig ab 1. Dezember 2019
     *   10.85344
 
 
-*    *   1508
+*    *   1227
 
-    *   B208
-
-    *   B208 Gadebusch, Jarmstorfer Straße
-
-    *   53.70564
-
-    *   11.10176
-
-
-*    *   1509
-
-    *   B208
-
-    *   B208 Bobitz, Vierhusen
-
-    *   53.78659
-
-    *   11.33144
-
-
-*    *   1510
-
+    *
     *   B209
 
     *   B209 Artlenburg, B
@@ -16671,41 +14783,33 @@ Gültig ab 1. Dezember 2019
     *   10.5181
 
 
-*    *   1511
+*    *   1228
 
+    *
     *   B209
 
-    *   B209 Brietlingen, Auf den Bergen
+    *   B209 Embsen
 
-    *   53.34322
+    *   53.17724
 
-    *   10.45718
+    *   10.31534
 
 
-*    *   1512
+*    *   1229
 
+    *
     *   B209
 
-    *   B209 Amelinghausen, Triangel
-
-    *   53.13285
-
-    *   10.22056
-
-
-*    *   1513
-
-    *   B209
-
-    *   B209 Rehlingen, B
+    *   B209 Rehlingen
 
     *   53.09729
 
     *   10.12802
 
 
-*    *   1514
+*    *   1230
 
+    *
     *   B209
 
     *   B209 Bad Fallingbostel, B
@@ -16715,8 +14819,9 @@ Gültig ab 1. Dezember 2019
     *   9.69367
 
 
-*    *   1515
+*    *   1231
 
+    *
     *   B209
 
     *   B209 Bad Fallingbostel, A
@@ -16726,8 +14831,9 @@ Gültig ab 1. Dezember 2019
     *   9.66844
 
 
-*    *   1516
+*    *   1232
 
+    *
     *   B209
 
     *   B209 Rethem (Aller)
@@ -16737,8 +14843,9 @@ Gültig ab 1. Dezember 2019
     *   9.3425
 
 
-*    *   1517
+*    *   1233
 
+    *
     *   B209
 
     *   B209 Heemsen, B
@@ -16748,52 +14855,57 @@ Gültig ab 1. Dezember 2019
     *   9.29472
 
 
-*    *   1518
+*    *   1234
 
+    *
+    *   B210
+
+    *   B210 Aurich, Wittmunder Straße, B
+
+    *   53.54808
+
+    *   7.6308
+
+
+*    *   1235
+
+    *
+    *   B210
+
+    *   B210 Aurich, Wittmunder Straße, A
+
+    *   53.5488
+
+    *   7.6371
+
+
+*    *   1236
+
+    *
     *   B210
 
     *   B210 Jever, Annenburg, B
 
-    *   53.57873
+    *   53.57876
 
-    *   7.863
+    *   7.8631
 
 
-*    *   1519
+*    *   1237
 
+    *
     *   B210
 
     *   B210 Jever, Ottenburger Weg
 
-    *   53.57947
+    *   53.57945
 
-    *   7.86698
-
-
-*    *   1520
-
-    *   B211
-
-    *   B211 Ovelgönne, Linebroker Straße, A
-
-    *   53.29175
-
-    *   8.39868
+    *   7.86691
 
 
-*    *   1521
+*    *   1238
 
-    *   B212
-
-    *   B212 Bremerhaven, Columbusstraße, B
-
-    *   53.53698
-
-    *   8.58616
-
-
-*    *   1522
-
+    *
     *   B212
 
     *   B212 Brake (Unterweser), B
@@ -16803,19 +14915,9 @@ Gültig ab 1. Dezember 2019
     *   8.47468
 
 
-*    *   1523
+*    *   1239
 
-    *   B212
-
-    *   B212 Ganderkesee, Friedensweg
-
-    *   53.09612
-
-    *   8.53106
-
-
-*    *   1524
-
+    *
     *   B212
 
     *   B212 Ganderkesee
@@ -16825,8 +14927,9 @@ Gültig ab 1. Dezember 2019
     *   8.52718
 
 
-*    *   1525
+*    *   1240
 
+    *
     *   B213
 
     *   B213 Nordhorn, B
@@ -16836,85 +14939,69 @@ Gültig ab 1. Dezember 2019
     *   7.12755
 
 
-*    *   1526
+*    *   1241
 
+    *
     *   B213
 
     *   B213 Haselünne, Schaftrift
 
-    *   52.63916
+    *   52.63925
 
-    *   7.45712
+    *   7.45735
 
 
-*    *   1527
+*    *   1242
 
+    *
     *   B213
 
-    *   B213 Haselünne, Neuer Grund, B
-
-    *   52.65485
-
-    *   7.47612
-
-
-*    *   1528
-
-    *   B213
-
-    *   B213 Lastrup, E
+    *   B213 Lastrup, C
 
     *   52.78185
 
     *   7.83047
 
 
-*    *   1529
+*    *   1243
 
+    *
     *   B213
 
-    *   B213 Lastrup, D
+    *   B213 Lastrup, B
 
     *   52.78376
 
     *   7.83423
 
 
-*    *   1530
+*    *   1244
 
+    *
     *   B213
 
-    *   B213 Lastrup, C
+    *   B213 Lastrup, A
 
     *   52.80774
 
     *   7.89575
 
 
-*    *   1531
+*    *   1245
 
+    *
     *   B213
 
-    *   B213 Lastrup, B
+    *   B213 Ganderkesee, B
 
-    *   52.81173
+    *   53.01782
 
-    *   7.90961
-
-
-*    *   1532
-
-    *   B213
-
-    *   B213 Lastrup, A
-
-    *   52.8121
-
-    *   7.91231
+    *   8.56986
 
 
-*    *   1533
+*    *   1246
 
+    *
     *   B214
 
     *   B214 Lingen (Ems), A
@@ -16924,8 +15011,9 @@ Gültig ab 1. Dezember 2019
     *   7.42785
 
 
-*    *   1534
+*    *   1247
 
+    *
     *   B214
 
     *   B214 Lingen (Ems), B
@@ -16935,8 +15023,9 @@ Gültig ab 1. Dezember 2019
     *   7.43378
 
 
-*    *   1535
+*    *   1248
 
+    *
     *   B214
 
     *   B214 Fürstenau, Lingener Straße, B
@@ -16946,30 +15035,33 @@ Gültig ab 1. Dezember 2019
     *   7.62128
 
 
-*    *   1536
+*    *   1249
 
+    *
     *   B214
 
     *   B214 Fürstenau, A
 
-    *   52.51377
+    *   52.51379
 
-    *   7.67894
+    *   7.67898
 
 
-*    *   1537
+*    *   1250
 
+    *
     *   B214
 
     *   B214 Fürstenau, D
 
-    *   52.52243
+    *   52.52255
 
-    *   7.76472
+    *   7.7651
 
 
-*    *   1538
+*    *   1251
 
+    *
     *   B214
 
     *   B214 Ankum
@@ -16979,8 +15071,21 @@ Gültig ab 1. Dezember 2019
     *   7.83523
 
 
-*    *   1539
+*    *   1252
 
+    *
+    *   B214
+
+    *   B214 Bersenbrück, B
+
+    *   52.55449
+
+    *   7.90866
+
+
+*    *   1253
+
+    *
     *   B214
 
     *   B214 Dinklage
@@ -16990,8 +15095,9 @@ Gültig ab 1. Dezember 2019
     *   8.09018
 
 
-*    *   1540
+*    *   1254
 
+    *
     *   B214
 
     *   B214 Steinfeld (Oldenburg)
@@ -17001,8 +15107,9 @@ Gültig ab 1. Dezember 2019
     *   8.19989
 
 
-*    *   1541
+*    *   1255
 
+    *
     *   B214
 
     *   B214 Rehden
@@ -17012,8 +15119,9 @@ Gültig ab 1. Dezember 2019
     *   8.51177
 
 
-*    *   1542
+*    *   1256
 
+    *
     *   B214
 
     *   B214 Hemsloh
@@ -17023,8 +15131,21 @@ Gültig ab 1. Dezember 2019
     *   8.53079
 
 
-*    *   1543
+*    *   1257
 
+    *
+    *   B214
+
+    *   B214 Wietzen
+
+    *   52.66276
+
+    *   9.04301
+
+
+*    *   1258
+
+    *
     *   B214
 
     *   B214 Steimbke, C
@@ -17034,8 +15155,9 @@ Gültig ab 1. Dezember 2019
     *   9.41022
 
 
-*    *   1544
+*    *   1259
 
+    *
     *   B214
 
     *   B214 Rodewald, C
@@ -17045,30 +15167,33 @@ Gültig ab 1. Dezember 2019
     *   9.44974
 
 
-*    *   1545
+*    *   1260
 
+    *
     *   B214
 
-    *   B214 Celle, Altencelle, Bruchkampweg
+    *   B214 Buchholz (Aller)
 
-    *   52.58413
+    *   52.67634
 
-    *   10.11972
+    *   9.68131
 
 
-*    *   1546
+*    *   1261
 
+    *
     *   B214
 
     *   B214 Eicklingen, B
 
-    *   52.53806
+    *   52.53796
 
-    *   10.21007
+    *   10.21025
 
 
-*    *   1547
+*    *   1262
 
+    *
     *   B214
 
     *   B214 Uetze, A
@@ -17078,8 +15203,9 @@ Gültig ab 1. Dezember 2019
     *   10.27373
 
 
-*    *   1548
+*    *   1263
 
+    *
     *   B214
 
     *   B214 Uetze, B
@@ -17089,8 +15215,9 @@ Gültig ab 1. Dezember 2019
     *   10.276
 
 
-*    *   1549
+*    *   1264
 
+    *
     *   B215
 
     *   B215 Rotenburg (Wümme), Kleekamp
@@ -17100,52 +15227,45 @@ Gültig ab 1. Dezember 2019
     *   9.37215
 
 
-*    *   1550
+*    *   1265
 
+    *
     *   B215
 
     *   B215 Kirchlinteln, A
 
-    *   53.02592
+    *   53.02593
 
-    *   9.2887
+    *   9.28869
 
 
-*    *   1551
+*    *   1266
 
+    *
     *   B215
 
     *   B215 Langwedel
 
     *   53.02386
 
-    *   9.28611
+    *   9.2861
 
 
-*    *   1552
+*    *   1267
 
+    *
     *   B215
 
     *   B215 Kirchlinteln, B
 
-    *   53.00277
+    *   53.00288
 
-    *   9.27027
-
-
-*    *   1553
-
-    *   B215
-
-    *   B215 Verden (Aller), Bertha-Benz-Straße
-
-    *   52.95489
-
-    *   9.24015
+    *   9.27031
 
 
-*    *   1554
+*    *   1268
 
+    *
     *   B215
 
     *   B215 Verden (Aller), B
@@ -17155,52 +15275,45 @@ Gültig ab 1. Dezember 2019
     *   9.23344
 
 
-*    *   1555
+*    *   1269
 
-    *   B215
+    *
+    *   B216
 
-    *   B215 Dörverden, Drübber, B
+    *   B216 Barendorf
 
-    *   52.81845
+    *   53.2299
 
-    *   9.19899
-
-
-*    *   1556
-
-    *   B215
-
-    *   B215 Raddestorf, Harrienstedt, B
-
-    *   52.43676
-
-    *   8.94777
+    *   10.51581
 
 
-*    *   1557
+*    *   1270
 
+    *
     *   B216
 
     *   B216 Dahlenburg, A
 
-    *   53.19083
+    *   53.19084
 
-    *   10.65891
+    *   10.6589
 
 
-*    *   1558
+*    *   1271
 
+    *
     *   B216
 
     *   B216 Dahlenburg, B
 
-    *   53.19051
+    *   53.1905
 
-    *   10.66205
+    *   10.6621
 
 
-*    *   1559
+*    *   1272
 
+    *
     *   B216
 
     *   B216 Göhrde (Gemfr. Gebiet), A
@@ -17210,8 +15323,9 @@ Gültig ab 1. Dezember 2019
     *   10.86845
 
 
-*    *   1560
+*    *   1273
 
+    *
     *   B216
 
     *   B216 Göhrde, A
@@ -17221,8 +15335,9 @@ Gültig ab 1. Dezember 2019
     *   10.89244
 
 
-*    *   1561
+*    *   1274
 
+    *
     *   B216
 
     *   B216 Göhrde (Gemfr. Gebiet), B
@@ -17232,8 +15347,9 @@ Gültig ab 1. Dezember 2019
     *   10.89903
 
 
-*    *   1562
+*    *   1275
 
+    *
     *   B216
 
     *   B216 Göhrde, F
@@ -17243,19 +15359,9 @@ Gültig ab 1. Dezember 2019
     *   10.99167
 
 
-*    *   1563
+*    *   1276
 
-    *   B216
-
-    *   B216 Dannenberg (Elbe), Lüggau, A
-
-    *   53.09876
-
-    *   11.07026
-
-
-*    *   1564
-
+    *
     *   B218
 
     *   B218 Bramsche
@@ -17265,8 +15371,9 @@ Gültig ab 1. Dezember 2019
     *   7.85572
 
 
-*    *   1565
+*    *   1277
 
+    *
     *   B218
 
     *   B218 Neuenkirchen
@@ -17276,8 +15383,9 @@ Gültig ab 1. Dezember 2019
     *   7.86087
 
 
-*    *   1566
+*    *   1278
 
+    *
     *   B220
 
     *   B220 Emmerich am Rhein, Klever Straße
@@ -17287,173 +15395,9 @@ Gültig ab 1. Dezember 2019
     *   6.22678
 
 
-*    *   1567
+*    *   1279
 
-    *   B221
-
-    *   B221 Niederkrüchten, Aachener Straße, A
-
-    *   51.18018
-
-    *   6.2115
-
-
-*    *   1568
-
-    *   B221
-
-    *   B221 Wassenberg, Parkstraße
-
-    *   51.09813
-
-    *   6.15515
-
-
-*    *   1569
-
-    *   B221
-
-    *   B221 Heinsberg, Kirchpfad
-
-    *   51.07459
-
-    *   6.12855
-
-
-*    *   1570
-
-    *   B223
-
-    *   B223 Oberhausen, Rolandstraße
-
-    *   51.46826
-
-    *   6.86404
-
-
-*    *   1571
-
-    *   B223
-
-    *   B223 Mülheim an der Ruhr, Mintarder Straße
-
-    *   51.41491
-
-    *   6.86817
-
-
-*    *   1572
-
-    *   B224
-
-    *   B224 Essen, Pörtgenweg
-
-    *   51.47721
-
-    *   7.00612
-
-
-*    *   1573
-
-    *   B224
-
-    *   B224 Essen, Grillostraße
-
-    *   51.46821
-
-    *   7.00767
-
-
-*    *   1574
-
-    *   B224
-
-    *   B224 Essen, Am Alfredusbad
-
-    *   51.42161
-
-    *   6.99869
-
-
-*    *   1575
-
-    *   B224
-
-    *   B224 Essen, Heidhausen, Heidhauser Straße
-
-    *   51.38379
-
-    *   7.02408
-
-
-*    *   1576
-
-    *   B226
-
-    *   B226 Hagen, Weststraße, A
-
-    *   51.38704
-
-    *   7.44082
-
-
-*    *   1577
-
-    *   B226
-
-    *   B226 Bochum, Lohring
-
-    *   51.47627
-
-    *   7.23328
-
-
-*    *   1578
-
-    *   B226
-
-    *   B226 Gelsenkirchen, Devesestraße
-
-    *   51.57545
-
-    *   7.0418
-
-
-*    *   1579
-
-    *   B226
-
-    *   B226 Bochum, Hans-Böckler-Straße
-
-    *   51.4856
-
-    *   7.21689
-
-
-*    *   1580
-
-    *   B227
-
-    *   B227 Heiligenhaus, Hauptstraße
-
-    *   51.32498
-
-    *   6.95696
-
-
-*    *   1581
-
-    *   B227
-
-    *   B227 Heiligenhaus, Dümgesweg
-
-    *   51.32988
-
-    *   6.99208
-
-
-*    *   1582
-
+    *
     *   B229
 
     *   B229 Halver
@@ -17463,8 +15407,9 @@ Gültig ab 1. Dezember 2019
     *   7.42381
 
 
-*    *   1583
+*    *   1280
 
+    *
     *   B229
 
     *   B229 Halver, Schmalenbach, B
@@ -17474,206 +15419,9 @@ Gültig ab 1. Dezember 2019
     *   7.48111
 
 
-*    *   1584
+*    *   1281
 
-    *   B231
-
-    *   B231 Essen, Frintroper Höhe
-
-    *   51.47681
-
-    *   6.91007
-
-
-*    *   1585
-
-    *   B231
-
-    *   B231 Essen, Kopernikusstraße
-
-    *   51.46155
-
-    *   6.97176
-
-
-*    *   1586
-
-    *   B231
-
-    *   B231 Essen, Helenenstraße
-
-    *   51.46068
-
-    *   6.98019
-
-
-*    *   1587
-
-    *   B233
-
-    *   B233 Werne, Butenlandwehr
-
-    *   51.67877
-
-    *   7.6345
-
-
-*    *   1588
-
-    *   B235
-
-    *   B235 Lüdinghausen, Gutschenkweg
-
-    *   51.74164
-
-    *   7.41934
-
-
-*    *   1589
-
-    *   B236
-
-    *   B236 Münchhausen, Bach vom Lichtemberg
-
-    *   50.99034
-
-    *   8.69872
-
-
-*    *   1590
-
-    *   B236
-
-    *   B236 Allendorf (Eder), B
-
-    *   51.04986
-
-    *   8.6479
-
-
-*    *   1591
-
-    *   B236
-
-    *   B236 Allendorf (Eder), A
-
-    *   51.05132
-
-    *   8.64592
-
-
-*    *   1592
-
-    *   B236
-
-    *   B236 Allendorf (Eder), Linspherradweg, B
-
-    *   51.0589
-
-    *   8.63945
-
-
-*    *   1593
-
-    *   B236
-
-    *   B236 Allendorf (Eder), Linspherradweg, A
-
-    *   51.07107
-
-    *   8.63487
-
-
-*    *   1594
-
-    *   B236
-
-    *   B236 Winterberg, A
-
-    *   51.18557
-
-    *   8.49848
-
-
-*    *   1595
-
-    *   B236
-
-    *   B236 Winterberg, B
-
-    *   51.18551
-
-    *   8.49471
-
-
-*    *   1596
-
-    *   B236
-
-    *   B236 Winterberg, C
-
-    *   51.18298
-
-    *   8.49373
-
-
-*    *   1597
-
-    *   B236
-
-    *   B236 Winterberg, Astenberg
-
-    *   51.17029
-
-    *   8.48794
-
-
-*    *   1598
-
-    *   B236
-
-    *   B236 Schmallenberg, D
-
-    *   51.13689
-
-    *   8.22418
-
-
-*    *   1599
-
-    *   B236
-
-    *   B236 Schmallenberg, E
-
-    *   51.1272
-
-    *   8.19894
-
-
-*    *   1600
-
-    *   B236
-
-    *   B236 Lennestadt, Christinenhütte
-
-    *   51.1243
-
-    *   8.05186
-
-
-*    *   1601
-
-    *   B236
-
-    *   B236 Finnentrop, Bamenohler Straße, B
-
-    *   51.17279
-
-    *   7.9652
-
-
-*    *   1602
-
+    *
     *   B236
 
     *   B236 Schwerte, Schwerter Wald, Freischütz
@@ -17683,19 +15431,189 @@ Gültig ab 1. Dezember 2019
     *   7.55715
 
 
-*    *   1603
+*    *   1282
 
+    *
     *   B236
 
-    *   B236 Selm, Buddenbergstraße
+    *   B236 Finnentrop, B
 
-    *   51.686
+    *   51.16771
 
-    *   7.46795
+    *   7.97965
 
 
-*    *   1604
+*    *   1283
 
+    *
+    *   B236
+
+    *   B236 Finnentrop, Bamenohler Straße, B
+
+    *   51.17279
+
+    *   7.9652
+
+
+*    *   1284
+
+    *
+    *   B236
+
+    *   B236 Allendorf (Eder), B
+
+    *   51.04986
+
+    *   8.6479
+
+
+*    *   1285
+
+    *
+    *   B236
+
+    *   B236 Allendorf (Eder), A
+
+    *   51.05132
+
+    *   8.64592
+
+
+*    *   1286
+
+    *
+    *   B236
+
+    *   B236 Allendorf (Eder), Linspherradweg
+
+    *   51.07107
+
+    *   8.63487
+
+
+*    *   1287
+
+    *
+    *   B236
+
+    *   B236 Bromskirchen
+
+    *   51.09395
+
+    *   8.62515
+
+
+*    *   1288
+
+    *
+    *   B236
+
+    *   B236 Winterberg, A
+
+    *   51.18557
+
+    *   8.49848
+
+
+*    *   1289
+
+    *
+    *   B236
+
+    *   B236 Winterberg, B
+
+    *   51.18551
+
+    *   8.49471
+
+
+*    *   1290
+
+    *
+    *   B236
+
+    *   B236 Winterberg, C
+
+    *   51.18298
+
+    *   8.49373
+
+
+*    *   1291
+
+    *
+    *   B236
+
+    *   B236 Winterberg, Astenberg
+
+    *   51.17029
+
+    *   8.48794
+
+
+*    *   1292
+
+    *
+    *   B236
+
+    *   B236 Schmallenberg, Harbecker Weg, B
+
+    *   51.1366
+
+    *   8.25277
+
+
+*    *   1293
+
+    *
+    *   B236
+
+    *   B236 Schmallenberg, D
+
+    *   51.13689
+
+    *   8.22418
+
+
+*    *   1294
+
+    *
+    *   B236
+
+    *   B236 Schmallenberg, E
+
+    *   51.1272
+
+    *   8.19894
+
+
+*    *   1295
+
+    *
+    *   B236
+
+    *   B236 Münchhausen, B
+
+    *   50.96948
+
+    *   8.70596
+
+
+*    *   1296
+
+    *
+    *   B236
+
+    *   B236 Münchhausen, Bach vom Lichtemberg
+
+    *   50.99034
+
+    *   8.69872
+
+
+*    *   1297
+
+    *
     *   B237
 
     *   B237 Hückeswagen
@@ -17705,8 +15623,9 @@ Gültig ab 1. Dezember 2019
     *   7.34997
 
 
-*    *   1605
+*    *   1298
 
+    *
     *   B237
 
     *   B237 Kierspe, Varmerterholz
@@ -17716,41 +15635,21 @@ Gültig ab 1. Dezember 2019
     *   7.55896
 
 
-*    *   1606
+*    *   1299
 
-    *   B238
-
-    *   B238 Lemgo, Gosebrede, B
-
-    *   52.02935
-
-    *   8.88915
-
-
-*    *   1607
-
+    *
     *   B239
 
-    *   B239 Bad Salzuflen, Otto-Hahn-Straße
+    *   B239 Detmold, A
 
-    *   52.06058
+    *   51.95347
 
-    *   8.75007
-
-
-*    *   1608
-
-    *   B239
-
-    *   B239 Detmold, Ernst-Hilker-Straße
-
-    *   51.95349
-
-    *   8.88556
+    *   8.88561
 
 
-*    *   1609
+*    *   1300
 
+    *
     *   B240
 
     *   B240 Eschershausen, B
@@ -17760,8 +15659,9 @@ Gültig ab 1. Dezember 2019
     *   9.64353
 
 
-*    *   1610
+*    *   1301
 
+    *
     *   B240
 
     *   B240 Eschershausen, A
@@ -17771,8 +15671,33 @@ Gültig ab 1. Dezember 2019
     *   9.63919
 
 
-*    *   1611
+*    *   1302
 
+    *
+    *   B240
+
+    *   B240 Duingen, D
+
+    *   52.00765
+
+    *   9.67077
+
+
+*    *   1303
+
+    *
+    *   B240
+
+    *   B240 Duingen, C
+
+    *   52.00927
+
+    *   9.66586
+
+
+*    *   1304
+
+    *
     *   B240
 
     *   B240 Eime, C
@@ -17782,19 +15707,9 @@ Gültig ab 1. Dezember 2019
     *   9.6921
 
 
-*    *   1612
+*    *   1305
 
-    *   B241
-
-    *   B241 Uslar, Bella Clava
-
-    *   51.65675
-
-    *   9.64189
-
-
-*    *   1613
-
+    *
     *   B241
 
     *   B241 Northeim
@@ -17804,19 +15719,9 @@ Gültig ab 1. Dezember 2019
     *   9.99684
 
 
-*    *   1614
+*    *   1306
 
-    *   B241
-
-    *   B241 Northeim, Auf dem Anger
-
-    *   51.69762
-
-    *   10.05503
-
-
-*    *   1615
-
+    *
     *   B241
 
     *   B241 Osterode am Harz, Kleine Bremke
@@ -17826,19 +15731,21 @@ Gültig ab 1. Dezember 2019
     *   10.28633
 
 
-*    *   1616
+*    *   1307
 
+    *
     *   B241
 
-    *   B241 Clausthal-Zellerfeld, A
+    *   B241 Clausthal-Zellerfeld
 
     *   51.83733
 
     *   10.36168
 
 
-*    *   1617
+*    *   1308
 
+    *
     *   B241
 
     *   B241 Osterode am Harz, Obere Harzstraße, A
@@ -17848,8 +15755,21 @@ Gültig ab 1. Dezember 2019
     *   10.28712
 
 
-*    *   1618
+*    *   1309
 
+    *
+    *   B241
+
+    *   B241 Goslar, C
+
+    *   51.94657
+
+    *   10.51795
+
+
+*    *   1310
+
+    *
     *   B242
 
     *   B242 Harz (LK Goslar), A
@@ -17859,8 +15779,9 @@ Gültig ab 1. Dezember 2019
     *   10.20408
 
 
-*    *   1619
+*    *   1311
 
+    *
     *   B242
 
     *   B242 Harz (LK Goslar), B
@@ -17870,8 +15791,9 @@ Gültig ab 1. Dezember 2019
     *   10.20934
 
 
-*    *   1620
+*    *   1312
 
+    *
     *   B242
 
     *   B242 Harz (LK Goslar), C
@@ -17881,8 +15803,9 @@ Gültig ab 1. Dezember 2019
     *   10.21197
 
 
-*    *   1621
+*    *   1313
 
+    *
     *   B242
 
     *   B242 Harz (LK Goslar), E
@@ -17892,19 +15815,21 @@ Gültig ab 1. Dezember 2019
     *   10.27156
 
 
-*    *   1622
+*    *   1314
 
+    *
     *   B242
 
     *   B242 Harz (LK Goslar), Reitstieg
 
     *   51.76912
 
-    *   10.45586
+    *   10.45585
 
 
-*    *   1623
+*    *   1315
 
+    *
     *   B242
 
     *   B242 Braunlage, Oderteich
@@ -17914,8 +15839,9 @@ Gültig ab 1. Dezember 2019
     *   10.53461
 
 
-*    *   1624
+*    *   1316
 
+    *
     *   B242
 
     *   B242 Oberharz am Brocken, Harzhochstraße
@@ -17925,8 +15851,9 @@ Gültig ab 1. Dezember 2019
     *   10.74607
 
 
-*    *   1625
+*    *   1317
 
+    *
     *   B242
 
     *   B242 Harzgerode, Klippenweg
@@ -17936,52 +15863,33 @@ Gültig ab 1. Dezember 2019
     *   11.12247
 
 
-*    *   1626
+*    *   1318
 
-    *   B242
-
-    *   B242 Harzgerode, E
-
-    *   51.63827
-
-    *   11.14394
-
-
-*    *   1627
-
-    *   B242
-
-    *   B242 Harzgerode, Dankeröder Straße
-
-    *   51.6036
-
-    *   11.19783
-
-
-*    *   1628
-
+    *
     *   B242
 
     *   B242 Harzgerode, D
+
+    *   51.63463
+
+    *   11.14682
+
+
+*    *   1319
+
+    *
+    *   B242
+
+    *   B242 Harzgerode, C
 
     *   51.59806
 
     *   11.23189
 
 
-*    *   1629
+*    *   1320
 
-    *   B243
-
-    *   B243 Diekholzen, Stadtweg
-
-    *   52.1016
-
-    *   9.98756
-
-
-*    *   1630
-
+    *
     *   B243
 
     *   B243 Bockenem, B
@@ -17991,41 +15899,33 @@ Gültig ab 1. Dezember 2019
     *   10.13389
 
 
-*    *   1631
+*    *   1321
 
+    *
     *   B243
 
     *   B243 Bad Sachsa
 
-    *   51.56007
+    *   51.56292
 
-    *   10.52558
+    *   10.53846
 
 
-*    *   1632
+*    *   1322
 
+    *
     *   B244
 
-    *   B244 Wittingen, Schillerstraße
+    *   B244 Hankensbüttel, Celler Straße
 
-    *   52.72931
+    *   52.72623
 
-    *   10.71539
-
-
-*    *   1633
-
-    *   B244
-
-    *   B244 Wittingen, Bödeckerstraße
-
-    *   52.72913
-
-    *   10.72017
+    *   10.59573
 
 
-*    *   1634
+*    *   1323
 
+    *
     *   B244
 
     *   B244 Mariental
@@ -18035,8 +15935,9 @@ Gültig ab 1. Dezember 2019
     *   10.98878
 
 
-*    *   1635
+*    *   1324
 
+    *
     *   B244
 
     *   B244 Wernigerode, Steingleie
@@ -18046,41 +15947,33 @@ Gültig ab 1. Dezember 2019
     *   10.81437
 
 
-*    *   1636
+*    *   1325
 
+    *
     *   B245
 
     *   B245 Am Großen Bruch, B
 
     *   52.07565
 
-    *   11.07646
+    *   11.07648
 
 
-*    *   1637
+*    *   1326
 
+    *
     *   B245
 
-    *   B245 Ummendorf, Friedensplatz
-
-    *   52.15641
-
-    *   11.18196
-
-
-*    *   1638
-
-    *   B245
-
-    *   B245 Erxleben, Hauptstraße
+    *   B245 Erxleben, Hauptstrasse
 
     *   52.17826
 
     *   11.25583
 
 
-*    *   1639
+*    *   1327
 
+    *
     *   B246
 
     *   B246 Oschersleben (Bode), Gewerbegebiet
@@ -18090,63 +15983,45 @@ Gültig ab 1. Dezember 2019
     *   11.26326
 
 
-*    *   1640
+*    *   1328
 
+    *
     *   B246
 
-    *   B246 Bad Belzig, Klein Glien
+    *   B246 Beelitz, C
 
-    *   52.13179
+    *   52.21692
 
-    *   12.51641
+    *   13.0587
 
 
-*    *   1641
+*    *   1329
 
+    *
     *   B246
 
-    *   B246 Brück, Gömnigk, B
+    *   B246 Beelitz, D
 
-    *   52.16599
+    *   52.21574
 
-    *   12.72671
-
-
-*    *   1642
-
-    *   B246
-
-    *   B246 Brück, Gömnigk, A
-
-    *   52.16663
-
-    *   12.72838
+    *   13.06974
 
 
-*    *   1643
+*    *   1330
 
-    *   B246
-
-    *   B246 Brück, An der Bahn
-
-    *   52.18613
-
-    *   12.757
-
-
-*    *   1644
-
+    *
     *   B246
 
     *   B246 Zossen, A
 
-    *   52.22529
+    *   52.22534
 
-    *   13.38252
+    *   13.38427
 
 
-*    *   1645
+*    *   1331
 
+    *
     *   B246
 
     *   B246 Bestensee
@@ -18156,41 +16031,21 @@ Gültig ab 1. Dezember 2019
     *   13.61692
 
 
-*    *   1646
+*    *   1332
 
+    *
     *   B246
 
-    *   B246 Heidesee, Platanenweg
+    *   B246 Storkow (Mark), B
 
-    *   52.23888
+    *   52.24461
 
-    *   13.71618
-
-
-*    *   1647
-
-    *   B246
-
-    *   B246 Heidesee, Neue Straße
-
-    *   52.21877
-
-    *   13.82786
+    *   13.93712
 
 
-*    *   1648
+*    *   1333
 
-    *   B246A
-
-    *   B246A Wanzleben-Börde, D
-
-    *   52.08072
-
-    *   11.37408
-
-
-*    *   1649
-
+    *
     *   B246A
 
     *   B246A Wanzleben-Börde, A
@@ -18200,19 +16055,33 @@ Gültig ab 1. Dezember 2019
     *   11.30778
 
 
-*    *   1650
+*    *   1334
 
+    *
     *   B247
 
-    *   B247 Obernfeld, A
+    *   B247 Obernfeld
 
     *   51.56578
 
     *   10.23095
 
 
-*    *   1651
+*    *   1335
 
+    *
+    *   B247
+
+    *   B247 Teistungen
+
+    *   51.46878
+
+    *   10.27248
+
+
+*    *   1336
+
+    *
     *   B247
 
     *   B247 Unstruttal, Lange Mark
@@ -18222,30 +16091,9 @@ Gültig ab 1. Dezember 2019
     *   10.42895
 
 
-*    *   1652
+*    *   1337
 
-    *   B247
-
-    *   B247 Weinbergen, Friedensstraße
-
-    *   51.18064
-
-    *   10.50594
-
-
-*    *   1653
-
-    *   B247
-
-    *   B247 Leinefelde-Worbis, Zeißstraße, A
-
-    *   51.39137
-
-    *   10.34286
-
-
-*    *   1654
-
+    *
     *   B247
 
     *   B247 Bad Langensalza, A
@@ -18255,96 +16103,57 @@ Gültig ab 1. Dezember 2019
     *   10.63964
 
 
-*    *   1655
+*    *   1338
 
-    *   B247
+    *
+    *   B248
 
-    *   B247 Nessetal
+    *   B248 Dannenberg (Elbe)
 
-    *   51.00109
+    *   53.06116
 
-    *   10.68692
+    *   11.07478
 
 
-*    *   1656
+*    *   1339
 
+    *
     *   B248
 
     *   B248 Dannenberg (Elbe), Hauptstraße, C
 
-    *   53.05566
+    *   53.05547
 
-    *   11.07239
+    *   11.07231
 
 
-*    *   1657
+*    *   1340
 
+    *
     *   B248
 
-    *   B248 Lübbow, C
-
-    *   52.90194
-
-    *   11.17906
-
-
-*    *   1658
-
-    *   B248
-
-    *   B248 Kuhfelde, Püggen, B
-
-    *   52.73346
-
-    *   11.05785
-
-
-*    *   1659
-
-    *   B248
-
-    *   B248 Rohrberg, A
-
-    *   52.69909
-
-    *   11.03469
-
-
-*    *   1660
-
-    *   B248
-
-    *   B248 Beetzendorf, Weg 01 – Steimker Weg
+    *   B248 Beetzendorf, Weg 01 - Steimker Weg
 
     *   52.63254
 
-    *   10.98324
+    *   10.98326
 
 
-*    *   1661
+*    *   1341
 
+    *
     *   B248
 
-    *   B248 Salzgitter, Dr.-Heinrich-Jasper-Straße
+    *   B248 Salzgitter, A
 
-    *   52.18226
+    *   52.16431
 
-    *   10.48581
-
-
-*    *   1662
-
-    *   B248
-
-    *   B248 Salzgitter, Breslauer Straße
-
-    *   52.05202
-
-    *   10.37345
+    *   10.46754
 
 
-*    *   1663
+*    *   1342
 
+    *
     *   B248
 
     *   B248 Lutter am Barenberge, B
@@ -18354,8 +16163,9 @@ Gültig ab 1. Dezember 2019
     *   10.23867
 
 
-*    *   1664
+*    *   1343
 
+    *
     *   B248
 
     *   B248 Seesen, A
@@ -18365,63 +16175,45 @@ Gültig ab 1. Dezember 2019
     *   10.20449
 
 
-*    *   1665
+*    *   1344
 
+    *
     *   B248
 
-    *   B248 Kalefeld, Echte, Am Bahnhof
+    *   B248 Seesen, F
 
-    *   51.78803
+    *   51.89786
 
-    *   10.06432
+    *   10.1826
 
 
-*    *   1666
+*    *   1345
 
+    *
     *   B249
 
-    *   B249 Meinhard, An der Schindersgasse
+    *   B249 Rodeberg, A
 
-    *   51.19839
+    *   51.21101
 
-    *   10.06426
+    *   10.32827
 
 
-*    *   1667
+*    *   1346
 
+    *
     *   B249
 
-    *   B249 Rodeberg
+    *   B249 Rodeberg, Kringel
 
     *   51.20972
 
     *   10.35011
 
 
-*    *   1668
+*    *   1347
 
-    *   B249
-
-    *   B249 Mühlhausen/Thüringen, Friedensstraße
-
-    *   51.2057
-
-    *   10.44927
-
-
-*    *   1669
-
-    *   B249
-
-    *   B249 Mühlhausen/Thüringen, Walkmühlenstraße
-
-    *   51.21461
-
-    *   10.48365
-
-
-*    *   1670
-
+    *
     *   B249
 
     *   B249 Ebeleben, A
@@ -18431,30 +16223,33 @@ Gültig ab 1. Dezember 2019
     *   10.74115
 
 
-*    *   1671
+*    *   1348
 
+    *
     *   B251
 
-    *   B251 Brilon, B
+    *   B251 Brilon, A
 
     *   51.3274
 
     *   8.58543
 
 
-*    *   1672
+*    *   1349
 
+    *
     *   B251
 
-    *   B251 Brilon, D
+    *   B251 Brilon, C
 
     *   51.30376
 
     *   8.59203
 
 
-*    *   1673
+*    *   1350
 
+    *
     *   B251
 
     *   B251 Willingen (Upland), A
@@ -18464,19 +16259,9 @@ Gültig ab 1. Dezember 2019
     *   8.59513
 
 
-*    *   1674
+*    *   1351
 
-    *   B251
-
-    *   B251 Willingen (Upland), Hochsauerlandstraße
-
-    *   51.27947
-
-    *   8.63615
-
-
-*    *   1675
-
+    *
     *   B251
 
     *   B251 Willingen (Upland), B
@@ -18486,8 +16271,9 @@ Gültig ab 1. Dezember 2019
     *   8.6857
 
 
-*    *   1676
+*    *   1352
 
+    *
     *   B251
 
     *   B251 Willingen (Upland), C
@@ -18497,8 +16283,9 @@ Gültig ab 1. Dezember 2019
     *   8.76945
 
 
-*    *   1677
+*    *   1353
 
+    *
     *   B251
 
     *   B251 Korbach, A
@@ -18508,8 +16295,9 @@ Gültig ab 1. Dezember 2019
     *   8.80554
 
 
-*    *   1678
+*    *   1354
 
+    *
     *   B251
 
     *   B251 Korbach, Meineringhäuser Tunnel
@@ -18519,8 +16307,9 @@ Gültig ab 1. Dezember 2019
     *   8.91656
 
 
-*    *   1679
+*    *   1355
 
+    *
     *   B251
 
     *   B251 Korbach, B
@@ -18530,8 +16319,9 @@ Gültig ab 1. Dezember 2019
     *   8.92248
 
 
-*    *   1680
+*    *   1356
 
+    *
     *   B251
 
     *   B251 Waldeck, D
@@ -18541,8 +16331,9 @@ Gültig ab 1. Dezember 2019
     *   9.01937
 
 
-*    *   1681
+*    *   1357
 
+    *
     *   B251
 
     *   B251 Waldeck, C
@@ -18552,8 +16343,9 @@ Gültig ab 1. Dezember 2019
     *   9.03334
 
 
-*    *   1682
+*    *   1358
 
+    *
     *   B251
 
     *   B251 Waldeck, B
@@ -18563,30 +16355,9 @@ Gültig ab 1. Dezember 2019
     *   9.04863
 
 
-*    *   1683
+*    *   1359
 
-    *   B251
-
-    *   B251 Wolfhagen, C
-
-    *   51.28605
-
-    *   9.16937
-
-
-*    *   1684
-
-    *   B251
-
-    *   B251 Wolfhagen, A
-
-    *   51.30101
-
-    *   9.21014
-
-
-*    *   1685
-
+    *
     *   B251
 
     *   B251 Zierenberg
@@ -18596,96 +16367,57 @@ Gültig ab 1. Dezember 2019
     *   9.25129
 
 
-*    *   1686
+*    *   1360
 
+    *
     *   B251
 
-    *   B251 Kassel, Am Kreuzstein
+    *   B251 Kassel, Erlenloch
 
-    *   51.33509
+    *   51.34796
 
-    *   9.44382
+    *   9.40484
 
 
-*    *   1687
+*    *   1361
 
+    *
     *   B251
 
-    *   B251 Kassel, Distelbreite
+    *   B251 Kassel
 
-    *   51.33109
+    *   51.32551
 
-    *   9.45599
-
-
-*    *   1688
-
-    *   B251
-
-    *   B251 Kassel, Wolfhager Straße, D
-
-    *   51.325
-
-    *   9.48006
+    *   9.47198
 
 
-*    *   1689
+*    *   1362
 
-    *   B251
-
-    *   B251 Kassel, Erzbergerstraße
-
-    *   51.32313
-
-    *   9.49503
-
-
-*    *   1690
-
+    *
     *   B252
 
-    *   B252 Brakel, C
+    *   B252 Brakel, A
 
     *   51.69098
 
     *   9.16249
 
 
-*    *   1691
+*    *   1363
 
+    *
     *   B252
 
-    *   B252 Brakel, D
+    *   B252 Brakel, B
 
     *   51.6896
 
     *   9.15987
 
 
-*    *   1692
+*    *   1364
 
-    *   B252
-
-    *   B252 Diemelstadt, Laubach
-
-    *   51.46318
-
-    *   9.01403
-
-
-*    *   1693
-
-    *   B252
-
-    *   B252 Diemelstadt, Wande
-
-    *   51.45631
-
-    *   9.01025
-
-
-*    *   1694
-
+    *
     *   B252
 
     *   B252 Twistetal, Twistenberg
@@ -18695,8 +16427,9 @@ Gültig ab 1. Dezember 2019
     *   8.92311
 
 
-*    *   1695
+*    *   1365
 
+    *
     *   B252
 
     *   B252 Vöhl, Am Hohlweg
@@ -18706,8 +16439,9 @@ Gültig ab 1. Dezember 2019
     *   8.89141
 
 
-*    *   1696
+*    *   1366
 
+    *
     *   B252
 
     *   B252 Vöhl, A
@@ -18717,8 +16451,9 @@ Gültig ab 1. Dezember 2019
     *   8.88668
 
 
-*    *   1697
+*    *   1367
 
+    *
     *   B252
 
     *   B252 Vöhl, B
@@ -18728,8 +16463,9 @@ Gültig ab 1. Dezember 2019
     *   8.88672
 
 
-*    *   1698
+*    *   1368
 
+    *
     *   B252
 
     *   B252 Vöhl, C
@@ -18739,8 +16475,9 @@ Gültig ab 1. Dezember 2019
     *   8.8815
 
 
-*    *   1699
+*    *   1369
 
+    *
     *   B252
 
     *   B252 Frankenberg (Eder)
@@ -18750,8 +16487,9 @@ Gültig ab 1. Dezember 2019
     *   8.83642
 
 
-*    *   1700
+*    *   1370
 
+    *
     *   B252
 
     *   B252 Frankenberg (Eder), Im Hüstengrund
@@ -18761,8 +16499,9 @@ Gültig ab 1. Dezember 2019
     *   8.83486
 
 
-*    *   1701
+*    *   1371
 
+    *
     *   B252
 
     *   B252 Burgwald, Triftstraße
@@ -18772,8 +16511,9 @@ Gültig ab 1. Dezember 2019
     *   8.77918
 
 
-*    *   1702
+*    *   1372
 
+    *
     *   B252
 
     *   B252 Burgwald, B
@@ -18783,19 +16523,45 @@ Gültig ab 1. Dezember 2019
     *   8.76113
 
 
-*    *   1703
+*    *   1373
 
+    *
     *   B252
 
-    *   B252 Münchhausen
+    *   B252 Burgwald, Ernsthausen, B
+
+    *   50.97848
+
+    *   8.72971
+
+
+*    *   1374
+
+    *
+    *   B252
+
+    *   B252 Burgwald, Ernsthausen, A
+
+    *   50.97777
+
+    *   8.72879
+
+
+*    *   1375
+
+    *
+    *   B252
+
+    *   B252 Münchhausen, A
 
     *   50.95339
 
     *   8.71535
 
 
-*    *   1704
+*    *   1376
 
+    *
     *   B252
 
     *   B252 Münchhausen, Burgwaldbahn
@@ -18805,8 +16571,9 @@ Gültig ab 1. Dezember 2019
     *   8.70538
 
 
-*    *   1705
+*    *   1377
 
+    *
     *   B252
 
     *   B252 Wetter (Hessen)
@@ -18816,30 +16583,21 @@ Gültig ab 1. Dezember 2019
     *   8.71661
 
 
-*    *   1706
+*    *   1378
 
-    *   B253
-
-    *   B253 Dillenburg
-
-    *   50.76177
-
-    *   8.28186
-
-
-*    *   1707
-
+    *
     *   B253
 
     *   B253 Dillenburg, Hirschwiese
 
-    *   50.76641
+    *   50.76643
 
-    *   8.28572
+    *   8.28569
 
 
-*    *   1708
+*    *   1379
 
+    *
     *   B253
 
     *   B253 Eschenburg
@@ -18849,8 +16607,9 @@ Gültig ab 1. Dezember 2019
     *   8.39174
 
 
-*    *   1709
+*    *   1380
 
+    *
     *   B253
 
     *   B253 Breidenbach, C
@@ -18860,52 +16619,45 @@ Gültig ab 1. Dezember 2019
     *   8.42706
 
 
-*    *   1710
+*    *   1381
 
+    *
     *   B253
 
     *   B253 Breidenbach, A
 
-    *   50.87726
+    *   50.87724
 
-    *   8.45565
+    *   8.45569
 
 
-*    *   1711
+*    *   1382
 
+    *
     *   B253
 
-    *   B253 Battenberg (Eder), B
+    *   B253 Battenberg (Eder)
 
-    *   51.00121
+    *   51.00113
 
-    *   8.63007
+    *   8.63006
 
 
-*    *   1712
+*    *   1383
 
+    *
     *   B253
 
-    *   B253 Battenberg (Eder), A
-
-    *   51.00689
-
-    *   8.64306
-
-
-*    *   1713
-
-    *   B253
-
-    *   B253 Frankenau, B
+    *   B253 Frankenau
 
     *   51.06637
 
     *   8.92514
 
 
-*    *   1714
+*    *   1384
 
+    *
     *   B253
 
     *   B253 Haina (Kloster), B
@@ -18915,8 +16667,9 @@ Gültig ab 1. Dezember 2019
     *   8.94108
 
 
-*    *   1715
+*    *   1385
 
+    *
     *   B253
 
     *   B253 Haina (Kloster), A
@@ -18926,8 +16679,9 @@ Gültig ab 1. Dezember 2019
     *   8.99642
 
 
-*    *   1716
+*    *   1386
 
+    *
     *   B253
 
     *   B253 Bad Wildungen, A
@@ -18937,8 +16691,9 @@ Gültig ab 1. Dezember 2019
     *   9.0453
 
 
-*    *   1717
+*    *   1387
 
+    *
     *   B253
 
     *   B253 Bad Wildungen, B
@@ -18948,8 +16703,9 @@ Gültig ab 1. Dezember 2019
     *   9.04873
 
 
-*    *   1718
+*    *   1388
 
+    *
     *   B253
 
     *   B253 Bad Wildungen, C
@@ -18959,8 +16715,9 @@ Gültig ab 1. Dezember 2019
     *   9.09105
 
 
-*    *   1719
+*    *   1389
 
+    *
     *   B253
 
     *   B253 Bad Wildungen, D
@@ -18970,8 +16727,9 @@ Gültig ab 1. Dezember 2019
     *   9.09471
 
 
-*    *   1720
+*    *   1390
 
+    *
     *   B253
 
     *   B253 Bad Wildungen, Ense
@@ -18981,8 +16739,9 @@ Gültig ab 1. Dezember 2019
     *   9.12526
 
 
-*    *   1721
+*    *   1391
 
+    *
     *   B253
 
     *   B253 Wabern, Schwalm
@@ -18992,41 +16751,9 @@ Gültig ab 1. Dezember 2019
     *   9.3727
 
 
-*    *   1722
+*    *   1392
 
-    *   B253
-
-    *   B253 Felsberg, Schönbergstraße
-
-    *   51.12667
-
-    *   9.43385
-
-
-*    *   1723
-
-    *   B253
-
-    *   B253 Felsberg, Frankenstraße
-
-    *   51.12745
-
-    *   9.43632
-
-
-*    *   1724
-
-    *   B254
-
-    *   B254 Wabern, Wilhelmshöher Straße
-
-    *   51.11847
-
-    *   9.36443
-
-
-*    *   1725
-
+    *
     *   B254
 
     *   B254 Wabern, Betonwerk
@@ -19036,19 +16763,9 @@ Gültig ab 1. Dezember 2019
     *   9.35953
 
 
-*    *   1726
+*    *   1393
 
-    *   B254
-
-    *   B254 Homberg (Efze), Wiesenweg
-
-    *   51.00623
-
-    *   9.36647
-
-
-*    *   1727
-
+    *
     *   B254
 
     *   B254 Frielendorf
@@ -19058,8 +16775,9 @@ Gültig ab 1. Dezember 2019
     *   9.29732
 
 
-*    *   1728
+*    *   1394
 
+    *
     *   B254
 
     *   B254 Alsfeld, B
@@ -19069,30 +16787,21 @@ Gültig ab 1. Dezember 2019
     *   9.28375
 
 
-*    *   1729
+*    *   1395
 
+    *
     *   B254
 
-    *   B254 Alsfeld, Klingelhof
-
-    *   50.7181
-
-    *   9.29242
-
-
-*    *   1730
-
-    *   B254
-
-    *   B254 Lauterbach (Hessen), A
+    *   B254 Lauterbach (Hessen), Im Missrod
 
     *   50.65928
 
     *   9.36854
 
 
-*    *   1731
+*    *   1396
 
+    *
     *   B254
 
     *   B254 Großenlüder, Am Galgenberg
@@ -19102,8 +16811,9 @@ Gültig ab 1. Dezember 2019
     *   9.52776
 
 
-*    *   1732
+*    *   1397
 
+    *
     *   B254
 
     *   B254 Großenlüder, Kolbach
@@ -19113,8 +16823,9 @@ Gültig ab 1. Dezember 2019
     *   9.59377
 
 
-*    *   1733
+*    *   1398
 
+    *
     *   B254
 
     *   B254 Fulda, Am Berg
@@ -19124,19 +16835,9 @@ Gültig ab 1. Dezember 2019
     *   9.62504
 
 
-*    *   1734
+*    *   1399
 
-    *   B254
-
-    *   B254 Fulda, A
-
-    *   50.53167
-
-    *   9.6763
-
-
-*    *   1735
-
+    *
     *   B255
 
     *   B255 Rothenbach, B
@@ -19146,8 +16847,9 @@ Gültig ab 1. Dezember 2019
     *   7.88786
 
 
-*    *   1736
+*    *   1400
 
+    *
     *   B255
 
     *   B255 Herborn
@@ -19157,8 +16859,9 @@ Gültig ab 1. Dezember 2019
     *   8.25809
 
 
-*    *   1737
+*    *   1401
 
+    *
     *   B255
 
     *   B255 Mittenaar
@@ -19168,8 +16871,9 @@ Gültig ab 1. Dezember 2019
     *   8.42885
 
 
-*    *   1738
+*    *   1402
 
+    *
     *   B255
 
     *   B255 Gladenbach, D
@@ -19179,8 +16883,9 @@ Gültig ab 1. Dezember 2019
     *   8.52662
 
 
-*    *   1739
+*    *   1403
 
+    *
     *   B255
 
     *   B255 Gladenbach, C
@@ -19190,8 +16895,9 @@ Gültig ab 1. Dezember 2019
     *   8.53034
 
 
-*    *   1740
+*    *   1404
 
+    *
     *   B255
 
     *   B255 Gladenbach, B
@@ -19201,41 +16907,21 @@ Gültig ab 1. Dezember 2019
     *   8.62834
 
 
-*    *   1741
+*    *   1405
 
+    *
     *   B256
 
-    *   B256 Windeck, C
+    *   B256 Windeck
 
     *   50.81028
 
     *   7.60746
 
 
-*    *   1742
+*    *   1406
 
-    *   B256
-
-    *   B256 Roth, Hämmerholz, Ringstraße
-
-    *   50.76229
-
-    *   7.69315
-
-
-*    *   1743
-
-    *   B256
-
-    *   B256 Horhausen (Westerwald), Kirchstraße
-
-    *   50.58959
-
-    *   7.53071
-
-
-*    *   1744
-
+    *
     *   B256
 
     *   B256 Plaidt, Bundesstraße
@@ -19245,19 +16931,21 @@ Gültig ab 1. Dezember 2019
     *   7.38184
 
 
-*    *   1745
+*    *   1407
 
+    *
     *   B257
 
-    *   B257 Ahrbrück, An den Märkten
+    *   B257 Hönningen, A
 
-    *   50.4928
+    *   50.45981
 
-    *   6.98109
+    *   6.94874
 
 
-*    *   1746
+*    *   1408
 
+    *
     *   B257
 
     *   B257 Hönningen, B
@@ -19267,30 +16955,21 @@ Gültig ab 1. Dezember 2019
     *   6.94612
 
 
-*    *   1747
+*    *   1409
 
+    *
     *   B257
 
-    *   B257 Leimbach, A
-
-    *   50.41652
-
-    *   6.92979
-
-
-*    *   1748
-
-    *   B257
-
-    *   B257 Leimbach, D
+    *   B257 Leimbach, C
 
     *   50.40007
 
     *   6.92118
 
 
-*    *   1749
+*    *   1410
 
+    *
     *   B257
 
     *   B257 Adenau, B
@@ -19300,8 +16979,9 @@ Gültig ab 1. Dezember 2019
     *   6.94476
 
 
-*    *   1750
+*    *   1411
 
+    *
     *   B257
 
     *   B257 Quiddelbach
@@ -19311,30 +16991,21 @@ Gültig ab 1. Dezember 2019
     *   6.93216
 
 
-*    *   1751
+*    *   1412
 
+    *
     *   B257
 
-    *   B257 Müllenbach, A
-
-    *   50.33124
-
-    *   6.92321
-
-
-*    *   1752
-
-    *   B257
-
-    *   B257 Daun, B
+    *   B257 Daun
 
     *   50.19737
 
     *   6.85645
 
 
-*    *   1753
+*    *   1413
 
+    *
     *   B257
 
     *   B257 Bitburg, A
@@ -19344,8 +17015,9 @@ Gültig ab 1. Dezember 2019
     *   6.56367
 
 
-*    *   1754
+*    *   1414
 
+    *
     *   B257
 
     *   B257 Messerich
@@ -19355,107 +17027,69 @@ Gültig ab 1. Dezember 2019
     *   6.49786
 
 
-*    *   1755
+*    *   1415
 
+    *
     *   B257
 
-    *   B257 Niederstedem, B
+    *   B257 Niederstedem
 
     *   49.91851
 
     *   6.47582
 
 
-*    *   1756
+*    *   1416
 
+    *
+    *   B257
+
+    *   B257 Irrel
+
+    *   49.83731
+
+    *   6.44805
+
+
+*    *   1417
+
+    *
     *   B258
 
-    *   B258 Aachen, Stolberger Straße
+    *   B258 Schleiden, A
 
-    *   50.77441
+    *   50.52298
 
-    *   6.10681
-
-
-*    *   1757
-
-    *   B258
-
-    *   B258 Aachen, Neuhausstraße
-
-    *   50.76059
-
-    *   6.13922
+    *   6.42446
 
 
-*    *   1758
+*    *   1418
 
-    *   B258
-
-    *   B258 Aachen, Auf Krummerück
-
-    *   50.75721
-
-    *   6.14687
-
-
-*    *   1759
-
-    *   B258
-
-    *   B258 Monschau, Wilhelm-Jansen-Straße
-
-    *   50.55442
-
-    *   6.23135
-
-
-*    *   1760
-
-    *   B258
-
-    *   B258 Schleiden, Zum Schafbach
-
-    *   50.52055
-
-    *   6.41221
-
-
-*    *   1761
-
+    *
     *   B258
 
     *   B258 Schleiden, B
 
-    *   50.5252
+    *   50.52521
 
-    *   6.43462
+    *   6.43465
 
 
-*    *   1762
+*    *   1419
 
+    *
     *   B258
 
-    *   B258 Schleiden, A
+    *   B258 Schleiden, C
 
     *   50.52821
 
     *   6.48351
 
 
-*    *   1763
+*    *   1420
 
-    *   B258
-
-    *   B258 Blankenheim, A
-
-    *   50.44409
-
-    *   6.6049
-
-
-*    *   1764
-
+    *
     *   B258
 
     *   B258 Blankenheim, Schillertsberg
@@ -19465,8 +17099,9 @@ Gültig ab 1. Dezember 2019
     *   6.66629
 
 
-*    *   1765
+*    *   1421
 
+    *
     *   B258
 
     *   B258 Blankenheim, Ahrtal
@@ -19476,30 +17111,33 @@ Gültig ab 1. Dezember 2019
     *   6.74267
 
 
-*    *   1766
+*    *   1422
 
+    *
     *   B258
 
-    *   B258 Blankenheim, F
+    *   B258 Blankenheim, C
 
     *   50.38271
 
     *   6.76812
 
 
-*    *   1767
+*    *   1423
 
+    *
     *   B258
 
-    *   B258 Blankenheim, G
+    *   B258 Blankenheim, D
 
     *   50.36915
 
     *   6.79215
 
 
-*    *   1768
+*    *   1424
 
+    *
     *   B258
 
     *   B258 Dorsel, Stahlhütte, A
@@ -19509,8 +17147,9 @@ Gültig ab 1. Dezember 2019
     *   6.80224
 
 
-*    *   1769
+*    *   1425
 
+    *
     *   B258
 
     *   B258 Müsch, Tannenweg
@@ -19520,19 +17159,9 @@ Gültig ab 1. Dezember 2019
     *   6.83257
 
 
-*    *   1770
+*    *   1426
 
-    *   B258
-
-    *   B258 Nürburg, Am Reckberg
-
-    *   50.33845
-
-    *   6.95412
-
-
-*    *   1771
-
+    *
     *   B258
 
     *   B258 Mayen, A
@@ -19542,8 +17171,9 @@ Gültig ab 1. Dezember 2019
     *   7.16889
 
 
-*    *   1772
+*    *   1427
 
+    *
     *   B258
 
     *   B258 Mayen, B
@@ -19553,8 +17183,9 @@ Gültig ab 1. Dezember 2019
     *   7.18501
 
 
-*    *   1773
+*    *   1428
 
+    *
     *   B259
 
     *   B259 Faid
@@ -19564,8 +17195,9 @@ Gültig ab 1. Dezember 2019
     *   7.1129
 
 
-*    *   1774
+*    *   1429
 
+    *
     *   B259
 
     *   B259 Cochem, A
@@ -19575,8 +17207,9 @@ Gültig ab 1. Dezember 2019
     *   7.16259
 
 
-*    *   1775
+*    *   1430
 
+    *
     *   B259
 
     *   B259 Cochem, B
@@ -19586,19 +17219,21 @@ Gültig ab 1. Dezember 2019
     *   7.17319
 
 
-*    *   1776
+*    *   1431
 
+    *
     *   B260
 
-    *   B260 Lahnstein, B
+    *   B260 Lahnstein, Ahler Schleuse
 
     *   50.31122
 
     *   7.64015
 
 
-*    *   1777
+*    *   1432
 
+    *
     *   B260
 
     *   B260 Fachbach
@@ -19608,30 +17243,9 @@ Gültig ab 1. Dezember 2019
     *   7.66435
 
 
-*    *   1778
+*    *   1433
 
-    *   B260
-
-    *   B260 Singhofen, B
-
-    *   50.29248
-
-    *   7.82098
-
-
-*    *   1779
-
-    *   B260
-
-    *   B260 Lollschied, B
-
-    *   50.25795
-
-    *   7.85502
-
-
-*    *   1780
-
+    *
     *   B260
 
     *   B260 Heidenrod, Grauer Kopf, FR West
@@ -19641,8 +17255,9 @@ Gültig ab 1. Dezember 2019
     *   7.94966
 
 
-*    *   1781
+*    *   1434
 
+    *
     *   B260
 
     *   B260 Heidenrod, Grauer Kopf, FR Ost
@@ -19652,8 +17267,9 @@ Gültig ab 1. Dezember 2019
     *   7.95266
 
 
-*    *   1782
+*    *   1435
 
+    *
     *   B260
 
     *   B260 Heidenrod
@@ -19663,8 +17279,9 @@ Gültig ab 1. Dezember 2019
     *   8.02642
 
 
-*    *   1783
+*    *   1436
 
+    *
     *   B260
 
     *   B260 Bad Schwalbach, Wisperblick
@@ -19674,19 +17291,9 @@ Gültig ab 1. Dezember 2019
     *   8.04443
 
 
-*    *   1784
+*    *   1437
 
-    *   B260
-
-    *   B260 Eltville am Rhein, Parkplatz Kling
-
-    *   50.0734
-
-    *   8.10934
-
-
-*    *   1785
-
+    *
     *   B260
 
     *   B260 Eltville am Rhein, Klosteranlage Tiefenthal
@@ -19696,8 +17303,9 @@ Gültig ab 1. Dezember 2019
     *   8.11543
 
 
-*    *   1786
+*    *   1438
 
+    *
     *   B262
 
     *   B262 Mayen, A
@@ -19707,74 +17315,33 @@ Gültig ab 1. Dezember 2019
     *   7.2418
 
 
-*    *   1787
+*    *   1439
 
+    *
     *   B262
 
     *   B262 Mayen, B
 
-    *   50.29598
+    *   50.29599
 
-    *   7.24048
+    *   7.2405
 
 
-*    *   1788
+*    *   1440
 
+    *
     *   B264
 
     *   B264 Düren, Stürtzstraße
 
-    *   50.79877
+    *   50.79876
 
     *   6.48076
 
 
-*    *   1789
+*    *   1441
 
-    *   B264
-
-    *   B264 Düren, C
-
-    *   50.80993
-
-    *   6.50715
-
-
-*    *   1790
-
-    *   B265
-
-    *   B265 Köln, Eifelwall
-
-    *   50.92513
-
-    *   6.93735
-
-
-*    *   1791
-
-    *   B265
-
-    *   B265 Köln, Sülzburgstraße
-
-    *   50.91575
-
-    *   6.92751
-
-
-*    *   1792
-
-    *   B265
-
-    *   B265 Köln, Lohrbergstraße
-
-    *   50.91053
-
-    *   6.92206
-
-
-*    *   1793
-
+    *
     *   B265
 
     *   B265 Heimbach
@@ -19784,8 +17351,9 @@ Gültig ab 1. Dezember 2019
     *   6.54718
 
 
-*    *   1794
+*    *   1442
 
+    *
     *   B265
 
     *   B265 Schleiden, Drosselweg
@@ -19795,8 +17363,9 @@ Gültig ab 1. Dezember 2019
     *   6.48713
 
 
-*    *   1795
+*    *   1443
 
+    *
     *   B265
 
     *   B265 Schleiden
@@ -19806,8 +17375,9 @@ Gültig ab 1. Dezember 2019
     *   6.48424
 
 
-*    *   1796
+*    *   1444
 
+    *
     *   B265
 
     *   B265 Hellenthal, A
@@ -19817,30 +17387,33 @@ Gültig ab 1. Dezember 2019
     *   6.41234
 
 
-*    *   1797
+*    *   1445
 
+    *
     *   B265
 
-    *   B265 Hellenthal, Luxemburger Straße
+    *   B265 Hellenthal, Luxemburger Straße, B
 
     *   50.45582
 
     *   6.39992
 
 
-*    *   1798
+*    *   1446
 
+    *
     *   B265
 
-    *   B265 Hellenthal, Luxemburger Straße, C
+    *   B265 Hellenthal, Luxemburger Straße, D
 
     *   50.45358
 
     *   6.37916
 
 
-*    *   1799
+*    *   1447
 
+    *
     *   B265
 
     *   B265 Hellenthal, B
@@ -19850,19 +17423,9 @@ Gültig ab 1. Dezember 2019
     *   6.37285
 
 
-*    *   1800
+*    *   1448
 
-    *   B265
-
-    *   B265 Hellenthal, C
-
-    *   50.33826
-
-    *   6.40125
-
-
-*    *   1801
-
+    *
     *   B265
 
     *   B265 Roth bei Prüm
@@ -19872,8 +17435,9 @@ Gültig ab 1. Dezember 2019
     *   6.40287
 
 
-*    *   1802
+*    *   1449
 
+    *
     *   B265
 
     *   B265 Weinsheim
@@ -19883,8 +17447,9 @@ Gültig ab 1. Dezember 2019
     *   6.43587
 
 
-*    *   1803
+*    *   1450
 
+    *
     *   B265
 
     *   B265 Prüm
@@ -19894,19 +17459,9 @@ Gültig ab 1. Dezember 2019
     *   6.41416
 
 
-*    *   1804
+*    *   1451
 
-    *   B265
-
-    *   B265 Rommersheim
-
-    *   50.20216
-
-    *   6.429
-
-
-*    *   1805
-
+    *
     *   B266
 
     *   B266 Simmerath, A
@@ -19916,8 +17471,9 @@ Gültig ab 1. Dezember 2019
     *   6.35967
 
 
-*    *   1806
+*    *   1452
 
+    *
     *   B266
 
     *   B266 Schleiden, Sauermühle, A
@@ -19927,52 +17483,9 @@ Gültig ab 1. Dezember 2019
     *   6.40727
 
 
-*    *   1807
+*    *   1453
 
-    *   B266
-
-    *   B266 Schleiden, C
-
-    *   50.56534
-
-    *   6.48131
-
-
-*    *   1808
-
-    *   B266
-
-    *   B266 Schleiden, Alter Römerweg
-
-    *   50.57215
-
-    *   6.49025
-
-
-*    *   1809
-
-    *   B266
-
-    *   B266 Bad Neuenahr-Ahrweiler, Greener Weg
-
-    *   50.5493
-
-    *   7.1853
-
-
-*    *   1810
-
-    *   B266
-
-    *   B266 Remagen, Römerstraße
-
-    *   50.558
-
-    *   7.26248
-
-
-*    *   1811
-
+    *
     *   B268
 
     *   B268 Konz, B
@@ -19982,8 +17495,9 @@ Gültig ab 1. Dezember 2019
     *   6.64996
 
 
-*    *   1812
+*    *   1454
 
+    *
     *   B268
 
     *   B268 Losheim am See
@@ -19993,8 +17507,9 @@ Gültig ab 1. Dezember 2019
     *   6.72062
 
 
-*    *   1813
+*    *   1455
 
+    *
     *   B268
 
     *   B268 Schmelz, Bergstraße
@@ -20004,52 +17519,33 @@ Gültig ab 1. Dezember 2019
     *   6.83448
 
 
-*    *   1814
+*    *   1456
 
+    *
     *   B268
 
-    *   B268 Schmelz, A
+    *   B268 Schmelz
 
     *   49.45076
 
     *   6.85322
 
 
-*    *   1815
+*    *   1457
 
+    *
     *   B268
 
-    *   B268 Schmelz, C
-
-    *   49.43329
-
-    *   6.88322
-
-
-*    *   1816
-
-    *   B268
-
-    *   B268 Lebach, B
+    *   B268 Lebach, A
 
     *   49.41989
 
     *   6.8911
 
 
-*    *   1817
+*    *   1458
 
-    *   B268
-
-    *   B268 Riegelsberg, Kirchstraße, A
-
-    *   49.30832
-
-    *   6.94249
-
-
-*    *   1818
-
+    *
     *   B268
 
     *   B268 Riegelsberg, Friedhof Riegelsberg
@@ -20059,19 +17555,9 @@ Gültig ab 1. Dezember 2019
     *   6.95298
 
 
-*    *   1819
+*    *   1459
 
-    *   A1
-
-    *   Saarbrücken-Burbach
-
-    *   49.25942
-
-    *   6.95804
-
-
-*    *   1820
-
+    *
     *   B268
 
     *   B268 Saarbrücken, Trarbacher Platz
@@ -20081,19 +17567,9 @@ Gültig ab 1. Dezember 2019
     *   6.96066
 
 
-*    *   1821
+*    *   1460
 
-    *   B268
-
-    *   B268 Saarbrücken, Im Knappenroth
-
-    *   49.25
-
-    *   6.96384
-
-
-*    *   1822
-
+    *
     *   B268
 
     *   B268 Saarbrücken, Lebacher Straße, C
@@ -20103,8 +17579,9 @@ Gültig ab 1. Dezember 2019
     *   6.97717
 
 
-*    *   1823
+*    *   1461
 
+    *
     *   B269
 
     *   B269 Morbach, Franzosen Weg
@@ -20114,8 +17591,9 @@ Gültig ab 1. Dezember 2019
     *   7.12512
 
 
-*    *   1824
+*    *   1462
 
+    *
     *   B269
 
     *   B269 Tholey
@@ -20125,19 +17603,9 @@ Gültig ab 1. Dezember 2019
     *   7.01924
 
 
-*    *   1825
+*    *   1463
 
-    *   B269
-
-    *   B269 Tholey, Ehlertstraße
-
-    *   49.46085
-
-    *   6.99187
-
-
-*    *   1826
-
+    *
     *   B269
 
     *   B269 Lebach
@@ -20147,8 +17615,9 @@ Gültig ab 1. Dezember 2019
     *   6.94172
 
 
-*    *   1827
+*    *   1464
 
+    *
     *   B269
 
     *   B269 Saarlouis, Auf der Dellt
@@ -20158,19 +17627,9 @@ Gültig ab 1. Dezember 2019
     *   6.72046
 
 
-*    *   1828
+*    *   1465
 
-    *   B270
-
-    *   B270 Katzweiler, Hauptstraße
-
-    *   49.51065
-
-    *   7.6886
-
-
-*    *   1829
-
+    *
     *   B270
 
     *   B270 Hirschhorn (Pfalz)
@@ -20180,8 +17639,9 @@ Gültig ab 1. Dezember 2019
     *   7.67075
 
 
-*    *   1830
+*    *   1466
 
+    *
     *   B270
 
     *   B270 Olsbrücken
@@ -20191,8 +17651,9 @@ Gültig ab 1. Dezember 2019
     *   7.6627
 
 
-*    *   1831
+*    *   1467
 
+    *
     *   B270
 
     *   B270 Rutsweiler an der Lauter, B
@@ -20202,19 +17663,33 @@ Gültig ab 1. Dezember 2019
     *   7.61983
 
 
-*    *   1832
+*    *   1468
 
+    *
     *   B270
 
     *   B270 Rutsweiler an der Lauter, A
 
     *   49.57329
 
-    *   7.62143
+    *   7.62145
 
 
-*    *   1833
+*    *   1469
 
+    *
+    *   B270
+
+    *   B270 Wolfstein
+
+    *   49.59051
+
+    *   7.60301
+
+
+*    *   1470
+
+    *
     *   B270
 
     *   B270 Heinzenhausen
@@ -20224,74 +17699,21 @@ Gültig ab 1. Dezember 2019
     *   7.62003
 
 
-*    *   1834
+*    *   1471
 
+    *
     *   B271
 
-    *   B271 Flomborn, Langgasse
-
-    *   49.69131
-
-    *   8.14891
-
-
-*    *   1835
-
-    *   B271
-
-    *   B271 Bockenheim an der Weinstraße, Kellereistr.
-
-    *   49.60211
-
-    *   8.18158
-
-
-*    *   1836
-
-    *   B271
-
-    *   B271 Wachenheim an der Weinstraße, A
+    *   B271 Wachenheim an der Weinstraße
 
     *   49.44898
 
     *   8.19736
 
 
-*    *   1837
+*    *   1472
 
-    *   A65
-
-    *   Deidesheim
-
-    *   49.37637
-
-    *   8.21563
-
-
-*    *   1838
-
-    *   B272
-
-    *   B272 Hochstadt (Pfalz), B
-
-    *   49.24205
-
-    *   8.22806
-
-
-*    *   1839
-
-    *   B272
-
-    *   B272 Hochstadt (Pfalz), A
-
-    *   49.24388
-
-    *   8.23241
-
-
-*    *   1840
-
+    *
     *   B273
 
     *   B273 Oranienburg, A
@@ -20301,19 +17723,9 @@ Gültig ab 1. Dezember 2019
     *   13.37435
 
 
-*    *   1841
+*    *   1473
 
-    *   B273
-
-    *   B273 Oranienburg, Carl-Gustav-Hempel-Straße
-
-    *   52.7657
-
-    *   13.27778
-
-
-*    *   1842
-
+    *
     *   B273
 
     *   B273 Nauen
@@ -20323,19 +17735,9 @@ Gültig ab 1. Dezember 2019
     *   12.87992
 
 
-*    *   1843
+*    *   1474
 
-    *   B274
-
-    *   B274 Sankt Goarshausen, Heinrich-Heine-Straße
-
-    *   50.15586
-
-    *   7.71277
-
-
-*    *   1844
-
+    *
     *   B274
 
     *   B274 Mudershausen, A
@@ -20345,63 +17747,9 @@ Gültig ab 1. Dezember 2019
     *   8.03846
 
 
-*    *   1845
+*    *   1475
 
-    *   B275
-
-    *   B275 Bad Schwalbach, Brunnenstraße, B
-
-    *   50.13854
-
-    *   8.06915
-
-
-*    *   1846
-
-    *   B275
-
-    *   B275 Bad Schwalbach, Adolfstraße, D
-
-    *   50.14114
-
-    *   8.0709
-
-
-*    *   1847
-
-    *   B275
-
-    *   B275 Bad Schwalbach, Rothfeld
-
-    *   50.14889
-
-    *   8.08211
-
-
-*    *   1848
-
-    *   B275
-
-    *   B275 Taunusstein, Rembrandtstraße
-
-    *   50.14446
-
-    *   8.16712
-
-
-*    *   1849
-
-    *   B275
-
-    *   B275 Idstein, Eschenhahn, Panoramaweg
-
-    *   50.18867
-
-    *   8.23592
-
-
-*    *   1850
-
+    *
     *   B275
 
     *   B275 Waldems, B
@@ -20411,19 +17759,9 @@ Gültig ab 1. Dezember 2019
     *   8.30245
 
 
-*    *   1851
+*    *   1476
 
-    *   B275
-
-    *   B275 Waldems, Auf der Lind
-
-    *   50.24871
-
-    *   8.31114
-
-
-*    *   1852
-
+    *
     *   B275
 
     *   B275 Weilrod, B
@@ -20433,19 +17771,9 @@ Gültig ab 1. Dezember 2019
     *   8.37585
 
 
-*    *   1853
+*    *   1477
 
-    *   B275
-
-    *   B275 Neu-Anspach
-
-    *   50.32937
-
-    *   8.49198
-
-
-*    *   1854
-
+    *
     *   B275
 
     *   B275 Ranstadt
@@ -20455,8 +17783,9 @@ Gültig ab 1. Dezember 2019
     *   8.98625
 
 
-*    *   1855
+*    *   1478
 
+    *
     *   B275
 
     *   B275 Hirzenhain, B
@@ -20466,8 +17795,9 @@ Gültig ab 1. Dezember 2019
     *   9.13921
 
 
-*    *   1856
+*    *   1479
 
+    *
     *   B275
 
     *   B275 Hirzenhain, A
@@ -20477,8 +17807,9 @@ Gültig ab 1. Dezember 2019
     *   9.14423
 
 
-*    *   1857
+*    *   1480
 
+    *
     *   B275
 
     *   B275 Grebenhain, Vaitshainer Straße
@@ -20488,8 +17819,9 @@ Gültig ab 1. Dezember 2019
     *   9.35332
 
 
-*    *   1858
+*    *   1481
 
+    *
     *   B275
 
     *   B275 Grebenhain, A
@@ -20499,52 +17831,21 @@ Gültig ab 1. Dezember 2019
     *   9.36774
 
 
-*    *   1859
+*    *   1482
 
-    *   B275
-
-    *   B275 Lauterbach (Hessen)
-
-    *   50.60517
-
-    *   9.39166
-
-
-*    *   1860
-
-    *   B275
-
-    *   B275 Lauterbach (Hessen), An der Münz
-
-    *   50.63919
-
-    *   9.40677
-
-
-*    *   1861
-
+    *
     *   B276
 
-    *   B276 Laubach, C
-
-    *   50.52134
-
-    *   9.08031
-
-
-*    *   1862
-
-    *   B276
-
-    *   B276 Schotten, C
+    *   B276 Schotten
 
     *   50.472
 
     *   9.16108
 
 
-*    *   1863
+*    *   1483
 
+    *
     *   B276
 
     *   B276 Birstein, A
@@ -20554,8 +17855,9 @@ Gültig ab 1. Dezember 2019
     *   9.3231
 
 
-*    *   1864
+*    *   1484
 
+    *
     *   B276
 
     *   B276 Birstein, B
@@ -20565,8 +17867,9 @@ Gültig ab 1. Dezember 2019
     *   9.31801
 
 
-*    *   1865
+*    *   1485
 
+    *
     *   B276
 
     *   B276 Brachttal, A
@@ -20576,41 +17879,9 @@ Gültig ab 1. Dezember 2019
     *   9.28726
 
 
-*    *   1866
+*    *   1486
 
-    *   B276
-
-    *   B276 Brachttal, C
-
-    *   50.2947
-
-    *   9.30144
-
-
-*    *   1867
-
-    *   B276
-
-    *   B276 Brachttal, D
-
-    *   50.28511
-
-    *   9.30507
-
-
-*    *   1868
-
-    *   B276
-
-    *   B276 Biebergemünd, A
-
-    *   50.22804
-
-    *   9.28108
-
-
-*    *   1869
-
+    *
     *   B276
 
     *   B276 Biebergemünd, B
@@ -20620,8 +17891,9 @@ Gültig ab 1. Dezember 2019
     *   9.27061
 
 
-*    *   1870
+*    *   1487
 
+    *
     *   B276
 
     *   B276 Biebergemünd, E
@@ -20631,41 +17903,21 @@ Gültig ab 1. Dezember 2019
     *   9.39192
 
 
-*    *   1871
+*    *   1488
 
-    *   B276
-
-    *   B276 Flörsbachtal
-
-    *   50.09957
-
-    *   9.45888
-
-
-*    *   1872
-
+    *
     *   B277
 
-    *   B277 Ehringshausen, Wilhelm-Küster-Straße, B
+    *   B277 Ehringshausen, B
 
     *   50.5958
 
     *   8.39427
 
 
-*    *   1873
+*    *   1489
 
-    *   B277
-
-    *   B277 Aßlar, Alte Chaussee
-
-    *   50.59947
-
-    *   8.42179
-
-
-*    *   1874
-
+    *
     *   B278
 
     *   B278 Schleid, Kolonnenweg
@@ -20675,8 +17927,9 @@ Gültig ab 1. Dezember 2019
     *   9.98088
 
 
-*    *   1875
+*    *   1490
 
+    *
     *   B278
 
     *   B278 Tann (Rhön), C
@@ -20686,19 +17939,21 @@ Gültig ab 1. Dezember 2019
     *   10.00845
 
 
-*    *   1876
+*    *   1491
 
+    *
     *   B278
 
-    *   B278 Ehrenberg (Rhön)
+    *   B278 Ehrenberg (Rhön), Moorwiese
 
     *   50.4718
 
     *   9.99047
 
 
-*    *   1877
+*    *   1492
 
+    *
     *   B279
 
     *   B279 Eichenzell, A
@@ -20708,8 +17963,9 @@ Gültig ab 1. Dezember 2019
     *   9.69069
 
 
-*    *   1878
+*    *   1493
 
+    *
     *   B279
 
     *   B279 Eichenzell, B
@@ -20719,8 +17975,9 @@ Gültig ab 1. Dezember 2019
     *   9.69477
 
 
-*    *   1879
+*    *   1494
 
+    *
     *   B279
 
     *   B279 Ebersburg, B
@@ -20730,8 +17987,9 @@ Gültig ab 1. Dezember 2019
     *   9.75542
 
 
-*    *   1880
+*    *   1495
 
+    *
     *   B279
 
     *   B279 Ebersburg, A
@@ -20741,8 +17999,9 @@ Gültig ab 1. Dezember 2019
     *   9.77755
 
 
-*    *   1881
+*    *   1496
 
+    *
     *   B279
 
     *   B279 Gersfeld (Rhön), A
@@ -20752,8 +18011,9 @@ Gültig ab 1. Dezember 2019
     *   9.86194
 
 
-*    *   1882
+*    *   1497
 
+    *
     *   B279
 
     *   B279 Bischofsheim a.d. Rhön, A
@@ -20763,41 +18023,45 @@ Gültig ab 1. Dezember 2019
     *   9.93917
 
 
-*    *   1883
+*    *   1498
 
+    *
     *   B279
 
-    *   B279 Bischofsheim a.d. Rhön, F
+    *   B279 Bischofsheim a.d. Rhön, D
 
     *   50.40783
 
     *   9.96796
 
 
-*    *   1884
+*    *   1499
 
+    *
     *   B279
 
-    *   B279 Bischofsheim a.d. Rhön, D
+    *   B279 Bischofsheim a.d. Rhön, F
 
     *   50.40932
 
     *   10.02174
 
 
-*    *   1885
+*    *   1500
 
+    *
     *   B279
 
     *   B279 Bastheim, A
 
-    *   50.36929
+    *   50.36914
 
-    *   10.12069
+    *   10.12079
 
 
-*    *   1886
+*    *   1501
 
+    *
     *   B279
 
     *   B279 Bastheim, B
@@ -20807,8 +18071,9 @@ Gültig ab 1. Dezember 2019
     *   10.12845
 
 
-*    *   1887
+*    *   1502
 
+    *
     *   B279
 
     *   B279 Saal a.d. Saale, B
@@ -20818,19 +18083,9 @@ Gültig ab 1. Dezember 2019
     *   10.37893
 
 
-*    *   1888
+*    *   1503
 
-    *   B279
-
-    *   B279 Bad Königshofen i. Grabfeld, Friedhofweg
-
-    *   50.27099
-
-    *   10.5269
-
-
-*    *   1889
-
+    *
     *   B279
 
     *   B279 Sulzdorf an der Lederhecke, E
@@ -20840,74 +18095,45 @@ Gültig ab 1. Dezember 2019
     *   10.56898
 
 
-*    *   1890
+*    *   1504
 
+    *
     *   B279
 
-    *   B279 Ermershausen, Hellinger Weg
-
-    *   50.20901
-
-    *   10.62495
-
-
-*    *   1891
-
-    *   B279
-
-    *   B279 Ermershausen, Am Röthlein
-
-    *   50.2084
-
-    *   10.62877
-
-
-*    *   1892
-
-    *   B279
-
-    *   B279 Pfarrweisach, Bahnhofstraße, B
-
-    *   50.14581
-
-    *   10.73805
-
-
-*    *   1893
-
-    *   B279
-
-    *   B279 Ebern, C
+    *   B279 Ebern, A
 
     *   50.11296
 
     *   10.77186
 
 
-*    *   1894
+*    *   1505
 
+    *
     *   B279
 
-    *   B279 Ebern, E
+    *   B279 Ebern, B
 
     *   50.09825
 
     *   10.78561
 
 
-*    *   1895
+*    *   1506
 
+    *
     *   B279
 
     *   B279 Rentweinsdorf, C
 
-    *   50.03991
+    *   50.04002
 
-    *   10.82008
+    *   10.81988
 
 
-*    *   1896
+*    *   1507
 
+    *
     *   B279
 
     *   B279 Baunach, Giechburgblick
@@ -20917,30 +18143,9 @@ Gültig ab 1. Dezember 2019
     *   10.85716
 
 
-*    *   1897
+*    *   1508
 
-    *   B279
-
-    *   B279 Wülfershausen a.d. Saale, C
-
-    *   50.33202
-
-    *   10.3119
-
-
-*    *   1898
-
-    *   B279
-
-    *   B279 Heustreu, B
-
-    *   50.35435
-
-    *   10.26873
-
-
-*    *   1899
-
+    *
     *   B281
 
     *   B281 Eisfeld
@@ -20950,8 +18155,9 @@ Gültig ab 1. Dezember 2019
     *   10.92214
 
 
-*    *   1900
+*    *   1509
 
+    *
     *   B281
 
     *   B281 Sachsenbrunn, B
@@ -20961,19 +18167,21 @@ Gültig ab 1. Dezember 2019
     *   10.93569
 
 
-*    *   1901
+*    *   1510
 
+    *
     *   B281
 
-    *   B281 Schmiedefeld, Treibe
+    *   B281 Neuhaus am Rennweg, C
 
-    *   50.53805
+    *   50.50038
 
-    *   11.21708
+    *   11.11567
 
 
-*    *   1902
+*    *   1511
 
+    *
     *   B281
 
     *   B281 Saalfelder Höhe
@@ -20983,19 +18191,9 @@ Gültig ab 1. Dezember 2019
     *   11.27666
 
 
-*    *   1903
+*    *   1512
 
-    *   B281
-
-    *   B281 Saalfeld/Saale, Sonneberger Straße
-
-    *   50.64083
-
-    *   11.34769
-
-
-*    *   1904
-
+    *
     *   B281
 
     *   B281 Krölpa, Lausnitzer Weg
@@ -21005,41 +18203,9 @@ Gültig ab 1. Dezember 2019
     *   11.51367
 
 
-*    *   1905
+*    *   1513
 
-    *   B281
-
-    *   B281 Krölpa, Am Teich
-
-    *   50.67097
-
-    *   11.51639
-
-
-*    *   1906
-
-    *   B281
-
-    *   B281 Pößneck
-
-    *   50.6936
-
-    *   11.58145
-
-
-*    *   1907
-
-    *   B281
-
-    *   B281 Oppurg, Ortsstraße
-
-    *   50.7174
-
-    *   11.67406
-
-
-*    *   1908
-
+    *
     *   B282
 
     *   B282 Schleiz
@@ -21049,30 +18215,33 @@ Gültig ab 1. Dezember 2019
     *   11.83168
 
 
-*    *   1909
+*    *   1514
 
+    *
     *   B282
 
     *   B282 Pausa-Mühltroff
 
     *   50.54077
 
-    *   11.93322
+    *   11.93319
 
 
-*    *   1910
+*    *   1515
 
+    *
     *   B282
 
-    *   B282 Rosenbach/Vogtl., Schleizer Straße
+    *   B282 Rosenbach/Vogtl., Schleizer Straße, C
 
     *   50.54502
 
     *   12.03744
 
 
-*    *   1911
+*    *   1516
 
+    *
     *   B283
 
     *   B283 Klingenthal, Mühlbachweg
@@ -21082,19 +18251,21 @@ Gültig ab 1. Dezember 2019
     *   12.48975
 
 
-*    *   1912
+*    *   1517
 
+    *
     *   B283
 
     *   B283 Klingenthal, Mühlweg
 
-    *   50.35077
+    *   50.35078
 
-    *   12.3976
+    *   12.39762
 
 
-*    *   1913
+*    *   1518
 
+    *
     *   B283
 
     *   B283 Markneukirchen
@@ -21104,19 +18275,21 @@ Gültig ab 1. Dezember 2019
     *   12.37846
 
 
-*    *   1914
+*    *   1519
 
+    *
     *   B284
 
-    *   B284 Gersfeld (Rhön), Obernhausen, A
+    *   B284 Gersfeld (Rhön)
 
     *   50.48293
 
     *   9.94514
 
 
-*    *   1915
+*    *   1520
 
+    *
     *   B285
 
     *   B285 Urnshausen, B
@@ -21126,19 +18299,21 @@ Gültig ab 1. Dezember 2019
     *   10.17149
 
 
-*    *   1916
+*    *   1521
 
+    *
     *   B285
 
-    *   B285 Kaltennordheim
+    *   B285 Kaltennordheim, A
 
     *   50.62046
 
     *   10.15706
 
 
-*    *   1917
+*    *   1522
 
+    *
     *   B285
 
     *   B285 Fladungen, B
@@ -21148,63 +18323,45 @@ Gültig ab 1. Dezember 2019
     *   10.13932
 
 
-*    *   1918
+*    *   1523
 
+    *
     *   B285
 
-    *   B285 Nordheim vor der Rhön, F
+    *   B285 Ostheim vor der Rhön, Paulinenstraße
 
-    *   50.46866
+    *   50.45901
 
-    *   10.20387
+    *   10.23846
 
 
-*    *   1919
+*    *   1524
 
+    *
     *   B285
 
-    *   B285 Ostheim vor der Rhön, Im Schlößchen
+    *   B285 Stockheim, A
 
-    *   50.45778
+    *   50.45108
 
-    *   10.23187
+    *   10.28251
 
 
-*    *   1920
+*    *   1525
 
+    *
     *   B286
 
     *   B286 Bad Brückenau, B
-
-    *   50.32198
-
-    *   9.78017
-
-
-*    *   1921
-
-    *   B286
-
-    *   B286 Bad Brückenau, St2289, B
 
     *   50.31479
 
     *   9.83989
 
 
-*    *   1922
+*    *   1526
 
-    *   B286
-
-    *   B286 Schondra, B
-
-    *   50.28635
-
-    *   9.87267
-
-
-*    *   1923
-
+    *
     *   B286
 
     *   B286 Burkardroth
@@ -21214,30 +18371,21 @@ Gültig ab 1. Dezember 2019
     *   9.94994
 
 
-*    *   1924
+*    *   1527
 
-    *   B286
-
-    *   B286 Dittelbrunn
-
-    *   50.07785
-
-    *   10.20132
-
-
-*    *   1925
-
+    *
     *   B286
 
     *   B286 Kolitzheim, Oberspiesheim
 
-    *   49.94972
+    *   49.94975
 
-    *   10.27997
+    *   10.28008
 
 
-*    *   1926
+*    *   1528
 
+    *
     *   B286
 
     *   B286 Kolitzheim, Hahnwald
@@ -21247,19 +18395,9 @@ Gültig ab 1. Dezember 2019
     *   10.30861
 
 
-*    *   1927
+*    *   1529
 
-    *   B286
-
-    *   B286 Gerolzhofen, St2272
-
-    *   49.91936
-
-    *   10.34495
-
-
-*    *   1928
-
+    *
     *   B286
 
     *   B286 Prichsenstadt, Herrgottsteige
@@ -21269,8 +18407,9 @@ Gültig ab 1. Dezember 2019
     *   10.35938
 
 
-*    *   1929
+*    *   1530
 
+    *
     *   B287
 
     *   B287 Fuchsstadt
@@ -21280,41 +18419,21 @@ Gültig ab 1. Dezember 2019
     *   9.9376
 
 
-*    *   1930
+*    *   1531
 
-    *   B287
-
-    *   B287 Elfershausen, C
-
-    *   50.11707
-
-    *   9.94144
-
-
-*    *   1931
-
-    *   B287
-
-    *   B287 Euerdorf, Am Steinbruch
-
-    *   50.15194
-
-    *   10.02716
-
-
-*    *   1932
-
+    *
     *   B287
 
     *   B287 Euerdorf, A
 
-    *   50.16894
+    *   50.16897
 
-    *   10.06024
+    *   10.06016
 
 
-*    *   1933
+*    *   1532
 
+    *
     *   B287
 
     *   B287 Bad Kissingen, A
@@ -21324,30 +18443,45 @@ Gültig ab 1. Dezember 2019
     *   10.06789
 
 
-*    *   1934
+*    *   1533
 
+    *
     *   B287
 
-    *   B287 Münnerstadt, B
+    *   B287 Münnerstadt, C
 
     *   50.23291
 
     *   10.16985
 
 
-*    *   1935
+*    *   1534
 
-    *   B289
+    *
+    *   B287
 
-    *   B289 Burgkunstadt, Auweg
+    *   B287 Münnerstadt, Meininger Straße
 
-    *   50.13747
+    *   50.25704
 
-    *   11.25079
+    *   10.19807
 
 
-*    *   1936
+*    *   1535
 
+    *
+    *   B287
+
+    *   B287 Münnerstadt, A
+
+    *   50.26308
+
+    *   10.19414
+
+
+*    *   1536
+
+    *
     *   B289
 
     *   B289 Kulmbach
@@ -21357,8 +18491,9 @@ Gültig ab 1. Dezember 2019
     *   11.4365
 
 
-*    *   1937
+*    *   1537
 
+    *
     *   B289
 
     *   B289 Kulmbach, Schwedensteg
@@ -21368,8 +18503,33 @@ Gültig ab 1. Dezember 2019
     *   11.46335
 
 
-*    *   1938
+*    *   1538
 
+    *
+    *   B289
+
+    *   B289 Ludwigschorgast
+
+    *   50.13542
+
+    *   11.56803
+
+
+*    *   1539
+
+    *
+    *   B289
+
+    *   B289 Kupferberg, C
+
+    *   50.13673
+
+    *   11.57419
+
+
+*    *   1540
+
+    *
     *   B289
 
     *   B289 Kupferberg, A
@@ -21379,96 +18539,33 @@ Gültig ab 1. Dezember 2019
     *   11.60164
 
 
-*    *   1939
+*    *   1541
 
+    *
     *   B290
 
-    *   B290 Rainau, D
+    *   B290 Rainau, Bucher Stausee
 
     *   48.90314
 
     *   10.15194
 
 
-*    *   1940
+*    *   1542
 
+    *
     *   B290
 
-    *   B290 Ellwangen (Jagst), K3228
-
-    *   48.96835
-
-    *   10.12389
-
-
-*    *   1941
-
-    *   B290
-
-    *   B290 Ellwangen (Jagst), Elchstraße
-
-    *   48.97801
-
-    *   10.11335
-
-
-*    *   1942
-
-    *   B290
-
-    *   B290 Jagstzell, Am Gaisberg
-
-    *   49.02688
-
-    *   10.09981
-
-
-*    *   1943
-
-    *   B290
-
-    *   B290 Stimpfach, Ölmühle, B
-
-    *   49.04491
-
-    *   10.0831
-
-
-*    *   1944
-
-    *   B290
-
-    *   B290 Rot am See, Crailsheimer Straße
-
-    *   49.2476
-
-    *   10.02797
-
-
-*    *   1945
-
-    *   B290
-
-    *   B290 Blaufelden, Wasen
-
-    *   49.3129
-
-    *   9.94772
-
-
-*    *   1946
-
-    *   B290
-
-    *   B290 Schrozberg, C
+    *   B290 Schrozberg
 
     *   49.35695
 
     *   9.90909
 
 
-*    *   1947
+*    *   1543
 
+    *
     *   B290
 
     *   B290 Niederstetten, A
@@ -21478,8 +18575,9 @@ Gültig ab 1. Dezember 2019
     *   9.84884
 
 
-*    *   1948
+*    *   1544
 
+    *
     *   B290
 
     *   B290 Bad Mergentheim, Alte Kaiserstraße, D
@@ -21489,8 +18587,9 @@ Gültig ab 1. Dezember 2019
     *   9.83057
 
 
-*    *   1949
+*    *   1545
 
+    *
     *   B290
 
     *   B290 Bad Mergentheim, Alte Kaiserstraße, A
@@ -21500,30 +18599,33 @@ Gültig ab 1. Dezember 2019
     *   9.82471
 
 
-*    *   1950
+*    *   1546
 
+    *
     *   B290
 
-    *   B290 Bad Mergentheim, E
+    *   B290 Bad Mergentheim, F
 
     *   49.4223
 
     *   9.81576
 
 
-*    *   1951
+*    *   1547
 
+    *
     *   B290
 
-    *   B290 Bad Mergentheim, C
+    *   B290 Bad Mergentheim, D
 
     *   49.4321
 
     *   9.80837
 
 
-*    *   1952
+*    *   1548
 
+    *
     *   B290
 
     *   B290 Bad Mergentheim, A
@@ -21533,8 +18635,9 @@ Gültig ab 1. Dezember 2019
     *   9.74894
 
 
-*    *   1953
+*    *   1549
 
+    *
     *   B290
 
     *   B290 Lauda-Königshofen, D
@@ -21544,8 +18647,9 @@ Gültig ab 1. Dezember 2019
     *   9.74841
 
 
-*    *   1954
+*    *   1550
 
+    *
     *   B290
 
     *   B290 Lauda-Königshofen, B
@@ -21555,8 +18659,9 @@ Gültig ab 1. Dezember 2019
     *   9.71446
 
 
-*    *   1955
+*    *   1551
 
+    *
     *   B290
 
     *   B290 Lauda-Königshofen, A
@@ -21566,19 +18671,21 @@ Gültig ab 1. Dezember 2019
     *   9.70555
 
 
-*    *   1956
+*    *   1552
 
+    *
     *   B292
 
     *   B292 Sinsheim
 
-    *   49.2446
+    *   49.24459
 
-    *   8.81049
+    *   8.81048
 
 
-*    *   1957
+*    *   1553
 
+    *
     *   B292
 
     *   B292 Waibstadt, Weyerwiesenweg
@@ -21588,8 +18695,9 @@ Gültig ab 1. Dezember 2019
     *   8.90618
 
 
-*    *   1958
+*    *   1554
 
+    *
     *   B292
 
     *   B292 Waibstadt, B
@@ -21599,8 +18707,9 @@ Gültig ab 1. Dezember 2019
     *   8.9102
 
 
-*    *   1959
+*    *   1555
 
+    *
     *   B292
 
     *   B292 Waibstadt, A
@@ -21610,8 +18719,9 @@ Gültig ab 1. Dezember 2019
     *   8.91292
 
 
-*    *   1960
+*    *   1556
 
+    *
     *   B292
 
     *   B292 Helmstadt-Bargen, Steinbruchweg
@@ -21621,19 +18731,21 @@ Gültig ab 1. Dezember 2019
     *   8.97415
 
 
-*    *   1961
+*    *   1557
 
+    *
     *   B292
 
     *   B292 Obrigheim, B
 
-    *   49.35452
+    *   49.35444
 
-    *   9.05394
+    *   9.05397
 
 
-*    *   1962
+*    *   1558
 
+    *
     *   B292
 
     *   B292 Obrigheim, A
@@ -21643,30 +18755,45 @@ Gültig ab 1. Dezember 2019
     *   9.06308
 
 
-*    *   1963
+*    *   1559
 
+    *
     *   B292
 
-    *   B292 Adelsheim, Baron-Joachim-Straße
+    *   B292 Elztal, A
 
-    *   49.40789
+    *   49.40926
 
-    *   9.3982
-
-
-*    *   1964
-
-    *   B294
-
-    *   B294 Bretten, Wilhelmstraße, B
-
-    *   49.03423
-
-    *   8.70418
+    *   9.23744
 
 
-*    *   1965
+*    *   1560
 
+    *
+    *   B292
+
+    *   B292 Adelsheim, Wasserteilweg
+
+    *   49.40715
+
+    *   9.34648
+
+
+*    *   1561
+
+    *
+    *   B292
+
+    *   B292 Adelsheim, B
+
+    *   49.40779
+
+    *   9.39818
+
+
+*    *   1562
+
+    *
     *   B294
 
     *   B294 Neulingen
@@ -21676,19 +18803,21 @@ Gültig ab 1. Dezember 2019
     *   8.72328
 
 
-*    *   1966
+*    *   1563
 
+    *
     *   B294
 
     *   B294 Birkenfeld, Wildbader Straße, B
 
-    *   48.86407
+    *   48.86408
 
-    *   8.63808
+    *   8.63809
 
 
-*    *   1967
+*    *   1564
 
+    *
     *   B294
 
     *   B294 Simmersfeld, Großer Hummelberg
@@ -21698,8 +18827,9 @@ Gültig ab 1. Dezember 2019
     *   8.49471
 
 
-*    *   1968
+*    *   1565
 
+    *
     *   B294
 
     *   B294 Simmersfeld, Moosberg Ost
@@ -21709,8 +18839,9 @@ Gültig ab 1. Dezember 2019
     *   8.48695
 
 
-*    *   1969
+*    *   1566
 
+    *
     *   B294
 
     *   B294 Simmersfeld, Moosberg West
@@ -21720,8 +18851,9 @@ Gültig ab 1. Dezember 2019
     *   8.48142
 
 
-*    *   1970
+*    *   1567
 
+    *
     *   B294
 
     *   B294 Simmersfeld, Lindengrund
@@ -21731,30 +18863,9 @@ Gültig ab 1. Dezember 2019
     *   8.46273
 
 
-*    *   1971
+*    *   1568
 
-    *   B294
-
-    *   B294 Seewald, Poppelbach Nord
-
-    *   48.61218
-
-    *   8.46085
-
-
-*    *   1972
-
-    *   B294
-
-    *   B294 Seewald, Poppelbach Süd
-
-    *   48.6115
-
-    *   8.45852
-
-
-*    *   1973
-
+    *
     *   B294
 
     *   B294 Seewald, Poppeltal Süd
@@ -21764,8 +18875,9 @@ Gültig ab 1. Dezember 2019
     *   8.44801
 
 
-*    *   1974
+*    *   1569
 
+    *
     *   B294
 
     *   B294 Seewald, Poppeltal Nord
@@ -21775,19 +18887,9 @@ Gültig ab 1. Dezember 2019
     *   8.44261
 
 
-*    *   1975
+*    *   1570
 
-    *   B294
-
-    *   B294 Seewald, Urnagolder Straße
-
-    *   48.59885
-
-    *   8.42702
-
-
-*    *   1976
-
+    *
     *   B294
 
     *   B294 Alpirsbach, Kinzigtalstraße
@@ -21797,8 +18899,9 @@ Gültig ab 1. Dezember 2019
     *   8.41356
 
 
-*    *   1977
+*    *   1571
 
+    *
     *   B294
 
     *   B294 Schiltach
@@ -21808,8 +18911,9 @@ Gültig ab 1. Dezember 2019
     *   8.31303
 
 
-*    *   1978
+*    *   1572
 
+    *
     *   B294
 
     *   B294 Haslach im Kinzigtal
@@ -21819,30 +18923,21 @@ Gültig ab 1. Dezember 2019
     *   8.10238
 
 
-*    *   1979
+*    *   1573
 
+    *
     *   B294
 
     *   B294 Winden im Elztal, A
-
-    *   48.15122
-
-    *   8.03567
-
-
-*    *   1980
-
-    *   B294
-
-    *   B294 Winden im Elztal, B
 
     *   48.13425
 
     *   8.00795
 
 
-*    *   1981
+*    *   1574
 
+    *
     *   B294
 
     *   B294 Waldkirch, Hugenwaldtunnel
@@ -21852,8 +18947,9 @@ Gültig ab 1. Dezember 2019
     *   7.96786
 
 
-*    *   1982
+*    *   1575
 
+    *
     *   B295
 
     *   B295 Calw, Latscher Straße
@@ -21863,8 +18959,9 @@ Gültig ab 1. Dezember 2019
     *   8.77164
 
 
-*    *   1983
+*    *   1576
 
+    *
     *   B295
 
     *   B295 Weil der Stadt, Reifenloch
@@ -21874,85 +18971,9 @@ Gültig ab 1. Dezember 2019
     *   8.85052
 
 
-*    *   1984
+*    *   1577
 
-    *   B295
-
-    *   B295 Leonberg, Friedhofstraße
-
-    *   48.79038
-
-    *   9.00298
-
-
-*    *   1985
-
-    *   B295
-
-    *   B295 Leonberg, Bismarckstraße
-
-    *   48.79175
-
-    *   9.00207
-
-
-*    *   1986
-
-    *   B295
-
-    *   B295 Leonberg, Brennerstraße, A
-
-    *   48.7947
-
-    *   9.00797
-
-
-*    *   1987
-
-    *   B295
-
-    *   B295 Leonberg, Belforter Platz
-
-    *   48.79834
-
-    *   9.01473
-
-
-*    *   1988
-
-    *   B295
-
-    *   B295 Ditzingen, Calwer Straße, E
-
-    *   48.8122
-
-    *   9.04926
-
-
-*    *   1989
-
-    *   B295
-
-    *   B295 Stuttgart, Leobener Straße
-
-    *   48.81433
-
-    *   9.16043
-
-
-*    *   1990
-
-    *   B296
-
-    *   B296/B463 Calw, Hirsau
-
-    *   48.73524
-
-    *   8.73586
-
-
-*    *   1991
-
+    *
     *   B296
 
     *   B296 Calw, Kuhwaldweg
@@ -21962,52 +18983,33 @@ Gültig ab 1. Dezember 2019
     *   8.77175
 
 
-*    *   1992
+*    *   1578
 
+    *
     *   B296
 
-    *   B296 Deckenpfronn, Herrenberger Straße
+    *   B296 Deckenpfronn, B
 
-    *   48.64995
+    *   48.65129
 
-    *   8.81818
-
-
-*    *   1993
-
-    *   B296
-
-    *   B296 Herrenberg, Nufringer Straße
-
-    *   48.6143
-
-    *   8.84247
+    *   8.81563
 
 
-*    *   1994
+*    *   1579
 
-    *   B296
+    *
+    *   B297
 
-    *   B296 Herrenberg, Lilienstraße
+    *   B297 Neckartenzlingen, Stuttgarter Straße, B
 
-    *   48.60459
+    *   48.59517
 
-    *   8.85999
-
-
-*    *   1995
-
-    *   B296
-
-    *   B296 Herrenberg, Schäferlinde, B
-
-    *   48.59719
-
-    *   8.86109
+    *   9.24068
 
 
-*    *   1996
+*    *   1580
 
+    *
     *   B297
 
     *   B297 Kirchheim unter Teck
@@ -22017,30 +19019,21 @@ Gültig ab 1. Dezember 2019
     *   9.4638
 
 
-*    *   1997
+*    *   1581
 
-    *   B297
-
-    *   B297 Schlierbach
-
-    *   48.68301
-
-    *   9.53987
-
-
-*    *   1998
-
+    *
     *   B297
 
     *   B297 Albershausen
 
-    *   48.68524
+    *   48.68526
 
-    *   9.54834
+    *   9.54841
 
 
-*    *   1999
+*    *   1582
 
+    *
     *   B298
 
     *   B298 Spraitbach, Innere Langäcker
@@ -22050,8 +19043,9 @@ Gültig ab 1. Dezember 2019
     *   9.75764
 
 
-*    *   2000
+*    *   1583
 
+    *
     *   B298
 
     *   B298 Spraitbach, A
@@ -22061,19 +19055,9 @@ Gültig ab 1. Dezember 2019
     *   9.75465
 
 
-*    *   2001
+*    *   1584
 
-    *   B298
-
-    *   B298 Gschwend, L1153
-
-    *   48.91563
-
-    *   9.72844
-
-
-*    *   2002
-
+    *
     *   B298
 
     *   B298 Gschwend, Wildgarten, D
@@ -22083,8 +19067,9 @@ Gültig ab 1. Dezember 2019
     *   9.73779
 
 
-*    *   2003
+*    *   1585
 
+    *
     *   B298
 
     *   B298 Gaildorf
@@ -22094,129 +19079,45 @@ Gültig ab 1. Dezember 2019
     *   9.7686
 
 
-*    *   2004
+*    *   1586
 
-    *   B298
-
-    *   B298 Gaildorf, Robert-Bosch-Straße
-
-    *   48.97861
-
-    *   9.77439
-
-
-*    *   2005
-
+    *
     *   B299
 
-    *   B299 Tacherting, Mühlenstraße, B
+    *   B299 Waldsassen, D
 
-    *   48.09206
+    *   50.00966
 
-    *   12.56358
+    *   12.31277
 
 
-*    *   2006
+*    *   1587
 
+    *
     *   B299
 
-    *   B299 Unterneukirchen, A
+    *   B299 Pressath, B
 
-    *   48.19352
+    *   49.79391
 
-    *   12.64188
+    *   11.97018
 
 
-*    *   2007
+*    *   1588
 
+    *
     *   B299
 
-    *   B299 Altötting, Wasserwimmerbach
+    *   B299 Pressath, Wanderparkplatz Hessenreuth
 
-    *   48.24666
+    *   49.80372
 
-    *   12.65861
-
-
-*    *   2008
-
-    *   B299
-
-    *   B299 Altötting, Fischbach
-
-    *   48.24846
-
-    *   12.66052
+    *   11.97815
 
 
-*    *   2009
+*    *   1589
 
-    *   B299
-
-    *   B299 Niederbergkirchen, B
-
-    *   48.32498
-
-    *   12.53544
-
-
-*    *   2010
-
-    *   B299
-
-    *   B299 Niederbergkirchen, A
-
-    *   48.33233
-
-    *   12.52539
-
-
-*    *   2011
-
-    *   B299
-
-    *   B299 Egglkofen, B
-
-    *   48.40538
-
-    *   12.44319
-
-
-*    *   2012
-
-    *   B299
-
-    *   B299 Bodenkirchen
-
-    *   48.41464
-
-    *   12.42842
-
-
-*    *   2013
-
-    *   B299
-
-    *   B299/B388 Bodenkirchen
-
-    *   48.43076
-
-    *   12.38986
-
-
-*    *   2014
-
-    *   B299
-
-    *   B299 Biburg
-
-    *   48.76802
-
-    *   11.8252
-
-
-*    *   2015
-
+    *
     *   B299
 
     *   B299 Pförring, B
@@ -22226,74 +19127,33 @@ Gültig ab 1. Dezember 2019
     *   11.66373
 
 
-*    *   2016
+*    *   1590
 
+    *
     *   B299
 
-    *   B299 Altmannstein, G
-
-    *   48.92509
-
-    *   11.59258
-
-
-*    *   2017
-
-    *   B299
-
-    *   B299 Altmannstein, F
-
-    *   48.93462
-
-    *   11.57507
-
-
-*    *   2018
-
-    *   B299
-
-    *   B299 Altmannstein, A
-
-    *   48.95706
-
-    *   11.56021
-
-
-*    *   2019
-
-    *   B299
-
-    *   B299 Beilngries, D
+    *   B299 Beilngries, C
 
     *   49.00204
 
     *   11.52096
 
 
-*    *   2020
+*    *   1591
 
+    *
     *   B299
 
-    *   B299 Beilngries, Altmühltalradweg, A
-
-    *   49.02016
-
-    *   11.47823
-
-
-*    *   2021
-
-    *   B299
-
-    *   B299 Berching, B
+    *   B299 Berching, A
 
     *   49.12282
 
     *   11.44352
 
 
-*    *   2022
+*    *   1592
 
+    *
     *   B299
 
     *   B299 Pilsach, Amberger Straße
@@ -22303,74 +19163,153 @@ Gültig ab 1. Dezember 2019
     *   11.51041
 
 
-*    *   2023
+*    *   1593
 
+    *
     *   B299
 
-    *   B299 Kastl, E
+    *   B299 Kastl, Hirschwald
 
     *   49.36084
 
     *   11.62874
 
 
-*    *   2024
+*    *   1594
 
+    *
     *   B299
 
-    *   B299 Kastl, D
+    *   B299 Kastl
 
     *   49.36583
 
     *   11.64359
 
 
-*    *   2025
+*    *   1595
 
+    *
     *   B299
 
-    *   B299 Ursensollen, A
+    *   B299 Ursensollen
 
     *   49.41774
 
     *   11.77904
 
 
-*    *   2026
+*    *   1596
 
+    *
     *   B299
 
-    *   B299 Neustadt an der Waldnaab (Gemfr.), B
+    *   B299 Biburg
 
-    *   49.79391
+    *   48.76802
 
-    *   11.97018
+    *   11.8252
 
 
-*    *   2027
+*    *   1597
 
+    *
     *   B299
 
-    *   B299 Neustadt an der Waldnaab (Gemfr.), A
+    *   B299 Niederbergkirchen, B
 
-    *   49.80372
+    *   48.32498
 
-    *   11.97815
+    *   12.53544
 
 
-*    *   2028
+*    *   1598
 
+    *
     *   B299
 
-    *   B299 Waldsassen, E
+    *   B299 Niederbergkirchen, A
 
-    *   50.00966
+    *   48.33233
 
-    *   12.31277
+    *   12.52539
 
 
-*    *   2029
+*    *   1599
 
+    *
+    *   B299
+
+    *   B299 Egglkofen, B
+
+    *   48.40538
+
+    *   12.44319
+
+
+*    *   1600
+
+    *
+    *   B299
+
+    *   B299 Bodenkirchen
+
+    *   48.41464
+
+    *   12.42842
+
+
+*    *   1601
+
+    *
+    *   B299
+
+    *   B299/B388 Bodenkirchen
+
+    *   48.43076
+
+    *   12.38986
+
+
+*    *   1602
+
+    *
+    *   B299
+
+    *   B299 Unterneukirchen, A
+
+    *   48.19352
+
+    *   12.64188
+
+
+*    *   1603
+
+    *
+    *   B299
+
+    *   B299 Altötting, Wasserwimmerbach
+
+    *   48.24666
+
+    *   12.65861
+
+
+*    *   1604
+
+    *
+    *   B299
+
+    *   B299 Altötting, Fischbach
+
+    *   48.24846
+
+    *   12.66052
+
+
+*    *   1605
+
+    *
     *   B300
 
     *   B300 Heimertingen
@@ -22380,8 +19319,9 @@ Gültig ab 1. Dezember 2019
     *   10.15196
 
 
-*    *   2030
+*    *   1606
 
+    *
     *   B300
 
     *   B300 Niederrieden
@@ -22391,19 +19331,9 @@ Gültig ab 1. Dezember 2019
     *   10.17412
 
 
-*    *   2031
+*    *   1607
 
-    *   B300
-
-    *   B300 Krumbach (Schwaben), Augsburger Straße, C
-
-    *   48.24407
-
-    *   10.37229
-
-
-*    *   2032
-
+    *
     *   B300
 
     *   B300 Gessertshausen, B
@@ -22413,8 +19343,9 @@ Gültig ab 1. Dezember 2019
     *   10.70433
 
 
-*    *   2033
+*    *   1608
 
+    *
     *   B300
 
     *   B300 Friedberg, Robert-Koch-Straße
@@ -22424,8 +19355,9 @@ Gültig ab 1. Dezember 2019
     *   10.97941
 
 
-*    *   2034
+*    *   1609
 
+    *
     *   B300
 
     *   B300 Aichach
@@ -22435,8 +19367,9 @@ Gültig ab 1. Dezember 2019
     *   11.16452
 
 
-*    *   2035
+*    *   1610
 
+    *
     *   B300
 
     *   B300 Kühbach
@@ -22446,8 +19379,9 @@ Gültig ab 1. Dezember 2019
     *   11.21707
 
 
-*    *   2036
+*    *   1611
 
+    *
     *   B300
 
     *   B300 Gachenbach, Westerham
@@ -22457,8 +19391,9 @@ Gültig ab 1. Dezember 2019
     *   11.22461
 
 
-*    *   2037
+*    *   1612
 
+    *
     *   B300
 
     *   B300 Waidhofen
@@ -22468,8 +19403,9 @@ Gültig ab 1. Dezember 2019
     *   11.36118
 
 
-*    *   2038
+*    *   1613
 
+    *
     *   B300
 
     *   B300 Hohenwart, A
@@ -22479,8 +19415,9 @@ Gültig ab 1. Dezember 2019
     *   11.42774
 
 
-*    *   2039
+*    *   1614
 
+    *
     *   B300
 
     *   B300 Reichertshofen, C
@@ -22490,8 +19427,9 @@ Gültig ab 1. Dezember 2019
     *   11.48582
 
 
-*    *   2040
+*    *   1615
 
+    *
     *   B300
 
     *   B300 Reichertshofen, B
@@ -22501,63 +19439,21 @@ Gültig ab 1. Dezember 2019
     *   11.48853
 
 
-*    *   2041
+*    *   1616
 
-    *   B301
-
-    *   B301 Mainburg, Plankmühle
-
-    *   48.61691
-
-    *   11.77935
-
-
-*    *   2042
-
-    *   B301
-
-    *   B301 Biburg, Hochstraße
-
-    *   48.78343
-
-    *   11.83928
-
-
-*    *   2043
-
+    *
     *   B303
 
-    *   B303 Euerbach, Maurergasse
-
-    *   50.06244
-
-    *   10.13102
-
-
-*    *   2044
-
-    *   B303
-
-    *   B303 Schweinfurt, Moritz-Fischer-Straße
-
-    *   50.04773
-
-    *   10.21916
-
-
-*    *   2045
-
-    *   B303
-
-    *   B303 Schonungen, A
+    *   B303 Schonungen
 
     *   50.05898
 
     *   10.38034
 
 
-*    *   2046
+*    *   1617
 
+    *
     *   B303
 
     *   B303 Burgpreppach, B
@@ -22567,8 +19463,9 @@ Gültig ab 1. Dezember 2019
     *   10.61987
 
 
-*    *   2047
+*    *   1618
 
+    *
     *   B303
 
     *   B303 Burgpreppach, A
@@ -22578,8 +19475,9 @@ Gültig ab 1. Dezember 2019
     *   10.67359
 
 
-*    *   2048
+*    *   1619
 
+    *
     *   B303
 
     *   B303 Maroldsweisach, B
@@ -22589,8 +19487,9 @@ Gültig ab 1. Dezember 2019
     *   10.72517
 
 
-*    *   2049
+*    *   1620
 
+    *
     *   B303
 
     *   B303 Seßlach, Geiersbach
@@ -22600,30 +19499,33 @@ Gültig ab 1. Dezember 2019
     *   10.81118
 
 
-*    *   2050
+*    *   1621
 
+    *
     *   B303
 
     *   B303 Seßlach, Rodach
 
-    *   50.21344
+    *   50.2135
 
-    *   10.81826
+    *   10.81834
 
 
-*    *   2051
+*    *   1622
 
+    *
     *   B303
 
-    *   B303 Sonnefeld, C
+    *   B303 Sonnefeld, B
 
     *   50.22661
 
     *   11.14121
 
 
-*    *   2052
+*    *   1623
 
+    *
     *   B303
 
     *   B303 Sonnefeld, A
@@ -22633,8 +19535,9 @@ Gültig ab 1. Dezember 2019
     *   11.16515
 
 
-*    *   2053
+*    *   1624
 
+    *
     *   B303
 
     *   B303 Mitwitz, Steinerner Löwe
@@ -22644,19 +19547,9 @@ Gültig ab 1. Dezember 2019
     *   11.20565
 
 
-*    *   2054
+*    *   1625
 
-    *   B303
-
-    *   B303 Mitwitz, Burgstall
-
-    *   50.24135
-
-    *   11.25645
-
-
-*    *   2055
-
+    *
     *   B303
 
     *   B303 Mitwitz, Föritzbächlein
@@ -22666,30 +19559,9 @@ Gültig ab 1. Dezember 2019
     *   11.26152
 
 
-*    *   2056
+*    *   1626
 
-    *   B303
-
-    *   B303 Rugendorf, Zettlitz, A
-
-    *   50.19337
-
-    *   11.47645
-
-
-*    *   2057
-
-    *   B303
-
-    *   B303 Stadtsteinach, A
-
-    *   50.18351
-
-    *   11.48459
-
-
-*    *   2058
-
+    *
     *   B303
 
     *   B303 Ludwigschorgast, C
@@ -22699,19 +19571,9 @@ Gültig ab 1. Dezember 2019
     *   11.58658
 
 
-*    *   2059
+*    *   1627
 
-    *   B303
-
-    *   B303 Bischofsgrün, Glasermühle
-
-    *   50.05553
-
-    *   11.78131
-
-
-*    *   2060
-
+    *
     *   B303
 
     *   B303 Wunsiedel im Fichtelgeb. (Gemfr.), Seehaus
@@ -22721,8 +19583,9 @@ Gültig ab 1. Dezember 2019
     *   11.85793
 
 
-*    *   2061
+*    *   1628
 
+    *
     *   B303
 
     *   B303 Marktredwitz, Röslau
@@ -22732,8 +19595,9 @@ Gültig ab 1. Dezember 2019
     *   12.13638
 
 
-*    *   2062
+*    *   1629
 
+    *
     *   B303
 
     *   B303 Arzberg, Röslau
@@ -22743,8 +19607,9 @@ Gültig ab 1. Dezember 2019
     *   12.14904
 
 
-*    *   2063
+*    *   1630
 
+    *
     *   B303
 
     *   B303 Arzberg, Flitterbachtal Brücke
@@ -22754,8 +19619,9 @@ Gültig ab 1. Dezember 2019
     *   12.17965
 
 
-*    *   2064
+*    *   1631
 
+    *
     *   B303
 
     *   B303 Schirnding
@@ -22765,30 +19631,21 @@ Gültig ab 1. Dezember 2019
     *   12.25051
 
 
-*    *   2065
+*    *   1632
 
+    *
     *   B304
 
-    *   B304 München, Dachauer Straße, A
+    *   B304 Vaterstetten, Wasserburger Landstraße
 
-    *   48.21673
+    *   48.09611
 
-    *   11.4802
-
-
-*    *   2066
-
-    *   B304
-
-    *   B304 München, Waldtruderinger Straße
-
-    *   48.1132
-
-    *   11.70112
+    *   11.77131
 
 
-*    *   2067
+*    *   1633
 
+    *
     *   B304
 
     *   B304 Kirchseeon, A
@@ -22798,8 +19655,9 @@ Gültig ab 1. Dezember 2019
     *   11.84614
 
 
-*    *   2068
+*    *   1634
 
+    *
     *   B304
 
     *   B304 Ebersberg, A
@@ -22809,8 +19667,9 @@ Gültig ab 1. Dezember 2019
     *   12.01058
 
 
-*    *   2069
+*    *   1635
 
+    *
     *   B304
 
     *   B304 Wasserburg a. Inn, A
@@ -22820,8 +19679,9 @@ Gültig ab 1. Dezember 2019
     *   12.21187
 
 
-*    *   2070
+*    *   1636
 
+    *
     *   B304
 
     *   B304 Babensham, Blaufeld
@@ -22831,19 +19691,21 @@ Gültig ab 1. Dezember 2019
     *   12.21888
 
 
-*    *   2071
+*    *   1637
 
+    *
     *   B304
 
     *   B304 Eiselfing, C
 
     *   48.04144
 
-    *   12.29471
+    *   12.29472
 
 
-*    *   2072
+*    *   1638
 
+    *
     *   B304
 
     *   B304 Amerang, E
@@ -22853,19 +19715,57 @@ Gültig ab 1. Dezember 2019
     *   12.34088
 
 
-*    *   2073
+*    *   1639
 
+    *
     *   B304
 
-    *   B304 Altenmarkt a.d. Alz, A
+    *   B304 Altenmarkt a.d. Alz, B
 
     *   48.00726
 
     *   12.50547
 
 
-*    *   2074
+*    *   1640
 
+    *
+    *   B304
+
+    *   B304 Altenmarkt a.d. Alz, Schwarzauer Weg
+
+    *   48.00614
+
+    *   12.53245
+
+
+*    *   1641
+
+    *
+    *   B304
+
+    *   B304 München, Wasserburger Landstraße, B
+
+    *   48.11915
+
+    *   11.67993
+
+
+*    *   1642
+
+    *
+    *   B305
+
+    *   B305 Bernau a. Chiemsee, Rottauer Straße, A
+
+    *   47.81053
+
+    *   12.37625
+
+
+*    *   1643
+
+    *
     *   B305
 
     *   B305 Reit im Winkl, A
@@ -22875,8 +19775,9 @@ Gültig ab 1. Dezember 2019
     *   12.48237
 
 
-*    *   2075
+*    *   1644
 
+    *
     *   B305
 
     *   B305 Reit im Winkl, B
@@ -22886,8 +19787,9 @@ Gültig ab 1. Dezember 2019
     *   12.48911
 
 
-*    *   2076
+*    *   1645
 
+    *
     *   B305
 
     *   B305 Reit im Winkl, C
@@ -22897,8 +19799,9 @@ Gültig ab 1. Dezember 2019
     *   12.50382
 
 
-*    *   2077
+*    *   1646
 
+    *
     *   B305
 
     *   B305 Reit im Winkl, E
@@ -22908,8 +19811,9 @@ Gültig ab 1. Dezember 2019
     *   12.49827
 
 
-*    *   2078
+*    *   1647
 
+    *
     *   B305
 
     *   B305 Reit im Winkl, Weitseestraße, A
@@ -22919,8 +19823,9 @@ Gültig ab 1. Dezember 2019
     *   12.47196
 
 
-*    *   2079
+*    *   1648
 
+    *
     *   B305
 
     *   B305 Reit im Winkl, D
@@ -22930,8 +19835,9 @@ Gültig ab 1. Dezember 2019
     *   12.55053
 
 
-*    *   2080
+*    *   1649
 
+    *
     *   B305
 
     *   B305 Ruhpolding, F
@@ -22941,8 +19847,9 @@ Gültig ab 1. Dezember 2019
     *   12.58591
 
 
-*    *   2081
+*    *   1650
 
+    *
     *   B305
 
     *   B305 Ruhpolding, D
@@ -22952,8 +19859,9 @@ Gültig ab 1. Dezember 2019
     *   12.60442
 
 
-*    *   2082
+*    *   1651
 
+    *
     *   B305
 
     *   B305 Ruhpolding, C
@@ -22963,8 +19871,9 @@ Gültig ab 1. Dezember 2019
     *   12.61386
 
 
-*    *   2083
+*    *   1652
 
+    *
     *   B305
 
     *   B305 Ruhpolding, B
@@ -22974,8 +19883,9 @@ Gültig ab 1. Dezember 2019
     *   12.64229
 
 
-*    *   2084
+*    *   1653
 
+    *
     *   B305
 
     *   B305 Ruhpolding, Laubau, A
@@ -22985,8 +19895,9 @@ Gültig ab 1. Dezember 2019
     *   12.66063
 
 
-*    *   2085
+*    *   1654
 
+    *
     *   B305
 
     *   B305 Ruhpolding, Fritz am Sand
@@ -22996,8 +19907,9 @@ Gültig ab 1. Dezember 2019
     *   12.66297
 
 
-*    *   2086
+*    *   1655
 
+    *
     *   B305
 
     *   B305 Inzell
@@ -23007,19 +19919,21 @@ Gültig ab 1. Dezember 2019
     *   12.73158
 
 
-*    *   2087
+*    *   1656
 
+    *
     *   B305
 
-    *   B305 Schneizlreuth, B
+    *   B305 Schneizlreuth, C
 
     *   47.69853
 
     *   12.80105
 
 
-*    *   2088
+*    *   1657
 
+    *
     *   B305
 
     *   B305 Schneizlreuth, Weißbachschlucht
@@ -23029,8 +19943,9 @@ Gültig ab 1. Dezember 2019
     *   12.80261
 
 
-*    *   2089
+*    *   1658
 
+    *
     *   B305
 
     *   B305 Ramsau bei Berchtesgaden, Mordau
@@ -23040,8 +19955,9 @@ Gültig ab 1. Dezember 2019
     *   12.8708
 
 
-*    *   2090
+*    *   1659
 
+    *
     *   B305
 
     *   B305 Berchtesgaden, Hauptbahnhof
@@ -23051,19 +19967,21 @@ Gültig ab 1. Dezember 2019
     *   13.00106
 
 
-*    *   2091
+*    *   1660
 
+    *
     *   B305
 
     *   B305 Marktschellenberg, B
 
-    *   47.70533
+    *   47.70532
 
-    *   13.03867
+    *   13.0387
 
 
-*    *   2092
+*    *   1661
 
+    *
     *   B307
 
     *   B307 Lenggries, Grammersau/Isar
@@ -23073,19 +19991,21 @@ Gültig ab 1. Dezember 2019
     *   11.46645
 
 
-*    *   2093
+*    *   1662
 
+    *
     *   B307
 
     *   B307 Lenggries, Staffelgraben
 
-    *   47.56039
+    *   47.56031
 
-    *   11.50174
+    *   11.50114
 
 
-*    *   2094
+*    *   1663
 
+    *
     *   B307
 
     *   B307 Lenggries, Fallerklammbrücke
@@ -23095,8 +20015,9 @@ Gültig ab 1. Dezember 2019
     *   11.53799
 
 
-*    *   2095
+*    *   1664
 
+    *
     *   B307
 
     *   B307 Lenggries, Walchen
@@ -23106,8 +20027,9 @@ Gültig ab 1. Dezember 2019
     *   11.58827
 
 
-*    *   2096
+*    *   1665
 
+    *
     *   B307
 
     *   B307 Kreuth, F
@@ -23117,8 +20039,9 @@ Gültig ab 1. Dezember 2019
     *   11.697
 
 
-*    *   2097
+*    *   1666
 
+    *
     *   B307
 
     *   B307 Kreuth, E
@@ -23128,8 +20051,9 @@ Gültig ab 1. Dezember 2019
     *   11.71173
 
 
-*    *   2098
+*    *   1667
 
+    *
     *   B307
 
     *   B307 Kreuth, A
@@ -23139,8 +20063,9 @@ Gültig ab 1. Dezember 2019
     *   11.72276
 
 
-*    *   2099
+*    *   1668
 
+    *
     *   B307
 
     *   B307 Kreuth, Brunnbichl
@@ -23150,19 +20075,21 @@ Gültig ab 1. Dezember 2019
     *   11.74768
 
 
-*    *   2100
+*    *   1669
 
+    *
     *   B307
 
-    *   B307 Schleching, C
+    *   B307 Schleching, A
 
     *   47.69282
 
     *   12.39433
 
 
-*    *   2101
+*    *   1670
 
+    *
     *   B308
 
     *   B308 Scheidegg, Grüntenweg
@@ -23172,8 +20099,9 @@ Gültig ab 1. Dezember 2019
     *   9.85714
 
 
-*    *   2102
+*    *   1671
 
+    *
     *   B308
 
     *   B308 Scheidegg, B
@@ -23183,8 +20111,9 @@ Gültig ab 1. Dezember 2019
     *   9.87641
 
 
-*    *   2103
+*    *   1672
 
+    *
     *   B308
 
     *   B308 Lindenberg im Allgäu, Ruppenmanklitz
@@ -23194,19 +20123,21 @@ Gültig ab 1. Dezember 2019
     *   9.88731
 
 
-*    *   2104
+*    *   1673
 
+    *
     *   B308
 
-    *   B308 Weiler-Simmerberg, C
+    *   B308 Weiler-Simmerberg
 
     *   47.57002
 
     *   9.92868
 
 
-*    *   2105
+*    *   1674
 
+    *
     *   B308
 
     *   B308 Oberreute
@@ -23216,30 +20147,33 @@ Gültig ab 1. Dezember 2019
     *   9.93062
 
 
-*    *   2106
+*    *   1675
 
+    *
     *   B308
 
     *   B308 Oberstaufen, A
 
     *   47.55514
 
-    *   9.99175
+    *   9.99177
 
 
-*    *   2107
+*    *   1676
 
+    *
     *   B308
 
-    *   B308 Oberstaufen, G
+    *   B308 Oberstaufen, B
 
     *   47.54331
 
     *   9.98984
 
 
-*    *   2108
+*    *   1677
 
+    *
     *   B308
 
     *   B308 Oberstaufen, Rainwaldstraße
@@ -23249,19 +20183,21 @@ Gültig ab 1. Dezember 2019
     *   10.02739
 
 
-*    *   2109
+*    *   1678
 
+    *
     *   B308
 
-    *   B308 Oberstaufen, C
+    *   B308 Immenstadt i. Allgäu, Hintersee
 
-    *   47.54949
+    *   47.56642
 
-    *   10.03761
+    *   10.15974
 
 
-*    *   2110
+*    *   1679
 
+    *
     *   B308
 
     *   B308 Sonthofen, B
@@ -23271,8 +20207,9 @@ Gültig ab 1. Dezember 2019
     *   10.32596
 
 
-*    *   2111
+*    *   1680
 
+    *
     *   B308
 
     *   B308 Bad Hindelang, Kanzel
@@ -23282,8 +20219,9 @@ Gültig ab 1. Dezember 2019
     *   10.39156
 
 
-*    *   2112
+*    *   1681
 
+    *
     *   B310
 
     *   B310 Bad Hindelang, B
@@ -23293,8 +20231,9 @@ Gültig ab 1. Dezember 2019
     *   10.41379
 
 
-*    *   2113
+*    *   1682
 
+    *
     *   B311
 
     *   B311 Immendingen
@@ -23304,8 +20243,9 @@ Gültig ab 1. Dezember 2019
     *   8.69979
 
 
-*    *   2114
+*    *   1683
 
+    *
     *   B311
 
     *   B311 Meßkirch, C
@@ -23315,8 +20255,9 @@ Gültig ab 1. Dezember 2019
     *   9.04992
 
 
-*    *   2115
+*    *   1684
 
+    *
     *   B311
 
     *   B311 Meßkirch, B
@@ -23326,19 +20267,21 @@ Gültig ab 1. Dezember 2019
     *   9.13692
 
 
-*    *   2116
+*    *   1685
 
+    *
     *   B311
 
     *   B311 Krauchenwies, C
 
-    *   48.01392
+    *   48.01391
 
-    *   9.21796
+    *   9.21797
 
 
-*    *   2117
+*    *   1686
 
+    *
     *   B311
 
     *   B311 Krauchenwies, A
@@ -23348,19 +20291,21 @@ Gültig ab 1. Dezember 2019
     *   9.26485
 
 
-*    *   2118
+*    *   1687
 
+    *
     *   B311
 
-    *   B311 Unlingen, A
+    *   B311 Unlingen
 
-    *   48.19791
+    *   48.19806
 
-    *   9.53132
+    *   9.53133
 
 
-*    *   2119
+*    *   1688
 
+    *
     *   B311
 
     *   B311 Munderkingen
@@ -23370,8 +20315,9 @@ Gültig ab 1. Dezember 2019
     *   9.63773
 
 
-*    *   2120
+*    *   1689
 
+    *
     *   B311
 
     *   B311 Ehingen (Donau), B
@@ -23381,8 +20327,9 @@ Gültig ab 1. Dezember 2019
     *   9.67103
 
 
-*    *   2121
+*    *   1690
 
+    *
     *   B311
 
     *   B311 Ehingen (Donau), A
@@ -23392,8 +20339,9 @@ Gültig ab 1. Dezember 2019
     *   9.68652
 
 
-*    *   2122
+*    *   1691
 
+    *
     *   B311
 
     *   B311 Erbach, A
@@ -23403,8 +20351,9 @@ Gültig ab 1. Dezember 2019
     *   9.87468
 
 
-*    *   2123
+*    *   1692
 
+    *
     *   B311
 
     *   B311 Ulm, Illerstraße
@@ -23414,8 +20363,9 @@ Gültig ab 1. Dezember 2019
     *   9.96068
 
 
-*    *   2124
+*    *   1693
 
+    *
     *   B311
 
     *   B311 Ulm
@@ -23425,8 +20375,9 @@ Gültig ab 1. Dezember 2019
     *   9.96762
 
 
-*    *   2125
+*    *   1694
 
+    *
     *   B312
 
     *   B312 Lichtenstein, Burgstelleweg
@@ -23436,8 +20387,9 @@ Gültig ab 1. Dezember 2019
     *   9.25675
 
 
-*    *   2126
+*    *   1695
 
+    *
     *   B312
 
     *   B312 Engstingen
@@ -23447,8 +20399,9 @@ Gültig ab 1. Dezember 2019
     *   9.31096
 
 
-*    *   2127
+*    *   1696
 
+    *
     *   B312
 
     *   B312 Hohenstein, A
@@ -23458,19 +20411,21 @@ Gültig ab 1. Dezember 2019
     *   9.32464
 
 
-*    *   2128
+*    *   1697
 
+    *
     *   B312
 
-    *   B312 Hohenstein, C
+    *   B312 Hohenstein, B
 
     *   48.30733
 
     *   9.33628
 
 
-*    *   2129
+*    *   1698
 
+    *
     *   B312
 
     *   B312 Pfronstetten, A
@@ -23480,8 +20435,9 @@ Gültig ab 1. Dezember 2019
     *   9.34374
 
 
-*    *   2130
+*    *   1699
 
+    *
     *   B312
 
     *   B312 Pfronstetten, B
@@ -23491,8 +20447,9 @@ Gültig ab 1. Dezember 2019
     *   9.34627
 
 
-*    *   2131
+*    *   1700
 
+    *
     *   B312
 
     *   B312 Pfronstetten, Albblick, B
@@ -23502,8 +20459,9 @@ Gültig ab 1. Dezember 2019
     *   9.40899
 
 
-*    *   2132
+*    *   1701
 
+    *
     *   B312
 
     *   B312 Pfronstetten, C
@@ -23513,8 +20471,9 @@ Gültig ab 1. Dezember 2019
     *   9.42165
 
 
-*    *   2133
+*    *   1702
 
+    *
     *   B312
 
     *   B312 Zwiefalten, A
@@ -23524,8 +20483,9 @@ Gültig ab 1. Dezember 2019
     *   9.44428
 
 
-*    *   2134
+*    *   1703
 
+    *
     *   B312
 
     *   B312 Zwiefalten, B
@@ -23535,8 +20495,9 @@ Gültig ab 1. Dezember 2019
     *   9.49476
 
 
-*    *   2135
+*    *   1704
 
+    *
     *   B312
 
     *   B312 Riedlingen, B
@@ -23546,8 +20507,9 @@ Gültig ab 1. Dezember 2019
     *   9.49865
 
 
-*    *   2136
+*    *   1705
 
+    *
     *   B312
 
     *   B312 Riedlingen, C
@@ -23557,8 +20519,9 @@ Gültig ab 1. Dezember 2019
     *   9.49245
 
 
-*    *   2137
+*    *   1706
 
+    *
     *   B312
 
     *   B312 Riedlingen, D
@@ -23568,8 +20531,9 @@ Gültig ab 1. Dezember 2019
     *   9.48742
 
 
-*    *   2138
+*    *   1707
 
+    *
     *   B312
 
     *   B312 Unlingen
@@ -23579,19 +20543,9 @@ Gültig ab 1. Dezember 2019
     *   9.53231
 
 
-*    *   2139
+*    *   1708
 
-    *   B312
-
-    *   B312 Dürmentingen, Betzenweiler Straße
-
-    *   48.14108
-
-    *   9.53549
-
-
-*    *   2140
-
+    *
     *   B312
 
     *   B312 Dürmentingen
@@ -23601,8 +20555,9 @@ Gültig ab 1. Dezember 2019
     *   9.55242
 
 
-*    *   2141
+*    *   1709
 
+    *
     *   B312
 
     *   B312 Biberach an der Riß, Burren, A
@@ -23612,8 +20567,9 @@ Gültig ab 1. Dezember 2019
     *   9.72316
 
 
-*    *   2142
+*    *   1710
 
+    *
     *   B312
 
     *   B312 Biberach an der Riß, B
@@ -23623,8 +20579,9 @@ Gültig ab 1. Dezember 2019
     *   9.75155
 
 
-*    *   2143
+*    *   1711
 
+    *
     *   B312
 
     *   B312 Berkheim, A
@@ -23634,8 +20591,9 @@ Gültig ab 1. Dezember 2019
     *   10.03478
 
 
-*    *   2144
+*    *   1712
 
+    *
     *   B312
 
     *   B312 Berkheim, D
@@ -23645,8 +20603,9 @@ Gültig ab 1. Dezember 2019
     *   10.07623
 
 
-*    *   2145
+*    *   1713
 
+    *
     *   B313
 
     *   B313 Stockach, B
@@ -23656,8 +20615,9 @@ Gültig ab 1. Dezember 2019
     *   8.99645
 
 
-*    *   2146
+*    *   1714
 
+    *
     *   B313
 
     *   B313 Stockach, Kieswerk
@@ -23667,8 +20627,9 @@ Gültig ab 1. Dezember 2019
     *   9.00508
 
 
-*    *   2147
+*    *   1715
 
+    *
     *   B313
 
     *   B313 Inzigkofen, A
@@ -23678,8 +20639,9 @@ Gültig ab 1. Dezember 2019
     *   9.15754
 
 
-*    *   2148
+*    *   1716
 
+    *
     *   B313
 
     *   B313 Trochtelfingen, E
@@ -23689,8 +20651,9 @@ Gültig ab 1. Dezember 2019
     *   9.24014
 
 
-*    *   2149
+*    *   1717
 
+    *
     *   B313
 
     *   B313 Trochtelfingen, B
@@ -23700,8 +20663,9 @@ Gültig ab 1. Dezember 2019
     *   9.2504
 
 
-*    *   2150
+*    *   1718
 
+    *
     *   B313
 
     *   B313 Trochtelfingen, A
@@ -23711,8 +20675,9 @@ Gültig ab 1. Dezember 2019
     *   9.24771
 
 
-*    *   2151
+*    *   1719
 
+    *
     *   B313
 
     *   B313 Engstingen, Haidweg
@@ -23722,8 +20687,9 @@ Gültig ab 1. Dezember 2019
     *   9.25887
 
 
-*    *   2152
+*    *   1720
 
+    *
     *   B314
 
     *   B314 Wutöschingen
@@ -23733,8 +20699,9 @@ Gültig ab 1. Dezember 2019
     *   8.33711
 
 
-*    *   2153
+*    *   1721
 
+    *
     *   B314
 
     *   B314 Wutöschingen, Silberwiese
@@ -23744,8 +20711,9 @@ Gültig ab 1. Dezember 2019
     *   8.37235
 
 
-*    *   2154
+*    *   1722
 
+    *
     *   B314
 
     *   B314 Blumberg, A
@@ -23755,8 +20723,9 @@ Gültig ab 1. Dezember 2019
     *   8.51805
 
 
-*    *   2155
+*    *   1723
 
+    *
     *   B314
 
     *   B314 Blumberg, B
@@ -23766,8 +20735,9 @@ Gültig ab 1. Dezember 2019
     *   8.53206
 
 
-*    *   2156
+*    *   1724
 
+    *
     *   B314
 
     *   B314 Blumberg, C
@@ -23777,8 +20747,9 @@ Gültig ab 1. Dezember 2019
     *   8.57989
 
 
-*    *   2157
+*    *   1725
 
+    *
     *   B314
 
     *   B314 Tengen, D
@@ -23788,8 +20759,21 @@ Gültig ab 1. Dezember 2019
     *   8.64668
 
 
-*    *   2158
+*    *   1726
 
+    *
+    *   B314
+
+    *   B314 Tengen, E
+
+    *   47.80742
+
+    *   8.69426
+
+
+*    *   1727
+
+    *
     *   B315
 
     *   B315 Lenzkirch
@@ -23799,30 +20783,33 @@ Gültig ab 1. Dezember 2019
     *   8.16511
 
 
-*    *   2159
+*    *   1728
 
+    *
     *   B315
 
-    *   B315 Bonndorf im Schwarzwald, D
+    *   B315 Bonndorf im Schwarzwald, C
 
     *   47.8098
 
     *   8.34661
 
 
-*    *   2160
+*    *   1729
 
+    *
     *   B315
 
-    *   B315 Bonndorf im Schwarzwald, E
+    *   B315 Bonndorf im Schwarzwald, D
 
     *   47.80492
 
     *   8.34561
 
 
-*    *   2161
+*    *   1730
 
+    *
     *   B315
 
     *   B315 Stühlingen, B
@@ -23832,19 +20819,21 @@ Gültig ab 1. Dezember 2019
     *   8.36279
 
 
-*    *   2162
+*    *   1731
 
+    *
     *   B315
 
-    *   B315 Bonndorf im Schwarzwald, F
+    *   B315 Bonndorf im Schwarzwald, E
 
     *   47.79025
 
     *   8.36634
 
 
-*    *   2163
+*    *   1732
 
+    *
     *   B315
 
     *   B315 Stühlingen, A
@@ -23854,8 +20843,9 @@ Gültig ab 1. Dezember 2019
     *   8.3717
 
 
-*    *   2164
+*    *   1733
 
+    *
     *   B317
 
     *   B317 Lörrach, Gewerbegebiet
@@ -23865,8 +20855,21 @@ Gültig ab 1. Dezember 2019
     *   7.65419
 
 
-*    *   2165
+*    *   1734
 
+    *
+    *   B317
+
+    *   B317 Maulburg
+
+    *   47.64808
+
+    *   7.77541
+
+
+*    *   1735
+
+    *
     *   B317
 
     *   B317 Zell im Wiesental, Auf der Spani
@@ -23876,8 +20879,9 @@ Gültig ab 1. Dezember 2019
     *   7.87486
 
 
-*    *   2166
+*    *   1736
 
+    *
     *   B317
 
     *   B317 Utzenfeld, Oberboden
@@ -23887,8 +20891,9 @@ Gültig ab 1. Dezember 2019
     *   7.91628
 
 
-*    *   2167
+*    *   1737
 
+    *
     *   B317
 
     *   B317 Todtnau, Poche, B
@@ -23898,8 +20903,9 @@ Gültig ab 1. Dezember 2019
     *   7.96365
 
 
-*    *   2168
+*    *   1738
 
+    *
     *   B317
 
     *   B317 Todtnau, A
@@ -23909,8 +20915,9 @@ Gültig ab 1. Dezember 2019
     *   8.00728
 
 
-*    *   2169
+*    *   1739
 
+    *
     *   B317
 
     *   B317 Todtnau, B
@@ -23920,8 +20927,9 @@ Gültig ab 1. Dezember 2019
     *   8.01275
 
 
-*    *   2170
+*    *   1740
 
+    *
     *   B317
 
     *   B317 Feldberg (Schwarzwald), Passhöhe, C
@@ -23931,8 +20939,9 @@ Gültig ab 1. Dezember 2019
     *   8.04708
 
 
-*    *   2171
+*    *   1741
 
+    *
     *   B317
 
     *   B317 Feldberg (Schwarzwald), Passhöhe, B
@@ -23942,8 +20951,9 @@ Gültig ab 1. Dezember 2019
     *   8.05063
 
 
-*    *   2172
+*    *   1742
 
+    *
     *   B317
 
     *   B317 Feldberg (Schwarzwald), Jägerpfad
@@ -23953,19 +20963,21 @@ Gültig ab 1. Dezember 2019
     *   8.06132
 
 
-*    *   2173
+*    *   1743
 
+    *
     *   B317
 
     *   B317 Feldberg (Schwarzwald)
 
-    *   47.88001
+    *   47.88002
 
-    *   8.12588
+    *   8.12591
 
 
-*    *   2174
+*    *   1744
 
+    *
     *   B317
 
     *   B317 Titisee-Neustadt
@@ -23975,8 +20987,9 @@ Gültig ab 1. Dezember 2019
     *   8.15968
 
 
-*    *   2175
+*    *   1745
 
+    *
     *   B318
 
     *   B318 Bad Wiessee, An der Bayersäg, B
@@ -23986,8 +20999,9 @@ Gültig ab 1. Dezember 2019
     *   11.71853
 
 
-*    *   2176
+*    *   1746
 
+    *
     *   B318
 
     *   B318 Bad Wiessee, An der Bayersäg, A
@@ -23997,19 +21011,33 @@ Gültig ab 1. Dezember 2019
     *   11.71808
 
 
-*    *   2177
+*    *   1747
 
+    *
+    *   B318
+
+    *   B318 Warngau, D
+
+    *   47.81238
+
+    *   11.7136
+
+
+*    *   1748
+
+    *
     *   B320
 
-    *   B320 Schwielochsee, Goyatz, Am Bahnhof
+    *   B320 Schwielochsee, Goyatz
 
     *   52.01138
 
-    *   14.18134
+    *   14.18133
 
 
-*    *   2178
+*    *   1749
 
+    *
     *   B320
 
     *   B320 Schenkendöbern, B
@@ -24019,41 +21047,21 @@ Gültig ab 1. Dezember 2019
     *   14.6094
 
 
-*    *   2179
+*    *   1750
 
+    *
     *   B321
 
-    *   B321 Bandenitz, An der Autobahn
+    *   B321 Hagenow, Söringstraße, B
 
-    *   53.48759
+    *   53.4285
 
-    *   11.27356
-
-
-*    *   2180
-
-    *   B321
-
-    *   B321 Schwerin, An der Crivitzer Chaussee, B
-
-    *   53.59995
-
-    *   11.46553
+    *   11.18521
 
 
-*    *   2181
+*    *   1751
 
-    *   B321
-
-    *   B321 Schwerin, Mueßer Bucht
-
-    *   53.59984
-
-    *   11.47294
-
-
-*    *   2182
-
+    *
     *   B321
 
     *   B321 Raben Steinfeld, Hütterkoppel
@@ -24063,8 +21071,21 @@ Gültig ab 1. Dezember 2019
     *   11.51258
 
 
-*    *   2183
+*    *   1752
 
+    *
+    *   B321
+
+    *   B321 Parchim
+
+    *   53.43779
+
+    *   11.84871
+
+
+*    *   1753
+
+    *
     *   B327
 
     *   B327 Koblenz-Oberwerth
@@ -24074,8 +21095,9 @@ Gültig ab 1. Dezember 2019
     *   7.58699
 
 
-*    *   2184
+*    *   1754
 
+    *
     *   B327
 
     *   B327 Koblenz
@@ -24085,52 +21107,33 @@ Gültig ab 1. Dezember 2019
     *   7.56479
 
 
-*    *   2185
+*    *   1755
 
-    *   B327
-
-    *   B327 Hochscheid, An der Hunsrückhöhenstraße
-
-    *   49.88259
-
-    *   7.2173
-
-
-*    *   2186
-
+    *
     *   B327
 
     *   B327 Morbach
-
-    *   49.85685
-
-    *   7.16987
-
-
-*    *   2187
-
-    *   B327
-
-    *   B327 Morbach, A
 
     *   49.82282
 
     *   7.1351
 
 
-*    *   2188
+*    *   1756
 
+    *
     *   B327
 
-    *   B327 Immert, B
+    *   B327 Immert
 
     *   49.76342
 
     *   7.0109
 
 
-*    *   2189
+*    *   1757
 
+    *
     *   B327
 
     *   B327 Hilscheid
@@ -24140,8 +21143,9 @@ Gültig ab 1. Dezember 2019
     *   7.01844
 
 
-*    *   2190
+*    *   1758
 
+    *
     *   B327
 
     *   B327 Malborn
@@ -24151,30 +21155,21 @@ Gültig ab 1. Dezember 2019
     *   6.99544
 
 
-*    *   2191
+*    *   1759
 
+    *
     *   B327
 
-    *   B327 Hermeskeil, A
+    *   B327 Hermeskeil
 
     *   49.68983
 
     *   6.97281
 
 
-*    *   2192
+*    *   1760
 
-    *   B327
-
-    *   B327 Hermeskeil, Am Rotbach
-
-    *   49.66359
-
-    *   6.94918
-
-
-*    *   2193
-
+    *
     *   B378
 
     *   B378 Neuenburg am Rhein, Zollamt Ottmarsheim
@@ -24184,8 +21179,9 @@ Gültig ab 1. Dezember 2019
     *   7.5489
 
 
-*    *   2194
+*    *   1761
 
+    *
     *   B388
 
     *   B388 Ismaning, Brennermühlstraße
@@ -24195,30 +21191,33 @@ Gültig ab 1. Dezember 2019
     *   11.73777
 
 
-*    *   2195
+*    *   1762
 
+    *
     *   B388
 
-    *   B388 Moosinning, B
+    *   B388 Moosinning
 
     *   48.28446
 
     *   11.86025
 
 
-*    *   2196
+*    *   1763
 
+    *
     *   B388
 
-    *   B388 Taufkirchen (Vils), Osen, Zeilding
+    *   B388 Taufkirchen (Vils), Veldener Straße
 
-    *   48.34993
+    *   48.34653
 
-    *   12.16897
+    *   12.13346
 
 
-*    *   2197
+*    *   1764
 
+    *
     *   B388
 
     *   B388 Vilsbiburg, C
@@ -24228,8 +21227,9 @@ Gültig ab 1. Dezember 2019
     *   12.32093
 
 
-*    *   2198
+*    *   1765
 
+    *
     *   B388
 
     *   B388 Bad Birnbach
@@ -24239,8 +21239,9 @@ Gültig ab 1. Dezember 2019
     *   13.07777
 
 
-*    *   2199
+*    *   1766
 
+    *
     *   B388
 
     *   B388 Obernzell, Hammermühlstraße, A
@@ -24250,30 +21251,33 @@ Gültig ab 1. Dezember 2019
     *   13.64176
 
 
-*    *   2200
+*    *   1767
 
+    *
     *   B388
 
-    *   B388 Untergriesbach, Wegscheider Straße, A
+    *   B388 Untergriesbach, B
 
     *   48.57441
 
     *   13.68944
 
 
-*    *   2201
+*    *   1768
 
+    *
     *   B388
 
     *   B388 Wegscheid, Pölzöd
 
-    *   48.57352
+    *   48.5735
 
-    *   13.73265
+    *   13.73267
 
 
-*    *   2202
+*    *   1769
 
+    *
     *   B388
 
     *   B388 Wegscheid, A
@@ -24283,8 +21287,9 @@ Gültig ab 1. Dezember 2019
     *   13.75158
 
 
-*    *   2203
+*    *   1770
 
+    *
     *   B388
 
     *   B388 Wegscheid, B
@@ -24294,8 +21299,9 @@ Gültig ab 1. Dezember 2019
     *   13.76456
 
 
-*    *   2204
+*    *   1771
 
+    *
     *   B388
 
     *   B388 Wegscheid, C
@@ -24305,8 +21311,9 @@ Gültig ab 1. Dezember 2019
     *   13.77133
 
 
-*    *   2205
+*    *   1772
 
+    *
     *   B388
 
     *   B388 Wegscheid, D
@@ -24316,41 +21323,9 @@ Gültig ab 1. Dezember 2019
     *   13.80513
 
 
-*    *   2206
+*    *   1773
 
-    *   B399
-
-    *   B399 Düren, Rölsdorf, Bahnstraße
-
-    *   50.79268
-
-    *   6.4644
-
-
-*    *   2207
-
-    *   B399
-
-    *   B399 Düren, Neumann-Neander-Straße
-
-    *   50.78949
-
-    *   6.4679
-
-
-*    *   2208
-
-    *   B399
-
-    *   B399 Düren, In der Mühlenau
-
-    *   50.78786
-
-    *   6.46961
-
-
-*    *   2209
-
+    *
     *   B399
 
     *   B399 Hürtgenwald, Höhenstraße, B
@@ -24360,30 +21335,45 @@ Gültig ab 1. Dezember 2019
     *   6.36053
 
 
-*    *   2210
+*    *   1774
 
+    *
     *   B400
 
     *   B400 Sontra
 
-    *   51.09673
+    *   51.09668
 
-    *   9.97157
+    *   9.97162
 
 
-*    *   2211
+*    *   1775
 
+    *
     *   B400
 
     *   B400 Sontra, Ottilien-Berg
 
-    *   51.02662
+    *   51.0266
 
-    *   10.01592
+    *   10.01601
 
 
-*    *   2212
+*    *   1776
 
+    *
+    *   B400
+
+    *   B400 Herleshausen
+
+    *   51.01952
+
+    *   10.04605
+
+
+*    *   1777
+
+    *
     *   B401
 
     *   B401 Dörpen, B
@@ -24393,30 +21383,21 @@ Gültig ab 1. Dezember 2019
     *   7.41003
 
 
-*    *   2213
+*    *   1778
 
-    *   B401
-
-    *   B401 Edewecht, Hansaweg
-
-    *   53.0845
-
-    *   7.98974
-
-
-*    *   2214
-
+    *
     *   B401
 
     *   B401 Edewecht
 
-    *   53.09336
+    *   53.09337
 
     *   8.08002
 
 
-*    *   2215
+*    *   1779
 
+    *
     *   B402
 
     *   B402 Meppen, Feuerstiege
@@ -24426,8 +21407,9 @@ Gültig ab 1. Dezember 2019
     *   7.2199
 
 
-*    *   2216
+*    *   1780
 
+    *
     *   B402
 
     *   B402 Meppen, A
@@ -24437,19 +21419,21 @@ Gültig ab 1. Dezember 2019
     *   7.2679
 
 
-*    *   2217
+*    *   1781
 
+    *
     *   B402
 
     *   B402 Meppen, B
 
-    *   52.71729
+    *   52.71726
 
-    *   7.28447
+    *   7.28455
 
 
-*    *   2218
+*    *   1782
 
+    *
     *   B402
 
     *   B402 Meppen, Vogelpohlstraße, B
@@ -24459,41 +21443,33 @@ Gültig ab 1. Dezember 2019
     *   7.32529
 
 
-*    *   2219
+*    *   1783
 
+    *
     *   B402
 
-    *   B402 Haselünne, Stadtmark, B
+    *   B402 Haselünne, B
 
     *   52.68532
 
     *   7.46516
 
 
-*    *   2220
+*    *   1784
 
+    *
     *   B402
 
-    *   B402 Haselünne, A
+    *   B402 Haselünne, C
 
     *   52.68851
 
     *   7.48094
 
 
-*    *   2221
+*    *   1785
 
-    *   B402
-
-    *   B402 Haselünne, Steinkreuzstraße
-
-    *   52.62541
-
-    *   7.53675
-
-
-*    *   2222
-
+    *
     *   B403
 
     *   B403 Isterberg, Am Berg
@@ -24503,8 +21479,9 @@ Gültig ab 1. Dezember 2019
     *   7.14457
 
 
-*    *   2223
+*    *   1786
 
+    *
     *   B403
 
     *   B403 Nordhorn, Klosterbusch
@@ -24514,19 +21491,69 @@ Gültig ab 1. Dezember 2019
     *   7.02607
 
 
-*    *   2224
+*    *   1787
 
+    *
+    *   B403
+
+    *   B403 Uelsen, Neuenhauser Straße, C
+
+    *   52.49414
+
+    *   6.91401
+
+
+*    *   1788
+
+    *
+    *   B403
+
+    *   B403 Uelsen, Neuenhauser Straße, B
+
+    *   52.49426
+
+    *   6.9123
+
+
+*    *   1789
+
+    *
+    *   B403
+
+    *   B403 Uelsen, B
+
+    *   52.49989
+
+    *   6.88616
+
+
+*    *   1790
+
+    *
+    *   B403
+
+    *   B403 Uelsen, A
+
+    *   52.50027
+
+    *   6.88372
+
+
+*    *   1791
+
+    *
     *   B403
 
     *   B403 Uelsen
 
-    *   52.50904
+    *   52.50905
 
-    *   6.86685
+    *   6.86686
 
 
-*    *   2225
+*    *   1792
 
+    *
     *   B404
 
     *   B404 Kirchbarkau
@@ -24536,8 +21563,9 @@ Gültig ab 1. Dezember 2019
     *   10.14888
 
 
-*    *   2226
+*    *   1793
 
+    *
     *   B404
 
     *   B404 Barmissen
@@ -24547,8 +21575,9 @@ Gültig ab 1. Dezember 2019
     *   10.15321
 
 
-*    *   2227
+*    *   1794
 
+    *
     *   B404
 
     *   B404 Todendorf, Zum Mühlenteich
@@ -24558,8 +21587,9 @@ Gültig ab 1. Dezember 2019
     *   10.35964
 
 
-*    *   2228
+*    *   1795
 
+    *
     *   B404
 
     *   B404 Todendorf
@@ -24569,8 +21599,9 @@ Gültig ab 1. Dezember 2019
     *   10.37201
 
 
-*    *   2229
+*    *   1796
 
+    *
     *   B404
 
     *   B404 Lütjensee
@@ -24580,8 +21611,9 @@ Gültig ab 1. Dezember 2019
     *   10.37983
 
 
-*    *   2230
+*    *   1797
 
+    *
     *   B404
 
     *   B404 Grönwohld
@@ -24591,8 +21623,9 @@ Gültig ab 1. Dezember 2019
     *   10.39213
 
 
-*    *   2231
+*    *   1798
 
+    *
     *   B404
 
     *   B404 Trittau
@@ -24602,8 +21635,9 @@ Gültig ab 1. Dezember 2019
     *   10.38346
 
 
-*    *   2232
+*    *   1799
 
+    *
     *   B404
 
     *   B404 Sachsenwald (Forstgutsbez.)
@@ -24613,8 +21647,21 @@ Gültig ab 1. Dezember 2019
     *   10.4302
 
 
-*    *   2233
+*    *   1800
 
+    *
+    *   B404
+
+    *   B404 Geesthacht, A
+
+    *   53.45279
+
+    *   10.35454
+
+
+*    *   1801
+
+    *
     *   B406
 
     *   B406 Perl, C
@@ -24624,19 +21671,9 @@ Gültig ab 1. Dezember 2019
     *   6.44647
 
 
-*    *   2234
+*    *   1802
 
-    *   B406
-
-    *   B406 Perl, Klosterstraße
-
-    *   49.52964
-
-    *   6.43185
-
-
-*    *   2235
-
+    *
     *   B406
 
     *   B406 Perl, A
@@ -24646,8 +21683,9 @@ Gültig ab 1. Dezember 2019
     *   6.40403
 
 
-*    *   2236
+*    *   1803
 
+    *
     *   B407
 
     *   B407 Kirf
@@ -24657,8 +21695,9 @@ Gültig ab 1. Dezember 2019
     *   6.51259
 
 
-*    *   2237
+*    *   1804
 
+    *
     *   B407
 
     *   B407 Trassem
@@ -24668,8 +21707,9 @@ Gültig ab 1. Dezember 2019
     *   6.52928
 
 
-*    *   2238
+*    *   1805
 
+    *
     *   B407
 
     *   B407 Irsch, A
@@ -24679,8 +21719,9 @@ Gültig ab 1. Dezember 2019
     *   6.59275
 
 
-*    *   2239
+*    *   1806
 
+    *
     *   B407
 
     *   B407 Zerf, A
@@ -24690,8 +21731,9 @@ Gültig ab 1. Dezember 2019
     *   6.67901
 
 
-*    *   2240
+*    *   1807
 
+    *
     *   B407
 
     *   B407 Zerf, B
@@ -24701,8 +21743,9 @@ Gültig ab 1. Dezember 2019
     *   6.7038
 
 
-*    *   2241
+*    *   1808
 
+    *
     *   B407
 
     *   B407 Kell am See
@@ -24712,8 +21755,9 @@ Gültig ab 1. Dezember 2019
     *   6.81524
 
 
-*    *   2242
+*    *   1809
 
+    *
     *   B407
 
     *   B407 Reinsfeld, D
@@ -24723,8 +21767,9 @@ Gültig ab 1. Dezember 2019
     *   6.86627
 
 
-*    *   2243
+*    *   1810
 
+    *
     *   B410
 
     *   B410 Preischeid
@@ -24734,8 +21779,9 @@ Gültig ab 1. Dezember 2019
     *   6.15717
 
 
-*    *   2244
+*    *   1811
 
+    *
     *   B410
 
     *   B410 Daleiden, B
@@ -24745,8 +21791,9 @@ Gültig ab 1. Dezember 2019
     *   6.16907
 
 
-*    *   2245
+*    *   1812
 
+    *
     *   B410
 
     *   B410 Irrhausen
@@ -24756,8 +21803,9 @@ Gültig ab 1. Dezember 2019
     *   6.22391
 
 
-*    *   2246
+*    *   1813
 
+    *
     *   B410
 
     *   B410 Arzfeld
@@ -24767,8 +21815,9 @@ Gültig ab 1. Dezember 2019
     *   6.28631
 
 
-*    *   2247
+*    *   1814
 
+    *
     *   B410
 
     *   B410 Lünebach, B
@@ -24778,19 +21827,9 @@ Gültig ab 1. Dezember 2019
     *   6.32695
 
 
-*    *   2248
+*    *   1815
 
-    *   B410
-
-    *   B410 Pittenbach, Dorfstraße, A
-
-    *   50.17508
-
-    *   6.34812
-
-
-*    *   2249
-
+    *
     *   B410
 
     *   B410 Watzerath, Zum Seifen
@@ -24800,30 +21839,21 @@ Gültig ab 1. Dezember 2019
     *   6.36746
 
 
-*    *   2250
+*    *   1816
 
+    *
     *   B410
 
-    *   B410 Prüm, C
+    *   B410 Prüm, D
 
     *   50.18985
 
     *   6.38581
 
 
-*    *   2251
+*    *   1817
 
-    *   B410
-
-    *   B410 Prüm, Niederprüm, Heinrich-Wolff-Straße
-
-    *   50.19164
-
-    *   6.40211
-
-
-*    *   2252
-
+    *
     *   B410
 
     *   B410 Prüm, B
@@ -24833,8 +21863,21 @@ Gültig ab 1. Dezember 2019
     *   6.43112
 
 
-*    *   2253
+*    *   1818
 
+    *
+    *   B410
+
+    *   B410 Prüm, A
+
+    *   50.21266
+
+    *   6.43483
+
+
+*    *   1819
+
+    *
     *   B410
 
     *   B410 Schwirzheim, B
@@ -24844,8 +21887,9 @@ Gültig ab 1. Dezember 2019
     *   6.51157
 
 
-*    *   2254
+*    *   1820
 
+    *
     *   B410
 
     *   B410 Schwirzheim, A
@@ -24855,19 +21899,9 @@ Gültig ab 1. Dezember 2019
     *   6.5181
 
 
-*    *   2255
+*    *   1821
 
-    *   B410
-
-    *   B410 Gerolstein, B
-
-    *   50.21852
-
-    *   6.59573
-
-
-*    *   2256
-
+    *
     *   B410
 
     *   B410 Rockeskyll, B
@@ -24877,8 +21911,9 @@ Gültig ab 1. Dezember 2019
     *   6.70145
 
 
-*    *   2257
+*    *   1822
 
+    *
     *   B410
 
     *   B410 Rockeskyll, A
@@ -24888,8 +21923,9 @@ Gültig ab 1. Dezember 2019
     *   6.70671
 
 
-*    *   2258
+*    *   1823
 
+    *
     *   B410
 
     *   B410 Betteldorf
@@ -24899,8 +21935,9 @@ Gültig ab 1. Dezember 2019
     *   6.75943
 
 
-*    *   2259
+*    *   1824
 
+    *
     *   B410
 
     *   B410 Boxberg
@@ -24910,8 +21947,9 @@ Gültig ab 1. Dezember 2019
     *   6.85482
 
 
-*    *   2260
+*    *   1825
 
+    *
     *   B410
 
     *   B410 Kelberg
@@ -24921,8 +21959,9 @@ Gültig ab 1. Dezember 2019
     *   6.90418
 
 
-*    *   2261
+*    *   1826
 
+    *
     *   B410
 
     *   B410 Bereborn, A
@@ -24932,8 +21971,9 @@ Gültig ab 1. Dezember 2019
     *   6.9615
 
 
-*    *   2262
+*    *   1827
 
+    *
     *   B410
 
     *   B410 Bereborn, B
@@ -24943,8 +21983,9 @@ Gültig ab 1. Dezember 2019
     *   6.96308
 
 
-*    *   2263
+*    *   1828
 
+    *
     *   B411
 
     *   B411 Niederfell
@@ -24954,8 +21995,9 @@ Gültig ab 1. Dezember 2019
     *   7.46712
 
 
-*    *   2264
+*    *   1829
 
+    *
     *   B412
 
     *   B412 Herresbach, A
@@ -24965,19 +22007,9 @@ Gültig ab 1. Dezember 2019
     *   7.00995
 
 
-*    *   2265
+*    *   1830
 
-    *   B412
-
-    *   B412 Kempenich, Heidnerhof
-
-    *   50.41722
-
-    *   7.09998
-
-
-*    *   2266
-
+    *
     *   B412
 
     *   B412 Niederzissen, Am alten Berg
@@ -24987,30 +22019,9 @@ Gültig ab 1. Dezember 2019
     *   7.23635
 
 
-*    *   2267
+*    *   1831
 
-    *   B413
-
-    *   B413 Bendorf, Im Gräflichen Weingarten
-
-    *   50.43789
-
-    *   7.57052
-
-
-*    *   2268
-
-    *   B413
-
-    *   B413 Bendorf, In der Sayner Hütte
-
-    *   50.44124
-
-    *   7.57942
-
-
-*    *   2269
-
+    *
     *   B413
 
     *   B413 Bendorf
@@ -25020,19 +22031,21 @@ Gültig ab 1. Dezember 2019
     *   7.57774
 
 
-*    *   2270
+*    *   1832
 
+    *
     *   B414
 
     *   B414 Ingelbach
 
-    *   50.69411
+    *   50.69417
 
-    *   7.7153
+    *   7.71505
 
 
-*    *   2271
+*    *   1833
 
+    *
     *   B414
 
     *   B414 Norken
@@ -25042,8 +22055,9 @@ Gültig ab 1. Dezember 2019
     *   7.90734
 
 
-*    *   2272
+*    *   1834
 
+    *
     *   B414
 
     *   B414 Nisterau
@@ -25053,8 +22067,9 @@ Gültig ab 1. Dezember 2019
     *   7.98705
 
 
-*    *   2273
+*    *   1835
 
+    *
     *   B416
 
     *   B416 Müden (Mosel)
@@ -25064,8 +22079,9 @@ Gültig ab 1. Dezember 2019
     *   7.33025
 
 
-*    *   2274
+*    *   1836
 
+    *
     *   B416
 
     *   B416 Lehmen
@@ -25075,8 +22091,9 @@ Gültig ab 1. Dezember 2019
     *   7.44994
 
 
-*    *   2275
+*    *   1837
 
+    *
     *   B416
 
     *   B416 Kobern-Gondorf, Maifeldstraße
@@ -25086,8 +22103,9 @@ Gültig ab 1. Dezember 2019
     *   7.45826
 
 
-*    *   2276
+*    *   1838
 
+    *
     *   B416
 
     *   B416 Kobern-Gondorf, Belltal
@@ -25097,8 +22115,9 @@ Gültig ab 1. Dezember 2019
     *   7.47774
 
 
-*    *   2277
+*    *   1839
 
+    *
     *   B416
 
     *   B416 Winningen, Am Moselufer
@@ -25108,74 +22127,21 @@ Gültig ab 1. Dezember 2019
     *   7.51905
 
 
-*    *   2278
+*    *   1840
 
+    *
     *   B417
 
-    *   B417 Hünstetten, E
-
-    *   50.2038
-
-    *   8.20102
-
-
-*    *   2279
-
-    *   B417
-
-    *   B417 Hünstetten, Fuchsberg
-
-    *   50.21269
-
-    *   8.19989
-
-
-*    *   2280
-
-    *   B417
-
-    *   B417 Hünstetten, D
-
-    *   50.23628
-
-    *   8.19617
-
-
-*    *   2281
-
-    *   B417
-
-    *   B417 Hünstetten, B
-
-    *   50.25366
-
-    *   8.18317
-
-
-*    *   2282
-
-    *   B417
-
-    *   B417 Limburg an der Lahn, Havester Hof
-
-    *   50.35913
-
-    *   8.10266
-
-
-*    *   2283
-
-    *   B417
-
-    *   B417 Langenscheid
+    *   B417 Langenscheid, B
 
     *   50.3694
 
     *   7.91873
 
 
-*    *   2284
+*    *   1841
 
+    *
     *   B417
 
     *   B417 Dörnberg, C
@@ -25185,19 +22151,93 @@ Gültig ab 1. Dezember 2019
     *   7.90568
 
 
-*    *   2285
+*    *   1842
 
+    *
+    *   B417
+
+    *   B417 Hünstetten, E
+
+    *   50.2038
+
+    *   8.20102
+
+
+*    *   1843
+
+    *
+    *   B417
+
+    *   B417 Hünstetten, Fuchsberg
+
+    *   50.21269
+
+    *   8.19989
+
+
+*    *   1844
+
+    *
+    *   B417
+
+    *   B417 Hünstetten, D
+
+    *   50.23628
+
+    *   8.19617
+
+
+*    *   1845
+
+    *
+    *   B417
+
+    *   B417 Hünstetten, B
+
+    *   50.25366
+
+    *   8.18317
+
+
+*    *   1846
+
+    *
+    *   B417
+
+    *   B417 Kirberg Hünfelden, Hünfeldener Höhe
+
+    *   50.31368
+
+    *   8.15587
+
+
+*    *   1847
+
+    *
     *   B418
 
-    *   B418 Ralingen, C
+    *   B418 Ralingen, B
 
     *   49.80639
 
     *   6.53155
 
 
-*    *   2286
+*    *   1848
 
+    *
+    *   B419
+
+    *   B419 Nittel, D
+
+    *   49.61782
+
+    *   6.42155
+
+
+*    *   1849
+
+    *
     *   B420
 
     *   B420 Ottweiler, Gewerbegebiet
@@ -25207,19 +22247,9 @@ Gültig ab 1. Dezember 2019
     *   7.16702
 
 
-*    *   2287
+*    *   1850
 
-    *   B420
-
-    *   B420 Ottweiler, Pfaffenthaler Hof
-
-    *   49.41588
-
-    *   7.21204
-
-
-*    *   2288
-
+    *
     *   B420
 
     *   B420 Kusel, C
@@ -25229,8 +22259,9 @@ Gültig ab 1. Dezember 2019
     *   7.37947
 
 
-*    *   2289
+*    *   1851
 
+    *
     *   B420
 
     *   B420 Odenbach
@@ -25240,8 +22271,9 @@ Gültig ab 1. Dezember 2019
     *   7.62902
 
 
-*    *   2290
+*    *   1852
 
+    *
     *   B420
 
     *   B420 Unkenbach, B
@@ -25251,8 +22283,9 @@ Gültig ab 1. Dezember 2019
     *   7.74365
 
 
-*    *   2291
+*    *   1853
 
+    *
     *   B420
 
     *   B420 Hochstätten
@@ -25262,8 +22295,9 @@ Gültig ab 1. Dezember 2019
     *   7.83012
 
 
-*    *   2292
+*    *   1854
 
+    *
     *   B420
 
     *   B420 Wöllstein
@@ -25273,8 +22307,9 @@ Gültig ab 1. Dezember 2019
     *   7.93355
 
 
-*    *   2293
+*    *   1855
 
+    *
     *   B420
 
     *   B420 Wallertheim
@@ -25284,8 +22319,9 @@ Gültig ab 1. Dezember 2019
     *   8.07355
 
 
-*    *   2294
+*    *   1856
 
+    *
     *   B420
 
     *   B420 Sulzheim
@@ -25295,19 +22331,21 @@ Gültig ab 1. Dezember 2019
     *   8.08265
 
 
-*    *   2295
+*    *   1857
 
+    *
     *   B420
 
-    *   B420 Schornsheim, Außerhalb
+    *   B420 Undenheim, K36
 
-    *   49.84324
+    *   49.84356
 
-    *   8.17205
+    *   8.24489
 
 
-*    *   2296
+*    *   1858
 
+    *
     *   B420
 
     *   B420 Dexheim
@@ -25317,118 +22355,33 @@ Gültig ab 1. Dezember 2019
     *   8.30438
 
 
-*    *   2297
+*    *   1859
 
+    *
     *   B421
 
-    *   B421 Hallschlag, Vennquerbahn
-
-    *   50.35483
-
-    *   6.43183
-
-
-*    *   2298
-
-    *   B421
-
-    *   B421 Stadtkyll, A
-
-    *   50.35119
-
-    *   6.54996
-
-
-*    *   2299
-
-    *   B421
-
-    *   B421 Stadtkyll, B
-
-    *   50.35071
-
-    *   6.55339
-
-
-*    *   2300
-
-    *   B421
-
-    *   B421 Hillesheim, A
-
-    *   50.30514
-
-    *   6.64238
-
-
-*    *   2301
-
-    *   B421
-
-    *   B421 Hillesheim, B
-
-    *   50.28461
-
-    *   6.69802
-
-
-*    *   2302
-
-    *   B421
-
-    *   B421 Oberehe-Stroheich, Burghof
-
-    *   50.27756
-
-    *   6.76434
-
-
-*    *   2303
-
-    *   B421
-
-    *   B421 Oberehe-Stroheich, B
-
-    *   50.27358
-
-    *   6.77462
-
-
-*    *   2304
-
-    *   B421
-
-    *   B421 Dreis-Brück, Bergstraße
-
-    *   50.26488
-
-    *   6.79386
-
-
-*    *   2305
-
-    *   B421
-
-    *   B421 Zell (Mosel), D
+    *   B421 Zell (Mosel), A
 
     *   50.01836
 
     *   7.20775
 
 
-*    *   2306
+*    *   1860
 
+    *
     *   B421
 
-    *   B421 Zell (Mosel), E
+    *   B421 Zell (Mosel), B
 
     *   50.01788
 
     *   7.21341
 
 
-*    *   2307
+*    *   1861
 
+    *
     *   B421
 
     *   B421 Zell (Mosel), C
@@ -25438,8 +22391,9 @@ Gültig ab 1. Dezember 2019
     *   7.22111
 
 
-*    *   2308
+*    *   1862
 
+    *
     *   B421
 
     *   B421 Hecken
@@ -25449,8 +22403,9 @@ Gültig ab 1. Dezember 2019
     *   7.41683
 
 
-*    *   2309
+*    *   1863
 
+    *
     *   B421
 
     *   B421 Kellenbach
@@ -25460,63 +22415,93 @@ Gültig ab 1. Dezember 2019
     *   7.48224
 
 
-*    *   2310
+*    *   1864
 
-    *   B422
+    *
+    *   B421
 
-    *   B422 Idar-Oberstein, Nassheckstraße
+    *   B421 Hallschlag, Vennquerbahn
 
-    *   49.70844
+    *   50.35483
 
-    *   7.31611
-
-
-*    *   2311
-
-    *   B423
-
-    *   B423 Mandelbachtal, Margarethenstraße
-
-    *   49.16399
-
-    *   7.15953
+    *   6.43183
 
 
-*    *   2312
+*    *   1865
 
-    *   B423
+    *
+    *   B421
 
-    *   B423 Blieskastel, In den Rohrwiesen
+    *   B421 Stadtkyll, A
 
-    *   49.21847
+    *   50.35119
 
-    *   7.20231
-
-
-*    *   2313
-
-    *   B423
-
-    *   B423 Blieskastel, Königstraße
-
-    *   49.23777
-
-    *   7.27084
+    *   6.54996
 
 
-*    *   2314
+*    *   1866
 
-    *   B423
+    *
+    *   B421
 
-    *   B423 Homburg, Schlangenhöhler Weg
+    *   B421 Stadtkyll, B
 
-    *   49.27872
+    *   50.35071
 
-    *   7.31497
+    *   6.55339
 
 
-*    *   2315
+*    *   1867
 
+    *
+    *   B421
+
+    *   B421 Hillesheim, A
+
+    *   50.30514
+
+    *   6.64238
+
+
+*    *   1868
+
+    *
+    *   B421
+
+    *   B421 Hillesheim, B
+
+    *   50.28461
+
+    *   6.69802
+
+
+*    *   1869
+
+    *
+    *   B421
+
+    *   B421 Oberehe-Stroheich
+
+    *   50.2735
+
+    *   6.77462
+
+
+*    *   1870
+
+    *
+    *   B421
+
+    *   B421 Dreis-Brück
+
+    *   50.26878
+
+    *   6.77604
+
+
+*    *   1871
+
+    *
     *   B423
 
     *   B423 Rehweiler
@@ -25526,8 +22511,9 @@ Gültig ab 1. Dezember 2019
     *   7.45053
 
 
-*    *   2316
+*    *   1872
 
+    *
     *   B423
 
     *   B423 Altenglan, Moorstraße, B
@@ -25537,19 +22523,9 @@ Gültig ab 1. Dezember 2019
     *   7.46106
 
 
-*    *   2317
+*    *   1873
 
-    *   B424
-
-    *   B424 Zweibrücken, Bayernstraße
-
-    *   49.21722
-
-    *   7.37274
-
-
-*    *   2318
-
+    *
     *   B424
 
     *   B424 Hornbach, Unterbeiwalderhof
@@ -25559,8 +22535,9 @@ Gültig ab 1. Dezember 2019
     *   7.35767
 
 
-*    *   2319
+*    *   1874
 
+    *
     *   B426
 
     *   B426 Breuberg, Außerhalb
@@ -25570,19 +22547,9 @@ Gültig ab 1. Dezember 2019
     *   9.04768
 
 
-*    *   2320
+*    *   1875
 
-    *   B427
-
-    *   B427 Busenberg, Schmiedstraße
-
-    *   49.13007
-
-    *   7.83286
-
-
-*    *   2321
-
+    *
     *   B427
 
     *   B427 Birkenhördt, A
@@ -25592,8 +22559,9 @@ Gültig ab 1. Dezember 2019
     *   7.94145
 
 
-*    *   2322
+*    *   1876
 
+    *
     *   B427
 
     *   B427 Birkenhördt, C
@@ -25603,8 +22571,9 @@ Gültig ab 1. Dezember 2019
     *   7.94541
 
 
-*    *   2323
+*    *   1877
 
+    *
     *   B430
 
     *   B430 Aukrug, Lübsche Trade
@@ -25614,8 +22583,9 @@ Gültig ab 1. Dezember 2019
     *   9.78198
 
 
-*    *   2324
+*    *   1878
 
+    *
     *   B430
 
     *   B430 Neumünster, B
@@ -25625,8 +22595,9 @@ Gültig ab 1. Dezember 2019
     *   10.0273
 
 
-*    *   2325
+*    *   1879
 
+    *
     *   B430
 
     *   B430 Schmalensee, Wangensahler Weg
@@ -25636,8 +22607,9 @@ Gültig ab 1. Dezember 2019
     *   10.28358
 
 
-*    *   2326
+*    *   1880
 
+    *
     *   B430
 
     *   B430 Dörnick, Hohelieth
@@ -25647,8 +22619,9 @@ Gültig ab 1. Dezember 2019
     *   10.37284
 
 
-*    *   2327
+*    *   1881
 
+    *
     *   B430
 
     *   B430 Plön
@@ -25658,8 +22631,21 @@ Gültig ab 1. Dezember 2019
     *   10.40451
 
 
-*    *   2328
+*    *   1882
 
+    *
+    *   B431
+
+    *   B431 Nindorf
+
+    *   54.08865
+
+    *   9.1312
+
+
+*    *   1883
+
+    *
     *   B431
 
     *   B431 Tensbüttel-Röst
@@ -25669,96 +22655,57 @@ Gültig ab 1. Dezember 2019
     *   9.21804
 
 
-*    *   2329
+*    *   1884
 
+    *
     *   B431
 
-    *   B431 Hamburg, Fruchtweg
+    *   B431 Hamburg, Von-Sauer-Straße
 
-    *   53.57961
+    *   53.56575
 
-    *   9.80153
+    *   9.90894
 
 
-*    *   2330
+*    *   1885
 
+    *
     *   B431
 
-    *   B431 Hamburg, Bredkamp
+    *   B431 Elmshorn, Industriegebiet Süd
 
-    *   53.57702
+    *   53.74803
 
-    *   9.81904
-
-
-*    *   2331
-
-    *   B431
-
-    *   B431 Hamburg, Simrockstraße
-
-    *   53.57665
-
-    *   9.82141
+    *   9.69361
 
 
-*    *   2332
+*    *   1886
 
-    *   B431
-
-    *   B431 Hamburg, Bahrenfelder Kirchenweg
-
-    *   53.56578
-
-    *   9.90684
-
-
-*    *   2333
-
-    *   B431
-
-    *   B431 Hamburg, Bahrenfelder Chaussee
-
-    *   53.56572
-
-    *   9.91103
-
-
-*    *   2334
-
-    *   B431
-
-    *   B431 Hamburg, Schützenstraße
-
-    *   53.56348
-
-    *   9.92937
-
-
-*    *   2335
-
+    *
     *   B432
 
-    *   B432 Norderstedt, Ulzburger Straße
+    *   B432 Norderstedt
 
-    *   53.68253
+    *   53.70184
 
-    *   9.99836
+    *   10.05737
 
 
-*    *   2336
+*    *   1887
 
+    *
     *   B432
 
-    *   B432 Itzstedt, Schafskoppel
+    *   B432 Leezen
 
-    *   53.81273
+    *   53.88312
 
-    *   10.16641
+    *   10.2644
 
 
-*    *   2337
+*    *   1888
 
+    *
     *   B432
 
     *   B432 Ahrensbök, Dorfstraße, B
@@ -25768,8 +22715,9 @@ Gültig ab 1. Dezember 2019
     *   10.49248
 
 
-*    *   2338
+*    *   1889
 
+    *
     *   B432
 
     *   B432 Ahrensbök, C
@@ -25779,19 +22727,9 @@ Gültig ab 1. Dezember 2019
     *   10.53846
 
 
-*    *   2339
+*    *   1890
 
-    *   B433
-
-    *   B433 Hamburg, Ernst-Thälmann-Platz
-
-    *   53.59566
-
-    *   9.98396
-
-
-*    *   2340
-
+    *
     *   B436
 
     *   B436 Leer (Ostfriesland), Emsstraße, C
@@ -25801,8 +22739,9 @@ Gültig ab 1. Dezember 2019
     *   7.40423
 
 
-*    *   2341
+*    *   1891
 
+    *
     *   B436
 
     *   B436 Leer (Ostfriesland), Emsstraße, A
@@ -25812,8 +22751,9 @@ Gültig ab 1. Dezember 2019
     *   7.42074
 
 
-*    *   2342
+*    *   1892
 
+    *
     *   B436
 
     *   B436 Leer (Ostfriesland), Emsstraße, B
@@ -25823,8 +22763,21 @@ Gültig ab 1. Dezember 2019
     *   7.43057
 
 
-*    *   2343
+*    *   1893
 
+    *
+    *   B436
+
+    *   B436 Leer (Ostfriesland), A
+
+    *   53.2364
+
+    *   7.48776
+
+
+*    *   1894
+
+    *
     *   B436
 
     *   B436 Holtland, Leeraner Straße
@@ -25834,8 +22787,21 @@ Gültig ab 1. Dezember 2019
     *   7.56559
 
 
-*    *   2344
+*    *   1895
 
+    *
+    *   B436
+
+    *   B436 Wiesmoor, A
+
+    *   53.41942
+
+    *   7.74309
+
+
+*    *   1896
+
+    *
     *   B437
 
     *   B437 Friedeburg, Marxer Hauptstraße, A
@@ -25845,19 +22811,21 @@ Gültig ab 1. Dezember 2019
     *   7.86338
 
 
-*    *   2345
+*    *   1897
 
+    *
     *   B437
 
     *   B437 Zetel, Friedeburger Straße
 
-    *   53.39762
+    *   53.39763
 
-    *   7.92266
+    *   7.92268
 
 
-*    *   2346
+*    *   1898
 
+    *
     *   B437
 
     *   B437 Jade, Bundesstraße, G
@@ -25867,8 +22835,9 @@ Gültig ab 1. Dezember 2019
     *   8.26259
 
 
-*    *   2347
+*    *   1899
 
+    *
     *   B437
 
     *   B437 Stadland
@@ -25878,8 +22847,9 @@ Gültig ab 1. Dezember 2019
     *   8.42462
 
 
-*    *   2348
+*    *   1900
 
+    *
     *   B440
 
     *   B440 Visselhövede, Rotenburger Straße
@@ -25889,8 +22859,9 @@ Gültig ab 1. Dezember 2019
     *   9.56624
 
 
-*    *   2349
+*    *   1901
 
+    *
     *   B441
 
     *   B441 Wölpinghausen, B
@@ -25900,8 +22871,9 @@ Gültig ab 1. Dezember 2019
     *   9.27803
 
 
-*    *   2350
+*    *   1902
 
+    *
     *   B441
 
     *   B441 Wunstorf
@@ -25911,107 +22883,45 @@ Gültig ab 1. Dezember 2019
     *   9.3907
 
 
-*    *   2351
+*    *   1903
 
-    *   B441
+    *
+    *   B442
 
-    *   B441 Hannover, Im Lohfelde
+    *   B442 Bad Münder am Deister, C
 
-    *   52.38651
+    *   52.17666
 
-    *   9.66114
-
-
-*    *   2352
-
-    *   B441
-
-    *   B441 Hannover, Harenberger Straße
-
-    *   52.37693
-
-    *   9.69069
+    *   9.47168
 
 
-*    *   2353
+*    *   1904
 
-    *   B443
-
-    *   B443 Burgdorf, Lehrter Straße
-
-    *   52.43762
-
-    *   9.99081
-
-
-*    *   2354
-
-    *   B443
-
-    *   B443 Sehnde, A
-
-    *   52.3127
-
-    *   9.88974
-
-
-*    *   2355
-
-    *   B443
-
-    *   B443 Sehnde, B
-
-    *   52.3113
-
-    *   9.88121
-
-
-*    *   2356
-
+    *
     *   B444
 
-    *   B444 Edemissen, B
-
-    *   52.41294
-
-    *   10.26283
-
-
-*    *   2357
-
-    *   B444
-
-    *   B444 Söhlde, B
+    *   B444 Söhlde, Am Mieckenberg
 
     *   52.13535
 
     *   10.15138
 
 
-*    *   2358
+*    *   1905
 
+    *
     *   B446
 
-    *   B446 Nörten-Hardenberg, C
+    *   B446 Nörten-Hardenberg, B
 
     *   51.62283
 
     *   9.95095
 
 
-*    *   2359
+*    *   1906
 
-    *   B446
-
-    *   B446 Bovenden, Schulstraße
-
-    *   51.60665
-
-    *   9.99119
-
-
-*    *   2360
-
+    *
     *   B446
 
     *   B446 Ebergötzen, G
@@ -26021,8 +22931,9 @@ Gültig ab 1. Dezember 2019
     *   10.12993
 
 
-*    *   2361
+*    *   1907
 
+    *
     *   B446
 
     *   B446 Seulingen, Quelläcker
@@ -26032,74 +22943,9 @@ Gültig ab 1. Dezember 2019
     *   10.17458
 
 
-*    *   2362
+*    *   1908
 
-    *   B447
-
-    *   B447 Hamburg, Platanenallee
-
-    *   53.59212
-
-    *   9.96708
-
-
-*    *   2363
-
-    *   B447
-
-    *   B447 Hamburg, Süderfeldstraße
-
-    *   53.59374
-
-    *   9.96666
-
-
-*    *   2364
-
-    *   B447
-
-    *   B447 Hamburg, Wiben-Peter-Straße
-
-    *   53.59608
-
-    *   9.96615
-
-
-*    *   2365
-
-    *   B447
-
-    *   B447 Hamburg, Nedderfeld
-
-    *   53.60343
-
-    *   9.962
-
-
-*    *   2366
-
-    *   B447
-
-    *   B447 Hamburg, Garstedter Weg
-
-    *   53.61767
-
-    *   9.95023
-
-
-*    *   2367
-
-    *   B448
-
-    *   B448 Offenbach am Main, B
-
-    *   50.09458
-
-    *   8.80079
-
-
-*    *   2368
-
+    *
     *   B448
 
     *   B448 Offenbach am Main, A
@@ -26109,8 +22955,9 @@ Gültig ab 1. Dezember 2019
     *   8.79567
 
 
-*    *   2369
+*    *   1909
 
+    *
     *   B450
 
     *   B450 Bad Emstal, B
@@ -26120,8 +22967,9 @@ Gültig ab 1. Dezember 2019
     *   9.25129
 
 
-*    *   2370
+*    *   1910
 
+    *
     *   B450
 
     *   B450 Bad Arolsen, A
@@ -26131,8 +22979,21 @@ Gültig ab 1. Dezember 2019
     *   9.06171
 
 
-*    *   2371
+*    *   1911
 
+    *
+    *   B450
+
+    *   B450 Bad Arolsen, B
+
+    *   51.35539
+
+    *   9.00468
+
+
+*    *   1912
+
+    *
     *   B451
 
     *   B451 Helsa
@@ -26142,30 +23003,9 @@ Gültig ab 1. Dezember 2019
     *   9.71343
 
 
-*    *   2372
+*    *   1913
 
-    *   B451
-
-    *   B451 Großalmerode, Weststraße
-
-    *   51.25762
-
-    *   9.77175
-
-
-*    *   2373
-
-    *   B451
-
-    *   B451 Witzenhausen, Walburger Straße
-
-    *   51.33836
-
-    *   9.85909
-
-
-*    *   2374
-
+    *
     *   B452
 
     *   B452 Eschwege, A
@@ -26175,8 +23015,9 @@ Gültig ab 1. Dezember 2019
     *   10.01742
 
 
-*    *   2375
+*    *   1914
 
+    *
     *   B453
 
     *   B453 Gladenbach, B
@@ -26186,8 +23027,9 @@ Gültig ab 1. Dezember 2019
     *   8.57576
 
 
-*    *   2376
+*    *   1915
 
+    *
     *   B453
 
     *   B453 Gladenbach, A
@@ -26197,8 +23039,9 @@ Gültig ab 1. Dezember 2019
     *   8.55473
 
 
-*    *   2377
+*    *   1916
 
+    *
     *   B453
 
     *   B453 Dautphetal, B
@@ -26208,52 +23051,33 @@ Gültig ab 1. Dezember 2019
     *   8.54543
 
 
-*    *   2378
+*    *   1917
 
+    *
     *   B454
 
-    *   B454 Stadtallendorf, B
+    *   B454 Stadtallendorf, A
 
     *   50.83495
 
     *   9.04299
 
 
-*    *   2379
+*    *   1918
 
+    *
     *   B454
 
-    *   B454 Schwalmstadt, Industriestraße
+    *   B454 Stadtallendorf, B
 
-    *   50.91957
+    *   50.83387
 
-    *   9.20085
-
-
-*    *   2380
-
-    *   B454
-
-    *   B454 Schwalmstadt, B
-
-    *   50.91886
-
-    *   9.20359
+    *   9.04871
 
 
-*    *   2381
+*    *   1919
 
-    *   B454
-
-    *   B454 Willingshausen, Steinatal
-
-    *   50.89287
-
-    *   9.28578
-
-
-*    *   2382
-
+    *
     *   B454
 
     *   B454 Neukirchen, A
@@ -26263,8 +23087,9 @@ Gültig ab 1. Dezember 2019
     *   9.29899
 
 
-*    *   2383
+*    *   1920
 
+    *
     *   B454
 
     *   B454 Kirchheim, Hauptstraße
@@ -26274,8 +23099,9 @@ Gültig ab 1. Dezember 2019
     *   9.57463
 
 
-*    *   2384
+*    *   1921
 
+    *
     *   B454
 
     *   B454 Niederaula
@@ -26285,19 +23111,9 @@ Gültig ab 1. Dezember 2019
     *   9.58649
 
 
-*    *   2385
+*    *   1922
 
-    *   B454
-
-    *   B454 Niederaula, Lerchenweg
-
-    *   50.80472
-
-    *   9.59696
-
-
-*    *   2386
-
+    *
     *   B455
 
     *   B455 Eppstein, Untergasse
@@ -26307,8 +23123,9 @@ Gültig ab 1. Dezember 2019
     *   8.39084
 
 
-*    *   2387
+*    *   1923
 
+    *
     *   B455
 
     *   B455 Eppstein, Alter Fischbacher Weg
@@ -26318,19 +23135,9 @@ Gültig ab 1. Dezember 2019
     *   8.40037
 
 
-*    *   2388
+*    *   1924
 
-    *   B455
-
-    *   B455 Königstein im Taunus, Hainerbergweg
-
-    *   50.1775
-
-    *   8.47129
-
-
-*    *   2389
-
+    *
     *   B455
 
     *   B455 Kronberg im Taunus, P 1-5 Einfahrt
@@ -26340,8 +23147,9 @@ Gültig ab 1. Dezember 2019
     *   8.48329
 
 
-*    *   2390
+*    *   1925
 
+    *
     *   B455
 
     *   B455 Kronberg im Taunus
@@ -26351,8 +23159,9 @@ Gültig ab 1. Dezember 2019
     *   8.48622
 
 
-*    *   2391
+*    *   1926
 
+    *
     *   B455
 
     *   B455 Nidda, Gewerbepark Nidda-West
@@ -26362,41 +23171,21 @@ Gültig ab 1. Dezember 2019
     *   8.98458
 
 
-*    *   2392
+*    *   1927
 
-    *   B455
-
-    *   B455 Nidda, Kleebergstraße
-
-    *   50.45855
-
-    *   9.05591
-
-
-*    *   2393
-
+    *
     *   B455
 
     *   B455 Schotten
 
-    *   50.49563
+    *   50.49565
 
-    *   9.11294
-
-
-*    *   2394
-
-    *   B456
-
-    *   B456 Usingen, Friedhofsweg
-
-    *   50.33705
-
-    *   8.53749
+    *   9.11297
 
 
-*    *   2395
+*    *   1928
 
+    *
     *   B456
 
     *   B456 Usingen, C
@@ -26406,8 +23195,9 @@ Gültig ab 1. Dezember 2019
     *   8.5196
 
 
-*    *   2396
+*    *   1929
 
+    *
     *   B456
 
     *   B456 Usingen, B
@@ -26417,8 +23207,9 @@ Gültig ab 1. Dezember 2019
     *   8.51832
 
 
-*    *   2397
+*    *   1930
 
+    *
     *   B456
 
     *   B456 Usingen, A
@@ -26428,19 +23219,9 @@ Gültig ab 1. Dezember 2019
     *   8.50967
 
 
-*    *   2398
+*    *   1931
 
-    *   B456
-
-    *   B456 Grävenwiesbach, Schulstraße
-
-    *   50.388
-
-    *   8.45735
-
-
-*    *   2399
-
+    *
     *   B456
 
     *   B456 Grävenwiesbach, A
@@ -26450,8 +23231,9 @@ Gültig ab 1. Dezember 2019
     *   8.45021
 
 
-*    *   2400
+*    *   1932
 
+    *
     *   B456
 
     *   B456 Weilmünster, C
@@ -26461,8 +23243,9 @@ Gültig ab 1. Dezember 2019
     *   8.37527
 
 
-*    *   2401
+*    *   1933
 
+    *
     *   B456
 
     *   B456 Weilmünster, B
@@ -26472,8 +23255,9 @@ Gültig ab 1. Dezember 2019
     *   8.37261
 
 
-*    *   2402
+*    *   1934
 
+    *
     *   B456
 
     *   B456 Weilmünster, A
@@ -26483,30 +23267,9 @@ Gültig ab 1. Dezember 2019
     *   8.36106
 
 
-*    *   2403
+*    *   1935
 
-    *   B456
-
-    *   B456 Weilburg, Keilswingert
-
-    *   50.48225
-
-    *   8.28708
-
-
-*    *   2404
-
-    *   B456
-
-    *   B456 Weilburg, Freystädter Straße
-
-    *   50.48143
-
-    *   8.27246
-
-
-*    *   2405
-
+    *
     *   B457
 
     *   B457 Nidda, B
@@ -26516,41 +23279,21 @@ Gültig ab 1. Dezember 2019
     *   8.98171
 
 
-*    *   2406
+*    *   1936
 
+    *
     *   B457
 
-    *   B457 Ortenberg, Bettenstraße
-
-    *   50.32539
-
-    *   9.0493
-
-
-*    *   2407
-
-    *   B457
-
-    *   B457 Büdingen, C
+    *   B457 Büdingen, A
 
     *   50.289
 
     *   9.09224
 
 
-*    *   2408
+*    *   1937
 
-    *   B457
-
-    *   B457 Büdingen, An der Saline
-
-    *   50.28459
-
-    *   9.10876
-
-
-*    *   2409
-
+    *
     *   B457
 
     *   B457 Büdingen, B
@@ -26560,19 +23303,21 @@ Gültig ab 1. Dezember 2019
     *   9.11052
 
 
-*    *   2410
+*    *   1938
 
+    *
     *   B457
 
-    *   B457 Büdingen, E
+    *   B457 Büdingen, Wasserwerk
 
     *   50.25962
 
     *   9.1088
 
 
-*    *   2411
+*    *   1939
 
+    *
     *   B458
 
     *   B458 Dipperz, Schimmelsgraben
@@ -26582,8 +23327,9 @@ Gültig ab 1. Dezember 2019
     *   9.82034
 
 
-*    *   2412
+*    *   1940
 
+    *
     *   B458
 
     *   B458 Dipperz, A
@@ -26593,19 +23339,21 @@ Gültig ab 1. Dezember 2019
     *   9.83798
 
 
-*    *   2413
+*    *   1941
 
+    *
     *   B458
 
-    *   B458 Dipperz, C
+    *   B458 Dipperz, B
 
     *   50.52427
 
     *   9.84704
 
 
-*    *   2414
+*    *   1942
 
+    *
     *   B458
 
     *   B458 Poppenhausen (Wasserkuppe)
@@ -26615,8 +23363,9 @@ Gültig ab 1. Dezember 2019
     *   9.86849
 
 
-*    *   2415
+*    *   1943
 
+    *
     *   B458
 
     *   B458 Poppenhausen (Wasserkuppe), Untermittelberg
@@ -26626,19 +23375,21 @@ Gültig ab 1. Dezember 2019
     *   9.87634
 
 
-*    *   2416
+*    *   1944
 
+    *
     *   B460
 
-    *   B460 Marbach-Stausee
+    *   B460 Erbach, Marbach-Stausee
 
-    *   49.61097
+    *   49.61088
 
-    *   8.96942
+    *   8.96944
 
 
-*    *   2417
+*    *   1945
 
+    *
     *   B460
 
     *   B460 Beerfelden, Marbach
@@ -26648,8 +23399,9 @@ Gültig ab 1. Dezember 2019
     *   8.97948
 
 
-*    *   2418
+*    *   1946
 
+    *
     *   B461
 
     *   B461 Wittmund, Carolinensieler Straße
@@ -26659,19 +23411,21 @@ Gültig ab 1. Dezember 2019
     *   7.796
 
 
-*    *   2419
+*    *   1947
 
+    *
     *   B462
 
     *   B462 Gaggenau, Mönchhofstadion
 
-    *   48.81349
+    *   48.8135
 
-    *   8.30202
+    *   8.30205
 
 
-*    *   2420
+*    *   1948
 
+    *
     *   B462
 
     *   B462 Gaggenau, Albrecht-Dürer-Straße
@@ -26681,19 +23435,21 @@ Gültig ab 1. Dezember 2019
     *   8.32257
 
 
-*    *   2421
+*    *   1949
 
+    *
     *   B462
 
     *   B462 Forbach, Werkstraße
 
-    *   48.67468
+    *   48.67469
 
-    *   8.35496
+    *   8.35495
 
 
-*    *   2422
+*    *   1950
 
+    *
     *   B462
 
     *   B462 Forbach, A
@@ -26703,8 +23459,9 @@ Gültig ab 1. Dezember 2019
     *   8.35195
 
 
-*    *   2423
+*    *   1951
 
+    *
     *   B462
 
     *   B462 Forbach, B
@@ -26714,8 +23471,9 @@ Gültig ab 1. Dezember 2019
     *   8.36102
 
 
-*    *   2424
+*    *   1952
 
+    *
     *   B462
 
     *   B462 Forbach, C
@@ -26725,8 +23483,9 @@ Gültig ab 1. Dezember 2019
     *   8.35962
 
 
-*    *   2425
+*    *   1953
 
+    *
     *   B462
 
     *   B462 Forbach, D
@@ -26736,8 +23495,9 @@ Gültig ab 1. Dezember 2019
     *   8.36045
 
 
-*    *   2426
+*    *   1954
 
+    *
     *   B462
 
     *   B462 Forbach, E
@@ -26747,8 +23507,9 @@ Gültig ab 1. Dezember 2019
     *   8.35106
 
 
-*    *   2427
+*    *   1955
 
+    *
     *   B462
 
     *   B462 Forbach, F
@@ -26758,8 +23519,9 @@ Gültig ab 1. Dezember 2019
     *   8.3552
 
 
-*    *   2428
+*    *   1956
 
+    *
     *   B462
 
     *   B462 Forbach, G
@@ -26769,8 +23531,9 @@ Gültig ab 1. Dezember 2019
     *   8.36161
 
 
-*    *   2429
+*    *   1957
 
+    *
     *   B462
 
     *   B462 Forbach, Rendelbach
@@ -26780,8 +23543,9 @@ Gültig ab 1. Dezember 2019
     *   8.36367
 
 
-*    *   2430
+*    *   1958
 
+    *
     *   B462
 
     *   B462 Baiersbronn, A
@@ -26791,41 +23555,9 @@ Gültig ab 1. Dezember 2019
     *   8.37294
 
 
-*    *   2431
+*    *   1959
 
-    *   B462
-
-    *   B462 Schiltach, Vor Bombach
-
-    *   48.2794
-
-    *   8.35229
-
-
-*    *   2432
-
-    *   B463
-
-    *   B463 Pforzheim, Weißensteiner Brücke
-
-    *   48.86633
-
-    *   8.68143
-
-
-*    *   2433
-
-    *   B463
-
-    *   B463 Unterreichenbach, Kapfenhardter Straße
-
-    *   48.82527
-
-    *   8.7103
-
-
-*    *   2434
-
+    *
     *   B463
 
     *   B463 Unterreichenbach, Sauklinge
@@ -26835,8 +23567,9 @@ Gültig ab 1. Dezember 2019
     *   8.72051
 
 
-*    *   2435
+*    *   1960
 
+    *
     *   B463
 
     *   B463 Bad Liebenzell, Nonnenwaag
@@ -26846,8 +23579,9 @@ Gültig ab 1. Dezember 2019
     *   8.72857
 
 
-*    *   2436
+*    *   1961
 
+    *
     *   B463
 
     *   B463 Calw, Badstraße
@@ -26857,19 +23591,9 @@ Gültig ab 1. Dezember 2019
     *   8.74125
 
 
-*    *   2437
+*    *   1962
 
-    *   B463
-
-    *   B463 Calw, Bahnhofstraße
-
-    *   48.70645
-
-    *   8.73812
-
-
-*    *   2438
-
+    *
     *   B463
 
     *   B463 Calw, Xanderklinge
@@ -26879,8 +23603,9 @@ Gültig ab 1. Dezember 2019
     *   8.72691
 
 
-*    *   2439
+*    *   1963
 
+    *
     *   B463
 
     *   B463 Nagold, A
@@ -26890,8 +23615,9 @@ Gültig ab 1. Dezember 2019
     *   8.73479
 
 
-*    *   2440
+*    *   1964
 
+    *
     *   B463
 
     *   B463 Nagold, B
@@ -26901,8 +23627,9 @@ Gültig ab 1. Dezember 2019
     *   8.73093
 
 
-*    *   2441
+*    *   1965
 
+    *
     *   B463
 
     *   B463 Nagold, Bacherlebnispfad
@@ -26912,19 +23639,9 @@ Gültig ab 1. Dezember 2019
     *   8.72226
 
 
-*    *   2442
+*    *   1966
 
-    *   B463
-
-    *   B463 Nagold, C
-
-    *   48.52033
-
-    *   8.72116
-
-
-*    *   2443
-
+    *
     *   B463
 
     *   B463 Balingen, B
@@ -26934,8 +23651,9 @@ Gültig ab 1. Dezember 2019
     *   8.87428
 
 
-*    *   2444
+*    *   1967
 
+    *
     *   B463
 
     *   B463 Balingen, C
@@ -26945,8 +23663,9 @@ Gültig ab 1. Dezember 2019
     *   8.87685
 
 
-*    *   2445
+*    *   1968
 
+    *
     *   B463
 
     *   B463 Balingen, D
@@ -26956,8 +23675,9 @@ Gültig ab 1. Dezember 2019
     *   8.89944
 
 
-*    *   2446
+*    *   1969
 
+    *
     *   B463
 
     *   B463 Albstadt, Auf Steingen
@@ -26967,8 +23687,9 @@ Gültig ab 1. Dezember 2019
     *   8.94581
 
 
-*    *   2447
+*    *   1970
 
+    *
     *   B463
 
     *   B463 Albstadt
@@ -26978,52 +23699,45 @@ Gültig ab 1. Dezember 2019
     *   8.98146
 
 
-*    *   2448
+*    *   1971
 
+    *
     *   B463
 
     *   B463 Albstadt, Berliner Straße
 
-    *   48.20486
+    *   48.20489
 
-    *   9.03993
-
-
-*    *   2449
-
-    *   B463
-
-    *   B463 Albstadt, Sigmaringer Straße, B
-
-    *   48.20081
-
-    *   9.04785
+    *   9.03983
 
 
-*    *   2450
+*    *   1972
 
+    *
     *   B463
 
     *   B463 Winterlingen, Planetenweg
 
-    *   48.15724
+    *   48.15699
 
-    *   9.14191
+    *   9.14198
 
 
-*    *   2451
+*    *   1973
 
+    *
     *   B465
 
-    *   B465 Bad Wurzach, Ravensburger Straße, B
+    *   B465 Biberach an der Riß, A
 
-    *   47.90533
+    *   48.09885
 
-    *   9.8803
+    *   9.7979
 
 
-*    *   2452
+*    *   1974
 
+    *
     *   B465
 
     *   B465 Biberach an der Riß, Wässerwiesen
@@ -27033,8 +23747,9 @@ Gültig ab 1. Dezember 2019
     *   9.79241
 
 
-*    *   2453
+*    *   1975
 
+    *
     *   B465
 
     *   B465 Warthausen
@@ -27044,8 +23759,9 @@ Gültig ab 1. Dezember 2019
     *   9.79217
 
 
-*    *   2454
+*    *   1976
 
+    *
     *   B465
 
     *   B465 Ehingen (Donau), Sontheimer Steig
@@ -27055,8 +23771,21 @@ Gültig ab 1. Dezember 2019
     *   9.75761
 
 
-*    *   2455
+*    *   1977
 
+    *
+    *   B465
+
+    *   B465 Ehingen (Donau), D
+
+    *   48.27161
+
+    *   9.7258
+
+
+*    *   1978
+
+    *
     *   B465
 
     *   B465 Ehingen (Donau), C
@@ -27066,8 +23795,9 @@ Gültig ab 1. Dezember 2019
     *   9.66862
 
 
-*    *   2456
+*    *   1979
 
+    *
     *   B465
 
     *   B465 Ehingen (Donau), Osterbrünneleweg
@@ -27077,8 +23807,9 @@ Gültig ab 1. Dezember 2019
     *   9.66059
 
 
-*    *   2457
+*    *   1980
 
+    *
     *   B465
 
     *   B465 Ehingen (Donau), A
@@ -27088,8 +23819,9 @@ Gültig ab 1. Dezember 2019
     *   9.61989
 
 
-*    *   2458
+*    *   1981
 
+    *
     *   B465
 
     *   B465 Münsingen, C
@@ -27099,8 +23831,9 @@ Gültig ab 1. Dezember 2019
     *   9.5385
 
 
-*    *   2459
+*    *   1982
 
+    *
     *   B465
 
     *   B465 Münsingen, B
@@ -27110,8 +23843,9 @@ Gültig ab 1. Dezember 2019
     *   9.53947
 
 
-*    *   2460
+*    *   1983
 
+    *
     *   B465
 
     *   B465 Münsingen, A
@@ -27121,8 +23855,9 @@ Gültig ab 1. Dezember 2019
     *   9.51966
 
 
-*    *   2461
+*    *   1984
 
+    *
     *   B465
 
     *   B465 Römerstein, E
@@ -27132,19 +23867,21 @@ Gültig ab 1. Dezember 2019
     *   9.56963
 
 
-*    *   2462
+*    *   1985
 
+    *
     *   B465
 
     *   B465 Römerstein, Marterin
 
     *   48.50249
 
-    *   9.56418
+    *   9.56419
 
 
-*    *   2463
+*    *   1986
 
+    *
     *   B465
 
     *   B465 Römerstein, D
@@ -27154,8 +23891,9 @@ Gültig ab 1. Dezember 2019
     *   9.56135
 
 
-*    *   2464
+*    *   1987
 
+    *
     *   B465
 
     *   B465 Römerstein, B
@@ -27165,8 +23903,9 @@ Gültig ab 1. Dezember 2019
     *   9.54746
 
 
-*    *   2465
+*    *   1988
 
+    *
     *   B465
 
     *   B465 Römerstein, C
@@ -27176,8 +23915,9 @@ Gültig ab 1. Dezember 2019
     *   9.54345
 
 
-*    *   2466
+*    *   1989
 
+    *
     *   B466
 
     *   B466 Böhmenkirch, Hauptstraße, A
@@ -27187,8 +23927,9 @@ Gültig ab 1. Dezember 2019
     *   9.93977
 
 
-*    *   2467
+*    *   1990
 
+    *
     *   B466
 
     *   B466 Böhmenkirch, B
@@ -27198,19 +23939,21 @@ Gültig ab 1. Dezember 2019
     *   9.96454
 
 
-*    *   2468
+*    *   1991
 
+    *
     *   B466
 
-    *   B466 Böhmenkirch, C
+    *   B466 Böhmenkirch, A
 
     *   48.67725
 
     *   9.96719
 
 
-*    *   2469
+*    *   1992
 
+    *
     *   B466
 
     *   B466 Steinheim am Albuch, A
@@ -27220,19 +23963,9 @@ Gültig ab 1. Dezember 2019
     *   10.08798
 
 
-*    *   2470
+*    *   1993
 
-    *   B466
-
-    *   B466 Heidenheim an der Brenz, E
-
-    *   48.67778
-
-    *   10.15451
-
-
-*    *   2471
-
+    *
     *   B466
 
     *   B466 Nattheim, B
@@ -27242,8 +23975,9 @@ Gültig ab 1. Dezember 2019
     *   10.24808
 
 
-*    *   2472
+*    *   1994
 
+    *
     *   B466
 
     *   B466 Neresheim, Römerstraße
@@ -27253,8 +23987,9 @@ Gültig ab 1. Dezember 2019
     *   10.36242
 
 
-*    *   2473
+*    *   1995
 
+    *
     *   B466
 
     *   B466 Hainsfarth, C
@@ -27264,8 +23999,9 @@ Gültig ab 1. Dezember 2019
     *   10.61399
 
 
-*    *   2474
+*    *   1996
 
+    *
     *   B466
 
     *   B466 Gunzenhausen, D
@@ -27275,8 +24011,9 @@ Gültig ab 1. Dezember 2019
     *   10.71685
 
 
-*    *   2475
+*    *   1997
 
+    *
     *   B466
 
     *   B466 Gunzenhausen, A
@@ -27286,30 +24023,9 @@ Gültig ab 1. Dezember 2019
     *   10.74335
 
 
-*    *   2476
+*    *   1998
 
-    *   B466
-
-    *   B466 Haundorf, Oberer Bachholzweg
-
-    *   49.18091
-
-    *   10.82495
-
-
-*    *   2477
-
-    *   B466
-
-    *   B466 Schwabach, Schützenstraße
-
-    *   49.3227
-
-    *   11.01628
-
-
-*    *   2478
-
+    *
     *   B467
 
     *   B467 Langenargen
@@ -27319,8 +24035,9 @@ Gültig ab 1. Dezember 2019
     *   9.59044
 
 
-*    *   2479
+*    *   1999
 
+    *
     *   B469
 
     *   B469 Kleinheubach, Am Schloßblick
@@ -27330,8 +24047,9 @@ Gültig ab 1. Dezember 2019
     *   9.21077
 
 
-*    *   2480
+*    *   2000
 
+    *
     *   B470
 
     *   B470 Burgbernheim, B
@@ -27341,8 +24059,9 @@ Gültig ab 1. Dezember 2019
     *   10.30768
 
 
-*    *   2481
+*    *   2001
 
+    *
     *   B470
 
     *   B470 Burgbernheim, A
@@ -27352,19 +24071,21 @@ Gültig ab 1. Dezember 2019
     *   10.33284
 
 
-*    *   2482
+*    *   2002
 
+    *
     *   B470
 
     *   B470 Bad Windsheim, C
 
-    *   49.49259
+    *   49.49247
 
-    *   10.42422
+    *   10.42427
 
 
-*    *   2483
+*    *   2003
 
+    *
     *   B470
 
     *   B470 Gutenstetten, B
@@ -27374,8 +24095,9 @@ Gültig ab 1. Dezember 2019
     *   10.65375
 
 
-*    *   2484
+*    *   2004
 
+    *
     *   B470
 
     *   B470 Dachsbach
@@ -27385,8 +24107,9 @@ Gültig ab 1. Dezember 2019
     *   10.71253
 
 
-*    *   2485
+*    *   2005
 
+    *
     *   B470
 
     *   B470 Uehlfeld, A
@@ -27396,8 +24119,9 @@ Gültig ab 1. Dezember 2019
     *   10.73544
 
 
-*    *   2486
+*    *   2006
 
+    *
     *   B470
 
     *   B470 Höchstadt an der Aisch, D
@@ -27407,52 +24131,33 @@ Gültig ab 1. Dezember 2019
     *   10.81454
 
 
-*    *   2487
+*    *   2007
 
+    *
     *   B470
 
-    *   B470 Forchheim, Braunauer Straße
-
-    *   49.7164
-
-    *   11.07573
-
-
-*    *   2488
-
-    *   B470
-
-    *   B470 Forchheim, Bayreuther Straße, A
-
-    *   49.7156
-
-    *   11.09625
-
-
-*    *   2489
-
-    *   B470
-
-    *   B470 Weilersbach, B
+    *   B470 Weilersbach, Auerberg
 
     *   49.73374
 
     *   11.12912
 
 
-*    *   2490
+*    *   2008
 
+    *
     *   B470
 
     *   B470 Ebermannstadt
 
     *   49.80154
 
-    *   11.20872
+    *   11.2087
 
 
-*    *   2491
+*    *   2009
 
+    *
     *   B470
 
     *   B470 Wiesenttal, Streitberg, In der Eng
@@ -27462,8 +24167,9 @@ Gültig ab 1. Dezember 2019
     *   11.22739
 
 
-*    *   2492
+*    *   2010
 
+    *
     *   B470
 
     *   B470 Wiesenttal, C
@@ -27473,8 +24179,9 @@ Gültig ab 1. Dezember 2019
     *   11.24945
 
 
-*    *   2493
+*    *   2011
 
+    *
     *   B470
 
     *   B470 Wiesenttal, D
@@ -27484,8 +24191,9 @@ Gültig ab 1. Dezember 2019
     *   11.26639
 
 
-*    *   2494
+*    *   2012
 
+    *
     *   B470
 
     *   B470 Wiesenttal, E
@@ -27495,8 +24203,9 @@ Gültig ab 1. Dezember 2019
     *   11.27932
 
 
-*    *   2495
+*    *   2013
 
+    *
     *   B470
 
     *   B470 Wiesenttal, F
@@ -27506,8 +24215,9 @@ Gültig ab 1. Dezember 2019
     *   11.28762
 
 
-*    *   2496
+*    *   2014
 
+    *
     *   B470
 
     *   B470 Gößweinstein, A
@@ -27517,8 +24227,9 @@ Gültig ab 1. Dezember 2019
     *   11.29449
 
 
-*    *   2497
+*    *   2015
 
+    *
     *   B470
 
     *   B470 Pottenstein, Michelsberg, B
@@ -27528,8 +24239,9 @@ Gültig ab 1. Dezember 2019
     *   11.40997
 
 
-*    *   2498
+*    *   2016
 
+    *
     *   B470
 
     *   B470 Pottenstein, A
@@ -27539,41 +24251,33 @@ Gültig ab 1. Dezember 2019
     *   11.41397
 
 
-*    *   2499
+*    *   2017
 
+    *
     *   B470
 
-    *   B470 Pottenstein, C
+    *   B470 Pottenstein, B
 
     *   49.75717
 
     *   11.4179
 
 
-*    *   2500
+*    *   2018
 
+    *
     *   B470
 
-    *   B470 Auerbach in der Oberpfalz, B
+    *   B470 Auerbach in der Oberpfalz
 
     *   49.70726
 
     *   11.61565
 
 
-*    *   2501
+*    *   2019
 
-    *   B470
-
-    *   B470 Auerbach in der Oberpfalz, A
-
-    *   49.72309
-
-    *   11.64891
-
-
-*    *   2502
-
+    *
     *   B470
 
     *   B470 Kirchenthumbach, C
@@ -27583,8 +24287,9 @@ Gültig ab 1. Dezember 2019
     *   11.65201
 
 
-*    *   2503
+*    *   2020
 
+    *
     *   B470
 
     *   B470 Kirchenthumbach, B
@@ -27594,19 +24299,33 @@ Gültig ab 1. Dezember 2019
     *   11.6992
 
 
-*    *   2504
+*    *   2021
 
+    *
     *   B470
 
     *   B470 Pressath, A
 
-    *   49.75606
+    *   49.75607
 
-    *   11.9299
+    *   11.92992
 
 
-*    *   2505
+*    *   2022
 
+    *
+    *   B470
+
+    *   B470 Pressath, C
+
+    *   49.73794
+
+    *   11.95032
+
+
+*    *   2023
+
+    *
     *   B470
 
     *   B470 Schwarzenbach
@@ -27616,8 +24335,9 @@ Gültig ab 1. Dezember 2019
     *   12.01869
 
 
-*    *   2506
+*    *   2024
 
+    *
     *   B471
 
     *   B471 Dachau
@@ -27627,8 +24347,9 @@ Gültig ab 1. Dezember 2019
     *   11.43263
 
 
-*    *   2507
+*    *   2025
 
+    *
     *   B471
 
     *   B471 Garching bei München, B
@@ -27638,8 +24359,9 @@ Gültig ab 1. Dezember 2019
     *   11.66922
 
 
-*    *   2508
+*    *   2026
 
+    *
     *   B471
 
     *   B471 Ismaning, Aschheimer Straße, B
@@ -27649,8 +24371,9 @@ Gültig ab 1. Dezember 2019
     *   11.69755
 
 
-*    *   2509
+*    *   2027
 
+    *
     *   B471
 
     *   B471 Grasbrunn, B
@@ -27660,8 +24383,9 @@ Gültig ab 1. Dezember 2019
     *   11.72101
 
 
-*    *   2510
+*    *   2028
 
+    *
     *   B471
 
     *   B471 Hohenbrunn, Taufkirchner Straße
@@ -27671,30 +24395,9 @@ Gültig ab 1. Dezember 2019
     *   11.67602
 
 
-*    *   2511
+*    *   2029
 
-    *   B471
-
-    *   B471 Taufkirchen, Brunnthaler Straße
-
-    *   48.04212
-
-    *   11.65754
-
-
-*    *   2512
-
-    *   B472
-
-    *   B472 Marktoberdorf, B
-
-    *   47.78849
-
-    *   10.69643
-
-
-*    *   2513
-
+    *
     *   B472
 
     *   B472 Rettenbach am Auerberg
@@ -27704,19 +24407,21 @@ Gültig ab 1. Dezember 2019
     *   10.75883
 
 
-*    *   2514
+*    *   2030
 
+    *
     *   B472
 
-    *   B472 Ingenried, D
+    *   B472 Ingenried, C
 
     *   47.80184
 
     *   10.81321
 
 
-*    *   2515
+*    *   2031
 
+    *
     *   B472
 
     *   B472 Altenstadt, A
@@ -27726,8 +24431,9 @@ Gültig ab 1. Dezember 2019
     *   10.83737
 
 
-*    *   2516
+*    *   2032
 
+    *
     *   B472
 
     *   B472 Altenstadt, B
@@ -27737,19 +24443,9 @@ Gültig ab 1. Dezember 2019
     *   10.84673
 
 
-*    *   2517
+*    *   2033
 
-    *   B472
-
-    *   B472 Huglfing, Ringstraße, A
-
-    *   47.76843
-
-    *   11.15642
-
-
-*    *   2518
-
+    *
     *   B472
 
     *   B472 Sindelsdorf
@@ -27759,8 +24455,9 @@ Gültig ab 1. Dezember 2019
     *   11.35028
 
 
-*    *   2519
+*    *   2034
 
+    *
     *   B472
 
     *   B472 Benediktbeuern
@@ -27770,8 +24467,9 @@ Gültig ab 1. Dezember 2019
     *   11.38516
 
 
-*    *   2520
+*    *   2035
 
+    *
     *   B472
 
     *   B472 Reichersbeuern, Am Kirchberg Ost
@@ -27781,19 +24479,9 @@ Gültig ab 1. Dezember 2019
     *   11.63577
 
 
-*    *   2521
+*    *   2036
 
-    *   B472
-
-    *   B472 Gmund am Tegernsee, B
-
-    *   47.77849
-
-    *   11.71179
-
-
-*    *   2522
-
+    *
     *   B472
 
     *   B472 Warngau, A
@@ -27803,8 +24491,9 @@ Gültig ab 1. Dezember 2019
     *   11.78294
 
 
-*    *   2523
+*    *   2037
 
+    *
     *   B473
 
     *   B473 Hamminkeln, Isselburger Straße, A
@@ -27814,19 +24503,9 @@ Gültig ab 1. Dezember 2019
     *   6.59066
 
 
-*    *   2524
+*    *   2038
 
-    *   B475
-
-    *   B475 Ennigerloh, Neubeckumer Straße
-
-    *   51.82942
-
-    *   8.024
-
-
-*    *   2525
-
+    *
     *   B475
 
     *   B475 Glandorf, Kattenvenner Straße, B
@@ -27836,52 +24515,33 @@ Gültig ab 1. Dezember 2019
     *   7.9575
 
 
-*    *   2526
+*    *   2039
 
-    *   B476
-
-    *   B476 Borgholzhausen, Am Teuto
-
-    *   52.07976
-
-    *   8.24959
-
-
-*    *   2527
-
-    *   B477
-
-    *   B477 Dormagen, Am Kamp
-
-    *   51.10595
-
-    *   6.71695
-
-
-*    *   2528
-
-    *   B478
-
-    *   B478 Nümbrecht, Benroth
-
-    *   50.85791
-
-    *   7.52364
-
-
-*    *   2529
-
+    *
     *   B480
 
-    *   B480 Bad Berleburg, C
+    *   B480 Bad Berleburg, D
 
     *   51.00904
 
     *   8.36856
 
 
-*    *   2530
+*    *   2040
 
+    *
+    *   B480
+
+    *   B480 Bad Berleburg, B
+
+    *   51.06565
+
+    *   8.4027
+
+
+*    *   2041
+
+    *
     *   B480
 
     *   B480 Winterberg, C
@@ -27891,8 +24551,9 @@ Gültig ab 1. Dezember 2019
     *   8.53681
 
 
-*    *   2531
+*    *   2042
 
+    *
     *   B480
 
     *   B480 Winterberg, B
@@ -27902,8 +24563,9 @@ Gültig ab 1. Dezember 2019
     *   8.52948
 
 
-*    *   2532
+*    *   2043
 
+    *
     *   B480
 
     *   B480 Winterberg, A
@@ -27913,8 +24575,9 @@ Gültig ab 1. Dezember 2019
     *   8.52173
 
 
-*    *   2533
+*    *   2044
 
+    *
     *   B480
 
     *   B480 Bad Wünnenberg, Uchtelstraße
@@ -27924,52 +24587,21 @@ Gültig ab 1. Dezember 2019
     *   8.65665
 
 
-*    *   2534
+*    *   2045
 
+    *
     *   B481
 
-    *   B481 Greven, Lauesch
+    *   B481 Emsdetten, Grevener Damm B
 
-    *   52.07336
+    *   52.1542
 
-    *   7.66077
-
-
-*    *   2535
-
-    *   B481
-
-    *   B481 Emsdetten, Hemberger Damm
-
-    *   52.16785
-
-    *   7.54132
+    *   7.5546
 
 
-*    *   2536
+*    *   2046
 
-    *   B481
-
-    *   B481 Rheine, Welkinghove
-
-    *   52.27307
-
-    *   7.44088
-
-
-*    *   2537
-
-    *   B481
-
-    *   B481 Rheine, Bahnhofstraße
-
-    *   52.27718
-
-    *   7.43538
-
-
-*    *   2538
-
+    *
     *   B482
 
     *   B482 Porta Westfalica, An der Eisenbahn
@@ -27979,8 +24611,9 @@ Gültig ab 1. Dezember 2019
     *   8.88927
 
 
-*    *   2539
+*    *   2047
 
+    *
     *   B482
 
     *   B482 Petershagen, B
@@ -27990,8 +24623,21 @@ Gültig ab 1. Dezember 2019
     *   9.05757
 
 
-*    *   2540
+*    *   2048
 
+    *
+    *   B483
+
+    *   B483 Hückeswagen, Bergischer Kreisel
+
+    *   51.15301
+
+    *   7.34086
+
+
+*    *   2049
+
+    *
     *   B485
 
     *   B485 Edertal, B
@@ -28001,30 +24647,9 @@ Gültig ab 1. Dezember 2019
     *   9.09081
 
 
-*    *   2541
+*    *   2050
 
-    *   B485
-
-    *   B485 Edertal, Waldecker Straße
-
-    *   51.16892
-
-    *   9.10621
-
-
-*    *   2542
-
-    *   B485
-
-    *   B485 Edertal, D
-
-    *   51.1488
-
-    *   9.11691
-
-
-*    *   2543
-
+    *
     *   B485
 
     *   B485 Bad Wildungen, Ederblick
@@ -28034,8 +24659,9 @@ Gültig ab 1. Dezember 2019
     *   9.12865
 
 
-*    *   2544
+*    *   2051
 
+    *
     *   B485
 
     *   B485 Bad Wildungen, B
@@ -28045,19 +24671,9 @@ Gültig ab 1. Dezember 2019
     *   9.14638
 
 
-*    *   2545
+*    *   2052
 
-    *   B485
-
-    *   B485 Bad Zwesten, Hauptstraße
-
-    *   51.05208
-
-    *   9.17533
-
-
-*    *   2546
-
+    *
     *   B486
 
     *   B486 Rüsselsheim am Main, Ostpark
@@ -28067,19 +24683,9 @@ Gültig ab 1. Dezember 2019
     *   8.43686
 
 
-*    *   2547
+*    *   2053
 
-    *   B486
-
-    *   B486 Rüsselsheim am Main, Thüringer Straße
-
-    *   49.98751
-
-    *   8.44492
-
-
-*    *   2548
-
+    *
     *   B487
 
     *   B487 Spangenberg, B
@@ -28089,8 +24695,9 @@ Gültig ab 1. Dezember 2019
     *   9.62609
 
 
-*    *   2549
+*    *   2054
 
+    *
     *   B487
 
     *   B487 Spangenberg, A
@@ -28100,41 +24707,21 @@ Gültig ab 1. Dezember 2019
     *   9.64457
 
 
-*    *   2550
+*    *   2055
 
+    *
     *   B487
 
-    *   B487 Spangenberg, Am Erlenborn
+    *   B487 Hessisch Lichtenau, Leipziger Straße
 
-    *   51.15286
+    *   51.19895
 
-    *   9.69836
-
-
-*    *   2551
-
-    *   B487
-
-    *   B487 Hessisch Lichtenau, Heinrichstraße
-
-    *   51.19644
-
-    *   9.72651
+    *   9.73561
 
 
-*    *   2552
+*    *   2056
 
-    *   B487
-
-    *   B487 Hessisch Lichtenau, Richard-Wolff-Straße
-
-    *   51.199
-
-    *   9.73147
-
-
-*    *   2553
-
+    *
     *   B492
 
     *   B492 Blaubeuren, Riedental
@@ -28144,8 +24731,9 @@ Gültig ab 1. Dezember 2019
     *   9.75958
 
 
-*    *   2554
+*    *   2057
 
+    *
     *   B492
 
     *   B492 Blaubeuren, Burgrest Sirgenstein
@@ -28155,8 +24743,9 @@ Gültig ab 1. Dezember 2019
     *   9.76434
 
 
-*    *   2555
+*    *   2058
 
+    *
     *   B492
 
     *   B492 Blaubeuren, A
@@ -28166,8 +24755,9 @@ Gültig ab 1. Dezember 2019
     *   9.76689
 
 
-*    *   2556
+*    *   2059
 
+    *
     *   B492
 
     *   B492 Blaubeuren, C
@@ -28177,8 +24767,9 @@ Gültig ab 1. Dezember 2019
     *   9.77301
 
 
-*    *   2557
+*    *   2060
 
+    *
     *   B493
 
     *   B493 Schnackenburg
@@ -28188,8 +24779,9 @@ Gültig ab 1. Dezember 2019
     *   11.52477
 
 
-*    *   2558
+*    *   2061
 
+    *
     *   B494
 
     *   B494 Peine, C
@@ -28199,63 +24791,81 @@ Gültig ab 1. Dezember 2019
     *   10.12597
 
 
-*    *   2559
+*    *   2062
 
+    *
     *   B495
 
     *   B495 Lamstedt
 
-    *   53.65179
+    *   53.6518
 
     *   9.11673
 
 
-*    *   2560
+*    *   2063
 
+    *
     *   B495
 
-    *   B495 Hemmoor, Scheepsweg
+    *   B495 Lamstedt, Heidelberger Kies
 
-    *   53.67388
+    *   53.66781
 
-    *   9.12482
+    *   9.1232
 
 
-*    *   2561
+*    *   2064
 
+    *
     *   B495
 
     *   B495 Hemmoor, B
 
-    *   53.67874
+    *   53.67876
 
-    *   9.13499
+    *   9.13497
 
 
-*    *   2562
+*    *   2065
 
+    *
     *   B495
 
-    *   B495 Wischhafen, Stader Straße, B
+    *   B495 Wischhafen
 
     *   53.75995
 
     *   9.32002
 
 
-*    *   2563
+*    *   2066
 
+    *
     *   B496
 
     *   B496 Hann. Münden, B
+
+    *   51.41257
+
+    *   9.65053
+
+
+*    *   2067
+
+    *
+    *   B496
+
+    *   B496 Hann. Münden, A
 
     *   51.37999
 
     *   9.63256
 
 
-*    *   2564
+*    *   2068
 
+    *
     *   B496
 
     *   B496 Staufenberg
@@ -28265,63 +24875,69 @@ Gültig ab 1. Dezember 2019
     *   9.62402
 
 
-*    *   2565
+*    *   2069
 
+    *
     *   B497
 
     *   B497 Holzminden, B
 
-    *   51.77568
+    *   51.77572
 
-    *   9.52751
+    *   9.52749
 
 
-*    *   2566
+*    *   2070
 
+    *
     *   B497
 
     *   B497 Holzminden, C
 
-    *   51.7398
+    *   51.73979
 
-    *   9.51509
+    *   9.51511
 
 
-*    *   2567
+*    *   2071
 
+    *
     *   B498
 
     *   B498 Harz (LK Goslar), E
 
     *   51.82337
 
-    *   10.44576
+    *   10.44577
 
 
-*    *   2568
+*    *   2072
 
+    *
     *   B498
 
     *   B498 Harz (LK Goslar), D
 
     *   51.82551
 
-    *   10.4465
+    *   10.44651
 
 
-*    *   2569
+*    *   2073
 
+    *
     *   B498
 
-    *   B498 Goslar, A
+    *   B498 Goslar, B
 
     *   51.88996
 
     *   10.47575
 
 
-*    *   2570
+*    *   2074
 
+    *
     *   B500
 
     *   B500 Waldshut-Tiengen, Brucknerstraße
@@ -28331,19 +24947,21 @@ Gültig ab 1. Dezember 2019
     *   8.19326
 
 
-*    *   2571
+*    *   2075
 
+    *
     *   B500
 
-    *   B500 Waldshut-Tiengen, St. Blasier Straße
+    *   B500 Waldshut-Tiengen, St.Blasier Straße
 
     *   47.62259
 
     *   8.18884
 
 
-*    *   2572
+*    *   2076
 
+    *
     *   B500
 
     *   B500 Waldshut-Tiengen
@@ -28353,8 +24971,9 @@ Gültig ab 1. Dezember 2019
     *   8.17771
 
 
-*    *   2573
+*    *   2077
 
+    *
     *   B500
 
     *   B500 Weilheim
@@ -28364,19 +24983,21 @@ Gültig ab 1. Dezember 2019
     *   8.15844
 
 
-*    *   2574
+*    *   2078
 
+    *
     *   B500
 
     *   B500 Höchenschwand, B
 
-    *   47.74021
+    *   47.74022
 
-    *   8.17364
+    *   8.17365
 
 
-*    *   2575
+*    *   2079
 
+    *
     *   B500
 
     *   B500 Höchenschwand, Umgehungsstraße
@@ -28386,8 +25007,9 @@ Gültig ab 1. Dezember 2019
     *   8.1715
 
 
-*    *   2576
+*    *   2080
 
+    *
     *   B500
 
     *   B500 Höchenschwand, A
@@ -28397,8 +25019,9 @@ Gültig ab 1. Dezember 2019
     *   8.16963
 
 
-*    *   2577
+*    *   2081
 
+    *
     *   B500
 
     *   B500 Häusern, C
@@ -28408,8 +25031,9 @@ Gültig ab 1. Dezember 2019
     *   8.18154
 
 
-*    *   2578
+*    *   2082
 
+    *
     *   B500
 
     *   B500 Häusern, B
@@ -28419,8 +25043,9 @@ Gültig ab 1. Dezember 2019
     *   8.18107
 
 
-*    *   2579
+*    *   2083
 
+    *
     *   B500
 
     *   B500 Häusern, A
@@ -28430,8 +25055,9 @@ Gültig ab 1. Dezember 2019
     *   8.18202
 
 
-*    *   2580
+*    *   2084
 
+    *
     *   B500
 
     *   B500 Schluchsee, Mohrweg
@@ -28441,8 +25067,9 @@ Gültig ab 1. Dezember 2019
     *   8.18899
 
 
-*    *   2581
+*    *   2085
 
+    *
     *   B500
 
     *   B500 Schluchsee, Schlageterweg, B
@@ -28452,8 +25079,9 @@ Gültig ab 1. Dezember 2019
     *   8.1513
 
 
-*    *   2582
+*    *   2086
 
+    *
     *   B500
 
     *   B500 Schluchsee, Schlageterweg, A
@@ -28463,8 +25091,9 @@ Gültig ab 1. Dezember 2019
     *   8.14927
 
 
-*    *   2583
+*    *   2087
 
+    *
     *   B500
 
     *   B500 Lenzkirch, B
@@ -28474,8 +25103,9 @@ Gültig ab 1. Dezember 2019
     *   8.12367
 
 
-*    *   2584
+*    *   2088
 
+    *
     *   B500
 
     *   B500 Lenzkirch, A
@@ -28485,8 +25115,9 @@ Gültig ab 1. Dezember 2019
     *   8.12374
 
 
-*    *   2585
+*    *   2089
 
+    *
     *   B500
 
     *   B500 Feldberg (Schwarzwald), Schrofenweg
@@ -28496,30 +25127,9 @@ Gültig ab 1. Dezember 2019
     *   8.10036
 
 
-*    *   2586
+*    *   2090
 
-    *   B500
-
-    *   B500 Breitnau, Ödenbach, D
-
-    *   47.92804
-
-    *   8.09789
-
-
-*    *   2587
-
-    *   B500
-
-    *   B500 Breitnau, Fahrenberg, A
-
-    *   47.94946
-
-    *   8.09315
-
-
-*    *   2588
-
+    *
     *   B500
 
     *   B500 Sankt Märgen, Dreieck, D
@@ -28529,118 +25139,129 @@ Gültig ab 1. Dezember 2019
     *   8.09842
 
 
-*    *   2589
+*    *   2091
 
+    *
     *   B500
 
     *   B500 Titisee-Neustadt, B
 
     *   47.99045
 
-    *   8.16137
+    *   8.16134
 
 
-*    *   2590
+*    *   2092
 
+    *
     *   B500
 
     *   B500 Titisee-Neustadt, A
 
     *   47.99073
 
-    *   8.16454
+    *   8.16459
 
 
-*    *   2591
+*    *   2093
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, L
+    *   B500 Furtwangen im Schwarzwald, Urachtal
 
     *   48.00368
 
     *   8.20139
 
 
-*    *   2592
+*    *   2094
 
+    *
     *   B500
 
-    *   B500 Vöhrenbach
+    *   B500 Vöhrenbach, Bildstöckel
 
     *   48.01456
 
     *   8.20253
 
 
-*    *   2593
+*    *   2095
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, I
+    *   B500 Furtwangen im Schwarzwald, Hohtal
 
     *   48.02481
 
     *   8.19118
 
 
-*    *   2594
+*    *   2096
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, J
+    *   B500 Furtwangen im Schwarzwald, Schweizersgrund
 
     *   48.02068
 
     *   8.18153
 
 
-*    *   2595
+*    *   2097
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, H
+    *   B500 Furtwangen im Schw., An der Hochstraße
 
     *   48.02484
 
     *   8.17834
 
 
-*    *   2596
+*    *   2098
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, F
+    *   B500 Furtwangen im Schwarzwald, A
 
     *   48.03854
 
     *   8.18458
 
 
-*    *   2597
+*    *   2099
 
+    *
     *   B500
 
-    *   B500 Furtwangen im Schwarzwald, A
+    *   B500 Furtwangen im Schw., Hinterschützenbach, B
 
     *   48.08177
 
     *   8.20628
 
 
-*    *   2598
+*    *   2100
 
+    *
     *   B500
 
     *   B500 Schönwald im Schwarzwald, Hölltal
 
-    *   48.10923
+    *   48.10922
 
-    *   8.20717
+    *   8.20718
 
 
-*    *   2599
+*    *   2101
 
+    *
     *   B500
 
     *   B500 Baiersbronn, I
@@ -28650,8 +25271,9 @@ Gültig ab 1. Dezember 2019
     *   8.27429
 
 
-*    *   2600
+*    *   2102
 
+    *
     *   B500
 
     *   B500 Baiersbronn, H
@@ -28661,8 +25283,9 @@ Gültig ab 1. Dezember 2019
     *   8.26782
 
 
-*    *   2601
+*    *   2103
 
+    *
     *   B500
 
     *   B500 Baiersbronn, F
@@ -28672,8 +25295,9 @@ Gültig ab 1. Dezember 2019
     *   8.25056
 
 
-*    *   2602
+*    *   2104
 
+    *
     *   B500
 
     *   B500 Baiersbronn, G
@@ -28683,8 +25307,9 @@ Gültig ab 1. Dezember 2019
     *   8.24643
 
 
-*    *   2603
+*    *   2105
 
+    *
     *   B500
 
     *   B500 Baiersbronn, E
@@ -28694,8 +25319,9 @@ Gültig ab 1. Dezember 2019
     *   8.24252
 
 
-*    *   2604
+*    *   2106
 
+    *
     *   B500
 
     *   B500 Baiersbronn, Lotharpfad
@@ -28705,8 +25331,9 @@ Gültig ab 1. Dezember 2019
     *   8.22345
 
 
-*    *   2605
+*    *   2107
 
+    *
     *   B500
 
     *   B500 Baiersbronn, D
@@ -28716,8 +25343,9 @@ Gültig ab 1. Dezember 2019
     *   8.21952
 
 
-*    *   2606
+*    *   2108
 
+    *
     *   B500
 
     *   B500 Baiersbronn, B
@@ -28727,8 +25355,9 @@ Gültig ab 1. Dezember 2019
     *   8.22129
 
 
-*    *   2607
+*    *   2109
 
+    *
     *   B500
 
     *   B500 Baiersbronn, A
@@ -28738,19 +25367,9 @@ Gültig ab 1. Dezember 2019
     *   8.22245
 
 
-*    *   2608
+*    *   2110
 
-    *   B500
-
-    *   B500 Baiersbronn, Ruhestein
-
-    *   48.55676
-
-    *   8.21823
-
-
-*    *   2609
-
+    *
     *   B500
 
     *   B500 Seebach, Hellmut-Gnändinger-Weg, D
@@ -28760,8 +25379,9 @@ Gültig ab 1. Dezember 2019
     *   8.22203
 
 
-*    *   2610
+*    *   2111
 
+    *
     *   B500
 
     *   B500 Seebach, Hellmut-Gnändinger-Weg, C
@@ -28771,8 +25391,9 @@ Gültig ab 1. Dezember 2019
     *   8.22179
 
 
-*    *   2611
+*    *   2112
 
+    *
     *   B500
 
     *   B500 Seebach, Hellmut-Gnändinger-Weg, B
@@ -28782,8 +25403,9 @@ Gültig ab 1. Dezember 2019
     *   8.21487
 
 
-*    *   2612
+*    *   2113
 
+    *
     *   B500
 
     *   B500 Seebach, Hellmut-Gnändinger-Weg, A
@@ -28793,8 +25415,9 @@ Gültig ab 1. Dezember 2019
     *   8.21494
 
 
-*    *   2613
+*    *   2114
 
+    *
     *   B500
 
     *   B500 Seebach, Schwarzwaldhochstraße
@@ -28804,19 +25427,21 @@ Gültig ab 1. Dezember 2019
     *   8.21678
 
 
-*    *   2614
+*    *   2115
 
+    *
     *   B500
 
-    *   B500 Lauf, Stollenbachweg
+    *   B500 Lauf
 
-    *   48.62328
+    *   48.62333
 
-    *   8.2007
+    *   8.20075
 
 
-*    *   2615
+*    *   2116
 
+    *
     *   B500
 
     *   B500 Bühl, Sackweg
@@ -28826,8 +25451,9 @@ Gültig ab 1. Dezember 2019
     *   8.23816
 
 
-*    *   2616
+*    *   2117
 
+    *
     *   B500
 
     *   B500 Baden-Baden, Droschkenweg
@@ -28837,8 +25463,9 @@ Gültig ab 1. Dezember 2019
     *   8.23267
 
 
-*    *   2617
+*    *   2118
 
+    *
     *   B500
 
     *   B500 Baden-Baden, B
@@ -28848,19 +25475,9 @@ Gültig ab 1. Dezember 2019
     *   8.23843
 
 
-*    *   2618
+*    *   2119
 
-    *   B500
-
-    *   B500 Baden-Baden, Brahmsstraße
-
-    *   48.74484
-
-    *   8.26055
-
-
-*    *   2619
-
+    *
     *   B500
 
     *   B500 Iffezheim, A
@@ -28870,8 +25487,9 @@ Gültig ab 1. Dezember 2019
     *   8.12063
 
 
-*    *   2620
+*    *   2120
 
+    *
     *   B501
 
     *   B501 Schashagen, An der Bundesstraße
@@ -28881,8 +25499,9 @@ Gültig ab 1. Dezember 2019
     *   10.86779
 
 
-*    *   2621
+*    *   2121
 
+    *
     *   B501
 
     *   B501 Grube, B
@@ -28892,8 +25511,9 @@ Gültig ab 1. Dezember 2019
     *   11.03429
 
 
-*    *   2622
+*    *   2122
 
+    *
     *   B501
 
     *   B501 Großenbrode, Hengstkamp
@@ -28903,8 +25523,9 @@ Gültig ab 1. Dezember 2019
     *   11.0106
 
 
-*    *   2623
+*    *   2123
 
+    *
     *   B505
 
     *   B505 Höchstadt an der Aisch, C
@@ -28914,8 +25535,9 @@ Gültig ab 1. Dezember 2019
     *   10.87961
 
 
-*    *   2624
+*    *   2124
 
+    *
     *   B505
 
     *   B505 Höchstadt an der Aisch, B
@@ -28925,8 +25547,9 @@ Gültig ab 1. Dezember 2019
     *   10.90503
 
 
-*    *   2625
+*    *   2125
 
+    *
     *   B505
 
     *   B505 Höchstadt an der Aisch, A
@@ -28936,8 +25559,9 @@ Gültig ab 1. Dezember 2019
     *   10.91019
 
 
-*    *   2626
+*    *   2126
 
+    *
     *   B505
 
     *   B505 Hirschaid
@@ -28947,30 +25571,9 @@ Gültig ab 1. Dezember 2019
     *   10.94499
 
 
-*    *   2627
+*    *   2127
 
-    *   B506
-
-    *   B506 Köln, Dellbrücker Mauspfad
-
-    *   50.9757
-
-    *   7.0622
-
-
-*    *   2628
-
-    *   B506
-
-    *   B506 Bergisch Gladbach, Siefen, B
-
-    *   51.01128
-
-    *   7.16194
-
-
-*    *   2629
-
+    *
     *   B508
 
     *   B508 Hilchenbach, Kredenbach
@@ -28980,30 +25583,21 @@ Gültig ab 1. Dezember 2019
     *   8.0465
 
 
-*    *   2630
+*    *   2128
 
-    *   B508
-
-    *   B508 Hilchenbach, Lindenstraße
-
-    *   50.97987
-
-    *   8.0896
-
-
-*    *   2631
-
+    *
     *   B515
 
-    *   B515 Menden (Sauerland), Hönnetalstraße
+    *   B515 Menden (Sauerland), Hönnetalstraße, B
 
     *   51.40032
 
     *   7.84167
 
 
-*    *   2632
+*    *   2129
 
+    *
     *   B516
 
     *   B516 Warstein, Berghoffsweg
@@ -29013,19 +25607,21 @@ Gültig ab 1. Dezember 2019
     *   8.25828
 
 
-*    *   2633
+*    *   2130
 
+    *
     *   B516
 
     *   B516 Rüthen, E
 
-    *   51.47477
+    *   51.47479
 
-    *   8.50565
+    *   8.50567
 
 
-*    *   2634
+*    *   2131
 
+    *
     *   B516
 
     *   B516 Rüthen, F
@@ -29035,8 +25631,9 @@ Gültig ab 1. Dezember 2019
     *   8.51846
 
 
-*    *   2635
+*    *   2132
 
+    *
     *   B516
 
     *   B516 Brilon
@@ -29046,30 +25643,9 @@ Gültig ab 1. Dezember 2019
     *   8.55
 
 
-*    *   2636
+*    *   2133
 
-    *   B517
-
-    *   B517 Kreuztal, Am Parkplatz
-
-    *   50.97353
-
-    *   7.97711
-
-
-*    *   2637
-
-    *   B517
-
-    *   B517 Kreuztal, Eichener Straße
-
-    *   50.9762
-
-    *   7.97242
-
-
-*    *   2638
-
+    *
     *   B517
 
     *   B517 Kirchhundem, Gühberg
@@ -29079,8 +25655,9 @@ Gültig ab 1. Dezember 2019
     *   7.98814
 
 
-*    *   2639
+*    *   2134
 
+    *
     *   B518
 
     *   B518 Schopfheim
@@ -29090,8 +25667,9 @@ Gültig ab 1. Dezember 2019
     *   7.8676
 
 
-*    *   2640
+*    *   2135
 
+    *
     *   B519
 
     *   B519 Flörsheim am Main, Rüsselsheimer Straße
@@ -29101,30 +25679,21 @@ Gültig ab 1. Dezember 2019
     *   8.43556
 
 
-*    *   2641
+*    *   2136
 
-    *   B519
-
-    *   B519 Hofheim am Taunus, Elisabethenstraße
-
-    *   50.08569
-
-    *   8.44731
-
-
-*    *   2642
-
+    *
     *   B523
 
-    *   B523 Tuningen, A
+    *   B523 Tuningen
 
     *   48.04068
 
     *   8.58688
 
 
-*    *   2643
+*    *   2137
 
+    *
     *   B523
 
     *   B523 Tuttlingen
@@ -29134,8 +25703,9 @@ Gültig ab 1. Dezember 2019
     *   8.72421
 
 
-*    *   2644
+*    *   2138
 
+    *
     *   B523
 
     *   B523 Tuttlingen, Esslinger Straße
@@ -29145,8 +25715,9 @@ Gültig ab 1. Dezember 2019
     *   8.73504
 
 
-*    *   2645
+*    *   2139
 
+    *
     *   B523
 
     *   B523 Wurmlingen
@@ -29156,8 +25727,9 @@ Gültig ab 1. Dezember 2019
     *   8.76354
 
 
-*    *   2646
+*    *   2140
 
+    *
     *   B533
 
     *   B533 Hunding, E
@@ -29167,8 +25739,9 @@ Gültig ab 1. Dezember 2019
     *   13.16859
 
 
-*    *   2647
+*    *   2141
 
+    *
     *   B533
 
     *   B533 Hunding, D
@@ -29178,8 +25751,9 @@ Gültig ab 1. Dezember 2019
     *   13.18052
 
 
-*    *   2648
+*    *   2142
 
+    *
     *   B533
 
     *   B533 Hunding, A
@@ -29189,19 +25763,9 @@ Gültig ab 1. Dezember 2019
     *   13.18949
 
 
-*    *   2649
+*    *   2143
 
-    *   B533
-
-    *   B533 Innernzell, A
-
-    *   48.85802
-
-    *   13.30345
-
-
-*    *   2650
-
+    *
     *   B533
 
     *   B533 Grafenau, A
@@ -29209,28 +25773,6 @@ Gültig ab 1. Dezember 2019
     *   48.8516
 
     *   13.40187
-
-
-*    *   2651
-
-    *   B533
-
-    *   B533 Hohenau, Saldenau, B
-
-    *   48.84932
-
-    *   13.47156
-
-
-*    *   2652
-
-    *   B588
-
-    *   B588 Reischach, Schönbichler Straße
-
-    *   48.28966
-
-    *   12.72431
 
 
 

@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2020, 118, 1954
 
 Stand: Die V ist gem. Bek. v. 19.8.2020 I 1954 am 1.8.2020 in Kraft getreten
+Geändert durch
+:   Art. 1 V v. 26.4.2022 I 850
+
 
 ## Eingangsformel
 
@@ -36,22 +39,19 @@ Gesetzes.
 
 (1) Zuständige Stelle für die Wahrnehmung der Aufgaben nach dieser
 Verordnung ist das Bundesministerium für Bildung und Forschung. Zur
-Durchführung werden eine oder mehrere Stellen bestimmt und soweit
-erforderlich beliehen, die Gewähr für eine sachgemäße
-Aufgabenwahrnehmung bieten (Bescheinigungsstellen). Das
-Bundesministerium für Bildung und Forschung gibt die
-Bescheinigungsstellen im Gemeinsamen Ministerialblatt (GMBl) amtlich
-bekannt. Das Bundesministerium für Bildung und Forschung bestimmt im
-Falle mehrerer Bescheinigungsstellen die Zuständigkeitsverteilung und
-veröffentlicht diese ebenso im Gemeinsamen Ministerialblatt (GMBl).
+Durchführung wird eine Stelle bestimmt und soweit erforderlich
+beliehen, die Gewähr für eine sachgemäße Aufgabenwahrnehmung bietet
+(Bescheinigungsstelle). Das Bundesministerium für Bildung und
+Forschung gibt die Bescheinigungsstelle im Gemeinsamen
+Ministerialblatt (GMBl) amtlich bekannt.
 
 (2) Das Bundesministerium für Bildung und Forschung führt die Rechts-
-und Fachaufsicht über die Bescheinigungsstellen und stellt eine
+und Fachaufsicht über die Bescheinigungsstelle und stellt eine
 einheitliche Durchführung des Bescheinigungsverfahrens sicher.
 
-(3) Die Mitarbeiterinnen und Mitarbeiter der Bescheinigungsstellen
-sind zur Geheimhaltung besonders zu verpflichten. § 1 Absatz 2 und 3
-des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das
+(3) Die Mitarbeiterinnen und Mitarbeiter der Bescheinigungsstelle sind
+zur Geheimhaltung besonders zu verpflichten. § 1 Absatz 2 und 3 des
+Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das
 durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942)
 geändert worden ist, gilt entsprechend.
 
@@ -104,18 +104,10 @@ werden soll, beantragt werden.
 4.  soweit vorhanden, eine Handelsregister-Nummer;
 
 
-5.  Angaben zu mit dem Antragsteller verbundenen Unternehmen im Sinne des
-    § 15 des Aktiengesetzes:
-
-    a)  Name und Anschrift von verbundenen Unternehmen,
-
-
-    b)  Steuernummer von verbundenen Unternehmen, die ebenfalls einen Antrag
-        nach § 6 des Forschungszulagengesetzes für dasselbe Kalenderjahr
-        gestellt haben oder noch stellen werden.
-
-
-
+5.  den Namen, die Anschrift und die Steuernummer der mit dem
+    Antragsteller im Sinne des § 3 Absatz 6 Satz 2 des Gesetzes
+    verbundenen Unternehmen, soweit diese im Inland beschränkt oder
+    unbeschränkt steuerpflichtig sind.
 
 
 
@@ -123,9 +115,9 @@ werden soll, beantragt werden.
 
 ## § 4 Antragsprüfung
 
-(1) Die zuständige Bescheinigungsstelle prüft auf der Grundlage
-einheitlicher Vorgaben, ob ein Forschungs- und Entwicklungsvorhaben im
-Sinne des § 2 Absatz 1 bis 3 des Gesetzes vorliegt.
+(1) Die Bescheinigungsstelle prüft auf der Grundlage einheitlicher
+Vorgaben, ob ein Forschungs- und Entwicklungsvorhaben im Sinne des § 2
+Absatz 1 bis 3 des Gesetzes vorliegt.
 
 (2) Die Prüfung eines Antrags erfolgt auf Grundlage der vom
 Antragsteller im Antrag nach § 3 gemachten Angaben. Die
@@ -155,8 +147,8 @@ schließen eine Verpflichtung als Gutachterin oder Gutachter aus.
 
 ## § 5 Bescheinigung nach § 6 des Gesetzes
 
-(1) Die Bescheinigung wird von der zuständigen Bescheinigungsstelle
-für alle in einem Antrag nach § 3 aufgeführten Forschungs- und
+(1) Die Bescheinigung wird von der Bescheinigungsstelle für alle in
+einem Antrag nach § 3 aufgeführten Forschungs- und
 Entwicklungsvorhaben ausgestellt, die die Voraussetzungen nach § 2
 Absatz 1 bis 3 des Gesetzes erfüllen.
 
@@ -186,7 +178,7 @@ der Widerspruch zulässig.
 ## § 6 Geschäftsstatistik
 
 (1) Über die Anträge, die Bescheinigungen und die Ablehnungen nach
-dieser Verordnung führen die Bescheinigungsstellen eine
+dieser Verordnung führt die Bescheinigungsstelle eine
 Geschäftsstatistik. Gegenstand der Geschäftsstatistik sind die in
 Absatz 2 bestimmten Angaben und Merkmale.
 
@@ -201,19 +193,23 @@ erhoben:
 2.  der Wirtschaftszweig des Antragstellers,
 
 
-3.  der Umsatz im letzten abgeschlossenen Wirtschaftsjahr (gegebenenfalls
-    vorläufiger Wert oder Schätzung),
+3.  der Umsatz in den letzten drei abgeschlossenen Wirtschaftsjahren
+    (gegebenenfalls vorläufiger Wert oder Schätzung),
 
 
 4.  die Zahl der Beschäftigten im Unternehmen insgesamt sowie die Zahl der
-    Beschäftigten im Bereich Forschung und Entwicklung zum Zeitpunkt der
-    Antragstellung in Vollzeitäquivalenten,
+    Beschäftigten im Bereich Forschung und Entwicklung in
+    Vollzeitäquivalenten jeweils zum Ende der letzten drei abgeschlossenen
+    Wirtschaftsjahre,
 
 
-5.  die Gesamtaufwendungen für Forschung und Entwicklung im letzten
-    abgeschlossenen Wirtschaftsjahr (gegebenenfalls vorläufiger Wert oder
-    Schätzung), unterteilt nach Personal- und Sachaufwendungen sowie
-    internen und externen Aufwendungen.
+5.  die Gesamtaufwendungen für Forschung und Entwicklung, unterteilt nach
+    Personal- und Sachaufwendungen sowie internen und externen
+    Aufwendungen, jeweils für die letzten drei abgeschlossenen
+    Wirtschaftsjahre (gegebenenfalls vorläufiger Wert oder Schätzung),
+
+
+6.  die Eigenschaft eines verbundenen Unternehmens.
 
 
 
@@ -223,41 +219,51 @@ Ersatzweise können Angaben für das jeweils rechtlich selbstständige
 Unternehmen gemacht werden, das den Antrag stellt. In diesem Fall sind
 zusätzlich Angaben zur Zahl der Beschäftigten und zum Umsatz im
 letzten abgeschlossenen Wirtschaftsjahr für den Unternehmensverbund zu
-machen (gegebenenfalls vorläufige Werte oder Schätzungen).
+machen (gegebenenfalls vorläufige Werte oder Schätzungen). Die
+verpflichtenden Angaben nach Satz 1 Nummer 3 bis 5 werden bis zu einer
+Antragstellung im Jahr 2025 für die letzten drei abgeschlossenen
+Wirtschaftsjahre erhoben. Für Anträge nach dem Jahr 2025 sind diese
+Angaben für das letzte abgeschlossene Wirtschaftsjahr zu erheben.
 
-(3) Nach näherer Bestimmung der zuständigen Stelle (§ 2) stellen die
-Bescheinigungsstellen für statistische Zwecke oder zu Zwecken der
+(3) Nach näherer Bestimmung der zuständigen Stelle (§ 2) stellt die
+Bescheinigungsstelle für statistische Zwecke oder zu Zwecken der
 Evaluierung und Erfolgskontrolle weitere Erhebungen bei den
-Antragstellern ohne Auskunftspflicht an und teilen die Angaben der
+Antragstellern ohne Auskunftspflicht an und teilt die Angaben der
 zuständigen Stelle und, auf Weisung der zuständigen Stelle, den für
 die Evaluierung beziehungsweise für die Durchführung der in § 7 Absatz
 3 genannten Erhebungen zuständigen Stellen mit.
 
 (4) Zum Zwecke der Geschäftsstatistik, der Evaluierung sowie der
-wissenschaftlichen Forschung dürfen die Bescheinigungsstellen sowie
-die zuständige Stelle Angaben zu demselben Antragsteller aus
-verschiedenen Bescheinigungsverfahren zusammenführen.
+wissenschaftlichen Forschung dürfen die Bescheinigungsstelle sowie die
+zuständige Stelle Angaben zu demselben Antragsteller aus verschiedenen
+Bescheinigungsverfahren zusammenführen.
 
 
 ## § 7 Datenübermittlung
 
 (1) Für die weitere Bearbeitung des Antrags auf Forschungszulage nach
 § 5 des Gesetzes sowie zum Zwecke der Erfolgskontrolle, Evaluierung
-und Gesetzesfolgenabschätzung übermitteln die Bescheinigungsstellen
-Daten aus dem Bescheinigungsverfahren an die Finanzverwaltung.
+und Gesetzesfolgenabschätzung übermittelt die Bescheinigungsstelle
+Daten aus dem Bescheinigungsverfahren an die Finanzverwaltung. In den
+Fällen nach § 5 Absatz 4 erfolgt eine Datenübermittlung an das
+zuständige Finanzamt nur, wenn der Antragsteller für weitere in
+demselben Zeitraum durchgeführte Forschungs- und Entwicklungsvorhaben
+eine Bescheinigung nach § 5 Absatz 1 erhalten hat und die
+Datenübermittlung zur Erfüllung der Aufgaben der Finanzverwaltung
+erforderlich ist.
 
 (2) Zum Zwecke der Evaluierung nach § 17 des Gesetzes verarbeiten die
-zuständige Stelle sowie die Bescheinigungsstellen auf Weisung durch
-die zuständige Stelle die erhobenen Einzelangaben der Antragsteller.
-Sie übermitteln die Angaben nach Satz 1 einschließlich
-identifizierender Merkmale (insbesondere den Namen, die Anschrift, die
-E-Mail-Adresse, die Handelsregister-Nummer, die Steuernummer) sowie
-der jeweiligen Entscheidung über den betreffenden Antrag an die mit
-der Evaluierung betraute Stelle bzw. betrauten Stellen zur weiteren
-Verarbeitung, sofern die Angaben für die Durchführung der Evaluierung
-erforderlich sind.
+zuständige Stelle sowie die Bescheinigungsstelle auf Weisung durch die
+zuständige Stelle die erhobenen Einzelangaben der Antragsteller. Sie
+übermitteln die Angaben nach Satz 1 einschließlich identifizierender
+Merkmale (insbesondere den Namen, die Anschrift, die E-Mail-Adresse,
+die Handelsregister-Nummer, die Steuernummer) sowie der jeweiligen
+Entscheidung über den betreffenden Antrag an die mit der Evaluierung
+betraute Stelle bzw. betrauten Stellen zur weiteren Verarbeitung,
+sofern die Angaben für die Durchführung der Evaluierung erforderlich
+sind.
 
-(3) Die zuständige Stelle sowie die Bescheinigungsstellen dürfen die
+(3) Die zuständige Stelle sowie die Bescheinigungsstelle dürfen die
 erhobenen Einzelangaben der Antragsteller einschließlich
 identifizierender Merkmale (insbesondere den Namen, die Anschrift, die
 E-Mail-Adresse, die Handelsregister-Nummer, die Steuernummer) sowie
@@ -275,7 +281,7 @@ durchführenden Stellen zur weiteren Verarbeitung übermitteln.
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Bekanntgabe der
-Bescheinigungsstellen nach § 2 Absatz 1 in Kraft, frühestens am 1.
+Bescheinigungsstelle nach § 2 Absatz 1 in Kraft, frühestens am 1.
 Januar 2020. Der Tag des Inkrafttretens ist durch das
 Bundesministerium für Bildung und Forschung im Bundesgesetzblatt
 gesondert bekannt zu geben.

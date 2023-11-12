@@ -1037,7 +1037,7 @@ elektronisch.
 
 (3) Die zuständige Stelle entscheidet, ob ein Sicherheitsrisiko
 vorliegt, das der sicherheitsempfindlichen Tätigkeit der betroffenen
-Person entgegensteht.Die Bewertung der übermittelten Erkenntnisse
+Person entgegensteht. Die Bewertung der übermittelten Erkenntnisse
 erfolgt auf Grund einer am Zweck der Sicherheitsüberprüfung
 orientierten Gesamtwürdigung des Einzelfalles, insbesondere im
 Hinblick auf die vorgesehene Tätigkeit. Im Zweifel hat das

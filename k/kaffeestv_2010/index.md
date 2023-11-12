@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3334
 
 Zuletzt geändert durch
-:   Art. 3 V v. 11.8.2021 I 3602
+:   Art. 9 G v. 24.10.2022 I 1838
 
 
 ## Abschnitt 1 - Allgemeines
@@ -548,7 +548,7 @@ Ort der Einfuhr im Steuergebiet empfangen will, hat vor Beginn der
 Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG)
 Nr. 31/96 der Kommission vom 10. Januar 1996 über die
 Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S.
-11) in der jeweils geltenden Fassung in Verbindung mit Artikel 13 der
+11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der
 Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen
 Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat
 die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene
@@ -566,12 +566,7 @@ unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
     berechtigt ist, örtlich zuständig ist,
 
 
-2.  nach § 8 Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, das für die
-    Überwachung der Kontingente und Bezugsmengen von Diplomatengut oder
-    von Konsulargut zuständig ist,
-
-
-3.  nach § 8 Absatz 1 Nummer 5 des Gesetzes das Hauptzollamt, das für den
+2.  nach § 8 Absatz 1 Nummer 5 des Gesetzes das Hauptzollamt, das für den
     Sitz der internationalen Einrichtung örtlich zuständig ist.
 
 
@@ -838,6 +833,11 @@ oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer
 dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete
 Unterlagen nachzuweisen.
 
+(3) In den Fällen des § 11 Absatz 4 des Gesetzes gelten hinsichtlich
+der §§ 14, 16, 17, 33 und 34 entsprechend. Die Frist nach § 11 Absatz
+4 Satz 4 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der
+Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
+
 
 ## Abschnitt 8 - Zu den § 11 und 12 des Gesetzes
 
@@ -845,7 +845,15 @@ Unterlagen nachzuweisen.
 ### § 20 Steueranmeldung
 
 (1) Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach
-amtlich vorgeschriebenem Vordruck abzugeben.
+amtlich vorgeschriebenem Vordruck abzugeben. Das Hauptzollamt kann
+Steuerschuldnern nach § 11 Absatz 5 Nummer 2 des Gesetzes auf Antrag
+die Abgabe einer für einen Kalendermonat zusammengefassten
+Steueranmeldung widerruflich zulassen, soweit die in einem
+Kalendermonat hergestellte Menge 50 Kilogramm nicht übersteigt und
+Steuerbelange nicht beeinträchtigt sind. Für die Frist zur Abgabe der
+zusammengefassten Steueranmeldung gilt in diesen Fällen § 12 Absatz 1
+Satz 1 und für die Fälligkeit der Steuer § 12 Absatz 1 Satz 2 des
+Gesetzes entsprechend.
 
 (2) Das Hauptzollamt überprüft die Steueranmeldung nach Absatz 1. Art
 und Umfang der Überprüfung richten sich nach den Umständen des
@@ -1047,7 +1055,7 @@ wird bei Erteilung auch dem Versandhändler schriftlich oder
 elektronisch bekannt gegeben. Die Erlaubnis gilt damit auch für den
 Versandhändler als unter Widerrufsvorbehalt erteilt.
 
-(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 2
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 4
 Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung
 gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei
 nicht nur gelegentlichen Lieferungen nach § 18 Absatz 5 Satz 4 des
@@ -1164,6 +1172,12 @@ vorgeschriebenem Vordruck vorzulegen.
 (3) Die Anträge auf Steuerentlastung nach § 21 Absatz 1 des Gesetzes
 werden in der Steueranmeldung (§ 20 Absatz 1) des Steuerlagerinhabers
 gestellt.
+
+(4) In den Fällen des § 21 Absatz 4 des Gesetzes gelten hinsichtlich
+der Nachweisführung die §§ 14, 16, 17, 33 und 34 entsprechend. Die
+Frist nach § 21 Absatz 4 Satz 3 des Gesetzes beginnt mit der
+schriftlichen Bekanntgabe der Feststellung der Unwirksamkeit gegenüber
+dem Steuerschuldner.
 
 
 ### § 32 Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
@@ -1410,9 +1424,9 @@ der Steueraufsicht nicht entgegenstehen.
 
 (2) Werden kaffeehaltige Waren im Betrieb ihres Herstellers unter
 Steueraufsicht vernichtet, wird ihm die Kaffeesteuer auf Antrag
-entlastet. Das für den Betrieb Hauptzollamt kann einen anderen Ort der
-Vernichtung zulassen. Für das Verfahren bei der Vernichtung unter
-Steueraufsicht gilt Absatz 1 entsprechend.
+entlastet. Das Hauptzollamt kann einen anderen Ort der Vernichtung
+zulassen. Für das Verfahren bei der Vernichtung unter Steueraufsicht
+gilt Absatz 1 entsprechend.
 
 
 ## Abschnitt 19 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung

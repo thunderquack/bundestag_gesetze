@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2008, 2394
 
 Zuletzt geändert durch
-:   Art. 109 G v. 10.8.2021 I 3436
+:   Art. 2 Abs. 24 G v. 20.12.2022 I 2752
 
 
 ## Eingangsformel
@@ -446,11 +446,8 @@ Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von
 den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
-#### § 10 Verkündung von Rechtsverordnungen
+#### § 10 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 #### § 11 Inkrafttreten

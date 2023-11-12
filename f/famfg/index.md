@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 5 G v. 5.10.2021 I 4607
+:   Art. 9a G v. 19.6.2023 I Nr. 155
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -3385,13 +3385,14 @@ die
 
 
 5.  die Pflegschaft oder die gerichtliche Bestellung eines sonstigen
-    Vertreters für einen Minderjährigen oder für eine Leibesfrucht,
+    Vertreters für einen Minderjährigen oder für ein bereits gezeugtes
+    Kind,
 
 
 6.  die Genehmigung von freiheitsentziehender Unterbringung und
     freiheitsentziehenden Maßnahmen nach § 1631b des Bürgerlichen
-    Gesetzbuchs, auch in Verbindung mit den §§ 1800 und 1915 des
-    Bürgerlichen Gesetzbuchs,
+    Gesetzbuchs, auch in Verbindung mit § 1795 Absatz 1 Satz 3 und § 1813
+    Absatz 1 des Bürgerlichen Gesetzbuchs,
 
 
 7.  die Genehmigung oder Anordnung einer freiheitsentziehenden
@@ -3421,9 +3422,8 @@ seinen gewöhnlichen Aufenthalt hat.
 und 2 nicht gegeben, ist das Gericht zuständig, in dessen Bezirk das
 Bedürfnis der Fürsorge bekannt wird.
 
-(4) Für die in den §§ 1693 und 1846 des Bürgerlichen Gesetzbuchs und
-in Artikel 24 Abs. 3 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche bezeichneten Maßnahmen ist auch das Gericht zuständig, in
+(4) Für die in den §§ 1693 und 1802 Absatz 2 Satz 3 in Verbindung mit
+§ 1867 bezeichneten Maßnahmen ist auch das Gericht zuständig, in
 dessen Bezirk das Bedürfnis der Fürsorge bekannt wird. Es soll die
 angeordneten Maßnahmen dem Gericht mitteilen, bei dem eine
 Vormundschaft oder Pflegschaft anhängig ist.
@@ -3493,7 +3493,7 @@ des Jugendamts und ohne persönliche Anhörung der Eltern entscheiden. §
 Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt seine
 Entscheidung unter Angabe des Geburtsdatums und des Geburtsorts des
 Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner
-Geburt geführt hat, zu den in § 58a des Achten Buches Sozialgesetzbuch
+Geburt geführt hat, zu den in § 58 des Achten Buches Sozialgesetzbuch
 genannten Zwecken formlos mit.
 
 (4) Werden dem Gericht durch den Vortrag der Beteiligten oder auf
@@ -3703,9 +3703,9 @@ Verlangen nachzuweisen.
 (2) Persönlich geeignet im Sinne des § 158 Absatz 1 ist eine Person,
 die Gewähr bietet, die Interessen des Kindes gewissenhaft,
 unvoreingenommen und unabhängig wahrzunehmen. Persönlich ungeeignet
-ist eine Person stets dann, wenn sie rechtskräftig wegen einer
+ist eine Person insbesondere dann, wenn sie rechtskräftig wegen einer
 Straftat nach den §§ 171, 174 bis 174c, 176 bis 178, 180, 180a, 181a,
-182 bis 184c, 184e bis 184g, 184i bis 184k, 201a Absatz 3, den §§ 225,
+182 bis 184c, 184e bis 184g, 184i bis 184l, 201a Absatz 3, den §§ 225,
 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs verurteilt
 worden ist. Zur Überprüfung der Voraussetzungen des Satzes 2 soll sich
 das Gericht ein erweitertes Führungszeugnis von der betreffenden
@@ -3756,7 +3756,8 @@ anlässlich der Verfahrensbeistandschaft entstandener Aufwendungen ab.
 Verfahrensbeistands ist § 277 Absatz 1 entsprechend anzuwenden.
 
 (3) Der Aufwendungsersatz und die Vergütung sind stets aus der
-Staatskasse zu zahlen. Im Übrigen gilt § 168 Absatz 1 entsprechend.
+Staatskasse zu zahlen. § 292 Absatz 1 und 5 ist entsprechend
+anzuwenden.
 
 (4) Dem Verfahrensbeistand sind keine Kosten aufzuerlegen.
 
@@ -4050,61 +4051,114 @@ Gerichts für Verfahren nach dieser Vorschrift über die Landesgrenzen
 hinaus vereinbaren.
 
 
-#### § 168 Beschluss über Zahlungen des Mündels
+#### § 168 Auswahl des Vormunds
 
-(1) Das Gericht setzt durch Beschluss fest, wenn der Vormund,
-Gegenvormund oder Mündel die gerichtliche Festsetzung beantragt oder
-das Gericht sie für angemessen hält:
+(1) Hat das Gericht einen Vormund zu bestellen, so soll es bei der
+Auswahl auch nahestehende Familienangehörige sowie Personen des
+Vertrauens des betroffenen Kindes anhören, wenn dies ohne erhebliche
+Verzögerungen möglich ist.
 
-1.  Vorschuss, Ersatz von Aufwendungen, Aufwandsentschädigung, soweit der
-    Vormund oder Gegenvormund sie aus der Staatskasse verlangen kann (§
-    1835 Abs. 4 und § 1835a Abs. 3 des Bürgerlichen Gesetzbuchs) oder ihm
-    nicht die Vermögenssorge übertragen wurde;
+(2) Vor der Bestellung einer Person als ehrenamtlicher Vormund oder
+als Berufsvormund, hat das Gericht eine Auskunft nach § 41 des
+Bundeszentralregistergesetzes einzuholen. Das Gericht überprüft in
+angemessenen Zeitabständen, spätestens alle zwei Jahre nach der
+Bestellung, durch Einholung einer Auskunft, ob die Eignung des
+Vormunds fortbesteht.
 
-
-2.  eine dem Vormund oder Gegenvormund zu bewilligende Vergütung oder
-    Abschlagszahlung (§ 1836 des Bürgerlichen Gesetzbuchs).
-
-
-
-Mit der Festsetzung bestimmt das Gericht Höhe und Zeitpunkt der
-Zahlungen, die der Mündel an die Staatskasse nach den §§ 1836c und
-1836e des Bürgerlichen Gesetzbuchs zu leisten hat. Es kann die
-Zahlungen gesondert festsetzen, wenn dies zweckmäßig ist. Erfolgt
-keine Festsetzung nach Satz 1 und richten sich die in Satz 1
-bezeichneten Ansprüche gegen die Staatskasse, gelten die Vorschriften
-über das Verfahren bei der Entschädigung von Zeugen hinsichtlich ihrer
-baren Auslagen sinngemäß.
-
-(2) In dem Antrag sollen die persönlichen und wirtschaftlichen
-Verhältnisse des Mündels dargestellt werden. § 118 Abs. 2 Satz 1 und 2
-sowie § 120 Absatz 2 und 3 sowie § 120a Absatz 1 Satz 1 bis 3 der
-Zivilprozessordnung sind entsprechend anzuwenden. Steht nach der
-freien Überzeugung des Gerichts der Aufwand zur Ermittlung der
-persönlichen und wirtschaftlichen Verhältnisse des Mündels außer
-Verhältnis zur Höhe des aus der Staatskasse zu begleichenden Anspruchs
-oder zur Höhe der voraussichtlich vom Mündel zu leistenden Zahlungen,
-kann das Gericht ohne weitere Prüfung den Anspruch festsetzen oder von
-einer Festsetzung der vom Mündel zu leistenden Zahlungen absehen.
-
-(3) Nach dem Tode des Mündels bestimmt das Gericht Höhe und Zeitpunkt
-der Zahlungen, die der Erbe des Mündels nach § 1836e des Bürgerlichen
-Gesetzbuchs an die Staatskasse zu leisten hat. Der Erbe ist
-verpflichtet, dem Gericht über den Bestand des Nachlasses Auskunft zu
-erteilen. Er hat dem Gericht auf Verlangen ein Verzeichnis der zur
-Erbschaft gehörenden Gegenstände vorzulegen und an Eides statt zu
-versichern, dass er nach bestem Wissen und Gewissen den Bestand so
-vollständig angegeben habe, als er dazu imstande sei.
-
-(4) Der Mündel ist zu hören, bevor nach Absatz 1 eine von ihm zu
-leistende Zahlung festgesetzt wird. Vor einer Entscheidung nach Absatz
-3 ist der Erbe zu hören.
-
-(5) Auf die Pflegschaft sind die Absätze 1 bis 4 entsprechend
-anzuwenden.
+(3) Für ein Mündel, der das 14. Lebensjahr vollendet hat und nicht
+geschäftsunfähig ist, gilt § 291 entsprechend.
 
 
-#### § 168a Mitteilungspflichten des Standesamts
+#### § 168a Inhalt der Beschlussformel und Wirksamwerden der Beschlüsse
+
+(1) Die Beschlussformel enthält im Fall der Bestellung eines Vormunds
+auch
+
+1.  bei Bestellung eines Berufsvormunds die Bezeichnung als Berufsvormund;
+
+
+2.  bei Bestellung eines Vereinsvormunds die Bezeichnung als
+    Vereinsvormund und die des Vormundschaftsvereins;
+
+
+3.  bei Bestellung des Jugendamtes die Bezeichnung des zuständigen Amtes;
+
+
+4.  bei Bestellung eines Pflegers nach § 1776 oder § 1777 des Bürgerlichen
+    Gesetzbuchs die Bezeichnung des Pflegers und die ihm übertragenen
+    Angelegenheiten;
+
+
+5.  bei einer Bestellung nach § 1781 des Bürgerlichen Gesetzbuchs die
+    Bezeichnung als vorläufiger Vormund.
+
+
+
+
+(2) Beschlüsse über Inhalt oder Bestand der Bestellung eines Vormunds
+werden mit Bekanntgabe an den Vormund wirksam. § 287 Absatz 2 gilt
+entsprechend.
+
+
+#### § 168b Bestellungsurkunde
+
+(1) Der Vormund erhält eine Urkunde über seine Bestellung. Die Urkunde
+soll enthalten:
+
+1.  die Bezeichnung des Mündels und des Vormunds;
+
+
+2.  in den Fällen des § 1776 oder § 1777 des Bürgerlichen Gesetzbuchs die
+    Bezeichnung der dem Pfleger übertragenen Angelegenheiten;
+
+
+3.  Angaben über die Beschränkungen der Vertretungsmacht gemäß § 1789
+    Absatz 2 Satz 3 des Bürgerlichen Gesetzbuchs;
+
+
+4.  Angaben über Befreiungen gemäß § 1801 des Bürgerlichen Gesetzbuchs.
+
+
+
+
+(2) Ist das Jugendamt nach § 1751 Absatz 1 Satz 2, § 1786 oder § 1787
+des Bürgerlichen Gesetzbuchs Vormund geworden, hat das Gericht ihm
+unverzüglich eine Bescheinigung über den Eintritt der Vormundschaft zu
+erteilen.
+
+(3) Nach Beendigung seines Amtes hat der Vormund die
+Bestellungsurkunde oder die Bescheinigung zurückzugeben.
+
+
+#### § 168c Anhörung in wichtigen Angelegenheiten
+
+Das Gericht soll vor Entscheidungen in wichtigen Angelegenheiten auch
+nahestehende Familienangehörige des Mündels anhören, wenn dies ohne
+erhebliche Verzögerung geschehen kann.
+
+
+#### § 168d Verfahren zur Festsetzung von Zahlungen
+
+Für das Verfahren zur Festsetzung von Zahlungen an den Vormund ist §
+292 Absatz 1 und Absatz 3 bis 6 entsprechend anzuwenden.
+
+
+#### § 168e Beendigung der Vormundschaft
+
+Bestehen Zweifel oder Uneinigkeit, ob und wann die Vormundschaft
+beendet ist, stellt das Gericht die Beendigung der Vormundschaft und
+den Zeitpunkt der Beendigung durch Beschluss fest.
+
+
+#### § 168f Pflegschaft für Minderjährige
+
+Auf die Pflegschaft für Minderjährige sind die für die Vormundschaft
+geltenden Vorschriften entsprechend anzuwenden. Die Beschlussformel
+und die Bestellungsurkunde enthalten die Bezeichnung des Pflegers und
+der ihm übertragenen Angelegenheiten.
+
+
+#### § 168g Mitteilungspflichten des Standesamts
 
 (1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges
 Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des
@@ -4474,12 +4528,8 @@ Adoptionsvermittlungsstelle tätig geworden, ist eine fachliche
 vermittelt hat, die Entscheidung mitzuteilen.
 
 
-#### § 190 Bescheinigung über den Eintritt der Vormundschaft
+#### § 190 (weggefallen)
 
-Ist das Jugendamt nach § 1751 Abs. 1 Satz 1 und 2 des Bürgerlichen
-Gesetzbuchs Vormund geworden, hat das Familiengericht ihm unverzüglich
-eine Bescheinigung über den Eintritt der Vormundschaft zu erteilen; §
-1791 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 
 #### § 191 Verfahrensbeistand
@@ -5550,16 +5600,16 @@ Schuldtitel errichtet worden ist.
 
 
 12. die Erklärung, dass Unterhalt nicht für Zeiträume verlangt wird, für
-    die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Sozialgeld
-    nach dem Zweiten Buch Sozialgesetzbuch, Hilfe zur Erziehung oder
-    Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen
-    nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2
-    oder Abs. 3 des Bürgerlichen Gesetzbuchs erhalten hat, oder, soweit
-    Unterhalt aus übergegangenem Recht oder nach § 94 Abs. 4 Satz 2 des
-    Zwölften Buches Sozialgesetzbuch, § 33 Abs. 2 Satz 4 des Zweiten
-    Buches Sozialgesetzbuch oder § 7 Abs. 4 Satz 1 des
-    Unterhaltsvorschussgesetzes verlangt wird, die Erklärung, dass der
-    beantragte Unterhalt die Leistung an oder für das Kind nicht
+    die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Bürgergeld
+    nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, Hilfe
+    zur Erziehung oder Eingliederungshilfe nach dem Achten Buch
+    Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder
+    Unterhalt nach § 1607 Abs. 2 oder Abs. 3 des Bürgerlichen Gesetzbuchs
+    erhalten hat, oder, soweit Unterhalt aus übergegangenem Recht oder
+    nach § 94 Abs. 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33
+    Abs. 2 Satz 4 des Zweiten Buches Sozialgesetzbuch oder § 7 Abs. 4 Satz
+    1 des Unterhaltsvorschussgesetzes verlangt wird, die Erklärung, dass
+    der beantragte Unterhalt die Leistung an oder für das Kind nicht
     übersteigt;
 
 
@@ -6029,7 +6079,7 @@ Betreuungssachen sind
 
 
 3.  sonstige Verfahren, die die rechtliche Betreuung eines Volljährigen
-    (§§ 1896 bis 1908i des Bürgerlichen Gesetzbuchs) betreffen, soweit es
+    (§§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs) betreffen, soweit es
     sich nicht um eine Unterbringungssache handelt.
 
 
@@ -6083,8 +6133,8 @@ Aufenthalt von mehr als einem Jahr an einem anderen Ort gleich.
 2.  der Betreuer, sofern sein Aufgabenkreis betroffen ist,
 
 
-3.  der Bevollmächtigte im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen
-    Gesetzbuchs, sofern sein Aufgabenkreis betroffen ist.
+3.  der Bevollmächtigte im Sinne des § 1814 Absatz 3 Satz 2 Nummer 1 des
+    Bürgerlichen Gesetzbuchs, sofern sein Aufgabenkreis betroffen ist.
 
 
 
@@ -6122,27 +6172,31 @@ hinzuzuziehen.
 
 
 
-#### § 275 Verfahrensfähigkeit
+#### § 275 Stellung des Betroffenen im Verfahren
 
-In Betreuungssachen ist der Betroffene ohne Rücksicht auf seine
+(1) In Betreuungssachen ist der Betroffene ohne Rücksicht auf seine
 Geschäftsfähigkeit verfahrensfähig.
+
+(2) Das Gericht unterrichtet den Betroffenen bei Einleitung des
+Verfahrens in möglichst adressatengerechter Weise über die Aufgaben
+eines Betreuers, den möglichen Verlauf des Verfahrens sowie die
+Kosten, die allgemein aus der Bestellung eines Betreuers folgen
+können.
 
 
 #### § 276 Verfahrenspfleger
 
-(1) Das Gericht hat dem Betroffenen einen Verfahrenspfleger zu
-bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
+(1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
+zu bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
 erforderlich ist. Die Bestellung ist in der Regel erforderlich, wenn
 
 1.  von der persönlichen Anhörung des Betroffenen nach § 278 Abs. 4 in
     Verbindung mit § 34 Abs. 2 abgesehen werden soll oder
 
 
-2.  Gegenstand des Verfahrens die Bestellung eines Betreuers zur Besorgung
-    aller Angelegenheiten des Betroffenen oder die Erweiterung des
-    Aufgabenkreises hierauf ist; dies gilt auch, wenn der Gegenstand des
-    Verfahrens die in § 1896 Abs. 4 und § 1905 des Bürgerlichen
-    Gesetzbuchs bezeichneten Angelegenheiten nicht erfasst.
+2.  die Bestellung eines Betreuers oder die Anordnung eines
+    Einwilligungsvorbehalts gegen den erklärten Willen des Betroffenen
+    erfolgen soll.
 
 
 
@@ -6152,85 +6206,89 @@ abgesehen werden, wenn ein Interesse des Betroffenen an der Bestellung
 des Verfahrenspflegers offensichtlich nicht besteht. Die
 Nichtbestellung ist zu begründen.
 
-(3) Wer Verfahrenspflegschaften im Rahmen seiner Berufsausübung führt,
-soll nur dann zum Verfahrenspfleger bestellt werden, wenn keine andere
+(3) Der Verfahrenspfleger hat die Wünsche, hilfsweise den mutmaßlichen
+Willen des Betroffenen festzustellen und im gerichtlichen Verfahren
+zur Geltung zu bringen. Er hat den Betroffenen über Gegenstand, Ablauf
+und möglichen Ausgang des Verfahrens in geeigneter Weise zu
+informieren und ihn bei Bedarf bei der Ausübung seiner Rechte im
+Verfahren zu unterstützen. Er ist nicht gesetzlicher Vertreter des
+Betroffenen.
+
+(4) Als Verfahrenspfleger ist eine natürliche Person zu bestellen. Wer
+Verfahrenspflegschaften im Rahmen seiner Berufsausübung führt, soll
+nur dann zum Verfahrenspfleger bestellt werden, wenn keine andere
 geeignete Person zur Verfügung steht, die zur ehrenamtlichen Führung
 der Verfahrenspflegschaft bereit ist.
 
-(4) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
+(5) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
 aufgehoben werden, wenn die Interessen des Betroffenen von einem
 Rechtsanwalt oder einem anderen geeigneten Verfahrensbevollmächtigten
 vertreten werden.
 
-(5) Die Bestellung endet, sofern sie nicht vorher aufgehoben wird, mit
+(6) Die Bestellung endet, sofern sie nicht vorher aufgehoben wird, mit
 der Rechtskraft der Endentscheidung oder mit dem sonstigen Abschluss
 des Verfahrens.
 
-(6) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
+(7) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
 die Ablehnung einer derartigen Maßnahme sind nicht selbständig
 anfechtbar.
 
-(7) Dem Verfahrenspfleger sind keine Kosten aufzuerlegen.
+(8) Dem Verfahrenspfleger sind keine Kosten aufzuerlegen.
 
 
 #### § 277 Vergütung und Aufwendungsersatz des Verfahrenspflegers
 
-(1) Der Verfahrenspfleger erhält Ersatz seiner Aufwendungen nach §
-1835 Abs. 1 bis 2 des Bürgerlichen Gesetzbuchs. Vorschuss kann nicht
-verlangt werden. Eine Behörde oder ein Verein erhält als
-Verfahrenspfleger keinen Aufwendungsersatz.
+(1) Die Verfahrenspflegschaft wird unentgeltlich geführt. Der
+Verfahrenspfleger erhält Ersatz seiner Aufwendungen nach § 1877 Absatz
+1 bis 2 und 4 Satz 1 des Bürgerlichen Gesetzbuchs. Vorschuss kann
+nicht verlangt werden.
 
-(2) § 1836 Abs. 1 und 3 des Bürgerlichen Gesetzbuchs gilt
-entsprechend. Wird die Verfahrenspflegschaft ausnahmsweise berufsmäßig
-geführt, erhält der Verfahrenspfleger neben den Aufwendungen nach
-Absatz 1 eine Vergütung in entsprechender Anwendung der §§ 1, 2 und 3
-Abs. 1 und 2 des Vormünder- und Betreuervergütungsgesetzes.
+(2) Wird die Verfahrenspflegschaft ausnahmsweise berufsmäßig geführt,
+ist dies in der Bestellung festzustellen. Die Ansprüche des
+berufsmäßig tätigen Verfahrenspflegers auf Vergütung und
+Aufwendungsersatz richten sich nach § 2 Absatz 2 Satz 1 und den §§ 3
+bis 5 des Vormünder- und Betreuervergütungsgesetzes.
 
-(3) Anstelle des Aufwendungsersatzes und der Vergütung nach den
-Absätzen 1 und 2 kann das Gericht dem Verfahrenspfleger einen festen
-Geldbetrag zubilligen, wenn die für die Führung der
-Pflegschaftsgeschäfte erforderliche Zeit vorhersehbar und ihre
-Ausschöpfung durch den Verfahrenspfleger gewährleistet ist. Bei der
-Bemessung des Geldbetrags ist die voraussichtlich erforderliche Zeit
-mit den in § 3 Abs. 1 des Vormünder- und Betreuervergütungsgesetzes
-bestimmten Stundensätzen zuzüglich einer Aufwandspauschale von 4 Euro
-je veranschlagter Stunde zu vergüten. In diesem Fall braucht der
-Verfahrenspfleger die von ihm aufgewandte Zeit und eingesetzten Mittel
-nicht nachzuweisen; weitergehende Aufwendungsersatz- und
-Vergütungsansprüche stehen ihm nicht zu.
+(3) Anstelle des Aufwendungsersatzes und der Vergütung nach Absatz 2
+kann das Gericht dem Verfahrenspfleger eine Pauschale zubilligen, wenn
+die für die Führung der Pflegschaftsgeschäfte erforderliche Zeit
+vorhersehbar und ihre Ausschöpfung durch den Verfahrenspfleger
+gewährleistet ist. Bei der Bemessung des Geldbetrags ist die
+voraussichtlich erforderliche Zeit mit den in § 3 Absatz 1 des
+Vormünder- und Betreuervergütungsgesetzes bestimmten Stundensätzen
+zuzüglich einer Aufwandspauschale von 4 Euro je veranschlagter Stunde
+zu vergüten. In diesem Fall braucht der Verfahrenspfleger die von ihm
+aufgewandte Zeit und eingesetzten Mittel nicht nachzuweisen;
+weitergehende Aufwendungsersatz- und Vergütungsansprüche stehen ihm
+nicht zu.
 
-(4) Ist ein Mitarbeiter eines anerkannten Betreuungsvereins als
-Verfahrenspfleger bestellt, stehen der Aufwendungsersatz und die
-Vergütung nach den Absätzen 1 bis 3 dem Verein zu. § 7 Abs. 1 Satz 2
-und Abs. 3 des Vormünder- und Betreuervergütungsgesetzes sowie § 1835
-Abs. 5 Satz 2 des Bürgerlichen Gesetzbuchs gelten entsprechend. Ist
-ein Bediensteter der Betreuungsbehörde als Verfahrenspfleger für das
-Verfahren bestellt, erhält die Betreuungsbehörde keinen
-Aufwendungsersatz und keine Vergütung.
-
-(5) Der Aufwendungsersatz und die Vergütung des Verfahrenspflegers
-sind stets aus der Staatskasse zu zahlen. Im Übrigen gilt § 168 Abs. 1
-entsprechend.
+(4) Der Aufwendungsersatz und die Vergütung des Verfahrenspflegers
+sind stets aus der Staatskasse zu zahlen. § 292 Absatz 1 und 5 ist
+entsprechend anzuwenden.
 
 
-#### § 278 Anhörung des Betroffenen
+#### § 278 Persönliche Anhörung des Betroffenen
 
 (1) Das Gericht hat den Betroffenen vor der Bestellung eines Betreuers
-oder der Anordnung eines Einwilligungsvorbehalts persönlich anzuhören.
-Es hat sich einen persönlichen Eindruck von dem Betroffenen zu
-verschaffen. Diesen persönlichen Eindruck soll sich das Gericht in
-dessen üblicher Umgebung verschaffen, wenn es der Betroffene verlangt
-oder wenn es der Sachaufklärung dient und der Betroffene nicht
-widerspricht.
+oder der Anordnung eines Einwilligungsvorbehalts persönlich anzuhören
+und dessen Wünsche zu erfragen. Es hat sich einen persönlichen
+Eindruck von dem Betroffenen zu verschaffen. Diesen persönlichen
+Eindruck soll sich das Gericht in dessen üblicher Umgebung
+verschaffen, wenn es der Betroffene verlangt oder wenn es der
+Sachaufklärung dient und der Betroffene nicht widerspricht.
 
-(2) Das Gericht unterrichtet den Betroffenen über den möglichen
-Verlauf des Verfahrens. In geeigneten Fällen hat es den Betroffenen
-auf die Möglichkeit der Vorsorgevollmacht, deren Inhalt sowie auf die
-Möglichkeit ihrer Registrierung bei dem zentralen Vorsorgeregister
-nach § 78a Absatz 2 der Bundesnotarordnung hinzuweisen. Das Gericht
-hat den Umfang des Aufgabenkreises und die Frage, welche Person oder
-Stelle als Betreuer in Betracht kommt, mit dem Betroffenen zu
-erörtern.
+(2) In der Anhörung erörtert das Gericht mit dem Betroffenen das
+Verfahren, das Ergebnis des übermittelten Gutachtens, die Person oder
+Stelle, die als Betreuer in Betracht kommt, den Umfang des
+Aufgabenkreises und den Zeitpunkt, bis zu dem das Gericht über eine
+Aufhebung oder Verlängerung der Betreuung oder der Anordnung eines
+Einwilligungsvorbehalts zu entscheiden hat. In geeigneten Fällen hat
+es den Betroffenen auf die Möglichkeit der Vorsorgevollmacht, deren
+Inhalt sowie auf die Möglichkeit ihrer Registrierung bei dem zentralen
+Vorsorgeregister nach § 78a Absatz 2 der Bundesnotarordnung
+hinzuweisen. Hat das Gericht dem Betroffenen nach § 276 einen
+Verfahrenspfleger bestellt, soll die persönliche Anhörung in dessen
+Anwesenheit stattfinden.
 
 (3) Verfahrenshandlungen nach Absatz 1 dürfen nur dann im Wege der
 Rechtshilfe erfolgen, wenn anzunehmen ist, dass die Entscheidung ohne
@@ -6239,7 +6297,9 @@ eigenen Eindruck von dem Betroffenen getroffen werden kann.
 (4) Soll eine persönliche Anhörung nach § 34 Abs. 2 unterbleiben, weil
 hiervon erhebliche Nachteile für die Gesundheit des Betroffenen zu
 besorgen sind, darf diese Entscheidung nur auf Grundlage eines
-ärztlichen Gutachtens getroffen werden.
+ärztlichen Gutachtens getroffen werden. Unterbleibt aus diesem Grund
+die persönliche Anhörung, bedarf es auch keiner Verschaffung eines
+persönlichen Eindrucks.
 
 (5) Das Gericht kann den Betroffenen durch die zuständige Behörde
 vorführen lassen, wenn er sich weigert, an Verfahrenshandlungen nach
@@ -6266,18 +6326,18 @@ Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören.
 
 (2) Das Gericht hat die zuständige Behörde vor der Bestellung eines
 Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören.
-Die Anhörung vor der Bestellung eines Betreuers soll sich insbesondere
-auf folgende Kriterien beziehen:
+Die Anhörung soll vor der Einholung eines Gutachtens nach § 280
+erfolgen und sich insbesondere auf folgende Kriterien beziehen:
 
 1.  persönliche, gesundheitliche und soziale Situation des Betroffenen,
 
 
 2.  Erforderlichkeit der Betreuung einschließlich geeigneter anderer
-    Hilfen (§ 1896 Absatz 2 des Bürgerlichen Gesetzbuchs),
+    Hilfen (§ 1814 Absatz 3 des Bürgerlichen Gesetzbuchs),
 
 
 3.  Betreuerauswahl unter Berücksichtigung des Vorrangs der
-    Ehrenamtlichkeit (§ 1897 des Bürgerlichen Gesetzbuchs) und
+    Ehrenamtlichkeit (§ 1816 des Bürgerlichen Gesetzbuchs) und
 
 
 4.  diesbezügliche Sichtweise des Betroffenen.
@@ -6291,8 +6351,8 @@ möglich ist.
 
 (4) Das Gericht hat im Fall einer Betreuerbestellung oder der
 Anordnung eines Einwilligungsvorbehalts für einen Minderjährigen (§
-1908a des Bürgerlichen Gesetzbuchs) den gesetzlichen Vertreter des
-Betroffenen anzuhören.
+1814 Absatz 5 und § 1825 Absatz 4 des Bürgerlichen Gesetzbuchs) den
+gesetzlichen Vertreter des Betroffenen anzuhören.
 
 
 #### § 280 Einholung eines Gutachtens
@@ -6311,17 +6371,19 @@ vorliegt.
 
 (3) Das Gutachten hat sich auf folgende Bereiche zu erstrecken:
 
-1.  das Krankheitsbild einschließlich der Krankheitsentwicklung,
+1.  das Krankheits- oder Behinderungsbild einschließlich dessen
+    Entwicklung,
 
 
 2.  die durchgeführten Untersuchungen und die diesen zugrunde gelegten
     Forschungserkenntnisse,
 
 
-3.  den körperlichen und psychiatrischen Zustand des Betroffenen,
+3.  den körperlichen und psychischen Zustand des Betroffenen,
 
 
-4.  den Umfang des Aufgabenkreises und
+4.  den aus medizinischer Sicht aufgrund der Krankheit oder Behinderung
+    erforderlichen Unterstützungsbedarf und
 
 
 5.  die voraussichtliche Dauer der Maßnahme.
@@ -6332,34 +6394,24 @@ vorliegt.
 
 #### § 281 Ärztliches Zeugnis; Entbehrlichkeit eines Gutachtens
 
-(1) Anstelle der Einholung eines Sachverständigengutachtens nach § 280
-genügt ein ärztliches Zeugnis, wenn
-
-1.  der Betroffene die Bestellung eines Betreuers beantragt und auf die
-    Begutachtung verzichtet hat und die Einholung des Gutachtens
-    insbesondere im Hinblick auf den Umfang des Aufgabenkreises des
-    Betreuers unverhältnismäßig wäre oder
-
-
-2.  ein Betreuer nur zur Geltendmachung von Rechten des Betroffenen
-    gegenüber seinem Bevollmächtigten bestellt wird.
-
-
-
+(1) Anstelle eines Sachverständigengutachtens nach § 280 genügt ein
+ärztliches Zeugnis, wenn der Betroffene die Bestellung eines Betreuers
+beantragt und auf die Begutachtung verzichtet hat und die Einholung
+des Gutachtens insbesondere im Hinblick auf den Umfang des
+Aufgabenkreises des Betreuers unverhältnismäßig wäre.
 
 (2) § 280 Abs. 2 gilt entsprechend.
 
 
-#### § 282 Vorhandene Gutachten des Medizinischen Dienstes der Krankenversicherung
+#### § 282 Vorhandene Gutachten zur Feststellung der Pflegebedürftigkeit
 
 (1) Das Gericht kann im Verfahren zur Bestellung eines Betreuers von
-der Einholung eines Gutachtens nach § 280 Abs. 1 absehen, soweit durch
-die Verwendung eines bestehenden ärztlichen Gutachtens des
-Medizinischen Dienstes der Krankenversicherung nach § 18 des Elften
-Buches Sozialgesetzbuch festgestellt werden kann, inwieweit bei dem
-Betroffenen infolge einer psychischen Krankheit oder einer geistigen
-oder seelischen Behinderung die Voraussetzungen für die Bestellung
-eines Betreuers vorliegen.
+der Einholung eines Gutachtens (§ 280 Absatz 1) absehen, soweit es
+durch die Verwendung eines bestehenden ärztlichen Gutachtens zur
+Feststellung der Pflegebedürftigkeit nach § 18b des Elften Buches
+Sozialgesetzbuch feststellen kann, inwieweit bei dem Betroffenen
+infolge einer Krankheit oder einer Behinderung die Voraussetzungen für
+die Bestellung eines Betreuers vorliegen.
 
 (2) Das Gericht darf dieses Gutachten einschließlich dazu vorhandener
 Befunde zur Vermeidung weiterer Gutachten bei der Pflegekasse
@@ -6422,11 +6474,21 @@ Absätzen 1 und 2 findet die sofortige Beschwerde nach den §§ 567 bis
 572 der Zivilprozessordnung statt.
 
 
-#### § 285 Herausgabe einer Betreuungsverfügung oder der Abschrift einer Vorsorgevollmacht
+#### § 285 Ermittlung und Herausgabe einer Betreuungsverfügung oder einer Vorsorgevollmacht
 
-In den Fällen des § 1901c des Bürgerlichen Gesetzbuchs erfolgt die
-Anordnung der Ablieferung oder Vorlage der dort genannten
-Schriftstücke durch Beschluss.
+(1) Vor der Bestellung eines Betreuers soll das Gericht die Auskunft
+einholen, ob eine Vorsorgevollmacht oder eine Betreuungsverfügung des
+Betroffenen im Zentralen Vorsorgeregister registriert ist. Hat das
+Gericht von der Einholung einer Auskunft nur wegen Gefahr in Verzug
+abgesehen, ist die Auskunft unverzüglich nachträglich einzuholen.
+
+(2) In den Fällen des § 1820 Absatz 1 Satz 2, Absatz 4 Satz 1 und 2,
+Absatz 5 Satz 3 des Bürgerlichen Gesetzbuchs erfolgt die Anordnung der
+Vorlage einer Abschrift des dort genannten Dokuments oder die
+Anordnung der Herausgabe der Vollmachtsurkunde durch Beschluss.
+Gleiches gilt für eine Anordnung der nach § 1816 Absatz 2 Satz 4 des
+Bürgerlichen Gesetzbuchs vorgeschriebenen Übermittlung einer
+Betreuungsverfügung.
 
 
 #### § 286 Inhalt der Beschlussformel
@@ -6434,7 +6496,8 @@ Schriftstücke durch Beschluss.
 (1) Die Beschlussformel enthält im Fall der Bestellung eines Betreuers
 auch
 
-1.  die Bezeichnung des Aufgabenkreises des Betreuers;
+1.  die Bezeichnung des Aufgabenkreises des Betreuers unter Benennung der
+    einzelnen Aufgabenbereiche;
 
 
 2.  bei Bestellung eines Vereinsbetreuers die Bezeichnung als
@@ -6445,8 +6508,8 @@ auch
     Behördenbetreuer und die der Behörde;
 
 
-4.  bei Bestellung eines Berufsbetreuers die Bezeichnung als
-    Berufsbetreuer.
+4.  bei Bestellung eines beruflichen Betreuers die Bezeichnung als
+    beruflicher Betreuer.
 
 
 
@@ -6483,7 +6546,7 @@ Anordnung seiner sofortigen Wirksamkeit
 Der Zeitpunkt der sofortigen Wirksamkeit ist auf dem Beschluss zu
 vermerken.
 
-(3) Ein Beschluss, der die Genehmigung nach § 1904 Absatz 2 des
+(3) Ein Beschluss, der die Genehmigung nach § 1829 Absatz 2 des
 Bürgerlichen Gesetzbuchs zum Gegenstand hat, wird erst zwei Wochen
 nach Bekanntgabe an den Betreuer oder Bevollmächtigten sowie an den
 Verfahrenspfleger wirksam.
@@ -6504,23 +6567,14 @@ Beschlüsse sind der zuständigen Behörde bekannt zu geben, wenn sie vor
 deren Erlass angehört wurde.
 
 
-#### § 289 Verpflichtung des Betreuers
+#### § 289 (weggefallen)
 
-(1) Der Betreuer wird mündlich verpflichtet und über seine Aufgaben
-unterrichtet. Das gilt nicht für Vereinsbetreuer, Behördenbetreuer,
-Vereine, die zuständige Behörde und Personen, die die Betreuung im
-Rahmen ihrer Berufsausübung führen, sowie nicht für ehrenamtliche
-Betreuer, die mehr als eine Betreuung führen oder in den letzten zwei
-Jahren geführt haben.
-
-(2) In geeigneten Fällen führt das Gericht mit dem Betreuer und dem
-Betroffenen ein Einführungsgespräch.
 
 
 #### § 290 Bestellungsurkunde
 
-Der Betreuer erhält eine Urkunde über seine Bestellung. Die Urkunde
-soll enthalten:
+(1) Der Betreuer erhält eine Urkunde über seine Bestellung. Die
+Urkunde soll enthalten:
 
 1.  die Bezeichnung des Betroffenen und des Betreuers;
 
@@ -6529,7 +6583,8 @@ soll enthalten:
     Bezeichnung und die Bezeichnung des Vereins oder der Behörde;
 
 
-3.  den Aufgabenkreis des Betreuers;
+3.  den Aufgabenkreis des Betreuers unter Benennung der einzelnen
+    Aufgabenbereiche;
 
 
 4.  bei Anordnung eines Einwilligungsvorbehalts die Bezeichnung des
@@ -6537,10 +6592,24 @@ soll enthalten:
 
 
 5.  bei der Bestellung eines vorläufigen Betreuers durch einstweilige
-    Anordnung das Ende der einstweiligen Maßnahme.
+    Anordnung das Ende der einstweiligen Maßnahme;
+
+
+6.  Angaben über eine Befreiung gemäß den §§ 1859 und 1860 des
+    Bürgerlichen Gesetzbuchs.
 
 
 
+
+(2) Soweit dies zur Beachtung berechtigter Interessen des Betroffenen
+erforderlich ist und der Schutz des Rechtsverkehrs dem nicht
+entgegensteht, erstellt das Gericht auf Antrag des Betreuers eine
+weitere Urkunde, in welcher die Angaben zu den Aufgabenbereichen des
+Betreuers oder die Anordnung eines Einwilligungsvorbehalts nur
+eingeschränkt ausgewiesen werden.
+
+(3) Der Betreuer hat dem Gericht nach Beendigung seines Amtes die
+Bestellungsurkunde und weitere Urkunden nach Absatz 2 zurückzugeben.
 
 
 #### § 291 Überprüfung der Betreuerauswahl
@@ -6550,26 +6619,95 @@ Verein oder eine Behörde die Wahrnehmung der Betreuung übertragen hat,
 durch gerichtliche Entscheidung überprüft wird. Das Gericht kann dem
 Verein oder der Behörde aufgeben, eine andere Person auszuwählen, wenn
 einem Vorschlag des Betroffenen, dem keine wichtigen Gründe
-entgegenstehen, nicht entsprochen wurde oder die bisherige Auswahl dem
-Wohl des Betroffenen zuwiderläuft. § 35 ist nicht anzuwenden.
+entgegenstehen, nicht entsprochen wurde oder die ausgewählte Person
+zur Wahrnehmung dieser Betreuung nicht geeignet erscheint. § 35 ist
+nicht anzuwenden.
 
 
-#### § 292 Zahlungen an den Betreuer
+#### § 292 Zahlungen an den Betreuer; Verordnungsermächtigung
 
-(1) In Betreuungsverfahren gilt § 168 entsprechend.
+(1) Das Gericht setzt auf Antrag des Betreuers oder des Betroffenen
+oder nach eigenem Ermessen durch Beschluss fest:
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-für Anträge und Erklärungen auf Ersatz von Aufwendungen und
-Bewilligung von Vergütung Formulare einzuführen. Soweit Formulare
-eingeführt sind, müssen sich Personen, die die Betreuung im Rahmen der
-Berufsausübung führen, ihrer bedienen und sie als elektronisches
-Dokument einreichen, wenn dieses für die automatische Bearbeitung
-durch das Gericht geeignet ist. Andernfalls liegt keine ordnungsgemäße
-Geltendmachung im Sinne von § 1836 Abs. 1 Satz 2 des Bürgerlichen
-Gesetzbuchs in Verbindung mit § 1 des Vormünder- und
-Betreuungsvergütungsgesetzes vor. Die Landesregierungen können die
+1.  einen dem Betreuer zu zahlenden Vorschuss, den ihm zu leistenden
+    Ersatz von Aufwendungen oder die Aufwandspauschale, soweit der
+    Betreuer die Zahlungen aus der Staatskasse verlangen kann (§ 1879 des
+    Bürgerlichen Gesetzbuchs) oder ihm die Vermögenssorge nicht übertragen
+    wurde,
+
+
+2.  eine dem ehrenamtlichen Betreuer zu bewilligende Vergütung oder
+    Abschlagszahlung (§ 1876 des Bürgerlichen Gesetzbuchs) oder
+
+
+3.  eine dem beruflichen Betreuer oder dem Betreuungsverein zu
+    bewilligende Vergütung nach dem Vormünder- und
+    Betreuervergütungsgesetz.
+
+
+
+
+(2) Das Gericht kann eine nach Absatz 1 Nummer 3 zu bewilligende
+Vergütung auf Antrag des Betreuers oder des Betreuungsvereins auch für
+zukünftige Zeiträume durch Beschluss festsetzen, wenn die
+Voraussetzungen des § 15 Absatz 2 Satz 1 des Vormünder- und
+Betreuervergütungsgesetzes vorliegen. Die Auszahlung der Vergütung
+erfolgt für die jeweils nach § 15 Absatz 1 Satz 1 des Vormünder- und
+Betreuervergütungsgesetzes maßgeblichen Zeiträume. Die Festsetzung ist
+in regelmäßigen, im Voraus festzulegenden Abständen, die zwei Jahre
+nicht überschreiten dürfen, zu überprüfen.
+
+(3) Im Antrag sollen die persönlichen und wirtschaftlichen
+Verhältnisse des Betroffenen dargestellt werden. § 118 Absatz 2 Satz 1
+und 2 der Zivilprozessordnung ist entsprechend anzuwenden. Steht nach
+der freien Überzeugung des Gerichts der Aufwand für die Ermittlung der
+persönlichen und wirtschaftlichen Verhältnisse des Betroffenen außer
+Verhältnis zur Höhe des aus der Staatskasse zu begleichenden Anspruchs
+oder zur Höhe der vom Betroffenen voraussichtlich zu leistenden
+Zahlungen, so kann das Gericht ohne weitere Prüfung den zu leistenden
+Betrag festsetzen oder von einer Festsetzung der vom Betroffenen zu
+leistenden Zahlungen absehen.
+
+(4) Der Betroffene ist vor der Festsetzung einer von ihm zu leistenden
+Zahlung anzuhören.
+
+(5) Ist eine Festsetzung nicht beantragt, so gelten für die Zahlungen,
+die aus der Staatskasse verlangt werden können, die Vorschriften über
+das Verfahren bei der Entschädigung von Zeugen hinsichtlich ihrer
+baren Auslagen sinngemäß.
+
+(6) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+für Anträge nach den Absätzen 1 und 2 Formulare einzuführen. Soweit
+Formulare eingeführt sind, muss der berufliche Betreuer oder der
+Betreuungsverein diese verwenden und sie, sofern sie hierzu bestimmt
+sind, als elektronisches Dokument einreichen. Andernfalls liegt keine
+ordnungsgemäße Geltendmachung im Sinne des § 1875 Absatz 2 des
+Bürgerlichen Gesetzbuchs in Verbindung mit dem Vormünder- und
+Betreuervergütungsgesetz vor. Die Landesregierungen können die
 Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
+
+
+#### § 292a Zahlungen an die Staatskasse
+
+(1) Mit der Festsetzung nach § 292 Absatz 1 legt das Gericht zugleich
+Höhe und Zeitpunkt der Zahlungen fest, die der Betroffene nach § 1880
+Absatz 2 und § 1881 Satz 1 des Bürgerlichen Gesetzbuchs an die
+Staatskasse zu leisten hat. Das Gericht kann Höhe und Zeitpunkt der zu
+leistenden Zahlungen gesondert festsetzen, wenn dies zweckmäßig ist. §
+120 Absatz 2 und 3 und § 120a Absatz 1 Satz 1 bis 3 der
+Zivilprozessordnung sind entsprechend anzuwenden.
+
+(2) Ist der Betroffene verstorben, so legt das Gericht Höhe und
+Zeitpunkt der Zahlungen fest, die der Erbe nach § 1881 Satz 2 des
+Bürgerlichen Gesetzbuchs an die Staatskasse zu leisten hat. Der Erbe
+ist verpflichtet, dem Gericht die hierfür notwendigen Auskünfte zu
+erteilen, insbesondere dem Gericht auf dessen Verlangen ein
+Verzeichnis der zur Erbschaft gehörenden Gegenstände vorzulegen und an
+Eides statt zu versichern, dass er den Bestand nach bestem Wissen und
+Gewissen so vollständig angegeben habe, wie er dazu imstande ist.
+
+(3) Vor einer Entscheidung ist der Betroffene oder der Erbe anzuhören.
 
 
 #### § 293 Erweiterung der Betreuung oder des Einwilligungsvorbehalts
@@ -6595,12 +6733,19 @@ nicht,
 
 Eine wesentliche Erweiterung des Aufgabenkreises des Betreuers liegt
 insbesondere vor, wenn erstmals ganz oder teilweise die Personensorge
-oder eine der in § 1896 Abs. 4 oder den §§ 1904 bis 1906a des
+oder eine der in § 1815 Absatz 2 oder in den §§ 1829 bis 1832 des
 Bürgerlichen Gesetzbuchs genannten Aufgaben einbezogen wird.
 
-(3) Ist mit der Bestellung eines weiteren Betreuers nach § 1899 des
+(3) Unbeschadet des Absatzes 2 kann das Gericht von der Einholung
+eines Gutachtens oder eines ärztlichen Zeugnisses absehen, wenn der
+Aufgabenkreis des Betreuers nicht aufgrund einer Änderung des
+Krankheits- oder Behinderungsbildes des Betroffenen, sondern aufgrund
+der Änderung seiner Lebensumstände oder einer unzureichenden Wirkung
+anderer Hilfen erweitert werden soll.
+
+(4) Ist mit der Bestellung eines weiteren Betreuers nach § 1817 des
 Bürgerlichen Gesetzbuchs eine Erweiterung des Aufgabenkreises
-verbunden, gelten die Absätze 1 und 2 entsprechend.
+verbunden, gelten die Absätze 1 bis 3 entsprechend.
 
 
 #### § 294 Aufhebung und Einschränkung der Betreuung oder des Einwilligungsvorbehalts
@@ -6613,14 +6758,17 @@ Satz 1 entsprechend. Das Gericht hat die zuständige Behörde nur
 anzuhören, wenn es der Betroffene verlangt oder es zur Sachaufklärung
 erforderlich ist.
 
-(2) Hat das Gericht nach § 281 Abs. 1 Nr. 1 von der Einholung eines
+(2) Hat das Gericht nach § 281 Absatz 1 von der Einholung eines
 Gutachtens abgesehen, ist dies nachzuholen, wenn ein Antrag des
 Betroffenen auf Aufhebung der Betreuung oder Einschränkung des
 Aufgabenkreises erstmals abgelehnt werden soll.
 
 (3) Über die Aufhebung der Betreuung oder des Einwilligungsvorbehalts
 hat das Gericht spätestens sieben Jahre nach der Anordnung dieser
-Maßnahmen zu entscheiden.
+Maßnahmen zu entscheiden. Ist die Maßnahme gegen den erklärten Willen
+des Betroffenen angeordnet worden, hat die erstmalige Entscheidung
+über ihre Aufhebung spätestens zwei Jahre nach der Anordnung zu
+erfolgen.
 
 
 #### § 295 Verlängerung der Betreuung oder des Einwilligungsvorbehalts
@@ -6631,31 +6779,37 @@ die erstmalige Anordnung dieser Maßnahmen entsprechend. Von der
 erneuten Einholung eines Gutachtens kann abgesehen werden, wenn sich
 aus der persönlichen Anhörung des Betroffenen und einem ärztlichen
 Zeugnis ergibt, dass sich der Umfang der Betreuungsbedürftigkeit
-offensichtlich nicht verringert hat. Das Gericht hat die zuständige
-Behörde nur anzuhören, wenn es der Betroffene verlangt oder es zur
-Sachaufklärung erforderlich ist.
+offensichtlich nicht verringert hat und eine Verlängerung dem
+erklärten Willen des Betroffenen nicht widerspricht. Das Gericht hat
+die zuständige Behörde nur anzuhören, wenn es der Betroffene verlangt
+oder es zur Sachaufklärung erforderlich ist.
 
 (2) Über die Verlängerung der Betreuung oder des
 Einwilligungsvorbehalts hat das Gericht spätestens sieben Jahre nach
-der Anordnung dieser Maßnahmen zu entscheiden.
+der Anordnung dieser Maßnahmen zu entscheiden. Ist die Maßnahme gegen
+den erklärten Willen des Betroffenen angeordnet worden, ist über eine
+erstmalige Verlängerung spätestens nach zwei Jahren zu entscheiden.
 
 
 #### § 296 Entlassung des Betreuers und Bestellung eines neuen Betreuers
 
 (1) Das Gericht hat den Betroffenen und den Betreuer persönlich
-anzuhören, wenn der Betroffene einer Entlassung des Betreuers (§ 1908b
+anzuhören, wenn der Betroffene einer Entlassung des Betreuers (§ 1868
 des Bürgerlichen Gesetzbuchs) widerspricht.
 
-(2) Vor der Bestellung eines neuen Betreuers (§ 1908c des Bürgerlichen
+(2) Vor der Bestellung eines neuen Betreuers (§ 1869 des Bürgerlichen
 Gesetzbuchs) hat das Gericht den Betroffenen persönlich anzuhören. Das
 gilt nicht, wenn der Betroffene sein Einverständnis mit dem
-Betreuerwechsel erklärt hat. § 279 gilt entsprechend.
+Betreuerwechsel erklärt hat. § 279 Absatz 1, 3 und 4 gilt
+entsprechend. Das Gericht hat die zuständige Behörde nur anzuhören,
+wenn es der Betroffene verlangt oder es zur Sachaufklärung
+erforderlich ist.
 
 
 #### § 297 Sterilisation
 
 (1) Das Gericht hat den Betroffenen vor der Genehmigung einer
-Einwilligung des Betreuers in eine Sterilisation (§ 1905 Abs. 2 des
+Einwilligung des Betreuers in eine Sterilisation (§ 1830 Absatz 2 des
 Bürgerlichen Gesetzbuchs) persönlich anzuhören und sich einen
 persönlichen Eindruck von ihm zu verschaffen. Es hat den Betroffenen
 über den möglichen Verlauf des Verfahrens zu unterrichten.
@@ -6701,32 +6855,30 @@ Betroffenen kann nicht abgesehen werden. Der zuständigen Behörde ist
 die Entscheidung stets bekannt zu geben.
 
 
-#### § 298 Verfahren in Fällen des § 1904 des Bürgerlichen Gesetzbuchs
+#### § 298 Verfahren in Fällen des § 1829 des Bürgerlichen Gesetzbuchs
 
 (1) Das Gericht darf die Einwilligung, die Nichteinwilligung oder den
 Widerruf einer Einwilligung eines Betreuers oder eines
-Bevollmächtigten (§ 1904 Absatz 1, 2 und 5 des Bürgerlichen
+Bevollmächtigten (§ 1829 Absatz 1, 2 und 5 des Bürgerlichen
 Gesetzbuchs) nur genehmigen, wenn es den Betroffenen zuvor persönlich
 angehört hat. Das Gericht soll die sonstigen Beteiligten anhören. Auf
 Verlangen des Betroffenen hat das Gericht eine ihm nahestehende Person
 anzuhören, wenn dies ohne erhebliche Verzögerung möglich ist.
 
 (2) Die Bestellung eines Verfahrenspflegers ist stets erforderlich,
-wenn Gegenstand des Verfahrens eine Genehmigung nach § 1904 Absatz 2
+wenn Gegenstand des Verfahrens eine Genehmigung nach § 1829 Absatz 2
 des Bürgerlichen Gesetzbuchs ist.
 
 (3) Vor der Genehmigung ist ein Sachverständigengutachten einzuholen.
 Der Sachverständige soll nicht auch der behandelnde Arzt sein.
 
 
-#### § 299 Verfahren in anderen Entscheidungen
+#### § 299 Persönliche Anhörung in anderen Genehmigungsverfahren
 
-Das Gericht soll den Betroffenen vor einer Entscheidung nach § 1908i
-Abs. 1 Satz 1 in Verbindung mit den §§ 1821, 1822 Nr. 1 bis 4, 6 bis
-13 sowie den §§ 1823 und 1825 des Bürgerlichen Gesetzbuchs persönlich
-anhören. Vor einer Entscheidung nach § 1907 Abs. 1 und 3 des
-Bürgerlichen Gesetzbuchs hat das Gericht den Betroffenen persönlich
-anzuhören.
+Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833
+Absatz 3 oder § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs
+persönlich anzuhören. Das Gericht soll den Betroffenen vor einer
+Entscheidung nach den §§ 1850 bis 1854 persönlich anhören.
 
 
 #### § 300 Einstweilige Anordnung
@@ -6764,12 +6916,12 @@ Bedürfnis für ein sofortiges Tätigwerden besteht.
 #### § 301 Einstweilige Anordnung bei gesteigerter Dringlichkeit
 
 (1) Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung
-nach § 300 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
-Bestellung des Verfahrenspflegers erlassen. Diese Verfahrenshandlungen
-sind unverzüglich nachzuholen.
+nach § 300 bereits vor der persönlichen Anhörung des Betroffenen sowie
+vor Anhörung und Bestellung des Verfahrenspflegers erlassen. Diese
+Verfahrenshandlungen sind unverzüglich nachzuholen.
 
 (2) Das Gericht ist bei Gefahr im Verzug bei der Auswahl des Betreuers
-nicht an § 1897 Abs. 4 und 5 des Bürgerlichen Gesetzbuchs gebunden.
+nicht an § 1816 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs gebunden.
 
 
 #### § 302 Dauer der einstweiligen Anordnung
@@ -6825,7 +6977,7 @@ für den Betroffenen selbständig Beschwerde einlegen.
 soweit die Interessen der Staatskasse durch den Beschluss betroffen
 sind. Hat der Vertreter der Staatskasse geltend gemacht, der Betreuer
 habe eine Abrechnung falsch erteilt oder der Betreute könne anstelle
-eines nach § 1897 Abs. 6 des Bürgerlichen Gesetzbuchs bestellten
+eines nach § 1816 Absatz 5 des Bürgerlichen Gesetzbuchs bestellten
 Betreuers durch eine oder mehrere andere geeignete Personen außerhalb
 einer Berufsausübung betreut werden, steht ihm gegen einen die
 Entlassung des Betreuers ablehnenden Beschluss die Beschwerde zu.
@@ -6854,7 +7006,7 @@ unberührt.
 In Betreuungssachen kann das Gericht die Auslagen des Betroffenen,
 soweit sie zur zweckentsprechenden Rechtsverfolgung notwendig waren,
 ganz oder teilweise der Staatskasse auferlegen, wenn eine
-Betreuungsmaßnahme nach den §§ 1896 bis 1908i des Bürgerlichen
+Betreuungsmaßnahme nach den §§ 1814 bis 1881 des Bürgerlichen
 Gesetzbuchs abgelehnt, als ungerechtfertigt aufgehoben, eingeschränkt
 oder das Verfahren ohne Entscheidung über eine solche Maßnahme beendet
 wird.
@@ -6901,7 +7053,7 @@ Unterbleibens deren Gründe sowie die Unterrichtung des
 Verfahrenspflegers und des Betreuers sind aktenkundig zu machen.
 
 
-#### § 309 Besondere Mitteilungen
+#### § 309 Mitteilungen an die Meldebehörde
 
 Wird ein Einwilligungsvorbehalt angeordnet, der sich auf die
 Aufenthaltsbestimmung des Betroffenen erstreckt, so hat das Gericht
@@ -6911,13 +7063,28 @@ Satz 1 aufgehoben wird oder ein Wechsel in der Person des Betreuers
 eintritt.
 
 
-#### § 310 Mitteilungen während einer Unterbringungsmaßnahme
+#### § 309a Mitteilungen an die Betreuungsbehörde
 
-Während der Dauer einer Unterbringungsmaßnahme hat das Gericht dem
-Leiter der Einrichtung, in der der Betroffene untergebracht ist, die
-Bestellung eines Betreuers, die sich auf die Aufenthaltsbestimmung des
-Betroffenen erstreckt, die Aufhebung einer solchen Betreuung und jeden
-Wechsel in der Person des Betreuers mitzuteilen.
+(1) Endet die Betreuung durch Tod des Betroffenen, so hat das Gericht
+dies der Betreuungsbehörde mitzuteilen.
+
+(2) Das Gericht kann der Betreuungsbehörde Umstände mitteilen, die die
+Eignung oder Zuverlässigkeit des Betreuers betreffen. Das Gericht
+unterrichtet zugleich den Betreuer über die Mitteilung und deren
+Inhalt. Die Unterrichtung des Betreuers unterbleibt, solange der Zweck
+der Mitteilung hierdurch gefährdet würde. Sie ist nachzuholen, sobald
+die Gründe nach Satz 3 entfallen sind.
+
+
+#### § 310 Mitteilungen während einer freiheitsentziehenden Unterbringung oder freiheitsentziehenden Maßnahme
+
+Während der Dauer einer freiheitsentziehenden Unterbringung oder
+freiheitsentziehenden Maßnahme hat das Gericht dem Leiter der
+Einrichtung, in der die Unterbringungsmaßnahme durchgeführt wird, die
+Bestellung eines Betreuers, die sich auf die Aufenthaltsbestimmung
+oder die Entscheidung über eine der genannten Unterbringungsmaßnahmen
+erstreckt, die Aufhebung einer solchen Betreuung und jeden Wechsel in
+der Person des Betreuers mitzuteilen.
 
 
 #### § 311 Mitteilungen zur Strafverfolgung
@@ -6941,16 +7108,16 @@ Betroffenen an dem Ausschluss der Übermittlung überwiegen. § 308 Abs.
 Unterbringungssachen sind Verfahren, die die Genehmigung oder
 Anordnung einer
 
-1.  freiheitsentziehenden Unterbringung nach § 1906 Absatz 1 und 2 auch in
+1.  freiheitsentziehenden Unterbringung nach § 1831 Absatz 1 und 2 auch in
     Verbindung mit Absatz 5 des Bürgerlichen Gesetzbuchs,
 
 
-2.  freiheitsentziehenden Maßnahme nach § 1906 Absatz 4 auch in Verbindung
+2.  freiheitsentziehenden Maßnahme nach § 1831 Absatz 4 auch in Verbindung
     mit Absatz 5 des Bürgerlichen Gesetzbuchs,
 
 
 3.  ärztlichen Zwangsmaßnahme, auch einschließlich einer Verbringung zu
-    einem stationären Aufenthalt, nach § 1906a Absatz 1, 2 und 4 auch in
+    einem stationären Aufenthalt, nach § 1832 Absatz 1, 2 und 4 auch in
     Verbindung mit Absatz 5 des Bürgerlichen Gesetzbuchs oder
 
 
@@ -7027,8 +7194,8 @@ zur Übernahme des Verfahrens bereit erklärt hat.
 2.  der Betreuer,
 
 
-3.  der Bevollmächtigte im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen
-    Gesetzbuchs.
+3.  der Bevollmächtigte im Sinne des § 1814 Absatz 3 Satz 2 Nummer 1 des
+    Bürgerlichen Gesetzbuchs.
 
 
 
@@ -7066,8 +7233,8 @@ Geschäftsfähigkeit verfahrensfähig.
 
 #### § 317 Verfahrenspfleger
 
-(1) Das Gericht hat dem Betroffenen einen Verfahrenspfleger zu
-bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
+(1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
+zu bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
 erforderlich ist. Die Bestellung ist insbesondere erforderlich, wenn
 von einer Anhörung des Betroffenen abgesehen werden soll. Bei der
 Genehmigung einer Einwilligung in eine ärztliche Zwangsmaßnahme oder
@@ -7078,25 +7245,34 @@ erforderlich.
 dies in der Entscheidung, durch die eine Unterbringungsmaßnahme
 genehmigt oder angeordnet wird, zu begründen.
 
-(3) Wer Verfahrenspflegschaften im Rahmen seiner Berufsausübung führt,
-soll nur dann zum Verfahrenspfleger bestellt werden, wenn keine andere
+(3) Der Verfahrenspfleger hat die Wünsche, hilfsweise den mutmaßlichen
+Willen des Betroffenen festzustellen und im gerichtlichen Verfahren
+zur Geltung zu bringen. Er hat den Betroffenen über Gegenstand, Ablauf
+und möglichen Ausgang des Verfahrens in geeigneter Weise zu
+informieren und ihn bei Bedarf bei der Ausübung seiner Rechte im
+Verfahren zu unterstützen. Er ist nicht gesetzlicher Vertreter des
+Betroffenen.
+
+(4) Als Verfahrenspfleger ist eine natürliche Person zu bestellen. Wer
+Verfahrenspflegschaften im Rahmen seiner Berufsausübung führt, soll
+nur dann zum Verfahrenspfleger bestellt werden, wenn keine andere
 geeignete Person zur Verfügung steht, die zur ehrenamtlichen Führung
 der Verfahrenspflegschaft bereit ist.
 
-(4) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
+(5) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
 aufgehoben werden, wenn die Interessen des Betroffenen von einem
 Rechtsanwalt oder einem anderen geeigneten Verfahrensbevollmächtigten
 vertreten werden.
 
-(5) Die Bestellung endet, sofern sie nicht vorher aufgehoben wird, mit
+(6) Die Bestellung endet, sofern sie nicht vorher aufgehoben wird, mit
 der Rechtskraft der Endentscheidung oder mit dem sonstigen Abschluss
 des Verfahrens.
 
-(6) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
+(7) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
 die Ablehnung einer derartigen Maßnahme sind nicht selbständig
 anfechtbar.
 
-(7) Dem Verfahrenspfleger sind keine Kosten aufzuerlegen.
+(8) Dem Verfahrenspfleger sind keine Kosten aufzuerlegen.
 
 
 #### § 318 Vergütung und Aufwendungsersatz des Verfahrenspflegers
@@ -7105,7 +7281,7 @@ Für die Vergütung und den Aufwendungsersatz des Verfahrenspflegers
 gilt § 277 entsprechend.
 
 
-#### § 319 Anhörung des Betroffenen
+#### § 319 Persönliche Anhörung des Betroffenen
 
 (1) Das Gericht hat den Betroffenen vor einer Unterbringungsmaßnahme
 persönlich anzuhören und sich einen persönlichen Eindruck von ihm zu
@@ -7113,13 +7289,18 @@ verschaffen. Den persönlichen Eindruck verschafft sich das Gericht,
 soweit dies erforderlich ist, in der üblichen Umgebung des
 Betroffenen.
 
-(2) Das Gericht unterrichtet den Betroffenen über den möglichen
-Verlauf des Verfahrens.
+(2) In der Anhörung erörtert das Gericht mit dem Betroffenen das
+Verfahren, das Ergebnis des übermittelten Gutachtens und die mögliche
+Dauer einer Unterbringung. Hat das Gericht dem Betroffenen nach § 317
+einen Verfahrenspfleger bestellt, soll die persönliche Anhörung in
+dessen Anwesenheit stattfinden.
 
 (3) Soll eine persönliche Anhörung nach § 34 Abs. 2 unterbleiben, weil
 hiervon erhebliche Nachteile für die Gesundheit des Betroffenen zu
 besorgen sind, darf diese Entscheidung nur auf Grundlage eines
-ärztlichen Gutachtens getroffen werden.
+ärztlichen Gutachtens getroffen werden. Unterbleibt aus diesem Grund
+die persönliche Anhörung, so bedarf es auch keiner Verschaffung eines
+persönlichen Eindrucks.
 
 (4) Verfahrenshandlungen nach Absatz 1 sollen nicht im Wege der
 Rechtshilfe erfolgen.
@@ -7200,8 +7381,8 @@ anordnen. In diesem Fall wird er wirksam, wenn der Beschluss und die
 Anordnung seiner sofortigen Wirksamkeit
 
 1.  dem Betroffenen, dem Verfahrenspfleger, dem Betreuer oder dem
-    Bevollmächtigten im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen
-    Gesetzbuchs bekannt gegeben werden,
+    Bevollmächtigten im Sinne des § 1814 Absatz 3 Satz 2 Nummer 1 des
+    Bürgerlichen Gesetzbuchs bekannt gegeben werden,
 
 
 2.  einem Dritten zum Zweck des Vollzugs des Beschlusses mitgeteilt werden
@@ -7236,9 +7417,10 @@ Zuführung zur Unterbringung;
 #### § 326 Verbringung zu einem stationären Aufenthalt
 
 (1) Die zuständige Behörde hat den Betreuer oder den Bevollmächtigten
-im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs auf
-deren Wunsch bei der Zuführung zur Unterbringung nach § 312 Nr. 1 oder
-bei der Verbringung nach § 312 Nummer 3 zu unterstützen.
+im Sinne des § 1814 Absatz 3 Satz 2 Nummer 1 des Bürgerlichen
+Gesetzbuchs auf deren Wunsch bei der Zuführung zur Unterbringung nach
+§ 312 Nr. 1 oder bei der Verbringung nach § 312 Nummer 3 zu
+unterstützen.
 
 (2) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
 ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
@@ -7351,9 +7533,9 @@ von § 319 Abs. 4 zulässig.
 #### § 332 Einstweilige Anordnung bei gesteigerter Dringlichkeit
 
 Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung nach
-§ 331 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
-Bestellung des Verfahrenspflegers erlassen. Diese Verfahrenshandlungen
-sind unverzüglich nachzuholen.
+§ 331 bereits vor der persönlichen Anhörung des Betroffenen sowie vor
+Anhörung und Bestellung des Verfahrenspflegers erlassen. Diese
+Verfahrenshandlungen sind unverzüglich nachzuholen.
 
 
 #### § 333 Dauer der einstweiligen Anordnung
@@ -7375,7 +7557,7 @@ darf die Gesamtdauer sechs Wochen nicht überschreiten.
 
 #### § 334 Einstweilige Maßregeln
 
-Die §§ 331, 332 und 333 gelten entsprechend, wenn nach § 1846 des
+Die §§ 331, 332 und 333 gelten entsprechend, wenn nach § 1867 des
 Bürgerlichen Gesetzbuchs eine Unterbringungsmaßnahme getroffen werden
 soll.
 
@@ -7455,7 +7637,7 @@ oder eine Person seines Vertrauens unverzüglich zu benachrichtigen.
 Betreuungsgerichtliche Zuweisungssachen sind
 
 1.  Verfahren, die die Pflegschaft mit Ausnahme der Pflegschaft für
-    Minderjährige oder für eine Leibesfrucht betreffen,
+    Minderjährige oder für ein bereits gezeugtes Kind betreffen,
 
 
 2.  Verfahren, die die gerichtliche Bestellung eines sonstigen Vertreters
@@ -8028,6 +8210,13 @@ Familiengericht den Vermögenserwerb mit.
 Nachlasses angeordnet, soll es das nach § 343 zuständige Gericht
 hiervon unterrichten.
 
+(3) Ist in einer Verfügung von Todes wegen ein Stiftungsgeschäft
+enthalten, hat das Nachlassgericht der zuständigen Behörde des Landes
+den sie betreffenden Inhalt der Verfügung von Todes wegen zur
+Anerkennung der Stiftung bekannt zu geben, es sei denn, dem
+Nachlassgericht ist bekannt, dass die Anerkennung der Stiftung schon
+von einem Erben oder Testamentsvollstrecker beantragt wurde.
+
 
 ##### § 357 Einsicht in eine eröffnete Verfügung von Todes wegen; Ausfertigung eines Erbscheins oder anderen Zeugnisses
 
@@ -8258,10 +8447,7 @@ Registersachen sind
 3.  Partnerschaftsregistersachen,
 
 
-4.  Vereinsregistersachen,
-
-
-5.  Güterrechtsregistersachen.
+4.  Vereinsregistersachen.
 
 
 
@@ -8384,11 +8570,7 @@ dem Handelsgesetzbuch oder nach dem Binnenschifffahrtsgesetz
 aufzumachenden Dispache zugewiesen sind, ist das Gericht des Ortes
 zuständig, an dem die Verteilung der Havereischäden zu erfolgen hat.
 
-(3) Die Eintragungen in das Güterrechtsregister sind bei jedem Gericht
-zu bewirken, in dessen Bezirk auch nur einer der Ehegatten oder
-Lebenspartner seinen gewöhnlichen Aufenthalt hat.
-
-(4) § 2 Abs. 1 ist nicht anzuwenden.
+(3) § 2 Abs. 1 ist nicht anzuwenden.
 
 
 ### Abschnitt 3 - Registersachen
@@ -8506,12 +8688,12 @@ des zuständigen Richters oder Beamten zu versehen.
 (3) Die einen Eintragungsantrag ablehnende Entscheidung ergeht durch
 Beschluss.
 
-(4) Ist eine Anmeldung zur Eintragung in die in § 374 Nr. 1 bis 4
-genannten Register unvollständig oder steht der Eintragung ein anderes
-durch den Antragsteller behebbares Hindernis entgegen, hat das
-Registergericht dem Antragsteller eine angemessene Frist zur
-Beseitigung des Hindernisses zu bestimmen. Die Entscheidung ist mit
-der Beschwerde anfechtbar.
+(4) Ist eine Anmeldung zur Eintragung in die in § 374 genannten
+Register unvollständig oder steht der Eintragung ein anderes durch den
+Antragsteller behebbares Hindernis entgegen, hat das Registergericht
+dem Antragsteller eine angemessene Frist zur Beseitigung des
+Hindernisses zu bestimmen. Die Entscheidung ist mit der Beschwerde
+anfechtbar.
 
 
 ##### § 383 Mitteilung; Anfechtbarkeit
@@ -8604,6 +8786,25 @@ Anlagen einer anderen staatlichen Stelle oder auf den Anlagen eines
 Dritten vorgenommen werden, wenn die ordnungsgemäße Erledigung der
 Registersachen sichergestellt ist.
 
+(6) Durch Rechtsverordnung nach Absatz 2 können überdies die
+erforderlichen Bestimmungen getroffen werden über
+
+1.  Struktur, Zuordnung und Verwendung der einheitlichen europäischen
+    Kennung nach § 9b Absatz 2 Satz 2 des Handelsgesetzbuchs,
+
+
+2.  den Umfang der Mitteilungspflicht im Rahmen des Informationsaustauschs
+    zwischen den Registern sowie über die Liste der dabei zu
+    übermittelnden Daten,
+
+
+3.  die Einzelheiten des elektronischen Datenverkehrs nach § 9b Absatz 1
+    und 2 des Handelsgesetzbuchs einschließlich der Vorgaben für
+    Datenformate und Zahlungsmodalitäten.
+
+
+
+
 
 #### Unterabschnitt 2 - Zwangsgeldverfahren
 
@@ -8615,7 +8816,7 @@ Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des
 Handelsgesetzbuchs, auch in Verbindung mit § 5 Abs. 2 des
 Partnerschaftsgesellschaftsgesetzes, den §§ 407 und 408 des
 Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften
-mit beschränkter Haftung, § 316 des Umwandlungsgesetzes oder § 12 des
+mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des
 EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat
 es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben,
 innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung
@@ -8719,9 +8920,9 @@ Widerspruchs zu bestimmen.
 
 (2) Sind die bezeichneten Personen oder deren Aufenthalt nicht
 bekannt, erfolgt die Benachrichtigung und die Bestimmung der Frist
-durch Bekanntmachung in dem für die Bekanntmachung der Eintragungen in
-das Handelsregister bestimmten elektronischen Informations- und
-Kommunikationssystem nach § 10 des Handelsgesetzbuchs.
+durch Bekanntmachung in dem für die Registerbekanntmachungen
+bestimmten elektronischen Informations- und Kommunikationssystem nach
+§ 10 des Handelsgesetzbuchs.
 
 (3) Das Gericht entscheidet durch Beschluss, wenn es einem Antrag auf
 Einleitung des Löschungsverfahrens nicht entspricht oder Widerspruch
@@ -8758,14 +8959,13 @@ ist, bekannt zu machen und ihnen zugleich eine angemessene Frist zur
 Geltendmachung des Widerspruchs zu bestimmen. Auch wenn eine Pflicht
 zur Bekanntmachung und Fristbestimmung nach Satz 1 nicht besteht, kann
 das Gericht anordnen, dass die Bekanntmachung und die Bestimmung der
-Frist durch Bekanntmachung in dem für die Bekanntmachung der
-Eintragungen in das Handelsregister bestimmten elektronischen
-Informations- und Kommunikationssystem nach § 10 des
-Handelsgesetzbuchs erfolgt; in diesem Fall ist jeder zur Erhebung des
-Widerspruchs berechtigt, der an der Unterlassung der Löschung ein
-berechtigtes Interesse hat. Vor der Löschung sind die in § 380
-bezeichneten Organe, im Fall einer Genossenschaft der Prüfungsverband,
-zu hören.
+Frist durch Bekanntmachung in dem für die Registerbekanntmachungen
+bestimmten elektronischen Informations- und Kommunikationssystem nach
+§ 10 des Handelsgesetzbuchs erfolgt; in diesem Fall ist jeder zur
+Erhebung des Widerspruchs berechtigt, der an der Unterlassung der
+Löschung ein berechtigtes Interesse hat. Vor der Löschung sind die in
+§ 380 bezeichneten Organe, im Fall einer Genossenschaft der
+Prüfungsverband, zu hören.
 
 (3) Für das weitere Verfahren gilt § 393 Abs. 3 bis 5 entsprechend.
 
@@ -9196,25 +9396,33 @@ zum Verfahren hinzugezogen.
 
 ### § 419 Verfahrenspfleger
 
-(1) Das Gericht hat dem Betroffenen einen Verfahrenspfleger zu
-bestellen, wenn dies zur Wahrnehmung seiner Interessen erforderlich
+(1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
+zu bestellen, wenn dies zur Wahrnehmung seiner Interessen erforderlich
 ist. Die Bestellung ist insbesondere erforderlich, wenn von einer
 Anhörung des Betroffenen abgesehen werden soll.
 
-(2) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
+(2) Der Verfahrenspfleger hat die Wünsche, hilfsweise den mutmaßlichen
+Willen des Betroffenen festzustellen und im gerichtlichen Verfahren
+zur Geltung zu bringen. Er hat den Betroffenen über Gegenstand, Ablauf
+und möglichen Ausgang des Verfahrens in geeigneter Weise zu
+informieren und ihn bei Bedarf bei der Ausübung seiner Rechte im
+Verfahren zu unterstützen. Er ist nicht gesetzlicher Vertreter des
+Betroffenen.
+
+(3) Die Bestellung eines Verfahrenspflegers soll unterbleiben oder
 aufgehoben werden, wenn die Interessen des Betroffenen von einem
 Rechtsanwalt oder einem anderen geeigneten Verfahrensbevollmächtigten
 vertreten werden.
 
-(3) Die Bestellung endet, wenn sie nicht vorher aufgehoben wird, mit
+(4) Die Bestellung endet, wenn sie nicht vorher aufgehoben wird, mit
 der Rechtskraft des Beschlusses über die Freiheitsentziehung oder mit
 dem sonstigen Abschluss des Verfahrens.
 
-(4) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
+(5) Die Bestellung eines Verfahrenspflegers oder deren Aufhebung sowie
 die Ablehnung einer derartigen Maßnahme sind nicht selbständig
 anfechtbar.
 
-(5) Für die Vergütung und den Aufwendungsersatz des Verfahrenspflegers
+(6) Für die Vergütung und den Aufwendungsersatz des Verfahrenspflegers
 gilt § 277 entsprechend. Dem Verfahrenspfleger sind keine Kosten
 aufzuerlegen.
 
@@ -10263,4 +10471,20 @@ oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
 
 (4) § 158a findet keine Anwendung in Verfahren, in denen ein
 Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist.
+
+(5) Wenn Betreuung oder Einwilligungsvorbehalt vor dem 1. Januar 2023
+angeordnet wurde, müssen erstmalige Entscheidungen über die Aufhebung
+oder Verlängerung der Maßnahme abweichend von den in § 294 Absatz 3
+Satz 2 und § 295 Absatz 2 Satz 2 genannten Fristen zu folgenden
+Zeitpunkten erfolgen:
+
+1.  über Maßnahmen, die bis zum Ablauf des 30. Juni 2022 angeordnet
+    wurden, bis spätestens zum Ablauf des 30. Juni 2024,
+
+
+2.  über Maßnahmen, die zwischen dem 1. Juli 2022 und dem 31. Dezember
+    2022 angeordnet wurden, spätestens zwei Jahre nach der Anordnung.
+
+
+
 

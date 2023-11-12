@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.1980 I 1993;
 
 Zuletzt geändert durch
-:   Art. 9a G v. 29.3.2021 I 370
-
-Änderung durch
-:   Art. 19d G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 4 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 19.7.2023 I Nr. 197
 
 Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar
 
@@ -304,10 +295,10 @@ Voraussetzungen weggefallen ist. § 4 bleibt unberührt.
 ### § 10
 
 Der Erlaubnisinhaber darf sich nicht verpflichten, bestimmte
-Arzneimittel ausschließlich oder bevorzugt anzubieten oder abzugeben
-oder anderweitig die Auswahl der von ihm abzugebenden Arzneimittel auf
-das Angebot bestimmter Hersteller oder Händler oder von Gruppen von
-solchen zu beschränken.
+Arzneimittel ausschließlich oder bevorzugt anzubieten, anzuwenden oder
+abzugeben oder anderweitig die Auswahl der von ihm abzugebenden
+Arzneimittel auf das Angebot bestimmter Hersteller oder Händler oder
+von Gruppen von solchen zu beschränken.
 
 
 ### § 11
@@ -384,6 +375,14 @@ b)  gilt Absatz 3 Satz 1 und 2 entsprechend für Zubereitungen aus von den
 
 
 
+
+(5) Stellt das Bundesministerium für Gesundheit nach § 79 Absatz 5
+Satz 5 bis 7 des Arzneimittelgesetzes fest, dass ein Versorgungsmangel
+der Bevölkerung mit Arzneimitteln, die zur Vorbeugung oder Behandlung
+lebensbedrohlicher Erkrankungen benötigt werden, vorliegt, kann die
+zuständige Behörde im Einzelfall eine Abgabe eines in der
+Bekanntmachung der Feststellung genannten Arzneimittels entsprechend
+Absatz 3 Satz 1 und 2 gestatten.
 
 
 ### § 11a
@@ -683,30 +682,32 @@ Patienten abgeben, die in dem Krankenhaus vollstationär,
 teilstationär, vor- oder nachstationär (§ 115a des Fünften Buches
 Sozialgesetzbuch) behandelt, ambulant operiert oder im Rahmen
 sonstiger stationsersetzender Eingriffe (§ 115b des Fünften Buches
-Sozialgesetzbuch) versorgt werden, ferner zur unmittelbaren Anwendung
-bei Patienten an ermächtigte Ambulanzen des Krankenhauses,
-insbesondere an Hochschulambulanzen (§ 117 des Fünften Buches
-Sozialgesetzbuch), psychiatrische Institutsambulanzen (§ 118 des
-Fünften Buches Sozialgesetzbuch), sozialpädiatrische Zentren (§ 119
-des Fünften Buches Sozialgesetzbuch), medizinische Behandlungszentren
-(§ 119c des Fünften Buches Sozialgesetzbuch) und ermächtigte
-Krankenhausärzte (§ 116 des Fünften Buches Sozialgesetzbuch) sowie an
-Patienten im Rahmen der ambulanten Behandlung im Krankenhaus, wenn das
-Krankenhaus hierzu ermächtigt (§ 116a des Fünften Buches
-Sozialgesetzbuch) oder berechtigt (§§ 116b und 140a Absatz 3 Satz 2
-des Fünften Buches Sozialgesetzbuch) ist. Bei der Entlassung von
-Patienten nach stationärer oder ambulanter Behandlung im Krankenhaus
-darf an diese die zur Überbrückung benötigte Menge an Arzneimitteln
-nur abgegeben werden, wenn im unmittelbaren Anschluss an die
-Behandlung ein Wochenende oder ein Feiertag folgt. Unbeschadet des
-Satzes 3 können an Patienten, für die die Verordnung häuslicher
-Krankenpflege nach § 92 Abs. 7 Satz 1 Nr. 3 des Fünften Buches
-Sozialgesetzbuch vorliegt, die zur Überbrückung benötigten
-Arzneimittel für längstens drei Tage abgegeben werden. An Beschäftigte
-des Krankenhauses dürfen Arzneimittel nur für deren unmittelbaren
-eigenen Bedarf abgegeben werden. Die Versorgung mit Arzneimitteln nach
-den Sätzen 3 bis 5 umfasst auch Arzneimittel, die verschreibungsfähige
-Betäubungsmittel sind.
+Sozialgesetzbuch) oder im Rahmen der Übergangspflege im Krankenhaus
+nach § 39e des Fünften Buches Sozialgesetzbuch versorgt werden, ferner
+zur unmittelbaren Anwendung bei Patienten an ermächtigte Ambulanzen
+des Krankenhauses, insbesondere an Hochschulambulanzen (§ 117 des
+Fünften Buches Sozialgesetzbuch), psychiatrische Institutsambulanzen
+(§ 118 des Fünften Buches Sozialgesetzbuch), sozialpädiatrische
+Zentren (§ 119 des Fünften Buches Sozialgesetzbuch), medizinische
+Behandlungszentren (§ 119c des Fünften Buches Sozialgesetzbuch) und
+ermächtigte Krankenhausärzte (§ 116 des Fünften Buches
+Sozialgesetzbuch) sowie an Patienten im Rahmen der ambulanten
+Behandlung im Krankenhaus, wenn das Krankenhaus hierzu ermächtigt (§
+116a des Fünften Buches Sozialgesetzbuch) oder berechtigt (§§ 116b und
+140a Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch) ist. Bei der
+Entlassung von Patienten nach stationärer oder ambulanter Behandlung
+im Krankenhaus oder bei Beendigung der Übergangspflege im Krankenhaus
+nach § 39e des Fünften Buches Sozialgesetzbuch darf an diese die zur
+Überbrückung benötigte Menge an Arzneimitteln nur abgegeben werden,
+wenn im unmittelbaren Anschluss an die Behandlung ein Wochenende oder
+ein Feiertag folgt. Unbeschadet des Satzes 3 können an Patienten, für
+die die Verordnung häuslicher Krankenpflege nach § 92 Abs. 7 Satz 1
+Nr. 3 des Fünften Buches Sozialgesetzbuch vorliegt, die zur
+Überbrückung benötigten Arzneimittel für längstens drei Tage abgegeben
+werden. An Beschäftigte des Krankenhauses dürfen Arzneimittel nur für
+deren unmittelbaren eigenen Bedarf abgegeben werden. Die Versorgung
+mit Arzneimitteln nach den Sätzen 3 bis 5 umfasst auch Arzneimittel,
+die verschreibungsfähige Betäubungsmittel sind.
 
 (8) Krankenhäuser im Sinne dieses Gesetzes sind Einrichtungen nach § 2
 Nr. 1 des Krankenhausfinanzierungsgesetzes. Diesen stehen hinsichtlich
@@ -1075,6 +1076,15 @@ Regelungen getroffen werden über
 
 1b. unzulässige Formen der Bereitstellung, Aushändigung und Ausgabe von
     Arzneimitteln,
+
+
+1c. die Voraussetzungen für und die Anforderungen an die Vorbereitung und
+    Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das
+    Coronavirus SARS-CoV-2, insbesondere zu den Verpflichtungen des
+    Apothekenleiters, zur Aufklärung der zu impfenden Personen, zu den
+    Räumlichkeiten und deren Ausstattung, zum Personaleinsatz, zur
+    Dokumentation, zu den Fristen für die Aufbewahrung der Dokumentation
+    und zu den Hygienemaßnahmen,
 
 
 2.  die Führung und Aufbewahrung von Nachweisen über die in Nummer 1

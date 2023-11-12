@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 14a G v. 10.12.2021 I 5162
+:   Art. 12 G v. 17.7.2023 I Nr. 191
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -275,7 +275,7 @@ dieses Buches
     Sinne der §§ 14 und 15 Absatz 3 des Elften Buches; die versicherte
     Tätigkeit umfasst pflegerische Maßnahmen in den in § 14 Absatz 2 des
     Elften Buches genannten Bereichen sowie Hilfen bei der
-    Haushaltsführung nach § 18 Absatz 5a Satz 3 Nummer 2 des Elften
+    Haushaltsführung nach § 18a Absatz 3 Satz 4 Nummer 2 des Elften
     Buches.
 
 
@@ -395,8 +395,8 @@ sich die Versicherung erstreckt auf
     Lebenspartner,
 
 
-2.  Personen, die sich auf der Unternehmensstätte aufhalten; § 2 Abs. 3
-    Satz 2 erster Halbsatz gilt entsprechend,
+2.  Personen, die sich auf der Unternehmensstätte aufhalten; § 2 Absatz 3
+    Satz 4 erster Halbsatz gilt entsprechend,
 
 
 3.  Personen, die
@@ -1272,6 +1272,77 @@ bei
 
 
 
+(1a) Zu nach dem 1. Januar 2023 durchgeführten Betriebsbesichtigungen
+und deren Ergebnissen übermitteln die Unfallversicherungsträger an die
+für die besichtigte Betriebsstätte zuständige Arbeitsschutzbehörde im
+Wege elektronischer Datenübertragung folgende Informationen:
+
+1.  Name und Anschrift des Betriebs,
+
+
+2.  Anschrift der besichtigten Betriebsstätte, soweit nicht mit Nummer 1
+    identisch,
+
+
+3.  Kennnummer zur Identifizierung,
+
+
+4.  Wirtschaftszweig des Betriebs,
+
+
+5.  Datum der Besichtigung,
+
+
+6.  Anzahl der Beschäftigten zum Zeitpunkt der Besichtigung,
+
+
+7.  Vorhandensein einer betrieblichen Interessenvertretung,
+
+
+8.  Art der sicherheitstechnischen Betreuung,
+
+
+9.  Art der betriebsärztlichen Betreuung,
+
+
+10. Bewertung der Arbeitsschutzorganisation einschließlich
+
+    a)  der Unterweisung,
+
+
+    b)  der arbeitsmedizinischen Vorsorge und
+
+
+    c)  der Ersten Hilfe und sonstiger Notfallmaßnahmen,
+
+
+
+
+
+11. Bewertung der Gefährdungsbeurteilung einschließlich
+
+    a)  der Ermittlung von Gefährdungen und Festlegung von Maßnahmen,
+
+
+    b)  der Prüfung der Umsetzung der Maßnahmen und ihrer Wirksamkeit und
+
+
+    c)  der Dokumentation der Gefährdungen und Maßnahmen,
+
+
+
+
+
+12. Verwaltungshandeln in Form von Feststellungen, Anordnungen oder
+    Bußgeldern.
+
+
+
+Die übertragenen Daten dürfen von den für den Arbeitsschutz
+zuständigen Behörden nur zur Erfüllung der in ihrer Zuständigkeit nach
+§ 21 Absatz 1 des Arbeitsschutzgesetzes liegenden
+Arbeitsschutzaufgaben verarbeitet werden.
+
 (2) Zur Förderung der Zusammenarbeit nach Absatz 1 wird für den
 Bereich eines oder mehrerer Länder eine gemeinsame landesbezogene
 Stelle bei einem Unfallversicherungsträger oder einem Landesverband
@@ -1891,11 +1962,11 @@ gemeinsame Richtlinien.
 
 ##### § 44 Pflege
 
-(1) Solange Versicherte infolge des Versicherungsfalls so hilflos
-sind, daß sie für die gewöhnlichen und regelmäßig wiederkehrenden
-Verrichtungen im Ablauf des täglichen Lebens in erheblichem Umfang der
-Hilfe bedürfen, wird Pflegegeld gezahlt, eine Pflegekraft gestellt
-oder Heimpflege gewährt.
+(1) Solange Versicherte infolge des Versicherungsfalls für die
+gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf
+des täglichen Lebens in erheblichem Umfang der Hilfe durch andere
+bedürfen, wird Pflegegeld gezahlt, eine Pflegekraft gestellt oder
+Heimpflege erbracht.
 
 (2) Das Pflegegeld ist unter Berücksichtigung der Art oder Schwere des
 Gesundheitsschadens sowie des Umfangs der erforderlichen Hilfe auf
@@ -1949,9 +2020,10 @@ aktuellen Rentenwertes fest.
     Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld,
     Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld,
     Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld,
-    nicht nur darlehensweise gewährtes Arbeitslosengeld II oder nicht nur
-    Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft
-    und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
+    nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz
+    1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen
+    für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch
+    oder Mutterschaftsgeld hatten.
 
 
 
@@ -2096,10 +2168,11 @@ Abs. 1 des Zehnten Buches zurückzunehmen.
 (2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld oder
 Kurzarbeitergeld bezogen haben, erhalten Verletztengeld in Höhe des
 Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht
-nur darlehensweise gewährtes Arbeitslosengeld II oder nicht nur
-Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft
-und Geburt nach dem Zweiten Buch bezogen haben, erhalten
-Verletztengeld in Höhe des Betrages des Arbeitslosengeldes II.
+nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des
+Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für
+Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch
+bezogen haben, erhalten Verletztengeld in Höhe des Betrages des
+Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach
 § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben,
@@ -2202,9 +2275,10 @@ erzielten Einkommen angerechnet
 
 2.  Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld,
     Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes
-    Arbeitslosengeld II; dies gilt auch, wenn Ansprüche auf Leistungen
-    nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der
-    Auszahlungsanspruch auf Arbeitslosengeld II gemindert ist.
+    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt
+    auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer
+    Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19
+    Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 
 
@@ -2402,17 +2476,18 @@ Rente um 10 vom Hundert.
 
 Solange Versicherte infolge des Versicherungsfalls ohne Anspruch auf
 Arbeitsentgelt oder Arbeitseinkommen sind und die Rente zusammen mit
-dem Arbeitslosengeld oder dem Arbeitslosengeld II nicht den sich aus §
-66 Abs. 1 des Neunten Buches ergebenden Betrag des Übergangsgeldes
-erreicht, wird die Rente längstens für zwei Jahre nach ihrem Beginn um
-den Unterschiedsbetrag erhöht. Der Unterschiedsbetrag wird bei dem
-Arbeitslosengeld II nicht als Einkommen berücksichtigt. Satz 1 gilt
-nicht, solange Versicherte Anspruch auf weiteres
+dem Arbeitslosengeld oder dem Bürgergeld nach § 19 Absatz 1 Satz 1 des
+Zweiten Buches nicht den sich aus § 66 Abs. 1 des Neunten Buches
+ergebenden Betrag des Übergangsgeldes erreicht, wird die Rente
+längstens für zwei Jahre nach ihrem Beginn um den Unterschiedsbetrag
+erhöht. Der Unterschiedsbetrag wird bei dem Bürgergeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches nicht als Einkommen berücksichtigt.
+Satz 1 gilt nicht, solange Versicherte Anspruch auf weiteres
 Erwerbsersatzeinkommen (§ 18a Abs. 3 des Vierten Buches) haben, das
-zusammen mit der Rente das Übergangsgeld erreicht. Wird
-Arbeitslosengeld II nur darlehensweise gewährt oder erhält der
-Versicherte nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten
-Buches, finden die Sätze 1 und 2 keine Anwendung.
+zusammen mit der Rente das Übergangsgeld erreicht. Wird Bürgergeld
+nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur darlehensweise
+gewährt oder erhält der Versicherte nur Leistungen nach § 24 Absatz 3
+Satz 1 des Zweiten Buches, finden die Sätze 1 und 2 keine Anwendung.
 
 
 ##### § 59 Höchstbetrag bei mehreren Renten
@@ -5129,6 +5204,59 @@ vorliegt.
 öffentlichen Hand.
 
 
+##### § 136a Unternehmernummer
+
+(1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer
+unternehmerischen Tätigkeit eine Unternehmernummer. Die
+Unternehmernummer wird nach Mitteilung über den Unternehmensbeginn im
+Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche
+Unfallversicherung e. V. unverzüglich vergeben. Die Unternehmer, die
+bereits eine Unternehmernummer erhalten haben, teilen den Beginn und
+das Ende eines oder mehrerer weiterer Unternehmen nach § 192 Absatz 1
+unter Angabe der Unternehmernummer und der notwendigen Angaben zur
+Identifizierung des Unternehmens dem zuständigen Träger der
+Unfallversicherung mit. In einem Anhang zu der Unternehmernummer
+werden die dem Unternehmer zugehörigen Unternehmen numerisch in
+aufsteigender Folge bezeichnet. Die Unternehmernummer und die zur
+Identifizierung des Unternehmens erforderlichen Daten werden in einem
+zentralen Dateisystem bei der Deutschen Gesetzlichen
+Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und
+Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung
+ihrer gesetzlichen Aufgaben Zugriff auf dieses Dateisystem; dies gilt
+auch für die Arbeitsschutzbehörden der Länder, soweit dies für die
+Erfüllung ihrer Aufgaben nach § 21 Absatz 3a des Arbeitsschutzgesetzes
+erforderlich ist. Die Berufsgenossenschaften und die
+Unfallversicherungsträger der öffentlichen Hand führen die
+Unternehmer- und Unternehmensnummern ihrer Mitglieder jeweils in einem
+gesonderten Mitgliederdateisystem.
+
+(2) Bei Änderungen, die die nach Absatz 1 zum Unternehmer oder zum
+Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2
+entsprechend.
+
+(3) Der Unternehmer hat für die Vergabe der Unternehmernummer die dazu
+notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
+Geburtsdatum und die aktuelle Wohnanschrift, elektronisch zu
+übermitteln. Das Nähere zum Verfahren, zu den erforderlichen Angaben
+und zu den Datensätzen regelt die Deutsche Gesetzliche
+Unfallversicherung e. V., in Abstimmung mit der landwirtschaftlichen
+Berufsgenossenschaft, in Grundsätzen, die durch das Bundesministerium
+für Arbeit und Soziales zu genehmigen sind.
+
+
+##### § 136b Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters
+
+Die im zentralen Unternehmerverzeichnis nach 136a Absatz 1 Satz 5
+gespeicherten Daten dürfen zu den in § 4 des
+Unternehmensbasisdatenregistergesetzes aufgeführten Zwecken an die
+Registerbehörde nach § 1 Absatz 1 des
+Unternehmensbasisdatenregistergesetzes übermittelt werden. Die
+bundeseinheitliche Wirtschaftsnummer nach § 2 des
+Unternehmensbasisdatenregistergesetzes darf zu den in § 5 des
+Unternehmensbasisdatenregistergesetzes aufgeführten Zwecken im
+zentralen Dateisystem nach § 136a Absatz 1 Satz 5 gespeichert werden.
+
+
 ##### § 137 Wirkung von Zuständigkeitsänderungen
 
 (1) Geht die Zuständigkeit für Unternehmen nach § 136 Abs. 1 Satz 4
@@ -5293,14 +5421,17 @@ der Genehmigung der Aufsichtsbehörde.
 
 #### § 144 Dienstordnung
 
-Die Vertreterversammlung des Unfallversicherungsträgers hat die Ein-
-und Anstellungsbedingungen und die Rechtsverhältnisse der Angestellten
-unter Berücksichtigung des Grundsatzes der funktionsgerechten
-Stellenbewertung durch eine Dienstordnung angemessen zu regeln, soweit
-nicht die Angestellten nach Tarifvertrag oder außertariflich
-angestellt werden. Dies gilt nicht für Unfallversicherungsträger mit
-Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes oder
-des § 2 des Beamtenstatusgesetzes.
+(1) Die Vertreterversammlung des Unfallversicherungsträgers hat die
+Ein- und Anstellungsbedingungen und die Rechtsverhältnisse der
+Angestellten unter Berücksichtigung des Grundsatzes der
+funktionsgerechten Stellenbewertung durch eine Dienstordnung
+angemessen zu regeln, soweit nicht die Angestellten nach Tarifvertrag
+oder außertariflich angestellt werden.
+
+(2) Verträge mit Angestellten, die der Dienstordnung nach diesem Buch
+unterstehen sollen, dürfen ab dem 1. Januar 2023 nicht mehr
+abgeschlossen werden, es sei denn, die Angestellten unterstanden am
+31\. Dezember 2022 bereits einer Dienstordnung.
 
 
 #### § 145 Regelungen in der Dienstordnung
@@ -5452,8 +5583,28 @@ der seine Befugnisse ganz oder teilweise auf den Geschäftsführer
 übertragen kann.
 
 
-#### § 149 (weggefallen)
+#### § 149 Dienstrechtliche Vorschriften für die gewerblichen Berufsgenossenschaften
 
+(1) Das Personal der Unfallversicherungsträger in den Nummern 1 bis 7
+und 9 der Anlage zu § 114 Absatz 1 Nummer 1 besteht vorrangig aus
+Arbeitnehmerinnen und Arbeitnehmern.
+
+(2) Die Unfallversicherungsträger nach § 114 Absatz 1 Nummer 1
+besitzen Dienstherrnfähigkeit im Sinne des § 2 des
+Bundesbeamtengesetzes. Die Beamtinnen und Beamten sind
+Bundesbeamtinnen und Bundesbeamte. Der Stellenplan für die Planstellen
+der Beamtinnen und Beamten bedarf der Genehmigung der
+Aufsichtsbehörde.
+
+(3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
+auf Vorschlag des Vorstandes die Beamtinnen und Beamten. Es kann seine
+Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis
+ganz oder teilweise auf die Geschäftsführung weiter zu übertragen.
+
+(4) Oberste Dienstbehörde für die Geschäftsführung und ihre
+Stellvertretung ist das Bundesministerium für Arbeit und Soziales, für
+die übrigen Beamtinnen und Beamten der Vorstand, der seine Befugnisse
+ganz oder teilweise auf die Geschäftsführung übertragen kann.
 
 
 ## Sechstes Kapitel - Aufbringung der Mittel
@@ -5496,16 +5647,16 @@ Gesamtschuldner.
 
 (3) Für die Beitragshaftung bei der Arbeitnehmerüberlassung gilt § 28e
 Abs. 2 und 4 des Vierten Buches, für die Beitragshaftung bei der
-Ausführung eines Dienst- oder Werkvertrages im Baugewerbe gelten § 28e
-Absatz 3a bis 3f sowie § 116a des Vierten Buches und für die
-Beitragshaftung bei der Ausführung eines Dienst- oder Werkvertrages
-durch Unternehmer im Speditions-, Transport- und damit verbundenen
-Logistikgewerbe, die im Bereich der Kurier-, Express- und Paketdienste
-tätig sind und im Auftrag eines anderen Unternehmers adressierte
-Pakete befördern, gilt § 28e Absatz 3g des Vierten Buches
-entsprechend. Der Nachunternehmer oder der von diesem beauftragte
-Verleiher hat für den Nachweis nach § 28e Absatz 3f des Vierten Buches
-eine qualifizierte Unbedenklichkeitsbescheinigung des zuständigen
+Ausführung eines Dienst- oder Werkvertrages im Baugewerbe gilt § 28e
+Absatz 3a bis 3f des Vierten Buches und für die Beitragshaftung bei
+der Ausführung eines Dienst- oder Werkvertrages durch Unternehmer im
+Speditions-, Transport- und damit verbundenen Logistikgewerbe, die im
+Bereich der Kurier-, Express- und Paketdienste tätig sind und im
+Auftrag eines anderen Unternehmers adressierte Pakete befördern, gilt
+§ 28e Absatz 3g des Vierten Buches entsprechend. Der Nachunternehmer
+oder der von diesem beauftragte Verleiher hat für den Nachweis nach §
+28e Absatz 3f des Vierten Buches eine qualifizierte
+Unbedenklichkeitsbescheinigung des zuständigen
 Unfallversicherungsträgers vorzulegen; diese enthält insbesondere
 Angaben über die bei dem Unfallversicherungsträger eingetragenen
 Unternehmensteile und diesen zugehörigen Lohnsummen des
@@ -5947,9 +6098,19 @@ festgestellt, sobald der Anspruch entstanden und der Höhe nach bekannt
 ist.
 
 
-##### § 169 (weggefallen)
+##### § 169 Erhebung von Säumniszuschlägen
 
--
+Ein Säumniszuschlag nach § 24 Absatz 1 Satz 1 des Vierten Buches ist
+nicht zu erheben, wenn
+
+1.  dieser einen Betrag von 5 Euro unterschreitet oder
+
+
+2.  ein Säumnis bis zu drei Tagen vorliegt.
+
+
+
+Dies gilt nicht für die landwirtschaftliche Unfallversicherung.
 
 
 ##### § 170 Beitragszahlung an einen anderen Unfallversicherungsträger
@@ -5967,10 +6128,8 @@ Beitrag zusteht.
 
 
 
-##### § 171 Mittel der Unfallversicherungsträger
+##### § 171 (weggefallen)
 
-Die Mittel der Unfallversicherungsträger umfassen die Betriebsmittel,
-die Rücklage und das Verwaltungsvermögen.
 
 
 ##### § 172 Betriebsmittel
@@ -5986,21 +6145,16 @@ die Rücklage und das Verwaltungsvermögen.
 
 
 
-(2) Die Betriebsmittel sind im erforderlichen Umfang bereitzuhalten
-und im Übrigen so liquide anzulegen, dass sie für die in Absatz 1
-genannten Zwecke verfügbar sind. Sie dürfen die Ausgaben des
-abgelaufenen Kalenderjahres am 31. Dezember des laufenden
-Kalenderjahres nicht übersteigen.
+(2) Die Betriebsmittel dürfen die Ausgaben des abgelaufenen
+Kalenderjahres am 31. Dezember des laufenden Kalenderjahres nicht
+übersteigen.
 
 
 ##### § 172a Rücklage
 
-(1) Der Unfallversicherungsträger hat zur Sicherstellung seiner
-Leistungsfähigkeit, vorrangig für den Fall, dass Einnahme- und
-Ausgabeschwankungen durch Einsatz der Betriebsmittel nicht mehr
-ausgeglichen werden können, sowie zur Beitragsstabilisierung eine
-Rücklage zu bilden. Sie ist so anzulegen, dass sie für die in Satz 1
-genannten Zwecke verfügbar ist.
+(1) Die Unfallversicherungsträger bilden die Rücklage über die in § 82
+des Vierten Buches genannte Zweckbestimmung hinaus auch zur
+Beitragsstabilisierung.
 
 (2) Die Rücklage wird mindestens in zweifacher Höhe der
 durchschnittlichen monatlichen Ausgaben des abgelaufenen
@@ -6024,41 +6178,13 @@ Mindesthöhe erreicht hat, die sich aus Absatz 2 ergibt.
 
 ##### § 172b Verwaltungsvermögen
 
-(1) Das Verwaltungsvermögen des Unfallversicherungsträgers umfasst
-
-1.  alle Vermögensanlagen, die der Verwaltung des
-    Unfallversicherungsträgers zu dienen bestimmt sind, einschließlich der
-    Mittel, die zur Anschaffung und Erneuerung dieser Vermögensteile
-    bereitgehalten werden,
-
-
-2.  betriebliche Einrichtungen, Eigenbetriebe, gemeinnützige Beteiligungen
-    und gemeinnützige Darlehen,
-
-
-3.  die Mittel, die für künftig zu zahlende Versorgungsbezüge und
-    Beihilfen der Bediensteten und ihrer Hinterbliebenen bereitgehalten
-    werden,
-
-
-4.  die zur Finanzierung zukünftiger Verbindlichkeiten oder Investitionen
-    gebildeten Sondervermögen,
-
-
-
-soweit sie für die Erfüllung der Aufgaben des
-Unfallversicherungsträgers erforderlich sind. Mittel für den Erwerb,
-die Errichtung, die Erweiterung und den Umbau von Immobilien der
-Eigenbetriebe sowie der durch Beteiligungen oder Darlehen geförderten
-gemeinnützigen Einrichtungen der Unfallversicherungsträger oder
-anderer gemeinnütziger Träger dürfen nur unter der zusätzlichen
-Voraussetzung aufgewendet werden, dass diese Vorhaben auch unter
-Berücksichtigung des Gesamtbedarfs aller Unfallversicherungsträger
-erforderlich sind.
-
-(2) Als Verwaltungsvermögen gelten auch sonstige Vermögensanlagen
-aufgrund rechtlicher Verpflichtung oder Ermächtigung, soweit sie nicht
-den Betriebsmitteln oder der Rücklage zuzuordnen sind.
+Mittel für den Erwerb, die Errichtung, die Erweiterung und den Umbau
+von Immobilien der Eigenbetriebe sowie der durch Beteiligungen oder
+Darlehen geförderten Einrichtungen der Unfallversicherungsträger oder
+anderer Träger dürfen über die in § 82a des Vierten Buches geregelten
+Voraussetzungen hinaus nur aufgewendet werden, wenn diese Vorhaben
+auch unter Berücksichtigung des Gesamtbedarfs aller
+Unfallversicherungsträger erforderlich sind.
 
 
 ##### § 172c Altersrückstellungen
@@ -6072,18 +6198,6 @@ Versorgungsbezüge und Beihilfen. Die Verpflichtung besteht auch, wenn
 die Unfallversicherungsträger gegenüber ihren Tarifbeschäftigten
 Leistungen der betrieblichen Altersvorsorge unmittelbar zugesagt
 haben.
-
-(1a) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
-für Altersrückstellungen gelten die Vorschriften des Vierten Titels
-des Vierten Abschnitts des Vierten Buches mit der Maßgabe, dass eine
-Anlage auch in Euro-denominierten Aktien im Rahmen eines passiven,
-indexorientierten Managements zulässig ist. Die Anlageentscheidungen
-sind jeweils so zu treffen, dass der Anteil an Aktien maximal 20
-Prozent des Deckungskapitals beträgt. Änderungen des Aktienkurses
-können vorübergehend zu einem höheren Anteil an Aktien am
-Deckungskapital führen. Die Sätze 1 bis 3 gelten auch für das
-Deckungskapital für Altersrückstellungen nach § 12 der
-Sozialversicherungs-Rechnungsverordnung.
 
 (2) Die Rückstellungen dürfen nur zweckentsprechend verwendet werden.
 
@@ -6868,11 +6982,12 @@ haben sie diese dem Unfallversicherungsträger anzuzeigen.
 
 (3) Bei Unfällen der nach § 2 Abs. 1 Nr. 8 Buchstabe b Versicherten
 hat der Schulhoheitsträger die Unfälle auch dann anzuzeigen, wenn er
-nicht Unternehmer ist. Bei Unfällen der nach § 2 Abs. 1 Nr. 15
-Buchstabe a Versicherten hat der Träger der Einrichtung, in der die
-stationäre oder teilstationäre Behandlung oder die stationären,
+nicht Unternehmer ist. Bei Unfällen der nach § 2 Absatz 1 Nummer 15
+Buchstabe a und d Versicherten hat der Träger der Einrichtung, in der
+die stationäre oder teilstationäre Behandlung, die stationären,
 teilstationären oder ambulanten Leistungen zur medizinischen
-Rehabilitation erbracht werden, die Unfälle anzuzeigen.
+Rehabilitation oder zur Prävention erbracht werden, die Unfälle
+anzuzeigen.
 
 (4) Die Anzeige ist binnen drei Tagen zu erstatten, nachdem die
 Unternehmer von dem Unfall oder von den Anhaltspunkten für eine
@@ -6951,12 +7066,13 @@ Reisegewerbekarte. Im übrigen gilt Absatz 1 entsprechend.
 
 (3) Die für die Erteilung von Bauerlaubnissen zuständigen Behörden
 haben dem zuständigen Unfallversicherungsträger nach Erteilung einer
-Bauerlaubnis den Namen und die Anschrift des Bauherrn, den Ort und die
-Art der Bauarbeiten, den Baubeginn sowie die Höhe der im
-baubehördlichen Verfahren angegebenen oder festgestellten Baukosten
-mitzuteilen. Bei nicht bauerlaubnispflichtigen Bauvorhaben trifft
-dieselbe Verpflichtung die für die Entgegennahme der Bauanzeige oder
-der Bauunterlagen zuständigen Behörden.
+Bauerlaubnis den Namen und die Anschrift, den Geburtsnamen und das
+Geburtsdatum des Bauherrn, den Ort und die Art der Bauarbeiten, den
+Baubeginn sowie die Höhe der im baubehördlichen Verfahren angegebenen
+oder festgestellten Baukosten mitzuteilen. Bei nicht
+bauerlaubnispflichtigen Bauvorhaben trifft dieselbe Verpflichtung die
+für die Entgegennahme der Bauanzeige oder der Bauunterlagen
+zuständigen Behörden.
 
 
 #### § 196 Mitteilungspflichten der Schiffsvermessungs- und -registerbehörden
@@ -7271,7 +7387,8 @@ und 3 nur folgende Daten von Versicherten erhoben werden:
     ihrer Tätigkeit,
 
 
-7.  Angaben zum Unternehmen einschließlich der Mitgliedsnummer,
+7.  Angaben zum Unternehmen einschließlich der Unternehmernummer nach §
+    136a,
 
 
 8.  die Arbeitsanamnese und die als Ursache für eine Schädigung vermuteten
@@ -8062,8 +8179,65 @@ Dezember 2007 eingetreten sind.
 (5) (weggefallen)
 
 
-### § 221a (weggefallen)
+### § 221a Verarbeitung von Daten durch die landwirtschaftliche Berufsgenossenschaft
 
+(1) Die landwirtschaftliche Berufsgenossenschaft (§ 114 Absatz 1 Satz
+1 Nummer 2) darf die bei ihr gespeicherten Namen, Anschriften und
+Bankverbindungen von Unternehmern nach § 136 Absatz 3 Nummer 1, die
+zur Beitragsberechnung nach § 182 vorliegenden Berechnungsgrundlagen
+sowie die von den zuständigen Behörden in den Ländern übermittelten
+Daten nach § 197 Absatz 4 Satz 1 und Satz 4 zur Durchführung der ihr
+übertragenen Aufgabe zur Gewährung einer Beihilfe im Rahmen einer
+außergewöhnlichen Maßnahme zur Marktstützung im Sinne der §§ 9b, 9c
+und 9d des Marktorganisationsgesetzes verarbeiten, soweit dies zur
+Durchführung oder Kontrolle der Beihilfegewährung erforderlich ist.
+
+(2) Die landwirtschaftliche Berufsgenossenschaft darf der
+Bundesanstalt für Landwirtschaft und Ernährung einmalig bis zum 31.
+Dezember 2022 die bei ihr gespeicherten
+
+1.  Namen und Anschriften von Unternehmern nach § 136 Absatz 3 Nummer 1,
+
+
+2.  deren Mitgliedsnummer,
+
+
+3.  die Art der betriebenen landwirtschaftlichen Nutzung,
+
+
+4.  die zum 22. März 2022 erfasste Anbaufläche oder Tierzahl
+
+
+
+unter den Voraussetzungen des Satzes 2 zum Zweck der Gewährung einer
+Beihilfe aus dem Bundeshaushalt übermitteln. Die Übermittlung ist nur
+zulässig, sofern die Unternehmer nach der vom Bundesministerium für
+Ernährung und Landwirtschaft im Rahmen der Regelung zur
+vorübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich
+der Bundesrepublik Deutschland auf der Grundlage des Befristeten
+Krisenrahmens der Europäischen Kommission für staatliche Beihilfen zur
+Stützung der Wirtschaft infolge der Aggression Russlands gegen die
+Ukraine vom 22. April 2022 (BAnz AT 27.04.2022 B2) erlassenen
+Richtlinie dem Grunde nach beihilfeberechtigt sind und nicht bereits
+eine Anpassungsbeihilfe in Durchführung der in Absatz 1 genannten
+Aufgabe erhalten haben.
+
+(3) Die Bundesanstalt für Landwirtschaft und Ernährung
+
+1.  darf den Datenbestand nach Absatz 2 verarbeiten, soweit dies zur
+    Durchführung oder Kontrolle der Beihilfegewährung auf Grundlage der
+    Kleinbeihilfenregelung erforderlich ist, und
+
+
+2.  hat diesen Datenbestand unmittelbar nach dem rechtskräftigen Abschluss
+    der Beihilfeverfahren zu löschen.
+
+
+
+Das Nähere zum Verfahren der Datenübermittlung nach Absatz 2 und zur
+Erstattung der Kosten ist in einer Verwaltungsvereinbarung zwischen
+der Bundesanstalt für Landwirtschaft und Ernährung und der
+landwirtschaftlichen Berufsgenossenschaft zu regeln.
 
 
 ### § 221b Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung

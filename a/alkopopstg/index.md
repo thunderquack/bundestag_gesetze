@@ -97,10 +97,6 @@ ermächtigt, das Verfahren zur Berechnung des Netto-Mehraufkommens
 durch Rechtsverordnung zu regeln.
 
 
-## § 5 Bericht der Bundesregierung über die Auswirkungen des Gesetzes
+## § 5 (weggefallen)
 
-Die Bundesregierung berichtet dem Deutschen Bundestag zum 1. Juli 2005
-über die Auswirkungen des Gesetzes auf den Alkoholkonsum von
-Jugendlichen unter 18 Jahren sowie die Marktentwicklung von Alkopops
-und vergleichbaren Getränken.
 

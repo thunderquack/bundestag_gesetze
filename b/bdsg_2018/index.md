@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2097
 
-Geändert durch
-:   Art. 12 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 10 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 10 G v. 23.6.2021 I 1858; 2022 I 1045
 
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
@@ -411,7 +408,7 @@ rechtliche Unternehmen am Wettbewerb teilnehmen, sowie über
 Unternehmen, soweit diese für die geschäftsmäßige Erbringung von
 Telekommunikationsdienstleistungen Daten von natürlichen oder
 juristischen Personen verarbeiten und sich die Zuständigkeit nicht
-bereits aus § 27 des Telekommunikation-Telemedien-Datenschutz-Gesetzes
+bereits aus § 29 des Telekommunikation-Telemedien-Datenschutz-Gesetzes
 ergibt. Die Vorschriften dieses Kapitels gelten auch für
 Auftragsverarbeiter, soweit sie nichtöffentliche Stellen sind, bei
 denen dem Bund die Mehrheit der Anteile gehört oder die Mehrheit der

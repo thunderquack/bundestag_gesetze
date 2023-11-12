@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 3022
 
 Zuletzt geändert durch
-:   Art. 3 G v. 14.7.2020 I 1683
+:   Art. 2 G v. 23.5.2023 I Nr. 136
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -147,7 +147,7 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 ## § 8 Auflösung
 
 Das Sondervermögen ist nach Erfüllung seiner gesetzlichen Aufgaben,
-spätestens mit Ablauf des Jahres 2025 aufzulösen. Ein verbleibendes
+spätestens mit Ablauf des Jahres 2026 aufzulösen. Ein verbleibendes
 Vermögen fällt dem Bund zu. Die Einzelheiten der Abwicklung des
 Sondervermögens nach seiner Auflösung bestimmt die Bundesregierung in
 einer Rechtsverordnung, die nicht der Zustimmung des Bundesrates

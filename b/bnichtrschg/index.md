@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1595
 
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1730 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 G v. 9.6.2021 I 1730
 
 
 

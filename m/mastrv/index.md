@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 842
 
 Zuletzt geändert durch
-:   Art. 9a G v. 16.7.2021 I 3026
+:   Art. 10 G v. 20.7.2022 I 1237
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -192,7 +192,7 @@ registrieren.
 (1) Folgende Behörden müssen sich im Marktstammdatenregister
 registrieren:
 
-1.  das Bundesministerium für Wirtschaft und Energie,
+1.  das Bundesministerium für Wirtschaft und Klimaschutz,
 
 
 2.  das Umweltbundesamt,
@@ -217,7 +217,10 @@ Marktstammdatenregister registrieren. Einheiten von Solaranlagen, die
 von demselben Betreiber am selben Standort gleichzeitig in Betrieb
 genommen werden, sind summarisch als eine Einheit zu registrieren; §
 38b Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes ist entsprechend
-anzuwenden.
+anzuwenden. Betreiber von Strom- und Gasverbrauchseinheiten und
+Gaserzeugungseinheiten können Einheiten, die sich in derselben
+technischen Lokation befinden, zusammengefasst als eine Einheit
+registrieren.
 
 (2) Die Pflicht zur Registrierung nach den Absätzen 1, 3 und 4 Satz 1
 entfällt
@@ -238,7 +241,7 @@ entfällt
 
 3.  bei Gasverbrauchseinheiten, die nicht an das Fernleitungsnetz
     angeschlossen sind oder die nicht zu Stromerzeugungseinheiten mit
-    einer installierten Leistung von mindestens 10 Megawatt gehören,
+    einer Nettonennleistung von mindestens 10 Megawatt gehören,
 
 
 4.  bei Einheiten militärischer Einrichtungen, die der Landesverteidigung
@@ -373,7 +376,8 @@ Rahmen der Registerführung überprüfen. Hierzu kann sie die im
 Marktstammdatenregister eingetragenen Daten mit den Daten abgleichen,
 die
 
-1.  aus den in § 11 genannten Quellen stammen,
+1.  ihr nach Teil 5 Abschnitt 2 des Energiefinanzierungsgesetzes
+    übermittelt worden sind,
 
 
 2.  aus frei zugänglichen Quellen verfügbar sind,
@@ -392,12 +396,16 @@ die
 
 
 6.  das Bundesamt für Wirtschaft und Ausfuhrkontrolle im Rahmen der
-    Durchführung seiner Aufgaben nach dem Erneuerbare-Energien-Gesetz oder
-    dem Kraft-Wärme-Kopplungsgesetz erhoben und gespeichert hat oder
+    Durchführung seiner Aufgaben nach dem Energiefinanzierungsgesetz oder
+    dem Kraft-Wärme-Kopplungsgesetz erhoben und gespeichert hat,
 
 
 7.  in weiteren behördlichen Registern mit energiewirtschaftlichem Bezug
-    gespeichert sind.
+    gespeichert sind oder
+
+
+8.  ihr im Rahmen einer Anforderung nach § 13 Absatz 4 übermittelt worden
+    sind.
 
 
 
@@ -418,43 +426,7 @@ nach dieser Verordnung die erforderlichen Anordnungen treffen, um die
 Richtigkeit der Daten im Marktstammdatenregister herzustellen.
 
 
-### § 11 Übernahme von Daten
-
-Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor
-dem 1. Juli 2017 in Betrieb genommen wurden, in das
-Marktstammdatenregister. Sie kann dafür Daten in das Register
-übernehmen, die ihr aufgrund folgender Bestimmungen zu den dort
-genannten Zwecken übermittelt worden sind:
-
-1.  von Betreibern von EEG-Anlagen nach den §§ 3 bis 6 der
-    Anlagenregisterverordnung in der am 30. Juni 2017 geltenden Fassung,
-
-
-2.  von Netzbetreibern nach § 111e Absatz 6 des Energiewirtschaftsgesetzes
-    und nach § 8 Absatz 4 in Verbindung mit § 8 Absatz 1 der
-    Anlagenregisterverordnung in der am 30. Juni 2017 geltenden Fassung,
-
-
-3.  von Übertragungsnetzbetreibern nach § 4 Absatz 1 der Erneuerbare-
-    Energien-Ausführungsverordnung,
-
-
-4.  von Netzbetreibern und Eigenversorgern nach § 76 Absatz 1 des
-    Erneuerbare-Energien-Gesetzes,
-
-
-5.  von Betreibern von Anlagen zur Erzeugung von Strom aus solarer
-    Strahlungsenergie nach § 16 Absatz 2 Satz 2 des Erneuerbare-Energien-
-    Gesetzes in der am 31. Dezember 2011 geltenden Fassung, nach § 17
-    Absatz 2 Nummer 1 Buchstabe a des Erneuerbare-Energien-Gesetzes in der
-    am 31. März 2012 und am 31. Juli 2014 geltenden Fassung und
-
-
-6.  von Betreibern von Anlagen zur Erzeugung von Strom aus Biogas nach §
-    33i Absatz 1 Nummer 3 Buchstabe a des Erneuerbare-Energien-Gesetzes in
-    der am 31. Juli 2014 geltenden Fassung.
-
-
+### § 11 (weggefallen)
 
 
 
@@ -481,16 +453,18 @@ in der Anlage entsprechend gekennzeichnet sind, auffordern, die
 
 
 (2) Netzbetreiber müssen die Daten innerhalb eines Monats nach der
-Aufforderung durch die Bundesnetzagentur überprüfen. Bei Daten zu
-Stromerzeugungseinheiten, die Teil einer EEG- oder KWK-Anlage sind,
-beginnt die Frist mit der Übermittlung des Inbetriebnahmeprotokolls
-durch den Anlagenbetreiber an den Netzbetreiber, spätestens jedoch
-sechs Monate nach der Aufforderung der Bundesnetzagentur. Der
-Netzbetreiber teilt der Bundesnetzagentur das Prüfergebnis mit.
-Übermittelt ein Netzbetreiber der Bundesnetzagentur als Prüfergebnis
-einen Hinweis auf einen möglichen Datenfehler oder von den
-eingetragenen Daten abweichende Daten, so ist § 10 Absatz 2
-entsprechend anzuwenden.
+Aufforderung durch die Bundesnetzagentur überprüfen. Die Frist nach
+Satz 1 beginnt bei Daten zu Stromerzeugungseinheiten, die Teil einer
+EEG- oder KWK-Anlage sind, die eine Zahlung nach dem Erneuerbare-
+Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz in Anspruch
+nehmen wollen, deren Höhe nicht durch Ausschreibungen ermittelt worden
+ist, mit der Übermittlung des Inbetriebnahmeprotokolls durch den
+Anlagenbetreiber an den Netzbetreiber, spätestens jedoch sechs Monate
+nach der Aufforderung der Bundesnetzagentur. Der Netzbetreiber teilt
+der Bundesnetzagentur das Prüfergebnis mit. Übermittelt ein
+Netzbetreiber der Bundesnetzagentur als Prüfergebnis einen Hinweis auf
+einen möglichen Datenfehler oder von den eingetragenen Daten
+abweichende Daten, so ist § 10 Absatz 2 entsprechend anzuwenden.
 
 (3) Die Bundesnetzagentur kennzeichnet die erfolgte Überprüfung der
 Daten durch den Netzbetreiber im Marktstammdatenregister.
@@ -610,7 +584,7 @@ einen Zugang zu Daten, die nach § 15 Absatz 1 nicht veröffentlicht
 werden, einschließlich personenbezogener Daten, soweit die Behörden
 diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen:
 
-1.  dem Bundesministerium für Wirtschaft und Energie,
+1.  dem Bundesministerium für Wirtschaft und Klimaschutz,
 
 
 2.  dem Bundeskartellamt,
@@ -691,7 +665,7 @@ personenbezogener Daten, soweit
 
 Datenzugang nach Satz 1 ist entsprechend den zuständigen
 Übertragungsnetzbetreibern und, mit Ausnahme des Zugangs zu
-personenbezogenen Daten, den zuständigen Marktgebietsverantwortlichen
+personenbezogenen Daten, dem zuständigen Marktgebietsverantwortlichen
 zu gewähren.
 
 (2) Marktakteure können anderen Marktakteuren und registrierten
@@ -702,7 +676,7 @@ gewähren, die sie registriert haben.
 oder nach § 13 gewährt wurde, unverzüglich löschen, sobald sie die
 Daten nicht mehr zur Erfüllung ihrer gesetzlichen Aufgaben sowie zur
 Überprüfung nach § 13 Absatz 1 benötigen. Die Löschpflicht ist
-entsprechend auf die zuständigen Übertragungsnetzbetreiber und die
+entsprechend auf die zuständigen Übertragungsnetzbetreiber und den
 zuständigen Marktgebietsverantwortlichen anzuwenden.
 
 
@@ -721,44 +695,12 @@ auf die Registrierung einer Erhöhung der installierten Leistung der
 Anlage, wenn die Leistung zur Inanspruchnahme der Flexibilitätsprämie
 erhöht wird.
 
-(2) Betreiber von EEG-Anlagen, in denen erstmals ausschließlich
-Biomethan zur Stromerzeugung eingesetzt wird, um eine Förderung nach
-den Bestimmungen des Erneuerbare-Energien-Gesetzes in der Fassung, die
-für die Anlage nach § 100 Absatz 2 Satz 1 Nummer 4 oder Nummer 10 und
-Absatz 3 Satz 2 des Erneuerbare-Energien-Gesetzes in der am 31.
-Dezember 2020 geltenden Fassung maßgeblich ist, in Anspruch zu nehmen,
-müssen die Umstellung als EEG-Anlage innerhalb eines Monats nach der
-Umstellung im Marktstammdatenregister eintragen.
-
-(3) Wird eine EEG-Anlage, die ausschließlich mit Biomethan betrieben
-wurde, endgültig stillgelegt, so muss der Anlagenbetreiber bei der
-Registrierung der Stilllegung erklären, ob er der Nutzung der frei
-gewordenen Kapazität im Sinn des § 100 Absatz 3 des Erneuerbare-
-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung
-widerspricht.
-
-(4) Ein Betreiber, der die frei gewordene Kapazität einer
-stillgelegten Anlage, die ausschließlich mit Biomethan betrieben
-wurde, nutzen möchte, muss
-
-1.  dies dem Netzbetreiber mitteilen, an dessen Netz er eine Anlage
-    anschließen möchte, und
-
-
-2.  die Anlage, der die Kapazität zugewiesen werden soll, zumindest als
-    Projekt registrieren.
-
-
-
-Der Netzbetreiber muss der Bundesnetzagentur die Nutzung der Kapazität
-unverzüglich mitteilen.
-
-(5) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des
+(2) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des
 Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der
 Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese
 Angabe nicht anzuwenden.
 
-(6) Betreiber von Wasserkraftanlagen müssen vorgenommene
+(3) Betreiber von Wasserkraftanlagen müssen vorgenommene
 Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-
 Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines
 Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
@@ -766,7 +708,7 @@ Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
 
 ### § 19 Veröffentlichungen
 
-(1) Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen
+Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen
 Internetseite:
 
 1.  spätestens zum letzten Kalendertag eines Monats
@@ -824,19 +766,6 @@ Internetseite:
 
 
 
-
-(2) Zur Umsetzung des § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-
-Gesetzes in der am 31. Dezember 2020 geltenden Fassung hat die
-Bundesnetzagentur die Stilllegungen nach § 18 Absatz 3 gesondert auf
-ihrer Internetseite zu veröffentlichen, soweit der Nutzung der
-freigewordenen Kapazität nicht widersprochen wurde. Dabei
-veröffentlicht sie auch die Höhe der installierten Leistung der
-jeweiligen Anlage, die für den Nachweis nach § 100 Absatz 3 Satz 3 des
-Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden
-Fassung herangezogen werden kann. Die Veröffentlichung muss
-aktualisiert werden, sobald eine Stilllegung eingetragen worden ist
-oder ein Netzbetreiber die geplante Nutzung der Kapazität im Sinn des
-§ 18 Absatz 4 angezeigt hat.
 
 
 ## Abschnitt 6 - Sonstige Bestimmungen
@@ -1039,7 +968,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   \*12
 
-    *   bei Anschluss an Hoch- und Höchstspannung
+    *   ab einer Nettonennleistung von 1 MW
 
 
 *    *   \*13
@@ -1205,8 +1134,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Betriebsnummer der Bundesnetzagentur
 
-    *   R
-
+    *
     *   V\*3
 
     *
@@ -1446,15 +1374,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **I.5.3 Zusätzliche Daten zu Gasnetzbetreibern**
+*    *   **I.5.3**                      (weggefallen)
 
-
-*    *   I.5.3.1
-
-    *   Marktgebiet
-
-    *   R
-
+    *
     *
     *
 
@@ -1693,11 +1615,12 @@ KWK-Anlagen
     *   Art der Einspeisung
 
     *
-    *   P
+    *   R
 
     *
     *
-    *
+    *   NP
+
     *
 
 *    *   II.1.1.15
@@ -1846,7 +1769,8 @@ KWK-Anlagen
 
     *
     *
-    *
+    *   NP
+
     *   VE: [II]
 
 
@@ -2013,7 +1937,7 @@ KWK-Anlagen
 
 *    *   II.1.3.4
 
-    *   Steigerung der Nettonennleistung durch Kombibetrieb
+    *   Nettonennleistung im Kombibetrieb
 
     *
     *   P\*11
@@ -2119,7 +2043,8 @@ KWK-Anlagen
 
     *
     *
-    *
+    *   NP
+
     *
 
 *    *   **II.1.4 Zusätzliche Daten zu Einheiten in Notstromaggregaten**
@@ -2161,7 +2086,8 @@ KWK-Anlagen
     *
     *
     *
-    *
+    *   NP
+
     *
 
 *    *   **II.1.6 Zusätzliche Daten Solareinheiten (ohne Solarthermie)**
@@ -2443,6 +2369,19 @@ KWK-Anlagen
     *
     *
     *
+    *
+
+*    *   II.1.7.1.9
+
+    *   Einrichtung zur bedarfsgesteuerten Nachtkennzeichnung
+
+    *
+    *   P
+
+    *
+    *
+    *   NP
+
     *
 
 *    *   II.1.7.2 Zusätzliche Daten zu Wind auf See
@@ -2732,6 +2671,20 @@ KWK-Anlagen
     *
     *
     *
+
+*    *   II.2.1.6
+
+    *   Betrieb durch eine Bürgerenergiegesellschaft nach § 22b EEG
+
+    *
+    *
+    *
+    *
+    *   NP
+
+    *   WI: [I]: P, [II]: P
+        SO: [II]: P
+
 
 *    *   **II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem
         EEG**
@@ -3069,7 +3022,8 @@ KWK-Anlagen
 
     *
     *
-    *
+    *   NP
+
     *
 
 *    *   II.3.1.3
@@ -3081,7 +3035,8 @@ KWK-Anlagen
 
     *
     *
-    *
+    *   NP
+
     *
 
 *    *   II.3.1.4
@@ -3211,8 +3166,7 @@ Gasverbrauchseinheiten
 
     *
     *
-    *   NP
-
+    *
     *
 
 *    *   III.1.6
@@ -3224,8 +3178,7 @@ Gasverbrauchseinheiten
     *   R
 
     *
-    *   NP
-
+    *
     *
 
 *    *   III.1.7
@@ -3237,8 +3190,7 @@ Gasverbrauchseinheiten
 
     *
     *
-    *   NP
-
+    *
     *
 
 *    *   III.1.8
@@ -3310,12 +3262,10 @@ Gasverbrauchseinheiten
 
 *    *   III.2.3
 
-    *   Art der präqualifizierten Leistung zur Teilnahme als abschaltbare Last
-        gemäß AbLaV
+    *   (weggefallen)
 
     *
-    *   P
-
+    *
     *
     *
     *
@@ -3323,11 +3273,10 @@ Gasverbrauchseinheiten
 
 *    *   III.2.4
 
-    *   Anteil beeinflussbarer Last
+    *   (weggefallen)
 
     *
-    *   P
-
+    *
     *
     *
     *
@@ -3584,6 +3533,14 @@ Gasverbrauchslokationen
 
     *
 
+*    *   V.2.1.4
+
+    *   Status Netzanschlusspunkt
+
+    *   R
+
+    *
+
 *    *   **V.2.2 Daten zu technischen Stromerzeugungslokationen**
 
 
@@ -3614,15 +3571,15 @@ Gasverbrauchslokationen
 
 *    *   V.3.1.1
 
-    *   Marktgebiet
+    *   Gasqualität am Netzanschluss
 
-    *   R
+    *   P
 
     *
 
 *    *   V.3.1.2
 
-    *   Gasqualität am Netzanschluss
+    *   Netzanschlusspunktbezeichnung
 
     *   P
 
@@ -3630,9 +3587,9 @@ Gasverbrauchslokationen
 
 *    *   V.3.1.3
 
-    *   Netzanschlusspunktbezeichnung
+    *   Status Netzanschlusspunkt
 
-    *   P
+    *   R
 
     *
 

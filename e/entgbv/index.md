@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 2712
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 6 G v. 28.11.2018 I 2016
+:   Art. 30 G v. 20.12.2022 I 2759
 
 
 ## Eingangsformel
@@ -115,7 +115,13 @@ darzustellen:
 
 
     c)  Gesamtbruttoentgelt ohne Trennung nach laufenden und einmaligen
-        Bezügen und Abzügen;
+        Bezügen und Abzügen,
+
+
+    d)  pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach §
+        40a Absatz 2 und § 40b des Einkommensteuergesetzes jeweils nach ihrer
+        gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto
+        alle weiteren pauschal besteuerten Bezüge;
 
 
 
@@ -227,6 +233,10 @@ inhaltliche Änderungen, ist gegebenenfalls der Hinweis aufzunehmen,
 für welche Entgeltabrechnungszeiträume keine Bescheinigung ausgestellt
 wurde, da keine Veränderungen vorlagen, sodass ein durchgehender
 Nachweis möglich ist.
+
+(1a) Die Angaben nach § 1 Absatz 2 Nummer 2 Buchstabe d und Absatz 3
+können jeweils für die einzelne Angabe als Anlage der Bescheinigung
+nach Absatz 1 angefügt werden.
 
 (2) Die Arbeitnehmerin oder der Arbeitnehmer können das
 Kirchensteuermerkmal in der Entgeltbescheinigung schwärzen.

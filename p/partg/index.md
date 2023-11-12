@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art 1 G v. 10.7.2018 I 1116 ist gem. BVerfGE v. 24.1.2023 I Nr. 43 - 2 BvF 2/18 - mit Art. 21 Abs. 1 Satz 1 GG unvereinbar und nichtig
+
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
@@ -492,15 +495,16 @@ die Summe ihrer Mitglieds- und Mandatsträgerbeiträge sowie der Umfang
 der von ihr eingeworbenen Spenden.
 
 (2) Das jährliche Gesamtvolumen staatlicher Mittel, das allen Parteien
-höchstens ausgezahlt werden darf, beträgt für die im Jahr 2019
-vorzunehmende Festsetzung 190 Millionen Euro (absolute Obergrenze).
-Die absolute Obergrenze erhöht sich jährlich um den Prozentsatz,
-abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der für
-eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen
-Jahr erhöht hat. Grundlage des Preisindexes ist zu einem Wägungsanteil
-von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent
-der Index der tariflichen Monatsgehälter der Arbeiter und Angestellten
-bei Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
+höchstens ausgezahlt werden darf, beträgt für das Jahr 2011 141,9
+Millionen Euro und für das Jahr 2012 150,8 Millionen Euro (absolute
+Obergrenze). Die absolute Obergrenze erhöht sich jährlich, jedoch
+erstmals für das Jahr 2013, um den Prozentsatz, abgerundet auf ein
+Zehntel Prozent, um den sich der Preisindex der für eine Partei
+typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erhöht
+hat. Grundlage des Preisindexes ist zu einem Wägungsanteil von 70
+Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der
+Index der tariflichen Monatsgehälter der Arbeiter und Angestellten bei
+Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
 legt dem Deutschen Bundestag hierzu bis spätestens 30. April jedes
 Jahres einen Bericht über die Entwicklung des Preisindexes bezogen auf
 das vorangegangene Jahr vor. Der Bundestagspräsident veröffentlicht

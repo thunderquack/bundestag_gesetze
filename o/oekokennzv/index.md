@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 589
 
-Geändert durch
-:   Art. 1 V v. 30.11.2005 I 3384
+Zuletzt geändert durch
+:   Art. 2 V v. 27.9.2023 I Nr. 265
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -137,7 +137,9 @@ angepriesen wird.
 das Öko-Kennzeichen verwenden will, hat dies der Bundesanstalt für
 landwirtschaft und Ernährung vor dem erstmaligen Verwenden anzuzeigen.
 Die Anzeige ist nach dem Muster des Formblattes in Anlage 2
-vorzunehmen.
+vorzunehmen. Abweichend von den Sätzen 1 und 2 kann eine Anzeige auch
+elektronisch über eine Registrierung in der Bio-Siegel-Datenbank
+erfolgen.
 
 (2) Wer vor dem Inkrafttreten dieser Verordnung das beim Deutschen
 Patent- und Markenamt unter der Registernummer 301 41 473 eingetragene

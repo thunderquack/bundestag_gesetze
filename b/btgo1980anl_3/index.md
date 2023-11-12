@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1256
 
 Zuletzt geändert durch
-:   Beschluss d. Bundestages v. 28.2.2013 gem. Bek. v. 12.3.2013 I 548
+:   Nr. 14 Beschluss d. Bundestages v. 15.12.2022 gem. Bek. v. 15.12.2022 I 2598
 
 
 ## § 1 Anwendungsbereich
@@ -87,9 +87,9 @@ Staat von Vorteil sein könnte.
 (5) VS, die nicht unter die Geheimhaltungsgrade STRENG GEHEIM, GEHEIM
 oder VS-VERTRAULICH fallen, aber nicht für die Öffentlichkeit bestimmt
 sind, erhalten den Geheimhaltungsgrad VS-NUR FÜR DEN DIENSTGEBRAUCH.
-Protokolle über nichtöffentliche Sitzungen der Ausschüsse (§ 69 Abs. 1
-Satz 1 GO-BT) sind grundsätzlich keine Verschlußsachen im Sinne der
-Geheimschutzordnung des Bundestages (§ 73 GO-BT).
+Protokolle über nichtöffentliche Sitzungen der Ausschüsse (vgl. § 69
+Absatz 1 und 2 GO-BT) sind grundsätzlich keine Verschlußsachen im
+Sinne der Geheimschutzordnung des Bundestages (§ 73 GO-BT).
 
 (6) Die Kennzeichnung von VS erfolgt unter entsprechender Anwendung
 der Verschlußsachenanweisung für die Bundesbehörden.
@@ -194,7 +194,7 @@ Original-VS zu behandeln.
 ## § 7 Behandlung von VS in Ausschüssen
 
 (1) Die Ausschüsse können für einen Beratungsgegenstand oder für Teile
-desselben einen Geheimhaltungsgrad beschließen (§ 69 Abs. 7 GO-BT).
+desselben einen Geheimhaltungsgrad beschließen (§ 69 Absatz 3 GO-BT).
 Wird über VS der Geheimhaltungsgrade VS-VERTRAULICH und höher beraten,
 führt der Vorsitzende die entsprechende Beschlußfassung unverzüglich
 in derselben Sitzung herbei und stellt vor Beginn der Beratungen fest,

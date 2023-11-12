@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 45 G v. 20.8.2021 I 3932
-
-Mittelbare änderung durch
-:   Art. 89 Nr. 5 G v. 20.8.2021 I 3932 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Nr. 2 Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
+:   Art. 19 G v. 20.7.2022 I 1237
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -279,7 +273,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen
 Gesetzbuches den Gegenstand des Verfahrens, so ist ein
 geschäftsfähiger Betreuter nur insoweit zur Vornahme von
 Verfahrenshandlungen fähig, als er nach den Vorschriften des
@@ -420,7 +414,7 @@ Vergütung und stellt die Auslagen und Aufwendungen fest.
 (4) Im Übrigen gelten für die Bestellung und für das Amt des
 Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über
 die Betreuung, in den übrigen Fällen die Vorschriften über die
-Pflegschaft entsprechend.
+sonstige Pflegschaft entsprechend.
 
 
 ##### § 16 Ausgeschlossene Personen
@@ -1997,7 +1991,7 @@ war.
 (1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden
 keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten
 die Träger der gesetzlichen Rentenversicherung für jede auf der
-Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von
+Grundlage des § 74a Absatz 2 und 3 erteilte Auskunft eine Gebühr von
 10,20 Euro.
 
 (2) Geschäfte und Verhandlungen, die aus Anlass der Beantragung,
@@ -2588,8 +2582,8 @@ Mitteilungspflichten
     Qualitätssicherung eines Registerzensus,
 
 
-13. nach § 69a des Erneuerbare-Energien-Gesetzes zur Berechnung der
-    Bruttowertschöpfung im Verfahren zur Begrenzung der EEG-Umlage,
+13. nach § 58 des Energiefinanzierungsgesetzes zur Berechnung der
+    Bruttowertschöpfung im Verfahren der Besonderen Ausgleichsregelung,
 
 
 14. nach § 6 Absatz 3 des Wohnungslosenberichterstattungsgesetzes für die
@@ -2706,11 +2700,14 @@ Leistungsberechtigten nach § 1 des Asylbewerberleistungsgesetzes ist
 zulässig, soweit sie für die Durchführung des
 Asylbewerberleistungsgesetzes erforderlich ist.
 
-(3) Eine Übermittlung von Sozialdaten ist auch zulässig, soweit es
-nach pflichtgemäßem Ermessen eines Leistungsträgers erforderlich ist,
-dem Betreuungsgericht die Bestellung eines Betreuers oder eine andere
-Maßnahme in Betreuungssachen zu ermöglichen. § 7 des
-Betreuungsbehördengesetzes gilt entsprechend.
+(3) Eine Übermittlung von Sozialdaten ist zulässig, soweit es nach
+pflichtgemäßem Ermessen eines Leistungsträgers erforderlich ist, dem
+Betreuungsgericht die Bestellung eines Betreuers oder eine andere
+Maßnahme in Betreuungssachen zu ermöglichen. § 9 des
+Betreuungsorganisationsgesetzes gilt entsprechend. Eine Übermittlung
+von Sozialdaten ist auch zulässig, soweit sie im Einzelfall für die
+Erfüllung der Aufgaben der Betreuungsbehörden nach § 8 des
+Betreuungsorganisationsgesetzes erforderlich ist.
 
 (4) Eine Übermittlung von Sozialdaten ist außerdem zulässig, soweit
 sie im Einzelfall für die rechtmäßige Erfüllung der in der
@@ -2895,6 +2892,55 @@ ist nur zulässig, wenn
 Der Gerichtsvollzieher hat in seinem Ersuchen zu bestätigen, dass
 diese Voraussetzungen vorliegen. Das Ersuchen und die Auskunft sind
 elektronisch zu übermitteln.
+
+(3) Ersucht ein Insolvenzgericht nach § 98 Absatz 1a der
+Insolvenzordnung die Träger der gesetzlichen Rentenversicherung um
+Übermittlung des Namens und der Vornamen oder der Firma sowie der
+Anschrift der derzeitigen Arbeitgeber der betroffenen Person, so
+dürfen die Träger der gesetzlichen Rentenversicherung diese Daten
+vorbehaltlich der Sätze 2 bis 4 im Einzelfall übermitteln, wenn
+versicherungspflichtige Beschäftigungsverhältnisse der betroffenen
+Person vorliegen. Eine Übermittlung nach Satz 1 ist nur dann zulässig,
+wenn
+
+1.  eine Aufforderung zur Auskunftserteilung nach § 97 Absatz 1 der
+    Insolvenzordnung nicht zustellbar ist und
+
+    a)  die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit
+        der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2
+        der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten
+        vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+
+    b)  die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt,
+        dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+
+    c)  die Meldebehörde innerhalb von drei Monaten vor der Aufforderung zur
+        Auskunftserteilung die Auskunft erteilt hat, dass ihr keine derzeitige
+        Anschrift des Schuldners bekannt ist;
+
+
+
+
+
+2.  der Schuldner seiner Auskunftspflicht nach § 97 der Insolvenzordnung
+    nicht nachkommt oder
+
+
+3.  dies aus anderen Gründen zur Erreichung der Zwecke des
+    Insolvenzverfahrens erforderlich erscheint.
+
+
+
+Die Träger der gesetzlichen Rentenversicherung sind zur Übermittlung
+nicht verpflichtet, wenn sich das Insolvenzgericht die Angaben auf
+andere Weise beschaffen kann oder wenn Grund zu der Annahme besteht,
+dass durch die Übermittlung schutzwürdige Interessen der betroffenen
+Person beeinträchtigt werden; § 4 Absatz 3 bleibt unberührt. Das
+Insolvenzgericht hat in seinem Ersuchen zu bestätigen, dass die
+Voraussetzungen des Satzes 2 vorliegen. Das Ersuchen und die Auskunft
+sind elektronisch zu übermitteln.
 
 
 #### § 75 Übermittlung von Sozialdaten für die Forschung und Planung

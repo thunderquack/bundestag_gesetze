@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477
 
 Zuletzt geändert durch
-:   Art. 35 G v. 23.6.2021 I 1858
+:   Art. 3 G v. 19.7.2022 I 1214
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -203,8 +203,14 @@ Netzanschluss anzuwenden.
 Herstellung des Netzanschlusses soll vom Anschlussnehmer in Textform
 in Auftrag gegeben werden; auf Verlangen des Netzbetreibers ist ein
 von diesem zur Verfügung gestellter Vordruck zu verwenden. Der
-Netzbetreiber hat dem Anschlussnehmer den voraussichtlichen Zeitbedarf
-für die Herstellung des Netzanschlusses mitzuteilen.
+Netzbetreiber hat ab dem 1. Januar 2024 sicherzustellen, dass die
+Beauftragung der Herstellung des Netzanschlusses und der sich daran
+anschließende Prozess auch auf seiner Internetseite erfolgen kann. Die
+Netzbetreiber stimmen hierfür untereinander einheitliche Formate und
+Anforderungen an Inhalte ab. Der Netzbetreiber hat dem Anschlussnehmer
+unverzüglich, aber spätestens innerhalb von zehn Werktagen nach
+Beauftragung der Herstellung des Netzanschlusses den voraussichtlichen
+Zeitbedarf für die Herstellung des Netzanschlusses mitzuteilen.
 
 (2) Art, Zahl und Lage der Netzanschlüsse werden nach Beteiligung des
 Anschlussnehmers und unter Wahrung seiner berechtigten Interessen vom
@@ -321,8 +327,9 @@ Verfügung stellt. Der Netzbetreiber darf die Transformatorenanlage
 auch für andere Zwecke benutzen, soweit dies für den Anschlussnehmer
 zumutbar ist.
 
-(2) Wird der Netzanschlussverhältnis für das Grundstück beendet, so
-hat der Anschlussnehmer die Transformatorenanlage noch drei Jahre
+(2) Wird
+der              Netzanschlussverhältnis für das Grundstück beendet,
+so hat der Anschlussnehmer die Transformatorenanlage noch drei Jahre
 unentgeltlich zu dulden, es sei denn, dass ihm dies nicht zugemutet
 werden kann.
 
@@ -735,6 +742,12 @@ Elektrizitätsversorgungsnetz möglich sind. Der Anschluss von
 Eigenanlagen ist mit dem Netzbetreiber abzustimmen. Dieser kann den
 Anschluss von der Einhaltung der von ihm nach § 20 festzulegenden
 Maßnahmen zum Schutz vor Rückspannungen abhängig machen.
+
+(4) Ab dem 1. Januar 2024 hat der Netzbetreiber sicherzustellen, dass
+die nach den Absätzen 2 und 3 erforderlichen Mitteilungen des
+Anschlussnehmers oder -nutzers auch auf seiner Internetseite erfolgen
+können. Die Netzbetreiber stimmen hierfür untereinander einheitliche
+Formate und Anforderungen an Inhalte ab.
 
 
 #### § 20 Technische Anschlussbedingungen

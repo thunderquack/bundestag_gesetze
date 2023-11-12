@@ -16,25 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 6 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 7 Abs. 13 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 8.10.2023 I Nr. 272
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
@@ -86,8 +68,8 @@ Bundesanstalt wird im Wege der Organleihe für das Bundesministerium
 der Finanzen im Rahmen der ihm nach den Vorschriften der
 Anstaltssatzung obliegenden Aufsicht über die Versorgungsanstalt des
 Bundes und der Länder tätig. Das Nähere einschließlich des Beginns der
-Organleihe wird im Einvernehmen mit dem Bundesministerium des Innern,
-für Bau und Heimat in einer Verwaltungsvereinbarung zwischen dem
+Organleihe wird im Einvernehmen mit dem Bundesministerium des Innern
+und für Heimat in einer Verwaltungsvereinbarung zwischen dem
 Bundesministerium der Finanzen und der Bundesanstalt geregelt. Die
 Bundesanstalt nimmt außerdem die Aufgaben der Abwicklungsbehörde nach
 § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie die ihr auf
@@ -171,12 +153,12 @@ Bundesministerium im Benehmen mit der Deutschen Bundesbank.
 ### § 4b Beschwerden
 
 (1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht
-der Bundesanstalt unterliegen, und qualifizierte Einrichtungen nach §
-3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können
-wegen behaupteter Verstöße gegen Bestimmungen, deren Einhaltung die
-Bundesanstalt überwacht, Beschwerde bei der Bundesanstalt einlegen,
-sofern im jeweiligen Aufsichtsgesetz kein spezielles
-Beschwerdeverfahren vorgesehen ist.
+der Bundesanstalt unterliegen, und Stellen nach § 3 Absatz 1 Satz 1
+Nummer 1 des Unterlassungsklagengesetzes können wegen behaupteter
+Verstöße gegen Bestimmungen, deren Einhaltung die Bundesanstalt
+überwacht, Beschwerde bei der Bundesanstalt einlegen, sofern im
+jeweiligen Aufsichtsgesetz kein spezielles Beschwerdeverfahren
+vorgesehen ist.
 
 (2) Die Beschwerden sind in Schrift- oder Textform bei der
 Bundesanstalt einzulegen und sollen den Sachverhalt sowie den
@@ -215,66 +197,15 @@ ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder
 Verstöße dagegen zu ahnden. Die Meldungen können auch anonym abgegeben
 werden.
 
-(2) (weggefallen)
-
-(3) Die Bundesanstalt macht die Identität einer Person, die eine
-Meldung erstattet hat, nicht bekannt, ohne zuvor die ausdrückliche
-Einwilligung dieser Person eingeholt zu haben. Ferner gibt die
-Bundesanstalt die Identität einer Person, die Gegenstand einer Meldung
-ist, nicht preis. Die Sätze 1 und 2 gelten nicht, wenn eine Weitergabe
-der Information im Kontext weiterer Ermittlungen oder nachfolgender
-Verwaltungs- oder Gerichtsverfahren auf Grund eines Gesetzes
-erforderlich ist oder wenn die Offenlegung durch einen
-Gerichtsbeschluss oder in einem Gerichtsverfahren angeordnet wird.
-
-(4) Die Bundesanstalt berichtet in ihrem Jahresbericht in abgekürzter
-oder zusammengefasster Form über die eingegangenen Meldungen. Der
-Bericht lässt keine Rückschlüsse auf die beteiligten Personen oder
-Unternehmen zu.
-
-(5) Das Informationsfreiheitsgesetz findet auf die Vorgänge nach dem
-Hinweisgeberverfahren keine Anwendung.
-
-(6) Mitarbeiter, die bei Unternehmen und Personen beschäftigt sind,
-die von der Bundesanstalt beaufsichtigt werden, oder bei anderen
-Unternehmen oder Personen beschäftigt sind, auf die Tätigkeiten von
-beaufsichtigten Unternehmen oder Personen ausgelagert wurden, und die
-eine Meldung nach Absatz 1 abgeben, dürfen wegen dieser Meldung weder
-nach arbeitsrechtlichen oder strafrechtlichen Vorschriften
-verantwortlich gemacht noch zum Ersatz von Schäden herangezogen
-werden, es sei denn, die Meldung ist vorsätzlich oder grob fahrlässig
-unwahr abgegeben worden.
-
-(7) Die Berechtigung zur Abgabe von Meldungen nach Absatz 1 durch
-Mitarbeiter, die bei Unternehmen und Personen beschäftigt sind, die
-von der Bundesanstalt beaufsichtigt werden oder bei anderen
-Unternehmen oder Personen beschäftigt sind, auf die Tätigkeiten von
-beaufsichtigten Unternehmen oder Personen ausgelagert wurden, darf
-vertraglich nicht eingeschränkt werden. Entgegenstehende
-Vereinbarungen sind unwirksam.
-
-(8) Die Rechte einer Person, die Gegenstand einer Meldung ist,
-insbesondere die Rechte nach den §§ 28 und 29 des
-Verwaltungsverfahrensgesetzes, nach den §§ 68 bis 71 der
-Verwaltungsgerichtsordnung und nach den §§ 137, 140, 141 und 147 der
-Strafprozessordnung werden durch die Einrichtung des Systems zur
-Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
-
-(9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
-über Inhalt, Art, Umfang und Form der Meldung von Verstößen gegen
-Vorschriften der Verordnung (EU) Nr. 596/2014 des Europäischen
-Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
-(Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
-2003/6/EG des Europäischen Parlaments und des Rates und der
-Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
-(ABl. L 173 vom 12.6.2014, S. 1) sowie gegen sonstige Gesetze,
-Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften
-sowie Verordnungen und Richtlinien der Europäischen Union nach Absatz
-1, zur Konkretisierung des auf Grundlage von Artikel 32 Absatz 5 der
-Verordnung (EU) Nr. 596/2014 erlassenen Durchführungsrechtsakts der
-Europäischen Kommission erlassen. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+über Inhalt, Art, Umfang und Form der Meldung von Verstößen, für die
+die Bundesanstalt nach Absatz 1 und § 21 des
+Hinweisgeberschutzgesetzes zuständig ist, einschließlich der von
+Absatz 1 erfassten Rechtsverordnungen, Allgemeinverfügungen und
+sonstigen Vorschriften sowie Verordnungen und Richtlinien der
+Europäischen Union, erlassen. Das Bundesministerium der Finanzen kann
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 übertragen.
 
 
@@ -403,6 +334,36 @@ Kommunikationsverfahren nach Satz 2 gilt § 437 der Zivilprozessordnung
 entsprechend.
 
 
+### § 4h Bekanntgabe und Zustellung im Ausland
+
+(1) Die Bundesanstalt kann abweichend von § 41 des
+Verwaltungsverfahrensgesetzes Verwaltungsakte, die gegenüber einer
+Person mit Wohnsitz oder einem Unternehmen mit Sitz außerhalb des
+Geltungsbereichs dieses Gesetzes ergehen, und für die kein
+Bevollmächtigter mit Sitz im Inland benannt wurde, durch öffentliche
+Bekanntmachung im Bundesanzeiger bekanntgeben. In diesem Fall gilt ein
+Verwaltungsakt am Tage nach der Bekanntmachung als bekannt gegeben.
+
+(2) Ist der Verwaltungsakt zuzustellen, so kann die Bundesanstalt
+abweichend von § 10 des Verwaltungszustellungsgesetzes die Zustellung
+bei Personen mit Wohnsitz oder Unternehmen mit Sitz außerhalb des
+Geltungsbereichs dieses Gesetzes, für die kein Bevollmächtigter mit
+Sitz im Inland benannt wurde, durch öffentliche Bekanntmachung im
+Bundesanzeiger vornehmen. Absatz 1 Satz 2 gilt entsprechend.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für eine Anhörung nach §
+28 des Verwaltungsverfahrensgesetzes.
+
+
+### § 4i Absehen von einer Anhörung
+
+Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die
+Erteilung von Auskünften und die Vorlage von Unterlagen verlangen,
+ohne dass dem Adressaten zuvor nach § 28 Absatz 1 des
+Verwaltungsverfahrensgesetzes Gelegenheit gegeben werden muss, sich zu
+den für die Entscheidung erheblichen Tatsachen zu äußern.
+
+
 ## Zweiter Abschnitt - Organisation
 
 
@@ -493,17 +454,20 @@ Aufgabenbereiche zu berichten.
 
 2.  folgenden 14 weiteren Mitgliedern:
 
-    a)  einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
+    a)  einem Vertreter des Bundesministeriums für Wirtschaft und Klimaschutz,
 
 
-    b)  zwei Vertretern des Bundesministeriums der Justiz und für
-        Verbraucherschutz,
+    b)  einem Vertreter des Bundesministeriums der Justiz,
 
 
-    c)  fünf Mitgliedern des Deutschen Bundestages und
+    c)  einem Vertreter des Bundesministeriums für Umwelt, Naturschutz,
+        nukleare Sicherheit und Verbraucherschutz,
 
 
-    d)  sechs Personen mit beruflicher Erfahrung oder besonderen Kenntnissen
+    d)  fünf Mitgliedern des Deutschen Bundestages und
+
+
+    e)  sechs Personen mit beruflicher Erfahrung oder besonderen Kenntnissen
         auf dem Gebiet des Kredit-, Finanzdienstleistungs-, Zahlungsdienste-,
         Investment-, Versicherungs-, Wertpapier- oder Bilanzwesens, die jedoch
         nicht der Bundesanstalt angehören dürfen.
@@ -528,15 +492,15 @@ Vorsitzenden, seines Stellvertreters oder des weiteren Mitglieds des
 Verwaltungsrats nach Absatz 3 Satz 1 Nummer 1 bestellt das
 Bundesministerium der Finanzen zwei weitere stellvertretende
 Mitglieder des Verwaltungsrats. Für jedes Mitglied des Verwaltungsrats
-nach Absatz 3 Satz 1 Nummer 2 Buchstabe a bis c ist für den Fall
+nach Absatz 3 Satz 1 Nummer 2 Buchstabe a bis d ist für den Fall
 seiner Verhinderung ein Stellvertreter zu benennen und durch das
 Bundesministerium zu bestellen. Die Mitglieder des Verwaltungsrats
 müssen die Voraussetzungen für die Wählbarkeit zum Deutschen Bundestag
 erfüllen. Vor Bestellung der Mitglieder nach Absatz 3 Satz 1 Nummer 2
-Buchstabe d sind die Verbände der Kredit- und Versicherungswirtschaft
+Buchstabe e sind die Verbände der Kredit- und Versicherungswirtschaft
 sowie der Kapitalverwaltungsgesellschaften anzuhören. Für drei dieser
 Mitglieder können die Verbände namentliche Vorschläge unterbreiten,
-die die Voraussetzungen des Absatzes 3 Satz 1 Nummer 2 Buchstabe d
+die die Voraussetzungen des Absatz 3 Satz 1 Nummer 2 Buchstabe e
 erfüllen müssen.
 
 (6) Die Abgeordneten des Deutschen Bundestages werden vom Deutschen
@@ -586,8 +550,9 @@ Aufsichtsaufgaben.
 Mitglieder des Verbraucherbeirats werden durch das Bundesministerium
 bestellt. Im Verbraucherbeirat sollen die Wissenschaft, Verbraucher-
 und Anlegerschutzorganisationen, Mitarbeiter außergerichtlicher
-Streitschlichtungssysteme sowie das Bundesministerium der Justiz und
-für Verbraucherschutz angemessen vertreten sein.
+Streitschlichtungssysteme sowie das Bundesministerium für Umwelt,
+Naturschutz, nukleare Sicherheit und Verbraucherschutz angemessen
+vertreten sein.
 
 (3) Der Verbraucherbeirat wählt aus seinem Kreis einen Vorsitzenden.
 Der Verbraucherbeirat gibt sich eine Geschäftsordnung.
@@ -719,7 +684,7 @@ des Bundesbesoldungsgesetzes.
 
 (2) Die Bundesanstalt kann den Tarifbeschäftigten der Bundesanstalt
 mit Zustimmung des Bundesministeriums der Finanzen und des
-Bundesministeriums des Innern, für Bau und Heimat außertariflich eine
+Bundesministeriums des Innern und für Heimat außertariflich eine
 entsprechende Zulage gewähren.
 
 
@@ -1045,7 +1010,13 @@ registerführenden Unternehmen, in den Fällen der Nummer 6 von den in §
 Unternehmen, in den Fällen der Nummer 8 von den betroffenen
 Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im
 Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt
-gesondert zu erstatten.
+gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die
+Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und
+anderen Behörden, die im Rahmen solcher Maßnahmen für die
+Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im
+Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im
+Auftrag der Europäischen Zentralbank tätig werden, belastet wird,
+sowie die Kosten für den Einsatz eigener Mitarbeiter.
 
 (2) Die Bundesanstalt hat der Deutschen Bundesbank und den anderen
 Behörden, die im Rahmen des Absatzes 1 für sie oder im Rahmen des
@@ -2490,11 +2461,10 @@ die Höhe der Säumniszuschläge und die Beitreibung sowie den
 Differenzausgleich zwischen Umlagevorauszahlung und Umlagefestsetzung,
 auch in Bezug auf Vorschusszahlungen gemäß § 342d Abs. 1 Satz 3 des
 Handelsgesetzbuchs, bestimmt das Bundesministerium einvernehmlich mit
-dem Bundesministerium der Justiz und für Verbraucherschutz durch
-Rechtsverordnung. Die Rechtsverordnung kann auch Regelungen über die
-vorläufige Festsetzung des Umlagebetrags vorsehen. Das
-Bundesministerium kann die Ermächtigung mit Zustimmung des
-Bundesministeriums der Justiz und für Verbraucherschutz durch
+dem Bundesministerium der Justiz durch Rechtsverordnung. Die
+Rechtsverordnung kann auch Regelungen über die vorläufige Festsetzung
+des Umlagebetrags vorsehen. Das Bundesministerium kann die
+Ermächtigung mit Zustimmung des Bundesministeriums der Justiz durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (4) Bei erstmaliger Erhebung der Umlage sind auch die Kosten zu
@@ -2623,7 +2593,7 @@ Maßgaben:
     persönliche Zulage gewährt. Einzelheiten der Ausgestaltung, Berechnung
     und grundsätzlichen Abschmelzung dieser übertariflichen Zulage werden
     in einer gesonderten Regelung des Bundesministeriums der Finanzen, die
-    der Einwilligung des Bundesministeriums des Innern, für Bau und Heimat
+    der Einwilligung des Bundesministeriums des Innern und für Heimat
     bedarf, festgelegt. Im Falle einer Berufung in das Beamtenverhältnis
     entfällt der Anspruch eines Beschäftigten auf Gewährung der Zulage.
 
@@ -2731,8 +2701,8 @@ Maßgaben:
     eine persönliche Zulage gewährt. Einzelheiten der Ausgestaltung,
     Berechnung und grundsätzlichen Abschmelzung dieser übertariflichen
     Zulage werden in einer gesonderten Regelung des Bundesministeriums der
-    Finanzen, die der Einwilligung des Bundesministeriums des Innern, für
-    Bau und Heimat bedarf, festgelegt. Im Falle einer Berufung in das
+    Finanzen, die der Einwilligung des Bundesministeriums des Innern und
+    für Heimat bedarf, festgelegt. Im Falle einer Berufung in das
     Beamtenverhältnis entfällt der Anspruch eines Beschäftigten auf
     Gewährung der Zulage.
 

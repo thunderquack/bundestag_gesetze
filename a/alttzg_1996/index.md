@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1078
 
 Zuletzt geändert durch
-:   Art. 22 G v. 12.12.2019 I 2652
-
-Mittelbare änderung durch
-:   Art. 89 Nr. 2 G v. 20.8.2021 I 3932 ist berücksichtigt
+:   Art. 12 Abs. 16 G v. 16.12.2022
 
 
 ## § 1 Grundsatz
@@ -65,8 +62,9 @@ durch die Bundesagentur nach § 4 gefördert wird.
     Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
     oder der Schweiz gestanden haben. Zeiten mit Anspruch auf
     Arbeitslosengeld oder Arbeitslosenhilfe, Zeiten des Bezuges von
-    Arbeitslosengeld II sowie Zeiten, in denen Versicherungspflicht nach §
-    26 Abs. 2 des Dritten Buches Sozialgesetzbuch bestand, stehen der
+    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    Sozialgesetzbuch sowie Zeiten, in denen Versicherungspflicht nach § 26
+    Abs. 2 des Dritten Buches Sozialgesetzbuch bestand, stehen der
     versicherungspflichtigen Beschäftigung gleich.
 
 
@@ -152,15 +150,15 @@ Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
     Altersteilzeitarbeit
 
     a)  einen bei einer Agentur für Arbeit arbeitslos gemeldeten Arbeitnehmer,
-        einen Bezieher von Arbeitslosengeld II oder einen Arbeitnehmer nach
-        Abschluss der Ausbildung auf dem freigemachten oder auf einem in
-        diesem Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz
-        versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch
-        beschäftigt; bei Arbeitgebern, die in der Regel nicht mehr als 50
-        Arbeitnehmer beschäftigen, wird unwiderleglich vermutet, dass der
-        Arbeitnehmer auf dem freigemachten oder auf einem in diesem
-        Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz beschäftigt
-        wird, oder
+        einen Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
+        Buches Sozialgesetzbuch oder einen Arbeitnehmer nach Abschluss der
+        Ausbildung auf dem freigemachten oder auf einem in diesem Zusammenhang
+        durch Umsetzung frei gewordenen Arbeitsplatz versicherungspflichtig im
+        Sinne des Dritten Buches Sozialgesetzbuch beschäftigt; bei
+        Arbeitgebern, die in der Regel nicht mehr als 50 Arbeitnehmer
+        beschäftigen, wird unwiderleglich vermutet, dass der Arbeitnehmer auf
+        dem freigemachten oder auf einem in diesem Zusammenhang durch
+        Umsetzung frei gewordenen Arbeitsplatz beschäftigt wird, oder
 
 
     b)  einen Auszubildenden versicherungspflichtig im Sinne des Dritten
@@ -716,6 +714,33 @@ Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als
 versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember
 2012 geltenden Voraussetzungen für das Vorliegen einer
 versicherungspflichtigen Beschäftigung weiterhin erfüllen.
+
+
+## § 15j Übergangsregelungen zum Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+Erhöht sich durch eine Anpassung des Mindestlohnes die
+Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches
+Sozialgesetzbuch, so gilt eine Person, die mit der Altersteilzeit vor
+der Anhebung des Mindestlohnes begonnen hat, weiterhin als
+versicherungspflichtig beschäftigt, wenn
+
+1.  sie bis zu dem Tag, an dem die Anhebung des Mindestlohnes in Kraft
+    tritt, in einer versicherungspflichtigen Beschäftigung gestanden hat,
+
+
+2.  sie die Voraussetzungen für eine versicherungspflichtige Beschäftigung
+    nach der Anhebung des Mindestlohnes nicht mehr erfüllt und
+
+
+3.  die am Tag vor dem Inkrafttreten der Anhebung des Mindestlohnes
+    geltenden Voraussetzungen für eine versicherungspflichtige
+    Beschäftigung weiterhin vorliegen.
+
+
+
+Mindestlohn ist der Mindestlohn nach § 1 Absatz 2 Satz 1 des
+Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11
+Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung.
 
 
 ## § 16 Befristung der Förderungsfähigkeit

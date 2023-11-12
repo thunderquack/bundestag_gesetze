@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl II: 1997, 1670 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 3 iVm Anlage 2 V v. 15.9.2020 II 699
+:   Art. 3 iVm Anlage 4 V v. 16.2.2022 II 82
 
 Änderung durch
-:   Art. 4 iVm Anlage 5 bis 10 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 iVm Anlage 4 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
+:   Art. 3 iVm Anlage 7 bis 10 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -93,12 +90,19 @@ Zuletzt geändert durch
 
 *    *   § 1.10
 
-    *   Mitführen von Urkunden und sonstigen Unterlagen
+    *   Mitführen von Urkunden und sonstigen Unterlagen an Bord
+
+
+*    *   § 1.10a
+
+    *   Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige
+        Unterlagen an Bord
 
 
 *    *   § 1.11
 
-    *   Mitführen der Moselschifffahrtspolizeiverordnung
+    *   Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs
+        Binnenschifffahrtsfunk an Bord
 
 
 *    *   § 1.12
@@ -255,7 +259,7 @@ Zuletzt geändert durch
 
 *    *   § 3.02
 
-    *   Lichter und Signalleuchten
+    *   Lichter
 
 
 *    *   § 3.03
@@ -1101,16 +1105,22 @@ Zuletzt geändert durch
     *   Muster für das Ölkontrollbuch
 
 
-*    *   Anlage 11
+*    *   Anlage 11:
 
     *   Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen
         „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf
         dem Fahrzeug
 
 
-*    *   Anlage 12
+*    *   Anlage 12:
 
     *   Verzeichnis der Fahrzeug- und Verbandsarten
+
+
+*    *   Anlage 13:
+
+    *   Verzeichnis der mitzuführenden Urkunden und sonstigen Unterlagen nach
+        § 1.10 MoselSchPV
 
 
 
@@ -1327,8 +1337,8 @@ aa) "ADN":
 
 
 ab) „Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und
-    im Sinne des Standards „Schiffsverfolgung und Aufspürung in der
-    Binnenschifffahrt“ (ZKR-Beschluss 2006-I-21) genutzt wird;
+    im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und
+    Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
 
 
 ac) „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG)
@@ -1356,19 +1366,23 @@ ag) „Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter,
     oder Figuren auszuführen;
 
 
-aj) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
-    Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss
-    für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt
-    (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter
-    Mitgliedstaat ein Moseluferstaat zu verstehen.
-
-
 ah) „Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen
     gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
 
 
 ai) „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die
     Übernachtung von Fahrgästen;
+
+
+aj) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
+    Binnenschiffe Ausgabe 2021/1. Bei der Anwendung des ES-TRIN ist unter
+    Mitgliedstaat ein Moseluferstaat zu verstehen;
+
+
+ak) „ES-RIS“ der Europäische Standard für
+    Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der
+    Anwendung des ES-RIS ist unter Mitgliedstaat ein Moseluferstaat zu
+    verstehen.
 
 
 
@@ -1458,18 +1472,19 @@ ai) „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die
     Verordnungen und Anordnungen verantwortlich.
 
 
-4.  Die Mitglieder der diensttuenden Besatzung nach § 1.08 Nr. 3 in
-    Verbindung mit Nr. 2 und sonstige Personen an Bord, die vorübergehend
-    selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen,
+4.  Die Fähigkeiten der diensttuenden Mitglieder der Mindestbesatzung
     dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten,
     Drogen oder aus einem anderen Grund beeinträchtigt sein.
 
-    Bei einer Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder
-    bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
-    einer Alkoholmenge im Körper, die zu einer solchen Atem- oder
-    Blutalkoholkonzentration führt, ist es den in Satz 1 genannten
-    Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu
-    bestimmen.
+    Bei einer Blutalkoholkonzentration von 0,5 oder mehr Promille oder
+    einer Alkoholmenge im Körper, die zu einer solchen
+    Blutalkoholkonzentration führt, oder bei einer Menge von 0,25 mg/l
+    oder mehr Alkohol in der Atemluft ist es den Mitgliedern der
+    Mindestbesatzung verboten, ihren Dienst zu verrichten.
+
+    Die Sätze 1 und 2 gelten entsprechend auch für sonstige Personen an
+    Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit
+    des Fahrzeugs bestimmen.
 
 
 
@@ -1719,207 +1734,90 @@ zu erwarten ist.
 
 
 
-#### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen
+#### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen an Bord
 
 
-1.  Folgende Urkunden und sonstige Unterlagen müssen sich, soweit sie auf
-    Grund besonderer Bestimmungen vorgeschrieben sind, an Bord befinden:
+1.  Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung
+    müssen sich, soweit sie auf Grund besonderer Bestimmungen
+    vorgeschrieben sind, an Bord befinden. Sie sind auf Verlangen den
+    Bediensteten der zuständigen Behörden auszuhändigen.
 
-    a)  das Schiffsattest oder die als Ersatz zugelassene Urkunde,
 
+2.  Bestimmte Urkunden und sonstige Unterlagen nach Anlage 13 dieser
+    Verordnung dürfen gemäß den Bedingungen nach Anlage 13 dieser
+    Verordnung in einer jederzeit lesbaren elektronischen Textfassung zur
+    Verfügung gestellt werden.
 
-    b)  das Schifferpatent des Schiffsführers oder eine als Ersatz zugelassene
-        Urkunde und, für die anderen Mitglieder der Besatzung das
-        ordnungsgemäß ausgefüllte Schifferdienstbuch oder das
-        Rheinschifferpatent oder eine als Ersatz zugelassene Urkunde,
 
 
-    c)  das ordnungsgemäß ausgefüllte Bordbuch einschließlich der
-        Bescheinigung nach Anlage A4 der Verordnung über das Schiffspersonal
-        auf dem Rhein oder einer Kopie der Seite mit den Eintragungen der
-        Fahr- beziehungsweise Ruhezeiten aus dem Bordbuch des Schiffes, auf
-        dem die letzte Reise des Besatzungsmitgliedes stattgefunden hat, oder
-        die als Ersatz zugelassene Urkunde,
 
 
-    d)  die Bescheinigung über die Ausgabe der Bordbücher,
+#### § 1.10a Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord
 
 
-    e)  die Bescheinigung über das Vorschleusungsrecht,
-
-
-    f)  der Eichschein des Fahrzeugs,
-
-
-    g)  die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie
-        die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers,
-
-
-    h)  das Radarpatent oder ein gleichwertiges Zeugnis; diese Dokumente sind
-        an Bord nicht erforderlich, wenn die Rheinpatentkarte die Eintragung
-        "Radar" oder das gleichwertige Zeugnis des Schiffsführers die
-        entsprechende Eintragung enthält,
-
-
-    i)  die nach Artikel 7.06 Nummer 1 ES-TRIN erforderliche Bescheinigung
-        über Einbau und Funktion von Radaranlage und Wendeanzeiger,
-
-
-    k)  ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk gemäß Anhang 5
-        der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
-
-
-    l)  die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
-
-
-    m)  das Handbuch Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler
-        Teil Rhein/Mosel,
-
-
-    n)  das ordnungsgemäß ausgefüllte Ölkontrollbuch,
-
-
-    o)  die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter,
-
-
-    p)  die Bescheinigung für Flüssiggasanlagen,
-
-
-    q)  die Unterlagen über elektrische Anlagen,
-
-
-    r)  die Prüfbescheinigungen über tragbare Feuerlöscher und fest
-        installierte Feuerlöschanlagen,
-
-
-    s)  eine Prüfbescheinigung über Krane,
-
-
-    t)  die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3
-        erforderlichen Urkunden,
-
-
-    u)  bei Containerbeförderung die von einer Schiffsuntersuchungskommission
-        geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich Stauplan
-        oder Ladungsliste für den jeweiligen Beladungsfall und das Ergebnis
-        der Stabilitätsberechnung für den jeweiligen, einen früheren
-        vergleichbaren oder einen standardisierten Beladungsfall jeweils unter
-        Angabe des verwendeten Berechnungsverfahrens,
-
-
-    v)  die Bescheinigung über Dauer und örtliche Begrenzung der Baustelle,
-        auf der das Baustellenfahrzeug eingesetzt werden darf,
-
-
-    w)  der Ausweis über das Kennzeichen für Kleinfahrzeuge,
-
-
-    x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung oder
-        anderen gleichwertigen Vorschriften der Moseluferstaaten
-        erforderlichen Kopien des Typgenehmigungsbogens und des
-        Motorparameterprotokolls eines jeden Motors,
-
-
-    y)  die Bescheinigung für die nach Artikel 13.02 Nummer 3 Buchstabe a ES-
-        TRIN vorgeschriebenen Drahtseile,
-
-
-    z)  der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen
-        Fahrgastschiffe, in Artikel 28.04 Nummer 2 Buchstabe c ES-TRIN
-        geforderte Nachweis,
-
-
-    aa) die von den für den jeweiligen Stromabschnitt zuständigen Behörden
-        erteilten und am 31. Dezember 2009 gültigen Sondererlaubnisse für
-        Fahrzeuge über 110,00 m bis 135,00 m Länge, die nicht die Bedingungen
-        des § 8.01 Nummer 2 oder Nummer 3 erfüllen, sowie die Sondererlaubnis
-        nach § 8.01 Nummer 5.
-
-
-    ab) Bezugsnachweis für Gasöl nach Anlage 2 Teil A Artikel 3.04 Absatz 1
-        des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen
-        in der Rhein- und Binnenschifffahrt (CDNI), einschließlich der
-        Quittungen für die Entgelttransaktionen des SPE-CDNI über einen
-        Zeitraum von mindestens 12 Monaten. Liegt der letzte Bezug von Gasöl
-        mehr als 12 Monate zurück, so ist mindestens der letzte Bezugsnachweis
-        mitzuführen;
-
-
-    ac) die Entladebescheinigung nach § 11.08 Nummer 2,
-
-
-    ad) bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage
-        8 Nummer 1.4.9 ES-TRIN vorgeschriebene Betriebshandbuch und die in
-        Artikel 30.03 Nummer 1 ES-TRIN vorgeschriebene Sicherheitsrolle,
-
-
-    ae) bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, die in § 4a.02
-        der Verordnung über das Schiffspersonal auf dem Rhein vorgeschriebenen
-        Bescheinigungen des Schiffsführers und der Besatzungsmitglieder, die
-        am Bunkervorgang beteiligt sind.
-
-
-
-
-
-2.  Die Schiffspapiere nach Nummer 1 Buchstabe a, e und f müssen jedoch
-    nicht mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel
-    nach folgendem Muster angebracht ist:
-
-    *        *   EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER: ..........
-            SCHIFFSATTEST, GEMEINSCHAFTSZEUGNIS (oder die als Ersatz zugelassene
-            Urkunde):
-            – Nummer: ..........
-            – SUK (oder Behörde, die die als Ersatz zugelassene Urkunde
-            ausgestellt hat): ..........
-            – Gültig bis: ..........
-
-
-
+1.  Abweichend von § 1.10 müssen die Schiffspapiere nach Anlage 13 Nummer
+    1\.1 und 1.2 dieser Verordnung nicht mitgeführt werden auf
+    Schubleichtern, auf denen eine Metalltafel nach folgendem Muster
+    angebracht ist:
+    EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER:
+    SCHIFFSATTEST
+    – NUMMER:
+    – SUK:
+    – GÜLTIG BIS:
     Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren
     Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt
-    sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein.
-    Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite
-    des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf
-    der Metalltafel mit denen im Schiffsattest oder Gemeinschaftszeugnis
-    des Schubleichters oder der als Ersatz zugelassenen Urkunde muss von
-    einer Schiffsuntersuchungskommission oder durch die Behörde, die die
-    als Ersatz zugelassene Urkunde ausgestellt hat, dadurch bestätigt
-    sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die
-    Schiffspapiere nach Nummer 1 Buchstabe a, e und f muss der Eigentümer
-    des Schubleichters aufbewahren. Auf die Mitführung der Schiffspapiere
-    nach Nummer 1 Buchstabe x kann verzichtet werden, wenn zusätzlich die
-    Typgenehmigungsnummer nach Anlage J Teil I Nummer 1.1.3 der
-    Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen
-    Vorschriften der Moseluferstaaten auf der Metalltafel angebracht ist.
+    sein.
+    Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie
+    muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des
+    Schubleichters befestigt sein.
+    Die Übereinstimmung der Angaben auf der Metalltafel mit denen im
+    Schiffsattest des Schubleichters muss von einer
+    Schiffsuntersuchungskommission dadurch bestätigt sein, dass ihr
+    Zeichen auf der Metalltafel eingeschlagen ist.
+    Die Schiffspapiere nach Anlage 13 Nummer 1.1 und 1.2 dieser Verordnung
+    muss der Eigentümer des Schubleiters aufbewahren.
+    Auf die Mitführung der Schiffspapiere nach Anlage 13 Nummer 5.4 dieser
+    Verordnung kann verzichtet werden, wenn zusätzlich die
+    Typgenehmigungsnummer der Motoren auf der Metalltafel angebracht ist.
 
 
-
-
-3.  Auf Baustellenfahrzeugen nach Artikel 1.01 Nummer 1.24 ES-TRIN, auf
+2.  Auf Baustellenfahrzeugen nach Artikel 1.01 Nummer 1.23 ES-TRIN, auf
     denen weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen
-    die Schiffspapiere nach Nummer 1 Buchstabe a und f nicht an Bord
-    mitgeführt zu werden; diese müssen jedoch jederzeit im Bereich der
-    Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine
+    die Schiffspapiere nach Anlage 13 Nummer 1.1 und 1.2 dieser Verordnung
+    nicht an Bord mitgeführt zu werden; diese müssen jedoch jederzeit im
+    Bereich der Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine
     Bescheinigung der zuständigen Behörde über Dauer und örtliche
     Begrenzung der Baustelle, auf der das Fahrzeug eingesetzt werden darf,
     an Bord mitführen.
 
 
-4.  Die Urkunden und sonstigen Unterlagen nach Nummer 1 sind auf Verlangen
-    den Bediensteten der zuständigen Behörden auszuhändigen.
+3.  Von der Pflicht, ein Bordbuch nach Anlage 13 Nummer 2.2 dieser
+    Verordnung mitzuführen, sind Schlepp- und Schubboote, die nur in Häfen
+    verkehren, sowie unbemannte Schubleichter, Behördenfahrzeuge und
+    Sportfahrzeuge ausgenommen.
 
 
 
 
 
-#### § 1.11 Mitführen der Moselschifffahrtspolizeiverordnung
+#### § 1.11 Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord
 
-An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und
-Schubleichter, muss sich ein Abdruck dieser Verordnung, in ihrer
-jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach
-§ 1.22a befinden. Es darf auch eine auf elektronischem Wege jederzeit
-lesbare Textfassung sein.
+
+1.  An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und
+    Schubleichter, muss sich ein Abdruck dieser Verordnung, in ihrer
+    jeweils geltenden Fassung, einschließlich der Rechtsverordnungen nach
+    § 1.22a, befinden. Es darf auch eine auf elektronischem Wege jederzeit
+    lesbare Textfassung sein.
+
+
+2.  An Bord eines jeden Fahrzeugs, das mit einer Schiffsfunkstelle nach §
+    4\.05 ausgerüstet ist, muss sich ein Abdruck des Handbuchs
+    Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil
+    Rhein/Mosel, befinden. Es darf auch eine auf elektronischem Wege
+    jederzeit lesbare Textfassung sein.
+
+
+
 
 
 #### § 1.12 Gefährdung durch Gegenstände an Bord, Verlust von Gegenständen, Schiffahrtshindernisse
@@ -2035,10 +1933,10 @@ nächsten zuständigen Behörde mitteilen.
 
 
 2.  Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder
-    Schwimmkörpers muß so bald wie möglich für die Benachrichtigung der
-    nächsten zuständigen Behörde sorgen. Er oder ein anderes Mitglied der
-    Besatzung muß an Bord oder in der Nähe der Unfallstelle bleiben, bis
-    die zuständige Behörde ihm gestattet, sich zu entfernen.
+    Schwimmkörpers muss unverzüglich für die Benachrichtigung der nächsten
+    zuständigen Behörde sorgen. Er oder ein anderes Mitglied der Besatzung
+    muss an Bord oder in der Nähe der Unfallstelle bleiben, bis die
+    zuständige Behörde ihm gestattet, sich zu entfernen.
 
 
 3.  Sofern es nicht offensichtlich unnötig ist, muß der Schiffsführer
@@ -2262,6 +2160,9 @@ Behörde mit Auflagen und Bedingungen versehen werden.
         Landes und der Ausgabestelle dieser einheitlichen europäischen
         Schiffsnummer. Die einheitliche europäische Schiffsnummer ist nach den
         unter Buchstabe a aufgeführten Bedingungen anzubringen.
+
+
+    d)  (weggefallen)
 
 
 
@@ -2504,42 +2405,26 @@ Begriffsbestimmungen und Anwendungen
 
 
 
-##### § 3.02 Lichter und Signalleuchten
+##### § 3.02 Lichter
 
 
-1.  Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung
-    vorgeschriebenen Lichter von allen Seiten sichtbar sein und ein
-    gleichmäßiges, ununterbrochenes Licht werfen.
+1.  Soweit nichts anderes bestimmt ist, müssen die Lichter von allen
+    Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht
+    werfen.
 
 
-2.  Es dürfen nur Signalleuchten verwendet werden,
-
-    a)  deren Gehäuse und Zubehör das Zulassungskennzeichen tragen, das nach
-        der Richtlinie 96/98/EG des Rates vom 20. Dezember 1996 über
-        Schiffsausrüstung (ABl. L 46 vom 17.2.1997, S. 25), die zuletzt durch
-        die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14)
-        geändert worden ist, vorgeschrieben ist, und
+2.  Signalleuchten, ihre Gehäuse und ihr Zubehör müssen den Vorschriften
+    des Artikels 7.05 Nummer 1 ES-TRIN entsprechen.
 
 
-    b)  deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den
-        Bestimmungen dieser Verordnung entsprechen.
+3.  Lichter müssen in horizontaler Ausstrahlung, Farbe und Stärke den
+    Anforderungen dieser Verordnung entsprechen.
 
 
-
-    Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen den
-    Anforderungen der am 30. November 2009 geltenden
-    Rheinschifffahrtspolizeiverordnung oder der Richtlinie 2006/87/EG des
-    Europäischen Parlaments und des Rates vom 12. Dezember 2006 über die
-    technischen Vorschriften für Binnenschiffe und zur Aufhebung der
-    Richtlinie 82/714/EWG des Rates (ABl. L 389 vom 30.12.2006, S. 1), die
-    zuletzt durch die Richtlinie 2009/46/EG (ABl. L 109 vom 30.4.2009, S.
-    14) geändert worden ist, entsprechen, dürfen weiterhin verwendet
-    werden.
-
-
-3.  Die Nachtbezeichnung stilliegender nicht motorisierter Fahrzeuge
-    braucht nicht Nummer 2 zu entsprechen; sie muß jedoch bei klarer Sicht
-    und dunklem Hintergrund eine Tragweite von etwa 1 000,00 m haben.
+4.  Die Nachtbezeichnung stillliegender, nicht motorisierter Fahrzeuge
+    braucht nicht den Nummern 2 und 3 zu entsprechen; sie muss jedoch bei
+    klarer Sicht und dunklem Hintergrund eine Tragweite von etwa 1 000 m
+    haben.
 
 
 
@@ -4356,16 +4241,15 @@ Schallzeichen
     ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im
     Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss,
     ausgestattet sein und dieses zusammen mit einer aktuellen
-    elektronischen Binnenschifffahrtskarte nutzen. Hinsichtlich der
-    Mindestanforderungen an Inland ECDIS Geräte im Informationsmodus und
-    an elektronische Binnenschifffahrtskarten gilt § 4.07 Nummer 3 Satz 2
-    der Rheinschifffahrtspolizeiverordnung in der zum 1. Dezember 2014
-    anzuwendenden Fassung entsprechend.
+    elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät
+    im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches
+    Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“
+    des ES-RIS entsprechen.
 
 
-4.  Es müssen folgende Daten gemäß Kapitel 2 des Standards
-    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt
-    werden:
+4.  Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II
+    „Standard für Verfolgungs- und Aufspürungssysteme in der
+    Binnenschifffahrt“ des ES-RIS übermittelt werden:
 
     a)  User Identifier (Maritime Mobile Service Identity, MMSI);
 
@@ -4373,8 +4257,9 @@ Schallzeichen
     b)  Schiffsname;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
-        Aufspürung in der Binnenschifffahrt;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
+        „Standard für Verfolgungs- und Aufspürungssysteme in der
+        Binnenschifffahrt“ des ES-RIS;
 
 
     d)  einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe
@@ -4423,8 +4308,9 @@ Schallzeichen
     b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
-        Aufspürung in der Binnenschifffahrt;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
+        „Standard für Verfolgungs- und Aufspürungssysteme in der
+        Binnenschifffahrt“ des ES-RIS;
 
 
     d)  Navigationsstatus gemäß Anlage 11;
@@ -7286,13 +7172,13 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 4.  Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf
     elektronischem Wege meldet,
 
-    a)  muss die Meldung gemäß dem Standard für elektronische Meldungen in der
-        Binnenschifffahrt in der jeweils geltenden Fassung der
-        Zentralkommission für die Rheinschifffahrt erfolgen,
+    a)  muss die Meldung gemäß den Bestimmungen von Teil IV „Standard für
+        elektronisches Melden in der Binnenschifffahrt“ des ES-RIS erfolgen,
 
 
     b)  ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder
-        Verbands gemäß dem in Buchstabe a genannten Standard anzugeben.
+        Verbands gemäß der Anlage 6 „Fahrzeug- und Verbandstyp
+        (Binnenschifffahrt)“ des ES-RIS anzugeben.
 
 
 
@@ -9799,852 +9685,6 @@ B.11
         ... nicht darstellbares Tafelzeichen
 
 
-    C.5 Die Wasserstraße ist am rechten (linken) Ufer eingeengt; die Zahl auf
-        dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge
-        vom Tafelzeichen entfernt halten sollen.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-D. Empfehlende Zeichen
-
-*
-    D.1 Empfohlene Durchfahrtsöffnung:
-
-        a)  für Verkehr in beiden Richtungen;
-
-            (§ 6.25 Nr. 2 Buchstabe a)
-
-            ... nicht darstellbares Zeichen
-
-            (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 104)
-
-
-        b)  für Verkehr nur in der Richtung, in der die Zeichen sichtbar sind (in
-            der anderen Richtung untersagt).
-
-            (§ 6.25 Nr. 2 Buchstabe b)
-
-            ... nicht darstellbare Zeichen
-
-
-
-
-
-    D.2 Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu halten.
-
-        (§ 6.24 Nr. 2 Buchstabe b)
-
-        ... nicht darstellbare Tafeln
-
-
-    D.3 Empfehlung, in der Richtung des Pfeils zu fahren;
-
-        ... nicht darstellbares Tafelzeichen
-
-        in der Richtung vom festen Licht zum Gleichtaktlicht zu fahren.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-E. Hinweiszeichen
-
-
-*    *   E.1
-
-    *   Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).
-        (§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a Nr.
-        3)
-        ... nicht darstellbare Tafeln
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 105)
-
-    *
-
-
-
-
-*    *   E.2
-
-    *   Kreuzung einer Hochspannungsleitung.
-        ... nicht darstellbares Tafelzeichen
-
-    *
-
-
-
-
-*    *   E.3
-
-    *   Wehr
-
-    *        ![bgbl2_2020_j0360_0010.jpg](bgbl2_2020_j0360_0010.jpg)
-
-
-
-*    *   E.4a
-
-    *   Nicht frei fahrende Fähre.
-        ... nicht darstellbares Tafelzeichen
-
-    *
-
-
-
-*    *   E.4b
-
-    *   Frei fahrende Fähre
-
-    *        ![bgbl2_2020_j0360_0020.jpg](bgbl2_2020_j0360_0020.jpg)
-
-
-
-
-*
-    *
-
-
-    *
-
-    E.5 Erlaubnis zum Stilliegen auf der Seite der Wasserstraße, auf der das
-        Zeichen steht.
-
-        (§ 7.05 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.1 Erlaubnis zum Stilliegen auf der Wasserfläche, deren Breite, gemessen
-        vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
-
-        (§ 7.05 Nr. 2)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.2 Erlaubnis zum Stilliegen auf der Wasserfläche zwischen den zwei
-        Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen
-        in Metern angegeben sind.
-
-        (§ 7.05 Nr. 3)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 106)
-
-
-    E.5.3 Höchstzahl der Fahrzeuge, die auf der Seite der Wasserstraße, auf der
-        das Tafelzeichen steht, nebeneinander stilliegen dürfen.
-
-        (§ 7.05 Nr. 4)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.4 Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen
-        nach § 3.14 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.5 Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen
-        nach § 3.14 Nr. 1 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.6 Liegestelle für Fahrzeuge der Schubschiffahrt, die die Zeichen nach §
-        3\.14 Nr. 2 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.7 Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen
-        nach § 3.14 Nr. 3 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 107)
-
-
-    E.5.8 Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
-        die nicht die Zeichen nach § 3.14 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.9 Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
-        die die Zeichen nach § 3.14 Nr. 1 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.10 Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
-        die die Zeichen nach § 3.14 Nr. 2 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.11 Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
-        die die Zeichen nach § 3.14 Nr. 3 führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.12 Liegestelle für alle Fahrzeuge, die kein Zeichen nach § 3.14 führen
-        müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 108)
-
-
-    E.5.13 Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 1
-        führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.14 Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 2
-        führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.5.15 Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 3
-        führen müssen.
-
-        (§ 7.06 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.6 Erlaubnis zum Ankern auf der Seite der Wasserstraße, auf der das
-        Tafelzeichen steht.
-
-        (§ 7.03 Nr. 2)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.7 Erlaubnis zum Festmachen am Ufer auf der Seite der Wasserstraße, auf
-        der das Tafelzeichen steht.
-
-        (§ 7.04 Nr. 2)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 109)
-
-
-    E.7.1 Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder Ausladen
-        eines Kraftwagens (§ 7.04 Nr. 2)
-        (Fundstelle: BGBl. II 2011, 1330)
-        ![bgbl2_2011_j1330_0010.jpg](bgbl2_2011_j1330_0010.jpg)
-
-    E.8 Hinweis auf eine Wendestelle.
-
-        (§§ 6.13 und 7.02 Nr. 1 Buchstabe i)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-E.9
-    *
-        a)  Einmündende Wasserstraßen gelten als Nebenwasserstraßen.
-
-            (§ 6.16 Nr. 1)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-        b)  wie vor
-
-            ... nicht darstellbares Tafelzeichen
-
-
-        c)  wie vor
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-
-E.10
-    *
-        a)  Die benutzte Wasserstraße gilt als Nebenwasserstraße der einmündenden.
-
-            (§ 6.16 Nr. 1)
-
-            ... nicht darstellbares Tafelzeichen
-
-            (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 110)
-
-
-        b)  wie vor
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-    E.11 Ende des Verbots oder eines Gebots, das nur in einer Verkehrsrichtung
-        gilt, oder Ende einer Einschränkung.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.12 (ohne Inhalt)
-
-
-    E.13 Trinkwasserzapfstelle.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.14 Fernsprechstelle.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.15 (ohne Inhalt)
-
-
-    E.16 (ohne Inhalt)
-
-
-    E.17 Wasserskistrecke.
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 111)
-
-
-    E.18 Fahrerlaubnis für Segelfahrzeuge.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.19 Fahrerlaubnis für Fahrzeuge, die weder mit Maschinenantrieb noch unter
-        Segel fahren.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.20 Erlaubnis zum Segelsurfen.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.21 Nautischer Informationsfunkdienst.
-
-        Beispiel: Kanal 18
-
-        ... nicht darstellbare 2 Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 112)
-
-
-    E.22 Fahrerlaubnis für Wassermotorräder (Waterscooter, Jetski usw.).
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    E.23 Hochwassermarken.
-
-        (§ 10.01)
-
-        ... nicht darstellbare Hochwassermarken (Marke I bis III)
-
-        Die Marken sind in heller Farbe auf dunklem Untergrund oder in dunkler
-        Farbe auf hellem Untergrund angebracht.
-
-
-    E.24 (ohne Inhalt)
-
-
-    E.25 Landstromanschluss vorhanden
-        (Fundstelle: BGBl. II 2011, 1330)
-        ![bgbl2_2011_j1330_0020.jpg](bgbl2_2011_j1330_0020.jpg)
-
-
-
-
-
-
-**Abschnitt II**
-**Zusätzliche Tafeln, Schilder, Pfeile oder Aufschriften**
-Die Hauptzeichen in Abschnitt I können durch zusätzliche Tafeln,
-Schilder, Pfeile oder Aufschriften ergänzt werden.
-
-1.  Schilder, die die Entfernung angeben, in der die durch das
-    Hauptzeichen angezeigte Bestimmung oder Besonderheit zu beachten ist.
-
-    Die Schilder werden über dem Hauptzeichen angebracht.
-
-    Beispiele:
-
-    ... nicht darstellbare 2 Schilder
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 113)
-
-
-2.  Pfeile, die angeben, in welcher Richtung der Strecke das Hauptzeichen
-    gilt.
-
-    Beispiele:
-
-    a)  ... nicht darstellbare 2 Schilder
-
-
-    b)  ... nicht darstellbare 2 Schilder
-
-
-    c)  Verbot der Einfahrt in einen Hafen oder eine Nebenwasserstraße, die in
-        der angezeigten Richtung liegen: rotes Licht A.1 und leuchtender Pfeil
-
-        (§ 6.16 Nr. 4)
-
-        ... nicht darstellbares Schild
-
-
-
-
-
-3.  Schilder, die ergänzende Erklärungen oder Hinweise geben. Die Schilder
-    werden unter dem Hauptzeichen angebracht.
-
-    (Fundstelle: BGBl. II 2011, 1330)
-    ![bgbl2_2011_j1330_0030.jpg](bgbl2_2011_j1330_0030.jpg)    Beispiele:
-
-    ... nicht darstellbare 4 Schilder
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 114)
-
-
-
-
-
-#### Anlage 7 Schiffahrtszeichen
-
-Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
-16\.9.1997, S. 96 - 114;
-bzgl. der einzelnen Änderungen vgl. Fußnote
-
-**Vorbemerkung:**
-
-**1.** **Die Zeichen in Abschnitt I können, wie in Abschnitt II angegeben,
-    ergänzt oder erläutert werden.**
-
-
-**2.** **Die Tafeln können, um besser erkennbar zu sein, mit einem schmalen
-    weißen Streifen eingefaßt werden.**
-
-    **Abschnitt I - Hauptzeichen**
-
-    A. Verbotszeichen
-
-
-    *        *   A.1
-            Verbot der Durchfahrt (allgemeines Zeichen); (§ 3.25 Nummer 1
-            Buchstabe b, § 6.08 Nummer 2, § 6.16 Nummer 4, § 6.22 Nummer 1, §
-            6\.22a, § 6.25 Nummer 1, § 6.27 und § 6.28a Nummer 3)
-
-        *
-
-    *        *   entweder Tafeln
-
-        *            ![bgbl2_2014_j0371_0001.jpg](bgbl2_2014_j0371_0001.jpg)
-
-    *        *   oder rote Lichter
-
-        *            ![bgbl2_2014_j0371_0002.jpg](bgbl2_2014_j0371_0002.jpg)
-
-    *        *   oder rote Flaggen.
-
-        *            ![bgbl2_2014_j0371_0003.jpg](bgbl2_2014_j0371_0003.jpg)
-
-    *        *   Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet
-            dies ein langdauerndes Verbot.
-
-        *
-
-
-
-    A.1a Gesperrte Wasserflächen; jedoch für Kleinfahrzeuge ohne
-        Antriebsmaschine befahrbar.
-
-        (§ 6.22 Nr. 2 Buchstabe a)
-
-        ... nicht darstellbares Zeichen
-
-
-    A.2 Überholverbot, allgemein.
-
-        (§ 6.11)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.3 Überholverbot für Verbände untereinander. Dies gilt nicht, wenn einer
-        der Verbände ein Schubverband ist, dessen Länge 110,00 m und dessen
-        Breite 12,00 m nicht überschreitet.
-
-        (§ 6.11)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.4 Verbot des Begegnens und Überholverbot.
-
-        (§ 6.08 Nr. 1)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.5 Stilliegeverbot auf der Seite der Wasserstraße, auf der das
-        Tafelzeichen steht.
-
-        (§ 7.02 Nr. 1 Buchstabe c)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.5.1 Stilliegeverbot auf der Wasserfläche, deren Breite, gemessen vom
-        Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
-
-        (§ 7.02 Nr. 1 Buchstabe l)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.6 Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen oder
-        Ketten auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
-
-        (§ 6.18 Nr. 2 und § 7.03 Nr. 1 Buchstabe b)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.7 Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der das
-        Tafelzeichen steht.
-
-        (§ 7.04 Nr. 1 Buchstabe b)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 98)
-
-
-    A.8 Wendeverbot.
-
-        (§ 6.13 Nr. 4)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.9 Vermeidung von Wellenschlag
-
-        (§ 6.20 Nummer 1 Buchstabe e und § 11.07 Nummer 8 Buchstabe b)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.10 Verbot, außerhalb der angezeigten Begrenzung zu fahren.
-
-        (§ 6.24 Nr. 2 Buchstabe a)
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.11 Verbot der Einfahrt; die Vorbereitungen zur Fortsetzung der Fahrt sind
-        jedoch zu treffen.
-
-        (§ 6.28a Nr. 1 Buchstabe c)
-
-        ... nicht darstellbare Zeichen
-
-
-    A.12 Fahrverbot für Fahrzeuge mit Maschinenantrieb.
-
-        (§ 6.22 Nr. 2 Buchstabe b)
-
-        ... (nicht darstellbares Tafelzeichen)
-
-
-    A.13 (ohne Inhalt)
-
-
-    A.14 Verbot des Wasserskilaufens.
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 99)
-
-
-    A.15 Fahrverbot für Segelfahrzeuge.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.16 Fahrverbot für Fahrzeuge, die weder mit Maschinenantrieb noch unter
-        Segel fahren.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.17 Verbot des Segelsurfens.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    A.18 Fahrverbot für Wassermotorräder (Waterscooter, Jetski usw.).
-
-        ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-B. Gebotszeichen
-
-*
-    B.1 Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen.
-
-        (§ 6.12)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 100)
-
-
-
-
-
-B.2
-    *
-        a)  Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der
-            Backbordseite des Fahrzeugs liegt.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-        b)  Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der
-            Steuerbordseite des Fahrzeugs liegt.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-
-B.3
-    *
-        a)  Gebot, die Fahrrinnenseite zu halten, die auf der Backbordseite des
-            Fahrzeugs liegt.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-        b)  Gebot, die Fahrrinnenseite zu halten, die auf der Steuerbordseite des
-            Fahrzeugs liegt.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-
-
-
-B.4
-    *
-        a)  Gebot, die Fahrrinne nach Backbord zu kreuzen.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-            (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 101)
-
-
-        b)  Gebot, die Fahrrinne nach Steuerbord zu kreuzen.
-
-            (§ 6.12)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-    B.5 Gebot, unter bestimmten Voraussetzungen anzuhalten.
-
-        (§ 6.28 Nr. 2)
-
-
-    B.6 Gebot, die angegebene Geschwindigkeit (in km/Std.) nicht zu
-        überschreiten.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    B.7 Gebot, Schallsignal zu geben.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    B.8 Gebot, besondere Vorsicht walten zu lassen.
-
-        (§ 6.08 Nr. 2)
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 102)
-
-
-
-
-
-B.9
-    *
-        a)  Gebot, nur dann in die Hauptwasserstraße einzufahren oder sie zu
-            überqueren, wenn dadurch die Fahrzeuge auf der Hauptwasserstraße nicht
-            gezwungen werden, ihren Kurs oder ihre Geschwindigkeit zu ändern.
-
-            (§ 6.16 Nr. 3)
-
-            ... nicht darstellbares Tafelzeichen
-
-
-        b)  wie vor
-
-            ... nicht darstellbares Tafelzeichen
-
-
-
-
-
-    B.10 (ohne Inhalt)
-
-
-
-
-
-B.11
-    *
-        a)  Gebot, Sprechfunk zu benutzen.
-
-            (§ 4.05 Nr. 5)
-
-            ... nicht darstellbare 2 Tafelzeichen
-
-
-        b)  Gebot, Sprechfunk auf dem angegebenen Kanal zu benutzen.
-
-            (§ 4.05 Nr. 5)
-
-            Beispiel: Kanal 11
-
-            ... nicht darstellbare 2 Tafelzeichen
-
-
-
-
-
-
-
-
-
-
-
-*    *   B.12
-
-    *   Gebot zur Nutzung von Landstromanschlüssen
-        (§ 7.06 Nr. 3)
-
-    *        ![bgbl2_2019_j0286_0010.jpg](bgbl2_2019_j0286_0010.jpg)
-
-
-   C. Zeichen für Einschränkungen
-
-*
-    C.1 Die Fahrwassertiefe ist begrenzt.
-
-        ... nicht darstellbares Tafelzeichen
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 103)
-
-
-    C.2 Die lichte Höhe über dem Wasserspiegel ist begrenzt.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    C.3 Die Breite der Durchfahrtsöffnung oder der Fahrrinne ist begrenzt.
-
-        ... nicht darstellbares Tafelzeichen
-
-
-    C.4 Es bestehen Schifffahrtsbeschränkungen; sie sind auf einer
-        zusätzlichen Tafel unter dem Schifffahrtszeichen angegeben.
-
-        ... nicht darstellbares Tafelzeichen
-
-
     C.5 Die Fahrrinne ist am rechten (linken) Ufer eingeengt; die Zahl auf dem
         Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom
         Tafelzeichen entfernt halten sollen.
@@ -11941,6 +10981,9 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 **1.** **Navigationsstatus**
 
 
+
+
+*
     *        *   0
 
         *   under way using engine
@@ -12028,19 +11071,74 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 
 
+
+
 **2.** **Bezugspunkt der Positionsinformation auf dem Fahrzeug**
 
-    Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit
-    von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
 
-    *        *            ![bgbl2_2015_j1020_0010.JPG](bgbl2_2015_j1020_0010.JPG)
+2.1 Bei Inland AIS Geräten, die vor dem 1. Dezember 2015 eingebaut wurden:
 
-    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+    a)  Für ein Fahrzeug
+        Der Schiffsführer muss die Werte für A, B, C und D mit einer
+        Genauigkeit von 1 m eingeben.
+        Das Maß A ist in Richtung des Bugs ausgerichtet.
 
 
-    *        *            ![bgbl2_2015_j1020_0020.JPG](bgbl2_2015_j1020_0020.JPG)
 
-    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband
+
+    *        *            ![bgbl2_2023_j0141_15_0010.jpg](bgbl2_2023_j0141_15_0010.jpg)
+
+    *        *   Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+
+
+
+    b)  Für einen Verband
+        Der Schiffsführer muss die Werte für A, B, C und D mit einer
+        Genauigkeit von 1 m und die Werte für W und L mit einer Genauigkeit
+        von 0,1 m eingeben.
+        Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+
+
+
+    *        *            ![bgbl2_2023_j0141_16_0010.jpg](bgbl2_2023_j0141_16_0010.jpg)
+
+    *        *   Erläuterungen zu den W, L, A, B, C und D Werten für einen Verband
+
+
+
+
+
+
+
+2.2 Bei Inland AIS Geräten, die nach dem 1. Dezember 2015 eingebaut
+    wurden:
+
+    a)  Für ein Fahrzeug
+        Der Schiffsführer muss die Werte für A, B, C und D mit einer
+        Genauigkeit von 0,1 m eingeben.
+        Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+        *            *                ![bgbl2_2023_j0141_16_0020.jpg](bgbl2_2023_j0141_16_0020.jpg)
+
+        *            *   Erläuterungen zu den W, L, A, B, C und D Werten für ein Fahrzeug
+
+
+
+
+
+    b)  Für einen Verband
+        Der Schiffsführer muss die Werte für EA, EB, EC und ED mit einer
+        Genauigkeit von 0,1 m eingeben.
+        Das Maß EA ist in Richtung des Bugs ausgerichtet.
+
+        *            *                ![bgbl2_2023_j0141_16_0030.jpg](bgbl2_2023_j0141_16_0030.jpg)
+
+        *            *   Erläuterungen zu den EA, EB, EC und ED Werten für einen Verband
+
+
+
 
 
 
@@ -12156,5 +11254,586 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
     *   Fahrzeug (Typ unbekannt)
 
+
+
+
+#### Anlage 13 VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 MoselSchPV
+
+(Fundstelle: BGBl. 2023 II Nr. 141, S. 18 - 22)
+
+In der Spalte „Rechtsgrundlage“ der nachfolgenden Tabelle wird auf die
+folgenden Vorschriften, Übereinkommen, Richtlinien und
+Verwaltungsvereinbarungen verwiesen:
+
+-   Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates
+    vom 12. Dezember 2017 über die Anerkennung von Berufsqualifikationen
+    in der Binnenschifffahrt und zur Aufhebung der Richtlinien 91/672/EWG
+    und 96/50/EG des Rates (= „Richtlinie (EU) 2017/2397“),
+
+
+-   Durchführungsverordnung (EU) 2020/182 der Kommission vom 14. Januar
+    2020 über Muster im Bereich der Berufsqualifikationen in der
+    Binnenschifffahrt (= „Durchführungsverordnung (EU) 2020/182“),
+
+
+-   Rheinschiffsuntersuchungsordnung (RheinSchUO),
+
+
+-   Europäischer Standard der technischen Vorschriften für Binnenschiffe
+    (ES-TRIN),
+
+
+-   Europäisches Übereinkommen über die internationale Beförderung
+    gefährlicher Güter auf Binnenwasserstraßen (ADN),
+
+
+-   Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in
+    der Rhein- und Binnenschifffahrt (CDNI),
+
+
+-   Übereinkommen über die Eichung von Binnenschiffen, geschlossen am 15.
+    Februar 1966 in Genf (Übereinkommen vom 15. Februar 1966),
+
+
+-   Regionale Vereinbarung über den Binnenschifffahrtsfunk.
+
+
+
+
+In der vorletzten Spalte der nachfolgenden Tabelle wird angegeben, ob
+die Aushändigung der an Bord mitzuführenden Urkunden und sonstigen
+Unterlagen auf einem elektronischen Träger autorisiert ist oder nicht.
+
+Die letzte Spalte „Elektronisches Format“ der nachfolgenden Tabelle
+präzisiert das elektronische Format, in dem Urkunden und sonstige
+Unterlagen in elektronischer Form ausgehändigt werden können. Das in
+der nachfolgenden Tabelle angegebene PDFFormat entspricht dem in der
+internationalen Norm ISO 32000-1:2008 definierten Format.
+
+
+*    *   Kategorie
+
+    *   Mitführen von Urkunden und sonstigen Unterlagen nach § 1.10 MoselSchPV
+
+    *   Rechtsgrundlage
+
+    *   Elektronisch lesbare Textfassung von mitzuführenden Urkunden und
+        sonstigen Unterlagen
+
+    *   Geeignetes elektronisches Format
+
+
+*    *   **1. Fahrzeuge**
+
+
+*    *   1.1
+
+    *   das Schiffsattest oder die als Ersatz zugelassene Urkunde oder ein als
+        gleichwertig anerkanntes Zeugnis
+
+    *   RheinSchUO, § 1.04
+
+    *   nicht zugelassen
+
+    *
+
+*    *   1.2
+
+    *   der Eichschein des Fahrzeugs
+
+    *   Übereinkommen
+        vom 15. Februar 1966
+
+    *   nicht zugelassen
+
+    *
+
+*    *   1.3
+
+    *   die Urkunde über das Kennzeichen für Kleinfahrzeuge
+
+    *   MoselSchPV, § 2.02 Nummer 1
+
+    *   nicht zugelassen
+
+    *
+
+*    *   **2. Besatzung**
+
+
+*    *   2.1
+
+    *   ein gemäß der Richtlinie (EU) 2017/2397 ausgestelltes bzw. nach dieser
+        Richtlinie anerkanntes Schiffsführerzeugnis oder ein entsprechendes
+        nach nationalen Vorschriften ausgestelltes vorläufiges
+        Schiffsführerzeugnis
+
+    *   Richtlinie (EU) 2017/2397, Einleitung Nummer 19 und Artikel 10
+        Durchführungsverordnung (EU) 2020/182, Anhang I Nummer 1 und 2
+
+    *   zugelassen,
+        jedoch nicht für die vorläufigen Schiffsführerzeugnisse
+
+    *   zugelassen
+        im PDF-Format nach den Vorgaben der Durchführungsverordnung (EU)
+        2020/182,
+        Anhang I Nummer 1
+
+
+*    *   2.2
+
+    *   das nach der Richtlinie (EU) 2017/2397 ausgestellte oder danach
+        anerkannte und ordnungsgemäß ausgefüllte Bordbuch
+
+    *   Durchführungsverordnung (EU) 2020/182, Anhang V
+
+    *   nicht zugelassen
+
+    *
+
+*    *   2.3
+
+    *   die Bescheinigung über die Ausgabe der Bordbücher
+
+    *   Richtlinie (EU) 2017/2397,
+        Artikel 22 Absatz 6
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   2.4
+
+    *   wenn nach § 6.32 MoselSchPV nur mit Radar gefahren werden darf, nach
+        der Richtlinie (EU) 2017/2397
+
+        -   eine besondere Berechtigung für Radar
+
+
+        -   oder ein anerkanntes Radarzeugnis
+
+
+        -   oder ein entsprechendes, nach nationalen Vorschriften ausgestelltes
+            vorläufiges Zeugnis für die Radarfahrt
+
+
+
+
+    *   Richtlinie (EU) 2017/2397,
+        Artikel 6 Buchstabe c
+        Durchführungsverordnung (EU) 2020/182, Anhang I Nummer 1 oder 2
+        MoselSchPV, § 6.32
+
+    *   nicht zugelassen
+
+    *
+
+*    *   2.5
+
+    *   ein Sprechfunkzeugnis für die Bedienung von Schiffsfunkstellen
+
+    *   Regionale Vereinbarung über den Binnenschifffahrtsfunk, Anhang 5
+
+    *   nicht zugelassen
+
+    *
+
+*    *   2.6
+
+    *   die Zeugnisse für Sachkundige für die Fahrgastschifffahrt, die für das
+        Sicherheitspersonal auf Fahrgastschiffen vorgeschrieben sind
+
+    *   Durchführungsverordnung (EU) 2020/182, Anhang I Nummer 3
+
+    *   zugelassen
+
+    *   zugelassen
+        im PDF-Format nach den Vorgaben der Durchführungsverordnung (EU)
+        2020/182,
+        Anhang I Nummer 1
+
+
+*    *   2.7
+
+    *   bei LNG-betriebenen Fahrzeugen die Zeugnisse für Sachkundige für LNG
+        des Schiffsführers sowie der Besatzungsmitglieder, die am
+        Bunkervorgang beteiligt sind
+
+    *   Durchführungsverordnung (EU) 2020/182, Anhang I Nummer 3
+
+    *   zugelassen
+
+    *   zugelassen
+        im PDF-Format nach den Vorgaben der Durchführungsverordnung (EU)
+        2020/182,
+        Anhang I Nummer 1
+
+
+*    *   **3. Fahrtgebiete**
+
+
+*    *   3.1
+
+    *   die Bescheinigung der zuständigen Behörde über Dauer und örtliche
+        Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt
+        werden darf
+
+    *   ES-TRIN, Artikel 23.01
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   **4. Navigations- und Informationsgeräte**
+
+
+*    *   4.1
+
+    *   die Bescheinigung über Einbau und Funktion der Radaranlage
+
+    *   ES-TRIN, Artikel 7.06 Nummer 1
+        ES-TRIN, Anlage 5 Abschnitt III Artikel 9 und Abschnitt VI
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   4.2
+
+    *   die Bescheinigung über Einbau und Funktion des Wendeanzeigers
+
+    *   ES-TRIN, Artikel 7.06 Nummer 1
+        ES-TRIN, Anlage 5 Abschnitt III Artikel 9 und Abschnitt VI
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   4.3
+
+    *   die Bescheinigung über Einbau und Funktion von Inland AIS Geräten
+
+    *   ES-TRIN, Artikel 7.06 Nummer 3
+        ES-TRIN, Anlage 5 Abschnitt IV Artikel 2 Nummer 9
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   4.4
+
+    *   die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie
+        die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers
+
+    *   ES-TRIN, Anlage 5 Abschnitt V Artikel 1 und 2 Nummer 6
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   4.5
+
+    *   die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“
+
+    *
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   **5. Ausrüstungen**
+
+
+*    *   5.1
+
+    *   die erforderliche Bescheinigung über die Prüfung der motorisch
+        betriebenen Steuereinrichtungen
+
+    *   ES-TRIN, Artikel 6.09 Nummer 5
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.2
+
+    *   die erforderliche Bescheinigung über die Prüfung des in der Höhe
+        verstellbaren Steuerhauses
+
+    *   ES-TRIN, Artikel 7.12 Nummer 12
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.3
+
+    *   die erforderliche Bescheinigung über die Prüfung der
+        Schiffsdampfkessel und sonstigen Druckbehälter
+
+    *   ES-TRIN, Artikel 8.01 Nummer 2
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.4
+
+    *   die Kopie des Typgenehmigungsbogens, die Anleitung des
+        Motorenherstellers und die Kopie des Motorparameterprotokolls
+
+    *   ES-TRIN, Artikel 9.01 Nummer 3
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.5
+
+    *   die Unterlagen über elektrische Anlagen
+
+    *   ES-TRIN, Artikel 10.01 Nummer 2
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.6
+
+    *   die Bescheinigung für die Drahtseile
+
+    *   ES-TRIN, Artikel 13.02 Nummer 3 Buchstabe a
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.7
+
+    *   die Prüfkennzeichnung der tragbaren Feuerlöscher
+
+    *   ES-TRIN, Artikel 13.03 Nummer 5
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.8
+
+    *   die Prüfbescheinigungen über fest installierte Feuerlöschanlagen
+
+    *   ES-TRIN, Artikel 13.04 Nummer 8
+        ES-TRIN, Artikel 13.05 Nummer 9
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.9
+
+    *   die Prüfbescheinigungen und Bedienungsanleitung über Krane
+
+    *   ES-TRIN, Artikel 14.12
+        Nummer 6, 7 und 9
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.10
+
+    *   die Bescheinigung über die Prüfung der Flüssiggasanlagen
+
+    *   ES-TRIN, Artikel 17.13
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.11
+
+    *   der erforderliche Typgenehmigungsbogen und Wartungsnachweis der
+        Bordkläranlage
+
+    *   ES-TRIN, Artikel 18.01 Nummer 5 und 9
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.12
+
+    *   bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, die
+        Bedienungsanleitung und die Sicherheitsrolle
+
+    *   ES-TRIN, Artikel 30.03 Nummer 1 und Anlage 8 Nummer 1.4.9
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   5.13
+
+    *   bei Fahrzeugen, die für die Beförderung und Übernachtung von mehr als
+        12 Fahrgästen zugelassen sind, die Sicherheitsrolle
+
+    *   MoselSchPV, § 8.11
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   **6. Ladung und Abfälle**
+
+
+*    *   6.1
+
+    *   die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3
+        erforderlichen Urkunden
+
+    *   ADN, Unterabschnitte 8.1.2.1, 8.1.2.2 und 8.1.2.3
+
+    *
+    *
+
+*    *   6.1.1
+
+    *   das Beförderungspapier
+
+    *   ADN, 8.1.2.1 b
+
+    *   zugelassen
+
+    *   ausschließlich
+        Format, das die Anforderungen des Unterabschnitts 5.4.0.2 ADN erfüllt,
+        in Verbindung mit dem Leitfaden für die Anwendung des Unterabschnitts
+        5\.4.0.2 ADN
+
+
+*    *   6.1.2
+
+    *   Europäisches Übereinkommen über die internationale Beförderung von
+        gefährlichen Gütern auf Binnenwasserstraßen mit der beigefügten
+        Verordnung (ADN)
+
+    *   ADN, 8.1.2.1 d
+
+    *   zugelassen
+
+    *   jederzeit lesbare
+        elektronische Textfassung
+
+
+*    *   6.1.3
+
+    *   weitere nach Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 ADN
+        erforderliche Unterlagen
+
+    *   ADN, 8.1.2.1 a, c und e bis h
+        und k
+        ADN, 8.1.2.2 a, c bis h
+        ADN, 8.1.2.3 a, c bis x
+
+    *   nicht zugelassen
+
+    *
+
+*    *   6.2
+
+    *   bei Containerbeförderung die von einer Schiffsuntersuchungskommission
+        geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich Stauplan
+        oder Ladungsliste für den jeweiligen Beladungsfall und das Ergebnis
+        der Stabilitätsberechnung für den jeweiligen, einen früheren
+        vergleichbaren oder einen standardisierten Beladungsfall jeweils unter
+        Angabe des verwendeten Berechnungsverfahrens
+
+    *   ES-TRIN, Artikel 27.01 Nummer 2
+        (Beschreibung der Unterlagen und Sichtvermerk der
+        Untersuchungskommission)
+        ES-TRIN, Artikel 28.03 Nummer 3 (Ergebnis der Berechnung bei
+        Containerschiffen)
+        MoselSchPV, § 1.07 Nummer 4 (Ergebnis der Stabilitätsprüfung und
+        Stauplan)
+
+    *   zugelassen
+
+    *   PDF-Format
+
+
+*    *   6.3
+
+    *   das ordnungsgemäß ausgefüllte Ölkontrollbuch
+
+    *   MoselSchPV, § 11.05 und
+        Anlage 10
+        CDNI, Anlage 2 (Anwendungsbestimmung) Teil A Artikel 1.01, 2.03 und
+        Anhang I
+
+    *   nicht zugelassen
+
+    *
+
+*    *   6.4
+
+    *   der Bezugsnachweis für Gasöl, einschließlich der Quittungen für die
+        Entgelttransaktionen des SPE-CDNI über einen Zeitraum von mindestens
+        12 Monaten. Liegt der letzte Bezug von Gasöl mehr als 12 Monate
+        zurück, so ist mindestens der letzte Bezugsnachweis mitzuführen
+
+    *   CDNI, Anlage 2
+        (Anwendungsbestimmung) Teil A Artikel 3.04 Nummer 1
+
+    *   nicht zugelassen
+
+    *
+
+*    *   6.5
+
+    *   die Entladebescheinigung
+
+    *   MoselSchPV, § 11.08 Nummer 2
+        CDNI, Anlage 2 und Teil B, Muster des Anhangs IV
+
+    *   zugelassen
+
+    *   lesbare elektronische
+        Fassung mit fälschungssicherer Signatur gemäß der Verordnung (EU) Nr.
+        910/2014
+
+
+*    *   **7. Fahrzeuge über 110 m Länge, ausgenommen Fahrgastschiffe**
+
+
+*    *   7.1
+
+    *   der für Fahrzeuge mit einer Länge über 110,00 m, ausgenommen
+        Fahrgastschiffe, in Artikel 28.04 Nummer 2 Buchstabe c ES-TRIN
+        geforderte Nachweis
+
+    *   ES-TRIN, Artikel 28.04 Nummer 2 Buchstabe c
+        MoselSchPV, § 8.01 Nummer 3 und 6
+
+    *   nicht zugelassen
+
+    *
 
 

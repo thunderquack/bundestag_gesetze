@@ -9070,8 +9070,7 @@ bzw. m
 
 *    *   62.
 
-    *   Jungsauen-
-        eingliederung
+    *   Jungsaueneingliederung
 
     *   95 bis 135 kg LM; 240 kg Zuwachs
         je Platz p.a.

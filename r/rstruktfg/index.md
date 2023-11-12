@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 2010, 1900, 1921
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.7.2021 I 3372
+:   Art. 3 G v. 25.3.2022 I 571
 
 
 ## § 1 Errichtung des Fonds
 
-Die Bundesanstalt für Finanzdienstleistungsaufsicht verwaltet das
-durch Artikel 3 des Gesetzes zur Restrukturierung und geordneten
-Abwicklung von Kreditinstituten, zur Errichtung eines
+Die Bundesanstalt für Finanzdienstleistungsaufsicht (Anstalt)
+verwaltet das durch Artikel 3 des Gesetzes zur Restrukturierung und
+geordneten Abwicklung von Kreditinstituten, zur Errichtung eines
 Restrukturierungsfonds für Kreditinstitute und zur Verlängerung der
 Verjährungsfrist für aktienrechtliche Organhaftung
 (Restrukturierungsgesetz) vom 9. Dezember 2010 (BGBl. I S. 1900)
@@ -733,7 +733,7 @@ Bundesministerium der Finanzen unverzüglich über
 
 
 
-## § 12 Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge
+## § 12 Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge; Verordnungsermächtigung
 
 (1) Die Mittel des Restrukturierungsfonds werden durch Beiträge der
 gemäß § 2 Satz 1 beitragspflichtigen Institute erbracht.
@@ -755,6 +755,45 @@ Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie
 Rechtsverordnung gemäß § 12g. Im Übrigen erfolgt die Berechnung der
 Jahresbeiträge gemäß Artikel 70 Absatz 2 der Verordnung (EU) Nr.
 806/2014 durch den Ausschuss.
+
+(2a) Beitragspflichtige Institute sind verpflichtet, im Rahmen der
+Erhebung der Beiträge erforderliche Informationen, Anträge, Dokumente
+und Meldungen, insbesondere solche nach Artikel 14 der Delegierten
+Verordnung (EU) 2015/63 der Kommission vom 21. Oktober 2014 zur
+Ergänzung der Richtlinie 2014/59/EU des Europäischen Parlaments und
+des Rates im Hinblick auf im Voraus erhobene Beiträge zu
+Abwicklungsfinanzierungsmechanismen (ABl. L 11 vom 17.1.2015, S. 44; L
+156 vom 20.6.2017, S. 38), die zuletzt durch die Delegierte Verordnung
+(EU) 2016/1434 (ABl. L 233 vom 30.8.2016, S. 1) geändert worden ist,
+der Anstalt elektronisch über ein von der Anstalt bereitgestelltes
+Kommunikationsverfahren zu übermitteln und für dieses
+Kommunikationsverfahren den elektronischen Zugang einzurichten, es sei
+denn, die Anstalt bestimmt einen anderen Übermittlungsweg. Sie haben
+ferner sicherzustellen, dass regelmäßig überprüft wird, ob ihnen
+Mitteilungen über das elektronische Kommunikationsverfahren
+bereitgestellt wurden, sofern nicht gemäß Satz 1 ein anderer
+Übermittlungsweg bestimmt wird. Dies gilt auch für Verwaltungsakte,
+die gemäß § 4f des Finanzdienstleistungsaufsichtsgesetzes
+bekanntgegeben oder gemäß § 4g des
+Finanzdienstleistungsaufsichtsgesetzes zugestellt werden. Zur
+Überprüfung nach Satz 2 und Satz 3 dürfen sich die beitragspflichtigen
+Institute gegenüber der Anstalt auch Personen bedienen, die
+hinsichtlich Bekanntgabe und Zustellung von Verwaltungsakten
+bevollmächtigt sind. Personen, die vor Inkrafttreten dieser Regelung
+bei der Anstalt bereits in einem elektronischen Zugangsverfahren zur
+Bankenabgabe registriert waren, gelten als bevollmächtigt im Sinne von
+Satz 4, bis der Wegfall ihrer Bevollmächtigung gegenüber der Anstalt
+angezeigt wird. Änderungen der Bevollmächtigung sind gegenüber der
+Anstalt unwirksam bis sie dieser angezeigt wurden.
+
+(2b) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nähere Bestimmungen über Inhalt, Umfang und Form der zu übermittelnden
+Informationen, Anträge, Dokumente und Meldungen, über den Zugang zum
+und die Nutzung des elektronischen Kommunikationsverfahrens sowie über
+Datenformate für Informationen, Anträge, Dokumente und Meldungen nach
+Absatz 2a zu erlassen. Das Bundesministerium der Finanzen kann die
+Ermächtigung durch Rechtsverordnung auf die Anstalt übertragen.
 
 (3) Die Abwicklungsbehörde kann nach Maßgabe von § 12c Sonderbeiträge
 von den Wertpapierinstituten unter Einzelaufsicht und von den
@@ -789,12 +828,9 @@ an die Sicherheiten nach den Sätzen 4 und 5 Einzelheiten festlegen.
 
 Zielausstattung ist die Summe der Jahresbeiträge, die von
 Wertpapierinstituten unter Einzelaufsicht und Unionszweigstellen nach
-Maßgabe der Delegierten Verordnung (EU) 2015/63 der Kommission vom 21.
-Oktober 2014 zur Ergänzung der Richtlinie 2014/59/EU des Europäischen
-Parlaments und des Rates im Hinblick auf im Voraus erhobene Beiträge
-zu Abwicklungsfinanzierungsmechanismen (ABl. L 11 vom 17.1.2015, S.
-44) sowie nach § 12b und der Rechtsverordnung nach § 12g bis zum 31.
-Dezember 2024 zu erbringen sind.
+Maßgabe der Delegierten Verordnung (EU) 2015/63 sowie nach § 12b und
+der Rechtsverordnung nach § 12g bis zum 31. Dezember 2024 zu erbringen
+sind.
 
 
 ## § 12b Jahresbeiträge der Wertpapierinstitute unter Einzelaufsicht und der Unionszweigstellen
@@ -1201,11 +1237,10 @@ Absatz 2 unverzüglich zu unterrichten.
 
 ## § 13 Wirtschaftsführung und Rechnungslegung
 
-(1) Die Bundesanstalt für Finanzdienstleistungsaufsicht stellt für den
-Restrukturierungsfonds am Ende eines jeden Rechnungsjahres die
-Rechnung über die Einnahmen und Ausgaben nach der
-Bundeshaushaltsordnung (Haushaltsrechnung) sowie die Bilanz und
-Gewinn- und Verlustrechnung nach den Vorschriften des
+(1) Die Anstalt stellt für den Restrukturierungsfonds am Ende eines
+jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben
+nach der Bundeshaushaltsordnung (Haushaltsrechnung) sowie die Bilanz
+und Gewinn- und Verlustrechnung nach den Vorschriften des
 Handelsgesetzbuchs (Vermögensrechnung) auf.
 
 (2) (weggefallen)

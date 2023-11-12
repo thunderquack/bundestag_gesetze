@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.1.2022 I 96
+:   Art. 1 V v. 20.6.2023 I Nr. 162
 
 
 ## Eingangsformel
@@ -371,16 +371,9 @@ Empfängers von Auslandsdienstbezügen mitwirken. § 5 Absatz 6 und § 5a
 gelten entsprechend.
 
 
-## § 7 Übergangsregelung aus Anlass der Zwölften Verordnung zur Änderung der Auslandszuschlagsverordnung
-
-Bis zum 31. Januar 2022 sind die Anlagen in der bis zum 30. Juni 2021
-geltenden Fassung weiter anzuwenden, wenn dies für die Betroffenen
-günstiger ist.
-
-
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 97 - 102)
+(Fundstelle: BGBl. 2023 I Nr. 162, S. 1 – 7)
 
 
 *    *
@@ -418,7 +411,7 @@ günstiger ist.
 
     *   Brüssel
 
-    *   2
+    *   3
 
 
 *    *   3
@@ -427,7 +420,7 @@ günstiger ist.
 
     *   Sarajewo
 
-    *   10
+    *   9
 
 
 *    *   4
@@ -436,7 +429,7 @@ günstiger ist.
 
     *   Sofia
 
-    *   9
+    *   7
 
 
 *    *   5
@@ -445,7 +438,7 @@ günstiger ist.
 
     *   Kopenhagen
 
-    *   2
+    *   4
 
 
 *    *   6
@@ -454,7 +447,7 @@ günstiger ist.
 
     *   Tallinn
 
-    *   7
+    *   9
 
 
 *    *   7
@@ -463,7 +456,7 @@ günstiger ist.
 
     *   Helsinki
 
-    *   5
+    *   8
 
 
 *    *   8
@@ -500,7 +493,7 @@ günstiger ist.
 
     *   Straßburg
 
-    *   2
+    *   3
 
 
 *    *   13
@@ -516,7 +509,7 @@ günstiger ist.
 
     *   Thessaloniki
 
-    *   5
+    *   6
 
 
 *    *   15
@@ -534,7 +527,7 @@ günstiger ist.
 
     *   Reykjavik
 
-    *   5
+    *   6
 
 
 *    *   17
@@ -550,7 +543,7 @@ günstiger ist.
 
     *   Mailand
 
-    *   1
+    *   2
 
 
 *    *   19
@@ -559,7 +552,7 @@ günstiger ist.
 
     *   Pristina
 
-    *   15
+    *   14
 
 
 *    *   20
@@ -577,7 +570,7 @@ günstiger ist.
 
     *   Riga
 
-    *   6
+    *   8
 
 
 *    *   22
@@ -586,7 +579,7 @@ günstiger ist.
 
     *   Wilna
 
-    *   5
+    *   4
 
 
 *    *   23
@@ -595,7 +588,7 @@ günstiger ist.
 
     *   Luxemburg
 
-    *   1
+    *   2
 
 
 *    *   24
@@ -609,7 +602,7 @@ günstiger ist.
 
 *    *   25
 
-    *   Moldau
+    *   Moldau, Republik
 
     *   Chisinau
 
@@ -631,14 +624,14 @@ günstiger ist.
 
     *   Den Haag
 
-    *   1
+    *   4
 
 
 *    *   28
 
     *   Amsterdam
 
-    *   1
+    *   4
 
 
 *    *   29
@@ -656,7 +649,7 @@ günstiger ist.
 
     *   Oslo
 
-    *   4
+    *   5
 
 
 *    *   31
@@ -665,7 +658,7 @@ günstiger ist.
 
     *   Wien
 
-    *   1
+    *   2
 
 
 *    *   32
@@ -674,14 +667,14 @@ günstiger ist.
 
     *   Warschau
 
-    *   4
+    *   3
 
 
 *    *   33
 
     *   Breslau
 
-    *   6
+    *   5
 
 
 *    *   34
@@ -720,21 +713,21 @@ günstiger ist.
 
     *   Bukarest
 
-    *   7
+    *   9
 
 
 *    *   39
 
     *   Hermannstadt
 
-    *   9
+    *   12
 
 
 *    *   40
 
     *   Temeswar
 
-    *   9
+    *   11
 
 
 *    *   41
@@ -743,35 +736,35 @@ günstiger ist.
 
     *   Moskau
 
-    *   11
+    *   12
 
 
 *    *   42
 
     *   Jekaterinburg
 
-    *   13
+    *   14
 
 
 *    *   43
 
     *   Kaliningrad
 
-    *   11
+    *   12
 
 
 *    *   44
 
     *   Nowosibirsk
 
-    *   15
+    *   16
 
 
 *    *   45
 
     *   St. Petersburg
 
-    *   11
+    *   12
 
 
 *    *   46
@@ -780,7 +773,7 @@ günstiger ist.
 
     *   Stockholm
 
-    *   3
+    *   6
 
 
 *    *   47
@@ -789,14 +782,14 @@ günstiger ist.
 
     *   Bern
 
-    *   3
+    *   4
 
 
 *    *   48
 
     *   Genf
 
-    *   2
+    *   3
 
 
 *    *   49
@@ -805,7 +798,7 @@ günstiger ist.
 
     *   Belgrad
 
-    *   9
+    *   8
 
 
 *    *   50
@@ -832,35 +825,35 @@ günstiger ist.
 
     *   Madrid
 
-    *   2
+    *   3
 
 
 *    *   53
 
     *   Barcelona
 
-    *   1
+    *   2
 
 
 *    *   54
 
     *   Las Palmas de Gran Canaria
 
-    *   1
+    *   2
 
 
 *    *   55
 
     *   Malaga
 
-    *   1
+    *   2
 
 
 *    *   56
 
     *   Palma de Mallorca
 
-    *   1
+    *   2
 
 
 *    *   57
@@ -869,7 +862,7 @@ günstiger ist.
 
     *   Prag
 
-    *   4
+    *   6
 
 
 *    *   58
@@ -908,14 +901,14 @@ günstiger ist.
 
     *   Kiew
 
-    *   12
+    *   15
 
 
 *    *   63
 
     *   Donezk
 
-    *   17
+    *   18
 
 
 *    *   64
@@ -933,14 +926,14 @@ günstiger ist.
 
     *   London
 
-    *   2
+    *   4
 
 
 *    *   66
 
     *   Edinburgh
 
-    *   3
+    *   5
 
 
 *    *   67
@@ -958,7 +951,7 @@ günstiger ist.
 
     *   Nikosia
 
-    *   7
+    *   6
 
 
 *    *   Abschnitt 2
@@ -971,7 +964,7 @@ günstiger ist.
 
     *   Kairo
 
-    *   17
+    *   16
 
 
 *    *   70
@@ -989,7 +982,7 @@ günstiger ist.
 
     *   Luanda
 
-    *   18
+    *   20
 
 
 *    *   72
@@ -998,7 +991,7 @@ günstiger ist.
 
     *   Addis Abeba
 
-    *   18
+    *   20
 
 
 *    *   73
@@ -1007,7 +1000,7 @@ günstiger ist.
 
     *   Cotonou
 
-    *   19
+    *   17
 
 
 *    *   74
@@ -1016,7 +1009,7 @@ günstiger ist.
 
     *   Gaborone
 
-    *   15
+    *   16
 
 
 *    *   75
@@ -1075,14 +1068,23 @@ günstiger ist.
 
 *    *   81
 
+    *   Gambia
+
+    *   Banjul
+
+    *   16
+
+
+*    *   82
+
     *   Ghana
 
     *   Accra
 
-    *   19
+    *   17
 
 
-*    *   82
+*    *   83
 
     *   Guinea
 
@@ -1091,7 +1093,7 @@ günstiger ist.
     *   20
 
 
-*    *   83
+*    *   84
 
     *   Kamerun
 
@@ -1100,16 +1102,16 @@ günstiger ist.
     *   20
 
 
-*    *   84
+*    *   85
 
     *   Kenia
 
     *   Nairobi
 
-    *   16
+    *   15
 
 
-*    *   85
+*    *   86
 
     *   Kongo
 
@@ -1118,7 +1120,7 @@ günstiger ist.
     *   20
 
 
-*    *   86
+*    *   87
 
     *   Kongo,
         Demokratische Republik
@@ -1128,7 +1130,7 @@ günstiger ist.
     *   20
 
 
-*    *   87
+*    *   88
 
     *   Liberia
 
@@ -1137,7 +1139,7 @@ günstiger ist.
     *   20
 
 
-*    *   88
+*    *   89
 
     *   Libyen
 
@@ -1146,7 +1148,7 @@ günstiger ist.
     *   20
 
 
-*    *   89
+*    *   90
 
     *   Madagaskar
 
@@ -1155,16 +1157,16 @@ günstiger ist.
     *   20
 
 
-*    *   90
+*    *   91
 
     *   Malawi
 
     *   Lilongwe
 
-    *   17
+    *   18
 
 
-*    *   91
+*    *   92
 
     *   Mali
 
@@ -1173,16 +1175,16 @@ günstiger ist.
     *   20
 
 
-*    *   92
+*    *   93
 
     *   Marokko
 
     *   Rabat
 
-    *   11
+    *   10
 
 
-*    *   93
+*    *   94
 
     *   Mauretanien
 
@@ -1191,25 +1193,25 @@ günstiger ist.
     *   20
 
 
-*    *   94
+*    *   95
 
     *   Mosambik
 
     *   Maputo
 
-    *   17
+    *   18
 
 
-*    *   95
+*    *   96
 
     *   Namibia
 
     *   Windhuk
 
-    *   11
+    *   12
 
 
-*    *   96
+*    *   97
 
     *   Niger
 
@@ -1218,7 +1220,7 @@ günstiger ist.
     *   20
 
 
-*    *   97
+*    *   98
 
     *   Nigeria
 
@@ -1227,23 +1229,23 @@ günstiger ist.
     *   20
 
 
-*    *   98
+*    *   99
 
     *   Lagos
 
     *   20
 
 
-*    *   99
+*    *   100
 
     *   Ruanda
 
     *   Kigali
 
-    *   19
+    *   18
 
 
-*    *   100
+*    *   101
 
     *   Sambia
 
@@ -1252,7 +1254,7 @@ günstiger ist.
     *   15
 
 
-*    *   101
+*    *   102
 
     *   Senegal
 
@@ -1261,7 +1263,7 @@ günstiger ist.
     *   18
 
 
-*    *   102
+*    *   103
 
     *   Sierra Leone
 
@@ -1270,7 +1272,7 @@ günstiger ist.
     *   20
 
 
-*    *   103
+*    *   104
 
     *   Simbabwe
 
@@ -1279,7 +1281,7 @@ günstiger ist.
     *   20
 
 
-*    *   104
+*    *   105
 
     *   Sudan
 
@@ -1288,23 +1290,23 @@ günstiger ist.
     *   20
 
 
-*    *   105
+*    *   106
 
     *   Südafrika
 
     *   Pretoria
 
-    *   7
+    *   9
 
 
-*    *   106
+*    *   107
 
     *   Kapstadt
 
     *   10
 
 
-*    *   107
+*    *   108
 
     *   Südsudan
 
@@ -1313,16 +1315,16 @@ günstiger ist.
     *   20
 
 
-*    *   108
+*    *   109
 
     *   Tansania
 
     *   Daressalam
 
-    *   19
+    *   20
 
 
-*    *   109
+*    *   110
 
     *   Togo
 
@@ -1331,7 +1333,7 @@ günstiger ist.
     *   20
 
 
-*    *   110
+*    *   111
 
     *   Tschad
 
@@ -1340,16 +1342,16 @@ günstiger ist.
     *   20
 
 
-*    *   111
+*    *   112
 
     *   Tunesien
 
     *   Tunis
 
-    *   9
+    *   10
 
 
-*    *   112
+*    *   113
 
     *   Uganda
 
@@ -1362,7 +1364,7 @@ günstiger ist.
         **Amerika**
 
 
-*    *   113
+*    *   114
 
     *   Argentinien
 
@@ -1371,16 +1373,16 @@ günstiger ist.
     *   10
 
 
-*    *   114
+*    *   115
 
     *   Bolivien
 
     *   La Paz
 
-    *   15
+    *   16
 
 
-*    *   115
+*    *   116
 
     *   Brasilien
 
@@ -1389,35 +1391,35 @@ günstiger ist.
     *   12
 
 
-*    *   116
+*    *   117
 
     *   Porto Alegre
 
-    *   11
+    *   12
 
 
-*    *   117
+*    *   118
 
     *   Recife
 
     *   11
 
 
-*    *   118
+*    *   119
 
     *   Rio de Janeiro
 
     *   13
 
 
-*    *   119
+*    *   120
 
     *   São Paulo
 
-    *   13
+    *   14
 
 
-*    *   120
+*    *   121
 
     *   Chile
 
@@ -1426,7 +1428,7 @@ günstiger ist.
     *   12
 
 
-*    *   121
+*    *   122
 
     *   Costa Rica
 
@@ -1435,7 +1437,7 @@ günstiger ist.
     *   11
 
 
-*    *   122
+*    *   123
 
     *   Dominikanische Republik
 
@@ -1444,16 +1446,16 @@ günstiger ist.
     *   14
 
 
-*    *   123
+*    *   124
 
     *   Ecuador
 
     *   Quito
 
-    *   11
+    *   12
 
 
-*    *   124
+*    *   125
 
     *   El Salvador
 
@@ -1462,16 +1464,16 @@ günstiger ist.
     *   18
 
 
-*    *   125
+*    *   126
 
     *   Guatemala
 
     *   Guatemala City
 
-    *   17
+    *   15
 
 
-*    *   126
+*    *   127
 
     *   Haiti
 
@@ -1480,7 +1482,7 @@ günstiger ist.
     *   20
 
 
-*    *   127
+*    *   128
 
     *   Honduras
 
@@ -1489,7 +1491,7 @@ günstiger ist.
     *   20
 
 
-*    *   128
+*    *   129
 
     *   Jamaika
 
@@ -1498,37 +1500,37 @@ günstiger ist.
     *   19
 
 
-*    *   129
+*    *   130
 
     *   Kanada
 
     *   Ottawa
-
-    *   4
-
-
-*    *   130
-
-    *   Montreal
 
     *   5
 
 
 *    *   131
 
-    *   Toronto
+    *   Montreal
 
-    *   4
+    *   6
 
 
 *    *   132
 
-    *   Vancouver
+    *   Toronto
 
-    *   3
+    *   5
 
 
 *    *   133
+
+    *   Vancouver
+
+    *   4
+
+
+*    *   134
 
     *   Kolumbien
 
@@ -1537,43 +1539,43 @@ günstiger ist.
     *   10
 
 
-*    *   134
+*    *   135
 
     *   Kuba
 
     *   Havanna
 
-    *   20
+    *   19
 
 
-*    *   135
+*    *   136
 
     *   Mexiko
 
     *   Mexiko City
 
-    *   11
+    *   12
 
 
-*    *   136
+*    *   137
 
     *   Nicaragua
 
     *   Managua
 
-    *   18
-
-
-*    *   137
-
-    *   Panama
-
-    *   Panama
-
-    *   15
+    *   19
 
 
 *    *   138
+
+    *   Panama
+
+    *   Panama
+
+    *   12
+
+
+*    *   139
 
     *   Paraguay
 
@@ -1582,16 +1584,16 @@ günstiger ist.
     *   13
 
 
-*    *   139
+*    *   140
 
     *   Peru
 
     *   Lima
 
-    *   14
+    *   13
 
 
-*    *   140
+*    *   141
 
     *   Trinidad und Tobago
 
@@ -1600,16 +1602,16 @@ günstiger ist.
     *   18
 
 
-*    *   141
+*    *   142
 
     *   Uruguay
 
     *   Montevideo
 
-    *   10
+    *   11
 
 
-*    *   142
+*    *   143
 
     *   Venezuela
 
@@ -1618,76 +1620,76 @@ günstiger ist.
     *   19
 
 
-*    *   143
+*    *   144
 
     *   Vereinigte Staaten
 
     *   Washington
 
-    *   6
-
-
-*    *   144
-
-    *   Atlanta
-
-    *   6
+    *   7
 
 
 *    *   145
 
-    *   Boston
+    *   Atlanta
 
-    *   5
+    *   8
 
 
 *    *   146
 
-    *   Chicago
+    *   Boston
 
-    *   6
+    *   7
 
 
 *    *   147
+
+    *   Chicago
+
+    *   7
+
+
+*    *   148
 
     *   Houston
 
     *   6
 
 
-*    *   148
+*    *   149
 
     *   Los Angeles
 
-    *   6
+    *   7
 
 
-*    *   149
+*    *   150
 
     *   Miami
 
     *   6
 
 
-*    *   150
+*    *   151
 
     *   New York
 
-    *   7
+    *   8
 
 
-*    *   151
+*    *   152
 
     *   San Francisco
 
-    *   6
+    *   7
 
 
 *    *   Abschnitt 4
         **Asien**
 
 
-*    *   152
+*    *   153
 
     *   Afghanistan
 
@@ -1696,16 +1698,16 @@ günstiger ist.
     *   20
 
 
-*    *   153
+*    *   154
 
     *   Armenien
 
     *   Eriwan
 
-    *   12
+    *   13
 
 
-*    *   154
+*    *   155
 
     *   Aserbaidschan
 
@@ -1714,16 +1716,16 @@ günstiger ist.
     *   14
 
 
-*    *   155
+*    *   156
 
     *   Bahrain
 
     *   Manama
 
-    *   18
+    *   14
 
 
-*    *   156
+*    *   157
 
     *   Bangladesch
 
@@ -1732,7 +1734,7 @@ günstiger ist.
     *   20
 
 
-*    *   157
+*    *   158
 
     *   Brunei
 
@@ -1741,7 +1743,7 @@ günstiger ist.
     *   14
 
 
-*    *   158
+*    *   159
 
     *   China
 
@@ -1750,88 +1752,88 @@ günstiger ist.
     *   13
 
 
-*    *   159
+*    *   160
 
     *   Chengdu
 
     *   15
 
 
-*    *   160
+*    *   161
 
     *   Hongkong
 
-    *   11
-
-
-*    *   161
-
-    *   Kanton
-
-    *   14
+    *   12
 
 
 *    *   162
+
+    *   Kanton
+
+    *   15
+
+
+*    *   163
 
     *   Shanghai
 
     *   12
 
 
-*    *   163
+*    *   164
 
     *   Shenyang
 
     *   19
 
 
-*    *   164
+*    *   165
 
     *   Georgien
 
     *   Tiflis
 
-    *   13
-
-
-*    *   165
-
-    *   Indien
-
-    *   New Delhi
-
-    *   16
+    *   14
 
 
 *    *   166
 
-    *   Bangalore
+    *   Indien
+
+    *   Neu Delhi
 
     *   15
 
 
 *    *   167
 
-    *   Chennai
+    *   Bangalore
 
-    *   15
+    *   14
 
 
 *    *   168
 
-    *   Kalkutta
+    *   Chennai
 
     *   15
 
 
 *    *   169
 
-    *   Mumbai
+    *   Kalkutta
 
-    *   13
+    *   16
 
 
 *    *   170
+
+    *   Mumbai
+
+    *   14
+
+
+*    *   171
 
     *   Indonesien
 
@@ -1840,7 +1842,7 @@ günstiger ist.
     *   14
 
 
-*    *   171
+*    *   172
 
     *   Irak
 
@@ -1849,14 +1851,14 @@ günstiger ist.
     *   20
 
 
-*    *   172
+*    *   173
 
     *   Erbil
 
     *   20
 
 
-*    *   173
+*    *   174
 
     *   Iran
 
@@ -1865,32 +1867,32 @@ günstiger ist.
     *   20
 
 
-*    *   174
+*    *   175
 
     *   Israel
 
     *   Tel Aviv
 
-    *   11
+    *   14
 
 
-*    *   175
+*    *   176
 
     *   Japan
 
     *   Tokyo
 
-    *   12
+    *   11
 
 
-*    *   176
+*    *   177
 
     *   Osaka-Kobe
 
     *   12
 
 
-*    *   177
+*    *   178
 
     *   Jemen
 
@@ -1899,16 +1901,16 @@ günstiger ist.
     *   20
 
 
-*    *   178
+*    *   179
 
     *   Jordanien
 
     *   Amman
 
-    *   15
+    *   12
 
 
-*    *   179
+*    *   180
 
     *   Kambodscha
 
@@ -1917,41 +1919,41 @@ günstiger ist.
     *   20
 
 
-*    *   180
+*    *   181
 
     *   Kasachstan
 
-    *   Nur-Sultan
+    *   Astana
 
-    *   14
+    *   15
 
 
-*    *   181
+*    *   182
 
     *   Almaty
 
     *   14
 
 
-*    *   182
+*    *   183
 
     *   Katar
 
     *   Doha
 
-    *   14
+    *   13
 
 
-*    *   183
+*    *   184
 
     *   Kirgisistan
 
     *   Bischkek
 
-    *   18
+    *   19
 
 
-*    *   184
+*    *   185
 
     *   Korea, Demokratische Volksrepublik
 
@@ -1960,16 +1962,16 @@ günstiger ist.
     *   20
 
 
-*    *   185
+*    *   186
 
     *   Korea, Republik
 
     *   Seoul
 
-    *   10
+    *   9
 
 
-*    *   186
+*    *   187
 
     *   Kuwait
 
@@ -1978,7 +1980,7 @@ günstiger ist.
     *   13
 
 
-*    *   187
+*    *   188
 
     *   Laos
 
@@ -1987,16 +1989,16 @@ günstiger ist.
     *   17
 
 
-*    *   188
+*    *   189
 
     *   Libanon
 
     *   Beirut
 
-    *   16
+    *   15
 
 
-*    *   189
+*    *   190
 
     *   Malaysia
 
@@ -2005,7 +2007,7 @@ günstiger ist.
     *   9
 
 
-*    *   190
+*    *   191
 
     *   Mongolei
 
@@ -2014,7 +2016,7 @@ günstiger ist.
     *   20
 
 
-*    *   191
+*    *   192
 
     *   Myanmar
 
@@ -2023,7 +2025,7 @@ günstiger ist.
     *   20
 
 
-*    *   192
+*    *   193
 
     *   Nepal
 
@@ -2032,41 +2034,41 @@ günstiger ist.
     *   20
 
 
-*    *   193
+*    *   194
 
     *   Oman
 
     *   Maskat
 
-    *   13
+    *   14
 
 
-*    *   194
+*    *   195
 
     *   Pakistan
 
     *   Islamabad
 
-    *   17
-
-
-*    *   195
-
-    *   Karachi
-
-    *   18
+    *   16
 
 
 *    *   196
+
+    *   Karachi
+
+    *   17
+
+
+*    *   197
 
     *   Philippinen
 
     *   Manila
 
-    *   14
+    *   13
 
 
-*    *   197
+*    *   198
 
     *   Saudi-Arabien
 
@@ -2075,41 +2077,41 @@ günstiger ist.
     *   18
 
 
-*    *   198
+*    *   199
 
     *   Djidda
 
-    *   17
-
-
-*    *   199
-
-    *   Singapur
-
-    *   Singapur
-
-    *   10
+    *   16
 
 
 *    *   200
+
+    *   Singapur
+
+    *   Singapur
+
+    *   8
+
+
+*    *   201
 
     *   Sri Lanka
 
     *   Colombo
 
-    *   15
+    *   16
 
 
-*    *   201
+*    *   202
 
     *   Syrien
 
     *   Damaskus
 
-    *   19
+    *   20
 
 
-*    *   202
+*    *   203
 
     *   Tadschikistan
 
@@ -2118,16 +2120,16 @@ günstiger ist.
     *   19
 
 
-*    *   203
+*    *   204
 
     *   Thailand
 
     *   Bangkok
 
-    *   14
+    *   13
 
 
-*    *   204
+*    *   205
 
     *   Turkmenistan
 
@@ -2136,33 +2138,32 @@ günstiger ist.
     *   18
 
 
-*    *   205
+*    *   206
 
     *   Usbekistan
 
     *   Taschkent
 
-    *   19
+    *   18
 
 
-*    *   206
+*    *   207
 
-    *   Vereinigte Arabische
-        Emirate
+    *   Vereinigte Arabische Emirate
 
     *   Abu Dhabi
 
     *   13
 
 
-*    *   207
+*    *   208
 
     *   Dubai
 
     *   12
 
 
-*    *   208
+*    *   209
 
     *   Vietnam
 
@@ -2171,18 +2172,18 @@ günstiger ist.
     *   16
 
 
-*    *   209
+*    *   210
 
     *   Ho-Chi-Minh-Stadt
 
-    *   18
+    *   17
 
 
 *    *   Abschnitt 5
-        **Australien und Neuseeland**
+        **Australien, Neuseeland und Ozeanien**
 
 
-*    *   210
+*    *   211
 
     *   Australien
 
@@ -2191,14 +2192,23 @@ günstiger ist.
     *   9
 
 
-*    *   211
+*    *   212
 
     *   Sydney
 
     *   8
 
 
-*    *   212
+*    *   213
+
+    *   Fidschi
+
+    *   Suva
+
+    *   16
+
+
+*    *   214
 
     *   Neuseeland
 
@@ -2211,27 +2221,28 @@ günstiger ist.
         **Weitere Dienstorte**
 
 
-*    *   213
+*    *   215
 
     *
     *   Ramallah (Palästinensisches Autonomiegebiet)
 
-    *   16
+    *   19
 
 
-*    *   214
+*    *   216
 
     *
     *   Taipei (Taiwan)
 
-    *   12
+    *   11
+
 
 
 
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2022, 103 - 104)
+(Fundstelle: BGBl. 2023 I Nr. 162, S. 8 – 9)
 
 
 *    *
@@ -2265,67 +2276,44 @@ günstiger ist.
 
 *    *   2
 
-    *   Nancy/Toul
-
-    *   3
-
-
-*    *   3
-
     *   Italien
 
     *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
 
-    *   4
+    *   5
+
+
+*    *   3
+
+    *   Ghedi
+
+    *   5
 
 
 *    *   4
 
-    *   Ghedi
+    *   Neapel/Giugliano
 
-    *   4
+    *   5
 
 
 *    *   5
 
-    *   Neapel/Giugliano
+    *   Poggio Renatico/Ferrara
 
-    *   4
+    *   5
 
 
 *    *   6
-
-    *   Poggio Renatico/Ferrara
-
-    *   4
-
-
-*    *   7
-
-    *   Turin
-
-    *   2
-
-
-*    *   8
 
     *   Litauen
 
     *   Rukla
 
-    *   9
+    *   8
 
 
-*    *   9
-
-    *   Norwegen
-
-    *   Stavanger
-
-    *   3
-
-
-*    *   10
+*    *   7
 
     *   Polen
 
@@ -2334,7 +2322,7 @@ günstiger ist.
     *   5
 
 
-*    *   11
+*    *   8
 
     *   Spanien
 
@@ -2343,205 +2331,226 @@ günstiger ist.
     *   3
 
 
-*    *   12
+*    *   9
 
     *   Betera
 
-    *   2
+    *   3
 
 
-*    *   13
+*    *   10
+
+    *   Moron
+
+    *   3
+
+
+*    *   11
 
     *   Rota
 
-    *   2
+    *   3
 
 
-*    *   14
+*    *   12
 
     *   Saragossa
 
     *   3
 
 
-*    *   15
+*    *   13
 
     *   Sevilla
 
-    *   2
+    *   3
 
 
-*    *   16
+*    *   14
 
     *   Valencia
 
-    *   2
+    *   3
 
 
-*    *   17
+*    *   15
 
     *   Tschechische Republik
 
     *   Vyškov
+
+    *   7
+
+
+*    *   16
+
+    *   Vereinigtes Königreich
+
+    *   Andover (Hants)
+
+    *   6
+
+
+*    *   17
+
+    *   Bicester
 
     *   5
 
 
 *    *   18
 
-    *   Vereinigtes Königreich
+    *   Blackwater
 
-    *   Andover (Hants)
-
-    *   4
+    *   5
 
 
 *    *   19
 
-    *   Bicester
+    *   Blandford
 
-    *   3
+    *   6
 
 
 *    *   20
 
-    *   Blackwater
+    *   Brize Norton
 
-    *   3
+    *   5
 
 
 *    *   21
 
-    *   Blandford
+    *   Bristol
 
-    *   4
+    *   5
 
 
 *    *   22
 
-    *   Brize Norton
+    *   Camberley
 
-    *   3
+    *   5
 
 
 *    *   23
 
-    *   Bristol
+    *   Coningsby
 
-    *   3
+    *   6
 
 
 *    *   24
 
-    *   Camberley
+    *   Culdrose/Helston
 
-    *   3
+    *   5
 
 
 *    *   25
 
-    *   Coningsby
+    *   Fareham
 
-    *   4
+    *   5
 
 
 *    *   26
 
-    *   Culdrose/Helston
+    *   High Wycombe/Waters Ash
 
-    *   3
+    *   5
 
 
 *    *   27
 
-    *   Fareham
+    *   Honington/Cranwell RAF
 
-    *   3
+    *   5
 
 
 *    *   28
 
-    *   High Wycombe/Waters Ash
+    *   Huntingdon
 
-    *   3
+    *   5
 
 
 *    *   29
 
-    *   Honington
+    *   Innsworth
 
-    *   3
+    *   5
 
 
 *    *   30
 
-    *   Huntingdon
+    *   Lossiemouth
 
-    *   3
+    *   6
 
 
 *    *   31
 
-    *   Innsworth
+    *   Plymouth
 
-    *   3
+    *   5
 
 
 *    *   32
 
-    *   Lossiemouth
+    *   Portsmouth
 
-    *   4
+    *   5
 
 
 *    *   33
 
-    *   Plymouth
+    *   Preston
 
-    *   3
+    *   5
 
 
 *    *   34
 
-    *   Portsmouth
+    *   Salisbury
 
-    *   3
+    *   6
 
 
 *    *   35
 
     *
-    *   Preston/Warton
+    *   Shawbury/Shrewsbury
 
-    *   3
+    *   6
 
 
 *    *   36
 
-    *   Salisbury
+    *   Shrivenham/Swindon
 
-    *   4
+    *   5
 
 
 *    *   37
 
-    *   Shrivenham/Swindon
+    *   Warminster
 
-    *   3
+    *   6
 
 
 *    *   38
 
-    *   Warminster
+    *   Warton
 
-    *   4
+    *   5
 
 
 *    *   39
 
-    *   Yeovil
+    *   Yeovilton
 
-    *   4
+    *   6
 
 
 *    *   Abschnitt 2
@@ -2554,17 +2563,38 @@ günstiger ist.
 
     *   Cold Lake
 
-    *   9
+    *   10
 
 
 *    *   41
 
-    *   Southport/Portage la Prairie
+    *   Kelowna
 
-    *   9
+    *   7
 
 
 *    *   42
+
+    *   Southport/Portage la Prairie
+
+    *   10
+
+
+*    *   43
+
+    *   St. Johns
+
+    *   7
+
+
+*    *   44
+
+    *   Winnipeg
+
+    *   10
+
+
+*    *   45
 
     *   Vereinigte Staaten
 
@@ -2573,60 +2603,39 @@ günstiger ist.
     *   8
 
 
-*    *   43
-
-    *   Charleston AFB (South Carolina)
-
-    *   7
-
-
-*    *   44
-
-    *   Colorado Springs (Colorado)
-
-    *   8
-
-
-*    *   45
-
-    *   Dallas (Texas)
-
-    *   8
-
-
 *    *   46
 
-    *   Dayton (Ohio)
+    *   Albuquerque (New Mexico)
 
     *   8
 
 
 *    *   47
 
-    *   El Paso/Fort Bliss (Texas)
+    *   Charleston AFB (South Carolina)
 
-    *   8
+    *   7
 
 
 *    *   48
 
-    *   Fort Benning (Georgia)
+    *   Dallas (Texas)
 
-    *   8
+    *   9
 
 
 *    *   49
 
-    *   Fort Bragg/Fayetteville (North Carolina)
+    *   Dayton (Ohio)/Wright Patterson AFB
 
     *   8
 
 
 *    *   50
 
-    *   Fort Gordon (Georgia)
+    *   Fort Huachuca (Arizona)
 
-    *   8
+    *   10
 
 
 *    *   51
@@ -2638,125 +2647,102 @@ günstiger ist.
 
 *    *   52
 
-    *   Fort Lee (Virginia)
-
-    *   7
-
-
-*    *   53
-
     *   Fort Leonard Wood (Missouri)
-
-    *   10
-
-
-*    *   54
-
-    *   Fort Rucker/Enterprise
-        (Alabama)
 
     *   9
 
 
-*    *   55
+*    *   53
 
     *   Fort Sill (Oklahoma)
 
     *   9
 
 
-*    *   56
+*    *   54
 
     *   Goodyear/Phoenix (Arizona)
 
     *   9
 
 
+*    *   55
+
+    *   Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck),
+        Suffolk, Norfolk, Langley AFB/Newport News (Virginia)
+
+    *   6
+
+
+*    *   56
+
+    *   Honolulu (Hawaii)
+
+    *   10
+
+
 *    *   57
 
-    *   Huntsville/Redstone AFB
-        (Alabama)
+    *   Jacksonville/Maryport (Florida)
 
-    *   8
+    *   9
 
 
 *    *   58
 
-    *   Jacksonville/Mayport (Florida)
+    *   Kirtland AFB (New Mexico)
 
     *   8
 
 
 *    *   59
 
-    *   Kirtland AFB/Albuquerque (New Mexico)
+    *   Monterey (Kalifornien)
 
     *   8
 
 
 *    *   60
 
-    *   Las Vegas/Nellis AFB (Nevada)
-
-    *   7
-
-
-*    *   61
-
-    *   Maxwell/Montgomery (Alabama)
-
-    *   8
-
-
-*    *   62
-
-    *   Norfolk/Suffolk/Langley AFB/ Newport News/Virginia Beach (Virginia)
-
-    *   7
-
-
-*    *   63
-
-    *   Panama City/Tyndall AFB
-        (Florida)
+    *   Panama City/Tyndall AFB (Florida)
 
     *   9
 
 
-*    *   64
+*    *   61
 
     *   Pensacola/Eglin AFB (Florida)
 
     *   9
 
 
-*    *   65
+*    *   62
 
-    *   Reston/Dulles Int. Airport
-        (Virginia)
+    *   Reston/Dulles AFB (Virginia)
 
-    *   7
-
-
-*    *   66
-
-    *   San Diego (Kalifornien)
-
-    *   7
+    *   8
 
 
-*    *   67
+*    *   63
 
     *   Sheppard AFB/Wichita Falls (Texas)
 
     *   9
 
 
-*    *   68
+*    *   64
 
     *   Tucson (Arizona)
 
     *   9
+
+
+*    *   65
+
+    *   Yuma (Arizona)
+
+    *   10
+
 
 
 

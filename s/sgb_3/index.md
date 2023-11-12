@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 12a G v. 10.12.2021 I 5162
+:   Art. 7 G v. 16.8.2023 I Nr. 217
+
+Mittelbare änderung durch
+:   Art. 7a G v. 16.8.2023 I Nr. 217 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -249,7 +252,9 @@ für eine dauerhafte Eingliederung erforderlich. Von der
 Erforderlichkeit für die dauerhafte Eingliederung ist insbesondere
 auszugehen, wenn Arbeitnehmerinnen und Arbeitnehmer mit fehlendem
 Berufsabschluss an einer nach § 81 geförderten beruflichen
-Weiterbildung teilnehmen.
+Weiterbildung teilnehmen oder voraussichtlich teilnehmen werden. Der
+Vermittlungsvorrang gilt nicht im Verhältnis zur Förderung von
+Existenzgründungen mit einem Gründungszuschuss nach § 93.
 
 
 #### § 5 Vorrang der aktiven Arbeitsförderung
@@ -403,97 +408,7 @@ erforderlichen Tatsachen, insbesondere über
 -
 
 
-#### § 11 Eingliederungsbilanz
-
-(1) Die Bundesagentur und jede Agentur für Arbeit erstellen nach
-Abschluss eines Haushaltsjahres über ihre Ermessensleistungen der
-aktiven Arbeitsförderung eine Eingliederungsbilanz. Die
-Eingliederungsbilanzen müssen vergleichbar sein und sollen Aufschluss
-über den Mitteleinsatz, die geförderten Personengruppen und die
-Wirkung der Förderung geben.
-
-(2) Die Eingliederungsbilanzen sollen insbesondere Angaben enthalten
-zu
-
-1.  dem Anteil der Gesamtausgaben an den zugewiesenen Mitteln sowie zu den
-    Ausgaben für die einzelnen Leistungen und ihrem Anteil an den
-    Gesamtausgaben,
-
-
-2.  den durchschnittlichen Ausgaben für die einzelnen Leistungen je
-    geförderte Arbeitnehmerin und je geförderten Arbeitnehmer unter
-    Berücksichtigung der besonders förderungsbedürftigen Personengruppen,
-    insbesondere Langzeitarbeitslose, schwerbehinderte Menschen, Ältere,
-    Berufsrückkehrende und Personen mit geringer Qualifikation,
-
-
-3.  der Beteiligung besonders förderungsbedürftiger Personengruppen an den
-    einzelnen Leistungen unter Berücksichtigung ihres Anteils an den
-    Arbeitslosen,
-
-
-4.  der Beteiligung von Frauen an Maßnahmen der aktiven Arbeitsförderung
-    unter Berücksichtigung ihres Anteils an den Arbeitslosen und ihrer
-    relativen Betroffenheit von Arbeitslosigkeit sowie Angaben zu
-    Maßnahmen, die zu einer gleichberechtigten Teilhabe von Frauen am
-    Arbeitsmarkt beigetragen haben,
-
-
-5.  dem Verhältnis der Zahl der Arbeitslosen, die in eine nicht geförderte
-    Beschäftigung vermittelt wurden, zu der Zahl aller Abgänge aus
-    Arbeitslosigkeit in eine nicht geförderte Beschäftigung
-    (Vermittlungsquote); dabei sind besonders förderungsbedürftige
-    Personengruppen gesondert auszuweisen,
-
-
-6.  dem Verhältnis
-
-    a)  der Zahl der Arbeitnehmerinnen und Arbeitnehmer, die sechs Monate nach
-        Abschluss einer Maßnahme der aktiven Arbeitsförderung nicht mehr
-        arbeitslos sind, sowie
-
-
-    b)  der Zahl der Arbeitnehmerinnen und Arbeitnehmer, die nach angemessener
-        Zeit im Anschluss an eine Maßnahme der aktiven Arbeitsförderung
-        sozialversicherungspflichtig beschäftigt sind,
-
-
-
-    jeweils zu der Zahl der geförderten Arbeitnehmerinnen und Arbeitnehmer
-    in den einzelnen Maßnahmebereichen; dabei sind besonders
-    förderungsbedürftige Personengruppen gesondert auszuweisen,
-
-
-7.  der Entwicklung der Rahmenbedingungen für die Eingliederung auf dem
-    regionalen Arbeitsmarkt,
-
-
-8.  der Veränderung der Maßnahmen im Zeitverlauf,
-
-
-9.  der Arbeitsmarktsituation von Personen mit Migrationshintergrund.
-
-
-
-Die Zentrale der Bundesagentur stellt den Agenturen für Arbeit
-einheitliche Berechnungsmaßstäbe zu den einzelnen Angaben zur
-Verfügung, um die Vergleichbarkeit der Eingliederungsbilanzen
-sicherzustellen.
-
-(3) Die Eingliederungsbilanzen der Agenturen für Arbeit sind mit den
-Beteiligten des örtlichen Arbeitsmarktes zu erörtern. Dazu sind sie um
-einen Teil zu ergänzen, der weiteren Aufschluss gibt über die
-Leistungen und ihre Wirkungen auf den örtlichen Arbeitsmarkt,
-Aufschluss über die Konzentration der Maßnahmen auf einzelne Träger
-sowie Aufschluss über die Zusammensetzung der Maßnahmen zur
-Aktivierung und beruflichen Eingliederung sowie über die an diesen
-Maßnahmen teilnehmenden Personen und deren weitere Eingliederung in
-den Ausbildungs- und Arbeitsmarkt.
-
-(4) Die Eingliederungsbilanzen sind bis zum 31. Oktober des folgenden
-Jahres fertigzustellen und zu veröffentlichen.
-
-(5) (weggefallen)
+#### § 11 (weggefallen)
 
 
 ### Zweiter Abschnitt - Berechtigte
@@ -2245,7 +2160,7 @@ Maßnahmekosten erstattet:
 durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder
 dem Auszubildenden vereinbarten Vergütung zuzüglich des pauschalierten
 Anteils am durchschnittlichen Gesamtsozialversicherungsbeitrag
-gefördert werden. Der Zuschuss zur Vergütung ist auf 247 Euro
+gefördert werden. Der Zuschuss zur Vergütung ist auf 262 Euro
 monatlich begrenzt. Die betriebliche Einstiegsqualifizierung dient der
 Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher
 Handlungsfähigkeit. Soweit die betriebliche Einstiegsqualifizierung
@@ -2471,7 +2386,7 @@ begleiteten Wohnform im Sinne des Achten Buches untergebracht, werden
 abweichend von Absatz 1 als Bedarf für den Lebensunterhalt die im
 Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für
 Verpflegung und Unterbringung ohne sozialpädagogische Begleitung
-zuzüglich 103 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt.
+zuzüglich 109 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt.
 Als Bedarf für den Lebensunterhalt von Auszubildenden unter 27 Jahren
 werden zusätzlich die Entgelte für die sozialpädagogische Begleitung
 zugrunde gelegt, soweit diese nicht von Dritten erstattet werden. Ist
@@ -2497,7 +2412,7 @@ Lebensunterhalt der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer
 Wohnheim oder einem Internat untergebracht, werden abweichend von
 Absatz 2 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a
 bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und
-Unterbringung ohne sozialpädagogische Begleitung zuzüglich 103 Euro
+Unterbringung ohne sozialpädagogische Begleitung zuzüglich 109 Euro
 monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den
 Lebensunterhalt von Auszubildenden unter 18 Jahren werden zusätzlich
 die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt,
@@ -2555,7 +2470,7 @@ gelegt, der nach § 86 insgesamt erbracht werden kann.
 
 (1) Bei einer Berufsausbildung wird als Bedarf für sonstige
 Aufwendungen eine Pauschale für Kosten der Arbeitskleidung in Höhe von
-14 Euro monatlich zugrunde gelegt.
+15 Euro monatlich zugrunde gelegt.
 
 (2) Bei einer berufsvorbereitenden Bildungsmaßnahme werden als Bedarf
 für sonstige Aufwendungen bei Auszubildenden, deren Schutz im
@@ -2569,7 +2484,7 @@ privaten Krankenversicherungsunternehmen zugrunde gelegt.
 (3) Bei einer Berufsausbildung und einer berufsvorbereitenden
 Bildungsmaßnahme werden als Bedarf für sonstige Aufwendungen die
 Kosten für die Betreuung der aufsichtsbedürftigen Kinder der oder des
-Auszubildenden in Höhe von 150 Euro monatlich je Kind zugrunde gelegt.
+Auszubildenden in Höhe von 160 Euro monatlich je Kind zugrunde gelegt.
 Darüber hinaus können sonstige Kosten anerkannt werden,
 
 1.  soweit sie durch die Berufsausbildung oder die Teilnahme an der
@@ -2638,9 +2553,9 @@ Rechtsverordnungen entsprechend. Abweichend von
     Entscheidung sind zu berücksichtigen;
 
 
-3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 66 Euro
+3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 80 Euro
     der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des
-    Bundesausbildungsförderungsgesetzes zusätzlich 709 Euro
+    Bundesausbildungsförderungsgesetzes zusätzlich 856 Euro
     anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern
     oder eines Elternteils aus nicht in angemessener Zeit erreicht werden
     kann;
@@ -3108,8 +3023,11 @@ werden auf Zeiten des gewöhnlichen Aufenthalts nicht angerechnet.
 außerbetriebliche Berufsausbildung durchführt, die von diesem an die
 Auszubildende oder den Auszubildenden zu zahlende
 Ausbildungsvergütung, jedoch höchstens den Betrag nach § 17 Absatz 2
-des Berufsbildungsgesetzes. Der Betrag erhöht sich um den vom Träger
-zu tragenden Anteil am Gesamtsozialversicherungsbeitrag.
+des Berufsbildungsgesetzes. Wird die Berufsausbildung in Teilzeit
+durchgeführt, bemisst sich dieser Betrag unter entsprechender
+Berücksichtigung des § 17 Absatz 5 Satz 3 des Berufsbildungsgesetzes.
+Der Betrag erhöht sich um den vom Träger zu tragenden Anteil am
+Gesamtsozialversicherungsbeitrag.
 
 (8) Mit der Durchführung von Maßnahmen der außerbetrieblichen
 Berufsausbildung beauftragt die Agentur für Arbeit Träger unter
@@ -3245,24 +3163,16 @@ beteiligen. Leistungen Dritter zur Aufstockung der Leistung bleiben
 anrechnungsfrei.
 
 (3a) Arbeitnehmerinnen und Arbeitnehmer können zum Erwerb von
-Grundkompetenzen durch Übernahme der Weiterbildungskosten gefördert
-werden, wenn
+Grundkompetenzen durch die Übernahme der Weiterbildungskosten
+gefördert werden, wenn
 
 1.  die in Absatz 1 genannten Voraussetzungen für die Förderung der
-    beruflichen Weiterbildung erfüllt sind,
+    beruflichen Weiterbildung erfüllt sind und
 
 
-2.  die Arbeitnehmerinnen und Arbeitnehmer nicht über ausreichende
-    Grundkompetenzen verfügen, um erfolgreich an einer beruflichen
-    Weiterbildung teilzunehmen, die zu einem Abschluss in einem
-    Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen
-    Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren
-    festgelegt ist, und
-
-
-3.  nach einer Teilnahme an der Maßnahme zum Erwerb von Grundkompetenzen
-    der erfolgreiche Abschluss einer beruflichen Weiterbildung nach Nummer
-    2 erwartet werden kann.
+2.  der Erwerb der Grundkompetenzen die Grundlage schafft für eine
+    erfolgreiche berufliche Weiterbildung oder allgemein die
+    Beschäftigungsfähigkeit verbessert.
 
 
 
@@ -3472,7 +3382,7 @@ unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
 
 (9) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in
 Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist
-bis zum 31. Juli 2023 ausgeschlossen.
+bis zum 31. Juli 2024 ausgeschlossen.
 
 
 #### § 83 Weiterbildungskosten
@@ -3505,8 +3415,8 @@ ausschließlich von dem Träger zu erstatten.
 
 (1) Lehrgangskosten sind Lehrgangsgebühren einschließlich
 
-1.  der Kosten für erforderliche Lernmittel, Arbeitskleidung und
-    Prüfungsstücke,
+1.  der Kosten für erforderliche Lernmittel, notwendige sozialpädagogische
+    Begleitung, Arbeitskleidung und Prüfungsstücke,
 
 
 2.  der Prüfungsgebühren für gesetzlich geregelte oder allgemein
@@ -3561,8 +3471,32 @@ Ist eine auswärtige Unterbringung erforderlich, so kann
 #### § 87 Kinderbetreuungskosten
 
 Kosten für die Betreuung der aufsichtsbedürftigen Kinder der
-Arbeitnehmerin oder des Arbeitnehmers können in Höhe von 150 Euro
-monatlich je Kind übernommen werden.
+Arbeitnehmerin oder des Arbeitnehmers können pauschal in Höhe von 160
+Euro monatlich je Kind übernommen werden.
+
+
+#### § 87a Weiterbildungsprämie und Weiterbildungsgeld
+
+(1) Arbeitnehmerinnen und Arbeitnehmer erhalten folgende Prämien, wenn
+sie an einer nach § 81 geförderten beruflichen Weiterbildung
+teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt,
+für den nach bundes- oder landesrechtlichen Vorschriften eine
+Ausbildungsdauer von mindestens zwei Jahren festgelegt ist:
+
+1.  nach Bestehen einer in den genannten Vorschriften geregelten
+    Zwischenprüfung oder des ersten Teils einer gestreckten
+    Abschlussprüfung eine Prämie von 1 000 Euro und
+
+
+2.  nach Bestehen einer in den genannten Vorschriften geregelten
+    Abschlussprüfung eine Prämie von 1 500 Euro.
+
+
+
+
+(2) Arbeitslose Arbeitnehmerinnen und Arbeitnehmer erhalten bei
+Teilnahme an einer Weiterbildung nach Absatz 1 zusätzlich einen
+monatlichen Zuschuss in Höhe von 150 Euro (Weiterbildungsgeld).
 
 
 ### Fünfter Abschnitt - Aufnahme einer Erwerbstätigkeit
@@ -4306,7 +4240,7 @@ den jeweiligen Kalendermonat 50 Prozent der von ihm allein zu
 tragenden Beiträge zur Sozialversicherung in pauschalierter Form für
 Arbeitnehmerinnen und Arbeitnehmer erstattet, wenn diese
 
-1.  vor dem 31. Juli 2023 Kurzarbeitergeld beziehen und
+1.  vor dem 31. Juli 2024 Kurzarbeitergeld beziehen und
 
 
 2.  an einer während der Kurzarbeit begonnenen beruflichen
@@ -4333,7 +4267,7 @@ ist. Für die Pauschalierung wird die Sozialversicherungspauschale nach
 § 153 Absatz 1 Satz 2 Nummer 1 abzüglich des Beitrages zur
 Arbeitsförderung zu Grunde gelegt.
 
-(2) Dem Arbeitgeber werden bis zum 31. Juli 2023 von der Agentur für
+(2) Dem Arbeitgeber werden bis zum 31. Juli 2024 von der Agentur für
 Arbeit auf Antrag die Lehrgangskosten für Weiterbildungsmaßnahmen nach
 Absatz 1 Satz 1 Nummer 2 Buchstabe a für Betriebe mit weniger als zehn
 Beschäftigten zu 100 Prozent, mit zehn bis 249 Beschäftigten zu 50
@@ -4402,25 +4336,12 @@ Beträge als Insolvenzgläubigerin zurückverlangen.
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche
-Bezugsdauer hinaus bis zur Dauer von 24 Monaten zu verlängern, wenn
-außergewöhnliche Verhältnisse auf dem gesamten Arbeitsmarkt vorliegen.
-
-(1a) Die Bundesregierung wird ermächtigt, für den Fall
-außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer
-hinaus bis zur Dauer von 24 Monaten zu verlängern. Die Verordnung ist
-zeitlich zu befristen.
-
-(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, die Wirtschaftszweige nach § 101 Absatz 1 Nummer 1
 festzulegen. In der Regel sollen hierbei der fachliche Geltungsbereich
 tarifvertraglicher Regelungen berücksichtigt und die
 Tarifvertragsparteien vorher angehört werden.
 
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, auf
+(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, auf
 Grundlage von Vereinbarungen der Tarifvertragsparteien durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 festzulegen, ob, in welcher Höhe und für welche Arbeitnehmerinnen und
@@ -4428,37 +4349,74 @@ Arbeitnehmer die ergänzenden Leistungen nach § 102 Absatz 2 bis 4 in
 den Zweigen des Baugewerbes und den einzelnen Wirtschaftszweigen
 erbracht werden.
 
-(4) Bei den Festlegungen nach den Absätzen 2 und 3 ist zu
+(3) Bei den Festlegungen nach den Absätzen 1 und 2 ist zu
 berücksichtigen, ob diese voraussichtlich in besonderem Maße dazu
 beitragen, die wirtschaftliche Tätigkeit in der Schlechtwetterzeit zu
 beleben oder die Beschäftigungsverhältnisse der von saisonbedingten
 Arbeitsausfällen betroffenen Arbeitnehmerinnen und Arbeitnehmer zu
 stabilisieren.
 
+(4) Die Bundesregierung wird ermächtigt, für den Fall
+außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer
+hinaus bis zur Dauer von 24 Monaten zu verlängern. Die
+Rechtsverordnung ist zeitlich zu befristen.
+
 (5) Die Bundesregierung wird ermächtigt, für den Fall
 außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1.  abweichend von § 96 Absatz 1 Satz 1 Nummer 4 den Anteil der in dem
-    Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die vom
-    Entgeltausfall betroffen sein müssen, auf bis zu 10 Prozent
+    Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die von
+    einem Entgeltausfall von jeweils mehr als 10 Prozent ihres monatlichen
+    Bruttoentgelts betroffen sein müssen, auf bis zu 10 Prozent
     herabzusetzen,
 
 
-2.  abweichend von § 96 Absatz 4 Satz 2 Nummer 3 auf den Einsatz negativer
-    Arbeitszeitsalden zur Vermeidung von Kurzarbeit vollständig oder
-    teilweise zu verzichten,
+2.  abweichend von § 96 Absatz 4 Satz 2 Nummer 2 die Vermeidbarkeit eines
+    Arbeitsausfalls zu regeln, indem auf den vollständigen oder teilweisen
+    Einsatz von Erholungsurlaub verzichtet wird,
 
 
-3.  eine vollständige oder teilweise Erstattung der von den Arbeitgebern
-    allein zu tragenden Beiträge zur Sozialversicherung für
-    Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen,
-    einzuführen.
+3.  abweichend von § 96 Absatz 4 Satz 2 Nummer 3 die Vermeidbarkeit eines
+    Arbeitsausfalls zu regeln, indem auf den Einsatz von
+    Arbeitszeitguthaben und negativen Arbeitszeitsalden vollständig oder
+    teilweise verzichtet wird.
 
 
 
-Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit
-Ablauf des 31. März 2022 außer Kraft.
+Die Rechtsverordnung ist zeitlich zu befristen. Die Ermächtigungen
+nach Satz 1 treten mit Ablauf des 30. Juni 2023 außer Kraft.
+
+(6) Die Bundesregierung wird ermächtigt, für den Fall
+außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+eine vollständige oder teilweise Erstattung der von den Arbeitgebern
+allein zu tragenden Beiträge zur Sozialversicherung für
+Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen,
+einzuführen. Die Rechtsverordnung ist zeitlich zu befristen. Die
+Ermächtigung nach Satz 1 tritt mit Ablauf des 30. Juni 2023 außer
+Kraft.
+
+(7) Die Bundesregierung wird ermächtigt, für den Fall
+außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+abweichend von § 99 Absatz 2 Satz 1 zu bestimmen, dass die Anzeige
+über den Arbeitsausfall auch dann als rechtzeitig erstattet gilt, wenn
+die Anzeige im Folgemonat erstattet wird. Die Rechtsverordnung ist
+zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf
+des 30. Juni 2023 außer Kraft.
+
+(8) Die Bundesregierung wird ermächtigt, für den Fall
+außergewöhnlicher Verhältnisse auf dem Arbeitsmarkt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+festzulegen, dass Entgelt aus einer geringfügigen Beschäftigung nach §
+8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezuges von
+Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3
+dem Ist-Entgelt nicht hinzugerechnet wird. Die Rechtsverordnung ist
+zeitlich zu befristen. Die Ermächtigung nach Satz 1 tritt mit Ablauf
+des 30. Juni 2023 außer Kraft.
 
 
 #### Zweiter Unterabschnitt - Transferleistungen
@@ -4974,6 +4932,12 @@ Arbeitnehmerin oder Arbeitnehmer im Ausland, die für die weitere
 Ausübung des Berufes oder für den beruflichen Aufstieg nützlich und
 üblich ist, längstens jedoch um zwei Jahre.
 
+(3) Wenn der Mensch mit Behinderungen bereits an einer
+berufsvorbereitenden Bildungsmaßnahme teilgenommen hat und
+anschließend an einer Maßnahme der Berufsausbildung teilnimmt, so ist
+der Eintritt in die berufsvorbereitende Bildungsmaßnahme der
+maßgebliche Zeitpunkt für den Beginn der Teilnahme nach Absatz 1.
+
 
 ###### § 121 Übergangsgeld ohne Vorbeschäftigungszeit
 
@@ -5040,7 +5004,7 @@ folgender Bedarf zugrunde gelegt:
 
 
 2.  bei Unterbringung in einem Wohnheim, einem Internat oder einer
-    besonderen Einrichtung für Menschen mit Behinderungen 119 Euro
+    besonderen Einrichtung für Menschen mit Behinderungen 126 Euro
     monatlich, wenn die Kosten für Unterbringung und Verpflegung von der
     Agentur für Arbeit oder einem anderen Leistungsträger übernommen
     werden,
@@ -5078,7 +5042,7 @@ wird folgender Bedarf zugrunde gelegt:
 
 
 2.  bei Unterbringung in einem Wohnheim, einem Internat oder einer
-    besonderen Einrichtung für Menschen mit Behinderungen 119 Euro
+    besonderen Einrichtung für Menschen mit Behinderungen 126 Euro
     monatlich, wenn die Kosten für Unterbringung und Verpflegung von der
     Agentur für Arbeit oder einem anderen Leistungsträger übernommen
     werden,
@@ -5098,7 +5062,7 @@ wird folgender Bedarf zugrunde gelegt:
 Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich
 anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren
 Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches wird
-ein Ausbildungsgeld in Höhe von 119 Euro monatlich gezahlt.
+ein Ausbildungsgeld in Höhe von 126 Euro monatlich gezahlt.
 
 
 ###### § 126 Einkommensanrechnung
@@ -5112,17 +5076,17 @@ erzielt, wird nicht auf den Bedarf angerechnet.
 Einkommen
 
 1.  des Menschen mit Behinderungen aus Waisenrenten, Waisengeld oder aus
-    Unterhaltsleistungen bis zu 277 Euro monatlich,
+    Unterhaltsleistungen bis zu 334 Euro monatlich,
 
 
-2.  der Eltern bis zu 3 637 Euro monatlich, des verwitweten Elternteils
+2.  der Eltern bis zu 4 392 Euro monatlich, des verwitweten Elternteils
     oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei
     dem der Mensch mit Behinderungen lebt, ohne Anrechnung des Einkommens
-    des anderen Elternteils, bis zu 2 266 Euro monatlich und
+    des anderen Elternteils, bis zu 2 736 Euro monatlich und
 
 
 3.  der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des
-    Lebenspartners bis zu 2 266 Euro monatlich.
+    Lebenspartners bis zu 2 736 Euro monatlich.
 
 
 
@@ -5184,7 +5148,7 @@ Teilhabe am Arbeitsleben geltenden Regelungen zu bestimmen.
 (2) Abweichend von § 81 Absatz 4 kann die Agentur für Arbeit unter
 Anwendung des Vergaberechts Träger mit der Durchführung von folgenden
 Maßnahmen beauftragen, wenn die Maßnahmen vor Ablauf des 31. Dezember
-2023 beginnen:
+2026 beginnen:
 
 1.  Maßnahmen, die zum Erwerb von Grundkompetenzen nach § 81 Absatz 3a
     führen,
@@ -5205,22 +5169,7 @@ Maßnahmen beauftragen, wenn die Maßnahmen vor Ablauf des 31. Dezember
 Für Maßnahmen nach Nummer 2 gilt § 180 Absatz 4 entsprechend. § 176
 Absatz 2 Satz 2 findet keine Anwendung.
 
-(3) Arbeitnehmerinnen und Arbeitnehmer, die an einer nach § 81
-geförderten beruflichen Weiterbildung teilnehmen, die zu einem
-Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder
-landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens
-zwei Jahren festgelegt ist, erhalten folgende Prämien, wenn die
-Maßnahme vor Ablauf des 31. Dezember 2023 beginnt:
-
-1.  nach Bestehen einer in diesen Vorschriften geregelten Zwischenprüfung
-    eine Prämie von
-    1 000 Euro                    und
-
-
-2.  nach Bestehen der Abschlussprüfung eine Prämie von 1 500 Euro.
-
-
-
+(3) (weggefallen)
 
 
 #### § 131b Weiterbildungsförderung in der Altenpflege
@@ -5579,8 +5528,8 @@ erfüllen sowie darlegen und nachweisen, dass
 
 
 
-gilt bis zum 31. Dezember 2022, dass die Anwartschaftszeit sechs
-Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
+beträgt die Anwartschaftszeit sechs Monate. § 27 Absatz 3 Nummer 1
+bleibt unberührt.
 
 
 ##### § 143 Rahmenfrist
@@ -5828,7 +5777,7 @@ sind; sie verlängert sich längstens bis zu der dem Lebensalter der
 oder des Arbeitslosen zugeordneten Höchstdauer.
 
 
-##### § 148 Minderung der Anspruchsdauer
+##### § 148 Minderung und Verlängerung der Anspruchsdauer
 
 (1) Die Dauer des Anspruchs auf Arbeitslosengeld mindert sich um
 
@@ -5880,16 +5829,24 @@ oder des Arbeitslosen zugeordneten Höchstdauer.
 (2) In den Fällen des Absatzes 1 Nummer 5 und 6 mindert sich die Dauer
 des Anspruchs auf Arbeitslosengeld höchstens um vier Wochen. In den
 Fällen des Absatzes 1 Nummer 3 und 4 entfällt die Minderung für
-Sperrzeiten bei Abbruch einer beruflichen Eingliederungsmaßnahme oder
-Arbeitsaufgabe, wenn das Ereignis, das die Sperrzeit begründet, bei
-Erfüllung der Voraussetzungen für den Anspruch auf Arbeitslosengeld
-länger als ein Jahr zurückliegt. In den Fällen des Absatzes 1 Nummer 7
-unterbleibt eine Minderung, soweit sich dadurch eine Anspruchsdauer
-von weniger als einem Monat ergibt. Ist ein neuer Anspruch entstanden,
-erstreckt sich die Minderung nur auf die Restdauer des erloschenen
-Anspruchs (§ 147 Absatz 4).
+Sperrzeiten bei Abbruch einer beruflichen Eingliederungsmaßnahme, bei
+Abbruch eines Integrationskurses oder einer berufsbezogenen
+Deutschsprachförderung oder bei Arbeitsaufgabe, wenn das Ereignis, das
+die Sperrzeit begründet, bei Erfüllung der Voraussetzungen für den
+Anspruch auf Arbeitslosengeld länger als ein Jahr zurückliegt. In den
+Fällen des Absatzes 1 Nummer 7 unterbleibt eine Minderung, soweit sich
+dadurch eine Anspruchsdauer von weniger als drei Monaten ergibt. Ist
+ein neuer Anspruch entstanden, erstreckt sich die Minderung nur auf
+die Restdauer des erloschenen Anspruchs (§ 147 Absatz 4).
 
-(3) In den Fällen des Absatzes 1 Nummer 1, 2 und 7 entfällt die
+(3) Ist in den Fällen des Absatzes 1 Nummer 7 die oder der Arbeitslose
+wegen einer beruflichen Weiterbildung für eine Dauer von mindestens
+sechs Monaten gefördert worden und beträgt die Restdauer ihres oder
+seines Anspruchs weniger als drei Monate, erfolgt einmalig für den
+Anspruch auf Arbeitslosengeld eine Verlängerung der Anspruchsdauer auf
+drei Monate.
+
+(4) In den Fällen des Absatzes 1 Nummer 1, 2 und 7 entfällt die
 Minderung für Tage, für die der Bundesagentur das nach den §§ 145, 157
 Absatz 3 oder nach § 158 Absatz 4 geleistete Arbeitslosengeld
 einschließlich der darauf entfallenden Beiträge zur Kranken-, Renten-
@@ -6000,10 +5957,12 @@ verlangt und die zur Bemessung erforderlichen Unterlagen vorlegt.
 
 (1) Bemessungsentgelt ist das durchschnittlich auf den Tag entfallende
 beitragspflichtige Arbeitsentgelt, das die oder der Arbeitslose im
-Bemessungszeitraum erzielt hat. Arbeitsentgelte, auf die die oder der
-Arbeitslose beim Ausscheiden aus dem Beschäftigungsverhältnis Anspruch
-hatte, gelten als erzielt, wenn sie zugeflossen oder nur wegen
-Zahlungsunfähigkeit des Arbeitgebers nicht zugeflossen sind.
+Bemessungszeitraum erzielt hat; Besonderheiten des Übergangsbereichs
+nach § 20 Absatz 2 des Vierten Buches sind nicht zu berücksichtigen.
+Arbeitsentgelte, auf die die oder der Arbeitslose beim Ausscheiden aus
+dem Beschäftigungsverhältnis Anspruch hatte, gelten als erzielt, wenn
+sie zugeflossen oder nur wegen Zahlungsunfähigkeit des Arbeitgebers
+nicht zugeflossen sind.
 
 (2) Außer Betracht bleiben Arbeitsentgelte,
 
@@ -6023,7 +5982,9 @@ Zahlungsunfähigkeit des Arbeitgebers nicht zugeflossen sind.
     vertraglich vereinbarte Leistung zur Vermeidung der Inanspruchnahme
     von Saison-Kurzarbeitergeld bezogen haben, das Arbeitsentgelt, das
     Arbeitslose ohne den Arbeitsausfall und ohne Mehrarbeit erzielt
-    hätten,
+    hätten; dies gilt auch, wenn die Entscheidung über den Anspruch auf
+    Kurzarbeitergeld rückwirkend aufgehoben wird oder die Leistung
+    zurückgefordert oder zurückgezahlt worden ist,
 
 
 2.  für Zeiten einer Vereinbarung nach § 7b des Vierten Buches das
@@ -6045,7 +6006,9 @@ Zahlungsunfähigkeit des Arbeitgebers nicht zugeflossen sind.
 (4) Haben Arbeitslose innerhalb der letzten zwei Jahre vor der
 Entstehung des Anspruchs Arbeitslosengeld bezogen, ist
 Bemessungsentgelt mindestens das Entgelt, nach dem das
-Arbeitslosengeld zuletzt bemessen worden ist.
+Arbeitslosengeld zuletzt bemessen worden ist; dies gilt auch, wenn sie
+das Arbeitslosengeld nur deshalb nicht bezogen haben, weil der
+Anspruch geruht hat.
 
 (5) Ist die oder der Arbeitslose nicht mehr bereit oder in der Lage,
 die im Bemessungszeitraum durchschnittlich auf die Woche entfallende
@@ -6096,7 +6059,14 @@ Dabei ist zugrunde zu legen für Beschäftigungen, die
 
 
 4.  keine Ausbildung erfordern (Qualifikationsgruppe 4), ein
-    Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße.
+    Arbeitsentgelt in Höhe von einem Sechshundertstel der Bezugsgröße,
+    mindestens jedoch ein Arbeitsentgelt in Höhe des Betrages, der sich
+    ergibt, wenn der Mindestlohn je Zeitstunde nach § 1 Absatz 2 Satz 1
+    des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des §
+    11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen
+    Verordnung mit einem Siebtel der tariflichen regelmäßigen
+    wöchentlichen Arbeitszeit, die für Tarifbeschäftigte im öffentlichen
+    Dienst des Bundes gilt, vervielfacht wird.
 
 
 
@@ -6179,6 +6149,16 @@ Einkommensteuergesetzes zu berücksichtigen; ein Ausfall des
 Arbeitsentgelts, der den Anspruch auf eine lohnsteuerfreie
 Entgeltersatzleistung begründet, bleibt bei der Beurteilung des
 Verhältnisses der monatlichen Arbeitsentgelte außer Betracht.
+
+(4) Abzüge nach Absatz 1 Satz 2 Nummer 2 und 3 sind nicht zu
+berücksichtigen bei Personen, deren Ansässigkeitsstaat nach einem
+Abkommen zur Vermeidung der Doppelbesteuerung das Besteuerungsrecht
+für das Arbeitslosengeld zusteht und wenn das aus Deutschland gezahlte
+Arbeitslosengeld nach den maßgebenden Vorschriften des
+Ansässigkeitsstaats der Steuer unterliegt. Unterliegt das
+Arbeitslosengeld im Ansässigkeitsstaat nach dessen maßgebenden
+Vorschriften nicht der Steuer, sind die Abzüge nach Absatz 1 Satz 2
+entsprechend zu berücksichtigen.
 
 
 ##### § 154 Berechnung und Leistung
@@ -6286,7 +6266,8 @@ an bis zu dem Tag, an dem der Antrag gestellt wird.
 
     b)  nur bis zur Höhe der zuerkannten Leistung, wenn die Leistung auch
         während einer Beschäftigung und ohne Rücksicht auf die Höhe des
-        Arbeitsentgelts gewährt wird.
+        Arbeitsentgelts gewährt wird; dies gilt nicht für Altersrenten aus der
+        gesetzlichen Rentenversicherung.
 
 
 
@@ -7060,6 +7041,18 @@ von der Verpflichtung befreit, Beiträge an das private
 Krankenversicherungsunternehmen zu zahlen, als die Bundesagentur die
 Beitragszahlung für sie oder ihn übernommen hat.
 
+(4) Für Bezieherinnen und Bezieher von Arbeitslosengeld, die Mitglied
+in einer in § 176 Absatz 1 des Fünften Buches genannten
+Solidargemeinschaft sind, gelten Absatz 1 Nummer 1 und Absatz 2 Satz 1
+und 2 Nummer 1 entsprechend. Für Bezieherinnen und Bezieher von
+Arbeitslosengeld, die nach § 21a Absatz 1 Satz 1 des Elften Buches in
+der sozialen Pflegeversicherung versicherungspflichtig sind oder nach
+§ 23 Absatz 4a des Elften Buches bei einem privaten
+Versicherungsunternehmen gegen das Risiko der Pflegebedürftigkeit
+versichert sind, wird für die Dauer des Leistungsbezugs ein Zuschuss
+zum Beitrag geleistet; für die Höhe des Zuschusses gelten Absatz 2
+Satz 1 und 2 Nummer 2 entsprechend.
+
 
 #### § 175 Zahlung von Pflichtbeiträgen bei Insolvenzereignis
 
@@ -7291,15 +7284,13 @@ Grundkompetenzen vermitteln und betriebliche Lernphasen vorsehen.
 
 Satz 1 gilt nicht für Maßnahmen, die
 
-1.  auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten,
+1.  auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten
+    oder
 
 
-2.  Grundkompetenzen vermitteln, die für den Erwerb eines Abschlusses in
-    einem anerkannten Ausbildungsberuf erforderlich sind, oder
-
-
-3.  die Weiterbildung in einem Betrieb, die zum Erwerb eines solchen
-    Abschlusses führt, unterstützend begleiten.
+2.  Grundkompetenzen vermitteln, deren Erwerb die Grundlage für eine
+    erfolgreiche berufliche Weiterbildung schafft oder allgemein die
+    Beschäftigungsfähigkeit verbessert.
 
 
 
@@ -7308,16 +7299,13 @@ Satz 1 gilt nicht für Maßnahmen, die
 allgemein anerkannten Ausbildungsberuf führt, ist angemessen im Sinne
 des § 179 Absatz 1 Nummer 3, wenn sie gegenüber einer entsprechenden
 Berufsausbildung um mindestens ein Drittel der Ausbildungszeit
-verkürzt ist. Ist eine Verkürzung um mindestens ein Drittel der
-Ausbildungszeit auf Grund bundes- oder landesgesetzlicher Regelungen
-ausgeschlossen, so ist ein Maßnahmeteil von bis zu zwei Dritteln nur
-förderungsfähig, wenn bereits zu Beginn der Maßnahme die Finanzierung
-für die gesamte Dauer der Maßnahme auf Grund bundes- oder
-landesrechtlicher Regelungen gesichert ist. Abweichend von Satz 1 ist
+verkürzt ist, es sei denn, die Maßnahme ist auf Arbeitnehmerinnen und
+Arbeitnehmer ausgerichtet, bei denen aufgrund ihrer Eignung oder ihrer
+persönlichen Verhältnisse eine erfolgreiche Teilnahme nur bei einer
+nicht verkürzten Dauer erwartet werden kann. Abweichend von Satz 1 ist
 die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch
-dann angemessen, wenn sie nach dem Pflegeberufegesetz nicht um
-mindestens ein Drittel verkürzt werden kann; insoweit ist Satz 2 nicht
-anzuwenden.
+dann angemessen, wenn sie auf Grund bundes- oder landesrechtlichen
+Regelungen nicht um mindestens ein Drittel verkürzt werden kann.
 
 (5) Zeiten einer der beruflichen Weiterbildung folgenden
 Beschäftigung, die der Erlangung der staatlichen Anerkennung oder der
@@ -8352,7 +8340,7 @@ die die oder der Arbeitsuchende versteht, zu informieren über:
 
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und
     staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens
-    beispielhaft die Beratungsstellen nach § 23a des Arbeitnehmer-
+    beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-
     Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der
     erwähnten Beratungsdienste anzugeben.
 
@@ -8492,9 +8480,7 @@ voraussichtliche Dauer der Arbeitsunfähigkeit übersandt wird.
 (1) Der Arbeitgeber hat auf Verlangen der Arbeitnehmerin oder des
 Arbeitnehmers oder auf Verlangen der Bundesagentur alle Tatsachen zu
 bescheinigen, die für die Entscheidung über den Anspruch auf
-Arbeitslosengeld oder Übergangsgeld erheblich sein können
-(Arbeitsbescheinigung); dabei hat er den von der Bundesagentur hierfür
-vorgesehenen Vordruck zu benutzen. In der Arbeitsbescheinigung sind
+Arbeitslosengeld erheblich sein können (Arbeitsbescheinigung),
 insbesondere
 
 1.  die Art der Tätigkeit der Arbeitnehmerin oder des Arbeitnehmers,
@@ -8506,60 +8492,51 @@ insbesondere
 
 3.  das Arbeitsentgelt und die sonstigen Geldleistungen, die die
     Arbeitnehmerin oder der Arbeitnehmer erhalten oder zu beanspruchen
-    hat,
+    hat;
 
 
 
-anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem
-Arbeitnehmer vom Arbeitgeber auszuhändigen.
+es gilt das Bescheinigungsverfahren nach § 313a Absatz 1. Für
+Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von
+Heimarbeiterinnen und Heimarbeitern gilt Satz 1 entsprechend.
 
-(2) Macht der Arbeitgeber geltend, die Arbeitslosigkeit sei die Folge
-eines Arbeitskampfes, so hat er dies darzulegen, glaubhaft zu machen
-und eine Stellungnahme der Betriebsvertretung beizufügen. Der
-Arbeitgeber hat der Betriebsvertretung die für die Stellungnahme
+(2) Macht der Bescheinigungspflichtige nach Absatz 1 geltend, die
+Arbeitslosigkeit sei die Folge eines Arbeitskampfes, so hat er dies
+darzulegen, glaubhaft zu machen und eine Stellungnahme der
+Betriebsvertretung beizufügen. Der Bescheinigungspflichtige nach
+Absatz 1 hat der Betriebsvertretung die für die Stellungnahme
 erforderlichen Angaben zu machen.
 
-(3) Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber
-von Heimarbeiterinnen und Heimarbeitern sowie für Leistungsträger,
-Unternehmen und Stellen, die Beiträge nach diesem Buch für
-Bezieherinnen und Bezieher von Sozialleistungen, Krankentagegeld oder
-Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
-einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden
-Spende von Organen oder Geweben oder im Zusammenhang mit einer im
-Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur
-Separation von Blutstammzellen oder anderen Blutbestandteilen zu
-entrichten haben, gelten die Absätze 1 und 2 entsprechend.
+(3) Sozialversicherungsträger haben auf Verlangen der Bundesagentur,
+die übrigen Leistungsträger, Unternehmen und sonstige Stellen auf
+Verlangen der betroffenen Person oder der Bundesagentur alle Tatsachen
+zu bescheinigen, die für die Feststellung der Versicherungspflicht
+nach § 26 erheblich sein können; es gilt das Bescheinigungsverfahren
+nach § 313a Absatz 2.
 
-(4) Nach Beendigung des Vollzuges einer Untersuchungshaft,
-Freiheitsstrafe, Jugendstrafe oder freiheitsentziehenden Maßregel der
-Besserung und Sicherung oder einer einstweiligen Unterbringung nach §
-126a der Strafprozeßordnung hat die Vollzugsanstalt der oder dem
-Entlassenen eine Bescheinigung über die Zeiten auszustellen, in denen
-sie oder er innerhalb der letzten sieben Jahre vor der Entlassung als
-Gefangene oder Gefangener versicherungspflichtig war.
+(4) (weggefallen)
 
 
 ##### § 312a Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts
 
-(1) Der Arbeitgeber hat auf Verlangen der Bundesagentur alle Tatsachen
-zu bescheinigen, deren Kenntnis für die Entscheidung über einen
-Anspruch auf Leistungen bei Arbeitslosigkeit eines von der Verordnung
-erfassten Staates notwendig ist und zu deren Bescheinigung die
-Bundesagentur nach Artikel 54 der Verordnung (EG) Nr. 987/2009 des
-Europäischen Parlaments und des Rates vom 16. September 2009 zur
-Festlegung der Modalitäten für die Durchführung der Verordnung (EG)
-Nr. 883/2004 über die Koordinierung der Systeme der sozialen
-Sicherheit (ABl. L 284 vom 30.10.2009, S. 1) verpflichtet ist. Der
-Arbeitgeber hat dabei den von der Bundesagentur hierfür vorgesehenen
-Vordruck zu benutzen. Die Sätze 1 und 2 gelten entsprechend für
-Bescheinigungspflichten der Bundesagentur gegenüber einem
-ausländischen Träger nach anderen Regelungen des über- oder
-zwischenstaatlichen Rechts. Die Bescheinigungspflichten umfassen nur
-Daten, zu deren Aufbewahrung der Arbeitgeber nach deutschen
-Rechtsvorschriften verpflichtet ist.
+(1) Der Bescheinigungspflichtige nach § 312 Absatz 1 hat auf Verlangen
+der Bundesagentur alle Tatsachen zu bescheinigen, deren Kenntnis für
+die Entscheidung über einen Anspruch auf Leistungen bei
+Arbeitslosigkeit eines von der Verordnung erfassten Staates notwendig
+ist und zu deren Bescheinigung die Bundesagentur nach Artikel 54 der
+Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates
+vom 16. September 2009 zur Festlegung der Modalitäten für die
+Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung
+der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1)
+verpflichtet ist; es gilt das Bescheinigungsverfahren nach § 313a
+Absatz 1. Satz 1 gilt entsprechend für Bescheinigungspflichten der
+Bundesagentur gegenüber einem ausländischen Träger nach anderen
+Regelungen des über- oder zwischenstaatlichen Rechts. Die
+Bescheinigungspflichten umfassen nur Daten, zu deren Aufbewahrung der
+Arbeitgeber nach deutschen Rechtsvorschriften verpflichtet ist.
 
 (2) Die Bescheinigungspflicht gilt auch in den Fällen des § 312 Absatz
-3 und 4.
+3\.
 
 
 ##### § 313 Nebeneinkommensbescheinigung
@@ -8568,40 +8545,48 @@ Rechtsvorschriften verpflichtet ist.
 Arbeitslosengeld oder Übergangsgeld (laufende Geldleistungen)
 beantragt hat oder bezieht, gegen Arbeitsentgelt beschäftigt oder
 dieser Person gegen Vergütung eine selbständige Tätigkeit überträgt,
-ist verpflichtet, dieser Person unverzüglich Art und Dauer der
-Beschäftigung oder der selbständigen Tätigkeit sowie die Höhe des
-Arbeitsentgelts oder der Vergütung für die Zeiten zu bescheinigen, für
-die diese Leistung beantragt worden ist oder bezogen wird. Dabei ist
-der von der Bundesagentur vorgesehene Vordruck zu benutzen. Die
-Bescheinigung über das Nebeneinkommen ist der Bezieherin oder dem
-Bezieher der Leistung vom Dienstberechtigten oder Besteller
-unverzüglich auszuhändigen.
+hat auf Verlangen dieser Person oder auf Verlangen der Bundesagentur
+unverzüglich Art und Dauer der Beschäftigung oder der selbständigen
+Tätigkeit sowie die Höhe des Arbeitsentgelts oder der Vergütung für
+die Zeiten zu bescheinigen (Nebeneinkommensbescheinigung), für die
+diese Person die Leistung beantragt hat oder bezieht; es gilt das
+Bescheinigungsverfahren nach § 313a Absatz 1.
 
-(2) Wer eine laufende Geldleistung beantragt hat oder bezieht und
-Dienst- oder Werkleistungen gegen Vergütung erbringt, ist
-verpflichtet, dem Dienstberechtigten oder Besteller den für die
-Bescheinigung des Arbeitsentgelts oder der Vergütung vorgeschriebenen
-Vordruck unverzüglich vorzulegen.
+(2) Wer eine laufende Geldleistung beantragt hat oder bezieht, ist
+verpflichtet, die Bescheinigung nach Absatz 1 unverzüglich nach
+Aufnahme der Beschäftigung oder der selbständigen Tätigkeit zu
+verlangen.
 
 (3) Die Absätze 1 und 2 gelten für Personen, die Kurzarbeitergeld
 beziehen oder für die Kurzarbeitergeld beantragt worden ist,
 entsprechend.
 
 
-##### § 313a Elektronische Bescheinigung
+##### § 313a Bescheinigungsverfahren
 
-Die Bescheinigungen nach den §§ 312, 312a und 313 können von dem
-Bescheinigungspflichtigen der Bundesagentur elektronisch unter den
-Voraussetzungen des § 108 Absatz 1 des Vierten Buches übermittelt
-werden, es sei denn, dass die Person, für die eine Bescheinigung nach
-den §§ 312 oder 313 auszustellen ist, der Übermittlung widerspricht.
-Die Person, für die die Bescheinigung auszustellen ist, ist von dem
-Bescheinigungspflichtigen in allgemeiner Form schriftlich auf das
-Widerspruchsrecht hinzuweisen. § 312 Absatz 1 Satz 3 und § 313 Absatz
-1 Satz 3 finden keine Anwendung; die Bundesagentur hat der Person, für
-die eine Bescheinigung nach den §§ 312 oder 313 elektronisch
-übermittelt worden ist, unverzüglich einen Ausdruck der Daten
-zuzuleiten.
+(1) Die Bescheinigungen nach § 312 Absatz 1, § 312a Absatz 1 und § 313
+sind von dem Bescheinigungspflichtigen der Bundesagentur elektronisch
+unter den Voraussetzungen des § 108 Absatz 1 Satz 1 des Vierten Buches
+zu übermitteln; die Bundesagentur hat der Person, für die die
+Bescheinigung übermittelt worden ist, unverzüglich einen Nachweis über
+die übermittelten Daten zuzuleiten. Ist eine Bescheinigung nach § 313
+für eine Beschäftigung oder selbständige Tätigkeit im privaten
+Haushalt zu erstellen, kann abweichend von Satz 1 erster Halbsatz das
+Formular genutzt werden, das im Fachportal der Bundesagentur zur
+Verfügung gestellt ist; hat der Bescheinigungspflichtige die
+Bescheinigung unmittelbar an die Bundesagentur übermittelt, hat er der
+Person, für die er die Bescheinigung erstellt hat, unverzüglich einen
+Nachweis über die übermittelten Daten zuzuleiten.
+
+(2) Sozialversicherungsträger haben die Bescheinigungen nach § 312
+Absatz 3 elektronisch zu übermitteln; die Bundesagentur hat die
+Person, für die die Bescheinigung übermittelt worden ist, spätestens
+bei Erlass des Verwaltungsaktes über die übermittelten Daten zu
+informieren. Die übrigen Leistungsträger, Unternehmen und sonstigen
+Stellen haben für Bescheinigungen nach § 312 Absatz 3 das Formular zu
+nutzen, das im Fachportal der Bundesagentur zur Verfügung gestellt
+ist. Das Formular ist unverzüglich demjenigen zu übermitteln, der die
+Ausstellung verlangt hat.
 
 
 ##### § 314 Insolvenzgeldbescheinigung
@@ -8629,11 +8614,12 @@ einer Pensionskasse oder in einer Direktversicherung angelegt und
 welcher Versorgungsträger für die betriebliche Altersversorgung
 gewählt worden ist. Es ist auch zu bescheinigen, inwieweit die
 Ansprüche auf Arbeitsentgelt gepfändet, verpfändet oder abgetreten
-sind. Dabei ist der von der Bundesagentur vorgesehene Vordruck zu
-benutzen. Wird die Insolvenzgeldbescheinigung durch die
-Insolvenzverwalterin oder den Insolvenzverwalter nach § 36a des Ersten
-Buches übermittelt, sind zusätzlich die Anschrift und die Daten des
-Überweisungsweges mitzuteilen.
+sind. Dabei soll das Formular genutzt werden, das im Fachportal der
+Bundesagentur zur Verfügung gestellt ist. Wird die
+Insolvenzgeldbescheinigung durch die Insolvenzverwalterin oder den
+Insolvenzverwalter nach § 36a des Ersten Buches übermittelt, sind
+zusätzlich die Anschrift und die Daten des Überweisungsweges
+mitzuteilen.
 
 (2) In den Fällen, in denen ein Insolvenzverfahren nicht eröffnet wird
 oder nach § 207 der Insolvenzordnung eingestellt worden ist, sind die
@@ -8758,8 +8744,10 @@ Träger sind verpflichtet,
 2.  der für die einzelne Teilnehmerin oder den einzelnen Teilnehmer
     zuständigen Agentur für Arbeit kalendermonatlich die Fehltage der
     Teilnehmerin oder des Teilnehmers sowie die Gründe für die Fehltage
-    mitzuteilen; dabei haben sie den von der Bundesagentur vorgesehenen
-    Vordruck zu benutzen.
+    mitzuteilen; dabei haben sie die Formulare zu nutzen, die im
+    Fachportal der Bundesagentur zur Verfügung gestellt sind, soweit die
+    Bundesagentur nicht eine anderweitige Art der Datenübertragung
+    vorschreibt.
 
 
 
@@ -9294,12 +9282,12 @@ Stelle, an die die Beiträge aufgrund der Versicherungspflicht nach § 5
 Absatz 1 Nummer 2 des Fünften Buches gezahlt wurden, der Bundesagentur
 die für diesen Zeitraum entrichteten Beiträge; die Bezieherin oder der
 Bezieher wird insoweit von der Ersatzpflicht nach Satz 1 befreit; § 5
-Abs. 1 Nr. 2 zweiter Halbsatz des Fünften Buches gilt nicht. Werden
-die beiden Versicherungsverhältnisse bei verschiedenen Krankenkassen
-durchgeführt und wurden in dem Zeitraum, in dem die
+Absatz 1 Nummer 2 zweiter Halbsatz des Fünften Buches gilt nicht.
+Werden die beiden Versicherungsverhältnisse bei verschiedenen
+Krankenkassen durchgeführt und wurden in dem Zeitraum, in dem die
 Versicherungsverhältnisse nebeneinander bestanden, Leistungen von der
 Krankenkasse erbracht, bei der die Bezieherin oder der Bezieher nach §
-5 Abs. 1 Nr. 2 des Fünften Buches versicherungspflichtig war, so
+5 Absatz 1 Nummer 2 des Fünften Buches versicherungspflichtig war, so
 besteht kein Beitragserstattungsanspruch nach Satz 2. Die
 Bundesagentur, der Spitzenverband Bund der Krankenkassen (§ 217a des
 Fünften Buches) und das Bundesamt für Soziale Sicherung in seiner
@@ -9309,10 +9297,10 @@ regeln. Satz 1 gilt entsprechend, soweit die Bundesagentur Beiträge,
 die für die Dauer des Leistungsbezuges an ein privates
 Versicherungsunternehmen zu zahlen sind, übernommen hat.
 
-(2) Beiträge für Versicherungspflichtige nach § 5 Abs. 1 Nr. 2 des
-Fünften Buches, denen eine Rente aus der gesetzlichen
-Rentenversicherung oder Übergangsgeld von einem nach § 251 Abs. 1 des
-Fünften Buches beitragspflichtigen Rehabilitationsträger gewährt
+(2) Beiträge für Versicherungspflichtige nach § 5 Absatz 1 Nummer 2
+des Fünften Buches, denen eine Rente aus der gesetzlichen
+Rentenversicherung oder Übergangsgeld von einem nach § 251 Absatz 1
+des Fünften Buches beitragspflichtigen Rehabilitationsträger gewährt
 worden ist, sind der Bundesagentur vom Träger der Rentenversicherung
 oder vom Rehabilitationsträger zu ersetzen, wenn und soweit wegen der
 Gewährung von Arbeitslosengeld ein Erstattungsanspruch der
@@ -9332,15 +9320,15 @@ Absatz 3). Zu ersetzen sind
 
 2.  vom Rehabilitationsträger der Betrag, den er als
     Krankenversicherungsbeitrag hätte leisten müssen, wenn die versicherte
-    Person nicht nach § 5 Abs. 1 Nr. 2 des Fünften Buches versichert
+    Person nicht nach § 5 Absatz 1 Nummer 2 des Fünften Buches versichert
     gewesen wäre.
 
 
 
 Der Träger der Rentenversicherung und der Rehabilitationsträger sind
 nicht verpflichtet, für dieselbe Zeit Beiträge zur Krankenversicherung
-zu entrichten. Die versicherte Person ist abgesehen von Satz 3 Nr. 1
-nicht verpflichtet, für dieselbe Zeit Beiträge aus der Rente zur
+zu entrichten. Die versicherte Person ist abgesehen von Satz 3 Nummer
+1 nicht verpflichtet, für dieselbe Zeit Beiträge aus der Rente zur
 Krankenversicherung zu entrichten.
 
 (3) Der Arbeitgeber hat der Bundesagentur die im Falle des § 157
@@ -9349,7 +9337,7 @@ ersetzen, soweit er für dieselbe Zeit Beiträge zur Kranken- und
 Rentenversicherung der Arbeitnehmerin oder des Arbeitnehmers zu
 entrichten hat. Er wird insoweit von seiner Verpflichtung befreit,
 Beiträge an die Kranken- und Rentenversicherung zu entrichten. Die
-Sätze 1 und 2 gelten entsprechend für den Zuschuß nach § 257 des
+Sätze 1 und 2 gelten entsprechend für den Zuschuss nach § 257 des
 Fünften Buches.
 
 (4) Hat auf Grund des Bezuges von Arbeitslosengeld nach § 157 Absatz 3
@@ -9360,18 +9348,12 @@ Arbeitsentgelt bezieht oder zu beanspruchen hat, so erstatten die
 Krankenkassen einander Beiträge und Leistungen wechselseitig.
 
 (5) Für die Beiträge der Bundesagentur zur sozialen Pflegeversicherung
-für Versicherungspflichtige nach § 20 Abs. 1 Satz 2 Nr. 2 des Elften
-Buches sind die Absätze 1 bis 3 entsprechend anzuwenden.
+für Versicherungspflichtige nach § 20 Absatz 1 Satz 2 Nummer 2 des
+Elften Buches sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
 
-#### § 336 Leistungsrechtliche Bindung
+#### § 336 (weggefallen)
 
-Stellt die Deutsche Rentenversicherung Bund im Verfahren nach § 7a
-Abs. 1 des Vierten Buches die Versicherungspflicht nach diesem Buch
-durch Verwaltungsakt fest, ist die Bundesagentur hinsichtlich der
-Zeiten, für die der die Versicherungspflicht feststellende
-Verwaltungsakt wirksam ist, an diese Feststellung leistungsrechtlich
-gebunden.
 
 
 #### § 336a Wirkung von Widerspruch und Klage
@@ -9531,8 +9513,8 @@ der monatlichen Bezugsgröße zugrunde zu legen.
 (4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches
 Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20
 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind,
-gilt der Betrag der beitragspflichtigen Einnahme nach § 163 Absatz 10
-des Sechsten Buches entsprechend.
+gilt der Betrag der beitragspflichtigen Einnahme nach § 20 Absatz 2a
+Satz 1 des Vierten Buches entsprechend.
 
 
 ##### § 345 Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger
@@ -9730,15 +9712,16 @@ Heimarbeiterinnen und Heimarbeitern sowie Träger außerbetrieblicher
 Ausbildung.
 
 (1a) Bei versicherungspflichtig Beschäftigten, deren
-beitragspflichtige Einnahme sich nach § 344 Abs. 4 bestimmt, werden
+beitragspflichtige Einnahme sich nach § 344 Absatz 4 bestimmt, werden
 die Beiträge abweichend von Absatz 1 Satz 1 getragen
 
-1.  von den Arbeitgebern in Höhe der Hälfte des Betrages, der sich ergibt,
-    wenn der Beitragssatz auf das der Beschäftigung zugrunde liegende
-    Arbeitsentgelt angewendet wird,
+1.  von den versicherungspflichtig Beschäftigten in Höhe der Hälfte des
+    Betrages, der sich ergibt, wenn der Beitragssatz auf die nach Maßgabe
+    von § 20 Absatz 2a Satz 6 des Vierten Buches ermittelte
+    beitragspflichtige Einnahme angewendet wird,
 
 
-2.  im Übrigen von den versicherungspflichtig Beschäftigten.
+2.  im Übrigen von den Arbeitgebern.
 
 
 
@@ -9801,7 +9784,7 @@ Die Beiträge werden getragen
 
 
     c)  eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen
-        wird, das 450 Euro nicht übersteigt,
+        wird, das die Geringfügigkeitsgrenze nicht übersteigt,
 
 
 
@@ -9848,7 +9831,8 @@ Die Beiträge werden getragen
 
     die Beiträge werden von den Stellen, die die Leistung zu erbringen
     haben, allein getragen, wenn das der Leistung zugrunde liegende
-    Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt,
+    Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht
+    übersteigt,
 
 
 7.  für Personen, die als Bezieherinnen oder Bezieher einer Rente wegen
@@ -10075,7 +10059,7 @@ Sozialversicherungsträger Verwaltungsvorschriften erlassen.
 Die Mittel für die ergänzenden Leistungen nach § 102 werden
 einschließlich der Verwaltungskosten und der sonstigen Kosten, die mit
 der Gewährung dieser Leistungen zusammenhängen, in den durch
-Verordnung nach § 109 Absatz 3 bestimmten Wirtschaftszweigen durch
+Verordnung nach § 109 Absatz 2 bestimmten Wirtschaftszweigen durch
 Umlage aufgebracht. Die Umlage wird unter Berücksichtigung von
 Vereinbarungen der Tarifvertragsparteien der Wirtschaftszweige von
 Arbeitgebern oder gemeinsam von Arbeitgebern sowie Arbeitnehmerinnen
@@ -11335,8 +11319,9 @@ entsprechenden Maßnahmen gegen Arbeitgeber nicht mitwirken.
 
 (1) Soweit für die Erbringung oder die Erstattung von Leistungen nach
 diesem Buch erforderlich, darf die Bundesagentur Angaben zu Personen,
-die Leistungen nach diesem Buch beantragt haben, beziehen oder
-innerhalb der letzten neun Monate bezogen haben, regelmäßig
+die Leistungen nach diesem Buch beantragt haben oder für die
+Leistungen beantragt worden sind, die Leistungen, beziehen oder
+innerhalb der letzten vierzehn Monate bezogen haben, regelmäßig
 automatisiert mit den folgenden nach § 36 Absatz 3 der
 Datenerfassungs- und Übermittlungsverordnung von der Datenstelle der
 Rentenversicherung übermittelten Daten abgleichen:
@@ -11345,28 +11330,50 @@ Rentenversicherung übermittelten Daten abgleichen:
     Buches),
 
 
-2.  Betriebsnummer des Arbeitgebers (§ 28a Absatz 3 Satz 1 Nummer 6 des
-    Vierten Buches),
-
-
-3.  zuständige Einzugsstelle (§ 28a Absatz 3 Satz 1 Nummer 8 des Vierten
+2.  Familienname und Vornamen (§ 28a Absatz 3 Satz 1 Nummer 2 des Vierten
     Buches),
 
 
-4.  Beschäftigungsbeginn (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe b des
+3.  Geburtsdatum (§ 28a Absatz 3 Satz 1 Nummer 3 des Vierten Buches),
+
+
+4.  Anschrift (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe a des Vierten
+    Buches),
+
+
+5.  Betriebsnummer des Arbeitgebers (§ 28a Absatz 3 Satz 1 Nummer 6 des
     Vierten Buches),
 
 
-5.  Beschäftigungszeitraum (§ 28a Absatz 3 Satz 2 Nummer 2 Buchstabe d des
+6.  zuständige Einzugsstelle (§ 28a Absatz 3 Satz 1 Nummer 8 des Vierten
+    Buches),
+
+
+7.  Beschäftigungsbeginn (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe b des
     Vierten Buches),
 
 
-6.  Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe
+8.  Beschäftigungszeitraum (§ 28a Absatz 3 Satz 2 Nummer 2 Buchstabe d des
+    Vierten Buches),
+
+
+9.  Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe
     für die Meldungen (§ 28b Absatz 1 Satz 1 Nummer 1 des Vierten Buches),
 
 
-7.  Stornokennzeichen (§ 14 Absatz 1 der Datenerfassungs- und
-    Übermittlungsverordnung).
+10. Stornokennzeichen (§ 14 Absatz 1 der Datenerfassungs- und
+    Übermittlungsverordnung),
+
+
+11. beitragspflichtiges Arbeitsentgelt in Euro (§ 28a Absatz 3 Satz 2
+    Nummer 2 Buchstabe b des Vierten Buches),
+
+
+12. Zeitraum, in dem das Arbeitsentgelt erzielt wurde (§ 28a Absatz 3 Satz
+    2 Nummer 2 Buchstabe d des Vierten Buches),
+
+
+13. Entgeltersatzleistungen (§ 107 Absatz 1 des Vierten Buches).
 
 
 
@@ -11377,19 +11384,22 @@ Nummer 1, 2 und 4 Buchstabe a und d des Vierten Buches übermittelten
 Daten abgeglichen werden. Die abzugleichenden Daten dürfen von der
 Bundesagentur, bezogen auf einzelne Beschäftigungsverhältnisse,
 zusammengeführt werden. Dabei können die nach § 36 Absatz 3 der
-Datenerfassungs- und Übermittlungsverordnung übermittelten Daten,
-insbesondere auch das in der Rentenversicherung oder nach dem Recht
-der Arbeitsförderung beitragspflichtige Arbeitsentgelt in Euro (§ 28a
-Absatz 3 Satz 2 Nummer 2 Buchstabe b des Vierten Buches) genutzt
-werden.
+Datenerfassungs- und -übermittlungsverordnung übermittelten Daten,
+insbesondere auch das nach Satz 1 Nummer 11 genannte Arbeitsentgelt
+genutzt werden.
 
-(2) Nach Durchführung des Abgleichs hat die Bundesagentur die Daten,
-die für die in Absatz 1 genannten Zwecke nicht erforderlich sind,
-unverzüglich zu löschen. Die übrigen Daten dürfen nur für die in
-Absatz 1 genannten Zwecke und für die Verfolgung von Straftaten und
+(2) Die Bundesagentur darf anhand der in Absatz 1 Satz 1 Nummer 5
+genannten Betriebsnummer die Anzahl der Beschäftigten und
+Auszubildenden in einem Betrieb ermitteln und diese Angaben mit den
+von dem Arbeitgeber in den Selbstinformationseinrichtungen angegebenen
+Daten vergleichen, sofern dies zur Verhinderung von Datenmissbrauch
+bei der Vermittlung über Selbstinformationseinrichtungen erforderlich
+ist.
+
+(3) Die in Absatz 1 und 2 aufgeführten Daten dürfen nur für die dort
+jeweils genannten Zwecke und für die Verfolgung von Straftaten und
 Ordnungswidrigkeiten, die im Zusammenhang mit der Beantragung oder dem
-Bezug von Leistungen stehen, gespeichert, verändert, genutzt,
-übermittelt oder in der Verarbeitung eingeschränkt werden.
+Bezug von Leistungen stehen, verarbeitet werden.
 
 
 #### § 398 Datenübermittlung durch beauftragte Dritte
@@ -11514,30 +11524,32 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 17. u. 18. (weggefallen)
 
 
-19. entgegen § 312 Abs. 1 Satz 1 oder 3, jeweils auch in Verbindung mit
-    Absatz 3, eine Tatsache nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig bescheinigt oder eine Arbeitsbescheinigung nicht
-    oder nicht rechtzeitig aushändigt,
+19. entgegen
+
+    a)  § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder Absatz 3
+        oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
 
 
-19a. entgegen § 312a Absatz 1 Satz 1 oder Satz 2, jeweils auch in
-    Verbindung mit Satz 3, eine Tatsache nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig bescheinigt,
+    b)  § 312a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 314
+        Absatz 1, auch in Verbindung mit Absatz 2,
 
 
-20. entgegen § 313 Abs. 1, auch in Verbindung mit Absatz 3, Art oder Dauer
-    der Beschäftigung oder der selbständigen Tätigkeit oder die Höhe des
-    Arbeitsentgelts oder der Vergütung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig bescheinigt oder eine Bescheinigung
-    nicht oder nicht rechtzeitig aushändigt,
+
+    eine dort genannte Tatsache nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig bescheinigt
+    oder eine Bescheinigung nicht, nicht richtig, nicht vollständig, nicht
+    in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
 
-21. entgegen § 313 Abs. 2, auch in Verbindung mit Absatz 3, einen Vordruck
-    nicht oder nicht rechtzeitig vorlegt,
+20. entgegen § 313 Absatz 2, auch in Verbindung mit Absatz 3, eine
+    Nebeneinkommensbescheinigung nicht oder nicht rechtzeitig verlangt,
 
 
-22. entgegen § 314 eine Bescheinigung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig ausstellt,
+21. entgegen § 313a Absatz 1 Satz 2 zweiter Halbsatz einen Nachweis nicht
+    oder nicht rechtzeitig zuleitet,
+
+
+22. (weggefallen)
 
 
 23. entgegen § 315 Abs. 1, 2 Satz 1 oder Abs. 3, jeweils auch in
@@ -11619,8 +11631,8 @@ Buches arbeiten die Behörden nach Absatz 1 mit den in § 2 Absatz 4 des
 Schwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.
 
 (5) Die Bundesagentur unterrichtet das Gewerbezentralregister über
-rechtskräftige Bußgeldbescheide nach § 404 Abs. 2 Nr. 1, 5 bis 16, 19
-und 20. Die Behörden der Zollverwaltung unterrichten das
+rechtskräftige Bußgeldbescheide nach § 404 Abs. 2 Nr. 1, 5 bis 16 und
+19 Buchstabe a. Die Behörden der Zollverwaltung unterrichten das
 Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404
 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200
 Euro beträgt.
@@ -11800,36 +11812,23 @@ sich nicht nur vorübergehend im Ausland aufhalten, zu den
 Möglichkeiten der Anerkennung ausländischer Berufsabschlüsse und damit
 im Zusammenhang stehenden aufenthaltsrechtlichen Fragen und begleitet
 sie bei der Durchführung der entsprechenden Verfahren. Das
-Modellvorhaben ist bis zum 31. Dezember 2023 befristet. § 363 Absatz 1
+Modellvorhaben ist bis zum 31. Dezember 2026 befristet. § 363 Absatz 1
 Satz 2 findet keine Anwendung.
 
 
-#### § 421c Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit
+#### § 421c Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit
 
-(1) Bis zum Ablauf des 31. März 2022 wird Entgelt aus einer
-geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten
-Buches, die während des Bezugs von Kurzarbeitergeld aufgenommen worden
-ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht
-hinzugerechnet.
-
-(2) Abweichend von § 105 beträgt das Kurzarbeitergeld vom 1. Januar
-2022 bis zum 31. März 2022
-
-1.  für Arbeitnehmerinnen und Arbeitnehmer, die beim Arbeitslosengeld die
-    Voraussetzungen für den erhöhten Leistungssatz erfüllen würden, ab dem
-    vierten Bezugsmonat 77 Prozent und ab dem siebten Bezugsmonat 87
-    Prozent,
-
-
-2.  für die übrigen Arbeitnehmerinnen und Arbeitnehmer ab dem vierten
-    Bezugsmonat 70 Prozent und ab dem siebten Bezugsmonat 80 Prozent
-
-
-
-der Nettoentgeltdifferenz im Anspruchszeitraum, wenn die Differenz
-zwischen Soll- und Ist-Entgelt im jeweiligen Bezugsmonat mindestens 50
-Prozent beträgt. Für die Berechnung der Bezugsmonate sind Monate mit
-Kurzarbeit ab März 2020 zu berücksichtigen.
+Vorläufige Entscheidungen nach § 328 Absatz 1 Nummer 3 über die
+Zahlung von Kurzarbeitergeld für die Monate März 2020 bis Juni 2022
+können auch ohne eine abschließende Prüfung der Voraussetzungen und
+des Umfangs des Anspruchs auf Kurzarbeitergeld (Abschlussprüfung)
+durch eine endgültige Entscheidung abgeschlossen werden, wenn der
+Gesamtauszahlungsbetrag des Kurzarbeitergeldes und der dem Arbeitgeber
+erstatteten Sozialversicherungsbeiträge für den jeweiligen
+Arbeitsausfall 10 000 Euro nicht überschreitet. Anlassbezogene
+Prüfungen erfolgen in den Fällen des Satzes 1, wenn Hinweise auf einen
+Missbrauch von Leistungen vorliegen oder der Arbeitgeber oder die
+Betriebsvertretung die Durchführung der Abschlussprüfungen verlangen.
 
 
 #### § 421d Vorübergehende Sonderregelungen zum Arbeitslosengeld
@@ -11866,8 +11865,19 @@ Kalenderjahr 2022 besteht der Anspruch auf Leistungsfortzahlung für
 jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen
 längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr
 als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130
-Tage fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der
-Arbeitslose dies verlangt und die übrigen Voraussetzungen vorliegen.
+Tage fortgezahlt; für das Kalenderjahr 2023 besteht der Anspruch auf
+Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei
+alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld
+wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende
+Arbeitslose für nicht mehr als 130 Tage fortgezahlt. Satz 1 ist nur
+anzuwenden, wenn die oder der Arbeitslose dies verlangt und die
+übrigen Voraussetzungen vorliegen.
+
+(4) Personen, die im Monat Juli 2022 für mindestens einen Tag Anspruch
+auf Arbeitslosengeld haben, erhalten eine Einmalzahlung in Höhe von
+100 Euro. Satz 1 findet keine Anwendung auf Leistungsberechtigte nach
+§ 73 des Zweiten Buches. Der Bund trägt die Aufwendungen
+einschließlich der Verwaltungskosten für die Einmalzahlung.
 
 
 #### § 421e Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
@@ -11903,6 +11913,21 @@ der dadurch veranlassten Kosten ausgezahlt, solange die
 leistungsberechtigten Personen die laufende Geldleistung beziehen und
 weiterhin ihr Konto bei einem Geldinstitut im Vereinigten Königreich
 Großbritannien und Nordirland haben.
+
+
+#### § 421f Übermittlung von Daten zum Bezug von Kurzarbeitergeld
+
+(1) Die Bundesagentur für Arbeit ist bis zum 31. Dezember 2025
+berechtigt, Daten über die Höhe des dem Arbeitgeber für seine
+Beschäftigten ausgezahlten Kurzarbeitergeldes für die Monate November
+und Dezember 2020 sowie über die Höhe der dem Arbeitgeber für den
+gleichen Zeitraum erstatteten Sozialversicherungsbeiträge an die
+Bewilligungsstellen der Länder für die November- und Dezemberhilfen
+zur Verhinderung von Leistungsmissbrauch durch Verdachtsprüfungen und
+Stichprobenkontrollen zu übermitteln, indem sie diese Daten zum
+automatisierten Abruf aus ihrem Datenbestand bereitstellt.
+
+(2) § 79 Absatz 2 bis 4 des Zehnten Buches gilt entsprechend.
 
 
 ### Dritter Abschnitt - Grundsätze bei Rechtsänderungen
@@ -11998,38 +12023,9 @@ Fassung entsprechend.
 
 
 
-#### § 428 Arbeitslosengeld unter erleichterten Voraussetzungen
+#### § 428 (weggefallen)
 
-(1) Anspruch auf Arbeitslosengeld nach den Vorschriften des Ersten
-Abschnitts des Vierten Kapitels haben auch Arbeitnehmerinnen und
-Arbeitnehmer, die das 58. Lebensjahr vollendet haben und die
-Regelvoraussetzungen des Anspruchs auf Arbeitslosengeld allein deshalb
-nicht erfüllen, weil sie nicht arbeitsbereit sind und nicht alle
-Möglichkeiten nutzen und nutzen wollen, um ihre
-Beschäftigungslosigkeit zu beenden. Der Anspruch besteht auch während
-der Zeit eines Studiums an einer Hochschule oder einer der fachlichen
-Ausbildung dienenden Schule. Vom 1. Januar 2008 an gilt Satz 1 nur
-noch, wenn der Anspruch vor dem 1. Januar 2008 entstanden ist und die
-oder der Arbeitslose vor diesem Tag das 58. Lebensjahr vollendet hat.
 
-(2) Die Agentur für Arbeit soll die Arbeitslose oder den Arbeitslosen,
-die oder der nach Unterrichtung über die Regelung des Satzes 2 drei
-Monate Arbeitslosengeld nach Absatz 1 bezogen hat und in absehbarer
-Zeit die Voraussetzungen für den Anspruch auf Altersrente
-voraussichtlich erfüllt, auffordern, innerhalb eines Monats
-Altersrente zu beantragen; dies gilt nicht für Altersrenten, die vor
-dem für die Versicherte oder den Versicherten maßgebenden Rentenalter
-in Anspruch genommen werden können. Stellt die oder der Arbeitslose
-den Antrag nicht, ruht der Anspruch auf Arbeitslosengeld vom Tage nach
-Ablauf der Frist an bis zu dem Tage, an dem die oder der Arbeitslose
-Altersrente beantragt.
-
-(3) Der Anspruch nach Absatz 1 ist ausgeschlossen, wenn der oder dem
-Arbeitslosen eine Teilrente wegen Alters aus der gesetzlichen
-Rentenversicherung oder eine ähnliche Leistung öffentlich-rechtlicher
-Art zuerkannt ist.
-
-(4) (weggefallen)
 
 
 #### § 429
@@ -12545,9 +12541,9 @@ Ausbildungsbetrieb aber in Deutschland liegt.
 
 #### § 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
 
-§ 25 Absatz 1 Satz 2 Nummer 3 findet grundsätzlich nur Anwendung auf
-Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die
-Ausbildung vor diesem Zeitpunkt begonnen und wurden
+(1) § 25 Absatz 1 Satz 2 Nummer 3 findet grundsätzlich nur Anwendung
+auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde
+die Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
 1.  Beiträge gezahlt, gilt § 25 Absatz 1 Satz 2 Nummer 3 ab Beginn der
     Beitragszahlung,
@@ -12559,4 +12555,65 @@ Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
 
 
+
+(2) Die §§ 312, 312a, 313, 313a und 404 Absatz 2 Nummer 19 bis 21 in
+der bis zum 31. Dezember 2022 geltenden Fassung sind weiterhin
+anzuwenden, wenn das Versicherungsverhältnis oder die
+Nebenerwerbstätigkeit vor dem 1. Januar 2023 geendet hat.
+
+
+#### § 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
+
+§ 336 in der bis zum 31. März 2022 geltenden Fassung ist weiter
+anzuwenden, wenn die Deutsche Rentenversicherung Bund im Verfahren
+nach § 7a Absatz 1 des Vierten Buches in der bis zum 31. März 2022
+geltenden Fassung die Versicherungspflicht nach diesem Buch durch
+Verwaltungsakt festgestellt hat.
+
+
+#### § 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+(1) § 76 Absatz 7 Satz 2 in der ab dem 1. Juli 2022 geltenden Fassung
+findet bei vor diesem Tag vereinbarten Ausbildungsvergütungen keine
+Anwendung.
+
+(2) Personen, die am 30. September 2022 in einer mehr als
+geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des
+Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
+Buches versicherungspflichtig waren, welche die Merkmale einer
+geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1.
+Oktober 2022 geltenden Fassung erfüllt, bleiben in dieser
+Beschäftigung längstens bis zum 31. Dezember 2023
+versicherungspflichtig, solange das Arbeitsentgelt 450 Euro monatlich
+übersteigt. Sie werden auf Antrag von der Versicherungspflicht
+befreit. Der Antrag ist bei der Agentur für Arbeit zu stellen. Die
+Befreiung wirkt vom 1. Oktober 2022 an, wenn sie bis zum 31. Dezember
+2022 beantragt wird, im Übrigen von dem Beginn des Kalendermonats an,
+der auf den Kalendermonat folgt, in dem der Antrag gestellt worden
+ist. Die Befreiung gilt nur für die in Satz 1 genannte Beschäftigung.
+
+(3) Bei Anwendung des Absatzes 2 gelten § 134 des Vierten Buches und §
+346 Absatz 1a in der bis zum 30. September 2022 geltenden Fassung.
+
+
+#### § 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+
+Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126
+ab dem 1. August 2022 anzuwenden.
+
+
+#### § 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+
+(1) § 87a Absatz 2 ist auch anzuwenden, wenn die berufliche
+Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023
+beendet worden ist.
+
+(2) § 131a Absatz 3 ist in der bis zum 30. Juni 2023 geltenden Fassung
+weiterhin anzuwenden, wenn die berufliche Weiterbildung vor dem 1.
+Juli 2023 begonnen worden ist.
+
+(3) § 148 Absatz 2 Satz 3 und Absatz 3 in der ab dem 1. Juli 2023
+geltenden Fassung ist auch anzuwenden, wenn die berufliche
+Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023
+beendet worden ist.
 

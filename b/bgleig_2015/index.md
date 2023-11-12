@@ -18,10 +18,7 @@ Fundstelle
 
 Stand: Ersetzt G 205-2 v. 30.11.2001 I 3234 (BGleiG)
 Zuletzt geändert durch
-:   Art. 3 Nr. 5 G v. 9.6.2021 I 1614
-
-Änderung durch
-:   Art. 2 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 7.8.2021 I 3311
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

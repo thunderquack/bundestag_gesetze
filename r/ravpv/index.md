@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 2167
 
 Zuletzt geändert durch
-:   Art. 6 V v. 17.12.2021 I 5219
+:   Art. 9 G v. 15.7.2022 I 1146
 
 
 ## Eingangsformel
@@ -51,10 +51,10 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 ## Teil 1 - Elektronische Verzeichnisse der Rechtsanwaltskammern
 
 
-### § 1 Verzeichnis und einzutragende Personen
+### § 1 Gegenstand des Verzeichnisses
 
-Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in
-ihrem Bezirk zugelassenen Rechtsanwälte einschließlich der
+(1) Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der
+in ihrem Bezirk zugelassenen Rechtsanwälte einschließlich der
 Syndikusrechtsanwälte. In ihr Verzeichnis sind zudem die folgenden
 Personen einzutragen:
 
@@ -65,8 +65,8 @@ Personen einzutragen:
 
 
 2.  von ihr aufgenommene Rechtsanwälte aus anderen Staaten einschließlich
-    der Syndikusrechtsanwälte aus anderen Staaten nach § 206 Absatz 1 Satz
-    1, Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung;
+    der Syndikusrechtsanwälte aus anderen Staaten nach § 206 Absatz 1 der
+    Bundesrechtsanwaltsordnung;
 
 
 3.  von ihr aufgenommene Inhaber einer Erlaubnis zur geschäftsmäßigen
@@ -80,6 +80,19 @@ Personen einzutragen:
     nach § 27a Absatz 1 Satz 1 in Verbindung mit § 32 Absatz 4 des
     Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland
     bei ihr zu beantragen ist.
+
+
+
+
+(2) In das Verzeichnis nach Absatz 1 sind von den Rechtsanwaltskammern
+zudem die Berufsausübungsgesellschaften einzutragen, die in ihrem
+Bezirk
+
+1.  nach § 59f der Bundesrechtsanwaltsordnung zugelassen sind oder
+
+
+2.  als niedergelassene ausländische Berufsausübungsgesellschaften nach §
+    207a der Bundesrechtsanwaltsordnung zugelassen sind.
 
 
 
@@ -102,31 +115,34 @@ diesen mit, wird auch dieser eingetragen.
 diese nur insoweit einzutragen, als sie im Rahmen der Berufsausübung
 üblicherweise verwendet werden.
 
-(4) Als Name der Kanzlei oder Zweigstelle ist die Bezeichnung
-einzutragen, unter der die eingetragene Person am jeweiligen Standort
-beruflich auftritt. Sofern bei einer gemeinschaftlichen Berufsausübung
-eine Kurzbezeichnung geführt wird, ist diese als Name einzutragen. Bei
-Syndikusrechtsanwälten ist als Name der Arbeitgeber einzutragen. Wird
-eine weitere Kanzlei eingetragen, muss sich deren Name von dem Namen
-anderer für die Person eingetragener Kanzleien unterscheiden.
+(4) Als Name der Kanzlei, Zweigstelle oder Berufsausübungsgesellschaft
+ist die Bezeichnung einzutragen, unter der die eingetragene Person
+oder Berufsausübungsgesellschaft am jeweiligen Standort beruflich
+auftritt. Führt eine Berufsausübungsgesellschaft eine Kurzbezeichnung,
+so ist diese als Name einzutragen. Bei Syndikusrechtsanwälten ist als
+Name der Arbeitgeber einzutragen. Wird eine weitere Kanzlei
+eingetragen, muss sich deren Name von dem Namen anderer für die Person
+eingetragener Kanzleien unterscheiden.
 
 (5) An Telekommunikationsdaten werden, soweit von der eingetragenen
-Person mitgeteilt, jeweils eine Telefon- und eine Telefaxnummer sowie
-eine E-Mail-Adresse je Kanzlei und Zweigstelle eingetragen. Zudem
-wird, soweit von der eingetragenen Person mitgeteilt, eine
+Person oder Berufsausübungsgesellschaft mitgeteilt, jeweils eine
+Telefon- und eine Telefaxnummer sowie eine E-Mail-Adresse je Kanzlei
+und Zweigstelle eingetragen. Zudem wird, soweit von der eingetragenen
+Person oder Berufsausübungsgesellschaft mitgeteilt, eine
 Internetadresse je Kanzlei und Zweigstelle eingetragen.
 
 (6) Als Zeitpunkt der Zulassung ist der Zeitpunkt der erstmaligen
-Zulassung zur Rechtsanwaltschaft in der Bundesrepublik Deutschland
-einzutragen, sofern die eingetragene Person seitdem ununterbrochen
+Zulassung zur Rechtsanwaltschaft oder als Berufsausübungsgesellschaft
+in der Bundesrepublik Deutschland einzutragen, sofern die eingetragene
+Person oder Berufsausübungsgesellschaft seitdem ununterbrochen
 Mitglied einer Rechtsanwaltskammer gewesen ist. Anderenfalls ist der
 Zeitpunkt der letzten Aufnahme in die Rechtsanwaltskammer einzutragen.
 Weist die eingetragene Person im Fall des Satzes 2 der
 Rechtsanwaltskammer den Zeitpunkt ihrer ersten Zulassung zur
 Rechtsanwaltschaft in der Bundesrepublik Deutschland nach, so ist auch
-dieser einzutragen. Bei nach § 1 Satz 2 in das Verzeichnis
-eingetragenen Personen tritt an die Stelle der Zulassung die Aufnahme
-in die Rechtsanwaltskammer.
+dieser einzutragen. Bei nach § 1 Absatz 1 Satz 2 Nummer 1 und 2 in das
+Verzeichnis eingetragenen Personen tritt an die Stelle der Zulassung
+die Aufnahme in die Rechtsanwaltskammer.
 
 (7) Vollziehbare Berufs-, Berufsausübungs- und Vertretungsverbote sind
 unter Angabe des Zeitpunkts des Beginns sowie der Dauer des Verbots
@@ -150,14 +166,16 @@ einzutragen.
 
 ### § 3 Eintragungen in das Verzeichnis
 
-Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen
-erfolgt unverzüglich nach ihrer Aufnahme in die Rechtsanwaltskammer.
-Im Fall des § 1 Satz 2 Nummer 4 erfolgt die Eintragung unverzüglich
-nach der Feststellung der Voraussetzungen für die Einrichtung des
-besonderen elektronischen Anwaltspostfachs. Im Übrigen nimmt die
-Rechtsanwaltskammer Eintragungen unverzüglich vor, nachdem sie von den
-einzutragenden Umständen Kenntnis erlangt hat und ihr erforderliche
-Nachweise vorgelegt wurden.
+Die Eintragung der nach § 1 Absatz 1 Satz 1 und 2 Nummer 1 bis 3 sowie
+Absatz 2 Nummer 1 und 2 in das Verzeichnis einzutragenden Personen und
+Berufsausübungsgesellschaften erfolgt unverzüglich nach ihrer Aufnahme
+in die Rechtsanwaltskammer. Im Fall des § 1 Absatz 1 Satz 2 Nummer 4
+erfolgt die Eintragung unverzüglich nach der Feststellung der
+Voraussetzungen für die Einrichtung des besonderen elektronischen
+Anwaltspostfachs. Im Übrigen nimmt die Rechtsanwaltskammer
+Eintragungen unverzüglich vor, nachdem sie von den einzutragenden
+Umständen Kenntnis erlangt hat und ihr erforderliche Nachweise
+vorgelegt wurden.
 
 
 ### § 4 Berichtigungen des Verzeichnisses
@@ -169,7 +187,8 @@ Berufs-, Berufsausübungs- oder Vertretungsverbote unverzüglich aus dem
 Verzeichnis zu löschen. Bestehen Zweifel an der Richtigkeit oder
 Vollständigkeit des Verzeichnisses, hat die Rechtsanwaltskammer
 Auskünfte einzuholen und gegebenenfalls die Vorlage von Nachweisen
-durch die eingetragene Person zu verlangen.
+durch die eingetragene Person oder Berufsausübungsgesellschaft zu
+verlangen.
 
 (2) Stellt eine andere Rechtsanwaltskammer oder die
 Bundesrechtsanwaltskammer Umstände fest, die die Unrichtigkeit oder
@@ -180,32 +199,37 @@ Verzeichnisses zuständige Rechtsanwaltskammer hiervon.
 
 ### § 5 Sperrung und Löschung von Eintragungen
 
-(1) Scheidet eine in das Verzeichnis eingetragene Person aus der das
-Verzeichnis führenden Rechtsanwaltskammer aus, sperrt die
-Rechtsanwaltskammer unverzüglich sämtliche zu der Person eingetragenen
-Angaben. Die Rechtsfolge des Satzes 1 gilt sinngemäß für die
-gesonderte Eintragung eines Syndikusrechtsanwalts nach § 46c Absatz 5
-Satz 2 der Bundesrechtsanwaltsordnung, soweit dessen Zulassung
-widerrufen wird. Für dienstleistende europäische Rechtsanwälte gilt
-Satz 1 mit der Maßgabe nach § 27a Absatz 1 Satz 3 des Gesetzes über
-die Tätigkeit europäischer Rechtsanwälte in Deutschland sinngemäß.
+(1) Scheidet eine in das Verzeichnis eingetragene Person oder
+zugelassene Berufsausübungsgesellschaft aus der das Verzeichnis
+führenden Rechtsanwaltskammer aus, sperrt die Rechtsanwaltskammer
+unverzüglich sämtliche zu der Person oder Berufsausübungsgesellschaft
+eingetragenen Angaben. Die Rechtsfolge des Satzes 1 gilt sinngemäß für
+die gesonderte Eintragung eines Syndikusrechtsanwalts nach § 46c
+Absatz 5 Satz 2 der Bundesrechtsanwaltsordnung, soweit dessen
+Zulassung widerrufen wird. Für dienstleistende europäische
+Rechtsanwälte gilt Satz 1 mit der Maßgabe nach § 27a Absatz 1 Satz 3
+des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in
+Deutschland sinngemäß.
 
 (2) Gesperrte Eintragungen dürfen nicht durch Einsichtnahme in das
 Register ersichtlich sein.
 
 (3) Gesperrte Eintragungen werden spätestens zwei Jahre nach der
-Sperrung gelöscht, soweit nicht die eingetragene Person einer längeren
-Speicherung ausdrücklich zustimmt. Auf Antrag der eingetragenen Person
-sind gesperrte Eintragungen unverzüglich zu löschen. § 31 Absatz 5
-Satz 5 der Bundesrechtsanwaltsordnung bleibt unberührt.
+Sperrung gelöscht, soweit nicht die eingetragene Person oder
+Berufsausübungsgesellschaft einer längeren Speicherung ausdrücklich
+zustimmt. Auf Antrag der eingetragenen Person oder
+Berufsausübungsgesellschaft sind gesperrte Eintragungen unverzüglich
+zu löschen. § 31 Absatz 6 Satz 5 der Bundesrechtsanwaltsordnung bleibt
+unberührt.
 
 (4) Eine zu Unrecht erfolgte Sperrung ist unverzüglich rückgängig zu
 machen.
 
-(5) Ist für die Abwicklung einer Kanzlei ein Abwickler bestellt, so
-ist im Verzeichnis zu vermerken, dass die eingetragene Person nicht
-mehr Mitglied der Rechtsanwaltskammer ist und dass ein Abwickler
-bestellt wurde.
+(5) Ist für die Abwicklung einer Kanzlei oder
+Berufsausübungsgesellschaft ein Abwickler bestellt, so ist im
+Verzeichnis zu vermerken, dass die eingetragene Person oder
+Berufsausübungsgesellschaft nicht mehr Mitglied der
+Rechtsanwaltskammer ist und dass ein Abwickler bestellt wurde.
 
 
 ### § 6 Einsichtnahme in das Verzeichnis
@@ -217,7 +241,8 @@ jederzeit kostenfrei und ohne vorherige Registrierung möglich sein.
 (2) Eine anstelle der Kanzleianschrift in das Verzeichnis eingetragene
 zustellfähige Anschrift ist nicht einsehbar.
 
-(3) Eintragungen nach § 1 Satz 2 Nummer 4 sind nicht einsehbar.
+(3) Eintragungen nach § 1 Absatz 1 Satz 2 Nummer 4 sind nicht
+einsehbar.
 
 (4) Die Ausgestaltung der Möglichkeit zur Einsichtnahme soll die
 Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-
@@ -241,7 +266,8 @@ zu ermöglichen:
 3.  Anschrift von Kanzlei oder Zweigstelle;
 
 
-4.  Kanzleiname oder Name der Zweigstelle;
+4.  Kanzleiname, Name oder Firma der Berufsausübungsgesellschaft oder Name
+    der Zweigstelle;
 
 
 5.  Berufsbezeichnung;
@@ -288,13 +314,14 @@ zeitnah zu beheben.
 
 Die Bundesrechtsanwaltskammer führt ein elektronisches
 Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern
-eingetragenen Personen. Es trägt die Bezeichnung „Bundesweites
-Amtliches Anwaltsverzeichnis“.
+eingetragenen Personen und Berufsausübungsgesellschaften. Es trägt die
+Bezeichnung „Bundesweites Amtliches Anwaltsverzeichnis“.
 
 
 ### § 10 Inhalt des Gesamtverzeichnisses
 
-Das Gesamtverzeichnis enthält zu den einzutragenden Personen
+Das Gesamtverzeichnis enthält zu den einzutragenden Personen und
+Berufsausübungsgesellschaften
 
 1.  die in den Verzeichnissen der Rechtsanwaltskammern enthaltenen
     Angaben,
@@ -323,11 +350,12 @@ Gesamtverzeichnis eingeben, sind die zu übertragenden Daten zumindest
 mit einer fortgeschrittenen elektronischen Signatur zu versehen.
 
 (2) Die Bundesrechtsanwaltskammer trägt zu den eingetragenen Personen
-die Bezeichnung ihres besonderen elektronischen Anwaltspostfachs in
-das Gesamtverzeichnis ein. Wurde für eine Vertretung, einen Abwickler
-oder einen Zustellungsbevollmächtigten ein besonderes elektronisches
+und Berufsausübungsgesellschaften die Bezeichnung ihres besonderen
+elektronischen Anwaltspostfachs in das Gesamtverzeichnis ein. Wurde
+für eine Vertretung, einen Abwickler oder einen
+Zustellungsbevollmächtigten ein besonderes elektronisches
 Anwaltspostfach eingerichtet, ist auch dessen Bezeichnung bei der
-eingetragenen Person einzutragen.
+eingetragenen Person oder Berufsausübungsgesellschaft einzutragen.
 
 (3) Die Bundesrechtsanwaltskammer ermöglicht den in § 16 Satz 2
 genannten Personen durch geeignete technische Vorkehrungen für die
@@ -476,8 +504,8 @@ Gesamtverzeichnisses für die Einsichtnahme über das auf den
 Internetseiten der Europäischen Kommission unter der Bezeichnung „Find
 a lawyer“ betriebene elektronische Suchsystem, das im Deutschen die
 Bezeichnung „Europäisches Rechtsanwaltsverzeichnis“ trägt, abrufbereit
-zur Verfügung. Der Abruf ist bezüglich des in § 1 Satz 1 und 2 Nummer
-1 bis 3 genannten Personenkreises mit Ausnahme der
+zur Verfügung. Der Abruf ist bezüglich des in § 1 Absatz 1 Satz 1 und
+2 Nummer 1 bis 3 genannten Personenkreises mit Ausnahme der
 Syndikusrechtsanwälte, der niedergelassenen europäischen
 Syndikusrechtsanwälte und der Syndikusrechtsanwälte aus anderen
 Staaten zu ermöglichen.
@@ -548,14 +576,14 @@ Verantwortlichen unverzüglich zu unterrichten.
 
 ### § 19 Besonderes elektronisches Anwaltspostfach
 
-(1) Das besondere elektronische Anwaltspostfach dient der
-elektronischen Kommunikation der in das Gesamtverzeichnis
-eingetragenen Mitglieder der Rechtsanwaltskammern, der
-Rechtsanwaltskammern und der Bundesrechtsanwaltskammer mit den
-Gerichten auf einem sicheren Übermittlungsweg. Ebenso dient es der
-elektronischen Kommunikation der Mitglieder der Rechtsanwaltskammern,
-der Rechtsanwaltskammern und der Bundesrechtsanwaltskammer
-untereinander.
+(1) Das besondere elektronische Anwaltspostfach nach den §§ 31a und
+31b der Bundesrechtsanwaltsordnung dient der elektronischen
+Kommunikation der in das Gesamtverzeichnis eingetragenen Mitglieder
+der Rechtsanwaltskammern, der Rechtsanwaltskammern und der
+Bundesrechtsanwaltskammer mit den Gerichten auf einem sicheren
+Übermittlungsweg. Ebenso dient es der elektronischen Kommunikation der
+Mitglieder der Rechtsanwaltskammern, der Rechtsanwaltskammern und der
+Bundesrechtsanwaltskammer untereinander.
 
 (2) Das besondere elektronische Anwaltspostfach kann auch der
 elektronischen Kommunikation mit anderen Personen oder Stellen dienen.
@@ -570,10 +598,17 @@ des Satzes 1 ermöglichen, auch den Gerichten zugänglich zu machen. Sie
 kann sie auch anderen Personen und Stellen zugänglich machen, mit
 denen sie nach Absatz 2 eine Kommunikation ermöglicht.
 
-(4) Vertretungen, Abwickler und Zustellungsbevollmächtigte, die nicht
-bereits von Absatz 1 Satz 1 erfasst sind, sowie nach § 1 Satz 2 Nummer
-4 eingetragene Personen stehen den Mitgliedern der
-Rechtsanwaltskammern nach den Absätzen 1 bis 3 gleich.
+(4) Den Mitgliedern der Rechtsanwaltskammern nach den Absätzen 1 bis 3
+stehen gleich:
+
+1.  Vertretungen, Abwickler und Zustellungsbevollmächtigte, die nicht
+    bereits von Absatz 1 Satz 1 erfasst sind, und
+
+
+2.  nach § 1 Absatz 1 Satz 2 Nummer 4 eingetragene Personen.
+
+
+
 
 
 ### § 20 Führung der besonderen elektronischen Postfächer
@@ -590,24 +625,37 @@ elektronisch kommunizieren können.
 barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung
 sein.
 
-(3) Die Bundesrechtsanwaltskammer hat zu gewährleisten, dass bei einem
-Versand nicht-qualifiziert signierter elektronischer Dokumente durch
-einen Rechtsanwalt auf einem sicheren Übermittlungsweg für den
-Empfänger feststellbar ist, dass die Nachricht von dem Rechtsanwalt
-selbst versandt wurde.
+(3) Die Bundesrechtsanwaltskammer hat zu gewährleisten, dass
+
+1.  bei der Übermittlung eines Dokuments mit einer nicht-qualifizierten
+    elektronischen Signatur auf einem sicheren Übermittlungsweg durch
+    einen Rechtsanwalt für den Empfänger feststellbar ist, dass die
+    Nachricht von dem Rechtsanwalt selbst versandt wurde,
+
+
+2.  bei der Übermittlung eines Dokuments mit einer nicht-qualifizierten
+    elektronischen Signatur auf einem sicheren Übermittlungsweg durch eine
+    zugelassene Berufsausübungsgesellschaft für den Empfänger feststellbar
+    ist, dass die Nachricht durch einen Rechtsanwalt versandt wurde, der
+    zur Vertretung der Berufsausübungsgesellschaft berechtigt ist.
+
+
+
 
 
 ### § 21 Einrichtung eines Postfachs
 
 (1) Die Rechtsanwaltskammern unterrichten die
 Bundesrechtsanwaltskammer über die bevorstehende Eintragung einer
-Person in das Gesamtverzeichnis. Die Bundesrechtsanwaltskammer richtet
-unverzüglich nach der Eintragung einer Person in das Gesamtverzeichnis
-für diese ein besonderes elektronisches Anwaltspostfach empfangsbereit
-ein.
+Person oder einer Berufsausübungsgesellschaft in das
+Gesamtverzeichnis. Die Bundesrechtsanwaltskammer richtet unverzüglich
+nach der Eintragung einer Person oder einer
+Berufsausübungsgesellschaft in das Gesamtverzeichnis für diese ein
+besonderes elektronisches Anwaltspostfach empfangsbereit ein.
 
-(2) Absatz 1 gilt nicht, wenn die eingetragene Person von einer
-Rechtsanwaltskammer in eine andere wechselt.
+(2) Absatz 1 gilt nicht, wenn die eingetragene Person oder
+Berufsausübungsgesellschaft von einer Rechtsanwaltskammer in eine
+andere wechselt.
 
 (3) Für weitere besondere elektronische Anwaltspostfächer gelten die
 §§ 19, 20 und 22 bis 30 entsprechend.
@@ -717,7 +765,12 @@ versenden. Das Recht, nicht-qualifiziert elektronisch signierte
 Dokumente auf einem sicheren Übermittlungsweg zu versenden, kann er
 jedoch nicht auf andere Personen übertragen. Satz 5 gilt nicht für die
 Befugnis von Vertretungen und Zustellungsbevollmächtigten,
-elektronische Empfangsbekenntnisse abzugeben.
+elektronische Empfangsbekenntnisse abzugeben. Handelt es sich bei dem
+Postfachinhaber um eine Berufsausübungsgesellschaft, so darf diese das
+Recht, nicht-qualifiziert elektronisch signierte Dokumente für die
+Berufsausübungsgesellschaft auf einem sicheren Übermittlungsweg zu
+versenden, nur solchen vertretungsberechtigten Rechtsanwälten
+einräumen, die ihren Beruf in der Berufsausübungsgesellschaft ausüben.
 
 (4) Der Postfachinhaber und die von ihm entsprechend ermächtigten
 anderen Personen können erteilte Zugangsberechtigungen jederzeit
@@ -745,16 +798,17 @@ entsprechend.
 ### § 25 Vertretungen, Abwickler und Zustellungsbevollmächtigte
 
 (1) Verfügt eine Person, die für eine im Gesamtverzeichnis
-eingetragene Person von der Rechtsanwaltskammer als Vertretung oder
-Abwickler bestellt wird, nicht über ein besonderes elektronisches
-Anwaltspostfach, unterrichtet die für die eingetragene Person
-zuständige Rechtsanwaltskammer die Bundesrechtsanwaltskammer über
-deren Bestellung oder Benennung. Sie übermittelt hierzu die Angaben
-zur Identität der eingetragenen Person sowie den Familiennamen, die
-Vornamen und eine zustellfähige Anschrift der Person, für die das
-Postfach einzurichten ist. Die Bundesrechtsanwaltskammer richtet
-daraufhin für die bestellte oder benannte Person für die Dauer ihrer
-Tätigkeit ein besonderes elektronisches Anwaltspostfach ein.
+eingetragene Person oder Berufsausübungsgesellschaft von der
+Rechtsanwaltskammer als Vertretung oder Abwickler bestellt wird, nicht
+über ein besonderes elektronisches Anwaltspostfach, unterrichtet die
+für die eingetragene Person zuständige Rechtsanwaltskammer die
+Bundesrechtsanwaltskammer über deren Bestellung oder Benennung. Sie
+übermittelt hierzu die Angaben zur Identität der eingetragenen Person
+oder Berufsausübungsgesellschaft sowie den Familiennamen, die Vornamen
+und eine zustellfähige Anschrift der Person, für die das Postfach
+einzurichten ist. Die Bundesrechtsanwaltskammer richtet daraufhin für
+die bestellte oder benannte Person für die Dauer ihrer Tätigkeit ein
+besonderes elektronisches Anwaltspostfach ein.
 
 (2) Die Rechtsanwaltskammern teilen der Bundesrechtsanwaltskammer mit,
 wenn aufgrund veränderter Umstände die Voraussetzungen für die
@@ -762,18 +816,18 @@ Einrichtung eines besonderen elektronischen Anwaltspostfachs im Sinne
 des Absatzes 1 entfallen sind.
 
 (3) Bestellt die Rechtsanwaltskammer eine Vertretung oder einen
-Abwickler, so räumt die Bundesrechtsanwaltskammer dieser Person für
-die Dauer ihrer Bestellung einen auf die Übersicht der eingegangenen
-Nachrichten beschränkten Zugang zum besonderen elektronischen
-Anwaltspostfach der Person ein, für die sie bestellt wurde. Dabei
-müssen für die Vertretung oder den Abwickler der Absender und der
-Eingangszeitpunkt der Nachricht einsehbar sein; der Betreff, der Text
-und die Anhänge der Nachricht dürfen nicht einsehbar sein. Die zur
-Einräumung des Zugangs erforderliche Übermittlung von Daten durch die
-Rechtsanwaltskammer an die Bundesrechtsanwaltskammer erfolgt im
-automatisierten Verfahren. Zu diesem Zweck zu übertragende Daten sind
-zumindest mit einer fortgeschrittenen elektronischen Signatur zu
-versehen.
+Abwickler, so räumt die Bundesrechtsanwaltskammer dieser Person oder
+der Berufsausübungsgesellschaft für die Dauer ihrer Bestellung einen
+auf die Übersicht der eingegangenen Nachrichten beschränkten Zugang
+zum besonderen elektronischen Anwaltspostfach der Person ein, für die
+sie bestellt wurde. Dabei müssen für die Vertretung oder den Abwickler
+der Absender und der Eingangszeitpunkt der Nachricht einsehbar sein;
+der Betreff, der Text und die Anhänge der Nachricht dürfen nicht
+einsehbar sein. Die zur Einräumung des Zugangs erforderliche
+Übermittlung von Daten durch die Rechtsanwaltskammer an die
+Bundesrechtsanwaltskammer erfolgt im automatisierten Verfahren. Zu
+diesem Zweck zu übertragende Daten sind zumindest mit einer
+fortgeschrittenen elektronischen Signatur zu versehen.
 
 (4) Hat es ein Rechtsanwalt in den Fällen des § 30, des § 46c Absatz 6
 oder des § 54 Absatz 2 der Bundesrechtsanwaltsordnung unterlassen,
@@ -786,6 +840,14 @@ besonderen elektronischen Anwaltspostfach des Rechtsanwalts einräumen,
 für den sie benannt oder bestellt wurde. Absatz 3 Satz 2 bis 4 gilt
 entsprechend. Der Antrag auf Einräumung eines Zugangs nach Satz 1 ist
 bei der Rechtsanwaltskammer zu stellen.
+
+(5) Hat es eine Berufsausübungsgesellschaft in den Fällen des § 59m
+Absatz 4 in Verbindung mit § 30 der Bundesrechtsanwaltsordnung oder
+des § 59e Absatz 1 in Verbindung mit § 54 Absatz 2 der
+Bundesrechtsanwaltsordnung unterlassen, einem von ihr benannten
+Zustellungsbevollmächtigten oder einer von ihr bestellten Vertretung
+einen Zugang zu ihrem besonderen elektronischen Anwaltspostfach
+einzuräumen, so gilt Absatz 4 entsprechend.
 
 
 ### § 26 Datensicherheit
@@ -827,12 +889,15 @@ frühestens nach 30 Tagen automatisch gelöscht werden.
 
 (1) Die Bundesrechtsanwaltskammer sperrt ein besonderes elektronisches
 Anwaltspostfach, wenn die Eintragungen zum Postfachinhaber im
-Gesamtverzeichnis gesperrt wurden. Der Zugang zu einem gesperrten
-besonderen elektronischen Anwaltspostfach ist nicht möglich. Dies gilt
-für den Postfachinhaber und alle anderen Personen, denen eine
-Zugangsberechtigung zu dem Postfach erteilt wurde. Die Sätze 1 bis 3
-gelten nicht, wenn der Postfachinhaber von einer Rechtsanwaltskammer
-in eine andere wechselt.
+Gesamtverzeichnis gesperrt wurden. Ein für die Zweigstelle einer
+Berufsausübungsgesellschaft eingerichtetes weiteres besonderes
+elektronisches Anwaltspostfach wird zudem gesperrt, wenn die
+Berufsausübungsgesellschaft dieses nicht mehr wünscht. Der Zugang zu
+einem gesperrten besonderen elektronischen Anwaltspostfach ist nicht
+möglich. Dies gilt für den Postfachinhaber und alle anderen Personen,
+denen eine Zugangsberechtigung zu dem Postfach erteilt wurde. Die
+Sätze 1 bis 4 gelten nicht, wenn der Postfachinhaber von einer
+Rechtsanwaltskammer in eine andere wechselt.
 
 (2) Das besondere elektronische Anwaltspostfach wird zudem gesperrt,
 wenn für dessen Inhaber ein Abwickler bestellt ist. Der Zugang des

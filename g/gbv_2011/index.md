@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2011, 341
 
 Neugefasst durch
-:   Bek. v. 11.3.2019 I 304
+:   Bek. v. 11.3.2019 I 304;
 
-Geändert durch
-:   Art. 3 V v. 26.3.2021 I 475
+Zuletzt geändert durch
+:   Art. 3 V v. 28.6.2023 I Nr. 174
 
 
 ## § 1 Geltungsbereich
@@ -34,11 +34,11 @@ September 1957 über die internationale Beförderung gefährlicher Güter
 auf der Straße (ADR), der Anlage der Ordnung für die internationale
 Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des
 Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) und
-des Europäischen Übereinkommens über die internationale Beförderung
-von gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die
-Beförderung gefährlicher Güter auf der Straße, auf der Schiene und auf
-schiffbaren Binnengewässern getroffenen Regelungen sind auch auf die
-Beförderung gefährlicher Güter mit Seeschiffen anzuwenden.
+des Übereinkommens über die internationale Beförderung von
+gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die Beförderung
+gefährlicher Güter auf der Straße, auf der Schiene und auf schiffbaren
+Binnengewässern getroffenen Regelungen sind auch auf die Beförderung
+gefährlicher Güter mit Seeschiffen anzuwenden.
 
 
 ## § 2 Befreiungen
@@ -145,7 +145,9 @@ Prüfung nach § 6 Absatz 4 mit Erfolg abgelegt hat.
 ## § 5 Schulungsanforderungen
 
 (1) Die Schulung erfolgt in einem nach § 7 Absatz 1 Nummer 2
-anerkannten Lehrgang.
+anerkannten Lehrgang. Anerkannt werden können Präsenzlehrgänge sowie
+Lehrgänge, die ganz oder teilweise in elektronischer Form durchgeführt
+werden.
 
 (2) Die in den Schulungen zu behandelnden Sachgebiete ergeben sich aus
 den Unterabschnitten 1.8.3.3 und 1.8.3.11 ADR/RID/ADN sowie aus § 8.
@@ -241,8 +243,8 @@ ausstellen. Einzelheiten sind durch die jeweils zuständige oberste
 Bundes- oder Landesbehörde durch Verwaltungsvorschriften zu regeln.
 
 (4) Das Bundesministerium der Verteidigung und das Bundesministerium
-des Innern, für Bau und Heimat bestimmen die zuständigen Behörden im
-Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
+des Innern und für Heimat bestimmen die zuständigen Behörden im Sinne
+des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 
 
 ## § 8 Pflichten des Gefahrgutbeauftragten
@@ -250,15 +252,12 @@ Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 (1) Der Gefahrgutbeauftragte hat die Aufgaben nach Unterabschnitt
 1\.8.3.3 ADR/RID/ADN wahrzunehmen.
 
-(2) Der Gefahrgutbeauftragte ist verpflichtet, schriftliche
-Aufzeichnungen über seine Überwachungstätigkeit unter Angabe des
-Zeitpunktes der Überwachung, der Namen der überwachten Personen und
-der überwachten Geschäftsvorgänge zu führen.
+(2) Der Gefahrgutbeauftragte ist verpflichtet, Aufzeichnungen in
+Textform über seine Überwachungstätigkeit unter Angabe des Zeitpunktes
+der Überwachung, der Namen der überwachten Personen und der
+überwachten Geschäftsvorgänge zu führen.
 
-(3) Der Gefahrgutbeauftragte hat die Aufzeichnungen nach Absatz 2
-mindestens fünf Jahre nach deren Erstellung aufzubewahren. Diese
-Aufzeichnungen sind der zuständigen Behörde auf Verlangen in
-Schriftform zur Prüfung vorzulegen.
+(3) (weggefallen)
 
 (4) Der Gefahrgutbeauftragte hat dafür zu sorgen, dass ein
 Unfallbericht nach Unterabschnitt 1.8.3.6 ADR/RID/ADN erstellt wird.
@@ -348,9 +347,10 @@ der ihm übertragenen Aufgaben nicht benachteiligen.
 
 
 
-(3) Der Unternehmer hat den Jahresbericht nach § 8 Absatz 5 fünf Jahre
-nach dessen Vorlage durch den Gefahrgutbeauftragten aufzubewahren und
-der zuständigen Behörde auf Verlangen vorzulegen.
+(3) Der Unternehmer hat die Aufzeichnungen nach § 8 Absatz 2 und den
+Jahresbericht nach § 8 Absatz 5 fünf Jahre nach deren Vorlage durch
+den Gefahrgutbeauftragten aufzubewahren und der zuständigen Behörde
+auf Verlangen in Textform zur Prüfung vorzulegen.
 
 (4) Der Unternehmer hat auf Verlangen der zuständigen Behörde den
 Namen des Gefahrgutbeauftragten bekannt zu geben.
@@ -388,8 +388,9 @@ vorsätzlich oder fahrlässig
         Gefahrgutbeauftragte alle Aufgaben ordnungsgemäß erfüllen kann,
 
 
-    f)  entgegen § 9 Absatz 3 den Jahresbericht nicht oder nicht mindestens
-        fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+    f)  entgegen § 9 Absatz 3 eine dort genannte Aufzeichnung oder den
+        Jahresbericht nicht oder nicht mindestens fünf Jahre aufbewahrt oder
+        nicht oder nicht rechtzeitig vorlegt,
 
 
     g)  entgegen § 9 Absatz 4 den Namen des Gefahrgutbeauftragten nicht oder
@@ -413,8 +414,7 @@ vorsätzlich oder fahrlässig
         nicht vollständig führt,
 
 
-    b)  entgegen § 8 Absatz 3 eine Aufzeichnung nicht oder nicht mindestens
-        fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+    b)  (weggefallen)
 
 
     c)  entgegen § 8 Absatz 4 nicht dafür sorgt, dass ein Unfallbericht

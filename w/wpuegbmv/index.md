@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2266
 
-Änderung durch
-:   Art. 7 Abs. 34 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 Abs. 34 G v. 12.5.2021 I 990
 
 
 

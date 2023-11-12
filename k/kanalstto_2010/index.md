@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2010, Nr 165, 3646
 
 Zuletzt geändert durch
-:   Art. 3 V v. 15.12.2020 I 2993
+:   Art. 1 V v. 14.7.2023 I Nr. 189
 
 
 ## Eingangsformel
@@ -136,1169 +136,937 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
 (zu § 1 Absatz 1)
 
-## Anlage Verzeichnis der Entgelte (zum 1. Januar 2021)
+## Anlage Verzeichnis der Entgelte
 
-(Fundstelle: BAnz AT 28.02.2020 V1)
+(Fundstelle: BGBl. 2023 I, Nr. 189, 1 – 5)
 
-Es sind zu entrichten für
 
-1   das Steuern von Fahrzeugen,
+*    *   **Es sind zu entrichten für**
 
-1\.1   auf der Fahrtstrecke von der Eingangsschleuse bis zur
-Endschleuse
+
+*    *   1
+
+    *   das Steuern von Fahrzeugen,
+
+
+*    *   1.1
+
+    *   auf der Fahrtstrecke von der Eingangsschleuse bis zur Endschleuse
+
 
 *    *   bei einer Bruttoraumzahl
 
-    *
 
 *    *   von
 
-    *
     *   bis
 
+    *
     *   Euro
 
-    *
 
-*    *   0
-
-    *   –
+*    *   0 –
 
     *   500
 
-    *   816
-
     *
+    *   1 004
 
-*    *   501
 
-    *   –
+*    *   501 –
 
     *   600
 
-    *   820
-
     *
+    *   1 009
 
-*    *   601
 
-    *   –
+*    *   601 –
 
     *   700
 
-    *   823
-
     *
+    *   1 013
 
-*    *   701
 
-    *   –
+*    *   701 –
 
     *   800
 
-    *   825
-
     *
+    *   1 015
 
-*    *   801
 
-    *   –
+*    *   801 –
 
     *   900
 
-    *   829
-
     *
+    *   1 020
 
-*    *   901
 
-    *   –
+*    *   901 –
 
     *   1 000
 
-    *   835
-
     *
+    *   1 027
 
-*    *   1 001
 
-    *   –
+*    *   1 001 –
 
     *   1 100
 
-    *   838
-
     *
+    *   1 032
 
-*    *   1 101
 
-    *   –
+*    *   1 101 –
 
     *   1 200
 
-    *   848
-
     *
+    *   1 043
 
-*    *   1 201
 
-    *   –
+*    *   1 201 –
 
     *   1 300
 
-    *   854
-
     *
+    *   1 051
 
-*    *   1 301
 
-    *   –
+*    *   1 301 –
 
     *   1 400
 
-    *   859
-
     *
+    *   1 057
 
-*    *   1 401
 
-    *   –
+*    *   1 401 –
 
     *   1 500
 
-    *   866
-
     *
+    *   1 066
 
-*    *   1 501
 
-    *   –
+*    *   1 501 –
 
     *   1 600
 
-    *   876
-
     *
+    *   1 078
 
-*    *   1 601
 
-    *   –
+*    *   1 601 –
 
     *   1 700
 
-    *   879
-
     *
+    *   1 082
 
-*    *   1 701
 
-    *   –
+*    *   1 701 –
 
     *   1 800
 
-    *   884
-
     *
+    *   1 088
 
-*    *   1 801
 
-    *   –
+*    *   1 801 –
 
     *   1 900
 
-    *   894
-
     *
+    *   1 101
 
-*    *   1 901
 
-    *   –
+*    *   1 901 –
 
     *   2 000
 
-    *   895
-
     *
+    *   1 102
 
-*    *   2 001
 
-    *   –
+*    *   2 001 –
 
     *   2 100
 
-    *   896
-
     *
+    *   1 103
 
-*    *   2 101
 
-    *   –
+*    *   2 101 –
 
     *   2 200
 
-    *   898
-
     *
+    *   1 105
 
-*    *   2 201
 
-    *   –
+*    *   2 201 –
 
     *   2 300
 
-    *   900
-
     *
+    *   1 107
 
-*    *   2 301
 
-    *   –
+*    *   2 301 –
 
     *   2 400
 
-    *   904
-
     *
+    *   1 112
 
-*    *   2 401
 
-    *   –
+*    *   2 401 –
 
     *   2 500
 
-    *   908
-
     *
+    *   1 118
 
-*    *   2 501
 
-    *   –
+*    *   2 501 –
 
     *   2 600
 
-    *   914
-
     *
+    *   1 125
 
-*    *   2 601
 
-    *   –
+*    *   2 601 –
 
     *   2 700
 
-    *   916
-
     *
+    *   1 127
 
-*    *   2 701
 
-    *   –
+*    *   2 701 –
 
     *   2 800
 
-    *   918
-
     *
+    *   1 129
 
-*    *   2 801
 
-    *   –
+*    *   2 801 –
 
     *   2 900
 
-    *   926
-
     *
+    *   1 140
 
-*    *   2 901
 
-    *   –
+*    *   2 901 –
 
     *   3 000
 
-    *   938
-
     *
+    *   1 155
 
-*    *   3 001
 
-    *   –
+*    *   3 001 –
 
     *   3 250
 
-    *   947
-
     *
+    *   1 165
 
-*    *   3 251
 
-    *   –
+*    *   3 251 –
 
     *   3 500
 
-    *   960
-
     *
+    *   1 181
 
-*    *   3 501
 
-    *   –
+*    *   3 501 –
 
     *   3 750
 
-    *   963
-
     *
+    *   1 185
 
-*    *   3 751
 
-    *   –
+*    *   3 751 –
 
     *   4 000
 
-    *   975
-
     *
+    *   1 199
 
-*    *   4 001
 
-    *   –
+*    *   4 001 –
 
     *   4 250
 
-    *   978
-
     *
+    *   1 203
 
-*    *   4 251
 
-    *   –
+*    *   4 251 –
 
     *   4 500
 
-    *   986
-
     *
+    *   1 213
 
-*    *   4 501
 
-    *   –
+*    *   4 501 –
 
     *   4 750
 
-    *   1 005
-
     *
+    *   1 236
 
-*    *   4 751
 
-    *   –
+*    *   4 751 –
 
     *   5 000
 
-    *   1 017
-
     *
+    *   1 251
 
-*    *   5 001
 
-    *   –
+*    *   5 001 –
 
     *   5 250
 
-    *   1 022
-
     *
+    *   1 258
 
-*    *   5 251
 
-    *   –
+*    *   5 251 –
 
     *   5 500
 
-    *   1 035
-
     *
+    *   1 273
 
-*    *   5 501
 
-    *   –
+*    *   5 501 –
 
     *   5 750
 
-    *   1 045
-
     *
+    *   1 286
 
-*    *   5 751
 
-    *   –
+*    *   5 751 –
 
     *   6 000
 
-    *   1 057
-
     *
+    *   1 301
 
-*    *   6 001
 
-    *   –
+*    *   6 001 –
 
     *   6 250
 
-    *   1 064
-
     *
+    *   1 309
 
-*    *   6 251
 
-    *   –
+*    *   6 251 –
 
     *   6 500
 
-    *   1 068
-
     *
+    *   1 314
 
-*    *   6 501
 
-    *   –
+*    *   6 501 –
 
     *   6 750
 
-    *   1 084
-
     *
+    *   1 334
 
-*    *   6 751
 
-    *   –
+*    *   6 751 –
 
     *   7 000
 
-    *   1 099
-
     *
+    *   1 352
 
-*    *   7 001
 
-    *   –
+*    *   7 001 –
 
     *   7 250
 
-    *   1 111
-
     *
+    *   1 367
 
-*    *   7 251
 
-    *   –
+*    *   7 251 –
 
     *   7 500
 
-    *   1 128
-
     *
+    *   1 388
 
-*    *   7 501
 
-    *   –
+*    *   7 501 –
 
     *   7 750
 
-    *   1 142
-
     *
+    *   1 405
 
-*    *   7 751
 
-    *   –
+*    *   7 751 –
 
     *   8 000
 
-    *   1 146
-
     *
+    *   1 410
 
-*    *   8 001
 
-    *   –
+*    *   8 001 –
 
     *   8 250
 
-    *   1 151
-
     *
+    *   1 417
 
-*    *   8 251
 
-    *   –
+*    *   8 251 –
 
     *   8 500
 
-    *   1 156
-
     *
+    *   1 423
 
-*    *   8 501
 
-    *   –
+*    *   8 501 –
 
     *   8 750
 
-    *   1 160
-
     *
+    *   1 427
 
-*    *   8 751
 
-    *   –
+*    *   8 751 –
 
     *   9 000
 
-    *   1 174
-
     *
+    *   1 444
 
-*    *   9 001
 
-    *   –
+*    *   9 001 –
 
     *   9 250
 
-    *   1 184
-
     *
+    *   1 457
 
-*    *   9 251
 
-    *   –
+*    *   9 251 –
 
     *   9 500
 
-    *   1 199
-
     *
+    *   1 475
 
-*    *   9 501
 
-    *   –
+*    *   9 501 –
 
     *   9 750
 
-    *   1 212
-
     *
+    *   1 492
 
-*    *   9 751
 
-    *   –
+*    *   9 751 –
 
     *   10 000
 
-    *   1 218
-
     *
+    *   1 498
 
-*    *   10 001
 
-    *   –
+*    *   10 001 –
 
     *   10 250
 
-    *   1 222
-
     *
+    *   1 504
 
-*    *   10 251
 
-    *   –
+*    *   10 251 –
 
     *   10 500
 
-    *   1 230
-
     *
+    *   1 513
 
-*    *   10 501
 
-    *   –
+*    *   10 501 –
 
     *   10 750
 
-    *   1 243
-
     *
+    *   1 530
 
-*    *   10 751
 
-    *   –
+*    *   10 751 –
 
     *   11 000
 
-    *   1 258
-
     *
+    *   1 548
 
-*    *   11 001
 
-    *   –
+*    *   11 001 –
 
     *   11 250
 
-    *   1 275
-
     *
+    *   1 569
 
-*    *   11 251
 
-    *   –
+*    *   11 251 –
 
     *   11 500
 
-    *   1 289
-
     *
+    *   1 586
 
-*    *   11 501
 
-    *   –
+*    *   11 501 –
 
     *   11 750
 
-    *   1 304
-
     *
+    *   1 604
 
-*    *   11 751
 
-    *   –
+*    *   11 751 –
 
     *   12 000
 
-    *   1 319
-
     *
+    *   1 623
 
-*    *   12 001
 
-    *   –
+*    *   12 001 –
 
     *   12 500
 
-    *   1 323
-
     *
+    *   1 628
 
-*    *   12 501
 
-    *   –
+*    *   12 501 –
 
     *   13 000
 
-    *   1 327
-
     *
+    *   1 633
 
-*    *   13 001
 
-    *   –
+*    *   13 001 –
 
     *   13 500
 
-    *   1 337
-
     *
+    *   1 646
 
-*    *   13 501
 
-    *   –
+*    *   13 501 –
 
     *   14 000
 
-    *   1 351
-
     *
+    *   1 663
 
-*    *   14 001
 
-    *   –
+*    *   14 001 –
 
     *   14 500
 
-    *   1 374
-
     *
+    *   1 691
 
-*    *   14 501
 
-    *   –
+*    *   14 501 –
 
     *   15 000
 
-    *   1 395
-
     *
+    *   1 717
 
-*    *   15 001
 
-    *   –
+*    *   15 001 –
 
     *   15 500
 
-    *   1 398
-
     *
+    *   1 720
 
-*    *   15 501
 
-    *   –
+*    *   15 501 –
 
     *   16 000
 
-    *   1 424
-
     *
+    *   1 753
 
-*    *   16 001
 
-    *   –
+*    *   16 001 –
 
     *   16 500
 
-    *   1 447
-
     *
+    *   1 780
 
-*    *   16 501
 
-    *   –
+*    *   16 501 –
 
     *   17 000
 
-    *   1 472
-
     *
+    *   1 811
 
-*    *   17 001
 
-    *   –
+*    *   17 001 –
 
     *   17 500
 
-    *   1 491
-
     *
+    *   1 834
 
-*    *   17 501
 
-    *   –
+*    *   17 501 –
 
     *   18 000
 
-    *   1 520
-
     *
+    *   1 870
 
-*    *   18 001
 
-    *   –
+*    *   18 001 –
 
     *   18 500
 
-    *   1 540
-
     *
+    *   1 895
 
-*    *   18 501
 
-    *   –
+*    *   18 501 –
 
     *   19 000
 
-    *   1 566
-
     *
+    *   1 927
 
-*    *   19 001
 
-    *   –
+*    *   19 001 –
 
     *   19 500
 
-    *   1 592
-
     *
+    *   1 958
 
-*    *   19 501
 
-    *   –
+*    *   19 501 –
 
     *   20 000
 
-    *   1 614
-
     *
+    *   1 986
 
-*    *   20 001
 
-    *   –
+*    *   20 001 –
 
     *   20 500
 
-    *   1 620
-
     *
+    *   1 993
 
-*    *   20 501
 
-    *   –
+*    *   20 501 –
 
     *   21 000
 
-    *   1 645
-
     *
+    *   2 024
 
-*    *   21 001
 
-    *   –
+*    *   21 001 –
 
     *   21 500
 
-    *   1 663
-
     *
+    *   2 046
 
-*    *   21 501
 
-    *   –
+*    *   21 501 –
 
     *   22 000
 
-    *   1 689
-
     *
+    *   2 078
 
-*    *   22 001
 
-    *   –
+*    *   22 001 –
 
     *   22 500
 
-    *   1 712
-
     *
+    *   2 107
 
-*    *   22 501
 
-    *   –
+*    *   22 501 –
 
     *   23 000
 
-    *   1 732
-
     *
+    *   2 131
 
-*    *   23 001
 
-    *   –
+*    *   23 001 –
 
     *   23 500
 
-    *   1 741
-
     *
+    *   2 142
 
-*    *   23 501
 
-    *   –
+*    *   23 501 –
 
     *   24 000
 
-    *   1 773
-
     *
+    *   2 182
 
-*    *   24 001
 
-    *   –
+*    *   24 001 –
 
     *   24 500
 
-    *   1 803
-
     *
+    *   2 218
 
-*    *   24 501
 
-    *   –
+*    *   24 501 –
 
     *   25 000
 
-    *   1 834
-
     *
+    *   2 256
 
-*    *   25 001
 
-    *   –
+*    *   25 001 –
 
     *   25 500
 
-    *   1 846
-
     *
+    *   2 271
 
-*    *   25 501
 
-    *   –
+*    *   25 501 –
 
     *   26 000
 
-    *   1 863
-
     *
+    *   2 292
 
-*    *   26 001
 
-    *   –
+*    *   26 001 –
 
     *   26 500
 
-    *   1 875
-
     *
+    *   2 307
 
-*    *   26 501
 
-    *   –
+*    *   26 501 –
 
     *   27 000
 
-    *   1 895
-
     *
+    *   2 332
 
-*    *   27 001
 
-    *   –
+*    *   27 001 –
 
     *   27 500
 
-    *   1 910
-
     *
+    *   2 351
 
-*    *   27 501
 
-    *   –
+*    *   27 501 –
 
     *   28 000
 
-    *   1 931
-
     *
+    *   2 376
 
-*    *   28 001
 
-    *   –
+*    *   28 001 –
 
     *   28 500
 
-    *   1 951
-
     *
+    *   2 401
 
-*    *   28 501
 
-    *   –
+*    *   28 501 –
 
     *   29 000
 
-    *   1 969
-
     *
+    *   2 423
 
-*    *   29 001
 
-    *   –
+*    *   29 001 –
 
     *   29 500
 
-    *   2 001
-
     *
+    *   2 462
 
-*    *   29 501
 
-    *   –
+*    *   29 501 –
 
     *   30 000
 
-    *   2 023
-
     *
+    *   2 490
 
-*    *   für jede weitere
-        angefangene 500
-        über 30 000
 
-    *   22
+*    *   für jede weitere angefangene 500 über 30 000
 
-    *
+    *   28,
+
 
 *    *   höchstens jedoch
 
-    *   2 800
-
-    *
+    *   3 470,
 
 
+*    *   1.2
 
-
-*    *   1.2   auf Teilen der Fahrtstrecke für jede angefangene Fahrtstrecke
-        von 10 Kilometern
+    *   auf Teilen der Fahrtstrecke für jede angefangene Fahrtstrecke von 10
+        Kilometern
 
     *   12 vom Hundert,
 
 
-
-
-*    *   höchstens
+*    *
+    *   höchstens
 
     *   100 vom Hundert
 
 
-
-
-*    *   des Betrages nach Nummer 1.1,
+*    *
+    *   des Betrages nach Nummer 1.1,
 
     *
 
+*    *   2
+
+    *   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die Abfahrt
+        aus nicht revierbedingten Gründen verzögert wird, nach Ablauf einer
+        Stunde für jede weitere angefangene Stunde
+
+    *   58 Euro,
 
 
+*    *   3
 
-*    *   2   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die
-        Abfahrt aus nicht revierbedingten Gründen verzögert wird, nach Ablauf
-        einer Stunde
-
-
-
-
-*    *   für jede weitere angefangene Stunde
+    *   die Zeit der Fahrtunterbrechung, wenn das Fahrzeug aus nicht
+        revierbedingten Gründen ankert oder festmacht, für jede angefangene
+        Stunde,
 
     *   47 Euro,
 
 
+*    *   4
+
+    *   die Tätigkeit bei den notwendigen Manövern in Fällen der Nummer 3 und
+        Nummer 5
+
+    *   55 Euro,
 
 
-*    *   3   die Zeit der Fahrtunterbrechung, wenn das Fahrzeug aus nicht
-        revierbedingten Gründen ankert oder festmacht,
+*    *   5
 
-
-
-
-*    *   für jede angefangene Stunde
-
-    *   39 Euro,
-
-
-
-
-*    *   4   die Tätigkeit bei den notwendigen Manövern in Fällen der Nummer 3
-        und Nummer 5
+    *   die Wartezeit an Bord des Fahrzeugs, wenn die Abfahrt oder Fortsetzung
+        der Fahrt aus revierbedingten Gründen verzögert wird, nach Ablauf von
+        zwei Stunden für jede weitere angefangene Stunde
 
     *   45 Euro,
 
 
+*    *   6
 
-
-
-*    *   5   die Wartezeit an Bord des Fahrzeugs, wenn die Abfahrt oder
-        Fortsetzung der Fahrt aus revierbedingten Gründen verzögert wird, nach
-        Ablauf von zwei Stunden
-
-
-
-
-*    *   für jede weitere angefangene Stunde
-
-    *   36 Euro,
-
-
-
-
-*    *   6   die Wartezeit nach beendeter Tätigkeit bis zum Verlassen des
+    *   die Wartezeit nach beendeter Tätigkeit bis zum Verlassen des
         Fahrzeugs, wenn der oder die Steurer auf Wunsch der Schiffsführung an
-        Bord bleiben,
+        Bord bleiben, für jede angefangene Stunde
+
+    *   47 Euro,
 
 
+*    *   7
+
+    *   den Weg zwischen der Einsatzstation und dem Liegeplatz des Fahrzeugs
+        außerhalb der Schleusen des Nord-Ostsee-Kanals
+
+    *
+
+*    *   7.1
+
+    *   im Bereich der Binnenhäfen von Brunsbüttel und Kiel-Holtenau sowie an
+        der Anlegebrücke der Bunkerstation Projensdorf
+
+    *   29 Euro,
 
 
-*    *   für jede angefangene Stunde
+*    *   7.2
 
-    *   39 Euro,
+    *   im übrigen Bereich des Nord-Ostsee-Kanals
 
-
-
-
-*    *   7   den Weg zwischen der Einsatzstation und dem Liegeplatz des
-        Fahrzeugs außerhalb der Schleusen des Nord-Ostsee-Kanals
+    *   41 Euro,
 
 
+*    *   8
+
+    *   den vergeblichen Weg, wenn der oder die Kanalsteurer aus anderen als
+        revierbedingten Gründen nicht an Bord genommen oder vor Aufnahme ihrer
+        Tätigkeit wieder entlassen werden
+
+    *   63 Euro,
 
 
-*    *   7.1   im Bereich der Binnenhäfen von Brunsbüttel und Kiel-Holtenau
-        sowie an der Anlegebrücke der
-        Bunkerstation Projensdorf
+*    *   9
 
-    *   23 Euro,
+    *   die Zeit der Abwesenheit von der Einsatzstation in Fällen der Nummer
+        8, wenn das Fahrzeug außerhalb der Schleusen des Nord-Ostsee-Kanals
+        liegt, für jede angefangene Stunde
 
-
-
-
-
-*    *   7.2   im übrigen Bereich des Nord-Ostsee-Kanals
-
-    *   34 Euro,
+    *   47 Euro,
 
 
+*    *   10
 
+    *   das Fehlen einer angemessenen Bordunterkunft ein Ausgleich in Höhe von
 
-
-*    *   8   den vergeblichen Weg, wenn der oder die Kanalsteurer aus anderen
-        als revierbedingten Gründen
-        nicht an Bord genommen oder vor Aufnahme ihrer Tätigkeit wieder
-        entlassen werden
-
-    *   51 Euro,
-
-
-
-
-
-*    *   9   die Zeit der Abwesenheit von der Einsatzstation in Fällen der
-        Nummer 8, wenn das Fahrzeug außerhalb der Schleusen des Nord-Ostsee-
-        Kanals liegt,
-
-
-
-
-*    *   für jede angefangene Stunde
-
-    *   39 Euro,
-
-
-
-
-*    *   10   das Fehlen einer angemessenen Bordunterkunft ein Ausgleich in
-        Höhe von
-
-    *   155 Euro.
-
-
-
+    *   191 Euro.
 
 
 *    *   Außerdem sind die Fahrtauslagen in Fällen der Nummern 7 und 8 zu

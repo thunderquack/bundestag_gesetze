@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1887
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.9.2021 I 4111
+:   Art. 2 V v. 1.6.2022 I 867
 
 
 ## § 1 Vollständiges Anwendungsverbot
@@ -191,7 +191,7 @@ genannten Verboten zulassen:
 
 
 2.  zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor
-    invasiven Arten, und
+    invasiven Arten, oder
 
 
 3.  zur Gewährleistung der Verkehrssicherheit von Schienenwegen.
@@ -233,15 +233,14 @@ Abweichend von Satz 1 beträgt der einzuhaltende Mindestabstand fünf
 Meter, wenn eine geschlossene, ganzjährig begrünte Pflanzendecke
 vorhanden ist. Eine Bodenbearbeitung zur Erneuerung des
 Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen
-durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 8.
-September 2021. Sind mit der Zulassung des jeweiligen
-Pflanzenschutzmittels Anwendungsbestimmungen über größere Abstände
-oder über die zu verwendenden Pflanzenschutzgeräte festgelegt worden,
-bleibt die Pflicht zur Einhaltung dieser Anwendungsbestimmungen
-unberührt. Die Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen
-nach § 22 Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes
-getroffen hat oder trifft, mit denen abweichende Gewässerabstände
-festgelegt werden.
+durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 1.
+Juli 2020. Sind mit der Zulassung des jeweiligen Pflanzenschutzmittels
+Anwendungsbestimmungen über größere Abstände oder über die zu
+verwendenden Pflanzenschutzgeräte festgelegt worden, bleibt die
+Pflicht zur Einhaltung dieser Anwendungsbestimmungen unberührt. Die
+Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen nach § 22
+Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes getroffen hat
+oder trifft, mit denen abweichende Gewässerabstände festgelegt werden.
 
 (2) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 und 2
 zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher
@@ -334,9 +333,21 @@ oder Versuchszwecke genehmigen.
 (1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
 wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
 
-(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen § 3a ein Pflanzenschutzmittel abgibt.
+
+1.  entgegen § 2, § 3 Absatz 1 oder 2, § 3b Absatz 3, 4 oder 5, § 4 Absatz
+    1 Satz 1, auch in Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein
+    Pflanzenschutzmittel anwendet,
+
+
+2.  einer vollziehbaren Anordnung nach § 3 Absatz 3 zuwiderhandelt oder
+
+
+3.  entgegen § 3a ein Pflanzenschutzmittel abgibt.
+
+
+
 
 
 ## § 9 Generelles Anwendungsverbot

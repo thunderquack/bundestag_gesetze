@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 1603
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 21 G v. 12.5.2021 I 990
+:   Art. 8 Abs. 4 G v. 20.12.2022 I 2730
 
 
 ## Eingangsformel
@@ -230,11 +230,12 @@ und fiktive Betriebsausgaben, die auf Grund anzunehmender
 schuldrechtlicher Beziehungen entstehen (§§ 16 und 17).
 
 (3) In den Aufzeichnungen, die nach § 90 Absatz 3 der Abgabenordnung
-auf Anforderung zu erstellen und vorzulegen sind, sind auch darzulegen
+zu erstellen und nach § 90 Absatz 4 der
+Abgabenordnung              vorzulegen sind, sind auch darzulegen:
 
 1.  die Gründe für die Zuordnung der Bestandteile, einschließlich der
-    Gründe für die Zuordnung der Geschäftsvorfälle des Unternehmens (§ 9),
-    der Chancen und Risiken (§ 10) und der Sicherungsgeschäfte (§ 11),
+    Gründe für die Zuordnung der Geschäftsvorfälle des Unternehmens (§ 9),
+    der Chancen und Risiken (§ 10) und der Sicherungsgeschäfte (§ 11),
     sowie
 
 

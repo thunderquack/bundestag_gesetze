@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.2.1984 I 265;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 12.12.2016 I 2864
-
-Änderung durch
-:   Art. 6 G v. 22.4.2020 I 840 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 9.3.2021 I 338 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 Abs. 31 G v. 4.5.2021 I 882 (Nr. 21) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 133 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 7.12.2021 I 5190 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 7.12.2021 I 5190
 
 
 ## Abschnitt 1 - Erlaubnispflicht, Ausbildung und Tauglichkeit
@@ -748,7 +733,7 @@ Nr. 1178/2011 im Zuständigkeitsbereich der zuständigen Stelle erfolgt.
 3.  der regelmäßig Alkohol, Rauschmittel oder Medikamente missbraucht,
 
 
-4.  für den eine rechtliche Betreuung nach den §§ 1896 ff. des
+4.  für den eine rechtliche Betreuung nach den §§ 1814 bis 1881 des
     Bürgerlichen Gesetzbuchs besteht.
 
 

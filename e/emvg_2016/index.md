@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2879
 
-Geändert durch
-:   Art. 3 Abs. 1 G v. 27.6.2017 I 1947
-
-Änderung durch
-:   Art. 51 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 51 G v. 23.6.2021 I 1858
 
 [^F796193_01_BJNR287910016]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/30/EU des
     Europäischen Parlaments und des Rates vom 26. Februar 2014 zur

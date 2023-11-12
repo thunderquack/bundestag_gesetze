@@ -54,6 +54,9 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
     g)  Anschrift (Straße, Hausnummer, Postleitzahl, Ort),
 
 
+    h)  E-Mail-Adresse,
+
+
 
 
 
@@ -77,6 +80,9 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
     f)  Rufnummer,
 
 
+    g)  E-Mail-Adresse,
+
+
 
 
 
@@ -92,12 +98,12 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
 
 
     b)  Angelegenheiten der Gesundheitssorge und ob ausdrücklich Maßnahmen
-        nach § 1904 Abs. 1 Satz 1 und § 1906a Absatz 1 und 4 des Bürgerlichen
+        nach § 1829 Absatz 1 Satz 1 und § 1832 Absatz 1 und 4 des Bürgerlichen
         Gesetzbuchs umfasst sind,
 
 
     c)  Angelegenheiten der Aufenthaltsbestimmung und ob ausdrücklich
-        Maßnahmen nach § 1906 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs
+        Maßnahmen nach § 1831 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs
         umfasst sind,
 
 
@@ -115,10 +121,15 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
     b)  für den Fall, dass das Betreuungsgericht einen Betreuer bestellt,
 
 
-    c)  hinsichtlich Art und Umfang medizinischer Versorgung.
+    c)  hinsichtlich Art und Umfang medizinischer Versorgung,
 
 
 
+
+
+7.  Widersprüche gegen eine Vertretung durch den Ehegatten nach § 1358 des
+    Bürgerlichen Gesetzbuchs mit den Daten zur Person des Widersprechenden
+    entsprechend Nummer 1.
 
 
 
@@ -134,11 +145,13 @@ Notars und die Anschrift seiner Geschäftsstelle aufgenommen werden.
 ## § 2 Eintragungsantrag
 
 (1) Die Eintragung erfolgt auf schriftlichen Antrag des
-Vollmachtgebers. Der Antrag hat mindestens die Angaben nach § 1 Abs. 1
-Nr. 1 Buchstabe a, c bis g zu enthalten. Sollen auch Angaben über den
-Bevollmächtigten eingetragen werden, muss der Antrag zudem mindestens
-die Angaben nach § 1 Abs. 1 Nr. 2 Buchstabe a, c und e enthalten. Die
-Angaben nach § 1 Abs. 3 werden unabhängig von dem Antrag eingetragen.
+Vollmachtgebers oder des einer Vertretung durch den Ehegatten
+Widersprechenden. Der Antrag hat mindestens die Angaben nach § 1 Abs.
+1 Nr. 1 Buchstabe a, c bis g zu enthalten. Sollen auch Angaben über
+den Bevollmächtigten eingetragen werden, muss der Antrag zudem
+mindestens die Angaben nach § 1 Abs. 1 Nr. 2 Buchstabe a, c und e
+enthalten. Die Angaben nach § 1 Abs. 3 werden unabhängig von dem
+Antrag eingetragen.
 
 (2) Der Antrag kann auch im Wege der Datenfernübertragung gestellt
 werden, soweit die Bundesnotarkammer diese Möglichkeit eröffnet hat.
@@ -186,8 +199,9 @@ unberührt.
 ## § 5 Änderung, Ergänzung und Löschung von Eintragungen
 
 (1) Änderungen, Ergänzungen und Löschungen von Eintragungen erfolgen
-auf schriftlichen Antrag des Vollmachtgebers. § 2 Abs. 2, 3 und § 3
-gelten entsprechend.
+auf schriftlichen Antrag des Vollmachtgebers oder des einer Vertretung
+durch den Ehegatten Widersprechenden. § 2 Abs. 2, 3 und § 3 gelten
+entsprechend.
 
 (2) Bei der Eintragung von Änderungen und Ergänzungen ist
 sicherzustellen, dass die bisherige Eintragung auf Anforderung
@@ -196,19 +210,30 @@ erkennbar bleibt.
 (3) Daten nach § 1 Abs. 1 Nr. 2 sind auch auf schriftlichen Antrag des
 Bevollmächtigten zu löschen. § 2 Abs. 2 und 3 gilt entsprechend.
 
-(4) Eintragungen sind 110 Jahre nach der Geburt des Vollmachtgebers zu
+(4) Eintragungen sind 110 Jahre nach der Geburt des Vollmachtgebers
+oder des einer Vertretung durch den Ehegatten Widersprechenden zu
 löschen.
 
 
-## § 6 Auskunft an die Betreuungsgerichte und die Landgerichte als Beschwerdegerichte
+## § 6 Auskunft an Betreuungsgerichte, Landgerichte als Beschwerdegerichte und Ärzte
 
 (1) Die Auskunft aus dem Register erfolgt im Wege eines
-automatisierten Abrufverfahrens, sofern die Bundesnotarkammer zuvor
-mit der jeweiligen Landesjustizverwaltung schriftlich Festlegungen zu
-den technischen und organisatorischen Maßnahmen zur Gewährleistung des
-Datenschutzes und der Datensicherheit nach den Artikeln 24, 25 und 32
-der Verordnung (EU) 2016/679 getroffen hat. § 2 Abs. 2 Satz 2 gilt
-entsprechend.
+automatisierten Verfahrens auf Abruf, sofern die Bundesnotarkammer
+zuvor
+
+1.  für Ersuchen eines Betreuungsgerichts oder eines Landgerichts als
+    Beschwerdegericht mit der jeweiligen Landesjustizverwaltung und
+
+
+2.  für Ersuchen eines Arztes mit der jeweils zuständigen
+    Landesärztekammer
+
+
+
+schriftlich Festlegungen zu den technischen und organisatorischen
+Maßnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit
+nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 getroffen
+hat. § 2 Abs. 2 Satz 2 gilt entsprechend.
 
 (2) Die Auskunft aus dem Register erfolgt auch auf schriftliches oder
 elektronisches Ersuchen des Betreuungsgerichts und des Landgerichts
@@ -233,26 +258,44 @@ nur, wenn sie dazu nach den Umständen des Einzelfalls Anlass hat. Für
 die Kontrolle der Zulässigkeit der Ersuchen und für die Sicherstellung
 der ordnungsgemäßen Datenverarbeitung protokolliert die
 Bundesnotarkammer alle nach § 6 erteilten Auskünfte elektronisch. Zu
-protokollieren sind die Daten zur Person des Vollmachtgebers, das
-ersuchende Betreuungsgericht oder das Landgericht als
-Beschwerdegericht, dessen Geschäftszeichen, der Zeitpunkt des
-Ersuchens sowie die übermittelten Daten.
+protokollieren sind
+
+1.  die von der ersuchenden Stelle eingegebenen Daten,
+
+
+2.  das ersuchende Gericht und dessen Geschäftszeichen oder der ersuchende
+    Arzt,
+
+
+3.  der Zeitpunkt des Ersuchens sowie
+
+
+4.  die übermittelten Daten.
+
+
+
 
 (2) Die Protokolle dürfen nur für Zwecke der Datenschutzkontrolle, der
-Datensicherung und der Sicherstellung eines ordnungsgemäßen
-Registerbetriebs verwendet werden. Ferner kann der Vollmachtgeber auf
-der Grundlage der Protokolle Auskunft darüber verlangen, welche
-Auskünfte aus dem Register erteilt worden sind. Satz 2 gilt
-entsprechend für den Bevollmächtigten, sofern Daten zu seiner Person
-gespeichert sind. Die Protokolle sind gegen zweckfremde Verwendung zu
-schützen.
+Datensicherung, der Sicherstellung eines ordnungsgemäßen
+Registerbetriebs und der Überprüfung durch die jeweils zuständige
+Landesärztekammer, ob die Voraussetzungen des § 78b Absatz 1 Satz 2
+der Bundesnotarordnung eingehalten sind, verwendet werden. Zur
+Überprüfung, ob die Voraussetzungen des § 78b Absatz 1 Satz 2 der
+Bundesnotarordnung eingehalten sind, kann die jeweils zuständige
+Landesärztekammer auf der Grundlage der Protokolle Auskunft darüber
+verlangen, welche Auskünfte an einen Arzt erteilt worden sind. Ferner
+kann der Vollmachtgeber oder der einer Vertretung durch den Ehegatten
+Widersprechende auf der Grundlage der Protokolle Auskunft darüber
+verlangen, welche Auskünfte aus dem Register erteilt worden sind. Satz
+3 gilt entsprechend für den Bevollmächtigten, sofern Daten zu seiner
+Person gespeichert sind. Die Protokolle sind gegen zweckfremde
+Verwendung zu schützen.
 
 (3) Die Protokolle werden nach Ablauf des auf ihre Erstellung
-folgenden Kalenderjahres gelöscht. Das Bundesministerium der Justiz
-und für Verbraucherschutz löscht Protokolle, die ihm nach Absatz 1
-Satz 4 zur Verfügung gestellt worden sind, ein Jahr nach ihrem
-Eingang, sofern sie nicht für weitere, bereits eingeleitete Prüfungen
-benötigt werden.
+folgenden Kalenderjahres gelöscht. Die Landesärztekammer löscht
+Protokolle, die ihr nach Absatz 2 Satz 2 zur Verfügung gestellt worden
+sind, ein Jahr nach ihrem Eingang, sofern sie nicht für weitere,
+bereits eingeleitete Prüfungen benötigt werden.
 
 
 ## § 8 Aufbewahrung von Dokumenten
@@ -265,11 +308,11 @@ ihre Erledigung gefunden hat. Nach Ablauf der Aufbewahrungsfrist sind
 die Dokumente zu vernichten.
 
 
-## § 9 Betreuungsverfügungen
+## § 9 Betreuungsverfügungen, Patientenverfügungen
 
-Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen
-unabhängig von der Eintragung einer Vollmacht registriert werden. Die
-§§ 1 bis 8 gelten entsprechend.
+Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen und
+Patientenverfügungen unabhängig von der Eintragung einer Vollmacht
+registriert werden. Die §§ 1 bis 8 gelten entsprechend.
 
 
 ## Schlussformel

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1744
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2015 I 2565
-
-Änderung durch
-:   Art. 33 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 68 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 68 G v. 10.8.2021 I 3436
 
 
 ## § 1 Voraussetzungen der Partnerschaft
@@ -39,14 +33,13 @@ von Dienstleistungen höherer Art im Interesse der Auftraggeber und der
 Allgemeinheit zum Inhalt. Ausübung eines Freien Berufs im Sinne dieses
 Gesetzes ist die selbständige Berufstätigkeit der Ärzte, Zahnärzte,
 Tierärzte, Heilpraktiker, Krankengymnasten, Hebammen, Heilmasseure,
-Diplom-Psychologen, Mitglieder der Rechtsanwaltskammern,
-Patentanwälte, Wirtschaftsprüfer, Steuerberater, beratenden Volks- und
-Betriebswirte, vereidigten Buchprüfer (vereidigte Buchrevisoren),
-Steuerbevollmächtigten, Ingenieure, Architekten, Handelschemiker,
-Lotsen, hauptberuflichen Sachverständigen, Journalisten,
-Bildberichterstatter, Dolmetscher, Übersetzer und ähnlicher Berufe
-sowie der Wissenschaftler, Künstler, Schriftsteller, Lehrer und
-Erzieher.
+Diplom-Psychologen, Rechtsanwälte, Patentanwälte, Wirtschaftsprüfer,
+Steuerberater, beratenden Volks- und Betriebswirte, vereidigten
+Buchprüfer (vereidigte Buchrevisoren), Steuerbevollmächtigten,
+Ingenieure, Architekten, Handelschemiker, Lotsen, hauptberuflichen
+Sachverständigen, Journalisten, Bildberichterstatter, Dolmetscher,
+Übersetzer und ähnlicher Berufe sowie der Wissenschaftler, Künstler,
+Schriftsteller, Lehrer und Erzieher.
 
 (3) Die Berufsausübung in der Partnerschaft kann in Vorschriften über
 einzelne Berufe ausgeschlossen oder von weiteren Voraussetzungen
@@ -110,7 +103,7 @@ nach § 8 Absatz 4 muss eine Versicherungsbescheinigung gemäß § 113
 Absatz 2 des Gesetzes über den Versicherungsvertrag beigefügt sein.
 
 
-## § 5 Inhalt der Eintragung, anzuwendende Vorschriften
+## § 5 Inhalt der Eintragung; anzuwendende Vorschriften
 
 (1) Die Eintragung hat die in § 3 Abs. 2 genannten Angaben, das
 Geburtsdatum jedes Partners und die Vertretungsmacht der Partner zu
@@ -149,15 +142,7 @@ Eintragung in das Partnerschaftsregister wirksam.
 125 Abs. 1 und 2 sowie der §§ 126 und 127 des Handelsgesetzbuchs
 entsprechend anzuwenden.
 
-(4) Die Partnerschaft kann als Prozess- oder Verfahrensbevollmächtigte
-beauftragt werden. Sie handelt durch ihre Partner und Vertreter, in
-deren Person die für die Erbringung rechtsbesorgender Leistungen
-gesetzlich vorgeschriebenen Voraussetzungen im Einzelfalle vorliegen
-müssen, und ist in gleichem Umfang wie diese postulationsfähig.
-Verteidiger im Sinne der §§ 137ff. der Strafprozessordnung ist nur die
-für die Partnerschaft handelnde Person.
-
-(5) Für die Angabe auf Geschäftsbriefen der Partnerschaft ist § 125a
+(4) Für die Angabe auf Geschäftsbriefen der Partnerschaft ist § 125a
 Absatz 1 Satz 1, Absatz 2 des Handelsgesetzbuchs mit der Maßgabe
 entsprechend anzuwenden, dass bei einer Partnerschaft mit beschränkter
 Berufshaftung auch der von dieser gewählte Namenszusatz im Sinne des §

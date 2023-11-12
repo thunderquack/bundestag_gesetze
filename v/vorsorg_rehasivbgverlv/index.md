@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1710
 
-Geändert durch
-:   Art. 7 G v. 22.11.2021 I 4906
+Zuletzt geändert durch
+:   Art. 1 V v. 8.4.2022 BAnz AT 11.04.2022 V1
 
 
 ## Eingangsformel
@@ -33,14 +33,14 @@ Absatz 5 Satz 6 durch Artikel 1 Nummer 2b Buchstabe b des Gesetzes vom
 
 ## § 1 Verlängerung der in § 111 Absatz 5 Satz 5 des Fünften Buches Sozialgesetzbuch genannten Frist
 
-Die in § 111 Absatz 5 Satz 5 genannte Frist wird bis zum 19. März 2022
-verlängert.
+Die in § 111 Absatz 5 Satz 5 genannte Frist wird bis zum Ablauf des
+30\. Juni 2022 verlängert.
 
 
 ## § 2 Verlängerung der in § 111c Absatz 3 Satz 5 des Fünften Buches Sozialgesetzbuch genannten Frist
 
 Die in § 111c Absatz 3 Satz 5 des Fünften Buches Sozialgesetzbuch
-genannte Frist wird bis zum 19. März 2022 verlängert.
+genannte Frist wird bis zum Ablauf des 30. Juni 2022 verlängert.
 
 
 ## § 3 Inkrafttreten

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2120
 
 Zuletzt geändert durch
-:   Art. 2 V v. 3.12.2020 I 2877
+:   Art. 1 V v. 17.7.2023 I Nr. 195
 
 
 ## Eingangsformel
@@ -33,12 +33,12 @@ Bundesministerium des Innern:
 ## § 1 Monatliche Sonderzahlung
 
 Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
-Dienstbezügen erhalten bis Dezember 2022 eine monatliche Sonderzahlung
-in Höhe von 4 Prozent der Dienstbezüge nach § 78 Absatz 1 des
-Bundesbesoldungsgesetzes. Beamtinnen und Beamte der Besoldungsgruppe A
-2 bis A 8 erhalten zusätzlich eine monatliche Sonderzahlung in Höhe
-von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1 des
-Bundesbesoldungsgesetzes gelten entsprechend.
+Dienstbezügen erhalten bis einschließlich Dezember 2024 eine
+monatliche Sonderzahlung in Höhe von 4 Prozent der Dienstbezüge nach §
+78 Absatz 1 des Bundesbesoldungsgesetzes. Beamtinnen und Beamte der
+Besoldungsgruppe A 2 bis A 8 erhalten zusätzlich eine monatliche
+Sonderzahlung in Höhe von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1
+des Bundesbesoldungsgesetzes gelten entsprechend.
 
 
 ## § 2 (weggefallen)

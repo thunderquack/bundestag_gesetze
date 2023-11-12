@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.12.1998 I 3497;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 11 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 9.7.2021 I 2444 (Nr. 42) ist berücksichtigt
-
-Änderung durch
-:   Art. 13 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 74 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 74 G v. 20.8.2021 I 3932
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -125,15 +110,15 @@ Gemeinschaftsunterkunft.
 1.  an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor
     Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember
     jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag
-    fallen, 5,57 Euro je Stunde,
+    fallen, 5,67 Euro je Stunde,
 
 
 2.
     a)  an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr
-        1,32 Euro je Stunde sowie
+        1,34 Euro je Stunde sowie
 
 
-    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,62 Euro je
+    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,67 Euro je
         Stunde.
 
 

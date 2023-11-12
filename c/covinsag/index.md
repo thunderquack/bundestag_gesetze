@@ -1,6 +1,6 @@
 ---
-Title: Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung
-  der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz
+Title: Gesetz zur vorübergehenden Anpassung sanierungs- und insolvenzrechtlicher Vorschriften
+  zur Abmilderung von Krisenfolgen
 jurabk: COVInsAG
 layout: default
 origslug: covinsag
@@ -8,7 +8,7 @@ slug: covinsag
 
 ---
 
-# Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz (COVInsAG)
+# Gesetz zur vorübergehenden Anpassung sanierungs- und insolvenzrechtlicher Vorschriften zur Abmilderung von Krisenfolgen (COVInsAG)
 
 Ausfertigungsdatum
 :   2020-03-27
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 569
 
 Zuletzt geändert durch
-:   Art. 1 G v. 15.2.2021 I 237
+:   Art. 9 G v. 31.10.2022 I 1966
 
 
 ## § 1 Aussetzung der Insolvenzantragspflicht
@@ -155,12 +155,12 @@ Gläubigerinsolvenzanträgen setzt die Eröffnung des Insolvenzverfahrens
 voraus, dass der Eröffnungsgrund bereits am 1. März 2020 vorlag.
 
 
-## § 4 Prognosezeitraum für die Überschuldungsprüfung
+## § 4 Prognose- und Planungszeiträume
 
-Abweichend von § 19 Absatz 2 Satz 1 der Insolvenzordnung ist zwischen
-dem 1. Januar 2021 und dem 31. Dezember 2021 anstelle des Zeitraums
-von zwölf Monaten ein Zeitraum von vier Monaten zugrunde zu legen,
-wenn die Überschuldung des Schuldners auf die COVID-19-Pandemie
+(1) Abweichend von § 19 Absatz 2 Satz 1 der Insolvenzordnung ist
+zwischen dem 1. Januar 2021 und dem 31. Dezember 2021 anstelle des
+Zeitraums von zwölf Monaten ein Zeitraum von vier Monaten zugrunde zu
+legen, wenn die Überschuldung des Schuldners auf die COVID-19-Pandemie
 zurückzuführen ist. Dies wird vermutet, wenn
 
 1.  der Schuldner am 31. Dezember 2019 nicht zahlungsunfähig war,
@@ -176,6 +176,36 @@ zurückzuführen ist. Dies wird vermutet, wenn
 
 
 
+
+(2) In dem Zeitraum vom 9. November 2022 bis einschließlich 31.
+Dezember 2023 tritt an die Stelle des in
+
+1.  § 19 Absatz 2 Satz 1 der Insolvenzordnung genannten Zeitraums von
+    zwölf Monaten,
+
+
+2.  § 270a Absatz 1 Nummer 1 der Insolvenzordnung genannten Zeitraums von
+    sechs Monaten und
+
+
+3.  § 50 Absatz 2 Nummer 2 des Unternehmensstabilisierungs- und
+    -restrukturierungsgesetzes genannten Zeitraums von sechs Monaten
+
+
+
+ein Zeitraum von vier Monaten. Satz 1 gilt auch, wenn vor dem 9.
+November 2022 eine Überschuldung nach § 19 Absatz 2 Satz 1 der
+Insolvenzordnung vorlag, es sei denn, dass der für eine rechtzeitige
+Antragstellung maßgebliche Zeitpunkt nach § 15a Absatz 1 Satz 1 und 2
+der Insolvenzordnung bereits verstrichen ist.
+
+
+## § 4a Höchstfrist für die Antragstellung bei Überschuldung
+
+In dem Zeitraum vom 9. November 2022 bis einschließlich 31. Dezember
+2023 tritt an die Stelle des in § 15a Absatz 1 Satz 2 der
+Insolvenzordnung genannten Zeitraums von sechs Wochen ein Zeitraum von
+acht Wochen.
 
 
 ## § 5 Anwendung des bisherigen Rechts

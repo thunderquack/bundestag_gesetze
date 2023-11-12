@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2739
 
 Zuletzt geändert durch
-:   Art. 78 G v. 10.8.2021 I 3436
+:   Art. 12 G v. 28.6.2023 I Nr. 172
 
 
 ## § 1 Einrichtung des Wettbewerbsregisters
@@ -90,15 +90,16 @@ Datenbank geführt.
         Gesetzes vom 21. Februar 2017 (BGBl. I S. 258) geändert worden ist,
 
 
-    d)  nach § 21 Absatz 1 und 2 des Mindestlohngesetzes vom 11. August 2014
-        (BGBl. I S. 1348), das zuletzt durch Artikel 6 Absatz 39 des Gesetzes
-        vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, oder
+    d)  nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 sowie Absatz 2 des
+        Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt
+        durch Artikel 6 Absatz 39 des Gesetzes vom 13. April 2017 (BGBl. I S.
+        872) geändert worden ist, oder
 
 
-    e)  nach § 23 Absatz 1 und 2 des Arbeitnehmer-
-        Entsendegesetzes                          vom 20. April 2009 (BGBl. I
-        S. 799), das zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13.
-        April 2017 (BGBl. I S. 872) geändert worden ist, oder
+    e)  nach § 23 Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des
+        Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das
+        zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017
+        (BGBl. I S. 872) geändert worden ist;
 
 
 
@@ -107,7 +108,14 @@ Datenbank geführt.
 3.  rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über
     Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über
     Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten
-    oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind.
+    oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
+
+
+4.  rechtskräftige Bußgeldentscheidungen, die wegen Ordnungswidrigkeiten
+    nach § 24 Absatz 1 des Lieferkettensorgfaltspflichtengesetzes vom 16.
+    Juli 2021 (BGBl. I S. 2959) ergangen sind, wenn ein Bußgeld von
+    wenigstens einhundertfünfundsiebzigtausend Euro festgesetzt worden
+    ist.
 
 
 
@@ -225,6 +233,15 @@ die Registerbehörde die übermittelten Daten im Wettbewerbsregister.
 
 (3) Die in dem Wettbewerbsregister gespeicherten Daten und die
 Verfahrensakten der Registerbehörde sind vertraulich.
+
+(4) Die Registerbehörde kann zur Überprüfung und Vervollständigung der
+in Absatz 1 Nummer 4 genannten Daten das Bundeszentralamt für Steuern
+um Übermittlung der gültigen Umsatzsteuer-Identifikationsnummer eines
+Unternehmens, das in das Wettbewerbsregister eingetragen ist oder
+eingetragen werden soll, ersuchen. In dem Ersuchen hat die
+Registerbehörde Name oder Firma sowie Rechtsform und Anschrift des
+betroffenen Unternehmens anzugeben. § 27a Absatz 2 Satz 2 des
+Umsatzsteuergesetzes bleibt unberührt.
 
 
 ## § 4 Mitteilungen
@@ -571,7 +588,7 @@ mündliche Verhandlung durchzuführen. § 65 Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen ist entsprechend anzuwenden.
 
 
-## § 12 Anwendungsbestimmungen; Verkündung von Rechtsverordnungen
+## § 12 Anwendungsbestimmungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -595,8 +612,4 @@ Möglichkeit zur Abfrage nach § 6 Absatz 1 und 2 bereits ab dem in Satz
 Satz 2 bezeichneten Vorschriften sind die landesrechtlichen
 Vorschriften über die Errichtung und den Betrieb eines dem § 1
 entsprechenden Registers weiter anzuwenden.
-
-(3) Rechtsverordnungen nach diesem Gesetz können abweichend von § 2
-Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
-Bundesanzeiger verkündet werden.
 

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 13 G v. 23.6.2021 I 1982
-
-Änderung durch
-:   Art. 6 Abs. 5 G v. 5.7.2021 I 2274 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 10.9.2021 I 4147 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 14.3.2023 I Nr. 71
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -1002,8 +996,8 @@ anzuwenden. Das Ordnungsgeldverfahren kann durchgeführt werden
 
 § 329 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-(2) Die Bundesnetzagentur übermittelt dem Betreiber des
-Bundesanzeigers einmal pro Kalenderjahr Name und Anschrift der ihr
+(2) Die Bundesnetzagentur übermittelt der das Unternehmensregister
+führenden Stelle einmal pro Kalenderjahr Name und Anschrift der ihr
 bekannt werdenden Unternehmen, die
 
 1.  nach § 6 Absatz 1 zur Offenlegung eines Jahresfinanzberichts
@@ -7362,10 +7356,10 @@ Plätze, Brücken und Tunnel sowie die öffentlichen Gewässer.
 
 (2) Der Bund überträgt die Nutzungsberechtigung nach Absatz 1 durch
 die Bundesnetzagentur auf Antrag an die Eigentümer oder Betreiber
-öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken dienen
-der Telekommunikationslinien. In dem Antrag nach Satz 1 ist das Gebiet
-zu bezeichnen, für das die Nutzungsberechtigung übertragen werden
-soll.
+öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken
+dienender              Telekommunikationslinien. In dem Antrag nach
+Satz 1 ist das Gebiet zu bezeichnen, für das die Nutzungsberechtigung
+übertragen werden soll.
 
 (3) Die Bundesnetzagentur überträgt die Nutzungsberechtigung, wenn der
 Antragsteller nachweislich fachkundig, zuverlässig und leistungsfähig

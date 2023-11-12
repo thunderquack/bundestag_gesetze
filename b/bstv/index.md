@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2293, 2766
 
+Geändert durch
+:   Art. 10 G v. 28.6.2023 I Nr. 172
+
 
 ## Eingangsformel
 
@@ -27,7 +30,7 @@ Bundesministerium für Arbeit und Soziales:
 
 ## § 1 Antragsverfahren
 
-(1) Die Gewährung einer Leistung aufgrund des Anspruchs nach § 23a des
+(1) Die Gewährung einer Leistung aufgrund des Anspruchs nach § 31 des
 Arbeitnehmer-Entsendegesetzes soll durch den Deutschen
 Gewerkschaftsbund beim Bundesministerium für Arbeit und Soziales bis
 zum 31. August des Jahres vor dem Leistungszeitraum beantragt werden.
@@ -84,7 +87,7 @@ werden.
     Gewerkschaftsbunds,
 
 
-2.  die Bezeichnung des Leistungszwecks entsprechend § 23a Absatz 1 des
+2.  die Bezeichnung des Leistungszwecks entsprechend § 31 Absatz 1 des
     Arbeitnehmer-Entsendegesetzes,
 
 
@@ -176,7 +179,7 @@ widerrufen.
 
 ## § 4 Kontrolle der Mittelverwendung
 
-(1) Der Ergebnisbericht nach § 23a Absatz 6 Satz 2 des Arbeitnehmer-
+(1) Der Ergebnisbericht nach § 31 Absatz 6 Satz 2 des Arbeitnehmer-
 Entsendegesetzes besteht aus einem Sachbericht und einem zahlenmäßigen
 Nachweis der Einnahmen und Ausgaben. In dem Sachbericht sind die
 Verwendung der Leistung sowie die erzielten Ergebnisse im Einzelnen
@@ -203,7 +206,7 @@ Vorschriften, die eine längere Aufbewahrungsfrist bestimmen, bleiben
 von Satz 1 unberührt.
 
 (3) Der Deutsche Gewerkschaftsbund hat für die Stichprobenprüfungen
-nach § 23a Absatz 6 Satz 1 des Arbeitnehmer-Entsendegesetzes die
+nach § 31 Absatz 6 Satz 1 des Arbeitnehmer-Entsendegesetzes die
 erforderlichen Unterlagen bereitzuhalten und Auskünfte zu erteilen.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann Dritte mit der

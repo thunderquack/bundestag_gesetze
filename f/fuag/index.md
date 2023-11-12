@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1947
 
-Änderung durch
-:   Art. 52 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 52 G v. 23.6.2021 I 1858
 
 [^F798863_01_BJNR194710017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/53/EU des
     Europäischen Parlaments und des Rates vom 16. April 2014 über die

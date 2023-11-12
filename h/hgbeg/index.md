@@ -16,25 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.8.2020 I 1874
-
-Änderung durch
-:   Art. 7 Abs. 27 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 11 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 52 G v. 10.8.2021 I 3436 (Nr. 53)textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 19.6.2023 I Nr. 154
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -66,21 +48,8 @@ oder in diesem Gesetz ein anderes bestimmt ist.
 -
 
 
-### Art 4
+### Art 4 (weggefallen)
 
-(1) Die nach dem bürgerlichen Recht mit einer Eintragung in das
-Güterrechtsregister verbundenen Wirkungen treten, sofern ein Ehegatte
-Kaufmann ist und seine Handelsniederlassung sich nicht in dem Bezirk
-eines für den gewöhnlichen Aufenthalt auch nur eines der Ehegatten
-zuständigen Registergerichts befindet, in Ansehung der auf den Betrieb
-des Handelsgewerbes sich beziehenden Rechtsverhältnisse nur ein, wenn
-die Eintragung auch in das Güterrechtsregister des für den Ort der
-Handelsniederlassung zuständigen Gerichts erfolgt ist. Bei mehreren
-Niederlassungen genügt die Eintragung in das Register des Ortes der
-Hauptniederlassung.
-
-(2) Wird die Niederlassung verlegt, so finden die Vorschriften des §
-1559 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### Art 5
@@ -2198,4 +2167,61 @@ sind erstmals auf Lage- und Konzernlageberichte sowie Erklärungen zur
 Unternehmensführung nach § 289f Absatz 4 Satz 3 des Handelsgesetzbuchs
 für das nach dem 31. Dezember 2020 beginnende Geschäftsjahr
 anzuwenden.
+
+
+## Neunundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+
+
+
+### Art 88
+
+(1) § 9c Absatz 1 bis 5 des Handelsgesetzbuchs in der ab dem 1. August
+2022 geltenden Fassung ist erst ab dem 1. August 2023 anzuwenden.
+
+(2) § 8b Absatz 2 Nummer 4, 9 und 13, Absatz 3 Satz 1, Absatz 4, § 9
+Absatz 6 Satz 3 sowie die §§ 264, 325, 325a, 326, 327, 328, 329, 339,
+340l, 340o, 341l und 341w des Handelsgesetzbuchs in der ab dem 1.
+August 2022 geltenden Fassung sind erstmals auf
+Rechnungslegungsunterlagen sowie Unternehmensberichte für das nach dem
+31\. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1
+bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022
+geltenden Fassung sind letztmals anzuwenden auf
+Rechnungslegungsunterlagen sowie Unternehmensberichte für das vor dem
+1\. Januar 2022 beginnende Geschäftsjahr.
+
+
+## Einundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+
+
+### Art 90
+
+(1) § 271 Absatz 2, die §§ 325a, 334 Absatz 1 und 3b, § 335 Absatz 1
+und 1b, § 340n Absatz 3b sowie die §§ 340o, 341n Absatz 3b und § 341o
+des Handelsgesetzbuchs in der jeweils ab dem 22. Juni 2023 geltenden
+Fassung sind erstmals auf Rechnungslegungsunterlagen für ein nach dem
+31\. Dezember 2023 beginnendes Geschäftsjahr anzuwenden. Die
+Vorschriften des Vierten Unterabschnitts des Dritten Buchs des
+Handelsgesetzbuchs in der jeweils ab dem 22. Juni 2023 geltenden
+Fassung sind erstmals auf Ertragsteuerinformationsberichte sowie auf
+Erklärungen nach § 342d Absatz 2 Nummer 1, § 342e Absatz 2 Nummer 1
+und § 342f Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem
+21\. Juni 2024 beginnendes Geschäftsjahr anzuwenden. § 317 Absatz 3b
+und § 322 Absatz 1 des Handelsgesetzbuchs in der jeweils ab dem 22.
+Juni 2023 geltenden Fassung sind erstmals anzuwenden auf gesetzliche
+Abschlussprüfungen für das Geschäftsjahr, das dem Geschäftsjahr nach
+Satz 2 folgt. § 335 Absatz 2 Satz 1 und Absatz 5 Satz 8 sowie § 335a
+Absatz 3 Satz 4 des Handelsgesetzbuchs in der jeweils ab dem 22. Juni
+2023 geltenden Fassung sind erstmals anzuwenden auf Wiedereinsetzungen
+in den vorigen Stand, die am 22. Juni 2023 gewährt werden.
+
+(2) § 271 Absatz 2, die §§ 325a, 334 Absatz 1 und 3b, § 335 Absatz 1
+und 1b, § 340n Absatz 3b, die §§ 340o, 341n Absatz 3b und § 341o des
+Handelsgesetzbuchs in der bis einschließlich 21. Juni 2023 geltenden
+Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen für
+das vor dem 1. Januar 2024 beginnende Geschäftsjahr. § 335 Absatz 2
+Satz 1 und Absatz 5 Satz 8 sowie § 335a Absatz 3 Satz 4 des
+Handelsgesetzbuchs in der bis einschließlich 21. Juni 2023 geltenden
+Fassung sind letztmals anzuwenden auf Wiedereinsetzungen in den
+vorigen Stand, die vor dem 22. Juni 2023 gewährt werden.
 

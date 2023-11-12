@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1168
 
+Geändert durch
+:   Art. 3 V v. 21.2.2023 I Nr. 49
+
 Stand: Ersetzt V 9510-31 v. 20.7.2012 I 1642 (BSHGebV)
 
 ## Eingangsformel
@@ -150,7 +153,8 @@ September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2018, 1170 - 1177)
+(Fundstelle: BGBl. I 2018, 1170 - 1177;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Laufende
@@ -307,6 +311,13 @@ September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
         Seeleute-Befähigungsverordnung
 
     *   54
+
+
+*    *   2007
+
+    *   Gleichwertigkeitsbescheinigung nach § 9 Absatz 5 Seelotsgesetz
+
+    *   137 bis 1 099
 
 
 *    *
@@ -996,7 +1007,8 @@ September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
 
 *    *   7001
 
-    *   Ausstellung von Haftungsbescheinigungen je Bescheinigung
+    *   Ausstellung von Haftungs- und Pflichtversicherungsbescheinigungen je
+        Bescheinigung
 
     *   118
 
@@ -1205,7 +1217,7 @@ September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
 
     *   1 200 bis 2 500
         (Leistungen externer
-        Prüflabore,
+        Prüflabore                     ,
         Sachverständiger,
         Gutachter und Kosten
         für die Beschaffung

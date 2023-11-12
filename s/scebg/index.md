@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1911, 1917
 
 Zuletzt geändert durch
-:   Art. 9 G v. 10.12.2021 I 5162
+:   Art. 6h G v. 16.9.2022 I 1454
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2003/72/EG des
 Rates vom 22. Juli 2003 zur Ergänzung des Statuts der Europäischen
@@ -1630,14 +1630,10 @@ weiterhin wahrnehmen können.
 
 ### § 50 Sonderregelung aus Anlass der COVID-19-Pandemie
 
-(1) Bis zum Ablauf des 19. März 2022 können im Rahmen der
-Unterrichtung und Anhörung die Teilnahme an Sitzungen eines SCE-
-Betriebsrats oder einer Arbeitnehmervertretung nach § 21 Absatz 2
-sowie die Beschlussfassung auch mittels Video- und Telefonkonferenz
-erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung
-keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
-
-(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
-drei Monate verlängern.
+Bis zum Ablauf des 7. April 2023 können im Rahmen der Unterrichtung
+und Anhörung die Teilnahme an Sitzungen eines SCE-Betriebsrats oder
+einer Arbeitnehmervertretung nach § 21 Absatz 2 sowie die
+Beschlussfassung auch mittels Video- und Telefonkonferenz erfolgen,
+wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine
+Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
 

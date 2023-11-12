@@ -415,7 +415,7 @@ Inhaltsverzeichnis
 
 
 
-1.  **Berechnungsverfahren**
+**1.** **Berechnungsverfahren**
 
     Für Schienenwege wird der Beurteilungspegel
     L
@@ -484,7 +484,7 @@ Inhaltsverzeichnis
     Qualitätsanforderungen und Prüfbestimmungen, Ausgabe Mai 2006.
 
 
-2.  **Begriffe, Festlegungen**
+**2.** **Begriffe, Festlegungen**
 
     **2.1** **Bahntechnische Begriffe**
 
@@ -1932,7 +1932,7 @@ Inhaltsverzeichnis
 
 
 
-3.  **Modellierung der Schallquellen**
+**3.** **Modellierung der Schallquellen**
 
     **3.1** **Aufteilung in Abschnitte gleichmäßiger Schallemission**
 
@@ -2436,7 +2436,7 @@ Inhaltsverzeichnis
 
 
 
-4.  Schallemissionen von Eisenbahnen ****
+**4.** Schallemissionen von Eisenbahnen ****
 
     **4.1** **Fahrzeugarten**
 
@@ -2595,6 +2595,7 @@ Inhaltsverzeichnis
         Zusammensetzung und die Anzahl von Fahrzeugeinheiten von Zügen können,
         sofern diese für die Berechnung nicht vorgegeben werden, der Tabelle 4
         entnommen werden.
+
 
         **Tabelle 4: Verkehrsdaten für Eisenbahnen**
 
@@ -3050,6 +3051,7 @@ Inhaltsverzeichnis
         vier Schallquellenarten in den zugehörigen Höhenbereichen
         berücksichtigt.
 
+
         **Tabelle 5: Schallquellenarten an Fahrzeugen für Eisenbahnen**
 
         *            *   Spalte
@@ -3247,6 +3249,7 @@ Inhaltsverzeichnis
         Geschwindigkeitsfaktor
         b                          nach Tabelle 6 berücksichtigt.
 
+
         **Tabelle 6: Geschwindigkeitsfaktor**
         b **für Eisenbahnen**
 
@@ -3375,6 +3378,7 @@ Inhaltsverzeichnis
         Schwellengleise (siehe Nummer 2.1.8). Für andere Fahrbahnarten sind
         nach der Gleichung (Gl. 1) Pegelkorrekturen nach Tabelle 7
         vorzunehmen.
+
 
         **Tabelle 7: Pegelkorrekturen**
         c                         1 **für Fahrbahnarten**
@@ -3600,6 +3604,7 @@ Inhaltsverzeichnis
         überwachtes Gleis (büG)“ und für Maßnahmen an den Schienenstegen sind
         nach der Gleichung (Gl. 1) Pegelkorrekturen nach Tabelle 8
         vorzunehmen.
+
 
         **Tabelle 8:** **Pegelkorrekturen**
         c                         2 **für Fahrflächenzustand „besonders
@@ -3832,6 +3837,7 @@ Inhaltsverzeichnis
         LM                          = 0 dB anzusetzen. Korrekturen für
         Fahrbahnarten nach Tabelle 7 Zeile 1 bis 4 sind nicht anzusetzen.
 
+
         **Tabelle 9: Korrekturen**
         K
         Br **und**
@@ -3959,6 +3965,7 @@ Inhaltsverzeichnis
 
         Zur Berechnung der Schallemissionen von Rangier- und Umschlagbahnhöfen
         werden die in Tabelle 10 aufgeführten Schallquellen berücksichtigt.
+
 
         **Tabelle 10: Schallquellen in Rangier- und Umschlagbahnhöfen**
 
@@ -4348,12 +4355,13 @@ Inhaltsverzeichnis
 
 
 
-5.  **Schallemissionen von Straßenbahnen**
+**5.** **Schallemissionen von Straßenbahnen**
 
     **5.1** **Fahrzeugarten**
 
         Zur Berechnung der Schallemission wird von Fahrzeugarten nach Tabelle
         12 ausgegangen.
+
 
         **Tabelle 12:** **Fahrzeugarten, Fahrzeug-Kategorien**
         Fz **und Bezugsanzahl der Achsen für Straßenbahnen**
@@ -4459,6 +4467,7 @@ Inhaltsverzeichnis
 
         Bei der Berechnung der Schallemission sind die in Tabelle 13
         aufgeführten Schallquellenarten und Höhenbereiche anzusetzen.
+
 
         **Tabelle 13: Schallquellenarten bei Straßenbahnen**
 
@@ -4568,6 +4577,7 @@ Inhaltsverzeichnis
             abweichender Geschwindigkeiten wird in der Gleichung (Gl. 1) durch den
             Geschwindigkeitsfaktor
             b                                nach Tabelle 14 berücksichtigt.
+
 
             **Tabelle 14: Geschwindigkeitsfaktor für Straßenbahnen**
 
@@ -4757,6 +4767,7 @@ Inhaltsverzeichnis
         Anmerkung: Schwellengleise im Schotterbett schließen Beton-, Holz- und
         Stahlschwellen ein.
 
+
         **Tabelle 15:** **Pegelkorrekturen**
         c                         1 **für andere Fahrbahnarten im Vergleich
         zum Schwellengleis im Schotterbett**
@@ -4912,6 +4923,7 @@ Inhaltsverzeichnis
         K                          = 0 anzusetzen. Korrekturen für
         Fahrbahnarten nach Tabelle 15 Zeile 1 bis 3 sind nicht anzusetzen.
 
+
         **Tabelle 16: Korrekturen**
         K
         Br **und**
@@ -5024,7 +5036,7 @@ Inhaltsverzeichnis
 
 
 
-6.  Schallausbreitung ****
+**6.** Schallausbreitung ****
 
     **6.1** **Einflussgrößen auf den Ausbreitungswegen**
 
@@ -5141,6 +5153,7 @@ Inhaltsverzeichnis
 
         Als Standardwerte sind die Absorptionskoeffizienten nach Tabelle 17
         anzusetzen.
+
 
         **Tabelle 17: Absorptionskoeffizienten der Luft für Oktavbänder**
 
@@ -5649,6 +5662,7 @@ Inhaltsverzeichnis
         Die Frequenzabhängigkeit von Absorptionsverlust und Richtwirkungsmaß
         bleibt in dieser Anlage unberücksichtigt.
 
+
         **Tabelle 18: Absorptionsverlust an Wänden**
 
         *            *   Spalte
@@ -5714,7 +5728,7 @@ Inhaltsverzeichnis
 
 
 
-7.  **Berechnung der Schallimmission**
+**7.** **Berechnung der Schallimmission**
 
     Die Schallimmission an einem Immissionsort wird als äquivalenter
     Dauerschalldruckpegel
@@ -5901,7 +5915,7 @@ Inhaltsverzeichnis
 
 
 
-8.  Beurteilungspegel ****
+**8.** Beurteilungspegel ****
 
     **8.1** **Äquivalenter Dauerschalldruckpegel in Beurteilungszeiträumen**
 
@@ -6140,7 +6154,7 @@ Inhaltsverzeichnis
 
 
 
-9.  Berücksichtigung von abweichender Bahntechnik und von
+**9.** Berücksichtigung von abweichender Bahntechnik und von
     schalltechnischen Innovationen ****
 
     **9.1** **Messtechnische Ermittlung der Emissionsdaten von abweichender
@@ -6318,6 +6332,7 @@ Inhaltsverzeichnis
             36 und 44 gelten als Näherungen für Abstände
             d                                von 5 bis 10 m.
 
+
             **Tabelle 19: Abschätzung der schienenrauheitsbedingten Emission
             (Teilquelle**
             m **= 1)**
@@ -6426,6 +6441,7 @@ Inhaltsverzeichnis
 
             Anmerkung 7: Die Zuschläge wurden aus Erfahrungswerten zur Streuung
             von Messergebnissen in einer Datenbank abgeschätzt.
+
 
             **Tabelle 20:** **Zuschläge zur Umrechnung auf den durchschnittlichen
             Betriebszustand in Abhängigkeit von den Messbedingungen**
@@ -6756,7 +6772,7 @@ Inhaltsverzeichnis
 
 
 
-10. Zugänglichkeit von technischen Regeln und Normen ****
+**10.** Zugänglichkeit von technischen Regeln und Normen ****
 
     1.  Die in der Verordnung genannten DIN-Normen, DIN-EN-Normen und DIN-ISO-
         Normen sind bei der Beuth Verlag GmbH, Berlin, zu beziehen und in der

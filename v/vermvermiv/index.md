@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1435
 
-Änderung durch
-:   Art. 2 V v. 18.8.2021 I 3917 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 18.8.2021 I 3917
 
 
 ## Eingangsformel

@@ -123,7 +123,7 @@ und Helfer in Steuersachen in Kraft.
 
 ##### § 42
 
--
+(Änderungsvorschrift)
 
 
 #### Zweiter Unterabschnitt - Übergangsvorschriften

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2330
 
 Zuletzt geändert durch
-:   Art. 107 G v. 20.11.2019 I 1626
+:   Art. 2 Abs. 25 G v. 20.12.2022 I 2752
 
 
 ## Eingangsformel
@@ -206,11 +206,8 @@ nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
 
 
-## § 4 Verkündung von Rechtsverordnungen
+## § 4 (weggefallen)
 
-Die Rechtsverordnungen nach diesem Gesetz können abweichend von § 2
-Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
-Bundesanzeiger verkündet werden.
 
 
 ## § 5 Inkrafttreten

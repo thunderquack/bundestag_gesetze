@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1651
 
+Geändert durch
+:   Art. 5a G v. 19.7.2022 I 1214
+
 [^F799008_01_BJNR165100017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
@@ -62,7 +65,7 @@ Netzbetreiber im Rahmen des Betriebserlaubnisverfahrens nach Artikel
 technischen Mindestanforderungen nach § 19 des
 Energiewirtschaftsgesetzes eingehalten werden.
 
-[^F799008_02_BJNR165100017BJNE000300000]
+[^F799008_02_BJNR165100017BJNE000301126]
 (2) Das Nachweisdokument für Erzeugungsanlagen der Typen B und C im
 Sinne der Verordnung (EU) 2016/631 ist von einer Zertifizierungsstelle
 gemäß DIN EN ISO/IEC 17065, Ausgabe Januar 2013
@@ -74,7 +77,54 @@ Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
 Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
 30) in der jeweils geltenden Fassung akkreditiert worden sein.
 
-[^F799008_03_BJNR165100017BJNE000300000]
+(2a) Das Nachweisdokument für Erzeugungsanlagen der Typen B und C im
+Sinne der Verordnung (EU) 2016/631 besteht mindestens aus einem
+Anlagenzertifikat und einer Konformitätserklärung. Die Vorlage eines
+von einer Zertifizierungsstelle nach Absatz 2 ausgestellten
+Anlagenzertifikats für Erzeugungsanlagen des Typs B gegenüber dem
+zuständigen Netzbetreiber berechtigt den Betreiber der
+Erzeugungsanlage zur vorläufigen Inbetriebnahme der Anlage nach
+Maßgabe des Absatzes 2b. Die Regelungen für Prototypen in den
+technischen Regeln des in § 49 Absatz 2 Satz 1 Nummer 1 des
+Energiewirtschaftsgesetzes bezeichneten Verbandes bleiben unberührt.
+
+(2b) Hat der Betreiber der Erzeugungsanlage eine Zertifizierungsstelle
+zum Zwecke der Inbetriebnahme einer Erzeugungsanlage des Typs B mit
+einer maximalen Wirkleistung von bis zu 950 Kilowatt beauftragt, muss
+diese Zertifizierungsstelle auf Verlangen des Anlagenbetreibers das
+Anlagenzertifikat unter der Auflage ausstellen, dass der Betreiber der
+Anlage innerhalb von 18 Monaten ab Inbetriebsetzung der ersten
+Erzeugungseinheit nach Ausstellung des Anlagenzertifikats die
+erforderlichen Nachweise vollständig im Sinne des Absatzes 1
+einreicht. Das Anlagenzertifikat unter der Auflage nach Satz 1 darf
+bis einschließlich 31. Dezember 2025 ausgestellt werden und nur, wenn
+zum Zeitpunkt der Ausstellung entsprechend den allgemeinen technischen
+Mindestanforderungen nach § 19 Absatz 4 des Energiewirtschaftsgesetzes
+folgende Anforderungen nachgewiesen sind:
+
+1.  gültige Einheitenzertifikate der zertifizierungspflichtigen
+    Erzeugungseinheiten,
+
+
+2.  die mit dem Netzbetreiber vereinbarten Leistungsangaben der Anschluss-
+    Scheinleistung, der Wirkleistung jeweils für Einspeisung und Bezug
+    sowie der installierten Wirkleistung,
+
+
+3.  das Schutzkonzept, bestehend aus übergeordnetem Entkupplungsschutz,
+    Entkupplungsschutz der Erzeugungseinheit, Eigenschutz der
+    Erzeugungseinheit, und die Erfüllung der Vorgaben des Netzbetreibers
+    und
+
+
+4.  das Konzept zur Wirkleistungssteuerung des Netzsicherheitsmanagements
+    und zur Blindleistungsregelung sowie deren Eignung zur Umsetzung der
+    Vorgaben des Netzbetreibers.
+
+
+
+
+[^F799008_03_BJNR165100017BJNE000301126]
 (3) Die Überprüfung von Simulationsmodellen für das Verhalten von
 Erzeugungsanlagen der Typen C und D im Sinne der Verordnung (EU)
 2016/631 gemäß Artikel 15 Absatz 6 Buchstabe c und Artikel 16 Absatz 1
@@ -90,9 +140,9 @@ ist Absatz 2 nicht anzuwenden.
 
     Zu beziehen bei der Beuth Verlag GmbH, Berlin und beim Deutschen
     Patent- und Markenamt archivmäßig gesichert niedergelegt.
-[^F799008_02_BJNR165100017BJNE000300000]:     Zu beziehen bei der Beuth Verlag GmbH, Berlin und beim Deutschen
+[^F799008_02_BJNR165100017BJNE000301126]:     Zu beziehen bei der Beuth Verlag GmbH, Berlin und beim Deutschen
     Patent- und Markenamt archivmäßig gesichert niedergelegt.
-[^F799008_03_BJNR165100017BJNE000300000]: 
+[^F799008_03_BJNR165100017BJNE000301126]: 
 
 ## § 3 Allgemein anerkannte Regeln der Technik
 
@@ -122,11 +172,92 @@ Fassung akkreditiert worden sind.
 
 ## § 4 Rechtsfolgen bei Nichterfüllung
 
-Betreiber von Elektrizitätsversorgungsnetzen müssen eine endgültige
+(1) Der zuständige Netzbetreiber muss eine endgültige
 Betriebserlaubnis nach Artikel 32 Absatz 3 oder nach Artikel 36 der
-Verordnung (EU) 2016/631 verweigern, soweit der anschlussbegehrende
+Verordnung (EU) 2016/631 verweigern, sofern der anschlussbegehrende
 Betreiber einer Erzeugungsanlage Pflichten nach § 2 oder nach § 3
 nicht einhält.
+
+(2) Der zuständige Netzbetreiber muss eine in Betrieb genommene
+Erzeugungsanlage vom Elektrizitätsversorgungsnetz trennen oder deren
+Einspeisung durch andere Maßnahmen unterbinden, sofern diese
+Erzeugungsanlage
+
+1.  entgegen den Pflichten nach § 2 oder nach § 3 in Betrieb genommen
+    wurde oder die Auflage nach § 2 Absatz 2b nicht erfüllt hat und
+
+
+2.  nicht nachweislich durch ihren Betreiber abgeschaltet wurde.
+
+
+
+Der Netzbetreiber hat den Betreiber der Erzeugungsanlage spätestens
+zwei Monate vor Ablauf der Frist nach § 2 Absatz 2b Satz 1 in Textform
+auf den bevorstehenden Fristablauf und die Rechtsfolgen hinzuweisen.
+
+(3) Bei Trennung der Verbindung einer Erzeugungsanlage vom Netz ist
+eine Wiederzuschaltung durch den Anlagenbetreiber zu verhindern. Dies
+wird in der Regel dadurch bewirkt, dass bei ausschließlich manuell zu
+bedienenden Schalteinrichtungen die Anlage vom Netzanschluss in einem
+plombierten Bereich dauerhaft getrennt wird oder durch Rückbau
+wesentlicher Teile der Erzeugungsanlage.
+
+(4) Soweit dies für die Trennung der Erzeugungsanlage vom
+Elektrizitätsversorgungsnetz erforderlich ist, darf der zuständige
+Netzbetreiber durch seine Mitarbeiter sowie durch die von ihm
+beauftragten Personen
+
+1.  die Räume und Grundstücke, in oder auf denen sich die Erzeugungsanlage
+    befindet, während der üblichen Geschäftszeiten betreten, wobei der
+    Betreiber der Erzeugungsanlage, bei juristischen Personen,
+    rechtsfähigen Personengesellschaften und nichtrechtsfähigen Vereinen
+    die nach Gesetz oder Satzung zur Vertretung berufenen Personen,
+    verpflichtet ist oder sind, das Betreten von Geschäftsräumen und
+    Geschäftsgrundstücken während der üblichen Geschäftszeiten zu dulden,
+    und
+
+
+2.  die Erzeugungsanlage und, soweit erforderlich, die Kundenanlage oder
+    die Kundenanlage zur betrieblichen Eigenversorgung hinter der
+    Anschlusssicherung ändern, wobei
+
+    a)  die berechtigten Interessen des Anlagenbetreibers und des
+        Anschlussnehmers zu beachten sind,
+
+
+    b)  durch die Änderung der Leitungs- und Messaufbau in der Kundenanlage
+        nicht verändert werden darf und
+
+
+    c)  der Betreiber der Erzeugungsanlage, bei juristischen Personen,
+        rechtsfähigen Personengesellschaften und nichtrechtsfähigen Vereinen
+        die nach Gesetz oder Satzung zur Vertretung berufenen Personen,
+        verpflichtet ist oder sind, die Änderung zu dulden.
+
+
+
+
+
+
+Die Mitarbeiter und beauftragten Personen müssen sich gegenüber dem
+Betreiber der Erzeugungsanlage durch Vorlage eines Auftrags des
+zuständigen Netzbetreibers in Textform sowie ihres Personalausweises
+legitimieren.
+
+(5) Der Betreiber der Erzeugungsanlage hat dem zuständigen
+Netzbetreiber die Kosten der Netztrennung und der etwaigen
+Wiederherstellung des Anschlusses zu erstatten.
+
+(6) Der Betreiber der Erzeugungsanlage hat dafür Sorge zu tragen, dass
+die Erzeugungsanlage für die Trennung der Erzeugungsanlage vom
+Elektrizitätsversorgungsnetz nach Absatz 2 zugänglich ist und dem
+zuständigen Netzbetreiber auf Anforderung alle für die Netztrennung
+erforderlichen Informationen zur Verfügung zu stellen.
+
+(7) Eine Erzeugungsanlage, die nach Absatz 2 vom
+Elektrizitätsversorgungsnetz getrennt wurde, kann wieder in Betrieb
+genommen werden, sobald der Betreiber der Erzeugungsanlage die
+Anforderungen nach § 2 Absatz 1 vollständig nachgewiesen hat.
 
 
 ## § 5 Übergangsregelungen

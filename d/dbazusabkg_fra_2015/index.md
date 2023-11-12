@@ -25,7 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Artikel 1
+## Art 1
 
 Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen
 der Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -41,7 +41,7 @@ sowie der Gewerbesteuern und der Grundsteuern (BGBl. 1961 II S. 397,
 veröffentlicht.
 
 
-## Artikel 2
+## Art 2
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß
 Artikel 13 a des geänderten Abkommens ist das Bundeszentralamt für
@@ -104,7 +104,7 @@ erhobene Lohnsteuer nachträglich einzubehalten; § 41c des
 Einkommensteuergesetzes gilt entsprechend.
 
 
-## Artikel 3
+## Art 3
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß
 Artikel 13 c Absatz 1 und 2 des geänderten Abkommens und des
@@ -157,7 +157,7 @@ Sie erfolgt erstmals für den Veranlagungszeitraum der erstmaligen
 Anwendung des Zusatzabkommens.
 
 
-## Artikel 4
+## Art 4
 
 (1) Einnahmen, die durch Ausgleichsansprüche gemäß Artikel 13 a des
 geänderten Abkommens gegenüber Frankreich begründet sind, fließen der
@@ -204,7 +204,7 @@ oder Erstattungen wird auf die Länder wie folgt verteilt:
 
 
 
-## Artikel 5
+## Art 5
 
 Das Bundesministerium der Finanzen kann das Abkommen vom 21. Juli 1959
 zwischen der Bundesrepublik Deutschland und der Französischen Republik
@@ -214,7 +214,7 @@ sowie der Gewerbesteuern und der Grundsteuern in der durch das
 Zusatzabkommen vom 31. März 2015 geänderten Fassung bekannt machen.
 
 
-## Artikel 6
+## Art 6
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

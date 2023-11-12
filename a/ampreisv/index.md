@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 2147
 
 Zuletzt geändert durch
-:   Art. 6 G v. 9.12.2020 I 2870
+:   Art. 5 G v. 19.7.2023 I Nr. 197
 
 
 ## Eingangsformel
@@ -126,15 +126,15 @@ verschreibungspflichtigen Arzneimitteln.
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch den Großhandel an Apotheken oder
 Tierärzte sind auf den Abgabepreis des pharmazeutischen Unternehmers
-ein Festzuschlag von 70 Cent sowie die Umsatzsteuer zu erheben;
+ein Festzuschlag von 73 Cent sowie die Umsatzsteuer zu erheben;
 zusätzlich darf auf den Abgabepreis des pharmazeutischen Unternehmers
 ohne die Umsatzsteuer höchstens ein Zuschlag von 3,15 Prozent,
 höchstens jedoch 37,80 Euro erhoben werden. Bei der Abgabe von
 Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch
 den Großhandel an Apotheken oder Tierärzte dürfen auf den Abgabepreis
 des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens
-Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben
-werden.Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag
+Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben werden.
+Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag
 zugrunde zu legen, zu dem der pharmazeutische Unternehmer das
 Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des
 Arzneimittelgesetzes abgibt.
@@ -312,6 +312,11 @@ die zur Anwendung bei Tieren bestimmt sind, durch die Apotheken dürfen
 zur Berechnung des Apothekenabgabepreises höchstens Zuschläge nach
 Absatz 3 oder 4 sowie die Umsatzsteuer erhoben werden.
 
+(1a) Im Fall eines Austauschs eines verordneten Arzneimittels nach §
+129 Absatz 2a des Fünften Buches Sozialgesetzbuch durch die Apotheke
+ist ein Zuschlag in Höhe von 50 Cent zuzüglich Umsatzsteuer zu
+erheben.
+
 (2) Der Festzuschlag ist zu erheben
 
 1.  auf den Betrag, der sich aus der Zusammenrechnung des bei Belieferung
@@ -432,7 +437,10 @@ Absatz 3 oder 4 sowie die Umsatzsteuer erhoben werden.
 (5) Sofern die abzugebende Menge nicht in der Verschreibung
 vorgeschrieben oder gesetzlich bestimmt ist, haben die Apotheken,
 soweit mit den Kostenträgern nichts anderes vereinbart ist, die
-kleinste im Verkehr befindliche Packung zu berechnen.
+kleinste im Verkehr befindliche Packung zu berechnen. Satz 1 gilt auch
+in dem Fall, dass statt der verschriebenen Packungsgröße die
+verschriebene Menge des Arzneimittels als Teilmenge aus einer Packung
+abgegeben wird, die größer ist als die verschriebene Packungsgröße.
 
 (6) Für die erneute Abgabe der an eine Apotheke zurückgegebenen
 verschreibungspflichtigen Fertigarzneimittel durch die Apotheke

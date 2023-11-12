@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1499
 
 Zuletzt geändert durch
-:   Art. 1 V v. 31.5.2021 I 1253
+:   Art. 3 V v. 30.8.2023 I Nr. 233
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -1038,6 +1038,18 @@ Beschäftigung nach Absatz 1 oder 2 besitzen, findet § 9 keine
 Anwendung.
 
 
+### § 24b Windenergieanlagen auf See und Offshore-Anbindungsleitungen
+
+Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
+Ausländerinnen und Ausländer, die im deutschen Küstenmeer beschäftigt
+werden, um Tätigkeiten zur Errichtung und Instandsetzung von
+Windenergieanlagen auf See und Offshore-Anbindungsleitungen
+durchzuführen, einschließlich der Be- und Entladearbeiten im Hafen und
+der sonstigen Tätigkeiten von übrigen Mitgliedern der Besatzung der
+dazu eingesetzten Schiffe. Die Befreiung von der Zustimmung umfasst
+einen Zeitraum von bis zu 24 Monaten. § 9 findet keine Anwendung.
+
+
 ### § 25 Kultur und Unterhaltung
 
 Die Zustimmung kann mit Vorrangprüfung für Personen erteilt werden,
@@ -1157,8 +1169,8 @@ Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
 
 2.  Tätigkeiten nach den §§ 5, 14, 15, 17, 18, 19 Absatz 1 sowie den §§
-    20, 22 und 23, die bis zu 90 Tage innerhalb eines Zeitraums von zwölf
-    Monaten ausgeübt werden,
+    20, 22, 23 und 24b, die bis zu 90 Tage innerhalb eines Zeitraums von
+    zwölf Monaten ausgeübt werden,
 
 
 3.  Tätigkeiten nach § 21, die von Ausländerinnen und Ausländern, die in

@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 14 G v. 10.12.2021 I 5162
-
-Mittelbare änderung durch
-:   Art. 21 Nr. 1 G v. 10.12.2021 I 5162 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 21 Nr. 3 G v. 10.12.2021 I 5162 ist berücksichtigt
+:   Art. 9 G v. 16.8.2023 I Nr. 217
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -140,7 +134,14 @@ Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige
 medizinische Versorgung ist auch nach Ausschöpfung von
 Wirtschaftlichkeitsreserven nicht zu gewährleisten.
 
-(5) (weggefallen)
+(5) Im Jahr 2023 dürfen sich die sächlichen Verwaltungsausgaben der
+einzelnen Krankenkasse nicht um mehr als 3 Prozent gegenüber dem
+Vorjahr erhöhen. Die Begrenzung nach Satz 1 gilt nicht für sächliche
+Verwaltungsausgaben, die wegen der Durchführung der
+Sozialversicherungswahlen einschließlich der Teilnahme am
+Modellprojekt zur Durchführung von Online-Wahlen und der Kostenumlage
+für dieses Modellprojekt nach § 194a Absatz 3 entstehen, sowie für
+Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
 
 (6) (weggefallen)
 
@@ -261,12 +262,13 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
     zurückgezahlt worden ist,
 
 
-2a. Personen in der Zeit, für die sie Arbeitslosengeld II nach dem Zweiten
-    Buch beziehen, es sei denn, dass diese Leistung nur darlehensweise
-    gewährt wird oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten
-    Buches bezogen werden; dies gilt auch, wenn die Entscheidung, die zum
-    Bezug der Leistung geführt hat, rückwirkend aufgehoben oder die
-    Leistung zurückgefordert oder zurückgezahlt worden ist,
+2a. Personen in der Zeit, für die sie Bürgergeld nach § 19 Absatz 1 Satz 1
+    des Zweiten Buches beziehen, es sei denn, dass diese Leistung nur
+    darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
+    Satz 1 des Zweiten Buches bezogen werden; dies gilt auch, wenn die
+    Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend
+    aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden
+    ist,
 
 
 3.  Landwirte, ihre mitarbeitenden Familienangehörigen und Altenteiler
@@ -461,12 +463,12 @@ selbständig erwerbstätig sind; als Arbeitnehmer gelten für
 Gesellschafter auch die Arbeitnehmer der Gesellschaft.
 
 (5a) Nach Absatz 1 Nr. 2a ist nicht versicherungspflichtig, wer
-zuletzt vor dem Bezug von Arbeitslosengeld II privat krankenversichert
-war oder weder gesetzlich noch privat krankenversichert war und zu den
-in Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört
-oder bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte.
-Satz 1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs.
-1 Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
+zuletzt vor dem Bezug von Bürgergeld privat krankenversichert war oder
+weder gesetzlich noch privat krankenversichert war und zu den in
+Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört oder
+bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte. Satz
+1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs. 1
+Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
 Hilfebedürftigkeit. Personen nach Satz 1 sind nicht nach § 10
 versichert. Personen nach Satz 1, die am 31. Dezember 2015 die
 Voraussetzungen des § 10 erfüllt haben, sind ab dem 1. Januar 2016
@@ -712,16 +714,18 @@ gilt nicht für eine Beschäftigung
 Zusammenrechnung mit einer nicht geringfügigen Beschäftigung nur
 erfolgt, wenn diese Versicherungspflicht begründet.
 
-(2) Personen, die am 31. März 2003 nur in einer Beschäftigung
-versicherungspflichtig waren, die die Merkmale einer geringfügigen
-Beschäftigung nach den §§ 8, 8a des Vierten Buches erfüllt, und die
-nach dem 31. März 2003 nicht die Voraussetzungen für eine Versicherung
-nach § 10 erfüllen, bleiben in dieser Beschäftigung
-versicherungspflichtig. Sie werden auf ihren Antrag von der
-Versicherungspflicht befreit. § 8 Abs. 2 gilt entsprechend mit der
-Maßgabe, dass an die Stelle des Zeitpunkts des Beginns der
-Versicherungspflicht der 1. April 2003 tritt. Die Befreiung ist auf
-die jeweilige Beschäftigung beschränkt.
+(2) Personen, die am 30. September 2022 in einer mehr als
+geringfügigen Beschäftigung versicherungspflichtig waren, welche die
+Merkmale einer geringfügigen Beschäftigung nach § 8 oder § 8a des
+Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
+Buches in der ab dem 1. Oktober 2022 geltenden Fassung erfüllt,
+bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2023
+versicherungspflichtig, sofern sie nicht die Voraussetzungen für eine
+Versicherung nach § 10 erfüllen und solange ihr Arbeitsentgelt 450
+Euro monatlich übersteigt. Sie werden auf ihren Antrag von der
+Versicherungspflicht nach Satz 1 befreit. § 8 Absatz 2 gilt
+entsprechend mit der Maßgabe, dass an die Stelle des Zeitpunkts des
+Beginns der Versicherungspflicht der 1. Oktober 2022 tritt.
 
 (3) (weggefallen)
 
@@ -828,8 +832,9 @@ Fassung gleich.
     mindestens vierundzwanzig Monate oder unmittelbar vor dem Ausscheiden
     ununterbrochen mindestens zwölf Monate versichert waren; Zeiten der
     Mitgliedschaft nach § 189 und Zeiten, in denen eine Versicherung
-    allein deshalb bestanden hat, weil Arbeitslosengeld II zu Unrecht
-    bezogen wurde, werden nicht berücksichtigt,
+    allein deshalb bestanden hat, weil Bürgergeld nach § 19 Absatz 1 Satz
+    1 des Zweiten Buches zu Unrecht bezogen wurde, werden nicht
+    berücksichtigt,
 
 
 2.  Personen, deren Versicherung nach § 10 erlischt oder nur deswegen
@@ -864,12 +869,12 @@ Fassung gleich.
 
 
 7.  innerhalb von sechs Monaten nach ständiger Aufenthaltnahme im Inland
-    oder innerhalb von drei Monaten nach Ende des Bezugs von
-    Arbeitslosengeld II Spätaussiedler sowie deren gemäß § 7 Abs. 2 Satz 1
-    des Bundesvertriebenengesetzes leistungsberechtigte Ehegatten und
-    Abkömmlinge, die bis zum Verlassen ihres früheren
-    Versicherungsbereichs bei einem dortigen Träger der gesetzlichen
-    Krankenversicherung versichert waren,
+    oder innerhalb von drei Monaten nach Ende des Bezugs von Bürgergeld
+    nach § 19 Absatz 1 Satz 1 des Zweiten Buches Spätaussiedler sowie
+    deren gemäß § 7 Abs. 2 Satz 1 des Bundesvertriebenengesetzes
+    leistungsberechtigte Ehegatten und Abkömmlinge, die bis zum Verlassen
+    ihres früheren Versicherungsbereichs bei einem dortigen Träger der
+    gesetzlichen Krankenversicherung versichert waren,
 
 
 8.  Personen, die ab dem 31. Dezember 2018 als Soldatinnen oder Soldaten
@@ -957,7 +962,11 @@ diese Familienangehörigen
     Fortzahlung des Arbeitsentgelts die Höhe der gezahlten
     Entlassungsentschädigung erreicht worden wäre; bei Renten wird der
     Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten
-    entfallenden Teil berücksichtigt.
+    entfallenden Teil berücksichtigt; für Familienangehörige, die eine
+    geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des
+    Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
+    Buches ausüben, ist ein regelmäßiges monatliches Gesamteinkommen bis
+    zur Geringfügigkeitsgrenze zulässig.
 
 
 
@@ -1393,14 +1402,15 @@ Seearbeitsgesetzes an die Krankenkasse verwiesen.
 Künstlersozialversicherungsgesetz Versicherte, die mit einem Betrag in
 Höhe von Beitragsanteilen für zwei Monate im Rückstand sind und trotz
 Mahnung nicht zahlen, ruht nach näherer Bestimmung des § 16 Abs. 2 des
-Künstlersozialversicherungsgesetzes. Satz 1 gilt entsprechend für
-Mitglieder nach den Vorschriften dieses Buches, die mit einem Betrag
-in Höhe von Beitragsanteilen für zwei Monate im Rückstand sind und
-trotz Mahnung nicht zahlen, ausgenommen sind Untersuchungen zur
-Früherkennung von Krankheiten nach den §§ 25 und 26 und Leistungen,
-die zur Behandlung akuter Erkrankungen und Schmerzzustände sowie bei
-Schwangerschaft und Mutterschaft erforderlich sind; das Ruhen endet,
-wenn alle rückständigen und die auf die Zeit des Ruhens entfallenden
+Künstlersozialversicherungsgesetzes. Satz 1 gilt nicht für den
+Anspruch auf Untersuchungen zur Früherkennung von Krankheiten nach den
+§§ 25 und 26 und für den Anspruch auf Leistungen, die zur Behandlung
+akuter Erkrankungen und Schmerzzustände sowie bei Schwangerschaft und
+Mutterschaft erforderlich sind. Die Sätze 1 und 2 gelten entsprechend
+für Mitglieder nach den Vorschriften dieses Buches, die mit einem
+Betrag in Höhe von Beitragsanteilen für zwei Monate im Rückstand sind
+und trotz Mahnung nicht zahlen; das Ruhen endet, wenn alle
+rückständigen und die auf die Zeit des Ruhens entfallenden
 Beitragsanteile gezahlt sind. Ist eine wirksame
 Ratenzahlungsvereinbarung zu Stande gekommen, hat das Mitglied ab
 diesem Zeitpunkt wieder Anspruch auf Leistungen, solange die Raten
@@ -1691,53 +1701,109 @@ angemessenen Eigenleistung zur Umsetzung der Rahmenvereinbarungen nach
 § 20f beitragen.
 
 (3) Zur Unterstützung der Krankenkassen bei der Wahrnehmung ihrer
-Aufgaben zur Gesundheitsförderung und Prävention in Lebenswelten für
-in der gesetzlichen Krankenversicherung Versicherte, insbesondere in
-Kindertageseinrichtungen, in sonstigen Einrichtungen der Kinder- und
-Jugendhilfe, in Schulen sowie in den Lebenswelten älterer Menschen und
-zur Sicherung und Weiterentwicklung der Qualität der Leistungen
-beauftragt der Spitzenverband Bund der Krankenkassen die
-Bundeszentrale für gesundheitliche Aufklärung ab dem Jahr 2016
-insbesondere mit der Entwicklung der Art und der Qualität
-krankenkassenübergreifender Leistungen, deren Implementierung und
-deren wissenschaftlicher Evaluation. Der Spitzenverband Bund der
-Krankenkassen legt dem Auftrag die nach § 20 Absatz 2 Satz 1
-festgelegten Handlungsfelder und Kriterien sowie die in den
-Rahmenvereinbarungen nach § 20f jeweils getroffenen Festlegungen
-zugrunde. Im Rahmen des Auftrags nach Satz 1 soll die Bundeszentrale
-für gesundheitliche Aufklärung geeignete Kooperationspartner
-heranziehen. Die Bundeszentrale für gesundheitliche Aufklärung erhält
-für die Ausführung des Auftrags nach Satz 1 vom Spitzenverband Bund
-der Krankenkassen eine pauschale Vergütung in Höhe von mindestens 0,45
-Euro aus dem Betrag, den die Krankenkassen nach § 20 Absatz 6 Satz 2
-für Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten
-aufzuwenden haben. Die Vergütung nach Satz 4 erfolgt quartalsweise und
-ist am ersten Tag des jeweiligen Quartals zu leisten. Sie ist nach
-Maßgabe von § 20 Absatz 6 Satz 5 jährlich anzupassen. Die
-Bundeszentrale für gesundheitliche Aufklärung stellt sicher, dass die
-vom Spitzenverband Bund der Krankenkassen geleistete Vergütung
-ausschließlich zur Durchführung des Auftrags nach diesem Absatz
-eingesetzt wird und dokumentiert dies nach Maßgabe des
-Spitzenverbandes Bund der Krankenkassen. Abweichend von Satz 4 erhält
-die Bundeszentrale für gesundheitliche Aufklärung im Jahr 2020 keine
-pauschale Vergütung für die Ausführung des Auftrags nach Satz 1.
+Aufgaben nach den Absätzen 1 und 2 bilden die Landesverbände der
+Krankenkassen und die Ersatzkassen in jedem Land gemeinsam bei einem
+der jeweiligen Landesverbände der Krankenkassen oder dem Verband der
+Ersatzkassen Arbeitsgemeinschaften. Die Arbeitsgemeinschaften
+unterstützen mit ihren Leistungen die Umsetzung der
+Rahmenvereinbarungen auf Landesebene nach § 20f Absatz 1. Sie
+berücksichtigen bei der Wahrnehmung ihrer Aufgaben Stellungnahmen der
+weiteren an den Rahmenvereinbarungen auf Landesebene nach § 20f Absatz
+1 Beteiligten. Die Landesverbände der Krankenkassen und die
+Ersatzkassen vereinbaren das Nähere über die Aufgaben der jeweiligen
+Arbeitsgemeinschaft, deren Arbeitsweise und die Verwendung der ihnen
+nach Absatz 7 Satz 4 zugewiesenen Mittel. Die Arbeitsgemeinschaften
+sind befugt, zur Erfüllung ihrer Aufgaben Verwaltungsakte zu erlassen.
+Widerspruchsbescheide erlässt die bei Errichtung der
+Arbeitsgemeinschaft zu bildende Widerspruchsstelle. Die Krankenkassen
+und die Arbeitsgemeinschaften erteilen dem Spitzenverband Bund der
+Krankenkassen die für die Erfüllung seiner Aufgaben nach den Absätzen
+4 und 5 erforderlichen Auskünfte.
 
-(4) Das Nähere über die Beauftragung der Bundeszentrale für
-gesundheitliche Aufklärung nach Absatz 3, insbesondere zum Inhalt und
-Umfang, zur Qualität und zur Prüfung der Wirtschaftlichkeit sowie zu
-den für die Durchführung notwendigen Kosten, vereinbaren der
-Spitzenverband Bund der Krankenkassen und die Bundeszentrale für
-gesundheitliche Aufklärung erstmals bis zum 30. November 2015. Kommt
-die Vereinbarung nicht innerhalb der Frist nach Satz 1 zustande,
-erbringt die Bundeszentrale für gesundheitliche Aufklärung die
-Leistungen nach Absatz 3 Satz 1 unter Berücksichtigung der vom
-Spitzenverband Bund der Krankenkassen nach § 20 Absatz 2 Satz 1
-festgelegten Handlungsfelder und Kriterien sowie unter Beachtung der
-in den Rahmenvereinbarungen nach § 20f getroffenen Festlegungen und
-des Wirtschaftlichkeitsgebots nach § 12. Der Spitzenverband Bund der
-Krankenkassen regelt in seiner Satzung das Verfahren zur Aufbringung
-der erforderlichen Mittel durch die Krankenkassen. § 89 Absatz 3 bis 5
-des Zehnten Buches gilt entsprechend.
+(4) Der Spitzenverband Bund der Krankenkassen unterstützt die
+Arbeitsgemeinschaften nach Absatz 3 bei der Wahrnehmung ihrer Aufgaben
+nach Absatz 3 insbesondere durch
+
+1.  die Empfehlung von gemeinsamen und kassenartenübergreifenden
+    Handlungsfeldern und Schwerpunktsetzungen für die Leistungen der
+    Arbeitsgemeinschaften nach Absatz 3 und der Aufgaben nach den Nummern
+    2 und 3,
+
+
+2.  die Förderung von Maßnahmen zur Unterstützung des Aufbaus und der
+    Stärkung gesundheitsförderlicher Strukturen mit bundesweiter
+    Bedeutung,
+
+
+3.  die Entwicklung, Erprobung und wissenschaftliche Evaluation
+    gesundheitsförderlicher Konzepte,
+
+
+4.  die Erstellung eines Arbeitsprogramms des Spitzenverbandes Bund der
+    Krankenkassen zur Wahrnehmung der Aufgaben nach den Nummern 1 bis 3
+    unter Berücksichtigung einer Stellungnahme der Nationalen
+    Präventionskonferenz jeweils bis zum 30. November eines Jahres für das
+    Folgejahr.
+
+
+
+Der Spitzenverband Bund der Krankenkassen kann Dritte mit der
+Wahrnehmung von Aufgaben nach Satz 1 Nummer 2 und 3 beauftragen. §
+197b gilt entsprechend.
+
+(5) Der Spitzenverband Bund der Krankenkassen berichtet dem
+Bundesministerium für Gesundheit jeweils zum 1. Oktober eines Jahres
+schriftlich über die Wahrnehmung der Aufgaben der Krankenkassen und
+der Arbeitsgemeinschaften nach Absatz 3 sowie über die Aufgaben des
+Spitzenverbandes Bund der Krankenkassen nach Absatz 4 Satz 1 im
+vorangegangenen Jahr. Der Bericht hat auch Angaben zur Höhe der
+Ausgaben und zu deren Verwendung für die Leistungen der
+Arbeitsgemeinschaften nach Absatz 3 und der Leistungen nach Absatz 4
+Satz 1 Nummer 2, zur Art und Zahl der erreichten Lebenswelten, zur
+inhaltlichen Ausrichtung der Leistungen sowie zu den erreichten
+Zielgruppen und den Kooperationspartnern zu enthalten.
+
+(6) Der Spitzenverband Bund der Krankenkassen beauftragt einen
+unabhängigen Dritten mit der wissenschaftlichen Auswertung und
+Begleitung der Wahrnehmung der Aufgaben der Arbeitsgemeinschaften nach
+Absatz 3 sowie der Wahrnehmung der Aufgaben des Spitzenverbandes Bund
+der Krankenkassen nach Absatz 4 Satz 1 und von deren jeweiligen
+Auswirkungen auf die Gesundheit der Versicherten. Über das Ergebnis
+dieser Evaluation berichtet der Spitzenverband Bund der Krankenkassen
+dem Bundesministerium für Gesundheit alle vier Jahre, erstmals zum 1.
+Juli 2027.
+
+(7) Die Krankenkassen wenden für die Wahrnehmung der Aufgaben der
+Arbeitsgemeinschaften nach Absatz 3 und der Aufgaben des
+Spitzenverbandes Bund der Krankenkassen nach Absatz 4 ab dem 1. Januar
+2024 mindestens einen Betrag in Höhe von 0,53 Euro aus dem Betrag auf,
+den sie nach § 20 Absatz 6 Satz 2 für Leistungen zur
+Gesundheitsförderung und Prävention in Lebenswelten aufzuwenden haben,
+und stellen diesen Betrag dem Spitzenverband Bund der Krankenkassen
+zur Verfügung. Der Betrag ist entsprechend § 20 Absatz 6 Satz 5
+jährlich anzupassen. Der Spitzenverband Bund der Krankenkassen legt
+bis jeweils zum 1. Oktober eines Jahres die zur Durchführung seiner
+Aufgaben nach Absatz 4 im Folgejahr notwendigen Ausgaben
+einschließlich der sächlichen und personellen Aufwendungen fest, die
+aus dem Betrag nach Satz 1 finanziert werden. Den nach Abzug dieser
+Ausgaben verbleibenden Teil der nach Satz 1 zur Verfügung gestellten
+Mittel verteilt er nach einem von ihm festzulegenden Schlüssel auf die
+Arbeitsgemeinschaften für die Wahrnehmung ihrer Aufgaben nach Absatz
+3\. Werden die nach Satz 1 in einem Kalenderjahr zur Verfügung
+gestellten Mittel vom Spitzenverband Bund der Krankenkassen oder von
+einer Arbeitsgemeinschaft nicht verausgabt, so sind sie im Folgejahr
+zusätzlich für die Wahrnehmung der Aufgaben nach Absatz 3 oder Absatz
+4 zu verwenden. Der Spitzenverband Bund der Krankenkassen regelt in
+seiner Satzung das Verfahren zur Feststellung der Ausgaben und
+Aufwendungen nach Satz 3, den Schlüssel zur Verteilung der Mittel nach
+Satz 4 und die Verwaltung der Mittel.
+
+(8) Der Spitzenverband Bund der Krankenkassen tritt in die Rechte und
+Pflichten der Bundeszentrale für gesundheitliche Aufklärung ein, die
+sich aus den nach § 20a Absatz 3 Satz 1 in der bis zum 15. Mai 2023
+geltenden Fassung durch die Bundeszentrale für gesundheitliche
+Aufklärung für die Bundesrepublik Deutschland begründeten
+Zuwendungsrechtsverhältnissen ergeben.
 
 
 #### § 20b Betriebliche Gesundheitsförderung
@@ -2092,9 +2158,13 @@ bestimmt der Gemeinsame Bundesausschuss in Richtlinien nach § 92 auf
 der Grundlage der Empfehlungen der Ständigen Impfkommission beim
 Robert Koch-Institut gemäß § 20 Abs. 2 des Infektionsschutzgesetzes
 unter besonderer Berücksichtigung der Bedeutung der Schutzimpfungen
-für die öffentliche Gesundheit. Abweichungen von den Empfehlungen der
-Ständigen Impfkommission sind besonders zu begründen. Zu Änderungen
-der Empfehlungen der Ständigen Impfkommission hat der Gemeinsame
+für die öffentliche Gesundheit; die Leistungen können auch
+Schutzimpfungen mit zugelassenen Arzneimitteln für Indikationen und
+Indikationsbereiche umfassen, für die die Arzneimittel nicht von der
+zuständigen Bundesoberbehörde oder der Europäischen Kommission
+zugelassen sind. Abweichungen von den Empfehlungen der Ständigen
+Impfkommission sind besonders zu begründen. Zu Änderungen der
+Empfehlungen der Ständigen Impfkommission hat der Gemeinsame
 Bundesausschuss innerhalb von zwei Monaten nach ihrer Veröffentlichung
 eine Entscheidung zu treffen. Kommt eine Entscheidung nicht fristgemäß
 zustande, dürfen insoweit die von der Ständigen Impfkommission
@@ -2110,10 +2180,9 @@ der Krankenkassen durch Rechtsverordnung ohne Zustimmung des
 Bundesrates zu bestimmen, dass Versicherte Anspruch auf weitere
 bestimmte Schutzimpfungen oder auf bestimmte andere Maßnahmen der
 spezifischen Prophylaxe haben. Das Bundesministerium für Gesundheit
-wird, sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 des
-Infektionsschutzgesetzes eine epidemische Lage von nationaler
-Tragweite festgestellt hat, ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates zu bestimmen, dass
+wird ermächtigt, bis zum 7. April 2023 im Einvernehmen mit dem
+Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
+des Bundesrates zu bestimmen, dass
 
 1.  Versicherte Anspruch auf
 
@@ -2149,45 +2218,46 @@ Zustimmung des Bundesrates zu bestimmen, dass
 
 Der Anspruch nach Satz 2 kann auf bestimmte Teilleistungen beschränkt
 werden; er umfasst auch die Ausstellung einer Impf- und
-Testdokumentation sowie von COVID-19-Zertifikaten nach § 22 des
-Infektionsschutzgesetzes. Sofern in der Rechtsverordnung nach Satz 2
-Nummer 1 Buchstabe a und Nummer 2 ein Anspruch auf Schutzimpfung gegen
-das Coronavirus SARS-CoV-2 festgelegt wird, kann zugleich im Fall
-beschränkter Verfügbarkeit von Impfstoffen eine Priorisierung der
-Anspruchsberechtigten nach Personengruppen festgelegt werden; die in §
-20 Absatz 2a Satz 1 des Infektionsschutzgesetzes genannten Impfziele
-sind dabei zu berücksichtigen. Als Priorisierungskriterien kommen
-insbesondere das Alter der Anspruchsberechtigten, ihr
-Gesundheitszustand, ihr behinderungs-, tätigkeits- oder
-aufenthaltsbedingtes SARS-CoV-2-Expositionsrisiko sowie ihre
-Systemrelevanz in zentralen staatlichen Funktionen, Kritischen
-Infrastrukturen oder zentralen Bereichen der Daseinsvorsorge in
-Betracht. Ein Anspruch nach Satz 2 Nummer 1 Buchstabe b besteht nicht,
-wenn die betroffene Person bereits einen Anspruch auf die in Satz 2
-Nummer 1 Buchstabe b genannten Leistungen hat oder einen Anspruch auf
-Erstattung der Aufwendungen für diese Leistungen hätte. Sofern in der
-Rechtsverordnung nach Satz 2 Nummer 1 Buchstabe c ein Anspruch auf
-Schutzmasken festgelegt wird, ist das Einvernehmen mit dem
-Bundesministerium der Finanzen herzustellen und kann eine Zuzahlung
-durch den berechtigten Personenkreis vorgesehen werden. Sofern in der
-Rechtsverordnung nach Satz 2 ein Anspruch auf eine Schutzimpfung gegen
-das Coronavirus SARS-CoV-2 auch für Personen, die nicht in der
-gesetzlichen Krankenversicherung versichert sind, festgelegt wird,
-beteiligen sich die privaten Krankenversicherungsunternehmen anteilig
-in Höhe von 7 Prozent an den Kosten, soweit diese nicht von Bund oder
-Ländern getragen werden. Die Rechtsverordnung nach Satz 2 ist nach
-Anhörung des Spitzenverbandes Bund der Krankenkassen und der
-Kassenärztlichen Bundesvereinigung zu erlassen. Sofern in der
-Rechtsverordnung nach Satz 2 ein Anspruch auf Schutzimpfungen oder
-andere Maßnahmen der spezifischen Prophylaxe festgelegt wird, ist vor
-ihrem Erlass auch die Ständige Impfkommission beim Robert Koch-
-Institut anzuhören. Sofern in der Rechtsverordnung nach Satz 2 ein
-Anspruch auf Schutzmasken festgelegt wird, ist vor ihrem Erlass auch
-der Deutsche Apothekerverband anzuhören. Sofern die Rechtsverordnung
-nach Satz 2 Regelungen für Personen enthält, die privat
-krankenversichert sind, ist vor Erlass der Rechtsverordnung auch der
-Verband der Privaten Krankenversicherung anzuhören. In der
-Rechtsverordnung nach Satz 2 kann auch das Nähere geregelt werden
+Testdokumentation sowie von COVID-19-Zertifikaten nach den §§ 22 und
+22a des Infektionsschutzgesetzes. Sofern in der Rechtsverordnung nach
+Satz 2 Nummer 1 Buchstabe a und Nummer 2 ein Anspruch auf
+Schutzimpfung gegen das Coronavirus SARS-CoV-2 festgelegt wird, kann
+zugleich im Fall beschränkter Verfügbarkeit von Impfstoffen eine
+Priorisierung der Anspruchsberechtigten nach Personengruppen
+festgelegt werden; die in § 20 Absatz 2a Satz 1 des
+Infektionsschutzgesetzes genannten Impfziele sind dabei zu
+berücksichtigen. Als Priorisierungskriterien kommen insbesondere das
+Alter der Anspruchsberechtigten, ihr Gesundheitszustand, ihr
+behinderungs-, tätigkeits- oder aufenthaltsbedingtes SARS-
+CoV-2-Expositionsrisiko sowie ihre Systemrelevanz in zentralen
+staatlichen Funktionen, Kritischen Infrastrukturen oder zentralen
+Bereichen der Daseinsvorsorge in Betracht. Ein Anspruch nach Satz 2
+Nummer 1 Buchstabe b besteht nicht, wenn die betroffene Person bereits
+einen Anspruch auf die in Satz 2 Nummer 1 Buchstabe b genannten
+Leistungen hat oder einen Anspruch auf Erstattung der Aufwendungen für
+diese Leistungen hätte. Sofern in der Rechtsverordnung nach Satz 2
+Nummer 1 Buchstabe c ein Anspruch auf Schutzmasken festgelegt wird,
+ist das Einvernehmen mit dem Bundesministerium der Finanzen
+herzustellen und kann eine Zuzahlung durch den berechtigten
+Personenkreis vorgesehen werden. Sofern in der Rechtsverordnung nach
+Satz 2 ein Anspruch auf eine Schutzimpfung gegen das Coronavirus SARS-
+CoV-2 auch für Personen, die nicht in der gesetzlichen
+Krankenversicherung versichert sind, festgelegt wird, beteiligen sich
+die privaten Krankenversicherungsunternehmen anteilig in Höhe von 7
+Prozent an den Kosten, soweit diese nicht von Bund oder Ländern
+getragen werden. Die Rechtsverordnung nach Satz 2 ist nach Anhörung
+des Spitzenverbandes Bund der Krankenkassen und der Kassenärztlichen
+Bundesvereinigung zu erlassen. Sofern in der Rechtsverordnung nach
+Satz 2 ein Anspruch auf Schutzimpfungen oder andere Maßnahmen der
+spezifischen Prophylaxe festgelegt wird, ist vor ihrem Erlass auch die
+Ständige Impfkommission beim Robert Koch-Institut anzuhören. Sofern in
+der Rechtsverordnung nach Satz 2 ein Anspruch auf Schutzmasken
+festgelegt wird, ist vor ihrem Erlass auch der Deutsche
+Apothekerverband anzuhören. Sofern die Rechtsverordnung nach Satz 2
+Regelungen für Personen enthält, die privat krankenversichert sind,
+ist vor Erlass der Rechtsverordnung auch der Verband der Privaten
+Krankenversicherung anzuhören. In der Rechtsverordnung nach Satz 2
+kann auch das Nähere geregelt werden
 
 1.  zu den Voraussetzungen, zur Art und zum Umfang der Leistungen nach
     Satz 2 Nummer 1,
@@ -2230,24 +2300,26 @@ Nummer 1 Buchstabe c aus der Liquiditätsreserve des Gesundheitsfonds
 finanziert werden, sind diese aus Bundesmitteln zu erstatten; in den
 Rechtsverordnungen nach Satz 2 Nummer 1 Buchstabe a und b, auch in
 Verbindung mit Nummer 2, kann eine Erstattung aus Bundesmitteln für
-weitere Leistungen nach Satz 2 geregelt werden. Eine aufgrund des
-Satzes 2 erlassene Rechtsverordnung tritt spätestens ein Jahr nach der
-Aufhebung der Feststellung der epidemischen Lage von nationaler
-Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des
-Infektionsschutzgesetzes außer Kraft. Bis zu ihrem Außerkrafttreten
-kann eine Verordnung nach Satz 2 auch nach Aufhebung der epidemischen
-Lage von nationaler Tragweite geändert werden. Soweit und solange eine
-auf Grund des Satzes 1 oder des Satzes 2 erlassene Rechtsverordnung in
-Kraft ist, hat der Gemeinsame Bundesausschuss, soweit die Ständige
-Impfkommission Empfehlungen für Schutzimpfungen abgegeben hat, auf die
-ein Anspruch nach der jeweiligen Rechtsverordnung besteht, in
-Abweichung von Absatz 1 Satz 5 Einzelheiten zu Voraussetzungen, Art
-und Umfang von diesen Schutzimpfungen nach Absatz 1 Satz 3 für die
-Zeit nach dem Außerkrafttreten der jeweiligen Rechtsverordnung in
-Richtlinien nach § 92 zu bestimmen; die von der Ständigen
-Impfkommission empfohlenen Schutzimpfungen dürfen nach
-Außerkrafttreten der Rechtsverordnung so lange erbracht werden, bis
-die Richtlinie vorliegt.
+weitere Leistungen nach Satz 2 geregelt werden. Das Bundesministerium
+für Gesundheit wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium der Finanzen, durch Rechtsverordnung ohne Zustimmung
+des Bundesrates ausschließlich zur Abwicklung einer aufgrund des
+Satzes 2 erlassenen Rechtsverordnung zu bestimmen, dass Regelungen
+dieser Rechtsverordnung, die die Abrechnung und die Prüfung bereits
+erbrachter Leistungen, die Zahlung aus der Liquiditätsreserve des
+Gesundheitsfonds sowie die Erstattung dieser Zahlungen aus
+Bundesmitteln betreffen, bis zum 31. Dezember 2024 fortgelten. Soweit
+und solange eine auf Grund des Satzes 1 oder des Satzes 2 erlassene
+Rechtsverordnung in Kraft ist, hat der Gemeinsame Bundesausschuss,
+soweit die Ständige Impfkommission Empfehlungen für Schutzimpfungen
+abgegeben hat, auf die ein Anspruch nach der jeweiligen
+Rechtsverordnung besteht, in Abweichung von Absatz 1 Satz 5
+Einzelheiten zu Voraussetzungen, Art und Umfang von diesen
+Schutzimpfungen nach Absatz 1 Satz 3 für die Zeit nach dem
+Außerkrafttreten der jeweiligen Rechtsverordnung in Richtlinien nach §
+92 zu bestimmen; die von der Ständigen Impfkommission empfohlenen
+Schutzimpfungen dürfen nach Außerkrafttreten der Rechtsverordnung so
+lange erbracht werden, bis die Richtlinie vorliegt.
 
 (4) Soweit Versicherte Anspruch auf Leistungen für Maßnahmen nach den
 Absätzen 1 bis 3 haben, schließt dieser Anspruch die Bereitstellung
@@ -3545,10 +3617,16 @@ stabilisieren, zu immobilisieren oder zu komprimieren. Das Nähere zur
 Abgrenzung von Verbandmitteln zu sonstigen Produkten zur
 Wundbehandlung regelt der Gemeinsame Bundesausschuss bis zum 31.
 August 2020 in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6;
-Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis 36
+Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis 48
 Monate nach dem Wirksamwerden der Regelungen nach Satz 4 sind solche
 Gegenstände weiterhin zu Lasten der Krankenkassen zu erbringen, die
-vor dem Wirksamwerden der Regelungen nach Satz 4 erbracht wurden.
+vor dem Wirksamwerden der Regelungen nach Satz 4 erbracht wurden. Der
+Gemeinsame Bundesausschuss berät Hersteller von sonstigen Produkten
+zur Wundbehandlung im Rahmen eines Antragsverfahrens insbesondere zu
+konkreten Inhalten der vorzulegenden Unterlagen und Studien. § 34
+Absatz 6 gilt entsprechend. Für die Beratung sind Gebühren zu erheben.
+Das Nähere zur Beratung und zu den Gebühren regelt der Gemeinsame
+Bundesausschuss in seiner Verfahrensordnung.
 
 (1b) Für Versicherte, die eine kontinuierliche Versorgung mit einem
 bestimmten Arzneimittel benötigen, können Vertragsärzte Verordnungen
@@ -3567,7 +3645,7 @@ mit einem pharmazeutischen Unternehmen, das ein
 Festbetragsarzneimittel anbietet, eine Vereinbarung nach § 130a Abs. 8
 abgeschlossen, trägt die Krankenkasse abweichend von Satz 1 den
 Apothekenverkaufspreis dieses Mittels abzüglich der Zuzahlungen und
-Abschläge nach den §§ 130 und 130a Abs. 1, 3a und 3b. Diese
+Abschläge nach den §§ 130 und 130a Absatz 1, 1b, 3a und 3b. Diese
 Vereinbarung ist nur zulässig, wenn hierdurch die Mehrkosten der
 Überschreitung des Festbetrages ausgeglichen werden. Die Krankenkasse
 übermittelt die erforderlichen Angaben einschließlich des
@@ -3589,7 +3667,7 @@ bei Harn- und Blutteststreifen. Satz 1 gilt auch für Medizinprodukte,
 die nach Absatz 1 Satz 2 und 3 in die Versorgung mit Arzneimitteln
 einbezogen worden sind. Der Spitzenverband Bund der Krankenkassen kann
 Arzneimittel, deren Abgabepreis des pharmazeutischen Unternehmers ohne
-Mehrwertsteuer mindestens um 30 vom Hundert niedriger als der jeweils
+Mehrwertsteuer mindestens um 20 vom Hundert niedriger als der jeweils
 gültige Festbetrag ist, der diesem Preis zugrunde liegt, von der
 Zuzahlung freistellen, wenn hieraus Einsparungen zu erwarten sind. Für
 andere Arzneimittel, für die eine Vereinbarung nach § 130a Abs. 8
@@ -3707,7 +3785,19 @@ Ergebnisse der Begleiterhebung in Form eines Studienberichts das
 Nähere zur Leistungsgewährung in den Richtlinien nach § 92 Absatz 1
 Satz 2 Nummer 6. Der Studienbericht wird vom Bundesinstitut für
 Arzneimittel und Medizinprodukte auf seiner Internetseite
-veröffentlicht.
+veröffentlicht. Abweichend von § 13 Absatz 3a Satz 1 ist über den
+Antrag auf Genehmigung innerhalb von zwei Wochen nach Antragseingang
+zu entscheiden. Sofern eine gutachtliche Stellungnahme, insbesondere
+des Medizinischen Dienstes, eingeholt wird, ist abweichend von § 13
+Absatz 3a Satz 1 über den Antrag auf Genehmigung innerhalb von vier
+Wochen nach Antragseingang zu entscheiden; der Medizinische Dienst
+nimmt, sofern eine gutachtliche Stellungnahme eingeholt wird,
+innerhalb von zwei Wochen Stellung.
+
+(7) Der Gemeinsame Bundesausschuss regelt bis zum 1. Oktober 2023 in
+den Richtlinien nach § 92 Absatz 1 Nummer 6 das Nähere zu einzelnen
+Facharztgruppen und den erforderlichen ärztlichen Qualifikationen, bei
+denen der Genehmigungsvorbehalt nach Absatz 6 Satz 2 entfällt.
 
 
 ##### § 31a Medikationsplan
@@ -3956,7 +4046,7 @@ die Tätigkeiten, bei denen eine erhöhte Infektionsgefährdung
 angenommen werden kann. Wählen Versicherte Hilfsmittel oder
 zusätzliche Leistungen, die über das Maß des Notwendigen hinausgehen,
 haben sie die Mehrkosten und dadurch bedingte höhere Folgekosten
-selbst zu tragen. § 18 Absatz 6a des Elften Buches ist zu beachten.
+selbst zu tragen.§ 18b Absatz 3 des Elften Buches ist zu beachten.
 
 (2) Versicherte haben bis zur Vollendung des 18. Lebensjahres Anspruch
 auf Versorgung mit Sehhilfen entsprechend den Voraussetzungen nach
@@ -4010,7 +4100,7 @@ erstmalige oder erneute ärztliche Diagnose oder Therapieentscheidung
 medizinisch geboten ist. Abweichend von Satz 1 können die
 Krankenkassen eine vertragsärztliche Verordnung als Voraussetzung für
 die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
-beantragten Hilfsmittelversorgung verzichtet haben. § 18 Absatz 6a und
+beantragten Hilfsmittelversorgung verzichtet haben. § 18b Absatz 3 und
 § 40 Absatz 6 des Elften Buches sind zu beachten.
 
 (5b) Sofern die Krankenkassen nicht auf die Genehmigung der
@@ -4285,25 +4375,39 @@ die Versorgung von Bedeutung sind, können von der Bildung von Gruppen
 nach Satz 1 ausgenommen werden. Die nach Satz 2 Nr. 2 und 3 gebildeten
 Gruppen müssen gewährleisten, daß Therapiemöglichkeiten nicht
 eingeschränkt werden und medizinisch notwendige
-Verordnungsalternativen zur Verfügung stehen; insbesondere können
-altersgerechte Darreichungsformen für Kinder berücksichtigt werden.
-Ausgenommen von den nach Satz 2 Nummer 2 und 3 gebildeten Gruppen sind
-Arzneimittel mit patentgeschützten Wirkstoffen, deren Wirkungsweise
-neuartig ist oder die eine therapeutische Verbesserung, auch wegen
-geringerer Nebenwirkungen, bedeuten. Als neuartig gilt ein Wirkstoff,
-solange derjenige Wirkstoff, der als erster dieser Gruppe in Verkehr
-gebracht worden ist, unter Patentschutz steht. Der Gemeinsame
-Bundesausschuss ermittelt auch die nach Absatz 3 notwendigen
-rechnerischen mittleren Tages- oder Einzeldosen oder anderen
-geeigneten Vergleichsgrößen. Für die Vorbereitung der Beschlüsse nach
-Satz 1 durch die Geschäftsstelle des Gemeinsamen Bundesausschusses
-gilt § 106 Absatz 3 Satz 1 entsprechend. Soweit der Gemeinsame
-Bundesausschuss Dritte beauftragt, hat er zu gewährleisten, dass diese
-ihre Bewertungsgrundsätze und die Begründung für ihre Bewertungen
-einschließlich der verwendeten Daten offen legen. Die Namen
-beauftragter Gutachter dürfen nicht genannt werden.
+Verordnungsalternativen zur Verfügung stehen. Ausgenommen von den nach
+Satz 2 Nummer 2 und 3 gebildeten Gruppen sind Arzneimittel mit
+patentgeschützten Wirkstoffen, deren Wirkungsweise neuartig ist oder
+die eine therapeutische Verbesserung, auch wegen geringerer
+Nebenwirkungen, bedeuten. Als neuartig gilt ein Wirkstoff, solange
+derjenige Wirkstoff, der als erster dieser Gruppe in Verkehr gebracht
+worden ist, unter Patentschutz steht. Der Gemeinsame Bundesausschuss
+ermittelt auch die nach Absatz 3 notwendigen rechnerischen mittleren
+Tages- oder Einzeldosen oder anderen geeigneten Vergleichsgrößen. Für
+die Vorbereitung der Beschlüsse nach Satz 1 durch die Geschäftsstelle
+des Gemeinsamen Bundesausschusses gilt § 106 Absatz 3 Satz 1
+entsprechend. Soweit der Gemeinsame Bundesausschuss Dritte beauftragt,
+hat er zu gewährleisten, dass diese ihre Bewertungsgrundsätze und die
+Begründung für ihre Bewertungen einschließlich der verwendeten Daten
+offen legen. Die Namen beauftragter Gutachter dürfen nicht genannt
+werden.
 
-(1a) (weggefallen)
+(1a) Bei der Bildung von Gruppen nach Absatz 1 Satz 2 bleiben
+Arzneimittel mit altersgerechten Darreichungsformen und Wirkstärken
+für Kinder unberücksichtigt. Der Gemeinsame Bundesausschuss nimmt für
+Arzneimittel mit altersgerechten Darreichungsformen und Wirkstärken
+für Kinder, die nach der erstmaligen Bekanntmachung der nach Absatz 5a
+Satz 1 erstellten Liste in Verkehr gebracht werden und für die kein
+Erstattungsbetrag nach § 130b vereinbart oder festgesetzt worden ist,
+eine fiktive Eingruppierung in eine Festbetragsgruppe vor. Das Nähere
+hierzu regelt der Gemeinsame Bundesausschuss in seiner
+Verfahrensordnung. Für die in Satz 2 genannten Arzneimittel setzt der
+Spitzenverband Bund der Krankenkassen einen fiktiven Festbetrag fest,
+der bei einer Eingruppierung in eine Festbetragsgruppe entsprechend
+der fiktiven Eingruppierung nach Satz 2 auf Grundlage der Abgabepreise
+der pharmazeutischen Unternehmer gelten würde. Die Absätze 7 und 8
+sind auf die Festsetzung des fiktiven Festbetrags entsprechend
+anzuwenden.
 
 (1b) Eine therapeutische Verbesserung nach Absatz 1 Satz 6 liegt vor,
 wenn das Arzneimittel einen therapierelevanten höheren Nutzen als
@@ -4377,7 +4481,53 @@ Packungen mit einem Anteil von weniger als 1 vom Hundert an den
 verordneten Packungen in der Festbetragsgruppe nicht zu
 berücksichtigen. Für die Zahl der Verordnungen sind die zum Zeitpunkt
 des Berechnungsstichtages zuletzt verfügbaren Jahresdaten nach § 84
-Abs. 5 zu Grunde zu legen.
+Abs. 5 zu Grunde zu legen. Hebt der Spitzenverband Bund der
+Krankenkassen einen Festbetrag auf und findet anschließend § 130a
+Absatz 3a Anwendung, gilt § 130a Absatz 3d Satz 2.
+
+(5a) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt
+nach Anhörung des nach § 52b Absatz 3b des Arzneimittelgesetzes
+eingerichteten Beirats erstmals bis zum 27. Juli 2023 eine aktuelle
+Liste von Arzneimitteln, die auf Grund der zugelassenen
+Darreichungsformen und Wirkstärken zur Behandlung von Kindern
+notwendig sind. Die nach Satz 1 erstellte Liste sowie die Änderungen
+dieser Liste sind vom Bundesinstitut für Arzneimittel und
+Medizinprodukte im Bundesanzeiger bekannt zu machen. Sofern
+Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts
+betroffen sind, erfolgt die Bekanntmachung im Einvernehmen mit dem
+Paul-Ehrlich-Institut. Der Spitzenverband Bund der Krankenkassen hebt
+innerhalb von vier Monaten nach der Bekanntmachung der nach Satz 1
+erstellten Liste oder einer Änderung dieser Liste die für die in der
+Liste aufgeführten Arzneimittel festgesetzten Festbeträge auf.
+Abweichend von Satz 4 hebt der Spitzenverband Bund der Krankenkassen
+die für die in der nach Satz 1 erstellten Liste aufgeführten
+Arzneimittel festgesetzten Festbeträge erstmals ab dem 1. Februar 2024
+auf.
+
+(5b) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann nach
+Anhörung des nach § 52b Absatz 3b des Arzneimittelgesetzes
+eingerichteten Beirats für Arzneimittel mit einem
+versorgungskritischen Wirkstoff erstmals ab dem 1. Oktober 2023 die
+Anhebung des Festbetrags auf Grundlage der Abgabepreise der
+pharmazeutischen Unternehmer um 50 Prozent oder des für die Anwendung
+maßgeblichen Preisstands nach § 130a Absatz 3a um 50 Prozent
+empfehlen. Die Empfehlung ist unter Angabe des Wirkstoffs und der
+betroffenen Darreichungsformen schriftlich zu begründen. Auf der
+Grundlage der Empfehlung kann das Bundesministerium für Gesundheit
+nach Anhörung des Spitzenverbandes Bund der Krankenkassen für die
+betroffenen Arzneimittel einmalig eine Anhebung des Festbetrags auf
+Grundlage der Abgabepreise der pharmazeutischen Unternehmer oder des
+für die Anwendung maßgeblichen Preisstands nach § 130a Absatz 3a um 50
+Prozent bestimmen. Die Bestimmung nach Satz 3 ist im Bundesanzeiger
+bekanntzumachen. Der Spitzenverband Bund der Krankenkassen setzt
+innerhalb von vier Monaten nach der Bekanntmachung nach Satz 4 einen
+neuen Festbetrag auf Grundlage der Abgabepreise der pharmazeutischen
+Unternehmer für die betroffenen Arzneimittel fest, der um 50 Prozent
+höher als der bisher festgesetzte Festbetrag ist. Der neue Festbetrag
+gilt bis zur nächsten Anpassung des Festbetrags nach Absatz 5 Satz 3
+zweiter Halbsatz, mindestens jedoch für einen Zeitraum von zwei Jahren
+ab der Bekanntmachung seiner Festsetzung durch den Spitzenverband Bund
+der Krankenkassen.
 
 (6) Sofern zum Zeitpunkt der Anpassung des Festbetrags ein gültiger
 Beschluss nach § 31 Absatz 3 Satz 4 vorliegt und tatsächlich
@@ -4417,8 +4567,8 @@ finden ab dem 1. Januar 2012 Anwendung.
 
 ##### § 35a Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen, Verordnungsermächtigung
 
-(1) Der Gemeinsame Bundesausschuss bewertet den Nutzen von
-erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen. Hierzu gehört
+(1) Der Gemeinsame Bundesausschuss bewertet den Nutzen aller
+erstattungsfähigen Arzneimittel mit neuen Wirkstoffen. Hierzu gehört
 insbesondere die Bewertung des Zusatznutzens gegenüber der
 zweckmäßigen Vergleichstherapie, des Ausmaßes des Zusatznutzens und
 seiner therapeutischen Bedeutung. Die Nutzenbewertung erfolgt auf
@@ -4468,11 +4618,13 @@ festzulegen:
 
 
 2.  Grundsätze für die Bestimmung der zweckmäßigen Vergleichstherapie und
-    des Zusatznutzens, und dabei auch die Fälle, in denen zusätzliche
-    Nachweise erforderlich sind, und die Voraussetzungen, unter denen
-    Studien bestimmter Evidenzstufen zu verlangen sind; Grundlage sind die
-    internationalen Standards der evidenzbasierten Medizin und der
-    Gesundheitsökonomie,
+    des Zusatznutzens, und dabei auch die Fälle, in denen der Gemeinsame
+    Bundesausschuss als zweckmäßige Vergleichstherapie eine
+    zulassungsüberschreitende Anwendung von Arzneimitteln bestimmen kann
+    oder in denen zusätzliche Nachweise erforderlich sind, und die
+    Voraussetzungen, unter denen Studien bestimmter Evidenzstufen zu
+    verlangen sind; Grundlage sind die internationalen Standards der
+    evidenzbasierten Medizin und der Gesundheitsökonomie,
 
 
 3.  Verfahrensgrundsätze,
@@ -4504,16 +4656,22 @@ vorbehaltlich eines Beschlusses nach Absatz 3b nicht vorgelegt werden.
 Übersteigt der Umsatz des Arzneimittels nach Satz 11 mit der
 gesetzlichen Krankenversicherung zu Apothekenverkaufspreisen sowie
 außerhalb der vertragsärztlichen Versorgung einschließlich
-Umsatzsteuer in den letzten zwölf Kalendermonaten einen Betrag von 50
+Umsatzsteuer in den letzten zwölf Kalendermonaten einen Betrag von 30
 Millionen Euro, so hat der pharmazeutische Unternehmer innerhalb von
 drei Monaten nach Aufforderung durch den Gemeinsamen Bundesausschuss
 Nachweise nach Satz 3 Nummer 2 und 3 zu übermitteln und darin den
 Zusatznutzen gegenüber der zweckmäßigen Vergleichstherapie abweichend
-von Satz 11 nachzuweisen. Der Umsatz nach Satz 12 ist auf Grund der
-Angaben nach § 84 Absatz 5 Satz 4 sowie durch geeignete Erhebungen zu
-ermitteln. Zu diesem Zweck teilt der pharmazeutische Unternehmer dem
-Gemeinsamen Bundesausschuss auf Verlangen die erzielten Umsätze des
-Arzneimittels mit der gesetzlichen Krankenversicherung außerhalb der
+von Satz 11 nachzuweisen. Für Arzneimittel nach Satz 11, die am 1.
+Dezember 2022 die Umsatzschwelle nach Satz 12 überschritten haben und
+noch nicht unter Vorlage der Nachweise nach Satz 3 Nummer 2 und 3
+bewertet wurden, kann der Gemeinsame Bundesausschuss das Verfahren
+zeitlich befristet aussetzen; die Aussetzung lässt die an die
+Überschreitung der Umsatzschwelle anknüpfenden Rechtswirkungen
+unberührt. Der Umsatz nach Satz 12 ist auf Grund der Angaben nach § 84
+Absatz 5 Satz 4 sowie durch geeignete Erhebungen zu ermitteln. Zu
+diesem Zweck teilt der pharmazeutische Unternehmer dem Gemeinsamen
+Bundesausschuss auf Verlangen die erzielten Umsätze des Arzneimittels
+mit der gesetzlichen Krankenversicherung außerhalb der
 vertragsärztlichen Versorgung mit. Abweichend von Satz 11 kann der
 pharmazeutische Unternehmer für Arzneimittel, die zur Behandlung eines
 seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 zugelassen
@@ -4586,6 +4744,49 @@ Resistenzsituation festzulegen. Dazu holt er eine Stellungnahme beim
 Robert Koch-Institut ein, die im Einvernehmen mit dem Bundesinstitut
 für Arzneimittel und Medizinprodukte zu erstellen ist.
 
+(1d) Auf Antrag eines betroffenen pharmazeutischen Unternehmers oder
+mehrerer betroffener pharmazeutischer Unternehmer stellt der
+Gemeinsame Bundesausschuss fest, ob eine Kombination von Arzneimitteln
+mit neuen Wirkstoffen, die aufgrund der arzneimittelrechtlichen
+Zulassung in einer Kombinationstherapie in demselben Anwendungsgebiet
+eingesetzt werden können, einen mindestens beträchtlichen Zusatznutzen
+erwarten lässt. Die Feststellung erfolgt aufgrund von vergleichenden
+Studien in dem Anwendungsgebiet, die von dem pharmazeutischen
+Unternehmer oder von den pharmazeutischen Unternehmern mit dem Antrag
+elektronisch an den Gemeinsamen Bundesausschuss zu übermitteln sind.
+Der Antrag ist unzulässig, wenn bereits
+
+1.  in einem Beschluss nach Absatz 3 Satz 1 ein mindestens beträchtlicher
+    Zusatznutzen der Kombination festgestellt wurde oder
+
+
+2.  ein Verfahren der Nutzenbewertung nach Absatz 1 anhängig ist, im Zuge
+    dessen der Gemeinsame Bundesausschuss erstmalig über die Benennung der
+    Arzneimittel mit neuen Wirkstoffen, die auf Grund der
+    arzneimittelrechtlichen Zulassung in einer Kombinationstherapie mit
+    dem bewerteten Arzneimittel für das zu bewertende Anwendungsgebiet
+    eingesetzt werden können, nach Absatz 3 Satz 4 beschließt.
+
+
+
+Die Rechtsverordnung nach Absatz 1 Satz 7 findet entsprechende
+Anwendung. Der Gemeinsame Bundesausschuss beauftragt das Institut für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen mit einer
+Stellungnahme dazu, ob die vorgelegten Studien einen mindestens
+beträchtlichen Zusatznutzen der Kombination für die Patienten in dem
+Anwendungsgebiet erwarten lassen. Die Stellungnahme ist spätestens
+innerhalb von zwei Monaten nach Stellung des Antrags durch den
+Gemeinsamen Bundesausschuss im Internet zu veröffentlichen. § 92
+Absatz 3a ist mit der Maßgabe anzuwenden, dass lediglich Gelegenheit
+zur schriftlichen Stellungnahme zu geben ist. Der Gemeinsame
+Bundesausschuss beschließt über die Feststellung innerhalb von zwei
+Monaten nach Veröffentlichung der Stellungnahme. Absatz 3 Satz 5 bis 7
+gilt entsprechend. Die Feststellung wird Bestandteil der Beschlüsse
+über die Nutzenbewertung aller Arzneimittel der Kombination, in denen
+bei Bedarf jeweils die Benennung nach Absatz 3 Satz 4 zu ändern ist.
+Eine erneute Feststellung kann entsprechend Absatz 5 Satz 1 bis 4
+beantragt werden.
+
 (2) Der Gemeinsame Bundesausschuss prüft die Nachweise nach Absatz 1
 Satz 3 und entscheidet, ob er die Nutzenbewertung selbst durchführt
 oder hiermit das Institut für Qualität und Wirtschaftlichkeit im
@@ -4601,11 +4802,20 @@ Nachweise abzuschließen und im Internet zu veröffentlichen.
 innerhalb von drei Monaten nach ihrer Veröffentlichung. § 92 Absatz 3a
 gilt entsprechend mit der Maßgabe, dass Gelegenheit auch zur
 mündlichen Stellungnahme zu geben ist. Mit dem Beschluss wird
-insbesondere der Zusatznutzen des Arzneimittels festgestellt. Die
-Geltung des Beschlusses über die Nutzenbewertung kann befristet
-werden. Der Beschluss ist im Internet zu veröffentlichen. Der
-Beschluss ist Teil der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6;
-§ 94 Absatz 1 gilt nicht. Innerhalb eines Monats nach der
+insbesondere der Zusatznutzen des Arzneimittels festgestellt. In dem
+Beschluss benennt der Gemeinsame Bundesausschuss alle Arzneimittel mit
+neuen Wirkstoffen, die aufgrund der arzneimittelrechtlichen Zulassung
+in einer Kombinationstherapie mit dem bewerteten Arzneimittel für das
+zu bewertende Anwendungsgebiet eingesetzt werden können, es sei denn,
+der Gemeinsame Bundesausschuss hat nach Satz 1 einen mindestens
+beträchtlichen Zusatznutzen der Kombination festgestellt oder nach
+Absatz 1d Satz 1 festgestellt, dass die Kombination einen mindestens
+beträchtlichen Zusatznutzen erwarten lässt; bis zum 12. November 2022
+bereits gefasste Beschlüsse sind bis zum 1. Mai 2023 entsprechend zu
+ergänzen. Die Geltung des Beschlusses über die Nutzenbewertung kann
+befristet werden. Der Beschluss ist im Internet zu veröffentlichen.
+Der Beschluss ist Teil der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer
+6; § 94 Absatz 1 gilt nicht. Innerhalb eines Monats nach der
 Beschlussfassung veröffentlicht die Geschäftsstelle des Gemeinsamen
 Bundesausschusses zur Information der Öffentlichkeit zudem den
 Beschluss und die tragenden Gründe in englischer Sprache auf der
@@ -4730,7 +4940,9 @@ Bundesausschuss eine Nutzenbewertung nach Absatz 1 veranlassen, wenn
 für das Arzneimittel eine neue Zulassung mit neuem Unterlagenschutz
 erteilt wird. Satz 1 gilt auch für Arzneimittel mit einem neuen
 Wirkstoff im Sinne des Absatzes 1 Satz 1, wenn für das Arzneimittel
-eine neue Zulassung mit neuem Unterlagenschutz erteilt wird. Das
+eine neue Zulassung mit neuem Unterlagenschutz erteilt wird. Endet das
+Verfahren nach § 130a Absatz 3c ohne Einigung, veranlasst der
+Gemeinsame Bundesausschuss eine Nutzenbewertung nach Absatz 1. Das
 Nähere regelt der Gemeinsame Bundesausschuss in seiner
 Verfahrensordnung.
 
@@ -4933,12 +5145,10 @@ und Kindergärten, bei besonders hohem Pflegebedarf auch in Werkstätten
 für behinderte Menschen als häusliche Krankenpflege Behandlungspflege,
 wenn diese zur Sicherung des Ziels der ärztlichen Behandlung
 erforderlich ist. § 10 der Werkstättenverordnung bleibt unberührt. Der
-Anspruch nach Satz 1 besteht über die dort genannten Fälle hinaus
-ausnahmsweise auch für solche Versicherte in zugelassenen
-Pflegeeinrichtungen im Sinne des § 43 des Elften Buches, die auf
-Dauer, voraussichtlich für mindestens sechs Monate, einen besonders
-hohen Bedarf an medizinischer Behandlungspflege haben; § 37c Absatz 3
-gilt entsprechend. Die Satzung kann bestimmen, dass die Krankenkasse
+Anspruch nach Satz 1 besteht nicht für Versicherte mit einem besonders
+hohen Bedarf an medizinischer Behandlungspflege, die Anspruch auf
+Leistungen nach § 37c haben, soweit diese Leistungen tatsächlich
+erbracht werden. Die Satzung kann bestimmen, dass die Krankenkasse
 zusätzlich zur Behandlungspflege nach Satz 1 als häusliche
 Krankenpflege auch Grundpflege und hauswirtschaftliche Versorgung
 erbringt. Die Satzung kann dabei Dauer und Umfang der Grundpflege und
@@ -4950,11 +5160,7 @@ oder 4 des Elften Buches aufgenommen sind, erhalten Leistungen nach
 Satz 1 und den Sätzen 4 bis 6 auch dann, wenn ihr Haushalt nicht mehr
 besteht und ihnen nur zur Durchführung der Behandlungspflege
 vorübergehender Aufenthalt in einer Einrichtung oder in einer anderen
-geeigneten Unterkunft zur Verfügung gestellt wird. Versicherte
-erhalten in stationären Einrichtungen im Sinne des § 43a des Elften
-Buches Leistungen nach Satz 1, wenn der Bedarf an Behandlungspflege
-eine ständige Überwachung und Versorgung durch eine qualifizierte
-Pflegefachkraft erfordert.
+geeigneten Unterkunft zur Verfügung gestellt wird.
 
 (2a) Die gesetzliche Krankenversicherung beteiligt sich an den Kosten
 der medizinischen Behandlungspflege in vollstationären
@@ -5364,29 +5570,34 @@ Zuzahlung je Kalendertag der Leistungsinanspruchnahme den sich nach §
 ##### § 39 Krankenhausbehandlung
 
 (1) Die Krankenhausbehandlung wird vollstationär, stationsäquivalent,
-teilstationär, vor- und nachstationär sowie ambulant erbracht; sie
-umfasst auch Untersuchungs- und Behandlungsmethoden, zu denen der
-Gemeinsame Bundesausschuss bisher keine Entscheidung nach § 137c
-Absatz 1 getroffen hat und die das Potential einer erforderlichen
+tagesstationär, teilstationär, vor- und nachstationär sowie ambulant
+erbracht; sie umfasst auch Untersuchungs- und Behandlungsmethoden, zu
+denen der Gemeinsame Bundesausschuss bisher keine Entscheidung nach §
+137c Absatz 1 getroffen hat und die das Potential einer erforderlichen
 Behandlungsalternative bieten. Versicherte haben Anspruch auf
-vollstationäre oder stationsäquivalente Behandlung durch ein nach §
-108 zugelassenes Krankenhaus, wenn die Aufnahme oder die Behandlung im
-häuslichen Umfeld nach Prüfung durch das Krankenhaus erforderlich ist,
-weil das Behandlungsziel nicht durch teilstationäre, vor- und
-nachstationäre oder ambulante Behandlung einschließlich häuslicher
-Krankenpflege erreicht werden kann. Die Krankenhausbehandlung umfaßt
-im Rahmen des Versorgungsauftrags des Krankenhauses alle Leistungen,
-die im Einzelfall nach Art und Schwere der Krankheit für die
-medizinische Versorgung der Versicherten im Krankenhaus notwendig
-sind, insbesondere ärztliche Behandlung (§ 28 Abs. 1), Krankenpflege,
-Versorgung mit Arznei-, Heil- und Hilfsmitteln, Unterkunft und
-Verpflegung; die akutstationäre Behandlung umfasst auch die im
-Einzelfall erforderlichen und zum frühestmöglichen Zeitpunkt
-einsetzenden Leistungen zur Frührehabilitation. Die
-stationsäquivalente Behandlung umfasst eine psychiatrische Behandlung
-im häuslichen Umfeld durch mobile ärztlich geleitete
-multiprofessionelle Behandlungsteams. Sie entspricht hinsichtlich der
-Inhalte sowie der Flexibilität und Komplexität der Behandlung einer
+vollstationäre, stationsäquivalente oder tagesstationäre Behandlung
+durch ein nach § 108 zugelassenes Krankenhaus, wenn die Aufnahme oder
+die Behandlung im häuslichen Umfeld nach Prüfung durch das Krankenhaus
+erforderlich ist, weil das Behandlungsziel nicht durch teilstationäre,
+vor- und nachstationäre oder ambulante Behandlung einschließlich
+häuslicher Krankenpflege erreicht werden kann. Die
+Krankenhausbehandlung umfaßt im Rahmen des Versorgungsauftrags des
+Krankenhauses alle Leistungen, die im Einzelfall nach Art und Schwere
+der Krankheit für die medizinische Versorgung der Versicherten im
+Krankenhaus notwendig sind, insbesondere ärztliche Behandlung (§ 28
+Abs. 1), Krankenpflege, Versorgung mit Arznei-, Heil- und
+Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre
+Behandlung umfasst auch die im Einzelfall erforderlichen und zum
+frühestmöglichen Zeitpunkt einsetzenden Leistungen zur
+Frührehabilitation. Die stationsäquivalente Behandlung umfasst eine
+psychiatrische Behandlung im häuslichen Umfeld durch mobile ärztlich
+geleitete multiprofessionelle Behandlungsteams; die tagesstationäre
+Behandlung umfasst einen täglich mindestens sechsstündigen Aufenthalt
+der Patientinnen und Patienten im Krankenhaus, währenddessen
+überwiegend ärztliche oder pflegerische Behandlung erbracht wird, ohne
+Übernachtung im Krankenhaus. Die stationsäquivalente Behandlung und
+die tagesstationäre Behandlung entsprechen hinsichtlich der Inhalte
+sowie der Flexibilität und Komplexität der Behandlung einer
 vollstationären Behandlung. Zur Krankenhausbehandlung gehört auch eine
 qualifizierte ärztliche Einschätzung des Beatmungsstatus im Laufe der
 Behandlung und vor der Verlegung oder Entlassung von
@@ -5846,11 +6057,11 @@ innerhalb von sechs Monaten nach Antragstellung keine notwendigen
 Leistungen zur medizinischen Rehabilitation erbracht worden sind. Satz
 18 gilt nicht, wenn die Krankenkasse die fehlende Leistungserbringung
 nicht zu vertreten hat. Der Spitzenverband Bund der Krankenkassen legt
-über das Bundesministerium für Gesundheit dem Deutschen Bundestag
-erstmalig für das Jahr 2021 bis zum 30. Juni 2022 und danach jährlich
-bis zum 30. Juni 2024 einen Bericht vor, in dem die Erfahrungen mit
-der vertragsärztlichen Verordnung von geriatrischen Rehabilitationen
-wiedergegeben werden.
+über das Bundesministerium für Gesundheit dem Deutschen Bundestag für
+das Jahr 2021 bis zum 30. Juni 2022, für das Jahr 2022 bis zum 30.
+September 2023 und für das Jahr 2023 bis zum 30. September 2024 einen
+Bericht vor, in dem die Erfahrungen mit der vertragsärztlichen
+Verordnung von geriatrischen Rehabilitationen wiedergegeben werden.
 
 (4) Leistungen nach den Absätzen 1 und 2 werden nur erbracht, wenn
 nach den für andere Träger der Sozialversicherung geltenden
@@ -6213,30 +6424,30 @@ unterliegt. § 47 Absatz 1 Satz 6 bis 8 und Absatz 4 Satz 3 bis 5 gilt
 entsprechend.
 
 (2a) Abweichend von Absatz 2 Satz 1 besteht der Anspruch auf
-Krankengeld nach Absatz 1 für das Jahr 2022 für jedes Kind längstens
+Krankengeld nach Absatz 1 für das Jahr 2023 für jedes Kind längstens
 für 30 Arbeitstage, für alleinerziehende Versicherte längstens für 60
 Arbeitstage. Der Anspruch nach Satz 1 besteht für Versicherte für
 nicht mehr als 65 Arbeitstage, für alleinerziehende Versicherte für
 nicht mehr als 130 Arbeitstage. Der Anspruch nach Absatz 1 besteht bis
-zum Ablauf des 19. März 2022 auch dann, wenn Einrichtungen zur
+zum Ablauf des 7. April 2023 auch dann, wenn Einrichtungen zur
 Betreuung von Kindern, Schulen oder Einrichtungen für Menschen mit
 Behinderung zur Verhinderung der Verbreitung von Infektionen oder
-übertragbaren Krankheiten auf Grund des Infektionsschutzgesetzes
-vorübergehend geschlossen werden oder deren Betreten, auch auf Grund
+übertragbaren Krankheiten aufgrund des Infektionsschutzgesetzes
+vorübergehend geschlossen werden oder deren Betreten, auch aufgrund
 einer Absonderung, untersagt wird, oder wenn von der zuständigen
 Behörde aus Gründen des Infektionsschutzes Schul- oder Betriebsferien
-angeordnet oder verlängert werden oder die Präsenzpflicht in einer
-Schule aufgehoben wird oder der Zugang zum Kinderbetreuungsangebot
-eingeschränkt wird, oder das Kind auf Grund einer behördlichen
-Empfehlung die Einrichtung nicht besucht. Die Schließung der Schule,
-der Einrichtung zur Betreuung von Kindern oder der Einrichtung für
-Menschen mit Behinderung, das Betretungsverbot, die Verlängerung der
-Schul- oder Betriebsferien, die Aussetzung der Präsenzpflicht in einer
-Schule, die Einschränkung des Zugangs zum Kinderbetreuungsangebot oder
-das Vorliegen einer behördlichen Empfehlung, vom Besuch der
-Einrichtung abzusehen, ist der Krankenkasse auf geeignete Weise
-nachzuweisen; die Krankenkasse kann die Vorlage einer Bescheinigung
-der Einrichtung oder der Schule verlangen.
+angeordnet oder verlängert werden, die Präsenzpflicht in einer Schule
+aufgehoben oder der Zugang zum Kinderbetreuungsangebot eingeschränkt
+wird oder das Kind aufgrund einer behördlichen Empfehlung die
+Einrichtung nicht besucht. Die Schließung der Schule, der Einrichtung
+zur Betreuung von Kindern oder der Einrichtung für Menschen mit
+Behinderung, das Betretungsverbot, die Verlängerung der Schul- oder
+Betriebsferien, die Aussetzung der Präsenzpflicht in einer Schule, die
+Einschränkung des Zugangs zum Kinderbetreuungsangebot oder das
+Vorliegen einer behördlichen Empfehlung, vom Besuch der Einrichtung
+abzusehen, ist der Krankenkasse auf geeignete Weise nachzuweisen; die
+Krankenkasse kann die Vorlage einer Bescheinigung der Einrichtung oder
+der Schule verlangen.
 
 (2b) Für die Zeit des Bezugs von Krankengeld nach Absatz 1 in
 Verbindung mit Absatz 2a Satz 3 ruht für beide Elternteile der
@@ -6393,7 +6604,7 @@ dreihundertsechzigste Teil dieses Betrages anzusetzen. Die Zahl
 dreihundertsechzig ist um die Zahl der Kalendertage zu vermindern, in
 denen eine Versicherungspflicht nach dem
 Künstlersozialversicherungsgesetz nicht bestand oder für die nach §
-234 Abs. 1 Satz 3 Arbeitseinkommen nicht zugrunde zu legen ist. Die
+234 Absatz 1 Satz 2 Arbeitseinkommen nicht zugrunde zu legen ist. Die
 Beträge nach § 226 Abs. 1 Satz 1 Nr. 2 und 3 bleiben außer Betracht.
 
 (5) (weggefallen)
@@ -6652,12 +6863,7 @@ oder einen Antrag auf Rente wegen voller Erwerbsminderung bei einem
 Träger der gesetzlichen Rentenversicherung mit Sitz im Inland zu
 stellen haben.
 
-(1a) Beziehen Versicherte eine Teilrente wegen Alters aus der
-gesetzlichen Rentenversicherung und ist absehbar, dass die
-Hinzuverdienstgrenze nach § 34 Absatz 2 des Sechsten Buches nicht
-überschritten wird, so kann die Krankenkasse eine Frist von vier
-Wochen setzen, innerhalb derer die Versicherten einen Antrag nach § 34
-Absatz 3e des Sechsten Buches zu stellen haben.
+(1a) (weggefallen)
 
 (2) Erfüllen Versicherte die Voraussetzungen für den Bezug der
 Regelaltersrente der gesetzlichen Rentenversicherung oder der
@@ -6668,10 +6874,7 @@ innerhalb der sie den Antrag auf diese Leistung zu stellen haben.
 (3) Stellen Versicherte innerhalb der Frist den Antrag nicht, entfällt
 der Anspruch auf Krankengeld mit Ablauf der Frist. Wird der Antrag
 später gestellt, lebt der Anspruch auf Krankengeld mit dem Tag der
-Antragstellung wieder auf. Ergibt sich im Falle des Absatzes 1a, dass
-die Hinzuverdienstgrenze nach Feststellung des
-Rentenversicherungsträgers überschritten wird, besteht abweichend von
-Satz 1 rückwirkend ein Anspruch auf Krankengeld ab Ablauf der Frist.
+Antragstellung wieder auf.
 
 
 #### Dritter Titel - Leistungsbeschränkungen
@@ -7619,11 +7822,17 @@ interprofessionelle Zusammenarbeit zu entwickeln. Die Vorhaben
 beginnen spätestens am 1. Januar 2023. Die Spitzenorganisationen nach
 § 132a Absatz 1 Satz 1 und die Kassenärztliche Bundesvereinigung legen
 in einem Rahmenvertrag die Einzelheiten bis zum 31. März 2022 fest.
-Der Bundespflegekammer und den Verbänden der Pflegeberufe auf
-Bundesebene und der Bundesärztekammer ist vor Abschluss des
-Rahmenvertrages Gelegenheit zur Stellungnahme zu geben.
+Bis zum 31. Dezember 2022 sind in dem Rahmenvertrag nach Satz 4 unter
+vertraglicher Beteiligung der Vereinigungen der Träger von
+Pflegeheimen Regelungen für eine Durchführung von Modellvorhaben nach
+Satz 1 in Pflegeheimen im Sinne des § 71 Absatz 2 des Elften Buches zu
+treffen, die eine Teilnahme von Pflegeheimen an Modellvorhaben
+spätestens ab dem 1. April 2023 ermöglichen. Der Bundespflegekammer
+und den Verbänden der Pflegeberufe auf Bundesebene und der
+Bundesärztekammer ist vor Abschluss des Rahmenvertrages Gelegenheit
+zur Stellungnahme zu geben.
 
-(2) In dem Rahmenvertrag nach Absatz 1 Satz 4 ist insbesondere
+(2) In dem Rahmenvertrag nach Absatz 1 Satz 4 und 5 ist insbesondere
 folgendes festzulegen:
 
 1.  ein Katalog der ärztlichen Tätigkeiten, die von Pflegefachkräften nach
@@ -7646,10 +7855,10 @@ folgendes festzulegen:
 
 
 Kommt der Rahmenvertrag nicht innerhalb der Frist nach Absatz 1 Satz 4
-zustande, wird der Inhalt des Rahmenvertrages durch eine von den
-Vertragspartnern zu bestimmende unabhängige Schiedsperson innerhalb
-von drei Monaten auf Antrag einer der Vertragspartner oder des
-Bundesministeriums für Gesundheit festgelegt. Einigen sich die
+oder Satz 5 zustande, wird der Inhalt des Rahmenvertrages durch eine
+von den Vertragspartnern zu bestimmende unabhängige Schiedsperson
+innerhalb von drei Monaten auf Antrag einer der Vertragspartner oder
+des Bundesministeriums für Gesundheit festgelegt. Einigen sich die
 Vertragspartner nicht auf eine Schiedsperson, so wird diese vom
 Bundesamt für Soziale Sicherung bestimmt. Die Kosten des
 Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
@@ -7658,18 +7867,19 @@ Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
 65 gilt mit der Maßgabe, dass der Evaluationsbericht einen Vorschlag
 zur Übernahme in die Regelversorgung enthalten muss. Nach Ablauf der
 Befristung und bis zur Vorlage des Evaluationsberichts können die
-Beteiligten nach Absatz 1 Satz 1 das Modellvorhaben auf Grundlage
-eines Vertrages über eine besondere Versorgung der Versicherten nach §
-140a fortführen. Enthält der Evaluationsbericht einen Vorschlag, der
-die Übernahme in die Regelversorgung empfiehlt, können die Beteiligten
-nach Absatz 1 Satz 1 das Modellvorhaben im Rahmen eines Vertrages über
-eine besondere Versorgung der Versicherten nach § 140a fortführen.
+Beteiligten nach Absatz 1 Satz 1 und 5 das Modellvorhaben auf
+Grundlage eines Vertrages über eine besondere Versorgung der
+Versicherten nach § 140a fortführen. Enthält der Evaluationsbericht
+einen Vorschlag, der die Übernahme in die Regelversorgung empfiehlt,
+können die Beteiligten nach Absatz 1 Satz 1 und 5 das Modellvorhaben
+im Rahmen eines Vertrages über eine besondere Versorgung der
+Versicherten nach § 140a fortführen.
 
 
 #### § 64e Modellvorhaben zur umfassenden Diagnostik und Therapiefindung mittels Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen, Verordnungsermächtigung
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt bis zum 1.
-Januar 2023 mit den Leistungserbringern, deren Berechtigung zur
+Januar 2024 mit den Leistungserbringern, deren Berechtigung zur
 Teilnahme am Modellvorhaben nach Absatz 4 Satz 2 festgestellt worden
 ist, mit bindender Wirkung für die Krankenkassen einen einheitlichen
 Vertrag zur Durchführung eines Modellvorhabens zur umfassenden
@@ -7953,7 +8163,7 @@ entsprechend. § 136c Absatz 5 Satz 3 und § 140a Absatz 2 Satz 7 gelten
 entsprechend.
 
 (8) Kommt ein Vertrag nach Absatz 1 Satz 1 ganz oder teilweise nicht
-bis zum 1. Januar 2023 zu Stande, wird der Vertragsinhalt von einer
+bis zum 1. Januar 2024 zu Stande, wird der Vertragsinhalt von einer
 von den Vertragsparteien gemeinsam zu benennenden unabhängigen
 Schiedsperson innerhalb von drei Monaten festgelegt. Kann das nach
 Absatz 7 Satz 4 erforderliche Einvernehmen nicht hergestellt werden,
@@ -8245,52 +8455,287 @@ Einsparungen erzielt, dürfen keine Boni für die entsprechenden
 Versorgungsformen gewährt werden.
 
 
-#### § 65b Förderung von Einrichtungen zur Verbraucher- und Patientenberatung
+#### § 65b Stiftung Unabhängige Patientenberatung Deutschland
 
-(1) Der Spitzenverband Bund der Krankenkassen fördert Einrichtungen,
-die Verbraucherinnen und Verbraucher sowie Patientinnen und Patienten
-in gesundheitlichen und gesundheitsrechtlichen Fragen
-qualitätsgesichert und kostenfrei informieren und beraten, mit dem
-Ziel, die Patientenorientierung im Gesundheitswesen zu stärken und
-Problemlagen im Gesundheitssystem aufzuzeigen. Der Spitzenverband Bund
-der Krankenkassen darf auf den Inhalt oder den Umfang der
-Beratungstätigkeit keinen Einfluss nehmen. Die Förderung einer
-Einrichtung zur Verbraucher- und Patientenberatung setzt deren
-Nachweis über ihre Neutralität und Unabhängigkeit voraus. Im Hinblick
-auf eine zukünftige institutionelle Neuausrichtung wird die
-Verbraucher- und Patientenberatung ab dem Jahr 2023 für zwölf Monate
-von der UPD Patientenberatung Deutschland gGmbH unter der Trägerschaft
-des Fördermittelnehmers der Jahre 2016 bis 2022 durchgeführt. Die oder
-der Beauftragte der Bundesregierung für die Belange der Patientinnen
-und Patienten und der Spitzenverband Bund der Krankenkassen werden
-während der Förderphase durch einen Beirat beraten. Der Beirat tagt
-unter der Leitung der oder des Beauftragten der Bundesregierung für
-die Belange der Patientinnen und Patienten mindestens zweimal
-jährlich; ihm gehören Vertreterinnen und Vertreter der Wissenschaften
-und Patientenorganisationen, zwei Vertreterinnen oder Vertreter des
-Bundesministeriums für Gesundheit und eine Vertreterin oder ein
-Vertreter des Bundesministeriums der Justiz und für Verbraucherschutz
-sowie im Fall einer angemessenen finanziellen Beteiligung der privaten
-Krankenversicherungen an der Förderung nach Satz 1 eine Vertreterin
-oder ein Vertreter des Verbandes der privaten Krankenversicherung an.
-Der Spitzenverband Bund der Krankenkassen hat den Beirat jährlich über
-Angelegenheiten betreffend die Förderung nach Satz 1 zu unterrichten.
-Der nach Satz 1 geförderten Beratungseinrichtung ist auf Antrag die
-Gelegenheit zu geben, sich gegenüber dem Beirat zu äußern.
+(1) Der Spitzenverband Bund der Krankenkassen muss eine rechtsfähige
+Stiftung bürgerlichen Rechts errichten; er hat dafür das notwendige
+Stiftungsvermögen bereitzustellen, das notwendige Stiftungsgeschäft zu
+tätigen und die Anerkennung der Stiftung zu beantragen. Die Stiftung
+soll den Namen „Stiftung Unabhängige Patientenberatung Deutschland“
+tragen. Die Stiftung soll ihre Informations- und Beratungstätigkeit am
+1\. Januar 2024 aufnehmen. Zweck der Stiftung ist es, eine unabhängige,
+qualitätsgesicherte und kostenfreie Information und Beratung von
+Patientinnen und Patienten in gesundheitlichen und
+gesundheitsrechtlichen Fragen sicherzustellen. Hierdurch sollen die
+Gesundheitskompetenz der Patientinnen und Patienten und die
+Patientenorientierung im Gesundheitswesen gestärkt und mögliche
+Problemlagen im Gesundheitssystem aufgezeigt werden. Der
+Spitzenverband Bund der Krankenkassen soll den Inhalt des
+Stiftungsgeschäfts einschließlich der Bestimmung des Stiftungssitzes
+im Einvernehmen mit dem Bundesministerium für Gesundheit und im
+Benehmen mit der oder dem Beauftragten der Bundesregierung für die
+Belange der Patientinnen und Patienten festlegen.
 
-(2) Die Fördersumme nach Absatz 1 Satz 1 beträgt im Jahr 2016
-insgesamt 9 000 000 Euro und ist in den Folgejahren entsprechend der
-prozentualen Veränderung der monatlichen Bezugsgröße nach § 18 Absatz
-1 des Vierten Buches anzupassen. Sie umfasst auch die für die
-Qualitätssicherung und die Berichterstattung notwendigen Aufwendungen.
-Die Fördermittel nach Satz 1 werden durch eine Umlage der
-Krankenkassen gemäß dem Anteil ihrer eigenen Mitglieder an der
-Gesamtzahl der Mitglieder aller Krankenkassen erbracht. Die Zahl der
-Mitglieder der Krankenkassen ist nach dem Vordruck KM6 der Statistik
-über die Versicherten in der gesetzlichen Krankenversicherung jeweils
-zum 1. Juli eines Jahres zu bestimmen.
+(2) Für die Erfüllung des Stiftungszwecks nach Absatz 1 Satz 4
+betreibt die Stiftung bundesweit ein zentral organisiertes digitales
+und telefonisches Informations- und Beratungsangebot und hält in jedem
+Land regionale Informations- und Beratungsangebote vor. Sie kann dazu
+mit anderen geeigneten Einrichtungen zusammenarbeiten. Die Information
+und Beratung der Patientinnen und Patienten hat niedrigschwellig,
+bürgernah, barrierefrei, zielgruppengerecht und qualitätsgesichert zu
+erfolgen. Die nähere Ausgestaltung des Beratungs- und
+Informationsangebots obliegt dem Stiftungsvorstand. Für die Beratung
+in gesundheitsrechtlichen Fragen gilt § 6 Absatz 2 des
+Rechtsdienstleistungsgesetzes entsprechend.
 
-(3) (weggefallen)
+(3) In der Stiftungssatzung sind als Organe der Stiftung vorzusehen:
+
+1.  der Stiftungsvorstand,
+
+
+2.  der Stiftungsrat und
+
+
+3.  der wissenschaftliche Beirat.
+
+
+
+
+(4) Geschäftsführendes Organ der Stiftung ist der Stiftungsvorstand.
+Er besteht aus zwei Mitgliedern. Sie werden durch den Stiftungsrat
+bestellt und abberufen. Die Mitglieder des Stiftungsvorstands üben
+ihre Tätigkeit hauptamtlich aus; die Stiftungssatzung regelt
+insbesondere auch das Nähere zum Bewerbungsverfahren für die Gewinnung
+von Personen als Mitglieder des Stiftungsvorstands. Die in der
+Verordnung nach § 140g genannten oder nach der Verordnung anerkannten
+Organisationen schlagen dem Stiftungsrat einvernehmlich zwei Personen
+zur Berufung in den Stiftungsvorstand vor. Der Stiftungsrat kann den
+Vorschlag nur aus wichtigem Grund ablehnen. Erfolgt innerhalb einer in
+der Stiftungssatzung festgelegten Frist kein einvernehmlicher
+Vorschlag, bestellt der Stiftungsrat die Mitglieder des
+Stiftungsvorstands, ohne an Vorschläge der in der Verordnung nach §
+140g genannten oder nach der Verordnung anerkannten Organisationen
+gebunden zu sein. Die Amtszeit des Stiftungsvorstands beträgt fünf
+Jahre. Die erneute Bestellung ist zulässig.
+
+(5) Dem Stiftungsvorstand obliegen alle Stiftungsaufgaben, soweit sie
+nicht dem Stiftungsrat nach Absatz 7 vorbehalten sind. Die Aufgaben
+und Pflichten des Stiftungsvorstands sind insbesondere,
+
+1.  die Geschäfte der Stiftung in eigener Verantwortung so zu führen, wie
+    es die Förderung ihres Zwecks nach Absatz 1 Satz 4 erfordert, und
+    jährlich einen Haushaltsplan vorzubereiten,
+
+
+2.  den Stiftungsrat bei Entscheidungen und Fragen von grundsätzlicher
+    Bedeutung, die der Verwirklichung des Stiftungszwecks nach Absatz 1
+    Satz 4 dienen, hinzuzuziehen,
+
+
+3.  auf Vorschlag des Stiftungsrats die Mitglieder des wissenschaftlichen
+    Beirats nach Absatz 9 Satz 3 zu bestellen und abzuberufen,
+
+
+4.  den Stiftungsrat und den wissenschaftlichen Beirat regelmäßig,
+    mindestens zweimal jährlich, über die Geschäfte der Stiftung zu
+    unterrichten sowie dem Stiftungsrat jährlich einen Bericht zu den
+    Schwerpunkten und Problemlagen im Gesundheitssystem und in der
+    Beratungstätigkeit der Stiftung vorzulegen,
+
+
+5.  zu gewährleisten, dass die Information und Beratung zu
+    gesundheitlichen und gesundheitsrechtlichen Themen auf Basis des
+    Standes der aktuellen wissenschaftlichen Erkenntnisse erfolgen und am
+    Beratungsbedarf der Bevölkerung ausgerichtet sind,
+
+
+6.  Sorge dafür zu tragen, dass Beschäftigte der Stiftung oder an der
+    Verfolgung des Stiftungszwecks beteiligte Institutionen und Personen
+    nicht tätig werden, wenn und soweit bei diesen ein wirtschaftliches
+    oder sonstiges Interesse vorliegt, das geeignet ist, die
+    Unabhängigkeit des Informations- und Beratungsangebots vorübergehend
+    oder dauerhaft zu gefährden,
+
+
+7.  nach Ablauf jedes Kalenderjahres den Jahresabschluss und einen Bericht
+    über die Erfüllung des Stiftungszwecks nach Absatz 1 Satz 4 zu
+    erstellen und den Bericht barrierefrei zu veröffentlichen und
+
+
+8.  im Einvernehmen mit dem Stiftungsrat eine externe und unabhängige
+    Überprüfung des Jahresabschlusses in Auftrag zu geben; die Kosten
+    hierfür werden aus der jährlichen Zuwendung nach Absatz 11 Satz 1
+    finanziert.
+
+
+
+
+(6) Dem Stiftungsrat sollen angehören:
+
+1.  die oder der Beauftragte der Bundesregierung für die Belange der
+    Patientinnen und Patienten als dem Stiftungsrat vorsitzende Person,
+
+
+2.  sieben benannte ehrenamtliche Vertreterinnen und Vertreter von
+    Organisationen, die sich für die Belange von Patientinnen und
+    Patienten einsetzen,
+
+
+3.  zwei benannte Mitglieder des Deutschen Bundestages,
+
+
+4.  je eine benannte Vertreterin oder ein benannter Vertreter des
+    Bundesministeriums für Gesundheit und des in der Bundesregierung für
+    den Verbraucherschutz zuständigen Ressorts,
+
+
+5.  zwei benannte Vertreterinnen oder Vertreter des Spitzenverbandes Bund
+    der Krankenkassen und
+
+
+6.  im Fall einer anteiligen finanziellen Beteiligung der privaten
+    Krankenversicherungsunternehmen in Höhe von 7 Prozent an der
+    Finanzierung nach Absatz 11 Satz 5 eine benannte Vertreterin oder ein
+    benannter Vertreter des Verbandes der Privaten Krankenversicherung e.
+    V.
+
+
+
+Die in der Verordnung nach § 140g genannten oder nach der Verordnung
+anerkannten Organisationen benennen die Mitglieder des Stiftungsrats
+nach Satz 1 Nummer 2. Die in Satz 1 Nummer 3 bis 6 und Satz 2
+genannten Institutionen benennen die Mitglieder des Stiftungsrats
+jeweils durch Erklärung in Textform gegenüber der oder dem
+Beauftragten der Bundesregierung für die Belange der Patientinnen und
+Patienten binnen einer von ihr oder ihm gesetzten Frist. Erfolgt die
+Benennung der Mitglieder des Stiftungsrats nach Satz 1 Nummer 2 nicht
+fristgerecht, benennt die oder der Beauftragte der Bundesregierung für
+die Belange der Patientinnen und Patienten die Mitglieder des
+Stiftungsrats nach Satz 1 Nummer 2. Die Amtszeit der Mitglieder des
+Stiftungsrats beträgt fünf Jahre. Die Amtszeit kann um eine zweite
+Amtszeit verlängert werden. Stellen die privaten
+Krankenversicherungsunternehmen die finanzielle Beteiligung vor Ablauf
+der Amtszeit nach Satz 5 oder 6 ein, endet die Mitgliedschaft der
+Vertreterin oder des Vertreters nach Satz 1 Nummer 6; die
+Stiftungssatzung regelt insbesondere das Nähere zu dem Zeitpunkt und
+den Folgen des Verlusts der Mitgliedschaft.
+
+(7) Der Stiftungsrat hat insbesondere folgende Aufgaben:
+
+1.  die Mitglieder des Stiftungsvorstands nach Absatz 4 Satz 3 zu
+    bestellen und abzuberufen,
+
+
+2.  die Personen vorzuschlagen, die zu Mitgliedern des wissenschaftlichen
+    Beirats nach Absatz 9 Satz 3 bestellt und als Mitglieder abberufen
+    werden,
+
+
+3.  den Stiftungsvorstand bei der Verfolgung des Stiftungszwecks nach
+    Absatz 1 Satz 4 zu unterstützen und zu beaufsichtigen,
+
+
+4.  über den Haushalt der Stiftung zu entscheiden und die Haushalts- und
+    Wirtschaftsführung sowie die Rechnungslegung zu kontrollieren,
+
+
+5.  über die erforderlichen Maßnahmen nach Absatz 10 Satz 5 zu
+    entscheiden,
+
+
+6.  über Änderungen der Stiftungssatzung zu beschließen und
+
+
+7.  zu dem Bericht des Stiftungsvorstands nach Absatz 5 Satz 2 Nummer 4 zu
+    den Schwerpunkten und Problemlagen im Gesundheitssystem und in der
+    Beratungstätigkeit der Stiftung Stellung zu nehmen.
+
+
+
+
+(8) Der Stiftungsrat beschließt mit der Mehrheit der Stimmen der
+anwesenden Mitglieder; Beschlüsse nach Absatz 7 Nummer 6 bedürfen
+einer Mehrheit von zwei Dritteln der anwesenden Mitglieder. Er ist
+beschlussfähig, wenn mehr als die Hälfte seiner Mitglieder anwesend
+sind. Bei Stimmengleichheit entscheidet die Stimme der oder des
+Vorsitzenden oder von dessen Vertretung. Die Mitglieder, die von dem
+Spitzenverband Bund der Krankenkassen und dem Verband der Privaten
+Krankenversicherung e. V. benannt sind, haben ein Stimmrecht
+ausschließlich bei Beschlüssen über die Erteilung des Einvernehmens
+des Stiftungsrats zur Beauftragung einer externen und unabhängigen
+Überprüfung des Jahresabschlusses durch den Stiftungsvorstand nach
+Absatz 5 Satz 2 Nummer 8, die Bestellung und Abberufung der Mitglieder
+des Stiftungsvorstands nach Absatz 7 Nummer 1 und die Änderung der
+Stiftungssatzung nach Absatz 7 Nummer 6 sowie bei Entscheidungen über
+die Haushaltsaufstellung und die Kontrolle der Haushalts- und
+Wirtschaftsführung sowie der Rechnungslegung nach Absatz 7 Nummer 4.
+Die Mitglieder, die von dem Spitzenverband Bund der Krankenkassen
+benannt sind, können gegen Anträge zur Beschlussfassung über die
+Haushaltsaufstellung und die Kontrolle der Haushalts- und
+Wirtschaftsführung sowie der Rechnungslegung nach Absatz 7 Nummer 4
+begründeten Einspruch erheben. Wurde gegen einen Antrag ganz oder
+teilweise Einspruch erhoben, können die Anträge zur
+Haushaltsaufstellung und die Kontrolle der Haushalts- und
+Wirtschaftsführung sowie der Rechnungslegung nach Absatz 7 Nummer 4,
+soweit gegen sie Einspruch erhoben wurde, nur mit einer Mehrheit von
+drei Vierteln der anwesenden Mitglieder beschlossen werden. Das Nähere
+wird in der Stiftungssatzung geregelt.
+
+(9) Dem wissenschaftlichen Beirat gehören sechs unabhängige
+Sachverständige an. Die Mitglieder des wissenschaftlichen Beirats
+nehmen ihre Aufgaben ehrenamtlich wahr. Sie werden vom
+Stiftungsvorstand auf Vorschlag des Stiftungsrats bestellt und
+abberufen. Die Amtszeit beträgt fünf Jahre und kann um eine zweite
+Amtszeit verlängert werden. Der wissenschaftliche Beirat berät den
+Stiftungsvorstand und den Stiftungsrat bei grundsätzlichen Fragen, die
+sich bei der Erfüllung ihrer Aufgaben ergeben.
+
+(10) Die Tätigkeit der Stiftung ist alle zwei Jahre extern und
+unabhängig zu evaluieren. Gegenstand der Evaluierung ist die
+Überprüfung
+
+1.  der Zweckerfüllung der Stiftung,
+
+
+2.  der Unabhängigkeit des Informations- und Beratungsangebots,
+
+
+3.  der wissenschaftlichen Qualität des Informations- und
+    Beratungsangebots sowie
+
+
+4.  der Beratungszahlen.
+
+
+
+Die Evaluation wird durch den Stiftungsvorstand mit Zustimmung des
+Stiftungsrats in Auftrag gegeben. Die Evaluation wird aus der
+Zuwendung nach Absatz 11 Satz 1 finanziert. Bei Mängeln, die sich bei
+der Evaluation ergeben haben, entscheidet der Stiftungsrat über
+erforderliche Maßnahmen zu deren Beseitigung.
+
+(11) Der Spitzenverband Bund der Krankenkassen wendet der Stiftung ab
+dem 1. Januar 2024 einen Gesamtbetrag von jährlich 15 Millionen Euro
+zu. Der Spitzenverband Bund der Krankenkassen vereinbart mit der
+Stiftung das Nähere zur Finanzierung nach Satz 1. Der Spitzenverband
+Bund der Krankenkassen erhebt zur Finanzierung nach Satz 1 von den
+Krankenkassen eine Umlage gemäß dem Anteil ihrer Versicherten an der
+Gesamtzahl der Versicherten aller Krankenkassen. Das Nähere zum
+Umlageverfahren bestimmt der Spitzenverband Bund der Krankenkassen.
+Die privaten Krankenversicherungsunternehmen können sich anteilig in
+Höhe von 7 Prozent an den Kosten der Finanzierung beteiligen. In
+diesem Fall verringert sich der von dem Spitzenverband Bund der
+Krankenkassen zuzuwendende Gesamtbetrag nach Satz 1 um den
+entsprechenden Betrag. Im Fall einer finanziellen Beteiligung
+vereinbart der Verband der Privaten Krankenversicherung e. V. mit
+Wirkung für die privaten Krankenversicherungsunternehmen mit der
+Stiftung das Nähere zur finanziellen Beteiligung. Der Betrag nach Satz
+1 ist in den Folgejahren entsprechend der prozentualen Veränderung der
+monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches
+anzupassen. Der Spitzenverband Bund der Krankenkassen und der Verband
+der Privaten Krankenversicherung e. V. dürfen auf die Tätigkeit der
+Stiftung keinen Einfluss nehmen; die Tätigkeit der von ihnen
+entsandten Mitglieder des Stiftungsrats bleibt hiervon unberührt.
 
 
 #### § 65c Klinische Krebsregister
@@ -8981,13 +9426,8 @@ ausschließlich geeignete Dienste der Telematikinfrastruktur zu
 verwenden, sobald diese zur Verfügung stehen.
 
 
-#### § 68 Finanzierung einer persönlichen elektronischen Gesundheitsakte
+#### § 68 (weggefallen)
 
-Zur Verbesserung der Qualität und der Wirtschaftlichkeit der
-Versorgung können die Krankenkassen ihren Versicherten zu von Dritten
-angebotenen Dienstleistungen der elektronischen Speicherung und
-Übermittlung patientenbezogener Gesundheitsdaten finanzielle
-Unterstützung gewähren. Das Nähere ist durch die Satzung zu regeln.
 
 
 #### § 68a Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
@@ -9645,8 +10085,8 @@ folgende Inhalte mit dem jeweils aktuellen Stand enthalten:
 5.  die Informationen nach § 35a Absatz 3a Satz 1 und
 
 
-6.  ab dem 1. Juli 2023 das Schulungsmaterial nach § 34 Absatz 1f Satz 2
-    des Arzneimittelgesetzes und die Informationen nach § 34 Absatz 1h
+6.  ab dem 1. Oktober 2023 das Schulungsmaterial nach § 34 Absatz 1f Satz
+    2 des Arzneimittelgesetzes und die Informationen nach § 34 Absatz 1h
     Satz 3 des Arzneimittelgesetzes, auch in Verbindung mit § 39 Absatz 2e
     des Arzneimittelgesetzes oder § 39d Absatz 6 des Arzneimittelgesetzes
 
@@ -9689,10 +10129,12 @@ der Therapie sowie die Frequenz der Behandlungseinheiten vom
 Heilmittelerbringer festzulegen. In medizinisch begründeten Fällen
 kann der Vertragsarzt auch bei Vorliegen einer Diagnose nach § 125a
 selbst über die Auswahl und Dauer der Therapie sowie die Frequenz der
-Behandlungseinheiten entscheiden. Die Vertragsärzte sollen zum Beginn
-des auf den rechtskräftigen Abschluss des Vertrages nach § 125a
-folgenden Quartals, frühestens jedoch nach sechs Wochen, nach den
-Regelungen dieses Absatzes verordnen.
+Behandlungseinheiten entscheiden; in diesem Fall sind auf die
+Verordnung die Regelungen der Verträge nach § 125 Absatz 1 anzuwenden.
+Die Vertragsärzte sollen zum Beginn des auf den rechtskräftigen
+Abschluss des Vertrages nach § 125a folgenden Quartals, frühestens
+jedoch nach sechs Wochen, nach den Regelungen dieses Absatzes
+verordnen.
 
 
 ##### § 73a (weggefallen)
@@ -10765,7 +11207,7 @@ durch sonstige Einnahmen gedeckt werden. Für die Kassenärztlichen
 Bundesvereinigungen gelten für das Haushalts- und Rechnungswesen
 einschließlich der Statistiken die §§ 67 bis 70 Absatz 1 und 5, die §§
 72 bis 77 Absatz 1 und 1a und die §§ 78 und 79 Absatz 1 und 2 in
-Verbindung mit Absatz 3a, für das Vermögen die §§ 80 bis 83 und 85 des
+Verbindung mit Absatz 3a, für das Vermögen die §§ 80 bis 86 des
 Vierten Buches sowie § 220 Absatz 1 Satz 2 und für die Verwendung der
 Mittel § 305b entsprechend. Die Jahresrechnung nach § 77 Absatz 1a des
 Vierten Buches ist für das abgelaufene Haushaltsjahr bis zum 1.
@@ -10782,9 +11224,9 @@ zurückzuzahlen.
 (6) Für die Kassenärztlichen Vereinigungen gelten für das Haushalts-
 und Rechnungswesen einschließlich der Statistiken die §§ 67 bis 70
 Absatz 1 und 5, die §§ 72 bis 77 Absatz 1 und die §§ 78 und 79 Absatz
-1 und 2 in Verbindung mit Absatz 3a, für das Vermögen die §§ 80 und 85
-des Vierten Buches und für die Verwendung der Mittel § 305b
-entsprechend.
+1 und 2 in Verbindung mit Absatz 3a, für das Vermögen die §§ 80 bis 86
+des Vierten Buches sowie § 220 Absatz 1 Satz 2 und für die Verwendung
+der Mittel § 305b entsprechend.
 
 
 ##### § 78a Aufsichtsmittel in besonderen Fällen bei den Kassenärztlichen Bundesvereinigungen
@@ -11023,16 +11465,19 @@ ohne Sitzung schriftlich abstimmen.
 
 (4) Der Vorstand der Kassenärztlichen Vereinigungen und der
 Kassenzahnärztlichen Bundesvereinigung besteht aus bis zu drei
-Mitgliedern. Der Vorstand der Kassenärztlichen Bundesvereinigung
-besteht aus drei Mitgliedern. Bei Meinungsverschiedenheiten im
-Vorstand der Kassenärztlichen Bundesvereinigung entscheidet der
-Vorstand mit der Mehrheit seiner Mitglieder. Bei Stimmengleichheit
-entscheidet der Vorsitzende. Die Mitglieder des Vorstandes vertreten
-sich gegenseitig. Sie üben ihre Tätigkeit hauptamtlich aus. Wird ein
-Arzt in den hauptamtlichen Vorstand gewählt, kann er eine ärztliche
-Tätigkeit als Nebentätigkeit in begrenztem Umfang weiterführen oder
-seine Zulassung ruhen lassen. Die Amtszeit beträgt sechs Jahre, es sei
-denn, ein Vorstandsmitglied wird während der laufenden Amtsdauer der
+Mitgliedern; besteht der Vorstand aus mehreren Mitgliedern, müssen ihm
+mindestens eine Frau und mindestens ein Mann angehören. Der Vorstand
+der Kassenärztlichen Bundesvereinigung besteht aus drei Mitgliedern;
+dem Vorstand müssen mindestens eine Frau und mindestens ein Mann
+angehören. Bei Meinungsverschiedenheiten im Vorstand der
+Kassenärztlichen Bundesvereinigung entscheidet der Vorstand mit der
+Mehrheit seiner Mitglieder. Bei Stimmengleichheit entscheidet der
+Vorsitzende. Die Mitglieder des Vorstandes vertreten sich gegenseitig.
+Sie üben ihre Tätigkeit hauptamtlich aus. Wird ein Arzt in den
+hauptamtlichen Vorstand gewählt, kann er eine ärztliche Tätigkeit als
+Nebentätigkeit in begrenztem Umfang weiterführen oder seine Zulassung
+ruhen lassen. Die Amtszeit beträgt sechs Jahre, es sei denn, ein
+Vorstandsmitglied wird während der laufenden Amtsdauer der
 Vertreterversammlung gewählt; die Wiederwahl ist möglich. Die Höhe der
 jährlichen Vergütungen der einzelnen Vorstandsmitglieder
 einschließlich aller Nebenleistungen sowie sämtliche
@@ -11726,6 +12171,23 @@ vertragsärztlichen Versorgung beteiligten Arztgruppen zugrunde gelegt
 werden; sie können auch die Grundlagen für die Bemessung der
 Vergütungsanteile regeln. § 89 Abs. 1 gilt nicht.
 
+(2d) Die Punktwerte für zahnärztliche Leistungen ohne Zahnersatz
+dürfen im Jahr 2023 gegenüber dem Vorjahr höchstens um die um 0,75
+Prozentpunkte verminderte durchschnittliche Veränderungsrate nach § 71
+Absatz 3 angehoben werden. Die Punktwerte für zahnärztliche Leistungen
+ohne Zahnersatz dürfen im Jahr 2024 gegenüber dem Vorjahr höchstens um
+die um 1,5 Prozentpunkte verminderte durchschnittliche
+Veränderungsrate nach § 71 Absatz 3 angehoben werden. Die Sätze 1 und
+2 gelten nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5,
+§ 87 Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis
+für Versicherte, die einem Pflegegrad nach § 15 des Elften Buches
+zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten
+Buches leistungsberechtigt sind. Das Bundesministerium für Gesundheit
+evaluiert bis zum 30. September 2023 die Auswirkungen der Begrenzung
+der Anhebungen der Punktwerte nach Satz 1 auf den Umfang der
+Versorgung der Versicherten mit Leistungen zur Behandlung von
+Parodontitis.
+
 (3) In der vertragszahnärztlichen Versorgung vereinbaren die
 Vertragsparteien des Gesamtvertrages die Veränderungen der
 Gesamtvergütungen unter Berücksichtigung der Zahl und Struktur der
@@ -11745,6 +12207,23 @@ Kassenzahnärztlichen Vereinigung haben, gegliedert nach den
 Altersgruppen des Vordrucks KM 6 der Statistik über die Versicherten
 in der gesetzlichen Krankenversicherung bis zum 1. Oktober des Jahres
 mitzuteilen.
+
+(3a) Die Gesamtvergütungen nach Absatz 3 dürfen im Jahr 2023 gegenüber
+dem Vorjahr höchstens um die um 0,75 Prozentpunkte verminderte
+durchschnittliche Veränderungsrate nach § 71 Absatz 3 angehoben
+werden. Im Jahr 2024 dürfen die Gesamtvergütungen für zahnärztliche
+Leistungen ohne Zahnersatz gegenüber dem Vorjahr höchstens um die um
+1,5 Prozentpunkte verminderte durchschnittliche Veränderungsrate nach
+§ 71 Absatz 3 angehoben werden. Die Sätze 1 und 2 gelten nicht für
+Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, § 87 Absatz 2i und
+2j sowie Leistungen zur Behandlung von Parodontitis für Versicherte,
+die einem Pflegegrad nach § 15 des Elften Buches zugeordnet sind oder
+in der Eingliederungshilfe nach § 99 des Neunten Buches
+leistungsberechtigt sind. Das Bundesministerium für Gesundheit
+evaluiert bis zum 30. September 2023 die Auswirkungen der Begrenzung
+der Anhebungen der Gesamtvergütungen nach Satz 1 auf den Umfang der
+Versorgung der Versicherten mit Leistungen zur Behandlung von
+Parodontitis.
 
 (4) Die Kassenzahnärztliche Vereinigung verteilt die Gesamtvergütungen
 an die Vertragszahnärzte. Sie wendet dabei in der
@@ -11827,6 +12306,14 @@ berücksichtigen.
 
 (6) Für die Vereinbarung der Gesamtvergütung in den Jahren 2021 und
 2022 findet § 85 Absatz 2 Satz 7 keine Anwendung.
+
+(7) Die Partner der Gesamtverträge haben die Vereinbarungen für den
+Fall einer im Zeitraum bis zum 7. April 2023 durch den Deutschen
+Bundestag festgestellten epidemischen Lage von nationaler Tragweite
+nach § 5 Absatz 1 des Infektionsschutzgesetzes an eine, aus dieser
+Sondersituation resultierende, verminderte Inanspruchnahme
+vertragszahnärztlicher Leistungen anzupassen, um die
+Leistungsfähigkeit der Zahnarztpraxen zu gewährleisten.
 
 
 ##### § 85b (weggefallen)
@@ -12215,7 +12702,7 @@ Absatz 1 Satz 2 Nummer 5 ist in dem Zeitraum vom 20. Oktober 2020 bis
 zum 20. Oktober 2021 auf das Zweifache der sich nach dem einheitlichen
 Bewertungsmaßstab ergebenden Vergütung zu erhöhen; die
 Vergütungsregelung für die Erstellung von Datensätzen nach § 334
-Absatz 1 Satz 2 Nummer 7 ist bis zum 1. Oktober 2022 zu vereinbaren.
+Absatz 1 Satz 2 Nummer 7 ist bis zum 1. Januar 2024 zu vereinbaren.
 Der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a
 beschließt im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
 die nach dem Schweregrad zu differenzierenden Regelungen für die
@@ -12272,33 +12759,35 @@ regelmäßig oder sehr selten und zugleich mit geringem Aufwand im
 Rahmen der hausärztlichen Versorgung eines Versicherten erbrachten
 Leistungen einschließlich der anfallenden Betreuungs-, Koordinations-
 und Dokumentationsleistungen vergütet werden. Mit Wirkung zum 1.
-September 2019 sind in den einheitlichen Bewertungsmaßstab für
-ärztliche Leistungen folgende Zuschläge auf die jeweiligen
-Versichertenpauschalen aufzunehmen:
+Januar 2023 sind in den einheitlichen Bewertungsmaßstab für ärztliche
+Leistungen folgende Zuschläge auf die jeweilige Versichertenpauschale
+aufzunehmen:
 
-1.  ein Zuschlag in Höhe von 50 Prozent der jeweiligen
-    Versichertenpauschale für den Fall, dass eine Behandlung bis zum
-    Ablauf des ersten Tages nach Ablauf der Wochenfrist nach § 75 Absatz
-    1a Satz 3 Nummer 1 erfolgt und ein Zuschlag in Höhe von 50 Prozent der
-    jeweiligen Versichertenpauschale für Behandlungen in Akutfällen nach §
-    75 Absatz 1a Satz 3 Nummer 4,
+1.  ein Zuschlag in Höhe von bis zu 200 Prozent der jeweiligen
+    Versichertenpauschale für Behandlungen im Akutfall nach § 75 Absatz 1a
+    Satz 3 Nummer 4, wenn die Behandlung spätestens am Folgetag der
+    Terminvermittlung durch die Terminservicestelle beginnt,
 
 
-2.  ein Zuschlag in Höhe von 30 Prozent der jeweiligen
-    Versichertenpauschale für den Fall, dass eine Behandlung vom Beginn
-    des zweiten Tages nach Ablauf der Wochenfrist bis zum Ablauf des
-    letzten Tages der ersten Woche nach Ablauf der Wochenfrist nach § 75
-    Absatz 1a Satz 3 Nummer 1 erfolgt,
+2.  ein Zuschlag in Höhe von 100 Prozent der jeweiligen
+    Versichertenpauschale für den Fall, dass eine Behandlung spätestens am
+    vierten Tag nach der Terminvermittlung durch die Terminservicestelle
+    nach § 75 Absatz 1a Satz 3 beginnt,
 
 
-3.  ein Zuschlag in Höhe von 20 Prozent der jeweiligen
-    Versichertenpauschale für den Fall, dass eine Behandlung vom Beginn
-    des ersten Tages der zweiten Woche nach Ablauf der Wochenfrist bis zum
-    Ablauf des letzten Tages der vierten Woche nach Ablauf der Wochenfrist
-    nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt, sowie
+3.  ein Zuschlag in Höhe von 80 Prozent der jeweiligen
+    Versichertenpauschale für den Fall, dass eine Behandlung spätestens am
+    14\. Tag nach der Terminvermittlung durch die Terminservicestelle nach
+    § 75 Absatz 1a Satz 3 beginnt,
 
 
-4.  ein Zuschlag in Höhe von mindestens 10 Euro für die erfolgreiche
+4.  ein Zuschlag in Höhe von 40 Prozent der jeweiligen
+    Versichertenpauschale für den Fall, dass eine Behandlung spätestens am
+    35\. Tag nach der Terminvermittlung durch die Terminservicestelle nach
+    § 75 Absatz 1a Satz 3 beginnt, sowie
+
+
+5.  ein Zuschlag in Höhe von mindestens 15 Euro für die erfolgreiche
     Vermittlung eines Behandlungstermins nach § 73 Absatz 1 Satz 2 Nummer
     2\.
 
@@ -12330,36 +12819,42 @@ Erbringung im Wege der Delegation nach Absatz 2a Satz 8, erforderlich
 ist. Mit den Grundpauschalen nach Satz 1 sollen die regelmäßig oder
 sehr selten und zugleich mit geringem Aufwand von der Arztgruppe in
 jedem Behandlungsfall erbrachten Leistungen vergütet werden. Mit
-Wirkung zum 1. September 2019 sind für die Behandlung von Patienten
-folgende Zuschläge auf die jeweiligen Grundpauschalen vorzusehen:
+Wirkung zum 1. Januar 2023 sind in den einheitlichen Bewertungsmaßstab
+für ärztliche Leistungen folgende Zuschläge auf die jeweilige
+Grundpauschale aufzunehmen:
 
-1.  ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für
-    den Fall, dass eine Behandlung bis zum Ablauf des ersten Tages nach
-    Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt und
-    ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für
-    Behandlungen in Akutfällen nach § 75 Absatz 1a Satz 3 Nummer 4,
-
-
-2.  ein Zuschlag in Höhe von 30 Prozent der jeweiligen Grundpauschale für
-    den Fall, dass eine Behandlung vom Beginn des zweiten Tages nach
-    Ablauf der Wochenfrist bis zum Ablauf des letzten Tages der ersten
-    Woche nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1
-    erfolgt, sowie
+1.  ein Zuschlag in Höhe von bis zu 200 Prozent der jeweiligen
+    Grundpauschale für Behandlungen im Akutfall nach § 75 Absatz 1a Satz 3
+    Nummer 4, wenn die Behandlung spätestens am Folgetag der
+    Terminvermittlung durch die Terminservicestelle beginnt,
 
 
-3.  ein Zuschlag in Höhe von 20 Prozent der jeweiligen Grundpauschale für
-    den Fall, dass eine Behandlung vom Beginn des ersten Tages der zweiten
-    Woche nach Ablauf der Wochenfrist bis zum Ablauf des letzten Tages der
-    vierten Woche nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3
-    Nummer 1 erfolgt.
+2.  ein Zuschlag in Höhe von 100 Prozent der jeweiligen Grundpauschale für
+    den Fall, dass eine Behandlung spätestens am vierten Tag nach der
+    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
+    Satz 3 beginnt,
+
+
+3.  ein Zuschlag in Höhe von 80 Prozent der jeweiligen Grundpauschale für
+    den Fall, dass eine Behandlung spätestens am 14. Tag nach der
+    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
+    Satz 3 beginnt, sowie
+
+
+4.  ein Zuschlag in Höhe von 40 Prozent der jeweiligen Grundpauschale für
+    den Fall, dass eine Behandlung spätestens am 35. Tag nach der
+    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
+    Satz 3 beginnt.
 
 
 
-Mit den Zusatzpauschalen nach Satz 1 wird der besondere
-Leistungsaufwand vergütet, der sich aus den Leistungs-, Struktur- und
-Qualitätsmerkmalen des Leistungserbringers und, soweit dazu
-Veranlassung besteht, in bestimmten Behandlungsfällen ergibt.
-Abweichend von den Sätzen 1 und 2 kann die Behandlung von
+Die in Satz 3 Nummer 2 bis 4 genannten Zuschläge gelten bei der
+Behandlung aufgrund einer erfolgten Vermittlung nach § 73 Absatz 1
+Satz 2 Nummer 2 entsprechend. Mit den Zusatzpauschalen nach Satz 1
+wird der besondere Leistungsaufwand vergütet, der sich aus den
+Leistungs-, Struktur- und Qualitätsmerkmalen des Leistungserbringers
+und, soweit dazu Veranlassung besteht, in bestimmten Behandlungsfällen
+ergibt. Abweichend von den Sätzen 1 und 2 kann die Behandlung von
 Versichertengruppen, die mit einem erheblichen therapeutischen
 Leistungsaufwand und überproportionalen Kosten verbunden ist, mit
 arztgruppenspezifischen diagnosebezogenen Fallpauschalen vergütet
@@ -12715,7 +13210,7 @@ Satz 1 getroffen ist, können Versicherte die ärztlichen Leistungen,
 die für die Versorgung mit oder zur Erprobung der digitalen
 Gesundheitsanwendung erforderlich sind, im Wege der Kostenerstattung
 nach § 13 Absatz 1 bei Leistungserbringern in Anspruch nehmen; Absatz
-2a Satz 11 gilt entsprechend. Die Möglichkeit der Inanspruchnahme im
+2a Satz 12 gilt entsprechend. Die Möglichkeit der Inanspruchnahme im
 Wege der Kostenerstattung nach § 13 Absatz 1 endet, sobald eine
 Entscheidung über die Anpassung nach Satz 1 getroffen ist.
 
@@ -12836,7 +13331,7 @@ regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
     Bundesausschusses,
 
 
-2.  Zuschläge nach § 87 Absatz 2b Satz 3 sowie Absatz 2c Satz 3,
+2.  Zuschläge nach § 87 Absatz 2b Satz 3 sowie Absatz 2c Satz 3 und 4,
 
 
 3.  Leistungen im Behandlungsfall, die aufgrund der Vermittlung durch die
@@ -12852,12 +13347,12 @@ regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
     Nummer 2,
 
 
-5.  Leistungen im Behandlungsfall, die von Ärzten, die an der
-    grundversorgenden oder unmittelbaren medizinischen Versorgung
-    teilnehmen, gegenüber Patienten erbracht werden, die in der jeweiligen
-    Arztpraxis erstmals untersucht und behandelt werden oder die
-    mindestens zwei Jahre nicht in der jeweiligen Arztpraxis untersucht
-    und behandelt wurden,
+5.  bis zum 31. Dezember 2022 Leistungen im Behandlungsfall, die von
+    Ärzten, die an der grundversorgenden oder unmittelbaren medizinischen
+    Versorgung teilnehmen, gegenüber Patienten erbracht werden, die in der
+    jeweiligen Arztpraxis erstmals untersucht und behandelt werden oder
+    die mindestens zwei Jahre nicht in der jeweiligen Arztpraxis
+    untersucht und behandelt wurden,
 
 
 6.  Leistungen im Behandlungsfall, die im Rahmen von bis zu fünf offenen
@@ -12866,11 +13361,18 @@ regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
     erbracht werden; bei einem reduzierten Versorgungsauftrag ist die
     Vergütung außerhalb der Gesamtvergütung auf die jeweils anteilige Zeit
     offener Sprechstunden je Kalenderwoche gemäß § 19a Absatz 1 Satz 4 der
-    Zulassungsverordnung für Vertragsärzte begrenzt und
+    Zulassungsverordnung für Vertragsärzte begrenzt,
 
 
 7.  die regelmäßige Beratung nach § 2 Absatz 1a des
-    Transplantationsgesetzes.
+    Transplantationsgesetzes und
+
+
+8.  ab dem 1. April 2023 kinder- und jugendpsychiatrische Grundversorgung,
+    Gespräche, Beratungen, Erörterungen, Abklärungen, Anleitung von
+    Bezugs- oder Kontaktpersonen, Betreuung sowie kontinuierliche
+    Mitbetreuung in häuslicher Umgebung oder in beschützenden
+    Einrichtungen oder Heimen.
 
 
 
@@ -12925,8 +13427,52 @@ Nummer 6 genannten Leistungen an dem Punktzahlvolumen aller Leistungen
 innerhalb der nach Satz 1 vereinbarten Gesamtvergütung und der in Satz
 5 Nummer 3 bis 6 genannten Leistungen im Bezirk einer Kassenärztlichen
 Vereinigung in einem Quartal im Bereinigungszeitraum nach Satz 7
-bemisst. Ab dem 1. Juli 2021 sind die in Satz 5 Nummer 3 bis 6
-genannten Leistungen bei der Abrechnung zu kennzeichnen.
+bemisst. Ab dem 1. Januar 2023 sind die in Satz 5 Nummer 3, 4 und 6
+genannten Leistungen bei der Abrechnung zu kennzeichnen. Das
+Bereinigungsvolumen nach den Sätzen 7 bis 12 für Leistungen nach Satz
+5 Nummer 5 wird im Zeitraum 1. Januar 2023 bis 31. Dezember 2023 in
+die morbiditätsbedingte Gesamtvergütung rückgeführt, wobei vereinbarte
+Anpassungen des Punktwertes und des Behandlungsbedarfs seit der
+Bereinigung zu berücksichtigen sind; der Bewertungsausschuss
+beschließt bis zum 30. November 2022 entsprechende Vorgaben. Die in
+Absatz 2 Satz 1 genannten Vertragspartner haben ab dem Jahr 2023 in
+jedem Quartal die morbiditätsbedingte Gesamtvergütung in den
+Vereinbarungen nach Satz 1 unter Berücksichtigung der
+arztgruppenspezifischen Auszahlungsquoten des jeweiligen
+Vorjahresquartals zu bereinigen, wenn und soweit das
+arztgruppenspezifische Punktzahlvolumen der in Satz 5 Nummer 6
+genannten Leistungen der einzelnen Arztgruppen das
+arztgruppenspezifische Punktzahlvolumen dieser Leistungen im
+Vorjahresquartal um 3 Prozent übersteigt. Die arztgruppenspezifischen
+Auszahlungsquoten sind von den Kassenärztlichen Vereinigungen
+gegenüber den Krankenkassen nachzuweisen. Der Bewertungsausschuss
+beschließt das Nähere zur Bereinigung nach Satz 15 bis spätestens zum
+31\. März 2023. Der Bewertungsausschuss evaluiert, ob und wieweit durch
+die Vergütung der Leistungen nach Satz 5 Nummer 6 außerhalb der nach
+Satz 1 vereinbarten Gesamtvergütung im Zeitraum vom 1. Juli 2019 bis
+zum 30. Juni 2024 gegenüber dem zum Vergleich herangezogenen Zeitraum
+eine Verbesserung des Zugangs zur fachärztlichen Versorgung
+eingetreten ist. Das Verfahren der Evaluierung bestimmt der
+Bewertungsausschuss im Einvernehmen mit dem Bundesministerium für
+Gesundheit. Der Bewertungsausschuss hat dem Bundesministerium für
+Gesundheit bis zum 31. Dezember 2024 über die Ergebnisse der
+Evaluierung zu berichten. Die Evaluierung umfasst auch die Evaluierung
+der Zuschläge nach § 87 Absatz 2b Satz 3 und Absatz 2c Satz 3 und 4.
+Abweichend von Satz 20 hat der Bewertungsausschuss dem
+Bundesministerium für Gesundheit halbjährlich, erstmals bis zum 30.
+September 2023, über die Ergebnisse der Evaluierung der Zuschläge nach
+§ 87 Absatz 2b Satz 3 Nummer 1 und Absatz 2c Satz 3 Nummer 1 zu
+berichten. Die in Absatz 2 Satz 1 genannten Vertragspartner haben die
+morbiditätsbedingte Gesamtvergütung in den Vereinbarungen nach Absatz
+3 Satz 1 um die in Satz 5 Nummer 8 genannten Leistungen für vier
+Quartale zu bereinigen. Hierzu wird die Leistungsmenge der Leistungen
+nach Satz 5 Nummer 8 aus dem Vorjahresquartal unter Berücksichtigung
+der Auszahlungsquote dieser Leistungen im Vorjahresquartal ermittelt.
+Die Auszahlungsquote ist von der Kassenärztlichen Vereinigung
+gegenüber den Krankenkassen nachzuweisen. Die Bereinigung darf nicht
+zu Lasten anderer Arztgruppen gehen. In den Vereinbarungen zur
+Bereinigung ist auch über notwendige Korrekturverfahren zu
+entscheiden. Das Nähere regelt der Bewertungsausschuss.
 
 (3a) Für den Fall der überbezirklichen Durchführung der
 vertragsärztlichen Versorgung sind die Leistungen abweichend von
@@ -12947,6 +13493,51 @@ morbiditätsbedingten Gesamtvergütung zu berücksichtigen. Ausgaben für
 Kostenerstattungsleistungen nach § 13 Abs. 2 und nach § 53 Abs. 4 mit
 Ausnahme der Kostenerstattungsleistungen nach § 13 Abs. 2 Satz 5 sind
 auf die nach Absatz 3 Satz 1 zu zahlende Gesamtvergütung anzurechnen.
+
+(3b) Die in § 87b Absatz 1 Satz 3 zweiter Halbsatz genannten
+Leistungen sind ab dem 1. April 2023 von den Krankenkassen mit den
+Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5
+vollständig zu vergüten. Abweichend von § 85 Absatz 1 und abweichend
+von Absatz 3 Satz 1 wird die morbiditätsbedingte Gesamtvergütung
+hinsichtlich der Vergütung der in § 87b Absatz 1 Satz 3 zweiter
+Halbsatz genannten Leistungen nicht mit befreiender Wirkung gezahlt.
+Die in Absatz 2 Satz 1 genannten Vertragsparteien vereinbaren
+Zuschläge zur Förderung der Kinder- und Jugendmedizin, soweit die in §
+87b Absatz 1 Satz 3 zweiter Halbsatz genannten abgerechneten
+Leistungen die festgesetzte morbiditätsbedingte Gesamtvergütung nicht
+ausschöpfen. Für die erstmalige Festsetzung der auf die Leistungen
+nach § 87b Absatz 1 Satz 3 zweiter Halbsatz entfallenden
+morbiditätsbedingten Gesamtvergütung ist das Honorarvolumen zugrunde
+zu legen, das für die Leistungen im zweiten Quartal 2022 gemäß dem
+Verteilungsmaßstab ausgezahlt worden ist. Sofern dieses Honorarvolumen
+Zuschläge enthält, haben die Vertragsparteien nach Absatz 2 Satz 1
+diese Zuschläge in der morbiditätsbedingten Gesamtvergütung zu
+vereinbaren. Für die Zuschläge nach den Sätzen 3 und 5 sowie nach §
+87a Absatz 2 Satz 2 und 3 gilt Satz 2 nicht. Der Bewertungsausschuss
+beschließt bis zum 31. Mai 2023 Vorgaben für ein Verfahren zur
+Festsetzung der auf die in § 87b Absatz 1 Satz 3 zweiter Halbsatz
+genannten Leistungen entfallenden morbiditätsbedingten
+Gesamtvergütung, die erstmalig rückwirkend zum 1. April 2023 für das
+laufende Kalenderjahr und danach jährlich für das folgende
+Kalenderjahr zu erfolgen hat. Zudem beschließt der Bewertungsausschuss
+bis zum 31. Mai 2023 Vorgaben für ein Verfahren zur Ermittlung des auf
+die jeweilige Krankenkasse entfallenden Anteils an
+Ausgleichszahlungen, der sich nach ihrem jeweiligen
+leistungsmengenbezogenen Anteil an dieser Ausgleichszahlung bemisst.
+Eine Ausgleichszahlung ist dann zu leisten, wenn die auf die in § 87b
+Absatz 1 Satz 3 zweiter Halbsatz genannten Leistungen entfallende
+morbiditätsbedingte Gesamtvergütung nicht ausreicht, um die
+vollständige Vergütung nach Satz 1 zu gewährleisten. Die in Absatz 2
+Satz 1 genannten Vertragsparteien haben sich auf ein Verfahren zu
+verständigen, nach dem die Kassenärztliche Vereinigung die Entwicklung
+der in § 87b Absatz 1 Satz 3 zweiter Halbsatz genannten Leistungen und
+von deren Vergütungen gegenüber den Krankenkassen nachweist. Der
+Bewertungsausschuss analysiert die Auswirkungen der Regelungen des
+Absatzes 3 Satz 5 Nummer 8, dieses Absatzes sowie der Regelungen in §
+87b Absatz 1 Satz 3 zweiter Halbsatz insbesondere auf die Versorgung
+der Kinder und Jugendlichen, die Honorare sowie die Ausgaben der
+Krankenkassen und berichtet dem Bundesministerium für Gesundheit bis
+zum 31. Dezember 2025 über die Ergebnisse.
 
 (4) Grundlage der Vereinbarung über die Anpassung des
 Behandlungsbedarfs jeweils aufsetzend auf dem insgesamt für alle
@@ -13142,10 +13733,13 @@ Vergütung der Leistungen im Notfall und im Notdienst erfolgt aus einem
 vor der Trennung für die Versorgungsbereiche gebildeten eigenen
 Honorarvolumen mit der Maßgabe, dass für diese Leistungen im
 Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung des
-Honorars angewandt werden dürfen. Bisherige Bestimmungen, insbesondere
-zur Zuweisung von arzt- und praxisbezogenen Regelleistungsvolumen,
-gelten bis zur Entscheidung über einen Verteilungsmaßstab vorläufig
-fort.
+Honorars angewandt werden dürfen; Gleiches gilt unter Beachtung der
+nach § 87a Absatz 3b Satz 7 beschlossenen Vorgaben für die Vergütung
+der Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin,
+die gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch
+nicht vollendet haben. Bisherige Bestimmungen, insbesondere zur
+Zuweisung von arzt- und praxisbezogenen Regelleistungsvolumen, gelten
+bis zur Entscheidung über einen Verteilungsmaßstab vorläufig fort.
 
 (2) Der Verteilungsmaßstab hat Regelungen vorzusehen, die verhindern,
 dass die Tätigkeit des Leistungserbringers über seinen
@@ -13239,8 +13833,10 @@ Bereinigungssummen und über das Honorar je Arzt und je Arztgruppe.
 Zusätzlich ist über Arztzahlen, Fallzahlen und Leistungsmengen zu
 informieren, um mögliche regionale Honorarunterschiede zu erklären.
 Die Kassenärztlichen Vereinigungen übermitteln der Kassenärztlichen
-Bundesvereinigung hierzu die erforderlichen Daten. Das Nähere bestimmt
-die Kassenärztliche Bundesvereinigung.
+Bundesvereinigung hierzu die erforderlichen Daten. Das
+Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung das Nähere zu Form, Inhalt, Umfang sowie zu den
+Fristen der Berichte und zu den Datenübermittlungen zu bestimmen.
 
 
 ##### § 87d (weggefallen)
@@ -13941,9 +14537,9 @@ Bundesausschuss übermittelt seinen Haushaltsplan dem Bundesministerium
 für Gesundheit. Er teilt dem Bundesministerium für Gesundheit mit,
 wenn er eine vorläufige Haushaltsführung, die Genehmigung
 überplanmäßiger oder außerplanmäßiger Ausgaben oder einen
-Nachtragshaushalt beschließt. Für das Vermögen gelten die §§ 80 bis 83
-und 85 Absatz 1 Satz 1 und Absatz 2 bis 5 des Vierten Buches und für
-die Verwendung der Mittel § 305b entsprechend. Für das
+Nachtragshaushalt beschließt. Für das Vermögen gelten die §§ 80 bis
+84, 85 Absatz 1 bis 3a und Absatz 3c bis 5 und § 86 des Vierten Buches
+und für die Verwendung der Mittel § 305b entsprechend. Für das
 Verwaltungsvermögen gilt § 263 entsprechend. Die Betriebsmittel sollen
 im Durchschnitt des Haushaltsjahres das Eineinhalbfache des nach dem
 Haushaltsplan des Gemeinsamen Bundesausschusses auf einen Monat
@@ -14256,7 +14852,13 @@ dem Inkrafttreten der Regelungen nach Satz 1 über das
 Bundesministerium für Gesundheit einen Bericht über deren Umsetzung
 vorzulegen. Bei der Erstellung des Berichtes ist den
 Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer Gelegenheit
-zur Stellungnahme zu geben.
+zur Stellungnahme zu geben. In Ergänzung der nach Satz 1 beschlossenen
+Regelungen beschließt der Gemeinsame Bundesausschuss bis zum 31.
+Januar 2024 in den Richtlinien nach Absatz 1 Satz 2 Nummer 7
+Regelungen zur Feststellung der Arbeitsunfähigkeit bei Erkrankungen,
+die keine schwere Symptomatik vorweisen sowie ausschließlich bezogen
+auf in der jeweiligen ärztlichen Praxis bekannte Patientinnen und
+Patienten auch nach telefonischer Anamnese.
 
 (5) Vor der Entscheidung des Gemeinsamen Bundesausschusses über die
 Richtlinien nach Absatz 1 Satz 2 Nr. 8 ist den in § 111b Satz 1
@@ -14342,6 +14944,18 @@ Bundesausschuss kann dabei Regelungen treffen, die diagnoseorientiert
 und leitliniengerecht den Behandlungsbedarf konkretisieren. In der
 Richtlinie sind auch Regelungen zur Erleichterung des Übergangs von
 der stationären in die ambulante Versorgung zu treffen.
+
+(6c) Der Gemeinsame Bundesausschuss beschließt bis spätestens zum 31.
+Dezember 2023 in einer Richtlinie nach Absatz 1 Satz 2 Nummer 1
+Regelungen für eine berufsgruppenübergreifende, koordinierte und
+strukturierte Versorgung für Versicherte mit Verdacht auf Long-COVID.
+Der Gemeinsame Bundesausschuss kann hierzu Regelungen treffen, die
+insbesondere eine interdisziplinäre und standardisierte Diagnostik und
+den zeitnahen Zugang zu einem multimodalen Therapieangebot
+sicherstellen. Er kann den Anwendungsbereich seiner Richtlinie auf die
+Versorgung von Versicherten erstrecken, bei denen ein Verdacht auf
+eine andere Erkrankung besteht, die eine ähnliche Ursache oder eine
+ähnliche Krankheitsausprägung wie Long-COVID aufweist.
 
 (7) In den Richtlinien nach Absatz 1 Satz 2 Nr. 6 sind insbesondere zu
 regeln
@@ -16543,7 +17157,7 @@ gelten für Leistungen, die ab dem 1. Januar 2017 verordnet werden.
 angemessene Überschreitung der Menge gegenüber den tatsächlich
 erbrachten Impfungen grundsätzlich nicht als unwirtschaftlich. Bei
 Verordnungen saisonaler Grippeimpfstoffe in den Impfsaisons 2020/2021
-und 2021/2022 gilt eine Überschreitung der Menge von bis zu 30 Prozent
+bis 2022/2023 gilt eine Überschreitung der Menge von bis zu 30 Prozent
 gegenüber den tatsächlich erbrachten Impfungen nicht als
 unwirtschaftlich. Das Nähere ist in den Vereinbarungen nach Absatz 1
 Satz 1 zu regeln.
@@ -17074,38 +17688,39 @@ Versicherten einen Betrag in Höhe von 0,30 Euro umfassen; der Betrag
 ist in den Folgejahren von 2023 bis einschließlich 2028 entsprechend
 der prozentualen Veränderung der monatlichen Bezugsgröße nach § 18
 Absatz 1 des Vierten Buches anzupassen. Unterschreiten die jährlichen
-Ausgaben den Betrag nach Satz 1, so hat die Krankenkasse die nicht
-verausgabten Mittel für die Durchführung von Qualitätsverträgen in der
-Regel im Folgejahr an die Liquiditätsreserve des Gesundheitsfonds zu
-zahlen. Bei der Berechnung des Ausgabevolumens einer Krankenkasse nach
-den Sätzen 1 und 2 sind pro Qualitätsvertrag eine angemessene
-Pauschale für die Vertragsvorbereitungen sowie sämtliche Ausgaben der
-Krankenkasse zur Durchführung der Qualitätsverträge nach
-Vertragsschluss zu berücksichtigen. Der Spitzenverband Bund der
-Krankenkassen prüft auf Grundlage der jährlichen Rechnungsergebnisse
-der Krankenkassen für jedes Jahr, erstmals für das Jahr 2022, ob die
-Ausgaben der Krankenkassen den Betrag nach Satz 1 erreichen.
-Unterschreiten die Ausgaben einer Krankenkasse den Betrag nach Satz 1,
-berechnet der Spitzenverband Bund der Krankenkassen die Höhe des nach
-Satz 2 zu zahlenden Betrages und macht diesen Betrag durch Bescheid
-geltend. Der Spitzenverband Bund der Krankenkassen kann abweichend von
-Satz 2 ausnahmsweise mit einer Krankenkasse, die einen oder mehrere
-Qualitätsverträge mit Vereinbarungen über erfolgsabhängige Zahlungen
-nachweist, einen längeren Abrechnungszeitraum von bis zu drei Jahren
-vereinbaren. Der Spitzenverband Bund der Krankenkassen bestimmt das
-Nähere zum Verfahren für eine solche Verlängerung des
-Abrechnungszeitraums und legt angemessene Pauschalen nach Satz 3 für
-die Vertragsvorbereitung fest, die den unterschiedlichen Aufwand der
-Krankenkassen insbesondere für Erarbeitung und Verhandlung der
-Vertragsinhalte berücksichtigen. Die Regelungen nach Satz 7 hat der
-Spitzenverband Bund der Krankenkassen bis zum 31. Oktober 2021 zu
-beschließen und dem Bundesministerium für Gesundheit zur Zustimmung
-vorzulegen. Der Spitzenverband Bund der Krankenkassen übermittelt dem
-Bundesamt für Soziale Sicherung jährlich zum 31. Dezember eine
-Aufstellung der in diesem Jahr rechtskräftig festgestellten Beträge.
+Ausgaben den Betrag nach Satz 1, so hat die Krankenkasse erstmals für
+das Jahr 2023 die nicht verausgabten Mittel für die Durchführung von
+Qualitätsverträgen in der Regel im Folgejahr an die Liquiditätsreserve
+des Gesundheitsfonds zu zahlen. Bei der Berechnung des Ausgabevolumens
+einer Krankenkasse nach den Sätzen 1 und 2 sind pro Qualitätsvertrag
+eine angemessene Pauschale für die Vertragsvorbereitungen sowie
+sämtliche Ausgaben der Krankenkasse zur Durchführung der
+Qualitätsverträge nach Vertragsschluss zu berücksichtigen. Der
+Spitzenverband Bund der Krankenkassen prüft auf Grundlage der
+jährlichen Rechnungsergebnisse der Krankenkassen für jedes Jahr,
+erstmals für das Jahr 2023, ob die Ausgaben der Krankenkassen den
+Betrag nach Satz 1 erreichen. Unterschreiten die Ausgaben einer
+Krankenkasse den Betrag nach Satz 1, berechnet der Spitzenverband Bund
+der Krankenkassen die Höhe des nach Satz 2 zu zahlenden Betrages und
+macht diesen Betrag durch Bescheid geltend. Der Spitzenverband Bund
+der Krankenkassen kann abweichend von Satz 2 ausnahmsweise mit einer
+Krankenkasse, die einen oder mehrere Qualitätsverträge mit
+Vereinbarungen über erfolgsabhängige Zahlungen nachweist, einen
+längeren Abrechnungszeitraum von bis zu drei Jahren vereinbaren. Der
+Spitzenverband Bund der Krankenkassen bestimmt das Nähere zum
+Verfahren für eine solche Verlängerung des Abrechnungszeitraums und
+legt angemessene Pauschalen nach Satz 3 für die Vertragsvorbereitung
+fest, die den unterschiedlichen Aufwand der Krankenkassen insbesondere
+für Erarbeitung und Verhandlung der Vertragsinhalte berücksichtigen.
+Die Regelungen nach Satz 7 hat der Spitzenverband Bund der
+Krankenkassen bis zum 31. Oktober 2021 zu beschließen und dem
+Bundesministerium für Gesundheit zur Zustimmung vorzulegen. Der
+Spitzenverband Bund der Krankenkassen übermittelt dem Bundesamt für
+Soziale Sicherung jährlich zum 31. Dezember eine Aufstellung der in
+diesem Jahr rechtskräftig festgestellten Beträge.
 
 
-#### § 111 Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen, Verordnungsermächtigung
+#### § 111 Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen
 
 (1) Die Krankenkassen dürfen medizinische Leistungen zur Vorsorge (§
 23 Abs. 4) oder Leistungen zur medizinischen Rehabilitation
@@ -17168,19 +17783,19 @@ Satz 1 gilt § 71 nicht. Die Bezahlung von Gehältern bis zur Höhe
 tarifvertraglicher Vergütungen sowie entsprechender Vergütungen nach
 kirchlichen Arbeitsrechtsregelungen kann nicht als unwirtschaftlich
 abgelehnt werden. Auf Verlangen der Krankenkasse ist die Zahlung
-dieser Vergütungen nachzuweisen. Die Vertragsparteien haben die
-Vereinbarungen für den Zeitraum vom 1. Oktober 2020 bis zum 31. März
-2021 an die durch die COVID-19-Pandemie bedingte besondere Situation
-der Vorsorge- oder Rehabilitationseinrichtungen anzupassen, um die
-Leistungsfähigkeit der Einrichtungen bei wirtschaftlicher
-Betriebsführung zu gewährleisten. Das Bundesministerium für Gesundheit
-kann durch Rechtsverordnung mit Zustimmung des Bundesrates die in Satz
-5 genannte Frist bis zum 19. März 2022 verlängern. Kommt eine
-Vereinbarung innerhalb von zwei Monaten, nachdem eine Vertragspartei
-nach Satz 1 schriftlich zur Aufnahme von Verhandlungen aufgefordert
-hat, nicht oder teilweise nicht zustande, wird ihr Inhalt auf Antrag
-einer Vertragspartei durch die Landesschiedsstelle nach § 111b
-festgesetzt. Die Landesschiedsstelle ist dabei an die für die
+dieser Vergütungen nachzuweisen. Sofern der Deutsche Bundestag nach §
+5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage
+von nationaler Tragweite festgestellt hat, haben die Vertragsparteien
+die Vereinbarungen für den Zeitraum, der am Tag der Feststellung durch
+den Deutschen Bundestag beginnt und am Tag der Aufhebung der
+Feststellung, spätestens jedoch mit Ablauf des 7. April 2023 endet, an
+diese Sondersituation anzupassen, um die Leistungsfähigkeit der
+Einrichtungen bei wirtschaftlicher Betriebsführung zu gewährleisten.
+Kommt eine Vereinbarung innerhalb von zwei Monaten, nachdem eine
+Vertragspartei nach Satz 1 schriftlich zur Aufnahme von Verhandlungen
+aufgefordert hat, nicht oder teilweise nicht zustande, wird ihr Inhalt
+auf Antrag einer Vertragspartei durch die Landesschiedsstelle nach §
+111b festgesetzt. Die Landesschiedsstelle ist dabei an die für die
 Vertragsparteien geltenden Rechtsvorschriften gebunden.
 
 (6) Soweit eine wirtschaftlich und organisatorisch selbständige,
@@ -17198,8 +17813,8 @@ Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 8 in Rahmenempfehlungen
 
 
 2.  Grundsätze einer leistungsgerechten Vergütung und ihrer Strukturen
-    sowie bis zum 15. Juli 2021 Grundsätze für Vereinbarungen nach Absatz
-    5 Satz 5 und
+    sowie bis zum 31. Dezember 2022 Grundsätze für Vereinbarungen nach
+    Absatz 5 Satz 5 und
 
 
 3.  die Anforderungen an das Nachweisverfahren nach Absatz 5 Satz 4.
@@ -17300,7 +17915,7 @@ Verfahren sowie über die Verteilung der Kosten regeln. § 129 Absatz 9
 und 10 Satz 1 gilt entsprechend.
 
 
-#### § 111c Versorgungsverträge mit Rehabilitationseinrichtungen, Verordnungsermächtigung
+#### § 111c Versorgungsverträge mit Rehabilitationseinrichtungen
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam schließen mit Wirkung für ihre Mitgliedskassen einheitliche
@@ -17346,20 +17961,20 @@ Rehabilitationseinrichtungen vereinbart. Für Vereinbarungen nach Satz
 tarifvertraglicher Vergütungen sowie entsprechender Vergütungen nach
 kirchlichen Arbeitsrechtsregelungen kann nicht als unwirtschaftlich
 abgelehnt werden. Auf Verlangen der Krankenkasse ist die Zahlung
-dieser Vergütungen nachzuweisen. Die Vertragsparteien haben die
-Vereinbarungen für den Zeitraum vom 1. Oktober 2020 bis zum 31. März
-2021 an die durch die COVID-19-Pandemie bedingte besondere Situation
-der Rehabilitationseinrichtungen anzupassen, um die Leistungsfähigkeit
-der Einrichtungen bei wirtschaftlicher Betriebsführung zu
-gewährleisten. Das Bundesministerium für Gesundheit kann durch
-Rechtsverordnung mit Zustimmung des Bundesrats die in Satz 5 genannte
-Frist bis zum 19. März 2022 verlängern. Kommt eine Vereinbarung
-innerhalb von zwei Monaten, nachdem eine Vertragspartei nach Satz 1
-schriftlich zur Aufnahme von Verhandlungen aufgefordert hat, nicht
-oder teilweise nicht zustande, wird ihr Inhalt auf Antrag einer
-Vertragspartei durch die Landesschiedsstelle nach § 111b festgesetzt.
-Diese ist dabei an die für die Vertragsparteien geltenden
-Rechtsvorschriften gebunden.
+dieser Vergütungen nachzuweisen. Sofern der Deutsche Bundestag nach §
+5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage
+von nationaler Tragweite festgestellt hat, haben die Vertragsparteien
+die Vereinbarungen für den Zeitraum, der am Tag der Feststellung durch
+den Deutschen Bundestag beginnt und am Tag der Aufhebung der
+Feststellung, spätestens jedoch mit Ablauf des 7. April 2023 endet, an
+diese Sondersituation anzupassen, um die Leistungsfähigkeit der
+Einrichtungen bei wirtschaftlicher Betriebsführung zu gewährleisten.
+Kommt eine Vereinbarung innerhalb von zwei Monaten, nachdem eine
+Vertragspartei nach Satz 1 schriftlich zur Aufnahme von Verhandlungen
+aufgefordert hat, nicht oder teilweise nicht zustande, wird ihr Inhalt
+auf Antrag einer Vertragspartei durch die Landesschiedsstelle nach §
+111b festgesetzt. Diese ist dabei an die für die Vertragsparteien
+geltenden Rechtsvorschriften gebunden.
 
 (4) Bei Einrichtungen, die vor dem 1. Januar 2012 ambulante Leistungen
 zur medizinischen Rehabilitation erbracht haben, gilt ein
@@ -17380,8 +17995,8 @@ Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 8 in Rahmenempfehlungen
 
 
 2.  Grundsätze einer leistungsgerechten Vergütung und ihrer Strukturen
-    sowie bis zum 15. Juli 2021 Grundsätze für Vereinbarungen nach Absatz
-    3 Satz 5 und
+    sowie bis zum 31. Dezember 2022 Grundsätze für Vereinbarungen nach
+    Absatz 3 Satz 5 und
 
 
 3.  die Anforderungen an das Nachweisverfahren nach Absatz 3 Satz 4.
@@ -17936,6 +18551,164 @@ finanziellen Auswirkungen vor. Die für den Bericht erforderlichen
 Daten sind ihnen von den Krankenkassen, den Unternehmen der privaten
 Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
 übermitteln.
+
+
+#### § 115e Tagesstationäre Behandlung
+
+(1) Zugelassene Krankenhäuser können in medizinisch geeigneten Fällen,
+wenn eine Indikation für eine stationäre somatische Behandlung
+vorliegt, mit Einwilligung der Patientin oder des Patienten anstelle
+einer vollstationären Behandlung eine tagesstationäre Behandlung ohne
+Übernachtung im Krankenhaus erbringen. Voraussetzung ist, dass die
+Behandlung einen täglich mindestens sechsstündigen Aufenthalt der
+Patientinnen und Patienten im Krankenhaus erfordert, währenddessen
+überwiegend ärztliche oder pflegerische Behandlung erbracht wird.
+Leistungen nach den §§ 115b, 115f und 121, Leistungen, die auf der
+Grundlage der §§ 116, 116a, 117, 118a, 119 oder sonstiger
+Ermächtigungen ambulant erbracht werden können, nach § 116b ambulant
+erbringbare Leistungen, eintägige Behandlungen ohne Einweisung und
+Behandlungen in der Notaufnahme eines Krankenhauses können nicht als
+tagesstationäre Behandlung erbracht werden. Bei Versicherten, die
+einen Anspruch auf Leistungen nach § 37 haben, kann eine
+tagesstationäre Behandlung nicht erbracht werden. Der
+Krankenhausträger stellt sicher, dass die notwendigen Leistungen nach
+§ 39 Absatz 1 Satz 3 bei Bedarf jederzeit zur Verfügung stehen.
+
+(2) Im Rahmen der tagesstationären Behandlung besteht ab dem Zeitpunkt
+der ersten Aufnahme im Krankenhaus kein Anspruch auf Fahrkosten nach §
+60; ausgenommen sind Rettungsfahrten zum Krankenhaus nach § 60 Absatz
+2 Satz 1 Nummer 2 und Krankenfahrten, die nach § 60 Absatz 1 Satz 3 in
+Verbindung mit den Richtlinien des Gemeinsamen Bundesausschusses nach
+§ 92 Absatz 1 Satz 2 Nummer 12 auch zu ambulanten Behandlungen
+übernahmefähig wären. Das Krankenhaus ist verpflichtet, die
+Patientinnen und Patienten hierauf gesondert und in geeigneter Weise
+hinzuweisen. Eine Verordnung der in Satz 1 zweiter Halbsatz genannten
+Krankenfahrten kann durch das Krankenhaus erfolgen.
+
+(3) Die Abrechnung der tagesstationären Behandlung erfolgt mit den auf
+der Grundlage des Krankenhausentgeltgesetzes abrechenbaren Entgelten
+für vollstationäre Krankenhausleistungen, die für alle Benutzerinnen
+und Benutzer des Krankenhauses einheitlich zu berechnen sind. Sofern
+Patientinnen und Patienten zwischen ihrer Aufnahme in das Krankenhaus
+und ihrer Entlassung aus dem Krankenhaus für eine tagesstationäre
+Behandlung nicht über Nacht im Krankenhaus versorgt werden, ist für
+die nicht anfallenden Übernachtungskosten pauschal ein Abzug von den
+für den vollstationären Aufenthalt insgesamt berechneten Entgelten
+vorzunehmen, der 0,04 Bewertungsrelationen je betreffender Nacht
+entspricht, wobei der Abzug einen Anteil von 30 Prozent der Entgelte
+für den Aufenthalt insgesamt nicht überschreiten darf. Bei Erbringung
+einer tagesstationären Behandlung ist eine Prüfung der Notwendigkeit
+von Übernachtungen von Patientinnen und Patienten im Krankenhaus durch
+den Medizinischen Dienst nach § 275c während des
+Krankenhausaufenthalts nicht zulässig. Näheres oder Abweichendes zur
+Berechnung der Entgelte und der Prüfung der Notwendigkeit von
+Übernachtungen durch den Medizinischen Dienst vereinbaren die
+Vertragsparteien nach § 17b Absatz 2 Satz 1 des
+Krankenhausfinanzierungsgesetzes bis zum 27. Juni 2023. Kommt eine
+Vereinbarung nach Satz 4 ganz oder teilweise nicht fristgerecht
+zustande, entscheidet die Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes ohne Antrag einer Vertragspartei
+innerhalb von sechs Wochen.
+
+(4) Der Spitzenverband Bund der Krankenkassen, der Verband der
+Privaten Krankenversicherung und die Deutsche Krankenhausgesellschaft
+vereinbaren bis zum 28. Januar 2023 die Anforderungen an die
+Dokumentation; dabei ist sicherzustellen, dass die tägliche
+Behandlungsdauer dokumentiert wird. Kommt eine Vereinbarung nach Satz
+1 ganz oder teilweise nicht fristgerecht zustande, entscheidet die
+Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes
+ohne Antrag einer Vertragspartei innerhalb von sechs Wochen.
+
+(5) Der Spitzenverband Bund der Krankenkassen, der Verband der
+Privaten Krankenversicherung und die Deutsche Krankenhausgesellschaft
+legen dem Bundesministerium für Gesundheit zum 30. Juli 2023 und zum
+30\. Juli 2024 jeweils einen gemeinsamen Bericht über das Ausmaß der
+tagesstationären Behandlung und ihre Auswirkungen auf die Versorgung
+der Patientinnen und Patienten einschließlich der finanziellen
+Auswirkungen vor. Die für den Bericht erforderlichen Daten sind ihnen
+von den Krankenkassen, den Unternehmen der privaten
+Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
+übermitteln.
+
+
+#### § 115f Spezielle sektorengleiche Vergütung; Verordnungsermächtigung
+
+(1) Die Vertragsparteien nach § 115b Absatz 1 Satz 1 vereinbaren bis
+zum 31. März 2023
+
+1.  eine spezielle sektorengleiche Vergütung, die unabhängig davon
+    erfolgt, ob die vergütete Leistung ambulant oder stationär erbracht
+    wird, und
+
+
+2.  für welche der in dem nach § 115b Absatz 1 Satz 1 Nummer 1
+    vereinbarten Katalog genannten Leistungen die Vergütung nach Nummer 1
+    erfolgt.
+
+
+
+Die nach Satz 1 Nummer 1 vereinbarte Vergütung ist für jede nach Satz
+1 Nummer 2 vereinbarte Leistung individuell als Fallpauschale zu
+kalkulieren. Unterschiede nach dem Schweregrad der Fälle sind dabei
+durch die Bildung von Stufen zu berücksichtigen. Bei der erstmaligen
+Kalkulation sind die für die jeweilige Leistung im stationären und
+ambulanten Bereich für das zum Zeitpunkt der Kalkulation letzte
+Abrechnungsjahr gezahlten Vergütungsvolumina sowie die Anzahl der
+erbrachten Fälle zu berücksichtigen. Berücksichtigt werden können auch
+die jeweiligen Anteile der ambulanten und stationären Fälle an der
+Gesamtzahl der Fälle und die Kosten der ausschließlich stationären
+Behandlung. Spätestens ab dem Jahr 2026 ist die Fallpauschale auf
+Grundlage geeigneter empirischer Kostendaten des ambulanten und
+stationären Bereichs zu kalkulieren und anzupassen.
+
+(2) Als Kriterien bei der Auswahl von Leistungen nach Absatz 1 Satz 1
+Nummer 2 sind insbesondere eine hohe Fallzahl im Krankenhaus, eine
+kurze Verweildauer und ein geringer klinischer Komplexitätsgrad zu
+berücksichtigen. Die Auswahl von Leistungen nach Absatz 1 Satz 1
+Nummer 2 ist im Abstand von jeweils zwei Jahren zu überprüfen und,
+sofern erforderlich, anzupassen, erstmals spätestens bis zum 31. März
+2025\.
+
+(3) Zur Erbringung der nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder
+durch Rechtsverordnung nach Absatz 4 bestimmten Leistungen und zur
+Abrechnung der nach Absatz 1 Satz 2 kalkulierten Fallpauschale
+berechtigt sind die nach § 95 Absatz 1 Satz 1 sowie § 108 an der
+Versorgung teilnehmenden Leistungserbringer, die die in § 115b Absatz
+1 Satz 5 genannten Qualitätsvoraussetzungen erfüllen. Die Leistungen
+werden unmittelbar von den Krankenkassen vergütet. Die in Satz 1
+genannten Leistungserbringer können die jeweilige Kassenärztliche
+Vereinigung oder Dritte gegen Aufwandsersatz mit der Abrechnung von
+nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder durch Rechtsverordnung
+nach Absatz 4 bestimmten Leistungen beauftragen. Die Prüfung der
+Abrechnung und der Wirtschaftlichkeit sowie der Qualität der
+Leistungserbringung erfolgt durch die Krankenkassen, die hiermit eine
+Arbeitsgemeinschaft oder den Medizinischen Dienst beauftragen können.
+§ 295 Absatz 1b Satz 1, § 295a und § 301 Absatz 1 und 2 gelten für die
+jeweiligen in Satz 1 genannten Leistungserbringer entsprechend.
+
+(4) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die spezielle
+sektorengleiche Vergütung und die nach Absatz 1 Satz 1 Nummer 2 zu
+vereinbarenden Leistungen zu bestimmen, soweit eine Vereinbarung der
+Vertragsparteien nach Absatz 1 Satz 1 oder eine Anpassung nach Absatz
+2 Satz 2 ganz oder teilweise nicht oder nicht fristgerecht zustande
+gekommen ist. Zur Vorbereitung einer Regelung nach Satz 1 sind die
+einzelnen in Absatz 1 Satz 1 genannten Vertragsparteien, der
+Bewertungsausschuss für die in § 87 Absatz 1 Satz 1 genannten
+ärztlichen Leistungen, der nach § 87 Absatz 5a Satz 1 ergänzte
+Bewertungsausschuss, das in § 87 Absatz 3b Satz 1 genannte Institut
+und das Institut für das Entgeltsystem im Krankenhaus verpflichtet,
+dem Bundesministerium für Gesundheit unmittelbar und unverzüglich nach
+dessen Weisungen zuzuarbeiten.
+
+(5) Die in Absatz 1 Satz 1 genannten Vertragsparteien evaluieren die
+Auswirkungen der speziellen sektorengleichen Vergütung auf die
+Versorgung der Versicherten, auf die Vergütungen der
+Leistungserbringer sowie auf die Ausgaben der Krankenkassen auf der
+Grundlage nicht personenbezogener Leistungsdaten in einem Abstand von
+jeweils 18 Monaten und legen dem Bundesministerium für Gesundheit,
+erstmals am 1. April 2024, einen Bericht über das Ergebnis der
+Evaluation vor.
 
 
 #### § 116 Ambulante Behandlung durch Krankenhausärzte
@@ -18819,12 +19592,12 @@ Vergütung von Leistungen der sozialpädiatrischen Zentren und
 medizinischen Behandlungszentren sind, auf Grund der besonderen
 Situation dieser Einrichtungen durch die SARS-CoV-2-Pandemie, bis zum
 20\. Juni 2020 vorübergehend anzupassen. Abweichend von den Sätzen 2
-und 3 soll die Vergütung der Leistungen, die die psychiatrischen
+und 3 hat die Vergütung der Leistungen, die die psychiatrischen
 Institutsambulanzen im Rahmen der Versorgung nach der Richtlinie des
 Gemeinsamen Bundesausschusses nach § 92 Absatz 6b erbringen, nach den
 entsprechenden Bestimmungen im einheitlichen Bewertungsmaßstab für
 ärztliche Leistungen mit dem Preis der jeweiligen regionalen Euro-
-Gebührenordnung erfolgen.
+Gebührenordnung zu erfolgen.
 
 (3) Die Vergütung der Leistungen der Hochschulambulanzen, der
 psychiatrischen Institutsambulanzen, der sozialpädiatrischen Zentren,
@@ -18862,13 +19635,13 @@ pauschale Vergütung und Abrechnung des Sprechstundenbedarfs mit den
 Krankenkassen im Rahmen der Inanspruchnahme nach § 76 Absatz 1a; § 112
 Absatz 5 gilt entsprechend.
 
-(3b) Der Gemeinsame Bundesausschuss beschließt bis zum 20. Juli 2022
-Vorgaben zur Durchführung einer qualifizierten und standardisierten
-Ersteinschätzung des medizinischen Versorgungsbedarfs von
-Hilfesuchenden, die sich zur Behandlung eines Notfalls nach § 76
-Absatz 1 Satz 2 an ein Krankenhaus wenden. Die nach § 136c Absatz 4
-beschlossenen Festlegungen sind zu berücksichtigen. Dabei ist auch das
-Nähere vorzugeben
+(3b) Der Gemeinsame Bundesausschuss beschließt bis zum 30. Juni 2023
+eine Richtlinie, die Vorgaben zur Durchführung einer qualifizierten
+und standardisierten Ersteinschätzung des medizinischen
+Versorgungsbedarfs von Hilfesuchenden, die sich zur Behandlung eines
+Notfalls nach § 76 Absatz 1 Satz 2 an ein Krankenhaus wenden,
+beinhaltet. Die nach § 136c Absatz 4 beschlossenen Festlegungen sind
+zu berücksichtigen. Dabei ist auch das Nähere vorzugeben
 
 1.  zur Qualifikation des medizinischen Personals, das die
     Ersteinschätzung vornimmt,
@@ -18883,32 +19656,38 @@ Nähere vorzugeben
 
 
 4.  zum Nachweis gegenüber der Terminservicestelle, dass ein Fall nach §
-    75 Absatz 1a Satz 4 Nummer 2 vorliegt, und
+    75 Absatz 1a Satz 4 Nummer 2 vorliegt,
 
 
-5.  zur Weiterleitung an Notdienstpraxen gemäß § 75 Absatz 1b Satz 2 oder
-    an der vertragsärztlichen Versorgung teilnehmende Ärzte und
-    medizinische Versorgungszentren gemäß § 95 Absatz 1.
+5.  zur Weiterleitung an Notdienstpraxen gemäß § 75 Absatz 1b Satz 3 und
+
+
+6.  zu Übergangsfristen für die Umsetzung der Richtlinie, soweit diese für
+    eine rechtzeitige Integration der Richtlinie in die organisatorischen
+    Abläufe der Krankenhäuser erforderlich sind.
 
 
 
 Die Vergütung ambulanter Leistungen zur Behandlung von Notfällen nach
-§ 76 Absatz 1 Satz 2 im Krankenhaus setzt ab dem Inkrafttreten des
-Beschlusses nach Satz 1 voraus, dass bei der Durchführung der
+§ 76 Absatz 1 Satz 2 im Krankenhaus setzt ab dem Inkrafttreten der
+Richtlinie nach Satz 1 voraus, dass bei der Durchführung der
 Ersteinschätzung nach Satz 1 ein sofortiger Behandlungsbedarf
-festgestellt wurde. Der ergänzte Bewertungsausschuss in seiner
-Zusammensetzung nach § 87 Absatz 5a beschließt innerhalb von sechs
-Monaten nach Inkrafttreten der Vorgaben nach Satz 1 über die sich
-daraus ergebende erforderliche Anpassung des einheitlichen
-Bewertungsmaßstabs für ärztliche Leistungen. Der Gemeinsame
-Bundesausschuss hat die Auswirkungen des Beschlusses nach Satz 1
-hinsichtlich der Entwicklung der Inanspruchnahme der Notaufnahmen, der
-Auswirkungen auf die Patientenversorgung sowie die Erforderlichkeit
-einer Anpassung seiner Regelungen bis zum 31. Dezember 2025 zu prüfen.
-Der ergänzte Bewertungsausschuss in seiner Zusammensetzung nach § 87
-Absatz 5a hat die Entwicklung der Leistungen in Notaufnahmen zu
-evaluieren und hierüber dem Bundesministerium für Gesundheit bis zum
-31\. Dezember 2025 zu berichten; § 87 Absatz 3a gilt entsprechend.
+festgestellt wurde oder zu diesem Zeitpunkt keine Notdienstpraxis in
+oder an dem jeweiligen Krankenhaus gemäß § 75 Absatz 1b Satz 3 in
+unmittelbarer Nähe geöffnet ist. Der ergänzte Bewertungsausschuss in
+seiner Zusammensetzung nach § 87 Absatz 5a beschließt bis zum Beginn
+des übernächsten auf das Inkrafttreten der Richtlinie nach Satz 1
+folgenden Quartals die sich aus der Richtlinie nach Satz 1 ergebenden
+notwendigen Anpassungen des einheitlichen Bewertungsmaßstabs für
+ärztliche Leistungen. Der Gemeinsame Bundesausschuss hat die
+Auswirkungen der Richtlinie nach Satz 1 hinsichtlich der Entwicklung
+der Inanspruchnahme der Notaufnahmen, der Auswirkungen auf die
+Patientenversorgung sowie die Erforderlichkeit einer Anpassung seiner
+Regelungen bis zum 31. Dezember 2026 zu prüfen. Der ergänzte
+Bewertungsausschuss in seiner Zusammensetzung nach § 87 Absatz 5a hat
+die Entwicklung der Leistungen in Notaufnahmen zu evaluieren und
+hierüber dem Bundesministerium für Gesundheit bis zum 31. Dezember
+2026 zu berichten; § 87 Absatz 3a gilt entsprechend.
 
 (4) Kommt eine Vereinbarung nach Absatz 1a Satz 1 oder nach Absatz 2
 Satz 2 oder eine Berücksichtigung der Grundsätze nach Absatz 2 Satz 4
@@ -19098,7 +19877,7 @@ Leistungserbringern abgegeben werden, die
 
 
 3.  die für die Versorgung mit Heilmitteln geltenden Verträge nach § 125
-    Absatz 1 und § 125a anerkennen.
+    Absatz 1 anerkennen.
 
 
 
@@ -19149,10 +19928,7 @@ vereinbarten räumlichen, sachlichen und personellen Voraussetzungen zu
 Praxis zu den üblichen Praxiszeiten zu gewähren. Mehrfache
 Praxisprüfungen durch die Arbeitsgemeinschaft sind zu vermeiden.
 
-(4) Die am 30. Juni 2008 bestehenden Zulassungen, die von den
-Verbänden der Ersatzkassen erteilt wurden, gelten als für die
-Ersatzkassen gemäß Absatz 2 erteilte Zulassung weiter. Absatz 2 Satz 3
-gilt entsprechend.
+(4) (weggefallen)
 
 (5) Krankenhäuser, Rehabilitationseinrichtungen und ihnen
 vergleichbare Einrichtungen dürfen die in Absatz 1 genannten
@@ -19161,30 +19937,12 @@ Nummer 1 erfüllen, wenn sie über eine Praxisausstattung im Sinne des
 Absatzes 1 Nummer 2 verfügen. Einer Zulassung bedarf es nicht. Für die
 in Satz 1 genannten Einrichtungen gelten die nach § 125 Absatz 1
 abgeschlossenen Verträge entsprechend, ohne dass es einer Anerkennung
-dieser Verträge bedarf. § 125b gilt entsprechend.
+dieser Verträge bedarf.
 
-(6) Leistungserbringer, die ihre Zulassung vor dem Inkrafttreten des
-jeweiligen bundesweit geltenden Vertrages nach § 125 Absatz 1 erteilt
-bekommen haben, haben diesen Vertrag gegenüber der Arbeitsgemeinschaft
-nach Satz 2 innerhalb von sechs Monaten ab Inkrafttreten des Vertrages
-oder ab der Entscheidung durch die Schiedsstelle anzuerkennen. Die
-Zulassung gilt innerhalb dieses Zeitraums fort. Bis zum Inkrafttreten
-des jeweiligen bundesweit geltenden Vertrages nach § 125 Absatz 1 sind
-die geltenden Vereinbarungen nach § 125 Absatz 2 in der bis zum 10.
-Mai 2019 geltenden Fassung anzuerkennen. Die Sätze 1 und 2 gelten für
-die Anerkennung der Vereinbarung nach § 125a über die
-Heilmittelversorgung mit erweiterter Versorgungsverantwortung
-entsprechend. Bis zum Inkrafttreten der Vereinbarung nach § 125a oder
-bis zur Entscheidung durch die Schiedsstelle ist die Anerkennung
-dieser Vereinbarung keine Zulassungsvoraussetzung nach Absatz 1 Nummer
-3\. Die Empfehlungen des Spitzenverbandes Bund der Krankenkassen für
-eine einheitliche Anwendung der Zulassungsbedingungen nach § 124
-Absatz 4 in der bis zum 10. Mai 2019 geltenden Fassung gelten bis zum
-Inkrafttreten des Vertrages nach § 125 Absatz 1 oder bis zur
-Entscheidung durch die Schiedsstelle fort.
+(6) (weggefallen)
 
 
-#### § 125 Verträge
+#### § 125 Verträge zur Heilmittelversorgung
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit bindender
 Wirkung für die Krankenkassen mit den für die Wahrnehmung der
@@ -19340,7 +20098,7 @@ nach Ablauf von drei Monaten ihre Entscheidung, sind neben der
 Festsetzung der Preise auch Zahlbeträge zu beschließen, durch die
 Vergütungsausfälle ausgeglichen werden, die bei den
 Leistungserbringern durch die verzögerte Entscheidung der
-Schiedsstelle entstanden sind. Der bisherige Vertrag oder die
+Schiedsstelle entstanden sind. Der bisherige Vertrag und die
 bisherigen Preise gelten bis zur Entscheidung durch die Schiedsstelle
 fort.
 
@@ -19374,8 +20132,15 @@ und der Aufsichtsbehörde nicht statt.
 (7) Die Landesverbände der Krankenkassen und die Ersatzkassen können
 mit den Leistungserbringern, deren Verbänden oder sonstigen
 Zusammenschlüssen Verträge über die Einzelheiten der Versorgung mit
-kurortspezifischen Heilmitteln schließen. Die Absätze 2 und 3 gelten
-entsprechend.
+kurortspezifischen Heilmitteln schließen. Die Landesverbände der
+Krankenkassen und die Ersatzkassen können mit den Trägern von Schulen,
+Kindertagesstätten oder Angeboten der Eingliederungshilfe, deren
+Verbänden oder den für die Erbringung der Eingliederungshilfe nach
+Landesrecht zuständigen Behörden Verträge über die Einzelheiten der
+Versorgung von Menschen mit Behinderungen oder Menschen, die von
+Behinderung bedroht sind, mit Heilmitteln in Schulen,
+Kindertagesstätten oder Angeboten der Eingliederungshilfe schließen.
+Die Absätze 2 und 3 gelten jeweils entsprechend.
 
 (8) Die Krankenkassen oder ihre Verbände können mit den für den
 jeweiligen Heilmittelbereich für die Wahrnehmung der Interessen der
@@ -19398,32 +20163,33 @@ Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6.
 Wirkung für die Krankenkassen mit den für die Wahrnehmung der
 Interessen der Heilmittelerbringer maßgeblichen Spitzenorganisationen
 auf Bundesebene für jeden Heilmittelbereich einen Vertrag über die
-Heilmittelversorgung mit erweiterter Versorgungsverantwortung. Die für
-den jeweiligen Heilmittelbereich zuständigen maßgeblichen
-Spitzenorganisationen haben den Vertrag gemeinsam zu schließen. Die
-Verträge sind bis zum 30. September 2021 zu schließen. Gegenstand der
-Verträge ist eine Versorgungsform, bei der die Heilmittelerbringer
-aufgrund einer durch einen Vertragsarzt festgestellten Diagnose und
-der Indikation für eine Heilmittelbehandlung selbst über die Auswahl
-und die Dauer der Therapie sowie die Frequenz der Behandlungseinheiten
-bestimmen können. Die Auswahl der Therapie darf dabei nur im Rahmen
-der in der Richtlinie des Gemeinsamen Bundesausschusses nach § 92
-Absatz 1 Satz 2 Nummer 6 für die jeweilige Diagnosegruppe vorgegebenen
+Heilmittelversorgung mit erweiterter Versorgungsverantwortung, sofern
+sich die für den jeweiligen Heilmittelbereich zuständigen maßgeblichen
+Spitzenorganisationen für ihren Heilmittelbereich gemeinsam zum
+Abschluss eines solchen Vertrages entschließen. Die für den jeweiligen
+Heilmittelbereich zuständigen maßgeblichen Spitzenorganisationen haben
+den Vertrag gemeinsam zu schließen. Gegenstand der Verträge ist eine
+Versorgungsform, bei der die Heilmittelerbringer aufgrund einer durch
+einen Vertragsarzt festgestellten Diagnose und der Indikation für eine
+Heilmittelbehandlung selbst über die Auswahl und die Dauer der
+Therapie sowie die Frequenz der Behandlungseinheiten bestimmen können.
+Die Auswahl der Therapie darf dabei nur im Rahmen der in der
+Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2
+Nummer 6 für die jeweilige Diagnosegruppe vorgegebenen
 verordnungsfähigen Heilmittel erfolgen. Im Übrigen sind Abweichungen
 von dieser Richtlinie nur in dem von den Vertragspartnern nach Absatz
 2 Nummer 2 vereinbarten Umfang möglich. Vor Abschluss der Vereinbarung
 ist den Kassenärztlichen Bundesvereinigungen Gelegenheit zur
-Stellungnahme zu geben. Davon abweichend ist zu den Regelungen nach
-Absatz 2 Nummer 1 und 7 mit den Kassenärztlichen Bundesvereinigungen
-Einvernehmen herzustellen.
+Stellungnahme zu geben; die Stellungnahmen sind in die Verhandlung der
+Vereinbarungen einzubeziehen.
 
 (2) In den Verträgen nach Absatz 1 ist insbesondere Folgendes zu
 regeln:
 
-1.  alle Indikationen der Richtlinien des Gemeinsamen Bundesausschusses
-    nach § 92 Absatz 1 Satz 2 Nummer 6, die unter medizinisch-
-    therapeutischen Gesichtspunkten für eine Heilmittelversorgung mit
-    erweiterter Versorgungsverantwortung geeignet sind,
+1.  Indikationen der Richtlinien des Gemeinsamen Bundesausschusses nach §
+    92 Absatz 1 Satz 2 Nummer 6, die unter medizinisch-therapeutischen
+    Gesichtspunkten für eine Heilmittelversorgung mit erweiterter
+    Versorgungsverantwortung geeignet sind,
 
 
 2.  Möglichkeiten der Heilmittelerbringer, bei der Leistungserbringung von
@@ -19447,10 +20213,12 @@ regeln:
 
 
 6.  Maßnahmen zur Vermeidung einer unverhältnismäßigen Mengenausweitung in
-    der Anzahl der Behandlungseinheiten je Versicherten, die medizinisch
-    nicht begründet sind; diese Maßnahmen können auch Vergütungsabschläge
-    vorsehen, sofern eine durchschnittliche Anzahl an Behandlungseinheiten
-    deutlich überschritten ist, sowie
+    der Anzahl der Behandlungseinheiten je Versicherten, insbesondere für
+    solche Ausweitungen, die weder morbiditätsbedingt sind noch auf dem
+    therapeutischen Fortschritt oder Veränderungen des gesetzlichen oder
+    satzungsmäßigen Leistungsumfangs beruhen; diese Maßnahmen können auch
+    Vergütungsabschläge vorsehen, sofern eine durchschnittliche Anzahl an
+    Behandlungseinheiten deutlich überschritten ist, sowie
 
 
 7.  Vorgaben zur Information des Arztes durch den Heilmittelerbringer über
@@ -19460,10 +20228,14 @@ regeln:
 
 
 
-(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht bis zum
-30\. September 2021 zustande, wird der Inhalt des Vertrages innerhalb
-von drei Monaten durch die Schiedsstelle nach § 125 Absatz 6
-festgesetzt.
+(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht zustande
+und kann mindestens einer der Vertragspartner intensive Bemühungen zur
+Erreichung des Vertrages auf dem Verhandlungsweg nachweisen, wird der
+Inhalt des Vertrages oder werden die Preise innerhalb von drei Monaten
+durch die Schiedsstelle nach § 125 Absatz 6 festgesetzt. Das
+Schiedsverfahren beginnt, wenn mindestens eine Vertragspartei die
+Verhandlungen ganz oder teilweise für gescheitert erklärt und die
+Schiedsstelle anruft.
 
 (4) Der Spitzenverband Bund der Krankenkassen hat die Verträge nach
 Absatz 1 zu veröffentlichen und dem Gemeinsamen Bundesausschuss zu
@@ -19478,43 +20250,22 @@ veröffentlichen.
 
 (6) Unter Berücksichtigung der nach § 84 Absatz 7 in Verbindung mit §
 84 Absatz 5 erhobenen und der nach Absatz 5 veröffentlichten Daten
-evaluieren die Vertragspartner nach Absatz 1 insbesondere die mit der
-Versorgungsform verbundenen Auswirkungen auf das Versorgungsgeschehen
-im Bereich der Heilmittel, der Mengenentwicklung, der finanziellen
-Auswirkungen auf die Krankenkassen sowie die Auswirkungen auf die
-Behandlungs- und Ergebnisqualität innerhalb der ersten vier Jahre nach
-Abschluss der Verträge nach Absatz 1. Die Evaluierung hat durch einen
-durch die Vertragspartner gemeinsam zu beauftragenden unabhängigen
-Dritten zu erfolgen. Dem Bundesministerium für Gesundheit ist jährlich
-über die Ergebnisse Bericht zu erstatten.
+übermitteln die Vertragspartner nach Absatz 1 dem Bundesministerium
+für Gesundheit vier Jahre nach Abschluss der Verträge nach Absatz 1
+einen Bericht, in dem insbesondere die mit der Versorgungsform
+verbundenen Auswirkungen auf das Versorgungsgeschehen im Bereich der
+Heilmittel, die Mengenentwicklung, die finanziellen Auswirkungen auf
+die Krankenkassen sowie die Auswirkungen auf die Behandlungs- und
+Ergebnisqualität darzulegen sind. Die Vertragspartner nach Satz 1
+übermitteln dem Bundesministerium für Gesundheit zwei Jahre nach
+Abschluss der Verträge einen Zwischenbericht.
 
 
-#### § 125b Bundesweit geltende Preise, Verordnungsermächtigung
+#### § 125b Verordnungsermächtigung
 
-(1) Die Verträge nach § 125 Absatz 2 in der bis zum 10. Mai 2019
-geltenden Fassung gelten unabhängig von der vereinbarten Laufzeit nur
-bis zum Inkrafttreten des Vertrages nach § 125 Absatz 1 des jeweiligen
-Heilmittelbereichs oder bis zur Entscheidung durch die Schiedsstelle
-mit der Maßgabe fort, dass ab dem 1. Juli 2019 die nach Absatz 2 zu
-bildenden Preise gelten. Einer Kündigung dieser Verträge bedarf es
-nicht.
+(1) (weggefallen)
 
-(2) Ab dem 1. Juli 2019 gilt für jedes Bundesland und jede Kassenart
-der jeweils höchste Preis, der für die jeweilige Leistungsposition in
-einer Region des Bundesgebietes vereinbart worden ist. Der
-Spitzenverband Bund der Krankenkassen hat sich mit den für die
-Wahrnehmung der Interessen der Heilmittelerbringer maßgeblichen
-Spitzenorganisationen auf Bundesebene auf die bundesweit geltenden
-Preise zu verständigen. § 71 findet keine Anwendung. Der
-Spitzenverband Bund der Krankenkassen hat die nach diesem Absatz
-festgesetzten Preise bis zum 30. Juni 2019 zu veröffentlichen. Erfolgt
-keine Veröffentlichung der Preise bis zum Ablauf der in Satz 4
-genannten Frist, kann das Bundesministerium für Gesundheit die Preise
-festsetzen; es kann dazu die Übermittlung aller bis zu diesem
-Zeitpunkt vereinbarten Preise oder der bereits abgeschlossenen
-Vergütungsvereinbarungen vom Spitzenverband Bund der Krankenkassen
-verlangen. Die Preise gelten mindestens bis zum 30. Juni 2020. Einer
-gesonderten Kündigung bedarf es nicht.
+(2) (weggefallen)
 
 (2a) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass
@@ -19524,14 +20275,28 @@ COVID-19-Pandemie entstehenden Kosten für erhöhte Hygienemaßnahmen für
 jede Heilmittelverordnung, die sie längstens bis zum Ablauf des 25.
 November 2022 abrechnen, einen zusätzlichen Betrag in Höhe von 1,50
 Euro gegenüber den Krankenkassen geltend machen können. Die
-Vertragsparteien nach § 125 Absatz 1 Satz 1 können in ihren Verträgen
-davon abweichende Vereinbarungen treffen.
+Vertragsparteien nach § 125 Absatz 1 Satz 1 haben Vereinbarungen zur
+pauschalen Abgeltung entstehender Kosten für erhöhte Hygienemaßnahmen
+für jede Heilmittelverordnung zu treffen, soweit diese Maßnahmen
+erforderlich sind, um nosokomiale Infektionen nach § 2 Nummer 8 des
+Infektionsschutzgesetzes zu verhüten und die Weiterverbreitung von
+Krankheitserregern, insbesondere solcher mit Resistenzen, zu
+vermeiden. Erforderlich sind diese Maßnahmen im Zeitraum der
+Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5
+Absatz 1 des Infektionsschutzgesetzes, längstens jedoch bis zum Ablauf
+des 7. April 2023.
 
-(3) Die Rahmenempfehlungen nach § 125 Absatz 1 in der bis zum 10. Mai
-2019 geltenden Fassung gelten unabhängig von der vereinbarten Laufzeit
-nur bis zum Inkrafttreten des jeweiligen Vertrages nach § 125 Absatz 1
-oder bis zur Entscheidung durch die Schiedsstelle. Einer Kündigung der
-Rahmenempfehlungen bedarf es nicht.
+(2b) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 des
+Infektionsschutzgesetzes eine epidemische Lage von nationaler
+Tragweite festgestellt hat, haben die Vertragsparteien nach § 125
+Absatz 1 Satz 1 die Vereinbarungen für den Zeitraum, der am Tag der
+Feststellung durch den Deutschen Bundestag beginnt und am Tag der
+Aufhebung der Feststellung, spätestens jedoch mit Ablauf des 7. April
+2023 endet, an eine aus dieser Sondersituation resultierende
+verminderte Inanspruchnahme von Heilmitteln anzupassen, um die
+Leistungsfähigkeit der Heilmittelerbringer zu gewährleisten.
+
+(3) (weggefallen)
 
 
 ### Sechster Abschnitt - Beziehungen zu Leistungserbringern von Hilfsmitteln
@@ -19579,6 +20344,20 @@ Leistungserbringer erforderlichen Daten zu unterrichten. Der
 Spitzenverband Bund der Krankenkassen ist befugt, die übermittelten
 Daten zu verarbeiten und den Krankenkassen sowie der nationalen
 Akkreditierungsstelle nach Absatz 2 Satz 1 bekannt zu geben.
+
+(1b) Abweichend von Absatz 1a Satz 2 erster Halbsatz haben öffentliche
+Apotheken keinen Nachweis der Erfüllung der Voraussetzungen nach
+Absatz 1 Satz 2 zu führen, soweit apothekenübliche Hilfsmittel an
+Versicherte abgegeben werden. Der Spitzenverband Bund der
+Krankenkassen hat mit der für die Wahrnehmung der wirtschaftlichen
+Interessen gebildeten maßgeblichen Spitzenorganisation der Apotheker
+eine Vereinbarung darüber abzuschließen, welche Hilfsmittel als
+apothekenübliche Hilfsmittel im Sinne des Satzes 1 einzustufen sind.
+Kommt eine Vereinbarung nach Satz 2 nicht bis zum 27. Januar 2024
+zustande, legt die Schiedsstelle nach § 129 Absatz 8 bis zum 27. April
+2024 den Inhalt der Vereinbarung fest. Eine bestehende Vereinbarung
+gilt bis zum Wirksamwerden einer neuen Vereinbarung fort; ein
+Schiedsspruch gilt bis zum Wirksamwerden der ersten Vereinbarung fort.
 
 (2) Als Präqualifizierungsstellen dürfen nur Zertifizierungsstellen
 für Produkte, Prozesse und Dienstleistungen gemäß DIN EN ISO/IEC
@@ -19676,23 +20455,24 @@ diese von der für die vertragschließende Krankenkasse zuständigen
 Aufsichtsbehörde innerhalb eines Monats nach Vorliegen der für die
 Bestimmung der Schiedsperson notwendigen Informationen bestimmt. Die
 Schiedsperson gilt als bestimmt, sobald sie sich gegenüber den
-Vertragspartnern zu ihrer Bestellung bereiterklärt hat. Legt die
-Schiedsperson Preise fest, hat sie diese so festzusetzen, dass eine in
-der Qualität gesicherte, ausreichende, zweckmäßige sowie
-wirtschaftliche Versorgung gewährleistet ist. Zur Ermittlung hat die
-Schiedsperson insbesondere die Kalkulationsgrundlagen der jeweiligen
-Verhandlungspartner und die marktüblichen Preise zu berücksichtigen.
-Die Verhandlungspartner sind verpflichtet, der Schiedsperson auf
-Verlangen alle für die zu treffende Festlegung erforderlichen
-Unterlagen zur Verfügung zu stellen. Die Kosten des Schiedsverfahrens
-tragen die Vertragspartner zu gleichen Teilen. Widerspruch und Klage
-gegen die Bestimmung der Schiedsperson durch die Aufsichtsbehörde
-haben keine aufschiebende Wirkung. Klagen gegen die Festlegung des
-Vertragsinhalts sind gegen den Vertragspartner zu richten. Der von der
-Schiedsperson festgelegte Vertragsinhalt oder von der Schiedsperson
-festgelegte einzelne Bestimmungen des Vertrages gelten bis zur
-gerichtlichen Ersetzung oder gerichtlichen Feststellung der
-Unbilligkeit weiter.
+Vertragspartnern zu ihrer Bestellung bereiterklärt hat. Der bisherige
+Vertrag und die bisherigen Preise gelten bis zur Entscheidung durch
+die Schiedsperson fort. Legt die Schiedsperson Preise fest, hat sie
+diese so festzusetzen, dass eine in der Qualität gesicherte,
+ausreichende, zweckmäßige sowie wirtschaftliche Versorgung
+gewährleistet ist. Zur Ermittlung hat die Schiedsperson insbesondere
+die Kalkulationsgrundlagen der jeweiligen Verhandlungspartner und die
+marktüblichen Preise zu berücksichtigen. Die Verhandlungspartner sind
+verpflichtet, der Schiedsperson auf Verlangen alle für die zu
+treffende Festlegung erforderlichen Unterlagen zur Verfügung zu
+stellen. Die Kosten des Schiedsverfahrens tragen die Vertragspartner
+zu gleichen Teilen. Widerspruch und Klage gegen die Bestimmung der
+Schiedsperson durch die Aufsichtsbehörde haben keine aufschiebende
+Wirkung. Klagen gegen die Festlegung des Vertragsinhalts sind gegen
+den Vertragspartner zu richten. Der von der Schiedsperson festgelegte
+Vertragsinhalt oder von der Schiedsperson festgelegte einzelne
+Bestimmungen des Vertrages gelten bis zur gerichtlichen Ersetzung oder
+gerichtlichen Feststellung der Unbilligkeit weiter.
 
 (2) Den Verträgen nach Absatz 1 Satz 1 können Leistungserbringer zu
 den gleichen Bedingungen als Vertragspartner beitreten, soweit sie
@@ -19913,7 +20693,7 @@ verpflichtet zur
 
 2.  Abgabe von preisgünstigen importierten Arzneimitteln, wenn deren für
     den Versicherten maßgeblicher Abgabepreis unter Berücksichtigung der
-    Abschläge nach § 130a Absatz 1, 1a, 2, 3a und 3b um den folgenden
+    Abschläge nach § 130a Absatz 1, 1a, 1b, 2, 3a und 3b um den folgenden
     Prozentwert oder Betrag niedriger ist als der Abgabepreis des
     Bezugsarzneimittels:
 
@@ -19952,30 +20732,39 @@ Packungsgrößen mit dem gleichen Packungsgrößenkennzeichen nach der in
 durch ein wirkstoffgleiches Arzneimittel vorzunehmen, für das eine
 Vereinbarung nach § 130a Abs. 8 mit Wirkung für die Krankenkasse
 besteht, soweit hierzu in Verträgen nach Absatz 5 nichts anderes
-vereinbart ist. Eine Ersetzung durch ein wirkstoffgleiches
-Arzneimittel ist auch bei Fertigarzneimitteln vorzunehmen, die für in
-Apotheken hergestellte parenterale Zubereitungen verwendet werden,
-wenn für das wirkstoffgleiche Arzneimittel eine Vereinbarung nach §
-130a Absatz 8a mit Wirkung für die Krankenkasse besteht und sofern in
-Verträgen nach Absatz 5 nichts anderes vereinbart ist. Besteht keine
-entsprechende Vereinbarung nach § 130a Abs. 8, hat die Apotheke die
-Ersetzung durch ein preisgünstigeres Arzneimittel nach Maßgabe des
-Rahmenvertrages vorzunehmen. Abweichend von den Sätzen 3 und 5 können
-Versicherte gegen Kostenerstattung ein anderes Arzneimittel erhalten,
-wenn die Voraussetzungen nach Satz 2 erfüllt sind. § 13 Absatz 2 Satz
-2 und 12 findet keine Anwendung. Bei der Abgabe von importierten
-Arzneimitteln und ihren Bezugsarzneimitteln gelten die Sätze 3 und 5
-entsprechend; dabei hat die Abgabe eines Arzneimittels, für das eine
-Vereinbarung nach § 130a Absatz 8 besteht, Vorrang vor der Abgabe nach
-Satz 1 Nummer 2. Satz 1 Nummer 2 gilt nicht für biotechnologisch
-hergestellte Arzneimittel und antineoplatische Arzneimittel zur
-parenteralen Anwendung. Der Spitzenverband Bund der Krankenkassen hat
-dem Bundesministerium für Gesundheit bis zum 31. Dezember 2021 einen
+vereinbart ist; die Abgabe eines nach § 130a Absatz 8a Satz 3
+rabattierten Arzneimittels ist der Abgabe eines nach § 130a Absatz 8a
+Satz 6 rabattierten Arzneimittels gleichgestellt. Eine Ersetzung durch
+ein wirkstoffgleiches Arzneimittel ist auch bei Fertigarzneimitteln
+vorzunehmen, die für in Apotheken hergestellte parenterale
+Zubereitungen verwendet werden, wenn für das wirkstoffgleiche
+Arzneimittel eine Vereinbarung nach § 130a Absatz 8c mit Wirkung für
+die Krankenkasse besteht und sofern in Verträgen nach Absatz 5 nichts
+anderes vereinbart ist. Besteht keine entsprechende Vereinbarung nach
+§ 130a Abs. 8, hat die Apotheke die Ersetzung durch ein
+preisgünstigeres Arzneimittel nach Maßgabe des Rahmenvertrages
+vorzunehmen. Abweichend von den Sätzen 3 und 5 können Versicherte
+gegen Kostenerstattung ein anderes Arzneimittel erhalten, wenn die
+Voraussetzungen nach Satz 2 erfüllt sind. § 13 Absatz 2 Satz 2 und 12
+findet keine Anwendung. Bei der Abgabe von importierten Arzneimitteln
+und ihren Bezugsarzneimitteln gelten die Sätze 3 und 5 entsprechend;
+dabei hat die Abgabe eines Arzneimittels, für das eine Vereinbarung
+nach § 130a Absatz 8 besteht, Vorrang vor der Abgabe nach Satz 1
+Nummer 2. Satz 1 Nummer 2 gilt nicht für biotechnologisch hergestellte
+Arzneimittel und antineoplatische Arzneimittel zur parenteralen
+Anwendung. Der Spitzenverband Bund der Krankenkassen hat dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2021 einen
 Bericht über die Auswirkungen von Satz 1 Nummer 2 vorzulegen. Das
 Bundesministerium für Gesundheit leitet diesen Bericht an den
 Deutschen Bundestag weiter mit einer eigenen Bewertung zur
 Beschlussfassung, ob eine Regelung nach Satz 1 Nummer 2 unter
-Berücksichtigung des Berichts weiterhin notwendig ist.
+Berücksichtigung des Berichts weiterhin notwendig ist. Die Regelungen
+für preisgünstige Arzneimittel nach Satz 1 Nummer 1 und den Sätzen 2
+bis 7 gelten entsprechend für im Wesentlichen gleiche biotechnologisch
+hergestellte biologische Arzneimittel, für die der Gemeinsame
+Bundesausschuss in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6
+eine Austauschbarkeit in Bezug auf ein biologisches
+Referenzarzneimittel festgestellt hat.
 
 (1a) Der Gemeinsame Bundesausschuss gibt in den Richtlinien nach § 92
 Abs. 1 Satz 2 Nr. 6 unverzüglich Hinweise zur Austauschbarkeit von
@@ -19992,12 +20781,15 @@ von biologischen Referenzarzneimitteln durch im Wesentlichen gleiche
 biotechnologisch hergestellte biologische Arzneimittel im Sinne des
 Artikels 10 Absatz 4 der Richtlinie 2001/83/EG unter Berücksichtigung
 ihrer therapeutischen Vergleichbarkeit. Die Hinweise sind erstmals bis
-zum 16. August 2020 zu bestimmen. Spätestens bis zum 16. August 2022
+zum 16. August 2020 zu bestimmen. Spätestens bis zum 16. August 2023
 gibt der Gemeinsame Bundesausschuss in den Richtlinien nach § 92
 Absatz 1 Satz 2 Nummer 6 ebenfalls Hinweise zur Austauschbarkeit von
-biologischen Referenzarzneimitteln durch Apotheken. Zur Umsetzung des
-Regelungsauftrags erhält der Gemeinsame Bundesausschuss auf Verlangen
-Einsicht in die Zulassungsunterlagen bei der zuständigen
+biologischen Referenzarzneimitteln durch Apotheken. Dabei soll der
+Gemeinsame Bundesausschuss zunächst Hinweise zur Austauschbarkeit von
+parenteralen Zubereitungen aus Fertigarzneimitteln zur unmittelbaren
+ärztlichen Anwendung bei Patientinnen und Patienten geben. Zur
+Umsetzung des Regelungsauftrags erhält der Gemeinsame Bundesausschuss
+auf Verlangen Einsicht in die Zulassungsunterlagen bei der zuständigen
 Bundesoberbehörde. Das Nähere regelt der Gemeinsame Bundesausschuss in
 seiner Verfahrensordnung.
 
@@ -20005,6 +20797,42 @@ seiner Verfahrensordnung.
 Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
 Spitzenorganisation der Apotheker regeln in einem gemeinsamen
 Rahmenvertrag das Nähere.
+
+(2a) Abweichend von Absatz 1 Satz 1 bis 5 und 8 und dem Rahmenvertrag
+nach Absatz 2 können Apotheken bei Nichtverfügbarkeit eines nach
+Maßgabe des Rahmenvertrags nach Absatz 2 abzugebenden Arzneimittels
+dieses gegen ein verfügbares wirkstoffgleiches Arzneimittel
+austauschen. Eine Nichtverfügbarkeit liegt vor, wenn das Arzneimittel
+innerhalb einer angemessenen Zeit durch zwei unterschiedliche
+Verfügbarkeitsanfragen bei vollversorgenden Arzneimittelgroßhandlungen
+im Sinne des § 52b Absatz 2 Satz 2 erster Halbsatz des
+Arzneimittelgesetzes nicht beschafft werden kann. Werden Apotheken nur
+von einer vollversorgenden Arzneimittelgroßhandlung beliefert, liegt
+abweichend von Satz 2 eine Nichtverfügbarkeit vor, wenn das
+Arzneimittel innerhalb einer angemessenen Frist durch eine
+Verfügbarkeitsanfrage bei dieser vollversorgenden
+Arzneimittelgroßhandlung im Sinne des § 52b Absatz 2 Satz 2 erster
+Halbsatz des Arzneimittelgesetzes nicht beschafft werden kann.
+Apotheken dürfen ohne Rücksprache mit dem verordnenden Arzt von der
+ärztlichen Verordnung im Hinblick auf Folgendes abweichen, sofern
+hierdurch die verordnete Gesamtmenge des Wirkstoffs nicht
+überschritten wird:
+
+1.  die Packungsgröße, auch mit einer Überschreitung der nach der
+    Packungsgrößenverordnung maßgeblichen Messzahl,
+
+
+2.  die Packungsanzahl,
+
+
+3.  die Abgabe von Teilmengen aus der Packung eines Fertigarzneimittels,
+    soweit die verordnete Packungsgröße nicht lieferbar ist, und
+
+
+4.  die Wirkstärke, sofern keine pharmazeutischen Bedenken bestehen.
+
+
+
 
 (3) Der Rahmenvertrag nach Absatz 2 hat Rechtswirkung für Apotheken,
 wenn sie
@@ -20081,6 +20909,46 @@ Krankenkasse abweichend von § 31 Absatz 2 Satz 1 die Mehrkosten. Das
 Nähere zur unmittelbaren Abgabe nach den Sätzen 2 und 3 und zur
 Abrechnung ist im Rahmenvertrag nach Absatz 2 festzulegen.
 
+(4d) Unabhängig von den nach Absatz 4 Satz 2 erster Halbsatz in dem
+Rahmenvertrag nach Absatz 2 getroffenen Regelungen ist eine Retaxation
+ausgeschlossen, wenn
+
+1.  die Dosierangabe auf der Verordnung fehlt,
+
+
+2.  das Ausstellungsdatum der Verordnung fehlt oder nicht lesbar ist,
+
+
+3.  die vom Gemeinsamen Bundesausschuss in den Richtlinien nach § 92
+    Absatz 1 Satz 2 Nummer 6 festgelegte Belieferungsfrist von
+    Verordnungen um bis zu drei Tage überschritten wird, es sei denn, es
+    handelt sich um Verordnungen nach § 39 Absatz 1a, Verordnungen von
+    Betäubungsmitteln oder Verordnungen von Wirkstoffen, für die kürzere
+    Belieferungsfristen festgelegt sind,
+
+
+4.  die Abgabe des Arzneimittels vor der Vorlage der ärztlichen Verordnung
+    erfolgt oder
+
+
+5.  die Genehmigung der zuständigen Krankenkasse bei Abgabe des
+    Arzneimittels fehlt und diese nachträglich erteilt wird.
+
+
+
+Sofern entgegen Absatz 1 Satz 1 Nummer 1 oder Satz 3 eine Ersetzung
+des verordneten Arzneimittels nicht erfolgt oder die nach Absatz 2a
+Satz 2 vorgesehenen Verfügbarkeitsanfragen ganz oder teilweise nicht
+vorgenommen wurden, ist eine Retaxation des abgegebenen Arzneimittels
+ausgeschlossen; in diesen Fällen besteht kein Anspruch der abgebenden
+Apotheke auf die Vergütung nach § 3 Absatz 1 Satz 1 der
+Arzneimittelpreisverordnung.
+
+(4e) Der Spitzenverband Bund der Krankenkassen hat dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2024 einen
+Bericht zu den Auswirkungen der Regelungen des Absatzes 4d und zur
+Einhaltung der Vorgaben nach Absatz 2a vorzulegen.
+
 (5) Die Krankenkassen oder ihre Verbände können mit der für die
 Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Organisation
 der Apotheker auf Landesebene ergänzende Verträge schließen. Absatz 3
@@ -20143,7 +21011,10 @@ verlangen. Der Anspruch nach Satz 8 umfasst jeweils auch die auf das
 Fertigarzneimittel und den Gesamtumsatz bezogenen Rabatte. Klagen über
 den Auskunftsanspruch haben keine aufschiebende Wirkung; ein
 Vorverfahren findet nicht statt. Die Krankenkasse kann ihren
-Landesverband mit der Prüfung beauftragen.
+Landesverband mit der Prüfung beauftragen. Abweichend von den Sätzen 1
+bis 5 gelten in den Fällen, in denen ein Wirkstoff zu dem nach den
+Sätzen 1 bis 5 vereinbarten oder festgesetzten Preis nicht verfügbar
+ist, die Sätze 6 bis 12 entsprechend.
 
 (5d) Für Leistungen nach § 31 Absatz 6 vereinbaren die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
@@ -20280,7 +21151,12 @@ von 1,77 Euro je Arzneimittel, für sonstige Arzneimittel einen
 Abschlag in Höhe von 5 vom Hundert auf den für den Versicherten
 maßgeblichen Arzneimittelabgabepreis.
 
-(1a) (weggefallen)
+(1a) Für verschreibungspflichtige Fertigarzneimittel sowie für
+Zubereitungen nach § 5 Absatz 3 der Arzneimittelpreisverordnung, die
+nicht § 5 Absatz 6 der Arzneimittelpreisverordnung unterfallen,
+erhalten die Krankenkassen von den Apotheken abweichend von Absatz 1
+im Zeitraum vom 1. Februar 2023 bis zum 31. Januar 2025 einen Abschlag
+von 2 Euro je Arzneimittel.
 
 (2) Ist für das Arzneimittel ein Festbetrag nach § 35 festgesetzt,
 bemißt sich der Abschlag nach dem Festbetrag. Liegt der maßgebliche
@@ -20350,6 +21226,19 @@ durch eine erneute Preissenkung gegenüber dem am 1. August 2009
 geltenden Abgabepreis des pharmazeutischen Unternehmers gemindert;
 Satz 4 gilt entsprechend.
 
+(1b) Abweichend von Absatz 1 Satz 1 erhalten die Krankenkassen von
+Apotheken für zu ihren Lasten abgegebene Arzneimittel vom 1. Januar
+2023 bis zum 31. Dezember 2023 einen Abschlag in Höhe von 12 Prozent
+des Abgabepreises des pharmazeutischen Unternehmers ohne
+Mehrwertsteuer. Ist der Abschlag nach Absatz 1 Satz 1 in einer
+Erstattungsbetragsvereinbarung nach § 130b abgelöst worden, erhalten
+die Krankenkassen von Apotheken einen Abschlag in Höhe von 5 Prozent
+des Abgabepreises des pharmazeutischen Unternehmers ohne
+Mehrwertsteuer. Die Abschläge nach den Sätzen 1 und 2 können durch
+eine ab dem 12. November 2022 abgeschlossene
+Erstattungsbetragsvereinbarung nach § 130b abgelöst werden, sofern
+dies ausdrücklich vereinbart ist.
+
 (2) Die Krankenkassen erhalten von den Apotheken für die zu ihren
 Lasten abgegebenen Impfstoffe für Schutzimpfungen nach § 20i einen
 Abschlag auf den Abgabepreis des pharmazeutischen Unternehmers ohne
@@ -20375,13 +21264,13 @@ gilt, darf höchstens ein Betrag vereinbart werden, der dem
 entsprechenden Apothekenabgabepreis abzüglich des Abschlags nach Satz
 1 entspricht.
 
-(3) Die Absätze 1, 1a und 2 gelten nicht für Arzneimittel, für die ein
-Festbetrag auf Grund des § 35 festgesetzt ist.
+(3) Die Absätze 1, 1a, 1b und 2 gelten nicht für Arzneimittel, für die
+ein Festbetrag auf Grund des § 35 festgesetzt ist.
 
 (3a) Erhöht sich der Abgabepreis des pharmazeutischen Unternehmers
 ohne Mehrwertsteuer gegenüber dem Preisstand am 1. August 2009,
 erhalten die Krankenkassen für die zu ihren Lasten abgegebenen
-Arzneimittel ab dem 1. August 2010 bis zum 31. Dezember 2022 einen
+Arzneimittel ab dem 1. August 2010 bis zum 31. Dezember 2026 einen
 Abschlag in Höhe des Betrages der Preiserhöhung; dies gilt nicht für
 Arzneimittel, für die ein Festbetrag auf Grund des § 35 festgesetzt
 ist. Zur Berechnung des Abschlags nach Satz 1 ist der Preisstand vom
@@ -20396,30 +21285,39 @@ pharmazeutische Unternehmer bereits ein Arzneimittel mit gleichem
 Wirkstoff und vergleichbarer Darreichungsform in Verkehr gebracht hat,
 ist der Abschlag auf Grundlage des Preises je Mengeneinheit der
 Packung zu berechnen, die dem neuen Arzneimittel in Bezug auf die
-Packungsgröße unter Berücksichtigung der Wirkstärke am nächsten kommt.
-Satz 4 gilt entsprechend bei Änderungen zu den Angaben des
-pharmazeutischen Unternehmers oder zum Mitvertrieb durch einen anderen
-pharmazeutischen Unternehmer. Für importierte Arzneimittel, die nach §
-129 Absatz 1 Satz 1 Nummer 2 abgegeben werden, gilt abweichend von
-Satz 1 ein Abrechnungsbetrag von höchstens dem Betrag, welcher
-entsprechend den Vorgaben des § 129 Absatz 1 Satz 1 Nummer 2 niedriger
-ist als der Arzneimittelabgabepreis des Bezugsarzneimittels
-einschließlich Mehrwertsteuer, unter Berücksichtigung von Abschlägen
-für das Bezugsarzneimittel aufgrund dieser Vorschrift. Abschläge nach
-Absatz 1, 1a und 3b werden zusätzlich zu dem Abschlag nach den Sätzen
-1 bis 5 erhoben. Rabattbeträge, die auf Preiserhöhungen nach Absatz 1
-und 3b zu gewähren sind, vermindern den Abschlag nach den Sätzen 1 bis
-6 entsprechend. Für die Abrechnung des Abschlags nach den Sätzen 1 bis
-6 gelten die Absätze 1, 5 bis 7 und 9 entsprechend. Absatz 4 findet
-Anwendung. Das Nähere regelt der Spitzenverband Bund der Krankenkassen
-ab dem 13. Mai 2017 im Benehmen mit den für die Wahrnehmung der
-wirtschaftlichen Interessen gebildeten maßgeblichen
-Spitzenorganisationen der pharmazeutischen Unternehmer auf
-Bundesebene. Der Abschlag nach Satz 1 gilt entsprechend für
+Packungsgröße unter Berücksichtigung der Wirkstärke am nächsten kommt;
+dies gilt nicht für die Neueinführung eines Immunglobulins
+menschlicher Herkunft, für das nach dem 31. Dezember 2018 eine
+Zulassung nach § 25 Absatz 1 des Arzneimittelgesetzes oder eine
+Genehmigung für das Inverkehrbringen nach Artikel 3 Absatz 1 oder
+Absatz 2 der Verordnung (EG) Nr. 726/2004 erteilt wurde, mit Ausnahme
+der Zulassung von anderen Stärken oder Ausbietungen. Satz 4 gilt
+entsprechend bei Änderungen zu den Angaben des pharmazeutischen
+Unternehmers oder zum Mitvertrieb durch einen anderen pharmazeutischen
+Unternehmer. Für importierte Arzneimittel, die nach § 129 Absatz 1
+Satz 1 Nummer 2 abgegeben werden, gilt abweichend von Satz 1 ein
+Abrechnungsbetrag von höchstens dem Betrag, welcher entsprechend den
+Vorgaben des § 129 Absatz 1 Satz 1 Nummer 2 niedriger ist als der
+Arzneimittelabgabepreis des Bezugsarzneimittels einschließlich
+Mehrwertsteuer, unter Berücksichtigung von Abschlägen für das
+Bezugsarzneimittel aufgrund dieser Vorschrift. Abschläge nach den
+Absätzen 1, 1a, 1b und 3b werden zusätzlich zu dem Abschlag nach den
+Sätzen 1 bis 5 erhoben. Rabattbeträge, die auf Preiserhöhungen nach
+den Absätzen 1, 1b und 3b zu gewähren sind, vermindern den Abschlag
+nach den Sätzen 1 bis 6 entsprechend. Für die Abrechnung des Abschlags
+nach den Sätzen 1 bis 6 gelten die Absätze 1, 5 bis 7 und 9
+entsprechend. Absatz 4 findet Anwendung. Das Nähere regelt der
+Spitzenverband Bund der Krankenkassen ab dem 13. Mai 2017 im Benehmen
+mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten
+maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer
+auf Bundesebene. Der Abschlag nach Satz 1 gilt entsprechend für
 Arzneimittel, die nach § 129a abgegeben werden; Absatz 1 Satz 7 gilt
 entsprechend. Für Arzneimittel zur spezifischen Therapie von
 Gerinnungsstörungen bei Hämophilie gilt Satz 1 mit der Maßgabe, dass
-der Preisstand des 1. September 2020 Anwendung findet.
+der Preisstand des 1. September 2020 Anwendung findet. Der
+Spitzenverband Bund der Krankenkassen hat dem Bundesministerium für
+Gesundheit bis zum 31. Dezember 2023 einen Bericht über die
+Auswirkungen von Satz 4 zweiter Halbsatz vorzulegen.
 
 (3b) Für patentfreie, wirkstoffgleiche Arzneimittel erhalten die
 Krankenkassen ab dem 1. April 2006 einen Abschlag von 10 vom Hundert
@@ -20450,33 +21348,85 @@ Mehrwertsteuer ablösen, sofern er für die Dauer von zwölf Monaten ab
 der neu vorgenommenen Preissenkung einen weiteren Abschlag von 2 vom
 Hundert des Abgabepreises nach Satz 1 gewährt.
 
+(3c) Wird ein Arzneimittel in den Markt eingeführt, für das nach
+Absatz 3a Satz 4 oder Satz 5 ein Abschlag nach Absatz 3a Satz 1
+anfällt, kann der pharmazeutische Unternehmer beim Spitzenverband Bund
+der Krankenkassen eine Befreiung vom Abschlag nach Absatz 3a Satz 1
+beantragen. Der Antrag ist zu begründen. Die Befreiung ist zu
+erteilen, wenn für das in den Markt eingeführte Arzneimittel eine neue
+arzneimittelrechtliche Genehmigung erteilt wurde, die im Vergleich zu
+bereits zugelassenen Arzneimitteln mit demselben Wirkstoff eine neue
+Patientengruppe oder ein neues Anwendungsgebiet erfasst und wenn eine
+Verbesserung der Versorgung zu erwarten ist. Der Spitzenverband Bund
+der Krankenkassen entscheidet über den Antrag innerhalb von acht
+Wochen nach Eingang. Die Entscheidung ist zusammen mit den tragenden
+Gründen und dem Antrag unverzüglich mit einer Frist von vier Wochen
+dem Bundesministerium für Gesundheit zur Prüfung zu übermitteln.
+Erteilt der Spitzenverband Bund der Krankenkassen die Befreiung oder
+wird die Entscheidung des Spitzenverbandes Bund der Krankenkassen
+durch die Entscheidung des Bundesministeriums für Gesundheit ersetzt,
+vereinbart der Spitzenverband Bund der Krankenkassen innerhalb von
+drei Monaten nach Bekanntgabe der Entscheidung gegenüber dem
+pharmazeutischen Unternehmer mit dem pharmazeutischen Unternehmer im
+Benehmen mit dem Verband der Privaten Krankenversicherung mit Wirkung
+für alle Krankenkassen einen Herstellerabgabepreis für das
+Arzneimittel. Die Krankenkassen erhalten den Abschlag nach Absatz 3a
+Satz 1 bis zum Zeitpunkt der Vereinbarung eines neuen
+Herstellerabgabepreises.
+
+(3d) Für in § 35 Absatz 1a Satz 2 genannte Arzneimittel, für die nach
+Absatz 1a Satz 4 ein fiktiver Festbetrag festgesetzt wurde, bestimmt
+sich abweichend von Absatz 3a der Preisstand als Basispreis aus dem um
+50 Prozent angehobenen fiktiven Festbetrag auf Grundlage des
+Abgabepreises der pharmazeutischen Unternehmer ohne Mehrwertsteuer.
+Für in § 35 Absatz 5 Satz 8 genannte Arzneimittel bestimmt sich
+abweichend von Absatz 3a der Preisstand als Basispreis aus den um 50
+Prozent angehobenen Festbetrag auf Grundlage des Abgabepreises der
+pharmazeutischen Unternehmer ohne Mehrwertsteuer, der zuletzt für das
+Arzneimittel galt. Für Arzneimittel, die in der nach § 35 Absatz 5a
+Satz 1 erstellten Liste aufgeführt sind und deren Festbetrag
+aufgehoben wurde, bestimmt sich abweichend von Absatz 3a der
+Preisstand als Basispreis entsprechend des Satzes 2. Für Arzneimittel,
+die in der nach § 35 Absatz 5a Satz 1 erstellten Liste aufgeführt sind
+und für die zum Zeitpunkt der Bekanntmachung der nach § 35 Absatz 5a
+Satz 1 erstellten Liste oder der Änderung dieser Liste kein Festbetrag
+galt, bestimmt sich abweichend von Absatz 3a der Preisstand als
+Basispreis aus dem um 50 Prozent angehobenen zuletzt geltenden
+Preisstand gemäß Absatz 3a. Für Arzneimittel, für die das
+Bundesministerium für Gesundheit eine Bestimmung nach § 35 Absatz 5b
+Satz 3 getroffen hat und für die zum Zeitpunkt der Bekanntmachung
+dieser Bestimmung kein Festbetrag galt, bestimmt sich abweichend von
+Absatz 3a der Preisstand als Basispreis aus dem um 50 Prozent
+angehobenen zuletzt geltenden Preisstand gemäß Absatz 3a. Die Sätze 1
+bis 5 finden ab dem 1. Februar 2024 Anwendung.
+
 (4) Das Bundesministerium für Gesundheit hat nach einer Überprüfung
-der Erforderlichkeit der Abschläge nach den Absätzen 1, 1a und 3a nach
-Maßgabe des Artikels 4 der Richtlinie 89/105/EWG des Rates vom 21.
-Dezember 1988 betreffend die Transparenz von Maßnahmen zur Regelung
-der Preisfestsetzung bei Arzneimitteln für den menschlichen Gebrauch
-und ihre Einbeziehung in die staatlichen Krankenversicherungssysteme
-die Abschläge durch Rechtsverordnung mit Zustimmung des Bundesrates
-aufzuheben oder zu verringern, wenn und soweit diese nach der
-gesamtwirtschaftlichen Lage, einschließlich ihrer Auswirkung auf die
-gesetzliche Krankenversicherung, nicht mehr gerechtfertigt sind. Über
-Anträge pharmazeutischer Unternehmer nach Artikel 4 der in Satz 1
-genannten Richtlinie auf Ausnahme von den nach den Absätzen 1, 1a und
-3a vorgesehenen Abschlägen entscheidet das Bundesministerium für
-Gesundheit. Das Vorliegen eines Ausnahmefalls und der besonderen
-Gründe sind im Antrag hinreichend darzulegen. § 34 Absatz 6 Satz 3 bis
-5 und 7 gilt entsprechend. Das Bundesministerium für Gesundheit kann
-Sachverständige mit der Prüfung der Angaben des pharmazeutischen
-Unternehmers beauftragen. Dabei hat es die Wahrung der Betriebs- und
-Geschäftsgeheimnisse sicherzustellen. § 137g Absatz 1 Satz 7 bis 9 und
-13 gilt entsprechend mit der Maßgabe, dass die tatsächlich
-entstandenen Kosten auf der Grundlage pauschalierter Kostensätze
-berechnet werden können. Das Bundesministerium für Gesundheit kann die
-Aufgaben nach den Sätzen 2 bis 7 auf eine Bundesoberbehörde
-übertragen.
+der Erforderlichkeit der Abschläge nach den Absätzen 1, 1a, 1b und 3a
+nach Maßgabe des Artikels 4 der Richtlinie 89/105/EWG des Rates vom
+21\. Dezember 1988 betreffend die Transparenz von Maßnahmen zur
+Regelung der Preisfestsetzung bei Arzneimitteln für den menschlichen
+Gebrauch und ihre Einbeziehung in die staatlichen
+Krankenversicherungssysteme die Abschläge durch Rechtsverordnung mit
+Zustimmung des Bundesrates aufzuheben oder zu verringern, wenn und
+soweit diese nach der gesamtwirtschaftlichen Lage, einschließlich
+ihrer Auswirkung auf die gesetzliche Krankenversicherung, nicht mehr
+gerechtfertigt sind. Über Anträge pharmazeutischer Unternehmer nach
+Artikel 4 der in Satz 1 genannten Richtlinie auf Ausnahme von den nach
+den Absätzen 1, 1a, 1b und 3a vorgesehenen Abschlägen entscheidet das
+Bundesministerium für Gesundheit. Das Vorliegen eines Ausnahmefalls
+und der besonderen Gründe sind im Antrag hinreichend darzulegen. § 34
+Absatz 6 Satz 3 bis 5 und 7 gilt entsprechend. Das Bundesministerium
+für Gesundheit kann Sachverständige mit der Prüfung der Angaben des
+pharmazeutischen Unternehmers beauftragen. Dabei hat es die Wahrung
+der Betriebs- und Geschäftsgeheimnisse sicherzustellen. § 137g Absatz
+1 Satz 7 bis 9 und 13 gilt entsprechend mit der Maßgabe, dass die
+tatsächlich entstandenen Kosten auf der Grundlage pauschalierter
+Kostensätze berechnet werden können. Das Bundesministerium für
+Gesundheit kann die Aufgaben nach den Sätzen 2 bis 7 auf eine
+Bundesoberbehörde übertragen.
 
 (5) Der pharmazeutische Unternehmer kann berechtigte Ansprüche auf
-Rückzahlung der Abschläge nach den Absätzen 1, 1a, 2, 3a und 3b
+Rückzahlung der Abschläge nach den Absätzen 1, 1a, 1b, 2, 3a und 3b
 gegenüber der begünstigten Krankenkasse geltend machen.
 
 (6) Zum Nachweis des Abschlags übermitteln die Apotheken die
@@ -20525,10 +21475,110 @@ Abschluss solcher Verträge beauftragen. Die Vereinbarung von Rabatten
 nach Satz 1 soll für eine Laufzeit von zwei Jahren erfolgen. In den
 Vereinbarungen nach Satz 1 sind die Vielfalt der Anbieter und die
 Sicherstellung einer bedarfsgerechten Versorgung der Versicherten zu
-berücksichtigen. Satz 1 gilt nicht für Impfstoffe für Schutzimpfungen
-nach § 20i.
+berücksichtigen. In den Vereinbarungen nach Satz 1 über patentfreie
+Arzneimittel, die nach den Vorschriften des Teils 4 des Gesetzes gegen
+Wettbewerbsbeschränkungen geschlossen werden, ist eine kontinuierliche
+versorgungsnahe Bevorratung der von der jeweiligen Vereinbarung
+erfassten Arzneimittel in einem Umfang zu vereinbaren, der der
+voraussichtlich innerhalb eines Zeitraums von sechs Monaten ab dem
+Abschluss der Vereinbarung durchschnittlich abzugebenden Menge dieser
+Arzneimittel entspricht. Als versorgungsnah gilt eine Bevorratung in
+der Europäischen Union oder in einem Vertragsstaat des Europäischen
+Wirtschaftsraumes. Innerhalb der letzten sechs Monate vor Ende der
+Vertragslaufzeit der Vereinbarung nach Satz 1 darf die Bevorratung der
+von der jeweiligen Vereinbarung erfassten Arzneimittel unter
+Sicherstellung der bedarfsgerechten, angemessenen und kontinuierlichen
+Belieferung nach § 52b Absatz 1 und 2 Satz 1 des Arzneimittelgesetzes
+schrittweise reduziert werden. Satz 1 gilt nicht für Impfstoffe für
+Schutzimpfungen nach § 20i und die in der nach § 35 Absatz 5a Satz 1
+erstellten Liste aufgeführten Arzneimittel zur Behandlung von Kindern.
 
-(8a) Die Landesverbände der Krankenkassen und die Ersatzkassen können
+(8a) Zur Vermeidung von Lieferengpässen und zur Sicherstellung einer
+diversifizierten, bedarfsgerechten Versorgung mit patentfreien
+Antibiotika bilden die Krankenkassen oder ihre Verbände für die
+Vergabe von Vereinbarungen nach Absatz 8 Satz 1 für diese Arzneimittel
+Lose nach § 97 Absatz 4 Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen. Die Krankenkassen oder ihre Verbände legen
+jeweils die für die Gewährleistung der Liefersicherheit erforderliche
+Anzahl der Lose fest. Abweichend von § 97 Absatz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen in Verbindung mit § 69 Absatz 3 schreiben
+die Krankenkassen oder ihre Verbände mindestens die Hälfte der Lose so
+aus, dass Rabatte für die in Satz 1 genannten Arzneimittel mit
+pharmazeutischen Unternehmern nach Absatz 8 Satz 1 vereinbart werden,
+die für die Herstellung dieser Arzneimittel in der Europäischen Union
+oder einem Vertragsstaat des Europäischen Wirtschaftsraumes
+produzierte Wirkstoffe verwenden. Der Verwendung von in der
+Europäischen Union oder in einem Vertragsstaat des Europäischen
+Wirtschaftsraumes produzierten Wirkstoffen für die Herstellung der in
+Satz 1 genannten Arzneimittel steht die Verwendung von in einem Staat
+produzierten Wirkstoffen für die Herstellung der in Satz 1 genannten
+Arzneimittel gleich, sofern
+
+1.  dieser Staat der dem Übereinkommen über das öffentliche
+    Beschaffungswesen von 1994 (ABl. C 256 vom 3.9.1996, S. 1), das durch
+    das Protokoll zur Änderung des Übereinkommens über das öffentliche
+    Beschaffungswesen (ABl. L 68 vom 7.3.2014, S. 2) geändert worden ist,
+    oder anderen, für die Europäische Union bindenden internationalen
+    Übereinkommen beigetreten ist,
+
+
+2.  der jeweilige öffentliche Auftrag in den Anwendungsbereich des
+    jeweiligen Übereinkommens fällt und
+
+
+3.  mindestens die Hälfte der zur Erfüllung der Vereinbarung nach Absatz 8
+    Satz 1 benötigten Wirkstoffe für die Herstellung der in Satz 1
+    genannten Arzneimittel in der Europäischen Union oder in einem
+    Vertragsstaat des Europäischen Wirtschaftsraumes produziert wird.
+
+
+
+Die Beschränkungen nach den Sätzen 3 und 4 müssen mit Hinweis auf
+diese Vorschriften in der Auftragsbekanntmachung und den
+Vergabeunterlagen aufgeführt werden. Die übrigen Lose schreiben die
+Krankenkassen oder ihre Verbände so aus, dass Vereinbarungen nach
+Absatz 8 Satz 1 für die in Satz 1 genannten Arzneimittel mit mehr als
+einem pharmazeutischen Unternehmer geschlossen werden. Die Lose nach
+Satz 3 ermöglichen dieselbe Liefermenge wie die Lose nach Satz 6.
+Gehen in einem der nach Satz 3 oder Satz 6 ausgeschriebenen Lose keine
+oder keine zuschlagsfähigen Angebote ein, hat dies keinen Einfluss auf
+die Erteilung des Zuschlags in den anderen nach Satz 3 oder Satz 6
+ausgeschriebenen Losen. Das Bundesinstitut für Arzneimittel und
+Medizinprodukte erteilt den Krankenkassen oder ihren Verbänden auf
+Antrag Auskunft zur Herstellungsstätte des bei der Herstellung des
+rabattierten Arzneimittels tatsächlich verwendeten Wirkstoffs eines
+pharmazeutischen Unternehmers, wenn dies für die Entscheidung über den
+Zuschlag oder die Überprüfung der Erfüllung der Vereinbarung nach
+Absatz 8 Satz 1 erforderlich ist. Sofern Arzneimittel im
+Zuständigkeitsbereich des Paul-Ehrlich-Instituts betroffen sind,
+erfolgt die Erteilung der Auskunft im Einvernehmen mit dem Paul-
+Ehrlich-Institut.
+
+(8b) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann nach
+Anhörung des nach § 52b Absatz 3b Satz 1 des Arzneimittelgesetzes
+eingerichteten Beirats dem Bundesministerium für Gesundheit empfehlen,
+einzelne patentfreie Arzneimittel mit in der Liste nach § 52b Absatz
+3c Satz 1 des Arzneimittelgesetzes aufgeführten versorgungskritischen
+Wirkstoffen oder patentfreie Arzneimittel mit versorgungskritischen
+Wirkstoffen eines bestimmten Anwendungsbereichs als Arzneimittel mit
+drohender oder bestehender versorgungsrelevanter Marktkonzentration
+einzustufen. Sofern Wirkstoffe im Zuständigkeitsbereich des Paul-
+Ehrlich-Instituts betroffen sind, erfolgt die Empfehlung im
+Einvernehmen mit dem Paul-Ehrlich-Institut. Auf der Grundlage der
+Empfehlung des Bundesinstituts für Arzneimittel und Medizinprodukte
+kann das Bundesministerium für Gesundheit nach Anhörung des
+Spitzenverbandes Bund der Krankenkassen einzelne patentfreie
+Arzneimittel mit in der Liste nach § 52b Absatz 3c Satz 1 des
+Arzneimittelgesetzes aufgeführten versorgungskritischen Wirkstoffen
+oder patentfreie Arzneimittel mit versorgungskritischen Wirkstoffen
+eines bestimmten Anwendungsbereichs als Arzneimittel mit drohender
+oder bestehender versorgungsrelevanter Marktkonzentration einstufen.
+Die Einstufung ist im Bundesanzeiger bekanntzumachen. Absatz 8a ist
+auch auf patentfreie Arzneimittel, die nach Satz 3 als Arzneimittel
+mit drohender oder bestehender versorgungsrelevanter
+Marktkonzentration eingestuft wurden, anzuwenden.
+
+(8c) Die Landesverbände der Krankenkassen und die Ersatzkassen können
 zur Versorgung ihrer Versicherten mit in Apotheken hergestellten
 parenteralen Zubereitungen aus Fertigarzneimitteln in der Onkologie
 zur unmittelbaren ärztlichen Anwendung bei Patienten mit
@@ -20544,7 +21594,7 @@ einer bedarfsgerechten Versorgung der Versicherten zu berücksichtigen.
 Leidens nach der Verordnung (EG) Nr. 141/2000 des Europäischen
 Parlaments und des Rates vom 16. Dezember 1999 zugelassen ist. Dem
 Antrag ist stattzugeben, wenn der Antragsteller nachweist, dass durch
-einen Abschlag nach den Absätzen 1, 1a und 3a seine Aufwendungen
+einen Abschlag nach den Absätzen 1, 1a, 1b und 3a seine Aufwendungen
 insbesondere für Forschung und Entwicklung für das Arzneimittel nicht
 mehr finanziert werden.
 
@@ -20571,20 +21621,30 @@ deren Vorbereitung einschließlich der Beratungsunterlagen und
 Niederschriften zur Vereinbarung des Erstattungsbetrages sind
 vertraulich.
 
-(1a) Bei einer Vereinbarung nach Absatz 1 können insbesondere auch
-mengenbezogene Aspekte, wie eine mengenbezogene Staffelung oder ein
-jährliches Gesamtvolumen, vereinbart werden. Eine Vereinbarung nach
-Absatz 1 kann auch das Gesamtausgabenvolumen des Arzneimittels unter
-Beachtung seines Stellenwerts in der Versorgung berücksichtigen. Dies
-kann eine Begrenzung des packungsbezogenen Erstattungsbetrags oder die
+(1a) Bei einer Vereinbarung nach Absatz 1 müssen mengenbezogene
+Aspekte, wie eine mengenbezogene Staffelung oder ein jährliches
+Gesamtvolumen, vereinbart werden. Eine Vereinbarung nach Absatz 1 muss
+das Gesamtausgabenvolumen des Arzneimittels unter Beachtung seines
+Stellenwerts in der Versorgung berücksichtigen. Dies kann eine
+Begrenzung des packungsbezogenen Erstattungsbetrags oder die
 Berücksichtigung mengenbezogener Aspekte erforderlich machen. Das
 Nähere zur Abwicklung solcher Vereinbarungen, insbesondere im
 Verhältnis zu den Krankenkassen und im Hinblick auf deren
 Mitwirkungspflichten, regelt der Spitzenverband Bund der Krankenkassen
 in seiner Satzung.
 
-(2) Eine Vereinbarung nach Absatz 1 soll vorsehen, dass Verordnungen
-des Arzneimittels von der Prüfungsstelle als bei den
+(1b) Stehen für ein Arzneimittel keine wirtschaftlichen Packungsgrößen
+für die in der Zulassung genannten Patientengruppen zur Verfügung, die
+eine therapiegerechte Dosierung ermöglichen, und ist daher bei einer
+oder mehreren Patientengruppen ein Verwurf von mehr als 20 Prozent des
+Inhalts der in Verkehr gebrachten Packungen zu erwarten, ist dieser
+Verwurf bei einer Vereinbarung nach Absatz 1 im Verhältnis zu der
+jeweiligen Patientengruppe preismindernd zu berücksichtigen.
+
+(2) Für Arzneimittel, für die der Gemeinsame Bundesausschuss nach §
+35a Absatz 3 Satz 1 einen Zusatznutzen festgestellt hat, soll eine
+Vereinbarung nach Absatz 1 vorsehen, dass Verordnungen des
+Arzneimittels von der Prüfungsstelle als bei den
 Wirtschaftlichkeitsprüfungen nach den §§ 106 bis 106c zu
 berücksichtigende Praxisbesonderheiten anerkannt werden, wenn der Arzt
 bei der Verordnung im Einzelfall die dafür vereinbarten Anforderungen
@@ -20593,27 +21653,49 @@ Programmen zur Verordnung von Arzneimitteln nach § 73 Absatz 9 Satz 1
 zu hinterlegen. Das Nähere ist in den Verträgen nach § 82 Absatz 1 zu
 vereinbaren.
 
-(3) Für ein Arzneimittel, das nach dem Beschluss des Gemeinsamen
-Bundesausschusses nach § 35a Absatz 3 keinen Zusatznutzen hat und
-keiner Festbetragsgruppe zugeordnet werden kann, soll ein
-Erstattungsbetrag nach Absatz 1 vereinbart werden, der nicht zu
-höheren Jahrestherapiekosten führt als die nach § 35a Absatz 1 Satz 7
-bestimmte zweckmäßige Vergleichstherapie. Sind nach § 35a Absatz 1
-Satz 7 mehrere Alternativen für die zweckmäßige Vergleichstherapie
-bestimmt, soll der Erstattungsbetrag nicht zu höheren
-Jahrestherapiekosten führen als die wirtschaftlichste Alternative.
-Absatz 2 findet keine Anwendung. Soweit nichts anderes vereinbart
-wird, kann der Spitzenverband Bund der Krankenkassen zur Festsetzung
-eines Festbetrags nach § 35 Absatz 3 die Vereinbarung abweichend von
-Absatz 7 außerordentlich kündigen. Für ein Arzneimittel, für das ein
-Zusatznutzen nach § 35a Absatz 1 Satz 5 als nicht belegt gilt, ist ein
-Erstattungsbetrag zu vereinbaren, der zu in angemessenem Umfang
-geringeren Jahrestherapiekosten führt als die nach § 35a Absatz 1 Satz
-7 bestimmte zweckmäßige Vergleichstherapie. Sind nach § 35a Absatz 1
-Satz 7 mehrere Alternativen für die zweckmäßige Vergleichstherapie
-bestimmt, ist ein Erstattungsbetrag zu vereinbaren, der zu in
-angemessenem Umfang geringeren Jahrestherapiekosten führt als die
-wirtschaftlichste Alternative. Für Arzneimittel nach § 35a Absatz 3b
+(3) Der Erstattungsbetrag ist auf Grundlage des im Beschluss über die
+Nutzenbewertung nach § 35a Absatz 3 festgestellten Ausmaßes des
+Zusatznutzens und dessen Wahrscheinlichkeit nach Absatz 1 zu
+vereinbaren oder nach Absatz 4 festzusetzen. Ist für ein Arzneimittel,
+das nach dem Beschluss des Gemeinsamen Bundesausschusses nach § 35a
+Absatz 3 Satz 1 keinen Zusatznutzen hat und keiner Festbetragsgruppe
+zugeordnet werden kann, als zweckmäßige Vergleichstherapie durch den
+Gemeinsamen Bundesausschuss ein Arzneimittel mit einem Wirkstoff
+bestimmt, für den Patentschutz oder Unterlagenschutz besteht, ist ein
+Erstattungsbetrag zu vereinbaren, der zu Jahrestherapiekosten führt,
+die mindestens 10 Prozent unterhalb derjenigen der zweckmäßigen
+Vergleichstherapie liegen. Ist für ein Arzneimittel, das nach dem
+Beschluss des Gemeinsamen Bundesausschusses nach § 35a Absatz 3 Satz 1
+keinen Zusatznutzen hat und keiner Festbetragsgruppe zugeordnet werden
+kann, als zweckmäßige Vergleichstherapie durch den Gemeinsamen
+Bundesausschuss ein Arzneimittel mit einem Wirkstoff bestimmt, zu dem
+Patentschutz und Unterlagenschutz weggefallen sind, soll ein
+Erstattungsbetrag vereinbart werden, der nicht zu höheren
+Jahrestherapiekosten führt als die zweckmäßige Vergleichstherapie. Für
+ein Arzneimittel, für das ein Zusatznutzen nach § 35a Absatz 1 Satz 5
+als nicht belegt gilt, ist ein Erstattungsbetrag zu vereinbaren, der
+zu in angemessenem Umfang geringeren Jahrestherapiekosten führt als
+die durch den Gemeinsamen Bundesausschuss bestimmte zweckmäßige
+Vergleichstherapie; Satz 2 gilt entsprechend. Ist für ein
+Arzneimittel, das nach dem Beschluss des Gemeinsamen Bundesausschusses
+nach § 35a Absatz 3 Satz 1 einen nicht quantifizierbaren Zusatznutzen
+oder einen geringen Zusatznutzen hat, als zweckmäßige
+Vergleichstherapie durch den Gemeinsamen Bundesausschuss ein
+Arzneimittel mit einem Wirkstoff bestimmt, für den Patentschutz oder
+Unterlagenschutz besteht, ist ein Erstattungsbetrag zu vereinbaren,
+der nicht zu höheren Jahrestherapiekosten führt als die zweckmäßige
+Vergleichstherapie. Sind durch den Gemeinsamen Bundesausschuss mehrere
+Alternativen für die zweckmäßige Vergleichstherapie bestimmt, ist für
+die Anwendung der Sätze 2 bis 5 auf die zweckmäßige Vergleichstherapie
+abzustellen, die nach den Jahrestherapiekosten die wirtschaftlichste
+Alternative darstellt. Hat der Gemeinsame Bundesausschuss ein
+Arzneimittel mit einem patentgeschützten Wirkstoff, der nicht der
+Nutzenbewertung nach § 35a unterfällt, als zweckmäßige
+Vergleichstherapie bestimmt, oder findet ein solches Arzneimittel
+gemäß Absatz 9 Satz 3 als vergleichbares Arzneimittel
+Berücksichtigung, ist auf die zum Vergleich heranzuziehenden
+Jahrestherapiekosten des Arzneimittels ein Abschlag in Höhe von 15
+Prozent in Ansatz zu bringen. Für Arzneimittel nach § 35a Absatz 3b
 Satz 1 wird der Erstattungsbetrag regelmäßig nach Ablauf der vom
 Gemeinsamen Bundesausschuss gesetzten Frist zur Durchführung einer
 anwendungsbegleitenden Datenerhebung und nach erneutem Beschluss über
@@ -20625,9 +21707,9 @@ Erstattungsbetrag zu vereinbaren, der in angemessenem Umfang zu
 geringeren Jahrestherapiekosten führt als der zuvor vereinbarte
 Erstattungsbetrag. Der Spitzenverband Bund der Krankenkassen kann auch
 vor Ablauf der vom Gemeinsamen Bundesausschuss gesetzten Frist eine
-Neuverhandlung des Erstattungsbetrags nach Maßgabe der Sätze 7 und 8
+Neuverhandlung des Erstattungsbetrags nach Maßgabe der Sätze 8 und 9
 verlangen, wenn der Gemeinsame Bundesausschuss im Rahmen der
-Überprüfung nach § 35a Absatz 3b Satz 9 zu dem Ergebnis kommt, dass
+Überprüfung nach § 35a Absatz 3b Satz 10 zu dem Ergebnis kommt, dass
 die Datenerhebung
 
 1.  nicht durchgeführt werden wird oder nicht durchgeführt werden kann
@@ -20644,23 +21726,52 @@ die Datenerhebung
 einschließlich der Vereinbarungen für die Anerkennung von
 Praxisbesonderheiten nach Absatz 2 für alle Arzneimittel mit dem
 gleichen neuen Wirkstoff, die ab dem 1. Januar 2011 in Verkehr
-gebracht worden sind. Er gilt ab dem 13. Monat nach dem erstmaligen
-Inverkehrbringen eines Arzneimittels mit dem Wirkstoff. Wird auf Grund
-einer Nutzenbewertung nach Zulassung eines neuen Anwendungsgebiets ein
-neuer Erstattungsbetrag vereinbart, gilt dieser ab dem 13. Monat nach
-Zulassung des neuen Anwendungsgebiets. In den Fällen, in denen die
+gebracht worden sind. Er gilt ab dem siebten Monat nach dem
+erstmaligen Inverkehrbringen eines Arzneimittels mit dem Wirkstoff.
+Wird aufgrund einer Nutzenbewertung nach Zulassung eines neuen
+Anwendungsgebiets ein neuer Erstattungsbetrag vereinbart, gilt dieser
+ab dem siebten Monat nach Zulassung des neuen Anwendungsgebiets. Wird
+aufgrund einer nach § 35a Absatz 1 Satz 12 eingeleiteten
+Nutzenbewertung ein neuer Erstattungsbetrag vereinbart, gilt dieser ab
+dem siebten Monat nach Überschreitung der Umsatzschwelle. Wird
+aufgrund einer nach § 35a Absatz 5 eingeleiteten Nutzenbewertung ein
+neuer Erstattungsbetrag vereinbart, gilt dieser ab dem siebten Monat
+nach Anforderung der Nachweise durch den Gemeinsamen Bundesausschuss
+gemäß § 35a Absatz 5 Satz 3. In anderen Fällen, in denen aufgrund
+einer Nutzenbewertung nach § 35a ein Erstattungsbetrag vereinbart
+wird, gilt dieser ab dem siebten Monat nach dem die jeweilige
+Nutzenbewertung auslösenden Ereignis. In den Fällen, in denen die
 Geltung des für ein anderes Arzneimittel mit dem gleichen Wirkstoff
 vereinbarten Erstattungsbetrags im Hinblick auf die Versorgung nicht
 sachgerecht wäre oder eine unbillige Härte darstellen würde,
-vereinbart der GKV-Spitzenverband mit dem pharmazeutischen Unternehmer
-abweichend von Satz 1 insbesondere einen eigenen Erstattungsbetrag.
-Der darin vereinbarte Erstattungsbetrag gilt ebenfalls ab dem 13.
-Monat nach dem erstmaligen Inverkehrbringen eines Arzneimittels mit
-dem Wirkstoff mit der Maßgabe, dass die Differenz zwischen dem
-Erstattungsbetrag und dem bis zu dessen Vereinbarung tatsächlich
-gezahlten Abgabepreis auszugleichen ist. Das Nähere, insbesondere zur
-Abgrenzung der Fälle nach Satz 4, ist in der Vereinbarung nach Absatz
-9 zu regeln.
+vereinbart der Spitzenverband Bund der Krankenkassen mit dem
+pharmazeutischen Unternehmer abweichend von Satz 1 insbesondere einen
+eigenen Erstattungsbetrag. Dieser Erstattungsbetrag gilt ab dem
+siebten Monat nach dem erstmaligen Inverkehrbringen eines
+Arzneimittels mit dem Wirkstoff. In den Fällen des Satzes 2, 3, 4, 5,
+6 oder des Satzes 8 ist die Differenz zwischen Erstattungsbetrag und
+dem bis zu dessen Vereinbarung tatsächlich gezahlten Abgabepreis
+einschließlich der zu viel entrichteten Zuschläge nach der
+Arzneimittelpreisverordnung und der zu viel entrichteten Umsatzsteuer
+auszugleichen. Das Nähere, insbesondere zur Abgrenzung der Fälle nach
+Satz 4, ist in der Vereinbarung nach Absatz 9 zu regeln.
+
+(3b) Für ein Reserveantibiotikum, hinsichtlich dessen der Gemeinsame
+Bundesausschuss eine Freistellung nach § 35a Absatz 1c Satz 1
+beschlossen hat und das vor dem 1. Januar 2031 erstmalig in Verkehr
+gebracht wird, gilt der Abgabepreis des pharmazeutischen Unternehmers
+zum Zeitpunkt des erstmaligen Inverkehrbringens als Erstattungsbetrag.
+Der Spitzenverband Bund der Krankenkassen trifft hinsichtlich des in
+Satz 1 genannten Reserveantibiotikums mit dem pharmazeutischen
+Unternehmer eine Vereinbarung, die sich auf die in Absatz 1a genannten
+Inhalte beschränkt. Gegenstand dieser Vereinbarung kann eine Absenkung
+des Erstattungsbetrags nach Satz 1 sein. Für die Vereinbarung gelten
+Absatz 1 Satz 1, 2 und 7, Absatz 4 Satz 1, 2, 4 bis 7 und Absatz 7
+entsprechend; für den Erstattungsbetrag gelten Absatz 3a Satz 1 und
+Absatz 8a entsprechend. Zum Zweck der Umsetzung der Vereinbarung nach
+Satz 2 teilt der pharmazeutische Unternehmer dem Spitzenverband Bund
+der Krankenkassen auf Verlangen die Abgabezahlen und Umsätze des
+Reserveantibiotikums mit.
 
 (4) Kommt eine Vereinbarung nach Absatz 1 oder 3 nicht innerhalb von
 sechs Monaten nach Veröffentlichung des Beschlusses nach § 35a Absatz
@@ -20669,12 +21780,15 @@ Absatz 5 den Vertragsinhalt innerhalb von drei Monaten fest. Die
 Schiedsstelle entscheidet unter freier Würdigung aller Umstände des
 Einzelfalls und berücksichtigt dabei die Besonderheiten des jeweiligen
 Therapiegebietes. Der im Schiedsspruch festgelegte Erstattungsbetrag
-gilt ab dem 13. Monat nach dem in § 35a Absatz 1 Satz 3 genannten
-Zeitpunkt mit der Maßgabe, dass die Preisdifferenz zwischen dem von
-der Schiedsstelle festgelegten Erstattungsbetrag und dem tatsächlich
-gezahlten Abgabepreis bei der Festsetzung auszugleichen ist. Die
-Schiedsstelle gibt dem Verband der privaten Krankenversicherung vor
-ihrer Entscheidung Gelegenheit zur Stellungnahme. Klagen gegen
+gilt ab dem siebten Monat nach dem in Absatz 3a Satz 2, 3, 4, 5, 6
+oder Satz 8 jeweils genannten Ereignis mit der Maßgabe, dass die
+Differenz zwischen dem von der Schiedsstelle festgelegten
+Erstattungsbetrag und dem tatsächlich gezahlten Abgabepreis
+einschließlich der zu viel entrichteten Zuschläge nach der
+Arzneimittelpreisverordnung und der zu viel entrichteten Umsatzsteuer
+bei der Festsetzung entsprechend Absatz 3a Satz 9 auszugleichen ist.
+Die Schiedsstelle gibt dem Verband der privaten Krankenversicherung
+vor ihrer Entscheidung Gelegenheit zur Stellungnahme. Klagen gegen
 Entscheidungen der Schiedsstelle haben keine aufschiebende Wirkung.
 Ein Vorverfahren findet nicht statt. Absatz 1 Satz 7 gilt
 entsprechend.
@@ -20712,16 +21826,19 @@ eines neuen Beschlusses zur Nutzenbewertung nach § 35a Absatz 3 oder
 zur Kosten-Nutzen-Bewertung nach § 35b Absatz 3 für das Arzneimittel
 sowie bei Vorliegen der Voraussetzungen für die Bildung einer
 Festbetragsgruppe nach § 35 Absatz 1 ist eine Kündigung vor Ablauf
-eines Jahres möglich.
+eines Jahres möglich. Soweit nichts anderes vereinbart wird, kann der
+Spitzenverband Bund der Krankenkassen zur Festsetzung eines
+Festbetrags nach § 35 Absatz 3 die Vereinbarung abweichend von Satz 1
+außerordentlich kündigen.
 
-(7a) Für Arzneimittel zur spezifischen Therapie von
-Gerinnungsstörungen bei Hämophilie, für die ein Erstattungsbetrag nach
-Absatz 3 vereinbart oder nach Absatz 4 festgesetzt wurde, kann die
-Vereinbarung oder der Schiedsspruch von jeder Vertragspartei innerhalb
-von drei Monaten nach dem 1. September 2020 gekündigt werden, auch
-wenn sich das Arzneimittel im Geltungsbereich dieses Gesetzes nicht im
-Verkehr befindet. Im Fall einer Kündigung nach Satz 1 ist unverzüglich
-erneut ein Erstattungsbetrag nach Absatz 3 zu vereinbaren.
+(7a) Für Arzneimittel, für die ein Erstattungsbetrag nach Absatz 1
+oder Absatz 3 vereinbart oder nach Absatz 4 festgesetzt wurde, kann
+die Vereinbarung oder der Schiedsspruch von jeder Vertragspartei bis
+zum 1. Februar 2023 gekündigt werden, auch wenn sich das Arzneimittel
+im Geltungsbereich dieses Gesetzes nicht im Verkehr befindet. Im Fall
+einer Kündigung ist unverzüglich erneut ein Erstattungsbetrag zu
+vereinbaren. Die gekündigte Vereinbarung gilt bis zum Wirksamwerden
+einer neuen Vereinbarung fort.
 
 (8) Nach einem Schiedsspruch nach Absatz 4 kann jede Vertragspartei
 beim Gemeinsamen Bundesausschuss eine Kosten-Nutzen-Bewertung nach §
@@ -20764,18 +21881,18 @@ Arzneimittels auf seiner Internetseite das Preisstrukturmodell des
 fortgeltenden Erstattungsbetrages nach Satz 1.
 
 (9) Die Verbände nach Absatz 5 Satz 1 treffen eine Rahmenvereinbarung
-über die Maßstäbe für Vereinbarungen nach Absatz 1. Darin legen sie
-insbesondere Kriterien fest, die neben dem Beschluss nach § 35a und
-den Vorgaben nach Absatz 1 zur Vereinbarung eines Erstattungsbetrags
-nach Absatz 1 heranzuziehen sind. Für Arzneimittel, für die der
-Gemeinsame Bundesausschuss nach § 35a Absatz 3 einen Zusatznutzen
-festgestellt hat, sollen die Jahrestherapiekosten vergleichbarer
-Arzneimittel sowie die tatsächlichen Abgabepreise in anderen
-europäischen Ländern gewichtet nach den jeweiligen Umsätzen und
-Kaufkraftparitäten berücksichtigt werden. In der Vereinbarung nach
+über die Maßstäbe für Vereinbarungen nach den Absätzen 1 und 3b. Darin
+legen sie insbesondere Kriterien fest, die neben dem Beschluss nach §
+35a und den Vorgaben nach den Absätzen 1 und 3 zur Vereinbarung eines
+Erstattungsbetrags nach Absatz 1 heranzuziehen sind. Für Arzneimittel,
+für die der Gemeinsame Bundesausschuss nach § 35a Absatz 3 einen
+Zusatznutzen festgestellt hat, sollen die Jahrestherapiekosten
+vergleichbarer Arzneimittel sowie die tatsächlichen Abgabepreise in
+anderen europäischen Ländern gewichtet nach den jeweiligen Umsätzen
+und Kaufkraftparitäten berücksichtigt werden. In der Vereinbarung nach
 Satz 1 sind auch Maßstäbe für die Angemessenheit der Abschläge nach
-Absatz 3 Satz 5, 6 und 8 zu vereinbaren. In der Vereinbarung nach Satz
-1 ist auch das Nähere zu Inhalt, Form und Verfahren der jeweils
+Absatz 3 Satz 4 und 9 zu vereinbaren. In der Vereinbarung nach Satz 1
+ist auch das Nähere zu Inhalt, Form und Verfahren der jeweils
 erforderlichen Auswertung der Daten nach § 217f Absatz 7 und der
 Übermittlung der Auswertungsergebnisse an den pharmazeutischen
 Unternehmer sowie zur Aufteilung der entstehenden Kosten zu
@@ -20796,6 +21913,28 @@ privaten Krankenversicherung zu erstattenden Kosten für die Nutzen-
 Bewertung nach § 35a und für die Kosten-Nutzen-Bewertung nach § 35b
 sowie für die Festsetzung eines Erstattungsbetrags nach Absatz 4.
 
+(11) Das Bundesministerium für Gesundheit evaluiert die Auswirkungen
+der Änderungen der §§ 35a und 130b und der Neuregelung des § 130e
+durch das GKV-Finanzstabilisierungsgesetz vom 7. November 2022 (BGBl.
+I S. 1990) auf die Versorgung mit Arzneimitteln. Im Rahmen der
+Evaluation bewertet es insbesondere die Auswirkungen
+
+1.  auf die Sicherheit der Versorgung mit innovativen und wirtschaftlichen
+    Arzneimitteln insbesondere auch für Patientinnen und Patienten mit
+    seltenen Erkrankungen sowie
+
+
+2.  auf Produktionsstandorte in der Bundesrepublik Deutschland und der
+    Europäischen Union.
+
+
+
+Das Bundesministerium für Gesundheit berichtet dem Deutschen Bundestag
+bis zum 31. Dezember 2023 über die Ergebnisse der Evaluation; dabei
+stellt es zur Bewertung der Auswirkungen auf Produktionsstandorte
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
+her.
+
 
 #### § 130c Verträge von Krankenkassen mit pharmazeutischen Unternehmern
 
@@ -20813,7 +21952,7 @@ Erstattungsbetrag vereinbart werden. § 78 Absatz 3a des
 Arzneimittelgesetzes bleibt unberührt. Die Ergebnisse der Bewertungen
 nach den §§ 35a und 35b, die Richtlinien nach § 92, die Vereinbarungen
 nach § 84 und die Informationen nach § 73 Absatz 8 Satz 1 sind zu
-berücksichtigen. § 130a Absatz 8 gilt entsprechend.
+berücksichtigen. § 130a Absatz 8 Satz 3 bis 9 gilt entsprechend.
 
 (2) Die Krankenkassen informieren ihre Versicherten und die an der
 vertragsärztlichen Versorgung teilnehmenden Ärzte umfassend über die
@@ -20887,6 +22026,43 @@ Bundesebene.
 (5) Der Herstellerabgabepreis nach Absatz 1 oder Absatz 3 gilt ab dem
 1\. September 2020. Klagen gegen die Festsetzung nach Absatz 3 haben
 keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt.
+
+
+#### § 130e Kombinationsabschlag
+
+(1) Für alle Arzneimittel mit neuen Wirkstoffen, die in einer vom
+Gemeinsamen Bundesausschuss zuvor nach § 35a Absatz 3 Satz 4 benannten
+Kombination eingesetzt und ab dem 2. Mai 2023 zu Lasten der
+Krankenkassen abgegeben werden, erhalten die Krankenkassen vom
+jeweiligen pharmazeutischen Unternehmer einen Abschlag in Höhe von 20
+Prozent des Abgabepreises des pharmazeutischen Unternehmers ohne
+Mehrwertsteuer. Der Abschlag entfällt mit Wirkung für die Zukunft,
+wenn der Gemeinsame Bundesausschuss nach § 35a Absatz 3 Satz 1 einen
+mindestens beträchtlichen Zusatznutzen der Kombination von
+Arzneimitteln festgestellt hat oder nach § 35a Absatz 1d Satz 1
+festgestellt hat, dass die Kombination von Arzneimitteln einen
+mindestens beträchtlichen Zusatznutzen erwarten lässt.
+
+(2) Zur Geltendmachung des Abschlags dürfen die Krankenkassen die
+ihnen vorliegenden Abrechnungsdaten versichertenbezogen verarbeiten.
+Das Nähere zur Umsetzung des Abschlags, insbesondere zur Feststellung
+und Abgrenzung abschlagspflichtiger Kombinationseinsätze in den in
+Satz 1 genannten Daten sowie zu Art und Umfang der für die Abrechnung
+des Abschlags notwendigen Nachweise und der Datenübermittlung, regelt
+der Spitzenverband Bund der Krankenkassen im Einvernehmen mit den für
+die Wahrnehmung der wirtschaftlichen Interessen gebildeten
+maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer
+auf Bundesebene bis zum 31. Oktober 2023. Kommen die Regelungen nach
+Satz 2 bis zum 31. Oktober 2023 nicht oder nicht vollständig zustande,
+setzt das Bundesministerium für Gesundheit den Inhalt der Regelungen
+fest. Eine Klage gegen die Festsetzung nach Satz 2 hat keine
+aufschiebende Wirkung.
+
+(3) Die Krankenkassen oder ihre Verbände können mit pharmazeutischen
+Unternehmern unter Beachtung der Regelungen nach Absatz 2 Satz 2 oder
+Satz 3 ergänzende Vereinbarungen zur Umsetzung des Abschlags treffen.
+Die in § 130b Absatz 5 Satz 1 genannten Verbände können eine
+Mustervereinbarung für Vereinbarungen nach Satz 1 vereinbaren.
 
 
 #### § 131 Rahmenverträge mit pharmazeutischen Unternehmern
@@ -21013,8 +22189,10 @@ Datenträgern
     Produktangaben einschließlich der Rabatte nach § 130a,
 
 
-2.  die nach § 130b vereinbarten Erstattungsbeträge einschließlich der
-    Rabatte nach § 130a,
+2.  die nach § 130b vereinbarten oder festgesetzten Erstattungsbeträge
+    einschließlich der Rabatte nach § 130a und den jeweiligen
+    Geltungsbeginn der Erstattungsbeträge sowie die jeweilige
+    Geltungsdauer,
 
 
 3.  die nach § 130d ermittelten oder festgesetzten Herstellerabgabepreise
@@ -21054,8 +22232,8 @@ Unternehmer und sonstigen Hersteller sind verpflichtet, die in § 129
 Absatz 2 genannten Verbände unverzüglich über Änderungen der der
 Korrektur zugrundeliegenden Sachverhalte zu informieren. Die
 Abrechnung der Apotheken gegenüber den Krankenkassen und die
-Erstattung der Abschläge nach § 130a Absatz 1, 1a, 2, 3a und 3b durch
-die pharmazeutischen Unternehmer an die Apotheken erfolgt auf
+Erstattung der Abschläge nach § 130a Absatz 1, 1a, 1b, 2, 3a und 3b
+durch die pharmazeutischen Unternehmer an die Apotheken erfolgt auf
 Grundlage der Angaben nach Absatz 4 Satz 3. Die Korrektur fehlerhafter
 Angaben und die Geltendmachung der Ansprüche kann auf Dritte
 übertragen werden. Zur Sicherung der Ansprüche nach Absatz 4 Satz 6
@@ -21188,17 +22366,11 @@ insbesondere zu regeln:
 
 
 
-Um den Besonderheiten der intensivpflegerischen Versorgung im Rahmen
-der häuslichen Krankenpflege Rechnung zu tragen, sind in den
-Rahmenempfehlungen auch Regelungen über die behandlungspflegerische
-Versorgung von Versicherten, die auf Grund eines besonders hohen
-Bedarfs an diesen Leistungen oder einer Bedrohung ihrer Vitalfunktion
-einer ununterbrochenen Anwesenheit einer Pflegekraft bedürfen,
-vorzusehen. In den Rahmenempfehlungen nach Satz 4 Nummer 6 können auch
-Regelungen über die nach § 302 Absatz 2 Satz 1 und Absatz 3 in
-Richtlinien geregelten Inhalte getroffen werden; in diesem Fall gilt §
-302 Absatz 4. Die Inhalte der Rahmenempfehlungen sind den Verträgen
-nach Absatz 4 zugrunde zu legen.
+In den Rahmenempfehlungen nach Satz 4 Nummer 6 können auch Regelungen
+über die nach § 302 Absatz 2 Satz 1 und Absatz 3 in Richtlinien
+geregelten Inhalte getroffen werden; in diesem Fall gilt § 302 Absatz
+4\. Die Inhalte der Rahmenempfehlungen sind den Verträgen nach Absatz 4
+zugrunde zu legen.
 
 (2) Kommt eine Rahmenempfehlung nach Absatz 1 ganz oder teilweise
 nicht zu Stande, können die Rahmenempfehlungspartner die Schiedsstelle
@@ -21225,7 +22397,8 @@ gilt entsprechend.
 
 (4) Über die Einzelheiten der Versorgung mit häuslicher Krankenpflege,
 über die Preise und deren Abrechnung und die Verpflichtung der
-Leistungserbringer zur Fortbildung schließen die Krankenkassen
+Leistungserbringer zur Fortbildung schließen die die Landesverbände
+der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich
 Verträge mit den Leistungserbringern. Wird die Fortbildung nicht
 nachgewiesen, sind Vergütungsabschläge vorzusehen. Dem
 Leistungserbringer ist eine Frist zu setzen, innerhalb derer er die
@@ -21238,34 +22411,35 @@ Gewähr für eine leistungsgerechte und wirtschaftliche Versorgung
 bieten. Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich
 vereinbarter Vergütungen sowie entsprechender Vergütungen nach
 kirchlichen Arbeitsrechtsregelungen kann dabei nicht als
-unwirtschaftlich abgelehnt werden; insoweit gilt § 71 nicht. Der
-Leistungserbringer ist verpflichtet, die entsprechende Bezahlung der
-Beschäftigten nach Satz 6 jederzeit einzuhalten und sie auf Verlangen
-einer Vertragspartei nachzuweisen. Im Fall der Nichteinigung wird der
-Vertragsinhalt durch eine von den Vertragspartnern zu bestimmende
-unabhängige Schiedsperson innerhalb von drei Monaten festgelegt.
-Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird
-diese von der für die vertragschließende Krankenkasse zuständigen
-Aufsichtsbehörde innerhalb eines Monats nach Vorliegen der für die
-Bestimmung der Schiedsperson notwendigen Informationen bestimmt. Die
-Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen
-Teilen. Bei der Auswahl der Leistungserbringer ist ihrer Vielfalt,
-insbesondere der Bedeutung der freien Wohlfahrtspflege, Rechnung zu
-tragen. Die Leistungserbringer sind verpflichtet, an Qualitäts- und
-Abrechnungsprüfungen nach § 275b teilzunehmen; § 114 Absatz 2 des
-Elften Buches bleibt unberührt. Soweit bei einer Prüfung nach § 275b
-Absatz 1 Satz 1 bis 3 Qualitätsmängel festgestellt werden, entscheiden
-die Landesverbände der Krankenkassen oder die Krankenkassen nach
-Anhörung des Leistungserbringers, welche Maßnahmen zu treffen sind,
-erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm
-darin zugleich eine angemessene Frist zur Beseitigung der
-festgestellten Mängel. Der Leistungserbringer hat der Krankenkasse
-anzuzeigen, dass er behandlungspflegerische Leistungen im Sinne des
-Absatzes 1 Satz 5 erbringt, wenn er diese Leistungen für mindestens
-zwei Versicherte in einer durch den Leistungserbringer oder einen
-Dritten organisierten Wohneinheit erbringt. Abweichend von Satz 1 kann
-die Krankenkasse zur Gewährung von häuslicher Krankenpflege geeignete
-Personen anstellen.
+unwirtschaftlich abgelehnt werden; insoweit gilt § 71 nicht. Bei nicht
+tarifgebundenen oder nicht an kirchliche Arbeitsrechtsregelungen
+gebundenen Leistungserbringern gilt § 82c Absatz 2 Satz 1 des Elften
+Buches entsprechend. Der Leistungserbringer ist verpflichtet, die
+entsprechende Bezahlung der Beschäftigten nach Satz 7 jederzeit
+einzuhalten und sie auf Verlangen einer Vertragspartei nachzuweisen.
+Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den
+Vertragspartnern zu bestimmende unabhängige Schiedsperson innerhalb
+von drei Monaten festgelegt. Einigen sich die Vertragspartner nicht
+auf eine Schiedsperson, so wird diese vom Bundesamt für Soziale
+Sicherung innerhalb eines Monats nach Vorliegen der für die Bestimmung
+der Schiedsperson notwendigen Informationen bestimmt; Widerspruch und
+Klage gegen die Bestimmung der Schiedsperson durch das Bundesamt für
+Soziale Sicherung haben keine aufschiebende Wirkung. Die Kosten des
+Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen. Bei
+der Auswahl der Leistungserbringer ist ihrer Vielfalt, insbesondere
+der Bedeutung der freien Wohlfahrtspflege, Rechnung zu tragen. Soweit
+bei einer Prüfung nach § 275b Absatz 1 Satz 1 bis 3 Qualitätsmängel
+festgestellt werden, entscheiden die Landesverbände der Krankenkassen
+oder die Krankenkassen nach Anhörung des Leistungserbringers, welche
+Maßnahmen zu treffen sind, erteilen dem Leistungserbringer hierüber
+einen Bescheid und setzen ihm darin zugleich eine angemessene Frist
+zur Beseitigung der festgestellten Mängel. Der Leistungserbringer hat
+der Krankenkasse anzuzeigen, dass er behandlungspflegerische
+Leistungen im Sinne des Absatzes 1 Satz 5 erbringt, wenn er diese
+Leistungen für mindestens zwei Versicherte in einer durch den
+Leistungserbringer oder einen Dritten organisierten Wohneinheit
+erbringt. Abweichend von Satz 1 kann die Krankenkasse zur Gewährung
+von häuslicher Krankenpflege geeignete Personen anstellen.
 
 
 #### § 132b Versorgung mit Soziotherapie
@@ -21422,26 +22596,67 @@ gleichen Teilen. Endet ein Vertrag nach Satz 1 oder endet eine
 Rahmenvereinbarung nach § 20i Absatz 3 Satz 3 in der bis zum 10. Mai
 2019 geltenden Fassung, so gelten seine oder ihre Bestimmungen bis zum
 Abschluss eines neuen Vertrages oder bis zur Entscheidung der
-Schiedsperson vorläufig weiter.
+Schiedsperson vorläufig weiter. Sofern erstmalig Verträge über die
+Versorgung mit Schutzimpfungen abgeschlossen werden, hat sich die
+Vergütung für die Durchführung der Schutzimpfung an bereits
+bestehenden Verträgen für vergleichbare Schutzimpfungen zu
+orientieren.
+
+(1a) Der Spitzenverband Bund der Krankenkassen hat mit der für die
+Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
+Spitzenorganisation der Apotheker im Benehmen mit dem Verband der
+Privaten Krankenversicherung einen Vertrag über die Durchführung von
+Grippeschutzimpfungen durch Apotheken bei Personen, die das 18.
+Lebensjahr vollendet haben, und von Schutzimpfungen gegen das
+Coronavirus SARS-CoV-2 durch Apotheken bei Personen, die das zwölfte
+Lebensjahr vollendet haben, abzuschließen, insbesondere über
+
+1.  die Vergütung der Impfleistung der Apotheken einschließlich der
+    Vergütung der Impfdokumentation und
+
+
+2.  die Abrechnung der Vergütung.
+
+
+
+In dem Vertrag nach Satz 1 ist für die Beschaffung der
+Grippeimpfstoffe, die zur Anwendung durch die Apotheken vorgesehen
+sind, eine Vergütung der Apotheken von 1 Euro je Einzeldosis sowie die
+Umsatzsteuer vorzusehen. Einigen sich die Vertragsparteien nach Satz 1
+nicht bis zum 1. April 2023, legt die Schiedsstelle nach § 129 Absatz
+8 innerhalb von einem Monat den Inhalt des Vertrages fest. Ein
+bestehender Vertrag gilt bis zum Wirksamwerden eines neuen Vertrages
+fort; ein Schiedsspruch gilt bis zum Wirksamwerden des ersten
+Vertrages, der beide in Satz 1 genannten Schutzimpfungen umfasst,
+fort.
 
 (2) Die Kassenärztliche Bundesvereinigung meldet bis zum 15. Januar
 eines Kalenderjahres den Bedarf an saisonalen Grippeimpfstoffen auf
 Grundlage der durch die Vertragsärztinnen und Vertragsärzte geplanten
-Bestellungen an das Paul-Ehrlich-Institut. Das Paul-Ehrlich-Institut
-prüft den nach Satz 1 übermittelten Bedarf unter Berücksichtigung
-einer zusätzlichen Reserve von 10 Prozent, in den Jahren 2020 und 2021
-von 30 Prozent, durch Vergleich mit den nach § 29 Absatz 1d des
-Arzneimittelgesetzes mitgeteilten Daten von Inhabern der Zulassungen
-von saisonalen Grippeimpfstoffen bis zum 15. März eines
+Bestellungen an das Paul-Ehrlich-Institut; die für die Wahrnehmung der
+wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation
+der Apotheker meldet bis zum 15. Januar eines Kalenderjahres den
+Bedarf an saisonalen Grippeimpfstoffen, die zur Anwendung durch die
+Apotheken vorgesehen sind, auf Grundlage der durch die Apotheken
+geplanten Bestellungen an das Paul-Ehrlich-Institut. Das Paul-Ehrlich-
+Institut prüft den nach Satz 1 übermittelten Bedarf unter
+Berücksichtigung einer zusätzlichen Reserve von 10 Prozent, in den
+Jahren 2020 bis 2022 von 30 Prozent, durch Vergleich mit den nach § 29
+Absatz 1d des Arzneimittelgesetzes mitgeteilten Daten von Inhabern der
+Zulassungen von saisonalen Grippeimpfstoffen bis zum 15. März eines
 Kalenderjahres. Die Prüfung nach Satz 2 erfolgt im Benehmen mit dem
 Robert Koch-Institut. Das Ergebnis der Prüfung teilt das Paul-Ehrlich-
-Institut unverzüglich der Kassenärztlichen Bundesvereinigung und den
-Inhabern der Zulassungen von saisonalen Grippeimpfstoffen mit.
+Institut unverzüglich der Kassenärztlichen Bundesvereinigung, der für
+die Wahrnehmung der wirtschaftlichen Interessen gebildeten
+maßgeblichen Spitzenorganisation der Apotheker und den Inhabern der
+Zulassungen von saisonalen Grippeimpfstoffen mit.
 
 (3) Die Inhaber von Zulassungen von saisonalen Grippeimpfstoffen
 melden die voraussichtlichen Preise für Grippeimpfstoffe für die
 kommende Impfsaison bis spätestens zum 1. März eines Jahres an die
-Kassenärztliche Bundesvereinigung.
+Kassenärztliche Bundesvereinigung und an die für die Wahrnehmung der
+wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation
+der Apotheker.
 
 (4) In den Verträgen nach Absatz 1 ist eine Erhöhung der Impfquoten
 für die von der Ständigen Impfkommission beim Robert Koch-Institut
@@ -21660,6 +22875,10 @@ Stellungnahmen sind zu berücksichtigen.
 (7) Die Modellvorhaben sind im Regelfall auf längstens fünf Jahre zu
 befristen. Sie sind nach allgemein anerkannten wissenschaftlichen
 Standards zu begleiten und auszuwerten.
+
+(8) Die Vertragspartner nach Absatz 1 haben die Modellvorhaben
+innerhalb von neun Monaten nach dem Abschluss eines Vertrages oder
+Vorliegen eines Schiedsspruchs nach § 132e Absatz 1a zu beenden.
 
 
 #### § 132k Vertrauliche Spurensicherung
@@ -24085,7 +25304,9 @@ Datenerhebungen oder Auswertungen in Auftrag geben oder
 Sachverständigengutachten einholen. Das Bundesministerium für
 Gesundheit kann insbesondere das Institut für das Entgeltsystem im
 Krankenhaus und das Institut nach § 137a mit Auswertungen oder
-Sachverständigengutachten beauftragen. Wird das Institut für das
+Sachverständigengutachten beauftragen; diese können sich auf die
+Prüfung der Frage erstrecken, inwiefern Pflegepersonaluntergrenzen in
+Notaufnahmen Anwendung finden können. Wird das Institut für das
 Entgeltsystem im Krankenhaus beauftragt, sind die notwendigen
 Aufwendungen des Instituts aus dem Zuschlag nach § 17b Absatz 5 Satz 1
 Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren. Für die
@@ -24384,29 +25605,211 @@ Krankenhausfinanzierungsgesetzes zu finanzieren, der
 erforderlichenfalls entsprechend zu erhöhen ist.
 
 
-#### § 137k Personalbemessung in der Pflege im Krankenhaus
+#### § 137k Personalbemessung in der Pflege im Krankenhaus; Verordnungsermächtigung
+
+(1) Die nach § 108 zugelassenen Krankenhäuser sind verpflichtet, eine
+angemessene Personalausstattung vorzuhalten und das für eine
+bedarfsgerechte Pflege am Bett erforderliche Personal sicherzustellen.
+Zu diesem Zweck haben sie nach Maßgabe der Rechtsverordnung nach den
+Absätzen 4 und 5 Folgendes zu ermitteln und an das Institut für das
+Entgeltsystem im Krankenhaus zu übermitteln:
+
+1.  die Anzahl der auf bettenführenden Stationen der somatischen
+    Versorgung von Erwachsenen und Kindern jeweils eingesetzten
+    Pflegekräfte,
+
+
+2.  den Pflegebedarf auf bettenführenden Stationen der somatischen
+    Versorgung von Erwachsenen und Kindern und
+
+
+3.  die Anzahl der auf bettenführenden Stationen der somatischen
+    Versorgung von Erwachsenen und Kindern auf Grundlage des Pflegebedarfs
+    einzusetzenden Pflegekräfte.
+
+
+
+Sie haben außerdem die Anzahl der eingesetzten Pflegekräfte
+schrittweise an die Anzahl der einzusetzenden Pflegekräfte anzupassen.
+Das Institut für das Entgeltsystem im Krankenhaus übermittelt den
+jeweils zuständigen Landesbehörden und dem Bundesministerium für
+Gesundheit jährlich eine Zusammenstellung der Angaben nach Satz 2.
+
+(2) Das Bundesministerium für Gesundheit beauftragt spätestens bis zum
+31\. Januar 2023 eine fachlich unabhängige wissenschaftliche
+Einrichtung oder einen Sachverständigen oder eine Sachverständige
+(Auftragnehmer) mit einer mindestens dreimonatigen Erprobung eines im
+Einvernehmen mit dem Bundesministerium für Gesundheit festzulegenden
+Konzepts zur Ermittlung einer angemessenen Personalausstattung auf
+bettenführenden Stationen der nichtintensivmedizinischen somatischen
+Versorgung von Erwachsenen und Kindern sowie der intensivmedizinischen
+somatischen Versorgung von Kindern. Für die Durchführung der Erprobung
+hat der Auftragnehmer eine repräsentative Auswahl an nach § 108
+zugelassenen Krankenhäusern zu bestimmen. Die ausgewählten
+Krankenhäuser sind verpflichtet, dem Auftragnehmer folgende Daten zu
+übermitteln:
+
+1.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
+    Station eingesetzten Pflegekräfte, umgerechnet auf Vollkräfte, und
+
+
+2.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
+    Station auf Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte,
+    umgerechnet auf Vollkräfte.
+
+
+
+Der Auftragnehmer kann die Form und das Verfahren der
+Datenübermittlung festlegen. Weitere nach § 108 zugelassene
+Krankenhäuser können sich an der Erprobung beteiligen. Der
+Auftragnehmer hat dem Bundesministerium für Gesundheit spätestens bis
+zum 31. August 2023 einen Abschlussbericht über die Ergebnisse der
+Erprobung vorzulegen. Das Bundesministerium für Gesundheit hat die
+Ergebnisse der Erprobung bei Erlass der Rechtsverordnung nach den
+Absätzen 4 und 5 zu berücksichtigen.
+
+(3) Das Bundesministerium für Gesundheit beauftragt spätestens bis zum
+31\. Oktober 2023 einen Auftragnehmer mit der Entwicklung und
+modellhaften Erprobung eines Verfahrens zur Ermittlung einer
+angemessenen Personalausstattung auf bettenführenden Stationen der
+intensivmedizinischen somatischen Versorgung von Erwachsenen. Für die
+Durchführung der Erprobung hat der Auftragnehmer eine repräsentative
+Auswahl an nach § 108 zugelassenen Krankenhäusern zu bestimmen. Die
+ausgewählten Krankenhäuser sind verpflichtet, dem Auftragnehmer
+folgende Daten zu übermitteln:
+
+1.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
+    Station eingesetzten Pflegekräfte, umgerechnet auf Vollkräfte, und
+
+
+2.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
+    Station auf Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte,
+    umgerechnet auf Vollkräfte.
+
+
+
+Der Auftragnehmer hat dem Bundesministerium für Gesundheit spätestens
+bis zum 31. August 2024 einen Abschlussbericht über die Ergebnisse der
+Entwicklung und Erprobung vorzulegen. Absatz 2 Satz 4, 5 und 7 gilt
+entsprechend.
+
+(4) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
+mit Zustimmung des Bundesrates im Einvernehmen mit dem
+Bundesministerium der Finanzen, erstmals bis zum 30. November 2023,
+Vorgaben zur Ermittlung der Anzahl der eingesetzten und der auf der
+Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte in der
+unmittelbaren Patientenversorgung von Erwachsenen und Kindern auf
+bettenführenden Stationen der somatischen Versorgung in den nach § 108
+zugelassenen Krankenhäusern erlassen. In der Rechtsverordnung kann das
+Bundesministerium für Gesundheit das Nähere bestimmen
+
+1.  zur Ermittlung des täglichen Pflegebedarfs durch die Festlegung von
+    Pflegekategorien sowie den ihnen zugrunde zu legenden Minutenwerten
+    für die pflegerische Versorgung je Patientin oder Patient,
+
+
+2.  zur bedarfsgerechten personellen Zusammensetzung des Pflegepersonals
+    auf der Grundlage der beruflichen Qualifikationen des Pflegepersonals,
+
+
+3.  zu der von den Krankenhäusern standortbezogen zu erfassenden
+
+    a)  Anzahl der in der jeweiligen Station eingesetzten Pflegekräfte,
+        umgerechnet auf Vollkräfte, (Ist-Personalbesetzung) und
+
+
+    b)  Anzahl der in der jeweiligen Station auf Grundlage des Pflegebedarfs
+        einzusetzenden Pflegekräfte, umgerechnet auf Vollkräfte, (Soll-
+        Personalbesetzung),
+
+
+
+
+
+4.  zur Übermittlung der von den Krankenhäusern erfassten Daten nach
+    Nummer 3 an das Institut für das Entgeltsystem im Krankenhaus
+    einschließlich der Form und des Verfahrens der Übermittlung,
+
+
+5.  zur Dokumentation, zum Nachweis und zur Veröffentlichung der von den
+    Krankenhäusern zu erfassenden und zu übermittelnden Daten,
+
+
+6.  zur Auswertung der von den Krankenhäusern zu erfassenden und zu
+    übermittelnden Daten durch das Institut für das Entgeltsystem im
+    Krankenhaus und
+
+
+7.  zur Übermittlung nach Absatz 1 Satz 4.
+
+
+
+
+(5) Das Bundesministerium für Gesundheit wird ermächtigt, aufgrund der
+in der Rechtsverordnung nach Absatz 4 vorgesehenen Datenerfassung zur
+Festlegung des konkreten erforderlichen Erfüllungsgrads der Soll-
+Personalbesetzung in der Rechtsverordnung nach Absatz 4 mit Zustimmung
+des Bundesrates und im Einvernehmen mit dem Bundesministerium der
+Finanzen Regelungen zu treffen
+
+1.  zur schrittweisen Anpassung der Ist-Personalbesetzung an den konkreten
+    erforderlichen Erfüllungsgrad der Soll-Personalbesetzung durch das
+    Krankenhaus,
+
+
+2.  zum Nachweis der Anpassung der Ist-Personalbesetzung an den konkreten
+    erforderlichen Erfüllungsgrad der Soll-Personalbesetzung gegenüber dem
+    Institut für das Entgeltsystem im Krankenhaus und
+
+
+3.  zu Vergütungsabschlägen, wenn ein Krankenhaus es unterlässt,
+
+    a)  die Ist-Personalbesetzung an die Soll-Personalbesetzung anzupassen
+        oder
+
+
+    b)  die Anpassung der Ist-Personalbesetzung an die Soll-Personalbesetzung
+        nachzuweisen.
+
+
+
+
+
+
+
+(6) Die Mindestvorgaben zur Personalausstattung nach § 136 Absatz 1
+Satz 1 Nummer 2 und § 136a Absatz 2 Satz 2 und Absatz 5 bleiben
+unberührt.
+
+(7) Die notwendigen Aufwendungen des Instituts für das Entgeltsystem
+im Krankenhaus für die Erfüllung der Aufgaben nach dieser Vorschrift
+sind aus dem Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 des
+Krankenhausfinanzierungsgesetzes zu finanzieren.
+
+
+#### § 137l Wissenschaftliche Weiterentwicklung der Personalbemessung in der Pflege im Krankenhaus
 
 (1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
 Krankenhausentgeltgesetzes stellen im Einvernehmen mit dem
-Bundesministerium für Gesundheit die Entwicklung und Erprobung eines
-wissenschaftlich fundierten Verfahrens zur einheitlichen Bemessung des
-Pflegepersonalbedarfs in zugelassenen Krankenhäusern im Sinne des §
-108 in der unmittelbaren Patientenversorgung auf bettenführenden
-Stationen nach qualitativen und quantitativen Maßstäben sicher. Die
-Entwicklung und Erprobung ist spätestens bis zum 31. Dezember 2024
-abzuschließen. Es ist ein bedarfsgerechtes, standardisiertes,
-aufwandsarmes, transparentes, digital anwendbares und zukunftsfähiges
-Verfahren über einen analytischen Ansatz unter Hinzuziehung
-empirischer Daten zu entwickeln, durch das eine fachlich angemessene
-pflegerische Versorgung in den Krankenhäusern gewährleistet wird. Die
-Vertragsparteien nach Satz 1 beauftragen zur Sicherstellung der
-Wissenschaftlichkeit des Verfahrens auf ihre Kosten fachlich
-unabhängige wissenschaftliche Einrichtungen oder Sachverständige mit
-der Entwicklung und Erprobung des Verfahrens; dabei trägt die Deutsche
-Krankenhausgesellschaft 50 Prozent der Kosten, der Spitzenverband Bund
-der Krankenkassen 46,5 Prozent der Kosten und der Verband der Privaten
-Krankenversicherung 3,5 Prozent der Kosten. Die Mindestvorgaben zur
-Personalausstattung nach § 136a Absatz 2 Satz 2 bleiben unberührt.
+Bundesministerium für Gesundheit die wissenschaftliche
+Weiterentwicklung der Vorgaben zur Personalbemessung in der Pflege im
+Krankenhaus nach § 137k Absatz 4 sicher, insbesondere im Hinblick auf
+die bedarfsgerechte personelle Zusammensetzung des Pflegepersonals auf
+der Grundlage seiner jeweiligen nach § 137k Absatz 4 Satz 2 Nummer 2
+bestimmten beruflichen Qualifikationen sowie im Hinblick auf die
+standardisierte und digitale Anwendung der Vorgaben nach § 137k Absatz
+4\. Zudem legen sie Vorschläge zur Personalbemessung in der Pflege in
+Notaufnahmen vor. Die Vertragsparteien nach Satz 1 legen dem
+Bundesministerium für Gesundheit die Ergebnisse der wissenschaftlichen
+Weiterentwicklung nach den Sätzen 1 und 2 bis zum 31. Dezember 2024
+vor. Die Vertragsparteien nach Satz 1 beauftragen zur Sicherstellung
+der Wissenschaftlichkeit der Weiterentwicklung auf ihre Kosten
+fachlich unabhängige wissenschaftliche Einrichtungen oder
+Sachverständige; dabei trägt die Deutsche Krankenhausgesellschaft 50
+Prozent der Kosten, der Spitzenverband Bund der Krankenkassen 46,5
+Prozent der Kosten und der Verband der Privaten Krankenversicherung
+3,5 Prozent der Kosten. Die Mindestvorgaben zur Personalausstattung
+nach § 136a Absatz 2 Satz 2 bleiben unberührt.
 
 (2) Bei der Durchführung des Auftrags nach Absatz 1 Satz 4 sind
 insbesondere der Beauftragte der Bundesregierung für die Belange der
@@ -24421,12 +25824,11 @@ Fachgesellschaften e. V. zu beteiligen.
 
 (3) Die Vertragsparteien nach Absatz 1 Satz 1 legen dem
 Bundesministerium für Gesundheit vor der Beauftragung nach Absatz 1
-Satz 4 und spätestens bis zum 15. Dezember 2021 eine Beschreibung des
+Satz 4 und spätestens bis zum 31. März 2023 eine Beschreibung des
 Inhalts der Beauftragung sowie einen Zeitplan mit konkreten Zeitzielen
-für die Entwicklung und Erprobung des Verfahrens nach Absatz 1 Satz 1
-bis 3 vor. Die Beauftragung nach Absatz 1 Satz 4 hat spätestens bis
-zum 30. Juni 2022 zu erfolgen. Die Vertragsparteien nach Absatz 1 Satz
-1 sind verpflichtet, dem Bundesministerium für Gesundheit fortlaufend,
+vor. Die Beauftragung nach Absatz 1 Satz 4 hat spätestens bis zum 30.
+September 2023 zu erfolgen. Die Vertragsparteien nach Absatz 1 Satz 1
+sind verpflichtet, dem Bundesministerium für Gesundheit fortlaufend,
 insbesondere wenn die Umsetzung der Vorgaben nach Absatz 1 oder die
 Erreichung der gesetzlich oder in dem Zeitplan nach Satz 1
 festgelegten Zeitziele gefährdet sind, und auf dessen Verlangen
@@ -24436,14 +25838,13 @@ mögliche Lösungen zu geben.
 
 (4) Wird ein gesetzlich oder ein in dem Zeitplan nach Absatz 3 Satz 1
 festgelegtes Zeitziel nicht fristgerecht erreicht und ist deshalb die
-fristgerechte Entwicklung oder Erprobung gefährdet, kann das
-Bundesministerium für Gesundheit nach Fristablauf einzelne
-Verfahrensschritte selbst durchführen. Haben sich die Vertragsparteien
-nach Absatz 1 Satz 1 bis zum 15. Dezember 2021 nicht über den Inhalt
-der Beauftragung nach Absatz 1 Satz 4 geeinigt, beauftragt das
-Bundesministerium für Gesundheit die Entwicklung und Erprobung nach
-Absatz 1 Satz 4 spätestens bis zum 31. August 2022 auf Kosten der
-Vertragsparteien nach Absatz 1 Satz 1.
+fristgerechte Weiterentwicklung gefährdet, kann das Bundesministerium
+für Gesundheit nach Fristablauf einzelne Verfahrensschritte selbst
+durchführen. Haben sich die Vertragsparteien nach Absatz 1 Satz 1 bis
+zum 31. März 2023 nicht über den Inhalt der Beauftragung nach Absatz 1
+Satz 4 geeinigt, beauftragt das Bundesministerium für Gesundheit die
+Entwicklung und Erprobung nach Absatz 1 Satz 4 spätestens bis zum 31.
+Dezember 2023 auf Kosten der Vertragsparteien nach Absatz 1 Satz 1.
 
 
 #### § 138 Neue Heilmittel
@@ -25007,16 +26408,16 @@ Berücksichtigung der Grundsätze der evidenzbasierten Medizin.
 (10) Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Einvernehmen mit dem Bundesinstitut für Arzneimittel und
 Medizinprodukte und im Benehmen mit der oder dem Bundesbeauftragten
-für den Datenschutz und die Informationsfreiheit erstmals bis zum 31.
-Dezember 2021 und dann in der Regel jährlich die von digitalen
+für den Datenschutz und die Informationsfreiheit erstmals bis zum 1.
+Januar 2024 und dann in der Regel jährlich die von digitalen
 Gesundheitsanwendungen nachzuweisenden Anforderungen an die
 Datensicherheit nach Absatz 2 Satz 2 Nummer 2 fest. Das Bundesamt für
-Sicherheit in der Informationstechnik bietet ab dem 1. Juni 2022
+Sicherheit in der Informationstechnik bietet ab dem 1. Juni 2024
 Verfahren zur Prüfung der Einhaltung der Anforderungen nach Satz 1
 sowie Verfahren zur Bestätigung der Einhaltung der Anforderungen nach
 Satz 1 durch entsprechende Zertifikate an. Der Nachweis der Erfüllung
 der Anforderungen an die Datensicherheit durch den Hersteller ist
-spätestens ab dem 1. Januar 2023 unter Vorlage eines Zertifikates nach
+spätestens ab dem 1. Januar 2025 unter Vorlage eines Zertifikates nach
 Satz 2 zu führen.
 
 (11) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt im
@@ -25027,7 +26428,7 @@ und dann in der Regel jährlich die Prüfkriterien für die von digitalen
 Gesundheitsanwendungen nachzuweisenden Anforderungen an den
 Datenschutz nach Absatz 2 Satz 2 Nummer 2 fest. Der Nachweis der
 Erfüllung der Anforderungen an den Datenschutz durch den Hersteller
-ist ab dem 1. April 2023 durch Vorlage eines anhand der Prüfkriterien
+ist ab dem 1. August 2024 durch Vorlage eines anhand der Prüfkriterien
 nach Satz 1 ausgestellten Zertifikates nach Artikel 42 der Verordnung
 (EU) 2016/679 zu führen.
 
@@ -25441,14 +26842,37 @@ und Verdienstausfall nach Absatz 5 für jährlich bis zu sechs
 Koordinierungs- und Abstimmungstreffen sowie für Fortbildungen und
 Schulungen nach Satz 3.
 
-(8) Die in der Verordnung nach § 140g genannten oder nach der
-Verordnung nach § 140g anerkannten Organisationen erhalten für den
-Aufwand zur Koordinierung ihrer Beteiligungsrechte einen Betrag in
-Höhe von 120 Euro für jede neu für ein Gremium benannte sachkundige
-Person. Der Anspruch richtet sich gegen das jeweilige Gremium, in dem
-die sachkundige Person tätig ist. Der Anspruch ist durch den von den
-anerkannten Organisationen gebildeten Koordinierungsausschuss geltend
-zu machen.
+(8) Die von den in der Verordnung nach § 140g genannten oder nach der
+Verordnung nach § 140g anerkannten Organisationen zur Koordinierung
+ihrer Beteiligungsrechte eingerichtete Stelle (Koordinierungsstelle)
+erhält für ihren Aufwand einen Betrag in Höhe von 120 Euro für jede
+neu für ein Gremium benannte sachkundige Person. Der Anspruch der
+Koordinierungsstelle richtet sich gegen das jeweilige Gremium, in dem
+die sachkundige Person tätig ist. Eine in Satz 1 genannte Neubenennung
+liegt vor, wenn
+
+1.  eine Person erstmals als sachkundige Person für das betreffende
+    Gremium benannt wird,
+
+
+2.  eine bereits in der Vergangenheit als sachkundige Person für das
+    betreffende Gremium benannte Person zu einem neuen Beratungsthema für
+    das betreffende Gremium als sachkundige Person benannt wird oder
+
+
+3.  eine bereits in der Vergangenheit als sachkundige Person für das
+    betreffende Gremium benannte Person für die Beratung in einem neu
+    eingerichteten Untergremium des betreffenden Gremiums als sachkundige
+    Person benannt wird.
+
+
+
+Die Koordinierungsstelle erhält von den Gremien, für die sachkundige
+Personen benannt wurden, für jedes Quartal einen Bericht über die
+erfolgten Neubenennungen. Ab dem Kalenderjahr 2024 erhöht oder
+vermindert sich der in Satz 1 genannte Betrag für jedes Kalenderjahr
+entsprechend der prozentualen Veränderung der monatlichen Bezugsgröße
+nach § 18 Absatz 1 des Vierten Buches.
 
 
 #### § 140g Verordnungsermächtigung
@@ -25504,33 +26928,33 @@ Erfüllung der Aufgabe.
 (weggefallen)
 
 
-### § 142 Sachverständigenrat
+### § 142 Sachverständigenrat Gesundheit und Pflege
 
 (1) Das Bundesministerium für Gesundheit beruft einen
 Sachverständigenrat zur Begutachtung der Entwicklung im
-Gesundheitswesen. Zur Unterstützung der Arbeiten des
+Gesundheitswesen und in der Pflege. Zur Unterstützung der Arbeiten des
 Sachverständigenrates richtet das Bundesministerium für Gesundheit
 eine Geschäftsstelle ein.
 
 (2) Der Sachverständigenrat hat die Aufgabe, Gutachten zur Entwicklung
-der gesundheitlichen Versorgung mit ihren medizinischen und
-wirtschaftlichen Auswirkungen zu erstellen. Im Rahmen der Gutachten
-entwickelt der Sachverständigenrat unter Berücksichtigung der
-finanziellen Rahmenbedingungen und vorhandener
+der gesundheitlichen Versorgung einschließlich der Pflege mit ihren
+medizinischen und wirtschaftlichen Auswirkungen zu erstellen. Im
+Rahmen der Gutachten entwickelt der Sachverständigenrat unter
+Berücksichtigung der finanziellen Rahmenbedingungen und vorhandener
 Wirtschaftlichkeitsreserven Prioritäten für den Abbau von
 Versorgungsdefiziten und bestehenden Überversorgungen und zeigt
 Möglichkeiten und Wege zur Weiterentwicklung des Gesundheitswesens
 auf; er kann in seine Gutachten Entwicklungen in anderen Zweigen der
 Sozialen Sicherung einbeziehen. Das Bundesministerium für Gesundheit
 kann den Gegenstand der Gutachten näher bestimmen sowie den
-Sachverständigenrat mit der Erstellung von Sondergutachten
-beauftragen.
+Sachverständigenrat mit der Erstellung von kurzfristigen
+Stellungnahmen beauftragen.
 
-(3) Der Sachverständigenrat erstellt das Gutachten im Abstand von zwei
-Jahren und leitet es dem Bundesministerium für Gesundheit in der Regel
-zum 15. April eines Jahres zu. Das Bundesministerium für Gesundheit
-legt das Gutachten den gesetzgebenden Körperschaften des Bundes
-unverzüglich vor.
+(3) Der Sachverständigenrat erstellt seine Gutachten in der Regel im
+Abstand von zwölf Monaten und leitet sie dem Bundesministerium für
+Gesundheit unmittelbar nach Fertigstellung zu. Das Bundesministerium
+für Gesundheit legt jedes Gutachten den gesetzgebenden Körperschaften
+des Bundes unverzüglich vor.
 
 
 ## Sechstes Kapitel - Organisation der Krankenkassen
@@ -26159,14 +27583,14 @@ Spitzenverband Bund der Krankenkassen wie folgt ermittelt:
 (2) Übersteigen die Verpflichtungen innerhalb eines Kalenderjahres
 einen Betrag von 350 Millionen Euro, sind zur Erfüllung der darüber
 hinausgehenden Beträge die Finanzreserven der Krankenkassen nach § 260
-Absatz 2 Satz 1 heranzuziehen, soweit diese den durchschnittlich auf
-einen Monat entfallenden Betrag der Ausgaben für die in § 260 Absatz 1
-Nummer 1 genannten Zwecke übersteigen; § 260 Absatz 2 Satz 2 gilt
-entsprechend. Maßgebend für die Rechengrößen nach Satz 1 sind die
-vierteljährlichen Rechnungsergebnisse, die von den Krankenkassen vor
-dem Zeitpunkt, an dem die Aufteilung durchgeführt wird, zuletzt
-vorgelegt wurden. Der auf die einzelne Krankenkasse entfallende Betrag
-wird wie folgt berechnet:
+Absatz 2 Satz 1 heranzuziehen, soweit diese das 0,5fache des
+durchschnittlich auf einen Monat entfallenden Betrages der Ausgaben
+für die in § 260 Absatz 1 Nummer 1 genannten Zwecke übersteigen; § 260
+Absatz 2 Satz 2 gilt entsprechend. Maßgebend für die Rechengrößen nach
+Satz 1 sind die vierteljährlichen Rechnungsergebnisse, die von den
+Krankenkassen vor dem Zeitpunkt, an dem die Aufteilung durchgeführt
+wird, zuletzt vorgelegt wurden. Der auf die einzelne Krankenkasse
+entfallende Betrag wird wie folgt berechnet:
 
 1.  für jede Krankenkasse wird der Betrag an Finanzreserven ermittelt, der
     gemäß den Sätzen 1 und 2 die Obergrenze überschreitet;
@@ -26190,15 +27614,15 @@ wird wie folgt berechnet:
 
 Reicht die Summe der Überschreitungsbeträge nach Satz 3 Nummer 1 nicht
 aus, um die Verpflichtungen zu erfüllen, oder verfügt keine
-Krankenkasse über Finanzreserven oberhalb des 1,0fachen einer
+Krankenkasse über Finanzreserven oberhalb des 0,5fachen einer
 Monatsausgabe nach den Sätzen 1 und 2, werden die Finanzreserven
-oberhalb von 0,75 Monatsausgaben in entsprechender Anwendung der Sätze
+oberhalb von 0,4 Monatsausgaben in entsprechender Anwendung der Sätze
 1 bis 3 herangezogen, um die verbleibenden Verpflichtungen zu
 erfüllen.
 
 (3) Reicht der nach den Absätzen 1 und 2 ermittelte Betrag nicht aus,
 um die Verpflichtungen zu erfüllen, beziehungsweise verfügt keine
-Krankenkasse über Finanzreserven oberhalb des 0,75fachen einer
+Krankenkasse über Finanzreserven oberhalb des 0,4fachen einer
 Monatsausgabe, wird der verbleibende Betrag auf alle Krankenkassen
 gemäß Absatz 1 Satz 2 aufgeteilt.
 
@@ -26361,17 +27785,7 @@ Versorgungsrücklagegesetz des Bundes oder entsprechender Landesgesetze
 unterliegen, ist das nach den Vorgaben dieser Gesetze gebildete
 Kapital ebenfalls zu berücksichtigen.
 
-(3) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
-für Altersrückstellungen gelten die Vorschriften des Vierten Titels
-des Vierten Abschnitts des Vierten Buches mit der Maßgabe, dass eine
-Anlage auch in Euro-denominierten Aktien im Rahmen eines passiven,
-indexorientierten Managements zulässig ist. Die Anlageentscheidungen
-sind jeweils so zu treffen, dass der Anteil an Aktien maximal 20
-Prozent des Deckungskapitals beträgt. Änderungen des Aktienkurses
-können vorübergehend zu einem höheren Anteil an Aktien am
-Deckungskapital führen. Die Sätze 1 bis 3 gelten auch für das
-Deckungskapital für Altersrückstellungen nach § 12 der
-Sozialversicherungs-Rechnungsverordnung.
+(3) (weggefallen)
 
 (4) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates das Nähere über
@@ -26634,41 +28048,55 @@ Mitgliedschaft zum Ablauf des übernächsten Kalendermonats möglich,
 gerechnet von dem Monat, in dem das Mitglied die Kündigung erklärt.
 Bei einem Wechsel in eine andere Krankenkasse ersetzt die Meldung der
 neuen Krankenkasse über die Ausübung des Wahlrechts nach Absatz 2 Satz
-1 die Kündigungserklärung des Mitglieds. Erfolgt die Kündigung, weil
-keine Mitgliedschaft bei einer Krankenkasse begründet werden soll, hat
-die Krankenkasse dem Mitglied unverzüglich, spätestens jedoch
-innerhalb von zwei Wochen nach Eingang der Kündigungserklärung eine
-Kündigungsbestätigung auszustellen; die Kündigung wird wirksam, wenn
-das Mitglied innerhalb der Kündigungsfrist das Bestehen einer
-anderweitigen Absicherung im Krankheitsfall nachweist. Erhebt die
-Krankenkasse nach § 242 Absatz 1 erstmals einen Zusatzbeitrag oder
-erhöht sie ihren Zusatzbeitragssatz, kann die Kündigung der
-Mitgliedschaft abweichend von Satz 1 bis zum Ablauf des Monats erklärt
-werden, für den der Zusatzbeitrag erstmals erhoben wird oder für den
-der Zusatzbeitragssatz erhöht wird; Satz 4 gilt entsprechend. Die
-Krankenkasse hat spätestens einen Monat vor dem in Satz 6 genannten
-Zeitpunkt ihre Mitglieder in einem gesonderten Schreiben auf das
-Kündigungsrecht nach Satz 6, auf die Höhe des durchschnittlichen
-Zusatzbeitragssatzes nach § 242a sowie auf die Übersicht des
-Spitzenverbandes Bund der Krankenkassen zu den Zusatzbeitragssätzen
-der Krankenkassen nach § 242 Absatz 5 hinzuweisen; überschreitet der
-neu erhobene Zusatzbeitrag oder der erhöhte Zusatzbeitragssatz den
-durchschnittlichen Zusatzbeitragssatz, so sind die Mitglieder auf die
-Möglichkeit hinzuweisen, in eine günstigere Krankenkasse zu wechseln.
-Kommt die Krankenkasse ihrer Hinweispflicht nach Satz 7 gegenüber
-einem Mitglied verspätet nach, gilt eine erfolgte Kündigung als in dem
-Monat erklärt, für den der Zusatzbeitrag erstmalig erhoben wird oder
-für den der Zusatzbeitragssatz erhöht wird; hiervon ausgenommen sind
-Kündigungen, die bis zu dem in Satz 6 genannten Zeitpunkt ausgeübt
-worden sind. Satz 1 gilt nicht, wenn die Kündigung eines
-Versicherungsberechtigten erfolgt, weil die Voraussetzungen einer
-Versicherung nach § 10 erfüllt sind oder wenn die Kündigung erfolgt,
-weil keine Mitgliedschaft bei einer Krankenkasse begründet werden
-soll. Die Krankenkassen können in ihren Satzungen vorsehen, dass die
-Frist nach Satz 1 nicht gilt, wenn eine Mitgliedschaft bei einer
-anderen Krankenkasse der gleichen Kassenart begründet werden soll.
+1 die Kündigungserklärung des Mitglieds; die Kündigung gilt mit Zugang
+der Meldung der neuen Krankenkasse über die Ausübung des Wahlrechts
+nach Absatz 2 Satz 1 bei der bisherigen Krankenkasse als im Zeitpunkt
+des Zugangs der Wahlerklärung nach Absatz 1 Satz 1 bei der neuen
+Krankenkasse erklärt. Erfolgt die Kündigung, weil keine Mitgliedschaft
+bei einer Krankenkasse begründet werden soll, hat die Krankenkasse dem
+Mitglied unverzüglich, spätestens jedoch innerhalb von zwei Wochen
+nach Eingang der Kündigungserklärung eine Kündigungsbestätigung
+auszustellen; die Kündigung wird wirksam, wenn das Mitglied innerhalb
+der Kündigungsfrist das Bestehen einer anderweitigen Absicherung im
+Krankheitsfall nachweist. Erhebt die Krankenkasse nach § 242 Absatz 1
+erstmals einen Zusatzbeitrag oder erhöht sie ihren Zusatzbeitragssatz,
+kann die Kündigung der Mitgliedschaft abweichend von Satz 1 bis zum
+Ablauf des Monats erklärt werden, für den der Zusatzbeitrag erstmals
+erhoben wird oder für den der Zusatzbeitragssatz erhöht wird; Satz 4
+gilt entsprechend. Die Krankenkasse hat spätestens einen Monat vor dem
+in Satz 6 genannten Zeitpunkt ihre Mitglieder in einem gesonderten
+Schreiben auf das Kündigungsrecht nach Satz 6 und dessen Ausübung, auf
+die Höhe des durchschnittlichen Zusatzbeitragssatzes nach § 242a sowie
+auf die Übersicht des Spitzenverbandes Bund der Krankenkassen zu den
+Zusatzbeitragssätzen der Krankenkassen nach § 242 Absatz 5
+hinzuweisen; überschreitet der neu erhobene Zusatzbeitrag oder der
+erhöhte Zusatzbeitragssatz den durchschnittlichen Zusatzbeitragssatz,
+so sind die Mitglieder auf die Möglichkeit hinzuweisen, in eine
+günstigere Krankenkasse zu wechseln. Kommt die Krankenkasse ihrer
+Hinweispflicht nach Satz 7 gegenüber einem Mitglied verspätet nach,
+gilt eine erfolgte Kündigung als in dem Monat erklärt, für den der
+Zusatzbeitrag erstmalig erhoben wird oder für den der
+Zusatzbeitragssatz erhöht wird; hiervon ausgenommen sind Kündigungen,
+die bis zu dem in Satz 6 genannten Zeitpunkt ausgeübt worden sind.
+Satz 1 gilt nicht, wenn die Kündigung eines Versicherungsberechtigten
+erfolgt, weil die Voraussetzungen einer Versicherung nach § 10 erfüllt
+sind oder wenn die Kündigung erfolgt, weil keine Mitgliedschaft bei
+einer Krankenkasse begründet werden soll. Die Krankenkassen können in
+ihren Satzungen vorsehen, dass die Frist nach Satz 1 nicht gilt, wenn
+eine Mitgliedschaft bei einer anderen Krankenkasse der gleichen
+Kassenart begründet werden soll.
 
-(4a) (weggefallen)
+(4a) Die Hinweispflicht der Krankenkassen nach § 175 Absatz 4 Satz 7
+besteht nicht für eine Erhöhung des Zusatzbeitragssatzes, die im
+Zeitraum vom 1. Januar 2023 bis zum 30. Juni 2023 wirksam wird. Die
+Krankenkassen haben stattdessen spätestens einen Monat vor dem in
+Absatz 4 Satz 6 genannten Zeitpunkt ihre Mitglieder auf andere
+geeignete Weise auf das Kündigungsrecht nach Absatz 4 Satz 6 und
+dessen Ausübung, auf die Höhe des durchschnittlichen
+Zusatzbeitragssatzes nach § 242a, die Möglichkeit, in eine günstigere
+Krankenkasse zu wechseln sowie auf die Übersicht des Spitzenverbandes
+Bund der Krankenkassen zu den Zusatzbeitragssätzen der Krankenkassen
+nach § 242 Absatz 5 hinzuweisen. Absatz 4 Satz 8 gilt entsprechend.
 
 (5) Absatz 4 gilt nicht für Versicherungspflichtige, die durch die
 Errichtung oder Ausdehnung einer Betriebs- oder Innungskrankenkasse
@@ -26739,6 +28167,24 @@ ist insbesondere, dass
 oder in die private Krankenversicherung nach dem
 Versicherungsvertragsgesetz bleiben unberührt.
 
+(5) Erhebt eine in Absatz 1 genannte Solidargemeinschaft von einem
+Mitglied einen Beitrag, der höher ist als die Hälfte des nach § 152
+Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes berechneten
+Höchstbeitrags der gesetzlichen Krankenversicherung, und besteht bei
+dem Mitglied Hilfebedürftigkeit im Sinne des Zweiten oder des Zwölften
+Buches oder würde allein durch die Zahlung des Beitrags
+Hilfebedürftigkeit entstehen, vermindert sich der Beitrag für die
+Dauer der Hilfebedürftigkeit oder für die Zeit, in der
+Hilfebedürftigkeit entstehen würde, auf die Hälfte des nach § 152
+Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes berechneten
+Höchstbeitrags der gesetzlichen Krankenversicherung. Für Mitglieder
+mit Anspruch auf Beihilfe nach beamtenrechtlichen Grundsätzen gilt
+Satz 1 mit der Maßgabe, dass jeweils an die Stelle des Höchstbeitrags
+der gesetzlichen Krankenversicherung ein Beitrag tritt, der dem
+prozentualen Anteil des die Beihilfe ergänzenden Leistungsanspruchs
+entspricht. Die Hilfebedürftigkeit ist vom zuständigen Träger auf
+Antrag des Mitglieds zu prüfen und zu bescheinigen.
+
 
 ##### § 177 (weggefallen)
 
@@ -26771,9 +28217,10 @@ Mitgliedschaft besteht auch an den Tagen fort, an denen der unständig
 Beschäftigte vorübergehend, längstens für drei Wochen nicht
 beschäftigt wird.
 
-(2a) Die Mitgliedschaft der Bezieher von Arbeitslosengeld II nach dem
-Zweiten Buch und Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten
-Buch beginnt mit dem Tag, von dem an die Leistung bezogen wird.
+(2a) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
+nach dem Dritten Buch beginnt mit dem Tag, von dem an die Leistung
+bezogen wird.
 
 (3) Die Mitgliedschaft der nach dem Künstlersozialversicherungsgesetz
 Versicherten beginnt mit dem Tage, an dem die Versicherungspflicht auf
@@ -27006,10 +28453,10 @@ zum 31. März 2002 nach § 10 oder nach § 7 des Zweiten Gesetzes über
 die Krankenversicherung der Landwirte versichert waren, endet mit dem
 Eintritt der Versicherungspflicht nach § 5 Abs. 1 Nr. 11.
 
-(12) Die Mitgliedschaft der Bezieher von Arbeitslosengeld II nach dem
-Zweiten Buch und Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten
-Buch endet mit Ablauf des letzten Tages, für den die Leistung bezogen
-wird.
+(12) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
+nach dem Dritten Buch endet mit Ablauf des letzten Tages, für den die
+Leistung bezogen wird.
 
 (13) Die Mitgliedschaft der in § 5 Abs. 1 Nr. 13 genannten Personen
 endet mit Ablauf des Vortages, an dem
@@ -27219,6 +28666,43 @@ Krankenkassen für die Vorbereitung und Durchführung der Stimmabgabe
 per Online-Wahl werden auf alle in § 35a Absatz 1 Satz 1 des Vierten
 Buches genannten Krankenkassen in entsprechender Anwendung von § 83
 Absatz 1 Satz 2 der Wahlordnung für die Sozialversicherung umgelegt.
+Umgelegt werden dürfen insbesondere Aufwendungen für die Ausschreibung
+und Beauftragung externer Dienstleistungen einschließlich Kosten
+wissenschaftlicher und technischer Beratung sowie Sach- und
+Personalkosten der teilnehmenden Krankenkassen für Aufgaben, die in
+Abstimmung mit der Arbeitsgemeinschaft nach Absatz 2 Satz 2 auf der
+Grundlage einer von dieser aufgestellten Projektplanung zur
+Vorbereitung und Durchführung der Stimmabgabe per Online-Wahl
+wahrgenommen werden.
+
+(3a) Das Bundesamt für Soziale Sicherung setzt die auf die einzelnen
+Krankenkassen nach Absatz 3 Satz 1 entfallenden Umlagebeträge fest,
+zieht die festgesetzten Umlagebeträge von den Krankenkassen ein und
+erstattet den am Modellprojekt teilnehmenden Krankenkassen ihre
+Kosten. Hierfür teilt der Bundeswahlbeauftragte für die
+Sozialversicherungswahlen dem Bundesamt für Soziale Sicherung die von
+ihm nach § 83 Absatz 1 Satz 2 der Wahlordnung für die
+Sozialversicherung ermittelten Zahlen der wahlberechtigten
+Versicherten der einzelnen Krankenkassen mit. Die am Modellprojekt
+teilnehmenden Krankenkassen und die von ihnen gebildete
+Arbeitsgemeinschaft haben dem Bundesamt für Soziale Sicherung bis zum
+31\. Dezember 2023 die zur Durchführung der Aufgaben nach Satz 1
+erforderlichen Angaben zu machen. Für die Nachweise der Kosten der am
+Modellprojekt teilnehmenden Krankenkassen gilt § 82 Absatz 4 der
+Wahlordnung für die Sozialversicherung entsprechend. Sach- und
+Personalkosten einer teilnehmenden Krankenkasse gelten in der Regel
+als nachgewiesen, soweit sie in Übereinstimmung mit der Projektplanung
+der Arbeitsgemeinschaft angefallen sind und die Arbeitsgemeinschaft
+die Plausibilität der Kosten bestätigt. Das Bundesamt für Soziale
+Sicherung kann nähere Bestimmungen zur Durchführung des Umlage- und
+Erstattungsverfahrens einschließlich Regelungen zur Verrechnung der
+Umlagebeträge mit Erstattungsforderungen sowie zu Abschlagszahlungen
+treffen; die Bestimmungen sind dem Bundesministerium für Gesundheit
+zur Genehmigung vorzulegen. Eine Erstattung an am Modellprojekt
+beteiligte Krankenkassen erfolgt nur, soweit Umlagebeträge beim
+Bundesamt für Soziale Sicherung bereits eingegangen sind. Im Falle
+einer Anfechtung der Online-Wahl sind die Umlage- und
+Erstattungsbeträge vorläufig festzusetzen.
 
 (4) Die für Sozialversicherungswahlen geltenden allgemeinen
 Wahlgrundsätze nach § 45 Absatz 2 des Vierten Buches sind unter
@@ -27714,8 +29198,8 @@ versicherungspflichtig ist. Der Studieninteressierte fordert bei der
 Krankenkasse an, dass die Krankenkasse den Nachweis über seinen
 Versichertenstatus nach Satz 1 an die staatliche oder staatlich
 anerkannte Hochschule meldet. Die Meldung enthält neben dem
-Versichertenstatus nach Satz 1 auch Angaben über Name, Geschlecht,
-Anschrift und Geburtsdatum des Studieninteressierten sowie dessen
+Versichertenstatus nach Satz 1 auch Angaben über Name, Anschrift und
+Geburtsdatum des Studieninteressierten sowie dessen
 Krankenversichertennummer, soweit diese zum Zeitpunkt der Meldung
 vorliegt und für das weitere Verfahren erforderlich ist. Für die
 Abgabe der Meldung des Versicherungsstatus sind zuständig:
@@ -27752,7 +29236,8 @@ unverzüglich
 2.  den Ablauf des Semesters, in dem oder mit Wirkung zu dessen Ablauf der
     Student exmatrikuliert wurde oder das der Aufnahme eines
     Promotionsstudiums bei fortgesetzter Einschreibung unmittelbar
-    vorangeht.
+    vorangeht, sowie das Datum der Exmatrikulation, wenn die
+    Exmatrikulation vor dem Ende des Semesters erfolgt.
 
 
 
@@ -27774,6 +29259,12 @@ melden:
 
 
 
+
+(5a) Im Rahmen der Meldungen nach den Absätzen 3 bis 5 werden Angaben
+über Name, Anschrift, Geburtsdatum und Krankenversichertennummer des
+Studenten zwischen der Krankenkasse und der staatlichen oder staatlich
+anerkannten Hochschule übertragen, sofern diese zur Identifizierung
+des Studenten erforderlich sind.
 
 (6) Die Meldungen der Hochschulen nach den Absätzen 2 bis 4 sind durch
 gesicherte und verschlüsselte Datenübertragung zu erstatten. Zur
@@ -27906,15 +29397,26 @@ Versorgungsempfängers zu ermitteln und dieser Beginn, Höhe,
 Veränderungen und Ende der Versorgungsbezüge und in den Fällen des § 5
 Absatz 1 Nummer 11b den Tag der Antragstellung sowie in den Fällen von
 Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz
-deren Vorliegen unverzüglich mitzuteilen. Bei den am 1. Januar 1989
-vorhandenen Versorgungsempfängern hat die Ermittlung der Krankenkasse
-innerhalb von sechs Monaten zu erfolgen. Der Versorgungsempfänger hat
-der Zahlstelle seine Krankenkasse anzugeben und einen Kassenwechsel
-sowie die Aufnahme einer versicherungspflichtigen Beschäftigung
-anzuzeigen. Die Krankenkasse hat der Zahlstelle von Versorgungsbezügen
-und dem Bezieher von Versorgungsbezügen unverzüglich die
-Beitragspflicht des Versorgungsempfängers und, soweit die Summe der
-beitragspflichtigen Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die
+deren Vorliegen unverzüglich mitzuteilen; in der Mitteilung ist auch
+anzugeben, ob der Versorgungsempfänger nach dem Ende des
+Arbeitsverhältnisses als alleiniger Versicherungsnehmer Leistungen aus
+nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat. Im
+Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1 Nummer 1, 3
+und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich um eine den
+Waisenrenten gemäß § 48 des Sechsten Buches entsprechende Leistung
+nach § 15 des Gesetzes über die Alterssicherung der Landwirte, aus
+einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz 1 Satz 1
+Nummer 1 oder einer berufsständischen Versorgungseinrichtung unter den
+Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b handelt. Bei
+den am 1. Januar 1989 vorhandenen Versorgungsempfängern hat die
+Ermittlung der Krankenkasse innerhalb von sechs Monaten zu erfolgen.
+Der Versorgungsempfänger hat der Zahlstelle seine Krankenkasse
+anzugeben und einen Kassenwechsel sowie die Aufnahme einer
+versicherungspflichtigen Beschäftigung anzuzeigen. Die Krankenkasse
+hat der Zahlstelle von Versorgungsbezügen und dem Bezieher von
+Versorgungsbezügen unverzüglich die Beitragspflicht des
+Versorgungsempfängers und, soweit die Summe der beitragspflichtigen
+Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die
 Beitragsbemessungsgrenze überschreitet, deren Umfang mitzuteilen. Die
 Krankenkasse hat der Zahlstelle im Falle des Mehrfachbezugs von
 Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz
@@ -28017,7 +29519,7 @@ bedürfen, fest:
 
 
 
-#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Arbeitslosengeld II oder Unterhaltsgeld
+#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Bürgergeld oder Unterhaltsgeld
 
 Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten
 Buches die zugelassenen kommunalen Träger erstatten die Meldungen
@@ -28158,8 +29660,9 @@ in dem sie ihren Sitz haben.
 (2) Für die Aufsicht gelten die §§ 87 bis 89 des Vierten Buches. Für
 das Haushalts- und Rechnungswesen einschließlich der Statistiken
 gelten die §§ 67 bis 70 Abs. 1 und 5, §§ 72 bis 77 Abs. 1, §§ 78 und
-79 Abs. 1 und 2, für das Vermögen die §§ 80 und 85 des Vierten Buches.
-Für das Verwaltungsvermögen gilt § 263 entsprechend.
+79 Abs. 1 und 2, für das Vermögen die §§ 80 bis 86 des Vierten Buches
+sowie § 220 Absatz 1 Satz 2 und 3. Für das Verwaltungsvermögen gilt §
+263 entsprechend.
 
 
 ### § 209 Verwaltungsrat der Landesverbände
@@ -28467,8 +29970,8 @@ Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des
 Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand
 oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33
 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis
-4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3a und § 66 Abs. 1 des
-Vierten Buches und § 197 gelten entsprechend.
+4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3a, § 64a und § 66 Abs.
+1 des Vierten Buches und § 197 gelten entsprechend.
 
 (1a) Der Verwaltungsrat kann sämtliche Geschäfts- und
 Verwaltungsunterlagen einsehen und prüfen. Der Verwaltungsrat kann von
@@ -28756,19 +30259,18 @@ Für die Aufsicht über den Spitzenverband Bund der Krankenkassen gelten
 die §§ 87 bis 89 des Vierten Buches entsprechend. Für das Haushalts-
 und Rechnungswesen einschließlich der Statistiken gelten die §§ 67 bis
 69, die §§ 72 bis 77 Absatz 1 und 1a und die §§ 78 und 79 Absatz 1 und
-2 in Verbindung mit Absatz 3a, für das Vermögen die §§ 80 bis 83 und
-85 des Vierten Buches sowie § 220 Absatz 1 Satz 2 und für die
-Verwendung der Mittel § 305b entsprechend. Die Jahresrechnung nach §
-77 Absatz 1a des Vierten Buches ist für das abgelaufene Haushaltsjahr
-bis zum 1. Oktober des Folgejahres aufzustellen und der
-Aufsichtsbehörde vorzulegen. Betriebsmittel dürfen die Ausgaben nicht
-übersteigen, die nach dem Haushaltsplan des Spitzenverbandes Bund der
-Krankenkassen auf eineinhalb Monate entfallen. Rücklagen sind
-zulässig, sofern sie angemessen sind und für einen den gesetzlichen
-Aufgaben dienenden Zweck bestimmt sind. Soweit Vermögen nicht zur
-Rücklagenbildung erforderlich ist, ist es zur Senkung der Beiträge der
-Mitgliedskassen zu verwenden oder an die Mitgliedskassen
-zurückzuzahlen.
+2 in Verbindung mit Absatz 3a, für das Vermögen die §§ 80 bis 86 des
+Vierten Buches sowie § 220 Absatz 1 Satz 2 und für die Verwendung der
+Mittel § 305b entsprechend. Die Jahresrechnung nach § 77 Absatz 1a des
+Vierten Buches ist für das abgelaufene Haushaltsjahr bis zum 1.
+Oktober des Folgejahres aufzustellen und der Aufsichtsbehörde
+vorzulegen. Betriebsmittel dürfen die Ausgaben nicht übersteigen, die
+nach dem Haushaltsplan des Spitzenverbandes Bund der Krankenkassen auf
+eineinhalb Monate entfallen. Rücklagen sind zulässig, sofern sie
+angemessen sind und für einen den gesetzlichen Aufgaben dienenden
+Zweck bestimmt sind. Soweit Vermögen nicht zur Rücklagenbildung
+erforderlich ist, ist es zur Senkung der Beiträge der Mitgliedskassen
+zu verwenden oder an die Mitgliedskassen zurückzuzahlen.
 
 (3) Für die Vollstreckung von Aufsichtsverfügungen gegen den
 Spitzenverband Bund der Krankenkassen kann die Aufsichtsbehörde ein
@@ -28892,9 +30394,7 @@ Mitglieder regelt der Spitzenverband Bund der Krankenkassen.
 (3) Der Spitzenverband Bund der Krankenkassen trifft in
 grundsätzlichen Fach- und Rechtsfragen Entscheidungen zum Beitrags-
 und Meldeverfahren und zur einheitlichen Erhebung der Beiträge (§§ 23,
-76 des Vierten Buches). Der Spitzenverband Bund der Krankenkassen gibt
-Empfehlungen zur Benennung und Verteilung von beauftragten Stellen
-nach § 28f Abs. 4 des Vierten Buches.
+76 des Vierten Buches).
 
 (4) Der Spitzenverband Bund der Krankenkassen trifft Entscheidungen
 zur Organisation des Qualitäts- und Wirtschaftlichkeitswettbewerbs der
@@ -28919,7 +30419,7 @@ die Richtlinie Maßnahmen zur sicheren Identifizierung und zur sicheren
 Datenübertragung vorzusehen; hierbei sollen bereits vorhandene
 Verfahren für einen sicheren elektronischen Identitätsnachweis nach §
 36a Absatz 2 Satz 5 des Ersten Buches berücksichtigt werden. Die
-Richtlinie muss zusätzlich zum 1. Januar 2021 Regelungen zu dem
+Richtlinie muss zusätzlich zum 1. Oktober 2023 Regelungen zu dem
 Abgleich der Anschrift der Versicherten mit den Daten aus dem
 Melderegister vor dem Versand der elektronischen Gesundheitskarte und
 deren persönlicher Identifikationsnummer (PIN) an die Versicherten
@@ -29325,10 +30825,10 @@ geändert worden ist, mit den Maßgaben Anwendung, dass
 
 
 
-Dies gilt für alle Behandlungen, die bis zum 31. Dezember 2021
-begonnen werden. Bei Personen, die ihren Wohnsitz oder gewöhnlichen
-Aufenthalt im Vereinigten Königreich von Großbritannien und Nordirland
-haben, gilt dies für alle Behandlungen, die bis zum 31. Dezember 2020
+Dies gilt für alle Behandlungen, die bis zum 30. Juni 2022 begonnen
+werden. Bei Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt
+im Vereinigten Königreich von Großbritannien und Nordirland haben,
+gilt dies für alle Behandlungen, die bis zum 31. Dezember 2020
 begonnen werden.
 
 
@@ -29546,14 +31046,19 @@ die Durchführung des Einkommensausgleichs nach § 270a. Bei der
 Schätzung der Höhe der voraussichtlichen jährlichen Einnahmen bleiben
 die Beträge nach § 271 Absatz 1a außer Betracht.
 
-(3) Für das Haushalts- und Rechnungswesen einschließlich der
-Statistiken bei der Verwaltung des Gesundheitsfonds durch das
-Bundesamt für Soziale Sicherung gelten die §§ 67 bis 69, 70 Abs. 5, §
-72 Abs. 1 und 2 Satz 1 erster Halbsatz, die §§ 73 bis 77 Absatz 1a
-Satz 1 bis 6 und § 79 Abs. 1 und 2 in Verbindung mit Abs. 3a des
-Vierten Buches sowie die auf Grund des § 78 des Vierten Buches
-erlassenen Rechtsverordnungen entsprechend. Für das Vermögen gelten
-die §§ 80 und 85 des Vierten Buches entsprechend. Die Bestellung des
+(3) Für das Rechnungswesen einschließlich der Statistiken bei der
+Verwaltung des Gesundheitsfonds durch das Bundesamt für Soziale
+Sicherung gelten die §§ 76, 77 Absatz 1a Satz 1 bis 6 und § 79 Absatz
+1 und 2 in Verbindung mit Absatz 3a des Vierten Buches sowie die auf
+Grund des § 78 des Vierten Buches erlassenen Rechtsverordnungen
+entsprechend. Für das Vermögen gelten die §§ 80, 83 Absatz 1 und 2 bis
+4, die §§ 84 und 86 des Vierten Buches entsprechend. Die Mittel des
+Gesundheitsfonds können abweichend von § 83 Absatz 1 Nummer 2
+Buchstabe b und c sowie Nummer 4 Buchstabe c des Vierten Buches
+angelegt werden bei Kreditinstituten, die die geltenden Vorschriften
+über das Eigenkapital und die Liquidität einhalten. Die Einhaltung der
+Vorschriften über das Eigenkapital und die Liquidität ist regelmäßig,
+mindestens jährlich, zu überprüfen. Die Bestellung des
 Wirtschaftsprüfers oder des vereidigten Buchprüfers zur Prüfung der
 Jahresrechnung des Gesundheitsfonds erfolgt durch die beim Bundesamt
 für Soziale Sicherung eingerichtete Prüfstelle im Einvernehmen mit dem
@@ -29563,7 +31068,17 @@ Bundesamtes für Soziale Sicherung als Verwalter des Gesundheitsfonds
 erfolgt durch das Bundesministerium für Gesundheit im Einvernehmen mit
 dem Bundesministerium der Finanzen.
 
-(4) (weggefallen)
+(4) Das Bundesministerium für Gesundheit erarbeitet Empfehlungen für
+eine stabile, verlässliche und solidarische Finanzierung der
+gesetzlichen Krankenversicherung. Hierbei soll insbesondere auch die
+Ausgabenseite der gesetzlichen Krankenversicherung betrachtet werden.
+Die Empfehlungen des Bundesministeriums für Gesundheit werden bis zum
+31\. Mai 2023 vorgelegt. Zudem erarbeitet das Bundesministerium für
+Gesundheit Empfehlungen zum Bürokratieabbau im Gesundheitswesen und
+Vorschläge für gesetzliche Vorgaben, die eine Offenlegung der Service-
+und Versorgungsqualität der Krankenkassen anhand von einheitlichen
+Mindestkriterien ermöglichen. Diese sollen bis zum 30. September 2023
+erarbeitet werden.
 
 
 ##### § 221 Beteiligung des Bundes an Aufwendungen
@@ -29609,7 +31124,7 @@ mit der landwirtschaftlichen Krankenkasse bestimmt das
 Bundesversicherungsamt.
 
 
-##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds in den Jahren 2021 und 2022, Verordnungsermächtigung
+##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds, Verordnungsermächtigung
 
 (1) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2021 zur
 Stabilisierung des durchschnittlichen Zusatzbeitragssatzes gemäß §
@@ -29688,6 +31203,38 @@ Pflegeversicherung in Höhe von 24,05 Prozent abzüglich der bereits
 geleisteten 300 Millionen Euro ermittelt. Das Bundesministerium für
 Gesundheit ermittelt den Überschreitungsbetrag nach den Sätzen 2 und 3
 und meldet diesen unverzüglich an das Bundesministerium der Finanzen.
+
+(5) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2023 einen
+ergänzenden Bundeszuschuss in Höhe von 2 Milliarden Euro in monatlich
+zu überweisenden Teilbeträgen an den Gesundheitsfonds. Der
+Gesundheitsfonds überweist von den ihm zufließenden Leistungen nach
+Satz 1 der landwirtschaftlichen Krankenkasse den auf sie entfallenden
+Anteil an der Beteiligung des Bundes. Der an die landwirtschaftliche
+Krankenkasse zu überweisende Betrag bemisst sich nach dem Verhältnis
+der Anzahl der Versicherten dieser Krankenkasse zu der Anzahl der
+Versicherten aller Krankenkassen; maßgebend sind die Verhältnisse am
+1\. Juli 2022.
+
+(6) Der Bund leistet bis zum 1. April 2023 unbeschadet der
+Bundeszuschüsse nach Absatz 5 und nach § 221 Absatz 1 für das Jahr
+2023 einen ergänzenden Bundeszuschuss in Höhe von 150 Millionen Euro
+an den Gesundheitsfonds als Beitrag zum Ausgleich für die Mehrausgaben
+der gesetzlichen Krankenversicherung infolge der Regelung zum
+Kinderkrankengeld nach § 45 Absatz 2a. Überschreiten die in Satz 1
+genannten Mehrausgaben im Jahr 2023 einen Betrag von 150 Millionen
+Euro, leistet der Bund zum 1. Juli 2024 einen weiteren ergänzenden
+Bundeszuschuss an die Liquiditätsreserve des Gesundheitsfonds in Höhe
+des Betrags, um den die in Satz 1 genannten Mehrausgaben den Betrag
+von 150 Millionen Euro überschreiten. Der nach Satz 2 zu leistende
+Betrag wird aus der Differenz zwischen den Ausgaben aller gesetzlichen
+Krankenkassen für das Kinderkrankengeld ausweislich der
+Jahresrechnungsergebnisse (Statistik KJ 1) für das Jahr 2023 und für
+das Jahr 2019 einschließlich der jeweils darauf zu entrichtenden
+Beiträge zur Renten-, Arbeitslosen- und sozialen Pflegeversicherung
+abzüglich der bereits geleisteten 150 Millionen Euro ermittelt. Das
+Bundesministerium für Gesundheit ermittelt den Überschreitungsbetrag
+nach den Sätzen 2 und 3 und meldet diesen unverzüglich an das
+Bundesministerium der Finanzen.
 
 
 ##### § 221b (weggefallen)
@@ -29800,11 +31347,14 @@ entsprechend.
 (3) Für Schwangere, deren Mitgliedschaft nach § 192 Abs. 2 erhalten
 bleibt, gelten die Bestimmungen der Satzung.
 
-(4) Bei Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis
-zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des
-Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag
-der beitragspflichtigen Einnahme nach § 163 Absatz 10 des Sechsten
-Buches entsprechend.
+(4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches
+Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20
+Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind,
+bestimmt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz
+1 des Vierten Buches.
+
+(5) Für Personen, für die § 7 Absatz 2 Anwendung findet, bestimmt sich
+die beitragspflichtige Einnahme nach § 134 des Vierten Buches.
 
 
 ##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die  gesetzliche Krankenversicherung und bisher nicht Versicherter
@@ -29819,7 +31369,11 @@ entsprechend.
 allgemeinen Rentenversicherung sowie Renten der knappschaftlichen
 Rentenversicherung einschließlich der Steigerungsbeträge aus Beiträgen
 der Höherversicherung. Satz 1 gilt auch, wenn vergleichbare Renten aus
-dem Ausland bezogen werden.
+dem Ausland bezogen werden. Tritt an die Stelle der Rente eine nicht
+regelmäßig wiederkehrende Leistung oder ist eine solche Leistung vor
+Eintritt des Versicherungsfalls vereinbart oder zugesagt worden, gilt
+ein Hundertzwanzigstel der Leistung als monatlicher Zahlbetrag der
+Rente, längstens jedoch für 120 Monate.
 
 (2) Bei der Beitragsbemessung sind auch Nachzahlungen einer Rente nach
 Absatz 1 zu berücksichtigen, soweit sie auf einen Zeitraum entfallen,
@@ -29974,10 +31528,11 @@ Voraus durch den Arbeitsvertrag befristet ist.
     geringfügigen Beschäftigungsverhältnis sind abzuziehen,
 
 
-2.  bei Personen, die Arbeitslosengeld II beziehen, das 0,2155fache der
-    monatlichen Bezugsgröße; abweichend von § 223 Absatz 1 sind die
-    Beiträge für jeden Kalendermonat, in dem mindestens für einen Tag eine
-    Mitgliedschaft besteht, zu zahlen.
+2.  bei Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
+    Buches beziehen, das 0,2155fache der monatlichen Bezugsgröße;
+    abweichend von § 223 Absatz 1 sind die Beiträge für jeden
+    Kalendermonat, in dem mindestens für einen Tag eine Mitgliedschaft
+    besteht, zu zahlen.
 
 
 
@@ -29987,14 +31542,7 @@ anzuwenden. Ab Beginn des zweiten Monats bis zur zwölften Woche einer
 Sperrzeit oder ab Beginn des zweiten Monats eines Ruhenszeitraumes
 wegen einer Urlaubsabgeltung gelten die Leistungen als bezogen.
 
-(1a) Der Faktor nach Absatz 1 Satz 1 Nummer 2 ist im Jahr 2018 im
-Hinblick auf die für die Berechnung maßgebliche Struktur der
-Bezieherinnen und Bezieher von Arbeitslosengeld II zu überprüfen. Bei
-Veränderungen ist der Faktor nach Absatz 1 Satz 1 Nummer 2 mit Wirkung
-zum 1. Januar 2018 neu zu bestimmen. Das Nähere über das Verfahren
-einer nachträglichen Korrektur bestimmen das Bundesministerium für
-Gesundheit und das Bundesministerium für Arbeit und Soziales im
-Einvernehmen mit dem Bundesministerium der Finanzen.
+(1a) (weggefallen)
 
 (2) Soweit Kurzarbeitergeld nach dem Dritten Buch gewährt wird, gelten
 als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom
@@ -30038,17 +31586,12 @@ dreihundertsechzigste Teil des voraussichtlichen
 Jahresarbeitseinkommens (§ 12 des
 Künstlersozialversicherungsgesetzes), mindestens jedoch der
 einhundertachtzigste Teil der monatlichen Bezugsgröße nach § 18 des
-Vierten Buches Sozialgesetzbuch zugrunde gelegt. Für die Dauer des
-Bezugs von Elterngeld oder Erziehungsgeld oder für die Zeit, in der
-Erziehungsgeld nur wegen des zu berücksichtigenden Einkommens nicht
-bezogen wird, wird auf Antrag des Mitglieds das in dieser Zeit
-voraussichtlich erzielte Arbeitseinkommen nach Satz 1 mit dem auf den
-Kalendertag entfallenden Teil zugrunde gelegt, wenn es im Durchschnitt
-monatlich 325 Euro übersteigt. Für Kalendertage, für die Anspruch auf
-Krankengeld oder Mutterschaftsgeld besteht oder für die Beiträge nach
-§ 251 Abs. 1 zu zahlen sind, wird Arbeitseinkommen nicht zugrunde
-gelegt. Arbeitseinkommen sind auch die Vergütungen für die Verwertung
-und Nutzung urheberrechtlich geschützter Werke oder Leistungen.
+Vierten Buches Sozialgesetzbuch zugrunde gelegt. Für Kalendertage, für
+die Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder für
+die Beiträge nach § 251 Abs. 1 zu zahlen sind, wird Arbeitseinkommen
+nicht zugrunde gelegt. Arbeitseinkommen sind auch die Vergütungen für
+die Verwertung und Nutzung urheberrechtlich geschützter Werke oder
+Leistungen.
 
 (2) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis
 231 gelten entsprechend.
@@ -30320,34 +31863,12 @@ ausweislich der zuletzt vorgelegten vierteljährlichen
 Rechnungsergebnisse ihre nicht für die laufenden Ausgaben benötigten
 Betriebsmittel zuzüglich der Rücklage nach § 261 sowie der zur
 Anschaffung und Erneuerung der Vermögensteile bereitgehaltenen
-Geldmittel nach § 263 Absatz 1 Satz 1 Nummer 2 das 0,8-Fache des
+Geldmittel nach § 263 Absatz 1 Satz 1 Nummer 2 das 0,5fache des
 durchschnittlich auf einen Monat entfallenden Betrags der Ausgaben für
 die in § 260 Absatz 1 Nummer 1 genannten Zwecke überschreiten; § 260
 Absatz 2 Satz 2 gilt entsprechend.
 
-(1a) Krankenkassen, deren Finanzreserven gemäß § 260 Absatz 2 Satz 1
-nach ihrem Haushaltsplan für das Jahr 2021 zum Ende des Jahres 2021
-einen Betrag von 0,4 Monatsausgaben unterschreiten würden, wenn keine
-Anhebung des Zusatzbeitragssatzes erfolgt, dürfen ihren
-Zusatzbeitragssatz abweichend von Absatz 1 Satz 4 zum 1. Januar 2021
-anheben; diese Zusatzbeitragssatzanhebung ist begrenzt auf einen
-Zusatzbeitragssatz, der der Absicherung dieser Finanzreserven in Höhe
-von 0,4 Monatsausgaben am Ende des Jahres 2021 entspricht. Die
-zuständige Aufsichtsbehörde kann einer Krankenkasse, die zum Zeitpunkt
-der Haushaltsaufstellung für das Jahr 2021 über weniger als 50 000
-Mitglieder verfügt, auf Antrag eine Anhebung des Zusatzbeitragssatzes
-zum 1. Januar 2021 genehmigen, die über die nach Satz 1 zulässige
-Anhebung hinausgeht, soweit dies erforderlich ist, um den für diese
-Krankenkasse notwendigen Betrag an Finanzreserven zur Absicherung
-gegen unvorhersehbare Ausgabenrisiken nicht zu unterschreiten. Bei der
-Anhebung und der Genehmigung der Anhebung der Zusatzbeitragssätze nach
-den Sätzen 1 und 2 soll die Entwicklung der Ausgaben zugrunde gelegt
-werden, die der Schätzerkreis nach § 220 Absatz 2 Satz 1 Nummer 3 für
-das Jahr 2021 erwartet. Die in den Haushaltsplänen der Krankenkassen
-für das Jahr 2021 vorzusehenden Beträge der Zuführungen nach § 170
-Absatz 1 Satz 1 und zum Deckungskapital für Verpflichtungen nach § 12
-Absatz 1 der Sozialversicherungs-Rechnungsverordnung sind 2021 auf die
-für das Haushaltsjahr notwendigen Beträge begrenzt.
+(1a) (weggefallen)
 
 (2) Ergibt sich während des Haushaltsjahres, dass die Betriebsmittel
 der Krankenkassen einschließlich der Zuführung aus der Rücklage zur
@@ -30468,10 +31989,11 @@ Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gelten
 als Beitragssatz sieben Zehntel des allgemeinen Beitragssatzes.
 
 
-##### § 246 Beitragssatz für Bezieher von Arbeitslosengeld II
+##### § 246 Beitragssatz für Beziehende von Bürgergeld
 
-Für Personen, die Arbeitslosengeld II beziehen, gilt als Beitragssatz
-der ermäßigte Beitragssatz nach § 243.
+Für Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
+Buches beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach
+§ 243.
 
 
 ##### § 247 Beitragssatz aus der Rente
@@ -30517,14 +32039,20 @@ geringfügig Beschäftigten gilt § 249b.
 Beiträge für Kurzarbeitergeld zu zahlen sind.
 
 (3) Abweichend von Absatz 1 werden die Beiträge bei
-versicherungspflichtig Beschäftigten mit einem monatlichen
-Arbeitsentgelt innerhalb des Übergangsbereichs nach § 20 Abs. 2 des
-Vierten Buches vom Arbeitgeber in Höhe der Hälfte des Betrages, der
-sich ergibt, wenn der allgemeine oder ermäßigte Beitragssatz zuzüglich
-des kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung
-zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom
-Versicherten getragen. Dies gilt auch für Personen, für die § 7 Absatz
-3 Anwendung findet.
+versicherungspflichtig Beschäftigten, deren beitragspflichtige
+Einnahme sich nach § 226 Absatz 4 bestimmt, vom Versicherten in Höhe
+der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder der
+ermäßigte Beitragssatz zuzüglich des kassenindividuellen
+Zusatzbeitragssatzes auf die nach Maßgabe von § 20 Absatz 2a Satz 6
+des Vierten Buches ermittelte beitragspflichtige Einnahme angewendet
+wird, im Übrigen vom Arbeitgeber getragen.
+
+(4) Abweichend von Absatz 1 werden die Beiträge für Personen, für die
+§ 7 Absatz 2 Anwendung findet, vom Arbeitgeber in Höhe der Hälfte des
+Betrages, der sich ergibt, wenn der allgemeine oder der ermäßigte
+Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes
+auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet
+wird, im Übrigen vom Versicherten getragen.
 
 
 ##### § 249a Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
@@ -30658,23 +32186,25 @@ verpflichtet, als der Versicherte seine Beitragsanteile zahlt.
 (4) Der Bund trägt die Beiträge für Wehrdienst- und
 Zivildienstleistende im Falle des § 193 Abs. 2 und 3 sowie für die
 nach § 5 Abs. 1 Nr. 2a versicherungspflichtigen Bezieher von
-Arbeitslosengeld II. Die Höhe der vom Bund zu tragenden Zusatzbeiträge
-für die nach § 5 Absatz 1 Nummer 2a versicherungspflichtigen Bezieher
-von Arbeitslosengeld II wird für ein Kalenderjahr jeweils im Folgejahr
-abschließend festgestellt. Hierzu ermittelt das Bundesministerium für
-Gesundheit den rechnerischen Zusatzbeitragssatz, der sich als
-Durchschnitt der im Kalenderjahr geltenden Zusatzbeitragssätze der
-Krankenkassen nach § 242 Absatz 1 unter Berücksichtigung der Zahl
-ihrer Mitglieder ergibt. Weicht der durchschnittliche
-Zusatzbeitragssatz nach § 242a von dem für das Kalenderjahr nach Satz
-2 ermittelten rechnerischen Zusatzbeitragssatz ab, so erfolgt zwischen
-dem Gesundheitsfonds und dem Bundeshaushalt ein finanzieller Ausgleich
-des sich aus der Abweichung ergebenden Differenzbetrags. Den Ausgleich
-führt das Bundesamtes für Soziale Sicherung für den Gesundheitsfonds
-nach § 271 und das Bundesministerium für Arbeit und Soziales im
-Einvernehmen mit dem Bundesministerium der Finanzen für den Bund
-durch. Ein Ausgleich findet nicht statt, wenn sich ein Betrag von
-weniger als einer Million Euro ergibt.
+Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Die Höhe der
+vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz 1 Nummer
+2a versicherungspflichtigen Bezieher von Bürgergeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches wird für ein Kalenderjahr jeweils im
+Folgejahr abschließend festgestellt. Hierzu ermittelt das
+Bundesministerium für Gesundheit den rechnerischen Zusatzbeitragssatz,
+der sich als Durchschnitt der im Kalenderjahr geltenden
+Zusatzbeitragssätze der Krankenkassen nach § 242 Absatz 1 unter
+Berücksichtigung der Zahl ihrer Mitglieder ergibt. Weicht der
+durchschnittliche Zusatzbeitragssatz nach § 242a von dem für das
+Kalenderjahr nach Satz 2 ermittelten rechnerischen Zusatzbeitragssatz
+ab, so erfolgt zwischen dem Gesundheitsfonds und dem Bundeshaushalt
+ein finanzieller Ausgleich des sich aus der Abweichung ergebenden
+Differenzbetrags. Den Ausgleich führt das Bundesamtes für Soziale
+Sicherung für den Gesundheitsfonds nach § 271 und das
+Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
+Bundesministerium der Finanzen für den Bund durch. Ein Ausgleich
+findet nicht statt, wenn sich ein Betrag von weniger als einer Million
+Euro ergibt.
 
 (4a) Die Bundesagentur für Arbeit trägt die Beiträge für die Bezieher
 von Arbeitslosengeld und Unterhaltsgeld nach dem Dritten Buch.
@@ -30713,8 +32243,8 @@ Vorschriften des Ersten und Zehnten Buches.
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
 von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des
 § 6a des Zweiten Buches die zugelassenen kommunalen Träger die
-Beiträge für die Bezieher von Arbeitslosengeld II nach dem Zweiten
-Buch.
+Beiträge für die Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des
+Zweiten Buches.
 
 (2) Die Beitragszahlung erfolgt in den Fällen des § 251 Abs. 3, 4 und
 4a an den Gesundheitsfonds. Ansonsten erfolgt die Beitragszahlung an
@@ -31054,10 +32584,8 @@ entsprechend.
 
 
 
-#### § 259 Mittel der Krankenkasse
+#### § 259 (weggefallen)
 
-Die Mittel der Krankenkasse umfassen die Betriebsmittel, die Rücklage
-und das Verwaltungsvermögen.
 
 
 #### § 260 Betriebsmittel
@@ -31077,39 +32605,46 @@ und das Verwaltungsvermögen.
 
 (2) Die nicht für die laufenden Ausgaben benötigten Betriebsmittel
 zuzüglich der Rücklage nach § 261 sowie der zur Anschaffung und
-Erneuerung der Vermögensteile bereitgehaltenen Geldmittel nach § 263
-Absatz 1 Satz 1 Nummer 2 dürfen im Durchschnitt des Haushaltsjahres
-das 0,8-Fache des nach dem Haushaltsplan der Krankenkasse auf einen
-Monat entfallenden Betrages der Ausgaben für die in Absatz 1 Nummer 1
-genannten Zwecke nicht übersteigen. Auf Antrag einer Krankenkasse, die
-zum Zeitpunkt der Haushaltsaufstellung über weniger als 50 000
-Mitglieder verfügt, kann die zuständige Aufsichtsbehörde eine
-Obergrenze zulassen, die das 0,8-Fache des Betrages nach Satz 1
-übersteigt, soweit dies erforderlich ist. Bei der Feststellung der
-vorhandenen Betriebsmittel sind die Forderungen und Verpflichtungen
-der Krankenkasse zu berücksichtigen, soweit sie nicht der Rücklage
-oder dem Verwaltungsvermögen zuzuordnen sind. Durchlaufende Gelder
-bleiben außer Betracht.
+Erneuerung der Vermögensteile des Verwaltungsvermögens nach § 82a des
+Vierten Buches und § 263 bereitgehaltenen Geldmittel dürfen im
+Durchschnitt des Haushaltsjahres das 0,5fache des nach dem
+Haushaltsplan der Krankenkasse auf einen Monat entfallenden Betrages
+der Ausgaben für die in Absatz 1 Nummer 1 genannten Zwecke nicht
+übersteigen. Auf Antrag einer Krankenkasse, die zum Zeitpunkt der
+Haushaltsaufstellung über weniger als 50 000 Mitglieder verfügt, kann
+die zuständige Aufsichtsbehörde eine Obergrenze zulassen, die das
+0,5fache des Betrages nach Satz 1 übersteigt, soweit dies erforderlich
+ist. Bei der Feststellung der vorhandenen Betriebsmittel sind die
+Forderungen und Verpflichtungen der Krankenkasse zu berücksichtigen,
+soweit sie nicht der Rücklage oder dem Verwaltungsvermögen zuzuordnen
+sind. Durchlaufende Gelder bleiben außer Betracht.
 
 (2a) Die den Betrag nach Absatz 2 Satz 1 oder Satz 2 übersteigenden
-Mittel sind innerhalb der drei folgenden Haushaltsjahre schrittweise
-mindestens in Höhe eines Drittels des Überschreitungsbetrages pro Jahr
-durch Absenkung des kassenindividuellen Zusatzbeitragssatzes zu
-vermindern. Die zuständige Aufsichtsbehörde kann die Frist nach Satz 1
-auf Antrag der Krankenkasse um bis zu zwei Haushaltsjahre verlängern,
-wenn die übersteigenden Mittel voraussichtlich nicht innerhalb der
-Frist nach Satz 1 durch einen Verzicht auf die Erhebung eines
-Zusatzbeitrags abgebaut werden können.
+Mittel sind innerhalb der zwei folgenden Haushaltsjahre durch
+Absenkung des kassenindividuellen Zusatzbeitragssatzes zu vermindern.
+Im ersten Haushaltsjahr hat die Minderung mindestens in Höhe der
+Hälfte der übersteigenden Mittel zu erfolgen. Die zuständige
+Aufsichtsbehörde kann die Frist nach Satz 1 auf Antrag der
+Krankenkasse um bis zu zwei Haushaltsjahre verlängern, wenn die
+übersteigenden Mittel voraussichtlich nicht innerhalb der Frist nach
+Satz 1 durch einen Verzicht auf die Erhebung eines Zusatzbeitrags
+abgebaut werden können.
 
 (3) Die Betriebsmittel sind im erforderlichen Umfang bereitzuhalten
 und im übrigen so anzulegen, daß sie für die in Absatz 1 genannten
 Zwecke verfügbar sind.
 
 (4) Übersteigen die nicht für die laufenden Ausgaben benötigten
-Betriebsmittel zuzüglich der Rücklage nach § 261 nach Ablauf der Frist
-nach Absatz 2a den nach Absatz 2 Satz 1 oder Satz 2 vorgegebenen
-Betrag, hat die Krankenkasse den übersteigenden Betrag an den
-Gesundheitsfonds abzuführen.
+Betriebsmittel zuzüglich der Rücklage nach § 261 sowie der zur
+Anschaffung und Erneuerung der Vermögensteile des Verwaltungsvermögens
+nach § 82a des Vierten Buches und § 263 bereitgehaltenen Geldmittel
+nach Ablauf der Frist nach Absatz 2a Satz 1 ausweislich der
+Jahresrechnung das 0,5fache oder die von der zuständigen
+Aufsichtsbehörde zugelassene Obergrenze des durchschnittlich auf einen
+Monat entfallenden Betrags der Ausgaben für die in Absatz 1 Nummer 1
+genannten Zwecke, hat die Krankenkasse den übersteigenden Betrag an
+den Gesundheitsfonds abzuführen. Die zuständige Aufsichtsbehörde setzt
+den abzuführenden Betrag fest und meldet ihn an den Gesundheitsfonds.
 
 (5) (weggefallen)
 
@@ -31183,28 +32718,10 @@ Verzinsung.
 
 #### § 263 Verwaltungsvermögen
 
-(1) Das Verwaltungsvermögen der Krankenkasse umfaßt
-
-1.  Vermögensanlagen, die der Verwaltung der Krankenkasse sowie der
-    Führung ihrer betrieblichen Einrichtungen (Eigenbetriebe) zu dienen
-    bestimmt sind,
-
-
-2.  die zur Anschaffung und Erneuerung dieser Vermögensteile und für
-    künftig zu zahlende Versorgungsbezüge der Bediensteten und ihrer
-    Hinterbliebenen bereitgehaltenen Geldmittel,
-
-
-
-soweit sie für die Erfüllung der Aufgaben der Krankenkasse
-erforderlich sind. Zum Verwaltungsvermögen gehören auch Grundstücke,
-die nur teilweise für Zwecke der Verwaltung der Krankenkasse oder für
-Eigenbetriebe erforderlich sind.
-
-(2) Als Verwaltungsvermögen gelten auch sonstige Vermögensanlagen auf
-Grund rechtlicher Verpflichtung oder Ermächtigung, soweit sie nicht
-den Betriebsmitteln, der Rücklage oder einem Sondervermögen zuzuordnen
-sind.
+Das Verwaltungsvermögen der Krankenkasse umfasst neben den in § 82a
+Satz 2 des Vierten Buches genannten Vermögensgegenständen auch
+Grundstücke, die nur teilweise für Zwecke der Verwaltung der
+Krankenkasse oder für Eigenbetriebe erforderlich sind.
 
 
 #### § 263a Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen
@@ -31611,8 +33128,8 @@ nach Maßgabe dieser Vorschrift an das Bundesamt für Soziale Sicherung.
 Eine unmittelbare oder mittelbare Einwirkung der Krankenkassen auf den
 Inhalt der Leistungsdaten nach den §§ 294 bis 303 und die Art und
 Weise der Aufzeichnung insbesondere unter Verstoß gegen § 71 Absatz 6
-Satz 9, § 73b Absatz 5 Satz 7, § 83 Satz 4, § 140a Absatz 2 Satz 7 und
-§ 303 Absatz 4 ist unzulässig, soweit sie in diesem Buch nicht
+Satz 10, § 73b Absatz 5 Satz 7, § 83 Satz 4, § 140a Absatz 2 Satz 10
+und § 303 Absatz 4 ist unzulässig, soweit sie in diesem Buch nicht
 vorgeschrieben oder zugelassen ist.
 
 (2) Für die Weiterentwicklung des Risikostrukturausgleichs übermitteln
@@ -31877,10 +33394,10 @@ nach § 25 Absatz 1, 2 und den §§ 25a und 26, Individualprophylaxe nach
 § 22 Absatz 1, 3 und § 22a Absatz 1 oder Schutzimpfung nach § 20i
 Absatz 1 teilgenommen hat. Das Bundesamt für Soziale Sicherung
 ermittelt die Höhe der Zuweisungen und weist die entsprechenden Mittel
-den Krankenkassen zu. § 266 Absatz 9 gilt entsprechend. Das Nähere
-über die Kriterien der Vergabe und das Verfahren bestimmt das
-Bundesministerium für Gesundheit in der Rechtsverordnung nach § 266
-Absatz 8 Satz 1.
+den Krankenkassen zu. § 266 Absatz 7 Satz 3, 6 und 7 und Absatz 9 gilt
+entsprechend. Das Nähere über die Kriterien der Vergabe und das
+Verfahren bestimmt das Bundesministerium für Gesundheit in der
+Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
 
 #### § 270a Einkommensausgleich
@@ -31961,18 +33478,15 @@ der Liquiditätsreserve muss nach Ablauf eines Geschäftsjahres
 mindestens 20 Prozent der durchschnittlich auf den Monat entfallenden
 Ausgaben des Gesundheitsfonds auf Grundlage der für die Festlegung des
 durchschnittlichen Zusatzbeitragssatzes nach § 242a maßgeblichen Werte
-für dieses Geschäftsjahr betragen. Sie darf einen Betrag von 50
-Prozent der durchschnittlich auf den Monat entfallenden Ausgaben des
-Gesundheitsfonds nicht überschreiten. Überschreitet die Höhe der
-Liquiditätsreserve diesen Betrag auf Grundlage der Prognose des
-Schätzerkreises nach § 220 Absatz 2 für das jeweilige Folgejahr
-abzüglich der gesetzlich vorgesehenen Entnahmen aus der
-Liquiditätsreserve für die Folgejahre, sind die überschüssigen Mittel
-jährlich bis zu einer Höhe entsprechend eines Finanzvolumens von 0,1
-Beitragssatzpunkten der beitragspflichtigen Einnahmen in die Einnahmen
-des Gesundheitsfonds zu überführen. Aus der Liquiditätsreserve werden
-im Jahr 2021 190 Millionen Euro an das Bundesministerium für
-Gesundheit gezahlt.
+für dieses Geschäftsjahr betragen. Sie darf nach Ablauf eines
+Geschäftsjahres einen Betrag von 25 Prozent der durchschnittlich auf
+den Monat entfallenden Ausgaben des Gesundheitsfonds auf Grundlage der
+für die Festlegung des durchschnittlichen Zusatzbeitragssatzes nach §
+242a maßgeblichen Werte für dieses Geschäftsjahr nicht überschreiten.
+Überschreitet die erwartete Höhe der Liquiditätsreserve abzüglich der
+gesetzlich vorgesehenen Entnahmen aus der Liquiditätsreserve für das
+Folgejahr den Betrag nach Satz 4, sind die überschüssigen Mittel in
+die Einnahmen des Gesundheitsfonds im Folgejahr zu überführen.
 
 (2a) Bei Schließung oder Insolvenz einer Krankenkasse kann das
 Bundesamt für Soziale Sicherung einer leistungsaushelfenden
@@ -31997,7 +33511,14 @@ Einnahmen des Gesundheitsfonds nach Absatz 1 Satz 1 werden im Jahr
 2021 900 Millionen Euro, im Jahr 2022 600 Millionen Euro und im Jahr
 2023 300 Millionen Euro aus der Liquiditätsreserve zugeführt, um die
 Mindereinnahmen, die sich aus der Anwendung von § 226 Absatz 2 Satz 2
-ergeben, zu kompensieren.
+ergeben, zu kompensieren. Aus der Liquiditätsreserve werden im Jahr
+2023 378 Millionen Euro entnommen; bei der Ermittlung der Höhe der
+Zuweisungen nach § 266 Absatz 7 Satz 3 für das Ausgleichsjahr 2022 ist
+das sich nach § 17 Absatz 2 der Risikostruktur-Ausgleichsverordnung
+ergebende Zuweisungsvolumen für das Ausgleichsjahr um diesen Betrag zu
+erhöhen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 Satz 1
+werden im Jahr 2024 378 Millionen Euro aus der Liquiditätsreserve
+zugeführt.
 
 (5) Zur Finanzierung der Fördermittel nach § 92a Absatz 3 und 4 werden
 dem Innovationsfonds aus der Liquiditätsreserve des Gesundheitsfonds
@@ -32023,6 +33544,13 @@ des Krankenhausfinanzierungsgesetzes abgerufen werden.
 Fonds entstehenden Ausgaben einschließlich der Ausgaben für die
 Durchführung und Weiterentwicklung des Risikostrukturausgleichs werden
 aus den Einnahmen des Gesundheitsfonds gedeckt.
+
+(8) Der Liquiditätsreserve des Gesundheitsfonds werden im Jahr 2023 25
+Millionen Euro zugeführt, indem das Zuweisungsvolumen gemäß § 17
+Absatz 2 der Risikostruktur-Ausgleichsverordnung für das
+Ausgleichsjahr 2023 um 25 Millionen Euro bereinigt wird. Das Bundesamt
+für Soziale Sicherung berücksichtigt diese Bereinigung bei der
+Berechnung der Zuweisungen nach § 270 Absatz 1 Satz 1 Nummer 3.
 
 
 #### § 271a Sicherstellung der Einnahmen des Gesundheitsfonds
@@ -32134,6 +33662,72 @@ Absatz 4 Satz 2 und Absatz 5 im Jahr 2022 den Einnahmen des
 Gesundheitsfonds im Jahr 2022 zugeführt.
 
 
+#### § 272b Sonderregelungen für den Gesundheitsfonds im Jahr 2023, Aussetzung des Zusatzbeitragssatzanhebungsverbots für das Jahr 2023
+
+(1) Den Einnahmen des Gesundheitsfonds nach § 271 Absatz 1 Satz 1
+werden im Jahr 2023 Mittel aus den Finanzreserven der Krankenkassen
+nach § 260 Absatz 2 Satz 1 zugeführt, indem von jeder Krankenkasse von
+den Finanzreserven nach § 260 Absatz 2 Satz 1 abzüglich 4 Millionen
+Euro herangezogen werden:
+
+1.  60 Prozent des Betrags, der drei Zehntel des durchschnittlich auf
+    einen Monat entfallenden Betrags der Ausgaben für die in § 260 Absatz
+    1 Nummer 1 genannten Zwecke überschreitet, und
+
+
+2.  40 Prozent des Betrags, der ein Fünftel des durchschnittlich auf einen
+    Monat entfallenden Betrags der Ausgaben für die in § 260 Absatz 1
+    Nummer 1 genannten Zwecke überschreitet und drei Zehntel des
+    durchschnittlich auf einen Monat entfallenden Betrags der Ausgaben für
+    die in § 260 Absatz 1 Nummer 1 genannten Zwecke nicht überschreitet.
+
+
+
+Maßgebend für die Rechengrößen nach Satz 1 sind die von den
+Krankenkassen für das Geschäftsjahr 2021 vorgelegten endgültigen
+Rechnungsergebnisse, die der Spitzenverband Bund der Krankenkassen dem
+Bundesministerium für Gesundheit am 15. Juni 2022 übermittelt hat.
+
+(2) Das Bundesamt für Soziale Sicherung berechnet den Betrag nach
+Absatz 1 Satz 1 und 2, der sich für jede betroffene Krankenkasse
+ergibt, und macht ihn durch Bescheid gegenüber der Krankenkasse
+geltend. Das Bundesamt für Soziale Sicherung verrechnet den
+festgesetzten Betrag mit den nach § 16 Absatz 5 der Risikostruktur-
+Ausgleichsverordnung für das Ausgleichsjahr 2023 an die Krankenkasse
+auszuzahlenden Zuweisungen in der Höhe, in der sich die Forderungen
+decken. Das Bundesamt für Soziale Sicherung verteilt die Verrechnung
+nach Satz 2 in monatlich gleichen Teilbeträgen auf alle
+Ausgleichsmonate des Jahres 2023, die auf den Monat, in dem der
+Bescheid nach Satz 1 erlassen wird, folgen. Klagen gegen die
+Geltendmachung der Beträge haben keine aufschiebende Wirkung. Das
+Bundesamt für Soziale Sicherung soll die Bescheide nach Satz 1 bis zum
+31\. März 2023 erlassen.
+
+(3) Haben sich Krankenkassen zwischen dem 1. Januar 2022 und dem 30.
+Juni 2022 nach § 155 vereinigt, berechnet das Bundesamt für Soziale
+Sicherung den Betrag, der sich auf Grundlage der Rechnungsergebnisse
+nach Absatz 1 Satz 2 der an der Vereinigung beteiligten Krankenkassen
+für die neue Krankenkasse nach § 155 Absatz 6 Satz 2 ergibt.
+Vereinigen sich Krankenkassen nach § 155 ab dem 1. Juli 2022 und hätte
+sich für eine, einen Teil oder alle der an der Vereinigung beteiligten
+Krankenkassen ein Betrag nach Absatz 1 Satz 1 und 2 ergeben, macht das
+Bundesamt für Soziale Sicherung den Betrag oder die Summe der Beträge
+gegenüber der neuen Krankenkasse nach § 155 Absatz 6 Satz 2 durch
+Bescheid geltend. Es verrechnet den festgesetzten Betrag mit den nach
+§ 16 Absatz 5 der Risikostruktur-Ausgleichsverordnung für das
+Ausgleichsjahr 2023 an die neue Krankenkasse nach § 155 Absatz 6 Satz
+2 auszuzahlenden Zuweisungen in der Höhe, in der sich die Forderungen
+decken; Absatz 2 Satz 3 bis 5 gilt entsprechend. Satz 2 gilt nicht,
+wenn das Bundesamt für Soziale Sicherung zu dem nach § 155 Absatz 5
+bestimmten Zeitpunkt, zu dem die Vereinigung wirksam wird, bereits den
+Bescheid oder die Bescheide nach Absatz 2 Satz 1 gegenüber den an der
+Vereinigung beteiligten Krankenkassen erlassen hat.
+
+(4) Die Beschränkungen des § 242 Absatz 1 Satz 4 für die Anhebung des
+Zusatzbeitragssatzes gelten nicht für die Erhebung eines
+Zusatzbeitrags im Jahr 2023.
+
+
 #### § 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich
 
 (1) Das Bundesamt für Soziale Sicherung prüft im Rahmen der
@@ -32195,7 +33789,19 @@ Satz 4 der Risikostruktur-Ausgleichsverordnung bleibt dabei außer
 Betracht. Das Nähere über die Ermittlung des Korrekturbetrags bestimmt
 das Bundesministerium für Gesundheit in der Rechtsverordnung nach §
 266 Absatz 8 Satz 1. Klagen bei Streitigkeiten nach dieser Vorschrift
-haben keine aufschiebende Wirkung.
+haben keine aufschiebende Wirkung. Hat das Bundesamt für Soziale
+Sicherung einen Korrekturbetrag nach Satz 1 festgesetzt, verrechnet es
+ihn mit den nach § 266 Absatz 7 Satz 2 berechneten monatlichen
+Zuweisungen in der Höhe, in der sich die Forderungen decken. Das
+Bundesamt für Soziale Sicherung bestimmt den Zeitpunkt der Verrechnung
+und teilt diesen der Krankenkasse mit einer Frist von mindestens 14
+Kalendertagen mit. Auf Antrag der Krankenkasse kann das Bundesamt für
+Soziale Sicherung die Verrechnung nach Satz 5 auf mehrere
+Ausgleichsmonate verteilen. Dabei muss der Korrekturbetrag spätestens
+innerhalb von 24 Monaten nach Beginn der Verrechnung vollständig
+verrechnet sein. Bei der Verteilung nach Satz 7 ist für jeden
+angefangenen Monat ein Zuschlag in Höhe von 0,5 Prozent des
+rückständigen Betrags zu zahlen.
 
 (7) Das Bundesamt für Soziale Sicherung führt die Prüfungen nach den
 Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Im Rahmen der Prüfung
@@ -32673,13 +34279,8 @@ Stellungnahme zu geben ist.
 (2) Für die Durchführung der Prüfungen nach Absatz 1 gilt § 114a
 Absatz 1 bis 3a des Elften Buches entsprechend. Prüfungen nach Absatz
 1 bei Leistungserbringern, mit denen die Krankenkassen Verträge nach §
-132a Absatz 4 abgeschlossen haben und die in einer Wohneinheit
-behandlungspflegerische Leistungen erbringen, die nach § 132a Absatz 4
-Satz 14 anzeigepflichtig sind, sind grundsätzlich unangemeldet
-durchzuführen; dies gilt auch für Prüfungen bei Leistungserbringern,
-die Wohneinheiten nach § 132l Absatz 5 Nummer 1 betreiben, und bei
-Leistungserbringern, mit denen die Krankenkassen Verträge nach § 132l
-Absatz 5 Nummer 2 abgeschlossen haben. Räume der Wohneinheiten und
+132l Absatz 5 Nummer 1 oder Nummer 2 abgeschlossen haben, sind
+grundsätzlich unangemeldet durchzuführen. Räume der Wohneinheiten und
 vollstationären Pflegeeinrichtungen nach Satz 2, die einem Wohnrecht
 der Versicherten unterliegen, dürfen vom Medizinischen Dienst ohne
 deren Einwilligung nur betreten werden, soweit dies zur Verhütung
@@ -32853,9 +34454,9 @@ Krankenhaus im vorvergangenen Quartal erhalten hat, heranzuziehen.
 Liegt der Anteil unbeanstandeter Abrechnungen eines Krankenhauses
 unterhalb von 20 Prozent oder besteht ein begründeter Verdacht einer
 systematisch überhöhten Abrechnung, ist die Krankenkasse bei diesem
-Krankenhaus auch nach Erreichen der Prüfquote vor Ende eines Quartals
-zu weiteren Prüfungen nach Absatz 1 befugt. Die anderen
-Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des
+Krankenhaus ab dem Jahr 2022 auch nach Erreichen der Prüfquote vor
+Ende eines Quartals zu weiteren Prüfungen nach Absatz 1 befugt. Die
+anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des
 Krankenhausfinanzierungsgesetzes haben das Vorliegen der
 Voraussetzungen nach Satz 6 unter Angabe der Gründe vor der Einleitung
 der Prüfung bei der für die Krankenhausversorgung zuständigen
@@ -32891,7 +34492,10 @@ Abrechnungsbetrages, wobei der Mindestbetrag von 300 Euro nicht
 unterschritten werden darf. In dem Verfahren zwischen Krankenkassen
 und Krankenhäusern im Vorfeld einer Beauftragung des Medizinischen
 Dienstes nach § 17c Absatz 2 Satz 2 Nummer 3 des
-Krankenhausfinanzierungsgesetzes wird kein Aufschlag erhoben.
+Krankenhausfinanzierungsgesetzes wird kein Aufschlag erhoben. Die
+Geltendmachung des Aufschlags erfolgt im Wege elektronischer
+Datenübertragung; das Nähere vereinbart der Spitzenverband Bund der
+Krankenkassen mit der Deutschen Krankenhausgesellschaft.
 
 (4) Zur Umsetzung der Einzelfallprüfung nach den Vorgaben der Absätze
 1 bis 3 wird der Spitzenverband Bund der Krankenkassen verpflichtet,
@@ -32961,11 +34565,10 @@ der Spitzenverband Bund der Krankenkassen bis zum 31. März 2020 fest.
 Bei der Festlegung sind die Stellungnahmen der Deutschen
 Krankenhausgesellschaft und der Medizinischen Dienste einzubeziehen.
 
-(5) Widerspruch und Klage gegen die Geltendmachung des Aufschlags nach
-Absatz 3 und gegen die Ermittlung der Prüfquote nach Absatz 4 haben
-keine aufschiebende Wirkung. Einwendungen gegen die Ergebnisse
-einzelner Prüfungen nach Absatz 1 sind bei der Ermittlung der
-Prüfquote nicht zu berücksichtigen. Behördliche oder gerichtliche
+(5) Widerspruch und Klage gegen die Ermittlung der Prüfquote nach
+Absatz 4 haben keine aufschiebende Wirkung. Einwendungen gegen die
+Ergebnisse einzelner Prüfungen nach Absatz 1 sind bei der Ermittlung
+der Prüfquote nicht zu berücksichtigen. Behördliche oder gerichtliche
 Feststellungen zu einzelnen Prüfungen nach Absatz 1 lassen die für das
 jeweilige betrachtete Quartal ermittelte Prüfquote nach Absatz 2
 unberührt.
@@ -33016,12 +34619,53 @@ Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 3 nichts Abweichendes
 bestimmt wird, durch den Medizinischen Dienst, der örtlich für das zu
 begutachtende Krankenhaus zuständig ist.
 
-(2) Die Krankenhäuser erhalten vom Medizinischen Dienst in
-schriftlicher oder elektronischer Form das Gutachten und bei
-Einhaltung der Strukturmerkmale eine Bescheinigung über das Ergebnis
-der Prüfung, die auch Angaben darüber enthält, für welchen Zeitraum
-die Einhaltung der jeweiligen Strukturmerkmale als erfüllt angesehen
-wird.
+(1a) Krankenhäuser können Leistungen abweichend von Absatz 1 Satz 1
+bis zum Abschluss der Strukturprüfung, längstens bis zum 30. Juni
+eines Jahres, abrechnen, wenn
+
+1.  sie bis zum 31. Dezember des jeweiligen Vorjahres dem zuständigen
+    Medizinischen Dienst, den Landesverbänden der Krankenkassen, den
+    Ersatzkassen und dem Landesausschuss des Verbandes der Privaten
+    Krankenversicherung unter Angabe des Standortes des Krankenhauses
+    angezeigt haben, dass sie die Strukturmerkmale des Kodes des
+    Operationen- und Prozedurenschlüssels nach § 301 Absatz 2, der der
+    jeweiligen Leistung zugrunde liegt, als erfüllt und nachweisbar
+    ansehen, und
+
+
+2.  der der Leistung zugrunde liegende Kode des Operationen- und
+    Prozedurenschlüssels nach § 301 Absatz 2 in dem Jahr erstmals
+    vergütungsrelevant wurde.
+
+
+
+Krankenhäuser können ab dem 30. Juni 2023 Leistungen abweichend von
+Absatz 1 Satz 1 bis zum Abschluss der Strukturprüfung, längstens bis
+zu sechs Monate nach der Anzeige nach Nummer 1, abrechnen, wenn sie
+
+1.  dem zuständigen Medizinischen Dienst, den Landesverbänden der
+    Krankenkassen, den Ersatzkassen und dem Landesausschuss des Verbandes
+    der Privaten Krankenversicherung unter Angabe des Standortes des
+    Krankenhauses angezeigt haben, dass sie die Strukturmerkmale des Kodes
+    des Operationen- und Prozedurenschlüssels nach § 301 Absatz 2, der der
+    jeweiligen Leistung zugrunde liegt, über einen Zeitraum von drei
+    Kalendermonaten vor dieser Anzeige als erfüllt und nachweisbar
+    ansehen, und
+
+
+2.  in den letzten zwölf Monaten vor der Anzeige nach Nummer 1 noch keine
+    Anzeige nach Nummer 1 für Leistungen nach diesem Kode vorgenommen
+    haben.
+
+
+
+
+(2) Die Strukturprüfung wird durch einen Bescheid abgeschlossen. Die
+Krankenhäuser erhalten vom Medizinischen Dienst in schriftlicher oder
+elektronischer Form das Gutachten und bei Einhaltung der
+Strukturmerkmale eine Bescheinigung über das Ergebnis der Prüfung, die
+auch Angaben darüber enthält, für welchen Zeitraum die Einhaltung der
+jeweiligen Strukturmerkmale als erfüllt angesehen wird.
 
 (3) Die Krankenhäuser haben die Bescheinigung nach Absatz 2 den
 Landesverbänden der Krankenkassen und den Ersatzkassen jeweils
@@ -33033,16 +34677,26 @@ Krankenhäuser, die eines oder mehrere der nachgewiesenen
 Strukturmerkmale über einen Zeitraum von mehr als einem Monat nicht
 mehr einhalten, haben dies unverzüglich den Landesverbänden der
 Krankenkassen und den Ersatzkassen sowie dem zuständigen Medizinischen
-Dienst mitzuteilen.
+Dienst mitzuteilen. Krankenhäusern, denen nach Abschluss der
+Strukturprüfung, die sie nach einer Anzeige nach Absatz 1a beantragt
+haben, keine Bescheinigung nach Absatz 2 erteilt wurde, haben dies
+unverzüglich den Landesverbänden der Krankenkassen, den Ersatzkassen
+und dem Landesausschuss des Verbandes der Privaten Krankenversicherung
+unter Angabe des Standortes des Krankenhauses mitzuteilen.
 
 (4) Krankenhäuser, die die strukturellen Voraussetzungen nach Absatz 1
 nicht erfüllen, dürfen die Leistungen ab dem Jahr 2022 nicht
 vereinbaren und nicht abrechnen. Soweit Krankenhäusern die
 Bescheinigung über die Einhaltung der Strukturmerkmale nach Absatz 2
 aus von ihnen nicht zu vertretenden Gründen erst nach dem 31. Dezember
-2021 vorliegt, können diese Krankenhäuser bis zum Abschluss einer
-Strukturprüfung bislang erbrachte Leistungen weiterhin vereinbaren und
-abrechnen.
+2021 vorliegt, können diese Krankenhäuser im Jahr 2022 bis zum
+Abschluss einer Strukturprüfung bislang erbrachte Leistungen weiterhin
+vereinbaren und abrechnen. Abweichend von Satz 1 können Krankenhäuser
+im Jahr 2022 bis zum Abschluss der Strukturprüfung erbrachte
+Leistungen vereinbaren und abrechnen, wenn sie die Strukturprüfung für
+Leistungen nach dem Kode 8-01a des Operationen- und
+Prozedurenschlüssels nach § 301 Absatz 2 bis zum 30. Juni 2022
+beantragt haben.
 
 (5) Die Kosten des Medizinischen Dienstes für eine Begutachtung werden
 entsprechend § 280 Absatz 1 durch eine Umlage aufgebracht.
@@ -33384,7 +35038,8 @@ gilt entsprechend.
 Absatz 1 bis 3, § 43 Absatz 2, die §§ 58, 59 Absatz 1 bis 3, 5 und 6,
 die §§ 60, 62 Absatz 1 Satz 1 erster Halbsatz, Absatz 2, 3 Satz 1 und
 4 und Absatz 4 bis 6, § 63 Absatz 1 und 2, 3 Satz 2 und 3, Absatz 3a
-bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und § 66.
+bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und die §§
+64a und 66.
 
 (9) Der Verwaltungsrat kann aus wichtigen Gründen ohne Sitzung
 schriftlich abstimmen.
@@ -33432,7 +35087,7 @@ Medizinischen Dienst geltendes Recht verstößt. Für die Bildung von
 Rückstellungen und Deckungskapital von
 Altersversorgungsverpflichtungen gilt § 171e sowie § 12 Absatz 1 und
 1a der Sozialversicherungs-Rechnungsverordnung entsprechend. Für das
-Vermögen gelten die §§ 80 und 85 des Vierten Buches sowie § 220 Absatz
+Vermögen gelten die §§ 80 bis 86 des Vierten Buches sowie § 220 Absatz
 1 Satz 2 entsprechend.
 
 (4) Der Medizinische Dienst untersteht der Aufsicht der für die
@@ -33655,20 +35310,21 @@ betroffen sind:
 
 
 Er hat die Stellungnahmen in die Entscheidung einzubeziehen. Der
-Medizinische Dienst Bund hat die Richtlinien nach Satz 1 Nummer 6 bis
-8 bis zum 30. Juni 2022 zu erlassen. Die Richtlinien sind für die
-Medizinischen Dienste verbindlich und bedürfen der Genehmigung des
-Bundesministeriums für Gesundheit. Im Übrigen kann der Medizinische
-Dienst Bund Empfehlungen abgeben. Das Nähere zum Verfahren regelt die
-Satzung nach § 282 Absatz 3 Satz 1 Nummer 1. Richtlinien und
-Empfehlungen, die der Spitzenverband Bund der Krankenkassen nach § 282
-Absatz 2 Satz 3 und 4 in der bis zum 31. Dezember 2019 geltenden
-Fassung erlassen und abgegeben hat, gelten bis zu ihrer Änderung oder
-Aufhebung durch den Medizinischen Dienst Bund fort.
+Vorstand beschließt die Richtlinien im Benehmen mit dem
+Verwaltungsrat. Die Richtlinien sind für die Medizinischen Dienste
+verbindlich und bedürfen der Genehmigung des Bundesministeriums für
+Gesundheit. Im Übrigen kann der Medizinische Dienst Bund Empfehlungen
+abgeben. Das Nähere zum Verfahren regelt die Satzung nach § 282 Absatz
+3 Satz 1 Nummer 1. Richtlinien und Empfehlungen, die der
+Spitzenverband Bund der Krankenkassen nach § 282 Absatz 2 Satz 3 und 4
+in der bis zum 31. Dezember 2019 geltenden Fassung erlassen und
+abgegeben hat, gelten bis zu ihrer Änderung oder Aufhebung durch den
+Medizinischen Dienst Bund fort.
 
 (3) Der Medizinische Dienst Bund nimmt auch die ihm nach § 53d des
 Elften Buches zugewiesenen Aufgaben wahr. Insoweit richten sich die
-Verfahren nach den Vorschriften des Elften Buches.
+Verfahren nach den Vorschriften des Elften Buches. Der Vorstand
+beschließt die Richtlinien im Benehmen mit dem Verwaltungsrat.
 
 (4) Der Medizinische Dienst Bund fasst die Berichte der Medizinischen
 Dienste nach § 278 Absatz 4 in einem Bericht zusammen, legt diesen dem
@@ -34094,7 +35750,20 @@ Absatz 2 Satz 1 fest, insbesondere ein Verfahren des Datenabgleichs
 zur Gewährleistung eines tagesaktuellen Standes des Verzeichnisses.
 Das Verzeichnis darf ausschließlich zum Ausschluss und zur Korrektur
 von Mehrfachvergaben derselben Krankenversichertennummer verwendet
-werden.
+werden. Um Mehrfachvergaben derselben Krankenversichertennummer
+auszuschließen oder zu korrigieren, übermitteln die Krankenkassen zum
+Zweck des Datenabgleichs gemäß dem Verfahren nach Satz 3 die dafür
+erforderlichen Sozialdaten an die in § 362 Absatz 1 genannten Stellen,
+die den unveränderbaren Teil der Krankenversichertennummer nutzen;
+dabei gilt für die in § 362 Absatz 1 genannten Stellen § 35 des Ersten
+Buches entsprechend.
+
+(4) Die Krankenversichertennummer eines Versicherten darf im Rahmen
+der Telematikinfrastruktur von Anbietern und Nutzern von Anwendungen
+und Diensten im Sinne von § 306 Absatz 4 Satz 1 und 2 zur eindeutigen
+Identifikation des Versicherten verwendet werden, soweit dies für die
+eindeutige Zuordnung von Daten und Diensten bei der Nutzung dieser
+Anwendungen und Dienste erforderlich ist.
 
 
 ##### § 291 Elektronische Gesundheitskarte
@@ -34112,10 +35781,10 @@ Gesundheitskarte aus.
     unterstützen und
 
 
-3.  sofern sie vor dem 1. Januar 2023 ausgestellt wird, die Speicherung
+3.  sofern sie vor dem 1. Januar 2026 ausgestellt wird, die Speicherung
     von Daten nach § 291a, und, wenn sie nach diesem Zeitpunkt ausgestellt
     wird, die Speicherung von Daten nach § 291a Absatz 2 Nummer 1 bis 3
-    und 6 zu ermöglichen; zusätzlich müssen vor dem 1. Juli 2024
+    und 6 zu ermöglichen; zusätzlich müssen vor dem 1. Januar 2025
     ausgegebene elektronische Gesundheitskarten die Speicherung von Daten
     nach § 334 Absatz 1 Satz 2 Nummer 2 bis 5 in Verbindung mit § 358
     Absatz 4 ermöglichen.
@@ -34126,9 +35795,56 @@ Gesundheitskarte aus.
 (3) Elektronische Gesundheitskarten, die die Krankenkassen nach dem
 30\. November 2019 ausgeben, müssen mit einer kontaktlosen
 Schnittstelle ausgestattet sein. Die Krankenkassen sind verpflichtet,
-Versicherten auf deren Verlangen unverzüglich eine elektronische
-Gesundheitskarte mit kontaktloser Schnittstelle zur Verfügung zu
-stellen.
+
+1.  Versicherten auf deren Verlangen unverzüglich eine elektronische
+    Gesundheitskarte mit kontaktloser Schnittstelle zur Verfügung zu
+    stellen,
+
+
+2.  Versicherten, die eine elektronische Patientenakte beantragen,
+    gleichzeitig eine elektronische Gesundheitskarte mit kontaktloser
+    Schnittstelle und eine persönliche Identifikationsnummer (PIN) zur
+    Verfügung zu stellen, soweit dies noch nicht erfolgt ist,
+
+
+3.  Versicherten, die bis zum 31. Dezember 2022 eine elektronische
+    Patientenakte beantragt haben, bis spätestens zum 30. Juni 2023 eine
+    elektronische Gesundheitskarte mit kontaktloser Schnittstelle und eine
+    PIN zur Verfügung zu stellen, soweit dies noch nicht erfolgt ist, und
+
+
+4.  Versicherten ab dem 1. November 2023 als Verfahren zur nachträglichen,
+    sicheren Identifikation nach § 336 Absatz 5 Nummer 3 und zur sicheren
+    Identifikation nach § 336 Absatz 6 auch die Nutzung eines
+    elektronischen Identitätsnachweises nach § 18 des
+    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
+    78 Absatz 5 des Aufenthaltsgesetzes anzubieten.
+
+
+
+
+(3a) Bei der Ausgabe von elektronischen Gesundheitskarten mit einer
+kontaktlosen Schnittstelle nach Absatz 3 informieren die Krankenkassen
+Versicherte barrierefrei über
+
+1.  die Möglichkeit und das Verfahren, eine zugehörige persönliche
+    Identifikationsnummer (PIN) beantragen zu können und
+
+
+2.  die Nutzungsmöglichkeiten solcher Karten für Anwendungen nach § 334
+    Absatz 1 Satz 2 Nummer 1, 4, 6 und 7.
+
+
+
+Die Krankenkassen informieren nach Satz 1 auch die Versicherten, denen
+eine elektronische Gesundheitskarte mit kontaktloser Schnittstelle
+ohne diese Informationen zur Verfügung gestellt wurde. Der
+Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium
+für Gesundheit halbjährlich beginnend ab dem 1. Januar 2023 über die
+jeweilige Anzahl der von den einzelnen Kassen an die Versicherten
+ausgegebenen elektronischen Gesundheitskarten mit einer kontaktlosen
+Schnittstelle und die jeweilige Anzahl der an die Versicherten
+versendeten PINs.
 
 (4) Die elektronische Gesundheitskarte gilt nur für die Dauer der
 Mitgliedschaft bei der ausstellenden Krankenkasse und ist nicht
@@ -34145,11 +35861,11 @@ elektronischen Gesundheitskarte oder durch sie zu verarbeiten sind.
 Gesundheitskarte die in der Richtlinie gemäß § 217f Absatz 4b
 vorgesehenen Maßnahmen und Vorgaben zum Schutz von Sozialdaten der
 Versicherten vor unbefugter Kenntnisnahme umzusetzen. Die Krankenkasse
-kann zum Zwecke des in der Richtlinie zum 1. Januar 2021 vorzusehenden
-Abgleichs der Versichertenanschrift mit den Daten aus dem
-Melderegister vor dem Versand der elektronischen Gesundheitskarte und
-deren persönlicher Identifikationsnummer (PIN) an den Versicherten die
-Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 6 und 10 des
+kann zum Zwecke des in der Richtlinie zum 1. Oktober 2023
+vorzusehenden Abgleichs der Versichertenanschrift mit den Daten aus
+dem Melderegister vor dem Versand der elektronischen Gesundheitskarte
+und deren persönlicher Identifikationsnummer (PIN) an den Versicherten
+die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 5, 9 und 11 des
 Bundesmeldegesetzes aus dem Melderegister abrufen.
 
 (7) Spätestens ab dem 1. Januar 2022 stellen die Krankenkassen den
@@ -34157,12 +35873,12 @@ Versicherten gemäß den Festlegungen der Gesellschaft für Telematik ein
 technisches Verfahren barrierefrei zur Verfügung, welches die
 Anforderungen nach § 336 Absatz 4 erfüllt.
 
-(8) Spätestens ab dem 1. Januar 2023 stellen die Krankenkassen den
+(8) Spätestens ab dem 1. Januar 2024 stellen die Krankenkassen den
 Versicherten ergänzend zur elektronischen Gesundheitskarte auf
 Verlangen eine sichere digitale Identität für das Gesundheitswesen
 barrierefrei zur Verfügung, die die Vorgaben nach Absatz 2 Nummer 1
 und 2 erfüllt und die Bereitstellung von Daten nach § 291a Absatz 2
-und 3 durch die Krankenkassen ermöglicht. Ab dem 1. Januar 2024 dient
+und 3 durch die Krankenkassen ermöglicht. Ab dem 1. Januar 2026 dient
 die digitale Identität nach Satz 1 in gleicher Weise wie die
 elektronische Gesundheitskarte zur Authentisierung des Versicherten im
 Gesundheitswesen und als Versicherungsnachweis nach § 291a Absatz 1.
@@ -34179,7 +35895,17 @@ Identität kann über verschiedene Ausprägungen mit verschiedenen
 Sicherheits- und Vertrauensniveaus verfügen. Das Sicherheits- und
 Vertrauensniveau der Ausprägung einer digitalen Identität muss
 mindestens dem Schutzbedarf der Anwendung entsprechen, bei der diese
-eingesetzt wird. Spätestens ab dem 1. Juli 2022 stellen die
+eingesetzt wird. Abweichend von Satz 6 kann der Versicherte nach
+umfassender Information durch die Krankenkasse über die Besonderheiten
+des Verfahrens in die Nutzung einer digitalen Identität einwilligen,
+die einem anderen angemessenen Sicherheitsniveau entspricht. Die
+Anforderungen an die Sicherheit und Interoperabilität dieses
+Nutzungsweges der digitalen Identität werden von der Gesellschaft für
+Telematik festgelegt. Die Festlegung erfolgt hinsichtlich der
+Anforderungen an die Sicherheit und den Datenschutz im Einvernehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik und der
+oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit. Spätestens ab dem 1. Juli 2023 stellen die
 Krankenkassen zur Nutzung berechtigten Dritten Verfahren zur Erprobung
 der Integration der sicheren digitalen Identität nach Satz 1 zur
 Verfügung.
@@ -34272,7 +35998,7 @@ Gesundheitskarte auch folgende Daten enthalten:
 elektronischen Gesundheitskarte in einer Form zu speichern, die
 geeignet ist für eine maschinelle Übertragung auf die für die
 vertragsärztliche Versorgung vorgesehenen Abrechnungsunterlagen und
-Vordrucke nach § 295 Absatz 3 Nummer 1 und 2. Ab dem 1. Januar 2023
+Vordrucke nach § 295 Absatz 3 Nummer 1 und 2. Ab dem 1. Januar 2026
 müssen die Angaben nach Satz 1 zusätzlich zur Speicherung auf der
 elektronischen Gesundheitskarte auch bei der Krankenkasse zum
 elektronischen Abruf zur Verfügung stehen.
@@ -34301,7 +36027,7 @@ denen die an der vertragsärztlichen Versorgung teilnehmenden
 Leistungserbringer und Einrichtungen die Gültigkeit und die Aktualität
 der Angaben nach § 291a Absatz 2 und 3 bei den Krankenkassen online
 überprüfen und diese Angaben aktualisieren können. Bis zum 31.
-Dezember 2022 haben die Krankenkassen auch Dienste zur Verfügung zu
+Dezember 2025 haben die Krankenkassen auch Dienste zur Verfügung zu
 stellen, mit denen die an der vertragsärztlichen Versorgung
 teilnehmenden Leistungserbringer und Einrichtungen die Angaben nach §
 291a Absatz 2 und 3 auch online auf der elektronischen
@@ -34311,17 +36037,17 @@ Gesundheitskarte aktualisieren können.
 Leistungserbringer haben bei der erstmaligen Inanspruchnahme ihrer
 Leistungen durch einen Versicherten im Quartal die Leistungspflicht
 der Krankenkasse durch die Nutzung der Dienste nach Absatz 1 zu
-prüfen. Bis zum 31. Dezember 2022 ermöglichen sie dazu den Abgleich
+prüfen. Bis zum 31. Dezember 2025 ermöglichen sie dazu den Abgleich
 der auf der elektronischen Gesundheitskarte gespeicherten Daten nach §
 291a Absatz 2 und 3 mit den bei der Krankenkasse vorliegenden
 aktuellen Daten und die Aktualisierung der auf der elektronischen
-Gesundheitskarte gespeicherten Daten; ab dem 1. Januar 2023 erfolgt
+Gesundheitskarte gespeicherten Daten; ab dem 1. Januar 2026 erfolgt
 die Prüfung nach Satz 1 durch einen elektronischen Abruf der bei der
 Krankenkasse vorliegenden Daten nach § 291a Absatz 2 und 3. Die
 Tatsache, dass die Prüfung durchgeführt worden ist, haben die an der
 vertragsärztlichen Versorgung teilnehmenden Leistungserbringer bei
-einer Prüfung vor dem 1. Januar 2023 auf der elektronischen
-Gesundheitskarte, bei einer Prüfung ab dem 1. Januar 2023 in ihren
+einer Prüfung vor dem 1. Januar 2026 auf der elektronischen
+Gesundheitskarte, bei einer Prüfung ab dem 1. Januar 2026 in ihren
 informationstechnischen Systemen, die zur Verarbeitung von
 personenbezogenen Patientendaten eingesetzt werden, zu speichern. Die
 technischen Einzelheiten zur Durchführung der Prüfung nach den Sätzen
@@ -34372,8 +36098,9 @@ Gesundheitskarte als Versicherungsnachweis vereinbaren die
 Vertragspartner im Rahmen der Verträge nach § 87 Absatz 1.
 
 (7) Das Bundesministerium für Gesundheit kann die in den Absätzen 1
-und 2 sowie in § 291 Absatz 2 Nummer 3 und Absatz 8 genannten Fristen
-durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
+und 2 sowie in § 291 Absatz 2 Nummer 3, Absatz 8 und § 291a Absatz 4
+Satz 2 genannten Fristen durch Rechtsverordnung ohne Zustimmung des
+Bundesrates verlängern.
 
 
 ##### § 291c Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte
@@ -36629,9 +38356,11 @@ des Versicherten unterrichtet hat.
 (2) Im Falle des Wechsels der Krankenkasse ist die bisher zuständige
 Krankenkasse verpflichtet, den Nachweis über die Erfüllung der
 Meldepflicht nach § 36 des Implantateregistergesetzes an die neue
-Krankenkasse zu übermitteln sowie die für die Fortführung der
-Versicherung erforderlichen Angaben nach den §§ 288 und 292 der neuen
-Krankenkasse zu übermitteln.
+Krankenkasse zu übermitteln, die für die Fortführung der Versicherung
+erforderlichen Angaben nach den §§ 288 und 292 der neuen Krankenkasse
+zu übermitteln sowie Arbeitsunfähigkeitsdaten, die der bisher
+zuständigen Krankenkasse für Zeiten nach dem Ende der Versicherung
+übermittelt werden, der neuen Krankenkasse zu übermitteln.
 
 (3) Für die Aufbewahrung der Kranken- und sonstigen
 Berechtigungsscheine für die Inanspruchnahme von Leistungen
@@ -36698,11 +38427,14 @@ umfassend über in der gesetzlichen Krankenversicherung zugelassene
 Leistungserbringer einschließlich medizinische Versorgungszentren und
 Leistungserbringer in der besonderen Versorgung sowie über die
 verordnungsfähigen Leistungen und Bezugsquellen, einschließlich der
-Informationen nach § 73 Abs. 8, § 127 Absatz 3 und 5. Die Krankenkasse
-hat Versicherte vor deren Entscheidung über die Teilnahme an
-besonderen Versorgungsformen in Wahltarifen nach § 53 Abs. 3 umfassend
-über darin erbrachte Leistungen und die beteiligten Leistungserbringer
-zu informieren. § 69 Absatz 1 Satz 3 gilt entsprechend.
+Informationen nach § 73 Abs. 8, § 127 Absatz 3 und 5. Sie informieren
+ihre Versicherten auch über die Möglichkeit, die Terminservicestellen
+der Kassenärztlichen Vereinigungen zur Erfüllung der in § 75 Absatz 1a
+Satz 3 genannten Aufgaben in Anspruch zu nehmen. Die Krankenkasse hat
+Versicherte vor deren Entscheidung über die Teilnahme an besonderen
+Versorgungsformen in Wahltarifen nach § 53 Abs. 3 umfassend über darin
+erbrachte Leistungen und die beteiligten Leistungserbringer zu
+informieren. § 69 Absatz 1 Satz 3 gilt entsprechend.
 
 
 #### § 305a Beratung der Vertragsärzte
@@ -37079,20 +38811,24 @@ folgende Aufgaben:
 10. Entwicklung und Zurverfügungstellung der Komponenten der
     Telematikinfrastruktur, die den Zugriff der Versicherten auf die
     Anwendung zur Übermittlung ärztlicher Verordnungen nach § 334 Absatz 1
-    Satz 2 Nummer 6 nach Maßgabe des § 360 Absatz 5 ermöglichen, als
+    Satz 2 Nummer 6 nach Maßgabe des § 360 Absatz 10 ermöglichen, als
     Dienstleistungen von allgemeinem wirtschaftlichem Interesse,
 
 
 11. Unterstützung des Robert Koch-Instituts bei der Entwicklung und dem
     Betrieb des elektronischen Melde- und Informationssystems nach § 14
-    des Infektionsschutzgesetzes und
+    des Infektionsschutzgesetzes,
 
 
 12. Betrieb von Komponenten und Diensten der zentralen Infrastruktur gemäß
     § 306 Absatz 2 Nummer 2, die zur Gewährleistung der Sicherheit oder
     für die Aufrechterhaltung der Funktionsfähigkeit der
     Telematikinfrastruktur von wesentlicher Bedeutung sind, nach Maßgabe
-    des § 323 Absatz 2 Satz 3.
+    des § 323 Absatz 2 Satz 3 und
+
+
+13. Planung, Durchführung und Unterstützung der Erprobungs- und
+    Einführungsphasen von Anwendungen.
 
 
 
@@ -37184,20 +38920,21 @@ Wettbewerbsbeschränkungen bleibt unberührt.
     übermittelt werden können,
 
 
-2.  bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich
-    sind, damit vertragsärztliche elektronische Verordnungen für
-    Betäubungsmittel sowie für Arzneimittel nach § 3a Absatz 1 Satz 1 der
-    Arzneimittelverschreibungsverordnung elektronisch nach § 360 Absatz 1
-    übermittelt werden können,
+2.  bis zum 30. September 2023 die Maßnahmen durchzuführen, die
+    erforderlich sind, damit vertragsärztliche elektronische Verordnungen
+    für Betäubungsmittel sowie für Arzneimittel nach § 3a Absatz 1 Satz 1
+    der Arzneimittelverschreibungsverordnung elektronisch nach § 360
+    Absatz 1 übermittelt werden können,
 
 
 3.  bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich
     sind, damit Informationen zur vertragsärztlichen Verordnung nach den
     Nummern 1 oder 2 mit Informationen über das auf der Grundlage der
     vertragsärztlichen Verordnung nach den Nummern 1 oder 2 abgegebene
-    Arzneimittel, dessen Chargennummer und, falls auf der Verordnung
-    angegeben, dessen Dosierung den Versicherten elektronisch verfügbar
-    gemacht werden können (Dispensierinformationen),
+    Arzneimittel, soweit technisch möglich dessen Chargennummer und, falls
+    auf der Verordnung angegeben, dessen Dosierung den Versicherten
+    elektronisch verfügbar gemacht werden können
+    (Dispensierinformationen),
 
 
 4.  bis zum 1. Oktober 2021 die Maßnahmen durchzuführen, die erforderlich
@@ -37208,8 +38945,8 @@ Wettbewerbsbeschränkungen bleibt unberührt.
 
 5.  bis zum 31. Oktober 2021 die Maßnahmen durchzuführen, die erforderlich
     sind, damit der elektronische Medikationsplan nach § 334 Absatz 1 Satz
-    2 Nummer 4 gemäß § 358 in Verbindung mit § 359 Absatz 2 ab dem 1. Juli
-    2023 in einer eigenständigen Anwendung innerhalb der
+    2 Nummer 4 gemäß § 358 in Verbindung mit § 359 Absatz 2 ab dem 1.
+    Oktober 2024 in einer eigenständigen Anwendung innerhalb der
     Telematikinfrastruktur genutzt werden kann, die nicht auf der
     elektronischen Gesundheitskarte gespeichert wird,
 
@@ -37228,7 +38965,7 @@ Wettbewerbsbeschränkungen bleibt unberührt.
     können,
 
 
-8.  bis zum 1. April 2022 die Maßnahmen durchzuführen, die erforderlich
+8.  bis zum 1. April 2023 die Maßnahmen durchzuführen, die erforderlich
     sind, um digitale Identitäten zur Verfügung zu stellen durch
 
     a)  die Krankenkassen für ihre Versicherten nach § 291 Absatz 8 und
@@ -37984,7 +39721,8 @@ an die zentrale Telematikinfrastruktur zu tragen.
 #### § 328 Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Die Gesellschaft für Telematik kann für die Zulassungen und
-Bestätigungen nach den §§ 324, 325 und 327 Gebühren und Auslagen
+Bestätigungen nach den §§ 324, 325 und 327, auch in Verbindung mit §
+311 Absatz 6 Satz 5, § 362a Satz 1 und § 362b, Gebühren und Auslagen
 erheben. Die Gebührensätze sind so zu bemessen, dass sie den auf die
 Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand
 nicht übersteigen.
@@ -38181,6 +39919,40 @@ Voraussetzungen zur Wahrung der Sicherheit und Funktionsfähigkeit der
 Telematikinfrastruktur.
 
 
+#### § 332a Unzulässige Beschränkungen durch Anbieter und Hersteller informationstechnischer Systeme für die vertragsärztliche Versorgung, die vertragszahnärztliche Versorgung, die pflegerische Versorgung, für Krankenhäuser und Apotheken sowie für Vorsorgeeinrichtungen und Rehabilitationseinrichtungen
+
+(1) Die Anbieter und Hersteller informationstechnischer Systeme für
+die vertragsärztliche Versorgung, die vertragszahnärztliche
+Versorgung, die pflegerische Versorgung sowie für Krankenhäuser,
+Apotheken, Vorsorgeeeinrichtungen und Rehabilitationseinrichtungen
+stellen die diskriminierungsfreie Einbindung aller Komponenten und
+Dienste sicher, die von der Gesellschaft für Telematik nach § 325
+Absatz 2 und 3 zugelassen sind und die zur Erfüllung gesetzlicher
+Pflichten bei der Nutzung von Anwendungen der Telematikinfrastruktur
+erforderlich sind, soweit Schnittstellen vorgegeben oder festgelegt
+sind. Eine Beschränkung der Einbindung auf bestimmte Hersteller und
+Anbieter ist unzulässig.
+
+(2) Die Einbindung der Komponenten und Dienste nach Absatz 1 erfolgt
+ohne zusätzliche Kosten für die Nutzer der informationstechnischen
+Systeme. Direkte oder indirekte Kosten im Zusammenhang mit der Wahl
+eines Herstellers oder Anbieters sind unzulässig.
+
+(3) Die Verpflichtungen aus Absatz 1 sind spätestens bis zum 29.
+Dezember 2023 umzusetzen.
+
+
+#### § 332b Rahmenvereinbarungen mit Anbietern und Herstellern informationstechnischer Systeme
+
+Die Kassenärztlichen Bundesvereinigungen können für die an der
+vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden
+Leistungserbringer Rahmenvereinbarungen mit den Anbietern und
+Herstellern informationstechnischer Systeme für die vertragsärztliche
+und vertragszahnärztliche Versorgung zu Leistungspflichten,
+Vertragsstrafen, Preisen, Laufzeiten und Kündigungsfristen
+abschließen.
+
+
 #### § 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik
 
 (1) Die Gesellschaft für Telematik legt dem Bundesamt für Sicherheit
@@ -38250,7 +40022,7 @@ Versorgung. Anwendungen sind:
 
 3.  Hinweise der Versicherten auf das Vorhandensein und den
     Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
-    nach § 1901a des Bürgerlichen Gesetzbuchs,
+    nach § 1827 des Bürgerlichen Gesetzbuchs,
 
 
 4.  der Medikationsplan nach § 31a einschließlich Daten zur Prüfung der
@@ -38271,8 +40043,8 @@ Versorgung. Anwendungen sind:
 
 (2) Die Anwendungen nach Absatz 1 Satz 2 Nummer 1 bis 5 werden von der
 elektronischen Gesundheitskarte unterstützt. Die Anwendungen nach
-Absatz 1 Satz 2 Nummer 2, 3 und 5 werden ab dem 1. Juli 2023 technisch
-in die Anwendung nach Absatz 1 Satz 2 Nummer 7 überführt.
+Absatz 1 Satz 2 Nummer 2, 3 und 5 werden ab dem 1. Oktober 2024
+technisch in die Anwendung nach Absatz 1 Satz 2 Nummer 7 überführt.
 
 (3) Die Gesellschaft für Telematik kann über die in Absatz 1 genannten
 Anwendungen hinaus bereits Festlegungen und Maßnahmen zu zusätzlichen
@@ -38320,9 +40092,11 @@ nach § 334 Absatz 1 Satz 2 Nummer 1 bis 4, 6 und 7 mittels seiner
 elektronischen Gesundheitskarte oder seiner digitalen Identität nach
 § 291 Absatz 8 barrierefrei zuzugreifen, wenn er sich für diesen
 Zugriff jeweils durch ein geeignetes technisches Verfahren
-authentifiziert hat. Satz 1 gilt nicht für den Zugriff auf Daten in
-einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf
-der elektronischen Gesundheitskarte gespeichert sind.
+authentifiziert hat. Die für ein geeignetes technisches Verfahren nach
+Satz 1 erforderliche Identifizierung der Versicherten kann auch in
+einer Apotheke durchgeführt werden. Satz 1 gilt nicht für den Zugriff
+auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4,
+soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
 (2) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung
 nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 auch ohne den Einsatz
@@ -38357,7 +40131,9 @@ Heilberufsausweises nach Maßgabe des § 339 Absatz 3 zugreift.
 (4) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung
 nach § 334 Absatz 1 Satz 2 Nummer 6 mittels eines geeigneten
 technischen Verfahrens, das zur Authentifizierung einen hohen
-Sicherheitsstandard gewährleistet, zuzugreifen.
+Sicherheitsstandard gewährleistet, zuzugreifen. Die für ein geeignetes
+technisches Verfahren nach Satz 1 erforderliche Identifizierung der
+Versicherten kann auch in einer Apotheke durchgeführt werden.
 
 (5) Der Zugriff eines Versicherten auf Daten in Anwendungen nach § 334
 Absatz 1 Satz 2 Nummer 1, 4, 6 und 7 durch das geeignete technische
@@ -38406,6 +40182,20 @@ dem Bundesbeauftragten für den Datenschutz und die
 Informationsfreiheit in der Richtlinie nach § 217f Absatz 4b Satz 1
 abweichend von Absatz 5 zusätzliche Maßnahmen festlegen, wenn dies auf
 Grund des Gefährdungspotentials erforderlich ist.
+
+(8) Die Gesellschaft für Telematik legt bis zum 30. Juni 2023 im
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik und der oder dem Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit die erforderlichen
+technischen Vorgaben für die Identifizierung der Versicherten nach
+Absatz 1 Satz 2 und Absatz 4 Satz 2 fest. Die Gesellschaft für
+Telematik kann den Apotheken Dienste zur Durchführung der
+Identifizierung der Versicherten zur Verfügung stellen. Das
+Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
+zu der Durchführung der Identifizierung der Versicherten sowie der
+Vergütung und Abrechnung der Apotheken für die Durchführung der
+Identifizierung der Versicherten.
 
 
 ##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
@@ -38563,7 +40353,7 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind
 Leistungserbringerinstitutionen, mit denen nach diesem Buch oder nach
 dem Elften Buch Verträge zur Leistungserbringung bestehen; bis die
 Stellen und das Verfahren eingerichtet sind, jedoch längstens bis zum
-30\. Juni 2022, kann der Nachweis der Berechtigung einer
+30\. Juni 2023, kann der Nachweis der Berechtigung einer
 Leistungserbringerinstitution auch gegenüber den Stellen nach Satz 1
 Nummer 3 durch Vorlage des Vertrages zur Leistungserbringung oder
 durch Vorlage einer Bestätigung der vertragsschließenden Kasse oder
@@ -38613,7 +40403,7 @@ Heilberufs- und Berufsausweisen auf Verlangen des Leistungserbringers
 eine digitale Identität für das Gesundheitswesen zur Verfügung zu
 stellen, die nicht an eine Chipkarte gebunden ist.
 
-(7) Spätestens ab dem 1. Januar 2024 haben die Stellen nach Absatz 1
+(7) Spätestens ab dem 1. Januar 2025 haben die Stellen nach Absatz 1
 Satz 1 Nummer 3 sowie den Absätzen 2 und 4 ergänzend zu den
 Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
 auf Verlangen der Leistungserbringerinstitution eine digitale
@@ -38722,8 +40512,8 @@ elektronische Patientenakte:
 
 
 10. Daten zur pflegerischen Versorgung des Versicherten nach den §§ 24g,
-    37, 37b, 37c, 39a und 39c und der Haus- oder Heimpflege nach § 44 des
-    Siebten Buches und nach dem Elften Buch,
+    37, 37b, 37c, 39a und 39c, der Haus- oder Heimpflege nach § 44 des
+    Siebten Buches und der Pflege nach dem Elften Buch,
 
 
 11. Verordnungsdaten und Dispensierinformationen elektronischer
@@ -38786,6 +40576,11 @@ Krankenhausentgeltgesetzes oder § 5 Absatz 5 der
 Bundespflegesatzverordnung anzuwenden. Die Kürzungsregelung nach Satz
 2 findet im Fall, dass bereits eine Kürzung der Vergütung nach § 291b
 Absatz 5 erfolgt, keine Anwendung.
+
+(8) Ambulante und stationäre Pflegeeinrichtungen nach dem Elften Buch
+haben bis zum 1. Juli 2025 alle Voraussetzungen zu erfüllen, um den
+Zugriff auf die elektronische Patientenakte und den Anschluss an die
+Telematikinfrastruktur nach § 306 umzusetzen.
 
 
 ##### Erster Untertitel - Angebot und Einrichtung der elektronischen Patientenakte
@@ -38912,27 +40707,22 @@ gewährleisten, dass
 
 
 
-3.  zusätzlich spätestens ab dem 1. Juli 2022 die Versicherten mittels der
+3.  zusätzlich spätestens sechs Monate, nachdem das dafür bestimmte
+    Register zur Verfügung steht, die Versicherten mittels der
     Benutzeroberfläche eines geeigneten Endgeräts und unter Nutzung der
     elektronischen Gesundheitskarte oder einer digitalen Identität der
-    Versicherten nach § 291 Absatz 8 die Abgabe, Änderung sowie den
+    Versicherten nach § 291 Absatz 8 die Abgabe, Änderung sowie den
     Widerruf einer elektronischen Erklärung zur Organ- und Gewebespende in
-    dem dafür bestimmten Register vornehmen können, sobald das Register
-    zur Verfügung steht, und
+    dem Register vornehmen können, und
 
 
 4.  zusätzlich spätestens ab dem 1. Januar 2023
 
-    a)  die Daten nach § 341 Absatz 2 Nummer 10, 12 und 13 zur Verfügung
-        gestellt werden können;
+    a)  die Daten nach § 341 Absatz 2 Nummer 12 und 13 zur Verfügung gestellt
+        werden können;
 
 
-    b)  die Versicherten oder durch sie befugte Vertreter die Daten, die in
-        der elektronischen Patientenakte gespeichert sind, gemäß § 363 zu
-        Forschungszwecken zur Verfügung stellen können;
-
-
-    c)  Daten der Versicherten in digitalen Gesundheitsanwendungen nach § 33a
+    b)  Daten der Versicherten in digitalen Gesundheitsanwendungen nach § 33a
         mit Einwilligung der Versicherten vom Hersteller einer digitalen
         Gesundheitsanwendung nach § 33a über den Anbieter der elektronischen
         Patientenakte in die elektronische Patientenakte der Versicherten nach
@@ -38940,13 +40730,7 @@ gewährleisten, dass
         können;
 
 
-    d)  die Versicherten den Sofortnachrichtendienst mit Leistungserbringern
-        und mit Krankenkassen als sicheres Übermittlungsverfahren nach § 311
-        Absatz 6 über die Benutzeroberfläche nach Nummer 1 Buchstabe b nutzen
-        können;
-
-
-    e)  die Versicherten über die Benutzeroberfläche eines geeigneten
+    c)  die Versicherten über die Benutzeroberfläche eines geeigneten
         Endgeräts nach § 336 Absatz 2 auf Informationen des Nationalen
         Gesundheitsportals nach § 395 barrierefrei zugreifen können und
 
@@ -38954,9 +40738,25 @@ gewährleisten, dass
 
 
 
-5.  zusätzlich spätestens ab dem 1. Juli 2023 die Versicherten oder durch
-    sie befugte Vertreter über die Benutzeroberfläche eines geeigneten
-    Endgeräts nach § 336 Absatz 2 auf Daten des elektronischen
+5.  zusätzlich spätestens ab dem 1. Januar 2024 die Daten nach § 341
+    Absatz 2 Nummer 10 zur Verfügung gestellt werden können,
+
+
+6.  zusätzlich spätestens ab dem 1. Juli 2024 die Versicherten oder durch
+    sie befugte Vertreter die Daten, die in der elektronischen
+    Patientenakte gespeichert sind, nach § 363 zu Forschungszwecken zur
+    Verfügung stellen können,
+
+
+7.  zusätzlich spätestens ab dem 1. August 2024 die Versicherten den
+    Sofortnachrichtendienst mit Leistungserbringern und mit Krankenkassen
+    als sicheres Übermittlungsverfahren nach § 311 Absatz 6 über die
+    Benutzeroberfläche nach Nummer 1 Buchstabe b nutzen können und
+
+
+8.  zusätzlich spätestens ab dem 1. Oktober 2024 die Versicherten oder
+    durch sie befugte Vertreter über die Benutzeroberfläche eines
+    geeigneten Endgeräts nach § 336 Absatz 2 auf Daten des elektronischen
     Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese
     nicht auf der elektronischen Gesundheitskarte gespeichert sind, und
     auf Daten der elektronischen Patientenkurzakte nach § 334 Absatz 1
@@ -39024,8 +40824,8 @@ anteilig in Rechnung zu stellen.
 
 (7) Die Krankenkassen sind verpflichtet, spätestens bis zum 1. Januar
 2022 sicherzustellen, dass Versicherte in einer Anwendung nach § 334
-Absatz 1 Satz 2 Nummer 1 und zusätzlich spätestens bis zum 1. Juli
-2023 in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 7 ihre
+Absatz 1 Satz 2 Nummer 1 und zusätzlich spätestens bis zum 1. Oktober
+2024 in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 7 ihre
 Rechte gemäß § 336 Absatz 1 und 2 und § 337 Absatz 1 bis 3 sowie das
 Auslesen der Protokolldaten in den Anwendungen barrierefrei mittels
 einer Benutzeroberfläche sowohl eines geeigneten mobilen Endgeräts als
@@ -39904,8 +41704,9 @@ Medikationsplans und der elektronischen Notfalldaten sowie die für
 eine Fortschreibung der elektronischen Notfalldaten und der Hinweise
 der Versicherten nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu einer
 elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7
-notwendigen Festlegungen, um deren semantische und syntaktische
-Interoperabilität zu gewährleisten, im Benehmen mit
+notwendigen Festlegungen und Vorgaben für deren Einsatz und
+Verwendung, um deren semantische und syntaktische Interoperabilität zu
+gewährleisten, im Benehmen mit
 
 1.  der Gesellschaft für Telematik,
 
@@ -39932,21 +41733,32 @@ Interoperabilität zu gewährleisten, im Benehmen mit
     Gesundheitswesen maßgeblichen Bundesverbänden,
 
 
-8.  dem Bundesinstitut für Arzneimittel und Medizinprodukte und
+8.  dem Bundesinstitut für Arzneimittel und Medizinprodukte,
 
 
 9.  dem für die Wahrnehmung der Interessen der Unternehmen der Privaten
-    Krankenversicherung maßgeblichen Bundesverband.
+    Krankenversicherung maßgeblichen Bundesverband und
+
+
+10. der Koordinierungsstelle für Interoperabilität im Gesundheitswesen.
 
 
 
 Über die Festlegungen nach Satz 1 entscheidet für die Kassenärztliche
-Bundesvereinigung der Vorstand.
+Bundesvereinigung der Vorstand. Für die Anpassung der
+informationstechnischen Systeme an die Festlegungen nach diesem Absatz
+stellt die Kassenärztliche Bundesvereinigung den Herstellern
+informationstechnischer Systeme und Krankenkassen Darstellungen zur
+Visualisierung der Informationsobjekte zur Verfügung.
 
 (2) Um einen strukturierten Prozess zu gewährleisten, erstellt die
 Kassenärztliche Bundesvereinigung eine Verfahrensordnung zur
-Herstellung des Benehmens nach Absatz 1 und stellt im Anschluss das
-Benehmen mit den nach Absatz 1 Satz 1 zu Beteiligenden hierzu her.
+Herstellung des Benehmens nach Absatz 1 sowie zur vorherigen
+Herstellung des Benehmens der nach Absatz 1 Satz 1 Nummer 10 zu
+Beteiligenden bei der Planung von Festlegungen der Kassenärztlichen
+Bundesvereinigung für die semantische und syntaktische
+Interoperabilität und stellt im Anschluss das Benehmen mit den nach
+Absatz 1 Satz 1 zu Beteiligenden hierzu her.
 
 (2a) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30.
 Juni 2022 die notwendigen Festlegungen für die semantische und
@@ -39954,7 +41766,7 @@ syntaktische Interoperabilität von Daten aus digitalen
 Gesundheitsanwendungen der Versicherten nach § 33a, die von den
 Versicherten nach § 341 Absatz 2 Nummer 9 in die elektronische
 Patientenakte übermittelt werden. Die Festlegungen nach Satz 1 sind
-zum Ende jedes Kalenderhalbjahres fortzuschreiben.
+fortlaufend fortzuschreiben.
 
 (2b) Die Kassenärztliche Bundesvereinigung trifft bis zum 31. Dezember
 2022 unter Berücksichtigung der laufenden Erkenntnisse der
@@ -39963,8 +41775,8 @@ Festlegungen für die semantische und syntaktische Interoperabilität
 von Daten der elektronischen Patientenakte nach § 341 Absatz 2 Nummer
 10\.
 
-(2c) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30.
-Juni 2022 die notwendigen Festlegungen für die semantische und
+(2c) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 31.
+Dezember 2023 die notwendigen Festlegungen für die semantische und
 syntaktische Interoperabilität von Daten, die von Hilfsmitteln oder
 Implantaten nach § 374a Absatz 1 in eine digitale Gesundheitsanwendung
 übermittelt werden. Die Festlegungen nach Satz 1 sind fortlaufend
@@ -40024,19 +41836,21 @@ medizinische Terminologie und eine Nomenklatur kostenfrei für alle
 Nutzer zur Verfügung steht und unterhält dafür ein nationales
 Kompetenzzentrum für medizinische Terminologien.
 
-(8) Die Gesellschaft für Telematik kann der Kassenärztlichen
-Bundesvereinigung zur Erfüllung ihrer Aufgabe nach Absatz 1
-entsprechend dem Projektstand zur Umsetzung und Fortschreibung der mit
-der elektronischen Patientenakte, dem elektronischen Medikationsplan,
-den elektronischen Notfalldaten sowie der elektronischen
-Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 vorgesehenen
-Inhalte angemessene Fristen setzen. Hält die Kassenärztliche
-Bundesvereinigung die jeweils gesetzte Frist nicht ein, kann die
-Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft mit
-der Erstellung der jeweiligen Festlegungen nach Absatz 1 im Benehmen
-mit den in Absatz 1 Satz 1 genannten Organisationen beauftragen. Das
-Verfahren für das Vorgehen nach Fristablauf legt die Gesellschaft für
-Telematik fest.
+(8) Die Gesellschaft für Telematik kann die Kassenärztliche
+Bundesvereinigung zusätzlich zu den Aufgaben nach Absatz 1 Satz 1 mit
+der Festlegung von ihr vorgegebener Informationsobjekte beauftragen
+und kann der Kassenärztlichen Bundesvereinigung zur Erfüllung ihrer
+Aufgaben nach Absatz 1 entsprechend dem Projektstand zur Umsetzung und
+Fortschreibung der mit der elektronischen Patientenakte, dem
+elektronischen Medikationsplan, den elektronischen Notfalldaten sowie
+der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer
+7 vorgesehenen Inhalte angemessene Fristen setzen. Hält die
+Kassenärztliche Bundesvereinigung die jeweils gesetzte Frist nicht
+ein, kann die Gesellschaft für Telematik die Deutsche
+Krankenhausgesellschaft mit der Erstellung der jeweiligen Festlegungen
+nach Absatz 1 im Benehmen mit den in Absatz 1 Satz 1 genannten
+Organisationen beauftragen. Das Verfahren für das Vorgehen nach
+Fristablauf legt die Gesellschaft für Telematik fest.
 
 (9) Die Festlegungen, die nach Absatz 1 von der Kassenärztlichen
 Bundesvereinigung oder nach Absatz 8 Satz 2 von der Deutschen
@@ -40056,14 +41870,39 @@ Gesellschaft für Telematik vertretenen Spitzenorganisationen der
 Leistungserbringer nach § 306 Absatz 1 Satz 1 getroffen werden, sind
 in das Interoperabilitätsverzeichnis nach § 385 aufzunehmen.
 
-(11) Die Gesellschaft für Telematik hat der Kassenärztlichen
-Bundesvereinigung die Kosten zu erstatten, die ihr bei der Erfüllung
-ihrer Aufgaben nach Absatz 1 entstehen. Beauftragt die Gesellschaft
+(11) Die Kosten, die im Rahmen der Erfüllung der Aufgaben nach Absatz
+1 Satz 1 und Absatz 8 Satz 1 unter Beachtung des Gebots der
+Wirtschaftlichkeit und Sparsamkeit bei der Kassenärztlichen
+Bundesvereinigung entstehen, sind durch die Gesellschaft für Telematik
+zu erstatten. Die Kassenärztliche Bundesvereinigung unterrichtet die
+Gesellschaft für Telematik bis zum 1. September eines jeden Jahres
+über die voraussichtlich entstehenden Kosten im Rahmen der Erfüllung
+der Aufgaben nach Absatz 1 Satz 1 und Absatz 8 Satz 1 des Folgejahres.
+Die Kassenärztliche Bundesvereinigung stellt der Gesellschaft für
+Telematik die für die Rechnungsprüfung notwendigen Unterlagen zur
+Verfügung. Die Gesellschaft für Telematik legt die weiteren
+Einzelheiten der Kostenerstattung einvernehmlich mit der
+Kassenärztlichen Bundesvereinigung fest. Beauftragt die Gesellschaft
 für Telematik die Deutsche Krankenhausgesellschaft nach Absatz 8 Satz
-2 mit der Erstellung von Festlegungen nach Absatz 1, hat die
-Gesellschaft für Telematik der Deutschen Krankenhausgesellschaft die
-Kosten zu erstatten, die ihr bei der Erfüllung ihrer Aufgaben nach
-Absatz 1 entstehen.
+2 mit der Erstellung von Festlegungen nach den Absätzen 1 und 8,
+gelten die Sätze 1 bis 4 entsprechend.
+
+(12) Die Gesellschaft für Telematik errichtet und betreibt eine
+Plattform, auf der medizinische Klassifikationen, Terminologien,
+Nomenklaturen und weitere semantische Standards für das deutsche
+Gesundheitswesen bereitgestellt und von Nutzern in geeigneter Form
+abgerufen werden können (Terminologieserver). Der Terminologieserver
+dient insbesondere der zentralen Bereitstellung sowie der
+Versionierung.
+
+(13) Das Bundesinstitut für Arzneimittel und Medizinprodukte
+koordiniert die Bereitstellung, Pflege und Fortschreibung der
+medizinischen Klassifikationen, Terminologien, Nomenklaturen und
+weiteren semantischen Standards auf dem Terminologieserver und stimmt
+diese im Rahmen des in Absatz 7 genannten nationalen Kompetenzzentrums
+für medizinische Terminologien mit den Nutzern des Terminologieservers
+sowie der Koordinierungsstelle für Interoperabilität im
+Gesundheitswesen nach § 3 Absatz 1 der IOP-Governance-Verordnung ab.
 
 
 #### Dritter Titel - Erklärungen des Versicherten zur Organ- und Gewebespende sowie Hinweise auf deren Vorhandensein und Aufbewahrungsort
@@ -40122,8 +41961,8 @@ betroffenen Person nur zulässig,
 
 (3) Die Hinweise des Versicherten auf das Vorhandensein und den
 Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in einer
-Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 werden ab dem 1. Juli
-2023 mit Einwilligung des Versicherten technisch in die elektronische
+Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 werden ab dem 1. Oktober
+2024 mit Einwilligung des Versicherten technisch in die elektronische
 Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 überführt.
 Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in
 Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen
@@ -40135,7 +41974,7 @@ elektronischen Gesundheitskarte gespeichert sind, in der
 elektronischen Patientenkurzakte zu speichern und auf der
 elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte
 seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die Daten
-nach § 334 Absatz 1 Satz 2 Nummer 2 mindestens bis zum 1. Juli 2024
+nach § 334 Absatz 1 Satz 2 Nummer 2 mindestens bis zum 1. Januar 2025
 und anschließend so lange auf der elektronischen Gesundheitskarte
 gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für
 Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3
@@ -40186,7 +42025,10 @@ ausschließlich folgende Personen zugreifen:
 
 
 3.  Personen nach § 352 Nummer 9 bis 12, die in einer Pflegeeinrichtung,
-    einem Hospiz oder einer Palliativeinrichtung tätig sind.
+    einem Hospiz oder einer Palliativeinrichtung tätig sind mit einem
+    Zugriff, der das Auslesen, die Speicherung und die Verwendung von
+    Daten ermöglicht, soweit dies für die Versorgung des Versicherten
+    erforderlich ist.
 
 
 
@@ -40209,7 +42051,7 @@ Maßnahme einzuwilligen.
 (4) Die Hinweise des Versicherten auf das Vorhandensein und den
 Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen in
 einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 werden ab dem 1.
-Juli 2023 mit Einwilligung des Versicherten technisch in die
+Oktober 2024 mit Einwilligung des Versicherten technisch in die
 elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7
 überführt. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen
 oder in Einrichtungen, die an der vertragsärztlichen Versorgung
@@ -40221,7 +42063,7 @@ auf der elektronischen Gesundheitskarte gespeichert sind, in der
 elektronischen Patientenkurzakte zu speichern und auf der
 elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte
 seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die Daten
-nach § 334 Absatz 1 Satz 2 Nummer 3 mindestens bis zum 1. Juli 2024
+nach § 334 Absatz 1 Satz 2 Nummer 3 mindestens bis zum 1. Januar 2025
 und anschließend so lange auf der elektronischen Gesundheitskarte
 gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für
 Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3
@@ -40279,7 +42121,7 @@ elektronischen Gesundheitskarte ohne Netzzugang möglich sein.
 (5) Die Krankenkassen, die ihren Versicherten elektronische
 Gesundheitskarten mit der Möglichkeit zur Speicherung des
 elektronischen Medikationsplans und der elektronischen Notfalldaten
-ausgeben und ihnen ab dem 1. Juli 2023 einen elektronischen
+ausgeben und ihnen ab dem 1. Oktober 2024 einen elektronischen
 Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 und eine
 elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7
 zur Verfügung stellen, sind die für die Verarbeitung von Daten in
@@ -40292,7 +42134,7 @@ als Auftragsverarbeiter mit der Zurverfügungstellung der
 elektronischen Medikationspläne und von elektronischen
 Patientenkurzakten für ihre Versicherten beauftragen.
 
-(6) Die elektronischen Notfalldaten werden ab dem 1. Juli 2023 mit
+(6) Die elektronischen Notfalldaten werden ab dem 1. Oktober 2024 mit
 Einwilligung des Versicherten technisch in die elektronische
 Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 überführt.
 Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in
@@ -40304,20 +42146,20 @@ in den elektronischen Notfalldaten gespeichert sind, in der
 elektronischen Patientenkurzakte zu speichern und auf der
 elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte
 seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die
-elektronischen Notfalldaten mindestens bis zum 1. Juli 2024 und
+elektronischen Notfalldaten mindestens bis zum 1. Januar 2025 und
 anschließend so lange auf der elektronischen Gesundheitskarte
 gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für
 Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3
 erforderlichen Voraussetzungen zu schaffen.
 
 (7) Die elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2
-Nummer 7 muss ab dem 1. Juli 2023 den grenzüberschreitenden Austausch
-von Gesundheitsdaten entsprechend den in § 359 Absatz 4 festgelegten
-Anforderungen gewährleisten. Die Gesellschaft für Telematik hat
-hierfür bis zum 1. Januar 2022 die erforderlichen Voraussetzungen zu
-schaffen.
+Nummer 7 muss ab dem 1. Oktober 2024 den grenzüberschreitenden
+Austausch von Gesundheitsdaten entsprechend den in § 359 Absatz 4
+festgelegten Anforderungen gewährleisten. Die Gesellschaft für
+Telematik hat hierfür bis zum 1. Januar 2022 die erforderlichen
+Voraussetzungen zu schaffen.
 
-(8) Der elektronische Medikationsplan wird ab dem 1. Juli 2023
+(8) Der elektronische Medikationsplan wird ab dem 1. Oktober 2024
 technisch in eine eigenständige Anwendung innerhalb der
 Telematikinfrastruktur überführt, die nicht mehr auf der
 elektronischen Gesundheitskarte gespeichert wird. Ärzte, die an der
@@ -40331,8 +42173,8 @@ Gesundheitskarte gespeichert sind, in der Anwendung nach § 334 Absatz
 1 Satz 2 Nummer 4 zu speichern und den auf der elektronischen
 Gesundheitskarte gespeicherten Medikationsplan zu löschen. Erteilt der
 Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleibt
-der elektronische Medikationsplan mindestens bis zum 1. Juli 2024 und
-anschließend so lange auf der elektronischen Gesundheitskarte
+der elektronische Medikationsplan mindestens bis zum 1. Januar 2025
+und anschließend so lange auf der elektronischen Gesundheitskarte
 gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für
 Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3
 erforderlichen Voraussetzungen zu schaffen.
@@ -40582,7 +42424,7 @@ Absatz 1 zu nutzen. Für die elektronische Übermittlung von
 vertragsärztlichen Verordnungen von Betäubungsmitteln und von
 Arzneimitteln nach § 3a Absatz 1 Satz 1 der
 Arzneimittelverschreibungsverordnung gilt die Verpflichtung nach Satz
-1 ab dem 1. Januar 2023. Die Verpflichtungen nach den Sätzen 1 und 2
+1 ab dem 1. Juli 2025. Die Verpflichtungen nach den Sätzen 1 und 2
 gelten nicht, wenn die elektronische Ausstellung oder Übermittlung von
 Verordnungen von verschreibungspflichtigen Arzneimitteln oder von
 Arzneimitteln nach § 3a Absatz 1 der
@@ -40593,7 +42435,11 @@ vertragsärztlicher Verordnungen von Betäubungsmitteln gilt nicht, wenn
 die elektronische Ausstellung oder Übermittlung dieser Verordnungen
 aus technischen Gründen im Einzelfall nicht möglich ist oder wenn es
 sich um einen Notfall im Sinne des § 8 Absatz 6 der
-Betäubungsmittelverschreibungsverordnung handelt.
+Betäubungsmittelverschreibungsverordnung handelt. Die Verpflichtung
+nach Satz 1 gilt nicht für Verordnungen von verschreibungspflichtigen
+Arzneimitteln, die aufgrund gesetzlicher Regelungen einer bestimmten
+Apotheke oder einer gemäß § 47 Absatz 1 Nummer 5 des
+Arzneimittelgesetzes benannten Stelle zugewiesen werden dürfen.
 
 (3) Ab dem 1. Januar 2022 sind Apotheken verpflichtet,
 verschreibungspflichtige Arzneimittel auf der Grundlage ärztlicher
@@ -40601,12 +42447,12 @@ Verordnungen nach Absatz 2 unter Nutzung der Dienste und Komponenten
 nach Absatz 1 abzugeben. Für die Abgabe von Betäubungsmitteln und von
 Arzneimitteln nach § 3a Absatz 1 Satz 1 der
 Arzneimittelverschreibungsverordnung gilt die Verpflichtung nach Satz
-1 ab dem 1. Januar 2023. Die Verpflichtungen nach den Sätzen 1 und 2
+1 ab dem 1. Juli 2025. Die Verpflichtungen nach den Sätzen 1 und 2
 gelten nicht, wenn der elektronische Abruf der ärztlichen Verordnung
 nach Absatz 2 aus technischen Gründen im Einzelfall nicht möglich ist.
 Die Vorschriften der Apothekenbetriebsordnung bleiben unberührt.
 
-(4) Ab dem 1. Januar 2023 sind die in Absatz 2 Satz 1 genannten
+(4) Ab dem 1. April 2024 sind die in Absatz 2 Satz 1 genannten
 Leistungserbringer sowie Psychotherapeuten, die an der
 vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen tätig
 sind, die an der vertragsärztlichen Versorgung teilnehmen oder die in
@@ -40694,28 +42540,24 @@ Vertreter einem anderen Versicherten zur Verfügung zu stellen.
 der Telematikinfrastruktur, die den Zugriff der Versicherten auf die
 elektronische ärztliche Verordnung nach § 334 Absatz 1 Satz 2 Nummer 6
 ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichem
-Interesse zu entwickeln und zur Verfügung zu stellen. Das
-Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Schnittstellen in den
-Diensten nach Absatz 1 sowie in den Komponenten nach Satz 1 und ihre
-Nutzung durch Drittanbieter zu regeln. Die Funktionsfähigkeit und
-Interoperabilität der Komponenten sind durch die Gesellschaft für
-Telematik sicherzustellen. Die Sicherheit der Komponenten des Systems
-zur Übermittlung ärztlicher Verordnungen einschließlich der
-Zugriffsmöglichkeiten für Versicherte ist durch ein externes
-Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im Verhältnis
-zum Gefährdungspotential nachzuweisen, dass die Verfügbarkeit,
-Integrität, Authentizität und Vertraulichkeit der Komponente
-sichergestellt wird. Die Festlegung der Prüfverfahren und die Auswahl
-des Sicherheitsgutachters für das externe Sicherheitsgutachten erfolgt
-durch die Gesellschaft für Telematik im Einvernehmen mit dem Bundesamt
-für Sicherheit in der Informationstechnik. Das externe
-Sicherheitsgutachten muss dem Bundesamt für Sicherheit in der
-Informationstechnik zur Prüfung vorgelegt und durch dieses bestätigt
-werden. Erst mit der Bestätigung des externen Sicherheitsgutachtens
-durch das Bundesamt für Sicherheit in der Informationstechnik dürfen
-die Komponenten durch die Gesellschaft für Telematik zur Verfügung
-gestellt werden.
+Interesse zu entwickeln und zur Verfügung zu stellen. Die
+Funktionsfähigkeit und Interoperabilität der Komponenten sind durch
+die Gesellschaft für Telematik sicherzustellen. Die Sicherheit der
+Komponenten des Systems zur Übermittlung ärztlicher Verordnungen
+einschließlich der Zugriffsmöglichkeiten für Versicherte ist durch ein
+externes Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im
+Verhältnis zum Gefährdungspotential nachzuweisen, dass die
+Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der
+Komponente sichergestellt wird. Die Festlegung der Prüfverfahren und
+die Auswahl des Sicherheitsgutachters für das externe
+Sicherheitsgutachten erfolgt durch die Gesellschaft für Telematik im
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik. Das externe Sicherheitsgutachten muss dem
+Bundesamt für Sicherheit in der Informationstechnik zur Prüfung
+vorgelegt und durch dieses bestätigt werden. Erst mit der Bestätigung
+des externen Sicherheitsgutachtens durch das Bundesamt für Sicherheit
+in der Informationstechnik dürfen die Komponenten durch die
+Gesellschaft für Telematik zur Verfügung gestellt werden.
 
 (11) Verordnungsdaten und Dispensierinformationen sind mit Ablauf von
 100 Tagen nach Dispensierung der Verordnung zu löschen.
@@ -40749,12 +42591,15 @@ unterliegt, für die Dauer von maximal zehn Jahren in den Diensten der
 Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 gespeichert werden. Auf
 die Rechnungsdaten nach Satz 1 haben nur die Versicherten selbst
 Zugriff. Die Versicherten können diese Rechnungsdaten zum Zweck der
-Kostenerstattung mit Kostenträgern teilen.
+Korrektur fehlerhafter Daten mit zugriffsberechtigten
+Leistungserbringern und anderen zugriffsberechtigten Personen nach §
+361 Absatz 1 und zum Zweck der Kostenerstattung mit Kostenträgern
+teilen.
 
 (14) Mit Einwilligung des Versicherten können Daten zu Verordnungen
-nach den Absätzen 2 und 4 bis 7 sowie Dispensierinformationen nach §
-312 Absatz 1 Satz 1 Nummer 3 automatisiert in der elektronischen
-Patientenakte gespeichert werden.
+nach den Absätzen 2 und 4 bis 7 und, soweit technisch möglich,
+Dispensierinformationen nach § 312 Absatz 1 Satz 1 Nummer 3
+automatisiert in der elektronischen Patientenakte gespeichert werden.
 
 (15) Das Bundesministerium für Gesundheit kann die in den Absätzen 2
 bis 8 genannten Fristen durch Rechtsverordnung ohne Zustimmung des
@@ -40915,7 +42760,124 @@ Gesundheitsdaten über die nationale eHealth-Kontaktstelle zu
 informieren.
 
 
-#### Siebter Titel - Nutzung der Telematikinfrastruktur durch weitere Kostenträger
+##### § 361a Einwilligungsbasierte Übermittlung von Daten aus vertragsärztlichen elektronischen Verordnungen; Verordnungsermächtigung
+
+(1) Über Schnittstellen in den Diensten nach § 360 Absatz 1 müssen
+Daten aus elektronischen Verordnungen von verschreibungspflichtigen
+Arzneimitteln an folgende an die Telematikinfrastruktur angeschlossene
+und mit den Mitteln der Telematikinfrastruktur authentifizierte
+Berechtigte übermittelt werden können:
+
+1.  Hersteller von digitalen Gesundheitsanwendungen nach § 33a, sofern die
+    Daten für den bestimmungsgemäßen Gebrauch der digitalen
+    Gesundheitsanwendung durch die jeweiligen Versicherten erforderlich
+    sind und die jeweiligen Versicherten diese digitale
+    Gesundheitsanwendung nutzen,
+
+
+2.  Krankenkassen der jeweiligen Versicherten, soweit dies für
+    individuelle Angebote zur Verbesserung der Versorgung der jeweiligen
+    Versicherten sowie zur Bewilligung von Leistungen vor einer
+    Inanspruchnahme verordneter Leistungen erforderlich ist,
+
+
+3.  Unternehmen der privaten Krankenversicherung der jeweiligen
+    Versicherten, soweit dies für individuelle Angebote zur Verbesserung
+    der Versorgung oder zu Abrechnungszwecken erforderlich ist,
+
+
+4.  Apotheken, sofern die Daten im Rahmen des Apothekenbetriebs zur
+    Unterstützung der Versorgung der Patienten erforderlich sind,
+
+
+5.  Vertragsärzte und Vertragszahnärzte, die in einem
+    Behandlungsverhältnis mit den jeweiligen Versicherten stehen, soweit
+    dies zur Unterstützung der Behandlung erforderlich ist,
+
+
+6.  Krankenhäuser, die in einem Behandlungsverhältnis mit den jeweiligen
+    Versicherten stehen, soweit dies zur Unterstützung der Behandlung
+    erforderlich ist,
+
+
+7.  Vorsorgeeinrichtungen und Rehabilitationseinrichtungen, die in einem
+    Behandlungsverhältnis mit dem jeweiligen Versicherten stehen, soweit
+    dies zur Unterstützung der Behandlung erforderlich ist.
+
+
+
+Die elektronischen Zugangsdaten, die die Einlösung einer
+elektronischen Verordnung von verschreibungspflichtigen Arzneimitteln
+ermöglichen, dürfen nicht über die Schnittstellen nach Satz 1
+übermittelt werden.
+
+(2) Die Übermittlung von Daten aus einer vertragsärztlichen
+elektronischen Verordnung von verschreibungspflichtigen Arzneimitteln
+an einen Berechtigten nach Absatz 1 und die weitere Verarbeitung durch
+diesen Berechtigten bedarf der Einwilligung des Versicherten.
+
+(3) Die Daten nach Absatz 1 dürfen von den dort genannten Berechtigten
+nur zu den dort genannten Zwecken verarbeitet werden. Diese
+Verarbeitung darf die Wirksamkeit der Maßnahmen zur Gewährleistung von
+Datensicherheit und Datenschutz sowie die Verfügbarkeit und
+Nutzbarkeit der vertragsärztlichen elektronischen Verordnung nicht
+beeinträchtigen. Die Gesellschaft für Telematik veröffentlicht im
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik und der oder dem Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit die durch die Berechtigten
+nach Absatz 1 zu erfüllenden Vorgaben bezüglich Datensicherheit und
+Datenschutz.
+
+(4) Unmittelbar nach einer Übermittlung von Daten nach Absatz 1 wird
+den jeweiligen Versicherten eine umfassende Dokumentation der
+Datenübermittlung barrierefrei zur Verfügung gestellt.
+
+(5) Die Gesellschaft für Telematik betreibt die Schnittstelle nach
+Absatz 1 und stellt sie den dort genannten Berechtigten
+diskriminierungsfrei und kostenfrei zur Verfügung. Zu diesem Zweck
+stellt sie die erforderlichen Informationen zur technischen
+Beschaffenheit der Schnittstelle sowie über die Möglichkeit zu deren
+Nutzung auf ihrer Internetseite allgemein zugänglich bereit.
+
+(6) Das Bundesministerium für Gesundheit wird ermächtigt, im
+Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz
+und die Informationsfreiheit und dem Bundesamt für Sicherheit in der
+Informationstechnik durch Rechtsverordnung ohne Zustimmung des
+Bundesrats Folgendes zu regeln:
+
+1.  die Fristen, zu denen die Schnittstellen nach Absatz 1 bereitgestellt
+    werden müssen,
+
+
+2.  welche Daten nach den Absätzen 1 bis 3 zu welchen Verarbeitungszwecken
+    übermittelt werden dürfen,
+
+
+3.  zu welchen Zwecken welche Daten von den Empfangsberechtigten nach
+    Absatz 1 verarbeitet werden dürfen,
+
+
+4.  die Informationen, die den Versicherten barrierefrei zur Verfügung zu
+    stellen sind,
+
+
+5.  die Anforderungen an die Abgabe, die Änderung und den Widerruf der
+    Einwilligungserklärung nach Absatz 2 einschließlich der Möglichkeit,
+    die Einwilligung auf bestimmte Zeiträume, bestimmte elektronische
+    Verordnungen oder bestimmte Datenfelder der elektronischen Verordnung
+    zu beschränken,
+
+
+6.  die technischen Einzelheiten der Datenübermittlung und
+
+
+7.  die Dokumentation der Datenübermittlung nach Absatz 4.
+
+
+
+
+
+#### Siebter Titel - Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
 
 
 
@@ -40959,6 +42921,13 @@ unter Nutzung elektronischer Gesundheitskarten oder hiermit technisch
 kompatibler Karten zum Zweck des Nachweises der Leistungsberechtigung
 und der Abrechnung von Leistungen in diesem Bereich verwendet, gilt §
 327 entsprechend. § 291a bleibt unberührt.
+
+
+##### § 362b Nutzung der Telematikinfrastruktur durch das Zentrale Vorsorgeregister
+
+Wird die Telematikinfrastruktur zur Erteilung von Auskunft aus dem
+Zentralen Vorsorgeregister nach § 78b Absatz 1 Satz 1 der
+Bundesnotarordnung verwendet, gilt § 327 entsprechend.
 
 
 #### Achter Titel - Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
@@ -41297,10 +43266,8 @@ standardisierte Schnittstellen zu integrieren:
     Satz 1 für die Verordnung von Arzneimitteln zugelassen sind,
 
 
-3.  Schnittstellen für elektronische Programme, die auf Grund der
-    Rechtsverordnung nach § 14 Absatz 8 Satz 1 des
-    Infektionsschutzgesetzes zur Durchführung von Meldungen und
-    Benachrichtigungen zugelassen sind und
+3.  Schnittstellen zum elektronischen Melde- und Informationssystem nach §
+    14 des Infektionsschutzgesetzes und
 
 
 4.  Schnittstellen für die Anbindung vergleichbarer
@@ -41342,11 +43309,7 @@ Festlegungen zu den offenen und standardisierten Schnittstellen nach §
 Bundesvereinigung der Vorstand. Bei den Festlegungen zu den offenen
 und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind
 die Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73
-Absatz 9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den
-offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer
-3 sind die Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des
-Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind
-im Einvernehmen mit dem Robert Koch-Institut zu treffen.
+Absatz 9 Satz 2 zu berücksichtigen.
 
 (2) Die Festlegungen nach Absatz 1 sind in das
 Interoperabilitätsverzeichnis nach § 385 aufzunehmen.
@@ -41381,11 +43344,7 @@ Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu
 erlassenden Rechtsverordnung. Bei den Festlegungen zu den offenen und
 standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind die
 Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73 Absatz
-9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den offenen und
-standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 3 sind die
-Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des
-Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind
-im Einvernehmen mit dem Robert Koch-Institut zu treffen.
+9 Satz 2 zu berücksichtigen.
 
 (2) Im Rahmen der Festlegungen nach Absatz 1 definiert die Deutsche
 Krankenhausgesellschaft auch, welche Subsysteme eines
@@ -41472,7 +43431,7 @@ der Verbände der Pflegeberufe auf Bundesebene mit einzubeziehen.
 (1) Hilfsmittel oder Implantate, die zu Lasten der gesetzlichen
 Krankenversicherung an Versicherte abgegeben werden und die Daten über
 den Versicherten elektronisch über öffentlich zugängliche Netze an den
-Hersteller oder Dritte übertragen, müssen ab dem 1. Juli 2024
+Hersteller oder Dritte übertragen, müssen ab dem 1. Juli 2025
 ermöglichen, dass die von dem Hilfsmittel oder dem Implantat
 verarbeiteten Daten auf der Grundlage einer Einwilligung des
 Versicherten in geeigneten interoperablen Formaten in eine in das
@@ -41514,19 +43473,24 @@ verwendeten interoperablen Schnittstellen nach Absatz 1 zur
 Veröffentlichung in dem Verzeichnis nach Satz 1 an das Bundesinstitut
 für Arzneimittel und Medizinprodukte.
 
-(3) Abweichend von Absatz 1 kann über den 1. Juli 2024 hinaus eine
+(3) Abweichend von Absatz 1 kann über den 1. Juli 2025 hinaus eine
 Versorgung mit Hilfsmitteln oder Implantaten erfolgen, welche die
 Anforderungen nach Absatz 1 nicht erfüllen, wenn dies aus
 medizinischen Gründen erforderlich ist oder die regelmäßige Versorgung
 der Versicherten mit Hilfsmitteln oder Implantaten andernfalls nicht
 gewährleistet wäre.
 
-(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte trifft im
+(4) Die Gesellschaft für Telematik hat bis zum 31. Oktober 2023 im
 Einvernehmen mit dem Bundesamt für Sicherheit in der
 Informationstechnik und im Benehmen mit der oder dem
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-die erforderlichen technischen Festlegungen, insbesondere zur sicheren
-gegenseitigen Identifizierung der Produkte bei der Datenübertragung.
+sowie dem Bundesinstitut für Arzneimittel und Medizinprodukte die
+erforderlichen technischen Festlegungen für die Übermittlung von Daten
+nach Absatz 1 Satz 1, insbesondere zur sicheren gegenseitigen
+Identifizierung der Produkte bei der Datenübertragung, zu treffen. Die
+Gesellschaft für Telematik darf technische Dienste zur sicheren
+gegenseitigen Identifizierung der Produkte nach Maßgabe der
+technischen Festlegungen nach Satz 1 betreiben.
 
 
 #### § 375 Verordnungsermächtigung
@@ -41562,30 +43526,27 @@ festlegen, die von der in § 371 Absatz 3 genannten Frist abweicht.
 
 
 
-#### § 376 Finanzierungsvereinbarung
+#### § 376 Finanzierung
 
-Nach den §§ 377 bis 382 sind Vereinbarungen zu treffen über die
-Erstattung
+Nach den §§ 377 bis 382 werden den Leistungserbringern folgende Kosten
+erstattet:
 
-1.  der erforderlichen erstmaligen Ausstattungskosten, die den
-    Leistungserbringern in der Festlegungs-, Erprobungs- und
-    Einführungsphase der Telematikinfrastruktur entstehen sowie
-
-
-2.  der erforderlichen Betriebskosten, die den Leistungserbringern im
-    laufenden Betrieb der Telematikinfrastruktur entstehen, einschließlich
-    der Aufteilung dieser Kosten auf die in den §§ 377, 378 und 379
-    genannten Leistungssektoren.
+1.  die Kosten der aufgrund von Anforderungen nach diesem Gesetz
+    erforderlichen Ausstattung, die den Leistungserbringern in der
+    Festlegungs-, Erprobungs- und Einführungsphase der
+    Telematikinfrastruktur entstehen, und
 
 
+2.  die erforderlichen Betriebskosten, die den Leistungserbringern im
+    laufenden Betrieb der Telematikinfrastruktur entstehen.
 
-Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4
-Satz 2 und 6.
+
+
 
 
 #### § 377 Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
+(1) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten die Krankenhäuser einen Zuschlag von den
 Krankenkassen (Telematikzuschlag).
 
@@ -41628,76 +43589,60 @@ erbringen.
 
 #### § 378 Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
+(1) Zum Ausgleich der in § 376 genannten Kosten der Ausstattung und
 Betriebskosten erhalten die an der vertragsärztlichen Versorgung
-teilnehmenden Leistungserbringer Erstattungen von den Krankenkassen.
+teilnehmenden Leistungserbringer ab dem 1. Juli 2023 eine monatliche
+Pauschale (TI-Pauschale) von den Krankenkassen.
 
-(2) Das Nähere zur Höhe und Abrechnung der Erstattungen vereinbaren
-der Spitzenverband Bund der Krankenkassen und die Kassenärztlichen
-Bundesvereinigungen in den Bundesmantelverträgen. In den
-Bundesmantelverträgen ist mit Wirkung zum 1. Oktober 2020 insbesondere
-ein Ausgleich vorzusehen
+(2) Das Nähere zur Höhe und zu den der Berechnung zugrunde zu legenden
+Komponenten und Diensten sowie zur Abrechnung der TI-Pauschale
+vereinbaren der Spitzenverband Bund der Krankenkassen und die
+Kassenärztlichen Bundesvereinigungen bis zum 30. April 2023 in den
+Bundesmantelverträgen. Kommt eine Vereinbarung nach Satz 1 nicht oder
+nicht vollständig bis zum 30. April 2023 zustande, legt das
+Bundesministerium für Gesundheit den Vereinbarungsinhalt innerhalb von
+zwei Monaten nach Ablauf der in Satz 1 genannten Frist fest.
 
-1.  für die Nutzung der elektronischen Patientenakte im Sinne des § 334
-    Absatz 1 Satz 2 Nummer 1 durch die an der vertragsärztlichen
-    Versorgung teilnehmenden Leistungserbringer und
+(3) In der Vereinbarung nach Absatz 2 Satz 1 ist auch das Nähere zum
+Umfang und Nachweis der Ausstattung mit den aufgrund der Anforderungen
+nach diesem Gesetz erforderlichen Komponenten und Diensten zu regeln.
+Ebenso ist zu vereinbaren, welche Komponenten und Dienste nach Satz 1
+zum jeweiligen Monat, für den die TI-Pauschale gezahlt wird, vorhanden
+sein müssen.
 
+(4) Die Vertragsparteien nach Absatz 2 Satz 1 legen in der
+Vereinbarung nach Absatz 2 Satz 1 auch die Einzelheiten hinsichtlich
+des Übergangs zu der erstmaligen Anwendung der TI-Pauschale fest.
 
-2.  für die Nutzung elektronischer ärztlicher Verordnungen im Sinne des §
-    334 Absatz 1 Satz 2 Nummer 6 für apothekenpflichtige Arzneimittel
-    durch die an der vertragsärztlichen Versorgung teilnehmenden
-    Leistungserbringer.
-
-
-
-
-(3) Kommt eine Vereinbarung nach Absatz 2 innerhalb einer vom
-Bundesministerium für Gesundheit gesetzten Frist nicht oder nicht
-vollständig zustande, legt das jeweils zuständige Schiedsamt nach § 89
-Absatz 2 auf Antrag einer Vertragspartei oder des Bundesministeriums
-für Gesundheit innerhalb einer Frist von zwei Monaten den
-Vereinbarungsinhalt fest. Das Schiedsamt hat die für die
-Sozialversicherung zuständigen obersten Landesbehörden vor einer
-Entscheidung nach Satz 1 anzuhören. Die Klage gegen die Festlegung des
-Schiedsamtes hat keine aufschiebende Wirkung.
+(5) Die Vertragsparteien nach Absatz 2 Satz 1 vereinbaren im Abstand
+von jeweils zwei Jahren, erstmals zum 29. Dezember 2024 Anpassungen
+der Höhe der TI-Pauschale, sofern diese erforderlich sind. Wird eine
+Änderung nach Satz 1 nicht innerhalb dieser Frist vereinbart, gilt die
+jeweils bestehende Vereinbarung zur Höhe der TI-Pauschale bis zur
+Vereinbarung einer Änderung nach Satz 1 fort.
 
 
 #### § 379 Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
-Betriebskosten erhalten Apotheken Erstattungen von den Krankenkassen.
+(1) Zum Ausgleich der in § 376 genannten Kosten der Ausstattung und
+Betriebskosten erhalten Apotheken ab dem 1. Juli 2023 eine monatliche
+Pauschale (TI-Pauschale) von den Krankenkassen.
 
-(2) Das Nähere zur Höhe und Abrechnung der Erstattungen vereinbaren
-der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung
-der wirtschaftlichen Interessen gebildete maßgebliche
-Spitzenorganisation der Apotheker auf Bundesebene bis zum 1. Oktober
-2020\. In der Vereinbarung ist insbesondere ein Ausgleich vorzusehen
-
-1.  für die Nutzung der elektronischen Patientenakte im Sinne des § 334
-    Absatz 1 Satz 2 Nummer 1 durch die Apotheken und
-
-
-2.  für die Nutzung elektronischer ärztlicher Verordnungen im Sinne des §
-    334 Absatz 1 Satz 2 Nummer 6 für apothekenpflichtige Arzneimittel
-    durch die Apotheken.
-
-
-
-
-(3) Die Vereinbarung hat Rechtswirkung für die Apotheken, für die der
-Rahmenvertrag nach § 129 Absatz 2 Rechtswirkung hat.
-
-(4) Kommt eine Vereinbarung nach Absatz 2 nicht oder nicht vollständig
-innerhalb der Frist nach Absatz 2 Satz 1 zustande, legt die
-Schiedsstelle nach § 129 Absatz 8 auf Antrag einer Vertragspartei oder
-des Bundesministeriums für Gesundheit innerhalb einer Frist von zwei
-Monaten den Vereinbarungsinhalt fest. Die Klage gegen die Festlegung
-der Schiedsstelle hat keine aufschiebende Wirkung.
+(2) Das Nähere zur Höhe und zu den der Berechnung zugrunde zu legenden
+Komponenten und Diensten sowie zur Abrechnung der TI-Pauschale
+vereinbaren der Spitzenverband Bund der Krankenkassen und die für die
+Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
+Spitzenorganisation der Apotheker auf Bundesebene bis zum 30. April
+2023\. Kommt eine Vereinbarung nach Satz 1 nicht oder nicht vollständig
+bis zum 30. April 2023 zustande, legt das Bundesministerium für
+Gesundheit den Vereinbarungsinhalt innerhalb von zwei Monaten nach
+Ablauf der in Satz 1 genannten Frist fest. § 378 Absatz 3 bis 5 gilt
+entsprechend.
 
 
 #### § 380 Finanzierung der den Hebammen, Physiotherapeuten und anderen Heilmittelerbringern, Hilfsmittelerbringern, zahntechnischen Laboren, Erbringern von Soziotherapie nach § 37a sowie weiteren Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
+(1) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten Hebammen, für die gemäß § 134a Absatz 2 Satz 1
 die Verträge nach § 134a Absatz 1 Rechtswirkung haben, sowie
 Physiotherapeuten, die nach § 124 Absatz 1 zur Abgabe von Leistungen
@@ -41708,7 +43653,7 @@ Vereinbarung nach § 378 Absatz 2 für die an der vertragsärztlichen
 Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen
 von den Krankenkassen.
 
-(2) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
+(2) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten folgende Leistungserbringer die in der jeweils
 geltenden Fassung der Vereinbarung nach § 378 Absatz 2 für die an der
 vertragsärztlichen Versorgung teilnehmenden Leistungserbringer
@@ -41790,7 +43735,7 @@ vereinbaren
 
 #### § 381 Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zur Finanzierung der in § 376 Satz 1 genannten Ausstattungs- und
+(1) Zur Finanzierung der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten
 
 1.  die Einrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz
@@ -41816,7 +43761,10 @@ gesetzlichen Rentenversicherung bis zum 1. Oktober 2020. Dabei gilt
 sowohl für die Rehabilitationseinrichtungen der gesetzlichen
 Rentenversicherung als auch für die von den Krankenkassen zu
 finanzierenden Einrichtungen das Verfahren zur Verhandlung und
-Anpassung von Vergütungssätzen.
+Anpassung von Vergütungssätzen. Für Rehabilitationseinrichtungen, die
+ambulante Leistungen zur medizinischen Rehabilitation bei
+Abhängigkeitserkrankungen erbringen, kann ein von Satz 2 abweichendes
+Verfahren vereinbart werden.
 
 (3) Über die Aufteilung der Kosten zwischen den Krankenkassen und den
 Trägern der gesetzlichen Rentenversicherung treffen der Spitzenverband
@@ -41994,7 +43942,9 @@ technische und semantische Standards, Profile und Leitfäden für
 informationstechnische Systeme im Gesundheitswesen aufgeführt werden.
 Das elektronische Interoperabilitätsverzeichnis umfasst auch
 technische und semantische Standards, Profile und Leitfäden der
-Pflege.
+Pflege. Die Gesellschaft für Telematik betreibt das
+Interoperabilitätsverzeichnis ab dem 1. Februar 2023 über die
+Wissensplattform nach § 7 Absatz 1 der IOP-Governance-Verordnung.
 
 (2) Das Interoperabilitätsverzeichnis dient der Förderung der
 Interoperabilität zwischen informationstechnischen Systemen.
@@ -42294,7 +44244,10 @@ Einrichtung und Organisation einer bei der Gesellschaft für Telematik
 unterhaltenen Koordinierungsstelle für Interoperabilität im
 Gesundheitswesen sowie eines von der Koordinierungsstelle eingesetzten
 Expertengremiums und deren jeweils notwendige Arbeitsstrukturen zu
-regeln. Die Koordinierungsstelle und das Expertengremium haben die
+regeln sowie Regelungen zu treffen für die Erhebung von Gebühren und
+Auslagen für individuell zurechenbare öffentliche Leistungen, die
+durch die Koordinierungsstelle oder das Expertengremium erbracht
+werden. Die Koordinierungsstelle und das Expertengremium haben die
 Aufgabe, für informationstechnische Systeme, die im Gesundheitswesen
 eingesetzt werden,
 
@@ -42496,14 +44449,18 @@ von Versicherten erhoben werden, ist unzulässig.
 
 (1) Ordnungswidrig handelt, wer
 
-1.  entgegen § 335 Absatz 1 einen Zugriff auf dort genannte Daten
+1.  entgegen § 332a Absatz 1 Satz 2 die dort genannte Einbindung
+    beschränkt,
+
+
+2.  entgegen § 335 Absatz 1 einen Zugriff auf dort genannte Daten
     verlangt,
 
 
-2.  entgegen § 335 Absatz 2 eine Vereinbarung abschließt oder
+3.  entgegen § 335 Absatz 2 eine Vereinbarung abschließt oder
 
 
-3.  entgegen § 339 Absatz 3 Satz 1 oder Absatz 5 Satz 1 oder § 361 Absatz
+4.  entgegen § 339 Absatz 3 Satz 1 oder Absatz 5 Satz 1 oder § 361 Absatz
     2 Satz 1 oder Absatz 3 Nummer 1 auf dort genannte Daten zugreift.
 
 
@@ -42638,15 +44595,7 @@ zuständige Aufsichtsbehörde.
 
 
 
-(2) Die im Beitrittsgebiet bestehenden ärztlich geleiteten kommunalen,
-staatlichen und freigemeinnützigen Gesundheitseinrichtungen
-einschließlich der Einrichtungen des Betriebsgesundheitswesens
-(Polikliniken, Ambulatorien, Arztpraxen) sowie diabetologische,
-nephrologische, onkologische und rheumatologische Fachambulanzen, die
-am 31. Dezember 2003 zur vertragsärztlichen Versorgung zugelassen
-waren, nehmen weiterhin an der vertragsärztlichen Versorgung teil.
-
-(3) bis (4) (weggefallen)
+(2) bis (4) (weggefallen)
 
 (5) Zeiten der Versicherung, die in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet bis zum 31. Dezember 1990 in der
@@ -42688,12 +44637,12 @@ genommen.
 staatlichen und freigemeinnützigen Gesundheitseinrichtungen
 einschließlich der Einrichtungen des Betriebsgesundheitswesens
 (Polikliniken, Ambulatorien, Arztpraxen) sowie diabetologische,
-nephrologische, onkologische und rheumatologische Fachambulanzen
-nehmen in dem Umfang, in dem sie am 31. Dezember 2003 zur
-vertragsärztlichen Versorgung zugelassen sind, weiterhin an der
-vertragsärztlichen Versorgung teil. Im Übrigen gelten für die
-Einrichtungen nach Satz 1 die Vorschriften dieses Buches, die sich auf
-medizinische Versorgungszentren beziehen, entsprechend.
+nephrologische, onkologische und rheumatologische Fachambulanzen, die
+am 31. Dezember 2003 zur vertragsärztlichen Versorgung zugelassen
+waren, nehmen weiterhin an der vertragsärztlichen Versorgung teil. Im
+Übrigen gelten für die Einrichtungen nach Satz 1 die Vorschriften
+dieses Buches, die sich auf medizinische Versorgungszentren beziehen,
+entsprechend.
 
 (2a) (weggefallen)
 
@@ -43233,8 +45182,253 @@ Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
 
 
-### § 417 (weggefallen)
+### § 417 Versicherung nach § 9 für Ausländerinnen und Ausländer mit Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung
 
+(1) Ergänzend zu § 9 können innerhalb von sechs Monaten nach
+Aufenthaltnahme im Inland Personen der Versicherung beitreten,
+
+1.  die gemäß § 49 des Aufenthaltsgesetzes erkennungsdienstlich behandelt
+    worden sind und denen eine Aufenthaltserlaubnis nach § 24 des
+    Aufenthaltsgesetzes erteilt oder eine entsprechende
+    Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3
+    des Aufenthaltsgesetzes für einen Aufenthaltstitel nach § 24 des
+    Aufenthaltsgesetzes ausgestellt wurde und
+
+
+2.  die nicht nach § 7 Absatz 1 Satz 1 Nummer 3 des Zweiten Buches oder §
+    19 des Zwölften Buches hilfebedürftig sind.
+
+
+
+
+(2) Absatz 1 ist bei Personen, denen nach dem 24. Februar 2022 und vor
+dem 1. Juni 2022 eine Aufenthaltserlaubnis nach § 24 Absatz 1 des
+Aufenthaltsgesetzes erteilt oder eine entsprechende
+Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3
+oder Absatz 4 des Aufenthaltsgesetzes ausgestellt worden ist, mit der
+Maßgabe anzuwenden, dass anstelle der erkennungsdienstlichen
+Behandlung die Speicherung der Daten nach § 3 Absatz 1 des AZR-
+Gesetzes erfolgt ist. Eine nicht durchgeführte erkennungsdienstliche
+Behandlung nach § 49 des Aufenthaltsgesetzes oder nach § 16 des
+Asylgesetzes ist in diesen Fällen durch die zuständige Behörde bis zum
+Ablauf des 31. Oktober 2022 nachzuholen.
+
+(3) Das Erfordernis des Nachholens einer erkennungsdienstlichen
+Behandlung nach Absatz 2 gilt nicht, soweit eine erkennungsdienstliche
+Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
+
+
+### § 418 Übergangsregelung zum Antragsverfahren zur Ausnahme vom Preismoratorium
+
+Für Arzneimittel, die bei Inkrafttreten der Regelung des § 130a Absatz
+3c in der Fassung des GKV-Finanzstabilisierungsgesetzes vom 7.
+November 2022 (BGBl. I S. 1990) bereits im Geltungsbereich dieses
+Gesetzes in Verkehr gebracht waren und zum Zeitpunkt ihres erstmaligen
+Inverkehrbringens nach Inkrafttreten dieser Regelung die
+Voraussetzungen des § 130a Absatz 3c Satz 3 erfüllten, kann der
+pharmazeutische Unternehmer den Antrag nach § 130a Absatz 3c Satz 1
+bis zum 1. Februar 2023 stellen. In der Vereinbarung nach § 130a
+Absatz 3c Satz 6 kann von § 130a Absatz 3c Satz 7 abgewichen werden,
+sofern Verträge nach § 130a Absatz 8 eine wirtschaftliche Versorgung
+sicherstellen.
+
+
+### § 419 Übergangsregelung zur Besetzung der Vorstände der Kassenärztlichen Vereinigungen und Kassenärztlichen Bundesvereinigungen
+
+§ 79 Absatz 4 Satz 1 zweiter Halbsatz und Satz 2 zweiter Halbsatz
+findet keine Anwendung auf Vorstände, deren Mitglieder vor dem 3.
+Dezember 2022 von der Vertreterversammlung wirksam gewählt wurden.
+
+
+### § 420 Übergangsregelung zur Novellierung der vermögensrechtlichen Vorschriften
+
+Bis zum 31. Dezember 2024 dürfen Vermögensgegenstände, die vor dem 1.
+Januar 2023 nach § 78 Absatz 5 Satz 2, Absatz 6, § 91a Absatz 1 Satz
+6, § 208 Absatz 2 Satz 2, § 217d Absatz 2 Satz 3, § 220 Absatz 3 Satz
+2 und § 280 Absatz 3 Satz 5 in Verbindung mit den jeweils in Bezug
+genommenen Vorschriften der §§ 80 bis 86 des Vierten Buches in der bis
+dahin geltenden Fassung zulässigerweise erworben wurden, auch dann im
+Vermögen gehalten werden, wenn die Anlage in diese
+Vermögensgegenstände nach den §§ 80 bis 86 des Vierten Buches in der
+ab dem 1. Januar 2023 geltenden Fassung nicht mehr zulässig ist.
+
+
+### § 421 Übergangsregelung zur Vergütung von pharmazeutischem Großhandel und von Apotheken für die Abgabe von COVID-19-Impfstoff
+
+(1) Apotheken erhalten für die Abgabe von vom Bund beschafftem
+COVID-19-Impfstoff im Zeitraum vom 1. Januar 2023 bis zum 31. Dezember
+2027 eine Vergütung in Höhe von 7,58 Euro zuzüglich Umsatzsteuer je
+abgegebener Durchstechflasche. Satz 1 findet auch Anwendung auf
+COVID-19-Impfstoff, den Apotheken selbst verabreichen.
+
+(2) Pharmazeutische Großhändler erhalten für die Abgabe von vom Bund
+beschafftem COVID-19-Impfstoff an die Apotheken im Zeitraum vom 1.
+Januar 2023 bis zum 31. Dezember 2027 eine Vergütung in Höhe von 7,45
+Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche. Für die
+Abgabe von durch den pharmazeutischen Großhandel selbst beschafftem
+Impfbesteck und -zubehör für Schutzimpfungen gegen das Coronavirus
+SARS-CoV-2 an Apotheken im Zeitraum vom 1. Januar 2023 bis zum 7.
+April 2023 erhalten pharmazeutische Großhändler eine Vergütung in Höhe
+von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
+
+(3) Apotheken erhalten für die nachträgliche Erstellung eines
+COVID-19-Impfzertifikats im Sinne des § 22a Absatz 5 des
+Infektionsschutzgesetzes im Zeitraum vom 1. Januar 2023 bis zum 30.
+Juni 2023 eine Vergütung in Höhe von 6 Euro je Erstellung. Ein
+Anspruch auf die Vergütung nach Satz 1 besteht nur, wenn das
+COVID-19-Impfzertifikat anlässlich eines unmittelbaren persönlichen
+Kontakts zwischen der Apotheke und der geimpften Person, einem
+Elternteil oder einem anderen Sorgeberechtigten einer minderjährigen
+geimpften Person erstellt wird. Ist für die geimpfte Person ein
+Betreuer bestellt, dessen Aufgabenkreis diese Angelegenheit umfasst,
+so ist auch ein unmittelbarer persönlicher Kontakt zu diesem
+ausreichend. Eine Vergütung nach Satz 1 ist ausgeschlossen, sofern das
+COVID-19-Impfzertifikat durch einen anderen Leistungserbringer bereits
+ausgestellt wurde.
+
+(4) Apotheken erhalten für die Nachtragung einer Schutzimpfung gegen
+das Coronavirus SARS-CoV-2 in einem Impfausweis nach § 22 Absatz 2
+Satz 3 des Infektionsschutzgesetzes im Zeitraum vom 1. Januar 2023 bis
+zum 30. Juni 2023 je Nachtragung eine Vergütung in Höhe von 2 Euro.
+Eine Vergütung nach Satz 1 ist ausgeschlossen, wenn eine Eintragung
+einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem
+Impfausweis bereits durch einen anderen Leistungserbringer vorgenommen
+wurde.
+
+(5) Die Apotheken rechnen die sich aus den Absätzen 1 bis 4 ergebenden
+Vergütungen monatlich, spätestens bis zum Ende des dritten auf den
+Abrechnungszeitraum folgenden Monats, über ein von ihnen für die
+Abrechnung in Anspruch genommenes in § 300 Absatz 2 Satz 1 genanntes
+Rechenzentrum ab. Für in den Absätzen 1 bis 4 genannte Leistungen, die
+nach dem 31. Dezember 2027 erbracht werden, darf eine Vergütung nicht
+abgerechnet werden. Jedes Rechenzentrum übermittelt monatlich,
+letztmalig bis zum 31. März 2028, den Betrag, der sich aus den in Satz
+1 genannten Abrechnungen jeweils ergibt, an das Bundesamt für Soziale
+Sicherung und an den Verband der Privaten Krankenversicherung e. V..
+Sachliche oder rechnerische Fehler in dem übermittelten Gesamtbetrag
+sind durch die Rechenzentren in der nächsten Übermittlung zu
+berichtigen; sachliche oder rechnerische Fehler in dem letztmalig
+übermittelten Gesamtbetrag sind bis zum 30. April 2028 zu berichtigen.
+Das Bundesamt für Soziale Sicherung zahlt 93 Prozent der nach Satz 3
+übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds
+an das jeweilige Rechenzentrum. Der Verband der Privaten
+Krankenversicherung zahlt 7 Prozent der nach Satz 3 übermittelten
+Beträge an das jeweilige Rechenzentrum. Die Rechenzentren leiten die
+nach Satz 1 abgerechneten Beträge an die Apotheken weiter. Die
+Apotheken leiten die an sie ausgezahlte in Absatz 2 genannte Vergütung
+an die pharmazeutischen Großhändler weiter. Das Bundesamt für Soziale
+Sicherung bestimmt das Nähere zum Verfahren nach den Sätzen 3 bis 5.
+Das Bundesamt für Soziale Sicherung informiert den Verband der
+Privaten Krankenversicherung e. V. über das Verfahren. An das
+Bundesministerium für Gesundheit übermittelt monatlich das Bundesamt
+für Soziale Sicherung eine Aufstellung der nach Satz 5 ausgezahlten
+Beträge und der Verband der Privaten Krankenversicherung e. V. eine
+Aufstellung der nach Satz 6 ausgezahlten Beträge.
+
+(6) Zur Finanzierung der in Absatz 5 Satz 6 genannten Zahlungen erhebt
+der Verband der Privaten Krankenversicherung e. V. eine Umlage
+gegenüber den privaten Krankenversicherungsunternehmen entsprechend
+dem Anteil der jeweiligen Versicherten. Das Nähere zum Umlageverfahren
+nach Satz 1 bestimmt der Verband der Privaten Krankenversicherung
+e. V..
+
+(7) Auf Anforderung haben pharmazeutische Großhändler dem Paul-
+Ehrlich-Institut zur Abwendung von versorgungsrelevanten
+Lieferengpässen von COVID-19-Impfstoffen Daten zum Bezug, zur Abgabe
+und zu verfügbaren Beständen dieser Impfstoffe mitzuteilen.
+
+
+### § 422 Übergangsregelung zur Vergütung und Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen
+
+(1) Pharmazeutische Großhändler erhalten für die Abgabe von vom Bund
+beschafften antiviralen Arzneimitteln zur Behandlung von
+COVID-19-Erkrankungen an Apotheken im Zeitraum vom 8. April 2023 bis
+zum 30. Juni 2024 eine Vergütung in Höhe von 20 Euro zuzüglich
+Umsatzsteuer je abgegebener Packung.
+
+(2) Apotheken erhalten für die Abgabe von vom Bund beschafften
+antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen im
+Zeitraum vom 8. April 2023 bis zum 30. Juni 2024 eine Vergütung in
+Höhe von 30 Euro zuzüglich Umsatzsteuer je abgegebener Packung.
+Abweichend von Satz 1 erhalten Apotheken im Zeitraum vom 8. April 2023
+bis zum 30. Juni 2024 eine Vergütung in Höhe von 15 Euro zuzüglich
+Umsatzsteuer je abgegebener Packung, wenn die Abgabe an Ärztinnen und
+Ärzte oder an nach § 72 des Elften Buches zugelassene vollstationäre
+Pflegeeinrichtungen erfolgt. Sofern die in Satz 1 oder Satz 2 genannte
+Abgabe im Wege des Botendienstes erfolgt, erhalten Apotheken eine
+zusätzliche Vergütung in Höhe von 8 Euro einschließlich Umsatzsteuer
+je Lieferort und Tag.
+
+(3) Die abgebende Apotheke rechnet die sich aus den Absätzen 1 und 2
+ergebenden Vergütungen ab. Für in den Absätzen 1 und 2 genannten
+Leistungen, die nach dem 30. Juni 2024 erbracht werden, darf eine
+Vergütung nicht abgerechnet werden. Der Gesamtbetrag der Vergütungen
+nach den Absätzen 1 und 2 ist bei Personen, die in der gesetzlichen
+Krankenversicherung versichert sind, über ein von den Apotheken für
+die Abrechnung in Anspruch genommenes in § 300 Absatz 2 Satz 1
+genanntes Rechenzentrum gegenüber der jeweiligen Krankenkasse und bei
+Personen, die in der privaten Krankenversicherung versichert sind,
+sowie bei Selbstzahlern gegenüber der jeweiligen Person abzurechnen.
+Bei Personen, die weder in der gesetzlichen Krankenversicherung noch
+in der privaten Krankenversicherung versichert sind und für deren
+Gesundheitskosten eine andere Kostenträgerschaft besteht, ist
+gegenüber dem jeweiligen Kostenträger abzurechnen, sofern nicht für
+diesen Personenkreis eine Abrechnung über die jeweils zuständige
+Krankenkasse vorgesehen ist. Die Vergütung für in Absatz 1 und 2
+genannte Leistungen, die bis zum 30. Juni 2024 erbracht worden sind,
+ist bis zum 30. September 2024 abzurechnen.
+
+
+### § 423 (weggefallen)
+
+
+
+### § 424 Übergangsregelung aus Anlass des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
+
+(1) Auf Vereinbarungen nach § 130a Absatz 8 Satz 1, die bis zum 26.
+Juli 2023 abgeschlossen worden sind, ist § 130a Absatz 8 Satz 10 in
+der bis zu diesem Tag geltenden Fassung anzuwenden. Auf diese
+Vereinbarungen ist § 130a Absatz 8 Satz 13 nicht anzuwenden.
+
+(2) Auf Vereinbarungen nach § 130a Absatz 8 Satz 1, für die vor dem
+27\. Juli 2023 eine Ausschreibung im Supplement zum Amtsblatt der
+Europäischen Union bekannt gemacht worden ist oder die bis zum 26.
+Juli 2023 abgeschlossen worden sind, findet § 130a Absatz 8 Satz 10
+bis 12 und Absatz 8a keine Anwendung.
+
+
+### § 425 Evaluierung des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
+
+(1) Der Spitzenverband Bund der Krankenkassen hat dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2025 einen
+Bericht zur Umsetzung der durch das Arzneimittel-
+Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetz vom 19.
+Juli 2023 (BGBl. 2023 I Nr. 197) eingeführten, der Verbesserung der
+Arzneimittelversorgung dienenden Maßnahmen durch den Spitzenverband
+Bund der Krankenkassen, die Krankenkassen oder ihre Verbände sowie zu
+den Auswirkungen der durch die Artikel 1 bis 4 des Arzneimittel-
+Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
+eingeführten Änderungen des Arzneimittelgesetzes, dieses Gesetzes, des
+Apothekengesetzes und der Apothekenbetriebsordnung auf die Ausgaben
+der Krankenkassen, die Zusammensetzung der Lose nach § 130a Absatz 8a
+und auf die Auswirkungen der Änderungen der Freistellung von der
+Zuzahlung vorzulegen.
+
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2025 einen
+Bericht darüber vorzulegen, wie sich die durch die Artikel 1 bis 4 des
+Arzneimittel-Lieferengpassbekämpfungs- und
+Versorgungsverbesserungsgesetzes eingeführten Änderungen des
+Arzneimittelgesetzes, dieses Gesetzes, des Apothekengesetzes und der
+Apothekenbetriebsordnung auf die Versorgungslage mit Arzneimitteln
+ausgewirkt haben. Soweit Arzneimittel im Zuständigkeitsbereich des
+Paul-Ehrlich-Instituts betroffen sind, ist der Bericht im Einvernehmen
+mit dem Paul-Ehrlich-Institut zu erstellen.
+
+(3) Abweichend von den Absätzen 1 und 2 sind die dort genannten
+Berichte hinsichtlich der Änderungen des § 130a Absatz 8 bis 8b
+jeweils bis zum 31. Dezember 2025 und bis zum 31. Dezember 2028
+vorzulegen.
 
 (zu § 307 Absatz 1 Satz 3 SGB V)
 

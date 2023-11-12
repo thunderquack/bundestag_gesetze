@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1416
 
 Zuletzt geändert durch
-:   Art. 24 G v. 9.6.2021 I 1614
-
-Änderung durch
-:   Art. 8 Abs. 1 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 1 G v. 27.9.2021 I 4530
 
 
 ## - - Errichtung von Bundesinstituten, Aufgabenstellung, Kostenerhebung, Dienstverhältnisse von Beamten und Arbeitnehmern

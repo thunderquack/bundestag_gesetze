@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 2247
 
 Zuletzt geändert durch
-:   Art. 5 V v. 2.12.2016 I 2770
-
-Änderung durch
-:   Art. 3 Abs. 2 V v. 6.7.2021 I 2514 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 2 V v. 6.7.2021 I 2514
 
 
 ## § 1 Begriffsbestimmung

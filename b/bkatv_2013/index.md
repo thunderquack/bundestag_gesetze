@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.10.2021 I 4688
+:   Art. 3 V v. 28.8.2023 I Nr. 236
 
 
 ## Eingangsformel
@@ -4232,6 +4232,17 @@ Abschnitt I
     *   20 €
 
 
+*    *   128a
+
+    *   Weisung eines Transportbegleiters bei einem Großraum- oder
+        Schwertransport nicht befolgt
+
+    *   § 36a Satz 1,
+        § 49 Absatz 3 Nummer 1
+
+    *   20 €
+
+
 *    *   129
 
     *   Zeichen oder Haltgebot eines Polizeibeamten nicht
@@ -4239,6 +4250,17 @@ Abschnitt I
 
     *   § 36 Absatz 1 Satz 1,
         Absatz 2, Absatz 4, Absatz 5 Satz 4
+        § 49 Absatz 3 Nummer 1
+
+    *   70 €
+
+
+*    *   129a
+
+    *   Zeichen eines Transportbegleiters bei einem Großraum- oder
+        Schwertransport nicht befolgt
+
+    *   § 36a Satz 1,
         § 49 Absatz 3 Nummer 1
 
     *   70 €
@@ -5787,13 +5809,14 @@ Abschnitt I
 
 *    *   174
 
-    *   Die Zulassungsbescheinigung Teil I oder sonstige
+    *   Die Zulassungsbescheinigung Teil I oder sonstige
         Bescheinigung nicht mitgeführt
 
-    *   § 4 Absatz 5 Satz 1
-        § 11 Absatz 6
-        § 26 Absatz 1 Satz 6
-        § 48 Nummer 5
+    *   § 4 Absatz 5 Satz 1
+        § 13 Absatz 6 Satz 1
+        § 31 Satz 3
+        § 52 Absatz 1 Satz 6
+        § 77 Nummer 4
 
     *   10 €
 
@@ -5806,13 +5829,13 @@ Abschnitt I
 
 *    *   175
 
-    *   Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EG-
+    *   Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EU-
         Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer
         öffentlichen Straße in Betrieb gesetzt
 
-    *   § 3 Absatz 1 Satz 1
-        § 4 Absatz 1
-        § 48 Nummer 1
+    *   § 3 Absatz 1 Satz 1
+        § 4 Absatz 1
+        § 77 Nummer 1
 
     *   70 €
 
@@ -5826,11 +5849,11 @@ Abschnitt I
         mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen
         Straße in Betrieb gesetzt
 
-    *   § 8 Absatz 1a Satz 6
-        § 9 Absatz 3 Satz 5
-        § 16a Absatz 4 Satz 3
-        § 19 Absatz 1 Nummer 4 Satz 3
-        § 48 Nummer 1
+    *   § 9 Absatz 2 Satz 6 Nummer 1
+        § 10 Absatz 3 Satz 6 Nummer 1
+        § 42 Absatz 4 Satz 3
+        § 45 Absatz 2 Satz 5
+        § 77 Nummer 1
 
     *   50 €
 
@@ -5838,12 +5861,11 @@ Abschnitt I
 *    *   176
 
     *   Das vorgeschriebene Kennzeichen an einem von der Zulassungspflicht
-        ausgenommenen Fahrzeug nicht
-        geführt
+        ausgenommenen Fahrzeug nicht geführt
 
-    *   § 4 Absatz 2 Satz 1,
-        Absatz 3 Satz 1, 2
-        § 48 Nummer 3
+    *   § 4 Absatz 2 Satz 1,
+        Absatz 3 Satz 1, 2
+        § 77 Nummer 1
 
     *   40 €
 
@@ -5852,12 +5874,12 @@ Abschnitt I
 
     *   Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen
         Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit einem
-        unvollständigem Wechselkennzeichen auf einer öffentlichen Straße
+        unvollständigen Wechselkennzeichen auf einer öffentlichen Straße
         abgestellt
 
-    *   § 8 Absatz 1a Satz 6
-        § 9 Absatz 3 Satz 5
-        § 48 Nummer 9
+    *   § 9 Absatz 2 Satz 6 Nummer 2
+        § 10 Absatz 3 Satz 6 Nummer 2
+        § 77 Nummer 10
 
     *   40 €
 
@@ -5880,8 +5902,10 @@ Abschnitt I
     *   Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen
         die Pflichten beim Erwerb des Fahrzeugs nicht beachtet
 
-    *   § 13 Absatz 1 Satz 5, auch i. V. m. Absatz 4 Satz 7, Absatz 3 Satz 2
-        § 48 Nummer 7
+    *   § 15 Absatz 1 Satz 5, auch
+        i. V. m. Absatz 4 Satz 2,
+        Absatz 5 Satz 8
+        § 77 Nummer 6
 
     *   40 €
 
@@ -5892,38 +5916,42 @@ Abschnitt I
         vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das
         Fehlen des vorgeschriebenen Kennzeichens
 
-    *   § 10 Absatz 12 i. V. m. § 10 Absatz 1, 2 Satz 2 und 3 Halbsatz 1,
-        Absatz 6, 7, 8 Halbsatz 1, Absatz 9 Satz 1 auch i. V. m.
-        § 16 Absatz 5 Satz 3
-        § 16a Absatz 3 Satz 4
-        § 17 Absatz 2 Satz 4
-        § 19 Absatz 1 Nummer 3 Satz 5
-        § 48 Nummer 1
+    *   § 12 Absatz 13 Satz 1
+        i. V. m. § 12 Absatz 1, 2
+        Satz 2 und 3,
+        Absatz 6, 7, 8, 9 Satz 1,
+        Absatz 10 Satz 1 auch
+        i. V. m. § 41 Absatz 6 Satz 3
+        § 42 Absatz 3 Satz 4
+        § 43 Absatz 2 Satz 5
+        § 45 Absatz 2 Satz 5
+        § 77 Nummer 1
 
     *   10 €
 
 
 *    *   179a
 
-    *   Fahrzeug in Betrieb genommen, obwohl das
-        vorgeschriebene Kennzeichen fehlt
+    *   Fahrzeug in Betrieb gesetzt, obwohl das vorgeschriebene Kennzeichen
+        fehlt
 
-    *   § 10 Absatz 12 i. V m. § 10
-        Absatz 5 Satz 1, Absatz 8
-        § 48 Nummer 1
+    *   § 12 Absatz 13 Satz 1
+        i. V. m. § 12 Absatz 5 Satz 1,
+        Absatz 9
+        § 77 Nummer 1
 
     *   60 €
 
 
 *    *   179b
 
-    *   Fahrzeug in Betrieb genommen, dessen Kennzeichen
-        mit Glas, Folien oder ähnlichen Abdeckungen versehen
-        ist
+    *   Fahrzeug in Betrieb gesetzt, dessen Kennzeichen mit Glas, Folien oder
+        ähnlichen Abdeckungen versehen ist
 
-    *   § 10 Absatz 12 i. V. m. § 10
-        Absatz 2 Satz 1, Absatz 8
-        § 48 Nummer 1
+    *   § 12 Absatz 13 Satz 1
+        i. V. m. § 12 Absatz 2 Satz 1,
+        Absatz 9
+        § 77 Nummer 1
 
     *   65 €
 
@@ -5931,11 +5959,11 @@ Abschnitt I
 *    *   179c
 
     *   Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb
-        genommen, ohne dass hierzu eine Berechtigung besteht und diese in der
-        Zulassungsbescheinigung Teil I eingetragen ist
+        gesetzt, ohne dass hierzu eine Berechtigung besteht und diese in der
+        Zulassungsbescheinigung Teil I eingetragen ist
 
-    *   § 10 Absatz 11 Satz 3
-        § 48 Nummer 9b
+    *   § 12 Absatz 12 Satz 3
+        § 77 Nummer 9
 
     *   10 €
 
@@ -5953,10 +5981,8 @@ Abschnitt I
         Verhältnisse, Wohnsitz- oder Sitzänderung des Halters,
         Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen
 
-    *   § 13 Absatz 1 Satz 1 bis 4,
-        Absatz 3 Satz 1,
-        Absatz 4 Satz 1 erster Halbsatz, Satz 3 oder 4
-        § 48 Nummer 12
+    *   § 15 Absatz 1 Satz 1 bis 3, Absatz 4 Satz 1, Absatz 5 Satz 1
+        § 77 Nummer 13 und Nummer 14
 
     *   15 €
 
@@ -5966,8 +5992,9 @@ Abschnitt I
     *   Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb
         setzen lassen
 
-    *   § 15 Absatz 1 Satz 1, Absatz 2 Satz 1
-        § 48 Nummer 8 Buchstabe b
+    *   § 17 Absatz 1 Satz 1,
+        Absatz 2 Satz 1
+        § 77 Nummer 7
 
     *   15 €
 
@@ -5984,19 +6011,19 @@ Abschnitt I
         ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen
         zugeteilten Kennzeichen) angebracht
 
-    *   § 15i Absatz 5 Satz 1
-        § 48 Nummer 14
+    *   § 26 Absatz 5 Satz 1
+        § 77 Nummer 20
 
     *   40 €
 
 
 *    *   180c
 
-    *   Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem
-        zugehörigen zugeteilten Kennzeichen angebracht
+    *   Als Halter einen Plakettenträger auf einem Kennzeichenschild mit einem
+        anderen als dem zugehörigen zugeteilten Kennzeichen angebracht
 
-    *   § 15i Absatz 5 Satz 2
-        § 48 Nummer 14a
+    *   § 26 Absatz 5 Satz 2
+        § 77 Nummer 21
 
     *   65 €
 
@@ -6007,21 +6034,21 @@ Abschnitt I
         anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten
         Kennzeichen in Betrieb gesetzt
 
-    *   § 15i Absatz 5 Satz 3
-        § 48 Nummer 1 Buchstabe c
+    *   § 26 Absatz 5 Satz 3
+        § 77 Nummer 1
 
     *   70 €
 
 
 *    *   180e
 
-    *   Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür
+    *   Als Halter die Inbetriebsetzung eines Fahrzeuges ohne die dafür
         übersandten Plakettenträger oder mit einem anderen als den
         angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen
         zugelassen oder angeordnet
 
-    *   § 15i Absatz 5 Satz 4
-        § 48 Nummer 2
+    *   § 26 Absatz 5 Satz 4
+        § 77 Nummer 2
 
     *   70 €
 
@@ -6037,8 +6064,8 @@ Abschnitt I
     *   Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder
         das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben
 
-    *   § 16 Absatz 2 Satz 3, 7
-        § 48 Nummer 15, 18
+    *   § 41 Absatz 3 Satz 1, 6
+        § 77 Nummern 23 und 25
 
     *   10 €
 
@@ -6059,11 +6086,12 @@ Abschnitt I
 
 *    *   182
 
-    *   Kurzzeitkennzeichen für unzulässige Fahrten oder an einem anderen
-        Fahrzeug verwendet
+    *   Kurzzeitkennzeichen oder Oldtimerkennzeichen für unzulässige Fahrten
+        oder an einem anderen Fahrzeug verwendet
 
-    *   § 16a Absatz 3 Satz 1
-        § 48 Nummer 18a
+    *   § 42 Absatz 3 Satz 1
+        § 43 Absatz 2 Satz 1
+        § 77 Nummer 26
 
     *   50 €
 
@@ -6071,11 +6099,10 @@ Abschnitt I
 *    *   183
 
     *   Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von
-        Aufzeichnungen über Prüfungs-, Probe- oder Überführungsfahrten
-        verstoßen
+        Aufzeichnungen über die Fahrten mit rotem Kennzeichen verstoßen
 
-    *   § 16 Absatz 2 Satz 5, 6
-        § 48 Nummer 6, 17
+    *   § 41 Absatz 3 Satz 3, 4 und 5
+        § 77 Nummer 5, 24
 
     *   25 €
 
@@ -6083,12 +6110,12 @@ Abschnitt I
 *    *   183a
 
     *   Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder
-        Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen nicht
+        Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen nicht
         mitgeführt
 
-    *   § 16 Absatz 2 Satz 4
-        § 17 Absatz 2 Satz 1
-        § 48 Nummer 5
+    *   § 41 Absatz 3 Satz 2
+        § 43 Absatz 2 Satz 2
+        § 77 Nummer 4
 
     *   10 €
 
@@ -6097,8 +6124,8 @@ Abschnitt I
 
     *   Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt
 
-    *   § 16a Absatz 5 Satz 3
-        § 48 Nummer 5
+    *   § 42 Absatz 5 Satz 3
+        § 77 Nummer 4
 
     *   20 €
 
@@ -6111,15 +6138,14 @@ Abschnitt I
 
 *    *   184
 
-    *   Fahrzeug in Betrieb genommen, dessen Versicherungskennzeichen oder
+    *   Fahrzeug in Betrieb gesetzt, dessen Versicherungskennzeichen oder
         -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist
         das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der
         vorgeschriebenen Versicherungsplakette
 
-    *   § 27 Absatz 7
-        § 29a Absatz 4
-        § 48 Nummer 1
-        Buchstabe c
+    *   § 53 Absatz 7
+        § 56 Absatz 4
+        § 77 Nummer 1
 
     *   10 €
 
@@ -6135,8 +6161,8 @@ Abschnitt I
     *   Zulassungsbescheinigung oder die Übersetzung des ausländischen
         Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt
 
-    *   § 20 Absatz 5
-        § 48 Nummer 5
+    *   § 46 Absatz 6
+        § 77 Nummer 4
 
     *   10 €
 
@@ -6144,13 +6170,13 @@ Abschnitt I
 *    *   185a
 
     *   An einem ausländischen Kraftfahrzeug oder ausländischen
-        Kraftfahrzeuganhänger das heimische
-        Kennzeichen oder das Unterscheidungszeichen unter Verstoß gegen eine
-        Vorschrift über deren Anbringung geführt
+        Kraftfahrzeuganhänger das heimische Kennzeichen oder das
+        Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren
+        Anbringung geführt
 
-    *   § 21 Absatz 1 Satz 1
-        Halbsatz 2, Absatz 2 Satz 1 Halbsatz 2
-        § 48 Nummer 19
+    *   § 47 Absatz 1 Satz 1,
+        Absatz 2 Satz 1
+        § 77 Nummer 27
 
     *   10 €
 
@@ -6158,12 +6184,11 @@ Abschnitt I
 *    *   185b
 
     *   An einem ausländischen Kraftfahrzeug oder ausländischen
-        Kraftfahrzeuganhänger das vorgeschriebene
-        heimische Kennzeichen nicht geführt
+        Kraftfahrzeuganhänger das vorgeschriebene heimische Kennzeichen nicht
+        geführt
 
-    *   § 21 Absatz 1 Satz 1
-        Halbsatz 1
-        § 48 Nummer 19
+    *   § 47 Absatz 1 Satz 1
+        § 77 Nummer 27
 
     *   40 €
 
@@ -6173,9 +6198,8 @@ Abschnitt I
     *   An einem ausländischen Kraftfahrzeug oder ausländischen
         Kraftfahrzeuganhänger das Unterscheidungszeichen nicht geführt
 
-    *   § 21 Absatz 2 Satz 1
-        Halbsatz 1
-        § 48 Nummer 19
+    *   § 47 Absatz 2 Satz 1
+        § 77 Nummer 27
 
     *   15 €
 
@@ -7217,7 +7241,9 @@ Abschnitt I
     *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und
         dadurch die Umwelt wesentlich beeinträchtigt
 
-    *
+    *   § 19 Absatz 5 Satz 1
+        § 69a Absatz 2 Nummer 1a
+
     *
 
 *    *   214b.1
@@ -8332,45 +8358,31 @@ Abschnitt II
 
 *    *   252
 
-    *   Die Zulassungsbescheinigung Teil I oder sonstige
-        Bescheinigung auf Verlangen nicht ausgehändigt
+    *   Die Zulassungsbescheinigung Teil I oder sonstige
+        Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie
+        vorgeschrieben ausgelegt
 
-    *   § 4 Absatz 5 Satz 1
-        § 11 Absatz 6
-        § 26 Absatz 1 Satz 6
-        § 48 Nummer 5
+    *   § 4 Absatz 5 Satz 1
+        § 13 Absatz 6 Satz 1
+        § 28 Satz 2
+        § 31 Satz 3
+        § 32 Absatz 2
+        § 52 Absatz 1 Satz 6
+        § 77 Nummer 4 und Nummer 22
 
     *   10 €
 
-
-*    *
-    *   Betriebsverbot und Beschränkungen ****
-
-    *
-    *
 
 *    *   253
 
     *   Einem Verbot, ein Fahrzeug in Betrieb zu setzen,
         zuwidergehandelt oder Beschränkung nicht beachtet
 
-    *   § 5 Absatz 1
-        § 48 Nummer 7
+    *   § 5 Absatz 1
+        § 77 Nummer 6
 
     *   70 €
 
-
-*    *
-    *   **d) Straßenverkehrs-Zulassungs-Ordnung**
-
-    *
-    *
-
-*    *
-    *   **Erlöschen der Betriebserlaubnis**
-
-    *
-    *
 
 *    *   253a
 

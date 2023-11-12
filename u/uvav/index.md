@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 2002, 554
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.12.2016 I 3097
+:   Art. 2 V v. 17.7.2023 I Nr. 192
+
+V aufgeh. durch
+:   Art. 3 Satz 2 V v. 17.7.2023 I Nr. 192 mWv 1.1.2024
+
+Ersetzt durch
+:   V 860-7-8 v. 17.7.2023 I Nr. 192 (UVAV 2024)
 
 
 ## Eingangsformel
@@ -52,7 +58,12 @@ anzuzeigen.
 (1) Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte haben bei
 begründetem Verdacht auf das Vorliegen einer Berufskrankheit die
 Anzeige nach § 202 Satz 1 des Siebten Buches Sozialgesetzbuch auf
-einem Vordruck nach dem Muster der Anlage 3 zu erstatten.
+einem Vordruck nach dem Muster der Anlage 3 zu erstatten. Sofern die
+in der Anzeige aufgeführten Daten dem zuständigen Träger der
+gesetzlichen Unfallversicherung durch die Ärztinnen und Ärzte sowie
+die Zahnärztinnen und Zahnärzte bereits im Rahmen eines anderen
+Meldeverfahrens übermittelt worden sind, ist eine erneute Übermittlung
+der Daten durch eine Anzeige nach Satz 1 entbehrlich.
 
 (2) Die Unternehmer haben bei Anhaltspunkten für das Vorliegen einer
 Berufskrankheit die Anzeige nach § 193 Abs. 2 des Siebten Buches

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1471
 
 Zuletzt geändert durch
-:   Art. 8 G v. 27.7.2021 I 3274
+:   Art. 2 Abs. 22 G v. 20.12.2022 I 2752
 
 
 ## Eingangsformel
@@ -433,11 +433,8 @@ Unberührt bleiben die Vorschriften des Lebensmittelrechts, soweit
 nicht Vorschriften dieses Gesetzes entgegenstehen.
 
 
-### § 15 Verkündung von Rechtsverordnungen
+### § 15 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 16 Inkrafttreten, abgelöste Vorschriften

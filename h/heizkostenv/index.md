@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1981, 261 (296)
 
 Neugefasst durch
-:   Bek. v. 5.10.2009 I 3250
+:   Bek. v. 5.10.2009 I 3250;
+
+Geändert durch
+:   Art. 1 V v. 24.11.2021 I 4964
 
 Änderung durch
-:   Art. 1 V v. 24.11.2021 I 4964 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 16.10.2023 I Nr. 280 mWv 1.10.2024 noch nicht berücksichtigt
 
 
 ## § 1 Anwendungsbereich
@@ -685,9 +688,91 @@ angegeben werden, können hilfsweise folgende Werte verwendet werden:
 
 
 Soweit die Abrechnung über Kilowattstunden-Werte erfolgt, ist eine
-Umrechnung in Brennstoffverbrauch nicht erforderlich. Enthalten die
-Abrechnungsunterlagen des Energieversorgungsunternehmens oder
-Brennstofflieferanten H
+Umrechnung in Brennstoffverbrauch nicht erforderlich. Als H
+i             -Werte können verwendet werden für
+
+*    *   Leichtes Heizöl EL
+
+    *   10
+
+    *   kWh/l
+
+
+*    *   Schweres Heizöl
+
+    *   10,9
+
+    *   kWh/l
+
+
+*    *   Erdgas H
+
+    *   10
+
+    *   kWh/m
+        3
+
+
+*    *   Erdgas L
+
+    *   9
+
+    *   kWh/m
+        3
+
+
+*    *   Flüssiggas
+
+    *   13
+
+    *   kWh/kg
+
+
+*    *   Koks
+
+    *   8
+
+    *   kWh/kg
+
+
+*    *   Braunkohle
+
+    *   5,5
+
+    *   kWh/kg
+
+
+*    *   Steinkohle
+
+    *   8
+
+    *   kWh/kg
+
+
+*    *   Holz (lufttrocken)
+
+    *   4,1
+
+    *   kWh/kg
+
+
+*    *   Holzpellets
+
+    *   5
+
+    *   kWh/kg
+
+
+*    *   Holzhackschnitzel
+
+    *   650
+
+    *   kWh/SRm.
+
+
+
+Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens
+oder Brennstofflieferanten H
 i             -Werte, so sind diese zu verwenden. Soweit die
 Abrechnung über kWh-Werte erfolgt, ist eine Umrechnung in
 Brennstoffverbrauch nicht erforderlich.

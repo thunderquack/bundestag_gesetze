@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 687
 
 Zuletzt geändert durch
-:   Art. 50 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 81 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 81 G v. 20.8.2021 I 3932
 
 Änderung der inhaltsübersicht durch
 :   Art. 50 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat

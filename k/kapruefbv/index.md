@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2013, 2777
 
 Zuletzt geändert durch
-:   Art. 10 G v. 19.3.2020 I 529
-
-Änderung durch
-:   Art. 17 Abs. 4 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 Abs. 4 G v. 3.6.2021 I 1498
 
 
 ## Eingangsformel
@@ -102,7 +99,7 @@ Ermessen des Abschlussprüfers und hat der Bedeutung der dargestellten
 Vorgänge zu entsprechen. Über bedeutsame Veränderungen gegenüber dem
 letzten Berichtszeitraum ist stets zu berichten.
 
-[^F816665_02_BJNR277700013BJNE000501123]
+[^F816665_01_BJNR277700013BJNE000501123]
 (5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu
 unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die
 insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit
@@ -111,13 +108,10 @@ Bundesanstalt ausschließlich elektronisch über ein von ihr
 bereitgestelltes elektronisches Kommunikationsverfahren
 zu übermitteln. Berichte über die Prüfung von Spezial-AIF sind der
 Bundesanstalt nur einzureichen, wenn diese das verlangt.
-[^F816665_01_BJNR277700013BJNE000501123]
 
     Amtlicher Hinweis: Im Internet abrufbar unter
     https://portal.mvp.bafin.de/MvpPortalWeb/app/login.html
-[^F816665_01_BJNR277700013BJNE000501123]:     Amtlicher Hinweis: Im Internet abrufbar unter
-    https://portal.mvp.bafin.de/MvpPortalWeb/app/login.html
-[^F816665_02_BJNR277700013BJNE000501123]: 
+[^F816665_01_BJNR277700013BJNE000501123]: 
 
 ### § 4 Anlagen und Unzulässigkeit von Verweisungen
 

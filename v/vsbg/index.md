@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 254 (1039)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 G v. 25.6.2020 I 1474
+:   Art. 16 G v. 8.10.2023 I Nr. 272
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -308,11 +308,11 @@ wenn der Träger der Verbraucherschlichtungsstelle
 
 
 
-Der Verbraucherverband muss eine qualifizierte Einrichtung nach § 3
-Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sein und sich
-für die Vertretung von Verbraucherinteressen im Zuständigkeitsbereich
-der Verbraucherschlichtungsstelle fachlich eignen. Die Beteiligung ist
-in den Regeln über die Organisation der Verbraucherschlichtungsstelle
+Der Verbraucherverband muss eine Stelle nach § 3 Absatz 1 Satz 1
+Nummer 1 des Unterlassungsklagengesetzes sein und sich für die
+Vertretung von Verbraucherinteressen im Zuständigkeitsbereich der
+Verbraucherschlichtungsstelle fachlich eignen. Die Beteiligung ist in
+den Regeln über die Organisation der Verbraucherschlichtungsstelle
 vorzusehen.
 
 (2) Ist der Träger der Verbraucherschlichtungsstelle ein
@@ -384,10 +384,10 @@ Streitbeilegungsverfahrens ab, wenn
     gemacht worden ist,
 
 
-3.  der streitige Anspruch oder das Rechtsverhältnis des Verbrauchers, das
-    den Gegenstand des Streitbeilegungsverfahrens bildet, zum
-    Klageregister nach § 608 Absatz 1 der Zivilprozessordnung angemeldet
-    ist und die Musterfeststellungsklage noch rechtshängig ist, oder
+3.  Ansprüche oder Rechtsverhältnisse, die Gegenstand des
+    Streitbeilegungsverfahrens sind, zu einer Musterfeststellungsklage
+    oder einer Abhilfeklage im Verbandsklageregister angemeldet wurden und
+    die Klage noch rechtshängig ist,
 
 
 4.  der Antrag offensichtlich ohne Aussicht auf Erfolg ist oder mutwillig
@@ -772,10 +772,11 @@ Rechtsvorschriften ergeben, bleiben unberührt.
 1.  selbst eine behördliche Universalschlichtungsstelle errichten,
 
 
-2.  eine geeignete anerkannte Verbraucherschlichtungsstelle mit der
-    Aufgabe der Universalschlichtungsstelle einschließlich der Befugnis,
-    für die Durchführung des Streitbeilegungsverfahrens Gebühren zu
-    erheben, beleihen oder
+2.  eine geeignete anerkannte Verbraucherschlichtungsstelle oder den
+    Träger einer bereits eingerichteten Universalschlichtungsstelle mit
+    der Aufgabe der Universalschlichtungsstelle einschließlich der
+    Befugnis, für die Durchführung des Streitbeilegungsverfahrens Gebühren
+    zu erheben, beleihen oder
 
 
 3.  eine geeignete anerkannte Verbraucherschlichtungsstelle mit der
@@ -809,12 +810,13 @@ Streitigkeiten durch:
 
 
 2.  Streitigkeiten, zu welchen in einem rechtskräftigen Urteil über eine
-    Musterfeststellungsklage nach § 613 Absatz 1 Satz 1 der
-    Zivilprozessordnung oder einem Vergleich nach § 611 Absatz 1 der
-    Zivilprozessordnung bindende Feststellungen getroffen wurden und zu
-    denen die streitgegenständlichen Ansprüche oder Rechtsverhältnisse des
-    Verbrauchers nach § 608 Absatz 1 der Zivilprozessordnung zum
-    Klageregister wirksam angemeldet waren.
+    Musterfeststellungsklage nach § 1 Absatz 1 Nummer 2 des
+    Verbraucherrechtedurchsetzungsgesetzes oder in einem Vergleich nach §
+    9 des Verbraucherrechtedurchsetzungsgesetzes bindende Feststellungen
+    getroffen werden und zu denen die streitgegenständlichen Ansprüche
+    oder Rechtsverhältnisse nach § 46 des
+    Verbraucherrechtedurchsetzungsgesetzes zum Verbandsklageregister
+    angemeldet waren.
 
 
 
@@ -847,12 +849,10 @@ eines Streitbeilegungsverfahrens ab, wenn
     50 000 Euro beträgt,
 
 
-5.  der streitige Anspruch oder das Rechtsverhältnis des Verbrauchers, das
-    den Gegenstand des Streitbeilegungsverfahrens bildet, zum
-    Klageregister einer Musterfeststellungsklage nach § 608 der
-    Zivilprozessordnung angemeldet ist oder während des
-    Streitbeilegungsverfahrens wirksam angemeldet wird und die
-    Musterfeststellungsklage noch rechtshängig ist,
+5.  die streitigen Ansprüche oder Rechtsverhältnisse, die den Gegenstand
+    des Streitbeilegungsverfahrens bilden, zu einer Abhilfeklage oder
+    einer Musterfeststellungsklage im Verbandsklageregister angemeldet
+    wurden und die Klage noch rechtshängig ist,
 
 
 6.  der streitige Anspruch nicht zuvor gegenüber dem Unternehmer geltend

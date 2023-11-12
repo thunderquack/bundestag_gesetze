@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2479
 
-Geändert durch
-:   Art. 3 V v. 7.7.2021 I 3547
+Zuletzt geändert durch
+:   Art. 3 V v. 16.12.2022 I 2866
 
 [^F1_813875_BJNR247900020]:     Diese Verordnung ersetzt die Verordnung über den Vorbereitungsdienst
     für den gehobenen technischen Verwaltungsdienst des Bundes im
@@ -68,7 +68,7 @@ Informationstechnikzentrum Bund im Benehmen mit der Universität.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -401,7 +401,7 @@ Tarifbeschäftigte sein, die über eine entsprechende Qualifikation
 verfügen.
 
 (2a) Das Informationstechnikzentrum Bund kann festlegen, dass bis zum
-31\. Dezember 2022 eine Auswahlkommission – abweichend von Absatz 2
+31\. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2
 Satz 1 – nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des höheren Dienstes des Bundes als
@@ -436,11 +436,6 @@ Unterstützung von Informationstechnik durchgeführt werden. Mit der
 Durchführung des schriftlichen Teils können Dritte betraut werden. Die
 Gesamtverantwortung für die Bewertung der Leistungen trägt die
 Auswahlkommission.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
-werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
-stehen.
 
 (2) Das Informationstechnikzentrum Bund legt die Dauer, die zu
 bearbeitenden Aufgaben und den Ablauf des Auswahlverfahrens, die

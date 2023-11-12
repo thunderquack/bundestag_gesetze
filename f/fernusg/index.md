@@ -146,9 +146,9 @@ Bürgerlichen Gesetzbuche zu informieren hat, in der Regel insbesondere
 
 Bei einem Fernunterrichtsvertrag nach § 3 Absatz 2 steht dem
 Teilnehmer ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs
-zu. Die §§ 356 und 357 des Bürgerlichen Gesetzbuchs sind entsprechend
-anzuwenden. Für finanzierte Fernunterrichtsverträge ist § 358 des
-Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
+zu. Die §§ 356, 357 und 357a des Bürgerlichen Gesetzbuchs sind
+entsprechend anzuwenden. Für finanzierte Fernunterrichtsverträge ist §
+358 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
 
 ### § 5 Kündigung
@@ -404,7 +404,7 @@ durch Übermittlung von Informationsmaterial einen vollständigen
 Überblick über die Vertragsbedingungen und die Anforderungen an den
 Teilnehmer zu geben. Das Informationsmaterial muss insbesondere einen
 vollständigen Überblick über die in Artikel 246a § 1 Absatz 1 Satz 1
-Nummer 1, 4 bis 7 und 11 des Einführungsgesetzes zum Bürgerlichen
+Nummer 1, 5 bis 10 und 14 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche genannten Angaben, über die Gültigkeitsdauer des Angebots
 und über das Widerrufsrecht des Teilnehmers enthalten.
 

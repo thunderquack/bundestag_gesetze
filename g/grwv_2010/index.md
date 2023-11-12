@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1513
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.5.2017 I 1044
+:   Art. 1 V v. 12.10.2022 I 1802
 
 [^F1_774693_BJNR151300010]:     Diese Verordnung dient der Umsetzung der
     –                                    Richtlinie 2000/60/EG des
@@ -81,7 +81,16 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 4.  Eintrag
 
     eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer
-    2 bis 4 des Wasserhaushaltsgesetzes.
+    2 bis 4 des Wasserhaushaltsgesetzes;
+
+
+5.  denitrifizierende Verhältnisse
+
+    Verhältnisse, bei denen die für den Denitrifikationsprozess im
+    Grundwasser erforderlichen natürlichen Bedingungen gegeben sind; dies
+    sind insbesondere das Vorliegen sauerstoffarmer Verhältnisse und das
+    Vorhandensein von Abbauprodukten von Denitrifikationsprozessen im
+    Grundwasser wie gelöstes Eisen(II) oder Sulfat.
 
 
 
@@ -857,12 +866,13 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 Schwellenwerte
 
-(Fundstelle: BGBl. I 2017, 1045 - 1046)
+(Fundstelle: BGBl. I 2017, 1045 - 1046;
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 
 *    *   Stoffe und Stoffgruppen
 
-    *[^F798335_11_BJNR151300010BJNE002001118]
+    *[^F798335_11_BJNR151300010BJNE002002130]
    CAS-Nr.
 
     *   Schwellenwert
@@ -875,17 +885,18 @@ Der Bundesrat hat zugestimmt.
 
     *   14797-55-8
 
-    *   50 mg/l
+    *[^F798335_16_BJNR151300010BJNE002002130]
+   50 mg/l
 
     *   Grundwasserqualitätsnorm gemäß Richtlinie 2006/118/EG
 
 
-*    *[^F798335_12_BJNR151300010BJNE002001118]
+*    *[^F798335_12_BJNR151300010BJNE002002130]
    Wirkstoffe in Pflanzenschutzmitteln einschließlich der relevanten
         Metaboliten
-[^F798335_15_BJNR151300010BJNE002001118]
+[^F798335_15_BJNR151300010BJNE002002130]
         ,
-[^F798335_13_BJNR151300010BJNE002001118]
+[^F798335_13_BJNR151300010BJNE002002130]
         , Biozid-Wirkstoffe einschließlich relevanter Stoffwechsel- oder
         Abbau- bzw. Reaktionsprodukte sowie bedenkliche Stoffe in
         Biozidprodukten
@@ -894,7 +905,7 @@ Der Bundesrat hat zugestimmt.
     *   –
 
     *   jeweils 0,1 μg/l
-[^F798335_14_BJNR151300010BJNE002001118]
+[^F798335_14_BJNR151300010BJNE002002130]
         insgesamt
         0,5 μg/l
 
@@ -1009,30 +1020,41 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    Chemical Abstracts Service, Internationale Registrierungsnummer für
+[^F798335_11_BJNR151300010BJNE002002130]:     Chemical Abstracts Service, Internationale Registrierungsnummer für
     chemische Stoffe.
-[^F798335_11_BJNR151300010BJNE002001118]:     Nach Artikel 2 Absatz 2 und Artikel 3 Nummer 32 der Verordnung (EG)
+[^F798335_12_BJNR151300010BJNE002002130]:     Nach Artikel 2 Absatz 2 und Artikel 3 Nummer 32 der Verordnung (EG)
     Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21.
     Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und
     zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates
     (ABl. L 309 vom 24.11.2009, S. 1), die zuletzt durch die Verordnung
     (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden
     ist, in der jeweils geltenden Fassung.
-[^F798335_12_BJNR151300010BJNE002001118]:     Nach Artikel 3 Absatz 1 Buchstabe f) der Verordnung (EU) Nr. 528/2012
+[^F798335_13_BJNR151300010BJNE002002130]:     Nach Artikel 3 Absatz 1 Buchstabe f) der Verordnung (EU) Nr. 528/2012
     des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die
     Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten
     (ABl. L 167 vom 27.6.2012, S. 1) in der jeweils geltenden Fassung.
-[^F798335_13_BJNR151300010BJNE002001118]:     „Insgesamt“ bedeutet die Summe aller einzelnen bei dem
+[^F798335_14_BJNR151300010BJNE002002130]:     „Insgesamt“ bedeutet die Summe aller einzelnen bei dem
     Überwachungsverfahren nachgewiesenen und mengenmäßig bestimmten
     Wirkstoffgehalte von Pflanzenschutzmitteln und Biozidprodukten,
     einschließlich relevanter Stoffwechsel-, Abbau- und Reaktionsprodukte
     sowie bedenklicher Stoffe in Biozid-Produkten.
-[^F798335_14_BJNR151300010BJNE002001118]:     Die betroffenen Stoffe und Stoffgruppen sind nach Membranfiltration
+[^F798335_15_BJNR151300010BJNE002002130]:     Die betroffenen Stoffe und Stoffgruppen sind nach Membranfiltration
     mit geeignetem Material mit einer Porengröße von 0,45 µm zu
     analysieren. Die Membranfiltration kann entfallen, wenn die direkte
     Gewinnung der Proben aus dem Grundwasser zu vergleichbaren Ergebnissen
     führt.
-[^F798335_15_BJNR151300010BJNE002001118]: 
+[^F798335_16_BJNR151300010BJNE002002130]:     Liegen keine denitrifizierenden Verhältnisse vor, so ist der gemessene
+    Nitratgehalt im Grundwasser maßgeblich. Liegen denitrifizierende
+    Verhältnisse vor, so ist der maßgebliche Wert die Summe aus dem
+    gemessenen Nitratgehalt im Grundwasser und dem ermittelten
+    Denitrifikationswert. Der Denitrifikationswert ist der Wert, der
+    angibt, wie viel Nitrat im Grundwasser bereits abgebaut worden ist. Er
+    ist mit der besten verfügbaren Methode spätestens bis zum Ablauf des
+    22\. Dezember 2025 erstmalig zu ermitteln. Die Parameter, die zur
+    Ermittlung des Denitrifikationswertes erforderlich sind, müssen in
+    Proben analysiert werden, die zeitgleich mit den Proben zur Bestimmung
+    des Nitratgehalts dem Grundwasser entnommen worden sind.
+
 (zu § 9 Absatz 1)
 
 ## Anlage 3 Überwachung des mengenmäßigen Grundwasserzustands

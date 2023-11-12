@@ -16,14 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 490
 
-Geändert durch
-:   Art. 4 V v. 17.11.2011 I 2234
-
-Änderung durch
-:   Art. 1 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 Abs. 33 V v. 18.1.2022 I 39 ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 2 Abs. 33 V v. 18.1.2022 I 39
 
 
 

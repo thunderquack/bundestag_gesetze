@@ -17,13 +17,10 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V2
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 1 V v. 20.3.2019 BAnz AT 26.03.2019 V1
-
-Änderung durch
-:   Art. 2 V v. 25.10.2021 BAnz AT 29.10.2021 V2 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 25.10.2021 BAnz AT 29.10.2021 V2
 
 
-## Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+## Anlage I Prüfvereinbarung
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -4557,7 +4554,14 @@ Wirkbetriebssystem.
 
 Die Systeme sind über die technischen Schnittstellen gekoppelt.
 Die folgende Abbildung veranschaulicht die verwendete Prüfumgebung:
-![banzat_2021_20211029v2_03.jpg](banzat_2021_20211029v2_03.jpg)
+
+*    *        ![banzat_2021_20211029v2_03.jpg](banzat_2021_20211029v2_03.jpg)
+
+*    *   **Abbildung 2: Testumgebung Phase 1**
+
+
+
+
 
 1.  Die Testumgebung des Mauterhebers repräsentiert das EETS-Teilsystem
     des Mauterhebers, und umfasst die Schnittstellenprüfumgebung des

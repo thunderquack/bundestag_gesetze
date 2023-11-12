@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1946
 
 Zuletzt geändert durch
-:   Art. 11 G v. 11.2.2021 I 154; 2022 I 105
+:   Art. 32 G v. 20.12.2022 I 2759
 
 
 ## Eingangsformel
@@ -1943,7 +1943,7 @@ erhalten eine Abschrift der Niederschrift.
 #### § 61 Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
 
 (1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und
-macht es mit den in der Anlage 11 unter den Nummern 1 bis 6
+macht es mit den in der Anlage 11 unter den Nummern 1 bis 8
 bezeichneten Angaben öffentlich bekannt.
 
 (2) Der Wahlausschuß benachrichtigt die gewählten Bewerber und teilt
@@ -2240,7 +2240,7 @@ das Ergebnis des Ergänzungsverfahrens mit.
 das endgültige Wahlergebnis fest und macht es zusammen mit der
 Begründung nach § 52 Absatz 1a Satz 3 des Vierten Buches
 Sozialgesetzbuch öffentlich bekannt. Dabei sind Familienname, Vorname,
-Geburtsjahr und Anschrift der Mitglieder der Vertreterversammlung oder
+Geburtsjahr und Wohnort der Mitglieder der Vertreterversammlung oder
 des Verwaltungsrates, des Vorsitzenden der Vertreterversammlung oder
 des Verwaltungsrates, der Mitglieder des Vorstandes und des
 Vorsitzenden des Vorstandes sowie ihrer Stellvertreter anzugeben. Bei
@@ -2249,9 +2249,9 @@ oder im Vorstand ist auch anzugeben, für welche Zeiträume welche
 Personen den Vorsitz führen.
 
 (4) Bei Betriebskrankenkassen sind in der öffentlichen Bekanntmachung
-auch Familienname, Vorname, Geburtsjahr und Anschrift des Arbeitgebers
-oder seines Stellvertreters, der dem Verwaltungsrat angehört,
-anzugeben.
+auch Familienname, Vorname, Geburtsjahr und der Dienstort des
+Arbeitgebers oder seines Stellvertreters, der dem Verwaltungsrat
+angehört, anzugeben.
 
 (5) Der zuständige Landeswahlbeauftragte, der Bundeswahlbeauftragte
 und die Aufsichtsbehörde erhalten unverzüglich eine Abschrift der
@@ -2553,7 +2553,7 @@ Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz
 
 ### Anlage 2 (zu § 15 Absatz 1)
 
-(Fundstelle: BGBl. I 2021, 173 - 176)
+(Fundstelle: BGBl. I 2021, 173 - 176; 2022 I 105)
 
 
 
@@ -2583,15 +2583,518 @@ Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz
 
 ### Anlage 7 (zu § 41 Absatz 1)
 
-(Fundstelle: BGBl. I 2021, 184 - 185)
+(Fundstelle: BGBl. I 2021, 184 - 185; 2022 I 1539)
+
+Wahlausweis und Stimmzettel für die Wahl
+## **einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der
+Versicherten)**
 
 
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   (Bezeichnung des Versicherungsträgers)
+
+    *
+    *
+
+*    *
+    *
+    *   Gruppe der Versicherten
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   Wahlausweis
+für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
+im Jahr **
+
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   Herr/Frau \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+        __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+    *
+
+*    *
+    *   geb. am \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+        \_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+    *
+
+*    *
+    *   Straße \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\
+        _\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+    *
+
+*    *
+    *   Postleitzahl, Wohnort \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\
+        _\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+    *
+
+*    *
+    *
+    *
+    *
+
+
+   kann gegen Abgabe dieses Wahlausweises an der Wahl teilnehmen.
+
+
+*    *
+    *
+    *
+
+*    *
+    *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_, den
+        \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+    *
+
+*    *   (Stempel der
+        Ausgabestelle)
+
+    *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+        __\_\__\_\_
+        (Unterschrift der Ausstellerin/des Ausstellers)
+
+    *
+
+*    *
+    *
+    *
+
+
+   Verlorene Wahlausweise können nicht ersetzt werden.
+
+
+*    *
+    *
+    *
+
+*    *
+    *   Bitte Rückseite und das beigefügte Merkblatt beachten!
+
+    *
+
+*    *
+    *
+    *
+
+
+
+*    *   — — — — — — — — — — — — — — — — — — — — — — — hier abtrennen— — — — — 
+        — — — — — — — — — — — — — — — — — —
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   (Bezeichnung des Versicherungsträgers)
+
+    *
+    *
+
+*    *
+    *
+    *   Gruppe der Versicherten
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   Stimmzettel
+für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
+im Jahr **
+
+[^F823428_01a_BJNR194600997BJNE011104126]
+Die Listenträger stehen mit den Versicherungsträgern in keiner
+organisatorischen Verbindung. Dies gilt auch, wenn sie den Namen oder
+die Kurzbezeichnung der **              in ihrem Namen führen.
+
+*    *   Listen-
+        nummer
+
+    *   Verbunden
+        mit
+[^F823428_02a_BJNR194600997BJNE011104126]
+        Liste Nummer
+
+    *   Kennwort der Vorschlagsliste
+
+    *   Nur eine
+        Liste
+        ankreuzen
+
+
+*    *
+    *
+    *
+    *        ![bgbl1_2022_j1539-1_0010.jpg](bgbl1_2022_j1539-1_0010.jpg)
+
+*    *
+    *
+    *
+    *        ![bgbl1_2022_j1539-1_0020.jpg](bgbl1_2022_j1539-1_0020.jpg)
+
+
+   \_\_\__\_\__\_\_\_\_
+
+
+*    *   (Rückseite) Seite 2
+
+
+
+Der Stimmzettel darf nur von dem/der in dem Wahlausweis bezeichneten
+Wahlberechtigten gekennzeichnet werden. Wählerinnen und Wähler, die
+des Lesens unkundig oder durch körperliche Gebrechen an der
+Stimmabgabe gehindert sind, können sich bei der Kennzeichnung des
+Stimmzettels einer Person ihres Vertrauens bedienen.
+Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
+herbeiführt oder das Ergebnis verfälscht, wird nach § 107a in
+Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
+fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
+Zur Erstellung des Wahlausweises wurden die umseitigen, bei dem
+Aussteller des Wahlausweises gespeicherten Daten verarbeitet. Die
+Verarbeitung dient der ordnungsmäßen Durchführung der
+Sozialversicherungswahl und erfolgt auf Grundlage von Artikel 6 Absatz
+1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g der Datenschutz-
+Grundverordnung in Verbindung mit den §§ 54 und 55 des Vierten Buches
+Sozialgesetzbuch und § 33 der Wahlordnung für die Sozialversicherung.
+Die Frist für die Aufbewahrung der Wahlausweise richtet sich nach § 91
+der Wahlordnung für die Sozialversicherung: Wahlausweise werden
+frühestens zwei Monate nach Ablauf der nach § 57 Absatz 3 Satz 2 des
+Vierten Buches Sozialgesetzbuch für eine Wahlanfechtung gesetzten
+Frist vernichtet, im Falle einer Wahlanfechtung jedoch frühestens zwei
+Monate, nachdem die Entscheidung über die Wahlanfechtung rechtskräftig
+geworden ist. In begründeten Ausnahmenfällen können unter den in § 91
+Satz 3 der Wahlordnung für die Sozialversicherung genannten
+Voraussetzungen die Wahlausweise auch vor Ablauf der in diesen Fällen
+vorgesehenen Frist vernichtet werden.
+
+    Satz 2 entfällt, wenn in den Kennwörtern kein Name oder keine
+    Kurzbezeichnung eines Versicherungsträgers enthalten ist. Andernfalls
+    ist der Name dieses Versicherungsträgers/dieser Versicherungsträger
+    einzusetzen.
+[^F823428_01a_BJNR194600997BJNE011104126]:     Diese Spalte kann durch entsprechende Angaben in einer Fußnote ersetzt
+    werden, auf die durch eine Kennzeichnung der Listennummern hinzuweisen
+    ist.
+[^F823428_02a_BJNR194600997BJNE011104126]: 
 
 ### Anlage 8 (zu § 41 Absatz 1)
 
-(Fundstelle: BGBl. I 2021, 186 - 187)
+(Fundstelle: BGBl. I 2021, 186 - 187; 2022 I 1540)
+
+Wahlausweis und Stimmzettel für die Wahl
+## **einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der
+Arbeitgeber)**
 
 
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   (Bezeichnung des Versicherungsträgers)
+
+    *
+    *
+
+*    *
+    *
+    *   Gruppe der Versicherten
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   Wahlausweis
+für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
+im Jahr **
+
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   Herr/Frau \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+        __\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+    *
+
+*    *
+    *   Firma/Dienststelle \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+        _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+    *
+
+*    *
+    *   geb. am \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+        \_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+    *
+
+*    *
+    *   Straße \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\
+        _\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+    *
+
+*    *
+    *   Postleitzahl, Wohnort \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\
+        _\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+    *
+
+*    *
+    *
+    *
+    *
+
+
+   kann gegen Abgabe dieses Wahlausweises an der Wahl teilnehmen.
+
+
+*    *
+    *
+    *
+
+*    *
+    *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\_, den
+        \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+    *
+
+*    *   (Stempel der
+        Ausgabestelle)
+
+    *   \_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\
+        __\_\__\_\_
+        (Unterschrift der Ausstellerin/des Ausstellers)
+
+    *
+
+*    *
+    *
+    *
+
+
+   Verlorene Wahlausweise können nicht ersetzt werden.
+
+
+*    *
+    *
+    *
+
+*    *
+    *   Bitte Rückseite und das beigefügte Merkblatt beachten!
+
+    *
+
+*    *
+    *
+    *
+
+
+
+*    *   — — — — — — — — — — — — — — — — — — — — — — — hier abtrennen— — — — — 
+        — — — — — — — — — — — — — — — — — —
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   Wert
+
+    *
+    *   Stimmen
+
+    *
+
+*    *
+    *
+    *   (Bezeichnung des Versicherungsträgers)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Gruppe der Arbeitgeber
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+
+   Stimmzettel
+für die Wahl zur Vertreterversammlung/zum Verwaltungsrat
+im Jahr **
+
+[^F823428_01b_BJNR194600997BJNE011201126]
+Die Listenträger stehen mit den Versicherungsträgern in keiner
+organisatorischen Verbindung. Dies gilt auch, wenn sie den Namen oder
+die Kurzbezeichnung der **              in ihrem Namen führen.
+
+*    *   Listen-
+        nummer
+
+    *   Verbunden
+        mit
+[^F823428_02b_BJNR194600997BJNE011201126]
+        Liste Nummer
+
+    *   Kennwort der Vorschlagsliste
+
+    *   Nur eine
+        Liste
+        ankreuzen
+
+
+*    *
+    *
+    *
+    *        ![bgbl1_2022_j1539-1_0030.jpg](bgbl1_2022_j1539-1_0030.jpg)
+
+*    *
+    *
+    *
+    *        ![bgbl1_2022_j1539-1_0040.jpg](bgbl1_2022_j1539-1_0040.jpg)
+
+
+   \_\_\__\_\__\_\_\_\_
+
+
+*    *   (Rückseite) Seite 2
+
+
+
+Der Stimmzettel darf nur von dem/der in dem Wahlausweis bezeichneten
+Wahlberechtigten gekennzeichnet werden. Wählerinnen und Wähler, die
+des Lesens unkundig oder durch körperliche Gebrechen an der
+Stimmabgabe gehindert sind, können sich bei der Kennzeichnung des
+Stimmzettels einer Person ihres Vertrauens bedienen.
+Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
+herbeiführt oder das Ergebnis verfälscht, wird nach § 107a in
+Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
+fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
+Zur Erstellung des Wahlausweises wurden die umseitigen, bei dem
+Aussteller des Wahlausweises gespeicherten Daten verarbeitet. Die
+Verarbeitung dient der ordnungsmäßen Durchführung der
+Sozialversicherungswahl und erfolgt auf Grundlage von Artikel 6 Absatz
+1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g der Datenschutz-
+Grundverordnung in Verbindung mit den §§ 54 und 55 des Vierten Buches
+Sozialgesetzbuch und § 33 der Wahlordnung für die Sozialversicherung.
+Die Frist für die Aufbewahrung der Wahlausweise richtet sich nach § 91
+der Wahlordnung für die Sozialversicherung: Wahlausweise werden
+frühestens zwei Monate nach Ablauf der nach § 57 Absatz 3 Satz 2 des
+Vierten Buches Sozialgesetzbuch für eine Wahlanfechtung gesetzten
+Frist vernichtet, im Falle einer Wahlanfechtung jedoch frühestens zwei
+Monate, nachdem die Entscheidung über die Wahlanfechtung rechtskräftig
+geworden ist. In begründeten Ausnahmenfällen können unter den in § 91
+Satz 3 der Wahlordnung für die Sozialversicherung genannten
+Voraussetzungen die Wahlausweise auch vor Ablauf der in diesen Fällen
+vorgesehenen Frist vernichtet werden.
+
+    Satz 2 entfällt, wenn in den Kennwörtern kein Name oder keine
+    Kurzbezeichnung eines Versicherungsträgers enthalten ist. Andernfalls
+    ist der Name dieses Versicherungsträgers/dieser Versicherungsträger
+    einzusetzen.
+[^F823428_01b_BJNR194600997BJNE011201126]:     Diese Spalte kann durch entsprechende Angaben in einer Fußnote ersetzt
+    werden, auf die durch eine Kennzeichnung der Listennummern hinzuweisen
+    ist.
+[^F823428_02b_BJNR194600997BJNE011201126]: 
 
 ### Anlage 9 (zu § 41 Absatz 4)
 

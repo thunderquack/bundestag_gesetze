@@ -19,64 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 6 G v. 7.5.2021 I 850
-
-Änderung durch
-:   Art. 1 G v. 4.5.2021 I 882 (Nr. 21) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 12.5.2021 I 1082 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 3.6.2021 I 1444 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 29 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 25.6.2021 I 2114 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 25.6.2021 I 2123; 2022 I 105 (aus 2021 Nr. 37 u. aus 2022 Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 25.6.2021 I 2133 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 16.7.2021 I 2947 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 16.7.2021 I 2947 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3433 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3483 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3515 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 21.12.2021 I 5252 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 25.10.2023 I Nr. 294
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -421,7 +364,19 @@ Gültigkeit des Beschlusses ist erforderlich, dass der Gegenstand bei
 der Berufung bezeichnet wird. Bei der Beschlussfassung entscheidet die
 Mehrheit der abgegebenen Stimmen.
 
-(2) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig,
+(2) Bei der Berufung der Versammlung kann vorgesehen werden, dass
+Mitglieder auch ohne Anwesenheit am Versammlungsort im Wege der
+elektronischen Kommunikation an der Versammlung teilnehmen und andere
+Mitgliederrechte ausüben können (hybride Versammlung). Die Mitglieder
+können beschließen, dass künftige Versammlungen auch als virtuelle
+Versammlungen einberufen werden können, an der Mitglieder ohne
+Anwesenheit am Versammlungsort im Wege der elektronischen
+Kommunikation teilnehmen und ihre anderen Mitgliederrechte ausüben
+müssen. Wird eine hybride oder virtuelle Versammlung einberufen, so
+muss bei der Berufung auch angegeben werden, wie die Mitglieder ihre
+Rechte im Wege der elektronischen Kommunikation ausüben können.
+
+(3) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig,
 wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich
 erklären.
 
@@ -494,11 +449,11 @@ Jahre betragen.
 
 ###### § 40 Nachgiebige Vorschriften
 
-Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3, ,
-der §§ 28, 31a Abs. 1 Satz 2 sowie der §§ 32, 33 und 38 finden
-insoweit keine Anwendung als die Satzung ein anderes bestimmt. Von §
-34 kann auch für die Beschlussfassung des Vorstands durch die Satzung
-nicht abgewichen werden.
+Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3,
+der §§ 28, 31a Abs. 1 Satz 2              sowie der §§ 32, 33 und 38
+finden insoweit keine Anwendung als die Satzung ein anderes bestimmt.
+Von § 34 kann auch für die Beschlussfassung des Vorstands durch die
+Satzung nicht abgewichen werden.
 
 
 ###### § 41 Auflösung des Vereins
@@ -796,15 +751,10 @@ Mit der Eintragung erhält der Name des Vereins den Zusatz
 "eingetragener Verein".
 
 
-###### § 66 Bekanntmachung der Eintragung und Aufbewahrung von Dokumenten
+###### § 66 Aufbewahrung von Dokumenten
 
-(1) Das Amtsgericht hat die Eintragung des Vereins in das
-Vereinsregister durch Veröffentlichung in dem von der
-Landesjustizverwaltung bestimmten elektronischen Informations- und
-Kommunikationssystem bekannt zu machen.
-
-(2) Die mit der Anmeldung eingereichten Dokumente werden vom
-Amtsgericht aufbewahrt.
+Die mit einer Anmeldung eingereichten Dokumente werden vom Amtsgericht
+aufbewahrt.
 
 
 ###### § 67 Änderung des Vorstands
@@ -856,8 +806,8 @@ Wortlaut der Satzung und, wenn die Satzung geändert worden ist, ohne
 dass ein vollständiger Wortlaut der Satzung eingereicht wurde, auch
 mit den zuvor eingetragenen Änderungen übereinstimmen.
 
-(2) Die Vorschriften der §§ 60, 64 und des § 66 Abs. 2 finden
-entsprechende Anwendung.
+(2) Die Vorschriften der §§ 60, 64 und 66 finden entsprechende
+Anwendung.
 
 
 ###### § 72 Bescheinigung der Mitgliederzahl
@@ -949,11 +899,14 @@ Amts wegen.
 
 ###### § 77 Anmeldepflichtige und Form der Anmeldungen
 
-Die Anmeldungen zum Vereinsregister sind von Mitgliedern des Vorstands
-sowie von den Liquidatoren, die insoweit zur Vertretung des Vereins
-berechtigt sind, mittels öffentlich beglaubigter Erklärung abzugeben.
-Die Erklärung kann in Urschrift oder in öffentlich beglaubigter
-Abschrift beim Gericht eingereicht werden.
+(1) Die Anmeldungen zum Vereinsregister sind von Mitgliedern des
+Vorstands sowie von den Liquidatoren, die insoweit zur Vertretung des
+Vereins berechtigt sind, mittels öffentlich beglaubigter Erklärung
+abzugeben. Die Erklärung kann in Urschrift oder in öffentlich
+beglaubigter Abschrift beim Gericht eingereicht werden.
+
+(2) Die öffentliche Beglaubigung mittels Videokommunikation gemäß §
+40a des Beurkundungsgesetzes ist zulässig.
 
 
 ###### § 78 Festsetzung von Zwangsgeld
@@ -1044,146 +997,586 @@ ist auf personenbezogene Daten, die im Vereinsregister und in den
 Registerakten gespeichert sind, nicht anzuwenden.
 
 
-##### Untertitel 2 - Stiftungen
+##### Untertitel 2 - Rechtsfähige Stiftungen
 
 
 
-###### § 80 Entstehung einer rechtsfähigen Stiftung
+###### § 80 Ausgestaltung und Entstehung der Stiftung
 
-(1) Zur Entstehung einer rechtsfähigen Stiftung sind das
-Stiftungsgeschäft und die Anerkennung durch die zuständige Behörde des
-Landes erforderlich, in dem die Stiftung ihren Sitz haben soll.
+(1) Die Stiftung ist eine mit einem Vermögen zur dauernden und
+nachhaltigen Erfüllung eines vom Stifter vorgegebenen Zwecks
+ausgestattete, mitgliederlose juristische Person. Die Stiftung wird in
+der Regel auf unbestimmte Zeit errichtet, sie kann aber auch auf
+bestimmte Zeit errichtet werden, innerhalb derer ihr gesamtes Vermögen
+zur Erfüllung ihres Zwecks zu verbrauchen ist (Verbrauchsstiftung).
 
-(2) Die Stiftung ist als rechtsfähig anzuerkennen, wenn das
-Stiftungsgeschäft den Anforderungen des § 81 Abs. 1 genügt, die
-dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert
-erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet. Bei
-einer Stiftung, die für eine bestimmte Zeit errichtet und deren
-Vermögen für die Zweckverfolgung verbraucht werden soll
-(Verbrauchsstiftung), erscheint die dauernde Erfüllung des
-Stiftungszwecks gesichert, wenn die Stiftung für einen im
-Stiftungsgeschäft festgelegten Zeitraum bestehen soll, der mindestens
-zehn Jahre umfasst.
-
-(3) Vorschriften der Landesgesetze über kirchliche Stiftungen bleiben
-unberührt. Das gilt entsprechend für Stiftungen, die nach den
-Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
+(2) Zur Entstehung der Stiftung sind das Stiftungsgeschäft und die
+Anerkennung der Stiftung durch die zuständige Behörde des Landes
+erforderlich, in dem die Stiftung ihren Sitz haben soll. Wird die
+Stiftung erst nach dem Tode des Stifters anerkannt, so gilt sie für
+Zuwendungen des Stifters als schon vor dessen Tod entstanden.
 
 
 ###### § 81 Stiftungsgeschäft
 
-(1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen
-Form. Es muss die verbindliche Erklärung des Stifters enthalten, ein
-Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen,
-das auch zum Verbrauch bestimmt werden kann. Durch das
-Stiftungsgeschäft muss die Stiftung eine Satzung erhalten mit
-Regelungen über
+(1) Im Stiftungsgeschäft muss der Stifter
 
-1.  den Namen der Stiftung,
+1.  der Stiftung eine Satzung geben, die mindestens Bestimmungen enthalten
+    muss über
+
+    a)  den Zweck der Stiftung,
 
 
-2.  den Sitz der Stiftung,
+    b)  den Namen der Stiftung,
 
 
-3.  den Zweck der Stiftung,
+    c)  den Sitz der Stiftung und
 
 
-4.  das Vermögen der Stiftung,
-
-
-5.  die Bildung des Vorstands der Stiftung.
+    d)  die Bildung des Vorstands der Stiftung sowie
 
 
 
-Genügt das Stiftungsgeschäft den Erfordernissen des Satzes 3 nicht und
-ist der Stifter verstorben, findet § 83 Satz 2 bis 4 entsprechende
-Anwendung.
 
-(2) Bis zur Anerkennung der Stiftung als rechtsfähig ist der Stifter
-zum Widerruf des Stiftungsgeschäfts berechtigt. Ist die Anerkennung
-bei der zuständigen Behörde beantragt, so kann der Widerruf nur dieser
-gegenüber erklärt werden. Der Erbe des Stifters ist zum Widerruf nicht
-berechtigt, wenn der Stifter den Antrag bei der zuständigen Behörde
+
+2.  zur Erfüllung des von ihm vorgegebenen Stiftungszwecks ein Vermögen
+    widmen (gewidmetes Vermögen), das der Stiftung zu deren eigener
+    Verfügung zu überlassen ist.
+
+
+
+
+(2) Die Satzung einer Verbrauchsstiftung muss zusätzlich enthalten:
+
+1.  die Festlegung der Zeit, für die die Stiftung errichtet wird, und
+
+
+2.  Bestimmungen zur Verwendung des Stiftungsvermögens, die die
+    nachhaltige Erfüllung des Stiftungszwecks und den vollständigen
+    Verbrauch des Stiftungsvermögens innerhalb der Zeit, für welche die
+    Stiftung errichtet wird, gesichert erscheinen lassen.
+
+
+
+
+(3) Das Stiftungsgeschäft bedarf der schriftlichen Form, wenn nicht in
+anderen Vorschriften ausdrücklich eine strengere Form als die
+schriftliche Form vorgeschrieben ist, oder es muss in einer Verfügung
+von Todes wegen enthalten sein.
+
+(4) Wenn der Stifter verstorben ist und er im Stiftungsgeschäft zwar
+den Zweck der Stiftung festgelegt und ein Vermögen gewidmet hat, das
+Stiftungsgeschäft im Übrigen jedoch nicht den gesetzlichen
+Anforderungen des Absatzes 1 oder des Absatzes 2 genügt, hat die nach
+Landesrecht zuständige Behörde das Stiftungsgeschäft um die Satzung
+oder um fehlende Satzungsbestimmungen zu ergänzen. Bei der Ergänzung
+des Stiftungsgeschäfts soll die Behörde den wirklichen, hilfsweise den
+mutmaßlichen Willen des Stifters beachten. Wurde im Stiftungsgeschäft
+kein Sitz der Stiftung bestimmt, ist im Zweifel anzunehmen, dass der
+Sitz am letzten Wohnsitz des Stifters im Inland sein soll.
+
+
+###### § 81a Widerruf des Stiftungsgeschäfts
+
+Bis zur Anerkennung der Stiftung ist der Stifter zum Widerruf des
+Stiftungsgeschäfts berechtigt. Ist die Anerkennung bei der zuständigen
+Behörde des Landes beantragt, so ist der Widerruf dieser gegenüber zu
+erklären. Der Erbe des Stifters ist zum Widerruf des
+Stiftungsgeschäfts nicht berechtigt, wenn der Stifter den Antrag auf
+Anerkennung der Stiftung bei der zuständigen Behörde des Landes
 gestellt oder im Falle der notariellen Beurkundung des
-Stiftungsgeschäfts den Notar bei oder nach der Beurkundung mit der
-Antragstellung betraut hat.
+Stiftungsgeschäfts den Notar mit der Antragstellung betraut hat.
 
 
-###### § 82 Übertragungspflicht des Stifters
+###### § 82 Anerkennung der Stiftung
 
-Wird die Stiftung als rechtsfähig anerkannt, so ist der Stifter
-verpflichtet, das in dem Stiftungsgeschäft zugesicherte Vermögen auf
-die Stiftung zu übertragen. Rechte, zu deren Übertragung der
-Abtretungsvertrag genügt, gehen mit der Anerkennung auf die Stiftung
-über, sofern nicht aus dem Stiftungsgeschäft sich ein anderer Wille
-des Stifters ergibt.
-
-
-###### § 83 Stiftung von Todes wegen
-
-Besteht das Stiftungsgeschäft in einer Verfügung von Todes wegen, so
-hat das Nachlassgericht dies der zuständigen Behörde zur Anerkennung
-mitzuteilen, sofern sie nicht von dem Erben oder dem
-Testamentsvollstrecker beantragt wird. Genügt das Stiftungsgeschäft
-nicht den Erfordernissen des § 81 Abs. 1 Satz 3, wird der Stiftung
-durch die zuständige Behörde vor der Anerkennung eine Satzung gegeben
-oder eine unvollständige Satzung ergänzt; dabei soll der Wille des
-Stifters berücksichtigt werden. Als Sitz der Stiftung gilt, wenn nicht
-ein anderes bestimmt ist, der Ort, an welchem die Verwaltung geführt
-wird. Im Zweifel gilt der letzte Wohnsitz des Stifters im Inland als
-Sitz.
+Die Stiftung ist anzuerkennen, wenn das Stiftungsgeschäft den
+Anforderungen des § 81 Absatz 1 bis 3 genügt und die dauernde und
+nachhaltige Erfüllung des Stiftungszwecks gesichert erscheint, es sei
+denn, die Stiftung würde das Gemeinwohl gefährden. Bei einer
+Verbrauchsstiftung erscheint die dauernde Erfüllung des
+Stiftungszwecks gesichert, wenn die in der Satzung für die Stiftung
+bestimmte Zeit mindestens zehn Jahre umfasst.
 
 
-###### § 84 Anerkennung nach Tod des Stifters
+###### § 82a Übertragung und Übergang des gewidmeten Vermögens
 
-Wird die Stiftung erst nach dem Tode des Stifters als rechtsfähig
-anerkannt, so gilt sie für die Zuwendungen des Stifters als schon vor
-dessen Tod entstanden.
-
-
-###### § 85 Stiftungsverfassung
-
-Die Verfassung einer Stiftung wird, soweit sie nicht auf Bundes- oder
-Landesgesetz beruht, durch das Stiftungsgeschäft bestimmt.
+Ist die Stiftung anerkannt, so ist der Stifter verpflichtet, das
+gewidmete Vermögen auf die Stiftung zu übertragen. Rechte, zu deren
+Übertragung eine Abtretung genügt, gehen mit der Anerkennung auf die
+Stiftung über, sofern sich nicht aus dem Stiftungsgeschäft ein anderer
+Wille des Stifters ergibt.
 
 
-###### § 86 Anwendung des Vereinsrechts
+###### § 83 Stiftungsverfassung und Stifterwille
 
-Die Vorschriften der §§ 26 und 27 Absatz 3 und der §§ 28 bis 31a und
-42 finden auf Stiftungen entsprechende Anwendung, die Vorschriften des
-§ 26 Absatz 2 Satz 1, des § 27 Absatz 3 und des § 28 jedoch nur
-insoweit, als sich nicht aus der Verfassung, insbesondere daraus, dass
-die Verwaltung der Stiftung von einer öffentlichen Behörde geführt
-wird, ein anderes ergibt. Die Vorschriften des § 26 Absatz 2 Satz 2
-und des § 29 finden auf Stiftungen, deren Verwaltung von einer
-öffentlichen Behörde geführt wird, keine Anwendung.
+(1) Die Verfassung der Stiftung wird, soweit sie nicht auf Bundes-
+oder Landesgesetz beruht, durch das Stiftungsgeschäft und insbesondere
+die Satzung bestimmt.
 
-
-###### § 87 Zweckänderung; Aufhebung
-
-(1) Ist die Erfüllung des Stiftungszwecks unmöglich geworden oder
-gefährdet sie das Gemeinwohl, so kann die zuständige Behörde der
-Stiftung eine andere Zweckbestimmung geben oder sie aufheben.
-
-(2) Bei der Umwandlung des Zweckes soll der Wille des Stifters
-berücksichtigt werden, insbesondere soll dafür gesorgt werden, dass
-die Erträge des Stiftungsvermögens dem Personenkreis, dem sie
-zustatten kommen sollten, im Sinne des Stifters erhalten bleiben. Die
-Behörde kann die Verfassung der Stiftung ändern, soweit die Umwandlung
-des Zweckes es erfordert.
-
-(3) Vor der Umwandlung des Zweckes und der Änderung der Verfassung
-soll der Vorstand der Stiftung gehört werden.
+(2) Die Stiftungsorgane haben bei ihrer Tätigkeit für die Stiftung und
+die zuständigen Behörden haben bei der Aufsicht über die Stiftung den
+bei der Errichtung der Stiftung zum Ausdruck gekommenen Willen,
+hilfsweise den mutmaßlichen Willen des Stifters zu beachten.
 
 
-###### § 88 Vermögensanfall
+###### § 83a Verwaltungssitz der Stiftung
 
-Mit dem Erlöschen der Stiftung fällt das Vermögen an die in der
-Verfassung bestimmten Personen. Fehlt es an einer Bestimmung der
-Anfallberechtigten, so fällt das Vermögen an den Fiskus des Landes, in
-dem die Stiftung ihren Sitz hatte, oder an einen anderen nach dem
-Recht dieses Landes bestimmten Anfallberechtigten. Die Vorschriften
-der §§ 46 bis 53 finden entsprechende Anwendung.
+Die Verwaltung der Stiftung ist im Inland zu führen.
+
+
+###### § 83b Stiftungsvermögen
+
+(1) Bei einer Stiftung, die auf unbestimmte Zeit errichtet wurde,
+besteht das Stiftungsvermögen aus dem Grundstockvermögen und ihrem
+sonstigen Vermögen. Bei einer Verbrauchsstiftung besteht das
+Stiftungsvermögen aufgrund der Satzung nur aus sonstigem Vermögen.
+
+(2) Zum Grundstockvermögen gehören
+
+1.  das gewidmete Vermögen,
+
+
+2.  das der Stiftung zugewendete Vermögen, das vom Zuwendenden dazu
+    bestimmt wurde, Teil des Grundstockvermögens zu werden (Zustiftung),
+    und
+
+
+3.  das Vermögen, das von der Stiftung zu Grundstockvermögen bestimmt
+    wurde.
+
+
+
+
+(3) Der Stifter kann auch bei einer Stiftung, die auf unbestimmte Zeit
+errichtet wird, im Stiftungsgeschäft abweichend von Absatz 2 Nummer 1
+einen Teil des gewidmeten Vermögens zu sonstigem Vermögen bestimmen.
+
+(4) Das Stiftungsvermögen ist getrennt von fremdem Vermögen zu
+verwalten. Mit dem Stiftungsvermögen darf nur der Stiftungszweck
+erfüllt werden.
+
+
+###### § 83c Verwaltung des Grundstockvermögens
+
+(1) Das Grundstockvermögen ist ungeschmälert zu erhalten. Der
+Stiftungszweck ist mit den Nutzungen des Grundstockvermögens zu
+erfüllen. Zuwächse aus der Umschichtung des Grundstockvermögens können
+für die Erfüllung des Stiftungszwecks verwendet werden, soweit dies
+durch die Satzung nicht ausgeschlossen wurde und die Erhaltung des
+Grundstockvermögens gewährleistet ist.
+
+(2) Durch die Satzung kann bestimmt werden, dass die Stiftung einen
+Teil des Grundstockvermögens verbrauchen darf. In einer solchen
+Satzungsbestimmung muss die Stiftung verpflichtet werden, das
+Grundstockvermögen in absehbarer Zeit wieder um den verbrauchten Teil
+aufzustocken.
+
+(3) Durch Landesrecht kann vorgesehen werden, dass die nach
+Landesrecht zuständigen Behörden auf Antrag einer Stiftung für einen
+bestimmten Teil des Grundstockvermögens eine zeitlich begrenzte
+Ausnahme von Absatz 1 Satz 1 zulassen können, wenn dadurch die
+dauernde und nachhaltige Erfüllung des Stiftungszwecks nicht
+beeinträchtigt wird.
+
+
+###### § 84 Stiftungsorgane
+
+(1) Die Stiftung muss einen Vorstand haben. Der Vorstand führt die
+Geschäfte der Stiftung.
+
+(2) Der Vorstand vertritt die Stiftung gerichtlich und
+außergerichtlich; er hat die Stellung eines gesetzlichen Vertreters.
+Besteht der Vorstand aus mehreren Personen, so wird die Stiftung durch
+die Mehrheit der Vorstandsmitglieder vertreten. Ist eine
+Willenserklärung gegenüber der Stiftung abzugeben, so genügt die
+Abgabe gegenüber einem Mitglied des Vorstands.
+
+(3) Durch die Satzung kann von Absatz 1 Satz 2 und Absatz 2 Satz 2
+abgewichen und der Umfang der Vertretungsmacht des Vorstands mit
+Wirkung gegen Dritte beschränkt werden.
+
+(4) In der Satzung können neben dem Vorstand weitere Organe vorgesehen
+werden. In der Satzung sollen für ein weiteres Organ auch die
+Bestimmungen über die Bildung, die Aufgaben und die Befugnisse
+enthalten sein.
+
+(5) Die §§ 30, 31 und 42 Absatz 2 sind entsprechend anzuwenden.
+
+
+###### § 84a Rechte und Pflichten der Organmitglieder
+
+(1) Auf die Tätigkeit eines Organmitglieds für die Stiftung sind die
+§§ 664 bis 670 entsprechend anzuwenden. Organmitglieder sind
+unentgeltlich tätig. Durch die Satzung kann von den Sätzen 1 und 2
+abgewichen werden, insbesondere auch die Haftung für
+Pflichtverletzungen von Organmitgliedern beschränkt werden.
+
+(2) Das Mitglied eines Organs hat bei der Führung der Geschäfte der
+Stiftung die Sorgfalt eines ordentlichen Geschäftsführers anzuwenden.
+Eine Pflichtverletzung liegt nicht vor, wenn das Mitglied des Organs
+bei der Geschäftsführung unter Beachtung der gesetzlichen und
+satzungsgemäßen Vorgaben vernünftigerweise annehmen durfte, auf der
+Grundlage angemessener Informationen zum Wohle der Stiftung zu
+handeln.
+
+(3) § 31a ist entsprechend anzuwenden. Durch die Satzung kann die
+Anwendbarkeit des § 31a beschränkt oder ausgeschlossen werden.
+
+
+###### § 84b Beschlussfassung der Organe
+
+Besteht ein Organ aus mehreren Mitgliedern, erfolgt die
+Beschlussfassung entsprechend § 32, wenn in der Satzung nichts
+Abweichendes geregelt ist. Ein Organmitglied ist nicht
+stimmberechtigt, wenn die Beschlussfassung die Vornahme eines
+Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines
+Rechtsstreits zwischen ihm und der Stiftung betrifft.
+
+
+###### § 84c Notmaßnahmen bei fehlenden Organmitgliedern
+
+(1) Wenn der Vorstand oder ein anderes Organ der Stiftung seine
+Aufgaben nicht wahrnehmen kann, weil Mitglieder des Organs fehlen, hat
+die nach Landesrecht zuständige Behörde in dringenden Fällen auf
+Antrag eines Beteiligten oder von Amts wegen notwendige Maßnahmen zu
+treffen, um die Handlungsfähigkeit des Organs zu gewährleisten. Die
+Behörde ist insbesondere befugt, Organmitglieder befristet zu
+bestellen oder von der satzungsmäßig vorgesehenen Zahl von
+Organmitgliedern befristet abzuweichen, insbesondere indem die Behörde
+einzelne Organmitglieder mit Befugnissen ausstattet, die ihnen nach
+der Satzung nur gemeinsam mit anderen Organmitgliedern zustehen.
+
+(2) Die Behörde kann einem von ihr bestellten Organmitglied bei oder
+nach der Bestellung eine angemessene Vergütung auf Kosten der Stiftung
+bewilligen, wenn das Vermögen der Stiftung sowie der Umfang und die
+Bedeutung der zu erledigenden Aufgabe dies rechtfertigen. Die Behörde
+kann die Bewilligung der Vergütung mit Wirkung für die Zukunft ändern
+oder aufheben.
+
+
+###### § 85 Voraussetzungen für Satzungsänderungen
+
+(1) Durch Satzungsänderung kann der Stiftung ein anderer Zweck gegeben
+oder der Zweck der Stiftung kann erheblich beschränkt werden, wenn
+
+1.  der Stiftungszweck nicht mehr dauernd und nachhaltig erfüllt werden
+    kann oder
+
+
+2.  der Stiftungszweck das Gemeinwohl gefährdet.
+
+
+
+Die Voraussetzungen des Satzes 1 Nummer 1 liegen insbesondere vor,
+wenn eine Stiftung keine ausreichenden Mittel für die nachhaltige
+Erfüllung des Stiftungszwecks hat und solche Mittel in absehbarer Zeit
+auch nicht erwerben kann. Der Stiftungszweck kann nach Satz 1 nur
+geändert werden, wenn gesichert erscheint, dass die Stiftung den
+beabsichtigten neuen oder beschränkten Stiftungszweck dauernd und
+nachhaltig erfüllen kann. Liegen die Voraussetzungen nach Satz 1
+Nummer 1 und Satz 3 vor, kann eine auf unbestimmte Zeit errichtete
+Stiftung auch abweichend von § 83c durch Satzungsänderung in eine
+Verbrauchsstiftung umgestaltet werden, indem die Satzung um
+Bestimmungen nach § 81 Absatz 2 ergänzt wird.
+
+(2) Durch Satzungsänderung kann der Stiftungszweck in anderer Weise
+als nach Absatz 1 Satz 1 oder es können andere prägende Bestimmungen
+der Stiftungsverfassung geändert werden, wenn sich die Verhältnisse
+nach Errichtung der Stiftung wesentlich verändert haben und eine
+solche Änderung erforderlich ist, um die Stiftung an die veränderten
+Verhältnisse anzupassen. Als prägend für eine Stiftung sind regelmäßig
+die Bestimmungen über den Namen, den Sitz, die Art und Weise der
+Zweckerfüllung und über die Verwaltung des Grundstockvermögens
+anzusehen.
+
+(3) Durch Satzungsänderung können Bestimmungen der Satzung, die nicht
+unter Absatz 1 oder Absatz 2 Satz 1 fallen, geändert werden, wenn dies
+der Erfüllung des Stiftungszwecks dient.
+
+(4) Im Stiftungsgeschäft kann der Stifter Satzungsänderungen nach den
+Absätzen 1 bis 3 ausschließen oder beschränken. Satzungsänderungen
+durch Organe der Stiftung kann der Stifter im Stiftungsgeschäft auch
+abweichend von den Absätzen 1 bis 3 zulassen. Satzungsbestimmungen
+nach Satz 2 sind nur wirksam, wenn der Stifter Inhalt und Ausmaß der
+Änderungsermächtigung hinreichend bestimmt festlegt.
+
+
+###### § 85a Verfahren bei Satzungsänderungen
+
+(1) Die Satzung kann durch den Vorstand oder ein anderes durch die
+Satzung dazu bestimmtes Stiftungsorgan geändert werden. Die
+Satzungsänderung bedarf der Genehmigung der nach Landesrecht
+zuständigen Behörde.
+
+(2) Die Behörde kann die Satzung nach § 85 ändern, wenn die
+Satzungsänderung notwendig ist und das zuständige Stiftungsorgan sie
+nicht rechtzeitig beschließt.
+
+(3) Wenn durch die Satzungsänderung der Sitz der Stiftung in den
+Zuständigkeitsbereich einer anderen Behörde verlegt werden soll,
+bedarf die nach Absatz 1 Satz 2 erforderliche Genehmigung der
+Satzungsänderung der Zustimmung der Behörde, in deren
+Zuständigkeitsbereich der neue Sitz begründet werden soll.
+
+
+###### § 86 Voraussetzungen für die Zulegung
+
+Durch Übertragung ihres Stiftungsvermögens als Ganzes kann die
+übertragende Stiftung einer übernehmenden Stiftung zugelegt werden,
+wenn
+
+1.  sich die Verhältnisse nach Errichtung der übertragenden Stiftung
+    wesentlich verändert haben und eine Satzungsänderung nach § 85 Absatz
+    2 bis 4 nicht ausreicht, um die übertragende Stiftung an die
+    veränderten Verhältnisse anzupassen, oder wenn schon seit Errichtung
+    der Stiftung die Voraussetzungen für eine Auflösung nach § 87 Absatz 1
+    Satz 1 vorlagen,
+
+
+2.  der Zweck der übertragenden Stiftung im Wesentlichen mit einem Zweck
+    der übernehmenden Stiftung übereinstimmt,
+
+
+3.  gesichert erscheint, dass die übernehmende Stiftung ihren Zweck auch
+    nach der Zulegung im Wesentlichen in gleicher Weise dauernd und
+    nachhaltig erfüllen kann, und
+
+
+4.  die Rechte von Personen gewahrt werden, für die in der Satzung der
+    übertragenden Stiftung Ansprüche auf Stiftungsleistungen begründet
+    sind.
+
+
+
+
+
+###### § 86a Voraussetzungen für die Zusammenlegung
+
+Mindestens zwei übertragende Stiftungen können durch Errichtung einer
+neuen Stiftung und Übertragung ihres jeweiligen Stiftungsvermögens als
+Ganzes auf die neue übernehmende Stiftung zusammengelegt werden, wenn
+
+1.  sich die Verhältnisse nach Errichtung der übertragenden Stiftungen
+    wesentlich verändert haben und eine Satzungsänderung nach § 85 Absatz
+    2 bis 4 nicht ausreicht, um die übertragenden Stiftungen an die
+    veränderten Verhältnisse anzupassen, oder wenn schon seit Errichtung
+    der Stiftung die Voraussetzungen für eine Auflösung nach § 87 Absatz 1
+    Satz 1 vorlagen,
+
+
+2.  gesichert erscheint, dass die neue übernehmende Stiftung die Zwecke
+    der übertragenden Stiftungen im Wesentlichen in gleicher Weise dauernd
+    und nachhaltig erfüllen kann, und
+
+
+3.  die Rechte von Personen gewahrt werden, für die in den Satzungen der
+    übertragenden Stiftungen Ansprüche auf Stiftungsleistungen begründet
+    sind.
+
+
+
+
+
+###### § 86b Verfahren der Zulegung und der Zusammenlegung
+
+(1) Stiftungen können durch Vertrag zugelegt oder zusammengelegt
+werden. Der Zulegungsvertrag oder der Zusammenlegungsvertrag bedarf
+der Genehmigung durch die für die übernehmende Stiftung nach
+Landesrecht zuständige Behörde.
+
+(2) Die Behörde nach Absatz 1 Satz 2 kann Stiftungen zulegen oder
+zusammenlegen, wenn die Stiftungen die Zulegung oder Zusammenlegung
+nicht vereinbaren können. Die übernehmende Stiftung muss einer
+Zulegung durch die Behörde zustimmen.
+
+(3) Ist nach Landesrecht für eine übertragende Stiftung eine andere
+Behörde zuständig als die Behörde nach Absatz 1 Satz 2, bedürfen die
+Genehmigung eines Zulegungsvertrags oder eines Zusammenlegungsvertrags
+und die behördliche Zulegung oder Zusammenlegung der Zustimmung der
+für die übertragenden Stiftungen nach dem jeweiligen Landesrecht
+zuständigen Behörden.
+
+
+###### § 86c Zulegungsvertrag und Zusammenlegungsvertrag
+
+(1) Ein Zulegungsvertrag muss mindestens enthalten:
+
+1.  die Angabe des jeweiligen Namens und des jeweiligen Sitzes der
+    beteiligten Stiftungen und
+
+
+2.  die Vereinbarung, dass das Stiftungsvermögen der übertragenden
+    Stiftung als Ganzes auf die übernehmende Stiftung übertragen werden
+    soll und mit der Vermögensübertragung das Grundstockvermögen der
+    übertragenden Stiftung Teil des Grundstockvermögens der übernehmenden
+    Stiftung wird.
+
+
+
+Wenn durch die Satzung der übertragenden Stiftung für Personen
+Ansprüche auf Stiftungsleistungen begründet sind, muss der
+Zulegungsvertrag Angaben zu den Auswirkungen der Zulegung auf diese
+Ansprüche und zu den Maßnahmen enthalten, die vorgesehen sind, um die
+Rechte dieser Personen zu wahren.
+
+(2) Ein Zusammenlegungsvertrag muss mindestens die Angaben nach Absatz
+1 enthalten sowie das Stiftungsgeschäft zur Errichtung der neuen
+übernehmenden Stiftung.
+
+(3) Der Zulegungsvertrag oder der Zusammenlegungsvertrag ist Personen
+nach Absatz 1 Satz 2 spätestens einen Monat vor der Beantragung der
+Genehmigung nach § 86b Absatz 1 Satz 2 von derjenigen Stiftung
+zuzuleiten, in deren Satzung die Ansprüche begründet sind.
+
+
+###### § 86d Form des Zulegungsvertrags und des Zusammenlegungsvertrags
+
+Zulegungsverträge und Zusammenlegungsverträge bedürfen nur der
+schriftlichen Form, insbesondere § 311b Absatz 1 bis 3 ist nicht
+anzuwenden.
+
+
+###### § 86e Behördliche Zulegungsentscheidung und Zusammenlegungsentscheidung
+
+(1) Auf den Inhalt der Entscheidungen über die Zulegung oder
+Zusammenlegung von Stiftungen durch die nach Landesrecht zuständige
+Behörde ist § 86c Absatz 1 und 2 entsprechend anzuwenden.
+
+(2) Die Behörde hat Personen nach § 86c Absatz 1 Satz 2 mindestens
+einen Monat vor der Entscheidung über die Zulegung oder Zusammenlegung
+anzuhören und auf die möglichen Folgen der Zulegung oder
+Zusammenlegung für deren Ansprüche gegen eine übertragende Stiftung
+hinzuweisen.
+
+
+###### § 86f Wirkungen der Zulegung und der Zusammenlegung
+
+(1) Mit der Unanfechtbarkeit der Genehmigung des Zulegungsvertrags
+oder der Unanfechtbarkeit der Entscheidung über die Zulegung durch die
+nach Landesrecht zuständige Behörde geht das Stiftungsvermögen der
+übertragenden Stiftung auf die übernehmende Stiftung über und erlischt
+die übertragende Stiftung.
+
+(2) Mit der Unanfechtbarkeit der Genehmigung des
+Zusammenlegungsvertrags oder der Unanfechtbarkeit der Entscheidung
+über die Zusammenlegung durch die Behörde entsteht die neue Stiftung,
+geht das Stiftungsvermögen der übertragenden Stiftungen auf die neue
+übernehmende Stiftung über und erlöschen die übertragenden Stiftungen.
+
+(3) Mängel des Zulegungsvertrags oder des Zusammenlegungsvertrags
+lassen die Wirkungen der behördlichen Genehmigung unberührt.
+
+
+###### § 86g Bekanntmachung der Zulegung und der Zusammenlegung
+
+Die übernehmende Stiftung hat die Zulegung oder die Zusammenlegung
+innerhalb eines Monats nach dem Zeitpunkt, zu dem die Wirkungen der
+Zulegung oder Zusammenlegung nach § 86f Absatz 1 oder Absatz 2
+eingetreten sind, durch Veröffentlichung im Bundesanzeiger bekannt zu
+machen. In der Bekanntmachung sind die Gläubiger der an der Zulegung
+oder Zusammenlegung beteiligten Stiftungen auf ihr Recht nach § 86h
+hinzuweisen. Die Bekanntmachung gilt mit dem Ablauf des zweiten Tages
+nach der Veröffentlichung im Bundesanzeiger als bewirkt.
+
+
+###### § 86h Gläubigerschutz
+
+Die übernehmende Stiftung hat einem Gläubiger nach § 86g Satz 2 für
+einen Anspruch, der vor dem Zeitpunkt entstanden ist, zu dem die
+Wirkungen der Zulegung oder Zusammenlegung nach § 86f Absatz 1 oder
+Absatz 2 eingetreten sind, und dessen Erfüllung noch nicht verlangt
+werden kann, Sicherheit zu leisten, wenn der Gläubiger
+
+1.  den Anspruch nach Grund und Höhe binnen sechs Monaten nach dem Tag, an
+    dem die Zulegung oder Zusammenlegung bekanntgemacht wurde, bei der
+    Stiftung schriftlich anmeldet und
+
+
+2.  mit der Anmeldung glaubhaft macht, dass die Erfüllung des Anspruchs
+    aufgrund der Zulegung oder Zusammenlegung gefährdet ist.
+
+
+
+
+
+###### § 87 Auflösung der Stiftung durch die Stiftungsorgane
+
+(1) Der Vorstand soll die Stiftung auflösen, wenn die Stiftung ihren
+Zweck endgültig nicht mehr dauernd und nachhaltig erfüllen kann. Die
+Voraussetzungen des Satzes 1 liegen nicht endgültig vor, wenn die
+Stiftung durch eine Satzungsänderung so umgestaltet werden kann, dass
+sie ihren Zweck wieder dauernd und nachhaltig erfüllen kann. In der
+Satzung kann geregelt werden, dass ein anderes Organ über die
+Auflösung entscheidet.
+
+(2) Eine Verbrauchsstiftung ist aufzulösen, wenn die Zeit, für die sie
+errichtet wurde, abgelaufen ist.
+
+(3) Die Auflösung einer Stiftung bedarf der Genehmigung der nach
+Landesrecht zuständigen Behörde.
+
+
+###### § 87a Aufhebung der Stiftung
+
+(1) Die nach Landesrecht zuständige Behörde soll eine Stiftung
+aufheben, wenn die Voraussetzungen des § 87 Absatz 1 Satz 1 vorliegen
+und ein Tätigwerden der Behörde erforderlich ist, weil das zuständige
+Organ über die Auflösung nicht rechtzeitig entscheidet.
+
+(2) Die nach Landesrecht zuständige Behörde hat die Stiftung
+aufzuheben, wenn
+
+1.  die Voraussetzungen des § 87 Absatz 2 vorliegen und ein Tätigwerden
+    der Behörde erforderlich ist, weil das zuständige Organ über die
+    Auflösung nicht unverzüglich entscheidet,
+
+
+2.  die Stiftung das Gemeinwohl gefährdet und die Gefährdung des
+    Gemeinwohls nicht auf andere Weise beseitigt werden kann oder
+
+
+3.  der Verwaltungssitz der Stiftung im Ausland begründet wurde und die
+    Behörde die Verlegung des Verwaltungssitzes ins Inland nicht innerhalb
+    angemessener Zeit erreichen kann.
+
+
+
+
+
+###### § 87b Auflösung der Stiftung bei Insolvenz
+
+Die Stiftung wird durch die Eröffnung des Insolvenzverfahrens und mit
+der Rechtskraft des Beschlusses, durch den die Eröffnung des
+Insolvenzverfahrens mangels Masse abgewiesen worden ist, aufgelöst.
+
+
+###### § 87c Vermögensanfall und Liquidation
+
+(1) Mit der Auflösung oder Aufhebung der Stiftung fällt das
+Stiftungsvermögen an die in der Satzung bestimmten Anfallberechtigten.
+Durch die Satzung kann vorgesehen werden, dass die Anfallberechtigten
+durch ein Stiftungsorgan bestimmt werden. Fehlt es an der Bestimmung
+der Anfallberechtigten durch oder aufgrund der Satzung, fällt das
+Stiftungsvermögen an den Fiskus des Landes, in dem die Stiftung ihren
+Sitz hatte. Durch landesrechtliche Vorschriften kann als
+Anfallberechtigte an Stelle des Fiskus eine andere juristische Person
+des öffentlichen Rechts bestimmt werden.
+
+(2) Auf den Anfall des Stiftungsvermögens beim Fiskus des Landes oder
+des Bundes oder bei einer anderen juristischen Person des öffentlichen
+Rechts nach Absatz 1 Satz 4 ist § 46 entsprechend anzuwenden. Fällt
+das Stiftungsvermögen bei anderen Anfallberechtigten an, sind die
+§§ 47 bis 53 entsprechend anzuwenden.
+
+
+###### § 88 Kirchliche Stiftungen
+
+Die Vorschriften der Landesgesetze über die kirchlichen Stiftungen
+bleiben unberührt, insbesondere die Vorschriften zur Beteiligung,
+Zuständigkeit und Anfallsberechtigung der Kirchen. Dasselbe gilt
+entsprechend für Stiftungen, die nach den Landesgesetzen kirchlichen
+Stiftungen gleichgestellt sind.
 
 
 ##### Untertitel 3 - Juristische Personen des öffentlichen Rechts
@@ -1655,7 +2048,7 @@ ersetzt.
 (1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die
 elektronische Form ersetzt werden, so muss der Aussteller der
 Erklärung dieser seinen Namen hinzufügen und das elektronische
-Dokument mit einer qualifizierten elektronischen Signatur versehen.
+Dokument mit seiner qualifizierten elektronischen Signatur versehen.
 
 (2) Bei einem Vertrag müssen die Parteien jeweils ein gleichlautendes
 Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
@@ -1718,15 +2111,28 @@ Antrags von einem Notar beurkundet wird.
 
 ##### § 129 Öffentliche Beglaubigung
 
-(1) Ist durch Gesetz für eine Erklärung öffentliche Beglaubigung
-vorgeschrieben, so muss die Erklärung schriftlich abgefasst und die
-Unterschrift des Erklärenden von einem Notar beglaubigt werden. Wird
-die Erklärung von dem Aussteller mittels Handzeichens unterzeichnet,
-so ist die im § 126 Abs. 1 vorgeschriebene Beglaubigung des
-Handzeichens erforderlich und genügend.
+(1) Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung
+vorgeschrieben, so muss die Erklärung
 
-(2) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
-der Erklärung ersetzt.
+1.  in schriftlicher Form abgefasst und die Unterschrift des Erklärenden
+    von einem Notar beglaubigt werden oder
+
+
+2.  in elektronischer Form abgefasst und die qualifizierte elektronische
+    Signatur des Erklärenden von einem Notar beglaubigt werden.
+
+
+
+In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach
+Satz 1 Nummer 1 oder nach Satz 1 Nummer 2 öffentlich beglaubigt werden
+kann.
+
+(2) Wurde eine Erklärung in schriftlicher Form von dem Erklärenden
+mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt
+die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
+
+(3) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
+ersetzt.
 
 
 ##### § 130 Wirksamwerden der Willenserklärung gegenüber Abwesenden
@@ -1761,19 +2167,19 @@ Zeitpunkt wirksam, in welchem sie ihr zugeht.
 
 (1) Eine Willenserklärung gilt auch dann als zugegangen, wenn sie
 durch Vermittlung eines Gerichtsvollziehers zugestellt worden ist. Die
-Zustellung erfolgt nach den Vorschriften der Zivilprozeßordnung.
+Zustellung erfolgt nach den Vorschriften der Zivilprozessordnung.
 
 (2) Befindet sich der Erklärende über die Person desjenigen, welchem
 gegenüber die Erklärung abzugeben ist, in einer nicht auf
 Fahrlässigkeit beruhenden Unkenntnis oder ist der Aufenthalt dieser
 Person unbekannt, so kann die Zustellung nach den für die öffentliche
-Zustellung geltenden Vorschriften der Zivilprozeßordnung erfolgen.
-Zuständig für die Bewilligung ist im ersteren Fall das Amtsgericht, in
-dessen Bezirk der Erklärende seinen Wohnsitz oder in Ermangelung eines
-inländischen Wohnsitzes seinen Aufenthalt hat, im letzteren Falle das
-Amtsgericht, in dessen Bezirk die Person, welcher zuzustellen ist, den
-letzten Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes den
-letzten Aufenthalt hatte.
+Zustellung geltenden Vorschriften der Zivilprozessordnung erfolgen.
+Zuständig für die Bewilligung ist im ersteren Falle das Amtsgericht,
+in dessen Bezirk der Erklärende seinen Wohnsitz oder in Ermangelung
+eines inländischen Wohnsitzes seinen Aufenthalt hat, im letzteren
+Falle das Amtsgericht, in dessen Bezirk die Person, welcher
+zuzustellen ist, den letzten Wohnsitz oder in Ermangelung eines
+inländischen Wohnsitzes den letzten Aufenthalt hatte.
 
 
 ##### § 133 Auslegung einer Willenserklärung
@@ -2622,11 +3028,7 @@ Monate nach dem Ende der Hemmung ein.
     Vollstreckungsurteils,
 
 
-1a. die Erhebung einer Musterfeststellungsklage für einen Anspruch, den
-    ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam
-    angemeldet hat, wenn dem angemeldeten Anspruch derselbe
-    Lebenssachverhalt zugrunde liegt wie den Feststellungszielen der
-    Musterfeststellungsklage,
+1a. (weggefallen)
 
 
 2.  die Zustellung des Antrags im vereinfachten Verfahren über den
@@ -2722,16 +3124,132 @@ Monate nach dem Ende der Hemmung ein.
 
 (2) Die Hemmung nach Absatz 1 endet sechs Monate nach der
 rechtskräftigen Entscheidung oder anderweitigen Beendigung des
-eingeleiteten Verfahrens. Die Hemmung nach Absatz 1 Nummer 1a endet
-auch sechs Monate nach der Rücknahme der Anmeldung zum Klageregister.
-Gerät das Verfahren dadurch in Stillstand, dass die Parteien es nicht
-betreiben, so tritt an die Stelle der Beendigung des Verfahrens die
-letzte Verfahrenshandlung der Parteien, des Gerichts oder der sonst
-mit dem Verfahren befassten Stelle. Die Hemmung beginnt erneut, wenn
-eine der Parteien das Verfahren weiter betreibt.
+eingeleiteten Verfahrens. Gerät das Verfahren dadurch in Stillstand,
+dass die Parteien es nicht betreiben, so tritt an die Stelle der
+Beendigung des Verfahrens die letzte Verfahrenshandlung der Parteien,
+des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die
+Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter
+betreibt.
 
 (3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§
 206, 210 und 211 entsprechende Anwendung.
+
+
+##### § 204a Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qualifizierten Verbraucherverbänden oder qualifizierten Einrichtungen
+
+(1) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer
+wird auch gehemmt durch:
+
+1.  die Zustellung des Antrags auf Erlass einer einstweiligen Verfügung in
+    Bezug auf einen Unterlassungsanspruch gegen den Unternehmer nach den
+    §§ 1, 2 oder 2a des Unterlassungsklagengesetzes oder nach § 8 Absatz 1
+    des Gesetzes gegen den unlauteren Wettbewerb an den Antragsgegner,
+    wenn
+
+    a)  der Antrag durch eine Stelle nach § 3 Absatz 1 Satz 1 des
+        Unterlassungsklagengesetzes gestellt wurde und
+
+
+    b)  die Ansprüche der Verbraucher gegen den Unternehmer aufgrund der
+        Zuwiderhandlung entstanden sind, gegen die sich der
+        Unterlassungsanspruch richtet,
+
+
+
+
+
+2.  die Erhebung einer Klage zur Durchsetzung von Unterlassungsansprüchen
+    nach Nummer 1 gegen den Unternehmer, wenn
+
+    a)  die Klage durch eine Stelle nach § 3 Absatz 1 Satz 1 des
+        Unterlassungsklagengesetzes erhoben wurde und
+
+
+    b)  die Ansprüche der Verbraucher gegen den Unternehmer aufgrund der
+        Zuwiderhandlung entstanden sind, gegen die sich der
+        Unterlassungsanspruch richtet,
+
+
+
+
+
+3.  die Erhebung einer Musterfeststellungsklage nach dem
+    Verbraucherrechtedurchsetzungsgesetz für die Ansprüche von
+    Verbrauchern, denen derselbe Lebenssachverhalt zugrunde liegt wie den
+    Feststellungszielen der Musterfeststellungsklage, wenn die Verbraucher
+    ihren Anspruch zum Verbandsklageregister anmelden,
+
+
+4.  die Erhebung einer Abhilfeklage nach dem
+    Verbraucherrechtedurchsetzungsgesetz für Ansprüche, die Gegenstand der
+    Abhilfeklage sind, wenn die Verbraucher ihren Anspruch zum
+    Verbandsklageregister anmelden.
+
+
+
+Wurde dem Antragsgegner der Antrag auf Erlass einer einstweiligen
+Verfügung nicht zugestellt, so tritt in Satz 1 Nummer 1 an die Stelle
+der Zustellung des Antrags die Einreichung des Antrags beim Gericht,
+sofern dem Antragsgegner die einstweilige Verfügung innerhalb eines
+Monats nach ihrer Verkündung oder nach ihrer Zustellung an den
+Antragsteller zugestellt wurde.
+
+(2) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer
+wird auch gehemmt durch eine anhängige Verbandsklage im Sinne der
+Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates
+vom 25. November 2020 über Verbandsklagen zum Schutz der
+Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie
+2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) bei einem Gericht oder
+einer Behörde in einem anderen Mitgliedstaat der Europäischen Union,
+die
+
+1.  auf eine Unterlassungsentscheidung gerichtet ist, wenn
+
+    a)  die Klage von einer qualifizierten Einrichtung eingereicht wurde,
+
+
+    b)  Gegenstand der Klage eine Zuwiderhandlung des Unternehmers gegen
+        solche Verbraucherschutzgesetze ist, die in den Anwendungsbereich der
+        Richtlinie (EU) 2020/1828 fallen, und
+
+
+    c)  die Ansprüche der Verbraucher aufgrund derjenigen Zuwiderhandlung des
+        Unternehmers entstanden sind, gegen die sich die Klage richtet,
+
+
+
+
+
+2.  auf eine Abhilfeentscheidung gerichtet ist, wenn
+
+    a)  die Klage von einer qualifizierten Einrichtung eingereicht wurde,
+
+
+    b)  die Ansprüche der Verbraucher Gegenstand der Klage sind und diese
+        Ansprüche aufgrund einer Zuwiderhandlung des Unternehmers gegen solche
+        Verbraucherschutzgesetze entstanden sind, die in den Anwendungsbereich
+        der Richtlinie (EU) 2020/1828 fallen, und
+
+
+    c)  die Verbraucher an der Klage teilnehmen.
+
+
+
+
+
+
+
+(3) § 204 Absatz 2 Satz 1 ist entsprechend anzuwenden. Die Hemmung der
+Verjährung eines Anspruchs eines Verbrauchers nach Absatz 1 Satz 1
+Nummer 3 und 4 sowie nach Absatz 2 Nummer 2 endet auch sechs Monate
+nach dem Zeitpunkt, zu dem der Verbraucher nicht mehr an der Klage
+teilnimmt, insbesondere durch die Rücknahme der Anmeldung zum
+Verbandsklageregister.
+
+(4) Absatz 1 Satz 1 Nummer 3 und 4 sowie Absatz 3 sind auch auf solche
+Unternehmer anzuwenden, die nach § 1 Absatz 2 des
+Verbraucherrechtedurchsetzungsgesetzes Verbrauchern gleichgestellt
+werden.
 
 
 ##### § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht
@@ -3026,10 +3544,10 @@ der Forderung auf Rückerstattung.
 
 #### § 234 Geeignete Wertpapiere
 
-(1) Wertpapiere sind zur Sicherheitsleistung nur geeignet, wenn sie
-auf den Inhaber lauten, einen Kurswert haben und einer Gattung
-angehören, in der Mündelgeld angelegt werden darf. Den Inhaberpapieren
-stehen Orderpapiere gleich, die mit Blankoindossament versehen sind.
+(1) Zur Sicherheitsleistung geeignete Wertpapiere sind Inhaberpapiere
+und Orderpapiere, die mit Blankoindossament versehen sind, wenn sie
+einen Kurswert haben und zu einer in der Rechtsverordnung nach § 240a
+aufgeführten Gattung gehören.
 
 (2) Mit den Wertpapieren sind die Zins-, Renten-, Gewinnanteil- und
 Erneuerungsscheine zu hinterlegen.
@@ -3065,10 +3583,8 @@ verbunden ist, können zurückgewiesen werden.
 #### § 238 Hypotheken, Grund- und Rentenschulden
 
 (1) Eine Hypothekenforderung, eine Grundschuld oder eine Rentenschuld
-ist zur Sicherheitsleistung nur geeignet, wenn sie den Voraussetzungen
-entspricht, unter denen am Orte der Sicherheitsleistung Mündelgeld in
-Hypothekenforderungen, Grundschulden oder Rentenschulden angelegt
-werden darf.
+ist zur Sicherheitsleistung nur geeignet, wenn sie den in der
+Rechtsverordnung nach § 240a festgelegten Voraussetzungen entspricht.
 
 (2) Eine Forderung, für die eine Sicherungshypothek besteht, ist zur
 Sicherheitsleistung nicht geeignet.
@@ -3089,6 +3605,31 @@ Vorausklage enthalten.
 Wird die geleistete Sicherheit ohne Verschulden des Berechtigten
 unzureichend, so ist sie zu ergänzen oder anderweitige Sicherheit zu
 leisten.
+
+
+#### § 240a Verordnungsermächtigung
+
+(1) Das Bundesministerium der Justiz wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+Folgendes festzulegen:
+
+1.  Gattungen von Inhaberpapieren und Orderpapieren nach § 234 Absatz 1,
+    die zur Sicherheitsleistung geeignet sind und die Voraussetzungen,
+    unter denen Hypothekenforderungen, Grundschulden und Rentenschulden
+    zur Sicherheitsleistung geeignet sind, sowie
+
+
+2.  die Voraussetzungen für Anlagen nach den §§ 1079, 1288 Absatz 1 und §
+    2119\.
+
+
+
+
+(2) Die Festlegungen nach Absatz 1 Nummer 1 müssen gewährleisten, dass
+der Gläubiger bei Unvermögen des Schuldners oder wenn der Schuldner
+aus anderen Gründen nicht zur Leistung bereit ist, die Schuld durch
+Verwertung der hinterlegten Wertpapiere, der Hypothekenforderung oder
+der Grund- und Rentenschulden begleichen kann.
 
 
 ## Buch 2 - Recht der Schuldverhältnisse
@@ -3641,7 +4182,7 @@ Leistungsinteresse des Gläubigers nicht zugemutet werden kann.
 (1) Der Schuldner hat Vorsatz und Fahrlässigkeit zu vertreten, wenn
 eine strengere oder mildere Haftung weder bestimmt noch aus dem
 sonstigen Inhalt des Schuldverhältnisses, insbesondere aus der
-Übernahme einer Garantie oder eines Beschaffungsrisikos zu entnehmen
+Übernahme einer Garantie oder eines Beschaffungsrisikos, zu entnehmen
 ist. Die Vorschriften der §§ 827 und 828 finden entsprechende
 Anwendung.
 
@@ -4265,7 +4806,7 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
         informieren und
 
 
-    b)  Gegenleistungen des Vertragspartners unverzüglich zu erstatten,
+    b)  Gegenleistungen des Vertragspartners unverzüglich zu erstatten;
 
 
 
@@ -4806,7 +5347,7 @@ nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
 4.  (weggefallen)
 
 
-5.  Verträge über die Beförderung von Personen,
+5.  (weggefallen)
 
 
 6.  Verträge über Teilzeit-Wohnrechte, langfristige Urlaubsprodukte,
@@ -4912,13 +5453,17 @@ Vermittlung nur § 312a Absatz 3, 4 und 6 anzuwenden.
 
 (7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den
 Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§
-312i, 312j Absatz 2 bis 5 und § 312k anzuwenden; diese Vorschriften
+312i, 312j Absatz 2 bis 5 und § 312m anzuwenden; diese Vorschriften
 finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der
 Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a,
 die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g
 Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf
 denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung
 des Verbrauchers geführt worden.
+
+(8) Auf Verträge über die Beförderung von Personen ist von den
+Vorschriften der Kapitel 1 und 2 dieses Untertitels nur § 312a Absatz
+1 und 3 bis 6 anzuwenden.
 
 
 ###### § 312a Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten
@@ -5063,7 +5608,7 @@ Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder
 Versandkosten und sonstige Kosten nur verlangen, soweit er den
 Verbraucher über diese Kosten entsprechend den Anforderungen aus §
 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1
-Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+Nummer 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 informiert hat.
 
 
@@ -5251,7 +5796,7 @@ bedarf die Kündigung des Verbrauchers oder die Vollmacht zur Kündigung
 der Textform.
 
 
-###### Kapitel 3 - Verträge im elektronischen Geschäftsverkehr
+###### Kapitel 3 - Verträge im elektronischen Geschäftsverkehr; Online-Marktplätze
 
 
 ###### § 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr
@@ -5304,12 +5849,12 @@ anzugeben, ob Lieferbeschränkungen bestehen und welche Zahlungsmittel
 akzeptiert werden.
 
 (2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr,
-der eine entgeltliche Leistung des Unternehmers zum Gegenstand hat,
-muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel
-246a § 1 Absatz 1 Satz 1 Nummer 1, 4, 5, 11 und 12 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor
-der Verbraucher seine Bestellung abgibt, klar und verständlich in
-hervorgehobener Weise zur Verfügung stellen.
+der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer dem
+Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1
+Nummer 1, 5 bis 7, 8, 14 und 15 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine
+Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur
+Verfügung stellen.
 
 (3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach
 Absatz 2 so zu gestalten, dass der Verbraucher mit seiner Bestellung
@@ -5330,10 +5875,115 @@ Finanzdienstleistungen betreffen, noch für Verträge über
 Finanzdienstleistungen.
 
 
+###### § 312k Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr
+
+(1) Wird Verbrauchern über eine Webseite ermöglicht, einen Vertrag im
+elektronischen Geschäftsverkehr zu schließen, der auf die Begründung
+eines Dauerschuldverhältnisses gerichtet ist, das einen Unternehmer zu
+einer entgeltlichen Leistung verpflichtet, so treffen den Unternehmer
+die Pflichten nach dieser Vorschrift. Dies gilt nicht
+
+1.  für Verträge, für deren Kündigung gesetzlich ausschließlich eine
+    strengere Form als die Textform vorgesehen ist, und
+
+
+2.  in Bezug auf Webseiten, die Finanzdienstleistungen betreffen, oder für
+    Verträge über Finanzdienstleistungen.
+
+
+
+
+(2) Der Unternehmer hat sicherzustellen, dass der Verbraucher auf der
+Webseite eine Erklärung zur ordentlichen oder außerordentlichen
+Kündigung eines auf der Webseite abschließbaren Vertrags nach Absatz 1
+Satz 1 über eine Kündigungsschaltfläche abgeben kann. Die
+Kündigungsschaltfläche muss gut lesbar mit nichts anderem als den
+Wörtern „Verträge hier kündigen“ oder mit einer entsprechenden
+eindeutigen Formulierung beschriftet sein. Sie muss den Verbraucher
+unmittelbar zu einer Bestätigungsseite führen, die
+
+1.  den Verbraucher auffordert und ihm ermöglicht Angaben zu machen
+
+    a)  zur Art der Kündigung sowie im Falle der außerordentlichen Kündigung
+        zum Kündigungsgrund,
+
+
+    b)  zu seiner eindeutigen Identifizierbarkeit,
+
+
+    c)  zur eindeutigen Bezeichnung des Vertrags,
+
+
+    d)  zum Zeitpunkt, zu dem die Kündigung das Vertragsverhältnis beenden
+        soll,
+
+
+    e)  zur schnellen elektronischen Übermittlung der Kündigungsbestätigung an
+        ihn und
+
+
+
+
+
+2.  eine Bestätigungsschaltfläche enthält, über deren Betätigung der
+    Verbraucher die Kündigungserklärung abgeben kann und die gut lesbar
+    mit nichts anderem als den Wörtern „jetzt kündigen“ oder mit einer
+    entsprechenden eindeutigen Formulierung beschriftet ist.
+
+
+
+Die Schaltflächen und die Bestätigungsseite müssen ständig verfügbar
+sowie unmittelbar und leicht zugänglich sein.
+
+(3) Der Verbraucher muss seine durch das Betätigen der
+Bestätigungsschaltfläche abgegebene Kündigungserklärung mit dem Datum
+und der Uhrzeit der Abgabe auf einem dauerhaften Datenträger so
+speichern können, dass erkennbar ist, dass die Kündigungserklärung
+durch das Betätigen der Bestätigungsschaltfläche abgegeben wurde.
+
+(4) Der Unternehmer hat dem Verbraucher den Inhalt sowie Datum und
+Uhrzeit des Zugangs der Kündigungserklärung sowie den Zeitpunkt, zu
+dem das Vertragsverhältnis durch die Kündigung beendet werden soll,
+sofort auf elektronischem Wege in Textform zu bestätigen. Es wird
+vermutet, dass eine durch das Betätigen der Bestätigungsschaltfläche
+abgegebene Kündigungserklärung dem Unternehmer unmittelbar nach ihrer
+Abgabe zugegangen ist.
+
+(5) Wenn der Verbraucher bei der Abgabe der Kündigungserklärung keinen
+Zeitpunkt angibt, zu dem die Kündigung das Vertragsverhältnis beenden
+soll, wirkt die Kündigung im Zweifel zum frühestmöglichen Zeitpunkt.
+
+(6) Werden die Schaltflächen und die Bestätigungsseite nicht
+entsprechend den Absätzen 1 und 2 zur Verfügung gestellt, kann ein
+Verbraucher einen Vertrag, für dessen Kündigung die Schaltflächen und
+die Bestätigungsseite zur Verfügung zu stellen sind, jederzeit und
+ohne Einhaltung einer Kündigungsfrist kündigen. Die Möglichkeit des
+Verbrauchers zur außerordentlichen Kündigung bleibt hiervon unberührt.
+
+
+###### § 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+
+(1) Der Betreiber eines Online-Marktplatzes ist verpflichtet, den
+Verbraucher nach Maßgabe des Artikels 246d des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu informieren.
+
+(2) Absatz 1 gilt nicht, soweit auf dem Online-Marktplatz Verträge
+über Finanzdienstleistungen angeboten werden.
+
+(3) Online-Marktplatz ist ein Dienst, der es Verbrauchern ermöglicht,
+durch die Verwendung von Software, die vom Unternehmer oder im Namen
+des Unternehmers betrieben wird, einschließlich einer Webseite, eines
+Teils einer Webseite oder einer Anwendung, Fernabsatzverträge mit
+anderen Unternehmern oder Verbrauchern abzuschließen.
+
+(4) Betreiber eines Online-Marktplatzes ist der Unternehmer, der einen
+Online-Marktplatz für Verbraucher zur Verfügung stellt.
+
+
 ###### Kapitel 4 - Abweichende Vereinbarungen und Beweislast
 
 
-###### § 312k Abweichende Vereinbarungen und Beweislast
+###### § 312m Abweichende Vereinbarungen und Beweislast
 
 (1) Von den Vorschriften dieses Untertitels darf, soweit nichts
 anderes bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden
@@ -6870,31 +7520,78 @@ Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem
 in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt. Satz 2 ist
 auf Verträge über Finanzdienstleistungen nicht anwendbar.
 
-(4) Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von
-Dienstleistungen auch dann, wenn der Unternehmer die Dienstleistung
-vollständig erbracht hat und mit der Ausführung der Dienstleistung
-erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche
-Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt
-hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung
-durch den Unternehmer verliert. Bei einem außerhalb von
-Geschäftsräumen geschlossenen Vertrag muss die Zustimmung des
-Verbrauchers auf einem dauerhaften Datenträger übermittelt werden. Bei
-einem Vertrag über die Erbringung von Finanzdienstleistungen erlischt
-das Widerrufsrecht abweichend von Satz 1, wenn der Vertrag von beiden
-Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt
-ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
+(4) Das Widerrufsrecht erlischt bei Verträgen über die Erbringung von
+Dienstleistungen auch unter folgenden Voraussetzungen:
 
-(5) Das Widerrufsrecht erlischt bei einem Vertrag über die Lieferung
+1.  bei einem Vertrag, der den Verbraucher nicht zur Zahlung eines Preises
+    verpflichtet, wenn der Unternehmer die Dienstleistung vollständig
+    erbracht hat,
+
+
+2.  bei einem Vertrag, der den Verbraucher zur Zahlung eines Preises
+    verpflichtet, mit der vollständigen Erbringung der Dienstleistung,
+    wenn der Verbraucher vor Beginn der Erbringung
+
+    a)  ausdrücklich zugestimmt hat, dass der Unternehmer mit der Erbringung
+        der Dienstleistung vor Ablauf der Widerrufsfrist beginnt,
+
+
+    b)  bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag die
+        Zustimmung nach Buchstabe a auf einem dauerhaften Datenträger
+        übermittelt hat und
+
+
+    c)  seine Kenntnis davon bestätigt hat, dass sein Widerrufsrecht mit
+        vollständiger Vertragserfüllung durch den Unternehmer erlischt,
+
+
+
+
+
+3.  bei einem Vertrag, bei dem der Verbraucher den Unternehmer
+    ausdrücklich aufgefordert hat, ihn aufzusuchen, um Reparaturarbeiten
+    auszuführen, mit der vollständigen Erbringung der Dienstleistung, wenn
+    der Verbraucher die in Nummer 2 Buchstabe a und b genannten
+    Voraussetzungen erfüllt hat,
+
+
+4.  bei einem Vertrag über die Erbringung von Finanzdienstleistungen, wenn
+    der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des
+    Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein
+    Widerrufsrecht ausübt.
+
+
+
+
+(5) Das Widerrufsrecht erlischt bei Verträgen über die Bereitstellung
 von nicht auf einem körperlichen Datenträger befindlichen digitalen
-Inhalten auch dann, wenn der Unternehmer mit der Ausführung des
-Vertrags begonnen hat, nachdem der Verbraucher
+Inhalten auch unter folgenden Voraussetzungen:
 
-1.  ausdrücklich zugestimmt hat, dass der Unternehmer mit der Ausführung
-    des Vertrags vor Ablauf der Widerrufsfrist beginnt, und
+1.  bei einem Vertrag, der den Verbraucher nicht zur Zahlung eines Preises
+    verpflichtet, wenn der Unternehmer mit der Vertragserfüllung begonnen
+    hat,
 
 
-2.  seine Kenntnis davon bestätigt hat, dass er durch seine Zustimmung mit
-    Beginn der Ausführung des Vertrags sein Widerrufsrecht verliert.
+2.  bei einem Vertrag, der den Verbraucher zur Zahlung eines Preises
+    verpflichtet, wenn
+
+    a)  der Unternehmer mit der Vertragserfüllung begonnen hat,
+
+
+    b)  der Verbraucher ausdrücklich zugestimmt hat, dass der Unternehmer mit
+        der Vertragserfüllung vor Ablauf der Widerrufsfrist beginnt,
+
+
+    c)  der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine
+        Zustimmung nach Buchstabe b mit Beginn der Vertragserfüllung sein
+        Widerrufsrecht erlischt, und
+
+
+    d)  der Unternehmer dem Verbraucher eine Bestätigung gemäß § 312f zur
+        Verfügung gestellt hat.
+
+
+
 
 
 
@@ -7021,22 +7718,28 @@ verweigern, bis er die Waren zurückerhalten hat oder der Verbraucher
 den Nachweis erbracht hat, dass er die Waren abgesandt hat. Dies gilt
 nicht, wenn der Unternehmer angeboten hat, die Waren abzuholen.
 
-(5) Der Verbraucher ist nicht verpflichtet, die empfangenen Waren
-zurückzusenden, wenn der Unternehmer angeboten hat, die Waren
-abzuholen.
-
-(6) Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der
+(5) Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der
 Waren, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1
 Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche von dieser Pflicht unterrichtet hat. Satz 1 gilt nicht,
 wenn der Unternehmer sich bereit erklärt hat, diese Kosten zu tragen.
-Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen
-die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des
-Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet,
+
+(6) Der Verbraucher ist nicht verpflichtet, die Waren zurückzusenden,
+wenn der Unternehmer angeboten hat, die Waren abzuholen.
+
+(7) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei
+denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des
+Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet,
 die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen
 sind, dass sie nicht per Post zurückgesandt werden können.
 
-(7) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu
+(8) Für die Rechtsfolgen des Widerrufs von Verträgen über die
+Bereitstellung digitaler Produkte gilt ferner § 327p entsprechend.
+
+
+###### § 357a Wertersatz als Rechtsfolge des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+
+(1) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu
 leisten, wenn
 
 1.  der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der
@@ -7046,35 +7749,43 @@ leisten, wenn
 
 2.  der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1
     Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über
-    sein Widerrufsrecht unterrichtet hat.
+    dessen Widerrufsrecht unterrichtet hat.
 
 
 
 
-(8) Widerruft der Verbraucher einen Vertrag über die Erbringung von
-Dienstleistungen oder über die Lieferung von Wasser, Gas oder Strom in
-nicht bestimmten Mengen oder nicht begrenztem Volumen oder über die
-Lieferung von Fernwärme, so schuldet der Verbraucher dem Unternehmer
-Wertersatz für die bis zum Widerruf erbrachte Leistung, wenn der
-Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass dieser
-mit der Leistung vor Ablauf der Widerrufsfrist beginnt. Der Anspruch
-aus Satz 1 besteht nur, wenn der Unternehmer den Verbraucher nach
-Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und 3 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß
-informiert hat. Bei außerhalb von Geschäftsräumen geschlossenen
-Verträgen besteht der Anspruch nach Satz 1 nur dann, wenn der
-Verbraucher sein Verlangen nach Satz 1 auf einem dauerhaften
-Datenträger übermittelt hat. Bei der Berechnung des Wertersatzes ist
-der vereinbarte Gesamtpreis zu Grunde zu legen. Ist der vereinbarte
-Gesamtpreis unverhältnismäßig hoch, ist der Wertersatz auf der
-Grundlage des Marktwerts der erbrachten Leistung zu berechnen.
+(2) Der Verbraucher hat Wertersatz für die bis zum Widerruf erbrachten
+Dienstleistungen, für die der Vertrag die Zahlung eines Preises
+vorsieht, oder die bis zum Widerruf erfolgte Lieferung von Wasser, Gas
+oder Strom in nicht bestimmten Mengen oder nicht begrenztem Volumen
+oder von Fernwärme zu leisten, wenn
 
-(9) Widerruft der Verbraucher einen Vertrag über die Lieferung von
-nicht auf einem körperlichen Datenträger befindlichen digitalen
+1.  der Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass
+    mit der Leistung vor Ablauf der Widerrufsfrist begonnen werden soll,
+
+
+2.  bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag der
+    Verbraucher das Verlangen nach Nummer 1 auf einem dauerhaften
+    Datenträger übermittelt hat und
+
+
+3.  der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1
+    Nummer 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+    ordnungsgemäß informiert hat.
+
+
+
+Bei der Berechnung des Wertersatzes ist der vereinbarte Gesamtpreis zu
+Grunde zu legen. Ist der vereinbarte Gesamtpreis unverhältnismäßig
+hoch, so ist der Wertersatz auf der Grundlage des Marktwerts der
+erbrachten Leistung zu berechnen.
+
+(3) Widerruft der Verbraucher einen Vertrag über die Bereitstellung
+von nicht auf einem körperlichen Datenträger befindlichen digitalen
 Inhalten, so hat er keinen Wertersatz zu leisten.
 
 
-###### § 357a Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
+###### § 357b Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
 
 (1) Die empfangenen Leistungen sind spätestens nach 30 Tagen
 zurückzugewähren.
@@ -7096,11 +7807,12 @@ verpflichtet, wenn er
 
 Im Falle des Widerrufs von Verträgen über eine entgeltliche
 Finanzierungshilfe, die von der Ausnahme des § 506 Absatz 4 erfasst
-sind, gilt auch § 357 Absatz 5 bis 8 entsprechend. Ist Gegenstand des
-Vertrags über die entgeltliche Finanzierungshilfe die Lieferung von
-nicht auf einem körperlichen Datenträger befindlichen digitalen
-Inhalten, hat der Verbraucher Wertersatz für die bis zum Widerruf
-gelieferten digitalen Inhalte zu leisten, wenn er
+sind, gelten auch § 357 Absatz 5 bis 7 und § 357a Absatz 1 und 2
+entsprechend. Ist Gegenstand des Vertrags über die entgeltliche
+Finanzierungshilfe die Lieferung von nicht auf einem körperlichen
+Datenträger befindlichen digitalen Inhalten, hat der Verbraucher
+Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu
+leisten, wenn er
 
 1.  vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge hingewiesen
     worden ist und
@@ -7134,7 +7846,7 @@ die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und
 nicht zurückverlangen kann.
 
 
-###### § 357b Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
+###### § 357c Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
 
 (1) Der Verbraucher hat im Falle des Widerrufs keine Kosten zu tragen.
 Die Kosten des Vertrags, seiner Durchführung und seiner Rückabwicklung
@@ -7147,20 +7859,20 @@ des § 481 nur Wertersatz zu leisten, soweit der Wertverlust auf einer
 nicht bestimmungsgemäßen Nutzung der Unterkunft beruht.
 
 
-###### § 357c Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
+###### § 357d Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
 
 Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis
-5 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten der
-Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer hat
-sich bereit erklärt, diese Kosten zu tragen. § 357 Absatz 7 ist mit
-der Maßgabe entsprechend anzuwenden, dass an die Stelle der
+4 und 6 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten
+der Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer
+hat sich bereit erklärt, diese Kosten zu tragen. § 357a Absatz 1 ist
+mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der
 Unterrichtung nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung
 nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche tritt.
 
 
-###### § 357d Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
+###### § 357e Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
 
 Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer
 Natur nach ausgeschlossen, schuldet der Verbraucher dem Unternehmer
@@ -7209,18 +7921,16 @@ den Veräußerer einseitig begünstigt.
 
 (4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig
 von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
-Vertrags, die §§ 357 bis 357b entsprechend anzuwenden. Ist der
+Vertrags, die §§ 357 bis 357c entsprechend anzuwenden. Ist der
 verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem
-körperlichen Datenträger befindlichen digitalen Inhalten und hat der
-Unternehmer dem Verbraucher eine Abschrift oder Bestätigung des
-Vertrags nach § 312f zur Verfügung gestellt, hat der Verbraucher
-abweichend von § 357 Absatz 9 unter den Voraussetzungen des § 356
-Absatz 5 zweiter und dritter Halbsatz Wertersatz für die bis zum
-Widerruf gelieferten digitalen Inhalte zu leisten. Ist der verbundene
-Vertrag ein im Fernabsatz oder außerhalb von Geschäftsräumen
-geschlossener Ratenlieferungsvertrag, ist neben § 355 Absatz 3 auch §
-357 entsprechend anzuwenden; im Übrigen gelten für verbundene
-Ratenlieferungsverträge § 355 Absatz 3 und § 357c entsprechend. Im
+körperlichen Datenträger befindlichen digitalen Inhalten, hat der
+Verbraucher abweichend von § 357a Absatz 3 unter den Voraussetzungen
+des § 356 Absatz 5 Nummer 2 Wertersatz für die bis zum Widerruf
+gelieferten digitalen Inhalte zu leisten. Ist der verbundene Vertrag
+ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener
+Ratenlieferungsvertrag, sind neben § 355 Absatz 3 auch die §§ 357 und
+357a entsprechend anzuwenden; im Übrigen gelten für verbundene
+Ratenlieferungsverträge § 355 Absatz 3 und § 357d entsprechend. Im
 Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und
 Kosten aus der Rückabwicklung des Darlehensvertrags gegen den
 Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum
@@ -7261,7 +7971,7 @@ Rückabwicklung des zusammenhängenden Vertrags ist § 358 Absatz 4 Satz
 1 bis 3 entsprechend anzuwenden. Widerruft der Verbraucher einen
 Teilzeit-Wohnrechtevertrag oder einen Vertrag über ein langfristiges
 Urlaubsprodukt, hat er auch für den zusammenhängenden Vertrag keine
-Kosten zu tragen; § 357b Absatz 1 Satz 2 und 3 gilt entsprechend.
+Kosten zu tragen; § 357c Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu
 dem widerrufenen Vertrag aufweist und eine Leistung betrifft, die von
@@ -9485,7 +10195,7 @@ Verbraucherdarlehensverträge sind Verträge,
 
 4.  die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum
     Arbeitsvertrag zu einem niedrigeren als dem marktüblichen effektiven
-    Jahreszins (§ 6 der Preisangabenverordnung) abgeschlossen werden und
+    Jahreszins (§ 16 der Preisangabenverordnung) abgeschlossen werden und
     anderen Personen nicht angeboten werden,
 
 
@@ -11966,12 +12676,12 @@ nach Absatz 2 Satz 1 zu.
 unwirksam.
 
 
-###### § 558c Mietspiegel
+###### § 558c Mietspiegel; Verordnungsermächtigung
 
 (1) Ein Mietspiegel ist eine Übersicht über die ortsübliche
-Vergleichsmiete, soweit die Übersicht von der Gemeinde oder von
-Interessenvertretern der Vermieter und der Mieter gemeinsam erstellt
-oder anerkannt worden ist.
+Vergleichsmiete, soweit die Übersicht von der nach Landesrecht
+zuständigen Behörde oder von Interessenvertretern der Vermieter und
+der Mieter gemeinsam erstellt oder anerkannt worden ist.
 
 (2) Mietspiegel können für das Gebiet einer Gemeinde oder mehrerer
 Gemeinden oder für Teile von Gemeinden erstellt werden.
@@ -11979,9 +12689,11 @@ Gemeinden oder für Teile von Gemeinden erstellt werden.
 (3) Mietspiegel sollen im Abstand von zwei Jahren der Marktentwicklung
 angepasst werden.
 
-(4) Gemeinden sollen Mietspiegel erstellen, wenn hierfür ein Bedürfnis
-besteht und dies mit einem vertretbaren Aufwand möglich ist. Die
-Mietspiegel und ihre Änderungen sollen veröffentlicht werden.
+(4) Die nach Landesrecht zuständigen Behörden sollen Mietspiegel
+erstellen, wenn hierfür ein Bedürfnis besteht und dies mit einem
+vertretbaren Aufwand möglich ist. Für Gemeinden mit mehr als 50 000
+Einwohnern sind Mietspiegel zu erstellen. Die Mietspiegel und ihre
+Änderungen sind zu veröffentlichen.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen über den näheren
@@ -11992,16 +12704,26 @@ Anpassung einschließlich Dokumentation und Veröffentlichung.
 ###### § 558d Qualifizierter Mietspiegel
 
 (1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach
-anerkannten wissenschaftlichen Grundsätzen erstellt und von der
-Gemeinde oder von Interessenvertretern der Vermieter und der Mieter
-anerkannt worden ist.
+anerkannten wissenschaftlichen Grundsätzen erstellt und von der nach
+Landesrecht zuständigen Behörde oder von Interessenvertretern der
+Vermieter und der Mieter anerkannt worden ist. Entspricht ein
+Mietspiegel den Anforderungen, die eine nach § 558c Absatz 5 erlassene
+Rechtsverordnung an qualifizierte Mietspiegel richtet, wird vermutet,
+dass er nach anerkannten wissenschaftlichen Grundsätzen erstellt
+wurde. Haben die nach Landesrecht zuständige Behörde und
+Interessenvertreter der Vermieter und der Mieter den Mietspiegel als
+qualifizierten Mietspiegel anerkannt, so wird vermutet, dass der
+Mietspiegel anerkannten wissenschaftlichen Grundsätzen entspricht.
 
 (2) Der qualifizierte Mietspiegel ist im Abstand von zwei Jahren der
 Marktentwicklung anzupassen. Dabei kann eine Stichprobe oder die
 Entwicklung des vom Statistischen Bundesamt ermittelten Preisindexes
 für die Lebenshaltung aller privaten Haushalte in Deutschland zugrunde
 gelegt werden. Nach vier Jahren ist der qualifizierte Mietspiegel neu
-zu erstellen.
+zu erstellen. Maßgeblicher Zeitpunkt für die Anpassung nach Satz 1 und
+für die Neuerstellung nach Satz 3 ist der Stichtag, zu dem die Daten
+für den Mietspiegel erhoben wurden. Satz 4 gilt entsprechend für die
+Veröffentlichung des Mietspiegels.
 
 (3) Ist die Vorschrift des Absatzes 2 eingehalten, so wird vermutet,
 dass die im qualifizierten Mietspiegel bezeichneten Entgelte die
@@ -14538,7 +15260,7 @@ Eingriffs in den Körper oder die Gesundheit, ist der Behandelnde
 verpflichtet, die Einwilligung des Patienten einzuholen. Ist der
 Patient einwilligungsunfähig, ist die Einwilligung eines hierzu
 Berechtigten einzuholen, soweit nicht eine Patientenverfügung nach §
-1901a Absatz 1 Satz 1 die Maßnahme gestattet oder untersagt.
+1827 Absatz 1 Satz 1 die Maßnahme gestattet oder untersagt.
 Weitergehende Anforderungen an die Einwilligung aus anderen
 Vorschriften bleiben unberührt. Kann eine Einwilligung für eine
 unaufschiebbare Maßnahme nicht rechtzeitig eingeholt werden, darf sie
@@ -23158,10 +23880,10 @@ ordnungsmäßigen Vermögensverwaltung geboten ist.
 ###### § 1079 Anlegung des Kapitals
 
 Der Nießbraucher und der Gläubiger sind einander verpflichtet, dazu
-mitzuwirken, dass das eingezogene Kapital nach den für die Anlegung
-von Mündelgeld geltenden Vorschriften verzinslich angelegt und
-gleichzeitig dem Nießbraucher der Nießbrauch bestellt wird. Die Art
-der Anlegung bestimmt der Nießbraucher.
+mitzuwirken, dass das eingezogene Kapital der Rechtsverordnung nach §
+240a entsprechend angelegt und gleichzeitig dem Nießbraucher der
+Nießbrauch bestellt wird. Die Art der Anlegung bestimmt der
+Nießbraucher.
 
 
 ###### § 1080 Nießbrauch an Grund- oder Rentenschuld
@@ -25442,10 +26164,10 @@ erwirbt der Pfandgläubiger eine Schiffshypothek.
 (1) Wird eine Geldforderung in Gemäßheit des § 1281 eingezogen, so
 sind der Pfandgläubiger und der Gläubiger einander verpflichtet, dazu
 mitzuwirken, dass der eingezogene Betrag, soweit es ohne
-Beeinträchtigung des Interesses des Pfandgläubigers tunlich ist, nach
-den für die Anlegung von Mündelgeld geltenden Vorschriften verzinslich
-angelegt und gleichzeitig dem Pfandgläubiger das Pfandrecht bestellt
-wird. Die Art der Anlegung bestimmt der Gläubiger.
+Beeinträchtigung des Interesses des Pfandgläubigers tunlich ist, der
+Rechtsverordnung nach § 240a entsprechend angelegt und gleichzeitig
+dem Pfandgläubiger das Pfandrecht bestellt wird. Die Art der Anlegung
+bestimmt der Gläubiger.
 
 (2) Erfolgt die Einziehung in Gemäßheit des § 1282, so gilt die
 Forderung des Pfandgläubigers, soweit ihm der eingezogene Betrag zu
@@ -26092,9 +26814,111 @@ Ausschließung nur nach Maßgabe des § 1412.
 (3) Absatz 1 gilt nicht, wenn die Ehegatten getrennt leben.
 
 
-##### § 1358
+##### § 1358 Gegenseitige Vertretung von Ehegatten in Angelegenheiten der Gesundheitssorge
 
-(weggefallen)
+(1) Kann ein Ehegatte aufgrund von Bewusstlosigkeit oder Krankheit
+seine Angelegenheiten der Gesundheitssorge rechtlich nicht besorgen
+(vertretener Ehegatte), ist der andere Ehegatte (vertretender
+Ehegatte) berechtigt, für den vertretenen Ehegatten
+
+1.  in Untersuchungen des Gesundheitszustandes, Heilbehandlungen oder
+    ärztliche Eingriffe einzuwilligen oder sie zu untersagen sowie
+    ärztliche Aufklärungen entgegenzunehmen,
+
+
+2.  Behandlungsverträge, Krankenhausverträge oder Verträge über eilige
+    Maßnahmen der Rehabilitation und der Pflege abzuschließen und
+    durchzusetzen,
+
+
+3.  über Maßnahmen nach § 1831 Absatz 4 zu entscheiden, sofern die Dauer
+    der Maßnahme im Einzelfall sechs Wochen nicht überschreitet, und
+
+
+4.  Ansprüche, die dem vertretenen Ehegatten aus Anlass der Erkrankung
+    gegenüber Dritten zustehen, geltend zu machen und an die
+    Leistungserbringer aus den Verträgen nach Nummer 2 abzutreten oder
+    Zahlung an diese zu verlangen.
+
+
+
+
+(2) Unter den Voraussetzungen des Absatzes 1 und hinsichtlich der in
+Absatz 1 Nummer 1 bis 4 genannten Angelegenheiten sind behandelnde
+Ärzte gegenüber dem vertretenden Ehegatten von ihrer Schweigepflicht
+entbunden. Dieser darf die diese Angelegenheiten betreffenden
+Krankenunterlagen einsehen und ihre Weitergabe an Dritte bewilligen.
+
+(3) Die Berechtigungen nach den Absätzen 1 und 2 bestehen nicht, wenn
+
+1.  die Ehegatten getrennt leben,
+
+
+2.  dem vertretenden Ehegatten oder dem behandelnden Arzt bekannt ist,
+    dass der vertretene Ehegatte
+
+    a)  eine Vertretung durch ihn in den in Absatz 1 Nummer 1 bis 4 genannten
+        Angelegenheiten ablehnt oder
+
+
+    b)  jemanden zur Wahrnehmung seiner Angelegenheiten bevollmächtigt hat,
+        soweit diese Vollmacht die in Absatz 1 Nummer 1 bis 4 bezeichneten
+        Angelegenheiten umfasst,
+
+
+
+
+
+3.  für den vertretenen Ehegatten ein Betreuer bestellt ist, soweit dessen
+    Aufgabenkreis die in Absatz 1 Nummer 1 bis 4 bezeichneten
+    Angelegenheiten umfasst, oder
+
+
+4.  die Voraussetzungen des Absatzes 1 nicht mehr vorliegen oder mehr als
+    sechs Monate seit dem durch den Arzt nach Absatz 4 Satz 1 Nummer 1
+    festgestellten Zeitpunkt vergangen sind.
+
+
+
+
+(4) Der Arzt, gegenüber dem das Vertretungsrecht ausgeübt wird, hat
+
+1.  das Vorliegen der Voraussetzungen des Absatzes 1 und den Zeitpunkt, zu
+    dem diese spätestens eingetreten sind, schriftlich zu bestätigen,
+
+
+2.  dem vertretenden Ehegatten die Bestätigung nach Nummer 1 mit einer
+    schriftlichen Erklärung über das Vorliegen der Voraussetzungen des
+    Absatzes 1 und das Nichtvorliegen der Ausschlussgründe des Absatzes 3
+    vorzulegen und
+
+
+3.  sich von dem vertretenden Ehegatten schriftlich versichern zu lassen,
+    dass
+
+    a)  das Vertretungsrecht wegen der Bewusstlosigkeit oder Krankheit,
+        aufgrund derer der Ehegatte seine Angelegenheiten der Gesundheitssorge
+        rechtlich nicht besorgen kann, bisher nicht ausgeübt wurde und
+
+
+    b)  kein Ausschlussgrund des Absatzes 3 vorliegt.
+
+
+
+
+
+
+Das Dokument mit der Bestätigung nach Satz 1 Nummer 1 und der
+Versicherung nach Satz 1 Nummer 3 ist dem vertretenden Ehegatten für
+die weitere Ausübung des Vertretungsrechts auszuhändigen.
+
+(5) Das Vertretungsrecht darf ab der Bestellung eines Betreuers,
+dessen Aufgabenkreis die in Absatz 1 Nummer 1 bis 4 bezeichneten
+Angelegenheiten umfasst, nicht mehr ausgeübt werden.
+
+(6) § 1821 Absatz 2 bis 4, § 1827 Absatz 1 bis 3, § 1828 Absatz 1 und
+2, § 1829 Absatz 1 bis 4 sowie § 1831 Absatz 4 in Verbindung mit
+Absatz 2 gelten entsprechend.
 
 
 ##### § 1359 Umfang der Sorgfaltspflicht
@@ -26764,22 +27588,28 @@ Der Betreuer kann den Ehevertrag nur mit Genehmigung des
 Betreuungsgerichts schließen.
 
 
-###### § 1412 Wirkung gegenüber Dritten
+###### § 1412 Wirkungen gegenüber Dritten
 
-(1) Haben die Ehegatten den gesetzlichen Güterstand ausgeschlossen
-oder geändert, so können sie hieraus einem Dritten gegenüber
-Einwendungen gegen ein Rechtsgeschäft, das zwischen einem von ihnen
-und dem Dritten vorgenommen worden ist, nur herleiten, wenn der
-Ehevertrag im Güterrechtsregister des zuständigen Amtsgerichts
-eingetragen oder dem Dritten bekannt war, als das Rechtsgeschäft
-vorgenommen wurde; Einwendungen gegen ein rechtskräftiges Urteil, das
-zwischen einem der Ehegatten und dem Dritten ergangen ist, sind nur
-zulässig, wenn der Ehevertrag eingetragen oder dem Dritten bekannt
-war, als der Rechtsstreit anhängig wurde.
+Haben die Ehegatten den gesetzlichen Güterstand ausgeschlossen oder
+geändert oder haben sie eine Vereinbarung über den Güterstand
+aufgehoben oder geändert, so können sie hieraus einem Dritten
+gegenüber Einwendungen
 
-(2) Das Gleiche gilt, wenn die Ehegatten eine im Güterrechtsregister
-eingetragene Regelung der güterrechtlichen Verhältnisse durch
-Ehevertrag aufheben oder ändern.
+1.  gegen ein Rechtsgeschäft, das zwischen einem der Ehegatten und dem
+    Dritten vorgenommen worden ist, nur herleiten, wenn das Vorhandensein
+    eines Ehevertrages dem Dritten bei Vornahme des Rechtsgeschäfts
+    bekannt gewesen oder infolge grober Fahrlässigkeit unbekannt geblieben
+    ist, oder
+
+
+2.  gegen ein rechtskräftiges Urteil, das zwischen einem der Ehegatten und
+    dem Dritten ergangen ist, nur herleiten, wenn das Vorhandensein eines
+    Ehevertrages dem Dritten bei dem Eintritt der Rechtshängigkeit des
+    Rechtsstreits bekannt gewesen oder infolge grober Fahrlässigkeit
+    unbekannt geblieben ist.
+
+
+
 
 
 ###### § 1413 Widerruf der Überlassung der Vermögensverwaltung
@@ -27063,7 +27893,7 @@ hat, das er ohne die erforderliche Zustimmung des anderen Ehegatten
 vorgenommen hat.
 
 
-###### § 1436 Verwalter unter Betreuung
+###### § 1436 Verwaltung durch einen Betreuer
 
 Fällt die Verwaltung des Gesamtguts in den Aufgabenkreis des Betreuers
 eines Ehegatten, so hat der Betreuer diesen in den Rechten und
@@ -27860,7 +28690,7 @@ Nachlassgericht soll die Erklärung dem überlebenden Ehegatten und den
 übrigen anteilsberechtigten Abkömmlingen mitteilen.
 
 (2) Der Verzicht kann auch durch Vertrag mit dem überlebenden
-Ehegatten und den Übrigen anteilsberechtigten Abkömmlingen erfolgen.
+Ehegatten und den übrigen anteilsberechtigten Abkömmlingen erfolgen.
 Der Vertrag bedarf der notariellen Beurkundung.
 
 (3) Steht der Abkömmling unter elterlicher Sorge oder unter
@@ -28217,7 +29047,7 @@ durch dessen Tod aufgelöst wird, auf seinen Anteil am Gesamtgut der
 fortgesetzten Gütergemeinschaft verzichtet oder durch den ein solcher
 Verzicht aufgehoben wird, ist die Zustimmung des anderen Ehegatten
 erforderlich. Für die Zustimmung gilt die Vorschrift des § 1516 Abs. 2
-Satz 3, 4.
+Absatz 2 Satz 2 und 3 entsprechend.
 
 (2) Die für den Erbverzicht geltenden Vorschriften finden
 entsprechende Anwendung.
@@ -28251,100 +29081,12 @@ anzuwenden.
 
 
 
-##### Untertitel 3 - Güterrechtsregister
+##### Untertitel 3 - (weggefallen)
 
 
 
-###### § 1558 Zuständiges Registergericht
+###### (XXXX) §§ 1558 bis 1563 (weggefallen)
 
-(1) Die Eintragungen in das Güterrechtsregister sind bei jedem
-Amtsgericht zu bewirken, in dessen Bezirk auch nur einer der Ehegatten
-seinen gewöhnlichen Aufenthalt hat.
-
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-einem Amtsgericht für die Bezirke mehrerer Amtsgerichte die
-Zuständigkeit für die Führung des Registers zu übertragen. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die Landesjustizverwaltungen übertragen.
-
-
-###### § 1559 Verlegung des gewöhnlichen Aufenthalts
-
-Verlegt ein Ehegatte nach der Eintragung seinen gewöhnlichen
-Aufenthalt in einen anderen Bezirk, so muss die Eintragung im Register
-dieses Bezirks wiederholt werden. Die frühere Eintragung gilt als von
-neuem erfolgt, wenn ein Ehegatte den gewöhnlichen Aufenthalt in den
-früheren Bezirk zurückverlegt.
-
-
-###### § 1560 Antrag auf Eintragung
-
-Eine Eintragung in das Register soll nur auf Antrag und nur insoweit
-erfolgen, als sie beantragt ist. Der Antrag ist in öffentlich
-beglaubigter Form zu stellen.
-
-
-###### § 1561 Antragserfordernisse
-
-(1) Zur Eintragung ist der Antrag beider Ehegatten erforderlich; jeder
-Ehegatte ist dem anderen gegenüber zur Mitwirkung verpflichtet.
-
-(2) Der Antrag eines Ehegatten genügt
-
-1.  zur Eintragung eines Ehevertrags oder einer auf gerichtlicher
-    Entscheidung beruhenden Änderung der güterrechtlichen Verhältnisse der
-    Ehegatten, wenn mit dem Antrag der Ehevertrag oder die mit dem Zeugnis
-    der Rechtskraft versehene Entscheidung vorgelegt wird;
-
-
-2.  zur Wiederholung einer Eintragung in das Register eines anderen
-    Bezirks, wenn mit dem Antrag eine nach der Aufhebung des bisherigen
-    Wohnsitzes erteilte, öffentlich beglaubigte Abschrift der früheren
-    Eintragung vorgelegt wird;
-
-
-3.  zur Eintragung des Einspruchs gegen den selbständigen Betrieb eines
-    Erwerbsgeschäfts durch den anderen Ehegatten und zur Eintragung des
-    Widerrufs der Einwilligung, wenn die Ehegatten in Gütergemeinschaft
-    leben und der Ehegatte, der den Antrag stellt, das Gesamtgut allein
-    oder mit dem anderen Ehegatten gemeinschaftlich verwaltet;
-
-
-4.  zur Eintragung der Beschränkung oder Ausschließung der Berechtigung
-    des anderen Ehegatten, Geschäfte mit Wirkung für den Antragsteller zu
-    besorgen (§ 1357 Abs. 2).
-
-
-
-
-(3) (weggefallen)
-
-
-###### § 1562 Öffentliche Bekanntmachung
-
-(1) Das Amtsgericht hat die Eintragung durch das für seine
-Bekanntmachungen bestimmte Blatt zu veröffentlichen.
-
-(2) Wird eine Änderung des Güterstands eingetragen, so hat sich die
-Bekanntmachung auf die Bezeichnung des Güterstands und, wenn dieser
-abweichend von dem Gesetz geregelt ist, auf eine allgemeine
-Bezeichnung der Abweichung zu beschränken.
-
-
-###### § 1563 Registereinsicht; Anwendung der Verordnung (EU) 2016/679 im Registerverfahren
-
-(1) Die Einsicht des Registers ist jedem gestattet. Von den
-Eintragungen kann eine Abschrift gefordert werden; die Abschrift ist
-auf Verlangen zu beglaubigen.
-
-(2) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 werden
-nach Absatz 1 durch Einsicht in das Register gewährt. Das
-Registergericht ist nicht verpflichtet, Personen, deren
-personenbezogene Daten im Güterrechtsregister oder in den
-Registerakten gespeichert sind, über die Offenlegung dieser Daten an
-Dritte Auskunft zu erteilen.
-
-(3) Im Übrigen gilt § 79a Absatz 2 und 3 entsprechend.
 
 
 #### Titel 7 - Scheidung der Ehe
@@ -29050,7 +29792,7 @@ nur selbst zustimmen; es bedarf hierzu der Zustimmung des gesetzlichen
 Vertreters.
 
 (3) Ein geschäftsfähiger Betreuter kann nur selbst anerkennen oder
-zustimmen; § 1903 bleibt unberührt.
+zustimmen; § 1825 bleibt unberührt.
 
 (4) Anerkennung und Zustimmung können nicht durch einen
 Bevollmächtigten erklärt werden.
@@ -30015,7 +30757,7 @@ werden.
 Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des
 Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner
 Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches
-Sozialgesetzbuch zuständigen Jugendamt zu den in § 58a des Achten
+Sozialgesetzbuch zuständigen Jugendamt zu den in § 58 des Achten
 Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit.
 
 
@@ -30055,13 +30797,13 @@ notwendig sind; der andere Elternteil ist unverzüglich zu
 unterrichten.
 
 (2) Der Vater und die Mutter können das Kind insoweit nicht vertreten,
-als nach § 1795 ein Vormund von der Vertretung des Kindes
+als nach § 1824 ein Betreuer von der Vertretung des Betreuten
 ausgeschlossen ist. Steht die elterliche Sorge für ein Kind den Eltern
 gemeinsam zu, so kann der Elternteil, in dessen Obhut sich das Kind
 befindet, Unterhaltsansprüche des Kindes gegen den anderen Elternteil
 geltend machen. Das Familiengericht kann dem Vater und der Mutter nach
-§ 1796 die Vertretung entziehen; dies gilt nicht für die Feststellung
-der Vaterschaft.
+§ 1789 Absatz 2 Satz 3 und 4 die Vertretung entziehen; dies gilt nicht
+für die Feststellung der Vaterschaft.
 
 (2a) Der Vater und die Mutter können das Kind in einem gerichtlichen
 Verfahren nach § 1598a Abs. 2 nicht vertreten.
@@ -30150,9 +30892,9 @@ die Rechte und Pflichten eines Pflegers.
 das Kind zu pflegen, zu erziehen, zu beaufsichtigen und seinen
 Aufenthalt zu bestimmen.
 
-(2) Kinder haben ein Recht auf gewaltfreie Erziehung. Körperliche
-Bestrafungen, seelische Verletzungen und andere entwürdigende
-Maßnahmen sind unzulässig.
+(2) Das Kind hat ein Recht auf Pflege und Erziehung unter Ausschluss
+von Gewalt, körperlichen Bestrafungen, seelischen Verletzungen und
+anderen entwürdigenden Maßnahmen.
 
 (3) Das Familiengericht hat die Eltern auf Antrag bei der Ausübung der
 Personensorge in geeigneten Fällen zu unterstützen.
@@ -30190,7 +30932,7 @@ soll. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 Die Eltern können nicht in eine Sterilisation des Kindes einwilligen.
 Auch das Kind selbst kann nicht in die Sterilisation einwilligen. §
-1909 findet keine Anwendung.
+1809 findet keine Anwendung.
 
 
 ##### § 1631d Beschneidung des männlichen Kindes
@@ -30227,7 +30969,7 @@ des weiblichen Geschlechts zur Folge haben könnten und für die nicht
 bereits nach Absatz 1 die Einwilligungsbefugnis fehlt, können die
 Eltern nur einwilligen, wenn der Eingriff nicht bis zu einer
 selbstbestimmten Entscheidung des Kindes aufgeschoben werden kann. §
-1909 ist nicht anzuwenden.
+1809 ist nicht anzuwenden.
 
 (3) Die Einwilligung nach Absatz 2 Satz 1 bedarf der Genehmigung des
 Familiengerichts, es sei denn, der operative Eingriff ist zur Abwehr
@@ -30368,10 +31110,10 @@ Pflegeperson auf Dauer ist, wenn
 ##### § 1638 Beschränkung der Vermögenssorge
 
 (1) Die Vermögenssorge erstreckt sich nicht auf das Vermögen, welches
-das Kind von Todes wegen erwirbt oder welches ihm unter Lebenden
-unentgeltlich zugewendet wird, wenn der Erblasser durch letztwillige
-Verfügung, der Zuwendende bei der Zuwendung bestimmt hat, dass die
-Eltern das Vermögen nicht verwalten sollen.
+das Kind von Todes wegen, durch unentgeltliche Zuwendung auf den
+Todesfall oder unter Lebenden erwirbt, wenn der Erblasser durch
+letztwillige Verfügung, der Zuwendende bei der Zuwendung bestimmt hat,
+dass die Eltern das Vermögen nicht verwalten sollen.
 
 (2) Was das Kind auf Grund eines zu einem solchen Vermögen gehörenden
 Rechts oder als Ersatz für die Zerstörung, Beschädigung oder
@@ -30386,13 +31128,12 @@ der andere Elternteil. Insoweit vertritt dieser das Kind.
 
 ##### § 1639 Anordnungen des Erblassers oder Zuwendenden
 
-(1) Was das Kind von Todes wegen erwirbt oder was ihm unter Lebenden
-unentgeltlich zugewendet wird, haben die Eltern nach den Anordnungen
-zu verwalten, die durch letztwillige Verfügung oder bei der Zuwendung
-getroffen worden sind.
+(1) Was das Kind von Todes wegen, durch unentgeltliche Zuwendung auf
+den Todesfall oder unter Lebenden erwirbt, haben die Eltern nach den
+Anordnungen zu verwalten, die durch letztwillige Verfügung oder bei
+der Zuwendung getroffen worden sind.
 
-(2) Die Eltern dürfen von den Anordnungen insoweit abweichen, als es
-nach § 1803 Abs. 2, 3 einem Vormund gestattet ist.
+(2) § 1837 Absatz 2 gilt entsprechend.
 
 
 ##### § 1640 Vermögensverzeichnis
@@ -30438,36 +31179,67 @@ anzulegen, soweit es nicht zur Bestreitung von Ausgaben bereitzuhalten
 ist.
 
 
-##### § 1643 Genehmigungspflichtige Rechtsgeschäfte
+##### § 1643 Genehmigungsbedürftige Rechtsgeschäfte
 
-(1) Zu Rechtsgeschäften für das Kind bedürfen die Eltern der
-Genehmigung des Familiengerichts in den Fällen, in denen nach § 1821
-und nach § 1822 Nr. 1, 3, 5, 8 bis 11 ein Vormund der Genehmigung
-bedarf.
+(1) Die Eltern bedürfen der Genehmigung des Familiengerichts in den
+Fällen, in denen ein Betreuer nach den §§ 1850 bis 1854 der
+Genehmigung des Betreuungsgerichts bedarf, soweit sich nicht aus den
+Absätzen 2 bis 5 etwas anderes ergibt.
 
-(2) Das Gleiche gilt für die Ausschlagung einer Erbschaft oder eines
-Vermächtnisses sowie für den Verzicht auf einen Pflichtteil. Tritt der
-Anfall an das Kind erst infolge der Ausschlagung eines Elternteils
-ein, der das Kind allein oder gemeinsam mit dem anderen Elternteil
-vertritt, so ist die Genehmigung nur erforderlich, wenn dieser neben
-dem Kind berufen war.
+(2) Nicht genehmigungsbedürftig gemäß § 1850 sind Verfügungen über
+Grundpfandrechte sowie Verpflichtungen zu einer solchen Verfügung.
 
-(3) Die Vorschriften der §§ 1825, 1828 bis 1831 sind entsprechend
-anzuwenden.
+(3) Tritt der Anfall einer Erbschaft oder eines Vermächtnisses an das
+Kind erst infolge der Ausschlagung eines Elternteils ein, der das Kind
+allein oder gemeinsam mit dem anderen Elternteil vertritt, ist die
+Genehmigung abweichend von § 1851 Nummer 1 nur dann erforderlich, wenn
+der Elternteil neben dem Kind berufen war. Ein
+Auseinandersetzungsvertrag und eine Vereinbarung, mit der das Kind aus
+einer Erbengemeinschaft ausscheidet, bedarf keiner Genehmigung.
+
+(4) Die Eltern bedürfen abweichend von § 1853 Satz 1 Nummer 1 der
+Genehmigung zum Abschluss eines Miet- oder Pachtvertrags oder eines
+anderen Vertrags, durch den das Kind zu wiederkehrenden Leistungen
+verpflichtet wird, wenn das Vertragsverhältnis länger als ein Jahr
+nach dem Eintritt der Volljährigkeit des Kindes fortdauern soll. Eine
+Genehmigung ist nicht erforderlich, wenn
+
+1.  es sich um einen Ausbildungs-, Dienst- oder Arbeitsvertrag handelt,
 
 
-##### § 1644 Überlassung von Vermögensgegenständen an das Kind
-
-Die Eltern können Gegenstände, die sie nur mit Genehmigung des
-Familiengerichts veräußern dürfen, dem Kind nicht ohne diese
-Genehmigung zur Erfüllung eines von dem Kind geschlossenen Vertrags
-oder zu freier Verfügung überlassen.
+2.  der Vertrag geringe wirtschaftliche Bedeutung für das Kind hat oder
 
 
-##### § 1645 Neues Erwerbsgeschäft
+3.  das Vertragsverhältnis von dem Kind nach Eintritt der Volljährigkeit
+    spätestens zum Ablauf des 19. Lebensjahres ohne eigene Nachteile
+    gekündigt werden kann.
 
-Die Eltern sollen nicht ohne Genehmigung des Familiengerichts ein
-neues Erwerbsgeschäft im Namen des Kindes beginnen.
+
+
+§ 1853 Satz 1 Nummer 2 ist nicht anzuwenden.
+
+(5) § 1854 Nummer 6 bis 8 ist nicht anzuwenden.
+
+
+##### § 1644 Ergänzende Vorschriften für genehmigungsbedürftige Rechtsgeschäfte
+
+(1) Das Familiengericht erteilt die Genehmigung, wenn das
+Rechtsgeschäft dem Wohl des Kindes unter Berücksichtigung der
+Grundsätze einer wirtschaftlichen Vermögensverwaltung nicht
+widerspricht.
+
+(2) § 1860 Absatz 2 gilt entsprechend.
+
+(3) Für die Erteilung der Genehmigung gelten die §§ 1855 bis 1856
+Absatz 2 sowie die §§ 1857 und 1858 entsprechend. Ist das Kind
+volljährig geworden, so tritt seine Genehmigung an die Stelle der
+Genehmigung des Familiengerichts.
+
+
+##### § 1645 Anzeigepflicht für Erwerbsgeschäfte
+
+Die Eltern haben Beginn, Art und Umfang eines neuen Erwerbsgeschäfts
+im Namen des Kindes beim Familiengericht anzuzeigen.
 
 
 ##### § 1646 Erwerb mit Mitteln des Kindes
@@ -30608,13 +31380,12 @@ Verzeichnis durch eine zuständige Behörde oder durch einen zuständigen
 Beamten oder Notar aufgenommen wird.
 
 (2) Das Familiengericht kann anordnen, dass das Geld des Kindes in
-bestimmter Weise anzulegen und dass zur Abhebung seine Genehmigung
-erforderlich ist. Gehören Wertpapiere, Kostbarkeiten oder
-Schuldbuchforderungen gegen den Bund oder ein Land zum Vermögen des
-Kindes, so kann das Familiengericht dem Elternteil, der das Kind
-vertritt, die gleichen Verpflichtungen auferlegen, die nach §§ 1814
-bis 1816, 1818 einem Vormund obliegen; die §§ 1819, 1820 sind
-entsprechend anzuwenden.
+bestimmter Weise anzulegen und zur Abhebung seine Genehmigung
+erforderlich ist. Gehören Wertpapiere oder Wertgegenstände zum
+Vermögen des Kindes, so kann das Familiengericht dem Elternteil, der
+das Kind vertritt, die gleichen Verpflichtungen auferlegen, die nach
+den §§ 1843 bis 1845 einem Betreuer obliegen; die §§ 1842 und 1849
+Absatz 1 sind entsprechend anzuwenden.
 
 (3) Das Familiengericht kann dem Elternteil, der das Vermögen des
 Kindes gefährdet, Sicherheitsleistung für das seiner Verwaltung
@@ -30709,13 +31480,13 @@ Sorge tatsächlich nicht ausüben kann.
 feststellt, dass der Grund des Ruhens nicht mehr besteht.
 
 
-##### § 1674a Ruhen der elterlichen Sorge der Mutter für ein vertraulich geborenes Kind
+##### § 1674a Ruhen der elterlichen Sorge für ein vertraulich geborenes Kind
 
-Die elterliche Sorge der Mutter für ein nach § 25 Absatz 1 des
-Schwangerschaftskonfliktgesetzes vertraulich geborenes Kind ruht. Ihre
+Die elterliche Sorge der Eltern für ein nach § 25 Absatz 1 des
+Schwangerschaftskonfliktgesetzes vertraulich geborenes Kind ruht. Die
 elterliche Sorge lebt wieder auf, wenn das Familiengericht feststellt,
-dass sie ihm gegenüber die für den Geburtseintrag ihres Kindes
-erforderlichen Angaben gemacht hat.
+dass ein Elternteil ihm gegenüber die für den Geburtseintrag des
+Kindes erforderlichen Angaben gemacht hat.
 
 
 ##### § 1675 Wirkung des Ruhens
@@ -31096,8 +31867,10 @@ der beantragten Beistandschaft die alleinige elterliche Sorge zusteht
 oder zustünde, wenn das Kind bereits geboren wäre. Steht die
 elterliche Sorge für das Kind den Eltern gemeinsam zu, kann der Antrag
 von dem Elternteil gestellt werden, in dessen Obhut sich das Kind
-befindet. Der Antrag kann auch von einem nach § 1776 berufenen Vormund
-gestellt werden. Er kann nicht durch einen Vertreter gestellt werden.
+befindet. Der Antrag kann auch von einem ehrenamtlichen Vormund, sowie
+von einer Pflegeperson, der nach § 1630 Absatz 3 Angelegenheiten der
+elterlichen Sorge übertragen wurden, gestellt werden. Er kann nicht
+durch einen Vertreter gestellt werden.
 
 (2) Vor der Geburt des Kindes kann die werdende Mutter den Antrag auch
 dann stellen, wenn das Kind, sofern es bereits geboren wäre, unter
@@ -31128,9 +31901,8 @@ in § 1713 genannten Voraussetzungen mehr erfüllt.
 
 Durch die Beistandschaft wird die elterliche Sorge nicht
 eingeschränkt. Im Übrigen gelten die Vorschriften über die Pflegschaft
-mit Ausnahme derjenigen über die Aufsicht des Familiengerichts und die
-Rechnungslegung sinngemäß; die §§ 1791, 1791c Abs. 3 sind nicht
-anzuwenden.
+für Minderjährige mit Ausnahme derjenigen über die Aufsicht des
+Familiengerichts und die Rechnungslegung sinngemäß.
 
 
 ##### § 1717 Erfordernis des gewöhnlichen Aufenthalts im Inland
@@ -31819,7 +32591,7 @@ aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der
 Antrag des Anzunehmenden.
 
 
-### Abschnitt 3 - Vormundschaft, Rechtliche Betreuung, Pflegschaft
+### Abschnitt 3 - Vormundschaft, Pflegschaft für Minderjährige, rechtliche Betreuung, sonstige Pflegschaft
 
 
 
@@ -31831,374 +32603,1312 @@ Antrag des Anzunehmenden.
 
 
 
-###### § 1773 Voraussetzungen
-
-(1) Ein Minderjähriger erhält einen Vormund, wenn er nicht unter
-elterlicher Sorge steht oder wenn die Eltern weder in den die Person
-noch in den das Vermögen betreffenden Angelegenheiten zur Vertretung
-des Minderjährigen berechtigt sind.
-
-(2) Ein Minderjähriger erhält einen Vormund auch dann, wenn sein
-Familienstand nicht zu ermitteln ist.
+###### Kapitel 1 - Bestellte Vormundschaft
 
 
-###### § 1774 Anordnung von Amts wegen
 
-Das Familiengericht hat die Vormundschaft von Amts wegen anzuordnen.
-Ist anzunehmen, dass ein Kind mit seiner Geburt eines Vormunds bedarf,
-so kann schon vor der Geburt des Kindes ein Vormund bestellt werden;
-die Bestellung wird mit der Geburt des Kindes wirksam.
+###### Unterkapitel 1 - Allgemeine Vorschriften
+
+
+
+###### § 1773 Voraussetzungen der Vormundschaft; Bestellung des Vormunds
+
+(1) Das Familiengericht hat die Vormundschaft für einen Minderjährigen
+anzuordnen und ihm einen Vormund zu bestellen, wenn
+
+1.  er nicht unter elterlicher Sorge steht,
+
+
+2.  seine Eltern nicht berechtigt sind, ihn in den seine Person und sein
+    Vermögen betreffenden Angelegenheiten zu vertreten, oder
+
+
+3.  sein Familienstand nicht zu ermitteln ist.
+
+
+
+
+(2) Ist anzunehmen, dass ein Kind mit seiner Geburt einen Vormund
+benötigt, so kann schon vor der Geburt des Kindes eine Vormundschaft
+angeordnet und ein Vormund bestellt werden. Die Bestellung wird mit
+der Geburt des Kindes wirksam.
+
+
+###### § 1774 Vormund
+
+(1) Zum Vormund kann bestellt werden:
+
+1.  eine natürliche Person, die die Vormundschaft ehrenamtlich führt,
+
+
+2.  eine natürliche Person, die die Vormundschaft beruflich selbständig
+    führt (Berufsvormund),
+
+
+3.  ein Mitarbeiter eines vom überörtlichen Träger der Jugendhilfe
+    anerkannten Vormundschaftsvereins, wenn der Mitarbeiter dort
+    ausschließlich oder teilweise als Vormund tätig ist (Vereinsvormund),
+    oder
+
+
+4.  das Jugendamt.
+
+
+
+
+(2) Zum vorläufigen Vormund kann bestellt werden:
+
+1.  ein vom überörtlichen Träger der Jugendhilfe anerkannter
+    Vormundschaftsverein,
+
+
+2.  das Jugendamt.
+
+
+
 
 
 ###### § 1775 Mehrere Vormünder
 
-Das Familiengericht kann ein Ehepaar gemeinschaftlich zu Vormündern
-bestellen. Im Übrigen soll das Familiengericht, sofern nicht besondere
-Gründe für die Bestellung mehrerer Vormünder vorliegen, für den Mündel
-und, wenn Geschwister zu bevormunden sind, für alle Mündel nur einen
-Vormund bestellen.
+(1) Ehegatten können gemeinschaftlich zu Vormündern bestellt werden.
+
+(2) Für Geschwister soll nur ein Vormund bestellt werden, es sei denn,
+es liegen besondere Gründe vor, jeweils einen Vormund für einzelne
+Geschwister zu bestellen.
 
 
-###### § 1776 Benennungsrecht der Eltern
+###### § 1776 Zusätzlicher Pfleger
 
-(1) Als Vormund ist berufen, wer von den Eltern des Mündels als
-Vormund benannt ist.
+(1) Das Familiengericht kann bei Bestellung eines ehrenamtlichen
+Vormunds mit dessen Einverständnis einzelne Sorgeangelegenheiten oder
+eine bestimmte Art von Sorgeangelegenheiten auf einen Pfleger
+übertragen, wenn die Übertragung dieser Angelegenheiten dem Wohl des
+Mündels dient. Die Übertragung ist auch nachträglich möglich, wenn der
+Vormund zustimmt.
 
-(2) Haben der Vater und die Mutter verschiedene Personen benannt, so
-gilt die Benennung durch den zuletzt verstorbenen Elternteil.
+(2) Die Übertragung ist ganz oder teilweise aufzuheben,
+
+1.  wenn sie dem Wohl des Mündels widerspricht,
 
 
-###### § 1777 Voraussetzungen des Benennungsrechts
+2.  auf Antrag des Vormunds oder des Pflegers, wenn der jeweils andere
+    Teil zustimmt und die Aufhebung dem Wohl des Mündels nicht
+    widerspricht, oder
 
-(1) Die Eltern können einen Vormund nur benennen, wenn ihnen zur Zeit
+
+3.  auf Antrag des Mündels, der das 14. Lebensjahr vollendet hat, wenn
+    Vormund und Pfleger der Aufhebung zustimmen.
+
+
+
+Die Zustimmung gemäß Satz 1 Nummer 2 und 3 ist entbehrlich, wenn ein
+wichtiger Grund für die Aufhebung vorliegt.
+
+(3) Im Übrigen gelten die Vorschriften über die Pflegschaft für
+Minderjährige entsprechend. Neben einem Pfleger nach § 1809 oder
+§ 1777 kann ein Pfleger nach Absatz 1 nicht bestellt werden.
+
+
+###### § 1777 Übertragung von Sorgeangelegenheiten auf die Pflegeperson als Pfleger
+
+(1) Das Familiengericht überträgt auf Antrag des Vormunds oder der
+Pflegeperson einzelne Sorgeangelegenheiten oder eine bestimmte Art von
+Sorgeangelegenheiten auf die Pflegeperson als Pfleger, wenn
+
+1.  der Mündel seit längerer Zeit bei der Pflegeperson lebt oder bereits
+    bei Begründung des Pflegeverhältnisses eine persönliche Bindung
+    zwischen dem Mündel und der Pflegeperson besteht,
+
+
+2.  die Pflegeperson oder der Vormund dem Antrag des jeweils anderen auf
+    Übertragung zustimmt und
+
+
+3.  die Übertragung dem Wohl des Mündels dient.
+
+
+
+Ein entgegenstehender Wille des Mündels ist zu berücksichtigen.
+
+(2) Sorgeangelegenheiten, deren Regelung für den Mündel von
+erheblicher Bedeutung ist, werden der Pflegeperson nur zur gemeinsamen
+Wahrnehmung mit dem Vormund übertragen.
+
+(3) Den Antrag auf Übertragung nach Absatz 1 Satz 1 kann auch der
+Mündel stellen, wenn er das 14. Lebensjahr vollendet hat. Für die
+Übertragung ist die Zustimmung des Vormunds und der Pflegeperson
+erforderlich.
+
+(4) § 1776 Absatz 2 gilt entsprechend. Im Übrigen gelten die
+Vorschriften über die Pflegschaft für Minderjährige entsprechend.
+Neben einem Pfleger nach § 1809 oder § 1776 kann die Pflegeperson
+nicht zum Pfleger bestellt werden.
+
+
+###### Unterkapitel 2 - Auswahl des Vormunds
+
+
+
+###### § 1778 Auswahl des Vormunds durch das Familiengericht
+
+(1) Ist die Vormundschaft nicht einem nach § 1782 Benannten zu
+übertragen, hat das Familiengericht den Vormund auszuwählen, der am
+besten geeignet ist, für die Person und das Vermögen des Mündels zu
+sorgen.
+
+(2) Bei der Auswahl sind insbesondere zu berücksichtigen:
+
+1.  der Wille des Mündels, seine familiären Beziehungen, seine
+    persönlichen Bindungen, sein religiöses Bekenntnis und sein
+    kultureller Hintergrund,
+
+
+2.  der wirkliche oder mutmaßliche Wille der Eltern und
+
+
+3.  die Lebensumstände des Mündels.
+
+
+
+
+
+###### § 1779 Eignung der Person; Vorrang des ehrenamtlichen Vormunds
+
+(1) Eine natürliche Person muss nach
+
+1.  ihren Kenntnissen und Erfahrungen,
+
+
+2.  ihren persönlichen Eigenschaften,
+
+
+3.  ihren persönlichen Verhältnissen und ihrer Vermögenslage sowie
+
+
+4.  ihrer Fähigkeit und Bereitschaft zur Zusammenarbeit mit den anderen an
+    der Erziehung des Mündels beteiligten Personen
+
+
+
+geeignet sein, die Vormundschaft so zu führen, wie es das Wohl des
+Mündels erfordert.
+
+(2) Eine natürliche Person, die geeignet und bereit ist, die
+Vormundschaft ehrenamtlich zu führen, hat gegenüber den in § 1774
+Absatz 1 Nummer 2 bis 4 genannten Vormündern Vorrang. Von ihrer
+Eignung ist auch dann auszugehen, wenn ein zusätzlicher Pfleger nach §
+1776 bestellt wird.
+
+
+###### § 1780 Berücksichtigung der beruflichen Belastung des Berufs- und Vereinsvormunds
+
+Soll ein Berufsvormund oder ein Vereinsvormund bestellt werden, ist
+seine berufliche Arbeitsbelastung, insbesondere die Anzahl und der
+Umfang der bereits zu führenden Vormundschaften und Pflegschaften zu
+berücksichtigen. Er ist dem Familiengericht zur Auskunft hierüber
+verpflichtet.
+
+
+###### § 1781 Bestellung eines vorläufigen Vormunds
+
+(1) Sind die erforderlichen Ermittlungen zur Auswahl des geeigneten
+Vormunds insbesondere im persönlichen Umfeld des Mündels im Zeitpunkt
+der Anordnung der Vormundschaft noch nicht abgeschlossen oder besteht
+ein vorübergehendes Hindernis für die Bestellung des Vormunds,
+bestellt das Familiengericht einen vorläufigen Vormund.
+
+(2) Der Vormundschaftsverein überträgt die Aufgaben des vorläufigen
+Vormunds einzelnen seiner Mitarbeiter; § 1784 gilt entsprechend. Der
+Vormundschaftsverein hat dem Familiengericht alsbald, spätestens
+binnen zwei Wochen nach seiner Bestellung zum vorläufigen Vormund
+mitzuteilen, welchem Mitarbeiter die Ausübung der Aufgaben des
+vorläufigen Vormunds übertragen worden sind.
+
+(3) Das Familiengericht hat den Vormund alsbald, längstens aber binnen
+drei Monaten ab Bestellung des vorläufigen Vormunds zu bestellen. Die
+Frist kann durch Beschluss des Gerichts nach Anhörung der Beteiligten
+um höchstens weitere drei Monate verlängert werden, wenn trotz
+eingeleiteter Ermittlungen des Familiengerichts der für den Mündel am
+besten geeignete Vormund noch nicht bestellt werden konnte.
+
+(4) Die Bestellung des Jugendamtes oder eines Vereinsmitarbeiters zum
+Vormund ist auch erforderlich, wenn das Familiengericht das Jugendamt
+oder einen Vormundschaftsverein zuvor als vorläufigen Vormund
+ausgewählt hat.
+
+(5) Mit der Bestellung des Vormunds endet das Amt des vorläufigen
+Vormunds.
+
+
+###### § 1782 Benennung und Ausschluss als Vormund durch die Eltern
+
+(1) Die Eltern können durch letztwillige Verfügung eine natürliche
+Person als Vormund oder Ehegatten als gemeinschaftliche Vormünder
+benennen oder von der Vormundschaft ausschließen, wenn ihnen zur Zeit
 ihres Todes die Sorge für die Person und das Vermögen des Kindes
-zusteht.
+zusteht. Die Benennung und der Ausschluss können schon vor der Geburt
+des Kindes erfolgen, wenn dem jeweiligen Elternteil die Sorge für die
+Person und das Vermögen des Kindes zustünde, falls es vor dem Tod des
+Elternteils geboren wäre.
 
-(2) Der Vater kann für ein Kind, das erst nach seinem Tode geboren
-wird, einen Vormund benennen, wenn er dazu berechtigt sein würde,
-falls das Kind vor seinem Tode geboren wäre.
+(2) Haben die Eltern widersprüchliche letztwillige Verfügungen zur
+Benennung oder zum Ausschluss von Vormündern getroffen, so gilt die
+Verfügung durch den zuletzt verstorbenen Elternteil.
 
-(3) Der Vormund wird durch letztwillige Verfügung benannt.
 
+###### § 1783 Übergehen der benannten Person
 
-###### § 1778 Übergehen des benannten Vormunds
+(1) Die benannte Person darf als Vormund ohne ihre Zustimmung nur
+übergangen werden, wenn
 
-(1) Wer nach § 1776 als Vormund berufen ist, darf ohne seine
-Zustimmung nur übergangen werden,
+1.  sie nach § 1784 nicht zum Vormund bestellt werden kann oder soll,
 
-1.  wenn er nach den §§ 1780 bis 1784 nicht zum Vormund bestellt werden
-    kann oder soll,
 
+2.  ihre Bestellung dem Wohl des Mündels widersprechen würde,
 
-2.  wenn er an der Übernahme der Vormundschaft verhindert ist,
 
+3.  der Mündel, der das 14. Lebensjahr vollendet hat, der Bestellung
+    widerspricht,
 
-3.  wenn er die Übernahme verzögert,
 
+4.  sie aus rechtlichen oder tatsächlichen Gründen an der Übernahme der
+    Vormundschaft verhindert ist oder
 
-4.  wenn seine Bestellung das Wohl des Mündels gefährden würde,
 
+5.  sie sich nicht binnen vier Wochen ab der Aufforderung des
+    Familiengerichts zur Übernahme der Vormundschaft bereit erklärt hat.
 
-5.  wenn der Mündel, der das 14. Lebensjahr vollendet hat, der Bestellung
-    widerspricht, es sei denn, der Mündel ist geschäftsunfähig.
 
 
 
+(2) Wurde die benannte Person gemäß Absatz 1 Nummer 4 übergangen und
+war sie nur vorübergehend verhindert, so ist sie auf ihren Antrag
+anstelle des bisherigen Vormunds zum Vormund zu bestellen, wenn
 
-(2) Ist der Berufene nur vorübergehend verhindert, so hat ihn das
-Familiengericht nach dem Wegfall des Hindernisses auf seinen Antrag
-anstelle des bisherigen Vormunds zum Vormund zu bestellen.
+1.  sie den Antrag innerhalb von sechs Monaten nach der Bestellung des
+    bisherigen Vormunds gestellt hat,
 
-(3) Neben dem Berufenen darf nur mit dessen Zustimmung ein Mitvormund
-bestellt werden.
 
+2.  die Entlassung des bisherigen Vormunds dem Wohl des Mündels nicht
+    widerspricht und
 
-###### § 1779 Auswahl durch das Familiengericht
 
-(1) Ist die Vormundschaft nicht einem nach § 1776 Berufenen zu
-übertragen, so hat das Familiengericht nach Anhörung des Jugendamts
-den Vormund auszuwählen.
+3.  der Mündel, der das 14. Lebensjahr vollendet hat, der Entlassung des
+    bisherigen Vormunds nicht widerspricht.
 
-(2) Das Familiengericht soll eine Person auswählen, die nach ihren
-persönlichen Verhältnissen und ihrer Vermögenslage sowie nach den
-sonstigen Umständen zur Führung der Vormundschaft geeignet ist. Bei
-der Auswahl unter mehreren geeigneten Personen sind der mutmaßliche
-Wille der Eltern, die persönlichen Bindungen des Mündels, die
-Verwandtschaft oder Schwägerschaft mit dem Mündel sowie das religiöse
-Bekenntnis des Mündels zu berücksichtigen.
 
-(3) Das Familiengericht soll bei der Auswahl des Vormunds Verwandte
-oder Verschwägerte des Mündels hören, wenn dies ohne erhebliche
-Verzögerung und ohne unverhältnismäßige Kosten geschehen kann. Die
-Verwandten und Verschwägerten können von dem Mündel Ersatz ihrer
-Auslagen verlangen; der Betrag der Auslagen wird von dem
-Familiengericht festgesetzt.
 
 
-###### § 1780 Unfähigkeit zur Vormundschaft
 
-Zum Vormund kann nicht bestellt werden, wer geschäftsunfähig ist.
+###### § 1784 Ausschlussgründe
 
+(1) Nicht zum Vormund bestellt werden kann, wer geschäftsunfähig ist.
 
-###### § 1781 Untauglichkeit zur Vormundschaft
+(2) Nicht zum Vormund bestellt werden soll in der Regel eine Person,
 
-Zum Vormund soll nicht bestellt werden:
+1.  die minderjährig ist,
 
-1.  wer minderjährig ist,
 
+2.  für die ein Betreuer bestellt ist, sofern die Betreuung die für die
+    Führung der Vormundschaft wesentlichen Angelegenheiten umfasst, oder
+    für die ein Einwilligungsvorbehalt nach § 1825 angeordnet ist,
 
-2.  derjenige, für den ein Betreuer bestellt ist.
 
+3.  die die Eltern gemäß § 1782 als Vormund ausgeschlossen haben, oder
 
 
+4.  die zu einer Einrichtung, in der der Mündel lebt, in einem
+    Abhängigkeitsverhältnis oder in einer anderen engen Beziehung steht.
 
 
-###### § 1782 Ausschluss durch die Eltern
 
-(1) Zum Vormund soll nicht bestellt werden, wer durch Anordnung der
-Eltern des Mündels von der Vormundschaft ausgeschlossen ist. Haben die
-Eltern einander widersprechende Anordnungen getroffen, so gilt die
-Anordnung des zuletzt verstorbenen Elternteils.
 
-(2) Auf die Ausschließung sind die Vorschriften des § 1777 anzuwenden.
 
+###### § 1785 Übernahmepflicht; weitere Bestellungsvoraussetzungen
 
-###### § 1783
+(1) Die vom Familiengericht ausgewählte Person ist verpflichtet, die
+Vormundschaft zu übernehmen, wenn ihr die Übernahme unter
+Berücksichtigung ihrer familiären, beruflichen und sonstigen
+Verhältnisse zugemutet werden kann.
 
-(weggefallen)
+(2) Die ausgewählte Person darf erst dann zum Vormund bestellt werden,
+wenn sie sich zur Übernahme der Vormundschaft bereit erklärt hat.
 
+(3) Der Vormundschaftsverein und der Vereinsvormund dürfen nur mit
+Einwilligung des Vereins bestellt werden.
 
-###### § 1784 Beamter oder Religionsdiener als Vormund
 
-(1) Ein Beamter oder Religionsdiener, der nach den Landesgesetzen
-einer besonderen Erlaubnis zur Übernahme einer Vormundschaft bedarf,
-soll nicht ohne die vorgeschriebene Erlaubnis zum Vormund bestellt
-werden.
+###### Kapitel 2 - Gesetzliche Amtsvormundschaft
 
-(2) Diese Erlaubnis darf nur versagt werden, wenn ein wichtiger
-dienstlicher Grund vorliegt.
 
 
-###### § 1785 Übernahmepflicht
+###### § 1786 Amtsvormundschaft bei Fehlen eines sorgeberechtigten Elternteils
 
-Jeder Deutsche hat die Vormundschaft, für die er von dem
-Familiengericht ausgewählt wird, zu übernehmen, sofern nicht seiner
-Bestellung zum Vormund einer der in den §§ 1780 bis 1784 bestimmten
-Gründe entgegensteht.
-
-
-###### § 1786 Ablehnungsrecht
-
-(1) Die Übernahme der Vormundschaft kann ablehnen:
-
-1.  ein Elternteil, welcher zwei oder mehr noch nicht schulpflichtige
-    Kinder überwiegend betreut oder glaubhaft macht, dass die ihm
-    obliegende Fürsorge für die Familie die Ausübung des Amts dauernd
-    besonders erschwert,
-
-
-2.  wer das 60. Lebensjahr vollendet hat,
-
-
-3.  wem die Sorge für die Person oder das Vermögen von mehr als drei
-    minderjährigen Kindern zusteht,
-
-
-4.  wer durch Krankheit oder durch Gebrechen verhindert ist, die
-    Vormundschaft ordnungsmäßig zu führen,
-
-
-5.  wer wegen Entfernung seines Wohnsitzes von dem Sitz des
-    Familiengerichts die Vormundschaft nicht ohne besondere Belästigung
-    führen kann,
-
-
-6.  (weggefallen)
-
-
-7.  wer mit einem anderen zur gemeinschaftlichen Führung der Vormundschaft
-    bestellt werden soll,
-
-
-8.  wer mehr als eine Vormundschaft, Betreuung oder Pflegschaft führt; die
-    Vormundschaft oder Pflegschaft über mehrere Geschwister gilt nur als
-    eine; die Führung von zwei Gegenvormundschaften steht der Führung
-    einer Vormundschaft gleich.
-
-
-
-
-(2) Das Ablehnungsrecht erlischt, wenn es nicht vor der Bestellung bei
-dem Familiengericht geltend gemacht wird.
-
-
-###### § 1787 Folgen der unbegründeten Ablehnung
-
-(1) Wer die Übernahme der Vormundschaft ohne Grund ablehnt, ist, wenn
-ihm ein Verschulden zur Last fällt, für den Schaden verantwortlich,
-der dem Mündel dadurch entsteht, dass sich die Bestellung des Vormunds
-verzögert.
-
-(2) Erklärt das Familiengericht die Ablehnung für unbegründet, so hat
-der Ablehnende, unbeschadet der ihm zustehenden Rechtsmittel, die
-Vormundschaft auf Erfordern des Familiengerichts vorläufig zu
-übernehmen.
-
-
-###### § 1788 Zwangsgeld
-
-(1) Das Familiengericht kann den zum Vormund Ausgewählten durch
-Festsetzung von Zwangsgeld zur Übernahme der Vormundschaft anhalten.
-
-(2) Die Zwangsgelder dürfen nur in Zwischenräumen von mindestens einer
-Woche festgesetzt werden. Mehr als drei Zwangsgelder dürfen nicht
-festgesetzt werden.
-
-
-###### § 1789 Bestellung durch das Familiengericht
-
-Der Vormund wird von dem Familiengericht durch Verpflichtung zu treuer
-und gewissenhafter Führung der Vormundschaft bestellt. Die
-Verpflichtung soll mittels Handschlags an Eides statt erfolgen.
-
-
-###### § 1790 Bestellung unter Vorbehalt
-
-Bei der Bestellung des Vormunds kann die Entlassung für den Fall
-vorbehalten werden, dass ein bestimmtes Ereignis eintritt oder nicht
-eintritt.
-
-
-###### § 1791 Bestallungsurkunde
-
-(1) Der Vormund erhält eine Bestallung.
-
-(2) Die Bestallung soll enthalten den Namen und die Zeit der Geburt
-des Mündels, die Namen des Vormunds, des Gegenvormunds und der
-Mitvormünder sowie im Falle der Teilung der Vormundschaft die Art der
-Teilung.
-
-
-###### § 1791a Vereinsvormundschaft
-
-(1) Ein rechtsfähiger Verein kann zum Vormund bestellt werden, wenn er
-vom Landesjugendamt hierzu für geeignet erklärt worden ist. Der Verein
-darf nur zum Vormund bestellt werden, wenn eine als ehrenamtlicher
-Einzelvormund geeignete Person nicht vorhanden ist oder wenn er nach §
-1776 als Vormund berufen ist; die Bestellung bedarf der Einwilligung
-des Vereins.
-
-(2) Die Bestellung erfolgt durch Beschluss des Familiengerichts; die
-§§ 1789, 1791 sind nicht anzuwenden.
-
-(3) Der Verein bedient sich bei der Führung der Vormundschaft
-einzelner seiner Mitglieder oder Mitarbeiter; eine Person, die den
-Mündel in einem Heim des Vereins als Erzieher betreut, darf die
-Aufgaben des Vormunds nicht ausüben. Für ein Verschulden des Mitglieds
-oder des Mitarbeiters ist der Verein dem Mündel in gleicher Weise
-verantwortlich wie für ein Verschulden eines verfassungsmäßig
-berufenen Vertreters.
-
-(4) Will das Familiengericht neben dem Verein einen Mitvormund oder
-will es einen Gegenvormund bestellen, so soll es vor der Entscheidung
-den Verein hören.
-
-
-###### § 1791b Bestellte Amtsvormundschaft des Jugendamts
-
-(1) Ist eine als ehrenamtlicher Einzelvormund geeignete Person nicht
-vorhanden, so kann auch das Jugendamt zum Vormund bestellt werden. Das
-Jugendamt kann von den Eltern des Mündels weder benannt noch
-ausgeschlossen werden.
-
-(2) Die Bestellung erfolgt durch Beschluss des Familiengerichts; die
-§§ 1789, 1791 sind nicht anzuwenden.
-
-
-###### § 1791c Gesetzliche Amtsvormundschaft des Jugendamts
-
-(1) Mit der Geburt eines Kindes, dessen Eltern nicht miteinander
+Mit der Geburt eines Kindes, dessen Eltern nicht miteinander
 verheiratet sind und das eines Vormunds bedarf, wird das Jugendamt
-Vormund, wenn das Kind seinen gewöhnlichen Aufenthalt im
-Geltungsbereich dieses Gesetzes hat; dies gilt nicht, wenn bereits vor
-der Geburt des Kindes ein Vormund bestellt ist. Wurde die Vaterschaft
-nach § 1592 Nr. 1 oder 2 durch Anfechtung beseitigt und bedarf das
-Kind eines Vormunds, so wird das Jugendamt in dem Zeitpunkt Vormund,
-in dem die Entscheidung rechtskräftig wird.
-
-(2) War das Jugendamt Pfleger eines Kindes, dessen Eltern nicht
-miteinander verheiratet sind, endet die Pflegschaft kraft Gesetzes und
-bedarf das Kind eines Vormunds, so wird das Jugendamt Vormund, das
-bisher Pfleger war.
-
-(3) Das Familiengericht hat dem Jugendamt unverzüglich eine
-Bescheinigung über den Eintritt der Vormundschaft zu erteilen; § 1791
-ist nicht anzuwenden.
+Vormund, wenn das Kind seinen gewöhnlichen Aufenthalt im Inland hat.
+Dies gilt nicht, wenn bereits vor der Geburt des Kindes ein Vormund
+bestellt ist. Wurde die Vaterschaft nach § 1592 Nummer 1 oder 2 durch
+Anfechtung beseitigt und bedarf das Kind eines Vormunds, so wird das
+Jugendamt in dem Zeitpunkt Vormund, in dem die Entscheidung
+rechtskräftig wird.
 
 
-###### § 1792 Gegenvormund
+###### § 1787 Amtsvormundschaft bei vertraulicher Geburt
 
-(1) Neben dem Vormund kann ein Gegenvormund bestellt werden. Ist das
-Jugendamt Vormund, so kann kein Gegenvormund bestellt werden; das
-Jugendamt kann Gegenvormund sein.
-
-(2) Ein Gegenvormund soll bestellt werden, wenn mit der Vormundschaft
-eine Vermögensverwaltung verbunden ist, es sei denn, dass die
-Verwaltung nicht erheblich oder dass die Vormundschaft von mehreren
-Vormündern gemeinschaftlich zu führen ist.
-
-(3) Ist die Vormundschaft von mehreren Vormündern nicht
-gemeinschaftlich zu führen, so kann der eine Vormund zum Gegenvormund
-des anderen bestellt werden.
-
-(4) Auf die Berufung und Bestellung des Gegenvormunds sind die für die
-Begründung der Vormundschaft geltenden Vorschriften anzuwenden.
+Wird ein Kind vertraulich geboren (§ 25 Absatz 1 Satz 2 des
+Schwangerschaftskonfliktgesetzes), wird das Jugendamt mit der Geburt
+des Kindes Vormund.
 
 
 ##### Untertitel 2 - Führung der Vormundschaft
 
 
 
-###### § 1793 Aufgaben des Vormunds, Haftung des Mündels
+###### Kapitel 1 - Allgemeine Vorschriften
 
-(1) Der Vormund hat das Recht und die Pflicht, für die Person und das
-Vermögen des Mündels zu sorgen, insbesondere den Mündel zu vertreten.
-§ 1626 Abs. 2 gilt entsprechend. Ist der Mündel auf längere Dauer in
-den Haushalt des Vormunds aufgenommen, so gelten auch die §§ 1618a,
-1619, 1664 entsprechend.
 
-(1a) Der Vormund hat mit dem Mündel persönlichen Kontakt zu halten. Er
-soll den Mündel in der Regel einmal im Monat in dessen üblicher
-Umgebung aufsuchen, es sei denn, im Einzelfall sind kürzere oder
-längere Besuchsabstände oder ein anderer Ort geboten.
 
-(2) Für Verbindlichkeiten, die im Rahmen der Vertretungsmacht nach
-Absatz 1 gegenüber dem Mündel begründet werden, haftet der Mündel
+###### § 1788 Rechte des Mündels
+
+Der Mündel hat insbesondere das Recht auf
+
+1.  Förderung seiner Entwicklung und Erziehung zu einer
+    eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit,
+
+
+2.  Pflege und Erziehung unter Ausschluss von Gewalt, körperlichen
+    Bestrafungen, seelischen Verletzungen und anderen entwürdigenden
+    Maßnahmen,
+
+
+3.  persönlichen Kontakt mit dem Vormund,
+
+
+4.  Achtung seines Willens, seiner persönlichen Bindungen, seines
+    religiösen Bekenntnisses und kulturellen Hintergrunds sowie
+
+
+5.  Beteiligung an ihn betreffenden Angelegenheiten, soweit es nach seinem
+    Entwicklungsstand angezeigt ist.
+
+
+
+
+
+###### § 1789 Sorge des Vormunds; Vertretung und Haftung des Mündels
+
+(1) Der Vormund hat die Pflicht und das Recht, für die Person und das
+Vermögen des Mündels zu sorgen. Ausgenommen sind Angelegenheiten, für
+die ein Pfleger bestellt ist, es sei denn, die Angelegenheiten sind
+dem Pfleger mit dem Vormund zur gemeinsamen Wahrnehmung übertragen.
+
+(2) Der Vormund vertritt den Mündel. § 1824 gilt entsprechend. Das
+Familiengericht kann dem Vormund die Vertretung für einzelne
+Angelegenheiten entziehen. Die Entziehung soll nur erfolgen, wenn das
+Interesse des Mündels zu dem Interesse des Vormunds, eines von diesem
+vertretenen Dritten oder einer der in § 1824 Absatz 1 Nummer 1
+bezeichneten Personen in erheblichem Gegensatz steht.
+
+(3) Für Verbindlichkeiten, die im Rahmen der Vertretungsmacht nach
+Absatz 2 gegenüber dem Mündel begründet werden, haftet der Mündel
 entsprechend § 1629a.
 
 
-###### § 1794 Beschränkung durch Pflegschaft
+###### § 1790 Amtsführung des Vormunds; Auskunftspflicht
 
-Das Recht und die Pflicht des Vormunds, für die Person und das
-Vermögen des Mündels zu sorgen, erstreckt sich nicht auf
-Angelegenheiten des Mündels, für die ein Pfleger bestellt ist.
+(1) Der Vormund ist unabhängig und hat die Vormundschaft im Interesse
+des Mündels zu dessen Wohl zu führen.
+
+(2) Der Vormund hat die wachsende Fähigkeit und das wachsende
+Bedürfnis des Mündels zu selbständigem und verantwortungsbewusstem
+Handeln zu berücksichtigen und zu fördern. Der Vormund hat
+Angelegenheiten der Personen- und der Vermögenssorge mit dem Mündel zu
+besprechen und ihn an Entscheidungen zu beteiligen, soweit es nach
+dessen Entwicklungsstand angezeigt ist; Einvernehmen ist anzustreben.
+Der Vormund soll bei seiner Amtsführung im Interesse des Mündels zu
+dessen Wohl die Beziehung des Mündels zu seinen Eltern einbeziehen.
+
+(3) Der Vormund ist zum persönlichen Kontakt mit dem Mündel
+verpflichtet und berechtigt. Er soll den Mündel in der Regel einmal im
+Monat in dessen üblicher Umgebung aufsuchen, es sei denn, im
+Einzelfall sind kürzere oder längere Besuchsabstände oder ein anderer
+Ort geboten.
+
+(4) Der Vormund hat bei berechtigtem Interesse nahestehenden
+Angehörigen oder sonstigen Vertrauenspersonen auf Verlangen Auskunft
+über die persönlichen Verhältnisse des Mündels zu erteilen, soweit
+dies dem Wohl des Mündels nicht widerspricht und dem Vormund zuzumuten
+ist.
+
+(5) Wird der gewöhnliche Aufenthalt eines Mündels in den Bezirk eines
+anderen Jugendamts verlegt, so hat der Vormund dem Jugendamt des
+bisherigen gewöhnlichen Aufenthalts die Verlegung mitzuteilen. Satz 1
+gilt nicht für den Vereinsvormund und den Vormundschaftsverein.
 
 
-###### § 1795 Ausschluss der Vertretungsmacht
+###### § 1791 Aufnahme des Mündels in den Haushalt des Vormunds
 
-(1) Der Vormund kann den Mündel nicht vertreten:
+Der Vormund kann den Mündel zur Pflege und Erziehung in seinen
+Haushalt aufnehmen. In diesem Fall sind Vormund und Mündel einander
+Beistand und Rücksicht schuldig; § 1619 gilt entsprechend.
 
-1.  bei einem Rechtsgeschäft zwischen seinem Ehegatten, seinem
-    Lebenspartner oder einem seiner Verwandten in gerader Linie einerseits
-    und dem Mündel andererseits, es sei denn, dass das Rechtsgeschäft
-    ausschließlich in der Erfüllung einer Verbindlichkeit besteht,
+
+###### § 1792 Gemeinschaftliche Führung der Vormundschaft, Zusammenarbeit von Vormund und Pfleger
+
+(1) Ehegatten führen die ihnen übertragene Vormundschaft
+gemeinschaftlich.
+
+(2) Vormünder und Pfleger sind zur gegenseitigen Information und
+Zusammenarbeit im Interesse des Mündels zu dessen Wohl verpflichtet.
+
+(3) Der nach § 1776 bestellte Pfleger hat bei seinen Entscheidungen
+die Auffassung des Vormunds einzubeziehen.
+
+(4) Der nach § 1777 bestellte Pfleger und der Vormund entscheiden in
+Angelegenheiten, für die ihnen die Sorge gemeinsam zusteht, in
+gegenseitigem Einvernehmen.
+
+(5) In den Fällen der Absätze 1 und 4 gilt § 1629 Absatz 1 Satz 2 und
+4 entsprechend.
+
+
+###### § 1793 Entscheidung bei Meinungsverschiedenheiten
+
+(1) Das Familiengericht entscheidet auf Antrag über die hinsichtlich
+einer Sorgeangelegenheit bestehenden Meinungsverschiedenheiten
+zwischen
+
+1.  gemeinschaftlichen Vormündern,
+
+
+2.  mehreren Vormündern bei Sorgeangelegenheiten, die Geschwister
+    gemeinsam betreffen,
+
+
+3.  dem Vormund und dem nach § 1776 oder § 1777 bestellten Pfleger.
+
+
+
+
+(2) Antragsberechtigt sind der Vormund, der Pfleger und der Mündel,
+der das 14. Lebensjahr vollendet hat.
+
+
+###### § 1794 Haftung des Vormunds
+
+(1) Der Vormund ist dem Mündel für den aus einer Pflichtverletzung
+entstehenden Schaden verantwortlich. Dies gilt nicht, wenn der Vormund
+die Pflichtverletzung nicht zu vertreten hat. Im Übrigen gilt § 1826
+entsprechend.
+
+(2) Ist der Mündel zur Pflege und Erziehung in den Haushalt des
+Vormunds, der die Vormundschaft ehrenamtlich führt, aufgenommen, gilt
+§ 1664 entsprechend.
+
+
+###### Kapitel 2 - Personensorge
+
+
+
+###### § 1795 Gegenstand der Personensorge; Genehmigungspflichten
+
+(1) Die Personensorge umfasst insbesondere die Bestimmung des
+Aufenthalts sowie die Pflege, Erziehung und Beaufsichtigung des
+Mündels unter Berücksichtigung seiner Rechte aus § 1788. Der Vormund
+ist auch dann für die Personensorge verantwortlich und hat die Pflege
+und Erziehung des Mündels persönlich zu fördern und zu gewährleisten,
+wenn er den Mündel nicht in seinem Haushalt pflegt und erzieht. Die
+§§ 1631a bis 1632 Absatz 4 Satz 1 gelten entsprechend.
+
+(2) Der Vormund bedarf der Genehmigung des Familiengerichts
+
+1.  zu einem Ausbildungsvertrag, der für längere Zeit als ein Jahr
+    geschlossen wird,
+
+
+2.  zu einem auf die Eingehung eines Dienst- oder Arbeitsverhältnisses
+    gerichteten Vertrag, wenn der Mündel zu persönlichen Leistungen für
+    längere Zeit als ein Jahr verpflichtet werden soll, und
+
+
+3.  zum Wechsel des gewöhnlichen Aufenthalts des Mündels ins Ausland.
+
+
+
+
+(3) Das Familiengericht erteilt die Genehmigung nach Absatz 2, wenn
+das Rechtsgeschäft oder der Aufenthaltswechsel unter Berücksichtigung
+der Rechte des Mündels aus § 1788 dem Wohl des Mündels nicht
+widerspricht.
+
+(4) Für die Erteilung der Genehmigung gelten die §§ 1855 bis 1856
+Absatz 2 sowie die §§ 1857 und 1858 entsprechend. Ist der Mündel
+volljährig geworden, so tritt seine Genehmigung an die Stelle der
+Genehmigung des Familiengerichts.
+
+
+###### § 1796 Verhältnis zwischen Vormund und Pflegeperson
+
+(1) Der Vormund hat auf die Belange der Pflegeperson Rücksicht zu
+nehmen. Bei Entscheidungen der Personensorge soll er die Auffassung
+der Pflegeperson einbeziehen.
+
+(2) Für das Zusammenwirken von Vormund und Pflegeperson gilt § 1792
+Absatz 2 entsprechend.
+
+(3) Der Pflegeperson steht eine Person gleich, die
+
+1.  den Mündel
+
+    a)  in einer Einrichtung über Tag und Nacht oder
+
+
+    b)  in sonstigen Wohnformen
+
+
+
+    betreut und erzieht oder
+
+
+2.  die intensive sozialpädagogische Betreuung des Mündels übernommen hat.
+
+
+
+
+
+###### § 1797 Entscheidungsbefugnis der Pflegeperson
+
+(1) Lebt der Mündel für längere Zeit bei der Pflegeperson, ist diese
+berechtigt, in Angelegenheiten des täglichen Lebens zu entscheiden und
+den Vormund insoweit zu vertreten. § 1629 Absatz 1 Satz 4 gilt
+entsprechend.
+
+(2) Absatz 1 ist auf die Person gemäß § 1796 Absatz 3 entsprechend
+anzuwenden.
+
+(3) Der Vormund kann die Befugnisse nach den Absätzen 1 und 2 durch
+Erklärung gegenüber der Pflegeperson einschränken oder ausschließen,
+wenn dies zum Wohl des Mündels erforderlich ist.
+
+
+###### Kapitel 3 - Vermögenssorge
+
+
+
+###### § 1798 Grundsätze und Pflichten des Vormunds in der Vermögenssorge
+
+(1) Der Vormund hat die Vermögenssorge zum Wohl des Mündels unter
+Berücksichtigung der Grundsätze einer wirtschaftlichen
+Vermögensverwaltung und der wachsenden Bedürfnisse des Mündels zu
+selbständigem und verantwortungsbewusstem Handeln wahrzunehmen. Er ist
+dabei zum Schutz und Erhalt des Mündelvermögens verpflichtet.
+
+(2) Für die Pflichten des Vormunds bei der Vermögenssorge gelten im
+Übrigen § 1835 Absatz 1 bis 5 sowie die §§ 1836, 1837 und 1839 bis
+1847 entsprechend. Das Vermögensverzeichnis soll das bei Anordnung der
+Vormundschaft vorhandene Vermögen erfassen. Das Familiengericht hat
+das Vermögensverzeichnis dem Mündel zur Kenntnis zu geben, soweit dies
+dem Wohl des Mündels nicht widerspricht und der Mündel aufgrund seines
+Entwicklungsstands in der Lage ist, das Verzeichnis zur Kenntnis zu
+nehmen.
+
+(3) Der Vormund kann nicht in Vertretung des Mündels Schenkungen
+machen. Ausgenommen sind Schenkungen, durch die einer sittlichen
+Pflicht oder einer auf den Anstand zu nehmenden Rücksicht entsprochen
+wird.
+
+
+###### § 1799 Genehmigungsbedürftige Rechtsgeschäfte
+
+(1) Der Vormund bedarf der Genehmigung des Familiengerichts in den
+Fällen, in denen ein Betreuer nach den §§ 1848 bis 1854 Nummer 1 bis 7
+der Genehmigung des Betreuungsgerichts bedarf, soweit sich nicht aus
+Absatz 2 etwas anderes ergibt.
+
+(2) Der Vormund bedarf abweichend von § 1853 Satz 1 Nummer 1 der
+Genehmigung des Familiengerichts zum Abschluss eines Miet- oder
+Pachtvertrags oder eines anderen Vertrags, durch den der Mündel zu
+wiederkehrenden Leistungen verpflichtet wird, wenn das
+Vertragsverhältnis länger als ein Jahr nach dem Eintritt seiner
+Volljährigkeit fortdauern soll. Eine Genehmigung ist nicht
+erforderlich, wenn
+
+1.  der Vertrag geringe wirtschaftliche Bedeutung für den Mündel hat oder
+
+
+2.  das Vertragsverhältnis von dem Mündel nach Eintritt der Volljährigkeit
+    spätestens zum Ablauf des 19. Lebensjahres ohne eigene Nachteile
+    gekündigt werden kann.
+
+
+
+
+
+###### § 1800 Erteilung der Genehmigung
+
+(1) Das Familiengericht erteilt die Genehmigung, wenn das
+Rechtgeschäft den Grundsätzen nach § 1798 Absatz 1 nicht widerspricht.
+
+(2) Für die Erteilung der Genehmigung gelten die §§ 1855 bis 1856
+Absatz 2 sowie die §§ 1857 und 1858 entsprechend. Ist der Mündel
+volljährig geworden, so tritt seine Genehmigung an die Stelle der
+Genehmigung des Familiengerichts.
+
+
+###### § 1801 Befreite Vormundschaft
+
+(1) Für das Jugendamt, den Vereinsvormund und den Vormundschaftsverein
+als Vormund gilt § 1859 Absatz 1 entsprechend.
+
+(2) Das Familiengericht kann auf Antrag Vormünder von den
+Beschränkungen bei der Vermögenssorge befreien, wenn eine Gefährdung
+des Mündelvermögens nicht zu besorgen ist. § 1860 Absatz 1 bis 3 gilt
+entsprechend.
+
+(3) Eltern können unter Beachtung der Voraussetzungen des § 1782 einen
+von ihnen benannten Vormund von den Beschränkungen nach den §§ 1845,
+1848 und 1849 Absatz 1 Satz 1 Nummer 1 und 2, Satz 2 sowie § 1865
+Absatz 1 befreien. § 1859 Absatz 1 Satz 2 und 3 gilt entsprechend.
+
+(4) Das Familiengericht hat die Befreiungen aufzuheben, wenn ihre
+Voraussetzungen nicht mehr vorliegen oder bei ihrer Fortgeltung eine
+Gefährdung des Mündelvermögens zu besorgen wäre.
+
+
+##### Untertitel 3 - Beratung und Aufsicht durch das Familiengericht
+
+
+
+###### § 1802 Allgemeine Vorschriften
+
+(1) Das Familiengericht unterstützt den Vormund und berät ihn über
+seine Rechte und Pflichten bei der Wahrnehmung seiner Aufgaben. § 1861
+Absatz 2 gilt entsprechend.
+
+(2) Das Familiengericht führt über die gesamte Tätigkeit des Vormunds
+die Aufsicht. Es hat dabei insbesondere auf die Einhaltung der
+Pflichten der Amtsführung des Vormunds unter Berücksichtigung der
+Rechte des Mündels sowie der Grundsätze und Pflichten des Vormunds in
+der Personen- und Vermögenssorge zu achten. § 1862 Absatz 3 und 4
+sowie die §§ 1863 bis 1867, 1666, 1666a und 1696 gelten entsprechend.
+Das Familiengericht kann dem Vormund aufgeben, eine Versicherung gegen
+Schäden, die er dem Mündel zufügen kann, einzugehen.
+
+
+###### § 1803 Persönliche Anhörung; Besprechung mit dem Mündel
+
+In geeigneten Fällen und soweit es nach dem Entwicklungsstand des
+Mündels angezeigt ist,
+
+1.  hat das Familiengericht den Mündel persönlich anzuhören, wenn
+    Anhaltspunkte bestehen, dass der Vormund pflichtwidrig die Rechte des
+    Mündels nicht oder nicht in geeigneter Weise beachtet oder seinen
+    Pflichten als Vormund in anderer Weise nicht nachkommt,
+
+
+2.  soll das Familiengericht den Anfangs- und Jahresbericht des Vormunds
+    über die persönlichen Verhältnisse des Mündels, die Rechnungslegung
+    des Vormunds, wenn der Umfang des zu verwaltenden Vermögens dies
+    rechtfertigt, sowie wesentliche Änderungen der persönlichen oder
+    wirtschaftlichen Verhältnisse des Mündels mit dem Mündel persönlich
+    besprechen; der Vormund kann hinzugezogen werden.
+
+
+
+
+
+##### Untertitel 4 - Beendigung der Vormundschaft
+
+
+
+###### § 1804 Entlassung des Vormunds
+
+(1) Das Familiengericht hat den Vormund zu entlassen, wenn
+
+1.  die Fortführung des Amtes durch ihn, insbesondere wegen Verletzung
+    seiner Pflichten, das Interesse oder Wohl des Mündels gefährden würde,
+
+
+2.  er als Vormund gemäß § 1774 Absatz 1 Nummer 2 bis 4 bestellt wurde und
+    jetzt eine andere Person geeignet und bereit ist, die Vormundschaft
+    ehrenamtlich zu führen, es sei denn, die Entlassung widerspricht dem
+    Wohl des Mündels,
+
+
+3.  er als Vereinsvormund bestellt wurde und aus dem Arbeitsverhältnis mit
+    dem Verein ausscheidet,
+
+
+4.  nach seiner Bestellung Umstände bekannt werden oder eintreten, die
+    seiner Bestellung gemäß § 1784 entgegenstehen oder
+
+
+5.  ein sonstiger wichtiger Grund für die Entlassung vorliegt.
+
+
+
+
+(2) Das Familiengericht hat den Vormund außerdem zu entlassen, wenn
+
+1.  nach dessen Bestellung Umstände eintreten, aufgrund derer ihm die
+    Fortführung des Amtes nicht mehr zugemutet werden kann, und der
+    Vormund seine Entlassung beantragt oder
+
+
+2.  er als Vereinsvormund bestellt wurde und der Verein seine Entlassung
+    beantragt.
+
+
+
+
+(3) Das Familiengericht soll auf Antrag den bisherigen Vormund
+entlassen, wenn der Wechsel des Vormunds dem Wohl des Mündels dient.
+Ein entgegenstehender Wille des Mündels und der Vorrang des
+ehrenamtlichen Vormunds sind zu berücksichtigen. Den Antrag nach Satz
+1 können stellen:
+
+1.  der Vormund,
+
+
+2.  derjenige, der sich im Interesse des Mündels als neuer Vormund
+    anbietet,
+
+
+3.  der Mündel, der das 14. Lebensjahr vollendet hat, sowie
+
+
+4.  jeder andere, der ein berechtigtes Interesse des Mündels geltend
+    macht.
+
+
+
+
+
+###### § 1805 Bestellung eines neuen Vormunds
+
+(1) Wird der Vormund entlassen oder verstirbt er, hat das
+Familiengericht unverzüglich einen neuen Vormund zu bestellen. Die
+§§ 1778 bis 1785 gelten entsprechend.
+
+(2) Wird der Vereinsvormund gemäß § 1804 Absatz 1 Nummer 3 oder Absatz
+2 Nummer 2 entlassen, kann das Familiengericht statt der Entlassung
+des Vereinsvormunds feststellen, dass dieser die Vormundschaft künftig
+als Privatperson weiterführt, wenn dies dem Wohl des Mündels dient.
+
+
+###### § 1806 Ende der Vormundschaft
+
+Die Vormundschaft endet, wenn die Voraussetzungen für ihre Begründung
+gemäß § 1773 nicht mehr gegeben sind.
+
+
+###### § 1807 Vermögensherausgabe, Schlussrechnungslegung und Fortführung der Geschäfte
+
+Bei Beendigung der Vormundschaft finden die §§ 1872 bis 1874 mit der
+Maßgabe entsprechende Anwendung, dass § 1872 Absatz 5 für Vormünder
+gilt, die bei Beendigung ihres Amtes gemäß § 1801 Absatz 1 und 3
+befreit waren.
+
+
+##### Untertitel 5 - Vergütung und Aufwendungsersatz
+
+
+
+###### § 1808 Vergütung und Aufwendungsersatz
+
+(1) Die Vormundschaft wird grundsätzlich unentgeltlich geführt.
+
+(2) Der ehrenamtliche Vormund kann vom Mündel für seine zur Führung
+der Vormundschaft erforderlichen Aufwendungen Vorschuss oder Ersatz
+gemäß § 1877 oder stattdessen die Aufwandspauschale gemäß § 1878
+verlangen; die §§ 1879 und 1880 gelten entsprechend. Das
+Familiengericht kann ihm abweichend von Absatz 1 eine angemessene
+Vergütung bewilligen. § 1876 Satz 2 gilt entsprechend.
+
+(3) Die Vormundschaft wird ausnahmsweise berufsmäßig geführt. Die
+Berufsmäßigkeit sowie Ansprüche des berufsmäßig tätigen Vormunds und
+des Vormundschaftsvereins auf Vergütung und Aufwendungsersatz
+bestimmen sich nach dem Vormünder- und Betreuervergütungsgesetz.
+
+
+#### Titel 2 - Pflegschaft für Minderjährige
+
+
+
+##### § 1809 Ergänzungspflegschaft
+
+(1) Wer unter elterlicher Sorge oder unter Vormundschaft steht, erhält
+für Angelegenheiten, an deren Besorgung die Eltern oder der Vormund
+verhindert sind, einen Pfleger. Der Pfleger hat die Pflicht und das
+Recht, die ihm übertragenen Angelegenheiten im Interesse des
+Pfleglings zu dessen Wohl zu besorgen und diesen zu vertreten.
+
+(2) Wird eine Pflegschaft erforderlich, so haben die Eltern oder der
+Vormund dies dem Familiengericht unverzüglich anzuzeigen.
+
+
+##### § 1810 Pflegschaft für ein ungeborenes Kind
+
+Für ein bereits gezeugtes Kind kann zur Wahrung seiner künftigen
+Rechte ein Pfleger bestellt werden, sofern die Eltern an der Ausübung
+der elterlichen Sorge verhindert wären, wenn das Kind bereits geboren
+wäre. Mit der Geburt des Kindes endet die Pflegschaft.
+
+
+##### § 1811 Zuwendungspflegschaft
+
+(1) Der Minderjährige erhält einen Zuwendungspfleger, wenn
+
+1.  der Minderjährige von Todes wegen, durch unentgeltliche Zuwendung auf
+    den Todesfall oder unter Lebenden Vermögen erwirbt und
+
+
+2.  der Erblasser durch letztwillige Verfügung, der Zuwendende bei der
+    Zuwendung bestimmt hat, dass die Eltern oder der Vormund das Vermögen
+    nicht verwalten sollen.
+
+
+
+
+(2) Der Erblasser kann durch letztwillige Verfügung, der Zuwendende
+bei der Zuwendung
+
+1.  einen Zuwendungspfleger benennen,
+
+
+2.  den Zuwendungspfleger von den Beschränkungen gemäß den §§ 1843, 1845,
+    1846, 1848, 1849 Absatz 1 Satz 1 Nummer 1 und 2 und Satz 2 sowie §
+    1865 befreien.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 gilt § 1783 entsprechend. In den
+Fällen des Satzes 1 Nummer 2 gilt § 1859 Absatz 1 Satz 2 und 3
+entsprechend.
+
+(3) Das Familiengericht hat die Befreiungen nach Absatz 2 Satz 1
+Nummer 2 aufzuheben, wenn sie das Vermögen des Pfleglings erheblich
+gefährden. Solange der Zuwendende lebt, ist zu einer Abweichung der
+von ihm erteilten Befreiungen seine Zustimmung erforderlich und
+genügend. Ist er zur Abgabe einer Erklärung dauerhaft außerstande oder
+ist sein Aufenthalt dauerhaft unbekannt, so hat das Familiengericht
+unter Beachtung der Voraussetzung des Satzes 1 die Zustimmung zu
+ersetzen.
+
+(4) Sofern der Pflegling nicht mittellos ist, bestimmt sich die Höhe
+des Stundensatzes des Zuwendungspflegers nach seinen für die Führung
+der Pflegschaftsgeschäfte nutzbaren Fachkenntnissen sowie nach dem
+Umfang und der Schwierigkeit der Pflegschaftsgeschäfte. § 1881 gilt
+entsprechend.
+
+
+##### § 1812 Aufhebung und Ende der Pflegschaft
+
+(1) Die Pflegschaft ist aufzuheben, wenn der Grund für die Anordnung
+der Pflegschaft weggefallen ist.
+
+(2) Die Pflegschaft endet mit der Beendigung der elterlichen Sorge
+oder der Vormundschaft, im Falle der Pflegschaft zur Besorgung einer
+einzelnen Angelegenheit mit deren Erledigung.
+
+
+##### § 1813 Anwendung des Vormundschaftsrechts
+
+(1) Auf die Pflegschaften nach diesem Titel finden die für die
+Vormundschaft geltenden Vorschriften entsprechende Anwendung, soweit
+sich aus dem Gesetz nichts anderes ergibt.
+
+(2) Für Pflegschaften nach § 1809 Absatz 1 Satz 1 gelten die §§ 1782
+und 1783 nicht.
+
+
+#### Titel 3 - Rechtliche Betreuung
+
+
+
+##### Untertitel 1 - Betreuerbestellung
+
+
+
+###### § 1814 Voraussetzungen
+
+(1) Kann ein Volljähriger seine Angelegenheiten ganz oder teilweise
+rechtlich nicht besorgen und beruht dies auf einer Krankheit oder
+Behinderung, so bestellt das Betreuungsgericht für ihn einen
+rechtlichen Betreuer (Betreuer).
+
+(2) Gegen den freien Willen des Volljährigen darf ein Betreuer nicht
+bestellt werden.
+
+(3) Ein Betreuer darf nur bestellt werden, wenn dies erforderlich ist.
+Die Bestellung eines Betreuers ist insbesondere nicht erforderlich,
+soweit die Angelegenheiten des Volljährigen
+
+1.  durch einen Bevollmächtigten, der nicht zu den in § 1816 Absatz 6
+    bezeichneten Personen gehört, gleichermaßen besorgt werden können oder
+
+
+2.  durch andere Hilfen, bei denen kein gesetzlicher Vertreter bestellt
+    wird, erledigt werden können, insbesondere durch solche Unterstützung,
+    die auf sozialen Rechten oder anderen Vorschriften beruht.
+
+
+
+
+(4) Die Bestellung eines Betreuers erfolgt auf Antrag des Volljährigen
+oder von Amts wegen. Soweit der Volljährige seine Angelegenheiten
+lediglich aufgrund einer körperlichen Krankheit oder Behinderung nicht
+besorgen kann, darf ein Betreuer nur auf Antrag des Volljährigen
+bestellt werden, es sei denn, dass dieser seinen Willen nicht kundtun
+kann.
+
+(5) Ein Betreuer kann auch für einen Minderjährigen, der das 17.
+Lebensjahr vollendet hat, bestellt werden, wenn anzunehmen ist, dass
+die Bestellung eines Betreuers bei Eintritt der Volljährigkeit
+erforderlich sein wird. Die Bestellung des Betreuers wird erst mit dem
+Eintritt der Volljährigkeit wirksam.
+
+
+###### § 1815 Umfang der Betreuung
+
+(1) Der Aufgabenkreis eines Betreuers besteht aus einem oder mehreren
+Aufgabenbereichen. Diese sind vom Betreuungsgericht im Einzelnen
+anzuordnen. Ein Aufgabenbereich darf nur angeordnet werden, wenn und
+soweit dessen rechtliche Wahrnehmung durch einen Betreuer erforderlich
+ist.
+
+(2) Folgende Entscheidungen darf der Betreuer nur treffen, wenn sie
+als Aufgabenbereich vom Betreuungsgericht ausdrücklich angeordnet
+worden sind:
+
+1.  eine mit Freiheitsentziehung verbundene Unterbringung des Betreuten
+    nach § 1831 Absatz 1,
+
+
+2.  eine freiheitsentziehende Maßnahme im Sinne des § 1831 Absatz 4,
+    unabhängig davon, wo der Betreute sich aufhält,
+
+
+3.  die Bestimmung des gewöhnlichen Aufenthalts des Betreuten im Ausland,
+
+
+4.  die Bestimmung des Umgangs des Betreuten,
+
+
+5.  die Entscheidung über die Telekommunikation des Betreuten
+    einschließlich seiner elektronischen Kommunikation,
+
+
+6.  die Entscheidung über die Entgegennahme, das Öffnen und das Anhalten
+    der Post des Betreuten.
+
+
+
+
+(3) Einem Betreuer können unter den Voraussetzungen des § 1820 Absatz
+3 auch die Aufgabenbereiche der Geltendmachung von Rechten des
+Betreuten gegenüber seinem Bevollmächtigten sowie zusätzlich der
+Geltendmachung von Auskunfts- und Rechenschaftsansprüchen des
+Betreuten gegenüber Dritten übertragen werden (Kontrollbetreuer).
+
+
+###### § 1816 Eignung und Auswahl des Betreuers; Berücksichtigung der Wünsche des Volljährigen
+
+(1) Das Betreuungsgericht bestellt einen Betreuer, der geeignet ist,
+in dem gerichtlich angeordneten Aufgabenkreis die Angelegenheiten des
+Betreuten nach Maßgabe des § 1821 rechtlich zu besorgen und
+insbesondere in dem hierfür erforderlichen Umfang persönlichen Kontakt
+mit dem Betreuten zu halten.
+
+(2) Wünscht der Volljährige eine Person als Betreuer, so ist diesem
+Wunsch zu entsprechen, es sei denn, die gewünschte Person ist zur
+Führung der Betreuung nach Absatz 1 nicht geeignet. Lehnt der
+Volljährige eine bestimmte Person als Betreuer ab, so ist diesem
+Wunsch zu entsprechen, es sei denn, die Ablehnung bezieht sich nicht
+auf die Person des Betreuers, sondern auf die Bestellung eines
+Betreuers als solche. Die Sätze 1 und 2 gelten auch für Wünsche, die
+der Volljährige vor Einleitung des Betreuungsverfahrens geäußert hat,
+es sei denn, dass er an diesen erkennbar nicht festhalten will. Wer
+von der Einleitung eines Verfahrens über die Bestellung eines
+Betreuers für einen Volljährigen Kenntnis erlangt und ein Dokument
+besitzt, in dem der Volljährige für den Fall, dass für ihn ein
+Betreuer bestellt werden muss, Wünsche zur Auswahl des Betreuers oder
+zur Wahrnehmung der Betreuung geäußert hat (Betreuungsverfügung), hat
+die Betreuungsverfügung dem Betreuungsgericht zu übermitteln.
+
+(3) Schlägt der Volljährige niemanden vor, der zum Betreuer bestellt
+werden kann oder ist die gewünschte Person nicht geeignet, so sind bei
+der Auswahl des Betreuers die familiären Beziehungen des Volljährigen,
+insbesondere zum Ehegatten, zu Eltern und zu Kindern, seine
+persönlichen Bindungen sowie die Gefahr von Interessenkonflikten zu
+berücksichtigen.
+
+(4) Eine Person, die keine familiäre Beziehung oder persönliche
+Bindung zu dem Volljährigen hat, soll nur dann zum ehrenamtlichen
+Betreuer bestellt werden, wenn sie mit einem nach § 14 des
+Betreuungsorganisationsgesetzes anerkannten Betreuungsverein oder mit
+der zuständigen Behörde eine Vereinbarung über eine Begleitung und
+Unterstützung gemäß § 15 Absatz 1 Satz 1 Nummer 4 oder § 5 Absatz 2
+Satz 3 des Betreuungsorganisationsgesetzes geschlossen hat.
+
+(5) Ein beruflicher Betreuer nach § 19 Absatz 2 des
+Betreuungsorganisationsgesetzes soll nur dann zum Betreuer bestellt
+werden, wenn keine geeignete Person für die ehrenamtliche Führung der
+Betreuung zur Verfügung steht. Bei der Entscheidung, ob ein bestimmter
+beruflicher Betreuer bestellt wird, sind die Anzahl und der Umfang der
+bereits von diesem zu führenden Betreuungen zu berücksichtigen.
+
+(6) Eine Person, die zu einem Träger von Einrichtungen oder Diensten,
+der in der Versorgung des Volljährigen tätig ist, in einem
+Abhängigkeitsverhältnis oder in einer anderen engen Beziehung steht,
+darf nicht zum Betreuer bestellt werden. Dies gilt nicht, wenn im
+Einzelfall die konkrete Gefahr einer Interessenkollision nicht
+besteht.
+
+
+###### § 1817 Mehrere Betreuer; Verhinderungsbetreuer; Ergänzungsbetreuer
+
+(1) Das Betreuungsgericht kann mehrere Betreuer bestellen, wenn die
+Angelegenheiten des Betreuten hierdurch besser besorgt werden können.
+In diesem Falle bestimmt es, welcher Betreuer mit welchem
+Aufgabenbereich betraut wird. Mehrere berufliche Betreuer werden außer
+in den in den Absätzen 2, 4 und 5 geregelten Fällen nicht bestellt.
+
+(2) Für die Entscheidung über die Einwilligung in eine Sterilisation
+des Betreuten ist stets ein besonderer Betreuer zu bestellen
+(Sterilisationsbetreuer).
+
+(3) Sofern mehrere Betreuer mit demselben Aufgabenbereich betraut
+werden, können sie diese Angelegenheiten des Betreuten nur gemeinsam
+besorgen, es sei denn, dass das Betreuungsgericht etwas anderes
+bestimmt hat oder mit dem Aufschub Gefahr verbunden ist.
+
+(4) Das Betreuungsgericht kann auch vorsorglich einen
+Verhinderungsbetreuer bestellen, der die Angelegenheiten des Betreuten
+zu besorgen hat, soweit der Betreuer aus tatsächlichen Gründen
+verhindert ist. Für diesen Fall kann auch ein anerkannter
+Betreuungsverein zum Verhinderungsbetreuer bestellt werden, ohne dass
+die Voraussetzungen des § 1818 Absatz 1 Satz 1 vorliegen.
+
+(5) Soweit ein Betreuer aus rechtlichen Gründen gehindert ist,
+einzelne Angelegenheiten des Betreuten zu besorgen, hat das
+Betreuungsgericht hierfür einen Ergänzungsbetreuer zu bestellen.
+
+
+###### § 1818 Betreuung durch Betreuungsverein oder Betreuungsbehörde
+
+(1) Das Betreuungsgericht bestellt einen anerkannten Betreuungsverein
+zum Betreuer, wenn der Volljährige dies wünscht, oder wenn er durch
+eine oder mehrere natürliche Personen nicht hinreichend betreut werden
+kann. Die Bestellung bedarf der Einwilligung des Betreuungsvereins.
+
+(2) Der Betreuungsverein überträgt die Wahrnehmung der Betreuung
+einzelnen Personen. Vorschlägen des Volljährigen hat er hierbei zu
+entsprechen, wenn nicht wichtige Gründe entgegenstehen. Der
+Betreuungsverein teilt dem Betreuungsgericht alsbald, spätestens
+binnen zwei Wochen nach seiner Bestellung, mit, wem er die Wahrnehmung
+der Betreuung übertragen hat. Die Sätze 2 und 3 gelten bei einem
+Wechsel der Person, die die Betreuung für den Betreuungsverein
+wahrnimmt, entsprechend.
+
+(3) Werden dem Betreuungsverein Umstände bekannt, aus denen sich
+ergibt, dass der Volljährige durch eine oder mehrere natürliche
+Personen hinreichend betreut werden kann, so hat er dies dem
+Betreuungsgericht mitzuteilen.
+
+(4) Kann der Volljährige weder durch eine oder mehrere natürliche
+Personen noch durch einen Betreuungsverein hinreichend betreut werden,
+so bestellt das Betreuungsgericht die zuständige Betreuungsbehörde zum
+Betreuer. Die Absätze 2 und 3 gelten entsprechend.
+
+(5) Die Entscheidung über die Einwilligung in eine Sterilisation darf
+weder einem Betreuungsverein noch einer Betreuungsbehörde übertragen
+werden.
+
+
+###### § 1819 Übernahmepflicht; weitere Bestellungsvoraussetzungen
+
+(1) Die vom Betreuungsgericht ausgewählte Person ist verpflichtet, die
+Betreuung zu übernehmen, wenn ihr die Übernahme unter Berücksichtigung
+ihrer familiären, beruflichen und sonstigen Verhältnisse zugemutet
+werden kann.
+
+(2) Die ausgewählte Person darf erst dann zum Betreuer bestellt
+werden, wenn sie sich zur Übernahme der Betreuung bereit erklärt hat.
+
+(3) Ein Mitarbeiter eines anerkannten Betreuungsvereins, der dort
+ausschließlich oder teilweise als Betreuer tätig ist
+(Vereinsbetreuer), darf nur mit Einwilligung des Betreuungsvereins
+bestellt werden. Entsprechendes gilt für den Mitarbeiter einer
+Betreuungsbehörde, der als Betreuer bestellt wird (Behördenbetreuer).
+
+
+###### § 1820 Vorsorgevollmacht und Kontrollbetreuung
+
+(1) Wer von der Einleitung eines Verfahrens über die Bestellung eines
+Betreuers für einen Volljährigen Kenntnis erlangt und ein Dokument
+besitzt, in dem der Volljährige eine andere Person mit der Wahrnehmung
+seiner Angelegenheiten bevollmächtigt hat, hat das Betreuungsgericht
+hierüber unverzüglich zu unterrichten. Das Betreuungsgericht kann die
+Vorlage einer Abschrift verlangen.
+
+(2) Folgende Maßnahmen eines Bevollmächtigten setzen voraus, dass die
+Vollmacht schriftlich erteilt ist und diese Maßnahmen ausdrücklich
+umfasst:
+
+1.  die Einwilligung sowie ihr Widerruf oder die Nichteinwilligung in
+    Maßnahmen nach § 1829 Absatz 1 Satz 1 und Absatz 2,
+
+
+2.  die Unterbringung nach § 1831 und die Einwilligung in Maßnahmen nach §
+    1831 Absatz 4,
+
+
+3.  die Einwilligung in eine ärztliche Zwangsmaßnahme nach § 1832 und die
+    Verbringung nach § 1832 Absatz 4.
+
+
+
+
+(3) Das Betreuungsgericht bestellt einen Kontrollbetreuer, wenn die
+Bestellung erforderlich ist, weil
+
+1.  der Vollmachtgeber aufgrund einer Krankheit oder Behinderung nicht
+    mehr in der Lage ist, seine Rechte gegenüber dem Bevollmächtigten
+    auszuüben, und
+
+
+2.  aufgrund konkreter Anhaltspunkte davon auszugehen ist, dass der
+    Bevollmächtigte die Angelegenheiten des Vollmachtgebers nicht
+    entsprechend der Vereinbarung oder dem erklärten oder mutmaßlichen
+    Willen des Vollmachtgebers besorgt.
+
+
+
+
+(4) Das Betreuungsgericht kann anordnen, dass der Bevollmächtigte die
+ihm erteilte Vollmacht nicht ausüben darf und die Vollmachtsurkunde an
+den Betreuer herauszugeben hat, wenn
+
+1.  die dringende Gefahr besteht, dass der Bevollmächtigte nicht den
+    Wünschen des Vollmachtgebers entsprechend handelt und dadurch die
+    Person des Vollmachtgebers oder dessen Vermögen erheblich gefährdet
+    oder
+
+
+2.  der Bevollmächtigte den Betreuer bei der Wahrnehmung seiner Aufgaben
+    behindert.
+
+
+
+Liegen die Voraussetzungen des Satzes 1 nicht mehr vor, hat das
+Betreuungsgericht die Anordnung aufzuheben und den Betreuer zu
+verpflichten, dem Bevollmächtigten die Vollmachtsurkunde
+herauszugeben, wenn die Vollmacht nicht erloschen ist.
+
+(5) Der Betreuer darf eine Vollmacht oder einen Teil einer Vollmacht,
+die den Bevollmächtigten zu Maßnahmen der Personensorge oder zu
+Maßnahmen in wesentlichen Bereichen der Vermögenssorge ermächtigt, nur
+widerrufen, wenn das Festhalten an der Vollmacht eine künftige
+Verletzung der Person oder des Vermögens des Betreuten mit
+hinreichender Wahrscheinlichkeit und in erheblicher Schwere befürchten
+lässt und mildere Maßnahmen nicht zur Abwehr eines Schadens für den
+Betreuten geeignet erscheinen. Der Widerruf bedarf der Genehmigung des
+Betreuungsgerichts. Mit der Genehmigung des Widerrufs einer Vollmacht
+kann das Betreuungsgericht die Herausgabe der Vollmachtsurkunde an den
+Betreuer anordnen.
+
+
+##### Untertitel 2 - Führung der Betreuung
+
+
+
+###### Kapitel 1 - Allgemeine Vorschriften
+
+
+
+###### § 1821 Pflichten des Betreuers; Wünsche des Betreuten
+
+(1) Der Betreuer nimmt alle Tätigkeiten vor, die erforderlich sind, um
+die Angelegenheiten des Betreuten rechtlich zu besorgen. Er
+unterstützt den Betreuten dabei, seine Angelegenheiten rechtlich
+selbst zu besorgen, und macht von seiner Vertretungsmacht nach § 1823
+nur Gebrauch, soweit dies erforderlich ist.
+
+(2) Der Betreuer hat die Angelegenheiten des Betreuten so zu besorgen,
+dass dieser im Rahmen seiner Möglichkeiten sein Leben nach seinen
+Wünschen gestalten kann. Hierzu hat der Betreuer die Wünsche des
+Betreuten festzustellen. Diesen hat der Betreuer vorbehaltlich des
+Absatzes 3 zu entsprechen und den Betreuten bei deren Umsetzung
+rechtlich zu unterstützen. Dies gilt auch für die Wünsche, die der
+Betreute vor der Bestellung des Betreuers geäußert hat, es sei denn,
+dass er an diesen Wünschen erkennbar nicht festhalten will.
+
+(3) Den Wünschen des Betreuten hat der Betreuer nicht zu entsprechen,
+soweit
+
+1.  die Person des Betreuten oder dessen Vermögen hierdurch erheblich
+    gefährdet würde und der Betreute diese Gefahr aufgrund seiner
+    Krankheit oder Behinderung nicht erkennen oder nicht nach dieser
+    Einsicht handeln kann oder
+
+
+2.  dies dem Betreuer nicht zuzumuten ist.
+
+
+
+
+(4) Kann der Betreuer die Wünsche des Betreuten nicht feststellen oder
+darf er ihnen nach Absatz 3 Nummer 1 nicht entsprechen, hat er den
+mutmaßlichen Willen des Betreuten aufgrund konkreter Anhaltspunkte zu
+ermitteln und ihm Geltung zu verschaffen. Zu berücksichtigen sind
+insbesondere frühere Äußerungen, ethische oder religiöse Überzeugungen
+und sonstige persönliche Wertvorstellungen des Betreuten. Bei der
+Feststellung des mutmaßlichen Willens soll nahen Angehörigen und
+sonstigen Vertrauenspersonen des Betreuten Gelegenheit zur Äußerung
+gegeben werden.
+
+(5) Der Betreuer hat den erforderlichen persönlichen Kontakt mit dem
+Betreuten zu halten, sich regelmäßig einen persönlichen Eindruck von
+ihm zu verschaffen und dessen Angelegenheiten mit ihm zu besprechen.
+
+(6) Der Betreuer hat innerhalb seines Aufgabenkreises dazu
+beizutragen, dass Möglichkeiten genutzt werden, die Fähigkeit des
+Betreuten, seine eigenen Angelegenheiten zu besorgen,
+wiederherzustellen oder zu verbessern.
+
+
+###### § 1822 Auskunftspflicht gegenüber nahestehenden Angehörigen
+
+Der Betreuer hat nahestehenden Angehörigen und sonstigen
+Vertrauenspersonen des Betreuten auf Verlangen Auskunft über dessen
+persönliche Lebensumstände zu erteilen, soweit dies einem nach § 1821
+Absatz 2 bis 4 zu beachtenden Wunsch oder dem mutmaßlichen Willen des
+Betreuten entspricht und dem Betreuer zuzumuten ist.
+
+
+###### § 1823 Vertretungsmacht des Betreuers
+
+In seinem Aufgabenkreis kann der Betreuer den Betreuten gerichtlich
+und außergerichtlich vertreten.
+
+
+###### § 1824 Ausschluss der Vertretungsmacht
+
+(1) Der Betreuer kann den Betreuten nicht vertreten:
+
+1.  bei einem Rechtsgeschäft zwischen seinem Ehegatten oder einem seiner
+    Verwandten in gerader Linie einerseits und dem Betreuten andererseits,
+    es sei denn, dass das Rechtsgeschäft ausschließlich in der Erfüllung
+    einer Verbindlichkeit besteht,
 
 
 2.  bei einem Rechtsgeschäft, das die Übertragung oder Belastung einer
     durch Pfandrecht, Hypothek, Schiffshypothek oder Bürgschaft
-    gesicherten Forderung des Mündels gegen den Vormund oder die Aufhebung
-    oder Minderung dieser Sicherheit zum Gegenstand hat oder die
-    Verpflichtung des Mündels zu einer solchen Übertragung, Belastung,
+    gesicherten Forderung des Betreuten gegen den Betreuer oder die
+    Aufhebung oder Minderung dieser Sicherheit zum Gegenstand hat oder die
+    Verpflichtung des Betreuten zu einer solchen Übertragung, Belastung,
     Aufhebung oder Minderung begründet,
 
 
@@ -32209,1276 +33919,73 @@ Angelegenheiten des Mündels, für die ein Pfleger bestellt ist.
 
 
 
-(2) Die Vorschrift des § 181 bleibt unberührt.
+(2) § 181 bleibt unberührt.
 
 
-###### § 1796 Entziehung der Vertretungsmacht
+###### § 1825 Einwilligungsvorbehalt
 
-(1) Das Familiengericht kann dem Vormund die Vertretung für einzelne
-Angelegenheiten oder für einen bestimmten Kreis von Angelegenheiten
-entziehen.
+(1) Soweit dies zur Abwendung einer erheblichen Gefahr für die Person
+oder das Vermögen des Betreuten erforderlich ist, ordnet das
+Betreuungsgericht an, dass der Betreute zu einer Willenserklärung, die
+einen Aufgabenbereich des Betreuers betrifft, dessen Einwilligung
+bedarf (Einwilligungsvorbehalt). Gegen den freien Willen des
+Volljährigen darf ein Einwilligungsvorbehalt nicht angeordnet werden.
+Die §§ 108 bis 113, 131 Absatz 2 und § 210 gelten entsprechend.
 
-(2) Die Entziehung soll nur erfolgen, wenn das Interesse des Mündels
-zu dem Interesse des Vormunds oder eines von diesem vertretenen
-Dritten oder einer der in § 1795 Nr. 1 bezeichneten Personen in
-erheblichem Gegensatz steht.
+(2) Ein Einwilligungsvorbehalt kann sich nicht erstrecken
 
+1.  auf Willenserklärungen, die auf Eingehung einer Ehe gerichtet sind,
 
-###### § 1797 Mehrere Vormünder
 
-(1) Mehrere Vormünder führen die Vormundschaft gemeinschaftlich. Bei
-einer Meinungsverschiedenheit entscheidet das Familiengericht, sofern
-nicht bei der Bestellung ein anderes bestimmt wird.
+2.  auf Verfügungen von Todes wegen,
 
-(2) Das Familiengericht kann die Führung der Vormundschaft unter
-mehrere Vormünder nach bestimmten Wirkungskreisen verteilen. Innerhalb
-des ihm überwiesenen Wirkungskreises führt jeder Vormund die
-Vormundschaft selbständig.
 
-(3) Bestimmungen, die der Vater oder die Mutter für die Entscheidung
-von Meinungsverschiedenheiten zwischen den von ihnen benannten
-Vormündern und für die Verteilung der Geschäfte unter diese nach
-Maßgabe des § 1777 getroffen hat, sind von dem Familiengericht zu
-befolgen, sofern nicht ihre Befolgung das Interesse des Mündels
-gefährden würde.
+3.  auf die Anfechtung eines Erbvertrags,
 
 
-###### § 1798 Meinungsverschiedenheiten
+4.  auf die Aufhebung eines Erbvertrags durch Vertrag und
 
-Steht die Sorge für die Person und die Sorge für das Vermögen des
-Mündels verschiedenen Vormündern zu, so entscheidet bei einer
-Meinungsverschiedenheit über die Vornahme einer sowohl die Person als
-das Vermögen des Mündels betreffenden Handlung das Familiengericht.
 
+5.  auf Willenserklärungen, zu denen ein beschränkt Geschäftsfähiger nach
+    den Vorschriften dieses Buches und des Buches 5 nicht der Zustimmung
+    seines gesetzlichen Vertreters bedarf.
 
-###### § 1799 Pflichten und Rechte des Gegenvormunds
 
-(1) Der Gegenvormund hat darauf zu achten, dass der Vormund die
-Vormundschaft pflichtmäßig führt. Er hat dem Familiengericht
-Pflichtwidrigkeiten des Vormunds sowie jeden Fall unverzüglich
-anzuzeigen, in welchem das Familiengericht zum Einschreiten berufen
-ist, insbesondere den Tod des Vormunds oder den Eintritt eines anderen
-Umstands, infolge dessen das Amt des Vormunds endigt oder die
-Entlassung des Vormunds erforderlich wird.
 
-(2) Der Vormund hat dem Gegenvormund auf Verlangen über die Führung
-der Vormundschaft Auskunft zu erteilen und die Einsicht der sich auf
-die Vormundschaft beziehenden Papiere zu gestatten.
 
+(3) Ist ein Einwilligungsvorbehalt angeordnet, so bedarf der Betreute
+dennoch nicht der Einwilligung seines Betreuers, wenn die
+Willenserklärung dem Betreuten lediglich einen rechtlichen Vorteil
+bringt. Soweit das Gericht nichts anderes anordnet, gilt dies auch,
+wenn die Willenserklärung eine geringfügige Angelegenheit des
+täglichen Lebens betrifft.
 
-###### § 1800 Umfang der Personensorge
+(4) Auch für einen Minderjährigen, der das 17. Lebensjahr vollendet
+hat, kann das Betreuungsgericht einen Einwilligungsvorbehalt anordnen,
+wenn anzunehmen ist, dass ein solcher bei Eintritt der Volljährigkeit
+erforderlich wird.
 
-Das Recht und die Pflicht des Vormunds, für die Person des Mündels zu
-sorgen, bestimmen sich nach §§ 1631 bis 1632 Absatz 4 Satz 1. Der
-Vormund hat die Pflege und Erziehung des Mündels persönlich zu fördern
-und zu gewährleisten.
 
+###### § 1826 Haftung des Betreuers
 
-###### § 1801 Religiöse Erziehung
+(1) Der Betreuer ist dem Betreuten für den aus einer Pflichtverletzung
+entstehenden Schaden verantwortlich. Dies gilt nicht, wenn der
+Betreuer die Pflichtverletzung nicht zu vertreten hat.
 
-(1) Die Sorge für die religiöse Erziehung des Mündels kann dem
-Einzelvormund von dem Familiengericht entzogen werden, wenn der
-Vormund nicht dem Bekenntnis angehört, in dem der Mündel zu erziehen
-ist.
+(2) Sind für den Schaden mehrere Betreuer nebeneinander
+verantwortlich, so haften sie als Gesamtschuldner.
 
-(2) Hat das Jugendamt oder ein Verein als Vormund über die
-Unterbringung des Mündels zu entscheiden, so ist hierbei auf das
-religiöse Bekenntnis oder die Weltanschauung des Mündels und seiner
-Familie Rücksicht zu nehmen.
+(3) Ist ein Betreuungsverein als Betreuer bestellt, so ist er dem
+Betreuten für ein Verschulden des Mitglieds oder des Mitarbeiters in
+gleicher Weise verantwortlich wie für ein Verschulden eines
+verfassungsmäßig berufenen Vertreters.
 
 
-###### § 1802 Vermögensverzeichnis
+###### Kapitel 2 - Personenangelegenheiten
 
-(1) Der Vormund hat das Vermögen, das bei der Anordnung der
-Vormundschaft vorhanden ist oder später dem Mündel zufällt, zu
-verzeichnen und das Verzeichnis, nachdem er es mit der Versicherung
-der Richtigkeit und Vollständigkeit versehen hat, dem Familiengericht
-einzureichen. Ist ein Gegenvormund vorhanden, so hat ihn der Vormund
-bei der Aufnahme des Verzeichnisses zuzuziehen; das Verzeichnis ist
-auch von dem Gegenvormund mit der Versicherung der Richtigkeit und
-Vollständigkeit zu versehen.
 
-(2) Der Vormund kann sich bei der Aufnahme des Verzeichnisses der
-Hilfe eines Beamten, eines Notars oder eines anderen Sachverständigen
-bedienen.
 
-(3) Ist das eingereichte Verzeichnis ungenügend, so kann das
-Familiengericht anordnen, dass das Verzeichnis durch eine zuständige
-Behörde oder durch einen zuständigen Beamten oder Notar aufgenommen
-wird.
-
-
-###### § 1803 Vermögensverwaltung bei Erbschaft oder Schenkung
-
-(1) Was der Mündel von Todes wegen erwirbt oder was ihm unter Lebenden
-von einem Dritten unentgeltlich zugewendet wird, hat der Vormund nach
-den Anordnungen des Erblassers oder des Dritten zu verwalten, wenn die
-Anordnungen von dem Erblasser durch letztwillige Verfügung, von dem
-Dritten bei der Zuwendung getroffen worden sind.
-
-(2) Der Vormund darf mit Genehmigung des Familiengerichts von den
-Anordnungen abweichen, wenn ihre Befolgung das Interesse des Mündels
-gefährden würde.
-
-(3) Zu einer Abweichung von den Anordnungen, die ein Dritter bei einer
-Zuwendung unter Lebenden getroffen hat, ist, solange er lebt, seine
-Zustimmung erforderlich und genügend. Die Zustimmung des Dritten kann
-durch das Familiengericht ersetzt werden, wenn der Dritte zur Abgabe
-einer Erklärung dauernd außerstande oder sein Aufenthalt dauernd
-unbekannt ist.
-
-
-###### § 1804 Schenkungen des Vormunds
-
-Der Vormund kann nicht in Vertretung des Mündels Schenkungen machen.
-Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht oder
-einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
-
-
-###### § 1805 Verwendung für den Vormund
-
-Der Vormund darf Vermögen des Mündels weder für sich noch für den
-Gegenvormund verwenden. Ist das Jugendamt Vormund oder Gegenvormund,
-so ist die Anlegung von Mündelgeld gemäß § 1807 auch bei der
-Körperschaft zulässig, bei der das Jugendamt errichtet ist.
-
-
-###### § 1806 Anlegung von Mündelgeld
-
-Der Vormund hat das zum Vermögen des Mündels gehörende Geld
-verzinslich anzulegen, soweit es nicht zur Bestreitung von Ausgaben
-bereitzuhalten ist.
-
-
-###### § 1807 Art der Anlegung
-
-(1) Die im § 1806 vorgeschriebene Anlegung von Mündelgeld soll nur
-erfolgen:
-
-1.  in Forderungen, für die eine sichere Hypothek an einem inländischen
-    Grundstück besteht, oder in sicheren Grundschulden oder Rentenschulden
-    an inländischen Grundstücken;
-
-
-2.  in verbrieften Forderungen gegen den Bund oder ein Land sowie in
-    Forderungen, die in das Bundesschuldbuch oder Landesschuldbuch eines
-    Landes eingetragen sind;
-
-
-3.  in verbrieften Forderungen, deren Verzinsung vom Bund oder einem Land
-    gewährleistet ist;
-
-
-4.  in Wertpapieren, insbesondere Pfandbriefen, sowie in verbrieften
-    Forderungen jeder Art gegen eine inländische kommunale Körperschaft
-    oder die Kreditanstalt einer solchen Körperschaft, sofern die
-    Wertpapiere oder die Forderungen von der Bundesregierung mit
-    Zustimmung des Bundesrates zur Anlegung von Mündelgeld für geeignet
-    erklärt sind;
-
-
-5.  bei einer inländischen öffentlichen Sparkasse, wenn sie von der
-    zuständigen Behörde des Landes, in welchem sie ihren Sitz hat, zur
-    Anlegung von Mündelgeld für geeignet erklärt ist, oder bei einem
-    anderen Kreditinstitut, das einer für die Anlage ausreichenden
-    Sicherungseinrichtung angehört.
-
-
-
-
-(2) Die Landesgesetze können für die innerhalb ihres Geltungsbereichs
-belegenen Grundstücke die Grundsätze bestimmen, nach denen die
-Sicherheit einer Hypothek, einer Grundschuld oder einer Rentenschuld
-festzustellen ist.
-
-
-###### § 1808
-
-(weggefallen)
-
-
-###### § 1809 Anlegung mit Sperrvermerk
-
-Der Vormund soll Mündelgeld nach § 1807 Abs. 1 Nr. 5 nur mit der
-Bestimmung anlegen, dass zur Erhebung des Geldes die Genehmigung des
-Gegenvormunds oder des Familiengerichts erforderlich ist.
-
-
-###### § 1810 Mitwirkung von Gegenvormund oder Familiengericht
-
-Der Vormund soll die in den §§ 1806, 1807 vorgeschriebene Anlegung nur
-mit Genehmigung des Gegenvormunds bewirken; die Genehmigung des
-Gegenvormunds wird durch die Genehmigung des Familiengerichts ersetzt.
-Ist ein Gegenvormund nicht vorhanden, so soll die Anlegung nur mit
-Genehmigung des Familiengerichts erfolgen, sofern nicht die
-Vormundschaft von mehreren Vormündern gemeinschaftlich geführt wird.
-
-
-###### § 1811 Andere Anlegung
-
-Das Familiengericht kann dem Vormund eine andere Anlegung als die in §
-1807 vorgeschriebene gestatten. Die Erlaubnis soll nur verweigert
-werden, wenn die beabsichtigte Art der Anlegung nach Lage des Falles
-den Grundsätzen einer wirtschaftlichen Vermögensverwaltung
-zuwiderlaufen würde.
-
-
-###### § 1812 Verfügungen über Forderungen und Wertpapiere
-
-(1) Der Vormund kann über eine Forderung oder über ein anderes Recht,
-kraft dessen der Mündel eine Leistung verlangen kann, sowie über ein
-Wertpapier des Mündels nur mit Genehmigung des Gegenvormunds verfügen,
-sofern nicht nach den §§ 1819 bis 1822 die Genehmigung des
-Familiengerichts erforderlich ist. Das Gleiche gilt von der Eingehung
-der Verpflichtung zu einer solchen Verfügung.
-
-(2) Die Genehmigung des Gegenvormunds wird durch die Genehmigung des
-Familiengerichts ersetzt.
-
-(3) Ist ein Gegenvormund nicht vorhanden, so tritt an die Stelle der
-Genehmigung des Gegenvormunds die Genehmigung des Familiengerichts,
-sofern nicht die Vormundschaft von mehreren Vormündern
-gemeinschaftlich geführt wird.
-
-
-###### § 1813 Genehmigungsfreie Geschäfte
-
-(1) Der Vormund bedarf nicht der Genehmigung des Gegenvormunds zur
-Annahme einer geschuldeten Leistung:
-
-1.  wenn der Gegenstand der Leistung nicht in Geld oder Wertpapieren
-    besteht,
-
-
-2.  wenn der Anspruch nicht mehr als 3 000 Euro beträgt,
-
-
-3.  wenn der Anspruch das Guthaben auf einem Giro- oder Kontokorrentkonto
-    zum Gegenstand hat oder Geld zurückgezahlt wird, das der Vormund
-    angelegt hat,
-
-
-4.  wenn der Anspruch zu den Nutzungen des Mündelvermögens gehört,
-
-
-5.  wenn der Anspruch auf Erstattung von Kosten der Kündigung oder der
-    Rechtsverfolgung oder auf sonstige Nebenleistungen gerichtet ist.
-
-
-
-
-(2) Die Befreiung nach Absatz 1 Nr. 2, 3 erstreckt sich nicht auf die
-Erhebung von Geld, bei dessen Anlegung ein anderes bestimmt worden
-ist. Die Befreiung nach Absatz 1 Nr. 3 gilt auch nicht für die
-Erhebung von Geld, das nach § 1807 Abs. 1 Nr. 1 bis 4 angelegt ist.
-
-
-###### § 1814 Hinterlegung von Inhaberpapieren
-
-Der Vormund hat die zu dem Vermögen des Mündels gehörenden
-Inhaberpapiere nebst den Erneuerungsscheinen bei einer
-Hinterlegungsstelle oder bei einem der in § 1807 Abs. 1 Nr. 5
-genannten Kreditinstitute mit der Bestimmung zu hinterlegen, dass die
-Herausgabe der Papiere nur mit Genehmigung des Familiengerichts
-verlangt werden kann. Die Hinterlegung von Inhaberpapieren, die nach §
-92 zu den verbrauchbaren Sachen gehören, sowie von Zins-, Renten- oder
-Gewinnanteilscheinen ist nicht erforderlich. Den Inhaberpapieren
-stehen Orderpapiere gleich, die mit Blankoindossament versehen sind.
-
-
-###### § 1815 Umschreibung und Umwandlung von Inhaberpapieren
-
-(1) Der Vormund kann die Inhaberpapiere, statt sie nach § 1814 zu
-hinterlegen, auf den Namen des Mündels mit der Bestimmung umschreiben
-lassen, dass er über sie nur mit Genehmigung des Familiengerichts
-verfügen kann. Sind die Papiere vom Bund oder einem Land ausgestellt,
-so kann er sie mit der gleichen Bestimmung in Schuldbuchforderungen
-gegen den Bund oder das Land umwandeln lassen.
-
-(2) Sind Inhaberpapiere zu hinterlegen, die in Schuldbuchforderungen
-gegen den Bund oder ein Land umgewandelt werden können, so kann das
-Familiengericht anordnen, dass sie nach Absatz 1 in
-Schuldbuchforderungen umgewandelt werden.
-
-
-###### § 1816 Sperrung von Buchforderungen
-
-Gehören Schuldbuchforderungen gegen den Bund oder ein Land bei der
-Anordnung der Vormundschaft zu dem Vermögen des Mündels oder erwirbt
-der Mündel später solche Forderungen, so hat der Vormund in das
-Schuldbuch den Vermerk eintragen zu lassen, dass er über die
-Forderungen nur mit Genehmigung des Familiengerichts verfügen kann.
-
-
-###### § 1817 Befreiung
-
-(1) Das Familiengericht kann den Vormund auf dessen Antrag von den ihm
-nach den §§ 1806 bis 1816 obliegenden Verpflichtungen entbinden,
-soweit
-
-1.  der Umfang der Vermögensverwaltung dies rechtfertigt und
-
-
-2.  eine Gefährdung des Vermögens nicht zu besorgen ist.
-
-
-
-Die Voraussetzungen der Nummer 1 liegen im Regelfall vor, wenn der
-Wert des Vermögens ohne Berücksichtigung von Grundbesitz 6 000 Euro
-nicht übersteigt.
-
-(2) Das Familiengericht kann aus besonderen Gründen den Vormund von
-den ihm nach den §§ 1814, 1816 obliegenden Verpflichtungen auch dann
-entbinden, wenn die Voraussetzungen des Absatzes 1 Nr. 1 nicht
-vorliegen.
-
-
-###### § 1818 Anordnung der Hinterlegung
-
-Das Familiengericht kann aus besonderen Gründen anordnen, dass der
-Vormund auch solche zu dem Vermögen des Mündels gehörende Wertpapiere,
-zu deren Hinterlegung er nach § 1814 nicht verpflichtet ist, sowie
-Kostbarkeiten des Mündels in der in § 1814 bezeichneten Weise zu
-hinterlegen hat; auf Antrag des Vormunds kann die Hinterlegung von
-Zins-, Renten- und Gewinnanteilscheinen angeordnet werden, auch wenn
-ein besonderer Grund nicht vorliegt.
-
-
-###### § 1819 Genehmigung bei Hinterlegung
-
-Solange die nach § 1814 oder nach § 1818 hinterlegten Wertpapiere oder
-Kostbarkeiten nicht zurückgenommen sind, bedarf der Vormund zu einer
-Verfügung über sie und, wenn Hypotheken-, Grundschuld- oder
-Rentenschuldbriefe hinterlegt sind, zu einer Verfügung über die
-Hypothekenforderung, die Grundschuld oder die Rentenschuld der
-Genehmigung des Familiengerichts. Das Gleiche gilt von der Eingehung
-der Verpflichtung zu einer solchen Verfügung.
-
-
-###### § 1820 Genehmigung nach Umschreibung und Umwandlung
-
-(1) Sind Inhaberpapiere nach § 1815 auf den Namen des Mündels
-umgeschrieben oder in Schuldbuchforderungen umgewandelt, so bedarf der
-Vormund auch zur Eingehung der Verpflichtung zu einer Verfügung über
-die sich aus der Umschreibung oder der Umwandlung ergebenden
-Stammforderungen der Genehmigung des Familiengerichts.
-
-(2) Das Gleiche gilt, wenn bei einer Schuldbuchforderung des Mündels
-der im § 1816 bezeichnete Vermerk eingetragen ist.
-
-
-###### § 1821 Genehmigung für Geschäfte über Grundstücke, Schiffe oder Schiffsbauwerke
-
-(1) Der Vormund bedarf der Genehmigung des Familiengerichts:
-
-1.  zur Verfügung über ein Grundstück oder über ein Recht an einem
-    Grundstück;
-
-
-2.  zur Verfügung über eine Forderung, die auf Übertragung des Eigentums
-    an einem Grundstück oder auf Begründung oder Übertragung eines Rechts
-    an einem Grundstück oder auf Befreiung eines Grundstücks von einem
-    solchen Recht gerichtet ist;
-
-
-3.  zur Verfügung über ein eingetragenes Schiff oder Schiffsbauwerk oder
-    über eine Forderung, die auf Übertragung des Eigentums an einem
-    eingetragenen Schiff oder Schiffsbauwerk gerichtet ist;
-
-
-4.  zur Eingehung einer Verpflichtung zu einer der in den Nummern 1 bis 3
-    bezeichneten Verfügungen;
-
-
-5.  zu einem Vertrag, der auf den entgeltlichen Erwerb eines Grundstücks,
-    eines eingetragenen Schiffes oder Schiffsbauwerks oder eines Rechts an
-    einem Grundstück gerichtet ist.
-
-
-
-
-(2) Zu den Rechten an einem Grundstück im Sinne dieser Vorschriften
-gehören nicht Hypotheken, Grundschulden und Rentenschulden.
-
-
-###### § 1822 Genehmigung für sonstige Geschäfte
-
-Der Vormund bedarf der Genehmigung des Familiengerichts:
-
-1.  zu einem Rechtsgeschäft, durch das der Mündel zu einer Verfügung über
-    sein Vermögen im Ganzen oder über eine ihm angefallene Erbschaft oder
-    über seinen künftigen gesetzlichen Erbteil oder seinen künftigen
-    Pflichtteil verpflichtet wird, sowie zu einer Verfügung über den
-    Anteil des Mündels an einer Erbschaft,
-
-
-2.  zur Ausschlagung einer Erbschaft oder eines Vermächtnisses, zum
-    Verzicht auf einen Pflichtteil sowie zu einem Erbteilungsvertrag,
-
-
-3.  zu einem Vertrag, der auf den entgeltlichen Erwerb oder die
-    Veräußerung eines Erwerbsgeschäfts gerichtet ist, sowie zu einem
-    Gesellschaftsvertrag, der zum Betrieb eines Erwerbsgeschäfts
-    eingegangen wird,
-
-
-4.  zu einem Pachtvertrag über ein Landgut oder einen gewerblichen
-    Betrieb,
-
-
-5.  zu einem Miet- oder Pachtvertrag oder einem anderen Vertrag, durch den
-    der Mündel zu wiederkehrenden Leistungen verpflichtet wird, wenn das
-    Vertragsverhältnis länger als ein Jahr nach dem Eintritt der
-    Volljährigkeit des Mündels fortdauern soll,
-
-
-6.  zu einem Lehrvertrag, der für längere Zeit als ein Jahr geschlossen
-    wird,
-
-
-7.  zu einem auf die Eingehung eines Dienst- oder Arbeitsverhältnisses
-    gerichteten Vertrag, wenn der Mündel zu persönlichen Leistungen für
-    längere Zeit als ein Jahr verpflichtet werden soll,
-
-
-8.  zur Aufnahme von Geld auf den Kredit des Mündels,
-
-
-9.  zur Ausstellung einer Schuldverschreibung auf den Inhaber oder zur
-    Eingehung einer Verbindlichkeit aus einem Wechsel oder einem anderen
-    Papier, das durch Indossament übertragen werden kann,
-
-
-10. zur Übernahme einer fremden Verbindlichkeit, insbesondere zur
-    Eingehung einer Bürgschaft,
-
-
-11. zur Erteilung einer Prokura,
-
-
-12. zu einem Vergleich oder einem Schiedsvertrag, es sei denn, dass der
-    Gegenstand des Streites oder der Ungewissheit in Geld schätzbar ist
-    und den Wert von 3 000 Euro nicht übersteigt oder der Vergleich einem
-    schriftlichen oder protokollierten gerichtlichen Vergleichsvorschlag
-    entspricht,
-
-
-13. zu einem Rechtsgeschäft, durch das die für eine Forderung des Mündels
-    bestehende Sicherheit aufgehoben oder gemindert oder die Verpflichtung
-    dazu begründet wird.
-
-
-
-
-
-###### § 1823 Genehmigung bei einem Erwerbsgeschäft des Mündels
-
-Der Vormund soll nicht ohne Genehmigung des Familiengerichts ein neues
-Erwerbsgeschäft im Namen des Mündels beginnen oder ein bestehendes
-Erwerbsgeschäft des Mündels auflösen.
-
-
-###### § 1824 Genehmigung für die Überlassung von Gegenständen an den Mündel
-
-Der Vormund kann Gegenstände, zu deren Veräußerung die Genehmigung des
-Gegenvormunds oder des Familiengerichts erforderlich ist, dem Mündel
-nicht ohne diese Genehmigung zur Erfüllung eines von diesem
-geschlossenen Vertrags oder zu freier Verfügung überlassen.
-
-
-###### § 1825 Allgemeine Ermächtigung
-
-(1) Das Familiengericht kann dem Vormund zu Rechtsgeschäften, zu denen
-nach § 1812 die Genehmigung des Gegenvormunds erforderlich ist, sowie
-zu den in § 1822 Nr. 8 bis 10 bezeichneten Rechtsgeschäften eine
-allgemeine Ermächtigung erteilen.
-
-(2) Die Ermächtigung soll nur erteilt werden, wenn sie zum Zwecke der
-Vermögensverwaltung, insbesondere zum Betrieb eines Erwerbsgeschäfts,
-erforderlich ist.
-
-
-###### § 1826 Anhörung des Gegenvormunds vor Erteilung der Genehmigung
-
-Das Familiengericht soll vor der Entscheidung über die zu einer
-Handlung des Vormunds erforderliche Genehmigung den Gegenvormund
-hören, sofern ein solcher vorhanden und die Anhörung tunlich ist.
-
-
-###### § 1827
-
-(weggefallen)
-
-
-###### § 1828 Erklärung der Genehmigung
-
-Das Familiengericht kann die Genehmigung zu einem Rechtsgeschäft nur
-dem Vormund gegenüber erklären.
-
-
-###### § 1829 Nachträgliche Genehmigung
-
-(1) Schließt der Vormund einen Vertrag ohne die erforderliche
-Genehmigung des Familiengerichts, so hängt die Wirksamkeit des
-Vertrags von der nachträglichen Genehmigung des Familiengerichts ab.
-Die Genehmigung sowie deren Verweigerung wird dem anderen Teil
-gegenüber erst wirksam, wenn sie ihm durch den Vormund mitgeteilt
-wird.
-
-(2) Fordert der andere Teil den Vormund zur Mitteilung darüber auf, ob
-die Genehmigung erteilt sei, so kann die Mitteilung der Genehmigung
-nur bis zum Ablauf von vier Wochen nach dem Empfang der Aufforderung
-erfolgen; erfolgt sie nicht, so gilt die Genehmigung als verweigert.
-
-(3) Ist der Mündel volljährig geworden, so tritt seine Genehmigung an
-die Stelle der Genehmigung des Familiengerichts.
-
-
-###### § 1830 Widerrufsrecht des Geschäftspartners
-
-Hat der Vormund dem anderen Teil gegenüber der Wahrheit zuwider die
-Genehmigung des Familiengerichts behauptet, so ist der andere Teil bis
-zur Mitteilung der nachträglichen Genehmigung des Familiengerichts zum
-Widerruf berechtigt, es sei denn, dass ihm das Fehlen der Genehmigung
-bei dem Abschluss des Vertrags bekannt war.
-
-
-###### § 1831 Einseitiges Rechtsgeschäft ohne Genehmigung
-
-Ein einseitiges Rechtsgeschäft, das der Vormund ohne die erforderliche
-Genehmigung des Familiengerichts vornimmt, ist unwirksam. Nimmt der
-Vormund mit dieser Genehmigung ein solches Rechtsgeschäft einem
-anderen gegenüber vor, so ist das Rechtsgeschäft unwirksam, wenn der
-Vormund die Genehmigung nicht vorlegt und der andere das
-Rechtsgeschäft aus diesem Grunde unverzüglich zurückweist.
-
-
-###### § 1832 Genehmigung des Gegenvormunds
-
-Soweit der Vormund zu einem Rechtsgeschäft der Genehmigung des
-Gegenvormunds bedarf, finden die Vorschriften der §§ 1828 bis 1831
-entsprechende Anwendung; abweichend von § 1829 Abs. 2 beträgt die
-Frist für die Mitteilung der Genehmigung des Gegenvormunds zwei
-Wochen.
-
-
-###### § 1833 Haftung des Vormunds
-
-(1) Der Vormund ist dem Mündel für den aus einer Pflichtverletzung
-entstehenden Schaden verantwortlich, wenn ihm ein Verschulden zur Last
-fällt. Das Gleiche gilt von dem Gegenvormund.
-
-(2) Sind für den Schaden mehrere nebeneinander verantwortlich, so
-haften sie als Gesamtschuldner. Ist neben dem Vormund für den von
-diesem verursachten Schaden der Gegenvormund oder ein Mitvormund nur
-wegen Verletzung seiner Aufsichtspflicht verantwortlich, so ist in
-ihrem Verhältnis zueinander der Vormund allein verpflichtet.
-
-
-###### § 1834 Verzinsungspflicht
-
-Verwendet der Vormund Geld des Mündels für sich, so hat er es von der
-Zeit der Verwendung an zu verzinsen.
-
-
-###### § 1835 Aufwendungsersatz
-
-(1) Macht der Vormund zum Zwecke der Führung der Vormundschaft
-Aufwendungen, so kann er nach den für den Auftrag geltenden
-Vorschriften der §§ 669, 670 von dem Mündel Vorschuss oder Ersatz
-verlangen; für den Ersatz von Fahrtkosten gilt die in § 5 des
-Justizvergütungs- und -entschädigungsgesetzes für Sachverständige
-getroffene Regelung entsprechend. Das gleiche Recht steht dem
-Gegenvormund zu. Ersatzansprüche erlöschen, wenn sie nicht binnen 15
-Monaten nach ihrer Entstehung gerichtlich geltend gemacht werden; die
-Geltendmachung des Anspruchs beim Familiengericht gilt dabei auch als
-Geltendmachung gegenüber dem Mündel.
-
-(1a) Das Familiengericht kann eine von Absatz 1 Satz 3 abweichende
-Frist von mindestens zwei Monaten bestimmen. In der Fristbestimmung
-ist über die Folgen der Versäumung der Frist zu belehren. Die Frist
-kann auf Antrag vom Familiengericht verlängert werden. Der Anspruch
-erlischt, soweit er nicht innerhalb der Frist beziffert wird.
-
-(2) Aufwendungen sind auch die Kosten einer angemessenen Versicherung
-gegen Schäden, die dem Mündel durch den Vormund oder Gegenvormund
-zugefügt werden können oder die dem Vormund oder Gegenvormund dadurch
-entstehen können, dass er einem Dritten zum Ersatz eines durch die
-Führung der Vormundschaft verursachten Schadens verpflichtet ist; dies
-gilt nicht für die Kosten der Haftpflichtversicherung des Halters
-eines Kraftfahrzeugs. Satz 1 ist nicht anzuwenden, wenn der Vormund
-oder Gegenvormund eine Vergütung nach § 1836 Abs. 1 Satz 2 in
-Verbindung mit dem Vormünder- und Betreuervergütungsgesetz erhält.
-
-(3) Als Aufwendungen gelten auch solche Dienste des Vormunds oder des
-Gegenvormunds, die zu seinem Gewerbe oder seinem Beruf gehören.
-
-(4) Ist der Mündel mittellos, so kann der Vormund Vorschuss und Ersatz
-aus der Staatskasse verlangen. Absatz 1 Satz 3 und Absatz 1a gelten
-entsprechend.
-
-(5) Das Jugendamt oder ein Verein kann als Vormund oder Gegenvormund
-für Aufwendungen keinen Vorschuss und Ersatz nur insoweit verlangen,
-als das einzusetzende Einkommen und Vermögen des Mündels ausreicht.
-Allgemeine Verwaltungskosten einschließlich der Kosten nach Absatz 2
-werden nicht ersetzt.
-
-
-###### § 1835a Aufwandsentschädigung
-
-(1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
-Vormund als Aufwandsentschädigung für jede Vormundschaft, für die ihm
-keine Vergütung zusteht, einen Geldbetrag verlangen, der für ein Jahr
-dem Sechzehnfachen dessen entspricht, was einem Zeugen als
-Höchstbetrag der Entschädigung für eine Stunde versäumter Arbeitszeit
-(§ 22 des Justizvergütungs- und -entschädigungsgesetzes) gewährt
-werden kann (Aufwandsentschädigung). Hat der Vormund für solche
-Aufwendungen bereits Vorschuss oder Ersatz erhalten, so verringert
-sich die Aufwandsentschädigung entsprechend.
-
-(2) Die Aufwandsentschädigung ist jährlich zu zahlen, erstmals ein
-Jahr nach Bestellung des Vormunds.
-
-(3) Ist der Mündel mittellos, so kann der Vormund die
-Aufwandsentschädigung aus der Staatskasse verlangen;
-Unterhaltsansprüche des Mündels gegen den Vormund sind insoweit bei
-der Bestimmung des Einkommens nach § 1836c Nr. 1 nicht zu
-berücksichtigen.
-
-(4) Der Anspruch auf Aufwandsentschädigung erlischt, wenn er nicht
-binnen drei Monaten nach Ablauf des Jahres, in dem der Anspruch
-entsteht, geltend gemacht wird; die Geltendmachung des Anspruchs beim
-Familiengericht gilt auch als Geltendmachung gegenüber dem Mündel.
-
-(5) Dem Jugendamt oder einem Verein kann keine Aufwandsentschädigung
-gewährt werden.
-
-
-###### § 1836 Vergütung des Vormunds
-
-(1) Die Vormundschaft wird unentgeltlich geführt. Sie wird
-ausnahmsweise entgeltlich geführt, wenn das Gericht bei der Bestellung
-des Vormunds feststellt, dass der Vormund die Vormundschaft
-berufsmäßig führt. Das Nähere regelt das Vormünder- und
-Betreuervergütungsgesetz.
-
-(2) Trifft das Gericht keine Feststellung nach Absatz 1 Satz 2, so
-kann es dem Vormund und aus besonderen Gründen auch dem Gegenvormund
-gleichwohl eine angemessene Vergütung bewilligen, soweit der Umfang
-oder die Schwierigkeit der vormundschaftlichen Geschäfte dies
-rechtfertigen; dies gilt nicht, wenn der Mündel mittellos ist.
-
-(3) Dem Jugendamt oder einem Verein kann keine Vergütung bewilligt
-werden.
-
-
-###### (XXXX) §§ 1836a und 1836b (weggefallen)
-
-
-###### § 1836c Einzusetzende Mittel des Mündels
-
-Der Mündel hat einzusetzen:
-
-1.  nach Maßgabe des § 87 des Zwölften Buches Sozialgesetzbuch sein
-    Einkommen, soweit es zusammen mit dem Einkommen seines nicht getrennt
-    lebenden Ehegatten oder Lebenspartners die nach den §§ 82, 85 Abs. 1
-    und § 86 des Zwölften Buches Sozialgesetzbuch maßgebende
-    Einkommensgrenze für die Hilfe nach dem Fünften bis Neunten Kapitel
-    des Zwölften Buches Sozialgesetzbuch übersteigt. Wird im Einzelfall
-    der Einsatz eines Teils des Einkommens zur Deckung eines bestimmten
-    Bedarfs im Rahmen der Hilfe nach dem Fünften bis Neunten Kapitel des
-    Zwölften Buches Sozialgesetzbuch zugemutet oder verlangt, darf dieser
-    Teil des Einkommens bei der Prüfung, inwieweit der Einsatz des
-    Einkommens zur Deckung der Kosten der Vormundschaft einzusetzen ist,
-    nicht mehr berücksichtigt werden. Als Einkommen gelten auch
-    Unterhaltsansprüche sowie die wegen Entziehung einer solchen Forderung
-    zu entrichtenden Renten;
-
-
-2.  sein Vermögen nach Maßgabe des § 90 des Zwölften Buches
-    Sozialgesetzbuch.
-
-
-
-
-
-###### § 1836d Mittellosigkeit des Mündels
-
-Der Mündel gilt als mittellos, wenn er den Aufwendungsersatz oder die
-Vergütung aus seinem einzusetzenden Einkommen oder Vermögen
-
-1.  nicht oder nur zum Teil oder nur in Raten oder
-
-
-2.  nur im Wege gerichtlicher Geltendmachung von Unterhaltsansprüchen
-
-
-
-aufbringen kann.
-
-
-###### § 1836e Gesetzlicher Forderungsübergang
-
-(1) Soweit die Staatskasse den Vormund oder Gegenvormund befriedigt,
-gehen Ansprüche des Vormundes oder Gegenvormunds gegen den Mündel auf
-die Staatskasse über. Nach dem Tode des Mündels haftet sein Erbe nur
-mit dem Wert des im Zeitpunkt des Erbfalls vorhandenen Nachlasses; §
-102 Abs. 3 und 4 des Zwölften Buches Sozialgesetzbuch gilt
-entsprechend, § 1836c findet auf den Erben keine Anwendung.
-
-(2) Soweit Ansprüche gemäß § 1836c Nr. 1 Satz 3 einzusetzen sind,
-findet zugunsten der Staatskasse § 850b der Zivilprozessordnung keine
-Anwendung.
-
-
-##### Untertitel 3 - Fürsorge und Aufsicht des Familiengerichts
-
-
-
-###### § 1837 Beratung und Aufsicht
-
-(1) Das Familiengericht berät die Vormünder. Es wirkt dabei mit, sie
-in ihre Aufgaben einzuführen.
-
-(2) Das Familiengericht hat über die gesamte Tätigkeit des Vormunds
-und des Gegenvormunds die Aufsicht zu führen und gegen
-Pflichtwidrigkeiten durch geeignete Gebote und Verbote einzuschreiten.
-Es hat insbesondere die Einhaltung der erforderlichen persönlichen
-Kontakte des Vormunds zu dem Mündel zu beaufsichtigen. Es kann dem
-Vormund und dem Gegenvormund aufgeben, eine Versicherung gegen
-Schäden, die sie dem Mündel zufügen können, einzugehen.
-
-(3) Das Familiengericht kann den Vormund und den Gegenvormund zur
-Befolgung seiner Anordnungen durch Festsetzung von Zwangsgeld
-anhalten. Gegen das Jugendamt oder einen Verein wird kein Zwangsgeld
-festgesetzt.
-
-(4) §§ 1666, 1666a und 1696 gelten entsprechend.
-
-
-###### § 1838
-
-(weggefallen)
-
-
-###### § 1839 Auskunftspflicht des Vormunds
-
-Der Vormund sowie der Gegenvormund hat dem Familiengericht auf
-Verlangen jederzeit über die Führung der Vormundschaft und über die
-persönlichen Verhältnisse des Mündels Auskunft zu erteilen.
-
-
-###### § 1840 Bericht und Rechnungslegung
-
-(1) Der Vormund hat über die persönlichen Verhältnisse des Mündels dem
-Familiengericht mindestens einmal jährlich zu berichten. Der Bericht
-hat auch Angaben zu den persönlichen Kontakten des Vormunds zu dem
-Mündel zu enthalten.
-
-(2) Der Vormund hat über seine Vermögensverwaltung dem Familiengericht
-Rechnung zu legen.
-
-(3) Die Rechnung ist jährlich zu legen. Das Rechnungsjahr wird von dem
-Familiengericht bestimmt.
-
-(4) Ist die Verwaltung von geringem Umfang, so kann das
-Familiengericht, nachdem die Rechnung für das erste Jahr gelegt worden
-ist, anordnen, dass die Rechnung für längere, höchstens dreijährige
-Zeitabschnitte zu legen ist.
-
-
-###### § 1841 Inhalt der Rechnungslegung
-
-(1) Die Rechnung soll eine geordnete Zusammenstellung der Einnahmen
-und Ausgaben enthalten, über den Ab- und Zugang des Vermögens Auskunft
-geben und, soweit Belege erteilt zu werden pflegen, mit Belegen
-versehen sein.
-
-(2) Wird ein Erwerbsgeschäft mit kaufmännischer Buchführung betrieben,
-so genügt als Rechnung ein aus den Büchern gezogener Jahresabschluss.
-Das Familiengericht kann jedoch die Vorlegung der Bücher und sonstigen
-Belege verlangen.
-
-
-###### § 1842 Mitwirkung des Gegenvormunds
-
-Ist ein Gegenvormund vorhanden oder zu bestellen, so hat ihm der
-Vormund die Rechnung unter Nachweisung des Vermögensbestands
-vorzulegen. Der Gegenvormund hat die Rechnung mit den Bemerkungen zu
-versehen, zu denen die Prüfung ihm Anlass gibt.
-
-
-###### § 1843 Prüfung durch das Familiengericht
-
-(1) Das Familiengericht hat die Rechnung rechnungsmäßig und sachlich
-zu prüfen und, soweit erforderlich, ihre Berichtigung und Ergänzung
-herbeizuführen.
-
-(2) Ansprüche, die zwischen dem Vormund und dem Mündel streitig
-bleiben, können schon vor der Beendigung des
-Vormundschaftsverhältnisses im Rechtsweg geltend gemacht werden.
-
-
-###### § 1844
-
-(weggefallen)
-
-
-###### § 1845 (weggefallen)
-
--
-
-
-###### § 1846 Einstweilige Maßregeln des Familiengerichts
-
-Ist ein Vormund noch nicht bestellt oder ist der Vormund an der
-Erfüllung seiner Pflichten verhindert, so hat das Familiengericht die
-im Interesse des Betroffenen erforderlichen Maßregeln zu treffen.
-
-
-###### § 1847 Anhörung der Angehörigen
-
-Das Familiengericht soll in wichtigen Angelegenheiten Verwandte oder
-Verschwägerte des Mündels hören, wenn dies ohne erhebliche Verzögerung
-und ohne unverhältnismäßige Kosten geschehen kann. § 1779 Abs. 3 Satz
-2 gilt entsprechend.
-
-
-###### § 1848
-
-(weggefallen)
-
-
-##### Untertitel 4 - Mitwirkung des Jugendamts
-
-
-
-###### (XXXX) §§ 1849 und 1850 (weggefallen)
-
-
-
-###### § 1851 Mitteilungspflichten
-
-(1) Das Familiengericht hat dem Jugendamt die Anordnung der
-Vormundschaft unter Bezeichnung des Vormunds und des Gegenvormunds
-sowie einen Wechsel in der Person und die Beendigung der Vormundschaft
-mitzuteilen.
-
-(2) Wird der gewöhnliche Aufenthalt eines Mündels in den Bezirk eines
-anderen Jugendamts verlegt, so hat der Vormund dem Jugendamt des
-bisherigen gewöhnlichen Aufenthalts und dieses dem Jugendamt des neuen
-gewöhnlichen Aufenthalts die Verlegung mitzuteilen.
-
-(3) Ist ein Verein Vormund, so sind die Absätze 1 und 2 nicht
-anzuwenden.
-
-
-##### Untertitel 5 - Befreite Vormundschaft
-
-
-
-###### § 1852 Befreiung durch den Vater
-
-(1) Der Vater kann, wenn er einen Vormund benennt, die Bestellung
-eines Gegenvormunds ausschließen.
-
-(2) Der Vater kann anordnen, dass der von ihm benannte Vormund bei der
-Anlegung von Geld den in den §§ 1809, 1810 bestimmten Beschränkungen
-nicht unterliegen und zu den im § 1812 bezeichneten Rechtsgeschäften
-der Genehmigung des Gegenvormunds oder des Familiengerichts nicht
-bedürfen soll. Diese Anordnungen sind als getroffen anzusehen, wenn
-der Vater die Bestellung eines Gegenvormunds ausgeschlossen hat.
-
-
-###### § 1853 Befreiung von Hinterlegung und Sperrung
-
-Der Vater kann den von ihm benannten Vormund von der Verpflichtung
-entbinden, Inhaber- und Orderpapiere zu hinterlegen und den in § 1816
-bezeichneten Vermerk in das Bundesschuldbuch oder das Schuldbuch eines
-Landes eintragen zu lassen.
-
-
-###### § 1854 Befreiung von der Rechnungslegungspflicht
-
-(1) Der Vater kann den von ihm benannten Vormund von der Verpflichtung
-entbinden, während der Dauer seines Amtes Rechnung zu legen.
-
-(2) Der Vormund hat in einem solchen Falle nach dem Ablauf von je zwei
-Jahren eine Übersicht über den Bestand des seiner Verwaltung
-unterliegenden Vermögens dem Familiengericht einzureichen. Das
-Familiengericht kann anordnen, dass die Übersicht in längeren,
-höchstens fünfjährigen Zwischenräumen einzureichen ist.
-
-(3) Ist ein Gegenvormund vorhanden oder zu bestellen, so hat ihm der
-Vormund die Übersicht unter Nachweisung des Vermögensbestands
-vorzulegen. Der Gegenvormund hat die Übersicht mit den Bemerkungen zu
-versehen, zu denen die Prüfung ihm Anlass gibt.
-
-
-###### § 1855 Befreiung durch die Mutter
-
-Benennt die Mutter einen Vormund, so kann sie die gleichen Anordnungen
-treffen wie nach den §§ 1852 bis 1854 der Vater.
-
-
-###### § 1856 Voraussetzungen der Befreiung
-
-Auf die nach den §§ 1852 bis 1855 zulässigen Anordnungen sind die
-Vorschriften des § 1777 anzuwenden. Haben die Eltern denselben Vormund
-benannt, aber einander widersprechende Anordnungen getroffen, so
-gelten die Anordnungen des zuletzt verstorbenen Elternteils.
-
-
-###### § 1857 Aufhebung der Befreiung durch das Familiengericht
-
-Die Anordnungen des Vaters oder der Mutter können von dem
-Familiengericht außer Kraft gesetzt werden, wenn ihre Befolgung das
-Interesse des Mündels gefährden würde.
-
-
-###### § 1857a Befreiung des Jugendamts und des Vereins
-
-Dem Jugendamt und einem Verein als Vormund stehen die nach § 1852 Abs.
-2, §§ 1853, 1854 zulässigen Befreiungen zu.
-
-
-###### (XXXX) §§ 1858 bis 1881 (weggefallen)
-
-
-
-##### Untertitel 6 - Beendigung der Vormundschaft
-
-
-
-###### § 1882 Wegfall der Voraussetzungen
-
-Die Vormundschaft endigt mit dem Wegfall der in § 1773 für die
-Begründung der Vormundschaft bestimmten Voraussetzungen.
-
-
-###### § 1883
-
-(weggefallen)
-
-
-###### § 1884 Verschollenheit und Todeserklärung des Mündels
-
-(1) Ist der Mündel verschollen, so endigt die Vormundschaft erst mit
-der Aufhebung durch das Familiengericht. Das Familiengericht hat die
-Vormundschaft aufzuheben, wenn ihm der Tod des Mündels bekannt wird.
-
-(2) Wird der Mündel für tot erklärt oder wird seine Todeszeit nach den
-Vorschriften des Verschollenheitsgesetzes festgestellt, so endigt die
-Vormundschaft mit der Rechtskraft des Beschlusses über die
-Todeserklärung oder die Feststellung der Todeszeit.
-
-
-###### § 1885
-
-(weggefallen)
-
-
-###### § 1886 Entlassung des Einzelvormunds
-
-Das Familiengericht hat den Einzelvormund zu entlassen, wenn die
-Fortführung des Amts, insbesondere wegen pflichtwidrigen Verhaltens
-des Vormunds, das Interesse des Mündels gefährden würde oder wenn in
-der Person des Vormunds einer der in § 1781 bestimmten Gründe
-vorliegt.
-
-
-###### § 1887 Entlassung des Jugendamts oder Vereins
-
-(1) Das Familiengericht hat das Jugendamt oder den Verein als Vormund
-zu entlassen und einen anderen Vormund zu bestellen, wenn dies dem
-Wohl des Mündels dient und eine andere als Vormund geeignete Person
-vorhanden ist.
-
-(2) Die Entscheidung ergeht von Amts wegen oder auf Antrag. Zum Antrag
-ist berechtigt der Mündel, der das 14. Lebensjahr vollendet hat, sowie
-jeder, der ein berechtigtes Interesse des Mündels geltend macht. Das
-Jugendamt oder der Verein sollen den Antrag stellen, sobald sie
-erfahren, dass die Voraussetzungen des Absatzes 1 vorliegen.
-
-(3) Das Familiengericht soll vor seiner Entscheidung auch das
-Jugendamt oder den Verein hören.
-
-
-###### § 1888 Entlassung von Beamten und Religionsdienern
-
-Ist ein Beamter oder ein Religionsdiener zum Vormund bestellt, so hat
-ihn das Familiengericht zu entlassen, wenn die Erlaubnis, die nach den
-Landesgesetzen zur Übernahme der Vormundschaft oder zur Fortführung
-der vor dem Eintritt in das Amts- oder Dienstverhältnis übernommenen
-Vormundschaft erforderlich ist, versagt oder zurückgenommen wird oder
-wenn die nach den Landesgesetzen zulässige Untersagung der Fortführung
-der Vormundschaft erfolgt.
-
-
-###### § 1889 Entlassung auf eigenen Antrag
-
-(1) Das Familiengericht hat den Einzelvormund auf seinen Antrag zu
-entlassen, wenn ein wichtiger Grund vorliegt; ein wichtiger Grund ist
-insbesondere der Eintritt eines Umstands, der den Vormund nach § 1786
-Abs. 1 Nr. 2 bis 7 berechtigen würde, die Übernahme der Vormundschaft
-abzulehnen.
-
-(2) Das Familiengericht hat das Jugendamt oder den Verein als Vormund
-auf seinen Antrag zu entlassen, wenn eine andere als Vormund geeignete
-Person vorhanden ist und das Wohl des Mündels dieser Maßnahme nicht
-entgegensteht. Ein Verein ist auf seinen Antrag ferner zu entlassen,
-wenn ein wichtiger Grund vorliegt.
-
-
-###### § 1890 Vermögensherausgabe und Rechnungslegung
-
-Der Vormund hat nach der Beendigung seines Amts dem Mündel das
-verwaltete Vermögen herauszugeben und über die Verwaltung Rechenschaft
-abzulegen. Soweit er dem Familiengericht Rechnung gelegt hat, genügt
-die Bezugnahme auf diese Rechnung.
-
-
-###### § 1891 Mitwirkung des Gegenvormunds
-
-(1) Ist ein Gegenvormund vorhanden, so hat ihm der Vormund die
-Rechnung vorzulegen. Der Gegenvormund hat die Rechnung mit den
-Bemerkungen zu versehen, zu denen die Prüfung ihm Anlass gibt.
-
-(2) Der Gegenvormund hat über die Führung der Gegenvormundschaft und,
-soweit er dazu imstande ist, über das von dem Vormund verwaltete
-Vermögen auf Verlangen Auskunft zu erteilen.
-
-
-###### § 1892 Rechnungsprüfung und -anerkennung
-
-(1) Der Vormund hat die Rechnung, nachdem er sie dem Gegenvormund
-vorgelegt hat, dem Familiengericht einzureichen.
-
-(2) Das Familiengericht hat die Rechnung rechnungsmäßig und sachlich
-zu prüfen und deren Abnahme durch Verhandlung mit den Beteiligten
-unter Zuziehung des Gegenvormunds zu vermitteln. Soweit die Rechnung
-als richtig anerkannt wird, hat das Familiengericht das Anerkenntnis
-zu beurkunden.
-
-
-###### § 1893 Fortführung der Geschäfte nach Beendigung der Vormundschaft, Rückgabe von Urkunden
-
-(1) Im Falle der Beendigung der Vormundschaft oder des
-vormundschaftlichen Amts finden die Vorschriften der §§ 1698a, 1698b
-entsprechende Anwendung.
-
-(2) Der Vormund hat nach Beendigung seines Amts die Bestallung dem
-Familiengericht zurückzugeben. In den Fällen der §§ 1791a, 1791b ist
-der Beschluss des Familiengerichts, im Falle des § 1791c die
-Bescheinigung über den Eintritt der Vormundschaft zurückzugeben.
-
-
-###### § 1894 Anzeige bei Tod des Vormunds
-
-(1) Den Tod des Vormunds hat dessen Erbe dem Familiengericht
-unverzüglich anzuzeigen.
-
-(2) Den Tod des Gegenvormunds oder eines Mitvormunds hat der Vormund
-unverzüglich anzuzeigen.
-
-
-###### § 1895 Amtsende des Gegenvormunds
-
-Die Vorschriften der §§ 1886 bis 1889, 1893, 1894 finden auf den
-Gegenvormund entsprechende Anwendung.
-
-
-#### Titel 2 - Rechtliche Betreuung
-
-
-
-##### § 1896 Voraussetzungen
-
-(1) Kann ein Volljähriger auf Grund einer psychischen Krankheit oder
-einer körperlichen, geistigen oder seelischen Behinderung seine
-Angelegenheiten ganz oder teilweise nicht besorgen, so bestellt das
-Betreuungsgericht auf seinen Antrag oder von Amts wegen für ihn einen
-Betreuer. Den Antrag kann auch ein Geschäftsunfähiger stellen. Soweit
-der Volljährige auf Grund einer körperlichen Behinderung seine
-Angelegenheiten nicht besorgen kann, darf der Betreuer nur auf Antrag
-des Volljährigen bestellt werden, es sei denn, dass dieser seinen
-Willen nicht kundtun kann.
-
-(1a) Gegen den freien Willen des Volljährigen darf ein Betreuer nicht
-bestellt werden.
-
-(2) Ein Betreuer darf nur für Aufgabenkreise bestellt werden, in denen
-die Betreuung erforderlich ist. Die Betreuung ist nicht erforderlich,
-soweit die Angelegenheiten des Volljährigen durch einen
-Bevollmächtigten, der nicht zu den in § 1897 Abs. 3 bezeichneten
-Personen gehört, oder durch andere Hilfen, bei denen kein gesetzlicher
-Vertreter bestellt wird, ebenso gut wie durch einen Betreuer besorgt
-werden können.
-
-(3) Als Aufgabenkreis kann auch die Geltendmachung von Rechten des
-Betreuten gegenüber seinem Bevollmächtigten bestimmt werden.
-
-(4) Die Entscheidung über den Fernmeldeverkehr des Betreuten und über
-die Entgegennahme, das Öffnen und das Anhalten seiner Post werden vom
-Aufgabenkreis des Betreuers nur dann erfasst, wenn das Gericht dies
-ausdrücklich angeordnet hat.
-
-
-##### § 1897 Bestellung einer natürlichen Person
-
-(1) Zum Betreuer bestellt das Betreuungsgericht eine natürliche
-Person, die geeignet ist, in dem gerichtlich bestimmten Aufgabenkreis
-die Angelegenheiten des Betreuten rechtlich zu besorgen und ihn in dem
-hierfür erforderlichen Umfang persönlich zu betreuen.
-
-(2) Der Mitarbeiter eines nach § 1908f anerkannten Betreuungsvereins,
-der dort ausschließlich oder teilweise als Betreuer tätig ist
-(Vereinsbetreuer), darf nur mit Einwilligung des Vereins bestellt
-werden. Entsprechendes gilt für den Mitarbeiter einer in
-Betreuungsangelegenheiten zuständigen Behörde, der dort ausschließlich
-oder teilweise als Betreuer tätig ist (Behördenbetreuer).
-
-(3) Wer zu einer Anstalt, einem Heim oder einer sonstigen Einrichtung,
-in welcher der Volljährige untergebracht ist oder wohnt, in einem
-Abhängigkeitsverhältnis oder in einer anderen engen Beziehung steht,
-darf nicht zum Betreuer bestellt werden.
-
-(4) Schlägt der Volljährige eine Person vor, die zum Betreuer bestellt
-werden kann, so ist diesem Vorschlag zu entsprechen, wenn es dem Wohl
-des Volljährigen nicht zuwiderläuft. Schlägt er vor, eine bestimmte
-Person nicht zu bestellen, so soll hierauf Rücksicht genommen werden.
-Die Sätze 1 und 2 gelten auch für Vorschläge, die der Volljährige vor
-dem Betreuungsverfahren gemacht hat, es sei denn, dass er an diesen
-Vorschlägen erkennbar nicht festhalten will.
-
-(5) Schlägt der Volljährige niemanden vor, der zum Betreuer bestellt
-werden kann, so ist bei der Auswahl des Betreuers auf die
-verwandtschaftlichen und sonstigen persönlichen Bindungen des
-Volljährigen, insbesondere auf die Bindungen zu Eltern, zu Kindern,
-zum Ehegatten und zum Lebenspartner, sowie auf die Gefahr von
-Interessenkonflikten Rücksicht zu nehmen.
-
-(6) Wer Betreuungen im Rahmen seiner Berufsausübung führt, soll nur
-dann zum Betreuer bestellt werden, wenn keine andere geeignete Person
-zur Verfügung steht, die zur ehrenamtlichen Führung der Betreuung
-bereit ist. Werden dem Betreuer Umstände bekannt, aus denen sich
-ergibt, dass der Volljährige durch eine oder mehrere andere geeignete
-Personen außerhalb einer Berufsausübung betreut werden kann, so hat er
-dies dem Gericht mitzuteilen.
-
-(7) Wird eine Person unter den Voraussetzungen des Absatzes 6 Satz 1
-erstmals in dem Bezirk des Betreuungsgerichts zum Betreuer bestellt,
-soll das Gericht zuvor die zuständige Behörde zur Eignung des
-ausgewählten Betreuers und zu den nach § 1 Abs. 1 Satz 1 zweite
-Alternative des Vormünder- und Betreuervergütungsgesetzes zu
-treffenden Feststellungen anhören. Die zuständige Behörde soll die
-Person auffordern, ein Führungszeugnis und eine Auskunft aus dem
-Schuldnerverzeichnis vorzulegen.
-
-(8) Wird eine Person unter den Voraussetzungen des Absatzes 6 Satz 1
-bestellt, hat sie sich über Zahl und Umfang der von ihr berufsmäßig
-geführten Betreuungen zu erklären.
-
-
-##### § 1898 Übernahmepflicht
-
-(1) Der vom Betreuungsgericht Ausgewählte ist verpflichtet, die
-Betreuung zu übernehmen, wenn er zur Betreuung geeignet ist und ihm
-die Übernahme unter Berücksichtigung seiner familiären, beruflichen
-und sonstigen Verhältnisse zugemutet werden kann.
-
-(2) Der Ausgewählte darf erst dann zum Betreuer bestellt werden, wenn
-er sich zur Übernahme der Betreuung bereit erklärt hat.
-
-
-##### § 1899 Mehrere Betreuer
-
-(1) Das Betreuungsgericht kann mehrere Betreuer bestellen, wenn die
-Angelegenheiten des Betreuten hierdurch besser besorgt werden können.
-In diesem Falle bestimmt es, welcher Betreuer mit welchem
-Aufgabenkreis betraut wird. Mehrere Betreuer, die eine Vergütung
-erhalten, werden außer in den in den Absätzen 2 und 4 sowie § 1908i
-Abs. 1 Satz 1 in Verbindung mit § 1792 geregelten Fällen nicht
-bestellt.
-
-(2) Für die Entscheidung über die Einwilligung in eine Sterilisation
-des Betreuten ist stets ein besonderer Betreuer zu bestellen.
-
-(3) Soweit mehrere Betreuer mit demselben Aufgabenkreis betraut
-werden, können sie die Angelegenheiten des Betreuten nur gemeinsam
-besorgen, es sei denn, dass das Gericht etwas anderes bestimmt hat
-oder mit dem Aufschub Gefahr verbunden ist.
-
-(4) Das Gericht kann mehrere Betreuer auch in der Weise bestellen,
-dass der eine die Angelegenheiten des Betreuten nur zu besorgen hat,
-soweit der andere verhindert ist.
-
-
-##### § 1900 Betreuung durch Verein oder Behörde
-
-(1) Kann der Volljährige durch eine oder mehrere natürliche Personen
-nicht hinreichend betreut werden, so bestellt das Betreuungsgericht
-einen anerkannten Betreuungsverein zum Betreuer. Die Bestellung bedarf
-der Einwilligung des Vereins.
-
-(2) Der Verein überträgt die Wahrnehmung der Betreuung einzelnen
-Personen. Vorschlägen des Volljährigen hat er hierbei zu entsprechen,
-soweit nicht wichtige Gründe entgegenstehen. Der Verein teilt dem
-Gericht alsbald mit, wem er die Wahrnehmung der Betreuung übertragen
-hat.
-
-(3) Werden dem Verein Umstände bekannt, aus denen sich ergibt, dass
-der Volljährige durch eine oder mehrere natürliche Personen
-hinreichend betreut werden kann, so hat er dies dem Gericht
-mitzuteilen.
-
-(4) Kann der Volljährige durch eine oder mehrere natürliche Personen
-oder durch einen Verein nicht hinreichend betreut werden, so bestellt
-das Gericht die zuständige Behörde zum Betreuer. Die Absätze 2 und 3
-gelten entsprechend.
-
-(5) Vereinen oder Behörden darf die Entscheidung über die Einwilligung
-in eine Sterilisation des Betreuten nicht übertragen werden.
-
-
-##### § 1901 Umfang der Betreuung, Pflichten des Betreuers
-
-(1) Die Betreuung umfasst alle Tätigkeiten, die erforderlich sind, um
-die Angelegenheiten des Betreuten nach Maßgabe der folgenden
-Vorschriften rechtlich zu besorgen.
-
-(2) Der Betreuer hat die Angelegenheiten des Betreuten so zu besorgen,
-wie es dessen Wohl entspricht. Zum Wohl des Betreuten gehört auch die
-Möglichkeit, im Rahmen seiner Fähigkeiten sein Leben nach seinen
-eigenen Wünschen und Vorstellungen zu gestalten.
-
-(3) Der Betreuer hat Wünschen des Betreuten zu entsprechen, soweit
-dies dessen Wohl nicht zuwiderläuft und dem Betreuer zuzumuten ist.
-Dies gilt auch für Wünsche, die der Betreute vor der Bestellung des
-Betreuers geäußert hat, es sei denn, dass er an diesen Wünschen
-erkennbar nicht festhalten will. Ehe der Betreuer wichtige
-Angelegenheiten erledigt, bespricht er sie mit dem Betreuten, sofern
-dies dessen Wohl nicht zuwiderläuft.
-
-(4) Innerhalb seines Aufgabenkreises hat der Betreuer dazu
-beizutragen, dass Möglichkeiten genutzt werden, die Krankheit oder
-Behinderung des Betreuten zu beseitigen, zu bessern, ihre
-Verschlimmerung zu verhüten oder ihre Folgen zu mildern. Wird die
-Betreuung berufsmäßig geführt, hat der Betreuer in geeigneten Fällen
-auf Anordnung des Gerichts zu Beginn der Betreuung einen
-Betreuungsplan zu erstellen. In dem Betreuungsplan sind die Ziele der
-Betreuung und die zu ihrer Erreichung zu ergreifenden Maßnahmen
-darzustellen.
-
-(5) Werden dem Betreuer Umstände bekannt, die eine Aufhebung der
-Betreuung ermöglichen, so hat er dies dem Betreuungsgericht
-mitzuteilen. Gleiches gilt für Umstände, die eine Einschränkung des
-Aufgabenkreises ermöglichen oder dessen Erweiterung, die Bestellung
-eines weiteren Betreuers oder die Anordnung eines
-Einwilligungsvorbehalts (§ 1903) erfordern.
-
-
-##### § 1901a Patientenverfügung
+###### § 1827 Patientenverfügung; Behandlungswünsche oder mutmaßlicher Wille des Betreuten
 
 (1) Hat ein einwilligungsfähiger Volljähriger für den Fall seiner
 Einwilligungsunfähigkeit schriftlich festgelegt, ob er in bestimmte,
@@ -33486,21 +33993,21 @@ zum Zeitpunkt der Festlegung noch nicht unmittelbar bevorstehende
 Untersuchungen seines Gesundheitszustands, Heilbehandlungen oder
 ärztliche Eingriffe einwilligt oder sie untersagt
 (Patientenverfügung), prüft der Betreuer, ob diese Festlegungen auf
-die aktuelle Lebens- und Behandlungssituation zutreffen. Ist dies der
-Fall, hat der Betreuer dem Willen des Betreuten Ausdruck und Geltung
-zu verschaffen. Eine Patientenverfügung kann jederzeit formlos
-widerrufen werden.
+die aktuelle Lebens- und Behandlungssituation des Betreuten zutreffen.
+Ist dies der Fall, hat der Betreuer dem Willen des Betreuten Ausdruck
+und Geltung zu verschaffen. Eine Patientenverfügung kann jederzeit
+formlos widerrufen werden.
 
 (2) Liegt keine Patientenverfügung vor oder treffen die Festlegungen
 einer Patientenverfügung nicht auf die aktuelle Lebens- und
-Behandlungssituation zu, hat der Betreuer die Behandlungswünsche oder
-den mutmaßlichen Willen des Betreuten festzustellen und auf dieser
-Grundlage zu entscheiden, ob er in eine ärztliche Maßnahme nach Absatz
-1 einwilligt oder sie untersagt. Der mutmaßliche Wille ist aufgrund
-konkreter Anhaltspunkte zu ermitteln. Zu berücksichtigen sind
-insbesondere frühere mündliche oder schriftliche Äußerungen, ethische
-oder religiöse Überzeugungen und sonstige persönliche
-Wertvorstellungen des Betreuten.
+Behandlungssituation des Betreuten zu, hat der Betreuer die
+Behandlungswünsche oder den mutmaßlichen Willen des Betreuten
+festzustellen und auf dieser Grundlage zu entscheiden, ob er in eine
+ärztliche Maßnahme nach Absatz 1 einwilligt oder sie untersagt. Der
+mutmaßliche Wille ist aufgrund konkreter Anhaltspunkte zu ermitteln.
+Zu berücksichtigen sind insbesondere frühere Äußerungen, ethische oder
+religiöse Überzeugungen und sonstige persönliche Wertvorstellungen des
+Betreuten.
 
 (3) Die Absätze 1 und 2 gelten unabhängig von Art und Stadium einer
 Erkrankung des Betreuten.
@@ -33516,16 +34023,16 @@ nicht zur Bedingung eines Vertragsschlusses gemacht werden.
 (6) Die Absätze 1 bis 3 gelten für Bevollmächtigte entsprechend.
 
 
-##### § 1901b Gespräch zur Feststellung des Patientenwillens
+###### § 1828 Gespräch zur Feststellung des Patientenwillens
 
 (1) Der behandelnde Arzt prüft, welche ärztliche Maßnahme im Hinblick
 auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Er
 und der Betreuer erörtern diese Maßnahme unter Berücksichtigung des
-Patientenwillens als Grundlage für die nach § 1901a zu treffende
+Patientenwillens als Grundlage für die nach § 1827 zu treffende
 Entscheidung.
 
-(2) Bei der Feststellung des Patientenwillens nach § 1901a Absatz 1
-oder der Behandlungswünsche oder des mutmaßlichen Willens nach § 1901a
+(2) Bei der Feststellung des Patientenwillens nach § 1827 Absatz 1
+oder der Behandlungswünsche oder des mutmaßlichen Willens nach § 1827
 Absatz 2 soll nahen Angehörigen und sonstigen Vertrauenspersonen des
 Betreuten Gelegenheit zur Äußerung gegeben werden, sofern dies ohne
 erhebliche Verzögerung möglich ist.
@@ -33533,72 +34040,12 @@ erhebliche Verzögerung möglich ist.
 (3) Die Absätze 1 und 2 gelten für Bevollmächtigte entsprechend.
 
 
-##### § 1901c Schriftliche Betreuungswünsche, Vorsorgevollmacht
-
-Wer ein Schriftstück besitzt, in dem jemand für den Fall seiner
-Betreuung Vorschläge zur Auswahl des Betreuers oder Wünsche zur
-Wahrnehmung der Betreuung geäußert hat, hat es unverzüglich an das
-Betreuungsgericht abzuliefern, nachdem er von der Einleitung eines
-Verfahrens über die Bestellung eines Betreuers Kenntnis erlangt hat.
-Ebenso hat der Besitzer das Betreuungsgericht über Schriftstücke, in
-denen der Betroffene eine andere Person mit der Wahrnehmung seiner
-Angelegenheiten bevollmächtigt hat, zu unterrichten. Das
-Betreuungsgericht kann die Vorlage einer Abschrift verlangen.
-
-
-##### § 1902 Vertretung des Betreuten
-
-In seinem Aufgabenkreis vertritt der Betreuer den Betreuten
-gerichtlich und außergerichtlich.
-
-
-##### § 1903 Einwilligungsvorbehalt
-
-(1) Soweit dies zur Abwendung einer erheblichen Gefahr für die Person
-oder das Vermögen des Betreuten erforderlich ist, ordnet das
-Betreuungsgericht an, dass der Betreute zu einer Willenserklärung, die
-den Aufgabenkreis des Betreuers betrifft, dessen Einwilligung bedarf
-(Einwilligungsvorbehalt). Die §§ 108 bis 113, 131 Abs. 2 und § 210
-gelten entsprechend.
-
-(2) Ein Einwilligungsvorbehalt kann sich nicht erstrecken
-
-1.  auf Willenserklärungen, die auf Eingehung einer Ehe oder Begründung
-    einer Lebenspartnerschaft gerichtet sind,
-
-
-2.  auf Verfügungen von Todes wegen,
-
-
-3.  auf die Anfechtung eines Erbvertrags,
-
-
-4.  auf die Aufhebung eines Erbvertrags durch Vertrag und
-
-
-5.  auf Willenserklärungen, zu denen ein beschränkt Geschäftsfähiger nach
-    den Vorschriften der Bücher 4 und 5 nicht der Zustimmung seines
-    gesetzlichen Vertreters bedarf.
-
-
-
-
-(3) Ist ein Einwilligungsvorbehalt angeordnet, so bedarf der Betreute
-dennoch nicht der Einwilligung seines Betreuers, wenn die
-Willenserklärung dem Betreuten lediglich einen rechtlichen Vorteil
-bringt. Soweit das Gericht nichts anderes anordnet, gilt dies auch,
-wenn die Willenserklärung eine geringfügige Angelegenheit des
-täglichen Lebens betrifft.
-
-(4) § 1901 Abs. 5 gilt entsprechend.
-
-
-##### § 1904 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen
+###### § 1829 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen
 
 (1) Die Einwilligung des Betreuers in eine Untersuchung des
 Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen
 Eingriff bedarf der Genehmigung des Betreuungsgerichts, wenn die
-begründete Gefahr besteht, dass der Betreute auf Grund der Maßnahme
+begründete Gefahr besteht, dass der Betreute aufgrund der Maßnahme
 stirbt oder einen schweren und länger dauernden gesundheitlichen
 Schaden erleidet. Ohne die Genehmigung darf die Maßnahme nur
 durchgeführt werden, wenn mit dem Aufschub Gefahr verbunden ist.
@@ -33607,7 +34054,7 @@ durchgeführt werden, wenn mit dem Aufschub Gefahr verbunden ist.
 Betreuers in eine Untersuchung des Gesundheitszustands, eine
 Heilbehandlung oder einen ärztlichen Eingriff bedarf der Genehmigung
 des Betreuungsgerichts, wenn die Maßnahme medizinisch angezeigt ist
-und die begründete Gefahr besteht, dass der Betreute auf Grund des
+und die begründete Gefahr besteht, dass der Betreute aufgrund des
 Unterbleibens oder des Abbruchs der Maßnahme stirbt oder einen
 schweren und länger dauernden gesundheitlichen Schaden erleidet.
 
@@ -33618,23 +34065,20 @@ Einwilligung dem Willen des Betreuten entspricht.
 (4) Eine Genehmigung nach den Absätzen 1 und 2 ist nicht erforderlich,
 wenn zwischen Betreuer und behandelndem Arzt Einvernehmen darüber
 besteht, dass die Erteilung, die Nichterteilung oder der Widerruf der
-Einwilligung dem nach § 1901a festgestellten Willen des Betreuten
+Einwilligung dem nach § 1827 festgestellten Willen des Betreuten
 entspricht.
 
-(5) Die Absätze 1 bis 4 gelten auch für einen Bevollmächtigten. Er
-kann in eine der in Absatz 1 Satz 1 oder Absatz 2 genannten Maßnahmen
-nur einwilligen, nicht einwilligen oder die Einwilligung widerrufen,
-wenn die Vollmacht diese Maßnahmen ausdrücklich umfasst und
-schriftlich erteilt ist.
+(5) Die Absätze 1 bis 4 gelten nach Maßgabe des § 1820 Absatz 2 Nummer
+1 für einen Bevollmächtigten entsprechend.
 
 
-##### § 1905 Sterilisation
+###### § 1830 Sterilisation
 
-(1) Besteht der ärztliche Eingriff in einer Sterilisation des
-Betreuten, in die dieser nicht einwilligen kann, so kann der Betreuer
-nur einwilligen, wenn
+(1) Die Einwilligung eines Sterilisationsbetreuers in eine
+Sterilisation des Betreuten, in die dieser nicht selbst einwilligen
+kann, ist nur zulässig, wenn
 
-1.  die Sterilisation dem Willen des Betreuten nicht widerspricht,
+1.  die Sterilisation dem natürlichen Willen des Betreuten entspricht,
 
 
 2.  der Betreute auf Dauer einwilligungsunfähig bleiben wird,
@@ -33655,11 +34099,6 @@ nur einwilligen, wenn
 
 
 
-Als schwerwiegende Gefahr für den seelischen Gesundheitszustand der
-Schwangeren gilt auch die Gefahr eines schweren und nachhaltigen
-Leides, das ihr drohen würde, weil betreuungsgerichtliche Maßnahmen,
-die mit ihrer Trennung vom Kind verbunden wären (§§ 1666, 1666a),
-gegen sie ergriffen werden müssten.
 
 (2) Die Einwilligung bedarf der Genehmigung des Betreuungsgerichts.
 Die Sterilisation darf erst zwei Wochen nach Wirksamkeit der
@@ -33667,13 +34106,13 @@ Genehmigung durchgeführt werden. Bei der Sterilisation ist stets der
 Methode der Vorzug zu geben, die eine Refertilisierung zulässt.
 
 
-##### § 1906 Genehmigung des Betreuungsgerichts bei freiheitsentziehender Unterbringung und bei freiheitsentziehenden Maßnahmen
+###### § 1831 Freiheitsentziehende Unterbringung und freiheitsentziehende Maßnahmen
 
 (1) Eine Unterbringung des Betreuten durch den Betreuer, die mit
-Freiheitsentziehung verbunden ist, ist nur zulässig, solange sie zum
-Wohl des Betreuten erforderlich ist, weil
+Freiheitsentziehung verbunden ist, ist nur zulässig, solange sie
+erforderlich ist, weil
 
-1.  auf Grund einer psychischen Krankheit oder geistigen oder seelischen
+1.  aufgrund einer psychischen Krankheit oder geistigen oder seelischen
     Behinderung des Betreuten die Gefahr besteht, dass er sich selbst
     tötet oder erheblichen gesundheitlichen Schaden zufügt, oder
 
@@ -33682,7 +34121,7 @@ Wohl des Betreuten erforderlich ist, weil
     eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder
     ein ärztlicher Eingriff notwendig ist, die Maßnahme ohne die
     Unterbringung des Betreuten nicht durchgeführt werden kann und der
-    Betreute auf Grund einer psychischen Krankheit oder geistigen oder
+    Betreute aufgrund einer psychischen Krankheit oder geistigen oder
     seelischen Behinderung die Notwendigkeit der Unterbringung nicht
     erkennen oder nicht nach dieser Einsicht handeln kann.
 
@@ -33704,31 +34143,29 @@ aufhält, durch mechanische Vorrichtungen, Medikamente oder auf andere
 Weise über einen längeren Zeitraum oder regelmäßig die Freiheit
 entzogen werden soll.
 
-(5) Die Unterbringung durch einen Bevollmächtigten und die
-Einwilligung eines Bevollmächtigten in Maßnahmen nach Absatz 4 setzen
-voraus, dass die Vollmacht schriftlich erteilt ist und die in den
-Absätzen 1 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen
-gelten die Absätze 1 bis 4 entsprechend.
+(5) Die Absätze 1 bis 4 gelten nach Maßgabe des § 1820 Absatz 2 Nummer
+2 für einen Bevollmächtigten entsprechend.
 
 
-##### § 1906a Genehmigung des Betreuungsgerichts bei ärztlichen Zwangsmaßnahmen
+###### § 1832 Ärztliche Zwangsmaßnahmen
 
 (1) Widerspricht eine Untersuchung des Gesundheitszustands, eine
 Heilbehandlung oder ein ärztlicher Eingriff dem natürlichen Willen des
 Betreuten (ärztliche Zwangsmaßnahme), so kann der Betreuer in die
 ärztliche Zwangsmaßnahme nur einwilligen, wenn
 
-1.  die ärztliche Zwangsmaßnahme zum Wohl des Betreuten notwendig ist, um
-    einen drohenden erheblichen gesundheitlichen Schaden abzuwenden,
+1.  die ärztliche Zwangsmaßnahme notwendig ist, um einen drohenden
+    erheblichen gesundheitlichen Schaden vom Betreuten abzuwenden,
 
 
-2.  der Betreute auf Grund einer psychischen Krankheit oder einer
-    geistigen oder seelischen Behinderung die Notwendigkeit der ärztlichen
-    Maßnahme nicht erkennen oder nicht nach dieser Einsicht handeln kann,
+2.  der Betreute aufgrund einer psychischen Krankheit oder einer geistigen
+    oder seelischen Behinderung die Notwendigkeit der ärztlichen Maßnahme
+    nicht erkennen oder nicht nach dieser Einsicht handeln kann,
 
 
-3.  die ärztliche Zwangsmaßnahme dem nach § 1901a zu beachtenden Willen
-    des Betreuten entspricht,
+3.  die ärztliche Zwangsmaßnahme dem nach
+    § 1827                    zu beachtenden Willen des Betreuten
+    entspricht,
 
 
 4.  zuvor ernsthaft, mit dem nötigen Zeitaufwand und ohne Ausübung
@@ -33751,7 +34188,7 @@ Betreuten (ärztliche Zwangsmaßnahme), so kann der Betreuer in die
 
 
 
-§ 1846 ist nur anwendbar, wenn der Betreuer an der Erfüllung seiner
+§ 1867 ist nur anwendbar, wenn der Betreuer an der Erfüllung seiner
 Pflichten verhindert ist.
 
 (2) Die Einwilligung in die ärztliche Zwangsmaßnahme bedarf der
@@ -33763,102 +34200,1024 @@ Widerruf dem Betreuungsgericht unverzüglich anzuzeigen.
 
 (4) Kommt eine ärztliche Zwangsmaßnahme in Betracht, so gilt für die
 Verbringung des Betreuten gegen seinen natürlichen Willen zu einem
-stationären Aufenthalt in ein Krankenhaus § 1906 Absatz 1 Nummer 2,
+stationären Aufenthalt in ein Krankenhaus § 1831 Absatz 1 Nummer 2,
 Absatz 2 und 3 Satz 1 entsprechend.
 
-(5) Die Einwilligung eines Bevollmächtigten in eine ärztliche
-Zwangsmaßnahme und die Einwilligung in eine Maßnahme nach Absatz 4
-setzen voraus, dass die Vollmacht schriftlich erteilt ist und die
-Einwilligung in diese Maßnahmen ausdrücklich umfasst. Im Übrigen
-gelten die Absätze 1 bis 3 entsprechend.
+(5) Die Absätze 1 bis 4 gelten nach Maßgabe des § 1820 Absatz 2 Nummer
+3 für einen Bevollmächtigten entsprechend.
 
 
-##### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
+###### § 1833 Aufgabe von Wohnraum des Betreuten
 
-(1) Zur Kündigung eines Mietverhältnisses über Wohnraum, den der
-Betreute gemietet hat, bedarf der Betreuer der Genehmigung des
-Betreuungsgerichts. Gleiches gilt für eine Willenserklärung, die auf
-die Aufhebung eines solchen Mietverhältnisses gerichtet ist.
+(1) Eine Aufgabe von Wohnraum, der vom Betreuten selbst genutzt wird,
+durch den Betreuer ist nur nach Maßgabe des § 1821 Absatz 2 bis 4
+zulässig. Eine Gefährdung im Sinne des § 1821 Absatz 3 Nummer 1 liegt
+insbesondere dann vor, wenn eine Finanzierung des Wohnraums trotz
+Ausschöpfung aller dem Betreuten zur Verfügung stehenden Ressourcen
+nicht möglich ist oder eine häusliche Versorgung trotz umfassender
+Zuhilfenahme aller ambulanten Dienste zu einer erheblichen
+gesundheitlichen Gefährdung des Betreuten führen würde.
 
-(2) Treten andere Umstände ein, auf Grund derer die Beendigung des
-Mietverhältnisses in Betracht kommt, so hat der Betreuer dies dem
-Betreuungsgericht unverzüglich mitzuteilen, wenn sein Aufgabenkreis
-das Mietverhältnis oder die Aufenthaltsbestimmung umfasst. Will der
-Betreuer Wohnraum des Betreuten auf andere Weise als durch Kündigung
-oder Aufhebung eines Mietverhältnisses aufgeben, so hat er dies
-gleichfalls unverzüglich mitzuteilen.
+(2) Beabsichtigt der Betreuer, vom Betreuten selbst genutzten Wohnraum
+aufzugeben, so hat er dies unter Angabe der Gründe und der Sichtweise
+des Betreuten dem Betreuungsgericht unverzüglich anzuzeigen. Ist mit
+einer Aufgabe des Wohnraums aus anderen Gründen zu rechnen, so hat der
+Betreuer auch dies sowie die von ihm beabsichtigten Maßnahmen dem
+Betreuungsgericht unverzüglich anzuzeigen, wenn sein Aufgabenkreis die
+entsprechende Angelegenheit umfasst.
 
-(3) Zu einem Miet- oder Pachtvertrag oder zu einem anderen Vertrag,
-durch den der Betreute zu wiederkehrenden Leistungen verpflichtet
-wird, bedarf der Betreuer der Genehmigung des Betreuungsgerichts, wenn
-das Vertragsverhältnis länger als vier Jahre dauern oder vom Betreuer
-Wohnraum vermietet werden soll.
+(3) Der Betreuer bedarf bei vom Betreuten selbst genutzten Wohnraum
+der Genehmigung des Betreuungsgerichts
 
-
-##### § 1908 Genehmigung des Betreuungsgerichts bei der Ausstattung
-
-Der Betreuer kann eine Ausstattung aus dem Vermögen des Betreuten nur
-mit Genehmigung des Betreuungsgerichts versprechen oder gewähren.
+1.  zur Kündigung des Mietverhältnisses,
 
 
-##### § 1908a Vorsorgliche Betreuerbestellung und Anordnung des Einwilligungsvorbehalts für Minderjährige
-
-Maßnahmen nach den §§ 1896, 1903 können auch für einen Minderjährigen,
-der das 17. Lebensjahr vollendet hat, getroffen werden, wenn
-anzunehmen ist, dass sie bei Eintritt der Volljährigkeit erforderlich
-werden. Die Maßnahmen werden erst mit dem Eintritt der Volljährigkeit
-wirksam.
+2.  zu einer Willenserklärung, die auf die Aufhebung des Mietverhältnisses
+    gerichtet ist,
 
 
-##### § 1908b Entlassung des Betreuers
+3.  zur Vermietung solchen Wohnraums und
 
-(1) Das Betreuungsgericht hat den Betreuer zu entlassen, wenn seine
-Eignung, die Angelegenheiten des Betreuten zu besorgen, nicht mehr
-gewährleistet ist oder ein anderer wichtiger Grund für die Entlassung
-vorliegt. Ein wichtiger Grund liegt auch vor, wenn der Betreuer eine
-erforderliche Abrechnung vorsätzlich falsch erteilt oder den
-erforderlichen persönlichen Kontakt zum Betreuten nicht gehalten hat.
-Das Gericht soll den nach § 1897 Abs. 6 bestellten Betreuer entlassen,
-wenn der Betreute durch eine oder mehrere andere Personen außerhalb
-einer Berufsausübung betreut werden kann.
 
-(2) Der Betreuer kann seine Entlassung verlangen, wenn nach seiner
-Bestellung Umstände eintreten, auf Grund derer ihm die Betreuung nicht
-mehr zugemutet werden kann.
+4.  zur Verfügung über ein Grundstück oder über ein Recht an einem
+    Grundstück, sofern dies mit der Aufgabe des Wohnraums verbunden ist.
 
-(3) Das Gericht kann den Betreuer entlassen, wenn der Betreute eine
-gleich geeignete Person, die zur Übernahme bereit ist, als neuen
-Betreuer vorschlägt.
 
-(4) Der Vereinsbetreuer ist auch zu entlassen, wenn der Verein dies
-beantragt. Ist die Entlassung nicht zum Wohl des Betreuten
-erforderlich, so kann das Betreuungsgericht statt dessen mit
-Einverständnis des Betreuers aussprechen, dass dieser die Betreuung
-künftig als Privatperson weiterführt. Die Sätze 1 und 2 gelten für den
-Behördenbetreuer entsprechend.
 
-(5) Der Verein oder die Behörde ist zu entlassen, sobald der Betreute
-durch eine oder mehrere natürliche Personen hinreichend betreut werden
+Die §§ 1855 bis 1858 gelten entsprechend.
+
+
+###### § 1834 Bestimmung des Umgangs und des Aufenthalts des Betreuten
+
+(1) Den Umgang des Betreuten mit anderen Personen darf der Betreuer
+mit Wirkung für und gegen Dritte nur bestimmen, wenn der Betreute dies
+wünscht oder ihm eine konkrete Gefährdung im Sinne des § 1821 Absatz 3
+Nummer 1 droht.
+
+(2) Die Bestimmung des Aufenthalts umfasst das Recht, den Aufenthalt
+des Betreuten auch mit Wirkung für und gegen Dritte zu bestimmen und,
+falls erforderlich, die Herausgabe des Betreuten zu verlangen.
+
+(3) Über Streitigkeiten, die eine Angelegenheit nach Absatz 1 oder 2
+betreffen, entscheidet das Betreuungsgericht auf Antrag.
+
+
+###### Kapitel 3 - Vermögensangelegenheiten
+
+
+
+###### Unterkapitel 1 - Allgemeine Vorschriften
+
+
+
+###### § 1835 Vermögensverzeichnis
+
+(1) Soweit die Verwaltung des Vermögens des Betreuten zum
+Aufgabenkreis des Betreuers gehört, hat er zum Zeitpunkt seiner
+Bestellung ein Verzeichnis über das Vermögen des Betreuten zu
+erstellen und dieses dem Betreuungsgericht mit der Versicherung der
+Richtigkeit und Vollständigkeit einzureichen. Das Vermögensverzeichnis
+soll auch Angaben zu den regelmäßigen Einnahmen und Ausgaben des
+Betreuten enthalten. Der Betreuer hat das Vermögensverzeichnis um
+dasjenige Vermögen zu ergänzen, das der Betreute später hinzuerwirbt.
+Mehrere Betreuer haben das Vermögensverzeichnis gemeinsam zu
+erstellen, soweit sie das Vermögen gemeinsam verwalten.
+
+(2) Der Betreuer hat seine Angaben im Vermögensverzeichnis in
+geeigneter Weise zu belegen.
+
+(3) Soweit es für die ordnungsgemäße Erstellung des
+Vermögensverzeichnisses erforderlich und mit Rücksicht auf das
+Vermögen des Betreuten angemessen ist, kann der Betreuer die
+zuständige Betreuungsbehörde, einen zuständigen Beamten, einen Notar
+oder einen Sachverständigen zur Erstellung des Verzeichnisses
+hinzuziehen.
+
+(4) Bestehen nach den Umständen des Einzelfalls konkrete Anhaltspunkte
+dafür, dass die Kontrolle der Richtigkeit und Vollständigkeit des
+Vermögensverzeichnisses durch eine dritte Person zum Schutz des
+Vermögens des Betreuten oder zur Vermeidung von Rechtsstreitigkeiten
+erforderlich ist, kann das Betreuungsgericht eine dritte Person als
+Zeuge bei der Erstellung des Vermögensverzeichnisses, insbesondere bei
+einer Inaugenscheinnahme von Vermögensgegenständen, hinzuziehen. Für
+die Erstattung der Aufwendungen der dritten Person sind die
+Vorschriften über die Entschädigung von Zeugen nach dem
+Justizvergütungs- und -entschädigungsgesetz anzuwenden. Der Betreuer
+hat der dritten Person die Wahrnehmung ihrer Aufgaben zu ermöglichen.
+Die dritte Person hat dem Betreuungsgericht über die Erstellung des
+Vermögensverzeichnisses und insbesondere das Ergebnis der
+Inaugenscheinnahme zu berichten.
+
+(5) Ist das eingereichte Vermögensverzeichnis ungenügend, so kann das
+Betreuungsgericht anordnen, dass das Vermögensverzeichnis durch die
+zuständige Betreuungsbehörde oder einen Notar aufgenommen wird.
+
+(6) Das Betreuungsgericht hat das Vermögensverzeichnis dem Betreuten
+zur Kenntnis zu geben, es sei denn, dadurch sind erhebliche Nachteile
+für dessen Gesundheit zu besorgen oder er ist offensichtlich nicht in
+der Lage, das Vermögensverzeichnis zur Kenntnis zu nehmen.
+
+
+###### § 1836 Trennungsgebot; Verwendung des Vermögens für den Betreuer
+
+(1) Der Betreuer hat das Vermögen des Betreuten getrennt von seinem
+eigenen Vermögen zu halten. Dies gilt nicht für das bei Bestellung des
+Betreuers bestehende und das während der Betreuung hinzukommende
+gemeinschaftliche Vermögen des Betreuers und des Betreuten, wenn das
+Betreuungsgericht nichts anderes anordnet.
+
+(2) Der Betreuer darf das Vermögen des Betreuten nicht für sich
+verwenden. Dies gilt nicht, wenn die Betreuung ehrenamtlich geführt
+wird und zwischen dem Betreuten und dem Betreuer eine Vereinbarung
+über die Verwendung getroffen wurde. Verwendungen nach Satz 2 sind
+unter Darlegung der Vereinbarung dem Betreuungsgericht anzuzeigen.
+
+(3) Absatz 2 Satz 1 gilt nicht für Haushaltsgegenstände und das
+Verfügungsgeld im Sinne des § 1839, wenn der Betreuer mit dem
+Betreuten einen gemeinsamen Haushalt führt oder geführt hat und die
+Verwendung dem Wunsch oder mutmaßlichen Willen des Betreuten
+entspricht.
+
+
+###### § 1837 Vermögensverwaltung durch den Betreuer bei Erbschaft und Schenkung
+
+(1) Der Betreuer hat das Vermögen des Betreuten, das dieser von Todes
+wegen erwirbt, das ihm unentgeltlich durch Zuwendung auf den Todesfall
+oder unter Lebenden von einem Dritten zugewendet wird, nach den
+Anordnungen des Erblassers oder des Zuwendenden, soweit diese sich an
+den Betreuer richten, zu verwalten, wenn die Anordnungen von dem
+Erblasser durch letztwillige Verfügung oder von dem Dritten bei der
+Zuwendung getroffen worden sind.
+
+(2) Das Betreuungsgericht kann die Anordnungen des Erblassers oder des
+Zuwendenden aufheben, wenn ihre Befolgung das Vermögen des Betreuten
+erheblich gefährden würde. Solange der Zuwendende lebt, ist zu einer
+Abweichung von den Anordnungen seine Zustimmung erforderlich und
+genügend. Ist er zur Abgabe einer Erklärung dauerhaft außerstande oder
+ist sein Aufenthalt dauerhaft unbekannt, so kann das Betreuungsgericht
+unter Beachtung der Voraussetzungen von Satz 1 die Zustimmung
+ersetzen.
+
+
+###### Unterkapitel 2 - Verwaltung von Geld, Wertpapieren und Wertgegenständen
+
+
+
+###### § 1838 Pflichten des Betreuers in Vermögensangelegenheiten
+
+(1) Der Betreuer hat die Vermögensangelegenheiten des Betreuten nach
+Maßgabe des § 1821 wahrzunehmen. Es wird vermutet, dass eine
+Wahrnehmung der Vermögensangelegenheiten nach den §§ 1839 bis 1843 dem
+mutmaßlichen Willen des Betreuten nach § 1821 Absatz 4 entspricht,
+wenn keine hinreichenden konkreten Anhaltspunkte für einen hiervon
+abweichenden mutmaßlichen Willen bestehen.
+
+(2) Soweit die nach Absatz 1 Satz 1 gebotene Wahrnehmung der
+Vermögensangelegenheiten von den in den §§ 1839 bis 1843 festgelegten
+Grundsätzen abweicht, hat der Betreuer dies dem Betreuungsgericht
+unverzüglich unter Darlegung der Wünsche des Betreuten anzuzeigen. Das
+Betreuungsgericht kann die Anwendung der §§ 1839 bis 1843 oder
+einzelner Vorschriften ausdrücklich anordnen, wenn andernfalls eine
+Gefährdung im Sinne des § 1821 Absatz 3 Nummer 1 zu besorgen wäre.
+
+
+###### § 1839 Bereithaltung von Verfügungsgeld
+
+(1) Geld des Betreuten, das der Betreuer für dessen Ausgaben benötigt
+(Verfügungsgeld), hat er auf einem Girokonto des Betreuten bei einem
+Kreditinstitut bereitzuhalten. Ausgenommen ist Bargeld im Sinne von §
+1840 Absatz 2.
+
+(2) Absatz 1 steht einer Bereithaltung von Verfügungsgeld auf einem
+gesonderten zur verzinslichen Anlage geeigneten Konto des Betreuten im
+Sinne von § 1841 Absatz 2 nicht entgegen.
+
+
+###### § 1840 Bargeldloser Zahlungsverkehr
+
+(1) Der Betreuer hat den Zahlungsverkehr für den Betreuten bargeldlos
+unter Verwendung des gemäß § 1839 Absatz 1 Satz 1 zu unterhaltenden
+Girokontos durchzuführen.
+
+(2) Von Absatz 1 sind ausgenommen
+
+1.  im Geschäftsverkehr übliche Barzahlungen und
+
+
+2.  Auszahlungen an den Betreuten.
+
+
+
+
+
+###### § 1841 Anlagepflicht
+
+(1) Geld des Betreuten, das nicht für Ausgaben nach § 1839 benötigt
+wird, hat der Betreuer anzulegen (Anlagegeld).
+
+(2) Der Betreuer soll das Anlagegeld auf einem zur verzinslichen
+Anlage geeigneten Konto des Betreuten bei einem Kreditinstitut
+(Anlagekonto) anlegen.
+
+
+###### § 1842 Voraussetzungen für das Kreditinstitut
+
+Das Kreditinstitut muss bei Anlagen nach den §§ 1839 und 1841 Absatz 2
+einer für die jeweilige Anlage ausreichenden Sicherungseinrichtung
+angehören.
+
+
+###### § 1843 Depotverwahrung und Hinterlegung von Wertpapieren
+
+(1) Der Betreuer hat Wertpapiere des Betreuten im Sinne des § 1 Absatz
+1 und 2 des Depotgesetzes bei einem Kreditinstitut in Einzel- oder
+Sammelverwahrung verwahren zu lassen.
+
+(2) Sonstige Wertpapiere des Betreuten hat der Betreuer in einem
+Schließfach eines Kreditinstituts zu hinterlegen.
+
+(3) Die Pflicht zur Depotverwahrung oder zur Hinterlegung besteht
+nicht, wenn diese nach den Umständen des Einzelfalls unter
+Berücksichtigung der Art der Wertpapiere zur Sicherung des Vermögens
+des Betreuten nicht geboten ist.
+
+
+###### § 1844 Hinterlegung von Wertgegenständen auf Anordnung des Betreuungsgerichts
+
+Das Betreuungsgericht kann anordnen, dass der Betreuer Wertgegenstände
+des Betreuten bei einer Hinterlegungsstelle oder einer anderen
+geeigneten Stelle hinterlegt, wenn dies zur Sicherung des Vermögens
+des Betreuten geboten ist.
+
+
+###### § 1845 Sperrvereinbarung
+
+(1) Für Geldanlagen des Betreuten im Sinne von § 1841 Absatz 2 hat der
+Betreuer mit dem Kreditinstitut zu vereinbaren, dass er über die
+Anlage nur mit Genehmigung des Betreuungsgerichts verfügen kann.
+Anlagen von Verfügungsgeld gemäß § 1839 Absatz 2 bleiben unberührt.
+
+(2) Für Wertpapiere im Sinne von § 1843 Absatz 1 hat der Betreuer mit
+dem Verwahrer zu vereinbaren, dass er über die Wertpapiere und die
+Rechte aus dem Depotvertrag mit Ausnahme von Zinsen und Ausschüttungen
+nur mit Genehmigung des Betreuungsgerichts verfügen kann. Der Betreuer
+hat mit dem Kreditinstitut zu vereinbaren, dass er die Öffnung des
+Schließfachs für Wertpapiere im Sinne des § 1843 Absatz 2 und die
+Herausgabe von nach § 1844 hinterlegten Wertgegenständen nur mit
+Genehmigung des Betreuungsgerichts verlangen kann.
+
+(3) Die Absätze 1 und 2 sind entsprechend anzuwenden, wenn ein
+Anlagekonto, ein Depot oder eine Hinterlegung des Betreuten bei der
+Bestellung des Betreuers unversperrt ist. Der Betreuer hat dem
+Betreuungsgericht die Sperrvereinbarung anzuzeigen.
+
+
+###### Unterkapitel 3 - Anzeigepflichten
+
+
+
+###### § 1846 Anzeigepflichten bei der Geld- und Vermögensverwaltung
+
+(1) Der Betreuer hat dem Betreuungsgericht unverzüglich anzuzeigen,
+wenn er
+
+1.  ein Girokonto für den Betreuten eröffnet,
+
+
+2.  ein Anlagekonto für den Betreuten eröffnet,
+
+
+3.  ein Depot eröffnet oder Wertpapiere des Betreuten hinterlegt,
+
+
+4.  Wertpapiere des Betreuten gemäß § 1843 Absatz 3 nicht in einem Depot
+    verwahrt oder hinterlegt.
+
+
+
+
+(2) Die Anzeige hat insbesondere Angaben zu enthalten
+
+1.  zur Höhe des Guthabens auf dem Girokonto nach Absatz 1 Nummer 1,
+
+
+2.  zu Höhe und Verzinsung der Anlage gemäß Absatz 1 Nummer 2 sowie ihrer
+    Bestimmung als Anlage- oder Verfügungsgeld,
+
+
+3.  zu Art, Umfang und Wert der depotverwahrten oder hinterlegten
+    Wertpapiere gemäß Absatz 1 Nummer 3 sowie zu den sich aus ihnen
+    ergebenden Aufwendungen und Nutzungen,
+
+
+4.  zu den Gründen, aus denen der Betreuer die Depotverwahrung oder
+    Hinterlegung gemäß Absatz 1 Nummer 4 für nicht geboten erachtet, und
+    wie die Wertpapiere verwahrt werden sollen,
+
+
+5.  zur Sperrvereinbarung.
+
+
+
+
+
+###### § 1847 Anzeigepflicht für Erwerbsgeschäfte
+
+Der Betreuer hat Beginn, Art und Umfang eines neuen Erwerbsgeschäfts
+im Namen des Betreuten und die Aufgabe eines bestehenden
+Erwerbsgeschäfts des Betreuten beim Betreuungsgericht anzuzeigen.
+
+
+###### Unterkapitel 4 - Genehmigungsbedürftige Rechtsgeschäfte
+
+
+
+###### § 1848 Genehmigung einer anderen Anlegung von Geld
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts, wenn er
+Anlagegeld anders als auf einem Anlagekonto gemäß § 1841 Absatz 2
+anlegt.
+
+
+###### § 1849 Genehmigung bei Verfügung über Rechte und Wertpapiere
+
+(1) Der Betreuer bedarf der Genehmigung des Betreuungsgerichts zu
+einer Verfügung über
+
+1.  ein Recht, kraft dessen der Betreute eine Geldleistung oder die
+    Leistung eines Wertpapiers verlangen kann,
+
+
+2.  ein Wertpapier des Betreuten,
+
+
+3.  einen hinterlegten Wertgegenstand des Betreuten.
+
+
+
+Das gleiche gilt für die Eingehung der Verpflichtung zu einer solchen
+Verfügung.
+
+(2) Einer Genehmigung bedarf es nicht,
+
+1.  im Fall einer Geldleistung nach Absatz 1 Satz 1 Nummer 1, wenn der aus
+    dem Recht folgende Zahlungsanspruch
+
+    a)  nicht mehr als 3 000 Euro beträgt,
+
+
+    b)  das Guthaben auf einem Girokonto des Betreuten betrifft,
+
+
+    c)  das Guthaben auf einem vom Betreuer für Verfügungsgeld ohne
+        Sperrvereinbarung eröffneten Anlagekonto betrifft,
+
+
+    d)  zu den Nutzungen des Vermögens des Betreuten gehört oder
+
+
+    e)  auf Nebenleistungen gerichtet ist,
+
+
+
+
+
+2.  im Fall von Absatz 1 Satz 1 Nummer 2, wenn die Verfügung über das
+    Wertpapier
+
+    a)  eine Nutzung des Vermögens des Betreuten darstellt,
+
+
+    b)  eine Umschreibung des Wertpapiers auf den Namen des Betreuten
+        darstellt,
+
+
+
+
+
+3.  im Fall einer Verfügung nach Absatz 1 Satz 1, wenn die Eingehung der
+    Verpflichtung zu einer solchen Verfügung bereits durch das
+    Betreuungsgericht genehmigt worden ist.
+
+
+
+Satz 1 Nummer 2 gilt entsprechend für die Eingehung einer
+Verpflichtung zu einer solchen Verfügung.
+
+(3) Absatz 2 Nummer 1 Buchstabe a ist nicht anzuwenden auf eine
+Verfügung über einen sich aus einer Geldanlage ergebenden
+Zahlungsanspruch, soweit er einer Sperrvereinbarung unterliegt, sowie
+über den sich aus der Einlösung eines Wertpapiers ergebenden
+Zahlungsanspruch. Absatz 2 Nummer 1 Buchstabe d ist nicht anzuwenden
+auf eine Verfügung über einen Zahlungsanspruch, der einer
+Sperrvereinbarung unterliegt und eine Kapitalnutzung betrifft.
+
+(4) Die vorstehenden Absätze gelten entsprechend für die Annahme der
+Leistung.
+
+
+###### § 1850 Genehmigung für Rechtsgeschäfte über Grundstücke und Schiffe
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
+
+1.  zur Verfügung über ein Grundstück oder über ein Recht an einem
+    Grundstück, sofern die Genehmigung nicht bereits nach § 1833 Absatz 3
+    Satz 1 Nummer 4 erforderlich ist,
+
+
+2.  zur Verfügung über eine Forderung, die auf Übertragung des Eigentums
+    an einem Grundstück, auf Begründung oder Übertragung eines Rechts an
+    einem Grundstück oder auf Befreiung eines Grundstücks von einem
+    solchen Recht gerichtet ist,
+
+
+3.  zur Verfügung über ein eingetragenes Schiff oder Schiffsbauwerk oder
+    über eine Forderung, die auf Übertragung des Eigentums an einem
+    eingetragenen Schiff oder Schiffsbauwerk gerichtet ist,
+
+
+4.  zu einem Rechtsgeschäft, durch das der Betreute unentgeltlich
+    Wohnungs- oder Teileigentum erwirbt,
+
+
+5.  zur Eingehung einer Verpflichtung zu einer der in den Nummern 1 bis 3
+    bezeichneten Verfügungen oder des in Nummer 4 bezeichneten Erwerbs
+    sowie
+
+
+6.  zu einem Rechtsgeschäft, durch das der Betreute zum entgeltlichen
+    Erwerb eines Grundstücks, eines eingetragenen Schiffes oder
+    Schiffsbauwerks oder eines Rechts an einem Grundstück verpflichtet
+    wird, sowie zur Verpflichtung zum entgeltlichen Erwerb einer Forderung
+    auf Übertragung des Eigentums an einem Grundstück, an einem
+    eingetragenen Schiff oder Schiffsbauwerk oder auf Übertragung eines
+    Rechts an einem Grundstück.
+
+
+
+
+
+###### § 1851 Genehmigung für erbrechtliche Rechtsgeschäfte
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
+
+1.  zur Ausschlagung einer Erbschaft oder eines Vermächtnisses, zum
+    Verzicht auf die Geltendmachung eines Vermächtnisses oder
+    Pflichtteilsanspruchs sowie zu einem Auseinandersetzungsvertrag,
+
+
+2.  zu einem Rechtsgeschäft, durch das der Betreute zu einer Verfügung
+    über eine ihm angefallene Erbschaft, über seinen künftigen
+    gesetzlichen Erbteil oder seinen künftigen Pflichtteil verpflichtet
+    wird,
+
+
+3.  zu einer Verfügung über den Anteil des Betreuten an einer Erbschaft
+    oder zu einer Vereinbarung, mit der der Betreute aus der
+    Erbengemeinschaft ausscheidet,
+
+
+4.  zu einer Anfechtung eines Erbvertrags für den geschäftsunfähigen
+    Betreuten als Erblasser gemäß § 2282 Absatz 2,
+
+
+5.  zum Abschluss eines Vertrags mit dem Erblasser über die Aufhebung
+    eines Erbvertrags oder einer einzelnen vertragsmäßigen Verfügung gemäß
+    § 2290,
+
+
+6.  zu einer Zustimmung zur testamentarischen Aufhebung einer in einem
+    Erbvertrag mit dem Erblasser geregelten vertragsmäßigen Anordnung
+    eines Vermächtnisses, einer Auflage sowie einer Rechtswahl gemäß §
+    2291,
+
+
+7.  zur Aufhebung eines zwischen Ehegatten oder Lebenspartnern
+    geschlossenen Erbvertrags durch gemeinschaftliches Testament der
+    Ehegatten oder Lebenspartner gemäß § 2292,
+
+
+8.  zu einer Rücknahme eines mit dem Erblasser geschlossenen Erbvertrags,
+    der nur Verfügungen von Todes wegen enthält, aus der amtlichen oder
+    notariellen Verwahrung gemäß § 2300 Absatz 2,
+
+
+9.  zum Abschluss oder zur Aufhebung eines Erb- oder
+    Pflichtteilsverzichtsvertrags gemäß den §§ 2346, 2351 sowie zum
+    Abschluss eines Zuwendungsverzichtsvertrags gemäß § 2352.
+
+
+
+
+
+###### § 1852 Genehmigung für handels- und gesellschaftsrechtliche Rechtsgeschäfte
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
+
+1.  zu einer Verfügung und zur Eingehung der Verpflichtung zu einer
+    solchen Verfügung, durch die der Betreute
+
+    a)  ein Erwerbsgeschäft oder
+
+
+    b)  einen Anteil an einer Personen- oder Kapitalgesellschaft, die ein
+        Erwerbsgeschäft betreibt,
+
+
+
+
+    erwirbt oder veräußert,
+
+
+2.  zu einem Gesellschaftsvertrag, der zum Betrieb eines Erwerbsgeschäfts
+    eingegangen wird, und
+
+
+3.  zur Erteilung einer Prokura.
+
+
+
+
+
+###### § 1853 Genehmigung bei Verträgen über wiederkehrende Leistungen
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
+
+1.  zum Abschluss eines Miet- oder Pachtvertrags oder zu einem anderen
+    Vertrag, durch den der Betreute zu wiederkehrenden Leistungen
+    verpflichtet wird, wenn das Vertragsverhältnis länger als vier Jahre
+    dauern soll, und
+
+
+2.  zu einem Pachtvertrag über einen gewerblichen oder land- oder
+    forstwirtschaftlichen Betrieb.
+
+
+
+Satz 1 Nummer 1 gilt nicht, wenn der Betreute das Vertragsverhältnis
+ohne eigene Nachteile vorzeitig kündigen kann.
+
+
+###### § 1854 Genehmigung für sonstige Rechtsgeschäfte
+
+Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
+
+1.  zu einem Rechtsgeschäft, durch das der Betreute zu einer Verfügung
+    über sein Vermögen im Ganzen verpflichtet wird,
+
+
+2.  zur Aufnahme von Geld auf den Kredit des Betreuten mit Ausnahme einer
+    eingeräumten Überziehungsmöglichkeit für das auf einem Girokonto des
+    Betreuten bei einem Kreditinstitut bereitzuhaltende Verfügungsgeld (§
+    1839 Absatz 1),
+
+
+3.  zur Ausstellung einer Schuldverschreibung auf den Inhaber oder zur
+    Eingehung einer Verbindlichkeit aus einem Wechsel oder einem anderen
+    Papier, das durch Indossament übertragen werden kann,
+
+
+4.  zu einem Rechtsgeschäft, das auf Übernahme einer fremden
+    Verbindlichkeit gerichtet ist,
+
+
+5.  zur Eingehung einer Bürgschaft,
+
+
+6.  zu einem Vergleich oder einer auf ein Schiedsverfahren gerichteten
+    Vereinbarung, es sei denn, dass der Gegenstand des Streites oder der
+    Ungewissheit in Geld schätzbar ist und den Wert von 6 000 Euro nicht
+    übersteigt oder der Vergleich einem schriftlichen oder protokollierten
+    gerichtlichen Vergleichsvorschlag entspricht,
+
+
+7.  zu einem Rechtsgeschäft, durch das die für eine Forderung des
+    Betreuten bestehende Sicherheit aufgehoben oder gemindert oder die
+    Verpflichtung dazu begründet wird, und
+
+
+8.  zu einer Schenkung oder unentgeltlichen Zuwendung, es sei denn, diese
+    ist nach den Lebensverhältnissen des Betreuten angemessen oder als
+    Gelegenheitsgeschenk üblich.
+
+
+
+
+
+###### Unterkapitel 5 - Genehmigungserklärung
+
+
+
+###### § 1855 Erklärung der Genehmigung
+
+Das Betreuungsgericht kann die Genehmigung zu einem Rechtsgeschäft nur
+dem Betreuer gegenüber erklären.
+
+
+###### § 1856 Nachträgliche Genehmigung
+
+(1) Schließt der Betreuer einen Vertrag ohne die erforderliche
+Genehmigung des Betreuungsgerichts, so hängt die Wirksamkeit des
+Vertrags von der nachträglichen Genehmigung des Betreuungsgerichts ab.
+Die Genehmigung sowie deren Verweigerung wird dem anderen Teil
+gegenüber erst wirksam, wenn ihm die wirksam gewordene Genehmigung
+oder Verweigerung durch den Betreuer mitgeteilt wird.
+
+(2) Fordert der andere Teil den Betreuer zur Mitteilung darüber auf,
+ob die Genehmigung erteilt sei, so kann die Mitteilung der Genehmigung
+nur bis zum Ablauf des zweiten Monats nach dem Empfang der
+Aufforderung erfolgen; wird die Genehmigung nicht mitgeteilt, so gilt
+sie als verweigert.
+
+(3) Soweit die Betreuung aufgehoben oder beendet ist, tritt die
+Genehmigung des Betreuten an die Stelle der Genehmigung des
+Betreuungsgerichts.
+
+
+###### § 1857 Widerrufsrecht des Vertragspartners
+
+Hat der Betreuer dem anderen Teil gegenüber wahrheitswidrig die
+Genehmigung des Betreuungsgerichts behauptet, so ist der andere Teil
+bis zur Mitteilung der nachträglichen Genehmigung des
+Betreuungsgerichts zum Widerruf berechtigt, es sei denn, dass ihm das
+Fehlen der Genehmigung bei dem Abschluss des Vertrags bekannt war.
+
+
+###### § 1858 Einseitiges Rechtsgeschäft
+
+(1) Ein einseitiges Rechtsgeschäft, das der Betreuer ohne die
+erforderliche Genehmigung des Betreuungsgerichts vornimmt, ist
+unwirksam.
+
+(2) Nimmt der Betreuer mit Genehmigung des Betreuungsgerichts ein
+einseitiges Rechtsgeschäft einem anderen gegenüber vor, so ist das
+Rechtsgeschäft unwirksam, wenn der Betreuer die Genehmigung nicht
+vorlegt und der andere das Rechtsgeschäft aus diesem Grunde
+unverzüglich zurückweist.
+
+(3) Nimmt der Betreuer ein einseitiges Rechtsgeschäft gegenüber einem
+Gericht oder einer Behörde ohne die erforderliche Genehmigung des
+Betreuungsgerichts vor, so hängt die Wirksamkeit des Rechtsgeschäfts
+von der nachträglichen Genehmigung des Betreuungsgerichts ab. Das
+Rechtsgeschäft wird mit Rechtskraft der Genehmigung wirksam. Der
+Ablauf einer gesetzlichen Frist wird während der Dauer des
+Genehmigungsverfahrens gehemmt. Die Hemmung endet mit Rechtskraft des
+Beschlusses über die Erteilung der Genehmigung. Das Betreuungsgericht
+teilt dem Gericht oder der Behörde nach Rechtskraft des Beschlusses
+die Erteilung oder Versagung der Genehmigung mit.
+
+
+###### Unterkapitel 6 - Befreiungen
+
+
+
+###### § 1859 Gesetzliche Befreiungen
+
+(1) Befreite Betreuer sind entbunden
+
+1.  von der Pflicht zur Sperrvereinbarung nach § 1845,
+
+
+2.  von den Beschränkungen nach § 1849 Absatz 1 Satz 1 Nummer 1 und 2,
+    Satz 2 und
+
+
+3.  von der Pflicht zur Rechnungslegung nach § 1865.
+
+
+
+Sie haben dem Betreuungsgericht jährlich eine Übersicht über den
+Bestand des ihrer Verwaltung unterliegenden Vermögens des Betreuten
+(Vermögensübersicht) einzureichen. Das Betreuungsgericht kann
+anordnen, dass die Vermögensübersicht in längeren, höchstens
+fünfjährigen Zeiträumen einzureichen ist.
+
+(2) Befreite Betreuer sind
+
+1.  Verwandte in gerader Linie,
+
+
+2.  Geschwister,
+
+
+3.  Ehegatten,
+
+
+4.  der Betreuungsverein oder ein Vereinsbetreuer,
+
+
+5.  die Betreuungsbehörde oder ein Behördenbetreuer.
+
+
+
+Das Betreuungsgericht kann andere als die in Satz 1 genannten Betreuer
+von den in Absatz 1 Satz 1 genannten Pflichten befreien, wenn der
+Betreute dies vor der Bestellung des Betreuers schriftlich verfügt
+hat. Dies gilt nicht, wenn der Betreute erkennbar an diesem Wunsch
+nicht festhalten will.
+
+(3) Das Betreuungsgericht hat die Befreiungen aufzuheben, wenn bei
+ihrer Fortgeltung eine Gefährdung im Sinne des § 1821 Absatz 3 Nummer
+1 zu besorgen wäre.
+
+
+###### § 1860 Befreiungen auf Anordnung des Gerichts
+
+(1) Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den
+Beschränkungen nach den §§ 1841, 1845, 1848 und 1849 Absatz 1 Satz 1
+Nummer 1 und 2 sowie Satz 2 ganz oder teilweise befreien, wenn der
+Wert des Vermögens des Betreuten ohne Berücksichtigung von Immobilien
+und Verbindlichkeiten 6 000 Euro nicht übersteigt.
+
+(2) Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den
+Beschränkungen nach den §§ 1848, 1849 Absatz 1 Satz 1 Nummer 1 und 2
+sowie Satz 2 und nach § 1854 Nummer 2 bis 5 befreien, soweit mit der
+Vermögensverwaltung der Betrieb eines Erwerbsgeschäfts verbunden ist
+oder besondere Gründe der Vermögensverwaltung dies erfordern.
+
+(3) Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den
+Beschränkungen nach § 1845 Absatz 2, den §§ 1848 und 1849 Absatz 1
+Satz 1 Nummer 1 und 2 sowie Satz 2 befreien, wenn ein Wertpapierdepot
+des Betreuten häufige Wertpapiergeschäfte erfordert und der Betreuer
+über hinreichende Kapitalmarktkenntnis und Erfahrung verfügt.
+
+(4) Eine Befreiung gemäß den Absätzen 1 bis 3 kann das
+Betreuungsgericht nur anordnen, wenn eine Gefährdung im Sinne des
+§ 1821 Absatz 3 Nummer 1 nicht zu besorgen ist.
+
+(5) Das Betreuungsgericht hat eine Befreiung aufzuheben, wenn ihre
+Voraussetzungen nicht mehr vorliegen.
+
+
+##### Untertitel 3 - Beratung und Aufsicht durch das Betreuungsgericht
+
+
+
+###### § 1861 Beratung; Verpflichtung des Betreuers
+
+(1) Das Betreuungsgericht berät den Betreuer über dessen Rechte und
+Pflichten bei der Wahrnehmung seiner Aufgaben.
+
+(2) Der ehrenamtliche Betreuer wird alsbald nach seiner Bestellung
+mündlich verpflichtet, über seine Aufgaben unterrichtet und auf
+Beratungs- und Unterstützungsangebote hingewiesen. Das gilt nicht für
+solche ehrenamtlichen Betreuer, die mehr als eine Betreuung führen
+oder in den letzten zwei Jahren geführt haben.
+
+
+###### § 1862 Aufsicht durch das Betreuungsgericht
+
+(1) Das Betreuungsgericht führt über die gesamte Tätigkeit des
+Betreuers die Aufsicht. Es hat dabei auf die Einhaltung der Pflichten
+des Betreuers zu achten und insbesondere bei Anordnungen nach Absatz
+3, der Erteilung von Genehmigungen und einstweiligen Maßnahmen nach
+§ 1867 den in § 1821 Absatz 2 bis 4 festgelegten Maßstab zu beachten.
+
+(2) Das Betreuungsgericht hat den Betreuten persönlich anzuhören, wenn
+Anhaltspunkte dafür bestehen, dass der Betreuer pflichtwidrig den
+Wünschen des Betreuten nicht oder nicht in geeigneter Weise entspricht
+oder seinen Pflichten gegenüber dem Betreuten in anderer Weise nicht
+nachkommt, es sei denn, die persönliche Anhörung ist nicht geeignet
+oder nicht erforderlich, um die Pflichtwidrigkeit aufzuklären.
+
+(3) Das Betreuungsgericht hat gegen Pflichtwidrigkeiten des Betreuers
+durch geeignete Gebote und Verbote einzuschreiten. Zur Befolgung
+seiner Anordnungen kann es den Betreuer durch die Festsetzung von
+Zwangsgeld anhalten. Gegen die Betreuungsbehörde, einen
+Behördenbetreuer oder einen Betreuungsverein wird kein Zwangsgeld
+festgesetzt.
+
+(4) Durch Landesrecht kann bestimmt werden, dass Vorschriften, welche
+die Aufsicht des Betreuungsgerichts in vermögensrechtlicher Hinsicht
+sowie beim Abschluss von Ausbildungs-, Dienst- oder Arbeitsverträgen
+betreffen, gegenüber der Betreuungsbehörde außer Anwendung bleiben.
+
+
+###### § 1863 Berichte über die persönlichen Verhältnisse des Betreuten
+
+(1) Mit Übernahme der Betreuung hat der Betreuer einen Bericht über
+die persönlichen Verhältnisse (Anfangsbericht) zu erstellen. Der
+Anfangsbericht hat insbesondere Angaben zu folgenden Sachverhalten zu
+enthalten:
+
+1.  persönliche Situation des Betreuten,
+
+
+2.  Ziele der Betreuung, bereits durchgeführte und beabsichtigte
+    Maßnahmen, insbesondere im Hinblick auf § 1821 Absatz 6, und
+
+
+3.  Wünsche des Betreuten hinsichtlich der Betreuung.
+
+
+
+Sofern ein Vermögensverzeichnis gemäß § 1835 zu erstellen ist, ist
+dieses dem Anfangsbericht beizufügen. Der Anfangsbericht soll dem
+Betreuungsgericht innerhalb von drei Monaten nach Bestellung des
+Betreuers übersandt werden. Das Betreuungsgericht kann den
+Anfangsbericht mit dem Betreuten und dem Betreuer in einem
+persönlichen Gespräch erörtern.
+
+(2) Absatz 1 gilt nicht, wenn die Betreuung ehrenamtlich von einer
+Person mit einer familiären Beziehung oder persönlichen Bindung zum
+Betreuten geführt wird. In diesem Fall führt das Betreuungsgericht mit
+dem Betreuten auf dessen Wunsch oder in anderen geeigneten Fällen ein
+Anfangsgespräch zur Ermittlung der Sachverhalte nach Absatz 1 Satz 2.
+Der ehrenamtliche Betreuer soll an dem Gespräch teilnehmen. Die
+Pflicht zur Erstellung eines Vermögensverzeichnisses gemäß § 1835
+bleibt unberührt.
+
+(3) Der Betreuer hat dem Betreuungsgericht über die persönlichen
+Verhältnisse des Betreuten mindestens einmal jährlich zu berichten
+(Jahresbericht). Er hat den Jahresbericht mit dem Betreuten zu
+besprechen, es sei denn, davon sind erhebliche Nachteile für die
+Gesundheit des Betreuten zu besorgen oder dieser ist offensichtlich
+nicht in der Lage, den Inhalt des Jahresberichts zur Kenntnis zu
+nehmen. Der Jahresbericht hat insbesondere Angaben zu folgenden
+Sachverhalten zu enthalten:
+
+1.  Art, Umfang und Anlass der persönlichen Kontakte zum Betreuten und der
+    persönliche Eindruck vom Betreuten,
+
+
+2.  Umsetzung der bisherigen Betreuungsziele und Darstellung der bereits
+    durchgeführten und beabsichtigten Maßnahmen, insbesondere solcher
+    gegen den Willen des Betreuten,
+
+
+3.  Gründe für die weitere Erforderlichkeit der Betreuung und des
+    Einwilligungsvorbehalts, insbesondere auch hinsichtlich des Umfangs,
+
+
+4.  bei einer beruflich geführten Betreuung die Mitteilung, ob die
+    Betreuung zukünftig ehrenamtlich geführt werden kann, und
+
+
+5.  die Sichtweise des Betreuten zu den Sachverhalten nach den Nummern 1
+    bis 4.
+
+
+
+
+(4) Nach Beendigung der Betreuung hat der Betreuer einen
+abschließenden Bericht (Schlussbericht) zu erstellen, in dem die seit
+dem letzten Jahresbericht eingetretenen Änderungen der persönlichen
+Verhältnisse mitzuteilen sind. Der Schlussbericht ist dem
+Betreuungsgericht zu übersenden. Er hat Angaben zur Herausgabe des der
+Verwaltung des Betreuers unterliegenden Vermögens des Betreuten und
+aller im Rahmen der Betreuung erlangten Unterlagen zu enthalten.
+
+
+###### § 1864 Auskunfts- und Mitteilungspflichten des Betreuers
+
+(1) Der Betreuer hat dem Betreuungsgericht auf dessen Verlangen
+jederzeit über die Führung der Betreuung und über die persönlichen und
+wirtschaftlichen Verhältnisse des Betreuten Auskunft zu erteilen.
+
+(2) Der Betreuer hat dem Betreuungsgericht wesentliche Änderungen der
+persönlichen und wirtschaftlichen Verhältnisse des Betreuten
+unverzüglich mitzuteilen. Dies gilt auch für solche Umstände,
+
+1.  die eine Aufhebung der Betreuung oder des Einwilligungsvorbehalts
+    ermöglichen,
+
+
+2.  die eine Einschränkung des Aufgabenkreises des Betreuers ermöglichen,
+
+
+3.  die die Erweiterung des Aufgabenkreises des Betreuers erfordern,
+
+
+4.  die die Bestellung eines weiteren Betreuers erfordern,
+
+
+5.  die die Anordnung eines Einwilligungsvorbehalts erfordern und
+
+
+6.  aus denen sich bei einer beruflich geführten Betreuung ergibt, dass
+    die Betreuung zukünftig ehrenamtlich geführt werden kann.
+
+
+
+
+
+###### § 1865 Rechnungslegung
+
+(1) Der Betreuer hat dem Betreuungsgericht über die
+Vermögensverwaltung Rechnung zu legen, soweit sein Aufgabenkreis die
+Vermögensverwaltung umfasst.
+
+(2) Die Rechnung ist jährlich zu legen. Das Rechnungsjahr wird vom
+Betreuungsgericht bestimmt.
+
+(3) Die Rechnung soll eine geordnete Zusammenstellung der Einnahmen
+und Ausgaben enthalten und über den Ab- und Zugang des vom Betreuer
+verwalteten Vermögens Auskunft geben. Das Betreuungsgericht kann
+Einzelheiten zur Erstellung der geordneten Zusammenstellung nach Satz
+1 bestimmen. Es kann in geeigneten Fällen auf die Vorlage von Belegen
+verzichten. Verwaltet der Betreute im Rahmen des dem Betreuer
+übertragenen Aufgabenkreises einen Teil seines Vermögens selbst, so
+hat der Betreuer dies dem Betreuungsgericht mitzuteilen. Der Betreuer
+hat die Richtigkeit dieser Mitteilung durch eine Erklärung des
+Betreuten nachzuweisen oder, falls eine solche nicht beigebracht
+werden kann, die Richtigkeit an Eides statt zu versichern.
+
+(4) Wird vom Betreuten ein Erwerbsgeschäft mit kaufmännischer
+Buchführung betrieben, so genügt als Rechnung ein aus den Büchern
+gezogener Jahresabschluss. Das Betreuungsgericht kann Vorlage der
+Bücher und sonstigen Belege verlangen.
+
+
+###### § 1866 Prüfung der Rechnung durch das Betreuungsgericht
+
+(1) Das Betreuungsgericht hat die Rechnung sachlich und rechnerisch zu
+prüfen und, soweit erforderlich, ihre Berichtigung und Ergänzung durch
+den Betreuer herbeizuführen.
+
+(2) Die Möglichkeit der Geltendmachung streitig gebliebener Ansprüche
+zwischen Betreuer und Betreutem im Rechtsweg bleibt unberührt. Die
+Ansprüche können schon vor der Beendigung der Betreuung geltend
+gemacht werden.
+
+
+###### § 1867 Einstweilige Maßnahmen des Betreuungsgerichts
+
+Bestehen dringende Gründe für die Annahme, dass die Voraussetzungen
+für die Bestellung eines Betreuers gegeben sind, und konnte ein
+Betreuer noch nicht bestellt werden oder ist der Betreuer an der
+Erfüllung seiner Pflichten gehindert, so hat das Betreuungsgericht die
+dringend erforderlichen Maßnahmen zu treffen.
+
+
+##### Untertitel 4 - Beendigung, Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+
+
+
+###### § 1868 Entlassung des Betreuers
+
+(1) Das Betreuungsgericht hat den Betreuer zu entlassen, wenn dessen
+Eignung, die Angelegenheiten des Betreuten zu besorgen, nicht oder
+nicht mehr gewährleistet ist oder ein anderer wichtiger Grund für die
+Entlassung vorliegt. Ein wichtiger Grund liegt auch vor, wenn der
+Betreuer eine erforderliche Abrechnung vorsätzlich falsch erteilt oder
+den erforderlichen persönlichen Kontakt zum Betreuten nicht gehalten
+hat.
+
+(2) Das Betreuungsgericht hat den beruflichen Betreuer zu entlassen,
+wenn dessen Registrierung nach § 27 Absatz 1 und 2 des
+Betreuungsorganisationsgesetzes widerrufen oder zurückgenommen wurde.
+
+(3) Das Betreuungsgericht soll den beruflichen Betreuer, den
+Betreuungsverein, den Behördenbetreuer oder die Betreuungsbehörde
+entlassen, wenn der Betreute zukünftig ehrenamtlich betreut werden
 kann.
 
+(4) Das Betreuungsgericht entlässt den Betreuer auf dessen Verlangen,
+wenn nach dessen Bestellung Umstände eingetreten sind, aufgrund derer
+ihm die Führung der Betreuung nicht mehr zugemutet werden kann.
 
-##### § 1908c Bestellung eines neuen Betreuers
+(5) Das Betreuungsgericht kann den Betreuer entlassen, wenn der
+Betreute eine mindestens gleich geeignete Person, die zur Übernahme
+der Betreuung bereit ist, als neuen Betreuer vorschlägt.
 
-Stirbt der Betreuer oder wird er entlassen, so ist ein neuer Betreuer
-zu bestellen.
+(6) Der Vereinsbetreuer ist auch dann zu entlassen, wenn der
+Betreuungsverein dies beantragt. Wünscht der Betreute die Fortführung
+der Betreuung durch den bisherigen Vereinsbetreuer, so kann das
+Betreuungsgericht statt der Entlassung des Vereinsbetreuers mit dessen
+Einverständnis feststellen, dass dieser die Betreuung künftig als
+Privatperson weiterführt. Die Sätze 1 und 2 gelten für den
+Behördenbetreuer entsprechend.
+
+(7) Der Betreuungsverein oder die Betreuungsbehörde ist als Betreuer
+zu entlassen, sobald der Betreute durch eine oder mehrere natürliche
+Personen hinreichend betreut werden kann. Dies gilt für den
+Betreuungsverein nicht, wenn der Wunsch des Betreuten dem
+entgegensteht.
 
 
-##### § 1908d Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+###### § 1869 Bestellung eines neuen Betreuers
+
+Mit der Entlassung des Betreuers oder nach dessen Tod ist ein neuer
+Betreuer zu bestellen.
+
+
+###### § 1870 Ende der Betreuung
+
+Die Betreuung endet mit der Aufhebung der Betreuung durch das
+Betreuungsgericht oder mit dem Tod des Betreuten.
+
+
+###### § 1871 Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
 
 (1) Die Betreuung ist aufzuheben, wenn ihre Voraussetzungen wegfallen.
-Fallen diese Voraussetzungen nur für einen Teil der Aufgaben des
+Fallen die Voraussetzungen nur für einen Teil der Aufgabenbereiche des
 Betreuers weg, so ist dessen Aufgabenkreis einzuschränken.
 
 (2) Ist der Betreuer auf Antrag des Betreuten bestellt, so ist die
-Betreuung auf dessen Antrag aufzuheben, es sei denn, dass eine
-Betreuung von Amts wegen erforderlich ist. Den Antrag kann auch ein
-Geschäftsunfähiger stellen. Die Sätze 1 und 2 gelten für die
-Einschränkung des Aufgabenkreises entsprechend.
+Betreuung auf dessen Antrag wieder aufzuheben, es sei denn, die
+Aufrechterhaltung der Betreuung ist auch unter Berücksichtigung von
+§ 1814 Absatz 2 erforderlich. Dies gilt für die Einschränkung des
+Aufgabenkreises des Betreuers entsprechend.
 
 (3) Der Aufgabenkreis des Betreuers ist zu erweitern, wenn dies
 erforderlich wird. Die Vorschriften über die Bestellung des Betreuers
@@ -33868,153 +35227,226 @@ gelten hierfür entsprechend.
 entsprechend.
 
 
-##### § 1908e
+###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung
 
-(weggefallen)
+(1) Endet die Betreuung, hat der Betreuer das seiner Verwaltung
+unterliegende Vermögen und alle im Rahmen der Betreuung erlangten
+Unterlagen an den Betreuten, dessen Erben oder sonstigen Berechtigten
+herauszugeben.
 
+(2) Eine Schlussrechnung über die Vermögensverwaltung hat der Betreuer
+nur zu erstellen, wenn der Berechtigte nach Absatz 1 dies verlangt.
+Auf dieses Recht ist der Berechtigte durch den Betreuer vor Herausgabe
+der Unterlagen hinzuweisen. Die Frist zur Geltendmachung des Anspruchs
+beträgt sechs Wochen nach Zugang des Hinweises. Der Berechtigte hat
+dem Betreuungsgericht sein Verlangen gegenüber dem Betreuer
+mitzuteilen.
 
-##### § 1908f Anerkennung als Betreuungsverein
+(3) Ist der Betreute sechs Monate nach Ende der Betreuung unbekannten
+Aufenthalts oder sind dessen Erben nach Ablauf dieser Frist unbekannt
+oder unbekannten Aufenthalts und ist auch kein sonstiger Berechtigter
+vorhanden, hat der Betreuer abweichend von Absatz 2 eine
+Schlussrechnung zu erstellen.
 
-(1) Ein rechtsfähiger Verein kann als Betreuungsverein anerkannt
-werden, wenn er gewährleistet, dass er
+(4) Bei einem Wechsel des Betreuers hat der bisherige Betreuer das
+seiner Verwaltung unterliegende Vermögen und alle im Rahmen der
+Betreuung erlangten Unterlagen an den neuen Betreuer herauszugeben.
+Über die Verwaltung seit der letzten beim Betreuungsgericht
+eingereichten Rechnungslegung hat er Rechenschaft durch eine
+Schlussrechnung abzulegen.
 
-1.  eine ausreichende Zahl geeigneter Mitarbeiter hat und diese
-    beaufsichtigen, weiterbilden und gegen Schäden, die diese anderen im
-    Rahmen ihrer Tätigkeit zufügen können, angemessen versichern wird,
-
-
-2.  sich planmäßig um die Gewinnung ehrenamtlicher Betreuer bemüht, diese
-    in ihre Aufgaben einführt, sie fortbildet und sie sowie
-    Bevollmächtigte bei der Wahrnehmung ihrer Aufgaben berät und
-    unterstützt,
-
-
-2a. planmäßig über Vorsorgevollmachten und Betreuungsverfügungen
-    informiert,
-
-
-3.  einen Erfahrungsaustausch zwischen den Mitarbeitern ermöglicht.
-
-
-
-
-(2) Die Anerkennung gilt für das jeweilige Land; sie kann auf einzelne
-Landesteile beschränkt werden. Sie ist widerruflich und kann unter
-Auflagen erteilt werden.
-
-(3) Das Nähere regelt das Landesrecht. Es kann auch weitere
-Voraussetzungen für die Anerkennung vorsehen.
-
-(4) Die anerkannten Betreuungsvereine können im Einzelfall Personen
-bei der Errichtung einer Vorsorgevollmacht beraten.
+(5) War der Betreuer bei Beendigung seines Amtes gemäß § 1859 befreit,
+genügt zur Erfüllung der Verpflichtungen aus den Absätzen 2 und 4 Satz
+2 die Erstellung einer Vermögensübersicht mit einer Übersicht über die
+Einnahmen und Ausgaben seit der letzten Vermögensübersicht. Die
+Richtigkeit und Vollständigkeit der Vermögensübersicht ist an Eides
+statt zu versichern.
 
 
-##### § 1908g Behördenbetreuer
+###### § 1873 Rechnungsprüfung
 
-(1) Gegen einen Behördenbetreuer wird kein Zwangsgeld nach § 1837 Abs.
-3 Satz 1 festgesetzt.
+(1) Der Betreuer hat eine nach § 1872 von ihm zu erstellende
+Schlussrechnung oder Vermögensübersicht beim Betreuungsgericht
+einzureichen. Das Betreuungsgericht übersendet diese an den
+Berechtigten, soweit dieser bekannt ist oder rechtlich vertreten wird
+und kein Fall des § 1872 Absatz 3 vorliegt.
 
-(2) Der Behördenbetreuer kann Geld des Betreuten gemäß § 1807 auch bei
-der Körperschaft anlegen, bei der er tätig ist.
+(2) Das Betreuungsgericht hat die Schlussrechnung oder die
+Vermögensübersicht sachlich und rechnerisch zu prüfen und, soweit
+erforderlich, ihre Ergänzung herbeizuführen. Das Betreuungsgericht
+übersendet das Ergebnis seiner Prüfung nach Satz 1 an den
+Berechtigten.
 
-
-##### § 1908h
-
-(weggefallen)
-
-
-##### § 1908i Entsprechend anwendbare Vorschriften
-
-(1) Im Übrigen sind auf die Betreuung § 1632 Abs. 1 bis 3, §§ 1784,
-1787 Abs. 1, § 1791a Abs. 3 Satz 1 zweiter Halbsatz und Satz 2, §§
-1792, 1795 bis 1797 Abs. 1 Satz 2, §§ 1798, 1799, 1802, 1803, 1805 bis
-1821, 1822 Nr. 1 bis 4, 6 bis 13, §§ 1823 bis 1826, 1828 bis 1836,
-1836c bis 1836e, 1837 Abs. 1 bis 3, §§ 1839 bis 1843, 1846, 1857a,
-1888, 1890 bis 1895 sinngemäß anzuwenden. Durch Landesrecht kann
-bestimmt werden, dass Vorschriften, welche die Aufsicht des
-Betreuungsgerichts in vermögensrechtlicher Hinsicht sowie beim
-Abschluss von Lehr- und Arbeitsverträgen betreffen, gegenüber der
-zuständigen Behörde außer Anwendung bleiben.
-
-(2) § 1804 ist sinngemäß anzuwenden, jedoch kann der Betreuer in
-Vertretung des Betreuten Gelegenheitsgeschenke auch dann machen, wenn
-dies dem Wunsch des Betreuten entspricht und nach seinen
-Lebensverhältnissen üblich ist. § 1857a ist auf die Betreuung durch
-den Vater, die Mutter, den Ehegatten, den Lebenspartner oder einen
-Abkömmling des Betreuten sowie auf den Vereinsbetreuer und den
-Behördenbetreuer sinngemäß anzuwenden, soweit das Betreuungsgericht
-nichts anderes anordnet.
+(3) Endet die Betreuung und liegt kein Fall des § 1872 Absatz 3 vor,
+so gilt Absatz 2 nur dann, wenn der Berechtigte binnen sechs Wochen
+nach Zugang der Schlussrechnung oder der Vermögensübersicht deren
+Prüfung verlangt. Über dieses Recht ist der Berechtigte bei der
+Übersendung nach Absatz 1 Satz 2 zu belehren. Nach Ablauf der Frist
+kann eine Prüfung durch das Betreuungsgericht nicht mehr verlangt
+werden.
 
 
-##### § 1908k
+###### § 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung
 
-(weggefallen)
+(1) Der Betreuer darf die Besorgung der Angelegenheiten des Betreuten
+fortführen, bis er von der Beendigung der Betreuung Kenntnis erlangt
+oder diese kennen muss. Ein Dritter kann sich auf diese Befugnis nicht
+berufen, wenn er bei der Vornahme des Rechtsgeschäfts die Beendigung
+kennt oder kennen muss.
+
+(2) Endet die Betreuung durch den Tod des Betreuten, so hat der
+Betreuer im Rahmen des ihm übertragenen Aufgabenkreises die
+Angelegenheiten, die keinen Aufschub dulden, zu besorgen, bis der Erbe
+diese besorgen kann.
 
 
-#### Titel 3 - Pflegschaft
+##### Untertitel 5 - Vergütung und Aufwendungsersatz
 
 
 
-##### § 1909 Ergänzungspflegschaft
+###### § 1875 Vergütung und Aufwendungsersatz
 
-(1) Wer unter elterlicher Sorge oder unter Vormundschaft steht, erhält
-für Angelegenheiten, an deren Besorgung die Eltern oder der Vormund
-verhindert sind, einen Pfleger. Er erhält insbesondere einen Pfleger
-zur Verwaltung des Vermögens, das er von Todes wegen erwirbt oder das
-ihm unter Lebenden unentgeltlich zugewendet wird, wenn der Erblasser
-durch letztwillige Verfügung, der Zuwendende bei der Zuwendung
-bestimmt hat, dass die Eltern oder der Vormund das Vermögen nicht
-verwalten sollen.
+(1) Vergütung und Aufwendungsersatz des ehrenamtlichen Betreuers
+bestimmen sich nach den Vorschriften dieses Untertitels.
 
-(2) Wird eine Pflegschaft erforderlich, so haben die Eltern oder der
-Vormund dies dem Familiengericht unverzüglich anzuzeigen.
-
-(3) Die Pflegschaft ist auch dann anzuordnen, wenn die Voraussetzungen
-für die Anordnung einer Vormundschaft vorliegen, ein Vormund aber noch
-nicht bestellt ist.
+(2) Vergütung und Aufwendungsersatz des beruflichen Betreuers, des
+Betreuungsvereins, des Behördenbetreuers und der Betreuungsbehörde
+bestimmen sich nach dem Vormünder- und Betreuervergütungsgesetz.
 
 
-##### § 1910
+###### § 1876 Vergütung
 
-(weggefallen)
+Dem ehrenamtlichen Betreuer steht grundsätzlich kein Anspruch auf
+Vergütung zu. Das Betreuungsgericht kann ihm abweichend von Satz 1
+eine angemessene Vergütung bewilligen, wenn
 
-
-##### § 1911 Abwesenheitspflegschaft
-
-(1) Ein abwesender Volljähriger, dessen Aufenthalt unbekannt ist,
-erhält für seine Vermögensangelegenheiten, soweit sie der Fürsorge
-bedürfen, einen Abwesenheitspfleger. Ein solcher Pfleger ist ihm
-insbesondere auch dann zu bestellen, wenn er durch Erteilung eines
-Auftrags oder einer Vollmacht Fürsorge getroffen hat, aber Umstände
-eingetreten sind, die zum Widerruf des Auftrags oder der Vollmacht
-Anlass geben.
-
-(2) Das Gleiche gilt von einem Abwesenden, dessen Aufenthalt bekannt,
-der aber an der Rückkehr und der Besorgung seiner
-Vermögensangelegenheiten verhindert ist.
+1.  der Umfang oder die Schwierigkeit der Wahrnehmung der Angelegenheiten
+    des Betreuten dies rechtfertigen und
 
 
-##### § 1912 Pflegschaft für eine Leibesfrucht
-
-(1) Eine Leibesfrucht erhält zur Wahrung ihrer künftigen Rechte,
-soweit diese einer Fürsorge bedürfen, einen Pfleger.
-
-(2) Die Fürsorge steht jedoch den Eltern insoweit zu, als ihnen die
-elterliche Sorge zustünde, wenn das Kind bereits geboren wäre.
+2.  der Betreute nicht mittellos ist.
 
 
-##### § 1913 Pflegschaft für unbekannte Beteiligte
+
+
+
+###### § 1877 Aufwendungsersatz
+
+(1) Macht der Betreuer zur Führung der Betreuung Aufwendungen, so kann
+er nach den für den Auftrag geltenden Vorschriften der §§ 669 und 670
+vom Betreuten Vorschuss oder Ersatz verlangen. Für den Ersatz von
+Fahrtkosten des Betreuers gilt die in § 5 des Justizvergütungs- und
+-entschädigungsgesetzes für Sachverständige getroffene Regelung
+entsprechend.
+
+(2) Zu den Aufwendungen gehören auch die Kosten einer angemessenen
+Versicherung gegen Schäden, die
+
+1.  dem Betreuten durch den Betreuer zugefügt werden können oder
+
+
+2.  dem Betreuer dadurch entstehen können, dass er einem Dritten zum
+    Ersatz eines durch die Führung der Betreuung verursachten Schadens
+    verpflichtet ist.
+
+
+
+Kosten für die Haftpflichtversicherung des Halters eines
+Kraftfahrzeugs gehören nicht zu diesen Aufwendungen.
+
+(3) Als Aufwendungen gelten auch solche Dienste des Betreuers, die zu
+seinem Gewerbe oder Beruf gehören.
+
+(4) Der Anspruch auf Aufwendungsersatz erlischt, wenn er nicht binnen
+15 Monaten nach seiner Entstehung gerichtlich geltend gemacht wird.
+Die Geltendmachung beim Betreuungsgericht gilt als Geltendmachung
+gegen den Betreuten. Die Geltendmachung gegen den Betreuten gilt auch
+als Geltendmachung gegen die Staatskasse.
+
+(5) Das Betreuungsgericht kann eine von Absatz 4 Satz 1 abweichende
+kürzere oder längere Frist für das Erlöschen des Anspruchs bestimmen
+sowie diese gesetzte Frist auf Antrag verlängern. Mit der
+Fristbestimmung ist über das Erlöschen des Ersatzanspruchs bei
+Versäumung der Frist zu belehren. Der Anspruch ist innerhalb der Frist
+zu beziffern.
+
+
+###### § 1878 Aufwandspauschale
+
+(1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
+Betreuer für die Führung jeder Betreuung, für die er keine Vergütung
+erhält, vom Betreuten einen pauschalen Geldbetrag verlangen
+(Aufwandspauschale). Dieser entspricht für ein Jahr dem 17fachen
+dessen, was einem Zeugen als Höchstbetrag der Entschädigung für eine
+Stunde versäumter Arbeitszeit (§ 22 des Justizvergütungs- und
+-entschädigungsgesetzes) gewährt werden kann. Hat der Betreuer für
+solche Aufwendungen bereits Vorschuss oder Ersatz erhalten, so
+verringert sich die Aufwandspauschale entsprechend.
+
+(2) Sind mehrere Betreuer bestellt, kann jeder Betreuer den Anspruch
+auf Aufwandspauschale geltend machen. In den Fällen der Bestellung
+eines Verhinderungsbetreuers nach § 1817 Absatz 4 kann jeder Betreuer
+den Anspruch auf Aufwandspauschale nur für den Zeitraum geltend
+machen, in dem er tatsächlich tätig geworden ist.
+
+(3) Die Aufwandspauschale ist jährlich zu zahlen, erstmals ein Jahr
+nach Bestellung des Betreuers. Endet das Amt des Betreuers, ist die
+Aufwandspauschale anteilig nach den Monaten des bis zur Beendigung des
+Amtes laufenden Betreuungsjahres zu zahlen; ein angefangener Monat
+gilt als voller Monat.
+
+(4) Der Anspruch erlischt, wenn er nicht binnen sechs Monaten nach
+Ablauf des Jahres, in dem der Anspruch entstanden ist, gerichtlich
+geltend gemacht wird. § 1877 Absatz 4 Satz 2 und 3 gilt entsprechend.
+Ist der Anspruch einmalig ausdrücklich gerichtlich geltend gemacht
+worden, so gilt in den Folgejahren die Einreichung des Jahresberichts
+jeweils als Antrag, es sei denn, der Betreuer verzichtet ausdrücklich
+auf eine weitere Geltendmachung.
+
+
+###### § 1879 Zahlung aus der Staatskasse
+
+Gilt der Betreute als mittellos im Sinne von § 1880, so kann der
+Betreuer den Vorschuss, den Aufwendungsersatz nach § 1877 oder die
+Aufwandspauschale nach § 1878 aus der Staatskasse verlangen.
+
+
+###### § 1880 Mittellosigkeit des Betreuten
+
+(1) Der Betreute gilt als mittellos, wenn er den Vorschuss, den
+Aufwendungsersatz oder die Aufwandspauschale aus seinem einzusetzenden
+Vermögen nicht, nur zum Teil oder nur in Raten aufbringen kann.
+
+(2) Der Betreute hat sein Vermögen nach Maßgabe des § 90 des Zwölften
+Buches Sozialgesetzbuch einzusetzen.
+
+
+###### § 1881 Gesetzlicher Forderungsübergang
+
+Soweit die Staatskasse den Betreuer befriedigt, gehen Ansprüche des
+Betreuers gegen den Betreuten auf die Staatskasse über. Nach dem Tode
+des Betreuten haftet sein Erbe nur mit dem Wert des im Zeitpunkt des
+Erbfalls vorhandenen Nachlasses; § 102 Absatz 3 und 4 des Zwölften
+Buches Sozialgesetzbuch gilt entsprechend, § 1880 Absatz 2 ist auf den
+Erben nicht anzuwenden.
+
+
+#### Titel 4 - Sonstige Pflegschaft
+
+
+
+##### § 1882 Pflegschaft für unbekannte Beteiligte
 
 Ist unbekannt oder ungewiss, wer bei einer Angelegenheit der
 Beteiligte ist, so kann dem Beteiligten für diese Angelegenheit,
 soweit eine Fürsorge erforderlich ist, ein Pfleger bestellt werden.
-Insbesondere kann einem Nacherben, der noch nicht gezeugt ist oder
+Insbesondere kann für einen Nacherben, der noch nicht gezeugt ist oder
 dessen Persönlichkeit erst durch ein künftiges Ereignis bestimmt wird,
 für die Zeit bis zum Eintritt der Nacherbfolge ein Pfleger bestellt
 werden.
 
 
-##### § 1914 Pflegschaft für gesammeltes Vermögen
+##### § 1883 Pflegschaft für gesammeltes Vermögen
 
 Ist durch öffentliche Sammlung Vermögen für einen vorübergehenden
 Zweck zusammengebracht worden, so kann zum Zwecke der Verwaltung und
@@ -34022,88 +35454,74 @@ Verwendung des Vermögens ein Pfleger bestellt werden, wenn die zu der
 Verwaltung und Verwendung berufenen Personen weggefallen sind.
 
 
-##### § 1915 Anwendung des Vormundschaftsrechts
+##### § 1884 Abwesenheitspflegschaft
 
-(1) Auf die Pflegschaft finden die für die Vormundschaft geltenden
-Vorschriften entsprechende Anwendung, soweit sich nicht aus dem Gesetz
-ein anderes ergibt. Abweichend von § 3 Abs. 1 bis 3 des Vormünder- und
-Betreuervergütungsgesetzes bestimmt sich die Höhe einer nach § 1836
-Abs. 1 zu bewilligenden Vergütung nach den für die Führung der
-Pflegschaftsgeschäfte nutzbaren Fachkenntnissen des Pflegers sowie
-nach dem Umfang und der Schwierigkeit der Pflegschaftsgeschäfte,
-sofern der Pflegling nicht mittellos ist. An die Stelle des
-Familiengerichts tritt das Betreuungsgericht; dies gilt nicht bei der
-Pflegschaft für Minderjährige oder für eine Leibesfrucht.
+(1) Ein abwesender Volljähriger, dessen Aufenthalt unbekannt ist,
+erhält für seine Vermögensangelegenheiten, soweit sie der Fürsorge
+bedürfen, einen Abwesenheitspfleger. Ein solcher Abwesenheitspfleger
+ist ihm insbesondere auch dann zu bestellen, wenn er durch Erteilung
+eines Auftrags oder einer Vollmacht Fürsorge getroffen hat, aber
+Umstände eingetreten sind, die zum Widerruf des Auftrags oder der
+Vollmacht Anlass geben.
 
-(2) Die Bestellung eines Gegenvormunds ist nicht erforderlich.
-
-(3) § 1793 Abs. 2 findet auf die Pflegschaft für Volljährige keine
-Anwendung.
+(2) Das Gleiche gilt für einen Abwesenden, dessen Aufenthalt bekannt,
+der aber an der Rückkehr und der Besorgung seiner
+Vermögensangelegenheiten verhindert ist.
 
 
-##### § 1916 Berufung als Ergänzungspfleger
+##### § 1885 Bestellung des sonstigen Pflegers
 
-Für die nach § 1909 anzuordnende Pflegschaft gelten die Vorschriften
-über die Berufung zur Vormundschaft nicht.
-
-
-##### § 1917 Ernennung des Ergänzungspflegers durch Erblasser und Dritte
-
-(1) Wird die Anordnung einer Pflegschaft nach § 1909 Abs. 1 Satz 2
-erforderlich, so ist als Pfleger berufen, wer durch letztwillige
-Verfügung oder bei der Zuwendung benannt worden ist; die Vorschriften
-des § 1778 sind entsprechend anzuwenden.
-
-(2) Für den benannten Pfleger können durch letztwillige Verfügung oder
-bei der Zuwendung die in den §§ 1852 bis 1854 bezeichneten Befreiungen
-angeordnet werden. Das Familiengericht kann die Anordnungen außer
-Kraft setzen, wenn sie das Interesse des Pfleglings gefährden.
-
-(3) Zu einer Abweichung von den Anordnungen des Zuwendenden ist,
-solange er lebt, seine Zustimmung erforderlich und genügend. Ist er
-zur Abgabe einer Erklärung dauernd außerstande oder ist sein
-Aufenthalt dauernd unbekannt, so kann das Familiengericht die
-Zustimmung ersetzen.
+Das Betreuungsgericht oder im Falle der Nachlasspflegschaft das
+Nachlassgericht ordnet die Pflegschaft an, wählt einen geeigneten
+Pfleger aus und bestellt ihn, nachdem er sich zur Übernahme des Amtes
+bereit erklärt hat.
 
 
-##### § 1918 Ende der Pflegschaft kraft Gesetzes
+##### § 1886 Aufhebung der Pflegschaft
 
-(1) Die Pflegschaft für eine unter elterlicher Sorge oder unter
-Vormundschaft stehende Person endigt mit der Beendigung der
-elterlichen Sorge oder der Vormundschaft.
+(1) Die Pflegschaft für einen Abwesenden ist aufzuheben,
 
-(2) Die Pflegschaft für eine Leibesfrucht endigt mit der Geburt des
-Kindes.
-
-(3) Die Pflegschaft zur Besorgung einer einzelnen Angelegenheit endigt
-mit deren Erledigung.
+1.  wenn der Abwesende an der Besorgung seiner Vermögensangelegenheiten
+    nicht mehr verhindert ist,
 
 
-##### § 1919 Aufhebung der Pflegschaft bei Wegfall des Grundes
-
-Die Pflegschaft ist aufzuheben, wenn der Grund für die Anordnung der
-Pflegschaft weggefallen ist.
+2.  wenn der Abwesende stirbt.
 
 
-##### § 1920
-
-(weggefallen)
 
 
-##### § 1921 Aufhebung der Abwesenheitspflegschaft
+(2) Im Übrigen ist eine Pflegschaft aufzuheben, wenn der Grund für
+ihre Anordnung weggefallen ist.
 
-(1) Die Pflegschaft für einen Abwesenden ist aufzuheben, wenn der
-Abwesende an der Besorgung seiner Vermögensangelegenheiten nicht mehr
-verhindert ist.
 
-(2) Stirbt der Abwesende, so endigt die Pflegschaft erst mit der
-Aufhebung durch das Betreuungsgericht. Das Betreuungsgericht hat die
-Pflegschaft aufzuheben, wenn ihm der Tod des Abwesenden bekannt wird.
+##### § 1887 Ende der Pflegschaft kraft Gesetzes
 
-(3) Wird der Abwesende für tot erklärt oder wird seine Todeszeit nach
-den Vorschriften des Verschollenheitsgesetzes festgestellt, so endigt
+(1) Wird der Abwesende für tot erklärt oder wird seine Todeszeit nach
+den Vorschriften des Verschollenheitsgesetzes festgestellt, so endet
 die Pflegschaft mit der Rechtskraft des Beschlusses über die
 Todeserklärung oder die Feststellung der Todeszeit.
+
+(2) Im Übrigen endet die Pflegschaft zur Besorgung einer einzelnen
+Angelegenheit mit deren Erledigung.
+
+
+##### § 1888 Anwendung des Betreuungsrechts
+
+(1) Die Vorschriften des Betreuungsrechts sind auf sonstige
+Pflegschaften entsprechend anwendbar, soweit sich nicht aus dem Gesetz
+ein anderes ergibt.
+
+(2) Die Ansprüche des berufsmäßig tätigen Pflegers auf Vergütung und
+Aufwendungsersatz richten sich nach den §§ 1 bis 6 des Vormünder- und
+Betreuervergütungsgesetzes. Sofern der Pflegling nicht mittellos ist,
+bestimmt sich die Höhe des Stundensatzes des Pflegers jedoch nach den
+für die Führung der Pflegschaftsgeschäfte nutzbaren Fachkenntnissen
+des Pflegers sowie nach dem Umfang und der Schwierigkeit der
+Pflegschaftsgeschäfte.
+
+
+##### (XXXX) §§ 1889 bis 1921 (weggefallen)
+
 
 
 ## Buch 5 - Erbrecht
@@ -34818,7 +36236,7 @@ Vermögenslage des Erben gefährdet wird. Der Antrag kann nicht mehr
 gestellt werden, wenn seit der Annahme der Erbschaft zwei Jahre
 verstrichen sind.
 
-(3) Die Vorschrift des § 1785 findet keine Anwendung.
+(3) (weggefallen)
 
 
 ###### § 1982 Ablehnung der Anordnung der Nachlassverwaltung mangels Masse
@@ -36197,8 +37615,8 @@ eingesetzt ist. Entspricht es nicht dem Willen des Erblassers, dass
 der Eingesetzte Nacherbe werden soll, so ist die Einsetzung unwirksam.
 
 (2) Das Gleiche gilt von der Einsetzung einer juristischen Person, die
-erst nach dem Erbfall zur Entstehung gelangt; die Vorschrift des § 84
-bleibt unberührt.
+erst nach dem Erbfall zur Entstehung gelangt; die Vorschrift des § 80
+Absatz 2 Satz 2 bleibt unberührt.
 
 
 ##### § 2102 Nacherbe und Ersatzerbe
@@ -36415,8 +37833,8 @@ Forderungen nur mit Zustimmung des Nacherben verfügen kann.
 ##### § 2119 Anlegung von Geld
 
 Geld, das nach den Regeln einer ordnungsmäßigen Wirtschaft dauernd
-anzulegen ist, darf der Vorerbe nur nach den für die Anlegung von
-Mündelgeld geltenden Vorschriften anlegen.
+anzulegen ist, darf der Vorerbe nur der Rechtsverordnung nach § 240a
+entsprechend anlegen.
 
 
 ##### § 2120 Einwilligungspflicht des Nacherben
@@ -37351,7 +38769,7 @@ geschehen kann.
 
 Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu
 der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder
-in der Geschäftsfähigkeit beschränkt ist oder nach § 1896 zur
+in der Geschäftsfähigkeit beschränkt ist oder nach § 1814 zur
 Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.
 
 
@@ -38126,8 +39544,7 @@ mitteilen.
 erfolgen.
 
 (2) Für einen geschäftsunfähigen Erblasser kann sein Betreuer den
-Erbvertrag anfechten; die Genehmigung des Betreuungsgerichts ist
-erforderlich.
+Erbvertrag anfechten.
 
 (3) Die Anfechtungserklärung bedarf der notariellen Beurkundung.
 
@@ -38220,11 +39637,7 @@ Aufhebung nicht mehr erfolgen.
 
 (2) Der Erblasser kann den Vertrag nur persönlich schließen.
 
-(3) Ist für den anderen Teil ein Betreuer bestellt und wird die
-Aufhebung vom Aufgabenkreis des Betreuers erfasst, ist die Genehmigung
-des Betreuungsgerichts erforderlich.
-
-(4) Der Vertrag bedarf der in § 2276 für den Erbvertrag
+(3) Der Vertrag bedarf der in § 2276 für den Erbvertrag
 vorgeschriebenen Form.
 
 
@@ -38234,7 +39647,7 @@ vorgeschriebenen Form.
 Auflage angeordnet sowie eine Rechtswahl getroffen ist, kann von dem
 Erblasser durch Testament aufgehoben werden. Zur Wirksamkeit der
 Aufhebung ist die Zustimmung des anderen Vertragschließenden
-erforderlich; die Vorschrift des § 2290 Abs. 3 findet Anwendung.
+erforderlich.
 
 (2) Die Zustimmungserklärung bedarf der notariellen Beurkundung; die
 Zustimmung ist unwiderruflich.
@@ -38244,8 +39657,7 @@ Zustimmung ist unwiderruflich.
 
 Ein zwischen Ehegatten oder Lebenspartnern geschlossener Erbvertrag
 kann auch durch ein gemeinschaftliches Testament der Ehegatten oder
-Lebenspartner aufgehoben werden; die Vorschrift des § 2290 Abs. 3
-findet Anwendung.
+Lebenspartner aufgehoben werden.
 
 
 #### § 2293 Rücktritt bei Vorbehalt
@@ -38331,10 +39743,9 @@ anzuwenden.
 (2) Ein Erbvertrag, der nur Verfügungen von Todes wegen enthält, kann
 aus der amtlichen oder notariellen Verwahrung zurückgenommen und den
 Vertragsschließenden zurückgegeben werden. Die Rückgabe kann nur an
-alle Vertragsschließenden gemeinschaftlich erfolgen; die Vorschrift
-des § 2290 Abs. 1 Satz 2, Abs. 2 und 3 findet Anwendung. Wird ein
-Erbvertrag nach den Sätzen 1 und 2 zurückgenommen, gilt § 2256 Abs. 1
-entsprechend.
+alle Vertragsschließenden gemeinschaftlich erfolgen; § 2290 Absatz 1
+Satz 2 und Absatz 2 gilt entsprechend. Wird ein Erbvertrag nach den
+Sätzen 1 und 2 zurückgenommen, gilt § 2256 Abs. 1 entsprechend.
 
 
 #### § 2301 Schenkungsversprechen von Todes wegen
@@ -38947,22 +40358,16 @@ Pflichtteilsrecht.
 
 #### § 2347 Persönliche Anforderungen, Vertretung
 
-(1) Zu dem Erbverzicht ist, wenn der Verzichtende unter Vormundschaft
-steht, die Genehmigung des Familiengerichts erforderlich; steht er
-unter elterlicher Sorge, so gilt das Gleiche. Für den Verzicht durch
-den Betreuer ist die Genehmigung des Betreuungsgerichts erforderlich.
-
-(2) Der Erblasser kann den Vertrag nur persönlich schließen; ist er in
-der Geschäftsfähigkeit beschränkt, so bedarf er nicht der Zustimmung
-seines gesetzlichen Vertreters. Ist der Erblasser geschäftsunfähig, so
-kann der Vertrag durch den gesetzlichen Vertreter geschlossen werden;
-die Genehmigung des Familiengerichts oder Betreuungsgerichts ist in
-gleichem Umfang wie nach Absatz 1 erforderlich.
+Der Erblasser kann den Vertrag nach § 2346 nur persönlich schließen;
+ist er in der Geschäftsfähigkeit beschränkt, so bedarf er nicht der
+Zustimmung seines gesetzlichen Vertreters. Ist der Erblasser
+geschäftsunfähig, so kann der Vertrag durch den gesetzlichen Vertreter
+geschlossen werden.
 
 
 #### § 2348 Form
 
-Der Erbverzichtsvertrag bedarf der notariellen Beurkundung.
+Der Vertrag nach § 2346 bedarf der notariellen Beurkundung.
 
 
 #### § 2349 Erstreckung auf Abkömmlinge
@@ -38988,7 +40393,7 @@ Lebenspartners des Erblassers gelten soll.
 
 Auf einen Vertrag, durch den ein Erbverzicht aufgehoben wird, findet
 die Vorschrift des § 2348 und in Ansehung des Erblassers auch die
-Vorschrift des § 2347 Abs. 2 Satz 1 erster Halbsatz, Satz 2 Anwendung.
+Vorschrift des § 2347 Satz 1 erster Halbsatz, Satz 2 Anwendung.
 
 
 #### § 2352 Verzicht auf Zuwendungen
@@ -39011,7 +40416,7 @@ Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist,
 über die Größe des Erbteils zu erteilen (Erbschein).
 
 
-#### (XXXX) §§ 2354 bis 2359
+#### (XXXX)§§ 2354 bis 2359 (weggefallen)
 
 (weggefallen)
 

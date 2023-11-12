@@ -16,11 +16,9 @@ Fundstelle
 :   BGBl II: 2011, 1300 (Anlageband)
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 2 iVm Anlage 3 V v. 8.11.2019 II 907
+:   Art. 1 Nr. 2 iVm Anlage 4 V v. 20.5.2021 II 442
 
-Änderung durch
-:   Art. 1 Nr. 2 iVm Anlage 4 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Diese V ist gem. Art. 1 § 13 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023 nicht mehr anzuwenden
 
 ## Inhaltsverzeichnis
 

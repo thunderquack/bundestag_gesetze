@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl I: 2010, 140
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2020 I 1692
+:   Art. 9 G v. 27.9.2021 I 4530
 
 Mittelbare änderung durch
-:   Art. 4 Nr. 2 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 Nr. 2 G v. 27.9.2021 I 4530 ist berücksichtigt
 
 [^F772944_01_BJNR014000010]:     § 3 Absatz 2 dient der Umsetzung von Artikel 40 Absatz 4 und Artikel
     111 Absatz 6 und 7 der Richtlinie 2001/83/EG des Europäischen

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1179
 
-Geändert durch
-:   Art. 1 V v. 7.7.2021 I 3547
+Zuletzt geändert durch
+:   Art. 2 V v. 19.10.2023 I Nr. 282
 
 Stand: Ersetzt V 2030-7-7-1 v. 20.7.2001 I 1682 (LAP-MDZollV)
 
@@ -33,7 +33,7 @@ Bundes.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -446,7 +446,7 @@ eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer
 Tarifbeschäftigter je Auswahlkommission bestellt werden.
 
 (2a) Die Generalzolldirektion kann festlegen, dass bis zum 31.
-Dezember 2021 eine Auswahlkommission – abweichend von Absatz 2 Satz 1
+Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1
 – nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten, die oder der mindestens der
@@ -587,11 +587,6 @@ festgestellt werden konnte.
 Simulationsübungen und einem strukturierten Interview. Er dient dazu,
 die Eignung der Bewerberinnen und Bewerber in verschiedenen
 persönlichen und sozialen Kompetenzbereichen zu ermitteln.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
-werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
-stehen.
 
 (2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit
 höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die
@@ -737,7 +732,7 @@ Auszubildenden sind zum Selbststudium verpflichtet.
 
 (3a) Die Generalzolldirektion kann mit Zustimmung des
 Bundesministeriums der Finanzen festlegen, dass bis zum 31. Dezember
-2022 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate
+2024 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate
 genutzt werden können.
 
 (4) Für die fachtheoretische Ausbildung und für die praxisbezogenen
@@ -1257,7 +1252,7 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 (5a) Das Prüfungsamt kann festlegen, dass eine Prüfungskommission für
 die Bewertung der mündlichen Abschlussprüfung bis zum 31. Dezember
-2022 – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern
+2024 – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern
 besteht:
 
 1.  einer Beamtin oder einem Beamten des höheren Dienstes oder des
@@ -1483,7 +1478,7 @@ sicher. Die mündliche Prüfung wird durch mindestens eine Pause von
 angemessener Dauer unterbrochen.
 
 (2a) Die Generalzolldirektion kann festlegen, dass bis zum 31.
-Dezember 2022
+Dezember 2024
 
 1.  die mündliche Abschlussprüfung – abweichend von Absatz 2 Satz 1 – als
     Einzelprüfung durchgeführt wird,
@@ -1502,7 +1497,7 @@ Dezember 2022
 
 
 (2b) Die Generalzolldirektion kann festlegen, dass bis zum 31.
-Dezember 2022 – abweichend von § 39 Absatz 2 – auf die Durchführung
+Dezember 2024 – abweichend von § 39 Absatz 2 – auf die Durchführung
 der mündlichen Abschlussprüfung verzichtet wird, wenn
 
 1.  die technischen Einrichtungen für die Nutzung von

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2615
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.7.2020 I 1555
-
-Änderung durch
-:   Art. 1 V v. 28.6.2021 I 2231 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 6 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 14.3.2023 I Nr. 69
 
 
 ## § 1 Anwendungsbereich
@@ -221,27 +215,28 @@ mittelbaren Gefährdung der Gesundheit erforderlich ist.
 
 ## Anlage
 
-(Fundstelle: BGBl. I 2021, 2232 – 2243)
+(Fundstelle: BGBl. I 2022, 1553 - 1565;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorbemerkung
 
 Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle
 denkbaren geladenen Formen, Stereoisomere und Salze eines erfassten
-Stoffes ein, soweit solche existieren. In den Stoffgruppendefinitionen
-festgelegte Molekülmassenbegrenzungen gelten bei geladenen Formen und
-Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
+Stoffes ein. In den Stoffgruppendefinitionen festgelegte
+Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur
+für den Molekülteil ausschließlich des Gegen-Ions.
 
-**1** Von 2-Phenethylamin abgeleitete Verbindungen ****
+**1.** Von 2-Phenethylamin abgeleitete Verbindungen ****
 
     Eine von 2-Phenethylamin abgeleitete Verbindung ist jede chemische
-    Verbindung, die von einer
-    2-Phenylethan-1-amin-Grundstruktur                    abgeleitet
-    werden kann (ausgenommen 2-Phenethylamin selbst), eine maximale
-    Molekülmasse von 500 u hat und dem nachfolgend beschriebenen modularen
-    Aufbau aus Strukturelement A und Strukturelement B entspricht.
+    Verbindung, die von einer 2-Phenylethan-1-amin-Grundstruktur
+    abgeleitet werden kann (ausgenommen 2-Phenethylamin selbst), eine
+    maximale Molekülmasse von 500 u hat und dem nachfolgend beschriebenen
+    modularen Aufbau aus Strukturelement A und Strukturelement B
+    entspricht.
 
 
-    *        *            ![bgbl1_2021_j2231-1_0010.jpg](bgbl1_2021_j2231-1_0010.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0010.jpg](bgbl1_2022_j1552-1_0010.jpg)
 
     *        *   **Strukturelement A**
 
@@ -255,7 +250,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     (2-Amino-1-phenyl-1-propanon) ein:
 
 
-    *        *            ![bgbl1_2021_j2231-1_0020.jpg](bgbl1_2021_j2231-1_0020.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0020.jpg](bgbl1_2022_j1552-1_0020.jpg)
 
     *        *   **Strukturelement A**
 
@@ -277,8 +272,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     Tetrahydrobenzodipyranyl-, Cyclopentyl-, Cyclohexyl-.
 
 
-    *        *            ![bgbl1_2021_j2231-1_0030.jpg](bgbl1_2021_j2231-1_0030.jpg)
-        *            ![bgbl1_2021_j2231-1_0040.jpg](bgbl1_2021_j2231-1_0040.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0030.jpg](bgbl1_2022_j1552-1_0030.jpg)
+        *            ![bgbl1_2022_j1552-1_0040.jpg](bgbl1_2022_j1552-1_0040.jpg)
 
     *        *   Phenyl-
 
@@ -288,8 +283,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0050.jpg](bgbl1_2021_j2231-1_0050.jpg)
-        *            ![bgbl1_2021_j2231-1_0060.jpg](bgbl1_2021_j2231-1_0060.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0050.jpg](bgbl1_2022_j1552-1_0050.jpg)
+        *            ![bgbl1_2022_j1552-1_0060.jpg](bgbl1_2022_j1552-1_0060.jpg)
 
     *        *   Tetralinyl-
 
@@ -299,8 +294,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0070.jpg](bgbl1_2021_j2231-1_0070.jpg)
-        *            ![bgbl1_2021_j2231-1_0080.jpg](bgbl1_2021_j2231-1_0080.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0070.jpg](bgbl1_2022_j1552-1_0070.jpg)
+        *            ![bgbl1_2022_j1552-1_0080.jpg](bgbl1_2022_j1552-1_0080.jpg)
 
     *        *   Ethylendioxyphenyl-
 
@@ -310,9 +305,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0090.jpg](bgbl1_2021_j2231-1_0090.jpg)
-        *            ![bgbl1_2021_j2231-1_0100.jpg](bgbl1_2021_j2231-1_0100.jpg)
-        *            ![bgbl1_2021_j2231-1_0110.jpg](bgbl1_2021_j2231-1_0110.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0090.jpg](bgbl1_2022_j1552-1_0090.jpg)
+        *            ![bgbl1_2022_j1552-1_0100.jpg](bgbl1_2022_j1552-1_0100.jpg)
+        *            ![bgbl1_2022_j1552-1_0110.jpg](bgbl1_2022_j1552-1_0110.jpg)
 
     *        *   Pyrrolyl-
 
@@ -324,8 +319,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0120.jpg](bgbl1_2021_j2231-1_0120.jpg)
-        *            ![bgbl1_2021_j2231-1_0130.jpg](bgbl1_2021_j2231-1_0130.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0120.jpg](bgbl1_2022_j1552-1_0120.jpg)
+        *            ![bgbl1_2022_j1552-1_0130.jpg](bgbl1_2022_j1552-1_0130.jpg)
 
     *        *   Benzofuranyl-
 
@@ -335,8 +330,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0140.jpg](bgbl1_2021_j2231-1_0140.jpg)
-        *            ![bgbl1_2021_j2231-1_0150.jpg](bgbl1_2021_j2231-1_0150.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0140.jpg](bgbl1_2022_j1552-1_0140.jpg)
+        *            ![bgbl1_2022_j1552-1_0150.jpg](bgbl1_2022_j1552-1_0150.jpg)
 
     *        *   Indanyl-
 
@@ -346,8 +341,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0160.jpg](bgbl1_2021_j2231-1_0160.jpg)
-        *            ![bgbl1_2021_j2231-1_0170.jpg](bgbl1_2021_j2231-1_0170.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0160.jpg](bgbl1_2022_j1552-1_0160.jpg)
+        *            ![bgbl1_2022_j1552-1_0170.jpg](bgbl1_2022_j1552-1_0170.jpg)
 
     *        *   Tetrahydrobenzodifuranyl-
 
@@ -357,9 +352,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *            ![bgbl1_2021_j2231-1_0180.jpg](bgbl1_2021_j2231-1_0180.jpg)
-        *            ![bgbl1_2021_j2231-1_0190.jpg](bgbl1_2021_j2231-1_0190.jpg)
-        *            ![bgbl1_2021_j2231-1_0200.jpg](bgbl1_2021_j2231-1_0200.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0180.jpg](bgbl1_2022_j1552-1_0180.jpg)
+        *            ![bgbl1_2022_j1552-1_0190.jpg](bgbl1_2022_j1552-1_0190.jpg)
+        *            ![bgbl1_2022_j1552-1_0200.jpg](bgbl1_2022_j1552-1_0200.jpg)
 
     *        *   Tetrahydrobenzodipyranyl-
 
@@ -375,12 +370,11 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     n                   ) substituiert sein:
 
     Wasserstoff, Fluor, Chlor, Brom, Iod, Alkyl- (bis C
-    6                   ), Alkenyl- (bis C
-    6                   ), Alkinyl- (bis C
-    6                   ), Alkoxy- (bis C
-    6                   ),
-    Carboxy-, Alkylsulfanyl-                    (bis C
-    6                   ) und Nitrogruppen.
+    8                   ), Alkenyl- (bis C
+    8                   ), Alkinyl- (bis C
+    8                   ), Alkoxy- (bis C
+    7                   ), Carboxy-, Alkylsulfanyl- (bis C
+    7                   ) und Nitrogruppen.
 
     Die aufgeführten Atomgruppen können weiterhin mit beliebigen, chemisch
     möglichen Kombinationen der Elemente Kohlenstoff, Wasserstoff,
@@ -390,7 +384,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     aufweisen (ohne Mitzählung von Wasserstoffatomen). Atome von
     Ringstrukturen werden dabei nicht in die Zählung einbezogen.
 
-    Moleküle bei denen durch R
+    Moleküle, bei denen durch R
     n                    cyclische Systeme entstehen, die an das
     Strukturelement A anneliert sind, werden von der
     Stoffgruppendefinition nicht erfasst.
@@ -410,17 +404,17 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         6                         ), Benzyl-, Alkenyl- (bis C
         6                         ), Alkinyl- (bis C
         6                         ), Alkylcarbonyl- (bis C
-        6                         ),
-        Hydroxy- und                          Aminogruppen. Ferner sind Stoffe
-        eingeschlossen, bei denen das Stickstoffatom Bestandteil eines
-        cyclischen Systems ist (beispielsweise Pyrrolidinyl-, Piperidinyl-).
-        Ein Ringschluss des Stickstoffatoms unter Einbeziehung von Teilen des
-        Strukturelements B (Reste R
+        6                         ), Hydroxy- und Aminogruppen. Ferner sind
+        Stoffe eingeschlossen, bei denen das Stickstoffatom Bestandteil eines
+        nicht aromatischen gesättigten oder ungesättigten cyclischen Systems
+        ist (beispielsweise Pyrrolidinyl-, Piperidinyl-). Ein Ringschluss des
+        Stickstoffatoms unter Einbeziehung von Teilen des Strukturelements B
+        (Reste R
         3                          bis R
-        6                         ) ist dabei möglich, wobei die dabei
-        entstehende Molekülstruktur hinsichtlich der Substituenten auch ohne
-        den erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2
-        Buchstabe a sein muss. Die dabei entstehenden Ringsysteme können die
+        6                         ) ist möglich. Die dabei entstehende
+        Molekülstruktur muss hinsichtlich der Substituenten auch ohne den
+        erfolgten Ringschluss zum Strukturelement B konform zu Nummer 1.2
+        Buchstabe a sein. Die dabei entstehenden Ringsysteme können die
         Elemente Kohlenstoff, Sauerstoff, Schwefel, Stickstoff und Wasserstoff
         enthalten. Diese Ringsysteme dürfen fünf bis sieben Atome umfassen.
         Eine Doppelbindung als Brücke zum Strukturelement B ist möglich. Die
@@ -437,11 +431,11 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         Die Substituenten R
         1                          und R
-        2                          können weiterhin mit beliebigen, chemisch
-        möglichen Kombinationen
-        der Elemente                          Kohlenstoff, Wasserstoff,
-        Stickstoff, Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod
-        substituiert sein. Die auf diese Weise entstehenden Substituenten R
+        2                          können (bei Ringschlüssen nur nach dem
+        Ringschluss) weiterhin mit beliebigen, chemisch möglichen
+        Kombinationen der Elemente Kohlenstoff, Wasserstoff, Stickstoff,
+        Sauerstoff, Schwefel, Fluor, Chlor, Brom und Iod substituiert sein.
+        Die auf diese Weise entstehenden Substituenten R
         1                         /R
         2                          dürfen dabei eine durchgehende Kettenlänge
         von maximal zehn Atomen aufweisen (ohne Mitzählung von
@@ -468,8 +462,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         Verbindungen, bei denen Substitutionen zu einem Ringschluss mit dem
         Strukturelement A oder zu Ringsystemen, die die Reste R
         3                          bis R
-        6                          enthalten, führen. Diese Ringsysteme dürfen
-        vier bis sechs Atome umfassen.
+        6                          enthalten, führen können. Diese Ringsysteme
+        dürfen vier bis sechs Atome umfassen.
 
         Die aufgeführten Atomgruppen und Ringsysteme können zudem mit
         beliebigen, chemisch möglichen Kombinationen der Elemente Kohlenstoff,
@@ -490,8 +484,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
     c)  Carbonylgruppe in beta-Stellung zum Stickstoffatom (sogenannte bk-
-        Derivate, siehe Abbildung der Cathinon-Grundstruktur unter Nummer 1.:
-        R
+        Derivate, siehe Abbildung der Cathinon-Grundstruktur unter Nummer 1: R
         5                          und R
         6                          am C
         2                         -Atom: Carbonylgruppe (C=O)).
@@ -500,31 +493,30 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-**2** Cannabimimetika/synthetische Cannabinoide ****
+**2.** Cannabimimetika/synthetische Cannabinoide ****
 
 
 **2.1** **Von Indol, Pyrazol und 4-Chinolon abgeleitete Verbindungen**
 
     Ein Cannabimimetikum bzw. ein synthetisches Cannabinoid der von Indol,
-    Pyrazol und 4‑Chinolon abgeleiteten Verbindungen ist jede chemische
+    Pyrazol oder 4‑Chinolon abgeleiteten Verbindungen ist jede chemische
     Verbindung, die dem nachfolgend anhand eines Strukturbeispiels
-    beschriebenen modularen Aufbau mit einer Kernstruktur entspricht, die
-    an einer definierten Position über eine Brücke mit einem Brückenrest
-    verknüpft ist und die an einer definierten Position der Kernstruktur
-    eine Seitenkette trägt.
+    beschriebenen modularen Aufbau mit einer Kernstruktur entspricht. Die
+    Verbindung ist an einer definierten Position über eine Brücke mit
+    einem Brückenrest verknüpft und trägt an einer definierten Position
+    der Kernstruktur eine Seitenkette.
 
     Die Abbildung verdeutlicht den modularen Aufbau am Beispiel des
     1-Fluor-JWH-018:
 
 
-    *        *            ![bgbl1_2021_j2231-1_0210.jpg](bgbl1_2021_j2231-1_0210.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0210.jpg](bgbl1_2022_j1552-1_0210.jpg)
 
 
 
    1-Fluor-JWH-018 besitzt eine Indol-1,3-diyl-Kernstruktur, eine
-    Carbonyl-Brücke in Position 3, einen
-    1-Naphthyl-Brückenrest                    und eine 1-Fluorpentyl-
-    Seitenkette in Position 1.
+    Carbonyl-Brücke in Position 3, einen 1-Naphthyl-Brückenrest und eine
+    1-Fluorpentyl-Seitenkette in Position 1.
 
     Kernstruktur, Brücke, Brückenrest und Seitenkette werden wie folgt
     definiert:
@@ -532,8 +524,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 **2.1.1** **Kernstruktur**
 
-    Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis g
-    beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis f
+    Die Kernstruktur schließt die nachfolgend in den Buchstaben a bis h
+    beschriebenen Ringsysteme ein. Die Ringsysteme der Buchstaben a bis g
     können an den in den nachfolgenden Abbildungen gekennzeichneten
     Positionen mit einer beliebigen Kombination der Atome Wasserstoff,
     Fluor, Chlor, Brom, Iod und Phenyl-, Methyl-, Methoxy- und
@@ -546,7 +538,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     Fluor, Chlor, Brom, Iod und Phenylthiogruppe (Anbindung über den
     Schwefel an die Kernstruktur).
 
-    Die Wellenlinie gibt den Bindungsort für die Brücke an, die
+    Die Wellenlinie gibt den Bindungsort für die Brücke an. Die
     durchbrochene Linie gibt den Bindungsort für die Seitenkette an:
 
 
@@ -560,7 +552,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
     *        *
-        *            ![bgbl1_2021_j2231-1_0220.jpg](bgbl1_2021_j2231-1_0220.jpg)
+        *            ![bgbl1_2022_j1552-1_0220.jpg](bgbl1_2022_j1552-1_0220.jpg)
         *   X = CH, C-CH
             3                             , C-F, C-Cl, C-Br, C-I oder N
 
@@ -572,15 +564,14 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         *   4-, 5-, 6- oder 7-Azaindol-1,3-diyl (X = CH, C-CH
             3                             , C-F, C-Cl, C-Br und C-I) und 4-, 5-,
-            6- oder
-            7-Azaindazol-1,3-diyl (X = N)
+            6- oder 7-Azaindazol-1,3-diyl (X = N)
             (Bindungsort für die Brücke in Position 3, Bindungsort für die
             Seitenkette in Position 1)
 
 
     *        *
-        *            ![bgbl1_2021_j2231-1_0230.jpg](bgbl1_2021_j2231-1_0230.jpg)
-        *            ![bgbl1_2021_j2231-1_0240.jpg](bgbl1_2021_j2231-1_0240.jpg)
+        *            ![bgbl1_2022_j1552-1_0230.jpg](bgbl1_2022_j1552-1_0230.jpg)
+        *            ![bgbl1_2022_j1552-1_0240.jpg](bgbl1_2022_j1552-1_0240.jpg)
         *   jeweils:
             X = CH, C-CH
             3                             , C-F, C-Cl, C-Br, C-I oder N
@@ -593,8 +584,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
     *        *
-        *            ![bgbl1_2021_j2231-1_0250.jpg](bgbl1_2021_j2231-1_0250.jpg)
-        *            ![bgbl1_2021_j2231-1_0260.jpg](bgbl1_2021_j2231-1_0260.jpg)
+        *            ![bgbl1_2022_j1552-1_0250.jpg](bgbl1_2022_j1552-1_0250.jpg)
+        *            ![bgbl1_2022_j1552-1_0260.jpg](bgbl1_2022_j1552-1_0260.jpg)
 
     *        *
         *   6-Aza-Derivate
@@ -607,45 +598,55 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
     *        *   c)
 
-        *   Carbazol-1,4-diyl
-            (Bindungsort für die Brücke in Position 4,
-            Bindungsort für die Seitenkette in Position 1)
+        *   1
+            H                             -Indol-2-on-1,3-diyl
 
-        *            ![bgbl1_2021_j2231-1_0270.jpg](bgbl1_2021_j2231-1_0270.jpg)
+        *            ![bgbl1_2022_j1552-1_0270.jpg](bgbl1_2022_j1552-1_0270.jpg)
 
 
 
 
     *        *   d)
 
-        *   Benzimidazol-1,2-diyl-Isomer I
-            (Bindungsort für die Brücke in Position 2
+        *   Carbazol-1,4-diyl
+            (Bindungsort für die Brücke in Position 4,
             Bindungsort für die Seitenkette in Position 1)
 
-        *            ![bgbl1_2021_j2231-1_0280.jpg](bgbl1_2021_j2231-1_0280.jpg)
+        *            ![bgbl1_2022_j1552-1_0280.jpg](bgbl1_2022_j1552-1_0280.jpg)
 
 
 
 
     *        *   e)
 
-        *   Benzimidazol-1,2-diyl-Isomer II
-            (Bindungsort für die Brücke in Position 1,
-            Bindungsort für die Seitenkette in Position 2)
+        *   Benzimidazol-1,2-diyl-Isomer I
+            (Bindungsort für die Brücke in Position 2,
+            Bindungsort für die Seitenkette in Position 1)
 
-        *            ![bgbl1_2021_j2231-1_0290.jpg](bgbl1_2021_j2231-1_0290.jpg)
+        *            ![bgbl1_2022_j1552-1_0290.jpg](bgbl1_2022_j1552-1_0290.jpg)
 
 
 
 
     *        *   f)
 
+        *   Benzimidazol-1,2-diyl-Isomer II
+            (Bindungsort für die Brücke in Position 1,
+            Bindungsort für die Seitenkette in Position 2)
+
+        *            ![bgbl1_2022_j1552-1_0300.jpg](bgbl1_2022_j1552-1_0300.jpg)
+
+
+
+
+    *        *   g)
+
         *   Pyrazol-1,5-diyl
             (Bindungsort für die Brücke in Position 5,
             Bindungsort für die Seitenkette in Position 1)
 
-        *            ![bgbl1_2021_j2231-1_0300.jpg](bgbl1_2021_j2231-1_0300.jpg)
-        *            ![bgbl1_2021_j2231-1_0310.jpg](bgbl1_2021_j2231-1_0310.jpg)
+        *            ![bgbl1_2022_j1552-1_0310.jpg](bgbl1_2022_j1552-1_0310.jpg)
+        *            ![bgbl1_2022_j1552-1_0320.jpg](bgbl1_2022_j1552-1_0320.jpg)
 
     *        *
         *   und
@@ -667,13 +668,13 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    *        *   g)
+    *        *   h)
 
         *   4-Chinolon-1,3-diyl
             (Bindungsort für die Brücke in Position 3,
             Bindungsort für die Seitenkette in Position 1)
 
-        *            ![bgbl1_2021_j2231-1_0320.jpg](bgbl1_2021_j2231-1_0320.jpg)
+        *            ![bgbl1_2022_j1552-1_0330.jpg](bgbl1_2022_j1552-1_0330.jpg)
 
 
 
@@ -684,13 +685,15 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     ein, die jeweils an der unter Nummer 2.1.1 bezeichneten Stelle an die
     Kernstruktur gebunden sind:
 
-    a)  Carbonyl- und Azacarbonylgruppen,
+    a)  Carbonyl-, Methylencarbonyl- (CH
+        2                         -Gruppe an Kernstruktur geknüpft) und
+        Azacarbonylgruppen,
 
 
     b)  Carboxamidogruppe (Carbonylgruppe an Kernstruktur geknüpft), unter
         Einschluss von kohlenstoff- und wasserstoffhaltigen Substituenten am
-        Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer
-        2\.1.1, Buchstabe a): X = CH) einen Sechsring bilden.
+        Amidstickstoff, die mit Position 2 der Indolkernstruktur (Nummer 2.1.1
+        Buchstabe a: X = CH) einen Sechsring bilden,
 
 
     c)  Carboxylgruppe (Carbonylgruppe an Kernstruktur geknüpft),
@@ -699,7 +702,11 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     d)  direkt an die Kernstruktur angebundene Stickstoffheterocyclen, die
         auch weitere Stickstoff-, Sauerstoff- oder Schwefelatome enthalten
         können, mit einer Ringgröße von bis zu fünf Atomen sowie einer
-        Doppelbindung zum Stickstoffatom an der Anknüpfungsstelle.
+        Doppelbindung zum Stickstoffatom an der Anknüpfungsstelle,
+
+
+    e)  Hydrazongruppe mit Doppelbindung vom Stickstoff zu Position 3 der
+        Kernstruktur zu Nummer 2.1.1 Buchstabe c.
 
 
 
@@ -725,13 +732,12 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    b)  Brücken mit der Möglichkeit der Anbindung von mehreren Brückenresten
-        (beispielsweise Brücken zu Nummer 2.1.2 Buchstabe b und zu Nummer
-        2\.1.2 Buchstabe d können auch mehrere Brückenreste gemäß den
-        Definitionen zu Nummer 2.1.3 Buchstabe a Doppelbuchstabe aa und zu
-        Nummer 2.1.3 Buchstabe a Doppelbuchstabe bb tragen. Die
-        Molekülmassenbeschränkung von insgesamt 400 u gilt dann für die Summe
-        der Brückenreste.
+    b)  Brücken mit der Möglichkeit der Anbindung von mehreren Brückenresten,
+        beispielsweise Brücken zu Nummer 2.1.2 Buchstabe b, d oder Buchstabe
+        e, können auch mehrere Brückenreste gemäß den Definitionen zu Nummer
+        2\.1.3 Buchstabe a Doppelbuchstabe aa und zu Nummer 2.1.3 Buchstabe a
+        Doppelbuchstabe bb tragen. Die Molekülmassenbeschränkung von insgesamt
+        400 u gilt dann für die Summe der Brückenreste.
 
 
 
@@ -744,14 +750,14 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     Iod aufweisen, soweit sie nicht gemäß den Buchstaben a und b
     eingeschränkt werden. Die Seitenkette darf eine maximale Molekülmasse
     von 300 u aufweisen und muss jeweils an der unter Nummer 2.1.1
-    bezeichneten Stelle der Kernstruktur angebunden sein und kann folgende
-    Strukturelemente aufweisen:
+    bezeichneten Stelle der Kernstruktur angebunden sein. Die Seitenkette
+    kann folgende Strukturelemente aufweisen:
 
-    a)  beliebig substituierte Kettenstrukturen, die in der Kette neben
+    a)  beliebig substituierte Kettenstrukturen, die innerhalb der Kette neben
         Kohlenstoffatomen ausschließlich auch Sauerstoff- und Schwefelatome
         aufweisen können und unter Einbeziehung der Heteroatome eine
         durchgehende Kettenlänge von drei bis maximal sieben Atomen (ohne
-        Mitzählung von Wasserstoffatomen) aufweisen.
+        Mitzählung von Wasserstoffatomen) aufweisen,
 
 
     b)  direkt angebundene oder über eine Kohlenwasserstoffbrücke (gesättigt
@@ -793,7 +799,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         *   3-Sulfonylamidobenzoate
 
-        *            ![bgbl1_2021_j2231-1_0330.jpg](bgbl1_2021_j2231-1_0330.jpg)
+        *            ![bgbl1_2022_j1552-1_0340.jpg](bgbl1_2022_j1552-1_0340.jpg)
 
 
 
@@ -802,7 +808,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         *   3-Sulfonylamidobenzamide
 
-        *            ![bgbl1_2021_j2231-1_0340.jpg](bgbl1_2021_j2231-1_0340.jpg)
+        *            ![bgbl1_2022_j1552-1_0350.jpg](bgbl1_2022_j1552-1_0350.jpg)
 
 
 
@@ -821,12 +827,11 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
     b)  Der Rest R
         2                          kann aus den folgenden Ringsystemen
-        bestehen: Phenyl-, Pyridyl-, Cumyl-, 8-Chinolinyl-,
-        3-Isochinolinyl-,                          1-Naphthyl- und
-        Adamantylrest. Diese Ringsysteme können weiterhin mit beliebigen
-        Kombinationen der folgenden Atome oder Atomgruppen substituiert sein:
-        Wasserstoff, Fluor, Chlor, Brom, Iod, Methoxy-, Amino-, Hydroxy-,
-        Cyano-, Methyl- und Phenylethergruppen.
+        bestehen: Phenyl-, Pyridyl-, Cumyl-, 8-Chinolinyl-,3-Isochinolinyl-,
+        1-Naphthyl- und Adamantylrest. Diese Ringsysteme können weiterhin mit
+        beliebigen Kombinationen der folgenden Atome oder Atomgruppen
+        substituiert sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Methoxy-,
+        Amino-, Hydroxy-, Cyano-, Methyl- und Phenylethergruppen.
 
 
     c)  Die Reste R
@@ -836,21 +841,21 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         Isopropylgruppen bestehen. Die Reste R
         3                          und R
         4                          können auch ein gesättigtes Ringsystem bis
-        zu einer Größe von sieben Atomen einschließlich dem Stickstoffatom
+        zu einer Größe von sieben Atomen einschließlich des Stickstoffatoms
         bilden. Dieses Ringsystem kann die weiteren Elemente Stickstoff,
         Sauerstoff und Schwefel enthalten und eine beliebige Kombination der
         Elemente Wasserstoff, Fluor, Chlor, Brom und Iod tragen. Für die
         Substitution des Stickstoffatoms in einem solchen Ring gelten die für
         die Reste R
         3                          und R
-        4                          in Satz 1 angegebenen
+        4                          in Satz 1 von Buchstaben c angegebenen
         Substitutionsmöglichkeiten.
 
 
 
 
 
-**3** Benzodiazepine ****
+**3.** Benzodiazepine ****
 
     Die Gruppe der Benzodiazepine umfasst 1,4- und 1,5-Benzodiazepine und
     ihre Triazolo- und Imidazolo-Derivate (Nummer 3.1 Buchstabe a und b)
@@ -871,9 +876,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     a)  1,4-Benzodiazepine
 
 
-        *            *                ![bgbl1_2021_j2231-1_0350.jpg](bgbl1_2021_j2231-1_0350.jpg)
-            *                ![bgbl1_2021_j2231-1_0360.jpg](bgbl1_2021_j2231-1_0360.jpg)
-            *                ![bgbl1_2021_j2231-1_0370.jpg](bgbl1_2021_j2231-1_0370.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0360.jpg](bgbl1_2022_j1552-1_0360.jpg)
+            *                ![bgbl1_2022_j1552-1_0370.jpg](bgbl1_2022_j1552-1_0370.jpg)
+            *                ![bgbl1_2022_j1552-1_0380.jpg](bgbl1_2022_j1552-1_0380.jpg)
 
 
 
@@ -881,9 +886,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     b)  1,5-Benzodiazepine
 
 
-        *            *                ![bgbl1_2021_j2231-1_0380.jpg](bgbl1_2021_j2231-1_0380.jpg)
-            *                ![bgbl1_2021_j2231-1_0390.jpg](bgbl1_2021_j2231-1_0390.jpg)
-            *                ![bgbl1_2021_j2231-1_0400.jpg](bgbl1_2021_j2231-1_0400.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0390.jpg](bgbl1_2022_j1552-1_0390.jpg)
+            *                ![bgbl1_2022_j1552-1_0400.jpg](bgbl1_2022_j1552-1_0400.jpg)
+            *                ![bgbl1_2022_j1552-1_0410.jpg](bgbl1_2022_j1552-1_0410.jpg)
 
 
 
@@ -891,7 +896,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     c)  Loprazolam-Abkömmlinge
 
 
-        *            *                ![bgbl1_2021_j2231-1_0410.jpg](bgbl1_2021_j2231-1_0410.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0420.jpg](bgbl1_2022_j1552-1_0420.jpg)
 
 
 
@@ -899,9 +904,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     d)  Ketazolam-Abkömmlinge
 
 
-        *            *                ![bgbl1_2021_j2231-1_0420.jpg](bgbl1_2021_j2231-1_0420.jpg)
-            *                ![bgbl1_2021_j2231-1_0430.jpg](bgbl1_2021_j2231-1_0430.jpg)
-            *                ![bgbl1_2021_j2231-1_0440.jpg](bgbl1_2021_j2231-1_0440.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0430.jpg](bgbl1_2022_j1552-1_0430.jpg)
+            *                ![bgbl1_2022_j1552-1_0440.jpg](bgbl1_2022_j1552-1_0440.jpg)
+            *                ![bgbl1_2022_j1552-1_0450.jpg](bgbl1_2022_j1552-1_0450.jpg)
 
 
 
@@ -909,9 +914,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     e)  Oxazolam-Abkömmlinge
 
 
-        *            *                ![bgbl1_2021_j2231-1_0450.jpg](bgbl1_2021_j2231-1_0450.jpg)
-            *                ![bgbl1_2021_j2231-1_0460.jpg](bgbl1_2021_j2231-1_0460.jpg)
-            *                ![bgbl1_2021_j2231-1_0470.jpg](bgbl1_2021_j2231-1_0470.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0460.jpg](bgbl1_2022_j1552-1_0460.jpg)
+            *                ![bgbl1_2022_j1552-1_0470.jpg](bgbl1_2022_j1552-1_0470.jpg)
+            *                ![bgbl1_2022_j1552-1_0480.jpg](bgbl1_2022_j1552-1_0480.jpg)
 
 
 
@@ -919,9 +924,9 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     f)  Chlordiazepoxid-Abkömmlinge
 
 
-        *            *                ![bgbl1_2021_j2231-1_0480.jpg](bgbl1_2021_j2231-1_0480.jpg)
-            *                ![bgbl1_2021_j2231-1_0490.jpg](bgbl1_2021_j2231-1_0490.jpg)
-            *                ![bgbl1_2021_j2231-1_0500.jpg](bgbl1_2021_j2231-1_0500.jpg)
+        *            *                ![bgbl1_2022_j1552-1_0490.jpg](bgbl1_2022_j1552-1_0490.jpg)
+            *                ![bgbl1_2022_j1552-1_0500.jpg](bgbl1_2022_j1552-1_0500.jpg)
+            *                ![bgbl1_2022_j1552-1_0510.jpg](bgbl1_2022_j1552-1_0510.jpg)
 
 
 
@@ -991,7 +996,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         Wasserstoff, Methyl-, Ethyl-, (N,N-Dimethylamino)methyl-,
         (N,N-Diethylamino)methyl-, (N,N-Dimethylamino)ethyl-,
         (N,N-Diethylamino)ethyl-, (Cyclopropyl)methyl-,
-        (Trifluormethyl)methyl- und Prop-2-in-1-yl-Gruppen.
+        (Trifluormethyl)methyl- und Prop-2-in-1-ylgruppen.
 
 
     g)  Der Rest R
@@ -1018,12 +1023,14 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         2                          und R
         7                          auch eine mit R
         6                          substituierte Doppelbindung zum
-        5-Stickstoff-Atom                          vorliegen.
+        5-Stickstoff-Atom vorliegen.
 
 
     k)  Der Rest X schließt folgende Substituenten ein:
 
         Sauerstoff, Schwefel, Imino- und N-Methyliminogruppen. Wenn R
+        3                         , R
+        4                          oder R
         5                          aus Wasserstoff besteht, können als
         tautomere Formen auch die entsprechenden Enole, Thioenole oder Enamine
         vorliegen.
@@ -1032,7 +1039,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-**4** Von N-(2-Aminocyclohexyl)amid abgeleitete Verbindungen ****
+**4.** Von N-(2-Aminocyclohexyl)amid abgeleitete Verbindungen ****
 
     Eine von N-(2-Aminocyclohexyl)amid abgeleitete Verbindung ist jede
     chemische Verbindung, die von der nachfolgend abgebildeten
@@ -1041,7 +1048,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     sein kann.
 
 
-    *        *            ![bgbl1_2021_j2231-1_0510.jpg](bgbl1_2021_j2231-1_0510.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0520.jpg](bgbl1_2022_j1552-1_0520.jpg)
 
 
 
@@ -1075,8 +1082,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     b)  R
         3                         :
 
-        Wasserstoff, Oxaspirogruppe (Ringgröße von zwei bis sieben
-        Kohlenstoffatomen).
+        Wasserstoff, Oxaspirogruppe (Ringgröße von drei bis acht Atomen
+        einschließlich des Sauerstoffatoms).
 
 
     c)  R
@@ -1092,7 +1099,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         Der Phenylring kann an den Positionen 2, 3, 4, 5 und 6 beliebige
         Kombinationen folgender Substituenten enthalten: Wasserstoff, Brom,
-        Chlor, Fluor, Iod.
+        Chlor, Fluor, Iod und Trifluormethyl.
 
         Ferner sind Stoffe eingeschlossen, bei denen R
         5                          und R
@@ -1111,7 +1118,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-**5** Von Tryptamin abgeleitete Verbindungen ****
+**5.** Von Tryptamin abgeleitete Verbindungen ****
 
 
 **5.1** **Indol-3-alkylamine**
@@ -1125,7 +1132,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     Metaboliten (z. B.: 6-Hydroxymelatonin).
 
 
-    *        *            ![bgbl1_2021_j2231-1_0520.jpg](bgbl1_2021_j2231-1_0520.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0530.jpg](bgbl1_2022_j1552-1_0530.jpg)
 
 
 
@@ -1141,8 +1148,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         2                         :
 
         Wasserstoff, Alkyl- (bis C
-        6                         ), Cycloalkyl- (bis C
-        6                         ), Cycloalkylmethyl- (bis C
+        6                         ), Cycloalkyl- (Ringgröße bis C
+        6                         ), Cycloalkylmethyl- (Ringgröße bis C
         6                         ) und Allylgruppen.
 
         Ferner sind Stoffe eingeschlossen, bei denen das Stickstoffatom
@@ -1166,8 +1173,17 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     d)  R
         5                         :
 
-        Wasserstoff, Alkylgruppe (bis C
-        3                         ).
+        Wasserstoff, Alkyl- (bis C
+        3                         ), Alkylcarbonyl- (bis C
+        10                         ), Cycloalkylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylmethylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylethylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylpropylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Benzylcarbonylgruppen.
 
 
     e)  R
@@ -1201,7 +1217,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     sein kann.
 
 
-    *        *            ![bgbl1_2021_j2231-1_0530.jpg](bgbl1_2021_j2231-1_0530.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0540.jpg](bgbl1_2022_j1552-1_0540.jpg)
 
 
 
@@ -1214,21 +1230,30 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
     a)  R
         1                         :
-
         Wasserstoff, Alkyl- (bis C
-        3                         ) und Cycloalkylcarbonyl- (Ringgröße C
+        8                         ), Cycloalkylmethyl- (Ringgröße C
         3                          bis C
-        6                         ), Cycloalkylmethyl- (Ringgröße C
+        6                         ), Cycloalkylethyl- (Ringgröße C
         3                          bis C
-        6                         ), Alkylcarbonyl (bis C
-        4                         )-Gruppen.
+        6                         ), Cycloalkylpropyl- (Ringgröße C
+        3                          bis C
+        6                         ), Alkylcarbonyl- (bis C
+        10                         ), Cycloalkylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylmethylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylethylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Cycloalkylpropylcarbonyl- (Ringgröße C
+        3                          bis C
+        6                         ), Benzylcarbonylgruppen.
 
 
     b)  R
         2                         :
 
         Wasserstoff, Alkyl- (bis C
-        4                         ), Allyl- und Prop-2-in-1-yl-Gruppen.
+        4                         ), Allyl- und Prop-2-in-1-ylgruppen.
 
 
     c)  R
@@ -1236,9 +1261,8 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         4                         :
 
         Wasserstoff, Alkyl- (bis C
-        5                         ), Cyclopropyl-, Allyl- und 1-Hydroxyalkyl
-        (bis C
-        2                         )-Gruppen.
+        5                         ), Cyclopropyl-, 1-Hydroxyalkyl- (bis C
+        2                         ) und Allylgruppen.
 
         Ferner sind Stoffe eingeschlossen, bei denen das Amid-Stickstoffatom
         Bestandteil eines Morpholino-, Pyrrolidino- oder Dimethylazetidid-
@@ -1248,7 +1272,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-**6** Von Arylcyclohexylamin abgeleitete Verbindung ****
+**6.** Von Arylcyclohexylamin abgeleitete Verbindungen ****
 
     Eine von Arylcyclohexylamin abgeleitete Verbindung ist jede chemische
     Verbindung, die von der nachfolgend abgebildeten Grundstruktur
@@ -1256,7 +1280,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     mit den nachfolgend beschriebenen Substituenten besetzt sein kann.
 
 
-    *        *            ![bgbl1_2021_j2231-1_0540.jpg](bgbl1_2021_j2231-1_0540.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0550.jpg](bgbl1_2022_j1552-1_0550.jpg)
 
 
 
@@ -1310,13 +1334,14 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         Die Ringsysteme können an jeder chemisch möglichen Position als R
         3                          an die Kernstruktur angebunden sein und an
         beliebiger Position mit folgenden Atomen oder Atomgruppen substituiert
-        sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Alkyl- (bis C
+        sein: Wasserstoff, Fluor, Chlor, Brom, Iod, Hydroxy-, Thiol-,
+        Alkyl-(bis C
         6                         ), Alkoxy- (bis C
         6                         ), Alkylsulfanyl- (bis C
         6                         ), Aminogruppen, einschließlich der
-        chemischen Verbindungen, bei denen Substitutionen zu Ringsystemen oder
-        einem Ringschluss mit dem Cyclohexylring führen. Diese Ringsysteme
-        dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
+        chemischen Verbindungen, bei denen Substitutionen oder eine direkte
+        Anbindung zu einem Ringschluss mit dem Cyclohexylring führen. Diese
+        Ringsysteme dürfen eine Ringgröße von vier bis sechs Atomen aufweisen.
 
 
     c)  R
@@ -1336,7 +1361,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-**7** Von Benzimidazol abgeleitete Verbindung ****
+**7.** Von Benzimidazol abgeleitete Verbindungen ****
 
     Eine von Benzimidazol abgeleitete Verbindung ist jede chemische
     Verbindung, die von der nachfolgend abgebildeten Grundstruktur
@@ -1344,7 +1369,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
     mit den nachfolgend beschriebenen Substituenten besetzt sein kann:
 
 
-    *        *            ![bgbl1_2021_j2231-1_0550.jpg](bgbl1_2021_j2231-1_0550.jpg)
+    *        *            ![bgbl1_2022_j1552-1_0560.jpg](bgbl1_2022_j1552-1_0560.jpg)
 
 
 
@@ -1360,7 +1385,7 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
         2                         :
 
         Wasserstoff, Alkylgruppen (bis C
-        3                         ),
+        3                         ).
 
         Ferner sind Stoffe eingeschlossen, bei denen das Amin-Stickstoffatom
         Bestandteil eines Morpholino-, Pyrrolidino- oder Piperidinyl-
@@ -1380,10 +1405,10 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
         Der Phenylring kann an den Positionen zwei bis sechs mit folgenden
         Atomen oder Atomgruppen substituiert sein: Wasserstoff, Alkyl- (bis C
-        4                         ), Alkoxy- (bis C
-        4                         ), Trifluormethoxy-, Acetoxy-,
+        6                         ), Alkoxy- (bis C
+        5                         ), Trifluormethoxy-, Acetoxy-,
         Alkylsulfanyl- (bis C
-        4                         ), Trifluormethyl-, Hydroxy-, Cyanogruppen,
+        5                         ), Trifluormethyl-, Hydroxy-, Cyanogruppen,
         Fluor, Chlor, Brom und Iod.
 
 
@@ -1392,9 +1417,3 @@ Salzen nur für den Molekülteil ausschließlich des Gegen-Ions.
 
 
 
-    Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
-    Parlaments und des Rates vom 9. September 2015 über ein
-    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
-    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
-    241 vom 17.9.2015, S. 1).
-[^F817073_01_BJNR261510016BJNE000803116]: 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2003 I 102;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 1 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 24 Abs. 3 G v. 25.6.2021 I 2154 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 Abs. 3 G v. 25.6.2021 I 2154
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -519,7 +516,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 
-(2) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen
+(2) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen
 Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger
 Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig,
 als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.11.1975 I 2803;
 
 Zuletzt geändert durch
-:   Art. 77 G v. 10.8.2021 I 3436
+:   Art. 9 G v. 19.6.2023 I Nr. 154
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -202,7 +202,7 @@ dieses Gesetzes abgeschlossen, so muss das Abschlusszeugnis
 gleichwertig sein.
 
 
-#### § 8a Anerkannte Hochschulausbildungsgänge; Rechtsverordnung
+#### § 8a Anerkannte Hochschulausbildungsgänge; Verordnungsermächtigung
 
 (1) Hochschulausbildungsgänge,
 
@@ -719,9 +719,9 @@ Betreuungsgericht auf Antrag der Wirtschaftsprüferkammer einen
 Betreuer als gesetzlichen Vertreter in dem Verfahren; die Vorschriften
 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit bei der Anordnung
-einer Betreuung nach den §§ 1896ff. des Bürgerlichen Gesetzbuches sind
-entsprechend anzuwenden. Zum Betreuer soll ein Berufsangehöriger oder
-eine Berufsangehörige bestellt werden.
+einer Betreuung nach den §§ 1814 bis 1881 des Bürgerlichen
+Gesetzbuches sind entsprechend anzuwenden. Zum Betreuer soll ein
+Berufsangehöriger oder eine Berufsangehörige bestellt werden.
 
 (7) Entfällt die aufschiebende Wirkung einer Anfechtungsklage, sind §
 116Abs. 2 bis 4, § 117 Abs. 2 und § 121 entsprechend anzuwenden. Die
@@ -803,17 +803,12 @@ vorliegen.
 
 #### § 27 Rechtsform
 
-(1) Europäische Gesellschaften, Gesellschaften nach deutschem Recht
-oder Gesellschaften in einer nach dem Recht eines Mitgliedstaats der
+Europäische Gesellschaften, Gesellschaften nach deutschem Recht oder
+Gesellschaften in einer nach dem Recht eines Mitgliedstaats der
 Europäischen Union oder eines Vertragsstaats des Abkommens über den
 Europäischen Wirtschaftsraum zulässigen Rechtsform können nach Maßgabe
 der Vorschriften dieses Abschnitts als
 Wirtschaftsprüfungsgesellschaften anerkannt werden.
-
-(2) Offene Handelsgesellschaften und Kommanditgesellschaften können
-als Wirtschaftsprüfungsgesellschaften anerkannt werden, wenn sie wegen
-ihrer Treuhandtätigkeit als Handelsgesellschaften in das
-Handelsregister eingetragen worden sind.
 
 
 #### § 28 Voraussetzungen für die Anerkennung
@@ -1053,8 +1048,8 @@ Wirtschaftsprüferkammer unverzüglich anzuzeigen.
     Vertretung und Geschäftsführung einer Wirtschaftsprüfungsgesellschaft
     aberkannt ist, es sei denn, daß die Wirtschaftsprüfungsgesellschaft
     der Wirtschaftsprüferkammer nachweist, daß jede Vertretungs- und
-    Geschäftsführungsbefugnis des Verurteilten unverzüglich widerrufen
-    oder entzogen ist.
+    Geschäftsführungsbefugnis der Person unverzüglich widerrufen oder
+    entzogen ist.
 
 
 
@@ -1097,43 +1092,46 @@ hinzuweisen.
 
 (3) Es übermitteln
 
-1.  die Wirtschaftsprüferkammer, Gerichte und Behörden Daten über
-    natürliche und juristische Personen, die aus der Sicht der
-    übermittelnden Stelle für die Zulassung zur oder die Durchführung der
-    Prüfung und Eignungsprüfung, für die Erteilung einer
-    Ausnahmegenehmigung nach § 28 Abs. 2 oder 3 oder für die Rücknahme
-    oder den Widerruf dieser Entscheidung erforderlich sind, an die für
-    die Entscheidung zuständige Stelle,
+1.  die Wirtschaftsprüferkammer, Gerichte und Behörden an die für die
+    Entscheidung zuständige Stelle: Diejenigen Daten über natürliche und
+    juristische Personen sowie rechtsfähige Personengesellschaften, deren
+    Kenntnis aus Sicht der übermittelnden Stelle für die Zulassung zur
+    oder die Durchführung der Prüfung oder Eignungsprüfung, für die
+    Erteilung einer Ausnahmegenehmigung nach § 28 Absatz 2 oder 3 oder für
+    die Rücknahme oder den Widerruf dieser Entscheidung erforderlich ist,
 
 
-2.  Gerichte und Behörden Daten über natürliche und juristische Personen,
-    die aus Sicht der übermittelnden Stelle für die Bestellung oder
-    Wiederbestellung, die Anerkennung oder die Rücknahme oder den Widerruf
-    dieser Entscheidung erforderlich sind oder die den Verdacht einer
-    Berufspflichtverletzung begründen können, an die
-    Wirtschaftsprüferkammer,
+2.  Gerichte und Behörden einschließlich der Berufskammern an die
+    Wirtschaftsprüferkammer oder die für die Entscheidung zuständige
+    Stelle: Diejenigen Daten über natürliche und juristische Personen
+    sowie rechtsfähige Personengesellschaften, deren Kenntnis aus Sicht
+    der übermittelnden Stelle für die Bestellung, die Wiederbestellung
+    oder die Anerkennung, für die Rücknahme oder den Widerruf einer
+    solchen Entscheidung oder für die Einleitung oder Durchführung eines
+    berufsaufsichtlichen Verfahrens erforderlich ist.
 
 
 
-soweit hierdurch schutzwürdige Interessen des oder der Betroffenen
-nicht beeinträchtigt werden oder das öffentliche Interesse das
-Geheimhaltungsinteresse der Beteiligten überwiegt. Die Übermittlung
-unterbleibt, wenn besondere gesetzliche Verwendungsregelungen
-entgegenstehen; dies gilt nicht für das Steuergeheimnis nach § 30 der
-Abgabenordnung, die Verschwiegenheitspflicht nach § 59c, die
-Verschwiegenheitspflicht der Organmitglieder, Beauftragten und
-Angestellten der Berufskammer eines anderen freien Berufs im
-Geltungsbereich dieses Gesetzes und die Verschwiegenheitspflicht der
-in § 9 Abs. 1 des Kreditwesengesetzes und in § 21 des
-Wertpapierhandelsgesetzes benannten Personen und Stellen.
 
-(4) Soweit natürliche oder juristische Personen Mitglieder einer
-Berufskammer eines anderen freien Berufs im Geltungsbereich dieses
-Gesetzes sind, darf die Wirtschaftsprüferkammer Daten im Sinne des
-Absatzes 3 und nach Maßgabe dieser Vorschrift auch an andere
-zuständige Stellen übermitteln, soweit ihre Kenntnis aus der Sicht der
-übermittelnden Stelle für die Verwirklichung der Rechtsfolge
-erforderlich ist.
+(4) Die Übermittlung nach Absatz 3 unterbleibt, soweit
+
+1.  sie schutzwürdige Interessen einer betroffenen Person beeinträchtigen
+    würde und das Informationsinteresse des Empfängers das Interesse der
+    betroffenen Person an dem Unterbleiben der Übermittlung nicht
+    überwiegt oder
+
+
+2.  besondere gesetzliche Verwendungsregelungen entgegenstehen.
+
+
+
+Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für
+eine Berufskammer eines freien Berufs im Geltungsbereich dieses
+Gesetzes tätigen Personen, für das Steuergeheimnis nach § 30 der
+Abgabenordnung und für die Verschwiegenheitspflichten der in § 66b
+Absatz 1 Satz 1 dieses Gesetzes, in § 9 Absatz 1 des
+Kreditwesengesetzes und in § 21 des Wertpapierhandelsgesetzes
+benannten Personen und Stellen.
 
 (5) Die Wirtschaftsprüferkammer darf personenbezogene Daten ihrer
 Mitglieder an die Versorgungswerke der Wirtschaftsprüfer und der
@@ -1562,10 +1560,11 @@ nach § 316a Satz 2 des Handelsgesetzbuchs war oder wer als
 verantwortlicher Prüfungspartner im Sinne der Sätze 3 oder 4 bei der
 Abschlussprüfung eines solchen Unternehmens tätig war, darf dort
 innerhalb von zwei Jahren nach der Beendigung der Prüfungstätigkeit
-keine wichtige Führungstätigkeit ausüben und nicht Mitglied des
+keine wichtige Führungstätigkeit ausüben, nicht als Mitglied des
 Aufsichtsrats, des Prüfungsausschusses des Aufsichtsrats oder des
-Verwaltungsrats sein. Satz 1 gilt mit der Maßgabe, dass die Frist ein
-Jahr beträgt, entsprechend für
+Verwaltungsrats tätig sein und sich nicht zur Übernahme einer der
+vorgenannten Tätigkeiten verpflichten. Satz 1 gilt mit der Maßgabe,
+dass die Frist ein Jahr beträgt, entsprechend für
 
 1.  Personen, die als Abschlussprüfer oder verantwortliche Prüfungspartner
     gesetzliche Abschlussprüfungen eines sonstigen Unternehmens
@@ -1684,8 +1683,9 @@ ihrer Bestellung.
 
 4.  als Vorstandsmitglieder, Geschäftsführer, persönlich haftende oder
     nach dem Partnerschaftsgesellschaftsgesetz verbundene Personen einer
-    Buchprüfungsgesellschaft, einer Rechtsanwaltsgesellschaft oder einer
-    Steuerberatungsgesellschaft,
+    Buchprüfungsgesellschaft, einer Berufsausübungsgesellschaft nach der
+    Bundesrechtsanwaltsordnung oder einer Berufsausübungsgesellschaft nach
+    dem Steuerberatungsgesetz,
 
 
 5.  als zeichnungsberechtigte Vertreter oder zeichnungsberechtigte
@@ -1715,9 +1715,8 @@ ihrer Bestellung.
 
 9.  als Angestellte einer
 
-    a)  nach § 342 Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der
-        Justiz und für Verbraucherschutz durch Vertrag anerkannten Einrichtung
-        oder
+    a)  nach § 342q Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der
+        Justiz durch Vertrag anerkannten Einrichtung oder
 
 
     b)  nicht gewerblich tätigen Personenvereinigung,
@@ -1864,12 +1863,7 @@ Berufsaufsicht einer Berufskammer eines freien Berufes im
 Geltungsbereich dieses Gesetzes unterliegen und ein
 Zeugnisverweigerungsrecht nach § 53 Abs. 1 Satz 1 Nr. 3 der
 Strafprozessordnung haben, örtlich und überörtlich in
-Personengesellschaften gemeinsam ausüben. Mit Rechtsanwälten, die
-zugleich Notare sind, darf eine solche Personengesellschaft nur
-bezogen auf die anwaltliche Berufsausübung eingegangen werden. Im
-Übrigen richtet sich die Verbindung mit Rechtsanwälten, die zugleich
-Notare sind, nach den Bestimmungen und Anforderungen des notariellen
-Berufsrechts.
+Personengesellschaften gemeinsam ausüben.
 
 (2) Eine gemeinsame Berufsausübung mit natürlichen und juristischen
 Personen sowie mit Personengesellschaften, die in einem ausländischen
@@ -2634,7 +2628,7 @@ zu überwachen.
 
 11. die Vorschlagsliste der ehrenamtlichen Beisitzer bei den
     Berufsgerichten den Landesjustizverwaltungen und dem Bundesministerium
-    der Justiz und für Verbraucherschutz einzureichen;
+    der Justiz einzureichen;
 
 
 12. das Berufsregister zu führen;
@@ -2837,18 +2831,18 @@ Wirtschaftsprüferkammer lehnt es ab, auf eine Anfrage eigene
 Ermittlungen durchzuführen, wenn
 
 1.  aufgrund derselben Handlung und gegen dieselbe Person in Deutschland
-    bereits ein berufsgerichtliches Verfahren anhängig ist oder
+    bereits ein berufsaufsichtliches Verfahren anhängig ist oder
 
 
 2.  gegen die betreffende Person aufgrund derselben Handlung in
-    Deutschland bereits ein rechtskräftiges Urteil ergangen ist.
+    Deutschland bereits eine rechtskräftige Entscheidung ergangen ist.
 
 
 
 Macht die Wirtschaftsprüferkammer von ihrem Recht nach Satz 3
 Gebrauch, so teilt sie dies unverzüglich der ersuchenden Stelle unter
 Angabe der Gründe mit und übermittelt genaue Informationen über das
-berufsgerichtliche Verfahren oder das rechtskräftige Urteil.
+berufsaufsichtliche Verfahren oder die rechtskräftige Entscheidung.
 
 (7) Die Wirtschaftsprüferkammer darf Informationen, einschließlich
 personenbezogener Daten, an die in Absatz 6 Satz 1 genannten Stellen
@@ -3202,18 +3196,17 @@ der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung
 einzuhalten. § 57 Absatz 3a gilt entsprechend. Die Satzung und deren
 Änderungen bedürfen zu ihrer Wirksamkeit der Genehmigung des
 Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem
-Bundesministerium der Justiz und für Verbraucherschutz. Das
-Bundesministerium für Wirtschaft und Energie hat bei der Genehmigung
-zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils
-geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm die
-Wirtschaftsprüferkammer die Unterlagen zuzuleiten, aus denen sich die
-Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu
-übermitteln, auf Grund derer der Beirat der Wirtschaftsprüferkammer
-die Satzung oder deren Änderungen als gerechtfertigt, notwendig und
-verhältnismäßig beurteilt hat. Nach der Genehmigung sind die Satzung
-und deren Änderungen unter Angabe des Datums ihres Inkrafttretens
-dauerhaft auf der Internetseite der Wirtschaftsprüferkammer zu
-veröffentlichen.
+Bundesministerium der Justiz. Das Bundesministerium für Wirtschaft und
+Energie hat bei der Genehmigung zu prüfen, ob die Vorgaben der
+Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten
+wurden. Zu diesem Zweck hat ihm die Wirtschaftsprüferkammer die
+Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben
+ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer
+der Beirat der Wirtschaftsprüferkammer die Satzung oder deren
+Änderungen als gerechtfertigt, notwendig und verhältnismäßig beurteilt
+hat. Nach der Genehmigung sind die Satzung und deren Änderungen unter
+Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite
+der Wirtschaftsprüferkammer zu veröffentlichen.
 
 (2) Die Satzung für Qualitätskontrolle hat im Rahmen der Vorschriften
 dieses Gesetzes näher zu regeln:
@@ -3440,7 +3433,7 @@ Geschäftsführer oder persönlich haftende Gesellschafter von
 Wirtschaftsprüfungsgesellschaften, die nicht Wirtschaftsprüfer sind,
 sowie die anerkannten Wirtschaftsprüfungsgesellschaften. Für
 beurlaubte Wirtschaftsprüfer ruht die Mitgliedschaft während der Dauer
-ihrer Beurlaubung. Sie bleiben der Berufsgerichtsbarkeit unterworfen.
+ihrer Beurlaubung. Sie bleiben der Berufsaufsicht unterworfen.
 
 (2) Die genossenschaftlichen Prüfungsverbände, die Sparkassen- und
 Giroverbände für ihre Prüfungsstellen sowie die überörtlichen
@@ -3655,14 +3648,11 @@ Verschwiegenheitspflicht gilt nicht für Tatsachen,
 
 3.  Mitglieder der Wirtschaftsprüferkammer, die
 
-    a)  im Verfahren nach § 62 zur Anhörung geladen werden,
+    a)  im Verfahren nach § 62 zur Anhörung geladen werden oder
 
 
     b)  im Rahmen einer Aufsichts- oder Beschwerdesache oder eines
-        Widerrufsverfahrens um Auskunft gebeten werden oder
-
-
-    c)  an einer nichtöffentlichen Verhandlung nach § 99 teilgenommen haben.
+        Widerrufsverfahrens um Auskunft gebeten werden.
 
 
 
@@ -3682,8 +3672,9 @@ Personen in Fällen von öffentlichem Interesse, die mögliche
 Pflichtverletzungen im Zusammenhang mit gesetzlichen
 Abschlussprüfungen betreffen, auf Anfrage darüber Auskunft geben, ob
 berufsaufsichtliche Verfahren eingeleitet wurden und ob diese noch
-andauern oder bereits abgeschlossen wurden. Die Auskunft darf keine
-personenbezogenen Daten enthalten. § 69 bleibt unberührt.
+andauern oder bereits abgeschlossen wurden. Die Auskunft darf auch
+Informationen zur Art des Abschlusses und der getroffenen Maßnahmen,
+jedoch keine personenbezogenen Daten enthalten. § 69 bleibt unberührt.
 
 (4) In Verfahren vor Gerichten und Behörden dürfen die in den Absätzen
 1 und 2 Satz 1 Nummer 1 und 2 genannten Personen über Angelegenheiten,
@@ -4027,7 +4018,7 @@ Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach §
     sonstigen Umständen konkrete Anhaltspunkte für Verstöße gegen
     Berufspflichten bei der Durchführung von gesetzlich vorgeschriebenen
     Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach §
-    319a Absatz 1 Satz 1 des Handelsgesetzbuchs ergeben,
+    316a Satz 2 des Handelsgesetzbuchs ergeben,
 
 
 3.  aufgrund von Mitteilungen, der Bundesanstalt für
@@ -4075,9 +4066,12 @@ Arbeitsprogramm und einen Tätigkeitsbericht.
 tätig sind, Mitglieder des bei ihr eingerichteten Fachbeirats und
 sonstige von ihr Beauftragte sind zur Verschwiegenheit verpflichtet;
 die Artikel 31 bis 34 der Verordnung (EU) Nr. 537/2014 und § 66c
-Absatz 4 und 6 bleiben unberührt. Die §§ 59c und 64 gelten sinngemäß;
-eine erforderliche Genehmigung nach § 59c Absatz 4 erteilt das
-Bundesministerium für Wirtschaft und Energie.
+Absatz 4 und 6 bleiben unberührt. Die §§ 59c und 64 gelten sinngemäß.
+In den Fällen des § 59c Absatz 3 Satz 2 darf auch darüber Auskunft
+gegeben werden, ob eine der betroffenen Abschlussprüfungen Gegenstand
+eines Inspektionsverfahrens nach § 62b ist oder war. Eine
+erforderliche Ausnahmegenehmigung nach § 59c Absatz 4 erteilt das
+Bundesministerium für Wirtschaft und Klimaschutz.
 
 (2) Die in Absatz 1 Satz 1 genannten Personen dürfen, auch nach
 Beendigung ihrer Tätigkeit, ein fremdes Geheimnis, namentlich ein
@@ -4222,8 +4216,9 @@ Berufsaufsichtliche Maßnahmen sind:
 1.  Rüge,
 
 
-2.  Geldbuße bis zu 500 000 Euro, bei einer berufsaufsichtlichen Maßnahme
-    gegen eine Wirtschaftsprüfungsgesellschaft bis zu einer Million Euro,
+2.  Geldbuße bis zu fünfhunderttausend Euro, bei einer
+    berufsaufsichtlichen Maßnahme gegen eine
+    Wirtschaftsprüfungsgesellschaft bis zu einer Million Euro,
 
 
 3.  Verbot, auf bestimmten Tätigkeitsgebieten für die Dauer von einem Jahr
@@ -4243,8 +4238,8 @@ Berufsaufsichtliche Maßnahmen sind:
 
 7.  Feststellung, dass der Bestätigungsvermerk nicht die Anforderungen des
     § 322 des Handelsgesetzbuchs und, soweit Unternehmen von öffentlichem
-    Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs betroffen
-    sind, des Artikels 10 der Verordnung (EU) Nr. 537/2014 erfüllt.
+    Interesse nach § 316a Satz 2 des Handelsgesetzbuchs betroffen sind,
+    des Artikels 10 der Verordnung (EU) Nr. 537/2014 erfüllt.
 
 
 
@@ -4439,57 +4434,85 @@ Beschwerdeführer mitzuteilen. Die Mitteilung ist nicht anfechtbar.
 
 ### § 69a Anderweitige Ahndung
 
-(1) Ist durch ein Gericht oder eine Behörde eine Strafe, eine
-Disziplinarmaßnahme, eine anderweitige berufsgerichtliche Maßnahme
-oder eine Ordnungsmaßnahme verhängt worden, so ist von einer
-berufsaufsichtlichen Ahndung wegen desselben Verhaltens abzusehen,
-wenn nicht eine berufsaufsichtliche Maßnahme zusätzlich erforderlich
-ist, um den Berufsangehörigen oder die Berufsangehörige zur Erfüllung
-seiner oder ihrer Pflichten anzuhalten und das Ansehen des Berufs zu
-wahren. Einer Maßnahme nach § 68 Absatz 1 Satz 2 Nummer 3 bis 6 steht
-eine anderweitig verhängte Strafe oder Maßnahme nicht entgegen.
+(1) Von einer berufsaufsichtlichen Ahndung ist abzusehen, wenn
+
+1.  durch ein Gericht oder eine Behörde wegen desselben Verhaltens bereits
+    eine Strafe, eine Geldbuße nach dem Gesetz über Ordnungswidrigkeiten
+    oder eine berufsaufsichtliche Maßnahme verhängt worden ist oder
+
+
+2.  das Verhalten nach § 153a Absatz 1 Satz 5, auch in Verbindung mit
+    Absatz 2 Satz 2, der Strafprozessordnung nicht mehr als Vergehen
+    verfolgt werden kann.
+
+
+
+Satz 1 gilt nicht, wenn eine berufsaufsichtliche Maßnahme zusätzlich
+erforderlich ist, um den Berufsangehörigen zur Erfüllung seiner
+Pflichten anzuhalten. Die Erforderlichkeit einer Maßnahme nach § 68
+Absatz 1 Satz 2 Nummer 3 bis 6 bleibt durch eine anderweitige Ahndung
+unberührt.
 
 (2) § 83 gilt sinngemäß.
 
-(3) Über Pflichtverletzungen von Berufsangehörigen, die zugleich der
-Disziplinar- oder Berufsgerichtsbarkeit eines anderen Berufs
-unterstehen, wird im berufsaufsichtlichen Verfahren dann nicht
-entschieden, wenn die Pflichtverletzung überwiegend mit der Ausübung
-des anderen Berufs im Zusammenhang steht. Dies gilt nicht, wenn wegen
-der Schwere der Pflichtverletzung die Verhängung einer Maßnahme nach §
-68 Absatz 1 Satz 2 Nummer 3 bis 6 in Betracht kommt.
+(3) Über eine Pflichtverletzung eines Berufsangehörigen, die zugleich
+Pflichten eines anderen Berufs verletzt, dessen Berufsaufsicht er
+untersteht, ist zunächst im berufsaufsichtlichen Verfahren nach diesem
+Gesetz zu entscheiden, wenn die Pflichtverletzung überwiegend mit dem
+nach diesem Gesetz ausgeübten Beruf des Berufsangehörigen in
+Zusammenhang steht. Ist kein Schwerpunkt der Pflichtverletzung
+erkennbar oder besteht kein Zusammenhang der Pflichtverletzung mit der
+Ausübung eines Berufs, ist zunächst im berufsaufsichtlichen Verfahren
+nach diesem Gesetz zu entscheiden, wenn der Berufsangehörige
+hauptsächlich in dem nach diesem Gesetz ausgeübten Beruf tätig ist.
 
-(4) Die Wirtschaftsprüferkammer und die Abschlussprüferaufsichtsstelle
-sowie die für die Einleitung anderer disziplinar- oder
-berufsgerichtlicher Verfahren zuständigen Stellen unterrichten sich
-gegenseitig über die Einleitung von Verfahren gegen Berufsangehörige,
-die zugleich der Disziplinar- oder Berufsgerichtsbarkeit eines anderen
-Berufs unterstehen. Hat sich das Gericht einer Disziplinar- oder
-Berufsgerichtsbarkeit zuvor rechtskräftig für zuständig oder
-unzuständig erklärt, über die Pflichtverletzung eines oder einer
-Berufsangehörigen, der oder die zugleich der Disziplinar- oder
-Berufsgerichtsbarkeit eines anderen Berufs untersteht, zu entscheiden,
-so sind die anderen Gerichte an diese Entscheidung gebunden.
+(4) Kommt eine Maßnahme nach § 68 Absatz 1 Satz 2 Nummer 3 bis 6 in
+Betracht, ist stets im berufsaufsichtlichen Verfahren nach diesem
+Gesetz zu entscheiden.
 
-(5) Die Absätze 3 bis 4 sind auf Berufsangehörige, die in einem
-öffentlich-rechtlichen Dienst- oder Amtsverhältnis stehen und ihren
-Beruf als Wirtschaftsprüfer nicht ausüben dürfen (§ 44a), nicht
-anzuwenden.
+(5) Gegenstand der Entscheidung im berufsaufsichtlichen Verfahren nach
+diesem Gesetz ist nur die Verletzung der dem Berufsangehörigen nach
+diesem Gesetz obliegenden Pflichten.
 
 
-### § 70 Verjährung der Verfolgung einer Pflichtverletzung
+### § 70 Verjährung von Pflichtverletzungen
 
-(1) Die Verfolgung einer Pflichtverletzung, die nicht eine Maßnahme
-gemäß § 68 Absatz 1 Satz 2 Nummer 3 bis 6 rechtfertigt, verjährt in
-fünf Jahren. § 78 Abs. 1, § 78a Satz 1 sowie die §§ 78b und 78c Abs. 1
-bis 4 des Strafgesetzbuches gelten entsprechend; der Vernehmung nach §
-78c Abs. 1 Satz 1 Nr. 1 des Strafgesetzbuchs steht die erste Anhörung
-durch die Wirtschaftsprüferkammer (§ 68 Absatz 4 Satz 1) oder die
+(1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
+Abweichend davon verjährt sie
+
+1.  nach zehn Jahren, wenn die Pflichtverletzung eine Maßnahme nach § 68
+    Absatz 1 Satz 2 Nummer 3 bis 5 rechtfertigt,
+
+
+2.  nach 20 Jahren, wenn die Pflichtverletzung eine Maßnahme nach § 68
+    Absatz 1 Satz 2 Nummer 6 rechtfertigt.
+
+
+
+Die Verjährung beginnt, sobald die Tat beendet ist.
+
+(2) Für das Ruhen der Verjährung gilt § 78b Absatz 1 bis 3 des
+Strafgesetzbuches entsprechend. Die Verjährung ruht zudem für die
+Dauer
+
+1.  eines wegen desselben Verhaltens eingeleiteten Straf- oder
+    Bußgeldverfahrens,
+
+
+2.  eines wegen desselben Verhaltens eingeleiteten vorrangigen
+    berufsaufsichtlichen Verfahrens und
+
+
+3.  einer Aussetzung des Verfahrens nach § 83b Nummer 2 oder 3.
+
+
+
+
+(3) Für die Unterbrechung der Verjährung gilt § 78c Absatz 1 bis 4 des
+Strafgesetzbuches entsprechend. Der Vernehmung nach § 78c Absatz 1
+Satz 1 Nummer 1 des Strafgesetzbuches steht die erste Anhörung durch
+die Wirtschaftsprüferkammer (§ 68 Absatz 4 Satz 1) oder die
 Abschlussprüferaufsichtsstelle gleich.
-
-(2) Ist vor Ablauf der Verjährungsfrist nach Absatz 1 Satz 1 wegen
-desselben Sachverhalts ein Strafverfahren eingeleitet worden, ist der
-Ablauf der Verjährungsfrist für die Dauer des Strafverfahrens gehemmt.
 
 
 ### § 71 Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind, und Wirtschaftsprüfungsgesellschaften
@@ -4569,7 +4592,12 @@ ihren Sitz hat.
 (2) Die Kammer für Wirtschaftsprüfersachen entscheidet außerhalb der
 Hauptverhandlung in der Besetzung von drei Mitgliedern mit Einschluß
 des Vorsitzenden. In der Hauptverhandlung ist sie mit dem Vorsitzenden
-und zwei Berufsangehörigen als Beisitzern besetzt.
+und zwei Berufsangehörigen als Beisitzern besetzt. Abweichend von Satz
+2 beschließt die Kammer bis zur Anberaumung der Hauptverhandlung für
+diese eine Besetzung mit drei Richtern mit Einschluss des Vorsitzenden
+und zweier Berufsangehöriger als Beisitzer, wenn dies nach dem Umfang,
+der Schwierigkeit oder der besonderen Bedeutung des Falles
+erforderlich erscheint. Der Beschluss ist unanfechtbar.
 
 
 #### § 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
@@ -4603,29 +4631,28 @@ ehrenamtliche Richter.
 
 (2) Die ehrenamtlichen Richter werden für die Gerichte des ersten und
 zweiten Rechtszuges von der Landesjustizverwaltung und für den
-Bundesgerichtshof von dem Bundesministerium der Justiz und für
-Verbraucherschutz auf die Dauer von fünf Jahren berufen. Sie können
-nach Ablauf ihrer Amtszeit wieder berufen werden.
+Bundesgerichtshof von dem Bundesministerium der Justiz auf die Dauer
+von fünf Jahren berufen. Sie können nach Ablauf ihrer Amtszeit wieder
+berufen werden.
 
 (3) Die ehrenamtlichen Richter werden den Vorschlagslisten entnommen,
 die der Vorstand der Wirtschaftsprüferkammer im Einvernehmen mit der
 Abschlussprüferaufsichtsstelle der Landesjustizverwaltung für die
 Gerichte des ersten und zweiten Rechtszuges und dem Bundesministerium
-der Justiz und für Verbraucherschutz für den Bundesgerichtshof
-einreicht. Die Landesjustizverwaltung und das Bundesministerium der
-Justiz und für Verbraucherschutz bestimmen, welche Zahl von Beisitzern
-für jedes Gericht erforderlich ist; sie haben vorher den Vorstand der
-Wirtschaftsprüferkammer zu hören. Jede Vorschlagsliste soll mindestens
-die doppelte Zahl der zu berufenden Berufsangehörigen enthalten.
+der Justiz für den Bundesgerichtshof einreicht. Die
+Landesjustizverwaltung und das Bundesministerium der Justiz bestimmen,
+welche Zahl von Beisitzern für jedes Gericht erforderlich ist; sie
+haben vorher den Vorstand der Wirtschaftsprüferkammer zu hören. Jede
+Vorschlagsliste soll mindestens die doppelte Zahl der zu berufenden
+Berufsangehörigen enthalten.
 
 (4) Scheidet ein ehrenamtlicher Richter vorzeitig aus, so wird für den
 Rest seiner Amtszeit ein Nachfolger berufen.
 
 (5) Die Landesjustizverwaltung und das Bundesministerium der Justiz
-und für Verbraucherschutz können einen von ihnen berufenen
-ehrenamtlichen Richter auf seinen Antrag aus dem Amt entlassen, wenn
-er aus gesundheitlichen Gründen auf nicht absehbare Zeit gehindert
-ist, sein Amt ordnungsgemäß auszuüben.
+können einen von ihnen berufenen ehrenamtlichen Richter auf seinen
+Antrag aus dem Amt entlassen, wenn er aus gesundheitlichen Gründen auf
+nicht absehbare Zeit gehindert ist, sein Amt ordnungsgemäß auszuüben.
 
 (6) Das Amt eines ehrenamtlichen Richters, der zum ehrenamtlichen
 Richter bei einem Gericht des höheren Rechtszuges berufen wird, endet
@@ -4681,9 +4708,9 @@ die ihn berufen hat, seines Amtes zu entheben,
 
 (2) Über den Antrag der Landesjustizverwaltung entscheidet ein
 Zivilsenat des Oberlandesgerichts, über den Antrag des
-Bundesministeriums der Justiz und für Verbraucherschutz ein Zivilsenat
-des Bundesgerichtshofes. Bei der Entscheidung dürfen die Mitglieder
-der Senate für Wirtschaftsprüfersachen nicht mitwirken.
+Bundesministeriums der Justiz ein Zivilsenat des Bundesgerichtshofes.
+Bei der Entscheidung dürfen die Mitglieder der Senate für
+Wirtschaftsprüfersachen nicht mitwirken.
 
 (3) Vor der Entscheidung ist der ehrenamtliche Richter zu hören. Die
 Entscheidung ist endgültig.
@@ -4763,15 +4790,15 @@ Strafprozessordnung ist insoweit entsprechend anzuwenden.
 
 (2) Der Wirtschaftsprüferkammer und der Abschlussprüferaufsichtsstelle
 sind Ort und Zeit der Hauptverhandlung mitzuteilen; die von dort
-entsandten Personen erhalten auf Verlangen das Wort. § 99 Absatz 2
-Satz 1 bleibt unberührt. Einstellungen nach den §§ 153 bis 153b und
-154 der Strafprozessordnung bedürfen zusätzlich der Zustimmung der
-Abschlussprüferaufsichtsstelle. Entsprechendes gilt für den Fall, dass
-nach § 154a der Strafprozessordnung von der Verfolgung von Teilen
-einer Tat abgesehen werden soll. Erfolgt die Einstellung oder das
-Absehen von der Verfolgung in der Hauptverhandlung, gelten die Sätze 3
-und 4 nur, wenn ein Vertreter der Abschlussprüferaufsichtsstelle an
-der Hauptverhandlung teilnimmt.
+entsandten Personen erhalten auf Verlangen das Wort. Einstellungen
+nach den §§ 153 bis 153b und 154 der Strafprozessordnung bedürfen
+zusätzlich der Zustimmung der Abschlussprüferaufsichtsstelle.
+Entsprechendes gilt für den Fall, dass nach § 154a der
+Strafprozessordnung von der Verfolgung von Teilen einer Tat abgesehen
+werden soll. Erfolgt die Einstellung oder das Absehen von der
+Verfolgung in der Hauptverhandlung, gelten die Sätze 3 und 4 nur, wenn
+ein Vertreter der Abschlussprüferaufsichtsstelle an der
+Hauptverhandlung teilnimmt.
 
 
 ##### § 83 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
@@ -4892,26 +4919,8 @@ in der Ladung darauf hingewiesen wurde, dass in ihrer Abwesenheit
 verhandelt werden kann. Eine öffentliche Ladung ist nicht zulässig.
 
 
-##### § 99 Nichtöffentliche Hauptverhandlung
+##### § 99 (weggefallen)
 
-(1) Die Hauptverhandlung ist nicht öffentlich. Auf Antrag der
-Staatsanwaltschaft kann, auf Antrag der betroffenen Berufsangehörigen
-muss die Öffentlichkeit hergestellt werden. Ferner ist die
-Hauptverhandlung immer dann öffentlich, wenn die vorgeworfene
-Pflichtverletzung im Zusammenhang mit der Durchführung einer Prüfung
-nach § 316 des Handelsgesetzbuchs steht. In den Fällen einer
-öffentlichen Verhandlung nach Satz 2 oder 3 sind die Vorschriften des
-Gerichtsverfassungsgesetzes über die Öffentlichkeit sinngemäß
-anzuwenden.
-
-(2) Zu nichtöffentlichen Verhandlungen ist Vertretern der
-Landesjustizverwaltung, dem Präsidenten des Oberlandesgerichts oder
-seinem Beauftragten, den Beamten der Staatsanwaltschaft bei dem
-Oberlandesgericht, Vertretern des Bundesministeriums für Wirtschaft
-und Energie, Vertretern der Abschlussprüferaufsichtsstelle, Vertretern
-der Wirtschaftsprüferkammer und den Wirtschaftsprüfern der Zutritt
-gestattet. Die Kammer für Wirtschaftsprüfersachen kann nach Anhörung
-der Beteiligten auch andere Personen als Zuhörer zulassen.
 
 
 ##### § 100 (weggefallen)
@@ -5006,9 +5015,10 @@ die Frist mit der Zustellung.
 
 (3) Die Berufung kann nur schriftlich gerechtfertigt werden.
 
-(4) Auf das Verfahren sind im übrigen neben den Vorschriften der
-Strafprozeßordnung über die Berufung die §§ 98 bis 103 dieses Gesetzes
-sinngemäß anzuwenden.
+(4) Die §§ 98 und 101 bis 103 sind auf das Berufungsverfahren
+sinngemäß anzuwenden; hierbei lässt die sinngemäße Anwendung des § 98
+die sinngemäße Anwendung des § 329 Absatz 1 der Strafprozessordnung
+unberührt.
 
 
 ##### § 106 Mitwirkung der Staatsanwaltschaft vor dem Senat für Wirtschaftsprüfersachen
@@ -5070,12 +5080,10 @@ Zustellung.
 (2) Berufsangehörige können die Revisionsanträge und deren Begründung
 nur schriftlich anbringen.
 
-(3) Auf das Verfahren vor dem Bundesgerichtshof sind im übrigen neben
-den Vorschriften der Strafprozeßordnung über die Revision § 99 und §
-103 Abs. 3 dieses Gesetzes sinngemäß anzuwenden. In den Fällen des §
-354 Abs. 2 der Strafprozeßordnung ist an den nach § 73 zuständigen
-Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
-zurückzuverweisen.
+(3) § 103 Absatz 3 ist auf das Verfahren vor dem Bundesgerichtshof
+sinngemäß anzuwenden. In den Fällen des § 354 Absatz 2 der
+Strafprozessordnung ist an den nach § 73 zuständigen Senat für
+Wirtschaftsprüfersachen beim Oberlandesgericht zurückzuverweisen.
 
 
 ##### § 108 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
@@ -5326,7 +5334,7 @@ sie durch Beschluss eine vorläufige Untersagung ausgesprochen werden.
 sinngemäß.
 
 
-### Vierter Abschnitt - Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten; Tilgung
+### Vierter Abschnitt - Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten; Tilgung
 
 
 
@@ -5382,7 +5390,7 @@ Staatskasse zur Last.
 
 
 
-#### § 126 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten
+#### § 126 Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten
 
 (1) Die Ausschließung aus dem Beruf wird mit der Unanfechtbarkeit der
 Entscheidung über die berufsaufsichtliche Maßnahme wirksam.
@@ -5398,46 +5406,85 @@ Vollstreckung der Geldbuße.
 
 #### § 126a Tilgung
 
-(1) Eintragungen in den über Berufsangehörige geführten Akten über
-berufsaufsichtliche Maßnahmen nach § 68 Absatz 1 Satz 2 sind nach zehn
-Jahren zu tilgen. Die Frist beträgt nur fünf Jahre für
+(1) Eintragungen in den über Berufsangehörige geführten Akten über die
+in den Sätzen 4 und 5 genannten Maßnahmen und Entscheidungen sind nach
+Ablauf der dort bestimmten Fristen zu tilgen. Dabei sind die über
+diese Maßnahmen und Entscheidungen entstandenen Vorgänge aus den Akten
+zu entfernen und zu vernichten. Die Sätze 1 und 2 gelten sinngemäß,
+wenn die Akten über Berufsangehörige elektronisch geführt werden. Die
+Fristen betragen
 
-1.  Rügen nach § 68 Absatz 1 Satz 2 Nummer 1,
+1.  fünf Jahre bei
+
+    a)  Rügen,
 
 
-2.  Geldbußen nach § 68 Absatz 1 Satz 2 Nummer 2 bis zu 10 000 Euro und
+    b)  Belehrungen,
 
 
-3.  Feststellungen nach § 68 Absatz 1 Satz 2 Nummer 7.
+    c)  Geldbußen nach § 68 Absatz 1 Satz 2 Nummer 2 bis zu zehntausend Euro,
+
+
+    d)  Feststellungen nach § 68 Absatz 1 Satz 2 Nummer 7,
+
+
+    e)  Entscheidungen in Verfahren wegen der Verletzung von Berufspflichten
+        nach diesem Gesetz, die nicht zu einer Maßnahme nach § 68 Absatz 1
+        Satz 2 geführt haben,
+
+
+    f)  Entscheidungen und nicht Satz 5 unterfallende Maßnahmen in Verfahren
+        wegen Straftaten oder Ordnungswidrigkeiten oder in
+        berufsaufsichtlichen Verfahren anderer Berufe;
 
 
 
-Die über berufsaufsichtliche Maßnahmen entstandenen Vorgänge sind bei
-Fristablauf aus den über Berufsangehörige geführten Akten zu entfernen
-und zu vernichten. Nach Ablauf der Frist dürfen diese Maßnahmen bei
-weiteren berufsaufsichtlichen Maßnahmen nicht mehr berücksichtigt
-werden.
 
-(2) Die Frist beginnt mit dem Tag, an dem die berufsaufsichtliche
-Maßnahme unanfechtbar geworden ist. Für die Entfernung und Vernichtung
-beginnt die Frist mit dem auf das Jahr, in dem die berufsaufsichtliche
-Maßnahme unanfechtbar geworden ist, folgenden Jahr.
 
-(3) Die Frist endet nicht, solange gegen die Berufsangehörigen ein
-Strafverfahren, ein berufsaufsichtliches Verfahren oder ein
-Disziplinarverfahren schwebt, eine andere berufsaufsichtliche Maßnahme
-berücksichtigt werden darf oder ein auf Geldbuße lautendes Urteil noch
-nicht vollstreckt ist.
+2.  zehn Jahre bei Geldbußen nach § 68 Absatz 1 Satz 2 Nummer 2 über
+    zehntausend Euro und Verboten nach § 68 Absatz 1 Satz 2 Nummer 3 und
+    4;
 
-(4) Nach Ablauf der Frist gelten Berufsangehörige als von
-berufsaufsichtlichen Maßnahmen nicht betroffen.
 
-(5) Eintragungen über strafgerichtliche Verurteilungen oder über
-andere Entscheidungen in Verfahren wegen Straftaten,
-Ordnungswidrigkeiten oder der Verletzung von Berufspflichten, die
-nicht zu einer berufsaufsichtlichen Maßnahme geführt haben, sowie über
-Belehrungen der Wirtschaftsprüferkammer sind nach fünf Jahren zu
-tilgen. Absatz 1 Satz 3 und die Absätze 2 und 3 gelten entsprechend.
+3.  20 Jahre bei Berufsverboten nach § 68 Absatz 1 Satz 2 Nummer 5 und bei
+    einer Ausschließung aus dem Beruf, nach der eine Wiederbestellung
+    erfolgt ist.
+
+
+
+Für Maßnahmen, die in Verfahren wegen Straftaten oder
+Ordnungswidrigkeiten oder in berufsaufsichtlichen Verfahren anderer
+Berufe getroffen wurden und bei denen das zugrundeliegende Verhalten
+zugleich die Berufspflichten nach diesem Gesetz verletzt hat, gelten
+die für die Tilgung der jeweiligen Maßnahmen geltenden Fristen
+entsprechend.
+
+(2) Die Frist beginnt mit dem Tag, an dem die Maßnahme oder
+Entscheidung unanfechtbar geworden ist. Im Fall der Wiederbestellung
+nach einer Ausschließung beginnt die Frist mit der Wiederbestellung.
+Nach Fristablauf kann die Entfernung und Vernichtung nach Absatz 1
+Satz 2 bis zum Ende des Kalenderjahres aufgeschoben werden.
+
+(3) Die Frist endet mit Ausnahme der Fälle des Absatzes 1 Satz 4
+Nummer 1 Buchstabe e und f nicht, solange
+
+1.  eine andere Eintragung über eine strafrechtliche Verurteilung, eine
+    Ordnungswidrigkeit oder eine berufsaufsichtliche Maßnahme
+    berücksichtigt werden darf,
+
+
+2.  ein Verfahren anhängig ist, das eine in Nummer 1 bezeichnete
+    Eintragung zur Folge haben kann, oder
+
+
+3.  eine Geldbuße nach § 68 Absatz 1 Satz 2 Nummer 2 noch nicht
+    vollstreckt ist.
+
+
+
+
+(4) Nach Ablauf der Frist gelten Berufsangehörige als von den
+Maßnahmen oder Entscheidungen nach Absatz 1 nicht betroffen.
 
 
 ### Fünfter Abschnitt - Anzuwendende Vorschriften
@@ -6365,8 +6412,8 @@ Verfahren über den Antrag auf Aufhebung eines
 
 *    *   310
 
-    *   Revisionsverfahren mit Urteil oder mit Beschluss nach § 107a Abs. 3
-        Satz 1 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO ..........
+    *   Revisionsverfahren mit Urteil oder mit Beschluss nach § 127 WPO i. V.
+        m. § 349 Abs. 2 oder Abs. 4 StPO ..........
 
     *   2,0
 
@@ -6374,7 +6421,7 @@ Verfahren über den Antrag auf Aufhebung eines
 *    *   311
 
     *   Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach
-        § 107a Abs. 3 Satz 1 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
+        § 127 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
 
     *   1,0
 

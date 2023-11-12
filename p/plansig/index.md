@@ -18,8 +18,9 @@ Fundstelle
 
 Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 mit Ablauf des 31.3.2021 außer Kraft. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 mit Ablauf des 31.12.2025 außer Kraft.
 Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 idF d. Art. 1 Nr. 2 G v. 18.3.2021 I 353 mit Ablauf des 31.12.2022 außer Kraft, dadurch ist die Geltung der §§ 1 bis 5 über den 31.3.2021 hinaus bis zum 31.12.2022 verlängert worden. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 3 G v. 18.3.2021 I 353 mit Ablauf des 30.9.2027 außer Kraft, dadurch ist die Geltung des G über den 31.12.2025 hinaus bis zum 30.9.2027 verlängert worden.
+Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 Art. 1 Nr. 2 Buchst. a G v. 8.12.2022 I 2234 mit Ablauf des 31.12.2023 außer Kraft, dadurch ist die Geltung der §§ 1 bis 5 über den 31.3.2022 hinaus bis zum 31.12.2023 verlängert worden. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 2 Buchst. b G v. 8.12.2022 I 2234 mit Ablauf des 30.9.2028 außer Kraft, dadurch ist die Geltung des G über den 30.9.2027 hinaus bis zum 30.9.2028 verlängert worden.
 Zuletzt geändert durch
-:   Art. 1 G v. 18.3.2021 I 353
+:   Art. 11 G v. 22.3.2023 I Nr. 88
 
 [^F811863_01_BJNR104100020]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
     Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
@@ -69,9 +70,7 @@ Dieses Gesetz gilt für Verfahren nach
     2020 (BGBl. I S. 587) geändert worden ist;
 
 
-5.  dem Raumordnungsgesetz vom 22. Dezember 2008 (BGBl. I S. 2986), das
-    zuletzt durch Artikel 2 Absatz 15 des Gesetzes vom 20. Juli 2017
-    (BGBl. I S. 2808) geändert worden ist;
+5.  (weggefallen)
 
 
 6.  dem Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), das
@@ -183,7 +182,7 @@ den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder
 die Auslegung zur Einsichtnahme vorgesehen, so können der Anschlag
 oder die Auslegung durch eine Veröffentlichung des Inhalts der
 Bekanntmachung im Internet ersetzt werden, wenn die jeweilige
-Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2022
+Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2023
 endet. Zusätzlich hat zumindest eine Bekanntmachung in einem amtlichen
 Veröffentlichungsblatt oder einer örtlichen Tageszeitung zu erfolgen.
 
@@ -198,7 +197,7 @@ von Unterlagen oder Entscheidungen angeordnet, auf die nach den für
 die Auslegung geltenden Vorschriften nicht verzichtet werden kann, so
 kann die Auslegung durch eine Veröffentlichung im Internet ersetzt
 werden, wenn die jeweilige Auslegungsfrist spätestens mit Ablauf des
-31\. Dezember 2022 endet. Für die Veröffentlichung im Internet gilt §
+31\. Dezember 2023 endet. Für die Veröffentlichung im Internet gilt §
 27a Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes entsprechend. In
 der Bekanntmachung der Auslegung ist darauf hinzuweisen, dass und wo
 die Veröffentlichung im Internet erfolgt. Soweit Regelungen in den in
@@ -232,7 +231,7 @@ Format einreicht.
 (1) In Verfahren nach den in § 1 genannten Gesetzen kann die Abgabe
 von Erklärungen zur Niederschrift bei der Behörde ausgeschlossen
 werden, wenn die jeweilige Erklärungsfrist spätestens mit Ablauf des
-31\. Dezember 2022 endet und die zuständige Behörde festgestellt hat,
+31\. Dezember 2023 endet und die zuständige Behörde festgestellt hat,
 dass innerhalb der Erklärungsfrist eine Entgegennahme zur
 Niederschrift nicht oder nur mit unverhältnismäßigem Aufwand möglich
 sein würde.
@@ -305,7 +304,7 @@ Beteiligungsmöglichkeit vorab nicht erteilt werden konnte.
 
 (2) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 2
 bis 5 Gebrauch gemacht worden ist und die mit Ablauf des 31. Dezember
-2022 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses
+2023 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses
 Gesetzes bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
 (3) Die für die in § 1 genannten Verfahren geltenden
@@ -320,6 +319,6 @@ Bekanntmachung erfüllt ist.
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 (2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit
-Ablauf des 31. Dezember 2022 außer Kraft. Im Übrigen tritt das Gesetz
-mit Ablauf des 30. September 2027 außer Kraft.
+Ablauf des 31. Dezember 2023 außer Kraft. Im Übrigen tritt das Gesetz
+mit Ablauf des 30. September 2028 außer Kraft.
 

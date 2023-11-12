@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.4.2021 I 814
+:   Art. 7 V v. 10.3.2022 I 428
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -153,6 +153,13 @@ geschlachtet worden ist.
 aufzubewahren.
 
 
+### § 3a Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
+die zuständige Behörde die Daten nach Abschnitt III der Anlage des
+Marktorganisationsgesetzes.
+
+
 ## Abschnitt 2 - Preismeldungen
 
 
@@ -169,12 +176,12 @@ Abschnitt 1 Kapitel IV Nummer 2 Buchstabe c oder Kapitel VI der
 Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates
 vom 29. April 2004 mit spezifischen Hygienevorschriften für
 Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55),
-die zuletzt durch die Verordnung (EU) Nr. 517/2013 des Rates vom 13.
-Mai 2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, von
-notgeschlachteten Tieren dürfen nicht in die Preismeldung einbezogen
-werden, wenn bei ihnen ein niedrigerer Preis als bei vollständig für
-den menschlichen Genuss tauglichen Schlachtkörpern gleicher
-Handelsklasse ausbezahlt wird.
+die zuletzt durch die Delegierte Verordnung (EU) 2020/2192 (ABl. L 434
+vom 23.12.2020, S. 10) geändert worden ist, von notgeschlachteten
+Tieren dürfen nicht in die Preismeldung einbezogen werden, wenn bei
+ihnen ein niedrigerer Preis als bei vollständig für den menschlichen
+Genuss tauglichen Schlachtkörpern gleicher Handelsklasse ausbezahlt
+wird.
 
 
 ### § 5 Ausnahmen

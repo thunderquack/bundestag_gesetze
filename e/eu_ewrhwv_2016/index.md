@@ -18,8 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 509
 
-Änderung durch
-:   Art. 2 V v. 26.10.2021 I 4740 (Nr. 76) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 26.10.2021 I 4740
 
 Stand: Ersetzt V 7110-1-7 v. 20.12.2007 I 3075 (EU/EWRHwV)
 [^F793412_01_BJNR050900016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des

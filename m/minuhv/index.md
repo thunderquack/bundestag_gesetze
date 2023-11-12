@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 2188
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.11.2021 I 5066
+:   Art. 1 V v. 30.11.2022 I 2130
 
 
 ## Eingangsformel
@@ -34,18 +34,15 @@ Der Mindestunterhalt minderjähriger Kinder gemäß § 1612a Absatz 1 des
 Bürgerlichen Gesetzbuchs beträgt monatlich
 
 1.  in der ersten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 1 des
-    Bürgerlichen Gesetzbuchs) 396 Euro ab dem 1. Januar 2022 und 404 Euro
-    ab dem 1. Januar 2023,
+    Bürgerlichen Gesetzbuchs) 437 Euro,
 
 
 2.  in der zweiten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 2 des
-    Bürgerlichen Gesetzbuchs) 455 Euro ab dem 1. Januar 2022 und 464 Euro
-    ab dem 1. Januar 2023,
+    Bürgerlichen Gesetzbuchs) 502 Euro,
 
 
 3.  in der dritten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 3 des
-    Bürgerlichen Gesetzbuchs) 533 Euro ab dem 1. Januar 2022 und 543 Euro
-    ab dem 1. Januar 2023.
+    Bürgerlichen Gesetzbuchs) 588 Euro.
 
 
 

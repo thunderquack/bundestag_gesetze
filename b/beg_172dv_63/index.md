@@ -32,6 +32,7 @@ Entschädigungsaufwendungen (Entschädigungsausgaben nach Abzug der mit
 diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr
 2020 – jeweils gerundet –:
 
+
 *    *   –
 
     *   in den Ländern (außer Berlin)
@@ -58,6 +59,7 @@ diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr
 (2) Der Lastenanteil des Bundes an den Entschädigungsaufwendungen
 beträgt – jeweils gerundet –:
 
+
 *    *   –
 
     *   in den Ländern (außer Berlin)
@@ -82,6 +84,7 @@ beträgt – jeweils gerundet –:
 
 Die Lastenanteile der Länder an den Entschädigungsaufwendungen
 betragen – jeweils gerundet –:
+
 
 *    *   –
 
@@ -173,6 +176,7 @@ betragen – jeweils gerundet –:
 Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil
 übersteigen, folgende Beträge – jeweils gerundet –:
 
+
 *    *   –
 
     *   Nordrhein‑Westfalen
@@ -220,6 +224,7 @@ Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil
 (4) Die Länder, in denen die Entschädigungsaufwendungen den auf sie
 entfallenden Lastenanteil nicht erreichen, führen an den Bund folgende
 Beträge ab – jeweils gerundet –:
+
 
 *    *   –
 

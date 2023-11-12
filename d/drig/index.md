@@ -179,7 +179,27 @@ verlängert werden, nicht jedoch wegen unzureichender Leistungen.
 (5) Während der Ausbildung können Ausbildungslehrgänge bis zu einer
 Gesamtdauer von drei Monaten vorgesehen werden.
 
-(6) Das Nähere regelt das Landesrecht.
+(6) Die Ableistung des Vorbereitungsdienstes in Teilzeit ist auf
+Antrag zu eröffnen im Falle der tatsächlichen Betreuung oder Pflege
+
+1.  mindestens eines Kindes unter 18 Jahren oder
+
+
+2.  eines laut ärztlichen Gutachtens pflegebedürftigen Ehegatten,
+    Lebenspartners oder in gerader Linie Verwandten.
+
+
+
+Liegen besondere persönliche Gründe vor, die in Art und Umfang den in
+Satz 1 genannten Gründen vergleichbar sind und eine besondere Härte
+darstellen, kann auf Antrag die Ableistung des Vorbereitungsdienstes
+in Teilzeit eröffnet werden. Für die Ableistung in Teilzeit wird der
+regelmäßige Dienst um ein Fünftel reduziert. Die Dauer des
+Vorbereitungsdienstes in Teilzeit beträgt zweieinhalb Jahre. Die Zeit
+der Verlängerung des Vorbereitungsdienstes ist in angemessener Weise
+auf die Pflichtstationen zu verteilen.
+
+(7) Das Nähere regelt das Landesrecht.
 
 
 #### § 5c Anrechnung einer Ausbildung für den gehobenen Dienst
@@ -224,12 +244,15 @@ dem Land erteilt, in dem die staatliche Pflichtfachprüfung bestanden
 wurde.
 
 (3) Die schriftlichen Leistungen in der zweiten Staatsprüfung sind
-frühestens im 18. und spätestens im 21. Ausbildungsmonat zu erbringen.
-Sie beziehen sich mindestens auf die Ausbildung bei den
-Pflichtstationen. Sieht das Landesrecht neben Aufsichtsarbeiten auch
-eine häusliche Arbeit vor, kann bestimmt werden, dass diese Leistung
-nach Beendigung der letzten Station erbracht werden muss. Die
-mündlichen Leistungen beziehen sich auf die gesamte Ausbildung.
+frühestens im 18. und spätestens im 21. Ausbildungsmonat zu erbringen;
+bei Teilzeitausbildung nach § 5b Absatz 6 Satz 1 ist die Verlängerung
+des Vorbereitungsdienstes angemessen zu berücksichtigen. Die
+schriftlichen Leistungen beziehen sich mindestens auf die Ausbildung
+bei den Pflichtstationen. Sieht das Landesrecht neben
+Aufsichtsarbeiten auch eine häusliche Arbeit vor, kann bestimmt
+werden, dass diese Leistung nach Beendigung der letzten Station
+erbracht werden muss. Die mündlichen Leistungen beziehen sich auf die
+gesamte Ausbildung.
 
 (4) In den staatlichen Prüfungen kann das Prüfungsorgan bei seiner
 Entscheidung von der rechnerisch ermittelten Gesamtnote abweichen,

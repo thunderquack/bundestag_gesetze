@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 06.06.2017 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.11.2021 BAnz AT 29.11.2021 V1
+:   Art. 1 V v. 18.10.2022 BAnz AT 25.10.2022 V1
 
 Stand: Ersetzt V v. 3.12.2010 BAnz. Nr. 187, 4086 (LuftPersVDV 3)
 
@@ -153,8 +153,9 @@ entsprechend § 125 Absatz 2 LuftPersV gilt als Verlängerungsprüfung.
 
 (2) Bei der Verlängerungsprüfung kann das Hörverstehen im Rahmen einer
 Auffrischungsschulung, einer Befähigungsüberprüfung, einer
-Kompetenzbeurteilung, einer praktischen Prüfung oder einer
-Streckenflugüberprüfung überprüft werden, wenn
+Kompetenzbeurteilung, einer praktischen Prüfung, einer
+Streckenflugüberprüfung oder im Rahmen einer genehmigten
+evidenzbasierten Ausbildung (EBT-Programm) überprüft werden, wenn
 
 1.  der Sprechfunkverkehr mit der Flugverkehrskontrollstelle oder dem
     Fluginformationsdienst in der zu überprüfenden Sprache in einem Umfang
@@ -169,7 +170,8 @@ Streckenflugüberprüfung überprüft werden, wenn
 
 (3) Der Sprechfunkverkehr nach Absatz 2 Nummer 1 kann im Rahmen der
 wiederkehrenden Schulung und Überprüfung in einem
-Flugsimulationsübungsgerät nach ORO.FC.230 des Anhangs III (Teil-ORO)
+Flugsimulationsübungsgerät nach ORO.FC.230 oder der evidenzbasierten
+Ausbildung (EBT-Programm) nach ORO.FC.231 des Anhangs III (Teil-ORO)
 der Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012
 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren
 in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008

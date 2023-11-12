@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1270
 
-Änderung durch
-:   Art. 2 V v. 17.6.2020 I 1298 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 17.6.2020 I 1298
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -2249,6 +2249,39 @@ Leitlinien anzuwenden.
 
 
 
+### § 38a Europäisches Fahrzeugeinstellungsregister
+
+(1) Das Eisenbahn-Bundesamt hat in das europäische
+Fahrzeugeinstellungsregister die Angaben der Fahrzeuge, die in der
+Bundesrepublik Deutschland einzutragen sind nach Anhang II des
+Durchführungsbeschlusses (EU) 2018/1614 der Kommission vom 25. Oktober
+2018 zur Festlegung der Spezifikationen für die
+Fahrzeugeinstellungsregister nach Artikel 47 der Richtlinie (EU)
+2016/797 des Europäischen Parlaments und des Rates sowie zur Änderung
+und Aufhebung der Entscheidung 2007/756/EG der Kommission (ABl. L 268
+vom 26.10.2018, S. 53) in der jeweils geltenden Fassung
+
+1.  einzutragen und
+
+
+2.  auf dem neuesten Stand zu halten.
+
+
+
+
+(2) Halter von Eisenbahnfahrzeugen haben die Einstellung eines neuen
+Fahrzeugs vor dem erstmaligen Inverkehrbringen in das europäische
+Fahrzeugeinstellungsregister auf elektronischem Weg beim Eisenbahn-
+Bundesamt zu beantragen. Sie haben Änderungen der Angaben, die in das
+Register einzustellen sind, auf elektronischem Weg mitzuteilen.
+
+(3) Zugriffsberechtigte nach Anhang II Nummer 3.3.2 des
+Durchführungsbeschlusses (EU) 2018/1614 erhalten auf Antrag Auskünfte
+zu den im europäischen Fahrzeugeinstellungsregister gespeicherten
+Angaben beim Eisenbahn-Bundesamt, wenn die Zugriffsberechtigten sich
+in der Bundesrepublik Deutschland befinden.
+
+
 ### § 39 Fahrzeugkennzeichnung
 
 (1) Das Eisenbahn-Bundesamt weist jedem Fahrzeug mit Erteilung der
@@ -2478,7 +2511,8 @@ werden.
 
 ### Anlage 1 Umsetzung von Entscheidungen und Beschlüssen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
 
-(Fundstelle: BGBl. I 2018, 1288 - 1293)
+(Fundstelle: BGBl. I 2018, 1288 - 1293;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** Gemeinsame Bestimmungen ****
@@ -3195,7 +3229,8 @@ werden.
 
 ### Anlage 2 Übrige Eisenbahninfrastruktur
 
-(Fundstelle: BGBl. I 2018, 1294 - 1296)
+(Fundstelle: BGBl. I 2018, 1294 - 1296;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** Ingenieurbau-, Oberbau- und Hochbau-Anlagen ****
@@ -3462,7 +3497,8 @@ werden.
 
 ### Anlage 4 Maßnahmen, die für die Bestandteile des Eisenbahnsystems als genehmigungspflichtige Aufrüstung oder Erneuerung einzustufen sind
 
-(Fundstelle: BGBl. I 2018, 1298 - 1301)
+(Fundstelle: BGBl. I 2018, 1298 - 1301;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** **Allgemeines**
@@ -3834,7 +3870,8 @@ _\_\__\_\__\_\__\_\__\_\_
 
 ### Anlage 5 Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
 
-(Fundstelle: BGBl. I 2018, 1302 - 1305)
+(Fundstelle: BGBl. I 2018, 1302 - 1305;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** Allgemeines ****
@@ -4378,7 +4415,8 @@ _\_\__\_\__\_\__\_\__\_\_
 
 ### Anlage 6 Unterlagen zum Antrag auf Inbetriebnahmegenehmigung
 
-(Fundstelle: BGBl. I 2018, 1306 - 1307)
+(Fundstelle: BGBl. I 2018, 1306 - 1307;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **1.** Allgemeiner Teil ****

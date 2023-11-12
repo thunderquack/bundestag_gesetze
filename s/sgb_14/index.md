@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2652
 
 Zuletzt geändert durch
-:   Art. 49 G v. 20.8.2021 I 3932
+:   Art. 8 G v. 6.6.2023 I Nr. 146
 
 
 ## Kapitel 1 - (zukünftig in Kraft)

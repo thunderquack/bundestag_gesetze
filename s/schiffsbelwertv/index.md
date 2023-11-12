@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 851
 
+Geändert durch
+:   Art. 6 V v. 4.10.2022 I 1614
+
 
 ## Eingangsformel
 
@@ -272,11 +275,15 @@ geschlossenen Verträge einzusehen.
 
 ### § 14 Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der
+(1) Der Schiffsbeleihungswert ist längstens jährlich zu überwachen.
+Bestehen Anhaltspunkte, dass sich die Grundlagen der
 Schiffsbeleihungswertermittlung nicht nur unerheblich verschlechtert
 haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das
 allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt in einem die
-Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der
+Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Eine
+Überprüfung ist auch dann vorzunehmen, wenn die auf dem
+Beleihungsobjekt abgesicherte Forderung einen wesentlichen
+Leistungsrückstand von mindestens 90 Tagen aufweist. Der
 Schiffsbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung

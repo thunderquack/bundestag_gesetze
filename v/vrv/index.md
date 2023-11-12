@@ -392,15 +392,8 @@ ist der Vermerk "Dieses Schreiben ist maschinell erstellt und auch
 ohne Unterschrift wirksam" anzubringen.
 
 
-### § 14 Öffentliche Bekanntmachung der Ersteintragung
+### § 14 (weggefallen)
 
-Die Veröffentlichung der Eintragung des Vereins ist unverzüglich zu
-veranlassen. In ihr sollen Name und Sitz des Vereins und die
-Registernummer angegeben werden. In den Veröffentlichungen ist das
-Gericht und der Tag der Eintragung zu bezeichnen, einer Unterschrift
-bedarf es nicht. § 13 Abs. 2 gilt entsprechend. Erfolgen mehrere
-Veröffentlichungen desselben Gerichts gleichzeitig, so sind sie
-möglichst zusammenzufassen.
 
 
 ### § 15 Erreichbarkeit des Vereins

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 97
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2020 I 3256
+:   Art. 24 G v. 19.12.2022 I 2606
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
@@ -97,9 +97,9 @@ Post die Postsendung als unbestellbar zurückkommt. Die zurückgekommene
 Sendung soll dem Zustellungsvertreter ausgehändigt werden.
 
 (3) Statt der Bestellung eines Vertreters genügt es, wenn die
-Zustellung für nicht prozeßfähige Personen an die
-Vormundschaftsbehörde, für juristische Personen oder für Vereine, die
-als solche klagen und verklagt werden können, an die Aufsichtsbehörde
+Zustellung für nicht prozeßfähige Personen an das Familien- oder
+Betreuungsgericht, für juristische Personen oder für Vereine, die als
+solche klagen und verklagt werden können, an die Aufsichtsbehörde
 angeordnet wird.
 
 
@@ -953,10 +953,10 @@ Verteilungstermin zu berichtigen (Bargebot).
 
 (2) Das Bargebot ist von dem Zuschlag an zu verzinsen.
 
-(3) Das Bargebot ist so rechtzeitig durch Überweisung oder Einzahlung
-auf ein Konto der Gerichtskasse zu entrichten, dass der Betrag der
-Gerichtskasse vor dem Verteilungstermin gutgeschrieben ist und ein
-Nachweis hierüber im Termin vorliegt.
+(3) Das Bargebot ist so rechtzeitig durch Überweisung auf ein Konto
+der Gerichtskasse zu entrichten, dass der Betrag der Gerichtskasse vor
+dem Verteilungstermin gutgeschrieben ist und ein Nachweis hierüber im
+Termin vorliegt.
 
 (4) Der Ersteher wird durch Hinterlegung von seiner Verbindlichkeit
 befreit, wenn die Hinterlegung und die Ausschließung der Rücknahme im

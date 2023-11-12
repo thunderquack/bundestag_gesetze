@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 778, 785
 
 Zuletzt geändert durch
-:   Art. 551 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 338 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 338 V v. 19.6.2020 I 1328
 
 
 ## § 1

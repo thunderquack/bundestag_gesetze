@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.5.2020 I 920
 
-Geändert durch
-:   Art. 16 G v. 28.3.2021 I 591
+Zuletzt geändert durch
+:   Art. 10a G v. 16.8.2023 I Nr. 217
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -369,39 +369,49 @@ Berufsausbildung, den wesentlichen Inhalt des Vertrages gemäß Satz 2
 schriftlich niederzulegen; die elektronische Form ist ausgeschlossen.
 In die Niederschrift sind mindestens aufzunehmen
 
-1.  Art, sachliche und zeitliche Gliederung sowie Ziel der
+1.  Name und Anschrift der Ausbildenden sowie der Auszubildenden, bei
+    Minderjährigen zusätzlich Name und Anschrift ihrer gesetzlichen
+    Vertreter oder Vertreterinnen,
+
+
+2.  Art, sachliche und zeitliche Gliederung sowie Ziel der
     Berufsausbildung, insbesondere die Berufstätigkeit, für die
     ausgebildet werden soll,
 
 
-2.  Beginn und Dauer der Berufsausbildung,
+3.  Beginn und Dauer der Berufsausbildung,
 
 
-3.  Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte,
+4.  die Ausbildungsstätte und Ausbildungsmaßnahmen außerhalb der
+    Ausbildungsstätte,
 
 
-4.  Dauer der regelmäßigen täglichen Ausbildungszeit,
+5.  Dauer der regelmäßigen täglichen Ausbildungszeit,
 
 
-5.  Dauer der Probezeit,
+6.  Dauer der Probezeit,
 
 
-6.  Zahlung und Höhe der Vergütung,
+7.  Zahlung und Höhe der Vergütung sowie deren Zusammensetzung, sofern
+    sich die Vergütung aus verschiedenen Bestandteilen zusammensetzt,
 
 
-7.  Dauer des Urlaubs,
+8.  Vergütung oder Ausgleich von Überstunden,
 
 
-8.  Voraussetzungen, unter denen der Berufsausbildungsvertrag gekündigt
+9.  Dauer des Urlaubs,
+
+
+10. Voraussetzungen, unter denen der Berufsausbildungsvertrag gekündigt
     werden kann,
 
 
-9.  ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge,
+11. ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge,
     Betriebs- oder Dienstvereinbarungen, die auf das
     Berufsausbildungsverhältnis anzuwenden sind,
 
 
-10. die Form des Ausbildungsnachweises nach § 13 Satz 2 Nummer 7.
+12. die Form des Ausbildungsnachweises nach § 13 Satz 2 Nummer 7.
 
 
 
@@ -687,7 +697,12 @@ gebunden ist, um mehr als 20 Prozent unterschreitet.
 bis 4 zu gewährende Vergütung unterschritten werden. Die
 Angemessenheit der Vergütung ist jedoch ausgeschlossen, wenn die
 prozentuale Kürzung der Vergütung höher ist als die prozentuale
-Kürzung der täglichen oder der wöchentlichen Arbeitszeit.
+Kürzung der täglichen oder der wöchentlichen Arbeitszeit. Absatz 1
+Satz 2 und Absatz 2 Satz 1 Nummer 2 bis 4, auch in Verbindung mit
+Absatz 2 Satz 2 bis 7, sind mit der Maßgabe anzuwenden, dass für die
+nach § 7a Absatz 2 Satz 1 verlängerte Dauer der
+Teilzeitberufsausbildung kein weiterer Anstieg der Vergütung erfolgen
+muss.
 
 (6) Sachleistungen können in Höhe der nach § 17 Absatz 1 Satz 1 Nummer
 4 des Vierten Buches Sozialgesetzbuch festgesetzten Sachbezugswerte
@@ -714,8 +729,9 @@ spätestens zu dem in Absatz 2 genannten Zeitpunkt eine Vergütung
 mindestens in der bei Beginn der Berufsausbildung geltenden Höhe der
 Mindestvergütung nach § 17 Absatz 2 Satz 1 zu zahlen. Satz 1 findet
 bei einer Teilzeitberufsausbildung mit der Maßgabe Anwendung, dass die
-Vergütungshöhe mindestens dem prozentualen Anteil an der Arbeitszeit
-entsprechen muss.
+Vergütungshöhe unter Berücksichtigung des § 17 Absatz 5 Satz 3
+mindestens dem prozentualen Anteil an der Arbeitszeit entsprechen
+muss.
 
 
 ###### § 19 Fortzahlung der Vergütung
@@ -1186,7 +1202,7 @@ Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu
 beantragen. Der Antrag kann schriftlich oder elektronisch gestellt
 werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen.
 Auf einen betrieblichen Ausbildungsplan im Sinne von § 11 Absatz 1
-Satz 2 Nummer 1, der der zuständigen Stelle bereits vorliegt, kann
+Satz 2 Nummer 2, der der zuständigen Stelle bereits vorliegt, kann
 dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des
 wesentlichen Vertragsinhalts.
 
@@ -3275,8 +3291,10 @@ Rechtsaufsicht des Bundesministeriums für Bildung und Forschung.
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3
-bis 7 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen
-Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
+bis 7 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen des
+Absatzes 1 Nummer 1 mit einer Geldbuße bis zu zweitausend Euro und in
+den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet
+werden.
 
 
 ## Teil 7 - Übergangs- und Schlussvorschriften

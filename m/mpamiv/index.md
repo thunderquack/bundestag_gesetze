@@ -30,23 +30,23 @@ Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen
 Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur
 Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002
 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der
-Richtlinien
-90/385/EWG              und 93/42/EWG des Rates (ABl. L 117 vom
+Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom
 5\.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S.
 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom
 24\.4.2020, S. 18) geändert worden ist, in der jeweils geltenden
-Fassung. Für In-vitro-Diagnostika ist bis einschließlich 25. Mai 2022
-die Medizinprodukte-Sicherheitsplanverordnung vom 24. Juni 2002 (BGBl.
-I S. 2131) in der bis einschließlich 25. Mai 2021 geltenden Fassung
-anzuwenden.
+Fassung, und der Verordnung (EU) 2017/746 des Europäischen Parlaments
+und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur
+Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der
+Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S.
+11; L 334 vom 27.12.2019, S. 167).
 
 
 ### § 2 Ergänzende Begriffsbestimmungen
 
-Ergänzend zu Artikel 2 der Verordnung (EU)
-2017/745              bezeichnet im Sinne dieser Rechtsverordnung der
-Ausdruck „mutmaßliches schwerwiegendes Vorkommnis“ ein Vorkommnis, bei
-dem nicht ausgeschlossen ist, dass es auf einer unerwünschten
+Ergänzend zu Artikel 2 der Verordnung (EU) 2017/745 und Artikel 2 der
+Verordnung (EU) 2017/746 bezeichnet im Sinne dieser Rechtsverordnung
+der Ausdruck „mutmaßliches schwerwiegendes Vorkommnis“ ein Vorkommnis,
+bei dem nicht ausgeschlossen ist, dass es auf einer unerwünschten
 Nebenwirkung eines Produktes, auf einer Fehlfunktion, einer
 Verschlechterung der Eigenschaften oder der Leistung eines Produktes,
 einschließlich Anwendungsfehlern aufgrund ergonomischer Merkmale oder
@@ -122,18 +122,21 @@ zuständige Bundesoberbehörde sicher, dass die Meldungen nach § 4 Satz
 Satz 2 meldenden Personen oder Stellen den Eingang der Meldung.
 
 (2) Unabhängig von der unverzüglichen Einleitung des Verfahrens nach
-Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 prüft die zuständige
+Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 oder Artikel 82
+Absatz 11 der Verordnung (EU) 2017/746 prüft die zuständige
 Bundesoberbehörde, ob unmittelbarer Handlungsbedarf zur Gefahrenabwehr
 besteht.
 
 (3) Eine nach Artikel 87 Absatz 11 Unterabsatz 3 der Verordnung (EU)
-2017/745 notwendige Begründung wird vom Hersteller über das Deutsche
+2017/745 oder Artikel 82 Absatz 11 Unterabsatz 3 der Verordnung (EU)
+2017/746 notwendige Begründung wird vom Hersteller über das Deutsche
 Medizinprodukteinformations- und Datenbanksystem nach § 86 des
 Medizinprodukterecht-Durchführungsgesetzes innerhalb von 15 Tagen
 vorgelegt. Die zuständige Bundesoberbehörde teilt dem Hersteller
 innerhalb von zehn Tagen mit, ob sie mit seiner Begründung
 übereinstimmt oder verlangt eine Meldung nach Artikel 87 Absatz 1 bis
-5 der Verordnung (EU) 2017/745.
+5 der Verordnung (EU) 2017/745 oder nach Artikel 82 Absatz 1 bis 5 der
+Verordnung (EU) 2017/746.
 
 (4) Sofern die zuständige Bundesoberbehörde mit der nach Absatz 3 Satz
 1 vom Hersteller vorgelegten Begründung übereinstimmt, informiert sie
@@ -142,8 +145,9 @@ und teilt diesen die Begründung des Herstellers mit.
 
 (5) Nach Eingang der nach Absatz 3 Satz 2 von der zuständigen
 Bundesoberbehörde verlangten Meldung nach Artikel 87 Absatz 1 bis 5
-der Verordnung (EU) 2017/745 findet das Verfahren nach den §§ 71 bis
-74 des Medizinprodukterecht-Durchführungsgesetzes Anwendung.
+der Verordnung (EU) 2017/745 oder Artikel 82 Absatz 1 bis 5 der
+Verordnung (EU) 2017/746 findet das Verfahren nach den §§ 71 bis 74
+des Medizinprodukterecht-Durchführungsgesetzes Anwendung.
 
 (6) Die zuständige Bundesoberbehörde teilt das Ergebnis ihrer
 abschließenden Risikobewertung der nach § 3 oder § 4 Satz 2 meldenden
@@ -152,8 +156,9 @@ Risikobewertung nach Satz 1 ist den nach § 4 Satz 2 meldenden Personen
 soweit erforderlich in laienverständlicher Weise zu übermitteln. Die
 abschließende Risikobewertung beinhaltet, soweit bereits vorhanden,
 eine Bewertung des Abschlussberichts des Herstellers nach Artikel 89
-Absatz 5 der Verordnung (EU) 2017/745 oder eine Bewertung der vom
-Hersteller nach Absatz 3 Satz 1 vorgelegten Begründung.
+Absatz 5 der Verordnung (EU) 2017/745 oder Artikel 84 Absatz 5 der
+Verordnung (EU) 2017/746 oder eine Bewertung der vom Hersteller nach
+Absatz 3 Satz 1 vorgelegten Begründung.
 
 
 ## Abschnitt 2 - Unterrichtungspflichten und Informationsaustausch der zuständigen Behörden; Veröffentlichung
@@ -269,7 +274,8 @@ Behindertengleichstellungsgesetzes barrierefrei. Die Informationen
 nach Satz 1 dürfen keine personenbezogenen Daten enthalten; davon
 abweichend dürfen Sicherheitsanweisungen im Feld die personenbezogenen
 Daten enthalten, die der Hersteller nach Artikel 89 Absatz 8 der
-Verordnung (EU) 2017/745 bereitstellt.
+Verordnung (EU) 2017/745 oder Artikel 84 Absatz 8 der Verordnung (EU)
+2017/746 bereitstellt.
 
 
 ### § 14 Routinesitzungen

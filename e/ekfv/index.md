@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 756
 
-Änderung durch
-:   Art. 15 G v. 12.7.2021 I 3091 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 9 V v. 20.7.2023 I Nr. 199
 
 [^F807515_01_BJNR075610019]:     Notifiziert gemäß Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -88,7 +88,7 @@ Betrieb gesetzt werden, wenn
 
 
 2.  es eine gültige Versicherungsplakette für Elektrokleinstfahrzeuge nach
-    § 29a der Fahrzeug-Zulassungsverordnung führt,
+    § 56 der Fahrzeug-Zulassungsverordnung führt,
 
 
 3.  es entsprechend § 59 Absatz 1 Satz 1, Absatz 1a erster Halbsatz,

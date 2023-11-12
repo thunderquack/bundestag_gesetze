@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1991, 2272
 
 Neugefasst durch
-:   Bek. v. 6.9.2021 I 4129
+:   Bek. v. 6.9.2021 I 4129;
+
+Geändert durch
+:   Art. 27 G v. 20.12.2022 I 2759
 
 
 ## Erster Abschnitt - Allgemeine und grundsätzliche Vorschriften
@@ -1599,7 +1602,7 @@ genannten Personen beeinträchtigt werden. Bei der Abwägung ist
 insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar
 auf einer Menschenrechtsverletzung beruht.
 
-(2) Unterlagen, die sich nach § 2 Absatz 1 Nummer 3 Buchstabe b bis d
+(2) Unterlagen, die sich nach § 2 Absatz 2 Nummer 3 Buchstabe b bis d
 in besonderer Verwahrung befinden, dürfen nur mit Einwilligung des
 Bundesministers des Innern, für Bau und Heimat verwendet werden.
 
@@ -1857,7 +1860,7 @@ automatisiert verarbeiten, als dies zur Erfüllung seiner Aufgaben
 erforderlich ist.
 
 (2) Die Einrichtung automatisierter Abrufverfahren zum Zwecke der
-Übermittlung ist unzulässig. § 2 Absatz 1 Nummer 5 bleibt unberührt.
+Übermittlung ist unzulässig. § 2 Absatz 2 Nummer 5 bleibt unberührt.
 
 (3) Die Erteilung eines Auftrags zur Verarbeitung von Informationen
 aus den Unterlagen ist nur dann zulässig, wenn die Verarbeitung beim

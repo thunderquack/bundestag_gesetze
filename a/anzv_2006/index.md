@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 2006, 3245
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 4 G v. 9.12.2020 I 2773
+:   Art. 2 V v. 19.12.2022 I 2645
 
-Stand: Berichtigung vom 3.4.2017 I 793 ist berücksichtigt
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute
@@ -79,8 +78,8 @@ Kreditinstitute, die einem genossenschaftlichen Prüfungsverband
 angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und
 Giroverbandes geprüft werden, die nach dieser Verordnung zu
 erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der
-Anzeige nach § 24 Absatz 1a Nummer 4 des Kreditwesengesetzes, über
-ihren Verband mit je einer weiteren, für diesen bestimmten
+Anzeige nach § 24 Absatz 1a Nummer 4 bis 6 des Kreditwesengesetzes,
+über ihren Verband mit je einer weiteren, für diesen bestimmten
 Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen
 an die Bundesanstalt und die für das betroffene Institut zuständige
 Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung
@@ -92,6 +91,12 @@ Stellungnahme der Prüfungsstelle verzichten.
 (3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des §
 1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c
 und § 24a Absatz 4a des Kreditwesengesetzes zu beachten.
+
+(4) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank ist
+für Anzeigen und Unterlagen ein elektronischer Einreichungsweg zu
+nutzen. Nähere Bestimmungen zum jeweiligen elektronischen
+Einreichungsweg treffen die Bundesanstalt und die Deutsche Bundesbank
+auf ihrer jeweiligen Internetseite.
 
 
 ## § 2 Rechtsträgerkennung
@@ -150,7 +155,259 @@ Bundesanstalt oder an die Deutsche Bundesbank zu melden haben, die
 Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
 
-## § 3 (weggefallen)
+## § 3 Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes (Wesentliche Auslagerungen)
+
+(1) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über
+die Absicht und den Vollzug einer wesentlichen Auslagerung müssen
+folgende Informationen enthalten:
+
+1.  eine vom Institut vergebene Referenznummer für jeden
+    Auslagerungsvertrag,
+
+
+2.  Angaben zum Beginn und, sofern vereinbart, zum Ende der
+    Vertragslaufzeit sowie gegebenenfalls zum Zeitpunkt der nächsten
+    Vertragsverlängerung und zu den Kündigungsfristen,
+
+
+3.  die Bezeichnung der wesentlichen Aktivitäten und Prozesse
+    einschließlich einer Bezeichnung der Daten, die im Rahmen der
+    Auslagerung übermittelt werden oder wurden, sowie die Angabe, ob
+    personenbezogene Daten übermittelt werden oder wurden und ob das
+    Auslagerungsunternehmen mit der Verarbeitung personenbezogener Daten
+    beauftragt wird oder worden ist,
+
+
+4.  eine Kategorie, die die Art der Aktivitäten und Prozesse widerspiegelt
+    und die Ermittlung verschiedener Arten von Vereinbarungen ermöglicht,
+
+
+5.  die Angabe, ob in Teilen oder im Ganzen ausgelagert wird oder worden
+    ist,
+
+
+6.  die Firma, die Handelsregisternummer sowie gegebenenfalls die
+    Rechtsträgerkennung, die im Handelsregister eingetragene Adresse und
+    sonstige relevante Kontaktangaben des Auslagerungsunternehmens und die
+    Firma des Mutterunternehmens,
+
+
+7.  den Staat, in dem der Dienst erbracht werden soll oder wird,
+    einschließlich des Standortes, an dem die Daten gespeichert werden
+    sollen oder werden,
+
+
+8.  das Datum der letzten Bewertung der Wesentlichkeit der auszulagernden
+    oder ausgelagerten Aktivitäten und Prozesse und die Angabe, warum die
+    Auslagerung als wesentlich eingestuft wird,
+
+
+9.  bei der Auslagerung zu einem Cloud-Anbieter das Cloud-Dienstmodell,
+    das Cloud-Bereitstellungsmodell und die Art der betreffenden Daten
+    sowie die Standorte, an denen diese Daten gespeichert werden sollen
+    oder werden,
+
+
+10. die Institute und sonstigen Unternehmen im aufsichtlichen
+    Konsolidierungskreis, die von der Auslagerung Gebrauch machen, sofern
+    einschlägig,
+
+
+11. die Angabe, ob das Auslagerungsunternehmen oder ein von ihm
+    beauftragtes Subunternehmen Teil der Institutsgruppe im Sinne des
+    § 10a Absatz 1 Satz 1 des Kreditwesengesetzes oder der Finanzholding-
+    Gruppe oder der gemischten Finanzholding-Gruppe im Sinne des § 10a
+    Absatz 2 Satz 1 des Kreditwesengesetzes oder Mitglied des
+    institutsbezogenen Sicherungssystems ist, zu der oder dem das Institut
+    gehört, oder sich im Eigentum von anderen Instituten innerhalb der
+    Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-
+    Gruppe oder von anderen Mitgliedern des institutsbezogenen
+    Sicherungssystems befindet, zu der oder dem das Institut gehört,
+    sofern einschlägig,
+
+
+12. das Datum der letzten Risikoanalyse und eine Zusammenfassung der
+    Ergebnisse dieser Risikoanalyse,
+
+
+13. die Benennung der Personen und ihrer Funktion oder des
+    Entscheidungsgremiums des Instituts, die oder das den
+    Auslagerungsvertrag genehmigt haben oder hat, sowie gegebenenfalls das
+    Datum der Genehmigung,
+
+
+14. das auf den Auslagerungsvertrag anwendbare Recht,
+
+
+15. gegebenenfalls das Datum der letzten und der nächsten geplanten
+    Prüfung durch das Institut beim Auslagerungsunternehmen,
+
+
+16. gegebenenfalls die Firmen und die Handelsregisternummern oder andere
+    eindeutige Identifikationsnummern von durch das
+    Auslagerungsunternehmen beauftragten Subunternehmen, an die
+    wesentliche Teile einer wesentlichen Aktivität oder eines wesentlichen
+    Prozesses weiter ausgelagert werden sollen oder wurden, jeweils
+    einschließlich
+
+    a)  des Staates, in dem diese Subunternehmen registriert sind,
+
+
+    b)  des Standortes, an dem die Dienstleistung erbracht werden soll oder
+        wird, und
+
+
+    c)  gegebenenfalls des Standortes, an dem die Daten gespeichert werden
+        sollen oder werden,
+
+
+
+
+
+17. das Ergebnis einer Bewertung der Ersetzbarkeit des
+    Auslagerungsunternehmens durch
+
+    a)  die Zuordnung zu den Kategorien „leicht“, „schwierig“ oder
+        „unmöglich“,
+
+
+    b)  die Angabe der Möglichkeit einer Wiedereingliederung der wesentlichen
+        Aktivität oder des wesentlichen Prozesses in das Institut und
+
+
+    c)  die Angabe der Auswirkungen einer etwaigen Einstellung der
+        wesentlichen Aktivität oder des wesentlichen Prozesses,
+
+
+
+
+
+18. die Angabe, ob alternative Auslagerungsunternehmen gemäß der Bewertung
+    nach Nummer 17 Buchstabe a vorhanden sind,
+
+
+19. die Angabe, ob die auszulagernde oder ausgelagerte wesentliche
+    Aktivität oder der auszulagernde oder ausgelagerte wesentliche Prozess
+    Geschäftsvorgänge unterstützt, die zeitkritisch sind, und
+
+
+20. das für die Auslagerung veranschlagte jährliche Budget oder die damit
+    verbundenen Kosten.
+
+
+
+Bei Anzeigen nach Satz 1 ist der Auslagerungsvertrag auf Verlangen der
+Bundesanstalt einzureichen.
+
+(2) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über
+wesentliche Änderungen einer bestehenden wesentlichen Auslagerung, die
+einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts
+haben können, sind insbesondere einzureichen bei
+
+1.  Vertragsänderungen von wesentlicher Bedeutung,
+
+
+2.  Vereinbarungen zusätzlicher vertraglicher Regelungen, insbesondere der
+    Vereinbarung zusätzlicher Leistungen,
+
+
+3.  Änderung der Bewertung, ob eine Auslagerung als wesentlich oder
+    unwesentlich einzustufen ist,
+
+
+4.  wesentlichen Abweichungen, die sich aufgrund einer neuen oder
+    geänderten Risikoanalyse bezüglich der Auslagerung ergeben,
+
+
+5.  Abschluss neuer Subauslagerungen wesentlicher Teile einer wesentlichen
+    Aktivität oder eines wesentlichen Prozesses,
+
+
+6.  Änderung der Einschätzung zur Ersetzbarkeit des
+    Auslagerungsunternehmens,
+
+
+7.  nachträglicher Verlagerung der Erbringung von Dienstleistungen in
+    Drittstaaten durch das Auslagerungsunternehmen oder seine beauftragten
+    Subunternehmen,
+
+
+8.  Kündigung oder sonstiger Beendigung des Auslagerungsvertrags,
+
+
+9.  Kenntnis des Instituts von der Übernahme der Kontrolle über das
+    Auslagerungsunternehmen durch ein anderes Unternehmen.
+
+
+
+Zeigt das Institut die wesentliche Änderung einer wesentlichen
+Auslagerung an, die zum Zeitpunkt des Inkrafttretens dieser Verordnung
+bereits bestand, sind zudem die Daten nach Absatz 1 anzuzeigen.
+
+(3) Anzeigen nach Absatz 1 und 2 sind elektronisch über die Melde- und
+Veröffentlichungsplattform der Bundesanstalt einzureichen.
+
+(4) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über
+schwerwiegende Vorfälle im Rahmen von bestehenden wesentlichen
+Auslagerungen, die einen wesentlichen Einfluss auf die
+Geschäftstätigkeit des Instituts haben können, sind insbesondere
+einzureichen bei
+
+1.  nicht nur kurzfristiger Unterbrechung oder Unmöglichkeit der
+    Erbringung der ausgelagerten wesentlichen Aktivität oder des
+    wesentlichen Prozesses,
+
+
+2.  erheblichen Vertragsverletzungen durch das Auslagerungsunternehmen,
+
+
+3.  erheblichen Rechtsverstößen, insbesondere durch den Wegfall der
+    aufsichtsrechtlichen Voraussetzungen der Auslagerung, durch umfassende
+    Einschränkungen von Informations- und Prüfrechten des Instituts oder
+    der Aufsichtsbehörde oder Verstößen des Auslagerungsunternehmens gegen
+    datenschutzrechtliche Bestimmungen,
+
+
+4.  fehlender oder unzureichender Bereitschaft des
+    Auslagerungsunternehmens, aufsichtliche Anordnungen umzusetzen oder an
+    deren Umsetzung mitzuwirken, insbesondere im Rahmen der
+    Missstandsbeseitigung und -vermeidung,
+
+
+5.  erheblichen Sicherheitsvorfällen im Zusammenhang mit den ausgelagerten
+    Aktivitäten und Prozessen beim Institut oder beim
+    Auslagerungsunternehmen,
+
+
+6.  unzureichendem Risiko- und Notfallmanagement des
+    Auslagerungsunternehmens,
+
+
+7.  unzureichenden Ressourcen des Auslagerungsunternehmens für die
+    ordnungsgemäße Ausführung der ausgelagerten Aktivitäten oder Prozesse,
+
+
+8.  Kenntnis des Instituts von Umständen, nach denen eine leitende Person
+    des Auslagerungsunternehmens nicht als zuverlässig betrachtet werden
+    kann,
+
+
+9.  fehlender oder unzureichender Unterstützung durch das
+    Auslagerungsunternehmen bei Beendigung der Auslagerung,
+
+
+10. drohender Zahlungsunfähigkeit des Auslagerungsunternehmens,
+
+
+11. Kenntnis des Instituts von schwerwiegenden Reputationsschäden beim
+    Auslagerungsunternehmen,
+
+
+12. Konflikten am Sitz des Auslagerungsunternehmens in einem Drittstaat,
+    die zu einer wesentlichen Gefährdung der ausgelagerten Aktivitäten und
+    Prozesse führen oder dazu führen könnten.
+
+
 
 
 
@@ -697,6 +954,85 @@ zu berücksichtigen sind Zweigstellen, die
 
 
 
+## § 9a Anzeigen nach § 24 Absatz 1a Nummer 5 und 6 des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
+
+(1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind
+von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c
+des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der
+Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 30.
+Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres
+abgeschlossenen Geschäftsjahres mit den Formularen „Vergleich der
+Vergütungstrends und -praktiken“ nach den Anlagen 13 bis 15
+einzureichen. Satz 1 gilt für Institutsgruppen im Sinne des § 10a
+Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete
+Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes
+mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen mit
+Sitz im Inland die Angaben auf zusammengefasster oder
+teilkonsolidierter Basis einzureichen hat, sofern der Gruppe
+mindestens ein bedeutendes Institut im Sinne des § 1 Absatz 3c des
+Kreditwesengesetzes angehört. Für Finanzholding-Gruppen oder gemischte
+Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des
+Kreditwesengesetzes gilt Satz 2 entsprechend.
+
+(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes sind
+von CRR-Kreditinstituten jährlich bis zum 30. Juni nach dem Stand zu
+dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres
+mit dem Formular „Vergütung ab 1 Million Euro (VAM)“ nach Anlage 16
+oder mit dem Formular „REM HE“ nach Anlage 18 einzureichen. Verfügt
+ein Geschäftsleiter, Mitglied des Verwaltungs- oder Aufsichtsorgans
+oder Mitarbeiter nicht über eine Gesamtvergütung von mindestens einer
+Million Euro (Einkommensmillionär), so ist abweichend von Satz 1 das
+Formular „Fehlanzeige zur Anzeige der Vergütung ab 1 Million
+Euro(VAMFEHL)“ nach Anlage 17 einzureichen. Satz 2 gilt nicht für CRR-
+Kreditinstitute, die nicht bedeutend im Sinne des § 1 Absatz 3c des
+Kreditwesengesetzes sind und die das zweite Geschäftsjahr in Folge
+über keinen Einkommensmillionär verfügen. CRR-Kreditinstitute, bei
+denen die Europäische Zentralbank Aufsichtsbehörde ist, haben
+abweichend von den Sätzen 1 bis 3 jährlich bis zum 30. Juni nach dem
+Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen
+Geschäftsjahres das Formular „REM HE“ nach Anlage 18 einzureichen. Die
+Sätze 1 bis 4 finden auf CRR-Kreditinstitute, deren übergeordnetes
+Unternehmen seinen Sitz in einem anderen Staat innerhalb des
+Europäischen Wirtschaftsraums hat, keine Anwendung. Die Sätze 1 bis 4
+gelten für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
+Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des §
+10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe
+entsprechend, dass das übergeordnete Unternehmen die Angaben für alle
+gruppenangehörigen Institute mit Sitz innerhalb des Europäischen
+Wirtschaftsraums einzureichen hat. Für Finanzholding-Gruppen oder
+gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des
+Kreditwesengesetzes gilt Satz 6 entsprechend. Die Anzeige nach Satz 1
+oder 4 erfolgt separat aggregiert zum einen für Einkommensbänder von
+jeweils einer Million Euro und zum anderen für jeden Mitgliedsstaat
+des Europäischen Wirtschaftsraums, in dem mindestens ein
+Einkommensmillionär tätig ist. Einkommensmillionäre, die eine
+berufliche Tätigkeit in unterschiedlichen Mitgliedsstaaten des
+Europäischen Wirtschaftsraums ausüben, sind dem Mitgliedsstaat
+zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich
+ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl
+innerhalb als auch außerhalb des Europäischen Wirtschaftsraums
+ausüben, sind einem Mitgliedsstaat nach Satz 9 zuzuordnen, sofern sie
+ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen
+Wirtschaftsraums ausüben.
+
+(3) Die Anzeigen nach Absatz 1 und 2 sind im elektronischen Verfahren
+bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank
+veröffentlicht im Internet die für die Einreichung zu verwendenden
+Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die
+Aufsichtsbehörden weiter. Den Angaben nach Absatz 1 und 2 sind die
+Begriffsbestimmungen und Regelungen des Kreditwesengesetzes und der
+Institutsvergütungsverordnung zugrunde zu legen. Sie müssen sich
+jeweils auf die fixe und die variable Vergütung beziehen, die den
+Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans
+oder den Mitarbeitern für deren Leistung während des bis zum 31.
+Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der
+Einreichung der Anzeige gewährt worden ist oder nach § 20 Absatz 4
+Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Bei
+Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für
+Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen,
+für das die Anzeige erfolgt.
+
+
 ## § 10 Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den
@@ -902,7 +1238,7 @@ einzureichen.
 Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis
 nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des
 Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer
-1 bis 5, §§ 9 bis 11 und 14 der Inhaberkontrollverordnung genannten
+1 bis 5, §§ 8a bis 11a und 14 der Inhaberkontrollverordnung genannten
 Erklärungen und Unterlagen beizufügen und auf Verlangen der
 Bundesanstalt Auskünfte zu erteilen. Jeder Lebenslauf nach § 10 der
 Inhaberkontrollverordnung ist eigenhändig zu unterzeichnen. Die §§ 4,
@@ -2277,7 +2613,8 @@ Selbstauskunft die persönliche Zuverlässigkeit berühren können.
 
 ## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2809 — 2811)
+(Fundstelle: BGBl. I 2016, 2809 - 2811;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **AB**
 
@@ -2301,7 +2638,7 @@ Selbstauskunft die persönliche Zuverlässigkeit berühren können.
     *
 
 *    *
-    *[^F796418_F02_BJNR324500006BJNE002104118]
+    *[^F796418_F02_BJNR324500006BJNE002105130]
    Identnummer des Instituts
 
     *
@@ -2320,7 +2657,7 @@ Selbstauskunft die persönliche Zuverlässigkeit berühren können.
     *
     *
 
-*    *[^F796418_F01_BJNR324500006BJNE002104118]
+*    *[^F796418_F01_BJNR324500006BJNE002105130]
    Prüfungsverband
 
     *
@@ -2350,7 +2687,7 @@ Selbstauskunft die persönliche Zuverlässigkeit berühren können.
 
 
 
-[^F796418_F03_BJNR324500006BJNE002104118]
+[^F796418_F03_BJNR324500006BJNE002105130]
 **1.  Art der Anzeige**
 
 *    *   *                        Enge Verbindung (§ 24 Abs. 1 Nr. 12, Abs. 1a
@@ -2392,59 +2729,66 @@ Abgabe einer Einzelanzeige)
 
 
 
-[^F796418_F04_BJNR324500006BJNE002104118]
+[^F796418_F04_BJNR324500006BJNE002105130]
    **3.  Beteiligungsunternehmen**
 
-*    *   *                        CRR-Kreditinstitut
+*    *   *                        CRR -Kreditinstitut
         (§ 1 Abs. 3d Satz 1 KWG)
 
-    *   *                        Wertpapierhandelsunternehmen
-        (§ 1 Abs. 3d Satz 4 KWG)
+    *   *                        Wertpapierinstitut
+        (§ 2 Abs. 1 WpIG)
 
     *   *                        E-Geld-Institut
-        (§ 1a Abs. 1 Nr. 5 ZAG)
+        (§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)
 
 
 *    *   *                        sonstiges Kreditinstitut
         (§ 1 Abs. 1 KWG)
 
-    *   *                        sonstiges Finanzdienstleistungsinstitut
+    *   *                        Finanzdienstleistungsinstitut
         (§ 1 Abs. 1a KWG)
 
     *   *                        Kapitalverwaltungsgesellschaft
         (§ 17 KAGB)
 
 
-*    *   *                        Finanzunternehmen
+*    *   *                        Finanzinstitut
+[^F796418_F05_BJNR324500006BJNE002105130]
+        (Art. 4 Abs. 1 Nr. 26 CRR
+        )
+
+    *   *                        Finanzunternehmen
         (§ 1 Abs. 3 KWG)
 
     *   *                        Anbieter von Nebendienstleistungen
-[^F796418_F05_BJNR324500006BJNE002104118]
-        (Art. 4 Abs. 1 Nr. 18 CRR
-        )
+        (Art. 4 Abs. 1 Nr. 18 CRR)
 
-    *   *                        Finanzholding-Gesellschaft
+
+*    *   *                        Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 20 CRR)
 
-
-*    *   *                        gemischte Finanzholding-Gesellschaft
+    *   *                        gemischte Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 21 CRR)
 
-    *   *                        Erstversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 1 VAG)
-
-    *   *                        Rückversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 2 VAG)
+    *   *                        Versicherungsunternehmen
+        (§ 7 Nr. 33 VAG)
 
 
-*    *   *                        Versicherungs-Holdinggesellschaft
+*    *   *                        Versicherungsunternehmen
+        eines Drittstaats
+        (§ 7 Nr. 34 VAG)
+
+    *   *                        Versicherungs-Holdinggesellschaft
         (§ 7 Nr. 31 VAG)
 
     *   *                        Zahlungsinstitut
-        (§ 1 Abs. 1 Nr. 5 ZAG)
+        (§ 1 Abs. 1 Satz 1 Nr. 1 ZAG)
 
-    *   *                        sonstiges Unternehmen
 
+*    *   *                        sonstiges Unternehmen
+
+    *
+    *
 
 
 
@@ -2472,7 +2816,7 @@ Abgabe einer Einzelanzeige)
     *
     *
 
-*    *[^F796418_F06_BJNR324500006BJNE002104118]
+*    *[^F796418_F06_BJNR324500006BJNE002105130]
    PLZ
 
     *
@@ -2495,22 +2839,22 @@ Abgabe einer Einzelanzeige)
 *    *   Register-Nr./Amtsgericht
 
     *
-    *[^F796418_F07_BJNR324500006BJNE002104118]
+    *[^F796418_F07_BJNR324500006BJNE002105130]
    Rechtsträgerkennung
 
     *
-    *[^F796418_F08_BJNR324500006BJNE002104118]
+    *[^F796418_F08_BJNR324500006BJNE002105130]
    Wirtschaftszweig
 
     *
-    *[^F796418_F09_BJNR324500006BJNE002104118]
+    *[^F796418_F09_BJNR324500006BJNE002105130]
    Servicenummer
 
 
 
-[^F796418_F10_BJNR324500006BJNE002104118]
+[^F796418_F10_BJNR324500006BJNE002105130]
 **4.  Angaben zu den Beteiligungsquoten**
-[^F796418_F11_BJNR324500006BJNE002104118]
+[^F796418_F11_BJNR324500006BJNE002105130]
 ,
 
 
@@ -2518,7 +2862,7 @@ Abgabe einer Einzelanzeige)
         Ident-Nr. des Beteiligungs-
         unternehmens
 
-    *[^F796418_F12_BJNR324500006BJNE002104118]
+    *[^F796418_F12_BJNR324500006BJNE002105130]
    Firma
         , Rechtsform und Sitz
         (lt. Registereintragung) mit PLZ
@@ -2528,23 +2872,23 @@ Abgabe einer Einzelanzeige)
         ; Wirtschaftszweig
         ; Identnummer (falls bekannt); Servicenummer
 
-    *[^F796418_F13_BJNR324500006BJNE002104118]
+    *[^F796418_F13_BJNR324500006BJNE002105130]
    Kapitalanteil
 
     *   Kapital des
-[^F796418_F16_BJNR324500006BJNE002104118]
+[^F796418_F16_BJNR324500006BJNE002105130]
         Unternehmens
         Tsd. Euro
 
     *   Stimm-
         rechts-
         anteil
-[^F796418_F17_BJNR324500006BJNE002104118]
+[^F796418_F17_BJNR324500006BJNE002105130]
         in
         Prozent
 
     *   Verhältnis zum
-[^F796418_F18_BJNR324500006BJNE002104118]
+[^F796418_F18_BJNR324500006BJNE002105130]
         Institut
 
 
@@ -2555,11 +2899,11 @@ Abgabe einer Einzelanzeige)
 
 
 *    *   Nenn-
-[^F796418_F14_BJNR324500006BJNE002104118]
+[^F796418_F14_BJNR324500006BJNE002105130]
         wert
 
     *   Buch-
-[^F796418_F15_BJNR324500006BJNE002104118]
+[^F796418_F15_BJNR324500006BJNE002105130]
         wert
 
 
@@ -2660,7 +3004,7 @@ Seite 1
 
     *        *   *                              ja
 
-        *[^F796418_F19_BJNR324500006BJNE002104118]
+        *[^F796418_F19_BJNR324500006BJNE002105130]
    *                              nein
 
 
@@ -2694,7 +3038,7 @@ Seite 1
     *                    Die Beteiligung unterliegt vollständig den
     Ausnahmen nach Art. 91 CRR.
 
-[^F796418_F20_BJNR324500006BJNE002104118]
+[^F796418_F20_BJNR324500006BJNE002105130]
     *                    Die Beteiligung unterliegt teilweise den
     Ausnahmen nach Art. 91 CRR. Nach Berücksichtigung der Ausnahmen
     verbleibt eine Beteiligung in Höhe von **
@@ -2707,7 +3051,7 @@ Seite 1
 *    *
     *
 
-*    *[^F796418_F21_BJNR324500006BJNE002104118]
+*    *[^F796418_F21_BJNR324500006BJNE002105130]
    Besondere Bemerkungen
 
     *
@@ -2759,31 +3103,31 @@ Fußnoten:
 Diese Seite ist nicht mit einzureichen.
 
     Nur von Sparkassen und Kreditgenossenschaften auszufüllen.
-[^F796418_F01_BJNR324500006BJNE002104118]:     Ggf. Identnummer der Finanzholding-Gesellschaft oder der gemischten
+[^F796418_F01_BJNR324500006BJNE002105130]:     Ggf. Identnummer der Finanzholding-Gesellschaft oder der gemischten
     Finanzholding-Gesellschaft.
-[^F796418_F02_BJNR324500006BJNE002104118]:     Mehrfachauswahl ist zulässig.
-[^F796418_F03_BJNR324500006BJNE002104118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+[^F796418_F02_BJNR324500006BJNE002105130]:     Mehrfachauswahl ist zulässig.
+[^F796418_F03_BJNR324500006BJNE002105130]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
     Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
     Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
     größten Anteil am Geschäft des Unternehmens entspricht.
-[^F796418_F04_BJNR324500006BJNE002104118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+[^F796418_F04_BJNR324500006BJNE002105130]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
     vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
     Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
     (ABl. L 176 vom 27.6.2013, S. 1).
-[^F796418_F05_BJNR324500006BJNE002104118]:     Nur bei inländischen Unternehmen anzugeben.
-[^F796418_F06_BJNR324500006BJNE002104118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+[^F796418_F05_BJNR324500006BJNE002105130]:     Nur bei inländischen Unternehmen anzugeben.
+[^F796418_F06_BJNR324500006BJNE002105130]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
     Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
     sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
-[^F796418_F07_BJNR324500006BJNE002104118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+[^F796418_F07_BJNR324500006BJNE002105130]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
     Bankenstatistik“.
-[^F796418_F08_BJNR324500006BJNE002104118]:     Servicefeld für die elektronische Einreichung.
-[^F796418_F09_BJNR324500006BJNE002104118]:     Für mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die
+[^F796418_F08_BJNR324500006BJNE002105130]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F09_BJNR324500006BJNE002105130]:     Für mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die
     vollständige Beteiligungskette mit den jeweiligen unmittelbar
     gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen.
     Die Kette beginnt mit der unmittelbar gehaltenen Beteiligung des
     anzeigepflichtigen Instituts und endet mit dem anzuzeigenden mittelbar
     gehaltenen Beteiligungsunternehmen unter Nummer 3.
-[^F796418_F10_BJNR324500006BJNE002104118]: [^F796418_F11_BJNR324500006BJNE002104118]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
+[^F796418_F10_BJNR324500006BJNE002105130]: [^F796418_F11_BJNR324500006BJNE002105130]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
     Hauptvordruck ist dabei nur geeignet für einfache mittelbare
     Beteiligungsverhältnisse bis zu maximal vier Hierarchieebenen. Für
     komplexe Beteiligungsstrukturen oder mittelbare
@@ -2806,36 +3150,36 @@ Diese Seite ist nicht mit einzureichen.
     schon unter Nummer 3 gemacht wurden, in den Angaben zu den
     Beteiligungsquoten nicht wiederholt werden. Lediglich die Firma des
     Unternehmens muss eingetragen werden.
-[^F796418_F12_BJNR324500006BJNE002104118]:     Unmittelbarer Anteil des vorhergehenden (Tochter-)Unternehmens der
+[^F796418_F12_BJNR324500006BJNE002105130]:     Unmittelbarer Anteil des vorhergehenden (Tochter-)Unternehmens der
     Beteiligungskette an dem hier genannten Beteiligungsunternehmen (keine
     durchgerechneten Quoten).
-[^F796418_F13_BJNR324500006BJNE002104118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+[^F796418_F13_BJNR324500006BJNE002105130]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
     Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
     Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
     Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
     Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist
     zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben.
     Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
-[^F796418_F14_BJNR324500006BJNE002104118]:     Der Buchwert ist entsprechend dem vom Institut angewandten
+[^F796418_F14_BJNR324500006BJNE002105130]:     Der Buchwert ist entsprechend dem vom Institut angewandten
     Buchführungsstandard (beispielsweise HGB, IFRS oder US GAAP) zu
     ermitteln.
-[^F796418_F15_BJNR324500006BJNE002104118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+[^F796418_F15_BJNR324500006BJNE002105130]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
     zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
     Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
-[^F796418_F16_BJNR324500006BJNE002104118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+[^F796418_F16_BJNR324500006BJNE002105130]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
     Prozent mit einer Stelle nach dem Komma.
-[^F796418_F17_BJNR324500006BJNE002104118]:     Ist das Beteiligungsunternehmen ein Tochterunternehmen des
+[^F796418_F17_BJNR324500006BJNE002105130]:     Ist das Beteiligungsunternehmen ein Tochterunternehmen des
     anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ansonsten ist
     das Feld nicht auszufüllen.
-[^F796418_F18_BJNR324500006BJNE002104118]:     Falls „nein“ angekreuzt wird, ist dies zu begründen, ggf. sind weitere
+[^F796418_F18_BJNR324500006BJNE002105130]:     Falls „nein“ angekreuzt wird, ist dies zu begründen, ggf. sind weitere
     Unterlagen beizufügen.
-[^F796418_F19_BJNR324500006BJNE002104118]:     Buchwert der Beteiligung.
-[^F796418_F20_BJNR324500006BJNE002104118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+[^F796418_F19_BJNR324500006BJNE002105130]:     Buchwert der Beteiligung.
+[^F796418_F20_BJNR324500006BJNE002105130]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
     Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
     Kapitalveränderung, Fusion, Stammdatenänderung, abweichende
     Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus
     einem stillen Beteiligungsverhältnis, Unterbeteiligung.
-[^F796418_F21_BJNR324500006BJNE002104118]: 
+[^F796418_F21_BJNR324500006BJNE002105130]: 
 
 ## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1 AnzV)
 
@@ -3182,7 +3526,8 @@ Fall zu machen.
 
 ## Anlage 5 (zu § 8 Abs. 1 und 2 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2814 — 2816)
+(Fundstelle: BGBl. I 2016, 2814 - 2816;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **PB**
 
@@ -3224,7 +3569,7 @@ Fall zu machen.
     *
     *
 
-*    *[^F796418_F501_BJNR324500006BJNE002304118]
+*    *[^F796418_F501_BJNR324500006BJNE002305130]
    Prüfungsverband
 
     *
@@ -3253,7 +3598,7 @@ Fall zu machen.
 
 
 
-[^F796418_F502_BJNR324500006BJNE002304118]
+[^F796418_F502_BJNR324500006BJNE002305130]
 **1.  Art der Anzeige**
 
 *    *   *                        Bedeutende Beteiligung (§ 24 Abs. 1 Nr. 10,
@@ -3283,63 +3628,67 @@ Abgabe einer Einzelanzeige)
 
 
 
-[^F796418_F504_BJNR324500006BJNE002304118]
+[^F796418_F504_BJNR324500006BJNE002305130]
    **3.  Anteilseigner**
 
 *    *   *                        CRR-Kreditinstitut
         (§ 1 Abs. 3d Satz 1 KWG)
 
-    *   *                        Wertpapierhandelsunternehmen
-        (§ 1 Abs. 3d Satz 4 KWG)
+    *   *                        Wertpapierinstitut
+        (§ 2 Abs. 1 WpIG)
 
     *   *                        E-Geld-Institut
-        (§ 1a Abs. 1 Nr. 5 ZAG)
+        (§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)
 
 
 *    *   *                        sonstiges Kreditinstitut
         (§ 1 Abs. 1 KWG)
 
-    *   *                        sonstiges Finanzdienstleistungsinstitut
+    *   *                        Finanzdienstleistungsinstitut
         (§ 1 Abs. 1a KWG)
 
-    *   *                        Kapitalverwaltungsgesellschaft
+    *   *
+        Kapitalverwaltungsgesellschaft
         (§ 17 KAGB)
 
 
-*    *   *                        Finanzunternehmen
+*    *   *                        Finanzinstitut
+[^F796418_F505_BJNR324500006BJNE002305130]
+        (Art. 4 Abs. 1 Nr. 26 CRR
+        )
+
+    *   *                        Finanzunternehmen
         (§ 1 Abs. 3 KWG)
 
     *   *                        Anbieter von Nebendienstleistungen
-[^F796418_F505_BJNR324500006BJNE002304118]
-        (Art. 4 Abs. 1 Nr. 18 CRR
-        )
+        (Art. 4 Abs. 1 Nr. 18 CRR)
 
-    *   *                        Finanzholding-Gesellschaft
+
+*    *   *                        Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 20 CRR)
 
-
-*    *   *                        gemischte Finanzholding-Gesellschaft
+    *   *                        gemischte Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 21 CRR)
 
-    *   *                        Erstversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 1 VAG)
-
-    *   *                        Rückversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 2 VAG)
+    *   *                        Versicherungsunternehmen
+        (§ 7 Nr. 33 VAG)
 
 
-*    *   *                        Versicherungs-Holdinggesellschaft
+*    *   *                        Versicherungsunternehmen
+        eines Drittstaats
+        (§ 7 Nr. 34 VAG)
+
+    *   *                        Versicherungs-Holdinggesellschaft
         (§ 7 Nr. 31 VAG)
 
     *   *                        Zahlungsinstitut
-        (§ 1 Abs. 1 Nr. 5 ZAG)
-
-    *   *                        sonstiges Unternehmen
+        (§ 1 Abs. 1 Satz 1 Nr. 1 ZAG)
 
 
-*    *   *                        sonstiger Anteilseigner
+*    *   *                        sonstiges Unternehmen
 
-    *
+    *   *                        sonstiger Anteilseigner
+
     *
 
 
@@ -3368,7 +3717,7 @@ Abgabe einer Einzelanzeige)
     *
     *
 
-*    *[^F796418_F506_BJNR324500006BJNE002304118]
+*    *[^F796418_F506_BJNR324500006BJNE002305130]
    PLZ
 
     *
@@ -3391,15 +3740,15 @@ Abgabe einer Einzelanzeige)
 *    *   Register-Nr./Amtsgericht
 
     *
-    *[^F796418_F507_BJNR324500006BJNE002304118]
+    *[^F796418_F507_BJNR324500006BJNE002305130]
    Rechtsträgerkennung
 
     *
-    *[^F796418_F508_BJNR324500006BJNE002304118]
+    *[^F796418_F508_BJNR324500006BJNE002305130]
    Wirtschaftszweig
 
     *
-    *[^F796418_F509_BJNR324500006BJNE002304118]
+    *[^F796418_F509_BJNR324500006BJNE002305130]
    Servicenummer
 
 
@@ -3462,9 +3811,9 @@ eines Dritten an einem nachgeordneten ausländischen Unternehmen**
 
 
 
-[^F796418_F510_BJNR324500006BJNE002304118]
+[^F796418_F510_BJNR324500006BJNE002305130]
 **5.  Angaben zu den Beteiligungsquoten**
-[^F796418_F511_BJNR324500006BJNE002304118]
+[^F796418_F511_BJNR324500006BJNE002305130]
 ,
 
 
@@ -3473,7 +3822,7 @@ eines Dritten an einem nachgeordneten ausländischen Unternehmen**
         Anteilseigners/Beteiligungs-
         unternehmens
 
-    *[^F796418_F512_BJNR324500006BJNE002304118]
+    *[^F796418_F512_BJNR324500006BJNE002305130]
    Firma
         , Rechtsform und Sitz
         (lt. Registereintragung) mit PLZ
@@ -3485,26 +3834,26 @@ eines Dritten an einem nachgeordneten ausländischen Unternehmen**
         zusätzlich Angabe des Geburtsdatums;
         Identnummer (falls bekannt); Servicenummer
 
-    *[^F796418_F513_BJNR324500006BJNE002304118]
+    *[^F796418_F513_BJNR324500006BJNE002305130]
    Kapitalanteil
-[^F796418_F514_BJNR324500006BJNE002304118]
+[^F796418_F514_BJNR324500006BJNE002305130]
         ,
 
     *   Kapital
         des Instituts/
-[^F796418_F516_BJNR324500006BJNE002304118]
+[^F796418_F516_BJNR324500006BJNE002305130]
         Unternehmens
         Tsd. Euro
 
     *   Stimm-
         rechts-
         anteil
-[^F796418_F517_BJNR324500006BJNE002304118]
+[^F796418_F517_BJNR324500006BJNE002305130]
         in
         Prozent
 
     *   Verhältnis zum
-[^F796418_F518_BJNR324500006BJNE002304118]
+[^F796418_F518_BJNR324500006BJNE002305130]
         Institut
 
 
@@ -3600,7 +3949,7 @@ Seite 1
 *    *
     *
 
-*    *[^F796418_F519_BJNR324500006BJNE002304118]
+*    *[^F796418_F519_BJNR324500006BJNE002305130]
    Besondere Bemerkungen
 
     *
@@ -3655,32 +4004,32 @@ Fußnoten:
 Diese Seite ist nicht mit einzureichen.
 
     Nur von Sparkassen und Kreditgenossenschaften auszufüllen.
-[^F796418_F501_BJNR324500006BJNE002304118]:     Mehrfachauswahl ist zulässig.
-[^F796418_F502_BJNR324500006BJNE002304118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+[^F796418_F501_BJNR324500006BJNE002305130]:     Mehrfachauswahl ist zulässig.
+[^F796418_F502_BJNR324500006BJNE002305130]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
     Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
     Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
     größten Anteil am Geschäft des Unternehmens entspricht. Die Auswahl
     „sonstiger Anteilseigner“ ist nur für Anteilseigner ohne
     Unternehmenseigenschaft zu treffen.
-[^F796418_F504_BJNR324500006BJNE002304118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+[^F796418_F504_BJNR324500006BJNE002305130]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
     vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
     Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
     (ABl. L 176 vom 27.6.2013, S. 1).
-[^F796418_F505_BJNR324500006BJNE002304118]:     Nur bei inländischen Anteilseignern anzugeben.
-[^F796418_F506_BJNR324500006BJNE002304118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+[^F796418_F505_BJNR324500006BJNE002305130]:     Nur bei inländischen Anteilseignern anzugeben.
+[^F796418_F506_BJNR324500006BJNE002305130]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
     Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
     sog. Pre-LEI sind ebenfalls zu berücksichtigen.
-[^F796418_F507_BJNR324500006BJNE002304118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+[^F796418_F507_BJNR324500006BJNE002305130]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
     Bankenstatistik“.
-[^F796418_F508_BJNR324500006BJNE002304118]:     Servicefeld für die elektronische Einreichung.
-[^F796418_F509_BJNR324500006BJNE002304118]:     Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen
+[^F796418_F508_BJNR324500006BJNE002305130]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F509_BJNR324500006BJNE002305130]:     Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen
     unmittelbaren Beteiligungsquoten zwischen den Beteiligungsunternehmen.
     Die Kette beginnt in der ersten Zeile mit dem anzuzeigenden
     Anteilseigner laut Nummer 3 und endet mit dem anzeigepflichtigen
     Institut. In der ersten Zeile ist neben der Firma des Anteilseigners
     lediglich dessen Verhältnis zum Institut anzugeben. Ab der zweiten
     Zeile sind auch die Angaben zu den Anteilen auszufüllen.
-[^F796418_F510_BJNR324500006BJNE002304118]: [^F796418_F511_BJNR324500006BJNE002304118]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
+[^F796418_F510_BJNR324500006BJNE002305130]: [^F796418_F511_BJNR324500006BJNE002305130]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
     Hauptvordruck ist dabei nur geeignet für einfache mittelbare
     Beteiligungsverhältnisse bis zu maximal drei Hierarchieebenen. Für
     komplexe Beteiligungsstrukturen oder mittelbare
@@ -3714,7 +4063,7 @@ Diese Seite ist nicht mit einzureichen.
     schon unter Nummer 3 gemacht wurden, in den Angaben zu den
     Beteiligungsquoten nicht wiederholt werden. Lediglich die Firma des
     Anteilseigners muss eingetragen werden.
-[^F796418_F512_BJNR324500006BJNE002304118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+[^F796418_F512_BJNR324500006BJNE002305130]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
     Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
     Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
     Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
@@ -3722,23 +4071,23 @@ Diese Seite ist nicht mit einzureichen.
     Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert
     in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum
     Kurs des Meldestichtages umzurechnen.
-[^F796418_F514_BJNR324500006BJNE002304118]:     Unmittelbarer Anteil des vorhergehenden Anteilseigners der
+[^F796418_F514_BJNR324500006BJNE002305130]:     Unmittelbarer Anteil des vorhergehenden Anteilseigners der
     Beteiligungskette an dem hier genannten Beteiligungsunternehmen (keine
     durchgerechneten Quoten).
-[^F796418_F513_BJNR324500006BJNE002304118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+[^F796418_F513_BJNR324500006BJNE002305130]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
     zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
     Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
-[^F796418_F516_BJNR324500006BJNE002304118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+[^F796418_F516_BJNR324500006BJNE002305130]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
     Prozent mit einer Stelle nach dem Komma.
-[^F796418_F517_BJNR324500006BJNE002304118]:     Ist das Beteiligungsunternehmen ein Mutterunternehmen des
+[^F796418_F517_BJNR324500006BJNE002305130]:     Ist das Beteiligungsunternehmen ein Mutterunternehmen des
     anzeigepflichtigen Instituts, ist „Mutter“ einzutragen. Ansonsten ist
     das Feld nicht auszufüllen.
-[^F796418_F518_BJNR324500006BJNE002304118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+[^F796418_F518_BJNR324500006BJNE002305130]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
     Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
     Kapitalveränderung, Fusion, Stammdatenänderung, abweichende
     Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus
     einem stillen Beteiligungsverhältnis, Unterbeteiligung.
-[^F796418_F519_BJNR324500006BJNE002304118]: 
+[^F796418_F519_BJNR324500006BJNE002305130]: 
 (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)
 
 ## Anlage 6 NTLSI
@@ -4170,7 +4519,8 @@ Blatt ausführen)**
 
 ## Anlage 7 (zu § 11 Abs. 2 AnzV)
 
-(Fundstelle: BGBl. I 2016, 2819 — 2820)
+(Fundstelle: BGBl. I 2016, 2819 - 2820;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **BG**
 
@@ -4197,7 +4547,7 @@ Finanzholding-Gesellschaft tatsächlich führen**
     *
 
 *    *
-    *[^F796418_F701_BJNR324500006BJNE002502118]
+    *[^F796418_F701_BJNR324500006BJNE002503130]
    Identnummer Geschäftsleiter/in
 
     *
@@ -4266,7 +4616,7 @@ Finanzholding-Gesellschaft tatsächlich führen**
     *   Geburtsort
 
     *
-    *[^F796418_F702_BJNR324500006BJNE002502118]
+    *[^F796418_F702_BJNR324500006BJNE002503130]
    Servicenummer
 
 
@@ -4311,59 +4661,66 @@ Finanzholding-Gesellschaft tatsächlich führen**
 
 
 
-[^F796418_F703_BJNR324500006BJNE002502118]
+[^F796418_F703_BJNR324500006BJNE002503130]
 **2.  Beteiligungsunternehmen**
 
 *    *   *                        CRR-Kreditinstitut
         (§ 1 Abs. 3d Satz 1 KWG)
 
-    *   *                        Wertpapierhandelsunternehmen
-        (§ 1 Abs. 3d Satz 4 KWG)
+    *   *                        Wertpapierinstitut
+        (§ 2 Abs. 1 WpIG)
 
     *   *                        E-Geld-Institut
-        (§ 1a Abs. 1 Nr. 5 ZAG)
+        (§ 1 Abs. 2 Satz 1 Nr. 1 ZAG)
 
 
 *    *   *                        sonstiges Kreditinstitut
         (§ 1 Abs. 1 KWG)
 
-    *   *                        sonstiges Finanzdienstleistungsinstitut
+    *   *                        Finanzdienstleistungsinstitut
         (§ 1 Abs. 1a KWG)
 
     *   *                        Kapitalverwaltungsgesellschaft
         (§ 17 KAGB)
 
 
-*    *   *                        Finanzunternehmen
+*    *   *                        Finanzinstitut
+[^F796418_F704_BJNR324500006BJNE002503130]
+        (Art. 4 Abs. 1 Nr. 26 CRR
+        )
+
+    *   *                        Finanzunternehmen
         (§ 1 Abs. 3 KWG)
 
     *   *                        Anbieter von Nebendienstleistungen
-[^F796418_F704_BJNR324500006BJNE002502118]
-        (Art. 4 Abs. 1 Nr. 18 CRR
-        )
+        (Art. 4 Abs. 1 Nr. 18 CRR)
 
-    *   *                        Finanzholding-Gesellschaft
+
+*    *   *                        Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 20 CRR)
 
-
-*    *   *                        gemischte Finanzholding-Gesellschaft
+    *   *                        gemischte Finanzholding-Gesellschaft
         (Art. 4 Abs. 1 Nr. 21 CRR)
 
-    *   *                        Erstversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 1 VAG)
-
-    *   *                        Rückversicherungsunternehmen
-        (§ 7 Nr. 33 Alt. 2 VAG)
+    *   *                        Versicherungsunternehmen
+        (§ 7 Nr. 33 VAG)
 
 
-*    *   *                        Versicherungs-Holdinggesellschaft
+*    *   *                        Versicherungsunternehmen
+        eines Drittstaats
+        (§ 7 Nr. 34 VAG)
+
+    *   *                        Versicherungs-Holdinggesellschaft
         (§ 7 Nr. 31 VAG)
 
     *   *                        Zahlungsinstitut
-        (§ 1 Abs. 1 Nr. 5 ZAG)
+        (§ 1 Abs. 1 Satz Nr. 1 ZAG)
 
-    *   *                        sonstiges Unternehmen
 
+*    *   *                        sonstiges Unternehmen
+
+    *
+    *
 
 
 
@@ -4391,7 +4748,7 @@ Finanzholding-Gesellschaft tatsächlich führen**
     *
     *
 
-*    *[^F796418_F705_BJNR324500006BJNE002502118]
+*    *[^F796418_F705_BJNR324500006BJNE002503130]
    PLZ
 
     *
@@ -4412,11 +4769,11 @@ Finanzholding-Gesellschaft tatsächlich führen**
     *
 
 *    *   Register-Nr./Amtsgericht
-[^F796418_F706_BJNR324500006BJNE002502118]
+[^F796418_F706_BJNR324500006BJNE002503130]
         ; Rechtsträgerkennung
 
     *
-    *[^F796418_F707_BJNR324500006BJNE002502118]
+    *[^F796418_F707_BJNR324500006BJNE002503130]
    Wirtschaftszweig
 
     *
@@ -4443,7 +4800,7 @@ Finanzholding-Gesellschaft tatsächlich führen**
     *
 
 
-[^F796418_F708_BJNR324500006BJNE002502118]
+[^F796418_F708_BJNR324500006BJNE002503130]
    **3.  Angaben zu den Beteiligungsquoten**
 
 
@@ -4451,16 +4808,16 @@ Finanzholding-Gesellschaft tatsächlich führen**
         Ident-Nr. des Beteiligungs-
         unternehmens
 
-    *[^F796418_F709_BJNR324500006BJNE002502118]
+    *[^F796418_F709_BJNR324500006BJNE002503130]
    Kapitalanteil
 
     *   Kapital des
-[^F796418_F710_BJNR324500006BJNE002502118]
+[^F796418_F710_BJNR324500006BJNE002503130]
         Unternehmens
         Tsd. Euro
 
     *   Stimmrechts-
-[^F796418_F711_BJNR324500006BJNE002502118]
+[^F796418_F711_BJNR324500006BJNE002503130]
         anteil
         in Prozent
 
@@ -4490,7 +4847,7 @@ Finanzholding-Gesellschaft tatsächlich führen**
 *    *
     *
 
-*    *[^F796418_F712_BJNR324500006BJNE002502118]
+*    *[^F796418_F712_BJNR324500006BJNE002503130]
    Besondere Bemerkungen
 
     *
@@ -4544,51 +4901,54 @@ Diese Seite ist nicht mit einzureichen.
 
     oder der Person, die die Geschäfte einer Finanzholding-Gesellschaft
     oder einer gemischten Finanzholding-Gesellschaft tatsächlich führt.
-[^F796418_F701_BJNR324500006BJNE002502118]:     Servicefeld für die elektronische Einreichung.
-[^F796418_F702_BJNR324500006BJNE002502118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+[^F796418_F701_BJNR324500006BJNE002503130]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F702_BJNR324500006BJNE002503130]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
     Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
     Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
     größten Anteil am Geschäft des Unternehmens entspricht.
-[^F796418_F703_BJNR324500006BJNE002502118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+[^F796418_F703_BJNR324500006BJNE002503130]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
     vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
     Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012
     (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung.
-[^F796418_F704_BJNR324500006BJNE002502118]:     Nur bei inländischen Unternehmen anzugeben.
-[^F796418_F705_BJNR324500006BJNE002502118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+[^F796418_F704_BJNR324500006BJNE002503130]:     Nur bei inländischen Unternehmen anzugeben.
+[^F796418_F705_BJNR324500006BJNE002503130]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
     Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
     sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
-[^F796418_F706_BJNR324500006BJNE002502118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+[^F796418_F706_BJNR324500006BJNE002503130]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
     Bankenstatistik“.
-[^F796418_F707_BJNR324500006BJNE002502118]:     Für Beteiligungsstrukturen, in denen Treuhandverhältnisse vorkommen,
+[^F796418_F707_BJNR324500006BJNE002503130]:     Für Beteiligungsstrukturen, in denen Treuhandverhältnisse vorkommen,
     ist neben dem Hauptvordruck die Anlage für komplexe
     Beteiligungsstrukturen einzureichen. In diesem Fall ist Nummer 3 des
     Hauptvordrucks nicht auszufüllen.
-[^F796418_F708_BJNR324500006BJNE002502118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+[^F796418_F708_BJNR324500006BJNE002503130]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
     Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
     Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
     Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
     Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist
     zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben.
     Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
-[^F796418_F709_BJNR324500006BJNE002502118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+[^F796418_F709_BJNR324500006BJNE002503130]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
     zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
     Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
-[^F796418_F710_BJNR324500006BJNE002502118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+[^F796418_F710_BJNR324500006BJNE002503130]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
     Prozent mit einer Stelle nach dem Komma.
-[^F796418_F711_BJNR324500006BJNE002502118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+[^F796418_F711_BJNR324500006BJNE002503130]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
     Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
     Kapitalveränderung, Fusion, Kapital reduziert um eigene Anteile,
     Stammdatenänderung, abweichende Stimmrechtsanteile, Beteiligung
     resultiert ganz oder teilweise aus einem stillen
     Beteiligungsverhältnis.
-[^F796418_F712_BJNR324500006BJNE002502118]: 
+[^F796418_F712_BJNR324500006BJNE002503130]: 
 (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)
+PVGSI
 
-## Anlage 8 PVGSI
+## Anlage 8 ECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1737 — 1738)
+(Fundstelle: BGBl. I 2018, 1737 - 1738;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## **PVGSI**
+PVGSI
+## **ECB-CONFIDENTIAL**
 
 Personelle Veränderungen
 bei den Geschäftsleitern von Instituten und bei Personen, die die
@@ -4618,7 +4978,7 @@ Satz 1 Nr. 1 und 2, Satz 5 KWG)
 
 *    *
     *   Identnummer
-[^f804292_01_11_BJNR324500006BJNE003500118]
+[^f804292_01_11_BJNR324500006BJNE003501130]
         Geschäftsleiter(in)
 
     *
@@ -4641,7 +5001,7 @@ Satz 1 Nr. 1 und 2, Satz 5 KWG)
     *
     *
     *
-    *[^f804292_01_12_BJNR324500006BJNE003500118]
+    *[^f804292_01_12_BJNR324500006BJNE003501130]
    Identnummer des Instituts
 
     *
@@ -4720,7 +5080,7 @@ Gesellschaft**
     *
     *
 
-*    *[^f804292_01_13_BJNR324500006BJNE003500118]
+*    *[^f804292_01_13_BJNR324500006BJNE003501130]
    Gesellschaftsrechtliche Funktion
 
     *
@@ -5060,22 +5420,25 @@ Gesellschaft**
 
 
 
-[^f804292_01_11_BJNR324500006BJNE003500118]:    oder der einzelvertretungsberechtigten Person oder der Person, die die
+[^f804292_01_11_BJNR324500006BJNE003501130]:    oder der einzelvertretungsberechtigten Person oder der Person, die die
     Geschäfte der Finanzholding-Gesellschaft oder der gemischten
     Finanzholding-Gesellschaft tatsächlich führt
-[^f804292_01_12_BJNR324500006BJNE003500118]:     oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-
+[^f804292_01_12_BJNR324500006BJNE003501130]:     oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-
     Gesellschaft
-[^f804292_01_13_BJNR324500006BJNE003500118]:     beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich
+[^f804292_01_13_BJNR324500006BJNE003501130]:     beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich
     haftender Gesellschafter, Geschäftsleiter-Vertreter im
     Verhinderungsfall, Prokurist
 
 (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)
+PVVASI
 
-## Anlage 9 PVVASI
+## Anlage 9 ECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1739 — 1740)
+(Fundstelle: BGBl. I 2018, 1739 - 1740;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## **PVVASI**
+PVVASI
+## **ECB-CONFIDENTIAL**
 
 Personelle Veränderungen
 des Verwaltungs- oder Aufsichtsorgans von Instituten und
@@ -5104,7 +5467,7 @@ Gesellschaften
 
 *    *
     *   Identnummer
-[^f804292_01_14_BJNR324500006BJNE003600118]
+[^f804292_01_14_BJNR324500006BJNE003601130]
         Mitglied des Aufsichtsrats
 
     *
@@ -5127,7 +5490,7 @@ Gesellschaften
     *
     *
     *
-    *[^f804292_01_15_BJNR324500006BJNE003600118]
+    *[^f804292_01_15_BJNR324500006BJNE003601130]
    Identnummer des Instituts
 
     *
@@ -5269,7 +5632,7 @@ Gesellschaft**
 
 *    *
 
-*    *[^f804292_01_16_BJNR324500006BJNE003600118]
+*    *[^f804292_01_16_BJNR324500006BJNE003601130]
    Gesellschaftsrechtliche Funktion
 
 
@@ -5397,20 +5760,23 @@ Gesellschaft**
 
 
 
-[^f804292_01_14_BJNR324500006BJNE003600118]:    oder Verwaltungsratsmitglied oder Beiratsmitglied
-[^f804292_01_15_BJNR324500006BJNE003600118]:     oder Finanzholding-Gesellschaft oder gemischte Finanzholding-
+[^f804292_01_14_BJNR324500006BJNE003601130]:    oder Verwaltungsratsmitglied oder Beiratsmitglied
+[^f804292_01_15_BJNR324500006BJNE003601130]:     oder Finanzholding-Gesellschaft oder gemischte Finanzholding-
     Gesellschaft
-[^f804292_01_16_BJNR324500006BJNE003600118]:     beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied,
+[^f804292_01_16_BJNR324500006BJNE003601130]:     beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied,
     Aufsichtsratsvorsitzende(r), Verwaltungsratsvorsitzende(r),
     Beiratsmitglied
 
 (zu § 5b Abs. 4 AnzV)
+PVFU
 
-## Anlage 10 PVFU
+## Anlage 10 ECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1741 — 1744)
+(Fundstelle: BGBl. I 2018, 1741 - 1744;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## **PVFU**
+PVFU
+## **ECB-CONFIDENTIAL**
 
 
 *    *   **Anlage 1 zur Anzeige**
@@ -5734,7 +6100,7 @@ Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit
 –   Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu
     erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine
     Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von
-    vier Wochen nach Entscheidung des zuständigen Organs überschritten
+    zwei Wochen nach Entscheidung des zuständigen Organs überschritten
     ist.
 
 
@@ -5761,12 +6127,15 @@ Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit
 
 
 (zu § 5b Abs. 5 AnzV)
+PVFP
 
-## Anlage 11 PVFP
+## Anlage 11 ECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1745 — 1754)
+(Fundstelle: BGBl. I 2018, 1745 - 1754;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## **PVFP**
+PVFP
+## **ECB-CONFIDENTIAL**
 
 
 *    *   **Anlage 2 zur Anzeige**
@@ -7017,12 +7386,15 @@ Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit
 
 
 (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)
+NTSI
 
-## Anlage 12 NTSI
+## Anlage 12 ECB-CONFIDENTIAL
 
-(Fundstelle: BGBl. I 2018, 1755 — 1757)
+(Fundstelle: BGBl. I 2018, 1755 - 1757;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## **NTSI**
+NTSI
+## **ECB-CONFIDENTIAL**
 
 Nebentätigkeiten von Geschäftsleitern
 eines Instituts und Personen, die die Geschäfte einer
@@ -7058,7 +7430,7 @@ Finanzholding-Gesellschaft
 
 *    *
     *   Identnummer
-[^f804292_04_01_BJNR324500006BJNE003900118]
+[^f804292_04_01_BJNR324500006BJNE003901130]
         Geschäftsleiter(in)
 
     *
@@ -7081,7 +7453,7 @@ Finanzholding-Gesellschaft
     *
     *
     *
-    *[^f804292_04_02_BJNR324500006BJNE003900118]
+    *[^f804292_04_02_BJNR324500006BJNE003901130]
    Identnummer des Instituts
 
     *
@@ -7247,7 +7619,7 @@ Unternehmen**
     *   *
 
     *   als Mitglied
-[^f804292_04_03_BJNR324500006BJNE003900118]
+[^f804292_04_03_BJNR324500006BJNE003901130]
         des Beirats
 
 
@@ -7258,7 +7630,7 @@ Unternehmen**
     *
 
 *    *   Firma, Rechtsform und Sitz (lt. Registereintragung) mit PLZ und Staat;
-[^f804292_04_04_BJNR324500006BJNE003900118]
+[^f804292_04_04_BJNR324500006BJNE003901130]
         **Register-Nr./Amtsgericht, Rechtsträgerkennung**
         ; Wirtschaftszweig;
         Identnummer (falls bekannt) ****
@@ -7320,7 +7692,7 @@ Unternehmen**
     *
 
 
-[^f804292_04_05_BJNR324500006BJNE003900118]
+[^f804292_04_05_BJNR324500006BJNE003901130]
    **4.  Angaben zur zeitlichen Verfügbarkeit und zu
 Mandatsbeschränkungen**
 
@@ -7511,19 +7883,55 @@ Mandatsbeschränkungen**
 
 
 
-[^f804292_04_01_BJNR324500006BJNE003900118]:    oder der einzelvertretungsberechtigten Person oder der Person, die die
+[^f804292_04_01_BJNR324500006BJNE003901130]:    oder der einzelvertretungsberechtigten Person oder der Person, die die
     Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten
     Finanzholding-Gesellschaft tatsächlich führt, oder des Mitglieds eines
     Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von
     erheblicher Bedeutung ist, einer Finanzholding-Gesellschaft oder einer
     gemischten Finanzholding-Gesellschaft
-[^f804292_04_02_BJNR324500006BJNE003900118]:     oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-
+[^f804292_04_02_BJNR324500006BJNE003901130]:     oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-
     Gesellschaft
-[^f804292_04_03_BJNR324500006BJNE003900118]:     Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse
+[^f804292_04_03_BJNR324500006BJNE003901130]:     Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse
     des Beirats denen eines Verwaltungs- oder Aufsichtsorgans entsprechen
     und gesetzlich, per Satzung oder Gesellschaftsvertrag geregelt sind.
     Sofern eine einheitliche Identifikationsnummer „Legal Entity
     Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
     sog. Pre-LEI, sind ebenfalls anzugeben.
-[^f804292_04_04_BJNR324500006BJNE003900118]:     Nur bei Aufnahme einer Tätigkeit auszufüllen.
-[^f804292_04_05_BJNR324500006BJNE003900118]: 
+[^f804292_04_04_BJNR324500006BJNE003901130]:     Nur bei Aufnahme einer Tätigkeit auszufüllen.
+[^f804292_04_05_BJNR324500006BJNE003901130]: 
+
+## Anlage 13 (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2075)
+
+
+
+## Anlage 14 (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2076 - 2078)
+
+
+
+## Anlage 15 (zu § 9a Absatz 1 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2079)
+
+
+
+## Anlage 16 (zu § 9a Absatz 2 Satz 1 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2080 - 2081)
+
+
+
+## Anlage 17 (zu § 9a Absatz 2 Satz 2 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2082)
+
+
+
+## Anlage 18 (zu § 9a Absatz 2 Sätze 1 und 4 AnzV)
+
+(Fundstelle: BGBl. I 2022, 2083 - 2086)
+
+

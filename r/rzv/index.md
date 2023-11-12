@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1939
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.12.2019 I 2044
-
-Änderung durch
-:   Art. 1 V v. 29.7.2021 I 3294 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 29.7.2021 I 3294
 
 
 

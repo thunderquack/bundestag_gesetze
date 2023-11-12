@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4243
 
+V aufgeh. durch
+:   § 2 Satz 2 V 8253-1-3-35 v. 4.9.2023 I Nr. 240 mWv 1.1.2024
+
+Ersetzt durch
+:   V 8253-1-3-35 v. 4.9.2023 I Nr. 240 (KSAbg2024V)
+
 
 ## Eingangsformel
 

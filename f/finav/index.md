@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 4209
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.8.2020 I 1890
-
-Änderung durch
-:   Art. 7 Abs. 40 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 40 G v. 12.5.2021 I 990
 
 
 ## Abschnitt 1 - Allgemeines

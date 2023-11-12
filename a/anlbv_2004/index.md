@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 300
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.6.2016 I 1504
-
-Änderung durch
-:   Art. 3 V v. 19.10.2021 I 4717 (Nr. 75) textlich nachgewiesen, dokumentarisch nicht abschließend bearbeitet
+:   Art. 3 V v. 19.10.2021 I 4717
 
 
 ## § 1 Geltungsbereich
@@ -636,55 +633,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 4   (weggefallen)
-
-
-4.1 Meldeverpflichtung
-
-    Der Schiffsführer eines Schiffes, das nicht die Flagge eines
-    Mitgliedstaats der Europäischen Union führt und einen deutschen Hafen
-    anlaufen möchte, hat die im Anhang II der Richtlinie 2000/59/EG
-    vorgesehenen Angaben auf dem vorgeschriebenen und vom
-    Bundesministerium für Verkehr und digitale Infrastruktur bekannt
-    gemachten Formular (VkBl. 2016 S. 392) wahrheitsgetreu zu melden und
-    die Meldung
-
-    a)  mindestens 24 Stunden vor der Ankunft, sofern der Anlaufhafen bekannt
-        ist, oder
-
-
-    b)  sobald der Anlaufhafen bekannt ist, falls diese Information weniger
-        als 24 Stunden vor der Ankunft vorliegt, oder
-
-
-    c)  spätestens beim Auslaufen aus dem zuletzt angelaufenen Hafen, falls
-        die Fahrtdauer weniger als 24 Stunden beträgt,
-
-
-
-    der Meldestelle des jeweiligen deutschen Anlaufhafens zu übermitteln.
-    Die sonstigen Verpflichtungen auf Grund der Umsetzung der genannten
-    Richtlinie in anderen Rechtsvorschriften für Schiffe, die die
-    Bundesflagge, die Flagge eines Mitgliedstaats der Europäischen Union
-    oder eines anderen Staates führen, bleiben unberührt.
-
-
-4.2 Meldestellen
-
-    Das Bundesministerium für Verkehr und digitale Infrastruktur hat die
-    hinsichtlich der Verpflichtung zur Übermittlung von Angaben an die
-    Bundesrepublik Deutschland nach Nummer 4.1 und nach § 5 Absatz 1 Satz
-    1 des Schiffssicherheitsgesetzes in Verbindung mit Abschnitt D Nummer
-    16 der Anlage zu diesem Gesetz empfangszuständigen Behörden oder
-    Stellen (Meldestellen) im Verkehrsblatt (VkBl. 2003 S. 698, zuletzt
-    geändert in VkBl. 2008 S. 39, in der jeweils geltenden Fassung) und in
-    den Nachrichten für Seefahrer bekannt gemacht. Die in Satz 1 genannte
-    Verpflichtung gilt als erfüllt, wenn die erforderlichen – auch per
-    Telefax oder als elektronisches Dokument übermittelten – schriftlichen
-    Angaben einer für den Empfang nach Landesrecht zuständigen
-    Hafenbehörde oder der von ihr hierfür benannten Stelle vorliegen. Als
-    elektronisches Dokument übermittelte Daten sind in Papierform
-    mindestens bis zum Erreichen des folgenden Hafens an Bord
-    aufzubewahren.
 
 
 5   Maritime Verkehrssicherung

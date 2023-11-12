@@ -1431,8 +1431,9 @@ oder ist der Aufenthalt einzelner nicht bekannt, so wird einer der
 bekannten Eigentümer zum gesetzlichen Vertreter bestellt. Er ist von
 den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit. §
 16 Abs. 3 des Verwaltungsverfahrensgesetzes findet Anwendung. Im
-Übrigen gelten die §§ 1785, 1786, 1821 und 1837 sowie die Vorschriften
-des Bürgerlichen Gesetzbuchs über den Auftrag sinngemäß.
+Übrigen gelten die §§ 1819, 1850, 1862 Absatz 1 Satz 1 und Absatz 3
+sowie die Vorschriften des Bürgerlichen Gesetzbuchs über den Auftrag
+sinngemäß.
 
 (2) Ist der Gläubiger einer staatlich verwalteten Forderung oder sein
 Aufenthalt nicht festzustellen, so ist die Staatsbank Berlin

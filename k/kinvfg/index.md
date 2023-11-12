@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 974, 975
 
 Zuletzt geändert durch
-:   Art. 3 G v. 10.9.2021 I 4147
+:   Art. 5 G v. 4.12.2022 I 2142
 
 
 ## Kapitel 1 - Finanzhilfen zur Stärkung der Investitionstätigkeit finanzschwacher Kommunen nach Artikel 104b des Grundgesetzes
@@ -478,14 +478,14 @@ erneut zur Verfügung gestellt werden. Von den Ländern nach § 14 in
 Verbindung mit § 6 Absatz 2 zur Auszahlung angeordnete Bundesmittel
 für Maßnahmen, die aufgrund von durch den Starkregen oder das
 Hochwasser im Juli 2021 unmittelbar verursachten Schäden nicht
-innerhalb des Förderzeitraums nach § 5 abgeschlossen werden können,
+innerhalb des Förderzeitraums nach § 13 abgeschlossen werden können,
 sind dem Bund nicht zurückzuzahlen. Dies ist vom Land gegenüber dem
 Bund nachzuweisen.
 
 (2) Nach dem 31. Dezember 2026 dürfen Bundesmittel nicht mehr zur
-Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 5 Absatz
-2 nicht mehr nach dem 31. Dezember 2027. Der Rückforderungsanspruch
-nach Absatz 1 bleibt unberührt.
+Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 13
+Absatz 2 nicht mehr nach dem 31. Dezember 2027. Der
+Rückforderungsanspruch nach Absatz 1 bleibt unberührt.
 
 (3) Nach Absatz 1 zurückzuzahlende Mittel sind zu verzinsen. Werden
 Mittel entgegen § 6 Absatz 2 Satz 2 und 3 zu früh angewiesen, so sind

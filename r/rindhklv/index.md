@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2196
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.1.2019 I 2
+:   Art. 4 V v. 10.3.2022 I 428
 
 
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
@@ -27,10 +27,13 @@ in Anhang IV Teil A und Anhang VII Teil I der Verordnung (EU) Nr.
 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
 Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG)
 Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
-20\.12.2013, S. 671) bezeichneten Handelsklassen und Kategorien mit
-Ausnahme der Fleischigkeitsklasse S. Die Fleischigkeits- und
-Fettgewebeklassen sind entsprechend der Anlage in die dort
-bezeichneten Untergruppen zu unterteilen.
+20\.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016,
+S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die
+zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom
+28\.12.2020, S. 1) geändert worden ist, bezeichneten Handelsklassen und
+Kategorien mit Ausnahme der Fleischigkeitsklasse S. Die
+Fleischigkeits- und Fettgewebeklassen sind entsprechend der Anlage in
+die dort bezeichneten Untergruppen zu unterteilen.
 
 (2) Rinder im Sinne des Absatzes 1 sind Rinder, die zum
 Schlachtzeitpunkt jünger als acht Monate alt waren sowie solche, die
@@ -104,6 +107,13 @@ Rinderschlachtkörper selbst entbeinen.
 (2) Zusätzlich zu den in Absatz 1 genannten Kennzeichnungselementen
 ist der Schlachtkörper mit dem Schlachtdatum und dem Schlachtgewicht
 zu kennzeichnen.
+
+
+## § 3a Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
+die zuständige Behörde die Daten nach Abschnitt III der Anlage des
+Marktorganisationsgesetzes.
 
 
 ## § 4 Ordnungswidrigkeiten

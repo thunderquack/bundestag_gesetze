@@ -15,17 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1818
 
-Änderung durch
-:   Art. 3a G v. 3.12.2020 I 2682 ist berücksichtigt
-
-Änderung durch
-:   Art. 22 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 26 Abs. 2 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 16.7.2021 I 3026 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 G v. 19.12.2022 I 2479
 
 [^F812505_01_BJNR181810020]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -320,7 +311,11 @@ elektrische Energie durch den Einsatz von Braunkohle am Strommarkt
 erzeugen dürfen. Braunkohle-Kleinanlagen, die nicht in Anlage 2
 aufgeführt sind, werden bei der Ermittlung der verbleibenden
 Nettonennleistung der Steinkohleanlagen nach Satz 3 von dem jährlichen
-Zielniveau nicht abgezogen.
+Zielniveau nicht abgezogen. Die in Anlage 2 genannten
+Braunkohleanlagen Niederaußem K, Neurath F (BoA 2) und Neurath G (BoA
+3) werden bei der Berechnung des Zielniveaus für die Reduzierung der
+Steinkohleverstromung nach Satz 3 so behandelt, als würden sie zum
+Zieldatum 2038 stillgelegt.
 
 
 ### § 5 Erreichen des Zielniveaus durch Ausschreibungen und die gesetzliche Reduzierung
@@ -1367,9 +1362,11 @@ oder endgültigen Stilllegung der Steinkohleanlage. Der § 13b des
 Energiewirtschaftsgesetzes ist in diesem Fall nicht anzuwenden.
 Erfolgt die vorläufige oder endgültige Stilllegung einer
 Steinkohleanlage vor dem Zeitpunkt, zu dem das Verbot der
-Kohleverfeuerung gemäß § 51 spätestens wirksam wird, ist § 13b des
-Energiewirtschaftsgesetzes abweichend von den Sätzen 1 und 2
-anzuwenden.
+Kohleverfeuerung gemäß § 51 spätestens wirksam wird, ist § 13b des
+Energiewirtschaftsgesetzes abweichend von den Sätzen 1 und 2 mit der
+Maßgabe anzuwenden, dass bei der Prüfung der Systemrelevanz der Anlage
+der angezeigte Stilllegungszeitpunkt zugrunde gelegt wird. Im Übrigen
+bleibt Absatz 2 Nummer 1 und 2 unberührt.
 
 (4) Ein Betreiber eines Übertragungsnetzes darf die Umrüstung einer in
 seiner Regelzone liegenden Steinkohleanlage nach § 12 Absatz 1 Satz 2
@@ -2067,25 +2064,33 @@ stillgelegt, verbleibt es bei der Entschädigung nach Absatz 1.
 
 ### § 45 Auszahlungsmodalitäten
 
-(1) Die Entschädigung nach § 44 Absatz 1 wird in 15 gleich großen
+(1) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an
+die Zweckgesellschaften nach § 44 Absatz 2 in 15 gleich großen
 jährlichen Raten jeweils zum 31. Dezember über einen Zeitraum von 15
 Jahren gezahlt, beginnend mit dem Ende des Jahres, in dem erstmals
-eine Braunkohleanlage der RWE Power AG, oder im Falle der Zahlung an
-die Zweckgesellschaften nach § 44 Absatz 2, eine Braunkohleanlage der
-Lausitz Energie Kraftwerk AG, endgültig stillgelegt oder in die
-Zeitlich gestreckte Stilllegung überführt wird. Demnach wird die erste
-Rate jeweils zu folgenden Zeitpunkten gezahlt:
+eine Braunkohleanlage der Lausitz Energie Kraftwerk AG endgültig
+stillgelegt oder in die Zeitlich gestreckte Stilllegung überführt
+wird. Demnach wird die erste Rate am 31. Dezember 2025 an die
+Zweckgesellschaften gezahlt.
 
-1.  im Fall der RWE Power AG am 31. Dezember 2020,
+(1a) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an
+die RWE Power AG in zehn jährlichen Raten jeweils zum 31. Dezember
+über einen Zeitraum von zehn Jahren gezahlt, beginnend mit dem Ende
+des Jahres, in dem erstmals eine Braunkohleanlage der RWE Power AG
+endgültig stillgelegt oder in die Zeitlich gestreckte Stilllegung
+überführt wird. Demnach wird die erste Rate am 31. Dezember 2020 an
+RWE Power AG gezahlt. Die Höhe der Raten beträgt
+
+1.  jeweils 173 Millionen Euro in den Jahren 2020 bis 2023,
 
 
-2.  im Fall der Zweckgesellschaften am 31. Dezember 2025.
+2.  jeweils 318 Millionen Euro in den Jahren 2024 bis 2029.
 
 
 
 
-(2) Die Auszahlung der Entschädigung nach Absatz 1 kann verweigert
-werden, wenn im Auszahlungszeitpunkt die Finanzierung der
+(2) Die Auszahlung der Entschädigung nach Absatz 1 oder Absatz 1a kann
+verweigert werden, wenn im Auszahlungszeitpunkt die Finanzierung der
 bergrechtlichen Verpflichtungen durch die jeweiligen Anlagen- und
 Tagebaubetreiber aus Gründen der finanziellen Leistungsfähigkeit
 unmittelbar gefährdet ist. Eine Auszahlung der Entschädigung der
@@ -2121,7 +2126,7 @@ Anspruch auf Zahlung des Kohleersatzbonus nach § 7c des Kraft-Wärme-
 Kopplungsgesetzes geltend gemacht werden.
 
 
-### § 47 Überprüfung der vorzeitigen Stilllegung
+### § 47 Überprüfung der vorzeitigen Stilllegung; Weiterbetrieb und Reserve
 
 (1) Im Rahmen der umfassenden Überprüfung nach den §§ 54 und 56 in den
 Jahren 2026, 2029 und 2032 wird bezüglich der Stilllegung der
@@ -2143,22 +2148,37 @@ sollte, abweichend von § 40 Absatz 1 und 2 sowie der Anlage 2 die
 betreffende Braunkohleanlage spätestens bis zum 31. Dezember 2029
 endgültig still.
 
+(3) Die Bundesregierung prüft bis zum 30. September 2023, ob die
+Braunkohleanlagen Neurath D und Neurath E über den in Anlage 2
+genannten Stilllegungszeitpunkt bis zum 31. März 2025 weiterbetrieben
+oder in eine Reserve überführt werden sollen.
+
+(4) Die Bundesregierung prüft spätestens im Rahmen der zum 15. August
+2026 nach § 54 vorzunehmenden Überprüfung, ob und in welchem Umfang
+die Braunkohleanlagen Niederaußem K, Neurath F (BoA 2) sowie Neurath G
+(BoA 3) am 1. April 2030 in eine Reserve bis längstens zum 31.
+Dezember 2033 überführt werden sollen.
+
 
 ### § 48 Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II
 
 (1) Die energiepolitische und energiewirtschaftliche Notwendigkeit und
 der vordringliche Bedarf zur Gewährleistung einer sicheren und
-zuverlässigen Energieversorgung wird für den Tagebau Garzweiler II in
-den Grenzen der Leitentscheidung der Landesregierung von Nordrhein-
-Westfalen zur Zukunft des Rheinischen Braunkohlereviers/Garzweiler II
-vom 5. Juli 2016 festgestellt.
+zuverlässigen Energieversorgung werden für den Tagebau Garzweiler II
+in den Grenzen der Leitentscheidung der Landesregierung von Nordrhein-
+Westfalen zur Zukunft des Rheinischen Braunkohlereviers/Garzweiler II
+vom 23. März 2021 festgestellt, soweit durch diese Feststellung der
+Erhalt der Ortschaften Keyenberg, Kuckum, Oberwestrich, Unterwestrich
+und Berverath sowie der Holzweiler Höfe (Eggerather Hof, Roitzerhof,
+Weyerhof), jeweils mit einem angemessenem Abstand, bei der weiteren
+Tagebauführung sichergestellt wird.
 
 (2) Die Feststellung nach Absatz 1 ist für die Planung sowie
 fachrechtliche Zulassungen zu Grunde zu legen. Der damit verbindlich
 festgestellte energiepolitische und energiewirtschaftliche Bedarf
-schließt räumliche Konkretisierungen im Rahmen der Braunkohlenplanung
-und der anschließenden fachrechtlichen Zulassungen des Landes
-Nordrhein-Westfalen nicht aus.
+schließt räumliche Konkretisierungen im Rahmen einer neuen
+Leitentscheidung, der Braunkohlenplanung und der anschließenden
+fachrechtlichen Zulassungen des Landes Nordrhein-Westfalen nicht aus.
 
 
 ### § 49 Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags
@@ -2169,10 +2189,10 @@ Deutschland mit den Betreibern oder einem Betreiber von
 Braunkohleanlagen und weiteren, von der Reduzierung und Beendigung der
 Braunkohleverstromung unmittelbar betroffenen
 Braunkohletagebauunternehmen, einen öffentlich-rechtlichen Vertrag
-schließen, mit dem die aus den §§ 40 bis 47 folgenden Rechte und
-Pflichten zusätzlich vertraglich geregelt werden, in dem im
-Zusammenhang mit der Reduzierung und Beendigung der
-Braunkohleverstromung Regelungen zu den Planungs- und
+schließen sowie bei Bedarf Änderungen vereinbaren, mit dem die aus den
+§§ 40 bis 47 folgenden Rechte und Pflichten zusätzlich vertraglich
+geregelt werden, in dem im Zusammenhang mit der Reduzierung und
+Beendigung der Braunkohleverstromung Regelungen zu den Planungs- und
 Genehmigungsverfahren, zur bergrechtlichen Verantwortung der
 Tagebaubetreiber und zur sozialverträglichen Umsetzung geregelt
 werden, in dem die Verwendung der Entschädigung geregelt wird, in dem
@@ -2543,14 +2563,15 @@ Anzahl und die installierte Leistung der von Kohle auf Gas
 umgerüsteten Anlagen, auf die Aufrechterhaltung der Wärmeversorgung
 und auf die Strompreise und sie überprüft die Erreichung des
 gesetzlich festgelegten Zielniveaus nach § 4 sowie den Beitrag zur
-Erreichung der damit verbundenen Klimaschutzziele. Zu den in Satz 1
-genannten Überprüfungszeitpunkten wird die Bundesregierung auch
-Auswirkungen auf Rohstoffe, insbesondere Gips, die im Zuge der
-Kohleverstromung gewonnen werden, untersuchen. Die jeweiligen
-Zielniveaus nach § 4 bleiben vom Ergebnis der Untersuchung nach Satz 2
-unberührt. Bei der Überprüfung zum 15. August 2022 überprüft die
-Bundesregierung auch die Sozialverträglichkeit der Reduzierung und
-Beendigung der Kohleverstromung.
+Erreichung der damit verbundenen Klimaschutzziele und schlägt im Fall
+der drohenden Nichterreichung dieser Klimaschutzziele Maßnahmen zur
+Zielerreichung vor. Zu den in Satz 1 genannten Überprüfungszeitpunkten
+wird die Bundesregierung auch Auswirkungen auf Rohstoffe, insbesondere
+Gips, die im Zuge der Kohleverstromung gewonnen werden, untersuchen.
+Die jeweiligen Zielniveaus nach § 4 bleiben vom Ergebnis der
+Untersuchung nach Satz 2 unberührt. Bei der Überprüfung zum 15. August
+2022 überprüft die Bundesregierung auch die Sozialverträglichkeit der
+Reduzierung und Beendigung der Kohleverstromung.
 
 (2) Bei den Überprüfungen zum 15. August 2022, zum 15. August 2026 und
 zum 15. August 2029 prüft die Bundesregierung auch, um vorzeitige
@@ -2580,10 +2601,11 @@ Kapazitätsreserve sinnvoll sein kann.
 
 (3) Die Expertenkommission, die den Monitoring-Bericht der
 Bundesregierung nach § 63 Absatz 1 Satz 1 des
-Energiewirtschaftsgesetzes und nach § 98 des Erneuerbare-Energien-
-Gesetzes begleitet, bewertet die Überprüfungen der Bundesregierung
-nach Absatz 1 und 2 und legt der Bundesregierung Empfehlungen vor. Die
-Empfehlungen werden veröffentlicht.
+Energiewirtschaftsgesetzes und nach § 98 des Erneuerbare-Energien-
+Gesetzes begleitet, und der Expertenrat für Klimafragen nach § 11
+Bundes-Klimaschutzgesetz bewerten die Überprüfungen der
+Bundesregierung nach Absatz 1 und 2 und legen der Bundesregierung
+Empfehlungen vor. Die Empfehlungen werden veröffentlicht.
 
 (4) Die Bundesnetzagentur ermittelt für die Überprüfung der
 Bundesregierung nach den Absätzen 1 und 2, ob die vorhandenen
@@ -3519,7 +3541,7 @@ Kreisen und Landkreisen:
 
 ### Anlage 2 Stilllegungszeitpunkte Braunkohleanlagen
 
-(Fundstelle: BGBl. I 2020, 1846 - 1847)
+(Fundstelle: BGBl. I 2022, 2480 - 2481)
 
 
 *    *   Anlagen-
@@ -3527,7 +3549,7 @@ Kreisen und Landkreisen:
 
     *   Blockname
 
-    *   Wahlrecht
+    *   Wahlrechte
 
     *   BNetzA-Nr.
 
@@ -3537,15 +3559,11 @@ Kreisen und Landkreisen:
 
     *   Datum der
         Überführung
-        in die Zeitlich
-        gestreckte Stilllegung
-        („Überführungs-
-        zeitpunkt“)
+        in die Zeitlich gestreckte
+        Stilllegung („Überführungszeitpunkt“)
 
-    *   Endgültiges
-        Stilllegungsdatum
-        („Stilllegungs-
-        zeitpunkt“)
+    *   Endgültiges Stilllegungsdatum
+        („Stilllegungszeitpunkt“)
 
 
 *    *   RWE Power
@@ -3560,7 +3578,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2020
+    *   31.12.2020
 
 
 *    *   RWE Power
@@ -3575,7 +3593,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2021
+    *   31.12.2021
 
 
 *    *   RWE Power
@@ -3590,7 +3608,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2021
+    *   31.12.2021
 
 
 *    *   RWE Power
@@ -3598,15 +3616,17 @@ Kreisen und Landkreisen:
     *   Weisweiler E
         oder F
 
-    *   Wahlrecht: Weisweiler E/F
+    *   Wahlrecht:
+        Weisweiler E/F
 
-    *   BNA1025 oder BNA1026
+    *   BNA1025 oder
+        BNA1026
 
     *   321
 
     *   –
 
-    *   31. Dezember 2021
+    *   31.12.2021
 
 
 *    *   RWE Power
@@ -3621,12 +3641,13 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   1. April 2022
+    *   01.04.2022
 
 
 *    *   RWE Power
 
-    *   Frechen/Wachtberg (Brikettierung)
+    *   Frechen/Wachtberg
+        (Brikettierung)
 
     *   –
 
@@ -3637,7 +3658,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2022
+    *   31.12.2022
 
 
 *    *   RWE Power
@@ -3652,7 +3673,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2022
+    *   31.03.2024
 
 
 *    *   RWE Power
@@ -3667,7 +3688,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2022
+    *   31.03.2024
 
 
 *    *   RWE Power
@@ -3675,15 +3696,17 @@ Kreisen und Landkreisen:
     *   Weisweiler F
         oder E
 
-    *   Wahlrecht: Weisweiler E/F
+    *   Wahlrecht:
+        Weisweiler E/F
 
-    *   BNA1026 oder BNA1025
+    *   BNA1026 oder
+        BNA1025
 
     *   321
 
     *   –
 
-    *   1. Januar 2025
+    *   01.01.2025
 
 
 *    *   LEAG KW
@@ -3696,9 +3719,9 @@ Kreisen und Landkreisen:
 
     *   465
 
-    *   31. Dezember 2025
+    *   31.12.2025
 
-    *   31. Dezember 2028
+    *   31.12.2028
 
 
 *    *   LEAG KW
@@ -3711,9 +3734,9 @@ Kreisen und Landkreisen:
 
     *   465
 
-    *   31. Dezember 2027
+    *   31.12.2027
 
-    *   31. Dezember 2028
+    *   31.12.2028
 
 
 *    *   RWE Power
@@ -3721,9 +3744,11 @@ Kreisen und Landkreisen:
     *   Weisweiler G
         oder H
 
-    *   Wahlrecht: Weisweiler G/H
+    *   Wahlrecht:
+        Weisweiler G/H
 
-    *   BNA1027 oder BNA1028
+    *   BNA1027 oder
+        BNA1028
 
     *   663
         oder
@@ -3731,7 +3756,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   1. April 2028
+    *   01.04.2028
 
 
 *    *   LEAG KW
@@ -3746,7 +3771,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2028
+    *   31.12.2028
 
 
 *    *   LEAG KW
@@ -3761,7 +3786,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2028
+    *   31.12.2028
 
 
 *    *   RWE Power
@@ -3769,9 +3794,11 @@ Kreisen und Landkreisen:
     *   Weisweiler H
         oder G
 
-    *   Wahlrecht: Weisweiler G/H
+    *   Wahlrecht:
+        Weisweiler G/H
 
-    *   BNA1028 oder BNA1027
+    *   BNA1028 oder
+        BNA1027
 
     *   656
         oder
@@ -3779,7 +3806,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   1. April 2029
+    *   01.04.2029
 
 
 *    *   LEAG KW
@@ -3794,7 +3821,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2029
+    *   31.12.2029
 
 
 *    *   LEAG KW
@@ -3809,17 +3836,19 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2029
+    *   31.12.2029
 
 
 *    *   RWE Power
 
-    *   Niederaußem G oder H
+    *   Niederaußem G
+        oder H
 
     *   Wahlrecht:
         Niederaußem G/H
 
-    *   BNA0708 oder BNA0707
+    *   BNA0708 oder
+        BNA0707
 
     *   628
         oder
@@ -3827,85 +3856,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2029
-
-
-*    *   RWE Power
-
-    *   Niederaußem H oder G
-
-    *   Wahlrecht:
-        Niederaußem G/H
-
-    *   BNA0707 oder BNA0708
-
-    *   648
-        oder
-        628
-
-    *   31. Dezember 2029
-
-    *   31. Dezember 2033
-
-
-*    *   Saale Energie
-
-    *   Schkopau A
-
-    *   –
-
-    *   BNA0878
-
-    *   450
-
-    *   –
-
-    *   31. Dezember 2034
-
-
-*    *   Saale Energie
-
-    *   Schkopau B
-
-    *   –
-
-    *   BNA0879
-
-    *   450
-
-    *   –
-
-    *   31. Dezember 2034
-
-
-*    *   LEAG KW
-
-    *   Lippendorf R
-
-    *   –
-
-    *   BNA0115
-
-    *   875
-
-    *   –
-
-    *   31. Dezember 2035
-
-
-*    *   EnBW
-
-    *   Lippendorf S
-
-    *   –
-
-    *   BNA0116
-
-    *   875
-
-    *   –
-
-    *   31. Dezember 2035
+    *   31.12.2029
 
 
 *    *   RWE Power
@@ -3920,7 +3871,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.03.2030
 
 
 *    *   RWE Power
@@ -3936,7 +3887,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.03.2030
 
 
 *    *   RWE Power
@@ -3952,7 +3903,87 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.03.2030
+
+
+*    *   RWE Power
+
+    *   Niederaußem H
+        oder G
+
+    *   Wahlrecht:
+        Niederaußem G/H
+
+    *   BNA0707 oder
+        BNA0708
+
+    *   648
+        oder
+        628
+
+    *   31.12.2029
+
+    *   31.12.2033
+
+
+*    *   Saale Energie
+
+    *   Schkopau A
+
+    *   –
+
+    *   BNA0878
+
+    *   450
+
+    *   –
+
+    *   31.12.2034
+
+
+*    *   Saale Energie
+
+    *   Schkopau B
+
+    *   –
+
+    *   BNA0879
+
+    *   450
+
+    *   –
+
+    *   31.12.2034
+
+
+*    *   LEAG KW
+
+    *   Lippendorf R
+
+    *   –
+
+    *   BNA0115
+
+    *   875
+
+    *   –
+
+    *   31.12.2035
+
+
+*    *   EnBW
+
+    *   Lippendorf S
+
+    *   –
+
+    *   BNA0116
+
+    *   875
+
+    *   –
+
+    *   31.12.2035
 
 
 *    *   LEAG KW
@@ -3967,7 +3998,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.12.2038
 
 
 *    *   LEAG KW
@@ -3982,7 +4013,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.12.2038
 
 
 *    *   LEAG KW
@@ -3997,7 +4028,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.12.2038
 
 
 *    *   LEAG KW
@@ -4012,7 +4043,7 @@ Kreisen und Landkreisen:
 
     *   –
 
-    *   31. Dezember 2038
+    *   31.12.2038
 
 
 

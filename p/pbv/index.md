@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1528
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.12.2016 I 3076
-
-Änderung durch
-:   Art. 25 Abs. 9 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 Abs. 9 G v. 7.8.2021 I 3311
 
 
 ## Eingangsformel

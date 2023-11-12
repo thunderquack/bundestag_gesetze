@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 82
 
 Zuletzt geändert durch
-:   Art. 103 G v. 10.8.2021 I 3436
+:   Art. 2 Abs. 18 G v. 20.12.2022 I 2752
 
 
 ## § 1 Geltungsbereich
@@ -829,11 +829,4 @@ Gesetzes in der bis zum 11. August 2016 geltenden Fassung gilt als
 (3) Ein nach § 6 dieses Gesetzes in der bis zum 11. August 2016
 geltenden Fassung nach landesrechtlichen Vorschriften bestimmter
 Einzugsbereich gilt als Einzugsbereich im Sinne dieses Gesetzes.
-
-
-## § 17 Bekanntmachungen
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 

@@ -18,22 +18,10 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 60 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 7 Abs. 33 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 9.7.2021 I 2570 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 9.7.2021 I 2570
 
 Mittelbare änderung durch
-:   Art. 4 Abs. 2 G v. 9.7.2021 I 2570 (Nr. 43) ist berücksichtigt
+:   Art. 4 Abs. 2 G v. 9.7.2021 I 2570 ist berücksichtigt
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.10.2004 I 2696;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 24.11.2020 I 2540
-
-Änderung durch
-:   Art. 1 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 28.9.2021 I 4595
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 

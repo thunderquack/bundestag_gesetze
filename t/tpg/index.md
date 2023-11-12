@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 3 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 19a G v. 3.6.2021 I 1309 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 10 G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15d G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15d G v. 11.7.2021 I 2754
 
 
 ## Eingangsformel
@@ -944,9 +935,9 @@ Buchstabe a und b sowie Nr. 2 mit folgender Maßgabe zulässig:
 
 Soll das Knochenmark der minderjährigen Person für Verwandte ersten
 Grades verwendet werden, hat der gesetzliche Vertreter dies dem
-Familiengericht unverzüglich anzuzeigen, um eine Entscheidung nach §
-1629 Abs. 2 Satz 3 in Verbindung mit § 1796 des Bürgerlichen
-Gesetzbuchs herbeizuführen.
+Familiengericht unverzüglich anzuzeigen, um eine Entscheidung nach
+§ 1629 Absatz 2 Satz 3 in Verbindung mit § 1789 Absatz 2 Satz 3 und 4
+des Bürgerlichen Gesetzbuchs herbeizuführen.
 
 
 ### § 8b Entnahme von Organen und Geweben in besonderen Fällen
@@ -1004,7 +995,7 @@ ihren Willen hiernach auszurichten, ist abweichend von Absatz 1 Nr. 1
 nur zulässig, wenn der gesetzliche Vertreter oder ein Bevollmächtigter
 entsprechend § 8 Abs. 2 Satz 1 und 2 aufgeklärt worden ist und in die
 Entnahme und die Rückübertragung des Organs oder Gewebes eingewilligt
-hat. Die §§ 1627, 1901 Abs. 2 und 3 sowie § 1904 des Bürgerlichen
+hat. Die §§ 1627, 1821 Absatz 2 bis 4 sowie § 1829 des Bürgerlichen
 Gesetzbuchs sind anzuwenden.
 
 (3) Die Entnahme von Organen oder Geweben zum Zwecke der

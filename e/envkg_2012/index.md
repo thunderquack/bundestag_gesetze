@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1070
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.8.2020 I 1728
-
-Änderung durch
-:   Art. 10a G v. 16.7.2021 I 3026 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10a G v. 16.7.2021 I 3026
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -329,7 +326,7 @@ Im Sinne dieses Gesetzes
 24. sind die für die Kontrolle der Außengrenzen zuständigen Behörden
 
     die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des
-    Zollverwaltungsgesetzes,
+    Zollverwaltungsgesetzes;
 
 
 25. ist Tankstelle eine öffentliche Tankanlage mit Personal, an der über

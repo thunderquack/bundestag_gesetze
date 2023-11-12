@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 5.10.2021 I 4607
+:   Art. 20 G v. 8.10.2023 I Nr. 272
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -288,11 +288,12 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 4.  Berufssoldaten und Soldaten auf Zeit,
 
 
-5.  Rechtsanwälte, Notare, Patentanwälte, Steuerberater,
-    Vorstandsmitglieder von Steuerberatungsgesellschaften, die nicht
-    Steuerberater sind, ferner Steuerbevollmächtigte, Wirtschaftsprüfer,
-    vereidigte Buchprüfer und Personen, die fremde Rechtsangelegenheiten
-    geschäftsmäßig besorgen.
+5.  Rechtsanwälte, Notare, Patentanwälte, Steuerberater, Mitglieder
+    Geschäftsführungs- und Aufsichtsorgane von
+    Berufsausübungsgesellschaften im Sinne der Bundesrechtsanwaltsordnung,
+    der Patentanwaltsordnung und des Steuerberatungsgesetzes, ferner
+    Steuerbevollmächtigte, Wirtschaftsprüfer, vereidigte Buchprüfer und
+    Personen, die fremde Rechtsangelegenheiten geschäftsmäßig besorgen.
 
 
 
@@ -917,10 +918,11 @@ die vorbereitenden Schriftsätzen beigefügt sind.
     Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
-    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
-    Postfach und der elektronischen Poststelle des Gerichts,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
 
 
 3.  der Übermittlungsweg zwischen einem nach Durchführung eines
@@ -1198,7 +1200,7 @@ Besteuerung unterliegen, sowie bei Wegfall eines Steuerpflichtigen
 handeln die nach dem bürgerlichen Recht dazu befugten Personen. §§ 53
 bis 58 der Zivilprozessordnung gelten sinngemäß.
 
-(3) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen
+(3) Betrifft ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen
 Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger
 Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig,
 als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung
@@ -1275,9 +1277,10 @@ selbst führen.
 (2) Die Beteiligten können sich durch einen Rechtsanwalt,
 Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder
 vereidigten Buchprüfer als Bevollmächtigten vertreten lassen; zur
-Vertretung berechtigt sind auch Gesellschaften im Sinne des § 3 Nr. 2
-und 3 des Steuerberatungsgesetzes, die durch solche Personen handeln.
-Darüber hinaus sind als Bevollmächtigte vor dem Finanzgericht
+Vertretung berechtigt sind auch Gesellschaften im Sinne des § 3 Satz 1
+Nummer 2 und 3 des Steuerberatungsgesetzes, die durch Personen im
+Sinne des § 3 Satz 2 des Steuerberatungsgesetzes handeln. Darüber
+hinaus sind als Bevollmächtigte vor dem Finanzgericht
 vertretungsbefugt nur
 
 1.  Beschäftigte des Beteiligten oder eines mit ihm verbundenen
@@ -1296,9 +1299,14 @@ vertretungsbefugt nur
     einer entgeltlichen Tätigkeit steht,
 
 
-3.  Personen und Vereinigungen im Sinne des § 3a des
+3.  Personen und Vereinigungen im Sinne der §§ 3a und 3c des
     Steuerberatungsgesetzes im Rahmen ihrer Befugnisse nach § 3a des
     Steuerberatungsgesetzes,
+
+
+3a. zu beschränkter geschäftsmäßiger Hilfeleistung in Steuersachen nach
+    den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im
+    Rahmen dieser Befugnisse,
 
 
 4.  landwirtschaftliche Buchstellen im Rahmen ihrer Befugnisse nach § 4
@@ -3180,13 +3188,12 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen
 Unterschiede der beiden Verfahrensarten es nicht ausschließen, die
 Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß
-anzuwenden; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
-Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
-sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und
-an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt;
-die Vorschriften über das Verfahren im ersten Rechtszug sind
-entsprechend anzuwenden.
+anzuwenden. Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts und des
+Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der
+Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften
+über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
 
 
 ### § 156

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.7.2007 I 1446;
 
 Zuletzt geändert durch
-:   Art. 38 G v. 12.12.2019 I 2451
+:   Art. 13 G v. 23.5.2022 I 760
 
 
 ## § 1 Berechtigte
@@ -118,8 +118,8 @@ Absatz 1 Nummer 2
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5
-        des Aufenthaltsgesetzes erteilt,
+        seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des
+        Aufenthaltsgesetzes erteilt,
 
 
 
@@ -437,7 +437,10 @@ Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29.
 Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung
 des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451)
 ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach
-dem 31. Dezember 2019 beginnen.
+dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2
+Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom
+23\. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die
+Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
 
 
 ## § 11a Anwendungsvorschrift

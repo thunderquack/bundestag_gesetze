@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 624, 657
 
-Stand: Zuletzt geändert Art. 3 G v. 9.6.2021 I 1691
+Stand: Zuletzt geändert Art. 2 V v. 17.8.2023 I Nr. 222
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/25/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
 Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-,
@@ -94,8 +94,7 @@ getrennt oder gemeinsam zu vergeben, bleibt unberührt.
 (7) Kann das beabsichtigte Bauvorhaben oder die vorgesehene Erbringung
 einer Dienstleistung zu einem Auftrag führen, der in mehreren Losen
 vergeben wird, ist der geschätzte Gesamtwert aller Lose zugrunde zu
-legen. Bei Planungsleistungen gilt dies nur für Lose über gleichartige
-Leistungen. Erreicht oder überschreitet der geschätzte Gesamtwert den
+legen. Erreicht oder überschreitet der geschätzte Gesamtwert den
 maßgeblichen Schwellenwert, gilt diese Verordnung für die Vergabe
 jedes Loses.
 
@@ -388,7 +387,7 @@ Kommission sowie den zuständigen Aufsichts- oder Prüfbehörden auf
 deren Anforderung hin zu übermitteln.
 
 
-### Unterabschnitt 2 - Kommunikation
+### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
 
 
 #### § 9 Grundsätze der Kommunikation
@@ -460,6 +459,18 @@ Vertrags über die Errichtung des IT-Planungsrats und über die
 Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie
 in den Verwaltungen von Bund und Ländern vom 1. April 2010 zu
 verwenden.
+
+
+#### § 10a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+
+Für die Erstellung und Übermittlung von Auftragsbekanntmachungen,
+Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen über
+Auftragsänderungen (Bekanntmachungen) gelten die Anforderungen des §
+10a Absatz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1 und 3 der
+Vergabeverordnung über die Vorgaben der Durchführungsverordnung (EU)
+2019/1780 und des Datenaustauschstandards eForms einschließlich der
+Regelungen zu verpflichtenden Datenfeldern und der Übermittlung über
+den Datenservice Öffentlicher Einkauf entsprechend.
 
 
 #### § 11 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
@@ -986,18 +997,14 @@ betrieben wird.
 eine Änderung der Gültigkeitsdauer:
 
 1.  Wird die Gültigkeitsdauer ohne Einstellung des dynamischen
-    Beschaffungssystems geändert, ist das in Anhang V der
-    Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11. November
-    2015 zur Einführung von Standardformularen für die Veröffentlichung
-    von Vergabebekanntmachungen für öffentliche Aufträge und zur Aufhebung
-    der Durchführungsverordnung (EU) Nr. 842/2011 (ABl. L 296 vom
-    12\.11.2015, S. 1) in der jeweils geltenden Fassung enthaltene Muster
-    zu verwenden.
+    Beschaffungssystems geändert, erfolgt dies nach den Vorgaben der
+    Spalte 39 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+    2019/1780 in Verbindung mit § 10a.
 
 
-2.  Wird das dynamische Beschaffungssystem eingestellt, ist das in Anhang
-    VI der Durchführungsverordnung (EU) 2015/1986 enthaltene Muster zu
-    verwenden.
+2.  Wird das dynamische Beschaffungssystem eingestellt, erfolgt dies nach
+    den Vorgaben der Spalte 30 der Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a.
 
 
 
@@ -1585,15 +1592,16 @@ Frist setzen.
 ### Unterabschnitt 4 - Veröffentlichung, Transparenz
 
 
-#### § 35 Auftragsbekanntmachungen, Beschafferprofil
+#### § 35 Auftragsbekanntmachungen; Beschafferprofil; Ex-ante-Transparenz
 
 (1) Der Auftraggeber teilt seine Absicht, einen Auftrag zu vergeben
 oder eine Rahmenvereinbarung abzuschließen, in einer
 Auftragsbekanntmachung mit. § 13 Absatz 2, § 36 Absatz 4 und § 37
 bleiben unberührt.
 
-(2) Die Auftragsbekanntmachung wird nach dem im Anhang V der
-Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster erstellt.
+(2) Die Auftragsbekanntmachung wird nach den Vorgaben der Spalte 17
+der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780
+in Verbindung mit § 10a erstellt.
 
 (3) Der Auftraggeber benennt in der Auftragsbekanntmachung die
 Vergabekammer, an die sich die Unternehmen zur Nachprüfung geltend
@@ -1607,29 +1615,39 @@ Informationen von allgemeinem Interesse wie Kontaktstelle, Telefon-
 und Faxnummer, Anschrift und E-Mail-Adresse des Auftraggebers
 enthalten.
 
+(5) Die freiwillige Ex-ante-Transparenzbekanntmachung im Sinne des §
+135 Absatz 3 Satz 1 Nummer 2 und Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen erfolgt nach den Vorgaben der Spalte 26 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a.
+
 
 #### § 36 Regelmäßige nicht verbindliche Bekanntmachung
 
 (1) Der Auftraggeber kann die Absicht einer geplanten Auftragsvergabe
 mittels Veröffentlichung einer regelmäßigen nicht verbindlichen
-Bekanntmachung nach dem in Anhang IV der Durchführungsverordnung (EU)
-2015/1986 enthaltenen Muster bekanntgeben.
+Bekanntmachung nach den Vorgaben der Spalte 5 der Tabelle 2 des
+Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung mit §
+10a bekanntgeben.
 
 (2) Die regelmäßige nicht verbindliche Bekanntmachung kann durch das
-Amt für Veröffentlichungen der Europäischen Union oder im
-Beschafferprofil veröffentlicht werden. Erfolgt die Veröffentlichung
-im Beschafferprofil, übermittelt der Auftraggeber die Mitteilung
-dieser Veröffentlichung dem Amt für Veröffentlichungen der
-Europäischen Union nach dem Muster gemäß Anhang VIII der
-Durchführungsverordnung (EU) 2015/1986.
+Amt für Veröffentlichungen der Europäischen Union über den
+Datenservice Öffentlicher Einkauf oder im Beschafferprofil
+veröffentlicht werden. Erfolgt die Veröffentlichung im
+Beschafferprofil, übermittelt der Auftraggeber die Mitteilung dieser
+Veröffentlichung dem Amt für Veröffentlichungen der Europäischen Union
+über den Datenservice Öffentlicher Einkauf nach den Vorgaben der
+Spalte 2 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+2019/1780 in Verbindung mit § 10a.
 
 (3) Hat der Auftraggeber eine regelmäßige nicht verbindliche
 Bekanntmachung nach Absatz 1 veröffentlicht, kann die Mindestfrist für
 den Eingang von Angeboten im offenen Verfahren auf 15 Tage verkürzt
 werden, sofern
 
-1.  die regelmäßige nicht verbindliche Bekanntmachung alle nach Anhang IV
-    der Durchführungsverordnung (EU) 2015/1986 geforderten Informationen
+1.  die regelmäßige nicht verbindliche Bekanntmachung alle nach den
+    Vorgaben der Spalte 8 der Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 geforderten Informationen
     enthält, soweit diese zum Zeitpunkt der Veröffentlichung der
     regelmäßigen nicht verbindlichen Bekanntmachung vorlagen, und
 
@@ -1659,8 +1677,9 @@ verzichten, sofern die regelmäßige nicht verbindliche Bekanntmachung
     (Interessensbekundung),
 
 
-4.  alle nach Anhang IV der Durchführungsverordnung (EU) 2015/1986
-    geforderten Informationen enthält und
+4.  alle nach den Vorgaben der Spalte 11 der Tabelle 2 des Anhangs der
+    Durchführungsverordnung (EU) 2019/1780 geforderten Informationen
+    enthält und
 
 
 5.  wenigstens 35 Tage und nicht mehr als zwölf Monate vor dem Zeitpunkt
@@ -1696,15 +1715,15 @@ der Bekanntmachung über das Bestehen eines Qualifizierungssystems
 bekanntmachen.
 
 (2) Die Bekanntmachung über das Bestehen eines Qualifizierungssystems
-wird nach dem in Anhang VII der Durchführungsverordnung (EU) 2015/1986
-enthaltenen Muster erstellt. Der Auftraggeber gibt in der
-Bekanntmachung den Zweck und die Gültigkeitsdauer des Systems an.
+wird nach den Vorgaben der Spalte 15 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a
+erstellt. Der Auftraggeber gibt in der Bekanntmachung den Zweck und
+die Gültigkeitsdauer des Systems an.
 
-(3) Änderungen der Gültigkeitsdauer, ohne das System zu ändern, werden
-nach dem in Anhang XI der Durchführungsverordnung (EU) 2015/1986
-enthaltenen Muster erstellt. Bei Beendigung des Systems wird das in
-Anhang VI der Durchführungsverordnung (EU) 2015/1986 enthaltene Muster
-für Vergabebekanntmachungen nach § 38 verwendet.
+(3) Bekanntmachungen über Änderungen der Gültigkeitsdauer, ohne das
+System zu ändern oder die Beendigung des Systems, erfolgen nach den
+Vorgaben der Spalte 39 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a.
 
 
 #### § 38 Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen
@@ -1712,10 +1731,12 @@ für Vergabebekanntmachungen nach § 38 verwendet.
 (1) Der Auftraggeber übermittelt spätestens 30 Tage nach
 Zuschlagserteilung oder nach dem Abschluss einer Rahmenvereinbarung
 eine Vergabebekanntmachung mit den Ergebnissen des Vergabeverfahrens
-an das Amt für Veröffentlichungen der Europäischen Union.
+an das Amt für Veröffentlichungen der Europäischen Union über den
+Datenservice Öffentlicher Einkauf.
 
-(2) Die Vergabebekanntmachung wird nach dem in Anhang VI der
-Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster erstellt.
+(2) Die Vergabebekanntmachung wird nach den Vorgaben der Spalte 30 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a erstellt.
 
 (3) Ist das Vergabeverfahren durch eine regelmäßige nicht verbindliche
 Bekanntmachung in Gang gesetzt worden und hat der Auftraggeber
@@ -1734,9 +1755,9 @@ werden.
 
 (5) Auftragsänderungen gemäß § 132 Absatz 2 Nummer 2 und 3 des
 Gesetzes gegen Wettbewerbsbeschränkungen sind gemäß § 132 Absatz 5 des
-Gesetzes gegen Wettbewerbsbeschränkungen unter Verwendung des Musters
-gemäß Anhang XVII der Durchführungsverordnung (EU) 2015/1986
-bekanntzumachen.
+Gesetzes gegen Wettbewerbsbeschränkungen nach den Vorgaben der Spalte
+39 der Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
+2019/1780 in Verbindung mit § 10a bekanntzumachen.
 
 (6) Der Auftraggeber ist nicht verpflichtet, einzelne Angaben zu
 veröffentlichen, wenn deren Veröffentlichung
@@ -1797,26 +1818,30 @@ Dies gilt nicht, wenn ein Verhandlungsverfahren ohne vorherigen
 Teilnahmewettbewerb nach § 13 Absatz 2 zulässig wäre; § 13 Absatz 2
 bleibt unberührt.
 
-(2) Die Bekanntmachungen nach Absatz 1 werden nach dem Muster gemäß
-Anhang XIX der Durchführungsverordnung (EU) 2015/1986 erstellt.
+(2) Die Auftragsbekanntmachung nach Absatz 1 Nummer 1 erfolgt nach den
+Vorgaben der Spalte 21 und die nicht verbindliche Bekanntmachung nach
+Nummer 2 nach den Vorgaben der Spalte 13 der Tabelle 2 des Anhangs der
+Durchführungsverordnung (EU) 2019/1780 jeweils in Verbindung mit §
+10a. Die Bekanntmachung über das Bestehen eines Qualifizierungssystems
+nach Absatz 1 Nummer 3 erfolgt mit einem der Standardformulare nach
+den Vorgaben der Abschnitte Bekanntmachung und Änderung der Tabelle 2
+des Anhangs der Durchführungsverordnung (EU) 2019/1780 in Verbindung
+mit § 10a.
 
 (3) Der Auftraggeber, der einen Auftrag zur Erbringung von sozialen
 und anderen besonderen Dienstleistungen vergeben hat, teilt die
-Ergebnisse des Vergabeverfahrens unter Verwendung des in Anhang XIX
-der Durchführungsverordnung (EU) 2015/1986 enthaltenen Musters mit. Er
-kann die Vergabebekanntmachungen quartalsweise bündeln. In diesem Fall
-versendet er die Zusammenstellung spätestens 30 Tage nach
-Quartalsende.
+Ergebnisse des Vergabeverfahrens nach den Vorgaben der Spalte 34 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a mit. Er kann die Vergabebekanntmachungen
+quartalsweise bündeln. In diesem Fall versendet er die
+Zusammenstellung spätestens 30 Tage nach Quartalsende.
 
 
 #### § 40 Veröffentlichung von Bekanntmachungen
 
-(1) Auftragsbekanntmachungen, regelmäßige nicht verbindliche
-Bekanntmachungen nach § 36 Absatz 4, Bekanntmachungen über das
-Bestehen von Qualifikationssystemen und Vergabebekanntmachungen
-(Bekanntmachungen) sind dem Amt für Veröffentlichungen der
-Europäischen Union mit elektronischen Mitteln zu übermitteln. Der
-Auftraggeber muss den Tag der Absendung nachweisen können.
+(1) Der Auftraggeber muss den Tag der Absendung der Bekanntmachungen
+an das Amt für Veröffentlichungen der Europäischen Union nachweisen
+können.
 
 (2) Bekanntmachungen werden durch das Amt für Veröffentlichungen der
 Europäischen Union veröffentlicht. Als Nachweis der Veröffentlichung
@@ -2083,6 +2108,13 @@ Auftraggeber nach § 100 Absatz 1 Nummer 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen, beinhalten diese Kriterien nach § 142
 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen die Anwendung
 des § 123 des Gesetzes gegen Wettbewerbsbeschränkungen.
+
+(3) Verlangt der Aufraggeber für die wirtschaftliche und finanzielle
+Leistungsfähigkeit einen bestimmten Mindestjahresumsatz, darf dieser
+Wert das Zweifache des geschätzten Auftragswerts nur überschreiten,
+wenn aufgrund der Art des Auftragsgegenstands spezielle Risiken
+bestehen. Der Auftraggeber hat eine solche Anforderung in den
+Vergabeunterlagen oder im Vergabevermerk hinreichend zu begründen.
 
 
 #### § 47 Eignungsleihe
@@ -2619,8 +2651,9 @@ an.
 
 (1) Der Auftraggeber teilt seine Absicht, einen Planungswettbewerb
 auszurichten, in einer Wettbewerbsbekanntmachung mit. Die
-Wettbewerbsbekanntmachung wird nach dem in Anhang IX der
-Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster erstellt.
+Wettbewerbsbekanntmachung wird nach den Vorgaben der Spalte 24 der
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 in
+Verbindung mit § 10a erstellt.
 
 (2) Beabsichtigt der Auftraggeber im Anschluss an einen
 Planungswettbewerb einen Dienstleistungsauftrag im
@@ -2631,9 +2664,10 @@ Wettbewerbsbekanntmachung anzugeben.
 
 (3) Die Ergebnisse des Planungswettbewerbs sind bekanntzumachen und
 innerhalb von 30 Tagen an das Amt für Veröffentlichungen der
-Europäischen Union zu übermitteln. Die Bekanntmachung wird nach dem
-Muster gemäß Anhang X der Durchführungsverordnung (EU) 2015/1986
-erstellt.
+Europäischen Union über den Datenservice Öffentlicher Einkauf zu
+übermitteln. Die Bekanntmachung wird nach den Vorgaben der Spalte 37
+der Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780
+in Verbindung mit § 10a erstellt.
 
 (4) § 38 Absatz 6 gilt entsprechend.
 
@@ -2709,6 +2743,21 @@ Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
 Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 (ABl. L 124 vom 8.6.1971, S. 1).
+
+
+### § 66 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+
+Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung
+ergebenden Tages sind
+
+1.  § 10a nicht anzuwenden und
+
+
+2.  die §§ 21, 35, 36, 37, 38, 39, 40 und 61 in ihrer am 23. August 2023
+    geltenden Fassung weiter anzuwenden.
+
+
+
 
 (zu § 28 Absatz 2)
 

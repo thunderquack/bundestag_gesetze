@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.12.1997 I 3164;
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 37 G v. 13.4.2017 I 872
-
-Änderung durch
-:   Art. 40 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 100 G v. 10.8.2021 I 3436 (Nr. 53) ist berücksichtigt
+:   Art. 100 G v. 10.8.2021 I 3436
 
 
 ## Abschnitt 1 - Voraussetzungen und Inhalt des Sortenschutzes

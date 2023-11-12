@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 1.8.2021 bzw. 1.9.2021 bzw. 1.1.2022 bzw. 1.7.2022 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 23 G v. 2.3.2023 I Nr. 56 ist berücksichtigt
+
 
 ## I. - Allgemeine Vorschriften
 
@@ -3499,7 +3502,7 @@ Landesregierung bestimmte Behörde. Die Landesregierung kann die
 Ermächtigung auf die zuständige oberste Landesbehörde übertragen. In
 den Fällen des § 52 Abs. 3 Satz 2 ist Verwaltungsbehörde im Sinne des
 § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt
-für Güterverkehr.
+für Logistik und Mobilität.
 
 (4) In den Fällen des Absatzes 1 kann die Ordnungswidrigkeit auf der
 Grundlage und nach Maßgabe internationaler Übereinkünfte auch dann

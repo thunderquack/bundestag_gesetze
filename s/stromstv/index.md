@@ -1792,6 +1792,90 @@ Absatz 4 der Energiesteuer-Durchführungsverordnung vorgeschriebenen
 Angaben zu führen.
 
 
+## - - Zu § 9d des Gesetzes
+
+
+
+### § 17f Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+
+(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen
+Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem
+Vordruck für den Strom zu beantragen, der innerhalb eines
+Entlastungsabschnitts geleistet oder zur Erzeugung der gelieferten
+Wärme unmittelbar eingesetzt worden ist. Der Antragsteller hat in der
+Anmeldung die Angaben zu machen, die für die Bemessung der
+Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu
+berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag
+spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr
+folgt, in dem der Strom geleistet worden ist, beim Hauptzollamt
+gestellt wird.
+
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend
+können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr
+oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der
+Entlastungsbetrag bereits im jeweils ersten gewählten
+Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro
+beträgt.
+
+(3) Dem Antrag auf Steuerentlastung sind die Abwicklungsscheine nach §
+73 Absatz 1 Nummer 1 der Umsatzsteuer-Durchführungsverordnung
+beizufügen. Das Hauptzollamt kann auf Abwicklungsscheine verzichten,
+wenn die in diesen vorgeschriebenen Angaben anderen Belegen und den
+Aufzeichnungen des Antragstellers eindeutig und leicht nachprüfbar zu
+entnehmen sind.
+
+(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem
+für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und
+der Bezieher des Stroms oder der daraus erzeugten Wärme zu entnehmen
+sein müssen.
+
+
+## - - Zu § 9e des Gesetzes
+
+
+
+### § 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
+
+(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen
+Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem
+Vordruck für den Strom zu beantragen, der innerhalb eines
+Entlastungsabschnitts geleistet worden ist. Der Antragsteller hat in
+der Anmeldung die Angaben zu machen, die für die Bemessung der
+Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu
+berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag
+spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr
+folgt, in dem der Strom geleistet worden ist, beim Hauptzollamt
+gestellt wird.
+
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend
+können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr
+oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der
+Entlastungsbetrag bereits im jeweils ersten gewählten
+Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro
+beträgt.
+
+(3) Dem Antrag auf Steuerentlastung sind Unterlagen beizufügen, die
+den zeitlichen und räumlichen Umfang der begünstigten Maßnahme der
+Gemeinsamen Sicherheits- und Verteidigungspolitik sowie die vom
+Antragsteller geleistete Strommenge belegen. Das Hauptzollamt kann
+weitere Unterlagen anfordern, sofern dies zur Beurteilung der
+Steuerbegünstigung erforderlich ist.
+
+(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem
+für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und
+der Bezieher des Stroms zu entnehmen sein müssen.
+
+(5) Strom, der für zivile Missionen im Zusammenhang mit der
+Gemeinsamen Sicherheits- und Verteidigungspolitik geleistet wird, ist
+nur dann entlastungsfähig, wenn er durch das zivile Begleitpersonal
+von Streitkräften entnommen wird. Dieses muss Aufgaben ausführen, die
+unmittelbar mit einer Verteidigungsanstrengung im Rahmen mit der
+Gemeinsamen Sicherheits- und Verteidigungspolitik außerhalb ihres
+Mitgliedstaates zusammenhängen. Aufgaben, zu deren Erfüllung
+ausschließlich Zivilpersonal oder zivile Fähigkeiten eingesetzt
+werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
+
+
 ## - - zu § 10 des Gesetzes
 
 

@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen
-  auf das Bundesamt für Güterverkehr
+  auf das Bundesamt für Logistik und Mobilität
 jurabk: BAGÜV
 layout: default
 origslug: bag_v
@@ -8,7 +8,7 @@ slug: baguev
 
 ---
 
-# Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr (BAGÜV)
+# Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Logistik und Mobilität (BAGÜV)
 
 Ausfertigungsdatum
 :   2016-01-14
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 26.01.2016 V1
 
-Geändert durch
-:   Art. 1 V v. 11.7.2018 BAnz AT 30.07.2018 V1
+Zuletzt geändert durch
+:   Art. 32 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ Verkehr und digitale Infrastruktur:
 
 ## § 1 Befugnisübertragung
 
-Dem Bundesamt für Güterverkehr wird die Befugnis übertragen,
+Dem Bundesamt für Logistik und Mobilität wird die Befugnis übertragen,
 
 1.  Rechtsverordnungen nach § 3a Absatz 2 Satz 1 des
     Bundesfernstraßenmautgesetzes,

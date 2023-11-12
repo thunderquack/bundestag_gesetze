@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 973, 1001 (3756)
 
 Zuletzt geändert durch
-:   Art. 113 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 15 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 10.8.2021 I 3436
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

@@ -93,15 +93,13 @@ Schutzschrift durch die verantwortende Person signiert wird.
 
 1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
     Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des
-    De-Mail-Gesetzes                    angemeldet ist und er sich die
-    sichere Anmeldung gemäß § 5 Absatz 5 des
-    De-Mail-Gesetzes                    bestätigen lässt,
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
 
 
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung und dem
-    Register,
+2.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung und dem Register,
 
 
 3.  der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2189
 
 Zuletzt geändert durch
-:   Art. 107 G v. 10.8.2021 I 3436
+:   Art. 12 V v. 30.10.2023 I Nr. 290
 
 
 ## § 1 Antrag auf Zulassung als Klassifizierungsunternehmen
@@ -204,7 +204,7 @@ Muster verlangen.
 1.  Name und Anschrift des Antragstellers,
 
 
-2.  zwei aktuelle Lichtbilder, die den in § 5 Satz 1, 2 und 4 der
+2.  zwei aktuelle Lichtbilder, die den in § 4 Satz 1, 2 und 4 der
     Passverordnung festgelegten Anforderungen entsprechen,
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2350
 
 Zuletzt geändert durch
-:   Art. 2b G v. 22.12.2020 I 3299
+:   Art. 6 G v. 20.12.2022 I 2793
 
 
 ## Eingangsformel
@@ -927,7 +927,7 @@ werden nur gefördert, wenn
 
 
 2.  sie die Vorgaben zur Integration offener und standardisierter
-    Schnittstellen nach Maßgabe von § 291d des Fünften Buches
+    Schnittstellen nach Maßgabe von § 371 des Fünften Buches
     Sozialgesetzbuch berücksichtigen,
 
 
@@ -1005,11 +1005,16 @@ November 2018 abzüglich des Betrags nach Absatz 3 ergeben.
 (2) Für die Förderung der in § 19 Absatz 1 Satz 1 Nummer 2 bis 6
 genannten Vorhaben erlässt das Bundesamt für Soziale Sicherung bis zum
 30\. November 2020 Förderrichtlinien zur Konkretisierung der
-Voraussetzungen für die Förderung. Zur Vorbereitung dieser Richtlinie
-kann es sich der Unterstützung externer Sachverständiger bedienen.
+Voraussetzungen für die Förderung und zur Evaluierung des Reifegrades
+der Krankenhäuser nach § 14b des Krankenhausfinanzierungsgesetzes. Zur
+Vorbereitung dieser Richtlinie kann es sich der Unterstützung externer
+Sachverständiger bedienen. Das Bundesamt für Soziale Sicherung
+aktualisiert die Förderrichtlinien um den nach § 14b Satz 4 des
+Krankenhausfinanzierungsgesetzes festgelegten weiteren Stichtag
+innerhalb von sechs Monaten nach Festlegung.
 
-(3) Das Bundesamt für Soziale Sicherung schätzt bis zum 31. Dezember
-2020 die ihm bis zum 31. Dezember 2023 voraussichtlich entstehenden
+(3) Das Bundesamt für Soziale Sicherung schätzt bis zum 30. Juni 2023
+die ihm bis zum 31. Dezember 2025 voraussichtlich entstehenden
 Aufwendungen nach § 14a Absatz 6 Satz 3 des
 Krankenhausfinanzierungsgesetzes und passt diese Schätzung jährlich an
 die tatsächlich entstandenen Aufwendungen an.
@@ -1077,10 +1082,12 @@ genannten Unterlagen sowie die folgenden Unterlagen beizufügen:
     Krankenhausfinanzierungsgesetzes einzuhalten,
 
 
-2.  Nachweise darüber, dass mindestens 15 Prozent der für das Vorhaben
-    beantragten Fördermittel für Maßnahmen zur Verbesserung der
-    Informationssicherheit eingesetzt werden, und Nachweise, um welche
-    Maßnahmen zur Verbesserung der Informationssicherheit es sich handelt,
+2.  bei den in § 19 Absatz 1 Satz 1 Nummer 1 bis 10 genannten Vorhaben
+    Nachweise darüber, dass mindestens 15 Prozent der für das Vorhaben
+    beantragten Fördermittel für technische und organisatorische Maßnahmen
+    zur Verbesserung der Informationssicherheit eingesetzt werden, und
+    Nachweise, um welche Maßnahmen zur Verbesserung der
+    Informationssicherheit es sich handelt,
 
 
 3.  bei den in § 19 Absatz 1 Satz 1 Nummer 1 genannten Vorhaben Nachweise
@@ -1234,9 +1241,13 @@ folgenden Angaben:
     des Vorhabens,
 
 
-2.  einen Nachweis des beauftragten und berechtigten IT-Dienstleisters
-    darüber, dass die Förderrichtlinien des Bundesamtes für Soziale
-    Sicherung eingehalten wurden,
+2.  bei den in § 19 Absatz 1 Satz 1 Nummer 2 bis 6, 8 und 10 genannten
+    Vorhaben einen Nachweis des beauftragten und berechtigten IT-
+    Dienstleisters darüber, dass bei dem aktuellen Umsetzungsstand des
+    Vorhabens die Voraussetzungen der Förderrichtlinie des Bundesamtes für
+    Soziale Sicherung in ihrer jeweils aktuellen Fassung, die die
+    technische Umsetzung des Vorhabens betreffen, sowie § 14a Absatz 3
+    Satz 7 des Krankenhausfinanzierungsgesetzes eingehalten wurden,
 
 
 3.  die Ergebnisse einer Zwischenprüfung der zweckentsprechenden

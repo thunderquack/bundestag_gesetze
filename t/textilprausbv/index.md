@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur  Produktprüferin-Textil
+Title: Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil
 jurabk: TextilPrAusbV
 layout: default
 origslug: textilprausbv
@@ -7,7 +7,7 @@ slug: textilprausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur  Produktprüferin-Textil (TextilPrAusbV)
+# Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil (TextilPrAusbV)
 
 Ausfertigungsdatum
 :   2007-05-07

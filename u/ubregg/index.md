@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2506
 
+Zuletzt geändert durch
+:   Art. 12 G v. 8.10.2023 I Nr. 272
+
 
 ## § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
 
@@ -300,20 +303,22 @@ folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
     b)  zur Durchführung von
 
         aa) Ordnungsgeldverfahren nach § 335 des Handelsgesetzbuchs, auch in
-            Verbindung mit den §§ 335b, 339 Absatz 3 oder den §§ 340o, 341o oder
-            341y des Handelsgesetzbuchs, mit § 21 des Publizitätsgesetzes, mit
-            § 49 des D-Markbilanzgesetzes, mit § 31 des Vermögensanlagengesetzes,
-            mit den §§ 6c oder 28l des Energiewirtschaftsgesetzes, mit § 8 des
-            Telekommunikationsgesetzes oder mit § 123 Absatz 1, § 148 Absatz 1
-            oder § 160 Absatz 1 des Kapitalanlagegesetzbuchs,
+            Verbindung mit den §§ 335b, 339 Absatz 3 oder den §§ 340o, 341o, 341y
+            oder 342p des Handelsgesetzbuchs, mit § 21 des Publizitätsgesetzes,
+            mit § 49 des D-Markbilanzgesetzes, mit § 31 des
+            Vermögensanlagengesetzes, mit den §§ 6c oder 28l des
+            Energiewirtschaftsgesetzes, mit § 8 des Telekommunikationsgesetzes
+            oder mit § 123 Absatz 1, § 148 Absatz 1 oder § 160 Absatz 1 des
+            Kapitalanlagegesetzbuchs,
 
 
-        bb) Bußgeldverfahren aufgrund der §§ 334 oder 341x des Handelsgesetzbuchs,
-            des § 20 des Publizitätsgesetzes, des § 48 des D-Markbilanzgesetzes,
-            des § 30 des Vermögensanlagengesetzes, des § 405 des Aktiengesetzes,
-            des § 87 des Gesetzes betreffend die Gesellschaften mit beschränkter
-            Haftung, des § 152 des Genossenschaftsgesetzes, des § 145 des
-            Markengesetzes oder des § 4 des Netzwerkdurchsetzungsgesetzes,
+        bb) Bußgeldverfahren aufgrund der §§ 334, 341x oder 342o des
+            Handelsgesetzbuchs, des § 20 des Publizitätsgesetzes, des § 48 des
+            D-Markbilanzgesetzes, des § 30 des Vermögensanlagengesetzes, des § 405
+            des Aktiengesetzes, des § 87 des Gesetzes betreffend die
+            Gesellschaften mit beschränkter Haftung, des § 152 des
+            Genossenschaftsgesetzes, des § 145 des Markengesetzes oder des § 4 des
+            Netzwerkdurchsetzungsgesetzes,
 
 
         cc) Verwaltungsverfahren nach § 4a Absatz 2 des
@@ -325,12 +330,10 @@ folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
             ist,
 
 
-        ee) Verfahren der Eintragung in die Liste der qualifizierten Einrichtungen
-            nach § 4 Absatz 2 des Unterlassungsklagengesetzes sowie nach § 8b
-            Absatz 2 des Gesetzes gegen den unlauteren Wettbewerb sowie
-            Unternehmensdaten von Luftfahrtunternehmen und der Überprüfung dieser
-            Eintragung nach § 4a Absatz 1 des Unterlassungsklagengesetzes sowie
-            nach § 8b Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb,
+        ee) Verfahren zur Eintragung in die Listen nach den §§ 4 und 4d des
+            Unterlassungsklagengesetzes und nach § 8b des Gesetzes gegen den
+            unlauteren Wettbewerb sowie Verfahren zur Überprüfung der Eintragungen
+            in diesen Listen,
 
 
 
@@ -428,7 +431,7 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 Registerbehörde protokolliert.
 
 (2) Die Protokolldaten von natürlichen Personen, die Unternehmen nach
-§ 4 Absatz 1 sind, dürfen ausschließlich zum Zwecke der Erfüllung der
+§ 3 Absatz 1 sind, dürfen ausschließlich zum Zwecke der Erfüllung der
 Rechenschaftspflicht nach Artikel 5 Absatz 2 der Verordnung (EU)
 2016/679 und der datenschutzrechtlichen Rechte der betroffenen
 Personen verwendet werden.

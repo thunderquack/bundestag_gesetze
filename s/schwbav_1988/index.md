@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 484
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.6.2021 BAnz AT 28.6.2021 V2
+:   Art. 12 G v. 6.6.2023 I Nr. 146
 
 
 ## Eingangsformel

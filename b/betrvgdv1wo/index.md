@@ -1,6 +1,5 @@
 ---
-Title: Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung
-  - WO)
+Title: Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes
 jurabk: BetrVGDV1WO
 layout: default
 origslug: betrvgdv1wo
@@ -8,7 +7,7 @@ slug: betrvgdv1wo
 
 ---
 
-# Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung - WO) (BetrVGDV1WO)
+# Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (BetrVGDV1WO)
 
 Ausfertigungsdatum
 :   2001-12-11

@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.6.2007 I 1206;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.3.2020 I 433
-
-Änderung durch
-:   Art. 1 G v. 31.5.2021 I 1221 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 29.6.2020 I 1528 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 8.8.2020 I 1795 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2a G v. 3.12.2020 I 2694 ist berücksichtigt
-
-Änderung durch
-:   Art. 11 G v. 10.9.2021 I 4147 ist berücksichtigt
+:   Art. 6 G v. 22.3.2023 I Nr. 88
 
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
@@ -752,25 +737,25 @@ des Eigentums an den Flächen verlangen. Im Übrigen gilt § 19
 
 (3) Um die Planung der Bundesfernstraßen zu sichern, können die
 Landesregierungen und kann an Stelle der Landesregierungen zur
-Sicherung der Planung von Bundesautobahnen das Bundesministerium für
-Verkehr und digitale Infrastruktur, sofern das Fernstraßen-Bundesamt
-nach § 2 Absatz 1 Satz 1 Nummer 4 und Absatz 2 des Fernstraßen-
-Bundesamt-Errichtungsgesetzes zuständige Planfeststellungsbehörde ist,
-durch Rechtsverordnung für die Dauer von höchstens zwei Jahren
-Planungsgebiete festlegen. Die Gemeinden und Kreise, deren Bereich
-durch die festzulegenden Planungsgebiete betroffen wird, sind vorher
-zu hören. Die Ermächtigung kann durch Rechtsverordnung weiter
-übertragen werden. Die Rechtsverordnung des Bundesministeriums für
-Verkehr und digitale Infrastruktur auf Grund von Satz 1 bedarf nicht
-der Zustimmung des Bundesrates. Das Bundesministerium für Verkehr und
-digitale Infrastruktur kann die Ermächtigung nach Satz 1 durch
-Rechtsverordnung auf das Fernstraßen-Bundesamt übertragen. Auf die
-Planungsgebiete ist Absatz 1 sinngemäß anzuwenden. Die Frist kann,
-wenn besondere Umstände es erfordern, durch Rechtsverordnung auf
-höchstens vier Jahre verlängert werden. Die Festlegung tritt mit
-Beginn der Auslegung der Pläne im Planfeststellungsverfahren außer
-Kraft. Ihre Dauer ist auf die Vierjahresfrist nach Absatz 2
-anzurechnen.
+Sicherung der Planung von Bundesfernstraßen in Bundesverwaltung das
+Bundesministerium für Verkehr und digitale Infrastruktur, sofern das
+Fernstraßen-Bundesamt nach § 2 Absatz 1 Satz 1 Nummer 4 und Absatz 2
+des Fernstraßen-Bundesamt-Errichtungsgesetzes zuständige
+Planfeststellungsbehörde ist, durch Rechtsverordnung für die Dauer von
+höchstens zwei Jahren Planungsgebiete festlegen. Die Gemeinden und
+Kreise, deren Bereich durch die festzulegenden Planungsgebiete
+betroffen wird, sind vorher zu hören. Die Ermächtigung kann durch
+Rechtsverordnung weiter übertragen werden. Die Rechtsverordnung des
+Bundesministeriums für Verkehr und digitale Infrastruktur auf Grund
+von Satz 1 bedarf nicht der Zustimmung des Bundesrates. Das
+Bundesministerium für Verkehr und digitale Infrastruktur kann die
+Ermächtigung nach Satz 1 durch Rechtsverordnung auf das Fernstraßen-
+Bundesamt übertragen. Auf die Planungsgebiete ist Absatz 1 sinngemäß
+anzuwenden. Die Frist kann, wenn besondere Umstände es erfordern,
+durch Rechtsverordnung auf höchstens vier Jahre verlängert werden. Die
+Festlegung tritt mit Beginn der Auslegung der Pläne im
+Planfeststellungsverfahren außer Kraft. Ihre Dauer ist auf die
+Vierjahresfrist nach Absatz 2 anzurechnen.
 
 (4) Auf die Festlegung eines Planungsgebietes ist in Gemeinden, deren
 Bereich betroffen wird, hinzuweisen. Planungsgebiete sind außerdem in
@@ -1052,6 +1037,49 @@ den früheren Zustand des Weges wiederherzustellen.
 Bundesfernstraßen vorübergehend über andere öffentliche Straßen an das
 Bundesfernstraßennetz angeschlossen werden müssen.
 
+(6) Der Eigentümer einer baulichen Anlage, die an einer ausgewiesenen
+Umleitungsstrecke gelegen ist, kann vom Träger der Straßenbaulast für
+die gesperrte Bundesfernstraße in der Baulast des Bundes Ersatz der
+erbrachten notwendigen Aufwendungen für Schallschutzmaßnahmen an der
+baulichen Anlage auf Antrag verlangen, wenn durch die Sperrung der
+Hauptfahrbahn der Bundesfernstraße in der Baulast des Bundes
+
+1.  der vom Straßenverkehr auf der Umleitungsstrecke ausgehende Lärm um
+    mindestens 3 Dezibel (A) erhöht wird,
+
+
+2.  der Beurteilungspegel 64 Dezibel (A) am Tage (6.00 Uhr bis 22.00 Uhr)
+    oder 54 Dezibel (A) in der Nacht (22.00 Uhr bis 6.00 Uhr)
+    überschreitet und
+
+
+3.  eine Verkehrszunahme verursacht wird, die ab Sperrung der
+    Bundesfernstraße voraussichtlich länger als zwei Jahre andauern wird.
+
+
+
+Ein Anspruch besteht nicht, wenn die Lärmerhöhung insbesondere wegen
+der besonderen Art der Nutzung der baulichen Anlage zumutbar ist oder
+zugunsten des Betroffenen innerhalb eines angemessenen Zeitraums nach
+der Sperrung sonstige Lärmschutzmaßnahmen an der Umleitungsstrecke
+umgesetzt werden. Wird die zu schützende Nutzung nur am Tage oder nur
+in der Nacht ausgeübt, so ist nur der Immissionsgrenzwert für den
+jeweiligen Zeitraum anzuwenden. Sofern nicht abweichend geregelt, muss
+der Beurteilungspegel nach Satz 1 Nummer 2 durch den Träger der
+Straßenbaulast für die Bundesfernstraße in der Baulast des Bundes nach
+den Vorgaben der nach § 43 Absatz 1 Satz 1 Nummer 1 des Bundes-
+Immissionsschutzgesetzes erlassenen Verordnung berechnet werden. Die
+Berechnung kann auf repräsentative Immissionsorte entlang der
+betroffenen Umleitungsstrecke begrenzt werden. Notwendig sind
+erbrachte Aufwendungen, soweit durch sie die Vorgaben zum Umfang von
+Schallschutzmaßnahmen in der nach § 43 Absatz 1 Satz 1 Nummer 3 des
+Bundes-Immissionsschutzgesetzes erlassenen Verordnung eingehalten
+werden; nicht notwendige Aufwendungen sind bauliche Verbesserungen an
+Wänden und Dächern sowie an Decken unter nicht ausgebauten Dachräumen.
+Im Einzelfall kann das erforderliche Schalldämmmaß ohne Berechnung der
+einzelnen Umfassungsbauteile anhand eines repräsentativen Gebäudes an
+der Umleitungsstrecke festgelegt werden.
+
 
 ## § 15 Nebenbetriebe an den Bundesautobahnen
 
@@ -1087,7 +1115,8 @@ Vorteils auszurichten, der dem Konzessionsinhaber durch das Recht
 zuwächst, einen Nebenbetrieb an der Bundesautobahn zu betreiben; sie
 darf höchstens 1,53 Euro pro einhundert Liter abgegebenen Kraftstoffs
 und höchstens 3 vom Hundert von anderen Umsätzen betragen. Die
-Konzessionsabgabe ist an das Bundesamt für Güterverkehr zu entrichten.
+Konzessionsabgabe ist an das Bundesamt für Logistik und Mobilität zu
+entrichten.
 
 (4) Vorschriften über Sperrzeiten gelten nicht für Nebenbetriebe.
 Alkoholhaltige Getränke dürfen in der Zeit von 0.00 Uhr bis 7.00 Uhr
@@ -1104,10 +1133,10 @@ der der Beseitigung einer Ortsdurchfahrt dient.
 
 (2) Bei der Bestimmung der Linienführung sind die von dem Vorhaben
 berührten öffentlichen Belange einschließlich der
-Umweltverträglichkeit und des Ergebnisses des Raumordnungsverfahrens
-im Rahmen der Abwägung zu berücksichtigen. Die Bestimmung der
-Linienführung ist innerhalb einer Frist von drei Monaten
-abzuschließen.
+Umweltverträglichkeit und des Ergebnisses der
+Raumverträglichkeitsprüfung im Rahmen der Abwägung zu berücksichtigen.
+Die Bestimmung der Linienführung ist innerhalb einer Frist von drei
+Monaten abzuschließen.
 
 (3) Wenn Ortsplanungen oder Landesplanungen die Änderung bestehender
 oder die Schaffung neuer Bundesfernstraßen zur Folge haben können, ist
@@ -1257,15 +1286,15 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 2.  Die oberste Landesstraßenbaubehörde stellt den Plan fest, erteilt die
     Plangenehmigung und trifft die Entscheidung nach § 74 Abs. 7 des
     Verwaltungsverfahrensgesetzes, soweit sich aus § 2 Absatz 1 Satz 1
-    Nummer 4 und § 2 Absatz 2 und 3 und § 3 Absatz 3 Sätze 7 bis 11 des
-    Fernstraßen-Bundesamt-Errichtungsgesetzes keine Zuständigkeit des
-    Fernstraßen-Bundesamtes als Planfeststellungs- und
-    Plangenehmigungsbehörde ergibt. Bestehen zwischen der obersten
-    Landesstraßenbaubehörde oder dem Fernstraßen-Bundesamt, die den Plan
-    im Rahmen ihrer jeweiligen Zuständigkeiten feststellen, und einer
-    Bundesbehörde Meinungsverschiedenheiten, so ist vor der
-    Planfeststellung die Weisung des Bundesministeriums für Verkehr und
-    digitale Infrastruktur einzuholen.
+    Nummer 4 und § 2 Absatz 2 und 3 und § 3 Absatz 4 des Fernstraßen-
+    Bundesamt-Errichtungsgesetzes keine Zuständigkeit des Fernstraßen-
+    Bundesamtes als Planfeststellungs- und Plangenehmigungsbehörde ergibt.
+    Bestehen zwischen der obersten Landesstraßenbaubehörde oder dem
+    Fernstraßen-Bundesamt, die den Plan im Rahmen ihrer jeweiligen
+    Zuständigkeiten feststellen, und einer Bundesbehörde
+    Meinungsverschiedenheiten, so ist vor der Planfeststellung die Weisung
+    des Bundesministeriums für Verkehr und digitale Infrastruktur
+    einzuholen.
 
 
 

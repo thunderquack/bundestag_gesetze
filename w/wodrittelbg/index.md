@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1393
 
-Geändert durch
-:   Art. 5 V v. 26.8.2015 I 1443
-
-Änderung durch
-:   Art. 22 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 22 G v. 7.8.2021 I 3311
 
 
 

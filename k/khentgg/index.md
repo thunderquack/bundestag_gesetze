@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.7.2021 I 2754
+:   Art. 3a G v. 19.7.2023 I Nr. 197
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -61,7 +61,12 @@ Die ambulante Durchführung von Operationen und sonstiger
 stationsersetzender Eingriffe wird für die gesetzlich versicherten
 Patienten nach § 115b des Fünften Buches Sozialgesetzbuch und für
 sonstige Patienten nach den für sie geltenden Vorschriften,
-Vereinbarungen oder Tarifen vergütet.
+Vereinbarungen oder Tarifen vergütet. Die nach § 115f Absatz 1 Satz 1
+Nummer 2 des Fünften Buches Sozialgesetzbuch vereinbarten oder nach §
+115f Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch bestimmten
+Leistungen werden für alle Benutzer und Benutzerinnen des
+Krankenhauses einheitlich nach § 115f des Fünften Buches
+Sozialgesetzbuch vergütet.
 
 
 ### § 2 Krankenhausleistungen
@@ -143,7 +148,10 @@ im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 Leistungen sachgerecht vergütet werden. Dabei ist auch zu prüfen, ob
 eine Anpassung der Vergütung notwendig ist. Die Deutsche
 Krankenhausgesellschaft veröffentlicht das Ergebnis der Prüfung
-barrierefrei auf ihrer Internetseite.
+barrierefrei auf ihrer Internetseite. Die Deutsche
+Krankenhausgesellschaft veröffentlicht bis zum 31. Dezember 2023 die
+Höhe von Vergütungen für telekonsiliarärztliche Leistungen, die
+zwischen Krankenhäusern erbracht werden.
 
 
 ## Abschnitt 2 - Vergütung der Krankenhausleistungen
@@ -157,6 +165,10 @@ vergütet durch
 
 1.  ein von den Vertragsparteien nach § 11 Abs. 1 gemeinsam vereinbartes
     Erlösbudget nach § 4,
+
+
+1a. ein Erlösvolumen für die Versorgung von Kindern und Jugendlichen nach
+    § 4a,
 
 
 2.  eine von den Vertragsparteien nach § 11 Abs. 1 gemeinsam vereinbarte
@@ -185,13 +197,13 @@ vergütet durch
 (1) Das von den Vertragsparteien nach § 11 Abs. 1 zu vereinbarende
 Erlösbudget umfasst für voll- und teilstationäre Leistungen die
 Fallpauschalen nach § 7 Abs. 1 Satz 1 Nr. 1 und die Zusatzentgelte
-nach § 7 Abs. 1 Satz 1 Nr. 2. Es umfasst nicht die
-krankenhausindividuell zu vereinbarenden Entgelte nach § 6 Abs. 1 bis
-2a, nicht die Zusatzentgelte für die Behandlung von Blutern, nicht die
-Zu- und Abschläge nach § 7 Absatz 1, nicht die Entgelte für
-Modellvorhaben nach § 63 des Fünften Buches Sozialgesetzbuch und nicht
-die Vergütung nach § 140a des Fünften Buches Sozialgesetzbuch für die
-integrierte Versorgung.
+nach § 7 Abs. 1 Satz 1 Nr. 2. Es umfasst nicht das Erlösvolumen nach §
+4a, nicht die krankenhausindividuell zu vereinbarenden Entgelte nach §
+6 Abs. 1 bis 2a, nicht die Zusatzentgelte für die Behandlung von
+Blutern, nicht die Zu- und Abschläge nach § 7 Absatz 1, nicht die
+Entgelte für Modellvorhaben nach § 63 des Fünften Buches
+Sozialgesetzbuch und nicht die Vergütung nach § 140a des Fünften
+Buches Sozialgesetzbuch für die integrierte Versorgung.
 
 (2) Das Erlösbudget wird leistungsorientiert ermittelt, indem für die
 voraussichtlich zu erbringenden Leistungen Art und Menge der Entgelte
@@ -299,9 +311,10 @@ Abweichend von Satz 1 ist der Fixkostendegressionsabschlag, der für
 die Jahre ab dem Jahr 2022 vereinbart wird, jeweils auf die mit
 Fallpauschalen bewerteten Leistungen anzuwenden, die im Vergleich zur
 Vereinbarung für das Jahr 2019 zusätzlich im Erlösbudget
-berücksichtigt werden. Satz 9 findet keine Anwendung, sobald für das
-jeweilige Vorjahr mehr Leistungen, die mit Fallpauschalen bewertet
-werden, im Erlösbudget vereinbart wurden als für das Jahr 2019.
+berücksichtigt werden. Satz 8 Nummer 4 und Satz 9 finden keine
+Anwendung, sobald für das jeweilige Vorjahr mehr Leistungen, die mit
+Fallpauschalen bewertet werden, im Erlösbudget vereinbart wurden als
+für das Jahr 2019.
 
 (3) Das nach den Absätzen 1 und 2 vereinbarte Erlösbudget und die nach
 § 6 Abs. 3 vereinbarte Erlössumme werden für die Ermittlung von Mehr-
@@ -531,7 +544,7 @@ folgenden Maßnahmen finanziell gefördert:
 
     a)  Fachärztinnen oder Fachärzten für Innere Medizin und Infektiologie in
         Höhe von 75 Prozent der zusätzlich entstehenden Personalkosten für die
-        Jahre 2020 bis 2022,
+        Jahre 2020 bis 2025,
 
 
     b)  Fachärztinnen und Fachärzten mit Zusatz-Weiterbildung Infektiologie in
@@ -542,19 +555,26 @@ folgenden Maßnahmen finanziell gefördert:
     c)  Fachärztinnen und Fachärzten als Expertinnen oder Experten für
         Antibiotic Stewardship mit strukturierter curricularer Fortbildung
         „Antibiotic Stewardship (ABS)“ in Höhe von 50 Prozent der zusätzlich
-        entstehenden Personalkosten für die Jahre 2020 bis 2022,
+        entstehenden Personalkosten für die Jahre 2020 bis 2022 und in Höhe
+        von 30 Prozent der zusätzlich entstehenden Personalkosten für die
+        Jahre 2023 bis 2025,
 
 
 
 
 
-2.  die in den Jahren 2016 bis 2022 begonnene Weiterbildung zur Fachärztin
-    oder zum Facharzt für Innere Medizin und Infektiologie sowie Zusatz-
-    Weiterbildung Infektiologie für Fachärztinnen und Fachärzte durch
-    einen pauschalen Zuschuss in Höhe von einmalig 30 000 Euro,
+2.  in den Jahren 2016 bis 2025 begonnene Weiterbildungen zur Fachärztin
+    oder zum Facharzt für Innere Medizin und Infektiologie durch einen
+    pauschalen Zuschuss in Höhe von jährlich 30 000 Euro, ab dem Jahr 2023
+    in Höhe von jährlich 40 000 Euro,
 
 
-3.  vertraglich vereinbarte externe Beratungsleistungen im Bereich
+3.  in den Jahren 2016 bis 2025 begonnene Zusatz-Weiterbildungen
+    Infektiologie für Fachärztinnen und Fachärzte durch einen pauschalen
+    Zuschuss in Höhe von einmalig 30 000 Euro,
+
+
+4.  vertraglich vereinbarte externe Beratungsleistungen im Bereich
     Antibiotic Stewardship durch Fachärztinnen und Fachärzte für Innere
     Medizin und Infektiologie oder mit abgeschlossener Zusatz-
     Weiterbildung Infektiologie pauschal in Höhe von 400 Euro je
@@ -577,18 +597,18 @@ Vertragsparteien jährlich einen zusätzlichen Betrag als Prozentsatz
 des Gesamtbetrags nach Absatz 3 Satz 1 zu vereinbaren.
 Neueinstellungen, interne Besetzungen neu geschaffener Stellen oder
 Aufstockungen vorhandener Teilzeitstellen, die nach Satz 1 Nummer 1
-Buchstabe a und e vorgenommen wurden, sind bei der Ermittlung des
-Betrags nach Satz 5 unter Beachtung von Tariferhöhungen zu
-berücksichtigen. Der dem Krankenhaus nach den Sätzen 5 und 6 insgesamt
-zustehende Betrag wird durch einen Zuschlag auf die abgerechnete Höhe
-der DRG-Fallpauschalen und die Zusatzentgelte nach § 7 Absatz 1 Satz 1
-Nummer 1 und 2 sowie auf die sonstigen Entgelte nach § 6 Absatz 1 Satz
-1 und Absatz 2a finanziert; der Zuschlag wird gesondert in der
-Rechnung ausgewiesen. Absatz 8 Satz 3 und 6 bis 11 in der am 31.
-Dezember 2020 geltenden Fassung sowie § 5 Absatz 4 Satz 5 gelten
-entsprechend, wobei der Nachweis über die Stellenbesetzung und die
-zweckentsprechende Mittelverwendung berufsbildspezifisch zu erbringen
-ist. Der Betrag nach den Sätzen 5 und 6 darf keine
+und Satz 2 Nummer 1 Buchstabe b vorgenommen wurden, sind bei der
+Ermittlung des Betrags nach Satz 5 unter Beachtung von Tariferhöhungen
+zu berücksichtigen. Der dem Krankenhaus nach den Sätzen 5 und 6
+insgesamt zustehende Betrag wird durch einen Zuschlag auf die
+abgerechnete Höhe der DRG-Fallpauschalen und die Zusatzentgelte nach §
+7 Absatz 1 Satz 1 Nummer 1 und 2 sowie auf die sonstigen Entgelte nach
+§ 6 Absatz 1 Satz 1 und Absatz 2a finanziert; der Zuschlag wird
+gesondert in der Rechnung ausgewiesen. Absatz 8 Satz 3 und 6 bis 11 in
+der am 31. Dezember 2020 geltenden Fassung sowie § 5 Absatz 4 Satz 5
+gelten entsprechend, wobei der Nachweis über die Stellenbesetzung und
+die zweckentsprechende Mittelverwendung berufsbildspezifisch zu
+erbringen ist. Der Betrag nach den Sätzen 5 und 6 darf keine
 Pflegepersonalkosten enthalten, die über das Pflegebudget finanziert
 werden.
 
@@ -705,6 +725,183 @@ Teilzeitstellen von nach den Sätzen 1 und 3 finanziertem Personal zu
 Verfahren für die Übermittlung fest.
 
 
+### § 4a Ermittlung eines Erlösvolumens für die Versorgung von Kindern und Jugendlichen
+
+(1) Als Grundlage der Ermittlung eines Erlösvolumens für die
+Versorgung von Kindern und Jugendlichen für die Jahre 2023 und 2024
+(Anwendungsjahre) berechnet das Institut für das Entgeltsystem im
+Krankenhaus auf der Grundlage der ihm nach § 21 Absatz 1 übermittelten
+Daten die im Jahr 2019 für die maßgeblichen Fälle nach Satz 3
+erbrachte Summe der effektiven Bewertungsrelationen je Krankenhaus.
+Dabei sind die tagesbezogenen Pflegeentgelte nach § 7 Absatz 1 Satz 1
+Nummer 6a nicht zu berücksichtigen. Maßgebliche Fälle sind alle voll-
+oder teilstationär behandelten Patientinnen und Patienten, die zum
+Zeitpunkt der Aufnahme in das Krankenhaus über 28 Tage und unter 16
+Jahre alt sind. Für die Ermittlung eines krankenhausindividuellen
+Erlösvolumens für die Versorgung von Kindern und Jugendlichen für das
+jeweilige Anwendungsjahr ist die nach Satz 1 berechnete Summe der
+effektiven Bewertungsrelationen jeweils vom Institut für das
+Entgeltsystem im Krankenhaus mit dem für das jeweilige Anwendungsjahr
+vereinbarten oder festgesetzten Landesbasisfallwert zu multiplizieren;
+wurde ein Landesbasisfallwert für das jeweilige Anwendungsjahr noch
+nicht vereinbart oder festgesetzt, ermittelt das Institut für das
+Entgeltsystem im Krankenhaus das jeweilige krankenhausindividuelle
+Erlösvolumen für die Versorgung von Kindern und Jugendlichen, indem es
+die nach Satz 1 berechnete Summe der effektiven Bewertungsrelationen
+mit dem Landesbasisfallwert multipliziert, der für das dem jeweiligen
+Anwendungsjahr vorausgehende Jahr vereinbart oder festgesetzt worden
+ist und der um den für das jeweilige Anwendungsjahr maßgeblichen
+Veränderungswert nach § 9 Absatz 1b Satz 1 zu erhöhen ist. Das nach
+Satz 4 ermittelte krankenhausindividuelle Erlösvolumen für das Jahr
+2023 ist vom Institut für das Entgeltsystem im Krankenhaus um den
+Prozentsatz nach Absatz 2 Satz 1 und das nach Satz 4 ermittelte
+krankenhausindividuelle Erlösvolumen für das Jahr 2024 ist vom
+Institut für das Entgeltsystem im Krankenhaus um den Prozentsatz nach
+Absatz 2 Satz 2 zu erhöhen. Das Institut für das Entgeltsystem im
+Krankenhaus veröffentlicht das nach Satz 5 für das Jahr 2023
+ermittelte krankenhausindividuelle Erlösvolumen und den Prozentsatz
+nach Absatz 2 Satz 1 bis zum 29. Dezember 2022 sowie das nach Satz 5
+für das Jahr 2024 ermittelte krankenhausindividuelle Erlösvolumen und
+den Prozentsatz nach Absatz 2 Satz 2 bis zum 15. Dezember 2023
+barrierefrei auf seiner Internetseite. Das Institut für das
+Entgeltsystem im Krankenhaus ermittelt ein aktualisiertes
+krankenhausindividuelles Erlösvolumen für das Jahr 2023, indem es die
+nach Satz 1 berechnete Summe der effektiven Bewertungsrelationen
+jeweils mit dem Landesbasisfallwert für das Jahr 2023 multipliziert
+und das sich ergebende Erlösvolumen um den Prozentsatz nach Absatz 2
+Satz 3 erhöht, und veröffentlicht das aktualisierte
+krankenhausindividuelle Erlösvolumen für das Jahr 2023 bis zum 15. Mai
+2023 barrierefrei auf seiner Internetseite. Das Institut für das
+Entgeltsystem im Krankenhaus ermittelt ein aktualisiertes
+krankenhausindividuelles Erlösvolumen für das Jahr 2024, indem es die
+nach Satz 1 berechnete Summe der effektiven Bewertungsrelationen
+jeweils mit dem Landesbasisfallwert für das Jahr 2024 multipliziert
+und das sich ergebende Erlösvolumen um den Prozentsatz nach Absatz 2
+Satz 4 erhöht, und veröffentlicht das aktualisierte
+krankenhausindividuelle Erlösvolumen für das Jahr 2024 bis zum 15. Mai
+2024 barrierefrei auf seiner Internetseite.
+
+(2) Das Institut für das Entgeltsystem im Krankenhaus berechnet einen
+Prozentsatz für das Jahr 2023 als Verhältnis eines Betrages in Höhe
+von 300 Millionen Euro und der Summe der für das Jahr 2023 nach Absatz
+1 Satz 4 ermittelten krankenhausindividuellen Erlösvolumina, die um 90
+Millionen Euro zu erhöhen ist. Das Institut für das Entgeltsystem im
+Krankenhaus berechnet einen Prozentsatz für das Jahr 2024 als
+Verhältnis eines Betrages in Höhe von 300 Millionen Euro und der Summe
+der für das Jahr 2024 nach Absatz 1 Satz 4 ermittelten
+krankenhausindividuellen Erlösvolumina, die um 90 Millionen Euro zu
+erhöhen ist. Das Institut für das Entgeltsystem im Krankenhaus
+berechnet einen aktualisierten Prozentsatz für das Jahr 2023, indem es
+jeweils die nach Absatz 1 Satz 1 berechnete Summe der effektiven
+Bewertungsrelationen je Krankenhaus mit dem Landesbasisfallwert für
+das Jahr 2023 multipliziert, die Ergebnisse dieser Multiplikation
+addiert, die sich ergebende Summe mit einem Betrag in Höhe von 90
+Millionen Euro zu einem Gesamtbetrag addiert und den Betrag in Höhe
+von 300 Millionen zu diesem Gesamtbetrag ins Verhältnis setzt. Das
+Institut für das Entgeltsystem im Krankenhaus berechnet einen
+aktualisierten Prozentsatz für das Jahr 2024, indem es jeweils die
+nach Absatz 1 Satz 1 berechnete Summe der effektiven
+Bewertungsrelationen je Krankenhaus mit dem Landesbasisfallwert für
+das Jahr 2024 multipliziert, die Ergebnisse dieser Multiplikation
+addiert, die sich ergebende Summe mit einem Betrag in Höhe von 90
+Millionen Euro zu einem Gesamtbetrag addiert und den Betrag in Höhe
+von 300 Millionen zu diesem Gesamtbetrag ins Verhältnis setzt. Die
+nach den Sätzen 1 bis 4 berechneten Prozentsätze sind kaufmännisch auf
+drei Nachkommastellen zu runden.
+
+(3) Die nach Absatz 1 Satz 7 und 8 ermittelten und aktualisierten
+Erlösvolumina sowie die nach Absatz 4 Satz 3 und 4 berechneten
+Zuschläge sind zweckgebunden für die Versorgung von Kindern und
+Jugendlichen zu verwenden. Der Krankenhausträger hat den anderen
+Vertragsparteien nach § 11 bei Abschluss der nächsten nach Ablauf des
+jeweiligen Anwendungsjahres zu treffenden Vereinbarung nach § 11 eine
+Bestätigung des Jahresabschlussprüfers vorzulegen, aus der hervorgeht
+oder für die das Krankenhaus glaubhaft dargelegt hat, inwieweit die
+Mittel zweckentsprechend verwendet wurden. Mittel, die nicht
+zweckentsprechend verwendet wurden, sind zurückzuzahlen; die näheren
+Einzelheiten vereinbaren die Vertragsparteien nach § 11.
+
+(4) Zur Auszahlung des nach Absatz 1 Satz 5 für das Jahr 2023
+ermittelten krankenhausindividuellen Erlösvolumens berechnet das
+Krankenhaus für die maßgeblichen Fälle nach Absatz 1 Satz 3, die im
+Zeitraum vom 1. Januar 2023 bis 31. Dezember 2023 zur voll- oder
+teilstationären Behandlung aufgenommen wurden, einen Zuschlag in Höhe
+des Prozentsatzes nach Absatz 2 Satz 1 auf die im auf Bundesebene
+vereinbarten Entgeltkatalog bewerteten Fallpauschalen nach § 7 Absatz
+1 Satz 1 Nummer 1 und weist diesen jeweils gesondert in der Rechnung
+aus. Zur Auszahlung des nach Absatz 1 Satz 5 für das Jahr 2024
+ermittelten krankenhausindividuellen Erlösvolumens berechnet das
+Krankenhaus für die maßgeblichen Fälle nach Absatz 1 Satz 3, die im
+Zeitraum vom 1. Januar 2024 bis 31. Dezember 2024 zur voll- oder
+teilstationären Behandlung aufgenommen wurden, einen Zuschlag in Höhe
+des Prozentsatzes nach Absatz 2 Satz 2 auf die im auf Bundesebene
+vereinbarten Entgeltkatalog bewerteten Fallpauschalen nach § 7 Absatz
+1 Satz 1 Nummer 1 und weist diesen jeweils gesondert in der Rechnung
+aus. Besondere Einrichtungen nach § 17b Absatz 1 Satz 10 des
+Krankenhausfinanzierungsgesetzes, die im Jahr 2023 von der Anwendung
+der DRG-Fallpauschalen und Zusatzentgelte ausgenommen sind, berechnen
+für die maßgeblichen Fälle nach Absatz 1 Satz 3, die im Zeitraum vom
+1\. Januar 2023 bis 31. Dezember 2023 zur voll- oder teilstationären
+Behandlung aufgenommen wurden, einen Zuschlag in Höhe des
+Prozentsatzes nach Absatz 2 Satz 1 auf die nach § 6 Absatz 1 Satz 1
+vereinbarten fall- oder tagesbezogenen Entgelte und weisen diesen
+jeweils gesondert in der Rechnung aus. Besondere Einrichtungen nach §
+17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes, die im Jahr
+2024 von der Anwendung der DRG-Fallpauschalen und Zusatzentgelte
+ausgenommen sind, berechnen für die maßgeblichen Fälle nach Absatz 1
+Satz 3, die im Zeitraum vom 1. Januar 2024 bis 31. Dezember 2024 zur
+voll- oder teilstationären Behandlung aufgenommen wurden, einen
+Zuschlag in Höhe des Prozentsatzes nach Absatz 2 Satz 2 auf die nach §
+6 Absatz 1 Satz 1 vereinbarten fall- oder tagesbezogenen Entgelte und
+weisen diesen jeweils gesondert in der Rechnung aus.
+
+(5) Weicht die Summe der auf das Kalenderjahr 2023 oder 2024
+entfallenden Erlöse aus im auf Bundesebene vereinbarten Entgeltkatalog
+bewerteten Fallpauschalen nach § 7 Absatz 1 Satz 1 Nummer 1 für die
+Versorgung der maßgeblichen Fälle nach Absatz 1 Satz 3 einschließlich
+des jeweiligen Zuschlags nach Absatz 4 von dem nach Absatz 1 Satz 7
+oder Satz 8 ermittelten und aktualisierten Erlösvolumen des jeweiligen
+Kalenderjahres ab, werden Mindererlöse bei einer Unterschreitung des
+nach Absatz 1 Satz 7 oder Satz 8 ermittelten und aktualisierten
+Erlösvolumens von bis zu 20 Prozent vollständig und Mehrerlöse zu 65
+Prozent ausgeglichen. Mindererlöse bei einer Unterschreitung des nach
+Absatz 1 Satz 7 oder Satz 8 ermittelten und aktualisierten
+Erlösvolumens von mehr als 20 Prozent sind in Höhe von 65 Prozent
+auszugleichen. Vollständig auszugleichen sind abweichend von Satz 1
+Mehrerlöse,
+
+1.  die daraus resultieren, dass das nach Absatz 1 Satz 5 für das Jahr
+    2023 ermittelte krankenhausindividuelle Erlösvolumen das nach Absatz 1
+    Satz 7 ermittelte und aktualisierte Erlösvolumen übersteigt,
+
+
+2.  die daraus resultieren, dass das nach Absatz 1 Satz 5 für das Jahr
+    2024 ermittelte krankenhausindividuelle Erlösvolumen das nach Absatz 1
+    Satz 8 ermittelte und aktualisierte Erlösvolumen übersteigt oder
+
+
+3.  die aus der Erhebung des Zuschlags nach Absatz 4 resultieren.
+
+
+
+Die Vertragsparteien nach § 11 Absatz 1 können eine von den Sätzen 1
+und 2 abweichende Ausgleichshöhe vereinbaren, um unzumutbare Härten zu
+vermeiden. Die Mehr- und Mindererlöse sind über den Zu- oder Abschlag
+für Erlösausgleiche nach § 5 Absatz 4 im nächstmöglichen
+Vereinbarungszeitraum auszugleichen. Für den Ausgleich von Mehr- und
+Mindererlösen von besonderen Einrichtungen nach § 17b Absatz 1 Satz 10
+des Krankenhausfinanzierungsgesetzes gilt § 6 Absatz 3 Satz 6 mit der
+Maßgabe, dass Mehrerlöse, die aus der Erhebung der Zuschläge nach
+Absatz 4 Satz 3 und 4 resultieren, nicht auszugleichen sind.
+
+(6) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
+Krankenhausfinanzierungsgesetzes berichten dem Bundesministerium für
+Gesundheit bis zum 31. Dezember 2024 unter Berücksichtigung der
+Bestätigungen der Jahresabschlussprüfer nach Absatz 3 Satz 2 für das
+Jahr 2023 gemeinsam über die Auswirkungen des nach Absatz 1 Satz 7
+ermittelten und aktualisierten Erlösvolumens.
+
+
 ### § 5 Vereinbarung und Abrechnung von Zu- und Abschlägen
 
 (1) Die nach § 9 Abs. 1 Satz 1 Nr. 3 vereinbarten Regelungen für
@@ -789,6 +986,183 @@ Liste nach § 9 Absatz 1a Nummer 6 aufgenommen, so ist der Betrag nach
 Satz 2 letztmalig bei Patientinnen oder Patienten abzurechnen, die vor
 dem 1. Januar des auf die letztmalige Auflistung folgenden Jahres zur
 Behandlung in das Krankenhaus aufgenommen wurden.
+
+(2b) Zur Förderung der geburtshilflichen Versorgung in Krankenhäusern
+erheben Krankenhäuser für ihre Standorte, für die die für
+Krankenhausplanung zuständige Landesbehörde nach Satz 2 die Höhe eines
+standortindividuellen Förderbetrages festgelegt hat, in den Jahren
+2023 und 2024 gegenüber den Patientinnen oder Patienten oder den
+Kostenträgern einen vom Krankenhausträger zu ermittelnden Zuschlag
+nach Absatz 2c. Die für die Krankenhausplanung zuständige
+Landesbehörde legt bis zum 31. März der Jahre 2023 und 2024 jeweils
+die Höhe eines standortindividuellen Förderbetrages zur Förderung der
+geburtshilflichen Versorgung in Krankenhäusern für
+Krankenhausstandorte fest, die eine Fachabteilung für Geburtshilfe
+oder eine Fachabteilung für Gynäkologie und Geburtshilfe vorhalten und
+die von der für die Krankenhausplanung zuständigen Landesbehörde als
+bedarfsnotwendig bestimmt werden. Dabei sind für die
+Krankenhausstandorte im Gebiet des jeweiligen Landes für die Jahre
+2023 und 2024 jeweils insgesamt Förderbeträge in folgender Höhe
+festzulegen:
+
+*    *   Baden-Württemberg
+
+    *   15 648 732 Euro
+
+
+*    *   Bayern
+
+    *   18 672 864 Euro
+
+
+*    *   Berlin
+
+    *   6 227 940 Euro
+
+
+*    *   Brandenburg
+
+    *   3 635 844 Euro
+
+
+*    *   Bremen
+
+    *   1 144 548 Euro
+
+
+*    *   Hamburg
+
+    *   3 124 116 Euro
+
+
+*    *   Hessen
+
+    *   8 924 508 Euro
+
+
+*    *   Mecklenburg-Vorpommern
+
+    *   2 376 540 Euro
+
+
+*    *   Niedersachsen
+
+    *   11 274 396 Euro
+
+
+*    *   Nordrhein-Westfalen
+
+    *   25 291 104 Euro
+
+
+*    *   Rheinland-Pfalz
+
+    *   5 782 176 Euro
+
+
+*    *   Saarland
+
+    *   1 437 924 Euro
+
+
+*    *   Sachsen
+
+    *   5 978 496 Euro
+
+
+*    *   Sachsen-Anhalt
+
+    *   3 235 344 Euro
+
+
+*    *   Schleswig-Holstein
+
+    *   4 086 936 Euro
+
+
+*    *   Thüringen
+
+    *   3 158 532 Euro.
+
+
+*    *   Bei der Festlegung nach Satz 2 sind zu berücksichtigen:
+
+
+
+
+1.  die Vorhaltung einer Fachabteilung für Pädiatrie am jeweiligen
+    Krankenhausstandort,
+
+
+2.  die Vorhaltung einer Fachabteilung für Neonatologie am jeweiligen
+    Krankenhausstandort,
+
+
+3.  der Anteil vaginaler Geburten am jeweiligen Krankenhausstandort,
+
+
+4.  die Geburtenanzahl am jeweiligen Krankenhausstandort,
+
+
+5.  die Durchführung von Praxiseinsätzen im Rahmen des berufspraktischen
+    Teils des Hebammenstudiums am jeweiligen Krankenhausstandort.
+
+
+
+Die für die Krankenhausplanung zuständige Landesbehörde hat den
+Vertragsparteien nach § 11 und dem Bundesministerium für Gesundheit
+die Höhe des aufgrund der Festlegung nach Satz 2 auf den einzelnen
+Krankenhausstandort entfallenden Förderbetrages und die Information,
+inwieweit die von ihr für die Festlegung des standortindividuellen
+Förderbetrages zugrunde gelegten Kriterien maßgeblich waren, jeweils
+bis zum 31. März der Jahre 2023 und 2024 mitzuteilen.
+
+(2c) Die Abrechnung des nach Absatz 2b Satz 2 festgelegten
+standortindividuellen Förderbetrages erfolgt gegenüber den
+Patientinnen oder Patienten oder den Kostenträgern durch einen vom
+Krankenhausträger zu ermittelnden Zuschlag, der sich ergibt, indem die
+nach Absatz 2b Satz 2 für den jeweiligen Krankenhausstandort
+festgelegte Höhe des standortindividuellen Förderbetrages durch die
+Anzahl der voll- und teilstationären Fälle des Krankenhausstandortes
+in dem dem Jahr 2023 oder 2024 jeweils vorangegangenen Kalenderjahr
+geteilt wird. Der nach Satz 1 berechnete Zuschlag für das Jahr 2023
+ist bei Patientinnen oder Patienten abzurechnen, die zwischen dem 1.
+Januar 2023 und dem 31. Dezember 2023 zur Behandlung in das
+Krankenhaus aufgenommen werden. Der nach Satz 1 berechnete Zuschlag
+für das Jahr 2024 ist bei Patientinnen oder Patienten abzurechnen, die
+zwischen dem 1. Januar 2024 und dem 31. Dezember 2024 zur Behandlung
+in das Krankenhaus aufgenommen werden. Abweichend von den Sätzen 2 und
+3 sind Zuschläge, die auf die Fälle entfallen, die für das Jahr 2023
+oder 2024 vor der jeweiligen Festlegung der Höhe des
+standortindividuellen Förderbetrages durch die für die
+Krankenhausplanung zuständige Landesbehörde abgerechnet worden sind,
+nicht für diese Fälle abzurechnen, sondern durch entsprechende
+Erhöhung des Zuschlags für die Fälle des verbleibenden Kalenderjahres
+abzurechnen; hierzu ermittelt der Krankenhausträger die Höhe des
+Zuschlags für die Fälle des verbleibenden Kalenderjahres, indem er den
+standortindividuellen Förderbetrag durch die erwartete Zahl der Fälle
+des verbleibenden Kalenderjahres teilt. Sofern die abgerechnete Summe
+der Zuschläge für das jeweilige Kalenderjahr von der nach Absatz 2b
+Satz 2 festgelegten Höhe des standortindividuellen Förderbetrages
+abweicht, werden die Mehr- oder Mindererlöse über den Zu- oder
+Abschlag für Erlösausgleiche nach Absatz 4 Satz 1 im nächstmöglichen
+Vereinbarungszeitraum vollständig ausgeglichen. Der nach Absatz 2b
+Satz 2 festgelegte standortindividuelle Förderbetrag ist zweckgebunden
+für die Finanzierung von voll- und teilstationären Leistungen der
+Geburtshilfe zu verwenden. Der Krankenhausträger hat den anderen
+Vertragsparteien nach § 11 bei Abschluss der nächsten nach Ablauf des
+Jahres 2023 oder 2024 jeweils zu treffenden Vereinbarung nach § 11
+eine Bestätigung des Jahresabschlussprüfers vorzulegen, aus der
+hervorgeht oder für die das Krankenhaus glaubhaft dargelegt hat,
+inwieweit der nach Absatz 2b Satz 2 festgelegte standortindividuelle
+Förderbetrag zweckentsprechend verwendet wurde. Mittel, die nicht
+zweckentsprechend verwendet wurden, sind zurückzuzahlen. Der
+Spitzenverband Bund der Krankenkassen und der Verband der Privaten
+Krankenversicherung gemeinsam vereinbaren mit der Deutschen
+Krankenhausgesellschaft bis zum 31. März 2023 das Nähere zur
+Abrechnung und zur Nachweisführung der zweckentsprechenden
+Mittelverwendung des nach Absatz 2b Satz 2 festgelegten
+standortindividuellen Förderbetrages.
 
 (3) Die Vertragsparteien nach § 11 vereinbaren die Zuschläge für
 besondere Aufgaben von Zentren und Schwerpunkten nach § 2 Absatz 2
@@ -908,13 +1282,17 @@ Krankenhausstrukturfonds-Verordnung aufgezählten digitalen Dienste
 bereitstellt. Zu- und Abschläge nach § 7 Absatz 1 Satz 1 Nummer 4 sind
 bei der Berechnung des Abschlags nicht zu berücksichtigen. Das Nähere
 zur Umsetzung des Abschlags nach Satz 1 regeln der Spitzenverband Bund
-der Krankenkassen und die Deutsche Krankenhausgesellschaft in der
-Vereinbarung nach § 377 Absatz 3 des Fünften Buches Sozialgesetzbuch.
-Dabei haben sie auch Regelungen zu vereinbaren, die die konkrete Höhe
-des Abschlags danach festlegen, wie viele der in § 19 Absatz 1 Satz 1
-Nummer 2 bis 6 der Krankenhausstrukturfonds-Verordnung aufgezählten
-digitalen Dienste nicht bereitgestellt sind und wie oft die
-bereitgestellten digitalen Dienste tatsächlich genutzt werden.
+der Krankenkassen und die Deutsche Krankenhausgesellschaft bis zum 30.
+Juni 2023 in der Vereinbarung nach § 377 Absatz 3 des Fünften Buches
+Sozialgesetzbuch. Dabei haben sie auch Regelungen zu vereinbaren, die
+die konkrete Höhe des Abschlags danach festlegen, wie viele der in §
+19 Absatz 1 Satz 1 Nummer 2 bis 6 der Krankenhausstrukturfonds-
+Verordnung aufgezählten digitalen Dienste nicht bereitgestellt sind
+und wie oft die bereitgestellten digitalen Dienste tatsächlich genutzt
+werden. Kommt die Vereinbarung nach Satz 1 ganz oder teilweise nicht
+fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes ohne Antrag einer Vertragspartei
+innerhalb von zwölf Wochen den Inhalt der Vereinbarung fest.
 
 (3i) Für die Finanzierung von nicht anderweitig finanzierten
 Mehrkosten, die auf Grund des Coronavirus SARS-CoV-2 im Rahmen der
@@ -1027,7 +1405,14 @@ Behandlungsmethode die Gabe eines noch nicht zugelassenen
 Arzneimittels enthält, soll eine Vereinbarung nach Satz 1 getroffen
 werden, die ab dem Zeitpunkt der Zulassung des Arzneimittels gilt; das
 Institut für das Entgeltsystem im Krankenhaus hat dafür seine
-Information nach Satz 3 anzupassen.
+Information nach Satz 3 anzupassen. Sofern für eine neue
+Untersuchungs- und Behandlungsmethode, die die Gabe eines
+Arzneimittels mit einem neuen Wirkstoff enthält, für das ein
+Erstattungsbetrag nach § 130b des Fünften Buches Sozialgesetzbuch
+gilt, ein Entgelt vereinbart wurde, ist das Entgelt mit Wirkung ab dem
+Zeitpunkt der Geltung des Erstattungsbetrags nach § 130b Absatz 3a
+oder Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch unter
+Berücksichtigung der Höhe des Erstattungsbetrags neu zu vereinbaren.
 
 (2a) In eng begrenzten Ausnahmefällen können die Vertragsparteien nach
 § 11 für Leistungen, die den Fallpauschalen und Zusatzentgelten aus
@@ -1134,50 +1519,64 @@ verwendete Mittel sind zurückzuzahlen.
 
 (2) Ausgangsgrundlage für die Ermittlung des Pflegebudgets ist die
 Summe der im Vorjahr für das jeweilige Krankenhaus entstandenen
-Pflegepersonalkosten; abweichend hiervon können die Vertragsparteien
-nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes in der
-Vereinbarung nach § 17b Absatz 4 Satz 2 des
-Krankenhausfinanzierungsgesetzes bestimmen, dass die Anzahl der
-Vollkräfte ohne pflegerische Qualifikation des Jahres 2018 zugrunde zu
-legen ist. Bei der Ermittlung sind weiterhin die für das
-Vereinbarungsjahr zu erwartenden Veränderungen gegenüber dem Vorjahr
-zu berücksichtigen, insbesondere bei der Zahl und der beruflichen
-Qualifikation der Pflegevollkräfte sowie bei der Kostenentwicklung;
-soweit dies in der Vereinbarung nach § 17b Absatz 4 Satz 2 des
-Krankenhausfinanzierungsgesetzes bestimmt ist, sind bei der Zahl und
-der beruflichen Qualifikation der Vollkräfte ohne pflegerische
-Qualifikation stattdessen die für das Vereinbarungsjahr zu erwartenden
-Veränderungen gegenüber dem Jahr 2018 zu berücksichtigen. Weichen die
-tatsächlichen Pflegepersonalkosten von den vereinbarten
-Pflegepersonalkosten ab, sind die Mehr- oder Minderkosten bei der
-Vereinbarung der Pflegebudgets für das auf das Vereinbarungsjahr
-folgende Jahr zu berücksichtigen, indem das Pflegebudget für das
-Vereinbarungsjahr berichtigt wird und Ausgleichszahlungen für das
-Vereinbarungsjahr geleistet werden. Das Pflegebudget ist in seiner
-Entwicklung nicht durch den Veränderungswert nach § 9 Absatz 1b Satz 1
-begrenzt. Die Wirtschaftlichkeit der dem einzelnen Krankenhaus
-entstehenden Pflegepersonalkosten wird nicht geprüft und § 275c Absatz
-6 Nummer 1 des Fünften Buches Sozialgesetzbuch ist zu beachten; die
-Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter
-Vergütungen gilt als wirtschaftlich, für eine darüber hinausgehende
-Vergütung bedarf es eines sachlichen Grundes. Sofern das Krankenhaus
-ab dem Jahr 2020 Maßnahmen ergreift oder bereits ergriffene Maßnahmen
-fortsetzt, die zu einer Entlastung von Pflegepersonal in der
-unmittelbaren Patientenversorgung auf bettenführenden Stationen
-führen, ist von den Vertragsparteien nach § 11 zu vereinbaren,
-inwieweit hierdurch ohne eine Beeinträchtigung der Patientensicherheit
-Pflegepersonalkosten eingespart werden. Die Höhe der eingesparten
-Pflegepersonalkosten ist im Pflegebudget in einer Höhe von bis zu 4
-Prozent des Pflegebudgets erhöhend zu berücksichtigen. Die
-Pflegepersonalkosten einsparende Wirkung von Maßnahmen nach Satz 6 ist
-vom Krankenhaus zu begründen und die Durchführung der Maßnahmen ist
-nachzuweisen. Bei Beschäftigung von Pflegepersonal ohne direktes
-Arbeitsverhältnis mit dem Krankenhaus, insbesondere von
-Leiharbeitnehmern im Sinne des Arbeitnehmerüberlassungsgesetzes, ist
-der Teil der Vergütungen, der über das tarifvertraglich vereinbarte
-Arbeitsentgelt für das Pflegepersonal mit direktem Arbeitsverhältnis
-mit dem Krankenhaus hinausgeht, und damit auch die Zahlung von
-Vermittlungsentgelten, nicht im Pflegebudget zu berücksichtigen.
+Pflegepersonalkosten, die den für das Vereinbarungsjahr geltenden
+Vorgaben zur bundeseinheitlichen Definition der auszugliedernden
+Pflegepersonalkosten nach § 17b Absatz 4 Satz 2 oder Absatz 4a des
+Krankenhausfinanzierungsgesetzes entsprechen; abweichend hiervon
+können die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
+Krankenhausfinanzierungsgesetzes in der Vereinbarung nach § 17b Absatz
+4 Satz 2 des Krankenhausfinanzierungsgesetzes bestimmen, dass die
+Anzahl der Vollkräfte ohne pflegerische Qualifikation des Jahres 2018
+zugrunde zu legen ist, die die Krankenhausträger an das Statistische
+Landesamt gemäß der Verordnung über die Bundesstatistik für
+Krankenhäuser für das Jahr 2018 gemeldet haben. Bei der Ermittlung
+sind weiterhin die für das Vereinbarungsjahr zu erwartenden
+Veränderungen gegenüber dem Vorjahr zu berücksichtigen, insbesondere
+bei der Zahl und der beruflichen Qualifikation der Pflegevollkräfte
+sowie bei der Kostenentwicklung; soweit dies in der Vereinbarung nach
+§ 17b Absatz 4 Satz 2 des Krankenhausfinanzierungsgesetzes bestimmt
+ist, sind bei der Zahl und der beruflichen Qualifikation der
+Vollkräfte ohne pflegerische Qualifikation stattdessen die für das
+Vereinbarungsjahr zu erwartenden Veränderungen gegenüber dem Jahr 2018
+zu berücksichtigen. Weichen die tatsächlichen Pflegepersonalkosten von
+den vereinbarten Pflegepersonalkosten ab, sind die Mehr- oder
+Minderkosten bei der Vereinbarung der Pflegebudgets für das auf das
+Vereinbarungsjahr folgende Jahr zu berücksichtigen, indem das
+Pflegebudget für das Vereinbarungsjahr berichtigt wird und
+Ausgleichszahlungen für das Vereinbarungsjahr geleistet werden; die
+Pflegepersonalkosten der Jahre 2023 und 2024 für die von den
+Vertragsparteien nach § 11 auf der Grundlage des Jahres 2018
+vereinbarte Anzahl der Vollkräfte ohne pflegerische Qualifikation
+gelten mit der Bestätigung des Jahresabschlussprüfers nach Absatz 3
+Satz 4 als nachgewiesen. Das Pflegebudget ist in seiner Entwicklung
+nicht durch den Veränderungswert nach § 9 Absatz 1b Satz 1 begrenzt.
+Die Wirtschaftlichkeit der dem einzelnen Krankenhaus entstehenden
+Pflegepersonalkosten wird nicht geprüft und § 275c Absatz 6 Nummer 1
+des Fünften Buches Sozialgesetzbuch ist zu beachten; die Bezahlung von
+Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergütungen gilt
+als wirtschaftlich, für eine darüber hinausgehende Vergütung bedarf es
+eines sachlichen Grundes. Sofern das Krankenhaus ab dem Jahr 2020
+Maßnahmen ergreift oder bereits ergriffene Maßnahmen fortsetzt, die zu
+einer Entlastung von Pflegepersonal in der unmittelbaren
+Patientenversorgung auf bettenführenden Stationen führen, ist von den
+Vertragsparteien nach § 11 zu vereinbaren, inwieweit hierdurch ohne
+eine Beeinträchtigung der Patientensicherheit Pflegepersonalkosten
+eingespart werden. Die Höhe der eingesparten Pflegepersonalkosten ist
+im Pflegebudget in einer Höhe von bis zu 4 Prozent des Pflegebudgets
+erhöhend zu berücksichtigen. Die ergriffenen Maßnahmen nach Satz 6
+sowie die Pflegepersonalkosten einsparende Wirkung dieser Maßnahmen
+sind vom Krankenhaus gegenüber den anderen Vertragsparteien nach § 11
+zu benennen und die Durchführung der Maßnahmen ist den anderen
+Vertragsparteien nach § 11 durch Vorlage einer Vereinbarung mit der
+Vertretung der Arbeitnehmerinnen und Arbeitnehmer des Krankenhauses
+und, soweit möglich, durch die Vorlage von Rechnungen nachzuweisen.
+Bei Beschäftigung von Pflegepersonal ohne direktes Arbeitsverhältnis
+mit dem Krankenhaus, insbesondere von Leiharbeitnehmern im Sinne des
+Arbeitnehmerüberlassungsgesetzes, ist der Teil der Vergütungen, der
+über das tarifvertraglich vereinbarte Arbeitsentgelt für das
+Pflegepersonal mit direktem Arbeitsverhältnis mit dem Krankenhaus
+hinausgeht, und damit auch die Zahlung von Vermittlungsentgelten,
+nicht im Pflegebudget zu berücksichtigen.
 
 (3) Der Krankenhausträger hat vor der Vereinbarung des jeweiligen
 Pflegebudgets den anderen Vertragsparteien nach § 11 Absatz 1 die
@@ -1196,13 +1595,16 @@ Berufsbezeichnungen, ist von den Vertragsparteien nach § 11 Absatz 1
 zu dokumentieren; aus der Dokumentation müssen die Höhe des
 Pflegebudgets sowie die wesentlichen Rechengrößen zur Herleitung der
 vereinbarten, im Pflegebudget zu berücksichtigenden Kosten und der
-Höhe des Pflegebudgets hervorgehen. Nach Ablauf des
-Vereinbarungsjahres hat der Krankenhausträger den anderen
-Vertragsparteien nach § 11 Absatz 1 und dem Institut für das
+Höhe des Pflegebudgets hervorgehen. Der Krankenhausträger hat den
+anderen Vertragsparteien nach § 11 Absatz 1 und dem Institut für das
 Entgeltsystem im Krankenhaus für die Weiterentwicklung des
-Entgeltsystems nach § 17b des Krankenhausfinanzierungsgesetzes
-jährlich jeweils bis zum 30. September eine Bestätigung des
-Jahresabschlussprüfers für das Vereinbarungsjahr vorzulegen über
+Entgeltsystems nach § 17b des Krankenhausfinanzierungsgesetzes
+unabhängig von der Vereinbarung oder Festsetzung eines Pflegebudgets
+nach Absatz 1 Satz 1 jährlich jeweils bis zum 1. Juni, soweit für das
+Jahr 2020 oder für das Jahr 2021 bis zum 30. Juni 2022 nicht
+vereinbart oder festgesetzt bis zum 31. Juli 2022, eine Bestätigung
+des Jahresabschlussprüfers für das vorangegangene Kalenderjahr
+vorzulegen über
 
 1.  die jahresdurchschnittliche Stellenbesetzung der Pflegevollkräfte
     insgesamt, gegliedert nach Berufsbezeichnungen,
@@ -1212,8 +1614,9 @@ Jahresabschlussprüfers für das Vereinbarungsjahr vorzulegen über
 
 
 3.  die Überprüfung der nach den Vorgaben der Vereinbarung nach § 17b
-    Absatz 4 Satz 2 des Krankenhausfinanzierungsgesetzes und der
-    Vereinbarung nach Absatz 1 Satz 1 im Pflegebudget
+    Absatz 4 Satz 2 oder Absatz 4a des Krankenhausfinanzierungsgesetzes
+    und der Vereinbarung nach Absatz 1 Satz 1, sofern diese vorliegt, im
+    Pflegebudget
 
     a)  zu berücksichtigenden jahresdurchschnittlichen Stellenbesetzung der
         Pflegevollkräfte, gegliedert nach Berufsbezeichnungen, und
@@ -1225,13 +1628,15 @@ Jahresabschlussprüfers für das Vereinbarungsjahr vorzulegen über
 
 
 
-4.  eine geprüfte Aufstellung der Summe der auf das Vereinbarungsjahr
-    entfallenden Erlöse des Krankenhauses aus den tagesbezogenen
-    Pflegeentgelten nach § 7 Absatz 1 Satz 1 Nummer 6a und
+4.  die Überprüfung einer Aufstellung der Summe der Erlöse des
+    Krankenhauses aus den tagesbezogenen Pflegeentgelten nach § 7 Absatz 1
+    Satz 1 Nummer 6a und
 
 
 5.  die Überprüfung der zweckentsprechenden Verwendung der Mittel im Sinne
-    des Absatzes 1 Satz 3.
+    des Absatzes 1 Satz 3, sofern jeweils bis zum 31. März eines Jahres
+    ein Pflegebudget für das vorangegangene Kalenderjahr vereinbart oder
+    von der Schiedsstelle nach § 13 Absatz 1 festgesetzt wurde.
 
 
 
@@ -1246,10 +1651,37 @@ Entgeltsystem im Krankenhaus veröffentlicht die in den Sätzen 3 und 4
 Nummer 1 bis 3 und 5 genannten Angaben krankenhausbezogen barrierefrei
 auf seiner Internetseite. Die näheren Einzelheiten zur Übermittlung
 der Angaben nach Satz 6 und zu Maßnahmen im Falle der nicht oder nicht
-unverzüglich erfolgenden Übermittlung sowie einer nicht fristgerechten
-Vorlage der Bestätigung des Jahresabschlussprüfers nach Satz 4 legt
-das Institut für das Entgeltsystem im Krankenhaus im Benehmen mit dem
-Spitzenverband Bund der Krankenkassen fest.
+unverzüglich erfolgenden Übermittlung sowie einer nicht erfolgten,
+nicht vollständigen oder nicht fristgerechten Vorlage der Bestätigung
+des Jahresabschlussprüfers nach Satz 4 und der gesonderten Bestätigung
+des Jahresabschlussprüfers nach Satz 8 legt das Institut für das
+Entgeltsystem im Krankenhaus im Benehmen mit dem Spitzenverband Bund
+der Krankenkassen fest. Sofern ein Pflegebudget für das vorangegangene
+Kalenderjahr nach dem 31. März eines Jahres vereinbart oder von der
+Schiedsstelle nach § 13 Absatz 1 festgesetzt wird oder sofern ein
+Pflegebudget für das Jahr 2020 oder 2021 nach dem 30. Juni 2022
+vereinbart oder von der Schiedsstelle nach § 13 Absatz 1 festgesetzt
+wird, hat der Krankenhausträger den anderen Vertragsparteien nach § 11
+Absatz 1 und dem Institut für das Entgeltsystem im Krankenhaus eine
+gesonderte Bestätigung des Jahresabschlussprüfers über die Überprüfung
+der zweckentsprechenden Verwendung der Mittel im Sinne des Absatzes 1
+Satz 3 innerhalb von acht Wochen nach Abschluss der Vereinbarung des
+Pflegebudgets oder der Festsetzung des Pflegebudgets durch die
+Schiedsstelle vorzulegen; sofern ein Pflegebudget für das Jahr 2020
+oder 2021 zwischen dem 31. März 2022 und dem 30. Juni 2022 vereinbart
+oder von der Schiedsstelle nach § 13 Absatz 1 festgesetzt wird, hat
+der Krankenhausträger den anderen Vertragsparteien nach § 11 Absatz 1
+und dem Institut für das Entgeltsystem im Krankenhaus eine gesonderte
+Bestätigung des Jahresabschlussprüfers über die Überprüfung der
+zweckentsprechenden Verwendung der Mittel im Sinne des Absatzes 1 Satz
+3 innerhalb von acht Wochen nach dem 30. Juni 2022 vorzulegen. Die
+Bestätigung des Jahresabschlussprüfers nach Satz 4 ersetzt weder eine
+Vereinbarung nach Absatz 1 Satz 1 noch die nach den Sätzen 1 und 2 zu
+erbringenden Nachweise oder die in der Verhandlung nach Absatz 1 Satz
+1 vorzunehmende Zuordnung von Kosten von Pflegepersonal gemäß der
+Vereinbarung nach § 17b Absatz 4 Satz 2 des
+Krankenhausfinanzierungsgesetzes und der Vereinbarung nach § 9 Absatz
+1 Nummer 8.
 
 (4) Die Abzahlung des Pflegebudgets erfolgt über einen
 krankenhausindividuellen Pflegeentgeltwert. Der
@@ -1625,7 +2057,10 @@ für die Vertragsparteien nach § 11 insbesondere
 
 
 5.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
-    Übermittlung der Daten nach § 11 Absatz 4 Satz 1,
+    Übermittlung der Daten nach § 11 Absatz 4 Satz 1 sowie erstmals bis
+    zum 26. Januar 2023 das Nähere zur Dokumentation des Eingangs von
+    Daten, Unterlagen und Auskünften und zur Abrechnung des Abschlags nach
+    § 11 Absatz 4 Satz 6,
 
 
 6.  erstmals bis zum 31. Juli 2016 einen Katalog nicht mengenanfälliger
@@ -1647,14 +2082,17 @@ für die Vertragsparteien nach § 11 insbesondere
     zweckentsprechend verwendet haben,
 
 
-8.  bis zum 31. Juli 2019 die näheren Einzelheiten zur Verhandlung des
-    Pflegebudgets nach § 6a, insbesondere zu den vorzulegenden Unterlagen
-    und zu dem Verfahren der Rückzahlungsabwicklung von nicht
-    zweckentsprechend verwendeten Mitteln sowie bis zum 17. August 2021 zu
-    der einheitlichen Form der Dokumentation der Höhe des vereinbarten
-    Pflegebudgets sowie der wesentlichen Rechengrößen zur Herleitung der
-    vereinbarten, im Pflegebudget zu berücksichtigenden Kosten und der
-    Höhe des Pflegebudgets beinhaltet,
+8.  erstmals bis zum 31. Juli 2019 die näheren Einzelheiten zur
+    Verhandlung des Pflegebudgets nach § 6a, insbesondere zu den
+    vorzulegenden Unterlagen und zu dem Verfahren der
+    Rückzahlungsabwicklung von nicht zweckentsprechend verwendeten
+    Mitteln, bis zum 17. August 2021 zu der einheitlichen Form der
+    Dokumentation der Höhe des vereinbarten Pflegebudgets sowie der
+    wesentlichen Rechengrößen zur Herleitung der vereinbarten, im
+    Pflegebudget zu berücksichtigenden Kosten und der Höhe des
+    Pflegebudgets sowie bis zum 31. Mai 2023 eine Anpassung der
+    Vereinbarung an die Vorgaben des § 17b Absatz 4a des
+    Krankenhausfinanzierungsgesetzes,
 
 
 9.  bis zum 28. Februar 2019 die Benennung von Prozedurenschlüsseln nach §
@@ -1873,20 +2311,13 @@ gilt nicht, soweit eine Erhöhung des Basisfallwerts infolge der
 Weiterentwicklung des DRG-Vergütungssystems oder der Abrechnungsregeln
 lediglich technisch bedingt ist und nicht zu einer Erhöhung der
 Gesamtausgaben für Krankenhausleistungen führt oder soweit eine
-Berichtigung von Fehlschätzungen nach Absatz 1 durchzuführen ist. Wird
-aus anderen als den in Satz 2 genannten Tatbeständen eine niedrigere
-Summe der effektiven Bewertungsrelationen vereinbart, kann abweichend
-von Satz 1 ein höherer Basisfallwert vereinbart werden, wenn dies
-nicht zu einer Erhöhung der Gesamtausgaben für Krankenhausleistungen
-führt. Soweit eine Überschreitung des Veränderungswerts durch die
-erhöhende Berücksichtigung von befristeten Zuschlägen nach § 5 Absatz
-3c im Rahmen von Absatz 3 Satz 1 Nummer 7 begründet ist, ist
-abweichend von Satz 1 ein höherer Basisfallwert zu vereinbaren. Satz 2
-findet im Zusammenhang mit der Einführung und Weiterentwicklung des
-Pflegebudgets nach § 6a keine Anwendung. Satz 3 findet keine
-Anwendung, sofern rechtliche Regelungen getroffen werden, die dazu
-dienen, einen Leistungsrückgang, der zu einer niedrigeren Summe der
-effektiven Bewertungsrelationen führt, auszugleichen.
+Berichtigung von Fehlschätzungen nach Absatz 1 durchzuführen ist.
+Soweit eine Überschreitung des Veränderungswerts durch die erhöhende
+Berücksichtigung von befristeten Zuschlägen nach § 5 Absatz 3c im
+Rahmen von Absatz 3 Satz 1 Nummer 7 begründet ist, ist abweichend von
+Satz 1 ein höherer Basisfallwert zu vereinbaren. Satz 2 findet im
+Zusammenhang mit der Einführung und Weiterentwicklung des
+Pflegebudgets nach § 6a keine Anwendung.
 
 (5) Bei der Vereinbarung des Basisfallwerts sind erstmals für das Jahr
 2020 nach Maßgabe der folgenden Sätze Tariferhöhungen für Löhne und
@@ -2077,10 +2508,10 @@ nicht für die pflegerische Versorgung von Patientinnen oder Patienten
 verwendet werden, ist für die Verhandlung des Basisfallwerts 2020 eine
 Erhöhung von 0,3 Prozent auf den vereinbarten oder festgesetzten
 Basisfallwert 2019 ohne Ausgleiche einzurechnen. In den Basisfallwert,
-der ab dem 1. Januar 2023 gilt, sind die Finanzierungsbeträge für die
+der ab dem 1. Januar 2026 gilt, sind die Finanzierungsbeträge für die
 Neueinstellung, die interne Besetzung neu geschaffener Stellen oder
 Aufstockung vorhandener Teilzeitstellen in Höhe der von den
-Krankenhäusern im Land insgesamt für das Jahr 2022 nach § 4 Absatz 9
+Krankenhäusern im Land insgesamt für das Jahr 2025 nach § 4 Absatz 9
 Satz 1 Nummer 1 und Satz 2 Nummer 1 abgerechneten Zuschläge
 einzurechnen; soweit die Finanzierungsbeträge noch nicht feststehen,
 sind diese zu schätzen und Fehlschätzungen sind bei der Vereinbarung
@@ -2124,29 +2555,110 @@ Kalenderjahre umfasst, kann vereinbart werden.
 (3) Die Vertragsparteien nehmen die Verhandlung unverzüglich auf,
 nachdem eine Vertragspartei dazu schriftlich oder elektronisch
 aufgefordert hat. Die Verhandlung soll unter Berücksichtigung der
-Sechswochenfrist des § 18 Abs. 4 des Krankenhausfinanzierungsgesetzes
-so rechtzeitig abgeschlossen werden, dass das neue Erlösbudget und die
-neuen Entgelte mit Ablauf des laufenden Vereinbarungszeitraums in
-Kraft treten können.
+Sechswochenfrist des § 18 Absatz 4 des
+Krankenhausfinanzierungsgesetzes so rechtzeitig abgeschlossen werden,
+dass das neue Erlösbudget, das neue Pflegebudget und die neuen
+Entgelte mit Ablauf des Jahres, das dem Jahr vorausgeht, für das die
+Vereinbarung gelten soll, in Kraft treten können.
 
 (4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung
-den anderen Vertragsparteien, den in § 18 Abs. 1 Satz 2 des
-Krankenhausfinanzierungsgesetzes genannten Beteiligten und der
-zuständigen Landesbehörde die Abschnitte E1 bis E3 und B1 nach Anlage
-1 dieses Gesetzes und erstmals für das Jahr 2018 den Nachweis nach § 9
-Absatz 1 Nummer 7. Die Daten sind auf maschinenlesbaren Datenträgern
+spätestens bis zum 31. Dezember des Jahres, das dem Jahr vorausgeht,
+für das die Vereinbarung gelten soll, den anderen Vertragsparteien,
+den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes
+genannten Beteiligten und der zuständigen Landesbehörde die Abschnitte
+E1 bis E3 und B1 nach Anlage 1 dieses Gesetzes, die Unterlagen nach §
+6a Absatz 3 Satz 1 und 2 und den Nachweis nach § 9 Absatz 1 Nummer 7;
+soweit zum 31. Dezember des Jahres, das dem Jahr vorausgeht, für das
+die Vereinbarung gelten soll, ein Landesbasisfallwert für das Jahr,
+für das die Vereinbarung gelten soll, noch nicht nach § 14 Absatz 1
+genehmigt wurde, sind die Unterlagen innerhalb von sechs Wochen nach
+der Genehmigung dieses Landesbasisfallwerts nach § 14 Absatz 1 zu
+übermitteln. Die Daten sind auf maschinenlesbaren Datenträgern
 vorzulegen. Soweit dies zur Beurteilung der Leistungen des
 Krankenhauses im Rahmen seines Versorgungsauftrags im Einzelfall
-erforderlich ist, hat das Krankenhaus auf gemeinsames Verlangen der
-anderen Vertragsparteien nach § 18 Abs. 2 Nr. 1 und 2 des
-Krankenhausfinanzierungsgesetzes zusätzliche Unterlagen vorzulegen und
+erforderlich ist, können die anderen Vertragsparteien nach § 18 Absatz
+2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes innerhalb von
+sechs Wochen nach Vorlage der Daten gemeinsam einmalig die Vorlage von
+zusätzlichen Unterlagen und die Erteilung von Auskünften verlangen.
+Das Krankenhaus hat innerhalb von sechs Wochen nach Eingang des
+Verlangens nach Satz 3 die zusätzlichen Unterlagen vorzulegen und die
 Auskünfte zu erteilen. Bei dem Verlangen nach Satz 3 muss der zu
-erwartende Nutzen den verursachten Aufwand deutlich übersteigen.
+erwartende Nutzen den verursachten Aufwand deutlich übersteigen. Die
+anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des
+Krankenhausfinanzierungsgesetzes vereinbaren für die Zeit vom 1. Juli
+des Jahres, für das die Vereinbarung nach Absatz 1 Satz 1 gelten soll,
+bis einen Monat nach der Vereinbarung nach Absatz 1 Satz 1 oder nach
+der Festsetzung nach § 13 Absatz 1 oder Absatz 3 einen Abschlag in
+Höhe von 1 Prozent des Rechnungsbetrags für jeden voll- oder
+teilstationären Fall, sofern der Krankenhausträger seinen Pflichten
+nach Satz 1 oder Satz 4 nicht nachkommt und die anderen
+Vertragsparteien für die Zeit vor einer möglichen Erhebung eines
+Abschlags dem Krankenhaus mindestens drei zumutbare Termine für die
+Verhandlung angeboten haben. Der Zeitpunkt des Abschlusses der
+Vereinbarung nach Absatz 1 Satz 1 ist von den Vertragsparteien
+schriftlich oder elektronisch zu dokumentieren; bei einer Festsetzung
+nach § 13 Absatz 1 oder Absatz 3 gilt das Datum der Entscheidung der
+Schiedsstelle. Die Genehmigung des vereinbarten Abschlags ist von den
+anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des
+Krankenhausfinanzierungsgesetzes bei der für die Krankenhausplanung
+zuständigen Landesbehörde zu beantragen. Die anderen Vertragsparteien
+nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes
+haben den Krankenhausträger und die Schiedsstelle nach § 18a Absatz 1
+des Krankenhausfinanzierungsgesetzes zum Zeitpunkt der Antragstellung
+über den Antrag zu informieren. Die für die Krankenhausplanung
+zuständige Landesbehörde genehmigt die Erhebung des Abschlags
+innerhalb von vier Wochen ab dem Eingang des Antrags, wenn die
+Vereinbarung dem geltenden Recht entspricht.
 
 (5) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum
 Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses sowie
 zur Höhe der Zu- und Abschläge nach § 5 so frühzeitig gemeinsam
 vorzuklären, dass die Verhandlung zügig durchgeführt werden kann.
+
+(6) Für die Vereinbarungszeiträume bis einschließlich des
+Vereinbarungszeitraums 2025, für die bis zum 29. Dezember 2022 noch
+keine Vereinbarung nach Absatz 1 Satz 1 geschlossen wurde, sind von
+dem Krankenhausträger die in Absatz 4 Satz 1 genannten Daten zu
+übermitteln
+
+1.  bis zum 31. Oktober 2023 für die Vereinbarungszeiträume bis
+    einschließlich des Vereinbarungszeitraums 2021,
+
+
+2.  bis zum 31. März 2024 für den Vereinbarungszeitraum 2022,
+
+
+3.  bis zum 30. September 2024 für den Vereinbarungszeitraum 2023,
+
+
+4.  bis zum 31. März 2025 für den Vereinbarungszeitraum 2024 und
+
+
+5.  bis zum 30. September 2025 für den Vereinbarungszeitraum 2025.
+
+
+
+Für die Vorlage der Unterlagen und für die Erteilung von Auskünften
+gilt Absatz 4 Satz 2 bis 9 mit der Maßgabe, dass der Abschlag nach
+Absatz 4 Satz 6 wie folgt zu vereinbaren ist:
+
+1.  im Fall von Satz 1 Nummer 1 vom 1. Mai 2024 an,
+
+
+2.  im Fall von Satz 1 Nummer 2 vom 1. Oktober 2024 an,
+
+
+3.  im Fall von Satz 1 Nummer 3 vom 1. April 2025 an,
+
+
+4.  im Fall von Satz 1 Nummer 4 vom 1. Oktober 2025 an und
+
+
+5.  im Fall von Satz 1 Nummer 5 vom 1. April 2026 an.
+
+
+
+§ 13 Absatz 1, 2 und 3 Satz 3 gilt entsprechend.
 
 
 ### § 12 Vorläufige Vereinbarung
@@ -2175,6 +2687,33 @@ Vertragsparteien geltenden Rechtsvorschriften gebunden.
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die
 Gegenstände, über die keine Einigung erreicht werden konnte.
 
+(3) Kommt eine Vereinbarung nach § 11 für Vereinbarungszeiträume ab
+dem Vereinbarungszeitraum 2026 nicht bis zum 31. Juli des Jahres, für
+das die Vereinbarung gelten soll, zustande, legt die Schiedsstelle
+nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes den Inhalt
+der Vereinbarung abweichend von Absatz 1 ohne Antrag einer
+Vertragspartei innerhalb von sechs Wochen ab dem 1. August des Jahres
+fest. Die Fristen nach Satz 1 verlängern sich jeweils um sechs Wochen,
+wenn die Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes vor Ablauf der Frist nach Satz 1
+gegenüber der Schiedsstelle gemeinsam schriftlich oder elektronisch
+anzeigen, dass sie innerhalb der solchermaßen verlängerten Frist eine
+Vereinbarung nach § 11 abschließen werden. Die im Schiedsverfahren zu
+berücksichtigenden Daten, Unterlagen und Auskünfte des
+Krankenhausträgers oder der anderen Vertragsparteien nach § 18 Absatz
+2 des Krankenhausfinanzierungsgesetzes sind innerhalb der in § 11
+Absatz 4 Satz 1 und 4 genannten Fristen zu übermitteln, vorzulegen
+oder zu erteilen; nach Ablauf dieser Fristen übermittelte, vorgelegte
+oder erteilte Daten, Unterlagen und Auskünfte dürfen von der
+Schiedsstelle nicht berücksichtigt oder im Falle von Klagen gegen die
+Genehmigung des Beschlusses der Schiedsstelle von dem Gericht nicht
+zugelassen werden, wenn die Zulassung nach der freien Überzeugung der
+Schiedsstelle oder des Gerichts die Erledigung des Rechtsstreits
+verzögern würde und die Nichteinhaltung der Fristen auf von dem
+Krankenhausträger oder von einer der anderen Vertragsparteien nach §
+18 Absatz 2 des Krankenhausfinanzierungsgesetzes zu vertretenden
+Gründen beruht.
+
 
 ### § 14 Genehmigung
 
@@ -2186,9 +2725,8 @@ von einer der Vertragsparteien bei der zuständigen Landesbehörde zu
 beantragen. Die zuständige Landesbehörde erteilt die Genehmigung, wenn
 die Vereinbarung oder Festsetzung den Vorschriften dieses Gesetzes
 sowie sonstigem Recht entspricht. Sie entscheidet über die Genehmigung
-des landesweit geltenden Basisfallwerts und des
-Fixkostendegressionsabschlags nach § 10 Absatz 13 innerhalb von vier
-Wochen nach Eingang des Antrags.
+des landesweit geltenden Basisfallwerts innerhalb von vier Wochen nach
+Eingang des Antrags.
 
 (2) Die Vertragsparteien und die Schiedsstellen haben der zuständigen
 Landesbehörde die Unterlagen vorzulegen und die Auskünfte zu erteilen,
@@ -2264,10 +2802,16 @@ multiplizieren:
 1.  bis zum 31. März 2020 mit 146,55 Euro,
 
 
-2.  vom 1. April 2020 bis zum 31. Dezember 2020 mit 185 Euro und
+2.  vom 1. April 2020 bis zum 31. Dezember 2020 mit 185 Euro,
 
 
-3.  ab dem 1. Januar 2021 mit 163,09 Euro.
+3.  vom 1. Januar 2021 bis zum 30. Juni 2022 mit 163,09 Euro,
+
+
+4.  vom 1. Juli 2022 bis zum 31. Dezember 2022 mit 200 Euro und
+
+
+5.  ab dem 1. Januar 2023 mit 230 Euro.
 
 
 
@@ -2296,8 +2840,11 @@ Pflegeentgeltwerts nach Satz 1
 Landesbasisfallwerts und bisheriger Entgelte nach den Absätzen 1 und 2
 werden grundsätzlich im restlichen Vereinbarungszeitraum ausgeglichen.
 Der Ausgleichsbetrag wird im Rahmen des Zu- oder Abschlags nach § 5
-Abs. 4 abgerechnet. Die Sätze 1 und 2 sind auch auf erstmalig
-vereinbarte Entgelte nach § 6 Absatz 2 anzuwenden.
+Abs. 4 abgerechnet. Die Sätze 1 und 2 sind auch auf Entgelte nach § 6
+Absatz 2 anzuwenden, die erstmalig vereinbart werden oder für die
+aufgrund eines nach § 130b des Fünften Buches Sozialgesetzbuch
+geltenden Erstattungsbetrags für ein Vereinbarungsjahr eine
+abweichende unterjährige Höhe vereinbart wurde.
 
 
 ## Abschnitt 5 - Gesondert berechenbare ärztliche und andere Leistungen
@@ -2347,31 +2894,32 @@ nach § 14 mitzuteilen.
 (3) Eine Vereinbarung über wahlärztliche Leistungen erstreckt sich auf
 alle an der Behandlung des Patienten beteiligten angestellten oder
 beamteten Ärzte des Krankenhauses, soweit diese zur gesonderten
-Berechnung ihrer Leistungen im Rahmen der vollstationären und
-teilstationären sowie einer vor- und nachstationären Behandlung (§
-115a des Fünften Buches Sozialgesetzbuch) berechtigt sind,
-einschließlich der von diesen Ärzten veranlassten Leistungen von
-Ärzten und ärztlich geleiteten Einrichtungen außerhalb des
-Krankenhauses; darauf ist in der Vereinbarung hinzuweisen. Ein zur
-gesonderten Berechnung wahlärztlicher Leistungen berechtigter Arzt des
-Krankenhauses kann eine Abrechnungsstelle mit der Abrechnung der
-Vergütung für die wahlärztlichen Leistungen beauftragen oder die
-Abrechnung dem Krankenhausträger überlassen. Der Arzt oder eine von
-ihm beauftragte Abrechnungsstelle ist verpflichtet, dem Krankenhaus
-umgehend die zur Ermittlung der nach § 19 Abs. 2 zu erstattenden
-Kosten jeweils erforderlichen Unterlagen einschließlich einer
-Auflistung aller erbrachten Leistungen vollständig zur Verfügung zu
-stellen. Der Arzt ist verpflichtet, dem Krankenhaus die Möglichkeit
-einzuräumen, die Rechnungslegung zu überprüfen. Wird die Abrechnung
-vom Krankenhaus durchgeführt, leitet dieses die Vergütung nach Abzug
-der anteiligen Verwaltungskosten und der nach § 19 Abs. 2 zu
-erstattenden Kosten an den berechtigten Arzt weiter. Personenbezogene
-Daten dürfen an eine beauftragte Abrechnungsstelle außerhalb des
-Krankenhauses nur mit Einwilligung der betroffenen Person übermittelt
-werden. Für die Berechnung wahlärztlicher Leistungen finden die
-Vorschriften der Gebührenordnung für Ärzte oder der Gebührenordnung
-für Zahnärzte entsprechende Anwendung, soweit sich die Anwendung nicht
-bereits aus diesen Gebührenordnungen ergibt.
+Berechnung ihrer Leistungen im Rahmen der vollstationären,
+stationsäquivalenten, tagesstationären und teilstationären sowie einer
+vor- und nachstationären Behandlung (§ 115a des Fünften Buches
+Sozialgesetzbuch) berechtigt sind, einschließlich der von diesen
+Ärzten veranlassten Leistungen von Ärzten und ärztlich geleiteten
+Einrichtungen außerhalb des Krankenhauses; darauf ist in der
+Vereinbarung hinzuweisen. Ein zur gesonderten Berechnung
+wahlärztlicher Leistungen berechtigter Arzt des Krankenhauses kann
+eine Abrechnungsstelle mit der Abrechnung der Vergütung für die
+wahlärztlichen Leistungen beauftragen oder die Abrechnung dem
+Krankenhausträger überlassen. Der Arzt oder eine von ihm beauftragte
+Abrechnungsstelle ist verpflichtet, dem Krankenhaus umgehend die zur
+Ermittlung der nach § 19 Abs. 2 zu erstattenden Kosten jeweils
+erforderlichen Unterlagen einschließlich einer Auflistung aller
+erbrachten Leistungen vollständig zur Verfügung zu stellen. Der Arzt
+ist verpflichtet, dem Krankenhaus die Möglichkeit einzuräumen, die
+Rechnungslegung zu überprüfen. Wird die Abrechnung vom Krankenhaus
+durchgeführt, leitet dieses die Vergütung nach Abzug der anteiligen
+Verwaltungskosten und der nach § 19 Abs. 2 zu erstattenden Kosten an
+den berechtigten Arzt weiter. Personenbezogene Daten dürfen an eine
+beauftragte Abrechnungsstelle außerhalb des Krankenhauses nur mit
+Einwilligung der betroffenen Person übermittelt werden. Für die
+Berechnung wahlärztlicher Leistungen finden die Vorschriften der
+Gebührenordnung für Ärzte oder der Gebührenordnung für Zahnärzte
+entsprechende Anwendung, soweit sich die Anwendung nicht bereits aus
+diesen Gebührenordnungen ergibt.
 
 (4) Eine Vereinbarung über gesondert berechenbare Unterkunft darf
 nicht von einer Vereinbarung über sonstige Wahlleistungen abhängig
@@ -2726,11 +3274,15 @@ Nutzung der veröffentlichten Daten durch Dritte ist ausschließlich zu
 nicht-kommerziellen Zwecken zulässig. Die Datenstelle stellt dem
 Bundesministerium für Gesundheit auf Anforderung unverzüglich
 Auswertungen für seine Belange und für die Überprüfung nach § 24 des
-Krankenhausfinanzierungsgesetzes zur Verfügung. Die Kosten für die
-Erstellung der Auswertungen nach Satz 7 sind aus dem Zuschlag nach §
-17b Absatz 5 Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu
-finanzieren. Andere als die in diesem Absatz genannten Verarbeitungen
-der nach Satz 1 übermittelten Daten sind unzulässig.
+Krankenhausfinanzierungsgesetzes zur Verfügung. Die Datenstelle stellt
+dem Robert Koch-Institut innerhalb von vier Wochen nach Ablauf der
+jeweiligen Übermittlungsfrist nach Satz 1 eine Aufstellung aller
+Standorte sowie eine standortbezogene Aufstellung der Anzahl der
+aufgestellten Betten zur Verfügung. Die Kosten für die Erstellung der
+Auswertungen nach Satz 7 sind aus dem Zuschlag nach § 17b Absatz 5
+Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren.
+Andere als die in diesem Absatz genannten Verarbeitungen der nach Satz
+1 übermittelten Daten sind unzulässig.
 
 (4) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 des
 Krankenhausfinanzierungsgesetzes vereinbaren im Benehmen mit dem
@@ -2753,21 +3305,24 @@ Datenstelle regelt das Nähere zu den Voraussetzungen unbilliger
 Härtefälle. Darüber hinaus hat die Datenstelle für jede nicht
 erfolgte, nicht vollständige oder nicht fristgerechte Übermittlung der
 Daten nach Absatz 2 Nummer 1 Buchstabe e einen pauschalen Abschlag je
-Standort eines Krankenhauses festzulegen. Der Abschlag nach Satz 2
-beträgt mindestens 20 000 Euro und höchstens 500 000 Euro. Zur
-Ermittlung des Abschlags nach Satz 2 wird ein Abschlagsfaktor
-gebildet, indem die Gesamtanzahl der Pflegevollkräfte eines
-Krankenhausstandorts durch die Anzahl der Pflegevollkräfte, für die
-vollständig und rechtzeitig Daten übermittelt wurden, dividiert wird,
-wobei als Nenner mindestens die Zahl 1 anzunehmen ist. Der
-Abschlagsfaktor ist kaufmännisch auf drei Nachkommastellen zu runden
-und mit dem Mindestabschlagsbetrag von 20 000 Euro zu multiplizieren.
-Übermittelt ein Krankenhaus für einen Standort nicht die Gesamtanzahl
-der Pflegevollkräfte, hat die Datenstelle die Anzahl der
-Pflegevollkräfte für die Ermittlung des Abschlags nach Satz 2 auf der
-Grundlage von verfügbaren Leistungsdaten nach Absatz 2 Nummer 2
-sachgerecht zu schätzen. Die Datenstelle unterrichtet jeweils die
-Vertragsparteien nach § 18 Absatz 2 des
+Standort eines Krankenhauses festzulegen; dies gilt auch, wenn die
+übermittelten Daten im Rahmen der Plausibilitätsprüfung von der
+Datenstelle nicht akzeptiert werden; die Datenstelle legt das Nähere
+zur Plausibilitätsprüfung fest und veröffentlicht die Festlegungen auf
+ihrer Internetseite. Der Abschlag nach Satz 2 beträgt mindestens
+20 000 Euro und höchstens 500 000 Euro. Zur Ermittlung des Abschlags
+nach Satz 2 wird ein Abschlagsfaktor gebildet, indem die Gesamtanzahl
+der Pflegevollkräfte eines Krankenhausstandorts durch die Anzahl der
+Pflegevollkräfte, für die vollständig und rechtzeitig Daten
+übermittelt wurden, dividiert wird, wobei als Nenner mindestens die
+Zahl 1 anzunehmen ist. Der Abschlagsfaktor ist kaufmännisch auf drei
+Nachkommastellen zu runden und mit dem Mindestabschlagsbetrag von
+20 000 Euro zu multiplizieren. Übermittelt ein Krankenhaus für einen
+Standort nicht die Gesamtanzahl der Pflegevollkräfte, hat die
+Datenstelle die Anzahl der Pflegevollkräfte für die Ermittlung des
+Abschlags nach Satz 2 auf der Grundlage von verfügbaren Leistungsdaten
+nach Absatz 2 Nummer 2 sachgerecht zu schätzen. Die Datenstelle
+unterrichtet jeweils die Vertragsparteien nach § 18 Absatz 2 des
 Krankenhausfinanzierungsgesetzes über Verstöße und die Höhe des
 jeweiligen Abschlags nach Satz 2. Die Vertragsparteien nach § 18
 Absatz 2 des Krankenhausfinanzierungsgesetzes berücksichtigen die

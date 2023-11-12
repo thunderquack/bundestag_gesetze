@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.4.2009 I 827;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.5.2021 I 866
-
-Änderung durch
-:   Art. 1 V v. 11.10.2021 I 4683 (Nr. 74) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1a V v. 22.12.2021 I 5259 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 4.11.2023 I Nr. 304
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien für
 Erzeugnisse des Weinsektors:
@@ -190,20 +184,6 @@ zu erbringen.
 (2) Es ist die durchschnittliche Hangneigung des Flurstücks der zur
 Bepflanzung beantragten Fläche zu ermitteln.
 
-
-### § 4a Nachweis der Lage im Anbaugebiet oder im Landweingebiet (zu § 7c Absatz 2 des Weingesetzes)
-
-Sofern ein Antrag nach § 7c Absatz 1 des Weingesetzes auf
-Neuanpflanzung in einem Gebiet gestellt wird, das für die Erzeugung
-von Weinen mit einer geschützten Ursprungsbezeichnung oder geschützten
-geografischen Angabe in Betracht kommt und die für das betroffene
-Gebiet zuständige Landesregierung eine Rechtsverordnung nach § 7
-Absatz 3 Satz 1 erlassen hat, ist dem Antrag ein Formular beizufügen,
-auf dem die Lage in dem betreffenden Anbaugebiet oder im
-Landweingebiet durch die zuständige Landesbehörde bestätigt wird. Das
-Formular wird dem Antragsteller von der Bundesanstalt für
-Landwirtschaft und Ernährung in elektronischer Form bereitgestellt.
-
 Härtefallregelung für Neuanpflanzungen
 
 ### § 5 (zu § 7c Absatz 3 des Weingesetzes)
@@ -264,7 +244,7 @@ zur Änderung der Verordnungen (EG) Nr. 555/2008, (EG) Nr. 606/2009 und
 Nr. 436/2009 und der Delegierten Verordnung (EU) 2015/560 der
 Kommission (ABl. L 58 vom 28.2.2018, S. 1; L 120 vom 8.5.2019, S. 34),
 die durch die Delegierte Verordnung (EU) 2019/840 (ABl. L 138 vom
-24\.5.2019, S. 74) geändert worden ist, ist auf 0,1 Hektar pro Betrieb
+24\.5.2019, S. 74) geändert worden ist, ist auf 0,5 Hektar pro Betrieb
 begrenzt und den zuständigen Landesbehörden vorab mitzuteilen. Die
 Landesregierungen können durch Rechtsverordnung Vorschriften über Form
 und Inhalt der Mitteilung erlassen.
@@ -293,46 +273,12 @@ geografischen Angabe in Betracht kommen.
 
 
 
-### § 8 Umstrukturierung und Umstellung\*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
-
-(1) Die Landesregierungen erlassen durch Rechtsverordnung unter
-Beachtung der maßgeblichen Rechtsakte der Europäischen Gemeinschaft
-oder der Europäischen Union die Vorschriften über die Voraussetzungen
-und das Verfahren für die Umstrukturierung und Umstellung von
-Rebflächen.
-
-(2) Die in der Rechtsverordnung nach Absatz 1 festzulegende
-
-1.  Mindestparzellengröße, für die eine Umstrukturierungsbeihilfe gewährt
-    werden kann, darf ein Ar und die
-
-
-2.  Mindestparzellengröße, die sich aus der Umstrukturierung und
-    Umstellung ergeben muss, darf 20 Ar nicht unterschreiten. Um der
-    besonderen Weinbaustruktur in bestimmten Anbaugebieten oder Teilen von
-    diesen Rechnung zu tragen, darf abweichend von Satz 1 Nummer 2 die
-    Mindestparzellengröße
-
-    a)  in den Ländern Baden-Württemberg, Brandenburg, Sachsen, Sachsen-Anhalt
-        und Thüringen auf drei Ar und
-
-
-    b)  in den übrigen Ländern auf fünf Ar
+### § 8 (weggefallen)
 
 
 
+### § 9 (weggefallen)
 
-    festgelegt werden.
-
-
-
-
-(3) (weggefallen)
-
-
-### § 9
-
-(weggefallen)
 
 Hektarertragsregelung
 
@@ -431,9 +377,29 @@ landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
 Fassung zugelassenen önologischen Verfahren angewendet und die dort
 aufgeführten Stoffe zugesetzt worden sein.
 
-(2) (weggefallen)
+(2) Ein Erzeugnis,
 
-(3) (weggefallen)
+1.  das angereichert wurde, darf nicht gesäuert werden,
+
+
+2.  das gesäuert wurde, darf weder angereichert noch entsäuert werden,
+
+
+3.  das entsäuert wurde, darf nicht gesäuert werden.
+
+
+
+
+(3) Eine Cuvée im Sinne des Anhangs II Teil IV Nummer 12 der
+Verordnung (EU) Nr. 1308/2013,
+
+1.  die gesäuert wurde, darf nicht entsäuert werden, und
+
+
+2.  die entsäuert wurde, darf nicht gesäuert werden.
+
+
+
 
 (4) (weggefallen)
 
@@ -474,13 +440,9 @@ nicht angewendet werden.
 
 (9) (weggefallen)
 
-Reinheitsanforderungen
 
-### § 12 (zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)
+### § 12 (weggefallen)
 
-Bei der Herstellung von Erzeugnissen dürfen die in Anlage 5 genannten
-Stoffe nur zugesetzt werden, wenn sie den dort aufgeführten
-Reinheitsanforderungen entsprechen.
 
 Behandlungsverfahren und Gehalt an Stoffen
 
@@ -655,12 +617,6 @@ Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr.
 Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert
 werden.
 
-(9) Die Länder können durch Rechtsverordnung in Jahren mit
-außergewöhnlichen Witterungsbedingungen die Säuerung von frischen
-Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein
-und Wein nach den in Anhang VIII Teil I Abschnitt C Nummer 2 und 3 der
-Verordnung (EU) Nr. 1308/2013 genannten Bedingungen zulassen.
-
 
 ### § 13a (weggefallen)
 
@@ -680,13 +636,13 @@ Erhöhung des natürlichen Alkoholgehaltes
 Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise
 gegorenem Traubenmost und Jungwein, soweit diese Erzeugnisse aus nach
 § 8 des Weingesetzes klassifizierten Rebsorten hergestellt worden
-sind, sowie Wein und Landwein darf nach Maßgabe des Anhangs VIII Teil
-I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden.
-Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung
-(EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz
-1 erhöht worden ist, der Gesamtalkoholgehalt bei Rotwein 12
-Volumenprozent in der Weinbauzone A und 12,5 Volumenprozent in der
-Weinbauzone B nicht übersteigen.
+sind, sowie Wein darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A
+und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von
+Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr.
+1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht
+worden ist, der Gesamtalkoholgehalt bei Rotwein 12 Volumenprozent in
+der Weinbauzone A und 12,5 Volumenprozent in der Weinbauzone B nicht
+übersteigen.
 
 (2) Der im gärfähig befüllten Behältnis festgestellte natürliche
 Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise
@@ -697,6 +653,20 @@ Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr.
 Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche
 Alkoholgehalt nach Satz 1 erhöht worden ist, bei Qualitätswein der
 Gesamtalkoholgehalt 15 Volumenprozent nicht übersteigen.
+
+(2a) Der im gärfähig befüllten Behältnis festgestellte natürliche
+Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise
+gegorenem Traubenmost, Jungwein und Wein darf, soweit diese
+Erzeugnisse zur Erzeugung von Wein geschützter geografischer Angabe
+geeignet sind, nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B
+der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang
+VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013
+darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden
+ist, bei Wein mit geschützter geografischer Angabe der
+Gesamtalkoholgehalt bei Weißwein 12,5 Volumenprozent in der
+Weinbauzone A und 13 Volumenprozent in der Weinbauzone B sowie bei
+Rotwein 13 Volumenprozent in der Weinbauzone A und 13,5 Volumenprozent
+in der Weinbauzone B nicht übersteigen.
 
 (3) Die Erhöhung des natürlichen Alkoholgehaltes darf bei
 
@@ -754,14 +724,9 @@ Traubenmost aus Rotweintrauben verwendet werden.
 ### § 16a (weggefallen)
 
 
-Umrechnung von Oechslegraden in Volumenprozent Alkohol
 
-### § 17 (zu § 15 Nummer 7 des Weingesetzes)
+### § 17 (weggefallen)
 
-Die Ermittlung des natürlichen Alkoholgehalts in Volumenprozent (%vol)
-aus den Oechslegraden
-(Grad Oe) erfolgt nach der in der Anlage 8 aufgeführten Tabelle. Für
-andere Umrechnungen ist die Tabelle nicht anzuwenden.
 
 Weitere Verarbeitungsregeln
 
@@ -1024,10 +989,10 @@ Antrag bewilligt. Liegen die Voraussetzungen für eine vorübergehende
 Einzelfall, ob die sofortige Vollziehbarkeit der Bewilligung nach
 Absatz 4 Satz 3 anzuordnen ist.
 
-(6) Die Bundesanstalt für Landwirtschaft und Ernährung veröffentlicht
-den bewilligenden Bescheid in nicht personenbezogener Form zusammen
-mit der geänderten Produktspezifikation im Bundesanzeiger und auf der
-Homepage der Bundesanstalt für Landwirtschaft und Ernährung.
+(6) Die Bundesanstalt für Landwirtschaft und Ernährung hat die
+geänderte Produktspezifikation auf ihrer Homepage und den
+bewilligenden Bescheid in nicht personenbezogener Form im
+Bundesanzeiger und auf ihrer Homepage zu veröffentlichen.
 
 (7) Ferner benachrichtigt die Bundesanstalt für Landwirtschaft und
 Ernährung die für die durchzuführenden Kontrollen zuständige
@@ -1533,7 +1498,7 @@ oder eines Gütezeichens. Das Bundesministerium für Ernährung und
 Landwirtschaft veröffentlicht zu Beginn eines Weinwirtschaftsjahres
 ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen
 Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen
-anerkannten Auszeichnungen und Gütezeichen im Bundesanzeiger.
+anerkannten Auszeichnungen und Gütezeichen auf seiner Homepage.
 
 Wein für religiöse Zwecke
 
@@ -1724,7 +1689,7 @@ Qualitätswein der Weinart Weißwein oder Rotwein handelt und
 
 Erstes Gewächs und Großes Gewächs
 
-### § 32b (zu den §§ 16a und 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32b (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 (1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn
 es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart
@@ -1757,8 +1722,10 @@ Weißwein oder Rotwein handelt und
     ihres Gesundheits- und Reifezustands selektiv gelesen worden sind,
 
 
-5.  der zur Herstellung verwendete Traubenmost einen natürlichen
-    Mindestalkoholgehalt von mindestens 11,0 Volumenprozent aufweist,
+5.  der zur Herstellung verwendete Traubenmost in den Anbaugebieten Mosel,
+    Saale-Unstrut und Sachsen einen natürlichen Mindestalkoholgehalt von
+    mindestens 10,5 Volumenprozent sowie in allen übrigen Anbaugebieten
+    von mindestens 11,0 Volumenprozent aufweist,
 
 
 6.  eine Einzellage oder eine kleinere geografische Einheit nach § 23
@@ -1793,7 +1760,7 @@ gesonderten sensorischen Prüfung unterliegt.
 es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart
 Weißwein oder Rotwein handelt und
 
-1.  die Anforderungen nach Absatz 1 Nummer 1, 2, 6 bis 9 und 11 erfüllt
+1.  die Anforderungen nach Absatz 1 Nummer 1, 2, 5 bis 9 und 11 erfüllt
     sind,
 
 
@@ -1815,18 +1782,14 @@ Weißwein oder Rotwein handelt und
     sind,
 
 
-4.  der zur Herstellung verwendete Traubenmost einen natürlichen
-    Mindestalkoholgehalt von mindestens 12,0 Volumenprozent aufweist,
-
-
-5.  er zum Zeitpunkt einer in der jeweiligen Produktspezifikation
+4.  er zum Zeitpunkt einer in der jeweiligen Produktspezifikation
     festgelegten gesonderten Prüfung, die nicht später als sechs Monate
     nach Zuteilung einer amtlichen Prüfungsnummer erfolgen darf, die
     besonderen gebiets- und rebsortentypischen sensorischen Merkmale
     aufweist und
 
 
-6.  er nicht vor dem 1. September des auf das Erntejahr der verwendeten
+5.  er nicht vor dem 1. September des auf das Erntejahr der verwendeten
     Trauben folgenden Jahres an Endverbraucher abgegeben wird. Für
     Rotweine verlängert sich diese Frist um neun Monate.
 
@@ -1854,6 +1817,10 @@ insbesondere hinsichtlich
 (4) Bestehende Bezeichnungen, die die Begriffe „Erstes Gewächs“ oder
 „Großes Gewächs“ enthalten, dürfen weiterverwendet werden, wenn sie
 die in den Absätzen 1 bis 3 genannten Mindestanforderungen erfüllen.
+Soweit die nach Absatz 1 Nummer 2 und Absatz 2 Nummer 4 vorgesehenen
+Festlegungen in den Produktspezifikationen noch nicht getroffen sind,
+sind die entsprechenden verbandsinternen oder betrieblich festgelegten
+Anforderungen an die bestehenden Bezeichnungen weiter anzuwenden.
 
 Weitere Bestimmungen für Classic
 
@@ -2282,6 +2249,20 @@ Angabe durch eine Rechtsvorschrift des Herstellungslandes zugelassen
 ist, gilt diese Voraussetzung nur als erfüllt, wenn die Angabe auch
 für den Verkehr innerhalb des Herstellungslandes zulässig ist.
 
+(4) Erzeugnisse, in deren Kennzeichnung und Aufmachung der Begriff
+„entalkoholisierter“ im Sinne des Artikels 119 Absatz 1 Buchstabe a
+Satz 1 Nummer i der Verordnung (EU) Nr. 1308/2013 zu verwenden ist,
+dürfen zusätzlich die Angabe „alkoholfrei“ in Kennzeichnung und
+Aufmachung tragen. Sobald der vorhandene Alkoholgehalt mindestens 0,05
+Volumenprozent beträgt, ist die Angabe „alkoholfrei“ um die Angabe „(<
+0,5 % vol)“ zu ergänzen.
+
+(5) Erzeugnisse, in deren Kennzeichnung und Aufmachung der Begriff
+„teilweise entalkoholisierter“ im Sinne des Artikels 119 Absatz 1
+Buchstabe a Satz 1 Nummer ii der Verordnung (EU) Nr. 1308/2013 zu
+verwenden ist, dürfen zusätzlich die Angabe „alkoholreduziert“ in
+Kennzeichnung und Aufmachung tragen.
+
 Angaben zum Betrieb und zur Abfüllung
 
 ### § 38 (zu § 24 Absatz 2 des Weingesetzes)
@@ -2478,9 +2459,7 @@ In den jeweiligen Produktspezifikationen können strengere und
 insbesondere hinsichtlich des Hektarertrages weitere Anforderungen als
 die in Satz 1 vorgesehenen festgelegt werden.
 
-(2) Bei inländischen weinhaltigen Getränken darf ein Hinweis auf die
-Herkunft der zu ihrer Herstellung verwendeten Erzeugnisse nicht
-verwendet werden.
+(2) (weggefallen)
 
 Geografische Bezeichnungen mit EU-Schutz
 
@@ -2593,9 +2572,10 @@ zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der
 zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten
 stammen.
 
-(2) Bei einem Wein, ausgenommen Perlwein, Schaumwein und
-Qualitätsschaumwein, aus Erzeugnissen ab dem Erntejahrgang 2011, der
-nicht mit einer geschützten Ursprungsbezeichnung oder geschützten
+(2) Bei einem Wein, ausgenommen Perlwein, Schaumwein,
+Qualitätsschaumwein sowie entalkoholisierter und teilweise
+entalkoholisierter Wein, aus Erzeugnissen ab dem Erntejahrgang 2011,
+der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten
 geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe a
 oder b der Verordnung (EU) Nr. 1308/2013 bezeichnet ist, ist die
 Angabe der Bezeichnung einer der folgenden Rebsorten unzulässig:
@@ -2890,81 +2870,37 @@ Angaben mündlich bereitgestellt werden und eine schriftliche
 Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz 4 gilt
 entsprechend.
 
-Alkoholfreier und alkoholreduzierter Wein
+Schäumende Getränke aus entalkoholisiertem Wein, teilweise
+entalkoholisiertem Wein und Wein
 
 ### § 47 (zu § 26 Absatz 3 Satz 1 des Weingesetzes)
 
-(1) Getränke, die nicht Erzeugnisse im Sinne des Weingesetzes sind,
-dürfen hergestellt und in den Verkehr gebracht werden, wenn sie
-
-1.  aus Wein unter schonender Entgeistung durch thermische Prozesse,
-    Membranprozesse, bei deren Anwendung eine Volumenverminderung des
-    Weines von höchstens 25 vom Hundert eintreten darf, oder Extraktion
-    mit flüssigem Kohlendioxid hergestellt wurden,
-
-
-2.  weniger als 0,5 Volumenprozent Alkohol enthalten und
-
-
-3.  als „alkoholfreier Wein“ auf den Flaschen, Behältnissen, Verpackungen,
-    Getränkekarten und Preislisten bezeichnet sind.
-
-
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das
-Etikett anbringt, die Angabe "alkoholfreier Wein" in Schriftzeichen
-der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich
-von den anderen Angaben abhebt.
-
-(2) Getränke, die nicht Erzeugnisse im Sinne des Weingesetzes sind,
-dürfen hergestellt und in den Verkehr gebracht werden, wenn sie
-
-1.  aus Wein unter schonender Entgeistung durch thermische Prozesse,
-    Membranprozesse, bei deren Anwendung eine Volumenverminderung des
-    Weines von höchstens 25 vom Hundert eintreten darf, oder Extraktion
-    mit flüssigem Kohlendioxid oder durch Vermischen von
-    entalkoholisiertem Wein mit Wein hergestellt wurden,
-
-
-2.  mindestens 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol
-    enthalten und
-
-
-3.  als „alkoholreduzierter Wein“ auf den Flaschen, Behältnissen,
-    Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
-
-
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das
-Etikett anbringt, die Angabe "alkoholreduzierter Wein" in
-Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass
-sie sich deutlich von den anderen Angaben abhebt.
-
-(3) Schäumende Getränke, die durch Vergärung oder unter Zusatz von
-Kohlensäure aus Getränken, die den Bestimmungen des Absatzes 1
-entsprechen, hergestellt sind, dürfen, auch soweit sie nach Artikel 57
-der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den
-Verkehr gebracht werden, wenn sie
+(1) Schäumende Getränke, die unter Zusatz von Kohlensäure aus
+entalkoholisiertem Wein hergestellt sind, dürfen, auch soweit sie nach
+Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in
+den Verkehr gebracht werden, wenn sie
 
 1.  weniger als 0,5 Volumenprozent Alkohol enthalten und
 
 
-2.  als „Schäumendes Getränk aus alkoholfreiem Wein“ auf den Flaschen,
-    Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet
-    sind.
+2.  als „Schäumendes Getränk aus entalkoholisiertem Wein“ auf den
+    Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten
+    bezeichnet sind.
 
 
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das
-Etikett anbringt, die Angabe "Schäumendes Getränk aus alkoholfreiem
-Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so
-anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
+Etikett anbringt, die Angabe „Schäumendes Getränk aus
+entalkoholisiertem Wein“ in Schriftzeichen der gleichen Art, Farbe und
+Größe so anzugeben, dass sie sich deutlich von den anderen Angaben
+abhebt.
 
-(4) Schäumende Getränke, die durch Vergärung oder unter Zusatz von
-Kohlensäure aus Getränken, die den Bestimmungen des Absatzes 2
-entsprechen, hergestellt sind, dürfen, auch soweit sie nach Artikel 57
-der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den
-Verkehr gebracht werden, wenn sie
+(2) Schäumende Getränke, die durch Vergärung oder unter Zusatz von
+Kohlensäure aus teilweise entalkoholisiertem Wein oder dem Vermischen
+aus entalkoholisiertem oder teilweise entalkoholisiertem Wein und Wein
+hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der
+Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr
+gebracht werden, wenn sie
 
 1.  mehr als 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol
     enthalten und
@@ -2977,21 +2913,28 @@ Verkehr gebracht werden, wenn sie
 
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das
-Etikett anbringt, die Angabe "Schäumendes Getränk aus
-alkoholreduziertem Wein" in Schriftzeichen der gleichen Art, Farbe und
+Etikett anbringt, die Angabe „Schäumendes Getränk aus
+alkoholreduziertem Wein“ in Schriftzeichen der gleichen Art, Farbe und
 Größe so anzugeben, dass sie sich deutlich von den anderen Angaben
 abhebt.
 
-(4a) In den Fällen des Absatzes 1 Satz 1 Nummer 3, des Absatzes 2 Satz
-1 Nummer 3, des Absatzes 3 Satz 1 Nummer 2 und des Absatzes 4 Satz 1
-Nummer 2 kann der Name einer einzigen Rebsorte angegeben werden,
-soweit diese Rebsorte die Art der dort genannten Getränke bestimmt.
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 und des Absatzes 2
+Satz 1 Nummer 2 darf der Name einer einzigen Rebsorte angegeben
+werden, wenn mindestens 85 Prozent des Erzeugnisses aus dieser
+Rebsorte hergestellt worden sind.
 
-(5) Die in den Absätzen 1 bis 4 genannten Getränke dürfen nur in den
-Verkehr gebracht werden, wenn bei ihrer Herstellung Wasser und, soweit
-sie gesüßt worden sind, zur Süßung ein anderer Stoff als Saccharose
-oder andere Erzeugnisse als Traubenmost oder rektifiziertes
-Traubenmostkonzentrat nicht zugesetzt worden sind.
+(4) Die in den Absätzen 1 und 2 genannten Getränke dürfen nur in den
+Verkehr gebracht werden, wenn bei ihrer Herstellung
+
+1.  kein Wasser zugesetzt worden ist und
+
+
+2.  zur Süßung, sofern sie gesüßt worden sind, ausschließlich Saccharose
+    Traubenmost oder rektifiziertes Traubenmostkonzentrat zugesetzt worden
+    sind.
+
+
+
 
 
 ### § 48 (weggefallen)
@@ -3099,7 +3042,11 @@ bestraft, wer vorsätzlich oder fahrlässig
     einen anderen Stoff zusetzt,
 
 
-2.  (weggefallen)
+2.  entgegen § 11 Absatz 2 ein Erzeugnis säuert, anreichert oder
+    entsäuert,
+
+
+2a. entgegen § 11 Absatz 3 eine Cuveé entsäuert oder säuert,
 
 
 3.  entgegen § 11 Absatz 8 Satz 1 ein Behandlungsverfahren anwendet, durch
@@ -3113,7 +3060,7 @@ bestraft, wer vorsätzlich oder fahrlässig
 4a. (weggefallen)
 
 
-5.  entgegen § 12 einen Stoff zusetzt,
+5.  (weggefallen)
 
 
 6.  (weggefallen)
@@ -3424,6 +3371,16 @@ einschließlich des Erntejahrgangs 2023 nach den bis zum Ablauf des 7.
 Mai 2021 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen
 der Bestände in den Verkehr gebracht werden.
 
+(20) Getränke aus Trauben bis einschließlich des Erntejahrgangs 2022,
+dürfen noch bis 31. Dezember 2022 nach den bis zum Ablauf des 28.
+Oktober 2022 geltenden Vorschriften hergestellt und gekennzeichnet
+werden.
+
+(21) Getränke aus Trauben bis einschließlich des Erntejahrgangs 2022,
+die nach den bis zum Ablauf des 28. Oktober 2022 geltenden
+Vorschriften zulässig gekennzeichnet wurden, dürfen bis zum
+Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
 Grundsätze zur Anerkennung von Witterungsverhältnissen als für den
 Weinanbau außergewöhnlich ungünstige Witterungsverhältnisse
 
@@ -3538,207 +3495,9 @@ Witterung gleichgestellt.
 
 ### Anlage 4 (weggefallen)
 
-(zu § 12)
 
-### Anlage 5 Reinheitsanforderungen
+### Anlage 5 (weggefallen)
 
-(Fundstelle des Originaltextes: BGBl. I 2009, 858 - 859)
-
-
-I.  Reinheitsanforderungen für Kaliumhydrogentartrat
-
-
-
-
-*    *   Gehalt:
-
-    *   mind. 99,0 %
-
-
-*    *   Trockenverlust (105 Grad C):
-
-    *   max. 1,0 %
-
-
-*    *   Blei:
-
-    *   max. 5,0 mg/kg
-
-
-*    *   Arsen:
-
-    *   max. 3,0 mg/kg
-
-
-*    *   pH-Wert (0,5%ige wässrige Lösung):
-
-    *   3,5 bis 4,0
-
-
-
-
-II. Reinheitsanforderungen für Speisegelatine und Speisegelatine in
-    wässriger Lösung
-
-
-
-Speisegelatine ist nur zur Behandlung zugelassen, wenn sie
-
-a)  weniger als 2,5 vom Hundert Asche,
-
-
-b)  weniger als 400 mg/kg schweflige Säure,
-
-
-c)  weniger als 2 mg/kg Arsen,
-
-
-d)  weniger als 30 mg/kg Kupfer,
-
-
-e)  weniger als 5 mg/kg Blei
-
-
-
-enthält und Wasserstoffperoxid nicht nachweisbar ist. Die aerobe
-Keimzahl (Nährmedium: Trypton-Hefeextrakt-Glukose-Agar) darf 10 000 in
-einem Gramm nicht übersteigen. Coliforme Bakterien dürfen in 0,1
-Gramm, Clostridien sowie Escherichia coli in einem Gramm nicht
-nachweisbar sein.
-Speisegelatine in wässriger Lösung ist zur Behandlung nur zugelassen,
-wenn der Gelatineanteil mindestens 20 vom Hundert beträgt, der Gehalt
-an schwefliger Säure in einem Liter 2 500 mg/l nicht übersteigt und im
-Übrigen die für Speisegelatine in Satz 1 genannten
-Reinheitsanforderungen erfüllt sind.
-
-III. Reinheitsanforderungen für Bentonit
-
-
-
-Bentonit ist nur zur Behandlung zugelassen, wenn folgende
-Anforderungen erfüllt sind:
-
-1.  In 100 Gramm lufttrockenem Bentonit dürfen nicht mehr als
-
-    a)  0,5 Gramm in 1%iger Weinsäure lösliches Natrium (Na),
-
-
-    b)  0,8 Gramm in 1%iger Weinsäure lösliches Calcium (Ca),
-
-
-    c)  0,5 Gramm in 1%iger Weinsäure lösliches Magnesium (Mg),
-
-
-    d)  0,2 Gramm in 1%iger Weinsäure lösliches Eisen (Fe),
-
-
-    e)  0,2 Milligramm in 1%iger Weinsäure lösliches Arsen (As),
-
-
-    f)  2,0 Milligramm in 1%iger Weinsäure lösliches Blei (Pb),
-
-
-    g)  1,0 Gramm Kohlensäure
-        (CO(tief)2), gebunden, (bestimmt nach der "Vorschrift im
-        Internationalen Codex der Weinbehandlungsmittel" des "Internationalen
-        Amtes für Rebe und Wein")
-
-
-
-
-    enthalten sein.
-
-    Die Untersuchungslösung für die unter den Buchstaben a bis f
-    angegebenen Untersuchungen wird in der Weise hergestellt, dass 2,5
-    Gramm des lufttrockenen Bentonits in einem 250 Milliliter-Messkolben
-    mit 1%iger Weinsäurelösung zur Marke aufgefüllt und unter
-    gelegentlichem Umschwenken 24 Stunden stehen gelassen wird. Mit der
-    durch Dekantieren oder Zentrifugieren erhaltenen Lösung werden die
-    Untersuchungen auf den Gehalt der angegebenen Elemente durchgeführt.
-
-
-2.  Die Asche der in 1%iger Weinsäure löslichen Stoffe darf den Betrag von
-    drei Gramm pro 100 Gramm lufttrockenen Bentonit nicht übersteigen; die
-    Untersuchungslösung wird wie unter Nummer 1 hergestellt.
-
-
-3.  Der Wirkungswert des Bentonits (nicht luftgetrocknet) muss mindestens
-    40 % betragen; der Wirkungswert wird wie folgt ermittelt:
-
-    a)  Herstellung der Modell-Lösung:
-
-        1.  fünf Gramm Äpfelsäure, 500 Milligramm Kaliumdisulfit
-            (Kaliumpyrosulfit), 100 Gramm Methanol z.A. werden mit destilliertem
-            Wasser zu 1 Liter gelöst und die Lösung mit Kaliumcarbonat (in fester
-            Form) genau auf pH 3,5 eingestellt,
-
-
-        2.  500 Milligramm Gelatine weiß (z.B. Merck), Lebensmittelqualität,
-            werden mit der Lösung nach Nummer 1 bei 35 Grad Celsius (im Wasserbad)
-            zu 1 Liter gelöst.
-
-
-
-
-
-    b)  Bestimmungen:
-
-        50 Milliliter der Lösung nach Buchstabe a Nummer 2 werden mit 50
-        Milligramm des zu untersuchenden Bentonits eine Stunde geschüttelt.
-        Nach dem Schütteln wird die Lösung zentrifugiert. Der klare Überstand
-        wird zur Stickstoffbestimmung verwendet.
-
-
-
-
-
-
-c)  Berechnung:
-Stickstoffgehalt           Stickstoffgehalt
-unbehandelte       minus   behandelte
-Probe                      Probe
-------------------------------------------- x 100
-Stickstoffgehalt unbehandelte Probe
-
-IV. Reinheitsanforderungen für Aktivkohle
-
-
-
-Aktivkohle ist nur zur Behandlung zugelassen, wenn in 100 Gramm
-lufttrockener Aktivkohle
-
-1.  nicht mehr als
-
-    a)  5 Milligramm in 20%iger Salpetersäure lösliches Blei (Pb),
-
-
-    b)  150 Milligramm in 20%iger Salpetersäure lösliches Zink (Zn),
-
-
-    c)  0,5 Milligramm in 20%iger Salpetersäure lösliches Arsen (As)
-
-
-
-
-    enthalten sind. Die Untersuchungslösung wird in der Weise hergestellt,
-    dass etwa zwei Gramm lufttrockene Aktivkohle genau eingewogen, 30
-    Milliliter 20%iger Salpetersäure 5 Minuten erhitzt und durch ein
-    gehärtetes Filter in einem 100-Milliliter-Messkolben filtriert werden.
-    Der Rückstand wird mit heißem, destilliertem Wasser zur Marke
-    aufgefüllt;
-
-
-2.  Cyanverbindungen, Teerprodukte und polycyclische aromatische
-    Verbindungen nicht nachweisbar sind.
-
-
-V.  Reinheitsanforderungen für Saccharose
-
-
-
-Saccharose darf zur Alkoholerhöhung nur verwendet werden, wenn sie
-technisch rein und nicht färbend ist; sie muss in der Trockensubstanz
-mindestens 99,5 vom Hundert vergärbaren Zucker enthalten.
 
 
 ### Anlage 6 (weggefallen)
@@ -5093,515 +4852,11 @@ stammen.
 
 
 
-(zu § 17)
 
-### Anlage 8 Tabelle zur Ermittlung des natürlichen Alkoholgehalts in Volumenprozent aus dem Oechslegrad
+### Anlage 8 (weggefallen)
 
-(Fundstelle des Originaltextes: BGBl. I 2009, 866)
 
-*    *   °Oe
-
-    *   %vol
-        Alkohol
-
-    *   °Oe
-
-    *   %vol
-        Alkohol
-
-    *   °Oe
-
-    *   %vol
-        Alkohol
-
-    *   °Oe
-
-    *   %vol
-        Alkohol
-
-    *   °Oe
-
-    *   %vol
-        Alkohol
-
-    *   °Oe
-
-    *   %vol
-        Alkohol
-
-
-*    *   40
-
-    *   4,4
-
-    *   59
-
-    *   7,3
-
-    *   78
-
-    *   10,3
-
-    *   97
-
-    *   13,3
-
-    *   116
-
-    *   16,3
-
-    *   135
-
-    *   19,2
-
-
-*    *   41
-
-    *   4,5
-
-    *   60
-
-    *   7,5
-
-    *   79
-
-    *   10,5
-
-    *   98
-
-    *   13,4
-
-    *   117
-
-    *   16,4
-
-    *   136
-
-    *   19,4
-
-
-*    *   42
-
-    *   4,7
-
-    *   61
-
-    *   7,7
-
-    *   80
-
-    *   10,6
-
-    *   99
-
-    *   13,6
-
-    *   118
-
-    *   16,6
-
-    *   137
-
-    *   19,5
-
-
-*    *   43
-
-    *   4,8
-
-    *   62
-
-    *   7,8
-
-    *   81
-
-    *   10,8
-
-    *   100
-
-    *   13,8
-
-    *   119
-
-    *   16,7
-
-    *   138
-
-    *   19,7
-
-
-*    *   44
-
-    *   5,0
-
-    *   63
-
-    *   8,0
-
-    *   82
-
-    *   10,9
-
-    *   101
-
-    *   13,9
-
-    *   120
-
-    *   16,9
-
-    *   139
-
-    *   19,8
-
-
-*    *   45
-
-    *   5,2
-
-    *   64
-
-    *   8,1
-
-    *   83
-
-    *   11,1
-
-    *   102
-
-    *   14,1
-
-    *   121
-
-    *   17,0
-
-    *   140
-
-    *   20,0
-
-
-*    *   46
-
-    *   5,3
-
-    *   65
-
-    *   8,3
-
-    *   84
-
-    *   11,3
-
-    *   103
-
-    *   14,2
-
-    *   122
-
-    *   17,2
-
-    *   141
-
-    *   20,2
-
-
-*    *   47
-
-    *   5,5
-
-    *   66
-
-    *   8,4
-
-    *   85
-
-    *   11,4
-
-    *   104
-
-    *   14,4
-
-    *   123
-
-    *   17,3
-
-    *   142
-
-    *   20,3
-
-
-*    *   48
-
-    *   5,6
-
-    *   67
-
-    *   8,6
-
-    *   86
-
-    *   11,6
-
-    *   105
-
-    *   14,5
-
-    *   124
-
-    *   17,5
-
-    *   143
-
-    *   20,5
-
-
-*    *   49
-
-    *   5,8
-
-    *   68
-
-    *   8,8
-
-    *   87
-
-    *   11,7
-
-    *   106
-
-    *   14,7
-
-    *   125
-
-    *   17,7
-
-    *   144
-
-    *   20,6
-
-
-*    *   50
-
-    *   5,9
-
-    *   69
-
-    *   8,9
-
-    *   88
-
-    *   11,9
-
-    *   107
-
-    *   14,8
-
-    *   126
-
-    *   17,8
-
-    *   145
-
-    *   20,8
-
-
-*    *   51
-
-    *   6,1
-
-    *   70
-
-    *   9,1
-
-    *   89
-
-    *   12,0
-
-    *   108
-
-    *   15,0
-
-    *   127
-
-    *   18,0
-
-    *   146
-
-    *   20,9
-
-
-*    *   52
-
-    *   6,3
-
-    *   71
-
-    *   9,2
-
-    *   90
-
-    *   12,2
-
-    *   109
-
-    *   15,2
-
-    *   128
-
-    *   18,1
-
-    *   147
-
-    *   21,1
-
-
-*    *   53
-
-    *   6,4
-
-    *   72
-
-    *   9,4
-
-    *   91
-
-    *   12,4
-
-    *   110
-
-    *   15,3
-
-    *   129
-
-    *   18,3
-
-    *   148
-
-    *   21,3
-
-
-*    *   54
-
-    *   6,6
-
-    *   73
-
-    *   9,5
-
-    *   92
-
-    *   12,5
-
-    *   111
-
-    *   15,5
-
-    *   130
-
-    *   18,4
-
-    *   149
-
-    *   21,4
-
-
-*    *   55
-
-    *   6,7
-
-    *   74
-
-    *   9,7
-
-    *   93
-
-    *   12,7
-
-    *   112
-
-    *   15,6
-
-    *   131
-
-    *   18,6
-
-    *   150
-
-    *   21,5
-
-
-*    *   56
-
-    *   6,9
-
-    *   75
-
-    *   9,8
-
-    *   94
-
-    *   12,8
-
-    *   113
-
-    *   15,8
-
-    *   132
-
-    *   18,8
-
-    *
-    *
-
-*    *   57
-
-    *   7,0
-
-    *   76
-
-    *   10,0
-
-    *   95
-
-    *   13,0
-
-    *   114
-
-    *   15,9
-
-    *   133
-
-    *   18,9
-
-    *
-    *
-
-*    *   58
-
-    *   7,2
-
-    *   77
-
-    *   10,2
-
-    *   96
-
-    *   13,1
-
-    *   115
-
-    *   16,1
-
-    *   134
-
-    *   19,1
-
-    *
-    *
-
-
-
-   (zu § 22 Absatz 1 und § 24 Absatz 1)
+(zu § 22 Absatz 1 und § 24 Absatz 1)
 
 ### Anlage 9 Prüfungsantrag/Sinnenprüfung
 

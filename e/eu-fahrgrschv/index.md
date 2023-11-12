@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2571
 
+Geändert durch
+:   Art. 3 V v. 15.3.2022 I 485
+
 
 ## Eingangsformel
 
@@ -45,7 +48,7 @@ sind zunächst unmittelbar beim Beförderer einzureichen.
 
 (1) Die zuständige Behörde nach § 3 Absatz 1 des EU-Fahrgastrechte-
 Schifffahrt-Gesetzes veröffentlicht jeweils für den Zeitraum von zwei
-Kalenderjahren, spätestens zwei Monate nach deren Ablauf, einen für
+Kalenderjahren, spätestens fünf Monate nach deren Ablauf, einen für
 ihren Bereich erstellten Bericht über die Durchsetzung der Verordnung
 (EU) Nr. 1177/2010 in nicht personenbezogener Form mit folgenden
 Angaben:

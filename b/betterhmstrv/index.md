@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 250
 
-Änderung durch
-:   Art. 3 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 Abs. 96 V v. 18.1.2022 I 39 ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 2 Abs. 96 V v. 18.1.2022 I 39
 
 Stand: Ersetzt V 7110-3-104 v. 21.1.1993 I 87 (BetTerMstrV)
 

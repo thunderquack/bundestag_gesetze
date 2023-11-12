@@ -15,17 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 958
 
-Geändert durch
-:   Art. 1 V v. 21.6.2017 I 1903
-
-Änderung durch
-:   Art. 3 Abs. 1 G v. 2.6.2021 I 1295 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 6.9.2021 I 4163 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 23.2.2023 I Nr. 53
 
 
 ## Eingangsformel
@@ -446,7 +437,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 2.  Im Sinne von Anhang 1 ist oder sind
 
-    2.1) Erzeugungsanlage
+    2.1 Erzeugungsanlage
 
         eine Anlage im Sinne des § 3 Nummer 18c des
         Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur
@@ -455,7 +446,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Energiewirtschaftsgesetzes.
 
 
-    2.2) Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
+    2.2 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
 
         eine Anlage oder ein System zur Bündelung elektrischer Leistung und
         Steuerung von Erzeugungsanlagen oder dezentraler
@@ -465,43 +456,43 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         auch die die Anlagen betreffenden Schalthandlungen.
 
 
-    2.3) Übertragungsnetz
+    2.3 Übertragungsnetz
 
         ein Netz zur Übertragung im Sinne des § 3 Nummer 32 des
         Energiewirtschaftsgesetzes.
 
 
-    2.4) Zentrale Anlage oder System für den Stromhandel
+    2.4 Zentrale Anlage oder System für den Stromhandel
 
         eine Anlage oder ein elektronisches Handelssystem, das den physischen,
         kurzfristigen Spothandel sowie den Terminhandel mit Energie für das
         deutsche Marktgebiet betrifft.
 
 
-    2.5) Stromverteilernetz
+    2.5 Stromverteilernetz
 
         ein Netz zur Verteilung von Elektrizität im Sinne des § 3 Nummer 37
         des Energiewirtschaftsgesetzes.
 
 
-    2.6) Gasförderanlage
+    2.6 Gasförderanlage
 
         eine Anlage zur Förderung von Erdgas aus einer Bohrung.
 
 
-    2.7) Anlage zur zentralen standortübergreifenden Steuerung
+    2.7 Anlage zur zentralen standortübergreifenden Steuerung
 
         eine Anlage oder ein IT-System, durch das eine oder mehrere Anlagen
         standortübergreifend gesteuert oder überwacht werden.
 
 
-    2.8) Fernleitungsnetz
+    2.8 Fernleitungsnetz
 
         ein Netz zur Fernleitung im Sinne des § 3 Nummer 19 des
         Energiewirtschaftsgesetzes.
 
 
-    2.9) Gasgrenzübergabestelle
+    2.9 Gasgrenzübergabestelle
 
         eine Netzkoppelstelle, die in der Regel zwischen einem deutschen
         Fernleitungsnetz und dem eines anderen Staates besteht, soweit diese
@@ -509,30 +500,41 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         dessen Fernleitungsnetzes betrieben wird.
 
 
-    2.10) Gasspeicher
+    2.10 Gasspeicher
 
         eine Speicheranlage im Sinne des § 3 Nummer 31 des
         Energiewirtschaftsgesetzes.
 
 
-    2.11) Gasverteilernetz
+    2.11 Gasverteilernetz
 
         ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des
         Energiewirtschaftsgesetzes.
 
 
-    2.12) Gashandelssystem
+    2.12 Gashandelssystem
 
         eine Anlage oder ein elektronisches Handelssystem für den Handel von
         Gasmengen oder -kapazitäten.
 
 
-    2.13) Ölförderanlage
+    2.13 LNG-Anlage
+
+        schwimmende oder landgebundene stationäre Anlagen oder Systeme zur
+        Verflüssigung von Gas nach § 3 Nr. 19a EnWG oder zur Einfuhr,
+        Entladung und Wiederverdampfung von verflüssigtem Gas, einschließlich
+        der Anlagenteile für Hilfsdienste und für die vorübergehende
+        Speicherung von verflüssigtem Erdgas, die für die Wiederverdampfung
+        und die anschließende Einspeisung in das Fernleitungsnetz erforderlich
+        sind.
+
+
+    2.14 Ölförderanlage
 
         eine Anlage zur Förderung von Erdöl aus einer Bohrung.
 
 
-    2.14) Raffinerie
+    2.15 Raffinerie
 
         eine Anlage zur Destillation oder Raffination oder sonstigen
         Weiterverarbeitung von Erdöl in Mineralölraffinerien im Sinne der
@@ -540,18 +542,18 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Umweltverträglichkeitsprüfung.
 
 
-    2.15) Mineralölfernleitung
+    2.16 Mineralölfernleitung
 
         eine Rohrfernleitung im Sinne der Rohrfernleitungsverordnung zum
         Transport von Erdöl oder Erdölprodukten.
 
 
-    2.16) Erdöl- und Erdölproduktenlager
+    2.17 Erdöl- und Erdölproduktenlager
 
         eine Anlage zur Lagerung von Erdöl oder Mineralölprodukten.
 
 
-    2.17) Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und
+    2.18 Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und
         Heizöl
 
         eine Anlage oder ein IT-System, das zur Disposition insbesondere von
@@ -561,7 +563,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         oder das IT-System Verbraucher beliefert werden.
 
 
-    2.18) Tankstellennetz
+    2.19 Tankstellennetz
 
         eine Anlage oder ein System zur Verbindung voneinander unabhängiger
         Tankstellen oder Flugfeldbetankungsanlagen mittels zentraler
@@ -572,7 +574,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Kraftstoff.
 
 
-    2.19) Anlage oder System zur zentralen kommerziellen Steuerung
+    2.20 Anlage oder System zur zentralen kommerziellen Steuerung
 
         eine Anlage oder ein System zur zentralen Steuerung oder Koordinierung
         der Betriebsplanung einer oder mehrerer Anlagen oder zur kommerziellen
@@ -581,20 +583,20 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Kollaborationslösungen, die als Cloud-Lösung betrieben werden.
 
 
-    2.20) Heizwerk
+    2.21 Heizwerk
 
         eine Anlage zur Erzeugung von Wärme zur Belieferung von Endkunden im
         Sinne der Verordnung über Allgemeine Bedingungen für die Versorgung
         mit Fernwärme.
 
 
-    2.21) Heizkraftwerk
+    2.22 Heizkraftwerk
 
         eine KWK-Anlage im Sinne des § 2 Nummer 14 des Kraft-Wärme-
         Kopplungsgesetzes.
 
 
-    2.22) Fernwärmenetz
+    2.23 Fernwärmenetz
 
         ein Netz zur Versorgung der Allgemeinheit mit Wärme.
 
@@ -609,12 +611,20 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
     eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    Schwellenwert unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten
+    ab dem ersten Tag des dritten Kalendermonats, der auf den
+    Kalendermonat folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
+    genannten Schwellenwert erreicht oder überschreitet als Kritische
+    Infrastruktur. Diese Anlagen gelten nicht mehr als Kritische
+    Infrastruktur ab dem 1. April des Kalenderjahres, in dem ihr
+    Versorgungsgrad den genannten Schwellenwert unterschreitet.
 
 
 4.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
     zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres
-    zu ermitteln.
+    zu ermitteln. Betreiber von Anlagen nach Teil 3 Nummer 2.2.4 haben den
+    aktuellen Versorgungsgrad ihrer Anlage jeweils zur Inbetriebnahme und
+    zum 31. März eines jeden Kalenderjahres zu ermitteln.
 
 
 5.  Ist der Versorgungsgrad anhand der Anzahl angeschlossener Haushalte zu
@@ -961,6 +971,15 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     *   Gasspeicher
 
     *   Entnommene Arbeit in GWh/Jahr
+
+    *   5 190
+
+
+*    *   2.2.4
+
+    *   LNG-Anlage
+
+    *   Technische Regasifizierungskapazität in GWh/Jahr
 
     *   5 190
 
@@ -1585,40 +1604,40 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 2.  Im Sinne von Anhang 3 ist oder sind
 
-    2.1) Anlage oder System zur Herstellung von Lebensmitteln
+    2.1 Anlage oder System zur Herstellung von Lebensmitteln
 
         eine Anlage zum Herstellen von Lebensmitteln im Sinne des § 3 Absatz 1
         Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches.
 
 
-    2.2) Anlage oder System zur Behandlung von Lebensmitteln
+    2.2 Anlage oder System zur Behandlung von Lebensmitteln
 
         eine Anlage zum Behandeln von Lebensmitteln im Sinne des § 3 Absatz 1
         Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches.
 
 
-    2.3) Anlage oder System zur Distribution von Lebensmitteln
+    2.3 Anlage oder System zur Distribution von Lebensmitteln
 
         eine Anlage oder ein System zur Planung, Steuerung, Bereitstellung und
         Verteilung von Produktionsmitteln oder Lebensmitteln, zum Beispiel
         Fuhrpark-, Hof- oder Flottenmanagementsysteme.
 
 
-    2.4) Anlage oder System zur zentralen Steuerung oder Überwachung
+    2.4 Anlage oder System zur zentralen Steuerung oder Überwachung
 
         eine Anlage oder ein System, durch die oder das eine oder mehrere
         andere Anlagen oder Systeme gesteuert oder überwacht werden, zum
         Beispiel ERP-, Warenwirtschafts- oder Lagerverwaltungssysteme.
 
 
-    2.5) Anlage oder System zur Bestellung von Lebensmitteln
+    2.5 Anlage oder System zur Bestellung von Lebensmitteln
 
         eine Anlage oder ein System zur Aufgabe oder Entgegennahme von
         Lebensmittelbestellungen, zum Beispiel EDI-Dispositionssysteme,
         Lieferanten- und Kundenstammdatensysteme.
 
 
-    2.6) Anlage oder System zum Inverkehrbringen von Lebensmitteln
+    2.6 Anlage oder System zum Inverkehrbringen von Lebensmitteln
 
         eine Anlage oder ein System zum Inverkehrbringen von Lebensmitteln im
         Sinne des Artikels 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 des
@@ -1925,7 +1944,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 2.  Im Sinne von Anhang 4 ist oder sind
 
-    2.1) Zugangsnetz
+    2.1 Zugangsnetz
 
         eine Anlage, über die der Zugang zu einem Sprachkommunikationsdienst,
         zu einem öffentlich zugänglichen Datenübertragungsdienst oder zu einem
@@ -1933,7 +1952,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Mobilfunkzugangsnetze.
 
 
-    2.2) Übertragungsnetz
+    2.2 Übertragungsnetz
 
         eine Anlage zur Übertragung von Sprache und Daten für
         Sprachkommunikationsdienste und öffentlich zugängliche
@@ -1941,7 +1960,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Backbone- und Core-Netze.
 
 
-    2.3) IXP
+    2.3 Seekabelanlandestation
+
+        eine Anlandestation zur Anbindung primär der Sprach- und
+        Datenübertragung dienender Seekabel an landgestützte
+        Telekommunikationsnetze.
+
+
+    2.4 IXP
 
         eine von den angeschlossenen autonomen Systemen unabhängige
         Netzeinrichtung, die die Zusammenschaltung von mehr als zwei
@@ -1952,7 +1978,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         läuft.
 
 
-    2.4) DNS-Resolver
+    2.5 DNS-Resolver
 
         eine Anlage oder ein System im Zugangsnetz eines Anbieters von
         Internetzugangsdiensten zur Beantwortung von Anfragen zur
@@ -1963,7 +1989,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         angeboten wird.
 
 
-    2.5) Autoritativer DNS-Server
+    2.6 Autoritativer DNS-Server
 
         eine Anlage oder ein System zur Beantwortung von Anfragen zur
         Namensauflösung gemäß Kapitel 5 des RFC 7719, in der oder in dem durch
@@ -1972,23 +1998,22 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         andere Server delegiert werden.
 
 
-    2.6) Top-Level-Domain-Name-Registry
+    2.7 Top-Level-Domain-Name-Registry
 
         eine Anlage, welche die Registrierung von Internet-Domain-Namen
         innerhalb einer spezifischen Top-Level-Domain (TLD) verwaltet und
         betreibt.
 
 
-    2.7) Rechenzentrum (Housing)
+    2.8 Rechenzentrum (Housing)
 
         ein oder mehrere Gebäude, zumindest aber ein geschlossener Raum mit
         dem vorrangigen Zweck, eine geeignete Umgebung für die Unterbringung
-        und den Betrieb von zentralen
-        IT-Komponenten,                          zum Beispiel Server oder
+        und den Betrieb von zentralen IT-Komponenten, zum Beispiel Server oder
         Netzwerktechnik, in mindestens zehn Racks bereitzustellen.
 
 
-    2.8) Serverfarm (Hosting)
+    2.9 Serverfarm (Hosting)
 
         zwei oder mehrere physische oder virtuelle Instanzen, die im IT-
         Netzwerk Dienste bereitstellen. Dabei gelten virtuelle Maschinen, die
@@ -1996,14 +2021,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         betrieben werden, als virtuelle Instanzen.
 
 
-    2.9) Content Delivery Network
+    2.10 Content Delivery Network
 
         ein Netz regional verteilter und über das Internet verbundener Server,
         mit dem Inhalte ausgeliefert und zwischengespeichert werden, um
         insbesondere die Verfügbarkeit und Performanz zu erhöhen.
 
 
-    2.10 ) Anlage zur Erbringung von Vertrauensdiensten
+    2.11 Anlage zur Erbringung von Vertrauensdiensten
 
         eine vertrauenswürdige dritte Instanz (Trusted Third Party), die in
         elektronischen Kommunikationsprozessen die jeweilige Identität des
@@ -2170,6 +2195,15 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     *   100 000
 
 
+*    *   1.2.2
+
+    *   Seekabelanlandestation
+
+    *   Anzahl der angebundenen Seekabel
+
+    *   1
+
+
 *    *   1.3
 
     *   Vermittlung
@@ -2302,13 +2336,13 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 1.  Im Sinne von Anhang 5 ist oder sind
 
-    1.1) Krankenhaus
+    1.1 Krankenhaus
 
         ein zugelassenes Krankenhaus im Sinne des § 108 des Fünften Buches
         Sozialgesetzbuch.
 
 
-    1.2) Produktionsstätte für unmittelbar lebenserhaltende Medizinprodukte,
+    1.2 Produktionsstätte für unmittelbar lebenserhaltende Medizinprodukte,
         die Verbrauchsgüter sind
 
         eine Betriebsstätte, in der Medizinprodukte für
@@ -2317,14 +2351,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         werden.
 
 
-    1.3) Abgabestelle
+    1.3 Abgabestelle
 
         eine Einrichtung, in der Medizinprodukte für Beatmung/Tracheostomie,
         parenterale Ernährung, enterale Ernährung, ableitende Inkontinenz und
         Diabetes – Typ 1 abgegeben werden.
 
 
-    1.4) Produktionsstätte für verschreibungspflichtige Arzneimittel zur
+    1.4 Produktionsstätte für verschreibungspflichtige Arzneimittel zur
         Anwendung im oder am menschlichen Körper
 
         eine Betriebsstätte, die auf der Grundlage einer Herstellungserlaubnis
@@ -2334,7 +2368,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Arzneimittelgesetzes verarbeitet.
 
 
-    1.5) Blut- oder Plasmaspendensteuerungssystem
+    1.5 Blut- oder Plasmaspendensteuerungssystem
 
         ein zentrales IT-System in Blutspendeeinrichtungen oder
         Herstellungseinheiten zur Steuerung und Verwaltung von Entnahme und
@@ -2342,7 +2376,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         am menschlichen Körper.
 
 
-    1.7) Betriebs- und Lagerraum
+    1.7 Betriebs- und Lagerraum
 
         eine Einrichtung zur kurzzeitigen Lagerung von
         verschreibungspflichtigen Arzneimitteln, von Blutspenden und Blut- und
@@ -2352,7 +2386,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         den Wareneingang, die Lagerung und den Warenausgang.
 
 
-    1.8) Anlage oder System zum Vertrieb von verschreibungspflichtigen
+    1.8 Anlage oder System zum Vertrieb von verschreibungspflichtigen
         Arzneimitteln
 
         ein zentrales Logistikmanagementsystem für den Vertrieb und die
@@ -2360,21 +2394,21 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         im oder am menschlichen Körper.
 
 
-    1.9) Apotheke
+    1.9 Apotheke
 
         eine Einrichtung im Sinne des ersten Abschnitts des Apothekengesetzes
         zur Bereitstellung verschreibungspflichtiger Arzneimittel für
         Patienten.
 
 
-    1.10) Labor
+    1.10 Labor
 
         eine Einrichtung, in der medizinische labordiagnostische Verfahren für
         Diagnose und Therapiekontrolle in der Humanmedizin durchgeführt und
         deren Ergebnisse fachärztlich befundet werden.
 
 
-    1.11) Laborinformationsverbund
+    1.11 Laborinformationsverbund
 
         ein Verbund von Anlagen oder Systemen, die IT-Dienstleistungen für
         Diagnose und Therapiekontrolle in der Humanmedizin für mindestens ein
@@ -2647,7 +2681,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 1.  Im Sinne von Anhang 6 ist oder sind
 
-    1.1) Autorisierungssystem
+    1.1 Autorisierungssystem
 
         ein System, mit dem ein angefragter Transaktionsbetrag bei
         Transaktionen aus Geldautomatensystemen oder aus dem kartengestützten
@@ -2655,58 +2689,58 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Institut oder den Zahlungsdienstleister genehmigt oder abgelehnt wird.
 
 
-    1.2) System zur Anbindung an ein Autorisierungssystem aus Sicht des
+    1.2 System zur Anbindung an ein Autorisierungssystem aus Sicht des
         Geldautomatenbetreibers
 
         ein System, das der Anbindung des Geldautomatenbetreibers an ein
         Autorisierungssystem des kontoführenden Instituts dient.
 
 
-    1.3) System zur Aufbereitung durch den Geldautomatenbetreiber
+    1.3 System zur Aufbereitung durch den Geldautomatenbetreiber
 
         ein System eines Geldautomatenbetreibers, welches Nachrichten oder
         Transaktionen aus Geldautomatensystemen verarbeitet, um die
         Transaktion in den Zahlungsverkehr einzubringen.
 
 
-    1.4) System zur Anbindung an ein Interbanken-Zahlungsverkehrssystem
+    1.4 System zur Anbindung an ein Interbanken-Zahlungsverkehrssystem
 
         ein System, das den Zahlungsdienstleister an die Interbanken-
         Zahlungsverkehrssysteme anbindet.
 
 
-    1.5) Clearing-System
+    1.5 Clearing-System
 
         ein System, das im Interbankenverkehr die Transaktionsdaten (Clearing-
         Daten) an das kontoführende Institut weiterleitet.
 
 
-    1.6) Settlement-System
+    1.6 Settlement-System
 
         ein System zur Verrechnung von Beträgen zwischen den partizipierenden
         Instituten.
 
 
-    1.7) Kontoführungssystem
+    1.7 Kontoführungssystem
 
         ein System des Zahlungsdienstleisters des Zahlers oder des
         Zahlungsdienstleisters des Zahlungsempfängers zur elektronischen
         Führung und Verwaltung der Konten.
 
 
-    1.8) Cash Center
+    1.8 Cash Center
 
         Einrichtungen von Wertdienstleistern, in denen Bargeld geprüft,
         gezählt, sortiert, gelagert oder wieder ausgegeben wird.
 
 
-    1.9) IT-System für das Cash Management
+    1.9 IT-System für das Cash Management
 
         ein System des Wertdienstleisters zur Berichterstattung, zur
         Bestellung von Bargeld und zum Cash Management des Wertdienstleisters.
 
 
-    1.10) System zur Anbindung an ein Autorisierungssystem aus Sicht des
+    1.10 System zur Anbindung an ein Autorisierungssystem aus Sicht des
         Terminalbetreibers
 
         ein System, das der Anbindung des Terminalbetreibers (zum Beispiel des
@@ -2714,20 +2748,20 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         zum zuständigen Autorisierungssystem weiterleitet.
 
 
-    1.11) System zur Aufbereitung durch den POS-Terminalbetreiber
+    1.11 System zur Aufbereitung durch den POS-Terminalbetreiber
 
         ein System eines Netzbetreibers oder POS-Terminalbetreibers, welches
         Nachrichten oder Transaktionen von POS-Terminals verarbeitet, um
         Transaktionen in den Zahlungsverkehr einzubringen.
 
 
-    1.12) System zur Annahme der POS-Transaktionsdaten beim
+    1.12 System zur Annahme der POS-Transaktionsdaten beim
         Zahlungsdienstleister des Zahlungsempfängers
 
         ein System, das Transaktionen von einem Acquirer annimmt.
 
 
-    1.13) System zur Annahme einer Überweisung oder Lastschrift
+    1.13 System zur Annahme einer Überweisung oder Lastschrift
 
         ein System, mit dem Überweisungsaufträge oder Aufträge zum Einzug von
         Lastschriften durch den Zahlungsdienstleister des Zahlers oder des
@@ -2738,14 +2772,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         und des Rates vom 25. November 2015 eingereicht werden.
 
 
-    1.14) System einer Clearingstelle oder einer zentralen Gegenpartei zur
+    1.14 System einer Clearingstelle oder einer zentralen Gegenpartei zur
         Verrechnung von Wertpapier- und Derivatgeschäften
 
         ein System der Clearingstelle oder einer zentralen Gegenpartei gemäß §
         1 Absatz 31 des Kreditwesengesetzes.
 
 
-    1.15) System zur Anbindung für die Verrechnung und Verbuchung von
+    1.15 System zur Anbindung für die Verrechnung und Verbuchung von
         Wertpapier- und Derivatgeschäften
 
         ein System, das der Anbindung eines Teilnehmers oder einer
@@ -2754,32 +2788,32 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Verbuchungsstelle dient.
 
 
-    1.16) Wertpapier-Settlement-System
+    1.16 Wertpapier-Settlement-System
 
         ein Wertpapierliefer- und -abrechnungssystem gemäß Artikel 2 Absatz 1
         Nummer 10 der Verordnung (EU) Nr. 909/2014.
 
 
-    1.17) Depotführungssystem eines Finanzmarktinfrastrukturbetreibers
+    1.17 Depotführungssystem eines Finanzmarktinfrastrukturbetreibers
 
         ein System eines Finanzmarktinfrastrukturbetreibers, das zur Prüfung
         des Depotbestands und für Transaktionen von Depots genutzt wird.
 
 
-    1.18) System eines Zentralverwahrers
+    1.18 System eines Zentralverwahrers
 
         ein System eines Zentralverwahrers gemäß Artikel 2 Absatz 1 Nummer 1
         der Verordnung (EU) Nr. 909/2014.
 
 
-    1.19) System zur Aufbereitung von Zahlungsanweisungen
+    1.19 System zur Aufbereitung von Zahlungsanweisungen
 
         ein System eines Finanzmarktbetreibers, welches Wertpapier- oder
         Derivattransaktionen mittelbar oder unmittelbar verarbeitet, um die
         Transaktionen in den Zahlungsverkehr einzubringen.
 
 
-    1.20) System für das Erzeugen und Weiterleiten von Aufträgen zum Handel von
+    1.20 System für das Erzeugen und Weiterleiten von Aufträgen zum Handel von
         Wertpapieren und Derivaten an einen Handelsplatz
 
         ein System, in dem Kundenaufträge zum Handel von Wertpapieren und
@@ -2787,14 +2821,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         weitergeleitet werden.
 
 
-    1.21) System eines Handelsplatzes
+    1.21 System eines Handelsplatzes
 
         System eines Handelsplatzes im Sinne des Artikels 4 Nummer 24 der
         Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom
         15\. Mai 2014.
 
 
-    1.22) Sonstiges Depotführungssystem
+    1.22 Sonstiges Depotführungssystem
 
         ein System, das zur Prüfung des Depotbestands und für Transaktionen
         von Depots genutzt wird und nicht zur unmittelbaren Infrastruktur
@@ -2802,14 +2836,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Finanzmarktinfrastrukturbetreibers gehört.
 
 
-    1.23) Vertragsverwaltungssystem
+    1.23 Vertragsverwaltungssystem
 
         ein System zur Speicherung und Verarbeitung von Informationen zum
         Versicherungsvertragsverhältnis eines Lebensversicherers, einer
         privaten Krankenversicherung oder einer Kompositversicherung.
 
 
-    1.24) Leistungssystem
+    1.24 Leistungssystem
 
         ein System zur Bearbeitung von Leistungen im Bereich
         Lebensversicherung und privater Krankenversicherung oder ein
@@ -2822,13 +2856,13 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         nach dem Zweiten Buch Sozialgesetzbuch.
 
 
-    1.25) Schadensystem (Komposit)
+    1.25 Schadensystem (Komposit)
 
         ein System zur Bearbeitung von Schäden im Bereich der Schaden- und
         Unfallversicherungen.
 
 
-    1.26) Auszahlungssystem
+    1.26 Auszahlungssystem
 
         ein System zur Auszahlung der Entschädigung, Versicherungsleistung
         oder Leistungen der Sozialversicherung oder ein IT-System der
@@ -2837,7 +2871,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         nach dem Zweiten Buch Sozialgesetzbuch an den Zahlungsempfänger.
 
 
-    1.27) Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
+    1.27 Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
         Pflegeversicherung
 
         ein integriertes Anwendungssystem im Bereich der gesetzlichen Kranken-
@@ -3552,28 +3586,28 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 1.  Im Sinne von Anhang 7 ist oder sind
 
-    1.1) Anlage oder System zur Passagierabfertigung an Flugplätzen
+    1.1 Anlage oder System zur Passagierabfertigung an Flugplätzen
 
         eine Anlage oder ein System für die Passagier- oder Gepäckabfertigung
         im Sinne von § 2 Nummer 4 in Verbindung mit Anlage 1 Nummer 2 oder 3
         der Bodenabfertigungsdienst-Verordnung.
 
 
-    1.2) Anlage oder System zur Frachtabfertigung an Flugplätzen
+    1.2 Anlage oder System zur Frachtabfertigung an Flugplätzen
 
         eine Anlage oder ein System zur Abfertigung von Fracht im Luftverkehr
         im Sinne von § 2 Nummer 4 in Verbindung mit Anlage 1 Nummer 4 der
         Bodenabfertigungsdienst-Verordnung.
 
 
-    1.3) Infrastrukturbetrieb eines Flugplatzes
+    1.3 Infrastrukturbetrieb eines Flugplatzes
 
         die Gesamtheit aller Anlagen oder Systeme zur Erbringung von sonstigen
         Bodenabfertigungsdiensten nach § 2 Nummer 4 in Verbindung mit Anlage 1
         Nummer 5, 7, 9 oder 10 der Bodenabfertigungsdienst-Verordnung.
 
 
-    1.4) Anlage zur Erbringung von Flugsicherungsdiensten
+    1.4 Anlage zur Erbringung von Flugsicherungsdiensten
 
         eine Anlage oder ein System der Flugsicherungsdienste nach der
         Durchführungsverordnung (EU) 2017/373 der Kommission vom 1. März 2017
@@ -3588,14 +3622,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         3\.4.2020, S. 1) geändert worden ist.
 
 
-    1.5) Verkehrszentrale einer Fluggesellschaft
+    1.5 Verkehrszentrale einer Fluggesellschaft
 
         eine Anlage oder ein System einer Fluggesellschaft zur Planung,
         Steuerung oder Überwachung des Flugbetriebs, zur Disposition von
         Personal oder zur Disposition des Wartungsbetriebs.
 
 
-    1.6) Flughafenleitungsorgan
+    1.6 Flughafenleitungsorgan
 
         eine Anlage oder ein System zur Verwaltung oder zum Betrieb der
         Einrichtungen eines Flughafens oder Flughafennetzes oder zur
@@ -3603,38 +3637,38 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Akteure auf einem Flughafen oder in einem Flughafennetz.
 
 
-    1.7) Personenbahnhof der Eisenbahn
+    1.7 Personenbahnhof der Eisenbahn
 
         ein Bahnhof zur Abwicklung des Reiseverkehrs gemäß § 4 Absatz 1 und 2
         der Eisenbahn-Bau- und Betriebsordnung.
 
 
-    1.8) Güterbahnhof
+    1.8 Güterbahnhof
 
         ein Bahnhof zur Abwicklung des Güterverkehrs gemäß § 4 Absatz 1 und 2
         der Eisenbahn-Bau- und Betriebsordnung.
 
 
-    1.9) Zugbildungsbahnhof
+    1.9 Zugbildungsbahnhof
 
         ein Bahnhof zur Bildung von Zügen (Einzelwagen, Ganzzüge sowie
         kombinierter Verkehr).
 
 
-    1.10) Schienennetz und Stellwerke der Eisenbahn
+    1.10 Schienennetz und Stellwerke der Eisenbahn
 
         ein Schienennetz gemäß § 4 Absatz 3 bis 7 und 10 bis 11 der Eisenbahn-
         Bau- und Betriebsordnung einschließlich der zugehörigen Stellwerke.
 
 
-    1.11) Verkehrssteuerungs- und Leitsystem der Eisenbahn
+    1.11 Verkehrssteuerungs- und Leitsystem der Eisenbahn
 
         die zentrale Einrichtung des Eisenbahninfrastrukturbetreibers, die den
         Zugbetrieb vorausschauend und bei unerwartet eintretenden Ereignissen
         disponiert.
 
 
-    1.12) Leitzentrale der Eisenbahn
+    1.12 Leitzentrale der Eisenbahn
 
         eine regionale oder überregionale zentrale Einrichtung des
         Eisenbahnverkehrsunternehmens zur Überwachung des betrieblichen Ist-
@@ -3643,32 +3677,32 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Personals oder der Instandhaltung der Fahrzeuge.
 
 
-    1.13) Anlage oder System zum Betrieb von Bundeswasserstraßen
+    1.13 Anlage oder System zum Betrieb von Bundeswasserstraßen
 
         eine Anlage oder ein System zum sicheren Betrieb einer Wasserstraße
         nach § 1 Absatz 4 Nummer 1 des Bundeswasserstraßengesetzes.
 
 
-    1.14) Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt
+    1.14 Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt
 
         Revier- und Verkehrszentralen der Wasserstraßen- und
         Schifffahrtsverwaltung des Bundes.
 
 
-    1.15) Leitzentrale von Betreibern und Verkehrsunternehmen der Seeschifffahrt
+    1.15 Leitzentrale von Betreibern und Verkehrsunternehmen der Seeschifffahrt
 
         eine Anlage oder ein System zur operativen Steuerung oder zur
         Disposition des Schiffsraums von Seeschiffen.
 
 
-    1.16) Leitzentrale von Betreibern und Verkehrsunternehmen der
+    1.16 Leitzentrale von Betreibern und Verkehrsunternehmen der
         Binnenschifffahrt (nur Güterverkehr)
 
         eine Anlage oder ein System zur operativen Steuerung oder zur
         Disposition des Schiffsraums der Binnenschifffahrtsflotte.
 
 
-    1.17) Umschlaganlage in See- und Binnenhäfen
+    1.17 Umschlaganlage in See- und Binnenhäfen
 
         eine Umschlaganlage in einem See- oder Binnenhafen, in der Container
         oder lose, unverpackte Güter zwischen Verkehrsträgern (auch den
@@ -3676,14 +3710,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         zwischenabgestellt werden.
 
 
-    1.18) Hafenleitungsorgan (nur Güterverkehr)
+    1.18 Hafenleitungsorgan (nur Güterverkehr)
 
         eine Anlage oder ein System zur Koordinierung des Hafenverkehrs, zur
         Verwaltung des Hafenverkehrs oder zur Koordinierung oder zur
         Überwachung der Tätigkeiten der Akteure in dem betreffenden Hafen.
 
 
-    1.19) Hafeninformationssystem
+    1.19 Hafeninformationssystem
 
         eine Anlage oder ein System einer übergreifenden IT-Plattform, welches
         als Port Community System (PCS), Cargo Community System (CCS) oder
@@ -3697,7 +3731,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         geändert worden ist, dient.
 
 
-    1.20) Verkehrssteuerungs- und Leitsystem
+    1.20 Verkehrssteuerungs- und Leitsystem
 
         eine Anlage oder ein System zur Verkehrsbeeinflussung im
         Straßenverkehr einschließlich der in § 1 Absatz 4 Nummer 1, 3 und 4
@@ -3708,20 +3742,20 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Bundesautobahnen.
 
 
-    1.21) Verkehrssteuerungs- und Leitsystem im kommunalen Straßenverkehr
+    1.21 Verkehrssteuerungs- und Leitsystem im kommunalen Straßenverkehr
 
         ein System für die kommunale Steuerung und Überwachung von
         Lichtsignalanlagen, von Verkehrsbeeinflussungsanlagen sowie von
         Verkehrswarn- und Informationssystemen.
 
 
-    1.22) Intelligentes Verkehrssystem
+    1.22 Intelligentes Verkehrssystem
 
         ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des
         Intelligente Verkehrssysteme Gesetz.
 
 
-    1.23) Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs
+    1.23 Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs
         (ÖSPV)
 
         das schienengebundene Netz des ÖSPV im Sinne des § 4 Absatz 1 bis 3
@@ -3730,7 +3764,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         der Fahrstromversorgung.
 
 
-    1.24) Leitzentrale des ÖSPV
+    1.24 Leitzentrale des ÖSPV
 
         eine Anlage oder ein System zur betreiberseitigen Überwachung und
         Steuerung des Verkehrs einschließlich Systeme für die
@@ -3744,7 +3778,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Notfall kritisch sind, insbesondere in unterirdischen Verkehrsanlagen.
 
 
-    1.25) Anlage oder System zur Erbringung operativer Logistikleistungen
+    1.25 Anlage oder System zur Erbringung operativer Logistikleistungen
 
         eine Anlage oder ein System zur Bereitstellung, Verteilung, Lagerung,
         Bearbeitung oder zum Transport oder Umschlag von Gütern in den
@@ -3752,14 +3786,14 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         See- und Luftfracht.
 
 
-    1.26) IT-System zur Logistiksteuerung oder -verwaltung
+    1.26 IT-System zur Logistiksteuerung oder -verwaltung
 
         ein betreiberseitiges, zentrales IT-System zur Gesamtkoordinierung und
         -steuerung von Logistikdienstleistungen in den Segmenten Massengut,
         Ladungsverkehr, Stückgut, Kontraktlogistik sowie See- und Luftfracht.
 
 
-    1.27) Anlage zur Wettervorhersage, zur Gezeitenvorhersage oder zur
+    1.27 Anlage zur Wettervorhersage, zur Gezeitenvorhersage oder zur
         Wasserstandsmeldung
 
         eine Anlage oder ein System zur Erbringung von Wettervorhersagen,
@@ -3767,7 +3801,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Messung von Gezeiten- und Wasserstand (Pegelstation).
 
 
-    1.28) Bodenstation eines europäischen Satellitennavigationssystems
+    1.28 Bodenstation eines europäischen Satellitennavigationssystems
 
         eine Bodenstation im Sinne des Artikels 28 der Verordnung (EU) Nr.
         1285/2013 des Europäischen Parlaments und des Rates vom 11. Dezember

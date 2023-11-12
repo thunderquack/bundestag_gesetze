@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1990, 1163
 
 Neugefasst durch
-:   Bek. v. 11.9.2012 I 2022
+:   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 32 G v. 5.10.2021 I 4607
+:   Art. 1 G v. 21.12.2022 I 2824; 2023 I Nr. 19
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -129,15 +129,15 @@ junger Menschen und Familien.
 
 9.  die Beratung und Unterstützung von Müttern bei
     Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen
-    sowie von Pflegern und Vormündern (§§ 52a, 53),
+    sowie von Pflegern und Vormündern (§§ 52a, 53a),
 
 
-10. die Erteilung, der Widerruf und die Zurücknahme der Erlaubnis zur
-    Übernahme von Vereinsvormundschaften (§ 54),
+10. die Erteilung, der Widerruf und die Zurücknahme der Anerkennung als
+    Vormundschaftsverein (§ 54),
 
 
-11. Beistandschaft, Amtspflegschaft, Amtsvormundschaft und
-    Gegenvormundschaft des Jugendamts (§§ 55 bis 58),
+11. Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts (§§ 55
+    bis 57),
 
 
 12. Beurkundung (§ 59),
@@ -508,8 +508,8 @@ berücksichtigen.
 
 (3) Die Leistungen nach diesem Buch gehen Leistungen nach dem Zweiten
 Buch vor. Abweichend von Satz 1 gehen Leistungen nach § 3 Absatz 2,
-den §§ 14 bis 16g, § 19 Absatz 2 in Verbindung mit § 28 Absatz 6 des
-Zweiten Buches sowie Leistungen nach § 6b Absatz 2 des
+den §§ 14 bis 16g, 16k, § 19 Absatz 2 in Verbindung mit § 28 Absatz 6
+des Zweiten Buches sowie Leistungen nach § 6b Absatz 2 des
 Bundeskindergeldgesetzes in Verbindung mit § 28 Absatz 6 des Zweiten
 Buches den Leistungen nach diesem Buch vor.
 
@@ -1139,8 +1139,11 @@ beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.
 (6) Weitergehendes Landesrecht bleibt unberührt.
 
 
-#### § 24a (weggefallen)
+#### § 24a Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder
 
+Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht
+über den Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote
+für Grundschulkinder vorzulegen.
 
 
 #### § 25 Unterstützung selbst organisierter Förderung von Kindern
@@ -1677,11 +1680,12 @@ nach Maßgabe der Hilfeplanung zur Erreichung des Hilfezieles im
 Einzelfall erforderlich ist und die aufenthaltsrechtlichen
 Vorschriften des aufnehmenden Staates sowie
 
-1.  im Anwendungsbereich der Verordnung (EG) Nr. 2201/2003 des Rates vom
-    27\. November 2003 über die Zuständigkeit und die Anerkennung und
-    Vollstreckung von Entscheidungen in Ehesachen und in Verfahren
-    betreffend die elterliche Verantwortung und zur Aufhebung der
-    Verordnung (EG) Nr. 1347/2000 die Voraussetzungen des Artikels 56 oder
+1.  im Anwendungsbereich der Verordnung (EU) 2019/1111 des Rates vom 25.
+    Juni 2019 über die Zuständigkeit, die Anerkennung und Vollstreckung
+    von Entscheidungen in Ehesachen und in Verfahren betreffend die
+    elterliche Verantwortung und über internationale Kindesentführungen
+    (ABl. L 178 vom 2.7.2019, S. 1) die Voraussetzungen des Artikels 82
+    oder
 
 
 2.  im Anwendungsbereich des Haager Übereinkommens vom 19. Oktober 1996
@@ -1774,11 +1778,8 @@ zu melden sowie
 4.  einen Nachweis zur Erfüllung der aufenthaltsrechtlichen Vorschriften
     des aufnehmenden Staates und im Anwendungsbereich
 
-    a)  der Verordnung (EG) Nr. 2201/2003 des Rates vom 27. November 2003 über
-        die Zuständigkeit und die Anerkennung und Vollstreckung von
-        Entscheidungen in Ehesachen und in Verfahren betreffend die elterliche
-        Verantwortung und zur Aufhebung der Verordnung (EG) Nr. 1347/2000 zur
-        Erfüllung der Maßgaben des Artikels 56,
+    a)  der Verordnung (EU) 2019/1111 zur Erfüllung der Maßgaben des Artikels
+        82,
 
 
     b)  des Haager Übereinkommens vom 19. Oktober 1996 über die Zuständigkeit,
@@ -2758,7 +2759,7 @@ freiwilligen Gerichtsbarkeit angehört wird, teilt
 
 
 
-dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt zu den in § 58a
+dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt zu den in § 58
 genannten Zwecken unverzüglich mit. Mitzuteilen sind auch das
 Geburtsdatum und der Geburtsort des Kindes oder des Jugendlichen sowie
 der Name, den das Kind oder der Jugendliche zur Zeit der Beurkundung
@@ -2876,109 +2877,144 @@ Jugendamt Mitteilung zu machen. Absatz 1 gilt entsprechend.
 miteinander verheiratet sind, unverzüglich dem Jugendamt anzuzeigen.
 
 
-#### § 53 Beratung und Unterstützung von Pflegern und Vormündern
+#### § 53 Mitwirkung bei der Auswahl von Vormündern und Pflegern durch das Familiengericht
 
-(1) Das Jugendamt hat dem Familiengericht Personen und Vereine
-vorzuschlagen, die sich im Einzelfall zum Pfleger oder Vormund eignen.
+(1) Das Jugendamt hat dem Familiengericht Personen vorzuschlagen, die
+sich im Einzelfall zur Bestellung als Vormund eignen.
 
-(2) Pfleger und Vormünder haben Anspruch auf regelmäßige und dem
-jeweiligen erzieherischen Bedarf des Mündels entsprechende Beratung
-und Unterstützung.
+(2) Das Jugendamt hat seinen Vorschlag zu begründen. Es hat dem
+Familiengericht darzulegen,
 
-(3) Das Jugendamt hat darauf zu achten, dass die Vormünder und Pfleger
-für die Person der Mündel, insbesondere ihre Erziehung und Pflege,
-Sorge tragen. Es hat beratend darauf hinzuwirken, dass festgestellte
-Mängel im Einvernehmen mit dem Vormund oder dem Pfleger behoben
-werden. Soweit eine Behebung der Mängel nicht erfolgt, hat es dies dem
-Familiengericht mitzuteilen. Es hat dem Familiengericht über das
-persönliche Ergehen und die Entwicklung eines Mündels Auskunft zu
-erteilen. Erlangt das Jugendamt Kenntnis von der Gefährdung des
-Vermögens eines Mündels, so hat es dies dem Familiengericht
-anzuzeigen.
-
-(4) Für die Gegenvormundschaft gelten die Absätze 1 und 2
-entsprechend. Ist ein Verein Vormund, so findet Absatz 3 keine
-Anwendung.
+1.  welche Maßnahmen es zur Ermittlung des für den Mündel am besten
+    geeigneten Vormunds unternommen hat und
 
 
-#### § 54 Erlaubnis zur Übernahme von Vereinsvormundschaften
-
-(1) Ein rechtsfähiger Verein kann Pflegschaften oder Vormundschaften
-übernehmen, wenn ihm das Landesjugendamt dazu eine Erlaubnis erteilt
-hat. Er kann eine Beistandschaft übernehmen, soweit Landesrecht dies
-vorsieht.
-
-(2) Die Erlaubnis ist zu erteilen, wenn der Verein gewährleistet, dass
-er
-
-1.  eine ausreichende Zahl geeigneter Mitarbeiter hat und diese
-    beaufsichtigen, weiterbilden und gegen Schäden, die diese anderen im
-    Rahmen ihrer Tätigkeit zufügen können, angemessen versichern wird,
-
-
-2.  sich planmäßig um die Gewinnung von Einzelvormündern und
-    Einzelpflegern bemüht und sie in ihre Aufgaben einführt, fortbildet
-    und berät,
-
-
-3.  einen Erfahrungsaustausch zwischen den Mitarbeitern ermöglicht.
+2.  wenn es einen Vormund gemäß § 1774 Absatz 1 Nummer 2 bis 4 des
+    Bürgerlichen Gesetzbuchs vorschlägt, dass eine Person, die geeignet
+    und bereit ist, die Vormundschaft ehrenamtlich zu führen, nicht
+    gefunden werden konnte.
 
 
 
 
-(3) Die Erlaubnis gilt für das jeweilige Bundesland, in dem der Verein
-seinen Sitz hat. Sie kann auf den Bereich eines Landesjugendamts
-beschränkt werden.
+(3) Für die Pflegschaft für Minderjährige gelten die Absätze 1 und 2
+entsprechend.
+
+
+#### § 53a Beratung und Unterstützung von Vormündern und Pflegern
+
+(1) Vormünder haben Anspruch auf regelmäßige und dem jeweiligen
+erzieherischen Bedarf des Mündels entsprechende Beratung und
+Unterstützung durch das Jugendamt.
+
+(2) Das Jugendamt hat darauf zu achten, dass die Vormünder für die
+Person der Mündel, insbesondere ihre Erziehung und Pflege, Sorge
+tragen. Es hat beratend darauf hinzuwirken, dass festgestellte Mängel
+im Einvernehmen mit dem Vormund behoben werden.
+
+(3) Ist ein Vormundschaftsverein als vorläufiger Vormund oder ein
+Vereinsvormund als Vormund bestellt, so ist Absatz 2 nicht anzuwenden.
+
+(4) Für die Pflegschaft für Minderjährige gelten die Absätze 1 bis 3
+entsprechend.
+
+
+#### § 54 Anerkennung als Vormundschaftsverein
+
+(1) Ein rechtsfähiger Verein kann von dem überörtlichen Träger der
+Jugendhilfe als Vormundschaftsverein anerkannt werden, wenn er
+gewährleistet, dass
+
+1.  er eine ausreichende Zahl von als Pfleger oder Vormund geeigneten
+    Mitarbeitern hat und diese beaufsichtigen, weiterbilden und gegen
+    Schäden, die diese anderen im Rahmen ihrer Tätigkeit zufügen können,
+    angemessen versichern wird,
+
+
+2.  die als Vereinspfleger oder Vereinsvormund bestellten Mitarbeiter
+    höchstens 50 und bei gleichzeitiger Wahrnehmung anderer Aufgaben
+    entsprechend weniger Pflegschaften oder Vormundschaften führen,
+
+
+3.  er sich planmäßig um die Gewinnung von ehrenamtlichen Pflegern und
+    Vormündern bemüht und sie in ihre Aufgaben einführt, fortbildet und
+    berät,
+
+
+4.  er einen Erfahrungsaustausch zwischen den Mitarbeitern ermöglicht.
+
+
+
+
+(2) Die Anerkennung gilt für das jeweilige Land, in dem der Verein
+seinen Sitz hat. Sie kann auf den Bereich eines überörtlichen Trägers
+der Jugendhilfe beschränkt werden.
+
+(3) Der nach Absatz 1 anerkannte Vormundschaftsverein kann eine
+Beistandschaft übernehmen, soweit Landesrecht dies vorsieht.
 
 (4) Das Nähere regelt das Landesrecht. Es kann auch weitere
-Voraussetzungen für die Erteilung der Erlaubnis vorsehen.
+Voraussetzungen für die Erteilung der Anerkennung vorsehen.
+
+(5) Eine bei Ablauf des 31. Dezember 2022 erteilte Erlaubnis zur
+Übernahme von Vereinsvormundschaften gilt als Anerkennung als
+Vormundschaftsverein fort.
 
 
-#### § 55 Beistandschaft, Amtspflegschaft und Amtsvormundschaft
+#### § 55 Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts
 
 (1) Das Jugendamt wird Beistand, Pfleger oder Vormund in den durch das
 Bürgerliche Gesetzbuch vorgesehenen Fällen (Beistandschaft,
-Amtspflegschaft, Amtsvormundschaft).
+Amtspflegschaft, vorläufige Amtspflegschaft, Amtsvormundschaft,
+vorläufige Amtsvormundschaft).
 
 (2) Das Jugendamt überträgt die Ausübung der Aufgaben des Beistands,
-des Amtspflegers oder des Amtsvormunds einzelnen seiner Beamten oder
-Angestellten. Vor der Übertragung der Aufgaben des Amtspflegers oder
-des Amtsvormunds soll das Jugendamt das Kind oder den Jugendlichen zur
-Auswahl des Beamten oder Angestellten mündlich anhören, soweit dies
-nach Alter und Entwicklungsstand des Kindes oder Jugendlichen möglich
-ist. Eine ausnahmsweise vor der Übertragung unterbliebene Anhörung ist
-unverzüglich nachzuholen. Ein vollzeitbeschäftigter Beamter oder
-Angestellter, der nur mit der Führung von Vormundschaften oder
-Pflegschaften betraut ist, soll höchstens 50 und bei gleichzeitiger
-Wahrnehmung anderer Aufgaben entsprechend weniger Vormundschaften oder
-Pflegschaften führen.
+des Pflegers oder des Vormunds einzelnen seiner Bediensteten. Bei der
+Übertragung sind die Grundsätze für die Auswahl durch das
+Familiengericht zu beachten. Vor der Übertragung der Aufgaben des
+Pflegers oder des Vormunds hat das Jugendamt das Kind oder den
+Jugendlichen zur Auswahl des Bediensteten mündlich anzuhören, soweit
+dies nach Alter und Entwicklungsstand des Kindes oder Jugendlichen
+möglich ist. Eine ausnahmsweise vor der Übertragung unterbliebene
+Anhörung ist unverzüglich nachzuholen. Wird das Jugendamt als
+vorläufiger Pfleger oder vorläufiger Vormund bestellt, so sind die
+Sätze 2 bis 4 nicht anzuwenden; § 1784 des Bürgerlichen Gesetzbuchs
+gilt entsprechend.
 
-(3) Die Übertragung gehört zu den Angelegenheiten der laufenden
+(3) Ein vollzeitbeschäftigter Bediensteter, der nur mit der Führung
+von Pflegschaften oder Vormundschaften betraut ist, soll höchstens 50
+und bei gleichzeitiger Wahrnehmung anderer Aufgaben entsprechend
+weniger Pflegschaften oder Vormundschaften führen.
+
+(4) Die Übertragung gehört zu den Angelegenheiten der laufenden
 Verwaltung. In dem durch die Übertragung umschriebenen Rahmen ist der
-Beamte oder Angestellte gesetzlicher Vertreter des Kindes oder
-Jugendlichen. Amtspfleger und Amtsvormund haben den persönlichen
-Kontakt zu diesem zu halten sowie dessen Pflege und Erziehung nach
-Maßgabe des § 1793 Absatz 1a und § 1800 des Bürgerlichen Gesetzbuchs
-persönlich zu fördern und zu gewährleisten.
+Bedienstete gesetzlicher Vertreter des Kindes oder Jugendlichen. Er
+hat den persönlichen Kontakt zu diesem nach Maßgabe des § 1790 Absatz
+3 des Bürgerlichen Gesetzbuchs zu halten sowie dessen Pflege und
+Erziehung nach Maßgabe des § 1790 Absatz 1 und 2 und des § 1795 Absatz
+1 des Bürgerlichen Gesetzbuchs persönlich zu fördern und zu
+gewährleisten.
+
+(5) Die Aufgaben der Pflegschaft und Vormundschaft sind funktionell,
+organisatorisch und personell von den übrigen Aufgaben des Jugendamts
+zu trennen.
 
 
-#### § 56 Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft
+#### § 56 Führung der Beistandschaft, der Pflegschaft und der Vormundschaft durch das Jugendamt
 
-(1) Auf die Führung der Beistandschaft, der Amtspflegschaft und der
-Amtsvormundschaft sind die Bestimmungen des Bürgerlichen Gesetzbuchs
-anzuwenden, soweit dieses Gesetz nicht etwas anderes bestimmt.
+(1) Auf die Führung der Beistandschaft, der Pflegschaft und der
+Vormundschaft durch das Jugendamt sind die Bestimmungen des
+Bürgerlichen Gesetzbuchs anzuwenden, soweit dieses Gesetz nicht etwas
+anderes bestimmt.
 
-(2) Gegenüber dem Jugendamt als Amtsvormund und Amtspfleger werden die
-Vorschriften des § 1802 Absatz 3 und des § 1818 des Bürgerlichen
-Gesetzbuchs nicht angewandt. In den Fällen des § 1803 Absatz 2, des §
-1811 und des § 1822 Nummer 6 und 7 des Bürgerlichen Gesetzbuchs ist
-eine Genehmigung des Familiengerichts nicht erforderlich. Landesrecht
-kann für das Jugendamt als Amtspfleger oder als Amtsvormund
-weitergehende Ausnahmen von der Anwendung der Bestimmungen des
-Bürgerlichen Gesetzbuchs über die Vormundschaft über Minderjährige (§§
-1773 bis 1895) vorsehen, die die Aufsicht des Familiengerichts in
-vermögensrechtlicher Hinsicht sowie beim Abschluss von Lehr- und
-Arbeitsverträgen betreffen.
+(2) Gegenüber dem Jugendamt als Pfleger oder Vormund werden § 1835
+Absatz 5 und § 1844 jeweils in Verbindung mit § 1798 Absatz 2 des
+Bürgerlichen Gesetzbuchs nicht angewandt. In den Fällen des § 1848 in
+Verbindung mit § 1799 Absatz 1 und des § 1795 Absatz 2 Nummer 1 und 2
+des Bürgerlichen Gesetzbuchs ist eine Genehmigung des Familiengerichts
+nicht erforderlich. Landesrecht kann für das Jugendamt als Pfleger
+oder Vormund weitergehende Ausnahmen nach § 1862 Absatz 4 in
+Verbindung mit § 1802 Absatz 2 des Bürgerlichen Gesetzbuchs vorsehen.
 
 (3) Mündelgeld kann mit Genehmigung des Familiengerichts auf
 Sammelkonten des Jugendamts bereitgehalten und angelegt werden, wenn
@@ -2986,28 +3022,54 @@ es den Interessen des Mündels dient und sofern die sichere Verwaltung,
 Trennbarkeit und Rechnungslegung des Geldes einschließlich der Zinsen
 jederzeit gewährleistet ist; Landesrecht kann bestimmen, dass eine
 Genehmigung des Familiengerichts nicht erforderlich ist. Die Anlegung
-von Mündelgeld gemäß § 1807 des Bürgerlichen Gesetzbuchs ist auch bei
-der Körperschaft zulässig, die das Jugendamt errichtet hat.
-
-(4) Das Jugendamt hat in der Regel jährlich zu prüfen, ob im Interesse
-des Kindes oder des Jugendlichen seine Entlassung als Amtspfleger oder
-Amtsvormund und die Bestellung einer Einzelperson oder eines Vereins
-angezeigt ist, und dies dem Familiengericht mitzuteilen.
+von Mündelgeld ist auch bei der Körperschaft zulässig, die das
+Jugendamt errichtet hat.
 
 
-#### § 57 Mitteilungspflicht des Jugendamts
+#### § 57 Mitteilungspflichten des Jugendamts
 
-Das Jugendamt hat dem Familiengericht unverzüglich den Eintritt einer
+(1) Das Jugendamt hat dem Familiengericht unverzüglich den Eintritt
+einer Vormundschaft sowie den Wegfall der Voraussetzungen der
 Vormundschaft mitzuteilen.
 
+(2) Das Jugendamt hat dem Familiengericht vor seiner Bestellung zum
+Vormund mitzuteilen, welchem seiner Bediensteten es die Aufgaben der
+Amtsvormundschaft übertragen wird. Wird das Jugendamt zum vorläufigen
+Vormund bestellt, so hat es dem Familiengericht alsbald, spätestens
+binnen zwei Wochen nach seiner Bestellung mitzuteilen, welchem
+Bediensteten die Aufgaben des vorläufigen Vormunds übertragen worden
+sind.
 
-#### § 58 Gegenvormundschaft des Jugendamts
+(3) Das Jugendamt hat dem Familiengericht über das persönliche Ergehen
+und die Entwicklung eines Mündels Auskunft zu erteilen. Soweit eine
+Behebung der Mängel in der Personensorge trotz Beratung und
+Unterstützung nach § 53a Absatz 2 nicht erfolgt, hat es dies dem
+Familiengericht mitzuteilen. Erlangt das Jugendamt Kenntnis von der
+Gefährdung des Vermögens eines Mündels, so hat es dies dem
+Familiengericht mitzuteilen. Ist ein Vormundschaftsverein als
+vorläufiger Vormund oder ein Vereinsvormund als Vormund bestellt, so
+sind die Sätze 1 bis 3 nicht anzuwenden.
 
-Für die Tätigkeit des Jugendamts als Gegenvormund gelten die §§ 55 und
-56 entsprechend.
+(4) Das Jugendamt hat in der Regel jährlich zu prüfen, ob im Interesse
+des Kindes oder des Jugendlichen seine Entlassung als Vormund und die
+Bestellung einer natürlichen Person, die die Vormundschaft
+ehrenamtlich führt, angezeigt ist, und dies dem Familiengericht
+mitzuteilen. Dasselbe gilt, wenn dem Jugendamt sonst Umstände bekannt
+werden, aus denen sich ergibt, dass die Vormundschaft nunmehr
+ehrenamtlich geführt werden kann.
+
+(5) Das Jugendamt des bisherigen gewöhnlichen Aufenthalts des Mündels
+hat dem Jugendamt des neuen gewöhnlichen Aufenthalts eine Verlegung
+des gewöhnlichen Aufenthalts des Mündels in den Bezirk eines anderen
+Jugendamts mitzuteilen. Ist ein Vormundschaftsverein als vorläufiger
+Vormund oder ein Vereinsvormund als Vormund bestellt, so ist Satz 1
+nicht anzuwenden.
+
+(6) Für die Pflegschaft für Minderjährige gelten die Absätze 1 bis 5
+entsprechend.
 
 
-#### § 58a Auskunft über Alleinsorge aus dem Sorgeregister
+#### § 58 Auskunft über Alleinsorge aus dem Sorgeregister
 
 (1) Zum Zwecke der Erteilung der schriftlichen Auskunft nach Absatz 2
 wird für Kinder nicht miteinander verheirateter Eltern bei dem nach §
@@ -3164,8 +3226,8 @@ diesem Buch durch kreisangehörige Gemeinden und Gemeindeverbände, die
 nicht örtliche Träger sind, gelten die Sätze 1 und 2 entsprechend.
 
 (2) Für den Schutz von Sozialdaten bei ihrer Verarbeitung im Rahmen
-der Tätigkeit des Jugendamts als Amtspfleger, Amtsvormund, Beistand
-und Gegenvormund gilt nur § 68.
+der Tätigkeit des Jugendamts als Amtspfleger, Amtsvormund und Beistand
+gilt nur § 68.
 
 (3) Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe
 in Anspruch genommen, so ist sicherzustellen, dass der Schutz der
@@ -3388,8 +3450,7 @@ Satz 1 ausgeschlossen ist.
 dürfen diese nur zu dem Zweck speichern und nutzen, zu dem sie ihnen
 nach Absatz 1 befugt übermittelt worden sind.
 
-(5) Für die Tätigkeit des Jugendamts als Gegenvormund gelten die
-Absätze 1 bis 4 entsprechend.
+(5) (weggefallen)
 
 
 ## Fünftes Kapitel - Träger der Jugendhilfe, Zusammenarbeit, Gesamtverantwortung
@@ -3536,9 +3597,10 @@ Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen
 lassen.
 
 (2) Die Träger der öffentlichen Jugendhilfe sollen durch
-Vereinbarungen mit den Trägern der freien Jugendhilfe sicherstellen,
-dass diese keine Person, die wegen einer Straftat nach Absatz 1 Satz 1
-rechtskräftig verurteilt worden ist, beschäftigen.
+Vereinbarungen mit den Trägern der freien Jugendhilfe sowie mit
+Vereinen im Sinne des § 54 sicherstellen, dass diese keine Person, die
+wegen einer Straftat nach Absatz 1 Satz 1 rechtskräftig verurteilt
+worden ist, hauptamtlich beschäftigen.
 
 (3) Die Träger der öffentlichen Jugendhilfe sollen sicherstellen, dass
 unter ihrer Verantwortung keine neben- oder ehrenamtlich tätige
@@ -3578,20 +3640,28 @@ erheben und speichern:
 
 
 3.  die Information, ob die das Führungszeugnis betreffende Person wegen
-    einer in Absatz 1 Satz 1 genannten Straftat rechtskräftig verurteilt
-    worden ist.
+    einer der folgenden Straftaten rechtskräftig verurteilt worden ist:
+
+    a)  wegen einer in Absatz 1 Satz 1 genannten Straftat oder
+
+
+    b)  wegen einer nicht in Absatz 1 Satz 1 genannten Straftat, die die
+        Person als ungeeignet im Umgang mit Kindern und Jugendlichen
+        erscheinen lässt.
+
+
+
 
 
 
 Die Träger der öffentlichen und freien Jugendhilfe dürfen die
 gespeicherten Daten nur verarbeiten, soweit dies erforderlich ist, um
-die Eignung einer Person für die Tätigkeit, die Anlass zu der
+die Eignung einer Person für diejenige Tätigkeit, die Anlass zu der
 Einsichtnahme in das Führungszeugnis gewesen ist, zu prüfen. Die Daten
 sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu
-löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit nach
-Absatz 3 Satz 2 oder Absatz 4 Satz 2 wahrgenommen wird. Andernfalls
-sind die Daten spätestens sechs Monate nach Beendigung einer solchen
-Tätigkeit zu löschen.
+löschen, wenn die Person eine Tätigkeit nach Absatz 3 Satz 2 oder
+Absatz 4 Satz 2 nicht ausübt. Die Daten sind spätestens sechs Monate
+nach der letztmaligen Ausübung einer solchen Tätigkeit zu löschen.
 
 
 ### Zweiter Abschnitt - Zusammenarbeit mit der freien Jugendhilfe, ehrenamtliche Tätigkeit
@@ -3713,8 +3783,8 @@ Wohlfahrtspflege sind anerkannte Träger der freien Jugendhilfe.
 
 (1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger
 der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§
-42, 42a, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen
-diese Aufgaben zur Ausführung übertragen.
+42, 42a, 43, 50 bis 52a und 53a beteiligen oder ihnen diese Aufgaben
+zur Ausführung übertragen.
 
 (2) Die Träger der öffentlichen Jugendhilfe bleiben für die Erfüllung
 der Aufgaben verantwortlich.
@@ -4317,8 +4387,7 @@ soweit nicht der überörtliche Träger sachlich zuständig ist.
     gewährten Leistung handelt,
 
 
-10. die Erteilung der Erlaubnis zur Übernahme von Pflegschaften oder
-    Vormundschaften durch einen rechtsfähigen Verein (§ 54).
+10. die Anerkennung als Vormundschaftsverein (§ 54).
 
 
 
@@ -4569,10 +4638,10 @@ Entlassungszeitpunkt.
 zuständige örtliche Träger nicht tätig, so gilt § 86d entsprechend.
 
 
-##### § 87c Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die schriftliche Auskunft nach § 58a
+##### § 87c Örtliche Zuständigkeit für die Beistandschaft, die Pflegschaft, die Vormundschaft und die schriftliche Auskunft nach § 58
 
-(1) Für die Vormundschaft nach § 1791c des Bürgerlichen Gesetzbuchs
-ist das Jugendamt zuständig, in dessen Bereich die Mutter ihren
+(1) Für die Vormundschaft nach § 1786 des Bürgerlichen Gesetzbuchs ist
+das Jugendamt zuständig, in dessen Bereich die Mutter ihren
 gewöhnlichen Aufenthalt hat. Wurde die Vaterschaft nach § 1592 Nummer
 1 oder 2 des Bürgerlichen Gesetzbuchs durch Anfechtung beseitigt, so
 ist der gewöhnliche Aufenthalt der Mutter zu dem Zeitpunkt maßgeblich,
@@ -4592,16 +4661,19 @@ Vormundschaft geht mit der Erklärung des anderen Jugendamts auf dieses
 jedem Elternteil unverzüglich mitzuteilen. Gegen die Ablehnung des
 Antrags kann das Familiengericht angerufen werden.
 
+(2a) Für die Vormundschaft nach § 1787 des Bürgerlichen Gesetzbuchs
+ist das Jugendamt zuständig, in dessen Bereich der Geburtsort des
+Kindes liegt.
+
 (3) Für die Pflegschaft oder Vormundschaft, die durch Bestellung des
 Familiengerichts eintritt, ist das Jugendamt zuständig, in dessen
-Bereich das Kind oder der Jugendliche seinen gewöhnlichen Aufenthalt
-hat. Hat das Kind oder der Jugendliche keinen gewöhnlichen Aufenthalt,
-so richtet sich die Zuständigkeit nach seinem tatsächlichen Aufenthalt
-zum Zeitpunkt der Bestellung. Sobald das Kind oder der Jugendliche
-seinen gewöhnlichen Aufenthalt wechselt oder im Fall des Satzes 2 das
-Wohl des Kindes oder Jugendlichen es erfordert, hat das Jugendamt beim
-Familiengericht einen Antrag auf Entlassung zu stellen. Die Sätze 1
-bis 3 gelten für die Gegenvormundschaft des Jugendamts entsprechend.
+Bereich das Kind oder der Jugendliche zum Zeitpunkt der Bestellung
+seinen gewöhnlichen Aufenthalt hat. Hat das Kind oder der Jugendliche
+keinen gewöhnlichen Aufenthalt, so richtet sich die Zuständigkeit nach
+seinem tatsächlichen Aufenthalt zum Zeitpunkt der Bestellung. Sobald
+das Kind oder der Jugendliche seinen gewöhnlichen Aufenthalt nimmt
+oder wechselt, hat das Jugendamt beim Familiengericht einen Antrag auf
+Entlassung zu stellen.
 
 (4) Für die Vormundschaft, die im Rahmen des Verfahrens zur Annahme
 als Kind eintritt, ist das Jugendamt zuständig, in dessen Bereich die
@@ -4615,7 +4687,7 @@ führende Jugendamt bei dem Jugendamt des anderen Bereichs die
 Weiterführung der Beistandschaft zu beantragen; Absatz 2 Satz 2 und §
 86c gelten entsprechend.
 
-(6) Für die Erteilung der schriftlichen Auskunft nach § 58a Absatz 2
+(6) Für die Erteilung der schriftlichen Auskunft nach § 58 Absatz 2
 gilt Absatz 1 entsprechend. Die Mitteilungen nach § 1626d Absatz 2 des
 Bürgerlichen Gesetzbuchs, die Mitteilungen nach § 155a Absatz 3 Satz 3
 und Absatz 5 Satz 2 des Gesetzes über das Verfahren in Familiensachen
@@ -4637,12 +4709,11 @@ oder dem Vater allein übertragen wurde.
 
 ##### § 87d Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
 
-(1) Für die Wahrnehmung der Aufgaben nach § 53 ist der örtliche Träger
-zuständig, in dessen Bereich der Pfleger oder Vormund seinen
-gewöhnlichen Aufenthalt hat.
+(1) Für die Wahrnehmung der Aufgaben nach den §§ 53 und 53a ist der
+örtliche Träger zuständig, in dessen Bereich der Pfleger oder Vormund
+seinen gewöhnlichen Aufenthalt hat.
 
-(2) Für die Erteilung der Erlaubnis zur Übernahme von Pflegschaften
-oder Vormundschaften durch einen rechtsfähigen Verein (§ 54) ist der
+(2) Für die Anerkennung als Vormundschaftsverein (§ 54) ist der
 überörtliche Träger zuständig, in dessen Bereich der Verein seinen
 Sitz hat.
 
@@ -5049,8 +5120,14 @@ eines Kostenbeitrags.
 
 #### § 92 Ausgestaltung der Heranziehung
 
-(1) Aus ihrem Einkommen nach Maßgabe der §§ 93 und 94 heranzuziehen
-sind:
+(1) Zu den Kosten der in § 91 Absatz 1 genannten Leistungen und
+vorläufigen Maßnahmen sind Elternteile aus ihrem Einkommen nach
+Maßgabe der §§ 93 und 94 heranzuziehen; leben sie mit dem jungen
+Menschen zusammen, so werden sie auch zu den Kosten der in § 91 Absatz
+2 genannten Leistungen herangezogen.
+
+(1a) Unabhängig von ihrem Einkommen sind nach Maßgabe von § 93 Absatz
+1 Satz 3 und § 94 Absatz 3 heranzuziehen:
 
 1.  Kinder und Jugendliche zu den Kosten der in § 91 Absatz 1 Nummer 1 bis
     7 genannten Leistungen und vorläufigen Maßnahmen,
@@ -5064,12 +5141,7 @@ sind:
     Nummer 2 genannten Leistungen,
 
 
-4.  Ehegatten und Lebenspartner junger Menschen und Leistungsberechtigter
-    nach § 19 zu den Kosten der in § 91 Absatz 1 und 2 genannten
-    Leistungen und vorläufigen Maßnahmen,
-
-
-5.  Elternteile zu den Kosten der in § 91 Absatz 1 genannten Leistungen
+4.  Elternteile zu den Kosten der in § 91 Absatz 1 genannten Leistungen
     und vorläufigen Maßnahmen; leben sie mit dem jungen Menschen zusammen,
     so werden sie auch zu den Kosten der in § 91 Absatz 2 genannten
     Leistungen herangezogen.
@@ -5077,24 +5149,19 @@ sind:
 
 
 
-(1a) Zu den Kosten vollstationärer Leistungen sind volljährige
-Leistungsberechtigte nach § 19 zusätzlich aus ihrem Vermögen nach
-Maßgabe der §§ 90 und 91 des Zwölften Buches heranzuziehen.
-
 (2) Die Heranziehung erfolgt durch Erhebung eines Kostenbeitrags, der
 durch Leistungsbescheid festgesetzt wird; Elternteile werden getrennt
 herangezogen.
 
-(3) Ein Kostenbeitrag kann bei Eltern, Ehegatten und Lebenspartnern ab
-dem Zeitpunkt erhoben werden, ab welchem dem Pflichtigen die Gewährung
-der Leistung mitgeteilt und er über die Folgen für seine
-Unterhaltspflicht gegenüber dem jungen Menschen aufgeklärt wurde. Ohne
-vorherige Mitteilung kann ein Kostenbeitrag für den Zeitraum erhoben
-werden, in welchem der Träger der öffentlichen Jugendhilfe aus
-rechtlichen oder tatsächlichen Gründen, die in den
-Verantwortungsbereich des Pflichtigen fallen, an der Geltendmachung
-gehindert war. Entfallen diese Gründe, ist der Pflichtige unverzüglich
-zu unterrichten.
+(3) Ein Kostenbeitrag kann bei Eltern ab dem Zeitpunkt erhoben werden,
+ab welchem dem Pflichtigen die Gewährung der Leistung mitgeteilt und
+er über die Folgen für seine Unterhaltspflicht gegenüber dem jungen
+Menschen aufgeklärt wurde. Ohne vorherige Mitteilung kann ein
+Kostenbeitrag für den Zeitraum erhoben werden, in welchem der Träger
+der öffentlichen Jugendhilfe aus rechtlichen oder tatsächlichen
+Gründen, die in den Verantwortungsbereich des Pflichtigen fallen, an
+der Geltendmachung gehindert war. Entfallen diese Gründe, ist der
+Pflichtige unverzüglich zu unterrichten.
 
 (4) Ein Kostenbeitrag kann nur erhoben werden, soweit
 Unterhaltsansprüche vorrangig oder gleichrangig Berechtigter nicht
@@ -5124,7 +5191,20 @@ nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens,
 der nicht Vermögensschaden ist, geleistet wird, ist nicht als
 Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke
 wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum
-Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen.
+Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen;
+dies gilt nicht für
+
+1.  monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe
+    des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten
+    Buches für sonstige Bedürfnisse genannten Betrages und
+
+
+2.  monatliche Leistungen nach § 122 des Dritten Buches bis zu einer Höhe
+    des in § 123 Satz 1 Nummer 2, § 124 Nummer 2 und § 125 des Dritten
+    Buches genannten Betrages.
+
+
+
 Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher
 Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden,
 sind nicht als Einkommen zu berücksichtigen.
@@ -5188,29 +5268,28 @@ maßgeblich.
 
 (1) Die Kostenbeitragspflichtigen sind aus ihrem Einkommen in
 angemessenem Umfang zu den Kosten heranzuziehen. Die Kostenbeiträge
-dürfen die tatsächlichen Aufwendungen nicht überschreiten. Eltern
-sollen nachrangig zu den jungen Menschen herangezogen werden.
-Ehegatten und Lebenspartner sollen nachrangig zu den jungen Menschen,
-aber vorrangig vor deren Eltern herangezogen werden.
+dürfen die tatsächlichen Aufwendungen nicht überschreiten.
 
-(2) Für die Bestimmung des Umfangs sind bei jedem Elternteil,
-Ehegatten oder Lebenspartner die Höhe des nach § 93 ermittelten
-Einkommens und die Anzahl der Personen, die mindestens im gleichen
-Range wie der untergebrachte junge Mensch oder Leistungsberechtigte
-nach § 19 unterhaltsberechtigt sind, angemessen zu berücksichtigen.
+(2) Für die Bestimmung des Umfangs sind bei jedem Elternteil die Höhe
+des nach § 93 ermittelten Einkommens und die Anzahl der Personen, die
+mindestens im gleichen Range wie der untergebrachte junge Mensch oder
+Leistungsberechtigte nach § 19 unterhaltsberechtigt sind, angemessen
+zu berücksichtigen.
 
 (3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses
 erbracht und bezieht einer der Elternteile Kindergeld für den jungen
 Menschen, so hat dieser unabhängig von einer Heranziehung nach Absatz
-1 Satz 1 und 2 und nach Maßgabe des Absatzes 1 Satz 3 und 4 einen
-Kostenbeitrag in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil
-den Kostenbeitrag nach Satz 1 nicht, so sind die Träger der
-öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind
-entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs
-nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen.
-Bezieht der Elternteil Kindergeld nach § 1 Absatz 1 des
-Bundeskindergeldgesetzes, gilt Satz 2 entsprechend. Bezieht der junge
-Mensch das Kindergeld selbst, gelten die Sätze 1 und 2 entsprechend.
+1 Satz 1 und 2 einen Kostenbeitrag in Höhe des Kindergeldes zu zahlen.
+Zahlt der Elternteil den Kostenbeitrag nach Satz 1 nicht, so sind die
+Träger der öffentlichen Jugendhilfe insoweit berechtigt, das auf
+dieses Kind entfallende Kindergeld durch Geltendmachung eines
+Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in
+Anspruch zu nehmen. Bezieht der Elternteil Kindergeld nach § 1 Absatz
+1 des Bundeskindergeldgesetzes, gilt Satz 2 entsprechend. Bezieht der
+junge Mensch das Kindergeld selbst, gelten die Sätze 1 und 2
+entsprechend. Die Heranziehung der Elternteile erfolgt nachrangig zu
+der Heranziehung der jungen Menschen zu einem Kostenbeitrag in Höhe
+des Kindergeldes.
 
 (4) Werden Leistungen über Tag und Nacht erbracht und hält sich der
 junge Mensch nicht nur im Rahmen von Umgangskontakten bei einem
@@ -5218,34 +5297,12 @@ Kostenbeitragspflichtigen auf, so ist die tatsächliche
 Betreuungsleistung über Tag und Nacht auf den Kostenbeitrag
 anzurechnen.
 
-(5) Für die Festsetzung der Kostenbeiträge von Eltern, Ehegatten und
-Lebenspartnern junger Menschen und Leistungsberechtigter nach § 19
-werden nach Einkommensgruppen gestaffelte Pauschalbeträge durch
-Rechtsverordnung des zuständigen Bundesministeriums mit Zustimmung des
-Bundesrates bestimmt.
+(5) Für die Festsetzung der Kostenbeiträge von Eltern werden nach
+Einkommensgruppen gestaffelte Pauschalbeträge durch Rechtsverordnung
+des zuständigen Bundesministeriums mit Zustimmung des Bundesrates
+bestimmt.
 
-(6) Bei vollstationären Leistungen haben junge Menschen und
-Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2
-genannten Beträge höchstens 25 Prozent ihres Einkommens als
-Kostenbeitrag einzusetzen. Maßgeblich ist das Einkommen des Monats, in
-dem die Leistung oder die Maßnahme erbracht wird. Folgendes Einkommen
-aus einer Erwerbstätigkeit innerhalb eines Monats bleibt für den
-Kostenbeitrag unberücksichtigt:
-
-1.  Einkommen aus Schülerjobs oder Praktika mit einer Vergütung bis zur
-    Höhe von 150 Euro monatlich,
-
-
-2.  Einkommen aus Ferienjobs,
-
-
-3.  Einkommen aus einer ehrenamtlichen Tätigkeit oder
-
-
-4.  150 Euro monatlich als Teil einer Ausbildungsvergütung.
-
-
-
+(6) (weggefallen)
 
 
 ### Dritter Abschnitt - Überleitung von Ansprüchen
@@ -5254,12 +5311,16 @@ Kostenbeitrag unberücksichtigt:
 
 #### § 95 Überleitung von Ansprüchen
 
-(1) Hat eine der in § 92 Absatz 1 genannten Personen für die Zeit, für
-die Jugendhilfe gewährt wird, einen Anspruch gegen einen anderen, der
-weder Leistungsträger im Sinne des § 12 des Ersten Buches noch
-Kostenbeitragspflichtiger ist, so kann der Träger der öffentlichen
-Jugendhilfe durch schriftliche Anzeige an den anderen bewirken, dass
-dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht.
+(1) Hat eine in § 92 Absatz 1a genannte Person oder ein Ehegatte oder
+Lebenspartner des jungen Menschen oder Leistungsberechtigten nach § 19
+für die Zeit, für die Jugendhilfe gewährt wird, einen Anspruch gegen
+einen anderen, so kann der Träger der öffentlichen Jugendhilfe durch
+schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis
+zur Höhe seiner Aufwendungen auf ihn übergeht. Dies gilt unter der
+Maßgabe, dass der andere weder Leistungsträger im Sinne des § 12 des
+Ersten Buches noch eine in § 92 Absatz 1a genannte Person noch eine
+andere gegenüber dem jungen Menschen oder Leistungsberechtigten nach §
+19 dem Grunde nach zum Unterhalt verpflichtete Person ist.
 
 (2) Der Übergang darf nur insoweit bewirkt werden, als bei
 rechtzeitiger Leistung des anderen entweder Jugendhilfe nicht gewährt
@@ -5302,12 +5363,12 @@ erforderlich ist, sind Eltern, Ehegatten und Lebenspartner junger
 Menschen sowie Leistungsberechtigter nach § 19 verpflichtet, dem
 örtlichen Träger über ihre Einkommensverhältnisse Auskunft zu geben.
 Junge Volljährige und volljährige Leistungsberechtigte nach § 19 sind
-verpflichtet, dem örtlichen Träger über ihre Einkommens- und
-Vermögensverhältnisse Auskunft zu geben. Eltern, denen die Sorge für
-das Vermögen des Kindes oder des Jugendlichen zusteht, sind auch zur
-Auskunft über dessen Einkommen verpflichtet. Ist die Sorge über das
-Vermögen des Kindes oder des Jugendlichen anderen Personen übertragen,
-so treten diese an die Stelle der Eltern.
+verpflichtet, dem örtlichen Träger über ihre Einkommensverhältnisse
+Auskunft zu geben. Eltern, denen die Sorge für das Vermögen des Kindes
+oder des Jugendlichen zusteht, sind auch zur Auskunft über dessen
+Einkommen verpflichtet. Ist die Sorge über das Vermögen des Kindes
+oder des Jugendlichen anderen Personen übertragen, so treten diese an
+die Stelle der Eltern.
 
 (2) Soweit dies für die Berechnung der laufenden Leistung nach § 39
 Absatz 6 erforderlich ist, sind Pflegepersonen verpflichtet, dem
@@ -5371,6 +5432,9 @@ von Gebühren und Auslagen regeln.
 und zu seiner Fortentwicklung sind laufende Erhebungen über
 
 1.  Kinder und tätige Personen in Tageseinrichtungen,
+
+
+1a. Kinder in den Klassenstufen eins bis vier,
 
 
 2.  Kinder und tätige Personen in öffentlich geförderter
@@ -5795,7 +5859,8 @@ Personen in Tageseinrichtungen sind
 
 3.  für die dort geförderten Kinder
 
-    a)  Geschlecht, Geburtsmonat und Geburtsjahr sowie Schulbesuch,
+    a)  Geschlecht, Geburtsmonat und Geburtsjahr sowie Schulbesuch und
+        Klassenstufe,
 
 
     b)  ausländische Herkunft mindestens eines Elternteils,
@@ -5881,6 +5946,21 @@ von diesen betreuten Kinder sind die Zahl der
 Kindertagespflegepersonen und die Zahl der von diesen betreuten Kinder
 jeweils gegliedert nach Pflegestellen.
 
+(7c) Erhebungsmerkmale bei den Erhebungen über Kinder in den
+Klassenstufen eins bis vier sind
+
+1.  Klassenstufe,
+
+
+2.  Anzahl der Wochenstunden, die das Kind in Angeboten nach § 24 Absatz 4
+    verbringt,
+
+
+3.  Art der Angebote nach § 24 Absatz 4.
+
+
+
+
 (8) Erhebungsmerkmale bei den Erhebungen über die Angebote der
 Jugendarbeit nach § 11 sowie bei den Erhebungen über
 Fortbildungsmaßnahmen für ehrenamtliche Mitarbeiter anerkannter Träger
@@ -5889,18 +5969,22 @@ sowie Veranstaltungen und Projekte der Jugendarbeit, soweit diese mit
 öffentlichen Mitteln pauschal oder maßnahmenbezogen gefördert werden
 oder der Träger eine öffentliche Förderung erhält, gegliedert nach
 
-1.  Art, Name und Rechtsform des Trägers,
+1.  Art und Rechtsform des Trägers sowie bei Trägern der freien
+    Jugendhilfe deren Verbandszugehörigkeit,
 
 
 2.  Dauer, Häufigkeit, Durchführungsort und Art des Angebots; zusätzlich
     bei schulbezogenen Angeboten die Art der kooperierenden Schule,
 
 
-3.  Alter, Geschlecht sowie Art der Beschäftigung und Tätigkeit der bei
-    der Durchführung des Angebots tätigen Personen,
+3.  Art der Beschäftigung und Tätigkeit der bei der Durchführung des
+    Angebots tätigen Personen sowie, mit Ausnahme der sonstigen
+    pädagogisch tätigen Personen, deren Altersgruppe und Geschlecht,
 
 
-4.  Zahl, Geschlecht und Alter der Teilnehmenden sowie der Besucher,
+4.  Zahl der Teilnehmenden und der Besucher sowie, mit Ausnahme von
+    Festen, Feiern, Konzerten, Sportveranstaltungen und sonstigen
+    Veranstaltungen, deren Geschlecht und Altersgruppe,
 
 
 5.  Partnerländer und Veranstaltungen im In- oder Ausland bei
@@ -6015,7 +6099,7 @@ Hilfsmerkmale sind
 
 ### § 101 Periodizität und Berichtszeitraum
 
-(1) Die Erhebungen nach § 99 Absatz 1 bis 5, 6a bis 7b und 10 sind
+(1) Die Erhebungen nach § 99 Absatz 1 bis 5, 6a bis 7c und 10 sind
 jährlich durchzuführen, die Erhebungen nach § 99 Absatz 3 Nummer 3
 erstmalig für das Jahr 2022; die Erhebungen nach § 99 Absatz 1, soweit
 sie die Eingliederungshilfe für Kinder und Jugendliche mit seelischer
@@ -6049,7 +6133,7 @@ Absatz 9 erstmalig für das Jahr 2014.
     Dezember,
 
 
-10. § 99 Absatz 7, 7a und 7b sind zum 1. März,
+10. § 99 Absatz 7, 7a bis 7c sind zum 1. März,
 
 
 11. § 99 Absatz 6 sind zum Zeitpunkt des Abschlusses der
@@ -6118,6 +6202,8 @@ Nummer 4 sind freiwillig.
 
 
 
+Die Auskunftspflichtigen für Erhebungen nach § 99 Absatz 7c werden
+durch Landesrecht bestimmt.
 
 (3) Zur Durchführung der Erhebungen nach § 99 Absatz 1, 3, 7, 8 und 9
 übermitteln die Träger der öffentlichen Jugendhilfe den statistischen
@@ -6219,7 +6305,11 @@ Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes)
 eingeschränkt.
 
 
-### § 107 Übergangsregelung
+### § 107 (zukünftig in Kraft)
+
+
+
+### § 108 Übergangsregelung
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 begleitet und untersucht

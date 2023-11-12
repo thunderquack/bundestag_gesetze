@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 1690
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.10.2021 I 4706
+:   Art. 1 V v. 3.11.2022 I 1974
 
 
 ## Eingangsformel
@@ -395,9 +395,13 @@ Durchführungsgesetzes.
 
 #### § 13a Kürzung der nationalen Reserve
 
-In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung
+(1) In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung
 (EU) Nr. 1307/2013 für das Kalenderjahr 2021 wird die nationale
 Reserve um 20 Millionen Euro gekürzt.
+
+(2) In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung
+(EU) Nr. 1307/2013 für das Kalenderjahr 2022 wird die nationale
+Reserve um 7,5 Millionen Euro gekürzt.
 
 
 #### § 14 Zuständigkeit
@@ -966,13 +970,9 @@ oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt,
 vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder
 Ziegen beweidet werden.
 
-(2) Abweichend von Absatz 1 Satz 1 können die zuständigen Behörden der
-Länder ab dem 1. Juli des jeweiligen Jahres allgemein oder im
-Einzelfall zulassen, dass in Gebieten, in denen auf Grund
-außergewöhnlicher Umstände, insbesondere ungünstiger
-Witterungsereignisse, nicht ausreichend Futter zur Verfügung steht
-oder stehen wird, der Aufwuchs durch Beweidung mit Tieren oder durch
-Schnittnutzung für Futterzwecke genutzt wird.
+(2) Abweichend von Absatz 1 Satz 1 kann im Jahr 2022 der Aufwuchs ab
+dem 1. Juli durch Beweidung mit Tieren oder durch Schnittnutzung für
+Futterzwecke genutzt werden.
 
 
 #### § 26 Terrassen (Artikel 46 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 1307/2013)
@@ -1068,13 +1068,10 @@ Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse
 genutzte Fläche ausgewiesen wird, nur durch Beweidung mit Schafen oder
 Ziegen genutzt werden.
 
-(4) Abweichend von Absatz 3 können die zuständigen Behörden der Länder
-im Jahr 2021 allgemein oder im Einzelfall zulassen, dass in Gebieten,
-in denen auf Grund ungünstiger Witterungsverhältnisse nicht
-ausreichend Futter zur Verfügung steht oder stehen wird, eine Fläche
-mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse
-genutzte Fläche ausgewiesen wird, im Jahr 2021 durch Beweidung mit
-Tieren oder durch Schnittnutzung für Futterzwecke genutzt wird.
+(4) Abweichend von Absatz 3 kann eine Fläche mit Zwischenfruchtanbau
+oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen
+ist, im Jahr 2022 durch Beweidung mit Tieren oder durch Schnittnutzung
+für Futterzwecke genutzt werden.
 
 
 #### § 32 Flächen mit stickstoffbindenden Pflanzen (Artikel 46 Absatz 2 Buchstabe j der Verordnung (EU) Nr. 1307/2013)

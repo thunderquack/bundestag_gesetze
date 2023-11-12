@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 2
 
 Zuletzt geändert durch
-:   Art. 123 G v. 10.8.2021 I 3436
+:   Art. 3 V v. 18.3.2022 I 498
 
 Stand: Ersetzt V 9231-7-9 v. 19.6.2012 I 1346 (FahrlGDV 2012)
 
@@ -192,6 +192,13 @@ Siebter Abschnitt
     *   Unterrichtsräume
 
 
+*    *   Anlage 2a
+        (zu § 4 Absatz 2)
+
+    *   Anforderungen an die Durchführung von theoretischem Unterricht in
+        digitaler Form
+
+
 *    *   Anlage 3
         (zu § 6 Absatz 1)
 
@@ -311,24 +318,25 @@ ist Absatz 3 Satz 2 bis 5 nicht anzuwenden.
 
 ### § 2 Anwärterschein und Fahrlehrerschein
 
-(1) Der Anwärterschein muss dem Muster nach Anlage 1.1, der
+(1) Der Anwärterschein Fahrlehrer muss dem Muster nach Anlage 1.1, der
 Fahrlehrerschein dem Muster nach Anlage 1.2 entsprechen. Dies gilt
-nicht für Anwärterscheine und Fahrlehrerscheine der Bundeswehr, der
-Bundespolizei und der Polizei.
+nicht für Anwärterscheine Fahrlehrer und Fahrlehrerscheine der
+Bundeswehr, der Bundespolizei und der Polizei.
 
 (2) Der Fahrlehrerschein für die Fahrlehrerlaubnisklasse BE darf erst
 ausgehändigt oder zugestellt werden, wenn der Anwärterschein für die
 Anwärterbefugnis der Fahrlehrerlaubnisklasse BE durch die nach
-Landesrecht zuständige Behörde oder die nach § 44 Absatz 2 des
+Landesrecht zuständige Behörde oder durch die nach § 44 Absatz 2 des
 Fahrlehrergesetzes zuständige Dienststelle eingezogen oder ungültig
 gemacht worden ist.
 
-(3) Mit der Aushändigung oder Zustellung des Anwärterscheins oder des
-Fahrlehrerscheins sind die Inhaber darauf hinzuweisen, dass die
+(3) Mit der Aushändigung oder Zustellung des Anwärterscheins ist der
+Inhaber darauf hinzuweisen, dass die Ausübung der Anwärterbefugnis nur
+im Rahmen eines Ausbildungsverhältnisses mit dem Inhaber einer
+Ausbildungsfahrschule zulässig ist. Mit der Aushändigung des
+Fahrlehrerscheins ist der Inhaber darauf hinzuweisen, dass die
 Ausübung der Fahrlehrerlaubnis nur in Verbindung mit einer
-Fahrschulerlaubnis oder im Rahmen eines Beschäftigungsverhältnisses,
-die Ausübung der Anwärterbefugnis nur im Rahmen eines
-Ausbildungsverhältnisses mit dem Inhaber einer Ausbildungsfahrschule
+Fahrschulerlaubnis oder im Rahmen eines Beschäftigungsverhältnisses
 zulässig ist.
 
 (4) Bei jeder Änderung ist ein neuer Fahrlehrerschein auszufertigen.
@@ -372,16 +380,21 @@ entsprechen.
 
 ### § 4 Lehrmittel
 
-In den Unterrichtsräumen müssen während des theoretischen Unterrichts
-Lehrmittel zur Gestaltung des Unterrichts und zur Visualisierung
-vorhanden sein. Zur Darstellung des Lehrstoffes müssen wahlweise
-Modelle, analoge oder digitale Medien sowie die zur Visualisierung
-jeweils erforderlichen technischen Geräte vorhanden sein. Bildschirme
-und Projektionsflächen müssen eine ausreichende Größe aufweisen.
-Ferner müssen die für die Ausbildung der Fahrschüler notwendigen
-aktuellen straßenverkehrsrechtlichen Bestimmungen in schriftlicher
-oder, sofern der Zugriff im Unterrichtsraum gesichert ist, in
-elektronischer Form vorliegen.
+(1) In den Unterrichtsräumen müssen während des theoretischen
+Unterrichts Lehrmittel zur Gestaltung des Unterrichts und zur
+Visualisierung vorhanden sein. Zur Darstellung des Lehrstoffes müssen
+wahlweise Modelle, analoge oder digitale Medien sowie die zur
+Visualisierung jeweils erforderlichen technischen Geräte vorhanden
+sein. Bildschirme und Projektionsflächen müssen eine ausreichende
+Größe aufweisen. Ferner müssen die für die Ausbildung der Fahrschüler
+notwendigen aktuellen straßenverkehrsrechtlichen Bestimmungen in
+schriftlicher oder, sofern der Zugriff im Unterrichtsraum gesichert
+ist, in elektronischer Form vorliegen.
+
+(2) Wird der theoretische Unterricht in digitaler Form durchgeführt,
+sind zusätzlich zu Absatz 1 mindestens die Anforderungen nach Anlage
+2a zu erfüllen. § 4 Absatz 1b Satz 5 der Fahrschüler-
+Ausbildungsordnung bleibt unberührt.
 
 
 ### § 5 Lehrfahrzeuge für Fahrschüler
@@ -977,6 +990,9 @@ am 1. Januar 2018.
 (7) Ausbildungsnachweise und Ausbildungsbescheinigungen, die nach dem
 bis zum Ablauf des 31. Dezember 2019 vorgeschriebenen Muster
 ausgefertigt wurden, bleiben bis zum Ablauf des 1. Januar 2022 gültig.
+Ausbildungsnachweise nach dem bis zum Ablauf des 31. Mai 2022
+vorgeschriebenen Muster dürfen noch bis zum 25. März 2024 ausgefertigt
+werden.
 
 
 ### § 20 Ordnungswidrigkeiten
@@ -986,7 +1002,8 @@ Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als
 für die verantwortliche Leitung des Ausbildungsbetriebes einer
 Fahrschule bestellte Person vorsätzlich oder fahrlässig:
 
-1.  entgegen § 4 die dort vorgeschriebenen Lehrmittel nicht vorhält,
+1.  entgegen § 4 Absatz 1 die dort vorgeschriebenen Lehrmittel nicht
+    vorhält,
 
 
 2.  entgegen § 5 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 für die
@@ -1969,16 +1986,108 @@ eine Schreibunterlage (Mindestgröße DIN A4) vorhanden sein.
 Weitergehende Anforderungen können sich insbesondere aus sicherheits-
 und ordnungsrechtlichen Vorschriften ergeben.
 
+(zu § 4 Absatz 2)
 
-### Anlage 3 (zu § 6 Absatz 1)
+### Anlage 2a Anforderungen an die Durchführung von theoretischem Unterricht in digitaler Form
 
-(Fundstelle: BGBl. I 2019, 1421)
+(Fundstelle: BGBl. I 2022, 503)
+
+
+1.  Es muss seitens der Fahrschule eine ausreichende Internetverbindung
+    vorhanden sein, die eine Durchführung des digitalen Unterrichts
+    ermöglicht.
+
+
+2.  Die zur Durchführung des digitalen Unterrichts durch die Fahrschule
+    eingesetzten Systeme müssen mindestens verfügen über
+
+    a)  einen Bildschirm oder Monitor, der durch seine Größe gewährleistet,
+        dass der Fahrschüler jederzeit in der Lage ist, dargestellte
+        verkehrliche Situationen detailgenau wahrnehmen zu können und
+
+
+    b)  eine Webcam mit Mikrofon und Lautsprecher oder eine Kombination aus
+        Webcam und Headset, sofern Kamera, Lautsprecher und Mikrophon nicht
+        bereits im System integriert sind.
+
+
+
+
+
+3.  Die zur Durchführung des digitalen Unterrichts eingesetzte Software
+    muss mindestens
+
+    a)  das Kamerabild aller Teilnehmer dem Kursleiter anzeigen,
+
+
+    b)  ermöglichen, dass der Kursleiter die Sprechzeit der Teilnehmer
+        zuteilen und bei Bedarf die Mikrofone aller Teilnehmer stumm schalten
+        kann, um insbesondere Rückkopplung und sonstige Störgeräusche zu
+        vermeiden,
+
+
+    c)  ermöglichen, dass sich die Teilnehmer melden können, um einen
+        Sprechwunsch zu äußern (z. B. über die Schaltfläche „Hand heben“),
+
+
+    d)  ermöglichen, dass der Kursleiter seinen Bildschirm allen Teilnehmern
+        freigeben kann, um Schulungsmedien allen Teilnehmern anzuzeigen,
+
+
+    e)  ermöglichen, separate virtuelle Räume aus der Software zu starten, um
+        Gruppenarbeit in Kleingruppen durchzuführen,
+
+
+    f)  die Kontrolle ermöglichen, dass und ob alle Teilnehmer des Unterrichts
+        anwesend sind.
+
+
+
+
+
+4.  Die zur Durchführung des digitalen Unterrichts eingesetzte Software
+    muss den datenschutzrechtlichen Anforderungen, insbesondere der
+    Datenschutzgrundverordnung und den Anforderungen an die
+    Datensicherheit, insbesondere den Vorgaben der Artikel 24, 25 und 32
+    der Datenschutzgrundverordnung, jederzeit entsprechen; ein
+    entsprechender Nachweis hierzu muss jederzeit geführt werden können.
+
+
+5.  Für die Durchführung des digitalen Unterrichts müssen für die
+    Gesamtzahl der Teilnehmer ausreichende Softwarelizenzen vorhanden
+    sein.
+
+
+6.  Die Teilnehmerzahl darf 25 Personen nicht überschreiten.
+
+
+7.  Der Fahrlehrer hat vor Beginn des digitalen Unterrichts die Identität
+    und während des Unterrichts die Anwesenheit der Fahrschüler zu prüfen;
+    ferner hat er eine Teilnehmerliste zu führen.
+
+
+8.  Der digitale Unterricht ist aus Räumen zu erteilen, die die Vorgaben
+    des § 3 erfüllen.
+
+
+9.  Die Fahrschule hat die Überwachung der fachlichen und pädagogischen
+    Qualität des digitalen Unterrichts durch die nach Landesrecht
+    zuständige Behörde zu ermöglichen.
+
+
+
+
+(zu § 6 Absatz 1)
+
+### Anlage 3 Ausbildungsnachweis
+
+(Fundstelle: BGBl. I 2022, 504)
 
 ## Ausbildungsnachweis
 
 **Ausbildungsnachweis für Klasse**
 \_\_\__\_\__\_\__\_\__\_\__\_\_\_\_
-gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 der Fahrschüler-
+gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-
 Ausbildungsordnung
 
 
@@ -1989,15 +2098,177 @@ Ausbildungsordnung
     *
 
 *    *
-    *   Familienname:
+    *   **Fahrschule**
 
     *
     *
-    *   Fahrschule
+    *
+    *
+    *
+    *
+    *
+    *   **Fahrlehrer**
+
+    *   Nr.
 
     *
 
 *    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Familienname:
+
+    *
+    *   Datum
+
+    *   Prakt. Ausbild. Art u. Inhalt\*\*)
+
+    *   Beginn
+        Uhrzeit
+
+    *   Minuten
+
+    *   FL\*) Nr.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
     *
     *
 
@@ -2006,8 +2277,18 @@ Ausbildungsordnung
 
     *
     *
+    *
+    *
+    *
+    *
+    *
 
 *    *
+    *
+    *
+    *
+    *
+    *
     *
     *
 
@@ -2016,8 +2297,9 @@ Ausbildungsordnung
 
     *
     *
-
-*    *
+    *
+    *
+    *
     *
     *
 
@@ -2025,8 +2307,27 @@ Ausbildungsordnung
     *
     *
     *
+    *
+    *
+    *
+    *
 
 *    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
     *
     *
 
@@ -2040,17 +2341,23 @@ Ausbildungsordnung
     *
     *
     *
+    *
+    *
+    *
+    *
 
 *    *
     *
     *
-    *   Fahrlehrer
-
-    *   Nr.
-
+    *
+    *
+    *
+    *
     *
 
 *    *
+    *
+    *
     *
     *
     *
@@ -2068,6 +2375,8 @@ Ausbildungsordnung
     *
     *
     *
+    *
+    *
 
 *    *
     *   Datum
@@ -2091,127 +2400,6 @@ Ausbildungsordnung
     *
     *
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *   Datum
-
-    *   Prakt. Ausb. Art u. Inhalt\*\*
-
-    *   Beginn
-        Uhrzeit
-
-    *   Minuten
-
-    *   FL\* Nr.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
     *
     *
 
@@ -2318,62 +2506,6 @@ Ausbildungsordnung
     *
 
 *    *
-    *   Hiermit wird bestätigt, dass alle vorgeschriebenen Ausbildungsinhalte
-        gemäß § 4 FahrschAusbO absolviert wurden. Der Abschluss der
-        theoretischen Ausbildung gemäß § 6 Absatz 1 FahrschAusbO ist
-        festgestellt.
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Datum
-
     *
     *
     *
@@ -2394,21 +2526,9 @@ Ausbildungsordnung
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+    *   \*) FL = Fahrlehrer
 
-*    *
-    *   \* FL = Fahrlehrer
-        \*\* Hier sind mindestens anzugeben:
-
-    *   Bei den besonderen Ausbildungs-
-        fahrten
+    *   *\*) Hier sind mindestens anzugeben:
 
     *
     *
@@ -2419,19 +2539,9 @@ Ausbildungsordnung
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+    *   Grundausbildung
 
-*    *
-    *   *                      Fahrstunden
-        Überlandfahrt
-
-    *   = ÜL
+    *   besondere Ausbildungsfahrten
 
     *
     *
@@ -2442,6 +2552,14 @@ Ausbildungsordnung
     *
 
 *    *
+    *   - Übungsstunden i.g.O/a.g.O.
+
+    *   = Üst
+
+    *   - Fahrstunden Überlandfahrt
+
+    *   = UL
+
     *
     *
     *
@@ -2451,10 +2569,11 @@ Ausbildungsordnung
     *
 
 *    *
-    *   In der Grundausbildung
+    *   - Grundfahraufgaben
 
-    *   *                      Fahrstunden
-        auf Autobahn
+    *   = Gf
+
+    *   - Fahrstunden auf Autobahn
 
     *   = AB
 
@@ -2467,22 +2586,12 @@ Ausbildungsordnung
     *
 
 *    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+    *   - Unterweisung am
+        Ausbildungsfahrzeug
 
-*    *
-    *   *                      Übungsstunden
-        i.g.O./a.g.O.
+    *   = Uw
 
-    *   = Üst
-
-    *   *                      Fahrstunden
-        bei Dunkelheit
+    *   - Fahrstunden bei Dunkelheit
 
     *   = NF
 
@@ -2502,12 +2611,7 @@ Ausbildungsordnung
     *
     *
     *
-
-*    *
-    *   *                      Grundfahraufgaben
-
-    *   = Gf
-
+    *
     *
     *
     *
@@ -2519,11 +2623,8 @@ Ausbildungsordnung
     *
 
 *    *
-    *   *                      Unterweisung am
-        Ausbildungsfahrzeug
-
-    *   = Uw
-
+    *
+    *
     *
     *
     *
@@ -2605,26 +2706,43 @@ Ausbildungsordnung
 *    *
     *
     *
-    *   Hiermit wird bestätigt, dass alle vorgeschriebenen Ausbildungsinhalte
-        gemäß § 5 FahrschAusbO absolviert wurden. Der Abschluss der
-        praktischen Ausbildung gemäß § 6 Absatz 1 FahrschAusbO ist
-        festgestellt.
-
     *
-
-*    *
+    *
+    *
+    *
     *
     *
 
 *    *
     *
     *
+    *
+    *
+    *
+    *
+    *
 
 *    *
     *
     *
+    *
+    *
+    *
+    *
+    *
 
 *    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
     *
     *
     *
@@ -2636,8 +2754,9 @@ Ausbildungsordnung
 
     *
     *
-    *   Datum
-
+    *
+    *
+    *
     *
     *
 
@@ -2659,8 +2778,7 @@ Ausbildungsordnung
 
     *
     *   Unterschrift
-        der/des Fahrschulinhaber/-inhabers/der verantwortlichen Leitung des
-        Ausbildungsbetriebes
+        der/des Fahrschulinhaber/-inhabers/der verantwortlichen Leitung
 
     *
     *   Unterschrift

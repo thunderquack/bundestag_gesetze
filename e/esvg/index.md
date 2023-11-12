@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 772
 
-Geändert durch
-:   Art. 275 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 G v. 9.12.2020 I 2863 (Nr. 61) mWv 15.12.2020 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 12 G v. 2.3.2023 I Nr. 56
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -323,7 +320,7 @@ Versorgungskrise erforderlich ist, können die zuständigen Behörden
 unter den dort genannten Voraussetzungen
 
 1.  nach § 7 des Verkehrsleistungsgesetzes über die Bundesanstalt beim
-    Bundesamt für Güterverkehr Verkehrsleistungen anfordern,
+    Bundesamt für Logistik und Mobilität Verkehrsleistungen anfordern,
 
 
 2.  nach den §§ 10 bis 14 des Verkehrssicherstellungsgesetzes in

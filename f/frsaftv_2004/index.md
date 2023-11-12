@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke
-  und Kräuter- und Früchtetee für Säuglinge und Kleinkinder
+Title: Verordnung über Fruchtsaft, Fruchtnektar und koffeinhaltige Erfrischungsgetränke
 jurabk: FrSaftV 2004
 layout: default
 origslug: frsaftv_2004
@@ -8,7 +7,7 @@ slug: frsaftv_2004
 
 ---
 
-# Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder (FrSaftV 2004)
+# Verordnung über Fruchtsaft, Fruchtnektar und koffeinhaltige Erfrischungsgetränke (FrSaftV 2004)
 
 Ausfertigungsdatum
 :   2004-05-24
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1016
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.5.2020 I 1075
+:   Art. 3 V v. 26.4.2023 I Nr. 115
 
 Mit dieser Verordnung wird die Richtlinie 2001/112/EG des Rates vom
 20\. Dezember 2001 über Fruchtsäfte und bestimmte gleichartige
@@ -62,9 +61,6 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nach Maßgabe des Abschnitts 3 auch für
 koffeinhaltige Erfrischungsgetränke.
-
-(3) Diese Verordnung gilt nach Maßgabe des Abschnitts 4 auch für
-Kräuter- und Früchtetee für Säuglinge oder Kleinkinder.
 
 
 ## Abschnitt 2 - Fruchtsaft, einige ähnliche Erzeugnisse und Fruchtnektar
@@ -117,9 +113,8 @@ aus Fruchtsaftkonzentrat, der aus einer nicht in Anlage 6 aufgeführten
 Frucht hergestellt wird, dem Brixwert des Saftes entsprechen, der zur
 Herstellung des Konzentrates verwendet wurde.
 
-(8) Unberührt bleiben die Vorschriften über diätetische Lebensmittel
-sowie über den Zusatz von Vitaminen und Mineralstoffen zu
-Lebensmitteln.
+(8) Unberührt bleiben die Vorschriften über den Zusatz von Vitaminen
+und Mineralstoffen zu Lebensmitteln.
 
 
 ### § 3 Kennzeichnung
@@ -332,128 +327,11 @@ in Fußnoten angebracht werden, wenn bei der Bezeichnung des
 Lebensmittels auf die entsprechende Fußnote hingewiesen wird.
 
 
-## Abschnitt 4 - Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+## Abschnitt 4 - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
 
 
 
-### § 7 Begriffsbestimmungen
-
-(1) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder im Sinne
-dieser Verordnung sind
-
-1.  teeähnliche Erzeugnisse, Extrakte aus teeähnlichen Erzeugnissen oder
-    Zubereitungen aus Lebensmitteln mit Extrakten aus teeähnlichen
-    Erzeugnissen, die, damit sie sich für den Verzehr eignen, noch mit
-    Wasser zubereitet werden müssen, sowie
-
-
-2.  verzehrfertige Getränke, die aus teeähnlichen Erzeugnissen, deren
-    Extrakten oder Zubereitungen hergestellt worden sind,
-
-
-
-die nach ihrer Bezeichnung, nach ihren sonstigen Angaben oder
-Bildzeichen auf der Verpackung oder auf einem an dieser befestigten
-Etikett, nach ihrer Aufmachung, ihrem Aussehen oder auf Grund von
-werblichen Aussagen zum Verzehr durch Säuglinge oder Kleinkinder
-bestimmt sind.
-
-(2) Für die Zwecke dieser Verordnung gilt
-
-1.  für den Begriff „Säugling“ die Begriffsbestimmung gemäß Artikel 2
-    Absatz 2 Buchstabe a der Verordnung (EU) Nr. 609/2013 des Europäischen
-    Parlaments und des Rates vom 12. Juni 2013 über Lebensmittel für
-    Säuglinge und Kleinkinder, Lebensmittel für besondere medizinische
-    Zwecke und Tagesrationen für gewichtskontrollierende Ernährung und zur
-    Aufhebung der Richtlinie 92/52/EWG des Rates, der Richtlinien 96/8/EG,
-    1999/21/EG, 2006/125/EG und 2006/141/EG der Kommission, der Richtlinie
-    2009/39/EG des Europäischen Parlaments und des Rates sowie der
-    Verordnungen (EG) Nr. 41/2009 und (EG) Nr. 953/2009 des Rates und der
-    Kommission (ABl. L 181 vom 29.6.2013, S. 35) und
-
-
-2.  für den Begriff „Kleinkind“ die Begriffsbestimmung gemäß Artikel 2
-    Absatz 2 Buchstabe b der Verordnung (EU) Nr. 609/2013.
-
-
-
-
-
-### § 8 Besondere Anforderungen an Herstellung und Inverkehrbringen
-
-(1) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen nur
-in Form vorverpackter Lebensmittel in den Verkehr gebracht werden.
-
-(2) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder müssen sich
-als Getränk für diese besonderen Verbrauchergruppen eignen.
-Insbesondere dürfen bei der Herstellung von Kräuter- und Früchtetee
-für Säuglinge oder Kleinkinder weder
-
-1.  Zucker gemäß Artikel 2 Absatz 4 in Verbindung mit Anhang I Nummer 8
-    der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
-    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
-    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
-    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
-    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
-    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
-    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
-    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
-    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18),
-    noch
-
-
-2.  Honig,
-
-
-3.  Malzextrakt oder andere aus pflanzlichen Rohstoffen gewonnene Sirupe
-    oder Dicksäfte oder
-
-
-4.  Erzeugnisse nach Anlage 1
-
-
-
-verwendet oder zugesetzt werden.
-
-(3) Auf Kräuter- und Früchtetee für Säuglinge oder Kleinkinder ist §
-14 Absatz 1 Nummer 1 der Diätverordnung in der Fassung der
-Bekanntmachung vom 28. April 2005 (BGBl. I S. 1161), die zuletzt durch
-Artikel 22 der Verordnung vom 5. Juli 2017 (BGBl. I S. 2272) geändert
-worden ist, entsprechend anzuwenden.
-
-(4) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder, die nicht
-den Anforderungen nach Absatz 2 Satz 2 oder Absatz 3 entsprechen,
-dürfen nicht in den Verkehr gebracht werden.
-
-
-### § 9 Kennzeichnung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
-
-Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen nur in
-den Verkehr gebracht werden, wenn die Kennzeichnung auf der Verpackung
-oder auf einem an dieser befestigten Etikett folgende Hinweise
-enthält:
-
-1.  den Hinweis, dass bei ihrer Zubereitung und vor ihrer Verabreichung
-    auf die Zugabe von Zucker und von anderen süßenden Zutaten verzichtet
-    werden soll und
-
-
-2.  den Hinweis, ab welchem Alter sie verwendet werden können; dieses
-    Alter darf nicht unter vier vollendeten Lebensmonaten liegen.
-
-
-
-Die Hinweise nach Satz 1 müssen auf der Verpackung gut sichtbar,
-deutlich und gut lesbar angebracht sein und dürfen in keiner Weise
-durch andere Angaben oder Bildzeichen oder sonstiges eingefügtes
-Material verdeckt oder undeutlich gemacht werden.
-
-
-## Abschnitt 5 - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
-
-
-
-### § 10 Verkehrsverbote
+### § 7 Verkehrsverbote
 
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
 versehen sind, ohne der in Anlage 1 jeweils festgelegten
@@ -462,15 +340,15 @@ Herstellungsanforderung oder § 2 Absatz 1, 4, 5 Satz 1, Absatz 6 oder
 werden.
 
 
-### § 11 Straftaten und Ordnungswidrigkeiten
+### § 8 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
-fahrlässig entgegen § 5 oder § 8 Absatz 4 ein dort genanntes
-Lebensmittel herstellt oder in den Verkehr bringt.
+fahrlässig entgegen § 5 ein dort genanntes Lebensmittel herstellt oder
+in den Verkehr bringt.
 
 (2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 10 ein
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 7 ein
 Lebensmittel in den Verkehr bringt.
 
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
@@ -480,24 +358,12 @@ Futtermittelgesetzbuches ordnungswidrig.
 (4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 3 Absatz 2 Satz 2, Absatz 3 Satz 1 oder
-Absatz 6 Satz 1, § 6 Absatz 1, § 8 Absatz 1 oder § 9 Satz 1 ein
-Erzeugnis in den Verkehr bringt.
+Absatz 6 Satz 1 oder § 6 Absatz 1 ein Erzeugnis in den Verkehr bringt.
 
 
-### § 12 Übergangsregelung für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+### § 9 Inkrafttreten, Außerkrafttreten
 
-Bis zum 29. November 2020 dürfen Kräuter- und Früchtetee für Säuglinge
-oder Kleinkinder nach den bis zum 28. Mai 2020 geltenden Vorschriften
-hergestellt und gekennzeichnet werden. Nach Satz 1 hergestellte und
-gekennzeichnete Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
-dürfen noch bis zum Abbau der Vorräte in den Verkehr gebracht werden.
-
-
-### § 13 Inkrafttreten, Außerkrafttreten
-
-(1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
-
-(2)
+Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
@@ -505,7 +371,7 @@ dürfen noch bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 Der Bundesrat hat zugestimmt.
 
 
-### Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)
+### Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
 
 (Fundstelle: BGBl. I 2013, 3891 - 3892;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -515,12 +381,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
 
+    *
     *   Bezeichnungen der Lebensmittel
 
     *   Herstellungsanforderungen
 
 
-*    *   1. a)
+*    *   1.
+
+    *   a)
 
     *   Fruchtsaft
 
@@ -551,7 +420,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   b)
+*    *
+    *   b)
 
     *   Fruchtsaft aus
         Fruchtsaftkonzentrat
@@ -559,10 +429,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
         b)  Fruchtsaft aus Fruchtsaftkonzentrat ist das Erzeugnis, das aus
             konzentriertem Fruchtsaft im Sinne der Nummer 2 mit Trinkwasser
-            wiederhergestellt wird, das die in der Richtlinie 98/83/EG des Rates
-            vom 3. November 1998 über die Qualität von Wasser für den menschlichen
-            Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) aufgeführten Anforderungen
-            erfüllt.
+            wiederhergestellt wird, das die Anforderungen erfüllt, die in der
+            Trinkwasserverordnung in der Fassung der Bekanntmachung vom 10. März
+            2016 (BGBl. I S. 459), die zuletzt durch Artikel 1 der Verordnung vom
+            22\. September 2021 (BGBl. I S. 4343) geändert worden ist, in der
+            jeweils geltenden Fassung, aufgeführt sind.
             Fruchtsaft aus Fruchtsaftkonzentrat wird nur mit geeigneten Verfahren
             hergestellt, die die wesentlichen physikalischen, chemischen,
             organoleptischen und nährstoffbezogenen Merkmale eines
@@ -583,6 +454,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.
 
+    *
     *   Konzentrierter Fruchtsaft/Fruchtsaftkonzentrat
 
     *   Konzentrierter Fruchtsaft oder Fruchtsaftkonzentrat ist das Erzeugnis,
@@ -597,6 +469,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
+    *
     *   Mit Wasser extrahierter Fruchtsaft
 
     *   Mit Wasser extrahierter Fruchtsaft ist das Erzeugnis, das durch
@@ -607,6 +480,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.
 
+    *
     *   Getrockneter Fruchtsaft/Fruchtsaftpulver
 
     *   Getrockneter Fruchtsaft oder Fruchtsaftpulver ist das Erzeugnis, das
@@ -617,6 +491,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.
 
+    *
     *   Fruchtnektar
 
     *   Fruchtnektar ist das gärfähige, jedoch nicht gegorene Erzeugnis, das
@@ -627,6 +502,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
+    *
     *
     *   Der Zusatz von Zuckerarten oder Honig ist bis zu höchstens 20 Prozent
         des Gesamtgewichts des fertigen Erzeugnisses zulässig.

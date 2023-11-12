@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.4.2021 I 771
-
-Änderung durch
-:   Art. 2 G v. 25.6.2021 I 2083 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 Abs. 6 G v. 5.7.2021 I 2274 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 Abs. 6 G v. 5.7.2021 I 2274
 
 
 ## Teil I - Erfassung des Warenverkehrs
@@ -811,7 +805,7 @@ ausgenommen, sofern der Transport von Barmitteln oder gleichgestellten
 Zahlungsmitteln ausschließlich zwischen diesen Verpflichteten erfolgt.
 Auf Verlangen der Zollbediensteten müssen die Beauftragten nachweisen,
 dass die Voraussetzungen für die Befreiung von der Anzeigepflicht nach
-Absatz 2 vorliegen.
+Absatz 1 vorliegen.
 
 (4) Zur Überprüfung der Einhaltung der Vorgaben der Absätze 1 bis 3
 haben die Zollbediensteten die Befugnisse nach § 10. Im Bereich der

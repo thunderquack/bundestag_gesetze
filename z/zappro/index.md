@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 933
 
-Geändert durch
-:   Art. 14 G v. 19.5.2020 I 1018
-
-Änderung durch
-:   Art. 1 V v. 22.9.2021 I 4335 (Nr. 67) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 V v. 7.6.2023 I Nr. 148
 
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung
@@ -1515,17 +1512,19 @@ Prüfungskommission abgelegt.
 
 (3) Die Prüfungskommission besteht aus der vorsitzenden Person und
 weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende
-Person zu bestellen. Die der Prüfungskommission vorsitzende Person
-sowie deren stellvertretende Person müssen Hochschullehrer oder
-Hochschullehrerinnen sein. Als weitere Mitglieder und als deren
-stellvertretende Personen werden Hochschullehrer oder
-Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand
-der Prüfung sind, bestellt. Als weitere Mitglieder und als deren
-stellvertretende Personen können auch dem Lehrkörper einer Universität
-nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt
-werden. Für die Fächer der Fächergruppe Zahnerhaltung kann dieselbe
-prüfende Person bestellt werden, wenn nicht für jedes Fach eine Person
-zur Verfügung steht, die die Anforderungen der Sätze 4 bis 6 erfüllt.
+Person zu bestellen. Für die vorsitzende Person und die weiteren
+Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die
+der Prüfungskommission vorsitzende Person sowie deren stellvertretende
+Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als
+weitere Mitglieder und als deren stellvertretende Personen werden
+Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der
+Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere
+Mitglieder und als deren stellvertretende Personen können auch dem
+Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte
+oder Zahnärztinnen bestellt werden. Für die Fächer der Fächergruppe
+Zahnerhaltung kann dieselbe prüfende Person bestellt werden, wenn
+nicht für jedes Fach eine Person zur Verfügung steht, die die
+Anforderungen der Sätze 4 bis 6 erfüllt.
 
 (4) In den Prüfungsterminen ist nur die jeweils in dem Fach prüfende
 Person anwesend.
@@ -2976,15 +2975,15 @@ kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes
 übertragen.
 
 (3) Die Prüfungskommission besteht aus der vorsitzenden Person sowie
-mindestens zwei und höchstens vier weiteren Mitgliedern. Für die
-vorsitzende Person und die weiteren Mitglieder ist jeweils eine
-stellvertretende Person zu bestellen. Als vorsitzende Person, als
-weitere Mitglieder und als deren stellvertretende Personen werden
-Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der
-Fächer bestellt, die Gegenstand der Prüfung sind. Als vorsitzende
-Person, als weitere Mitglieder und als deren stellvertretende Personen
-können auch dem Lehrkörper einer Universität nicht angehörende
-approbierte Zahnärzte und Zahnärztinnen bestellt werden.
+zwei weiteren Mitgliedern. Für die vorsitzende Person und die weiteren
+Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Als
+vorsitzende Person, als weitere Mitglieder und als deren
+stellvertretende Personen werden Hochschullehrer oder
+Hochschullehrerinnen oder andere Lehrkräfte der Fächer bestellt, die
+Gegenstand der Prüfung sind. Als vorsitzende Person, als weitere
+Mitglieder und als deren stellvertretende Personen können auch dem
+Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte
+und Zahnärztinnen bestellt werden.
 
 (4) Die der Prüfungskommission vorsitzende Person leitet die Prüfung
 und prüft selbst.
@@ -2998,8 +2997,7 @@ bestimmt, welches Mitglied der Prüfungskommission die antragstellende
 Person im praktischen Abschnitt der Eignungsprüfung beaufsichtigt.
 
 (6) Die Prüfungskommission trifft ihre Entscheidung mit
-Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der der
-Prüfungskommission vorsitzenden Person den Ausschlag.
+Stimmenmehrheit.
 
 
 #### § 97 Durchführung der Eignungsprüfung
@@ -3401,8 +3399,7 @@ bestimmt, welches Mitglied der Prüfungskommission die antragstellende
 Person im praktischen Abschnitt der Kenntnisprüfung beaufsichtigt.
 
 (6) Die Prüfungskommission trifft ihre Entscheidung mit
-Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der der
-Prüfungskommission vorsitzenden Person den Ausschlag.
+Stimmenmehrheit.
 
 
 #### § 112 Durchführung der Kenntnisprüfung
@@ -4255,7 +4252,7 @@ naturwissenschaftlichen Vorprüfung. In dem Zeugnis über den Ersten
 Abschnitt der Zahnärztlichen Prüfung nach dem Muster der Anlage 16
 sind die Noten der Fächer Physik, Chemie und Biologie in einer Fußnote
 mit dem Hinweis „Es wurden die Urteile der Prüfungen in den Fächern
-der naturwissenschaftlichen Vorprüfung übernommen. “ zu versehen.
+der naturwissenschaftlichen Vorprüfung übernommen.“ zu versehen.
 Sofern das Fach Zoologie Gegenstand der naturwissenschaftlichen
 Prüfung war, ist in dem Zeugnis über den Ersten Abschnitt der
 Zahnärztlichen Prüfung nach dem Muster der Anlage 16 anstelle des

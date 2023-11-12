@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 5 G v. 25.6.2021 I 2056
+:   Art. 6 G v. 20.12.2022 I 2730
 
+Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 
@@ -301,6 +302,24 @@ sowie der Verbrauchsteuern bedarf nicht der Zustimmung des
 Bundesrates.
 
 
+### § 5a Identifikationsnummer
+
+§ 139b Absatz 8 der Abgabenordnung in der Fassung des Artikels 26 des
+Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist ab dem Tag
+anzuwenden, an dem das Bundesministerium des Innern und für Heimat
+nach Artikel 22 Satz 3 des Gesetzes vom 28. März 2021 (BGBl. I S. 591)
+im Bundesgesetzblatt bekannt gibt, dass die technischen
+Voraussetzungen für die Verarbeitung der Identifikationsnummer nach
+Artikel 3 des Gesetzes vom 28. März 2021 (BGBl. I S. 591) vorliegen.
+Für Identifikationsnummern nach § 139b der Abgabenordnung, die vom
+Bundeszentralamt für Steuern vor diesem Tag bereits zugeteilt wurden
+und für die durch die Meldebehörden vergebenen vorläufigen
+Bearbeitungsmerkmale wird das Datum nach § 139b Absatz 6 Satz 1 Nummer
+11 der Abgabenordnung dem Bundeszentralamt für Steuern von den
+Meldebehörden im Rahmen einer Bestandsdatenlieferung einmalig
+mitgeteilt.
+
+
 ### § 6 Zahlungszeitpunkt bei Scheckzahlung
 
 § 224 Abs. 2 Nr. 1 der Abgabenordnung in der Fassung des Artikels 10
@@ -364,16 +383,16 @@ ist, dass die technischen oder organisatorischen Voraussetzungen für
 eine Anwendung des § 152 der Abgabenordnung in der am 1. Januar 2017
 geltenden Fassung noch nicht erfüllt sind.
 
-(5) § 152 Absatz 2 der Abgabenordnung ist nicht auf Steuererklärungen
-zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar
-2022 anzuwenden.
-
 (5) § 152 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in
 der am 29. Dezember 2020 geltenden Fassung ist auf Versicherung- und
 Feuerschutzsteuer erstmals anzuwenden, soweit diese nach dem 31.
 Dezember 2020 anzumelden ist. Hinsichtlich anderer Steuern ist § 152
 Absatz 3 Nummer 4 und Absatz 8 Satz 1 der Abgabenordnung in der am 29.
 Dezember 2020 geltenden Fassung in allen offenen Fällen anzuwenden.
+
+(6) § 152 Absatz 2 der Abgabenordnung ist nicht auf Steuererklärungen
+zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar
+2022 anzuwenden.
 
 
 ### § 9 Aufhebung und Änderung von Verwaltungsakten
@@ -545,6 +564,10 @@ anzuwenden für Besteuerungszeiträume, die nach dem 31. Dezember 2016
 beginnen, und Besteuerungszeitpunkte, die nach dem 31. Dezember 2016
 liegen. § 8 Absatz 4 Satz 3 und 4 ist entsprechend anzuwenden.
 
+(5) § 150 Absatz 7 Satz 2 der Abgabenordnung in der am 21. Dezember
+2022 geltenden Fassung ist auf Steuererklärungen anzuwenden, die nach
+dem 21. Dezember 2022 abgegeben werden.
+
 
 ### § 10b Gesonderte Feststellungen
 
@@ -675,6 +698,10 @@ abgelaufenen Verjährungsfristen.
 Abgabenordnung in der am 25. Juni 2017 geltenden Fassung gelten für
 alle am 24. Juni 2017 noch nicht abgelaufenen Verjährungsfristen.
 
+(6) Die §§ 229 und 230 der Abgabenordnung in der am 21. Dezember 2022
+geltenden Fassung gelten für alle am 21. Dezember 2022 noch nicht
+abgelaufenen Verjährungsfristen.
+
 
 ### § 15 Zinsen
 
@@ -736,6 +763,39 @@ die nach dem 31. Dezember 2016 beginnen. § 239 Absatz 4 der
 Abgabenordnung in der am 1. Januar 2017 geltenden Fassung ist erstmals
 auf Zinsbescheide anzuwenden, die nach dem 31. Dezember 2016 erlassen
 worden sind.
+
+(13) Die §§ 233 und 233a Absatz 2 Satz 2 zweiter Halbsatz, Absatz 3
+Satz 4 und Absatz 5 Satz 4 der Abgabenordnung in der Fassung des
+Artikels 1 des Gesetzes vom 12. Juli 2022 (BGBl. I S. 1142) gelten in
+allen Fällen, in denen Zinsen nach dem 21. Juli 2022 festgesetzt
+werden.
+
+(14) § 233a Absatz 8, § 238 Absatz 1a bis 1c und § 239 Absatz 5 der
+Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 12. Juli
+2022 (BGBl. I S. 1142) sind vorbehaltlich des § 176 Absatz 1 Satz 1
+Nummer 1 der Abgabenordnung und des Absatzes 16 in allen am 21. Juli
+2022 anhängigen Verfahren anzuwenden. Bei Anwendung des § 233a Absatz
+5 Satz 3 zweiter Halbsatz der Abgabenordnung ist für die Minderung von
+Nachzahlungszinsen der Zinssatz maßgeblich, der bei der ursprünglichen
+Festsetzung der Nachzahlungszinsen zugrunde gelegt wurde. § 176 Absatz
+1 Satz 1 Nummer 1 der Abgabenordnung ist dabei mit der Maßgabe
+anzuwenden, dass die Zinsen, die sich aufgrund der Neuberechnung
+bisher festgesetzter Zinsen nach den Sätzen 1 und 2 ergeben, die vor
+Anwendung der Neuberechnung festgesetzten Zinsen nicht übersteigen
+dürfen.
+
+(15) § 239 Absatz 1 Satz 1 und 2 der Abgabenordnung in der Fassung des
+Artikels 1 des Gesetzes vom 12. Juli 2022 (BGBl. I S. 1142) gilt in
+allen Fällen, in denen die Festsetzungsfrist am 21. Juli 2022 noch
+nicht abgelaufen ist.
+
+(16) § 165 Absatz 1 Satz 2 Nummer 2, Satz 4 und Absatz 2 sowie § 171
+Absatz 8 der Abgabenordnung sind auf nach dem 21. Juli 2022 erlassene
+Zinsfestsetzungen nach § 233a der Abgabenordnung für
+Verzinsungszeiträume ab dem 1. Januar 2019 entsprechend anzuwenden,
+solange die technischen und organisatorischen Voraussetzungen für die
+Anwendung des § 238 Absatz 1a der Abgabenordnung in der am 22. Juli
+2022 geltenden Fassung noch nicht vorliegen.
 
 
 ### § 16 Säumniszuschläge
@@ -1019,6 +1079,13 @@ des Artikels 10 Nr. 12 und 16 des Gesetzes vom 13. Dezember 2006
 Änderungsanträge oder Einsprüche vor dem 19. Dezember 2006 gestellt
 oder eingelegt wurden und die Allgemeinverfügung nach dem 19. Dezember
 2006 im Bundessteuerblatt veröffentlicht wird.
+
+
+### § 18b Zuständigkeit für Klagen nach § 32i Absatz 2 der Abgabenordnung
+
+§ 32i Absatz 5 Satz 2 der Abgabenordnung in der am 21. Dezember 2022
+geltenden Fassung ist auf alle nach dem 20. Dezember 2022 anhängig
+gewordenen Klagen anzuwenden.
 
 
 ### § 19
@@ -1492,6 +1559,11 @@ Mitteilung grenzüberschreitender Steuergestaltungen durch ein im
 Bundessteuerblatt zu veröffentlichendes Schreiben von den Absätzen 1
 und 2 abweichende Bestimmungen zu treffen.
 
+(6) § 138e Absatz 3 Satz 6 bis 8 und § 138h Absatz 2 Satz 1 der
+Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 12. Juli
+2022 (BGBl. I S. 1142) sind in allen bei Inkrafttreten dieser
+Vorschriften anhängigen Verfahren anzuwenden.
+
 
 ### § 34 Vorabverständigungsverfahren
 
@@ -1503,11 +1575,15 @@ letztmals auf Anträge anzuwenden, die am 8. Juni 2021 bei der
 zuständigen Behörde eingegangen sind.
 
 
-### § 35 Abrufverfahren von Steuermessbeträgen
+### § 35 Abrufverfahren bei Steuermessbeträgen und Zerlegungsbescheiden
 
-§ 184 Absatz 3 Satz 2 der Abgabenordnung findet erstmals für
-Steuermessbeträge Anwendung, die für Realsteuern des Jahres 2025
-maßgeblich sind.
+§ 184 Absatz 3 Satz 2 und § 188 Absatz 1 Satz 2 der Abgabenordnung
+finden erstmals für die Steuermessbeträge und Zerlegungsbescheide
+Anwendung, die für Realsteuern des Jahres 2025 maßgeblich sind. Für
+Zwecke der Grundsteuer findet § 188 Absatz 1 Satz 2 der Abgabenordnung
+erst Anwendung, wenn die technischen und organisatorischen
+Voraussetzungen für den elektronischen Abruf erfüllt sind, spätestens
+aber ab dem 1. Januar 2025.
 
 
 ### § 36 Sonderregelungen auf Grund der Corona-Pandemie
@@ -1526,56 +1602,248 @@ Absatz 2 Satz 2 der Abgabenordnung in der am 19. Februar 2021
 geltenden Fassung beginnt der Zinslauf für den Besteuerungszeitraum
 2019 am 1. Mai 2022.
 
-(3) Für den Besteuerungszeitraum 2020 sind die §§ 109, 149, 152 und
-233a der Abgabenordnung in der am 1. Juli 2021 geltenden Fassung mit
-folgenden Maßgaben anzuwenden:
+(3) Für die Besteuerungszeiträume 2020 bis 2024 sind die §§ 109, 149,
+152 und 233a der Abgabenordnung in der am 23. Juni 2022 geltenden
+Fassung mit folgenden Maßgaben anzuwenden:
 
-1.  In § 109 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung tritt an die
-    Stelle des letzten Tags des Monats Februar 2022 der 31. Mai 2022.
+1.  In § 109 Absatz 2 Satz 1 Nummer 1 und § 149 Absatz 3 und 4 Satz 1 und
+    3 der Abgabenordnung tritt jeweils an die Stelle des letzten Tags des
+    Monats Februar des zweiten auf den Besteuerungszeitraum folgenden
+    Kalenderjahres
+
+    a)  für den Besteuerungszeitraum 2020 der 31. August 2022,
 
 
-2.  In § 109 Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle des
-    31\. Juli 2022 der 31. Oktober 2022.
+    b)  für den Besteuerungszeitraum 2021 der 31. August 2023,
 
 
-3.  In § 149 Absatz 2 Satz 1 der Abgabenordnung tritt jeweils an die
-    Stelle der Angabe „sieben Monate“ die Angabe „zehn Monate“.
+    c)  für den Besteuerungszeitraum 2022 der 31. Juli 2024,
+
+
+    d)  für den Besteuerungszeitraum 2023 der 31. Mai 2025 und
+
+
+    e)  für den Besteuerungszeitraum 2024 der 30. April 2026.
+
+
+
+
+
+2.  In § 109 Absatz 2 Satz 2 und § 149 Absatz 3 und 4 Satz 5 der
+    Abgabenordnung tritt jeweils an die Stelle des 31. Juli des zweiten
+    auf den Besteuerungszeitraum folgenden Kalenderjahres
+
+    a)  für den Besteuerungszeitraum 2020 der 31. Januar 2023,
+
+
+    b)  für den Besteuerungszeitraum 2021 der 31. Januar 2024,
+
+
+    c)  für den Besteuerungszeitraum 2022 der 31. Dezember 2024,
+
+
+    d)  für den Besteuerungszeitraum 2023 der 31. Oktober 2025 und
+
+
+    e)  für den Besteuerungszeitraum 2024 der 30. September 2026.
+
+
+
+
+
+3.  In § 149 Absatz 2 Satz 1 der Abgabenordnung tritt an die Stelle der
+    Angabe „sieben Monate“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „zehn Monate“,
+
+
+    b)  für den Besteuerungszeitraum 2022 die Angabe „neun Monate“ und
+
+
+    c)  für den Besteuerungszeitraum 2023 die Angabe „acht Monate“.
+
+
+
 
 
 4.  In § 149 Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle der
-    Angabe „des siebten Monats“ die Angabe „des zehnten Monats“.
+    Angabe „des siebten Monats“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „des zehnten
+        Monats“,
 
 
-5.  In § 149 Absatz 3 der Abgabenordnung tritt an die Stelle des letzten
-    Tags des Monats Februar 2022 der 31. Mai 2022 und an die Stelle des
-    31\. Juli 2022 der 31. Oktober 2022.
+    b)  für den Besteuerungszeitraum 2022 die Angabe „des neunten Monats“ und
 
 
-6.  In § 149 Absatz 4 Satz 1 und 3 der Abgabenordnung tritt jeweils an die
-    Stelle des letzten Tags des Monats Februar 2022 der 31. Mai 2022.
-
-
-7.  In § 149 Absatz 4 Satz 5 der Abgabenordnung tritt an die Stelle des
-    31\. Juli 2022 der 31. Oktober 2022.
-
-
-8.  In § 152 Absatz 2 Nummer 1 der Abgabenordnung tritt jeweils an die
-    Stelle der Angabe „14 Monaten“ die Angabe „17 Monaten“.
-
-
-9.  In § 152 Absatz 2 Nummer 2 der Abgabenordnung tritt jeweils an die
-    Stelle der Angabe „19 Monaten“ die Angabe „22 Monaten“.
-
-
-10. In § 233a Absatz 2 Satz 1 der Abgabenordnung tritt an die Stelle der
-    Angabe „15 Monate“ die Angabe „18 Monate“.
-
-
-11. In § 233a Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle der
-    Angabe „23 Monate“ die Angabe „26 Monate“.
+    c)  für den Besteuerungszeitraum 2023 die Angabe „des achten Monats“.
 
 
 
+
+
+5.  In § 152 Absatz 2 Nummer 1 der Abgabenordnung tritt an die Stelle der
+    Angabe „14 Monaten“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „20 Monaten“,
+
+
+    b)  für den Besteuerungszeitraum 2022 die Angabe „19 Monaten“,
+
+
+    c)  für den Besteuerungszeitraum 2023 die Angabe „17 Monaten“ und
+
+
+    d)  für den Besteuerungszeitraum 2024 die Angabe „16 Monaten“.
+
+
+
+
+
+6.  In § 152 Absatz 2 Nummer 2 der Abgabenordnung tritt an die Stelle der
+    Angabe „19 Monaten“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „25 Monaten“,
+
+
+    b)  für den Besteuerungszeitraum 2022 die Angabe „24 Monaten“,
+
+
+    c)  für den Besteuerungszeitraum 2023 die Angabe „22 Monaten“ und
+
+
+    d)  für den Besteuerungszeitraum 2024 die Angabe „21 Monaten“.
+
+
+
+
+
+7.  In § 233a Absatz 2 Satz 1 der Abgabenordnung tritt an die Stelle der
+    Angabe „15 Monate“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „21 Monate“,
+
+
+    b)  für den Besteuerungszeitraum 2022 die Angabe „20 Monate“,
+
+
+    c)  für den Besteuerungszeitraum 2023 die Angabe „18 Monate“ und
+
+
+    d)  für den Besteuerungszeitraum 2024 die Angabe „17 Monate“.
+
+
+
+
+
+8.  In § 233a Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle der
+    Angabe „23 Monate“
+
+    a)  für die Besteuerungszeiträume 2020 und 2021 die Angabe „29 Monate“,
+
+
+    b)  für den Besteuerungszeitraum 2022 die Angabe „28 Monate“,
+
+
+    c)  für den Besteuerungszeitraum 2023 die Angabe „26 Monate“ und
+
+
+    d)  für den Besteuerungszeitraum 2024 die Angabe „25 Monate“.
+
+
+
+
+
+
+
+
+### § 37 Modernisierung der Außenprüfung
+
+(1) Die durch Artikel 3 des Gesetzes vom 20. Dezember 2022 (BGBl. I S.
+2730) geänderten Vorschriften der Abgabenordnung sind auf alle am 1.
+Januar 2023 anhängigen Verfahren anzuwenden, soweit in den Absätzen 2
+bis 4 nichts anderes bestimmt ist.
+
+(2) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz
+5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, §
+171 Absatz 4, § 180 Absatz 1a, § 181 Absatz 1 Satz 4, § 197 Absatz 5,
+§ 199 Absatz 2 Satz 2 und 3, die §§ 200a, 202 Absatz 1 Satz 4 und
+Absatz 3 sowie § 204 Absatz 2 der Abgabenordnung in der am 1. Januar
+2023 geltenden Fassung sind vorbehaltlich des Absatzes 3 erstmals auf
+Steuern und Steuervergütungen anzuwenden, die nach dem 31. Dezember
+2024 entstehen. Für Steuern und Steuervergütungen, die vor dem 1.
+Januar 2025 entstehen, sind § 90 Absatz 3 Satz 5 bis 11, § 162 Absatz
+3 und 4, § 171 Absatz 4 sowie § 204 der Abgabenordnung in der am 31.
+Dezember 2022 geltenden Fassung vorbehaltlich des Absatzes 3 weiterhin
+anzuwenden. Die Sätze 1 und 2 gelten für gesonderte Feststellungen von
+Besteuerungsgrundlagen entsprechend.
+
+(3) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz
+5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, §
+180 Absatz 1a, § 181 Absatz 1 Satz 4, § 199 Absatz 2 Satz 2 und 3, §
+200a Absatz 1 bis 3 und 6, § 202 Absatz 1 Satz 4 und Absatz 3 sowie §
+204 Absatz 2 der Abgabenordnung in der am 1. Januar 2023 geltenden
+Fassung sind abweichend von Absatz 2 auch für Steuern und
+Steuervergütungen anzuwenden, die vor dem 1. Januar 2025 entstehen,
+wenn für diese Steuern und Steuervergütungen nach dem 31. Dezember
+2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung
+bekanntgegeben wurde. Satz 1 gilt für gesonderte Feststellungen von
+Besteuerungsgrundlagen entsprechend.
+
+(4) § 146 Absatz 2c der Abgabenordnung in der am 1. Januar 2025
+geltenden Fassung ist vorbehaltlich des Satzes 3 erstmals auf Steuern
+und Steuervergütungen anzuwenden, die nach dem 31. Dezember 2024
+entstehen. Für Steuern und Steuervergütungen, die vor dem 1. Januar
+2025 entstehen, ist § 146 Absatz 2c der Abgabenordnung in der am 1.
+Januar 2023 geltenden Fassung vorbehaltlich des Satzes 3 weiterhin
+anzuwenden. § 146 Absatz 2c der Abgabenordnung in der am 1. Januar
+2025 geltenden Fassung ist für Steuern und Steuervergütungen, die vor
+dem 1. Januar 2025 entstehen, abweichend von Satz 2 auch für Steuern
+und Steuervergütungen anzuwenden, die vor dem 1. Januar 2025
+entstehen, wenn für diese Steuern und Steuervergütungen nach dem 31.
+Dezember 2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung
+bekanntgegeben wurde. Die Sätze 1 bis 3 gelten für gesonderte
+Feststellungen von Besteuerungsgrundlagen entsprechend.
+
+
+### § 38 Erprobung alternativer Prüfungsmethoden
+
+(1) Soweit im Rahmen einer Außenprüfung eines Steuerpflichtigen nach
+den §§ 193 bis 202 der Abgabenordnung die Wirksamkeit eines von ihm
+eingesetzten Steuerkontrollsystems hinsichtlich der erfassten
+Steuerarten oder Sachverhalte überprüft wurde und kein oder nur ein
+unbeachtliches steuerliches Risiko für die in § 149 Absatz 3 der
+Abgabenordnung genannten Steuern und gesonderten Feststellungen
+besteht, kann die Finanzbehörde im Benehmen mit dem Bundeszentralamt
+für Steuern dem Steuerpflichtigen auf Antrag unter dem Vorbehalt des
+Widerrufs für die nächste Außenprüfung nach § 193 Absatz 1 der
+Abgabenordnung Beschränkungen von Art und Umfang der Ermittlungen
+unter der Voraussetzung verbindlich zusagen, dass keine Änderungen der
+Verhältnisse eintreten. Der Steuerpflichtige hat Veränderungen des
+Kontrollsystems zu dokumentieren und sie der Finanzbehörde
+unverzüglich schriftlich oder elektronisch mitzuteilen.
+
+(2) Ein Steuerkontrollsystem umfasst alle innerbetrieblichen
+Maßnahmen, die gewährleisten, dass
+
+1.  die Besteuerungsgrundlagen zutreffend aufgezeichnet und berücksichtigt
+    werden sowie
+
+
+2.  die hierauf entfallenden Steuern fristgerecht und vollständig
+    abgeführt werden.
+
+
+
+Das Steuerkontrollsystem muss die steuerlichen Risiken laufend
+abbilden.
+
+(3) Systemprüfungen von Steuerkontrollsystemen und daraufhin nach
+Absatz 1 Satz 1 zugesagte Erleichterungen sind von den
+Landesfinanzbehörden bis zum 30. April 2029 zu evaluieren. Die
+obersten Finanzbehörden der Länder haben die Ergebnisse der
+Evaluierung dem Bundesministerium der Finanzen bis zum 30. Juni 2029
+mitzuteilen.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands

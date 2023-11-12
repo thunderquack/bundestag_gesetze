@@ -16,28 +16,10 @@ Fundstelle
 :   BGBl I: 2005, 2618 (3007)
 
 Neugefasst durch
-:   Bek. v. 3.6.2013 I 1426;
+:   Bek. v. 15.9.2021 I 4253; 2022 I 28
 
 Zuletzt geändert durch
-:   Art. 10 G v. 12.5.2021 I 1087
-
-Mittelbare änderung durch
-:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
-
-Änderung durch
-:   Art. 1 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Neufassung durch
-:   Bek. v. 15.9.2021 I 4253; 2022 I 28 (aus 2021 Nr. 66 u. aus 2022 Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 6 G v. 20.12.2022 I 2752
 
 [^F775632_01_BJNR261810005]:     Das Gesetz dient der Umsetzung der in der Anlage zu Fußnote
     1               ) des Gesetzes zur Neuordnung des Lebensmittel- und
@@ -245,28 +227,29 @@ Bedarfsgegenstände sind nicht
     a)  nach § 2 Absatz 2 des Arzneimittelgesetzes als Arzneimittel gelten,
 
 
-[^F818251_02_BJNR261810005BJNE000324116]
-        b)
-    *   nach Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des
+    b)  nach Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des
         Europäischen Parlaments und des Rates vom 5. April 2017 über
         Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der
         Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und
         zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl.
-        L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
+        L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
         27\.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L
         130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils
-        geltenden Fassung und im Sinne des § 3 Nummer 4 und 9 des
-        Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
-        geltenden Fassung als Medizinprodukte oder als Zubehör für
-        Medizinprodukte gelten,
+        geltenden Fassung und im Sinne von Artikel 2 Nummer 2 und 4 der
+        Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom
+        5\. April 2017 über In-vitro-Diagnostika und zur Aufhebung der
+        Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission
+        (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom
+        27\.12.2019, S. 167) in der jeweils geltenden Fassung als
+        Medizinprodukte oder als Zubehör für Medizinprodukte gelten,
 
 
     c)  nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012
         des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die
         Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten
-        (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 280
+        (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 280
         vom 28.10.2017, S. 57), die zuletzt durch die Verordnung (EU) Nr.
-        334/2014 (ABl. L 103 vom 5.4.2014, S. 22; L 305 vom 21.11.2015, S. 55)
+        334/2014 (ABl. L 103 vom 5.4.2014, S. 22; L 305 vom 21.11.2015, S. 55)
         geändert worden ist, Biozid-Produkte sind,
 
 
@@ -284,17 +267,6 @@ Bedarfsgegenstände sind nicht
 
 
 
-    Gemäß Artikel 10 in Verbindung mit Artikel 20 Absatz 5 des Gesetzes
-    vom 12. Mai 2021 (BGBl. I S. 1087) werden am 26. Mai 2022 die Wörter
-    „des § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis
-    einschließlich 25. Mai 2021 geltenden Fassung“ durch die Wörter „von
-    Artikel 2 Nummer 2 und 4 der Verordnung (EU) 2017/746 des Europäischen
-    Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika
-    und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses
-    2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom
-    3\.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils
-    geltenden Fassung“ ersetzt.
-[^F818251_02_BJNR261810005BJNE000324116]: 
 
 ### § 3 Weitere Begriffsbestimmungen
 
@@ -3096,7 +3068,7 @@ durch den Lebensmittel- oder Futtermittelunternehmer oder den
 sonstigen Wirtschaftsbeteiligten hinweisen. Die Behörde kann unter den
 Voraussetzungen des Satzes 1 auch auf eine Information der
 Öffentlichkeit einer anderen Behörde hinweisen, soweit berechtigte
-Interessen der Endverbraucherin ihrem eigenen Zuständigkeitsbereich
+Interessen der Endverbraucher in ihrem eigenen Zuständigkeitsbereich
 berührt sind.
 
 (3) Bevor die Behörde die Öffentlichkeit nach den Absätzen 1 und 1a
@@ -3470,7 +3442,7 @@ Futtermitteln.
 
 ### § 44 Duldungs-, Mitwirkungs- und Übermittlungspflichten
 
-(1) Die Inhaberinnen oder Inhaber der in § 42 Absatz 2 bezeichneten
+(1) Die Inhaberinnen oder Inhaber der in § 42 Absatz 2 bezeichneten
 Grundstücke, Räume, Einrichtungen und Geräte und die von ihnen
 bestellten Vertreter sind verpflichtet, die Maßnahmen nach den §§ 42
 bis 43a sowie der Delegierten Verordnung (EU) 2019/2090 zu dulden und
@@ -3488,7 +3460,7 @@ Aufgabe zu unterstützen, insbesondere ihnen auf Verlangen
 
 
 
-(2) Die in § 42 Absatz 2 Nummer 5 genannten Personen und
+(2) Die in § 42 Absatz 2 Nummer 5 genannten Personen und
 Personenvereinigungen sind verpflichtet, den in der Überwachung
 tätigen Personen auf Verlangen unverzüglich die dort genannten
 Auskünfte zu erteilen. Vorbehaltlich des Absatzes 3 kann der zur
@@ -3498,11 +3470,7 @@ deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer
 strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde.
 
-[^F818251_03_BJNR261810005BJNE004511116]
-(3)
-[^F818251_04_BJNR261810005BJNE004511116]
-,
-Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist
+(3) Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist
 verpflichtet, den in der Überwachung tätigen Personen auf Verlangen
 Informationen, die
 
@@ -3517,7 +3485,7 @@ Informationen, die
 
 
 
-zu übermitteln. Sind die in
+zu übermitteln. Die in
 
 1.  Satz 1 oder
 
@@ -3527,8 +3495,14 @@ zu übermitteln. Sind die in
 
 
 
-genannten Informationen in elektronischer Form verfügbar, sind sie
-elektronisch zu übermitteln.
+genannten Informationen sind so vorzuhalten, dass sie der zuständigen
+Behörde spätestens 24 Stunden nach Aufforderung in einem
+strukturierten, gängigen und maschinenlesbaren Format elektronisch
+übermittelt werden können. Die zuständige Behörde kann im Einzelfall
+Ausnahmen von den Anforderungen des Satzes 2 zulassen, soweit dies zur
+Vermeidung unbilliger Härten für den Lebensmittel- oder
+Futtermittelunternehmer geboten erscheint und es mit den in § 1 Absatz
+1 Nummer 1 genannten Zwecken vereinbar ist.
 
 (4) Ergänzend zu Artikel 19 Absatz 1 Satz 1 der Verordnung (EG) Nr.
 178/2002 hat ein Lebensmittelunternehmer, der Grund zu der Annahme
@@ -3672,57 +3646,6 @@ Erfüllung der in
 
 genannten Zwecke verwendet werden.
 
-[^F818251_03_BJNR261810005BJNE004511116]:     § 44 Absatz 3 gilt gemäß Artikel 1 Nummer 33 Buchstabe b in Verbindung
-    mit Artikel 12 Absatz 2 des Gesetzes vom 27. Juli 2021 (BGBl. I S.
-    3274) ab 1. September 2022 in folgender Fassung:
-     (3) Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist
-    verpflichtet, den in der Überwachung tätigen Personen auf Verlangen
-    Informationen, die
-
-
-1\.
-
-er aufgrund eines nach Artikel 18 Absatz 2 Unterabsatz 2 der
-Verordnung (EG) Nr. 178/2002, auch in Verbindung mit Artikel 5 Absatz
-1 der Verordnung (EG) Nr. 767/2009, eingerichteten Systems oder
-Verfahrens besitzt und
-
-
-2\.
-
-zur Rückverfolgbarkeit bestimmter Lebensmittel oder Futtermittel
-erforderlich sind,
-
-
-zu übermitteln. Die in
-
-
-1\.
-
-Satz 1 oder
-
-
-2\.
-
-Artikel 18 Absatz 3 Satz 2 der Verordnung (EG) Nr. 178/2002, auch in
-Verbindung mit Artikel 5 Absatz 1 der Verordnung (EG) Nr. 767/2009,
-
-
-genannten Informationen sind so vorzuhalten, dass sie der zuständigen
-Behörde spätestens 24 Stunden nach Aufforderung elektronisch
-übermittelt werden können. Die zuständige Behörde kann im Einzelfall
-Ausnahmen von den Anforderungen des Satzes 2 zulassen, soweit dies zur
-Vermeidung unbilliger Härten für den Lebensmittel- oder
-Futtermittelunternehmer geboten erscheint und es mit den in § 1 Absatz
-1 Nummer 1 genannten Zwecken vereinbar ist.
-
-
-
-Gemäß Artikel 2 in Verbindung mit Artikel 12 Absatz 3 des Gesetzes vom
-27\. Juli 2021 (BGBl. I S. 3274) werden am 31. Dezember 2022 in § 44
-Absatz 3 Satz 2 nach dem Wort „Aufforderung“ die Wörter „in einem
-strukturierten, gängigen und maschinenlesbaren Format“ eingefügt.
-[^F818251_04_BJNR261810005BJNE004511116]: 
 
 ### § 44a Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen
 
@@ -6470,11 +6393,8 @@ dieser die Befugnis übertragen. Die obersten Landesbehörden können die
 Befugnisse nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 
 
-### § 73 Verkündung von Rechtsverordnungen
+### § 73 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 74 Geltungsbereich bestimmter Vorschriften

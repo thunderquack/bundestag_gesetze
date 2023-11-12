@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.7.2020 I 1653
-
-Änderung durch
-:   Art. 3 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 11.7.2021 I 2754 ist berücksichtigt
+:   Art. 17 G v. 22.2.2023 I Nr. 51
 
 
 ## Teil 1 - Allgemeiner Teil
@@ -284,7 +278,7 @@ erhalten, die Auskünfte dem Versicherungsnehmer gemäß Absatz 1 oder
 Absatz 2 unmittelbar nach Abschluss des Versicherungsvertrags erteilt.
 
 
-##### § 7 Information des Versicherungsnehmers
+##### § 7 Information des Versicherungsnehmers; Verordnungsermächtigung
 
 (1) Der Versicherer hat dem Versicherungsnehmer rechtzeitig vor Abgabe
 von dessen Vertragserklärung seine Vertragsbestimmungen einschließlich
@@ -301,10 +295,12 @@ wenn der Versicherungsnehmer durch eine gesonderte schriftliche
 Erklärung auf eine Information vor Abgabe seiner Vertragserklärung
 ausdrücklich verzichtet.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zweck einer
-umfassenden Information des Versicherungsnehmers festzulegen,
+(2) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium der Finanzen und im Benehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des
+Bundesrates zum Zweck einer umfassenden Information des
+Versicherungsnehmers festzulegen,
 
 1.  welche Einzelheiten des Vertrags, insbesondere zum Versicherer, zur
     angebotenen Leistung und zu den Allgemeinen Versicherungsbedingungen
@@ -629,7 +625,7 @@ dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist
 beginnt nicht vor Zugang dieser Unterlagen.
 
 
-##### § 8 Widerrufsrecht des Versicherungsnehmers
+##### § 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung
 
 (1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von
 14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem
@@ -706,6 +702,16 @@ Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 1
 Nummer 2 auf Format und Schriftgröße oder darauf, dass der Versicherer
 Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringt,
 so ist Satz 1 anzuwenden.
+
+(5) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium der Finanzen und im Benehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die Informationspflichten nach Abschnitt 2 der Anlage und
+die dazu erteilten Gestaltungshinweise zu ändern, wenn dies
+erforderlich ist, um die Informationspflichten nach Abschnitt 2 der
+Anlage und die dazu erteilten Gestaltungshinweise an eine Änderung der
+VVG-Informationspflichtenverordnung anzupassen.
 
 
 ##### § 9 Rechtsfolgen des Widerrufs
@@ -3437,14 +3443,22 @@ ist, steht das Kündigungsrecht dem Versicherungsnehmer auch dann zu,
 wenn die Prämie in einer einmaligen Zahlung besteht.
 
 (3) Die Absätze 1 und 2 sind nicht auf einen für die Altersvorsorge
-bestimmten Versicherungsvertrag anzuwenden, bei dem der
-Versicherungsnehmer mit dem Versicherer eine Verwertung vor dem
-Eintritt in den Ruhestand unwiderruflich ausgeschlossen hat; der Wert
-der vom Ausschluss der Verwertbarkeit betroffenen Ansprüche darf die
-in § 12 Abs. 2 Nr. 3 des Zweiten Buches Sozialgesetzbuch bestimmten
-Beträge nicht übersteigen. Entsprechendes gilt, soweit die Ansprüche
-nach § 851c oder § 851d der Zivilprozessordnung nicht gepfändet werden
-dürfen.
+bestimmten Versicherungsvertrag anzuwenden,
+
+1.  wenn die Vertragsparteien bei einem nach § 5a des
+    Altersvorsorgeverträge-Zertifizierungsgesetzes zertifizierten
+    Basisrentenvertrag die Verwertung der Ansprüche gemäß § 10 Absatz 1
+    Nummer 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ausgeschlossen
+    haben oder
+
+
+2.  soweit die Vertragsparteien eine Verwertung unwiderruflich
+    ausgeschlossen haben und dieser Ausschluss erforderlich ist, um den
+    Pfändungsschutz nach § 851c der Zivilprozessordnung oder § 851d der
+    Zivilprozessordnung herbeizuführen.
+
+
+
 
 
 #### § 169 Rückkaufswert
@@ -4632,6 +4646,12 @@ der Europäischen Gemeinschaft oder eines anderen Vertragsstaats des
 Abkommens über den Europäischen Wirtschaftsraum einen Konzernabschluss
 aufzustellen hat, so sind für die Feststellung der Unternehmensgröße
 die Zahlen des Konzernabschlusses maßgebend.
+
+
+### § 210a Elektronische Transportversicherungspolice
+
+Der Urkunde nach § 4 oder § 55 gleichgestellt ist eine elektronische
+Transportversicherungspolice nach § 365a des Handelsgesetzbuchs.
 
 
 ### § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen

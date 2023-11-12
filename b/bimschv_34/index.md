@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 516
 
 Zuletzt geändert durch
-:   Art. 111 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 28.5.2021 I 1251 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 28.5.2021 I 1251
 
 Die Rechtsverordnung dient der Umsetzung der Richtlinie 2002/49/EG des
 Europäischen Parlaments und des Rates vom 25. Juni 2002 über die

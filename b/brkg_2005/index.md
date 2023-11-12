@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1418
 
 Zuletzt geändert durch
-:   Art. 68 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 9 G v. 28.6.2021 I 2250 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 28.6.2021 I 2250
 
 
 ## § 1 Geltungsbereich

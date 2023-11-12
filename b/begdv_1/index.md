@@ -18,10 +18,7 @@ Fundstelle
 Stand: Konstitutive Neufassung gem. Art. I V v. 13.4.1966, in Kraft getreten am 4.5.1966
 Stand: Ersetzt V v. 7.9.1954 I 271
 Zuletzt geändert durch
-:   Art. 1 V v. 18.4.2019 I 487
-
-Änderung durch
-:   Art. 1 V v. 2.12.2021 I 5049 (Nr. 81) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 2.12.2021 I 5049
 
 
 ## I. - Besondere Anspruchsvoraussetzungen

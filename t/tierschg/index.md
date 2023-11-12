@@ -19,19 +19,10 @@ Neugefasst durch
 :   Bek. v. 18.5.2006 I 1206, 1313;
 
 Zuletzt geändert durch
-:   Art. 280 V v. 19.6.2020 I 1328
+:   Art. 2 Abs. 20 G v. 20.12.2022 I 2752
 
-Änderung durch
-:   Art. 1 G v. 18.6.2021 I 1826 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 18.6.2021 I 1826 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 18.6.2021 I 1828 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 105 G v. 10.8.2021 I 3436 (Nr. 53) ist berücksichtigt
+Mittelbare änderung durch
+:   Art. 2a G v. 17.8.2023 I Nr. 219 ist berücksichtigt
 
 
 ## Erster Abschnitt - Grundsatz
@@ -3408,13 +3399,6 @@ dieser Vorschriften erforderlich ist.
 
 ### § 21c (weggefallen)
 
-
-
-### § 21d
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### § 22

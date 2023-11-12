@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 1387
 
 Zuletzt geändert durch
-:   Art. 10 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 14 Abs. 5 G v. 28.6.2021 I 2250 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 Abs. 5 G v. 28.6.2021 I 2250
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

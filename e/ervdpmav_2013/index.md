@@ -69,10 +69,16 @@ Deutschen Patent- und Markenamt auch signaturfrei eingereicht werden:
     a)  Anmeldungen,
 
 
-    b)  Anträge auf Feststellung oder Erklärung der Nichtigkeit.
+    b)  Anträge auf Feststellung oder Erklärung der Nichtigkeit,
 
 
 
+
+
+3.  für internationale Anmeldungen in Verfahren nach Artikel III des
+    Gesetzes über internationale Patentübereinkommen vom 21. Juni 1976
+    (BGBl. 1976 II S. 649), das zuletzt durch Artikel 2 des Gesetzes vom
+    10\. August 2021 (BGBl. I S. 3490) geändert worden ist.
 
 
 
@@ -130,12 +136,24 @@ versehen
 Die elektronische Signatur muss durch das Deutsche Patent- und
 Markenamt oder durch eine von ihm beauftragte Stelle überprüfbar sein.
 
-(4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen von
-Patenten beim Deutschen Patent- und Markenamt auch unter Verwendung
-des für deutsche Patentanmeldungen entwickelten Anmeldesystems (DE-
-Modul) der vom Europäischen Patentamt herausgegebenen Software epoline
-eingereicht werden. Die jeweils im Amtsblatt des Europäischen
-Patentamts bekannt gemachten technischen Bedingungen sind anzuwenden.
+(4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen nach dem
+Patentgesetz und internationale Anmeldungen nach Artikel III des
+Gesetzes über internationale Patentübereinkommen beim Deutschen
+Patent- und Markenamt auch unter Verwendung der für diese Anmeldungen
+bestimmten Module des elektronischen Anmeldesystems des Europäischen
+Patentamts eingereicht werden. Das Deutsche Patent- und Markenamt
+macht über die Internetseite www.dpma.de bekannt, wann diese
+Anmeldewege eröffnet und welche technischen Bedingungen für die
+Einreichung maßgeblich sind.
+
+(5) Abweichend von den Absätzen 1 bis 4 können internationale
+Anmeldungen nach Artikel III des Gesetzes über internationale
+Patentübereinkommen beim Deutschen Patent- und Markenamt auch unter
+Verwendung der für diese Anmeldungen bestimmten elektronischen
+Anmeldesysteme der Weltorganisation für geistiges Eigentum eingereicht
+werden. Das Deutsche Patent- und Markenamt macht über die
+Internetseite www.dpma.de bekannt, wann diese Anmeldewege eröffnet und
+welche technischen Bedingungen für die Einreichung maßgeblich sind.
 
 
 ## § 4 Bekanntgabe der Bearbeitungsvoraussetzungen

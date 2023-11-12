@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.8.1990 I 1809;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.1.2019 I 2
+:   Art. 5 V v. 10.3.2022 I 428
 
 
 ## § 1 Gesetzliche Handelsklassen
@@ -30,7 +30,10 @@ Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame
 Marktorganisation für landwirtschaftliche Erzeugnisse und zur
 Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
 Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
-671) sowie die in Anlage 1 bezeichneten Handelsklassen.
+671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom
+9\.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die
+Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert
+worden ist, sowie die in Anlage 1 bezeichneten Handelsklassen.
 
 
 ## § 2 Einstufung in Handelsklassen
@@ -141,6 +144,13 @@ Tieren (ABl. L 171 vom 4.7.2017, S. 74) zu kennzeichnen.
 entfällt, wenn die Voraussetzungen gemäß Artikel 8 Absatz 6 Buchstabe
 a oder Buchstabe b der Delegierten Verordnung (EU) 2017/1182 erfüllt
 sind.
+
+
+## § 4a Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
+die zuständige Behörde die Daten nach Abschnitt III der Anlage des
+Marktorganisationsgesetzes.
 
 
 ## § 5 Ordnungswidrigkeiten

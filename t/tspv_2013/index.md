@@ -17,7 +17,7 @@ Fundstelle
 :   VkBl: 2013, 331
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 V v. 26.11.2021 I 4982, 5204
+:   Art. 3 V v. 22.9.2022 I 1518
 
 
 ## Eingangsformel
@@ -321,6 +321,10 @@ festgelegte Altersgrenze nicht auf Mietbooten mit Elektromotor.
 
 
 
+
+(7) Wenn der Inhaber eines Schifferdienstbuches dies verlangt, hat der
+Schiffsführer die Eintragungen der Fahrzeit im Schifferdienstbuch
+vorzunehmen.
 
 
 ## § 6 Kennzeichnung der Fahrzeuge

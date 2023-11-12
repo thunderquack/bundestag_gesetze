@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2056
 
+Zuletzt geändert durch
+:   Art. 8 Abs. 2 G v. 20.12.2022 I 2730
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -318,38 +321,51 @@ Absatz 2 Satz 2 des Außensteuergesetzes ist nicht anzuwenden und Satz
 
 ### § 10 Quellensteuermaßnahmen
 
-Über § 49 des Einkommensteuergesetzes hinaus liegen steuerpflichtige
-Einkünfte natürlicher Personen, Körperschaften, Personenvereinigungen
-oder Vermögensmassen, die in einem nicht kooperativen
-Steuerhoheitsgebiet ansässig sind, auch vor, soweit sie Einkünfte
-erzielen aus
+(1) Über § 49 des Einkommensteuergesetzes hinaus liegen
+steuerpflichtige Einkünfte derjenigen natürlichen Personen sowie
+derjenigen Körperschaften, Personenvereinigungen oder Vermögensmassen,
+die in einem nicht kooperativen Steuerhoheitsgebiet ansässig sind,
+auch vor, soweit sie Einkünfte erzielen aus
 
-1.  Finanzierungsbeziehungen,
-
-
-2.  Versicherungs- oder Rückversicherungsleistungen,
-
-
-3.  der Erbringung von Dienstleistungen, soweit nicht bereits Nummern 1
-    und 2, oder
+1.  Finanzierungsbeziehungen. Inhaberschuldverschreibungen, die durch eine
+    Globalurkunde verbrieft und im Rahmen der Girosammelverwahrung bei
+    einem Zentralverwahrer verwahrt werden und mit diesen vergleichbare
+    Schuldtitel, die an einer anerkannten Börse im Sinne des § 138 Absatz
+    2 Satz 1 Nummer 3 Buchstabe b Satz 2 der Abgabenordnung handelbar
+    sind, gelten nicht als Finanzierungsbeziehungen;
 
 
-4.  dem Handel mit Waren oder Dienstleistungen,
+2.  Versicherungs- oder Rückversicherungsprämien;
+
+
+3.  der Erbringung von Dienstleistungen, soweit sie nicht bereits von den
+    Nummern 1 und 2 erfasst sind. Nutzungsüberlassungen gelten nicht als
+    Erbringung von Dienstleistungen;
+
+
+4.  dem Handel mit Waren oder Dienstleistungen im Sinne der Nummer 3 oder
+
+
+5.  der Vermietung und Verpachtung oder der Veräußerung von Rechten, die
+    in ein inländisches öffentliches Buch oder Register eingetragen sind.
 
 
 
-die nach § 2 Absatz 1 Satz 1 erster Halbsatz des
+Steuerpflichtige Einkünfte nach Satz 1 liegen bei dessen Nummern 1 bis
+4 nur vor, wenn sie nach § 2 Absatz 1 Satz 1 erster Halbsatz des
 Einkommensteuergesetzes bei unbeschränkt Steuerpflichtigen der
-Besteuerung unterlägen, und die ihnen hierbei gewährten Vergütungen
-als Betriebsausgaben oder Werbungskosten eines anderen
-Steuerpflichtigen ungeachtet des § 8 Satz 1 bei dessen Veranlagung zur
-unbeschränkten Einkommensteuer oder Körperschaftsteuerpflicht
-berücksichtigt werden können. § 50a des Einkommensteuergesetzes, mit
-Ausnahme von dessen Absätzen 6 und 7, und §§ 73c bis 73g der
-Einkommensteuer-Durchführungsverordnung sowie die weiteren
-gesetzlichen Vorschriften, die an den Steuerabzug auf Grund des § 50a
-des Einkommensteuergesetzes anknüpfen, gelten für die Vergütungen des
-Satzes 1 entsprechend. Dabei ist § 50a Absatz 2 Satz 1 des
+Besteuerung unterlägen und die dem Steuerpflichtigen hierbei gewährten
+Vergütungen als Betriebsausgaben oder Werbungskosten eines anderen
+unbeschränkt Steuerpflichtigen ungeachtet des § 8 Satz 1 bei dessen
+Veranlagung zur Einkommen- oder Körperschaftsteuer ungeachtet der Wahl
+der Gewinnermittlungsart berücksichtigt werden können.
+
+(2) § 50a Absatz 1, 2 Satz 1 und 2 und Absatz 3 bis 5 des
+Einkommensteuergesetzes und die §§ 73c bis 73g der Einkommensteuer-
+Durchführungsverordnung sowie die weiteren gesetzlichen Vorschriften,
+die an den Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes
+anknüpfen, gelten für die Vergütungen im Sinne des Absatzes 1 Satz 1
+entsprechend. Dabei ist § 50a Absatz 2 Satz 1 des
 Einkommensteuergesetzes mit der Maßgabe anzuwenden, dass der
 Steuerabzug 15 Prozent der gesamten Einnahmen beträgt.
 
@@ -461,7 +477,7 @@ des betreffenden Kalenderjahres oder Wirtschaftsjahres zu erstellen
 und an die örtlich zuständige Finanzbehörde sowie in den Fällen, in
 denen die Voraussetzungen des § 138a der Abgabenordnung erfüllt sind,
 dem Bundeszentralamt für Steuern, zu übermitteln. Daneben sind die
-Aufzeichnungen auf Anforderung entsprechend § 90 Absatz 3 Satz 6 und 7
+Aufzeichnungen auf Anforderung entsprechend § 90 Absatz 4 Satz 1 und 3
 der Abgabenordnung vorzulegen.
 
 (3) Nach Aufforderung der zuständigen Finanzbehörde hat der
@@ -481,6 +497,9 @@ unberührt.
 
 (1) Die Abschnitte 3 und 4 dieses Gesetzes sind ab dem 1. Januar 2022
 anzuwenden.
+
+(1a) § 10 in der Fassung des Artikels 24 des Gesetzes vom 16. Dezember
+2022 (BGBl. I S. 2294) ist erstmals ab dem 1. Januar 2022 anzuwenden.
 
 (2) Abweichend von Absatz 1 sind die Abschnitte 3 und 4 dieses
 Gesetzes in Bezug auf Steuerhoheitsgebiete, die am 1. Januar 2021

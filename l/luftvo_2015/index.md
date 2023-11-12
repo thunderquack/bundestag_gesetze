@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1894
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.6.2017 I 1617
-
-Änderung durch
-:   Art. 2 V v. 9.3.2021 I 338 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 14.6.2021 I 1766 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 14.6.2021 I 1766
 
 Stand: Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 

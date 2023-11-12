@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 8.3.1994 I 423, 555, 852;
 
 Zuletzt geändert durch
-:   Art. 12 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 11.1.2023 I Nr. 11
 
 
 ## Erster Abschnitt - Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
@@ -177,7 +177,7 @@ entzieht.
 (1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs.
 1 des Grundgesetzes, die am Wahltage
 
-1.  das achtzehnte Lebensjahr vollendet haben,
+1.  das sechzehnte Lebensjahr vollendet haben,
 
 
 2.  seit mindestens drei Monaten
@@ -209,7 +209,7 @@ Mitgliedstaaten der Europäischen Union (Unionsbürger), die in der
 Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst
 gewöhnlich aufhalten und die am Wahltage
 
-1.  das achtzehnte Lebensjahr vollendet haben,
+1.  das sechzehnte Lebensjahr vollendet haben,
 
 
 2.  seit mindestens drei Monaten

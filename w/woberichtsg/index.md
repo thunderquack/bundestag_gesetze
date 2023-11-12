@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 437
 
+Geändert durch
+:   Art. 2 G v. 5.12.2022 I 2160
+
 
 ## § 1 Zweck der Erhebung; Durchführung
 
@@ -193,8 +196,9 @@ Bundesamt zu übermitteln.
 
 
 
-2.  dem Bundesministerium für Arbeit und Soziales Tabellen mit den
-    Ergebnissen der Bundesstatistik für den Bund und die Länder.
+2.  dem in der Bundesregierung für die Berichterstattung über die
+    Wohnungslosigkeit federführend zuständige Bundesministerium Tabellen
+    mit den Ergebnissen der Bundesstatistik für den Bund und die Länder.
 
 
 
@@ -214,15 +218,15 @@ veröffentlicht werden.
 ## § 8 Ergänzende Berichterstattung
 
 (1) Die Bundesregierung stellt durch geeignete Maßnahmen, insbesondere
-im Rahmen der Ressortforschung im Geschäftsbereich des
-Bundesministeriums für Arbeit und Soziales, sicher, dass Informationen
-und Analysen über Umfang und Struktur der Formen von Wohnungslosigkeit
-gewonnen werden, die über den Umfang der Erhebung nach § 3 Absatz 2
-hinausgehen.
+im Rahmen der Ressortforschung im Geschäftsbereich des in der
+Bundesregierung für die Berichterstattung über die Wohnungslosigkeit
+federführend zuständigen Bundesministeriums, sicher, dass
+Informationen und Analysen über Umfang und Struktur der Formen von
+Wohnungslosigkeit gewonnen werden, die über den Umfang der Erhebung
+nach § 3 Absatz 2 hinausgehen.
 
-(2) Das Bundesministerium für Arbeit und Soziales veröffentlicht alle
-zwei Jahre, erstmals im Jahr 2022, einen Bericht über seine
-Erkenntnisse nach Absatz 1.
+(2) Die Bundesregierung veröffentlicht alle zwei Jahre einen Bericht
+über ihre Erkenntnisse nach Absatz 1.
 
 (3) Die Berichterstattung nach Absatz 2 soll insbesondere über
 wohnungslose Personen nach § 3 Absatz 1 erfolgen, die

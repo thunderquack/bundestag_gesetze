@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Das G tritt gem. § 8 Abs. 2 dieses G mit Ablauf des 31.12.2026 außer Kraft
 Zuletzt geändert durch
-:   Art. 5 G v. 12.7.2021 I 3091
+:   Art. 2 Abs. 34 G v. 20.12.2022 I 2752
 
 [^F1789260_01_BJNR089800015]:     Notifiziert gemäß der Richtlinie 98/34/EG des Europäischen Parlaments
     und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem
@@ -244,11 +244,7 @@ auch nach dem 31. Dezember 2017 die Bevorrechtigungen gewährt werden,
 die Fahrzeugen nach § 3 Absatz 2 gewährt werden können.
 
 
-## § 6 Verkündung von Rechtsverordnungen
-
-Rechtsverordnungen auf Grund dieses Gesetzes können abweichend von § 2
-Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
-Bundesanzeiger verkündet werden.
+## § 6 (weggefallen)
 
 
 ## § 7 Berichterstattung

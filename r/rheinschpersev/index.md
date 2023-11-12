@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 2011, 1300
 
 Zuletzt geändert durch
-:   Art. 5 V v. 2.6.2020 II 346
+:   Art. 4 V v. 22.9.2022 I 1518
 
 
 ## Eingangsformel
@@ -222,9 +222,8 @@ Generaldirektion Wasserstraßen und Schifffahrt zuständige Behörde.
 
 (6) Zuständige Behörde für die Typprüfung und Zulassung von
 Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der
-Schiffspersonalverordnung-Rhein ist die vom Bundesministerium für
-Verkehr und digitale Infrastruktur im Verkehrsblatt oder
-Bundesanzeiger bekanntgemachte Stelle.
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt.
 
 (7) Zuständige Behörde für
 
@@ -368,16 +367,14 @@ ausgestellten Radarpatente.
 
 (19) Zuständige Behörde im Sinne des § 8.04 Nummer 2 der
 Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren
-ist die vom Bundesministerium für Verkehr und digitale Infrastruktur
-im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
+ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 (20) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04
 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das
-Bundesministerium für Verkehr und digitale Infrastruktur.
-Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über
-bestandene Prüfungen zum Erwerb des Radarpatentes gelten als
-anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der
-Schiffspersonalverordnung-Rhein.
+Bundesministerium für Digitales und Verkehr. Bescheinigungen der
+Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum
+Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des §
+8\.04 Nummer 3 der Schiffspersonalverordnung-Rhein.
 
 
 ## Art 4 Zuständigkeit für ärztliche Zeugnisse
@@ -624,8 +621,7 @@ untersagt, auf dem Rhein ein Fahrzeug zu führen,
     Nummer 2 der Schiffspersonalverordnung-Rhein nachweisen,
 
 
-2.  muss das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der
-    Schiffspersonalverordnung-Rhein rechtzeitig vorlegen,
+2.  (weggefallen),
 
 
 3.  muss über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff
@@ -758,14 +754,10 @@ Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig als Mitglied der Besatzung
 
 1.  entgegen Artikel 5 Absatz 6 Nummer 1 seine Befähigung an Bord nicht
-    nachweisen kann,
+    nachweisen kann oder
 
 
-2.  entgegen Artikel 5 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder
-    nicht rechtzeitig vorlegt oder
-
-
-3.  entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit
+2.  entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit
     aufnimmt.
 
 

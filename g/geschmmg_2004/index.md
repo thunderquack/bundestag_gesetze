@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2014 I 122
 
 Zuletzt geändert durch
-:   Art. 5 G v. 26.11.2020 I 2568
-
-Änderung durch
-:   Art. 26 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 10.8.2021 I 3490
 
 
 ## Abschnitt 1 - Schutzvoraussetzungen
@@ -989,6 +983,7 @@ Sachverständigen sowie die Vernehmung oder Anhörung der Beteiligten
 angeordnet, Augenschein eingenommen oder die Beweiskraft einer
 vorgelegten Urkunde gewürdigt werden; die Vorschriften des Zweiten
 Buches der Zivilprozessordnung zu diesen Beweismitteln sind
+entsprechend anzuwenden. § 128a der Zivilprozessordnung ist
 entsprechend anzuwenden. Über Anhörungen und Vernehmungen ist eine
 Niederschrift zu fertigen, die den wesentlichen Gang der Verhandlung
 wiedergibt und die rechtserheblichen Erklärungen der Beteiligten

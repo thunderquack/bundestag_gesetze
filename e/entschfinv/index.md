@@ -1,6 +1,5 @@
 ---
 Title: Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken
-  GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands
   GmbH
 jurabk: EntschFinV
 layout: default
@@ -9,13 +8,16 @@ slug: entschfinv
 
 ---
 
-# Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH (EntschFinV)
+# Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH (EntschFinV)
 
 Ausfertigungsdatum
 :   2016-01-05
 
 Fundstelle
 :   BGBl I: 2016, 9
+
+Geändert durch
+:   Art. 1 V v. 25.5.2022 I 818
 
 
 ## Eingangsformel
@@ -33,21 +35,13 @@ Deutschlands GmbH:
 
 ### § 1 Anwendungsbereich und Verordnungsgegenstand
 
-(1) Diese Verordnung gilt für
-
-1.  die Entschädigungseinrichtung deutscher Banken GmbH und die
-    Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
-    Deutschlands GmbH (Entschädigungseinrichtungen) sowie
-
-
-2.  CRR-Kreditinstitute im Sinne des § 1 des Einlagensicherungsgesetzes,
-    die einer Entschädigungseinrichtung zugeordnet sind.
-
-
-
+(1) Diese Verordnung gilt für die Entschädigungseinrichtung deutscher
+Banken GmbH sowie für CRR-Kreditinstitute im Sinne des § 1 des
+Einlagensicherungsgesetzes, die dieser Entschädigungseinrichtung
+zugeordnet sind.
 
 (2) Diese Verordnung regelt das Nähere über die Finanzierung der
-Entschädigungseinrichtungen und trifft nähere Bestimmungen über
+Entschädigungseinrichtung und trifft nähere Bestimmungen über
 
 1.  die Methoden der Beitragsbemessung nach § 19 Absatz 2 bis 4 des
     Einlagensicherungsgesetzes,
@@ -159,43 +153,59 @@ Beitragsbescheid fest.
 bemessen, dass mit der Summe aller Jahresbeiträge mindestens die
 Jahreszielausstattung nach § 6 erreicht wird.
 
-(2) Der Jahresbeitrag beträgt
-
-1.  für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher
-    Banken GmbH zugeordnet sind, mindestens 20 000 Euro und
-
-
-2.  für CRR-Kreditinstitute, die der Entschädigungseinrichtung des
-    Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind,
-    mindestens
-    6 500 Euro;                    besteht für das CRR-Kreditinstitut eine
-    Anstaltslast, Gewährträgerhaftung oder Refinanzierungsgarantie,
-    beträgt der Jahresbeitrag mindestens 3 250 Euro.
-
-
-
+(2) Der Jahresbeitrag beträgt mindestens 20 000 Euro.
 
 (3) Zusätzlich zum Jahresbeitrag kann zur Deckung der
-Verwaltungskosten und sonstigen Kosten, die der
+Verwaltungskosten und sonstiger Kosten, die bei der
 Entschädigungseinrichtung im Rahmen ihrer Tätigkeit entstehen, ein
-pauschalierter Kostenzuschlag erhoben werden. Der Kostenzuschlag darf
+pauschalierter Kostenzuschlag erhoben werden. Der Kostenzuschlag wird
+mit dem jeweiligen Jahresbeitrag im Beitragsbescheid festgesetzt und
+getrennt ausgewiesen. Die Höhe des Kostenzuschlags wird nach folgender
+Formel berechnet:
 
-1.  für CRR-Kreditinstitute, die der Entschädigungseinrichtung der
-    deutschen Banken GmbH zugeordnet sind, 12 500 Euro und
-
-
-2.  für CRR-Kreditinstitute, die der Entschädigungseinrichtung des
-    Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind,
-    40 000 Euro
+*    *        ![bgbl1_2022_j0818-1_0010.jpg](bgbl1_2022_j0818-1_0010.jpg)
 
 
 
-jeweils zuzüglich 0,5 Prozent des Jahresbeitrags des CRR-
-Kreditinstituts nicht überschreiten. Der Kostenzuschlag wird mit dem
-jeweiligen Jahresbeitrag im Beitragsbescheid festgesetzt und getrennt
-ausgewiesen. Die Entschädigungseinrichtung kann einen Kostenzuschlag
-auch für solche Abrechnungsjahre erheben, in denen kein Jahresbeitrag
-erhoben wird.
+*    *   Dabei ist:
+
+
+*    *   K
+        i                        =
+
+    *   Kostenzuschlag des CRR-Kreditinstituts;
+
+
+*    *   B =
+
+    *   Gesamtbedarf an zu erhebenden Kostenzuschlägen;
+
+
+*    *   A =
+
+    *   Anzahl der beitragspflichtigen CRR-Kreditinstitute, die der
+        Entschädigungseinrichtung zugeordnet sind;
+
+
+*    *   CD
+        i                        =
+
+    *   gedeckte Einlagen des CRR-Kreditinstituts nach § 7 Absatz 4;
+
+
+*    *   S =
+
+    *   Summe der gedeckten Einlagen aller CRR-Kreditinstitute, die der
+        Entschädigungseinrichtung zugeordnet sind, zum Stand vom 31. Dezember
+        des Vorjahres.
+
+
+*    *   Die Entschädigungseinrichtung kann einen Kostenzuschlag auch für
+        solche Abrechnungsjahre erheben, in denen kein Jahresbeitrag erhoben
+        wird.
+
+
+
 
 
 ###### § 6 Jahreszielausstattung
@@ -285,7 +295,7 @@ i              oder das Ergebnis der Formel CR x ARW
 i              x CD
 i              x µ.
 
-(2) Die Beitragsrate ist für alle CRR-Kreditinstitute einer
+(2) Die Beitragsrate ist für alle CRR-Kreditinstitute der
 Entschädigungseinrichtung einheitlich. Die Entschädigungseinrichtung
 ermittelt die Beitragsrate jährlich zum 15. August, indem die nach § 6
 ermittelte Jahreszielausstattung durch die Summe der gedeckten
@@ -317,18 +327,17 @@ Konjunkturzyklus und der prozyklischen Wirkung der Jahresbeiträge
 erforderlich ist.
 
 
-##### Titel 2 - Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
+##### Titel 2 - Bestimmung des aggregierten Risikogewichts
 
 
 ###### § 8 Bestimmung des aggregierten Risikogewichts
 
-(1) Für CRR-Kreditinstitute, die der Entschädigungseinrichtung
-deutscher Banken GmbH zugeordnet sind, wird das aggregierte
-Risikogewicht auf der Grundlage einer Bonitätsnote bestimmt. Die
-Bonitätsnote beruht auf einer Risikoeinschätzung des CRR-
-Kreditinstituts durch die Entschädigungseinrichtung auf der Grundlage
-von Risikokategorien und Risikoindikatoren nach Maßgabe der §§ 9 und
-10 sowie nach Maßgabe der Anlage 1.
+(1) Das aggregierte Risikogewicht wird auf der Grundlage einer
+Bonitätsnote bestimmt. Die Bonitätsnote beruht auf einer
+Risikoeinschätzung des CRR-Kreditinstituts durch die
+Entschädigungseinrichtung auf der Grundlage von Risikokategorien und
+Risikoindikatoren nach Maßgabe der §§ 9 und 10 sowie nach Maßgabe der
+Anlage 1.
 
 (2) Aus der Bonitätsnote ergibt sich das aggregierte Risikogewicht wie
 folgt:
@@ -390,8 +399,7 @@ den Absätzen 1 und 2 ein aggregiertes Risikogewicht von 110 Prozent.
 ###### § 9 Risikokategorien, Risikoindikatoren und Risikogewichtung
 
 (1) Für die Einschätzung des Risikos des CRR-Kreditinstituts legt die
-Entschädigungseinrichtung deutscher Banken GmbH die folgenden
-Risikokategorien zugrunde:
+Entschädigungseinrichtung die folgenden Risikokategorien zugrunde:
 
 1.  Kapital,
 
@@ -455,116 +463,39 @@ Ratingagenturen
 
 
 
-Die CRR-Kreditinstitute haben der Entschädigungseinrichtung deutscher
-Banken GmbH auf Anforderung in geeigneter Weise nachzuweisen, dass die
-Voraussetzungen nach Satz 1 Nummer 1 und 2 vorliegen.
+Die CRR-Kreditinstitute haben der Entschädigungseinrichtung auf
+Anforderung in geeigneter Weise nachzuweisen, dass die Voraussetzungen
+nach Satz 1 Nummer 1 und 2 vorliegen.
 
 (3) Jeder Bonitätsbeurteilungskategorie, die von einem anerkannten
 Ratingunternehmen verwendet wird, ordnet die Entschädigungseinrichtung
-deutscher Banken GmbH eine Ratingnotenklasse nach denjenigen
-Grundsätzen zu, die in Artikel 136 der Verordnung (EU) Nr. 575/2013
-des Europäischen Parlaments und des Rates vom 26. Juni 2013 über
-Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur
-Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013,
-S. 1, L 208 vom 2.8.2013, S. 68, L 321 vom 30.11.2013, S. 6, L 193 vom
-21\.7.2015, S. 166), die durch die Delegierte Verordnung (EU) 2015/62
-(ABl. L 11 vom 17.1.2015, S. 37) geändert worden ist, geregelt sind.
-Die Entschädigungseinrichtung deutscher Banken GmbH veröffentlicht die
-Zuordnung auf ihrer Internetseite.
+eine Ratingnotenklasse nach denjenigen Grundsätzen zu, die in Artikel
+136 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und
+des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an
+Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung
+(EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1, L 208 vom 2.8.2013,
+S. 68, L 321 vom 30.11.2013, S. 6, L 193 vom 21.7.2015, S. 166), die
+durch die Delegierte Verordnung (EU) 2015/62 (ABl. L 11 vom 17.1.2015,
+S. 37) geändert worden ist, geregelt sind. Die
+Entschädigungseinrichtung veröffentlicht die Zuordnung auf ihrer
+Internetseite.
 
 (4) Die CRR-Kreditinstitute sind verpflichtet, der
-Entschädigungseinrichtung deutscher Banken GmbH zur Erstellung der
-Risikoeinschätzung alle auf sie bezogenen aktuellen Ratings im Sinne
-des Absatzes 1 zu übermitteln. Sofern CRR-Kreditinstitute nicht über
-ein aktuelles Rating verfügen, sind sie verpflichtet, ein solches
-einzuholen. Satz 2 gilt nicht für CRR-Kreditinstitute im Sinne des §
-53 Absatz 1 Satz 1 des Kreditwesengesetzes, die alle Ratings ihres
-Unternehmens mit Sitz im Ausland vorlegen, wenn diese Ratings die
-Anforderungen des Absatzes 1 erfüllen.
+Entschädigungseinrichtung zur Erstellung der Risikoeinschätzung alle
+auf sie bezogenen aktuellen Ratings im Sinne des Absatzes 1 zu
+übermitteln. Sofern CRR-Kreditinstitute nicht über ein aktuelles
+Rating verfügen, sind sie verpflichtet, ein solches einzuholen. Satz 2
+gilt nicht für CRR-Kreditinstitute im Sinne des § 53 Absatz 1 Satz 1
+des Kreditwesengesetzes, die alle Ratings ihres Unternehmens mit Sitz
+im Ausland vorlegen, wenn diese Ratings die Anforderungen des Absatzes
+1 erfüllen.
 
 
-##### Titel 3 - Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
+##### Titel 3 - (weggefallen)
 
 
-###### § 11 Bestimmung des aggregierten Risikogewichts
+###### (XXXX) §§ 11 und 12 (weggefallen)
 
-(1) Für CRR-Kreditinstitute, die der Entschädigungseinrichtung des
-Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind,
-wird das aggregierte Risikogewicht auf der Grundlage einer
-Risikoklasse bestimmt. Die Risikoklasse beruht auf einer
-Risikoeinschätzung des CRR-Kreditinstituts durch die
-Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
-Deutschlands GmbH auf der Grundlage von Risikokategorien und
-Risikoindikatoren nach Maßgabe des § 12 und nach Maßgabe der Anlage 2.
-
-(2) Aus der Risikoklasse ergibt sich das aggregierte Risikogewicht wie
-folgt:
-
-*    *   Risikoklasse
-
-    *   0
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-    *   5
-
-
-*    *   Aggregiertes Risikogewicht
-
-    *   50 %
-
-    *   75 %
-
-    *   100 %
-
-    *   125 %
-
-    *   150 %
-
-    *   200 %
-
-
-
-
-(3) Für neu gegründete CRR-Kreditinstitute gilt bis einschließlich der
-Vollendung des zweiten vollständigen Geschäftsjahres abweichend von
-den Absätzen 1 und 2 ein aggregiertes Risikogewicht von 125 Prozent.
-
-
-###### § 12 Risikokategorien, Risikoindikatoren und Risikogewichtung
-
-(1) Für die Einschätzung des Risikos eines CRR-Kreditinstituts legt
-die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
-Deutschlands GmbH die folgenden Risikokategorien zugrunde:
-
-1.  Kapital,
-
-
-2.  Liquidität und Refinanzierung,
-
-
-3.  Qualität der Vermögensanlage,
-
-
-4.  Geschäftsmodell und Management sowie
-
-
-5.  Verlustrisiko der Entschädigungseinrichtung.
-
-
-
-Den Risikokategorien sind jeweils Risikoindikatoren gemäß Anlage 2
-zugeordnet.
-
-(2) Die Gewichtung der Risikokategorien und Risikoindikatoren und die
-Aggregation der Risikoindikatoren zu einem aggregierten Risikowert
-erfolgt nach Maßgabe der Anlage 2.
 
 
 ### Kapitel 2 - Einmalige Zahlung
@@ -572,7 +503,7 @@ erfolgt nach Maßgabe der Anlage 2.
 
 #### § 13 Zahlungspflicht
 
-(1) CRR-Kreditinstitute, die einer Entschädigungseinrichtung neu
+(1) CRR-Kreditinstitute, die der Entschädigungseinrichtung neu
 zugeordnet werden, haben neben dem Jahresbeitrag eine nach Maßgabe des
 § 14 berechnete einmalige Zahlung zu leisten.
 
@@ -645,8 +576,7 @@ Juni des jeweiligen Abrechnungsjahres folgende Daten und Unterlagen zu
 
 1.  den Jahresabschluss im Sinne des § 26 Absatz 1 Satz 1 und 2 des
     Kreditwesengesetzes des Geschäftsjahres, das vor dem 1. März des
-    jeweiligen Abrechnungsjahres abgeschlossen worden ist, und des
-    Vorjahres,
+    jeweiligen Abrechnungsjahres abgeschlossen worden ist,
 
 
 2.  die Meldungen nach den Vorgaben der Durchführungsverordnung (EU) Nr.
@@ -662,33 +592,24 @@ Juni des jeweiligen Abrechnungsjahres folgende Daten und Unterlagen zu
     Vermögenswerten, ein einheitliches Datenpunktmodell und
     Validierungsregeln (ABl. L 14 vom 21.1.2015, S. 1) zum Bilanzstichtag
     des Geschäftsjahres, das vor dem 1. März des jeweiligen
-    Abrechnungsjahres abgeschlossenen worden ist, und zum Bilanzstichtag
-    des Vorjahres,
+    Abrechnungsjahres abgeschlossenen worden ist,
 
 
 3.  den Übersichtsbogen zu den Eigenmitteln gemäß Artikel 72 der
-    Verordnung (EU) Nr. 575/2013 in Verbindung mit § 10a des
-    Kreditwesengesetzes zum Bilanzstichtag des Geschäftsjahres, das vor
-    dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden ist,
-    und zum Bilanzstichtag des Vorjahres,
+    Verordnung (EU) Nr. 575/2013 in Verbindung mit
+    § 10a des                    Kreditwesengesetzes zum Bilanzstichtag
+    des Geschäftsjahres, das vor dem 1. März des jeweiligen
+    Abrechnungsjahres abgeschlossen worden ist, sowie
 
 
-4.  den Meldebogen zu den Finanzinformationen gemäß § 25 Absatz 1 Satz 1
-    des Kreditwesengesetzes zum Bilanzstichtag des Geschäftsjahres, das
-    vor dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden
-    ist, und zum Bilanzstichtag des Vorjahres sowie
-
-
-5.  den ausgefüllten Fragebogen der Entschädigungseinrichtung zur Erhebung
+4.  den ausgefüllten Fragebogen der Entschädigungseinrichtung zur Erhebung
     ergänzender Angaben zum Bilanzstichtag des Geschäftsjahres, das vor
-    dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden ist,
-    und zum Bilanzstichtag des Vorjahres.
+    dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden ist.
 
 
 
 
-(3) CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher
-Banken GmbH zugeordnet sind, sind verpflichtet, der
+(3) CRR-Kreditinstitute sind verpflichtet, der
 Entschädigungseinrichtung zusätzlich folgende Daten und Unterlagen bis
 zum 30. Juni des jeweiligen Abrechnungsjahres zu übermitteln:
 
@@ -711,15 +632,20 @@ eingeschränktem Bestätigungsvermerk wird von der
 Entschädigungseinrichtung nur berücksichtigt, wenn sich die
 Einwendungen des Abschlussprüfers nicht auf die Risikoindikatoren und
 Risikokategorien beziehen, die für die Risikoeinschätzung nach den §§
-8 bis 12 sowie nach den Anlagen 1 und 2 maßgeblich sind.
+8 bis 10 sowie nach der Anlage 1 maßgeblich sind.
 
 (5) Die Absätze 2 bis 4 gelten nicht für neu gegründete CRR-
 Kreditinstitute, deren aggregiertes Risikogewicht sich nach § 8 Absatz
-3 oder § 11 Absatz 3 richtet.
+3 richtet.
 
 (6) Die Pflichten nach Absatz 2 bis 4 bestehen auch nach Erreichen der
 Zielausstattung gemäß § 17 Absatz 2 Satz 1 des
 Einlagensicherungsgesetzes.
+
+(7) CRR-Kreditinstitute, bei denen zum Stand vom 31. Dezember des
+Vorjahres keine gedeckten Einlagen vorhanden waren, sind von der
+Pflicht zur Übermittlung der Daten und Unterlagen gemäß § 15 Absatz 2
+Nummer 2 bis 4 und gemäß § 15 Absatz 3 Nummer 2 befreit.
 
 
 #### § 16 Vorläufige und endgültige Festsetzung
@@ -743,17 +669,10 @@ Kreditinstitute anhand geeigneter Unterlagen zu berücksichtigen.
 
 (3) Legt ein CRR-Kreditinstitut die für die Erstellung der
 Risikoeinschätzung erforderlichen Daten und Unterlagen gemäß § 15
-Absatz 2 und 3 nicht rechtzeitig oder nicht vollständig vor, schätzt
-die Entschädigungseinrichtung das Risiko des CRR-Kreditinstituts und
-legt der Bemessung des vorläufigen Jahresbeitrags die nächsthöhere
-Bonitätsnote nach § 8 Absatz 2 oder die nächsthöhere Risikoklasse nach
-§ 11 Absatz 2 zugrunde. Bei der Schätzung des Risikos des CRR-
-Keditinstituts sind die Bonitätsnoten oder Risikoklassen des CRR-
-Kreditinstituts aus den letzten beiden vorangegangenen
-Abrechnungsjahren und der Entschädigungseinrichtung aufgrund
-geeigneter Unterlagen bekanntgewordene Änderungen in den Verhältnissen
-der Vermögens-, Finanz- und Ertragslage des CRR-Kreditinstituts zu
-berücksichtigen.
+Absatz 2 und 3 nicht rechtzeitig oder nicht vollständig vor, wird für
+die Risikoindikatoren, für deren Ermittlung die Datengrundlage fehlt,
+ein individueller Risikowert (IRS) im Sinne der Ziffer IV Nummer 2 der
+Anlage 1 von 100 angenommen.
 
 (4) Die Entschädigungseinrichtung bestimmt den Jahresbeitrag des CRR-
 Kreditinstituts unter Berücksichtigung der bis spätestens zum 31.
@@ -779,6 +698,22 @@ Entschädigungseinrichtung für die Zwecke der Beitragsbemessung zu
 Gunsten der CRR-Kreditinstitute nicht mehr.
 
 (2) Die in Absatz 1 genannte Frist ist eine Ausschlussfrist.
+
+
+#### § 17a Schätzung bei unrichtiger Meldung der Höhe der gedeckten Einlagen
+
+Stellt die Entschädigungseinrichtung nach Festsetzung des
+Jahresbeitrags fest, dass der Bemessung des Jahresbeitrags eines CRR-
+Kreditinstituts eine unrichtige Meldung der Höhe der gedeckten
+Einlagen nach § 17 Absatz 4 des Einlagensicherungsgesetzes zugrunde
+gelegt wurde, ist sie berechtigt, den Umfang der gedeckten Einlagen zu
+dem nach § 7 Absatz 4 maßgeblichen Stichtag zu schätzen und den
+Jahresbeitrag auf Grundlage des geschätzten Umfangs der gedeckten
+Einlagen neu festzusetzen. Für die Schätzung gilt § 16 Absatz 2 Satz 2
+entsprechend. Die Entschädigungseinrichtung ist befugt, bei der
+Schätzung einen angemessenen Sicherheitszuschlag anzusetzen, wenn die
+Schätzungsgrundlagen im Einzelfall erhebliche Unsicherheiten
+aufweisen.
 
 
 #### § 18 Verzugszinsen
@@ -1052,11 +987,11 @@ stellt.
 
 
 (3) Überträgt ein CRR-Kreditinstitut einen Teil der gedeckten Einlagen
-auf ein CRR-Kreditinstitut, das der anderen Entschädigungseinrichtung
-zugeordnet ist, gelten die Absätze 1 und 2 entsprechend mit der
-Maßgabe, dass die Übertragung der Zahlungsverpflichtungen und der
-diesbezüglichen Finanzsicherheiten durch eine Vereinbarung im Sinne
-des § 32 Absatz 1 Nummer 2 erfolgt.
+auf ein CRR-Kreditinstitut, das einer anderen
+Entschädigungseinrichtung zugeordnet ist, gelten die Absätze 1 und 2
+entsprechend mit der Maßgabe, dass die Übertragung der
+Zahlungsverpflichtungen und der diesbezüglichen Finanzsicherheiten
+durch eine Vereinbarung im Sinne des § 32 Absatz 1 Nummer 2 erfolgt.
 
 
 ### Kapitel 2 - Finanzsicherheiten
@@ -1272,7 +1207,7 @@ die gestellten Finanzsicherheiten auferlegen.
 
 #### § 32 Zuordnung zu einer anderen Entschädigungseinrichtung, Ausscheiden aus der Entschädigungseinrichtung
 
-(1) Wechselt ein CRR-Kreditinstitut nach § 24 Absatz 2 oder 3 des
+(1) Wechselt ein CRR-Kreditinstitut nach § 24 Absatz 4 oder 5 des
 Einlagensicherungsgesetzes die Entschädigungseinrichtung und werden
 Beiträge nach § 25 Absatz 2 des Einlagensicherungsgesetzes übertragen,
 so kann die bisherige Entschädigungseinrichtung
@@ -1324,6 +1259,12 @@ Die Entschädigungseinrichtung soll bei der Entscheidung nach Satz 2
 diejenige Maßnahme wählen, die das CRR-Kreditinstitut am geringsten
 belastet.
 
+(4) Die Absätze 1 bis 3 sind nicht anwendbar auf einen Übergang eines
+CRR-Kreditinstituts infolge einer Rechtsnachfolge der nachfolgenden
+Entschädigungseinrichtung nach § 25a Absatz 3 des
+Einlagensicherungsgesetzes oder den Beitritt zu einem anerkannten
+Sicherungssystem nach § 25a Absatz 4 des Einlagensicherungsgesetzes.
+
 
 #### § 33 Verwertung und Freigabe von Finanzsicherheiten
 
@@ -1350,7 +1291,7 @@ Abrechnungsjahre und einmalige Zahlungen für vor dem 30. September
 oder der EdVÖB-Beitragsverordnung in ihrer jeweils bis zum Ablauf des
 11\. Januar 2016 geltenden Fassung erhoben.
 
-(2) Die §§ 3 bis 12 sind erstmals auf den Jahresbeitrag für das am 30.
+(2) Die §§ 3 bis 10 sind erstmals auf den Jahresbeitrag für das am 30.
 September 2016 endende Abrechnungsjahr anzuwenden.
 
 (3) Die Entschädigungseinrichtung ist berechtigt, in dem
@@ -1362,6 +1303,12 @@ vorherigen Abrechnungsjahr erhobenen Jahresbeitrags zu erheben. Für
 die Vorauszahlung kann die Übernahme einer Zahlungsverpflichtung
 gestattet werden. Das Abrechnungsjahr nach Satz 1 gilt als volles Jahr
 bis zum Ende des Ansparzeitraums im Sinne des § 6 Absatzes 2 und 3.
+
+(4) Jahresbeiträge und einmalige Zahlungen für vor dem 1. Juni 2022
+endende Abrechnungsjahre werden nach der Verordnung über die
+Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und
+der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
+Deutschlands GmbH in der bis zu diesem Tag geltenden Fassung erhoben.
 
 
 ### § 35 Inkrafttreten, Außerkrafttreten
@@ -1378,7 +1325,7 @@ geändert worden ist, außer Kraft.
 
 ### Anlage 1 Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
 
-(Fundstelle: BGBl. I 2016, 21 - 23)
+(Fundstelle: BGBl. I 2016, 21 - 23; bzgl. Änderungen vgl. Fußnote)
 
 
 I.  **Risikokategorien und Risikoindikatoren**
@@ -1434,7 +1381,7 @@ I.  **Risikokategorien und Risikoindikatoren**
             Coverage                              Ratio)
 
         *   18 %
-            Ab 2019:
+            Ab 2023:
             9%
 
         *            ![bgbl1_2016_j0009-1_0040_thumb.gif](bgbl1_2016_j0009-1_0040_thumb.gif)
@@ -1445,10 +1392,10 @@ I.  **Risikokategorien und Risikoindikatoren**
             Stable                              Funding Ratio)
 
         *   0 %
-            Ab 2019:
+            Ab 2023:
             9 %
 
-        *   Ab 2019:
+        *   Ab 2023:
             ![bgbl1_2016_j0009-1_0050_thumb.gif](bgbl1_2016_j0009-1_0050_thumb.gif)
 
     *        *   3.
@@ -1468,7 +1415,7 @@ I.  **Risikokategorien und Risikoindikatoren**
 
         *   13 %
 
-        *            ![bgbl1_2016_j0009-1_0060_thumb.gif](bgbl1_2016_j0009-1_0060_thumb.gif)
+        *            ![bgbl1_2022_j0818-1_0020.jpg](bgbl1_2022_j0818-1_0020.jpg)
 
     *        *   4.
 
@@ -1496,7 +1443,7 @@ I.  **Risikokategorien und Risikoindikatoren**
 
         *   6,5 %
 
-        *            ![bgbl1_2016_j0009-1_0080_thumb.gif](bgbl1_2016_j0009-1_0080_thumb.gif)
+        *            ![bgbl1_2022_j0818-1_0030.jpg](bgbl1_2022_j0818-1_0030.jpg)
 
     *        *   4.3
 
@@ -1554,28 +1501,14 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
     Ziffer I**
 
     1.1 Verschuldungsquote gemäß der Durchführungsverordnung (EU) Nr.
-        680/2014, Template C 47.00 Zeile 340 Spalte 010.
+        680/2014.
 
 
     1.2 Harte Kernkapitalquote gemäß Durchführungsverordnung (EU) Nr.
-        680/2014, Template C 03.00 Zeile 010 Spalte 010.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-        Bei CRR-Kreditinstituten, die unter die Regelungen des § 53c Nummer 2
-        des Kreditwesengesetzes fallen, wird für die Kennzahl die Quote der
-        Kreditinstitutsgruppe berücksichtigt.
+        680/2014.
 
 
-    2.1 LCR gemäß Durchführungsverordnung (EU) Nr. 680/2014, Template C 76.00.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
+    2.1 LCR gemäß Durchführungsverordnung (EU) Nr. 680/2014.
 
 
     2.2 Strukturelle Liquiditätsquote
@@ -1583,42 +1516,32 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
         Gemäß dem vom Basler Ausschuss für Bankenaufsicht am 22. Juni 2015
         veröffentlichten „Net Stable Funding Ratio disclosure standard“ ist
         für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende
-        Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019
-        wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9
-        Prozent gewichtet.
+        Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab dem
+        Abrechnungsjahr 2023 wird die Strukturelle Liquiditätsquote gemäß
+        Artikel 428b Absatz 1 der Verordnung (EU) 2019/876 des Europäischen
+        Parlaments und des Rates vom 20. Mai 2019 zur Änderung der Verordnung
+        (EU) Nr. 575/2013 in Bezug auf die Verschuldungsquote, die
+        strukturelle Liquiditätsquote, Anforderungen an Eigenmittel und
+        berücksichtigungsfähige Verbindlichkeiten, das
+        Gegenparteiausfallrisiko, das Marktrisiko, Risikopositionen gegenüber
+        zentralen Gegenparteien, Risikopositionen gegenüber Organismen für
+        gemeinsame Anlagen, Großkredite, Melde- und Offenlegungspflichten und
+        der Verordnung (EU) Nr. 648/2012 (ABl. L 150 vom 7.6.2019, S. 1; L 13
+        vom 17.1.2020, S. 58; L 65 vom 25.2.2021, S. 62; L 380 vom 27.10.2021,
+        S. 23; L 398 vom 11.11.2021, S. 32), die zuletzt durch die Verordnung
+        (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist,
+        mit 9 Prozent gewichtet.
 
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
 
-
-    3.1 Quote notleidender Kredite gemäß Finanz- und
-        Risikotragfähigkeitsinformationenverordnung, Meldebogen zu den
-        Finanzinformationen gemäß § 25 Absatz 1 Satz 1 des Kreditwesengesetzes
-
-        In Verzug geratene Kredite (ohne Kredite, für die eine
-        Einzelwertberichtigung gebildet wurde) abzüglich hierfür bestehender
-        Sicherheiten plus einzelwertberichtigte Kredite vor Absetzung von
-        Einzelwertberichtigungen abzüglich hierfür bestehender Sicherheiten im
-        Verhältnis zur Höhe des Kreditvolumens.
+    3.1 Quote notleidender Kredite gemäß Durchführungsverordnung (EU) 2021/451
 
 
     4.1 Verhältnis risikogewichtete Aktiva zur Bilanzsumme
 
         Risikogewichtete Aktiva (RWA): Gesamtrisikobetrag gemäß
-        Durchführungsverordnung (EU) Nr. 680/2014,Template C 02.00 Zeile 010
-        Spalte 010.
+        Durchführungsverordnung (EU) Nr. 680/2014.
 
-        Bilanzsumme gemäß aufgestelltem Jahresabschluss gemäß Ziffer III. Bei
-        Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-        Bei CRR-Kreditinstituten, die unter die Regelungen des § 53c Nummer 2
-        des Kreditwesengesetzes fallen, wird für die Kennzahl die Quote der
-        Kreditinstitutsgruppe berücksichtigt.
+        Bilanzsumme gemäß aufgestelltem Jahresabschluss gemäß Ziffer III.
 
 
     4.2 Vermögensrendite
@@ -1631,7 +1554,7 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
 
         Die durchschnittliche Bilanzsumme ist das arithmetische Mittel der
         Bilanzsumme gemäß aufgestelltem Jahresabschluss und der Bilanzsumme
-        des aufgestellten Jahresabschlusses, der dem Vorjahresabschluss
+        des aufgestellten Jahresabschlusses, der dem Jahresabschluss
         vorangeht.
 
 
@@ -1641,8 +1564,7 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
         quantitativ und qualitativ begründet werden. Beurteilungsebenen sind
         neben dem Marktumfeld, die Finanz-, Vermögens- und Ertragslage, das
         Geschäftsmodell und die Strategie sowie die Unternehmensstruktur und
-        das Management des CRR-
-        Kreditinstituts.                          Darüber hinaus wird die
+        das Management des CRR-Kreditinstituts. Darüber hinaus wird die
         Risikolage beurteilt.
 
         Für Bausparkassen besteht die Option, neben dem Rating die
@@ -1661,14 +1583,17 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
     5.1 Potenzielle Verlustquote
 
         Buchwert unbelastete Vermögenswerte gemäß Durchführungsverordnung (EU)
-        Nr. 2015/79, Template F 32.01 Zeile 010 Spalte 060 im Verhältnis zu
-        den gedeckten Einlagen gemäß Meldung der CRR-Kreditinstitute nach § 17
-        Absatz 4 Satz 1 des Einlagensicherungsgesetzes.
+        Nr. 2015/79 im Verhältnis zu den gedeckten Einlagen gemäß Meldung der
+        CRR-Kreditinstitute nach § 17 Absatz 4 Satz 1 des
+        Einlagensicherungsgesetzes.
 
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
+        Die Kreditinstitute müssen, für den Fall, dass sie von der sog.
+        Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit
+        Artikel 7 der Verordnung (EU) Nr. 575/2013 Gebrauch machen, über eine
+        begründete, nachvollziehbare Annäherung sicherstellen, dass sich
+        sowohl der Buchwert der unbelasteten Vermögenswerte wie auch die
+        gedeckten Einlagen auf die gleiche Einheit des Kreditinstituts
+        beziehen.
 
 
 
@@ -1676,14 +1601,76 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
 
 III. **Grundlage für die Ermittlung der Risikoindikatoren**
 
-    Grundlage für die Ermittlung der Risikoindikatoren sind die
-    Verhältnisse der Vermögens-, Finanz- und Ertragslage des CRR-
-    Kreditinstituts zum Ende des letzten vor dem 1. März des jeweiligen
-    Abrechnungsjahres abgeschlossenen Geschäftsjahres. Die nach dieser
-    Anlage zu berücksichtigenden Finanzdaten basieren auf dem
-    Jahresabschluss des CRR-Kreditinstituts bzw. den entsprechenden
-    Vermögensübersichten mit Aufwands- und Ertragsrechnung und Anhang
-    gemäß § 53 Absatz 2 Nummer 2 des Kreditwesengesetzes.
+
+    1.  Grundlage für die Ermittlung der Risikoindikatoren sind die
+        Verhältnisse der Vermögens-, Finanz-, und Ertragslage des CRR-
+        Kreditinstituts zum Ende des letzten vor dem 1. März des jeweiligen
+        Abrechnungsjahres abgeschlossenen Geschäftsjahres. Die nach dieser
+        Anlage zu berücksichtigenden Finanzdaten basieren auf dem
+        Jahresabschluss des CRR-Kreditinstituts bzw. den entsprechenden
+        Vermögensberichten mit Aufwands- und Ertragsrechnung und Anhang gemäß
+        § 53 Absatz 2 Nummer 2 des Kreditwesengesetzes. Die genauen Positionen
+        der Risikoindikatoren in den Templates des Meldewesens sind den CRR-
+        Kreditinstituten durch die Entschädigungseinrichtung jährlich in einer
+        Übersicht zur Verfügung zu stellen.
+
+
+    2.  Kann ein Risikoindikator oder dessen Bestandteil nicht auf
+        Einzelinstitutsebene ermittelt werden, so kann für den jeweiligen
+        Risikoindikator die entsprechende Kennzahl auf Konzernebene
+        berücksichtigt werden, wenn die Voraussetzungen des § 2a Absatz 1 Satz
+        1 des Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung
+        (EU) Nr. 575/2013 erfüllt sind. Für CRR-Kreditinstitute im Sinne des
+        § 53 Absatz 1 Satz 1 des Kreditwesengesetzes kann die entsprechende
+        Kennzahl der Institutsgruppe berücksichtigt werden, wenn die
+        Gegenseitigkeit im Sinne des § 53c Absatz 1 Nummer 2 des
+        Kreditwesengesetzes gewährleistet ist und die Voraussetzung des § 53c
+        Absatz 1 Nummer 2 Buchstabe a bis Buchstabe c des Kreditwesengesetzes
+        vorliegen. Die Regelungen der Sätze 1 und 2 gelten nicht für den
+        Indikator 4.2.
+
+
+    3.  CRR-Kreditinstitute, die nicht bzw. nur in eingeschränktem Umfang zur
+        Meldung von Finanzinformationen gemäß den in § 15 Absatz 2 Nummer 2
+        EntschFinV genannten EU-Durchführungsverordnungen verpflichtet sind,
+        können vergleichbare und nachvollziehbare Annäherungen auf
+        Einzelinstitutsebene für die Risikoindikatoren auf Grundlage der nach
+        § 2 Absatz 1 FinaRisikoV erhobenen Finanzinformationen durchführen und
+        übermitteln. Wenn eine entsprechende Ermittlung nicht möglich ist, ist
+        das entsprechende Feld im Fragebogen gemäß § 15 Absatz 2 Nummer 4
+        EntschFinV leer zu lassen. Bei einem leeren Feld wird für diesen
+        Risikoindikator ein individueller Risikowert (IRS) im Sinne der Ziffer
+        IV Nummer 2 der Anlage 1 von 100 angenommen.
+
+
+    4.  Bei einem Stichtagswechsel sind kurze Geschäftsjahre, bei denen zwei
+        Bilanzstichtage und folglich zwei Finanzpositionen innerhalb eines
+        Quartals desselben Jahres Grundlage für die Ermittlung nach Nummer 1
+        Satz 1 wären, für die Beitragsberechnung nicht zu berücksichtigen.
+        Andernfalls ist jedes, auch verkürztes Geschäftsjahr als ein
+        Geschäftsjahr im Sinne dieser Verordnung anzusehen.
+
+
+    5.  Fällt der individuelle Bilanzstichtag des CRR-Kreditinstituts nicht
+        auf einen der Meldestichtage gemäß Artikel 2 Absatz 1 Buchstabe b der
+        Durchführungsverordnung (EU) 2021/451 der Kommission vom 17. Dezember
+        2020 zur Festlegung technischer Durchführungsstandards für die
+        Anwendung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments
+        und des Rates auf die aufsichtlichen Meldungen der Institute und zur
+        Aufhebung der Durchführungsverordnung (EU) Nr. 680/2014 (ABl. L 97 vom
+        19\.3.2021, S. 1; L 136 vom 21.4.2021, S. 328; L 410 vom 18.11.2021, S.
+        201), sind die Risikoindikatoren mit den Werten des nächsten nach dem
+        Bilanzstichtag folgenden Meldestichtag zu ermitteln.
+
+
+    6.  Liegen die zur Durchführung der Berechnung der Risikoindikatoren nach
+        den Ziffern I und II erforderlichen Daten nicht in Euro vor, ist der
+        Euro-Referenzkurs der Europäischen Zentralbank zur
+        Währungsumrechnung                          am jeweiligen Bilanz- oder
+        Meldestichtag zu verwenden.
+
+
+
 
 
 IV. **Ermittlung der Bonitätsnote**
@@ -1695,16 +1682,22 @@ IV. **Ermittlung der Bonitätsnote**
 
 
     2.  Der errechnete Risikoindikatorwert bestimmt die Höhe des individuellen
-        Risikowerts (IRS) eines Risikoindikators. Die IRS bewegen sich
-        zwischen der Risikoausprägung 0 für „sehr geringes Risiko“ und 100 für
-        „sehr hohes Risiko“.
+        Risikowerts (IRS) eines Risikoindikators. Die IRS werden mit Hilfe
+        einer von der Entschädigungseinrichtung zu erstellenden
+        Transformationstabelle aus den errechneten Risikoindikatorwerten
+        ermittelt. Die IRS bewegen sich zwischen der Risikoausprägung 0 für
+        „sehr geringes Risiko“ und 100 für „sehr hohes Risiko“. Die Tabelle
+        nach Satz 2 ist den CRR-Kreditinstituten von der
+        Entschädigungseinrichtung zur Verfügung zu stellen.
 
 
     3.  Der IRS jedes Risikoindikators wird mit der jeweiligen
         Indikatorgewichtung gemäß Spalte 2 der Tabelle unter Ziffer I
-        multipliziert. Die gewichteten IRS werden aufsummiert und entsprechend
-        ihrem Summenwert einer Bonitätsnote zwischen 0 für „höchste Bonität“
-        und 9 für „schwächste Bonität“ gemäß § 8 Absatz 2 zugeordnet.
+        multipliziert. Die gewichteten IRS werden entsprechend ihrem
+        Summenwert, nach einer von der Entschädigungseinrichtung den CRR-
+        Kreditinstituten zu diesem Zweck zur Verfügung gestellten Tabelle,
+        einer Bonitätsnote zwischen 0 für „höchste Bonität“ und 9 für
+        „schwächste Bonität“ zugeordnet.
 
 
 
@@ -1712,312 +1705,7 @@ IV. **Ermittlung der Bonitätsnote**
 
 
 
-(zu § 11 Absatz 1 und § 12)
 
-### Anlage 2 Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
-
-(Fundstelle: BGBl. I 2016, 24 - 26)
-
-
-I.  **Risikokategorien und Risikoindikatoren**
-
-    Folgende Risikokategorien und -indikatoren gehen in die
-    Risikoeinschätzung mit folgender Gewichtung ein:
-
-    *        *   Risikokategorien und
-            Risikoindikatoren
-
-        *   Gewichtung
-
-        *   Beschreibung
-
-
-    *        *   1.
-
-        *   Kapital
-
-        *   21 %
-
-        *
-
-    *        *   1.1
-
-        *   Verschuldungsquote
-            (Leverage Ratio)
-
-        *   10,5 %
-
-        *            ![bgbl1_2016_j0009-1_0110_thumb.gif](bgbl1_2016_j0009-1_0110_thumb.gif)
-
-    *        *   1.2
-
-        *   Harte Kernkapitalquote
-            (CET1 Quote)
-
-        *   10,5 %
-
-        *            ![bgbl1_2016_j0009-1_0120_thumb.gif](bgbl1_2016_j0009-1_0120_thumb.gif)
-
-    *        *   2.
-
-        *   Liquidität und
-            Refinanzierung
-
-        *   18 %
-
-        *
-
-    *        *   2.1
-
-        *   Liquiditätsdeckungsquote (LCR, Liquidity
-            Coverage Ratio)
-
-        *   18 %
-            Ab 2019:
-            9 %
-
-        *            ![bgbl1_2016_j0009-1_0130_thumb.gif](bgbl1_2016_j0009-1_0130_thumb.gif)
-
-    *        *   2.2
-
-        *   Strukturelle Liquiditätsquote (NSFR, Net Stable
-            Funding Ratio)
-
-        *   0 %
-            Ab 2019:
-            9 %
-
-        *   Ab 2019:
-            ![bgbl1_2016_j0009-1_0140_thumb.gif](bgbl1_2016_j0009-1_0140_thumb.gif)
-
-    *        *   3.
-
-        *   Qualität der
-            Vermögenslage
-
-        *   15 %
-
-        *
-
-    *        *   3.1
-
-        *   Quote notleidender
-            Kredite (NPL-Quote, Non-Performing Loans Ratio)
-
-        *   15 %
-
-        *            ![bgbl1_2016_j0009-1_0150_thumb.gif](bgbl1_2016_j0009-1_0150_thumb.gif)
-
-    *        *   4.
-
-        *   Geschäftsmodell und
-            Management
-
-        *   31 %
-
-        *
-
-    *        *   4.1
-
-        *   Verhältnis risikogewichtete Aktiva (RWA,
-            Risk-weighted Assets) zur Bilanzsumme
-
-        *   8 %
-
-        *            ![bgbl1_2016_j0009-1_0160_thumb.gif](bgbl1_2016_j0009-1_0160_thumb.gif)
-
-    *        *   4.2
-
-        *   Vermögensrendite (RoaA, Return on average Assets)
-
-        *   8 %
-
-        *            ![bgbl1_2016_j0009-1_0170_thumb.gif](bgbl1_2016_j0009-1_0170_thumb.gif)
-
-    *        *   4.3
-
-        *   Anstaltslast, Gewährträgerhaftung oder Refinanzierungsgarantie
-
-        *   15 %
-
-        *   Vorliegen (ja/nein)
-
-
-    *        *   5.
-
-        *   Verlustrisiko der Entschädigungseinrichtung des Bundesverbandes
-            Öffentlicher Banken Deutschlands GmbH
-
-        *   15 %
-
-        *
-
-    *        *   5.1
-
-        *   potenzielle Verlustquote
-
-        *   15 %
-
-        *            ![bgbl1_2016_j0009-1_0180_thumb.gif](bgbl1_2016_j0009-1_0180_thumb.gif)
-
-    *        *   Summe
-
-        *   100 %
-
-        *
-
-
-
-   Der Anteil der Risikoindikatoren an der Risikoklasse gemäß § 11 Absatz
-    2 ergibt sich aus deren Gewichtung gemäß Spalte 2 der vorstehenden
-    Tabelle.
-
-
-II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter
-    Ziffer I**
-
-    1.1 Verschuldungsquote gemäß Durchführungsverordnung (EU) Nr. 680/2014,
-        Template C 47.00 Zeile 340 Spalte 010.
-
-
-    1.2 Harte Kernkapitalquote gemäß der Durchführungsverordnung (EU) Nr.
-        680/2014, Template C 03.00 Zeile 010 Spalte 010.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-
-    2.1 LCR gemäß der Durchführungsverordnung (EU) Nr. 680/2014, Template C
-        76\.00 Zeile 030 Spalte 010.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-
-    2.2 Strukturelle Liquiditätsquote
-
-        Gemäß dem vom Basler Ausschuss für Bankenaufsicht am 22. Juni 2015
-        veröffentlichten „Net Stable Funding Ratio disclosure standard“ ist
-        für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende
-        Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019
-        wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9
-        Prozent gewichtet.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Relation auf Konzernebene
-        berücksichtigt.
-
-
-    3.1 Quote notleidender Kredite gemäß Finanz- und
-        Risikotragfähigkeitsinformationenverordnung, Meldebogen zu den
-        Finanzinformationen gemäß § 25 Absatz 1 Satz 1 des Kreditwesengesetzes
-
-        In Verzug geratene Kredite (ohne Kredite, für die eine
-        Einzelwertberichtigung gebildet wurde) und einzelwertberichtigte
-        Kredite vor Absetzung von Einzelwertberichtigungen, wobei gebildete
-        Einzelwertberichtigungen und bankübliche Sicherheiten unberücksichtigt
-        bleiben.
-
-
-    4.1 Verhältnis risikogewichtete Aktiva zur Bilanzsumme
-
-        Risikogewichtete Aktiva (RWA): Gesamtrisikobetrag gemäß
-        Durchführungsverordnung (EU) Nr. 680/2014,Template C 02.00 Zeile 010
-        Spalte 010.
-
-        Bilanzsumme gemäß aufgestelltem Jahresabschluss gemäß Ziffer III. Bei
-        Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-
-    4.2 Vermögensrendite
-
-        Ergebnis der normalen Geschäftstätigkeit laut Formblatt Gewinn-und-
-        Verlust-Rechnung Position 19 gemäß der Kreditinstituts-
-        Rechnungslegungsverordnung, korrigiert um Erhöhungen oder
-        Verminderungen der Vorsorgereserven nach § 340f des Handelsgesetzbuchs
-        und des Sonderpostens nach § 340g des Handelsgesetzbuchs.
-
-        Die durchschnittliche Bilanzsumme ist das arithmetische Mittel der
-        Bilanzsumme gemäß aufgestelltem Jahresabschluss und der Bilanzsumme
-        des aufgestellten Jahresabschlusses, der dem Vorjahresabschluss
-        vorangeht.
-
-
-    4.3 Anstaltslast, Gewährträgerhaftung oder Refinanzierungsgarantie einer
-        Förderbank können von staatlicher Seite in Form der Anstaltslast,
-        Gewährträgerhaftung oder Refinanzierungsgarantie gewährt worden sein.
-
-
-    5.1 Potenzielle Verlustquote
-
-        Buchwert unbelastete Vermögenswerte gemäß Durchführungsverordnung (EU)
-        Nr. 2015/79, Template F 32.01 Zeile 010 Spalte 060, im Verhältnis zu
-        den gedeckten Einlagen zum 31. Dezember gemäß Meldung der CRR-
-        Kreditinstitute nach § 17 Absatz 4 Satz 1 des
-        Einlagensicherungsgesetzes.
-
-        Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des
-        Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU)
-        Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene
-        berücksichtigt.
-
-
-
-
-
-III. **Grundlage für die Ermittlung der Risikoindikatoren**
-
-    Grundlage für die Ermittlung der Risikoindikatoren sind die
-    Verhältnisse der Vermögens-, Finanz- und Ertragslage des CRR-
-    Kreditinstituts zum Ende des letzten vor dem 1. März des jeweiligen
-    Abrechnungsjahres abgeschlossenen Geschäftsjahres. Die nach dieser
-    Anlage zu berücksichtigenden Finanzdaten basieren auf dem
-    aufgestellten Jahresabschluss und dem aufsichtlichen Meldewesen des
-    CRR-Kreditinstituts.
-
-
-IV. **Ermittlung der Risikoklassen**
-
-    Die Risikoklasse nach § 11 Absatz 2 wird wie folgt ermittelt:
-
-    1.  Die Risikoindikatoren werden gemäß Spalte 3 der Tabelle unter Ziffer I
-        berechnet.
-
-
-    2.  Anhand des jeweiligen Risikoindikatorwerts wird das CRR-Kreditinstitut
-        mit Ausnahme des Indikators unter Ziffer 4.3 gemäß Ziffer I in eine
-        von drei Risikoausprägungen (gut/normal/schlecht) eingeordnet; für den
-        Risikoindikator unter Ziffer 4.3 gemäß Ziffer I erfolgt die Einordnung
-        in eine von zwei Risikoausprägungen (gut/normal).
-
-
-    3.  Die Risikoausprägung bestimmt die Höhe des individuellen Risikowerts
-        (IRS) eines Risikoindikators. Der IRS beträgt für die Risikoausprägung
-        „gut“ 0, für „normal“ 50 und für „schlecht“ 100.
-
-
-    4.  Der IRS jedes Risikoindikators wird mit der jeweiligen
-        Indikatorgewichtung gemäß Spalte 2 der Tabelle unter Ziffer I
-        multipliziert und innerhalb der einzelnen Risikokategorien gemäß
-        Spalte 1 der Tabelle unter Ziffer I aufsummiert, um den IRS einer
-        Risikokategorie zu bestimmen.
-
-
-    5.  Die gewichteten und aufsummierten IRS werden entsprechend ihrem
-        Summenwert einer Risikoklasse gemäß § 11 Absatz 2 zwischen 0 für
-        „geringstes Risiko“ und 5 für „höchstes Risiko“ zugeordnet.
-
-
-
-
-
+### Anlage 2 (weggefallen)
 
 

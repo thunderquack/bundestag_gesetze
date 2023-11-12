@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.8.1986 I 1455;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 17.7.2017 I 2541
-
-Änderung durch
-:   Art. 23 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 24 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 10.8.2021 I 3490
 
 
 ## § 1
@@ -226,8 +217,10 @@ nach dem Anmeldetag der Patentanmeldung, ausgeübt werden.
 fordert ihn das Deutsche Patent- und Markenamt auf, innerhalb von zwei
 Monaten nach Zustellung der Aufforderung das Aktenzeichen und den
 Anmeldetag anzugeben und eine Abschrift der Patentanmeldung
-einzureichen. Werden diese Angaben nicht rechtzeitig gemacht, so wird
-das Recht nach Absatz 1 Satz 1 verwirkt.
+einzureichen. Eine Abschrift wird nicht angefordert, wenn die
+Patentanmeldung beim Deutschen Patent- und Markenamt eingereicht
+worden ist. Werden die nach diesem Absatz geforderten Angaben nicht
+rechtzeitig gemacht, so wird das Recht nach Absatz 1 Satz 1 verwirkt.
 
 
 ## § 6
@@ -589,21 +582,39 @@ Sache erforderlichen Verfügungen. Es kann die Vernehmung von Zeugen
 und Sachverständigen anordnen. Für sie gelten die Vorschriften der
 Zivilprozeßordnung (§§ 373 bis 401 sowie 402 bis 414) entsprechend.
 Die Beweisverhandlungen sind unter Zuziehung eines beeidigten
-Protokollführers aufzunehmen.
+Protokollführers aufzunehmen. Eine mündliche Verhandlung findet nur
+statt, wenn ein Beteiligter dies beantragt oder das Deutsche Patent-
+und Markenamt dies für sachdienlich erachtet. § 128a der
+Zivilprozessordnung ist entsprechend anzuwenden.
 
-(3) Über den Antrag wird auf Grund mündlicher Verhandlung beschlossen.
-Der Beschluß ist in dem Termin, in dem die mündliche Verhandlung
-geschlossen wird, oder in einem sofort anzuberaumenden Termin zu
-verkünden. Der Beschluss ist zu begründen und den Beteiligten von Amts
-wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist
-nicht erforderlich. Ausfertigungen werden nur auf Antrag eines
-Beteiligten und nur in Papierform erteilt. § 47 Abs. 2 des
-Patentgesetzes ist entsprechend anzuwenden. Statt der Verkündung ist
-die Zustellung des Beschlusses zulässig.
+(3) Die Gebrauchsmusterabteilung entscheidet durch Beschluss über den
+Antrag. Der Beschluss ist zu begründen. Er ist den Beteiligten von
+Amts wegen in Abschrift zuzustellen. Eine Beglaubigung der Abschrift
+ist nicht erforderlich. Ausfertigungen werden nur auf Antrag eines
+Beteiligten und nur in Papierform erteilt. Wird über den Antrag auf
+Grund mündlicher Verhandlung entschieden, kann der Beschluss in dem
+Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet
+werden; die Sätze 2 bis 5 bleiben unberührt. § 47 Absatz 2 des
+Patentgesetzes ist entsprechend anzuwenden.
 
-(4) Das Patentamt hat zu bestimmen, zu welchem Anteil die Kosten des
-Verfahrens den Beteiligten zur Last fallen. § 62 Abs. 2 und § 84 Abs.
-2 Satz 2 und 3 des Patentgesetzes sind entsprechend anzuwenden.
+(4) Das Deutsche Patent- und Markenamt hat in dem Beschluss nach
+Absatz 3 Satz 1 zu bestimmen, zu welchem Anteil die Kosten des
+Verfahrens den Beteiligten zur Last fallen. Ergeht keine Entscheidung
+in der Hauptsache, wird über die Kosten des Verfahrens nur auf Antrag
+entschieden. Der Kostenantrag kann bis zum Ablauf eines Monats nach
+Zustellung der Mitteilung des Deutschen Patent- und Markenamts über
+die Beendigung des Verfahrens in der Hauptsache gestellt werden. Im
+Übrigen sind § 62 Absatz 2 und § 84 Absatz 2 Satz 2 und 3 des
+Patentgesetzes entsprechend anzuwenden. Sofern über die Kosten nicht
+entschieden wird, trägt jeder Beteiligte seine Kosten selbst.
+
+(5) Der Gegenstandswert wird auf Antrag durch Beschluss festgesetzt.
+Wird eine Entscheidung über die Kosten getroffen, so kann der
+Gegenstandswert von Amts wegen festgesetzt werden. Der Beschluss über
+den Gegenstandswert kann mit der Entscheidung nach Absatz 4 Satz 1 und
+2 verbunden werden. Für die Festsetzung des Gegenstandswerts gelten §
+23 Absatz 3 Satz 2 und § 33 Absatz 1 des
+Rechtsanwaltsvergütungsgesetzes entsprechend.
 
 
 ## § 18
@@ -668,20 +679,21 @@ Gebrauchsmuster entsprechend.
 ## § 21
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
-Gutachten (§ 29 Abs. 1 und 2), über die Wiedereinsetzung in den
-vorigen Stand (§ 123), über die Weiterbehandlung der Anmeldung (§
-123a), über die Wahrheitspflicht im Verfahren (§ 124), über die
-elektronische Verfahrensführung (§ 125a), über die Amtssprache (§
-126), über Zustellungen (§ 127), über die Rechtshilfe der Gerichte (§
-128), über die Entschädigung von Zeugen und die Vergütung von
-Sachverständigen (§ 128a) und über den Rechtsschutz bei überlangen
-Gerichtsverfahren (§ 128b) sind auch für Gebrauchsmustersachen
-anzuwenden.
+Gutachten (§ 29 Abs. 1 und 2), über die Nutzung von urheberrechtlich
+geschützten Werken und sonstigen Schutzgegenständen (§ 29a), über die
+Wiedereinsetzung in den vorigen Stand (§ 123), über die
+Weiterbehandlung der Anmeldung (§ 123a), über die Wahrheitspflicht im
+Verfahren (§ 124), über die elektronische Verfahrensführung (§ 125a),
+über die Amtssprache (§ 126), über Zustellungen (§ 127), über die
+Rechtshilfe der Gerichte (§ 128), über die Entschädigung von Zeugen
+und die Vergütung von Sachverständigen (§ 128a) und über den
+Rechtsschutz bei überlangen Gerichtsverfahren (§ 128b) sind auch für
+Gebrauchsmustersachen anzuwenden.
 
 (2) Die Vorschriften des Patentgesetzes über die Bewilligung von
 Verfahrenskostenhilfe (§§ 129 bis 138) sind in Gebrauchsmustersachen
-entsprechend anzuwenden, § 135 Abs. 3 mit der Maßgabe, daß dem nach §
-133 beigeordneten Vertreter ein Beschwerderecht zusteht.
+entsprechend anzuwenden, § 135 Abs. 3 mit der Maßgabe, daß der nach §
+133 beigeordneten Vertretung ein Beschwerderecht zusteht.
 
 
 ## § 22

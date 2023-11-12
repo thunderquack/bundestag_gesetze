@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 271
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 2 G v. 10.7.2020 I 1633
+:   Art. 1 V v. 21.9.2023 I Nr. 260
 
 
 ## Eingangsformel

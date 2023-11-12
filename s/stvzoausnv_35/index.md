@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 562
 
 Zuletzt geändert durch
-:   Art. 3 V v. 26.7.2013 I 2803
-
-Änderung durch
-:   Art. 2 V v. 25.6.2021 I 2204 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 25.6.2021 I 2204
 
 
 ## Eingangsformel

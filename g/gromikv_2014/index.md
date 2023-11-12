@@ -19,10 +19,7 @@ Fundstelle
 :   BGBl I: 2013, 4183
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.2.2019 I 151
-
-Änderung durch
-:   Art. 1 V v. 22.6.2021 I 1847 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 22.6.2021 I 1847
 
 Stand: Ersetzt V 7610-2-31 v. 14.12.2006 I 3065
     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
@@ -912,7 +909,7 @@ Oktober 2011 (BGBl. I S. 2103) geändert worden ist, außer Kraft.
 ### Anlage 2 Meldeformular EA
 
 (Fundstelle: BGBl. I 2019, 153 - 154; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 
 *    *
@@ -1326,7 +1323,7 @@ formular-center/meldungen veröffentlicht              sind.
 ### Anlage 3 Meldeformular STA
 
 (Fundstelle: BGBl. I 2019, 155 - 156; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 
 *    *
@@ -1733,7 +1730,7 @@ formular-center/meldungen veröffentlicht sind.
 ### Anlage 4 GbR
 
 (Fundstelle: BGBl. I 2013, 4197 - 4198; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 
 
@@ -1741,7 +1738,7 @@ formular-center/meldungen veröffentlicht sind.
 ### Anlage 5 MKNE
 
 (Fundstelle: BGBl. I 2013, 4199 - 4200; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 
 
@@ -1749,7 +1746,7 @@ formular-center/meldungen veröffentlicht sind.
 ### Anlage 6 STAK
 
 (Fundstelle: BGBl. I 2013, 4201 - 4202; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 
 
@@ -1757,7 +1754,7 @@ formular-center/meldungen veröffentlicht sind.
 ### Anlage 7 BA
 
 (Fundstelle: BGBl. I 2019, 157 - 160; bezüglich der einzelnen
-Änderungen vg. Fußnote)
+Änderungen vgl. Fußnote)
 
 ### Meldeformulare BA, BAS, BA6, BAS6, BA7, BAS7
 

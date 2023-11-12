@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1891
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.8.2018 I 1326
-
-Änderung durch
-:   Art. 7 Abs. 12 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 12 G v. 12.5.2021 I 990
 
 
 ## Eingangsformel
@@ -333,9 +330,10 @@ Maßgeblich ist der höchste zu erhebende Zuschlag.
 
 
 8.  2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne
-    des § 2 Absatz 2 Nummer 1 oder 2 des Wertpapierinstitutsgesetztes
-    erteilt worden ist; ist das Institut befugt, sich bei der Erbringung
-    von Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder
+    des § 2 Absatz 2 Nummer 1 oder 2 des
+    Wertpapierinstitutsgesetzes                    erteilt worden ist; ist
+    das Institut befugt, sich bei der Erbringung von
+    Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder
     Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 7,7
     Prozent;
 

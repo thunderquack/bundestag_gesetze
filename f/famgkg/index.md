@@ -2038,7 +2038,7 @@ Gehör**
 
 *    *   Vorbemerkung 1.3.1:
         (1) Keine Gebühren werden erhoben für
-        1\. die Pflegschaft für eine Leibesfrucht,
+        1\. die Pflegschaft für ein bereits gezeugtes Kind,
         2\. Kindschaftssachen nach § 151 Nr. 6 und 7 FamFG und
         3\. ein Verfahren, das Aufgaben nach dem Jugendgerichtsgesetz betrifft.
         (2) Von dem Minderjährigen werden Gebühren nach diesem Abschnitt nur
@@ -2667,12 +2667,6 @@ Gehör**
             das Recht zum persönlichen Umgang nach dem IntFamRVG,
 
 
-
-
-    *
-
-*    *
-    *
         2.  Vollstreckbarerklärung ausländischer Titel,
 
 
@@ -2681,16 +2675,22 @@ Gehör**
             Wiederherstellung des Sorgeverhältnisses,
 
 
-        4.  Erteilung der Vollstreckungsklausel zu ausländischen Titeln und
+        4.  Erteilung der Vollstreckungsklausel zu ausländischen Titeln,
 
 
         5.  Aufhebung oder Abänderung von Entscheidungen in den in den Nummern 2
-            bis 4
-            genannten Verfahren ..........
+            bis 4 genannten Verfahren und
+
+
+        6.  Versagung der Vollstreckung nach den §§ 44b und 44c IntFamRVG
+            ..........
 
 
 
 
+    *
+
+*    *
     *   264,00 €
 
 
@@ -2707,7 +2707,8 @@ Gehör**
 *    *   1712
 
     *   Verfahren über den Antrag auf Ausstellung einer Bestätigung nach §
-        1079 ZPO ..........
+        1079 ZPO und auf Aussetzung der Vollstreckung nach § 44f IntFamRVG
+        ..........
 
     *   22,00 €
 
@@ -3328,8 +3329,8 @@ Gehör**
 
 
 *    *
-    *   Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1836c
-        BGB erhoben.
+    *   Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1808
+        Abs. 2 Satz 1 und des § 1880 Abs. 2 BGB erhoben.
 
     *
 

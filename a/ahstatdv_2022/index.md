@@ -1672,7 +1672,7 @@ steht.
     *   9930 99 00
 
 
-*    *   **Betriebs‑ und Versorgungsgüter für Einrichtungen auf hoher See, z.
+*    *   **Betriebs- und Versorgungsgüter für Einrichtungen auf hoher See, z.
         B. Bohrinseln (nach § 22)**
 
     *   **9931**
@@ -1770,7 +1770,7 @@ steht.
     *
 
 *    *   **Zusammenstellungen (Sortimente) von Waren zum Errichten und
-        Ausstatten von Messe‑ und Ausstellungsständen zur vorübergehenden oder
+        Ausstatten von Messe- und Ausstellungsständen zur vorübergehenden oder
         nach vorübergehender Verwendung im Ausland**
 
     *   9990 99 21

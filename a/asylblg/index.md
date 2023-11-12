@@ -19,17 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 10.3.2021 I 335
-
-Änderung durch
-:   Art. 20c G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Änderung durch
-:   Art. 8 G v. 25.6.2021 I 2020 ist berücksichtigt
-
-Stand: Bek. v. 14.7.2021 I 2925 ist berücksichtigt
-Änderung durch
-:   Art. 18 G v. 10.12.2021 I 5162 ist berücksichtigt
+:   Art. 4 G v. 23.5.2022 I 760
 
 
 ## § 1 Leistungsberechtigte
@@ -50,7 +40,7 @@ tatsächlich im Bundesgebiet aufhalten und die
 
 3.  eine Aufenthaltserlaubnis besitzen
 
-    a)  wegen des Krieges in ihrem Heimatland nach § 23 Absatz 1 oder § 24 des
+    a)  wegen des Krieges in ihrem Heimatland nach § 23 Absatz 1 des
         Aufenthaltsgesetzes,
 
 
@@ -74,11 +64,32 @@ tatsächlich im Bundesgebiet aufhalten und die
 
 6.  Ehegatten, Lebenspartner oder minderjährige Kinder der in den Nummern
     1 bis 5 genannten Personen sind, ohne daß sie selbst die dort
-    genannten Voraussetzungen erfüllen, oder
+    genannten Voraussetzungen erfüllen,
 
 
 7.  einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag
-    nach § 71a des Asylgesetzes stellen.
+    nach § 71a des Asylgesetzes stellen oder
+
+
+8.
+    a)  eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes
+        besitzen, die ihnen nach dem 24. Februar 2022 und vor dem 1. Juni 2022
+        erteilt wurde, oder
+
+
+    b)  eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in
+        Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes
+        besitzen, die nach dem 24. Februar 2022 und vor dem 1. Juni 2022
+        ausgestellt wurde,
+
+
+
+    und bei denen weder eine erkennungsdienstliche Behandlung nach § 49
+    des Aufenthaltsgesetzes oder nach § 16 des Asylgesetzes durchgeführt
+    worden ist, noch deren Daten nach § 3 Absatz 1 des AZR-Gesetzes
+    gespeichert wurden; das Erfordernis einer erkennungsdienstlichen
+    Behandlung gilt nicht, soweit eine erkennungsdienstliche Behandlung
+    nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
 
 
@@ -97,6 +108,21 @@ Haushaltsgemeinschaft leben, endet die Leistungsberechtigung auch
 dann, wenn die Leistungsberechtigung eines Elternteils, der eine
 Aufenthaltserlaubnis nach § 25 Absatz 5 des Aufenthaltsgesetzes
 besitzt, entfallen ist.
+
+(3a) Sofern kein Fall des Absatzes 1 Nummer 8 vorliegt, sind
+Leistungen nach diesem Gesetz mit Ablauf des Monats ausgeschlossen, in
+dem Leistungsberechtigten, die gemäß § 49 des Aufenthaltsgesetzes
+erkennungsdienstlich behandelt worden sind und eine
+Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes
+beantragt haben, eine entsprechende Fiktionsbescheinigung nach § 81
+Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des
+Aufenthaltsgesetzes ausgestellt worden ist. Der Ausschluss nach Satz 1
+gilt bis zur Entscheidung der Ausländerbehörde über den Antrag auf
+Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des
+Aufenthaltsgesetzes. Das Erfordernis einer erkennungsdienstlichen
+Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine
+erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes
+nicht vorgesehen ist.
 
 (4) Leistungsberechtigte nach Absatz 1 Nummer 5, denen bereits von
 einem anderen Mitgliedstaat der Europäischen Union oder von einem am
@@ -373,8 +399,7 @@ dabei wird der Monat mit 30 Tagen berechnet. Geldleistungen dürfen
 längstens einen Monat im Voraus erbracht werden. Von Satz 3 kann nicht
 durch Landesrecht abgewichen werden.
 
-(6) Die Regelung des § 144 Satz 1 des Zwölften Buches Sozialgesetzbuch
-gilt entsprechend.
+(6) (weggefallen)
 
 
 ## § 3a Bedarfssätze der Grundleistungen
@@ -1284,10 +1309,75 @@ in der Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S.
 anzuwenden.
 
 
-## § 16 Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie
+## § 16 Sofortzuschlag
 
-Minderjährige Leistungsberechtigte, die für den Monat August 2021
-Anspruch auf Leistungen nach diesem Gesetz haben, erhalten eine
-Einmalzahlung in Höhe von 100 Euro. Eines gesonderten Antrags bedarf
-es nicht.
+Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das
+25\. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit
+mindestens einem Elternteil in einer Wohnung im Sinne von § 42a Absatz
+2 Satz 2 des Zwölften Buches Sozialgesetzbuch zusammenleben, haben
+Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Der
+Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
+
+
+## § 17 Einmalzahlung für den Monat Juli 2022
+
+Erwachsene Leistungsberechtigte, die für den Monat Juli 2022 Anspruch
+auf Leistungen haben, erhalten für diesen Monat zum Ausgleich der mit
+der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine
+Einmalzahlung in Höhe von 200 Euro, sofern sie nicht § 3a Absatz 1
+Nummer 3a zuzuordnen sind.
+
+
+## § 18 Übergangsregelung für Personen mit Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes oder entsprechender Fiktionsbescheinigung
+
+(1) Für die Zeit vom 1. Juni 2022 bis einschließlich 31. August 2022
+erhalten Personen abweichend von § 1 Absatz 1 Leistungen nach diesem
+Gesetz, wenn sie folgende Bedingungen erfüllen:
+
+1.  sie haben im Monat Mai 2022 Leistungen nach diesem Gesetz bezogen,
+
+
+2.  ihnen wurde nach dem 24. Februar 2022 und vor dem 1. Juni 2022 eine
+    Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes erteilt oder
+    eine Fiktionsbescheinigung gemäß § 81 Absatz 5 in Verbindung mit
+    Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes ausgestellt und
+
+
+3.  bei ihnen wurde entweder eine erkennungsdienstliche Behandlung nach §
+    49 des Aufenthaltsgesetzes oder nach § 16 des Asylgesetzes
+    durchgeführt oder ihre Daten wurden nach § 3 des AZR-Gesetzes
+    gespeichert.
+
+
+
+Der Leistungsanspruch endet mit Ablauf des Monats, der dem Monat
+vorausgeht, für den der zuständige Träger der Grundsicherung für
+Arbeitsuchende nach § 74 Absatz 5 Satz 3 des Zweiten Buches
+Sozialgesetzbuch oder der zuständige Träger der Leistungen nach dem
+Dritten oder Vierten Kapitel des Zwölften Buches Sozialgesetzbuch nach
+§ 146 Absatz 5 Satz 3 des Zwölften Buches Sozialgesetzbuch die
+Aufnahme der laufenden Leistungsgewährung gegenüber der für die
+Durchführung dieses Gesetzes zuständigen Behörde anzeigt.
+
+(2) Die Leistungen nach diesem Gesetz gemäß Absatz 1 sind gegenüber
+den Leistungen nach dem Zweiten und Zwölften Buch Sozialgesetzbuch
+nachrangig.
+
+(3) Leistungen nach den §§ 4 und 6 dieses Gesetzes, die für Zeiten
+erbracht wurden, für die ein Erstattungsanspruch nach § 74 Absatz 5
+des Zweiten Buches oder nach § 146 Absatz 5 des Zwölften Buches
+Sozialgesetzbuch besteht, werden den Leistungsträgern vom Bund
+erstattet; insoweit findet § 104 des Zehnten Buches Sozialgesetzbuch
+keine Anwendung. Das Erstattungsverfahren wird vom Bundesamt für
+Soziale Sicherung durchgeführt.
+
+
+## § 19 Einmalzahlung für Kinder
+
+Minderjährige Leistungsberechtigte erhalten eine Einmalzahlung in Höhe
+von 100 Euro, wenn sie für den Monat Oktober 2022 Anspruch auf
+Leistungen nach diesem Gesetz haben. Eines gesonderten Antrags bedarf
+es nicht. Ausgenommen von der Einmalzahlung nach Satz 1 sind
+Leistungsberechtigte, für die in einem der Monate von Januar bis
+Oktober 2022 ein Anspruch auf Kindergeld besteht.
 

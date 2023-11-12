@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2274
 
-Änderung durch
-:   Art. 3 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 3 G v. 7.8.2021
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

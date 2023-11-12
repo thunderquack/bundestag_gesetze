@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1862
 
 Zuletzt geändert durch
-:   Art. 14 Abs. 4 G v. 17.7.2017 I 2446
-
-Änderung durch
-:   Art. 7 Abs. 14 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 26 Abs. 1 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 26 Abs. 1 G v. 3.6.2021 I 1534
 
 Dies Gesetz dient der Umsetzung der Richtlinie 2011/89/EU des
 Europäischen Parlaments und des Rates vom 16. November 2011 zur

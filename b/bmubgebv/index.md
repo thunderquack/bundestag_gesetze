@@ -1,7 +1,7 @@
 ---
-Title: Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz
-  und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen
-  Zuständigkeitsbereich
+Title: Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz,
+  nukleare Sicherheit und Verbraucherschutz für individuell zurechenbare öffentliche
+  Leistungen in dessen Zuständigkeitsbereich
 jurabk: BMUBGebV
 layout: default
 origslug: bmubgebv
@@ -9,13 +9,16 @@ slug: bmubgebv
 
 ---
 
-# Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (BMUBGebV)
+# Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (BMUBGebV)
 
 Ausfertigungsdatum
 :   2021-06-30
 
 Fundstelle
 :   BGBl I: 2021, 2334
+
+Zuletzt geändert durch
+:   Art. 1 Nr. 1 V v. 5.9.2023 I Nr. 247
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
@@ -100,7 +103,10 @@ Grund der folgenden Vorschriften erbracht werden:
 
 
 14. Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der
-    antarktischen Robben.
+    antarktischen Robben,
+
+
+15. Einwegkunststofffondsgesetz.
 
 
 
@@ -156,7 +162,8 @@ anzuwenden.
 
 ## Anlage Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 2336 — 2347)
+(Fundstelle: BGBl. I 2021, 2336 - 2347;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Inhaltsübersicht
@@ -239,6 +246,11 @@ Abschnitt 14
 Gesetz
 zu dem Übereinkommen vom 1. Juni 1972
 ## zur Erhaltung der antarktischen Robben (RobErhÜbkG)
+
+
+Abschnitt 15
+
+## Einwegkunststofffondsgesetz (EWKFondsG)
 
 
 
@@ -1177,8 +1189,8 @@ Verordnung (EU) 2019/1122
 *    *   1
 
     *   Aufnahme eines Aufbereitungsstoffes oder eines Desinfektionsverfahrens
-        in die Liste nach § 11 Absatz 1 TrinkwV auf Antrag nach § 11 Absatz 5
-        TrinkwV
+        in die Liste zulässiger Aufbereitungsstoffe und Desinfektionsverfahren
+        auf Antrag nach § 20 Absatz 4 TrinkwV
 
     *
 
@@ -1216,9 +1228,7 @@ Verordnung (EU) 2019/1122
 
 *    *   2
 
-    *   Genehmigung einer befristeten Ausnahme von § 11 Absatz 1 Satz 1 und 5
-        sowie Absatz 2 TrinkwV zur Erprobung von Aufbereitungsstoffen oder
-        Desinfektionsverfahren auf Antrag nach § 12 Absatz 1 Satz 1 TrinkwV
+    *   Ausnahmegenehmigung nach § 21 Absatz 1 TrinkwV
 
     *   801,00
 
@@ -1226,7 +1236,7 @@ Verordnung (EU) 2019/1122
 *    *   3
 
     *   Feststellung der Gleichwertigkeit alternativer Untersuchungsverfahren
-        auf Antrag nach § 15 Absatz 1b TrinkwV
+        auf Antrag nach § 43 Absatz 2 TrinkwV
 
     *   44 300,00
 
@@ -1234,16 +1244,16 @@ Verordnung (EU) 2019/1122
 *    *   4
 
     *   Aufnahme von Ausgangsstoffen oder Werkstoffen und Materialien in eine
-        Positivliste nach § 17 Absatz 3 Satz 2 Nummer 2 oder 3 TrinkwV auf
-        Antrag nach § 17 Absatz 4 Satz 2 TrinkwV
+        Positivliste nach § 15 Absatz 3 Nummer 2 oder Nummer 3 TrinkwV auf
+        Antrag nach § 15 Absatz 5 Satz 1 TrinkwV
 
     *
 
 *    *   4.1
 
     *   Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur
-        Herstellung von Materialien oder Werkstoffen nach § 17 Absatz 3 Satz 2
-        Nummer 2 TrinkwV mit großer toxikologischer Bewertung auf Antrag
+        Herstellung von Werkstoffen oder Materialien nach § 15 Absatz 3 Nummer
+        2 TrinkwV mit großer toxikologischer Bewertung auf Antrag
 
     *   7 800,00
 
@@ -1251,16 +1261,16 @@ Verordnung (EU) 2019/1122
 *    *   4.2
 
     *   Aufnahme eines Stoffes in eine Positivliste von Ausgangsstoffen zur
-        Herstellung von Materialien oder Werkstoffen nach § 17 Absatz 3 Satz 2
-        Nummer 2 TrinkwV mit kleiner toxikologischer Bewertung auf Antrag
+        Herstellung von Werkstoffen oder Materialien nach § 15 Absatz 3 Nummer
+        2 TrinkwV mit kleiner toxikologischer Bewertung auf Antrag
 
     *   3 560,00
 
 
 *    *   4.3
 
-    *   Aufnahme von Materialien oder Werkstoffen in die Positivliste nach
-        § 17 Absatz 3 Satz 2 Nummer 3 TrinkwV auf Antrag
+    *   Aufnahme eines Werkstoffs oder Materials in die Positivliste nach § 15
+        Absatz 3 Nummer 3 TrinkwV auf Antrag
 
     *   7 720,00
 
@@ -2216,6 +2226,116 @@ Robben
         werden.
 
     *
+
+
+
+
+   ## Abschnitt 15
+
+
+## Einwegkunststofffondsgesetz (EWKFondsG)
+
+
+*    *   Nummer
+
+    *   Gebührentatbestand
+
+    *   Gebühren in Euro
+
+
+*    *   1
+
+    *   Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit
+        Widersprüchen gegen Verwaltungsakte auf Grundlage des EWKFondsG
+
+    *
+
+*    *   1.1
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        7 Absatz 4 Nummer 1 und 4 EWKFondsG, soweit der Widerspruch erfolglos
+        geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.2
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        10 Absatz 2 Satz 3 und Absatz 3 Satz 2 EWKFondsG, soweit der
+        Widerspruch erfolglos geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.3
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        11 Absatz 4 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos
+        geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.4
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        13 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos
+        geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.5
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        15 Absatz 5 Nummer 2 und 5 EWKFondsG, soweit der Widerspruch erfolglos
+        geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.6
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        18 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos
+        geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.7
+
+    *   Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach §
+        21 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist
+
+    *   nach Zeitaufwand
+
+
+*    *   1.8
+
+    *   Entscheidung über einen Widerspruch gegen sonstige Verwaltungsakte,
+        soweit der Widerspruch erfolglos geblieben ist, mit Ausnahme von
+        Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG
+
+    *   nach Zeitaufwand
+
+
+*    *   1.9
+
+    *   Zurücknahme oder Erledigung eines Widerspruchs auf sonstige Weise,
+        bevor ein Widerspruchsbescheid erlassen ist, mit Ausnahme von
+        Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG
+
+    *   nach Zeitaufwand
+
+
+*    *   2
+
+    *   Erlass eines Verwaltungsakts nach § 22 Absatz 1 EWKFondsG
+
+    *   nach Zeitaufwand
+
 
 
 

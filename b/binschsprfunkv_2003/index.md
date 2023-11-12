@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 4569 (2003 I 130)
 
 Zuletzt geändert durch
-:   Art. 2 § 9 V v. 21.9.2018 I 1398
-
-Änderung durch
-:   Art. 6 V v. 5.1.2022 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 5.1.2022 I 2
 
 § 3 Abs. 2 und 3 dieser Verordnung dient der Umsetzung der Richtlinie
 1999/5/EG des Europäischen Parlaments und des Rates vom 9. März 1999

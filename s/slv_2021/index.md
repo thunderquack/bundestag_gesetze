@@ -97,10 +97,10 @@ Zweitbeurteilerin oder Zweitbeurteiler erstellt. Sie schließt mit
 einem Gesamturteil der Zweitbeurteilerin oder des Zweitbeurteilers ab.
 Insbesondere für die Beurteilung von Soldatinnen und Soldaten, die
 nicht in den Streitkräften verwendet werden, kann das
-Bundesministerium der Vereidigung festlegen, dass die Beurteilungen
-von anderen als den in Satz 1 genannten Personen erstellt werden,
-sofern diese über ausreichende Kenntnis von Eignung, Befähigung und
-fachlicher Leistung der zu Beurteilenden verfügen.
+Bundesministerium der Verteidigung              festlegen, dass die
+Beurteilungen von anderen als den in Satz 1 genannten Personen
+erstellt werden, sofern diese über ausreichende Kenntnis von Eignung,
+Befähigung und fachlicher Leistung der zu Beurteilenden verfügen.
 
 (2) Es sind Vergleichsgruppen nach dem Dienstgrad, der
 Besoldungsgruppe oder der Funktionsebene zu bilden. Innerhalb dieser

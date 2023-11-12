@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2015, 1776
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.11.2020 I 2497
+:   Art. 1 V v. 17.12.2021 I 5231
 
 Änderung durch
-:   Art. 1 V v. 17.12.2021 I 5231 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 5.12.2022 I 2124 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 2129-43-1 v. 6.7.2005 I 2020 (ElektroGKostV)
 
@@ -69,40 +69,51 @@ Einzelfall durch Amtsträger zu bearbeiten.
 Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes
 beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und
 Elektronikgerätegesetz kann auf Antrag die Gebühr nach den Nummern
-1\.1, 1.4 bis 1.7, 1.15, 2.1, 2.3, 3.1 und 3.2 der Anlage ermäßigen
+1\.1, 1.4 bis 1.7, 1.13, 2.1, 2.3, 3.1 und 3.2 der Anlage ermäßigen
 oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter
-Berücksichtigung
+Berücksichtigung folgender Punkte unverhältnismäßig wäre:
 
-1.  der Menge der in Verkehr gebrachten Geräte oder Batterien,
-
-
-2.  des wirtschaftlichen Wertes der Registrierung für den Hersteller,
+1.  Menge der in Verkehr gebrachten Geräte oder Batterien,
 
 
-3.  der voraussichtlichen Entsorgungskosten und
+2.  wirtschaftlicher Wert der Registrierung für den Hersteller,
 
 
-4.  der abfallwirtschaftlichen Relevanz
+3.  voraussichtliche Entsorgungskosten und
+
+
+4.  abfallwirtschaftliche Relevanz.
 
 
 
-unverhältnismäßig wäre. Der Antrag muss Angaben zu allen Kriterien
-nach Satz 1 Nummer 1 bis 4 enthalten.
+Der Antrag muss Angaben zu allen Kriterien nach Satz 1 Nummer 1 bis 4
+enthalten.
 
-(2) Der Antrag nach Absatz 1 ist innerhalb von drei Monaten nach
-Bekanntgabe des Gebührenbescheids bei der Behörde oder bei der
-beliehenen Gemeinsamen Stelle zu stellen, die den Gebührenbescheid
-erlassen hat. Erfolgt keine Bekanntgabe, ist der Antrag nach Absatz 1
-spätestens innerhalb eines Jahres nach Entstehung der Gebührenschuld
-zu stellen. In den Fällen des Satzes 2 ist der Antrag bei der Behörde
-oder der beliehenen Gemeinsamen Stelle zu stellen, die für den Erlass
-des Gebührenbescheids zuständig ist.
+(2) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und
+Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes
+beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und
+Elektronikgerätegesetz kann auf Antrag die Gebühr nach der Nummer 1.17
+ermäßigen oder von der Gebühr befreien, wenn der Standort der
+Erstbehandlungsanlage anerkannt ist als Werkstatt für behinderte
+Menschen nach dem Neunten Buch Sozialgesetzbuch. Dem Antrag muss eine
+Kopie des entsprechenden Anerkennungsbescheids der Bundesagentur für
+Arbeit beigefügt sein.
+
+(3) Der Antrag nach Absatz 1 oder Absatz 2 ist innerhalb von drei
+Monaten nach Bekanntgabe des Gebührenbescheids bei der Behörde oder
+bei der beliehenen Gemeinsamen Stelle zu stellen, die den
+Gebührenbescheid erlassen hat. Erfolgt keine Bekanntgabe, ist der
+Antrag nach Absatz 1 oder Absatz 2 spätestens innerhalb eines Jahres
+nach Entstehung der Gebührenschuld zu stellen. In den Fällen des
+Satzes 2 ist der Antrag bei der Behörde oder der beliehenen
+Gemeinsamen Stelle zu stellen, die für den Erlass des
+Gebührenbescheids zuständig ist.
 
 
 ## § 3 Übergangsvorschriften
 
 (1) Diese Verordnung gilt auch für die Erhebung von Gebühren für
-gebührenfähige Leistungen, die am 1. Januar 2022 bereits beantragt
+gebührenfähige Leistungen, die am 1. Januar 2023 bereits beantragt
 oder begonnen wurden, aber noch nicht vollständig erbracht sind.
 
 (2) Nummer 1.4 bis 1.6 der Anlage gilt entsprechend für die Prüfung
@@ -133,7 +144,7 @@ geändert worden ist, außer Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 5232 - 5235)
+(Fundstelle: BGBl. I 2022, 2225 — 2228)
 
 
 *    *   Nr.
@@ -153,18 +164,21 @@ geändert worden ist, außer Kraft.
 
 *    *   1.1
 
-    *   **Registrierung nach § 37 Absatz 1 Satz 1 oder Satz 2 ElektroG**
+    *   **Erteilung einer Registrierung nach § 37 Absatz 1 Satz 1 oder Satz 2
+        ElektroG**
         je Hersteller, Marke und Geräteart oder je Bevollmächtigten,
         vertretenen Hersteller, Marke und Geräteart
 
-    *   24,80
+    *   12,40
 
 
 *    *   1.2
 
-    *   (weggefallen)
+    *   **Quartalsgebühr für Registrierungskontoinhaber**
+        je Registrierungsnummer und je angefangenes Kalenderquartal
 
-    *
+    *   24,10
+
 
 *    *   1.3
 
@@ -173,8 +187,8 @@ geändert worden ist, außer Kraft.
         je Hersteller und Gerät oder je Bevollmächtigten, vertretenen
         Hersteller und Gerät
 
-    *   112,60
-        bis 3 267,70
+    *   70,20
+        bis 2 036,50
 
 
 *    *   1.4
@@ -185,7 +199,7 @@ geändert worden ist, außer Kraft.
         je Hersteller oder je Bevollmächtigten und je vorgelegte Garantie für
         eine Geräteart und ein Kalenderjahr
 
-    *   92,20
+    *   102,10
 
 
 *    *   1.5
@@ -203,7 +217,7 @@ geändert worden ist, außer Kraft.
         nachträglich geänderte Garantie für eine Geräteart und ein
         Kalenderjahr
 
-    *   14,50
+    *   16,50
 
 
 *    *   1.6
@@ -218,7 +232,7 @@ geändert worden ist, außer Kraft.
         nachträglich geänderte Garantie für eine Geräteart und ein
         Kalenderjahr
 
-    *   8,90
+    *   9,60
 
 
 *    *   1.7
@@ -228,7 +242,7 @@ geändert worden ist, außer Kraft.
         eines Rücknahmekonzepts nach § 37 Absatz 1 Satz 4 ElektroG**
         je Registrierung nach Nummer 1.1
 
-    *   100,40
+    *   113,00
 
 
 *    *   Benennung und Zulassung eines Bevollmächtigten,
@@ -242,16 +256,16 @@ geändert worden ist, außer Kraft.
         Satz 2 ElektroG**
         je Benennung
 
-    *   12,60
+    *   45,30
 
 
 *    *   1.9
 
-    *   **Bestätigung der Änderung der Beauftragung nach § 37 Absatz 2 Satz 2
-        ElektroG**
+    *   **Bestätigung der Änderungen der Beauftragung nach § 37 Absatz 2 Satz
+        2 ElektroG**
         je Änderungsmitteilung
 
-    *   36,10
+    *   17,30
 
 
 *    *   1.10
@@ -260,7 +274,7 @@ geändert worden ist, außer Kraft.
         Satz 2 ElektroG**
         je Beendigungsmitteilung
 
-    *   8,90
+    *   10,00
 
 
 *    *   1.11
@@ -270,7 +284,7 @@ geändert worden ist, außer Kraft.
         Zulassung**
         je Zulassung oder Änderung der Zulassung
 
-    *   1 198,10
+    *   1 371,00
 
 
 *    *   Weitere Leistungen im Zusammenhang mit der Registrierung
@@ -278,12 +292,6 @@ geändert worden ist, außer Kraft.
 
 
 *    *   1.12
-
-    *   (weggefallen)
-
-    *
-
-*    *   1.13
 
     *   **Aufforderung zum Nachweis einer erforderlichen Garantie zur
         Abwendung eines Widerrufs nach § 37 Absatz 5 Satz 1 Nummer 1
@@ -293,29 +301,23 @@ geändert worden ist, außer Kraft.
         hinsichtlich eines vertretenen Herstellers für eine Geräteart und ein
         Kalenderjahr
 
-    *   101,30
+    *   112,80
 
 
-*    *   1.14
-
-    *   (weggefallen)
-
-    *
-
-*    *   1.15
+*    *   1.13
 
     *   **Änderung der Registrierung im Hinblick auf die registrierte
         Geräteart nach § 37 Absatz 5 Satz 4 ElektroG**
         je Registrierung nach Nummer 1.1 und je Änderung
 
-    *   62,10
+    *   40,10
 
 
 *    *   Garantiesysteme
         **(§ 37 Absatz 6 ElektroG)**
 
 
-*    *   1.16
+*    *   1.14
 
     *   **Kalenderjährliche Feststellung oder Ablehnung der Feststellung der
         Geeignetheit eines Systems für die Finanzierung der Entsorgung von
@@ -323,76 +325,76 @@ geändert worden ist, außer Kraft.
         und 2 Satz 1 Nummer 4 ElektroG**
         je System und Kalenderjahr
 
-    *   1 538,70
+    *   1 630,80
 
 
-*    *   1.17
+*    *   1.15
 
-    *   **Nachträgliche Änderung einer Feststellung nach Nummer 1.16 nach
-        Änderung eines als für die Finanzierung der Entsorgung von Altgeräten
-        nach § 37 Absatz 6 Satz 1 und 3 ElektroG in Verbindung mit § 7 Absatz
-        1 und 2 Satz 1 Nummer 4 ElektroG geeignet festgestellten Systems**
+    *   **Nachträgliche Änderung einer Feststellung nach Nummer 1.14 nach
+        Änderung eines (nach Nummer 1.16 für ein Kalenderjahr) als für die
+        Finanzierung der Entsorgung von Altgeräten nach § 37 Absatz 6 Satz 1
+        und 3 ElektroG in Verbindung mit § 7 Absatz 1 und 2 Satz 1 Nummer 4
+        ElektroG geeignet festgestellten Systems**
         je System und Änderungsmitteilung
 
-    *   228,30
+    *   241,40
 
 
 *    *   Entgegennahme und Prüfung
-        von Anzeigen der öffentlich-rechtlichen Entsorgungsträger und
-        der Betreiber von Erstbehandlungsanlagen ****
+        von Anzeigen öffentlich-rechtlicher Entsorgungsträger und
+        der Betreiber von Erstbehandlungsanlagen
         **(§ 38 Absatz 2 ElektroG)**
 
 
-*    *   1.18
+*    *   1.16
 
     *   **Entgegennahme und Prüfung der Optierungsanzeige des öffentlich-
         rechtlichen Entsorgungsträgers nach § 38 Absatz 2 Satz 1 Nummer 2 und
         Satz 5 ElektroG in Verbindung mit § 25 Absatz 1 Satz 3 ElektroG**
         je Sammelgruppe und Anzeige
 
-    *   132,90
+    *   110,10
 
 
-*    *   1.19
+*    *   1.17
 
-    *   **Entgegennahme und Prüfung der Anzeige des Betreibers einer
+    *   **Entgegennahme und Prüfung der Anzeige der Betreiber einer
         Erstbehandlungsanlage nach § 38 Absatz 2 Satz 1 Nummer 3 und Satz 6
         ElektroG in Verbindung mit § 25 Absatz 2 ElektroG**
         je Zertifikat und Anzeige
 
-    *   313,30
+    *   302,00
 
 
 *    *   Anordnungen
         **(§ 15 Absatz 4 Satz 1, § 38 Absatz 3 ElektroG)**
 
 
-*    *   1.20
+*    *   1.18
 
     *   **Aufstellungsanordnung nach § 15 Absatz 4 Satz 1 ElektroG**
 
-    *   7,50
+    *   9,20
 
 
-*    *   1.21
+*    *   1.19
 
     *   **Abholanordnung nach § 38 Absatz 3 ElektroG**
 
-    *   7,50
+    *   9,20
 
 
 *    *   Berücksichtigungs- und Anrechnungsentscheidung
         **(§ 38 Absatz 4 ElektroG)**
 
 
-*    *   1.22
+*    *   1.20
 
     *   **Entscheidung nach § 38 Absatz 4 ElektroG über die Berücksichtigung
         oder Anrechnung mitgeteilter Mengen**
         je Mengenmitteilung
 
-    *   44,50
-        bis 195,80
+    *   109,70
 
 
 *    *   Abschnitt 2
@@ -409,7 +411,7 @@ geändert worden ist, außer Kraft.
         je Hersteller, Marke und Batterieart oder
         je Bevollmächtigten, vertretenen Hersteller, Marke und Batterieart
 
-    *   15,60
+    *   29,20
 
 
 *    *   2.2
@@ -419,8 +421,8 @@ geändert worden ist, außer Kraft.
         je Hersteller und Batterie oder
         je Bevollmächtigten, vertretenen Hersteller und Batterie
 
-    *   156,20
-        bis 4 531,30
+    *   177,70
+        bis 5 154,60
 
 
 *    *   2.3
@@ -431,10 +433,10 @@ geändert worden ist, außer Kraft.
         je Hersteller oder
         je Bevollmächtigten und vertretenen Hersteller
 
-    *   5,70
+    *   8,40
 
 
-*    *   Rücknahmesysteme ****
+*    *   Rücknahmesysteme
         **(§ 20 Absatz 2 BattG)**
 
 
@@ -443,8 +445,8 @@ geändert worden ist, außer Kraft.
     *   **Genehmigung eines Rücknahmesystems nach § 20 Absatz 2 Satz 1 BattG**
         je Rücknahmesystem
 
-    *   2 305,50
-        bis 27 666,20
+    *   1 049,10
+        bis 12 590,10
 
 
 *    *   2.5
@@ -457,7 +459,7 @@ geändert worden ist, außer Kraft.
         je hinzutretenden oder ausscheidenden Bevollmächtigten und vertretenen
         Hersteller
 
-    *   47,40
+    *   21,50
 
 
 *    *   2.6
@@ -467,8 +469,8 @@ geändert worden ist, außer Kraft.
         Verbindung mit § 7 Absatz 2 Satz 4 BattG**
         je Änderung oder Auflage
 
-    *   111,30
-        bis 2 115,10
+    *   115,90
+        bis 2 203,50
 
 
 *    *   2.7
@@ -477,10 +479,10 @@ geändert worden ist, außer Kraft.
         2 BattG**
         je Rücknahmesystem und Überprüfung
 
-    *   700,50
+    *   658,90
 
 
-*    *   Anordnungen ****
+*    *   Anordnungen
         **(§ 28 Absatz 1 BattG)**
 
 
@@ -490,15 +492,25 @@ geändert worden ist, außer Kraft.
         Verbindung mit § 7 Absatz 2 Satz 2 Nummer 1 BattG**
         je Rücknahmestelle und Rücknahmesystem
 
-    *   134,20
+    *   124,70
 
 
 *    *   2.9
 
+    *   **Anordnungen zur dauerhaften Sicherstellung der
+        Sammelzielerreichung**
+        Mittels dS-Faktor nach § 28 Absatz 1 BattG in Verbindung mit § 7
+        Absatz 2 Satz 1 BattG
+
+    *   0,80
+
+
+*    *   2.10
+
     *   **Sonstige Anordnungen nach § 28 Absatz 1 BattG**
 
-    *   0,60
-        bis 12,60
+    *   27,80
+        bis 529,70
 
 
 *    *   Abschnitt 3
@@ -519,7 +531,7 @@ geändert worden ist, außer Kraft.
         mit Prüfung gesellschaftsrechtlicher Änderungen**
         je Hersteller oder Bevollmächtigter
 
-    *   175,70
+    *   166,40
 
 
 *    *   3.2
@@ -533,30 +545,28 @@ geändert worden ist, außer Kraft.
         ohne Prüfung gesellschaftsrechtlicher Änderungen**
         je Änderungssitzung
 
-    *   5,30
+    *   4,60
 
 
 *    *   3.3
 
     *   Erhöhung der Gebühr
-        nach den Nummern 1.1 bis 1.10 und 1.18 bei Antragstellung,
+        nach den Nummern 1.1 bis 1.10 und 1.16 bei Antragstellung,
         Übermittlung der Nachweise oder Anzeigen außerhalb des zur Verfügung
         gestellten elektronischen Datenverarbeitungssystems im Sinne des § 37
         Absatz 3 ElektroG, auch in Verbindung mit § 38 Absatz 2 Satz 2
-        ElektroG,
-        oder
+        ElektroG, oder
         nach den Nummern 2.1 bis 2.7 bei Antragstellung oder Übermittlung der
         Nachweise außerhalb des von der zuständigen Behörde zur Verfügung
         gestellten elektronischen Datenverarbeitungssystems im Sinne des § 4
-        Absatz 3 BattG oder des § 7 Absatz 6 BattG
-        oder
+        Absatz 3 BattG oder des § 7 Absatz 6 BattG oder
         **nach den Nummern 3.1 und 3.2 bei Antragstellung oder Übermittlung
         der Nachweise außerhalb des von der zuständigen Behörde zur Verfügung
         gestellten elektronischen Datenverarbeitungssystems im Sinne des § 37
         Absatz 3 ElektroG oder im Sinne des § 4 Absatz 3 BattG**
 
-    *   27,30
-        bis 246,20
+    *   26,60
+        bis 239,60
 
 
 

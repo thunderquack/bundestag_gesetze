@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 1214
 
 Zuletzt geändert durch
-:   Art. 5 V v. 22.7.2021 I 3552
+:   Art. 5 V v. 15.12.2022 I 2862
 
 
 ## Eingangsformel
@@ -44,7 +44,7 @@ Fernstudiengang angeboten.
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
 
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
 Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
@@ -94,12 +94,8 @@ Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung
 bleibt unberührt. Das Auswahlverfahren wird an der Hochschule von
 einer Auswahlkommission durchgeführt. Es besteht aus einem
 schriftlichen und einem mündlichen Teil. Das Bundesministerium des
-Innern, für Bau und Heimat entscheidet über Ausnahmen von der
-Zuständigkeit nach Satz 1.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür
-geeignete technische Einrichtungen zur Verfügung stehen.
+Innern und für Heimat entscheidet über Ausnahmen von der Zuständigkeit
+nach Satz 1.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
@@ -146,7 +142,7 @@ Vorsitzenden den Ausschlag. Die Mitglieder und Ersatzmitglieder der
 Auswahlkommission werden von der Hochschule für die Dauer von drei
 Jahren bestellt. Wiederbestellung ist zulässig.
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die
 Auswahlkommission – abweichend von Absatz 4 Satz 1 – nur aus folgenden
 Mitgliedern besteht:
 
@@ -227,7 +223,7 @@ Lehrstunden.
 
 
 
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  Semester des Präsenzstudiengangs anders gegliedert werden als nach
     Absatz 3 und
@@ -303,7 +299,7 @@ absolvieren:
 
 
 
-(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 –
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 –
 abweichend von den Absätzen 2 und 3 – Lehrveranstaltungen zu den
 Kompetenzbereichen oder Teile der Lehrveranstaltungen in ein anderes
 Semester verschoben werden, und zwar auch in ein Semester einer
@@ -314,7 +310,7 @@ berufspraktischen Studienzeit.
 
 ### § 7a Nutzung digitaler Lehrformate
 
-Bis zum 31. Dezember 2022 können nach Entscheidung der Hochschule
+Bis zum 31. Dezember 2024 können nach Entscheidung der Hochschule
 digitale Lehrformate genutzt werden
 
 1.  für einzelne oder für alle Lehrveranstaltungen des Präsenzstudiengangs
@@ -467,7 +463,7 @@ entsprechende Qualifikation verfügen. Zwei Mitglieder der
 Prüfungskommission sollen Lehrkräfte der Hochschule sein.
 
 (6a) Abweichend von Absatz 6 Satz 2 bis 4 können bis zum 31. Dezember
-2022 von den fünf Mitgliedern der Prüfungskommission für die mündliche
+2024 von den fünf Mitgliedern der Prüfungskommission für die mündliche
 Abschlussprüfung höchstens vier Prüfende auch Lehrbeauftragte sein,
 die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder
 Arbeitnehmer des Bundes sind, wenn sie
@@ -487,7 +483,7 @@ Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit.
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
-(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 eine Prüfungskommission bereits beschlussfähig ist, wenn mindestens
 drei Mitglieder anwesend sind.
 
@@ -535,7 +531,7 @@ Lehrkraft einer der folgenden Leistungstests durchgeführt:
 
 
 
-(4a) Bis zum 31. Dezember 2022 können
+(4a) Bis zum 31. Dezember 2024 können
 
 1.  die Leistungstests Klausur, Sprachtest und Lehrveranstaltungsprotokoll
     mit Unterstützung durch Informationstechnik durchgeführt werden, und
@@ -560,7 +556,7 @@ Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4
 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs
 Allgemeine Innere Verwaltung.
 
-(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die
+(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die
 Modulprüfung in einem Praktikum nur aus einem Praktikumsbericht
 besteht.
 
@@ -571,7 +567,7 @@ besteht.
 Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“
 abgeschlossen.
 
-(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung
+(1a) Bis zum 31. Dezember 2024 kann die Zwischenprüfung
 studiengangbegleitend durchgeführt werden.
 
 (2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen
@@ -581,7 +577,7 @@ Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen
 der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle
 des Namens mit einer Kennziffer zu versehen.
 
-(2a) Bis zum 31. Dezember 2022 können höchstens zwei der vier
+(2a) Bis zum 31. Dezember 2024 können höchstens zwei der vier
 Modulprüfungen der Zwischenprüfung – abweichend von Absatz 2 Satz 2 –
 als Hausarbeit durchgeführt werden. Das jeweilige Thema für die
 Hausarbeit wählt die Dekanin oder der Dekan des Zentralbereichs aus
@@ -665,7 +661,7 @@ Diplomarbeit bestanden hat.
 Teilen die Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die
 mündliche Abschlussprüfung soll nicht länger als 40 Minuten dauern.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
 
 1.  für die mündliche Abschlussprüfung die folgenden Kompetenzbereiche zu
     dem Kompetenzbereich „rechtliches Handeln in der Bundesverwaltung“
@@ -709,11 +705,11 @@ Ist festgelegt worden, dass die in Satz 1 Nummer 1 genannten
 Kompetenzbereiche zusammengefasst werden, so soll die mündliche
 Abschlussprüfung nicht länger als 30 Minuten dauern.
 
-(2b) Mit Zustimmung des Bundesministeriums des Innern, für Bau und
-Heimat kann die Hochschule festlegen, dass bis zum 31. Dezember 2022
-auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird,
-wenn nicht gewährleistet werden kann, dass die Durchführung ohne
-Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der
+(2b) Mit Zustimmung des Bundesministeriums des Innern und für Heimat
+kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 auf die
+Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
+nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße
+gegen ordnungsrechtliche Vorgaben zur Bewältigung der
 COVID-19-Pandemie erfolgt, selbst wenn von der Ausnahmemöglichkeit
 nach Absatz 2a Gebrauch gemacht würde.
 
@@ -733,8 +729,8 @@ bestätigen.
 (5) Die Prüfung ist hochschulöffentlich, wenn die Studierenden nicht
 widersprechen. Angehörige des Prüfungsamtes können unabhängig vom
 Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann
-Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-Bau und Heimat, der Präsidentin oder dem Präsidenten und den
+Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+für Heimat, der Präsidentin oder dem Präsidenten und den
 Fachbereichsleitungen der Fachhochschule, in Ausnahmefällen auch
 anderen mit der Ausbildung befassten Personen, die Anwesenheit bei der
 mündlichen Prüfung grundsätzlich oder im Einzelfall gestatten.
@@ -950,11 +946,10 @@ die Wiederholung erfolglos, ist das Studium beendet.
 (2) Ist die Zwischenprüfung nicht bestanden, kann sie spätestens fünf
 Monate nach Ende des Grundstudiums und frühestens einen Monat nach
 Bekanntgabe des Ergebnisses einmal wiederholt werden. In begründeten
-Ausnahmefällen kann das Bundesministerium des Innern, für Bau und
-Heimat eine zweite Wiederholung zulassen. Die Zwischenprüfung ist
-vollständig zu wiederholen. Die weitere Ausbildung wird wegen der
-Wiederholung der Prüfung nicht ausgesetzt. Absatz 1 Satz 2 gilt
-entsprechend.
+Ausnahmefällen kann das Bundesministerium des Innern und für Heimat
+eine zweite Wiederholung zulassen. Die Zwischenprüfung ist vollständig
+zu wiederholen. Die weitere Ausbildung wird wegen der Wiederholung der
+Prüfung nicht ausgesetzt. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Wird die Diplomarbeit mit weniger als fünf Rangpunkten bewertet,
 kann sie einmal wiederholt werden. Die Bearbeitungszeit für die

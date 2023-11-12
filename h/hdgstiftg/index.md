@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1990, 294
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 60 G v. 5.2.2009 I 160
-
-Änderung durch
-:   Art. 2 G v. 16.7.2021 I 3014 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 16.7.2021 I 3014
 
 
 ## § 1 Errichtung und Rechtsform

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1010
 
 Zuletzt geändert durch
-:   Art. 2 G v. 28.6.2021 I 2250
+:   Art. 4 G v. 31.5.2023 I Nr. 140
 
 
 ## Eingangsformel
@@ -946,14 +946,18 @@ Beamtenverhältnisses.
 
 
 2.  Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung
-    nach keiner Geheimhaltung bedürfen, oder
+    nach keiner Geheimhaltung bedürfen,
 
 
 3.  gegenüber der zuständigen obersten Dienstbehörde, einer
     Strafverfolgungsbehörde oder einer durch Landesrecht bestimmten
     weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen
     begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337
-    des Strafgesetzbuches angezeigt wird.
+    des Strafgesetzbuches angezeigt wird oder
+
+
+4.  Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes
+    an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 
 

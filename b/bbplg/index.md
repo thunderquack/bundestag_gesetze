@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2543; 2014, 148, 271
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 4 G v. 2.6.2021 I 1295
+:   Art. 5 G v. 22.5.2023 I Nr. 133
 
 Stand: § 1 iVm Nr. 33 der Anlage ist gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 in Kraft getreten
 Stand: § 1 iVm Nr. 29 der Anlage ist gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten
@@ -57,13 +57,11 @@ als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen
 a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
 
 (3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind
-Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den
-Netzverknüpfungspunkten an Land im Sinne von § 2 Absatz 1 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz (Offshore-
-Anbindungsleitungen). Sie werden im Küstenmeer als Seekabel und
-landeinwärts bis zu den im Bundesbedarfsplan festgelegten
-Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und
-betrieben oder geändert.
+Offshore-Anbindungsleitungen im Sinne von § 2 Absatz 1 des
+Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Sie werden im
+Küstenmeer als Seekabel und landeinwärts bis zu den im
+Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung
+oder Erdkabel errichtet und betrieben oder geändert.
 
 (4) Die im Bundesbedarfsplan mit „D“ gekennzeichneten Vorhaben sind
 als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach
@@ -87,6 +85,45 @@ werden.
 gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4
 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer
 besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten.
+Vorhaben im Sinne von Absatz 5 sollen ebenfalls mit „G“ gekennzeichnet
+werden, wenn eine Angabe nach § 12b Absatz 3a des
+Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie
+
+1.  dieselben Netzverknüpfungspunkte haben
+
+    a)  wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter
+        Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des
+        Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden
+        ist, oder
+
+
+    b)  wie ein durch Landesplanungen oder nach Landesrecht bestimmter
+        Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-
+        Übertragung oder
+
+
+
+
+
+2.  räumlich weit überwiegend
+
+    a)  einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen
+        festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß
+        § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz
+        aufgenommen worden ist, oder
+
+
+    b)  einem durch Landesplanungen oder nach Landesrecht bestimmten
+        Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-
+        Übertragung entsprechen.
+
+
+
+
+
+
+Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben
+im Sinne von Absatz 3 entsprechend anzuwenden.
 
 (8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben
 stehen die energiewirtschaftliche Notwendigkeit und der vordringliche
@@ -145,7 +182,10 @@ Freileitung auf Teilabschnitten innerhalb der betreffenden
 Gebietskörperschaft abweichend von Absatz 2 zulässig. Auf Verlangen
 der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen
 Behörde müssen die Leitungen auf Teilabschnitten als Freileitung
-errichtet und betrieben oder geändert werden.
+errichtet und betrieben oder geändert werden. Die Sätze 1 bis 3 sind
+nur anzuwenden bei Antragskonferenzen nach § 7 des
+Netzausbaubeschleunigungsgesetzes Übertragungsnetz, die vor dem 29.
+Juli 2022 durchgeführt worden sind.
 
 (4) Die Errichtung und der Betrieb oder die Änderung als Freileitung
 nach Absatz 2 und 3 ist unzulässig, wenn die Leitung
@@ -261,9 +301,10 @@ gemeinsamen Umsetzungsbericht nach § 12d Satz 1 des
 Energiewirtschaftsgesetzes verbunden werden.
 
 (3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem
-Bundesministerium für Wirtschaft und Energie über den Sachstand bei
-den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen
-mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
+Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand
+bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen
+Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu
+berichten.
 
 
 ## § 6 Rechtsschutz
@@ -336,7 +377,8 @@ vordringliche Bedarf bestehen:
 
 *    *   5a
 
-    *   Höchstspannungsleitung Klein Rogahn – Isar; Gleichstrom
+    *   Höchstspannungsleitung Klein
+        Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom
 
     *   A1, B, E
 
@@ -345,7 +387,7 @@ vordringliche Bedarf bestehen:
 
     *
 
-*    *   – Klein Rogahn – Landkreis Börde
+*    *   – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Landkreis Börde
 
     *
 
@@ -428,7 +470,7 @@ vordringliche Bedarf bestehen:
 
 *    *   10
 
-    *   Höchstspannungsleitung Wolmirstedt – Helmstedt – Wahle; Drehstrom
+    *   Höchstspannungsleitung Wolmirstedt – Helmstedt Ost – Wahle; Drehstrom
         Nennspannung 380 kV
 
     *   A1
@@ -438,12 +480,11 @@ vordringliche Bedarf bestehen:
 
     *
 
-*    *   – Maßnahme Wolmirstedt – Helmstedt – Hattorf – Wahle
+*    *   – Maßnahme Wolmirstedt – Helmstedt Ost – Hattorf – Wahle
 
     *
 
-*    *   – Maßnahme Wolmirstedt – Helmstedt – Landkreise
-        Peine/Braunschweig/Salzgitter – Mehrum Nord
+*    *   – Maßnahme Wolmirstedt – Helmstedt Ost – Salzgitter
 
     *
 
@@ -580,8 +621,9 @@ vordringliche Bedarf bestehen:
 
 *    *   23
 
-    *   Höchstspannungsleitung Herbertingen – Waldshut/Tiengen mit Abzweig
-        Kreis Konstanz und Abzweig Beuren; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Herbertingen – Waldshut-Tiengen – Waldshut-
+        Tiengen/Weilheim mit Abzweig Pfullendorf/Wald und Abzweig Beuren;
+        Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -683,8 +725,7 @@ vordringliche Bedarf bestehen:
 *    *   33
 
     *   Höchstspannungsleitung Schleswig-Holstein – Südnorwegen (NO)
-        (NORD.LINK);
-        Gleichstrom
+        (NORD.LINK); Gleichstrom
 
     *   B
 
@@ -713,16 +754,15 @@ vordringliche Bedarf bestehen:
 
 *    *   37
 
-    *   Höchstspannungsleitung Emden Ost – Halbemond; Drehstrom Nennspannung
-        380 kV
+    *   (aufgehoben)
 
     *   –
 
 
 *    *   38
 
-    *   Höchstspannungsleitung Dollern – Elsfleth West; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Dollern – Alfstedt – Hagen im
+        Bremischen/Schwanewede – Elsfleth West; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -761,8 +801,8 @@ vordringliche Bedarf bestehen:
 
 *    *   41
 
-    *   Höchstspannungsleitung Raitersaich – Ludersheim – Sittling – Altheim;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Raitersaich – Altdorf b. Nürnberg/Winkelhaid –
+        Sittling – Altheim; Drehstrom Nennspannung 380 kV
 
     *   F
 
@@ -771,18 +811,18 @@ vordringliche Bedarf bestehen:
 
     *
 
-*    *   – Maßnahme Raitersaich – Ludersheim
+*    *   – Maßnahme Raitersaich – Altdorf b. Nürnberg/Winkelhaid
 
     *
 
-*    *   – Maßnahme Ludersheim – Sittling – Altheim
+*    *   – Maßnahme Altdorf b. Nürnberg/Winkelhaid – Sittling – Altheim
 
     *
 
 *    *   42
 
-    *   Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems – Göhl;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems mit Abzweig
+        Ratekau – Göhl; Drehstrom Nennspannung 380 kV
 
     *   F
 
@@ -799,7 +839,7 @@ vordringliche Bedarf bestehen:
 
     *
 
-*    *   – Maßnahme Lübeck – Göhl
+*    *   – Maßnahme Abzweig Ratekau – Göhl
 
     *
 
@@ -846,7 +886,7 @@ vordringliche Bedarf bestehen:
 
     *   Höchstspannungsleitung Heide West – Polsum; Gleichstrom
 
-    *   A1, B, E
+    *   A1, B, E, H
 
 
 *    *   mit den Bestandteilen
@@ -858,8 +898,7 @@ vordringliche Bedarf bestehen:
     *
 
 *    *   – B 431 südlich Roßkopp (Wewelsfleth) – L 111 östlich Allwörden
-        (Freiburg (Elbe)/
-        Wischhafen)
+        (Freiburg (Elbe)/Wischhafen)
 
     *   G
 
@@ -870,10 +909,10 @@ vordringliche Bedarf bestehen:
 
 *    *   49
 
-    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland – Hamm;
-        Gleichstrom
+    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland –
+        Lippetal/Welver/Hamm; Gleichstrom
 
-    *   A1, B, E
+    *   A1, B, E, H
 
 
 *    *   50
@@ -886,24 +925,56 @@ vordringliche Bedarf bestehen:
 
 *    *   51
 
-    *   Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Krümmel; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Ämter
+        Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
+*    *
+    *   mit den Einzelmaßnahmen
+
+    *
+
+*    *
+    *   – Hamburg Nord – Hamburg Ost
+
+    *
+
+*    *
+    *   – Hamburg Ost – Ämter Büchen/Breitenfelde/Schwarzenbek-Land
+
+    *
+
 *    *   52
 
-    *   Höchstspannungsleitung Güstrow – Bentwisch – Sanitz/Dettmannsdorf;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Güstrow – Bentwisch –
+        Sanitz/Gnewitz/Dettmannsdorf/Marlow; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
+*    *
+    *   mit den Einzelmaßnahmen
+
+    *
+
+*    *
+    *   – Güstrow – Bentwisch
+
+    *
+
+*    *
+    *   – Bentwisch – Sanitz/Gnewitz/Dettmannsdorf/Marlow
+
+    *
+
 *    *   53
 
-    *   Höchstspannungsleitung Güstrow – Siedenbrünzow – Iven – Pasewalk Nord
-        – Pasewalk; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Güstrow – Siedenbrünzow –
+        Iven/Krusenfelde/Krien/Spantekow/Werder/Bartow – Pasewalk Nord –
+        Pasewalk;
+        Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -918,50 +989,75 @@ vordringliche Bedarf bestehen:
 
 *    *   55
 
-    *   Höchstspannungsleitung Elsfleth West – Ganderkesee mit Abzweig
-        Niedervieland; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Elsfleth West – Ganderkesee/Lemwerder/Berne –
+        Ganderkesee; Drehstrom Nennspannung 380 kV
 
-    *   A1
+    *   -
 
 
 *    *   56
 
-    *   Höchstspannungsleitung Conneforde – Elsfleth West – Abzweig Blockland
-        – Samtgemeinde Sottrum; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Conneforde –
+        Ovelgönne/Rastede/Wiefelstede/Westerstede – Elsfleth West – Bezirk
+        Bremen-West/Lilienthal/Ritterhude – Samtgemeinde Sottrum; Drehstrom
+        Nennspannung 380 kV
 
     *   –
 
 
 *    *   57
 
-    *   Höchstspannungsleitung Dollern – Grafschaft Hoya – Ovenstädt – Eickum
-        – Bechterdissen; Drehstrom Nennspannung 380 kV
-
-    *   A1, G
-
-
-*    *   58
-
-    *   Höchstspannungsleitung Krümmel – Lüneburg – Stadorf – Wahle; Drehstrom
-        Nennspannung 380 kV
-
-    *   A1, G
-
-
-*    *   59
-
-    *   Höchstspannungsleitung Landesbergen – Mehrum Nord; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Dollern – Samtgemeinde Sottrum – Grafschaft
+        Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380
+        kV
 
     *   –
 
 
+*    *   58
+
+    *   Höchstspannungsleitung Ämter Büchen/Breitenfelde/Schwarzenbek-Land –
+        Lüneburg/Samtgemeinde Gellersen/Samtgemeinde Ilmenau – Stadorf –
+        Wahle;
+        Drehstrom Nennspannung 380 kV
+
+    *   –
+
+
+*    *   59
+
+    *   Höchstspannungsleitung Landesbergen – Lehrte – Mehrum Nord – Vechelde
+        – Salzgitter; Drehstrom Nennspannung 380 kV
+
+    *   –
+
+
+*    *
+    *   mit den Einzelmaßnahmen
+
+    *
+
+*    *
+    *   – Landesbergen – Lehrte – Mehrum Nord
+
+    *
+
+*    *
+    *   – Mehrum Nord – Vechelde
+
+    *
+
+*    *
+    *   – Vechelde – Salzgitter
+
+    *
+
 *    *   60
 
-    *   Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd –
-        Perleberg – Osterburg – Stendal West – Wolmirstedt – Schwanebeck –
-        Klostermansfeld – Schraplau/Obhausen – Lauchstädt; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd – Putlitz
+        – Perleberg – Stendal West – Wolmirstedt – Schwanebeck/Huy –
+        Klostermansfeld – Schraplau/Obhausen – Lauchstädt;
+        Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -991,8 +1087,8 @@ vordringliche Bedarf bestehen:
 
 *    *   64
 
-    *   Höchstspannungsleitung Hattingen – Linde; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Hattingen – Bezirk Ronsdorf (Wuppertal);
+        Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1103,11 +1199,26 @@ vordringliche Bedarf bestehen:
 
 *    *   75
 
-    *   Höchstspannungsleitung Zukunft – Verlautenheide; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Siersdorf – Zukunft/Verlautenheide – Zukunft –
+        Verlautenheide; Drehstrom Nennspannung 380 kV
 
     *   –
 
+
+*    *
+    *   mit den Einzelmaßnahmen
+
+    *
+
+*    *
+    *   – Siersdorf – Zukunft/Verlautenheide
+
+    *
+
+*    *
+    *   – Zukunft – Verlautenheide
+
+    *
 
 *    *   76
 
@@ -1177,9 +1288,195 @@ vordringliche Bedarf bestehen:
     *   B
 
 
+*    *   81
+
+    *   Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden –
+        Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
+
+    *   A1, B, E, H
 
 
-**Kennzeichnung**
+*    *   82
+
+    *   Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede –
+        Bürstadt; Gleichstrom
+
+    *   A1, B, E
+
+
+*    *   83
+
+    *   Höchstspannungsleitung Sanitz/Gnewitz/Dettmannsdorf/Marlow – Schweden
+        (Hansa PowerBridge II); Gleichstrom
+
+    *   B
+
+
+*    *   84
+
+    *   Höchstspannungsleitung Lübeck – Ämter
+        Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
+
+    *   –
+
+
+*    *   85
+
+    *   Höchstspannungsleitung Güstrow – Wessin – Görries – Klein
+        Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter
+        Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom
+        Nennspannung 380 kV
+
+    *   A1, G
+
+
+*    *   86
+
+    *   Höchstspannungsleitung Emden Ost – Bundesgrenze (NL);
+        Drehstrom Nennspannung 380 kV
+
+    *   A2
+
+
+*    *   87
+
+    *   Höchstspannungsleitungen Netzausbau und Verstärkung Berlin;
+
+    *
+
+*    *
+    *   Drehstrom, Nennspannung 380 kV
+
+    *
+
+*    *
+    *   mit den Bestandteilen
+
+    *
+
+*    *
+    *   – Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
+
+    *
+
+*    *
+    *   – Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig
+        Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-
+        Kreuzberg (Berlin)
+
+    *   A1, F
+
+
+*    *
+    *   – Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter
+
+    *   A1, F
+
+
+*    *
+    *   – Reuter – Teufelsbruch
+
+    *   F
+
+
+*    *   88
+
+    *   Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen –
+        Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380
+        kV
+
+    *   A1
+
+
+*    *   89
+
+    *   Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom
+        Nennspannung 380 kV
+
+    *   –
+
+
+*    *   90
+
+    *   Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom
+        Nennspannung 380 kV
+
+    *   –
+
+
+*    *   91
+
+    *   Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum –
+        Hattingen; Drehstrom Nennspannung 380 kV
+
+    *   –
+
+
+*    *   92
+
+    *   Höchstspannungsleitung Walsum – Beeck; Drehstrom Nennspannung 380 kV
+
+    *   –
+
+
+*    *   93
+
+    *   Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels –
+        Pulgar; Drehstrom Nennspannung 380 kV
+
+    *   A1
+
+
+*    *   94
+
+    *   Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom
+        Nennspannung 380 kV
+
+    *   A1
+
+
+*    *   95
+
+    *   Höchstspannungsleitung Dahlem – Bundesgrenze (BE); Gleichstrom
+
+    *   B, E
+
+
+*    *   96
+
+    *   Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom
+        Nennspannung 380 kV
+
+    *   A1
+
+
+*    *   97
+
+    *   Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);
+        Drehstrom Nennspannung 380 kV
+
+    *   A2, G
+
+
+*    *   98
+
+    *   Höchstspannungsleitung Punkt Fraulautern –
+        Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom
+        Nennspannung 380 kV
+
+    *   –
+
+
+*    *   99
+
+    *   Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom
+        Nennspannung 380 kV
+
+    *
+
+
+
+   **Kennzeichnung**
 
 *    *   A1
 

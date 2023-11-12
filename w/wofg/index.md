@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2376
 
 Zuletzt geändert durch
-:   Art. 42 G v. 20.11.2019 I 1626
+:   Art. 12 Abs. 15 G v. 16.12.2022 I 2328
 
 
 ## Teil 1 - Allgemeines zur Förderung
@@ -912,8 +912,7 @@ Ehegatten ist nicht zulässig.
     gezahlt werden,
 
 
-7.1 das Arbeitslosengeld II und das Sozialgeld nach § 19 Absatz 1 des
-    Zweiten Buches Sozialgesetzbuch,
+7.1 das Bürgergeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
 
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des

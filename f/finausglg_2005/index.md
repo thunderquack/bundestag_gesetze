@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 4 G v. 2.10.2021 I 4602
+:   Art. 2 G v. 20.12.2022 I 2791; 2023 I Nr. 212
 
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
@@ -92,10 +92,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   2022
 
     *   minus
-        9 706 407 683
+        15 008 682 590
         Euro
 
-    *   7 306 407 683
+    *   12 608 682 590
         Euro
 
     *   2 400 000 000
@@ -105,10 +105,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   2023
 
     *   minus
-        9 706 407 683
+        9 892 407 683
         Euro
 
-    *   7 306 407 683
+    *   7 492 407 683
         Euro
 
     *   2 400 000 000
@@ -118,10 +118,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   2024
 
     *   minus
-        9 894 407 683
+        10 080 407 683
         Euro
 
-    *   7 494 407 683
+    *   7 680 407 683 Euro
         Euro
 
     *   2 400 000 000
@@ -131,10 +131,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   2025
 
     *   minus
-        9 519 407 683
+        9 705 407 683
         Euro
 
-    *   7 119 407 683
+    *   7 305 407 683
         Euro
 
     *   2 400 000 000
@@ -144,10 +144,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   2026
 
     *   minus
-        9 519 407 683
+        9 705 407 683
         Euro
 
-    *   7 119 407 683
+    *   7 305 407 683
         Euro
 
     *   2 400 000 000
@@ -157,10 +157,10 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 *    *   ab 2027
 
     *   minus
-        9 331 407 683
+        9 517 407 683
         Euro
 
-    *   6 931 407 683
+    *   7 117 407 683
         Euro
 
     *   2 400 000 000
@@ -188,10 +188,13 @@ und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S.
 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch
 die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S.
 2696) verringern sich die in Absatz 2 genannten Beträge für den Bund
-im Jahr 2020 um 993 Millionen Euro und in den Jahren 2021 und 2022 um
-jeweils 1993 Millionen Euro; die in Absatz 2 genannten Beträge für die
-Länder erhöhen sich entsprechend im Jahr 2020 um 993 Millionen Euro
-und in den Jahren 2021 und 2022 um jeweils 1993 Millionen Euro.
+im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um
+jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und
+im Jahr 2024 um 1 993 Millionen Euro; die in Absatz 2 genannten
+Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993
+Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen
+Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993
+Millionen Euro.
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung
 des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche
@@ -408,27 +411,27 @@ Sonderbedarfs-Bundesergänzungszuweisungen:
 
 *    *   Brandenburg
 
-    *   50 920 000 Euro,
+    *   15 580 000 Euro,
 
 
 *    *   Mecklenburg-Vorpommern
 
-    *   34 304 000 Euro,
+    *   10 496 000 Euro,
 
 
 *    *   Sachsen
 
-    *   85 492 000 Euro,
+    *   26 158 000 Euro,
 
 
 *    *   Sachsen-Anhalt
 
-    *   50 116 000 Euro,
+    *   15 334 000 Euro,
 
 
 *    *   Thüringen
 
-    *   47 168 000 Euro.
+    *   14 432 000 Euro.
 
 
 
@@ -543,6 +546,20 @@ Das Bundesministerium der Finanzen stellt nach Ablauf des
 Ausgleichsjahres die endgültige Höhe der Länderanteile an der
 Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des
 Bundesrates bedarf.
+
+
+### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
+
+Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung
+nach § 12 die Unterschiede zwischen den fortgeschriebenen
+Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022
+einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf
+der Grundlage des Zensus 2011 andererseits wie folgt zu
+berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7
+Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen
+der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr
+2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der
+Unterschiede nach Satz 1 hinzugerechnet werden.
 
 
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres

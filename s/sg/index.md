@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.5.2005 I 1482;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.8.2021 I 3932
+:   Art. 5 G v. 31.5.2023 I Nr. 140
 
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
@@ -122,6 +122,117 @@ unbillige Härte bedeuten würde.
 (3) Absatz 2 gilt entsprechend für die Wiedereinstellung früherer
 Soldaten, denen kein Anspruch nach dem Einsatz-Weiterverwendungsgesetz
 zusteht.
+
+
+#### § 3a Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+
+(1) Ein Soldat, der in einer Verwendung mit besonders hohen
+Sicherheitsanforderungen eingesetzt werden soll, ist zuvor einer
+intensivierten erweiterten Sicherheitsüberprüfung mit
+Sicherheitsermittlungen zu unterziehen. Ist ein Soldat bereits in
+einer solchen Verwendung eingesetzt, so ist unverzüglich eine
+intensivierte erweiterte Sicherheitsüberprüfung mit
+Sicherheitsermittlungen durchzuführen.
+
+(2) Die Verwendungen mit besonders hohen Sicherheitsanforderungen
+werden durch Rechtsverordnung festgelegt.
+
+(3) Die Vorschriften des Sicherheitsüberprüfungsgesetzes für
+erweiterte Sicherheitsprüfungen mit Sicherheitsermittlungen gelten mit
+den Maßgaben, dass
+
+1.  die mitwirkende Behörde die betroffene Person selbst befragt, und zwar
+    – abweichend von § 12 Absatz 5 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes – unabhängig davon, ob eine
+    sicherheitserhebliche Erkenntnis dies erfordert,
+
+
+2.  zu der betroffenen Person – abweichend von § 11 Absatz 2 und § 12
+    Absatz 3a des Sicherheitsüberprüfungsgesetzes – in jedem Fall Einsicht
+    genommen wird
+
+    a)  in öffentlich zugängliche Internetseiten und
+
+
+    b)  in den Teil ihres Profils in einem sozialen Netzwerk, der für alle
+        Mitglieder des Netzwerks sichtbar ist,
+
+
+
+
+
+3.  die betroffene Person in der Sicherheitserklärung – zusätzlich zu den
+    Angaben nach § 13 Absatz 1 des Sicherheitsüberprüfungsgesetzes –
+    anzugeben hat,
+
+    a)  welche sozialen Netzwerke sie derzeit nutzt,
+
+
+    b)  unter welchen Namen sie dort derzeit angemeldet ist,
+
+
+
+
+
+4.  die betroffene Person der Sicherheitserklärung zwei aktuelle
+    Lichtbilder mit der Angabe des Jahres der Aufnahme beizufügen hat; die
+    Lichtbilder können in elektronischer Form verlangt werden; sie dürfen
+    nicht für einen automatisierten Abgleich mit Datenbanken genutzt
+    werden; die Kosten der Lichtbilder trägt der Bund,
+
+
+5.  der betroffenen Person – abweichend von § 17 Absatz 1 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes – bereits nach 30 Monaten ihre
+    Sicherheitserklärung zur Aktualisierung zugeleitet wird,
+
+
+6.  anlässlich der Aktualisierung der Sicherheitserklärung – abweichend
+    von § 17 Absatz 1 Satz 3 des Sicherheitsüberprüfungsgesetzes –
+    zusätzlich die folgenden Maßnahmen einer Wiederholungsüberprüfung
+    durchgeführt werden:
+
+    a)  bei der betroffenen Person nur
+
+        aa) die Einsichtnahme nach Nummer 2,
+
+
+        bb) die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3 des
+            Sicherheitsüberprüfungsgesetzes und
+
+
+        cc) die Maßnahmen nach § 12 Absatz 2 des Sicherheitsüberprüfungsgesetzes
+            sowie
+
+
+
+
+
+    b)  bei der mitbetroffenen Person die Maßnahmen nach Nummer 6 Buchstabe a
+        Doppelbuchstabe bb und cc,
+
+
+
+
+
+7.  die erste und jede weitere Wiederholungsüberprüfung – abweichend von §
+    17 Absatz 2 Satz 1 des Sicherheitsüberprüfungsgesetzes – bereits nach
+    fünf Jahren eingeleitet wird und
+
+
+8.  die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der
+    Wiederholungsüberprüfung nach Nummer 6 nicht eingeleitet wird, solange
+
+    a)  die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
+
+
+    b)  nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30
+        Monate vergangen sind.
+
+
+
+
+
+
 
 
 #### § 4 Ernennung, Dienstgradbezeichnungen, Uniform
@@ -324,14 +435,18 @@ gilt nicht, soweit
 
 
 2.  Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung
-    nach keiner Geheimhaltung bedürfen, oder
+    nach keiner Geheimhaltung bedürfen,
 
 
 3.  gegenüber der zuständigen obersten Dienstbehörde, einer
     Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde
     bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch
     Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§
-    331 bis 337 des Strafgesetzbuches angezeigt wird.
+    331 bis 337 des Strafgesetzbuches angezeigt wird oder
+
+
+4.  Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes
+    an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 
 
@@ -3926,7 +4041,7 @@ Nr. 1 Buchstabe b bis auf sechs Monate und die Dienstzeit nach Nr. 2
 Buchstabe b bis auf ein Jahr verkürzt wird.
 
 
-### § 93 Zuständigkeit für den Erlass der Rechtsverordnungen
+### § 93 Verordnungsermächtigungen
 
 (1) Die Bundesregierung erlässt die Rechtsverordnungen über
 
@@ -4017,7 +4132,12 @@ Bundesministerium der Finanzen die Rechtsverordnungen über
 
 
 
-(4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des
+(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit
+dem Bundesministerium des Innern, für Bau und Heimat die
+Rechtsverordnung über die Festlegung der Verwendungen mit besonders
+hohen Sicherheitsanforderungen nach § 3a Absatz 2.
+
+(5) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des
 Bundesrates.
 
 

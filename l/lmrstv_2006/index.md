@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 9.5.2017 I 1170; 2018 I 1389;
 
-Geändert durch
-:   Art. 1 V v. 13.12.2018 I 2588
+Zuletzt geändert durch
+:   Art. 1 V v. 19.4.2023 I Nr. 114
 
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
@@ -720,20 +720,8 @@ dort genannte Angabe nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig zur Verfügung stellt.
 
 
-## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 609/2013
+## § 11 (weggefallen)
 
-(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 4 Absatz 1 in Verbindung mit Artikel
-10 Absatz 1 der Verordnung (EU) Nr. 609/2013 Säuglingsanfangsnahrung
-oder Folgenahrung in Verkehr bringt, die einer dort genannten
-Anforderung an die Kennzeichnung oder Aufmachung nicht entspricht.
-
-(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 4 Absatz 2 der Verordnung (EU) Nr.
-609/2013 ein Lebensmittel in einer anderen als der dort genannten Form
-im Einzelhandel vertreibt.
 
 
 ## § 12 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 884/2014
@@ -824,11 +812,11 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
 übermittelt.
 
 
-## § 19 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
+## § 19 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 
-Verweisungen in dieser Verordnung auf Rechtsakte der Europäischen
-Gemeinschaft beziehen sich auf die in der Anlage jeweils angegebene
-Fassung.
+Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der
+Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
+auf die in der Anlage angegebenen Fassungen.
 
 
 ## § 20 (Inkrafttreten; Außerkrafttreten)
@@ -836,9 +824,10 @@ Fassung.
 
 (zu § 19)
 
-## Anlage Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+## Anlage Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 
-(Fundstelle: BGBl. I 2017, 1177 – 1178)
+(Fundstelle: BGBl. I 2017, 1177 – 1178;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates
@@ -926,17 +915,7 @@ Fassung.
     von Samen zur Erzeugung von Sprossen (ABl. L 68 vom 12.3.2013, S. 16),
 
 
-11. Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates
-    vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder,
-    Lebensmittel für besondere medizinische Zwecke und Tagesrationen für
-    gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie
-    92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG
-    und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des
-    Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr.
-    41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181
-    vom 29.6.2013, S. 35; L 349 vom 5.12.2014, S. 67), die durch die
-    Delegierte Verordnung (EU) 2017/1091 (ABl. L 158 vom 21.6.2017, S. 5)
-    geändert worden ist,
+11. (weggefallen)
 
 
 12. Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13.

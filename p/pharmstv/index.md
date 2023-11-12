@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1977, 1479
 
 Neugefasst durch
-:   Bek. v. 8.7.2009 I 1768
+:   Bek. v. 8.7.2009 I 1768;
+
+Geändert durch
+:   Art. 1 V v. 2.1.2023 I Nr. 3
 
 
 ## § 1
@@ -35,12 +38,11 @@ Anlagen bezeichnet sind. Die Stoffe dürfen nur für die dort genannten
 Anwendungsgebiete unter den dort aufgeführten Bedingungen zugeführt
 werden, sofern sie
 
-1.  als Fertigarzneimittel für die in den Anlagen 2 und 3 genannten
+1.  als Tierarzneimittel für die in den Anlagen 2 und 3 genannten
     Anwendungsgebiete zugelassen sind und
 
 
-2.  entsprechend der dem Fertigarzneimittel beiliegenden
-    Gebrauchsinformation angewendet werden.
+2.  entsprechend der jeweiligen Zulassungsbedingungen angewendet werden.
 
 
 

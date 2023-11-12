@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 28.1.1988 I 100;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 6.3.2020 I 442
-
-Änderung durch
-:   Art. 323 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 323 V v. 19.6.2020 I 1328
 
 
 ## § 1 Finanzhilfen des Bundes

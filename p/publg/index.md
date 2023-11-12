@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1189
 
 Zuletzt geändert durch
-:   Art. 15 G v. 12.12.2019 I 2637
-
-Änderung durch
-:   Art. 13 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 16 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 59 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 59 G v. 10.8.2021 I 3436
 
 
 ## Erster Abschnitt - Rechnungslegung von Unternehmen
@@ -101,16 +92,16 @@ nicht mehr zutreffen.
 
 (2) Die gesetzlichen Vertreter eines Unternehmens, auf das erstmals
 für einen Abschlussstichtag mindestens zwei der drei Merkmale des § 1
-Abs. 1 zutreffen, haben unverzüglich beim Betreiber des
-Bundesanzeigers elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die
-Erklärung einzureichen, dass für diesen Abschlussstichtag zwei der
-drei Merkmale des § 1 Abs. 1 zutreffen. Eine entsprechende Erklärung
-haben die gesetzlichen Vertreter auch für jeden der beiden folgenden
-Abschlussstichtage unverzüglich beim Betreiber des Bundesanzeigers
-elektronisch einzureichen, wenn die Merkmale auch für diesen
-Abschlussstichtag zutreffen. Die gesetzlichen Vertreter haben die
-Erklärungen nach den Sätzen 1 und 2 unverzüglich nach ihrer
-Einreichung im Bundesanzeiger bekannt machen zu lassen.
+Abs. 1 zutreffen, haben unverzüglich der das Unternehmensregister
+führenden Stelle elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die
+Erklärung zur Einstellung in das Unternehmensregister zu übermitteln,
+dass für diesen Abschlussstichtag zwei der drei Merkmale des § 1 Abs.
+1 zutreffen. Eine entsprechende Erklärung haben die gesetzlichen
+Vertreter auch für jeden der beiden folgenden Abschlussstichtage
+unverzüglich der das Unternehmensregister führenden Stelle
+elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln, wenn die Merkmale auch für diesen Abschlussstichtag
+zutreffen.
 
 (3) Das Gericht hat zur Prüfung der Frage, ob ein Unternehmen nach
 diesem Abschnitt Rechnung zu legen hat, Prüfer zu bestellen, wenn
@@ -128,10 +119,11 @@ Die Prüfer haben über das Ergebnis der Prüfung schriftlich zu
 berichten und den Bericht zu unterzeichnen. Sie haben ihn unverzüglich
 dem Gericht und den gesetzlichen Vertretern einzureichen; kommt der
 Bericht zu dem Ergebnis, dass das Unternehmen zur Rechnungslegung nach
-diesem Abschnitt verpflichtet ist, ist der Bericht auch beim Betreiber
-des Bundesanzeigers elektronisch einzureichen; Absatz 2 Satz 3 gilt
-entsprechend. Auf Verlangen haben die gesetzlichen Vertreter jedem
-Gesellschafter eine Abschrift des Berichts zu erteilen.
+diesem Abschnitt verpflichtet ist, ist der Bericht auch der das
+Unternehmensregister führenden Stelle elektronisch zur Einstellung in
+das Unternehmensregister zu übermitteln. Auf Verlangen haben die
+gesetzlichen Vertreter jedem Gesellschafter eine Abschrift des
+Berichts zu erteilen.
 
 (4) Die Absätze 1 bis 3 finden im Fall des § 1 Absatz 3 keine
 Anwendung.
@@ -387,13 +379,13 @@ der für die Rechtsform des Unternehmens geltenden Vorschriften.
 
 Offenlegung des Jahresabschlusses und des Lageberichts
 
-### § 9 Prüfung durch den Betreiber des Bundesanzeigers
+### § 9 Prüfung durch die das Unternehmensregister führende Stelle
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben für dieses den
 Jahresabschluß und die sonst in § 325 Abs. 1 des Handelsgesetzbuchs
-bezeichneten Unterlagen, soweit sie aufzustellen sind, in sinngemäßer
-Anwendung des § 325 Absatz 1 bis 2b, 4 bis 6, § 328 des
-Handelsgesetzbuchs offenzulegen. § 329 Abs. 1 und 4 des
+bezeichneten Unterlagen, sofern sie aufzustellen sind, in sinngemäßer
+Anwendung des § 325 Absatz 1 bis 2b, 4 bis 6 sowie der §§ 327a und 328
+des Handelsgesetzbuchs offenzulegen. § 329 Absatz 1, 2 und 4 des
 Handelsgesetzbuchs gilt sinngemäß.
 
 (2) Personenhandelsgesellschaften und Einzelkaufleute brauchen die
@@ -424,9 +416,9 @@ Der Jahresabschluß ist nichtig, wenn er
 
 
 Die Nichtigkeit nach Nummer 2 kann nicht mehr geltend gemacht werden,
-wenn seit der Bekanntmachung des Jahresabschlusses im Bundesanzeiger
-sechs Monate verstrichen sind. § 256 Abs. 6 Satz 2 des Aktiengesetzes
-gilt sinngemäß.
+wenn seit der Einstellung des Jahresabschlusses im
+Unternehmensregister sechs Monate verstrichen sind. § 256 Abs. 6 Satz
+2 des Aktiengesetzes gilt sinngemäß.
 
 
 ## Zweiter Abschnitt - Rechnungslegung von Konzernen
@@ -519,15 +511,16 @@ Rechnung zu legen, gilt § 2 Abs. 1 Satz 1 und 3 sinngemäß.
 
 (2) Die gesetzlichen Vertreter eines Mutterunternehmens, für dessen
 Abschlussstichtag mindestens zwei der drei Merkmale des § 11 Abs. 1
-zutreffen, haben unverzüglich beim Betreiber des Bundesanzeigers
-elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die Erklärung
-einzureichen, dass für diesen Abschlussstichtag zwei der drei Merkmale
-des § 11 Abs. 1 zutreffen; § 11 Abs. 2 Satz 2 gilt entsprechend. Eine
-entsprechende Erklärung haben die gesetzlichen Vertreter des
-Mutterunternehmens auch für jeden der beiden folgenden
-Abschlussstichtage unverzüglich beim Betreiber des Bundesanzeigers
-elektronisch einzureichen, wenn die Merkmale auch für diesen
-Abschlussstichtag zutreffen. § 2 Abs. 2 Satz 3 gilt entsprechend.
+zutreffen, haben unverzüglich der das Unternehmensregister führenden
+Stelle elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die Erklärung
+zur Einstellung in das Unternehmensregister zu übermitteln, dass für
+diesen Abschlussstichtag zwei der drei Merkmale des § 11 Abs. 1
+zutreffen; § 11 Abs. 2 Satz 2 gilt entsprechend. Eine entsprechende
+Erklärung haben die gesetzlichen Vertreter des Mutterunternehmens auch
+für jeden der beiden folgenden Abschlussstichtage unverzüglich der das
+Unternehmensregister führenden Stelle elektronisch zur Einstellung in
+das Unternehmensregister zu übermitteln, wenn die Merkmale auch für
+diesen Abschlussstichtag zutreffen.
 
 (3) Das Gericht hat zur Prüfung der Frage, ob ein Mutterunternehmen
 nach diesem Abschnitt Rechnung zu legen hat, Prüfer zu bestellen, wenn
@@ -535,7 +528,7 @@ Anlaß für die Annahme besteht, daß das Mutterunternehmen zur
 Rechnungslegung nach diesem Abschnitt verpflichtet ist. Hat das
 Mutterunternehmen einen Aufsichtsrat, so ist vor der Bestellung außer
 den gesetzlichen Vertretern des Mutterunternehmens auch dieser zu
-hören. § 2 Abs. 3 Satz 3 bis 8 gilt sinngemäß.
+hören. § 2 Absatz 3 Satz 3 bis 7 gilt sinngemäß.
 
 
 ### § 13 Aufstellung von Konzernabschluß und Konzernlagebericht
@@ -617,12 +610,13 @@ der Aufsichtsrat nichts anderes beschlossen hat.
 den Konzernabschluß oder Teilkonzernabschluß mit dem
 Bestätigungsvermerk oder dem Vermerk über dessen Versagung und den
 Konzernlagebericht oder Teilkonzernlagebericht in sinngemäßer
-Anwendung des § 325 Abs. 3 bis 6 des Handelsgesetzbuchs offenzulegen.
+Anwendung des § 325 Absatz 3 bis 6 sowie des § 327a des
+Handelsgesetzbuchs offenzulegen.
 
 (2) Für die Offenlegung, Veröffentlichung und Vervielfältigung des
 Konzernabschlusses, Teilkonzernabschlusses, Konzernlageberichts und
-des Teilkonzernlageberichts gilt § 328, für die Prüfungspflicht des
-Betreibers des Bundesanzeigers § 329 Abs. 1 und 4 des
+des Teilkonzernlageberichts gilt § 328, für die Prüfungspflicht der
+das Unternehmensregister führenden Stelle § 329 Absatz 1, 2 und 4 des
 Handelsgesetzbuchs sinngemäß.
 
 
@@ -844,8 +838,9 @@ Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
 zuwiderhandelt.
 
 (1a) Ordnungswidrig handelt auch, wer entgegen § 2 Abs. 2 oder § 12
-Abs. 2 die dort vorgeschriebene Erklärung beim Betreiber des
-Bundesanzeigers nicht oder nicht rechtzeitig einreicht.
+Abs. 2 die dort vorgeschriebene Erklärung an die das
+Unternehmensregister führende Stelle nicht oder nicht rechtzeitig
+übermittelt.
 
 (2) Ordnungswidrig handelt, wer einen Bestätigungsvermerk nach § 322
 Absatz 1 des Handelsgesetzbuchs erteilt zu einem nach § 6 Absatz 1
@@ -1031,7 +1026,7 @@ die Inhaber oder deren gesetzliche Vertreter, die § 9 Abs. 1, § 15
 Abs. 1 hinsichtlich der Pflicht zur Offenlegung des Jahresabschlusses,
 des Lageberichts, des Konzernabschlusses, des Konzernlageberichts, des
 Teilkonzernabschlusses oder des Teilkonzernlageberichts im
-Bundesanzeiger nicht befolgen, ist wegen des pflichtwidrigen
+Unternehmensregister nicht befolgen, ist wegen des pflichtwidrigen
 Unterlassens der Offenlegung vom Bundesamt für Justiz ein Ordnungsgeld
 festzusetzen. Die §§ 335 bis 335b des Handelsgesetzbuchs sind
 entsprechend anzuwenden.
@@ -1149,6 +1144,14 @@ erstmals auf Ordnungswidrigkeiten in Bezug auf
 Rechnungslegungsunterlagen und gesetzlich vorgeschriebene
 Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende
 Geschäftsjahr anzuwenden.
+
+(9) Die §§ 2, 9, 10, 12, 15, 20 und 21 in der ab dem 1. August 2022
+geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen für das
+nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in
+Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli
+2022 geltenden Fassung sind letztmals anzuwenden auf
+Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende
+Geschäftsjahr.
 
 
 ### § 23 Inkrafttreten

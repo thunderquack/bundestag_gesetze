@@ -16,13 +16,7 @@ Fundstelle
 :   BAnz: 1953, Nr 244
 
 Zuletzt geändert durch
-:   Art. 70 G v. 8.12.2010 I 1864
-
-Änderung durch
-:   Art. 80 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 1 V v. 25.11.2021 I 4968 (Nr. 80) mWv 1.4.2022 noch nicht berücksichtigt
+:   Art. 1 V v. 25.11.2021 I 4968
 
 
 ## Eingangsformel
@@ -60,7 +54,7 @@ ist.
 des Bundes, der Länder, der Gemeinden und Gemeindeverbände und der
 sonstigen juristischen Personen des öffentlichen Rechts.
 
-(2) Das Bundesministerium für Wirtschaft und Arbeit kann im
+(2) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem fachlich zuständigen Bundesministerium verfügen,
 daß die Vorschriften dieser Verordnung auf Aufträge bestimmter
 Unternehmen, die juristische Personen des öffentlichen Rechts sind
@@ -113,21 +107,39 @@ Preisvorschriften.
 (1) Für marktgängige Leistungen dürfen die im Verkehr üblichen
 preisrechtlich zulässigen Preise nicht überschritten werden.
 
-(2) Bei Leistungen, die unter gleichartigen Voraussetzungen mit
+(2) Marktgängig ist eine Leistung, für die zum Zeitpunkt der
+Auftragsvergabe ein Markt aus Angebot und Nachfrage für diese Leistung
+mit funktionierendem Wettbewerb besteht (allgemeiner Markt).
+Marktgängig ist eine Leistung auch, wenn zu ihrer Beschaffung durch
+ein Vergabeverfahren ein Markt geschaffen wurde, auf dem mindestens
+zwei Anbieter zuschlagsfähige Angebote abgegeben haben (besonderer
+Markt).
+
+(3) Im Verkehr üblich ist der Preis, den der betreffende Anbieter für
+die Leistung im Wettbewerb regelmäßig durchsetzen kann.
+
+(4) Gibt es für eine Leistung einen verkehrsüblichen Preis auf dem
+allgemeinen Markt, ist dieser maßgeblich im Sinne von Absatz 1. Gibt
+es für die Leistung auf dem allgemeinen Markt keinen verkehrsüblichen
+Preis, wird vermutet, dass der Preis, zu dem die Leistung auf einem
+besonderen Markt angeboten wird, im Verkehr üblich ist, wenn er sich
+unter den Bedingungen eines Wettbewerbs herausgebildet hat.
+
+(5) Bei Leistungen, die unter gleichartigen Voraussetzungen mit
 marktgängigen Leistungen im wesentlichen vergleichbar sind
 (vergleichbare Leistungen), sind Abschläge vorzunehmen oder können
 Zuschläge vorgenommen werden, soweit es die Abweichungen von den
 marktgängigen Leistungen rechtfertigen.
 
-(3) Dem öffentlichen Auftraggeber sind Vorteile, insbesondere Mengen-
+(6) Dem öffentlichen Auftraggeber sind Vorteile, insbesondere Mengen-
 und Wertrabatte, Skonti und besondere Lieferungsbedingungen
 einzuräumen, die beim Vorliegen gleicher Verhältnisse
 nichtöffentlichen Auftraggebern üblicherweise gewährt werden oder
 gewährt werden würden.
 
-(4) Die Preise nach den Absätzen 1 bis 3 sind zu unterschreiten oder
-können überschritten werden, wenn es die bei dem Auftrag vorliegenden
-besonderen Verhältnisse kostenmäßig rechtfertigen.
+(7) Die Preise nach den Absätzen 1, 5 und 6 sind zu unterschreiten
+oder können überschritten werden, wenn es die bei dem Auftrag
+vorliegenden besonderen Verhältnisse kostenmäßig rechtfertigen.
 
 
 ## § 5 Selbstkostenpreise
@@ -150,7 +162,7 @@ vereinbart werden, wenn
 Einverständnis über das Vorliegen der Voraussetzungen gemäß Absatz 1
 Nummer 2 zustande, so entscheidet hierüber auf Antrag durch Verfügung,
 
-1.  das Bundesministerium für Wirtschaft und Arbeit, wenn die Mangellage
+1.  das Bundesministerium für Wirtschaft und Energie, wenn die Mangellage
     oder die Wettbewerbsbeschränkung die Preisbildung in mehr als einem
     Land beeinflußt oder beeinflussen kann,
 
@@ -233,7 +245,8 @@ Preisüberwachung zuständigen Behörden das Zustandekommen des Preises
 auf Verlangen nachzuweisen. Aus den Unterlagen muß ersichtlich sein,
 daß der Preis nach den Vorschriften dieser Verordnung zulässig ist.
 Diese Unterlagen sind, soweit nicht andere Vorschriften eine längere
-Frist vorsehen, mindestens 5 Jahre aufzubewahren.
+Frist vorsehen, mindestens zehn Jahre ab Bewirkung der geschuldeten
+Gegenleistung durch den öffentlichen Auftraggeber aufzubewahren.
 
 (2) Die für die Preisbildung und Preisüberwachung zuständigen Behörden
 sind berechtigt, zu prüfen, ob die Vorschriften dieser Verordnung
@@ -241,15 +254,42 @@ beachtet worden sind. Der Auftragnehmer und die für die Leitung des
 Unternehmens verantwortlichen Personen sind verpflichtet, die zu
 diesem Zweck erforderlichen Auskünfte zu erteilen.
 
-(3) Die für die Preisbildung und Preisüberwachung zuständigen Behörden
-können die Unterlagen einsehen, Abschriften oder Auszüge aus diesen
-Unterlagen anfertigen lassen und die Betriebe besichtigen.
+(3) Die Entscheidung, ob eine Prüfung im Sinne des Absatzes 2 Satz 1
+stattfindet, treffen die für die Preisbildung und Preisüberwachung
+zuständigen Behörden nach pflichtgemäßem Ermessen.
+
+(4) Die für die Preisbildung und Preisüberwachung zuständigen Behörden
+können die Unterlagen einsehen, Abschriften, Fotokopien, Ausdrucke,
+fotografische Abbildungen, elektronische Daten und Dateien oder
+Auszüge aus diesen Unterlagen anfertigen lassen und die Betriebe
+besichtigen.
+
+(5) Soweit die für die Preisbildung und Preisüberwachung zuständigen
+Behörden die angemessenen Kosten des Auftragnehmers nach § 5 Absatz 1
+nicht ermitteln oder berechnen können, können sie diese schätzen.
+Geschätzt werden kann insbesondere dann, wenn der Auftragnehmer über
+seine Angaben keine ausreichenden Aufklärungen zu geben vermag, seine
+Auskunft verweigert oder seine Unterlagen unter Verletzung der
+Mindestaufbewahrungsfrist des Absatzes 1 Satz 3 nicht mehr vorliegen.
+Bei der Schätzung sind alle Umstände zu berücksichtigen, die für die
+Schätzung von Bedeutung sind. Bei der Schätzung können die für die
+Preisbildung und Preisüberwachung zuständigen Behörden auf Daten des
+Auftragnehmers zurückgreifen, die ihnen aus anderen Prüfungen nach
+Absatz 2 Satz 1 bei dem Auftragnehmer bereits vorliegen. Die für die
+Preisbildung und Preisüberwachung zuständigen Behörden können im
+Rahmen der Schätzung der Kosten des Auftragnehmers angemessene
+Sicherheitsabschläge ansetzen. Können die Kosten des Auftragnehmers
+nur innerhalb eines bestimmten Rahmens geschätzt werden, so kann
+dieser Rahmen zu Lasten des Auftragnehmers ausgeschöpft werden. Ist
+eine Schätzung durch die für die Preisbildung und Preisüberwachung
+zuständige Behörde ganz oder teilweise nicht möglich, so kann diese
+die betroffenen Kostenpositionen des Auftragnehmers mit Null ansetzen.
 
 
 ## § 10 Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber
 
 (1) Der öffentliche Auftraggeber ist, sofern das Bundesministerium für
-Wirtschaft und Arbeit ihn hierzu allgemein oder im Einzelfall
+Wirtschaft und Energie ihn hierzu allgemein oder im Einzelfall
 ermächtigt hat, berechtigt, im Benehmen mit der für die Preisbildung
 und Preisüberwachung zuständigen Behörde festzustellen, daß ein
 Selbstkostenpreis den Vorschriften dieser Verordnung entspricht. § 9
@@ -293,25 +333,9 @@ Wirtschaftsstrafrechts (Wirtschaftsstrafgesetz) vom 26. Juli 1949
 
 (1) Diese Verordnung tritt am 1. Januar 1954 in Kraft.
 
-(2) Für die vor dem Inkrafttreten dieser Verordnung abgeschlossenen,
-vom Auftragnehmer noch nicht oder noch nicht voll erfüllten Verträge
-gilt folgendes:
-
-1.  Vereinbarungen, nach denen Marktpreise oder Selbstkostenfestpreise zu
-    zahlen sind, bleiben unberührt.
-
-
-2.  Selbstkostenrichtpreise sind nach den Vorschriften dieser Verordnung
-    umzuwandeln.
-
-
-3.  Selbstkostenerstattungspreise sind nach den Vorschriften dieser
-    Verordnung für diejenigen Leistungen, Teilleistungen und Teile von
-    Leistungen zu ermitteln, die nach dem Inkrafttreten dieser Verordnung
-    erbracht werden.
-
-
-
+(2) Für vor dem 1. April 2022 vergebene öffentliche Aufträge ist diese
+Verordnung in der bis zum Ablauf des 31. März 2022 geltenden Fassung
+anzuwenden.
 
 (3) (weggefallen)
 

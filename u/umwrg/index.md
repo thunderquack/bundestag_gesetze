@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.8.2017 I 3290;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.2.2021 I 306
+:   Art. 2 G v. 14.3.2023 I Nr. 71
 
 Dieses Gesetz dient der Umsetzung von Artikel 11 der Richtlinie
 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember
@@ -462,7 +462,11 @@ der Verwaltungsgerichtsordnung gilt entsprechend. Die Frist nach Satz
 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag
 verlängert werden, wenn die Person oder die Vereinigung in dem
 Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine
-Möglichkeit der Beteiligung hatte.
+Möglichkeit der Beteiligung hatte. Die vorstehenden Sätze gelten
+entsprechend für Fälle, in denen das gerichtliche Verfahren zur
+Durchführung eines Planergänzungs- oder Planänderungsverfahrens
+ausgesetzt wurde und später fortgesetzt wird; die Frist läuft ab
+Fortsetzung des gerichtlichen Verfahrens.
 
 
 ## § 7 Besondere Bestimmungen für Rechtsbehelfe gegen bestimmte Entscheidungen

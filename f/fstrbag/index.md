@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3122, 3143
 
-Änderung durch
-:   Art. 7 G v. 29.6.2020 I 1528 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 31.5.2021 I 1221 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 G v. 31.5.2021 I 1221
 
 
 ## § 1 Errichtung

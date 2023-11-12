@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 1173
 
 Zuletzt geändert durch
-:   Art. 67 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 77 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 77 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel

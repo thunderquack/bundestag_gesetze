@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 10
 
+V aufgeh. durch
+:   § 19 Satz 2 V 806-22-6-78 v. 21.9.2023 I Nr. 255 mWv 27.3.2024
+
+Ersetzt durch
+:   V 806-22-6-78 v. 21.9.2023 I Nr. 255 (FremdSprKFPrV)
+
 
 
 ## Eingangsformel

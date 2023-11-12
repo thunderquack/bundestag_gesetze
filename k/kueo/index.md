@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2009, 1292
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.7.2020 I 1544
+:   Art. 1 V v. 26.10.2021 I 4740
 
 Änderung durch
-:   Art. 1 V v. 26.10.2021 I 4740 (Nr. 76) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 16.10.2023 I Nr. 280 mWv 1.1.2024 noch nicht berücksichtigt
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -633,7 +633,8 @@ vgl. Fußnote)
 
 ## Anlage 2 (zu § 5)
 
-(Fundstelle: BGBl. I 2013, 762 - 772)
+(Fundstelle: BGBl. I 2013, 762 - 772;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 ## **Formblatt**
 
@@ -2103,7 +2104,8 @@ vgl. Fußnote)
 
 ## Anlage 3 Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2013, 773 - 774)
+(Fundstelle: BGBl. I 2013, 773 - 774;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nr.

@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2019, 890
 
 Stand: Die V tritt gem. § 4 Satz 2 mit Ablauf des 31.12.2024 außer Kraft
+Geändert durch
+:   Art. 2a V v. 9.3.2023 I Nr 61
+
 
 ## Eingangsformel
 
@@ -27,7 +30,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 ## § 1 Zeitpunkt
 
-In der Zeit vom 1. April 2021 bis zum Ablauf des 31. Dezember 2022
+In der Zeit vom 1. April 2021 bis zum Ablauf des 31. Dezember 2024
 wird eine Bundeswaldinventur durchgeführt. Stichtag für die Auswertung
 der Daten ist der 1. Oktober 2022.
 

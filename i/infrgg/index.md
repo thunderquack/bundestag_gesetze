@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3122, 3141
 
-Geändert durch
-:   Art. 5 G v. 29.11.2018 I 2237
-
-Änderung durch
-:   Art. 6 G v. 29.6.2020 I 1528 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 6 G v. 29.6.2020 I 1528
 
 
 ## Abschnitt 1 - Gründung

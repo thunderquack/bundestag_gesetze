@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 6.7.1998 I 1791;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.5.2021 I 1170
+:   Art. 2 Abs. 31 G v. 20.12.2022 I 2752
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -1672,15 +1672,8 @@ der Länder haben sich im Rahmen des Fischereirechts der Europäischen
 Union zu halten.
 
 
-## § 22 Verkündung von Rechtsverordnungen
+## § 22 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 1 des
-Gesetzes über die Verkündung von Rechtsverordnungen auch im
-elektronischen Bundesanzeiger verkündet werden. Auf
-Rechtsverordnungen, die im elektronischen Bundesanzeiger verkündet
-werden, ist unter Angabe der Stelle ihrer Veröffentlichung und des
-Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt
-hinzuweisen.
 
 
 ## § 22a Übergangs- und Anwendungsbestimmungen

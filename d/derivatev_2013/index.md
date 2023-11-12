@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2463
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.8.2019 I 1355
-
-Änderung durch
-:   Art. 7 Abs. 23 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 17 Abs. 3 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 Abs. 1 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 Abs. 1 G v. 3.6.2021 I 1498
 
 
 ## Eingangsformel
@@ -232,7 +223,8 @@ und dem qualifizierten Ansatz sowie den Wechsel der Methode zur
 Ermittlung der Grenzauslastung innerhalb des qualifizierten Ansatzes
 nach § 7 Absatz 1 oder Absatz 2 für ein Investmentvermögen der
 Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
-unverzüglich anzuzeigen.
+unverzüglich über ein von ihr bereitgestelltes elektronisches
+Kommunikationsverfahren anzuzeigen.
 
 
 ### Unterabschnitt 2 - Qualifizierter Ansatz
@@ -307,9 +299,11 @@ Vergleichsvermögen gemäß den Absätzen 1 bis 4 ordnungsgemäß ist.
 
 (6) Nimmt die Kapitalverwaltungsgesellschaft eine wesentliche Änderung
 des Vergleichsmaßstabs im Sinne des Absatzes 3 vor, ist dies der
-Bundesanstalt unverzüglich und nachvollziehbar anzuzeigen; von der
-Anzeigepflicht ausgenommen sind Änderungen von Vergleichsmaßstäben für
-Spezial-AIF nach § 284 des Kapitalanlagegesetzbuches.
+Bundesanstalt unverzüglich und nachvollziehbar über ein von ihr
+bereitgestelltes elektronisches Kommunikationsverfahren anzuzeigen;
+von der Anzeigepflicht ausgenommen sind Änderungen von
+Vergleichsmaßstäben für Spezial-AIF nach § 284 des
+Kapitalanlagegesetzbuches.
 
 
 #### § 10 Potenzieller Risikobetrag für das Marktrisiko
@@ -529,11 +523,12 @@ Risikobetrag für das Marktrisiko, so sind die Geschäftsleiter
 mindestens vierteljährlich und die Bundesanstalt vierteljährlich
 hierüber sowie über die Größe der Differenz, den Grund ihres
 Entstehens und gegebenenfalls eingeleitete Maßnahmen zur Verbesserung
-der Prognosegüte zu unterrichten. Die Anzeige hat auch die zugrunde
-gelegten Parameter nach § 11 Satz 1 Nummer 2 und 3 in Verbindung mit §
-11 Satz 3 und 4 zu umfassen. Übersteigt die Zahl der Ausnahmen ein
-nicht angemessenes Niveau, kann die Bundesanstalt geeignete Maßnahmen
-veranlassen.
+der Prognosegüte über ein von ihr bereitgestelltes elektronisches
+Kommunikationsverfahren zu unterrichten. Die Anzeige hat auch die
+zugrunde gelegten Parameter nach § 11 Satz 1 Nummer 2 und 3 in
+Verbindung mit § 11 Satz 3 und 4 zu umfassen. Übersteigt die Zahl der
+Ausnahmen ein nicht angemessenes Niveau, kann die Bundesanstalt
+geeignete Maßnahmen veranlassen.
 
 
 ### Unterabschnitt 3 - Einfacher Ansatz
@@ -1781,7 +1776,8 @@ derivativer Komponente zu erstellen. Für offene Publikums-AIF gemäß §
 214 des Kapitalanlagegesetzbuches und für Spezial-AIF nach § 284 des
 Kapitalanlagegesetzbuches ist der Bericht nur auf Anforderung der
 Bundesanstalt zu erstellen. Der Bericht ist der Bundesanstalt jeweils
-unverzüglich einzureichen.
+unverzüglich über ein von ihr bereitgestelltes elektronisches
+Kommunikationsverfahren einzureichen.
 
 (2) Der Bericht muss enthalten:
 

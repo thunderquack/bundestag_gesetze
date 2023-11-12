@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 284
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.8.2021 I 3582
+:   Art. 1 V v. 27.1.2023 I Nr. 30
 
 
 ## Eingangsformel
@@ -368,7 +368,7 @@ Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil
 durch weitere Auswahlinstrumente ergänzt werden. Der mündliche Teil
 kann in einer Fremdsprache durchgeführt werden.
 
-(6a) Bis zum 31. Dezember 2022 kann der mündliche Teil des
+(6a) Bis zum 31. Dezember 2024 kann der mündliche Teil des
 Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt
 werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie
 getroffenen Maßnahmen geboten ist und wenn geeignete technische
@@ -416,7 +416,7 @@ mit dem Zusatz „Anwärterin“ oder „Anwärter“, in Laufbahnen des höhere
 Dienstes die Dienstbezeichnung „Referendarin“ oder „Referendar“. Die
 für die Gestaltung des Vorbereitungsdienstes zuständige oberste
 Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat andere Dienstbezeichnungen festsetzen.
+Innern und für Heimat andere Dienstbezeichnungen festsetzen.
 
 
 #### § 11a Einfacher Dienst
@@ -1269,8 +1269,8 @@ Besoldung. Dies gilt nicht, wenn die oberste Dienstbehörde bei der
 Gewährung der Beurlaubung festgestellt hat, dass die Beurlaubung
 dienstlichen Interessen oder öffentlichen Belangen dient. Die obersten
 Dienstbehörden bestimmen im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat, unter welchen Voraussetzungen dienstliche
-oder öffentliche Belange anerkannt werden können.
+Innern und für Heimat, unter welchen Voraussetzungen dienstliche oder
+öffentliche Belange anerkannt werden können.
 
 (2) Die Probezeit wird nicht verlängert durch Zeiten
 
@@ -2405,7 +2405,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mittlerer Dienst im Bundesnachrichtendienst und mittlerer Dienst im
         Verfassungsschutz des Bundes
 
-    *   Bundeskanzleramt und Bundesministerium des Innern, für Bau und Heimat
+    *   Bundeskanzleramt und Bundesministerium des Innern und für Heimat
 
 
 *    *   3
@@ -2430,7 +2430,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mittlerer nichttechnischer Dienst in der allgemeinen und inneren
         Verwaltung des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Bundesministerium des Innern und für Heimat
 
 
 *    *   6
@@ -2482,7 +2482,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mittlerer technischer Dienst in der Wasserstraßen- und
         Schifffahrtsverwaltung des Bundes
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
 *    *   12
@@ -2497,7 +2497,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Mittlerer Wetterdienst des Bundes
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
 *    *   14
@@ -2513,7 +2513,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Gehobener Dienst im Bundesnachrichtendienst und gehobener Dienst im
         Verfassungsschutz des Bundes
 
-    *   Bundeskanzleramt und Bundesministerium des Innern, für Bau und Heimat
+    *   Bundeskanzleramt und Bundesministerium des Innern und für Heimat
 
 
 *    *   16
@@ -2528,15 +2528,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   17
 
     *
-    *   Gehobener nichttechnischer Zolldienst des Bundes
+    *   Gehobener nichttechnischer Dienst des Bundes in der
+        Landwirtschaftlichen Sozialversicherung
 
-    *   Bundesministerium der Finanzen
+    *   Vorstand der Sozialversicherung für Landwirtschaft, Forsten und
+        Gartenbau
 
 
 *    *   18
 
     *
-    *   Gehobener Steuerdienst des Bundes
+    *   Gehobener nichttechnischer Zolldienst des Bundes
 
     *   Bundesministerium der Finanzen
 
@@ -2544,39 +2546,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   19
 
     *
-    *   Gehobener Archivdienst des Bundes
+    *   Gehobener Steuerdienst des Bundes
 
-    *   Der Beauftragte der Bundesregierung
-        für Kultur und Medien
+    *   Bundesministerium der Finanzen
 
 
 *    *   20
 
     *
-    *   Gehobener Verwaltungsinformatikdienst des Bundes
+    *   Gehobener Archivdienst des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Der Beauftragte der Bundesregierung für Kultur und Medien
 
 
 *    *   21
 
     *
-    *   Gehobener nichttechnischer Dienst in der allgemeinen und inneren
-        Verwaltung des Bundes
+    *   Gehobener Verwaltungsinformatikdienst des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Bundesministerium der Finanzen
 
 
 *    *   22
 
     *
-    *   Gehobener nichttechnischer Verwaltungsdienst des Bundes – Fachrichtung
-        digitale Verwaltung und Cyber-Sicherheit –
+    *   Gehobener nichttechnischer Dienst in der allgemeinen und inneren
+        Verwaltung des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Bundesministerium des Innern und für Heimat
 
 
 *    *   23
+
+    *
+    *   Gehobener nichttechnischer Verwaltungsdienst des Bundes – Fachrichtung
+        digitale Verwaltung und Cyber-Sicherheit –
+
+    *   Bundesministerium des Innern und für Heimat
+
+
+*    *   24
 
     *
     *   Gehobener nichttechnischer Verwaltungsdienst in der
@@ -2585,49 +2594,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   24
+*    *   25
 
     *   **Gehobener technischer Verwaltungsdienst**
 
     *
     *
 
-*    *   25
+*    *   26
 
     *
     *   Gehobener bautechnischer Verwaltungsdienst des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
-
-
-*    *   26
-
-    *
-    *   Gehobener technischer Dienst
-        – Fachrichtung Bahnwesen –
-
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 
 
 *    *   27
 
     *
-    *   Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und
-        Schifffahrtsverwaltung des Bundes
+    *   Gehobener technischer Dienst
+        – Fachrichtung Bahnwesen –
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
 *    *   28
 
     *
-    *   Gehobener technischer Verwaltungsdienst in der Straßenbauverwaltung
-        des Bundes
+    *   Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und
+        Schifffahrtsverwaltung des Bundes
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
 *    *   29
+
+    *
+    *   Gehobener technischer Verwaltungsdienst in der Straßenbauverwaltung
+        des Bundes
+
+    *   Bundesministerium für Digitales und Verkehr
+
+
+*    *   30
 
     *
     *   Gehobener technischer Verwaltungsdienst im Informationstechnikzentrum
@@ -2636,7 +2645,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Finanzen
 
 
-*    *   30
+*    *   31
 
     *
     *   Gehobener technischer Dienst in der Bundeswehrverwaltung –
@@ -2645,7 +2654,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   31
+*    *   32
 
     *
     *   Gehobener feuerwehrtechnischer Dienst in der Bundeswehr
@@ -2653,7 +2662,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   32
+*    *   33
 
     *
     *   Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn
@@ -2661,7 +2670,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Vorstand der Unfallversicherung Bund und Bahn
 
 
-*    *   33
+*    *   34
 
     *
     *   Gehobener technischer Dienst der Fernmelde- und Elektronischen
@@ -2670,53 +2679,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   34
+*    *   35
 
     *   **Gehobener naturwissenschaftlicher Dienst**
 
     *
     *
 
-*    *   35
+*    *   36
 
     *
     *   Gehobener Wetterdienst des Bundes
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
-*    *   36
+*    *   37
 
     *   **Höherer nichttechnischer Verwaltungsdienst**
 
     *
     *
 
-*    *   37
+*    *   38
 
     *
     *   Höherer Archivdienst des Bundes
 
-    *   Der Beauftragte der Bundesregierung
-        für Kultur und Medien
+    *   Der Beauftragte der Bundesregierung für Kultur und Medien
 
 
-*    *   38
+*    *   39
 
     *
     *   Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Bundesministerium des Innern und für Heimat
 
 
-*    *   39
+*    *   40
 
     *   **Höherer technischer Verwaltungsdienst**
 
     *
     *
 
-*    *   40
+*    *   41
 
     *
     *   Höherer technischer Verwaltungsdienst des Bundes, Fachrichtungen
@@ -2725,10 +2733,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Maschinen- und Elektrotechnik der Wasserstraßen, Luftfahrttechnik,
         Straßenwesen
 
-    *   Bundesministerium für Verkehr und digitale Infrastruktur
+    *   Bundesministerium für Digitales und Verkehr
 
 
-*    *   41
+*    *   42
 
     *
     *   Höherer technischer
@@ -2736,10 +2744,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik in der
         Verwaltung
 
-    *   Bundesministerium des Innern, für Bau und Heimat
+    *   Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 
 
-*    *   42
+*    *   43
 
     *
     *   Höherer technischer Dienst in der Bundeswehrverwaltung – Fachrichtung
@@ -2748,7 +2756,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   43
+*    *   44
 
     *
     *   Höherer feuerwehrtechnischer Dienst in der Bundeswehr
@@ -2756,7 +2764,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bundesministerium der Verteidigung
 
 
-*    *   44
+*    *   45
 
     *
     *   Höherer technischer Dienst bei der Unfallversicherung Bund und Bahn

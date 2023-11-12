@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 24.5.1974 I 1213;
 
 Zuletzt geändert durch
-:   Art. 10 Abs. 8 G v. 30.10.2017 I 3618
+:   Art. 3 G v. 26.7.2023 I Nr. 203
+
+Mittelbare änderung durch
+:   Art. 3 Nr. 2 G v. 16.8.2023 I Nr. 218 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Bestimmungen

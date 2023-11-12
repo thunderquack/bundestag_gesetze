@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1895, 301
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.7.2016 I 1578; 2019 I 196
-
-Änderung durch
-:   Art. 55 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 55 G v. 10.8.2021 I 3436
 
 
 ## Erster Abschnitt - Schiffseigner

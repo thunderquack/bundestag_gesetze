@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 2330
 
-Geändert durch
-:   Art. 24 G v. 18.2.1986 I 265
+Zuletzt geändert durch
+:   Art. 5 G v. 8.7.2022 I 1054
 
 
 ## Eingangsformel
@@ -30,9 +30,8 @@ Zustimmung des Bundesrates:
 
 ## § 1 Antrag, zuständige Behörde
 
-(1) Entschädigung nach
-§ 10 Abs. 1              und Härteausgleich nach
-§ 11 Abs. 1 des Energiesicherungsgesetzes (Gesetz)              werden
+(1) Entschädigungen nach § 11 Absatz 1 und § 11a Absatz 1 sowie
+Härteausgleich nach § 12 Absatz 1 des Energiesicherungsgesetzes werden
 auf Antrag durch die zuständige Behörde festgesetzt.
 
 (2) Zuständige Behörde ist die Behörde, die eine Maßnahme auf Grund
@@ -260,8 +259,7 @@ ist mit dem Bescheid, durch den die Berichtigung, die Rücknahme oder
 der Widerruf ausgesprochen wird, zu verbinden.
 
 (3) Auf das Verfahren einschließlich der Zwangsvollstreckung sind die
-Vorschriften der §§ 3 bis
-12              sinngemäß anzuwenden.
+Vorschriften der §§ 3 bis 11 sinngemäß anzuwenden.
 
 
 ## § 14
@@ -279,14 +277,7 @@ Gesetzbuchs) steht die Stellung des Antrages bei der zuständigen
 Behörde gleich.
 
 
-## § 16 Berlin-Klausel
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 19 des
-Energiesicherungsgesetzes auch im Land Berlin.
-
-
-## § 17 Inkrafttreten
+## § 16 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

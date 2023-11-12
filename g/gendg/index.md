@@ -562,7 +562,7 @@ wenn
 (3) Es dürfen nur die für den jeweiligen Untersuchungszweck
 erforderlichen Untersuchungen der genetischen Probe vorgenommen
 werden. Andere Feststellungen dürfen nicht getroffen werden. Die §§
-1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden
+1627 und 1821 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs finden
 Anwendung.
 
 
@@ -614,8 +614,8 @@ wenn zuvor
 
 
 
-Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden
-Anwendung.
+Die §§ 1627 und 1821 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs
+finden Anwendung.
 
 
 ### § 16 Genetische Reihenuntersuchungen
@@ -681,8 +681,8 @@ der Abstammung vorgenommen werden, wenn
 
 
 Für die Aufklärung und die Einwilligung des Vertreters gelten Absatz 1
-Satz 1 und 2 und Absatz 2 entsprechend. Die §§ 1627 und 1901 Abs. 2
-und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
+Satz 1 und 2 und Absatz 2 entsprechend. Die §§ 1627 und 1821 Absatz 2
+bis 4 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
 (4) Genetische Untersuchungen zur Klärung der Abstammung dürfen nur
 durch Ärztinnen oder Ärzte oder durch auf dem Gebiet der

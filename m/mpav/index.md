@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1227
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.6.2021 I 2026
-
-Mittelbare änderungen durch
-:   Art. 2 Satz 2 Nr. 1 bis 4 V v. 25.6.2021 I 2026 ist berücksichtigt
+:   Art. 2a G v. 17.7.2023 I Nr. 190
 
 
 ## § 1 Verschreibungspflicht
@@ -310,6 +307,14 @@ Fußnote)
 
 –   In-vitro-Diagnostika für die Eigenanwendung, die für den direkten
     Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind
+
+
+–   In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von
+    Influenzaviren bestimmt sind
+
+
+–   In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von
+    Respiratorischen Synzytial Viren bestimmt sind
 
 
 

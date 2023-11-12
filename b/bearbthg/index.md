@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1246
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.2.2021 I 274
-
-Änderung durch
-:   Art. 7 G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 11.7.2021 I 2754
 
 
 ## Eingangsformel

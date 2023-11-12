@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.1968 I 1082;
 
 Zuletzt geändert durch
-:   Art. 499 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 55 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 38 G v. 2.3.2023 I Nr. 56
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
@@ -632,7 +629,7 @@ wahrgenommen werden.
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe f auf dem
-Gebiet des Güterkraftverkehrs dem Bundesamt für Güterverkehr
+Gebiet des Güterkraftverkehrs dem Bundesamt für Logistik und Mobilität
 übertragen. Das Bundesministerium für Verkehr und digitale
 Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1
 Buchstabe a dem Eisenbahn-Bundesamt übertragen.

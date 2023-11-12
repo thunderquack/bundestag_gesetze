@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1968, 1355
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22. 6.2004 I 1314
-
-Änderung durch
-:   Art. 3 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 9.6.2021 I 1654
 
 
 ## Eingangsformel
@@ -141,7 +138,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   11.
 
-    *   Maler und lackierer
+    *   Maler und Lackierer
 
     *   Stukkateure
 

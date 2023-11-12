@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
-:   Art. 6 Abs. 1 G v. 5.7.2021 I 2274
+:   Art. 7 G v. 19.12.2022 I 2632
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
@@ -858,6 +858,38 @@ Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der
 Ausschreibung zu bezeichnen.
 
 
+##### § 14a Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+
+(1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben zur
+Verhütung von Straftaten nach § 3 Absatz 1 Nummer 2 eine Person, eine
+Sache oder bargeldlose Zahlungsmittel zur Ermittlungsanfrage oder zur
+verdeckten Kontrolle in den nationalen Fahndungssystemen ausschreiben
+und zur Erfüllung seiner Aufgaben nach § 3 Absatz 4 personenbezogene
+Daten für Zwecke der Ausschreibung verarbeiten, wenn die
+Voraussetzungen des Artikels 36 Absatz 1 und 3 Buchstabe a oder c der
+Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates
+vom 28. November 2018 über die Einrichtung, den Betrieb und die
+Nutzung des Schengener Informationssystems (SIS) im Bereich der
+polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in
+Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI
+des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des
+Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU
+der Kommission (ABl. L 312 vom 7.12.2018, S. 56) vorliegen. § 14
+Absatz 3 gilt entsprechend.
+
+(2) Eigene Ausschreibungen des Zollkriminalamtes zur Erfüllung seiner
+Aufgaben zur Verhütung von Straftaten nach § 3 Absatz 1 Nummer 2 zur
+verdeckten Kontrolle dürfen nur auf Anordnung der Präsidentin oder des
+Präsidenten des Zollkriminalamtes, ihrer oder seiner Vertretung, oder
+durch die Leiterin oder den Leiter einer Abteilung des
+Zollkriminalamtes oder ihrer Vertretung erfolgen. Bei Gefahr im Verzug
+darf die Ausschreibung nach Satz 1 auch durch Beamte des höheren
+Dienstes des Zollkriminalamtes angeordnet werden.
+
+(3) Die Ausschreibung ist unter Angabe der maßgeblichen Gründe zu
+dokumentieren.
+
+
 ##### § 15 Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt ist im Rahmen seiner Aufgaben nach § 3 Absatz
@@ -880,10 +912,13 @@ erforderlich ist, abzurufen:
 2.  die anderen ermittlungsführenden Dienststellen der Zollverwaltung,
 
 
-3.  die Zentralstelle für Finanztransaktionsuntersuchungen und
+3.  die Zentralstelle für Finanztransaktionsuntersuchungen,
 
 
-4.  das Bundeskriminalamt.
+4.  das Bundeskriminalamt und
+
+
+5.  die Zentralstelle für Sanktionsdurchsetzung.
 
 
 
@@ -1164,7 +1199,10 @@ erforderlich ist
 
 (4) Das Zollkriminalamt kann der Zentralstelle für
 Finanztransaktionsuntersuchungen personenbezogene Daten zur Erfüllung
-ihrer Aufgaben nach dem Geldwäschegesetz übermitteln.
+ihrer Aufgaben nach dem Geldwäschegesetz übermitteln. Satz 1 gilt
+entsprechend für die Übermittlung von personenbezogenen Daten an die
+Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben
+nach dem Sanktionsdurchsetzungsgesetz.
 
 (5) Die Einrichtung eines automatisierten Verfahrens für die
 Übermittlung von personenbezogenen Daten durch Abruf von Daten aus
@@ -1899,6 +1937,24 @@ veranlasst, so trägt die die Ausschreibung veranlassende Stelle der
 Zollverwaltung die Verantwortung für die Zulässigkeit der Maßnahme.
 Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und
 Dauer der Ausschreibung zu bezeichnen.
+
+
+##### § 33a Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+
+(1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
+Aufgaben zur Verhütung von Straftaten nach § 4 und § 5 eine Person,
+eine Sache oder bargeldlose Zahlungsmittel zur Ermittlungsanfrage oder
+zur verdeckten Kontrolle in den nationalen Fahndungssystemen
+ausschreiben, wenn die Voraussetzungen des Artikels 36 Absatz 1 und 3
+Buchstabe a oder c der Verordnung (EU) 2018/1862 vorliegen.
+
+(2) Die Ausschreibung zur verdeckten Kontrolle darf nur auf Anordnung
+der jeweiligen Behördenleitung oder ihrer Vertretung erfolgen. Bei
+Gefahr im Verzug darf die Ausschreibung nach Satz 1 auch durch Beamte
+des höheren Dienstes des Zollkriminalamtes angeordnet werden.
+
+(3) Die Ausschreibung ist unter Angabe der maßgeblichen Gründe zu
+dokumentieren.
 
 
 ##### § 34 Aufzeichnung eingehender Telefonanrufe
@@ -2945,7 +3001,10 @@ dieser Daten erforderlich ist
 
 (5) Die Behörden des Zollfahndungsdienstes können der Zentralstelle
 für Finanztransaktionsuntersuchungen personenbezogene Daten zur
-Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln.
+Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz übermitteln. Satz 1
+gilt entsprechend für die Übermittlung von personenbezogenen Daten an
+die Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer
+Aufgaben nach dem Sanktionsdurchsetzungsgesetz.
 
 (6) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des Absatzes 2 personenbezogene Daten auch an
@@ -4446,6 +4505,11 @@ Satz 1 genannten Zweck noch erforderlich sind.
     Beauskunftung betroffenen Personen,
 
 
+1a. des § 14a sowie des § 33a bei einer Ausschreibung zur verdeckten
+    Kontrolle die Zielperson und die Personen, deren personenbezogene
+    Daten gemeldet worden sind,
+
+
 2.  des § 47 Absatz 2 Nummer 1 und 2 (längerfristige Observation,
     Bildaufnahmen oder Bildaufzeichnungen, Abhören und Aufzeichnen des
     nichtöffentlich gesprochenen Wortes außerhalb von Wohnungen) die
@@ -4524,7 +4588,10 @@ Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser
 Person, des Aufwands für die Feststellung ihrer Identität sowie der
 daraus für diese oder andere Personen folgenden Beeinträchtigungen
 geboten ist. Die Gründe für das Absehen von der Benachrichtigung sind
-zu dokumentieren.
+zu dokumentieren. In den Fällen des Absatzes 1 Satz 1 Nummer 1a
+unterrichtet die Stelle, die die Ausschreibung veranlasst hat, das
+Zollkriminalamt über die Löschung und darüber, ob der Betroffene
+benachrichtigt werden kann.
 
 (2) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des
 Zwecks der Maßnahme, des Bestandes des Staates, von Leib, Leben oder
@@ -4535,7 +4602,7 @@ Möglichkeit der weiteren Verwendung der Vertrauensperson oder des
 Verdeckten Ermittlers möglich ist. Wird wegen des zugrunde liegenden
 Sachverhaltes ein strafrechtliches Ermittlungsverfahren geführt,
 entscheidet die Strafverfolgungsbehörde entsprechend den Vorschriften
-des Strafverfahrensrechts über den Zeitpunkt der Benachrichtigung.
+des Strafverfahrensrechts, ob eine Benachrichtigung vorgenommen wird.
 Wird die Benachrichtigung aus einem der vorgenannten Gründe
 zurückgestellt, ist dies zu dokumentieren.
 
@@ -4547,11 +4614,13 @@ Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der
 Maßnahme kann mit gerichtlicher Zustimmung endgültig von der
 Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die
 Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch
-in Zukunft nicht eintreten werden. Sind mehrere Maßnahmen in einem
-engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz
-1 genannte Frist mit der Beendigung der letzten Maßnahme. Die
-gerichtliche Zuständigkeit bestimmt sich nach den für die Anordnung
-der jeweiligen Maßnahme geltenden Vorschriften.
+in Zukunft nicht eintreten werden, eine weitere Verwendung der Daten
+gegen den Betroffenen ausgeschlossen ist und die Daten gelöscht
+werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang
+durchgeführt worden, beginnt die in Satz 1 genannte Frist mit der
+Beendigung der letzten Maßnahme. Die gerichtliche Zuständigkeit
+bestimmt sich nach den für die Anordnung der jeweiligen Maßnahme
+geltenden Vorschriften.
 
 (4) Auch nach Erledigung einer der in Absatz 1 genannten Maßnahme
 können betroffene Personen binnen zwei Wochen nach ihrer
@@ -4691,6 +4760,26 @@ Zweckerfüllung, spätestens jedoch ein Jahr nach dem Beginn der
 Ausschreibung zu löschen. Besondere in diesem Gesetz enthaltene
 Vorschriften zur Löschung personenbezogener Daten und hierfür zu
 beachtender Fristen bleiben unberührt.
+
+(8) Ist eine Ausschreibung nach § 14a oder § 33a erfolgt, so sind die
+zu diesem Zweck gespeicherten personenbezogenen Daten nach der
+Zweckerfüllung, spätestens jedoch ein Jahr nach dem Beginn der
+Ausschreibung zu löschen. Spätestens nach Ablauf von sechs Monaten ist
+zu prüfen, ob die Voraussetzungen für die Ausschreibung noch bestehen.
+Das Ergebnis dieser Prüfung ist zu dokumentieren. Eine Verlängerung
+der Maßnahme um jeweils nicht mehr als ein Jahr ist zulässig, soweit
+die Voraussetzungen für die Anordnung der Maßnahme weiterhin
+vorliegen; bei einer Ausschreibung zur verdeckten Kontrolle bedarf die
+Verlängerung einer richterlichen Anordnung. Zuständiges Gericht ist
+das Amtsgericht, in dessen Bezirk die Stelle, die die Ausschreibung
+veranlasst hat, ihren Sitz hat. Die Bestimmungen des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit finden entsprechende Anwendung. Liegen
+die Voraussetzungen der Ausschreibung nicht mehr vor, ist die
+Ausschreibung aufzuheben und sind die aufgrund der Ausschreibung
+ergriffenen Maßnahmen unverzüglich zu beenden. Besondere in diesem
+Gesetz enthaltene Vorschriften zur Löschung personenbezogener Daten
+und hierfür zu beachtende Fristen bleiben unberührt.
 
 
 #### § 97 Berichtigung personenbezogener Daten, Einschränkung der Verarbeitung in Akten, Vernichtung von Akten

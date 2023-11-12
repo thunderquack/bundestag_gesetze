@@ -20,11 +20,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 18.8.2014 I 1447;
 
-Geändert durch
-:   Art. 2 V v. 24.3.2017 I 656
-
-Änderung durch
-:   Art. 11 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 G v. 27.7.2021 I 3146
 
 Mit dieser Verordnung wird die Richtlinie 94/63/EG des Europäischen
 Parlaments und des Rates vom 20. Dezember 1994 zur Begrenzung der

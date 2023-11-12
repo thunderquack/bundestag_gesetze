@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.11.1972 I 2201;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.01.2016 I 52
+:   Art. 2 Abs. 30 G v. 20.12.2022 I 2752
 
 
 ## § 1
@@ -318,11 +318,4 @@ zuständigen Verwaltungsbehörden mitteilen.
 ## § 10
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
-
-
-## § 11
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3786
 
 Zuletzt geändert durch
-:   Art. 22 G v. 15.8.2019 I 1307
+:   Art. 10 V v. 7.6.2023 I Nr. 148
 
 
 ## Eingangsformel
@@ -35,8 +35,8 @@ Benehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
 (1) Die dreijährige Ausbildung der Physiotherapeuten umfaßt mindestens
 den in der Anlage 1 aufgeführten theoretischen und praktischen
-Unterricht von 2.900 Stunden und die aufgeführte praktische Ausbildung
-von 1.600 Stunden. In den Fällen des § 12 Abs. 2 des Masseur- und
+Unterricht von 2 900 Stunden und die aufgeführte praktische Ausbildung
+von 1 600 Stunden. In den Fällen des § 12 Abs. 2 des Masseur- und
 Physiotherapeutengesetzes und für Umschüler nach § 18 Satz 2 des
 Gesetzes sind die Stundenzahlen entsprechend zu verringern, wobei sich
 der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
@@ -44,10 +44,10 @@ der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
 (2) Die nach § 12 Abs. 1 Satz 1 und 2 des Masseur- und
 Physiotherapeutengesetzes verkürzte Ausbildung zum Physiotherapeuten
 umfaßt mindestens den in der Anlage 2 aufgeführten theoretischen und
-praktischen Unterricht von 1.400 Stunden und die aufgeführte
+praktischen Unterricht von 1 400 Stunden und die aufgeführte
 praktische Ausbildung von 700 Stunden. Die nach § 12 Abs. 1 Satz 3 des
 Gesetzes verkürzte Ausbildung umfaßt mindestens den in der Anlage 3
-aufgeführten theoretischen und praktischen Unterricht von 1.000
+aufgeführten theoretischen und praktischen Unterricht von 1 000
 Stunden und die aufgeführte praktische Ausbildung von 400 Stunden. Der
 theoretische Unterricht kann in dem in Anlage 2 und 3 vorgeschriebenen
 Umfang auch in Form von Fernunterricht, der unter der Verantwortung
@@ -65,6 +65,13 @@ Bescheinigung nach dem Muster der Anlage 4 nachzuweisen. Im Falle des
 Fernunterrichts nach Absatz 2 Satz 4 ist der Bescheinigung nach Satz 1
 eine Bescheinigung des Fernlehrinstituts beizufügen, aus der sich die
 erfolgreiche Teilnahme am Fernunterricht ergibt.
+
+(5) Lehrformate, die selbstgesteuertes Lernen oder E-Learning
+beinhalten, können zielgerichtet bei der Konzeption des theoretischen
+und praktischen Unterrichts in einem angemessenen Umfang
+berücksichtigt werden. Die Teilnahme an den Lehrformaten nach Satz 1
+ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das
+Nähere regeln die Länder.
 
 
 ### § 2 Staatliche Prüfung
@@ -178,35 +185,70 @@ Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
 
 
-### § 6 Benotung
+### § 6 Benotung von Leistungen in der staatlichen Prüfung
 
-Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der
-mündlichen und praktischen Prüfung werden wie folgt benotet:
+Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
+benotet:
 
--   "sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße
-    entspricht,
+*    *   Berechneter Zahlenwert
 
+    *   Note in Worten
+        (Zahlenwert)
 
--   "gut" (2), wenn die Leistung den Anforderungen voll entspricht,
-
-
--   "befriedigend" (3), wenn die Leistung im allgemeinen den Anforderungen
-    entspricht,
+    *   Notendefinition
 
 
--   "ausreichend" (4), wenn die Leistung zwar Mängel aufweist, aber im
-    ganzen den Anforderungen noch entspricht,
+*    *   1,00 bis 1,49
+
+    *   sehr gut
+        (1)
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
--   "mangelhaft" (5), wenn die Leistung den Anforderungen nicht
-    entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse
-    vorhanden sind und die Mängel in absehbarer Zeit behoben werden
-    können,
+*    *   1,50 bis 2,49
+
+    *   gut
+        (2)
+
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
--   "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
-    und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
-    absehbarer Zeit nicht behoben werden können.
+*    *   2,50 bis 3,49
+
+    *   befriedigend
+        (3)
+
+    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
+
+
+*    *   3,50 bis 4,49
+
+    *   ausreichend
+        (4)
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   4,50 bis 5,49
+
+    *   mangelhaft
+        (5)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
+        Mängel in absehbarer Zeit behoben werden können
+
+
+*    *   5,50 bis 6,00
+
+    *   ungenügend
+        (6)
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
+        absehbarer Zeit nicht behoben werden können
 
 
 
@@ -323,13 +365,17 @@ Schulleitung bestellt.
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden
 des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede
-Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus
-den Noten der Fachprüfer bildet der Vorsitzende des
-Prüfungsausschusses im Benehmen mit den Fachprüfern die Note für die
-einzelne Aufsichtsarbeit sowie aus den Noten der vier
+Aufsichtsarbeit ist von zwei Fachprüfern zu benoten. Aus den Noten der
+Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für
+die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten
+der einzelnen Fachprüfer sowie aus den Noten der vier
 Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der
-Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede
-der vier Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
+Prüfung als das arithmetische Mittel der Noten der einzelnen
+Aufsichtsarbeiten unter Berücksichtigung ihres zeitlichen Umfangs. Die
+Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem
+berechneten Zahlenwert ist die entsprechende Note nach § 6 zuzuordnen.
+Der schriftliche Teil der Prüfung ist bestanden, wenn jede der vier
+Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 
 ### § 13 Mündlicher Teil der Prüfung
@@ -351,13 +397,17 @@ den Fächern Nummer 1 und 3 soll der Prüfling nicht länger als dreißig
 Minuten, in Fach Nummer 2 nicht länger als fünfzehn Minuten geprüft
 werden.
 
-(2) Jedes Fach wird von mindestens einem Fachprüfer abgenommen und
-benotet. Der Vorsitzende ist berechtigt, sich in allen Fächern an der
-Prüfung zu beteiligen; er kann auch selbst prüfen. Aus den Noten der
-Fachprüfer bildet der Vorsitzende im Benehmen mit den Fachprüfern die
-Prüfungsnote für den mündlichen Teil der Prüfung. Der mündliche Teil
-der Prüfung ist bestanden, wenn jedes Fach mindestens mit
-"ausreichend" benotet wird.
+(2) Jedes Fach wird von zwei Fachprüfern abgenommen und benotet. Der
+Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung
+teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der
+Fachprüfer bildet der Vorsitzende die Note für jedes Fach als das
+arithmetische Mittel der Noten der beiden Fachprüfer sowie die
+Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische
+Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei
+Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist
+die entsprechende Note nach § 6 zuzuordnen. Der mündliche Teil der
+Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend"
+benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten
 Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung
@@ -418,13 +468,21 @@ Fächergruppen:
 
 (2) Der praktische Teil der Prüfung wird in jedem einzelnen Fach von
 zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1
-Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der
-Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen
-mit den Fachprüfern die Note für die jeweilige Fächergruppe sowie aus
-den Noten der drei Fächergruppen die Prüfungsnote für den praktischen
-Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn
-jede Fächergruppe mindestens mit "ausreichend" und dabei kein Fach
-schlechter als "mangelhaft" benotet wird.
+Nr. 3 Buchstabe b, abgenommen und benotet. Der Vorsitzende ist
+berechtigt, an der Prüfung teilzunehmen; ihm steht kein Fragerecht zu.
+Aus den Noten der Fachprüfer bildet der Vorsitzende des
+Prüfungsausschusses die Note für jedes Fach als das arithmetische
+Mittel der Noten der einzelnen Fachprüfer. Aus den Noten der Fächer
+bildet der Vorsitzende des Prüfungsausschusses die Note für die
+jeweilige Fächergruppe als das arithmetische Mittel der Noten der
+einzelnen Fächer sowie aus den Noten der drei Fächergruppen die
+Prüfungsnote für den praktischen Teil der Prüfung als das
+arithmetische Mittel der Noten der drei Fächergruppen. Die Berechnung
+erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten
+Zahlenwert ist die entsprechende Note nach § 6 zuzuordnen. Der
+praktische Teil der Prüfung ist bestanden, wenn jede Fächergruppe
+mindestens mit "ausreichend" und dabei kein Fach schlechter als
+"mangelhaft" benotet wird.
 
 (3) Der praktische Teil der Prüfung soll innerhalb von vier Wochen
 abgeschlossen sein.
@@ -687,14 +745,16 @@ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des
 Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die
 Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der
 Vorsitzende des Prüfungsausschusses nach Rücksprache mit den
-Fachprüfern über das Bestehen. Die Eignungsprüfung soll mindestens
-zweimal jährlich angeboten werden. Sie darf einmal wiederholt werden.
-Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem
-Muster der Anlage 6b erteilt.
+Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses
+muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein
+Fragerecht zu. Die Eignungsprüfung soll mindestens zweimal jährlich
+angeboten werden. Sie darf einmal wiederholt werden. Über die
+bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der
+Anlage 6b erteilt.
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 13a
 Absatz 3 Satz 6 des Masseur- und Physiotherapeutengesetzes einer
-Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 11
+Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12
 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines
 Monats nach der Entscheidung gemäß § 21 Absatz 5 Satz 1 oder Satz 2
 abgelegt werden kann.
@@ -784,10 +844,11 @@ mindestens voraus, dass die Leistung des Prüflings im Ganzen trotz
 ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu
 einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des
 Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
-Bestehen.
+Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck
+während der Prüfung anwesend sein; ihm steht ein Fragerecht zu.
 
 (5) Für den praktischen Teil der Kenntnisprüfung gilt § 21a Absatz 3
-Satz 2 bis 9 entsprechend.
+Satz 2 bis 11 entsprechend.
 
 (6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden und darf im mündlichen Teil sowie jedem medizinischen

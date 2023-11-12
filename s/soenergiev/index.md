@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4328
 
+Geändert durch
+:   Art. 11 G v. 20.7.2022 I 1325
+
 
 ## Eingangsformel
 
@@ -27,9 +30,9 @@ Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) neu gefasst worden ist:
 
 ## § 1 Zweck und Ziel der Verordnung
 
-Die Verordnung regelt nach § 71 Nummer 5 des Windenergie-auf-See-
+Die Verordnung regelt nach § 96 Nummer 5 des Windenergie-auf-See-
 Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt
-durch Artikel 12a des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026)
+durch Artikel 1 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1325)
 geändert worden ist, das Verfahren zur Vergabe von sonstigen
 Energiegewinnungsbereichen oder deren Teilbereichen in der
 ausschließlichen Wirtschaftszone, die im Flächenentwicklungsplan des
@@ -140,9 +143,10 @@ müssen mindestens folgende Angaben enthalten:
     Sanktionen bei deren Nichteinhaltung nach § 15,
 
 
-7.  einen Hinweis auf die nach § 46 Absatz 6 und § 48 Absatz 4 Nummer 7
-    des Windenergie-auf-See-Gesetzes erforderliche Verpflichtungserklärung
-    nach § 66 Absatz 2 des Windenergie-auf-See-Gesetzes.
+7.  einen Hinweis auf die nach § 67 Absatz 6 und § 69 Absatz 3 Satz 1
+    Nummer 7 des Windenergie-auf-See-Gesetzes erforderliche
+    Verpflichtungserklärung nach § 90 Absatz 2 des Windenergie-auf-See-
+    Gesetzes.
 
 
 
@@ -251,7 +255,7 @@ nachvollziehbare und belegte Angaben enthalten:
 13. einen Projektzeitplan in Monaten
 
     a)  bis zur Einreichung der für die Durchführung des
-        Planfeststellungsverfahrens nach § 47 des Windenergie-auf-See-Gesetzes
+        Planfeststellungsverfahrens nach § 68 des Windenergie-auf-See-Gesetzes
         erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt und
         Hydrographie und
 
@@ -361,7 +365,7 @@ Kriterien:
 Die Erfüllung der Kriterien wird anhand von Punkten bewertet
 (Bewertungspunkte).
 
-[^F818470_01_BJNR432800021BJNE001000000]
+[^F818470_01_BJNR432800021BJNE001001119]
 (2) Die Berechnung der voraussichtlichen jährlichen Energiemenge nach
 Absatz 1 Satz 1 Nummer 1 erfolgt unter Abzug aller Verluste und des
 Hilfsenergiebedarfs für Umwandlung und Transport bis zum
@@ -376,7 +380,7 @@ multipliziert. Es ist nach Nummer 4.5.1 der DIN 1333, Ausgabe Februar
 1992
 , auf zwei Stellen nach dem Komma zu runden.
 
-[^F818470_02_BJNR432800021BJNE001000000]
+[^F818470_02_BJNR432800021BJNE001001119]
 (3) Die Berechnung der Energieeffizienz nach Absatz 1 Satz 1 Nummer 2
 erfolgt durch Multiplikation der angenommenen Nutzungsgrade der
 aufeinanderfolgenden wesentlichen Prozessschritte bei der Umwandlung
@@ -403,7 +407,7 @@ folgenden Teilsysteme bewertet:
 
 
 
-[^F818470_03_BJNR432800021BJNE001000000]
+[^F818470_03_BJNR432800021BJNE001001119]
 Hierbei wird die Technologiereife für jedes Teilsystem einem Reifegrad
 auf einer Skala von eins bis neun zugeordnet und sodann
 Bewertungspunkte vergeben. Reifegrad 1 erfordert die Beobachtung der
@@ -471,7 +475,7 @@ In diesem Fall erhält das Gebot entsprechend seiner Skalierbarkeit
 keinen, einen oder zwei Bewertungspunkte für das jeweilige Kriterium
 nach Satz 2 Nummer 1 bis 3.
 
-[^F818470_04_BJNR432800021BJNE001000000]
+[^F818470_04_BJNR432800021BJNE001001119]
 (6) Die Berechnung der voraussichtlichen Energiebereitstellungskosten
 nach Absatz 1 Satz 1 Nummer 5 erfolgt auf Basis der in Absatz 1 Satz 1
 Nummer 1 genannten Energiemenge und der Kosten für die
@@ -507,23 +511,24 @@ Unternehmen nicht mehr hergestellt werden kann.
 
 (9) Das Bundesamt für Seeschifffahrt und Hydrographie ist berechtigt,
 die nach den §§ 8 und 9 erhobenen nicht personenbezogenen Daten dem
-Bundesministerium für Wirtschaft und Energie zu Zwecken der Rechts-
-und Fachaufsicht sowie zu Zwecken der Evaluierung und Fortschreibung
-des Rechtsrahmens zu übermitteln. Das Bundesministerium für Wirtschaft
-und Energie darf die nach Satz 1 erlangten Daten an beauftragte Dritte
-zu Zwecken der Evaluierung nach § 99 des Erneuerbare-Energien-Gesetzes
-übermitteln. Absatz 8 Satz 4 ist für die Übermittlung an beauftragte
-Dritte nach Satz 2 entsprechend anzuwenden.
+Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der
+Rechts- und Fachaufsicht sowie zu Zwecken der Evaluierung und
+Fortschreibung des Rechtsrahmens zu übermitteln. Das Bundesministerium
+für Wirtschaft und Klimaschutz darf die nach Satz 1 erlangten Daten an
+beauftragte Dritte zu Zwecken der Evaluierung nach § 99 des
+Erneuerbare-Energien-Gesetzes übermitteln. Absatz 8 Satz 4 ist für die
+Übermittlung an beauftragte Dritte nach Satz 2 entsprechend
+anzuwenden.
 
     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
     archivmäßig gesichert.
-[^F818470_01_BJNR432800021BJNE001000000]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
+[^F818470_01_BJNR432800021BJNE001001119]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
     archivmäßig gesichert.
-[^F818470_02_BJNR432800021BJNE001000000]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
+[^F818470_02_BJNR432800021BJNE001001119]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
     archivmäßig gesichert.
-[^F818470_03_BJNR432800021BJNE001000000]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
+[^F818470_03_BJNR432800021BJNE001001119]:     Erschienen im Beuth Verlag GmbH, Berlin und beim Deutschen Patentamt
     archivmäßig gesichert.
-[^F818470_04_BJNR432800021BJNE001000000]: 
+[^F818470_04_BJNR432800021BJNE001001119]: 
 
 ## § 10 Ausschluss von Geboten
 
@@ -719,7 +724,7 @@ Erzeugung von grünem Wasserstoff auf See.
 
 (1) Antragsberechtigte Bieter müssen
 
-1.[^F818470_05_BJNR432800021BJNE001500000]
+1.[^F818470_05_BJNR432800021BJNE001501119]
   innerhalb von zwei Monaten nach Unterrichtung über die Erteilung der
     Antragsberechtigung nach § 13 Absatz 5 ein Konzept für ein
     Untersuchungsprogramm in Anlehnung an den „Standard Untersuchung der
@@ -732,7 +737,7 @@ Erzeugung von grünem Wasserstoff auf See.
 2.  innerhalb von 24 Monaten nach Unterrichtung über die Erteilung der
     Antragsberechtigung nach § 13 Absatz 5 die zur Durchführung des
     Anhörungsverfahrens über den Plan nach § 73 Absatz 1 des
-    Verwaltungsverfahrensgesetzes und § 47 des Windenergie-auf-See-
+    Verwaltungsverfahrensgesetzes und § 68 des Windenergie-auf-See-
     Gesetzes erforderlichen Unterlagen beim Bundesamt für Seeschifffahrt
     und Hydrographie einreichen,
 
@@ -804,7 +809,7 @@ Fristverlängerung.
     Herausgegeben vom Bundesamt für Seeschifffahrt und Hydrographie (BSH),
     Hamburg und Rostock, unter BSH Nr. 7003 und abrufbar über die Homepage
     des BSH unter www.bsh.de.
-[^F818470_05_BJNR432800021BJNE001500000]: 
+[^F818470_05_BJNR432800021BJNE001501119]: 
 
 ## § 15 Sanktionen bei Nichteinhaltung der Realisierungsfristen
 

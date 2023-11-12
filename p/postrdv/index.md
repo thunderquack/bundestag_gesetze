@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1994, 1867
 
 Zuletzt geändert durch
-:   Art. 20 G v. 12.6.2020 I 1248
+:   Art. 31 G v. 20.12.2022 I 2759
 
 
 ## Eingangsformel
@@ -1036,6 +1036,10 @@ Rahmen des Erforderlichen
 
 
 
+Dies gilt auch für die Entgelte in den Fällen, in denen die physische
+Versendung durch digitale Verfahren ersetzt wird, die die Deutsche
+Post AG selbst betreibt oder für die sie Dienstleistungen Dritter in
+Anspruch nimmt.
 
 (2) Der Renten Service hat dafür Sorge zu tragen, daß die Auslagen für
 die Inanspruchnahme von Dienstleistungen Dritter so gering wie möglich

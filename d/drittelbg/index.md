@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 974
 
 Zuletzt geändert durch
-:   Art. 8 G v. 24.4.2015 I 642
-
-Änderung durch
-:   Art. 21 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 7.8.2021 I 3311
 
 
 ## Teil 1 - Geltungsbereich

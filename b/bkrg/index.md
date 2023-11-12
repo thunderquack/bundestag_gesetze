@@ -15,14 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702, 2707
 
-Geändert durch
-:   Art. 16a Abs. 4 G v. 28.4.2020 I 960
-
-Änderung durch
-:   Art. 1 G v. 18.8.2021 I 3890 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 18.8.2021 I 3890 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 G v. 18.8.2021 I 3890
 
 
 ## § 1 Zentrum für Krebsregisterdaten, Begriffsbestimmung

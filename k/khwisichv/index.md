@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 08.04.2021 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.12.2021 BAnz AT 30.12.2021 V2
+:   Art. 1 V v. 15.12.2022 BAnz AT 16.12.2022 V1
 
 
 ## Eingangsformel
@@ -197,14 +197,14 @@ Bundesministerium für Gesundheit stellt den für die Krankenhausplanung
 zuständigen Landesbehörden die Übersicht elektronisch zur Verfügung.
 
 
-## § 4 Verlängerung von Fristen nach den §§ 21 und 22 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
+## § 4 Verlängerung von Fristen nach den §§ 21 bis 22 und 25 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 415 des Fünften Buches Sozialgesetzbuch
 
 (1) Die Frist nach § 21 Absatz 1a Satz 1 des
 Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021
 verlängert.
 
 (1a) Der Zeitraum nach § 21 Absatz 1b Satz 1 des
-Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022
+Krankenhausfinanzierungsgesetzes wird bis zum 18. April 2022
 verlängert.
 
 (2) Die Frist nach § 21 Absatz 2a Satz 4 des
@@ -212,7 +212,7 @@ Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021
 verlängert.
 
 (2a) Die Frist nach § 21 Absatz 2b Satz 4 des
-Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022
+Krankenhausfinanzierungsgesetzes wird bis zum 18. April 2022
 verlängert.
 
 (3) Abweichend von § 21 Absatz 9a Satz 3 des
@@ -230,7 +230,7 @@ Krankenkassen
     ausgezahlten Finanzmittel und
 
 
-2.  bis zum 19. April 2022 eine krankenhausbezogene nach Monaten
+2.  bis zum 18. August 2022 eine krankenhausbezogene nach Monaten
     differenzierte Aufstellung der nach § 21 Absatz 4b Satz 2 des
     Krankenhausfinanzierungsgesetzes für das Jahr 2022 ausgezahlten
     Finanzmittel.
@@ -238,15 +238,37 @@ Krankenkassen
 
 
 
+(3a) Der Zeitraum nach § 21a Absatz 1 Satz 1 des
+Krankenhausfinanzierungsgesetzes wird bis zum 30. Juni 2022
+verlängert.
+
+(3b) Die Frist nach § 21a Absatz 3 Satz 3 des
+Krankenhausfinanzierungsgesetzes für die Durchführung der letztmaligen
+Ermittlung nach § 21a Absatz 3 Satz 1 des
+Krankenhausfinanzierungsgesetzes wird bis zur achtunddreißigsten
+Kalenderwoche des Jahres 2022 verlängert.
+
+(3c) Die bis zum 20. April 2022 laufende Frist nach § 21a Absatz 7
+Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 20. Oktober
+2022 verlängert.
+
+(3d) Die Frist nach § 21a Absatz 8 Satz 1 des
+Krankenhausfinanzierungsgesetzes wird bis zum 29. Oktober 2022
+verlängert.
+
 (4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des
 Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November
-2021 bis zum 19. März 2022 festgelegt.
+2021 bis zum 30. Juni 2022 festgelegt.
+
+(4a) Die bis zum 19. März 2022 laufenden Fristen nach § 25 Absatz 1
+Satz 1 des Krankenhausfinanzierungsgesetzes werden bis zum 30. Juni
+2022 verlängert.
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches
 Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
 (6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch
-wird bis zum 30. Juni 2022 verlängert.
+wird bis zum 31. Dezember 2023 verlängert.
 
 
 ## § 5 Erlösausgleiche für das Jahr 2021
@@ -503,8 +525,13 @@ das Nähere über den Ausgleich
     vereinbarten Kriterien,
 
 
-4.  die Einzelheiten zur Abrechnung des nach Absatz 8 Satz 1 Nummer 4
-    vereinbarten Ausgleichsbetrags.
+4.  die Einzelheiten zum Verfahren der Anrechnung der Summe der
+    abgerechneten Zuschläge nach § 6a Absatz 3 Satz 1 auf den nach Absatz
+    8 Satz 1 Nummer 4 vereinbarten Ausgleichsbetrag und
+
+
+5.  die Einzelheiten zur Abrechnung des nach Absatz 11 Satz 1 ermittelten
+    Betrags.
 
 
 
@@ -589,7 +616,10 @@ oder der Festlegung nach Absatz 6 Folgendes zu vereinbaren:
 4.  den Ausgleichsbetrag für den Erlösrückgang oder den Erlösanstieg,
 
 
-5.  die Höhe des Zu- oder Abschlags nach Absatz 11.
+5.  die Summe der abgerechneten Zuschläge nach § 6a Absatz 3 Satz 1 und
+
+
+6.  die Höhe des Zu- oder Abschlags nach Absatz 11 Satz 2.
 
 
 
@@ -626,9 +656,15 @@ des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte
 Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen und
 Versorgungsaufschläge entspricht.
 
-(11) Der nach Absatz 8 Satz 1 Nummer 4 vereinbarte Ausgleichsbetrag
-wird durch Zu- oder Abschläge auf die Entgelte des laufenden oder
-eines folgenden Vereinbarungszeitraums ausgeglichen.
+(11) Die Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes ziehen von dem nach Absatz 8 Satz 1
+Nummer 4 vereinbarten Ausgleichsbetrag die nach Absatz 8 Satz 1 Nummer
+5 vereinbarte Summe der abgerechneten Zuschläge nach § 6a Absatz 3
+Satz 1 ab. Der nach Satz 1 ermittelte Betrag wird durch Zu- oder
+Abschläge auf die Entgelte des laufenden oder eines folgenden
+Vereinbarungszeitraums ausgeglichen. Überzahlungen des
+Ausgleichsbetrags durch abgerechnete Zuschläge nach § 6a Absatz 3 Satz
+1 sind vollständig auszugleichen.
 
 (12) Kommt eine Vereinbarung nach Absatz 8 Satz 1 nicht oder nicht
 vollständig zustande, legt die Schiedsstelle nach § 18a Absatz 1 des
@@ -651,7 +687,7 @@ oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr
 2022 ausgeschlossen.
 
 
-## § 6 Abschlagszahlungen
+## § 6 Abschlagszahlungen für das Jahr 2021
 
 (1) Der Träger eines zugelassenen Krankenhauses kann vor dem Abschluss
 der Vereinbarung über einen Erlösausgleich nach § 5 Absatz 8 Satz 1
@@ -685,7 +721,7 @@ Leistungsbereiche getrennt voneinander zu betrachten.
 ermitteln. Die Höhe der Abschlagszahlung ergibt sich aus der
 Multiplikation
 
-1.  der Höhe des Rückgangs der Belegungstage nach Satz 2,
+1.  der Höhe des Rückgangs der Belegungstage nach Satz 3,
 
 
 2.  der sich für das Krankenhaus gemäß § 1 der
@@ -771,6 +807,128 @@ zum 15. Mai 2021 fest.
 (8) Der Träger eines Krankenhauses, das den Zuschlag nach Absatz 3
 Satz 1 erhebt, ist verpflichtet, eine Vereinbarung über einen
 Erlösausgleich nach § 5 Absatz 8 Satz 1 abzuschließen.
+
+
+## § 6a Abschlagszahlungen für das Jahr 2022
+
+(1) Der Träger eines zugelassenen Krankenhauses kann vor dem Abschluss
+der Vereinbarung über einen Erlösausgleich nach § 5a Absatz 8 Satz 1
+für das Jahr 2022 von den anderen Vertragsparteien nach § 18 Absatz 2
+des Krankenhausfinanzierungsgesetzes eine Abschlagszahlung verlangen,
+um die Finanzierung der durch Pflegesätze nach § 17 des
+Krankenhausfinanzierungsgesetzes zu deckenden Kosten im Jahr 2022 zu
+gewährleisten, wenn
+
+1.  das Krankenhaus im gesamten ersten Quartal des Jahres 2022 keinen
+    Anspruch auf Ausgleichszahlungen nach § 21 Absatz 1b Satz 1 des
+    Krankenhausfinanzierungsgesetzes in Verbindung mit § 4 Absatz 1a hatte
+    und
+
+
+2.  die Zahl der in dem Krankenhaus im Durchschnitt des ersten Quartals
+    des Jahres 2022 pro Tag voll- oder teilstationär behandelten
+    Patientinnen und Patienten gegenüber dem Referenzwert im Sinne des §
+    21 Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr
+    2019 zurückgegangen ist.
+
+
+
+Die Zahl der im Durchschnitt des ersten Quartals des Jahres 2022 pro
+Tag voll- oder teilstationär behandelten Patientinnen und Patienten
+ist von dem Krankenhausträger zu ermitteln. Bei Krankenhäusern, die
+Leistungen nach dem Krankenhausentgeltgesetz und der
+Bundespflegesatzverordnung erbringen, sind die jeweiligen
+Leistungsbereiche getrennt voneinander zu betrachten.
+
+(2) Die Höhe der Abschlagszahlung ist von dem Krankenhausträger zu
+ermitteln. Die Höhe der Abschlagszahlung ergibt sich aus der
+Multiplikation
+
+1.  der Höhe des Rückgangs der Belegungstage nach Satz 3,
+
+
+2.  der sich für das Krankenhaus nach § 1 der COVID-19-Ausgleichszahlungs-
+    Anpassungs-Verordnung ergebenden tagesbezogenen Pauschale und
+
+
+3.  des Prozentsatzes 70.
+
+
+
+Die Höhe des Rückgangs der Belegungstage ergibt sich aus der
+Multiplikation
+
+1.  der Zahl, um die die Zahl der in dem Krankenhaus im Durchschnitt des
+    ersten Quartals des Jahres 2022 pro Tag voll- oder teilstationär
+    behandelten Patientinnen und Patienten gegenüber dem Referenzwert im
+    Sinne von § 21 Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes
+    für das Jahr 2019 zurückgegangen ist, und
+
+
+2.  der Anzahl der Kalendertage bis zum 18. April 2022.
+
+
+
+
+(3) Die Abschlagszahlung ist in Form eines prozentualen Zuschlags auf
+die Entgelte für allgemeine voll- oder teilstationäre
+Krankenhausleistungen abzurechnen. Der Prozentsatz entspricht dem
+Verhältnis der Höhe der Abschlagszahlung zu dem auf den verbleibenden
+Teil des Jahres 2022 entfallenden Anteil
+
+1.  des zuletzt vereinbarten Gesamtbetrags nach § 4 Absatz 3 Satz 1 des
+    Krankenhausentgeltgesetzes oder
+
+
+2.  des zuletzt vereinbarten Gesamtbetrags nach § 3 Absatz 2 oder Absatz 3
+    der Bundespflegesatzverordnung.
+
+
+
+Der verbleibende Teil des Jahres 2022 sind die Tage des Jahres 2022 ab
+dem ersten Tag des Monats, der auf die Antragstellung nach Absatz 4
+folgt.
+
+(4) Die Erhebung des Zuschlags ist von dem Krankenhausträger bei der
+für die Krankenhausplanung zuständigen Landesbehörde zu beantragen.
+Der Krankenhausträger informiert die anderen Vertragsparteien nach §
+18 Absatz 2 des Krankenhausfinanzierungsgesetzes über den Antrag. Die
+für die Krankenhausplanung zuständige Landesbehörde genehmigt die
+Erhebung des Zuschlags innerhalb von zwei Wochen, wenn die in Absatz 1
+Satz 1 genannten Voraussetzungen erfüllt sind.
+
+(5) Der Zuschlag ist von dem Krankenhaus ab dem ersten Tag des Monats,
+der auf die Antragstellung folgt, frühestens jedoch ab dem Tag, der
+dem Tag der Genehmigung folgt, für Patientinnen und Patienten, die bis
+zum 31. Dezember 2022 in das Krankenhaus aufgenommen werden, zu
+erheben und gesondert in der Rechnung auszuweisen.
+
+(6) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
+Krankenhausfinanzierungsgesetzes vereinbaren bis zum 30. Juni 2022 das
+Nähere über die Durchführung einer Abschlagszahlung, insbesondere
+
+1.  zur Ermittlung der Höhe des Rückgangs der Belegungstage,
+
+
+2.  zur Ermittlung der Höhe der Abschlagszahlung,
+
+
+3.  zur Ermittlung der Höhe des Zuschlags und
+
+
+4.  zur Abrechnung des Zuschlags.
+
+
+
+
+(7) Kommt eine Vereinbarung nicht fristgerecht zustande, legt die
+Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes
+den Inhalt der Vereinbarung auch ohne Antrag einer Vertragspartei bis
+zum 14. Juli 2022 fest.
+
+(8) Der Träger eines Krankenhauses, das den Zuschlag nach Absatz 3
+Satz 1 erhebt, ist verpflichtet, eine Vereinbarung über einen
+Erlösausgleich nach § 5a Absatz 8 Satz 1 abzuschließen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten

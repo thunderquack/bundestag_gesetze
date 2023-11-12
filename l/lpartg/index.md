@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 266
 
 Zuletzt geändert durch
-:   Art. 3 G v. 18.12.2018 I 2639
+:   Art. 7 Abs. 6 G v. 31.10.2022 I 1966
 
 
 ## Abschnitt 1 - Begründung der Lebenspartnerschaft
@@ -118,7 +118,7 @@ Gesetzbuchs gelten entsprechend.
 ### § 7 Lebenspartnerschaftsvertrag
 
 Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch
-Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1563 des
+Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1519 des
 Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 

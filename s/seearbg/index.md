@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 868
 
-Zuletzt geändert durch
-:   Art. 1 G v. 20.5.2021 I 1144
-
+Stand: Zuletzt geändert Art. 3 G v. 14.3.2023 I Nr. 73
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -428,7 +426,7 @@ Seediensttauglichkeitszeugnis nur erteilen, wenn im
 Seediensttauglichkeitsverzeichnis kein Sperrvermerk eingetragen ist.
 
 (3) Der zugelassene Arzt darf die Seediensttauglichkeit nur
-bescheinigen, wenn er auf Grund einer medizinischen Untersuchung die
+bescheinigen, wenn er auf Grund seiner medizinischen Untersuchung die
 Seediensttauglichkeit festgestellt hat. Das
 Seediensttauglichkeitszeugnis kann auch auf Grund einer Untersuchung
 eines Arztes des seeärztlichen Dienstes der Berufsgenossenschaft durch
@@ -540,12 +538,14 @@ Besatzungsmitglied die Anforderungen an die Seediensttauglichkeit
 nicht mehr erfüllt, kann sie anordnen, dass sich das
 Besatzungsmitglied binnen einer bestimmten Frist einer Untersuchung
 bei einem Arzt des seeärztlichen Dienstes der Berufsgenossenschaft zu
-unterziehen hat. Die Berufsgenossenschaft kann ergänzend zu der
-Untersuchung nach Satz 1 ein Gutachten einer Fachärztin oder eines
-Facharztes heranziehen. Sie ist befugt, Untersuchungsergebnisse über
-dieses Besatzungsmitglied im Einzelfall von dem Arzt, der die
-vorhergegangene Untersuchung durchgeführt hat, anzufordern. Ein Grund
-im Sinne des Satzes 1 ist im Falle des § 17 Absatz 2 stets gegeben.
+unterziehen hat. In der Anordnung nach Satz 1 kann die
+Berufsgenossenschaft auch anordnen, dass die Untersuchung abweichend
+von Satz 1 bei einem vom seeärztlichen Dienst der Berufsgenossenschaft
+bestimmten Facharzt zu erfolgen hat. Der Facharzt ist verpflichtet,
+das Gutachten unverzüglich dem seeärztlichen Dienst zu übermitteln.
+Die Berufsgenossenschaft ist zudem befugt, Untersuchungsergebnisse
+über dieses Besatzungsmitglied im Einzelfall von dem Arzt, der die
+vorausgegangene Untersuchung durchgeführt hat, anzufordern.
 
 (3) Ergibt die angeordnete Untersuchung nach Absatz 2 Satz 1, dass das
 Besatzungsmitglied nicht mehr seediensttauglich ist, oder wird die in
@@ -657,56 +657,62 @@ rechnen ist.
 
 (1) Ein zugelassener Arzt unterliegt der Überwachung durch die
 Berufsgenossenschaft. Über die Befugnisse des § 143 hinaus können die
-Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft
+Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft und deren
+berufsmäßig tätige Gehilfen
 
 1.  verlangen, dass der Berufsgenossenschaft medizinische Befunde und die
-    auf diesen beruhenden Seediensttauglichkeitszeugnisse in einer Weise
-    zur Verfügung gestellt werden, dass eine Zuordnung zu der untersuchten
-    Person nicht möglich ist,
+    auf diesen beruhenden Seediensttauglichkeitszeugnisse zur Verfügung
+    gestellt werden,
 
 
 2.  Auskunft über die durchgeführten Untersuchungen und ausgestellten
     Seediensttauglichkeitszeugnisse verlangen,
 
 
-3.  anordnen, bei Untersuchungen gegenwärtig zu sein, soweit die zu
-    untersuchende Person vor der Untersuchung eingewilligt hat.
+3.  anordnen, bei Untersuchungen anwesend zu sein, soweit die zu
+    untersuchende Person vor der Untersuchung nach Artikel 4 Nummer 11 in
+    Verbindung mit den Artikeln 7 und 9 Absatz 2 Buchstabe a der
+    Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+    27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+    personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+    Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+    4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+    2) eingewilligt hat.
 
 
 
-Die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft sind bei
-Wahrnehmung ihrer Befugnisse nach Satz 2 im selben Maße wie der
-überwachte Arzt zur Verschwiegenheit über die zur Kenntnis gelangten
-Tatsachen und sonstigen Informationen verpflichtet. Soweit die in Satz
-2 Nummer 2 bezeichneten Daten elektronisch gespeichert sind, sind
-diese auf Verlangen der Berufsgenossenschaft auszudrucken. Die
-Berufsgenossenschaft hat alle Unterlagen, die personenbezogene,
-insbesondere medizinische Daten enthalten und ihr entgegen Satz 2
-Nummer 1 zur Kenntnis gelangt sind, an den zugelassenen Arzt
-zurückzugeben oder zu vernichten. Bereits bei ihr gespeicherte Daten
-sind zu löschen.
 
-(2) Stellt die Berufsgenossenschaft im Rahmen einer Überprüfung nach
-Absatz 1 fest, dass einem offensichtlich untauglichen Bewerber ein
-Seediensttauglichkeitszeugnis erteilt worden ist und es zur Abwehr
-erheblicher Nachteile für das Gemeinwohl oder einer sonst unmittelbar
-drohenden Gefahr für die öffentliche Sicherheit erforderlich ist, hat
-der zugelassene Arzt der Berufgenossenschaft auf Verlangen im
-Einzelfall die Zuordnung zu der Person des Bewerbers zu ermöglichen,
-um die erforderlichen Maßnahmen zur Gefahrenabwehr gegenüber dem
-Inhaber dieses Seediensttauglichkeitszeugnisses treffen zu können.
+(2) Die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft und
+deren berufsmäßig tätige Gehilfen sind bei Wahrnehmung ihrer
+Befugnisse nach Absatz 1 Satz 2 in demselben Maße wie der überwachte
+Arzt zur Verschwiegenheit über die zur Kenntnis gelangten Tatsachen
+und sonstigen Informationen verpflichtet. Soweit die in Absatz 1 Satz
+2 Nummer 1 und 2 bezeichneten Daten elektronisch gespeichert sind,
+sind diese auf Verlangen der Berufsgenossenschaft vom zugelassenen
+Arzt oder von dessen berufsmäßig tätigen Gehilfen zu dem in Absatz 1
+Satz 1 genannten Zweck auszudrucken und der Berufsgenossenschaft
+anschließend zu übersenden. Die Berufsgenossenschaft hat alle
+medizinischen Befunde, die sie nach Absatz 1 Satz 2 vom zugelassenen
+Arzt im Original oder in Kopie angefordert hat, einschließlich der
+nach Satz 2 übermittelten Ausdrucke, nach dem Abschluss der
+Überwachung nach Absatz 1 Satz 1 an den zugelassenen Arzt unverzüglich
+zurückzugeben oder zu vernichten. Bereits bei ihr in diesem
+Zusammenhang gespeicherte Daten sind von der Berufsgenossenschaft
+unverzüglich nach Rückgabe oder Vernichtung nach Satz 3 zu löschen.
 
 (3) Der zugelassene Arzt hat die Maßnahmen nach Absatz 1 Satz 2 und
-Absatz 2 zu dulden.
+Absatz 2 Satz 2 zu dulden.
 
 (4) Soweit es im Rahmen der Zulassung von Ärzten erforderlich ist,
 dürfen die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft
 Untersuchungen auf Seediensttauglichkeit durchführen und
 Seediensttauglichkeitszeugnisse ausstellen. Im Rahmen dieser
 Untersuchungen sind die zu schulenden Ärzte befugt, bei den
-Untersuchungen gegenwärtig zu sein, soweit die zu untersuchende Person
-vor der Untersuchung eingewilligt hat. Absatz 1 Satz 3 gilt für die zu
-schulenden Ärzte entsprechend.
+Untersuchungen anwesend zu sein, soweit die zu untersuchende Person
+vor der Untersuchung nach Artikel 4 Nummer 11 in Verbindung mit den
+Artikeln 7 und 9 Absatz 2 Buchstabe a der Datenschutz-Grundverordnung
+eingewilligt hat. Absatz 2 Satz 1 gilt für die zu schulenden Ärzte
+entsprechend.
 
 
 #### § 18 Übernahme der Untersuchungskosten
@@ -853,7 +859,7 @@ nach Absatz 3 Nummer 6, 10 und 12 bis 16 speichern sowie Daten nach
 Absatz 3 Nummer 1, 4, 5 und 6 verändern.
 
 (7) Zum Zweck des Absatzes 2 Nummer 5 dürfen Daten nach Absatz 3
-Nummer 1, 2, 13 bis 15 an das Bundesamt für Seeschifffahrt und
+Nummer 1, 2, 4, 10, 13 bis 15 an das Bundesamt für Seeschifffahrt und
 Hydrographie übermittelt und von ihm verwendet werden, soweit dies zur
 Erfüllung der ihm obliegenden Aufgaben erforderlich ist.
 
@@ -893,9 +899,9 @@ Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen.
 
 #### § 20 Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales
+durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die näheren Anforderungen an die Seediensttauglichkeit, einschließlich
     der erforderlichen Nachuntersuchungen durch die Berufsgenossenschaft,
@@ -1140,10 +1146,10 @@ hat.
 #### § 27 Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Näheres zum Verfahren der Antragstellung und zur Erteilung der
-Bescheinigung nach § 26 Absatz 1 zu regeln.
+Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
+Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren
+der Antragstellung und zur Erteilung der Bescheinigung nach § 26
+Absatz 1 zu regeln.
 
 
 ## Abschnitt 3 - Beschäftigungsbedingungen
@@ -1159,7 +1165,7 @@ Heuervertrag beschäftigen. Durch den Heuervertrag wird ein
 Heuerverhältnis zwischen dem Reeder und dem Besatzungsmitglied
 begründet. Der Reeder hat dem Besatzungsmitglied rechtzeitig vor dem
 beabsichtigten Vertragsabschluss einen Vertragsentwurf, einschließlich
-der nach Absatz 2 Nummer 11 anzugebenden Tarifverträge,
+der nach Absatz 2 Nummer 13 anzugebenden Tarifverträge,
 Betriebsvereinbarungen oder Bordvereinbarungen, auszuhändigen oder zu
 übermitteln. Der Heuervertrag bedarf der Schriftform; die
 elektronische Form ist ausgeschlossen. Der Reeder und das
@@ -1187,40 +1193,55 @@ Heuerverhältnisses aufzunehmen, insbesondere:
     des Dienstantritts unter Angabe des Schiffes,
 
 
-5.  bei befristetem Heuervertrag die vorgesehene Dauer des
-    Heuerverhältnisses,
+5.  bei befristetem Heuervertrag: das Enddatum oder die vorgesehene Dauer
+    des Heuerverhältnisses,
 
 
-6.  die Zusammensetzung und die Höhe der Heuer einschließlich der
-    Zuschläge, Zulagen, Prämien und Sonderzahlungen oder die für die
+6.  sofern vereinbart, die Dauer der Probezeit,
+
+
+7.  die Zusammensetzung und die Höhe der Heuer einschließlich der
+    Vergütung von Überstunden, der Zuschläge, Zulagen, Prämien und
+    Sonderzahlungen, die jeweils getrennt anzugeben sind, oder die für die
     Berechnung der Heuer zugrunde zu legende Formel sowie die Fälligkeit
-    der Heuer,
+    der Heuer und die Art der Auszahlung,
 
 
-7.  die vereinbarten Arbeitszeiten und Ruhezeiten,
+8.  sofern vereinbart, die Möglichkeit der Anordnung von Überstunden und
+    deren Voraussetzungen,
 
 
-8.  die Dauer des jährlichen Erholungsurlaubs,
+9.  die vereinbarten Arbeitszeiten, vereinbarte Ruhepausen und Ruhezeiten
+    sowie bei einem Mehrwachen-System das vereinbarte System,
 
 
-9.  bei unbefristetem Heuervertrag oder wenn die Kündbarkeit eines
-    befristeten Heuerverhältnisses vereinbart ist: die Voraussetzungen,
-    Fristen und Termine für eine Kündigung,
+10. die Dauer des jährlichen Erholungsurlaubs,
 
 
-10. der Heimschaffungsanspruch des Besatzungsmitglieds,
+11. das bei der Kündigung des Heuerverhältnisses einzuhaltende Verfahren,
+    mindestens das Schriftformerfordernis und die Fristen für die
+    Kündigung sowie die Frist zur Erhebung einer Kündigungsschutzklage; §
+    7 des Kündigungsschutzgesetzes ist auch bei einem nicht
+    ordnungsgemäßen Nachweis der Frist zur Erhebung einer
+    Kündigungsschutzklage anzuwenden,
 
 
-11. die Angabe der Tarifverträge, Betriebsvereinbarungen oder
+12. der Heimschaffungsanspruch des Besatzungsmitglieds,
+
+
+13. die Angabe der Tarifverträge, Betriebsvereinbarungen oder
     Bordvereinbarungen, die auf das Heuerverhältnis anzuwenden sind,
 
 
-12. die Leistungen der medizinischen Betreuung und der sozialen
+14. die Leistungen der medizinischen Betreuung und der sozialen
     Sicherheit, die der Reeder oder der andere Arbeitgeber dem
     Besatzungsmitglied gewährt oder zu gewähren hat,
 
 
-13. der Ort und das Datum, an dem der Heuervertrag abgeschlossen worden
+15. ein etwaiger Anspruch auf vom Reeder bereitgestellte Fortbildung,
+
+
+16. der Ort und das Datum, an dem der Heuervertrag abgeschlossen worden
     ist.
 
 
@@ -1240,7 +1261,7 @@ Heuervertrag aufzunehmen:
     werden können,
 
 
-3.  abweichend von Absatz 2 Nummer 6 der Betrag der Heuer oder die Höhe
+3.  abweichend von Absatz 2 Nummer 7 der Betrag der Heuer oder die Höhe
     des Anteils und dessen Berechnungsart, wenn das Entgelt in einer
     Beteiligung besteht, oder der Betrag der Heuer und die Höhe des
     Anteils und dessen Berechnungsart, wenn beide Formen des Entgelts
@@ -1272,16 +1293,24 @@ zusätzlich aufzunehmen:
 
 
 
-(5) Die Angaben nach Absatz 2 Nummer 6 bis 10, 12 und Absatz 4 Nummer
-2 bis 4 können ersetzt werden durch die Angabe der Tarifverträge,
-Betriebsvereinbarungen oder Bordvereinbarungen, die für das
-Heuerverhältnis gelten. Ist in diesen Fällen die jeweilige gesetzliche
-Regelung maßgebend, so kann hierauf verwiesen werden.
+(5) Die Angaben nach Absatz 2 Nummer 6 bis 12, 14, 15 und Absatz 4
+Nummer 2 bis 4 können ersetzt werden durch die Angabe der
+Tarifverträge, Betriebsvereinbarungen oder Bordvereinbarungen, die für
+das Heuerverhältnis gelten. Ist in diesen Fällen die jeweilige
+gesetzliche Regelung maßgebend, so kann hierauf verwiesen werden.
 
 (6) Bei der Änderung wesentlicher Vertragsbedingungen gelten die
 Absätze 1 bis 5 entsprechend. Satz 1 gilt nicht bei einer Änderung der
 gesetzlichen Vorschriften, der Tarifverträge, Betriebsvereinbarungen
 oder Bordvereinbarungen, die für das Heuerverhältnis gelten.
+
+(7) Hat das Heuerverhältnis bereits vor dem 1. August 2022 bestanden,
+so ist dem Besatzungsmitglied auf sein Verlangen eine Niederschrift
+mit den nach Absatz 2 wesentlichen Angaben innerhalb von sieben Tagen
+nach Zugang der Aufforderung auszuhändigen oder zu übermitteln. Soweit
+eine früher ausgestellte Niederschrift oder ein schriftlicher
+Heuervertrag die nach Absatz 2 wesentlichen Angaben enthält, entfällt
+diese Verpflichtung.
 
 
 #### § 29 Information über Beschäftigungsbedingungen
@@ -1347,6 +1376,20 @@ Rahmen des Heuerverhältnisses verpflichtet ist. Es hat dabei den
 Anordnungen der zuständigen Vorgesetzten Folge zu leisten.
 
 
+#### § 32a Pflichtfortbildungen
+
+(1) Ist der Reeder durch Gesetz oder aufgrund eines Gesetzes, durch
+Tarifvertrag oder Betriebsvereinbarung verpflichtet, dem
+Besatzungsmitglied eine für die Erbringung der Arbeitsleistung
+erforderliche Fortbildung anzubieten, dürfen dem Besatzungsmitglied
+die Kosten hierfür nicht auferlegt werden.
+
+(2) Fortbildungen nach Absatz 1 sollen während der regelmäßigen
+Arbeitszeit durchgeführt werden. Soweit Fortbildungen nach Absatz 1
+außerhalb der regelmäßigen Arbeitszeit durchgeführt werden müssen,
+gelten sie als Arbeitszeit.
+
+
 #### § 33 Dienstbescheinigung
 
 (1) Das Besatzungsmitglied hat gegen den Reeder Anspruch auf eine
@@ -1370,8 +1413,10 @@ Ende des Heuerverhältnisses ausgehändigt oder übermittelt werden.
     Reeders,
 
 
-3.  der Name des Schiffes, der Schiffstyp, die Identifikationsnummer, die
-    Vermessung, die Maschinenleistung und das Fahrtgebiet,
+3.  der Name des Schiffes, der Schiffstyp, die IMO-
+    Schiffsidentifikationsnummer, das Unterscheidungssignal, die
+    Vermessung, die Antriebsleistung, das Fahrtgebiet und die
+    seegebietsbezogene funktechnische Ausrüstung des Schiffes,
 
 
 4.  der Zeitpunkt des Beginns und des Endes des Dienstes an Bord,
@@ -2141,8 +2186,8 @@ Absatz 4 Satz 2 des Flaggenrechtsgesetzes abgeschlossen werden.
 #### § 55 Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
+Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die näheren Anforderungen zum Führen der Übersicht über die
     Arbeitsorganisation und die Arbeitszeitnachweise nach § 50 Absatz 1
@@ -2966,7 +3011,9 @@ aufzunehmen:
 5.  die Dauer der Berufsausbildung,
 
 
-6.  die Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte,
+6.  der Hinweis darauf, dass die Ausbildung auf verschiedenen Schiffen
+    erfolgen kann, sowie die Ausbildungsmaßnahmen außerhalb der
+    Ausbildungsstätte,
 
 
 7.  die Dauer der täglichen regelmäßigen Ausbildungszeit und der
@@ -2976,14 +3023,23 @@ aufzunehmen:
 8.  die Dauer der Probezeit,
 
 
-9.  die Fälligkeit und Höhe der Vergütung,
+9.  die Zusammensetzung und die Höhe der Vergütung einschließlich der
+    Zuschläge, Zulagen, Prämien und Sonderzahlungen, die jeweils getrennt
+    anzugeben sind, oder die für die Berechnung der Vergütung zugrunde zu
+    legende Formel sowie die Fälligkeit der Vergütung, die Art der
+    Auszahlung und, soweit vorgesehen, die Modalitäten und die Vergütung
+    von Überstunden,
 
 
 10. die Dauer des jährlichen Erholungsurlaubs,
 
 
-11. die Voraussetzungen, unter denen der Berufsausbildungsvertrag
-    gekündigt werden kann,
+11. das bei der Kündigung des Ausbildungsvertrages einzuhaltende
+    Verfahren, mindestens das Schriftformerfordernis und die Fristen für
+    eine Kündigung sowie die Frist zur Erhebung einer
+    Kündigungsschutzklage; § 7 des Kündigungsschutzgesetzes ist auch bei
+    einem nicht ordnungsgemäßen Nachweis der Frist zur Erhebung einer
+    Kündigungsschutzklage anzuwenden,
 
 
 12. die Angabe der Tarifverträge, Betriebsvereinbarungen oder
@@ -3068,6 +3124,14 @@ nichtige Vereinbarungen, die Pflichten der Auszubildenden und der
 Ausbildenden während der Berufsausbildung, die Freistellung für die
 Teilnahme am Berufsschulunterricht und das Zeugnis sind entsprechend
 anwendbar.
+
+(9) Hat das Ausbildungsverhältnis bereits vor dem 1. August 2022
+bestanden, so ist dem Auszubildenden auf sein Verlangen eine
+Niederschrift mit den nach Absatz 3 wesentlichen Angaben innerhalb von
+sieben Tagen nach Zugang der Aufforderung auszuhändigen oder zu
+übermitteln. Soweit eine früher ausgestellte Niederschrift oder ein
+schriftlicher Ausbildungsvertrag die nach Absatz 3 erforderlichen
+Angaben enthält, entfällt diese Verpflichtung.
 
 
 ### § 83 Vertrag über die Berufsausbildung auf Fahrzeugen der kleinen Hochseefischerei oder der Küstenfischerei
@@ -3198,13 +3262,12 @@ Stelle.
 
 ### § 92 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung ohne Zustimmung des
-Bundesrates nach Anhörung der für Berufsbildungsfragen zuständigen
-obersten Landesbehörden der Küstenländer Ausbildungsberufe in der
-Seeschifffahrt staatlich anzuerkennen und Bestimmungen zu erlassen
-über
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Bildung
+und Forschung ohne Zustimmung des Bundesrates nach Anhörung der für
+Berufsbildungsfragen zuständigen obersten Landesbehörden der
+Küstenländer Ausbildungsberufe in der Seeschifffahrt staatlich
+anzuerkennen und Bestimmungen zu erlassen über
 
 1.  die Bezeichnung des anzuerkennenden Ausbildungsberufes,
 
@@ -3316,8 +3379,8 @@ beim Abschluss einer solchen Versicherung zu unterstützen.
 #### § 96 Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
+Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die näheren Anforderungen an die Wohn- und Aufenthaltsräume, sanitären
     Anlagen, Wascheinrichtungen und Küchenräume sowie
@@ -3697,7 +3760,7 @@ ausreichende medizinische Betreuung der Personen an Bord
 erforderlichen Räumlichkeiten (medizinische Räumlichkeiten) versehen
 ist. Zu den medizinischen Räumlichkeiten gehören
 
-1.  die Kranken-, Behandlungs- und Operationsräume,
+1.  die Kranken-, Behandlungs- und Eingriffsräume,
 
 
 2.  die Einrichtung dieser Räume, insbesondere der Apothekenschrank,
@@ -3746,9 +3809,9 @@ Anforderungen des Satzes 3.
 
 #### § 108 Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
-errichtet einen Ausschuss für medizinische Ausstattung in der
-Seeschifffahrt (Ausschuss). Dem Ausschuss obliegt es,
+(1) Das Bundesministerium für Digitales und Verkehr errichtet einen
+Ausschuss für medizinische Ausstattung in der Seeschifffahrt
+(Ausschuss). Dem Ausschuss obliegt es,
 
 1.  Entwicklungen im Bereich der medizinischen Ausstattung fortlaufend zu
     verfolgen,
@@ -3769,9 +3832,9 @@ Bord, der Einsatzzweck, das Fahrtgebiet, die Art, die Dauer und das
 Ziel der Reisen sowie einschlägige national und international
 empfohlene ärztliche Normen zu berücksichtigen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur hat
-den vom Ausschuss festgestellten Stand der medizinischen Erkenntnisse
-im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die
+(2) Das Bundesministerium für Digitales und Verkehr hat den vom
+Ausschuss festgestellten Stand der medizinischen Erkenntnisse im
+Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die
 Berufsgenossenschaft kann eine Bekanntmachung nach Satz 1
 nachrichtlich auf ihrer Internetseite veröffentlichen.
 
@@ -3831,16 +3894,16 @@ Ferner gehören dem Ausschuss mit beratender Stimme an:
 
 
 Den Vorsitz führt eine Vertreterin oder ein Vertreter des
-Bundesministeriums für Verkehr und digitale Infrastruktur, die oder
-der kein Stimmrecht hat. Die in Satz 1 Nummer 1 bis 7 bezeichneten
-Personen müssen hinsichtlich der medizinischen Behandlung und
-Versorgung von Personen an Bord oder hinsichtlich der Zulassung und
-Registrierung von Arzneimitteln, Betäubungsmitteln und
-Medizinprodukten fachkundig sein; die in Satz 1 Nummer 8 bis 10
-bezeichneten Personen müssen Inhaber eines Befähigungszeugnisses für
-den nautischen Dienst auf Kauffahrteischiffen sein oder über
-gleichwertige Seefahrterfahrung einschließlich praktischer Kenntnisse
-in der medizinischen Betreuung an Bord verfügen.
+Bundesministeriums für Digitales und Verkehr, die oder der kein
+Stimmrecht hat. Die in Satz 1 Nummer 1 bis 7 bezeichneten Personen
+müssen hinsichtlich der medizinischen Behandlung und Versorgung von
+Personen an Bord oder hinsichtlich der Zulassung und Registrierung von
+Arzneimitteln, Betäubungsmitteln und Medizinprodukten fachkundig sein;
+die in Satz 1 Nummer 8 bis 10 bezeichneten Personen müssen Inhaber
+eines Befähigungszeugnisses für den nautischen Dienst auf
+Kauffahrteischiffen sein oder über gleichwertige Seefahrterfahrung
+einschließlich praktischer Kenntnisse in der medizinischen Betreuung
+an Bord verfügen.
 
 (4) Der Ausschuss ist bei der Wahrnehmung seiner Aufgaben unabhängig.
 Der Ausschuss tagt nicht öffentlich. Über die Beratungen ist, mit
@@ -3853,15 +3916,14 @@ Verfahren gefasst werden, wenn kein stimmberechtigtes Mitglied
 widerspricht; in diesem Falle bedarf ein Beschluss der Mehrheit von
 zwei Dritteln aller stimmberechtigten Mitglieder.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur
-beruft die Mitglieder des Ausschusses auf Vorschlag der
-entsendungsberechtigten Behörden und sonstigen Einrichtungen für die
-Dauer von drei Jahren. Für jedes Mitglied ist ein Vertreter zu
-berufen. Wiederberufung ist zulässig. Das Bundesministerium für
-Verkehr und digitale Infrastruktur kann einen Vorschlag nur
-zurückweisen, wenn die vorgeschlagene Person die notwendige Fachkunde
-nicht besitzt. Das Bundesministerium für Verkehr und digitale
-Infrastruktur hat ferner, soweit im Einzelfall ein besonderer
+(5) Das Bundesministerium für Digitales und Verkehr beruft die
+Mitglieder des Ausschusses auf Vorschlag der entsendungsberechtigten
+Behörden und sonstigen Einrichtungen für die Dauer von drei Jahren.
+Für jedes Mitglied ist ein Vertreter zu berufen. Wiederberufung ist
+zulässig. Das Bundesministerium für Digitales und Verkehr kann einen
+Vorschlag nur zurückweisen, wenn die vorgeschlagene Person die
+notwendige Fachkunde nicht besitzt. Das Bundesministerium für
+Digitales und Verkehr hat ferner, soweit im Einzelfall ein besonderer
 fachlicher Bedarf besteht, je eine Vertreterin oder einen Vertreter
 
 1.  des Bernhard-Nocht-Instituts für Tropenmedizin im Hinblick auf
@@ -3883,9 +3945,9 @@ fachlicher Bedarf besteht, je eine Vertreterin oder einen Vertreter
 
 zu beratenden Mitgliedern des Ausschusses auf Vorschlag der genannten
 Einrichtungen zu berufen; die Sätze 2 und 3 gelten entsprechend.
-Darüber hinaus kann das Bundesministerium für Verkehr und digitale
-Infrastruktur bei sonstigem Bedarf weitere Personen benennen, die
-beratend an Sitzungen des Ausschusses teilnehmen können.
+Darüber hinaus kann das Bundesministerium für Digitales und Verkehr
+bei sonstigem Bedarf weitere Personen benennen, die beratend an
+Sitzungen des Ausschusses teilnehmen können.
 
 (6) Die Geschäftsführung des Ausschusses obliegt der
 Berufsgenossenschaft; sie nimmt an den Sitzungen teil.
@@ -3997,8 +4059,8 @@ vereinbar ist und die medizinische Behandlung und Versorgung der
 Personen an Bord nicht gefährdet wird.
 
 (2) Die Berufsgenossenschaft kann mit Zustimmung des
-Bundesministeriums für Verkehr und digitale Infrastruktur gegenüber
-den Reedern anordnen, dass abweichend von dem im Verkehrsblatt oder im
+Bundesministeriums für Digitales und Verkehr gegenüber den Reedern
+anordnen, dass abweichend von dem im Verkehrsblatt oder im
 Bundesanzeiger veröffentlichten Stand der medizinischen Erkenntnisse
 die medizinische Ausstattung bestimmten Anforderungen zu genügen hat,
 soweit dies erforderlich ist, um neueren Erkenntnissen, die im Stand
@@ -4021,10 +4083,10 @@ einschließlich fachärztlicher Beratung, zur Verfügung.
 
 #### § 113 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, zur Sicherstellung einer ausreichenden medizinischen
-Behandlung und Versorgung an Bord eines Schiffes durch
-Rechtsverordnung ohne Zustimmung des Bundesrates
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur
+Sicherstellung einer ausreichenden medizinischen Behandlung und
+Versorgung an Bord eines Schiffes durch Rechtsverordnung ohne
+Zustimmung des Bundesrates
 
 1.  die Geschäftsordnung für den Ausschuss für medizinische Ausstattung in
     der Seeschifffahrt zu regeln; dabei kann die Bildung von
@@ -4302,14 +4364,14 @@ Besatzungsmitglieder verbunden sind.
 #### § 118 Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
-die Arbeitsverbote und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3
-für Jugendliche bei Arbeiten, die mit besonderen Gefahren für Leben,
-Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung
-verbunden sind, zu bestimmen. Rechtsverordnungen nach Satz 1 bedürfen
-des Einvernehmens des Bundesministeriums für Ernährung und
-Landwirtschaft, soweit die Seefischerei betroffen ist.
+Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die Arbeitsverbote
+und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3 für Jugendliche bei
+Arbeiten, die mit besonderen Gefahren für Leben, Gesundheit oder für
+die körperliche oder seelisch-geistige Entwicklung verbunden sind, zu
+bestimmen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens
+des Bundesministeriums für Ernährung und Landwirtschaft, soweit die
+Seefischerei betroffen ist.
 
 
 ### Unterabschnitt 5 - Zugang zu Sozialeinrichtungen an Land
@@ -4369,10 +4431,10 @@ Gibt es mehr als eine leistungsberechtigte Einrichtung, hat jede aus
 dem Gesamtbetrag einen anteiligen Anspruch, dessen Höhe sich nach der
 Anzahl der durch die leistungsberechtigte Einrichtung im Ausland
 betriebenen Sozialeinrichtungen bemisst. Absatz 4 Satz 3 gilt
-entsprechend. Das Bundesministerium für Verkehr und digitale
-Infrastruktur bestimmt durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des
-Gesamtbetrages sowie das Antragsverfahren und die Leistungsgewährung.
+entsprechend. Das Bundesministerium für Digitales und Verkehr bestimmt
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, das Nähere zur Gewährung des Gesamtbetrages sowie das
+Antragsverfahren und die Leistungsgewährung.
 
 
 ## Abschnitt 7 - Ordnung an Bord und Beschwerderecht
@@ -5079,10 +5141,10 @@ nachrichtlich auf ihrer Internetseite bekannt.
 
 #### § 136 Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Bestimmungen über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales
+durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen
+über
 
 1.  die nähere Ausgestaltung der Überprüfungen und Überwachung nach diesem
     Abschnitt, die Voraussetzungen, den Gegenstand und die Durchführung
@@ -5117,11 +5179,11 @@ Bestimmungen über
 
 sowie das jeweilige Verfahren zu erlassen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates Bestimmungen über die näheren Einzelheiten der
-Voraussetzungen für die Ermächtigung einer anerkannten Organisation
-nach § 135 sowie das Verfahren zu erlassen.
+(2) Das Bundesministerium für Digitales und Verkehr wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Bestimmungen über die näheren Einzelheiten der Voraussetzungen für die
+Ermächtigung einer anerkannten Organisation nach § 135 sowie das
+Verfahren zu erlassen.
 
 
 ## Abschnitt 9 - Anforderungen an Schiffe unter ausländischer Flagge und Verantwortlichkeit des Hafenstaates
@@ -5487,7 +5549,7 @@ Arbeit und Soziales.
 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6
 Unterabschnitt 3, § 119 Absatz 5 und den Abschnitten 8, 9 und 10
 unterliegt die Berufsgenossenschaft der Fachaufsicht des
-Bundesministeriums für Verkehr und digitale Infrastruktur.
+Bundesministeriums für Digitales und Verkehr.
 
 
 ## Abschnitt 11 - Straf- und Bußgeldvorschriften
@@ -5677,7 +5739,7 @@ Bußgeldbescheid erlassen hat, zu übersenden.
 (1) Für Selbständige gilt in Abschnitt 3 über die
 Beschäftigungsbedingungen § 28 Absatz 1 Satz 1 mit der Maßgabe, dass
 anstelle des Heuervertrages der Vertrag mit dem Reeder tritt. § 28
-Absatz 1 Satz 2 bis 5, Absatz 2 Nummer 1 bis 5, 7, 9, 10, 12 und 13,
+Absatz 1 Satz 2 bis 5, Absatz 2 Nummer 1 bis 5, 9, 11, 12, 14 und 16,
 Absatz 3 Nummer 1 und 2 sowie § 29 Absatz 1 Satz 3 und 4 gelten mit
 der gleichen Maßgabe entsprechend.
 
@@ -5685,10 +5747,11 @@ der gleichen Maßgabe entsprechend.
 
 1.  in Abschnitt 3 über die Beschäftigungsbedingungen
 
-    a)  in Unterabschnitt 1 die Vorschriften des § 28 Absatz 2 Nummer 6, 8,
-        11, Absatz 3 Nummer 3, Absatz 4, 5 und 6 Satz 2, des § 29 Absatz 2 und
+    a)  in Unterabschnitt 1 die Vorschriften des § 28 Absatz 2 Nummer 7, 10,
+        13, Absatz 3 Nummer 3, Absatz 4, 5 und 6 Satz 2, des § 29 Absatz 2 und
         3 sowie die §§ 31 bis 33 über den Heuervertrag, die Anreisekosten, die
-        Dienstleistungspflicht und die Dienstbescheinigung,
+        Dienstleistungspflicht, Pflichtfortbildungen und die
+        Dienstbescheinigung,
 
 
     b)  die Vorschriften des Unterabschnitts 3 über die Heuer,
@@ -5753,13 +5816,13 @@ mit dem Selbständigen erstatten zu lassen.
 Grund dieses Gesetzes erhebt die Berufsgenossenschaft Gebühren und
 Auslagen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Gebühren für die einzelnen Amtshandlungen im Sinne des Absatzes 1 zu
-bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen
-verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebühren
+für die einzelnen Amtshandlungen im Sinne des Absatzes 1 zu bestimmen
+und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze
+sind so zu bemessen, dass der mit den Amtshandlungen verbundene
+Personal- und Sachaufwand gedeckt wird; bei begünstigenden
 Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert
 oder der sonstige Nutzen für den Gebührenschuldner angemessen
 berücksichtigt werden. In Rechtsverordnungen nach Satz 1 können
@@ -5789,11 +5852,8 @@ Kopien und Unterlagen in ein elektronisches Informationssystem im
 Sinne des Absatzes 1 einstellt.
 
 
-#### § 151 Verkündung von Rechtsverordnungen
+#### § 151 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ### Unterabschnitt 3 - Übergangsregelungen

@@ -26,7 +26,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1
+## Art 1 - 
 
 
 
@@ -192,7 +192,7 @@ zuletzt geändert durch Artikel 35 des Haushaltsstrukturgesetzes vom
 Bestimmungen des Gemeindefinanzierungsgesetzes zu verwenden.
 
 
-## Art 4 u. 5
+## Art 4 u. 5 - 
 
 
 

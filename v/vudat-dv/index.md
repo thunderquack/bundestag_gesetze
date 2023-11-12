@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3126
 
-Geändert durch
-:   Art. 128 G v. 10.8.2021 I 3436
+Zuletzt geändert durch
+:   Art. 30 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -30,7 +30,7 @@ Stadtentwicklung:
 
 ## § 1 Verkehrsunternehmensdatei
 
-Das Bundesamt für Güterverkehr (Bundesamt) betreibt die
+Das Bundesamt für Logistik und Mobilität (Bundesamt) betreibt die
 Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in
 Form einer Datenbank. Die Datei ist nach Maßgabe des § 2 Absatz 3
 allgemein zugänglich.

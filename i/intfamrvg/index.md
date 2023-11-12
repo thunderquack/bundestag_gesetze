@@ -28,11 +28,11 @@ Zuletzt geändert durch
 
 Dieses Gesetz dient
 
-1.  der Durchführung der Verordnung (EG) Nr. 2201/2003 des Rates vom 27.
-    November 2003 über die Zuständigkeit und die Anerkennung und
-    Vollstreckung von Entscheidungen in Ehesachen und in Verfahren
-    betreffend die elterliche Verantwortung und zur Aufhebung der
-    Verordnung (EG) Nr. 1347/2000 (ABl. EU Nr. L 338 S. 1);
+1.  der Durchführung der Verordnung (EU) 2019/1111 des Rates vom 25. Juni
+    2019 über die Zuständigkeit, die Anerkennung und Vollstreckung von
+    Entscheidungen in Ehesachen und in Verfahren betreffend die elterliche
+    Verantwortung und über internationale Kindesentführungen (ABl. L 178
+    vom 2.7.2019, S. 1);
 
 
 2.  der Ausführung des Haager Übereinkommens vom 19. Oktober 1996 über die
@@ -65,7 +65,7 @@ Dieses Gesetz dient
 ### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind "Titel" Entscheidungen, Vereinbarungen
-und öffentliche Urkunden, auf welche die durchzuführende EG-Verordnung
+und öffentliche Urkunden, auf welche die durchzuführende EU-Verordnung
 oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
 
@@ -77,7 +77,7 @@ oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
 (1) Zentrale Behörde nach
 
-1.  Artikel 53 der Verordnung (EG) Nr. 2201/2003,
+1.  Artikel 76 der Verordnung (EU) 2019/1111,
 
 
 2.  Artikel 29 des Haager Kinderschutzübereinkommens,
@@ -100,11 +100,15 @@ gelten als Justizverwaltungsverfahren.
 ### § 4 Übersetzungen bei eingehenden Ersuchen
 
 (1) Die Zentrale Behörde, bei der ein Antrag aus einem anderen Staat
-nach der Verordnung (EG) Nr. 2201/2003 oder nach dem Europäischen
+nach der Verordnung (EU) 2019/1111 oder nach dem Europäischen
 Sorgerechtsübereinkommen eingeht, kann es ablehnen, tätig zu werden,
-solange Mitteilungen oder beizufügende Schriftstücke nicht in
-deutscher Sprache abgefasst oder von einer Übersetzung in diese
-Sprache begleitet sind.
+solange Anträge oder beizufügende Schriftstücke nicht in deutscher
+Sprache abgefasst oder von einer Übersetzung in diese Sprache
+begleitet sind. Satz 1 gilt auch für Mitteilungen nach dem
+Europäischen Sorgerechtsübereinkommen. Für Mitteilungen nach der
+ Verordnung (EU) 2019/1111 gilt Satz 1, solange die Mitteilungen nicht
+in deutscher oder englischer Sprache abgefasst oder von einer
+Übersetzung in eine dieser Sprachen begleitet sind.
 
 (2) Ist ein Schriftstück nach Artikel 54 des Haager
 Kinderschutzübereinkommens oder nach Artikel 24 Abs. 1 des Haager
@@ -158,37 +162,19 @@ einschließlich der Einschaltung von Polizeivollzugsbehörden, um den
 Aufenthaltsort des Kindes zu ermitteln, wenn dieser unbekannt ist und
 Anhaltspunkte dafür vorliegen, dass sich das Kind im Inland befindet.
 
-(2) Soweit zur Ermittlung des Aufenthalts des Kindes oder zur
-Feststellung eines früheren oder des gegenwärtigen gewöhnlichen
-Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde im
-automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über
-die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus
-folgende Daten abrufen:
-
-1.  derzeitige Staatsangehörigkeiten,
-
-
-2.  frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung und
-
-
-3.  Einzugsdatum und Auszugsdatum.
-
-
-
-
-(3) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
+(2) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
 darf die Zentrale Behörde bei dem Kraftfahrt-Bundesamt erforderliche
 Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes
 erheben und die Leistungsträger im Sinne der §§ 18 bis 29 des Ersten
 Buches Sozialgesetzbuch um Mitteilung des derzeitigen Aufenthalts
 einer Person ersuchen.
 
-(4) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
+(3) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
 die Ausschreibung zur Aufenthaltsermittlung durch das
 Bundeskriminalamt veranlassen. Sie kann auch die Speicherung eines
 Suchvermerks im Zentralregister veranlassen.
 
-(5) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
+(4) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
 die zur Durchführung der Maßnahmen erforderlichen personenbezogenen
 Daten; diese dürfen nur für den Zweck verwendet werden, für den sie
 übermittelt worden sind.
@@ -256,36 +242,37 @@ Verfahren nicht beteiligt war.
 
 ### § 10 Örtliche Zuständigkeit für die Anerkennung und Vollstreckung
 
-Örtlich ausschließlich zuständig für Verfahren nach
+Das Familiengericht, in dessen Zuständigkeitsbereich sich die Person,
+gegen die sich der Antrag richtet, oder das Kind, auf das sich die
+Entscheidung bezieht, zum Zeitpunkt der Einleitung des Verfahrens
+gewöhnlich aufhält, ist örtlich ausschließlich zuständig für
 
--   Artikel 21 Abs. 3 und Artikel 48 Abs. 1 der Verordnung (EG) Nr.
-    2201/2003 sowie für die Zwangsvollstreckung nach den Artikeln 41 und
-    42 der Verordnung (EG) Nr. 2201/2003,
-
-
--   den Artikeln 24 und 26 des Haager Kinderschutzübereinkommens,
-
-
--   dem Europäischen Sorgerechtsübereinkommen
+1.  Verfahren nach Artikel 30 Absatz 3, Artikel 40 Absatz 1, Artikel 54
+    Absatz 1, Artikel 56 Absatz 1, 2 und 4 sowie Artikel 59 der Verordnung
+    (EU) 2019/1111,
 
 
-
-ist das Familiengericht, in dessen Zuständigkeitsbereich zum Zeitpunkt
-der Antragstellung
-
-1.  die Person, gegen die sich der Antrag richtet, oder das Kind, auf das
-    sich die Entscheidung bezieht, sich gewöhnlich aufhält oder
+2.  die Zwangsvollstreckung von Titeln nach Kapitel IV der Verordnung (EU)
+    2019/1111 über die Herausgabe oder Rückgabe von Personen oder die
+    Regelung des Umgangs,
 
 
-2.  bei Fehlen einer Zuständigkeit nach Nummer 1 das Interesse an der
-    Feststellung hervortritt oder das Bedürfnis der Fürsorge besteht,
+3.  Verfahren nach den Artikeln 24 und 26 des Haager
+    Kinderschutzübereinkommens und
 
 
-3.  sonst das im Bezirk des Kammergerichts zur Entscheidung berufene
-    Gericht.
+4.  Verfahren nach dem Europäischen Sorgerechtsübereinkommen.
 
 
 
+Besteht für Verfahren nach Satz 1 keine Zuständigkeit nach dieser
+Vorschrift, so ist dasjenige Familiengericht örtlich ausschließlich
+zuständig, in dessen Zuständigkeitsbereich zum Zeitpunkt der
+Einleitung des Verfahrens das Interesse an der Feststellung
+hervortritt oder das Bedürfnis der Fürsorge bekannt wird. Besteht für
+Verfahren nach Satz 1 keine Zuständigkeit nach Satz 1 oder Satz 2, ist
+das im Bezirk des Kammergerichts zur Entscheidung berufene Gericht
+örtlich ausschließlich zuständig.
 
 
 ### § 11 Örtliche Zuständigkeit nach dem Haager Kindesentführungsübereinkommen
@@ -299,7 +286,7 @@ Zuständigkeitsbereich
 
 
 2.  bei Fehlen einer Zuständigkeit nach Nummer 1 das Bedürfnis der
-    Fürsorge besteht.
+    Fürsorge bekannt wird.
 
 
 
@@ -307,11 +294,10 @@ Zuständigkeitsbereich
 
 ### § 12 Zuständigkeitskonzentration
 
-(1) In Verfahren über eine in den §§ 10 und 11 bezeichnete Sache sowie
-in Verfahren über die Vollstreckbarerklärung nach Artikel 28 der
-Verordnung (EG) Nr. 2201/2003 entscheidet das Familiengericht, in
-dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk
-dieses Oberlandesgerichts.
+(1) In Verfahren über eine in den §§ 10 und 11 bezeichnete Sache
+entscheidet das Familiengericht, in dessen Bezirk ein
+Oberlandesgericht seinen Sitz hat, für den Bezirk dieses
+Oberlandesgerichts.
 
 (2) Im Bezirk des Kammergerichts entscheidet das Familiengericht
 Pankow.
@@ -409,19 +395,18 @@ anzuwenden.
 
 (4) Der Beschluss des Familiengerichts,
 
-1.  das ausländische Gericht nach Absatz 1 Satz 1 oder nach Artikel 15
-    Absatz 1 Buchstabe b der Verordnung (EG) Nr. 2201/2003 um Übernahme
-    der Zuständigkeit zu ersuchen,
+1.  das ausländische Gericht nach Absatz 1 Satz 1 oder nach Artikel 12
+    Absatz 1 Buchstabe b der Verordnung (EU) 2019/1111 um Übernahme der
+    Zuständigkeit zu ersuchen,
 
 
-2.  das Verfahren nach Absatz 1 Satz 2 oder nach Artikel 15 Absatz 1
-    Buchstabe a der Verordnung (EG) Nr. 2201/2003 auszusetzen,
+2.  das Verfahren nach Absatz 1 Satz 2 oder nach Artikel 12 Absatz 1
+    Buchstabe a der Verordnung (EU) 2019/1111 auszusetzen,
 
 
 3.  das zuständige ausländische Gericht nach Artikel 9 des
-    Kinderschutzübereinkommens oder nach Artikel 15 Absatz 2 Buchstabe c
-    der Verordnung (EG) Nr. 2201/2003 um Abgabe der Zuständigkeit zu
-    ersuchen,
+    Kinderschutzübereinkommens oder nach Artikel 13 Absatz 1 der
+    Verordnung (EU) 2019/1111 um Abgabe der Zuständigkeit zu ersuchen,
 
 
 4.  die Parteien einzuladen, bei dem zuständigen ausländischen Gericht
@@ -431,7 +416,9 @@ anzuwenden.
 
 5.  die Zuständigkeit auf Ersuchen eines ausländischen Gerichts oder auf
     Antrag der Parteien nach Artikel 9 des Haager
-    Kinderschutzübereinkommens an das ausländische Gericht abzugeben,
+    Kinderschutzübereinkommens oder auf Ersuchen eines ausländischen
+    Gerichts nach Artikel 13 Absatz 2 der Verordnung (EU) 2019/1111 an das
+    ausländische Gericht abzugeben,
 
 
 
@@ -441,16 +428,15 @@ ist ausgeschlossen. Die in Satz 1 genannten Beschlüsse werden erst mit
 ihrer Rechtskraft wirksam. Hierauf ist in dem Beschluss hinzuweisen.
 
 (5) Im Übrigen sind Beschlüsse nach den Artikeln 8 und 9 des Haager
-Kinderschutzübereinkommens und nach Artikel 15 der Verordnung (EG) Nr.
-2201/2003 unanfechtbar.
+Kinderschutzübereinkommens und nach den Artikeln 12 und 13 der
+Verordnung (EU) 2019/1111 unanfechtbar.
 
 (6) Parteien im Sinne dieser Vorschrift sowie der Artikel 8 und 9 des
-Haager Kinderschutzübereinkommens und des Artikels 15 der Verordnung
-(EG) Nr. 2201/2003 sind die in § 7 Absatz 1 und 2 Nummer 1 des
-Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit genannten
-Beteiligten. Die Vorschriften über die Hinzuziehung weiterer
-Beteiligter bleiben unberührt.
+Haager Kinderschutzübereinkommens und des Artikels 12 der Verordnung
+(EU) 2019/1111 sind die in § 7 Absatz 1 und 2 Nummer 1 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit genannten Beteiligten. Die Vorschriften
+über die Hinzuziehung weiterer Beteiligter bleiben unberührt.
 
 
 ## Abschnitt 4 - Allgemeine gerichtliche Verfahrensvorschriften
@@ -488,7 +474,7 @@ in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit gilt entsprechend.
 
 
-## Abschnitt 5 - Zulassung der Zwangsvollstreckung, Anerkennungsfeststellung und Wiederherstellung des Sorgeverhältnisses
+## Abschnitt 5 - Zulassung der Zwangsvollstreckung, Anerkennungsfeststellung und Wiederherstellung des Sorgeverhältnisses im Anwendungsbereich des Haager Kinderschutzübereinkommens und des Europäischen Sorgerechtsübereinkommens
 
 
 
@@ -498,8 +484,8 @@ Gerichtsbarkeit gilt entsprechend.
 
 #### § 16 Antragstellung
 
-(1) Mit Ausnahme der in den Artikeln 41 und 42 der Verordnung (EG) Nr.
-2201/2003 aufgeführten Titel wird der in einem anderen Staat
+(1) Im Anwendungsbereich des Haager Kinderschutzübereinkommens und des
+Europäischen Sorgerechtsübereinkommens wird der in einem anderen Staat
 vollstreckbare Titel dadurch zur Zwangsvollstreckung zugelassen, dass
 er auf Antrag mit der Vollstreckungsklausel versehen wird.
 
@@ -544,21 +530,15 @@ Benennung alle Zustellungen an sie durch Aufgabe zur Post (§ 184 Abs.
 
 
 
-#### § 18 Einseitiges Verfahren
+#### § 18 Besondere Regelungen zum Haager Kinderschutzübereinkommen
 
-(1) Im Anwendungsbereich der Verordnung (EG) Nr. 2201/2003 und des
-Haager Kinderschutzübereinkommens erhält im erstinstanzlichen
-Verfahren auf Zulassung der Zwangsvollstreckung nur die
-antragstellende Person Gelegenheit, sich zu äußern. Die Entscheidung
-ergeht ohne mündliche Verhandlung. Jedoch kann eine mündliche
-Erörterung mit der antragstellenden oder einer von ihr
+Im Anwendungsbereich des Haager Kinderschutzübereinkommens erhält im
+erstinstanzlichen Verfahren auf Zulassung der Zwangsvollstreckung nur
+die antragstellende Person Gelegenheit, sich zu äußern. Die
+Entscheidung ergeht ohne mündliche Verhandlung. Jedoch kann eine
+mündliche Erörterung mit der antragstellenden oder einer von ihr
 bevollmächtigten Person stattfinden, wenn diese hiermit einverstanden
 ist und die Erörterung der Beschleunigung dient.
-
-(2) Abweichend von § 114 Absatz 1 des Gesetzes über das Verfahren in
-Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit ist in Ehesachen im ersten Rechtszug eine anwaltliche
-Vertretung nicht erforderlich.
 
 
 #### § 19 Besondere Regelungen zum Europäischen Sorgerechtsübereinkommen
@@ -578,20 +558,17 @@ unvereinbar wären.
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
 zu versehen ist. In dem Beschluss ist die zu vollstreckende
 Verpflichtung in deutscher Sprache wiederzugeben. Zur Begründung des
-Beschlusses genügt in der Regel die Bezugnahme auf die Verordnung (EG)
-Nr. 2201/2003 oder den auszuführenden Anerkennungs- und
-Vollstreckungsvertrag sowie auf die von der antragstellenden Person
-vorgelegten Urkunden.
+Beschlusses genügt in der Regel die Bezugnahme auf den auszuführenden
+Anerkennungs- und Vollstreckungsvertrag sowie auf die von der
+antragstellenden Person vorgelegten Urkunden.
 
 (2) Auf die Kosten des Verfahrens ist § 81 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend anzuwenden; in Ehesachen
-gilt § 788 der Zivilprozessordnung entsprechend.
+freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
 (3) Ist der Antrag nicht zulässig oder nicht begründet, so lehnt ihn
 das Gericht durch mit Gründen versehenen Beschluss ab. Für die Kosten
-gilt Absatz 2; in Ehesachen sind die Kosten dem Antragsteller
-aufzuerlegen.
+gilt Absatz 2.
 
 
 #### § 21 Bekanntmachung der Entscheidung
@@ -629,16 +606,8 @@ untergebracht werden soll.
 
 #### § 22 Wirksamwerden der Entscheidung
 
-(1) Der Beschluss nach § 20 wird erst mit Rechtskraft wirksam. Hierauf
-ist in dem Beschluss hinzuweisen.
-
-(2) Absatz 1 gilt nicht für den Beschluss, mit dem eine Entscheidung
-über die freiheitsentziehende Unterbringung eines Kindes nach Artikel
-56 der Verordnung (EG) Nr. 2201/2003 für vollstreckbar erklärt wird.
-In diesem Fall hat das Gericht die sofortige Wirksamkeit des
-Beschlusses anzuordnen. § 324 Absatz 2 Satz 2 Nummer 3 und Satz 3 des
-Gesetzes über das Verfahren in Familiensachen und in Angelegenheiten
-der freiwilligen Gerichtsbarkeit gilt entsprechend.
+Der Beschluss nach § 20 wird erst mit Rechtskraft wirksam. Hierauf ist
+in dem Beschluss hinzuweisen.
 
 
 #### § 23 Vollstreckungsklausel
@@ -710,10 +679,6 @@ einzulegen
 (5) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
 
-(6) Im Fall des § 22 Absatz 2 kann das Beschwerdegericht durch
-Beschluss die Vollstreckung des angefochtenen Beschlusses einstweilen
-einstellen.
-
 
 #### § 25 Einwendungen gegen den zu vollstreckenden Anspruch
 
@@ -732,8 +697,7 @@ kann.
 
 (2) Solange eine mündliche Verhandlung nicht angeordnet ist, können zu
 Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen
-abgegeben werden. Wird in einer Ehesache die mündliche Verhandlung
-angeordnet, so gilt für die Ladung § 215 der Zivilprozessordnung.
+abgegeben werden.
 
 (3) Eine vollständige Ausfertigung des Beschlusses ist den Beteiligten
 auch dann von Amts wegen zuzustellen, wenn der Beschluss verkündet
@@ -775,7 +739,7 @@ angefochtene Beschluss abweicht, bezeichnet werden.
 #### § 30 Verfahren und Entscheidung über die Rechtsbeschwerde
 
 (1) Der Bundesgerichtshof kann nur überprüfen, ob der Beschluss auf
-einer Verletzung des Rechts der Europäischen Gemeinschaft, eines
+einer Verletzung des Rechts der Europäischen Union, eines
 Anerkennungs- und Vollstreckungsvertrags, sonstigen Bundesrechts oder
 einer anderen Vorschrift beruht, deren Geltungsbereich sich über den
 Bezirk eines Oberlandesgerichts hinaus erstreckt. Er darf nicht
@@ -783,12 +747,9 @@ prüfen, ob das Gericht seine örtliche Zuständigkeit zu Unrecht
 angenommen hat.
 
 (2) Der Bundesgerichtshof kann über die Rechtsbeschwerde ohne
-mündliche Verhandlung entscheiden. § 574 Abs. 4, § 576 Abs. 3 und §
-577 der Zivilprozessordnung sind entsprechend anzuwenden; in
-Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben § 574 Abs. 4
-und § 577 Abs. 2 Satz 1 bis 3 der Zivilprozessordnung sowie die
-Verweisung auf § 556 in § 576 Abs. 3 der Zivilprozessordnung außer
-Betracht.
+mündliche Verhandlung entscheiden. Entsprechend anzuwenden sind die §§
+546, 547, 560 und 577 der Zivilprozessordnung mit Ausnahme von Absatz
+2 Satz 1 bis 3.
 
 (3) § 20 Abs. 1 Satz 2, Abs. 2 und 3, § 21 Abs. 1, 2 und 4 sowie § 23
 gelten entsprechend.
@@ -808,15 +769,14 @@ Person erstmals eine Anordnung nach § 27 Abs. 2 treffen.
 #### § 32 Anerkennungsfeststellung
 
 Auf das Verfahren über einen gesonderten Feststellungsantrag nach
-Artikel 21 Absatz 3 der Verordnung (EG) Nr. 2201/2003, nach Artikel 24
-des Haager Kinderschutzübereinkommens oder nach dem Europäischen
-Sorgerechtsübereinkommen, einen Titel aus einem anderen Staat
-anzuerkennen oder nicht anzuerkennen, sind die Unterabschnitte 1 bis 3
-entsprechend anzuwenden. § 18 Absatz 1 Satz 1 ist nicht anzuwenden,
-wenn die antragstellende Person die Feststellung begehrt, dass ein
-Titel aus einem anderen Staat nicht anzuerkennen ist. § 18 Absatz 1
-Satz 3 ist in diesem Falle mit der Maßgabe anzuwenden, dass die
-mündliche Erörterung auch mit weiteren Beteiligten stattfinden kann.
+Artikel 24 des Haager Kinderschutzübereinkommens oder nach dem
+Europäischen Sorgerechtsübereinkommen, einen Titel aus einem anderen
+Staat anzuerkennen oder nicht anzuerkennen, sind die Unterabschnitte 1
+bis 3 entsprechend anzuwenden. § 18 Satz 1 ist nicht anzuwenden, wenn
+die antragstellende Person die Feststellung begehrt, dass ein Titel
+aus einem anderen Staat nicht anzuerkennen ist. § 18 Satz 3 ist in
+diesem Falle mit der Maßgabe anzuwenden, dass die mündliche Erörterung
+auch mit weiteren Beteiligten stattfinden kann.
 
 
 ### Unterabschnitt 5 - Wiederherstellung des Sorgeverhältnisses
@@ -825,13 +785,12 @@ mündliche Erörterung auch mit weiteren Beteiligten stattfinden kann.
 
 #### § 33 Anordnung auf Herausgabe des Kindes
 
-(1) Umfasst ein vollstreckungsfähiger Titel im Anwendungsbereich der
-Verordnung (EG) Nr. 2201/2003, des Haager Kinderschutzübereinkommens
-oder des Europäischen Sorgerechtsübereinkommens nach dem Recht des
-Staates, in dem er geschaffen wurde, das Recht auf Herausgabe des
-Kindes, so kann das Familiengericht die Herausgabeanordnung in der
-Vollstreckungsklausel oder in einer nach § 44 getroffenen Anordnung
-klarstellend aufnehmen.
+(1) Umfasst ein vollstreckungsfähiger Titel im Anwendungsbereich des
+Haager Kinderschutzübereinkommens oder des Europäischen
+Sorgerechtsübereinkommens nach dem Recht des Staates, in dem er
+geschaffen wurde, das Recht auf Herausgabe des Kindes, so kann das
+Familiengericht die Herausgabeanordnung in der Vollstreckungsklausel
+oder in einer nach § 44 getroffenen Anordnung klarstellend aufnehmen.
 
 (2) Liegt im Anwendungsbereich des Europäischen
 Sorgerechtsübereinkommens ein vollstreckungsfähiger Titel auf
@@ -849,13 +808,14 @@ Kind herauszugeben hat.
 
 #### § 34 Verfahren auf Aufhebung oder Änderung
 
-(1) Wird der Titel in dem Staat, in dem er errichtet worden ist,
+(1) Wird der Titel in dem Staat, in dem er geschaffen worden ist,
 aufgehoben oder abgeändert und kann die verpflichtete Person diese
 Tatsache in dem Verfahren der Zulassung der Zwangsvollstreckung nicht
 mehr geltend machen, so kann sie die Aufhebung oder Änderung der
 Zulassung in einem besonderen Verfahren beantragen. Das Gleiche gilt
-für den Fall der Aufhebung oder Änderung von Entscheidungen,
-Vereinbarungen oder öffentlichen Urkunden, deren Anerkennung
+für den Fall der Aufhebung oder Änderung von in den Anwendungsbereich
+des Haager Kinderschutzübereinkommens und des Europäischen
+Sorgerechtsübereinkommens fallenden Entscheidungen, deren Anerkennung
 festgestellt ist.
 
 (2) Für die Entscheidung über den Antrag ist das Familiengericht
@@ -941,15 +901,16 @@ sofern die antragstellende Person nicht ausdrücklich die Anwendung des
 Europäischen Sorgerechtsübereinkommens begehrt.
 
 
-### § 38 Beschleunigtes Verfahren
+### § 38 Besondere Verfahrensvorschriften
 
 (1) Das Gericht hat das Verfahren auf Rückgabe eines Kindes in allen
-Rechtszügen vorrangig zu behandeln. Mit Ausnahme von Artikel 12 Abs. 3
-des Haager Kindesentführungsübereinkommens findet eine Aussetzung des
-Verfahrens nicht statt. Das Gericht hat alle erforderlichen Maßnahmen
-zur Beschleunigung des Verfahrens zu treffen, insbesondere auch damit
-die Entscheidung in der Hauptsache binnen der in Artikel 11 Abs. 3 der
-Verordnung (EG) Nr. 2201/2003 genannten Frist ergehen kann.
+Rechtszügen vorrangig und beschleunigt zu behandeln. Mit Ausnahme von
+Artikel 12 Abs. 3 des Haager Kindesentführungsübereinkommens findet
+eine Aussetzung des Verfahrens nicht statt. Das Gericht hat alle
+erforderlichen Maßnahmen zur Beschleunigung des Verfahrens zu treffen,
+insbesondere auch damit die Entscheidung in der Hauptsache binnen der
+in Artikel 24 Absatz 2 und 3 der Verordnung (EU) 2019/1111 genannten
+Fristen ergehen kann.
 
 (2) Das Gericht prüft in jeder Lage des Verfahrens, ob das Recht zum
 persönlichen Umgang mit dem Kind gewährleistet werden kann.
@@ -958,14 +919,26 @@ persönlichen Umgang mit dem Kind gewährleistet werden kann.
 mitzuwirken, wie es einem auf Förderung und Beschleunigung des
 Verfahrens bedachten Vorgehen entspricht.
 
+(4) Werden gerichtliche Verfahren nach dem Haager
+Kindesentführungsübereinkommen nicht nach § 6 Absatz 2 Satz 1 und 2
+von der Zentralen Behörde eingeleitet, so benachrichtigt das Gericht
+die Zentrale Behörde von der Einleitung des Verfahrens. Auf ihren
+Antrag ist sie am Verfahren zu beteiligen.
 
-### § 39 Übermittlung von Entscheidungen
 
-Wird eine inländische Entscheidung nach Artikel 11 Abs. 6 der
-Verordnung (EG) Nr. 2201/2003 unmittelbar dem zuständigen Gericht oder
-der Zentralen Behörde im Ausland übermittelt, ist der Zentralen
-Behörde zur Erfüllung ihrer Aufgaben nach Artikel 7 des Haager
-Kindesentführungsübereinkommens eine Abschrift zu übersenden.
+### § 39 Ausstellung von Bescheinigungen nach Artikel 29 Absatz 2 der Verordnung (EU) 2019/1111 und Übersendung von Unterlagen
+
+(1) Die Bescheinigung nach Artikel 29 Absatz 2 der Verordnung (EU)
+2019/1111 wird beim Gericht des ersten Rechtszugs von dem
+Familienrichter, in Verfahren vor dem Oberlandesgericht von dem
+Vorsitzenden des Senats für Familiensachen ausgestellt.
+
+(2) Werden Unterlagen nach Artikel 29 Absatz 3 der Verordnung (EU)
+2019/1111 unmittelbar dem zuständigen Gericht oder der Zentralen
+Behörde im Ausland übermittelt, sind der Zentralen Behörde zur
+Erfüllung ihrer Aufgaben nach Artikel 7 des Haager
+Kindesentführungsübereinkommens Abschriften dieser Unterlagen zu
+übersenden.
 
 
 ### § 40 Wirksamkeit der Entscheidung; Rechtsmittel
@@ -1058,25 +1031,324 @@ Beratungshilfe und Verfahrenskostenhilfe statt.
 
 
 
-### § 44 Ordnungsmittel; Vollstreckung von Amts wegen
+### Unterabschnitt 1 - Besondere Vorschriften zur Vollstreckung von Titeln über die Herausgabe und Rückgabe von Personen und die Regelung des Umgangs
+
+
+
+#### § 44 Ordnungsmittel; Vollstreckung von Amts wegen
 
 (1) Bei Zuwiderhandlung gegen einen im Inland zu vollstreckenden Titel
-nach Kapitel III der Verordnung (EG) Nr. 2201/2003, nach dem Haager
+nach Kapitel IV der Verordnung (EU) 2019/1111, nach dem Haager
 Kinderschutzübereinkommen, dem Haager Kindesentführungsübereinkommen
-oder dem Europäischen Sorgerechtsübereinkommen, der auf Herausgabe von
-Personen oder die Regelung des Umgangs gerichtet ist, soll das Gericht
-Ordnungsgeld und für den Fall, dass dieses nicht beigetrieben werden
-kann, Ordnungshaft anordnen. Verspricht die Anordnung eines
-Ordnungsgeldes keinen Erfolg, soll das Gericht Ordnungshaft anordnen.
+oder dem Europäischen Sorgerechtsübereinkommen, der auf Herausgabe
+oder Rückgabe von Personen oder die Regelung des Umgangs gerichtet
+ist, soll das Gericht Ordnungsgeld und für den Fall, dass dieses nicht
+beigetrieben werden kann, Ordnungshaft anordnen. Verspricht die
+Anordnung eines Ordnungsgeldes keinen Erfolg, soll das Gericht
+Ordnungshaft anordnen.
 
-(2) Für die Vollstreckung eines in Absatz 1 genannten Titels ist das
-Oberlandesgericht zuständig, sofern es die Anordnung für vollstreckbar
-erklärt, erlassen oder bestätigt hat.
+(2) Für die Vollstreckung eines in Absatz 1 genannten Titels nach dem
+Haager Kinderschutzübereinkommen, dem Haager
+Kindesentführungsübereinkommen oder dem Europäischen
+Sorgerechtsübereinkommen ist das Oberlandesgericht zuständig, sofern
+es die Anordnung für vollstreckbar erklärt, erlassen oder bestätigt
+hat.
 
 (3) Ist ein Kind heraus- oder zurückzugeben, so hat das Gericht die
 Vollstreckung von Amts wegen durchzuführen, es sei denn, die Anordnung
 ist auf Herausgabe des Kindes zum Zweck des Umgangs gerichtet. Auf
 Antrag der berechtigten Person soll das Gericht hiervon absehen.
+
+
+### Unterabschnitt 2 - Besondere Vorschriften zur Vollstreckung von Titeln nach Kapitel IV der Verordnung (EU) 2019/1111
+
+
+
+#### § 44a Allgemeine Verfahrensvorschriften
+
+(1) Aus einem Titel nach Kapitel IV der Verordnung (EU) 2019/1111, der
+in einem anderen Mitgliedstaat vollstreckbar ist, findet die
+Zwangsvollstreckung im Inland statt, ohne dass es einer
+Vollstreckungsklausel bedarf.
+
+(2) Weist die zur Vollstreckung berechtigte Person bei Vorlage der
+nach den Artikeln 35, 46 oder 65 Absatz 2 Satz 2 der Verordnung (EU)
+2019/1111 zwecks Vollstreckung vorzulegenden Unterlagen nicht nach,
+wann der verpflichteten Person der zu vollstreckende Titel und die
+nach den Artikeln 36, 47 oder 66 ausgestellte Bescheinigung zugestellt
+worden sind, so stellt die für die Vollstreckung zuständige Stelle der
+verpflichteten Person von Amts wegen Abschriften der ihr vorgelegten
+Bescheinigung sowie der ihr vorgelegten Ausfertigung der Entscheidung
+zu.
+
+(3) Umfasst ein vollstreckungsfähiger Titel nach Kapitel IV der
+Verordnung (EU) 2019/1111 nach dem Recht des Staates, in dem er
+geschaffen wurde, das Recht auf Herausgabe des Kindes, so kann das
+Familiengericht die Herausgabeanordnung in einer nach § 44 getroffenen
+Anordnung klarstellend aufnehmen.
+
+
+#### § 44b Verfahren auf Versagung der Vollstreckung nach Artikel 59 der Verordnung (EU) 2019/1111
+
+(1) Mit dem Antrag auf Versagung der Vollstreckung nach Artikel 59 der
+Verordnung (EU) 2019/1111 können ausschließlich die in den Artikeln
+41, 50, 56 Absatz 6 und Artikel 68 Absatz 2 und 3 der Verordnung (EU)
+2019/1111 vorgesehenen Vollstreckungsversagungsgründe geltend gemacht
+werden.
+
+(2) Der Antrag nach Absatz 1 ist bei dem zuständigen Gericht
+schriftlich einzureichen oder mündlich zu Protokoll der
+Geschäftsstelle zu erklären. Er soll die
+Vollstreckungsversagungsgründe bezeichnen, die geltend gemacht werden,
+und die zu ihrer Begründung dienenden Tatsachen und Beweismittel
+angeben. Abweichend von § 114 Absatz 1 des Gesetzes über das Verfahren
+in Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit ist auch in Ehesachen im ersten Rechtszug eine
+Vertretung durch einen Rechtsanwalt nicht erforderlich.
+
+(3) Das Gericht kann der antragstellenden Person eine Frist für die
+Bezeichnung der geltend gemachten Vollstreckungsversagungsgründe und
+die Angabe der zu ihrer Begründung dienenden Tatsachen und
+Beweismittel setzen. Mit der Fristsetzung ist die antragstellende
+Person über die Folgen der Versäumung der Frist zu belehren.
+
+(4) Vollstreckungsversagungsgründe und die zu ihrer Begründung
+dienenden Tatsachen und Beweismittel, die erst nach Ablauf einer nach
+Absatz 3 Satz 1 gesetzten Frist vorgebracht werden, sind nur
+zuzulassen, wenn
+
+1.  ihre Zulassung nach der freien Überzeugung des Gerichts die Erledigung
+    des Verfahrens nicht verzögern würde oder
+
+
+2.  die antragstellende Person die Verspätung genügend entschuldigt.
+
+
+
+Der Entschuldigungsgrund nach Satz 1 Nummer 2 ist auf Verlangen des
+Gerichts glaubhaft zu machen.
+
+
+#### § 44c Entscheidung über die Versagung der Vollstreckung und Bekanntmachung der Entscheidung
+
+(1) Über den Antrag auf Versagung der Vollstreckung nach Artikel 59
+der Verordnung (EU) 2019/1111 entscheidet das Gericht durch Beschluss.
+Der Beschluss ist zu begründen. Er kann ohne mündliche Verhandlung
+ergehen.
+
+(2) Für die Kostenentscheidung gelten in Ehesachen die §§ 91 bis 107
+der Zivilprozessordnung und in den übrigen Verfahren die §§ 80 bis 85
+des Gesetzes über das Verfahren in Familiensachen und in
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
+
+(3) Der Beschluss ist den Beteiligten zuzustellen.
+
+(4) In einem Verfahren, das die Versagung der Vollstreckung einer die
+elterliche Verantwortung betreffenden Entscheidung zum Gegenstand hat,
+ist der Beschluss auch zuzustellen:
+
+1.  dem gesetzlichen Vertreter des Kindes,
+
+
+2.  dem Vertreter des Kindes im Verfahren,
+
+
+3.  dem Kind selbst, wenn es das 14. Lebensjahr vollendet hat und nicht
+    geschäftsunfähig ist,
+
+
+4.  einem Elternteil, der nicht am Verfahren beteiligt war, sowie
+
+
+5.  dem Jugendamt.
+
+
+
+Eine Begründung soll dem Kind nicht mitgeteilt werden, wenn Nachteile
+für dessen Entwicklung, Erziehung oder Gesundheit zu befürchten sind.
+
+(5) In einem Verfahren, das die Versagung der Vollstreckung einer
+Unterbringung zum Gegenstand hat, ist der Beschluss auch dem Leiter
+der Einrichtung oder der Pflegefamilie bekannt zu machen, in der das
+Kind untergebracht werden soll.
+
+
+#### § 44d Sofortige Beschwerde
+
+(1) Der Beschluss ist in entsprechender Anwendung der §§ 567 bis 572
+der Zivilprozessordnung mit der sofortigen Beschwerde anfechtbar.
+
+(2) Abweichend von § 571 Absatz 2 Satz 1 und Absatz 3 der
+Zivilprozessordnung sind als neue Angriffs- und Verteidigungsmittel
+nur solche zuzulassen, die im ersten Rechtszug nicht geltend gemacht
+worden sind, ohne dass dies auf einer Nachlässigkeit der Partei
+beruht. Das Beschwerdegericht kann verlangen, dass die Tatsachen, aus
+denen sich die Zulässigkeit der neuen Angriffs- und
+Verteidigungsmittel nach Satz 1 ergibt, glaubhaft gemacht werden.
+
+(3) Vollstreckungsversagungsgründe und die zu ihrer Begründung
+dienenden Tatsachen und Beweismittel, die im ersten Rechtszug nach §
+44b Absatz 4 zu Recht zurückgewiesen worden sind, bleiben
+ausgeschlossen.
+
+(4) § 44c Absatz 2 bis 5 ist entsprechend anzuwenden.
+
+
+#### § 44e Rechtsbeschwerde
+
+(1) Gegen den Beschluss des Beschwerdegerichts findet die
+Rechtsbeschwerde zum Bundesgerichtshof statt, wenn das
+Beschwerdegericht sie in seinem Beschluss in entsprechender Anwendung
+des § 574 Absatz 1 Satz 1 Nummer 2 und Absatz 3 der
+Zivilprozessordnung zugelassen hat.
+
+(2) § 574 Absatz 4, § 575 Absatz 1 bis 4 sowie die §§ 576 und 577 der
+Zivilprozessordnung und § 44c Absatz 2 bis 5 sind entsprechend
+anwendbar. In Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben
+§ 574 Absatz 4 und § 577 Absatz 2 Satz 1 bis 3 der Zivilprozessordnung
+sowie in § 576 Absatz 3 die Verweisung auf § 556 der
+Zivilprozessordnung außer Betracht.
+
+(3) Soweit die Rechtsbeschwerde darauf gestützt wird, dass das
+Beschwerdegericht von einer Entscheidung des Gerichtshofs der
+Europäischen Union abgewichen sei, muss die Entscheidung, von der der
+angefochtene Beschluss abweicht, in der Beschwerdebegründung
+bezeichnet werden.
+
+
+#### § 44f Aussetzung der Vollstreckung nach Artikel 56 Absatz 1, 2 und 4 der Verordnung (EU) 2019/1111
+
+(1) Antragsberechtigt nach Artikel 56 Absatz 1 und 2 der Verordnung
+(EU) 2019/1111 ist auch das betroffene Kind. Antragsberechtigt nach
+Artikel 56 Absatz 4 der Verordnung (EU) 2019/1111 sind auch das
+betroffene Kind und das Jugendamt.
+
+(2) Die Befugnis zur Aussetzung der Vollstreckung im Sinne des
+Artikels 56 Absatz 1, 2 und 4 der Verordnung (EU) 2019/1111 umfasst
+die Befugnis zur Aufhebung der bisherigen Vollstreckungsmaßregeln. Die
+Entscheidung über eine Aussetzung der Vollstreckung nach Artikel 56
+Absatz 1, 2 und 4 der Verordnung (EU) 2019/1111 ist unanfechtbar.
+
+(3) Für die Entscheidung über die Aussetzung der Vollstreckung ist das
+Oberlandesgericht zuständig, wenn dort eine sofortige Beschwerde gegen
+einen im Vollstreckungsverfahren ergangenen Beschluss anhängig ist.
+
+(4) § 93 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit findet keine
+Anwendung.
+
+
+#### § 44g Einstellung der Zwangsvollstreckung
+
+(1) Die Zwangsvollstreckung ist einzustellen, wenn die Ausfertigung
+einer rechtskräftigen Entscheidung vorgelegt wird, aus der sich
+ergibt, dass
+
+1.  die Vollstreckung im Verfahren nach Artikel 59 der Verordnung (EU)
+    2019/1111 versagt worden ist oder
+
+
+2.  die Vollstreckung nach Artikel 56 Absatz 1, 2 oder 4 der Verordnung
+    (EU) 2019/1111 ausgesetzt worden ist.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 sind die bereits getroffenen
+Vollstreckungsmaßregeln aufzuheben. In den Fällen des Satzes 1 Nummer
+2 bleiben die bereits getroffenen Vollstreckungsmaßregeln einstweilen
+bestehen, sofern nicht durch die Entscheidung über die Aussetzung der
+Vollstreckung auch die Aufhebung der bisherigen
+Vollstreckungsmaßregeln angeordnet ist.
+
+(2) Die Zwangsvollstreckung ist entsprechend § 775 Nummer 1 und 2 und
+§ 776 der Zivilprozessordnung einzustellen oder zu beschränken, wenn
+Folgendes vorgelegt wird:
+
+1.  im Fall einer nach Artikel 47 der Verordnung (EU) 2019/1111
+    bescheinigten Entscheidung eine Bescheinigung über die Aussetzung oder
+    Einschränkung der Vollstreckbarkeit nach Artikel 49 Absatz 1 der
+    Verordnung (EU) 2019/1111,
+
+
+2.  im Fall eines nicht in Nummer 1 genannten Titels eine Entscheidung des
+    Mitgliedstaates, in dem der Titel geschaffen wurde, über die
+    Nichtvollstreckbarkeit oder über die Beschränkung der
+    Vollstreckbarkeit.
+
+
+
+Im Fall des Satzes 1 Nummer 2 ist auf Verlangen des
+Vollstreckungsorgans eine Übersetzung der Entscheidung in die deutsche
+Sprache vorzulegen. Die Übersetzung ist von einer in einem der
+Mitgliedstaaten der Europäischen Union hierzu befugten Person zu
+erstellen.
+
+
+#### § 44h Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
+
+(1) Wird ein Titel über die Erstattung von Verfahrenskosten in dem
+Mitgliedstaat, in dem er geschaffen wurde, aufgehoben oder abgeändert,
+so ist die berechtigte Person zum Ersatz des Schadens verpflichtet,
+welcher der verpflichteten Person durch die Vollstreckung des Titels
+oder durch eine Leistung zur Abwendung der Vollstreckung entstanden
+ist, sofern der Titel zum Zeitpunkt der Zwangsvollstreckungsmaßnahme
+noch mit einem ordentlichen Rechtsbehelf angefochten werden konnte.
+
+(2) Für den Antrag, mit dem ein Anspruch nach Absatz 1 geltend gemacht
+wird, ist das Gericht ausschließlich zuständig, das im ersten
+Rechtszug über den Antrag auf Versagung der Vollstreckung entschieden
+hat oder über einen solchen Antrag zu entscheiden hätte. Es
+entscheidet nach den für sonstige Familiensachen im Sinne des § 266
+Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden
+Vorschriften.
+
+
+#### § 44i Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
+
+(1) Die aus einem Titel über die Erstattung von Verfahrenskosten
+verpflichtete Person kann Einwendungen gegen den Anspruch selbst im
+Wege einer Klage entsprechend § 767 der Zivilprozessordnung insoweit
+geltend machen, als die Gründe, auf denen sie beruhen, erst nach
+Erlass des Titels entstanden sind.
+
+(2) Für die Klage nach Absatz 1 ist das Gericht ausschließlich
+zuständig, das im ersten Rechtszug über den Antrag auf Versagung der
+Vollstreckung entschieden hat oder über einen solchen Antrag zu
+entscheiden hätte.
+
+
+#### § 44j Verfahren auf Feststellung des Nichtvorliegens von Anerkennungsversagungsgründen und auf Versagung der Anerkennung
+
+(1) Auf das Verfahren über einen gesonderten Feststellungsantrag nach
+Artikel 30 Absatz 3 der Verordnung (EU) 2019/1111 und auf das
+Verfahren über einen gesonderten Antrag auf Versagung der Anerkennung
+nach Artikel 40 Absatz 1 der Verordnung (EU) 2019/1111 sind § 44b
+Absatz 2 Satz 1 und 3, Absatz 3 und 4 sowie § 44c entsprechend
+anzuwenden. Antragsberechtigt ist, wer ein rechtliches Interesse an
+der Feststellung oder an der Versagung der Anerkennung hat. Der Antrag
+auf Versagung der Anerkennung nach Artikel 40 Absatz 1 der Verordnung
+(EU) 2019/1111 soll bezeichnen, welche der in den Artikeln 38, 39, 50
+oder 68 der Verordnung (EU) 2019/1111 vorgesehenen
+Anerkennungsversagungsgründe geltend gemacht werden, und die zu ihrer
+Begründung dienenden Tatsachen und Beweismittel angeben.
+
+(2) Der erstinstanzliche Beschluss ist mit der sofortigen Beschwerde
+in entsprechender Anwendung des § 44d anfechtbar. Der Beschluss des
+Beschwerdegerichts ist in entsprechender Anwendung des § 44e mit der
+Rechtsbeschwerde anfechtbar.
+
+(3) Wird der Titel in dem Mitgliedstaat, in dem er geschaffen worden
+ist, aufgehoben oder geändert und kann die Aufhebung oder Änderung in
+dem Verfahren auf Feststellung des Nichtvorliegens von
+Anerkennungsversagungsgründen nicht mehr geltend gemacht werden, so
+kann der Antragsgegner die Aufhebung oder Änderung der Entscheidung,
+dass kein Anerkennungsversagungsgrund gegeben ist, in einem besonderen
+Verfahren beantragen. Für die Entscheidung über den Antrag ist das
+Familiengericht ausschließlich zuständig, das im ersten Rechtszug über
+den Feststellungsantrag nach Absatz 1 entschieden hat. § 44b Absatz 2
+Satz 1 und 3, die §§ 44c und 44d Absatz 1 und 4 sowie § 44e sind
+entsprechend anzuwenden.
 
 
 ## Abschnitt 8 - Grenzüberschreitende Unterbringung
@@ -1086,13 +1358,13 @@ Antrag der berechtigten Person soll das Gericht hiervon absehen.
 ### § 45 Zuständigkeit für die Zustimmung zu einer Unterbringung
 
 Zuständig für die Erteilung der Zustimmung zu einer Unterbringung
-eines Kindes nach Artikel 56 der Verordnung (EG) Nr. 2201/2003 oder
-nach Artikel 33 des Haager Kinderschutzübereinkommens im Inland ist
-der überörtliche Träger der öffentlichen Jugendhilfe, in dessen
-Bereich das Kind nach dem Vorschlag der ersuchenden Stelle
-untergebracht werden soll, andernfalls der überörtliche Träger, zu
-dessen Bereich die Zentrale Behörde den engsten Bezug festgestellt
-hat. Hilfsweise ist das Land Berlin zuständig.
+eines Kindes nach Artikel 82 der Verordnung (EU) 2019/1111 oder nach
+Artikel 33 des Haager Kinderschutzübereinkommens im Inland ist der
+überörtliche Träger der öffentlichen Jugendhilfe, in dessen Bereich
+das Kind nach dem Vorschlag der ersuchenden Stelle untergebracht
+werden soll, andernfalls der überörtliche Träger, zu dessen Bereich
+die Zentrale Behörde den engsten Bezug festgestellt hat. Hilfsweise
+ist das Land Berlin zuständig.
 
 
 ### § 46 Konsultationsverfahren
@@ -1171,45 +1443,70 @@ Regel erteilen, wenn
 
 § 46 Abs. 2 und 3 gilt entsprechend.
 
-(2) Örtlich zuständig ist das Familiengericht am Sitz des
-Oberlandesgerichts, in dessen Zuständigkeitsbereich das Kind
-untergebracht werden soll, für den Bezirk dieses Oberlandesgerichts. §
-12 Abs. 2 und 3 gilt entsprechend.
+(2) Örtlich zuständig ist das Familiengericht, in dessen Bezirk das
+Oberlandesgericht, in dessen Bezirk das Kind untergebracht werden
+soll, seinen Sitz hat. § 12 Abs. 2 und 3 gilt entsprechend.
 
 (3) Der zu begründende Beschluss ist unanfechtbar.
 
 
-## Abschnitt 9 - Bescheinigungen zu inländischen Entscheidungen nach der Verordnung (EG) Nr. 2201/2003
+## Abschnitt 9 - Bescheinigungen zu inländischen Entscheidungen nach Kapitel IV der Verordnung (EU) 2019/1111
 
 
 
 ### § 48 Ausstellung von Bescheinigungen
 
-(1) Die Bescheinigung nach Artikel 39 der Verordnung (EG) Nr.
-2201/2003 wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts
-des ersten Rechtszugs und, wenn das Verfahren bei einem höheren
-Gericht anhängig ist, von dem Urkundsbeamten der Geschäftsstelle
-dieses Gerichts ausgestellt.
+(1) Bescheinigungen nach Artikel 36 Absatz 1 der Verordnung (EU)
+2019/1111 werden von dem Gericht ausgestellt, das die Entscheidung
+erlassen hat. Bescheinigungen nach Artikel 49 Absatz 1 der Verordnung
+(EU) 2019/1111 werden von dem Gericht ausgestellt, das die
+Vollstreckbarkeit der Entscheidung ausgesetzt oder eingeschränkt hat.
 
-(2) Die Bescheinigung nach den Artikeln 41 und 42 der Verordnung (EG)
-Nr. 2201/2003 wird beim Gericht des ersten Rechtszugs von dem
-Familienrichter, in Verfahren vor dem Oberlandesgericht oder dem
-Bundesgerichtshof von dem Vorsitzenden des Senats für Familiensachen
-ausgestellt.
+(2) Bescheinigungen nach Artikel 36 Absatz 1, Artikel 47 Absatz 1 und
+Artikel 49 Absatz 1 der Verordnung (EU) 2019/1111 werden beim Gericht
+des ersten Rechtszugs von dem Familienrichter, bei einem höheren
+Gericht von dem Vorsitzenden des zuständigen Senats für Familiensachen
+ausgestellt. Die Bescheinigungen sind ohne Anhörung des Antragsgegners
+auszustellen.
+
+(3) Eine Ausfertigung der Bescheinigung nach Artikel 36 Absatz 1 und
+Artikel 47 Absatz 1 der Verordnung (EU) 2019/1111 ist dem
+Antragsgegner zuzustellen. Die Zustellung erfolgt von Amts wegen. Das
+gilt nicht, wenn die antragstellende Person Übermittlung an sich zur
+Zustellung im Parteibetrieb beantragt hat.
+
+(4) Die Entscheidung des Familienrichters, mit der ein Antrag auf
+Ausstellung einer Bescheinigung nach Artikel 36 Absatz 1 oder nach
+Artikel 47 Absatz 1 der Verordnung (EU) 2019/1111 zurückgewiesen wird,
+ist mit der sofortigen Beschwerde in entsprechender Anwendung der §§
+567 bis 572 der Zivilprozessordnung anfechtbar. Eine Rechtsbeschwerde
+findet nicht statt.
 
 
 ### § 49 Berichtigung von Bescheinigungen
 
-Für die Berichtigung der Bescheinigung nach Artikel 43 Abs. 1 der
-Verordnung (EG) Nr. 2201/2003 gilt § 319 der Zivilprozessordnung
-entsprechend.
+Für die Berichtigung einer Bescheinigung nach Artikel 36 der
+Verordnung (EU) 2019/1111 (Artikel 37 der Verordnung (EU) 2019/1111)
+und für die Berichtigung einer Bescheinigung nach Artikel 47 der
+Verordnung (EU) 2019/1111 (Artikel 48 Absatz 1 und 3 der Verordnung
+(EU) 2019/1111) gilt § 319 der Zivilprozessordnung entsprechend.
+
+
+### § 50 Widerruf von Bescheinigungen
+
+(1) Über den Widerruf einer Bescheinigung nach Artikel 47 der
+Verordnung (EU) 2019/1111 (Artikel 48 der Verordnung (EU) 2019/1111)
+entscheidet das Gericht, das die Bescheinigung ausgestellt hat.
+
+(2) § 319 Absatz 2 und 3 der Zivilprozessordnung ist auf den Widerruf
+entsprechend anzuwenden.
 
 
 ## Abschnitt 10 - Verfahren nach dem Europäischen Adoptionsübereinkommen
 
 
 
-### § 50 Verfahren der nationalen Behörde
+### § 51 Verfahren der nationalen Behörde
 
 Auf Anträge aus einem anderen Staat nach Artikel 15 des Europäischen
 Adoptionsübereinkommens finden § 4 Absatz 1, § 6 Absatz 1 und § 9
@@ -1217,10 +1514,6 @@ entsprechende Anwendung.
 
 
 ## Abschnitt 11 - Kosten
-
-
-
-### § 51 (weggefallen)
 
 
 
@@ -1243,35 +1536,18 @@ Die Höhe der Vergütung für die von der Zentralen Behörde veranlassten
 
 
 
-### § 55 Übergangsvorschriften zu der Verordnung (EG) Nr. 2201/2003
+### § 55 Übergangsvorschriften zur Verordnung (EU) 2019/1111
 
-Dieses Gesetz findet sinngemäß auch auf Verfahren nach der Verordnung
-(EG) Nr. 1347/2000 des Rates vom 29. Mai 2000 über die Zuständigkeit
-und die Anerkennung und Vollstreckung von Entscheidungen in Ehesachen
-und in Verfahren betreffend die elterliche Verantwortung für die
-gemeinsamen Kinder der Ehegatten (ABl. EG Nr. L 160 S. 19) mit
-folgender Maßgabe Anwendung:
-Ist ein Beschluss nach § 21 an die verpflichtete Person in einem weder
-der Europäischen Union noch dem Übereinkommen vom 16. September 1988
-über die gerichtliche Zuständigkeit und die Vollstreckung
-gerichtlicher Entscheidungen in Zivil- und Handelssachen (BGBl. 1994
-II S. 2658) angehörenden Staat zuzustellen und hat das Familiengericht
-eine Beschwerdefrist nach § 10 Abs. 2 und § 50 Abs. 2 Satz 4 und 5 des
-Anerkennungs- und Vollstreckungsausführungsgesetzes bestimmt, so ist
-die Beschwerde der verpflichteten Person gegen die Zulassung der
-Zwangsvollstreckung innerhalb der vom Gericht bestimmten Frist
-einzulegen.
-
-
-### § 56 Übergangsvorschriften zum Sorgerechtsübereinkommens-Ausführungsgesetz
-
-Für Verfahren nach dem Haager Kindesentführungsübereinkommen und dem
-Europäischen Sorgerechtsübereinkommen, die vor Inkrafttreten dieses
-Gesetzes eingeleitet wurden, finden die Vorschriften des
-Sorgerechtsübereinkommens-Ausführungsgesetzes vom 5. April 1990 (BGBl.
-I S. 701), zuletzt geändert durch Artikel 2 Abs. 6 des Gesetzes vom
-19\. Februar 2001 (BGBl. I S. 288, 436), weiter Anwendung. Für die
-Zwangsvollstreckung sind jedoch die Vorschriften dieses Gesetzes
-anzuwenden. Hat ein Gericht die Zwangsvollstreckung bereits
-eingeleitet, so bleibt seine funktionelle Zuständigkeit unberührt.
+Wenn für vor dem 1. August 2022 eingeleitete gerichtliche Verfahren,
+förmlich errichtete oder eingetragene öffentliche Urkunden und
+vollstreckbar gewordene Vereinbarungen nach Artikel 100 Absatz 2 der
+Verordnung (EU) 2019/1111 die Verordnung (EG) Nr. 2201/2003 des Rates
+vom 27. November 2003 über die Zuständigkeit und die Anerkennung und
+Vollstreckung von Entscheidungen in Ehesachen und in Verfahren
+betreffend die elterliche Verantwortung und zur Aufhebung der
+Verordnung (EG) Nr. 1347/2000 (ABl. L 338 vom 23.12.2003, S. 1; L 99
+vom 15.4.2016, S. 34), die zuletzt durch die Verordnung (EG) Nr.
+2116/2004 (ABl. L 367 vom 14.12.2004, S. 1) geändert worden ist,
+weiter gilt, ist dieses Gesetz in seiner am 31. Juli 2022 geltenden
+Fassung anzuwenden.
 

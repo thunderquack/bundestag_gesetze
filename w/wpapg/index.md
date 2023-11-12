@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.1995 I 34;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 30.6.2016 I 1514; 2017 I 559
-
-Änderung durch
-:   Art. 4 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 3.6.2021 I 1423
 
 
 ## § 1 Allgemeine Vorschriften

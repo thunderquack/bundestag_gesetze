@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3016
 
+Änderung durch
+:   Art. 2 V v. 20.2.2023 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -52,12 +55,26 @@ Begriffsbestimmungen:
     Fassung;
 
 
+1a. Biomassestrom-Nachhaltigkeitsverordnung:
+
+    die Biomassestrom-Nachhaltigkeitsverordnung vom 2. Dezember 2021
+    (BGBl. I S. 5126), die durch Artikel 1 der Verordnung vom 14. Juni
+    2022 (BGBl. I S. 927) geändert worden ist, in der jeweils geltenden
+    Fassung;
+
+
 2.  Biokraftstoff-Nachhaltigkeitsverordnung:
 
     Biokraftstoff-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl.
     I S. 3182), die zuletzt durch Artikel 263 der Verordnung vom 19. Juni
     2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden
     Fassung;
+
+
+2a. Biokraftstoff-Nachhaltigkeitsverordnung:
+
+    die Biokraftstoff-Nachhaltigkeitsverordnung vom 2. Dezember 2021
+    (BGBl. I S. 5126, 5143) in der jeweils geltenden Fassung;
 
 
 3.  Berechnungsfaktoren:
@@ -227,6 +244,28 @@ von § 14 der Biokraftstoff-Nachhaltigkeitsverordnung zu belegen. Der
 Nachhaltigkeitsnachweis muss sich auf eine Brennstoffmenge beziehen,
 die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in
 Verkehr gebracht wurde.
+
+(2a) Im Berichtsjahr 2022 tritt
+
+1.  der anerkannte Nachweis nach § 10 der Biomassestrom-
+    Nachhaltigkeitsverordnung an die Stelle des anerkannten Nachweises
+    nach § 14 der Biomassestrom-Nachhaltigkeitsverordnung in der am 21.
+    Dezember 2020 geltenden Fassung und
+
+
+2.  der anerkannte Nachweis nach § 8 der Biokraftstoff-
+    Nachhaltigkeitsverordnung 2021 an die Stelle des anerkannten
+    Nachweises nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung in
+    der am 7. Dezember 2020 geltenden Fassung.
+
+
+
+Falls im Berichtsjahr 2022 anerkannte Nachweise nach § 14 der
+Biomassestrom-Nachhaltigkeitsverordnung in der am 21. Dezember 2020
+geltenden Fassung oder nach § 14 der Biokraftstoff-
+Nachhaltigkeitsverordnung in der am 7. Dezember 2020 geltenden Fassung
+vorhanden sind, werden sie im Berichtsjahr 2022 als gleichberechtigt
+anerkannt.
 
 (3) Abweichend von Absatz 1 kann der Verantwortliche, ohne dass es der
 Vorlage eines anerkannten Nachhaltigkeitsnachweises im Sinne von § 14

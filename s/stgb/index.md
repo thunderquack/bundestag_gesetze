@@ -19,37 +19,10 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 30.3.2021 I 441, dieser geändert durch Art. 15 Nr. 1 G v. 30.3.2021 I 448
+:   Art. 1 G v. 26.7.2023 I Nr. 203
 
 Mittelbare änderung durch
-:   Art. 15 Nr. 6 G v. 30.3.2021 I 448 ist berücksichtigt
-
-Änderung durch
-:   Art. 1 G v. 16.6.2021 I 1810 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 25.6.2021 I 2099 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 29 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3513 (Nr. 53) ist berücksichtigt
-
-Änderung durch
-:   Art. 2 G v. 12.8.2021 I 3542 (Nr. 54) ist berücksichtigt
-
-Änderung durch
-:   Art. 1 G v. 12.8.2021 I 3544 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 14.9.2021 I 4250 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 8.10.2021 I 4650 (Nr. 73) ist berücksichtigt
-
-Änderung durch
-:   Art. 2 G v. 22.11.2021 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Nr. 2 G v. 16.8.2023 I Nr. 218 ist berücksichtigt
 
 
 ## Allgemeiner Teil - 
@@ -112,7 +85,7 @@ Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 folgende Taten, die im Ausland begangen werden:
 
-1.  weggefallen
+1.  (weggefallen)
 
 
 2.  Hochverrat (§§ 81 bis 83);
@@ -175,7 +148,7 @@ folgende Taten, die im Ausland begangen werden:
 
 
     c)  in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit
-        Absatz 5, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter
+        Absatz 6, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter
         Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den
         öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder
         der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter
@@ -198,8 +171,9 @@ folgende Taten, die im Ausland begangen werden:
 
 
     c)  in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist
-        oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat
-        ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
+        oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich gegen
+        eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder
+        gewöhnlichen Aufenthalt im Inland hat;
 
 
 
@@ -215,13 +189,15 @@ folgende Taten, die im Ausland begangen werden:
 
 8.  Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174
     Absatz 1, 2 und 4, der §§ 176 bis 178 und des § 182, wenn der Täter
-    zur Zeit der Tat Deutscher ist;
+    zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland
+    hat;
 
 
 9.  Straftaten gegen das Leben
 
     a)  in den Fällen des § 218 Absatz 2 Satz 2 Nummer 1 und Absatz 4 Satz 1,
-        wenn der Täter zur Zeit der Tat Deutscher ist, und
+        wenn der Täter zur Zeit der Tat Deutscher ist oder seine
+        Lebensgrundlage im Inland hat, und
 
 
     b)  in den übrigen Fällen des § 218, wenn der Täter zur Zeit der Tat
@@ -235,12 +211,13 @@ folgende Taten, die im Ausland begangen werden:
 
     a)  in den Fällen des § 226 Absatz 1 Nummer 1 in Verbindung mit Absatz 2
         bei Verlust der Fortpflanzungsfähigkeit, wenn der Täter zur Zeit der
-        Tat Deutscher ist, und
+        Tat Deutscher ist oder seine Lebensgrundlage im Inland hat, und
 
 
     b)  in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher
-        ist oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der
-        Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
+        ist oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich
+        gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder
+        gewöhnlichen Aufenthalt im Inland hat;
 
 
 
@@ -920,9 +897,10 @@ höchstens dreihundertsechzig volle Tagessätze.
 (2) Die Höhe eines Tagessatzes bestimmt das Gericht unter
 Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse
 des Täters. Dabei geht es in der Regel von dem Nettoeinkommen aus, das
-der Täter durchschnittlich an einem Tag hat oder haben könnte. Ein
-Tagessatz wird auf mindestens einen und höchstens dreißigtausend Euro
-festgesetzt.
+der Täter durchschnittlich an einem Tag hat oder haben könnte. Es
+achtet dabei ferner darauf, dass dem Täter mindestens das zum Leben
+unerlässliche Minimum seines Einkommens verbleibt. Ein Tagessatz wird
+auf mindestens einen und höchstens dreißigtausend Euro festgesetzt.
 
 (3) Die Einkünfte des Täters, sein Vermögen und andere Grundlagen für
 die Bemessung eines Tagessatzes können geschätzt werden.
@@ -1090,7 +1068,8 @@ den Täter sprechen, gegeneinander ab. Dabei kommen namentlich in
 Betracht:
 
 *   die Beweggründe und die Ziele des Täters, besonders auch rassistische,
-    fremdenfeindliche, antisemitische oder sonstige menschenverachtende,
+    fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die
+    sexuelle Orientierung gerichtete oder sonstige menschenverachtende,
 
     die Gesinnung, die aus der Tat spricht, und der bei der Tat
     aufgewendete Wille,
@@ -1458,10 +1437,14 @@ Verurteilten keine unzumutbaren Anforderungen gestellt werden.
 
 4.  bestimmte Gegenstände, die ihm Gelegenheit oder Anreiz zu weiteren
     Straftaten bieten können, nicht zu besitzen, bei sich zu führen oder
-    verwahren zu lassen oder
+    verwahren zu lassen,
 
 
-5.  Unterhaltspflichten nachzukommen.
+5.  Unterhaltspflichten nachzukommen oder
+
+
+6.  sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und
+    behandeln zu lassen (Therapieweisung).
 
 
 
@@ -1757,22 +1740,29 @@ Jahre nicht überschreiten und ein Jahr nicht unterschreiten.
     Staatskasse zu zahlen,
 
 
-4.  sich einer ambulanten Heilbehandlung oder einer ambulanten
-    Entziehungskur zu unterziehen,
+4.  sonst gemeinnützige Leistungen zu erbringen,
 
 
-5.  an einem sozialen Trainingskurs teilzunehmen oder
+5.  sich einer ambulanten Heilbehandlung oder einer ambulanten
+    Entziehungskur zu unterziehen, einschließlich sich psychiatrisch,
+    psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen
+    (Therapieweisung),
 
 
-6.  an einem Verkehrsunterricht teilzunehmen.
+6.  an einem sozialen Trainingskurs teilzunehmen oder
+
+
+7.  an einem Verkehrsunterricht teilzunehmen.
 
 
 
-Dabei dürfen an die Lebensführung des Verwarnten keine unzumutbaren
-Anforderungen gestellt werden; auch dürfen die Auflagen und Weisungen
-nach Satz 1 Nummer 3 bis 6 zur Bedeutung der vom Täter begangenen Tat
-nicht außer Verhältnis stehen. § 56c Abs. 3 und 4 und § 56e gelten
-entsprechend.
+Das Gericht kann dem Verwarnten weitere Weisungen erteilen, wenn er
+dieser Hilfe bedarf, um keine Straftaten mehr zu begehen. An die
+Lebensführung des Verwarnten dürfen bei Auflagen und Weisungen keine
+unzumutbaren Anforderungen gestellt werden; auch dürfen die Auflagen
+und Weisungen nach Satz 1 Nummer 3 bis 7 und Satz 2 zur Bedeutung der
+vom Täter begangenen Tat nicht außer Verhältnis stehen. § 56c Abs. 3
+und 4 und § 56e gelten entsprechend.
 
 
 ##### § 59b Verurteilung zu der vorbehaltenen Strafe
@@ -1868,17 +1858,21 @@ erhebliche rechtswidrige Taten begehen wird.
 
 Hat eine Person den Hang, alkoholische Getränke oder andere
 berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen
-einer rechtswidrigen Tat, die sie im Rausch begangen hat oder die auf
-ihren Hang zurückgeht, verurteilt oder nur deshalb nicht verurteilt,
-weil ihre Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so
-soll das Gericht die Unterbringung in einer Entziehungsanstalt
-anordnen, wenn die Gefahr besteht, dass sie infolge ihres Hanges
-erhebliche rechtswidrige Taten begehen wird. Die Anordnung ergeht nur,
-wenn eine hinreichend konkrete Aussicht besteht, die Person durch die
-Behandlung in einer Entziehungsanstalt innerhalb der Frist nach § 67d
-Absatz 1 Satz 1 oder 3 zu heilen oder über eine erhebliche Zeit vor
-dem Rückfall in den Hang zu bewahren und von der Begehung erheblicher
-rechtswidriger Taten abzuhalten, die auf ihren Hang zurückgehen.
+einer rechtswidrigen Tat, die überwiegend auf ihren Hang zurückgeht,
+verurteilt oder nur deshalb nicht verurteilt, weil ihre
+Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so soll das
+Gericht die Unterbringung in einer Entziehungsanstalt anordnen, wenn
+die Gefahr besteht, dass sie infolge ihres Hanges erhebliche
+rechtswidrige Taten begehen wird; der Hang erfordert eine
+Substanzkonsumstörung, infolge derer eine dauernde und schwerwiegende
+Beeinträchtigung der Lebensgestaltung, der Gesundheit, der Arbeits-
+oder der Leistungsfähigkeit eingetreten ist und fortdauert. Die
+Anordnung ergeht nur, wenn aufgrund tatsächlicher Anhaltspunkte zu
+erwarten ist, die Person durch die Behandlung in einer
+Entziehungsanstalt innerhalb der Frist nach § 67d Absatz 1 Satz 1 oder
+3 zu heilen oder über eine erhebliche Zeit vor dem Rückfall in den
+Hang zu bewahren und von der Begehung erheblicher rechtswidriger Taten
+abzuhalten, die auf ihren Hang zurückgehen.
 
 
 ###### § 65 (weggefallen)
@@ -2145,14 +2139,14 @@ Strafe vor der Maßregel zu vollziehen ist, wenn der Zweck der Maßregel
 dadurch leichter erreicht wird. Bei Anordnung der Unterbringung in
 einer Entziehungsanstalt neben einer zeitigen Freiheitsstrafe von über
 drei Jahren soll das Gericht bestimmen, dass ein Teil der Strafe vor
-der Maßregel zu vollziehen ist. Dieser Teil der Strafe ist so zu
-bemessen, dass nach seiner Vollziehung und einer anschließenden
-Unterbringung eine Entscheidung nach Absatz 5 Satz 1 möglich ist. Das
-Gericht soll ferner bestimmen, dass die Strafe vor der Maßregel zu
-vollziehen ist, wenn die verurteilte Person vollziehbar zur Ausreise
-verpflichtet und zu erwarten ist, dass ihr Aufenthalt im räumlichen
-Geltungsbereich dieses Gesetzes während oder unmittelbar nach
-Verbüßung der Strafe beendet wird.
+der Maßregel zu vollziehen ist. Dieser Teil der Strafe ist in der
+Regel so zu bemessen, dass nach seiner Vollziehung und einer
+anschließenden Unterbringung eine Entscheidung nach Absatz 5 Satz 1
+erster Halbsatz möglich ist. Das Gericht soll ferner bestimmen, dass
+die Strafe vor der Maßregel zu vollziehen ist, wenn die verurteilte
+Person vollziehbar zur Ausreise verpflichtet und zu erwarten ist, dass
+ihr Aufenthalt im räumlichen Geltungsbereich dieses Gesetzes während
+oder unmittelbar nach Verbüßung der Strafe beendet wird.
 
 (3) Das Gericht kann eine Anordnung nach Absatz 2 Satz 1 oder Satz 2
 nachträglich treffen, ändern oder aufheben, wenn Umstände in der
@@ -2168,12 +2162,15 @@ wird die Zeit des Vollzugs der Maßregel auf die Strafe angerechnet,
 bis zwei Drittel der Strafe erledigt sind.
 
 (5) Wird die Maßregel vor der Strafe oder vor einem Rest der Strafe
-vollzogen, so kann das Gericht die Vollstreckung des Strafrestes unter
-den Voraussetzungen des § 57 Abs. 1 Satz 1 Nr. 2 und 3 zur Bewährung
-aussetzen, wenn die Hälfte der Strafe erledigt ist. Wird der Strafrest
-nicht ausgesetzt, so wird der Vollzug der Maßregel fortgesetzt; das
-Gericht kann jedoch den Vollzug der Strafe anordnen, wenn Umstände in
-der Person des Verurteilten es angezeigt erscheinen lassen.
+vollzogen, so setzt das Gericht die Vollstreckung des Strafrestes
+unter den Voraussetzungen des § 57 Absatz 1 Satz 1 Nummer 2 und 3 und
+Satz 2 zur Bewährung aus, wenn zwei Drittel der Strafe erledigt sind;
+das Gericht kann die Aussetzung auch schon nach Erledigung der Hälfte
+der Strafe bestimmen, wenn die Voraussetzungen des § 57 Absatz 2
+entsprechend erfüllt sind. Wird der Strafrest nicht ausgesetzt, so
+wird der Vollzug der Maßregel fortgesetzt; das Gericht kann jedoch den
+Vollzug der Strafe anordnen, wenn Umstände in der Person des
+Verurteilten es angezeigt erscheinen lassen.
 
 (6) Das Gericht bestimmt, dass eine Anrechnung nach Absatz 4 auch auf
 eine verfahrensfremde Strafe erfolgt, wenn deren Vollzug für die
@@ -6203,14 +6200,14 @@ stören,
 
 1.  gegen eine nationale, rassische, religiöse oder durch ihre ethnische
     Herkunft bestimmte Gruppe, gegen Teile der Bevölkerung oder gegen
-    einen Einzelnen wegen seiner Zugehörigkeit zu einer vorbezeichneten
+    einen Einzelnen wegen dessen Zugehörigkeit zu einer vorbezeichneten
     Gruppe oder zu einem Teil der Bevölkerung zum Hass aufstachelt, zu
     Gewalt- oder Willkürmaßnahmen auffordert oder
 
 
 2.  die Menschenwürde anderer dadurch angreift, dass er eine
     vorbezeichnete Gruppe, Teile der Bevölkerung oder einen Einzelnen
-    wegen seiner Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu
+    wegen dessen Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu
     einem Teil der Bevölkerung beschimpft, böswillig verächtlich macht
     oder verleumdet,
 
@@ -6226,7 +6223,7 @@ bestraft, wer
     (§ 11 Absatz 3) anbietet, überlässt oder zugänglich macht, der
 
     a)  zum Hass gegen eine in Absatz 1 Nummer 1 bezeichnete Gruppe, gegen
-        Teile der Bevölkerung oder gegen einen Einzelnen wegen seiner
+        Teile der Bevölkerung oder gegen einen Einzelnen wegen dessen
         Zugehörigkeit zu einer in Absatz 1 Nummer 1 bezeichneten Gruppe oder
         zu einem Teil der Bevölkerung aufstachelt,
 
@@ -6265,14 +6262,24 @@ Frieden in einer die Würde der Opfer verletzenden Weise dadurch stört,
 dass er die nationalsozialistische Gewalt- und Willkürherrschaft
 billigt, verherrlicht oder rechtfertigt.
 
-(5) Absatz 2 gilt auch für einen in den Absätzen 3 oder 4 bezeichneten
+(5) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
+bestraft, wer eine Handlung der in den §§ 6 bis 12 des
+Völkerstrafgesetzbuches bezeichneten Art gegen eine der in Absatz 1
+Nummer 1 bezeichneten Personenmehrheiten oder gegen einen Einzelnen
+wegen dessen Zugehörigkeit zu einer dieser Personenmehrheiten
+öffentlich oder in einer Versammlung in einer Weise billigt, leugnet
+oder gröblich verharmlost, die geeignet ist, zu Hass oder Gewalt gegen
+eine solche Person oder Personenmehrheit aufzustacheln und den
+öffentlichen Frieden zu stören.
+
+(6) Absatz 2 gilt auch für einen in den Absätzen 3 bis 5 bezeichneten
 Inhalt (§ 11 Absatz 3).
 
-(6) In den Fällen des Absatzes 2 Nummer 1, auch in Verbindung mit
-Absatz 5, ist der Versuch strafbar.
+(7) In den Fällen des Absatzes 2 Nummer 1, auch in Verbindung mit
+Absatz 6, ist der Versuch strafbar.
 
-(7) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen
-5 und 6, sowie in den Fällen der Absätze 3 und 4 gilt § 86 Absatz 4
+(8) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen
+6 und 7, sowie in den Fällen der Absätze 3 bis 5 gilt § 86 Absatz 4
 entsprechend.
 
 
@@ -8483,7 +8490,7 @@ Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, die Menschenwürde
 anderer dadurch anzugreifen, dass er eine durch ihre nationale,
 rassische, religiöse oder ethnische Herkunft, ihre Weltanschauung,
 ihre Behinderung oder ihre sexuelle Orientierung bestimmte Gruppe oder
-einen Einzelnen wegen seiner Zugehörigkeit zu einer dieser Gruppen
+einen Einzelnen wegen dessen Zugehörigkeit zu einer dieser Gruppen
 beschimpft, böswillig verächtlich macht oder verleumdet, an eine
 andere Person, die zu einer der vorbezeichneten Gruppen gehört,
 gelangen lässt, ohne von dieser Person hierzu aufgefordert zu sein,
@@ -8799,9 +8806,20 @@ oder Geschäftsgeheimnis, offenbart, das ihm als
 
 3.  Rechtsanwalt, Kammerrechtsbeistand, Patentanwalt, Notar, Verteidiger
     in einem gesetzlich geordneten Verfahren, Wirtschaftsprüfer,
-    vereidigtem Buchprüfer, Steuerberater, Steuerbevollmächtigten oder
-    Organ oder Mitglied eines Organs einer Rechtsanwalts-, Patentanwalts-,
-    Wirtschaftsprüfungs-, Buchprüfungs- oder Steuerberatungsgesellschaft,
+    vereidigtem Buchprüfer, Steuerberater, Steuerbevollmächtigten,
+
+
+3a. Organ oder Mitglied eines Organs einer Wirtschaftsprüfungs-,
+    Buchprüfungs- oder einer Berufsausübungsgesellschaft von
+    Steuerberatern und Steuerbevollmächtigten, einer
+    Berufsausübungsgesellschaft von Rechtsanwälten oder europäischen
+    niedergelassenen Rechtsanwälten oder einer Berufsausübungsgesellschaft
+    von Patentanwälten oder niedergelassenen europäischen Patentanwälten
+    im Zusammenhang mit der Beratung und Vertretung der
+    Wirtschaftsprüfungs-, Buchprüfungs- oder Berufsausübungsgesellschaft
+    im Bereich der Wirtschaftsprüfung, Buchprüfung oder Hilfeleistung in
+    Steuersachen oder ihrer rechtsanwaltlichen oder patentanwaltlichen
+    Tätigkeit,
 
 
 4.  Ehe-, Familien-, Erziehungs- oder Jugendberater sowie Berater für
@@ -9159,14 +9177,13 @@ ist. Die Schwangere ist nicht nach Satz 1 oder 2 strafbar.
 
 (2) Ein Arzt darf Feststellungen nach § 218a Abs. 2 oder 3 nicht
 treffen, wenn ihm die zuständige Stelle dies untersagt hat, weil er
-wegen einer rechtswidrigen Tat nach Absatz 1, den §§ 218, 219a oder
-219b oder wegen einer anderen rechtswidrigen Tat, die er im
-Zusammenhang mit einem Schwangerschaftsabbruch begangen hat,
-rechtskräftig verurteilt worden ist. Die zuständige Stelle kann einem
-Arzt vorläufig untersagen, Feststellungen nach § 218a Abs. 2 und 3 zu
-treffen, wenn gegen ihn wegen des Verdachts einer der in Satz 1
-bezeichneten rechtswidrigen Taten das Hauptverfahren eröffnet worden
-ist.
+wegen einer rechtswidrigen Tat nach Absatz 1, den §§ 218 oder 219b
+oder wegen einer anderen rechtswidrigen Tat, die er im Zusammenhang
+mit einem Schwangerschaftsabbruch begangen hat, rechtskräftig
+verurteilt worden ist. Die zuständige Stelle kann einem Arzt vorläufig
+untersagen, Feststellungen nach § 218a Abs. 2 und 3 zu treffen, wenn
+gegen ihn wegen des Verdachts einer der in Satz 1 bezeichneten
+rechtswidrigen Taten das Hauptverfahren eröffnet worden ist.
 
 
 #### § 218c Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch
@@ -9224,49 +9241,7 @@ Schwangerschaftskonfliktgesetzes auszustellen. Der Arzt, der den
 Abbruch der Schwangerschaft vornimmt, ist als Berater ausgeschlossen.
 
 
-#### § 219a Werbung für den Abbruch der Schwangerschaft
-
-(1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
-Inhalts (§ 11 Absatz 3) seines Vermögensvorteils wegen oder in grob
-anstößiger Weise
-
-1.  eigene oder fremde Dienste zur Vornahme oder Förderung eines
-    Schwangerschaftsabbruchs oder
-
-
-2.  Mittel, Gegenstände oder Verfahren, die zum Abbruch der
-    Schwangerschaft geeignet sind, unter Hinweis auf diese Eignung
-
-
-
-anbietet, ankündigt, anpreist oder Erklärungen solchen Inhalts
-bekanntgibt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
-Geldstrafe bestraft.
-
-(2) Absatz 1 Nr. 1 gilt nicht, wenn Ärzte oder auf Grund Gesetzes
-anerkannte Beratungsstellen darüber unterrichtet werden, welche Ärzte,
-Krankenhäuser oder Einrichtungen bereit sind, einen
-Schwangerschaftsabbruch unter den Voraussetzungen des § 218a Abs. 1
-bis 3 vorzunehmen.
-
-(3) Absatz 1 Nr. 2 gilt nicht, wenn die Tat gegenüber Ärzten oder
-Personen, die zum Handel mit den in Absatz 1 Nr. 2 erwähnten Mitteln
-oder Gegenständen befugt sind, oder durch eine Veröffentlichung in
-ärztlichen oder pharmazeutischen Fachblättern begangen wird.
-
-(4) Absatz 1 gilt nicht, wenn Ärzte, Krankenhäuser oder Einrichtungen
-
-1.  auf die Tatsache hinweisen, dass sie Schwangerschaftsabbrüche unter
-    den Voraussetzungen des § 218a Absatz 1 bis 3 vornehmen, oder
-
-
-2.  auf Informationen einer insoweit zuständigen Bundes- oder
-    Landesbehörde, einer Beratungsstelle nach dem
-    Schwangerschaftskonfliktgesetz oder einer Ärztekammer über einen
-    Schwangerschaftsabbruch hinweisen.
-
-
-
+#### § 219a (weggefallen)
 
 
 #### § 219b Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 16 G v. 10.12.2021 I 5162
+:   Art. 6a G v. 16.8.2023 I Nr. 217
 
 
 ## Inhaltsverzeichnis
@@ -99,12 +99,12 @@ Zuletzt geändert durch
 
 *    *   § 11
 
-    *   Beratung und Unterstützung, Aktivierung
+    *   Beratung und Unterstützung
 
 
 *    *   § 12
 
-    *   Leistungsabsprache
+    *   Vorbereitung für die Aufnahme einer Tätigkeit und Vereinbarung
 
 
 *    *   § 13
@@ -324,6 +324,12 @@ Zuletzt geändert durch
 
 *    *   § 35a
 
+    *   Aufwendungen für Instandhaltung und Reparatur, Aufwendungen bei
+        Wohnungswechsel, Direktzahlung
+
+
+*    *   § 35b
+
     *   Satzung
 
 
@@ -370,11 +376,6 @@ Zuletzt geändert durch
 *    *   § 39
 
     *   Vermutung der Bedarfsdeckung
-
-
-*    *   § 39a
-
-    *   Einschränkung der Leistung
 
 
 *    *
@@ -1333,8 +1334,7 @@ Zuletzt geändert durch
 
 *    *   § 131
 
-    *   Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach
-        dem Vierten Kapitel
+    *   Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
 
 
 *    *   § 132
@@ -1360,7 +1360,7 @@ Zuletzt geändert durch
 
 *    *   § 134
 
-    *   Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6
+    *   Fortschreibung der Regelbedarfsstufen zum 1. Januar 2023
 
 
 *    *   § 135
@@ -1397,7 +1397,8 @@ Zuletzt geändert durch
 
 *    *   § 140
 
-    *   Übergangsregelung zur Verhinderung einer Zahlungslücke
+    *   Übergangsregelung für die Bedarfe für Unterkunft während der
+        Karenzzeit
 
 
 *    *   § 141
@@ -1421,7 +1422,19 @@ Zuletzt geändert durch
 
 *    *   § 144
 
-    *   Einmalzahlung aus Anlass der COVID-19-Pandemie
+    *   Einmalzahlung für den Monat Juli 2022
+
+
+*    *   § 145
+
+    *   Sofortzuschlag
+
+
+*    *   § 146
+
+    *   Sozialhilfe für Ausländerinnen und Ausländer mit einem
+        Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer
+        entsprechenden Fiktionsbescheinigung
 
 
 
@@ -1639,7 +1652,7 @@ wirtschaftlicher erreicht werden kann oder die Leistungsberechtigten
 es wünschen.
 
 
-#### § 11 Beratung und Unterstützung, Aktivierung
+#### § 11 Beratung und Unterstützung
 
 (1) Zur Erfüllung der Aufgaben dieses Buches werden die
 Leistungsberechtigten beraten und, soweit erforderlich, unterstützt.
@@ -1651,55 +1664,27 @@ Selbsthilfe zur aktiven Teilnahme am Leben in der Gemeinschaft und zur
 Gemeinschaft umfasst auch ein gesellschaftliches Engagement. Zur
 Überwindung der Notlage gehört auch, die Leistungsberechtigten für den
 Erhalt von Sozialleistungen zu befähigen. Die Beratung umfasst auch
-eine gebotene Budgetberatung.
+eine gebotene Budgetberatung nach § 29 des Neunten Buches.
+Leistungsberechtigte nach dem Dritten und Vierten Kapitel erhalten die
+gebotene Beratung für den Umgang mit dem durch den Regelsatz zur
+Verfügung gestellten monatlichen Pauschalbetrag (§ 27a Absatz 3 Satz
+2).
 
 (3) Die Unterstützung umfasst Hinweise und, soweit erforderlich, die
-Vorbereitung von Kontakten und die Begleitung zu sozialen Diensten
+Vorbereitung von Kontakten mit und die Begleitung zu sozialen Diensten
 sowie zu Möglichkeiten der aktiven Teilnahme am Leben in der
 Gemeinschaft unter Einschluss des gesellschaftlichen Engagements.
-Soweit Leistungsberechtigte zumutbar einer Tätigkeit nachgehen können,
-umfasst die Unterstützung auch das Angebot einer Tätigkeit sowie die
-Vorbereitung und Begleitung der Leistungsberechtigten. Auf die
-Wahrnehmung von Unterstützungsangeboten ist hinzuwirken. Können
-Leistungsberechtigte durch Aufnahme einer zumutbaren Tätigkeit
-Einkommen erzielen, sind sie hierzu sowie zur Teilnahme an einer
-erforderlichen Vorbereitung verpflichtet. Leistungsberechtigte nach
-dem Dritten und Vierten Kapitel erhalten die gebotene Beratung für den
-Umgang mit dem durch den Regelsatz zur Verfügung gestellten
-monatlichen Pauschalbetrag (§ 27a Absatz 3 Satz 2).
+Soweit Leistungsberechtigte den Wunsch äußern, einer Tätigkeit
+nachgehen zu wollen, umfasst die Unterstützung nach Maßgabe des § 12
+Absatz 1 auch die Vorbereitung sowie zusätzlich die Begleitung der
+Leistungsberechtigten. Äußern Leistungsberechtigte nach Satz 2 den
+Wunsch, durch die Aufnahme einer zumutbaren Tätigkeit Einkommen zu
+erzielen, können sie hierbei durch Angebote von geeigneten Maßnahmen
+für eine erforderliche Vorbereitung unterstützt werden.
 
-(4) Den Leistungsberechtigten darf eine Tätigkeit nicht zugemutet
-werden, wenn
-
-1.  sie wegen Erwerbsminderung, Krankheit, Behinderung oder
-    Pflegebedürftigkeit hierzu nicht in der Lage sind oder
-
-
-2.  sie ein der Regelaltersgrenze der gesetzlichen Rentenversicherung (§
-    35 des Sechsten Buches) entsprechendes Lebensalter erreicht oder
-    überschritten haben oder
-
-
-3.  der Tätigkeit ein sonstiger wichtiger Grund entgegensteht.
-
-
-
-Ihnen darf eine Tätigkeit insbesondere nicht zugemutet werden, soweit
-dadurch die geordnete Erziehung eines Kindes gefährdet würde. Die
-geordnete Erziehung eines Kindes, das das dritte Lebensjahr vollendet
-hat, ist in der Regel nicht gefährdet, soweit unter Berücksichtigung
-der besonderen Verhältnisse in der Familie der Leistungsberechtigten
-die Betreuung des Kindes in einer Tageseinrichtung oder in Tagespflege
-im Sinne der Vorschriften des Achten Buches sichergestellt ist; die
-Träger der Sozialhilfe sollen darauf hinwirken, dass Alleinerziehenden
-vorrangig ein Platz zur Tagesbetreuung des Kindes angeboten wird. Auch
-sonst sind die Pflichten zu berücksichtigen, die den
-Leistungsberechtigten durch die Führung eines Haushalts oder die
-Pflege eines Angehörigen entstehen.
-
-(5) Auf die Beratung und Unterstützung von Verbänden der freien
-Wohlfahrtspflege, von Angehörigen der rechtsberatenden Berufe und von
-sonstigen Stellen ist zunächst hinzuweisen. Ist die weitere Beratung
+(4) Auf die Möglichkeit der Beratung und Unterstützung durch Verbände
+der freien Wohlfahrtspflege, durch Angehörige der rechtsberatenden
+Berufe und durch sonstige Stellen ist hinzuweisen. Ist die Beratung
 durch eine Schuldnerberatungsstelle oder andere Fachberatungsstellen
 geboten, ist auf ihre Inanspruchnahme hinzuwirken. Angemessene Kosten
 einer Beratung nach Satz 2 sollen übernommen werden, wenn eine
@@ -1710,20 +1695,29 @@ kann auch in Form einer pauschalierten Abgeltung der Leistung der
 Schuldnerberatungsstelle oder anderer Fachberatungsstellen erfolgen.
 
 
-#### § 12 Leistungsabsprache
+#### § 12 Vorbereitung für die Aufnahme einer Tätigkeit und Vereinbarung
 
-Vor oder spätestens bis zu vier Wochen nach Beginn fortlaufender
-Leistungen sollen in einer schriftlichen Leistungsabsprache die
-Situation der leistungsberechtigten Personen sowie gegebenenfalls Wege
-zur Überwindung der Notlage und zu gebotenen Möglichkeiten der aktiven
-Teilnahme in der Gemeinschaft gemeinsam festgelegt und die
-Leistungsabsprache unterzeichnet werden. Soweit es auf Grund
-bestimmbarer Bedarfe erforderlich ist, ist ein Förderplan zu erstellen
-und in die Leistungsabsprache einzubeziehen. Sind Leistungen im
-Hinblick auf die sie tragenden Ziele zu überprüfen, kann dies in der
-Leistungsabsprache näher festgelegt werden. Die Leistungsabsprache
-soll regelmäßig gemeinsam überprüft und fortgeschrieben werden.
-Abweichende Regelungen in diesem Buch gehen vor.
+(1) Die erforderlichen Vorbereitungen für die Aufnahme einer Tätigkeit
+nach § 11 Absatz 3 Satz 2 und 3 können insbesondere Maßnahmen
+umfassen, die geeignet und angemessen sind, Einschränkungen der
+Leistungsberechtigten aufgrund einer vollen Erwerbsminderung, einer
+Krankheit, einer Behinderung oder einer Pflegebedürftigkeit soweit
+auszugleichen oder zu vermindern, dass sie der Ausübung einer
+Tätigkeit nicht entgegenstehen. Satz 1 gilt entsprechend bei
+Einschränkungen, die sich für die Leistungsberechtigten aus der Pflege
+eines Angehörigen ergeben. Maßnahmen nach Satz 1 können auch die
+Vermittlung der Betreuung eines Kindes in einer Tageseinrichtung oder
+in Tagespflege im Sinne der Vorschriften des Achten Buches umfassen.
+
+(2) Stimmt die leistungsberechtigte Person zu, kann der zuständige
+Träger der Sozialhilfe mit der leistungsberechtigten Person eine
+unverbindliche schriftliche Vereinbarung über die angestrebte
+Tätigkeit, die zur Erreichung hierfür als erforderlich angesehene
+Unterstützung nach § 11 Absatz 3 sowie die unterstützenden Maßnahmen
+nach Absatz 1 treffen. Wird eine Vereinbarung nach Satz 1 getroffen,
+so soll diese in geeignetem zeitlichem Abstand gemeinsam überprüft und
+gegebenenfalls angepasst werden; dies umfasst auch die Überprüfung der
+Erreichbarkeit des angestrebten Ziels.
 
 
 #### § 13 Leistungen für Einrichtungen, Vorrang anderer Leistungen
@@ -1954,8 +1948,8 @@ umfassen:
 
 
 2.  Leistungen zur Deckung der Bedarfe für Unterkunft und Heizung in
-    angemessener Höhe, einschließlich der Bedarfe nach § 35 Absatz 4 und §
-    30 Absatz 7,
+    angemessener Höhe nach § 35 und § 35a, einschließlich der Bedarfe nach
+    § 30 Absatz 7,
 
 
 3.  die zur Behandlung akuter Erkrankungen und Schmerzzustände
@@ -2083,8 +2077,7 @@ wird.
 
 #### § 26 Einschränkung, Aufrechnung
 
-(1) Die Leistung soll bis auf das zum Lebensunterhalt Unerlässliche
-eingeschränkt werden
+(1) Die Geldleistung für den Lebensunterhalt soll eingeschränkt werden
 
 1.  bei Leistungsberechtigten, die nach Vollendung des 18. Lebensjahres
     ihr Einkommen oder Vermögen vermindert haben in der Absicht, die
@@ -2097,22 +2090,31 @@ eingeschränkt werden
 
 
 
-So weit wie möglich ist zu verhüten, dass die unterhaltsberechtigten
-Angehörigen oder andere mit ihnen in Haushaltsgemeinschaft lebende
-Leistungsberechtigte durch die Einschränkung der Leistung mitbetroffen
-werden.
+In den Fällen des Satzes 1 kann die monatliche Geldleistung um einen
+Betrag vermindert werden, der bis zu 30 Prozent der Regelbedarfsstufe
+1 nach der Anlage zu § 28 entspricht.
 
-(2) Die Leistung kann bis auf das jeweils Unerlässliche mit Ansprüchen
-des Trägers der Sozialhilfe gegen eine leistungsberechtigte Person
-aufgerechnet werden, wenn es sich um Ansprüche auf Erstattung zu
-Unrecht erbrachter Leistungen der Sozialhilfe handelt, die die
-leistungsberechtigte Person oder ihr Vertreter durch vorsätzlich oder
-grob fahrlässig unrichtige oder unvollständige Angaben oder durch
-pflichtwidriges Unterlassen veranlasst hat, oder wenn es sich um
-Ansprüche auf Kostenersatz nach den §§ 103 und 104 handelt. Die
-Aufrechnungsmöglichkeit wegen eines Anspruchs ist auf drei Jahre
-beschränkt; ein neuer Anspruch des Trägers der Sozialhilfe auf
-Erstattung oder auf Kostenersatz kann erneut aufgerechnet werden.
+(2) Die Geldleistung nach diesem Buch kann mit Ansprüchen des Trägers
+der Sozialhilfe gegen eine leistungsberechtigte Person aufgerechnet
+werden, wenn
+
+1.  es sich um Ansprüche auf Erstattung zu Unrecht erbrachter Leistungen
+    der Sozialhilfe handelt, die die leistungsberechtigte Person oder ihr
+    Vertreter durch vorsätzlich oder grob fahrlässig unrichtige oder
+    unvollständige Angaben oder durch pflichtwidriges Unterlassen
+    veranlasst hat, oder
+
+
+2.  es sich um Ansprüche auf Kostenersatz nach den §§ 103 und 104 handelt.
+
+
+
+In den Fällen des Satzes 1 kann die Aufrechnung mit einem monatlichen
+Betrag vorgenommen werden, der bis zu 30 Prozent der Regelbedarfsstufe
+1 nach der Anlage zu § 28 entspricht. Die Aufrechnungsmöglichkeit
+wegen eines Anspruchs ist auf drei Jahre beschränkt; ein neuer
+Anspruch des Trägers der Sozialhilfe auf Erstattung oder auf
+Kostenersatz kann erneut aufgerechnet werden.
 
 (3) Eine Aufrechnung nach Absatz 2 kann auch erfolgen, wenn Leistungen
 für einen Bedarf übernommen werden, der durch vorangegangene
@@ -2417,37 +2419,69 @@ ergeben die Regelbedarfsstufen (Anlage).
 
 #### § 28a Fortschreibung der Regelbedarfsstufen
 
-(1) In Jahren, in denen keine Neuermittlung nach § 28 erfolgt, werden
-die Regelbedarfsstufen jeweils zum 1. Januar mit der sich nach Absatz
-2 ergebenden Veränderungsrate fortgeschrieben. § 28 Absatz 5 Satz 3
-gilt entsprechend.
+(1) Für Jahre bis zur nächsten Neuermittlung nach § 28 werden die
+Regelbedarfsstufen jeweils zum 1. Januar nach den Absätzen 2 bis 5
+fortgeschrieben.
 
-(2) Die Fortschreibung der Regelbedarfsstufen erfolgt aufgrund der
-bundesdurchschnittlichen Entwicklung der Preise für
+(2) Zum 1. Januar 2023 werden die Eurobeträge der zum 1. Januar 2022
+fortgeschriebenen Regelbedarfsstufen zuerst mit der sich nach Absatz 3
+ergebenden Veränderungsrate fortgeschrieben (Basisfortschreibung) und
+das Ergebnis mit der sich nach Absatz 4 ergebenden Veränderungsrate
+fortgeschrieben (ergänzende Fortschreibung). Für nachfolgende
+Fortschreibungen ab dem Jahr 2024 sind jeweils die nicht gerundeten
+Eurobeträge, die sich aus der Basisfortschreibung des Vorjahres nach
+Absatz 3 ergeben haben, erneut nach Absatz 3 fortzuschreiben und die
+sich daraus ergebenden Eurobeträge mit der Veränderungsrate der
+ergänzenden Fortschreibung nach Absatz 4 fortzuschreiben.
+
+(3) Die Veränderungsrate für die Basisfortschreibung ergibt sich aus
+der bundesdurchschnittlichen Entwicklung der Preise für
 regelbedarfsrelevante Güter und Dienstleistungen sowie der
 bundesdurchschnittlichen Entwicklung der Nettolöhne und -gehälter je
 beschäftigten Arbeitnehmer nach der Volkswirtschaftlichen
-Gesamtrechnung (Mischindex). Maßgeblich ist jeweils die
-Veränderungsrate, die sich aus der Veränderung in dem
-Zwölfmonatszeitraum, der mit dem 1. Juli des Vorvorjahres beginnt und
-mit dem 30. Juni des Vorjahres endet, gegenüber dem davorliegenden
-Zwölfmonatszeitraum ergibt. Für die Ermittlung der jährlichen
+Gesamtrechnung (Mischindex). Für die Ermittlung der jährlichen
 Veränderungsrate des Mischindexes wird die sich aus der Entwicklung
 der Preise aller regelbedarfsrelevanten Güter und Dienstleistungen
-ergebende Veränderungsrate mit einem Anteil von 70 vom Hundert und die
+ergebende Veränderungsrate mit einem Anteil von 70 Prozent und die
 sich aus der Entwicklung der Nettolöhne und -gehälter je beschäftigten
-Arbeitnehmer ergebende Veränderungsrate mit einem Anteil von 30 vom
-Hundert berücksichtigt.
+Arbeitnehmer ergebende Veränderungsrate mit einem Anteil von 30
+Prozent berücksichtigt. Maßgeblich ist jeweils die Veränderungsrate,
+die sich aus der Veränderung in dem Zwölfmonatszeitraum, der mit dem
+1\. Juli des Vorvorjahres beginnt und mit dem 30. Juni des Vorjahres
+endet, gegenüber dem davorliegenden Zwölfmonatszeitraum ergibt.
 
-(3) Das Bundesministerium für Arbeit und Soziales beauftragt das
+(4) Maßgeblich für die Veränderungsrate der ergänzenden Fortschreibung
+der sich nach Absatz 3 ergebenden nicht gerundeten Eurobeträge der
+Regelbedarfsstufen ist jeweils die bundesdurchschnittliche Entwicklung
+der Preise für regelbedarfsrelevante Güter und Dienstleistungen in dem
+Dreimonatszeitraum vom 1. April bis zum 30. Juni des Vorjahres
+gegenüber dem gleich abgegrenzten Dreimonatszeitraum des Vorvorjahres.
+§ 28 Absatz 5 Satz 3 gilt entsprechend.
+
+(5) Ergeben sich aus der Fortschreibung nach den Absätzen 2 bis 4 für
+die Regelbedarfsstufen Eurobeträge, die niedriger als die im Vorjahr
+geltenden Eurobeträge sind, gelten die für das Vorjahr bestimmten
+Eurobeträge solange weiter, bis sich aus einer nachfolgenden
+Fortschreibung höhere Eurobeträge ergeben.
+
+(6) Das Bundesministerium für Arbeit und Soziales beauftragt das
 Statistische Bundesamt mit der Ermittlung der jährlichen
-Veränderungsrate für den Zeitraum nach Absatz 2 Satz 2 für
+Veränderungsrate
 
-1.  die Preise aller regelbedarfsrelevanten Güter und Dienstleistungen und
+1.  für den Zeitraum nach Absatz 3 für
+
+    a)  die Preise aller regelbedarfsrelevanten Güter und Dienstleistungen und
 
 
-2.  die durchschnittliche Nettolohn- und -gehaltssumme je durchschnittlich
-    beschäftigten Arbeitnehmer.
+    b)  die durchschnittliche Nettolohn- und -gehaltssumme je durchschnittlich
+        beschäftigten Arbeitnehmer,
+
+
+
+
+
+2.  für den Zeitraum nach Absatz 4 für die Preise aller
+    regelbedarfsrelevanten Güter und Dienstleistungen.
 
 
 
@@ -2567,7 +2601,7 @@ Mehrbedarfs darf die Höhe der maßgebenden Regelbedarfsstufe nicht
 Warmwasser durch in der Wohnung, in der besonderen Wohnform oder der
 sonstigen Unterkunft nach § 42a Absatz 2 installierte Vorrichtungen
 erzeugt wird (dezentrale Warmwassererzeugung) und denen deshalb kein
-Bedarf für Warmwasser nach § 35 Absatz 4 anerkannt wird. Der
+Bedarf für Warmwasser nach § 35 Absatz 5 anerkannt wird. Der
 Mehrbedarf beträgt für jede leistungsberechtigte Person entsprechend
 der für sie geltenden Regelbedarfsstufe nach der Anlage zu § 28
 jeweils
@@ -2594,6 +2628,12 @@ soweit sie durch eine separate Messeinrichtung nachgewiesen werden.
 schulrechtlichen Bestimmungen oder schulischen Vorgaben Aufwendungen
 zur Anschaffung oder Ausleihe von Schulbüchern oder gleichstehenden
 Arbeitsheften hat, sind sie als Mehrbedarf anzuerkennen.
+
+(10) Für Leistungsberechtigte wird ein Mehrbedarf anerkannt, soweit im
+Einzelfall ein einmaliger, unabweisbarer, besonderer Bedarf besteht,
+der auf keine andere Weise gedeckt werden kann und ein Darlehen nach §
+37 Absatz 1 ausnahmsweise nicht zumutbar oder wegen der Art des
+Bedarfs nicht möglich ist.
 
 
 #### § 31 Einmalige Bedarfe
@@ -2701,9 +2741,15 @@ bereits bei Antragstellung davon auszugehen ist, dass die
 Leistungsberechtigung nach diesem Kapitel für einen begrenzten, aber
 mehr als drei Monate andauernden Zeitraum bestehen wird.
 
+(4a) Für Personen, die Mitglied in einer in § 176 Absatz 1 des Fünften
+Buches genannten Solidargemeinschaft sind, werden angemessene Beiträge
+bis zur Hälfte des sich nach § 152 Absatz 3 Satz 2 des
+Versicherungsaufsichtsgesetzes ergebenden Höchstbeitrags der
+gesetzlichen Krankenversicherung anerkannt.
+
 (5) Bei Personen, die in der sozialen Pflegeversicherung nach
 
-1.  den §§ 20 und 21 des Elften Buches pflichtversichert sind oder
+1.  den §§ 20, 21 und 21a des Elften Buches pflichtversichert sind oder
 
 
 2.  § 26 des Elften Buches weiterversichert sind oder
@@ -3051,13 +3097,132 @@ zuständigen Träger werden nach Landesrecht bestimmt.
 
 #### § 35 Bedarfe für Unterkunft und Heizung
 
-(1) Bedarfe für die Unterkunft werden in Höhe der tatsächlichen
-Aufwendungen anerkannt. Bedarfe für die Unterkunft sind auf Antrag der
+(1) Bedarfe für Unterkunft und Heizung werden in Höhe der
+tatsächlichen Aufwendungen anerkannt, soweit diese angemessen sind.
+Für die Anerkennung der Bedarfe für Unterkunft gilt eine Karenzzeit
+von einem Jahr ab Beginn des Monats, für den erstmals Leistungen nach
+diesem Buch bezogen werden. Innerhalb dieser Karenzzeit werden
+abweichend von Satz 1 Bedarfe für Unterkunft in Höhe der tatsächlichen
+Aufwendungen anerkannt; § 35a Absatz 2 Satz 2 bleibt unberührt. Wird
+der Leistungsbezug in der Karenzzeit für mindestens einen Monat
+unterbrochen, verlängert sich die Karenzzeit um volle Monate ohne
+Leistungsbezug. Eine neue Karenzzeit beginnt nur, wenn zuvor
+mindestens drei Jahre keine Leistungen nach diesem Kapitel, dem
+Vierten Kapitel oder dem Zweiten Buch bezogen worden sind. Bei
+Leistungsberechtigten, die in den letzten zwei Jahren vor dem Bezug
+von Leistungen nach dem Dritten oder Vierten Kapitel Leistungen nach
+dem Zweiten Buch bezogen haben, wird die nach § 22 Absatz 1 Satz 2 bis
+4 des Zweiten Buches bereits in Anspruch genommene Karenzzeit für die
+weitere Dauer der Karenzzeit nach den Sätzen 2 bis 5 berücksichtigt.
+
+(2) Der Träger der Sozialhilfe prüft zu Beginn der Karenzzeit nach
+Absatz 1 Satz 2 bis 6 die Angemessenheit der Aufwendungen für
+Unterkunft und Heizung. Übersteigen die Aufwendungen für Unterkunft
+und Heizung den der Besonderheit des Einzelfalles angemessenen Umfang,
+teilt der Träger der Sozialhilfe dies den Leistungsberechtigten mit
+dem ersten Bewilligungsbescheid mit und unterrichtet sie über die
+Dauer der Karenzzeit nach Absatz 1 Satz 2 bis 6 sowie über das
+Verfahren nach Ablauf der Karenzzeit nach Absatz 3 Satz 2.
+
+(3) Übersteigen die Aufwendungen für Unterkunft und Heizung den der
+Besonderheit des Einzelfalles angemessenen Umfang, sind sie in
+tatsächlicher Höhe als Bedarf der Personen, deren Einkommen und
+Vermögen nach § 27 Absatz 2 zu berücksichtigen sind, anzuerkennen.
+Satz 1 gilt nach Ablauf der Karenzzeit nach Absatz 1 Satz 2 bis 6 so
+lange, bis es diesen Personen möglich oder zuzumuten ist, durch einen
+Wohnungswechsel, durch Vermieten oder auf andere Weise die
+Aufwendungen zu senken, in der Regel jedoch längstens für sechs
+Monate. Eine Absenkung der nach Absatz 1 Satz 1 unangemessenen
+Aufwendungen muss nicht gefordert werden, wenn diese unter
+Berücksichtigung der bei einem Wohnungswechsel zu erbringenden
+Leistungen unwirtschaftlich wäre. Stirbt ein Mitglied der
+Haushaltsgemeinschaft und waren die Aufwendungen für Unterkunft und
+Heizung davor angemessen, ist die Senkung der Aufwendungen für die
+weiterhin bewohnte Unterkunft für die Dauer von mindestens zwölf
+Monaten nach dem Sterbemonat nicht zumutbar.
+
+(4) Der Träger der Sozialhilfe kann für seinen örtlichen
+Zuständigkeitsbereich für die Höhe der Bedarfe für Unterkunft eine
+monatliche Pauschale festsetzen, wenn auf dem örtlichen Wohnungsmarkt
+hinreichend angemessener freier Wohnraum verfügbar und in Einzelfällen
+die Pauschalierung nicht unzumutbar ist. Bei der Bemessung der
+Pauschale sind die tatsächlichen Gegebenheiten des örtlichen
+Wohnungsmarkts, der örtliche Mietspiegel sowie die familiären
+Verhältnisse der Leistungsberechtigten, insbesondere Anzahl, Alter und
+Gesundheitszustand der in der Unterkunft lebenden Personen, zu
+berücksichtigen. Absatz 3 Satz 1 gilt entsprechend.
+
+(5) Bedarfe für Heizung umfassen auch Aufwendungen für zentrale
+Warmwasserversorgung. Die Bedarfe können durch eine monatliche
+Pauschale festgesetzt werden. Bei der Bemessung der Pauschale sind die
+persönlichen und familiären Verhältnisse, insbesondere Anzahl, Alter
+und Gesundheitszustand der in der Unterkunft lebenden Personen, die
+Größe und Beschaffenheit der Wohnung, die vorhandenen
+Heizmöglichkeiten und die örtlichen Gegebenheiten zu berücksichtigen.
+
+(6) Leben Leistungsberechtigte in einer Unterkunft nach § 42a Absatz 2
+Satz 1 Nummer 2 und Satz 3, so sind Aufwendungen für Unterkunft und
+Heizung nach § 42a Absatz 5 und 6 anzuerkennen. Leben
+Leistungsberechtigte in einer sonstigen Unterkunft nach § 42a Absatz 2
+Satz 1 Nummer 3, so sind Aufwendungen für Unterkunft und Heizung nach
+§ 42a Absatz 7 anzuerkennen. Für die Bedarfe nach den Sätzen 1 und 2
+gilt Absatz 1 Satz 2 bis 6 nicht.
+
+(7) Zur Beurteilung der Angemessenheit der Aufwendungen für Unterkunft
+und Heizung nach Absatz 1 Satz 1 ist die Bildung einer
+Gesamtangemessenheitsgrenze zulässig. Dabei kann für die Aufwendungen
+für Heizung der Wert berücksichtigt werden, der bei einer gesonderten
+Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und der
+Aufwendungen für Heizung ohne Prüfung der Angemessenheit im Einzelfall
+höchstens anzuerkennen wäre. Absatz 3 und § 35a Absatz 2 Satz 2 gelten
+entsprechend.
+
+(8) § 22 Absatz 11 und 12 des Zweiten Buches gelten entsprechend.
+
+
+#### § 35a Aufwendungen für Instandhaltung und Reparatur, Aufwendungen bei Wohnungswechsel, Direktzahlung
+
+(1) Als Bedarf für Unterkunft werden auch die unabweisbaren
+Aufwendungen für Instandhaltung und Reparatur bei selbst bewohntem
+Wohneigentum im Sinne des § 90 Absatz 2 Nummer 8 anerkannt, soweit
+diese unter Berücksichtigung der im laufenden sowie in den
+darauffolgenden elf Kalendermonaten anfallenden Aufwendungen insgesamt
+angemessen sind. Übersteigen die unabweisbaren Aufwendungen für
+Instandhaltung und Reparatur den Bedarf für die Unterkunft nach Satz
+1, kann zur Deckung dieses Teils der Aufwendungen ein Darlehen
+erbracht werden, das dinglich gesichert werden soll. Für die Bedarfe
+nach Satz 1 gilt § 35 Absatz 1 Satz 2 bis 6 nicht.
+
+(2) Vor Abschluss eines Vertrages über eine neue Unterkunft haben
+Leistungsberechtigte den dort zuständigen Träger der Sozialhilfe über
+die nach § 35 Absatz 3 Satz 1 und 2 maßgeblichen Umstände in Kenntnis
+zu setzen. Sind die Aufwendungen für Unterkunft und Heizung für die
+neue Unterkunft unangemessen hoch, sind diese nur in Höhe angemessener
+Aufwendungen als Bedarf anzuerkennen, es sei denn, der zuständige
+Träger der Sozialhilfe hat den darüberhinausgehenden Aufwendungen
+vorher zugestimmt. Eine Zustimmung soll erteilt werden, wenn der Umzug
+durch den Träger der Sozialhilfe veranlasst wird oder aus anderen
+Gründen notwendig ist und wenn ohne die Zustimmung eine Unterkunft in
+einem angemessenen Zeitraum nicht gefunden werden kann. Innerhalb der
+Karenzzeit nach § 35 Absatz 1 Satz 2 werden nach einem Umzug höhere
+als angemessene Aufwendungen nur dann als Bedarf anerkannt, wenn der
+Träger der Sozialhilfe die Anerkennung vorab zugesichert hat.
+Wohnungsbeschaffungskosten, Mietkautionen, Genossenschaftsanteile und
+Umzugskosten können bei vorheriger Zustimmung übernommen werden;
+Mietkautionen und Genossenschaftsanteile sollen als Darlehen erbracht
+werden. Rückzahlungsansprüche aus Darlehen nach Satz 5 werden, solange
+Darlehensnehmer Leistungen zur Sicherung des Lebensunterhalts
+beziehen, ab dem Monat, der auf die Auszahlung folgt, durch monatliche
+Aufrechnung in Höhe von 5 Prozent der maßgebenden Regelbedarfsstufe
+getilgt.
+
+(3) Bedarfe für Unterkunft und Heizung sind auf Antrag der
 leistungsberechtigten Person durch Direktzahlung an den Vermieter oder
-andere Empfangsberechtigte zu decken. Direktzahlungen an den Vermieter
-oder andere Empfangsberechtigte sollen erfolgen, wenn die
-zweckentsprechende Verwendung durch die leistungsberechtigte Person
-nicht sichergestellt ist. Das ist insbesondere der Fall, wenn
+andere Empfangsberechtigte zu decken; § 43a Absatz 3 gilt
+entsprechend. Direktzahlungen an den Vermieter oder andere
+Empfangsberechtigte sollen erfolgen, wenn die zweckentsprechende
+Verwendung durch die leistungsberechtigte Person nicht sichergestellt
+ist. Das ist insbesondere der Fall, wenn
 
 1.  Mietrückstände bestehen, die zu einer außerordentlichen Kündigung des
     Mietverhältnisses berechtigen,
@@ -3069,7 +3234,7 @@ nicht sichergestellt ist. Das ist insbesondere der Fall, wenn
 
 3.  konkrete Anhaltspunkte für ein krankheits- oder suchtbedingtes
     Unvermögen der leistungsberechtigten Person bestehen, die Mittel
-    zweckentsprechend zu verwenden, oder
+    zweckentsprechend zu verwenden oder
 
 
 4.  konkrete Anhaltspunkte dafür bestehen, dass die im
@@ -3078,71 +3243,22 @@ nicht sichergestellt ist. Das ist insbesondere der Fall, wenn
 
 
 
-Werden die Bedarfe für die Unterkunft und Heizung durch Direktzahlung
-an den Vermieter oder andere Empfangsberechtigte gedeckt, hat der
-Träger der Sozialhilfe die leistungsberechtigte Person darüber
-schriftlich zu unterrichten.
-
-(2) Übersteigen die Aufwendungen für die Unterkunft den der
-Besonderheit des Einzelfalles angemessenen Umfang, sind sie insoweit
-als Bedarf der Personen, deren Einkommen und Vermögen nach § 27 Absatz
-2 zu berücksichtigen sind, anzuerkennen. Satz 1 gilt so lange, als es
-diesen Personen nicht möglich oder nicht zuzumuten ist, durch einen
-Wohnungswechsel, durch Vermieten oder auf andere Weise die
-Aufwendungen zu senken, in der Regel jedoch längstens für sechs
-Monate. Vor Abschluss eines Vertrages über eine neue Unterkunft haben
-Leistungsberechtigte den dort zuständigen Träger der Sozialhilfe über
-die nach den Sätzen 1 und 2 maßgeblichen Umstände in Kenntnis zu
-setzen. Sind die Aufwendungen für die neue Unterkunft unangemessen
-hoch, ist der Träger der Sozialhilfe nur zur Übernahme angemessener
-Aufwendungen verpflichtet, es sei denn, er hat den darüber
-hinausgehenden Aufwendungen vorher zugestimmt.
-Wohnungsbeschaffungskosten, Mietkautionen und Umzugskosten können bei
-vorheriger Zustimmung übernommen werden; Mietkautionen sollen als
-Darlehen erbracht werden. Eine Zustimmung soll erteilt werden, wenn
-der Umzug durch den Träger der Sozialhilfe veranlasst wird oder aus
-anderen Gründen notwendig ist und wenn ohne die Zustimmung eine
-Unterkunft in einem angemessenen Zeitraum nicht gefunden werden kann.
-
-(3) Der Träger der Sozialhilfe kann für seinen Bereich die Bedarfe für
-die Unterkunft durch eine monatliche Pauschale festsetzen, wenn auf
-dem örtlichen Wohnungsmarkt hinreichend angemessener freier Wohnraum
-verfügbar und in Einzelfällen die Pauschalierung nicht unzumutbar ist.
-Bei der Bemessung der Pauschale sind die tatsächlichen Gegebenheiten
-des örtlichen Wohnungsmarkts, der örtliche Mietspiegel sowie die
-familiären Verhältnisse der Leistungsberechtigten zu berücksichtigen.
-Absatz 2 Satz 1 gilt entsprechend.
-
-(4) Bedarfe für Heizung und zentrale Warmwasserversorgung werden in
-tatsächlicher Höhe anerkannt, soweit sie angemessen sind. Die Bedarfe
-können durch eine monatliche Pauschale festgesetzt werden. Bei der
-Bemessung der Pauschale sind die persönlichen und familiären
-Verhältnisse, die Größe und Beschaffenheit der Wohnung, die
-vorhandenen Heizmöglichkeiten und die örtlichen Gegebenheiten zu
-berücksichtigen.
-
-(5) Leben Leistungsberechtigte in einer Unterkunft nach § 42a Absatz 2
-Satz 1 Nummer 2 und Satz 3, sind Aufwendungen für Unterkunft und
-Heizung nach § 42a Absatz 5 und 6 anzuerkennen. Leben
-Leistungsberechtigte in einer sonstigen Unterkunft nach § 42a Absatz 2
-Satz 1 Nummer 3 sind Aufwendungen für Unterkunft und Heizung nach §
-42a Absatz 7 anzuerkennen.
 
 
-#### § 35a Satzung
+#### § 35b Satzung
 
 Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a
 bis 22c des Zweiten Buches erlassen, so gilt sie für die Höhe der
-anzuerkennenden Bedarfe für die Unterkunft nach § 35 Absatz 1 und 2
-des zuständigen Trägers der Sozialhilfe entsprechend, sofern darin
-nach § 22b Absatz 3 des Zweiten Buches Sonderregelungen für Personen
-mit einem besonderen Bedarf für Unterkunft und Heizung getroffen
-werden und dabei zusätzlich auch die Bedarfe älterer Menschen
-berücksichtigt werden. Dies gilt auch für die Höhe der anzuerkennenden
-Bedarfe für Heizung nach § 35 Absatz 4, soweit die Satzung
-Bestimmungen nach § 22b Absatz 1 Satz 2 und 3 des Zweiten Buches
-enthält. In Fällen der Sätze 1 und 2 ist § 35 Absatz 3 und 4 Satz 2
-und 3 nicht anzuwenden.
+anzuerkennenden Bedarfe für die Unterkunft nach § 35 Absatz 1 Satz 1,
+Absatz 3 und § 35a Absatz 2 des zuständigen Trägers der Sozialhilfe
+entsprechend, sofern darin nach § 22b Absatz 3 des Zweiten Buches
+Sonderregelungen für Personen mit einem besonderen Bedarf für
+Unterkunft und Heizung getroffen werden und dabei zusätzlich auch die
+Bedarfe älterer Menschen berücksichtigt werden. Dies gilt auch für die
+Höhe der anzuerkennenden Bedarfe für Heizung nach § 35 Absatz 5,
+soweit die Satzung Bestimmungen nach § 22b Absatz 1 Satz 2 und 3 des
+Zweiten Buches enthält. In Fällen der Sätze 1 und 2 ist § 35 Absatz 4
+und 5 Satz 2 und 3 nicht anzuwenden.
 
 
 #### § 36 Sonstige Hilfen zur Sicherung der Unterkunft
@@ -3294,18 +3410,6 @@ Hilfe zum Lebensunterhalt zu gewähren. Satz 1 gilt nicht
 
 
 
-#### § 39a Einschränkung der Leistung
-
-(1) Lehnen Leistungsberechtigte entgegen ihrer Verpflichtung die
-Aufnahme einer Tätigkeit oder die Teilnahme an einer erforderlichen
-Vorbereitung ab, vermindert sich die maßgebende Regelbedarfsstufe in
-einer ersten Stufe um bis zu 25 vom Hundert, bei wiederholter
-Ablehnung in weiteren Stufen um jeweils bis zu 25 vom Hundert. Die
-Leistungsberechtigten sind vorher entsprechend zu belehren.
-
-(2) § 26 Abs. 1 Satz 2 findet Anwendung.
-
-
 ### Siebter Abschnitt - Verordnungsermächtigung
 
 
@@ -3316,9 +3420,9 @@ Das Bundesministerium für Arbeit und Soziales hat im Einvernehmen mit
 dem Bundesministerium der Finanzen durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
-1.  den für die Fortschreibung der Regelbedarfsstufen nach § 28a und für
+1.  die für die Fortschreibung der Regelbedarfsstufen nach § 28a und für
     die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1
-    maßgeblichen Prozentsatz zu bestimmen und
+    maßgeblichen Prozentsätze zu bestimmen und
 
 
 2.  die Anlagen zu den §§ 28 und 34 um die sich durch die Fortschreibung
@@ -3328,9 +3432,13 @@ Zustimmung des Bundesrates
 
 
 
-Der Vomhundertsatz nach Satz 1 Nummer 1 ist auf zwei Dezimalstellen zu
-berechnen; die zweite Dezimalstelle ist um eins zu erhöhen, wenn sich
-in der dritten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Die
+Der Prozentsatz nach Satz 1 Nummer 1 in Verbindung mit § 28a Absatz 3
+ist auf zwei Dezimalstellen zu berechnen; die zweite Dezimalstelle ist
+um eins zu erhöhen, wenn sich in der dritten Dezimalstelle eine der
+Ziffern von 5 bis 9 ergibt. Der Prozentsatz nach Satz 1 Nummer 1 in
+Verbindung mit § 28a Absatz 4 ist auf eine Dezimalstelle zu berechnen;
+die erste Dezimalstelle ist um eins zu erhöhen, wenn sich in der
+zweiten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Die
 Bestimmungen nach Satz 1 erfolgen bis spätestens zum Ablauf des 31.
 Oktober des jeweiligen Jahres.
 
@@ -3568,7 +3676,8 @@ Die Bedarfe nach diesem Kapitel umfassen:
 (1) Für Leistungsberechtigte sind angemessene Bedarfe für Unterkunft
 und Heizung nach dem Vierten Abschnitt des Dritten Kapitels sowie nach
 § 42 Nummer 4 Buchstabe b anzuerkennen, soweit in den folgenden
-Absätzen nichts Abweichendes geregelt ist.
+Absätzen nichts Abweichendes geregelt ist. § 35 Absatz 1 Satz 2 bis 6
+gilt nicht in den Fällen der Absätze 3 und 5 bis 7.
 
 (2) Für die Anerkennung von Bedarfen für Unterkunft und Heizung bei
 
@@ -3882,10 +3991,10 @@ für einen Bewilligungszeitraum von zwölf Kalendermonaten bewilligt.
 Sofern über den Leistungsanspruch nach § 44a vorläufig entschieden
 wird, soll der Bewilligungszeitraum nach Satz 1 auf höchstens sechs
 Monate verkürzt werden. Bei einer Bewilligung nach dem Bezug von
-Arbeitslosengeld II oder Sozialgeld nach dem Zweiten Buch, der mit
-Erreichen der Altersgrenze nach § 7a des Zweiten Buches endet, beginnt
-der Bewilligungszeitraum erst mit dem Ersten des Monats, der auf den
-sich nach § 7a des Zweiten Buches ergebenden Monat folgt.
+Bürgergeld nach dem Zweiten Buch, der mit Erreichen der Altersgrenze
+nach § 7a des Zweiten Buches endet, beginnt der Bewilligungszeitraum
+erst mit dem Ersten des Monats, der auf den sich nach § 7a des Zweiten
+Buches ergebenden Monat folgt.
 
 (4) Leistungen zur Deckung von wiederkehrenden Bedarfen nach § 42
 Nummer 1, 2 und 4 werden monatlich im Voraus erbracht. Für Leistungen
@@ -4097,12 +4206,14 @@ legen.
 
 (2) Die durchschnittliche Warmmiete ist jährlich bis spätestens zum 1.
 August eines Kalenderjahres neu zu ermitteln. Zur Neuermittlung ist
-der Durchschnitt aus den anerkannten angemessenen Bedarfen für
-Unterkunft und Heizung in einem vom zuständigen Träger festzulegenden
-Zwölfmonatszeitraum zu bilden, sofern dieser nicht von einem Land
-einheitlich für alle zuständigen Träger festgelegt worden ist. Bei der
-Ermittlung bleiben die anerkannten Bedarfe derjenigen
-Leistungsberechtigten außer Betracht, für die
+zunächst jeweils gesondert der Durchschnitt aus den anerkannten
+angemessenen Bedarfen für Unterkunft und der Durchschnitt aus den
+anerkannten angemessenen Bedarfen für Heizung im Zeitraum 1. Oktober
+des Vorvorjahres bis 30. Juni des Vorjahres zu bilden. Im zweiten
+Schritt sind die beiden Durchschnittswerte zu addieren und ergeben in
+der Summe die durchschnittliche Warmmiete. Bei der Ermittlung bleiben
+die anerkannten Bedarfe derjenigen Leistungsberechtigten außer
+Betracht, für die
 
 1.  keine Aufwendungen für Unterkunft und Heizung,
 
@@ -4110,7 +4221,7 @@ Leistungsberechtigten außer Betracht, für die
 2.  Aufwendungen für selbstgenutztes Wohneigentum,
 
 
-3.  Aufwendungen nach § 35 Absatz 2 Satz 1
+3.  Aufwendungen nach § 35 Absatz 2 Satz 3 und Absatz 3 Satz 1
 
 
 
@@ -5046,13 +5157,13 @@ Entlastungsbetrag ist zweckgebunden einzusetzen zur
 
 ### § 64j Digitale Pflegeanwendungen
 
-(1) Pflegebedürftige haben Anspruch auf eine notwendige Versorgung mit
-Anwendungen, die wesentlich auf digitalen Technologien beruhen, die
-von den Pflegebedürftigen oder in der Interaktion von
-Pflegebedürftigen, Angehörigen und zugelassenen ambulanten
-Pflegeeinrichtungen genutzt werden, um insbesondere Beeinträchtigungen
+(1) Pflegebedürftige haben Anspruch auf Versorgung mit Anwendungen,
+die wesentlich auf digitalen Technologien beruhen und von den
+Pflegebedürftigen oder in der Interaktion von Pflegebedürftigen mit
+Angehörigen, sonstigen ehrenamtlich Pflegenden oder zugelassenen
+ambulanten Pflegeeinrichtungen genutzt werden, um Beeinträchtigungen
 der Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen zu
-mindern und einer Verschlimmerung der Pflegebedürftigkeit
+mindern oder einer Verschlimmerung der Pflegebedürftigkeit
 entgegenzuwirken (digitale Pflegeanwendungen).
 
 (2) Der Anspruch umfasst nur solche digitalen Pflegeanwendungen, die
@@ -5853,12 +5964,52 @@ Nicht zum Einkommen gehören
 
 3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
     an Leben sowie an Körper oder Gesundheit bis zur Höhe der
-    vergleichbaren Grundrente nach dem Bundesversorgungsgesetz und
+    vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
 
 
 4.  Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs
     kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des
-    Einkommensteuergesetzes genannten Betrag.
+    Einkommensteuergesetzes genannten Betrag,
+
+
+5.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes,
+
+
+6.  Einnahmen von Schülerinnen und Schülern allgemein- oder
+    berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet
+    haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden;
+    dies gilt nicht für Schülerinnen und Schüler, die einen Anspruch auf
+    Ausbildungsvergütung haben,
+
+
+7.  ein Betrag von insgesamt 520 Euro monatlich bei Leistungsberechtigten,
+    die das 25. Lebensjahr noch nicht vollendet haben, und die
+
+    a)  eine nach dem Bundesausbildungsförderungsgesetz dem Grunde nach
+        förderungsfähige Ausbildung durchführen,
+
+
+    b)  eine nach § 57 Absatz 1 des Dritten Buches dem Grunde nach
+        förderungsfähige Ausbildung, eine nach § 51 des Dritten Buches dem
+        Grunde nach förderungsfähige berufsvorbereitenden Bildungsmaßnahme
+        oder eine nach § 54a des Dritten Buches geförderte
+        Einstiegsqualifizierung durchführen oder
+
+
+    c)  als Schülerinnen und Schüler allgemein- oder berufsbildender Schulen
+        während der Schulzeit erwerbstätig sind,
+
+
+
+
+
+8.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
+    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten und
+
+
+9.  Erbschaften.
 
 
 
@@ -5891,15 +6042,14 @@ benötigt wird.
 
 
 Erhält eine leistungsberechtigte Person aus einer Tätigkeit Bezüge
-oder Einnahmen, die nach § 3 Nummer 12, 26 oder 26a des
-Einkommensteuergesetzes steuerfrei sind oder die als Taschengeld nach
-§ 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder nach § 2 Absatz
-1 Nummer 4 des Jugendfreiwilligendienstegesetzes gezahlt werden, ist
-abweichend von Satz 1 Nummer 2 bis 4 und den Absätzen 3 und 6 ein
-Betrag von bis zu 250 Euro monatlich nicht als Einkommen zu
-berücksichtigen. Soweit ein Betrag nach Satz 2 in Anspruch genommen
-wird, gelten die Beträge nach Absatz 3 Satz 1 zweiter Halbsatz und
-nach Absatz 6 Satz 1 zweiter Halbsatz insoweit als ausgeschöpft.
+oder Einnahmen, die als Taschengeld nach § 2 Nummer 4 des
+Bundesfreiwilligendienstgesetzes oder nach § 2 Absatz 1 Nummer 4 des
+Jugendfreiwilligendienstgesetzes gezahlt werden, ist abweichend von
+Satz 1 Nummer 2 bis 4 und den Absätzen 3 und 6 ein Betrag von bis zu
+250 Euro monatlich nicht als Einkommen zu berücksichtigen. Soweit ein
+Betrag nach Satz 2 in Anspruch genommen wird, gelten die Beträge nach
+Absatz 3 Satz 1 zweiter Halbsatz und nach Absatz 6 Satz 1 zweiter
+Halbsatz insoweit als ausgeschöpft.
 
 (3) Bei der Hilfe zum Lebensunterhalt und Grundsicherung im Alter und
 bei Erwerbsminderung ist ferner ein Betrag in Höhe von 30 vom Hundert
@@ -6258,7 +6408,10 @@ oder von der Verwertung
 
 
 9.  kleinerer Barbeträge oder sonstiger Geldwerte; dabei ist eine
-    besondere Notlage der nachfragenden Person zu berücksichtigen.
+    besondere Notlage der nachfragenden Person zu berücksichtigen,
+
+
+10. eines angemessenen Kraftfahrzeuges.
 
 
 
@@ -7804,14 +7957,14 @@ sichergestellt wurde, gilt § 3a des Bundessozialhilfegesetzes in der
 am 26. Juni 1996 geltenden Fassung.
 
 
-### § 131 Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel
+### § 131 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
 
-Die Erhebungen nach § 121 Nummer 2 in Verbindung mit § 122 Absatz 4 in
-der am 31. Dezember 2014 geltenden Fassung über die Ausgaben und
-Einnahmen der nach Landesrecht für die Ausführung von Geldleistungen
-nach dem Vierten Kapitel zuständigen Träger sind dabei auch in den
-Berichtsjahren 2015 und 2016 durchzuführen. Die §§ 124 bis 127 sind in
-der am 31. Dezember 2014 geltenden Fassung anzuwenden.
+(1) Abweichend von § 2 sind Leistungsberechtigte für am 31. Dezember
+2022 laufende Bewilligungszeiträume oder Bewilligungszeiträume, die in
+der Zeit vom 1. Januar 2023 bis 30. Juni 2023 beginnen, nicht
+verpflichtet, Wohngeld nach dem Wohngeldgesetz in Anspruch zu nehmen.
+
+(2) § 95 Satz 1 findet in den Fällen nach Absatz 1 keine Anwendung.
 
 
 ### § 132 Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland
@@ -7913,13 +8066,17 @@ Satz 1 findet Anwendung, solange die leistungsberechtigte Person mit
 mehreren Personen in derselben Wohnung lebt.
 
 
-### § 134 Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6
+### § 134 Fortschreibung der Regelbedarfsstufen zum 1. Januar 2023
 
-Abweichend von § 28a ist die Regelbedarfsstufe 6 der Anlage zu § 28
-nicht mit dem sich nach der Verordnung nach § 40 ergebenden
-Prozentsatz fortzuschreiben, solange sich durch die entsprechende
-Fortschreibung des Betrages nach § 8 Absatz 1 Satz 1 Nummer 6 des
-Regelbedarfs-Ermittlungsgesetzes kein höherer Betrag ergeben würde.
+(1) Die Veränderungsrate für die Fortschreibung der Regelbedarfsstufen
+nach § 28a Absatz 3 zum 1. Januar 2023 beträgt 4,54 Prozent. Die
+Veränderungsrate für die Fortschreibung der Regelbedarfsstufen nach §
+28a Absatz 4 zum 1. Januar 2023 beträgt 6,9 Prozent. Die Anlage zu §
+28 ist zum 1. Januar 2023 zu ergänzen.
+
+(2) Die Veränderungsrate für die Fortschreibung der Bedarfe nach § 34
+Absatz 3 für das Jahr 2023 beträgt 11,75 Prozent. Die Anlage zu § 34
+ist zum 1. Januar 2023 zu ergänzen.
 
 
 ### § 135 Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes
@@ -8154,108 +8311,15 @@ Unterbringung ergibt, durch die diese die Voraussetzungen einer
 Wohnung nach § 42a Absatz 2 Satz 1 Nummer 1 und Satz 2 erfüllt.
 
 
-### § 140 Übergangsregelung zur Verhinderung einer Zahlungslücke
+### § 140 Übergangsregelung für die Bedarfe für Unterkunft während der Karenzzeit
 
-(1) Leistungsberechtigte,
+(1) Zeiten eines Leistungsbezugs bis zum 31. Dezember 2022 bleiben bei
+der Karenzzeit nach § 35 Absatz 1 Satz 2 unberücksichtigt.
 
-1.  die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel und ab
-    dem 1. Januar 2020 Leistungen nach Teil 2 des Neunten Buches beziehen,
-
-
-2.  die nach dem Dritten oder Vierten Kapitel leistungsberechtigt sind und
-    deren notwendiger Lebensunterhalt sich am 31. Dezember 2019 nach § 27b
-    ergibt und für die sich ab dem 1. Januar 2020 der notwendige
-    Lebensunterhalt
-
-    a)  bei einer Leistungsberechtigung nach dem Dritten Kapitel nach § 27a
-        ergibt,
-
-
-    b)  bei einer Leistungsberechtigung nach dem Vierten Kapitel nach § 42
-        Nummer 1 bis 3, 4 Buchstabe a und Nummer 5 ergibt und
-
-
-
-
-
-3.  denen ab dem Monat Januar 2020 erstmals eine Rente aus der
-    gesetzlichen Rentenversicherung zufließt,
-
-
-
-haben abweichend von § 82 die zufließende Rente im Umstellungsmonat
-nicht für ihren notwendigen Lebensunterhalt nach dem Dritten oder
-Vierten Kapitel einzusetzen. Umstellungsmonat nach Satz 1 ist der
-Kalendermonat im ersten Quartal des Jahres 2020, in dem die Rente der
-leistungsberechtigten Person erstmals zufließt. Die Sätze 1 und 2
-gelten entsprechend für alle laufend gezahlten und am Monatsende
-zufließenden Einkommen.
-
-(2) Personen,
-
-1.  die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel und ab
-    dem 1. Januar 2020 Leistungen nach Teil 2 des Neunten Buches beziehen,
-
-
-2.  die ihren sich am 31. Dezember 2019 nach § 27b ergebenden notwendigen
-    Lebensunterhalt nach dem Dritten oder Vierten Kapitel ebenso aus
-    eigenen Mitteln bestreiten können wie ihren sich ab dem 1. Januar 2020
-
-    a)  bei einer Leistungsberechtigung nach dem Dritten Kapitel nach § 27a,
-
-
-    b)  bei einer Leistungsberechtigung nach dem Vierten Kapitel nach § 42
-        Nummer 1 bis 3, 4 Buchstabe a und Nummer 5
-
-
-
-    ergebenden notwendigen Lebensunterhalt und
-
-
-3.  denen ab dem Monat Januar 2020 eine Rente aus der gesetzlichen
-    Rentenversicherung zufließt,
-
-
-
-erhalten im Umstellungsmonat einen Zuschuss. Für den Umstellungsmonat
-gilt Absatz 1 Satz 2 entsprechend; dies gilt auch, sofern die Rente
-bereits vor Januar 2020 zugeflossen ist und letztmalig für Dezember
-2019 als eigene Mittel für den Lebensunterhalt einzusetzen war. Die
-Höhe des Zuschusses ergibt sich aus den zu Beginn des
-Umstellungsmonats nicht gedeckten Aufwendungen für den Lebensunterhalt
-nach Satz 1 Nummer 2; die Höhe des Zuschusses ist begrenzt auf die
-Höhe der zufließenden Rente. Der Zuschuss nach den Sätzen 1 bis 3 gilt
-
-1.  als Geldleistung nach dem Vierten Kapitel für Personen,
-
-    a)  die unabhängig von der jeweiligen Arbeitsmarktlage voll
-        erwerbsgemindert im Sinne des § 43 Absatz 2 des Sechsten Buches sind
-        und bei denen unwahrscheinlich ist, dass die volle Erwerbsminderung
-        behoben werden kann oder
-
-
-    b)  die in einer Werkstatt für behinderte Menschen nach § 56 des Neunten
-        Buches oder bei einem anderen Leistungsanbieter nach § 60 des Neunten
-        Buches tätig sind oder
-
-
-    c)  die die Altersgrenze nach § 41 Absatz 2 erreicht oder überschritten
-        haben,
-
-
-
-
-
-2.  als Leistung nach dem Dritten Kapitel für Personen, bei denen die
-    Voraussetzungen der Nummer 1 nicht vorliegen.
-
-
-
-Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1
-nicht anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für alle
-laufend gezahlten und am Monatsende zufließenden Einkommen. Der
-Zuschuss nach den Sätzen 1 bis 3 gilt nicht als Leistung nach § 7
-Absatz 1 Satz 1 Nummer 5 und 6 des Wohngeldgesetzes.
+(2) § 35 Absatz 1 Satz 2 bis 6 gilt nicht in den Fällen, in denen in
+einem der vorangegangenen Bewilligungszeiträume für die aktuell
+bewohnte Unterkunft die angemessenen und nicht die tatsächlichen
+Aufwendungen als Bedarf anerkannt wurden.
 
 
 ### § 141 Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
@@ -8330,22 +8394,106 @@ oder Versorgungseinrichtungen nachgewiesen ist, dass die
 Voraussetzungen für die Einräumung des Freibetrages vorliegen.
 
 
-### § 144 Einmalzahlung aus Anlass der COVID-19-Pandemie
+### § 144 Einmalzahlung für den Monat Juli 2022
 
-Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach dem
-Dritten oder Vierten Kapitel gezahlt werden und deren Regelsatz sich
-nach der Regelbedarfsstufe 1, 2 oder 3 der Anlage zu § 28 ergibt,
-erhalten für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum
-Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden
-Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro.
-Leistungsberechtigten, für die die Regelbedarfsstufe 3 gilt, ist die
-Leistung nach Satz 1 zusammen mit dem Barbetrag nach § 27b Absatz 3
-oder § 27c Absatz 3 auszuzahlen; die Einmalzahlungen für
+Leistungsberechtigte, denen für den Monat Juli 2022 Leistungen nach
+dem Dritten oder Vierten Kapitel gezahlt werden und deren Regelsatz
+sich nach der Regelbedarfsstufe 1, 2 oder 3 der Anlage zu § 28 ergibt,
+erhalten für diesen Monat zum Ausgleich der mit der COVID-19-Pandemie
+in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe
+von 200 Euro. Leistungsberechtigten, für die die Regelbedarfsstufe 3
+gilt, ist die Leistung nach Satz 1 zusammen mit dem Barbetrag nach §
+27b Absatz 3 oder § 27c Absatz 3 auszuzahlen; die Einmalzahlungen für
 Leistungsberechtigte nach dem Vierten Kapitel sind Bruttoausgaben nach
-§ 46a Absatz 2 Satz 1. Die Sätze 1 und 2 gelten nur, sofern bei
-Leistungsberechtigten kein für sie gewährtes und an sie unmittelbar
-ausgezahltes oder weitergeleitetes Kindergeld als Einkommen
-berücksichtigt wird.
+§ 46a Absatz 2 Satz 1.
+
+
+### § 145 Sofortzuschlag
+
+(1) Minderjährige, die einen Anspruch auf Leistungen nach dem Dritten
+Kapitel haben, dem ein Regelsatz nach der Regelbedarfsstufe 4, 5 oder
+6 zugrunde liegt, haben Anspruch auf einen monatlichen Sofortzuschlag
+in Höhe von 20 Euro. Anspruch auf den Sofortzuschlag besteht für
+Minderjährige auch dann, wenn sie
+
+1.  einen Anspruch auf Leistungen nach § 34 haben oder
+
+
+2.  einen Anspruch nach Satz 1 oder Nummer 1 nur deshalb nicht haben, weil
+    Kindergeld nach § 82 Absatz 1 Satz 4 berücksichtigt wird.
+
+
+
+Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
+
+(2) Wird die Entscheidung über die Bewilligung der Leistungen nach
+Absatz 1 Satz 1 und 2 Nummer 1 rückwirkend geändert oder fällt diese
+rückwirkend weg, erfolgt keine rückwirkende Aufhebung der Bewilligung
+und keine Aufhebung des Sofortzuschlages. Dies gilt auch, wenn sich
+nachträglich ergibt, dass innerhalb des Bewilligungszeitraums, für den
+der Sofortzuschlag bereits festgesetzt ist, kein Anspruch auf
+Leistungen nach Absatz 1 Satz 1 und 2 Nummer 1 besteht.
+
+(3) § 17 Absatz 1 Satz 2 gilt auch für den Anspruch auf den
+Sofortzuschlag.
+
+(4) Die für die Ausführung der Absätze 1 bis 3 zuständigen Träger
+werden nach Landesrecht bestimmt. Die §§ 3, 6 und 7 sind nicht
+anzuwenden.
+
+
+### § 146 Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung
+
+(1) Für Ausländerinnen und Ausländer, die gemäß § 49 des
+Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind und
+denen eine Aufenthaltserlaubnis nach § 24 Absatz 1 des
+Aufenthaltsgesetzes erteilt wurde oder denen eine entsprechende
+Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3
+des Aufenthaltsgesetzes für einen solchen Aufenthaltstitel ausgestellt
+wurde, gilt der Tatbestand von § 23 Absatz 1 Satz 4 als erfüllt. § 23
+Absatz 3 findet in diesen Fällen keine Anwendung. Der Leistungsbeginn
+richtet sich für Leistungen nach dem Vierten Kapitel nach § 44 und im
+Übrigen nach § 18, frühestens jedoch ab dem Folgemonat, in dem die
+Aufenthaltserlaubnis erteilt oder die Fiktionsbescheinigung
+ausgestellt wurde.
+
+(2) Absatz 1 gilt auch für Personen, die gemäß § 49 des
+Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind, eine
+Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes
+beantragt haben und denen eine entsprechende Fiktionsbescheinigung
+nach § 81 Absatz 5 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes
+ausgestellt worden ist.
+
+(3) Die Absätze 1 und 2 sind bei Personen, denen nach dem 24. Februar
+2022 und vor dem 1. Juni 2022 eine Aufenthaltserlaubnis nach § 24
+Absatz 1 des Aufenthaltsgesetzes erteilt oder eine entsprechende
+Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3
+oder Absatz 4 des Aufenthaltsgesetzes ausgestellt wurde, mit der
+Maßgabe anzuwenden, dass anstelle der erkennungsdienstlichen
+Behandlung die Speicherung der Daten nach § 3 Absatz 1 des AZR-
+Gesetzes erfolgt ist. Eine nicht durchgeführte erkennungsdienstliche
+Behandlung nach § 49 des Aufenthaltsgesetzes oder nach § 16 des
+Asylgesetzes ist in diesen Fällen durch die zuständige Behörde bis zum
+Ablauf des 31. Oktober 2022 nachzuholen.
+
+(4) Das Erfordernis des Nachholens einer erkennungsdienstlichen
+Behandlung nach Absatz 3 gilt nicht, soweit eine erkennungsdienstliche
+Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
+
+(5) In der Zeit vom 1. Juni 2022 bis einschließlich 31. August 2022
+gilt der Antrag auf Leistungen nach diesem Buch für
+Leistungsberechtigte nach § 18 des Asylbewerberleistungsgesetzes als
+gestellt. Die Leistungen nach diesem Buch sind gegenüber den
+Leistungen nach § 18 des Asylbewerberleistungsgesetzes vorrangig. Wenn
+die Träger der Leistungen nach dem Dritten oder Vierten Kapitel
+Leistungsberechtigten nach § 18 des Asylbewerberleistungsgesetzes
+laufende Leistungen zur Sicherung des Lebensunterhalts bewilligt
+haben, haben sie den Zeitpunkt der Aufnahme der laufenden
+Leistungsgewährung den für die Durchführung des
+Asylbewerberleistungsgesetzes zuständigen Behörden unverzüglich
+anzuzeigen. Der für die Durchführung des Asylbewerberleistungsgesetzes
+zuständigen Behörde stehen Erstattungsansprüche nach Maßgabe des § 104
+des Zehnten Buches zu.
 
 (zu § 28)
 
@@ -8553,6 +8701,21 @@ berücksichtigt wird.
     *   285
 
 
+*    *   1. Januar 2023
+
+    *   502
+
+    *   451
+
+    *   402
+
+    *   420
+
+    *   348
+
+    *   318
+
+
 
 
 Regelbedarfsstufe 1:
@@ -8631,9 +8794,16 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
 *    *   2022
 
-    *   104
+    *   104 Euro
 
-    *   52
+    *   52 Euro
+
+
+*    *   2023
+
+    *   116 Euro
+
+    *   58 Euro
 
 
 

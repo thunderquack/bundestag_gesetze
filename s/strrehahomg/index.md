@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2443
 
+Geändert durch
+:   Art. 5 G v. 11.7.2022 I 1082
+
 
 ## § 1 Aufhebung von Urteilen
 
@@ -167,10 +170,9 @@ Sozialleistungen angerechnet.
 
 ## § 6 Entschädigungsverfahren beim Bundesamt für Justiz
 
-(1) Der Anspruch auf Entschädigung ist innerhalb von fünf Jahren ab
-dem 22. Juli 2017 beim Bundesamt für Justiz geltend zu machen. Das
-Bundesamt für Justiz setzt die Höhe der Entschädigung durch
-Verwaltungsakt fest.
+(1) Der Anspruch auf Entschädigung ist bis einschließlich 21. Juli
+2027 beim Bundesamt für Justiz geltend zu machen. Das Bundesamt für
+Justiz setzt die Höhe der Entschädigung durch Verwaltungsakt fest.
 
 (2) Antragsberechtigt ist die rehabilitierte Person.
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2564
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.11.2021 I 4906
-
-Mittelbare änderung durch
-:   Art. 19 G v. 22.11.2021 I 4906 ist berücksichtigt
+:   Art. 3 G v. 19.12.2022 I 2510
 
 
 ## § 1 Ziel des Gesetzes
@@ -84,11 +81,9 @@ frühzeitig erklären, ob sie oder er Familienpflegezeit in Anspruch
 nehmen wird; abweichend von Satz 1 muss die Ankündigung spätestens
 drei Monate vor Beginn der Familienpflegezeit erfolgen. Wird eine
 Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes
-nach einer Familienpflegezeit in Anspruch genommen, ist die
-Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes in
-unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen und
-dem Arbeitgeber spätestens acht Wochen vor Beginn der Freistellung
-nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes schriftlich
+nach einer Familienpflegezeit in Anspruch genommen, ist diese in
+unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen; sie
+ist dem Arbeitgeber spätestens acht Wochen vor Beginn schriftlich
 anzukündigen.
 
 (2) Arbeitgeber und Beschäftigte haben über die Verringerung und
@@ -116,6 +111,17 @@ unzumutbar, endet die Familienpflegezeit vier Wochen nach Eintritt der
 veränderten Umstände. Der Arbeitgeber ist hierüber unverzüglich zu
 unterrichten. Im Übrigen kann die Familienpflegezeit nur vorzeitig
 beendet werden, wenn der Arbeitgeber zustimmt.
+
+(5a) Beschäftigte von Arbeitgebern mit in der Regel 25 oder weniger
+Beschäftigten ausschließlich der zu ihrer Berufsbildung Beschäftigten
+können bei ihrem Arbeitgeber den Abschluss einer Vereinbarung über
+eine Familienpflegezeit nach § 2 Absatz 1 Satz 1 bis 3 oder eine
+Freistellung nach § 2 Absatz 5 Satz 1 beantragen. Der Arbeitgeber hat
+den Antrag nach Satz 1 innerhalb von vier Wochen nach Zugang zu
+beantworten. Eine Ablehnung des Antrags ist zu begründen. Wird eine
+Freistellung nach Satz 1 vereinbart, gelten § 2 Absatz 2 bis 4 sowie §
+2a Absatz 1 Satz 4 und 6 erster Halbsatz, Absatz 2 Satz 1, Absatz 3
+Satz 1, Absatz 4 und 5 entsprechend.
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für die Freistellung von
 der Arbeitsleistung nach § 2 Absatz 5.
@@ -154,10 +160,9 @@ Absatz 2 von 24 Monaten ab Beginn der ersten Freistellung nicht
 nach § 3 des Pflegezeitgesetzes gewährt das Bundesamt für Familie und
 zivilgesellschaftliche Aufgaben Beschäftigten auf Antrag ein in
 monatlichen Raten zu zahlendes zinsloses Darlehen nach Maßgabe der
-Absätze 2 bis 5. Der Anspruch gilt auch für alle Vereinbarungen über
-Freistellungen von der Arbeitsleistung, die die Voraussetzungen von §
-2 Absatz 1 Satz 1 bis 3 dieses Gesetzes oder des § 3 Absatz 1 Satz 1,
-Absatz 5 Satz 1 oder Absatz 6 Satz 1 des Pflegezeitgesetzes erfüllen.
+Absätze 2 bis 5. Der Anspruch gilt auch für Vereinbarungen über
+Freistellungen von der Arbeitsleistung nach § 2a Absatz 5a dieses
+Gesetzes.
 
 (2) Die monatlichen Darlehensraten werden in Höhe der Hälfte der
 Differenz zwischen den pauschalierten monatlichen Nettoentgelten vor
@@ -190,7 +195,7 @@ von Arbeitsentgelt in und die Entnahme von Arbeitsentgelt aus
 Wertguthaben nach § 7b des Vierten Buches Sozialgesetzbuch außer
 Betracht. Abweichend von Satz 6 bleiben auf Antrag für die Berechnung
 des durchschnittlichen Arbeitsentgelts je Arbeitsstunde in der Zeit
-vom 1. März 2020 bis zum Ablauf des 31. März 2022 auch Kalendermonate
+vom 1. März 2020 bis zum Ablauf des 30. April 2023 auch Kalendermonate
 mit einem aufgrund der COVID-19-Pandemie geringeren Entgelt
 unberücksichtigt.
 
@@ -552,43 +557,6 @@ für die Gewährung eines Darlehens nach § 3 Absatz 1 in Verbindung mit
 § 12 Absatz 1 Satz 1 bis einschließlich 31. Dezember 2014 vorlagen.
 
 
-## § 16 Sonderregelungen aus Anlass der COVID-19-Pandemie
+## § 16 (weggefallen)
 
-(1) Abweichend von § 2 Absatz 1 Satz 2 gilt, dass die wöchentliche
-Mindestarbeitszeit von 15 Wochenstunden vorübergehend unterschritten
-werden darf, längstens jedoch für die Dauer von einem Monat.
-
-(2) Abweichend von § 2a Absatz 1 Satz 1 gilt für Familienpflegezeit,
-die spätestens am 1. März 2022 beginnt, dass die Ankündigung gegenüber
-dem Arbeitgeber spätestens zehn Arbeitstage vor dem gewünschten Beginn
-in Textform erfolgen muss.
-
-(3) Abweichend von § 2a Absatz 1 Satz 4 muss sich die
-Familienpflegezeit nicht unmittelbar an die Freistellung nach § 3
-Absatz 1 oder Absatz 5 des Pflegezeitgesetzes anschließen, wenn der
-Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten
-nicht überschritten wird und die Familienpflegezeit spätestens mit
-Ablauf des 31. März 2022 endet. Die Ankündigung muss abweichend von §
-2a Absatz 1 Satz 5 spätestens zehn Tage vor Beginn der
-Familienpflegezeit erfolgen.
-
-(4) Abweichend von § 2a Absatz 1 Satz 6 muss sich die Freistellung
-nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nicht
-unmittelbar an die Familienpflegezeit anschließen, wenn der
-Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten
-nicht überschritten wird und die Pflegezeit spätestens mit Ablauf des
-31\. März 2022 endet. Die Inanspruchnahme ist dem Arbeitgeber
-spätestens zehn Tage vor Beginn der Freistellung nach § 3 Absatz 1
-oder Absatz 5 des Pflegezeitgesetzes in Textform anzukündigen.
-
-(5) Abweichend von § 2a Absatz 2 Satz 1 gilt, dass die Vereinbarung in
-Textform zu treffen ist.
-
-(6) Abweichend von § 2a Absatz 3 können Beschäftigte mit Zustimmung
-des Arbeitgebers nach einer beendeten Familienpflegezeit zur Pflege
-oder Betreuung desselben pflegebedürftigen Angehörigen
-Familienpflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer
-nach § 2 Absatz 1 in Anspruch nehmen, wenn die Gesamtdauer von 24
-Monaten nach § 2 Absatz 2 nicht überschritten wird und die
-Familienpflegezeit spätestens mit Ablauf des 31. März 2022 endet.
 

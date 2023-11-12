@@ -708,9 +708,9 @@ Der Bundesminister für Wirtschaft
         Läutermaterials erklären, Maschinen bedienen
 
     *
-    *
     *   1
 
+    *
 
 *    *   b)
 
