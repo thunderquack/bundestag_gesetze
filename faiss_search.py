@@ -14,7 +14,7 @@ model = faiss_indexing.model
 # Function to load FAISS indexes and corresponding data
 def load_faiss_indexes(directory_path):
     index = {}
-    datas = {}
+    texts = {}
     for faiss_name in os.listdir(directory_path):
         if faiss_name.endswith(".faiss"):
             jsonl_name = faiss_name[:-6]
@@ -23,12 +23,12 @@ def load_faiss_indexes(directory_path):
             jsonl_file = os.path.join(directory_path, jsonl_name)
 
             index[index_name] = faiss.read_index(index_file)
-            datas[index_name] = faiss_indexing.read_json_list(jsonl_file)
+            texts[index_name] = faiss_indexing.read_text_list(jsonl_file)
     
-    return index, datas
+    return index, texts
 
 # Load all FAISS indexes and data from the specified directory
-faiss_indexes, index_data = load_faiss_indexes('.')
+faiss_indexes, index_texts = load_faiss_indexes('.')
 
 # Function to search across all indexes
 def search_across_indexes(query_vector, k):
@@ -37,7 +37,8 @@ def search_across_indexes(query_vector, k):
         distances, indices = faiss_index.search(query_vector, k)
         for i, idx in enumerate(indices[0]):
             if idx != -1:  # Ignore invalid indices
-                result = index_data[index_name][idx]
+                text = index_texts[index_name][idx]
+                result = json.loads(text)
                 result['distance'] = float(distances[0][i])
                 combined_results.append(result)
     combined_results.sort(key=lambda x: x['distance'])
@@ -56,7 +57,7 @@ def search():
 
     if query:
         # Embed the query
-        vector = faiss_indexing.german_embedding(query)
+        vector = faiss_indexing.embedding(query)
         vector = vector.reshape(1, -1).astype('float32')
 
         # Search across all indexes
@@ -64,6 +65,7 @@ def search():
 
         # Pretty-print the result
         pretty_json = json.dumps(results, indent=4)
+        print(pretty_json)
         response = Response(pretty_json, content_type="application/json; charset=utf-8")
         return response
     else:
@@ -73,7 +75,7 @@ def search():
 if __name__ == '__main__':
     # Set up the argument parser
     parser = argparse.ArgumentParser(description='Run Flask app for FAISS indexing.')
-    parser.add_argument('--port', type=int, default=5000, help='Port to run the Flask app on.')
+    parser.add_argument('--port', type=int, default=5005, help='Port to run the Flask app on.')
     args = parser.parse_args()
     app.run(debug=False, port=args.port)
 

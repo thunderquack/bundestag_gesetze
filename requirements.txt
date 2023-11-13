@@ -1,9 +1,7 @@
 argparse
 faiss-cpu
 flask
-json
 numpy
-re
 requests
-time
 torch
+transformers
