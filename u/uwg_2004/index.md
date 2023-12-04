@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 24.6.2022 I 959
-
-Änderung durch
-:   Art. 13 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 8.10.2023 I Nr. 272
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des
 Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere

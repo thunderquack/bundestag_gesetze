@@ -533,11 +533,13 @@ Ausfuhrzollstelle zu gestellen.
 Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur
 Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments
 und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des
-Zollkodex der Union (ABl. L 343/1 vom 29.12.2015, S. 1) oder als
-Anmelder nach Artikel 170 der Verordnung (EU) Nr. 952/2013 Waren aus
-dem Zollgebiet der Europäischen Union befördern will, hat entsprechend
-den Fristen des Artikels 244 der Delegierten Verordnung (EU) 2015/2446
-eine der folgenden Anmeldungen abzugeben:
+Zollkodex der Union (ABl. L 343/1 vom 29.12.2015, S. 1), die zuletzt
+durch die Delegierte Verordnung (EU) 2023/398 (ABl. L 54 vom
+22\.2.2023, S. 1, ABl. L 56 I vom 23.2.2023, S. 7) geändert worden ist,
+oder als Anmelder nach Artikel 170 der Verordnung (EU) Nr. 952/2013
+Waren aus dem Zollgebiet der Europäischen Union befördern will, hat
+entsprechend den Fristen des Artikels 244 der Delegierten Verordnung
+(EU) 2015/2446 eine der folgenden Anmeldungen abzugeben:
 
 1.  eine Ausfuhranmeldung im Sinne des Artikels 5 Nummer 12 der Verordnung
     (EU) Nr. 952/2013 und des Artikels 221 Absatz 2 der
@@ -559,14 +561,8 @@ entsprechen:
 1.  der Artikel 162, 166, 167 und 182 der Verordnung (EU) Nr. 952/2013 und
 
 
-2.  des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU)
-    2016/341 der Kommission vom 17. Dezember 2015 zur Ergänzung der
-    Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates
-    hinsichtlich der Übergangsbestimmungen für bestimmte Vorschriften des
-    Zollkodex der Union, für den Fall, dass die entsprechenden
-    elektronischen Systeme noch nicht betriebsbereit sind, und zur
-    Änderung der Delegierten Verordnung (EU) 2015/2446 (ABl. L 69 vom
-    15\.3.2016, S. 1).
+2.  des Anhangs B Titel I Kapitel 3 Abschnitt 1 und 2 der Delegierten
+    Verordnung (EU) 2015/2446.
 
 
 
@@ -576,14 +572,16 @@ ausgenommen sind Fälle nach Artikel 158 Absatz 2 der Verordnung (EU)
 Nr. 952/2013 in Verbindung mit Artikel 136 Absatz 2, den Artikeln 137
 und 139 Absatz 2 sowie mit den Artikeln 140, 141 und 143 der
 Delegierten Verordnung (EU) 2015/2446. In der Anmeldung sind die
-Angaben gemäß Anhang 9 Anlage A und Anlage C1 sowie die Angaben nach
-den Feldern 8, 15a, 20, 22, 24, 29 und 34b der Anlage C1 der
-Delegierten Verordnung (EU) 2016/341 zu machen. In der
-Ausfuhranmeldung ist der Ausführer im Sinne des § 2 Absatz 2 des
-Außenwirtschaftsgesetzes oder des Artikels 2 Nummer 3 der Verordnung
-(EU) 2021/821 gesondert anzugeben, sofern er dem Ausführer nach
-Artikel 1 Nummer 19 der Delegierten Verordnung (EU) 2015/2446 nicht
-entspricht. Die Anmeldung ist mit Hilfe des elektronischen
+Angaben nach Anhang B Titel I Kapitel 3 Abschnitt 1 Spalte A1, A2 und
+Abschnitt 2 Spalte B1 sowie die Angaben zu den Datenelementen
+13 03 000 000, 14 01 000 000, 14 05 000 000, 14 06 000 000,
+16 10 000 000 sowie bei der Wiederausfuhr aus einem Zollager zu
+Datenelement 12 11 000 000 der Delegierten Verordnung (EU) 2015/2446
+zu machen. In der Anmeldung ist der Ausführer im Sinne des § 2 Absatz
+2 des Außenwirtschaftsgesetzes oder des Artikels 2 Nummer 3 der
+Verordnung (EU) 2021/821 gesondert anzugeben, sofern er dem Ausführer
+nach Artikel 1 Nummer 19 der Delegierten Verordnung (EU) 2015/2446
+nicht entspricht. Die Anmeldung ist mit Hilfe des elektronischen
 Ausfuhrverfahrens ATLAS oder über die Internetausfuhranmeldung Plus
 nach Maßgabe der jeweils geltenden Verfahrensanweisung für das
 elektronische Ausfuhrverfahren ATLAS, die das Bundesministerium der
@@ -638,14 +636,15 @@ lassen oder dort verladen oder verladen lassen.
 ##### § 15 Vereinfachte Zollanmeldung
 
 (1) Wenn ein Anmelder von der vereinfachten Zollanmeldung nach Artikel
-166 der Verordnung (EU) Nr. 952/2013 Gebrauch machen will, muss er bei
-der Ausfuhranmeldung oder bei der Wiederausfuhranmeldung mindestens
-die Angaben machen, die nach Anhang 9 Anlage A der Delegierten
-Verordnung (EU) 2016/341 für dieses Verfahren erforderlich sind. Bei
-Waren, für die Ausfuhrabgaben zu entrichten sind oder für die sonstige
-im Rahmen der gemeinsamen Agrarpolitik vorgesehene Maßnahmen gelten,
-hat der Anmelder darüber hinaus alle Angaben zu machen, die die
-Erhebung der Abgaben oder die Durchführung der Maßnahmen ermöglichen.
+166 der Verordnung (EU) Nr. 952/2013 Gebrauch machen will, muss er in
+der Ausfuhranmeldung oder in der Wiederausfuhranmeldung mindestens die
+Angaben machen, die nach Anhang B Titel I Kapitel 3 Abschnitt 1 Spalte
+A1 und A2 sowie Abschnitt 2 Spalte C1 der Delegierten Verordnung (EU)
+2015/2446 für dieses Verfahren erforderlich sind. Bei Waren, für die
+Ausfuhrabgaben zu entrichten sind oder für die sonstige im Rahmen der
+gemeinsamen Agrarpolitik vorgesehene Maßnahmen gelten, hat der
+Anmelder darüber hinaus alle Angaben zu machen, die die Erhebung der
+Abgaben oder die Durchführung der Maßnahmen ermöglichen.
 
 (2) Der Anmelder hat die vereinfachte Zollanmeldung innerhalb von 30
 Tagen nach ihrer Annahme bei der Zollstelle, die in der vereinfachten
@@ -845,9 +844,9 @@ der Ausgangszollstelle abzugeben. Die Ausnahmen von der Verpflichtung
 zur Abgabe einer Vorabanmeldung nach Artikel 245 der Delegierten
 Verordnung (EU) 2015/2446 sind zu berücksichtigen.
 
-(2) Die summarische Ausgangsanmeldung muss die Angaben gemäß Anhang 9
-Anlage A und Anlage C1 der Delegierten Verordnung (EU) 2016/341
-enthalten.
+(2) Die summarische Ausgangsanmeldung muss die Angaben nach Anhang B
+Titel I Kapitel 3 Abschnitt 1 Spalte A1 und A2 der Delegierten
+Verordnung (EU) 2015/2446 enthalten.
 
 (3) § 14 Absatz 4 gilt entsprechend.
 
@@ -862,8 +861,8 @@ Person, die gemäß Artikel 267 Absatz 2 der Verordnung (EU) Nr.
 dem Verbringen der Waren aus dem Zollgebiet der Union eine
 Wiederausfuhrmitteilung im Sinne von Artikel 5 Nummer 14 und Artikel
 274 der Verordnung (EU) Nr. 952/2013 entsprechend den Anforderungen
-des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU)
-2016/341 bei der Ausgangszollstelle abzugeben.
+des Anhangs B Titel I Kapitel 3 Abschnitt 1 Spalte A3 der Delegierten
+Verordnung (EU) 2015/2446 bei der Ausgangszollstelle abzugeben.
 
 (2) § 14 Absatz 4 gilt entsprechend.
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 32 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 6 G v. 21.11.2023 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -28,8 +31,8 @@ Bundesamt errichtet.
 unterstellt.
 
 (3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für
-Verkehr und digitale Infrastruktur. Es bestimmt den Dienstsitz des
-Kraftfahrt-Bundesamts.
+Digitales und Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-
+Bundesamts.
 
 
 ## § 2
@@ -143,8 +146,7 @@ Kraftfahrt-Bundesamts.
         Rechtsverordnung zu § 2 Nr. 4 des Fahrpersonalgesetzes,
 
 
-    e)  des Infrastrukturabgaberegisters nach § 6 Absatz 1 Satz 1 des
-        Infrastrukturabgabengesetzes,
+    e)  (weggefallen)
 
 
     f)  des Berufskraftfahrerqualifikationsregisters nach § 12 des
@@ -278,11 +280,7 @@ Kraftfahrt-Bundesamts.
 10. die Personalisierung und Lieferung oder die Ausschreibung der
     Personalisierung und Lieferung der zum Betrieb des Fahrtenschreibers
     erforderlichen Fahrtenschreiberkarten nach fahrpersonalrechtlichen
-    Vorschriften,
-
-
-11. die Erhebung und Vollstreckung der Infrastrukturabgabe nach dem
-    Infrastrukturabgabengesetz.
+    Vorschriften.
 
 
 

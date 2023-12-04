@@ -16,18 +16,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 538
 
-Geändert durch
-:   Art. 19 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 1 V v. 20.2.2023 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 20.2.2023 I Nr. 47
 
 [^F1_807104_BJNR053800019]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/410 des
     Europäischen Parlaments und des Rates vom 14. März 2018 zur Änderung
     der Richtlinie 2003/87/EG zwecks Unterstützung kosteneffizienter
     Emissionsreduktionen und zur Förderung von Investitionen mit geringem
     CO               2               -Ausstoß und des Beschlusses (EU)
-    2015/1814 (ABl. L 76 vom 19.3.2018, S. 3).
+    2015/1814 (ABl. L 76 vom 19.3.2018, S. 3).                Diese
+    Verordnung dient der Umsetzung der Durchführungsverordnung (EU)
+    2018/2066 der Kommission vom 19. Dezember 2018 über die Überwachung
+    von und die Berichterstattung über Treibhausgasemissionen gemäß der
+    Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates und
+    zur Änderung der Verordnung (EU) Nr. 601/2012 der Kommission (ABl. L
+    334 vom 31.12.2018, S. 1).
 
 
 ## Eingangsformel
@@ -250,9 +253,10 @@ Nachhaltigkeitsnachweis nicht ausgestellt werden kann, weil
 Absatz 1 Nummer 1 oder 2 genannten Gründe nicht ausgestellt werden, so
 ist der Anlagenbetreiber verpflichtet, in Form einer Eigenerklärung
 nachzuweisen, dass mindestens einer der in Absatz 1 genannten Gründe
-vorliegt. Die Eigenerklärung wird von der nach § 19 Absatz 1 Nummer 3
-Treibhausgasemissionshandelsgesetz zuständigen Behörde im Rahmen des
-Emissionsberichtes für das Jahr 2023 auf Plausibilität geprüft.
+vorliegt. Die Eigenerklärung wird von der nach
+§ 19 Absatz 1 Nummer 3 Treibhausgas-Emissionshandelsgesetz
+zuständigen Behörde im Rahmen des Emissionsberichtes für das Jahr 2023
+auf Plausibilität geprüft.
 
 (3) Kann ein anerkannter Nachhaltigkeitsnachweis aus dem in Absatz 1
 Nummer 3 genannten Grund nicht ausgestellt werden, so ist der

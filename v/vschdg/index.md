@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 3367
 
 Zuletzt geändert durch
-:   Art. 19 G v. 24.6.2022 I 959
-
-Änderung durch
-:   Art. 21 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 8.10.2023 I Nr. 272
 
 
 

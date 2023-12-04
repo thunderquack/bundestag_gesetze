@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1832 (4832)
 
-Änderung durch
-:   Art. 11 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 11 G v. 8.10.2023 I Nr. 272
 
 
 ## Eingangsformel

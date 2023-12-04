@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.10.2009 I 3250;
 
-Geändert durch
-:   Art. 1 V v. 24.11.2021 I 4964
-
-Änderung durch
-:   Art. 3 G v. 16.10.2023 I Nr. 280 mWv 1.10.2024 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 3 G v. 16.10.2023 I Nr. 280
 
 
 ## § 1 Anwendungsbereich

@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4391
 
-Geändert durch
-:   Art. 4 V v. 6.7.2022 I 1102
-
-Änderung durch
-:   Art. 1 V v. 20.1.2023 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 20.1.2023 I Nr. 18
 
 
 ## Eingangsformel
@@ -197,7 +194,8 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 ## Anlage Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4393 - 4454)
+(Fundstelle: BGBl. I 2021, 4393 - 4454;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Inhaltsübersicht
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1483
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.8.2020 I 1728
+:   Art. 2 G v. 13.11.2023 I Nr. 309
 
 
 ## § 1 Anwendungsbereich
@@ -409,8 +409,8 @@ ein Energieaudit durchgeführt werden müsste, vorausgeht.
 
 (1) Das Energieaudit nach § 8 Absatz 1 muss
 
-1.[^F789197_03_BJNR148310010BJNE001401128]
-  den Anforderungen der DIN EN 16247-1, Ausgabe Oktober 2012
+1.[^F827720_13_BJNR148310010BJNE001402128]
+  den Anforderungen der DIN EN 16247-1, Ausgabe November 2022
     entsprechen, wobei zu diesen Anforderungen gehört, dass das
     Unternehmen einen Verantwortlichen beziehungsweise Ansprechpartner zur
     Durchführung des Energieaudits vorsieht,
@@ -463,7 +463,7 @@ zu entwickeln und zu fördern.
 
     Die Norm ist bei der Beuth Verlag GmbH, Berlin, erschienen und bei der
     Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F789197_03_BJNR148310010BJNE001401128]: 
+[^F827720_13_BJNR148310010BJNE001402128]: 
 
 ## § 8b Anforderungen an die das Energieaudit durchführenden Personen
 
@@ -490,11 +490,16 @@ Fachkunde erfordert
 
 2.  eine mindestens dreijährige hauptberufliche Tätigkeit, bei der
     praxisbezogene Kenntnisse über die betriebliche Energieberatung
-    erworben wurden, und
+    erworben wurden,
 
 
 3.  die für die Erbringung von Energieaudits nach DIN 16247-1
-    erforderlichen Fachkenntnisse.
+    erforderlichen Fachkenntnisse und
+
+
+4.  die Teilnahme an einer vom Bundesamt für Wirtschaft und
+    Ausfuhrkontrolle anerkannten Fortbildung im Umfang von 12 Stunden
+    jährlich.
 
 
 
@@ -710,23 +715,25 @@ Freistellung nach § 8 Absatz 4 erfolgt durch geeignete Belege.
 
 ## § 8d Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit ohne Zustimmung des
-Bundesrates Näheres zu regeln zu
+Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Einzelheiten zu regeln
 
-1.  den Anforderungen an das Energieaudit,
-
-
-2.  den Anforderungen an die das Energieaudit durchführenden Personen
-    hinsichtlich der Fachkunde und der Unabhängigkeit,
+1.  zum Umfang und zu den inhaltlichen Anforderungen an die Fortbildung
+    nach § 8b Absatz 3 Satz 1 und Satz 2 Nummer 4,
 
 
-3.  den Voraussetzungen für eine Freistellung von der Pflicht zur
-    Durchführung von Energieaudits und
+2.  zu den Voraussetzungen für die Anerkennung von den in Nummer 1
+    genannten Fortbildungen durch das Bundesamt für Wirtschaft und
+    Ausfuhrkontrolle,
 
 
-4.  den Angaben zur Nachweisführung nach § 8c.
+3.  zu den Angaben zur Nachweisführung für Fortbildungsträger im Rahmen
+    des Verfahrens der Anerkennung von Fortbildungen nach Nummer 1 und
+
+
+4.  zu den Anforderungen an ein Energieaudit sowie an Energieauditorinnen
+    und Energieauditoren nach den §§ 8 bis 8c.
 
 
 
@@ -767,8 +774,13 @@ folgende Aufgaben:
 
 
 5.  Beobachtung und Bewertung des Marktes für Energiedienstleistungen,
-    Energieaudits und andere Energieeffizienzmaßnahmen und Erarbeitung von
-    Vorschlägen zur weiteren Entwicklung;
+    Analyse von Potenzialen zur Entwicklung des EDL-Marktes und von dessen
+    Beitrag zur Erreichung der Energie- und Klimaziele sowie Analyse
+    bestehender Hemmnisse für den EDL-Markt (EDL-Marktstudie). Die
+    Bundesstelle für Energieeffizienz führt zu dem Zweck Erhebungen durch
+    und legt der Bundesregierung auf dieser Grundlage einen Bericht vor
+    (EDL-Marktbericht), erstmals 2024 und danach alle zwei Jahre, der
+    jeweils auch konkrete Handlungsempfehlungen enthält;
 
 
 6.  Unterrichtung der Öffentlichkeit über Maßnahmen, die die öffentliche

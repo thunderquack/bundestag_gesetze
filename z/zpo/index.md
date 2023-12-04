@@ -267,11 +267,6 @@ die Forderungen eine Sache zur Sicherheit haftet, auch der Ort, wo die
 Sache sich befindet.
 
 
-##### § 23a (weggefallen)
-
--
-
-
 ##### § 24 Ausschließlicher dinglicher Gerichtsstand
 
 (1) Für Klagen, durch die das Eigentum, eine dingliche Belastung oder
@@ -491,11 +486,6 @@ und Auslagen ist das Gericht des Hauptprozesses zuständig.
 ##### § 35 Wahl unter mehreren Gerichtsständen
 
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
-
-
-##### § 35a (weggefallen)
-
--
 
 
 ##### § 36 Gerichtliche Bestimmung der Zuständigkeit
@@ -826,11 +816,6 @@ Ausschließlichkeitserklärung steht der Betreute für den weiteren
 Rechtsstreit einer nicht prozessfähigen Person gleich. Der Betreuer
 kann die Ausschließlichkeitserklärung jederzeit mit Wirkung für die
 Zukunft zurücknehmen.
-
-
-##### § 53a (weggefallen)
-
--
 
 
 ##### § 54 Besondere Ermächtigung zu Prozesshandlungen
@@ -1521,16 +1506,6 @@ die Kosten ganz oder teilweise dem Kläger auferlegen, wenn der
 Beklagte bereits vor Erhebung der Klage unter Angabe von Gründen die
 Fortsetzung des Mietverhältnisses oder eine den Umständen nach
 angemessene Räumungsfrist vom Kläger vergeblich begehrt hatte.
-
-
-##### § 93c (weggefallen)
-
--
-
-
-##### § 93d (weggefallen)
-
--
 
 
 ##### § 94 Kosten bei übergegangenem Anspruch
@@ -2291,11 +2266,6 @@ in dem die unterschriebene Entscheidung der Geschäftsstelle
 wegen mitgeteilt.
 
 (4) Die Kosten des Beschwerdeverfahrens werden nicht erstattet.
-
-
-##### § 127a (weggefallen)
-
--
 
 
 ### Abschnitt 3 - Verfahren
@@ -15999,11 +15969,6 @@ die er nach den Vorschriften der §§ 887, 890 zu dulden hat, so kann
 der Gläubiger zur Beseitigung des Widerstandes einen
 Gerichtsvollzieher zuziehen, der nach den Vorschriften des § 758 Abs.
 3 und des § 759 zu verfahren hat.
-
-
-#### § 892a (weggefallen)
-
--
 
 
 #### § 893 Klage auf Leistung des Interesses

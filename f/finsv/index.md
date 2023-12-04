@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2140
 
-Änderung durch
-:   Art. 27 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 27 G v. 8.10.2023 I Nr. 272
 
 Stand: §§ 11 bis 20 treten gem. § 27 Abs. 1 Satz 1 dieser V am 17.9.2016 in Kraft
 

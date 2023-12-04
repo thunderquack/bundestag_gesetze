@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 980
 
+Geändert durch
+:   Art. 2 G v. 13.11.2023 I Nr. 310
+
 
 
 ## § 1 Anwendungsbereich

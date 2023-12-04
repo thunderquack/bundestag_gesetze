@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
 
 Zuletzt geändert durch
-:   Art. 5 G v. 10.8.2021 I 3490
-
-Änderung durch
-:   Art. 14 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 8.10.2023 I Nr. 272
 
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 

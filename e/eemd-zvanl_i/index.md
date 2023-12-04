@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 25.10.2021 BAnz AT 29.10.2021 V2
 
+Änderung durch
+:   Art. 3 V v. 27.11.2023 I Nr. 329 mWv 1.12.2023 noch nicht berücksichtigt
+
 
 ## Anlage I Prüfvereinbarung
 

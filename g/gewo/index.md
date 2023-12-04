@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   11 G v. 28.6.2023 I Nr. 172
+:   Art. 11 G v. 28.6.2023 I Nr. 172
 
 
 ## Titel I - Allgemeine Bestimmungen

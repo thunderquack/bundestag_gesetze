@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 2 G v. 25.10.2023 I Nr. 294 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 25.10.2023 I Nr. 294
 
 
 ## Erster Titel - Gerichtsbarkeit

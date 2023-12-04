@@ -105,32 +105,55 @@ Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher
 Verhältnisse ihren nachgeordneten Stellen übertragen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
-ermächtigt, durch Rechtsverordnung
+ermächtigt,
 
-1.  zur Umsetzung einer Anordnung der Zentralkommission für die
-    Rheinschifffahrt nach § 1.22a der Anlage
+1.  durch Rechtsverordnung
 
-    a)  in dringenden Fällen oder
-
-
-    b)  zu Versuchszwecken oder zur Zulassung einer technischen Neuerung,
-        durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs
-        nicht beeinträchtigt werden,
+    a)  zur Umsetzung einer Anordnung der Zentralkommission für die
+        Rheinschifffahrt nach § 1.22a der Anlage
 
 
-
-    eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer
-    von drei Jahren zu treffen oder
+        aa) in dringenden Fällen oder
 
 
-2.  für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu
-    bestimmen.
+        bb) zu Versuchszwecken oder zur Zulassung einer technischen Neuerung,
+            durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs
+            nicht beeinträchtigt wird
 
 
 
-Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer
-Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann
-diese durch Verwaltungsakt zugelassen werden.
+
+        eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer
+        von drei Jahren zu treffen oder
+
+
+    b)  für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu
+        bestimmen oder
+
+
+
+
+
+2.  durch Verwaltungsakt
+
+    a)  Abweichungen von der Anlage zu erlauben, um eine Empfehlung der
+        Zentralkommission für die Rheinschifffahrt nach § 1.26 Nummer 2 Satz
+        1, auch in Verbindung mit Satz 2, der Anlage für ein Fahrzeug, bei dem
+        Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein
+        ferngesteuertes Fahrzeug umzusetzen, oder
+
+
+    b)  eine Abweichung im Sinne der Nummer 1 Buchstabe a oder eine Ausnahme
+        im Sinne der Nummer 1 Buchstabe b zuzulassen, soweit es dieser nur im
+        Einzelfall bedarf.
+
+
+
+
+
+
+Ein Verwaltungsakt nach Satz 1 Nummer 2 kann – auch nachträglich – mit
+Nebenbestimmungen versehen werden.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der
 Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der
@@ -897,12 +920,23 @@ oder fahrlässig als Schiffsführer
     nicht entspricht,
 
 
-38d. ein Fahrgastschiff unterhalb von Emmerich (km 885) führt, das den
+38d. ein Fahrgastschiff unterhalb von Emmerich (km 855) führt, das den
     Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
 
 
 39. einer Vorschrift des § 14.01 Nr. 2 oder 3, jeweils auch in Verbindung
     mit Nummer 4, über das Stilliegen auf den Reeden zuwiderhandelt,
+
+
+39a. entgegen § 14.12 Nummer 1 Buchstabe a oder b in den Schutz- oder
+    Sicherheitshafen Emmerich einfährt,
+
+
+39b. entgegen § 14.12 Nummer 1 Buchstabe c oder d in dem Schutz- oder
+    Sicherheitshafen Emmerich stillliegt,
+
+
+39c. entgegen § 14.12 Nummer 1 Buchstabe e eine Liegestelle belegt,
 
 
 40. entgegen § 15.04 Nummer 1 nicht sicherstellt, dass Schiffsabfälle oder
@@ -1137,7 +1171,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 10e. die Inbetriebnahme eines Fahrgastschiffs unterhalb von Emmerich (km
-    885) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer
+    855) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer
     5 nicht entspricht,
 
 

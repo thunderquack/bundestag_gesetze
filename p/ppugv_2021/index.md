@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.12.2022 BAnz AT 16.12.2022 V2
-
-Änderung durch
-:   Art. 1 V v. 3.11.2023 I Nr. 297 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 3.11.2023 I Nr. 297
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 

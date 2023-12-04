@@ -104,15 +104,15 @@ Zuletzt geändert durch
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
 
-(1) Das Gesetz dient der Steuerung und Begrenzung des Zuzugs von
-Ausländern in die Bundesrepublik Deutschland. Es ermöglicht und
-gestaltet Zuwanderung unter Berücksichtigung der Aufnahme- und
-Integrationsfähigkeit sowie der wirtschaftlichen und
-arbeitsmarktpolitischen Interessen der Bundesrepublik Deutschland. Das
-Gesetz dient zugleich der Erfüllung der humanitären Verpflichtungen
-der Bundesrepublik Deutschland. Es regelt hierzu die Einreise, den
-Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern.
-Die Regelungen in anderen Gesetzen bleiben unberührt.
+(1) Das Gesetz dient der Steuerung des Zuzugs von Ausländern in die
+Bundesrepublik Deutschland. Es ermöglicht und gestaltet Zuwanderung
+unter Berücksichtigung der Aufnahme- und Integrationsfähigkeit sowie
+der wirtschaftlichen und arbeitsmarktpolitischen Interessen der
+Bundesrepublik Deutschland. Das Gesetz dient zugleich der Erfüllung
+der humanitären Verpflichtungen der Bundesrepublik Deutschland. Es
+regelt hierzu die Einreise, den Aufenthalt, die Erwerbstätigkeit und
+die Integration von Ausländern. Die Regelungen in anderen Gesetzen
+bleiben unberührt.
 
 (2) Dieses Gesetz findet keine Anwendung auf Ausländer,
 
@@ -408,7 +408,7 @@ erteilt als
 2.  Aufenthaltserlaubnis (§ 7),
 
 
-2a. Blaue Karte EU (§ 18b Absatz 2),
+2a. Blaue Karte EU (§ 18g),
 
 
 2b. ICT-Karte (§ 19),
@@ -909,25 +909,51 @@ Fällen unterbricht die Ausreise aus dem Bundesgebiet den Aufenthalt
 nach § 9a Abs. 2 Satz 1 Nr. 1.
 
 (2) Auf die erforderlichen Zeiten nach § 9a Absatz 2 Satz 1 Nummer 1
-werden die Zeiten angerechnet, in denen der Ausländer eine Blaue Karte
-EU besitzt, die von einem anderen Mitgliedstaat der Europäischen Union
-erteilt wurde, wenn sich der Ausländer
+werden die Zeiten angerechnet, in denen der Ausländer im Besitz
 
-1.  in diesem anderen Mitgliedstaat der Europäischen Union mit einer
-    Blauen Karte EU mindestens 18 Monate aufgehalten hat und
+1.  einer von einem anderen Mitgliedstaat der Europäischen Union
+    ausgestellten Blauen Karte EU oder
 
 
-2.  bei Antragstellung seit mindestens zwei Jahren als Inhaber der Blauen
-    Karte EU im Bundesgebiet aufhält.
+2.  eines von einem anderen Mitgliedstaat der Europäischen Union
+    ausgestellten Aufenthaltstitels
+
+    a)  zum Zweck der Ausübung einer Beschäftigung in Berufen, für die ein
+        Hochschulabschluss oder ein Abschluss eines mit einem Hochschulstudium
+        gleichwertigen tertiären Bildungsprogramms, für dessen Erwerb die
+        erforderlichen Studien mindestens drei Jahre dauern und die der
+        Mitgliedstaat mindestens Stufe 6 der Internationalen
+        Standardklassifikation im Bildungswesen (ISCED 2011) oder der Stufe 6
+        des Europäischen Qualifikationsrahmens zugeordnet hat, erforderlich
+        ist,
+
+
+    b)  zum Zweck der Forschung,
+
+
+    c)  zum Zweck des Studiums oder
+
+
+    d)  auf Grund der Rechtsstellung eines international Schutzberechtigten
 
 
 
-Nicht angerechnet werden Zeiten, in denen sich der Ausländer nicht in
-der Europäischen Union aufgehalten hat. Diese Zeiten unterbrechen
-jedoch den Aufenthalt nach § 9a Absatz 2 Satz 1 Nummer 1 nicht, wenn
-sie zwölf aufeinanderfolgende Monate nicht überschreiten und innerhalb
-des Zeitraums nach § 9a Absatz 2 Satz 1 Nummer 1 insgesamt 18 Monate
-nicht überschreiten. Die Sätze 1 bis 3 sind entsprechend auf
+
+
+
+war, wenn sich der Ausländer bei Antragstellung seit mindestens zwei
+Jahren als Inhaber einer Blauen Karte EU im Bundesgebiet aufhält und
+unmittelbar vor der Erteilung dieser Blauen Karte EU im Besitz einer
+Blauen Karte EU war, die ein anderer Mitgliedstaat der Europäischen
+Union ausgestellt hat. Für Voraufenthalte mit einem von einem anderen
+Mitgliedstaat der Europäischen Union erteilten Aufenthaltstitel zum
+Zweck des Studiums gilt Absatz 1 Satz 1 Nummer 4 entsprechend. Nicht
+angerechnet werden Zeiten, in denen sich der Ausländer nicht in der
+Europäischen Union aufgehalten hat. Diese Zeiten unterbrechen jedoch
+den Aufenthalt nach § 9a Absatz 2 Satz 1 Nummer 1 nicht, wenn sie
+zwölf aufeinanderfolgende Monate nicht überschreiten und innerhalb des
+Zeitraums nach § 9a Absatz 2 Satz 1 Nummer 1 insgesamt 18 Monate nicht
+überschreiten. Die Sätze 1 bis 4 sind entsprechend auf
 Familienangehörige des Ausländers anzuwenden, denen eine
 Aufenthaltserlaubnis nach den §§ 30 oder 32 erteilt wurde.
 
@@ -2170,8 +2196,8 @@ Beschäftigung nach diesem Abschnitt setzt voraus, dass
 
 
 5.  in den Fällen der erstmaligen Erteilung eines Aufenthaltstitels nach §
-    18a oder § 18b Absatz 1 nach Vollendung des 45. Lebensjahres des
-    Ausländers die Höhe des Gehalts mindestens 55 Prozent der jährlichen
+    18a oder § 18b nach Vollendung des 45. Lebensjahres des Ausländers die
+    Höhe des Gehalts mindestens 55 Prozent der jährlichen
     Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung
     entspricht, es sei denn, der Ausländer kann den Nachweis über eine
     angemessene Altersversorgung erbringen. Von den Voraussetzungen nach
@@ -2200,48 +2226,24 @@ Beschäftigung nach diesem Abschnitt setzt voraus, dass
 
 
 
-(4) Aufenthaltstitel für Fachkräfte gemäß den §§ 18a und 18b werden
-für die Dauer von vier Jahren oder, wenn das Arbeitsverhältnis oder
-die Zustimmung der Bundesagentur für Arbeit auf einen kürzeren
-Zeitraum befristet sind, für diesen kürzeren Zeitraum erteilt. Die
-Blaue Karte EU wird für die Dauer des Arbeitsvertrages zuzüglich
-dreier Monate ausgestellt oder verlängert, wenn die Dauer des
-Arbeitsvertrages weniger als vier Jahre beträgt.
+(4) Aufenthaltstitel gemäß den §§ 18a, 18b, 18g und 19c werden für die
+Dauer von vier Jahren oder, wenn das Arbeitsverhältnis oder die
+Zustimmung der Bundesagentur für Arbeit auf einen kürzeren Zeitraum
+befristet sind, für diesen kürzeren Zeitraum zuzüglich dreier Monate,
+nicht jedoch für länger als vier Jahre, erteilt.
 
 
 #### § 18a Fachkräfte mit Berufsausbildung
 
-Einer Fachkraft mit Berufsausbildung kann eine Aufenthaltserlaubnis
-zur Ausübung einer qualifizierten Beschäftigung erteilt werden, zu der
-ihre erworbene Qualifikation sie befähigt.
+Einer Fachkraft mit Berufsausbildung wird eine Aufenthaltserlaubnis
+zur Ausübung jeder qualifizierten Beschäftigung erteilt.
 
 
 #### § 18b Fachkräfte mit akademischer Ausbildung
 
-(1) Einer Fachkraft mit akademischer Ausbildung kann eine
-Aufenthaltserlaubnis zur Ausübung einer qualifizierten Beschäftigung
-erteilt werden, zu der ihre Qualifikation sie befähigt.
-
-(2) Einer Fachkraft mit akademischer Ausbildung wird ohne Zustimmung
-der Bundesagentur für Arbeit eine Blaue Karte EU zum Zweck einer ihrer
-Qualifikation angemessenen Beschäftigung erteilt, wenn sie ein Gehalt
-in Höhe von mindestens zwei Dritteln der jährlichen Bemessungsgrenze
-in der allgemeinen Rentenversicherung erhält und keiner der in § 19f
-Absatz 1 und 2 geregelten Ablehnungsgründe vorliegt. Fachkräften mit
-akademischer Ausbildung, die einen Beruf ausüben, der zu den Gruppen
-21, 221 oder 25 nach der Empfehlung der Kommission vom 29. Oktober
-2009 über die Verwendung der Internationalen Standardklassifikation
-der Berufe (ISCO-08) (ABl. L 292 vom 10.11.2009, S. 31) gehört, wird
-die Blaue Karte EU abweichend von Satz 1 mit Zustimmung der
-Bundesagentur für Arbeit erteilt, wenn die Höhe des Gehalts mindestens
-52 Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen
-Rentenversicherung beträgt. Das Bundesministerium des Innern gibt die
-Mindestgehälter für jedes Kalenderjahr jeweils bis zum 31. Dezember
-des Vorjahres im Bundesanzeiger bekannt. Abweichend von § 4a Absatz 3
-Satz 3 ist bei einem Arbeitsplatzwechsel eines Inhabers einer Blauen
-Karte EU nur in den ersten zwei Jahren der Beschäftigung die Erlaubnis
-durch die Ausländerbehörde erforderlich; sie wird erteilt, wenn die
-Voraussetzungen der Erteilung einer Blauen Karte EU vorliegen.
+Einer Fachkraft mit akademischer Ausbildung wird eine
+Aufenthaltserlaubnis zur Ausübung jeder qualifizierten Beschäftigung
+erteilt.
 
 
 #### § 18c Niederlassungserlaubnis für Fachkräfte
@@ -2250,11 +2252,11 @@ Voraussetzungen der Erteilung einer Blauen Karte EU vorliegen.
 eine Niederlassungserlaubnis zu erteilen, wenn
 
 1.  sie seit vier Jahren im Besitz eines Aufenthaltstitels nach den §§
-    18a, 18b oder 18d ist,
+    18a, 18b, 18d oder § 18g ist,
 
 
 2.  sie einen Arbeitsplatz innehat, der nach den Voraussetzungen der §§
-    18a, 18b oder § 18d von ihr besetzt werden darf,
+    18a, 18b, 18d oder § 18g von ihr besetzt werden darf,
 
 
 3.  sie mindestens 48 Monate Pflichtbeiträge oder freiwillige Beiträge zur
@@ -2278,7 +2280,7 @@ Studium erfolgreich abgeschlossen hat.
 
 (2) Abweichend von Absatz 1 ist dem Inhaber einer Blauen Karte EU eine
 Niederlassungserlaubnis zu erteilen, wenn er mindestens 33 Monate eine
-Beschäftigung nach § 18b Absatz 2 ausgeübt hat und für diesen Zeitraum
+Beschäftigung nach § 18g ausgeübt hat und für diesen Zeitraum
 Pflichtbeiträge oder freiwillige Beiträge zur gesetzlichen
 Rentenversicherung geleistet hat oder Aufwendungen für einen Anspruch
 auf vergleichbare Leistungen einer Versicherungs- oder
@@ -2512,6 +2514,193 @@ nach § 18e Absatz 1 Satz 1 gestellt wurde. Abgelehnt wird ein Antrag
 auch, wenn er zwar während eines Aufenthalts nach § 18e Absatz 1, aber
 nicht mindestens 30 Tage vor Ablauf dieses Aufenthalts vollständig
 gestellt wurde.
+
+
+#### § 18g Blaue Karte EU
+
+(1) Einer Fachkraft mit akademischer Ausbildung wird ohne Zustimmung
+der Bundesagentur für Arbeit eine Blaue Karte EU zum Zweck einer ihrer
+Qualifikation angemessenen inländischen Beschäftigung erteilt, wenn
+sie ein Gehalt in Höhe von mindestens 50 Prozent der jährlichen
+Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung erhält
+und keiner der in § 19f Absatz 1 und 2 geregelten Ablehnungsgründe
+vorliegt. Fachkräften mit akademischer Ausbildung, die
+
+1.  einen Beruf ausüben, der zu den Gruppen 132, 133, 134, 21, 221, 222,
+    225, 226, 23 oder 25 nach der Empfehlung der Kommission vom 29.
+    Oktober 2009 über die Verwendung der Internationalen
+    Standardklassifikation der Berufe (ISCO-08) (ABl. L 292 vom
+    10\.11.2009, S. 31) gehört, oder
+
+
+2.  einen Hochschulabschluss nicht mehr als drei Jahre vor der Beantragung
+    der Blauen Karte EU erworben haben,
+
+
+
+wird die Blaue Karte EU abweichend von Satz 1 mit Zustimmung der
+Bundesagentur für Arbeit erteilt, wenn die Höhe des Gehalts mindestens
+45,3 Prozent der jährlichen Beitragsbemessungsgrenze in der
+allgemeinen Rentenversicherung beträgt. Die Voraussetzungen nach § 18
+Absatz 2 Nummer 3 gelten als erfüllt, wenn die Fachkraft Inhaberin
+einer Aufenthaltserlaubnis nach § 18b ist und für die Ausübung der
+Beschäftigung mit der Blauen Karte EU dieselbe
+Berufsausübungserlaubnis wie für die Aufenthaltserlaubnis nach § 18b
+erforderlich ist. Die Voraussetzungen nach § 18 Absatz 2 Nummer 4
+gelten als erfüllt, wenn die Fachkraft Inhaberin einer
+Aufenthaltserlaubnis nach § 18b ist und für die Erteilung dieser
+Aufenthaltserlaubnis denselben Hochschulabschluss vorgelegt hat, der
+für die Erteilung der Blauen Karte EU maßgeblich ist. Die Sätze 1 bis
+4 gelten entsprechend für eine Fachkraft, die ein tertiäres
+Bildungsprogramm, das mit einem Hochschulabschluss gleichwertig ist
+und mindestens drei Jahre Ausbildungsdauer erfordert, erfolgreich
+abgeschlossen hat, wenn diese Qualifikation einem Ausbildungsniveau
+entspricht, das in der Bundesrepublik Deutschland mindestens der Stufe
+6 der Internationalen Standardklassifikation im Bildungswesen (ISCED
+2011) oder der Stufe 6 des Europäischen Qualifikationsrahmens
+zugeordnet ist.
+
+(2) Einem Ausländer, der die Voraussetzungen nach Absatz 1 nicht
+erfüllt, wird mit Zustimmung der Bundesagentur für Arbeit eine Blaue
+Karte EU zum Zweck der Ausübung einer der Qualifikation angemessenen
+Beschäftigung in einem Beruf, der zu den Gruppen 133 oder 25 nach der
+Empfehlung der Kommission vom 29. Oktober 2009 über die Verwendung der
+Internationalen Standardklassifikation der Berufe (ISCO-08) (ABl. L
+292 vom 10.11.2009, S. 31) gehört, abweichend von § 18 Absatz 2 Nummer
+4 erteilt, wenn
+
+1.  die Höhe des Gehalts mindestens 45,3 Prozent der jährlichen
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung
+    beträgt,
+
+
+2.  keiner der in § 19f Absatz 1 und 2 geregelten Ablehnungsgründe
+    vorliegt und
+
+
+3.  der Ausländer über Fertigkeiten, Kenntnisse und Fähigkeiten verfügt,
+
+    a)  die auf einer in den letzten sieben Jahren erworbenen, mindestens
+        dreijährigen Berufserfahrung in einem Beruf beruhen, der zu den
+        Gruppen 133 oder 25 nach der Empfehlung der Kommission vom 29. Oktober
+        2009 über die Verwendung der Internationalen Standardklassifikation
+        der Berufe (ISCO-08) (ABl. L 292 vom 10.11.2009, S. 31) gehört,
+
+
+    b)  deren Niveau mit einem Hochschulabschluss oder einem Abschluss eines
+        mit einem Hochschulstudium gleichwertigen tertiären Bildungsprogramms,
+        das alle Voraussetzungen des Absatzes 1 Satz 5 erfüllt, vergleichbar
+        ist, und
+
+
+    c)  die für die Ausübung der Beschäftigung erforderlich sind.
+
+
+
+
+
+
+
+(3) Die Erteilung einer Blauen Karte EU setzt voraus, dass das
+konkrete Arbeitsplatzangebot nach § 18 Absatz 2 Nummer 1 eine
+Beschäftigungsdauer von mindestens sechs Monaten vorsieht.
+
+(4) Abweichend von § 4a Absatz 3 Satz 4 ist für den
+Arbeitsplatzwechsel eines Inhabers einer Blauen Karte EU keine
+Erlaubnis der Ausländerbehörde erforderlich. In den ersten zwölf
+Monaten der Beschäftigung kann die zuständige Ausländerbehörde den
+Arbeitsplatzwechsel des Inhabers einer Blauen Karte EU für 30 Tage
+aussetzen und innerhalb dieses Zeitraums ablehnen, wenn die
+Voraussetzungen für die Erteilung einer Blauen Karte EU nicht
+vorliegen.
+
+(5) Für die Erteilung einer Blauen Karte EU gilt der Lebensunterhalt
+als gesichert, wenn der Ausländer Inhaber einer Aufenthaltserlaubnis
+nach § 18a oder § 18b ist und der Arbeitsplatz nicht gewechselt wird.
+
+(6) Abweichend von § 8 Absatz 1 findet auf die Verlängerung einer
+Blauen Karte EU die Gehaltsschwelle gemäß Absatz 1 Satz 2 Anwendung,
+wenn der Antragsteller den Hochschulabschluss oder den Abschluss des
+mit einem Hochschulstudium gleichwertigen tertiären Bildungsprogramms
+nicht mehr als drei Jahre vor der Beantragung der Verlängerung der
+Blauen Karte EU erworben hat oder seit der Erteilung der ersten Blauen
+Karte EU gemäß Absatz 1 Satz 2 Nummer 2 weniger als 24 Monate
+vergangen sind. Im Übrigen bleibt § 8 Absatz 1 unberührt.
+
+(7) Das Bundesministerium des Innern und für Heimat gibt die
+Mindestgehälter nach den Absätzen 1 und 2 für jedes Kalenderjahr
+jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
+
+
+#### § 18h Kurzfristige Mobilität für Inhaber einer Blauen Karte EU
+
+(1) Ein Inhaber einer gültigen Blauen Karte EU, die ein anderer
+Mitgliedstaat der Europäischen Union ausgestellt hat, benötigt für die
+Einreise und den sich daran anschließenden Aufenthalt zum Zweck der
+Ausübung einer geschäftlichen Tätigkeit, die im direkten Zusammenhang
+mit den Pflichten aus dem Arbeitsvertrag steht, der Grundlage für die
+Erteilung der Blauen Karte EU war, abweichend von § 4 Absatz 1 keinen
+Aufenthaltstitel und keine Arbeitserlaubnis der Bundesagentur für
+Arbeit, wenn die Dauer des Aufenthalts 90 Tage innerhalb eines
+Zeitraums von 180 Tagen nicht überschreitet. Ist die Blaue Karte EU
+von einem Mitgliedstaat der Europäischen Union ausgestellt, der nicht
+Schengen-Staat ist, hat der Ausländer neben der gültigen Blauen Karte
+EU zusätzlich einen Nachweis über den geschäftlichen Zweck des
+Aufenthalts mit sich zu führen und bei der Grenzkontrolle auf
+Verlangen vorzuzeigen.
+
+(2) Absatz 1 gilt entsprechend, wenn der Ausländer in einem anderen
+Mitgliedstaat der Europäischen Union die Rechtsstellung eines
+langfristig Aufenthaltsberechtigten innehat und unmittelbar vor
+Erlangung dieser Rechtsstellung im Besitz einer von diesem
+Mitgliedstaat ausgestellten Blauen Karte EU war.
+
+
+#### § 18i Langfristige Mobilität für Inhaber einer Blauen Karte EU
+
+(1) Einem Ausländer, der eine gültige Blaue Karte EU besitzt, die von
+einem anderen Mitgliedstaat der Europäischen Union erteilt wurde und
+mit der er sich seit mindestens zwölf Monaten rechtmäßig in diesem
+Mitgliedstaat der Europäischen Union aufhält, wird eine Blaue Karte EU
+nach § 18g erteilt, wenn die jeweils erforderlichen Voraussetzungen
+nach § 18g vorliegen. Die Voraussetzung nach § 18 Absatz 2 Nummer 4
+gilt als erfüllt, es sei denn
+
+1.  der Ausländer ist weniger als zwei Jahre im Besitz der Blauen Karte
+    EU, die der andere Mitgliedstaat der Europäischen Union ausgestellt
+    hat, oder
+
+
+2.  der andere Mitgliedstaat der Europäischen Union hat die Blaue Karte EU
+    auf Grund von durch Berufserfahrungen erworbenen Fertigkeiten,
+    Kenntnissen und Fähigkeiten zum Zweck der Ausübung eines Berufes
+    erteilt, der nicht in Anhang I zu der Richtlinie (EU) 2021/1883 des
+    Europäischen Parlaments und des Rates vom 20. Oktober 2021 über die
+    Bedingungen für die Einreise und den Aufenthalt von
+    Drittstaatsangehörigen zur Ausübung einer hoch qualifizierten
+    Beschäftigung und zur Aufhebung der Richtlinie 2009/50/EG des Rates
+    (ABI. L 382 vom 28.10.2021, S. 1) aufgeführt ist.
+
+
+
+
+(2) Hat ein Mitgliedstaat der Europäischen Union, der nicht Schengen-
+Staat ist, die Blaue Karte EU nach Absatz 1 Satz 1 erster Halbsatz
+ausgestellt, so hat der Ausländer bei der Einreise neben der gültigen
+Blauen Karte EU einen Arbeitsvertrag oder ein verbindliches
+Arbeitsplatzangebot für eine der Qualifikation angemessene
+Beschäftigung auf dem Niveau eines Hochschulabschlusses oder dem
+Niveau eines mit einem Hochschulabschluss gleichwertigen tertiären
+Bildungsabschlusses, der alle Voraussetzungen nach § 18g Absatz 1 Satz
+5 erfüllt, für einen Zeitraum von mindestens sechs Monaten im
+Bundesgebiet mit sich zu führen.
+
+(3) Hat der Ausländer bereits einmal oder mehrfach von der Möglichkeit
+der langfristigen Mobilität nach Artikel 21 der Richtlinie (EU)
+2021/1883 Gebrauch gemacht, beträgt die Mindestdauer des rechtmäßigen
+Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union mit
+einer von diesem Mitgliedstaat ausgestellten und gültigen Blauen Karte
+EU abweichend von Absatz 1 Satz 1 sechs Monate.
 
 
 #### § 19 ICT-Karte für unternehmensintern transferierte Arbeitnehmer
@@ -2998,37 +3187,28 @@ Dauer der Teilnahme am europäischen Freiwilligendienst, höchstens
 jedoch für ein Jahr erteilt.
 
 
-#### § 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18b Absatz 2, den §§ 18d, 18e, 18f und 19e
+#### § 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18d, 18e, 18f, 18g und 19e
 
 (1) Ein Aufenthaltstitel nach § 16b Absatz 1 und 5, den §§ 16e, 17
-Absatz 2, § 18b Absatz 2, den §§ 18d und 19e wird nicht erteilt an
-Ausländer,
+Absatz 2, §§ 18d, 18g und 19e wird nicht erteilt an Ausländer,
 
-1.  die sich in einem Mitgliedstaat der Europäischen Union aufhalten, weil
-    sie einen Antrag auf Zuerkennung der Flüchtlingseigenschaft oder auf
-    Gewährung subsidiären Schutzes im Sinne der Richtlinie (EG) 2004/83
-    oder auf Zuerkennung internationalen Schutzes im Sinne der Richtlinie
-    (EU) 2011/95 gestellt haben, oder die in einem Mitgliedstaat
-    internationalen Schutz im Sinne der Richtlinie (EU) 2011/95 genießen,
-
-
-2.  die sich im Rahmen einer Regelung zum vorübergehenden Schutz in einem
+1.  die sich im Rahmen einer Regelung zum vorübergehenden Schutz in einem
     Mitgliedstaat der Europäischen Union aufhalten oder die in einem
     Mitgliedstaat einen Antrag auf Zuerkennung vorübergehenden Schutzes
     gestellt haben,
 
 
-3.  deren Abschiebung in einem Mitgliedstaat der Europäischen Union aus
+2.  deren Abschiebung in einem Mitgliedstaat der Europäischen Union aus
     tatsächlichen oder rechtlichen Gründen ausgesetzt wurde,
 
 
-4.  die eine Erlaubnis zum Daueraufenthalt – EU oder einen
+3.  die eine Erlaubnis zum Daueraufenthalt – EU oder einen
     Aufenthaltstitel, der durch einen anderen Mitgliedstaat der
     Europäischen Union auf der Grundlage der Richtlinie (EG) 2003/109
     erteilt wurde, besitzen,
 
 
-5.  die auf Grund von Übereinkommen zwischen der Europäischen Union und
+4.  die auf Grund von Übereinkommen zwischen der Europäischen Union und
     ihren Mitgliedstaaten einerseits und Drittstaaten andererseits ein
     Recht auf freien Personenverkehr genießen, das dem der Unionsbürger
     gleichwertig ist.
@@ -3036,35 +3216,42 @@ Ausländer,
 
 
 
-(2) Eine Blaue Karte EU nach § 18b Absatz 2 wird über die in Absatz 1
-genannten Ausschlussgründe hinaus nicht erteilt an Ausländer,
+(2) Eine Blaue Karte EU nach § 18g wird über die in Absatz 1 genannten
+Ausschlussgründe hinaus nicht erteilt an Ausländer,
 
-1.  die einen Aufenthaltstitel nach Abschnitt 5 besitzen, der nicht auf
-    Grund des § 23 Absatz 2 oder 4 erteilt wurde, oder eine vergleichbare
+1.  die in einem Mitgliedstaat der Europäischen Union einen Antrag auf
+    Zuerkennung internationalen Schutzes gestellt haben, über den noch
+    nicht abschließend entschieden worden ist,
+
+
+2.  die einen Aufenthaltstitel nach Abschnitt 5, der nicht auf Grund des §
+    25 Absatz 1 oder 2 erteilt wurde, besitzen oder eine vergleichbare
     Rechtsstellung in einem anderen Mitgliedstaat der Europäischen Union
-    innehaben; Gleiches gilt, wenn sie einen solchen Titel oder eine
-    solche Rechtsstellung beantragt haben und über den Antrag noch nicht
-    abschließend entschieden worden ist,
+    innehaben,
 
 
-2.  deren Einreise in einen Mitgliedstaat der Europäischen Union
+3.  die einen Aufenthaltstitel nach Abschnitt 5 oder eine vergleichbare
+    Rechtsstellung in einem anderen Mitgliedstaat der Europäischen Union
+    beantragt haben und über deren Antrag noch nicht abschließend
+    entschieden worden ist,
+
+
+4.  deren Einreise in einen Mitgliedstaat der Europäischen Union
     Verpflichtungen unterliegt, die sich aus internationalen Abkommen zur
     Erleichterung der Einreise und des vorübergehenden Aufenthalts
     bestimmter Kategorien von natürlichen Personen, die handels- und
-    investitionsbezogene Tätigkeiten ausüben, herleiten,
+    investitionsbezogene Tätigkeiten ausüben, herleiten; hiervon
+    ausgenommen sind Ausländer, die sich als unternehmensintern
+    transferierte Arbeitnehmer gemäß der Richtlinie 2014/66/EU im
+    Hoheitsgebiet eines Mitgliedstaats der Europäischen Union aufhalten,
+    oder
 
 
-3.  die in einem Mitgliedstaat der Europäischen Union als
-    Saisonarbeitnehmer zugelassen wurden, oder
-
-
-4.  die unter die Richtlinie 96/71/EG des Europäischen Parlaments und des
+5.  die unter die Richtlinie 96/71/EG des Europäischen Parlaments und des
     Rates vom 16. Dezember 1996 über die Entsendung von Arbeitnehmern im
     Rahmen der Erbringung von Dienstleistungen (ABl. L 18 vom 21.1.1997,
-    S. 1) in der Fassung der Richtlinie (EU) 2018/957 des Europäischen
-    Parlaments und des Rates vom 28. Juni 2018 zur Änderung der Richtlinie
-    96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der
-    Erbringung von Dienstleistungen (ABl. L 173 vom 9.7.2018, S. 16)
+    S. 1), die zuletzt durch die Richtlinie (EU) 2018/957 (ABl. L 173 vom
+    9\.7.2018, S. 16; L 91 vom 29.3.2019, S. 77) geändert worden ist,
     fallen, für die Dauer ihrer Entsendung nach Deutschland.
 
 
@@ -3072,15 +3259,21 @@ genannten Ausschlussgründe hinaus nicht erteilt an Ausländer,
 
 (3) Eine Aufenthaltserlaubnis nach den §§ 16b, 16e, 17 Absatz 2, den
 §§ 18d und 19e wird über die in Absatz 1 genannten Ausschlussgründe
-hinaus nicht erteilt an Ausländer, die eine Blaue Karte EU nach § 18b
-Absatz 2 oder einen Aufenthaltstitel, der durch einen anderen
-Mitgliedstaat der Europäischen Union auf Grundlage der Richtlinie
-2009/50/EG des Rates vom 25. Mai 2009 über die Bedingungen für die
-Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung
-einer hochqualifizierten Beschäftigung (ABl. L 155 vom 18.6.2009, S.
-17) erteilt wurde, besitzen. Eine Aufenthaltserlaubnis nach § 18d wird
-darüber hinaus nicht erteilt, wenn die Forschungstätigkeit Bestandteil
-eines Promotionsstudiums als Vollzeitstudienprogramm ist.
+hinaus nicht erteilt an Ausländer,
+
+1.  die in einem Mitgliedstaat der Europäischen Union einen Antrag auf
+    Zuerkennung internationalen Schutzes gestellt haben, über den noch
+    nicht abschließend entschieden worden ist, oder die in einem
+    Mitgliedstaat internationalen Schutz genießen oder
+
+
+2.  die einen Antrag auf eine Blaue Karte EU nach § 18g oder in einem
+    anderen Mitgliedstaat der Europäischen Union einen Antrag auf einen
+    Aufenthaltstitel, der durch diesen Mitgliedstaat auf Grundlage der
+    Richtlinie (EU) 2021/1883 erteilt wird, gestellt haben.
+
+
+
 
 (4) Der Antrag auf Erteilung einer Aufenthaltserlaubnis nach den §§
 16b, 16e, 16f, 17, 18d, 18f und 19e kann abgelehnt werden, wenn
@@ -3194,7 +3387,7 @@ Qualifikation befähigt,
 
 
 sofern der Arbeitsplatz nach den Bestimmungen der §§ 18a, 18b, 18d,
-19c und 21 von Ausländern besetzt werden darf.
+18g, 19c und 21 von Ausländern besetzt werden darf.
 
 (4) Die Erteilung der Aufenthaltserlaubnis nach den Absätzen 1 bis 3
 setzt die Lebensunterhaltssicherung voraus. Die Verlängerung der
@@ -3242,12 +3435,12 @@ Vergünstigungen auf der Grundlage der Gegenseitigkeit bestehen.
 staatlich anerkannten Hochschule oder vergleichbaren
 Ausbildungseinrichtung im Bundesgebiet erfolgreich abgeschlossen hat
 oder der als Forscher oder Wissenschaftler eine Aufenthaltserlaubnis
-nach den §§ 18b, 18d oder § 19c Absatz 1 besitzt, kann eine
-Aufenthaltserlaubnis zur Ausübung einer selbständigen Tätigkeit
-abweichend von Absatz 1 erteilt werden. Die beabsichtigte selbständige
-Tätigkeit muss einen Zusammenhang mit den in der Hochschulausbildung
-erworbenen Kenntnissen oder der Tätigkeit als Forscher oder
-Wissenschaftler erkennen lassen.
+nach den §§ 18b, 18d, 19c Absatz 1 oder eine Blaue Karte EU besitzt,
+kann eine Aufenthaltserlaubnis zur Ausübung einer selbständigen
+Tätigkeit abweichend von Absatz 1 erteilt werden. Die beabsichtigte
+selbständige Tätigkeit muss einen Zusammenhang mit den in der
+Hochschulausbildung erworbenen Kenntnissen oder der Tätigkeit als
+Forscher oder Wissenschaftler erkennen lassen.
 
 (3) Ausländern, die älter sind als 45 Jahre, soll die
 Aufenthaltserlaubnis nur erteilt werden, wenn sie über eine
@@ -4003,6 +4196,24 @@ Anwendung.
 
 
 
+Satz 1 Nummer 2, § 5 Absatz 1 Nummer 1 mit Ausnahme des Bestehens
+ausreichenden Krankenversicherungsschutzes sowie § 27 Absatz 3 Satz 1
+finden keine Anwendung, wenn
+
+1.  der Familiennachzug zu einem Inhaber einer Blauen Karte EU erfolgen
+    soll,
+
+
+2.  der Inhaber der Blauen Karte EU unmittelbar vor der Erteilung der
+    Blauen Karte EU im Besitz einer Blauen Karte EU war, die ein anderer
+    Mitgliedstaat der Europäischen Union ausgestellt hat, und
+
+
+3.  die familiäre Lebensgemeinschaft bereits in dem anderen Mitgliedstaat
+    der Europäischen Union bestand.
+
+
+
 
 (2) Bei dem Ehegatten und dem minderjährigen ledigen Kind eines
 Ausländers, der eine Aufenthaltserlaubnis nach § 23 Absatz 4, § 25
@@ -4060,8 +4271,6 @@ Die Erteilung einer Aufenthaltserlaubnis an sonstige
 Familienangehörige eines Ausländers, dem vorübergehender Schutz nach §
 24 Abs. 1 gewährt wurde, richtet sich nach § 36. Auf die nach diesem
 Absatz aufgenommenen Familienangehörigen findet § 24 Anwendung.
-
-(5) (weggefallen)
 
 
 #### § 30 Ehegattennachzug
@@ -4149,7 +4358,7 @@ Aufenthaltserlaubnis unbeachtlich, wenn
 
 5.  der Ausländer im Besitz einer Blauen Karte EU, einer ICT-Karte oder
     einer Mobiler-ICT-Karte oder eines Aufenthaltstitels nach den §§ 18a,
-    18b Absatz 1, § 18c Absatz 3, den §§ 18d, 18f, 19c Absatz 1 für eine
+    18b, 18c Absatz 3, den §§ 18d, 18f, 19c Absatz 1 für eine
     Beschäftigung als leitender Angestellter, als Führungskraft, als
     Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
     als Ingenieur oder Techniker im Forschungsteam eines
@@ -4165,12 +4374,11 @@ Aufenthaltserlaubnis unbeachtlich, wenn
 7.  der Ausländer unmittelbar vor der Erteilung einer
     Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU
     Inhaber einer Blauen Karte EU oder einer Aufenthaltserlaubnis nach den
-    §§ 18a, 18b Absatz 1, den §§ 18d, 19c Absatz 1 für eine Beschäftigung
-    als leitender Angestellter, als Führungskraft, als
-    Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
-    als Ingenieur oder Techniker im Forschungsteam eines
-    Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4 Satz 1
-    oder § 21 war.
+    §§ 18a, 18b, 18d, 19c Absatz 1 für eine Beschäftigung als leitender
+    Angestellter, als Führungskraft, als Unternehmensspezialist, als
+    Wissenschaftler, als Gastwissenschaftler, als Ingenieur oder Techniker
+    im Forschungsteam eines Gastwissenschaftlers oder als Lehrkraft, § 19c
+    Absatz 2 oder 4 Satz 1 oder § 21 war.
 
 
 
@@ -4227,13 +4435,21 @@ durch eine Rechtsnorm wegen des Zwecks des Aufenthalts oder durch eine
 Nebenbestimmung zur Aufenthaltserlaubnis nach § 8 Abs. 2
 ausgeschlossen ist.
 
+(1a) Ist der Ausländer im Besitz einer Blauen Karte EU, gilt Absatz 1
+für den Ehegatten des Ausländers mit der Maßgabe, dass der in Absatz 1
+Satz 1 Nummer 1 genannte Zeitraum auch als erfüllt gilt, wenn die
+eheliche Lebensgemeinschaft seit mindestens zwei Jahren rechtmäßig im
+Bundesgebiet und zuvor bereits mindestens ein Jahr in einem anderen
+Mitgliedstaat der Europäischen Union bestanden hat.
+
 (2) Von der Voraussetzung des dreijährigen rechtmäßigen Bestandes der
-ehelichen Lebensgemeinschaft im Bundesgebiet nach Absatz 1 Satz 1 Nr.
-1 ist abzusehen, soweit es zur Vermeidung einer besonderen Härte
-erforderlich ist, dem Ehegatten den weiteren Aufenthalt zu
-ermöglichen, es sei denn, für den Ausländer ist die Verlängerung der
-Aufenthaltserlaubnis ausgeschlossen. Eine besondere Härte liegt
-insbesondere vor, wenn die Ehe nach deutschem Recht wegen
+ehelichen Lebensgemeinschaft im Bundesgebiet nach Absatz 1 Satz 1
+Nummer 1 oder des zweijährigen rechtmäßigen Bestandes im Bundesgebiet
+nach Absatz 1a ist abzusehen, soweit es zur Vermeidung einer
+besonderen Härte erforderlich ist, dem Ehegatten den weiteren
+Aufenthalt zu ermöglichen, es sei denn, für den Ausländer ist die
+Verlängerung der Aufenthaltserlaubnis ausgeschlossen. Eine besondere
+Härte liegt insbesondere vor, wenn die Ehe nach deutschem Recht wegen
 Minderjährigkeit des Ehegatten im Zeitpunkt der Eheschließung
 unwirksam ist oder aufgehoben worden ist, wenn dem Ehegatten wegen der
 aus der Auflösung der ehelichen Lebensgemeinschaft erwachsenden
@@ -4316,24 +4532,23 @@ wenn
 2.  der Ausländer oder sein mit ihm in familiärer Lebensgemeinschaft
     lebender Ehegatte eine Niederlassungserlaubnis nach § 18c Absatz 3,
     eine Blaue Karte EU, eine ICT-Karte oder eine Mobiler-ICT-Karte oder
-    eine Aufenthaltserlaubnis nach den §§ 18a, 18b Absatz 1, den §§ 18d,
-    18f, § 19c Absatz 1 für eine Beschäftigung als leitender Angestellter,
-    als Führungskraft, als Unternehmensspezialist, als Wissenschaftler,
-    als Gastwissenschaftler, als Ingenieur oder Techniker im
-    Forschungsteam eines Gastwissenschaftlers oder als Lehrkraft, § 19c
-    Absatz 2 oder 4 Satz 1 oder § 21 besitzt, oder
+    eine Aufenthaltserlaubnis nach den §§ 18a, 18b, 18d, 18f, § 19c Absatz
+    1 für eine Beschäftigung als leitender Angestellter, als
+    Führungskraft, als Unternehmensspezialist, als Wissenschaftler, als
+    Gastwissenschaftler, als Ingenieur oder Techniker im Forschungsteam
+    eines Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4
+    Satz 1 oder § 21 besitzt, oder
 
 
 3.  der Ausländer oder sein mit ihm in familiärer Lebensgemeinschaft
     lebender Ehegatte unmittelbar vor der Erteilung einer
     Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU
     Inhaber einer Blauen Karte EU oder einer Aufenthaltserlaubnis nach den
-    §§ 18a, 18b Absatz 1, den §§ 18d, 19c Absatz 1 für eine Beschäftigung
-    als leitender Angestellter, als Führungskraft, als
-    Unternehmensspezialist, als Wissenschaftler, als Gastwissenschaftler,
-    als Ingenieur oder Techniker im Forschungsteam eines
-    Gastwissenschaftlers oder als Lehrkraft, § 19c Absatz 2 oder 4 Satz 1
-    oder § 21 war.
+    §§ 18a, 18b, 18d, 19c Absatz 1 für eine Beschäftigung als leitender
+    Angestellter, als Führungskraft, als Unternehmensspezialist, als
+    Wissenschaftler, als Gastwissenschaftler, als Ingenieur oder Techniker
+    im Forschungsteam eines Gastwissenschaftlers oder als Lehrkraft, § 19c
+    Absatz 2 oder 4 Satz 1 oder § 21 war.
 
 
 
@@ -4721,14 +4936,13 @@ will. § 8 Abs. 2 ist nicht anzuwenden.
 
 (3) Die Aufenthaltserlaubnis berechtigt zur Ausübung einer
 Beschäftigung, wenn die Bundesagentur für Arbeit der Ausübung der
-Beschäftigung nach § 39 Absatz 3 zugestimmt hat; die Zustimmung wird
-mit Vorrangprüfung erteilt. Die Aufenthaltserlaubnis berechtigt zur
-Ausübung einer selbständigen Tätigkeit, wenn die in § 21 genannten
-Voraussetzungen erfüllt sind. Wird der Aufenthaltstitel nach Absatz 1
-für ein Studium oder für sonstige Ausbildungszwecke erteilt, sind die
-§§ 16a und 16b entsprechend anzuwenden. In den Fällen des § 16a wird
-der Aufenthaltstitel ohne Zustimmung der Bundesagentur für Arbeit
-erteilt.
+Beschäftigung nach § 39 Absatz 3 zugestimmt hat. Die
+Aufenthaltserlaubnis berechtigt zur Ausübung einer selbständigen
+Tätigkeit, wenn die in § 21 genannten Voraussetzungen erfüllt sind.
+Wird der Aufenthaltstitel nach Absatz 1 für ein Studium oder für
+sonstige Ausbildungszwecke erteilt, sind die §§ 16a und 16b
+entsprechend anzuwenden. In den Fällen des § 16a wird der
+Aufenthaltstitel ohne Zustimmung der Bundesagentur für Arbeit erteilt.
 
 (4) Eine nach Absatz 1 erteilte Aufenthaltserlaubnis darf nur für
 höchstens zwölf Monate mit einer Nebenbestimmung nach § 34 der
@@ -4753,21 +4967,32 @@ Vereinbarung nicht erforderlich. Die Zustimmung kann erteilt werden,
 wenn dies durch ein Gesetz, die Beschäftigungsverordnung oder
 zwischenstaatliche Vereinbarung bestimmt ist.
 
-(2) Die Bundesagentur für Arbeit kann der Ausübung einer Beschäftigung
-durch eine Fachkraft gemäß den §§ 18a oder 18b zustimmen, wenn
+(2) Die Bundesagentur für Arbeit kann in den Fällen der §§ 18a, 18b,
+18g Absatz 1 Satz 2 oder des § 18g Absatz 2 der Ausübung einer
+Beschäftigung zustimmen, wenn
 
-1.  sie nicht zu ungünstigeren Arbeitsbedingungen als vergleichbare
-    inländische Arbeitnehmer beschäftigt wird,
-
-
-2.  sie
-
-    a)  gemäß § 18a oder § 18b Absatz 1 eine Beschäftigung als Fachkraft
-        ausüben wird, zu der ihre Qualifikation sie befähigt, oder
+1.  der Ausländer nicht zu ungünstigeren Arbeitsbedingungen als
+    vergleichbare inländische Arbeitnehmer beschäftigt wird,
 
 
-    b)  gemäß § 18b Absatz 2 Satz 2 eine ihrer Qualifikation angemessene
-        Beschäftigung ausüben wird,
+2.  der Ausländer
+
+    a)  gemäß § 18a oder § 18b eine Beschäftigung als Fachkraft ausüben wird,
+        zu der ihre Qualifikation sie befähigt,
+
+
+    b)  gemäß §18g Absatz 1 Satz 2 eine ihrer Qualifikation angemessene
+        Beschäftigung ausüben wird oder
+
+
+    c)  im Fall des § 18g Absatz 2 über durch Berufserfahrung erlangte
+        Fertigkeiten, Kenntnisse und Fähigkeiten verfügt, die alle
+        Voraussetzungen nach § 18g Absatz 2 erfüllen und die zur Ausübung
+        einer Beschäftigung in einem Beruf, der zu den Gruppen 133 oder 25
+        nach der Empfehlung der Kommission vom 29. Oktober 2009 über die
+        Verwendung der Internationalen Standardklassifikation der Berufe
+        (ISCO-08) (ABl. L 292 vom 10.11.2009, S. 31) gehört, erforderlich
+        sind,
 
 
 
@@ -4942,7 +5167,9 @@ Bundesrates Folgendes bestimmen:
 
 
 3.  nähere Voraussetzungen in Bezug auf die Ausübung einer Beschäftigung
-    als Fachkraft nach den §§ 18a und 18b,
+    als Fachkraft nach den §§ 18a ,18b und 18g Absatz 1 sowie für
+    Beschäftigungen eines Inhabers einer Blauen Karte EU nach § 18g Absatz
+    2,
 
 
 4.  Ausnahmen für Angehörige bestimmter Staaten,
@@ -5065,7 +5292,7 @@ aufhält, wenn ihm
 
 1.  erstmals eine Aufenthaltserlaubnis
 
-    a)  zu Erwerbszwecken (§§ 18a bis 18d, 19c und 21),
+    a)  zu Erwerbszwecken (§§ 18a bis 18d, 18g, 19c und 21),
 
 
     b)  zum Zweck des Familiennachzugs (§§ 28, 29, 30, 32, 36, 36a),
@@ -5879,6 +6106,34 @@ zugleich der dem Familienangehörigen erteilte Aufenthaltstitel zu
 widerrufen, es sei denn, dem Familienangehörigen steht ein
 eigenständiger Anspruch auf einen Aufenthaltstitel zu.
 
+(2b) Eine Blaue Karte EU kann widerrufen werden, wenn
+
+1.  die Voraussetzungen der Erteilung nicht mehr erfüllt sind,
+
+
+2.  der Inhaber einer Blauen Karte EU der zuständigen Ausländerbehörde die
+    nach § 82 Absatz 1 Satz 6 und Absatz 6 Satz 1 erforderlichen
+    Mitteilungen nicht oder nicht rechtzeitig macht,
+
+
+3.  der Inhaber der Blauen Karte EU gegen Vorschriften eines anderen
+    Mitgliedstaates der Europäischen Union über die Mobilität von Inhabern
+    einer Blauen Karte EU im Anwendungsbereich der Richtlinie (EU)
+    2021/1883 verstoßen hat.
+
+
+
+Wird die Blaue Karte EU widerrufen, so ist zugleich der dem
+Familienangehörigen erteilte Aufenthaltstitel zu widerrufen, es sei
+denn, dem Familienangehörigen steht ein eigenständiger Anspruch auf
+einen Aufenthaltstitel zu.
+
+(2c) Die Blaue Karte EU eines Ausländers, der zum Zweck der
+langfristigen Mobilität für Inhaber einer Blauen Karte EU in einen
+anderen Mitgliedstaat der Europäischen Union zieht, wird so lange
+nicht widerrufen, bis dieser andere Mitgliedstaat über den Antrag auf
+langfristige Mobilität entschieden hat.
+
 (3) Eine nach § 16b Absatz 1, 5 oder 7 zum Zweck des Studiums erteilte
 Aufenthaltserlaubnis kann widerrufen werden, wenn
 
@@ -6555,8 +6810,10 @@ besitzt oder eine entsprechende Rechtsstellung in einem anderen
 Mitgliedstaat der Europäischen Union innehat und in einem anderen
 Mitgliedstaat der Europäischen Union international Schutzberechtigter
 ist, darf außer in den Fällen des § 60 Absatz 8 Satz 1 nur in den
-schutzgewährenden Mitgliedstaat abgeschoben werden. § 60 Absatz 2, 3,
-5 und 7 bleibt unberührt.
+schutzgewährenden Mitgliedstaat abgeschoben werden. Gleiches gilt,
+wenn ein Ausländer zuletzt Inhaber einer Blauen Karte EU war und in
+einem anderen Mitgliedstaat der Europäischen Union international
+Schutzberechtigter ist. § 60 Absatz 2, 3, 5 und 7 bleibt unberührt.
 
 (2) Die Ausreisepflicht ist vollziehbar, wenn der Ausländer
 
@@ -7914,7 +8171,11 @@ Ausländer zu tragen.
 (2) Neben dem Ausländer haftet für die in Absatz 1 bezeichneten
 Kosten, wer sich gegenüber der Ausländerbehörde oder der
 Auslandsvertretung verpflichtet hat, für die Ausreisekosten des
-Ausländers aufzukommen.
+Ausländers aufzukommen. Wird in den Fällen des § 18i der Antrag auf
+Erteilung einer Blauen Karte EU abgelehnt, weil die Bedingungen für
+die Ausübung der langfristigen Mobilität nicht vorliegen, haftet neben
+dem Inhaber der Blauen Karte EU der Arbeitgeber für die in Absatz 1
+bezeichneten Kosten.
 
 (3) In den Fällen des § 64 Abs. 1 und 2 haftet der
 Beförderungsunternehmer neben dem Ausländer für die Kosten der
@@ -8255,10 +8516,10 @@ die Vollziehung von Abschiebungen ist in den Ländern jeweils eine
 zentral zuständige Stelle zu bestimmen. Die Länder sollen jeweils
 mindestens eine zentrale Ausländerbehörde einrichten, die bei
 Visumanträgen nach § 6 zu Zwecken nach den §§ 16a, 16d, 17 Absatz 1,
-den §§ 18a, 18b, 18c Absatz 3, den §§ 18d, 18f, 19, 19b, 19c und 20
-sowie bei Visumanträgen des Ehegatten oder der minderjährigen ledigen
-Kinder zum Zweck des Familiennachzugs, die in zeitlichem Zusammenhang
-gestellt werden, die zuständige Ausländerbehörde ist.
+den §§ 18a, 18b, 18c Absatz 3, den §§ 18d, 18f, 18g, 19, 19b, 19c und
+20 sowie bei Visumanträgen des Ehegatten oder der minderjährigen
+ledigen Kinder zum Zweck des Familiennachzugs, die in zeitlichem
+Zusammenhang gestellt werden, die zuständige Ausländerbehörde ist.
 
 (2) Im Ausland sind für Pass- und Visaangelegenheiten die vom
 Auswärtigen Amt ermächtigten Auslandsvertretungen zuständig. Das
@@ -8489,11 +8750,11 @@ Ausreisefrist nach § 59 Absatz 7 die für den Aufenthaltsort zuständige
 Polizeibehörde.
 
 (7) Zur Prüfung des Vorliegens der Voraussetzungen der §§ 16a, 16d,
-16e, 18a, 18b, 18c Absatz 3 und der §§ 19 bis 19c können die
-Ausländerbehörde, das Bundesamt für Migration und Flüchtlinge sowie
-die Auslandsvertretung zur Erfüllung ihrer Aufgaben die Bundesagentur
-für Arbeit auch dann beteiligen, wenn sie ihrer Zustimmung nicht
-bedürfen.
+16e, 18a, 18b, 18c Absatz 3, des § 18g und der §§ 19 bis 19c können
+die Ausländerbehörde, das Bundesamt für Migration und Flüchtlinge
+sowie die Auslandsvertretung zur Erfüllung ihrer Aufgaben die
+Bundesagentur für Arbeit auch dann beteiligen, wenn sie ihrer
+Zustimmung nicht bedürfen.
 
 
 #### § 72a Abgleich von Visumantragsdaten zu Sicherheitszwecken
@@ -8973,8 +9234,8 @@ Aufgaben nach anderen Gesetzen folgende Aufgaben:
 5.  Zusammenarbeit mit den Verwaltungsbehörden der Mitgliedstaaten der
     Europäischen Union als Nationale Kontaktstelle und zuständige Behörde
     nach Artikel 27 der Richtlinie 2001/55/EG, Artikel 25 der Richtlinie
-    2003/109/EG, Artikel 22 Absatz 1 der Richtlinie 2009/50/EG, Artikel 26
-    der Richtlinie 2014/66/EU und Artikel 37 der Richtlinie (EU) 2016/801
+    2003/109/EG, Artikel 28 der Richtlinie (EU) 2021/1883, Artikel 26 der
+    Richtlinie 2014/66/EU und Artikel 37 der Richtlinie (EU) 2016/801
     sowie für Mitteilungen nach § 51 Absatz 8a;
 
 
@@ -9002,8 +9263,9 @@ Aufgaben nach anderen Gesetzen folgende Aufgaben:
 
 
 10. Anerkennung von Forschungseinrichtungen zum Abschluss von
-    Aufnahmevereinbarungen nach § 18d; hierbei wird das Bundesamt für
-    Migration und Flüchtlinge durch einen Beirat für Forschungsmigration
+    Aufnahmevereinbarungen nach § 18d; das Bundesamt für Migration und
+    Flüchtlinge wird durch einen Beirat bei der Durchführung seiner
+    Aufgaben in der Forschungsmigration und der Fachkräfteeinwanderung
     unterstützt;
 
 
@@ -9697,12 +9959,39 @@ Erlaubnis zur Erwerbstätigkeit nach Satz 1 ist in die Bescheinigung
 nach Absatz 5 aufzunehmen.
 
 (6) Wenn der Antrag auf Erteilung einer Aufenthaltserlaubnis zum
-Familiennachzug zu einem Inhaber einer ICT-Karte oder einer Mobiler-
-ICT-Karte gleichzeitig mit dem Antrag auf Erteilung einer ICT-Karte
-oder einer Mobiler-ICT-Karte gestellt wird, so wird über den Antrag
-auf Erteilung einer Aufenthaltserlaubnis zum Zweck des
-Familiennachzugs gleichzeitig mit dem Antrag auf Erteilung einer ICT-
-Karte oder einer Mobiler-ICT-Karte entschieden.
+Familiennachzug zu einem Inhaber einer ICT-Karte, einer Mobiler-ICT-
+Karte oder einer Blauen Karte EU gleichzeitig mit dem Antrag auf
+Erteilung einer ICT-Karte, einer Mobiler-ICT-Karte oder einer Blauen
+Karte EU gestellt wird, so wird über den Antrag auf Erteilung einer
+Aufenthaltserlaubnis zum Zweck des Familiennachzugs gleichzeitig mit
+diesem Antrag entschieden. Dies gilt in der Regel auch, wenn der
+Antrag auf Erteilung einer Aufenthaltserlaubnis zum Zweck des
+Familiennachzugs zu einem Inhaber einer Aufenthaltserlaubnis nach §
+18a oder § 18b gleichzeitig mit dem Antrag auf Erteilung einer
+Aufenthaltserlaubnis nach § 18a oder § 18b gestellt wird. War der
+Inhaber der Blauen Karte EU unmittelbar vor der Erteilung der Blauen
+Karte EU im Besitz einer Blauen Karte EU, die ein anderer
+Mitgliedstaat der Europäischen Union ausgestellt hat, bestand die
+familiäre Lebensgemeinschaft bereits in dem anderen Mitgliedstaat der
+Europäischen Union und wird der Antrag zwar gleichzeitig gestellt,
+aber die Familienangehörigen reisen erst in das Bundesgebiet ein,
+nachdem die Blaue Karte EU erteilt wurde, ist die Aufenthaltserlaubnis
+zum Zweck des Familiennachzugs spätestens 30 Tage nach der Einreichung
+des vollständigen Antrags zu erteilen. In begründeten Ausnahmefällen
+kann die Frist um 30 Tage verlängert werden.
+
+(6a) Ist der Ausländer im Besitz einer Blauen Karte EU, die ein
+anderer Mitgliedstaat der Europäischen Union ausgestellt hat, wird die
+Entscheidung über den Antrag auf Erteilung einer Blauen Karte EU dem
+Antragsteller und dem anderen Mitgliedstaat der Europäischen Union
+spätestens 30 Tage nach dem Tag der Einreichung des vollständigen
+Antrags mitgeteilt. In begründeten Ausnahmefällen kann die Frist um 30
+Tage verlängert werden. Der Antragsteller ist spätestens 30 Tage nach
+dem Tag der Einreichung des vollständigen Antrags von der Verlängerung
+in Kenntnis zu setzen. Spätestens 30 Tage nach dem Tag der Einreichung
+des vollständigen Antrags darf der Inhaber der Blauen Karte EU die
+Beschäftigung ausüben, soweit eine erforderliche
+Berufsausübungserlaubnis vorliegt.
 
 (7) Ist die Identität durch erkennungsdienstliche Behandlung gemäß §
 49 dieses Gesetzes oder § 16 des Asylgesetzes zu sichern, so darf eine
@@ -9716,8 +10005,9 @@ gewonnenen Daten im Ausländerzentralregister erfolgt ist.
 
 (1) Arbeitgeber können bei der zuständigen Ausländerbehörde in
 Vollmacht des Ausländers, der zu einem Aufenthaltszweck nach den §§
-16a, 16d, 18a, 18b und 18c Absatz 3 einreisen will, ein beschleunigtes
-Fachkräfteverfahren beantragen.
+16a, 16d, 18a, 18b, 18c Absatz 3 und nach § 18g einreisen will, ein
+beschleunigtes Fachkräfteverfahren beantragen. Arbeitgeber können zur
+Durchführung des Verfahrens Dritte bevollmächtigen.
 
 (2) Arbeitgeber und zuständige Ausländerbehörde schließen dazu eine
 Vereinbarung, die insbesondere umfasst
@@ -9824,10 +10114,16 @@ Bearbeitung eines Antrags auf Erteilung eines Aufenthaltstitels wegen
 fehlender oder unvollständiger Angaben aussetzt, und benennt dabei die
 nachzuholenden Angaben. Nach Ablauf der Frist geltend gemachte
 Umstände und beigebrachte Nachweise können unberücksichtigt bleiben.
-Der Ausländer, der eine ICT-Karte nach § 19b beantragt hat, ist
+Der Ausländer, der eine ICT-Karte nach § 19 beantragt hat, ist
 verpflichtet, der zuständigen Ausländerbehörde jede Änderung
 mitzuteilen, die während des Antragsverfahrens eintritt und die
 Auswirkungen auf die Voraussetzungen der Erteilung der ICT-Karte hat.
+Der Inhaber einer Blauen Karte EU ist während der ersten zwölf Monate
+seit der Aufnahme der Beschäftigung mit der Blauen Karte EU
+verpflichtet, der zuständigen Ausländerbehörde jeden Wechsel des
+Arbeitgebers und jede Änderung mitzuteilen, die Auswirkungen auf die
+Erfüllung der Voraussetzungen für die Erteilung einer Blauen Karte EU
+hat.
 
 (2) Absatz 1 findet im Widerspruchsverfahren entsprechende Anwendung.
 
@@ -11032,36 +11328,252 @@ Im Sinne der §§ 91a bis 91g sind
 
 
 
-#### § 91f Auskünfte zur Durchführung der Richtlinie 2009/50/EG innerhalb der Europäischen Union
+#### § 91f Auskünfte zur Durchführung der Richtlinie (EU) 2021/1883 innerhalb der Europäischen Union
 
-(1) Das Bundesamt für Migration und Flüchtlinge unterrichtet als
-nationale Kontaktstelle im Sinne des Artikels 22 Absatz 1 der
-Richtlinie 2009/50/EG die zuständige Behörde eines anderen
-Mitgliedstaates der Europäischen Union, in dem der Ausländer eine
-Blaue Karte EU besitzt, über den Inhalt und den Tag einer Entscheidung
-über die Erteilung einer Blauen Karte EU. Die Behörde, die die
-Entscheidung getroffen hat, übermittelt der nationalen Kontaktstelle
-unverzüglich die hierfür erforderlichen Angaben. Der nationalen
-Kontaktstelle können die für Unterrichtungen nach Satz 1
-erforderlichen Daten aus dem Ausländerzentralregister durch die
-Ausländerbehörden unter Nutzung der AZR-Nummer automatisiert
+(1) Das Bundesamt für Migration und Flüchtlinge ist nationale
+Kontaktstelle im Sinne des Artikels 28 Absatz 1 der Richtlinie (EU)
+2021/1883.
+
+(2) Die Ausländerbehörden und die Auslandsvertretungen können über das
+Bundesamt für Migration und Flüchtlinge Ersuchen um Auskunft an
+zuständige Stellen anderer Mitgliedstaaten der Europäischen Union
+richten, soweit dies erforderlich ist, um die Voraussetzungen der
+kurzfristigen Mobilität gemäß § 18h oder der langfristigen Mobilität
+gemäß § 18i zu prüfen. Die mit der polizeilichen Kontrolle des
+grenzüberschreitenden Verkehrs beauftragten Behörden können über das
+Bundesamt für Migration und Flüchtlinge Ersuchen um Auskunft an
+zuständige Stellen anderer Mitgliedstaaten der Europäischen Union
+richten, soweit dies erforderlich ist, um die Voraussetzungen für die
+Einreise in das und den Aufenthalt im Bundesgebiet des Inhabers einer
+Blauen Karte EU, die ein anderer Mitgliedstaat der Europäischen Union
+ausgestellt hat, zu prüfen. Die Ausländerbehörden, die
+Auslandsvertretungen und die mit der polizeilichen Kontrolle des
+grenzüberschreitenden Verkehrs beauftragten Behörden können hierzu
+
+1.  die Personalien des Ausländers,
+
+
+2.  Angaben zu seinem Identitäts- und Reisedokument und zu seiner im
+    anderen Mitgliedstaat der Europäischen Union ausgestellten Blauen
+    Karte EU sowie
+
+
+3.  die Angabe, dass ein Antrag auf Erteilung einer Blauen Karte EU
+    gestellt wurde, und die Angabe des Ortes der Antragstellung
+
+
+
+übermitteln und den Inhalt der erforderlichen Auskünfte genauer
+bezeichnen. Das Bundesamt für Migration und Flüchtlinge leitet
+eingegangene Auskünfte an die Behörde weiter, die nach Satz 1 oder
+Satz 2 um Auskunft ersucht hat. Die Daten, die in den Auskünften der
+zuständigen Stellen anderer Mitgliedstaaten der Europäischen Union
+übermittelt werden, dürfen
+
+1.  die Ausländerbehörden und die Auslandsvertretungen zu den in Satz 1
+    festgelegten Zwecken sowie
+
+
+2.  die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+    beauftragten Behörden zu den in Satz 2 festgelegten Zwecken
+
+
+
+verarbeiten.
+
+(3) Das Bundesamt für Migration und Flüchtlinge unterrichtet die
+zuständige Behörde eines anderen Mitgliedstaates der Europäischen
+Union, in dem der Ausländer eine Blaue Karte EU besitzt, über eine
+Entscheidung zur Erteilung einer Blauen Karte EU nach § 18g. Hierzu
+werden folgende Daten übermittelt:
+
+1.  die Daten nach Absatz 2 Satz 3 Nummer 1 und 2 und
+
+
+2.  Inhalt, Tag und Ort der Entscheidung über die Blaue Karte EU.
+
+
+
+Wird die Erteilung einer Blauen Karte EU abgelehnt, weil der
+Antragsteller falsche oder unvollständige Angaben zur Erlangung der
+Blauen Karte EU gemacht hat oder er eine Gefahr für die öffentliche
+Sicherheit, öffentliche Ordnung oder die öffentliche Gesundheit
+darstellt, übermittelt das Bundesamt für Migration und Flüchtlinge der
+zuständigen Behörde eines anderen Mitgliedstaates der Europäischen
+Union zudem Angaben zu diesen Ablehnungsgründen. Die Behörde, die die
+Entscheidung nach Satz 1 getroffen hat, übermittelt dem Bundesamt für
+Migration und Flüchtlinge unverzüglich die Daten nach Satz 2. Im Falle
+der Ablehnung der Erteilung einer Blauen Karte EU aus den in Satz 3
+genannten Gründen übermittelt sie dem Bundesamt für Migration und
+Flüchtlinge zudem Angaben zu diesen Ablehnungsgründen.
+
+(4) Das Bundesamt für Migration und Flüchtlinge erteilt der
+zuständigen Behörde eines anderen Mitgliedstaates der Europäischen
+Union auf Ersuchen die erforderlichen Auskünfte, um den zuständigen
+Behörden des anderen Mitgliedstaates der Europäischen Union eine
+Prüfung zu ermöglichen, ob die Voraussetzungen der kurzfristigen
+Mobilität gemäß Artikel 20 der Richtlinie (EU) 2021/1883 oder der
+langfristigen Mobilität gemäß Artikel 21 der Richtlinie (EU) 2021/1883
+vorliegen. Die Auskünfte umfassen:
+
+1.  die Personalien des Ausländers und Angaben zum Identitäts- und
+    Reisedokument,
+
+
+2.  Angaben zu seinem gegenwärtigen und früheren Aufenthaltsstatus in
+    Deutschland,
+
+
+3.  Angaben zu abgeschlossenen oder der Ausländerbehörde bekannten
+    strafrechtlichen Ermittlungsverfahren,
+
+
+4.  sonstige den Ausländer betreffende Daten, sofern sie im
+    Ausländerzentralregister gespeichert werden dürfen oder die aus der
+    Ausländer- oder Visumakte hervorgehen, sofern der andere Mitgliedstaat
+    der Europäischen Union um ihre Übermittlung ersucht hat.
+
+
+
+Die Ausländerbehörden und die Auslandsvertretungen übermitteln hierzu
+dem Bundesamt für Migration und Flüchtlinge auf dessen Ersuchen die
+für die Erteilung der Auskunft erforderlichen Angaben.
+
+(5) Das Bundesamt für Migration und Flüchtlinge übermittelt Angaben zu
+Entscheidungen, die es von einer zuständigen Behörde eines anderen
+Mitgliedstaates der Europäischen Union zu einem Ausländer erhält, der
+Inhaber einer Blauen Karte EU nach § 18g ist und sein Recht auf
+kurzfristige oder langfristige Mobilität nach der Richtlinie (EU)
+2021/1883 in diesem anderen Mitgliedstaat ausübt, an die jeweils
+zuständige Ausländerbehörde. Hat die zuständige Behörde dieses anderen
+Mitgliedstaates der Europäischen Union mitgeteilt, dass die Erteilung
+einer Blauen Karte EU abgelehnt wurde, weil der Antragsteller falsche
+oder unvollständige Angaben zur Erlangung der Blauen Karte EU gemacht
+hatte oder er eine Gefahr für die öffentliche Sicherheit, öffentliche
+Ordnung oder die öffentliche Gesundheit darstellt, übermittelt das
+Bundesamt für Migration und Flüchtlinge der zuständigen
+Ausländerbehörde zusätzlich die Angaben zu diesen Ablehnungsgründen.
+
+(6) Die Ausländerbehörden können über das Bundesamt für Migration und
+Flüchtlinge Ersuchen um Auskunft an zuständige Stellen anderer
+Mitgliedstaaten der Europäischen Union richten, soweit dies
+erforderlich ist, um nach § 9b Absatz 2 Satz 1 anrechenbare
+Voraufenthaltszeiten für die Erteilung einer Erlaubnis zum
+Daueraufenthalt – EU zu prüfen. Sie können hierzu
+
+1.  die Daten nach Absatz 2 Satz 3 Nummer 1 und 2,
+
+
+2.  die Angabe, dass ein Antrag auf Erteilung einer Erlaubnis zum
+    Daueraufenthalt – EU gestellt wurde, sowie
+
+
+3.  die Angabe des Ortes der Antragstellung
+
+
+
+übermitteln und den Inhalt der erforderlichen Auskünfte genauer
+bezeichnen. Das Bundesamt für Migration und Flüchtlinge leitet
+eingegangene Auskünfte an die zuständigen Ausländerbehörden weiter.
+Die Daten, die in den Auskünften der zuständigen Stellen anderer
+Mitgliedstaaten der Europäischen Union übermittelt werden, dürfen die
+Ausländerbehörden zu diesem Zweck verarbeiten.
+
+(7) Das Bundesamt für Migration und Flüchtlinge erteilt der
+zuständigen Behörde eines anderen Mitgliedstaates der Europäischen
+Union auf Ersuchen die erforderlichen Auskünfte, um den zuständigen
+Behörden des anderen Mitgliedstaates der Europäischen Union eine
+Prüfung zu ermöglichen, ob anrechenbare Voraufenthaltszeiten im
+Bundesgebiet nach Artikel 18 Absatz 2 Buchstabe a der Richtlinie (EU)
+2021/1883 für die Erteilung der Rechtsstellung eines langfristig
+Aufenthaltsberechtigten vorliegen. Die Auskünfte umfassen die Daten
+nach Absatz 4 Satz 2 Nummer 1 und 2. Die Ausländerbehörden übermitteln
+hierzu dem Bundesamt für Migration und Flüchtlinge auf dessen Ersuchen
+die für die Erteilung der Auskunft erforderlichen Angaben.
+
+(8) Das Bundesamt für Migration und Flüchtlinge leitet
+Auskunftsersuchen der Ausländerbehörden über das Fortbestehen des
+internationalen Schutzes im Sinne von § 2 Absatz 13 in einem anderen
+Mitgliedstaat der Europäischen Union an die zuständigen Stellen des
+betroffenen Mitgliedstaates weiter, um der zuständigen
+Ausländerbehörde die Prüfung der Voraussetzungen nach Artikel 9 Absatz
+5 oder nach Artikel 23 Absatz 5 der Richtlinie (EU) 2021/1883 zu
+ermöglichen. Hierzu übermittelt die jeweils zuständige
+Ausländerbehörde dem Bundesamt für Migration und Flüchtlinge die
+erforderlichen Angaben. Das Bundesamt für Migration und Flüchtlinge
+leitet die auf die Anfragen eingehenden Antworten an die jeweils
+zuständige Ausländerbehörde weiter.
+
+(9) Das Bundesamt für Migration und Flüchtlinge erteilt den
+zuständigen Stellen der anderen Mitgliedstaaten der Europäischen Union
+zur Ermöglichung der Prüfung der Voraussetzungen nach Artikel 9 Absatz
+5 oder nach Artikel 23 Absatz 5 der Richtlinie (EU) 2021/1883 auf
+Ersuchen innerhalb eines Monats nach Eingang des Ersuchens Auskunft
+darüber, ob ein Ausländer in der Bundesrepublik Deutschland weiterhin
+die Rechtsstellung eines international Schutzberechtigten genießt.
+
+(10) Wird dem Inhaber einer von einem anderen Mitgliedstaat der
+Europäischen Union ausgestellten Blauen Karte EU in der Bundesrepublik
+Deutschland internationaler Schutz im Sinne von § 2 Absatz 13 gewährt,
+so ersucht das Bundesamt für Migration und Flüchtlinge die zuständige
+Stelle des anderen Mitgliedstaates der Europäischen Union, in die dort
+ausgestellte Blaue Karte EU den Hinweis aufzunehmen, dass die
+Bundesrepublik Deutschland dieser Person internationalen Schutz
+gewährt.
+
+(11) Enthält die durch einen anderen Mitgliedstaat der Europäischen
+Union ausgestellte Blaue Karte EU den Hinweis, dass dieser Staat dem
+Inhaber der Blauen Karte EU internationalen Schutz gewährt, und ist
+die Verantwortung für den internationalen Schutz im Sinne von § 2
+Absatz 13 nach Maßgabe der einschlägigen Rechtsvorschriften auf die
+Bundesrepublik Deutschland übergegangen, so ersucht das Bundesamt für
+Migration und Flüchtlinge die zuständige Stelle des anderen
+Mitgliedstaates, den Hinweis in der Blauen Karte EU entsprechend zu
+ändern.
+
+(12) Dem Bundesamt für Migration und Flüchtlinge können die Daten, die
+für die Unterrichtung und Einholung von Auskünften bei den zuständigen
+Stellen der anderen Mitgliedstaaten nach den Absätzen 1 bis 11
+erforderlich sind, durch die Ausländerbehörden aus dem
+Ausländerzentralregister unter Nutzung der AZR-Nummer automatisiert
 übermittelt werden.
 
-(2) Das Bundesamt für Migration und Flüchtlinge übermittelt den
-zuständigen Organen der Europäischen Union jährlich
+(13) Das Bundesamt für Migration und Flüchtlinge übermittelt den
+zuständigen Organen der Europäischen Union jährlich, erstmals
+spätestens zum 18. November 2025, die Daten, die nach der Verordnung
+(EG) Nr. 862/2007 des Europäischen Parlaments und des Rates vom 11.
+Juli 2007 zu Gemeinschaftsstatistiken über Wanderung und
+internationalen Schutz und zur Aufhebung der Verordnung (EWG) Nr.
+311/76 des Rates über die Erstellung von Statistiken über ausländische
+Arbeitnehmer (ABl. L 199 vom 31.7.2007, S. 23), die zuletzt durch die
+Verordnung (EU) 2020/851 (ABl. L 198 vom 22.6.2020, S. 1) geändert
+worden ist, und unter Beachtung von Artikel 25 der Richtlinie (EU)
+2021/1883 im Zusammenhang mit der Erteilung von Blauen Karten EU zu
+übermitteln sind.
 
-1.  die Daten, die nach der Verordnung (EG) Nr. 862/2007 des Europäischen
-    Parlaments und des Rates vom 11. Juli 2007 zu Gemeinschaftsstatistiken
-    über Wanderung und internationalen Schutz und zur Aufhebung der
-    Verordnung (EWG) Nr. 311/76 des Rates über die Erstellung von
-    Statistiken über ausländische Arbeitnehmer (ABl. L 199 vom 31.7.2007,
-    S. 23) im Zusammenhang mit der Erteilung von Blauen Karten EU zu
-    übermitteln sind, sowie
+(14) Das Bundesamt für Migration und Flüchtlinge übermittelt den
+zuständigen Organen der Europäischen Union mindestens einmal jährlich
+und bei jeder Änderung
+
+1.  die festgelegten Faktoren zur Berechnung der Gehaltsschwellen gemäß §
+    18g Absatz 1 und 2 und die sich daraus ergebenden Nominalbeträge,
 
 
-2.  ein Verzeichnis der Berufe, für die nach § 18b Absatz 2 Satz 2 ein
-    Gehalt nach Artikel 5 Absatz 5 der Richtlinie 2009/50/EG bestimmt
-    wurde.
+2.  das Verzeichnis der Berufe, für die gemäß § 18g Absatz 1 Satz 2 Nummer
+    1 eine geringere Gehaltsschwelle gilt,
+
+
+3.  eine Liste der geschäftlichen Tätigkeiten, die während einer
+    Geschäftsreise nach § 18h zulässig sind,
+
+
+4.  Informationen über die Anwendung der Vorrangprüfung bei Inhabern einer
+    Blauen Karte EU sowie
+
+
+5.  eine Liste von Staaten und Berufen, für die die Bundesrepublik
+    Deutschland aus ethischen Gründen die Erteilung einer Blauen Karte EU
+    ablehnt, einschließlich einer Begründung für die Ablehnung.
 
 
 

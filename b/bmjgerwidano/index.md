@@ -17,6 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 415
 
+Ano aufgeh. durch
+:   Ziff III Satz 2 AnO 2030-14-237 v. 30.10.2023 I Nr. 308 mWv 1.1.2024
+
+Ersetz durch
+:   AnO 2030-14-237 v. 30.10.2023 I Nr. 308 (BMJGerWidAnO 2024)
+
 
 ## I.
 

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 115 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 1 G v. 16.11.2023 I Nr. 313 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F782353_01_BJNR017180980]:     Das Gesetz dient der Umsetzung folgender Richtlinien:
     –                                Richtlinie 67/548/EWG des Rates vom
     27\. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften
@@ -97,10 +100,17 @@ Entstehen vorzubeugen.
 
 
 2.  Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach
-    dem Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz
-    unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2
-    des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer
-    zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
+    dem Arzneimittelgesetz, nach der Verordnung (EU) 2019/6 des
+    Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
+    Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
+    vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020,
+    S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die
+    durch die Delegierte Verordnung (EU) 2021/805 (ABl. L 180 vom
+    21\.5.2021, S. 3) geändert worden ist, nach dem Tierarzneimittelgesetz
+    oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige
+    Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes
+    einer Zulassung nicht bedürfen oder in einer zur Abgabe an den
+    Verbraucher bestimmten Verpackung abgegeben werden,
 
 
 2a. Medizinprodukte und ihr Zubehör im Sinne von Artikel 2 Nummer 1 und 2
@@ -193,11 +203,23 @@ Die Vorschriften des Dritten Abschnitts und § 16e gelten jedoch für
 
 (3) Die §§ 16d und 23 Abs. 2 gelten nicht für Stoffe und Gemische,
 
-1.  die ausschließlich dazu bestimmt sind, als Wirkstoff in zulassungs-
-    oder registrierungspflichtigen Arzneimitteln nach dem
-    Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz oder als
-    Wirkstoffe in Medizinprodukten gemäß § 3 Nr. 2 und 8 in Verbindung mit
-    Nr. 2 des Medizinproduktegesetzes verwendet zu werden oder
+1.  die ausschließlich dazu bestimmt sind,
+
+    a)  als Wirkstoff in zulassungs- oder registrierungspflichtigen
+        Arzneimitteln nach dem Arzneimittelgesetz verwendet zu werden,
+
+
+    b)  als Wirkstoff in zulassungs- oder registrierungspflichtigen
+        Tierarzneimitteln nach der Verordnung (EU) 2019/6, nach dem
+        Tierarzneimittelgesetz oder nach dem Tiergesundheitsgesetz verwendet
+        zu werden oder
+
+
+    c)  als Wirkstoff in Medizinprodukten im Sinne von Artikel 2 Nummer 1 der
+        Verordnung (EU) 2017/745 verwendet zu werden oder
+
+
+
 
 
 2.  soweit sie einem Zulassungsverfahren nach pflanzenschutzrechtlichen
@@ -209,7 +231,7 @@ Die Vorschriften des Dritten Abschnitts und § 16e gelten jedoch für
 Nr. 2, soweit entsprechende Regelungen aufgrund des
 Pflanzenschutzgesetzes getroffen werden können.
 
-(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23
+(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23
 gelten für das Herstellen, Inverkehrbringen oder Verwenden von Stoffen
 oder Gemischen nach Anhang I Teil 2 mit Ausnahme der Abschnitte 2.1,
 2\.8 Typ A und B und des Abschnitts 2.15 Typ A und B der Verordnung
@@ -221,10 +243,11 @@ Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien
 L 94 vom 10.4.2015, S. 9), die zuletzt durch die Verordnung (EU)
 2017/542 (ABl. L 78 vom 23.3.2017, S. 1) geändert worden ist, in ihrer
 jeweils geltenden Fassung, und § 3a Absatz 1 Nummer 2 sowie von
-Erzeugnissen, die solche Stoffe oder Gemische freisetzen können oder
-enthalten, lediglich insoweit, als es gewerbsmäßig, im Rahmen
-sonstiger wirtschaftlicher Unternehmungen oder unter Beschäftigung von
-Arbeitnehmern erfolgt. Diese Beschränkung gilt nicht für
+Erzeugnissen, die solche Stoffe oder Gemische freisetzen können,
+enthalten oder zu ihrem Funktionieren benötigen, lediglich insoweit,
+als es gewerbsmäßig, im Rahmen sonstiger wirtschaftlicher
+Unternehmungen oder unter Beschäftigung von Arbeitnehmern erfolgt.
+Satz 1 gilt auch für Einrichtungen. Diese Beschränkung gilt nicht für
 
 1.  Regelungen und Anordnungen
 
@@ -251,6 +274,24 @@ Arbeitnehmern erfolgt. Diese Beschränkung gilt nicht für
 gelten nicht für die Beförderung gefährlicher Güter im Eisenbahn-,
 Straßen-, Binnenschiffs-, See- und Luftverkehr, ausgenommen die
 innerbetriebliche Beförderung.
+
+(6) Die Vorschriften des Abschnitts 4a gelten nicht für
+
+1.  Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
+
+
+2.  Tierarzneimittel im Sinne des Artikels 4 Nummer 1 der Verordnung (EU)
+    2019/6,
+
+
+3.  Betäubungsmittel im Sinne des § 1 Absatz 1 des
+    Betäubungsmittelgesetzes,
+
+
+4.  alkoholische Getränke.
+
+
+
 
 
 ### § 3 Begriffsbestimmungen
@@ -337,7 +378,24 @@ Im Sinne dieses Gesetzes sind
 12. Biozid-Wirkstoff:
 
     Wirkstoff im Sinne des Artikels 3 Absatz 1 Buchstabe c der Verordnung
-    (EU) Nr. 528/2012.
+    (EU) Nr. 528/2012;
+
+
+13. Einrichtung: stationäres oder mobiles technisches System, das
+    gefährliche Stoffe oder Gemische enthält oder zu seinem Funktionieren
+    benötigt, insbesondere Kälte- oder Klimaanlagen, Wärmepumpen,
+    Schaltanlagen oder Brandschutzvorrichtungen, oder in dem gefährliche
+    Stoffe oder Gemische hergestellt oder verwendet werden;
+
+
+14. überregionale chemische Bedrohungslage: eine durch Stoffe als solche,
+    in Gemischen oder in Erzeugnissen hervorgerufene, schwerwiegende
+    Gefährdung für die menschliche Gesundheit, bei der das Risiko besteht,
+    dass sich diese überregional oder grenzüberschreitend auswirkt;
+
+
+15. Vergiftung: Erkrankung, die durch Stoffe als solche, in Gemischen oder
+    in Erzeugnissen hervorgerufen wird.
 
 
 
@@ -661,7 +719,7 @@ Artikel 52 Absatz 2 der Verordnung (EG) Nr. 1272/2008.
 
 
 
-## Abschnitt IIa - Durchführung der Verordnung (EU) Nr. 528/2012
+## Abschnitt 2a - Durchführung der Verordnung (EU) Nr. 528/2012
 
 
 
@@ -804,7 +862,12 @@ Verordnung (EU) Nr. 528/2012 ferner die folgenden Aufgaben wahr:
 
 
 10. die Beratung der Bundesregierung in allen die Verordnung (EU) Nr.
-    528/2012 und ihre Fortentwicklung betreffenden Angelegenheiten.
+    528/2012 und ihre Fortentwicklung betreffenden Angelegenheiten,
+
+
+11. die Ausstellung von Bescheinigungen über die Verkehrsfähigkeit von
+    Biozid-Produkten, sofern eine solche Bescheinigung für die Ausfuhr in
+    Staaten außerhalb der Europäischen Union erforderlich ist.
 
 
 
@@ -1151,7 +1214,7 @@ Produkten              festzulegen, insbesondere zu bestimmen,
 
 
 
-## Abschnitt IIb - Durchführung der Verordnung (EU) Nr. 517/2014
+## Abschnitt 2b - Durchführung der Verordnung (EU) Nr. 517/2014
 
 
 
@@ -1414,20 +1477,20 @@ zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
 
     a)  wie gefährliche Stoffe und Gemische und dass und wie bestimmte
         Erzeugnisse, die bestimmte gefährliche Stoffe oder Gemische freisetzen
-        können oder enthalten, zu verpacken oder zu kennzeichnen sind, damit
-        bei der vorhersehbaren Verwendung Gefahren für Leben und Gesundheit
-        des Menschen und die Umwelt vermieden werden,
+        können, enthalten oder zu ihrem Funktionieren benötigen, zu verpacken
+        oder zu kennzeichnen sind, damit bei der vorhersehbaren Verwendung
+        Gefahren für Leben und Gesundheit des Menschen und die Umwelt
+        vermieden werden,
 
 
     b)  dass und wie bestimmte Angaben über gefährliche Stoffe und Gemische
         oder Erzeugnisse, die gefährliche Stoffe und Gemische freisetzen
-        können oder enthalten, einschließlich Empfehlungen über
-        Vorsichtsmaßnahmen beim Verwenden oder über Sofortmaßnahmen bei
-        Unfällen von demjenigen, der die Stoffe, Gemische oder Erzeugnisse in
-        den Verkehr bringt, insbesondere in
-        Form eines                          Sicherheitsdatenblattes oder einer
-        Gebrauchsanweisung, mitgeliefert und auf dem neuesten Stand gehalten
-        werden müssen,
+        können, enthalten oder zu ihrem Funktionieren benötigen,
+        einschließlich Empfehlungen über Vorsichtsmaßnahmen beim Verwenden
+        oder über Sofortmaßnahmen bei Unfällen von demjenigen, der die Stoffe,
+        Gemische oder Erzeugnisse in den Verkehr bringt, insbesondere in Form
+        eines Sicherheitsdatenblattes oder einer Gebrauchsanweisung,
+        mitgeliefert und auf dem neuesten Stand gehalten werden müssen,
 
 
     c)  welche Gesichtspunkte der Hersteller oder Einführer bei der Einstufung
@@ -1447,11 +1510,14 @@ zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
 
     f)  dass und von wem die Kennzeichnung bestimmter Stoffe, Gemische oder
         Erzeugnisse nach dem Inverkehrbringen zu erhalten oder erneut
-        anzubringen ist und
+        anzubringen ist,
 
 
     g)  dass andere als die in § 13 Absatz 2 und 3 genannten Personen für die
-        Einstufung, Kennzeichnung und Verpackung verantwortlich sind.
+        Einstufung, Kennzeichnung und Verpackung verantwortlich sind und
+
+
+    h)  dass und wie Einrichtungen zu kennzeichnen sind.
 
 
 
@@ -1559,20 +1625,20 @@ Verbindung mit Artikel 73 der Verordnung (EU) Nr. 528/2012, die
 Aufgaben nach Artikel 45 Absatz 1 in Verbindung mit Anhang VIII der
 Verordnung (EG) Nr. 1272/2008 wahr.
 
-(2) Wer als Arzt zur Behandlung oder zur Beurteilung der Folgen einer
-Erkrankung hinzugezogen wird, bei der zumindest der Verdacht besteht,
-dass sie auf Einwirkungen gefährlicher Stoffe, gefährlicher Gemische,
-von Erzeugnissen, die gefährliche Stoffe oder Gemische freisetzen oder
-enthalten, oder von Biozid-Produkten zurückgeht, hat dem
-Bundesinstitut für Risikobewertung den Stoff oder das Gemisch, Alter
-und Geschlecht des Patienten, den Expositionsweg, die aufgenommene
-Menge und die festgestellten Symptome mitzuteilen. Die Mitteilung hat
-hinsichtlich der Person des Patienten in anonymisierter Form zu
-erfolgen. § 8 Absatz 1 Nummer 1 zweiter Halbsatz des
-Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) gilt
-entsprechend. Satz 1 gilt nicht, soweit diese Angaben einem Träger der
-gesetzlichen Unfallversicherung zu übermitteln sind; dieser hat die
-Angaben nach Satz 1 an das Bundesinstitut für Risikobewertung
+(2) Wer als Ärztin oder Arzt zur Behandlung oder zur Beurteilung der
+Folgen einer Erkrankung hinzugezogen wird, bei der zumindest der
+Verdacht besteht, dass sie auf Einwirkungen gefährlicher Stoffe,
+gefährlicher Gemische, von Erzeugnissen, die gefährliche Stoffe oder
+Gemische freisetzen oder enthalten, oder von Biozid-Produkten
+zurückgeht, hat dem Bundesinstitut für Risikobewertung den Stoff oder
+das Gemisch, Alter und Geschlecht des Patienten, den Expositionsweg,
+die aufgenommene Menge und die festgestellten Symptome mitzuteilen.
+Die Mitteilung hat hinsichtlich der Person des Patienten in
+anonymisierter Form zu erfolgen. § 8 Absatz 1 Nummer 1 zweiter
+Halbsatz des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S.
+1045) gilt entsprechend. Satz 1 gilt nicht, soweit diese Angaben einem
+Träger der gesetzlichen Unfallversicherung zu übermitteln sind; dieser
+hat die Angaben nach Satz 1 an das Bundesinstitut für Risikobewertung
 weiterzuleiten.
 
 (3) Das Bundesinstitut für Risikobewertung übermittelt die in den
@@ -1580,20 +1646,18 @@ Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008
 enthaltenen Informationen den von den Ländern zu bezeichnenden
 medizinischen Einrichtungen, die Erkenntnisse über die
 gesundheitlichen Auswirkungen gefährlicher Stoffe oder gefährlicher
-Gemische sammeln und auswerten und bei stoffbezogenen Erkrankungen
-durch Beratung Hilfe leisten (Informationszentren für Vergiftungen).
-Die Informationszentren für Vergiftungen berichten dem Bundesinstitut
-für Risikobewertung
+Gemische sammeln und auswerten und bei Vergiftungen durch Beratung
+Hilfe leisten (Informationszentren für Vergiftungen). Die
+Informationszentren für Vergiftungen berichten dem Bundesinstitut für
+Risikobewertung
 
 1.  über im Rahmen ihrer Tätigkeit gewonnene Erkenntnisse, die für die
-    Beratung bei stoffbezogenen Erkrankungen von allgemeiner Bedeutung
-    sind, sowie
+    Beratung bei Vergiftungen von allgemeiner Bedeutung sind, sowie
 
 
 2.  auf Anforderung des Bundesinstituts für Risikobewertung über
-    Einzelfälle aufgetretener stoffbezogener Erkrankungen oder
-    Verdachtsfälle zur Ermittlung von gesundheitsbezogenen Risiken für die
-    Allgemeinheit.
+    Einzelfälle aufgetretener Vergiftungen oder Vergiftungsverdachtsfälle
+    zur Ermittlung von gesundheitsbezogenen Risiken für die Allgemeinheit.
 
 
 
@@ -1662,13 +1726,54 @@ Zustimmung des Bundesrates
 
 ### § 16f Informationspflicht der Lieferanten
 
-(1) Wer als Lieferant im Sinne des Artikels 3 Nummer 33 der Verordnung
-(EG) Nr. 1907/2006 Erzeugnisse im Sinne der Verordnung (EG) Nr.
-1907/2006 in Verkehr bringt, hat ab dem 5. Januar 2021 die
-Informationen gemäß Artikel 33 Absatz 1 der Verordnung (EG) Nr.
-1907/2006 der Europäischen Chemikalienagentur nach Artikel 9 Absatz 2
-der Richtlinie 2008/98/EG zur Verfügung zu stellen. Satz 1 gilt nicht
-für Erzeugnisse mit militärischer Zweckbestimmung.
+(1) Wer als Lieferant eines Erzeugnisses im Sinne des Artikels 3
+Nummer 33 der Verordnung (EG) Nr. 1907/2006 Erzeugnisse im Sinne des
+Artikels 3 Nummer 3 der Verordnung (EG) Nr. 1907/2006 in Verkehr
+bringt, hat die folgenden Informationen gemäß Artikel 33 Absatz 1 der
+Verordnung (EG) Nr. 1907/2006 unverzüglich nach dem Inverkehrbringen
+der Europäischen Chemikalienagentur für die Datenbank nach Artikel 9
+Absatz 2 Satz 1 der Richtlinie 2008/98/EG zur Verfügung zu stellen:
+
+1.  den Namen des Stoffes im Sinne von Artikel 33 Absatz 1 der Verordnung
+    (EG) Nr. 1907/2006 und, falls verfügbar, dessen EG-Nummer und CAS-
+    Nummer,
+
+
+2.  den Grund für die Aufnahme des Stoffes in die Liste nach Artikel 59
+    Absatz 1 der Verordnung (EG) Nr. 1907/2006,
+
+
+3.  den Konzentrationsbereich des Stoffes im Erzeugnis,
+
+
+4.  die Material- oder Gemischkategorie,
+
+
+5.  die Bezeichnung des Erzeugnisses, das den Stoff enthält, oder des
+    komplexen Gegenstandes, in dem ein solches Erzeugnis eingearbeitet
+    ist,
+
+
+6.  den vom Mitteilungspflichtigen zugewiesenen Erzeugnisidentifikator,
+
+
+7.  die Erzeugniskategorie,
+
+
+8.  die Angabe der Komponenten im Falle eines komplexen Gegenstandes,
+
+
+9.  die Angabe, ob die Herstellung oder Zusammensetzung des Erzeugnisses
+    oder des komplexen Gegenstandes in der Europäischen Union erfolgt ist
+    oder nicht,
+
+
+10. die Anweisung zur sicheren Verwendung des Erzeugnisses oder des
+    komplexen Gegenstandes.
+
+
+
+Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates näher zu bestimmen, auf welche Art und
@@ -1690,7 +1795,8 @@ zulässig ist,
 
 1.  vorzuschreiben, dass bestimmte gefährliche Stoffe, bestimmte
     gefährliche Gemische oder Erzeugnisse, die einen solchen Stoff oder
-    ein solches Gemisch freisetzen können oder enthalten,
+    ein solches Gemisch freisetzen können, enthalten oder zu ihrem
+    Funktionieren benötigen, oder Einrichtungen
 
     a)  nicht, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke
         hergestellt, in den Verkehr gebracht oder verwendet werden dürfen,
@@ -1709,8 +1815,9 @@ zulässig ist,
 
 2.  vorzuschreiben, dass derjenige, der bestimmte gefährliche Stoffe,
     bestimmte gefährliche Gemische oder Erzeugnisse, die einen solchen
-    Stoff oder ein solches Gemisch freisetzen können oder enthalten,
-    herstellt, in den Verkehr bringt oder verwendet,
+    Stoff oder ein solches Gemisch freisetzen können, enthalten oder zu
+    ihrem Funktionieren benötigen, oder Einrichtungen herstellt, in den
+    Verkehr bringt oder verwendet,
 
     a)  dies anzuzeigen hat,
 
@@ -1737,9 +1844,10 @@ zulässig ist,
 
 (2) Durch Verordnung nach Absatz 1 können auch Verbote und
 Beschränkungen unter Berücksichtigung der Entwicklung von Stoffen,
-Gemischen, Erzeugnissen oder Verfahren, deren Herstellung, Verwendung,
-Entsorgung oder Anwendung mit einem geringeren Risiko für Mensch oder
-Umwelt verbunden ist, festgesetzt werden.
+Gemischen, Erzeugnissen, Einrichtungen oder Verfahren, deren
+Herstellung, Verwendung, Entsorgung oder Anwendung mit einem
+geringeren Risiko für Mensch oder Umwelt verbunden ist, festgesetzt
+werden.
 
 (3) Absatz 1 gilt auch für Biozid-Wirkstoffe und Biozid-Produkte, die
 nicht gefährliche Stoffe oder Gemische im Sinne des § 3a sind, für
@@ -1750,11 +1858,11 @@ sind. Durch Verordnung nach Absatz 1 in Verbindung mit Satz 1 können
 auch Vorschriften zur guten fachlichen Praxis bei der Verwendung von
 Biozid-Produkten erlassen werden.
 
-(4) Absatz 1 Nummer 1 und 2 gilt auch für solche Stoffe, Gemische oder
-Erzeugnisse, bei denen Anhaltspunkte, insbesondere ein nach dem Stand
-der wissenschaftlichen Erkenntnisse begründeter Verdacht dafür
-bestehen, dass der Stoff, das Gemisch oder das Erzeugnis gefährlich
-ist.
+(4) Absatz 1 Nummer 1 und 2 gilt auch für solche Stoffe, Gemische,
+Erzeugnisse oder Einrichtungen, bei denen Anhaltspunkte, insbesondere
+ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter
+Verdacht, dafür bestehen, dass der Stoff, das Gemisch, das Erzeugnis
+oder die Einrichtung gefährlich ist.
 
 (5) Die Bundesregierung kann in den Rechtsverordnungen nach Absatz 1
 auch Regelungen zum Verfahren sowie Methoden zur Überprüfung ihrer
@@ -2000,15 +2108,15 @@ werden,
         Beschäftigten ärztlich untersuchen zu lassen,
 
 
-    b)  der Arzt, der mit einer Vorsorgeuntersuchung beauftragt ist, in
-        Zusammenhang mit dem Untersuchungsbefund bestimmte Pflichten zu
-        erfüllen hat, insbesondere hinsichtlich des Inhalts einer von ihm
-        auszustellenden Bescheinigung und der Unterrichtung und Beratung über
-        das Ergebnis der Untersuchung,
+    b)  die Ärztin oder der Arzt, die oder der mit einer Vorsorgeuntersuchung
+        beauftragt ist, im Zusammenhang mit dem Untersuchungsbefund bestimmte
+        Pflichten zu erfüllen hat, insbesondere hinsichtlich des Inhalts einer
+        von ihr oder ihm auszustellenden Bescheinigung und der Unterrichtung
+        und Beratung über das Ergebnis der Untersuchung,
 
 
-    c)  die zuständige Behörde entscheidet, wenn Feststellungen des Arztes für
-        unzutreffend gehalten werden,
+    c)  die zuständige Behörde entscheidet, wenn Feststellungen der Ärztin
+        oder des Arztes für unzutreffend gehalten werden,
 
 
     d)  die in die Aufzeichnung aufzunehmenden Daten dem zuständigen Träger
@@ -2090,16 +2198,26 @@ ist zu erbringen durch
 
 
 Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht
-vorgelegt.
+vorgelegt. Der Nachweis gilt als nicht erbracht, wenn eine zuständige
+Landesbehörde nach § 19b Absatz 3 Satz 2 für die Prüfung festgestellt
+hat, dass diese nicht den Grundsätzen der Guten Laborpraxis
+entsprechend durchgeführt wurde.
 
 (3) Bundesbehörden, die Prüfungen nach Absatz 1 durchführen, sind
 dafür verantwortlich, dass in ihrem Aufgabenbereich die Grundsätze der
-Guten Laborpraxis eingehalten werden.
+Guten Laborpraxis eingehalten werden. Für die Überwachung der
+Einhaltung der Grundsätze der Guten Laborpraxis ist im Falle des
+Satzes 1 die GLP-Bundesstelle im Bundesinstitut für Risikobewertung
+zuständig. Erlangt sie davon Kenntnis, dass eine Bundesbehörde bei
+Prüfungen nach Absatz 1 die Grundsätze der Guten Laborpraxis nicht
+einhält, so informiert sie deren vorgesetzte Behörde.
 
 (4) Die Aufbewahrungspflicht nach Nummer 10.2 des Anhangs 1 kann durch
 Übergabe der Unterlagen und schriftliche Vereinbarung mit dem
 Auftraggeber oder einem Dritten, die der zuständigen Behörde
-mitzuteilen sind, übertragen werden.
+mitzuteilen sind, übertragen werden. Der Inhaber der GLP-Bescheinigung
+hat sicherzustellen, dass die Anforderungen nach Nummer 10 des Anhangs
+1 eingehalten werden.
 
 (5) Die Absätze 1 und 2 sind nicht anzuwenden auf vor dem 1. August
 1990 begonnene und bis zum
@@ -2120,8 +2238,8 @@ Prüfungen oder Phasen von Prüfungen den Grundsätzen der Guten
 Laborpraxis nach Anhang 1 entsprechen. Den Antrag nach Satz 1 kann
 auch stellen, wer, ohne zu Prüfungen nach § 19a Absatz 1 verpflichtet
 zu sein, ein berechtigtes Interesse glaubhaft macht. In dem Fall des §
-19a Absatz 3 wird der Bundesbehörde die Bescheinigung von ihrer
-Aufsichtsbehörde oder einer von dieser bestimmten Stelle erteilt. Die
+19a Absatz 3 wird der Bundesbehörde die Bescheinigung durch die GLP-
+Bundesstelle im Bundesinstitut für Risikobewertung erteilt. Die
 Bescheinigung nach den Sätzen 1 und 3 ist nach dem Muster des Anhangs
 2 auszustellen. Über einen Antrag auf Erteilung einer Bescheinigung
 nach Satz 1 ist innerhalb einer Frist von drei Monaten zu entscheiden;
@@ -2152,12 +2270,13 @@ Anforderungen des Ausstellungsstaats erfüllt.
     gewährleistet ist,
 
 
-3.  eine Bestätigung des Bundesinstitutes für Risikobewertung, dass eine
-    Prüfeinrichtung, die in einem Staat gelegen ist, der nicht
-    Mitgliedstaat der Europäischen Union ist und die gegenseitige
-    Anerkennung von GLP-Bescheinigungen nicht gewährleistet, nach den dem
-    Bundesinstitut für Risikobewertung vorliegenden Erkenntnissen
-    Prüfungen nach den Grundsätzen der Guten Laborpraxis durchführt.
+3.  eine Bestätigung der GLP-Bundesstelle im Bundesinstitut für
+    Risikobewertung, dass eine Prüfeinrichtung, die in einem Staat gelegen
+    ist, der nicht Mitgliedstaat der Europäischen Union ist und die
+    gegenseitige Anerkennung von GLP-Bescheinigungen nicht gewährleistet,
+    nach den der GLP-Bundesstelle im Bundesinstitut für Risikobewertung
+    vorliegenden Erkenntnissen Prüfungen nach den Grundsätzen der Guten
+    Laborpraxis durchführt.
 
 
 
@@ -2169,41 +2288,79 @@ Laborpraxis nach Anhang 1 zu befolgen, so dass die Korrektheit oder
 Zuverlässigkeit der von ihm durchgeführten Prüfungen und Phasen von
 Prüfungen nach Absatz 1 infrage gestellt werden könnte, so
 unterrichtet sie hierüber unter Angabe der von dieser Prüfeinrichtung
-durchgeführten Prüfungen das Bundesinstitut für Risikobewertung.
+durchgeführten Prüfungen die GLP-Bundesstelle im Bundesinstitut für
+Risikobewertung. Gelangt eine zuständige Landesbehörde zu der
+Erkenntnis, dass eine bestimmte Prüfung von demjenigen, dem eine GLP-
+Bescheinigung nach § 19b Absatz 1 erteilt wurde, in einem Maße nicht
+den Grundsätzen der Guten Laborpraxis entspricht, dass die Validität
+der Prüfung beeinträchtigt sein könnte, kann sie die Nichtkonformität
+dieser Prüfung verbindlich feststellen. Sie informiert die GLP-
+Bundesstelle im Bundesinstitut für Risikobewertung über die
+festgestellte Nichtkonformität. Die GLP-Bundesstelle im Bundesinstitut
+für Risikobewertung stellt diese Information allen für die
+Entgegennahme von Prüfungen nach § 19a Absatz 1 zuständigen
+Bewertungsbehörden unverzüglich zur Verfügung. Der Inhaber der GLP-
+Bescheinigung nach § 19b Absatz 1, in dessen Prüfeinrichtung oder an
+dessen Prüfstandort die Prüfung durchgeführt wurde, hat den
+Auftraggeber der Prüfung unverzüglich über die festgestellte
+Nichtkonformität zu informieren.
+
+(4) Der Inhaber einer GLP-Bescheinigung nach Absatz 1 ist
+verpflichtet, der Behörde, die die Bescheinigung ausgestellt hat, jede
+Änderung von Tatsachen, die für die Erteilung der Bescheinigung
+relevant sind, unverzüglich mitzuteilen. Dies gilt auch, wenn eine
+Prüfeinrichtung keine Prüfungen oder Phasen von Prüfungen nach § 19a
+Absatz 1 mehr durchführt.
+
+(5) Prüfeinrichtungen oder Prüfstandorte dürfen mit der Einhaltung der
+GLP-Grundsätze nur werben oder Prüfungen öffentlich als mit den GLP-
+Grundsätzen konform bezeichnen, sofern die Prüfeinrichtung oder der
+Prüfstandort über eine gültige GLP-Bescheinigung nach Absatz 1 oder
+eine nach Absatz 2 gleichgestellte Bescheinigung oder Bestätigung
+verfügt und diese die beworbene oder bezeichnete Prüfung abdeckt.
 
 
 ### § 19c Berichterstattung
 
-(1) Die Bundesregierung erstattet jährlich bis zum 31. März für das
-vergangene Kalenderjahr der Europäischen Kommission Bericht über die
-Anwendung der Grundsätze der Guten Laborpraxis im Geltungsbereich
-dieses Gesetzes. Der Bericht enthält ein Verzeichnis der inspizierten
-Prüfeinrichtungen und Prüfstandorte, eine Angabe der Zeitpunkte, zu
-denen Inspektionen durchgeführt wurden und eine Zusammenfassung der
-Ergebnisse der Inspektionen. Die obersten Landesbehörden wirken bei
-der Erstellung des Berichts mit und übersenden ihre Beiträge bis zum
-15\. Februar für das vergangene Kalenderjahr dem Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit.
+(1) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung
+erstattet jährlich bis zum 31. März für das vergangene Kalenderjahr
+der Europäischen Kommission Bericht über die Anwendung der Grundsätze
+der Guten Laborpraxis im Geltungsbereich dieses Gesetzes. Sie ist
+darüber hinaus für die Berichterstattung über die Gute Laborpraxis im
+Rahmen der Organisation für wirtschaftliche Zusammenarbeit und
+Entwicklung (OECD) zuständig. Die Berichte nach den Sätzen 1 und 2
+enthalten ein Verzeichnis der inspizierten Prüfeinrichtungen und
+Prüfstandorte, eine Angabe der Zeitpunkte, zu denen Inspektionen
+durchgeführt wurden und eine Zusammenfassung der Ergebnisse der
+Inspektionen. Die obersten Landesbehörden wirken bei der Erstellung
+der Berichte mit und übersenden ihre Beiträge bis zum 15. Februar für
+das vergangene Kalenderjahr der GLP-Bundesstelle im Bundesinstitut für
+Risikobewertung.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare
-Sicherheit kann ein Verzeichnis der Prüfeinrichtungen und
-Prüfstandorte, die Prüfungen oder Phasen von Prüfungen unter
-Einhaltung der Grundsätze der Guten Laborpraxis durchführen, im
-Bundesanzeiger veröffentlichen.
+(2) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung kann
+ein Verzeichnis der Prüfeinrichtungen und Prüfstandorte, die Prüfungen
+oder Phasen von Prüfungen unter Einhaltung der Grundsätze der Guten
+Laborpraxis durchführen, im Bundesanzeiger, im elektronischen
+Bundesanzeiger oder auf ihrer Internetseite veröffentlichen.
 
 
 ### § 19d Ergänzende Vorschriften
 
-(1) Das Bundesinstitut für Risikobewertung hat, zusätzlich zu den
-Aufgaben, die ihm durch Gesetze, Rechtsverordnungen oder andere
-Rechtsvorschriften übertragen sind, im Bereich der Guten Laborpraxis
-folgende Aufgaben:
+(1) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung hat
+zusätzlich folgende Aufgaben:
 
-1.  Erstellung, Führung und Fortschreibung des Verzeichnisses nach § 19c
+1.  Entgegennahme und Weiterleitung von Informationen oder sonstige
+    Mitwirkungsakte der Mitgliedstaaten, sofern für die Durchführung der
+    Richtlinie 2004/9/EG oder sonstiger Vorschriften des Unionsrechts über
+    die Gute Laborpraxis oder im Hinblick auf Verpflichtungen aus
+    internationalen Vereinbarungen über die Gute Laborpraxis erforderlich,
+
+
+2.  Erstellung, Führung und Fortschreibung des Verzeichnisses nach § 19c
     Absatz 2,
 
 
-2.  fachliche Beratung der Bundesregierung und der Länder, insbesondere
+3.  fachliche Beratung der Bundesregierung und der Länder, insbesondere
     bei der Konkretisierung der Anforderungen an
 
     a)  die Sachkunde und die Zuverlässigkeit der mit der Durchführung der
@@ -2228,33 +2385,58 @@ folgende Aufgaben:
 
 
 
-3.  fachliche Beratung der Bundesregierung im Rahmen von
+4.  fachliche Beratung der Bundesregierung im Rahmen von
     Konsultationsverfahren mit der Europäischen Kommission und anderer
     Mitgliedstaaten der Europäischen Union,
 
 
-4.  Mitwirkung bei dem Vollzug von Vereinbarungen über die Gute
+5.  Mitwirkung bei dem Vollzug von Vereinbarungen über die Gute
     Laborpraxis mit Staaten, die nicht Mitglied der Europäischen Union
-    sind,
+    sind, einschließlich
+
+    a)  der Mitarbeit in Gremien zu diesen Vereinbarungen,
 
 
-5.  die Weiterleitung von Informationen nach § 19b Absatz 3 an die
-    Europäische Kommission gemäß Artikel 5 Absatz 2 der Richtlinie
-    2004/9/EG.
+    b)  der Durchführung von Inspektionen, der Teilnahme und Mitarbeit bei
+        solchen Inspektionen im Geltungsbereich dieses Gesetzes und in anderen
+        Staaten,
 
 
 
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+
+6.  die Weiterleitung von Informationen nach § 19b Absatz 3
+
+    a)  an die Europäische Kommission gemäß Artikel 5 Absatz 2 der Richtlinie
+        2004/9/EG,
+
+
+    b)  zur Durchführung internationaler Vereinbarungen über die Gute
+        Laborpraxis an die OECD und an Staaten, die nicht Mitglied der
+        Europäischen Union sind.
+
+
+
+
+
+
+
+(2) Vorbehaltlich des § 19c Absatz 1 gilt für den Austausch von
+Informationen zwischen der GLP-Bundesstelle im Bundesinstitut für
+Risikobewertung und den zuständigen Behörden der Länder § 22 Satz 1
+und 2 entsprechend. Die GLP-Bundesstelle im Bundesinstitut für
+Risikobewertung leitet die Informationen über die Nichteinhaltung der
+GLP-Grundsätze, die sie von ausländischen Staaten in den nach § 19b
+Absatz 2 einer GLP-Bescheinigung gleichgestellten Fällen erhält,
+unverzüglich an die zuständigen Bewertungsbehörden weiter.
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zur Weiterentwicklung der Guten Laborpraxis
 die Anhänge 1 und 2 zu ändern.
 
-(3) Die Bundesregierung erlässt mit Zustimmung
-des Bundesrates              allgemeine Verwaltungsvorschriften über
-das Verfahren der behördlichen Überwachung. In der allgemeinen
-Verwaltungsvorschrift kann auch eine Übertragung der
-Veröffentlichungsbefugnis auf das Bundesinstitut für Risikobewertung
-geregelt werden.
+(4) Die Bundesregierung erlässt mit Zustimmung des Bundesrates
+allgemeine Verwaltungsvorschriften über das Verfahren der behördlichen
+Überwachung.
 
 
 ## Siebter Abschnitt - Allgemeine Vorschriften
@@ -2398,9 +2580,9 @@ Rechtsverordnung bezeichneten Bundesoberbehörde zu.
 
 1.  zu den Betriebs- und Geschäftszeiten Grundstücke, Geschäftsräume,
     Betriebsräume zu betreten und zu besichtigen, Proben von Stoffen,
-    Gemischen und Erzeugnissen nach ihrer Auswahl zu fordern und zu
-    entnehmen und in die geschäftlichen Unterlagen des
-    Auskunftspflichtigen Einsicht zu nehmen,
+    Gemischen und Erzeugnissen und von sonstigem Prüf- oder Probenmaterial
+    nach ihrer Auswahl zu fordern und zu entnehmen und in die
+    geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen,
 
 
 2.  die Vorlage der Unterlagen über Anträge, Mitteilungen,
@@ -2578,7 +2760,7 @@ Stoffen, Gemischen und Erzeugnissen oder durch Messungen entstehenden
 eigenen Aufwendungen hat er selbst zu tragen.
 
 
-### § 26 Bußgeldvorschriften
+### § 26 Bußgeldvorschriften, Verordnungsermächtigung
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2648,9 +2830,9 @@ eigenen Aufwendungen hat er selbst zu tragen.
         rechtzeitig verpackt oder
 
 
-    c)  einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, b, d,
-        e oder Buchstabe f oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für
-        einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+    c)  einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, b, d
+        bis f oder h oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen
+        bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
 
@@ -2663,7 +2845,8 @@ eigenen Aufwendungen hat er selbst zu tragen.
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
-6a. (weggefallen)
+6a. entgegen § 16f Absatz 1 Satz 1 eine Information nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 
 6b. (weggefallen)
@@ -2701,7 +2884,13 @@ eigenen Aufwendungen hat er selbst zu tragen.
     Bußgeldvorschrift verweist,
 
 
-8a. (weggefallen)
+8a. entgegen § 19b Absatz 4 Satz 1, auch in Verbindung mit Satz 2, eine
+    Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
+
+
+8b. entgegen § 19b Absatz 5 mit der Einhaltung der GLP-Grundsätze wirbt
+    oder eine Prüfung als mit den GLP-Grundsätzen konform bezeichnet,
 
 
 9.  entgegen § 21 Absatz 3 eine Auskunft trotz Anmahnung nicht erteilt,
@@ -2720,38 +2909,139 @@ eigenen Aufwendungen hat er selbst zu tragen.
 
 
 
-    zuwiderhandelt,
+    zuwiderhandelt oder
 
 
 10a. einer Rechtsverordnung nach § 28 Absatz 11 über Zulassungs- oder
     Meldepflichten für bestimmte Biozid-Produkte zuwiderhandelt, soweit
     sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
-    verweist, oder
-
-
-11. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
-    Gemeinschaften oder der Europäischen Union zuwiderhandelt, die
-    Sachbereiche dieses Gesetzes betrifft, soweit eine Rechtsverordnung
-    nach Satz 2 für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist und die Zuwiderhandlung nicht nach § 27
-    Absatz 1 Nummer 3 oder Absatz 2 als Straftat geahndet werden kann. Die
-    Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung
-    des Bundesrates die einzelnen Tatbestände der Rechtsakte, die nach
-    Satz 1 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können,
-    zu bezeichnen, soweit dies zur Durchführung der Rechtsakte
-    erforderlich ist.
+    verweist.
 
 
 
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
-4a, 4b und 7 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend
-Euro, in den Fällen des Absatzes 1 Nummer 4, 4c, 4f, 5, 6, 7 Buchstabe
-a, Nummer 8 Buchstabe b, Nummer 10 und 11 mit einer Geldbuße bis zu
-fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis
-zu zehntausend Euro geahndet werden.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
+unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
+Gemeinschaft oder der Europäischen Union zuwiderhandelt, die
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+1.  inhaltlich einem in Absatz 1
+
+    a)  Nummer 5 Buchstabe a oder b oder
+
+
+    b)  Nummer 9
+
+
+
+    bezeichneten Gebot oder Verbot entspricht,
+
+
+2.  inhaltlich einer Vorschrift entspricht, zu der die in Absatz 1
+
+    a)  Nummer 5 Buchstabe c,
+
+
+    b)  Nummer 6,
+
+
+    c)  Nummer 7 Buchstabe a,
+
+
+    d)  Nummer 7 Buchstabe b,
+
+
+    e)  Nummer 7 Buchstabe c, Nummer 8 Buchstabe a oder Nummer 10a oder
+
+
+    f)  Nummer 8 Buchstabe b
+
+
+
+    genannten Vorschriften ermächtigen oder
+
+
+3.  bestimmt,
+
+    a)  dass Informationen oder Dokumente zu gefährlichen Stoffen, zu
+        gefährlichen Gemischen, zu Erzeugnissen, die solche Stoffe oder
+        Gemische freisetzen können, enthalten oder zu ihrem Funktionieren
+        benötigen, oder zu Einrichtungen zu erstellen, zu berücksichtigen,
+        aufzubewahren, bereitzuhalten, zu übermitteln, zu aktualisieren, zu
+        bestätigen, aufeinander abzustimmen oder bei staatlichen Stellen oder
+        bei sonstigen Stellen mit hoheitlichen Aufgaben einzuholen sind,
+
+
+    b)  dass staatliche Stellen oder sonstige Stellen mit hoheitlichen
+        Aufgaben über gefährliche Stoffe, über gefährliche Gemische, über
+        Erzeugnisse, die solche Stoffe oder Gemische freisetzen können,
+        enthalten oder zu ihrem Funktionieren benötigen, oder über
+        Einrichtungen zu unterrichten sind,
+
+
+    c)  dass bei staatlichen Stellen oder bei sonstigen Stellen mit
+        hoheitlichen Aufgaben für die Herstellung, das Inverkehrbringen oder
+        die Verwendung von gefährlichen Stoffen, von gefährlichen Gemischen,
+        von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können,
+        enthalten oder zu ihrem Funktionieren benötigen, oder von
+        Einrichtungen eine Registrierung erfolgen muss,
+
+
+    d)  dass gefährliche Stoffe oder gefährliche Gemische zurückzugewinnen, zu
+        sammeln, zurückzuhalten, aufzuarbeiten, zu recyceln oder zu zerstören
+        sind,
+
+
+    e)  dass Erzeugnisse, die gefährliche Stoffe oder gefährliche Gemische
+        freisetzen können, enthalten oder zu ihrem Funktionieren benötigen,
+        oder Einrichtungen außer Betrieb zu nehmen, zu überprüfen, zu
+        reparieren, auszustatten, aufzuarbeiten, zu recyceln oder zu zerstören
+        sind,
+
+
+    f)  dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen
+        Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche
+        Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem
+        Funktionieren benötigen, durchzuführen sind,
+
+
+    g)  dass für gefährliche Stoffe, für gefährliche Gemische, für
+        Erzeugnisse, die solche Stoffe oder Gemische freisetzen können,
+        enthalten oder zu ihrem Funktionieren benötigen, oder für
+        Einrichtungen nicht oder nur auf bestimmte Art und Weise geworben
+        werden darf,
+
+
+    h)  dass gefährliche Stoffe, gefährliche Gemische oder Erzeugnisse, die
+        solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem
+        Funktionieren benötigen, oder Einrichtungen nicht erworben oder nur
+        auf bestimmte Art und Weise hergestellt oder in Verkehr gebracht
+        werden dürfen oder
+
+
+    i)  dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen
+        Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche
+        Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem
+        Funktionieren benötigen, nicht, nur auf bestimmte Art und Weise oder
+        nur unter bestimmten Voraussetzungen durchgeführt werden dürfen,
+
+
+
+    soweit eine Rechtsverordnung nach Absatz 5 für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist.
+
+
+
+
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
+4a, 4b und 7 Buchstabe b und des Absatzes 2 Nummer 2 Buchstabe d mit
+einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des
+Absatzes 1 Nummer 4, 4c, 4f, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b
+und Nummer 10 und des Absatzes 2 Nummer 1 Buchstabe a, Nummer 2
+Buchstabe a bis c und f und Nummer 3 Buchstabe c bis i mit einer
+Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit
+einer Geldbuße bis zu zehntausend Euro geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist
 
 1.  in den Fällen des Absatzes 1 Nummer 9 in Verbindung mit § 21 Absatz 3
@@ -2777,8 +3067,14 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 
+(5) Die Bundesregierung wird ermächtigt, soweit dies zur Durchführung
+der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
+Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des
+Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
+nach Absatz 2 geahndet werden können.
 
-### § 27 Strafvorschriften
+
+### § 27 Strafvorschriften, Verordnungsermächtigung
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2818,10 +3114,10 @@ Futtermittelgesetzbuches herstellt oder in Verkehr bringt.
 
 (2) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer durch eine in Absatz 1 oder Absatz 1a oder eine in § 26
-Absatz 1 Nummer 4, 5, 7 Buchstabe b, Nummer 8 Buchstabe b, Nummer 10
-oder Nummer 11 bezeichnete vorsätzliche Handlung das Leben oder die
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet.
+Absatz 1 Nummer 4, 5, 7 Buchstabe b, Nummer 8 Buchstabe b oder Nummer
+10 oder Absatz 2 Nummer 1 Buchstabe a oder Nummer 2 Buchstabe a, d
+oder f bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit
+eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.
 
 (3) Der Versuch ist strafbar.
 
@@ -2923,11 +3219,11 @@ geahndet werden.
 ### § 27c Zuwiderhandlungen gegen Abgabevorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
-bestraft, wer eine in § 26 Absatz 1 Nummer 7 Buchstabe b bezeichnete
-vorsätzliche Handlung begeht, obwohl er weiß, dass der gefährliche
-Stoff, das gefährliche Gemisch oder das Erzeugnis für eine
-rechtswidrige Tat, die den Tatbestand eines Strafgesetzes
-verwirklicht, verwendet werden soll.
+bestraft, wer eine in § 26 Absatz 1 Nummer 7 Buchstabe b oder Absatz 2
+Nummer 2 Buchstabe d bezeichnete vorsätzliche Handlung begeht, obwohl
+er weiß, dass der gefährliche Stoff, das gefährliche Gemisch oder das
+Erzeugnis für eine rechtswidrige Tat, die den Tatbestand eines
+Strafgesetzes verwirklicht, verwendet werden soll.
 
 (2) Erkennt der Täter in den Fällen des Absatzes 1 leichtfertig nicht,
 dass der gefährliche Stoff, das gefährliche Gemisch oder das Erzeugnis
@@ -2940,10 +3236,10 @@ bis zu einem Jahr oder Geldstrafe.
 
 Gegenstände, auf die sich eine Straftat nach den §§ 27, 27b Absatz 1
 bis 4 oder § 27c oder eine Ordnungswidrigkeit nach § 26 Absatz 1
-Nummer 4, 5, 7 Buchstabe a oder Buchstabe b, Nummer 10 oder Nummer 11
-oder § 27b Absatz 5 Satz 1 bezieht, können eingezogen werden. § 74a
-des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten
-sind anzuwenden.
+Nummer 4, 5, 7 Buchstabe a oder b oder Nummer 10 oder Absatz 2 Nummer
+1 Buchstabe a oder Nummer 2 Buchstabe a, c oder d oder § 27b Absatz 5
+Satz 1 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches
+und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## Achter Abschnitt - Schlussvorschriften

@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 Nr. 1 iVm Anlage 1 bis 5 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 Nr. 2 iVm Anlage 3 bis 5 V v. 22.11.2023 II Nr. 321 mWv 1.6.2024 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 
@@ -180,6 +183,13 @@ Zuletzt geändert durch
 *    *   § 1.25
 
     *   Anordnungen, Erlaubnisse und Genehmigungen
+
+
+*    *   § 1.26
+
+    *   Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben
+        der Besatzung automatisiert wahrgenommen werden, oder für ein
+        ferngesteuertes Fahrzeug
 
 
 *    *
@@ -1165,12 +1175,12 @@ Zuletzt geändert durch
 
 *    *   § 14.11
 
-    *   (ohne Inhalt)
+    *   Übernachtungshäfen Boven-Rijn, Waal und Lek
 
 
 *    *   § 14.12
 
-    *   (weggefallen)
+    *   Schutz- und Sicherheitshafen Emmerich
 
 
 *    *   § 14.13
@@ -2334,6 +2344,40 @@ besonderen schiffahrtspolizeilichen Vorschriften.
 
 Anordnungen, Erlaubnisse und Genehmigungen können von der zuständigen
 Behörde mit Auflagen und Bedingungen versehen werden.
+
+
+#### § 1.26 Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug
+
+
+1.  Zu Versuchszwecken und für einen begrenzten Zeitraum kann die
+    zuständige Behörde aufgrund einer Empfehlung der Zentralkommission für
+    die Rheinschifffahrt für ein Fahrzeug, bei dem Aufgaben der Besatzung
+    automatisiert wahrgenommen werden, oder für ein ferngesteuertes
+    Fahrzeug Abweichungen von dieser Verordnung erlauben.
+
+
+2.  Die Empfehlung legt Mindestanforderungen fest, die gewährleisten, dass
+    das Fahrzeug
+
+    a)  die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt und
+
+
+    b)  über ein den anderen auf dem Rhein verkehrenden Fahrzeugen
+        gleichwertiges Sicherheitsniveau verfügt.
+
+
+
+    Die zuständige Behörde kann ihre Erlaubnis mit zusätzlichen
+    Anforderungen versehen.
+
+
+3.  Die zuständige Behörde trägt die Abweichungen nach Nummer 1 und die
+    Anforderungen nach Nummer 2 in das Schiffsattest des betroffenen
+    Fahrzeugs oder das nach der Rheinschiffsuntersuchungsordnung als
+    gleichwertig anerkannte Zeugnis ein.
+
+
+
 
 
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
@@ -7976,7 +8020,11 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
     *   d)
 
     *   unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge
-        gegenüber dem Ufer 20 km in der Stunde nicht überschreiten;
+        gegenüber dem Ufer 20 km in der Stunde nicht überschreiten,
+        ausgenommen die Talfahrt in der Gebirgsstrecke zwischen Bingen (km
+        528,50) und St. Goar (km 556,00), in der die Höchstgeschwindigkeit der
+        Fahrzeuge gegenüber dem Ufer 24 km in der Stunde nicht überschreiten
+        darf;
 
 
 *    *
@@ -8310,7 +8358,7 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
     jeweiligen Stromabschnitt weiterhin gültig.
 
 
-5.  Ein Fahrgastschiff darf unterhalb von Emmerich (km 885) nur fahren,
+5.  Ein Fahrgastschiff darf unterhalb von Emmerich (km 855) nur fahren,
     wenn es die Anforderungen des Artikels 13.01 Nummer 2 Buchstabe b ES-
     TRIN erfüllt.
 
@@ -9049,7 +9097,7 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
         und
 
 
-    b)  von Pannerden (km 876,50) bis Krimpen am Lek (km 989,20).
+    b)  Pannerden (km 867,50) bis Krimpen am Lek (km 989,20).
 
 
 
@@ -10153,14 +10201,15 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-#### § 14.11 Übernachtungshäfen Boven-Rijn und Waal
+#### § 14.11 Übernachtungshäfen Boven-Rijn, Waal und Lek
 
 
-1.  In den Übernachtungshäfen Lobith (km 863,40), Ijzendoorn (km 907,80)
-    und Haaften (km 936,00) ist es ohne Erlaubnis der zuständigen Behörde
-    verboten:
+1.  In den Übernachtungshäfen Spijk (km 859,80), Lobith (km 863,40),
+    IJzendoorn (km 907,80), Haaften (km 936,00) und Bergambacht (km
+    976,90) ist es ohne Erlaubnis der zuständigen Behörde verboten:
 
-    a)  Fahrzeuge zu beladen oder zu entladen;
+    a)  Fahrzeuge zu beladen oder zu entladen und außerdem in Bergambacht zu
+        bunkern;
 
 
     b)  Güter oder andere Gegenstände am Ufer oder auf einer Landebrücke
@@ -10176,43 +10225,88 @@ Bescheinigung der zuständigen Behörde ersetzt.
     e)  mit Schwimmkörpern oder schwimmenden Anlagen einzufahren;
 
 
-    f)  mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nr. 2
+    f)  mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nummer 2
         oder 3 führen müssen;
 
 
-    g)  länger als drei Tage hintereinander stillzuliegen;
+    g)  länger als für 3 x 24 aufeinanderfolgende Stunden an den öffentlichen
+        Liegeplätzen stillzuliegen;
 
 
-    h)  innerhalb von zwölf Stunden, nachdem die unter g genannte Periode
-        beendet ist, wieder stillzuliegen;
+    h)  innerhalb von zwölf Stunden nach dem Verlassen des Hafens erneut in
+        demselben Übernachtungshafen stillzuliegen;
 
 
     i)  mit dem Hinterschiff am Ufer anzulegen;
 
 
     j)  mit Verbänden mit einer Länge von mehr als 135 m an den Landebrücken
-        anzulegen.
+        und in Bergambacht an den Anlegestellenanzulegen.
 
 
 
 
 
-2.  Der Schiffsführer muss die Wahl des Liegeplatzes in den
+2.  Abweichend von Nummer 1 Buchstabe f dürfen im Übernachtungshafen Spijk
+    Schiffe einfahren, die eine Bezeichnung nach§ 3.14 Nummer 2 führen
+    müssen.
+
+
+3.  Abweichend von Nummer 1 Buchstabe i darf im Übernachtungshafen Spijk
+    an der Landebrücke 10 mit dem Hinterschiff am Ufer angelegt werden.
+
+
+4.  Abweichend von Nummer 1 Buchstabe j darf im Übernachtungshafen Spijk
+    an der Landebrücke 10 mit Verbänden mit einer Länge von mehr als 135 m
+    angelegt werden.
+
+
+5.  Der Schiffsführer muss die Wahl des Liegeplatzes in den
     Übernachtungshäfen sowie die Abfahrt aus diesen unverzüglich den
-    Verkehrsposten Nijmegen (Übernachtungshafen Lobith) oder Tiel
-    (Übernachtungshafen Ijzendoorn und Haaften) mitteilen.
+    Verkehrsposten Nijmegen (Übernachtungshäfen Spijk und Lobith), Tiel
+    (Übernachtungshäfen IJzendoorn und Haaften) oder Dordrecht
+    (Übernachtungshafen Bergambacht) mitteilen.
 
 
-3.  Die zuständige Behörde kann Anordnungen erteilen, die diesen
-    Paragrafen ergänzen oder von ihm abweichen.
+6.  Die zuständige Behörde kann Anordnungen erteilen, die diesen
+    Paragraphen ergänzen oder von ihm abweichen.
 
 
 
 
 
-#### § 14.12 (weggefallen)
+#### § 14.12 Schutz- und Sicherheitshafen Emmerich
 
--
+
+1.  In dem Schutz- und Sicherheitshafen Emmerich (km 851,78) ist es ohne
+    Erlaubnis der zuständigen Behörde verboten:
+
+    a)  mit Schwimmkörpern oder schwimmenden Anlagen einzufahren;
+
+
+    b)  mit Fahrzeugen einzufahren, die eine Bezeichnung nach § 3.14 Nummer 1,
+        2 oder 3 führen müssen;
+
+
+    c)  länger als 3 x 24 aufeinanderfolgende Stunden stillzuliegen;
+
+
+    d)  innerhalb von zwölf Stunden nach dem Verlassen des Hafens erneut in
+        diesem stillzuliegen;
+
+
+    e)  eine Liegestelle mit einem von einem Verband getrennten Leichter zu
+        belegen.
+
+
+
+
+
+2.  Die zuständige Behörde kann Anordnungen erteilen, die diesen
+    Paragraphen ergänzen oder von ihm abweichen.
+
+
+
 
 
 #### § 14.13 (weggefallen)

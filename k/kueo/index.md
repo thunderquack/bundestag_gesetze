@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1292
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.10.2021 I 4740
-
-Änderung durch
-:   Art. 5 G v. 16.10.2023 I Nr. 280 mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 5 G v. 16.10.2023 I Nr. 280
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein

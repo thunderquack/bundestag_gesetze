@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3016
 
-Änderung durch
-:   Art. 2 V v. 20.2.2023 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 V v. 20.2.2023 I Nr. 47
 
 
 ## Eingangsformel

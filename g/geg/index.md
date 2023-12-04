@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1728
 
-Geändert durch
-:   Art. 18a G v. 20.7.2022 I 1237
-
-Änderung durch
-:   Art. 1 G v. 16.10.2023 I Nr. 280 mWv 1.1.2024 bzw. 1.10.2024 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 1 G v. 16.10.2023 I Nr. 280
 
 [^F812398_01_BJNR172810020]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2010/31/EU des
     Europäischen Parlaments und des Rates vom 19. Mai 2010 über die

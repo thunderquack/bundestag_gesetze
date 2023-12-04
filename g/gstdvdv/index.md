@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 82
 
+V aufgeh. durch
+:   § 15 Satz 2 V 2030-8-5-26 v. 15.11.2023 I Nr. 326 mWv 1.1.2024
+
+Ersetzt durch
+:   V 2030-8-5-26 v. 15.11.2023 I Nr. 326 [GStDVDV 2024]
+
 
 ## Eingangsformel
 

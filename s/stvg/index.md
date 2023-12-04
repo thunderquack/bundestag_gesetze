@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 16 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 8 G v. 21.11.2023 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
 
@@ -4610,7 +4613,7 @@ Nachfolgeunternehmen der Deutschen Bundespost zugelassen sind.
 6.  für Maßnahmen zur Durchführung des Altfahrzeugrechts,
 
 
-7.  für Maßnahmen zur Durchführung des Infrastrukturabgabenrechts,
+7.  (weggefallen)
 
 
 8.  für Maßnahmen zur Durchführung der Datenverarbeitung bei

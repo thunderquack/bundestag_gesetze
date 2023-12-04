@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.12.2022 I 2791; 2023 I Nr. 212
+:   Art. 1 G v. 13.11.2023 I Nr. 310
 
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
@@ -53,8 +53,7 @@ nach folgenden Prozentsätzen aufgeteilt:
 (2) Die im Folgenden genannten Beträge verändern die Anteile des
 Bundes, der Länder und Gemeinden nach Absatz 1:
 
-*    *   Kalender-
-        jahr
+*    *   Kalenderjahr
 
     *   Bund
 
@@ -65,106 +64,74 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 
 *    *   2020
 
-    *   minus
-        20 533 717 472
-        Euro
+    *   minus 20 533 717 472 Euro
 
-    *   15 858 934 915
-        Euro
+    *   15 858 934 915 Euro
 
-    *   4 674 782 557
-        Euro
+    *   4 674 782 557 Euro
 
 
 *    *   2021
 
-    *   minus
-        17 142 407 683
-        Euro
+    *   minus 17 142 407 683 Euro
 
-    *   12 988 407 683
-        Euro
+    *   12 988 407 683 Euro
 
-    *   4 154 000 000
-        Euro
+    *   4 154 000 000 Euro
 
 
 *    *   2022
 
-    *   minus
-        15 008 682 590
-        Euro
+    *   minus 15 008 682 590 Euro
 
-    *   12 608 682 590
-        Euro
+    *   12 608 682 590 Euro
 
-    *   2 400 000 000
-        Euro
+    *   2 400 000 000 Euro
 
 
 *    *   2023
 
-    *   minus
-        9 892 407 683
-        Euro
+    *   minus 13 792 407 683 Euro
 
-    *   7 492 407 683
-        Euro
+    *   11 392 407 683 Euro
 
-    *   2 400 000 000
-        Euro
+    *   2 400 000 000 Euro
 
 
 *    *   2024
 
-    *   minus
-        10 080 407 683
-        Euro
+    *   minus 10 980 407 683 Euro
 
-    *   7 680 407 683 Euro
-        Euro
+    *   8 580 407 683 Euro
 
-    *   2 400 000 000
-        Euro
+    *   2 400 000 000 Euro
 
 
 *    *   2025
 
-    *   minus
-        9 705 407 683
-        Euro
+    *   minus 10 605 407 683 Euro
 
-    *   7 305 407 683
-        Euro
+    *   8 205 407 683 Euro
 
-    *   2 400 000 000
-        Euro
+    *   2 400 000 000 Euro
 
 
 *    *   2026
 
-    *   minus
-        9 705 407 683
-        Euro
+    *   minus 10 605 407 683 Euro
 
-    *   7 305 407 683
-        Euro
+    *   8 205 407 683 Euro
 
-    *   2 400 000 000
-        Euro
+    *   2 400 000 000 Euro
 
 
 *    *   ab 2027
 
-    *   minus
-        9 517 407 683
-        Euro
+    *   minus 10 417 407 683 Euro
 
-    *   7 117 407 683
-        Euro
+    *   8 017 407 683 Euro
 
-    *   2 400 000 000
-        Euro.
+    *   2 400 000 000 Euro.
 
 
 

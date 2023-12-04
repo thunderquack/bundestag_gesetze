@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 484
 
 Zuletzt geändert durch
-:   Art. 12 G v. 6.6.2023 I Nr. 146
+:   Art. 1 V v. 24.11.2023 I Nr. 323
 
 
 ## Eingangsformel

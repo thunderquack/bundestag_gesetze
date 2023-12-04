@@ -19,25 +19,41 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 1 G v. 21.11.2023 I Nr. 315 mWv 1.12.2023 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 21.11.2023 I Nr. 315 mWv 1.7.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 21.11.2023 I Nr. 315 mWv 1.1.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Autobahn- und Bundesstraßenmaut
 
 (1) Für die Benutzung der Bundesautobahnen und der Bundesstraßen mit
 Fahrzeugen im Sinne des Satzes 2 ist eine Gebühr im Sinne des Artikels
-2 Buchstabe b der Richtlinie 1999/62/EG des Europäischen Parlaments
-und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die
-Benutzung bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. L
-187 vom 20.7.1999, S. 42), die zuletzt durch die Richtlinie 2013/22/EU
-(ABl. L 158 vom 10.6.2013, S. 356) geändert worden ist, zu entrichten
-(Maut). Fahrzeuge sind Kraftfahrzeuge oder Fahrzeugkombinationen,
+2 Absatz 1 Nummer 7 der Richtlinie 1999/62/EG des Europäischen
+Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von
+Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge
+(ABl. L 187 vom 20.7.1999, S. 42), die zuletzt durch die Richtlinie
+(EU) 2022/362 (ABl. L 69 vom 4.3.2022, S. 1) geändert worden ist, zu
+entrichten (Maut). Fahrzeuge sind Kraftfahrzeuge und
+Fahrzeugkombinationen,
 
 1.  die für den Güterkraftverkehr bestimmt sind oder verwendet werden und
 
 
-2.  deren zulässiges Gesamtgewicht mindestens 7,5 Tonnen beträgt.
+2.  deren technisch zulässige Gesamtmasse mindestens 7,5 Tonnen beträgt.
 
 
 
+Im Fall von Fahrzeugkombinationen besteht eine Pflicht zur Entrichtung
+der Maut nur, wenn das Motorfahrzeug eine technisch zulässige
+Gesamtmasse von mehr als 3,5 Tonnen aufweist. Die technisch zulässige
+Gesamtmasse einer Fahrzeugkombination im Rahmen dieses Gesetzes wird
+aus der Summe der technisch zulässigen Gesamtmasse der Einzelfahrzeuge
+berechnet.
 
 (2) Die Maut nach Absatz 1 ist nicht zu entrichten, wenn folgende
 Fahrzeuge verwendet werden:
@@ -69,25 +85,37 @@ Fahrzeuge verwendet werden:
     Leerfahrten,
 
 
-7.  elektrisch betriebene Fahrzeuge im Sinne des § 2 Nummer 1 des
-    Elektromobilitätsgesetzes in der jeweils geltenden Fassung,
+7.  emissionsfreie schwere Nutzfahrzeuge im Sinne des Artikels 2 Absatz 1
+    Nummer 29 Buchstabe a der Richtlinie 1999/62/EG des Europäischen
+    Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von
+    Gebühren für die Benutzung bestimmter Verkehrswege durch schwere
+    Nutzfahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), die zuletzt durch die
+    Richtlinie (EU) 2022/362 (ABl. L 69 vom 4.3.2022, S. 1) geändert
+    wurde, bis 31. Dezember 2025,
 
 
 8.  überwiegend mit Erdgas betriebene Fahrzeuge, die werksseitig für den
     Betrieb mit CNG, LNG oder als Zweistoffmotor mit LNG/Diesel
     ausgeliefert wurden und über eine Systemgenehmigung gemäß Verordnung
     VO (EG) Nr. 595/2009 verfügen, im Zeitraum vom 1. Januar 2019 bis zum
-    31\. Dezember 2023; ab dem 1. Januar 2024 sind für diese Fahrzeuge
-    jedoch die Mautteilsätze für die Infrastrukturkosten nach § 3 Absatz 1
-    Nummer 1 und die verursachten Lärmbelastungskosten nach § 3 Absatz 1
-    Nummer 3 zu entrichten.
+    31\. Dezember 2023,
+
+
+9.  emissionsfreie Fahrzeuge im Sinne der Nummer 7 mit einer technisch
+    zulässigen Gesamtmasse von bis zu 4,25 Tonnen.
 
 
 
 Voraussetzung für die Mautbefreiung nach Satz 1 Nummer 2 bis 4 ist,
 dass die Fahrzeuge als für die dort genannten Zwecke bestimmt
 erkennbar sind. Im Fall von Fahrzeugkombinationen ist das
-Motorfahrzeug für die Mautbefreiung der Kombination maßgebend.
+Motorfahrzeug für die Mautbefreiung der Kombination maßgebend. Als
+emissionsfreie Fahrzeuge gelten auch solche Fahrzeuge mit
+Verbrennungsmotor, deren Primärenergieträger für die Bereitstellung
+der Antriebsenergie in der reinen chemischen Verbrennungsreaktion kein
+Kohlenstoffdioxid erzeugt. Kohlenstoffdioxid-Anteile im Abgas, die aus
+der Verbrennung technischer Hilfsstoffe entstehen, werden in dieser
+Klassifizierung nicht berücksichtigt.
 
 (3) Die Maut nach Absatz 1 ist nicht zu entrichten auf:
 
@@ -107,23 +135,19 @@ Motorfahrzeug für die Mautbefreiung der Kombination maßgebend.
 
 
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Mautpflicht auf genau bezeichnete Abschnitte von Straßen nach
-Landesrecht auszudehnen, wenn dies zur Vermeidung von
-Mautausweichverkehren oder aus Gründen der Sicherheit des Verkehrs
-oder wegen ihrer Funktion zur Verknüpfung von Schwerpunkten des
-weiträumigen Güterkraftverkehrsaufkommens mit dem
-Bundesfernstraßennetz gerechtfertigt ist.
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die Mautpflicht
+auf genau bezeichnete Abschnitte von Straßen nach Landesrecht
+auszudehnen, wenn dies zur Vermeidung von Mautausweichverkehren oder
+aus Gründen der Sicherheit des Verkehrs oder wegen ihrer Funktion zur
+Verknüpfung von Schwerpunkten des weiträumigen
+Güterkraftverkehrsaufkommens mit dem Bundesfernstraßennetz
+gerechtfertigt ist.
 
 (5) Auf die Mautpflicht der Streckenabschnitte nach Absatz 4 ist durch
 straßenverkehrsrechtliche Beschilderung hinzuweisen.
 
-(6) Abweichend von § 34 der Straßenverkehrs-Zulassungs-Ordnung wird
-das zulässige Gesamtgewicht einer Fahrzeugkombination im Rahmen dieses
-Gesetzes aus der Summe der zulässigen Gesamtgewichte der
-Einzelfahrzeuge ohne Berücksichtigung von Stütz- und Aufliegelasten
-berechnet.
+(6) (weggefallen)
 
 
 ## § 2 Mautschuldner
@@ -164,10 +188,13 @@ des Absatzes 3, der aus je einem Mautteilsatz für
 1.  die Infrastrukturkosten,
 
 
-2.  die verursachten Luftverschmutzungskosten und
+2.  die verursachten Luftverschmutzungskosten,
 
 
-3.  die verursachten Lärmbelastungskosten
+3.  die verursachten Lärmbelastungskosten und
+
+
+4.  die Kosten der verkehrsbedingten Kohlenstoffdioxid-Emissionen
 
 
 
@@ -205,6 +232,48 @@ Jahr 2018 entfallenden Kosten, die nicht durch die in diesem Jahr
 erhobene Maut gedeckt sind, in den Mautteilsätzen der Jahre 2019 bis
 2022 berücksichtigt.
 
+(6) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zwecke der
+Staureduzierung für bestimmte Zeiträume auf genau bezeichneten
+Abschnitten der mautpflichtigen Straßen nach Maßgabe des Satzes 2 die
+in Anlage 1 festgelegten Mautteilsätze für Infrastrukturkosten für
+Zeiten besonderer verkehrlicher Belastung zu erhöhen oder für
+besonders verkehrsarme Zeiten zu ermäßigen. Für den Erlass einer
+Rechtsverordnung nach Satz 1 müssen folgende Anforderungen erfüllt
+sein:
+
+1.  die Differenzierung ist transparent, wird der Öffentlichkeit
+    zugänglich gemacht und ist allen Nutzern zu den gleichen Bedingungen
+    zugänglich;
+
+
+2.  die Differenzierung erfolgt nach der Tageszeit, der Tageskategorie
+    oder der Jahreszeit;
+
+
+3.  kein Mautteilsatz für Infrastrukturkosten beträgt mehr als 175 Prozent
+    des durchschnittlichen Mautteilsatzes für die jeweilige
+    Fahrzeugkategorie;
+
+
+4.  die Hauptverkehrszeiten, in denen zur Staureduzierung der höhere
+    Mautteilsatz für Infrastrukturkosten erhoben wird, betragen höchstens
+    sechs Stunden pro Tag;
+
+
+5.  die Differenzierung wird für den überlasteten Straßenabschnitt auf
+    transparente und ertragsneutrale Weise gestaltet und angewandt, indem
+    Verkehrsteilnehmern, die den betreffenden Straßenabschnitt außerhalb
+    der Hauptverkehrszeiten nutzen, ermäßigte Mautgebühren und denjenigen
+    Verkehrsteilnehmern, die denselben Abschnitt während der Stoßzeiten
+    nutzen, erhöhte Mautgebühren berechnet werden;
+
+
+6.  zusätzliche Einnahmen dürfen nicht erzielt werden.
+
+
+
+
 
 ## § 3a Knotenpunkte
 
@@ -239,12 +308,12 @@ Zusammenlegung so, dass der Knotenpunkt bei der Straße mit der höheren
 Nummer nach der Nummerierung des Bundesinformationssystems Straße
 gesetzt wird.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte
-für Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von
+Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für
+Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem
 üblichen Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium
-für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch
+für Digitales und Verkehr wird ferner ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach
 Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und
 Mobilität zu übertragen.
@@ -303,7 +372,8 @@ Betreiber nachfolgende Daten verarbeiten:
     sowie die Belegnummer,
 
 
-5.  Kennzeichen des Fahrzeugs oder der Fahrzeugkombination,
+5.  Kennzeichen und Fahrzeugidentifikationsnummer des Fahrzeugs oder der
+    Fahrzeugkombination,
 
 
 6.  für die Mauthöhe maßgebliche Merkmale des Fahrzeugs oder der
@@ -382,20 +452,20 @@ Güterkraftverkehrsgesetzes verarbeiten.
 (4) Der Mautschuldner hat bei der Mauterhebung mitzuwirken. Er hat die
 technischen Einrichtungen zur Mautentrichtung ordnungsgemäß zu nutzen
 und die für die Maut maßgeblichen Tatsachen anzugeben. Das
-Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Einzelheiten der Nutzung der technischen Einrichtungen zu regeln und
-die nach Satz 2 maßgeblichen Tatsachen festzulegen sowie das Verfahren
-der Angabe dieser Tatsachen zu regeln.
+Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der
+Nutzung der technischen Einrichtungen zu regeln und die nach Satz 2
+maßgeblichen Tatsachen festzulegen sowie das Verfahren der Angabe
+dieser Tatsachen zu regeln.
 
 (5) Eine Maut oder, im Fall des Absatzes 6 Satz 1, ein der Maut
 entsprechender Betrag wird auf Verlangen ganz oder teilweise
 erstattet, wenn die Fahrt, für die sie entrichtet wurde, nicht oder
 nicht vollständig durchgeführt wird (Erstattung der Maut). Das
-Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das
-Verfahren der Erstattung der Maut zu regeln. Die Bearbeitungsgebühr
-für ein Erstattungsverlangen beträgt höchstens 20 Euro.
+Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der
+Erstattung der Maut zu regeln. Die Bearbeitungsgebühr für ein
+Erstattungsverlangen beträgt höchstens 20 Euro.
 
 (6) Verpflichtet sich der Betreiber oder ein Anbieter, der einen
 Vertrag nach § 4d Absatz 1 oder § 4f Absatz 1 mit dem Bundesamt für
@@ -677,25 +747,24 @@ beschränkten Zulassung haben keine aufschiebende Wirkung.
 
 ## § 4h Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-näheren Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d
-Absatz 2 und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich
-festzusetzen. Das Bundesministerium für Verkehr und digitale
-Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder
-teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
+Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d Absatz 2
+und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich
+festzusetzen. Das Bundesministerium für Digitales und Verkehr wird
+ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das
+Bundesamt für Logistik und Mobilität zu übertragen.
 
 
 ## § 4i Rechtsverordnungen zu Gebietsvorgaben
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des
-Mautsystemgesetzes für die nach § 1 mautpflichtigen Straßen
-festzulegen. Das Bundesministerium für Verkehr und digitale
-Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben
+im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach
+§ 1 mautpflichtigen Straßen festzulegen. Das Bundesministerium für
+Digitales und Verkehr wird ferner ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder
 teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
 
@@ -753,21 +822,33 @@ Bundesamt für Logistik und Mobilität nach Erfüllung des Zwecks ihrer
 Aufbewahrungsfristen unverzüglich zu löschen.
 
 
-## § 5 Nachweis der Mautentrichtung durch den Mautschuldner
+## § 5 Nachweispflicht des Mautschuldners
 
-Der Mautschuldner hat auf Verlangen des Bundesamtes für Logistik und
-Mobilität die ordnungsgemäße Entrichtung der Maut nachzuweisen. Das
-Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Einzelheiten über das Verfahren zum Nachweis der Mautentrichtung zu
-regeln. Im Falle des nicht ordnungsgemäßen Nachweises des zulässigen
-Gesamtgewichts des Fahrzeuges oder der Fahrzeugkombination wird der
-Mautteilsatz für die Infrastrukturkosten je nach Anzahl der Achsen
-nach dem Höchstsatz in Anlage 1 Nummer 1 Buchstabe c oder d berechnet.
-Im Falle des nicht ordnungsgemäßen Nachweises der Emissionsklasse des
-Fahrzeuges wird der Mautteilsatz für die verursachten
-Luftverschmutzungskosten nach dem Höchstsatz in Anlage 1 Nummer 2
-Buchstabe a Doppelbuchstabe ff berechnet.
+(1) Der Mautschuldner hat auf Verlangen des Betreibers nach § 4 Absatz
+3 Satz 1, eines Anbieters nach § 10 Absatz 1 oder § 11 Absatz 1 des
+Mautsystemgesetzes oder des Bundesamtes für Logistik und Mobilität,
+die für die Mauterhebung maßgeblichen Tatsachen nachzuweisen. Das
+Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der
+Nachweisführung zu regeln. Im Falle des nicht ordnungsgemäßen
+Nachweises der technisch zulässigen Gesamtmasse des Kraftfahrzeuges
+oder der Fahrzeugkombination wird der Mautteilsatz für die
+Infrastrukturkosten je nach Anzahl der Achsen nach dem Höchstsatz in
+Anlage 1 Nummer 1 Buchstabe c oder d berechnet. Im Falle des nicht
+ordnungsgemäßen Nachweises der Schadstoffklasse des Fahrzeuges wird
+der Mautteilsatz für die verursachten Luftverschmutzungskosten nach
+dem Höchstsatz in Anlage 1 Nummer 2 Buchstabe a Kategorie F berechnet.
+Im Falle des nicht ordnungsgemäßen Nachweises der Kohlenstoffdioxid-
+Emissionsklasse des Fahrzeugs wird der Mautteilsatz für die Kosten für
+verkehrsbedingte Kohlenstoffdioxid-Emissionen nach Kohlenstoffdioxid-
+Emissionsklasse 1 in Anlage 1 Nummer 4 berechnet.
+
+(2) Besteht zwischen dem Mautschuldner und dem Betreiber nach § 4
+Absatz 3 Satz 1 oder einem Anbieter nach § 10 Absatz 1 oder § 11
+Absatz 1 des Mautsystemgesetzes Uneinigkeit über die für die Mauthöhe
+maßgeblichen Merkmale des Kraftfahrzeugs oder der Fahrzeugkombination,
+hat das Bundesamt für Logistik und Mobilität diese auf Antrag
+festzustellen.
 
 
 ## § 6 Einrichtungen zur Erhebung der Maut
@@ -815,19 +896,42 @@ und einander übermitteln:
     Fahrzeugkombination,
 
 
-6.  Identifikationsnummer des Betreibers oder des Anbieters nach den §§ 4e
-    und 4f,
+6.  folgende im Fahrzeuggerät gespeicherte Daten:
+
+    a)  Zeitpunkt der Aktivierung,
 
 
-7.  Identifikationsnummer und Betriebszustand des Fahrzeuggeräts sowie
-    Informationen zu gesperrten Fahrzeuggeräten inklusive des Zeitraums
-    der Sperrung und des Sperrgrundes,
+    b)  der aktuelle Betriebszustand, die letzten drei vorherigen
+        Betriebszustände sowie Zeitpunkt und Ort des jeweiligen Wechsels des
+        Betriebszustandes,
 
 
-8.  Vertragsnummer des Nutzers und
+    c)  Ort, Zeitpunkt und Qualität der letzten Positionsermittlung,
 
 
-9.  Bedienungsdaten des Fahrzeuggeräts.
+    d)  Ort und Zeitpunkt der letzten Empfangsbestätigung durch den
+        Fahrzeugführer sowie die bestätigte Systembenachrichtigung,
+
+
+    e)  die Fahrzeugklasse, die aktuell gültige und die zuvor gespeicherte
+        technisch zulässige Gesamtmasse und die aktuell gültige und die zuvor
+        gespeicherte Anzahl der Achsen des Fahrzeugs oder der
+        Fahrzeugkombination,
+
+
+    f)  Vertragsnummer des Nutzers, Identifikationsnummer des Fahrzeuggerätes
+        sowie
+
+
+    g)  die Identifikationsnummer des Betreibers oder des Anbieters nach den
+        §§ 4e und 4f, und
+
+
+
+
+
+7.  Informationen zu gesperrten Fahrzeuggeräten inklusive des Zeitraums
+    der Sperrung und des Sperrgrundes.
 
 
 
@@ -924,12 +1028,14 @@ Bundesamt für Logistik und Mobilität.
 die tatsächliche Wegstrecke der Benutzung mautpflichtiger Straßen im
 Sinne des § 1 nicht festgestellt werden, wird eine Maut erhoben, die
 einer Wegstrecke von 500 Kilometern auf mautpflichtigen Straßen im
-Sinne des § 1 entspricht. Im Fall des Satzes 1 wird beim Mautteilsatz
+Sinne des § 1 entspricht. Im Falle des Satzes 1 wird beim Mautteilsatz
 für die Infrastrukturkosten der Betrag nach Anlage 1 Nummer 1
-Buchstabe d sowie beim Mautteilsatz für die verursachten
+Buchstabe d, beim Mautteilsatz für die verursachten
 Luftverschmutzungskosten der Betrag nach Anlage 1 Nummer 2 Buchstabe a
-Doppelbuchstabe ff zugrunde gelegt, es sei denn, der Mautschuldner
-kann nachweisen, dass eine günstigere Fallgruppe vorliegt. Beim
+Kategorie F sowie beim Mautteilsatz für Kosten für verkehrsbedingte
+Kohlenstoffdioxid-Emissionen der Betrag nach Anlage 1 Nummer 4
+Buchstabe a zugrunde gelegt, es sei denn, der Mautschuldner kann
+nachweisen, dass eine günstigere Fallgruppe vorliegt. Beim
 Mautteilsatz für die Lärmbelastungskosten kommt der Betrag nach Anlage
 1 Nummer 3 zur Anwendung. Eine nachträgliche Mauterhebung entfällt,
 soweit der Mautschuldner nachweislich die ihm obliegenden Pflichten
@@ -1003,6 +1109,11 @@ ist, sind die Daten nach § 7 Absatz 2 Satz 1 zu löschen
 
 
 
+Werden die Daten nach § 7 Absatz 2 Satz 1 im Rahmen eines Verfahrens
+nach dem Gesetz über Ordnungswidrigkeiten oder im Rahmen eines
+Nacherhebungsverfahrens verarbeitet, gelten über Satz 1 hinaus die
+allgemeinen datenschutzrechtlichen Vorschriften für das
+Bußgeldverfahren oder für das Verwaltungsverfahren.
 
 (5) Bilder und Daten, die im Rahmen der Kontrolle nach § 7 Absatz 2
 erhoben und gespeichert wurden, sind unmittelbar nach dem
@@ -1018,15 +1129,28 @@ Vergütung des Betreibers auswirkt.
 
 (6) Nach diesem Gesetz gespeicherte Daten dürfen in anonymisierter
 Form für statistische Zwecke und für Zwecke des Verkehrsmanagements
-verwendet werden.
+verwendet werden. Die nach § 4 Absatz 3 Satz 3 Nummer 2, 6, 8 und 10
+gespeicherten Daten dürfen unmittelbar nach ihrer Erhebung in
+pseudonymisierter Form für statistische Auswertungen zum Zwecke der
+Verkehrslenkung sowie der Verbesserung des Verkehrsflusses und der
+Verkehrssicherheit verwendet werden, soweit die Verwendung für diese
+Zwecke in pseudonymisierter Form erforderlich ist und kein Grund zu
+der Annahme besteht, dass die schutzwürdigen Interessen der
+betroffenen Personen an dem Ausschluss der Verwendung überwiegen. Die
+nach Satz 2 verwendeten Daten nach § 4 Absatz 3 Satz 3 Nummer 2, 6 und
+8 sind unverzüglich nach Erreichung des Zwecks, zu dem sie
+pseudonymisiert wurden, spätestens aber nach 120 Tagen automatisiert
+zu löschen oder für die Zwecke des Satzes 1 zu anonymisieren. Die nach
+Satz 2 verwendeten Daten nach § 4 Absatz 3 Satz 3 Nummer 10 sind nach
+ihrer statistischen Auswertung unverzüglich automatisiert zu löschen.
 
-(7) Das Bundesamt für Logistik und Mobilität übermittelt in
-anonymisierter Form die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2
-und 6 in regelmäßigen Abständen an das vom Bundesministerium für
-Verkehr und digitale Infrastruktur betriebene offene Datenportal
-mCLOUD oder ein Nachfolgeportal, auf dem die Daten allen
-Interessierten gebührenfrei und in standardisierter Form zur Verfügung
-gestellt werden.
+(7) Die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 werden in
+anonymisierter Form in regelmäßigen Abständen durch das Bundesamt für
+Logistik und Mobilität über den Nationalen Zugangspunkt nach § 2
+Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013
+(BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17.
+Juni 2017 (BGBl. I S. 2690) geändert worden ist, allen Interessierten
+gebührenfrei und in standardisierter Form bereitgestellt.
 
 
 ## § 10 Bußgeldvorschriften
@@ -1092,13 +1216,16 @@ zusätzlich dem Verkehrshaushalt zugeführt.
 
 (2) Aus dem Mautaufkommen werden Ausgaben
 
-1.  für Betrieb, Überwachung und Kontrolle des Mautsystems sowie
+1.  für Betrieb, Überwachung und Kontrolle des Mautsystems,
 
 
 2.  von jährlich bis zu 450 Millionen Euro für die Durchführung von
     Programmen des Bundes zur Umsetzung der Ziele Beschäftigung,
     Qualifizierung, Umwelt und Sicherheit in Unternehmen des
-    mautpflichtigen Güterkraftverkehrs
+    mautpflichtigen Güterkraftverkehrs sowie
+
+
+3.  im Zusammenhang mit der Durchführung des Mautsystemgesetzes
 
 
 
@@ -1106,38 +1233,32 @@ geleistet.
 
 (3) Den Trägern der Straßenbaulast einer mautpflichtigen Straße oder
 eines Abschnittes einer mautpflichtigen Straße steht das auf den in
-ihrer Baulast befindlichen Strecken angefallene Mautaufkommen nach
-anteiliger Berücksichtigung der in den Absätzen 1 und 2 genannten
-Abzüge zu. Es ist in vollem Umfang zweckgebunden für die Verbesserung
-der Verkehrsinfrastruktur für die Bundesfernstraßen zu verwenden. Die
-Anteile anderer Träger der Straßenbaulast als der Bund werden über den
-Bundeshaushalt zugewiesen. Ist der Bund Träger der Straßenbaulast,
-stellt er das ihm nach Satz 1 zustehende Mautaufkommen der
+ihrer Baulast befindlichen Strecken angefallene Mautaufkommen aus den
+Mautteilsätzen nach § 3 Absatz 1 Nummer 1 bis 3 nach anteiliger
+Berücksichtigung der in den Absätzen 1 und 2 genannten Abzüge zu. Das
+angefallene Mautaufkommen aus dem Mautteilsatz nach § 3 Absatz 1
+Nummer 4 steht dem Bund zu. Das dem Bund zustehende Mautaufkommen ist
+zur Hälfte zweckgebunden für die Verbesserung der
+Verkehrsinfrastruktur für die Bundesfernstraßen einschließlich der
+Ausgaben für Betrieb, Planungsleistungen und Verwaltung der
 Gesellschaft privaten Rechts im Sinne des
-Infrastrukturgesellschaftserrichtungsgesetzes für das in ihrer
-Zuständigkeit befindliche Streckennetz mit der Zweckbindung nach Satz
-2 zur Verfügung.
+Infrastrukturgesellschaftserrichtungsgesetzes und im Übrigen für
+Maßnahmen aus dem Bereich Mobilität und dabei ganz überwiegend für
+Maßnahmen aus dem Bereich Bundesschienenwege zu verwenden. Ist der
+Träger der Straßenbaulast nicht der Bund, wird das dem Träger nach
+Satz 1 zustehende Mautaufkommen über den Bundeshaushalt zweckgebunden
+zur Verbesserung der Verkehrsinfrastruktur für die Bundesfernstraßen
+zugewiesen. Ist der Bund Träger der Straßenbaulast, stellt er das ihm
+nach Satz 1 zustehende Mautaufkommen der Gesellschaft privaten Rechts
+im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes anteilig
+für das in ihrer Zuständigkeit befindliche Streckennetz im Rahmen der
+Maßgaben des Satzes 3 zur Verfügung.
 
-(4) Abweichend von Absatz 3 Satz 2 leistet der Bund aus seinem Anteil
-auch
-
-1.  die Finanzmittel, die zur Verwaltung der im Sinne des
-    Infrastrukturgesellschaftserrichtungsgesetzes errichteten Gesellschaft
-    dienen und dieser Gesellschaft vom Bund als Eigentümer zur Verfügung
-    gestellt werden, sowie
-
-
-2.  die Ausgaben im Zusammenhang mit der Durchführung des
-    Mautsystemgesetzes.
-
-
-
-
-(5) Für das auf den Streckenabschnitten nach § 1 Absatz 4 angefallene
+(4) Für das auf den Streckenabschnitten nach § 1 Absatz 4 angefallene
 Mautaufkommen findet die Zweckbindung nach Absatz 3 Satz 2 keine
 Anwendung.
 
-(6) In einem Haushaltsjahr nicht verausgabte Mittel nach Absatz 1 sind
+(5) In einem Haushaltsjahr nicht verausgabte Mittel nach Absatz 1 sind
 im jeweils übernächsten Haushaltsjahr dem Verkehrshaushalt zusätzlich
 zur Verfügung zu stellen. Nicht durch Einnahmen nach Absatz 1 gedeckte
 Ausgaben sind im übernächsten Haushaltsjahr im Verkehrshaushalt
@@ -1154,7 +1275,55 @@ Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004
 Mai 2009 (BGBl. I S. 1170) geändert worden ist.
 
 
-## § 13 (weggefallen)
+## § 13 Bericht über die erhobenen Mautgebühren
+
+(1) Bis zum 25. März 2025 und anschließend alle fünf Jahre
+veröffentlicht das Bundesministerium für Digitales und Verkehr in
+zusammengefasster Form einen Bericht über die erhobenen Mautgebühren.
+
+(2) Der nach Absatz 1 zu veröffentlichende Bericht hat folgende
+Angaben zu enthalten:
+
+1.  die Entwicklungen bei Gebühren für die Nutzung der
+    Straßeninfrastruktur, insbesondere der gebührenpflichtigen Netze und
+    Fahrzeugkategorien, einschließlich der Ausnahmen von der Mautpflicht;
+
+
+2.  die Differenzierung des Mautteilsatzes für Infrastrukturkosten nach
+    Fahrzeugklasse;
+
+
+3.  die Differenzierung des Mautteilsatzes für Infrastrukturkosten nach
+    der Tageszeit oder der Tageskategorie;
+
+
+4.  die Gebühren für externe Kosten, die auf die einzelnen Kombinationen
+    von Fahrzeugklasse, Straßenkategorie und Zeitraum erhoben werden;
+
+
+5.  die Mautteilsätze für Infrastrukturkosten und die Gesamteinnahmen aus
+    diesen Mautteilsätzen;
+
+
+6.  die Gesamteinnahmen aus Gebühren für externe Kosten;
+
+
+7.  die Gesamteinnahmen aus Mautgebühren;
+
+
+8.  die Verwendung der erzielten Einnahmen und Angaben darüber, inwiefern
+    die in Artikel 9 Absatz 2 der Richtlinie 1999/62/EG genannten Ziele
+    dadurch erreicht werden konnten, oder, wenn diese Einnahmen in den
+    Staatshaushalt fließen, Informationen zur Höhe der Ausgaben für
+    Straßenverkehrsinfrastrukturprojekte und Projekte im Bereich
+    nachhaltiger Verkehr und
+
+
+9.  die Entwicklung des Anteils der Fahrzeuge in den verschiedenen
+    Emissionsklassen auf mautpflichtigen Straßen.
+
+
+
 
 
 ## § 13a Übergangsregelungen
@@ -1165,55 +1334,73 @@ weiter anzuwenden, dass abweichend von der vorstehend genannten
 Fassung mautpflichtig alle Fahrzeuge und Fahrzeugkombinationen sind,
 die für den Güterkraftverkehr bestimmt sind oder verwendet werden.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den
-in Absatz 1 genannten Zeitpunkt zu verschieben, soweit es auf Grund
-eines technischen oder rechtlichen Grundes im Hinblick auf eine
-ordnungsgemäße Erhebung der Maut erforderlich ist, die
-Übergangsbestimmung des Absatzes 1 befristet fortzuführen. Sobald der
-für den Erlass einer Rechtsverordnung nach Satz 1 maßgebliche Grund
-entfallen ist, bestimmt das Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
-einen neuen Zeitpunkt für das Auslaufen des Übergangszeitraumes nach
-Absatz 1. Der Zeitpunkt nach Satz 2 ist so festzulegen, dass die
-Anwendung der neuen Bestimmungen frühestens nach Ablauf von zwei
-Wochen nach dem Fortfall des für den Erlass einer Rechtsverordnung
-nach Satz 1 maßgeblichen Grundes beginnt.
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates einen Zeitpunkt nach dem 1. Dezember 2023
+zu bestimmen, zu dem die Erhebung eines Mautteilsatzes für Kosten für
+verkehrsbedingte Kohlenstoffdioxid-Emissionen nach § 3 Absatz 1 Nummer
+4 erfolgen soll, soweit es aus einem technischen oder rechtlichen
+Grund im Hinblick auf eine ordnungsgemäße Erhebung der Maut
+erforderlich ist. Der Zeitpunkt ist so festzulegen, dass die Erhebung
+des Mautteilsatzes für Kosten für verkehrsbedingte Kohlenstoffdioxid-
+Emissionen schnellstmöglich nach dem Entfallen des Grundes für die
+Rechtsverordnung erhoben werden kann.
 
 
 ## § 14 Alt-Sachverhalte
 
 (1) Für Sachverhalte, die ab dem 1. Juli 2003 und bis zum Ablauf des
 31\. August 2007 entstanden sind, bestimmt sich der Mautsatz abweichend
-von § 3 Absatz 3 nach der Anlage 2.
+von § 3 Absatz 3 nach der Anlage 2. Im Rahmen der Anlage 2 ist die
+Straßenverkehrs-Zulassungs-Ordnung in der am 31. August 2007 geltenden
+Fassung anzuwenden.
 
 (2) Für Sachverhalte, die ab dem 1. September 2007 und bis zum Ablauf
 des 31. Dezember 2008 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 3.
+abweichend von § 3 Absatz 3 nach der Anlage 3. Im Rahmen der Anlage 3
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 31. Dezember 2008
+geltenden Fassung anzuwenden.
 
 (3) Für Sachverhalte, die ab dem 1. Januar 2009 und bis zum Ablauf des
 31\. Dezember 2014 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 4.
+abweichend von § 3 Absatz 3 nach der Anlage 4. Im Rahmen der Anlage 4
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 31. Dezember 2014
+geltenden Fassung anzuwenden.
 
 (4) Für Sachverhalte, die ab dem 1. Januar 2015 und bis zum Ablauf des
 30\. September 2015 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 5.
+abweichend von § 3 Absatz 3 nach der Anlage 5. Im Rahmen der Anlage 5
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 30. September
+2015 geltenden Fassung anzuwenden.
 
 (5) Für Sachverhalte, die ab dem 1. Oktober 2015 und bis zum Ablauf
 des 31. Dezember 2018 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 6.
+abweichend von § 3 Absatz 3 nach der Anlage 6. Im Rahmen der Anlage 6
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 31. Dezember 2018
+geltenden Fassung anzuwenden.
 
 (6) Für Sachverhalte, die ab dem 1. Januar 2019 und bis zum Ablauf des
 27\. Oktober 2020 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 7.
+abweichend von § 3 Absatz 3 nach der Anlage 7. Im Rahmen der Anlage 7
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 27. Oktober 2020
+geltenden Fassung anzuwenden.
 
 (7) Für Sachverhalte, die ab dem 28. Oktober 2020 und bis zum Ablauf
 des 30. September 2021 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 8.
+abweichend von § 3 Absatz 3 nach der Anlage 8. Im Rahmen der Anlage 8
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 30. September
+2021 geltenden Fassung anzuwenden.
 
 (8) Für Sachverhalte, die ab dem 1. Oktober 2021 und bis zum Ablauf
 des 31. Dezember 2022 entstanden sind, bestimmt sich der Mautsatz
-abweichend von § 3 Absatz 3 nach der Anlage 9.
+abweichend von § 3 Absatz 3 nach der Anlage 9. Im Rahmen der Anlage 9
+ist die Straßenverkehrs-Zulassungs-Ordnung in der am 31. Dezember 2022
+geltenden Fassung anzuwenden.
+
+(9) Für Sachverhalte, die ab dem 1. Januar 2023 und bis zum Ablauf des
+30\. November 2023 entstanden sind, bestimmt sich der Mautsatz
+abweichend von § 3 Absatz 3 nach der Anlage 10. Im Rahmen der Anlage
+10 ist die Straßenverkehrs-Zulassungs-Ordnung in der am 30. November
+2023 geltenden Fassung anzuwenden.
 
 
 ## § 15 (weggefallen)
@@ -1221,48 +1408,48 @@ abweichend von § 3 Absatz 3 nach der Anlage 9.
 
 ## Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
 
-(Fundstelle: BGBl. I 2022, 2237 – 2238)
-
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 5 – 6)
 
 1.  Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz
     1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
 
-    a)  mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen
-        unabhängig von der Anzahl der Achsen 0,067 Euro,
+    a)  mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12
+        Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
 
 
-    b)  mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen
+    b)  mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen
         unabhängig von der Anzahl der Achsen 0,109 Euro,
 
 
-    c)  mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu
-        drei Achsen 0,143 Euro,
+    c)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen
+        sowie bis zu drei Achsen 0,143 Euro,
 
 
-    d)  mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier
-        oder mehr Achsen 0,155 Euro.
+    d)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen
+        sowie vier oder mehr Achsen 0,155 Euro.
 
 
 
 
 
 2.  Mautteilsatz für die verursachten Luftverschmutzungskosten je
-    Kilometer nach § 3 Absatz 1 Nummer 2:
+    Kilometer nach § 3 Absatz 1 Nummer 2
 
-    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert
-        nach zulässigem Gesamtgewicht und Achsanzahl in Euro:
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen je Kilometer
+        differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl in
+        Euro:
 
         *            *   Kategorie
 
-            *   7,5 bis < 12 t
+            *   7,5 bis*                                    12 t
 
             *   12 bis 18 t
 
-            *   > 18 t mit bis zu
-                3 Achsen
+            *   *                                    18 t mit
+                bis zu 3 Achsen
 
-            *   > 18 t mit
-                4 Achsen oder mehr
+            *   *                                    18 t mit
+                4 oder mehr Achsen
 
 
         *            *   A
@@ -1331,58 +1518,70 @@ abweichend von § 3 Absatz 3 nach der Anlage 9.
             *   0,187
 
 
+        *            *   G
+
+            *   0,001
+
+            *   0,001
+
+            *   0,001
+
+            *   0,001
+
+
 
 
 
     b)  Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a
-        aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in
-        Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+        aufgeführten Kategorien A bis F auf Grund ihrer Schadstoffklasse sowie
+        zur Kategorie G:
 
         aa)
-            Kategorie A Fahrzeuge der Schadstoffklasse S 6,
+            Kategorie A Fahrzeuge der Schadstoffklasse EURO VI,
 
 
 
 
 
         bb)
-            Kategorie B Fahrzeuge der EEV-Klasse 1 und der Schadstoffklasse S 5,
+            Kategorie B Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse EURO V,
 
 
 
 
 
         cc)
-            Kategorie C Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der
-                Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder
-                höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung
-                angehören,
+            Kategorie C Fahrzeuge der Schadstoffklasse EURO IV,
 
 
 
 
 
         dd)
-            Kategorie D Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der
-                Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder
-                höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung
-                angehören,
+            Kategorie D Fahrzeuge der Schadstoffklasse EURO III,
 
 
 
 
 
         ee)
-            Kategorie E Fahrzeuge der Schadstoffklasse S 2,
+            Kategorie E Fahrzeuge der Schadstoffklasse EURO II,
 
 
 
 
 
         ff)
-            Kategorie F Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner
-                Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung
-                angehören.
+            Kategorie F Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner
+                EURO-Schadstoffklasse oder EEV Klasse angehören,
+
+
+
+
+
+        gg)
+            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive
+                emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
 
 
 
@@ -1394,18 +1593,19 @@ abweichend von § 3 Absatz 3 nach der Anlage 9.
 
 
 
-3.  Mautteilsatz für die verursachten Lärmbelastungskosten differenziert
-    nach zulässigem Gesamtgewicht und Achsanzahl je Kilometer nach § 3
-    Absatz 1 Nummer 3 in Euro:
+3.  Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer
+    differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für
+    mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1
+    Nummer 3 in Euro:
 
-    *        *   7,5 bis < 12 t
+    *        *   7,5 bis*                              12 t
 
         *   12 bis 18 t
 
-        *   > 18 t mit bis zu
-            3 Achsen
+        *   *                              18 t mit
+            bis zu 3 Achsen
 
-        *   > 18 t mit
+        *   *                              18 t mit
             4 Achsen oder mehr
 
 
@@ -1416,6 +1616,161 @@ abweichend von § 3 Absatz 3 nach der Anlage 9.
         *   0,016
 
         *   0,012
+
+
+
+
+
+4.  Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-
+    Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
+
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert
+        nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch
+        zulässiger Gesamtmasse und Achsanzahl in Euro:
+
+        *            *   Kohlenstoffdioxid-
+                Emissionsklasse
+
+            *   7,5 bis*                                    12 t
+
+            *   12 bis 18 t
+
+            *   *                                    18 t mit
+                bis zu 3 Achsen
+
+            *   *                                    18 t mit
+                4 Achsen
+
+            *   *                                    18 t mit
+                5 oder mehr Achsen
+
+
+        *            *   1
+
+            *   EURO I und schlechter
+
+            *   0,080
+
+            *   0,104
+
+            *   0,158
+
+            *   0,158
+
+            *   0,162
+
+
+        *            *   EURO II
+                EURO III
+
+            *   0,080
+
+            *   0,104
+
+            *   0,138
+
+            *   0,138
+
+            *   0,162
+
+
+        *            *   EURO IV
+                EURO V EEV Klasse 1
+
+            *   0,080
+
+            *   0,100
+
+            *   0,134
+
+            *   0,134
+
+            *   0,160
+
+
+        *            *   EURO VI
+
+            *   0,080
+
+            *   0,100
+
+            *   0,124
+
+            *   0,134
+
+            *   0,158
+
+
+        *            *   2
+
+            *   0,076
+
+            *   0,096
+
+            *   0,118
+
+            *   0,128
+
+            *   0,150
+
+
+        *            *   3
+
+            *   0,072
+
+            *   0,090
+
+            *   0,111
+
+            *   0,120
+
+            *   0,142
+
+
+        *            *   4
+
+            *   0,040
+
+            *   0,050
+
+            *   0,063
+
+            *   0,068
+
+            *   0,079
+
+
+        *            *   5
+
+            *   0
+
+            *   0
+
+            *   0
+
+            *   0
+
+            *   0
+
+
+
+
+
+    b)  Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in
+        Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt
+        nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1
+        Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen
+        Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von
+        Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge
+        (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die
+        Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom
+        24\. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die
+        Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2
+        und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum
+        Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die
+        gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird
+        spätestens nach sechs Jahren und einem Tag nach dem Tag der
+        Erstzulassung des betroffenen Fahrzeugs wirksam.
 
 
 
@@ -2240,6 +2595,211 @@ Fundstelle: BGBl. I 2021, 1612)
 
 3.  Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer
     nach § 3 Absatz 1 Nummer 3: 0,002 Euro.
+
+
+
+
+
+## Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023
+
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 6 – 7)
+
+
+1.  Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz
+    1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+
+    a)  mit einem zulässigen Gesamtgewicht von 7,5 Tonnen bis unter 12 Tonnen
+        unabhängig von der Anzahl der Achsen 0,067 Euro,
+
+
+    b)  mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen
+        unabhängig von der Anzahl der Achsen 0,109 Euro,
+
+
+    c)  mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu
+        drei Achsen 0,143 Euro,
+
+
+    d)  mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier
+        oder mehr Achsen 0,155 Euro.
+
+
+
+
+
+2.  Mautteilsatz für die verursachten Luftverschmutzungskosten je
+    Kilometer nach § 3 Absatz 1 Nummer 2
+
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert
+        nach zulässigem Gesamtgewicht und Achsanzahl in Euro:
+
+        *            *   Kategorie
+
+            *   7,5 bis*                                    12 t
+
+            *   12 bis 18 t
+
+            *   *                                    18 t mit
+                bis zu 3 Achsen
+
+            *   *                                    18 t mit
+                4 Achsen oder mehr
+
+
+        *            *   A
+
+            *   0,015
+
+            *   0,015
+
+            *   0,022
+
+            *   0,023
+
+
+        *            *   B
+
+            *   0,043
+
+            *   0,052
+
+            *   0,062
+
+            *   0,062
+
+
+        *            *   C
+
+            *   0,059
+
+            *   0,063
+
+            *   0,080
+
+            *   0,087
+
+
+        *            *   D
+
+            *   0,088
+
+            *   0,101
+
+            *   0,134
+
+            *   0,149
+
+
+        *            *   E
+
+            *   0,113
+
+            *   0,121
+
+            *   0,164
+
+            *   0,182
+
+
+        *            *   F
+
+            *   0,114
+
+            *   0,123
+
+            *   0,169
+
+            *   0,187
+
+
+
+
+
+    b)  Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a
+        aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in
+        Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+
+        aa)
+            Kategorie A Fahrzeuge der Schadstoffklasse S 6,
+
+
+
+
+
+        bb)
+            Kategorie B Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,
+
+
+
+
+
+        cc)
+            Kategorie C Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der
+                Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder
+                höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung
+                angehören,
+
+
+
+
+
+        dd)
+            Kategorie D Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der
+                Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder
+                höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung
+                angehören,
+
+
+
+
+
+        ee)
+            Kategorie E Fahrzeuge der Schadstoffklasse S 2,
+
+
+
+
+
+        ff)
+            Kategorie F Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner
+                Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung
+                angehören.
+
+
+
+
+
+
+
+
+
+
+
+3.  Mautteilsatz für die verursachten Lärmbelastungskosten differenziert
+    nach zulässigem Gesamtgewicht und Achsanzahl je Kilometer nach § 3
+    Absatz 1 Nummer 3 in Euro
+
+    *        *   7,5 bis*                              12 t
+
+        *   12 bis 18 t
+
+        *   *                              18 t mit
+            bis zu 3 Achsen
+
+        *   *                              18 t mit
+            4 Achsen oder mehr
+
+
+    *        *   0,016
+
+        *   0,016
+
+        *   0,016
+
+        *   0,012
+
+
+
 
 
 

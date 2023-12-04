@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 576
 
 Zuletzt geändert durch
-:   Art. 3 V v. 17.12.2021 I 5219
+:   Art. 1 V v. 24.11.2023 I Nr. 319
 
 
 ## Eingangsformel
@@ -73,7 +73,8 @@ Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder
 dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche
 Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche,
 fernmündliche oder andere vergleichbare Formen der Beschlussfassung
-sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
+außerhalb von Sitzungen sind nur zulässig, wenn kein Mitglied diesem
+Verfahren widerspricht.
 
 
 ### § 3 Aufgabenkommission
@@ -288,10 +289,9 @@ Verhinderung der eingeteilten Personen Ersatzprüfende zu bestimmen.
 
 ### § 11 Anfertigung der Aufsichtsarbeiten
 
-(1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche an den
-Wochentagen Montag, Dienstag, Donnerstag und Freitag anzufertigen. An
-allen Prüfungsorten werden je Prüfungstermin dieselben
-Prüfungsaufgaben zur selben Zeit bearbeitet.
+(1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche
+anzufertigen. An allen Prüfungsorten werden je Prüfungstermin
+dieselben Prüfungsaufgaben zur selben Zeit bearbeitet.
 
 (2) Vor Beginn der Anfertigung der Aufsichtsarbeiten haben sich die
 Prüflinge an jedem Tag der Prüfung gegenüber der Aufsichtsperson durch

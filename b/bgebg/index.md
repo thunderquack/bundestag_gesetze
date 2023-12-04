@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3154
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.7.2021 I 3019
+:   Art. 7 G v. 21.11.2023 I Nr. 315
 
 
 ## § 1 Gebührenerhebung
@@ -83,8 +83,7 @@ Leistungen
 
 7.  nach dem Bundesfernstraßengesetz, dem
     Fernstraßenbauprivatfinanzierungsgesetz, dem
-    Bundesfernstraßenmautgesetz, dem Mautsystemgesetz und dem
-    Infrastrukturabgabengesetz sowie
+    Bundesfernstraßenmautgesetz und dem Mautsystemgesetz sowie
 
 
 8.  der Ermöglichung des Befahrens von Bundeswasserstraßen mit

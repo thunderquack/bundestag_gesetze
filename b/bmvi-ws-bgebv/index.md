@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.5.2023 I Nr. 127
 
+Änderung durch
+:   Art. 5 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -1822,8 +1825,8 @@ Binnenschifffahrt
     *   Prüfung und Siegelung einer Metalltafel
 
     *   § 1.10 Nummer 2 BinSchStrO
-        § 1.10 Nummer 2 RheinSchPV
-        § 1.10 Nummer 2 MoselSchPV
+        § 1.10a Nummer 1 RheinSchPV
+        § 1.10a Nummer 1MoselSchPV
         § 1.10 Nummer 5 der Anlage A zur DonauSchPV
         Artikel 32.06 und 33.04 ES-TRIN
 

@@ -17,7 +17,7 @@ Fundstelle
 :   eBAnz: 2011, AT144 V2
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.10.2023 I Nr. 276
+:   Art. 1 V v. 22.11.2023 I Nr. 318
 
 [^f614410_01_BJNR614410011]:     Diese Verordnung macht Gebrauch von der Richtlinie 96/53/EG vom 25.
     Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für
@@ -56,11 +56,8 @@ ist ausschließlich auf den in der Anlage festgelegten Strecken nach
 Maßgabe der folgenden Vorschriften zulässig.
 
 (2) Abweichend von Absatz 1 dürfen in § 3 Satz 1 Nummer 1 bezeichnete
-Sattelkraftfahrzeuge in den Ländern Baden-Württemberg, Bayern,
-Brandenburg, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-
-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt,
-Schleswig-Holstein und Thüringen das gesamte Streckennetz der
-jeweiligen Länder nutzen.
+Sattelkraftfahrzeuge das gesamte Streckennetz aller Länder –
+ausgenommen das Streckennetz des Landes Berlin – nutzen.
 
 
 ## § 3 Fahrzeuge
@@ -395,7 +392,7 @@ eine kurze Vorgangsbeschreibung beizubringen.
 
 ## § 13 Übergangs- und Anwendungsbestimmungen
 
-(1) Mit Ablauf des 31. Dezember 2023 sind nicht mehr anzuwenden:
+(1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
 1.  § 2 Absatz 2,
 

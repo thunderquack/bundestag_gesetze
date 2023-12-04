@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 3385
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.12.2022 I 2431
+:   Art. 1 V v. 27.11.2023 I Nr. 328
 
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen

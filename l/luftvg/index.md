@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 42 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 15 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 8.10.2023 I Nr. 272
 
 
 ## Erster Abschnitt - Luftverkehr

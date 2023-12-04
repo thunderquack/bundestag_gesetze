@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 iVm Anlage 7 bis 10 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 iVm Anlage 6 V v. 22.11.2023 II Nr. 321 mWv 1.7.2024 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 
