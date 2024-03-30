@@ -1,5 +1,6 @@
 import subprocess
 import os
+import shutil
 
 def clone_and_run():
     git_clone_cmd = "git clone https://github.com/thunderquack/gesetze-tools.git"
@@ -17,6 +18,15 @@ def clone_and_run():
     subprocess.run(convert_cmd, check=True, shell=True)
 
     os.chdir("..")
+    current_directory = os.getcwd()
+    print(f"Current Directory: {current_directory}")
+
+    directory_to_delete = os.path.join(current_directory, 'gesetze-tools')
+    try:
+        shutil.rmtree(directory_to_delete)
+        print(f"Folder {directory_to_delete} is removed.")
+    except Exception as e:
+        print(f"Error deleting folder {directory_to_delete}: {e}")
 
 if __name__ == "__main__":
     clone_and_run()
