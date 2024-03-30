@@ -16,5 +16,7 @@ def clone_and_run():
     convert_cmd = "python lawdown.py convert laws .."
     subprocess.run(convert_cmd, check=True, shell=True)
 
+    os.chdir("..")
+
 if __name__ == "__main__":
     clone_and_run()
