@@ -2,7 +2,7 @@ import subprocess
 import os
 
 def clone_and_run():
-    git_clone_cmd = "git clone https://github.com/bundestag/gesetze-tools.git"
+    git_clone_cmd = "https://github.com/thunderquack/gesetze-tools.git"
     subprocess.run(git_clone_cmd, check=True, shell=True)
 
     os.chdir("gesetze-tools")
