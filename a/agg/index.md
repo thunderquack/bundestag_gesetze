@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1897
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.12.2022 I 2510
+:   Art. 15 G v. 22.12.2023 I Nr. 414
 
 
 ## Abschnitt 1 - Allgemeiner Teil
@@ -871,6 +871,21 @@ berücksichtigen.
 (4) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 erhält Reisekostenvergütung und Umzugskostenvergütung entsprechend den
 für Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften.
+
+(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
+werden der oder dem Unabhängigen Bundesbeauftragten für
+Antidiskriminierung in entsprechender Anwendung des § 14 Absatz 4 bis
+8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
+
+1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
+    Euro sowie
+
+
+2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
+    Sonderzahlung in Höhe von jeweils 220 Euro.
+
+
+
 
 
 ### § 26h Verwendung der Geschenke an die Unabhängige Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für Antidiskriminierung

@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 V v. 18.3.2024 I Nr. 100 mWv 1.5.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 

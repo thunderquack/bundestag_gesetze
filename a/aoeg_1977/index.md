@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 20.12.2022 I 2730
+:   Art. 26 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 15 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 16 G v. 27.3.2024 I Nr. 108 mWv 1.1.2027 noch nicht berücksichtigt
 
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
@@ -1844,6 +1850,54 @@ Landesfinanzbehörden bis zum 30. April 2029 zu evaluieren. Die
 obersten Finanzbehörden der Länder haben die Ergebnisse der
 Evaluierung dem Bundesministerium der Finanzen bis zum 30. Juni 2029
 mitzuteilen.
+
+
+### § 39 Übergangs- und Anwendungsbestimmungen anlässlich der steuerverfahrensrechtlichen Umsetzung der Reform des Personengesellschaftsrechts
+
+(1) § 152 Absatz 4 Satz 3 und § 181 Absatz 2 Satz 2 Nummer 1 und 4 der
+Abgabenordnung in der am 1. Januar 2024 geltenden Fassung sind
+erstmals auf Feststellungserklärungen anzuwenden, die nach dem 31.
+Dezember 2023 einzureichen sind; eine Verlängerung der
+Feststellungserklärungsfrist nach § 109 der Abgabenordnung ist hierbei
+nicht zu berücksichtigen.
+
+(2) Wird die Feststellungserklärung für eine rechtsfähige
+Personenvereinigung nach dem 31. Dezember 2023 und vor dem 1. Januar
+2026 durch eine Person im Sinne des § 181 Absatz 2 Satz 2 Nummer 1
+oder 4 der Abgabenordnung in der am 31. Dezember 2023 geltenden
+Fassung abgegeben, ist die rechtsfähige Personenvereinigung von ihrer
+Erklärungspflicht nach § 181 Absatz 2 Satz 2 Nummer 1 der
+Abgabenordnung in der am 1. Januar 2024 geltenden Fassung befreit.
+
+(3) Bei einer rechtsfähigen Personenvereinigung können Verwaltungsakte
+und Mitteilungen, die nach der Abgabenordnung und den Steuergesetzen
+mit der gesonderten und einheitlichen Feststellung zusammenhängen,
+nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 abweichend von §
+183 Absatz 1 bis 3 der Abgabenordnung in der am 1. Januar 2024
+geltenden Fassung auch nach Maßgabe des § 183 der Abgabenordnung in
+der am 31. Dezember 2023 geltenden Fassung dem
+Empfangsbevollmächtigten wirksam bekannt gegeben werden.
+
+(4) Wird gegen einen vor dem 1. Januar 2024 wirksam gewordenen
+Bescheid über die gesonderte und einheitliche Feststellung von
+Besteuerungsgrundlagen Einspruch eingelegt, bestimmt sich die
+Einspruchsbefugnis nach § 352 der Abgabenordnung in der am 31.
+Dezember 2023 geltenden Fassung. Das Gleiche gilt, wenn der eine
+rechtsfähige Personenvereinigung betreffende Feststellungsbescheid
+nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 nach Maßgabe von
+Absatz 3 dem Empfangsbevollmächtigten nach § 183 der Abgabenordnung in
+der bis zum 31. Dezember 2023 geltenden Fassung bekannt gegeben worden
+ist. Ist über den Einspruch gegen einen vor dem 1. Januar 2024 wirksam
+gewordenen Bescheid nach dem 31. Dezember 2023 zu entscheiden, richtet
+sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden
+Vorschriften der Abgabenordnung.
+
+(5) Wurde über das Vermögen einer Personenvereinigung vor dem 1.
+Januar 2024 das Insolvenzverfahren eröffnet, sind für
+Feststellungszeiträume und Feststellungszeitpunkte vor dem 1. Januar
+2024 § 152 Absatz 4 Satz 3, § 181 Absatz 2 Satz 2 Nummer 1, die §§ 183
+und 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden
+Fassung weiterhin anzuwenden.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands

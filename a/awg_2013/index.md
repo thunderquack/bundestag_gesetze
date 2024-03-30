@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1482
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 11 G v. 20.12.2022 I 2752
+:   Art. 2 G v. 27.2.2024 I Nr. 71
 
 
 ## Teil 1 - Rechtsgeschäfte und Handlungen
@@ -55,8 +55,8 @@ Rechtsverordnungen gelten die Begriffsbestimmungen der Absätze 2 bis
 anderes bestimmt ist.
 
 (2) Ausführer ist jede natürliche oder juristische Person oder
-Personengesellschaft, die zum Zeitpunkt der Ausfuhr Vertragspartner
-des Empfängers in einem Drittland ist und
+rechtsfähige Personengesellschaft, die zum Zeitpunkt der Ausfuhr
+Vertragspartner des Empfängers in einem Drittland ist und
 
 1.  über die Lieferung von Waren aus dem Inland in ein Drittland bestimmt
     oder
@@ -90,8 +90,8 @@ die Ausfuhr tatsächlich bestimmt.
 über dieselbe Ausgangszollstelle nach demselben Bestimmungsland
 ausführt.
 
-(5) Ausländer sind alle Personen und Personengesellschaften, die keine
-Inländer sind.
+(5) Ausländer sind alle Personen und rechtsfähigen
+Personengesellschaften, die keine Inländer sind.
 
 (6) Auslandswerte sind
 
@@ -128,7 +128,7 @@ Europäischen Union mit Ausnahme von Helgoland.
 
 
 (10) Einführer ist jede natürliche oder juristische Person oder
-Personengesellschaft, die
+rechtsfähige Personengesellschaft, die
 
 1.  Waren aus Drittländern ins Inland liefert oder liefern lässt und über
     die Lieferung der Waren bestimmt oder
@@ -211,16 +211,17 @@ Rückversicherung oder allgemeine Werbung oder Verkaufsförderung.
     Inland,
 
 
-2.  juristische Personen und Personengesellschaften mit Sitz oder Ort der
-    Leitung im Inland,
+2.  juristische Personen und rechtsfähige Personengesellschaften mit Sitz
+    oder Ort der Leitung im Inland,
 
 
 3.  Zweigniederlassungen ausländischer juristischer Personen oder
-    Personengesellschaften, wenn die Zweigniederlassungen ihre Leitung im
-    Inland haben und es für sie eine gesonderte Buchführung gibt, und
+    rechtsfähiger Personengesellschaften, wenn die Zweigniederlassungen
+    ihre Leitung im Inland haben und es für sie eine gesonderte
+    Buchführung gibt, und
 
 
-4.  Betriebsstätten ausländischer juristischer Personen oder
+4.  Betriebsstätten ausländischer juristischer Personen oder rechtsfähiger
     Personengesellschaften im Inland, wenn die Betriebsstätten ihre
     Verwaltung im Inland haben.
 
@@ -248,8 +249,8 @@ Ausländer an andere Inländer veräußert werden.
     Europäischen Union,
 
 
-2.  juristische Personen oder Personengesellschaften mit Sitz oder Ort der
-    Leitung in der Europäischen Union,
+2.  juristische Personen oder rechtsfähige Personengesellschaften mit Sitz
+    oder Ort der Leitung in der Europäischen Union,
 
 
 3.  Zweigniederlassungen juristischer Personen, deren Sitz oder Ort der
@@ -264,12 +265,12 @@ Ausländer an andere Inländer veräußert werden.
 
 
 
-(19) Unionsfremde sind alle Personen und Personengesellschaften, die
-keine Unionsansässigen sind.
+(19) Unionsfremde sind alle Personen und rechtsfähige
+Personengesellschaften, die keine Unionsansässigen sind.
 
 (20) Verbringer ist jede natürliche oder juristische Person oder
-Personengesellschaft, die über die Verbringung von Gütern bestimmt und
-im Zeitpunkt der Verbringung
+rechtsfähige Personengesellschaft, die über die Verbringung von Gütern
+bestimmt und im Zeitpunkt der Verbringung
 
 1.  im Fall des Absatzes 21 Nummer 1 Vertragspartner des Empfängers im
     Zollgebiet der Europäischen Union ist oder
@@ -361,8 +362,8 @@ als eine inländische Zweigniederlassung oder Betriebsstätte.
 (2) Handlungen, die von oder gegenüber Zweigniederlassungen oder
 Betriebsstätten im Sinne des Absatzes 1 vorgenommen werden, gelten als
 Rechtsgeschäfte, soweit solche Handlungen im Verhältnis zwischen
-natürlichen oder juristischen Personen oder Personengesellschaften
-Rechtsgeschäfte wären.
+natürlichen oder juristischen Personen oder rechtsfähigen
+Personengesellschaften Rechtsgeschäfte wären.
 
 (3) Durch Rechtsverordnung auf Grund dieses Gesetzes oder durch
 vollziehbare Anordnung gemäß § 6 kann vorgesehen werden, dass
@@ -537,19 +538,19 @@ einschließlich ihrer Entwicklung und Herstellung beziehen.
 
 ### § 5a Vorläufige Beschränkungen zur Umsetzung von Resolutionen des Sicherheitsrates der Vereinten Nationen
 
-[^f824634_01_BJNR148210013BJNE004000125]
+[^f824634_01_BJNR148210013BJNE004001128]
 (1) Werden vom Sicherheitsrat der Vereinten Nationen nach Kapitel VII
 der Charta der Vereinten Nationen auf Grund der Resolutionen 751
 (1992), 1267 (1999), 1518 (2003), 1533 (2004), 1591 (2004), 1718
 (2006), 1970 (2011), 1988 (2011), 2048 (2012), 2127 (2013), 2140
 (2014), 2206 (2015), 2231 (2015), 2374 (2017) oder 2653 (2022)
 wirtschaftliche Sanktionsmaßnahmen gegen natürliche oder juristische
-Personen oder Personengesellschaften beschlossen, die mit einer
-Aufnahme dieser natürlichen oder juristischen Personen oder
-Personengesellschaften in die vom Sicherheitsrat geführte und im
-Internet abrufbare konsolidierte Sanktionsliste des Sicherheitsrates
-der Vereinten Nationen
-[^f824634_02_BJNR148210013BJNE004000125]
+Personen oder rechtsfähige Personengesellschaften beschlossen, die mit
+einer Aufnahme dieser natürlichen oder juristischen Personen oder
+rechtsfähigen Personengesellschaften in die vom Sicherheitsrat
+geführte und im Internet abrufbare konsolidierte Sanktionsliste des
+Sicherheitsrates der Vereinten Nationen
+[^f824634_02_BJNR148210013BJNE004001128]
 einhergehen, gelten mit der Veröffentlichung dieser Aufnahme durch
 eine ebenfalls im Internet abrufbare Pressemitteilung des
 Sicherheitsrates der Vereinten Nationen
@@ -557,13 +558,13 @@ die folgenden vorläufigen Beschränkungen:
 
 1.  Verfügungen über Gelder oder wirtschaftliche Ressourcen, die im
     Eigentum oder unmittelbar oder mittelbar im Besitz oder unter der
-    Kontrolle der betreffenden Personen oder Personengesellschaften
-    stehen, sind untersagt und
+    Kontrolle der betreffenden Personen oder rechtsfähigen
+    Personengesellschaften stehen, sind untersagt und
 
 
 2.  Gelder oder wirtschaftliche Ressourcen dürfen den betreffenden
-    Personen oder Personengesellschaften weder unmittelbar noch mittelbar
-    bereitgestellt werden.
+    Personen oder rechtsfähigen Personengesellschaften weder unmittelbar
+    noch mittelbar bereitgestellt werden.
 
 
 
@@ -576,8 +577,8 @@ der Europäischen Union, der der Durchführung einer vom Rat der
 Europäischen Union im Bereich der Gemeinsamen Außen- und
 Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme
 dient, die jeweils im Hinblick auf die betreffenden Personen oder
-Personengesellschaften Beschränkungen enthalten, längstens jedoch fünf
-Tage nach Wirksamwerden.
+rechtsfähigen Personengesellschaften Beschränkungen enthalten,
+längstens jedoch fünf Tage nach Wirksamwerden.
 
 (3) Verfügungen oder Bereitstellungen können im Einzelfall in
 Abweichung von Absatz 1 genehmigt werden, wenn dies zur Vermeidung von
@@ -590,8 +591,8 @@ werden, auf die die in Absatz 1 genannten Beschränkungen Anwendung
 finden.
 
     www.un.org/securitycouncil/content/un-sc-consolidated-list.
-[^f824634_01_BJNR148210013BJNE004000125]:     https://press.un.org/en/content/security-council/press-release.
-[^f824634_02_BJNR148210013BJNE004000125]: 
+[^f824634_01_BJNR148210013BJNE004001128]:     https://press.un.org/en/content/security-council/press-release.
+[^f824634_02_BJNR148210013BJNE004001128]: 
 
 ### § 6 Einzeleingriff
 
@@ -602,11 +603,11 @@ angeordnet werden, um eine im Einzelfall bestehende Gefahr für die in
 abzuwenden. Insbesondere können
 
 1.  die Verfügung über Gelder und wirtschaftliche Ressourcen bestimmter
-    Personen oder Personengesellschaften oder
+    Personen oder rechtsfähiger Personengesellschaften oder
 
 
 2.  das Bereitstellen von Geldern und wirtschaftlichen Ressourcen zu
-    Gunsten bestimmter Personen oder Personengesellschaften
+    Gunsten bestimmter Personen oder rechtsfähiger Personengesellschaften
 
 
 
@@ -899,7 +900,7 @@ Rechtsverordnung nichts anderes bestimmt ist.
 
 
 (2a) Abweichend von den Absätzen 1 und 2 Nummer 1 ist für die
-Entgegennahme von Meldungen bestimmter Personen oder
+Entgegennahme von Meldungen bestimmter Personen oder rechtsfähiger
 Personengesellschaften, denen nach einem im Amtsblatt der Europäischen
 Gemeinschaften oder der Europäischen Union veröffentlichten
 unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder
@@ -1454,33 +1455,49 @@ technischen Unterstützung der Durchfuhr und der Verbringung betreffend
 Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1)
 verstößt, indem er
 
-1.  ohne Genehmigung nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 1 Güter
-    mit doppeltem Verwendungszweck ausführt,
+1.  ohne Genehmigung nach Artikel 3 Absatz 1, Artikel 4 Absatz 1, Artikel
+    5 Absatz 1 oder Artikel 10 Absatz 1 Güter mit doppeltem
+    Verwendungszweck oder Güter für digitale Überwachung ausführt,
 
 
-2.  entgegen Artikel 4 Absatz 2 Satz 2 Güter ohne Entscheidung der
-    zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung
-    der zuständigen Behörde ausführt,
+2.  entgegen Artikel 4 Absatz 2 Satz 2 oder Artikel 5 Absatz 2 Satz 2,
+    auch in Verbindung mit § 9 Absatz 4 der Außenwirtschaftsverordnung,
+    Güter ohne Entscheidung der zuständigen Behörde über die
+    Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde
+    ausführt,
 
 
-3.  ohne Genehmigung nach Artikel 6 Absatz 1 in Verbindung mit Artikel 4
-    Absatz 1 Buchstabe a eine Vermittlungstätigkeit erbringt oder
+3.  ohne Genehmigung nach Artikel 6 Absatz 1 oder Artikel 8 Absatz 1 eine
+    Vermittlungstätigkeit oder technische Unterstützung erbringt oder
 
 
-4.  entgegen Artikel 6 Absatz 2 Satz 2 in Verbindung mit Artikel 4 Absatz
-    1 Buchstabe a eine Vermittlungstätigkeit ohne Entscheidung der
-    zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung
-    der zuständigen Behörde erbringt.
+4.  entgegen Artikel 6 Absatz 2 Satz 2 oder Artikel 8 Absatz 2 Satz 2 eine
+    Vermittlungstätigkeit oder technische Unterstützung ohne Entscheidung
+    der zuständigen Behörde über die Genehmigungspflicht oder ohne
+    Genehmigung der zuständigen Behörde erbringt.
 
 
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I der
 Verordnung (EU) 2021/821 verweisen, findet dieser Anhang in der
-jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1 Nummer
-2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen
-anderen begeht, wenn der Person bekannt ist, dass die Güter mit
-doppeltem Verwendungszweck ganz oder teilweise für eine Verwendung im
-Sinne des Artikels 4 Absatz 1 Buchstabe a der Verordnung (EU) 2021/821
+jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1
+
+1.  Nummer 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch
+    einen anderen begeht, wenn der Person bekannt ist, dass die Güter mit
+    doppeltem Verwendungszweck oder für digitale Überwachung ganz oder
+    teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 oder
+    Artikel 5 Absatz 1 der Verordnung (EU) 2021/821;
+
+
+2.  Nummer 4 steht dem Vermittler oder dem Erbringer technischer
+    Unterstützung eine Person gleich, die die Vermittlung oder die
+    Erbringung technischer Unterstützung durch einen anderen begeht, wenn
+    der Person bekannt ist, dass die Güter ganz oder teilweise für eine
+    Verwendung im Sinne des Artikels 4 Absatz 1 der Verordnung (EU)
+    2021/821
+
+
+
 bestimmt sind.
 
 (5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird

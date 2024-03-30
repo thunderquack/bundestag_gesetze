@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1918
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.12.2022 I 2270
+:   Art. 11 G v. 22.12.2023 I Nr. 412
 
 
 ## § 1 Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
@@ -267,10 +267,10 @@ Erfolg der Maßnahme nicht zu vereiteln. Die Annahme der besonderen
 Vertraulichkeit ist von der Bundesregierung zu begründen.
 
 (2) In diesem Fall können die in den §§ 4 und 5 bezeichneten
-Beteiligungsrechte von Mitgliedern des Haushaltsausschusses
-wahrgenommen werden, die vom Deutschen Bundestag für die Dauer einer
-Legislaturperiode in geheimer Wahl mit der Mehrheit der Mitglieder des
-Deutschen Bundestages gewählt werden (Sondergremium). Die Anzahl der
+Beteiligungsrechte von einem Sondergremium wahrgenommen werden,
+welches sich aus ordentlichen Mitgliedern des Haushaltsausschusses
+zusammensetzt und vom Haushaltsausschuss für eine Legislaturperiode
+mit der Mehrheit seiner Mitglieder benannt wird. Die Anzahl der
 Mitglieder und eine gleich große Anzahl von Stellvertretern ist die
 kleinstmögliche, bei der jede Fraktion zumindest ein Mitglied benennen
 kann, die Mehrheitsverhältnisse gewahrt werden und bei der die

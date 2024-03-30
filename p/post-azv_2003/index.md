@@ -171,7 +171,7 @@ Rechtsaufsicht ändern oder aufheben.
 
 (1) Beamtinnen und Beamten kann die Führung eines
 Lebensarbeitszeitkontos gestattet werden, wenn keine betrieblichen
-oder betriebswirtschaftlichen Gründe entgegenstehen\*. Auf einem
+oder betriebswirtschaftlichen Gründe entgegenstehen. Auf einem
 Lebensarbeitszeitkonto können folgende Zeitguthaben angespart werden:
 
 1.  auf Antrag Ansprüche auf Dienstbefreiung für dienstlich angeordnete
@@ -195,19 +195,19 @@ Postbeamtenaltersteilzeitverordnung vorhandene Zeitguthaben ist in
 einer zusammenhängenden Freistellungsphase am Ende der Altersteilzeit
 abzubauen. In den übrigen Fällen ist das Zeitguthaben bis zum Eintritt
 in den Ruhestand durch Freistellung vom Dienst unter Fortzahlung der
-Besoldung vollständig abzubauen\*. § 5 Absatz 3 Nummer 2 der
-Erholungsurlaubsverordnung gilt entsprechend\*. Ist eine Freistellung
+Besoldung vollständig abzubauen. § 5 Absatz 3 Nummer 2 der
+Erholungsurlaubsverordnung gilt entsprechend. Ist eine Freistellung
 bis zum Eintritt in den Ruhestand nicht möglich oder endet ein
 Freistellungszeitraum vorzeitig, so ist das verbleibende Zeitguthaben
-abzugelten\*. Für die Ermittlung der Höhe der Abgeltung sind § 4
-Absatz 1 und § 4a der Bundesmehrarbeitsvergütungsverordnung
-entsprechend anzuwenden.
+abzugelten. Für die Ermittlung der Höhe der Abgeltung sind § 4 Absatz
+1 und § 4a der Bundesmehrarbeitsvergütungsverordnung entsprechend
+anzuwenden.
 
 (3) Die näheren Einzelheiten zur Führung der Lebensarbeitszeitkonten ,
 der Durchführung der Freistellungsphasen sowie zur Abgelung der
 Zeitguthaben regelt der Vorstand der Deutschen Post AG. Er orientiert
 sich dabei an den Bestimmungen, die für die bei der Deutschen Post AG
-tätigen Arbeitnehmerinnen und Arbeitnehmer gelten\*.
+tätigen Arbeitnehmerinnen und Arbeitnehmer gelten.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten

@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 750, 757
 
+Änderung durch
+:   Art. 11 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Stellung, Aufgaben und Befugnisse
 
@@ -317,6 +323,21 @@ Kalendermonats, in dem das Amtsverhältnis endet, im Fall des § 6
 Absatz 3 Satz 3 bis zum Ende des Monats, in dem die Geschäftsführung
 endet, Amtsbezüge in Höhe der einem Bundesbeamten der Besoldungsgruppe
 B 6 in einer obersten Bundesbehörde zustehenden Besoldung.
+
+(1a) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
+werden der oder dem Opferbeauftragten in entsprechender Anwendung des
+§ 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden
+Sonderzahlungen gewährt:
+
+1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
+    Euro sowie
+
+
+2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
+    Sonderzahlung in Höhe von jeweils 220 Euro.
+
+
+
 
 (2) Im Übrigen sind § 12 Absatz 6 sowie die §§ 13 bis 20 und 21a
 Absatz 5 des Bundesministergesetzes mit den Maßgaben anzuwenden, dass

@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 08.04.2021 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.12.2022 BAnz AT 16.12.2022 V1
+:   Art. 1 V v. 8.12.2023 I Nr. 356
 
 
 ## Eingangsformel
@@ -268,7 +268,7 @@ Satz 1 des Krankenhausfinanzierungsgesetzes werden bis zum 30. Juni
 Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
 (6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch
-wird bis zum 31. Dezember 2023 verlängert.
+wird bis zum 31. Dezember 2024 verlängert.
 
 
 ## § 5 Erlösausgleiche für das Jahr 2021

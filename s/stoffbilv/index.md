@@ -107,7 +107,7 @@ Im Sinne dieser Verordnung sind:
 
 4.  Betriebsinhaber:
 
-    eine natürliche oder juristische Person oder eine nicht rechtsfähige
+    eine natürliche oder juristische Person oder eine sonstige
     Personenvereinigung, die einen Betrieb unterhält;
 
 

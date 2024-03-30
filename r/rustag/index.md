@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 16.8.2023 I Nr. 217
 
+Änderung durch
+:   Art. 1 G v. 22.3.2024 I Nr. 104 mWv 27.6.2024 bzw. 27.6.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 22.3.2024 I Nr. 104 mit zukünftiger Wirkung noch nicht berücksichtigt
+
 
 ## § 1
 

@@ -258,8 +258,8 @@ Eigenkapital hinzugerechnet werden:
 
 
 4.  die zu Gunsten des Unternehmens beliehenen Gegenstände des
-    Privatvermögens der Gesellschafter von Personengesellschaften in Höhe
-    der Beleihung.
+    Privatvermögens der Gesellschafter von rechtsfähigen
+    Personengesellschaften in Höhe der Beleihung.
 
 
 

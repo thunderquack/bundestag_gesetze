@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4008
 
-Geändert durch
-:   Art. 3 V v. 10.10.2016 I 2242
+Zuletzt geändert durch
+:   Art. 2 V v. 30.11.2023 I Nr. 345
 
 
 ## Erster Abschnitt - Allgemeines
@@ -27,8 +27,7 @@ Geändert durch
 (1) Diese Verordnung regelt die theoretische Prüfung für den Erwerb
 des Triebfahrzeugführerscheins, die Zulassung zur Prüfung, den Ablauf
 der Prüfungen und das Prüfungsverfahren im Geltungsbereich der
-Triebfahrzeugführerscheinverordnung vom 29. April 2011 (BGBl. I S.
-705, 1010).
+Triebfahrzeugführerscheinverordnung.
 
 (2) Zuständige Behörde im Sinne dieser Verordnung ist das Eisenbahn-
 Bundesamt.
@@ -45,7 +44,7 @@ Anlage 5 der Triebfahrzeugführerscheinverordnung verfügt.
 
 (1) Die Prüfung wird von Personen oder Stellen durchgeführt, die nach
 § 15 der Triebfahrzeugführerscheinverordnung von der zuständigen
-Behörde als Prüfungsorganisationen anerkannt sind
+Behörde als Prüfer oder als Prüfstelle anerkannt sind
 (Prüfungsorganisation). Die Prüfungsorganisation nach Satz 1 beruft
 die Prüfer, die den Anforderungen des § 7 Absatz 1 genügen müssen.
 
@@ -190,21 +189,9 @@ Die Prüfungsorganisation
 
 ### § 7 Anforderungen an die Prüfer
 
-(1) Die Prüfer müssen die Anforderungen erfüllen nach
-
-1.  den Artikeln 7 und 8 des Beschlusses 2011/765/EU der Kommission vom
-    22\. November 2011 zu den Kriterien der Anerkennung von
-    Ausbildungseinrichtungen, die an der Ausbildung von
-    Triebfahrzeugführern beteiligt sind, den Kriterien der Anerkennung von
-    Triebfahrzeugführer-Prüfern und den Kriterien für die Organisation von
-    Prüfungen gemäß der Richtlinie 2007/59/EG des Europäischen Parlaments
-    und des Rates (ABl. L 314 vom 29.11.2011, S. 36)und
-
-
-2.  § 15 Absatz 1 Satz 2 Nummer 2 der Triebfahrzeugführerscheinverordnung.
-
-
-
+(1) Die Prüfer müssen die Anforderungen nach § 15 Absatz 2 Satz 1
+Nummer 3 bis 5 und 7 bis 11 der Triebfahrzeugführerscheinverordnung
+erfüllen.
 
 (2) Die Prüfer dürfen den Prüfling nicht zuvor ausgebildet haben.
 
@@ -221,9 +208,25 @@ anderen Mitgliedstaates der Europäischen Union durchgeführt werden.
 Über den Antrag nach Satz 2 entscheidet die Prüfungsorganisation. Wird
 die Prüfung in der Sprache eines anderen Mitgliedstaates der
 Europäischen Union durchgeführt, muss die Prüfungsorganisation
-sicherstellen, dass die Prüfer und der Prüfling über ausreichende
-Sprachkenntnisse entsprechend der Stufe 4 nach Anlage 7 Nummer 6 der
-Triebfahrzeugführerscheinverordnung verfügen.
+sicherstellen, dass
+
+1.[^F827846_02_BJNR400810013BJNE000801311]
+  die Prüfer über ausreichende Sprachkenntnisse entsprechend dem Niveau
+    B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen
+    verfügen und
+
+
+2.  der Prüfling über ausreichende Sprachkenntnisse entsprechend dem
+    Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen
+    verfügt.
+
+
+
+
+[^F827846_02_BJNR400810013BJNE000801311]:     Amtlicher Hinweis: Dieser Referenzrahmen ist erschienen unter dem
+    Titel „Gemeinsamer europäischer Referenzrahmen für Sprachen: lernen,
+    lehren, beurteilen, Begleitband", ISBN: 978-3-12-676999-0, © Ernst
+    Klett Sprachen GmbH, Stuttgart, 2020.
 
 
 ### § 9 Schriftlicher Teil der Prüfung
@@ -241,8 +244,9 @@ durch die Prüfungsorganisation bestimmt.
 
 (3) Die Aufsichtsperson fertigt eine Niederschrift über den Verlauf
 und etwaige Unregelmäßigkeiten bei der Prüfung nach Anlage 1 an. Nach
-der Bewertung der Aufgaben durch die Prüfer wird die Niederschrift an
-die zuständige Behörde übermittelt.
+der Bewertung der Aufgaben durch die Prüfer wird die Niederschrift
+innerhalb von sechs Wochen nach Abschluss des Prüfungsteils an die
+zuständige Behörde übermittelt.
 
 (4) Die Prüfungsorganisation bestimmt zwei Prüfer, die den
 schriftlichen Teil der Prüfung nach § 15 bewerten. Die Bewertung soll
@@ -285,8 +289,8 @@ Prüfungsorganisation für nicht bestanden zu erklären.
 
 (6) Der Vorsitzende fertigt eine Niederschrift über den Verlauf und
 etwaige Unregelmäßigkeiten bei dem mündlichen Teil der Prüfung nach
-Anlage 1 an. Er übermittelt die Niederschrift an die zuständige
-Behörde.
+Anlage 1 an. Er übermittelt die Niederschrift innerhalb von sechs
+Wochen nach Abschluss des Prüfungsteils an die zuständige Behörde.
 
 
 ### § 11 Ausweispflicht und Belehrung
@@ -470,9 +474,9 @@ Abschluss der Prüfung ausgestellt werden.
 
 Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen
 der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin
-sind die Teile der Prüfung anzugeben, die nicht mit mindestens
-„ausreichend“ bewertet wurden. Auf die besonderen Bedingungen der
-Wiederholungsprüfung nach § 20 ist hinzuweisen.
+sind die bestandenen und die nicht bestandenen Teile der Prüfung
+anzugeben. Auf die besonderen Bedingungen der Wiederholungsprüfung
+nach § 20 ist hinzuweisen.
 
 
 ### § 19 Anerkennung von Prüfungsleistungen
@@ -577,7 +581,8 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
 ### Anlage 1 Prüfungsniederschrift
 
-(Fundstelle: BGBl. I 2013, 4013)
+(Fundstelle: BGBl. I 2013, 4013; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 
 
@@ -586,9 +591,9 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
         . . . . . . . . . .
 
 
-*    *   durch (Prüfungsorganisation/Prüfer(in)) . . . . . . . . . . . . . . .
+*    *   durch (Prüfstelle/Prüfer(in)) . . . . . . . . . . . . . . . . . . . .
         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-        . . . . . . . . . . . .
+        . . . . . . .
 
 
 *    *   Ort: . . . . . . . . . . . . . . . . . . . .
@@ -639,7 +644,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
         Prüfungsverordnung erfolgt
 
     *
-    *[^f783331_02_BJNR400810013BJNE002400000]
+    *[^f783331_02_BJNR400810013BJNE002401311]
    Ja/Nein
 
 
@@ -758,7 +763,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
    _\_\__\_\__\_\__\_\__
 
     Nichtzutreffendes streichen.
-[^f783331_02_BJNR400810013BJNE002400000]: 
+[^f783331_02_BJNR400810013BJNE002401311]: 
 
 ### Anlage 2 (zu den §§ 15, 16 Absatz 1)
 
@@ -868,7 +873,8 @@ verwendet werden.
 
 ### Anlage 3 Muster
 
-(Fundstelle: BGBl. I 2013, 4015)
+(Fundstelle: BGBl. I 2013, 4015; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 
 ## Prüfungsbescheinigung
@@ -909,7 +915,8 @@ vom 22. November 2013 (BGBl. I S. 4008) durchgeführt worden.
 
     *
 
-*    *   Die Prüfungsorganisation
+*    *   Namen der Prüfer und, im Falle einer Prüfstelle, zusätzlich der Name
+        der Stelle
 
 
 

@@ -256,10 +256,7 @@ nicht zur Eintragung angemeldet zu werden.
 
 
 6.  der Eigentümer, bei einer Reederei die Mitreeder und die Größe der
-    Schiffsparten, bei einer offenen Handelsgesellschaft die
-    Gesellschafter, bei einer Kommanditgesellschaft oder einer
-    Kommanditgesellschaft auf Aktien die persönlich haftenden
-    Gesellschafter;
+    Schiffsparten;
 
 
 7.  der Rechtsgrund für den Erwerb des Eigentums;
@@ -419,8 +416,8 @@ auch der Korrespondentreeder verpflichtet.
 
 (2) Sind mehrere Verpflichtete vorhanden, so genügt die Anmeldung
 durch einen von ihnen; entsprechendes gilt, wenn der Eigentümer eine
-juristische Person oder eine Handelsgesellschaft ist, die durch
-mehrere Personen vertreten wird.
+juristische Person oder eine rechtsfähige Personengesellschaft ist,
+die durch mehrere Personen vertreten wird.
 
 
 ### § 19
@@ -428,7 +425,7 @@ mehrere Personen vertreten wird.
 (1) Wer einer ihm nach §§ 10, 13 bis 15, 17, 18 obliegenden
 Verpflichtung nicht nachkommt, ist hierzu vom Registergericht durch
 Festsetzung von Zwangsgeld anzuhalten. Das einzelne Zwangsgeld darf
-den Betrag von eintausend Deutsche Mark nicht übersteigen.
+den Betrag von 500 Euro nicht übersteigen.
 
 (2) Für das Verfahren gelten die §§ 388 bis 391 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -766,8 +763,9 @@ Urkunden nachgewiesen werden, die von dem Gericht aufgenommen worden
 sind oder bei ihm verwahrt werden, so genügt statt der Vorlegung des
 Zeugnisses oder der Urkunde die Bezugnahme auf das Register oder die
 Akten. Für den Nachweis rechtserheblicher Umstände, die sich aus
-Eintragungen im Handels-, Genossenschafts-, Partnerschafts- oder
-Vereinsregister ergeben, gilt § 32 der Grundbuchordnung.
+Eintragungen im Handels-, Genossenschafts-, Gesellschafts-,
+Partnerschafts- oder Vereinsregister ergeben, gilt § 32 der
+Grundbuchordnung.
 
 
 ### § 45
@@ -836,10 +834,15 @@ eingetragenes Recht nicht mitübertragen, so gilt es als gelöscht.
 
 ### § 51
 
-Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen in
-der Eintragung entweder die Anteile der Berechtigten in Bruchteilen
+(1) Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen
+in der Eintragung entweder die Anteile der Berechtigten in Bruchteilen
 angegeben oder es soll das für die Gemeinschaft maßgebende
 Rechtsverhältnis bezeichnet werden.
+
+(2) Für eine Gesellschaft bürgerlichen Rechts sollen ein Recht nur
+eingetragen und Eintragungen, die ein Recht der Gesellschaft
+bürgerlichen Rechts betreffen, nur vorgenommen werden, wenn sie im
+Gesellschaftsregister eingetragen ist.
 
 
 ### § 52

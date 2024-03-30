@@ -20,9 +20,12 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 17.7.2023 I Nr. 191
+:   Art. 6 G v. 22.12.2023 I Nr. 408
 
-Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2023 v. 28.11.2022 I 2128 ist berücksichtigt
+Änderung durch
+:   Art. 6 G v. 27.3.2024 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2024 v. 29.11.2023 I Nr. 322 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
 
@@ -144,9 +147,10 @@ Versicherungspflichtig sind selbständig tätige
     erforderlichen Voraussetzungen erfüllen, wobei Handwerksbetriebe im
     Sinne der §§ 2 und 3 der Handwerksordnung sowie Betriebsfortführungen
     auf Grund von § 4 der Handwerksordnung außer Betracht bleiben; ist
-    eine Personengesellschaft in die Handwerksrolle eingetragen, gilt als
-    Gewerbetreibender, wer als Gesellschafter in seiner Person die
-    Voraussetzungen für die Eintragung in die Handwerksrolle erfüllt,
+    eine rechtsfähige Personengesellschaft in die Handwerksrolle
+    eingetragen, gilt als Gewerbetreibender, wer als Gesellschafter in
+    seiner Person die Voraussetzungen für die Eintragung in die
+    Handwerksrolle erfüllt,
 
 
 9.  Personen, die
@@ -215,12 +219,13 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 
 3.  für die sie von einem Leistungsträger Krankengeld, Verletztengeld,
-    Versorgungskrankengeld, Übergangsgeld, Arbeitslosengeld oder von der
-    sozialen oder einer privaten Pflegeversicherung
-    Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn
-    der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von
-    einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von
-    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
+    Krankengeld der Sozialen Entschädigung, Übergangsgeld,
+    Arbeitslosengeld oder von der sozialen oder einer privaten
+    Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im
+    letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig
+    waren; der Zeitraum von einem Jahr verlängert sich um
+    Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1
+    Satz 1 des Zweiten Buches,
 
 
 3a. für die sie von einem privaten Krankenversicherungsunternehmen, von
@@ -903,7 +908,7 @@ gelten für die Vorschriften dieses Abschnitts als Versicherte.
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
 
 1.  wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im
-    Sinne des sozialen Entschädigungsrechts oder wegen eines
+    Sinne des Sozialen Entschädigungsrechts oder wegen eines
     Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz
     begründet, gleichartige Leistungen eines anderen
     Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem
@@ -959,8 +964,11 @@ Beachtung des Wunsch- und Wahlrechts des Versicherten im Sinne des § 8
 des Neunten Buches und der Grundsätze der Wirtschaftlichkeit und
 Sparsamkeit Art, Dauer, Umfang, Beginn und Durchführung dieser
 Leistungen sowie die Rehabilitationseinrichtung nach pflichtgemäßem
-Ermessen. Die Leistungen werden auf Antrag durch ein Persönliches
-Budget erbracht; § 29 des Neunten Buches gilt entsprechend.
+Ermessen; der Träger der Rentenversicherung berücksichtigt bei seiner
+Entscheidung die besonderen Belange von Pflegepersonen im Sinne des §
+19 Satz 1 des Elften Buches. Die Leistungen werden auf Antrag durch
+ein Persönliches Budget erbracht; § 29 des Neunten Buches gilt
+entsprechend.
 
 (2) Der Träger der Rentenversicherung erbringt nicht
 
@@ -1382,11 +1390,11 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
         Beiträge zur Rentenversicherung gezahlt haben oder
 
 
-    b)  Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld,
-        Kurzarbeitergeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen
-        haben und für die von dem der Sozialleistung zugrunde liegenden
-        Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung
-        gezahlt worden sind.
+    b)  Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung,
+        Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld oder
+        Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung
+        zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur
+        Rentenversicherung gezahlt worden sind.
 
 
 
@@ -1877,6 +1885,13 @@ den die allgemeine Wartezeit vorzeitig erfüllt ist.
 voll erwerbsgemindert waren und seitdem ununterbrochen voll
 erwerbsgemindert sind, haben Anspruch auf Rente wegen voller
 Erwerbsminderung, wenn sie die Wartezeit von 20 Jahren erfüllt haben.
+
+(7) Wird neben einer Rente nach Absatz 1 oder 2 unter den üblichen
+Bedingungen des allgemeinen Arbeitsmarktes eine Erwerbstätigkeit
+ausgeübt, deren Umfang das der Rentengewährung zugrunde liegende
+zeitliche Leistungsvermögen überschreitet, besteht für einen Zeitraum
+von regelmäßig sechs Monaten ab Beginn der Ausübung weiterhin Anspruch
+auf die gewährte Rente.
 
 
 ###### § 44
@@ -4756,7 +4771,7 @@ für Bergleute sind zusätzlich zu dem Hinzuverdienst nach Absatz 2 Satz
 
 
 
-2.  Versorgungskrankengeld,
+2.  Krankengeld der Sozialen Entschädigung,
 
     a)  das aufgrund einer Arbeitsunfähigkeit geleistet wird, die nach dem
         Beginn der Rente eingetreten ist, oder
@@ -8235,7 +8250,27 @@ Identifikationsnummer des Berechtigten sowie seines Ehegatten die für
 die Berücksichtigung nach § 97a Absatz 2 Satz 4 erforderliche
 Übermittlung vorhandener Rentenbezugsmitteilungen nach § 22a Absatz 1
 des Einkommensteuergesetzes bei der zentralen Stelle im Sinne des § 81
-des Einkommensteuergesetzes anfordern.
+des Einkommensteuergesetzes anfordern. Für die Verarbeitung der
+Rentenbezugsmitteilungen nach § 97a Absatz 2 Satz 4 übermittelt die
+zentrale Stelle im Sinne des § 81 des Einkommensteuergesetzes der
+Koordinierenden Stelle für den Abruf steuerlicher Daten bei der
+Deutschen Rentenversicherung Bund
+
+1.  einmalig unter Angabe der Kundennummer nach § 5 Absatz 4 der
+    Altersvorsorge-Durchführungsverordnung die Kundenart nach § 5 Absatz 1
+    Nummer 1 in Verbindung mit § 5 Absatz 6 der Altersvorsorge-
+    Durchführungsverordnung aller bei ihr gespeicherten
+    mitteilungspflichtigen Stellen nach § 22a Absatz 1 Satz 1 des
+    Einkommensteuergesetzes und
+
+
+2.  bei jeder Änderung der nach Nummer 1 übermittelten Daten oder bei der
+    Neuaufnahme einer mitteilungspflichtigen Stelle nach § 22a Absatz 1
+    Satz 1 des Einkommensteuergesetzes als Kunde der zentralen Stelle die
+    jeweilige Kundennummer und Kundenart im Sinne der Nummer 1.
+
+
+
 
 (4) Für das automatisierte Abrufverfahren nach den Absätzen 1 bis 3
 gilt § 79 Absatz 1, 2 bis 4 des Zehnten Buches entsprechend mit der
@@ -8791,10 +8826,10 @@ vom Hundert der monatlichen Beitragsbemessungsgrenze und dem
 Regelarbeitsentgelt, höchstens jedoch bis zur
 Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für
 Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von
-Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld
-versichert sind, und für Personen, die für die Zeit der
-Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in
-der sie Krankentagegeld von einem privaten
+Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld
+oder Übergangsgeld versichert sind, und für Personen, die für die Zeit
+der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur
+Teilhabe, in der sie Krankentagegeld von einem privaten
 Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2
 versichert sind, gilt Satz 1 entsprechend.
 
@@ -8957,9 +8992,9 @@ Beschäftigung behandelt werden.
 
 
 2.  bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld,
-    Verletztengeld oder Versorgungskrankengeld beziehen, 80 vom Hundert
-    des der Leistung zugrunde liegenden Arbeitsentgelts oder
-    Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen
+    Verletztengeld oder Krankengeld der Sozialen Entschädigung beziehen,
+    80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts
+    oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen
     Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis
     abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben
     einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen
@@ -8996,12 +9031,12 @@ Beschäftigung behandelt werden.
     Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
 
 
-2e. bei Personen, die Krankengeld nach § 45 Absatz 1 des Fünften Buches
-    oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in
-    Verbindung mit § 45 Absatz 1 des Fünften Buches beziehen, 80 vom
-    Hundert des während der Freistellung ausgefallenen, laufenden
-    Arbeitsentgelts oder des der Leistung zugrunde liegenden
-    Arbeitseinkommens,
+2e. bei Personen, die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des
+    Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten
+    Buches in Verbindung mit § 45 Absatz 1 oder Absatz 1a des Fünften
+    Buches beziehen, 80 vom Hundert des während der Freistellung
+    ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung
+    zugrunde liegenden Arbeitseinkommens,
 
 
 2f. bei Personen, die Pflegeunterstützungsgeld beziehen, 80 vom Hundert
@@ -9229,9 +9264,10 @@ Kalenderjahres geltenden Geringfügigkeitsgrenze.
 
 
 7.  bei Arbeitnehmern, die nach dem Altersteilzeitgesetz
-    Aufstockungsbeträge zum Krankengeld, Versorgungskrankengeld,
-    Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für die
-    sich nach § 163 Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
+    Aufstockungsbeträge zum Krankengeld, Krankengeld der Sozialen
+    Entschädigung, Verletztengeld, Übergangsgeld oder Krankentagegeld
+    erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende
+    beitragspflichtige Einnahme
 
     a)  von der Bundesagentur oder, im Fall der Leistungserbringung nach § 10
         Abs. 2 Satz 2 des Altersteilzeitgesetzes, von den Arbeitgebern, wenn
@@ -9305,8 +9341,8 @@ Die Beiträge werden getragen
         Geringfügigkeitsgrenze nicht übersteigt,
 
 
-    b)  Versorgungskrankengeld, Übergangsgeld oder Arbeitslosengeld beziehen,
-        von den Leistungsträgern,
+    b)  Krankengeld der Sozialen Entschädigung, Übergangsgeld oder
+        Arbeitslosengeld beziehen, von den Leistungsträgern,
 
 
     c)  Krankengeld nach § 44a des Fünften Buches beziehen, vom
@@ -9524,9 +9560,10 @@ gilt Absatz 1 entsprechend.
 ###### § 175 Beitragszahlung bei Künstlern und Publizisten
 
 (1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs
-von Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld
-oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von
-Künstlern und Publizisten keine Beiträge.
+von Krankengeld, Verletztengeld, Krankengeld der Sozialen
+Entschädigung, Übergangsgeld oder Mutterschaftsgeld sowie für
+nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine
+Beiträge.
 
 (2) Die Künstlersozialkasse ist zur Zahlung eines Beitrags für
 Künstler und Publizisten nur insoweit verpflichtet, als diese ihren
@@ -10553,12 +10590,12 @@ diese Informationen bekannt sind.
 (3) Die Handwerkskammern sind verpflichtet, der Datenstelle der
 Rentenversicherung unverzüglich Eintragungen, Änderungen und
 Löschungen in der Handwerksrolle über natürliche Personen und
-Gesellschafter einer Personengesellschaft zu melden. Von der
-Meldepflicht ausgenommen sind Eintragungen, Änderungen und Löschungen
-zu Handwerksbetrieben im Sinne der §§ 2 und 3 der Handwerksordnung
-sowie Betriebsfortführungen auf Grund des § 4 der Handwerksordnung.
-Mit den Meldungen sind, soweit vorhanden, die folgenden Angaben zu
-übermitteln:
+Gesellschafter einer rechtsfähigen Personengesellschaft zu melden. Von
+der Meldepflicht ausgenommen sind Eintragungen, Änderungen und
+Löschungen zu Handwerksbetrieben im Sinne der §§ 2 und 3 der
+Handwerksordnung sowie Betriebsfortführungen auf Grund des § 4 der
+Handwerksordnung. Mit den Meldungen sind, soweit vorhanden, die
+folgenden Angaben zu übermitteln:
 
 1.  Familienname und Vornamen,
 
@@ -15218,14 +15255,17 @@ erfüllt, wenn sie
 
 3.  während eines aufgrund gesetzlicher Dienstpflicht oder Wehrpflicht
     oder während eines Krieges geleisteten militärischen oder
-    militärähnlichen Dienstes (§§ 2 und 3 Bundesversorgungsgesetz),
+    militärähnlichen Dienstes (§§ 2 und 3 des Bundesversorgungsgesetzes in
+    der bis zum 31. Dezember 2023 geltenden Fassung),
 
 
 4.  nach dem 31. Dezember 1956 wegen eines Dienstes nach Nummer 3 oder
     während oder wegen einer anschließenden Kriegsgefangenschaft,
 
 
-5.  wegen unmittelbarer Kriegseinwirkung (§ 5 Bundesversorgungsgesetz),
+5.  wegen unmittelbarer Kriegseinwirkung (§ 5 des
+    Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden
+    Fassung),
 
 
 6.  nach dem 29. Januar 1933 wegen Verfolgungsmaßnahmen als Verfolgter des
@@ -15469,12 +15509,12 @@ Versicherungspflicht nicht bestanden hat und Versicherte nach
 vollendetem 14. Lebensjahr
 
 1.  militärischen oder militärähnlichen Dienst im Sinne der §§ 2 und 3 des
-    Bundesversorgungsgesetzes aufgrund gesetzlicher Dienstpflicht oder
-    Wehrpflicht oder während eines Krieges geleistet haben oder aufgrund
-    dieses Dienstes kriegsgefangen gewesen sind oder deutschen
-    Minenräumdienst nach dem 8. Mai 1945 geleistet haben oder im Anschluss
-    an solche Zeiten wegen Krankheit arbeitsunfähig oder unverschuldet
-    arbeitslos gewesen sind,
+    Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden
+    Fassung auf Grund gesetzlicher Dienstpflicht oder Wehrpflicht oder
+    während eines Krieges geleistet haben oder auf Grund dieses Dienstes
+    kriegsgefangen gewesen sind oder deutschen Minenräumdienst nach dem 8.
+    Mai 1945 geleistet haben oder im Anschluss an solche Zeiten wegen
+    Krankheit arbeitsunfähig oder unverschuldet arbeitslos gewesen sind,
 
 
 2.  interniert oder verschleppt oder im Anschluss an solche Zeiten wegen
@@ -19443,6 +19483,14 @@ für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland
 ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
 
+###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
+
+Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis
+2027 jeweils um 1,2 Milliarden Euro gemindert. Bei der Feststellung
+der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist
+der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
+
+
 ###### § 288
 
 (weggefallen)
@@ -19573,9 +19621,14 @@ Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die
 Aufwendungen für Leistungen nach dem Fremdrentenrecht.
 
 
-###### § 291c (weggefallen)
+###### § 291c Anschubfinanzierung
 
--
+Der Bund überträgt an die allgemeine Rentenversicherung im
+Kalenderjahr 2023 Mittel in Höhe von 4,1 Millionen Euro zur pauschalen
+Erstattung der Kosten für die Entwicklung eines digitalen Verfahrens
+zur Erhebung und zum Nachweis der Anzahl der berücksichtigungsfähigen
+Kinder im Beitragsrecht der sozialen Pflegeversicherung gemäß § 55
+Absatz 3c Satz 1 des Elften Buches.
 
 
 ###### § 292 Verordnungsermächtigung
@@ -19892,8 +19945,8 @@ zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb
 ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf
 große Witwenrente oder große Witwerrente wegen Minderung der
 Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin
-nicht, solange Übergangsgeld, Verletztengeld oder
-Versorgungskrankengeld geleistet wird.
+nicht, solange Übergangsgeld, Verletztengeld oder Krankengeld der
+Sozialen Entschädigung geleistet wird.
 
 (2) Die Träger der Rentenversicherung können die am 31. Dezember 1991
 bestehenden Fachkliniken zur Behandlung von Erkrankungen der
@@ -21437,6 +21490,18 @@ Vorschriften des Beitrittsgebiets und der Gesamtleistung nach den
 Vorschriften dieses Buches gezahlt.
 
 
+#### Elfter Unterabschnitt - Gesetz zur Regelung des Sozialen Entschädigungsrechts
+
+
+##### § 319d Berücksichtigung von Versorgungskrankengeld
+
+Bei der Anwendung von § 3 Satz 1 Nummer 3, § 20 Nummer 3 Buchstabe b,
+§ 96a Absatz 3 Satz 1 Nummer 2, § 163 Absatz 5 Satz 2, § 166 Absatz 1
+Nummer 2, § 168 Absatz 1 Nummer 7, § 170 Absatz 1 Nummer 2 Buchstabe
+b, § 175 Absatz 1 und § 301 Absatz 1 Satz 2 gilt das
+Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
+
+
 ## Sechstes Kapitel - Bußgeldvorschriften
 
 
@@ -21517,6 +21582,24 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
+
+
+### § 322 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 3 Satz 1 Nummer 3, des § 20
+Absatz 1 Nummer 3 Buchstabe b, des § 96a Absatz 3 Satz 1 Nummer 2, des
+§ 163 Absatz 5 Satz 2, des § 166 Absatz 1 Nummer 2, des § 168 Absatz 1
+Nummer 7, des § 170 Absatz 1 Nummer 2 Buchstabe b, des § 175 Absatz 1,
+des § 245 Absatz 2 Nummer 3 und 5, des § 250 Absatz 1 Nummer 1 und des
+§ 301 Absatz 1 Satz 2 in der am 31. Dezember 2023 geltenden Fassung
+weiter.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
@@ -22337,14 +22420,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   22
 
-    *
-    *   38 901\*)
+    *   42 053
 
+    *
 
 *    *   23
 
     *
     *   43 142\*)
+
+
+*    *   24
+
+    *
+    *   45 358\*)
 
 
 
@@ -23051,6 +23140,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   107 400
 
 
+*    *   1.1.2024 - 31.12.2024
+
+    *   90 600
+
+    *
+    *   111 600
+
+
 
 
 
@@ -23311,6 +23408,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   85 200
 
     *   104 400
+
+
+*    *   1.1.2024 - 31.12.2024
+
+    *   89 400
+
+    *   110 400
 
 
 

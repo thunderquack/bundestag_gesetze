@@ -740,7 +740,7 @@ Kapitalanlagen umfassen insbesondere:
 3.  Vergütungen an den Treuhänder für den Deckungsstock,
 
 
-4.  Verluste aus Beteiligungen an Personengesellschaften,
+4.  Verluste aus Beteiligungen an rechtsfähigen Personengesellschaften,
 
 
 5.  Schuldzinsen für Hypotheken auf den eigenen Grundbesitz.

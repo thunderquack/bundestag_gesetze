@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1633
 
+Geändert durch
+:   Art. 9 G v. 22.12.2023 I Nr. 412
+
 
 ## § 1 Gewährleistungsermächtigung
 
@@ -43,7 +46,8 @@ wird der Haushaltsausschuss des Deutschen Bundestages darüber
 unterrichtet.
 
 (2) Der Haushaltsausschuss des Deutschen Bundestages ist darüber
-hinaus halbjährlich über die übernommene Gewährleistung und den von
-der Europäischen Kommission nach Artikel 14 der in § 1 Absatz 1
-genannten Verordnung erstatteten Bericht zu unterrichten.
+hinaus über die übernommene Gewährleistung und den von der
+Europäischen Kommission nach Artikel 14 der in § 1 Absatz 1 genannten
+Verordnung erstatteten Bericht zu unterrichten. Das Weitere bestimmt
+der Haushaltsausschuss des Deutschen Bundestages.
 

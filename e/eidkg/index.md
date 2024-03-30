@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 846
 
-Geändert durch
-:   Art. 3 G v. 5.7.2021 I 2281, 3678
-
-Änderung durch
-:   Art. 3 G v. 8.10.2023 I Nr. 271 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 G v. 8.10.2023 I Nr. 271
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

@@ -59,34 +59,55 @@ dieser Verordnung abgedruckten Muster 5 auszustellen.
 (1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen,
 wenn der schwerbehinderte Mensch wegen eines Grades der
 Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem
-Bundesversorgungsgesetz hat.
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
+oder nach § 24 des Vierzehnten Buches Sozialgesetzbuch hat.
 
 (2) Im Ausweis sind folgende Merkzeichen einzutragen:
-1\.
-VB
 
-*
-    *   wenn der schwerbehinderte Mensch wegen eines Grades der
-        Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach
-        anderen Bundesgesetzen in entsprechender Anwendung der Vorschriften
-        des Bundesversorgungsgesetzes hat oder wenn der Grad der
-        Schädigungsfolgen wegen des Zusammentreffens mehrerer Ansprüche auf
-        Versorgung nach dem Bundesversorgungsgesetz, nach Bundesgesetzen in
-        entsprechender Anwendung der Vorschriften des
-        Bundesversorgungsgesetzes oder nach dem Bundesentschädigungsgesetz in
-        seiner Gesamtheit mindestens 50 beträgt und nicht bereits die
-        Bezeichnung nach Absatz 1 oder ein Merkzeichen nach Nummer 2
-        einzutragen ist,
+1.  VB
+
+    a)  wenn der schwerbehinderte Mensch wegen eines Grades der
+        Schädigungsfolgen von mindestens 50 Anspruch auf Leistungen nach
+        anderen Bundesgesetzen in entsprechender Anwendung
+
+        aa) der Vorschriften des Vierzehnten Buches Sozialgesetzbuch oder
+
+
+        bb) des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023
+            geltenden Fassung oder
 
 
 
 
 
+    b)  wenn der Grad der Schädigungsfolgen wegen des Zusammentreffens
+        mehrerer Ansprüche auf folgende Leistungen in seiner Gesamtheit
+        mindestens 50 beträgt und weder die Bezeichnung „kriegsbeschädigt“
+        noch das Merkzeichen „EB“ einzutragen ist:
 
-2\.
-EB
+        aa) auf Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch,
 
-*
+
+        bb) auf Leistungen nach dem Bundesversorgungsgesetz in der bis zum 31.
+            Dezember 2023 geltenden Fassung,
+
+
+        cc) auf Leistungen nach Bundesgesetzen in entsprechender Anwendung der
+            Vorschriften des Bundesversorgungsgesetzes in der bis zum 31. Dezember
+            2023 geltenden Fassung oder
+
+
+        dd) auf Leistungen nach dem Bundesentschädigungsgesetz,
+
+
+
+
+
+
+
+
+2.  EB
+
     *   wenn der schwerbehinderte Mensch wegen eines Grades der
         Schädigungsfolgen von mindestens 50 Entschädigung nach § 28 des
         Bundesentschädigungsgesetzes erhält.
@@ -378,12 +399,8 @@ Ausweis gültig sein soll, sind auf der Vorderseite des Ausweises
 einzutragen.
 
 
-### § 7 Verwaltungsverfahren
+### § 7 (weggefallen)
 
-Für die Ausstellung und Einziehung des Ausweises sind die für die
-Kriegsopferversorgung maßgebenden Verwaltungsverfahrensvorschriften
-entsprechend anzuwenden, soweit sich aus § 152 Absatz 5 des Neunten
-Buches Sozialgesetzbuch nichts Abweichendes ergibt.
 
 
 ## Zweiter Abschnitt - Ausweis für sonstige Personen zur unentgeltlichen Beförderung im öffentlichen Personenverkehr

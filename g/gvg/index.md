@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 25.10.2023 I Nr. 294
 
+Änderung durch
+:   Art. 14a G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Titel - Gerichtsbarkeit
 

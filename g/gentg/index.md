@@ -311,7 +311,7 @@ Im Sinne dieses Gesetzes sind
 
 7.  Betreiber
 
-    eine juristische oder natürliche Person oder eine nichtrechtsfähige
+    eine juristische oder natürliche Person oder eine sonstige
     Personenvereinigung, die unter ihrem Namen eine gentechnische Anlage
     errichtet oder betreibt, gentechnische Arbeiten oder Freisetzungen
     durchführt oder Produkte, die gentechnisch veränderte Organismen
@@ -361,7 +361,7 @@ Im Sinne dieses Gesetzes sind
 
 13a. Bewirtschafter
 
-    eine juristische oder natürliche Person oder eine nichtrechtsfähige
+    eine juristische oder natürliche Person oder eine sonstige
     Personenvereinigung, die die Verfügungsgewalt und tatsächliche
     Sachherrschaft über eine Fläche zum Anbau von gentechnisch veränderten
     Organismen besitzt.

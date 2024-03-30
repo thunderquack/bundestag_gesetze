@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 8.10.2023 I Nr. 272
+:   Art. 27 G v. 22.12.2023 I Nr. 411
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -779,20 +779,38 @@ wird, die zur Erteilung des Steuerbescheids zuständig ist.
 
 #### § 48
 
-(1) Gegen Bescheide über die einheitliche und gesonderte Feststellung
+(1) Gegen Bescheide über die gesonderte und einheitliche Feststellung
 von Besteuerungsgrundlagen können Klage erheben:
 
-1.  zur Vertretung berufene Geschäftsführer oder, wenn solche nicht
-    vorhanden sind, der Klagebevollmächtigte im Sinne des Absatzes 2;
+1.  bei rechtsfähigen Personenvereinigungen:
+
+    a)  die Personenvereinigung,
 
 
-2.  wenn Personen nach Nummer 1 nicht vorhanden sind, jeder
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
-    Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+    b)  wenn die rechtsfähige Personenvereinigung nicht mehr besteht, jeder
+        Gesellschafter oder Gemeinschafter, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
 
 
-3.  auch wenn Personen nach Nummer 1 vorhanden sind, ausgeschiedene
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen die der
+
+
+
+2.  bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen:
+
+    a)  der Klagebefugte im Sinne des Absatzes 2,
+
+
+    b)  wenn Personen nach Buchstabe a nicht vorhanden sind, jeder
+        Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+
+
+
+
+3.  in den Fällen des § 183 Absatz 2 Satz 1 Nummer 2 oder des § 183a
+    Absatz 2 Satz 1 Nummer 2 der Abgabenordnung jeder Gesellschafter,
+    Gemeinschafter oder Mitberechtigte, gegen den der
     Feststellungsbescheid ergangen ist oder zu ergehen hätte;
 
 
@@ -808,22 +826,19 @@ von Besteuerungsgrundlagen können Klage erheben:
 
 
 
-(2) Klagebefugt im Sinne des Absatzes 1 Nr. 1 ist der gemeinsame
-Empfangsbevollmächtigte im Sinne des § 183 Abs. 1 Satz 1 der
-Abgabenordnung oder des § 6 Abs. 1 Satz 1 der Verordnung über die
-gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2
-der Abgabenordnung vom 19. Dezember 1986 (BGBl. I S. 2663). Haben die
-Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten
-bestellt, ist klagebefugt im Sinne des Absatzes 1 Nr. 1 der nach § 183
-Abs. 1 Satz 2 der Abgabenordnung fingierte oder der nach § 183 Abs. 1
-Satz 3 bis 5 der Abgabenordnung oder nach § 6 Abs. 1 Satz 3 bis 5 der
-Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen
-nach § 180 Abs. 2 der Abgabenordnung von der Finanzbehörde bestimmte
-Empfangsbevollmächtigte; dies gilt nicht für Feststellungsbeteiligte,
-die gegenüber der Finanzbehörde der Klagebefugnis des
-Empfangsbevollmächtigten widersprechen. Die Sätze 1 und 2 sind nur
-anwendbar, wenn die Beteiligten spätestens bei Erlass der
-Einspruchsentscheidung über die Klagebefugnis des
+(2) Klagebefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a ist der
+gemeinsame Empfangsbevollmächtigte im Sinne des § 183a Absatz 1 Satz 1
+der Abgabenordnung oder des § 6 Absatz 1 Satz 1 der Verordnung über
+die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs.
+2 der Abgabenordnung. Haben die Feststellungsbeteiligten keinen
+gemeinsamen Empfangsbevollmächtigten bestellt, ist klagebefugt im
+Sinne des Absatzes 1 Nummer 2 Buchstabe a der von der Finanzbehörde
+nach § 183a Absatz 1 Satz 2 und 3 der Abgabenordnung oder nach § 6
+Absatz 1 Satz 3 und 4 der Verordnung über die gesonderte Feststellung
+von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung
+bestimmte Empfangsbevollmächtigte; Absatz 1 Nummer 3 bleibt unberührt.
+Die Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten spätestens
+bei Erlass der Einspruchsentscheidung über die Klagebefugnis des
 Empfangsbevollmächtigten belehrt worden sind.
 
 

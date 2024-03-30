@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 1713
 
 Zuletzt geändert durch
-:   Art. 13 G v. 16.12.2022 I 2294
+:   Art. 5 G v. 21.12.2023 I Nr. 397
+
+Änderung durch
+:   Art. 10 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -671,16 +674,20 @@ entsprechender Anwendung des § 234 der Abgabenordnung zu erheben.
 
 (5) Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem
 Finanzamt, das in den in Absatz 1 genannten Zeitpunkten nach § 19 der
-Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Vordruck
-die Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7
+Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Datensatz
+über die amtlich bestimmte Schnittstelle elektronisch die
+Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7
 mitzuteilen. Die Mitteilung ist innerhalb eines Monats nach dem
-meldepflichtigen Ereignis zu erstatten; sie ist vom Steuerpflichtigen
-eigenhändig zu unterschreiben. Der Steuerpflichtige oder sein
+meldepflichtigen Ereignis zu erstatten. Der Steuerpflichtige oder sein
 Gesamtrechtsnachfolger hat dem nach Satz 1 zuständigen Finanzamt
-jährlich bis zum 31. Juli schriftlich seine aktuelle Anschrift
-mitzuteilen und zu bestätigen, dass die Anteile ihm oder im Fall des
-Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin
-zuzurechnen sind.
+jährlich bis zum 31. Juli nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle elektronisch seine aktuelle
+Anschrift mitzuteilen und zu bestätigen, dass die Anteile ihm oder im
+Fall des Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin
+zuzurechnen sind. Auf Antrag kann die Finanzbehörde zur Vermeidung
+unbilliger Härten auf eine elektronische Übermittlung verzichten; in
+diesem Fall ist die Mitteilung nach amtlich vorgeschriebenem Vordruck
+abzugeben und vom Steuerpflichtigen eigenhändig zu unterschreiben.
 
 
 ## Vierter Teil - Hinzurechnungsbesteuerung
@@ -938,7 +945,7 @@ die zur Durchführung der Besteuerung erforderlich sind.
 (5) Eine niedrige Besteuerung liegt vor, wenn die nach Maßgabe des §
 10 Absatz 3 ermittelten Einkünfte, für die die ausländische
 Gesellschaft Zwischengesellschaft ist, einer Belastung durch
-Ertragsteuern von weniger als 25 Prozent unterliegen, ohne dass dies
+Ertragsteuern von weniger als 15 Prozent unterliegen, ohne dass dies
 auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die
 Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder
 das Gebiet der ausländischen Gesellschaft im Fall einer
@@ -946,8 +953,8 @@ Gewinnausschüttung der ausländischen Gesellschaft dem
 Steuerpflichtigen oder einer anderen Gesellschaft, an der der
 Steuerpflichtige unmittelbar oder mittelbar beteiligt ist, gewährt.
 Einkünfte unterliegen im Sinne des Satzes 1 auch dann einer Belastung
-durch Ertragsteuern von weniger als 25 Prozent, wenn Ertragsteuern von
-mindestens 25 Prozent zwar rechtlich geschuldet, jedoch nicht
+durch Ertragsteuern von weniger als 15 Prozent, wenn Ertragsteuern von
+mindestens 15 Prozent zwar rechtlich geschuldet, jedoch nicht
 tatsächlich erhoben werden.
 
 
@@ -1384,22 +1391,25 @@ das Finanzamt zuständig, das zuerst mit der Sache befaßt wird.
 
 (3) Jeder der an der ausländischen Gesellschaft unmittelbar oder
 mittelbar beteiligten Steuerpflichtigen hat eine Erklärung zur
-gesonderten Feststellung nach amtlich vorgeschriebenem Vordruck
-abzugeben. In den Fällen, in denen nach § 8 Absatz 2 geltend gemacht
-wird, dass eine Hinzurechnung unterbleibt, ist dies abweichend von
-Satz 1 nach amtlich vorgeschriebenem Vordruck nur anzuzeigen; für
-diese Anzeige gelten die für die Erklärung zur gesonderten
-Feststellung nach Satz 1 maßgeblichen Fristen entsprechend. Die
-Anzeige hat die Angaben zu enthalten, die für die Prüfung der
-Voraussetzungen nach § 8 Absatz 2 von Bedeutung sind; insbesondere
-Name, Anschrift, wirtschaftliche Tätigkeit der ausländischen
-Gesellschaft, Beteiligungsverhältnisse und Identifikationsmerkmale der
-an der ausländischen Gesellschaft Beteiligten. Das zuständige
-Finanzamt kann in den Fällen des Satzes 2 die Abgabe einer Erklärung
-nach Satz 1 verlangen. Die Verpflichtungen nach diesem Absatz können
-durch die Abgabe einer gemeinsamen Erklärung oder Anzeige erfüllt
-werden. Die Erklärung sowie die Anzeige sind von dem Steuerpflichtigen
-oder von den in § 34 der Abgabenordnung bezeichneten Personen
+gesonderten Feststellung nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle elektronisch abzugeben. In den
+Fällen, in denen nach § 8 Absatz 2 geltend gemacht wird, dass eine
+Hinzurechnung unterbleibt, ist dies abweichend von Satz 1 nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+elektronisch nur anzuzeigen; für diese Anzeige gelten die für die
+Erklärung zur gesonderten Feststellung nach Satz 1 maßgeblichen
+Fristen entsprechend. Die Anzeige hat die Angaben zu enthalten, die
+für die Prüfung der Voraussetzungen nach § 8 Absatz 2 von Bedeutung
+sind; insbesondere Name, Anschrift, wirtschaftliche Tätigkeit der
+ausländischen Gesellschaft, Beteiligungsverhältnisse und
+Identifikationsmerkmale der an der ausländischen Gesellschaft
+Beteiligten. Das zuständige Finanzamt kann in den Fällen des Satzes 2
+die Abgabe einer Erklärung nach Satz 1 verlangen. Die Verpflichtungen
+nach diesem Absatz können durch die Abgabe einer gemeinsamen Erklärung
+oder Anzeige erfüllt werden. Auf Antrag kann die Finanzbehörde zur
+Vermeidung unbilliger Härten auf eine elektronische Übermittlung
+verzichten; in diesem Fall sind die Erklärung sowie die Anzeige nach
+amtlich vorgeschriebenem Vordruck abzugeben und vom Steuerpflichtigen
 eigenhändig zu unterschreiben.
 
 (4) Die Absätze 1 bis 3 gelten für Einkünfte und Vermögen im Sinne des
@@ -1467,9 +1477,25 @@ Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in
 der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses
 Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von
-Satz 1 sind Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz
-6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem
-24\. März 2021 nicht mehr zu berücksichtigen.
+Satz 1 sind
+
+1.  Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am
+    30\. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März
+    2021 nicht mehr zu berücksichtigen und
+
+
+2.  Stundungen nach § 6 Absatz 4 oder 5 in einer bis zum 30. Juni 2021
+    geltenden Fassung auch zu widerrufen, soweit Gewinnausschüttungen
+    erfolgen oder eine Einlagenrückgewähr erfolgt und soweit deren
+    gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts zum
+    Zeitpunkt der Verwirklichung des Tatbestands im Sinne des Satzes 1
+    beträgt; § 6 Absatz 7 Satz 1 und 2 in der am 30. Juni 2021 geltenden
+    Fassung ist entsprechend anzuwenden. Dies gilt nur für
+    Gewinnausschüttungen oder eine Einlagenrückgewähr, die nach dem 16.
+    August 2023 erfolgen.
+
+
+
 
 (4) Die §§ 7 bis 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden
 Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind
@@ -1525,6 +1551,20 @@ der folgenden Fassung anzuwenden:
 
 
 
+
+(6) § 8 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist
+erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für den
+Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind,
+die in einem Wirtschaftsjahr der Zwischengesellschaft oder der
+Betriebsstätte entstanden sind, das nach dem 31. Dezember 2023 endet.
+
+(7) § 6 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist
+erstmals für den Veranlagungszeitraum 2025 anzuwenden. § 18 Absatz 3
+in der am 28. Dezember 2023 geltenden Fassung ist erstmals anzuwenden
+für die Einkommen- und Körperschaftsteuer für den
+Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind,
+die in einem Wirtschaftsjahr der Zwischengesellschaft oder der
+Betriebsstätte entstanden sind, das nach dem 31. Dezember 2024 endet.
 
 
 ### § 22 Neufassung des Gesetzes

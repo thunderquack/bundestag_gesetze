@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 G v. 8.10.2023 I Nr. 272
 
+Änderung durch
+:   Art. 27 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 11 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -43,16 +49,21 @@ Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
 3.  CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des
     Kreditwesengesetzes, die im Inland zum Geschäftsbetrieb zugelassen
-    sind, sowie die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie
-    2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013
-    über den Zugang zur Tätigkeit von Kreditinstituten und die
-    Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur
-    Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien
-    2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom
-    2\.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S.
-    95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom
-    5\.12.2019, S. 64) geändert worden ist, namentlich genannten
-    Unternehmen, sofern sie Zahlungsdienste erbringen;
+    sind, einschließlich Zweigstellen nach § 53 Absatz 1 des
+    Kreditwesengesetzes, die im Inland zum Erbringen sowohl des
+    Einlagengeschäfts im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des
+    Kreditwesengesetzes als auch des Kreditgeschäfts im Sinne des § 1
+    Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes zugelassen sind,
+    sowie die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des
+    Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
+    Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
+    Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
+    2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG
+    (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom
+    25\.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die
+    Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert
+    worden ist, namentlich genannten Unternehmen, sofern sie
+    Zahlungsdienste erbringen;
 
 
 4.  die Europäische Zentralbank, die Deutsche Bundesbank sowie andere
@@ -137,9 +148,14 @@ Zahlungsdienste sind
 
 2.  CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des
     Kreditwesengesetzes, die im Inland zum Geschäftsbetrieb zugelassen
-    sind, sowie die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie
-    2013/36/EU namentlich genannten Unternehmen, sofern sie das E-Geld-
-    Geschäft betreiben;
+    sind, einschließlich Zweigstellen nach § 53 Absatz 1 des
+    Kreditwesengesetzes, die im Inland zum Erbringen sowohl des
+    Einlagengeschäfts im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des
+    Kreditwesengesetzes als auch des Kreditgeschäfts im Sinne des § 1
+    Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes zugelassen sind,
+    sowie die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU
+    namentlich genannten Unternehmen, sofern sie das E-Geld-Geschäft
+    betreiben;
 
 
 3.  die Europäische Zentralbank, die Deutsche Bundesbank sowie andere
@@ -304,6 +320,10 @@ eines Zahlungskontos ist und die Ausführung eines Zahlungsauftrags von
 diesem Zahlungskonto gestattet oder, falls kein Zahlungskonto
 vorhanden ist, eine natürliche oder juristische Person, die den
 Zahlungsauftrag erteilt.
+
+(15a) Zahlungsvorgang ist jede Bereitstellung, Übermittlung oder
+Abhebung eines Geldbetrags, unabhängig von der zugrunde liegenden
+Rechtsbeziehung zwischen Zahler und Zahlungsempfänger.
 
 (16) Zahlungsempfänger ist die natürliche oder juristische Person, die
 den Geldbetrag, der Gegenstand eines Zahlungsvorgangs ist, als
@@ -737,8 +757,8 @@ Satz 2 Nummer 1 des Kreditwesengesetzes oder als E-Geld.
 (4) Ein Institut darf im Rahmen seiner Erlaubnis nach § 10 Absatz 1
 Satz 1 oder § 11 Absatz 1 Satz 1 Zahlungsdienstnutzern im Zusammenhang
 mit Zahlungsdiensten nach § 1 Absatz 1 Satz 2 Nummer 4 oder 5 Kredite
-im Sinne des § 19 des Kreditwesengesetzes nur unter der Voraussetzung
-gewähren, dass
+nach § 1 Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes nur unter
+der Voraussetzung gewähren, dass
 
 1.  die Gewährung des Kredits als Nebentätigkeit und ausschließlich im
     Zusammenhang mit der Ausführung eines Zahlungsvorgangs erfolgt,
@@ -761,10 +781,12 @@ E-Geld angenommenen Geldern gewährt werden darf. Eine Kreditgewährung
 durch ein Institut im Sinne dieses Gesetzes, die die Voraussetzungen
 des Satzes 1 erfüllt, gilt nicht als Kreditgeschäft im Sinne des § 1
 Absatz 1 Satz 2 Nummer 2 des Kreditwesengesetzes. In diesem Fall prüft
-das Zahlungsinstitut vor Abschluss eines Verbraucherdarlehensvertrags
-oder eines Vertrags über eine entgeltliche Finanzierungshilfe die
+das Institut vor Abschluss eines Verbraucherdarlehensvertrags oder
+eines Vertrags über eine entgeltliche Finanzierungshilfe die
 Kreditwürdigkeit des Verbrauchers; § 18a Absatz 1 bis 10 des
-Kreditwesengesetzes gilt entsprechend.
+Kreditwesengesetzes gilt entsprechend. Das Institut muss insbesondere
+über angemessene Strategien und Verfahren nach § 18a Absatz 8b des
+Kreditwesengesetzes verfügen.
 
 
 #### § 4 Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen
@@ -796,6 +818,30 @@ Institut, Zahlungsdienstleister oder E-Geld-Emittent zwischen dem
 Betreiber und der Bundesanstalt oder einer anderen Verwaltungsbehörde
 streitig ist. Ihre Entscheidungen binden die anderen
 Verwaltungsbehörden.
+
+
+#### § 4a Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung
+
+(1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden,
+dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes
+elektronisch bekanntgegeben oder nach § 4g des
+Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden.
+Institute sowie juristische und natürliche Personen, die aufgrund
+dieses Gesetzes einen Antrag gestellt haben, sind verpflichtet, für
+den elektronischen Abruf der nach Satz 1 elektronisch bekanntgegebenen
+oder zugestellten Verwaltungsakte das von der Bundesanstalt
+bereitgestellte elektronische Kommunikationsverfahren zu nutzen und
+hierfür den elektronischen Zugang zu eröffnen, es sei denn, die
+Bundesanstalt bestimmt einen anderen Übermittlungsweg.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
+Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zum Zugang
+zum elektronischen Kommunikationsverfahren nach Absatz 1, zu seiner
+Durchführung und seiner Nutzung zu erlassen. Das Bundesministerium der
+Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
+Einvernehmen mit der Deutschen Bundesbank ergeht.
 
 
 #### § 5 Zusammenarbeit mit anderen Behörden
@@ -1002,8 +1048,9 @@ Absatz 2 oder des § 39 Absatz 8 haben keine aufschiebende Wirkung.
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert,
 Zahlungsdienste erbringen will, ohne Zahlungsdienstleister im Sinne
 des § 1 Absatz 1 Satz 1 Nummer 2 bis 5 zu sein, bedarf der
-schriftlichen Erlaubnis der Bundesanstalt. Über die Erbringung von
-Zahlungsdiensten hinaus sind von der Erlaubnis umfasst
+schriftlichen oder elektronischen Erlaubnis der Bundesanstalt. Über
+die Erbringung von Zahlungsdiensten hinaus sind von der Erlaubnis
+umfasst
 
 1.  die Erbringung betrieblicher und eng verbundener
     Nebendienstleistungen; Nebendienstleistungen sind die Sicherstellung
@@ -1150,7 +1197,12 @@ erscheint, um ihren gesetzlichen Auftrag zu erfüllen.
 (3) Die Bundesanstalt teilt dem Antragsteller binnen drei Monaten nach
 Eingang des Antrags oder bei Unvollständigkeit des Antrags binnen drei
 Monaten nach Übermittlung aller für die Entscheidung erforderlichen
-Angaben mit, ob die Erlaubnis erteilt oder versagt wird.
+Angaben mit, ob die Erlaubnis erteilt oder versagt wird. Liegen
+innerhalb von zwölf Monaten ab Eingang des Antrags bei der
+Bundesanstalt trotz Aufforderung der Bundesanstalt, den Antrag
+innerhalb eines Monats zu vervollständigen, keine ausreichenden
+Angaben oder Unterlagen vor, die es der Bundesanstalt ermöglichen,
+über den Antrag zu befinden, so ist der Antrag abzulehnen.
 
 (4) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die
 sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen.
@@ -1180,11 +1232,12 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
 Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art,
 Umfang und Form der nach dieser Vorschrift vorgesehenen
 Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann
-diese Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch
-Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
-Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
-Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
-soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der
+Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der
+Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die
+Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit
+in der Informationstechnik ist anzuhören, soweit die Sicherheit
+informationstechnischer Systeme betroffen ist.
 
 (9) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer
 Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
@@ -1196,9 +1249,9 @@ betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
 (1) Wer im Inland das E-Geld-Geschäft betreiben will, ohne E-Geld-
 Emittent im Sinne des § 1 Absatz 2 Satz 1 Nummer 2 bis 4 zu sein,
-bedarf der schriftlichen Erlaubnis der Bundesanstalt. Über die
-Erbringung des E-Geld-Geschäfts hinaus sind von der Erlaubnis nach
-Satz 1 umfasst:
+bedarf der schriftlichen oder elektronischen Erlaubnis der
+Bundesanstalt. Über die Erbringung des E-Geld-Geschäfts hinaus sind
+von der Erlaubnis nach Satz 1 umfasst:
 
 1.  die Erbringung von Zahlungsdiensten;
 
@@ -1232,7 +1285,9 @@ enthalten:
 
 
 2.  den Nachweis, dass der Antragsteller über das erforderliche
-    Anfangskapital nach § 12 Nummer 3 Buchstabe d verfügt,
+    Anfangskapital nach § 12 Nummer 3 Buchstabe d verfügt, sowie für
+    Zahlungsauslösedienste und Kontoinformationsdienste den Nachweis über
+    die Absicherung im Haftungsfall nach § 16 oder § 36,
 
 
 3.  eine Beschreibung der Maßnahmen zur Erfüllung der
@@ -1292,11 +1347,12 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
 Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art,
 Umfang und Form der nach dieser Vorschrift vorgesehenen
 Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann
-die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch
-Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
-Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
-Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
-soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der
+Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der
+Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die
+Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit
+in der Informationstechnik ist anzuhören, soweit die Sicherheit
+informationstechnischer Systeme betroffen ist.
 
 (7) Die Absätze 1 bis 5 finden auch dann Anwendung, wenn im Zuge einer
 Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
@@ -1496,10 +1552,10 @@ interessierte Erwerber einer bedeutenden Beteiligung gemäß Absatz 1
 Satz 2 in Verbindung mit § 2c Absatz 1 Satz 2 des Kreditwesengesetzes
 in der Anzeige anzugeben hat, soweit diese Angaben zur Erfüllung der
 Aufgaben der Bundesanstalt erforderlich sind. Das Bundesministerium
-der Finanzen kann die Ermächtigung durch Rechtsverordnung im
-Einvernehmen mit der Deutschen Bundesbank auf die Bundesanstalt
-übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände
-der Institute anzuhören.
+der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
+Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der
+Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 
 ## Abschnitt 3 - Eigenmittel, Absicherung im Haftungsfall
@@ -1563,10 +1619,11 @@ erlassen, insbesondere über
 
 
 
-Das Bundesministerium der Finanzen kann die Ermächtigung im
-Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf
-die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die
-Spitzenverbände der Institute anzuhören.
+Das Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen,
+dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank
+ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
+Institute anzuhören.
 
 (4) Institute, die eine Erlaubnis nach § 32 Absatz 1 des
 Kreditwesengesetzes haben, müssen neben den Eigenmittelanforderungen
@@ -1574,12 +1631,9 @@ nach diesem Gesetz auch die Eigenmittelanforderungen nach den Artikeln
 24 bis 386 der Verordnung (EU) Nr. 575/2013 oder nach § 1a des
 Kreditwesengesetzes in Verbindung mit den Artikeln 24 bis 386 der
 Verordnung (EU) Nr. 575/2013 ermitteln, sofern sie nicht von der
-Anwendung dieser Artikel ausgenommen sind. Institute, die eine
-Erlaubnis nach § 17 des Wertpapierinstitutsgesetzes haben, müssen
-neben den Eigenmittelanforderungen nach diesem Gesetz die für
-Wertpapierinstitute geltenden Eigenmittelanforderungen einhalten.
-Sofern die Anforderungen nach diesem Gesetz höher sind, sind diese mit
-Eigenmitteln nach Absatz 1 abzudecken.
+Anwendung dieser Artikel ausgenommen sind. Sofern die Anforderungen
+nach diesem Gesetz höher sind, sind diese mit Eigenmitteln nach Absatz
+1 abzudecken.
 
 (5) Sofern die Voraussetzungen für eine Freistellung nach § 2a des
 Kreditwesengesetzes in Verbindung mit Artikel 7 Absatz 1 und 2 der
@@ -1587,6 +1641,11 @@ Verordnung (EU) Nr. 575/2013 gegeben sind, kann die Bundesanstalt
 davon absehen, die Absätze 1, 2 und 4 auf Institute anzuwenden, die in
 die konsolidierte Beaufsichtigung des übergeordneten Instituts
 einbezogen sind.
+
+(6) § 297 Absatz 1, § 304 Absatz 4 und § 305 Absatz 5 Satz 4 des
+Aktiengesetzes sind nicht anzuwenden, wenn Zweck einer
+Kapitalüberlassung die Überlassung von Eigenmitteln nach Artikel 72
+der Verordnung (EU) Nr. 575/2013 ist.
 
 
 ### § 16 Absicherung für den Haftungsfall für Zahlungsauslösedienste; Verordnungsermächtigung
@@ -1742,17 +1801,20 @@ Einrichtungen, derer sich die Bundesanstalt bei der Durchführung ihrer
 Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen
 Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen
 vorzulegen und erforderlichenfalls Kopien anzufertigen. Die
-Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten,
-ihren Zweigniederlassungen, Agenten sowie E-Geld-Agenten und
-Auslagerungsunternehmen Prüfungen vornehmen und die Durchführung der
-Prüfungen der Deutschen Bundesbank übertragen. Die Bediensteten der
-Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen,
-derer sich die Bundesanstalt bei der Durchführung der Prüfungen
-bedient, können hierzu die Geschäftsräume des Instituts, der
-Zweigniederlassung, des Agenten sowie E-Geld-Agenten oder des
+Bundesanstalt oder die Deutsche Bundesbank können bei Auskunfts- und
+Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung
+verlangen und nähere Bestimmungen über die Art und Weise der
+Übermittlung festlegen. Die Bundesanstalt kann, auch ohne besonderen
+Anlass, bei den Instituten, ihren Zweigniederlassungen, Agenten sowie
+E-Geld-Agenten und Auslagerungsunternehmen Prüfungen vornehmen und die
+Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die
+Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die
+sonstigen Personen, derer sich die Bundesanstalt bei der Durchführung
+der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts,
+der Zweigniederlassung, des Agenten sowie E-Geld-Agenten oder des
 Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
 Geschäftszeiten betreten und besichtigen. Die Betroffenen haben
-Maßnahmen nach den Sätzen 2 und 3 zu dulden.
+Maßnahmen nach den Sätzen 3 und 4 zu dulden.
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können zu den
 Hauptversammlungen, Generalversammlungen oder
@@ -2076,10 +2138,10 @@ Durchführung der Zahlungsdienste oder das ordnungsgemäße Betreiben des
 E-Geld-Geschäfts beeinträchtigen können, zu erkennen sowie
 einheitliche Unterlagen zur Beurteilung der von den Instituten
 durchgeführten Geschäfte zu erhalten. Das Bundesministerium der
-Finanzen kann die Ermächtigung im Einvernehmen mit dem
-Bundesministerium der Justiz und für Verbraucherschutz auf die
-Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die
-Spitzenverbände der Institute anzuhören.
+Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium der Justiz ergeht. Vor Erlass
+der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 (4) § 29 des Kreditwesengesetzes bleibt unberührt. Unbeschadet der
 Absätze 1 bis 3 kann die Bundesanstalt gegenüber dem Institut auch
@@ -2125,8 +2187,9 @@ in das Zahlungsinstituts-Register eingetragen wird. Der Agent darf
 erst nach Eintragung in das Zahlungsinstituts-Register mit der
 Erbringung von Zahlungsdiensten beginnen. Ändern sich Verhältnisse,
 die nach Satz 1 angezeigt wurden, hat das Institut diese Änderungen
-der Bundesanstalt und der Deutschen Bundesbank unverzüglich in
-Textform anzuzeigen; die Sätze 2 und 3 gelten entsprechend.
+der Bundesanstalt und der Deutschen Bundesbank unverzüglich
+schriftlich oder elektronisch anzuzeigen; die Sätze 2 und 3 gelten
+entsprechend.
 
 (2) Das Institut hat sicherzustellen, dass der Agent zuverlässig und
 fachlich geeignet ist, bei der Erbringung der Zahlungsdienste die
@@ -2154,10 +2217,11 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
 Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art,
 Umfang und Form der Nachweise nach Absatz 2 Satz 2 zu erlassen, soweit
 dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist.
-Das Bundesministerium der Finanzen kann die Ermächtigung im
-Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf
-die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die
-Spitzenverbände der Institute anzuhören.
+Das Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen,
+dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank
+ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
+Institute anzuhören.
 
 
 ### § 26 Auslagerung
@@ -2237,8 +2301,8 @@ geeignet und erforderlich sind,
 
 (4) Ändert sich die Inanspruchnahme von Stellen, an die Tätigkeiten
 ausgelagert werden, hat das Institut der Bundesanstalt und der
-Deutschen Bundesbank diese Änderungen unverzüglich in Textform
-anzuzeigen.
+Deutschen Bundesbank diese Änderungen unverzüglich schriftlich oder
+elektronisch anzuzeigen.
 
 
 ### § 27 Organisationspflichten
@@ -2413,9 +2477,10 @@ eines öffentlichen Registers durch die Bundesanstalt sowie über die
 Zugriffsmöglichkeiten auf Seiten dieses Registers und die Zuweisung
 von Verantwortung für die Richtigkeit und Aktualität der Seiten
 erlassen werden. Das Bundesministerium der Finanzen kann die
-Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch
-Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
-Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
+Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der
+Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der
+Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die
+Spitzenverbände der Institute anzuhören.
 
 
 ### § 29 Monatsausweise; Verordnungsermächtigung
@@ -2439,10 +2504,11 @@ Art, Umfang und Zeitpunkt sowie über die zulässigen Datenträger,
 insbesondere um Einblick in die Entwicklung der Vermögens- und
 Ertragslage der Institute zu erhalten, sowie über weitere Angaben,
 soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich
-ist. Das Bundesministerium der Finanzen kann die Ermächtigung im
-Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf
-die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die
-Spitzenverbände der Institute anzuhören.
+ist. Das Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen,
+dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank
+ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
+Institute anzuhören.
 
 
 ### § 30 Aufbewahrung von Unterlagen
@@ -2545,9 +2611,9 @@ sich bei diesem nicht um einen Verbraucher handelt.
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als
 Zahlungsdienst ausschließlich Kontoinformationsdienste erbringen will,
-bedarf nur der schriftlichen Registrierung durch die Bundesanstalt.
-Der Registrierungsantrag muss folgende Angaben und Nachweise
-enthalten:
+bedarf nur der schriftlichen oder elektronischen Registrierung durch
+die Bundesanstalt. Der Registrierungsantrag muss folgende Angaben und
+Nachweise enthalten:
 
 1.  eine Beschreibung des Geschäftsmodells, aus dem insbesondere die Art
     des beabsichtigten Kontoinformationsdienstes hervorgeht;
@@ -2659,7 +2725,12 @@ erfüllen.
 (2) Die Bundesanstalt teilt dem Antragsteller binnen drei Monaten nach
 Eingang des Antrags oder bei Unvollständigkeit des Antrags binnen drei
 Monaten nach Übermittlung aller für die Entscheidung erforderlichen
-Angaben mit, ob die Registrierung erteilt oder versagt wird.
+Angaben mit, ob die Registrierung erteilt oder versagt wird. Liegen
+innerhalb von zwölf Monaten ab Eingang des Antrags bei der
+Bundesanstalt trotz Aufforderung der Bundesanstalt, den Antrag
+innerhalb eines Monats zu vervollständigen, keine ausreichenden
+Angaben oder Unterlagen vor, die es der Bundesanstalt ermöglichen,
+über den Antrag zu befinden, so ist der Antrag abzulehnen.
 
 (3) Die Bundesanstalt kann die Registrierung unter Auflagen erteilen,
 die sich im Rahmen des mit diesem Gesetz verfolgten Zwecks halten
@@ -2690,11 +2761,12 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
 Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art,
 Umfang, und Form der nach dieser Vorschrift vorgesehenen
 Antragsunterlagen zu erlassen. Das Bundesministerium der Finanzen kann
-die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch
-Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
-Rechtsverordnung sind die Spitzenverbände der Institute anzuhören. Das
-Bundesamt für Sicherheit in der Informationstechnik ist anzuhören,
-soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der
+Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der
+Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die
+Spitzenverbände der Institute anzuhören. Das Bundesamt für Sicherheit
+in der Informationstechnik ist anzuhören, soweit die Sicherheit
+informationstechnischer Systeme betroffen ist.
 
 (8) Die Absätze 1 bis 6 finden auch dann Anwendung, wenn im Zuge einer
 Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine
@@ -2933,8 +3005,8 @@ Behörden des Aufnahmemitgliedstaates einzuholen.
 (9) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2, Absatz 2
 Satz 2 oder Absatz 3 angezeigt wurden, hat das Institut diese
 Änderungen der Bundesanstalt und der Deutschen Bundesbank unverzüglich
-in Textform anzuzeigen. Auf das Verfahren finden die Absätze 4 und 5
-entsprechende Anwendung.
+schriftlich oder elektronisch anzuzeigen. Auf das Verfahren finden die
+Absätze 4 und 5 entsprechende Anwendung.
 
 
 ### § 39 Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
@@ -2990,7 +3062,8 @@ Zweigniederlassung gelten. Änderungen des Geschäftsplans, insbesondere
 der Art der geplanten Geschäfte und des organisatorischen Aufbaus der
 Zweigniederlassung, der Anschrift und der Leiter sind der
 Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor
-dem Wirksamwerden der Änderungen in Textform anzuzeigen.
+dem Wirksamwerden der Änderungen schriftlich oder elektronisch
+anzuzeigen.
 
 (4) Für Agenten, E-Geld-Agenten und zentrale Kontaktpersonen gilt
 Absatz 3 Satz 1 entsprechend.
@@ -3663,10 +3736,10 @@ Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Inhalt,
 Art und Umfang der Angaben, Nachweise und Unterlagen zu treffen, die
 ein Antrag nach Artikel 4 Absatz 4 der Verordnung (EU) Nr. 260/2012
 enthalten muss. Das Bundesministerium der Finanzen kann die
-Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch
-Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der
-Rechtsverordnung sind die Spitzenverbände der Zahlungsdienstleister
-anzuhören.
+Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der
+Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der
+Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die
+Spitzenverbände der Zahlungsdienstleister anzuhören.
 
 
 ### Unterabschnitt 5a - Technische Infrastrukturleistungen
@@ -3737,7 +3810,7 @@ ausdrücklichen Einwilligung des Zahlungsdienstnutzers verarbeiten.
 personenbezogener Daten sind zu beachten.
 
 
-## Abschnitt 12 - Beschwerden und Außergerichtliche Streitbeilegung
+## Abschnitt 12 - Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation
 
 
 ### § 60 Beschwerden über Zahlungsdienstleister
@@ -3774,8 +3847,8 @@ einlegen. Beschwerdebefugte Stellen sind:
 
 
 
-(2) Beschwerden sind schriftlich oder zur Niederschrift bei der
-Bundesanstalt einzulegen und sollen den Sachverhalt sowie den
+(2) Beschwerden sind schriftlich, elektronisch oder zur Niederschrift
+bei der Bundesanstalt einzulegen und sollen den Sachverhalt sowie den
 Beschwerdegrund angeben. Bei Beschwerden von Zahlungsdienstnutzern
 wegen behaupteter Verstöße von Zahlungsdienstleistern gegen die §§
 675c bis 676c des Bürgerlichen Gesetzbuchs oder Artikel 248 des
@@ -3794,8 +3867,8 @@ oder gegen die §§ 675c bis 676c des Bürgerlichen Gesetzbuchs oder
 Artikel 248 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche eine
 Beschwerde bei der Bundesanstalt einlegen.
 
-(2) Beschwerden sind schriftlich oder zur Niederschrift bei der
-Bundesanstalt einzulegen und sollen den Sachverhalt und den
+(2) Beschwerden sind schriftlich, elektronisch oder zur Niederschrift
+bei der Bundesanstalt einzulegen und sollen den Sachverhalt und den
 Beschwerdegrund angeben. § 60 Absatz 2 Satz 2 gilt entsprechend.
 
 
@@ -3844,6 +3917,27 @@ im Zahlungsdienstevertrag zu geben. Informationen nach Satz 1 müssen
 auch Angaben darüber enthalten, wo weitere Informationen über die
 zuständige Stelle zur alternativen Streitbeilegung und über die
 Voraussetzungen für deren Anrufung erhältlich sind.
+
+
+### § 62a Kollektive Verbraucherinformation
+
+(1) Die Bundesanstalt hat das elektronische Merkblatt nach Artikel 106
+Absatz 1 der Richtlinie (EU) 2015/2366 des Europäischen Parlaments und
+des Rates vom 25. November 2015 über Zahlungsdienste im Binnenmarkt,
+zur Änderung der Richtlinien 2002/65/EG, 2009/110/EG und 2013/36/EU
+und der Verordnung (EU) Nr. 1093/2010 sowie zur Aufhebung der
+Richtlinie 2007/64/EG (ABl. L 337 vom 23.12.2015, S. 35; L 169 vom
+28\.6.2016, S. 18; L 102 vom 23.4.2018, S. 97; L 126 vom 23.5.2018, S.
+10), die zuletzt durch die Delegierte Verordnung (EU) 2021/1722 vom
+18\. Juni 2021 (ABl. L 343 vom 28.9.2021, S. 1) geändert worden ist,
+auf ihrer Internetseite auf barrierefreie Art und Weise leicht
+zugänglich zu machen.
+
+(2) Zahlungsdienstleister haben das elektronische Merkblatt nach
+Absatz 1 auf ihren vorhandenen Internetseiten und in Papierform in
+ihren Zweigniederlassungen, bei ihren Agenten und bei den Stellen, an
+die sie ihre Tätigkeiten ausgelagert haben, kostenfrei und auf
+barrierefreie Art und Weise leicht zugänglich zu machen.
 
 
 ## Abschnitt 13 - Strafvorschriften, Bußgeldvorschriften

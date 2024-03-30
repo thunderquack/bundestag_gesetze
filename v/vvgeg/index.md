@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 9.6.2021 I 1666
 
+Änderung durch
+:   Art. 33 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
 

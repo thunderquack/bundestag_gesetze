@@ -19,7 +19,19 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.12.2022 I 2730
+:   Art. 24 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 12 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 13 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 14 G v. 27.3.2024 I Nr. 108 mWv 1.1.2027 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 34 Abs. 6 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
 
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
@@ -152,8 +164,9 @@ das Recht der Europäischen Union, im Besonderen die Verordnung (EU)
 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
 Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
-L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
-geltenden Fassung unmittelbar oder nach Absatz 5 entsprechend gilt.
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 47 vom
+4\.3.2021, S. 35) in der jeweils geltenden Fassung unmittelbar oder
+nach Absatz 5 entsprechend gilt.
 
 (4) Für die Verarbeitung personenbezogener Daten zum Zweck der
 Verhütung, Ermittlung, Aufdeckung, Verfolgung oder Ahndung von
@@ -171,8 +184,7 @@ oder identifizierbare
 1.  verstorbene natürliche Personen oder
 
 
-2.  Körperschaften, rechtsfähige oder nicht rechtsfähige
-    Personenvereinigungen oder Vermögensmassen.
+2.  Körperschaften, Personenvereinigungen (§ 14a) oder Vermögensmassen.
 
 
 
@@ -481,6 +493,71 @@ Vermögensverwaltung hinausgeht. Die Absicht, Gewinn zu erzielen, ist
 nicht erforderlich. Eine Vermögensverwaltung liegt in der Regel vor,
 wenn Vermögen genutzt, zum Beispiel Kapitalvermögen verzinslich
 angelegt oder unbewegliches Vermögen vermietet oder verpachtet wird.
+
+
+#### § 14a Personenvereinigungen
+
+(1) Personenvereinigungen im Sinne dieses Gesetzes und der
+Steuergesetze sind Personenzusammenschlüsse ohne Rechtspersönlichkeit
+zur Verfolgung eines gesetzlich zulässigen Zwecks.
+
+(2) Rechtsfähige Personenvereinigungen sind insbesondere
+
+1.  Vereine ohne Rechtspersönlichkeit (§ 54 des Bürgerlichen Gesetzbuchs),
+
+
+2.  rechtsfähige Personengesellschaften einschließlich Gesellschaften (§
+    705 des Bürgerlichen Gesetzbuchs), Personenhandelsgesellschaften,
+    Partnerschaftsgesellschaften, Partenreedereien und Europäische
+    wirtschaftliche Interessenvereinigungen und
+
+
+3.  Gemeinschaften der Wohnungseigentümer (§ 9a des
+    Wohnungseigentumsgesetzes).
+
+
+
+
+(3) Nicht rechtsfähige Personenvereinigungen sind insbesondere
+
+1.  Bruchteilsgemeinschaften (§ 741 des Bürgerlichen Gesetzbuchs),
+
+
+2.  Gütergemeinschaften (§ 1415 des Bürgerlichen Gesetzbuchs) und
+
+
+3.  Erbengemeinschaften (§ 2032 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+(4) Auf nicht rechtsfähige Gesellschaften (§ 740 des Bürgerlichen
+Gesetzbuchs) sind die für nicht rechtsfähige Personenvereinigungen
+geltenden Vorschriften mit Ausnahme des § 267 Absatz 1 Satz 1
+sinngemäß anzuwenden.
+
+
+#### § 14b Körperschaften mit Sitz im Ausland
+
+(1) Ist eine Körperschaft mit Sitz (§ 11) im Ausland und Ort der
+Geschäftsleitung (§ 10) im Geltungsbereich dieses Gesetzes nach dem
+Recht des Staates, in dem sie ihren Sitz hat, rechtsfähig, sind
+Verwaltungsakte an sie zu richten, soweit sie nach den Steuergesetzen
+Steuerschuldner ist. Dies gilt auch dann, wenn sie nach inländischem
+Gesellschaftsrecht mangels Rechtsfähigkeit nicht als juristische
+Person zu behandeln ist.
+
+(2) Auf Körperschaften im Sinne des Absatzes 1 Satz 2 sind die für
+juristische Personen geltenden Regelungen der §§ 34 und 79
+entsprechend anzuwenden.
+
+(3) Für die Vollstreckung in das Vermögen einer Körperschaft im Sinne
+des Absatzes 1 genügt ein an sie gerichteter vollstreckbarer
+Verwaltungsakt.
+
+(4) Die Anteilseigner einer Körperschaft im Sinne des Absatzes 1 Satz
+2 haften für die von der Körperschaft geschuldeten Ansprüche aus dem
+Steuerschuldverhältnis unbeschränkt.
 
 
 #### § 15 Angehörige
@@ -1311,8 +1388,8 @@ eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus
 
 (2) Die Finanzbehörden sind in den Fällen des Absatzes 1 verpflichtet,
 der zuständigen Stelle die jeweils benötigten Tatsachen mitzuteilen.
-In den Fällen des Absatzes 1 Nr. 1 Buchstabe b und Nr. 2 erfolgt die
-Mitteilung auch auf Antrag der betroffenen Person. Die
+In den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und Nummer 2
+erfolgt die Mitteilung auch auf Antrag der betroffenen Person. Die
 Mitteilungspflicht nach den Sätzen 1 und 2 besteht nicht, soweit deren
 Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
@@ -1951,18 +2028,18 @@ Grundstücken, Geschäfts- und Betriebsräumen zu gestatten hat.
 #### § 34 Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
 
 (1) Die gesetzlichen Vertreter natürlicher und juristischer Personen
-und die Geschäftsführer von nicht rechtsfähigen Personenvereinigungen
-und Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie
+sowie rechtsfähiger Personenvereinigungen und die Geschäftsführer von
+Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie
 haben insbesondere dafür zu sorgen, dass die Steuern aus den Mitteln
 entrichtet werden, die sie verwalten.
 
-(2) Soweit nicht rechtsfähige Personenvereinigungen ohne
-Geschäftsführer sind, haben die Mitglieder oder Gesellschafter die
-Pflichten im Sinne des Absatzes 1 zu erfüllen. Die Finanzbehörde kann
-sich an jedes Mitglied oder jeden Gesellschafter halten. Für nicht
-rechtsfähige Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe,
-dass diejenigen, denen das Vermögen zusteht, die steuerlichen
-Pflichten zu erfüllen haben.
+(2) Bei nicht rechtsfähigen Personenvereinigungen haben die
+Mitglieder, Gesellschafter oder Gemeinschafter die Pflichten im Sinne
+des Absatzes 1 zu erfüllen. Die Finanzbehörde kann sich an jedes
+Mitglied oder jeden Gesellschafter halten. Für nicht rechtsfähige
+Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe, dass
+diejenigen, denen das Vermögen zusteht, die steuerlichen Pflichten zu
+erfüllen haben.
 
 (3) Steht eine Vermögensverwaltung anderen Personen als den
 Eigentümern des Vermögens oder deren gesetzlichen Vertretern zu, so
@@ -2031,9 +2108,12 @@ knüpft.
     Sicherungsgeber und beim Eigenbesitz dem Eigenbesitzer zuzurechnen.
 
 
-2.  Wirtschaftsgüter, die mehreren zur gesamten Hand zustehen, werden den
-    Beteiligten anteilig zugerechnet, soweit eine getrennte Zurechnung für
-    die Besteuerung erforderlich ist.
+2.  Wirtschaftsgüter, die mehreren zur gesamten Hand oder einer
+    rechtsfähigen Personengesellschaft zustehen, werden den Beteiligten
+    oder Gesellschaftern anteilig zugerechnet, soweit eine getrennte
+    Zurechnung für die Besteuerung erforderlich ist. Rechtsfähige
+    Personengesellschaften gelten für Zwecke der Ertragsbesteuerung als
+    Gesamthand und deren Vermögen als Gesamthandsvermögen.
 
 
 
@@ -2753,6 +2833,51 @@ das Einverständnis der Vereinigung auf Auskunftserteilung nach § 24
 Absatz 1 Satz 3 des Geldwäschegesetzes vorliegt.
 
 
+#### § 60b Zuwendungsempfängerregister
+
+(1) Das Bundeszentralamt für Steuern führt ein Register, in dem
+Körperschaften geführt werden, die die Voraussetzungen der §§ 51 bis
+68 oder des § 34g des Einkommensteuergesetzes erfüllen
+(Zuwendungsempfängerregister).
+
+(2) Im Zuwendungsempfängerregister speichert das Bundeszentralamt für
+Steuern zu Zwecken des Sonderausgabenabzugs nach § 10b des
+Einkommensteuergesetzes zu Körperschaften, die die Voraussetzungen der
+§§ 51 bis 68 erfüllen, folgende Daten:
+
+1.  Wirtschafts-Identifikationsnummer der Körperschaft,
+
+
+2.  Name der Körperschaft,
+
+
+3.  Anschrift der Körperschaft,
+
+
+4.  steuerbegünstigte Zwecke der Körperschaft,
+
+
+5.  das für die Festsetzung der Körperschaftsteuer der Körperschaft
+    zuständige Finanzamt,
+
+
+6.  Datum der Erteilung des letzten Freistellungsbescheides oder
+    Feststellungsbescheides nach § 60a,
+
+
+7.  Bankverbindung der Körperschaft.
+
+
+
+
+(3) Das für die Festsetzung der Körperschaftsteuer der Körperschaft
+zuständige Finanzamt übermittelt dem Bundeszentralamt für Steuern die
+Daten nach Absatz 2 sowie unverzüglich jede Änderung dieser Daten.
+
+(4) Das Bundeszentralamt für Steuern ist befugt, die Daten nach Absatz
+2 Dritten zu offenbaren. § 30 steht dem nicht entgegen.
+
+
 #### § 61 Satzungsmäßige Vermögensbindung
 
 (1) Eine steuerlich ausreichende Vermögensbindung (§ 55 Abs. 1 Nr. 4)
@@ -3360,8 +3485,9 @@ Beteiligte sind
     handlungsfähig anerkannt sind,
 
 
-3.  juristische Personen, Vereinigungen oder Vermögensmassen durch ihre
-    gesetzlichen Vertreter oder durch besonders Beauftragte,
+3.  juristische Personen sowie Personenvereinigungen oder Vermögensmassen
+    durch die in § 34 bezeichneten Personen oder durch besonders
+    Beauftragte,
 
 
 4.  Behörden durch ihre Leiter, deren Vertreter oder Beauftragte.
@@ -4606,11 +4732,10 @@ erforderlich ist oder er erforderlich ist
 4a. zur Ermittlung, in welchen Fällen ein inländischer Steuerpflichtiger
     im Sinne des § 138 Absatz 2 Satz 1 Verfügungsberechtigter oder
     wirtschaftlich Berechtigter im Sinne des Geldwäschegesetzes eines
-    Kontos oder Depots einer natürlichen Person, Personengesellschaft,
-    Körperschaft, Personenvereinigung oder Vermögensmasse mit Wohnsitz,
-    gewöhnlichem Aufenthalt, Sitz, Hauptniederlassung oder
-    Geschäftsleitung außerhalb des Geltungsbereichs dieses Gesetzes ist,
-    oder
+    Kontos oder Depots einer natürlichen Person, Körperschaft,
+    Personenvereinigung oder Vermögensmasse mit Wohnsitz, gewöhnlichem
+    Aufenthalt, Sitz, Hauptniederlassung oder Geschäftsleitung außerhalb
+    des Geltungsbereichs dieses Gesetzes ist, oder
 
 
 4b. zur Ermittlung der Besteuerungsgrundlagen in den Fällen des § 208
@@ -6512,10 +6637,10 @@ zuständigen Finanzamt mitzuteilen:
 In den Fällen des Satzes 1 Nummer 3 sind unmittelbare und mittelbare
 Beteiligungen zusammenzurechnen.
 
-(3) Drittstaat-Gesellschaft ist eine Personengesellschaft,
-Körperschaft, Personenvereinigung oder Vermögensmasse mit Sitz oder
-Geschäftsleitung in Staaten oder Territorien, die nicht Mitglieder der
-Europäischen Union oder der Europäischen Freihandelsassoziation sind.
+(3) Drittstaat-Gesellschaft ist eine Körperschaft, Personenvereinigung
+oder Vermögensmasse mit Sitz oder Geschäftsleitung in Staaten oder
+Territorien, die nicht Mitglieder der Europäischen Union oder der
+Europäischen Freihandelsassoziation sind.
 
 (4) Mitteilungen nach den Absätzen 1, 1a und 1b sind innerhalb eines
 Monats nach dem meldepflichtigen Ereignis zu erstatten.
@@ -6925,8 +7050,8 @@ Betriebsstätte im Sinne eines im konkreten Fall anwendbaren Abkommens
 zur Vermeidung der Doppelbesteuerung.
 
 (5) Nutzer einer grenzüberschreitenden Steuergestaltung ist jede
-natürliche oder juristische Person, Personengesellschaft, Gemeinschaft
-oder Vermögensmasse,
+natürliche oder juristische Person, Personenvereinigung oder
+Vermögensmasse,
 
 1.  der die grenzüberschreitende Steuergestaltung zur Umsetzung
     bereitgestellt wird,
@@ -8188,8 +8313,8 @@ Personenvereinigungen folgende Daten:
 10. Datum des Gesellschaftsvertrags,
 
 
-11. Handels- oder Partnerschaftsregistereintrag (Registergericht, Datum
-    und Nummer der Eintragung),
+11. Eintrag im Handels-, Partnerschafts- oder Gesellschaftsregister
+    (Registergericht, Datum und Nummer der Eintragung),
 
 
 12. Datum der Betriebseröffnung oder Zeitpunkt der Aufnahme der Tätigkeit,
@@ -8311,12 +8436,12 @@ erfolgt, um
 
 (6a) Die in Absatz 4 Nummer 3, 5, 8 und 10 aufgeführten Daten und die
 in Absatz 5 Nummer 4, 6, 9 und 11 aufgeführten Daten werden bei einer
-juristischen Person oder bei einer Personengesellschaft, die ein
-Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt,
-auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos
-gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto
-übermittelt werden, wenn der Nutzer zuvor in die Übermittlung
-eingewilligt hat.
+juristischen Person oder bei einer rechtsfähigen Personengesellschaft,
+die ein Nutzerkonto im Sinne des § 2 Absatz 5 des
+Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als
+Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen
+elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer
+zuvor in die Übermittlung eingewilligt hat.
 
 (7) Die in Absatz 3 aufgeführten Daten dürfen nur für die in Absatz 6
 genannten Zwecke verarbeitet werden, es sei denn, eine
@@ -9295,8 +9420,9 @@ abgegeben wurde.
 
 4.  bei jährlich abzugebenden Lohnsteueranmeldungen, bei Anmeldungen von
     Umsatzsteuer-Sondervorauszahlungen nach § 48 Absatz 2 der
-    Umsatzsteuer-Durchführungsverordnung sowie bei jährlich abzugebenden
-    Versicherungsteuer- und Feuerschutzsteueranmeldungen.
+    Umsatzsteuer-Durchführungsverordnung, bei jährlich abzugebenden
+    Versicherungsteuer- und Feuerschutzsteueranmeldungen sowie bei
+    Erklärungen nach § 95 des Mindeststeuergesetzes.
 
 
 
@@ -9309,9 +9435,17 @@ alle erklärungspflichtigen Personen festsetzt. Wird der
 Verspätungszuschlag gegen mehrere oder gegen alle
 erklärungspflichtigen Personen festgesetzt, sind diese Personen
 Gesamtschuldner des Verspätungszuschlags. In Fällen des § 180 Absatz 1
-Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag vorrangig
-gegen die nach § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen
-Personen festzusetzen.
+Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag festzusetzen
+
+1.  bei rechtsfähigen Personenvereinigungen vorrangig gegen die
+    Personenvereinigung und
+
+
+2.  bei nicht rechtsfähigen Personenvereinigungen vorrangig gegen die nach
+    § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen Personen.
+
+
+
 
 (5) Der Verspätungszuschlag beträgt vorbehaltlich des Satzes 2, der
 Absätze 8 und 13 Satz 2 für jeden angefangenen Monat der eingetretenen
@@ -10798,10 +10932,21 @@ Teilabschlussbescheid unmittelbar Bindungswirkung entfaltet.
 abzugeben, dem der Gegenstand der Feststellung ganz oder teilweise
 zuzurechnen ist. Erklärungspflichtig sind insbesondere
 
-1.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a jeder
-    Feststellungsbeteiligte, dem ein Anteil an den
-    einkommensteuerpflichtigen oder körperschaftsteuerpflichtigen
-    Einkünften zuzurechnen ist;
+1.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a
+
+    a)  bei rechtsfähigen Personenvereinigungen vorrangig die
+        Personenvereinigung und nachrangig jeder Feststellungsbeteiligte, dem
+        ein Anteil an den einkommensteuerpflichtigen oder
+        körperschaftsteuerpflichtigen Einkünften zuzurechnen ist,
+
+
+    b)  bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
+        jeder Feststellungsbeteiligte, dem ein Anteil an den
+        einkommensteuerpflichtigen oder körperschaftsteuerpflichtigen
+        Einkünften zuzurechnen ist;
+
+
+
 
 
 2.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe b der
@@ -10814,7 +10959,8 @@ zuzurechnen ist. Erklärungspflichtig sind insbesondere
 
 
 4.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a und
-    Nummer 3 auch die in § 34 bezeichneten Personen.
+    Nummer 3 bei nicht rechtsfähigen Personenvereinigungen auch die in §
+    34 bezeichneten Personen.
 
 
 
@@ -10894,47 +11040,106 @@ Rechtsnachfolge eingetreten ist, kann dies durch besonderen Bescheid
 gegenüber dem Rechtsnachfolger berichtigt werden.
 
 
-###### § 183 Empfangsbevollmächtigte bei der einheitlichen Feststellung
+###### § 183 Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen
 
-(1) Richtet sich ein Feststellungsbescheid gegen mehrere Personen, die
-an dem Gegenstand der Feststellung als Gesellschafter oder
-Gemeinschafter beteiligt sind (Feststellungsbeteiligte), so sollen sie
-einen gemeinsamen Empfangsbevollmächtigten bestellen, der ermächtigt
-ist, für sie alle Verwaltungsakte und Mitteilungen in Empfang zu
-nehmen, die mit dem Feststellungsverfahren und dem anschließenden
-Verfahren über einen Einspruch zusammenhängen. Ist ein gemeinsamer
-Empfangsbevollmächtigter nicht vorhanden, so gilt ein zur Vertretung
-der Gesellschaft oder der Feststellungsbeteiligten oder ein zur
-Verwaltung des Gegenstands der Feststellung Berechtigter als
-Empfangsbevollmächtigter. Anderenfalls kann die Finanzbehörde die
-Beteiligten auffordern, innerhalb einer bestimmten angemessenen Frist
-einen Empfangsbevollmächtigten zu benennen. Hierbei ist ein
-Beteiligter vorzuschlagen und darauf hinzuweisen, dass diesem die in
-Satz 1 genannten Verwaltungsakte und Mitteilungen mit Wirkung für und
-gegen alle Beteiligten bekannt gegeben werden, soweit nicht ein
-anderer Empfangsbevollmächtigter benannt wird. Bei der Bekanntgabe an
-den Empfangsbevollmächtigten ist darauf hinzuweisen, dass die
-Bekanntgabe mit Wirkung für und gegen alle Feststellungsbeteiligten
-erfolgt.
+(1) Sind mehrere Personen am Gegenstand der gesonderten und
+einheitlichen Feststellung als Gesellschafter oder Gemeinschafter
+beteiligt (Feststellungsbeteiligte) und bilden sie eine rechtsfähige
+Personenvereinigung, sind alle Verwaltungsakte und Mitteilungen, die
+nach diesem Gesetz und den Steuergesetzen mit der gesonderten und
+einheitlichen Feststellung zusammenhängen, der Personenvereinigung in
+Vertretung der Feststellungsbeteiligten bekannt zu geben. Bei der
+Bekanntgabe ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung
+für und gegen alle Feststellungsbeteiligten erfolgt.
+
+(2) Absatz 1 ist nicht anzuwenden,
+
+1.  wenn die Personenvereinigung vollbeendet ist oder der Finanzbehörde
+    bekannt ist, dass die Personenvereinigung nicht mehr rechtsfähig ist,
+    oder
+
+
+2.  soweit ein Feststellungsbeteiligter aus der Personenvereinigung
+    ausgeschieden ist oder zwischen den Feststellungsbeteiligten
+    ernstliche Meinungsverschiedenheiten bestehen.
+
+
+
+In den Fällen von Satz 1 Nummer 2 können die in Absatz 1 Satz 1
+genannten Verwaltungsakte und Mitteilungen der Personenvereinigung
+auch mit Wirkung für und gegen einen in Satz 1 Nummer 2 genannten
+Feststellungsbeteiligten bekannt gegeben werden, soweit und solange
+dieser Feststellungsbeteiligte dem nicht widersprochen hat. Ein
+Widerspruch nach Satz 2 wird der Finanzbehörde gegenüber erst wirksam,
+wenn er ihr zugeht.
+
+(3) Ist nach Absatz 2 Satz 1 Einzelbekanntgabe erforderlich, so sind
+dem Feststellungsbeteiligten
+
+1.  der Gegenstand der gesonderten und einheitlichen Feststellung,
+
+
+2.  die alle Feststellungsbeteiligten betreffenden Besteuerungsgrundlagen,
+
+
+3.  sein Anteil,
+
+
+4.  die Zahl der Feststellungsbeteiligten und
+
+
+5.  die ihn persönlich betreffenden Besteuerungsgrundlagen
+
+
+
+bekannt zu geben. Bei berechtigtem Interesse ist dem
+Feststellungsbeteiligten der gesamte Inhalt des Feststellungsbescheids
+mitzuteilen.
+
+
+###### § 183a Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
+
+(1) Bilden die Feststellungsbeteiligten keine rechtsfähige
+Personenvereinigung, so sollen sie einen gemeinsamen
+Empfangsbevollmächtigten bestellen, der ermächtigt ist, für sie alle
+Verwaltungsakte und Mitteilungen in Empfang zu nehmen, die nach diesem
+Gesetz und den Steuergesetzen mit der gesonderten und einheitlichen
+Feststellung zusammenhängen. Ist kein gemeinsamer
+Empfangsbevollmächtigter nach Satz 1 vorhanden, kann die Finanzbehörde
+die Feststellungsbeteiligten auffordern, innerhalb einer bestimmten
+angemessenen Frist einen Empfangsbevollmächtigten zu benennen. Hierbei
+ist ein Feststellungsbeteiligter vorzuschlagen und darauf hinzuweisen,
+dass diesem die in Satz 1 genannten Verwaltungsakte und Mitteilungen
+mit Wirkung für und gegen alle Feststellungsbeteiligten bekannt
+gegeben werden, soweit nicht ein anderer Empfangsbevollmächtigter
+benannt wird. Bei der Bekanntgabe an den Empfangsbevollmächtigten ist
+darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen
+alle Feststellungsbeteiligten erfolgt.
 
 (2) Absatz 1 ist insoweit nicht anzuwenden, als der Finanzbehörde
-bekannt ist, dass die Gesellschaft oder Gemeinschaft nicht mehr
-besteht, dass ein Beteiligter aus der Gesellschaft oder der
-Gemeinschaft ausgeschieden ist oder dass zwischen den Beteiligten
-ernstliche Meinungsverschiedenheiten bestehen. Ist nach Satz 1
-Einzelbekanntgabe erforderlich, so sind dem Beteiligten der Gegenstand
-der Feststellung, die alle Beteiligten betreffenden
-Besteuerungsgrundlagen, sein Anteil, die Zahl der Beteiligten und die
-ihn persönlich betreffenden Besteuerungsgrundlagen bekannt zu geben.
-Bei berechtigtem Interesse ist dem Beteiligten der gesamte Inhalt des
-Feststellungsbescheids mitzuteilen.
+bekannt ist, dass
 
-(3) Ist ein Empfangsbevollmächtigter nach Absatz 1 Satz 1 vorhanden,
-können Feststellungsbescheide ihm gegenüber auch mit Wirkung für einen
-in Absatz 2 Satz 1 genannten Beteiligten bekannt gegeben werden,
-soweit und solange dieser Beteiligte oder der Empfangsbevollmächtigte
-nicht widersprochen hat. Der Widerruf der Vollmacht wird der
-Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht.
+1.  die Personenvereinigung nicht mehr besteht oder rechtsfähig geworden
+    ist,
+
+
+2.  ein Feststellungsbeteiligter aus der Personenvereinigung ausgeschieden
+    ist oder zwischen den Feststellungsbeteiligten ernstliche
+    Meinungsverschiedenheiten bestehen.
+
+
+
+Ist ein Empfangsbevollmächtigter nach Absatz 1 Satz 1 vorhanden,
+können die in Absatz 1 Satz 1 genannten Verwaltungsakte und
+Mitteilungen ihm auch mit Wirkung für einen in Satz 1 Nummer 2
+genannten Feststellungsbeteiligten bekannt gegeben werden, soweit und
+solange dieser Feststellungsbeteiligte oder der
+Empfangsbevollmächtigte nicht widersprochen hat. Ein Widerruf der
+Empfangsvollmacht nach Absatz 1 Satz 1 und ein Widerspruch nach Satz 2
+werden der Finanzbehörde gegenüber erst wirksam, wenn sie ihr zugehen.
+
+(3) Ist nach Absatz 2 Einzelbekanntgabe erforderlich, gilt § 183
+Absatz 3 entsprechend.
 
 (4) Wird eine wirtschaftliche Einheit
 
@@ -10946,7 +11151,7 @@ Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht.
 
 
 
-zugerechnet und haben die Beteiligten keinen gemeinsamen
+zugerechnet und haben die Feststellungsbeteiligten keinen gemeinsamen
 Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von
 Feststellungsbescheiden über den Einheitswert oder den Grundsteuerwert
 die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7
@@ -13084,13 +13289,17 @@ nach den §§ 1480, 1504 und 2187 des Bürgerlichen Gesetzbuchs
 eintretende beschränkte Haftung entsprechend anzuwenden.
 
 
-##### § 267 Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen
+##### § 267 Vollstreckungsverfahren gegen Personenvereinigungen
 
-Bei nicht rechtsfähigen Personenvereinigungen, die als solche
+(1) Bei nicht rechtsfähigen Personenvereinigungen, die als solche
 steuerpflichtig sind, genügt für die Vollstreckung in deren Vermögen
 ein vollstreckbarer Verwaltungsakt gegen die Personenvereinigung. Dies
 gilt entsprechend für Zweckvermögen und sonstige einer juristischen
 Person ähnliche steuerpflichtige Gebilde.
+
+(2) Hat eine nicht rechtsfähige Personenvereinigung nachträglich
+Rechtsfähigkeit erlangt, so kann auch aus einem Verwaltungsakt
+vollstreckt werden, der vor diesem Zeitpunkt wirksam geworden ist.
 
 
 #### 2. Unterabschnitt - Aufteilung einer Gesamtschuld
@@ -13372,9 +13581,10 @@ Vollstreckungsbehörde unter Hinweis auf die Verpflichtung zur Abgabe
 der Vermögensauskunft zur Zahlung aufgefordert hat. Zusätzlich hat er
 seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort
 anzugeben. Handelt es sich bei dem Vollstreckungsschuldner um eine
-juristische Person oder um eine Personenvereinigung, so hat er seine
-Firma, die Nummer des Registerblatts im Handelsregister und seinen
-Sitz anzugeben.
+juristische Person oder um eine rechtsfähige Personenvereinigung, so
+hat er seine Firma oder den Namen, die Nummer des Registerblatts im
+Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder
+Vereinsregister und seinen Sitz anzugeben.
 
 (2) Zur Auskunftserteilung hat der Vollstreckungsschuldner alle ihm
 gehörenden Vermögensgegenstände anzugeben. Bei Forderungen sind Grund
@@ -14792,23 +15002,41 @@ nur durch Anfechtung dieses Bescheids, nicht auch durch Anfechtung des
 Folgebescheids, angegriffen werden.
 
 
-#### § 352 Einspruchsbefugnis bei der einheitlichen Feststellung
+#### § 352 Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung
 
-(1) Gegen Bescheide über die einheitliche und gesonderte Feststellung
+(1) Gegen Bescheide über die gesonderte und einheitliche Feststellung
 von Besteuerungsgrundlagen können Einspruch einlegen:
 
-1.  zur Vertretung berufene Geschäftsführer oder, wenn solche nicht
-    vorhanden sind, der Einspruchsbevollmächtigte im Sinne des Absatzes 2;
+1.  bei rechtsfähigen Personenvereinigungen:
+
+    a)  die Personenvereinigung,
 
 
-2.  wenn Personen nach Nummer 1 nicht vorhanden sind, jeder
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
-    Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+    b)  wenn die rechtsfähige Personenvereinigung nicht mehr besteht, jeder
+        Gesellschafter oder Gemeinschafter, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
 
 
-3.  auch wenn Personen nach Nummer 1 vorhanden sind, ausgeschiedene
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen die der
-    Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+
+
+2.  bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen:
+
+    a)  der Einspruchsbefugte im Sinne des Absatzes 2,
+
+
+    b)  wenn Personen nach Buchstabe a nicht vorhanden sind, jeder
+        Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+
+
+
+
+3.  in den Fällen des § 183 Absatz 2 Satz 1 Nummer 2 oder des § 183a
+    Absatz 2 Satz 1 Nummer 2 jeder Gesellschafter, Gemeinschafter oder
+    Mitberechtigte, gegen den der Feststellungsbescheid ergangen ist oder
+    zu ergehen hätte;
 
 
 4.  soweit es sich darum handelt, wer an dem festgestellten Betrag
@@ -14823,20 +15051,18 @@ von Besteuerungsgrundlagen können Einspruch einlegen:
 
 
 
-(2) Einspruchsbefugt im Sinne des Absatzes 1 Nr. 1 ist der gemeinsame
-Empfangsbevollmächtigte im Sinne des § 183 Abs. 1 Satz 1 oder des § 6
-Abs. 1 Satz 1 der Verordnung über die gesonderte Feststellung von
-Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung vom 19.
-Dezember 1986 (BGBl. I S. 2663). Haben die Feststellungsbeteiligten
-keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist
-einspruchsbefugt im Sinne des Absatzes 1 Nr. 1 der nach § 183 Abs. 1
-Satz 2 fingierte oder der nach § 183 Abs. 1 Satz 3 bis 5 oder nach § 6
-Abs. 1 Satz 3 bis 5 der Verordnung über die gesonderte Feststellung
-von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung von
-der Finanzbehörde bestimmte Empfangsbevollmächtigte; dies gilt nicht
-für Feststellungsbeteiligte, die gegenüber der Finanzbehörde der
-Einspruchsbefugnis des Empfangsbevollmächtigten widersprechen. Die
-Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten in der
+(2) Einspruchsbefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a ist
+der gemeinsame Empfangsbevollmächtigte im Sinne des § 183a Absatz 1
+Satz 1 oder des § 6 Absatz 1 Satz 1 der Verordnung über die gesonderte
+Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der
+Abgabenordnung. Haben die Feststellungsbeteiligten keinen gemeinsamen
+Empfangsbevollmächtigten bestellt, ist einspruchsbefugt im Sinne des
+Absatzes 1 Nummer 2 Buchstabe a der nach § 183a Absatz 1 Satz 2 und 3
+oder nach § 6 Absatz 1 Satz 3 und 4 der Verordnung über die gesonderte
+Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der
+Abgabenordnung von der Finanzbehörde bestimmte
+Empfangsbevollmächtigte; Absatz 1 Nummer 3 bleibt unberührt. Die Sätze
+1 und 2 sind nur anwendbar, wenn die Beteiligten in der
 Feststellungserklärung oder in der Aufforderung zur Benennung eines
 Empfangsbevollmächtigten über die Einspruchsbefugnis des
 Empfangsbevollmächtigten belehrt worden sind.

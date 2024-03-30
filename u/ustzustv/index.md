@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3794, 3814
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.12.2022 I 2432
+:   Art. 1 V v. 24.11.2023 I Nr. 332
 
 
 ## § 1
@@ -53,7 +53,7 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-8.  das Finanzamt Berlin Neukölln für in der Griechischen Republik
+8.  das Finanzamt Berlin International für in der Griechischen Republik
     ansässige Unternehmer,
 
 
@@ -85,7 +85,7 @@ Zuletzt geändert durch
     Luxemburg ansässige Unternehmer,
 
 
-16. das Finanzamt Berlin Neukölln für in der Republik Nordmazedonien
+16. das Finanzamt Berlin International für in der Republik Nordmazedonien
     ansässige Unternehmer,
 
 
@@ -102,8 +102,8 @@ Zuletzt geändert durch
 
 20. für in der Republik Polen ansässige Unternehmer
 
-    a)  das Finanzamt Hameln, wenn der Nachname oder der Firmenname des
-        Unternehmers mit den Buchstaben A bis G beginnt;
+    a)  das Finanzamt Hameln-Holzminden, wenn der Nachname oder der Firmenname
+        des Unternehmers mit den Buchstaben A bis G beginnt;
 
 
     b)  das Finanzamt Oranienburg, wenn der Nachname oder der Firmenname des
@@ -188,7 +188,7 @@ Staaten entsprechend.
 
 (2) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz
 2 der Abgabenordnung, die nicht von Absatz 1 erfasst werden, ist das
-Finanzamt Berlin Neukölln zuständig.
+Finanzamt Berlin International zuständig.
 
 (2a) Abweichend von den Absätzen 1 und 2 ist für die Unternehmer, die
 von § 18 Abs. 4c des Umsatzsteuergesetzes Gebrauch machen, das
@@ -209,6 +209,16 @@ Teilnahme angezeigt wurde.
 Absatz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung
 der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer
 bleibt unberührt.
+
+(4) Ändert sich durch eine landesrechtliche Regelung nach § 17 Absatz
+1 oder Absatz 2 Satz 3 des Finanzverwaltungsgesetzes die Bezeichnung
+oder die organisatorische Zuordnung eines der in Absatz 1 genannten
+Finanzämter, kann das Bundesministerium der Finanzen im Einvernehmen
+mit den obersten Finanzbehörden der Länder durch ein im
+Bundessteuerblatt Teil I zu veröffentlichendes Schreiben für einen
+Übergangszeitraum von zwölf Monaten von den Absätzen 1 und 2
+abweichende, der landesrechtlichen Regelung entsprechende Zuordnungen
+vornehmen.
 
 
 ## § 2

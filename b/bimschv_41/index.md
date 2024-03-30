@@ -101,7 +101,7 @@ Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-
 Immissionsschutzgesetzes müssen in einem Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum niedergelassene juristische Personen
-oder Personengesellschaften sein.
+oder rechtsfähige Personengesellschaften sein.
 
 
 #### § 4 Fachkunde und gerätetechnische Ausstattung von Stellen

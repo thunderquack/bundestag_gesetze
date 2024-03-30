@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 19.12.2022 I 2606
 
+Änderung durch
+:   Art. 3 Abs. 3 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin
+Title: Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen
   durch Soldatinnen der Bundeswehr
 jurabk: SGleibWV
 layout: default
@@ -8,7 +8,7 @@ slug: sgleibwv
 
 ---
 
-# Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin durch Soldatinnen der Bundeswehr (SGleibWV)
+# Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen durch Soldatinnen der Bundeswehr (SGleibWV)
 
 Ausfertigungsdatum
 :   2005-05-12
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1394
 
 Zuletzt geändert durch
-:   Art. 89 G v. 29.3.2017 I 626
+:   Art. 4 G v. 22.1.2024 I Nr. 17
 
 
 
@@ -35,7 +35,7 @@ Soldatengleichstellungsgesetzes vom 27. Dezember 2004 (BGBl. I S.
 ### § 1 Verfahrensgrundsätze
 
 Der Bestellung der Gleichstellungsbeauftragten und ihrer
-Stellvertreterin aus dem Kreis der Soldatinnen geht regelmäßig die
+Stellvertreterinnen aus dem Kreis der Soldatinnen geht regelmäßig die
 Durchführung einer Wahl voraus. Die Wahl für die Ämter findet in einem
 gemeinsamen Wahlverfahren in getrennten Wahlgängen statt. Sie hat den
 Grundsätzen der allgemeinen, unmittelbaren, freien, gleichen und
@@ -61,7 +61,7 @@ die Wählerinnenliste nach § 8.
 ### § 5 Fristen
 
 Die Wahl muss spätestens eine Woche vor Ablauf der laufenden Amtszeit
-der Gleichstellungsbeauftragten und ihrer Stellvertreterin
+der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen
 abgeschlossen sein.
 
 
@@ -72,20 +72,21 @@ abgeschlossen sein.
 ### § 6 Bestellung des Wahlvorstandes
 
 (1) Spätestens zwölf Wochen vor Ablauf der Amtszeit der
-Gleichstellungsbeauftragten und ihrer Stellvertreterin bestellt die
+Gleichstellungsbeauftragten und ihrer Stellvertreterinnen bestellt die
 Dienststelle, der die Gleichstellungsbeauftragte und ihre
-Stellvertreterin zuzuordnen sind, einen Wahlvorstand und überträgt
+Stellvertreterinnen zuzuordnen sind, einen Wahlvorstand und überträgt
 einer Person den Vorsitz. Der Wahlvorstand besteht aus drei
 Soldatinnen oder Soldaten, die möglichst der Dienststelle angehören
-sollten, der die Gleichstellungsbeauftragte und ihre Stellvertreterin
-zuzuordnen sind. Ihm sollen zwei Soldatinnen angehören. Zugleich sind
-drei Ersatzmitglieder zu bestellen, davon möglichst zwei Soldatinnen.
-Ist ein Mitglied an der Mitwirkung im Wahlvorstand verhindert,
-insbesondere durch Versetzung oder Kommandierung, rückt ein bestelltes
-Ersatzmitglied nach; die Reihenfolge der Ersatzmitglieder wird vorher
-durch Losentscheid festgelegt. Die Mitglieder des Wahlvorstandes sind,
-soweit erforderlich, für die Durchführung der Wahl von ihren
-dienstlichen Aufgaben freizustellen.
+sollten, der die Gleichstellungsbeauftragte und ihre
+Stellvertreterinnen zuzuordnen sind. Ihm sollen zwei Soldatinnen
+angehören. Zugleich sind drei Ersatzmitglieder zu bestellen, davon
+möglichst zwei Soldatinnen. Ist ein Mitglied an der Mitwirkung im
+Wahlvorstand verhindert, insbesondere durch Versetzung oder
+Kommandierung, rückt ein bestelltes Ersatzmitglied nach; die
+Reihenfolge der Ersatzmitglieder wird vorher durch Losentscheid
+festgelegt. Die Mitglieder des Wahlvorstandes sind, soweit
+erforderlich, für die Durchführung der Wahl von ihren dienstlichen
+Aufgaben freizustellen.
 
 (2) Die Dienststelle unterstützt den Wahlvorstand bei der Erfüllung
 seiner Aufgaben. Insbesondere sind die notwendigen Unterlagen zur
@@ -94,17 +95,18 @@ die Vorbereitung und Durchführung der Wahl hat die Dienststelle in
 erforderlichem Umfang die personelle, räumliche und sächliche
 Ausstattung zur Verfügung zu stellen.
 
-(3) Der Wahlvorstand gibt die Familiennamen, Vornamen, Dienstgrade und
-Dienststellenzugehörigkeit seiner Mitglieder und der Ersatzmitglieder
-unverzüglich nach seiner Bestellung, spätestens mit dem
-Wahlausschreiben (§ 10) durch Aushang bekannt.
+(3) Der Wahlvorstand gibt unverzüglich nach seiner Bestellung,
+spätestens jedoch mit dem Wahlausschreiben (§ 10), Familiennamen,
+Vornamen, Dienstgrad und Dienststellenzugehörigkeit seiner Mitglieder
+und der Ersatzmitglieder in gleicher Weise wie das Wahlausschreiben
+bekannt.
 
 
 ### § 7 Aufgaben des Wahlvorstandes
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch.
 Insbesondere legt er im Einvernehmen mit der Dienststellenleitung, der
-die Gleichstellungsbeauftragte und die Stellvertreterin zugeordnet
+die Gleichstellungsbeauftragte und die Stellvertreterinnen zugeordnet
 sind, den Wahltag fest. Bei dessen Festlegung ist § 5 zu
 berücksichtigen.
 
@@ -118,9 +120,7 @@ Stimmen kann der Wahlvorstand Soldatinnen und Soldaten als
 Wahlhelferinnen oder Wahlhelfer bestellen. Für diese gilt § 6 Abs. 1
 Satz 6 entsprechend.
 
-(4) Der Wahlvorstand beim Bundesministerium der Verteidigung berät
-während seiner Amtszeit die Wahlvorstände in der Behandlung
-rechtlicher und tatsächlicher Zweifelsfragen.
+(4) (weggefallen)
 
 
 ### § 8 Wählerinnenliste
@@ -138,18 +138,19 @@ informieren.
 die Wahlberechtigung der eingetragenen Soldatinnen, stellt diese Liste
 als Wählerinnenliste fest und gibt sie spätestens zum Zeitpunkt des
 Erlasses des Wahlausschreibens (§ 10) bis zum Abschluss der
-Stimmabgabe durch Aushang in allen an der Wahl teilnehmenden
-Dienststellen bekannt.
+Stimmabgabe in gleicher Weise wie das Wahlausschreiben in allen an der
+Wahl teilnehmenden Dienststellen bekannt.
 
 
 ### § 9 Einspruch gegen die Wählerinnenliste
 
 (1) Jede Wahlberechtigte kann innerhalb von zwei Wochen seit Erlass
-des Wahlausschreibens beim Wahlvorstand schriftlich Einspruch gegen
-die Richtigkeit der Wählerinnenliste einlegen. Dem Einspruch ist eine
-schriftliche Begründung beizufügen. Richtet sich der Einspruch gegen
-eine andere Wahlberechtigte, ist diese durch den Wahlvorstand hierüber
-zu unterrichten.
+des Wahlausschreibens beim Wahlvorstand Einspruch gegen die
+Richtigkeit der Wählerinnenliste schriftlich oder elektronisch
+einlegen. Dem Einspruch ist eine schriftliche oder elektronische
+Begründung beizufügen. Richtet sich der Einspruch gegen eine andere
+Wahlberechtigte, ist diese durch den Wahlvorstand hierüber zu
+unterrichten.
 
 (2) Über einen Einspruch nach Absatz 1 entscheidet der Wahlvorstand
 unverzüglich. Ist der Einspruch begründet, hat der Wahlvorstand die
@@ -194,23 +195,37 @@ Wahlvorstandes zu unterschreiben ist. Es muss enthalten:
 
 
 7.  die Aufforderung, sich für das Amt der Gleichstellungsbeauftragten
-    oder der Stellvertreterin innerhalb von zwei Wochen nach Erlass des
-    Wahlausschreibens (Angabe des letzten Tages der Frist) zu bewerben
-    oder Vorschläge einzureichen (§ 11 Abs. 4),
+    innerhalb von vier Wochen nach Erlass des Wahlausschreibens (Angabe
+    des letzten Tages der Frist) zu bewerben oder Vorschläge einzureichen
+    (§ 11 Abs. 4),
+
+
+7a. die Zahl der zu wählenden Stellvertreterinnen,
+
+
+7b. die Aufforderung, sich für das Amt einer Stellvertreterin innerhalb
+    von vier Wochen nach Erlass des Wahlausschreibens (Angabe des letzten
+    Tages der Frist) zu bewerben oder Vorschläge einzureichen (§ 11 Absatz
+    4),
 
 
 8.  den Hinweis, dass die Gleichstellungsbeauftragte und ihre
-    Stellvertreterin in getrennten Wahlgängen gewählt werden und dass sich
-    aus den Bewerbungen ergeben muss, ob diese für das Amt der
-    Gleichstellungsbeauftragten oder das der Stellvertreterin erfolgen,
+    Stellvertreterinnen in getrennten Wahlgängen gewählt werden und dass
+    sich aus den Bewerbungen ergeben muss, ob diese für das Amt der
+    Gleichstellungsbeauftragten oder das einer Stellvertreterin erfolgen,
 
 
-9.  den Ort, an dem die gültigen Bewerbungen bis zum Abschluss der Wahl
-    durch Aushang bekannt gemacht sind,
+9.  die Art und Weise, in der die gültigen Bewerbungen bis zum Abschluss
+    der Wahl bekannt gemacht sind,
 
 
-10. den Hinweis, dass jede Wahlberechtigte für jeden Wahlgang nur eine
-    Stimme hat,
+10. den Hinweis, dass jede Wahlberechtigte für den Wahlgang zur Wahl der
+    Gleichstellungsbeauftragten nur eine Stimme hat,
+
+
+10a. den Hinweis, dass für den Wahlgang zur Wahl der Stellvertreterinnen
+    jede Wahlberechtigte so viele Stimmen hat wie Stellvertreterinnen zu
+    wählen sind, und dass auch weniger Stimmen abgegeben werden können,
 
 
 11. den Wahltag sowie Ort und Zeit der Stimmabgabe,
@@ -234,34 +249,49 @@ Wahlvorstandes zu unterschreiben ist. Es muss enthalten:
 
 
 (2) Der Wahlvorstand gibt das Wahlausschreiben vom Tag seines Erlasses
-bis zum Abschluss der Stimmabgabe durch Aushang in allen an der Wahl
-teilnehmenden Dienststellen bekannt.
+bis zum Abschluss der Stimmabgabe schriftlich oder elektronisch in
+allen an der Wahl teilnehmenden Dienststellen bekannt. Zur Erhöhung
+der Reichweite sollen möglichst vielfältige schriftliche (zum Beispiel
+durch Aushang) und elektronische (z. B. eine Veröffentlichung im
+Intranet, in Extranet-Anwendungen oder per E-Mail) Möglichkeiten der
+Bekanntmachung gleichzeitig genutzt werden.
 
 
 ### § 11 Bewerbung
 
-(1) Jede Soldatin, die nach den §§ 16a bis 16c des Soldatinnen- und
+(1) Jede Soldatin, die nach den §§ 23 bis 28 des Soldatinnen- und
 Soldatengleichstellungsgesetzes wählbar ist, kann sich für das Amt der
-Gleichstellungsbeauftragten oder der Stellvertreterin bewerben.
+Gleichstellungsbeauftragten oder einer Stellvertreterin bewerben.
 
 (2) Die Bewerbung muss schriftlich oder elektronisch unter Angabe von
 Dienstgrad, Familiennamen, Vornamen sowie Dienststelle und Dienstort
-erfolgen und dem Wahlvorstand innerhalb von zwei Wochen nach Erlass
+erfolgen und dem Wahlvorstand innerhalb von vier Wochen nach Erlass
 des Wahlausschreibens zugehen. Aus der Bewerbung muss sich eindeutig
 ergeben, ob sich die Soldatin für das Amt der
-Gleichstellungsbeauftragten oder für das Amt der Stellvertreterin
+Gleichstellungsbeauftragten oder für das Amt einer Stellvertreterin
 bewirbt.
 
 (3) Die Bewerberin hat anzugeben, ob sie Mitglied einer
 Personalvertretung oder Vertrauensperson ist oder in ihrem
 Arbeitsgebiet mit Personalangelegenheiten befasst ist.
 
-(4) Mit ihrem Einverständnis kann eine Soldatin für das Amt der
-Gleichstellungsbeauftragten oder der Stellvertreterin aus dem Kreis
+(4) Erfüllt die Bewerbung die Vorgaben des Absatzes 2 oder des
+Absatzes 3 nicht, hat der Wahlvorstand die Bewerberin unverzüglich
+über die Ungültigkeit der Bewerbung zu informieren, sofern die Frist
+nach Absatz 2 Satz 1 noch nicht abgelaufen ist. Die Bewerberin kann
+die Bewerbung innerhalb der Frist nachbessern. Ist die Frist
+abgelaufen und erfüllt die Bewerbung die Vorgaben nach den Absätzen 2
+und 3 nicht, ist sie ungültig.
+
+(5) Mit ihrem Einverständnis kann eine Soldatin für das Amt der
+Gleichstellungsbeauftragten oder einer Stellvertreterin aus dem Kreis
 der Wahlberechtigten vorgeschlagen werden. Die in Absatz 2 Satz 1
-genannte Frist ist einzuhalten. Für jeden Wahlgang darf nur ein
-Wahlvorschlag unterschrieben werden. Das Einverständnis nach Satz 1
-ist gleichzeitig mit dem Wahlvorschlag beim Wahlvorstand schriftlich
+genannte Frist ist einzuhalten. Für den Wahlgang zur Wahl der
+Gleichstellungsbeauftragten darf nur ein Wahlvorschlag unterschrieben
+werden; für den Wahlgang zur Wahl der Stellvertreterinnen dürfen nur
+so viele Wahlvorschläge unterschrieben werden wie Stellvertreterinnen
+zu wählen sind. Das Einverständnis nach Satz 1 ist gleichzeitig mit
+dem Wahlvorschlag beim Wahlvorstand schriftlich oder elektronisch
 einzureichen; es muss die in den Absätzen 2 und 3 genannten Angaben
 enthalten.
 
@@ -275,15 +305,15 @@ geben wie das Wahlausschreiben und eine Nachfrist von einer Woche für
 die Einreichung von Bewerbungen setzen. In der Bekanntgabe ist darauf
 hinzuweisen, dass die Wahl der Gleichstellungsbeauftragten nur
 stattfinden kann, wenn innerhalb der Nachfrist mindestens eine gültige
-Bewerbung eingereicht wird. Die Sätze 1 und 2 gelten für die Wahl der
-Stellvertreterin entsprechend.
+Bewerbung eingereicht wird. Die Sätze 1 und 2 gelten für die Wahl
+einer Stellvertreterin entsprechend.
 
 (2) Geht innerhalb der Nachfrist keine gültige Bewerbung ein, hat der
-Wahlvorstand durch Aushang in gleicher Weise wie das Wahlausschreiben
-bekannt zu geben, dass die Wahl oder der Wahlgang, für den keine
-Bewerbung vorliegt, nicht stattfindet und eine Bestellung von Amts
-wegen durch die Dienststelle erfolgt. Das Amt des Wahlvorstandes endet
-in diesem Fall mit der Bekanntgabe.
+Wahlvorstand in gleicher Weise wie das Wahlausschreiben bekannt zu
+geben, dass die Wahl oder der Wahlgang, für den keine Bewerbung
+vorliegt, nicht stattfindet und eine Bestellung von Amts wegen durch
+die Dienststelle erfolgt. Das Amt des Wahlvorstandes endet in diesem
+Fall mit der Bekanntgabe.
 
 
 ### § 13 Bekanntgabe der Bewerbungen
@@ -313,7 +343,7 @@ Bewerbungen in gleicher Weise bekannt wie das Wahlausschreiben.
 
 
 (2) Die Dienststelle, der die Gleichstellungsbeauftragte und ihre
-Stellvertreterin zuzuordnen sind, kann abweichend von Absatz 1
+Stellvertreterinnen zuzuordnen sind, kann abweichend von Absatz 1
 entweder ausschließlich die Briefwahl oder statt der persönlichen
 Stimmabgabe im Wahlraum mittels Stimmzettel die elektronische
 Stimmabgabe anordnen. Diese Anordnung kann auf Dienststellenteile oder
@@ -322,7 +352,10 @@ nachgeordnete oder zugehörende Dienststellen beschränkt sein.
 
 ### § 15 Persönliche Stimmabgabe mittels Stimmzettel
 
-(1) Jede Wählerin hat für jeden Wahlgang eine Stimme.
+(1) Jede Wählerin hat für den Wahlgang zur Wahl der
+Gleichstellungsbeauftragten eine Stimme. Die Stimmenanzahl für den
+Wahlgang zur Wahl der Stellvertreterinnen entspricht der Anzahl der zu
+wählenden Stellvertreterinnen.
 
 (2) Das Wahlrecht wird durch Abgabe eines Stimmzettels im Wahlraum
 ausgeübt. Für jeden Wahlgang ist ein eigener Stimmzettel vorzusehen.
@@ -331,25 +364,29 @@ Farbe, Beschaffenheit und Beschriftung haben. Sie müssen sich jedoch
 von denen des anderen Wahlganges in der Farbe deutlich unterscheiden.
 
 (3) Auf dem jeweiligen Stimmzettel sind die Bewerberinnen für das Amt
-der Gleichstellungsbeauftragten und das Amt der Stellvertreterin in
+der Gleichstellungsbeauftragten und das Amt einer Stellvertreterin in
 alphabetischer Reihenfolge unter Angabe von Familiennamen, Vornamen,
-Dienstgrad und Dienststelle aufzuführen. Liegt für einen Wahlgang nur
-eine Bewerbung vor, sind auf dem Stimmzettel unter oder neben den
-Angaben zur Person der Bewerberin ein Ja- und ein Nein-Feld
-vorzusehen.
+Dienstgrad und Dienststelle aufzuführen. Sind mehrere
+Stellvertreterinnen zu wählen, muss der Stimmzettel für den Wahlgang
+zur Wahl der Stellvertreterinnen einen Hinweis darauf enthalten, wie
+viele Bewerberinnen im Höchstfall angekreuzt werden dürfen. Liegt für
+einen Wahlgang nur eine Bewerbung vor, sind auf dem Stimmzettel unter
+oder neben den Angaben zur Person der Bewerberin ein Ja- und ein Nein-
+Feld vorzusehen.
 
 (4) Die Wählerin kennzeichnet bei mehreren Bewerbungen die von ihr
 gewählte Person durch Ankreuzen an der hierfür auf dem Stimmzettel
-vorgesehenen Stelle. Im Fall des Absatzes 3 Satz 2 wird die Stimme zu
+vorgesehenen Stelle. Im Fall des Absatzes 3 Satz 3 wird die Stimme zu
 Gunsten der einzigen Bewerberin durch Ankreuzen des Ja-Feldes
 abgegeben, die Ablehnung der Bewerberin erfolgt durch Ankreuzen des
 Nein-Feldes.
 
-(5) Stimmzettel, auf denen mehr als eine Person oder keine Person oder
-mehr als ein Feld (Absatz 3 Satz 2) angekreuzt ist, sind ungültig.
-Dies gilt auch für Stimmzettel, aus denen sich aus anderen Gründen der
-Wille der Wählerin nicht zweifelsfrei ergibt, die mit einem besonderen
-Merkmal versehen sind oder die einen Zusatz oder Vorbehalt enthalten.
+(5) Stimmzettel, auf denen mehr als die zulässige Anzahl an Stimmen
+(Absatz 1) oder keine Person oder mehr als ein Feld (Absatz 3 Satz 3)
+angekreuzt ist, sind ungültig. Dies gilt auch für Stimmzettel, aus
+denen sich aus anderen Gründen der Wille der Wählerin nicht
+zweifelsfrei ergibt, die mit einem besonderen Merkmal versehen sind
+oder die einen Zusatz oder Vorbehalt enthalten.
 
 
 ### § 16 Wahlvorgang
@@ -380,7 +417,7 @@ beeinträchtigt ist, kann eine Person ihres Vertrauens, deren sie sich
 bei der Stimmabgabe bedienen will, mit deren Einverständnis bestimmen
 und gibt dies dem Wahlvorstand bekannt. Mitglieder des Wahlvorstandes,
 Wahlhelferinnen und Wahlhelfer sowie Personen, die sich für das Amt
-der Gleichstellungsbeauftragten oder der Stellvertreterin bewerben,
+der Gleichstellungsbeauftragten oder einer Stellvertreterin bewerben,
 sind zur Hilfeleistung nicht befugt. Die Hilfeleistung ist auf die
 Erfüllung der Anweisungen der Wählerin zur Stimmabgabe beschränkt. Die
 Person des Vertrauens ist zur Geheimhaltung der Kenntnisse
@@ -508,7 +545,7 @@ Anschließend stellt der Wahlvorstand das Ergebnis fest.
 
 (2) Gewählt ist, wer die meisten Stimmen erhalten hat. Bei
 Stimmengleichheit entscheidet das Los. Entsprechendes gilt für die
-Wahl der Stellvertreterin.
+Wahl der Stellvertreterinnen.
 
 (3) Der Wahlvorstand fertigt über das Ergebnis eine Niederschrift an,
 die von den Mitgliedern des Wahlvorstandes zu unterzeichnen ist. Die
@@ -524,7 +561,8 @@ Niederschrift muss getrennt nach den Wahlgängen enthalten
 
 
 4.  Dienstgrad, Familiennamen und Vornamen der gewählten
-    Gleichstellungsbeauftragten und der gewählten Stellvertreterin sowie
+    Gleichstellungsbeauftragten und der gewählten Stellvertreterinnen
+    sowie
 
 
 5.  besondere Vorfälle bei der Wahl oder der Feststellung des
@@ -533,24 +571,24 @@ Niederschrift muss getrennt nach den Wahlgängen enthalten
 
 
 
-(4) Der Wahlvorstand gibt das festgestellte Wahlergebnis durch Aushang
-in gleicher Weise wie das Wahlausschreiben bekannt und weist auf die
-Anfechtungsfrist nach § 16f des Soldatinnen- und
+(4) Der Wahlvorstand gibt das festgestellte Wahlergebnis in gleicher
+Weise wie das Wahlausschreiben bekannt und weist auf die
+Anfechtungsfrist nach § 35 des Soldatinnen- und
 Soldatengleichstellungsgesetzes hin.
 
 
 ### § 21 Benachrichtigung der Gewählten, Annahme der Wahl; Beendigung des Amtes des Wahlvorstandes
 
 (1) Der Wahlvorstand benachrichtigt die gewählten Soldatinnen
-unverzüglich nach Feststellung des Wahlergebnisses schriftlich gegen
-Empfangsbestätigung von ihrer Wahl. In der Benachrichtigung weist er
-auf die Bestimmungen des Absatzes 2 hin. Erklärt die Gewählte nicht
-innerhalb von drei Arbeitstagen nach Zugang der Benachrichtigung dem
-Wahlvorstand die Ablehnung ihrer Wahl, gilt diese als angenommen.
-Lehnt die gewählte Soldatin die Wahl innerhalb der Frist nach Satz 3
-ab oder tritt sie von der Wahl vor der Bestellung durch die
-Dienststelle zurück, tritt an ihre Stelle die Soldatin mit der
-nächsthöchsten Stimmenzahl.
+unverzüglich nach Feststellung des Wahlergebnisses schriftlich oder
+elektronisch gegen Empfangsbestätigung von ihrer Wahl. In der
+Benachrichtigung weist er auf die Bestimmungen des Absatzes 2 hin.
+Erklärt die Gewählte nicht innerhalb von drei Arbeitstagen nach Zugang
+der Benachrichtigung dem Wahlvorstand die Ablehnung ihrer Wahl, gilt
+diese als angenommen. Lehnt die gewählte Soldatin die Wahl innerhalb
+der Frist nach Satz 3 ab oder tritt sie von der Wahl vor der
+Bestellung durch die Dienststelle zurück, tritt an ihre Stelle die
+Soldatin mit der nächsthöchsten Stimmenzahl.
 
 (2) Ist die gewählte Soldatin Mitglied in einer Personalvertretung,
 Vertrauensperson oder in ihrem Arbeitsgebiet mit
@@ -569,8 +607,8 @@ sie von der Wahl vor der Bestellung durch die Dienststelle zurück,
 tritt an ihre Stelle die Soldatin mit der nächsthöchsten Stimmenzahl.
 
 (3) Das Amt des Wahlvorstandes endet mit der Bestellung der gewählten
-Gleichstellungsbeauftragten und ihrer Stellvertreterin. Ist zu diesem
-Zeitpunkt die Frist des § 16f des Soldatinnen- und
+Gleichstellungsbeauftragten und ihrer Stellvertreterinnen. Ist zu
+diesem Zeitpunkt die Frist des § 35 des Soldatinnen- und
 Soldatengleichstellungsgesetzes noch nicht abgelaufen, endet die
 Amtszeit des Wahlvorstandes mit dem Ablauf dieser Frist, es sei denn,
 die Wahl wird fristgerecht angefochten. In diesem Fall endet das Amt
@@ -580,24 +618,25 @@ des Anfechtungsverfahrens.
 
 ### § 22 Bekanntgabe der Gewählten
 
-(1) Sobald die als Gleichstellungsbeauftragte und als Stellvertreterin
-Gewählten endgültig feststehen, gibt der Wahlvorstand ihre Namen durch
-zweiwöchigen Aushang in gleicher Weise wie das Wahlausschreiben
+(1) Sobald die als Gleichstellungsbeauftragte und als
+Stellvertreterinnen Gewählten endgültig feststehen, gibt der
+Wahlvorstand ihre Namen in gleicher Weise wie das Wahlausschreiben
 bekannt und teilt sie der Dienststelle mit.
 
-(2) Gab es im Fall des § 21 Abs. 1 Satz 4 oder Abs. 2 Satz 3 für das
-Amt der Gleichstellungsbeauftragten oder der Stellvertreterin keine
-weitere Bewerberin, teilt der Wahlvorstand der Dienststelle
-unverzüglich schriftlich mit, dass die Gleichstellungsbeauftragte oder
-die Stellvertreterin von der Dienststelle von Amts wegen zu bestellen
-ist, und gibt dies durch Aushang bekannt.
+(2) Gab es in den Fällen des § 21 Absatz 1 Satz 4 oder Absatz 2 Satz 3
+für das Amt der Gleichstellungsbeauftragten oder der
+Stellvertreterinnen keine weitere Bewerberin, teilt der Wahlvorstand
+der Dienststelle unverzüglich schriftlich oder elektronisch mit, dass
+die Gleichstellungsbeauftragte oder die Stellvertreterinnen von der
+Dienststelle von Amts wegen zu bestellen sind, und gibt dies in
+gleicher Weise wie das Wahlausschreiben bekannt.
 
 
 ### § 23 Aufbewahrung der Wahlunterlagen
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die
 Niederschriften, Bekanntmachungen und Stimmzettel, bis zum Ablauf der
-Wahlanfechtungsfrist (§ 16f Absatz 2 des Soldatinnen- und
+Wahlanfechtungsfrist (§ 35 Absatz 2 Nummer 2 des Soldatinnen- und
 Soldatengleichstellungsgesetzes), im Fall der Wahlanfechtung bis zum
 bestands- oder rechtskräftigen Abschluss des Anfechtungsverfahrens
 auf. Stimmzettel und Wählerinnenlisten sind nach Ablauf der in Satz 1
@@ -608,8 +647,19 @@ genannten Fristen unverzüglich zu vernichten.
 
 
 
-### § 24 (weggefallen)
+### § 24 Übergangsvorschriften
 
+(1) Auf die Wahlverfahren, deren Wahlausschreiben vor dem 25. Januar
+2024 bekannt gegeben worden sind, ist die Gleichstellungsbeauftragten-
+Wahlverordnung Soldatinnen vom 12. Mai 2005 (BGBl. I S. 1394), die
+zuletzt durch Artikel 89 des Gesetzes vom 29. März 2017 (BGBl. I S.
+626) geändert worden ist, anzuwenden.
+
+(2) Wahlverfahren, deren Wahlausschreiben am 24. Januar 2024 noch
+nicht bekannt gegeben worden sind, sind unverzüglich nach dieser
+Verordnung durchzuführen. Die Dienststelle informiert den
+Wahlvorstand, dass die Wahl nach dem Gesetz vom 22. Januar 2024 (BGBl.
+2024 I Nr. 17) durchzuführen ist.
 
 
 ### § 25 Sonderregelungen für die Nachrichtendienste

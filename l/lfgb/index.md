@@ -3167,7 +3167,6 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 
-
     sowie das Verfahren des Nachweises der Sachkunde und der Erfüllung der
     fachlichen Anforderungen zu regeln.
 
@@ -3190,11 +3189,10 @@ bei Gefahr im Verzug auch alle Beamten der Polizei, befugt,
         werden,
 
 
-    b)  sich lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 befinden oder
+    b)  sich lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 befinden oder
 
 
     c)  Futtermittel verfüttert werden,
-
 
 
 
@@ -3224,7 +3222,7 @@ bei Gefahr im Verzug auch alle Beamten der Polizei, befugt,
     Vervielfältigungen, auch von Datenträgern, anzufertigen oder Ausdrucke
     von elektronisch gespeicherten Daten zu verlangen sowie Mittel,
     Einrichtungen und Geräte zur Beförderung von Erzeugnissen oder
-    lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
+    lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
 
 
 4.  von Mitteln, Einrichtungen oder Geräten zur Beförderung von
@@ -3233,7 +3231,7 @@ bei Gefahr im Verzug auch alle Beamten der Polizei, befugt,
     oder Räumen Bildaufnahmen oder -aufzeichnungen anzufertigen;
 
 
-5.  von natürlichen und juristischen Personen und nicht rechtsfähigen
+5.  von natürlichen und juristischen Personen und sonstigen
     Personenvereinigungen alle erforderlichen Auskünfte, insbesondere
     solche über die Herstellung, das Behandeln, die zur Verarbeitung
     gelangenden Stoffe und deren Herkunft, das Inverkehrbringen und das
@@ -3264,12 +3262,12 @@ eine längere Aufbewahrung erforderlich ist, in diesem Falle sind die
 Aufnahmen oder Aufzeichnungen mit rechtskräftigem Abschluss des
 Verfahrens zu vernichten.
 
-(3) Erhält eine für die Überwachung nach § 38 Absatz 1 Satz 1
+(3) Erhält eine für die Überwachung nach § 38 Absatz 1 Satz 1
 zuständige Behörde von Tatsachen Kenntnis, die Grund zu der Annahme
 geben, dass durch das Verzehren eines Lebensmittels, das in den
 Verkehr gebracht worden ist, eine übertragbare Krankheit im Sinne des
 § 2 Nummer 3 des Infektionsschutzgesetzes verursacht werden kann oder
-verursacht worden ist, so unterrichtet die nach § 38 Absatz 1 Satz 1
+verursacht worden ist, so unterrichtet die nach § 38 Absatz 1 Satz 1
 zuständige Behörde unverzüglich die für Ermittlungen nach § 25 Absatz
 1 des Infektionsschutzgesetzes zuständige Behörde. Dabei stellt die
 nach § 38 Absatz 1 Satz 1 zuständige Behörde der nach § 25 des
@@ -3289,7 +3287,7 @@ Infektionsschutzgesetzes zuständigen Behörde die Angaben
         gelangt ist, und
 
 
-    b)  der in § 4 Absatz 2 Nummer 1 bezeichneten Unternehmen oder Personen,
+    b)  der in § 4 Absatz 2 Nummer 1 bezeichneten Unternehmen oder Personen,
         an die das Lebensmittel geliefert wurde,
 
 

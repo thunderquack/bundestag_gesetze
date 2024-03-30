@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 16.12.2022 I 2294
+:   Art. 31 G v. 22.12.2023 I Nr. 411
 
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
@@ -2552,9 +2552,9 @@ auswirken, wie insbesondere eine vom Verhältnis des Anteils am
 Nennkapital (Grund- oder Stammkapital) abweichende Gewinnverteilung.
 
 (2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den
-sonstigen juristischen Personen des privaten Rechts, den
-nichtrechtsfähigen Vereinen, Anstalten, Stiftungen und anderen
-Zweckvermögen gehören, soweit sie einem wirtschaftlichen
+sonstigen juristischen Personen des privaten Rechts, den Vereinen ohne
+Rechtspersönlichkeit, den nicht rechtsfähigen Anstalten, Stiftungen
+und anderen Zweckvermögen gehören, soweit sie einem wirtschaftlichen
 Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
 
 (3) (weggefallen)
@@ -4014,11 +4014,15 @@ Feststellungserklärung muss mindestens einen Monat betragen.
 (2) Ist der Gegenstand der Feststellung mehreren Personen zuzurechnen
 oder ist eine Personengesellschaft oder Kapitalgesellschaft dessen
 Eigentümer, kann das Finanzamt auch von der Gemeinschaft oder
-Gesellschaft die Abgabe einer Feststellungserklärung verlangen. Dies
-gilt auch, wenn Gegenstand der Feststellung ein Anteil am
-Betriebsvermögen ist. Das Finanzamt kann in Erbbaurechtsfällen die
-Abgabe einer Feststellungserklärung vom Erbbauberechtigten und vom
-Erbbauverpflichteten verlangen. Absatz 4 Satz 5 ist nicht anzuwenden.
+Gesellschaft die Abgabe einer Feststellungserklärung verlangen. In den
+Fällen, in denen der Gegenstand der Feststellung einer
+Personengesellschaft im Sinne des § 97 Absatz 1 Satz 1 Nummer 5
+zuzurechnen ist, ist die Feststellungserklärung vorrangig von der
+Gesellschaft anzufordern. Dies gilt auch, wenn Gegenstand der
+Feststellung ein Anteil am Betriebsvermögen ist. Das Finanzamt kann in
+Erbbaurechtsfällen die Abgabe einer Feststellungserklärung vom
+Erbbauberechtigten und vom Erbbauverpflichteten verlangen. Absatz 4
+Satz 5 ist nicht anzuwenden.
 
 (3) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 kann das Finanzamt nur
 von der Kapitalgesellschaft die Abgabe einer Feststellungserklärung
@@ -4065,7 +4069,7 @@ einheitliche Feststellung (§ 179 Absatz 2 Satz 2 der Abgabenordnung).
 Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
 
 (3) Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in
-Vertretung der Miterben zuzurechnen ist, ist § 183 der Abgabenordnung
+Vertretung der Miterben zuzurechnen ist, ist § 183a der Abgabenordnung
 entsprechend anzuwenden. Bei der Bekanntgabe des
 Feststellungsbescheids ist darauf hinzuweisen, dass die Bekanntgabe
 mit Wirkung für und gegen alle Miterben erfolgt.

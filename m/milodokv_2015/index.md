@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 31.07.2015 V1
 
-Geändert durch
-:   Art. 6 G v. 28.6.2023 I Nr. 172
+Zuletzt geändert durch
+:   Art. 2 V v. 15.12.2023 I Nr. 372
 
 Stand: Ersetzt V 802-5-4 v. 18.12.2014 BAnz AT 29.12.2014 V1 (MiLoDokV)
 
@@ -39,14 +39,14 @@ Erstellen und Bereithalten von Dokumenten nach § 17 Absatz 1 und 2 des
 Mindestlohngesetzes werden vorbehaltlich des Absatzes 3 dahingehend
 eingeschränkt, dass sie nicht gelten für Arbeitnehmer und
 Arbeitnehmerinnen, deren verstetigtes regelmäßiges Monatsentgelt
-brutto 4 176 Euro überschreitet. Für die Ermittlung des verstetigten
+brutto 4 319 Euro überschreitet. Für die Ermittlung des verstetigten
 Monatsentgelts sind ungeachtet ihrer Anrechenbarkeit auf den
 gesetzlichen Mindestlohnanspruch nach den §§ 1 und 20 des
 Mindestlohngesetzes sämtliche verstetigte monatliche Zahlungen des
 Arbeitgebers zu berücksichtigen, die regelmäßiges monatliches
 Arbeitsentgelt sind. Satz 1 und Satz 2 gelten entsprechend für
 Arbeitnehmer und Arbeitnehmerinnen, deren verstetigtes regelmäßiges
-Monatsentgelt brutto 2 784 Euro überschreitet, wenn der Arbeitgeber
+Monatsentgelt brutto 2 879 Euro überschreitet, wenn der Arbeitgeber
 dieses Monatsentgelt für die letzten vollen zwölf Monate nachweislich
 gezahlt hat; Zeiten ohne Anspruch auf Arbeitsentgelt bleiben bei der
 Berechnung des Zeitraums von zwölf Monaten unberücksichtigt.

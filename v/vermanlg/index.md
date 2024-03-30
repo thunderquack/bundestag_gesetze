@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2481
 
 Zuletzt geändert durch
-:   Art. 4 G v. 10.8.2021 I 3483
+:   Art. 12 G v. 11.12.2023 I Nr. 354
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -484,9 +484,10 @@ wenn diese Stelle und die von ihr beauftragten Personen einer dem Satz
 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
 Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
-wegen einer Steuerstraftat sowie eines damit zusammenhängenden
-Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
-sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+wegen einer Steuerstraftat oder eines Besteuerungsverfahrens
+benötigen, es sei denn, der Weitergabe der Informationen stehen andere
+Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind
+jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1.  die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch
     eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer
@@ -834,7 +835,8 @@ Informationsverbreitungssystem angeboten, ist der Verkaufsprospekt
 auch in diesem zu veröffentlichen; in dem Angebot ist auf die
 Fundstelle im elektronischen Informationsverbreitungssystem
 hinzuweisen. Der Anbieter hat der Bundesanstalt Datum und Ort der
-Veröffentlichung unverzüglich schriftlich mitzuteilen.
+Veröffentlichung unverzüglich elektronisch über ihr Melde- und
+Veröffentlichungssystem mitzuteilen.
 
 (3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite die nach
 § 8 gebilligten Verkaufsprospekte. Diese bleiben zehn Jahre lang auf
@@ -849,10 +851,10 @@ entsprechend.
 (1) Der Anbieter hat der Bundesanstalt die Beendigung des öffentlichen
 Angebots sowie die vollständige Tilgung der Vermögensanlage unter
 Angabe des jeweiligen Datums, der konkreten Bezeichnung der
-Vermögensanlage und des Emittenten unverzüglich schriftlich oder
-elektronisch mitzuteilen. Die vollständige Tilgung der Vermögensanlage
-ist erfolgt, wenn die Hauptforderung sowie alle Nebenleistungen
-gezahlt sind.
+Vermögensanlage und des Emittenten unverzüglich elektronisch über ihr
+Melde- und Veröffentlichungssystem mitzuteilen. Die vollständige
+Tilgung der Vermögensanlage ist erfolgt, wenn die Hauptforderung sowie
+alle Nebenleistungen gezahlt sind.
 
 (2) Bis zum Eingang der betreffenden Mitteilung nach Absatz 1 Satz 1
 bei der Bundesanstalt gilt das öffentliche Angebot oder die Tilgung
@@ -1536,7 +1538,7 @@ Unterlagen und die Überlassung von Kopien verlangen, um
 
 
 4.  zu prüfen, ob die Voraussetzungen für das Ergreifen von Maßnahmen nach
-    § 18 Absatz 3 vorliegen.
+    § 18 Absatz 3 vorliegen oder
 
 
 5.  zu prüfen, ob die Voraussetzungen für eine Anordnung nach § 24 Absatz
@@ -1544,7 +1546,13 @@ Unterlagen und die Überlassung von Kopien verlangen, um
 
 
 
-In dem Verlangen ist auf die Befugnis nach § 26b hinzuweisen.
+Die Informationen sind der Bundesanstalt auf ihr Verlangen
+elektronisch zu übermitteln. Verfügt der Verpflichtete über einen
+Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt, so
+kann sie die Übermittlung auf diesem Wege verlangen. Die Bundesanstalt
+kann zudem die Übermittlung in einem von ihr bestimmten Format
+verlangen. In dem Verlangen ist auf die Befugnis nach § 26b
+hinzuweisen.
 
 (2) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft
 auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen
@@ -1902,15 +1910,17 @@ Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
 insoweit eingeschränkt.
 
 (7) Die Einrichtungen und Personen, derer sich die Bundesanstalt bei
-der Durchführung der Prüfung bedient, haben der Bundesanstalt
-unverzüglich nach Abschluss der Prüfung schriftlich oder elektronisch
-über das Ergebnis der Prüfung zu berichten. In den Bericht sind alle
-Tatsachen aufzunehmen, deren Kenntnis zur Beurteilung des zu prüfenden
-Vorgangs durch die Bundesanstalt erforderlich ist. Der Bericht ist zu
-unterzeichnen. Die von der Bundesanstalt zur Durchführung der Prüfung
-bestellten Einrichtungen und Personen haben Anspruch auf Ersatz
-angemessener barer Auslagen und auf Vergütung ihrer Tätigkeit. Die
-Bundesanstalt kann gegenüber dem Emittenten die Auslagen und die
+der Durchführung der Prüfung bedient, haben ihr unverzüglich nach
+Abschluss der Prüfung in einem von der Bundesanstalt bestimmten
+elektronischen Format über deren Ergebnis zu berichten; auf Verlangen
+der Bundesanstalt hat dies über ihr Melde- und Veröffentlichungssystem
+zu geschehen. In den Bericht sind alle Tatsachen aufzunehmen, deren
+Kenntnis zur Beurteilung des zu prüfenden Vorgangs durch die
+Bundesanstalt erforderlich ist. Der Bericht hat den verantwortlichen
+Prüfer zu bezeichnen. Die von der Bundesanstalt zur Durchführung der
+Prüfung bestellten Einrichtungen und Personen haben Anspruch auf
+Ersatz angemessener barer Auslagen und auf Vergütung ihrer Tätigkeit.
+Die Bundesanstalt kann gegenüber dem Emittenten die Auslagen und die
 Vergütung des Prüfers festsetzen. § 323 des Handelsgesetzbuchs gilt
 entsprechend.
 

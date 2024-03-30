@@ -16,7 +16,16 @@ Fundstelle
 :   BGBl I: 2017, 2581
 
 Zuletzt geändert durch
-:   Art. Art. 9a G v. 11.7.2021 I 2754
+:   Art. 9a G v. 11.7.2021 I 2754
+
+Änderung durch
+:   Art. 1 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2a G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F799294_01_BJNR258110017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -34,14 +43,10 @@ Zuletzt geändert durch
 
 #### § 1 Führen der Berufsbezeichnung
 
-(1) Wer die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“
+Wer die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“
 führen will, bedarf der Erlaubnis. Personen mit einer Ausbildung nach
 Teil 3 führen die Berufsbezeichnung „Pflegefachfrau“ oder
 „Pflegefachmann“ mit dem akademischen Grad.
-
-(2) Die Urkunde für die Erlaubnis nach Absatz 1 enthält neben der
-Berufsbezeichnung nach Absatz 1 einen Hinweis auf den nach § 7 Absatz
-4 Satz 1 durchgeführten Vertiefungseinsatz.
 
 
 #### § 2 Voraussetzungen für die Erteilung der Erlaubnis
@@ -97,9 +102,9 @@ ihre Voraussetzungen nicht mehr vorliegen.
 #### § 4 Vorbehaltene Tätigkeiten
 
 (1) Pflegerische Aufgaben nach Absatz 2 dürfen beruflich nur von
-Personen mit einer Erlaubnis nach § 1 Absatz 1 durchgeführt werden.
-Ruht die Erlaubnis nach § 3 Absatz 3 Satz 1, dürfen pflegerische
-Aufgaben nach Absatz 2 nicht durchgeführt werden.
+Personen mit einer Erlaubnis nach § 1 durchgeführt werden. Ruht die
+Erlaubnis nach § 3 Absatz 3 Satz 1, dürfen pflegerische Aufgaben nach
+Absatz 2 nicht durchgeführt werden.
 
 (2) Die pflegerischen Aufgaben im Sinne des Absatzes 1 umfassen
 
@@ -117,9 +122,9 @@ Aufgaben nach Absatz 2 nicht durchgeführt werden.
 
 
 
-(3) Wer als Arbeitgeber Personen ohne eine Erlaubnis nach § 1 Absatz 1
-oder Personen, deren Erlaubnis nach § 3 Absatz 3 Satz 1 ruht, in der
-Pflege beschäftigt, darf diesen Personen Aufgaben nach Absatz 2 weder
+(3) Wer als Arbeitgeber Personen ohne eine Erlaubnis nach § 1 oder
+Personen, deren Erlaubnis nach § 3 Absatz 3 Satz 1 ruht, in der Pflege
+beschäftigt, darf diesen Personen Aufgaben nach Absatz 2 weder
 übertragen noch die Durchführung von Aufgaben nach Absatz 2 durch
 diese Personen dulden.
 
@@ -137,12 +142,12 @@ vermittelt die für die selbstständige, umfassende und
 prozessorientierte Pflege von Menschen aller Altersstufen in akut und
 dauerhaft stationären sowie ambulanten Pflegesituationen
 erforderlichen fachlichen und personalen Kompetenzen einschließlich
-der zugrunde liegenden methodischen, sozialen, interkulturellen und
-kommunikativen Kompetenzen und der zugrunde liegenden Lernkompetenzen
-sowie der Fähigkeit zum Wissenstransfer und zur Selbstreflexion.
-Lebenslanges Lernen wird dabei als ein Prozess der eigenen beruflichen
-Biographie verstanden und die fortlaufende persönliche und fachliche
-Weiterentwicklung als notwendig anerkannt.
+der zugrunde liegenden methodischen, sozialen, interkulturellen,
+digitalen und kommunikativen Kompetenzen und der zugrunde liegenden
+Lernkompetenzen sowie der Fähigkeit zum Wissenstransfer und zur
+Selbstreflexion. Lebenslanges Lernen wird dabei als ein Prozess der
+eigenen beruflichen Biographie verstanden und die fortlaufende
+persönliche und fachliche Weiterentwicklung als notwendig anerkannt.
 
 (2) Pflege im Sinne des Absatzes 1 umfasst präventive, kurative,
 rehabilitative, palliative und sozialpflegerische Maßnahmen zur
@@ -253,7 +258,10 @@ Einrichtungen zu gewährleistende Praxisanleitung im Umfang von
 mindestens 10 Prozent der während eines Einsatzes zu leistenden
 praktischen Ausbildungszeit. Die Pflegeschule unterstützt die
 praktische Ausbildung durch die von ihr in angemessenem Umfang zu
-gewährleistende Praxisbegleitung.
+gewährleistende Praxisbegleitung. Auf der Grundlage einer Genehmigung
+der zuständigen Behörde kann ein geringer Anteil eines jeden Einsatzes
+der praktischen Ausbildung durch praktische Lerneinheiten an der
+Pflegeschule ersetzt werden.
 
 (4) Die Pflegeschule, der Träger der praktischen Ausbildung und die
 weiteren an der praktischen Ausbildung beteiligten Einrichtungen
@@ -314,8 +322,9 @@ einer Einrichtung die Durchführung der Ausbildung untersagen.
 
 (6) Die Länder können durch Landesrecht bestimmen, dass eine
 Ombudsstelle zur Beilegung von Streitigkeiten zwischen der oder dem
-Auszubildenden und dem Träger der praktischen Ausbildung bei der
-zuständigen Stelle nach § 26 Absatz 4 eingerichtet wird.
+Auszubildenden und dem Träger der praktischen Ausbildung eingerichtet
+wird. Die Ombudsstelle kann bei der zuständigen Stelle nach § 26
+Absatz 4 eingerichtet werden.
 
 
 #### § 8 Träger der praktischen Ausbildung
@@ -418,11 +427,12 @@ Anforderungen des schulinternen Curriculums entspricht. Ist dies nicht
 der Fall, ist der Träger der praktischen Ausbildung zur Anpassung des
 Ausbildungsplans verpflichtet.
 
-(2) Die Pflegeschule überprüft anhand des von den Auszubildenden zu
-führenden Ausbildungsnachweises, ob die praktische Ausbildung gemäß
-dem Ausbildungsplan durchgeführt wird. Die an der praktischen
-Ausbildung beteiligten Einrichtungen unterstützen die Pflegeschule bei
-der Durchführung der von dieser zu leistenden Praxisbegleitung.
+(2) Die Pflegeschule überprüft anhand des von den Auszubildenden
+schriftlich oder elektronisch zu führenden Ausbildungsnachweises, ob
+die praktische Ausbildung gemäß dem Ausbildungsplan durchgeführt wird.
+Die an der praktischen Ausbildung beteiligten Einrichtungen
+unterstützen die Pflegeschule bei der Durchführung der von dieser zu
+leistenden Praxisbegleitung.
 
 
 #### § 11 Voraussetzungen für den Zugang zur Ausbildung
@@ -575,8 +585,8 @@ zu verlängern.
 der zusätzlichen Ausbildung erworbenen erweiterten Kompetenzen.
 
 (7) Die Absätze 1 bis 5 gelten entsprechend für Personen, die bereits
-zur Führung der Berufsbezeichnung nach § 1 Absatz 1 berechtigt sind.
-Die erworbenen erweiterten Kompetenzen werden zum Abschluss des
+zur Führung der Berufsbezeichnung nach § 1 berechtigt sind. Die
+erworbenen erweiterten Kompetenzen werden zum Abschluss des
 Ausbildungsangebots staatlich geprüft.
 
 
@@ -663,7 +673,8 @@ der Vorschriften dieses Abschnitts zu schließen.
 
 
 10. die Voraussetzungen, unter denen der Ausbildungsvertrag gekündigt
-    werden kann, und
+    werden kann, einschließlich eines Hinweises auf die Möglichkeit der
+    Vertragsverlängerung nach § 21 Absatz 2,
 
 
 11. einen in allgemeiner Form gehaltenen Hinweis auf die dem
@@ -671,7 +682,10 @@ der Vorschriften dieses Abschnitts zu schließen.
     Bestimmungen, Betriebs- oder Dienstvereinbarungen sowie auf die Rechte
     als Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder
     von § 4 des Bundespersonalvertretungsgesetzes des Trägers der
-    praktischen Ausbildung.
+    praktischen Ausbildung und
+
+
+12. die Form des Ausbildungsnachweises nach § 17 Satz 2 Nummer 3.
 
 
 
@@ -715,7 +729,7 @@ zu erreichen. Sie oder er ist insbesondere verpflichtet,
     sorgfältig auszuführen,
 
 
-3.  einen schriftlichen Ausbildungsnachweis zu führen,
+3.  einen schriftlichen oder elektronischen Ausbildungsnachweis zu führen,
 
 
 4.  die für Beschäftigte in den Einrichtungen nach § 7 geltenden
@@ -915,7 +929,7 @@ Gemeinschaften sind.
 
 
 
-werden die Kosten der Pflegeausbildung nach Teil 2 durch
+werden die Kosten der Pflegeausbildung nach den Teilen 2 und 5 durch
 Ausgleichsfonds nach Maßgabe von § 26 Absatz 2 bis § 36 finanziert.
 
 (2) Die Ausgleichsfonds werden auf Landesebene organisiert und
@@ -968,7 +982,7 @@ erfolgen.
 
 #### § 27 Ausbildungskosten
 
-(1) Kosten der Pflegeberufsausbildung sind die Mehrkosten der
+(1) Kosten der Ausbildung sind die Mehrkosten der
 Ausbildungsvergütungen und die Kosten der praktischen Ausbildung
 einschließlich der Kosten der Praxisanleitung. Zu den
 Ausbildungskosten gehören auch die Betriebskosten der Pflegeschulen
@@ -986,6 +1000,9 @@ Verhältnis 9,5 zu 1 auf die Stelle einer voll ausgebildeten
 Pflegefachkraft anzurechnen; bei ambulanten Pflegeeinrichtungen
 erfolgt eine Anrechnung im Verhältnis von 14 zu 1. Die Anrechnung nach
 Satz 1 erfolgt nicht für Personen im ersten Ausbildungsdrittel.
+
+(3) Zu den Kosten der Ausbildung gehören auch die Kosten der
+zusätzlichen Ausbildung nach § 14.
 
 
 #### § 28 Umlageverfahren
@@ -1048,8 +1065,9 @@ wird als Individualbudget vereinbart, wenn dies das jeweilige Land
 oder die Parteien nach Absatz 6 übereinstimmend bis zum 15. Januar des
 Vorjahres des Finanzierungszeitraums schriftlich erklären. Diese
 Erklärungen können auch nur für die Finanzierung der Träger der
-praktischen Ausbildung oder die Finanzierung der Pflegeschulen
-abgegeben werden.
+praktischen Ausbildung, die Finanzierung der Pflegeschulen oder die
+Finanzierung der zusätzlichen Ausbildung nach § 14, auch in Verbindung
+mit § 37 Absatz 5, abgegeben werden.
 
 (6) Die Erklärungen der Parteien nach Absatz 5 erfolgen für die
 Finanzierung der Träger der praktischen Ausbildung von den Parteien
@@ -1075,13 +1093,16 @@ ambulanten oder stationären Pflegeeinrichtungen im Land, die
 Landesverbände der Kranken- und Pflegekassen sowie der Landesausschuss
 des Verbandes der privaten Krankenversicherung legen durch gemeinsame
 Vereinbarungen Pauschalen zu den Kosten der praktischen Ausbildung
-fest. Die gemeinsame Vereinbarung der Pauschalen zu den
-Ausbildungskosten der Pflegeschulen wird von der zuständigen Behörde
-des Landes, den Landesverbänden der Kranken- und Pflegekassen, dem
-Landesausschuss des Verbandes der privaten Krankenversicherung sowie
-von Interessenvertretungen der öffentlichen und der privaten
-Pflegeschulen auf Landesebene getroffen. Keiner Pauschalierung
-zugänglich sind die Mehrkosten der Ausbildungsvergütung.
+einschließlich der Kosten für die zusätzliche Ausbildung nach § 14,
+auch in Verbindung mit § 37 Absatz 5, fest; sie können jeweils
+gesonderte Pauschalen festlegen. Die gemeinsame Vereinbarung der
+Pauschalen zu den Ausbildungskosten der Pflegeschulen wird von der
+zuständigen Behörde des Landes, den Landesverbänden der Kranken- und
+Pflegekassen, dem Landesausschuss des Verbandes der privaten
+Krankenversicherung sowie von Interessenvertretungen der öffentlichen
+und der privaten Pflegeschulen auf Landesebene getroffen. Keiner
+Pauschalierung zugänglich sind die Mehrkosten der
+Ausbildungsvergütung.
 
 (2) Kommt eine Vereinbarung bis zum 30. April des Vorjahres des
 Finanzierungszeitraums nicht zustande, entscheidet auf Antrag einer
@@ -1195,9 +1216,10 @@ Ausbildungsbudgets gleich.
 
 (2) Die zuständige Stelle erhebt als Ausgleich für anfallende
 Verwaltungs- und Vollstreckungskosten 0,6 Prozent der sich aus Absatz
-1 Nummer 1 ergebenden Summe (Verwaltungskostenpauschale). Dieser
-Betrag wird gesondert ausgewiesen und zum Finanzierungsbedarf nach
-Absatz 1 hinzugerechnet.
+1 Nummer 1 ergebenden Summe (Verwaltungskostenpauschale). Die
+Verwaltungskostenpauschale wird dem Betrag nach Absatz 1 als Aufschlag
+hinzugerechnet. Sie wird beim Finanzierungsbedarf und im
+Ausgleichsfonds gesondert ausgewiesen.
 
 
 #### § 33 Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung
@@ -1265,7 +1287,12 @@ mit der Einzahlung der Finanzierungsmittel und den in Rechnung zu
 stellenden Zuschlägen. Hierzu gehören insbesondere Vorgaben zur
 Verzinsung ausstehender Einzahlungen, die mit einem Zinssatz von 8
 Prozent über dem Basiszinssatz nach § 247 Absatz 1 des Bürgerlichen
-Gesetzbuchs zu verzinsen sind. Kommt eine Vereinbarung nicht zustande,
+Gesetzbuchs zu verzinsen sind, oder Einzelheiten zur Abweichung von
+dem Zeitpunkt der Einzahlung einschließlich der Möglichkeit von
+anteiligen Einzahlungen nach Absatz 1 Nummer 3, sofern die Liquidität
+des Ausgleichsfonds zum Zeitpunkt der Auszahlung der
+Ausgleichszuweisung im entsprechenden Finanzierungszeitraum weiterhin
+sichergestellt ist. Kommt eine Vereinbarung nicht zustande,
 entscheidet die Schiedsstelle nach § 36 auf Antrag eines Beteiligten.
 
 (7) Gegen den Festsetzungs- und Zahlungsbescheid der zuständigen
@@ -1319,12 +1346,12 @@ vollständig zu berücksichtigen; Mehrausgaben sind zu berücksichtigen,
 soweit die Liquiditätsreserve dies zulässt. Entsprechende
 Mitteilungspflichten haben die Pflegeschulen.
 
-(2) Der Träger der praktischen Ausbildung leitet die in den
+(2) Der Träger der praktischen Ausbildung hat die in den
 Ausgleichszuweisungen enthaltenen Kosten der übrigen
 Kooperationspartner und im Falle des § 31 Absatz 1 Satz 2 der
 Pflegeschulen auf Grundlage der Kooperationsverträge und im Falle von
 Individualbudgets nach § 31 unter Berücksichtigung der vereinbarten
-Ausbildungsbudgets an diese weiter.
+Ausbildungsbudgets an diese weiterzuleiten.
 
 (3) Die Pflegeschule stellt Auszubildenden, soweit sie nach § 81 des
 Dritten Buches Sozialgesetzbuch oder nach § 16 des Zweiten Buches
@@ -1363,15 +1390,14 @@ Abrechnungszeitraum vorgelegen haben.
 (6) Überschreiten die tatsächlichen Ausgaben aufgrund gestiegener
 Ausbildungszahlen die Höhe der Ausgleichszuweisungen, werden diese
 Mehrausgaben bei der auf die Abrechnung folgenden Festlegung oder
-Vereinbarung des Ausbildungsbudgets nach den
-§§ 30, 31              berücksichtigt; dies gilt nicht, soweit diese
-Mehrausgaben bereits nach Absatz 1 finanziert wurden. Überzahlungen
-aufgrund gesunkener Ausbildungszahlen sind unverzüglich an die
-zuständige Stelle zurückzuzahlen. Das Nähere zum Prüfverfahren wird
-durch Landesrecht bestimmt, soweit nicht das Bundesministerium für
-Familie, Senioren, Frauen und Jugend und das Bundesministerium für
-Gesundheit von der Ermächtigung nach § 56 Absatz 3 Nummer 4 Gebrauch
-machen.
+Vereinbarung des Ausbildungsbudgets nach den §§ 30, 31 berücksichtigt;
+dies gilt nicht, soweit diese Mehrausgaben bereits nach Absatz 1
+finanziert wurden. Überzahlungen aufgrund gesunkener Ausbildungszahlen
+sind unverzüglich an die zuständige Stelle zurückzuzahlen. Das Nähere
+zum Prüfverfahren wird durch Landesrecht bestimmt, soweit nicht das
+Bundesministerium für Familie, Senioren, Frauen und Jugend und das
+Bundesministerium für Gesundheit von der Ermächtigung nach § 56 Absatz
+3 Nummer 4 Gebrauch machen.
 
 
 #### § 35 Rechnungslegung der zuständigen Stelle
@@ -1517,10 +1543,10 @@ Erreichen des Ausbildungsziels darf hierdurch nicht gefährdet werden.
 
 ### § 38 Durchführung des Studiums
 
-(1) Das Studium dauert mindestens drei Jahre. Es umfasst theoretische
-und praktische Lehrveranstaltungen an staatlichen oder staatlich
-anerkannten Hochschulen anhand eines modularen Curriculums sowie
-Praxiseinsätze in Einrichtungen nach § 7.
+(1) Das Studium dauert mindestens drei Jahre. Es ist ein duales
+Studium und umfasst theoretische und praktische Lehrveranstaltungen an
+staatlichen oder staatlich anerkannten Hochschulen anhand eines
+modularen Curriculums sowie Praxiseinsätze in Einrichtungen nach § 7.
 
 (2) Die Studiengangskonzepte unterliegen der Überprüfung durch die
 zuständige Landesbehörde im Akkreditierungsverfahren. Wesentliche
@@ -1529,19 +1555,29 @@ Akkreditierungsverfahrens unterliegen ebenfalls der Überprüfung durch
 die zuständigen Landesbehörden.
 
 (3) Die Praxiseinsätze gliedern sich in Pflichteinsätze, einen
-Vertiefungseinsatz sowie weitere Einsätze. Wesentlicher Bestandteil
-der Praxiseinsätze ist die von den Einrichtungen zu gewährleistende
+Vertiefungseinsatz sowie weitere Einsätze. Sie werden auf der
+Grundlage eines Ausbildungsplans durchgeführt, der vom Träger des
+praktischen Teils der hochschulischen Pflegeausbildung nach § 38a nach
+den Maßgaben der Hochschule für jede studierende Person zu erstellen
+ist. Wesentlicher Bestandteil der Praxiseinsätze ist die von den
+Einrichtungen im Umfang von mindestens 10 Prozent der während eines
+Einsatzes zu leistenden praktischen Ausbildungszeit zu gewährleistende
 Praxisanleitung. Die Hochschule unterstützt die Praxiseinsätze durch
 die von ihr zu gewährleistende Praxisbegleitung. Auf der Grundlage
-einer landesrechtlichen Genehmigung kann ein geringer Anteil der
-Praxiseinsätze in Einrichtungen durch praktische Lerneinheiten an der
+einer Genehmigung der zuständigen Behörde kann ein geringer Anteil
+eines jeden Praxiseinsatzes durch praktische Lerneinheiten an der
 Hochschule ersetzt werden.
 
 (4) Die Hochschule trägt die Gesamtverantwortung für die Koordination
 der theoretischen und praktischen Lehrveranstaltungen mit den
-Praxiseinsätzen. Sie ist auch für die Durchführung der Praxiseinsätze
-verantwortlich und schließt hierfür Kooperationsvereinbarungen mit den
-Einrichtungen der Praxiseinsätze.
+Praxiseinsätzen. Sie schließt einen Kooperationsvertrag mit einem
+Träger des praktischen Teils der hochschulischen Ausbildung nach §
+38a, um die Durchführung der Praxiseinsätze sicherzustellen. Die
+Hochschule prüft, ob der Ausbildungsplan für den praktischen Teil den
+Anforderungen des modularen Curriculums entspricht. Ist dies nicht der
+Fall, ist der Träger des praktischen Teils der hochschulischen
+Ausbildung nach § 38a verpflichtet, den Ausbildungsplan so anzupassen,
+dass er dem modularen Curriculum entspricht.
 
 (5) Die im Rahmen einer erfolgreich abgeschlossenen Pflegeausbildung
 nach Teil 2 oder nach dem Krankenpflegegesetz in der bis zum 31.
@@ -1555,16 +1591,82 @@ angerechnet werden.
 Sie beachtet die Vorgaben der Richtlinie 2005/36/EG.
 
 
+### § 38a Träger des praktischen Teils der hochschulischen Pflegeausbildung
+
+(1) Der Träger des praktischen Teils der hochschulischen
+Pflegeausbildung übernimmt auf Grundlage des mit der Hochschule
+getroffenen Kooperationsvertrags die Verantwortung für die
+Organisation und Durchführung der Praxiseinsätze. Er hat über
+Vereinbarungen mit den weiteren, am praktischen Teil der
+hochschulischen Pflegeausbildung beteiligten Einrichtungen zu
+gewährleisten, dass die Praxiseinsätze auf Grundlage des
+Ausbildungsplans zeitlich und sachlich gegliedert so durchgeführt
+werden können, dass das Ausbildungsziel in der vorgesehenen Zeit
+erreicht werden kann.
+
+(2) Träger des praktischen Teils der hochschulischen Pflegeausbildung
+im Sinne von Absatz 1 können ausschließlich Einrichtungen nach § 7
+Absatz 1 sein,
+
+1.  die eine Hochschule selbst betreiben oder
+
+
+2.  die mit mindestens einer Hochschule einen Kooperationsvertrag über die
+    Durchführung der theoretischen und praktischen Lehrveranstaltungen
+    geschlossen haben.
+
+
+
+
+(3) Die Aufgaben des Trägers des praktischen Teils der hochschulischen
+Pflegeausbildung nach Absatz 1 können von einer Hochschule
+wahrgenommen werden, wenn Trägeridentität besteht oder soweit der
+Träger des praktischen Teils der hochschulischen Pflegeausbildung die
+Wahrnehmung der Aufgaben durch Vertrag mit der Hochschule auf diese
+übertragen hat. Die Hochschule kann für die Aufgaben nach Satz 1 auch
+zum Abschluss des Ausbildungsvertrages nach § 38b für den Träger des
+praktischen Teils der hochschulischen Pflegeausbildung bevollmächtigt
+werden.
+
+
+### § 38b Ausbildungsvertrag zur hochschulischen Pflegeausbildung
+
+(1) Zwischen dem Träger des praktischen Teils der hochschulischen
+Pflegeausbildung und der oder dem Studierenden wird ein
+Ausbildungsvertrag zur hochschulischen Pflegeausbildung über die sich
+aus dem akkreditierten Studiengangskonzept ergebende gesamte Dauer der
+hochschulischen Pflegeausbildung geschlossen. Die Vorschriften von
+Teil 2 Abschnitt 2 finden mit der Maßgabe entsprechend Anwendung, dass
+der Ausbildungsvertrag zur hochschulischen Pflegeausbildung erst
+wirksam wird, wenn die oder der Studierende dem Träger des praktischen
+Teils der hochschulischen Pflegeausbildung eine schriftliche oder
+elektronische Studienplatzzusage einer Hochschule, mit der der Träger
+des praktischen Teils der hochschulischen Pflegeausbildung einen
+Kooperationsvertrag nach § 38 Absatz 4 Satz 2 abgeschlossen hat,
+vorlegt.
+
+(2) Der Träger des praktischen Teils der hochschulischen
+Pflegeausbildung hat der oder dem Studierenden während der gesamten
+Dauer des Vertragsverhältnisses eine angemessene monatliche Vergütung
+zu zahlen.
+
+(3) Studierende sind während der gesamten Dauer des
+Vertragsverhältnisses Arbeitnehmer im Sinne von § 5 des
+Betriebsverfassungsgesetzes oder von § 4 des
+Bundespersonalvertretungsgesetzes des Trägers des praktischen Teils
+der hochschulischen Pflegeausbildung.
+
+
 ### § 39 Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung
 
 (1) Das Studium schließt mit der Verleihung des akademischen Grades
 durch die Hochschule ab. Die Hochschule überprüft das Erreichen der
 Ausbildungsziele nach § 37.
 
-(2) Die Überprüfung der Kompetenzen nach § 5 und erforderlichenfalls
-nach § 14 soll nach Absatz 1 Satz 2 zum Ende des Studiums erfolgen.
-Bundesweit einheitliche Rahmenvorgaben regelt die Ausbildungs- und
-Prüfungsverordnung nach § 56 Absatz 1.
+(2) Die Überprüfung der Kompetenzen nach § 5, nach § 37 und
+erforderlichenfalls nach § 14 erfolgt nach Absatz 1 Satz 2 im Rahmen
+von Modulprüfungen. Bundesweit einheitliche Rahmenvorgaben regelt die
+Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1.
 
 (3) Die Hochschule legt mit Zustimmung der zuständigen Landesbehörde
 die Module nach Absatz 2 Satz 1 fest. Die hochschulische Prüfung nach
@@ -1575,6 +1677,53 @@ Berufszulassung.
 gemeinsamen Vorsitz von Hochschule und Landesbehörde durchgeführt. Die
 zuständige Landesbehörde kann die Hochschule beauftragen, den Vorsitz
 auch für die zuständige Landesbehörde wahrzunehmen.
+
+
+### § 39a Finanzierung der hochschulischen Pflegeausbildung
+
+(1) Mit dem Ziel,
+
+1.  bundesweit die hochschulische Pflegeausbildung zu stärken,
+
+
+2.  eine ausreichende Zahl hochschulisch qualifizierter Pflegefachfrauen
+    und Pflegefachmänner auszubilden,
+
+
+3.  Nachteile im Wettbewerb zwischen ausbildenden und nicht ausbildenden
+    Einrichtungen zu vermeiden,
+
+
+4.  die Ausbildung in kleineren und mittleren Einrichtungen zu stärken und
+
+
+5.  wirtschaftliche Ausbildungsstrukturen zu gewährleisten,
+
+
+
+werden die Kosten der Ausbildungsvergütung und des praktischen Teils
+der hochschulischen Pflegeausbildung einschließlich der Kosten der
+Praxisanleitung durch Ausgleichsfonds nach Maßgabe der Absätze 2 und 3
+finanziert. Nicht zu den Kosten des praktischen Teils der
+hochschulischen Pflegeausbildung gehören Investitionskosten im Sinne
+von § 27 Absatz 1 Satz 4.
+
+(2) Die für die Kosten der Lehrveranstaltungen einschließlich der
+Betriebskosten der Hochschulen und die Kosten der Praxisbegleitung
+geltenden Regelungen bleiben unberührt; eine Finanzierung über die
+Ausgleichsfonds erfolgt insoweit nicht.
+
+(3) Die Finanzierung durch Ausgleichsfonds erfolgt in entsprechender
+Anwendung von § 26 Absatz 2 bis 7 sowie der §§ 28 bis 36. An die
+Stelle der Mehrkosten der Ausbildungsvergütung treten die Kosten der
+Ausbildungsvergütung. An die Stelle des Trägers der praktischen
+Ausbildung tritt der Träger des praktischen Teils der hochschulischen
+Pflegeausbildung. An die Stelle der Kosten der praktischen Ausbildung
+treten die Kosten des praktischen Teils der hochschulischen
+Pflegeausbildung.
+
+(4) Die vorstehenden Bestimmungen gelten auch in den Fällen des § 14
+in Verbindung mit § 37 Absatz 5.
 
 
 ## Teil 4 - Anerkennung ausländischer Berufsabschlüsse; Zuständigkeiten; Fachkommission; Statistik und Verordnungsermächtigungen; Bußgeldvorschriften
@@ -1654,7 +1803,18 @@ staatlichen Abschlussprüfung erstreckt, oder einen höchstens
 dreijährigen Anpassungslehrgang erbracht, der mit einer Prüfung über
 den Inhalt des Anpassungslehrgangs abschließt. Die antragstellende
 Person hat das Recht, zwischen der Kenntnisprüfung und dem
-Anpassungslehrgang zu wählen.
+Anpassungslehrgang zu wählen. Die zuständige Behörde soll bei der
+Prüfung der Gleichwertigkeit des Ausbildungsstandes vorhandene
+Informationen über die Berufsqualifikation der antragstellenden
+Person, insbesondere in Form von Mustergutachten der Gutachtenstelle
+für Gesundheitsberufe, berücksichtigen.
+
+(3a) Verzichtet die antragstellende Person endgültig auf die Prüfung
+der Gleichwertigkeit des Ausbildungsstandes durch die zuständige
+Stelle, ist ein gleichwertiger Kenntnisstand nachzuweisen. Absatz 3
+Satz 2 und 3 gelten entsprechend. Die antragstellende Person ist über
+die Rechtsfolgen des Verzichts nach Satz 1 und die Wahlmöglichkeiten
+nach Absatz 3 Satz 3 aufzuklären.
 
 (4) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -1664,56 +1824,56 @@ und 41 von einem anderen Land oder einer gemeinsamen Einrichtung
 wahrgenommen werden.
 
 
-#### § 41 Gleichwertigkeit entsprechender Ausbildungen; Verordnungsermächtigung
+#### § 41 Gleichwertigkeit entsprechender Ausbildungen
 
-(1) Für Personen, die eine Erlaubnis nach § 1 Absatz 1 beantragen,
-gilt die Voraussetzung des § 2 Nummer 1 als erfüllt, wenn aus einem
+(1) Für Personen, die eine Erlaubnis nach § 1 beantragen, gilt die
+Voraussetzung des § 2 Nummer 1 als erfüllt, wenn aus einem
 Europäischen Berufsausweis oder aus einem in einem Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum erworbenen Ausbildungsnachweis
-hervorgeht, dass die antragstellende Person eine Pflegeausbildung, die
-den Mindestanforderungen des Artikels 31 in Verbindung mit dem Anhang
-V Nummer 5.2.1 der Richtlinie 2005/36/EG entspricht, erworben hat und
-dies durch Vorlage eines in der Anlage aufgeführten und nach dem dort
+den Europäischen Wirtschaftsraum oder der Schweiz erworbenen
+Ausbildungsnachweis hervorgeht, dass die antragstellende Person eine
+Pflegeausbildung, die den Mindestanforderungen des Artikels 31 in
+Verbindung mit dem Anhang V Nummer 5.2.1. der Richtlinie 2005/36/EG
+entspricht, erworben hat und dies durch Vorlage eines im Anhang V
+Nummer 5.2.2. der Richtlinie 2005/36/EG aufgeführten und nach dem dort
 genannten Stichtag ausgestellten Ausbildungsnachweis eines der übrigen
 Mitgliedstaaten der Europäischen Union nachweist. Satz 1 gilt
-entsprechend für in der Anlage aufgeführte und nach dem 31. Dezember
-1992 ausgestellte Ausbildungsnachweise eines anderen Vertragsstaates
-des Abkommens über den Europäischen Wirtschaftsraum. Das
-Bundesministerium für Familie, Senioren, Frauen und Jugend und das
-Bundesministerium für Gesundheit werden ermächtigt, durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-Anlage zu diesem Gesetz späteren Änderungen des Anhangs V Nummer 5.2.1
-der Richtlinie 2005/36/EG anzupassen. Gleichwertig den in Satz 1
-genannten Ausbildungsnachweisen sind nach einem der in der Anlage
-aufgeführten Stichtag von den übrigen Mitgliedstaaten der Europäischen
-Union oder anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum ausgestellte Ausbildungsnachweise der Pflegefachfrau
-oder des Pflegefachmanns, die den in der Anlage zu Satz 1 für den
-betreffenden Staat aufgeführten Bezeichnungen nicht entsprechen, aber
-mit einer Bescheinigung der zuständigen Behörde oder Stelle des
-Staates darüber vorgelegt werden, dass sie eine Ausbildung
-abschließen, die den Mindestanforderungen des Artikels 31 in
-Verbindung mit dem Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG
-entspricht und den für diesen Staat in der Anlage zu Satz 1 genannten
-Nachweisen gleichsteht. Inhaber eines bulgarischen
-Befähigungsnachweises für den Beruf des „*             “ („Feldscher“)
-haben keinen Anspruch auf Anerkennung ihres beruflichen
-Befähigungsnachweises in anderen Mitgliedstaaten im Rahmen dieses
-Absatzes.
+entsprechend für im Anhang V Nummer 5.2.2. der Richtlinie 2005/36/EG
+aufgeführte und nach dem 31. Dezember 1992 ausgestellte
+Ausbildungsnachweise eines anderen Vertragsstaates des Abkommens über
+den Europäischen Wirtschaftsraum oder der Schweiz. Gleichwertig zu den
+in Satz 1 genannten Ausbildungsnachweisen sind nach einem der im
+Anhang V Nummer 5.2.2. der Richtlinie 2005/36/EG aufgeführten
+Stichtage von den übrigen Mitgliedstaaten der Europäischen Union oder
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz ausgestellte Ausbildungsnachweise der
+Pflegefachfrau oder des Pflegefachmanns, die den für den betreffenden
+Staat im Anhang V Nummer 5.2.2. der Richtlinie 2005/36/EG aufgeführten
+Bezeichnungen nicht entsprechen, aber mit einer Bescheinigung der
+zuständigen Behörde oder Stelle des Staates darüber vorgelegt werden,
+dass sie eine Ausbildung abschließen, die den Mindestanforderungen des
+Artikels 31 in Verbindung mit dem Anhang V Nummer 5.2.1. der
+Richtlinie 2005/36/EG entspricht und den für diesen Staat im Anhang V
+Nummer 5.2.2. der Richtlinie 2005/36/EG genannten Nachweisen
+gleichsteht. Inhaber eines bulgarischen Befähigungsnachweises für den
+Beruf des „фелдшер“ („Feldscher“) haben keinen Anspruch auf
+Anerkennung ihres beruflichen Befähigungsnachweises in anderen
+Mitgliedstaaten im Rahmen dieses Absatzes. Der Anhang V Nummer 5.2.2.
+der Richtlinie 2005/36/EG findet im Rahmen dieses Gesetzes in seiner
+jeweils geltenden Fassung Anwendung.
 
 (2) Für Personen, die eine Erlaubnis nach § 58 Absatz 1 oder Absatz 2
 beantragen, gilt die Voraussetzung des § 58 Absatz 3 in Verbindung mit
 § 2 Nummer 1 als erfüllt, wenn aus einem Europäischen Berufsausweis
 oder aus einem in einem anderen Mitgliedstaat der Europäischen Union
 oder einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum erworbenen Ausbildungsnachweis hervorgeht, dass die
-antragstellende Person eine Ausbildung erworben hat, die in diesem
-Staat für den unmittelbaren Zugang zu einem dem Beruf der Gesundheits-
-und Kinderkrankenpflegerin oder des Gesundheits- und
-Kinderkrankenpflegers oder dem Beruf der Altenpflegerin oder des
-Altenpflegers entsprechenden Beruf erforderlich ist.
-Ausbildungsnachweise im Sinne dieses Gesetzes sind
+Wirtschaftsraum oder der Schweiz erworbenen Ausbildungsnachweis
+hervorgeht, dass die antragstellende Person eine Ausbildung erworben
+hat, die in diesem Staat für den unmittelbaren Zugang zu einem dem
+Beruf der Gesundheits- und Kinderkrankenpflegerin oder des
+Gesundheits- und Kinderkrankenpflegers oder dem Beruf der
+Altenpflegerin oder des Altenpflegers entsprechenden Beruf
+erforderlich ist. Ausbildungsnachweise im Sinne dieses Gesetzes sind
 Ausbildungsnachweise gemäß Artikel 3 Absatz 1 Buchstabe c der
 Richtlinie 2005/36/EG, die mindestens dem in Artikel 11 Buchstabe b
 der Richtlinie 2005/36/EG genannten Niveau entsprechen und denen eine
@@ -1732,11 +1892,11 @@ Rechte verleihen oder auf die Ausübung des jeweiligen Berufs
 vorbereiten. Antragstellende Personen mit einem Ausbildungsnachweis
 aus einem anderen Mitgliedstaat der Europäischen Union oder einem
 anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum haben einen höchstens dreijährigen Anpassungslehrgang
-zu absolvieren oder eine Eignungsprüfung abzulegen, wenn die
-Ausbildung der antragstellenden Person wesentliche Unterschiede
-gegenüber den in diesem Gesetz und in der Ausbildungs- und
-Prüfungsverordnung für die Pflegeberufe geregelten Ausbildung zum
+Wirtschaftsraum oder der Schweiz haben einen höchstens dreijährigen
+Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen,
+wenn die Ausbildung der antragstellenden Person wesentliche
+Unterschiede gegenüber den in diesem Gesetz und in der Ausbildungs-
+und Prüfungsverordnung für die Pflegeberufe geregelten Ausbildung zum
 Beruf der Gesundheits- und Kinderkrankenpflegerin oder des
 Gesundheits- und Kinderkrankenpflegers oder zum Beruf der
 Altenpflegerin oder des Altenpflegers aufweist. § 40 Absatz 2 Satz 2
@@ -1746,14 +1906,15 @@ zwischen dem Anpassungslehrgang und der Eignungsprüfung zu wählen.
 (3) § 40 Absatz 2 und 3 gilt entsprechend für antragstellende
 Personen, die ihre Ausbildung in einem anderen Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum abgeschlossen haben und nicht unter
-Absatz 1 oder § 42 fallen, sowie antragstellende Personen, die über
-einen Ausbildungsnachweis als Pflegefachfrau oder Pflegefachmann aus
-einem Staat, der nicht Mitgliedstaat der Europäischen Union oder
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-(Drittstaat) ist, verfügen, der in einem anderen Mitgliedstaat der
-Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum anerkannt wurde. Zum Ausgleich der
+den Europäischen Wirtschaftsraum oder der Schweiz abgeschlossen haben
+und nicht unter Absatz 1 oder § 42 fallen, sowie antragstellende
+Personen, die über einen Ausbildungsnachweis als Pflegefachfrau oder
+Pflegefachmann aus einem Staat, der nicht Mitgliedstaat der
+Europäischen Union oder Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum oder der Schweiz (Drittstaat) ist,
+verfügen, der in einem anderen Mitgliedstaat der Europäischen Union
+oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz anerkannt wurde. Zum Ausgleich der
 festgestellten wesentlichen Unterschiede haben die antragstellenden
 Personen in einem höchstens dreijährigen Anpassungslehrgang oder einer
 Eignungsprüfung, die sich auf die festgestellten wesentlichen
@@ -1765,9 +1926,9 @@ wählen.
 
 (4) Absatz 3 gilt entsprechend für Personen, die
 
-1.  eine Erlaubnis nach § 1 Absatz 1 beantragen und über einen in einem
-    anderen Mitgliedstaat der Europäischen Union oder einem anderen
-    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+1.  eine Erlaubnis nach § 1 beantragen und über einen in einem anderen
+    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+    des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
     ausgestellten Ausbildungsnachweis oder eine Gesamtheit von
     Ausbildungsnachweisen verfügen, die eine Ausbildung zur
     spezialisierten Pflegefachfrau oder zum spezialisierten Pflegefachmann
@@ -1776,8 +1937,8 @@ wählen.
 
 2.  eine Erlaubnis nach § 58 Absatz 1 oder 2 beantragen und über eine in
     einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-    ausgestellten Ausbildungsnachweis oder eine Gesamtheit von
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+    der Schweiz ausgestellten Ausbildungsnachweis oder eine Gesamtheit von
     Ausbildungsnachweisen, die den Mindestanforderungen des Artikels 31 in
     Verbindung mit dem Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG
     entsprechen, und eine darauf aufbauende Spezialisierung in der
@@ -1807,8 +1968,8 @@ Gleichstellung ergibt.
 #### § 42 Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten
 
 (1) Antragstellenden Personen, die die Voraussetzungen nach § 2 Nummer
-2 bis 4 erfüllen und eine Erlaubnis nach § 1 Absatz 1 aufgrund der
-Vorlage eines Ausbildungsnachweises beantragen,
+2 bis 4 erfüllen und eine Erlaubnis nach § 1 aufgrund der Vorlage
+eines Ausbildungsnachweises beantragen,
 
 1.  der von der früheren Tschechoslowakei verliehen wurde und die Aufnahme
     des Berufs der Krankenschwester oder des Krankenpflegers, die für die
@@ -1834,7 +1995,8 @@ Vorlage eines Ausbildungsnachweises beantragen,
     allgemeine Pflege verantwortlich sind, gestattet oder aus dem
     hervorgeht, dass die Ausbildung zum Beruf der Krankenschwester oder
     des Krankenpflegers, die für die allgemeine Pflege verantwortlich
-    sind, im Falle Sloweniens vor dem 25. Juni 1991 begonnen wurde,
+    sind, im Falle Sloweniens vor dem 25. Juni 1991, im Falle Kroatiens
+    vor dem 8. Oktober 1991 begonnen wurde,
 
 
 
@@ -1854,8 +2016,8 @@ Verantwortung für die Planung, die Organisation und die Ausführung der
 Krankenpflege des Patienten umfasst haben.
 
 (2) Antragstellende Personen, die die Voraussetzungen nach § 2 Nummer
-2 bis 4 erfüllen und die eine Erlaubnis nach § 1 Absatz 1 aufgrund der
-Vorlage eines Ausbildungsnachweises beantragen, der in Polen für
+2 bis 4 erfüllen und die eine Erlaubnis nach § 1 aufgrund der Vorlage
+eines Ausbildungsnachweises beantragen, der in Polen für
 Krankenschwestern und Krankenpfleger verliehen worden ist, deren
 Ausbildung vor dem 1. Mai 2004 abgeschlossen wurde und den
 Mindestanforderungen an die Berufsausbildung gemäß Artikel 31 der
@@ -1866,8 +2028,8 @@ in Artikel 33 Absatz 3 Buchstabe b Doppelbuchstabe i oder
 Doppelbuchstabe ii der Richtlinie 2005/36/EG genannten Gesetze
 enthalten ist.
 
-(3) Antragstellende Personen, die die Erlaubnis nach § 1 Absatz 1
-aufgrund einer in Rumänien abgeleisteten Ausbildung im Beruf der
+(3) Antragstellende Personen, die die Erlaubnis nach § 1 aufgrund
+einer in Rumänien abgeleisteten Ausbildung im Beruf der
 Krankenschwester oder des Krankenpflegers, die für die allgemeine
 Pflege verantwortlich sind, beantragen, die den Mindestanforderungen
 an die Berufsausbildung des Artikels 31 der Richtlinie 2005/36/EG
@@ -1903,11 +2065,11 @@ rechtmäßig ausgeübt haben und sie die Voraussetzungen nach § 2 Nummer
 
 (4) Antragstellende Personen, die nicht unter die Absätze 1 bis 3
 fallen, die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen und eine
-Erlaubnis nach § 1 Absatz 1 aufgrund der Vorlage eines vor dem nach §
-41 Absatz 1 in Verbindung mit der Anlage zu diesem Gesetz genannten
-Stichtag ausgestellten Ausbildungsnachweises eines der übrigen
-Mitgliedstaaten der Europäischen Union beantragen, ist die Erlaubnis
-zu erteilen, auch wenn dieser Ausbildungsnachweis nicht alle
+Erlaubnis nach § 1 aufgrund der Vorlage eines vor dem nach § 41 Absatz
+1 in Verbindung mit Anhang V Nummer 5.2.2. der Richtlinie 2005/36/EG
+genannten Stichtag ausgestellten Ausbildungsnachweises eines der
+übrigen Mitgliedstaaten der Europäischen Union beantragen, ist die
+Erlaubnis zu erteilen, auch wenn dieser Ausbildungsnachweis nicht alle
 Anforderungen an die Ausbildung nach Artikel 31 der Richtlinie
 2005/36/EG erfüllt, sofern dem Antrag eine Bescheinigung darüber
 beigefügt ist, dass der Inhaber während der letzten fünf Jahre vor
@@ -1938,42 +2100,42 @@ zu erteilen.
 
 #### § 44 Dienstleistungserbringende Personen
 
-(1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
+(1) Staatsangehörige eines Mitgliedstaates der Europäischen Union,
 eines Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum, die zur Ausübung des Berufes der Pflegefachfrau oder
-des Pflegefachmanns in einem anderen Mitgliedstaat der Europäischen
-Union oder einem anderen Vertragsstaat des Europäischen
-Wirtschaftsraumes aufgrund einer nach deutschen Rechtsvorschriften
-abgeschlossenen Ausbildung oder aufgrund eines den Anforderungen des §
-41 Absatz 1 entsprechenden Ausbildungsnachweises berechtigt sind und
-in einem dieser Mitgliedstaaten rechtmäßig niedergelassen sind, dürfen
-als dienstleistungserbringende Personen im Sinne des Artikels 57 des
-Vertrages über die Arbeitsweise der Europäischen Union (ABl. C 326 vom
-26\.10.2012, S. 47) vorübergehend und gelegentlich ihren Beruf im
-Geltungsbereich dieses Gesetzes ausüben. Sie führen die
-Berufsbezeichnung nach § 1 Absatz 1 ohne Erlaubnis und dürfen die
-Tätigkeiten nach § 4 Absatz 2 ausüben.
-
-(2) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
-eines Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum, die zur Ausübung des Berufes der Gesundheits- und
-Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers
-oder der Altenpflegerin oder des Altenpflegers in einem anderen
-Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-des Europäischen Wirtschaftsraumes aufgrund einer nach deutschen
+Wirtschaftsraum oder der Schweiz, die zur Ausübung des Berufes der
+Pflegefachfrau oder des Pflegefachmanns in einem anderen Mitgliedstaat
+der Europäischen Union, einem anderen Vertragsstaat des Europäischen
+Wirtschaftsraumes oder der Schweiz aufgrund einer nach deutschen
 Rechtsvorschriften abgeschlossenen Ausbildung oder aufgrund eines den
-Anforderungen des § 41 Absatz 2 entsprechenden Ausbildungsnachweises
-berechtigt sind und
+Anforderungen des § 41 Absatz 1 entsprechenden Ausbildungsnachweises
+berechtigt sind und in einem dieser Staaten rechtmäßig niedergelassen
+sind, dürfen als dienstleistungserbringende Personen im Sinne des
+Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union
+(ABl. C 202 vom 7.6.2016, S. 1) vorübergehend und gelegentlich ihren
+Beruf im Geltungsbereich dieses Gesetzes ausüben. Sie führen die
+Berufsbezeichnung nach § 1 ohne Erlaubnis und dürfen die Tätigkeiten
+nach § 4 Absatz 2 ausüben.
 
-1.  in einem Mitgliedstaat rechtmäßig niedergelassen sind oder,
+(2) Staatsangehörige eines Mitgliedstaates der Europäischen Union,
+eines Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz, die zur Ausübung des Berufes der
+Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und
+Kinderkrankenpflegers oder der Altenpflegerin oder des Altenpflegers
+in einem anderen Mitgliedstaat der Europäischen Union, einem anderen
+Vertragsstaat des Europäischen Wirtschaftsraumes oder der Schweiz
+aufgrund einer nach deutschen Rechtsvorschriften abgeschlossenen
+Ausbildung oder aufgrund eines den Anforderungen des § 41 Absatz 2
+entsprechenden Ausbildungsnachweises berechtigt sind und
+
+1.  in einem dieser Staaten rechtmäßig niedergelassen sind oder,
 
 
 2.  wenn der Beruf der Gesundheits- und Kinderkrankenpflegerin oder des
     Gesundheits- und Kinderkrankenpflegers oder der Altenpflegerin oder
     des Altenpflegers oder die Ausbildung zu diesem Beruf im
-    Niederlassungsmitgliedstaat nicht reglementiert ist, diesen Beruf
-    während der vorhergehenden zehn Jahre mindestens ein Jahr in einem
-    oder in mehreren Mitgliedstaaten rechtmäßig ausgeübt haben,
+    Niederlassungsstaat nicht reglementiert ist, diesen Beruf während der
+    vorhergehenden zehn Jahre mindestens ein Jahr in einem oder in
+    mehreren dieser Staaten rechtmäßig ausgeübt haben,
 
 
 
@@ -1993,8 +2155,8 @@ Kontinuität der Dienstleistung einzubeziehen.
 die Voraussetzungen für eine Rücknahme oder einen Widerruf, die sich
 auf die Tatbestände nach § 2 Nummer 2 oder Nummer 3 beziehen, zwar
 vorliegen, die Rücknahme oder der Widerruf jedoch nicht vollzogen
-werden kann, da die betroffene Person keine deutsche Berufserlaubnis
-besitzt.
+werden kann, da die betroffene Person keine deutsche Erlaubnis zum
+Führen der Berufsbezeichnung besitzt.
 
 (5) Die Absätze 1 bis 4 sowie die §§ 45 bis 48 gelten entsprechend für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
@@ -2006,8 +2168,8 @@ Union eine Gleichstellung ergibt.
 
 Dienstleistungserbringende Personen haben beim Erbringen der
 Dienstleistung im Geltungsbereich dieses Gesetzes die gleichen Rechte
-und Pflichten wie Personen mit einer Erlaubnis nach § 1 Absatz 1 oder
-§ 58 Absatz 1 oder Absatz 2.
+und Pflichten wie Personen mit einer Erlaubnis nach § 1 oder § 58
+Absatz 1 oder Absatz 2.
 
 
 #### § 46 Meldung der dienstleistungserbringenden Person an die zuständige Behörde
@@ -2098,16 +2260,16 @@ Erbringen der Dienstleistung zu erfolgen.
 
 Einer oder einem Staatsangehörigen eines Mitgliedstaates der
 Europäischen Union oder eines Vertragsstaates des Abkommens über den
-Europäischen Wirtschaftsraum, die oder der im Geltungsbereich dieses
-Gesetzes den Beruf der Pflegefachfrau oder des Pflegefachmanns, der
-Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und
-Kinderkrankenpflegers oder der Altenpflegerin oder des Altenpflegers
-auf Grund einer Erlaubnis nach § 1 Absatz 1 oder § 58 Absatz 1 oder
-Absatz 2 ausübt, ist auf Antrag für Zwecke der
+Europäischen Wirtschaftsraum oder der Schweiz, die oder der im
+Geltungsbereich dieses Gesetzes den Beruf der Pflegefachfrau oder des
+Pflegefachmanns, der Gesundheits- und Kinderkrankenpflegerin oder des
+Gesundheits- und Kinderkrankenpflegers oder der Altenpflegerin oder
+des Altenpflegers auf Grund einer Erlaubnis nach § 1 oder § 58 Absatz
+1 oder Absatz 2 ausübt, ist auf Antrag für Zwecke der
 Dienstleistungserbringung in einem anderen Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum eine Bescheinigung darüber
-auszustellen, dass sie oder er
+den Europäischen Wirtschaftsraum oder der Schweiz eine Bescheinigung
+darüber auszustellen, dass sie oder er
 
 1.  als Pflegefachfrau oder Pflegefachmann, als Gesundheits- und
     Kinderkrankenpflegerin oder Gesundheits- und Kinderkrankenpfleger oder
@@ -2142,9 +2304,9 @@ vorliegen.
 
 (3) Auf Anforderung der zuständigen Behörden eines Mitgliedstaates der
 Europäischen Union oder eines Vertragsstaates des Abkommens über den
-Europäischen Wirtschaftsraum haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde Folgendes zu übermitteln:
+Europäischen Wirtschaftsraum oder der Schweiz haben die zuständigen
+Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der
+anfordernden Behörde Folgendes zu übermitteln:
 
 1.  alle Informationen über die Rechtmäßigkeit der Niederlassung und die
     gute Führung der dienstleistungserbringenden Person sowie
@@ -2155,6 +2317,138 @@ Behörde Folgendes zu übermitteln:
 
 
 
+
+
+### Abschnitt 2a - Partielle Berufsausübung
+
+
+#### § 48a Erlaubnis zur partiellen Berufsausübung
+
+(1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
+erteilen, wenn
+
+1.  die antragstellende Person ohne Einschränkung qualifiziert ist, in
+    einem anderen Mitgliedstaat der Europäischen Union, in einem anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+    in der Schweiz eine berufliche Tätigkeit auszuüben, die der Tätigkeit
+    eines Berufs nach diesem Gesetz nur partiell entspricht,
+
+
+2.  die Unterschiede zwischen der in einem anderen Mitgliedstaat der
+    Europäischen Union, in einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum oder der Schweiz rechtmäßig
+    ausgeübten beruflichen Tätigkeit und den Tätigkeiten, die unter
+    denjenigen in diesem Gesetz geregelten Beruf, für den eine Erlaubnis
+    zur partiellen Berufsausübung angestrebt wird, fallen, so wesentlich
+    sind, dass die Anwendung von Anpassungsmaßnahmen nach § 40 Absatz 3
+    der Anforderung an die antragstellende Person gleichkäme, die
+    vollständige Ausbildung nach diesem Gesetz zu absolvieren,
+
+
+3.  die rechtmäßig ausgeübte berufliche Tätigkeit nach Nummer 1 eine oder
+    mehrere der vorbehaltenen Tätigkeiten nach § 4 umfasst und
+
+
+4.  die Voraussetzungen nach § 2 Nummer 2 bis 4 vorliegen.
+
+
+
+
+(2) Eine Erlaubnis zur partiellen Berufsausübung darf nicht erteilt
+werden, wenn
+
+1.  der Patientenschutz oder der Schutz der öffentlichen Gesundheit der
+    Erteilung entgegensteht oder
+
+
+2.  eine automatische Anerkennung der Berufsqualifikation möglich ist.
+
+
+
+
+(3) Eine Erlaubnis zur partiellen Berufsausübung ist auf die
+Tätigkeiten zu beschränken, in denen die antragstellende Person eine
+Qualifikation nach Absatz 1 Nummer 1 und 3 nachgewiesen hat.
+
+(4) Die berufliche Tätigkeit wird unter der Berufsbezeichnung des
+Staates, in dem die Qualifikation nach Absatz 1 Nummer 1 erworben
+wurde, ausgeübt und mit dem Hinweis auf
+
+1.  den Namen dieses Staates und
+
+
+2.  die Tätigkeit, auf die die Erlaubnis zur partiellen Berufsausübung
+    beschränkt ist.
+
+
+
+
+(5) Personen mit einer Erlaubnis zur partiellen Berufsausübung haben
+im Umfang dieser Erlaubnis die gleichen Rechte und Pflichten wie eine
+Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1.
+Sie dürfen insbesondere eine oder mehrere vorbehaltene Tätigkeiten
+nach § 4 ausüben, soweit sie in den Umfang der Erlaubnis zur
+partiellen Berufsausübung fallen.
+
+(6) § 3 gilt für die Erlaubnis zur partiellen Berufsausübung
+entsprechend.
+
+
+#### § 48b Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+(1) Für die Erbringung von vorübergehenden und gelegentlichen
+Dienstleistungen im Sinne von Artikel 57 des Vertrages über die
+Arbeitsweise der Europäischen Union im Rahmen einer partiellen
+Berufsausübung bedarf es einer Genehmigung durch die zuständige
+Behörde. Die Genehmigung wird auf Antrag erteilt, wenn:
+
+1.  die antragstellende Person eine Staatsangehörige oder ein
+    Staatsangehöriger eines Mitgliedstaates der Europäischen Union, eines
+    Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+    oder der Schweiz ist,
+
+
+2.  die antragstellende Person in einem anderen Mitgliedstaat der
+    Europäischen Union, in einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung des
+    Berufs, dessen Tätigkeit der Tätigkeit in einem der Berufe nach diesem
+    Gesetz nur partiell entspricht, rechtmäßig niedergelassen ist und
+
+    a)  dieser Beruf in diesem Mitgliedstaat der Europäischen Union, in diesem
+        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+        in der Schweiz reglementiert ist oder
+
+
+    b)  dieser Beruf in diesem Mitgliedstaat der Europäischen Union, in diesem
+        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+        in der Schweiz nicht reglementiert ist und die antragstellende Person
+        diesen Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr
+        lang in einem oder in mehreren Mitgliedstaaten der Europäischen Union,
+        in einem oder mehreren Vertragsstaaten des Abkommens über den
+        Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig ausgeübt
+        hat, und
+
+
+
+
+
+3.  die Voraussetzungen nach § 48a Absatz 1 Nummer 1 bis 4 vorliegen.
+
+
+
+
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im
+Rahmen einer partiellen Berufsausübung haben beim Erbringen der
+Dienstleistung in Deutschland im Umfang dieser Genehmigung die
+gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum
+Führen der Berufsbezeichnung nach § 1. Sie dürfen insbesondere eine
+oder mehrere vorbehaltene Tätigkeiten nach § 4 ausüben, soweit sie in
+den Umfang der Genehmigung zur Dienstleistungserbringung im Rahmen
+einer partiellen Berufsausübung fallen.
+
+(3) Die §§ 3, 44 Absatz 3 und 4, § 46 Absatz 1, 2 und 4, § 48 Absatz 1
+und 2, § 48a Absatz 2 Nummer 1, Absatz 3 und 4, § 50 Absatz 1 und 2
+sowie § 51 gelten entsprechend.
 
 
 ### Abschnitt 3 - Aufgaben und Zuständigkeiten
@@ -2212,9 +2506,8 @@ Behörden der anderen Mitgliedstaaten der Europäischen Union, der
 anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum und der Schweiz über
 
-1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 Absatz 1 oder §
-    58 Absatz 1 oder Absatz 2, die sofort vollziehbar oder unanfechtbar
-    sind,
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 oder § 58
+    Absatz 1 oder Absatz 2, die sofort vollziehbar oder unanfechtbar sind,
 
 
 2.  den Verzicht auf die Erlaubnis,
@@ -2309,9 +2602,15 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 #### § 52 Weitere Aufgaben der jeweils zuständigen Behörden
 
 (1) Die Entscheidung, ob die Erlaubnis erteilt wird, die
-Berufsbezeichnung nach § 1 Absatz 1 oder § 58 Absatz 1 oder Absatz 2
-zu führen, trifft die zuständige Behörde des Landes, in dem die
-antragstellende Person die Prüfung abgelegt hat.
+Berufsbezeichnung nach § 1 oder § 58 Absatz 1 oder Absatz 2 zu führen,
+trifft die zuständige Behörde des Landes, in dem die antragstellende
+Person die Prüfung abgelegt hat.
+
+(1a) Die Entscheidung nach § 48a trifft die zuständige Behörde des
+Landes, in dem die partielle Berufsausübung vorgenommen werden soll.
+Die Entscheidung nach § 48b trifft die zuständige Behörde des Landes,
+in dem die Dienstleistung erbracht werden soll oder erbracht worden
+ist.
 
 (2) Die Entscheidungen über den Zugang zur Ausbildung nach § 11, die
 Anrechnung gleichwertiger Ausbildungen und die Anrechnung von
@@ -2391,10 +2690,10 @@ aus.
 Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der
 Beratung und Information zur Pflegeausbildung nach diesem Gesetz, die
 Aufgabe des Aufbaus unterstützender Angebote und Strukturen zur
-Organisation der Pflegeausbildung nach den Teilen 2 und 3 sowie zur
-Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung
-zur Pflegeausbildung nach diesem Gesetz und zum Pflegeberuf nach
-Weisung des Bundesministeriums für Familie, Senioren, Frauen und
+Organisation der Pflegeausbildung nach den Teilen 2 und 3 sowie auch
+zur Unterstützung der Arbeit der Fachkommission die Aufgabe der
+Forschung zur Pflegeausbildung nach diesem Gesetz und zum Pflegeberuf
+nach Weisung des Bundesministeriums für Familie, Senioren, Frauen und
 Jugend und des Bundesministeriums für Gesundheit.
 
 
@@ -2408,17 +2707,19 @@ das Bundesministerium für Gesundheit werden ermächtigt, für Zwecke
 dieses Gesetzes, gemeinsam durch Rechtsverordnung mit Zustimmung des
 Bundesrates jährliche Erhebungen über die bei der zuständigen Stelle
 nach § 26 Absatz 4 zur Erfüllung der Aufgaben nach Teil 2 Abschnitt 3,
-auch in Verbindung mit § 59 Absatz 1, vorliegenden Daten als
-Bundesstatistik anzuordnen. Die Statistik kann folgende Sachverhalte
-umfassen:
+auch in Verbindung mit § 39a Absatz 3 oder § 59 Absatz 1, jeweils
+vorliegenden Daten als Bundesstatistik anzuordnen und das Verfahren
+zur Ermittlung und Erhebung der Daten nach § 62 zu regeln. Die
+Statistik kann folgende Sachverhalte umfassen:
 
-1.  die Träger der praktischen Ausbildung, die weiteren an der Ausbildung
-    beteiligten Einrichtungen sowie die Pflegeschulen,
+1.  die Träger der praktischen Ausbildung, die Träger des praktischen
+    Teils der hochschulischen Pflegeausbildung, die jeweils weiteren an
+    der Ausbildung beteiligten Einrichtungen sowie die Pflegeschulen,
 
 
-2.  die in der Ausbildung befindlichen Personen nach Geschlecht,
-    Geburtsjahr, Beginn und Ende der Ausbildung, Grund der Beendigung der
-    Ausbildung, Weiterbildung oder Umschulung,
+2.  die in der beruflichen oder hochschulischen Ausbildung befindlichen
+    Personen nach Geschlecht, Geburtsjahr, Beginn und Ende der Ausbildung,
+    Grund der Beendigung der Ausbildung, Weiterbildung oder Umschulung,
 
 
 3.  die Ausbildungsvergütungen.
@@ -2438,10 +2739,12 @@ Landesstatistik anzuordnen, bleibt unberührt.
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam
 durch Rechtsverordnung mit Zustimmung des Bundesrates in einer
-Ausbildungs- und Prüfungsverordnung
+Ausbildungs- und Prüfungsverordnung Folgendes zu regeln:
 
 1.  die Mindestanforderungen an die Ausbildung nach den Teilen 2, 3 und 5,
-    einschließlich der Zwischenprüfung nach § 6 Absatz 5,
+    einschließlich der Zwischenprüfung nach § 6 Absatz 5, die
+    Berücksichtigung digitaler Lehrformate sowie genderspezifische
+    Kompetenzvermittlung,
 
 
 2.  das Nähere über die staatliche Prüfung nach § 2 Nummer 1, auch in
@@ -2449,13 +2752,17 @@ Ausbildungs- und Prüfungsverordnung
     mit § 2 Nummer 1 oder nach § 14 Absatz 7 in Verbindung mit § 2 Nummer
     1, jeweils auch in Verbindung mit § 58 Absatz 3 und § 59 Absatz 1,
     einschließlich der Prüfung nach § 39, auch in Verbindung mit § 37
-    Absatz 5, die Urkunde für die Erlaubnis nach § 1 Absatz 1 oder § 58
-    Absatz 1 oder Absatz 2,
+    Absatz 5, hierzu zählen insbesondere jeweils die konkrete Anzahl der
+    prüfenden Personen in der jeweiligen Prüfungssituation, die
+    Voraussetzungen zum Bestehen der Prüfung, die Rolle der oder des
+    Vorsitzenden des Prüfungsausschusses und die Urkunde für die Erlaubnis
+    nach § 1 oder § 58 Absatz 1 oder Absatz 2,
 
 
 3.  das Nähere zur Gliederung und Durchführung der praktischen Ausbildung
-    nach § 6 Absatz 3 und über die Kooperationsvereinbarungen nach § 6
-    Absatz 4, auch in Verbindung mit § 59 Absatz 1,
+    nach § 6 Absatz 3, einschließlich der Anrechnung von im Ausland
+    durchgeführten Einsätzen, und über die Kooperationsvereinbarungen nach
+    § 6 Absatz 4, auch in Verbindung mit § 59 Absatz 1,
 
 
 4.  das Nähere zur Errichtung, Zusammensetzung, Aufwandsentschädigung und
@@ -2468,31 +2775,25 @@ Ausbildungs- und Prüfungsverordnung
 
 
 6.  das Nähere zu den Aufgaben des Bundesinstituts für Berufsbildung nach
-    § 54, auch in Verbindung mit § 59 Absatz 1,
+    § 54, auch in Verbindung mit § 59 Absatz 1.
 
 
 
-zu regeln. Die Rechtsverordnung ist dem Bundestag zur Beschlussfassung
-zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat.
-Die Rechtsverordnung kann durch Beschluss des Bundestages geändert
-oder abgelehnt werden. Der Beschluss des Bundestages wird der
-Bundesregierung zugeleitet. Hinsichtlich Satz 1 Nummer 1 und 2 erfolgt
-der Erlass der Rechtsverordnung im Benehmen, hinsichtlich Satz 1
-Nummer 5 und 6 im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung. Hinsichtlich Satz 1 Nummer 6 erfolgt der Erlass der
-Rechtsverordnung zudem im Benehmen mit dem Bundesministerium der
-Finanzen.
+Hinsichtlich Satz 1 Nummer 1 und 2 erfolgt der Erlass der
+Rechtsverordnung im Benehmen, hinsichtlich Satz 1 Nummer 5 und 6 im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung.
+Hinsichtlich Satz 1 Nummer 6 erfolgt der Erlass der Rechtsverordnung
+zudem im Benehmen mit dem Bundesministerium der Finanzen.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Inhaberinnen und
-Inhaber von Ausbildungsnachweisen, die eine Erlaubnis nach § 2 in
-Verbindung mit § 40 oder § 41 beantragen, Folgendes zu regeln:
+Inhaber von Ausbildungsnachweisen, die eine Erlaubnis nach § 2 in
+Verbindung mit den §§ 40, 41 oder 42 beantragen, Folgendes zu regeln:
 
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Nummer 2 und
     3, insbesondere die Vorlage der von der antragstellenden Person
     vorzulegenden Nachweise und die Ermittlung durch die zuständige
     Behörde entsprechend Artikel 50 Absatz 1 bis 3 in Verbindung mit
-    Anhang VII der Richtlinie
-    2005/36/EG,
+    Anhang VII der Richtlinie 2005/36/EG,
 
 
 2.  die Pflicht von Inhaberinnen und Inhabern von Ausbildungsnachweisen,
@@ -2504,16 +2805,48 @@ Verbindung mit § 40 oder § 41 beantragen, Folgendes zu regeln:
 3.  die Fristen für die Erteilung der Erlaubnis,
 
 
-4.  das Verfahren über die Voraussetzungen zur Dienstleistungserbringung
-    gemäß den §§ 44 bis 48,
-
-
-5.  die Regelungen zur Durchführung und zum Inhalt der Anpassungsmaßnahmen
+4.  die Regelungen zur Durchführung und zum Inhalt der Anpassungsmaßnahmen
     nach § 40 Absatz 3 Satz 2 und § 41 Absatz 2 Satz 4 und Absatz 3 Satz
-    2,
+    2, das Nähere zu den Prüfungen, zur konkreten Anzahl der prüfenden
+    Personen in der jeweiligen Prüfungssituation, zum Bestehen der Prüfung
+    und zur Rolle der oder des Vorsitzenden des Prüfungsausschusses und
 
 
-6.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
+5.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
+
+
+
+Zudem ist in der Rechtsverordnung nach Absatz 1 das Verfahren über die
+Voraussetzungen zur Dienstleistungserbringung gemäß den §§ 44 bis 48
+zu regeln.
+
+(2a) In der Rechtsverordnung nach Absatz 1 ist für Berufsangehörige,
+die einen Antrag nach § 48a oder nach § 48b stellen, Folgendes zu
+regeln:
+
+1.  das Verfahren und das Nähere zu den Voraussetzungen der partiellen
+    Berufsausübung, insbesondere
+
+    a)  die Fristen für die Erteilung der Erlaubnis zur partiellen
+        Berufsausübung nach § 48a,
+
+
+    b)  das Verfahren bei der Prüfung der Voraussetzungen des § 48a,
+        insbesondere die von der antragstellenden Person vorzulegenden
+        Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
+        Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
+        2005/36/EG,
+
+
+    c)  die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach § 48a
+        und
+
+
+
+
+
+2.  das Verfahren und das Nähere zu den Voraussetzungen der
+    Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
 
 
 
@@ -2523,17 +2856,20 @@ das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam und
 im Benehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
 erlassen über die Finanzierung der beruflichen Ausbildung in der
-Pflege nach Teil 2 Abschnitt 3 und Teil 5; dies betrifft insbesondere
+Pflege nach Teil 2 Abschnitt 3 und Teil 5 sowie der hochschulischen
+Pflegeausbildung nach § 39a; dies betrifft insbesondere
 
-1.  die nähere Bestimmung der Ausbildungskosten nach § 27,
+1.  die nähere Bestimmung der Ausbildungskosten nach den §§ 27 und 39a,
 
 
 2.  das Verfahren der Ausbildungsbudgets einschließlich der Vereinbarung
-    der Pauschalen und Individualbudgets nach den §§ 29 bis 31,
+    der Pauschalen und Individualbudgets nach den §§ 29 bis 31 sowie der
+    Möglichkeit von Schätzungen durch die zuständige Stelle,
 
 
-3.  die Aufbringung des Finanzierungsbedarfs sowie der Zahlverfahren nach
-    § 33 Absatz 2 bis 7,
+3.  die Aufbringung des Finanzierungsbedarfs einschließlich der Höhe der
+    Verwaltungskostenpauschale nach § 32 Absatz 2 sowie der Zahl- und
+    Umlageverfahren nach § 33 Absatz 2 bis 7,
 
 
 4.  die Erbringung und Weiterleitung der Ausgleichszuweisungen nach § 34
@@ -2548,8 +2884,8 @@ Pflege nach Teil 2 Abschnitt 3 und Teil 5; dies betrifft insbesondere
 
 einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten
 und Nutzen personenbezogener Daten und zum Datenschutz, soweit es für
-das Verfahren zur Finanzierung der beruflichen Ausbildung in der
-Pflege erforderlich ist.
+das Verfahren zur Finanzierung der beruflichen und hochschulischen
+Ausbildung in der Pflege erforderlich ist.
 
 (4) Der Spitzenverband Bund der Kranken- und Pflegekassen, der Verband
 der Privaten Krankenversicherung, die Vereinigungen der Träger der
@@ -2573,8 +2909,8 @@ vorsehen.
 
 (1) Ordnungswidrig handelt, wer
 
-1.  ohne Erlaubnis nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 eine
-    dort genannte Berufsbezeichnung führt,
+1.  ohne Erlaubnis nach § 1, § 58 Absatz 1 oder Absatz 2 eine dort
+    genannte Berufsbezeichnung führt,
 
 
 2.  entgegen § 4 Absatz 1, auch in Verbindung mit § 58 Absatz 3, als
@@ -2728,8 +3064,51 @@ Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem
 Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder
 nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden
 Fassung bleibt durch dieses Gesetz unberührt. Sie gilt zugleich als
-Erlaubnis nach § 1 Absatz 1 Satz 1. Die die Erlaubnis nach § 1 Absatz
-1 Satz 1 betreffenden Vorschriften sind entsprechend anzuwenden.
+Erlaubnis nach § 1 Satz 1. Die die Erlaubnis nach § 1 Satz 1
+betreffenden Vorschriften sind entsprechend anzuwenden.
+
+
+### § 64a Anspruch auf die Wahl einer anderen Berufsbezeichnung
+
+(1) Wer die Voraussetzungen der Erlaubnis zum Führen der
+Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ erfüllt, kann
+statt dieser die Erlaubnis zum Führen der Berufsbezeichnung
+„Pflegefachperson“ beantragen. Die die Erlaubnis nach § 1 betreffenden
+Vorschriften sind entsprechend anzuwenden. Ist eine Urkunde für die
+Erlaubnis zum Führen der Berufsbezeichnung „Pflegefachfrau“ oder
+„Pflegefachmann“ bereits ausgestellt worden, ist diese auf die neue
+Berufsbezeichnung abzuändern.
+
+(2) Wer die Voraussetzungen der Erlaubnis zum Führen der
+Berufsbezeichnung „Altenpflegerin“ oder „Altenpfleger“ erfüllt, kann
+statt dieser die Erlaubnis zum Führen der Berufsbezeichnung
+„Altenpflegefachperson“ beantragen. Die die Erlaubnis nach § 1
+betreffenden Vorschriften sind entsprechend anzuwenden. Ist eine
+Urkunde für die Erlaubnis zum Führen der Berufsbezeichnung
+„Altenpflegerin“ oder „Altenpfleger“ bereits ausgestellt worden, ist
+diese auf die neue Berufsbezeichnung abzuändern.
+
+(3) Wer die Voraussetzungen der Erlaubnis zum Führen der
+Berufsbezeichnung „Gesundheits- und Kinderkrankenpflegerin“ oder
+„Gesundheits- und Kinderkrankenpfleger“ erfüllt, kann statt dieser die
+Erlaubnis zum Führen der Berufsbezeichnung „Gesundheits- und
+Kinderkrankenpflegefachperson“ beantragen. Die die Erlaubnis nach § 1
+betreffenden Vorschriften sind entsprechend anzuwenden. Ist eine
+Urkunde für die Erlaubnis zum Führen der Berufsbezeichnung
+„Gesundheits- und Kinderkrankenpflegerin“ oder „Gesundheits- und
+Kinderkrankenpfleger“ bereits ausgestellt worden, ist diese auf die
+neue Berufsbezeichnung abzuändern.
+
+(4) Wer die Voraussetzungen der Erlaubnis zum Führen der
+Berufsbezeichnung „Gesundheits- und Krankenpflegerin“ oder
+„Gesundheits- und Krankenpfleger“ erfüllt, kann statt dieser die
+Erlaubnis zum Führen der Berufsbezeichnung „Gesundheits- und
+Krankenpflegefachperson“ beantragen. Die die Erlaubnis nach § 1
+betreffenden Vorschriften sind entsprechend anzuwenden. Ist eine
+Urkunde für die Erlaubnis zum Führen der Berufsbezeichnung
+„Gesundheits- und Krankenpflegerin“ oder „Gesundheits- und
+Krankenpfleger“ bereits ausgestellt worden, ist diese auf die neue
+Berufsbezeichnung abzuändern.
 
 
 ### § 65 Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz
@@ -2843,10 +3222,71 @@ am 31. Dezember 2019 geltenden Fassung getroffen werden.
 
 (2) Für Entscheidungen über einen Antrag auf Anerkennung einer in
 einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-erworbenen oder anerkannten abgeschlossenen Berufsausbildung gilt
-Absatz 1 entsprechend, soweit nicht die Voraussetzungen nach § 41
-Absatz 1 erfüllt sind.
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+der Schweiz erworbenen oder anerkannten abgeschlossenen
+Berufsausbildung gilt Absatz 1 entsprechend, soweit nicht die
+Voraussetzungen nach § 41 Absatz 1 erfüllt sind.
+
+
+### § 66b Übergangsvorschriften und Zahlung einer Vergütung für begonnene hochschulische Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+
+(1) Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3
+dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen
+wurde, kann bis zum 31. Dezember 2028 auf dieser Grundlage
+abgeschlossen werden.
+
+(2) Eine studierende Person, die eine hochschulische Pflegeausbildung
+auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023
+geltenden Fassung begonnen hat und gemäß Absatz 1 fortsetzt, hat
+gegenüber der Einrichtung nach § 7 Absatz 1, bei der der überwiegende
+Teil ihrer Praxiseinsätze stattfindet, einen Anspruch auf Abschluss
+eines schriftlichen Vertrages für die sich aus dem akkreditierten
+Studiengangskonzept ergebende weitere Dauer der hochschulischen
+Pflegeausbildung. Durch den Vertrag wird die Einrichtung nach Satz 1
+zur Zahlung einer angemessenen Vergütung an die studierende Person
+verpflichtet.
+
+(3) Der Vertrag nach Absatz 2 muss mindestens Folgendes enthalten:
+
+1.  den Beginn des Vertragsverhältnisses und den Zeitpunkt, zu dem das
+    Vertragsverhältnis endet,
+
+
+2.  Vereinbarungen über Zahlung und Höhe einer angemessenen Vergütung für
+    die gesamte weitere Dauer der hochschulischen Pflegeausbildung
+    einschließlich des Umfangs etwaiger Sachbezüge,
+
+
+3.  die Voraussetzungen, unter denen der Vertrag gekündigt werden kann,
+    einschließlich eines Hinweises auf die Möglichkeit der
+    Vertragsverlängerung entsprechend § 21 Absatz 2,
+
+
+4.  einen in allgemeiner Form gehaltenen Hinweis auf die dem Vertrag
+    gegebenenfalls zugrunde liegenden tariflichen Bestimmungen, Betriebs-
+    oder Dienstvereinbarungen.
+
+
+
+§ 16 Absatz 3 bis 5, § 17, auch in Verbindung mit § 37 Absatz 3, § 19
+Absatz 2 und 3 sowie die §§ 21 bis 25 gelten entsprechend. Studierende
+Personen nach Absatz 2 stehen den zur Berufsausbildung Beschäftigten
+im Sinne sozialversicherungsrechtlicher Bestimmungen gleich.
+
+(4) Die durch die Zahlung einer nach Absatz 2 Satz 2 vertraglich
+vereinbarten Vergütung entstehenden Kosten der Einrichtung nach § 7
+Absatz 1, bei der der überwiegende Teil der Praxiseinsätze der
+studierenden Person stattfindet, werden im Finanzierungsverfahren nach
+§ 39a berücksichtigt.
+
+
+### § 66c Überleitung von begonnenen hochschulischen Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+
+Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3
+dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+begonnener hochschulischer Pflegeausbildungen in eine hochschulische
+Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der
+geltenden Fassung bleibt unberührt. Das Nähere regeln die Länder.
 
 
 ### § 67 Kooperationen von Hochschulen und Pflegeschulen
@@ -2889,654 +3329,4 @@ einer umfassenden Evaluierung der hochschulischen Ausbildung.
 das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember
 2025 die Wirkungen des Teils 2 Abschnitt 3 auf wissenschaftlicher
 Grundlage.
-
-
-### Anlage (zu § 41 Absatz 1 Satz 1)
-
-(Fundstelle: BGBl. I 2017, 2606 - 2610)
-
-
-*    *   Land
-
-    *   Ausbildungsnachweis
-
-    *   Ausstellende Stelle
-
-    *   Berufsbezeichnung
-
-    *   Stichtag
-
-
-*    *   Belgi*                       /
-        Belgique/
-        Belgien
-
-    *   –
-        Diploma gegradueerde
-        verpleger/verpleegster/
-        Diplôme d‘infirmier(ère)
-        gradué(e)/Diplom eines (einer) graduierten Krankenpflegers
-        (-pflegerin)
-        –
-        Diploma in de ziekenhuis-
-        verpleegkunde/
-        Brevet d‘infirmier(ère)
-        hospitalier(ère)/Brevet
-        eines (einer) Krankenpflegers (-pflegerin)
-        –
-        Brevet van verpleeg-
-        assistent(e)/Brevet
-        d‘hospitalier(ère)/
-        Brevet einer Pflegeassistentin
-
-    *   –
-        De erkende opleidingsinstituten/Les
-        établissements
-        d‘enseignement
-        reconnus/Die anerkannten Ausbildungsanstalten
-        –
-        De bevoegde
-        Examencommissie
-        van de Vlaamse
-        Gemeenschap/Le Jury compétent d‘enseignement de la Communauté
-        française/Die zuständigen Prüfungsausschüsse der Deutschsprachigen
-        Gemeinschaft
-
-    *   –
-        Hospitalier(ère)/
-        Verpleegassistent(e)
-        –
-        Infirmier(ère)
-        hospitalier(ère)/Ziekenhuisverpleger (-verpleegster)
-
-    *   29. Juni 1979
-
-
-*    *   *
-
-    *   *
-        *
-        *
-        *
-
-    *   *
-
-    *   *
-
-    *   1. Januar 2007
-
-
-*    *   *                       eská republika
-
-    *   –
-        1\. Diplom o ukon*                       ení studia ve studijním
-        programu
-        o*                       et*                       ovatelství ve
-        studijním oboru všeobecná sestra
-        (bakalá*                       , Bc.), zusammen mit folgender
-        Bescheinigung: Vysv d*                       ení o státní záv re*
-        né zkoušce
-        –
-        2\. Diplom o ukon*                       ení studia ve studijním oboru
-        diplomovaná všeobecná
-        sestra (diplomovaný
-        specialista, DiS.),
-        zusammen mit folgender Bescheinigung: Vysv d*
-        ení o absolutoriu
-
-    *   1.
-        Vysoká škola z*                       ízená
-        nebo uznaná státem
-        2\.
-        Vyšší odborná škola
-        z*                       ízená nebo uznaná
-        státem
-
-    *   1.
-        Všeobecná sestra
-        2\.
-        Všeobecný ošet*                       ovatel
-
-    *   1. Mai 2004
-
-
-*    *   Danmark
-
-    *   Eksamensbevis efter gennemført sygeplejerskeuddannelse
-
-    *   Sygeplejeskole godkendt af Undervisningsministeriet
-
-    *   Sygeplejerske
-
-    *   29. Juni 1979
-
-
-*    *   Eesti
-
-    *   Diplom õe erialal
-
-    *   1.
-        Tallinna Meditsiinikool
-        2\.
-        Tartu Meditsiinikool
-        3\.
-        Kohtla-Järve
-        Meditsiinikool
-
-    *   õde
-
-    *   1. Mai 2004
-
-
-*    *   *
-
-    *   1.
-        *
-        *
-        2\.
-        *
-        *
-        *
-        *                        (T.E.I)
-        3\.
-        *
-        *
-        4\.
-        *
-        *
-        *
-        *
-        *
-        5\.
-        *
-        *
-        *
-        *
-        *
-        *
-        *
-        6\.
-        *
-        *
-
-    *   1.
-        *
-        2\.
-        *
-        *
-        *
-        *
-        *
-        3\.
-        *
-        *
-        4\.
-        *
-        *
-        5\.
-        *
-        *
-        6\.
-        *
-        *
-        *
-
-    *   *
-        *
-
-    *   1. Januar 1981
-
-
-*    *   España
-
-    *   Título de Diplomado
-        universitario en Enfermería
-
-    *   –
-        Ministerio de Educación y
-        Cultura
-        –
-        El rector de una universidad
-
-    *   Enfermero/a
-        diplomado/a
-
-    *   1. Januar 1986
-
-
-*    *   France
-
-    *   –
-        Diplôme d‘Etat
-        d‘infirmier(ère)
-        –
-        Diplôme d‘Etat
-        d‘infirmier(ère)
-        délivré en vertu du décret no 99-1147
-        du 29 décembre 1999
-
-    *   Le ministère de la santé
-
-    *   Infirmier(ère)
-
-    *   29. Juni 1979
-
-
-*    *   Hrvatska
-
-    *   1.
-        Svjedodžba
-        „medicinska sestra
-        op*                       e njege/medicinski
-        tehni*                       ar op*                       e njege“
-        2\.
-        Svjedodžba
-        „prvostupnik
-        (baccalaureus)
-        sestrinstva/
-        prvostupnica
-        (baccalaurea)
-        sestrinstva“
-
-    *   1.
-        Srednje strukovne škole koje izvode program za stjecanje kvalifikacije
-        „medicinska sestra op*                       e njege/medicinski tehni*
-        ar op*                       e njege“
-        2\.
-        Medicinski fakulteti sveu*                       ilišta u Republici
-        Hrvatskoj Sveu*                       ilišta u Republici Hrvatskoj
-        Veleu*                       ilišta u Republici Hrvatskoj
-
-    *   1.
-        medicinska
-        sestra op*                       e
-        njege/
-        medicinski
-        tehni*                       ar
-        op*                       e njege
-        2\.
-        prvostupnik
-        (
-        baccalaureus                       )
-        sestrinstva/
-        prvostupnica
-        (
-        baccalaurea                       )
-        sestrinstva
-
-    *   1. Juli 2013
-
-
-*    *   Ireland
-
-    *   Certificate of Registered
-        General Nurse
-
-    *   An Bord Altranais
-        (The Nursing Board)
-
-    *   Registered General Nurse
-
-    *   29. Juni 1979
-
-
-*    *   Italia
-
-    *   Diploma di infermiere
-        professionale
-
-    *   Scuole riconosciute dallo Stato
-
-    *   Infermiere professionale
-
-    *   29. Juni 1979
-
-
-*    *   *
-
-    *   *
-
-    *   *
-
-    *   *
-        *
-
-    *   1. Mai 2004
-
-
-*    *   Latvija
-
-    *   1.
-        Diploms par m*                       sas
-        kvalifik*                       cijas ieg*                       šanu
-        2\.
-        M*                       sas diploms
-
-    *   1.
-        M*                       su skolas
-        2\.
-        Universit*                       tes tipa
-        augstskola
-        pamatojoties uz
-        Valsts eks*                       menu
-        komisijas l*                       mumu
-
-    *   M*                       sa
-
-    *   1. Mai 2004
-
-
-*    *   Lietuva
-
-    *   1.
-        Aukštojo mokslo diplomas,
-        nurodantis suteikt*
-        bendrosios praktikos
-        slaugytojo profesin*
-        kvalifikacij*
-        2\.
-        Aukštojo mokslo diplomas
-        (neuniversitetin*                       s studijos),
-        nurodantis suteikt*
-        bendrosios praktikos
-        slaugytojo profesin*
-        kvalifikacij*
-
-    *   1.
-        Universitetas
-        2\.
-        Kolegija
-
-    *   Bendrosios praktikos
-        slaugytojas
-
-    *   1. Mai 2004
-
-
-*    *   Luxembourg
-
-    *   –
-        Diplôme d‘Etat infirmier
-        –
-        Diplôme d‘Etat infirmier
-        hospitalier gradué
-
-    *   Ministère de l‘éducation nationale, de la formation professionnelle et
-        des sports
-
-    *   Infirmier
-
-    *   29. Juni 1979
-
-
-*    *   Magyarország
-
-    *   1.
-        Ápoló bizonyítvány
-        2\.
-        Diplomás ápoló oklevél
-        3\.
-        Egyetemi okleveles ápoló oklevél
-
-    *   1.
-        Iskola
-        2\.
-        Egyetem/f*                       iskola
-        3\.
-        Egyetem
-
-    *   Ápoló
-
-    *   1. Mai 2004
-
-
-*    *   Malta
-
-    *   Lawrja jew diploma
-        fl-istudji tal-infermerija
-
-    *   Universita‘ ta‘ Malta
-
-    *   Infermier Registrat
-        tal-Ewwel Livell
-
-    *   1. Mai 2004
-
-
-*    *   Nederland
-
-    *   1.
-        Diploma‘s verpleger A,
-        verpleegster A,
-        verpleegkundige A
-        2\.
-        Diploma verpleegkundige
-        MBOV (Middelbare
-        Beroepsopleiding
-        Verpleegkundige)
-        3\.
-        Diploma verpleegkundige
-        HBOV
-        (Hogere Beroepsopleiding Verpleegkundige)
-        4\.
-        Diploma beroepsonderwijs
-        verpleegkundige –
-        Kwalificatieniveau 4
-
-    *   1.
-        Door een van
-        overheidswege
-        benoemde
-        examencommissie
-        2\.
-        Door een van
-        overheidswege
-        benoemde
-        examencommissie
-        3\.
-        Door een van
-        overheidswege
-        benoemde
-        examencommissie
-        4\.
-        Door een van
-        overheidswege
-        aangewezen
-        opleidingsinstelling
-
-    *   Verpleegkundige
-
-    *   29. Juni 1979
-
-
-*    *
-    *   5.
-        Diploma hogere
-        beroepsopleiding
-        verpleegkundige –
-        Kwalificatieniveau 5
-
-    *   5.
-        Door een van
-        overheidswege
-        aangewezen
-        opleidingsinstelling
-
-    *
-    *
-
-*    *   Österreich
-
-    *   1.
-        Diplom als „Diplomierte Gesundheits- und Krankenschwester,
-        Diplomierter Gesundheits- und Krankenpfleger“
-        2\.
-        Diplom als „Diplomierte Krankenschwester,
-        Diplomierter Krankenpfleger“
-
-    *   1.
-        Schule für allgemeine Gesundheits- und Krankenpflege
-        2\.
-        Allgemeine Krankenpflegeschule
-
-    *   –
-        Diplomierte Krankenschwester
-        –
-        Diplomierter Kranken- pfleger
-
-    *   1. Januar 1994
-
-
-*    *   Polska
-
-    *   Dyplom uko*                       czenia studiów wy*
-        szych na kierunku
-        piel*                       gniarstwo z tytułem „magister piel*
-        gniarstwa“
-
-    *   Instytucja prowadz*                       ca kształcenie na poziomie
-        wy*                       szym uznana przez włašciwe władze
-        (von den zuständigen Behörden anerkannte höhere Bildungseinrichtung)
-
-    *   Pielegniarka
-
-    *   1. Mai 2004
-
-
-*    *   Portugal
-
-    *   1.
-        Diploma do curso do enfermagem geral
-        2\.
-        Diploma/carta de curso de bacharelato em enfermagem
-        3\.
-        Carta de curso de licenciatura em enfermagem
-
-    *   1.
-        Escolas de
-        Enfermagem
-        2\.
-        Escolas Superiores de Enfermagem
-        3\.
-        Escolas Superiores de Enfermagem; Escolas
-        Superiores de Saúde
-
-    *   Enfermeiro
-
-    *   1. Januar 1986
-
-
-*    *   România
-
-    *   1.
-        Diplom*                        de absolvire de asistent medical
-        generalist cu studii superioare de scurt*
-        durat*
-        2\.
-        Diplom*                        de licen*                        de
-        asistent medical generalist cu studii superioare de lung*
-        durat*
-
-    *   1.
-        Universit*                       i
-        2\.
-        Universit*                       i
-
-    *   asistent medical generalist
-
-    *   1. Januar 2007
-
-
-*    *   Slovenija
-
-    *   Diploma, s katero se podeljuje strokovni naslov „diplomirana
-        medicinska sestra/diplomirani zdravstvenik“
-
-    *   1.
-        Univerza
-        2\.
-        Visoka strokovna šola
-
-    *   Diplomirana medicinska sestra/
-        Diplomirani zdravstvenik
-
-    *   1. Mai 2004
-
-
-*    *   Slovensko
-
-    *   1.
-        Vysokoškolský diplom o udelení akademického titulu „magister z
-        ošetrovatel'stva“ („Mgr.“)
-        2\.
-        Vysokoškolský diplom o udelení akademického titulu „bakalár z ošetro-
-        vatel'stva“ („Bc.“)
-        3\.
-        Absolventský diplom v študijnom odbore diplomovaná všeobecná sestra
-
-    *   1.
-        Vysoká škola
-        2\.
-        Vysoká škola
-        3\.
-        Stredná zdravotnícka škola
-
-    *   Sestra
-
-    *   1. Mai 2004
-
-
-*    *   Suomi/Finland
-
-    *   1.
-        Sairaanhoitajan tutkinto/Sjukskötarexamen
-        2\.
-        Sosiaali- ja terveysalan ammattikorkeakoulu-
-        tutkinto, sairaanhoitaja (AMK)/Yrkeshögskole-
-        examen inom hälsovård och det sociala området, sjukskötare (YH)
-
-    *   1.
-        Terveydenhuoltooppilaitokset/
-        Hälsovårdsläroanstalter
-        2\.
-        Ammattikorkeakoulut/
-        Yrkeshögskolor
-
-    *   Sairaanhoitaja/
-        Sjukskötare
-
-    *   1. Januar 1994
-
-
-*    *   Sverige
-
-    *   Sjuksköterskeexamen
-
-    *   Universitet eller högskola
-
-    *   Sjuksköterska
-
-    *   1. Januar 1994
-
-
-*    *   United
-        Kingdom
-
-    *   Statement of Registration as a Registered General Nurse in part 1 or
-        part 12 of the register kept by the United Kingdom Central Council for
-        Nursing,
-        Midwifery and Health
-        Visiting
-
-    *   Various
-
-    *   –
-        State Registered Nurse
-        –
-        Registered General Nurse
-
-    *   29. Juni 1979
-
-
-
 

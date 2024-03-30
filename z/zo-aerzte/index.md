@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 572, 608
 
 Zuletzt geändert durch
-:   Art. 12 G v. 11.7.2021 I 2754
+:   Art. 6 G v. 22.3.2024 I Nr. 101
 
 
 ## Eingangsformel
@@ -825,6 +825,11 @@ Zulassungsausschusses wechseln.
 Verlegung seines Vertragsarztsitzes nur genehmigen, wenn Gründe der
 vertragsärztlichen Versorgung dem nicht entgegenstehen. Entsprechendes
 gilt für die Verlegung einer genehmigten Anstellung.
+
+(8) Die vertragsärztliche Tätigkeit darf in Form von
+Videosprechstunden außerhalb des Vertragsarztsitzes erbracht werden,
+sofern der Vertragsarzt seiner Verpflichtung nach § 19a Absatz 1 Satz
+2 und 3 am Ort des Vertragsarztsitzes nachkommt.
 
 
 ### § 25

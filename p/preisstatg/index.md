@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1958, 605
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.12.2022 I 2727
+:   Art. 3 G v. 17.1.2024 I Nr. 13
 
 
 ## § 1
@@ -352,7 +352,7 @@ Gesellschaften können sich auf die Befreiung von der Auskunftspflicht
 berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer
 sind.
 
-(6) Existenzgründer im Sinne von Absatz 4 sind natürliche Personen,
+(6) Existenzgründer im Sinne von Absatz 5 sind natürliche Personen,
 die eine gewerbliche oder freiberufliche Tätigkeit in Form einer
 Neugründung, einer Übernahme oder einer tätigen Beteiligung aus
 abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus

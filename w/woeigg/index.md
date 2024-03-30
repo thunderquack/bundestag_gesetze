@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.1.2021 I 34
 
 Geändert durch
-:   Art. 7 G v. 7.11.2022 I 1982
+:   Art. 34 Abs. 15 G v. 22.12.2023 I Nr. 411
 
 
 ## Teil 1 - Wohnungseigentum
@@ -268,13 +268,14 @@ Verhältnis seines Miteigentumsanteils (§ 16 Absatz 1 Satz 2) für
 Verbindlichkeiten der Gemeinschaft der Wohnungseigentümer, die während
 seiner Zugehörigkeit entstanden oder während dieses Zeitraums fällig
 geworden sind; für die Haftung nach Veräußerung des Wohnungseigentums
-ist § 160 des Handelsgesetzbuchs entsprechend anzuwenden. Er kann
-gegenüber einem Gläubiger neben den in seiner Person begründeten auch
-die der Gemeinschaft der Wohnungseigentümer zustehenden Einwendungen
-und Einreden geltend machen, nicht aber seine Einwendungen und
-Einreden gegenüber der Gemeinschaft der Wohnungseigentümer. Für die
-Einrede der Anfechtbarkeit und Aufrechenbarkeit ist § 770 des
-Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
+ist § 728b des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Er
+kann gegenüber einem Gläubiger neben den in seiner Person begründeten
+auch die der Gemeinschaft der Wohnungseigentümer zustehenden
+Einwendungen und Einreden geltend machen, nicht aber seine
+Einwendungen und Einreden gegenüber der Gemeinschaft der
+Wohnungseigentümer. Für die Einrede der Anfechtbarkeit und
+Aufrechenbarkeit ist § 770 des Bürgerlichen Gesetzbuchs entsprechend
+anzuwenden.
 
 (5) Ein Insolvenzverfahren über das Gemeinschaftsvermögen findet nicht
 statt.

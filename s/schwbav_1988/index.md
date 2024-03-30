@@ -59,8 +59,7 @@ Leistungen:
     (Einheitliche Ansprechstellen für Arbeitgeber),
 
 
-3.  Leistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen
-    am Arbeitsleben,
+3.  (weggefallen)
 
 
 4.  Leistungen zur Durchführung von Forschungs- und Modellvorhaben auf dem
@@ -70,19 +69,11 @@ Leistungen:
     dem Ausgleichsfonds nicht erbracht werden konnten,
 
 
-5.  Maßnahmen der beruflichen Orientierung,
+5.  Maßnahmen der beruflichen Orientierung und
 
 
 6.  Leistungen zur Deckung eines Teils der Aufwendungen für ein Budget für
-    Arbeit oder für ein Budget für Ausbildung und
-
-
-7.  Leistungen an Werkstätten für behinderte Menschen und an andere
-    Leistungsanbieter im Sinne des § 60 des Neunten Buches
-    Sozialgesetzbuch zur Kompensation der aufgrund der COVID-19-Pandemie
-    gesunkenen Arbeitsentgelte der dort beschäftigten Menschen mit
-    Behinderungen, soweit nach § 36 Satz 4 zusätzliche Mittel der
-    Ausgleichsabgabe zur Verfügung stehen.
+    Arbeit oder für ein Budget für Ausbildung.
 
 
 
@@ -91,7 +82,8 @@ Leistungen:
 nach Absatz 1 Nr. 1 und 2 zu verwenden.
 
 (3) Die Integrationsämter können sich an der Förderung von Vorhaben
-nach § 41 Abs. 1 Nr. 3 bis 6 durch den Ausgleichsfonds beteiligen.
+nach § 41 Absatz 1 Nummer 4 bis 6 durch den Ausgleichsfonds
+beteiligen.
 
 
 ### 1. Unterabschnitt - Leistungen zur Förderung des Arbeits- und Ausbildungsplatzangebots für schwerbehinderte Menschen
@@ -640,218 +632,28 @@ Eingliederungshilfen sowie Nachteilsausgleiche nach dem Neunten Buch
 Sozialgesetzbuch und anderen Vorschriften.
 
 
-### 3. Unterabschnitt - Leistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben
+### 3. Unterabschnitt - (weggefallen)
 
 
 
-#### § 30 Förderungsfähige Einrichtungen
+#### § 30 (weggefallen)
 
-(1) Leistungen können für die Schaffung, Erweiterung, Ausstattung und
-Modernisierung folgender Einrichtungen erbracht werden:
 
-1.  betriebliche, überbetriebliche und außerbetriebliche Einrichtungen zur
-    Vorbereitung von behinderten Menschen auf eine berufliche Bildung oder
-    die Teilhabe am Arbeitsleben,
 
+#### § 31 (weggefallen)
 
-2.  betriebliche, überbetriebliche und außerbetriebliche Einrichtungen zur
-    beruflichen Bildung behinderter Menschen,
 
 
-3.  Einrichtungen, soweit sie während der Durchführung von Leistungen zur
-    medizinischen Rehabilitation behinderte Menschen auf eine berufliche
-    Bildung oder die Teilhabe am Arbeitsleben vorbereiten,
+#### § 32 (weggefallen)
 
 
-4.  Werkstätten für behinderte Menschen im Sinne des § 219 des Neunten
-    Buches Sozialgesetzbuch,
 
+#### § 33 (weggefallen)
 
-5.  Blindenwerkstätten mit einer Anerkennung auf Grund des
-    Blindenwarenvertriebsgesetzes vom 9. April 1965 (BGBl. I S. 311) in
-    der bis zum 13. September 2007 geltenden Fassung,
 
 
-6.  Wohnstätten für behinderte Menschen, die auf dem allgemeinen
-    Arbeitsmarkt, in Werkstätten für behinderte Menschen oder in
-    Blindenwerkstätten tätig sind.
+#### § 34 (weggefallen)
 
-
-7.  (weggefallen)
-
-
-
-Zur länderübergreifenden Bedarfsbeurteilung wird das Bundesministerium
-für Arbeit und Soziales bei der Planung neuer oder Erweiterung
-bestehender Einrichtungen nach Satz 1 Nr. 4 bis 6 beteiligt.
-
-(2) Öffentliche oder gemeinnützige Träger eines besonderen
-Beförderungsdienstes für behinderte Menschen können Leistungen zur
-Beschaffung und behinderungsgerechten Ausstattung von Kraftfahrzeugen
-erhalten. Die Höhe der Leistung bestimmt sich nach dem Umfang, in dem
-der besondere Beförderungsdienst für Fahrten schwerbehinderter
-Menschen von und zur Arbeitsstätte benutzt wird.
-
-(3) Leistungen zur Deckung von Kosten des laufenden Betriebs dürfen
-nur ausnahmsweise erbracht werden, wenn hierdurch der Verlust
-bestehender Beschäftigungsmöglichkeiten für behinderte Menschen
-abgewendet werden kann. Für Einrichtungen nach Absatz 1 Nr. 4 bis 6
-sind auch Leistungen zur Deckung eines Miet- oder Pachtzinses
-zulässig.
-
-
-#### § 31 Förderungsvoraussetzungen
-
-(1) Die Einrichtungen im Sinne des § 30 Abs. 1 können gefördert
-werden, wenn sie
-
-1.  ausschließlich oder überwiegend behinderte Menschen aufnehmen, die
-    Leistungen eines Rehabilitationsträgers in Anspruch nehmen,
-
-
-2.  behinderten Menschen unabhängig von der Ursache der Behinderung und
-    unabhängig von der Mitgliedschaft in der Organisation des Trägers der
-    Einrichtung offenstehen und
-
-
-3.  nach ihrer personellen, räumlichen und sächlichen Ausstattung die
-    Gewähr dafür bieten, daß die Rehabilitationsmaßnahmen nach zeitgemäßen
-    Erkenntnissen durchgeführt werden und einer dauerhaften Teilhabe am
-    Arbeitsleben dienen.
-
-
-
-
-(2) Darüber hinaus setzt die Förderung voraus bei
-
-1.  Einrichtungen im Sinne des § 30 Abs. 1 Nr. 1:
-
-    Die in diesen Einrichtungen durchzuführenden Maßnahmen sollen den
-    individuellen Belangen der behinderten Menschen Rechnung tragen und
-    sowohl eine werkspraktische wie fachtheoretische Unterweisung
-    umfassen. Eine begleitende Betreuung entsprechend den Bedürfnissen der
-    behinderten Menschen muß sichergestellt sein. Maßnahmen zur
-    Vorbereitung auf eine berufliche Bildung sollen sich auf mehrere
-    Berufsfelder erstrecken und Aufschluß über Neigung und Eignung der
-    behinderten Menschen geben.
-
-
-2.  Einrichtungen im Sinne des § 30 Abs. 1 Nr. 2:
-
-    a)  Die Eignungsvoraussetzungen nach den §§ 27 bis 30 des
-        Berufsbildungsgesetzes oder nach den §§ 21 bis 22b der
-        Handwerksordnung zur Ausbildung in anerkannten Ausbildungsberufen
-        müssen erfüllt sein. Dies gilt auch für Ausbildungsgänge, die nach §
-        66 des Berufsbildungsgesetzes oder nach § 42m der Handwerksordnung
-        durchgeführt werden.
-
-
-    b)  Außer- oder überbetriebliche Einrichtungen sollen unter Einbeziehung
-        von Plätzen für berufsvorbereitende Maßnahmen über in der Regel
-        mindestens 200 Plätze für die berufliche Bildung in mehreren
-        Berufsfeldern verfügen. Sie müssen in der Lage sein, behinderte
-        Menschen mit besonderer Art oder Schwere der Behinderung beruflich zu
-        bilden. Sie müssen über die erforderliche Zahl von Ausbildern und die
-        personellen und sächlichen Voraussetzungen für eine begleitende
-        ärztliche, psychologische und soziale Betreuung entsprechend den
-        Bedürfnissen der behinderten Menschen verfügen. Bei Unterbringung im
-        Internat muß die behinderungsgerechte Betreuung sichergestellt sein.
-        Die Einrichtungen sind zur vertrauensvollen Zusammenarbeit
-        insbesondere untereinander und mit den für die Rehabilitation
-        zuständigen Behörden verpflichtet.
-
-
-
-
-
-3.  Einrichtungen im Sinne des § 30 Abs. 1 Nr. 3:
-
-    Die in diesen Einrichtungen in einem ineinandergreifenden Verfahren
-    durchzuführenden Leistungen zur medizinischen Rehabilitation und zur
-    Teilhabe am Arbeitsleben müssen entsprechend den individuellen
-    Gegebenheiten so ausgerichtet sein, daß nach Abschluß dieser Maßnahmen
-    ein möglichst nahtloser Übergang in eine berufliche Bildungsmaßnahme
-    oder in das Arbeitsleben gewährleistet ist. Für die Durchführung der
-    Maßnahmen müssen besondere Fachdienste zur Verfügung stehen.
-
-
-4.  Werkstätten für behinderte Menschen im Sinne des § 30 Abs. 1 Nr. 4:
-
-    Sie müssen gemäß § 225 des Neunten Buches Sozialgesetzbuch anerkannt
-    sein oder voraussichtlich anerkannt werden.
-
-
-5.  Blindenwerkstätten im Sinne des § 30 Abs. 1 Nr. 5:
-
-    Sie müssen auf Grund des Blindenwarenvertriebsgesetzes anerkannt sein.
-
-
-6.  Wohnstätten im Sinne des § 30 Abs. 1 Nr. 6:
-
-    Sie müssen hinsichtlich ihrer baulichen Gestaltung,
-    Wohnflächenbemessung und Ausstattung den besonderen Bedürfnissen der
-    behinderten Menschen entsprechen. Die Aufnahme auch von behinderten
-    Menschen, die nicht im Arbeitsleben stehen, schließt eine Förderung
-    entsprechend dem Anteil der im Arbeitsleben stehenden
-    schwerbehinderten Menschen nicht aus. Der Verbleib von
-    schwerbehinderten Menschen, die nicht mehr im Arbeitsleben stehen,
-    insbesondere von schwerbehinderten Menschen nach dem Ausscheiden aus
-    einer Werkstatt für behinderte Menschen, beeinträchtigt nicht die
-    zweckentsprechende Verwendung der eingesetzten Mittel.
-
-
-7.  (weggefallen)
-
-
-
-
-
-#### § 32 Förderungsgrundsätze
-
-(1) Leistungen sollen nur erbracht werden, wenn sich der Träger der
-Einrichtung in einem angemessenen Verhältnis an den Gesamtkosten
-beteiligt und alle anderen Finanzierungsmöglichkeiten aus Mitteln der
-öffentlichen Hände und aus privaten Mitteln in zumutbarer Weise in
-Anspruch genommen worden sind.
-
-(2) Leistungen dürfen nur erbracht werden, soweit Leistungen für
-denselben Zweck nicht von anderer Seite zu erbringen sind oder
-erbracht werden. Werden Einrichtungen aus Haushaltsmitteln des Bundes
-oder anderer öffentlicher Hände gefördert, ist eine Förderung aus
-Mitteln der Ausgleichsabgabe nur zulässig, wenn der Förderungszweck
-sonst nicht erreicht werden kann.
-
-(3) Leistungen können nur erbracht werden, wenn ein Bedarf an
-entsprechenden Einrichtungen festgestellt und die Deckung der Kosten
-des laufenden Betriebs gesichert ist.
-
-(4) Eine Nachfinanzierung aus Mitteln der Ausgleichsabgabe ist nur
-zulässig, wenn eine Förderung durch die gleiche Stelle vorangegangen
-ist.
-
-
-#### § 33 Art und Höhe der Leistungen
-
-(1) Leistungen können als Zuschüsse oder Darlehen erbracht werden.
-Zuschüsse sind auch Zinszuschüsse zur Verbilligung von Fremdmitteln.
-
-(2) Art und Höhe der Leistung bestimmen sich nach den Umständen des
-Einzelfalls, insbesondere nach dem Anteil der schwerbehinderten
-Menschen an der Gesamtzahl des aufzunehmenden Personenkreises, nach
-der wirtschaftlichen Situation der Einrichtung und ihres Trägers sowie
-nach Bedeutung und Dringlichkeit der beabsichtigten
-Rehabilitationsmaßnahmen.
-
-
-#### § 34 Tilgung und Verzinsung von Darlehen
-
-(1) Darlehen nach § 33 sollen jährlich mit 2 vom Hundert getilgt und
-mit 2 vom Hundert verzinst werden; bei Ausstattungsinvestitionen
-beträgt die Tilgung 10 vom Hundert. Die durch die fortschreitende
-Tilgung ersparten Zinsen wachsen den Tilgungsbeträgen zu.
-
-(2) Von der Tilgung und Verzinsung von Darlehen kann bis zum Ablauf
-von zwei Jahren nach Inbetriebnahme abgesehen werden.
 
 
 ## Dritter Abschnitt - Ausgleichsfonds
@@ -997,11 +799,7 @@ verzinslich anzulegen.
     Ausbildungsplatzangebots für schwerbehinderte Menschen,
 
 
-3.  Einrichtungen nach § 30 Abs. 1 Nr. 1 bis 3, soweit sie den Interessen
-    mehrerer Länder dienen; Einrichtungen dienen den Interessen mehrerer
-    Länder auch dann, wenn sie Bestandteil eines abgestimmten Plans sind,
-    der ein länderübergreifendes Netz derartiger Einrichtungen zum
-    Gegenstand hat,
+3.  (weggefallen)
 
 
 4.  überregionale Modellvorhaben zur Weiterentwicklung der Förderung der
@@ -1029,7 +827,7 @@ Modellvorhaben durch die Integrationsämter nach § 14 Abs. 1 Nr. 4
 beteiligen, sofern diese Vorhaben auch für andere Länder oder den Bund
 von Bedeutung sein können.
 
-(4) Die §§ 31 bis 34 gelten entsprechend.
+(4) (weggefallen)
 
 
 ### 3. Unterabschnitt - Verfahren zur Vergabe der Mittel des Ausgleichsfonds
@@ -1039,12 +837,9 @@ von Bedeutung sein können.
 #### § 42 Anmeldeverfahren und Anträge
 
 Leistungen aus dem Ausgleichsfonds sind vom Träger der Maßnahme beim
-Bundesministerium für Arbeit und Soziales zu beantragen, in den Fällen
-des § 41 Abs. 1 Nr. 3 nach vorheriger Abstimmung mit dem Land, in dem
-der Integrationsbetrieb oder die Integrationsabteilung oder die
-Einrichtung ihren Sitz hat oder haben soll. Das Bundesministerium für
-Arbeit und Soziales leitet die Anträge mit seiner Stellungnahme dem
-Beirat zu.
+Bundesministerium für Arbeit und Soziales zu beantragen. Das
+Bundesministerium für Arbeit und Soziales leitet die Anträge mit
+seiner Stellungnahme dem Beirat zu.
 
 
 #### § 43 Vorschlagsrecht des Beirats
@@ -1079,18 +874,12 @@ entsprechend.
 
 
 
-### § 46 Übergangsregelungen
+### § 46 Übergangsvorschrift
 
-Abweichend von § 41 können Mittel des Ausgleichsfonds verwendet werden
-zur Förderung von Inklusionsbetrieben und -abteilungen nach Kapitel 11
-des Teils 3 des Neunten Buches Sozialgesetzbuch, die nicht von
-öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 des Neunten
-Buches Sozialgesetzbuch geführt werden, soweit die Förderung bis zum
-31\. Dezember 2003 bewilligt worden ist, sowie für die Förderung von
-Einrichtungen nach § 30 Absatz 1 Satz 1 Nummer 4 bis 6, soweit
-Leistungen als Zinszuschüsse oder Zuschüsse zur Deckung eines Miet-
-oder Pachtzinses für bis zum 31. Dezember 2004 bewilligte Projekte
-erbracht werden.
+Leistungen zur Förderung von Einrichtungen, die vor dem 1. Januar 2024
+beantragt worden sind, können weiter erbracht werden. Die §§ 30 bis 34
+und 41 Absatz 4 in der bis zum 31. Dezember 2023 geltenden Fassung
+sind auf diese Leistungen weiter anzuwenden.
 
 
 ### § 47 Inkrafttreten, Außerkrafttreten

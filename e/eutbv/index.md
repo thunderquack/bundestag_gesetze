@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1796
 
+Geändert durch
+:   Art. 1 V v. 23.2.2024 I Nr. 63
+
 
 ## Eingangsformel
 
@@ -354,7 +357,7 @@ Arbeitszeit von 39 Stunden.
 ## § 4 Gegenstand und Höhe des Zuschusses pro Vollzeitäquivalent
 
 Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf
-jährlich 95 000 Euro pro Vollzeitäquivalent begrenzt.
+jährlich 110 000 Euro pro Vollzeitäquivalent begrenzt.
 
 
 ## § 5 Personalausgaben

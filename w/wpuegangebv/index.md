@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 4263
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.9.2022 I 1603
+:   Art. 9 G v. 11.12.2023 I Nr. 354
 
 
 ## Eingangsformel
@@ -322,7 +322,7 @@ Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach §
 Abgabe eines Angebots nach § 35 Abs. 2 Satz 1 des Wertpapiererwerbs-
 und Übernahmegesetzes ist vom Bieter bei der Bundesanstalt zu stellen.
 Der Antrag kann vor Erlangung der Kontrolle über die Zielgesellschaft
-und innerhalb von sieben Kalendertagen nach dem Zeitpunkt gestellt
+und innerhalb von sieben Arbeitstagen nach dem Zeitpunkt gestellt
 werden, zu dem der Bieter Kenntnis davon hat oder nach den Umständen
 haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt
 hat.

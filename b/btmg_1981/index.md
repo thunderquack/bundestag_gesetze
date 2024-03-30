@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 26.7.2023 I Nr. 204
 
+Änderung durch
+:   Art. 3 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 
@@ -331,7 +334,7 @@ Anzeigen, soweit sie tierärztliche Hausapotheken betreffen.
 
 3.  Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit
     des Verantwortlichen, des Antragstellers, seines gesetzlichen
-    Vertreters oder bei juristischen Personen oder nicht rechtsfähigen
+    Vertreters oder bei juristischen Personen oder sonstigen
     Personenvereinigungen der nach Gesetz, Satzung oder
     Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
     ergeben,
@@ -1388,7 +1391,7 @@ Medizinprodukte unverzüglich.
     Zubereitungen von Bedeutung sein können,
 
 
-2.  von natürlichen und juristischen Personen und nicht rechtsfähigen
+2.  von natürlichen und juristischen Personen und sonstigen
     Personenvereinigungen alle erforderlichen Auskünfte zu verlangen,
 
 

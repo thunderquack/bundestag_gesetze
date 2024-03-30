@@ -89,11 +89,11 @@ Bundesrepublik Deutschland.
     im Gebiet der Bundesrepublik Deutschland,
 
 
-3.  juristischen Personen oder nichtrechtsfähigen Personenvereinigungen
-    mit Sitz im Gebiet der Bundesrepublik Deutschland,
+3.  juristischen Personen oder sonstigen Personenvereinigungen mit Sitz im
+    Gebiet der Bundesrepublik Deutschland,
 
 
-4.  ausländischen juristischen Personen oder nichtrechtsfähigen
+4.  ausländischen juristischen Personen oder sonstigen
     Personenvereinigungen
 
 

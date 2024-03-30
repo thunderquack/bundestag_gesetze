@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3243
 
+Geändert durch
+:   § 6 Satz 2 AnO v. 26.2.2024 I Nr. 73
+
 
 ## Eingangsformel
 

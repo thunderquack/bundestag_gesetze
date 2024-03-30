@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.4.1972 I 713;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 25.6.2021 I 2154
+:   Art. 2 G v. 20.12.2023 I Nr. 389
 
 
 ## Teil 1 - Richteramt in Bund und Ländern

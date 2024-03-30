@@ -1253,7 +1253,7 @@ Anordnungen insbesondere
 
 
 
-(3) Natürliche und juristische Personen und nicht rechtsfähige
+(3) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen und Unterlagen vorzulegen, die zur Durchführung
 der Überwachung nach Absatz 1 erforderlich sind.

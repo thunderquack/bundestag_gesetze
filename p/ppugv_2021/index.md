@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.11.2023 I Nr. 297
+:   Art. 8z5 G v. 12.12.2023 I Nr. 359
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
@@ -56,13 +56,12 @@ festlegen.
 
 (1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und
 Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die
-Erlaubnis zum Führen einer Berufsbezeichnung nach § 1 Absatz 1, § 58
-Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren
-Erlaubnis zum Führen der Berufsbezeichnung nach dem
-Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder
-nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden
-Fassung oder nach § 64 des Pflegeberufegesetzes fortgilt.
-Pflegehilfskräfte sind Personen,
+Erlaubnis zum Führen einer Berufsbezeichnung nach § 1, § 58 Absatz 1
+oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis
+zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der
+am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz
+in der am 31. Dezember 2019 geltenden Fassung oder nach § 64 des
+Pflegeberufegesetzes fortgilt. Pflegehilfskräfte sind Personen,
 
 1.  die erfolgreich eine landesrechtlich geregelte Assistenz- oder
     Helferausbildung in der Pflege von mindestens einjähriger Dauer

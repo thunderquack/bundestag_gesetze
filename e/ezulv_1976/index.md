@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 74 G v. 20.8.2021 I 3932
 
+Änderung durch
+:   Art. 23 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -110,15 +113,15 @@ Gemeinschaftsunterkunft.
 1.  an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor
     Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember
     jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag
-    fallen, 5,67 Euro je Stunde,
+    fallen, 6,31 Euro je Stunde,
 
 
 2.
     a)  an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr
-        1,34 Euro je Stunde sowie
+        1,49 Euro je Stunde sowie
 
 
-    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,67 Euro je
+    b)  im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,97 Euro je
         Stunde.
 
 
@@ -226,7 +229,7 @@ Pressluft (Druckkammern).
 #### § 8 Höhe der Zulage
 
 (1) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 1
-beträgt je Stunde 3,88 Euro.
+beträgt je Stunde 4,35 Euro.
 
 (2) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 2
 beträgt je Stunde Tauchzeit
@@ -238,7 +241,7 @@ beträgt je Stunde Tauchzeit
 
 
 
-    *   16,08 Euro,
+    *   18,01 Euro,
 
 
 *    *
@@ -248,7 +251,7 @@ beträgt je Stunde Tauchzeit
 
 
 
-    *   19,52 Euro,
+    *   21,86 Euro,
 
 
 *    *
@@ -258,7 +261,7 @@ beträgt je Stunde Tauchzeit
 
 
 
-    *   24,25 Euro,
+    *   27,16 Euro,
 
 
 *    *
@@ -269,12 +272,12 @@ beträgt je Stunde Tauchzeit
 
 
 
-    *   31,24 Euro.
+    *   34,99 Euro.
 
 
 
 Bei Tauchtiefen von mehr als zwanzig Metern erhöht sich die Zulage für
-je fünf Meter weiterer Tauchtiefe um 6,24 Euro je Stunde.
+je fünf Meter weiterer Tauchtiefe um 6,99 Euro je Stunde.
 
 (3) Die Zulage nach Absatz 2 erhöht sich für Tauchertätigkeit
 
@@ -1183,7 +1186,7 @@ gewährt.
 
 (1) Beamte und Soldaten erhalten, wenn sie als Räumgruppenleiter bei
 besonderen Entgiftungsarbeiten eingesetzt werden, eine Zulage. Die
-Zulage beträgt monatlich 823,95 Euro, wenn die Beamten oder Soldaten
+Zulage beträgt monatlich 922,82 Euro, wenn die Beamten oder Soldaten
 120 oder mehr Stunden im Kalendermonat im unmittelbaren
 Gefahrenbereich tätig sind. Die Zulage verringert sich für jede
 Stunde, die an 120 Stunden fehlt, um 1/120.

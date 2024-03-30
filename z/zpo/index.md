@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.10.2023 I Nr. 272
+:   Art. 3 G v. 22.12.2023 I Nr. 411
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -768,11 +768,7 @@ das Gericht, bei dem er angestellt ist.
 
 ##### § 50 Parteifähigkeit
 
-(1) Parteifähig ist, wer rechtsfähig ist.
-
-(2) Ein Verein, der nicht rechtsfähig ist, kann klagen und verklagt
-werden; in dem Rechtsstreit hat der Verein die Stellung eines
-rechtsfähigen Vereins.
+Parteifähig ist, wer rechtsfähig ist.
 
 
 ##### § 51 Prozessfähigkeit; gesetzliche Vertretung; Prozessführung
@@ -1231,11 +1227,13 @@ Bevollmächtigte vertretungsbefugt nur
 
 
 4.  Personen, die Inkassodienstleistungen erbringen (registrierte Personen
-    nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes)
-    im Mahnverfahren bis zur Abgabe an das Streitgericht und im Verfahren
-    der Zwangsvollstreckung wegen Geldforderungen in das bewegliche
-    Vermögen mit Ausnahme von Handlungen, die ein streitiges Verfahren
-    einleiten oder innerhalb eines streitigen Verfahrens vorzunehmen sind.
+    nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes),
+    und Kreditdienstleistungsinstitute mit einer Erlaubnis nach § 10
+    Absatz 1 des Kreditzweitmarktgesetzes im Mahnverfahren bis zur Abgabe
+    an das Streitgericht und im Verfahren der Zwangsvollstreckung wegen
+    Geldforderungen in das bewegliche Vermögen mit Ausnahme von
+    Handlungen, die ein streitiges Verfahren einleiten oder innerhalb
+    eines streitigen Verfahrens vorzunehmen sind.
 
 
 
@@ -3266,16 +3264,15 @@ sicheren Übermittlungsweg zugestellt werden.
 eines elektronischen Dokuments haben zu eröffnen:
 
 1.  Rechtsanwälte, Notare, Gerichtsvollzieher, Steuerberater sowie
+    sonstige in professioneller Eigenschaft am Prozess beteiligte
+    Personen, Vereinigungen und Organisationen, bei denen von einer
+    erhöhten Zuverlässigkeit ausgegangen werden kann, sowie
 
 
 2.  Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
 
 
 
-Sonstige              in professioneller Eigenschaft am Prozess
-beteiligte Personen, Vereinigungen und Organisationen, bei denen von
-einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen
-sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
 
 (3) Die elektronische Zustellung an die in Absatz 2 Genannten wird
 durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das
@@ -10267,8 +10264,9 @@ Gericht für seine maschinelle Bearbeitung nicht geeignet erscheine. Im
     Widerspruch mit einem Formular der beigefügten Art erhoben werden
     soll, das auch bei jedem Amtsgericht erhältlich ist und ausgefüllt
     werden kann, und dass für Rechtsanwälte und registrierte Personen nach
-    § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes § 702
-    Absatz 2 Satz 2 gilt;
+    § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes sowie
+    Kreditdienstleistungsinstitute mit einer Erlaubnis nach § 10 Absatz 1
+    des Kreditzweitmarktgesetzes § 702 Absatz 2 Satz 2 gilt;
 
 
 6.  für den Fall des Widerspruchs die Ankündigung, an welches Gericht die
@@ -10475,17 +10473,18 @@ Bearbeitung geeignet erscheint. Werden Anträge und Erklärungen, für
 die maschinell bearbeitbare Formulare nach § 703c Absatz 1 Satz 2
 Nummer 1 eingeführt sind, von einem Rechtsanwalt, einer registrierten
 Person nach § 10 Absatz 1 Satz 1 Nummer 1 des
-Rechtsdienstleistungsgesetzes, einer Behörde oder einer juristischen
-Person des öffentlichen Rechts einschließlich der von ihr zur
-Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse
-übermittelt, ist nur diese Form der Übermittlung zulässig. Anträge und
-Erklärungen können unter Nutzung des elektronischen
-Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des
-eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes gestellt
-werden. Der handschriftlichen Unterzeichnung bedarf es nicht, wenn in
-anderer Weise gewährleistet ist, dass die Anträge oder Erklärungen
-nicht ohne den Willen des Antragstellers oder Erklärenden übermittelt
-werden.
+Rechtsdienstleistungsgesetzes, einem Kreditdienstleistungsinstitut mit
+einer Erlaubnis nach § 10 Absatz 1 des Kreditzweitmarktgesetzes, einer
+Behörde oder einer juristischen Person des öffentlichen Rechts
+einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben
+gebildeten Zusammenschlüsse übermittelt, ist nur diese Form der
+Übermittlung zulässig. Anträge und Erklärungen können unter Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
+5 des Aufenthaltsgesetzes gestellt werden. Der handschriftlichen
+Unterzeichnung bedarf es nicht, wenn in anderer Weise gewährleistet
+ist, dass die Anträge oder Erklärungen nicht ohne den Willen des
+Antragstellers oder Erklärenden übermittelt werden.
 
 (3) Der Antrag auf Erlass eines Mahnbescheids oder eines
 Vollstreckungsbescheids wird dem Antragsgegner nicht mitgeteilt.
@@ -11118,17 +11117,29 @@ elektronischen Dokument festzuhalten. Das Dokument ist mit dem Urteil
 untrennbar zu verbinden.
 
 
-#### § 735 Zwangsvollstreckung gegen nicht rechtsfähigen Verein
-
-Zur Zwangsvollstreckung in das Vermögen eines nicht rechtsfähigen
-Vereins genügt ein gegen den Verein ergangenes Urteil.
+#### § 735 (weggefallen)
 
 
-#### § 736 Zwangsvollstreckung gegen BGB-Gesellschaft
 
-Zur Zwangsvollstreckung in das Gesellschaftsvermögen einer nach § 705
-des Bürgerlichen Gesetzbuchs eingegangenen Gesellschaft ist ein gegen
-alle Gesellschafter ergangenes Urteil erforderlich.
+#### § 736 Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister
+
+Die Zwangsvollstreckung für oder gegen eine im Gesellschaftsregister
+eingetragene Gesellschaft bürgerlichen Rechts findet auch aus einem
+Vollstreckungstitel für oder gegen eine nicht im Gesellschaftsregister
+eingetragene Gesellschaft bürgerlichen Rechts statt, wenn
+
+1.  der in dem Vollstreckungstitel genannte Name und Sitz oder die
+    Anschrift der Gesellschaft identisch sind mit dem Namen und Sitz oder
+    der Anschrift der im Gesellschaftsregister eingetragenen Gesellschaft
+    und
+
+
+2.  die gegebenenfalls in dem Vollstreckungstitel aufgeführten
+    Gesellschafter der Gesellschaft identisch sind mit den Gesellschaftern
+    der im Gesellschaftsregister eingetragenen Gesellschaft.
+
+
+
 
 
 #### § 737 Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch
@@ -14993,16 +15004,11 @@ Schiffspart eingetragen ist, sind nach dem Inhalt des Schiffsregisters
 in den Teilungsplan aufzunehmen.
 
 
-###### § 859 Pfändung von Gesamthandanteilen
+###### § 859 Pfändung von Gesamthandsanteilen
 
-(1) Der Anteil eines Gesellschafters an dem Gesellschaftsvermögen
-einer nach § 705 des Bürgerlichen Gesetzbuchs eingegangenen
-Gesellschaft ist der Pfändung unterworfen. Der Anteil eines
-Gesellschafters an den einzelnen zu dem Gesellschaftsvermögen
-gehörenden Gegenständen ist der Pfändung nicht unterworfen.
-
-(2) Die gleichen Vorschriften gelten für den Anteil eines Miterben an
-dem Nachlass und an den einzelnen Nachlassgegenständen.
+Der Anteil eines Miterben an dem Nachlass ist der Pfändung
+unterworfen. Der Anteil des Miterben an den einzelnen
+Nachlassgegenständen ist der Pfändung nicht unterworfen.
 
 
 ###### § 860 Pfändung von Gesamtgutanteilen

@@ -523,6 +523,10 @@ Landesrecht kann regeln, dass Leistungen der Frühförderung für Kinder
 unabhängig von der Art der Behinderung vorrangig von anderen
 Leistungsträgern gewährt werden.
 
+(5) Soweit Leistungen zum Lebensunterhalt nach § 39 erbracht werden,
+gehen sie den Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten
+Buches vor.
+
 
 ### § 10a Beratung
 
@@ -569,6 +573,29 @@ Mitwirkungspflichten.
 Buches nimmt der Träger der öffentlichen Jugendhilfe mit Zustimmung
 des Personensorgeberechtigten am Gesamtplanverfahren nach § 117 Absatz
 6 des Neunten Buches beratend teil.
+
+
+### § 10b Verfahrenslotse
+
+(1) Junge Menschen, die Leistungen der Eingliederungshilfe wegen einer
+Behinderung oder wegen einer drohenden Behinderung geltend machen oder
+bei denen solche Leistungsansprüche in Betracht kommen, sowie ihre
+Mütter, Väter, Personensorge- und Erziehungsberechtigten haben bei der
+Antragstellung, Verfolgung und Wahrnehmung dieser Leistungen Anspruch
+auf Unterstützung und Begleitung durch einen Verfahrenslotsen. Der
+Verfahrenslotse soll die Leistungsberechtigten bei der Verwirklichung
+von Ansprüchen auf Leistungen der Eingliederungshilfe unabhängig
+unterstützen sowie auf die Inanspruchnahme von Rechten hinwirken.
+Diese Leistung wird durch den örtlichen Träger der öffentlichen
+Jugendhilfe erbracht.
+
+(2) Der Verfahrenslotse unterstützt den örtlichen Träger der
+öffentlichen Jugendhilfe bei der Zusammenführung der Leistungen der
+Eingliederungshilfe für junge Menschen in dessen Zuständigkeit. Hierzu
+berichtet er gegenüber dem örtlichen Träger der öffentlichen
+Jugendhilfe halbjährlich insbesondere über Erfahrungen der
+strukturellen Zusammenarbeit mit anderen Stellen und öffentlichen
+Einrichtungen, insbesondere mit anderen Rehabilitationsträgern.
 
 
 ## Zweites Kapitel - Leistungen der Jugendhilfe
@@ -4227,8 +4254,7 @@ Lebenssituation junger Menschen und ihrer Familien auswirkt,
 insbesondere mit
 
 1.  den Trägern von Sozialleistungen nach dem Zweiten, Dritten, Vierten,
-    Fünften, Sechsten und dem Zwölften Buch sowie Trägern von Leistungen
-    nach dem Bundesversorgungsgesetz,
+    Fünften, Sechsten, Zwölften und Vierzehnten Buch,
 
 
 2.  Rehabilitationsträger nach § 6 Absatz 1 Nummer 7 des Neunten Buches,
@@ -5182,17 +5208,18 @@ zu dem Kostenbeitrag stehen wird.
 #### § 93 Berechnung des Einkommens
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit
-Ausnahme der Grundrente nach oder entsprechend dem
-Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem
-Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper
-und Gesundheit gewährt werden bis zur Höhe der vergleichbaren
-Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die
-nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens,
-der nicht Vermögensschaden ist, geleistet wird, ist nicht als
-Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke
-wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum
-Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen;
-dies gilt nicht für
+Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem
+Vierzehnten Buch und der Leistungen nach Gesetzen, die eine
+entsprechende Anwendung des Vierzehnten Buches vorsehen, und der
+Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
+an Leben sowie an Körper oder Gesundheit bis zur Höhe der
+vergleichbaren Leistungen nach dem Vierzehnten Buch. Eine
+Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs
+wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird,
+ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem
+gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen,
+zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag
+einzusetzen; dies gilt nicht für
 
 1.  monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe
     des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten
@@ -6305,8 +6332,17 @@ Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes)
 eingeschränkt.
 
 
-### § 107 (zukünftig in Kraft)
+### § 107 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 81 Nummer 1 und des § 93
+Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 108 Übergangsregelung

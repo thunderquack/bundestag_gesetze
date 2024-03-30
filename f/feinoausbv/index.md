@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2748
 
+V aufgeh. durch
+:   § 18 Satz 2 V 806-22-1-158 v. 12.3.2024 I Nr. 95 mWv 1.8.2024
+
+Ersetzt durch
+:   V 806-22-1-158 v. 12.3.2024 I Nr. 95 (FeinOAusbV 2024)
+
 
 
 ## Eingangsformel

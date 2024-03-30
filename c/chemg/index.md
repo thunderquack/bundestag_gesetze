@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.8.2013 I 3498, 3991;
 
 Zuletzt geändert durch
-:   Art. 115 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 1 G v. 16.11.2023 I Nr. 313 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 16.11.2023 I Nr. 313
 
 [^F782353_01_BJNR017180980]:     Das Gesetz dient der Umsetzung folgender Richtlinien:
     –                                Richtlinie 67/548/EWG des Rates vom
@@ -337,14 +334,14 @@ Im Sinne dieses Gesetzes sind
 
 7.  Hersteller:
 
-    eine natürliche oder juristische Person oder eine nicht rechtsfähige
+    eine natürliche oder juristische Person oder eine sonstige
     Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis
     herstellt oder gewinnt;
 
 
 8.  Einführer:
 
-    eine natürliche oder juristische Person oder eine nicht rechtsfähige
+    eine natürliche oder juristische Person oder eine sonstige
     Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis
     in den Geltungsbereich dieses Gesetzes verbringt; kein Einführer ist,
     wer lediglich einen Transitverkehr unter zollamtlicher Überwachung
@@ -1782,6 +1779,14 @@ Berücksichtigung der auf Unionsebene entwickelten Vorgaben für die
 Datenbank zu erfüllen ist.
 
 
+## Abschnitt 4a - (zukünftig in Kraft)
+
+
+
+### (XXXX) §§ 16g bis 16l (zukünftig in Kraft)
+
+
+
 ## Fünfter Abschnitt - Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
 
 
@@ -2568,13 +2573,13 @@ dieses Gesetz gestützten Rechtsverordnungen sowie der in Absatz 2 Satz
 
 
 (3) Die zuständige Landesbehörde ist befugt, von natürlichen und
-juristischen Personen und nicht rechtsfähigen Personenvereinigungen
-alle zur Durchführung dieses Gesetzes, der auf dieses Gesetz
-gestützten Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG-
-oder EU-Verordnungen erforderlichen Auskünfte zu verlangen. In den
-Fällen des Absatzes 2 Satz 2 stehen diese Befugnisse der dort
-bezeichneten, in den Fällen des Absatzes 2a der in der
-Rechtsverordnung bezeichneten Bundesoberbehörde zu.
+juristischen Personen und sonstigen Personenvereinigungen alle zur
+Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten
+Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-
+Verordnungen erforderlichen Auskünfte zu verlangen. In den Fällen des
+Absatzes 2 Satz 2 stehen diese Befugnisse der dort bezeichneten, in
+den Fällen des Absatzes 2a der in der Rechtsverordnung bezeichneten
+Bundesoberbehörde zu.
 
 (4) Die mit der Überwachung beauftragten Personen sind befugt,
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1534 (2008 I 660, 1007)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.12.2022 I 2483
+:   Art. 3 G v. 27.3.2024 I Nr. 107
 
 Stand: § 66 ist gem. Art. 3 Abs. 2 G v. 15.7.2006 I 1534 am 20.7.2006 in Kraft getreten
 Stand: § 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4.2008 I 660 am 1.4.2008 in Kraft getreten
@@ -805,8 +805,8 @@ in Schwierigkeiten
 
 2.  im Sinn der Leitlinien für staatliche Beihilfen zur Rettung und
     Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten
-    (2014/C 249/01)                    (ABl. C 249 vom 31.7.2014, S. 1
-    ff.) in der jeweils geltenden Fassung, soweit die Allgemeine
+    (2014/C 249/01) (ABl. C 249 vom 31.7.2014, S. 1 ff.) in der jeweils
+    geltenden Fassung, soweit die Allgemeine
     Gruppenfreistellungsverordnung keine Anwendung findet.
 
 
@@ -820,8 +820,8 @@ dass kein Fall von Satz 1 vorliegt.
 
 (3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über
 die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen
-oder von ihr zu genehmigen sind, sind in diesem Gesetz die §§ 3, 3a,
-28 Absatz 1 Satz 1 Nummer 1 und 2 sowie die §§ 47a, 53a, 54, 55, 56
+oder von ihr zu genehmigen sind, sind in diesem Gesetz die
+Begünstigungen nach den §§ 3, 3a sowie nach den §§ 47a, 53a, 54, 56
 und 57.
 
 
@@ -4432,15 +4432,15 @@ sind
         Einkommensteuergesetzes erzielen oder
 
 
-    b)  deren Inhaber eine nichtrechtsfähige Personenvereinigung, eine
-        juristische Person des privaten Rechts oder eine Hauberg-, Wald-,
-        Forst- oder Laubgenossenschaft oder eine ähnliche Realgemeinde im
-        Sinne des § 13 Abs. 1 Nr. 4 des Einkommensteuergesetzes ist und bei
-        denen im Falle der Gewinnung tierischer Erzeugnisse die mit der
-        Bodenbewirtschaftung verbundene Tierhaltung die Grenzen des § 51 des
+    b)  deren Inhaber eine Personenvereinigung, eine juristische Person des
+        privaten Rechts oder eine Hauberg-, Wald-, Forst- oder
+        Laubgenossenschaft oder eine ähnliche Realgemeinde im Sinne des § 13
+        Absatz 1 Nummer 4 des Einkommensteuergesetzes ist und bei denen im
+        Falle der Gewinnung tierischer Erzeugnisse die mit der
+        Bodenbewirtschaftung verbundene Tierhaltung die Grenzen des § 241 des
         Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar
-        1991 (BGBl. I S. 230), das zuletzt durch Artikel 14 des Gesetzes vom
-        20\. Dezember 2001 (BGBl. I S. 3794) geändert worden ist, in der
+        1991 (BGBl. I S. 230), das zuletzt durch Artikel 31 des Gesetzes vom
+        22\. Dezember 2023 (BGBl. 2023 I Nr. 411) geändert worden ist, in der
         jeweils geltenden Fassung nicht überschreitet oder
 
 
@@ -4454,8 +4454,8 @@ sind
 
 2.  Imkereien, aus denen natürliche Personen Einkünfte nach § 13 Abs. 1
     Nr. 2 des Einkommensteuergesetzes erzielen oder deren Inhaber eine
-    nichtrechtsfähige Personenvereinigung oder eine juristische Person des
-    privaten Rechts ist,
+    Personenvereinigung oder eine juristische Person des privaten Rechts
+    ist,
 
 
 3.  Wanderschäfereien und Teichwirtschaften,
@@ -4508,147 +4508,16 @@ Bodenbewirtschaftung verbundene Tierhaltung gelten auch
 
 
 
-(5) Die Steuerentlastung beträgt
+(5) Die Steuerentlastung beträgt für 1 000 Liter Gasöle nach § 2
+Absatz 1 Nummer 4
 
-*    *   1.
-
-    *
-    *   für 1 000 l Gasöle nach § 2 Abs. 1 Nr. 4
-
-    *   214,80 EUR,
+1.  bis zum 29. Februar 2024 214,80 EUR,
 
 
-*    *   2.
-
-    *
-    *   für 1 000 l Biokraftstoffe
-
-    *
-
-*    *
-    *   a)
-
-    *   nach § 50 Absatz 3 Satz 4 Nummer 1 des Energiesteuergesetzes in der
-        Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das
-        zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S.
-        420) geändert worden ist
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2007
-
-    *   90,00 EUR,
+2.  vom 1. März 2024 bis zum 31. Dezember 2024 128,88 EUR,
 
 
-*    *
-    *
-    *   vom 1. Januar 2008
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2008
-
-    *   150,00 EUR,
-
-
-*    *
-    *
-    *   vom 1. Januar 2009
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2009
-
-    *   182,92 EUR,
-
-
-*    *
-    *
-    *   vom 1. Januar 2010
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2012
-
-    *   185,96 EUR
-
-
-*    *
-    *
-    *   ab 1. Januar 2013
-
-    *   450,33 EUR,
-
-
-*    *
-    *   b)
-
-    *   nach § 50 Absatz 3 Satz 4 Nummer 2 des Energiesteuergesetzes in der
-        Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das
-        zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S.
-        420) geändert worden ist
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2007
-
-    *   23,52 EUR,
-
-
-*    *
-    *
-    *   vom 1. Januar 2008
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2008
-
-    *   100,00 EUR,
-
-
-*    *
-    *
-    *   vom 1. Januar 2009
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2009
-
-    *   180,00 EUR,
-
-
-*    *
-    *
-    *   vom 1. Januar 2010
-
-    *
-
-*    *
-    *
-    *   bis 31. Dezember 2012
-
-    *   184,55 EUR,
-
-
-*    *
-    *
-    *   ab 1. Januar 2013
-
-    *   450,00 EUR,
+3.  vom 1. Januar 2025 bis zum 31. Dezember 2025 64,44 EUR,
 
 
 
@@ -4661,29 +4530,19 @@ Nomenklatur.
 (7) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag
 nach Absatz 5 mindestens 50 Euro im Kalenderjahr beträgt.
 
-(8) Entlastungsberechtigt ist
+(8) Entlastungsberechtigt ist der Betrieb der Land- und
+Forstwirtschaft nach Absatz 2 Nummer 1 bis 4, der die Gasöle verwendet
+hat. Dabei gelten Gasöle, die durch Betriebe nach Absatz 2 Nummer 5
+bei der Ausführung von Arbeiten nach Absatz 1 Satz 1 für einen Betrieb
+der Land- und Forstwirtschaft nach Absatz 2 Nummer 1 bis 4 verwendet
+wurden, als durch den Betrieb der Land- und Forstwirtschaft verwendet,
+für den die Arbeiten ausgeführt wurden.
 
-1.  im Falle des Absatzes 5 Nr. 1 der Betrieb der Land- und
-    Forstwirtschaft nach Absatz 2 Nr. 1 bis 4, der die Gasöle verwendet
-    hat. Dabei gelten Gasöle, die durch Betriebe nach Absatz 2 Nr. 5 bei
-    der Ausführung von Arbeiten nach Absatz 1 Satz 1 für einen Betrieb der
-    Land- und Forstwirtschaft nach Absatz 2 Nr. 1 bis 4 verwendet wurden,
-    als durch den Betrieb der Land- und Forstwirtschaft verwendet, für den
-    die Arbeiten ausgeführt wurden,
-
-
-2.  im Falle des Absatzes 5 Nr. 2 der Betrieb der Land- und
-    Forstwirtschaft nach Absatz 2, der die Biokraftstoffe verwendet hat.
-
-
-
-
-(9) Die festgelegte Steuerentlastung nach Absatz 5 Nummer 1 wird
-angewendet nach Maßgabe und bis zum Auslaufen der hierfür
-erforderlichen Freistellungsanzeige bei der Europäischen Kommission
-nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der
-Freistellungsanzeige ist vom Bundesministerium der Finanzen im
-Bundesgesetzblatt gesondert bekannt zu geben.
+(9) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum
+Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der
+Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das
+Auslaufen der Freistellungsanzeige ist vom Bundesministerium der
+Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 58 Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)

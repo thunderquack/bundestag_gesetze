@@ -269,8 +269,8 @@ angeordnet werden, wenn im übrigen die Voraussetzungen des § 8 oder §
 (2) Ist eine rechtswidrige Tat nach diesem Gesetz in einem Betrieb
 begangen worden, so kann die Abführung des Mehrerlöses gegen den
 Inhaber oder Leiter des Betriebes und, falls der Inhaber eine
-juristische Person oder eine Personengesellschaft des Handelsrechts
-ist, auch gegen diese selbständig angeordnet werden, wenn ihnen der
+juristische Person oder eine rechtsfähige Personengesellschaft ist,
+auch gegen diese selbständig angeordnet werden, wenn ihnen der
 Mehrerlös zugeflossen ist.
 
 

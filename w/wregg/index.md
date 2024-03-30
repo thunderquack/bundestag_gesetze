@@ -181,9 +181,9 @@ einer elektronischen Datenbank:
 
 
     f)  bei inländischen Unternehmen das Registergericht und die
-        Registernummer aus dem Handels-, Genossenschafts-, Vereins-,
-        Partnerschaftsregister oder bei vergleichbaren amtlichen Registern die
-        Registernummer und die registerführende Stelle, soweit vorhanden,
+        Registernummer aus dem Handels-, Genossenschafts-, Gesellschafts-,
+        Vereins-, Partnerschafts- oder bei vergleichbaren amtlichen Registern
+        die Registernummer und die registerführende Stelle, soweit vorhanden,
 
 
     g)  bei ausländischen Unternehmen anstelle der in Buchstabe f genannten

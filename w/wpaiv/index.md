@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3376
 
-Geändert durch
-:   Art. 1 V v. 19.10.2018 I 1758
+Zuletzt geändert durch
+:   Art. 7 G v. 11.12.2023 I Nr. 354
 
 
 ## Eingangsformel
@@ -707,14 +707,10 @@ können auch die Geschäftsführungen der Handelsplätze im Sinne des § 26
 Absatz 1 des Wertpapierhandelsgesetzes verlangen, sofern sie nach
 diesen Vorschriften eine Mitteilung erhalten.
 
-(2) Die Bundesanstalt kann die Möglichkeit eröffnen, die Mitteilungen
-nach § 8 im Wege der Datenfernübertragung zu übersenden, sofern dem
-jeweiligen Stand der Technik entsprechende Maßnahmen zur
-Sicherstellung von Datenschutz und Datensicherheit getroffen werden,
-die insbesondere die Vertraulichkeit und Unversehrtheit der Daten
-gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher
-Netze dem jeweiligen Stand der Technik entsprechende
-Verschlüsselungsverfahren angewendet werden.
+(2) Auf Verlangen der Bundesanstalt sind Mitteilungen nach § 8
+elektronisch über das Melde- und Veröffentlichungssystem der
+Bundesanstalt einzureichen. Gleiches gilt für die Übersendung von
+Mitteilungen nach § 7.
 
 
 ### Unterabschnitt 3 - Veröffentlichung von Eigengeschäften und Mitteilung über die Veröffentlichung

@@ -18,9 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 27.7.1971 I 1166;
 
-Zuletzt geändert durch
-:   Art. 7 V v. 19.6.2020 I 1328
-
+Stand: zuletzt geändert Art. 4 G v. 22.12.2023 I Nr. 414
 
 ## § 1
 
@@ -267,12 +265,12 @@ c)  eine Dienstaufwandsentschädigung,
 
 *    *   jährlich
 
-    *   24.000 DM,
+    *   24 000 DM,
 
 
 *    *   die Bundesminister von jährlich
 
-    *   7.200 DM,
+    *   7 200 DM,
 
 
 
@@ -286,7 +284,7 @@ d)  bei Unmöglichkeit der Verlegung des eigenen Hausstandes nach dem Sitz
 
 *    *   jährlich
 
-    *   3.600 DM.
+    *   3 600 DM.
 
 
 
@@ -304,6 +302,21 @@ Geschäftsführung endet.
 § 83a des Bundesbeamtengesetzes              einschließlich der dazu
 ergangenen Übergangsvorschriften und § 87a des Bundesbeamtengesetzes
 sind sinngemäß anzuwenden.
+
+(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
+werden den Mitgliedern der Bundesregierung in entsprechender Anwendung
+des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden
+Sonderzahlungen gewährt:
+
+1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
+    Euro sowie
+
+
+2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
+    Sonderzahlung in Höhe von jeweils 220 Euro.
+
+
+
 
 
 ## § 12

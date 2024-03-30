@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 867
 
 Zuletzt geändert durch
-:   Art. 4 G v. 5.7.2021 I 2274
+:   Art. 3 G v. 22.12.2023 I Nr. 413
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -1888,11 +1888,11 @@ Anwendung:
 
 
 
-(2) Die Vorschriften des Ersten Abschnitts und die §§ 14 und 23 Nummer
-3 des Bundesverfassungsschutzgesetzes auch in Verbindung mit § 12 des
-MAD-Gesetzes und § 18 des BND-Gesetzes sowie die §§ 1, 8 und § 10
-Absatz 2 Satz 2 bis 6 des MAD-Gesetzes und § 8 des BND-Gesetzes finden
-Anwendung.
+(2) Die Vorschriften des Ersten Abschnitts und die §§ 14 und 23 Absatz
+1 Satz 2 des Bundesverfassungsschutzgesetzes auch in Verbindung mit §
+12 des MAD-Gesetzes und § 18 des BND-Gesetzes sowie die §§ 1, 8 und §
+10 Absatz 2 Satz 2 bis 6 des MAD-Gesetzes und § 8 des BND-Gesetzes
+finden Anwendung.
 
 
 ### § 36a Unabhängige Datenschutzkontrolle

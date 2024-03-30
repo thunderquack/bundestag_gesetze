@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 582
 
 Zuletzt geändert durch
-:   Art. 13 G v. 11.7.2021 I 2754
+:   Art. 7 G v. 22.3.2024 I Nr. 101
 
 
 ## Eingangsformel
@@ -691,6 +691,11 @@ Zulassungsausschusses wechseln.
 auf Verlegung seines Vertragszahnarztsitzes nur genehmigen, wenn
 Gründe der vertragszahnärztlichen Versorgung dem nicht entgegenstehen.
 Entsprechendes gilt für die Verlegung einer genehmigten Anstellung.
+
+(8) Die vertragszahnärztliche Tätigkeit darf hinsichtlich der in § 87
+Absatz 2k des Fünften Buches Sozialgesetzbuch genannten
+Videosprechstundenleistungen außerhalb des Vertragszahnarztsitzes
+erbracht werden.
 
 
 ### § 25

@@ -831,8 +831,8 @@ entsprechend.
 
 Eine eingetragene Genossenschaft, die durch formwechselnde Umwandlung
 einer LPG entstanden ist, kann durch erneuten Formwechsel in eine
-Personengesellschaft umgewandelt werden; für die Umwandlung gelten die
-Vorschriften dieses Abschnitts entsprechend.
+rechtsfähige Personengesellschaft umgewandelt werden; für die
+Umwandlung gelten die Vorschriften dieses Abschnitts entsprechend.
 
 
 ## 4. Abschnitt - Umwandlung von kooperativen Einrichtungen durch Formwechsel

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.5.2005 I 1482;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 31.5.2023 I Nr. 140
+:   Art. 3 G v. 22.1.2024 I Nr. 17
 
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
@@ -992,6 +992,140 @@ Berufssoldaten werden vom Bundespräsidenten auf Vorschlag des
 Bundesministers der Verteidigung bestellt.
 
 
+#### § 27a Dienstliche Beurteilung; Verordnungsermächtigung
+
+(1) Eignung, Befähigung und fachliche Leistung der Soldaten sind zu
+beurteilen
+
+1.  in regelmäßigen Abständen, mindestens jedoch alle zwei Jahre,
+
+
+2.  und zusätzlich, wenn die dienstlichen oder persönlichen Verhältnisse
+    es erfordern.
+
+
+
+
+(2) In der dienstlichen Beurteilung sind die fachliche Leistung des
+Soldaten nachvollziehbar darzustellen sowie Eignung und Befähigung
+einzuschätzen. Die dienstliche Beurteilung schließt mit einem
+zusammenfassenden Gesamturteil.
+
+(3) Neben der dienstlichen Beurteilung ist die Personalentwicklung des
+Soldaten prognostisch zu bewerten (Personalentwicklungsbewertung).
+Darin sind die Entwicklung des Soldaten und seine mögliche Eignung für
+Status- oder Laufbahnwechsel und für die Teilnahme an förderlichen
+Lehrgängen einzuschätzen sowie mögliche zukünftige Verwendungen
+vorzuschlagen. Absatz 1 gilt entsprechend.
+
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+Grundsätze für dienstliche Beurteilungen und
+Personalentwicklungsbewertungen sowie für das jeweilige Verfahren zu
+regeln, insbesondere über
+
+1.  den Inhalt der Beurteilung und der Personalentwicklungsbewertung,
+    beispielsweise die Festlegung von zu beurteilenden Merkmalen von
+    Eignung, Befähigung und fachlicher Leistung,
+
+
+2.  ein Bewertungssystem für die Beurteilung und die Bildung eines aus
+    Eignung, Befähigung und fachlicher Leistung schlüssig abgeleiteten
+    Gesamturteils,
+
+
+3.  die Ausgestaltung des Beurteilungsmaßstabs, beispielsweise die
+    konkrete Festlegung von Richtwerten oder die Möglichkeit, von den
+    Richtwerten aus Gründen der Einzelfallgerechtigkeit abzuweichen,
+
+
+4.  die Festlegung von Mindestanforderungen an Personen, die an der
+    Beurteilung oder der Personalentwicklungsbewertung mitwirken,
+
+
+5.  die Bekanntgabe des Ergebnisses eines Beurteilungsdurchgangs und
+
+
+6.  Ausnahmen von der Beurteilungs- und
+    Personalentwicklungsbewertungspflicht.
+
+
+
+
+
+#### § 27b Referenzgruppen; Verordnungsermächtigung
+
+(1) Für die fiktive Nachzeichnung der beruflichen Entwicklung von
+Soldaten sind Referenzgruppen zu bilden für solche Soldaten
+(referenzierte Person), die der Besoldungsordnung A angehören und
+
+1.  vom Dienst vollständig freigestellt sind,
+
+
+2.  von dienstlichen Tätigkeiten vollständig entlastet sind,
+
+
+3.  im dienstlichen Interesse unter Wegfall der Dienst- und Sachbezüge
+    beurlaubt sind,
+
+
+4.  wegen Familienpflichten beurlaubt sind,
+
+
+5.  sich in der Schutzzeit nach dem Einsatz-Weiterverwendungsgesetz
+    befinden oder
+
+
+6.  in staatlichen Stellen außerhalb des Geschäftsbereichs des
+    Bundesministeriums der Verteidigung verwendet werden, sofern dort
+    keine militärischen Vorgesetzten mit Beurteilungsbefugnis verfügbar
+    sind.
+
+
+
+Satz 1 gilt nicht für Soldaten, die zur Ausübung einer gleichwertigen
+hauptberuflichen Tätigkeit bei einer Fraktion des Deutschen
+Bundestages, bei einer gesetzgebenden Körperschaft eines Landes oder
+des Europäischen Parlaments beurlaubt sind.
+
+(2) Referenzgruppen haben neben der referenzierten Person in der Regel
+aus zehn Referenzpersonen zu bestehen. Die Anzahl von vier
+Referenzpersonen darf nicht unterschritten werden. Die
+Referenzpersonen sind auf der Grundlage dienstlicher Beurteilungen
+oder, sofern solche nicht vorliegen, anderer geeigneter Bewertungen
+von Eignung, Befähigung und Leistung auszuwählen. Die Referenzpersonen
+sollen
+
+1.  über das gleiche Eignungs-, Befähigungs- und Leistungsbild und über
+    die gleiche Entwicklungsprognose wie die referenzierte Person
+    verfügen,
+
+
+2.  im gleichen Jahr wie die referenzierte Person
+
+    a)  in einer entsprechenden Vergleichsgruppe beurteilt worden sein und
+
+
+    b)  erstmals in einer entsprechend besoldeten Verwendung eingesetzt, zum
+        jetzigen Dienstgrad befördert oder ohne Beförderung in eine Planstelle
+        der jetzigen Besoldungsgruppe eingewiesen worden sein sowie
+
+
+
+
+
+3.  derselben Laufbahn angehören wie die referenzierte Person und
+    innerhalb dieser Laufbahn vergleichbar sein.
+
+
+
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
+nähere inhaltliche Ausgestaltung und das Verfahren der fiktiven
+Nachzeichnung der beruflichen Entwicklung zu regeln. In der
+Rechtsverordnung ist insbesondere festzulegen, zu welchem Zeitpunkt
+eine Referenzgruppe zu bilden ist und zu welchem Zeitpunkt sie endet.
+
+
 #### § 28 Urlaub
 
 (1) Dem Soldaten steht alljährlich ein Erholungsurlaub unter Belassung
@@ -1699,13 +1833,14 @@ Berufssoldaten oder Soldaten auf Zeit berufen worden sind, auch die
 während der Eignungsübung entstandenen Aufwendungen beihilfefähig.
 
 (8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit
-Familienpflichten im Sinne des § 4 Absatz 1 des Soldatinnen- und
-Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien-
-und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im
-Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die
-einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche
-Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als
-Voraussetzung für die Erstattung ist festzulegen, dass
+Familien- oder Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des
+Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für
+eine Familien- und Haushaltshilfe zu erstatten, die durch besondere
+Verwendungen im Ausland gemäß § 56 Absatz 1 des
+Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung
+dazu, durch einsatzgleiche Verpflichtungen oder durch
+Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung
+ist festzulegen, dass
 
 1.  der Soldat dem nächsthöheren Disziplinarvorgesetzten eine Betreuungs-
     oder Pflegesituation unverzüglich anzeigt,
@@ -1878,8 +2013,9 @@ auf Zeit darf nicht berufen werden, wer
 1.  durch ein deutsches Gericht wegen eines Verbrechens zu Freiheitsstrafe
     von mindestens einem Jahr oder wegen einer vorsätzlichen Tat, die nach
     den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des
-    demokratischen Rechtsstaates oder Landesverrat und Gefährdung der
-    äußeren Sicherheit strafbar ist, zu Freiheitsstrafe verurteilt ist,
+    demokratischen Rechtsstaates oder Landesverrat, Gefährdung der äußeren
+    Sicherheit oder Volksverhetzung strafbar ist, zu Freiheitsstrafe
+    verurteilt ist,
 
 
 2.  infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter
@@ -2298,6 +2434,45 @@ Verteidigung wegen besonderer Härte eine Ausnahme zulassen. In den
 Fällen des Satzes 1 Nummer 8 kann das Bundesministerium der
 Verteidigung seine Zuständigkeit auf andere Stellen übertragen.
 
+(2a) Ein Berufssoldat ist zu entlassen, wenn
+
+1.  er als Einzelperson in schwerwiegender Weise Bestrebungen verfolgt
+    oder verfolgt hat,
+
+    a)  die gegen die freiheitliche demokratische Grundordnung, den Bestand
+        oder die Sicherheit des Bundes oder eines Landes gerichtet sind oder
+        eine ungesetzliche Beeinträchtigung der Amtsführung der
+        Verfassungsorgane des Bundes oder eines Landes oder ihrer Mitglieder
+        zum Ziele haben,
+
+
+    b)  die durch Anwendung von Gewalt oder darauf gerichtete
+        Vorbereitungshandlungen auswärtige Belange der Bundesrepublik
+        Deutschland gefährden oder
+
+
+    c)  die gegen den Gedanken der Völkerverständigung (Artikel 9 Absatz 2 des
+        Grundgesetzes), insbesondere gegen das friedliche Zusammenleben der
+        Völker (Artikel 26 Absatz 1 des Grundgesetzes) gerichtet sind, und
+
+
+
+
+
+2.  sein Verbleiben in seinem Dienstverhältnis die militärische Ordnung
+    oder das Vertrauen der Allgemeinheit in die Funktionsfähigkeit der
+    Bundeswehr ernstlich gefährden würde.
+
+
+
+Ebenso wird entlassen, wer einen Personenzusammenschluss nachdrücklich
+unterstützt oder unterstützt hat, der seinerseits die in Satz 1
+genannten Bestrebungen verfolgt oder verfolgt hat.
+
+(2b) Das bis zur Unanfechtbarkeit der Entlassungsverfügung nach Absatz
+2a zu gewährende Überbrückungsgeld regelt das
+Soldatenversorgungsgesetz.
+
 (3) Der Berufssoldat kann jederzeit seine Entlassung verlangen; soweit
 seine militärische Ausbildung mit einem Studium oder einer
 Fachausbildung verbunden war, gilt dies jedoch erst nach einer sich
@@ -2389,6 +2564,50 @@ Wochen vor dem Entlassungstag zum Schluss eines Kalendervierteljahres
 unter schriftlicher Angabe der Gründe zugestellt werden.
 
 
+##### § 47a Besondere Verfahrensvorschriften für die Entlassung nach § 46 Absatz 2a
+
+(1) Der Berufssoldat ist über den Beginn eines auf seine Entlassung
+nach § 46 Absatz 2a gerichteten Verfahrens (Entlassungsverfahren)
+unverzüglich zu unterrichten; hierbei ist ihm zu eröffnen, auf Grund
+welcher Tatsachen das Entlassungsverfahren durchgeführt wird. Er ist
+darauf hinzuweisen, dass es ihm freisteht, sich mündlich oder
+schriftlich zur Sache zu äußern oder nicht zur Sache auszusagen oder
+sich durch einen Bevollmächtigten vertreten zu lassen. Er hat das
+Recht auf Akteneinsicht nach den Vorschriften des
+Verwaltungsverfahrensgesetzes.
+
+(2) Für die Abgabe einer schriftlichen Äußerung wird dem
+Berufssoldaten eine im Einzelfall angemessene Frist von höchstens
+einem Monat und für die Abgabe der Erklärung, sich mündlich äußern zu
+wollen, eine Frist von zwei Wochen gesetzt. Hat der Berufssoldat
+rechtzeitig erklärt, sich mündlich äußern zu wollen, ist die Anhörung
+innerhalb von drei Wochen nach Eingang der Erklärung durchzuführen.
+Ist der Berufssoldat aus zwingenden Gründen gehindert, eine Frist nach
+Satz 1 einzuhalten, und hat er dies unverzüglich mitgeteilt, so ist
+die Frist zu verlängern. Die Fristsetzungen sind dem Berufssoldaten
+zuzustellen.
+
+(3) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
+Strafverfahren oder im Bußgeldverfahren, auf denen die Entscheidung
+beruht, sind für das Entlassungsverfahren bindend, soweit dieses
+denselben Sachverhalt zum Gegenstand hat. Die in einem anderen
+gesetzlich geordneten Verfahren getroffenen tatsächlichen
+Feststellungen sind nicht bindend, können aber der Entscheidung im
+Entlassungsverfahren ohne nochmalige Prüfung zu Grunde gelegt werden.
+
+(4) Nach der Beendigung der Ermittlungen ist dem Berufssoldaten
+Gelegenheit zu geben, sich abschließend zu äußern.
+
+(5) Über die Anhörungen des Berufssoldaten sind Protokolle
+aufzunehmen. Bei der Einholung von schriftlichen dienstlichen
+Auskünften sowie bei der Beiziehung von Urkunden und Akten genügt die
+Aufnahme eines Aktenvermerks.
+
+(6) Die Entlassungsverfügung ist zu begründen und zuzustellen. Die
+Begründung hat die der Entlassung zu Grunde liegenden Tatsachen und
+Beweismittel zu enthalten.
+
+
 ##### § 48 Verlust der Rechtsstellung eines Berufssoldaten
 
 Der Berufssoldat verliert seine Rechtsstellung, wenn gegen ihn durch
@@ -2419,8 +2638,8 @@ Grundgesetzes ein Grundrecht verwirkt hat.
 Beendigung seines Dienstverhältnisses durch Entlassung nach § 46 oder
 durch Verlust seiner Rechtsstellung als Berufssoldat nach § 48.
 
-(2) In den Fällen des § 46 Abs. 1 und 2 Satz 1 Nr. 1 bis 4, 7 und 8
-und des § 48 verliert der Soldat seinen Dienstgrad.
+(2) In den Fällen des § 46 Abs. 1 und 2 Satz 1 Nr. 1 bis 4, 7, 8 und
+Absatz 2a und des § 48 verliert der Soldat seinen Dienstgrad.
 
 (3) Nach dem Verlust seiner Rechtsstellung als Berufssoldat und nach
 der Entlassung hat der frühere Berufssoldat keinen Anspruch auf
@@ -2434,14 +2653,17 @@ sich bestimmenden Mindestdienstzeit
     entlassen gilt,
 
 
-2.  seine Entlassung nach § 46 Abs. 8 vorsätzlich oder grob fahrlässig
+2.  nach § 46 Absatz 2a entlassen worden ist,
+
+
+3.  seine Entlassung nach § 46 Abs. 8 vorsätzlich oder grob fahrlässig
     herbeigeführt hat,
 
 
-3.  seine Rechtsstellung verloren hat oder
+4.  seine Rechtsstellung verloren hat oder
 
 
-4.  durch Urteil in einem gerichtlichen Disziplinarverfahren aus dem
+5.  durch Urteil in einem gerichtlichen Disziplinarverfahren aus dem
     Dienstverhältnis entfernt worden ist,
 
 
@@ -2548,8 +2770,9 @@ Abs. 1, 2 und 4 des Bundesbeamtengesetzes entsprechend.
 
     b)  wegen einer vorsätzlichen Tat, die nach den Vorschriften über
         Friedensverrat, Hochverrat, Gefährdung des demokratischen
-        Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit
-        strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
+        Rechtsstaates oder Landesverrat, Gefährdung der äußeren Sicherheit
+        oder Volksverhetzung strafbar ist, zu Freiheitsstrafe von mindestens
+        sechs Monaten
 
 
 
@@ -2614,14 +2837,14 @@ nach § 60 bis zu drei Monaten Dauer herangezogen werden.
 ##### § 55 Entlassung
 
 (1) Für den Soldaten auf Zeit gilt § 46 Absatz 1, Absatz 2 Satz 1
-Nummer 1 bis 5 sowie 7 und 8 und Satz 2 und 3 entsprechend. § 46 Abs.
-3a gilt mit Ausnahme des Satzes 5 mit der Maßgabe entsprechend, dass
-ein Soldat auf Zeit auch nicht entlassen ist, wenn er zum Beamten auf
-Widerruf im Vorbereitungsdienst oder zum Zwecke der Ausbildung zum
-Polizeivollzugsbeamten oder zum Beamten des Einsatzdienstes der
-Berufsfeuerwehr ernannt wird. Für einen Soldaten auf Zeit, der auf
-Grund eines Eingliederungsscheines zum Beamten ernannt wird, gilt § 46
-Absatz 3a Satz 1 entsprechend.
+Nummer 1 bis 5 sowie 7 und 8 und Satz 2 und 3 sowie Absatz 2a
+entsprechend. § 46 Abs. 3a gilt mit Ausnahme des Satzes 5 mit der
+Maßgabe entsprechend, dass ein Soldat auf Zeit auch nicht entlassen
+ist, wenn er zum Beamten auf Widerruf im Vorbereitungsdienst oder zum
+Zwecke der Ausbildung zum Polizeivollzugsbeamten oder zum Beamten des
+Einsatzdienstes der Berufsfeuerwehr ernannt wird. Für einen Soldaten
+auf Zeit, der auf Grund eines Eingliederungsscheines zum Beamten
+ernannt wird, gilt § 46 Absatz 3a Satz 1 entsprechend.
 
 (2) Ein Soldat auf Zeit ist zu entlassen, wenn er dienstunfähig ist. §
 44 Abs. 3 Satz 2 und Abs. 4 gilt entsprechend.
@@ -2669,7 +2892,8 @@ militärische Ordnung oder das Ansehen der Bundeswehr ernstlich
 gefährden würde.
 
 (6) Für die Zuständigkeit, die Anhörungspflicht und die Fristen bei
-der Entlassung gilt § 47 Abs. 1 bis 3 entsprechend. Die
+der Entlassung gilt § 47 Abs. 1 bis 3 entsprechend. Für das Verfahren
+bei der Entlassung nach § 46 Absatz 2a gilt § 47a entsprechend. Die
 Entlassungsverfügung muss dem Soldaten in den Fällen des Absatzes 2
 wenigstens drei Monate und in den Fällen des Absatzes 4 wenigstens
 einen Monat vor dem Entlassungstag unter schriftlicher Angabe der
@@ -2688,8 +2912,8 @@ Rechtsstellung als Soldat auf Zeit nach § 54 Abs. 2 Nr. 2 endet die
 Zugehörigkeit des Soldaten auf Zeit zur Bundeswehr.
 
 (2) Mit der Entlassung entsprechend dem § 46 Abs. 1 und 2 Satz 1 Nr. 1
-bis 4, 7 und 8 und nach § 55 Abs. 5 sowie mit dem Verlust seiner
-Rechtsstellung als Soldat auf Zeit verliert der Soldat seinen
+bis 4, 7, 8 und Absatz 2a und nach § 55 Abs. 5 sowie mit dem Verlust
+seiner Rechtsstellung als Soldat auf Zeit verliert der Soldat seinen
 Dienstgrad.
 
 (3) Nach dem Verlust seiner Rechtsstellung als Soldat auf Zeit und,
@@ -2705,17 +2929,20 @@ des Studiums oder der Fachausbildung erstatten, wenn er
     entlassen gilt,
 
 
-2.  seine Entlassung nach § 55 Absatz 4 vorsätzlich oder grob fahrlässig
+2.  nach § 46 Absatz 2a entlassen worden ist,
+
+
+3.  seine Entlassung nach § 55 Absatz 4 vorsätzlich oder grob fahrlässig
     herbeigeführt hat,
 
 
-3.  nach § 55 Absatz 5 entlassen worden ist,
+4.  nach § 55 Absatz 5 entlassen worden ist,
 
 
-4.  seine Rechtsstellung verloren hat oder
+5.  seine Rechtsstellung verloren hat oder
 
 
-5.  durch Urteil in einem gerichtlichen Disziplinarverfahren aus dem
+6.  durch Urteil in einem gerichtlichen Disziplinarverfahren aus dem
     Dienstverhältnis entfernt worden ist.
 
 
@@ -2892,17 +3119,25 @@ anzuwenden.
 
 #### § 58h Beendigung des freiwilligen Wehrdienstes nach § 58b
 
-(1) Der freiwillige Wehrdienst nach § 58b endet durch Entlassung
-entsprechend § 75 oder durch Ausschluss entsprechend § 76.
+(1) Der freiwillige Wehrdienst nach § 58b endet
+
+1.  durch Entlassung entsprechend § 46 Absatz 1,
+
+
+2.  durch Entlassung entsprechend § 75 oder
+
+
+3.  durch Ausschluss entsprechend § 76.
+
+
+
 
 (2) Während der Probezeit kann der Soldat zum 15. oder zum Letzten
 eines Monats entlassen werden. Die Entlassungsverfügung ist spätestens
 zwei Wochen vor dem Entlassungstermin bekannt zu geben. Auf
-schriftlichen Antrag des Soldaten ist dieser während der Probezeit
-jederzeit zu entlassen.
-
-(3) Im Fall des § 58e Absatz 3 kann der Soldat entlassen werden, wenn
-eine anderweitige Verwendung nicht möglich ist.
+schriftlichen Antrag des Soldaten ist dieser während der Probezeit zum
+15\. oder Letzten eines Monats zu entlassen. Die Entlassung ist in den
+ersten fünf Monaten einen Monat vor dem Entlassungstag zu beantragen.
 
 
 ## Vierter Abschnitt - Dienstleistungspflicht
@@ -3036,14 +3271,14 @@ Luftfahrzeugen stattfinden.
 höchstens sieben Monate zulässig. Sie wird auf die Gesamtdauer der
 Übungen nach § 61 Abs. 2 nicht angerechnet. Soweit die Dauer drei
 Monate übersteigt, wirkt das für die Heranziehung zuständige
-Kreiswehrersatzamt auf die Zustimmung des Arbeitgebers oder der
-Dienstbehörde hin.
+Karrierecenter der Bundeswehr auf die Zustimmung des Arbeitgebers oder
+der Dienstbehörde hin.
 
 (3) Ist ein Soldat auf seinen Antrag von der Teilnahme an besonderen
 Auslandsverwendungen allgemein oder für den Einzelfall entpflichtet
 worden (§ 59 Abs. 5), kann er aus vorbereitenden Übungen entlassen
-werden, wenn dies im dienstlichen Interesse liegt. § 75 Abs. 1 Satz 2
-Nr. 9 bleibt unberührt.
+werden, wenn dies im dienstlichen Interesse liegt. § 75 Absatz 1 Satz
+2 Nummer 10 bleibt unberührt.
 
 (4) § 75 Abs. 2 Nr. 1 ist mit der Maßgabe anzuwenden, dass der Soldat
 zu entlassen ist.
@@ -3362,8 +3597,8 @@ Heranziehung zu hören und auf Antrag oder, wenn Anhaltspunkte für eine
 Veränderung des Gesundheitszustandes vorliegen oder dies für eine
 vorgesehene Verwendung im Wehrdienst erforderlich ist, erneut ärztlich
 zu untersuchen. Sie haben sich hierzu nach Aufforderung durch die
-Kreiswehrersatzämter vorzustellen und ärztlich untersuchen zu lassen.
-Auf die Untersuchung findet § 17a Absatz 2 bis 4 entsprechende
+Karrierecenter der Bundeswehr vorzustellen und ärztlich untersuchen zu
+lassen. Auf die Untersuchung findet § 17a Absatz 2 bis 4 entsprechende
 Anwendung. Das Ergebnis der Untersuchung und die sich daraus
 ergebenden Rechtsfolgen sind durch einen schriftlichen
 Untersuchungsbescheid mitzuteilen. Das gilt auch dann, wenn eine
@@ -3374,13 +3609,14 @@ durchgeführt wird.
 #### § 72 Heranziehung von ungedienten Dienstleistungspflichtigen
 
 (1) Ungediente Dienstleistungspflichtige (§ 59 Abs. 3 Satz 1), die
-nach § 71 verfügbar sind, werden durch die Kreiswehrersatzämter zu
-Dienstleistungen herangezogen. Die Art der Dienstleistung sowie Ort
-und Zeit des Diensteintritts werden durch Heranziehungsbescheid
-bekannt gegeben. Im Heranziehungsbescheid ist die Dauer der zu
-leistenden Dienstleistung anzugeben; dies gilt nicht für die
-Heranziehung zum Wehrdienst im Spannungs- oder Verteidigungsfall nach
-§ 60 Nr. 6 und zu Übungen als Bereitschaftsdienst nach § 61 Abs. 3.
+nach § 71 verfügbar sind, werden durch die Karrierecenter der
+Bundeswehr zu Dienstleistungen herangezogen. Die Art der
+Dienstleistung sowie Ort und Zeit des Diensteintritts werden durch
+Heranziehungsbescheid bekannt gegeben. Im Heranziehungsbescheid ist
+die Dauer der zu leistenden Dienstleistung anzugeben; dies gilt nicht
+für die Heranziehung zum Wehrdienst im Spannungs- oder
+Verteidigungsfall nach § 60 Nr. 6 und zu Übungen als
+Bereitschaftsdienst nach § 61 Abs. 3.
 
 (2) Die Dienstleistungspflichtigen haben sich entsprechend dem
 Heranziehungsbescheid zu Dienstleistungen in der Bundeswehr zu
@@ -3422,8 +3658,8 @@ vorgesehene Verwendung im Wehrdienst erforderlich ist, erneut ärztlich
 zu untersuchen. Auf die Untersuchung finden § 17a Absatz 2 bis 4 sowie
 § 71 Satz 5 und 6 entsprechende Anwendung. Die
 Dienstleistungspflichtigen haben sich nach Aufforderung durch die
-Kreiswehrersatzämter vorzustellen und ärztlich untersuchen zu lassen.
-Sie haben sich entsprechend dem Heranziehungsbescheid zu
+Karrierecenter der Bundeswehr vorzustellen und ärztlich untersuchen zu
+lassen. Sie haben sich entsprechend dem Heranziehungsbescheid zu
 Dienstleistungen in der Bundeswehr zu stellen. § 72 Abs. 1 und 3 gilt
 entsprechend.
 
@@ -3471,8 +3707,8 @@ Heranziehung erreicht hat. Im Übrigen ist er zu entlassen, wenn
 
 4.  der Heranziehungsbescheid aufgehoben wird, eine zwingende
     Dienstleistungsausnahme vorliegt - in den Fällen des § 66 erst nach
-    Befreiung durch das Kreiswehrersatzamt - oder wenn innerhalb des
-    ersten Monats der Dienstleistung im Rahmen der
+    Befreiung durch das Karrierecenter der Bundeswehr - oder wenn
+    innerhalb des ersten Monats der Dienstleistung im Rahmen der
     Einstellungsuntersuchung festgestellt wird, dass der Soldat wegen
     einer Gesundheitsstörung dauernd oder voraussichtlich für einen
     Zeitraum von mehr als einem Monat, bei kürzerer Verwendung für den
@@ -3485,29 +3721,32 @@ Heranziehung erreicht hat. Im Übrigen ist er zu entlassen, wenn
     gefährdet würde,
 
 
-6.  er als Kriegsdienstverweigerer anerkannt ist,
+6.  bei ihm die Voraussetzungen des § 46 Absatz 2a vorliegen,
 
 
-7.  er seiner Aufstellung für die Wahl zum Europäischen Parlament, zum
+7.  er als Kriegsdienstverweigerer anerkannt ist,
+
+
+8.  er seiner Aufstellung für die Wahl zum Europäischen Parlament, zum
     Deutschen Bundestag oder zu der gesetzgebenden Körperschaft eines
     Landes zugestimmt hat,
 
 
-8.  er unabkömmlich gestellt ist,
+9.  er unabkömmlich gestellt ist,
 
 
-9.  der mit der Dienstleistung verfolgte Zweck entfallen ist und im Fall
+10. der mit der Dienstleistung verfolgte Zweck entfallen ist und im Fall
     einer befristeten Übung eine andere Verwendung im Hinblick auf die
     Ausbildung für die bestehende oder eine künftige Verwendung nicht
     erfolgen kann,
 
 
-10. er dienstunfähig ist oder die Wiederherstellung seiner Dienstfähigkeit
+11. er dienstunfähig ist oder die Wiederherstellung seiner Dienstfähigkeit
     innerhalb der Wehrdienstzeit nicht zu erwarten ist; § 44 Abs. 4 Satz 1
     und 3 gilt entsprechend, oder
 
 
-11. er nach § 67 Abs. 6 zurückgestellt ist.
+12. er nach § 67 Abs. 6 zurückgestellt ist.
 
 
 
@@ -3568,7 +3807,8 @@ endet der Wehrdienst, zu dem er herangezogen wurde, wenn
 durch ein deutsches Gericht auf die in § 38 Abs. 1 bezeichneten
 Strafen, Maßregeln oder Nebenfolgen erkannt wird. Er verliert seinen
 Dienstgrad; dies gilt auch, wenn er wegen schuldhafter Verletzung
-seiner Dienstpflichten nach § 75 Abs. 1 Satz 2 Nr. 5 entlassen wird.
+seiner Dienstpflichten nach § 75 Absatz 1 Satz 2 Nummer 5 oder nach §
+75 Absatz 1 Satz 2 Nummer 6 entlassen wird.
 
 (2) Wird ein Urteil mit der Folge des Dienstgradverlustes nach Absatz
 1 Satz 2 im Wiederaufnahmeverfahren durch ein Urteil ersetzt, das
@@ -3577,7 +3817,7 @@ eingetreten.
 
 (3) Ein Dienstleistungspflichtiger verliert seinen Dienstgrad ferner,
 wenn er als Kriegsdienstverweigerer anerkannt wird, im Fall der
-Entlassung nach § 75 Absatz 1 Satz 2 Nummer 6 mit Beendigung des
+Entlassung nach § 75 Absatz 1 Satz 2 Nummer 7 mit Beendigung des
 Wehrdienstverhältnisses. Er verliert seinen Dienstgrad auch, wenn
 gegen ihn durch ein deutsches Gericht auf eine der in § 38 Absatz 1
 bezeichneten Strafen, Maßregeln und Nebenfolgen erkannt worden ist.
@@ -3885,10 +4125,10 @@ den Widerspruchsbescheid zu erlassen hat, gewahrt.
 (2) Über den Widerspruch gegen den Heranziehungsbescheid (§ 72 Abs. 1
 Satz 1 und § 73 Satz 1), den Widerspruch gegen die Aufhebung eines
 Heranziehungsbescheides und den Widerspruch gegen den
-Untersuchungsbescheid (§ 71 Satz 5 und § 73 Satz 3) entscheidet die
-Wehrbereichsverwaltung. Der Widerspruch gegen den
-Heranziehungsbescheid, der Widerspruch gegen die Aufhebung eines
-Heranziehungsbescheides und der Widerspruch gegen den
+Untersuchungsbescheid (§ 71 Satz 5 und § 73 Satz 3) entscheidet das
+Bundesamt für das Personalmanagement der Bundeswehr. Der Widerspruch
+gegen den Heranziehungsbescheid, der Widerspruch gegen die Aufhebung
+eines Heranziehungsbescheides und der Widerspruch gegen den
 Untersuchungsbescheid haben keine aufschiebende Wirkung.
 
 
@@ -3911,7 +4151,8 @@ Die Anfechtungsklage gegen den Untersuchungsbescheid (§ 71 Satz 5 und
 72 Abs. 1 Satz 1 und § 73 Satz 1) und die Anfechtungsklage gegen die
 Aufhebung des Heranziehungsbescheides haben keine aufschiebende
 Wirkung. Das Gericht kann auf Antrag die aufschiebende Wirkung
-anordnen. Vor der Anordnung ist die Wehrbereichsverwaltung zu hören.
+anordnen. Vor der Anordnung ist das Bundesamt für das
+Personalmanagement der Bundeswehr zu hören.
 
 
 ## Siebter Abschnitt - Bußgeldvorschriften; Übergangs- und Schlussvorschriften
@@ -3949,7 +4190,7 @@ anordnen. Vor der Anordnung ist die Wehrbereichsverwaltung zu hören.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
+über Ordnungswidrigkeiten ist das Karrierecenter der Bundeswehr.
 
 
 ### § 87 Einstellung von anderen Bewerbern
@@ -4048,7 +4289,9 @@ Buchstabe b bis auf ein Jahr verkürzt wird.
 1.  die Nebentätigkeit der Soldaten nach § 20 Abs. 7,
 
 
-2.  die Laufbahnen der Soldaten nach § 27 Absatz 1,
+2.  die Laufbahnen der Soldaten nach § 27 Absatz 1, die Beurteilungen der
+    Soldaten nach § 27a Absatz 3 und die Referenzgruppen nach § 27b Absatz
+    3,
 
 
 3.  den Urlaub der Soldaten nach § 28 Abs. 4,

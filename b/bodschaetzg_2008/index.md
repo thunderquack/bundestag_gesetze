@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 3150, 3176
 
 Zuletzt geändert durch
-:   Art. 15 G v. 26.11.2019 I 1794
+:   Art. 33 G v. 22.12.2023 I Nr. 411
 
 
 ## Abschnitt 1 - Allgemeines
@@ -278,8 +278,8 @@ Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte
 Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis
 133) und der Siebente Teil (§§ 347 bis 368) der Abgabenordnung
 Anwendung. Die Vorschriften über die gesonderte Feststellung von
-Einheitswerten (§§ 180 bis 183 der Abgabenordnung) sind entsprechend
-anzuwenden.
+Einheitswerten oder Grundsteuerwerten (§§ 180 bis 183a der
+Abgabenordnung) sind entsprechend anzuwenden.
 
 
 ### § 13 Offenlegung der Bodenschätzungsergebnisse
@@ -295,8 +295,11 @@ bekannt zu geben.
 eines Feststellungsbescheids über die Ergebnisse der Bodenschätzung
 ein. Als Bekanntgabe gilt der letzte Tag der Offenlegungsfrist.
 
-(4) Die Offenlegung hat regelmäßig zu den üblichen Dienstzeiten in den
-Räumen des Finanzamts stattzufinden.
+(4) Die Offenlegung der Ergebnisse der Bodenschätzung soll zu den
+üblichen Dienstzeiten in den Räumen des Finanzamts stattfinden. Sie
+kann auch durch Veröffentlichung auf der Internetseite des Finanzamts
+oder der obersten Finanzbehörde des Landes erfolgen. § 122 Absatz 5
+Satz 4 der Abgabenordnung gilt dabei entsprechend.
 
 
 ### § 14 Übernahme in das Liegenschaftskataster

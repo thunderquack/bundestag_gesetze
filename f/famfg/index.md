@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 9a G v. 19.6.2023 I Nr. 155
+:   Art. 5 G v. 21.2.2024 I Nr. 54
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -391,19 +391,18 @@ werden in diesem Fall bei dem Nachweis angebracht.
 
 #### § 14a Formulare; Verordnungsermächtigung
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates elektronische
-Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
-den Formularen enthaltenen Angaben ganz oder teilweise in
-strukturierter maschinenlesbarer Form zu übermitteln sind. Die
-Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
-Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
-Rechtsverordnung kann bestimmen, dass eine Identifikation des
-Formularverwenders abweichend von § 130a Absatz 3 der
-Zivilprozessordnung auch durch Nutzung des elektronischen
-Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des
-eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen
-kann.
+Das Bundesministerium der Justiz kann durch Rechtsverordnung mit
+Zustimmung des Bundesrates elektronische Formulare einführen. Die
+Rechtsverordnung kann bestimmen, dass die in den Formularen
+enthaltenen Angaben ganz oder teilweise in strukturierter
+maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf
+einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform
+im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann
+bestimmen, dass eine Identifikation des Formularverwenders abweichend
+von § 130a Absatz 3 der Zivilprozessordnung auch durch Nutzung des
+elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
+5 des Aufenthaltsgesetzes erfolgen kann.
 
 
 #### § 14b Nutzungspflicht für Rechtsanwälte, Notare und Behörden
@@ -1346,7 +1345,11 @@ Interesse an der Feststellung hat.
 
 
 
-(3) Hat der Verfahrensbeistand oder der Verfahrenspfleger die
+(3) In Verfahren der Abschiebungs-, Zurückschiebungs- und
+Zurückweisungshaft liegt ein berechtigtes Interesse auch bei Vorliegen
+der Voraussetzungen des § 70 Absatz 2 Satz 1 vor.
+
+(4) Hat der Verfahrensbeistand oder der Verfahrenspfleger die
 Beschwerde eingelegt, gelten die Absätze 1 und 2 entsprechend.
 
 
@@ -5801,13 +5804,13 @@ bedarf es nicht.
 
 ##### § 259 Formulare
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, zur Vereinfachung und Vereinheitlichung der Verfahren
-durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für
-das vereinfachte Verfahren einzuführen. Für Gerichte, die die
-Verfahren maschinell bearbeiten, und für Gerichte, die die Verfahren
-nicht maschinell bearbeiten, können unterschiedliche Formulare
-eingeführt werden.
+(1) Das Bundesministerium der Justiz wird ermächtigt, zur
+Vereinfachung und Vereinheitlichung der Verfahren durch
+Rechtsverordnung mit Zustimmung des Bundesrates Formulare für das
+vereinfachte Verfahren einzuführen. Für Gerichte, die die Verfahren
+maschinell bearbeiten, und für Gerichte, die die Verfahren nicht
+maschinell bearbeiten, können unterschiedliche Formulare eingeführt
+werden.
 
 (2) Soweit nach Absatz 1 Formulare für Anträge und Erklärungen der
 Beteiligten eingeführt sind, müssen sich die Beteiligten ihrer
@@ -8441,13 +8444,16 @@ Registersachen sind
 1.  Handelsregistersachen,
 
 
-2.  Genossenschaftsregistersachen,
+2.  Gesellschaftsregistersachen,
 
 
-3.  Partnerschaftsregistersachen,
+3.  Genossenschaftsregistersachen,
 
 
-4.  Vereinsregistersachen.
+4.  Partnerschaftsregistersachen,
+
+
+5.  Vereinsregistersachen.
 
 
 
@@ -8457,8 +8463,8 @@ Registersachen sind
 
 Unternehmensrechtliche Verfahren sind die nach
 
-1.  § 146 Abs. 2, den §§ 147, 157 Abs. 2, § 166 Abs. 3, § 233 Abs. 3 und §
-    318 Abs. 3 bis 5 des Handelsgesetzbuchs,
+1.  § 145 Absatz 1 und 3, § 152 Absatz 1 und § 318 Absatz 3 bis 5 des
+    Handelsgesetzbuchs,
 
 
 2.  § 11 des Binnenschifffahrtsgesetzes, nach den Vorschriften dieses
@@ -8526,12 +8532,15 @@ Unternehmensrechtliche Verfahren sind die nach
 14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
 
 
-15. § 10 des Partnerschaftsgesellschaftsgesetzes in Verbindung mit § 146
-    Abs. 2 und den §§ 147 und 157 Abs. 2 des Handelsgesetzbuchs,
+15. § 10 des Partnerschaftsgesellschaftsgesetzes in Verbindung mit § 145
+    Absatz 1 und § 152 Absatz 1 des Handelsgesetzbuchs,
 
 
 16. § 9 Absatz 2 und 3 Satz 2 und § 18 Absatz 2 Satz 2 und 3 des
-    Schuldverschreibungsgesetzes
+    Schuldverschreibungsgesetzes,
+
+
+17. § 736a Absatz 1 und 3 des Bürgerlichen Gesetzbuchs
 
 
 
@@ -8541,11 +8550,12 @@ vom Gericht zu erledigenden Angelegenheiten.
 ### Abschnitt 2 - Zuständigkeit
 
 
-#### § 376 Besondere Zuständigkeitsregelungen
+#### § 376 Besondere Zuständigkeitsregelungen; Verordnungsermächtigung
 
-(1) Für Verfahren nach § 374 Nr. 1 und 2 sowie § 375 Nummer 1, 3 bis
-14 und 16 ist das Gericht, in dessen Bezirk ein Landgericht seinen
-Sitz hat, für den Bezirk dieses Landgerichts zuständig.
+(1) Für Verfahren nach § 374 Nummer 1 bis 3 sowie § 375 Nummer 1, 3
+bis 14 sowie 16 und 17 ist das Gericht, in dessen Bezirk ein
+Landgericht seinen Sitz hat, für den Bezirk dieses Landgerichts
+zuständig.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die Aufgaben nach § 374 Nummer 1 bis 4 sowie § 375 Nummer 1, 3 bis 14,
@@ -8553,8 +8563,8 @@ die Aufgaben nach § 374 Nummer 1 bis 4 sowie § 375 Nummer 1, 3 bis 14,
 die Bezirke der Gerichte abweichend von Absatz 1 festzulegen. Sie
 können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen. Mehrere Länder können die
-Zuständigkeit eines Gerichts für Verfahren nach § 374 Nr. 1 bis 3 über
-die Landesgrenzen hinaus vereinbaren.
+Zuständigkeit eines Gerichts für Verfahren nach § 374 Nummer 1 bis 4
+über die Landesgrenzen hinaus vereinbaren.
 
 
 #### § 377 Örtliche Zuständigkeit
@@ -8595,17 +8605,17 @@ des zur Anmeldung Berechtigten die Eintragung zu beantragen.
 (3) Anmeldungen in Registersachen mit Ausnahme der Genossenschafts-
 und Partnerschaftsregistersachen sind vor ihrer Einreichung für das
 Registergericht von einem Notar auf Eintragungsfähigkeit zu prüfen. In
-Handelsregistersachen sind sie zudem bei einem Notar zur Weiterleitung
-an die für die Eintragung zuständige Stelle einzureichen.
+Handels- und Gesellschaftsregistersachen sind sie zudem bei einem
+Notar zur Weiterleitung an die für die Eintragung zuständige Stelle
+einzureichen.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass Notare neben den elektronischen Anmeldungen bestimmte
 darin enthaltene Angaben in strukturierter maschinenlesbarer Form zu
 übermitteln haben, soweit nicht durch das Bundesministerium der Justiz
-und für Verbraucherschutz nach § 387 Absatz 2 entsprechende
-Vorschriften erlassen werden. Die Landesregierungen können die
-Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
-übertragen.
+nach § 387 Absatz 2 entsprechende Vorschriften erlassen werden. Die
+Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
+die Landesjustizverwaltungen übertragen.
 
 
 ##### § 379 Mitteilungspflichten der Behörden
@@ -8613,25 +8623,29 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 (1) Die Gerichte, die Staatsanwaltschaften, die Polizei- und
 Gemeindebehörden sowie die Notare haben die ihnen amtlich zur Kenntnis
 gelangenden Fälle einer unrichtigen, unvollständigen oder
-unterlassenen Anmeldung zum Handels-, Genossenschafts-, Vereins- oder
-Partnerschaftsregister dem Registergericht mitzuteilen.
+unterlassenen Anmeldung zum Handels-, Genossenschafts-,
+Gesellschafts-, Partnerschafts- oder Vereinsregister dem
+Registergericht mitzuteilen.
 
 (2) Die Finanzbehörden haben den Registergerichten Auskunft über die
 steuerlichen Verhältnisse von Kaufleuten oder Unternehmen,
 insbesondere auf dem Gebiet der Gewerbe- und Umsatzsteuer, zu
 erteilen, soweit diese Auskunft zur Verhütung unrichtiger Eintragungen
-im Handels- oder Partnerschaftsregister sowie zur Berichtigung,
-Vervollständigung oder Löschung von Eintragungen im Register benötigt
-wird. Die Auskünfte unterliegen nicht der Akteneinsicht (§ 13).
+im Handels-, Gesellschafts- oder Partnerschaftsregister sowie zur
+Berichtigung, Vervollständigung oder Löschung von Eintragungen im
+Register benötigt wird. Die Auskünfte unterliegen nicht der
+Akteneinsicht (§ 13).
 
 
 ##### § 380 Beteiligung der berufsständischen Organe; Beschwerderecht
 
 (1) Die Registergerichte werden bei der Vermeidung unrichtiger
-Eintragungen, der Berichtigung und Vervollständigung des Handels- und
-Partnerschaftsregisters, der Löschung von Eintragungen in diesen
-Registern und beim Einschreiten gegen unzulässigen Firmengebrauch oder
-unzulässigen Gebrauch eines Partnerschaftsnamens von
+Eintragungen, der Berichtigung und Vervollständigung des Handels-,
+Gesellschafts- und Partnerschaftsregisters, der Löschung von
+Eintragungen in diesen Registern und beim Einschreiten gegen
+unzulässigen Firmengebrauch oder unzulässigen Gebrauch des Namens
+einer Partnerschaft oder einer eingetragenen Gesellschaft bürgerlichen
+Rechts von
 
 1.  den Organen des Handelsstandes,
 
@@ -8737,7 +8751,7 @@ bestimmte Eintragung in das Register nicht erfolgt ist.
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass die Daten des bei einem Gericht geführten Handels-,
-Genossenschafts-, Gesellschafts-, Partnerschafts-  oder
+Genossenschafts-, Gesellschafts-, Partnerschafts- oder
 Vereinsregisters auch bei anderen Amtsgerichten zur Einsicht und zur
 Erteilung von Ausdrucken zugänglich sind. Die Landesregierungen können
 diese Ermächtigung durch Rechtsverordnung auf die
@@ -8746,9 +8760,9 @@ vereinbaren, dass die bei den Gerichten eines Landes geführten
 Registerdaten auch bei den Amtsgerichten des anderen Landes zur
 Einsicht und zur Erteilung von Ausdrucken zugänglich sind.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-näheren Bestimmungen über die Einrichtung und Führung des Handels-,
+(2) Das Bundesministerium der Justiz wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Bestimmungen über die Einrichtung und Führung des Handels-,
 Genossenschafts-, Gesellschafts- und Partnerschaftsregisters, die
 Übermittlung der Daten an das Unternehmensregister und die
 Aktenführung in Beschwerdeverfahren, die Einsicht in das Register, die
@@ -8780,7 +8794,7 @@ Bekanntmachungen sowie über die Einsicht in das Register, und über die
 Aktenführung im Beschwerdeverfahren erlassen werden.
 
 (5) Die elektronische Datenverarbeitung zur Führung des Handels-,
-Genossenschafts-, Gesellschafts-, Partnerschafts-  oder
+Genossenschafts-, Gesellschafts-, Partnerschafts- oder
 Vereinsregisters kann im Auftrag des zuständigen Gerichts auf den
 Anlagen einer anderen staatlichen Stelle oder auf den Anlagen eines
 Dritten vorgenommen werden, wenn die ordnungsgemäße Erledigung der
@@ -8812,13 +8826,15 @@ erforderlichen Bestimmungen getroffen werden über
 ##### § 388 Androhung
 
 (1) Sobald das Registergericht von einem Sachverhalt, der sein
-Einschreiten nach den §§ 14, 37a Abs. 4 und § 125a Abs. 2 des
-Handelsgesetzbuchs, auch in Verbindung mit § 5 Abs. 2 des
-Partnerschaftsgesellschaftsgesetzes, den §§ 407 und 408 des
-Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften
-mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des
-EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat
-es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben,
+Einschreiten nach den §§ 14, 37a Abs. 4 und § 125 Abs. 2 des
+Handelsgesetzbuchs, auch in Verbindung mit § 707b Nummer 2 des
+Bürgerlichen Gesetzbuchs, § 5 Absatz 2 des
+Partnerschaftsgesellschaftsgesetzes oder § 160 Absatz 1 des
+Genossenschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79
+Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter
+Haftung, § 350 des Umwandlungsgesetzes oder § 12 des EWIV-
+Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es
+dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben,
 innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung
 nachzukommen oder die Unterlassung mittels Einspruchs zu
 rechtfertigen.
@@ -8902,7 +8918,8 @@ sind die §§ 388 bis 391 anzuwenden, wobei
 
 
 (2) Absatz 1 gilt entsprechend im Fall des unbefugten Gebrauchs des
-Namens einer Partnerschaft.
+Namens einer Partnerschaft oder einer eingetragenen Gesellschaft
+bürgerlichen Rechts.
 
 
 #### Unterabschnitt 3 - Löschungs- und Auflösungsverfahren
@@ -8938,7 +8955,8 @@ wenn der den Widerspruch zurückweisende Beschluss rechtskräftig
 geworden ist.
 
 (6) Die Absätze 1 bis 5 gelten entsprechend, wenn die Löschung des
-Namens einer Partnerschaft eingetragen werden soll.
+Namens einer Partnerschaft oder einer eingetragenen Gesellschaft
+bürgerlichen Rechts eingetragen werden soll.
 
 
 ##### § 394 Löschung vermögensloser Gesellschaften und Genossenschaften
@@ -8969,16 +8987,17 @@ Prüfungsverband, zu hören.
 
 (3) Für das weitere Verfahren gilt § 393 Abs. 3 bis 5 entsprechend.
 
-(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden auf offene
-Handelsgesellschaften und Kommanditgesellschaften, bei denen keiner
-der persönlich haftenden Gesellschafter eine natürliche Person ist.
-Eine solche Gesellschaft kann jedoch nur gelöscht werden, wenn die für
-die Vermögenslosigkeit geforderten Voraussetzungen sowohl bei der
-Gesellschaft als auch bei den persönlich haftenden Gesellschaftern
-vorliegen. Die Sätze 1 und 2 gelten nicht, wenn zu den persönlich
-haftenden Gesellschaftern eine andere offene Handelsgesellschaft oder
-Kommanditgesellschaft gehört, bei der eine natürliche Person
-persönlich haftender Gesellschafter ist.
+(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden auf eingetragene
+Gesellschaften bürgerlichen Rechts, offene Handelsgesellschaften und
+Kommanditgesellschaften, bei denen keiner der persönlich haftenden
+Gesellschafter eine natürliche Person ist. Eine solche Gesellschaft
+kann jedoch nur gelöscht werden, wenn die für die Vermögenslosigkeit
+geforderten Voraussetzungen sowohl bei der Gesellschaft als auch bei
+den persönlich haftenden Gesellschaftern vorliegen. Die Sätze 1 und 2
+gelten nicht, wenn zu den persönlich haftenden Gesellschaftern eine
+andere eingetragene Gesellschaft bürgerlichen Rechts, offene
+Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der eine
+natürliche Person persönlich haftender Gesellschafter ist.
 
 
 ##### § 395 Löschung unzulässiger Eintragungen
@@ -9556,6 +9575,13 @@ darf die Dauer von sechs Wochen nicht überschreiten.
 bereits vor der persönlichen Anhörung des Betroffenen sowie vor
 Bestellung und Anhörung des Verfahrenspflegers erlassen; die
 Verfahrenshandlungen sind unverzüglich nachzuholen.
+
+(3) Abweichend von den Absätzen 1 und 2 kann das Gericht eine
+einstweilige Anordnung vor der Anhörung des Betroffenen erlassen, wenn
+dringende Gründe für die Annahme vorliegen, dass die Voraussetzungen
+für die Anordnung einer Freiheitsentziehung gegeben sind, und die
+vorherige Anhörung den Zweck der Anordnung gefährden würde. Die
+Anhörung ist unverzüglich nachzuholen.
 
 
 ### § 428 Verwaltungsmaßnahme; richterliche Prüfung

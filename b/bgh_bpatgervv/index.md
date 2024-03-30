@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   § 10 Abs. 2 Nr. 1 V v. 24.11.2017 I 3803
 
+V aufgeh. durch
+:   Art. 1 V v. 20.2.2024 I Nr. 55 mWv 1.4.2024
+
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
 Informationsverfahren auf dem Gebiet der Normen und technischen

@@ -40,17 +40,7 @@ den Wohnort vorgesehenen Feld anzubringen.
 dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
-### § 2 Muster des Kinderreisepasses; Änderung von Daten
-
-(1) Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in
-der Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden
-Daten gelten die formalen Anforderungen der Anlage 11.
-
-(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
-dem in der Anlage 1d abgedruckten Muster verwendet werden.
-
-
-### § 3 Muster des vorläufigen Reisepasses; Änderung von Daten
+### § 2 Muster des vorläufigen Reisepasses; Änderung von Daten
 
 (1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach
 dem in der Anlage 3 abgedruckten Muster auszustellen. Für die
@@ -60,7 +50,7 @@ einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
-### § 4 Muster des amtlichen Passes; Änderung von Daten
+### § 3 Muster des amtlichen Passes; Änderung von Daten
 
 (1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 4 abgedruckten Muster auszustellen.
@@ -80,7 +70,7 @@ kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten
 Muster verwendet werden.
 
 
-### § 5 Lichtbild
+### § 4 Lichtbild
 
 Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles
 Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat
@@ -92,6 +82,10 @@ Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen
 Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender
 Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei
 Lichtbildern von Kindern regelt Anlage 8.
+
+
+### § 5 (weggefallen)
+
 
 
 ## Kapitel 2 - Befreiung von der Passpflicht und Passersatzpapiere
@@ -207,7 +201,7 @@ Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage
 ### § 9 Lichtbilder für den Passersatz
 
 Sofern auf einem Passersatz die Anbringung eines Lichtbildes
-vorgesehen ist, gilt § 5 entsprechend.
+vorgesehen ist, gilt § 4 entsprechend.
 
 
 ### § 10 Gültigkeitsdauer des Passersatzes
@@ -314,7 +308,7 @@ an der Belassung des amtlichen Passes vorliegt.
     *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr
         vollendet haben,
 
-    *   60 Euro,
+    *   70 Euro,
 
 
 *    *
@@ -355,14 +349,6 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   f)
 
-    *   eines Kinderreisepasses
-
-    *   13 Euro,
-
-
-*    *
-    *   g)
-
     *   eines Ausweises für Binnenschiffer und deren Familienangehörige für
         die Flussschifffahrt auf der Donau (§ 7 Abs. 1 Nr. 2)
 
@@ -370,7 +356,7 @@ an der Belassung des amtlichen Passes vorliegt.
 
 
 *    *
-    *   h)
+    *   g)
 
     *   eines Ausweises, der von den Behörden und Dienststellen ausgestellt
         wird, die für die polizeiliche Kontrolle des grenzüberschreitenden
@@ -380,7 +366,7 @@ an der Belassung des amtlichen Passes vorliegt.
 
 
 *    *
-    *   i)
+    *   h)
 
     *   eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
         Deutschland berechtigt (§ 7 Abs. 1 Nr. 8)
@@ -391,10 +377,10 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *   2.
 
     *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und
-        für die Verlängerung oder Änderung eines Kinderreisepasses oder eines
-        anderen unter Nummer 1 genannten Ausweises
+        für die Verlängerung oder Änderung eines anderen unter Nummer 1
+        genannten Ausweises
 
-    *   6 Euro.
+    *   6 Euro,
 
 
 
@@ -406,9 +392,9 @@ an der Belassung des amtlichen Passes vorliegt.
     der behördlichen Dienstzeit vorgenommen werden;
 
 
-2.  für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und f und Nr. 2
-    genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers
-    von einer nicht zuständigen Behörde vorgenommen werden.
+2.  für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und Nr. 2 genannten
+    Amtshandlungen, wenn sie auf Veranlassung des Antragstellers von einer
+    nicht zuständigen Behörde vorgenommen werden.
 
 
 
@@ -416,8 +402,8 @@ an der Belassung des amtlichen Passes vorliegt.
 (3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen
 Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind
 die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die
-Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 44 Euro und
-die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
+Gebühren nach Absatz 1 Nummer 1 Buchstabe e und i um 44 Euro und die
+Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 (4) Gebühren sind nicht zu erheben
 
@@ -431,8 +417,7 @@ die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 
 3.  für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen
-    Reisepass, im Kinderreisepass oder in einem anderen in Absatz 1 Nr. 1
-    genannten Ausweis.
+    Reisepass oder in einem anderen in Absatz 1 Nr. 1 genannten Ausweis.
 
 
 
@@ -945,100 +930,12 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-### Anlage 2 Passmuster Kinderreisepass
+### Anlage 2 (weggefallen)
 
-   (Fundstelle: BGBl. I 2017, 187 — 192)
-
-
-*    *   Kinderreisepass
-
-    *   Einband
-
-
-
-
-![bgbl1_2017_j0162-1_0490.jpg](bgbl1_2017_j0162-1_0490.jpg)
-
-*    *   Kinderreisepass
-
-    *   Vorsatz und Passbuchinnenseite 1
-
-
-
-
-![bgbl1_2017_j0162-1_0500.jpg](bgbl1_2017_j0162-1_0500.jpg)
-Die Seiten 1 bis 16 sowie der hintere Einband
-werden am unteren Rand mit der Dokumentennummer perforiert.
-
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 2 und 3
-
-
-
-
-![bgbl1_2017_j0162-1_0510.jpg](bgbl1_2017_j0162-1_0510.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 4 und 5
-
-
-
-
-![bgbl1_2017_j0162-1_0520.jpg](bgbl1_2017_j0162-1_0520.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 6 und 7
-
-
-
-
-![bgbl1_2017_j0162-1_0530.jpg](bgbl1_2017_j0162-1_0530.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 8 und 9
-
-
-
-
-![bgbl1_2017_j0162-1_0540.jpg](bgbl1_2017_j0162-1_0540.jpg)
-Seiten 8 bis 15 gleichlautend.
-
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseite 16 und Vorsatz
-
-
-
-
-![bgbl1_2017_j0162-1_0550.jpg](bgbl1_2017_j0162-1_0550.jpg)
-
-*    *   Kinderreisepass
-
-    *   Aufkleber Personaldaten
-
-
-
-
-![bgbl1_2017_j0162-1_0560.jpg](bgbl1_2017_j0162-1_0560.jpg)
-
-*    *   Kinderreisepass
-
-    *   Aufkleber Verlängerung/Änderung
-
-
-
-
-![bgbl1_2017_j0162-1_0570.jpg](bgbl1_2017_j0162-1_0570.jpg)
 
 ### Anlage 3
 
-(Fundstelle: BGBl. I 2007, 2413 - 2420;
+   (Fundstelle: BGBl. I 2007, 2413 - 2420;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Vorläufiger Reisepass
@@ -1985,27 +1882,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
 
-   (Fundstelle: BGBl. I 2017, 221 — 225)
+   (Fundstelle: BGBl. I 2017, 221 - 225;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Vorbemerkung:**
 
 1.  Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die
     in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die
     Einträge. Die in der nachstehenden Tabelle 2 beschriebenen
-    Anforderungen an die Einträge gelten für den Kinderreisepass,
-    vorläufigen Reisepass und für den vorläufigen Dienst- und
-    Diplomatenpass. Für den Aufkleber zur Änderung des Wohnortes gelten
-    die in der Tabelle 3 beschriebenen Anforderungen an Einträge, für den
-    Aufkleber zur Eintragung amtlicher Vermerke die in der Tabelle 4
-    beschriebenen Anforderungen. Die in der Tabelle 5 beschriebenen
-    Anforderungen an Einträge gelten für den Aufkleber zur Änderung des
-    Dienstortes und der Dienstbezeichnung.
+    Anforderungen an die Einträge gelten für den vorläufigen Reisepass und
+    für den vorläufigen Dienst- und Diplomatenpass. Für den Aufkleber zur
+    Änderung des Wohnortes gelten die in der Tabelle 3 beschriebenen
+    Anforderungen an Einträge, für den Aufkleber zur Eintragung amtlicher
+    Vermerke die in der Tabelle 4 beschriebenen Anforderungen. Die in der
+    Tabelle 5 beschriebenen Anforderungen an Einträge gelten für den
+    Aufkleber zur Änderung des Dienstortes und der Dienstbezeichnung.
 
 
 2.  Die Passbehörden verwenden zur Personalisierung der Aufkleber
-    Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der
-    vorläufigen Dienst- und Diplomatenpässe, der Aufkleber Verlängerung/
-    Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und
+    Personaldaten der vorläufigen Reisepässe, der vorläufigen Dienst- und
+    Diplomatenpässe sowie der Aufkleber Dienstort- und
     Dienstbezeichnungsänderung, Wohnortänderung und Eintragung amtlicher
     Vermerke den Schriftfont „UnicodeDoc“. Hierfür sind
     Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831
@@ -2046,8 +1942,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         gekürzt vorzunehmen.
 
 
-    b)  Für den Kinderreisepass, den vorläufigen Reisepass sowie den
-        vorläufigen Dienst- und Diplomatenpass gilt:
+    b)  Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
+        Diplomatenpass gilt:
 
         Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz
         gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen. Einträge
@@ -2073,8 +1969,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
 
-    Für den Kinderreisepass, den vorläufigen Reisepass sowie den
-    vorläufigen Dienst- und Diplomatenpass gilt:
+    Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
+    Diplomatenpass gilt:
 
     Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen.
     Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines
@@ -2093,22 +1989,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6,
     7, 8, 9 gebildet.
 
-    Beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass
-    und vorläufigen Diplomatenpass besteht die Seriennummer aus einem
-    Serienbuchstaben und sieben Ziffern.
+    Beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen
+    Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und
+    sieben Ziffern.
 
 
 10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x
     45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen
-    Reisepass, im Dienstpass, im Diplomatenpass sowie im Kinderreisepass
-    in den Abmessungen 32 x 41 mm verkleinert darzustellen.
+    Reisepass, im Dienstpass sowie im Diplomatenpass in den Abmessungen 32
+    x 41 mm verkleinert darzustellen.
 
 
 11. Die Schriftgröße ist am Großbuchstaben E auszurichten.
 
 
-12. Die Eintragung zur Staatsangehörigkeit im Reisepass, Kinderreisepass
-    und vorläufigen Reisepass lautet „DEUTSCH“.
+12. Die Eintragung zur Staatsangehörigkeit im Reisepass und vorläufigen
+    Reisepass lautet „DEUTSCH“.
 
     Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und
     vorläufigen Diplomatenpass gilt:
@@ -2175,7 +2071,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   [a]
 
-    *[^F797417_01_BJNR238610007BJNE003604116]
+    *[^F797417_01_BJNR238610007BJNE003605130]
    Name
 
     *   40 Zeichen pro Zeile; 2 Zeilen
@@ -2187,7 +2083,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   [a]
 
-    *[^F797417_02_BJNR238610007BJNE003604116]
+    *[^F797417_02_BJNR238610007BJNE003605130]
    Name
 
     *   [a]
@@ -2367,7 +2263,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   11
 
-    *[^F797417_03_BJNR238610007BJNE003604116]
+    *[^F797417_03_BJNR238610007BJNE003605130]
    Dienstort und Dienstbezeichnung
         (Seite 1)
 
@@ -2379,7 +2275,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   ohne
 
-    *[^F797417_04_BJNR238610007BJNE003604116]
+    *[^F797417_04_BJNR238610007BJNE003605130]
    Passaktennummer
         (Seite 1)
 
@@ -2412,8 +2308,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**Tabelle 2: Kinderreisepass, vorläufiger Reisepass, vorläufiger
-Dienst- und Diplomatenpass**
+**Tabelle 2: Vorläufiger Reisepass, vorläufiger Dienst- und
+Diplomatenpass**
 
 
 *    *   Datenfelder
@@ -2566,7 +2462,7 @@ Dienst- und Diplomatenpass**
 
 *    *   12
 
-    *[^F797417_05_BJNR238610007BJNE003604116]
+    *[^F797417_05_BJNR238610007BJNE003605130]
    Größe
 
     *   6 Zeichen pro Zeile, 1 Zeile
@@ -2741,8 +2637,8 @@ Dienstbezeichnung bei amtlichen Pässen**
 
 
     Fall: Es gibt keinen Geburtsnamen.
-[^F797417_01_BJNR238610007BJNE003604116]:     Fall: Es gibt einen Geburtsnamen.
-[^F797417_02_BJNR238610007BJNE003604116]:     Gilt nur für amtliche Pässe.
-[^F797417_03_BJNR238610007BJNE003604116]:     Gilt nur für amtliche Pässe.
-[^F797417_04_BJNR238610007BJNE003604116]:     Größenangabe im Format „123 CM“.
-[^F797417_05_BJNR238610007BJNE003604116]: 
+[^F797417_01_BJNR238610007BJNE003605130]:     Fall: Es gibt einen Geburtsnamen.
+[^F797417_02_BJNR238610007BJNE003605130]:     Gilt nur für amtliche Pässe.
+[^F797417_03_BJNR238610007BJNE003605130]:     Gilt nur für amtliche Pässe.
+[^F797417_04_BJNR238610007BJNE003605130]:     Größenangabe im Format „123 CM“.
+[^F797417_05_BJNR238610007BJNE003605130]: 

@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.12.2020 I 2713; 2021 I 343
 
+Änderung durch
+:   Art. 1 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 89 Nr. 7 G v. 20.8.2021 I 3932 ist berücksichtigt
 

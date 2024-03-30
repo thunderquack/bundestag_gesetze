@@ -18,6 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 22.2.2023 I Nr. 51
 
+Änderung durch
+:   Art. 29 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+
+Änderung durch
+:   Art. 34 Abs. 20 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
 
@@ -1457,13 +1469,14 @@ für die elektronische Übermittlung von in Absatz 1 aufgeführten
 Anzeigen, Anträgen, Mitteilungen, Berichten, Unterlagen, Informationen
 und Nachweise ein von der Bundesanstalt bereitgestelltes
 elektronisches Kommunikationsverfahren zu nutzen und hierfür den
-elektronischen Zugang einzurichten.Sie haben sicherzustellen, dass
+elektronischen Zugang einzurichten. Sie haben sicherzustellen, dass
 regelmäßig, spätestens alle fünf Kalendertage, überprüft wird, ob
 ihnen Mitteilungen über das elektronische Kommunikationsverfahren
-bereitgestellt wurden.Dies gilt auch für Verwaltungsakte, die gemäß §
-4f des Finanzdienstleistungsaufsichtsgesetzes bekanntgegeben oder
-gemäß § 4g des Finanzdienstleistungsaufsichtsgesetzes zugestellt
-werden.Verwaltungsgesellschaften, extern verwaltete OGAW-
+bereitgestellt wurden. Dies gilt auch für Verwaltungsakte, die gemäß §
+4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch
+bekanntgegeben oder gemäß § 4g des
+Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden.
+Verwaltungsgesellschaften, extern verwaltete OGAW-
 Investmentaktiengesellschaften und Verwahrstellen können für die
 elektronische Kommunikation gegenüber der Bundesanstalt auch
 Bevollmächtigte einsetzen.
@@ -2807,6 +2820,11 @@ entsprechend; § 2c Absatz 1 Satz 5 und 6 des Kreditwesengesetzes ist
 entsprechend anzuwenden mit der Maßgabe, dass die Anzeigen jeweils nur
 gegenüber der Bundesanstalt abzugeben sind.
 
+(1a) Die Bundesanstalt hat den Eingang einer vollständigen Anzeige
+nach Absatz 1 umgehend, spätestens jedoch innerhalb von zwei
+Arbeitstagen nach deren Zugang, gegenüber dem Anzeigepflichtigen zu
+bestätigen.
+
 (2) Die Bundesanstalt hat eine Anzeige nach Absatz 1 innerhalb von 60
 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der
 vollständigen Anzeige bestätigt hat, zu beurteilen
@@ -2870,6 +2888,24 @@ oder 50 Prozent der Stimmrechte oder des Kapitals abzusenken oder die
 Beteiligung so zu verändern, dass die externe OGAW-
 Kapitalverwaltungsgesellschaft nicht mehr kontrolliertes Unternehmen
 ist, hat dies der Bundesanstalt unverzüglich anzuzeigen.
+
+(5a) Anzeigen, Unterlagen und Erklärungen nach den Absätzen 1 und 5
+können auch ganz oder teilweise in englischer Sprache eingereicht
+werden. Die Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer
+Übersetzung oder in begründeten Fällen einer beglaubigten oder von
+einem öffentlich bestellten oder beeidigten Dolmetscher oder
+Übersetzer angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3
+und 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Sofern die
+Bundesanstalt eine Übersetzung verlangt, ist allein die
+deutschsprachige Fassung rechtlich verbindlich. Soweit die
+Bundesanstalt vor Bestätigung des Eingangs der vollständigen Anzeige
+eine Übersetzung verlangt, ist die Anzeige erst vollständig im Sinne
+des Absatzes 2 Satz 1, sobald die Übersetzung bei der Bundesanstalt
+eingereicht worden ist. Sofern die Bundesanstalt in Bezug auf weitere
+Informationen im Sinne des § 2c Absatz 1a Satz 3 des
+Kreditwesengesetzes eine Übersetzung verlangt, sind diese
+Informationen erst bei der Bundesanstalt eingegangen, wenn die
+Übersetzung bei der Bundesanstalt eingegangen ist.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -4666,7 +4702,13 @@ und 37 sowie die Anforderungen nach
     Absatz 2 der Verordnung (EU) 2016/1011,
 
 
-4.  Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014,
+4.  Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 des
+    Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für
+    Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012
+    (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom
+    15\.10.2015, S. 4; L 278 vom 27.10.2017, S. 54), die zuletzt durch die
+    Verordnung (EU) 2022/2554 (ABl. L 333 vom 27.12.2022, S. 1) geändert
+    worden ist,
 
 
 5.  den Artikeln 4 bis 6, 9 bis 21, 23 bis 34 und 36 der Verordnung (EU)
@@ -4709,18 +4751,25 @@ Wertpapierhandelsgesetzes ganz oder teilweise absehen, soweit dies aus
 besonderen Gründen, insbesondere wegen der Art und des Umfangs der
 betriebenen Geschäfte, angezeigt ist.
 
+(4a) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+den Absätzen 3 und 4 kann die Bundesanstalt auch gegenüber der
+Kapitalverwaltungsgesellschaft Bestimmungen über den Inhalt der
+Prüfung treffen, die vom Abschlussprüfer im Rahmen der
+Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere
+Schwerpunkte für die Prüfungen festlegen.
+
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt der
-Prüfung, weitere Inhalte, Umfang und Darstellungen des
-Prüfungsberichts sowie zur Art und Weise seiner Einreichung bei der
-Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der
-Bundesanstalt erforderlich ist, insbesondere um einheitliche
-Unterlagen zur Beurteilung der Tätigkeit der externen
-Kapitalverwaltungsgesellschaft zu erhalten. Das Bundesministerium der
-Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt übertragen.
+Prüfung, den Gegenstand der Prüfung nach den Absätzen 3 und 4, weitere
+Inhalte, Umfang und Darstellungen des Prüfungsberichts sowie zur Art
+und Weise seiner Einreichung bei der Bundesanstalt zu erlassen, soweit
+dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
+insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
+der externen Kapitalverwaltungsgesellschaft zu erhalten. Das
+Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### Unterabschnitt 3 - Weitere Maßnahmen der Aufsichtsbehörde
@@ -4816,12 +4865,10 @@ oder die Erlaubnis erlischt.
 
 ##### § 40 Maßnahmen gegen Geschäftsleiter und Aufsichtsorganmitglieder
 
-(1) In den Fällen des § 39 Absatz 3 kann die Bundesanstalt, anstatt
-die Erlaubnis aufzuheben, die verantwortlichen Geschäftsleiter
-verwarnen oder ihre Abberufung verlangen und ihnen oder einer anderen
-verantwortlichen natürlichen Person, die in der
-Kapitalverwaltungsgesellschaft tätig ist, die Ausübung ihrer Tätigkeit
-untersagen.
+(1) In den Fällen des § 39 Absatz 3 kann die Bundesanstalt, statt die
+Erlaubnis aufzuheben, die Abberufung der verantwortlichen
+Geschäftsleiter verlangen und diesen auch die Ausübung ihrer Tätigkeit
+bei Kapitalverwaltungsgesellschaften untersagen.
 
 (2) Die Bundesanstalt kann die Organbefugnisse abberufener
 Geschäftsleiter so lange auf einen geeigneten Sonderbeauftragten
@@ -4830,22 +4877,159 @@ Geschäftsleiter verfügt, die den in § 23 Nummer 3 genannten
 Anforderungen genügen. § 45c Absatz 6 und 7 des Kreditwesengesetzes
 ist entsprechend anzuwenden.
 
-(3) Die Bundesanstalt kann ein Aufsichtsorganmitglied verwarnen oder
-seine Abberufung verlangen und einer solchen Person die Ausübung ihrer
-Tätigkeit untersagen, wenn
+(2a) Die Bundesanstalt kann einen Geschäftsleiter verwarnen, wenn
+dieser verstoßen hat gegen
 
-1.  Tatsachen vorliegen, aus denen sich ergibt, dass die Person nicht
-    zuverlässig ist oder
+1.  dieses Gesetz,
 
 
-2.  Tatsachen vorliegen, aus denen sich ergibt, dass die Person nicht die
-    erforderliche Sachkunde besitzt.
+2.  das Kreditwesengesetz,
+
+
+3.  das Wertpapierhandelsgesetz,
+
+
+4.  das Wertpapierinstitutsgesetz,
+
+
+5.  das Geldwäschegesetz,
+
+
+6.  die Rechtsverordnungen, die aufgrund der in den Nummern 1 bis 5
+    genannten Gesetze erlassen wurden,
+
+
+7.  die Verordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur
+    Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und
+    des Rates im Hinblick auf die wesentlichen Informationen für den
+    Anleger und die Bedingungen, die einzuhalten sind, wenn die
+    wesentlichen Informationen für den Anleger oder der Prospekt auf einem
+    anderen dauerhaften Datenträger als Papier oder auf einer Website zur
+    Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1; L 108 vom
+    28\.4.2011, S. 38),
+
+
+8.  die Verordnung (EU) Nr. 584/2010,
+
+
+9.  die Verordnung (EU) Nr. 231/2013,
+
+
+10. die Verordnung (EU) Nr. 345/2013,
+
+
+11. die Verordnung (EU) Nr. 346/2013,
+
+
+12. die Verordnung (EU) Nr. 694/2014,
+
+
+13. die Verordnung (EU) Nr. 1286/2014,
+
+
+14. die Verordnung (EU) 2015/760,
+
+
+15. die Verordnung (EU) 2016/438,
+
+
+16. die Verordnung (EU) 2017/1131,
+
+
+17. die Verordnung (EU) 2019/2088,
+
+
+18. die Verordnung (EU) 2019/1156 des Europäischen Parlaments und des
+    Rates vom 20. Juni 2019 zur Erleichterung des grenzüberschreitenden
+    Vertriebs von Organismen für gemeinsame Anlagen und zur Änderung der
+    Verordnungen (EU) Nr. 345/2013, (EU) Nr. 346/2013 und (EU) Nr.
+    1286/2014 (ABl. L 188 vom 12.7.2019, S. 55),
+
+
+19. die Verordnung (EU) 2019/1238 oder die zu ihrer Durchführung
+    erlassenen Rechtsakte,
+
+
+20. die Verordnung (EU) 2020/852,
+
+
+21. die Verordnung (EU) Nr. 575/2013,
+
+
+22. die Verordnung (EU) Nr. 648/2012,
+
+
+23. die Verordnung (EU) Nr. 596/2014,
+
+
+24. die Verordnung (EU) Nr. 600/2014,
+
+
+25. die Verordnung (EU) 2015/2365,
+
+
+26. die Verordnung (EU) 2016/1011,
+
+
+27. die Verordnung (EU) 2017/2402,
+
+
+28. die zur Durchführung der in den Nummern 21 bis 27 genannten
+    Verordnungen erlassenen Rechtsakte,
+
+
+29. die Verordnung (EU) 2019/2033,
+
+
+30. die sonstigen zur Durchführung der Richtlinie 2009/65/EG erlassenen
+    Rechtsakte,
+
+
+31. die sonstigen zur Durchführung der Richtlinie 2011/61/EU erlassenen
+    Rechtsakte,
+
+
+32. die zur Durchführung der Richtlinie 2013/36/EU des Europäischen
+    Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur
+    Tätigkeit von Kreditinstituten und die Beaufsichtigung von
+    Kreditinstituten, zur Änderung der Richtlinie 2002/87/EG und zur
+    Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom
+    27\.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S.
+    1; L 203 vom 26.6.2020, S. 95; L 436 vom 28.12.2020, S. 77), die
+    zuletzt durch die Richtlinie (EU) 2022/2556 (ABl. L 333 vom
+    27\.12.2022, S. 153) geändert worden ist, erlassenen Rechtsakte,
+
+
+33. die zur Durchführung der Verordnung (EU) Nr. 909/2014 des Europäischen
+    Parlaments und des Rates vom 23. Juli 2014 zur Verbesserung der
+    Wertpapierlieferungen und -abrechnungen in der Europäischen Union und
+    über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und
+    2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom
+    28\.8.2014, S. 1; L 349 vom 21.12.2016, S. 5), die zuletzt durch die
+    Verordnung (EU) 2022/2554 (ABl. L 333 vom 27.12.2022, S. 1) geändert
+    worden ist, erlassenen Rechtsakte oder
+
+
+34. Anordnungen der Bundesanstalt.
 
 
 
-Die Abberufung von Arbeitnehmervertretern im Aufsichtsorgan erfolgt
-allein nach den Vorschriften der Mitbestimmungsgesetze und
-gesetzlichen Mitbestimmungsvereinbarungen.
+Gegenstand der Verwarnung ist die Feststellung des
+entscheidungserheblichen Sachverhaltes und des hierdurch begründeten
+Verstoßes. Die Bundesanstalt kann auch die Abberufung eines
+Geschäftsleiters verlangen und diesem Geschäftsleiter die Ausübung
+seiner Tätigkeit bei Kapitalverwaltungsgesellschaften untersagen, wenn
+dieser gegen die in Satz 1 genannten Rechtsakte oder gegen Anordnungen
+der Bundesanstalt verstoßen hat und trotz Verwarnung nach Satz 1
+dieses Verhalten vorsätzlich oder leichtfertig fortsetzt.
+
+(3) Die Bundesanstalt kann die Abberufung eines
+Aufsichtsorganmitglieds verlangen und einer solchen Person auch die
+Ausübung ihrer Tätigkeit untersagen, wenn Tatsachen vorliegen, aus
+denen sich ergibt, dass ihrer Persönlichkeit oder ihrer Sachkunde nach
+die Wahrung der Interessen der Anleger nicht gewährleistet ist. Die
+Abberufung von Arbeitnehmervertretern im Aufsichtsorgan erfolgt allein
+nach den Vorschriften der Mitbestimmungsgesetze.
 
 
 ##### § 41 Maßnahmen bei unzureichenden Eigenmitteln
@@ -5033,9 +5217,9 @@ Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
 
 Statt der Aufhebung der Registrierung kann die Bundesanstalt die
-verantwortlichen Geschäftsleiter verwarnen oder ihre Abberufung
-verlangen und ihnen die Ausübung ihrer Tätigkeit untersagen. § 40
-Absatz 2 findet entsprechend Anwendung.
+Abberufung der verantwortlichen Geschäftsleiter verlangen und ihnen
+auch die Ausübung ihrer Tätigkeit bei Kapitalverwaltungsgesellschaften
+untersagen. § 40 Absatz 2 findet entsprechend Anwendung.
 
 (5a) Die Registrierung erlischt, wenn die AIF-
 Kapitalverwaltungsgesellschaft
@@ -5137,6 +5321,13 @@ Kapitalkonten zu prüfen und deren Ordnungsmäßigkeit zu bestätigen.
 Dies gilt auch für den Fall, dass der Anteil am AIF für den Anleger
 durch einen Treuhänder gehalten wird.
 
+(4a) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+den Absätzen 3 und 4 kann die Bundesanstalt auch gegenüber der
+Kapitalverwaltungsgesellschaft Bestimmungen über den Inhalt der
+Prüfung treffen, die vom Abschlussprüfer im Rahmen der
+Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere
+Schwerpunkte für die Prüfungen festlegen.
+
 (5) Der Abschlussprüfer hat den Bericht über die Prüfung der
 Kapitalverwaltungsgesellschaft nach Absatz 1 nach Beendigung der
 Prüfung unverzüglich der Bundesanstalt zu übermitteln.
@@ -5144,8 +5335,9 @@ Prüfung unverzüglich der Bundesanstalt zu übermitteln.
 (6) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
-und Darstellung des Prüfungsberichts sowie zur Art und Weise seiner
+Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der
+Prüfung nach den Absätzen 3 und 4 und über weitere Inhalte, Umfang und
+Darstellung des Prüfungsberichts sowie zur Art und Weise seiner
 Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur
 Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
 insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
@@ -5202,24 +5394,31 @@ einzelnen Kapitalkonten zu prüfen und deren Ordnungsmäßigkeit zu
 bestätigen. Dies gilt auch für den Fall, dass der Anteil am AIF für
 den Anleger durch einen Treuhänder gehalten wird.
 
+(3a) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+den Absätzen 2 und 3 kann die Bundesanstalt auch gegenüber Spezial-AIF
+im Sinne des § 46 Bestimmungen über den Inhalt der Prüfung treffen,
+die vom Abschlussprüfer im Rahmen der Jahresabschlussprüfung zu
+berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die
+Prüfungen festlegen.
+
 (4) Der Prüfungsbericht ist der Bundesanstalt auf Verlangen vom
 Abschlussprüfer einzureichen.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
-und Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur
-Art und Weise der Einreichung des Prüfungsberichts des
-Abschlussprüfers bei der Bundesanstalt zu erlassen, soweit dies zur
-Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
-insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
-von geschlossenen inländischen Spezial-AIF zu erhalten, für deren
-Rechnung AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen
-des § 2 Absatz 4 Satz 2 erfüllen, Gelddarlehen gemäß § 285 Absatz 2
-oder § 292a Absatz 2 vergeben. Das Bundesministerium der Finanzen kann
-die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
-übertragen.
+Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der
+Prüfung nach den Absätzen 2 und 3 und über weitere Inhalte, Umfang und
+Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur Art
+und Weise der Einreichung des Prüfungsberichts des Abschlussprüfers
+bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der
+Aufgaben der Bundesanstalt erforderlich ist, insbesondere um
+einheitliche Unterlagen zur Beurteilung der Tätigkeit von
+geschlossenen inländischen Spezial-AIF zu erhalten, für deren Rechnung
+AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des § 2
+Absatz 4 Satz 2 erfüllen, Gelddarlehen gemäß § 285 Absatz 2 oder §
+292a Absatz 2 vergeben. Das Bundesministerium der Finanzen kann die
+Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 48 (weggefallen)
@@ -5776,7 +5975,7 @@ Angaben hat die AIF-Kapitalverwaltungsgesellschaft der Bundesanstalt
 mindestens einen Monat vor der Durchführung der geplanten Änderungen
 anzuzeigen. Im Fall von ungeplanten Änderungen hat die AIF-
 Kapitalverwaltungsgesellschaft die Änderung der Bundesanstalt
-unmittelbar nach dem Eintritt der Änderung schriftlich anzuzeigen.
+unmittelbar nach dem Eintritt der Änderung anzuzeigen.
 
 (6) Würde die geplante Änderung dazu führen, dass die AIF-
 Kapitalverwaltungsgesellschaft, die Verwaltung des EU-AIF oder die
@@ -6772,12 +6971,8 @@ Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 mit satzungsmäßigem
 Sitz in der Europäischen Union oder in einem anderen Vertragsstaat des
 Abkommens über den Europäischen Wirtschaftsraum, das gemäß § 32 des
 Kreditwesengesetzes oder den im Herkunftsmitgliedstaat des EU-OGAW
-anzuwendenden Vorschriften, die die Richtlinie 2013/36/EU des
-Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
-Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
-Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
-2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG
-(ABl. L 176 vom 27.6.2013, S. 338) umsetzen, zugelassen ist.
+anzuwendenden Vorschriften, die die Richtlinie 2013/36/EU umsetzen,
+zugelassen ist.
 
 (3) Verwaltet die OGAW-Kapitalverwaltungsgesellschaft inländische
 OGAW, muss die Verwahrstelle ihren Sitz im Geltungsbereich dieses
@@ -6824,8 +7019,13 @@ erstreckt. Die Verwahrstelle hat den Prüfer vor der Erteilung des
 Prüfungsauftrags der Bundesanstalt anzuzeigen. Die Bundesanstalt kann
 innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines
 anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks
-geboten ist. Der Prüfer hat den Prüfungsbericht unverzüglich nach
-Beendigung der Prüfung der Bundesanstalt einzureichen.
+geboten ist. In der Regel ist die Bestellung eines anderen Prüfers zur
+Erreichung des Prüfungszwecks geboten, wenn eine Verwahrstelle, die
+kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer
+1 oder 2 des Handelsgesetzbuchs ist, der Bundesanstalt für mindestens
+elf aufeinanderfolgende Geschäftsjahre denselben Prüfer angezeigt hat.
+Der Prüfer hat den Prüfungsbericht unverzüglich nach Beendigung der
+Prüfung der Bundesanstalt einzureichen.
 
 (7a) Die Prüfung nach Absatz 7 ist insbesondere auf die ordnungsgemäße
 Erfüllung der in den §§ 70 bis 79 genannten Pflichten zu erstrecken.
@@ -6843,16 +7043,23 @@ oder durch die Verwahrstelle gegenüber einer
 Kapitalverwaltungsgesellschaft Ansprüche nach § 78 geltend gemacht
 haben, ist auch hierüber zu berichten.
 
+(7b) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+Absatz 7a kann die Bundesanstalt auch gegenüber der Verwahrstelle
+Bestimmungen über den Inhalt der Prüfung treffen, die vom
+Abschlussprüfer im Rahmen der Prüfung zu berücksichtigen sind. Sie
+kann insbesondere Schwerpunkte für die Prüfungen festlegen.
+
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach
-Absatz 7 Satz 1 sowie zur Art und Weise der Einreichung des
-Prüfungsberichts bei der Deutschen Bundesbank und der Bundesanstalt zu
-erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt
-erforderlich ist, insbesondere um einheitliche Unterlagen zur
-Beurteilung der Tätigkeit als Verwahrstelle zu erhalten. Das
-Bundesministerium der Finanzen kann die Ermächtigung durch
-Rechtsverordnung auf die Bundesanstalt übertragen.
+nähere Bestimmungen über den Gegenstand der Prüfung nach Absatz 7 und
+über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 7 Satz 1 sowie
+zur Art und Weise der Einreichung des Prüfungsberichts bei der
+Deutschen Bundesbank und der Bundesanstalt zu erlassen, soweit dies
+zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
+insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
+als Verwahrstelle zu erhalten. Das Bundesministerium der Finanzen kann
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+übertragen.
 
 
 ##### § 69 Aufsicht
@@ -8692,12 +8899,7 @@ sind einer der folgenden Stellen zur Sammelverwahrung anzuvertrauen:
 
 
 2.  einem zugelassenen Zentralverwahrer oder einem anerkannten Drittland-
-    Zentralverwahrer gemäß der Verordnung (EU) Nr. 909/2014 des
-    Europäischen Parlaments und des Rates vom 23. Juli 2014 zur
-    Verbesserung der Wertpapierlieferungen und -abrechnungen in der
-    Europäischen Union und über Zentralverwahrer sowie zur Änderung der
-    Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
-    236/2012 (ABl. L 257 vom 28.8.2014, S. 1) oder
+    Zentralverwahrer gemäß der Verordnung (EU) Nr. 909/2014 oder
 
 
 3.  einem sonstigen ausländischen Verwahrer, der die Voraussetzungen des §
@@ -9022,13 +9224,7 @@ enthalten:
 
 6.  bei Publikumssondervermögen eine vergleichende Übersicht der letzten
     drei Geschäftsjahre, wobei zum Ende jedes Geschäftsjahres der Wert des
-    Publikumssondervermögens und der Wert eines Anteils anzugeben sind;
-
-
-7.  die in Artikel 13 Absatz 2 in Verbindung mit Anhang Abschnitt A der
-    Verordnung (EU) 2015/2365, in Artikel 11 der Verordnung (EU) 2019/2088
-    sowie in den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 genannten
-    Informationen.
+    Publikumssondervermögens und der Wert eines Anteils anzugeben sind.
 
 
 
@@ -9149,7 +9345,7 @@ zusätzlich folgende Angaben enthalten:
 
 
 
-##### § 102 Abschlussprüfung
+##### § 102 Prüfung
 
 Der Jahresbericht des Sondervermögens ist durch einen Abschlussprüfer
 zu prüfen. Der Abschlussprüfer wird von den Gesellschaftern der
@@ -9160,10 +9356,37 @@ Handelsgesetzbuchs bleibt unberührt. § 318 Absatz 3 bis 8 sowie die §§
 319, 319b und 323 des Handelsgesetzbuchs gelten entsprechend. Das
 Ergebnis der Prüfung hat der Abschlussprüfer in einem besonderen
 Vermerk zusammenzufassen; der Vermerk ist in vollem Wortlaut im
-Jahresbericht wiederzugeben. Bei der Prüfung hat der Abschlussprüfer
-auch festzustellen, ob bei der Verwaltung des Sondervermögens die
-Vorschriften dieses Gesetzes sowie die Bestimmungen der
-Anlagebedingungen beachtet worden sind. Der Abschlussprüfer hat den
+Jahresbericht wiederzugeben. Bei der Prüfung hat der Prüfer auch
+festzustellen, ob bei der Verwaltung des Sondervermögens
+
+1.  die Vorschriften dieses Gesetzes,
+
+
+2.  die Anforderungen nach
+
+    a)  Artikel 13 Absatz 2 in Verbindung mit Anhang Abschnitt A zur
+        Verordnung (EU) 2015/2365,
+
+
+    b)  Artikel 11 der Verordnung (EU) 2019/2088 und
+
+
+    c)  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+
+
+
+
+
+3.  die Bestimmungen der Anlagebedingungen
+
+
+
+beachtet worden sind. Unbeschadet der besonderen Pflichten des Prüfers
+nach Satz 5 kann die Bundesanstalt auch gegenüber der
+Kapitalverwaltungsgesellschaft Bestimmungen über den Inhalt der
+Prüfung treffen, die vom Prüfer im Rahmen der Prüfung des
+Jahresberichts zu berücksichtigen sind. Sie kann insbesondere
+Schwerpunkte für die Prüfungen festlegen. Der Abschlussprüfer hat den
 Bericht über die Prüfung des Publikumssondervermögens unverzüglich
 nach Beendigung der Prüfung der Bundesanstalt einzureichen, der
 Bericht über die Prüfung des Spezialsondervermögens ist der
@@ -9222,16 +9445,17 @@ Satz 1 ist § 102 entsprechend anzuwenden.
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium der Justiz und für Verbraucherschutz durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-nähere Bestimmungen über weitere Inhalte, Umfang und Darstellung der
-Berichte nach den §§ 101, 103, 104 und 105 sowie über den Inhalt der
-Prüfungsberichte für Sondervermögen sowie zur Art und Weise der
-Einreichung der zuvor genannten Berichte bei der Bundesanstalt zu
-erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt
-erforderlich ist, insbesondere um einheitliche Unterlagen zur
-Beurteilung der Tätigkeit der Kapitalverwaltungsgesellschaften bei der
-Verwaltung von Sondervermögen zu erhalten. Das Bundesministerium der
-Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt übertragen.
+nähere Bestimmungen über den Gegenstand der Prüfung nach § 102 Satz 5
+und über weitere Inhalte, Umfang und Darstellung der Berichte nach den
+§§ 101, 103, 104 und 105 sowie über den Inhalt der Prüfungsberichte
+für Sondervermögen sowie zur Art und Weise der Einreichung der zuvor
+genannten Berichte bei der Bundesanstalt zu erlassen, soweit dies zur
+Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
+insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
+der Kapitalverwaltungsgesellschaften bei der Verwaltung von
+Sondervermögen zu erhalten. Das Bundesministerium der Finanzen kann
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+übertragen.
 
 
 ##### § 107 Veröffentlichung der Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichte
@@ -9830,21 +10054,15 @@ und dem Abschlussprüfer zuzuleiten. Billigt der Aufsichtsrat den
 Jahresabschluss und den Lagebericht, so ist dieser festgestellt.
 
 (2) Der Jahresabschluss und der Lagebericht der
-Investmentaktiengesellschaft mit veränderlichem Kapital sind durch den
-Abschlussprüfer zu prüfen. Das Ergebnis der Prüfung hat der
-Abschlussprüfer in einem besonderen Vermerk zusammenzufassen; der
-Vermerk ist in vollem Wortlaut im Jahresabschluss wiederzugeben. Bei
-einer Investmentaktiengesellschaft mit veränderlichem Kapital mit
-Teilgesellschaftsvermögen darf der besondere Vermerk nur erteilt
-werden, wenn für jedes einzelne Teilgesellschaftsvermögen der
-besondere Vermerk erteilt worden ist. Bei
-Investmentaktiengesellschaften mit veränderlichem Kapital wird der
-Abschlussprüfer auf Vorschlag des Aufsichtsrats von der
-Hauptversammlung gewählt und vom Aufsichtsrat beauftragt. § 28 des
-Kreditwesengesetzes gilt entsprechend mit der Maßgabe, dass die
-Anzeige nur gegenüber der Bundesanstalt zu erfolgen hat. § 318 Absatz
-3 bis 8 sowie die §§ 319, 319b und 323 des Handelsgesetzbuchs gelten
-entsprechend.
+Investmentaktiengesellschaft mit veränderlichem Kapital sind durch
+einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten
+Unterabschnitts des Zweiten Abschnitts des Dritten Buches des
+Handelsgesetzbuchs zu prüfen. Bei einer Investmentaktiengesellschaft
+mit veränderlichem Kapital mit Teilgesellschaftsvermögen darf der
+Bestätigungsvermerk nur erteilt werden, wenn für jedes einzelne
+Teilgesellschaftsvermögen eine Bestätigung erteilt werden kann. § 28
+des Kreditwesengesetzes gilt entsprechend mit der Maßgabe, dass die
+Anzeige nur gegenüber der Bundesanstalt zu erfolgen hat.
 
 (3) Der Abschlussprüfer hat bei Investmentaktiengesellschaften mit
 veränderlichem Kapital auch zu prüfen, ob bei der Verwaltung des
@@ -9906,18 +10124,26 @@ besonderen Anlass anstelle des Prüfers selbst oder durch Beauftragte
 durchführen. Die Investmentaktiengesellschaft mit veränderlichem
 Kapital ist hierüber rechtzeitig zu informieren.
 
+(3a) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+Absatz 3 kann die Bundesanstalt auch gegenüber der
+Investmentaktiengesellschaft mit veränderlichem Kapital Bestimmungen
+über den Inhalt der Prüfung treffen, die vom Abschlussprüfer im Rahmen
+der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann
+insbesondere Schwerpunkte für die Prüfungen festlegen.
+
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
-und Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur
-Art und Weise der Einreichung des Prüfungsberichts des
-Abschlussprüfers bei der Bundesanstalt zu erlassen, soweit dies zur
-Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
-insbesondere, um einheitliche Unterlagen zur Beurteilung der Tätigkeit
-der Investmentaktiengesellschaften mit veränderlichem Kapital zu
-erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung
-durch Rechtsverordnung auf die Bundesanstalt übertragen.
+Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der
+Prüfung nach Absatz 3 und über weitere Inhalte, Umfang und
+Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur Art
+und Weise der Einreichung des Prüfungsberichts des Abschlussprüfers
+bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der
+Aufgaben der Bundesanstalt erforderlich ist, insbesondere, um
+einheitliche Unterlagen zur Beurteilung der Tätigkeit der
+Investmentaktiengesellschaften mit veränderlichem Kapital zu erhalten.
+Das Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 122 Halbjahres- und Liquidationsbericht
@@ -10026,8 +10252,8 @@ semiprofessionellen Anlegern erworben werden dürfen.
 
 
 
-(4) Im Gesellschaftsvertrag darf nicht von § 131 Absatz 3 Nummer 2 und
-4 des Handelsgesetzbuchs abgewichen werden.
+(4) Im Gesellschaftsvertrag darf nicht von § 130 Absatz 1 Nummer 3 und
+4 sowie § 130 Absatz 3 des Handelsgesetzbuchs abgewichen werden.
 
 
 ##### § 126 Anlagebedingungen
@@ -10149,8 +10375,7 @@ offene Investmentkommanditgesellschaft umwandelt oder keine andere
 externe AIF-Kapitalverwaltungsgesellschaft benennt und dies jeweils
 der Bundesanstalt angezeigt wurde. Im Fall der Bestellung einer
 anderen externen AIF-Kapitalverwaltungsgesellschaft ist § 100b Absatz
-1 Satz 1 bis 3, Absatz 2 und 3 entsprechend anzuwenden. § 147 des
-Handelsgesetzbuchs findet keine Anwendung.
+1 Satz 1 bis 3, Absatz 2 und 3 entsprechend anzuwenden.
 
 
 ##### § 130 Unterschreitung des Anfangskapitals oder der Eigenmittel
@@ -10373,10 +10598,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 (1) Der Jahresabschluss und der Lagebericht der offenen
 Investmentkommanditgesellschaft sind durch einen Abschlussprüfer nach
 Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten
-Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen. Das
-Ergebnis der Prüfung hat der Abschlussprüfer in einem besonderen
-Vermerk zusammenzufassen; der Vermerk ist in vollem Wortlaut im
-Jahresabschluss wiederzugeben.
+Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen.
 
 (2) Die Zuweisung von Gewinnen, Verlusten, Einlagen und Entnahmen zu
 den einzelnen Kapitalkonten ist vom Abschlussprüfer zu prüfen und
@@ -10384,11 +10606,12 @@ deren Ordnungsmäßigkeit zu bestätigen.
 
 (3) Der Abschlussprüfer hat bei seiner Prüfung auch festzustellen, ob
 die offene Investmentkommanditgesellschaft die Bestimmungen dieses
-Gesetzes und des zugrunde liegenden Gesellschaftsvertrags beachtet
-hat. Bei der Prüfung hat er insbesondere festzustellen, ob die offene
-Investmentkommanditgesellschaft die Anzeigepflichten nach § 34 Absatz
-1, 3 Nummer 1 bis 3, 5, 7 bis 11, Absatz 4 und 5, § 35 und die
-Anforderungen nach den §§ 36 und 37 sowie die Anforderungen nach
+Gesetzes und des zugrunde liegenden Gesellschaftsvertrags sowie der
+Anlagebedingungen beachtet hat. Bei der Prüfung hat er insbesondere
+festzustellen, ob die offene Investmentkommanditgesellschaft die
+Anzeigepflichten nach § 34 Absatz 1, 3 Nummer 1 bis 3, 5, 7 bis 11,
+Absatz 4 und 5, § 35 und die Anforderungen nach den §§ 36 und 37 sowie
+die Anforderungen nach
 
 1.  Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 4a und 9 Absatz 1
     bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12
@@ -10428,18 +10651,25 @@ Bundesbank nicht gelten. Die Bundesanstalt kann die Prüfung nach Satz
 Beauftragte durchführen. Die offene Investmentkommanditgesellschaft
 ist hierüber rechtzeitig zu informieren.
 
+(3a) Unbeschadet der besonderen Pflichten des Abschlussprüfers nach
+den Absätzen 2 und 3 kann die Bundesanstalt auch gegenüber der offenen
+Investmentkommanditgesellschaft Bestimmungen über den Inhalt der
+Prüfung treffen, die vom Abschlussprüfer im Rahmen der
+Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere
+Schwerpunkte für die Prüfungen festlegen.
+
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
-und Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur
-Art und Weise der Einreichung des Prüfungsberichts bei der
-Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der
-Bundesanstalt erforderlich ist, insbesondere, um einheitliche
-Unterlagen zur Beurteilung der Tätigkeit der offenen
-Investmentkommanditgesellschaft zu erhalten. Das Bundesministerium der
-Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt übertragen.
+Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der
+Prüfung nach den Absätzen 2 und 3 und über weitere Inhalte, Umfang und
+Darstellungen des Prüfungsberichts des Abschlussprüfers sowie zur Art
+und Weise der Einreichung des Prüfungsberichts bei der Bundesanstalt
+zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt
+erforderlich ist, insbesondere, um einheitliche Unterlagen zur
+Beurteilung der Tätigkeit der offenen Investmentkommanditgesellschaft
+zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 137 Vorlage von Berichten
@@ -10449,13 +10679,12 @@ Einem Anleger wird der Jahresbericht auf Anfrage vorgelegt.
 
 ##### § 138 Auflösung und Liquidation
 
-(1) § 133 Absatz 1 des Handelsgesetzbuchs gilt nicht. Ein
-Gesellschafter der offenen Investmentkommanditgesellschaft kann die
-Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder
-bei einer für unbestimmte Zeit eingegangenen Gesellschaft
+(1) Ein Gesellschafter der offenen Investmentkommanditgesellschaft
+kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten
+Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft
 außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger
-Grund vorliegt. § 133 Absatz 2 und 3 des Handelsgesetzbuchs ist
-entsprechend anzuwenden.
+Grund vorliegt. § 132 Absatz 2 Satz 2 und Absatz 6 des
+Handelsgesetzbuchs ist entsprechend anzuwenden.
 
 (2) Die Kommanditisten haften nach Beendigung der Liquidation nicht
 für die Verbindlichkeiten der offenen Investmentkommanditgesellschaft.
@@ -10792,8 +11021,8 @@ werden dürfen.
 
 
 
-(4) Im Gesellschaftsvertrag darf nicht von § 131 Absatz 3 Nummer 2 und
-4 des Handelsgesetzbuchs abgewichen werden.
+(4) Im Gesellschaftsvertrag darf nicht von § 130 Absatz 1 Nummer 3 und
+4 sowie Absatz 3 des Handelsgesetzbuchs abgewichen werden.
 
 
 ##### § 151 Anlagebedingungen
@@ -10970,9 +11199,7 @@ mit den folgenden Maßgaben entsprechend anzuwenden:
 
 
 2.  die Gesellschafter die Bestellung eines anderen Liquidators als der
-    Verwahrstelle beschließen können; § 147 des Handelsgesetzbuchs findet
-    keine Anwendung, wenn die Liquidation durch die Verwahrstelle als
-    Liquidator erfolgt.
+    Verwahrstelle beschließen können.
 
 
 
@@ -11077,12 +11304,12 @@ wird der Jahresbericht auf Anfrage vorgelegt.
 (1) Das Recht zur ordentlichen Kündigung besteht bei der geschlossenen
 Investmentkommanditgesellschaft nicht.
 
-(2) § 133 Absatz 1 des Handelsgesetzbuchs gilt nicht. Ein
-Gesellschafter der geschlossenen Investmentkommanditgesellschaft kann
-die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit
-außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger
-Grund vorliegt. § 133 Absatz 2 und 3 des Handelsgesetzbuchs ist
-entsprechend anzuwenden.
+(2) Ein Gesellschafter der geschlossenen
+Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf
+der für ihre Dauer bestimmten Zeit außerordentlich kündigen und aus
+ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 132 Absatz 2
+Satz 2 und Absatz 6 des Handelsgesetzbuchs ist entsprechend
+anzuwenden.
 
 (3) Wird eine geschlossene Publikumsinvestmentkommanditgesellschaft
 abgewickelt, hat der Liquidator jährlich sowie auf den Tag, an dem die
@@ -11874,14 +12101,7 @@ einheitlichen Format zu erstellen, um Vergleiche zu ermöglichen.
 
 (4) Für die inländischen OGAW bestimmen sich die näheren Inhalte, Form
 und Gestaltung der wesentlichen Anlegerinformationen nach der
-Verordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur
-Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und
-des Rates im Hinblick auf die wesentlichen Informationen für den
-Anleger und die Bedingungen, die einzuhalten sind, wenn die
-wesentlichen Informationen für den Anleger oder der Prospekt auf einem
-anderen dauerhaften Datenträger als Papier oder auf einer Website zur
-Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1; L 108 vom
-28\.4.2011, S. 38).
+Verordnung (EU) Nr. 583/2010.
 
 (5) Die Verwaltungsgesellschaft weist in den wesentlichen
 Anlegerinformationen eine Gesamtkostenquote aus. Die Gesamtkostenquote
@@ -14540,7 +14760,11 @@ Investmentvermögen nur erwerben:
 3.  Edelmetalle,
 
 
-4.  unverbriefte Darlehensforderungen.
+4.  unverbriefte Darlehensforderungen,
+
+
+5.  Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes
+    zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 
 
@@ -14573,6 +14797,10 @@ Darlehensforderungen einschließlich solcher, die als sonstige
 Anlageinstrumente im Sinne des § 198 erwerbbar sind, 30 Prozent des
 Wertes des Sonstigen Investmentvermögens nicht übersteigt. Derivate im
 Sinne des § 197 Absatz 1 werden auf diese Grenze nicht angerechnet.
+Die AIF-Kapitalverwaltungsgesellschaft muss sicherstellen, dass der
+Anteil der für Rechnung des Sonstigen Investmentvermögens gehaltenen
+Kryptowerte zehn Prozent des Wertes des Sonstigen Investmentvermögens
+nicht übersteigt.
 
 (6) Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche
 Rechnung der Anleger kurzfristige Kredite nur bis zur Höhe von 20
@@ -14674,15 +14902,15 @@ in Bezug auf die in Absatz 1 genannten Anlagemöglichkeiten haben.
 ##### § 223 Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien
 
 (1) Die Anlagebedingungen von Sonstigen Investmentvermögen können
-abweichend von § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 vorsehen, dass
-die Rücknahme von Anteilen oder Aktien höchstens einmal halbjährlich
-und mindestens einmal jährlich zu einem in den Anlagebedingungen
-bestimmten Termin erfolgt, wenn zum Zeitpunkt der Rückgabe der Anteile
-oder Aktien die Summe der Werte der zurückgegebenen Anteile oder
-Aktien einen in den Anlagebedingungen bestimmten Betrag überschreitet.
-In den Fällen des Satzes 1 müssen die Anlagebedingungen vorsehen, dass
-die Rückgabe eines Anteils oder von Aktien durch eine unwiderrufliche
-schriftliche Rückgabeerklärung gegenüber der AIF-
+abweichend von § 98 Absatz 1, Absatz 1b Satz 1 bis 3 oder § 116 Absatz
+2 Satz 1 vorsehen, dass die Rücknahme von Anteilen oder Aktien
+höchstens einmal halbjährlich und mindestens einmal jährlich zu einem
+in den Anlagebedingungen bestimmten Termin erfolgt, wenn zum Zeitpunkt
+der Rückgabe der Anteile oder Aktien die Summe der Werte der
+zurückgegebenen Anteile oder Aktien einen in den Anlagebedingungen
+bestimmten Betrag überschreitet. In den Fällen des Satzes 1 müssen die
+Anlagebedingungen vorsehen, dass die Rückgabe eines Anteils oder von
+Aktien durch eine unwiderrufliche Rückgabeerklärung gegenüber der AIF-
 Kapitalverwaltungsgesellschaft unter Einhaltung einer Rückgabefrist
 erfolgen muss, die mindestens einen Monat betragen muss und höchstens
 zwölf Monate betragen darf; § 227 Absatz 3 gilt entsprechend.
@@ -14704,12 +14932,13 @@ entsprechend.
 zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 
 1.  ob und in welchem Umfang in Vermögensgegenstände im Sinne des § 198,
-    in Edelmetalle, Derivate und unverbriefte Darlehensforderungen
-    angelegt werden darf;
+    in Edelmetalle, Derivate, unverbriefte Darlehensforderungen und
+    Kryptowerte angelegt werden darf;
 
 
 2.  eine Beschreibung der wesentlichen Merkmale der für das Sonstige
-    Investmentvermögen erwerbbaren unverbrieften Darlehensforderungen;
+    Investmentvermögen erwerbbaren unverbrieften Darlehensforderungen oder
+    Kryptowerte;
 
 
 3.  Angaben zu dem Umfang, in dem Kredite aufgenommen werden dürfen,
@@ -14751,8 +14980,9 @@ zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 (2) Die Anlagebedingungen eines Sonstigen Investmentvermögens müssen
 zusätzlich zu den Angaben nach § 162 folgende Angaben enthalten:
 
-1.  die Arten der Edelmetalle, Derivate und Darlehensforderungen, die für
-    das Sonstige Investmentvermögen erworben werden dürfen;
+1.  die Arten der Edelmetalle, Derivate, Darlehensforderungen und
+    Kryptowerte, die für das Sonstige Investmentvermögen erworben werden
+    dürfen;
 
 
 2.  in welchem Umfang die zulässigen Vermögensgegenstände erworben werden
@@ -16289,7 +16519,11 @@ geschlossenen inländischen Publikums-AIF nur investieren in
     Publikums-AIF für diese Darlehen verwendet werden und im Fall des §
     285 Absatz 3 Satz 1 Nummer 3 die dem jeweiligen Unternehmen gewährten
     Darlehen nicht die Anschaffungskosten der an dem Unternehmen
-    gehaltenen Beteiligungen überschreiten.
+    gehaltenen Beteiligungen überschreiten,
+
+
+9.  Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 des Kreditwesengesetzes
+    zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 
 
@@ -16336,7 +16570,11 @@ des aggregierten eingebrachten Kapitals und noch nicht eingeforderten
 zugesagten Kapitals dieses AIF, berechnet auf der Grundlage der
 Beträge, die nach Abzug sämtlicher direkt oder indirekt von den
 Anlegern getragener Gebühren, Kosten und Aufwendungen für Anlagen zur
-Verfügung stehen, nicht übersteigt.
+Verfügung stehen, nicht übersteigt. Die AIF-
+Kapitalverwaltungsgesellschaft muss sicherstellen, dass der Anteil der
+für Rechnung des geschlossenen inländischen Publikums-AIF gehaltenen
+Kryptowerte zehn Prozent des Wertes des geschlossenen inländischen
+Publikums-AIF nicht übersteigt.
 
 (5) In einen Vermögensgegenstand im Sinne des Absatzes 1 Nummer 1 darf
 nur investiert werden, wenn
@@ -16750,7 +16988,20 @@ aufzunehmen:
 
     c)  ein Hinweis, dass in Beteiligungen an ÖPP-Projektgesellschaften, die
         nicht zum Handel an einer Börse zugelassen oder in einen anderen
-        organisierten Markt einbezogen sind, angelegt werden darf.
+        organisierten Markt einbezogen sind, angelegt werden darf;
+
+
+
+
+
+4.  bei geschlossenen Publikums-AIF, die in Vermögensgegenstände gemäß §
+    261 Absatz 1 Nummer 9 investieren,
+
+    a)  in welchem Umfang in Kryptowerte angelegt werden darf;
+
+
+    b)  eine Beschreibung der wesentlichen Merkmale der für den geschlossenen
+        Publikums-AIF erwerbbaren Kryptowerte.
 
 
 
@@ -17702,7 +17953,9 @@ bis 211, 218 bis 224 und 230 bis 260d abweichen, wenn
 inländischen Spezial-AIF mit festen Anlagebedingungen
 
 1.  in Beteiligungen an Unternehmen, die nicht zum Handel an einer Börse
-    zugelassen oder in einen organisierten Markt einbezogen sind, und
+    zugelassen oder in einen organisierten Markt einbezogen sind und bei
+    denen es sich nicht um Gesellschaften im Sinne von Absatz 2 Nummer 2
+    Buchstabe f und h handelt, und
 
 
 2.  Kryptowerte
@@ -19394,7 +19647,9 @@ den Anleger entsprechend anwendbar.
 
 (7) Das Widerrufsrecht in Bezug auf Anteile und Aktien eines
 geschlossenen Investmentvermögens richtet sich nach dem Bürgerlichen
-Gesetzbuch.
+Gesetzbuch. Das Widerrufsrecht in Bezug auf Anteile und Aktien eines
+europäischen langfristigen Investmentfonds im Sinne der Verordnung
+(EU) 2015/760 richtet sich nach Artikel 30 dieser Verordnung.
 
 (8) Anleger, die vor der Veröffentlichung eines Nachtrags zum
 Verkaufsprospekt eine auf den Erwerb eines Anteils oder einer Aktie

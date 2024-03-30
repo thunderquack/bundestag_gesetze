@@ -83,9 +83,9 @@ rechtzeitig mitzuteilen.
 
 
 6.  einen Auszug aus dem Gewerbezentralregister für das antragstellende
-    Unternehmen, bei einer juristischen Person oder einer nicht
-    rechtsfähigen Personenvereinigung auch für die nach Gesetz, Satzung
-    oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung
+    Unternehmen, bei einer juristischen Person oder einer sonstigen
+    Personenvereinigung auch für die nach Gesetz, Satzung oder
+    Gesellschaftsvertrag zur Vertretung oder Geschäftsführung
     Berechtigten.
 
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2010 I 150;
 
 Zuletzt geändert durch
-:   Art. 20g G v. 22.11.2021 I 4906
+:   Art. 6 G v. 22.1.2024 I Nr. 17
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -799,17 +799,13 @@ Bundesbeamtengesetzes in den Ruhestand getreten ist und er
 
 
     b)  wegen Erreichens einer besonderen Altersgrenze in den Ruhestand
-        getreten ist,
+        getreten ist und
 
 
 
 
 
-3.  einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat und
-
-
-4.  kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7 bezieht,
-    das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
+3.  einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat.
 
 
 
@@ -851,11 +847,7 @@ Ruhestandsbeamte
 
 2.  in den Fällen des Absatzes 1 Nr. 2 Buchstabe a nicht mehr
     dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der
-    Erhöhung mitgeteilt wird, oder
-
-
-3.  ein Erwerbseinkommen bezieht, mit Ablauf des Tages vor dem Beginn der
-    Erwerbstätigkeit.
+    Erhöhung mitgeteilt wird.
 
 
 
@@ -1499,10 +1491,9 @@ durchführt.
 
 (4) Verursachen die Folgen des Dienstunfalles außergewöhnliche Kosten
 für Kleider- und Wäscheverschleiß, so sind diese in angemessenem
-Umfang zu ersetzen. Kraftfahrzeughilfe wird gewährt, wenn der
-Verletzte infolge des Dienstunfalls nicht nur vorübergehend auf die
-Benutzung eines Kraftfahrzeugs angewiesen ist, um die zur
-Dienstausübung erforderlichen Wege zurückzulegen. Notwendige
+Umfang zu ersetzen. Kraftfahrzeughilfe wird gewährt, wenn die
+verletzte Person infolge des Dienstunfalls nicht nur vorübergehend auf
+die Benutzung eines Kraftfahrzeugs angewiesen ist. Notwendige
 Aufwendungen für eine bedarfsgerechte Anpassung des Wohnumfelds werden
 erstattet, wenn infolge des Dienstunfalls nicht nur vorübergehend die
 Anpassung vorhandenen oder die Beschaffung bedarfsgerechten Wohnraums
@@ -1529,9 +1520,10 @@ Dienstbehörde kann jedoch selbst für die Pflege Sorge tragen.
 Erwerbsfähigkeit länger als sechs Monate um mindestens 25 Prozent
 gemindert, so erhält er, solange dieser Zustand andauert, neben den
 Dienstbezügen, den Anwärterbezügen oder dem Ruhegehalt einen
-Unfallausgleich. Dieser wird in Höhe der Grundrente nach § 31 Absatz 1
-bis 3 in Verbindung mit § 30 Absatz 1 Satz 2 zweiter Halbsatz des
-Bundesversorgungsgesetzes gewährt. Wird die Minderung der
+Unfallausgleich. Dieser wird in Höhe von 125 Prozent der Grundrente
+nach § 31 Absatz 1 bis 3 in Verbindung mit § 30 Absatz 1 Satz 2
+zweiter Halbsatz des Bundesversorgungsgesetzes in der am 31. Dezember
+2023 geltenden Fassung gewährt. Wird die Minderung der
 Erwerbsfähigkeit bei der Feststellung gestaffelt eingeschätzt, ist der
 Unfallausgleich in Höhe desjenigen Grades der Minderung der
 Erwerbsfähigkeit zu zahlen, der wenigstens sechs Monate Bestand hat.
@@ -2183,13 +2175,11 @@ des Innern, für Bau und Heimat auf andere Stellen übertragen.
 (2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf
 Grund von Kannvorschriften dürfen erst beim Eintritt des
 Versorgungsfalles getroffen werden; vorherige Zusicherungen sind
-unwirksam. Bei der Einstellung eines Beamten des Bundes ist auf Antrag
-zu entscheiden, ob ruhegehaltfähige Zeiten nach § 10 vorliegen und
-Zeiten auf Grund der §§ 11 und 12 als ruhegehaltfähig berücksichtigt
-werden können. Satz 2 gilt für die Versetzung eines Beamten von einem
-anderen Dienstherrn in den Dienst des Bundes entsprechend. Die
-Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach-
-und Rechtslage, die diesen Entscheidungen zugrunde liegt.
+unwirksam. Über die Berücksichtigung von Zeiten nach den §§ 6a, 10 bis
+12 und 13 Absatz 2 und 3 als ruhegehaltfähig ist auf Antrag des
+Beamten vorab zu entscheiden. Die Entscheidungen stehen unter dem
+Vorbehalt des Gleichbleibens der Sach- und Rechtslage, die diesen
+Entscheidungen zugrunde liegt.
 
 (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten, die eine
 grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben,
@@ -2507,15 +2497,10 @@ erhalten vorübergehend Leistungen entsprechend den §§ 50a, 50b und
 
 3.  entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem
     Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden
-    Altersgrenze noch nicht gewährt werden,
+    Altersgrenze noch nicht gewährt werden und
 
 
-4.  sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben,
-
-
-5.  sie kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7
-    beziehen, das im Durchschnitt des Kalenderjahres 525 Euro monatlich
-    übersteigt.
+4.  sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben.
 
 
 
@@ -2524,20 +2509,11 @@ werden, der sich bei Berechnung des Ruhegehalts mit einem
 Ruhegehaltssatz von 66,97 Prozent ergibt.
 
 (2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der
-Versorgungsempfänger die Regelaltersgrenze nach § 51 Abs. 1 und 2 des
-Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der
-Versorgungsempfänger
-
-1.  eine Versichertenrente der gesetzlichen Rentenversicherung bezieht,
-    mit Ablauf des Tages vor dem Beginn der Rente, oder
-
-
-2.  ein Erwerbseinkommen (§ 53 Absatz 7 Satz 1 und 2) bezieht, das im
-    Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt, mit
-    Ablauf des Tages vor Beginn der Erwerbstätigkeit.
-
-
-
+Versorgungsempfänger die Regelaltersgrenze nach § 51 Absatz 1 und 2
+des Bundesbeamtengesetzes erreicht. Sie endet vorher, wenn der
+Versorgungsempfänger eine Versichertenrente der gesetzlichen
+Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der
+Rente.
 
 (3) Die Leistung wird auf Antrag gewährt. Anträge, die innerhalb von
 drei Monaten nach Eintritt des Beamten in den Ruhestand gestellt
@@ -2651,7 +2627,7 @@ anzuwenden.
     von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen
     Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des
     jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines
-    Betrages von monatlich 525 Euro.
+    Betrages von monatlich 606,67 Euro.
 
 
 
@@ -2672,10 +2648,7 @@ Verwendungseinkommen gelten Satz 2 und Absatz 7 Satz 4 entsprechend.
 Ruhestandsbeamten, der Anspruch auf Versorgung nach § 38 hat, ist
 mindestens ein Betrag als Versorgung zu belassen, der unter
 Berücksichtigung seiner Minderung der Erwerbsfähigkeit infolge des
-Dienstunfalles dem Unfallausgleich entspricht. Dies gilt nicht, wenn
-die Minderung der Erwerbsfähigkeit weniger als 25 Prozent beträgt oder
-wegen desselben Unfalls Grundrente nach dem Bundesversorgungsgesetz
-zusteht.
+Dienstunfalles dem Unfallausgleich entspricht.
 
 (7) Erwerbseinkommen sind Einkünfte aus nichtselbständiger Arbeit
 einschließlich Abfindungen, aus selbständiger Arbeit sowie aus
@@ -2879,9 +2852,11 @@ Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
     Ruhegehaltempfänger ein dem Unfallausgleich (§ 35) entsprechender
     Betrag unberücksichtigt bleibt; bei einer Minderung der
     Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel der
-    Mindestgrundrente nach dem Bundesversorgungsgesetz, bei einer
-    Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der
-    Mindestgrundrente nach dem Bundesversorgungsgesetz unberücksichtigt,
+    Mindestgrundrente nach dem Bundesversorgungsgesetz in der am 31.
+    Dezember 2023 geltenden Fassung, bei einer Minderung der
+    Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach
+    dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden
+    Fassung unberücksichtigt,
 
 
 4.  Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus
@@ -3365,8 +3340,8 @@ Gewährung einer Versorgung unverzüglich anzuzeigen.
 
 
 2.  den Bezug und jede Änderung von Einkünften nach den §§ 10, 14 Abs. 5,
-    §§ 14a, 22 Abs. 1 Satz 2 und §§ 47, 47a sowie den §§ 53 bis 56 und 61
-    Abs. 2,
+    § 22 Absatz 1 Satz 2 und §§ 47, 47a sowie den §§ 53 bis 56 und 61 Abs.
+    2,
 
 
 3.  die Witwe auch die Heirat (§ 61 Abs. 1 Satz 1 Nr. 2) sowie im Falle
@@ -3597,22 +3572,11 @@ geringeren als der regelmäßigen Arbeitszeit dürfen nur zu dem Teil als
 ruhegehaltfähig berücksichtigt werden, der dem Verhältnis der
 tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
-(3) Bei der Einstellung eines in Absatz 1 genannten Beamten in den
-Dienst des Bundes ist auf Antrag zu entscheiden, ob
-
-1.  ruhegehaltfähige Zeiten nach Absatz 2 Satz 1, 2 und 4 erster Halbsatz
-    sowie nach § 10 vorliegen und
-
-
-2.  Zeiten auf Grund des Absatzes 2 Satz 3 und 4 zweiter Halbsatz sowie
-    der §§ 11 und 12 als ruhegehaltfähig berücksichtigt werden können.
-
-
-
-Satz 1 gilt für die Versetzung von einem anderen Dienstherrn in den
-Dienst des Bundes entsprechend. Diese Entscheidungen stehen unter dem
-Vorbehalt eines Gleichbleibens der Rechtslage, die ihnen zugrunde
-liegt.
+(3) Über die Berücksichtigung von Zeiten nach Absatz 2 Satz 1 bis 4
+sowie nach den §§ 6a, 10 bis 12 und 13 Absatz 2 und 3 als
+ruhegehaltfähig ist auf Antrag eines in Absatz 1 genannten Beamten
+vorab zu entscheiden. Diese Entscheidungen stehen unter dem Vorbehalt
+des Gleichbleibens der Sach- und Rechtslage, die ihnen zugrunde liegt.
 
 (4) Für Hochschuldozenten, Oberassistenten, Oberingenieure,
 Wissenschaftliche und Künstlerische Assistenten beträgt das
@@ -4782,13 +4746,18 @@ die Änderung mit Beginn des Antragsmonats ein. Vor dem
 Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines
 vor dem 1. Juli 2020 vorhandenen Ruhestandsbeamten.
 
-(2a) Versorgungsempfänger nach Absatz 2 Satz 1, bei denen sich der
-Ruhensbetrag nach § 56 in einer bis zum 30. September 1994 geltenden
-Fassung bestimmt, können einmalig für die Zukunft beantragen, dass bei
-der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes
-nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach
-Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen.
-Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend.
+(2a) Versorgungsempfänger nach Absatz 2 Satz 1, deren Ruhensbetrag
+nach § 56 in einer bis zum 30. September 1994 geltenden Fassung oder
+auf Grund der verwendungszeitbezogenen Mindestbestimmung nach § 56
+Absatz 1 Satz 1 erster Teilsatz in einer zwischen dem 1. Oktober 1994
+und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können
+einmalig für die Zukunft beantragen, dass bei der Ermittlung des
+Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu
+berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des
+Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2
+Satz 4 und 6 bis 9 gilt entsprechend. Die Sätze 1 bis 3 gelten
+entsprechend für Hinterbliebene eines Ruhestandsbeamten nach Absatz 2
+Satz 1.
 
 (3) Für am 31. August 2020 vorhandene Ruhestandsbeamte, bei denen eine
 ruhegehaltfähige Zeit nach § 85 Absatz 7 in der bis zum 31. August
@@ -4810,6 +4779,40 @@ nicht mehr anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für vor
 dem 1. September 2020 vorhandene Hinterbliebene.
 
 
+### § 69n Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen
+
+(1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des
+Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023
+vorhandenen Ruhestandsbeamten zu den ruhegehaltfähigen Dienstbezügen,
+
+1.  deren Ruhestand nach dem 31. Dezember 2007 oder, sofern dem Ruhegehalt
+    eine der Besoldungsgruppen A 1 bis A 9 zugrunde liegt, nach dem 31.
+    Dezember 2010 begann, und
+
+
+2.  die bei Versetzung oder Eintritt in den Ruhestand die Voraussetzungen
+    der Anlage I Vorbemerkung Nummer 3a des Bundesbesoldungsgesetzes in
+    der ab 1. Januar 2024 geltenden Fassung erfüllt haben.
+
+
+
+In den Fällen des § 81 Satz 2 des Bundesbesoldungsgesetzes ist Nummer
+1 nicht anzuwenden. Der als ruhegehaltfähiger Dienstbezug zu
+berücksichtigende Betrag der jeweiligen Stellenzulage ergibt sich aus
+der zum Zeitpunkt des letztmaligen Bezuges der jeweiligen
+Stellenzulage geltenden Anlage IX des Bundesbesoldungsgesetzes. Eine
+Nachzahlung für Zeiträume vor dem 1. Januar 2024 erfolgt nicht.
+
+(2) Die Berücksichtigung der Stellenzulagen nach Anlage I Vorbemerkung
+Nummer 8 und 9 des Bundesbesoldungsgesetzes gemäß Absatz 1 als
+ruhegehaltfähiger Dienstbezug erfolgt nur auf schriftlichen oder
+elektronischen Antrag, der bei der für die Festsetzung der
+Versorgungsbezüge zuständigen Stelle einzureichen ist. Anträge, die
+bis zum 31. Dezember 2024 gestellt werden, gelten als zum 1. Januar
+2024 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt,
+tritt die Änderung zum Beginn des Antragsmonats ein.
+
+
 ## Abschnitt 11 - Anpassung der Versorgungsbezüge
 
 
@@ -4828,34 +4831,57 @@ Erhöhung oder Verminderung der Dienstbezüge um feste Beträge.
 
 ### § 71 Erhöhung der Versorgungsbezüge
 
-(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2 des
-Bundesbesoldungsgesetzes entsprechend für die
+(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2
+Nummer 1 des Bundesbesoldungsgesetzes entsprechend für die
 
-1.  in § 5 Absatz 1 Satz 1 Nummer 1 und § 69g Absatz 1 Nummer 1 Buchstabe
-    a Satz 3 dieses Gesetzes sowie in § 84 Nummer 1, 3 und 4 des
-    Bundesbesoldungsgesetzes genannten Bezügebestandteile,
-
-
-2.  Leistungsbezüge nach § 5 Absatz 1 Satz 1 Nummer 4, soweit sie nach den
-    auf Grund des § 33 Absatz 4 des Bundesbesoldungsgesetzes erlassenen
-    Rechtsverordnungen an den regelmäßigen Besoldungsanpassungen
-    teilnehmen,
+1.  in § 5 Absatz 1 Satz 1 Nummer 1 dieses Gesetzes und § 84 Nummer 1 des
+    Bundesbesoldungsgesetzes genannten Bezügebestandteile sowie
 
 
-3.  den Versorgungsbezügen zugrunde liegenden Grundvergütungen,
+2.  den Versorgungsbezügen zugrunde liegenden
+
+    a)  Grundvergütungen,
 
 
-4.  den Versorgungsbezügen zugrunde liegenden Grundgehältern nach
-    fortgeltenden oder früheren Besoldungsordnungen.
+    b)  Grundgehälter nach fortgeltenden oder früheren Besoldungsordnungen.
+
+
+
 
 
 
 Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der
 weggefallenen Besoldungsgruppen A 1 und A 2.
 
-(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem
+(2) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2
+Nummer 3 des Bundesbesoldungsgesetzes entsprechend für die
+
+1.  den Versorgungsbezügen zugrunde liegenden Amtszulagen,
+
+
+2.  in § 84 Nummer 3 und 4 des Bundesbesoldungsgesetzes genannten
+    Bezügebestandteile.
+
+
+
+
+(3) Ab dem 1. März 2024 werden um 5,3 Prozent erhöht
+
+1.  den Versorgungsbezügen zugrunde liegende Leistungsbezüge nach § 5
+    Absatz 1 Satz 1 Nummer 4, soweit sie nach einer auf Grund des § 33
+    Absatz 4 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnung an
+    den regelmäßigen Besoldungsanpassungen teilnehmen,
+
+
+2.  der Überleitungsbetrag nach § 69g Absatz 1 Nummer 1 Buchstabe a Satz 3
+    sowie nach § 69g Absatz 2 Nummer 1 Satz 2.
+
+
+
+
+(4) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem
 Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung
-nicht zugrunde liegt, werden ab 1. April 2022 um 1,7 Prozent Prozent
+nicht zugrunde liegt, werden ab dem 1. März 2024 um 5,2 Prozent
 erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist.
 Satz 1 gilt entsprechend für
 
@@ -4874,9 +4900,86 @@ Satz 1 gilt entsprechend für
 
 
 
-### § 72 (weggefallen)
+### § 72 Sonderzahlung zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
 
--
+(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird
+den am 1. Mai 2023 vorhandenen Versorgungsempfängern für den Monat
+Juni 2023 eine einmalige Sonderzahlung gewährt, die sich nach dem
+jeweils maßgeblichen Ruhegehaltssatz und den Anteilssätzen des Witwen-
+und Waisengeldes sowie des Unterhaltsbeitrages aus dem Betrag von
+1 240 Euro ergibt. Bei Empfängern von Mindestversorgungsbezügen gilt
+der jeweils maßgebliche Mindestruhegehaltssatz. Abweichend davon wird
+den am 1. Mai 2023 vorhandenen Versorgungsempfängern im Sinne des § 71
+Absatz 4 für den Monat Juni 2023 die einmalige Sonderzahlung gewährt
+in Höhe von
+
+1.  744 Euro für Ruhegehaltsempfänger,
+
+
+2.  446 Euro für Witwen und versorgungsberechtigte geschiedene Ehefrauen,
+
+
+3.  149 Euro für Empfänger von Vollwaisengeld und
+
+
+4.  88 Euro für Empfänger von Halbwaisengeld.
+
+
+
+
+(2) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird
+Empfängern von laufenden Versorgungsbezügen ferner jeweils für die
+Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung neben
+ihren Versorgungsbezügen gewährt. Die Sonderzahlung wird in der Höhe
+gewährt, die sich nach dem jeweils maßgeblichen Ruhegehaltssatz und
+den Anteilssätzen des Witwen- und Waisengeldes sowie des
+Unterhaltsbeitrages aus dem Betrag von 220 Euro ergibt; Absatz 1 Satz
+2 gilt entsprechend. Abweichend davon wird den Versorgungsempfängern
+von laufenden Versorgungsbezügen im Sinne des § 71 Absatz 4 die
+monatliche Sonderzahlung jeweils für die Monate Juli 2023 bis Februar
+2024 gewährt in Höhe von
+
+1.  132 Euro für Ruhegehaltsempfänger,
+
+
+2.  79 Euro für Witwen und versorgungsberechtigte geschiedene Ehefrauen,
+
+
+3.  26 Euro für Empfänger von Vollwaisengeld und
+
+
+4.  16 Euro für Empfänger von Halbwaisengeld.
+
+
+
+
+(3) Die Sonderzahlung gilt nicht als Teil des Ruhegehaltes und bleibt
+bei der Anwendung von Ruhens‑, Anrechnungs- und Kürzungsvorschriften
+sowie bei Vorschriften über die anteilige Kürzung außer Betracht.
+
+(4) Die Sonderzahlung wird jedem Versorgungsempfänger nur einmal
+gewährt. Beim Zusammentreffen mit einer entsprechenden Leistung aus
+einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes wird
+die Sonderzahlung mit der Maßgabe gewährt, dass
+
+1.  der Anspruch aus einem Dienst- oder Arbeitsverhältnis dem Anspruch aus
+    dem Rechtsverhältnis als Versorgungsempfänger vorgeht,
+
+
+2.  beim Zusammentreffen von Ruhegehalt mit Hinterbliebenenversorgung sich
+    die Sonderzahlung nach dem Ruhegehalt bemisst und neben dem Ruhegehalt
+    gewährt wird sowie
+
+
+3.  im Übrigen der Anspruch aus einem späteren Rechtsverhältnis als
+    Versorgungsempfänger dem Anspruch aus einem früheren Rechtsverhältnis
+    als Versorgungsempfänger vorgeht.
+
+
+
+Dem öffentlichen Dienst im Sinne des Satzes 2 steht der Dienst bei
+öffentlich-rechtlichen Religionsgesellschaften und ihren Verbänden
+gleich.
 
 
 ### (XXXX) §§ 73 bis 76 (weggefallen)
@@ -5005,7 +5108,9 @@ auch der Ruhegehaltssatz für die Höchstgrenze nach § 54 Abs. 2 und §
 (8) Auf die am 31. Dezember 1991 vorhandenen Beamten, denen auf Grund
 eines bis zu diesem Zeitpunkt erlittenen Dienstunfalles ein
 Unfallausgleich gewährt wird, findet § 35 in der bis zum 31. Dezember
-1991 geltenden Fassung Anwendung.
+1991 geltenden Fassung Anwendung. Satz 1 gilt mit der Maßgabe, dass
+sich die Höhe des Unfallausgleichs nach § 35 Absatz 1 Satz 2 dieses
+Gesetzes bestimmt.
 
 (9) Bei der Anwendung der Absätze 1 und 3 bleibt der am 31. Dezember
 1991 erreichte Ruhegehaltssatz auch dann gewahrt, wenn dem
@@ -5411,6 +5516,16 @@ Auswirkungen der COVID-19-Pandemie
 Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes
 steuerfrei ist, gilt bis zu einem Betrag von 1 500 Euro nicht als
 Erwerbseinkommen.
+
+(4) Eine in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022
+gewährte Leistung, die nach § 3 Nummer 11b des Einkommensteuergesetzes
+steuerfrei ist, gilt bis zu einem Betrag von 4 500 Euro nicht als
+Erwerbseinkommen.
+
+(5) Eine in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in
+Form von Zuschüssen und Sachbezügen gewährte Leistung, die nach § 3
+Nummer 11c des Einkommensteuergesetzes steuerfrei ist, gilt bis zu
+einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
 
 
 ### § 108 Anwendungsbereich in den Ländern

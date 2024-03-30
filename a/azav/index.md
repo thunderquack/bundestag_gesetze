@@ -76,8 +76,8 @@ Angaben und Nachweise:
     zustellungsfähige Anschrift, Anschrift des Geschäftssitzes und der
     Zweigstellen, von denen aus die Maßnahmen der Arbeitsförderung
     angeboten werden sollen, sowie bei juristischen Personen und
-    Personengesellschaften Name, Geburtsdatum und Geburtsort der
-    Vertreterinnen oder der Vertreter nach Gesetz, Satzung oder
+    rechtsfähigen Personengesellschaften Name, Geburtsdatum und Geburtsort
+    der Vertreterinnen oder der Vertreter nach Gesetz, Satzung oder
     Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der
     Zweigstellen, von denen die Maßnahmen der Arbeitsförderung angeboten
     werden sollen und soweit der Träger in das Vereins- oder
@@ -85,8 +85,8 @@ Angaben und Nachweise:
 
 
 2.  eine Erklärung des Trägers, der gesetzlichen Vertreterin oder des
-    gesetzlichen Vertreters oder bei juristischen Personen oder nicht
-    rechtsfähigen Personenvereinigungen der nach Gesetz, Satzung oder
+    gesetzlichen Vertreters oder bei juristischen Personen oder sonstigen
+    Personenvereinigungen der nach Gesetz, Satzung oder
     Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
     über Vorstrafen, anhängige Strafverfahren, staatsanwaltschaftliche
     Ermittlungsverfahren und Gewerbeuntersagungen innerhalb der letzten

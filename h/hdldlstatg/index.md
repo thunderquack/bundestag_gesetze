@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 266
 
+Geändert durch
+:   Art. 2 G v. 17.1.2024 I Nr. 13 mWv 23.1.2024
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -378,11 +381,11 @@ Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
     e)  Handelsumsätze nach Produktarten,
 
 
-    f)  Aufwendungen für Waren, Material und Dienstleistungen nach Arten,
+    f)  Aufwendungen nach Arten,
 
 
-    g)  Wert der Bestände an Waren und Material nach Arten zu Beginn und zum
-        Ende des Berichtsjahres,
+    g)  Wert der Bestände nach Arten zu Beginn und zum Ende des
+        Berichtsjahres,
 
 
     h)  Aufwendungen für Mieten, Pachten und Leasing,

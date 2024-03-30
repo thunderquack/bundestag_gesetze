@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 31.5.2023 I Nr. 140
 
+Änderung durch
+:   Art. 31 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
 die Aufnahme und Ausübung der Versicherungs- und der
@@ -1302,8 +1308,8 @@ berufen sind, sowie für die persönlich haftenden Gesellschafter.
 
 ##### § 17 Anzeige bedeutender Beteiligungen
 
-(1) Jeder hat der Aufsichtsbehörde unverzüglich schriftlich
-anzuzeigen, wenn er beabsichtigt,
+(1) Jeder hat der Aufsichtsbehörde unverzüglich anzuzeigen, wenn er
+beabsichtigt,
 
 1.  allein oder im Zusammenwirken mit anderen Personen oder Unternehmen
     eine bedeutende Beteiligung an einem Versicherungsunternehmen direkt
@@ -1370,34 +1376,35 @@ begründen, Kenntnis erlangt hat.
 jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter und
 jeden neuen persönlich haftenden Gesellschafter mit den für die
 Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen
-unverzüglich schriftlich anzuzeigen.
+unverzüglich anzuzeigen.
 
 (3) Die Aufsichtsbehörde hat den Eingang einer vollständigen Anzeige
 nach Absatz 1 Satz 1 Nummer 1 oder 2 oder Satz 2 Nummer 1
 unverzüglich, spätestens jedoch innerhalb von zwei Arbeitstagen nach
-deren Zugang, schriftlich gegenüber dem Anzeigepflichtigen zu
-bestätigen.
+deren Zugang, schriftlich oder elektronisch gegenüber dem
+Anzeigepflichtigen zu bestätigen.
 
 (4) Die Aufsichtsbehörde hat die Anzeige nach Absatz 1 Satz 1 Nummer 1
 oder 2 oder Satz 2 Nummer 1 innerhalb von 60 Arbeitstagen ab dem Datum
 des Schreibens, mit dem sie den Eingang der vollständigen Anzeige
-schriftlich bestätigt hat (Beurteilungszeitraum), zu beurteilen. In
-der Bestätigung nach Absatz 3 hat die Aufsichtsbehörde dem
-Anzeigepflichtigen den Tag mitzuteilen, an dem der
+schriftlich oder elektronisch bestätigt hat (Beurteilungszeitraum), zu
+beurteilen. In der Bestätigung nach Absatz 3 hat die Aufsichtsbehörde
+dem Anzeigepflichtigen den Tag mitzuteilen, an dem der
 Beurteilungszeitraum endet. Bis zum 50. Arbeitstag innerhalb des
 Beurteilungszeitraums kann die Aufsichtsbehörde weitere Informationen
 anfordern, die für den Abschluss der Beurteilung notwendig sind. Die
-Anforderung ergeht schriftlich unter Angabe der zusätzlich benötigten
-Informationen. Die Aufsichtsbehörde hat den Eingang der weiteren
-Informationen innerhalb von zwei Arbeitstagen nach deren Zugang
-schriftlich gegenüber dem Anzeigepflichtigen zu bestätigen. Der
-Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren
-Informationen bis zu deren Eingang bei der Aufsichtsbehörde gehemmt.
-Der Beurteilungszeitraum beträgt im Fall der Hemmung nach Satz 6
-höchstens 80 Arbeitstage. Die Aufsichtsbehörde kann Ergänzungen oder
-Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu
-einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz
-7 kann der Beurteilungszeitraum im Fall einer Hemmung auf höchstens 90
+Anforderung ergeht schriftlich oder elektronisch unter Angabe der
+zusätzlich benötigten Informationen. Die Aufsichtsbehörde hat den
+Eingang der weiteren Informationen innerhalb von zwei Arbeitstagen
+nach deren Zugang schriftlich oder elektronisch gegenüber dem
+Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom
+Zeitpunkt der Anforderung der weiteren Informationen bis zu deren
+Eingang bei der Aufsichtsbehörde gehemmt. Der Beurteilungszeitraum
+beträgt im Fall der Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die
+Aufsichtsbehörde kann Ergänzungen oder Klarstellungen zu diesen
+Informationen anfordern; dies führt nicht zu einer erneuten Hemmung
+des Beurteilungszeitraums. Abweichend von Satz 7 kann der
+Beurteilungszeitraum im Fall einer Hemmung auf höchstens 90
 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 1.  außerhalb des Europäischen Wirtschaftsraums ansässig ist oder
@@ -1535,13 +1542,14 @@ Absatz 1 genannten Untersagungsgründe nicht mehr rechtfertigen.
 den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder eine
 Anordnung nach Absatz 2a zu erlassen, teilt sie dem Anzeigepflichtigen
 die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung
-des Beurteilungszeitraums schriftlich unter Angabe der Gründe mit.
-Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen
-Behörde sind in der Entscheidung wiederzugeben; eine Untersagung darf
-nur aus den in den Absätzen 1 und 2 genannten Gründen erfolgen; eine
-Anordnung nach Absatz 2a darf nur aus den in Absatz 1 aufgezählten
-Gründen erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung
-nicht innerhalb des Beurteilungszeitraums schriftlich untersagt, kann
+des Beurteilungszeitraums schriftlich oder elektronisch unter Angabe
+der Gründe mit. Bemerkungen und Vorbehalte der für den
+Anzeigepflichtigen zuständigen Behörde sind in der Entscheidung
+wiederzugeben; eine Untersagung darf nur aus den in den Absätzen 1 und
+2 genannten Gründen erfolgen; eine Anordnung nach Absatz 2a darf nur
+aus den in Absatz 1 aufgezählten Gründen erfolgen. Wird der Erwerb
+oder die Erhöhung der Beteiligung nicht innerhalb des
+Beurteilungszeitraums schriftlich oder elektronisch untersagt, kann
 der Erwerb oder die Erhöhung vollzogen werden; die Rechte der
 Aufsichtsbehörde nach § 20 bleiben davon unberührt. Wird der Erwerb
 oder die Erhöhung der Beteiligung nicht untersagt, kann die
@@ -2448,6 +2456,19 @@ dem Geldwäschegesetz erfüllt haben. Über die Prüfung ist gesondert zu
 berichten.
 
 
+###### § 35a Bestimmung von Prüfungsinhalten
+
+(1) Unbeschadet der besonderen Pflichten des Prüfers nach § 35 kann
+die Aufsichtsbehörde gegenüber dem Versicherungsunternehmen
+Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im
+Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann
+insbesondere Schwerpunkte für die Prüfungen festlegen.
+
+(2) Die Prüfungsanordnung soll dem Versicherungsunternehmen mit einem
+Vorlauf von mindestens drei Monaten zum Ende des Wirtschaftsjahres
+bekannt gegeben werden.
+
+
 ###### § 36 Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
 
 (1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom
@@ -2554,19 +2575,22 @@ Vorschriften zu erlassen über
     nach diesem Gesetz erforderlich ist;
 
 
-2.  den Inhalt, die Form und die Stückzahl des bei der Aufsichtsbehörde
-    vierteljährlich einzureichenden internen Zwischenberichts, bestehend
-    aus einer Zusammenstellung aktueller Buchhaltungs- und Bestandsdaten
-    sowie aus Angaben über die Anzahl der Versicherungsfälle, soweit dies
-    zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
+2.  den Inhalt, die Form, die Frist und die Stückzahl des bei der
+    Aufsichtsbehörde vierteljährlich einzureichenden internen
+    Zwischenberichts, bestehend aus einer Zusammenstellung aktueller
+    Buchhaltungs- und Bestandsdaten sowie aus Angaben über die Anzahl der
+    Versicherungsfälle, soweit dies zur Durchführung der Aufsicht nach
+    diesem Gesetz erforderlich ist;
 
 
-3.  den Inhalt, die Form und die Frist der Prüfungsberichte nach § 35
-    Absatz 1 und 2 sowie § 341k des Handelsgesetzbuchs, soweit dies zur
-    Durchführung der Aufsicht nach diesem Gesetz erforderlich ist,
-    insbesondere, um einheitliche Unterlagen zur Beurteilung der von den
-    Versicherungsunternehmen durchgeführten Versicherungsgeschäfte zu
-    erhalten;
+3.  den Gegenstand der Prüfung nach § 35 Absatz 1 sowie den Inhalt, die
+    Form und die Frist der Prüfungsberichte nach § 35 Absatz 1 und 2 sowie
+    den Inhalt, die Frist und die Form der Einreichung der
+    Prüfungsberichte bei der Aufsichtsbehörde nach § 341k des
+    Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach
+    diesem Gesetz erforderlich ist, insbesondere, um einheitliche
+    Unterlagen zur Beurteilung der von den Versicherungsunternehmen
+    durchgeführten Versicherungsgeschäfte zu erhalten;
 
 
 3a. den Zeitpunkt der Prüfung nach § 35 Absatz 5 sowie den Inhalt, die
@@ -3946,7 +3970,8 @@ nach Satz 1 sind neben § 61 Absatz 1 und 2 entsprechend anzuwenden:
 6.  von den Vorschriften über die Aufsicht § 294 Absatz 2 Satz 2 bis 4,
     die §§ 298 und 299 Nummer 1, die §§ 303, 305 Absatz 1, 2 Nummer 1 und
     2, Absatz 3 bis 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz
-    1 Nummer 1 und 2, Absatz 4 bis 8 sowie die §§ 308 und 310 sowie
+    1 Nummer 1 und 2, Absatz 4 bis 8, die §§ 308 und 310 sowie die
+    Vorschriften einer Rechtsverordnung nach § 310a sowie
 
 
 7.  § 17 des Finanzdienstleistungsaufsichtsgesetzes.
@@ -6265,25 +6290,23 @@ sind, ist das Vermögensverzeichnis nach näherer Bestimmung der
 Aufsichtsbehörde zu berichtigen; dasselbe gilt für
 Grundstücksbelastungen, die keine persönliche Forderung sichern.
 
-(2) Am Schluss eines jeden Geschäftsjahres hat das
-Versicherungsunternehmen der Aufsichtsbehörde eine Abschrift der im
-Laufe des Geschäftsjahres vorgenommenen Eintragungen vorzulegen; der
-Vorstand hat die Richtigkeit der Abschrift zu bescheinigen. Die
-Aufsichtsbehörde hat die Abschrift aufzubewahren.
+(2) Drei Monate nach Schluss des Geschäftsjahres hat das
+Versicherungsunternehmen der Aufsichtsbehörde die im Geschäftsjahr im
+Vermögensverzeichnis vorgenommenen Eintragungen zu übermitteln; der
+Vorstand hat die Richtigkeit der Eintragungen zu bescheinigen.
 
 (3) Die Anteile der Rückversicherer sowie die Anteile der zum
 Geschäftsbetrieb zugelassenen Zweckgesellschaften im Sinne des
-Artikels 211 der Richtlinie
-2009/138/EG              an den versicherungstechnischen
-Bruttorückstellungen im Sinne der §§ 341e bis 341h des
-Handelsgesetzbuchs des selbst abgeschlossenen Versicherungsgeschäfts
-gehören auch ohne Eintragung in das Vermögensverzeichnis zum
-Sicherungsvermögen. Für Forderungen an Versicherungs-
-Zweckgesellschaften mit Sitz in einem Drittstaat gilt dies nur dann,
-wenn die Versicherungs-Zweckgesellschaft im Sitzland entsprechend den
-Anforderungen des § 168 zum Geschäftsbetrieb staatlich zugelassen ist
-und beaufsichtigt wird sowie über eine vergleichbare Ausstattung mit
-Kapitalanlagen verfügt.
+Artikels 211 der Richtlinie 2009/138/EG an den
+versicherungstechnischen Bruttorückstellungen im Sinne der §§ 341e bis
+341h des Handelsgesetzbuchs des selbst abgeschlossenen
+Versicherungsgeschäfts gehören auch ohne Eintragung in das
+Vermögensverzeichnis zum Sicherungsvermögen. Für Forderungen an
+Versicherungs-Zweckgesellschaften mit Sitz in einem Drittstaat gilt
+dies nur dann, wenn die Versicherungs-Zweckgesellschaft im Sitzland
+entsprechend den Anforderungen des § 168 zum Geschäftsbetrieb
+staatlich zugelassen ist und beaufsichtigt wird sowie über eine
+vergleichbare Ausstattung mit Kapitalanlagen verfügt.
 
 (4) Absatz 3 gilt für die Lebensversicherung, die Krankenversicherung
 der in § 146 genannten Art, die private Pflegepflichtversicherung nach
@@ -7794,7 +7817,7 @@ Gesetzbuchs ist nicht anzuwenden. Die Genehmigung der
 Bestandsübertragung ist im Bundesanzeiger zu veröffentlichen. Sobald
 die Bestandsübertragung wirksam geworden ist, hat das übernehmende
 Versicherungsunternehmen unverzüglich die Vorversicherer über die
-Bestandsübertragung schriftlich zu informieren.
+Bestandsübertragung schriftlich oder elektronisch zu informieren.
 
 (2) Die vollständige oder teilweise Übertragung eines
 Versicherungsbestandes durch ein inländisches
@@ -7863,7 +7886,7 @@ steuern, kontrollieren und über diese berichten können.
 ##### § 168 Versicherungs-Zweckgesellschaften
 
 (1) Eine Versicherungs-Zweckgesellschaft ist eine Kapitalgesellschaft
-oder eine Personengesellschaft, die kein bestehendes
+oder eine rechtsfähige Personengesellschaft, die kein bestehendes
 Versicherungsunternehmen ist und Risiken von Versicherungsunternehmen
 übernimmt, wobei sie die Schadenrisiken vollständig über die Emission
 von Schuldtiteln oder einen anderen Finanzierungsmechanismus
@@ -9621,7 +9644,8 @@ können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und
 erforderlich sind, diese Missstände zu beseitigen oder zu verhindern.
 Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Auskunfts-
 und Prüfungsrechte nach den §§ 305 und 306 zu. Im Übrigen gelten für
-die Sicherungsfonds nur die Vorschriften dieses Kapitels sowie § 332.
+die Sicherungsfonds nur die Vorschriften dieses Kapitels, § 332 sowie
+die Vorschriften einer Rechtsverordnung nach § 310a.
 
 
 ### § 226 Finanzierung
@@ -11021,31 +11045,33 @@ unterliegen, durch Rechtsverordnung Vorschriften zu erlassen über
     jeweils in Verbindung mit § 237 Absatz 1;
 
 
-2.  die Buchführung, den Inhalt, die Form und die Stückzahl des bei der
-    Aufsichtsbehörde einzureichenden internen Berichts, bestehend aus
-    einer für Aufsichtszwecke gegliederten Bilanz und einer Gewinn-und-
-    Verlustrechnung sowie besonderen Erläuterungen zur Bilanz und zur
+2.  die Buchführung, den Inhalt, die Form, die Frist und die Stückzahl des
+    bei der Aufsichtsbehörde einzureichenden internen Berichts, bestehend
+    aus einer für Aufsichtszwecke gegliederten Bilanz und einer Gewinn-
+    und-Verlustrechnung sowie besonderen Erläuterungen zur Bilanz und zur
     Gewinn-und-Verlustrechnung, soweit dies zur Durchführung der Aufsicht
     nach diesem Gesetz erforderlich ist;
 
 
-3.  den Inhalt, die Form und die Stückzahl des bei der Aufsichtsbehörde
-    vierteljährlich einzureichenden internen Zwischenberichts, bestehend
-    aus einer Zusammenstellung von aktuellen Buchhaltungs-und
-    Bestandsdaten sowie aus Angaben über die Anzahl der Versorgungsfälle,
-    soweit dies zur Durchführung der Aufsicht nach diesem Gesetz
-    erforderlich ist;
+3.  den Inhalt, die Form, die Frist und die Stückzahl des bei der
+    Aufsichtsbehörde vierteljährlich einzureichenden internen
+    Zwischenberichts, bestehend aus einer Zusammenstellung von aktuellen
+    Buchhaltungs-und Bestandsdaten sowie aus Angaben über die Anzahl der
+    Versorgungsfälle, soweit dies zur Durchführung der Aufsicht nach
+    diesem Gesetz erforderlich ist;
 
 
-4.  den Inhalt des Prüfungsberichts nach § 341k des Handelsgesetzbuchs,
-    soweit dies zur Durchführung der Aufsicht nach diesem Gesetz
-    erforderlich ist, insbesondere, um einheitliche Unterlagen zur
-    Beurteilung der von den Pensionsfonds durchgeführten Geschäfte zu
-    erhalten;
+4.  den Inhalt, die Frist und die Form der Einreichung des bei der
+    Aufsichtsbehörde einzureichenden Prüfungsberichts nach § 341k des
+    Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach
+    diesem Gesetz erforderlich ist, insbesondere, um einheitliche
+    Unterlagen zur Beurteilung der von den Pensionsfonds durchgeführten
+    Geschäfte zu erhalten;
 
 
-5.  den Inhalt des Prüfungsberichts gemäß § 35 Absatz 1 Satz 1, soweit
-    dies zur Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist,
+5.  den Gegenstand der Prüfung sowie den Inhalt, die Form und die Frist
+    des Prüfungsberichts gemäß § 35 Absatz 1 Satz 1, soweit dies zur
+    Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist,
     insbesondere, um einheitliche Unterlagen zur Beurteilung der von den
     Pensionsfonds durchgeführten Geschäfte zu erhalten;
 
@@ -13548,11 +13574,12 @@ anzuwenden.
 
 (1) Für Versicherungs-Holdinggesellschaften und gemischte
 Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16
-bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7 sowie die §§ 303, 305,
-306, 310 und 333 entsprechend; § 299 bleibt unberührt. Für
-Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft
-betreiben, gelten neben Absatz 2 nur die Vorschriften über die
-Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
+bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306,
+310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a
+entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das
+Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2
+nur die Vorschriften über die Beaufsichtigung von Erst- oder
+Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die
 erforderlichen Maßnahmen auch gegenüber der jeweiligen Versicherungs-
@@ -14210,6 +14237,10 @@ Gesundheitsdaten im Sinne des Artikels 4 Nummer 15 der Verordnung (EU)
 Vorschriften bleiben unberührt. § 22 Absatz 2 des
 Bundesdatenschutzgesetzes gilt entsprechend.
 
+(8) Die Aufsichtsbehörde kann bei Auskunfts- und Vorlageersuchen nach
+dieser Vorschrift eine elektronische Einreichung verlangen und nähere
+Bestimmungen über die Art und Weise der Übermittlung festlegen.
+
 
 #### § 305a Befugnisse und Maßnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011
 
@@ -14837,10 +14868,11 @@ Weitergabe von Informationen an
 
 2.  kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von
     Versicherungsunternehmen, Versicherungsvermittlern, Kreditinstituten,
-    Wertpapierinstituten, Kapitalverwaltungsgesellschaften, extern
-    verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften
-    oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen,
-    der Finanzmärkte oder des Zahlungsverkehrs oder mit der
+    Wertpapierinstituten, Schwarmfinanzierungsdienstleistern,
+    Kapitalverwaltungsgesellschaften, extern verwalteten
+    Investmentgesellschaften, EU-Verwaltungsgesellschaften oder
+    ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, der
+    Finanzmärkte oder des Zahlungsverkehrs oder mit der
     Geldwäscheprävention betraute Stellen sowie von diesen beauftragte
     Personen,
 
@@ -14988,6 +15020,49 @@ Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU)
 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln
 gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende
 Wirkung.
+
+
+#### § 310a Elektronische Übermittlung; Verordnungsermächtigung
+
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
+den Zuständigkeitsbereich der Bundesanstalt die Verpflichtung und das
+Verfahren zur elektronischen Einreichung und Nutzung elektronischer
+Kommunikationsverfahren zu regeln für Meldungen, Anzeigen, Berichte,
+Anträge und sonstige Informationen mit den hierzu notwendigen
+Unterlagen, die der Bundesanstalt vorzulegen sind
+
+1.  nach diesem Gesetz und den aufgrund dieses Gesetzes erlassenen
+    Rechtsverordnungen sowie
+
+
+2.  nach den in § 295 Absatz 1 genannten Verordnungen der Europäischen
+    Union und den Rechtsakten, die zur Durchführung dieser Verordnungen
+    und der Richtlinie 2009/138/EG erlassen worden sind.
+
+
+
+
+(2) Durch Rechtsverordnung nach Absatz 1 können insbesondere
+
+1.  Regelungen getroffen werden, welches elektronische
+    Kommunikationsverfahren für die jeweilige Verpflichtung zur
+    elektronischen Einreichung bei der Bundesanstalt zu nutzen ist und
+    welche Bestimmungen für dessen Nutzung gelten, einschließlich der
+    Verpflichtung zu einem Zugang zu einem elektronischen
+    Kommunikationsverfahren im Sinne der §§ 4f und 4g des
+    Finanzdienstleistungsaufsichtsgesetzes, sowie
+
+
+2.  nähere Bestimmungen getroffen werden über Art, Umfang, Zeitpunkt, Form
+    und Datenformat der Einreichungen nach Absatz 1.
+
+
+
+
+(3) Das Bundesministerium der Finanzen kann die Ermächtigung nach den
+Absätzen 1 und 2 durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, auf die Bundesanstalt übertragen.
 
 
 ### Kapitel 2 - Sichernde Maßnahmen

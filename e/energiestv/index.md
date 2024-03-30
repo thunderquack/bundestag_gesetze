@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1753
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.5.2022 I 810
+:   Art. 4 G v. 27.3.2024 I Nr. 107
 
 
 ## - - Allgemeines
@@ -29,9 +29,10 @@ Im Sinne dieser Verordnung ist oder sind:
 
 1.  zugelassene Kennzeichnungsstoffe:
 
-    die in § 2 Abs. 1 genannten Rotfarbstoffe und der Markierstoff Solvent
-    Yellow 124 sowie die nach § 2 Abs. 2 und 3 anzuerkennenden
-    ausländischen Kennzeichnungsstoffe;
+    die in § 2 Abs. 1 genannten Rotfarbstoffe und der Markierstoff
+    ACCUTRACE
+    TM                    PLUS sowie die nach § 2 Abs. 2 und 3
+    anzuerkennenden ausländischen Kennzeichnungsstoffe;
 
 
 2.  Kennzeichnungslösungen:
@@ -344,10 +345,10 @@ N-Ethyl-1-(4-phenylazophenylazo)naphthyl-2-amin oder 5,3 g
 N-Ethylhexyl-1-(tolylazotolylazo)naphthyl-2-amin oder 6,1 g
 N-Tridecyl-1-(tolylazotolylazo)naphthyl-2-amin oder einem in der
 Farbwirkung äquivalenten Gemisch aus diesen Farbstoffen
-(Rotfarbstoffe) und 6,0 g
-N-Ethyl-N-(2-(1-isobutoxyethoxy)ethyl)-4-(phenylazo)-anilin (Solvent
-Yellow 124 - Markierstoff) auf 1 000 Liter bei 15 Grad Celsius
-gleichmäßig vermischt (gekennzeichnet) wurden.
+(Rotfarbstoffe) und 12,5 g ACCUTRACE
+TM              PLUS (Markierstoff – entspricht einem Gehalt von 9,5 g
+Butoxybenzol) auf 1 000 Liter bei 15 Grad Celsius gleichmäßig
+vermischt (gekennzeichnet) wurden.
 
 (2) Werden Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und
 der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten
@@ -361,16 +362,19 @@ Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder
 des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl
 außerhalb des Steuergebiets gekennzeichnet worden ist und nach Art und
 Menge mindestens den Gehalt der in Absatz 1 genannten
-Kennzeichnungsstoffe und höchstens 9,0 g Solvent Yellow 124 auf 1 000
-Liter bei 15 Grad Celsius gleichmäßig verteilt enthält. Wird ein zu
-geringer Anteil an Kennzeichnungsstoffen festgestellt, gilt § 7 Abs. 2
-Satz 5 bis 7 sinngemäß.
+Kennzeichnungsstoffe und höchstens 18,75 g ACCUTRACE
+TM              PLUS (Markierstoff – entspricht einem Gehalt von
+höchstens 14,25 g Butoxybenzol) auf 1 000 Liter bei 15 Grad Celsius
+gleichmäßig verteilt enthält. Wird ein zu geringer Anteil an
+Kennzeichnungsstoffen festgestellt, gilt § 7 Absatz 2 Satz 6 bis 8
+sinngemäß.
 
 (3) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der
 Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten
 Nomenklatur, die aus einem anderen Mitgliedstaat in das Steuergebiet
 verbracht werden und neben der nach Absatz 2 Satz 1 vorgeschriebenen
-Menge Solvent Yellow 124 andere als in Absatz 1 genannte
+Menge ACCUTRACE
+TM              PLUS andere als in Absatz 1 genannte
 Kennzeichnungsstoffe enthalten, gelten vorbehaltlich gegenteiliger
 Feststellung als ordnungsgemäß gekennzeichnet, wenn diese
 Kennzeichnungsstoffe in gleicher Weise (Rotfärbung) und mit
@@ -662,7 +666,7 @@ und die Steuerbelange nicht beeinträchtigt werden.
 (1) Für andere Energieerzeugnisse als Gasöle, die nach § 2 Abs. 4 des
 Gesetzes einer ordnungsgemäßen Kennzeichnung bedürfen, gelten die §§ 2
 bis 7 sinngemäß. Werden Energieerzeugnisse trotz des Verzichts auf
-eine Kennzeichnung (§ 2 Absatz 4 Satz 4 des Gesetzes) gekennzeichnet,
+eine Kennzeichnung (§ 2 Absatz 4 Satz 7 des Gesetzes) gekennzeichnet,
 sind sie ordnungsgemäß zu kennzeichnen; die §§ 2 bis 7 gelten
 sinngemäß.
 
@@ -709,9 +713,8 @@ und die Zulassung nach § 8 Absatz 2 erlöschen durch
     Ableben,
 
 
-7.  die Auflösung der juristischen Person oder Personenvereinigung ohne
-    Rechtspersönlichkeit, der die Zulassung oder die Bewilligung erteilt
-    worden ist,
+7.  die Auflösung der juristischen Person oder Personenvereinigung, der
+    die Zulassung oder die Bewilligung erteilt worden ist,
 
 
 8.  die Eröffnung des Insolvenzverfahrens über das Vermögen des
@@ -720,8 +723,7 @@ und die Zulassung nach § 8 Absatz 2 erlöschen durch
 
 
 9.  die Änderung der Firma oder des Inhabers bei einer
-    Personengesellschaft oder Personenvereinigung ohne
-    Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen
+    Personenvereinigung, die Verlegung der Niederlassung an einen anderen
     Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
 
@@ -1222,8 +1224,8 @@ der Neuerteilung durchgeführt.
     Ableben,
 
 
-7.  die Auflösung der juristischen Person oder Personenvereinigung ohne
-    Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+7.  die Auflösung der juristischen Person oder Personenvereinigung, der
+    die Erlaubnis erteilt worden ist,
 
 
 8.  die Eröffnung des Insolvenzverfahrens über das Vermögen des
@@ -1232,8 +1234,7 @@ der Neuerteilung durchgeführt.
 
 
 9.  die Änderung der Firma oder des Inhabers bei einer
-    Personengesellschaft oder Personenvereinigung ohne
-    Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen
+    Personenvereinigung, die Verlegung der Niederlassung an einen anderen
     Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
 
@@ -1709,11 +1710,11 @@ Das Hauptzollamt überprüft die Steueranmeldungen. Art und Umfang der
 Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach
 einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur
 Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und
-Verhältnismäßigkeit der Besteuerung vorgegeben werden. Das
-Hauptzollamt kann von dem Steuerschuldner weitere Angaben oder
-zusätzliche Unterlagen verlangen. Für die einheitlichen
-Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung
-entsprechend.
+Verhältnismäßigkeit der Besteuerung durch eine Verfahrensanweisung
+vorgegeben werden. Das Hauptzollamt kann von dem Steuerschuldner
+weitere Angaben oder zusätzliche Unterlagen verlangen. Für die
+einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der
+Abgabenordnung entsprechend.
 
 
 ## - - Zu § 9 des Gesetzes
@@ -2428,8 +2429,8 @@ Energieerzeugnisse.
 
 Auf Antrag des Versenders kann das Hauptzollamt, wenn die
 Steuerbelange dadurch nicht gefährdet sind, anstelle des EDV-
-gestützten Beförderungs- und Kontrollsystems vereinfachte Verfahren
-zulassen für Beförderungen
+gestützten Beförderungs- und Kontrollsystems andere geeignete
+Verfahren zulassen für Beförderungen
 
 1.  von Energieerzeugnissen zwischen Steuerlagern desselben
     Steuerlagerinhabers im Steuergebiet,
@@ -3141,7 +3142,7 @@ dass die Beförderung der Energieerzeugnisse beendet wurde.
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
 somit nicht angewendet werden, gelten für das Ausfallverfahren die §§
-36, 36b und 36c entsprechend. In diesem Fall sind Ausfalldokumente
+36, 36b bis 36d entsprechend. In diesem Fall sind Ausfalldokumente
 nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
@@ -3807,8 +3808,8 @@ der Neuerteilung durchgeführt.
     Ableben,
 
 
-7.  die Auflösung der juristischen Person oder Personenvereinigung ohne
-    Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+7.  die Auflösung der juristischen Person oder Personenvereinigung, der
+    die Erlaubnis erteilt worden ist,
 
 
 8.  die Eröffnung des Insolvenzverfahrens über das Vermögen des
@@ -3817,8 +3818,7 @@ der Neuerteilung durchgeführt.
 
 
 9.  die Änderung der Firma oder des Inhabers bei einer
-    Personengesellschaft oder Personenvereinigung ohne
-    Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen
+    Personenvereinigung, die Verlegung der Niederlassung an einen anderen
     Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
 
@@ -3944,11 +3944,14 @@ Energieerzeugnisse anzumelden, die er im abgelaufenen Kalenderjahr
 
 
 2.  als Verteiler zu den in der Anlage 1 aufgeführten steuerfreien Zwecken
-    abgegeben oder
+    abgegeben,
 
 
 3.  als Verwender oder Verteiler aus dem Steuergebiet verbracht oder
-    ausgeführt
+    ausgeführt oder
+
+
+4.  nach § 26 des Gesetzes zu steuerfreien Zwecken verwendet
 
 
 
@@ -4673,7 +4676,7 @@ Unterlagen nachzuweisen ist.
 Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet
 verbracht, finden sinngemäß Anwendung
 
-1.  die §§ 38 bis 38g in den Fällen, in denen die §§ 15 bis 15c des
+1.  die §§ 38 und 38a in den Fällen, in denen die §§ 15 bis 15c des
     Gesetzes nach § 34 des Gesetzes sinngemäß gilt,
 
 
@@ -5141,7 +5144,7 @@ Vorauszahlungen verzichten.
 Wird Erdgas nicht leitungsgebunden aus einem anderen Mitgliedstaat in
 das Steuergebiet verbracht, finden sinngemäß Anwendung
 
-1.  die die §§ 38 bis 38g in den Fällen, in denen §§ 15 bis 15c des
+1.  die die §§ 38 und 38a in den Fällen, in denen §§ 15 bis 15c des
     Gesetzes nach § 40 des Gesetzes sinngemäß gilt,
 
 
@@ -5335,9 +5338,9 @@ dass
 
 ### § 86 Eigenverbrauch
 
-Für die Teile des Gasgewinnungsbetriebs (§ 44 Abs. 3 des Gesetzes), in
-denen Erdgas steuerfrei nach § 44 Abs. 2 des Gesetzes verwendet werden
-kann, gilt § 59 sinngemäß.
+Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes),
+in denen Energieerzeugnisse steuerfrei nach § 44 Absatz 2 des Gesetzes
+verwendet werden können, gilt § 59 sinngemäß.
 
 
 ## - - Zu § 46 des Gesetzes
@@ -5368,7 +5371,7 @@ Einzelfällen die Steuerentlastung unverzüglich gewähren.
 Absatz 2 des Gesetzes hat der Antragsteller, ausgenommen im
 Versandhandel, dem Antrag einen Ausdruck der Eingangsmeldung des
 vereinfachten elektronischen Verwaltungsdokuments als Nachweis nach §
-46 Absatz 2 Nummer 1 des Gesetzes beizufügen. In den Fällen, in denen
+46 Absatz 2 Nummer 2 des Gesetzes beizufügen. In den Fällen, in denen
 keine Eingangsmeldung abgegeben wurde, kann ein Ersatznachweis nach §
 38g Absatz 2 als hinreichender Nachweis anerkannt werden. In den
 Fällen des § 46 Absatz 2 Satz 1 Nummer 1 des Gesetzes ist der
@@ -6832,28 +6835,19 @@ Gemeinde, in der die Arbeiten überwiegend ausgeführt werden, zuständig
 ist.
 
 (2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich
-vorgeschriebenem Vordruck für die innerhalb eines Kalenderjahrs
-(Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Abs. 1 des
-Gesetzes verwendeten Energieerzeugnisse (begünstigter Verbrauch) zu
-beantragen. Die elektronische Übermittlung der Antragsdaten ist
-zugelassen, soweit für die Datenübermittlung und den Ausdruck des
-Entlastungsantrags (komprimierter Vordruck) die von der
-Finanzverwaltung hierfür zur Verfügung gestellten elektronischen
-Komponenten genutzt werden. Der Antragsteller hat in der Anmeldung
-alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu
-machen und die Steuerentlastung selbst zu berechnen. Die
-Steuerentlastung wird nur gewährt, wenn der Antrag bis zum 30.
-September des Jahres, das dem Kalenderjahr folgt, in dem die
-Energieerzeugnisse verwendet worden sind, beim zuständigen
-Hauptzollamt gestellt wird. Bei einer elektronischen Übermittlung der
-Antragsdaten gilt der Antrag erst als gestellt, wenn dem zuständigen
-Hauptzollamt zusätzlich zu den elektronisch übermittelten Daten der
-unterschriebene komprimierte Vordruck zugeht. Für die Fristwahrung ist
-allein der Eingang des unterschriebenen komprimierten Vordrucks
-maßgeblich. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
+vorgeschriebenem Datensatz für die innerhalb eines Kalenderjahres
+(Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Absatz 1 des
+Gesetzes verwendeten Gasöle (begünstigter Verbrauch) zu beantragen.
+Der Antragsteller hat in der Anmeldung alle für die Bemessung der
+Steuerentlastung erforderlichen Angaben zu machen und die
+Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur
+gewährt, wenn der Antrag bis zum 31. Dezember des Jahres, das dem
+Kalenderjahr folgt, in dem die Gasöle verwendet worden sind, beim
+zuständigen Hauptzollamt gestellt wird. Bei erstmaliger Antragstellung
+sind dem Antrag beizufügen:
 
 1.  Quittungen oder Lieferbescheinigungen nach Absatz 4 über im
-    Entlastungsabschnitt insgesamt bezogene Gasöle und Biokraftstoffe,
+    Entlastungsabschnitt insgesamt bezogenen Gasöle,
 
 
 2.  die Aufzeichnungen nach Absatz 5, soweit der Antragsteller zu deren
@@ -6864,29 +6858,30 @@ maßgeblich. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
     Bienenvölker (Völkermeldung) und
 
 
-4.  Bescheinigungen nach Absatz 6 über das im Entlastungsabschnitt von
-    Betrieben im Sinne des § 57 Abs. 2 Nr. 5 des Gesetzes verbrauchte
-    Gasöl.
+4.  Bescheinigungen nach Absatz 6 über die im Entlastungsabschnitt von
+    Betrieben im Sinne des § 57 Absatz 2 Nummer 5 des Gesetzes
+    verbrauchten Gasöle.
 
 
 
-Bei Folgeanträgen hat der Antragsteller die in Satz 7 genannten
+Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten
 Unterlagen lediglich auf Verlangen des Hauptzollamts vorzulegen.
 
 (3) Antragsberechtigt ist der Inhaber eines Betriebs im Sinne des § 57
-Abs. 2 des Gesetzes (Begünstigter). Wechselt innerhalb eines
-Entlastungsabschnitts der Inhaber eines Betriebs, so bleibt der
-bisherige Inhaber für die Zeit bis zum Inhaberwechsel Begünstigter.
+Absatz 2 Nummer 1 bis 4 des Gesetzes (Begünstigter). Wechselt
+innerhalb eines Entlastungsabschnitts der Inhaber eines Betriebs, so
+bleibt der bisherige Inhaber für die Zeit bis zum Inhaberwechsel
+Begünstigter.
 
 (4) Der Begünstigte hat sich Quittungen oder Lieferbescheinigungen
 über die im Entlastungsabschnitt insgesamt für begünstigte und nicht
-begünstigte Zwecke bezogene Gasöle und Biokraftstoffe ausstellen zu
-lassen, welche die Anschriften des Empfängers und des Lieferers, das
-Datum der Lieferung, die gelieferte Menge und den zu zahlenden Betrag
-enthalten. Tankbelege gelten auch ohne die Anschrift des Empfängers
-als Lieferbescheinigung, wenn sie die übrigen Angaben nach Satz 1
-enthalten. Der Antragsteller hat die Belege nach § 147 Abs. 1 und 3
-der Abgabenordnung aufzubewahren.
+begünstigte Zwecke bezogene Gasöle ausstellen zu lassen, welche die
+Anschriften des Empfängers und des Lieferers, das Datum der Lieferung,
+die gelieferte Menge und den zu zahlenden Betrag enthalten. Tankbelege
+gelten auch ohne die Anschrift des Empfängers als Lieferbescheinigung,
+wenn sie die übrigen Angaben nach Satz 1 enthalten. Der Antragsteller
+hat die Belege nach § 147 Abs. 1 und 3 der Abgabenordnung
+aufzubewahren.
 
 (5) Inhaber von Betrieben im Sinne des § 57 Abs. 2 Nr. 5 des Gesetzes
 haben für jedes oder jede der in § 57 Abs. 1 des Gesetzes genannten
@@ -6907,10 +6902,7 @@ Gasölmenge und den hierfür zu zahlenden Geldbetrag enthalten.
 (7) Der Steuerentlastungsanspruch nach § 57 des Gesetzes entsteht mit
 Ablauf des Entlastungsabschnitts (Absatz 2 Satz 1).
 
-(8) Absatz 2 Satz 2, 5 und 6 ist ab dem Zeitpunkt des Beginns der
-elektronischen Datenübermittlung nach § 3 Absatz 1 in Verbindung mit
-Absatz 2 der Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-
-Verordnung für diese Steuerentlastung nicht mehr anwendbar.
+(8) (weggefallen)
 
 
 ### - - Zu § 58 des Gesetzes
@@ -7352,95 +7344,10 @@ anzumelden. § 12 Absatz 1 Satz 2 und Absatz 2 sowie die §§ 13 und 15
 Absatz 1, 2 und 4 bis 11 gelten sinngemäß.
 
 
-#### § 109a Zeitlich begrenzte Fassungen einzelner Verordnungsvorschriften
-
-(1) § 105a ist mit der Maßgabe anzuwenden, dass sich die
-Steuerentlastung für die in § 68 Absatz 1 und 2 des Gesetzes genannten
-Energieerzeugnisse, für die im Zeitraum vom 1. Juni 2022 bis zum 30.
-Juni 2022 der Entlastungsanspruch entsteht, nach den in § 68 Absatz 1
-und 2 des Gesetzes genannten Steuersätzen bemisst.
-
-(2) § 109 Absatz 2 Nummer 1 Buchstabe c ist vom 1. Juni 2022 bis zum
-31\. August 2022 mit der Maßgabe anzuwenden, dass die Steuer für 1 000
-l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe b des
-Gesetzes 339,80 EUR beträgt, falls das Gemisch ein Benzin nach § 2
-Absatz 1 Nummer 1 Buchstabe a des Gesetzes oder ein entsprechender
-Kraftstoff nach § 2 Absatz 4 des Gesetzes ist.
-
-(3) § 109 Absatz 2 Nummer 2 ist vom 1. Juni 2022 bis zum 31. August
-2022 mit der Maßgabe anzuwenden, dass die Steuer für
-
-1.  1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe a des
-    Gesetzes 0,00 EUR,
+#### § 109a (weggefallen)
 
 
-2.  1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe b des
-    Gesetzes 29,00 EUR,
-
-
-3.  1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 6 des Gesetzes
-    0,00 EUR
-
-
-
-beträgt, falls das Gemisch ein Benzin nach § 2 Absatz 1 Nummer 1
-Buchstabe b des Gesetzes oder ein entsprechender Kraftstoff nach § 2
-Absatz 4 des Gesetzes ist.
-
-(4) § 109 Absatz 2 Nummer 3
-
-1.  Buchstabe b ist vom 1. Juni 2022 bis zum 31. August 2022 mit der
-    Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse
-    nach § 2 Absatz 1 Nummer 1 Buchstabe b des Gesetzes 362,00 EUR
-    beträgt,
-
-
-2.  Buchstabe e ist vom 1. Juni 2022 bis zum 31. August 2022 mit der
-    Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse
-    nach § 2 Absatz 1 Nummer 4 Buchstabe b des Gesetzes 391,00 EUR
-    beträgt,
-
-
-
-falls das Gemisch ein Benzin nach § 2 Absatz 1 Nummer 2 des Gesetzes
-oder ein entsprechender Kraftstoff nach § 2 Absatz 4 des Gesetzes ist.
-
-
-#### § 109b Sonstige Vermischungen von versteuerten Energieerzeugnissen
-
-(1) Werden Energieerzeugnisse, die nach verschiedenen Steuersätzen des
-§ 2 Absatz 1 des Gesetzes, auch in Verbindung mit § 2 Absatz 4 des
-Gesetzes, versteuert worden sind, vor der Abgabe in Haupt- oder
-Reservebehälter von Motoren miteinander gemischt, entsteht für die
-niedriger belasteten Anteile eine Steuer, wenn das Gemisch ein Gasöl
-nach § 2 Absatz 1 Nummer 4 des Gesetzes, ein Schmieröl und anderes Öl
-nach § 2 Absatz 1 Nummer 6 des Gesetzes oder ein Kraftstoff nach § 2
-Absatz 4 des Gesetzes ist, der nach seiner Beschaffenheit dem Gasöl
-oder Schmieröl und anderem Öl entspricht. Dies gilt nicht für
-niedriger belastete Anteile, die eine Menge von 300 l nicht
-übersteigen, wenn sie in Transportmitteln, beim Entleeren von
-Transportmitteln, beim Spülen von Tankstellenbehältern, bei der
-Herstellung von Zweitaktergemischen oder durch Endverwender vermischt
-werden.
-
-(2) Die Steuer beträgt vom 1. Juni 2022 bis zum 31. August 2022, falls
-das Gemisch ein
-
-1.  Gasöl nach § 2 Absatz 1 Nummer 4 Buchstabe a des Gesetzes oder ein
-    entsprechender Kraftstoff nach § 2 Absatz 4 des Gesetzes ist, für
-    1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 1 Buchstabe b des
-    Gesetzes 126,70 EUR,
-
-
-2.  Schmieröl und anderes Öl nach § 2 Absatz 1 Nummer 6 des Gesetzes oder
-    ein entsprechender Kraftstoff nach § 2 Absatz 4 des Gesetzes ist, für
-    1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 1 Buchstabe b des
-    Gesetzes 126,70 EUR.
-
-
-
-
-(3) § 109 Absatz 4 und 5 gilt sinngemäß.
+#### § 109b (weggefallen)
 
 
 ### - - Zu § 66 Abs. 1 Nr. 13 des Gesetzes
@@ -7519,12 +7426,11 @@ Es gelten
     2 dieser Verordnung genannten Verfahren maßgeblich,
 
 
-8.  für die Bestimmung des Gehalts des in § 2 Absatz 1 genannten
-    Markierstoffs Solvent Yellow 124 das in der Anlage 3 dieser Verordnung
-    genannte Verfahren (Euromarker-Referenzanalyseverfahren) oder die DIN
-    51430, Ausgabe Oktober 2011; im Streitfall ist das Ergebnis der
-    Untersuchung nach dem in der Anlage 3 dieser Verordnung genannten
-    Verfahren maßgeblich,
+8.  für die Bestimmung des Gehalts des Markierstoffs Solvent Yellow 124
+    das in der Anlage 3 dieser Verordnung genannte Verfahren (Euromarker-
+    Referenzanalyseverfahren) oder die DIN 51430, Ausgabe Oktober 2011; im
+    Streitfall ist das Ergebnis der Untersuchung nach dem in der Anlage 3
+    dieser Verordnung genannten Verfahren maßgeblich,
 
 
 9.  für die Bestimmung des Färbeäquivalents von Gemischen der in § 2 Abs.
@@ -7532,7 +7438,13 @@ Es gelten
 
 
 10. für die Probeentnahme nach § 1b Absatz 1 Nummer 4 die DIN EN ISO
-    10715, Ausgabe September 2000.
+    10715, Ausgabe September 2000,
+
+
+11. für die Bestimmung des Gehalts des in § 2 Absatz 1 genannten
+    Markierstoffs ACCUTRACE
+    TM                    PLUS das in der Anlage 5 dieser Verordnung
+    genannte Verfahren.
 
 
 
@@ -8923,4 +8835,1017 @@ Extinktionen in Toluol zu ermitteln. Äquivalenz liegt vor, wenn sich
 die Extinktionskurve des Farbstoffgemisches und die Extinktionskurve
 von 5 g N-Ethyl-1-(4-phenylazophenylazo)-naphthyl-2-amin (Standard-
 Farbstoff) unter gleichen Messbedingungen im Maximum decken.
+
+(zu § 110 Satz 1 Nummer 11)
+Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
+
+#### Anlage 5 Plus (n-Butylphenylether) in leichtem Heizöl, Kerosin und in Mischungen von leichtem Heizöl mit nicht gekennzeichnetem Dieselkraftstoff mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
+
+(Fundstelle: BGBl. 2023 I Nr. 367, 5 – 12)
+
+
+1   Zweck und Anwendungsbereich
+
+
+1.1 Einleitung und Hinweise
+
+    Im Interesse des reibungslosen Funktionierens des Binnenmarktes und
+    insbesondere zur Verhinderung von Steuerhinterziehung wurde mit der
+    Richtlinie 95/60/EG des Rates vom 27. November 1995 über die
+    steuerliche Kennzeichnung von Gasöl und Kerosin (ABl. L 291 vom
+    6\.12.1995, S. 46) ein gemeinsames Kennzeichnungssystem für Gasöle und
+    Kerosin, die einem ermäßigten Verbrauchsteuersatz unterliegen,
+    eingeführt. Mit Durchführungsbeschluss (EU) 2022/197 der Kommission
+    vom 17. Januar 2022 zur Bestimmung eines gemeinsamen Stoffes zur
+    steuerlichen Kennzeichnung von Gasölen und Kerosin (ABl. L 31 vom
+    14\.2.2022, S. 52) wurde ein neuer gemeinsamer Markierstoff für Gasöl
+    und Kerosin festgelegt.
+
+    Diese Anlage enthält eine Methode zur Bestimmung des Wirkstoffs
+    n-Butylphenylether (BPE, Butoxybenzol) in ACCUTRACE
+    TM                    Plus in Gasöl und Kerosin. Sie ist für die
+    Untersuchung von gekennzeichneten, niedrig besteuerten Mineralölen und
+    Gemischen mit Dieselkraftstoff anzuwenden.
+
+    Der Markierstoff ist:
+
+    ACCUTRACE
+    TM                    Plus bestehend aus etwa 24 % naphthenischen
+    Kohlenwasserstoffen als Lösungsmittel und 76 % BPE (CAS #1126-79-0,
+    EC# 214-426-1).
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0010.jpg](bgbl1_2023_j03670_0010.jpg)
+        *
+
+
+
+   Abbildung 1: Strukturformel von n-Butylphenylether
+
+    Die Mitgliedstaaten legen einen Kennzeichnungsstoffgehalt von
+    ACCUTRACE
+    TM                    PLUS von mindestens 12,5 Milligramm pro Liter
+    Energieerzeugnis fest. Dies entspricht einem Kennzeichnungsstoffgehalt
+    von mindestens 9,5 Milligramm BPE pro Liter des Energieerzeugnisses.
+
+
+1.2 Anwendungsbereich
+
+    Diese Methode beschreibt die Analyse von BPE (Abschnitt 3.4) im
+    Konzentrationsbereich von der Nachweisgrenze bis etwa 20 mg pro Liter
+    in Gasöl und Kerosin.
+
+
+2   Prinzip
+
+    Die Quantifizierung von BPE erfolgt durch zweidimensionale
+    Gaschromatographie in Verbindung mit einem massenselektiven Detektor
+    (MSD). Zu diesem Zweck wird die Probe in den Trägergasstrom injiziert,
+    auf einer ersten, unpolaren Säule gaschromatographisch vorgetrennt und
+    durch Flammenionisationsdetektion (FID) nachgewiesen. Zum Zeitpunkt
+    der erwarteten Elution von BPE wird ein Teil des Eluenten auf eine
+    zweite, polarere Säule umgeleitet (so genannter Heart-Cut), und BPE
+    wird mittels Massenspektrometrie bei m/z = 94 und 150 (SIM-Modus)
+    nachgewiesen und quantifiziert. Nach dem Heart-Cut kann der
+    Trägergasstrom umgekehrt werden, und die hochsiedenden Komponenten
+    werden durch den Injektor abgeleitet (sog. Backflush). Abbildung 2
+    zeigt ein Schema des 2D-Heart-Cut-Systems, das zur Bestimmung von BPE
+    in Kraft- und Heizstoffen verwendet wird.
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0020.jpg](bgbl1_2023_j03670_0020.jpg)
+        *
+
+
+
+   Abbildung 2: Schema des 2D Heart-Cut GC-MS-Systems
+    für den Nachweis von BPE in Mineralölen
+
+    Grundsätzlich kann die Methode in zwei Varianten angewendet werden:
+
+    VERFAHREN A) Injektion der unverdünnten Probe und Quantifizierung mit
+    externem Standard; und
+
+    VERFAHREN B) Quantifizierung nach aliquoter Verdünnung mit einer
+    internen Standardlösung (ISTD).
+
+    Der ISTD ist ein am Phenylring deuteriertes BPE (d5-BPE, Abschnitt 3).
+
+
+3   Reagenzien und Materialien
+
+
+3.1 n-Heptan (für die Chromatographie, Reinheit*                    99 %,)
+
+
+3.2 Toluol (für die Chromatographie, Reinheit*                    99,9 %)
+
+
+3.3 Xylol-Isomerengemisch oder o-Xylol (für die Chromatographie, Reinheit*
+    98 %)
+
+
+3.4 BPE (Reinheit*                    99 %)
+
+
+3.5 d5-BPE (Reinheit*                    98 %)
+
+
+3.6 Gasöl mit und ohne Biodiesel (zum Beispiel DK-B0 und DK-B7)
+
+    Alle Reagenzien sind entsprechend den Sicherheitshinweisen zu
+    handhaben und zu lagern.
+
+
+4   Analysengerät und Analysenparameter
+
+
+4.1 Gaschromatograph mit automatischem Probengeber, Split-Splitless-
+    Einlass (SSL) oder temperaturprogrammierbarem Einlasssystem (PTV),
+    Pneumatikschaltmodul (PSD), Flammenionisationsdetektor (FID) und
+    massenselektivem Detektor (MSD) mit Ionenextraktor- oder
+    vergleichbarer Elektronenstoßionisationsquelle
+
+
+4.2 Personalcomputer mit Software für Datenaufnahme und -auswertung
+
+
+4.3 Standardlaborglasgeräte
+
+
+4.4 Analysenwaage (mit mindestens 4 Nachkommastellen)
+
+
+4.5 Wasserbad (thermostatisierbar auf 20*                    0,2 °C)
+
+
+4.6 Mikropipetten (zur Herstellung von Standards und gegebenenfalls
+    Verdünnung mit ISTD-Lösung)
+
+
+4.7 Chromatographiebedingungen
+
+    Die folgenden beispielhaften Bedingungen sind erfolgreich getestet
+    worden. Jedes Labor muss die Methodenparameter entsprechend seiner
+    eigenen instrumentellen Ausstattung optimieren.
+
+    Berechnen Sie die entsprechenden Druck- und Flusswerte mit einem PSD-
+    Berechnungstool.
+
+    Besonderes Augenmerk ist auf die Länge des Heart-Cut-Zeitfensters zu
+    richten (On-Off-Ventil des PSD). Überprüfen Sie die Heart-Cut-
+    Parameter mindestens monatlich und auf jeden Fall nach jeder
+    Veränderung am Gerät durch Injektion einer BPE-Lösung in Höhe von
+    mindestens der höchsten Standardkonzentration in Xylol oder Toluol.
+
+    Eine Verschiebung der BPE-Retentionszeit oder eine Verschlechterung
+    der Peakform (zum Beispiel Tailing) in der ersten Säule würde die
+    Menge des in die zweite Säule geleiteten Analyten verringern, was zu
+    einer Unterschätzung der BPE-Konzentration führen würde, wenn das
+    Zeitfenster des PSD nicht entsprechend angepasst wird.
+
+    Anstelle von Helium kann auch Wasserstoff als Trägergas verwendet
+    werden.
+
+    *        *   Modul
+
+        *   Parameter
+
+        *   Wert für SSL-Einlass
+
+        *   Wert für PTV- oder
+            SSL-Einlass
+
+
+    *        *   Probengeber
+
+        *   Injektionsvolumen:
+
+        *   1 µl (10 µl Spritze) mit 0,2 µl Luftpolster
+
+        *   0,2 µl (1 µl Spritze) mit 0,02 µl Luftpolster
+
+
+    *        *   Lösungsmittelreinigungszyklen:
+
+        *   2 mal 8 µl vor und 5 mal 4 µl nach der Injektion
+
+        *   2 mal 0,8 µl vor und 5 mal 0,4 µl nach der Injektion
+
+
+    *        *   Probenspülzyklen:
+
+        *   2 mal mit 2 µl Probe
+
+        *   2 mal mit 0,4 µl Probe
+
+
+    *        *   Reinigungslösungsmittel:
+
+        *   Toluol
+
+
+    *        *   Viscositätsverzögerung:
+
+        *   2 s
+
+
+    *        *   Aufziehgeschwindigkeit:
+
+        *   Lösungsmittel 300 µl/min; Probe 100 µl/min
+
+
+    *        *   Abgabegeschwindigkeit:
+
+        *   3000 µl/min
+
+
+    *        *   Injektionsgeschwindigkeit:
+
+        *   6000 µl/min
+
+
+    *        *   Einlasssystem
+
+        *   Liner:
+
+        *   Ultra-inert (900 µl, split/splitless, single taper, glass wool)
+
+
+    *        *   Temperatur:
+
+        *   250 °C oder 300 °C
+
+        *   300 °C und bis 400 °C nach Heart Cut
+
+
+    *        *   Einlasssystem
+
+        *   Splitverhältnis:
+
+        *   50:1 (mit ISTD),
+            100:1 (ohne ISTD)
+
+        *   5:1 (mit ISTD),
+            10:1 (ohne ISTD)
+
+
+    *        *
+        *   Anpassung des Splitverhältnisses aufgrund der Verdünnung mit ISTD
+
+
+    *        *   Trägergas:
+
+        *   Helium (104 ml/min, Gas Saver nach 3 min)
+
+
+    *        *   Septumspülung:
+
+        *   3 ml/min
+
+
+
+
+    *        *   Modul
+
+        *   Parameter
+
+        *   Konfiguration 1
+            (SSL-Inlet und Backflush)
+
+        *   Konfiguration 2
+            (SSL- oder PTV-Inlet mit
+            und ohne Backflush)
+
+
+    *        *   Kapillarsäulen
+
+        *   Vorsäule:
+
+        *   ohne
+
+        *   zum Beispiel deaktivierte Vorsäule (L: 5 m, ID: 0,25 mm)
+
+
+    *        *   1. Säule:
+
+        *   unpolare Kapillarsäule, zum Beispiel DB-17HT (L: 15 m, ID: 0,25 mm,
+            Film 0,15 µm)
+
+        *   unpolare Kapillarsäule, zum Beispiel DB-1HT (L: 15 m, ID: 0,25 mm,
+            Film 0,1 µm)
+
+
+    *        *
+        *   2. Restriktor zum FID:
+
+        *   zum Beispiel Leerkapillare (L: 0,64 m, ID: 0,1 mm)
+
+        *   zum Beispiel Leerkapillare (L: 0,68 m, ID: 0,1 mm)
+
+
+    *        *
+        *   3. Säule:
+
+        *   Kapillarsäule mit polarer Phase (L: 30 m, ID: 0,25 mm, Film 1,0 µm)
+
+        *   Kapillarsäule mit polarer Phase (L: 30 m, ID: 0,25 mm, Film 0,2 µm)
+
+
+    *        *   Säulenfluss-raten
+
+        *   1. Säule:
+
+        *   1 ml/min für 5,15 min, dann
+            –1 ml/min bis 15,167 min (Backflush)
+
+        *   1,075 ml/min für 4,3 min, dann –3 ml/min bis 15 min (nur für
+            Backflush)
+
+
+    *        *   2. Restriktor zum FID:
+
+        *   2,5 ml/min
+
+        *   2,5 ml/min
+
+
+    *        *   3. Säule:
+
+        *   Flusskontrolle via 2. Säule (2,34 ml/min)
+
+        *   Flusskontrolle via 2. Säule (2,48 ml/min)
+
+
+    *        *   Säulenofen
+
+        *
+        *   100 °C für 0,5 min, 10 °C/min bis 180 °C, 30 °C/min bis 260 °C, 260 °C
+            halten für 4 min; Gesamtzeit: 15,167 min
+
+        *   100 °C für 1 min, 5 °C/min bis 125 °C, 100 °C/min bis
+            260 °C,                              260 °C halten für 7,65 min;
+            Gesamtlaufzeit: 15 min **oder**                              ohne
+            **Backflush**                             : 260 °C halten für 3 min,
+            10 °C/min bis 290 °C, 290 °C halten für 6,65 min; Gesamtzeit: 20 min
+
+
+    *        *   PSD/
+            Heart Cut
+
+        *   Ventil auf:
+
+        *   4,94 min
+
+        *   4,00 min
+
+
+    *        *   Ventil zu:
+
+        *   5,07 min
+
+        *   4,20 min
+
+
+    *        *   Bestimmt und regelmäßig überprüft mit BPE-Lösung auf dem Niveau von
+            mindestens der höchsten Standardkonzentration in Xylol oder Toluol
+
+
+    *        *   FID
+
+        *   Temperatur:
+
+        *   285 °C
+
+
+    *        *
+        *   Air Flow:
+
+        *   400 ml/min
+
+
+    *        *
+        *   H
+            2                             -Flow:
+
+        *   40 ml/min
+
+
+    *        *
+        *   Makeup (N2)-Flow:
+
+        *   25 ml/min
+
+
+    *        *
+        *   Datenrate:
+
+        *   20 Hz
+
+
+    *        *   MSD
+
+        *   Transfer-Line-Temperatur:
+
+        *   260 °C
+
+
+    *        *
+        *   EI-Quellentemperatur:
+
+        *   230 °C
+
+
+    *        *
+        *   Quadrupoltemperatur:
+
+        *   150 °C
+
+
+    *        *
+        *   Verstärkungsfaktor:
+
+        *   1,0
+
+
+    *        *
+        *   SIM Ionen BPE:
+
+        *   m/z = 94 and 150 (Quantifier and Qualifier)
+
+
+    *        *
+        *   SIM Ionen d5-BPE:
+
+        *   m/z = 99 and 155 m/z (Quantifier and Qualifier)
+
+
+    *        *
+        *   Dwell-Time:
+
+        *   100 ms each
+
+
+    *        *
+        *   Scanrate:
+
+        *   1,562 u/s
+
+
+    *        *
+        *   Detektor an:
+
+        *   8,0 min
+
+        *   6,1 min
+
+
+    *        *
+        *   Detektor aus:
+
+        *   9,5 min
+
+        *   7,6 min
+
+
+
+
+    Tabelle 1: Beispielhafte Chromatographiebedingungen
+
+
+5   Durchführung
+
+
+5.1 Allgemeines
+
+    Entnehmen Sie eine repräsentative Probe des zu analysierenden
+    Produkts. Für die Quantifizierung sind die Proben als Doppelbestimmung
+    zu analysieren.
+
+
+5.2 Voruntersuchung
+
+    Insbesondere bei hohem Probenaufkommen wird eine Voruntersuchung
+    empfohlen, um festzustellen, ob BPE in den Proben überhaupt
+    nachweisbar ist. Dazu können die Proben unverdünnt ohne Zugabe des
+    ISTD und ohne Kalibrierung gemessen werden. Um zu prüfen, ob das
+    gaschromatographische System über eine ausreichende Empfindlichkeit
+    und Trennleistung verfügt, wird vor den Proben eine Kontrolllösung
+    eingespritzt, die BPE in einer Gasölmatrix enthält. Es wird empfohlen,
+    etwa 0,5 % der erforderlichen Konzentration in gekennzeichnetem,
+    leichtem Heizöl zu verwenden (zum Beispiel Standardlösung 9).
+
+    Vorgehensweise:
+
+    Die Standardlösung 9 wird in unverdünntem Zustand als Kontrollprobe
+    analysiert.
+
+    Die Proben sind ebenfalls unverdünnt zu analysieren.
+
+    Wenn die Kontrolle erfolgreich ist und kein Signal für BPE in der
+    Probe vorliegt, kann die Probe als negativ angesehen werden und es ist
+    keine weitere Analyse erforderlich.
+
+    Die Analyse der Kontrollprobe ist nach zehn unbekannten Proben zu
+    wiederholen.
+
+
+5.3 VERFAHREN A): Analyse ohne Zusatz eines internen Standards
+
+
+5.3.1 Probenvorbereitung für die Quantifizierung
+
+    Füllen Sie die Proben in 2-ml-Fläschchen und verschließen Sie diese
+    gut.
+
+
+5.3.2 Kontrollproben
+
+    BPE-freier Dieselkraftstoff-B7 wird mit BPE versetzt, um zwei
+    Kontrollproben mit einem Gehalt von etwa 10 mg/l und 0,1 mg/l
+    herzustellen. Die Vorbereitung kann wie bei den Standardlösungen 2 und
+    8 erfolgen. Alternativ kann auch ein zertifiziertes Referenzmaterial
+    (CRM) verwendet werden.
+
+
+5.3.3 Standardlösungen mit BPE
+
+
+5.3.3.1 Stammlösungen
+
+    Stammlösung I: Etwa 750 mg BPE werden mit einer Genauigkeit von 0,1 mg
+    in einen 100-ml-Messkolben eingewogen und mit Diesel-B0 oder Diesel-B7
+    bis zur Marke aufgefüllt. Diese Stammlösung hat eine BPE-Konzentration
+    von etwa 7500 mg/l.
+
+    Die Reinheit der Kalibriersubstanz gemäß dem Analysenzertifikat ist zu
+    berücksichtigen.
+
+    Stammlösung II: 2000 µl der Stammlösung I werden in einen 100-ml-
+    Messkolben überführt und bis zur Markierung mit Diesel-B0 oder
+    Diesel-B7 aufgefüllt. Diese Stammlösung hat eine BPE-Konzentration von
+    etwa 150 mg/l.
+
+    Vor dem Auffüllen sind die Lösungen im Wasserbad (Abschnitt 4.5)
+    mindestens für 30 Minuten auf
+    20 °C                    zu temperieren.
+
+    Die Einwaagen, Zielkonzentrationen und Endvolumina sind Richtwerte. Es
+    muss eine gleichmäßige Verteilung der Konzentrationen der Standards
+    über den Arbeitsbereich gewährleistet sein.
+
+
+5.3.3.2 Standardlösungen
+
+    Die Standardlösungen können gemäß Tabelle 1 aus den in Abschnitt
+    5\.3.3.1 beschriebenen Stammlösungen hergestellt werden.
+
+    *        *   Standard-
+            lösung
+
+        *   Zielkonzentration
+            [mg/l]
+
+        *   Verdünnt aus
+            BPE-Stamm-/Standardlösung
+
+        *   Volumen
+            BPE-Stamm-/Standard
+            [ml]
+
+        *   Endvolumen
+            [ml]
+
+
+    *        *   1
+
+        *   15,000
+
+        *   Stammlösung II
+
+        *   10
+
+        *   100
+
+
+    *        *   2
+
+        *   10,5000
+
+        *   Stammlösung II
+
+        *   7
+
+        *   100
+
+
+    *        *   3
+
+        *   7,5000
+
+        *   Stammlösung II
+
+        *   5
+
+        *   100
+
+
+    *        *   4
+
+        *   3,7500
+
+        *   Stammlösung II
+
+        *   2,5
+
+        *   100
+
+
+    *        *   5
+
+        *   1,0500
+
+        *   Standardlösung 2
+
+        *   10
+
+        *   100
+
+
+    *        *   6
+
+        *   0,5250
+
+        *   Standardlösung 2
+
+        *   5
+
+        *   100
+
+
+    *        *   7
+
+        *   0,2100
+
+        *   Standardlösung 2
+
+        *   2
+
+        *   100
+
+
+    *        *   8
+
+        *   0,1050
+
+        *   Standardlösung 5
+
+        *   10
+
+        *   100
+
+
+    *        *   9
+
+        *   0,0525
+
+        *   Standardlösung 5
+
+        *   5
+
+        *   100
+
+
+    *        *   10
+
+        *   0,0210
+
+        *   Standardlösung 5
+
+        *   2
+
+        *   100
+
+
+
+
+    Tabelle 2: Verdünnungsreihe zur Herstellung der Standardlösungen
+
+    Vor dem Auffüllen sind die Mischungen im Wasserbad (Abschnitt 4.5)
+    mindestens 30 Minuten lang auf 20 °C zu temperieren. Die Einwaagen,
+    Zielkonzentrationen und Endvolumina sind Richtwerte.
+
+    Für die Routinekalibrierung ist die Verwendung von mindestens sechs
+    Kalibrierpunkten (fett gedruckt) ausreichend. Die Kalibrierlösungen
+    werden vor den Proben eingespritzt. Falls erforderlich, sind
+    Mehrfachinjektionen der Standards möglich.
+
+    Die Ausweitung des Arbeitsbereichs durch zusätzliche Standards mit
+    höheren BPE-Konzentrationen ist möglich. In diesem Fall ist zu prüfen,
+    ob eine lineare Regression zulässig ist.
+
+    Die Kalibrierkurve wird durch den Koordinatenursprung gezwungen.
+
+
+5.4 VERFAHREN B): Bestimmung mit Zusatz des internen Standards
+
+
+5.4.1 Probenvorbereitung für die Quantifizierung
+
+    800 µl der Standardlösung, Probe oder Kontrollprobe werden mit 800 µl
+    der ISTD-Standardlösung III (Abschnitt 5.4.3) in einem 2-ml-GC-
+    Fläschchen mit einer automatischen Pipette mit variabler
+    Dosiergeschwindigkeit verdünnt. Das Fläschchen ist gut zu verschließen
+    und gut zu durchmischen.
+
+    Alternativ kann die ISTD-Lösung III durch eine so genannte 2-Lagen-
+    Sandwich-Injektion zur unverdünnten Probe im Probengebermodul des GC
+    zugegeben werden, vorzugsweise unter Verwendung eines kleinen
+    Gesamtinjektionsvolumens und einer entsprechend angepassten
+    Injektionsspritze.
+
+
+5.4.2 Kontrollproben
+
+    Siehe Abschnitt 5.3.2
+
+
+5.4.3 Interne Standardlösung mit d5-BPE in Xylol
+
+    ISTD-Stammlösung I: Etwa 500 mg d5-BPE (mit einer Genauigkeit von 0,1
+    mg) werden in einen 100-ml-Messkolben eingewogen und bis zur Marke mit
+    Xylol (3.3) aufgefüllt. Diese Stammlösung hat eine
+    d5-BPE-Konzentration                    von etwa 5000 mg/l.
+
+    Die Reinheit der Kalibriersubstanz gemäß dem Analysenzertifikat ist zu
+    berücksichtigen.
+
+    ISTD-Stammlösung II: 1000 µl der ISTD-Stammlösung I werden in einen
+    50-ml-Messkolben überführt und bis zur Marke mit Xylol (3.3)
+    aufgefüllt. Diese Stammlösung hat eine d5-BPE-Konzentration von etwa
+    100 mg/l.
+
+    ISTD-Stammlösung III: 2000 µl der ISTD-Stammlösung II werden in einen
+    100-ml-Kolben überführt und bis zur Marke mit Xylol (3.3) aufgefüllt.
+    Diese Stammlösung hat eine d5-BPE-Konzentration von etwa 2 mg/l.
+
+    Vor dem Auffüllen sind die Mischungen mindestens 30 Minuten lang im
+    Wasserbad (Abschnitt 4.6) auf 20 °C zu temperieren.
+
+
+5.4.4 Standardlösungen mit BPE
+
+    Siehe Abschnitt 5.3.3
+
+    Für die Routinekalibrierung ist die Verwendung von mindestens sechs
+    Kalibrierlösungen (fett gedruckt) ausreichend. Die Kalibrierlösungen
+    werden vor den Proben eingespritzt. Falls erforderlich, sind
+    Mehrfachinjektionen der Standards möglich.
+
+    Die Kalibrierkurve wird durch den Koordinatenursprung gezwungen.
+
+
+5.5 Kalibrierung und Berechnung
+
+    Bei Routineanalysen wird eine lineare 7-Punkte-Kalibrierung
+    durchgeführt (6 Punkte und erzwungener Nullpunkt, siehe auch 5.3.3.2
+    und 5.4.4).
+
+    VERFAHREN A):
+
+    Die Kalibrierkurve wird erstellt, indem die Fläche des zu
+    quantifizierenden Ions (m/z = 94) des BPE-Peaks in jedem
+    Standardchromatogramm gegen die genaue Konzentration des jeweiligen
+    Standards in mg/l aufgetragen wird. Es wird eine lineare Regression
+    mit erzwungenem Nulldurchgang angewandt.
+
+    Berechnen Sie die Konzentration X (mg/l) von BPE in der Probe anhand
+    der linearen Gleichung:
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0030.jpg](bgbl1_2023_j03670_0030.jpg)
+        *
+
+
+
+   mit
+
+    a   = Steigung der Regressionsgeraden
+
+
+    Y   = Fläche des zu quantifizierenden Ions des BPE (m/z = 94) im
+        Chromatogramm der Probe
+
+
+
+
+    VERFAHREN B):
+
+    Die Kalibrierkurve wird konstruiert, indem das Verhältnis der Fläche
+    des quantifizierenden Ions
+    (m/z = 94)                    des BPE-Peaks zur Fläche des
+    quantifizierenden Ions des d5-BPE-Peaks (m/z = 99) in jedem
+    Standardchromatogramm gegen die genaue Konzentration des jeweiligen
+    Standards in mg/l aufgetragen wird. Es wird eine lineare Regression
+    mit erzwungenem Nulldurchgang angewandt. Mit Hilfe der
+    Regressionsgerade wird die Konzentration der Probe in mg/l bestimmt.
+
+    Berechnen Sie die Konzentration X (mg/l) von BPE in der Probe anhand
+    der linearen Gleichung:
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0040.jpg](bgbl1_2023_j03670_0040.jpg)
+        *
+
+
+
+   mit
+
+    a   = Steigung der Regressionsgeraden
+
+
+    Y'  = Verhältnis der Fläche des zu quantifizierenden Ions des BPE (m/z =
+        94) zur Fläche des zu quantifizierenden Ions des Peaks des d5-BPE (m/z
+        = 99) im Chromatogramm der Probe
+
+
+
+
+    Führen Sie die Kalibrierung regelmäßig (mindestens alle zwei Wochen)
+    und nach jeder Änderung am Gerät (z. B. MSD-Tuning, Wechsel des
+    Liners, Änderung des Heart-Cut-Zeitfensters) oder im Falle eines
+    Qualitätskontrollfehlers durch.
+
+    Qualitätssichernde Maßnahmen:
+
+    Nach jeder Kalibrierung werden eine n-Heptan- oder Toluol-
+    Leerwertprobe und die Kontrollproben (5.3.2) analysiert. Nach der
+    Messung von zehn Proben (als Doppelbestimmung) sind die Leer- und
+    Kontrollproben erneut zu vermessen. Die Ergebnisse sind in Regelkarten
+    zu verzeichnen. Wiederholen Sie die Kalibrierung, wenn die
+    Qualitätskontrolle versagt oder ein Trend über mehr als sieben
+    Messungen vorliegt.
+
+    Die quantitative Auswertung ist nur zulässig, wenn die Signale von BPE
+    und d5-BPE nicht gestört sind und das Verhältnis des Molekularpeaks
+    zum Basispeak im erwarteten Bereich liegt (Qualifier-Ion).
+
+
+6   Ergebnisangabe
+
+    Der Gehalt an Kennzeichnungsstoffen wird als Massenkonzentration in
+    mg/l angegeben. Bei Massenkonzentrationen*                    1,00
+    mg/l erfolgt die Ergebnisangabe auf 0,01 mg/l gerundet, oberhalb von
+    1,00 mg/l auf 0,1 mg/l gerundet.
+
+    Beim Runden auf die letzte anzugebende Stelle ist DIN 1333 zu
+    berücksichtigen.
+
+
+7   Präzision
+
+
+7.1 Arbeitsbereich
+
+    Die Linearität der Kalibrierung wurde bis zu Konzentrationen von 20
+    mg/l geprüft. Der lineare Korrelationskoeffizient R
+    2                    sollte besser als 0,995 sein (R*
+    0,999).
+
+
+7.2 Nachweis- und Bestimmungsgrenze
+
+    Die Nachweisgrenze (LOD) und die Bestimmungsgrenze (LOQ) hängen von
+    der Art des verwendeten Gerätes ab. Daher muss jedes Labor diese Werte
+    selbst bestimmen.
+
+    Diese Werte sind nach dem IUPAC-Verfahren durch mindestens zehnmalige
+    Messung einer Probe mit einer bekannten niedrigen Konzentration und
+    Multiplikation der Standardabweichung mit 3 bzw. 10 zu schätzen. Die
+    Werte in Tabelle 3 sind Richtwerte, die mit einem modernen MSD
+    erreicht werden können.
+
+    *        *
+        *   VERFAHREN A)
+            ohne ISTD [mg/l]
+
+        *   VERFAHREN B)
+            mit ISTD [mg/l]
+
+
+    *        *   Nachweisgrenze (LOD)
+
+        *   0,009
+
+        *   0,011
+
+
+    *        *   Bestimmungsgrenze (LOQ)
+
+        *   0,031
+
+        *   0,036
+
+
+
+
+    Tabelle 3: Nachweis- und Bestimmungsgrenze
+
+    Die Verwendung des ISTD hat keinen signifikanten Einfluss auf die
+    Nachweis- und Bestimmungsgrenze.
+
+
+7.3 Wiederholbarkeit und Vergleichbarkeit
+
+    Es wurde festgestellt, dass die Wiederholbarkeit und die
+    Vergleichbarkeit von der BPE-Konzentration abhängen und durch die
+    folgenden linearen Funktionen ausgedrückt werden können, wobei X der
+    Mittelwert einer Doppelbestimmung ist:
+
+    *        *
+        *   VERFAHREN A)
+            ohne ISTD [mg/l]
+
+        *   VERFAHREN B)
+            mit ISTD [mg/l]
+
+
+    *        *   Wiederholbarkeit (r)
+
+        *   r = 0,036 X + 0,048
+
+        *   r = 0,0363 X – 0,0124
+
+
+    *        *   Vergleichbarkeit (R)
+
+        *   R = 0,121 X + 0,055
+
+        *   R = 0,0893 X + 0,042
+
+
+    *        *   Horwitz-Vergleichbarkeit
+
+        *   R
+            Horw                              = 0,0778 X + 0,0235
+
+
+
+
+    Tabelle 4: Wiederhol- und Vergleichbarkeit sowie Vorhersage nach
+    Horwitz
+
+
+8.  Anhang
+
+
+8.1 Anhang 1: Chromatogramme
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0050.jpg](bgbl1_2023_j03670_0050.jpg)
+        *
+
+
+
+   Abbildung 3: FID-Signal (ohne ISTD)
+
+    Bei der Messung von Proben mit ISTD dominiert das Lösemittelsignal von
+    Xylol das FID-Chromatogramm.
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0060.jpg](bgbl1_2023_j03670_0060.jpg)
+        *
+
+
+
+   Abbildung 4: Total-Ionen-Chromatogramm des MSD (BPE ca. 0,1 mg/l,
+    nicht genutzt für die Quantifizierung)
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0070.jpg](bgbl1_2023_j03670_0070.jpg)
+        *
+
+
+
+   Abbildung 5: SIM-Spuren des MSD bei einer BPE-Konzentration von 0,12
+    mg/l (mit ISTD)
+
+
+    *        *
+        *            ![bgbl1_2023_j03670_0080.jpg](bgbl1_2023_j03670_0080.jpg)
+        *
+
+
+
+   Abbildung 6: Typische Routinekalibriergerade mit ISTD
+
+
+
 

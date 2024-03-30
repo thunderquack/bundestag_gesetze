@@ -1825,9 +1825,9 @@ Nr. L 46 S. 1) wird bestimmt:
 Genehmigung dieses Abschnitts waren, sind von dem Inhaber der
 Genehmigung der Genehmigungsbehörde unverzüglich anzuzeigen. Ist der
 Inhaber der Genehmigung nach den §§ 61 und 62 eine juristische Person
-oder eine Personengesellschaft, so sind Veränderungen hinsichtlich der
-vertretungsberechtigten Personen ebenfalls der Genehmigungsbehörde
-anzuzeigen.
+oder eine rechtsfähige Personengesellschaft, so sind Veränderungen
+hinsichtlich der vertretungsberechtigten Personen ebenfalls der
+Genehmigungsbehörde anzuzeigen.
 
 
 #### § 65 Aufsicht

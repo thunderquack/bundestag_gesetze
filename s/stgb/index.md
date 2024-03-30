@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 26.7.2023 I Nr. 203
 
+Änderung durch
+:   Art. 12 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 3 Nr. 2 G v. 16.8.2023 I Nr. 218 ist berücksichtigt
 
@@ -934,9 +937,10 @@ der Nachweis der Wiedergutmachung auferlegt werden.
 
 ###### § 43 Ersatzfreiheitsstrafe
 
-An die Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe.
-Einem Tagessatz entspricht ein Tag Freiheitsstrafe. Das Mindestmaß der
-Ersatzfreiheitsstrafe ist ein Tag.
+An die Stelle einer uneinbringlichen Geldstrafe tritt
+Ersatzfreiheitsstrafe. Zwei Tagessätzen entspricht ein Tag
+Ersatzfreiheitsstrafe. Das Mindestmaß der Ersatzfreiheitsstrafe ist
+ein Tag.
 
 
 ##### Nebenstrafe - 

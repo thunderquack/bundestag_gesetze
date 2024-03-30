@@ -16,247 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 752
 
 Neugefasst durch
-:   Bek. v. 17.1.2014 I 58;
-
-Zuletzt geändert durch
-:   Art. 6 V v. 19.11.2019 I 1862
-
-Änderung durch
-:   Art. 1 V v. 4.11.2023 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-
-## Inhaltsverzeichnis
-
-Abschnitt 1
-## Allgemeines
-
-
-*    *   Begriffsbestimmungen
-
-    *   §  1
-
-
-*    *   Hygiene
-
-    *   §  2
-
-
-*    *   Impfung
-
-    *   §  3
-
-
-*    *   Mitteilungspflicht
-
-    *   §  4
-
-
-*    *   Untersuchungseinrichtung
-
-    *   §  5
-
-
-*    *   Ursachenermittlung im Betrieb
-
-    *   §  6
-
-
-*    *   Reinigung und Desinfektion
-
-    *   §  7
-
-
-
-Abschnitt 2
-## Hühnerzuchtbetriebe
-
-
-*    *   Betriebseigene Kontrollen, sonstige Mitteilungspflichten
-
-    *   §  8
-
-
-*    *   Amtliche Untersuchung
-
-    *   §  9
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 10
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 11
-
-
-
-Abschnitt 3
-## Hühneraufzuchtbetriebe
-
-
-*    *   Impfungen
-
-    *   § 12
-
-
-*    *   Betriebseigene Kontrollen
-
-    *   § 13
-
-
-*    *   Amtliche Untersuchung
-
-    *   § 14
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 15
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 16
-
-
-
-Abschnitt 4
-## Legehennenbetriebe
-
-
-*    *   Einstallen von Junghennen
-
-    *   § 17
-
-
-*    *   Betriebseigene Kontrollen
-
-    *   § 18
-
-
-*    *   Amtliche Untersuchung
-
-    *   § 19
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 20
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 21
-
-
-
-Abschnitt 5
-## Hähnchenmastbetriebe
-
-
-*    *   Betriebseigene Kontrollen
-
-    *   § 22
-
-
-*    *   Amtliche Untersuchung
-
-    *   § 23
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 24
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 25
-
-
-
-Abschnitt 6
-## Hühnerbrütereien
-
-
-*    *   Betriebseigene Kontrollen
-
-    *   § 26
-
-
-*    *   Amtliche Untersuchung
-
-    *   § 27
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 28
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 29
-
-
-
-Abschnitt 7
-## Putenbetriebe
-
-
-*    *   Betriebseigene Kontrollen
-
-    *   § 30
-
-
-*    *   Amtliche Untersuchung
-
-    *   § 31
-
-
-*    *   Maßregeln nach Feststellung von Salmonellen
-
-    *   § 32
-
-
-*    *   Aufhebung der Maßregeln
-
-    *   § 33
-
-
-
-Abschnitt 8
-## Weitergehende Maßnahmen
-
-
-*    *   Maßnahmen bei Salmonella Gallinarum Pullorum
-
-    *   § 34
-
-
-*    *   Mitteilungen der Länder
-
-    *   § 35
-
-
-
-Abschnitt 9
-## Ordnungswidrigkeiten
-
-
-*    *   Ordnungswidrigkeiten
-
-    *   § 36
-
-
-
-Anlage
-
-*    *   Anforderungen an gewerbsmäßige Geflügelhaltungen (zu § 2 Absatz 1)
-
-
+:   Bek. v. 18.12.2023 I Nr. 381
 
 
 ## Abschnitt 1 - Allgemeines
@@ -495,7 +255,7 @@ der zuständigen Behörde mitzuteilen.
 haben bei Untersuchungen auf Betreiben des Unternehmers eines
 Hühnerzuchtbetriebes oder einer Hühnerbrüterei Feststellungen von
 Salmonellen der Kategorie 1 oder 2 oder von Salmonella Gallinarum
-Pullorum nach § 1 Absatz 2 Nummer 1 unverzüglich der zuständigen
+Pullorum nach § 1 Absatz 2 Nummer 1 unverzüglich der zuständigen
 Behörde mitzuteilen.
 
 
@@ -619,7 +379,7 @@ weiterhin verfüttert werden, soweit
     Januar 2009 zur Festlegung der Probenahmeverfahren und Analysemethoden
     für die amtliche Untersuchung von Futtermitteln (ABl. L 54 vom
     26\.2.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU)
-    2022/893 der Kommission vom 7. Juni 2022 (Abl. L 155 vom 8.6.2022, S.
+    2022/893 der Kommission vom 7. Juni 2022 (ABl. L 155 vom 8.6.2022, S.
     24) geändert worden ist, kein Befall mit Salmonellen der Kategorie 1
     festgestellt wird oder
 
@@ -695,12 +455,12 @@ der Unternehmer eines Hühnerzuchtbetriebes sicherzustellen, dass
 
 
 
+    Sind im Falle des Satzes 1 Nummer 1 Buchstabe b weniger als 25
+    Kükenbehältnisse vorhanden, so sind Proben aus allen Behältnissen zu
+    entnehmen.
 
 
 
-Sind im Falle des Satzes 1 Nummer 1 Buchstabe b weniger als 25
-Kükenbehältnisse vorhanden, so sind Proben aus allen Behältnissen zu
-entnehmen.
 
 (2) Der Unternehmer eines Hühnerzuchtbetriebes hat ferner
 sicherzustellen, dass während der Legephase Proben nach Maßgabe
@@ -852,6 +612,24 @@ festgestellt worden, hat der Unternehmer dieses Betriebes
 1.  die Hühner des betroffenen Betriebes oder der betroffenen Herde
     unverzüglich
 
+    a)  unter Beachtung des Artikels 2 der Verordnung (EG) Nr. 1177/2006 der
+        Kommission vom 1. August 2006 zur Durchführung der Verordnung (EG) Nr.
+        2160/2003 des Europäischen Parlaments und des Rates hinsichtlich der
+        Bestimmungen über die Anwendung von spezifischen Bekämpfungsmethoden
+        im Rahmen der nationalen Programme zur Bekämpfung von Salmonellen bei
+        Geflügel (ABl. L 212 vom 2.8.2006, S. 3) in der jeweils geltenden
+        Fassung zu behandeln oder behandeln zu lassen,
+
+
+    b)  unter Beachtung des Artikels 3 Absatz 1 der Verordnung (EG) Nr.
+        1177/2006 zu impfen oder impfen zu lassen oder
+
+
+    c)  zu töten oder töten zu lassen und unschädlich zu beseitigen,
+
+
+
+
 
 2.  die Eier des betroffenen Betriebes oder der betroffenen Herde
     unverzüglich
@@ -928,8 +706,6 @@ diese als bekämpft, sofern
 
 
 worden sind.
-
-(3) (weggefallen)
 
 
 ## Abschnitt 3 - Hühneraufzuchtbetriebe
@@ -1027,7 +803,7 @@ Verordnung (EU) Nr. 517/2011 durchführen.
 ### § 15 Maßregeln nach Feststellung von Salmonellen
 
 Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1
-festgestellt worden, gilt § 10 entsprechend.
+festgestellt worden, gilt § 10 entsprechend.
 
 
 ### § 16 Aufhebung der Maßregeln
@@ -1047,8 +823,6 @@ Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
 
 
 
-
-(3) (weggefallen)
 
 
 ## Abschnitt 4 - Legehennenbetriebe
@@ -1085,7 +859,7 @@ Untersuchungseinrichtung untersucht werden. Eine Probenahme und
 Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine amtliche
 Untersuchung nach § 19 durchgeführt wird. Eine Probenahme und
 Untersuchung nach Satz 1 bedarf es ferner nicht in
-Legehennenbetrieben, die weniger als 1 000 Legehennen halten, soweit
+Legehennenbetrieben, die weniger als 1000 Legehennen halten, soweit
 dort Maßnahmen im Rahmen eines betriebseigenen
 Qualitätssicherungssystems zur Vermeidung der Ein- und Verschleppung
 von Salmonellen der Kategorie 1 durchgeführt werden. Die Maßnahmen
@@ -1153,7 +927,7 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer
 2\.1 Satz 4 des Anhangs der Verordnung (EU) Nr. 517/2011 durchgeführt
 wird, entsprechend.
 
-(2) Die zuständige Behörde kann auf Basis einer Mitteilung nach § 4
+(2) Die zuständige Behörde kann auf Basis einer Mitteilung nach § 4
 Absatz 2 auch vor der Serotypisierung der Salmonellen Maßnahmen nach
 Absatz 1 anordnen.
 
@@ -1172,7 +946,7 @@ Absatz 1 anordnen.
 
 
 
-(2) Salmonellen der Kategorie 1 gelten als bekämpft sofern,
+(2) Salmonellen der Kategorie 1 gelten als bekämpft, sofern
 
 1.  alle Hühner und Eier aus dem betroffenen Betrieb oder aus der
     betroffenen Herde entfernt worden sind und
@@ -1184,8 +958,6 @@ Absatz 1 anordnen.
 
 
 
-
-(3) (weggefallen)
 
 
 ## Abschnitt 5 - Hähnchenmastbetriebe
@@ -1221,7 +993,7 @@ Nummer 3 des Anhangs der Verordnung (EU) Nr. 200/2012 durchführen.
 ### § 24 Maßregeln nach Feststellung von Salmonellen
 
 Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1
-festgestellt worden, gilt § 10 Absatz 1 entsprechend.
+festgestellt worden, gilt § 10 Absatz 1 entsprechend.
 
 
 ### § 25 Aufhebung der Maßregeln
@@ -1235,14 +1007,12 @@ Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
     entfernt worden sind und
 
 
-2.  eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine
+2.  eine Reinigung und Desinfektion nach § 7 Absatz 1 Satz 1 sowie eine
     Bekämpfung von Schadnagern, Schadinsekten und Parasiten nach § 7
     Absatz 1 Satz 2 durchgeführt worden ist.
 
 
 
-
-(3) (weggefallen)
 
 
 ## Abschnitt 6 - Hühnerbrütereien
@@ -1375,7 +1145,7 @@ diese als bekämpft, sofern
 1.  alle Eintagsküken
 
     a)  in einen anderen Betrieb oder in eine andere Herde umgestallt und dort
-        nach § 10 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 10
+        nach § 10 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 10
         Absatz 2 Nummer 1 Buchstabe b geimpft und
 
 
@@ -1404,7 +1174,7 @@ Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
 der Unternehmer eines
 
 1.  Putenzuchtbetriebes sicherzustellen, dass in den Herden seines
-    Betriebes Proben nach Maßgabe der Nummer 2.1 Buchstabe a Ziffer i bis
+    Betriebes Proben nach Maßgabe der Nummer 2.1 Buchstabe a Ziffern i bis
     iii und der Nummern 2.2.1, 2.2.2 und 2.2.4 des Anhangs der Verordnung
     (EU) Nr. 1190/2012 in Verbindung mit Nummer 2.2 des Anhangs der
     Verordnung (EU) Nr. 200/2010 entnommen und transportiert sowie nach
@@ -1593,8 +1363,8 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Absatz 2 Satz 2, § 7 Absatz 1 Satz 4, § 8 Absatz 3 Nummer
     3, auch in Verbindung mit § 13 Absatz 2 oder § 26 Absatz 3, entgegen §
-    12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30
-    Absatz 1 Satz 3 oder Absatz 2 Satz das Ergebnis einer Untersuchung,
+    12 Absatz 1 Satz 4, § 18 Absatz 1 Satz 5, § 22 Absatz 1 Satz 3, § 30
+    Absatz 1 Satz 3 oder Absatz 2 Satz 3 das Ergebnis einer Untersuchung,
     ein Protokoll oder eine Aufzeichnung nicht, nicht vollständig oder
     nicht für die vorgeschriebene Dauer aufbewahrt,
 
@@ -1699,7 +1469,7 @@ ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 ### Anlage Anforderungen an gewerbsmäßige Geflügelhaltungen
 
-(Fundstelle: BGBl. I 2014, 71 - 72)
+(Fundstelle: BGBl. 2023 I Nr. 381, S. 18 – 19)
 
 ## Abschnitt 1
 
@@ -1809,9 +1579,8 @@ ist, verstößt, indem er vorsätzlich oder fahrlässig
     Haltungseinrichtungen, die Lagerung der Futtermittel in geschlossenen
     Räumen sowie die regelmäßige Reinigung und Desinfektion der Räume und
     Behältnisse, in denen die Futtermittel aufbewahrt werden. In das
-    System zur Qualitätssicherung ist ein Tierarzt einzubeziehen.
-
-    Der Besitzer hat über die Maßnahmen Aufzeichnungen zu führen und diese
+    System zur Qualitätssicherung ist ein Tierarzt einzubeziehen. Der
+    Besitzer hat über die Maßnahmen Aufzeichnungen zu führen und diese
     Aufzeichnungen drei Jahre lang, gerechnet vom Tag der jeweiligen
     Aufzeichnung, aufzubewahren.
 

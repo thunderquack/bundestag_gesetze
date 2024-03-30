@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.1.1994 I 149;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 10.8.2021 I 3436
+:   Art. 1 G v. 27.2.2024 I Nr. 70
 
 Änderung durch
 :   Art 1 G v. 10.7.2018 I 1116 ist gem. BVerfGE v. 24.1.2023 I Nr. 43 - 2 BvF 2/18 - mit Art. 21 Abs. 1 Satz 1 GG unvereinbar und nichtig
@@ -269,7 +269,30 @@ Gebietsverbandes. Sie führt bei Gebietsverbänden höherer Stufen die
 Bezeichnung "Parteitag", bei Gebietsverbänden der untersten Stufe die
 Bezeichnung "Hauptversammlung"; die nachfolgenden Bestimmungen über
 den Parteitag gelten auch für die Hauptversammlung. Die Parteitage
-treten mindestens in jedem zweiten Kalenderjahr einmal zusammen.
+treten mindestens in jedem zweiten Kalenderjahr einmal zusammen. Sie
+müssen in einer der folgenden Formen abgehalten werden:
+
+1.  als Präsenzversammlung an einem Ort, an dem die Mitglieder gemeinsam
+    physisch anwesend sind,
+
+
+2.  als virtuelle Versammlung ohne gemeinsame physische Anwesenheit der
+    Mitglieder an einem Ort,
+
+
+3.  als hybride Versammlung, an der die Mitglieder nach ihrer Wahl am Ort
+    der Präsenzversammlung physisch anwesend oder ohne physische
+    Anwesenheit an diesem Ort virtuell teilnehmen können, oder
+
+
+4.  als hybride Versammlung, bei der mehrere Teilversammlungen an
+    verschiedenen Versammlungsorten, an denen die Mitglieder physisch
+    anwesend sind, virtuell miteinander verbunden werden.
+
+
+
+Die Form des Parteitags wird durch den Vorstand bestimmt, soweit die
+Satzung nichts anderes bestimmt.
 
 (2) Vorstandsmitglieder, Mitglieder anderer Organe des
 Gebietsverbandes sowie Angehörige des in § 11 Abs. 2 genannten
@@ -436,6 +459,21 @@ Vertreterversammlungen und zu Organen höherer Gebietsverbände sind
 geheim. Bei den übrigen Wahlen kann offen abgestimmt werden, wenn sich
 auf Befragen kein Widerspruch erhebt.
 
+(2a) Der Vorstand kann entscheiden,
+
+1.  dass die Stimmabgabe unter Wahrung der Rechte aller Stimmberechtigten
+    bei Beschlussfassungen und Wahlen ganz oder teilweise im Wege der
+    elektronischen Kommunikation erfolgen kann, wenn dabei die Sicherheit,
+    auch mit Blick auf den Schutz personenbezogener Daten, auf dem Stand
+    der Technik gewährleistet ist, und
+
+
+2.  welche Kommunikationsmittel dabei eingesetzt werden.
+
+
+
+Dies gilt nicht, soweit die Satzung etwas anderes bestimmt.
+
 (3) Das Antragsrecht ist so zu gestalten, daß eine demokratische
 Willensbildung gewährleistet bleibt, insbesondere auch Minderheiten
 ihre Vorschläge ausreichend zur Erörterung bringen können. In den
@@ -495,16 +533,15 @@ die Summe ihrer Mitglieds- und Mandatsträgerbeiträge sowie der Umfang
 der von ihr eingeworbenen Spenden.
 
 (2) Das jährliche Gesamtvolumen staatlicher Mittel, das allen Parteien
-höchstens ausgezahlt werden darf, beträgt für das Jahr 2011 141,9
-Millionen Euro und für das Jahr 2012 150,8 Millionen Euro (absolute
-Obergrenze). Die absolute Obergrenze erhöht sich jährlich, jedoch
-erstmals für das Jahr 2013, um den Prozentsatz, abgerundet auf ein
-Zehntel Prozent, um den sich der Preisindex der für eine Partei
-typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erhöht
-hat. Grundlage des Preisindexes ist zu einem Wägungsanteil von 70
-Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der
-Index der tariflichen Monatsgehälter der Arbeiter und Angestellten bei
-Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
+höchstens ausgezahlt werden darf, beträgt für die für das Jahr 2018
+vorzunehmende Festsetzung 184 793 822 Euro (absolute Obergrenze). Die
+absolute Obergrenze erhöht sich jährlich um den Prozentsatz,
+abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der für
+eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen
+Jahr erhöht hat. Grundlage des Preisindexes ist zu einem Wägungsanteil
+von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent
+der Index der tariflichen Monatsgehälter der Arbeiter und Angestellten
+bei Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
 legt dem Deutschen Bundestag hierzu bis spätestens 30. April jedes
 Jahres einen Bericht über die Entwicklung des Preisindexes bezogen auf
 das vorangegangene Jahr vor. Der Bundestagspräsident veröffentlicht
@@ -821,7 +858,9 @@ Beendigung der Prüfung unverzüglich vernichtet werden.
 (1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits
 frist- und formgerecht beim Präsidenten des Deutschen Bundestages
 eingereichten Rechenschaftsbericht, hat sie diese unverzüglich dem
-Präsidenten des Deutschen Bundestages schriftlich anzuzeigen.
+Präsidenten des Deutschen Bundestages schriftlich anzuzeigen, wenn der
+Wert der anzuzeigenden Unrichtigkeit im Einzelfall 500 Euro
+überschreitet.
 
 (2) Bei einer von der Partei angezeigten Unrichtigkeit unterliegt die
 Partei nicht den Rechtsfolgen des § 31b oder des § 31c, wenn im
@@ -1206,12 +1245,13 @@ sind:
 (3) Spenden, Mitgliedsbeiträge und Mandatsträgerbeiträge an eine
 Partei oder einen oder mehrere ihrer Gebietsverbände, deren Gesamtwert
 in einem Kalenderjahr (Rechnungsjahr) 10 000 Euro übersteigt, sind
-unter Angabe des Namens und der Anschrift des Zuwenders sowie der
-Gesamthöhe der Zuwendung im Rechenschaftsbericht zu verzeichnen.
-Spenden, die im Einzelfall die Höhe von 50 000 Euro übersteigen, sind
-dem Präsidenten des Deutschen Bundestages unverzüglich anzuzeigen.
-Dieser veröffentlicht die Zuwendung unter Angabe des Zuwenders zeitnah
-als Bundestagsdrucksache.
+unter Angabe des Namens und der Anschrift des Zuwenders oder anderer
+Angaben, die eine Identifikation der Person vergleichbar ermöglichen,
+sowie der Gesamthöhe der Zuwendung im Rechenschaftsbericht zu
+verzeichnen. Spenden, die im Einzelfall die Höhe von 35 000 Euro
+übersteigen, sind dem Präsidenten des Deutschen Bundestages
+unverzüglich anzuzeigen. Dieser veröffentlicht die Zuwendung unter
+Angabe des Zuwenders zeitnah als Bundestagsdrucksache.
 
 (4) Nach Absatz 2 unzulässige Spenden sind von der Partei
 unverzüglich, spätestens mit Einreichung des Rechenschaftsberichts für
@@ -1225,9 +1265,9 @@ Bundestages weiterzuleiten.
 nichts besonderes gilt, jede von der Partei erlangte Geld- oder
 geldwerte Leistung. Als Einnahmen gelten auch die Freistellung von
 üblicherweise entstehenden Verbindlichkeiten, die Übernahme von
-Veranstaltungen und Maßnahmen durch andere, mit denen ausdrücklich für
-eine Partei geworben wird, die Auflösung von Rückstellungen sowie
-Wertaufholungen im Anlagevermögen.
+Veranstaltungen und Maßnahmen durch andere, mit denen unmittelbar für
+eine Partei geworben wird (Werbemaßnahmen), die Auflösung von
+Rückstellungen sowie Wertaufholungen im Anlagevermögen.
 
 (2) Alle Einnahmen sind mit ihrem vollen Betrag an der für sie
 vorgesehenen Stelle einzusetzen und in der Vermögensbilanz zu
@@ -1274,22 +1314,77 @@ werden.
 ein Mitglied auf Grund satzungsrechtlicher Vorschriften entrichtet.
 Mandatsträgerbeiträge sind regelmäßige Geldleistungen, die ein Inhaber
 eines öffentlichen Wahlamtes (Mandatsträger) über seinen
-Mitgliedsbeitrag hinaus leistet. Spenden sind darüber hinausgehende
-Zahlungen. Dazu gehören auch Sonderumlagen und Sammlungen sowie
-geldwerte Zuwendungen aller Art, sofern sie nicht üblicherweise
-unentgeltlich Parteien außerhalb eines Geschäftsbetriebes zur
-Verfügung gestellt werden oder eine hierfür dennoch vereinbarte
-Vergütung an die Partei zurückgeleitet oder auf eine solche Vergütung
-verzichtet wird.
+Mitgliedsbeitrag hinaus leistet.
+
+(1a) Spenden sind über Absatz 1 hinausgehende Geld- oder geldwerte
+Leistungen an die Partei. Dazu gehören auch Satz 1 entsprechende
+Sonderumlagen, Sammlungen und Freistellungen von üblicherweise
+entstehenden Verbindlichkeiten sowie geldwerte Zuwendungen aller Art
+einschließlich der Übernahme von Werbemaßnahmen. Geldwerte Zuwendungen
+im Sinne der Sätze 1 und 2 liegen nicht vor, wenn derartige
+Zuwendungen üblicherweise unentgeltlich Parteien außerhalb eines
+Geschäftsbetriebes zur Verfügung gestellt werden; dies gilt auch dann,
+wenn eine hierfür dennoch vereinbarte Vergütung an die Partei
+zurückgeleitet oder auf eine solche Vergütung verzichtet wird. Als
+Werbemaßnahmen gelten auch solche, die zwar nicht den Namen einer
+Partei beinhalten, aber aufgrund ihrer Gesamterscheinung nach ihrer
+Gestaltung oder ihrer Inhalte als Werbemaßnahme für eine bestimmte
+Partei aufzufassen sind. Als Werbemaßnahmen gelten nicht
+Meinungsäußerungen oder Bekundungen zu einer Partei, deren Positionen
+zu einer Sachfrage oder deren Kandidaten, soweit sie sich im Rahmen
+der allgemeinen politischen Willensbildung halten und nicht die
+wirtschaftlich relevante Werbung für eine Partei im Vordergrund steht.
+Davon ist insbesondere auszugehen, wenn der Wert einer Werbemaßnahme
+500 Euro nicht übersteigt. Ebenfalls nicht als Werbemaßnahme gilt die
+Öffentlichkeitsarbeit der Fraktionen gemäß den §§ 55 und 58 des
+Abgeordnetengesetzes und entsprechender Regelungen der Länder.
+
+(1b) Einnahmen aus Sponsoring sind Zuwendungen zur Förderung einer
+Partei, mit denen der Zuwendende als Gegenleistung eine Förderung
+eigener Ziele der Werbung oder Öffentlichkeitsarbeit verfolgt. Dabei
+darf die Höhe der jeweiligen Zuwendung nicht außer Verhältnis zur von
+der Partei erbrachten Gegenleistung stehen.
 
 (2) Sonstige Einnahmen nach § 24 Abs. 4 Nr. 9 sind aufzugliedern und
 zu erläutern, wenn sie bei einer der in § 24 Abs. 3 aufgeführten
 Gliederungen mehr als 2 vom Hundert der Summe der Einnahmen nach § 24
 Abs. 4 Nr. 1 bis 6 ausmachen. Darüber hinaus sind Einnahmen, die im
-Einzelfall die Summe von 10.000 Euro übersteigen, offen zu legen.
+Einzelfall die Summe von 10 000 Euro übersteigen, offen zu legen.
 Erbschaften und Vermächtnisse sind unter Angabe ihrer Höhe, des Namens
 und der letzten Anschrift des Erblassers im Rechenschaftsbericht zu
-verzeichnen, soweit der Gesamtwert 10.000 Euro übersteigt.
+verzeichnen, soweit der Gesamtwert 10 000 Euro übersteigt.
+
+
+### § 27a Werbemaßnahmen anderer
+
+(1) Personen, die beabsichtigen Werbemaßnahmen im Sinne des § 27
+Absatz 1a zu Gunsten einer Partei durchzuführen, haben der Partei die
+Maßnahme unter Angabe von deren Wert, Inhalt, Finanzierung und Umfang
+so frühzeitig anzuzeigen, dass die Partei rechtzeitig vor der
+Durchführung über die Annahme als Spende entscheiden kann. Auf ein
+Verlangen der Partei sind sie verpflichtet, entsprechende
+Werbemaßnahmen unverzüglich zu unterlassen.
+
+(2) Verlangt die Partei nicht unverzüglich, nachdem sie von einer
+Werbemaßnahme im Sinne des Absatzes 1 durch die Anzeige oder auf
+sonstigem Wege Kenntnis erlangt hat, ihre Unterlassung, so ist die
+Maßnahme als Spende angenommen. Die Partei hat Unterlassung zu
+verlangen, wenn die Spende nach § 25 Absatz 2 nicht angenommen werden
+darf.
+
+(3) Die Pflichten des Absatzes 2 gelten nur dann, wenn der Partei ein
+Unterlassungsverlangen möglich und zumutbar ist. Ist ihr das
+Unterlassungsverlangen nicht möglich oder zumutbar, hat die Partei
+jedoch den Vorgang dem Bundestagspräsidenten anzuzeigen und über ihn
+in ihrem Rechenschaftsbericht zu berichten.
+
+(4) Für Öffentlichkeitsarbeit der Fraktionen, die nicht unter § 27
+Absatz 1a Satz 7 fällt und die als Übernahme von Werbemaßnahmen für
+ihre Partei zu werten ist, gelten die allgemeinen Regelungen dieses
+Gesetzes zur Annahme von Spenden.
+
+(5) Die Anzeige nach Absatz 1 Satz 1 muss an die Geschäftsstelle der
+höchsten Gliederungsebene der Partei erfolgen.
 
 
 ### § 28 Vermögensbilanz
@@ -1373,10 +1468,10 @@ Prüfer sein, wenn er
 
 3.  gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder
     Gesellschafter einer juristischen oder natürlichen Person oder einer
-    Personengesellschaft oder Inhaber eines Unternehmens ist, sofern die
-    juristische oder natürliche Person, die Personengesellschaft oder
-    einer ihrer Gesellschafter oder das Einzelunternehmen nach Nummer 2
-    nicht Prüfer der Partei sein darf;
+    rechtsfähigen Personengesellschaft oder Inhaber eines Unternehmens
+    ist, sofern die juristische oder natürliche Person, die rechtsfähige
+    Personengesellschaft oder einer ihrer Gesellschafter oder das
+    Einzelunternehmen nach Nummer 2 nicht Prüfer der Partei sein darf;
 
 
 4.  bei der Prüfung eine Person beschäftigt, die nach Nummer 1 bis 3 nicht
@@ -1389,8 +1484,8 @@ Prüfer sein, wenn er
 darf nicht Prüfer sein, wenn
 
 1.  sie nach Absatz 1 Nr. 3 als Gesellschafter einer juristischen Person
-    oder einer Personengesellschaft oder nach Absatz 1 Nr. 2 oder 4 nicht
-    Prüfer sein darf;
+    oder einer rechtsfähigen Personengesellschaft oder nach Absatz 1 Nr. 2
+    oder 4 nicht Prüfer sein darf;
 
 
 2.  einer ihrer gesetzlichen Vertreter oder einer ihrer Gesellschafter
@@ -1406,7 +1501,7 @@ Verschwiegenheit verpflichtet. § 323 des Handelsgesetzbuchs gilt
 entsprechend.
 
 
-## Sechster Abschnitt - Verfahren bei unrichtigen Rechenschaftsberichten sowie Strafvorschriften
+## Sechster Abschnitt - Verfahren bei unrichtigen Rechenschaftsberichten sowie Straf- und Bußgeldvorschriften
 
 
 
@@ -1503,6 +1598,28 @@ oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis
 zu fünf Jahren oder Geldstrafe.
 
 
+### § 31e Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer
+
+1.  entgegen § 27a Absatz 1 Satz 1 eine Anzeige nicht oder nicht
+    rechtzeitig erstattet oder
+
+
+2.  entgegen § 27a Absatz 1 Satz 2 eine Werbemaßnahme nicht oder nicht
+    rechtzeitig unterlässt.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes
+über Ordnungswidrigkeiten ist anzuwenden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist der Bundestagspräsident.
+
+
 ## Siebter Abschnitt - Vollzug des Verbots verfassungswidriger Parteien
 
 
@@ -1587,7 +1704,7 @@ sind, wird § 8 Abs. 2 des Vereinsgesetzes entsprechend angewandt.
 
 ### § 37 Nichtanwendbarkeit einer Vorschrift des Bürgerlichen Gesetzbuchs
 
-§ 54 Satz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht
+§ 54 Absatz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht
 angewandt.
 
 

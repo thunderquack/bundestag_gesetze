@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2017, 1966
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.5.2021 I 1194
+:   Art. 2 G v. 20.5.2021 I 1194; 2022 I 15
 
 Mittelbare änderung durch
 :   Art. 7 G v. 20.5.2021 I 1194 ist berücksichtigt
-
-Änderung durch
-:   Bek. v. 3.1.2022 I 15 ist berücksichtigt
 
 
 ## Teil 1 - Allgemeine Vorschriften

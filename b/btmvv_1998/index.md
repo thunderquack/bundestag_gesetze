@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7d G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 4 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Grundsätze
 

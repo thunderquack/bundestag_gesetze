@@ -167,9 +167,10 @@ zusammengefassten Designs.
         eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
 
-    b)  bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
-        Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
-        mindestens eines vertretungsberechtigten Gesellschafters.
+    b)  bei einer Gesellschaft bürgerlichen Rechts, die nicht im
+        Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift
+        mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens
+        eines vertretungsberechtigten Gesellschafters.
 
 
 
@@ -471,8 +472,9 @@ in das Designregister aufgenommen:
 
 
 2.  der Name und der Wohnsitz aller benannten vertretungsberechtigten
-    Gesellschafter einer Gesellschaft bürgerlichen Rechts (§ 6 Absatz 1
-    Satz 1 Nummer 2 Buchstabe b),
+    Gesellschafter einer nicht im Gesellschaftsregister eingetragenen
+    Gesellschaft bürgerlichen Rechts (§ 6 Absatz 1 Satz 1 Nummer 2
+    Buchstabe b),
 
 
 3.  der Name und die Anschrift des Vertreters (§ 6 Absatz 4),

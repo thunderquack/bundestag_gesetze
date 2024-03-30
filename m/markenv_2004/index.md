@@ -135,8 +135,9 @@ Eintragung.
         Angaben dem Registereintrag entsprechen;
 
 
-    b)  bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
-        Anschrift (Straße, Hausnummer, Postleitzahl, Ort) mindestens eines
+    b)  bei einer Gesellschaft bürgerlichen Rechts, die nicht im
+        Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift
+        (Straße, Hausnummer, Postleitzahl, Ort) mindestens eines
         vertretungsberechtigten Gesellschafters.
 
 
@@ -688,9 +689,9 @@ In das Register werden eingetragen:
 
 
 15. der Name, gegebenenfalls die Rechtsform und der Wohnsitz oder Sitz des
-    Inhabers der Marke; bei einer Gesellschaft bürgerlichen Rechts auch
-    der Name und Wohnsitz des benannten vertretungsberechtigten
-    Gesellschafters,
+    Inhabers der Marke; bei einer Gesellschaft bürgerlichen Rechts, die
+    nicht im Gesellschaftsregister eingetragen ist, auch der Name und
+    Wohnsitz des benannten vertretungsberechtigten Gesellschafters,
 
 
 16. wenn ein Vertreter bestellt ist, der Name und Sitz des Vertreters,

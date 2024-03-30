@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 2010, 2011
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.10.2021 I 4742
+:   Art. 1 V v. 29.1.2024 I Nr. 27
 
 Diese Verordnung dient der Umsetzung
 
@@ -2436,6 +2436,15 @@ zu berücksichtigen.
 Teilbefundprüfung im Hinblick auf einzelne Aspekte der Befundprüfung
 durchgeführt werden.
 
+(4) Bei Smart-Meter-Gateways nach § 2 Satz 1 Nummer 19 des
+Messstellenbetriebsgesetzes ordnet die zuständige Behörde zunächst
+einen Selbsttest nach den Vorgaben in Schutzprofilen und Technischen
+Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+nach dem Messstellenbetriebsgesetz durch den Smart-Meter-Gateway-
+Administrator an. Ergibt der Selbsttest keinen Anlass für Zweifel an
+der Messrichtigkeit, kann die Befundprüfung auf Wunsch der
+antragstellenden Person beendet werden.
+
 
 ## Abschnitt 6 - Softwareaktualisierung
 
@@ -2500,61 +2509,29 @@ Voraussetzungen gegeben sind:
 
 
 
-(4) Die Genehmigung zum Verwenden von Messgeräten mit aktualisierter
-Software nach § 37 Absatz 6 des Mess- und Eichgesetzes ist auf Antrag
-vorläufig zu erteilen, wenn die nachfolgend genannten Voraussetzungen
-erfüllt sind:
-
-1.  die Anforderungen des Absatzes 3 Nummer 1 sind erfüllt,
-
-
-2.  die beauftragte Stelle nach § 3 Absatz 1 Nummer 5 des BSI-Gesetzes vom
-    14\. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 3 Absatz
-    7 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden
-    ist, in der jeweils geltenden Fassung oder eine von dieser Stelle nach
-    § 9 des Gesetzes zur Stärkung der Sicherheit in der
-    Informationstechnik des Bundes zertifizierte oder eine vergleichbare
-    Stelle bestätigt hat, dass
-
-    a)  eine informationstechnische Sicherheitslücke in der Software des
-        Messgeräts besteht, die den unerlaubten Zugriff auf das Messgerät über
-        Netzwerke ermöglicht,
-
-
-    b)  eine hohe Dringlichkeit zur Beseitigung der Sicherheitslücke gegeben
-        ist und
-
-
-    c)  die aktualisierte Software zur Behebung der sicherheitstechnischen
-        Lücke geeignet ist, anschließend
-
-
-
-
-
-3.  die Konformitätsbewertungsstelle bei der Physikalisch-Technischen
-    Bundesanstalt eine vorläufige Konformitätsbescheinigung zur
-    messtechnischen Eignung der aktualisierten Software erstellt hat,
-
-
-4.  die zuständige Behörde durch Stichproben die Richtigkeit der
-    aktualisierten Messgeräte überprüft hat und
-
-
-5.  das Verfahren zur Softwareaktualisierung nach Absatz 3 eingeleitet
-    wurde.
-
-
-
-Die vorläufige Genehmigung nach Satz 1 ist innerhalb von vier
-Werktagen zu erteilen; sie gilt nach Ablauf der genannten Frist als
-erteilt. § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes
-in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S.
-102), das zuletzt durch Artikel 3 des Gesetzes vom 25. Juli 2013
-(BGBl. I S. 2749) geändert worden ist, ist anzuwenden.
-
-(5) Die Aktualisierung der Software eines Messgeräts darf nur
+(4) Die Aktualisierung der Software eines Messgeräts darf nur
 erfolgen, wenn der Verwender dem zugestimmt hat.
+
+(5) Die Absätze 1 bis 4 sind nicht anzuwenden auf Smart-Meter-Gateways
+nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes, sofern
+
+1.  eine Software-Aktualisierung von einem Smart-Meter-Gateway-
+    Administrator durchgeführt wird,
+
+
+2.  eine Konformitätsbescheinigung zur messtechnischen Eignung der
+    aktualisierten Software durch eine Stelle nach § 41 der Mess- und
+    Eichverordnung vorliegt und
+
+
+3.  ein Selbsttest nach den Vorgaben in Schutzprofilen und Technischen
+    Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+    nach dem Messstellenbetriebsgesetz durchgeführt wird und der Smart-
+    Meter-Gateway-Administrator dies nach § 25 des
+    Messstellenbetriebsgesetzes überwacht.
+
+
+
 
 
 ### § 41 Konformitätsbewertung der aktualisierten Software
@@ -3066,7 +3043,7 @@ Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen § 27 ein Ausschankmaß verwendet,
 
 
-3.  entgegen § 40 Absatz 5 die Software eines Messgeräts aktualisiert,
+3.  entgegen § 40 Absatz 4 die Software eines Messgeräts aktualisiert,
 
 
 4.  entgegen § 55 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Satzteil vor dem
@@ -7282,7 +7259,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   5.3.3
 
     *   Volumenmessgeräte, bei denen die messwertbestimmenden Teile aus Glas
-        sind
+        sind mit Ausnahme der Einrichtungen nach Nummer 6.8
 
     *   nicht befristet
 
@@ -7384,7 +7361,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Warmwasser), sofern diese netzbetrieben sind und bei
         batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens
         für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung
-        von Kennzeichen möglich ist
+        von Kennzeichen möglich ist mit Ausnahme der Einrichtungen nach Nummer
+        6\.8
 
     *   8
 
@@ -7522,7 +7500,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   elektronische Zusatzeinrichtungen für Gasmessgeräte, sofern diese
         netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer
         der Batterie mindestens für diesen Zeitraum ausreicht oder ein
-        Batteriewechsel ohne Verletzung von Kennzeichen möglich ist
+        Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit
+        Ausnahme der Einrichtungen nach Nummer 6.8
 
     *   8
 
@@ -7575,7 +7554,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         elektronische Zusatzeinrichtungen für Elektrizitätszähler, sofern
         diese netzbetrieben sind und bei batteriebetriebenen Geräten die
         Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder
-        ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist
+        ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit
+        Ausnahme der Einrichtungen nach Nummer 6.8
 
     *   8
 
@@ -7605,9 +7585,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   6.7
 
     *   Messgeräte und Zusatzeinrichtungen bei der Lieferung von Elektrizität
-        für Elektrofahrzeuge und an Ladepunkten
+        für Elektrofahrzeuge und an Ladepunkten mit Ausnahme der Einrichtungen
+        nach Nummer 6.8
 
     *   8
+
+
+*    *   6.8
+
+    *   Smart-Meter-Gateways, die den technischen Vorgaben des Teils 2 Kapitel
+        3 des Messstellenbetriebsgesetzes entsprechen sowie
+        Kommunikationsadapter zur Anbindung von Messgeräten und
+        Messeinrichtungen nach § 2 Satz 1 Nummer 10 des
+        Messstellenbetriebsgesetzes an ein Smart-Meter-Gateway
+
+    *   nicht befristet
 
 
 *    *   **7.**
@@ -7636,7 +7628,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   elektronische Zusatzeinrichtungen für Wärme- und Kältezähler, sofern
         diese netzbetrieben sind und bei batteriebetriebenen Geräten die
         Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder
-        ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist
+        ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit
+        Ausnahme der Einrichtungen nach Nummer 6.8
 
     *   8
 
@@ -7822,7 +7815,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Sofern für Zusatzeinrichtungen keine besondere Regelung getroffen
     wird, gilt die Eichfrist des angeschlossenen Messgeräts auch für die
     Zusatzeinrichtung.
-[^f787779_02_BJNR201100014BJNE006603119]: 
+[^f787779_02_BJNR201100014BJNE006604119]: 
 (zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2
 Satz 2)
 

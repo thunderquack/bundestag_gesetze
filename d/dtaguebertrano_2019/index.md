@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1112
 
-Geändert durch
-:   Art. 1 AnO v. 21.4.2021 I 871
+Zuletzt geändert durch
+:   Art. 1 AnO v. 14.2.2024 I Nr. 57
 
 
 ## Eingangsformel

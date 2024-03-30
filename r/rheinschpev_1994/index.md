@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 11.3.2024 II Nr. 97 mWv 21.3.2024 u. 1.6.2024 noch nicht berücksichtigt
+
 Stand: Berichtigung v. 5.9.2023 II Nr. 271 ist berücksichtigt
 
 ## Eingangsformel
@@ -785,13 +788,15 @@ oder fahrlässig als Schiffsführer
         Satz 2 oder Nummer 6 Satz 3 nicht in einem guten Betriebszustand ist,
 
 
-    c)  das entgegen § 4.07 Nummer 3 in dem dort genannten Fall nicht mit
-        einem Inland ECDIS Gerät im Informationsmodus oder einem
-        vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät
-        verbunden ist, ausgestattet ist oder
+    c)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Gerät ausgestattet ist,
 
 
-    d)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
+    d)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
+        den dort genannten Bestimmungen entspricht oder
+
+
+    e)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
         einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
         ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort
         genannten Fall nicht auf Empfang geschaltet oder in einem guten
@@ -1111,35 +1116,37 @@ oder fahrlässig als Eigentümer oder Ausrüster
         Satz 2 oder Nummer 6 Satz 3 nicht in einem guten Betriebszustand ist,
 
 
-    q)  das entgegen § 4.07 Nummer 3 in dem dort genannten Fall nicht mit
-        einem Inland ECDIS Gerät im Informationsmodus oder einem
-        vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät
-        verbunden ist, ausgestattet ist,
+    q)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
+        Gerät ausgestattet ist,
 
 
-    r)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
+    r)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
+        den dort genannten Bestimmungen entspricht,
+
+
+    s)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
         einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
         ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort
         genannten Fall nicht in einem guten Betriebszustand ist,
 
 
-    s)  das entgegen § 6.21 Nr. 1 über eine ausreichende Maschinenleistung
+    t)  das entgegen § 6.21 Nr. 1 über eine ausreichende Maschinenleistung
         nicht verfügt,
 
 
-    t)  das entgegen § 6.21 Nr. 2 Satz 1 zum Schleppen, Schieben oder zur
+    u)  das entgegen § 6.21 Nr. 2 Satz 1 zum Schleppen, Schieben oder zur
         Fortbewegung gekuppelter Fahrzeuge verwendet wird,
 
 
-    u)  das sich entgegen § 6.21 Nr. 2 Satz 2 nicht an der Steuerbordseite
+    v)  das sich entgegen § 6.21 Nr. 2 Satz 2 nicht an der Steuerbordseite
         befindet,
 
 
-    v)  das entgegen § 6.21 Nr. 3 längsseits gekuppelt fährt, schleppt oder
+    w)  das entgegen § 6.21 Nr. 3 längsseits gekuppelt fährt, schleppt oder
         geschleppt wird oder
 
 
-    w)  das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen
+    x)  das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen
         Höchstabmessungen überschreitet,
 
 

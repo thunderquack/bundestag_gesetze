@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 768
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2022 I 2793
+:   Art. 4 G v. 22.3.2024 I Nr. 101
 
 
 ## Eingangsformel
@@ -184,7 +184,9 @@ insbesondere Angaben zu:
     verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel
     und Implantate, von denen Daten nach § 374a des Fünften Buches
     Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt
-    werden.
+    werden. Bei digitalen Gesundheitsanwendungen höherer Risikoklasse
+    müssen die Angaben des Herstellers nach Satz 2 Nummer 9 bis 13 auch
+    geeignet sein, den Nachweis eines medizinischen Nutzens zu führen.
 
 
 
@@ -253,7 +255,7 @@ Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
     nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch,
 
 
-3.  zu der Nachweisführung bei Vereinbarungen nach § 134 Absatz 1 Satz 3
+3.  zu der Nachweisführung der Vereinbarungen nach § 134 Absatz 1 Satz 3
     des Fünften Buches Sozialgesetzbuch,
 
 
@@ -647,6 +649,15 @@ Populationen erreicht werden kann.
 (2) § 10 Absatz 3 bis 7 gilt entsprechend.
 
 
+### § 11a Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse
+
+(1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis des
+medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer
+Risikoklasse eine prospektive Vergleichsstudie vor.
+
+(2) § 10 Absatz 5 bis 7 gilt entsprechend.
+
+
 ### § 12 Nachweis für diagnostische Instrumente
 
 (1) Enthält eine digitale Gesundheitsanwendung ein diagnostisches
@@ -719,7 +730,8 @@ Bescheid abzulehnen.
 
 ### § 17 Verfahren bei Aufnahme zur Erprobung
 
-(1) Hat ein Hersteller einen Antrag auf Aufnahme einer digitalen
+(1) Hat ein Hersteller einer digitalen Gesundheitsanwendung niedriger
+Risikoklasse einen Antrag auf Aufnahme einer digitalen
 Gesundheitsanwendung nach § 139e Absatz 4 des Fünften Buches
 Sozialgesetzbuch in das Verzeichnis für digitale
 Gesundheitsanwendungen gestellt und sind die mit dem Antrag
@@ -740,10 +752,11 @@ Medizinprodukte spätestens zum Ablauf des Erprobungszeitraums die in
 dem Bescheid nach Absatz 1 festgelegten Nachweise auf elektronischem
 Wege vollständig zu übermitteln.
 
-(3) Der Hersteller kann eine einmalige Verlängerung des
-Erprobungszeitraums um bis zu zwölf Monate beantragen. Hierzu hat der
-Antragsteller spätestens drei Monate vor Ablauf des im Bescheid nach
-Absatz 1 gewährten Erprobungszeitraums einen elektronischen Antrag auf
+(3) Der Hersteller einer digitalen Gesundheitsanwendung niedriger
+Risikoklasse kann eine einmalige Verlängerung des Erprobungszeitraums
+um bis zu zwölf Monate beantragen. Hierzu hat der Antragsteller
+spätestens drei Monate vor Ablauf des im Bescheid nach Absatz 1
+gewährten Erprobungszeitraums einen elektronischen Antrag auf
 Verlängerung des Erprobungszeitraums beim Bundesinstitut für
 Arzneimittel und Medizinprodukte zu stellen. In dem Antrag nach Satz 1
 begründet der Hersteller die Erforderlichkeit einer Verlängerung des
@@ -853,7 +866,7 @@ veröffentlicht zu:
 1.  den nachgewiesenen oder nachzuweisenden positiven Versorgungseffekten,
 
 
-2.  den nach den §§ 10 und 11 vorgelegten Studien in Form von
+2.  den nach den §§ 10 bis 11a vorgelegten Studien in Form von
     Zusammenfassungen zum Forschungsdesign und zu den Ergebnissen
     einschließlich eines Verweises auf den Ort der Registrierung sowie auf
     den Ort der vollumfänglichen Veröffentlichung der Studien nach § 10
@@ -902,8 +915,8 @@ nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich
 ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und
 Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete
 Schnittstelle auf Basis internationaler anerkannter Standards und
-beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach §
-385 des Fünften Buches Sozialgesetzbuch.
+beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2
+Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die
 in § 20 Absatz 2 und 3 aufgeführten Angaben
@@ -934,8 +947,8 @@ anderen Nutzer der Informationen transparent bleibt. Dies gilt
 insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit
 anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und
 Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis
-internationaler anerkannter Standards und beantragt deren Aufnahme in
-das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches
+internationaler anerkannter Standards und beantragt deren Aufnahme auf
+die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches
 Sozialgesetzbuch.
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte
@@ -1352,7 +1365,7 @@ oder elektronisch unter Darstellung des Sachverhalts zu
 benachrichtigen.
 
 (3) Für die Festlegungen der Rahmenvereinbarung nach § 134 Absatz 4
-und 5 gilt Absatz 1 entsprechend.
+bis 7 gilt Absatz 1 entsprechend.
 
 (4) Der Vorsitzende lädt die weiteren Mitglieder der Schiedsstelle
 schriftlich oder elektronisch mit einer Frist von mindestens zwei
@@ -3055,13 +3068,14 @@ genannte Begründung zutrifft, in der Spalte „nicht zutreffend“.
         Profil des ISO/IEEE 11073 Standards. Sofern ein solches geeignetes
         Profil nicht vorliegt, unterstützt die digitale Gesundheitsanwendung
         eine andere offengelegte und dokumentierte Schnittstelle (Syntax,
-        Semantik), welche im Interoperabilitätsverzeichnis nach § 385 des
-        Fünften Buches Sozialgesetzbuch empfohlen ist. Sofern eine solche
-        geeignete Schnittstelle nicht vorliegt, unterstützt die digitale
-        Gesundheitsanwendung eine andere offengelegte und dokumentierte
-        Schnittstelle, welche entweder im Interoperabilitätsverzeichnis nach
-        § 385 des Fünften Buches Sozialgesetzbuch gelistet ist oder für welche
-        vom Hersteller ein entsprechender Antrag gestellt wurde?
+        Semantik), welche auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer
+        5 des Fünften Buches Sozialgesetzbuch empfohlen ist. Sofern eine
+        solche geeignete Schnittstelle nicht vorliegt, unterstützt die
+        digitale Gesundheitsanwendung eine andere offengelegte und
+        dokumentierte Schnittstelle, welche entweder auf der Plattform nach §
+        385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch
+        gelistet ist oder für welche vom Hersteller ein entsprechender Antrag
+        gestellt wurde?
 
     *
     *

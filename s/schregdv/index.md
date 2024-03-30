@@ -278,8 +278,8 @@ Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
     deutlich kennzeichnende Merkmale;
 
 
-2.  bei Handelsgesellschaften, eingetragenen Genossenschaften und anderen
-    juristischen Personen die Firma oder der Name und der Sitz.
+2.  bei rechtsfähigen Personengesellschaften und juristischen Personen die
+    Firma oder der Name und der Sitz.
 
 
 
@@ -487,14 +487,11 @@ Eintragungen in Spalte 10 zu unterschreiben.
 
 2.  in Spalte 2:
 
-    a)  der Eigentümer, bei einer Reederei die sämtlichen Mitreeder, bei einer
-        offenen Handelsgesellschaft die sämtlichen Gesellschafter, bei einer
-        Kommanditgesellschaft oder einer Kommanditgesellschaft auf Aktien die
-        sämtlichen persönlich haftenden Gesellschafter;
+    a)  der Eigentümer, bei einer Reederei die sämtlichen Mitreeder;
 
 
-    b)  bei mehreren Eigentümern die in § 51 der Schiffsregisterordnung
-        vorgeschriebenen Angaben;
+    b)  bei mehreren Eigentümern die in § 51 Absatz 1 der
+        Schiffsregisterordnung vorgeschriebenen Angaben;
 
 
     c)  bei einer Reederei der Korrespondentreeder;
@@ -765,8 +762,8 @@ Registerblatts anzugeben.
     a)  der Eigentümer des Schiffs oder die Miteigentümer;
 
 
-    b)  bei mehreren Eigentümern die in § 51 der Schiffsregisterordnung
-        vorgeschriebenen Angaben;
+    b)  bei mehreren Eigentümern die in § 51 Absatz 1 der
+        Schiffsregisterordnung vorgeschriebenen Angaben;
 
 
 
@@ -1049,7 +1046,7 @@ Löschung ist in Spalte 5 zu unterschreiben.
         Korrespondentreeder;
 
 
-    b)  bei mehreren Eigentümern die in den §§ 51, 74 der
+    b)  bei mehreren Eigentümern die in § 51 Absatz 1 und § 74 der
         Schiffsregisterordnung vorgeschriebenen Angaben;
 
 

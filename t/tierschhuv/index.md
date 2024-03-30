@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 838
 
-Geändert durch
-:   Art. 3 V v. 12.12.2013 I 4145
-
-Änderung durch
-:   Art. 1 V v. 25.11.2021 I 4970 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 25.11.2021 I 4970
 
 
 ## Eingangsformel
@@ -370,8 +367,6 @@ Vorrichtungen, die elektrische Impulse aussenden, vorhanden sein.
 gehalten, so sollen die Zwinger so angeordnet sein, dass die Hunde
 Sichtkontakt zu anderen Hunden haben. Satz 1 gilt nicht für Zwinger,
 in denen sozial unverträgliche Hunde gehalten werden.
-
-(6) (weggefallen)
 
 
 ## § 7 Anbindehaltung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 1538
 
 Zuletzt geändert durch
-:   Art. 2 G v. 17.7.2015 I 1322
+:   Art. 6 G v. 22.12.2023 I Nr. 414
 
 
 ## Eingangsformel
@@ -97,6 +97,21 @@ Dienstaufwandsentschädigung eines Bundesministers betragen.
 
 (2) Die für Bundesminister geltenden beihilferechtlichen, reise- und
 umzugskostenrechtlichen Vorschriften sind entsprechend anzuwenden.
+
+(3) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
+werden den Parlamentarischen Staatssekretären in entsprechender
+Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die
+folgenden Sonderzahlungen gewährt:
+
+1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
+    Euro und
+
+
+2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
+    Sonderzahlung in Höhe von jeweils 220 Euro.
+
+
+
 
 
 ## § 6

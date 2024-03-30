@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1241
 
+Geändert durch
+:   Art. 13 G v. 22.12.2023 I Nr. 414
+
 
 ## § 1 Errichtung und Sitz des Bundesamts
 
@@ -107,7 +110,7 @@ Regelungen im Bundesamt ersetzt werden.
 ## § 10 Aufbauzulage
 
 (1) Beamtinnen und Beamte, die beim Bundesamt für Auswärtige
-Angelegenheiten verwendet werden, erhalten bis zum 31. Dezember 2025
+Angelegenheiten verwendet werden, erhalten bis zum 31. Dezember 2026
 eine Aufbauzulage in Höhe der Stellenzulage nach Nummer 7 Absatz 1 der
 Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des
 Bundesbesoldungsgesetzes.
@@ -124,10 +127,10 @@ Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes in
 Verbindung mit Anlage IX gewährt wurde. Die Ausgleichszulage wird nur
 gewährt, soweit sie die Aufbauzulage nach Absatz 1 übersteigt.
 
-(3) Vor dem 31. Dezember 2025 prüft das Auswärtige Amt im Einvernehmen
+(3) Vor dem 31. Dezember 2026 prüft das Auswärtige Amt im Einvernehmen
 mit dem Bundesministerium des Innern, für Bau und Heimat, dem
 Bundesministerium der Finanzen sowie dem Haushaltsausschuss und dem
 Auswärtigen Ausschuss des Deutschen Bundestages die Wirkung der
 Aufbauzulage nach Absatz 1 und die Frage einer Notwendigkeit für die
-Zeit nach dem 31. Dezember 2025.
+Zeit nach dem 31. Dezember 2026.
 

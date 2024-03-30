@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 2011, 1378
 
 Zuletzt geändert durch
-:   Art. 31 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 1 G v. 21.11.2023 I Nr. 315 mWv 1.12.2023 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 21.11.2023 I Nr. 315 mWv 1.7.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 21.11.2023 I Nr. 315 mWv 1.1.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 21.11.2023 I Nr. 315
 
 
 ## § 1 Autobahn- und Bundesstraßenmaut

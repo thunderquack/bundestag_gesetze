@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4180;
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 8 G v. 12.5.2021 I 990
+:   Art. 34 Abs. 7 G v. 22.12.2023 I Nr. 411
 
 
 ## - - Zu § 2 des Gesetzes
@@ -92,9 +92,9 @@ als Heimathafen (Heimatort) im Schiffsregister eingetragen ist.
 ### § 8 Zusammenfassung mehrerer wirtschaftlicher Geschäftsbetriebe
 
 Werden von einer sonstigen juristischen Person des privaten Rechts
-oder einem nichtrechtsfähigen Verein (§ 2 Abs. 3 des Gesetzes) mehrere
-wirtschaftliche Geschäftsbetriebe unterhalten, so gelten sie als ein
-einheitlicher Gewerbebetrieb.
+oder einem Verein ohne Rechtspersönlichkeit (§ 2 Abs. 3 des Gesetzes)
+mehrere wirtschaftliche Geschäftsbetriebe unterhalten, so gelten sie
+als ein einheitlicher Gewerbebetrieb.
 
 
 ### § 9
@@ -312,7 +312,7 @@ Gewerbeertrag.
 3.  für Genossenschaften einschließlich Europäischer Genossenschaften und
     für Versicherungsvereine auf Gegenseitigkeit, wenn sie nicht von der
     Gewerbesteuer befreit sind. Für sonstige juristische Personen des
-    privaten Rechts und für nichtrechtsfähige Vereine ist eine
+    privaten Rechts und für Vereine ohne Rechtspersönlichkeit ist eine
     Gewerbesteuererklärung nur abzugeben, soweit diese Unternehmen einen
     wirtschaftlichen Geschäftsbetrieb - ausgenommen Land- und
     Forstwirtschaft - unterhalten, dessen Gewerbeertrag im

@@ -28,12 +28,12 @@ Benehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz:
 
 
-## § 1 Übermittlung von Indexdaten zu Eintragungen im Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
+## § 1 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
 
 (1) Die Landesjustizverwaltungen übermitteln dem Transparenzregister
-folgende Indexdaten zu Eintragungen im Handels-, Partnerschafts- und
-Genossenschaftsregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 8 des
-Geldwäschegesetzes:
+folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts-,
+Gesellschafts- und Partnerschaftsregister gemäß § 22 Absatz 1 Satz 1
+Nummer 4 bis 8 des Geldwäschegesetzes:
 
 1.  Registerart, Registergericht und Registernummer sowie ein
     Ortskennzeichen, soweit vorhanden,
@@ -74,11 +74,11 @@ Indexdaten bereitstellen, sind auch diese dem Transparenzregister zu
 übermitteln.
 
 
-## § 2 Übermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
+## § 2 Übermittlungen von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
 
 Die Landesjustizverwaltungen übermitteln dem Transparenzregister
 folgende Indexdaten zu Bekanntmachungen aus dem Handels-,
-Partnerschafts-, und Genossenschaftsregister:
+Genossenschafts-, Gesellschafts- und Partnerschaftsregister:
 
 1.  Registerart, Registergericht, Registernummer sowie ein
     Ortskennzeichen, soweit vorhanden,
@@ -134,18 +134,18 @@ Geldwäschegesetzes im Transparenzregister ermöglichen.
 ## § 5 Änderung und Aktualisierung der Daten
 
 (1) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten
-zu Eintragungen im Handels-, Partnerschafts- und
-Genossenschaftsregister (§ 1 Absatz 1) unverzüglich. Für Änderungen
-der Indexdaten zu Eintragungen im Vereinsregister (§ 1 Absatz 2) gilt
-Satz 1 entsprechend.
+zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und
+Partnerschaftsregister (§ 1 Absatz 1) unverzüglich. Für Änderungen der
+Indexdaten zu Eintragungen im Vereinsregister (§ 1 Absatz 2) gilt Satz
+1 entsprechend.
 
 (2) Die Indexdaten zu Bekanntmachungen aus dem Handels-,
-Partnerschafts-, Genossenschafts- und Vereinsregister (§ 2) sind
-täglich zu aktualisieren. Die Landesjustizverwaltungen können in
-Absprache mit dem Betreiber des Transparenzregisters eine häufigere
-Aktualisierung oder eine vollständige Neuübermittlung vornehmen, wenn
-dadurch der Betrieb des Transparenzregisters nicht beeinträchtigt
-wird.
+Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
+(§ 2) sind täglich zu aktualisieren. Die Landesjustizverwaltungen
+können in Absprache mit dem Betreiber des Transparenzregisters eine
+häufigere Aktualisierung oder eine vollständige Neuübermittlung
+vornehmen, wenn dadurch der Betrieb des Transparenzregisters nicht
+beeinträchtigt wird.
 
 
 ## § 6 Sicherheit

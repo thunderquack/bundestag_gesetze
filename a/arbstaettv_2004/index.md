@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2020 I 3334
 
+Änderung durch
+:   Art. 10 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient der Umsetzung
 
 1.  der EG-Richtlinie 89/654/EWG des Rates vom 30. November 1989 über

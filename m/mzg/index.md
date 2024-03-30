@@ -1022,8 +1022,9 @@ Erhebungsmerkmalen erhoben:
 
     e)  Höhe der erhaltenen öffentlichen Zahlungen und Unterhaltszahlungen:
 
-        aa) Höhe der gesetzlichen Leistungen bei Arbeitslosigkeit und der
-            Grundsicherung für Arbeitsuchende,
+        aa) Höhe der gesetzlichen Leistungen bei Arbeitslosigkeit und der Höhen
+            der Grundsicherung für Arbeitsuchende, insbesondere Höhen des
+            Bürgergeldes, des Bürgergeldbonus und der Weiterbildungsleistungen,
 
 
         bb) Höhe der laufenden Hilfe zum Lebensunterhalt,
@@ -1044,6 +1045,9 @@ Erhebungsmerkmalen erhoben:
         gg) Höhe der erhaltenen Unterhaltszahlungen oder sonstiger regelmäßiger
             Zahlungen von Personen, die im Kalenderjahr vor der Berichtswoche
             nicht im Haushalt lebten,
+
+
+        hh) Höhen der Leistungen aus der gesetzlichen Pflegeversicherung,
 
 
 

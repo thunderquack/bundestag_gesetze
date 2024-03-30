@@ -956,8 +956,13 @@ behandeln.
 spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
 
 
-## § 45 
+## § 45 Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz
 
+Zur Zwangsvollstreckung in das Vermögen einer rechtsfähigen
+Gesellschaft bürgerlichen Rechts im Sinne von § 705 Absatz 2 des
+Bürgerlichen Gesetzbuchs genügt ein gegen alle Gesellschafter
+gerichteter Vollstreckungstitel, wenn dieser vor dem 1. Januar 2024
+erwirkt wurde.
 
 
 ## § 46 Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz

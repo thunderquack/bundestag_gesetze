@@ -15,6 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2197
 
+Stand: Die V tritt gem. Art. 15 Abs. 2 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2027 außer Kraft
 Zuletzt geändert durch
 :   Art. 3 V v. 27.7.2021 I 3229
 

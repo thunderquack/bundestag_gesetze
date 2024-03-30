@@ -465,13 +465,3 @@ einen Bericht über die Wirkung der Reform, die am 1. Juli 2017 in
 Kraft getreten ist, vor. Der Bericht darf keine personenbezogenen
 Daten enthalten.
 
-
-## § 12a (Gegenstandslose Übergangsvorschrift)
-
--
-
-
-## § 13 (weggefallen)
-
--
-

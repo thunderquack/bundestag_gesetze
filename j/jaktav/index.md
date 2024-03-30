@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4834
 
-Geändert durch
-:   Art. 6 G v. 31.10.2022 I 1966
+Zuletzt geändert durch
+:   Art. 1 V v. 28.11.2023 I Nr. 335
 
 
 ## Eingangsformel
@@ -213,7 +213,8 @@ Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 ## Anlage Aufbewahrungs- und Speicherungsfristen
 
-(Fundstelle: BGBl. I 2021, 4837 - 4898)
+(Fundstelle: BGBl. I 2021, 4837 - 4898;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Teil 1
 
@@ -1854,9 +1855,12 @@ Staatsanwaltschaften der Länder
     *   30 Jahre
 
     *
-    *
+    *   Akten zu Verfahren nach dem Transsexuellengesetz sind mindestens bis
+        zum 31. Dezember 2030 aufzubewahren.
 
-*    *
+
+*    *   1114.15
+
     *
     *   a)
 
@@ -2020,8 +2024,7 @@ Staatsanwaltschaften der Länder
 *    *
     *
     *
-    *   bb) des Zentralen Testamentsregisters nach § 78e Satz 3
-        BNotO
+    *   bb) des Zentralen Testamentsregisters nach § 78e Satz 3 BNotO
 
     *   1 Jahr
 
@@ -3984,8 +3987,7 @@ Staatsanwaltschaften der Länder
     *
     *   c)
 
-    *   verwaltungsrechtliche Notarsachen nach § 111
-        BNotO
+    *   verwaltungsrechtliche Notarsachen nach § 111 BNotO
 
     *   30 Jahre
 
@@ -4743,7 +4745,7 @@ Staatsanwaltschaften der Länder
     *   b)
 
     *   nicht freisprechende Urteile sowie die dazugehörigen
-        Vollstreckungsnachweise aus den unter Nr. 721 Buchstabe h genannten
+        Vollstreckungsnachweise aus den unter Nr. 1153.0 Buchstabe h genannten
         Akten
 
     *   10 Jahre
@@ -5324,7 +5326,7 @@ Staatsanwaltschaften der Länder
 
     *
 
-*    *   1231.1
+*    *   1232.1
 
     *
     *   Zur Zwangsvollstreckung geeignete Titel, Urteile, verfahrensbeendende
@@ -6336,7 +6338,7 @@ Bundeswehrdisziplinaranwalts beim Bundesverwaltungsgericht
     *   a)
 
     *   Bekanntmachung einer Patentanmeldung (nach der bis 31. Dezember 1980
-        geltenden Fassung des Patentgesetztes)
+        geltenden Fassung des Patentgesetzes)
 
     *   30 Jahre
 

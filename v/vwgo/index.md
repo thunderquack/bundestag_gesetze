@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 8.10.2023 I Nr. 272
+:   Art. 11 G v. 22.12.2023 I Nr. 409
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -987,15 +987,16 @@ Rechtszug
 
 6.  über sämtliche Streitigkeiten, die Planfeststellungsverfahren und
     Plangenehmigungsverfahren für Vorhaben betreffen, die in dem
-    Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem
-    Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem
-    Bundesbedarfsplangesetz, dem § 43e Absatz 4 des
-    Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-
-    Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind,
-    über sämtliche Streitigkeiten, die Vorhaben zur Errichtung und zur
-    Anbindung von Terminals zum Import von Wasserstoff und Derivaten
-    betreffen, sowie über die ihm nach dem LNG-Beschleunigungsgesetz
-    zugewiesenen Verfahren,
+    Allgemeinen Eisenbahngesetz, dem Bundeswasserstraßengesetz, dem
+    Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e
+    Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des
+    Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz
+    bezeichnet sind, über sämtliche Streitigkeiten zu Verfahren im Sinne
+    des § 17e Absatz 1 des Bundesfernstraßengesetzes, über sämtliche
+    Streitigkeiten, die Vorhaben zur Errichtung und zur Anbindung von
+    Terminals zum Import von Wasserstoff und Derivaten betreffen, sowie
+    über die ihm nach dem LNG-Beschleunigungsgesetz zugewiesenen
+    Verfahren,
 
 
 7.  über die ihm nach dem Energiesicherungsgesetz zugewiesenen Verfahren.
@@ -1646,14 +1647,12 @@ Bevollmächtigte vor dem Verwaltungsgericht vertretungsbefugt nur
 
 
 6.  Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche
-    Interessenvertretung, die Beratung und Vertretung der
-    Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der
-    behinderten Menschen wesentlich umfassen und die unter
-    Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres
-    Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung
-    bieten, für ihre Mitglieder in Angelegenheiten der Kriegsopferfürsorge
-    und des Schwerbehindertenrechts sowie der damit im Zusammenhang
-    stehenden Angelegenheiten,
+    Interessenvertretung, die Beratung und Vertretung von Menschen mit
+    Behinderungen wesentlich umfassen und die unter Berücksichtigung von
+    Art und Umfang ihrer Tätigkeit sowie ihres Mitgliederkreises die
+    Gewähr für eine sachkundige Prozessvertretung bieten, für ihre
+    Mitglieder in Angelegenheiten des Schwerbehindertenrechts sowie der
+    damit im Zusammenhang stehenden Angelegenheiten,
 
 
 7.  juristische Personen, deren Anteile sämtlich im wirtschaftlichen
@@ -1792,8 +1791,10 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 (1) Der Widerspruch ist innerhalb eines Monats, nachdem der
 Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
 in elektronischer Form nach § 3a Absatz 2 des
-Verwaltungsverfahrensgesetzes oder zur Niederschrift bei der Behörde
-zu erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch
+Verwaltungsverfahrensgesetzes, schriftformersetzend nach § 3a Absatz 3
+des Verwaltungsverfahrensgesetzes und § 9a Absatz 5 des
+Onlinezugangsgesetzes oder zur Niederschrift bei der Behörde zu
+erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch
 durch Einlegung bei der Behörde, die den Widerspruchsbescheid zu
 erlassen hat, gewahrt.
 
@@ -2573,6 +2574,8 @@ Zivilprozeßordnung entsprechend anzuwenden.
 
 (1) Behörden sind zur Vorlage von Urkunden oder Akten, zur
 Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet.
+Führen Behörden die Akten elektronisch, sind diese als digital
+durchsuchbare Dokumente vorzulegen, soweit dies technisch möglich ist.
 Wenn das Bekanntwerden des Inhalts dieser Urkunden, Akten,
 elektronischen Dokumente oder dieser Auskünfte dem Wohl des Bundes
 oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach
@@ -4199,12 +4202,11 @@ Oberverwaltungsgerichts erlassen.
 
 Die Sachgebiete in Angelegenheiten der Fürsorge mit Ausnahme der
 Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes,
-der Jugendhilfe, der Kriegsopferfürsorge, der
-Schwerbehindertenfürsorge sowie der Ausbildungsförderung sollen in
-einer Kammer oder in einem Senat zusammengefaßt werden. Gerichtskosten
-(Gebühren und Auslagen) werden in den Verfahren dieser Art nicht
-erhoben; dies gilt nicht für Erstattungsstreitigkeiten zwischen
-Sozialleistungsträgern.
+der Jugendhilfe, der Schwerbehindertenfürsorge sowie der
+Ausbildungsförderung sollen in einer Kammer oder in einem Senat
+zusammengefaßt werden. Gerichtskosten (Gebühren und Auslagen) werden
+in den Verfahren dieser Art nicht erhoben; dies gilt nicht für
+Erstattungsstreitigkeiten zwischen Sozialleistungsträgern.
 
 
 ### § 188a
@@ -4222,15 +4224,10 @@ werden.
 
 ### § 188b
 
-Für Angelegenheiten des Planungsrechts können besondere Kammern oder
-Senate gebildet werden (Planungskammern, Planungssenate). Die
-Sachgebiete der Raumordnung und Landesplanung sowie des Bauplanungs-,
-Bauordnungs- und Städtebauförderungsrechts sollen in den
-Planungskammern oder Planungssenaten zusammengefasst werden. In
-anderen Sachgebieten können die Planungskammern oder Planungssenate
-insbesondere über Streitigkeiten entscheiden, die
-Planfeststellungsverfahren oder anstelle einer Planfeststellung
-erteilte Genehmigungen betreffen.
+Für Angelegenheiten des Planungsrechts sollen besondere Kammern oder
+Senate gebildet werden (Planungskammern, Planungssenate). Ihnen können
+insbesondere auch Sachgebiete zugewiesen werden, die mit den
+Angelegenheiten des Planungsrechts im Zusammenhang stehen.
 
 
 ### § 189
@@ -4344,6 +4341,10 @@ geltenden Vorschriften.
 (5) § 40 Abs. 2 Satz 1, § 154 Abs. 3, § 162 Abs. 2 Satz 3 und § 188
 Satz 2 sind für die ab 1. Januar 2002 bei Gericht anhängig werdenden
 Verfahren in der zu diesem Zeitpunkt geltenden Fassung anzuwenden.
+
+(6) Für am 1. Januar 2024 noch anhängige Verfahren aus dem Sachgebiet
+der Kriegsopferfürsorge gilt § 67 Absatz 2 Satz 2 Nummer 6 in der am
+31\. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 195

@@ -15,8 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2225
 
+Stand: Die V tritt gem. Art. 15 Abs. 3 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
-:   Art. 6 G v. 20.7.2022 I 1237
+:   Art. 3 G v. 22.12.2023 I Nr. 405
 
 
 ## Eingangsformel
@@ -206,9 +207,7 @@ ist, und aller vorgelagerten Netz- und Umspannebenen abgegolten.
 bundeseinheitliches Netzentgelt nach Abschnitt 2a für die Netzebene
 Höchstspannungsnetz und die Umspannebene von Höchst- zu Hochspannung.
 Hierfür verwenden sie jeweils eine bundeseinheitliche
-Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2. Vom 1. Januar
-2019 bis zum 31. Dezember 2022 erfolgt die Bestimmung nach Satz 1 nach
-Maßgabe des § 32a.
+Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2.
 
 
 ### § 3a Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen
@@ -1146,8 +1145,8 @@ dem Ende einer bevorstehenden Kalkulationsperiode die Differenz
 zwischen den aus Netzentgelten tatsächlich erzielten Erlösen und den
 nach § 4 ermittelten und in der bevorstehenden Kalkulationsperiode zu
 deckenden Netzkosten möglichst gering ist. Satz 1 ist auch auf die
-nach § 14b zu ermittelnden bundeseinheitlichen
-Übertragungsnetzentgelte anzuwenden.
+nach § 24 des Energiewirtschaftsgesetzes zu ermittelnden
+bundeseinheitlichen Übertragungsnetzentgelte anzuwenden.
 
 
 #### § 16 Gleichzeitigkeitsgrad
@@ -1162,7 +1161,8 @@ zeitgleichen Jahreshöchstlast aller Entnahmen aus dieser Netz- oder
 Umspannebene. Die Betreiber von Übertragungsnetzen mit
 Regelzonenverantwortung bestimmen zur Bildung des bundeseinheitlichen
 Übertragungsnetzentgelts die zeitgleichen gemeinsamen
-Jahreshöchstlasten auf Grundlage der Daten nach § 14d.
+Jahreshöchstlasten auf Grundlage der Daten nach § 24 Absatz 7 des
+Energiewirtschaftsgesetzes.
 
 (2) Für die verursachungsgerechte Zuteilung der spezifischen
 Jahreskosten einer Netz- oder Umspannebene auf die Netzkunden dieser
@@ -1544,8 +1544,9 @@ sicherzustellen, dass ein zur Veröffentlichung anstehendes
 Entgeltsystem geeignet ist, die nach § 4 ermittelten Kosten zu decken.
 Satz 1 ist auch für die Betreiber von Übertragungsnetzen mit
 Regelzonenverantwortung in Bezug auf das bundeseinheitliche
-Übertragungsnetzentgelt nach Maßgabe der §§ 14a bis 14c anzuwenden. Im
-Einzelnen ist sicherzustellen, dass die Anwendung
+Übertragungsnetzentgelt nach Maßgabe des § 24 des
+Energiewirtschaftsgesetzes anzuwenden. Im Einzelnen ist
+sicherzustellen, dass die Anwendung
 
 1.  des Entgeltsystems auf die prognostizierte Absatzstruktur in ihrem
     Netzgebiet einen prognostizierten Erlös ergibt, welcher der Höhe nach
@@ -1617,17 +1618,8 @@ rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
 
 
-### § 27 Veröffentlichungspflichten
+### § 27 (weggefallen)
 
-(1) (weggefallen)
-
-(2) (weggefallen)
-
-(3) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
-haben ab dem Jahr 2023 auf ihrer gemeinsamen Internetseite nach § 77
-Absatz 2 des Erneuerbare-Energien-Gesetzes das gemeinsame
-bundeseinheitliche Preisblatt und die diesem Preisblatt zugrunde
-liegende gemeinsame Jahreshöchstlast zu veröffentlichen.
 
 
 ### § 28 Dokumentation
@@ -1947,76 +1939,8 @@ der dritten Regulierungsperiode nach § 7 Absatz 7 in der bis zum 31.
 Juli 2021 geltenden Fassung.
 
 
-### § 32a Übergangsregelung zur schrittweisen Vereinheitlichung der Übertragungsnetzentgelte
+### § 32a (weggefallen)
 
-(1) Die Regelungen zur Bildung bundeseinheitlicher
-Übertragungsnetzentgelte nach § 3 Absatz 3, den §§ 14a bis 14d, § 15
-Absatz 2 Satz 2, § 16 Absatz 1 Satz 4 und Absatz 2 Satz 2 sowie § 17
-Absatz 3, 4 Satz 2 und Absatz 5 Satz 2 sowie § 20 Absatz 1 Satz 2 und
-Absatz 2 Satz 2 sind in der Übergangszeit für die Bestimmung der
-Netzentgelte, die in dem Zeitraum vom 1. Januar 2019 bis zum 31.
-Dezember 2022 gelten, mit der Maßgabe anzuwenden, dass sich die
-Netzentgelte der Betreiber von Übertragungsnetzen mit
-Regelzonenverantwortung aus der Addition eines nach Maßgabe des
-Absatzes 2 bundeseinheitlich sowie eines nach Maßgabe des Absatzes 3
-unternehmensindividuell gebildeten Netzentgeltanteils zusammensetzen.
-Hierfür bilden diese Übertragungsnetzbetreiber nach § 16 Absatz 2 Satz
-1 eine unternehmensindividuelle Gleichzeitigkeitsfunktion und nach §
-16 Absatz 2 Satz 2 eine bundeseinheitliche Gleichzeitigkeitsfunktion.
-
-(2) Die Vereinheitlichung der Übertragungsnetzentgelte erfolgt in fünf
-Schritten von jeweils 20 Prozent. Der prozentuale bundeseinheitlich
-gebildete Anteil, der sich auf die Erlösobergrenzen nach § 14b Absatz
-1 der einzelnen Betreiber von Übertragungsnetzen mit
-Regelzonenverantwortung im jeweiligen Kalenderjahr bezieht, beträgt
-
-1.  für das Kalenderjahr 2019 jeweils 20 Prozent,
-
-
-2.  für das Kalenderjahr 2020 jeweils 40 Prozent,
-
-
-3.  für das Kalenderjahr 2021 jeweils 60 Prozent,
-
-
-4.  für das Kalenderjahr 2022 jeweils 80 Prozent.
-
-
-
-Die anteiligen Erlösobergrenzen nach Satz 1 der einzelnen Betreiber
-von Übertragungsnetzen mit Regelzonenverantwortung sind auf den
-gemeinsamen Kostenträgern nach § 14b Absatz 2 zusammenzuführen. Unter
-Verwendung der bundeseinheitlichen Gleichzeitigkeitsfunktion nach § 16
-Absatz 2 Satz 2 ist für die betroffene Netz- und Umspannebene jeweils
-der bundeseinheitlich gebildete Netzentgeltanteil zu bestimmen.
-
-(2a) Abweichend von Absatz 2 sind Kosten aus der Erfüllung des
-Zahlungsanspruchs nach § 28g des Energiewirtschaftsgesetzes bereits ab
-dem 27. Juli 2021 vollständig in den bundeseinheitlich gebildeten
-Anteil der Übertragungsnetzentgelte einzubeziehen.
-
-(3) Grundlage des unternehmensindividuell gebildeten Anteils nach
-Absatz 1 Satz 1 ist der jeweils verbleibende Anteil der
-Erlösobergrenzen nach § 14b Absatz 1, der nicht Grundlage des
-bundeseinheitlich gebildeten Anteils ist. Diese Kosten sind den
-unternehmensindividuellen Kostenträgern nach Anlage 3 zuzuordnen.
-Unter Verwendung der unternehmensindividuellen
-Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 1 ist für die Netz-
-und Umspannebene jeweils der unternehmensindividuell gebildete
-Netzentgeltanteil zu bestimmen.
-
-(4) Die Höhe des bundeseinheitlich gebildeten Netzentgeltanteils und
-die Höhe des unternehmensindividuell gebildeten Netzentgeltanteils
-sind in die Veröffentlichung der Übertragungsnetzentgelte nach § 21
-Absatz 3 Satz 1 des Energiewirtschaftsgesetzes ergänzend aufzunehmen.
-Die Darstellung hat wie folgt zu erfolgen: Netzentgelt des
-Übertragungsnetzbetreibers ist gleich bundeseinheitlicher Anteil nach
-Absatz 2 Satz 3 und Absatz 2a zuzüglich unternehmensindividueller
-Anteil nach Absatz 3 Satz 3.
-
-(5) Der Ausgleich von Mehr- und Mindereinnahmen, die sich aufgrund des
-bundeseinheitlich gebildeten Netzentgeltanteils ergeben, erfolgt nach
-dem Mechanismus des § 14c.
 
 
 ### § 32b Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen
@@ -2602,7 +2526,8 @@ Kilovolt behandelt.
 
 ### Anlage 3 Kostenträger
 
-Fundstelle des Originaltextes: BGBl. I 2005, 2240
+(Fundstelle des Originaltextes: BGBl. I 2005, 2240)
+
 
 1.  Die Kosten der Höchstspannungsebene umfassen die Kosten der
     Hauptkostenstellen "Systemdienstleistungen" und "Höchstspannungsnetz
@@ -2611,8 +2536,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2240
 
 1a. Die gemeinsamen Kosten der Höchstspannungsebene der Betreiber von
     Übertragungsnetzen mit Regelzonenverantwortung ergeben sich aus der
-    Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 14b
-    Absatz 2.
+    Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 24
+    Absatz 3 und des § 24 Absatz 4 des Energiewirtschaftsgesetzes.
 
 
 2.  Die Kosten der Umspannung Höchst- zu Hochspannungsebene umfassen die

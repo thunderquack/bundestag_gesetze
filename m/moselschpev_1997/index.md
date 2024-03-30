@@ -20,7 +20,10 @@ Stand: Zuletzt geändert Art. 4 V v. 16.2.2022 II 82
 :   Art. 4 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 V v. 22.11.2023 II Nr. 321 mWv 1.12.2023 noch nicht berücksichtigt
+:   Art. 4 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 V v. 11.3.2024 II Nr. 97 mWv 21.3.2024 noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -1028,44 +1031,40 @@ oder fahrlässig als Eigentümer oder Ausrüster
         ist,
 
 
-    o)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
-        ausgestattet ist,
-
-
-    p)  das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem
+    o)  das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem
         Inland AIS Gerät oder einer dort genannten Sprechfunkanlage
         ausgerüstet ist,
 
 
-    q)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
+    p)  das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten
         Gerät ausgestattet ist,
 
 
-    r)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
+    q)  auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht
         den dort genannten Bestimmungen entspricht oder
 
 
-    s)  das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland
+    r)  das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland
         AIS Gerät verwendet,
 
 
-    t)  das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
+    s)  das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
         Maschinenleistung nicht verfügt,
 
 
-    u)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
+    t)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
         Fortbewegung gekuppelter Fahrzeuge verwendet wird,
 
 
-    v)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
+    u)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
         befindet,
 
 
-    w)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
+    v)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
         geschleppt wird oder
 
 
-    x)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
+    w)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
         überschreitet,
 
 

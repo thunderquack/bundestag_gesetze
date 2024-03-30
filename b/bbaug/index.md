@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 28.7.2023 I Nr. 221
 
+Änderung durch
+:   Art. 3 G v. 20.12.2023 I Nr. 394 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F2415_BJNR003410960]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 92/43/EWG des Rates
     vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der
@@ -92,10 +95,12 @@ Wohnbedürfnisse der Bevölkerung gewährleisten. Sie sollen dazu
 beitragen, eine menschenwürdige Umwelt zu sichern, die natürlichen
 Lebensgrundlagen zu schützen und zu entwickeln sowie den Klimaschutz
 und die Klimaanpassung, insbesondere auch in der Stadtentwicklung, zu
-fördern, sowie die städtebauliche Gestalt und das Orts- und
-Landschaftsbild baukulturell zu erhalten und zu entwickeln. Hierzu
-soll die städtebauliche Entwicklung vorrangig durch Maßnahmen der
-Innenentwicklung erfolgen.
+fördern und zur Erfüllung der Klimaschutzziele des Bundes-
+Klimaschutzgesetzes die Wärme- und Energieversorgung von Gebäuden
+treibhausgasneutral zu gestalten sowie die städtebauliche Gestalt und
+das Orts- und Landschaftsbild baukulturell zu erhalten und zu
+entwickeln. Hierzu soll die städtebauliche Entwicklung vorrangig durch
+Maßnahmen der Innenentwicklung erfolgen.
 
 (6) Bei der Aufstellung der Bauleitpläne sind insbesondere zu
 berücksichtigen:
@@ -155,12 +160,17 @@ berücksichtigen:
         Abfällen und Abwässern,
 
 
-    f)  die Nutzung erneuerbarer Energien sowie die sparsame und effiziente
-        Nutzung von Energie,
+    f)  die Nutzung erneuerbarer Energien, insbesondere auch im Zusammenhang
+        mit der Wärmeversorgung von Gebäuden, sowie die sparsame und
+        effiziente Nutzung von Energie,
 
 
-    g)  die Darstellungen von Landschaftsplänen sowie von sonstigen Plänen,
-        insbesondere des Wasser-, Abfall- und Immissionsschutzrechts,
+    g)  die Darstellungen von Landschaftsplänen und sonstigen Plänen,
+        insbesondere des Wasser-, des Abfall- und des Immissionsschutzrechts,
+        sowie die Darstellungen in Wärmeplänen und die Entscheidungen über die
+        Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als
+        Wasserstoffnetzausbaugebiet gemäß § 26 des Wärmeplanungsgesetzes vom
+        20\. Dezember 2023 (BGBl. 2023 I Nr. 394),
 
 
     h)  die Erhaltung der bestmöglichen Luftqualität in Gebieten, in denen die
@@ -620,8 +630,11 @@ in der Begründung sind die Gründe hierfür darzulegen.
     Hauptabwasserleitungen;
 
 
-5.  die Grünflächen, wie Parkanlagen, Dauerkleingärten, Sport-, Spiel-,
-    Zelt- und Badeplätze, Friedhöfe;
+5.  die Grünflächen, wie Parkanlagen, Naturerfahrungsräume,
+    Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
+
+
+5a. die Flächen zur Gewährleistung eines natürlichen Klimaschutzes;
 
 
 6.  die Flächen für Nutzungsbeschränkungen oder für Vorkehrungen zum
@@ -883,12 +896,16 @@ werden:
     Badeplätze, Friedhöfe;
 
 
+15a. die Flächen zur Gewährleistung eines natürlichen Klimaschutzes;
+
+
 16.
     a)  die Wasserflächen und die Flächen für die Wasserwirtschaft,
 
 
-    b)  die Flächen für Hochwasserschutzanlagen und für die Regelung des
-        Wasserabflusses,
+    b)  die Flächen für Hochwasserschutzanlagen, für die Regelung des
+        Wasserabflusses, einschließlich des Niederschlagswassers aus
+        Starkregenereignissen,
 
 
     c)  Gebiete, in denen bei der Errichtung baulicher Anlagen bestimmte
@@ -1534,18 +1551,6 @@ Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung,
 Ergänzung und Aufhebung eines Bebauungsplans.
-
-
-##### § 13b Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren
-
-Bis zum Ablauf des 31. Dezember 2022 gilt § 13a entsprechend für
-Bebauungspläne mit einer Grundfläche im Sinne des § 13a Absatz 1 Satz
-2 von weniger als 10 000 Quadratmetern, durch die die Zulässigkeit von
-Wohnnutzungen auf Flächen begründet wird, die sich an im Zusammenhang
-bebaute Ortsteile anschließen. Das Verfahren zur Aufstellung eines
-Bebauungsplans nach Satz 1 kann nur bis zum Ablauf des 31. Dezember
-2022 förmlich eingeleitet werden; der Satzungsbeschluss nach § 10
-Absatz 1 ist bis zum Ablauf des 31. Dezember 2024 zu fassen.
 
 
 ### Zweiter Teil - Sicherung der Bauleitplanung
@@ -2728,7 +2733,7 @@ Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 ist
 als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung
 abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen
 Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer
-nach Absatz 1 Nummer 2 bis 6 und 8 Buchstabe b zulässigen
+nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 zulässigen
 Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer
 nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung
 entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht
@@ -8965,9 +8970,10 @@ aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch
 gemeinsame Voraussetzungen und Bedürfnisse bestimmt wird oder ein
 gemeinsamer Flächennutzungsplan einen gerechten Ausgleich der
 verschiedenen Belange ermöglicht. Ein gemeinsamer Flächennutzungsplan
-soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung
-oder wenn Einrichtungen und Anlagen des öffentlichen Verkehrs,
-sonstige Erschließungsanlagen sowie Gemeinbedarfs- oder sonstige
+soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung,
+die Umsetzung eines Wärmeplans oder mehrerer Wärmepläne sowie
+Einrichtungen und Anlagen des öffentlichen Verkehrs, sonstige
+Erschließungsanlagen oder Gemeinbedarfs- oder sonstige
 Folgeeinrichtungen eine gemeinsame Planung erfordern. Der gemeinsame
 Flächennutzungsplan kann von den beteiligten Gemeinden nur gemeinsam
 aufgehoben, geändert oder ergänzt werden; die Gemeinden können
@@ -9294,8 +9300,8 @@ der Satzungen nach diesem Gesetzbuch nur beachtlich, wenn
 2.  die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung
     nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 2, nach
     § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a
-    Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6
-    Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist
+    Absatz 2 Nummer 1, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1
+    sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist
     unbeachtlich, wenn
 
     a)  bei Anwendung der Vorschriften einzelne Personen, Behörden oder
@@ -9328,9 +9334,9 @@ der Satzungen nach diesem Gesetzbuch nur beachtlich, wenn
 
 
     g)  bei Anwendung des § 4a Absatz 3 Satz 4 oder des § 13, auch in
-        Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, die Voraussetzungen
-        für die Durchführung der Beteiligung nach diesen Vorschriften verkannt
-        worden sind;
+        Verbindung mit § 13a Absatz 2 Nummer 1, die Voraussetzungen für die
+        Durchführung der Beteiligung nach diesen Vorschriften verkannt worden
+        sind;
 
 
 
@@ -9385,9 +9391,9 @@ wenn
 
 
 
-(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a,
-auch in Verbindung mit § 13b, aufgestellt worden sind, gilt ergänzend
-zu den Absätzen 1 und 2 Folgendes:
+(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a
+aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2
+Folgendes:
 
 1.  (weggefallen)
 
@@ -9455,6 +9461,46 @@ nach § 214 Absatz 2a beachtlich sind.
 (2) Bei Inkraftsetzung des Flächennutzungsplans oder der Satzung ist
 auf die Voraussetzungen für die Geltendmachung der Verletzung von
 Vorschriften sowie auf die Rechtsfolgen hinzuweisen.
+
+
+##### § 215a Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung
+
+(1) Bebauungsplanverfahren nach § 13b in der bis zum Ablauf des 22.
+Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung,
+die vor Ablauf des 31. Dezember 2022 förmlich eingeleitet wurden,
+können nach Maßgabe des Absatzes 3 im beschleunigten Verfahren in
+entsprechender Anwendung des § 13a abgeschlossen werden, wenn der
+Satzungsbeschluss nach § 10 Absatz 1 bis zum Ablauf des 31. Dezember
+2024 gefasst wird.
+
+(2) Sollen Bebauungspläne, die im Verfahren nach § 13b in der bis zum
+Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023
+geltenden Fassung aufgestellt wurden, durch ein ergänzendes Verfahren
+gemäß § 214 Absatz 4 in Kraft gesetzt werden, kann § 13a nach Maßgabe
+des Absatzes 3 entsprechend angewendet werden. Der Satzungsbeschluss
+nach § 10 Absatz 1 ist bis zum Ablauf des 31. Dezember 2024 zu fassen.
+
+(3) § 13a Absatz 2 Nummer 1 in Verbindung mit § 13 Absatz 3 Satz 1
+sowie § 13a Absatz 2 Nummer 4 können nur dann entsprechend angewendet
+werden, wenn die Gemeinde auf Grund einer Vorprüfung des Einzelfalls
+entsprechend § 13a Absatz 1 Satz 2 Nummer 2 zu der Einschätzung
+gelangt, dass der Bebauungsplan voraussichtlich keine erheblichen
+Umweltauswirkungen hat, die nach § 2 Absatz 4 Satz 4 in der Abwägung
+zu berücksichtigen wären oder die als Beeinträchtigungen des
+Landschaftsbildes oder der Leistungs- und Funktionsfähigkeit des
+Naturhaushalts entsprechend § 1a Absatz 3 auszugleichen wären. Die
+Behörden und sonstigen Träger öffentlicher Belange, deren
+Aufgabenbereiche durch die Planung berührt werden können, sind an der
+Vorprüfung des Einzelfalls zu beteiligen. Wird das Verfahren nach
+Absatz 1 oder Absatz 2 nach Abschluss der Vorprüfung des Einzelfalls
+ohne Durchführung einer Umweltprüfung nach § 2 Absatz 4 fortgesetzt,
+hat die Gemeinde dies einschließlich der hierfür wesentlichen Gründe
+ortsüblich bekanntzumachen.
+
+(4) Auf Bebauungspläne, deren Aufstellung nach Absatz 1 abgeschlossen
+worden ist oder die im ergänzenden Verfahren nach Absatz 2 in Kraft
+gesetzt worden sind, sind die Bestimmungen der §§ 214 und 215 zur
+Planerhaltung entsprechend anzuwenden.
 
 
 ##### § 216 Aufgaben im Genehmigungsverfahren
@@ -10262,20 +10308,21 @@ des § 249 Absatz 5 Satz 2 fort, wenn der Plan bis zum 1. Februar 2024
 wirksam geworden ist. Sie entfallen, soweit für den Geltungsbereich
 des Plans das Erreichen des Flächenbeitragswerts oder eines daraus
 abgeleiteten Teilflächenziels gemäß § 5 Absatz 1 oder Absatz 2 des
-Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353)
-festgestellt wird, spätestens aber mit Ablauf des 31. Dezember 2027.
-Der Plan gilt im Übrigen fort, wenn nicht im Einzelfall die Grundzüge
-der Planung berührt werden. Die Möglichkeit des Planungsträgers, den
-Plan zu ändern, zu ergänzen oder aufzuheben, bleibt unberührt. Werden
-in einem Flächennutzungsplan oder Raumordnungsplan zusätzliche Flächen
-für die Nutzung von Windenergie dargestellt, kann die Abwägung auf die
-Belange beschränkt werden, die durch die Darstellung der zusätzlichen
-Flächen berührt werden. Dabei kann von dem Planungskonzept, das der
-Abwägung über bereits dargestellte Flächen zu Grunde gelegt wurde,
-abgewichen werden, sofern die Grundzüge der Planung erhalten werden.
-Von der Wahrung der Grundzüge der bisherigen Planung ist regelmäßig
+Windenergieflächenbedarfsgesetzes festgestellt wird, spätestens aber
+mit Ablauf des Stichtags für den Flächenbeitragswert nach Spalte 1 der
+Anlage des Windenergieflächenbedarfsgesetzes. Der Plan gilt im Übrigen
+fort, wenn nicht im Einzelfall die Grundzüge der Planung berührt
+werden. Die Möglichkeit des Planungsträgers, den Plan zu ändern, zu
+ergänzen oder aufzuheben, bleibt unberührt. Werden in einem
+Flächennutzungsplan oder Raumordnungsplan zusätzliche Flächen für die
+Nutzung von Windenergie ausgewiesen, kann die Abwägung auf die Belange
+beschränkt werden, die durch die Ausweisung der zusätzlichen Flächen
+berührt werden. Dabei kann von dem Planungskonzept, das der Abwägung
+über bereits ausgewiesene Flächen zu Grunde gelegt wurde, abgewichen
+werden, sofern die Grundzüge der Planung erhalten werden. Von der
+Wahrung der Grundzüge der bisherigen Planung ist regelmäßig
 auszugehen, wenn Flächen im Umfang von nicht mehr als 25 Prozent der
-schon bislang dargestellten Flächen zusätzlich dargestellt werden. §
+schon bislang ausgewiesenen Flächen zusätzlich ausgewiesen werden. §
 249 Absatz 6 bleibt unberührt.
 
 (2) § 15 Absatz 3 ist entsprechend anzuwenden, wenn die Gemeinde
@@ -10283,7 +10330,8 @@ beschlossen hat, einen Flächennutzungsplan aufzustellen, zu ändern
 oder zu ergänzen, um den Flächenbeitragswert im Sinne des § 3 Absatz 1
 des Windenergieflächenbedarfsgesetzes oder ein daraus abgeleitetes
 Teilflächenziel zu erreichen. Die Entscheidung kann längstens bis zum
-Ablauf des 31. Dezember 2027 ausgesetzt werden.
+Ablauf des Stichtags für den Flächenbeitragswert nach Spalte 1 der
+Anlage des Windenergieflächenbedarfsgesetzes ausgesetzt werden.
 
 (3) Die in Absatz 1 Satz 1 genannten Rechtswirkungen gemäß § 35 Absatz
 3 Satz 3 können Vorhaben im Sinne des § 16b Absatz 1 und 2 des Bundes-
@@ -10300,14 +10348,30 @@ des § 23 des Bundesnaturschutzgesetzes verwirklicht werden soll.
 
 (4) Die in Absatz 1 Satz 1 genannten Rechtswirkungen können Vorhaben
 nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung oder
-Nutzung der Windenergie dienen, nicht entgegengehalten werden, wenn an
-der Stelle des Vorhabens in einem Planentwurf eine Ausweisung für
-Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung, Entwicklung
-oder Nutzung der Windenergie dienen, vorgesehen ist, für den
-Planentwurf bereits eine Beteiligung nach § 3 Absatz 2, § 4 des
-Baugesetzbuchs oder § 9 Absatz 2 des Raumordnungsgesetzes durchgeführt
-wurde und anzunehmen ist, dass das Vorhaben den künftigen Ausweisungen
-entspricht.
+Nutzung der Windenergie dienen, nicht entgegengehalten werden, wenn
+für den Standort des Vorhabens in einem Planentwurf eine Ausweisung
+für Vorhaben nach § 35 Absatz 1 Nummer 5, die der Erforschung,
+Entwicklung oder Nutzung der Windenergie dienen, vorgesehen ist, für
+den Planentwurf bereits eine Beteiligung nach § 3 Absatz 2, § 4 Absatz
+2 und § 4a Absatz 3 dieses Gesetzes oder § 9 Absatz 2 und 3 des
+Raumordnungsgesetzes durchgeführt wurde und anzunehmen ist, dass das
+Vorhaben den künftigen Ausweisungen entspricht. In Fällen des § 4a
+Absatz 3 Satz 1 dieses Gesetzes oder des § 9 Absatz 3 Satz 1 des
+Raumordnungsgesetzes kann ein Vorhaben unter den Voraussetzungen des
+Satzes 1 vor Durchführung der Öffentlichkeits- und Behördenbeteiligung
+zugelassen werden, wenn sich die vorgenommene Änderung oder Ergänzung
+des Planentwurfs nicht auf das Vorhaben auswirkt.
+
+(5) Plant eine Gemeinde, die nicht zuständige Planungsträgerin nach §
+249 Absatz 5 in Verbindung mit § 3 Absatz 2 Satz 1 Nummer 2 des
+Windenergieflächenbedarfsgesetzes ist, vor dem in Absatz 1 Satz 2
+genannten Zeitpunkt ein Windenergiegebiet gemäß § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes auszuweisen, das mit einem Ziel der
+Raumordnung nicht vereinbar ist, soll ihrem Antrag auf Abweichung von
+diesem Ziel abweichend von § 6 Absatz 2 des Raumordnungsgesetzes
+stattgegeben werden, wenn der Raumordnungsplan an der von der Gemeinde
+für Windenergie geplanten Stelle kein Gebiet für mit der Windenergie
+unvereinbare Nutzungen oder Funktionen festlegt.
 
 
 #### § 245f Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung
@@ -10696,10 +10760,10 @@ wenn eine Rechtsverordnung nach den Absätzen 1 und 2 Nummer 1 nicht
 ergangen ist. Die Absätze 4 und 5 sind entsprechend anzuwenden.
 
 
-#### § 246d Sonderregelung für Biogasanlagen
+#### § 246d Sonderregelungen für Biogasanlagen
 
-Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas
-im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31.
+(1) Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von
+Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31.
 Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und
 d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion
 erhöht wird und die Biomasse überwiegend aus dem Betrieb oder
@@ -10708,6 +10772,51 @@ Betrieben nach § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit
 Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten Betrieben
 nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem
 Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
+
+(2) Von § 35 Absatz 1 Nummer 6 werden bis zum 31. Dezember 2028 auch
+Vorhaben erfasst, die der energetischen Nutzung von Biomasse im Rahmen
+eines am 1. Januar 2024 bestehenden Tierhaltung betreibenden
+gewerblichen Betriebes dienen, der auf Grundlage der vor dem 20.
+September 2013 geltenden Fassung des § 35 Absatz 1 Nummer 4 zugelassen
+worden ist.
+
+(3) Bis zum Ablauf des 31. Dezember 2028 gilt § 35 Absatz 1 Nummer 6
+Buchstabe b mit der Maßgabe, dass die Biomasse zusätzlich auch aus
+zulässigerweise errichteten und am 1. Januar 2024 bestehenden, weniger
+als 50 Kilometer entfernten Betrieben aller Art stammen kann, soweit
+es sich um Biomasse handelt, die in diesen Betrieben als Reststoff
+anfällt.
+
+(4) Im Außenbereich ist unbeschadet des § 35 Absatz 1 bis zum Ablauf
+des 31. Dezember 2028 ein Vorhaben zulässig, das
+
+1.  der Aufbereitung von Biogas zu Biomethan einschließlich des
+    Anschlusses an das öffentliche Versorgungsnetz dient, oder
+
+
+2.  als Blockheizkraftwerk der Erzeugung von Strom einschließlich dessen
+    Einspeisung in das öffentliche Netz sowie der Erzeugung von Wärme zur
+    Einspeisung in ein bestehendes lokales Wärmenetz oder zur
+    Wärmeversorgung von zulässigerweise errichteten Gebäuden in räumlicher
+    Nähe zum Vorhaben dient,
+
+
+
+wenn das Vorhaben in einem räumlich-funktionalen Zusammenhang mit
+einer am 1. Januar 2024 bestehenden, zulässigerweise nach § 35 Absatz
+1 Nummer 6 errichteten Anlage steht und keine größere Grundfläche in
+Anspruch nimmt als diese Anlage und wenn das verwendete Biogas aus
+dieser Anlage oder aus nahegelegenen Anlagen nach § 35 Absatz 1 Nummer
+6 stammt.
+
+(5) Die Befristung in den Absätzen 1 bis 4 bezieht sich nicht auf die
+Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu
+dessen Ende bei der zuständigen Behörde ein Antrag eingegangen ist.
+Die Änderung einer Anlage, die nach einem der Absätze 1 bis 4
+zugelassen worden ist, ist nach dem 31. Dezember 2028 nach demselben
+Absatz zulässig, wenn durch die Änderung die Grundfläche oder Höhe der
+Anlage nicht oder nur insoweit vergrößert wird, als dies zur Erfüllung
+rechtlicher Anforderungen an die Anlage erforderlich ist.
 
 
 #### § 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 5 G v. 17.7.2023 I Nr. 190
+:   Art. 6 G v. 20.12.2023 I Nr. 389
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

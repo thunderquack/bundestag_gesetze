@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 26.7.2023 I Nr. 203, dieser geändert durch Art. 3 G v. 16.8.2023 I Nr. 218
 
+Änderung durch
+:   Art. 13 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Übersicht
 
@@ -619,8 +622,10 @@ Regelungen zu treffen, wonach die Vollstreckungsbehörde dem
 Verurteilten gestatten kann, die Vollstreckung einer
 Ersatzfreiheitsstrafe nach § 43 des Strafgesetzbuches durch freie
 Arbeit abzuwenden. Soweit der Verurteilte die freie Arbeit geleistet
-hat, ist die Ersatzfreiheitsstrafe erledigt. Die Arbeit muß
-unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken
+hat, ist die Ersatzfreiheitsstrafe erledigt. In der Rechtsverordnung
+ist die Zahl der Arbeitsstunden zu bestimmen, die geleistet werden
+müssen, um einen Tag Ersatzfreiheitsstrafe zu erledigen. Die Arbeit
+muß unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken
 dienen. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -1428,6 +1433,19 @@ nach dem 3. Oktober 1990 ergangen sind, werden aufgehoben:
 
 (2) Die Verfahren, die den in Absatz 1 genannten Urteilen zugrunde
 liegen, werden eingestellt.
+
+
+### Art 316o Übergangsvorschrift zum Gesetz zur Überarbeitung des Sanktionenrechts – Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt
+
+(1) Für die Vollstreckung von vor dem 1. Oktober 2023 rechtskräftig
+angeordneten Unterbringungen nach § 63 oder § 64 des Strafgesetzbuches
+gilt § 67 des Strafgesetzbuches in der bis zu diesem Tag geltenden
+Fassung. Artikel 313 Absatz 2 gilt entsprechend.
+
+(2) Für die Vollstreckung von vor dem 1. Februar 2024 rechtskräftig
+verhängten Geldstrafen gelten § 43 des Strafgesetzbuches und § 11 des
+Wehrstrafgesetzes jeweils in der bis zu diesem Tag geltenden Fassung.
+Artikel 313 Absatz 2 gilt entsprechend.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht

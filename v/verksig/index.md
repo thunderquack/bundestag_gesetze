@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.1968 I 1082;
 
 Zuletzt geändert durch
-:   Art. 38 G v. 2.3.2023 I Nr. 56
+:   Art. 34 Abs. 10 G v. 22.12.2023 I Nr. 411
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
@@ -500,7 +500,7 @@ Artikels 80a des Grundgesetzes angewandt werden.
 
 (1) Zur Durchführung dieses Gesetzes sowie zur Vorbereitung und
 Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes haben
-alle natürlichen und juristischen Personen und nichtrechtsfähigen
+alle natürlichen und juristischen Personen und sonstigen
 Personenvereinigungen den zuständigen Behörden auf Verlangen die
 erforderlichen Auskünfte zu erteilen. Die Auskunftspflicht erstreckt
 sich auch auf Planungen für die Herstellung oder Änderung von

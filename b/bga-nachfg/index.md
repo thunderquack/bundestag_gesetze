@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1416
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 1 G v. 27.9.2021 I 4530
+:   Art. 2 G v. 22.3.2024 I Nr. 102
 
 
 ## - - Errichtung von Bundesinstituten, Aufgabenstellung, Kostenerhebung, Dienstverhältnisse von Beamten und Arbeitnehmern
@@ -61,7 +61,12 @@ Gebieten:
 
 
 6.  zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur
-    Risikoabwehr bei Medizinprodukten.
+    Risikoabwehr bei Medizinprodukten,
+
+
+7.  Koordinierung des Datenzugangs im Gesundheitswesen für die
+    forschungsbezogene Zusammenführung und Verknüpfung von
+    Gesundheitsdaten.
 
 
 

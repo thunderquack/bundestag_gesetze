@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 375
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 14 G v. 3.12.2015 I 2178
-
-Änderung durch
-:   Art. 2 V v. 25.11.2021 I 4970 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 25.11.2021 I 4970
 
 [^f771804_01_BJNR037500009]:     Diese Verordnung dient der Umsetzung der Richtlinie 91/496/EWG des
     Rates vom 15. Juli 1991 zur Festlegung von Grundregeln für die
@@ -662,7 +659,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 12. einer Vorschrift des Artikels 6 Abs. 3 in Verbindung mit Anhang I
-    Kapitel I Nummer 2 Buchstabe a, c, e, f oder g Kapitel II Nr. 1.1
+    Kapitel I Nummer 2 Buchstabe a, c, e, f oder g, Kapitel II Nr. 1.1
     Buchstabe b, Nr. 1.3, 2.1 oder 5.1, Kapitel III Nr. 1.3 Buchstabe a
     Halbsatz 2, Nr. 1.4, 1.11 Satz 3, Nr. 1.12 Buchstabe a, c, d, e oder
     g, Nr. 2.2 Satz 1, Nr. 2.3, 2.4 oder 2.5 in Verbindung mit Nr. 1.10,

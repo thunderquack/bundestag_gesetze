@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.6.2023 I Nr. 154
+:   Art. 30 G v. 27.3.2024 I Nr. 108
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -2190,6 +2190,54 @@ Rechnungslegungsunterlagen sowie Unternehmensberichte für das vor dem
 1\. Januar 2022 beginnende Geschäftsjahr.
 
 
+## Fünfzigster Abschnitt - Übergangsvorschriften zum Personengesellschaftsrechtsmodernisierungsgesetz
+
+
+
+### Art 89
+
+(1) Ist eine Gesellschaft bürgerlichen Rechts nach § 162 Absatz 1 Satz
+2 des Handelsgesetzbuchs in der bis einschließlich 1. Januar 2024
+geltenden Fassung als Kommanditist oder in entsprechender Anwendung
+des § 162 Absatz 1 Satz 2 des Handelsgesetzbuchs in der bis 1. Januar
+2024 geltenden Fassung als persönlich haftender Gesellschafter einer
+Kommanditgesellschaft oder als Gesellschafter einer offenen
+Handelsgesellschaft im Handelsregister eingetragen, findet eine
+Eintragung von späteren Änderungen in der Zusammensetzung der
+Gesellschafter nicht statt. In diesem Fall ist die Gesellschaft
+bürgerlichen Rechts nach den durch das
+Personengesellschaftsrechtsmodernisierungsgesetz vom 10. August 2021
+(BGBl. I S. 3436) geänderten Vorschriften zur Eintragung in das
+Gesellschaftsregister anzumelden, bevor sie als Kommanditist oder
+Gesellschafter nach den durch das
+Personengesellschaftsrechtsmodernisierungsgesetz geänderten
+Vorschriften mit der Maßgabe zur Eintragung in das Handelsregister
+angemeldet wird, dass die Anmeldung sowohl von sämtlichen bislang im
+Handelsregister eingetragenen Gesellschaftern als auch von der im
+Gesellschaftsregister eingetragenen Gesellschaft bürgerlichen Rechts
+zu bewirken ist. In der Anmeldung zum Handelsregister ist zu
+versichern, dass die zur Eintragung in das Handelsregister angemeldete
+Gesellschaft bürgerlichen Rechts dieselbe ist wie die bislang im
+Handelsregister eingetragene Gesellschaft bürgerlichen Rechts.
+
+(2) Ist für einen Kommanditisten, der noch nach § 40 Nummer 5
+Buchstabe c der Handelsregisterverordnung in der bis 31. Dezember 2023
+geltenden Fassung im Handelsregister eingetragen worden ist, eine
+Änderung seiner Haftsumme nach den durch das
+Personengesellschaftsrechtsmodernisierungsgesetz geänderten
+Vorschriften zur Eintragung in das Handelsregister anzumelden, hat das
+Gericht anlässlich dieser Eintragung von Amts wegen in entsprechender
+Anwendung von § 17 Absatz 1 der Handelsregisterverordnung hinsichtlich
+der die anderen Kommanditisten betreffenden Eintragungen das Wort
+„Einlage“ durch das Wort „Haftsumme“ zu ersetzen. Das Gleiche gilt,
+wenn ein Kommanditist nach den durch das
+Personengesellschaftsrechtsmodernisierungsgesetz geänderten
+Vorschriften zur Eintragung im Handelsregister anzumelden ist, während
+die anderen Kommanditisten nach § 40 Nummer 5 Buchstabe c der
+Handelsregisterverordnung in der bis 31. Dezember 2023 geltenden
+Fassung bereits im Handelsregister eingetragen worden sind.
+
+
 ## Einundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
 
 
@@ -2224,4 +2272,43 @@ Satz 1 und Absatz 5 Satz 8 sowie § 335a Absatz 3 Satz 4 des
 Handelsgesetzbuchs in der bis einschließlich 21. Juni 2023 geltenden
 Fassung sind letztmals anzuwenden auf Wiedereinsetzungen in den
 vorigen Stand, die vor dem 22. Juni 2023 gewährt werden.
+
+
+## Zweiundfünfzigster Abschnitt - Übergangsvorschrift zum Mindestbesteuerungsrichtlinie-Umsetzungsgesetz
+
+
+
+### Art 91
+
+(1) § 285 Nummer 30a, § 288 Absatz 1 Nummer 1 und § 314 Absatz 1
+Nummer 22a des Handelsgesetzbuchs in der ab dem 28. Dezember 2023
+geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse für
+ein nach dem 30. Dezember 2023 endendes Geschäftsjahr anzuwenden.
+
+(2) § 274 Absatz 3 und § 306 Satz 5 des Handelsgesetzbuchs in der ab
+dem 28. Dezember 2023 geltenden Fassung sind erstmals auf Jahres- und
+Konzernabschlüsse für ein nach dem 28. Dezember 2023 endendes
+Geschäftsjahr anzuwenden. § 274 Absatz 3 und § 306 Satz 5 des
+Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung
+dürfen bereits auf Jahres- und Konzernabschlüsse für ein nach dem 31.
+Dezember 2022 endendes Geschäftsjahr angewendet werden, sofern die
+Jahres- und Konzernabschlüsse bis zum Ablauf des 28. Dezember 2023
+noch nicht festgestellt beziehungsweise gebilligt wurden und Angaben
+nach § 285 Nummer 30a und § 314 Absatz 1 Nummer 22a des
+Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung
+gemacht werden.
+
+
+## Dreiundfünfzigster Abschnitt - Übergangsvorschrift zum Wachstumschancengesetz
+
+
+
+### Art 92
+
+§ 241a Satz 1 des Handelsgesetzbuchs in der ab dem 28. März 2024
+geltenden Fassung ist erstmals auf das nach dem 31. Dezember 2023
+beginnende Geschäftsjahr anzuwenden. § 241a Satz 1 des
+Handelsgesetzbuchs in der bis zum 28. März 2024 geltenden Fassung ist
+letztmals auf das vor dem 1. Januar 2024 beginnende Geschäftsjahr
+anzuwenden.
 

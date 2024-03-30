@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 9 V v. 30.10.2023 I Nr. 290
+:   Art. 9 G v. 21.2.2024 I Nr. 54
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -205,23 +205,26 @@ Ausländer sind:
 
 
 Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer
-Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung
-ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4
-werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente
-ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein
-Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften
-Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere
-nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben; in begründeten
-Fällen können sie auch mit Chip ausgegeben werden. Passersatzpapiere
-nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch
-bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser
-Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des
-zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein
-aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer
-3 und 4, die an heimatlose Ausländer nach dem Gesetz über die
-Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt
-werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren
-ausgestellt werden.
+Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber
+im Besitz eines Aufenthaltstitels nach § 9 oder 9a des
+Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU
+ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu
+zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig.
+Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von
+Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben,
+deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht
+überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr
+können in begründeten Fällen abweichend von Absatz 4 Satz 1
+Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben
+werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein
+Jahr gültig, längstens jedoch bis zur Vollendung des zwölften
+Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor
+Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um
+jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild
+einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an
+heimatlose Ausländer nach dem Gesetz über die Rechtsstellung
+heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit
+einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten
 neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung,
@@ -750,12 +753,18 @@ Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im
 grenzüberschreitenden Straßenverkehr, die lediglich Güter oder
 Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter
 oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1
-beträgt für Tätigkeiten nach § 15a und § 30 Nummer 1 der
+beträgt für Tätigkeiten nach § 30 Nummer 1 der
 Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige
 Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung und nach
 den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen
 ohne den nach § 4a Absatz 1 Satz 1 des Aufenthaltsgesetzes
 erforderlichen Aufenthaltstitel ausgeübt werden.
+
+(3) Absatz 1 findet keine Anwendung auf Beschäftigungen für eine Dauer
+von bis zu 90 Tagen innerhalb von 180 Tagen, zu deren Ausübung die
+Bundesagentur für Arbeit eine Arbeitserlaubnis nach § 15a Absatz 1
+Nummer 1 oder § 15d Absatz 1 Satz 1 Nummer 1 der
+Beschäftigungsverordnung erteilt hat.
 
 
 ##### § 17a Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
@@ -1442,11 +1451,11 @@ andere Auslandsvertretung zur Visumerteilung ermächtigt hat.
 
 #### § 38a Voraussetzungen für die Anerkennung von Forschungseinrichtungen
 
-(1) Eine öffentliche oder private Einrichtung soll auf Antrag zum
-Abschluss von Aufnahmevereinbarungen oder von entsprechenden Verträgen
-nach § 18d Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes anerkannt
-werden, wenn sie im Inland Forschung betreibt. Forschung ist jede
-systematisch betriebene schöpferische und rechtlich zulässige
+(1) Eine überwiegend privat finanzierte Einrichtung soll auf Antrag
+zum Abschluss von Aufnahmevereinbarungen oder von entsprechenden
+Verträgen nach § 18d Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes
+anerkannt werden, wenn sie im Inland Forschung betreibt. Forschung ist
+jede systematisch betriebene schöpferische und rechtlich zulässige
 Tätigkeit, die den Zweck verfolgt, den Wissensstand zu erweitern,
 einschließlich der Erkenntnisse über den Menschen, die Kultur und die
 Gesellschaft, oder solches Wissen einzusetzen, um neue
@@ -1479,13 +1488,11 @@ enthalten:
 
 
 
-Bei öffentlichen Einrichtungen sind die Angaben zu Satz 2 Nummer 4 und
-5 nicht erforderlich. Im Antragsverfahren sind amtlich vorgeschriebene
-Vordrucke, Eingabemasken im Internet oder Dateiformate, die mit
-allgemein verbreiteten Datenverarbeitungsprogrammen erzeugt werden
-können, zu verwenden. Das Bundesamt für Migration und Flüchtlinge
-stellt die jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur
-Verfügung.
+Im Antragsverfahren sind amtlich vorgeschriebene Vordrucke,
+Eingabemasken im Internet oder Dateiformate, die mit allgemein
+verbreiteten Datenverarbeitungsprogrammen erzeugt werden können, zu
+verwenden. Das Bundesamt für Migration und Flüchtlinge stellt die
+jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur Verfügung.
 
 (3) Die Anerkennung kann von der Abgabe einer allgemeinen Erklärung
 nach § 18d Absatz 3 des Aufenthaltsgesetzes und dem Nachweis der
@@ -1493,9 +1500,8 @@ hinreichenden finanziellen Leistungsfähigkeit zur Erfüllung einer
 solchen Verpflichtung abhängig gemacht werden, wenn die Tätigkeit der
 Forschungseinrichtung nicht überwiegend aus öffentlichen Mitteln
 finanziert wird. Das Bundesamt für Migration und Flüchtlinge kann auf
-Antrag feststellen, dass eine Forschungseinrichtung überwiegend aus
-öffentlichen Mitteln finanziert wird oder dass die Durchführung eines
-bestimmten Forschungsprojekts im öffentlichen Interesse liegt. Eine
+Antrag feststellen, dass die Durchführung eines bestimmten
+Forschungsprojekts im besonderen öffentlichen Interesse liegt. Eine
 Liste der wirksamen Feststellungen nach Satz 2 kann das Bundesamt für
 Migration und Flüchtlinge im Internet veröffentlichen.
 
@@ -1505,7 +1511,9 @@ Migration und Flüchtlinge im Internet veröffentlichen.
 anerkannte Hochschulen noch für andere Forschungseinrichtungen, deren
 Tätigkeit überwiegend aus öffentlichen Mitteln finanziert wird. Diese
 Hochschulen und Forschungseinrichtungen gelten als anerkannte
-Forschungseinrichtungen.
+Forschungseinrichtungen. Das Bundesamt für Migration und Flüchtlinge
+kann auf Ersuchen einer Forschungseinrichtung feststellen, dass diese
+überwiegend aus öffentlichen Mitteln finanziert wird.
 
 (5) Eine anerkannte Forschungseinrichtung ist verpflichtet, dem
 Bundesamt für Migration und Flüchtlinge unverzüglich Änderungen der in
@@ -1568,7 +1576,7 @@ Ausländerbehörde schriftlich oder elektronisch mitzuteilen, wenn
 
 
 2.  ein Ausländer seine Tätigkeit für ein Forschungsvorhaben, für das sie
-    eine Aufnahmevereinbarung abgeschlossen hat, beendet.
+    eine Aufnahmevereinbarung abgeschlossen hat, vorzeitig beendet.
 
 
 
@@ -1713,14 +1721,18 @@ folgende Angaben enthalten:
 
 3.  die Angaben zum wesentlichen Inhalt des Rechtsverhältnisses, das
     zwischen der Forschungseinrichtung und dem Ausländer begründet werden
-    soll, wenn ihm eine Aufenthaltserlaubnis nach § 18d des
-    Aufenthaltsgesetzes erteilt wird, insbesondere zum Umfang der
+    soll, wenn ihm ein Aufenthaltstitel nach § 18d oder § 18f des
+    Aufenthaltsgesetzes erteilt wird oder wenn die aufnehmende deutsche
+    Forschungseinrichtung eine kurzfristige Forschermobilität nach § 18e
+    des Aufenthaltsgesetzes mitteilt, insbesondere zum Umfang der
     Tätigkeit des Ausländers und zum Gehalt,
 
 
 4.  eine Bestimmung, wonach die Aufnahmevereinbarung oder der
-    entsprechende Vertrag unwirksam wird, wenn dem Ausländer keine
-    Aufenthaltserlaubnis nach § 18d des Aufenthaltsgesetzes erteilt wird,
+    entsprechende Vertrag unwirksam wird, wenn dem Ausländer kein
+    Aufenthaltstitel nach § 18d oder § 18f des Aufenthaltsgesetzes erteilt
+    wird oder wenn die kurzfristige Forschermobilität nach § 18e des
+    Aufenthaltsgesetzes abgelehnt wird,
 
 
 5.  Beginn und voraussichtlichen Abschluss des Forschungsvorhabens sowie
@@ -1878,12 +1890,15 @@ verlängern lassen, wenn
 
 
 
-11. er vor Ablauf der Arbeitserlaubnis oder der Arbeitserlaubnisse zum
-    Zweck der Saisonbeschäftigung, die ihm nach § 15a Absatz 1 Satz 1
+11. er vor Ablauf der Arbeitserlaubnis oder der Arbeitserlaubnisse, die
+    ihm nach § 15a Absatz 1 Satz 1 Nummer 1 oder § 15d Absatz 1 Satz 1
     Nummer 1 der Beschäftigungsverordnung erteilt wurde oder wurden, einen
-    Aufenthaltstitel zum Zweck der Saisonbeschäftigung bei demselben oder
-    einem anderen Arbeitgeber beantragt; dieser Aufenthaltstitel gilt bis
-    zur Entscheidung der Ausländerbehörde als erteilt.
+    Aufenthaltstitel zum Zweck der Beschäftigung bei demselben oder einem
+    anderen Arbeitgeber oder zum Zweck der Ausbildung beantragt; wird der
+    Aufenthaltstitel nach § 19c Absatz 1 des Aufenthaltsgesetzes in
+    Verbindung mit § 15a oder § 15d der Beschäftigungsverordnung
+    beantragt, gilt dieser bis zur Entscheidung der Ausländerbehörde als
+    erteilt.
 
 
 
@@ -2429,7 +2444,7 @@ von 10 Euro zu erheben.
         Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4
         Satz 1 des Aufenthaltsgesetzes sind,
 
-    *   60 Euro,
+    *   70 Euro,
 
 
 *    *   1d.
@@ -3535,7 +3550,7 @@ Verantwortung auf die Bundesrepublik Deutschland zu erfolgen.
 
 #### § 60 Lichtbild
 
-(1) Lichtbilder müssen den in § 5 der Passverordnung vom 19. Oktober
+(1) Lichtbilder müssen den in § 4 der Passverordnung vom 19. Oktober
 2007 in der jeweils geltenden Fassung festgelegten Anforderungen
 entsprechen und den Ausländer zweifelsfrei erkennen lassen. Sie müssen
 die Person ohne Gesichts- und Kopfbedeckung zeigen. Die zuständige

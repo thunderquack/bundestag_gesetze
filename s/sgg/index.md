@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 8.10.2023 I Nr. 272
+:   Art. 3 G v. 22.3.2024 I Nr. 105
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -149,11 +149,10 @@ Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
 einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
 Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
-Angelegenheiten des sozialen Entschädigungsrechts (Recht der sozialen
-Entschädigung bei Gesundheitsschäden) und des Schwerbehindertenrechts
-gebildet. Für Angelegenheiten der Knappschaftsversicherung
-einschließlich der Unfallversicherung für den Bergbau können eigene
-Kammern gebildet werden.
+Angelegenheiten des sozialen Entschädigungsrechts und des
+Schwerbehindertenrechts gebildet. Für Angelegenheiten der
+Knappschaftsversicherung einschließlich der Unfallversicherung für den
+Bergbau können eigene Kammern gebildet werden.
 
 (2) Für Streitigkeiten aufgrund der Beziehungen zwischen Krankenkassen
 und Vertragsärzten, Psychotherapeuten, Vertragszahnärzten
@@ -200,10 +199,10 @@ bildenden Ausschuss auf Lebenszeit ernannt.
 
 (2) Der Ausschuss ist von der nach Landesrecht zuständigen Stelle zu
 errichten. Ihm sollen in angemessenem Verhältnis Vertreter der
-Versicherten, der Arbeitgeber, der Versorgungsberechtigten und der mit
-dem sozialen Entschädigungsrecht oder der Teilhabe behinderter
-Menschen vertrauten Personen sowie der Sozialgerichtsbarkeit
-angehören.
+Versicherten, der Arbeitgeber, der Berechtigten nach dem Vierzehnten
+Buch Sozialgesetzbuch und der mit dem sozialen Entschädigungsrecht
+oder dem Recht der Teilhabe von Menschen mit Behinderungen vertrauten
+Personen sowie der Sozialgerichtsbarkeit angehören.
 
 (3) Bei den Sozialgerichten können Richter auf Probe und Richter kraft
 Auftrags verwendet werden.
@@ -243,14 +242,15 @@ Versorgungszentren angestellte Ärzte, Zahnärzte und Psychotherapeuten,
 die Mitglied der Kassenärztlichen oder Kassenzahnärztlichen
 Vereinigung sind.
 
-(4) In den Kammern für Angelegenheiten des sozialen
+(4) In den Kammern für Angelegenheiten des Sozialen
 Entschädigungsrechts und des Schwerbehindertenrechts wirken je ein
-ehrenamtlicher Richter aus dem Kreis der mit dem sozialen
-Entschädigungsrecht oder dem Recht der Teilhabe behinderter Menschen
-vertrauten Personen und dem Kreis der Versorgungsberechtigten, der
-behinderten Menschen im Sinne des Neunten Buches Sozialgesetzbuch und
-der Versicherten mit; dabei sollen Hinterbliebene von
-Versorgungsberechtigten in angemessener Zahl beteiligt werden.
+ehrenamtlicher Richter aus dem Kreis der mit dem Sozialen
+Entschädigungsrecht oder dem Recht der Teilhabe von Menschen mit
+Behinderungen vertrauten Personen und dem Kreis der Berechtigten nach
+dem Vierzehnten Buch Sozialgesetzbuch, der Menschen mit Behinderungen
+im Sinne des Neunten Buches Sozialgesetzbuch und der Versicherten mit;
+dabei sollen Hinterbliebene von Berechtigten nach dem Vierzehnten Buch
+Sozialgesetzbuch in angemessener Zahl beteiligt werden.
 
 (5) In den Kammern für Angelegenheiten der Sozialhilfe einschließlich
 der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch
@@ -284,7 +284,7 @@ weitere ehrenamtliche Richter nur für ein Jahr berufen.
 Angelegenheiten der Sozialversicherung, der Arbeitsförderung, der
 Grundsicherung für Arbeitsuchende, der Sozialhilfe einschließlich der
 Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und
-des Asylbewerberleistungsgesetzes, des sozialen Entschädigungsrechts
+des Asylbewerberleistungsgesetzes, des Sozialen Entschädigungsrechts
 und des Schwerbehindertenrechts zu berufen sind, bestimmt sich nach
 Landesrecht; die Zahl der ehrenamtlichen Richter für die Kammern für
 Angelegenheiten der Knappschaftsversicherung und für Angelegenheiten
@@ -296,10 +296,11 @@ Verhältnis zu der Zahl der im Gerichtsbezirk ansässigen Versicherten
 der einzelnen Versicherungszweige Rücksicht zu nehmen.
 
 (6) Die ehrenamtlichen Richter für die Kammern für Angelegenheiten des
-sozialen Entschädigungsrechts und des Schwerbehindertenrechts sind in
+Sozialen Entschädigungsrechts und des Schwerbehindertenrechts sind in
 angemessenem Verhältnis zu der Zahl der von den Vorschlagsberechtigten
-vertretenen Versorgungsberechtigten, behinderten Menschen im Sinne des
-Neunten Buches Sozialgesetzbuch und Versicherten zu berufen.
+vertretenen Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch,
+der Menschen mit Behinderungen im Sinne des Neunten Buches
+Sozialgesetzbuch und der Versicherten zu berufen.
 
 
 #### § 14
@@ -323,25 +324,26 @@ nach Bezirken von den Kassenärztlichen und Kassenzahnärztlichen
 Vereinigungen und von den Zusammenschlüssen der Krankenkassen
 aufgestellt.
 
-(3) Für die Kammern für Angelegenheiten des sozialen
+(3) Für die Kammern für Angelegenheiten des Sozialen
 Entschädigungsrechts und des Schwerbehindertenrechts werden die
-Vorschlagslisten für die mit dem sozialen Entschädigungsrecht oder dem
-Recht der Teilhabe behinderter Menschen vertrauten Personen von den
-Landesversorgungsämtern oder nach Maßgabe des Landesrechts von den
-Stellen aufgestellt, denen deren Aufgaben übertragen worden sind oder
-die für die Durchführung des Bundesversorgungsgesetzes oder des Rechts
-der Teilhabe behinderter Menschen zuständig sind. Die Vorschlagslisten
-für die Versorgungsberechtigten, die behinderten Menschen und die
-Versicherten werden aufgestellt von den im Gerichtsbezirk vertretenen
-Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche
-Interessenvertretung, die Beratung und Vertretung der
-Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der
-behinderten Menschen wesentlich umfassen und die unter
-Berücksichtigung von Art und Umfang ihrer bisherigen Tätigkeit sowie
-ihres Mitgliederkreises die Gewähr für eine sachkundige Erfüllung
-dieser Aufgaben bieten. Vorschlagsberechtigt nach Satz 2 sind auch die
-Gewerkschaften und selbständige Vereinigungen von Arbeitnehmern mit
-sozial- oder berufspolitischer Zwecksetzung.
+Vorschlagslisten für die mit dem Sozialen Entschädigungsrecht oder dem
+Recht der Teilhabe von Menschen mit Behinderungen vertrauten Personen
+von den Stellen aufgestellt, die für die Durchführung des Vierzehnten
+Buches Sozialgesetzbuch oder des Rechts der Teilhabe von Menschen mit
+Behinderungen zuständig sind oder denen nach Maßgabe des Landesrechts
+deren Aufgaben übertragen worden sind. Die Vorschlagslisten für die
+Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch, die Menschen
+mit Behinderungen und die Versicherten werden aufgestellt von den im
+Gerichtsbezirk vertretenen Vereinigungen, deren satzungsgemäße
+Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und
+Vertretung der Leistungsempfänger nach dem Sozialen
+Entschädigungsrecht oder der Menschen mit Behinderungen wesentlich
+umfassen und die unter Berücksichtigung von Art und Umfang ihrer
+bisherigen Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine
+sachkundige Erfüllung dieser Aufgaben bieten. Vorschlagsberechtigt
+nach Satz 2 sind auch die Gewerkschaften und selbständige
+Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer
+Zwecksetzung.
 
 (4) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
 Kammern für Angelegenheiten der Sozialhilfe einschließlich der
@@ -688,7 +690,12 @@ Rechtszug über
 
 4.  Streitigkeiten über Entscheidungen des Bundeskartellamts, die die
     freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften
-    Buches Sozialgesetzbuch betreffen.
+    Buches Sozialgesetzbuch betreffen,
+
+
+5.  Streitigkeiten betreffend die Veröffentlichung des
+    Transparenzverzeichnisses nach § 135d des Fünften Buches
+    Sozialgesetzbuch.
 
 
 
@@ -765,7 +772,7 @@ der Sozialversicherung, der Arbeitsförderung einschließlich der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
 einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
 Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
-Angelegenheiten des sozialen Entschädigungsrechts und des
+Angelegenheiten des Sozialen Entschädigungsrechts und des
 Schwerbehindertenrechts gebildet. Für Angelegenheiten der
 Knappschaftsversicherung einschließlich der Unfallversicherung für den
 Bergbau sowie für Verfahren wegen eines überlangen Gerichtsverfahrens
@@ -894,15 +901,16 @@ einheitlichen Rechtsprechung erforderlich ist.
 Berufsrichter der Senate, in denen der Präsident nicht den Vorsitz
 führt, je zwei ehrenamtlichen Richtern aus dem Kreis der Versicherten
 und dem Kreis der Arbeitgeber sowie je einem ehrenamtlichen Richter
-aus dem Kreis der mit dem sozialen Entschädigungsrecht oder der
-Teilhabe behinderter Menschen vertrauten Personen und dem Kreis der
-Versorgungsberechtigten und der behinderten Menschen im Sinne des
-Neunten Buches Sozialgesetzbuch. Legt der Senat für Angelegenheiten
-des Vertragsarztrechts vor oder soll von dessen Entscheidung
-abgewichen werden, gehören dem Großen Senat außerdem je ein
-ehrenamtlicher Richter aus dem Kreis der Krankenkassen und dem Kreis
-der Vertragsärzte, Vertragszahnärzte und Psychotherapeuten an. Legt
-der Senat für Angelegenheiten des § 51 Abs. 1 Nr. 6a vor oder soll von
+aus dem Kreis der mit dem sozialen Entschädigungsrecht oder dem Recht
+der Teilhabe von Menschen mit Behinderungen vertrauten Personen und
+dem Kreis der Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch
+und Menschen mit Behinderungen im Sinne des Neunten Buches
+Sozialgesetzbuch. Legt der Senat für Angelegenheiten des
+Vertragsarztrechts vor oder soll von dessen Entscheidung abgewichen
+werden, gehören dem Großen Senat außerdem je ein ehrenamtlicher
+Richter aus dem Kreis der Krankenkassen und dem Kreis der
+Vertragsärzte, Vertragszahnärzte und Psychotherapeuten an. Legt der
+Senat für Angelegenheiten des § 51 Abs. 1 Nr. 6a vor oder soll von
 dessen Entscheidung abgewichen werden, gehören dem Großen Senat
 außerdem zwei ehrenamtliche Richter aus dem Kreis der von der
 Bundesvereinigung der kommunalen Spitzenverbände Vorgeschlagenen an.
@@ -971,9 +979,9 @@ von den Zusammenschlüssen der Krankenkassen, die sich über das
 Bundesgebiet erstrecken, aufgestellt.
 
 (3) Die ehrenamtlichen Richter für die Senate für Angelegenheiten des
-sozialen Entschädigungsrechts und des Schwerbehindertenrechts werden
+Sozialen Entschädigungsrechts und des Schwerbehindertenrechts werden
 auf Vorschlag der obersten Verwaltungsbehörden der Länder sowie der in
-§ 14 Abs. 3 Satz 2 und 3 genannten Vereinigungen, die sich über das
+§ 14 Absatz 3 Satz 2 und 3 genannten Vereinigungen, die sich über das
 Bundesgebiet erstrecken, berufen.
 
 (4) Die ehrenamtlichen Richter für die Senate für Angelegenheiten der
@@ -1043,10 +1051,7 @@ ehrenamtlichen Richter beschließt.
 5.  in sonstigen Angelegenheiten der Sozialversicherung,
 
 
-6.  in Angelegenheiten des sozialen Entschädigungsrechts mit Ausnahme der
-    Streitigkeiten aufgrund der §§ 25 bis 27j des
-    Bundesversorgungsgesetzes (Kriegsopferfürsorge), auch soweit andere
-    Gesetze die entsprechende Anwendung dieser Vorschriften vorsehen,
+6.  in Angelegenheiten des Sozialen Entschädigungsrechts,
 
 
 6a. in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten
@@ -1141,7 +1146,7 @@ Verwaltungsakt nicht zu ergehen hatte.
 
 3.  die Feststellung, ob eine Gesundheitsstörung oder der Tod die Folge
     eines Arbeitsunfalls, einer Berufskrankheit oder einer Schädigung im
-    Sinne des Bundesversorgungsgesetzes ist,
+    Sinne des Vierzehnten Buches Sozialgesetzbuch ist,
 
 
 4.  die Feststellung der Nichtigkeit eines Verwaltungsakts,
@@ -1227,7 +1232,7 @@ Beschäftigungsverhältnis, so kann er auch vor dem für den
 Beschäftigungsort zuständigen Sozialgericht klagen. Klagt eine
 Körperschaft oder Anstalt des öffentlichen Rechts, in Angelegenheiten
 nach dem Elften Buch Sozialgesetzbuch ein Unternehmen der privaten
-Pflegeversicherung oder in Angelegenheiten des sozialen
+Pflegeversicherung oder in Angelegenheiten des Sozialen
 Entschädigungsrechts oder des Schwerbehindertenrechts ein Land, so ist
 der Sitz oder Wohnsitz oder Aufenthaltsort des Beklagten maßgebend,
 wenn dieser eine natürliche Person oder eine juristische Person des
@@ -1723,12 +1728,12 @@ für Behörden handeln ihre gesetzlichen Vertreter und Vorstände.
 (4) Für Entscheidungsgremien im Sinne von § 70 Nr. 4 handelt der
 Vorsitzende.
 
-(5) In Angelegenheiten des sozialen Entschädigungsrechts und des
-Schwerbehindertenrechts wird das Land durch das Landesversorgungsamt
-oder nach Maßgabe des Landesrechts durch die Stelle vertreten, der
-dessen Aufgaben übertragen worden sind oder die für die Durchführung
-des Bundesversorgungsgesetzes oder des Rechts der Teilhabe behinderter
-Menschen zuständig ist.
+(5) In Angelegenheiten des Sozialen Entschädigungsrechts und des
+Schwerbehindertenrechts wird das Land durch die Stelle vertreten, die
+für die Durchführung des Vierzehnten Buches Sozialgesetzbuch oder des
+Rechts der Teilhabe von Menschen mit Behinderungen zuständig ist oder
+der nach Maßgabe des Landesrechts diese Aufgaben übertragen worden
+sind.
 
 (6) Die §§ 53 bis 56 der Zivilprozeßordnung gelten entsprechend.
 
@@ -1810,8 +1815,8 @@ vertretungsbefugt nur
 
 8.  Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche
     Interessenvertretung, die Beratung und Vertretung der
-    Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der
-    behinderten Menschen wesentlich umfassen und die unter
+    Leistungsempfänger nach dem Sozialen Entschädigungsrecht oder der
+    Menschen mit Behinderungen wesentlich umfassen und die unter
     Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres
     Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung
     bieten, für ihre Mitglieder,
@@ -1955,7 +1960,7 @@ und die Hauptintervention gelten entsprechend.
 
 (1) Das Gericht kann von Amts wegen oder auf Antrag andere, deren
 berechtigte Interessen durch die Entscheidung berührt werden,
-beiladen. In Angelegenheiten des sozialen Entschädigungsrechts ist die
+beiladen. In Angelegenheiten des Sozialen Entschädigungsrechts ist die
 Bundesrepublik Deutschland auf Antrag beizuladen.
 
 (2) Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt,
@@ -1965,7 +1970,7 @@ anderer Versicherungsträger, ein Träger der Grundsicherung für
 Arbeitsuchende, ein Träger der Sozialhilfe einschließlich der
 Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, ein Träger
 der Leistungen nach dem Asylbewerberleistungsgesetz oder in
-Angelegenheiten des sozialen Entschädigungsrechts ein Land als
+Angelegenheiten des Sozialen Entschädigungsrechts ein Land als
 leistungspflichtig in Betracht kommt, so sind sie beizuladen.
 
 (2a) Kommt nach Absatz 2 erste Alternative die Beiladung von mehr als
@@ -2007,7 +2012,7 @@ er nur dann stellen, wenn eine Beiladung nach Absatz 2 vorliegt.
 Arbeitsuchende, ein Träger der Sozialhilfe einschließlich der
 Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, ein Träger
 der Leistungen nach dem Asylbewerberleistungsgesetz oder in
-Angelegenheiten des sozialen Entschädigungsrechts ein Land kann nach
+Angelegenheiten des Sozialen Entschädigungsrechts ein Land kann nach
 Beiladung verurteilt werden.
 
 
@@ -2087,9 +2092,11 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 (1) Der Widerspruch ist binnen eines Monats, nachdem der
 Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
 in elektronischer Form nach § 36a Absatz 2 des Ersten Buches
-Sozialgesetzbuch oder zur Niederschrift bei der Stelle einzureichen,
-die den Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe
-im Ausland drei Monate.
+Sozialgesetzbuch, schriftformersetzend nach § 36a Absatz 2a des Ersten
+Buches Sozialgesetzbuch und § 9a Absatz 5 des Onlinezugangsgesetzes
+oder zur Niederschrift bei der Stelle einzureichen, die den
+Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im
+Ausland drei Monate.
 
 (2) Die Frist zur Erhebung des Widerspruchs gilt auch dann als
 gewahrt, wenn die Widerspruchsschrift bei einer anderen inländischen
@@ -2194,7 +2201,7 @@ sowie bei Verwaltungsakten mit Drittwirkung.
     Nebenkosten,
 
 
-2.  in Angelegenheiten des sozialen Entschädigungsrechts und der
+2.  in Angelegenheiten des Sozialen Entschädigungsrechts und der
     Bundesagentur für Arbeit bei Verwaltungsakten, die eine laufende
     Leistung entziehen oder herabsetzen,
 
@@ -2225,7 +2232,7 @@ erfolgen, wenn ernstliche Zweifel an der Rechtmäßigkeit des
 angegriffenen Verwaltungsaktes bestehen oder wenn die Vollziehung für
 den Abgaben- oder Kostenpflichtigen eine unbillige, nicht durch
 überwiegende öffentliche Interessen gebotene Härte zur Folge hätte. In
-den Fällen des Absatzes 2 Nr. 2 ist in Angelegenheiten des sozialen
+den Fällen des Absatzes 2 Nr. 2 ist in Angelegenheiten des Sozialen
 Entschädigungsrechts die nächsthöhere Behörde zuständig, es sei denn,
 diese ist eine oberste Bundes- oder eine oberste Landesbehörde. Die
 Entscheidung kann mit Auflagen versehen oder befristet werden. Die
@@ -2643,11 +2650,12 @@ von Amts wegen mitzuteilen.
 
 ##### § 109
 
-(1) Auf Antrag des Versicherten, des behinderten Menschen, des
-Versorgungsberechtigten oder Hinterbliebenen muß ein bestimmter Arzt
-gutachtlich gehört werden. Die Anhörung kann davon abhängig gemacht
-werden, daß der Antragsteller die Kosten vorschießt und vorbehaltlich
-einer anderen Entscheidung des Gerichts endgültig trägt.
+(1) Auf Antrag des Versicherten, des Menschen mit Behinderungen, des
+Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch oder
+Hinterbliebenen muß ein bestimmter Arzt gutachtlich gehört werden. Die
+Anhörung kann davon abhängig gemacht werden, daß der Antragsteller die
+Kosten vorschießt und vorbehaltlich einer anderen Entscheidung des
+Gerichts endgültig trägt.
 
 (2) Das Gericht kann einen Antrag ablehnen, wenn durch die Zulassung
 die Erledigung des Rechtsstreits verzögert werden würde und der Antrag
@@ -3397,7 +3405,7 @@ mit den ehrenamtlichen Richtern entscheidet.
 aufschiebende Wirkung, soweit die Klage nach § 86a Aufschub bewirkt.
 
 (2) Die Berufung und die Beschwerde nach § 144 Abs. 1 eines
-Versicherungsträgers oder in der Kriegsopferversorgung eines Landes
+Versicherungsträgers oder eines Trägers der Sozialen Entschädigung
 bewirken Aufschub, soweit es sich um Beträge handelt, die für die Zeit
 vor Erlaß des angefochtenen Urteils nachgezahlt werden sollen.
 
@@ -3667,7 +3675,7 @@ Anwendung.
 
 Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig.
 Dies gilt nicht für die Beiladung der Bundesrepublik Deutschland in
-Angelegenheiten des sozialen Entschädigungsrechts nach § 75 Abs. 1
+Angelegenheiten des Sozialen Entschädigungsrechts nach § 75 Abs. 1
 Satz 2 und, sofern der Beizuladende zustimmt, für Beiladungen nach §
 75 Abs. 2.
 
@@ -3928,7 +3936,7 @@ zurückzuerstatten sind.
 
 (2) Das gleiche gilt im Verhältnis zwischen Versicherungsträgern und
 einem Land, wenn streitig ist, ob eine Leistung aus der
-Sozialversicherung oder nach dem sozialen Entschädigungsrecht zu
+Sozialversicherung oder nach dem Sozialen Entschädigungsrecht zu
 gewähren ist.
 
 (3) Der Antrag auf Wiederaufnahme des Verfahrens ist bei einem der
@@ -3971,7 +3979,7 @@ weil der im früheren Verfahren befreite Versicherungsträger
 leistungspflichtig sei.
 
 (2) Das gleiche gilt im Verhältnis zwischen einem Versicherungsträger
-und einem Land, wenn die Leistungspflicht nach dem sozialen
+und einem Land, wenn die Leistungspflicht nach dem Sozialen
 Entschädigungsrecht streitig ist.
 
 
@@ -4003,18 +4011,18 @@ dieses Gesetzes zu verfahren. Für die Entscheidung des Sozialgerichts
 
 Das Verfahren vor den Gerichten der Sozialgerichtsbarkeit ist für
 Versicherte, Leistungsempfänger einschließlich
-Hinterbliebenenleistungsempfänger, behinderte Menschen oder deren
-Sonderrechtsnachfolger nach § 56 des Ersten Buches Sozialgesetzbuch
-kostenfrei, soweit sie in dieser jeweiligen Eigenschaft als Kläger
-oder Beklagte beteiligt sind. Nimmt ein sonstiger Rechtsnachfolger das
-Verfahren auf, bleibt das Verfahren in dem Rechtszug kostenfrei. Den
-in Satz 1 und 2 genannten Personen steht gleich, wer im Falle des
-Obsiegens zu diesen Personen gehören würde. Leistungsempfängern nach
-Satz 1 stehen Antragsteller nach § 55a Absatz 2 Satz 1 zweite
-Alternative gleich. § 93 Satz 3, § 109 Abs. 1 Satz 2, § 120 Absatz 1
-Satz 2 und § 192 bleiben unberührt. Die Kostenfreiheit nach dieser
-Vorschrift gilt nicht in einem Verfahren wegen eines überlangen
-Gerichtsverfahrens (§ 202 Satz 2).
+Hinterbliebenenleistungsempfänger, Menschen mit Behinderungen oder
+deren Sonderrechtsnachfolger nach § 56 des Ersten Buches
+Sozialgesetzbuch kostenfrei, soweit sie in dieser jeweiligen
+Eigenschaft als Kläger oder Beklagte beteiligt sind. Nimmt ein
+sonstiger Rechtsnachfolger das Verfahren auf, bleibt das Verfahren in
+dem Rechtszug kostenfrei. Den in Satz 1 und 2 genannten Personen steht
+gleich, wer im Falle des Obsiegens zu diesen Personen gehören würde.
+Leistungsempfängern nach Satz 1 stehen Antragsteller nach § 55a Absatz
+2 Satz 1 zweite Alternative gleich. § 93 Satz 3, § 109 Abs. 1 Satz 2,
+§ 120 Absatz 1 Satz 2 und § 192 bleiben unberührt. Die Kostenfreiheit
+nach dieser Vorschrift gilt nicht in einem Verfahren wegen eines
+überlangen Gerichtsverfahrens (§ 202 Satz 2).
 
 
 ##### § 184
@@ -4474,6 +4482,15 @@ Die Länder können Abweichungen von den Vorschriften des § 85 Abs. 2
 Nr. 1 zulassen.
 
 
-### (XXXX) §§ 220 bis 223 (weggefallen)
+### § 220 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
+Für Personen, die Ansprüche nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+geltend machen, gelten § 55 Absatz 1 Nummer 3 und § 109 Absatz 1 Satz
+1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 

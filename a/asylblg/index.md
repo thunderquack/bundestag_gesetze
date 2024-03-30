@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 23.5.2022 I 760
+:   Art. 3 G v. 21.2.2024 I Nr. 54
 
 
 ## § 1 Leistungsberechtigte
@@ -243,9 +243,7 @@ erhalten nur Leistungen entsprechend Absatz 1, wenn
     haben oder
 
 
-7.  sie den Tatbestand nach § 30 Absatz 3 Nummer 2 zweite Alternative des
-    Asylgesetzes verwirklichen, indem sie Angaben über ihre Identität oder
-    Staatsangehörigkeit verweigern,
+7.  sie Angaben über ihre Identität oder Staatsangehörigkeit verweigern,
 
 
 
@@ -290,7 +288,7 @@ gegen die Abschiebungsanordnung angeordnet hat.
 (1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch
 Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf
 diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich
-seit 18 Monaten ohne wesentliche Unterbrechung im Bundesgebiet
+seit 36 Monaten ohne wesentliche Unterbrechung im Bundesgebiet
 aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich
 selbst beeinflusst haben. Die Sonderregelungen für Auszubildende nach
 § 22 des Zwölften Buches Sozialgesetzbuch finden dabei jedoch keine
@@ -581,11 +579,10 @@ vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere
 zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung
 gestellt werden; von der Bereitstellung dieser Arbeitsgelegenheiten
 unberührt bleibt die Verpflichtung der Leistungsberechtigten,
-Tätigkeiten der Selbstversorgung zu erledigen. Im übrigen sollen
+Tätigkeiten der Selbstversorgung zu erledigen. Im Übrigen sollen
 soweit wie möglich Arbeitsgelegenheiten bei staatlichen, bei
 kommunalen und bei gemeinnützigen Trägern zur Verfügung gestellt
-werden, sofern die zu leistende Arbeit sonst nicht, nicht in diesem
-Umfang oder nicht zu diesem Zeitpunkt verrichtet werden würde.
+werden, wenn das Arbeitsergebnis der Allgemeinheit dient.
 
 (2) Für die zu leistende Arbeit nach Absatz 1 Satz 1 erster Halbsatz
 und Absatz 1 Satz 2 wird eine Aufwandsentschädigung von 80 Cent je
@@ -720,14 +717,13 @@ festsetzen oder die zuständige Behörde dazu ermächtigen.
 1.  Leistungen nach diesem Gesetz,
 
 
-2.  eine Grundrente nach dem Bundesversorgungsgesetz und nach den
-    Gesetzen, die eine entsprechende Anwendung des
-    Bundesversorgungsgesetzes vorsehen,
+2.  Leistungen nach Gesetzen, die eine entsprechende Anwendung des
+    Vierzehnten Buches Sozialgesetzbuch vorsehen,
 
 
-3.  eine Rente oder Beihilfe nach dem Bundesentschädigungsgesetz für
-    Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der
-    vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
+3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
+    an Leben sowie an Körper oder Gesundheit bis zur Höhe der
+    vergleichbaren Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch,
 
 
 4.  eine Entschädigung, die wegen eines Schadens, der nicht
@@ -799,6 +795,9 @@ Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro
 abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner
 Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung
 der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
+Dasselbe gilt für Entschädigungszahlungen nach Gesetzen, die eine
+entsprechende Anwendung des Kapitels 9 des Vierzehnten Buches
+Sozialgesetzbuch vorsehen.
 
 
 ## § 7a Sicherheitsleistung
@@ -1380,4 +1379,13 @@ Leistungen nach diesem Gesetz haben. Eines gesonderten Antrags bedarf
 es nicht. Ausgenommen von der Einmalzahlung nach Satz 1 sind
 Leistungsberechtigte, für die in einem der Monate von Januar bis
 Oktober 2022 ein Anspruch auf Kindergeld besteht.
+
+
+## § 20 Übergangsregelung für die Änderung der Dauer des Grundleistungsbezuges
+
+Für Leistungsberechtigte, die bis zum 26. Februar 2024 Leistungen
+gemäß § 2 Absatz 1 erhalten haben, ist § 2 dieses Gesetzes in der
+Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S. 2022), das
+zuletzt durch Artikel 4 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760)
+geändert worden ist, weiter anzuwenden.
 

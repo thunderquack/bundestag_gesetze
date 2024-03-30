@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1874
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.12.2016 I 3221
+:   Art. 4 G v. 22.12.2023 I Nr. 409
 
 
 ## § 1 Ausbau des Schienenwegenetzes des Bundes
@@ -28,6 +28,39 @@ als Anlage beigefügt ist.
 (2) Die Feststellung des Bedarfs im Bedarfsplan ist für die
 Planfeststellung nach § 18 des Allgemeinen Eisenbahngesetzes
 verbindlich.
+
+(3) Der Bau oder die Änderung eines Bundesschienenweges, der fest
+disponiert ist oder für den der Bedarfsplan einen Vordringlichen
+Bedarf feststellt, liegt im überragenden öffentlichen Interesse. Im
+überragenden öffentlichen Interesse liegen auch folgende Vorhaben und
+Maßnahmen in Bezug auf die Bundesschienenwege:
+
+1.  Vorhaben zur Verbesserung der Verkehrsverhältnisse für den
+    Schienenpersonennahverkehr, deren Finanzierung ganz oder teilweise mit
+    Mitteln auf Grundlage des Gemeindeverkehrsfinanzierungsgesetzes
+    erfolgt,
+
+
+2.  Vorhaben, die in Anlage 4 Abschnitt 2 und Anlage 5 Abschnitt 2 zum
+    Investitionsgesetz Kohleregionen vom 8. August 2020 (BGBl. I S. 1795)
+    bezeichnet sind,
+
+
+3.  mehrere Schienenwegabschnitte übergreifende Maßnahmen zur Änderung,
+    Unterhaltung, Instandsetzung und Erneuerung von Betriebsanlagen, die
+    mindestens einen nach § 55 Absatz 1 Satz 1 des
+    Eisenbahnregulierungsgesetzes als überlastet erklärten Schienenweg
+    umfassen sowie
+
+
+4.  Maßnahmen zur Digitalisierung von Schienenwegen und Schienenknoten,
+    priorisiert Schienenkorridoren des transeuropäischen Verkehrsnetzes,
+    soweit das Unionsrecht eine Pflicht zur durchgehenden Ausrüstung der
+    Schienenverkehrsinfrastruktur des Kernnetzes mit dem Europäischen
+    Eisenbahnverkehrsleitsystem vorschreibt.
+
+
+
 
 
 ## § 2 Bedarfsplan, Einzelmaßnahmen
@@ -63,10 +96,9 @@ angemessen zu berücksichtigen.
 ## § 4 Überprüfung des Bedarfs
 
 (1) Spätestens nach Ablauf von jeweils fünf Jahren prüft das
-Bundesministerium für Verkehr und digitale Infrastruktur ob der
-Bedarfsplan der zwischenzeitlich eingetretenen Wirtschafts- und
-Verkehrsentwicklung anzupassen ist. Die Anpassung und Aufstellung
-erfolgen durch Gesetz.
+Bundesministerium für Digitales und Verkehr ob der Bedarfsplan der
+zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung
+anzupassen ist. Die Anpassung und Aufstellung erfolgen durch Gesetz.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
 Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
@@ -75,9 +107,9 @@ Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
 ## § 5 Planungszeitraum
 
 Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
-Bundesministerium für Verkehr und digitale Infrastruktur
-Fünfjahrespläne auf. Die Fünfjahrespläne bilden die Grundlage für die
-Aufstellung von Ausbauplänen für die Bundesschienenwege.
+Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Die
+Fünfjahrespläne bilden die Grundlage für die Aufstellung von
+Ausbauplänen für die Bundesschienenwege.
 
 
 ## § 6 Unvorhergesehener Bedarf
@@ -90,8 +122,8 @@ Bedarfsplan entsprechen.
 
 ## § 7 Berichtspflicht
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur berichtet
-dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
+Das Bundesministerium für Digitales und Verkehr berichtet dem
+Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
 Schienenwegenetzes nach dem Stand vom 31. Dezember des Vorjahres.
 
 
@@ -235,26 +267,26 @@ gelten die §§ 9, 9a und 10 entsprechend.
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 1)
+(zu § 1 Absatz 1)
 
 ## Anlage Bedarfsplan für die Bundesschienenwege
 
-(Fundstelle: BGBl. I 2016, 3221 — 3223)
+(Fundstelle: BGBl. 2023 I Nr. 409, S. 23 - 26)
 
-Abschnitt 1
+**Abschnitt 1**
 
-Laufende und fest disponierte
-Vorhaben des Vordringlichen Bedarfs
+[^F828014_01_BJNR187400993BJNE000903311]
+Laufende und fest disponierte Vorhaben des Vordringlichen Bedarfs
 
-
-*    *   lfd. Nr.
+*    *   Lfd.
+        Nr.
 
     *   Vorhaben
 
 
 *    *   1
 
-    *   Maßnahmen mit einem Restvolumen < 50 Millionen Euro
+    *   Maßnahmen mit einem Restvolumen < 50 Mio. Euro
 
 
 *    *   2
@@ -264,360 +296,329 @@ Vorhaben des Vordringlichen Bedarfs
 
 *    *   3
 
-    *   ABS Hamburg – Büchen – Berlin
+    *   ABS Berlin – Dresden
 
 
 *    *   4
 
-    *   ABS Stelle – Lüneburg
+    *   ABS/NBS Nürnberg – Erfurt
 
 
 *    *   5
 
-    *   ABS Berlin – Dresden (1. und 2. Baustufe)
+    *   ABS/NBS Leipzig – Dresden
 
 
 *    *   6
 
-    *   ABS Hannover – Lehrte
+    *   ABS Karlsruhe – Stuttgart – Nürnberg – Leipzig/Dresden
 
 
 *    *   7
 
-    *   ABS Löhne – Braunschweig – Wolfsburg (1. Baustufe)
+    *   ABS Berlin – Frankfurt (Oder) – Grenze D/PL
 
 
 *    *   8
 
-    *   ABS Dortmund – Paderborn – Kassel
+    *   ABS Köln – Aachen
 
 
 *    *   9
 
-    *   ABS/NBS Nürnberg – Erfurt
+    *   ABS Ludwigshafen – Saarbrücken, ABS Kehl – Appenweier
 
 
 *    *   10
 
-    *   NBS/ABS Erfurt – Leipzig/Halle
+    *   ABS/NBS Stuttgart – Ulm – Augsburg
 
 
 *    *   11
 
-    *   ABS Leipzig – Dresden
+    *   ABS/NBS München – Mühldorf – Freilassing – Grenze D/A / – Simbach –
+        Grenze D/A
 
 
 *    *   12
 
-    *   ABS Paderborn – Bebra – Erfurt – Weimar – Jena – Glauchau – Chemnitz
-        (1. und 2. Baustufe)
+    *   Ausbau von Knoten (Berlin, Dresden, Erfurt, Halle/Leipzig, Magdeburg)
 
 
 *    *   13
 
-    *   ABS Karlsruhe – Stuttgart – Nürnberg – Leipzig/Dresden
+    *   ABS Oldenburg – Wilhelmshaven
 
 
 *    *   14
 
-    *   ABS Berlin – Frankfurt/Oder – Grenze D/PL
+    *   ABS Grenze D/NL – Emmerich – Oberhausen
 
 
 *    *   15
 
-    *   ABS Köln – Aachen
+    *   ABS München – Lindau – Grenze D/A
 
 
 *    *   16
 
-    *   ABS/NBS Hanau – Nantenbach
+    *   Kombinierter Verkehr/Rangierbahnhöfe (2. Stufe)
 
 
-*    *   17
 
-    *   ABS Ludwigshafen – Saarbrücken, Kehl – Appenweier
 
-
-*    *   18
-
-    *   ABS Mainz – Mannheim
-
-
-*    *   19
-
-    *   ABS Fulda – Frankfurt am Main
-
-
-*    *   20
-
-    *   ABS/NBS Stuttgart – Ulm – Augsburg
-
-
-*    *   21
-
-    *   ABS Augsburg – München
-        (1. und 2. Baustufe)
-
-
-*    *   22
-
-    *   ABS München – Mühldorf – Freilassing
-        (1., 2. und 3. Baustufe)
-
-
-*    *   23
-
-    *   NBS/ABS Nürnberg – Ingolstadt – München
-
-
-*    *   24
-
-    *   ABS/NBS Karlsruhe – Offenburg – Freiburg – Basel (1. und 2. Baustufe)
-
-
-*    *   25
-
-    *   Kombinierter Verkehr/Rangierbahnhöfe
-        (1. Baustufe)
-
-
-*    *   26
-
-    *   Ausbau von Knoten (Berlin, Dresden, Erfurt, Halle/Leipzig, Magdeburg)
-
-
-*    *   27
-
-    *   ABS Hamburg – Lübeck
-
-
-*    *   28
-
-    *   ABS Oldenburg – Wilhelmshaven/Langwedel – Uelzen
-
-
-*    *   29
-
-    *   ABS Uelzen – Stendal
-
-
-*    *   30
-
-    *   ABS (Amsterdam –) Grenze D/NL – Emmerich – Oberhausen (1. und 2.
-        Baustufe)
-
-
-*    *   31
-
-    *   ABS Hoyerswerda – Horka – Grenze D/PL
-
-
-*    *   32
-
-    *   ABS Nürnberg – Marktredwitz – Reichenbach/Grenze D/CZ (– Prag)
-
-
-*    *   33
-
-    *   ABS Luxemburg – Trier – Koblenz – Mainz
-
-
-*    *   34
-
-    *   ABS Berlin – Görlitz
-
-
-*    *   35
-
-    *   ABS München – Lindau – Grenze D/A
-
-
-*    *   36
-
-    *   Ausbau von Knoten (2. Baustufe) (Bremen, Frankfurt/Main, Hamburg,
-        Mannheim, München)
-
-
-*    *   37
-
-    *   Kombinierter Verkehr/Rangierbahnhöfe
-        (2. Baustufe)
-
-
-
-Abschnitt 2
+**Abschnitt 2**
 
 Neue Vorhaben
 
-Unterabschnitt 1
+**Unterabschnitt 1**
 
-Vordringlicher Bedarf **(VB-E (in Fettdruck)**              u. VB)
+Vordringlicher Bedarf (VB-E (in Fettdruck) u. VB)
 
-
-*    *   lfd. Nr.
+*    *   Lfd.
+        Nr.
 
     *   Vorhaben
 
 
 *    *   1
 
-    *   ABS Ulm – Friedrichshafen – Lindau (Südbahn)
+    *   Projektbündel 1: ABS Berlin – Wittenberge – Hamburg, ABS Berlin –
+        Rostock
 
 
 *    *   2
 
-    *[^F796682_01_BJNR187400993BJNE000902123]
-   ABS/NBS Hanau – Würzburg/Fulda – Erfurt
+    *   Projektbündel 2: ABS/NBS Hannover – Hamburg
 
 
 *    *   3
 
-    *   ABS/NBS Hamburg – Hannover, ABS Langwedel – Uelzen, Rotenburg – Verden
-        – Minden/Wunstorf, Bremerhaven – Bremen – Langwedel (Optimiertes
-        Alpha-E + Bremen)
+    *[^F828014_02_BJNR187400993BJNE000903311]
+   Projektbündel 3: ABS Bremerhaven – Bremen – Langwedel – Uelzen, ABS
+        Magdeburg – Stendal – Uelzen
+        , ABS Magdeburg – Halle, ABS Wunstorf – Verden – Rotenburg, ABS Minden
+        – Nienburg, ABS Elze – Hameln, ABS Lehrte – Braunschweig – Magdeburg –
+        Roßlau – Falkenberg, ABS Sandersleben – Halle
 
 
 *    *   4
 
-    *   Korridor Mittelrhein: Zielnetz I (umfasst unter anderem NBS/ABS
-        Mannheim – Karlsruhe, NBS Frankfurt – Mannheim, ABS Köln/Hagen –
-        Siegen – Hanau)
+    *[^F828014_03_BJNR187400993BJNE000903311]
+   Projektbündel 4: ABS/NBS Frankfurt am Main – Aschaffenburg – Würzburg
+        – Nürnberg– Ingolstadt – München
 
 
 *    *   5
 
-    *   ABS/NBS Karlsruhe – Basel
+    *   Projektbündel 5: ABS/NBS Hanau/Gießen – Fulda, ABS/NBS Berlin –
+        Halle/Leipzig – Erfurt – Fulda
 
 
 *    *   6
 
-    *   ABS München – Mühldorf – Freilassing
+    *   Projektbündel 6: ABS Dortmund/Köln – Frankfurt am Main, ABS/NBS Mainz
+        – Frankfurt am Main, ABS/NBS Frankfurt am Main – Mannheim, ABS/NBS
+        Mannheim – Karlsruhe, ABS/NBS Mannheim – Stuttgart – Ulm, ABS/NBS
+        München – Augsburg – Ulm, ABS Köln/Hagen – Siegen – Hanau
 
 
 *    *   7
 
-    *   ABS/NBS München – Rosenheim – Kiefersfelden – Grenze D/A (– Kufstein)
+    *   Projektbündel 7: ABS/NBS Karlsruhe – Basel, ABS Appenweier – Kehl –
+        Grenze D/F
 
 
 *    *   8
 
-    *   ABS/NBS Nürnberg – Erfurt (VDE 8.1)
+    *   Projektbündel 8: ABS/NBS Dortmund – Hamm, ABS/NBS Hannover – Bielefeld
+        – Hamm, ABS Berlin – Hannover
 
 
 *    *   9
 
-    *[^F796682_02_BJNR187400993BJNE000902123]
-   ABS/NBS Hamburg – Lübeck – Puttgarden (Hinterlandanbindung FBQ)
+    *   Projektbündel 9: ABS München – Landshut – Obertraubling – Regensburg –
+        Marktredwitz – Hof, ABS Mühldorf – Landshut, ABS Nürnberg – Schwandorf
+        – Furth im Wald – Grenze D/CZ
 
 
 *    *   10
 
-    *   **ABS Burgsinn – Gemünden – Würzburg – Nürnberg**
+    *   Projektbündel 10: ABS Oldenburg – Bremen, ABS Oldenburg – Emden
 
 
 *    *   11
 
-    *   ABS Nürnberg – Passau
+    *   Projektbündel 11: ABS Regensburg – Ingolstadt – Donauwörth – Ulm
 
 
 *    *   12
 
-    *   **ABS Paderborn – Halle (Kurve Mönchehof – Ihringshausen)**
+    *   ABS Ulm – Friedrichshafen – Lindau
 
 
 *    *   13
 
-    *[^F796682_03_BJNR187400993BJNE000902123]
-   ABS/NBS Hannover – Bielefeld
+    *   ABS/NBS München – Rosenheim – Kiefersfelden – Grenze D/A
 
 
 *    *   14
 
-    *   ABS Nürnberg – Marktredwitz – Hof/Grenze D/CZ (– Prag) (Franken-
-        Sachsen-Magistrale)
+    *[^F828014_04_BJNR187400993BJNE000903311]
+   ABS/NBS Hamburg – Lübeck – Puttgarden
 
 
 *    *   15
 
-    *[^F796682_04_BJNR187400993BJNE000902123]
-   **ABS Uelzen – Stendal – Magdeburg – Halle (Ostkorridor Nord)**
+    *   ABS Nürnberg – Passau
 
 
-*    *   16
+*    *   **16**
 
-    *   **ABS Hof – Marktredwitz – Regensburg – Obertraubling (Ostkorridor
-        Süd)**
+    *   **ABS/NBS Paderborn – Halle**
 
 
 *    *   17
 
-    *[^F796682_05_BJNR187400993BJNE000902123]
-   **Rhein-Ruhr-Express (RRX): Köln – Düsseldorf – Dortmund/Münster**
+    *   ABS Nürnberg – Marktredwitz – Hof/Grenze D/CZ
 
 
-*    *   18
+*    *   **18**
 
-    *   Rhein-Ruhr-Express (RRX): Köln – Düsseldorf – Dortmund/Münster (5. und
-        6\. Gleis Düsseldorf-Kalkum – Duisburg)
+    *[^F828014_05_BJNR187400993BJNE000903311]
+   **ABS Köln – Düsseldorf – Dortmund/Münster**
 
 
 *    *   19
 
-    *   Rhein-Ruhr-Express (RRX): Köln – Düsseldorf – Dortmund/Münster
-        (Systemhalt Düsseldorf-Benrath)
+    *   ABS Angermünde – Grenze D/PL
 
 
 *    *   20
 
-    *   ABS Angermünde – Grenze D/PL (– Stettin)
+    *   ABS/NBS Stuttgart – Singen – Grenze D/CH
 
 
 *    *   21
 
-    *   ABS Hannover – Berlin (Lehrter Stammbahn)
+    *   Projekte des Potentiellen Bedarfs (Streckenmaßnahmen)
 
 
-*    *   22
+*    *   **22**
 
-    *   ABS/NBS Ulm – Augsburg
+    *[^F828014_06_BJNR187400993BJNE000903311]
+   **Großknoten (Frankfurt, Hamburg**
+        **, Hannover, Köln, Mannheim, München)**
 
 
 *    *   23
 
-    *   ABS Stuttgart – Singen – Grenze D/CH (Gäubahn)
+    *   Knoten (Aachen, Leipzig)
 
 
 *    *   24
 
-    *   Projekte des Potenziellen Bedarfs (Streckenmaßnahmen)
+    *[^F828014_07_BJNR187400993BJNE000903311]
+   ABS Grenze D/NL – Kaldenkirchen – Viersen – Rheydt-Odenkirchen
 
 
 *    *   25
 
-    *   **Großknoten (Frankfurt, Hamburg, Köln, Mannheim, München)**
+    *   ABS Augsburg – Donauwörth
 
 
 *    *   26
+
+    *   ABS Gotha – Leinefelde
+
+
+*    *   27
+
+    *   ABS Stuttgart – Nürnberg
+
+
+*    *   28
+
+    *   ABS Landshut – Plattling
+
+
+*    *   29
+
+    *   ABS Lübeck – Schwerin/Büchen – Lüneburg
+
+
+*    *   30
+
+    *   ABS Weimar – Gera – Gößnitz
+
+
+*    *   31
+
+    *   ABS Niebüll – Klanxbüll – Westerland
+
+
+*    *   32
+
+    *   NBS Dresden – Grenze D/CZ
+
+
+*    *   33
+
+    *   ABS Cuxhaven – Stade
+
+
+*    *   34
+
+    *   ABS Münster – Lünen
+
+
+*    *   35
+
+    *   ABS Leipzig – Chemnitz
+
+
+*    *   36
+
+    *   ABS Itzehoe – Wilster – Brunsbüttel
+
+
+*    *   37
+
+    *   ABS Berlin – Angermünde – Pasewalk – Stralsund – Sassnitz
+
+
+*    *   38
+
+    *   Überholgleise für 740m-Züge
+
+
+*    *   39
+
+    *   Bahnhof Fangschleuse
+
+
+*    *   40
 
     *   Projekte des Potenziellen Bedarfs (weitere Knoten, mikroskopische
         Maßnahmen)
 
 
-*    *   27
+*    *   41
 
     *   Kombinierter Verkehr/Rangierbahnhöfe
 
 
 
-Unterabschnitt 2
 
-Vorhaben des Potenziellen Bedarfs, die in den VB aufsteigen können.
-Sobald nachgewiesen ist, dass diese Projekte die Kriterien für die
-Aufnahme in den Vordringlichen Bedarf erfüllen, werden sie in den
-Vordringlichen Bedarf aufgenommen.
+**Unterabschnitt 2**
 
+Vorhaben des Potentiellen Bedarfs, die in den Vordringlichen Bedarf
+(VB) aufsteigen können. Sobald nachgewiesen ist, dass diese Projekte
+die Kriterien für die Aufnahme in den VB erfüllen, werden sie in den
+VB aufgenommen.
 
-*    *   lfd. Nr.
+*    *   Lfd.
+        Nr.
 
     *   Vorhaben
 
@@ -629,281 +630,168 @@ Vordringlichen Bedarf aufgenommen.
 
 *    *   2
 
-    *   Korridor Mittelrhein: Zielnetz II (umfasst unter anderem NBS Troisdorf
-        – Mainz-Bischofsheim)
+    *   Korridor Mittelrhein: Zielnetz II
 
 
 *    *   3
 
-    *[^F796682_06_BJNR187400993BJNE000902123]
-   ABS München – Mühldorf – Freilassing
+    *   ABS Grenze D/NL – Bad Bentheim – Löhne
 
 
 *    *   4
 
-    *   ABS/NBS Nürnberg – Erfurt (VDE 8.1)
-
-
-*    *   5
-
-    *   ABS Grenze D/NL – Bad Bentheim – Löhne
-
-
-*    *   6
-
-    *   ABS Nürnberg – Schwandorf/München – Regensburg – Furth im Wald –
-        Grenze D/CZ
-
-
-*    *   7
-
     *   ABS Nürnberg – Weiden – Hof/Schirnding – Grenze D/CZ
 
 
-*    *   8
+*    *   5
 
     *   ABS Hochstadt-Marktzeuln – Hof/Nürnberg – Bayreuth – Neuenmarkt-
         Wirsberg
 
 
-*    *   9
-
-    *[^F796682_07_BJNR187400993BJNE000902123]
-   ABS Grenze D/NL – Kaldenkirchen – Viersen – Rheydt-Odenkirchen
-
-
-*    *   10
-
-    *   ABS Augsburg – Donauwörth
-
-
-*    *   11
+*    *   6
 
     *   ABS Cottbus – Görlitz
 
 
-*    *   12
+*    *   7
 
     *   ABS Dresden – Görlitz – Grenze D/PL
 
 
-*    *   13
-
-    *   ABS Gotha – Leinefelde
-
-
-*    *   14
+*    *   8
 
     *   ABS Gruiten – Wuppertal – Schwelm
 
 
-*    *   15
-
-    *   ABS Stuttgart – Backnang/Schwäbisch Gmünd – Aalen – Nürnberg
-
-
-*    *   16
-
-    *   ABS Kehl – Appenweier
-
-
-*    *   17
-
-    *   ABS Landshut – Plattling
-
-
-*    *   18
-
-    *   ABS Lübeck – Schwerin/Büchen – Lüneburg
-
-
-*    *   19
+*    *   9
 
     *   ABS Ludwigshafen – Saarbrücken – Grenze D/F
 
 
-*    *   20
-
-    *   ABS Weimar – Gera – Gößnitz
-
-
-*    *   21
-
-    *   ABS Regensburg – Mühldorf – Rosenheim
-
-
-*    *   22
-
-    *   ABS Niebüll – Klanxbüll
-
-
-*    *   23
+*    *   10
 
     *   NBS Rheydter Kurve
 
 
-*    *   24
-
-    *   NBS Studernheimer Kurve
-
-
-*    *   25
-
-    *   ABS Hamburg – Ahrensburg
-
-
-*    *   26
-
-    *   NBS Dresden – Prag
-
-
-*    *   27
-
-    *   ABS Lehrte/Hameln – Braunschweig – Magdeburg – Roßlau
-
-
-*    *   28
-
-    *   ABS Cuxhaven – Stade
-
-
-*    *   29
+*    *   11
 
     *   ABS Köln – Aachen
 
 
-*    *   30
+*    *   12
 
-    *   ABS Münster – Lünen
-
-
-*    *   31
-
-    *   ABS Leipzig – Chemnitz
+    *   ABS Berlin – Neustrelitz – Neubrandenburg – Stralsund
 
 
-*    *   32
+*    *   13
 
-    *   ABS Wilster – Brunsbüttel
-
-
-*    *   33
-
-    *   ABS Berlin – Angermünde – Pasewalk – Stralsund
+    *   ABS Koblenz – Mainz
 
 
-*    *   34
+*    *   14
 
-    *   ABS Berlin – Neustrelitz – Neubrandenburg – Stralsund (Berliner
-        Nordbahn)
-
-
-*    *   35
-
-    *   ABS Koblenz – Mainz (Tunnelertüchtigung)
+    *   ABS Cottbus – Forst (Lausitz) – Grenze D/PL
 
 
-*    *   36
+*    *   15
 
-    *   ABS Cottbus – Forst (Lausitz) – Grenze D/PL (– Zary)
-
-
-*    *   37
-
-    *   Weitere Streckenmaßnahmen zur Engpassauflösung (umfasst unter anderem
-        ein Projekt „Überholgleise für 740m-Züge“)
+    *   Weitere Streckenmaßnahmen zur Engpassauflösung
 
 
-*    *   38
+*    *   16
 
-    *   Knoten Frankfurt
-
-
-*    *   39
-
-    *[^F796682_08_BJNR187400993BJNE000902123]
-   Knoten Hamburg
+    *   Weitere Knotenmaßnahmen, mikroskopische Maßnahmen
 
 
-*    *   40
-
-    *   Knoten Hannover
-
-
-*    *   41
-
-    *[^F796682_09_BJNR187400993BJNE000902123]
-   Knoten Köln
-
-
-*    *   42
-
-    *   Knoten Mannheim
-
-
-*    *   43
-
-    *   Knoten München
-
-
-*    *   44
-
-    *   Deutschland-Takt
-
-
-*    *   45
-
-    *   Weitere Knoten, mikroskopische Maßnahmen
-
-
-*    *   46
+*    *   17
 
     *   Kombinierter Verkehr/Rangierbahnhöfe
 
 
+*    *   18
 
-Unterabschnitt 3
+    *   ABS/NBS Ingolstadt – München mit Anbindung Flughafen München
+
+
+*    *   19
+
+    *   ABS Berlin – Müncheberg – Grenze D/PL
+
+
+*    *   20
+
+    *   ABS Oldenburg – Osnabrück
+
+
+*    *   21
+
+    *   ABS Hockeroda – Blankenstein – Marxgrün
+
+
+*    *   22
+
+    *   ABS/NBS Ducherow – Usedom – Seebad Heringsdorf/Swinoujscie
+
+
+*    *   23
+
+    *   Knoten Berlin
+
+
+*    *   24
+
+    *   ABS Bingen – Hochspeyer, Neustadt – Wörth
+
+
+*    *   25
+
+    *   ABS Öhringen – Schwäbisch Hall
+
+
+*    *   26
+
+    *   ABS Hildesheim/Braunschweig – Dessau – Halle
+
+
+*    *   27
+
+    *   Elektrifizierung Chemnitz Hbf – Chemnitz Süd
+
+
+
+
+**Unterabschnitt 3**
 
 Neue Vorhaben, Weiterer Bedarf (WB)
 
-*Erläuterungen:*
+Erläuterungen:
 
 ABS: Ausbaustrecke
 
 NBS: Neubaustrecke
 
-FBQ: Fehmarnbeltquerung
-
 VB: Vordringlicher Bedarf
 
-**VB-E: Vordringlicher Bedarf – Engpassbeseitigung**
-
-VDE: Verkehrsprojekt Deutsche Einheit
+VB-E: Vordringlicher Bedarf – Engpassbeseitigung
 
 WB: Weiterer Bedarf
 
-    Mit Infrastruktur für Fernverkehrshalt Aschaffenburg.
-[^F796682_01_BJNR187400993BJNE000902123]:     Aus- und Neubau für eine Zielreisezeit im Taktfahrplan Hamburg –
-    Kopenhagen von unter 150 Minuten und Berlin – Kopenhagen von unter 240
-    Minuten.
-[^F796682_02_BJNR187400993BJNE000902123]:     Ohne Querung Seelze-Süd und ohne Tunnel Jakobsberg unter der Maßgabe,
-    dass die für einen Deutschland-Takt erforderliche Fahrzeitverkürzung
-    von voraussichtlich acht Minuten erreicht wird.
-[^F796682_03_BJNR187400993BJNE000902123]:     Bei der baulichen Umsetzung der Abschnitte Veerßen – Salzwedel und
+    Die Maßnahmen dienen der Umsetzung des Deutschlandtakts.
+[^F828014_01_BJNR187400993BJNE000903311]:     Bei der baulichen Umsetzung der Abschnitte Veerßen – Salzwedel und
     Hohenwulsch – Stendal sollen die aktuellen Standards des vorsorgenden
     Lärmschutzes angewendet werden. Der Abschnitt Salzwedel – Hohenwulsch
     ist nachträglich mit vergleichbarem vorsorgenden Lärmschutz
     auszustatten.
-[^F796682_04_BJNR187400993BJNE000902123]:     Mit Halt Köln-Mülheim ohne Infrastrukturausbau laut Betriebsprogramm
+[^F828014_02_BJNR187400993BJNE000903311]:     Mit Infrastruktur für Fernverkehrshalt in Aschaffenburg.
+[^F828014_03_BJNR187400993BJNE000903311]:     Aus- und Neubau für eine Zielreisezeit im Taktfahrplan Hamburg –
+    Kopenhagen von unter 150 Minuten und Berlin – Kopenhagen von unter 240
+    Minuten.
+[^F828014_04_BJNR187400993BJNE000903311]:     Mit Halt Köln-Mülheim ohne Infrastrukturausbau laut Betriebsprogramm
     der Aufgabenträger.
-[^F796682_05_BJNR187400993BJNE000902123]:     Das Projekt beinhaltet ergänzend zur lfd. Nr. 6 des Unterabschnitts 1
-    (Vordringlicher Bedarf) noch zweigleisige Begegnungsabschnitte Tüßling
-    – Freilassing.
-[^F796682_06_BJNR187400993BJNE000902123]:     Oder mit stadtverträglicher umfahrender Alternative zur Viersener
+[^F828014_05_BJNR187400993BJNE000903311]:     Unter Berücksichtigung des viergleisigen Ausbaus des Bahnhofs
+    Elmshorn.
+[^F828014_06_BJNR187400993BJNE000903311]:     Oder mit stadtverträglicher umfahrender Alternative zur Viersener
     Kurve – Prüfung und Planung kann zu nachrangiger Umsetzung des
     Teilabschnitts führen.
-[^F796682_07_BJNR187400993BJNE000902123]:     Unter Berücksichtigung des viergleisigen Ausbaus des Bahnhofs
-    Elmshorn.
-[^F796682_08_BJNR187400993BJNE000902123]:     Unter Berücksichtigung der Eisenbahnspange Köln/Brühl – Porz-Wahn
-    (Rheinquerung).
-[^F796682_09_BJNR187400993BJNE000902123]: 
+[^F828014_07_BJNR187400993BJNE000903311]: 

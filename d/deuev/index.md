@@ -335,6 +335,15 @@ mit der nächsten Lohn und Gehaltsabrechnung zu erstatten. Ist zu
 diesem Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese
 zum gleichen Zeitpunkt zu erstatten.
 
+(6) Beginn und Ende einer in Anspruch genommenen Elternzeit sind der
+zuständigen Krankenkasse gesondert zu melden, sofern die Beschäftigung
+durch Wegfall des Anspruchs auf Entgelt unterbrochen wird. Satz 1 gilt
+für krankenversicherungspflichtige Beschäftigungen, sofern die
+Beschäftigung durch Wegfall des Anspruchs auf Entgelt für mindestens
+einen Kalendermonat unterbrochen wird. Die Elternzeitmeldung ist mit
+der nächsten Entgeltabrechnung, spätestens innerhalb von sechs Wochen
+abzugeben.
+
 
 #### § 13 Meldungen für geringfügig Beschäftigte
 
@@ -386,8 +395,16 @@ Versicherungsnummer notwendigen Angaben zu enthalten.
 
 
 
-#### § 16 (weggefallen)
+#### § 16 Technische Standards für die Meldeverfahren
 
+(1) Für die Meldeverfahren zwischen Meldepflichtigen und den
+Sozialversicherungsträgern ist der Zeichencode UTF-8 zu verwenden.
+
+(2) Die Daten der Meldeverfahren sind im Standard XML zu übertragen.
+
+(3) Das Nähere zur Umstellung der einzelnen Fachverfahren regeln die
+nach § 95 Absatz 2 Satz 1 des Vierten Buches Sozialgesetzbuch zu
+vereinbarenden Gemeinsamen Grundsätze.
 
 
 #### § 17 Datenübertragungsverfahren

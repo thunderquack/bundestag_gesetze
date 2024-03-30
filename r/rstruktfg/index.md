@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1900, 1921
 
 Zuletzt geändert durch
-:   Art. 3 G v. 25.3.2022 I 571
+:   Art. 13 G v. 22.12.2023 I Nr. 411
 
 
 ## § 1 Errichtung des Fonds
@@ -44,7 +44,10 @@ des Sanierungs- und Abwicklungsgesetzes erfassten
     Kreditinstituten und die Beaufsichtigung von Kreditinstituten und
     Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur
     Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom
-    27\.6.2013, S. 338),
+    27\.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S.
+    1; L 203 vom 26.6.2020, S. 95; L 436 vom 28.12.2020, S. 77), die
+    zuletzt durch die Verordnung (EU) 2023/1114 (ABl. L 150 vom 9.6.2023,
+    S. 40), geändert worden ist,
 
 
 2.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
@@ -58,16 +61,31 @@ des Sanierungs- und Abwicklungsgesetzes erfassten
 
 
 
-für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz
-bestand. Die Beitragspflicht eines Instituts endet mit Ablauf des
-Kalenderjahres, in dem die Erlaubnis des Instituts erlischt oder
-aufgehoben wird.
+für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz oder
+nach dem Wertpapierinstitutsgesetz bestand. Die Beitragspflicht eines
+Instituts endet mit Ablauf des Kalenderjahres, in dem die Erlaubnis
+des Instituts erlischt oder aufgehoben wird.
 
 
 ## § 2a Begriffsbestimmungen
 
 (1) Wertpapierinstitut unter Einzelaufsicht ist ein Wertpapierinstitut
-im Sinne des § 2 Nummer 2.
+im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, das
+
+1.  nach § 17 Absatz 1 Nummer 1 Buchstabe a des
+    Wertpapierinstitutsgesetzes mit einem Anfangskapital im Gegenwert von
+    mindestens 750 000 Euro auszustatten ist und
+
+
+2.  nicht nach Artikel 4 Absatz 1 Buchstabe g der Verordnung (EU) Nr.
+    1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer
+    Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die
+    Europäische Zentralbank (ABl. L 287 vom 29.10.2013, S. 63; L 218 vom
+    19\.8.2015, S. 82) in die Beaufsichtigung ihres Mutterunternehmens auf
+    konsolidierter Basis durch die Europäische Zentralbank einbezogen ist.
+
+
+
 
 (2) Für die Zwecke dieses Gesetzes gelten die folgenden Definitionen
 des Sanierungs- und Abwicklungsgesetzes:
@@ -173,7 +191,7 @@ folgende Maßnahmen verwenden:
     befindlichen Wertpapierinstituts unter Einzelaufsicht, ihrer
     Tochterunternehmen, eines Brückeninstituts oder einer
     Vermögensverwaltungsgesellschaft sowie Erwerb von Vermögenswerten
-    einer in Abwicklung befindlichen CRR-Wertpapierfirma unter
+    eines in Abwicklung befindlichen Wertpapierinstituts unter
     Einzelaufsicht,
 
 

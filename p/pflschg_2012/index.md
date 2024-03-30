@@ -3358,7 +3358,7 @@ abgefertigt werden, wenn dies durch Rechtsverordnung nach § 40 Absatz
 
 ### § 63 Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nichtrechtsfähige
+(1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der der jeweils
 zuständigen Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes

@@ -15,6 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2335
 
+V aufgeh. durch
+:   Art. 5 Satz 2 V v. 20.12.2023 I Nr. 395 mWv 1.8.2024
+
+Ersetzt durch
+:   V 806-22-1-150 v. 20.12.2023 I Nr. 395 (WasUTechAusbV)
+
+Ersetzt durch
+:   V 806-22-1-151 v. 20.12.2023 I Nr. 395 (AbwUTechAusbV)
+
+Ersetzt durch
+:   V 806-22-1-152 v. 20.12.2023 I Nr. 395 (KrAbfWUTechAusbV)
+
+Ersetzt durch
+:   V 806-22-1-153 v. 20.12.2023 I Nr. 395 (RohrIndUTechAusbV)
+
 
 
 ## Eingangsformel
@@ -1319,7 +1334,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 ### § 29 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2002 in Kraft.
+Diese Verordnung tritt am 1. August 2002 in Kraft.Gleichzeitig tritt
+die Ver- und Entsorger-Ausbildungsverordnung vom 30. Mai 1984 (BGBl. I
+S. 731) außer Kraft.
 
 (zu § 5)
 

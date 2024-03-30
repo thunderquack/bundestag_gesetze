@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1947
 
 Zuletzt geändert durch
-:   Art. 15 G v. 13.5.2019 I 706
+:   Art. 8 G v. 22.12.2023 I Nr. 405
 
 Die v tritt gem. § 14 abs. 2 mit ablauf des 31.12.2017 außer kraft; die geltung dieser v ist durch
 :   Aufhebung d. § 12 (früher § 14) gem. Art. 6 Nr. 14 G v. 26.7.2016 I 1786 über den 31.12.2017 hinaus verlängert worden
@@ -252,7 +252,8 @@ Selbstverpflichtung der Betreiber von Übertragungsnetzen nach § 11
 Absatz 2 Satz 4 und § 32 Absatz 1 Nummer 4 der
 Anreizregulierungsverordnung in der jeweils geltenden Fassung als
 verfahrensregulierte Kosten nach Maßgabe der hierfür geltenden
-Vorgaben anerkannt.
+Vorgaben oder einer Festlegung nach § 21a des
+Energiewirtschaftsgesetzes anerkannt.
 
 (3) Die Kostenregelung nach Absatz 1 Satz 1 umfasst hinsichtlich von
 Anlagen nach § 5 Absatz 2 weiterhin die folgenden Punkte:
@@ -383,7 +384,8 @@ Satz 4 und § 32 Absatz 1 Nummer 4 der Anreizregulierungsverordnung vom
 29\. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 7 des
 Gesetzes vom 20. Dezember 2012 (BGBl. I S. 2730) geändert worden ist,
 in ihrer jeweils geltenden Fassung als verfahrensregulierte Kosten
-nach Maßgabe der hierfür geltenden Vorgaben anerkannt.
+nach Maßgabe der hierfür geltenden Vorgaben oder einer Festlegung nach
+§ 21a des Energiewirtschaftsgesetzes anerkannt.
 
 
 ## § 10 Verfahren bei geplanter endgültiger Stilllegung von Anlagen, Art des Einsatzes, Vergütung

@@ -77,19 +77,21 @@ anderes bestimmt.
         Postleitzahl und Ort,
 
 
-    b)  wenn der Anmelder eine juristische Person oder eine
+    b)  wenn der Anmelder eine juristische Person oder eine rechtsfähige
         Personengesellschaft ist:
 
         aa) Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße,
             Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der
             Rechtsform kann auf übliche Weise abgekürzt werden; wenn die
-            juristische Person oder Personengesellschaft in einem Register
-            eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
+            juristische Person oder rechtsfähige Personengesellschaft in einem
+            Register eingetragen ist, müssen die Angaben dem Registereintrag
+            entsprechen;
 
 
-        bb) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
-            Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
-            mindestens eines vertretungsberechtigten Gesellschafters;
+        bb) bei einer Gesellschaft bürgerlichen Rechts, die nicht im
+            Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift
+            mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens
+            eines vertretungsberechtigten Gesellschafters;
 
 
 
@@ -138,7 +140,7 @@ In der Anmeldung können zusätzlich eine von der Anschrift des
 Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
 Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
-(5) Wird die Anmeldung von mehreren Personen oder
+(5) Wird die Anmeldung von mehreren Personen oder rechtsfähigen
 Personengesellschaften eingereicht, so gelten Absatz 2 Nummer 1 und
 die Absätze 3 und 4 für alle anmeldenden Personen oder
 Personengesellschaften.

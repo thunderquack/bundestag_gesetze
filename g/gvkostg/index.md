@@ -40,7 +40,7 @@ die nach dem Haushaltsplan des Bundes oder eines Landes für Rechnung
 des Bundes oder eines Landes verwalteten öffentlichen Körperschaften
 oder Anstalten, bei einer Zwangsvollstreckung nach § 885 der
 Zivilprozessordnung wegen der Auslagen jedoch nur, soweit diese einen
-Betrag von 5.000 Euro nicht übersteigen. Bei der Vollstreckung wegen
+Betrag von 5 000 Euro nicht übersteigen. Bei der Vollstreckung wegen
 öffentlich-rechtlicher Geldforderungen ist maßgebend, wer ohne
 Berücksichtigung des § 252 der Abgabenordnung oder entsprechender
 Vorschriften Gläubiger der Forderung ist.
@@ -50,11 +50,12 @@ Träger der Sozialhilfe, bei der Durchführung des Zweiten Buches
 Sozialgesetzbuch die nach diesem Buch zuständigen Träger der
 Leistungen, bei der Durchführung des Achten Buches Sozialgesetzbuch
 die Träger der öffentlichen Jugendhilfe und bei der Durchführung der
-ihnen obliegenden Aufgaben nach dem Bundesversorgungsgesetz die Träger
-der Kriegsopferfürsorge von den Gebühren befreit. Sonstige
-Vorschriften, die eine sachliche oder persönliche Befreiung von Kosten
-gewähren, gelten für Gerichtsvollzieherkosten nur insoweit, als sie
-ausdrücklich auch diese Kosten umfassen.
+Besonderen Leistungen im Einzelfall nach dem Vierzehnten Buch
+Sozialgesetzbuch die Träger der Sozialen Entschädigung von den
+Gebühren befreit. Sonstige Vorschriften, die eine sachliche oder
+persönliche Befreiung von Kosten gewähren, gelten für
+Gerichtsvollzieherkosten nur insoweit, als sie ausdrücklich auch diese
+Kosten umfassen.
 
 (3) Landesrechtliche Vorschriften, die in weiteren Fällen eine
 sachliche oder persönliche Befreiung von Gerichtsvollzieherkosten
@@ -477,9 +478,17 @@ erheben, soweit sie nach dem Inkrafttreten dieses Gesetzes entstanden
 sind.
 
 
-### § 20
+### § 20 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
-(weggefallen)
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 2 Absatz 2 Satz 1 in der am
+31\. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 9)
 

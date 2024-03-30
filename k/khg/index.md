@@ -22,6 +22,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 26.7.2023 I Nr. 202
 
+Änderung durch
+:   Art. 8x G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 22.12.2023 I Nr. 406 ist berücksichtigt
+
+Änderung durch
+:   Art. 8a G v. 22.3.2024 I Nr. 101 ist berücksichtigt
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 
@@ -887,7 +896,7 @@ einem Land nach Satz 1 zustehenden Fördermittel, die nicht durch die
 von einem Land bis zum 31. Dezember 2021 vollständig gestellten
 Anträge ausgeschöpft werden, können vom Bundesamt für Soziale
 Sicherung zur Deckung seiner Aufwendungen gemäß Absatz 6 Satz 3
-verwendet werden. Spätestens mit Ablauf des Jahres 2025 werden durch
+verwendet werden. Spätestens mit Ablauf des Jahres 2027 werden durch
 das Bundesamt für Soziale Sicherung die durch die Länder nicht
 ausgeschöpften oder durch das Bundesamt für Soziale Sicherung nicht
 für andere Aufgaben verwendeten Mittel an den Bund zurückgeführt. Das
@@ -947,7 +956,8 @@ ist, dass
 
 
 
-4.  das Krankenhaus an der Auswertung nach § 14b Satz 3 teilnimmt und
+4.  das Krankenhaus an der Auswertung nach § 14b Satz 3 und 4 teilnimmt
+    und
 
 
 5.  die auf Grundlage des Absatzes 7 geregelten Voraussetzungen erfüllt
@@ -1703,12 +1713,12 @@ Pflegepersonal und die Pflegepersonalkosten der folgenden
 Berufsgruppen zu berücksichtigen sind:
 
 1.  als Pflegefachkräfte Personen, die über die Erlaubnis zum Führen einer
-    Berufsbezeichnung nach § 1 Absatz 1 des Pflegeberufegesetzes oder § 58
-    Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren
-    Erlaubnis zum Führen der Berufsbezeichnung nach dem
-    Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder
-    nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden
-    Fassung nach § 64 des Pflegeberufegesetzes fortgilt,
+    Berufsbezeichnung nach § 1 des Pflegeberufegesetzes oder § 58 Absatz 1
+    oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis
+    zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der
+    am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz
+    in der am 31. Dezember 2019 geltenden Fassung nach § 64 des
+    Pflegeberufegesetzes fortgilt,
 
 
 2.  als Pflegehilfskräfte
@@ -3670,10 +3680,10 @@ Vollzeitbeschäftigung und dem Verhältnis der Dauer ihrer Beschäftigung
 in dem Krankenhaus zur Ganzjahresbeschäftigung entspricht.
 
 (3) Pflegefachkräfte im Sinne des Absatzes 2 sind Personen, die über
-die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1, § 58
-Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes, auch in
-Verbindung mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes,
-verfügen. Intensivpflegefachkräfte im Sinne des Absatzes 2 Satz 2 sind
+die Erlaubnis zum Führen der Berufsbezeichnung nach § 1, § 58 Absatz 1
+oder Absatz 2 oder § 64 des Pflegeberufegesetzes, auch in Verbindung
+mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes, verfügen.
+Intensivpflegefachkräfte im Sinne des Absatzes 2 Satz 2 sind
 Pflegefachkräfte im Sinne des Satzes 1, die über eine abgeschlossene
 landesrechtliche Weiterbildung als Fachkrankenpflegerin für
 Intensivpflege und Anästhesie oder als Fachkrankenpfleger für
@@ -3843,16 +3853,17 @@ Gesundheitsfonds zur Verfügung:
     zu 4,5 Milliarden Euro und
 
 
-2.  bis zum 16. Januar 2024 einen Betrag für das Jahr 2024 in Höhe von bis
-    zu weiteren 1,5 Milliarden Euro.
+2.  bis zum 29. Dezember 2023 einen Betrag für das Jahr 2024 in Höhe von
+    bis zu weiteren 1,5 Milliarden Euro.
 
 
 
-Mittel, die für das Jahr 2023 nicht an die Länder oder an die
-benannten Krankenkassen gezahlt worden sind, stehen für Zahlungen im
-Jahr 2024 zur Verfügung. Nach Abschluss der Zahlungen an die Länder
-und an die benannten Krankenkassen nach dieser Vorschrift nicht
-gezahlte Mittel werden an den Bund zurückgeführt.
+Mittel aus der Liquiditätsreserve des Gesundheitsfonds, die im Jahr
+2023 nicht an die Länder oder die benannten Krankenkassen gezahlt
+worden sind, stehen für Zahlungen aus der Liquiditätsreserve des
+Gesundheitsfonds im Jahr 2024 zur Verfügung. Nach Abschluss der
+Zahlungen an die Länder und an die benannten Krankenkassen nach dieser
+Vorschrift nicht gezahlte Mittel werden an den Bund zurückgeführt.
 
 (2) Für die Ermittlung der Höhe der ersten krankenhausindividuellen
 Ausgleichszahlung nach Absatz 1 Satz 1 übermitteln die zugelassenen

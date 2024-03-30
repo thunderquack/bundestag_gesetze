@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1158
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.12.2022 I 2242
+:   Art. 2 V v. 14.12.2023 I Nr. 367
 
 
 ## Abschnitt 1 - Allgemeines
@@ -36,20 +36,15 @@ hierzu sind insbesondere
 
 1.  die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur
     Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit
-    dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über
-    die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014,
-    S. 1; L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung
-    (EU) 2021/1237 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist,
-    in der jeweils geltenden Fassung;
+    dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über
+    die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S.
+    1; L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU)
+    2023/1315 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist, in der
+    jeweils geltenden Fassung;
 
 
-2.  die Mitteilung der Kommission – Leitlinien für staatliche
-    Umweltschutz- und Energiebeihilfen 2014 – 2020 (ABl. C 200 vom
-    28\.6.2014, S. 1);
-
-
-3.  die Mitteilung der Kommission – Leitlinien für staatliche Klima-,
-    Umweltschutz- und Energiebeihilfen 2022 (ABl. C 80 vom 18.2.2022, S.
+2.  die Mitteilung der Kommission – Leitlinien für staatliche Klima-,
+    Umweltschutz- und Energiebeihilfen 2022 (ABl. C 80 vom 18.2.2022, S.
     1).
 
 
@@ -139,21 +134,21 @@ Erzeugnisse verändern.
 ### § 3 Grundsätze
 
 (1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige-
-oder Erklärungspflichten, wenn die Höhe der einzelnen
-Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000
-Euro oder mehr beträgt. Weitere Anzeige- oder Erklärungspflichten nach
-Satz 1 bestehen, wenn das Aufkommen im Kalenderjahr der einzelnen
-gewährten Steuerbegünstigung ab dem Kalenderjahr 2022 jeweils mehr als
+oder Erklärungspflichten, wenn das Aufkommen der einzelnen gewährten
+Steuerbegünstigung ab dem Kalenderjahr 2024 jeweils mehr als
 
-1.  30 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen
-    Begünstigten nach § 2 Absatz 6 und wenn die Steuerbegünstigung auf der
+1.  10 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen
+    Begünstigten nach § 2 Absatz 6, falls die Steuerbegünstigung auf der
     Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
 
-2.  60 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher
-    Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7 und wenn die
+2.  10 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher
+    Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7, falls die
     Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1
-    gewährt wird.
+    gewährt wird;
+
+
+3.  100 000 Euro in den sonstigen Fällen beträgt.
 
 
 
@@ -191,28 +186,52 @@ Angaben veröffentlicht:
 
 
 
-(5) Eine Veröffentlichung erfolgt, wenn das Aufkommen der
-Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr,
-das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils
-maßgeblich ist, mehr als 500 000 Euro beträgt. Die Veröffentlichung
-erfolgt in Aufkommensschritten von 500 001 bis 1 000 000 Euro, von
-1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von
-5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro
-sowie von 30 000 001 und mehr Euro. Das Aufkommen der
-Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den
-Aufkommensschritten auf volle Euro aufgerundet.
+(5) Eine Veröffentlichung nach Absatz 4 erfolgt, wenn das Aufkommen
+der Steuerbegünstigung für die jeweilige Einzelbeihilfe im
+Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2
+Nummer 4 jeweils maßgeblich ist,
 
-(6) Eine Veröffentlichung nach den Absätzen 4 und 5 erfolgt auch in
-den Fällen einer Anzeige- oder Erklärungspflicht nach Absatz 1 Satz 2
-Nummer 1 und 2. Eine Veröffentlichung erfolgt unabhängig von den
-Aufkommensschritten nach Absatz 5 Satz 2 zusätzlich
-
-1.  in den Fällen nach Absatz 1 Satz 2 Nummer 1 im Aufkommensschritt von
-    30 001 Euro bis 500 000 Euro;
+1.  bei Begünstigten nach Absatz 1 Nummer 1 mehr als 10 000 Euro beträgt,
+    falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3
+    Nummer 1 gewährt wird;
 
 
-2.  in den Fällen nach Absatz 1 Satz 2 Nummer 2 im Aufkommensschritt von
-    60 001 Euro bis 500 000 Euro.
+2.  bei Begünstigten nach Absatz 1 Nummer 2 mehr als 10 000 Euro beträgt,
+    falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3
+    Nummer 1 gewährt wird;
+
+
+3.  mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der
+    Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
+
+
+4.  mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der
+    Grundlage von § 1 Absatz 1 Satz 3 Nummer 2 gewährt wird.
+
+
+
+
+(6) Die Veröffentlichung nach Absatz 5 erfolgt jeweils gesondert in
+den Aufkommensschritten von 100 001 Euro bis 500 000 Euro, von 500 001
+bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001
+bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001
+bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen
+der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den
+Aufkommensschritten auf volle Euro aufgerundet. Unbeschadet des Satzes
+1 erfolgt in den Fällen einer Veröffentlichung
+
+1.  nach Absatz 5 Nummer 1 zusätzlich eine Veröffentlichung im
+    Aufkommensschritt 10 001 Euro bis 100 000 Euro;
+
+
+2.  nach Absatz 5 Nummer 2 zusätzlich eine Veröffentlichung im
+    Aufkommensschritt 10 001 Euro bis 100 000 Euro;
+
+
+3.  nach Absatz 5 Nummer 4 zusätzlich eine Veröffentlichung in den
+    Aufkommensschritten von 30 000 001 bis 60 000 000 Euro, von 60 000 001
+    bis 100 000 000 Euro, von 100 000 001 bis 250 000 000 Euro sowie von
+    250 000 001 und mehr Euro.
 
 
 
@@ -523,19 +542,16 @@ Steuerbegünstigungen ab dem 1. Juli 2016.
 
 ### Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2018, 97)
+(Fundstelle: BGBl. 2023 I Nr. 367, 3 – 4)
 
 Steuerbegünstigungen im Sinne dieser Verordnung sind
 
 1.  die Steuerbefreiungen nach
 
-    a)  § 28 Absatz 1 Satz 1 Nummer 1 und 2 des Energiesteuergesetzes,
+    a)  § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
 
 
-    b)  § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
-
-
-    c)  § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
+    b)  § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
 
 
 
@@ -560,12 +576,10 @@ Steuerbegünstigungen im Sinne dieser Verordnung sind
     a)  § 47a des Energiesteuergesetzes,
 
 
-    b)  § 53a Absatz 1 und 4 (bis zum 31. Dezember 2017: § 53b) des
-        Energiesteuergesetzes,
+    b)  § 53a Absatz 1 und 4 des Energiesteuergesetzes,
 
 
-    c)  § 53a Absatz 6 (bis zum 31. Dezember 2017: § 53a Absatz 1) des
-        Energiesteuergesetzes,
+    c)  § 53a Absatz 6 des Energiesteuergesetzes,
 
 
     d)  § 54 des Energiesteuergesetzes,
@@ -580,25 +594,22 @@ Steuerbegünstigungen im Sinne dieser Verordnung sind
     g)  § 57 Absatz 5 Nummer 1 des Energiesteuergesetzes,
 
 
-    h)  § 57 Absatz 5 Nummer 2 des Energiesteuergesetzes,
+    h)  § 9b des Stromsteuergesetzes,
 
 
-    i)  § 9b des Stromsteuergesetzes,
+    i)  § 9c des Stromsteuergesetzes,
 
 
-    j)  § 9c des Stromsteuergesetzes,
+    j)  § 10 des Stromsteuergesetzes,
 
 
-    k)  § 10 des Stromsteuergesetzes,
+    k)  § 12c der Stromsteuer-Durchführungsverordnung,
 
 
-    l)  § 12c der Stromsteuer-Durchführungsverordnung,
+    l)  § 12d der Stromsteuer-Durchführungsverordnung und
 
 
-    m)  § 12d der Stromsteuer-Durchführungsverordnung und
-
-
-    n)  § 14a der Stromsteuer-Durchführungsverordnung.
+    m)  § 14a der Stromsteuer-Durchführungsverordnung.
 
 
 

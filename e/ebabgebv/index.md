@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 3182
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 2 V v. 20.6.2023 I Nr. 159
+:   Art. 3 V v. 30.11.2023 I Nr. 345
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
@@ -469,8 +469,8 @@ m. VwVfG
         –   §§ 17 bis 27 UVPG oder
 
 
-        –   § 73 Absatz 3 Satz 1
-            und Satz 5 bis 7 VwVfG
+        –   § 73 Absatz 3 Satz 1 und 2
+            sowie Absatz 5 bis 7 VwVfG
 
 
 
@@ -1507,8 +1507,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
     *   Erteilung eines neuen, geänderten oder verlängerten
         Triebfahrzeugführerscheins oder eines Ersatzführerscheins
 
-    *   § 8 Absatz 1 i. V. m.
-        Absatz 3 TfV
+    *   § 8 Absatz 1 i. V. m. Absatz 3 TfV
 
     *   150 Euro
 
@@ -1517,7 +1516,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
     *   Aussetzung oder Entziehung eines Triebfahrzeugführerscheins
 
-    *   § 19 Absatz 3 Satz 1 TfV
+    *   § 19a Absatz 1 TfV
 
     *   150 Euro
 
@@ -1534,37 +1533,123 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.5
 
-    *   Anerkennung einer Person oder Stelle als Ausbilder
+    *   Anerkennung und Überwachung einer Person als Ausbilder
 
-    *   § 14 Absatz 1 und 6 TfV
+    *   § 14 Absatz 2 und
+        § 18 Absatz 3 oder § 14d und
+        § 18 Absatz 3 TfV
 
-    *   850 Euro
+    *   1 320 Euro
 
 
 *    *   10.6
 
-    *   Anerkennung einer Person oder Stelle als Prüfer
+    *   Anerkennung und Überwachung einer Stelle als Ausbildungsstelle
 
-    *   § 15 Absatz 1 TfV
+    *   § 14 Absatz 3 und
+        § 18 Absatz 3 oder § 14d und
+        § 18 Absatz 3 TfV
 
-    *   850 Euro
+    *   2 340 Euro
 
 
 *    *   10.7
 
-    *   Anerkennung als Arzt, Psychologe oder Stelle zur Durchführung von
-        Tauglichkeitsuntersuchungen
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als
+        Ausbilder
 
-    *   § 16 Absatz 1 TfV
+    *   § 14 Absatz 2 i. V. m. § 14c Absatz 2 und
+        § 18 Absatz 3 oder § 14d und
+        § 18 Absatz 3 TfV
 
-    *   850 Euro
+    *   852 Euro
 
 
 *    *   10.8
 
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als
+        Ausbildungsstelle
+
+    *   § 14 Absatz 3 i. V. m. § 14c Absatz 2 und
+        § 18 Absatz 3 oder § 14d und
+        § 18 Absatz 3 TfV
+
+    *   1 320 Euro
+
+
+*    *   10.9
+
+    *   Anerkennung und Überwachung einer Person als Prüfer
+
+    *   § 15 Absatz 2 und
+        § 18 Absatz 3 TfV
+
+    *   1 320 Euro
+
+
+*    *   10.10
+
+    *   Anerkennung und Überwachung einer Stelle als Prüfstelle
+
+    *   § 15 Absatz 3 und
+        § 18 Absatz 3 TfV
+
+    *   2 340 Euro
+
+
+*    *   10.11
+
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als
+        Prüfer
+
+    *   § 15 Absatz 2 i. V. m. § 15c Absatz 2 und
+        § 18 Absatz 3 TfV
+
+    *   852 Euro
+
+
+*    *   10.12
+
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als
+        Prüfstelle
+
+    *   § 15 Absatz 3 i. V. m. § 15c Absatz 2 und
+        § 18 Absatz 3 TfV
+
+    *   1 320 Euro
+
+
+*    *   10.13
+
+    *   Anerkennung und Überwachung einer Person als Arzt oder Psychologe für
+        die Durchführung von Untersuchungen nach Anlage 4 TfV
+
+    *   § 16 Absatz 2 und
+        § 18 Absatz 3 oder
+        § 16 Absatz 3 und
+        § 18 Absatz 3 oder § 16b Absatz 2 und
+        § 18 Absatz 3 TfV
+
+    *   996 Euro
+
+
+*    *   10.14
+
+    *   Anerkennung und Überwachung einer Stelle als zuständige Stelle für die
+        Durchführung von Untersuchungen nach Anlage 4 TfV
+
+    *   § 16 Absatz 4 und
+        § 18 Absatz 3 oder § 16b Absatz 2 und
+        § 18 Absatz 3 TfV
+
+    *   1 596 Euro
+
+
+*    *   10.15
+
     *   Umstellung einer Fahrerlaubnis auf einen Triebfahrzeugführerschein
 
-    *   § 21 Absatz 3 TfV
+    *   § 21 Absatz 2 TfV
 
     *   150 Euro
 

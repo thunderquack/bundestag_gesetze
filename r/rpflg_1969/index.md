@@ -135,7 +135,12 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
     m)  Verteilungsverfahren nach § 75 Absatz 2 des Flurbereinigungsgesetzes,
         § 54 Absatz 3 des Landbeschaffungsgesetzes, § 119 Absatz 3 des
-        Baugesetzbuchs und § 94 Absatz 4 des Bundesberggesetzes;
+        Baugesetzbuchs und § 94 Absatz 4 des Bundesberggesetzes,
+
+
+    n)  Gesellschafts-, Genossenschafts- und Partnerschaftsregistersachen nach
+        § 374 des Gesetzes über das Verfahren in Familiensachen und in den
+        Angelegenheiten der freiwilligen Gerichtsbarkeit;
 
 
 
@@ -161,10 +166,9 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
         Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 
-    d)  Handels-, Genossenschafts- und Partnerschaftsregistersachen sowie
-        unternehmensrechtlichen Verfahren nach den §§ 374 und 375 des Gesetzes
-        über das Verfahren in Familiensachen und in den Angelegenheiten der
-        freiwilligen Gerichtsbarkeit,
+    d)  Handelsregistersachen sowie unternehmensrechtlichen Verfahren nach den
+        §§ 374 und 375 des Gesetzes über das Verfahren in Familiensachen und
+        in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 
     e)  Verfahren nach der Insolvenzordnung,
@@ -676,10 +680,10 @@ gebunden.
 
 ### § 17 Registersachen und unternehmensrechtliche Verfahren
 
-In Handels-, Genossenschafts- und Partnerschaftsregistersachen sowie
-in unternehmens-rechtlichen Verfahren nach dem Buch 5 des Gesetzes
-über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
+In Handelsregistersachen sowie in unternehmensrechtlichen Verfahren
+nach dem Buch 5 des Gesetzes über das Verfahren in Familiensachen und
+in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben dem
+Richter vorbehalten
 
 1.  bei Aktiengesellschaften, Kommanditgesellschaften auf Aktien,
     Gesellschaften mit beschränkter Haftung und Versicherungsvereinen auf
@@ -720,20 +724,14 @@ freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
     freiwilligen Gerichtsbarkeit zu erledigenden Geschäfte mit Ausnahme
     der in
 
-    a)  § 146 Absatz 2, § 147 und § 157 Absatz 2 des Handelsgesetzbuchs,
+    a)  § 145 Absatz 1 und § 152 Absatz 1 des Handelsgesetzbuchs,
 
 
-    b)  § 166 Absatz 3 und § 233 Absatz 3 des Handelsgesetzbuchs,
+    b)  § 264 Absatz 2, § 273 Absatz 4 und § 290 Absatz 3 des Aktiengesetzes,
 
 
-    c)  § 264 Absatz 2, § 273 Absatz 4 und § 290 Absatz 3 des Aktiengesetzes,
-
-
-    d)  § 66 Absatz 2, 3 und 5 sowie § 74 Absatz 2 und 3 des Gesetzes
+    c)  § 66 Absatz 2, 3 und 5 sowie § 74 Absatz 2 und 3 des Gesetzes
         betreffend die Gesellschaften mit beschränkter Haftung,
-
-
-    e)  (weggefallen)
 
 
 

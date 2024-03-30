@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 6 V v. 16.3.2023 I Nr. 80
+:   Art. 2 V v. 7.2.2024 I Nr. 37
 
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
@@ -483,7 +483,8 @@ die Dauer der notwendigen Abwesenheit
 
 
 6.  für die Durchführung einer Badekur nach § 11 Absatz 2 des
-    Bundesversorgungsgesetzes.
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung.
 
 
 
@@ -553,7 +554,7 @@ gewähren:
         alt ist, oder eines behinderten und auf Hilfe angewiesenen Kindes
 
     *   für jedes Kind
-        bis zu vier Arbeitstage im Urlaubsjahr
+        bis zu acht Arbeitstage im Urlaubsjahr
 
 
 *    *   5.
@@ -592,25 +593,17 @@ gewähren:
 
 
 
-(2) In den Fällen des Absatzes 1 Nummer 4 darf die Dauer des gewährten
-Sonderurlaubs bei Beamtinnen und Beamten, deren Dienstbezüge oder
-Anwärterbezüge nicht die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6
-des Fünften Buches Sozialgesetzbuch überschreiten, bis zu 75 Prozent
-der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des
-Fünften Buches Sozialgesetzbuch für eine Freistellung von der
-Arbeitsleistung vorgesehen sind.
+(2) Abweichend von Absatz 1 Nummer 4 beträgt die Dauer des gewährten
+Sonderurlaubs für die Jahre 2024 und 2025
 
-(2a) Für das Jahr 2023 erhöht sich die Dauer des Sonderurlaubs nach
-Absatz 1 Nummer 4, auch in Verbindung mit Absatz 2,
-
-1.  bei den alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40
-    Arbeitstage, für alle Kinder zusammen jedoch um höchstens 86
-    Arbeitstage, und
+1.  für jedes Kind längstens bis zu 13 Arbeitstage im Urlaubsjahr, für
+    alle Kinder zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
 
 
-2.  bei den nicht alleinerziehenden Beamtinnen und Beamten für jedes Kind
-    um 20 Arbeitstage, für alle Kinder zusammen jedoch um höchstens 43
-    Arbeitstage.
+2.  bei alleinerziehenden Beamtinnen und Beamten beträgt die Dauer des
+    gewährten Sonderurlaubs für jedes Kind längstens bis zu 26 Arbeitstage
+    im Urlaubsjahr, für alle Kinder zusammen höchstens 60 Arbeitstage im
+    Urlaubsjahr.
 
 
 

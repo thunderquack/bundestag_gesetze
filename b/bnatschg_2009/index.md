@@ -3852,7 +3852,7 @@ der Voraussetzungen des Artikels 31 der Verordnung (EU) Nr. 1143/2014.
 
 #### § 52 Auskunfts- und Zutrittsrecht
 
-(1) Natürliche und juristische Personen sowie nicht rechtsfähige
+(1) Natürliche und juristische Personen sowie sonstige
 Personenvereinigungen haben den für Naturschutz und Landschaftspflege
 zuständigen oder den gemäß § 48a zuständigen Behörden oder nach § 49
 oder § 51a mitwirkenden Behörden auf Verlangen die Auskünfte zu

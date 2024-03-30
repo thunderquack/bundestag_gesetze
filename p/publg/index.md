@@ -1071,7 +1071,7 @@ gelten die in der letztgenannten Vorschrift getroffenen
 Gesetzes auf § 297 Abs. 1 des Handelsgesetzbuchs verweist, ist Artikel
 58 Abs. 5 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuch
 entsprechend anzuwenden; dies gilt nicht, wenn das Mutterunternehmen
-eine Personengesellschaft oder ein Einzelkaufmann ist.
+eine rechtsfähige Personengesellschaft oder ein Einzelkaufmann ist.
 
 (2) Die §§ 2, 9, 12, 15, 20 und 21 in der Fassung des Gesetzes über
 elektronische Handelsregister und Genossenschaftsregister sowie das

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 17.7.2023 I Nr. 191
 
+Änderung durch
+:   Art. 3 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 
@@ -86,7 +89,7 @@ dieses Buches
 
 
     c)  in landwirtschaftlichen Unternehmen in der Rechtsform von Kapital-
-        oder Personenhandelsgesellschaften regelmäßig wie Unternehmer
+        oder rechtsfähigen Personengesellschaften regelmäßig wie Unternehmer
         selbständig tätig sind,
 
 
@@ -456,19 +459,8 @@ sich die Versicherung erstreckt auf
     ehrenamtliche Richter,
 
 
-2.  Personen, soweit für sie das Bundesversorgungsgesetz oder Gesetze, die
-    eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
-    gelten, es sei denn, daß
-
-    a)  der Versicherungsfall zugleich die Folge einer Schädigung im Sinne
-        dieser Gesetze ist oder
-
-
-    b)  es sich um eine Schädigung im Sinne des § 5 Abs. 1 Buchstabe e des
-        Bundesversorgungsgesetzes handelt,
-
-
-
+2.  Personen in der Zeit, in der sie aufgrund gesetzlicher Pflicht
+    Wehrdienst oder Zivildienst leisten.
 
 
 3.  satzungsmäßige Mitglieder geistlicher Genossenschaften, Diakonissen
@@ -542,7 +534,7 @@ versichern
     Ehegatten oder Lebenspartner sowie Fischerei- und Jagdgäste,
 
 
-2.  Personen, die in Kapital- oder Personenhandelsgesellschaften
+2.  Personen, die in Kapital- oder rechtsfähigen Personengesellschaften
     regelmäßig wie Unternehmer selbständig tätig sind,
 
 
@@ -1596,7 +1588,7 @@ geeignet und zumutbar sind, Pflegebedürftigkeit zu vermeiden, zu
 
 
 
-##### § 27 Umfang der Heilbehandlung
+##### § 27 Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur
 
 (1) Die Heilbehandlung umfaßt insbesondere
 
@@ -1623,6 +1615,24 @@ geeignet und zumutbar sind, Pflegebedürftigkeit zu vermeiden, zu
 
 
 
+Für die an der Heilbehandlung nach Satz 1 beteiligten Ärzte,
+Zahnärzte, Einrichtungen und sonstigen Leistungserbringer, die
+Leistungen für die gesetzliche Unfallversicherung erbringen und für
+die aufgrund der Regelungen des Fünften Buches noch keine Möglichkeit
+zur Anbindung an die Telematikinfrastruktur besteht, gilt eine Pflicht
+zur Anbindung ab dem 1. Januar 2027. Satz 2 gilt ebenso für die
+Verpflichtung zur Empfangsbereitschaft elektronischer Briefe nach §
+295 Absatz 1c des Fünften Buches. Zum Ausgleich der in § 376 des
+Fünften Buches genannten Ausstattungs- und Betriebskosten erhalten die
+in Satz 2 genannten Leistungserbringer die in der jeweils geltenden
+Fassung der Vereinbarung nach § 378 Absatz 2 des Fünften Buches für
+die an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringer vereinbarten Erstattungen von der gesetzlichen
+Unfallversicherung.
+
+(1a) Sofern bei der Erbringung von Leistungen nach Absatz 1
+telemedizinische Verfahren angewandt werden, sollen diese die nach den
+§§ 364 bis 368 des Fünften Buches festgelegten Anforderungen erfüllen.
 
 (2) In den Fällen des § 8 Abs. 3 wird ein beschädigtes oder
 verlorengegangenes Hilfsmittel wiederhergestellt oder erneuert.
@@ -1630,6 +1640,19 @@ verlorengegangenes Hilfsmittel wiederhergestellt oder erneuert.
 (3) Während einer aufgrund eines Gesetzes angeordneten
 Freiheitsentziehung wird Heilbehandlung erbracht, soweit Belange des
 Vollzugs nicht entgegenstehen.
+
+
+##### § 27a Nutzung der Telematikinfrastruktur
+
+(1) Bei der Erbringung von Leistungen nach § 27 Absatz 1 gelten die §§
+31a, 347, 348 und 374a des Fünften Buches entsprechend, sofern der
+Leistungserbringer an die Telematikinfrastruktur angebunden ist.
+
+(2) § 360 des Fünften Buches gilt entsprechend für die
+Leistungserbinger nach § 27 Absatz 1 sowie die
+Unfallversicherungsträger, sobald die Verordnung von Leistungen nach §
+27 Absatz 1 Nummer 4 elektronisch erfolgt und der Leistungserbringer
+an die Telematikinfrastruktur angebunden ist.
 
 
 ##### § 28 Ärztliche und zahnärztliche Behandlung
@@ -2018,12 +2041,12 @@ aktuellen Rentenwertes fest.
 
 2.  unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung
     Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld,
-    Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld,
-    Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld,
-    nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz
-    1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen
-    für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch
-    oder Mutterschaftsgeld hatten.
+    Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen
+    Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld,
+    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
+    19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für
+    Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach
+    dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 
 
@@ -2179,8 +2202,8 @@ Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
 erhalten Verletztengeld in Höhe dieses Betrages.
 
 (4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall
-Krankengeld, Pflegeunterstützungsgeld, Verletztengeld,
-Versorgungskrankengeld oder Übergangsgeld bezogen haben, wird bei der
+Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der
+Sozialen Entschädigung oder Übergangsgeld bezogen haben, wird bei der
 Berechnung des Verletztengeldes von dem bisher zugrunde gelegten
 Regelentgelt ausgegangen.
 
@@ -2273,12 +2296,13 @@ erzielten Einkommen angerechnet
     einmalig gezahltes Arbeitsentgelt,
 
 
-2.  Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld,
-    Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes
-    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt
-    auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer
-    Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19
-    Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
+2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung,
+    Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur
+    darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des
+    Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem
+    Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch
+    auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert
+    ist.
 
 
 
@@ -2434,7 +2458,7 @@ früheren Versicherungsfall, Anspruch auf Rente. Die Folgen eines
 Versicherungsfalls sind nur zu berücksichtigen, wenn sie die
 Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den
 Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle
-nach den Beamtengesetzen, dem Bundesversorgungsgesetz, dem
+nach den Beamtengesetzen, dem Vierzehnten Buch, dem
 Soldatenversorgungsgesetz, dem Gesetz über den zivilen Ersatzdienst,
 dem Gesetz über die Abgeltung von Besatzungsschäden, dem
 Häftlingshilfegesetz und den entsprechenden Gesetzen, die
@@ -4054,16 +4078,15 @@ des Schuldners, auf den Ersatzanspruch ganz oder teilweise verzichten.
 
 Haben ein Mitglied eines vertretungsberechtigten Organs, Abwickler
 oder Liquidatoren juristischer Personen, vertretungsberechtigte
-Gesellschafter oder Liquidatoren einer Personengesellschaft des
-Handelsrechts oder gesetzliche Vertreter der Unternehmer in Ausführung
-ihnen zustehender Verrichtungen den Versicherungsfall vorsätzlich oder
-grob fahrlässig verursacht, haften nach Maßgabe des § 110 auch die
-Vertretenen. Eine nach § 110 bestehende Haftung derjenigen, die den
-Versicherungsfall verursacht haben, bleibt unberührt. Das gleiche gilt
-für Mitglieder des Vorstandes eines nicht rechtsfähigen Vereins oder
-für vertretungsberechtigte Gesellschafter einer Personengesellschaft
-des bürgerlichen Rechts mit der Maßgabe, daß sich die Haftung auf das
-Vereins- oder das Gesellschaftsvermögen beschränkt.
+Gesellschafter oder Liquidatoren einer rechtsfähigen
+Personengesellschaft oder gesetzliche Vertreter der Unternehmer in
+Ausführung ihnen zustehender Verrichtungen den Versicherungsfall
+vorsätzlich oder grob fahrlässig verursacht, haften nach Maßgabe des §
+110 auch die Vertretenen. Eine nach § 110 bestehende Haftung
+derjenigen, die den Versicherungsfall verursacht haben, bleibt
+unberührt. Das Gleiche gilt für Mitglieder des Vorstandes eines nicht
+rechtsfähigen Vereins mit der Maßgabe, dass sich die Haftung auf das
+Vereinsvermögen beschränkt.
 
 
 #### § 112 Bindung der Gerichte
@@ -5218,7 +5241,8 @@ Identifizierung des Unternehmens dem zuständigen Träger der
 Unfallversicherung mit. In einem Anhang zu der Unternehmernummer
 werden die dem Unternehmer zugehörigen Unternehmen numerisch in
 aufsteigender Folge bezeichnet. Die Unternehmernummer und die zur
-Identifizierung des Unternehmens erforderlichen Daten werden in einem
+Identifizierung des Unternehmens erforderlichen Daten, einschließlich
+aller dem Unternehmen zuzuordnenden Betriebsnummern, werden in einem
 zentralen Dateisystem bei der Deutschen Gesetzlichen
 Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und
 Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung
@@ -8414,8 +8438,18 @@ Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
 zu genehmigen sind.
 
 
-### § 225 (weggefallen)
+### § 225 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 4 Absatz 1 Nummer 2, des § 45
+Absatz 1 Nummer 2, des § 47 Absatz 4, des § 52 Nummer 2 und des § 56
+Absatz 1 Satz 4 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 114)
 

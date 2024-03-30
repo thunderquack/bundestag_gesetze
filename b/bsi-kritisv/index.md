@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 958
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.2.2023 I Nr. 53
+:   Art. 1 V v. 29.11.2023 I Nr. 339
 
 
 ## Eingangsformel
@@ -398,7 +398,32 @@ solche Anlagen oder Teile davon, die
 
 
 
-## § 9 Evaluierung
+## § 9 Sektor Siedlungsabfallentsorgung
+
+(1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
+Gemeinwesens ist im Sektor Siedlungsabfallentsorgung die Entsorgung
+von Siedlungsabfällen kritische Dienstleistung im Sinne des § 10
+Absatz 1 Satz 1 des BSI-Gesetzes.
+
+(2) Die Siedlungsabfallentsorgung wird in den Bereichen
+„Abfallsammlung und -beförderung“ und „Abfallverwertung und
+-beseitigung“ erbracht.
+
+(3) Im Sektor Siedlungsabfallentsorgung sind Kritische Infrastrukturen
+solche Anlagen oder Teile davon, die
+
+1.  den in Anhang 8 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
+    und
+
+
+2.  den Schwellenwert nach Anhang 8 Teil 3 Spalte D erreichen oder
+    überschreiten.
+
+
+
+
+
+## § 10 Evaluierung
 
 Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle
 zwei Jahre sind unter Beteiligung der in § 10 Absatz 1 Satz 1 des BSI-
@@ -422,7 +447,8 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 ## Anhang 1 Anlagenkategorien und Schwellenwerte im Sektor Energie
 
-(Fundstelle: BGBl. I 2016,960 - 962)
+(Fundstelle: BGBl. I 2016, 960 - 962
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1
 
@@ -439,7 +465,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
     2.1 Erzeugungsanlage
 
-        eine Anlage im Sinne des § 3 Nummer 18c des
+        eine Anlage im Sinne des § 3 Nummer 18d des
         Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur
         Speicherung von elektrischer Energie sowie dezentrale
         Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des
@@ -502,7 +528,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
     2.10 Gasspeicher
 
-        eine Speicheranlage im Sinne des § 3 Nummer 31 des
+        eine Speicheranlage im Sinne des § 3 Nummer 19c des
         Energiewirtschaftsgesetzes.
 
 
@@ -512,7 +538,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
         Energiewirtschaftsgesetzes.
 
 
-    2.12 Gashandelssystem
+    2.12 Gas- oder Kapazitätshandelssystem
 
         eine Anlage oder ein elektronisches Handelssystem für den Handel von
         Gasmengen oder -kapazitäten.
@@ -696,12 +722,13 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 
 9.  Der für die Anlagenkategorien des Teils 3 Nummer 1.4.1 genannte
-    Schwellenwert ist unter Annahme eines Gesamthandelsvolumens von rund
-    600 000 GWh und eines Durchschnittshandelsvolumens pro Person pro Jahr
-    von 7,46 MWh und eines Regelschwellenwertes von 500 000 versorgten
+    Schwellenwert ist unter Annahme eines Gesamthandelsvolumens rund 7 400
+    TWh und eines Durchschnittshandelsvolumens pro Person pro Jahr von
+    92,6 MWh und eines Regelschwellenwertes von 500 000 versorgten
     Personen wie folgt berechnet:
 
-    *        *   3,7 TWh*                              7,46 MWh / Jahr x 500 000
+
+    *        *   46,3 TWh*                              92,6 MWh/Jahr x 500 000
 
 
 
@@ -712,6 +739,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     10 380 kWh pro versorgter Person pro Jahr und eines
     Regelschwellenwertes von 500 000 versorgten Personen wie folgt
     berechnet:
+
 
     *        *   5 190 GWh/Jahr = 10 380 kWh/Jahr x 500 000
 
@@ -724,6 +752,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     durchschnittlichen Produktionsmenge von 0,84 Tonnen Kraftstoff zur
     Versorgung einer Person pro Jahr und eines Regelschwellenwertes von
     500 000 versorgten Personen wie folgt berechnet:
+
 
     *        *   420 000 t/Jahr = 0,84 t/Jahr x 500 000
 
@@ -740,6 +769,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     aus einer Tonne Rohöl etwa 0,14 Tonnen leichtes Heizöl hergestellt
     werden, wie folgt berechnet:
 
+
     *        *   4 400 000 t/Jahr = 620 000 t/Jahr / 0,14
 
 
@@ -752,6 +782,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     Produktionsmenge von 0,84 Tonnen Kraftstoff zur Versorgung einer
     Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten
     Personen wie folgt berechnet:
+
 
     *        *   420 000 t/Jahr = 0,84 t/Jahr x 500 000
 
@@ -778,6 +809,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     Produktionsmenge von 1,24 Tonnen leichtem Heizöl zur Versorgung einer
     Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten
     Personen wie folgt berechnet:
+
 
     *        *   620 000 t/Jahr = 1,24 t/Jahr x 500 000
 
@@ -1004,9 +1036,16 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 *    *   2.4.1
 
-    *   Gashandelssystem
+    *   Gas- oder Kapazitätshandelssystem
 
-    *   Energie der gehandelten Gasmengen oder ‑kapazitäten in GWh/Jahr
+    *   Energie der gehandelten Gasmengen in GWh/Jahr oder
+
+    *   5 190
+
+
+*    *
+    *
+    *   Menge der gehandelten Gastransportkapazitäten in GWh/h/Jahr
 
     *   5 190
 
@@ -2673,7 +2712,8 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 ## Anhang 6 Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
 
-(Fundstelle: BGBl. I 2017, 1913 — 1918)
+(Fundstelle: BGBl. I 2017, 1913 — 1918
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Teil 1**
 ## **Grundsätze und Fristen**
@@ -3524,7 +3564,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
     *   Anzahl der Versicherten
 
-    *   3 000 000
+    *   500 000
 
 
 *    *   5.2.2
@@ -4331,6 +4371,333 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
     *   Einordnung der Anlage nach der Verordnung (EU) Nr. 1285/2013
 
     *   Bodenstationen
+
+
+
+(zu § 1 Nummer 4 und 5, § 9 Absatz 3 Nummer 1 und 2)
+
+## Anhang 8 Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
+
+(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4)
+
+## **Teil 1**
+
+## Grundsätze und Fristen
+
+
+1.  Im Sinne von Anhang 8 ist oder sind
+
+    1.1 Anlage zur Disposition der Siedlungsabfallsammlung oder -beförderung
+
+        eine Anlage zur Planung, Steuerung, Optimierung und Durchführung der
+        Sammlung oder Beförderung von Siedlungsabfällen, zum Beispiel
+        Dispositionssysteme, Flottenmanagement- oder Enterprise Resource
+        Planning-Systeme (ERP-Systeme).
+
+
+    1.2 Anlage zur Lagerung, Zwischenlagerung und Umladung von
+        Siedlungsabfällen
+
+        eine Anlage zur Planung, Steuerung, Optimierung und Durchführung der
+        Lagerung, Zwischenlagerung und Umladung von Siedlungsabfällen zum
+        Zweck des Weitertransports, zum Beispiel Zwischenlager oder
+        Umladestationen.
+
+
+    1.3 Anlage zur thermischen Behandlung von Siedlungsabfällen
+
+        eine Anlage zur Verbrennung von Siedlungsabfällen, zum Beispiel
+        Müllverbrennungsanlagen (MVA) oder Ersatzbrennstoffkraftwerke (EBS-
+        Kraftwerke).
+
+
+    1.4 Anlage zur mechanisch-biologischen oder mechanisch-physikalischen
+        Behandlung von Siedlungsabfällen
+
+        eine Anlage zur Trennung, Sortierung, Zerkleinerung, Pressung, aeroben
+        oder anaeroben Behandlung von Siedlungsabfällen, zum Beispiel
+        mechanisch-biologische Abfallbehandlungsanlagen (MBA), mechanisch-
+        biologische Stabilisierungsanlagen (MBS) oder mechanisch-physikalische
+        Abfallbehandlungsanlagen (MPS).
+
+
+    1.5 Anlage zur biologischen Behandlung von Siedlungsabfällen
+
+        eine Anlage zum hygienisierenden oder biologisch-stabilisierenden
+        Behandeln von getrennt erfassten Bioabfällen, zum Beispiel
+        Kompostierungs- und Vergärungsanlagen.
+
+
+    1.6 Anlage zur mechanischen Behandlung von Siedlungsabfällen
+
+        eine Anlage zur Zerkleinerung, Klassierung, Sortierung, Pressung und
+        Palettierung von Siedlungsabfällen.
+
+
+    1.7 Anlage zur Sortierung von Siedlungsabfällen
+
+        eine Anlage zur Trennung und Sortierung von Siedlungsabfällen, zum
+        Beispiel Sortieranlagen.
+
+
+
+
+
+2.  Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie
+    zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
+    Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
+    genannten Schwellenwert erstmals erreicht oder überschreitet, als
+    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
+    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
+    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
+    Schwellenwert unterschreitet.
+
+
+3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
+    zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres
+    zu ermitteln.
+
+
+4.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
+    betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
+    überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
+    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
+    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    Anlagen
+
+    a)  auf demselben Betriebsgelände liegen,
+
+
+    b)  mit gemeinsamen Betriebseinrichtungen verbunden sind,
+
+
+    c)  einem vergleichbaren technischen Zweck dienen und
+
+
+    d)  unter gemeinsamer Leitung stehen.
+
+
+
+
+
+
+
+## **Teil 2**
+
+## Berechnungsformen zur Ermittlung der Schwellenwerte
+
+
+5.  Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (Rest-
+    oder gemischter Gewerbeabfall) ist unter Annahme eines
+    durchschnittlichen Abfallaufkommens von 159 kg Rest- oder Hausmüll
+    sowie hausmüllähnliche Gewerbeabfälle, in Bezug auf übliche
+    Restmülltonnen, einer Person pro Jahr wie folgt berechnet:
+
+
+    *        *   79 500 Mg = 159 kg x 500 000
+
+
+
+
+
+6.  Der für die Anlagekategorien des Teils 3 genannte Schwellenwert
+    (Bioabfall) ist unter Annahme eines durchschnittlichen
+    Abfallaufkommens von 67 kg Abfälle aus der Biotonne einer Person pro
+    Jahr wie folgt berechnet:
+
+
+    *        *   33 500 Mg = 67 kg x 500 000
+
+
+
+
+
+7.  Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (LVP-
+    und Kunststoffabfall) ist unter Annahme eines durchschnittlichen
+    Abfallaufkommens von 35 kg Leichtverpackungen und 2 kg Kunststoff
+    (Gesamtmenge: 37 kg) einer Person pro Jahr wie folgt berechnet:
+
+
+    *        *   18 500 Mg = 37 kg x 500 000
+
+
+
+
+
+8.  Der für die Anlagekategorien des Teils 3 genannte Schwellenwert (PPK-
+    Abfall) ist unter Annahme eines durchschnittlichen Abfallaufkommens
+    von 65 kg Papier, Pappe und Karton einer Person pro Jahr wie folgt
+    berechnet:
+
+
+    *        *   32 500 Mg = 65 kg x 500 000
+
+
+
+
+
+9.  Der für die Anlagekategorien des Teils 3 genannte Schwellenwert
+    (Glasabfall) ist unter Annahme eines durchschnittlichen
+    Abfallaufkommens von 24 kg Glas einer Person pro Jahr wie folgt
+    berechnet:
+
+
+    *        *   12 000 Mg = 24 kg x 500 000
+
+
+
+
+
+
+
+## **Teil 3**
+
+## Anlagekategorien und Schwellenwerte
+
+
+*    *   Spalte A
+
+    *   Spalte B
+
+    *   Spalte C
+
+    *   Spalte D
+
+
+*    *   Nr.
+
+    *   Anlagenkategorie
+
+    *   Bemessungskriterium
+
+    *   Schwellenwert
+
+
+*    *   **1.**
+
+    *   **Sammlung und Beförderung**
+
+
+*    *   1.1
+
+    *   Anlage zur Disposition der Siedlungsabfallsammlung oder
+        -beförderung
+
+    *   Anzahl Einwohner, die an die Abfallsammlung angeschlossen sind, oder
+
+    *   500 000
+
+
+*    *   gesammelter oder beförderter Rest- oder gemischter Gewerbeabfall in
+        Mg/Jahr oder
+
+    *   79 500
+
+
+*    *   gesammelter oder beförderter Bioabfall in Mg/Jahr oder
+
+    *   33 500
+
+
+*    *   gesammelter oder beförderter LVP- und Kunststoffabfall in Mg/Jahr oder
+
+    *   18 500
+
+
+*    *   gesammelter PPK-Abfall in Mg/Jahr oder
+
+    *   32 500
+
+
+*    *   gesammelter Glasabfall in Mg/Jahr
+
+    *   12 000
+
+
+*    *   1.2
+
+    *   Anlage zur Lagerung, Zwischenlagerung und Umladung von
+        Siedlungsabfällen
+
+    *   Zugang an Rest- oder gemischtem Gewerbeabfall in Mg/Jahr oder
+
+    *   79 500
+
+
+*    *   Zugang an Bioabfall in Mg/Jahr oder
+
+    *   33 500
+
+
+*    *   Zugang an LVP- und Kunststoffabfall in
+        Mg/Jahr
+
+    *   18 500
+
+
+*    *   **2.**
+
+    *   **Verwertung und Beseitigung**
+
+
+*    *   2.1
+
+    *   Anlage zur thermischen Behandlung von Siedlungsabfällen
+
+    *   Genehmigte Behandlungskapazität von Rest- oder gemischtem
+        Gewerbeabfall in
+        Mg/Jahr
+
+    *   79 500
+
+
+*    *   2.2
+
+    *   Anlage zur mechanisch-biologischen oder mechanisch-physikalischen
+        Behandlung von Siedlungsabfällen
+
+    *   Genehmigte Behandlungskapazität von Rest- oder gemischtem
+        Gewerbeabfall in
+        Mg/Jahr
+
+    *   79 500
+
+
+*    *   2.3
+
+    *   Anlage zur biologischen Behandlung von Siedlungsabfällen
+
+    *   Genehmigte Behandlungskapazität von Bioabfall in Mg/Jahr
+
+    *   33 500
+
+
+*    *   2.4
+
+    *   Anlage zur mechanischen Behandlung von Siedlungsabfällen
+
+    *   Genehmigte Behandlungskapazität von Rest- oder gemischtem
+        Gewerbeabfall in
+        Mg/Jahr
+
+    *   79 500
+
+
+*    *   2.5
+
+    *   Anlage zur Sortierung von Siedlungsabfällen
+
+    *   Genehmigte Behandlungskapazität von Rest- oder gemischtem
+        Gewerbeabfall in
+        Mg/Jahr oder
+
+    *   79 500
+
+
+*    *   genehmigte Behandlungskapazität von
+        LVP- und Kunststoffabfall in Mg/Jahr
+
+    *   18 500
 
 
 

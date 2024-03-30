@@ -2593,7 +2593,8 @@ weitergewährt, solange
 3.  Übergangsgeld aus der gesetzlichen Unfallversicherung,
 
 
-4.  Übergangsgeld nach den §§ 16 bis 16f des Bundesversorgungsgesetzes,
+4.  Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten
+    Buches Sozialgesetzbuch,
 
 
 5.  Kurzarbeitergeld oder Schlechtwettergeld,

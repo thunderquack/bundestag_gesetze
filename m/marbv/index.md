@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 9.7.2021 I 2444
 
+Änderung durch
+:   Art. 22 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -147,7 +150,7 @@ Kalendermonat fällt, diesem zuzurechnen.
     *   in den Besoldungsgruppen
         A 3 bis A 4
 
-    *   13,85 Euro,
+    *   15,42 Euro,
 
 
 *    *   2.
@@ -155,7 +158,7 @@ Kalendermonat fällt, diesem zuzurechnen.
     *   in den Besoldungsgruppen
         A 5 bis A 8
 
-    *   16,37 Euro,
+    *   18,22 Euro,
 
 
 *    *   3.
@@ -163,7 +166,7 @@ Kalendermonat fällt, diesem zuzurechnen.
     *   in den Besoldungsgruppen
         A 9 bis A 12
 
-    *   22,49 Euro,
+    *   25,03 Euro,
 
 
 *    *   4.
@@ -171,7 +174,7 @@ Kalendermonat fällt, diesem zuzurechnen.
     *   in den Besoldungsgruppen
         A 13 bis A 16
 
-    *   30,96 Euro.
+    *   34,46 Euro.
 
 
 
@@ -187,14 +190,14 @@ Fachschulen des Bundes
 
     *   im gehobenen Dienst
 
-    *   30,76 Euro,
+    *   34,24 Euro,
 
 
 *    *   2.
 
     *   im höheren Dienst
 
-    *   35,94 Euro.
+    *   40,00 Euro.
 
 
 

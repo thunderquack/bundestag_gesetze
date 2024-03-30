@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2141
 
+Geändert durch
+:   Art. 12 G v. 22.12.2023 I Nr. 409
+
 
 ## Eingangsformel
 
@@ -35,6 +38,17 @@ Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151
 vom 14.6.2018, S. 1), die durch die Verordnung (EU) 2019/2144 (ABl. L
 325 vom 16.12.2019, S. 1) geändert worden ist, mit mindestens vier
 Rädern.
+
+
+## § 1a Besondere Bedeutung der Errichtung und des Betriebs von Schnellladeinfrastruktur
+
+Die Errichtung und der Betrieb von Schnellladepunkten und
+Schnellladestandorten an Bundesfernstraßen liegt im überragenden
+öffentlichen Interesse, solange und soweit eine bedarfsdeckende
+Ausstattung noch nicht erreicht ist. Das Bundesministerium für
+Digitales und Verkehr gibt den Zeitpunkt, zu dem die bedarfsdeckende
+Ausstattung mit Schnellladepunkten und Schnellladestandorten erreicht
+ist, im Bundesanzeiger bekannt.
 
 
 ## § 2 Begriffsbestimmungen

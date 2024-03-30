@@ -195,13 +195,14 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 2.  Anlagenbetreiber
 
-    eine natürliche oder juristische Person oder Personengesellschaft, die
-    die unmittelbare Entscheidungsgewalt über eine Anlage innehat, in der
-    eine Tätigkeit nach Anhang 1 Teil 2 Nummer 1 bis 32 durchgeführt wird,
-    und die dabei die wirtschaftlichen Risiken trägt; wer im Sinne des
-    Bundes-Immissionsschutzgesetzes eine genehmigungsbedürftige Anlage
-    betreibt, in der eine Tätigkeit nach Anhang 1 Teil 2 Nummer 1 bis 30
-    durchgeführt wird, ist Anlagenbetreiber nach Halbsatz 1;
+    eine natürliche oder juristische Person oder rechtsfähige
+    Personengesellschaft, die die unmittelbare Entscheidungsgewalt über
+    eine Anlage innehat, in der eine Tätigkeit nach Anhang 1 Teil 2 Nummer
+    1 bis 32 durchgeführt wird, und die dabei die wirtschaftlichen Risiken
+    trägt; wer im Sinne des Bundes-Immissionsschutzgesetzes eine
+    genehmigungsbedürftige Anlage betreibt, in der eine Tätigkeit nach
+    Anhang 1 Teil 2 Nummer 1 bis 30 durchgeführt wird, ist
+    Anlagenbetreiber nach Halbsatz 1;
 
 
 3.  Berechtigung
@@ -230,13 +231,14 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 7.  Luftfahrzeugbetreiber
 
-    eine natürliche oder juristische Person oder Personengesellschaft, die
-    die unmittelbare Entscheidungsgewalt über ein Luftfahrzeug zu dem
-    Zeitpunkt innehat, zu dem mit diesem eine Luftverkehrstätigkeit
-    durchgeführt wird, und die dabei die wirtschaftlichen Risiken der
-    Luftverkehrstätigkeit trägt, oder, wenn die Identität dieser Person
-    nicht bekannt ist oder vom Luftfahrzeugeigentümer nicht angegeben
-    wird, der Eigentümer des Luftfahrzeugs;
+    eine natürliche oder juristische Person oder rechtsfähige
+    Personengesellschaft, die die unmittelbare Entscheidungsgewalt über
+    ein Luftfahrzeug zu dem Zeitpunkt innehat, zu dem mit diesem eine
+    Luftverkehrstätigkeit durchgeführt wird, und die dabei die
+    wirtschaftlichen Risiken der Luftverkehrstätigkeit trägt, oder, wenn
+    die Identität dieser Person nicht bekannt ist oder vom
+    Luftfahrzeugeigentümer nicht angegeben wird, der Eigentümer des
+    Luftfahrzeugs;
 
 
 8.  Luftverkehrsberechtigung

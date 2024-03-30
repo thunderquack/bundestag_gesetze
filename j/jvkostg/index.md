@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
-Stand: Zuletzt geändert Art. 4 G v. 19.6.2023 I Nr. 154
+Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -668,10 +668,9 @@ Teil 1
 
     *   Registrierung nach dem RDG
         ..........
-        Bei Registrierung einer juristischen Person oder einer Gesellschaft
-        ohne Rechtspersönlichkeit wird mit der Gebühr auch die Eintragung
-        einer qualifizierten Person in das Rechtsdienstleistungsregister
-        abgegolten.
+        Bei Registrierung einer juristischen Person oder einer rechtsfähigen
+        Personengesellschaft wird mit der Gebühr auch die Eintragung einer
+        qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.
 
     *   150,00 €
 
@@ -1471,6 +1470,10 @@ Teil 1
 
     *   220,00 €
 
+
+*    *
+    *
+    *
 
 *    *   **Abschnitt 4**
         **Sonstige Gebühren**

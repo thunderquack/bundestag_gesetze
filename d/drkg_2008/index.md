@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15e G v. 11.7.2021 I 2754
 
+Änderung durch
+:   Art. 8y G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Deutsches Rotes Kreuz
 
@@ -103,6 +106,13 @@ Ausbildung kein Tarifvertrag gilt. Abweichend von § 16 Absatz 2 Nummer
 geltenden Betriebs- und Dienstvereinbarungen durch die durchführende
 Einrichtung der praktischen Ausbildung zu erteilen; im Übrigen gilt §
 16 Absatz 2 Nummer 11 des Pflegeberufegesetzes entsprechend.
+
+(6) Absatz 5 gilt für eine hochschulische Pflegeausbildung nach Teil 3
+des Pflegeberufegesetzes entsprechend. An die Stelle des Trägers der
+praktischen Ausbildung tritt der Träger des praktischen Teils der
+hochschulischen Pflegeausbildung. An die Stelle der oder des
+Auszubildenden tritt die oder der Studierende. § 38a Absatz 2 und §
+38b Absatz 3 des Pflegeberufegesetzes gelten entsprechend.
 
 
 ### § 3 Schutz des Zeichens und der Bezeichnungen

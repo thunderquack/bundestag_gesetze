@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2001, 1254 (2298) (2017 I 154)
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 4 G v. 5.7.2021 I 2274
+:   Art. 4 G v. 22.12.2023 I Nr. 413
 
+Stand: Das G ist gem. Art. 5 Satz 1 G v. 26.6.2001 I 1254 mWv 29.6.2001 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -383,7 +384,7 @@ berechtigten Stellen nur übermittelt werden
 
 
     b)  bestimmte Tatsachen den Verdacht begründen, dass jemand eine sonstige
-        in § 7 Abs. 4 Satz 1 genannte Straftat plant oder begeht,
+        in § 7 Absatz 2 genannte Straftat plant oder begeht,
 
 
 
@@ -400,10 +401,11 @@ berechtigten Stellen nur übermittelt werden
 
 
 
-soweit sie zur Erfüllung der Aufgaben des Empfängers erforderlich
-sind. Bei der Übermittlung an ausländische öffentliche Stellen sowie
-an über- und zwischenstaatliche Stellen ist daneben § 19 Absatz 3 Satz
-2 und 4 des Bundesverfassungsschutzgesetzes anzuwenden.
+soweit sie zur Erfüllung der Aufgaben des Empfängers erforderlich sind
+und in den Fällen der Nummern 1 und 2 daneben die Voraussetzungen der
+Vorschriften vorliegen, die Übermittlungen der übermittelnden Stelle
+für die Verhinderung, Aufklärung oder Verfolgung von Straftaten
+allgemein regeln.
 
 (5) Sind mit personenbezogenen Daten, die übermittelt werden dürfen,
 weitere Daten des Betroffenen oder eines Dritten in Akten so
@@ -574,6 +576,12 @@ verwendet werden. Sie sind sechs Monate nach der Mitteilung oder der
 Feststellung nach § 12 Absatz 2 zu löschen.
 
 
+### § 5b Schutz zeugnisverweigerungsberechtigter Personen
+
+Für den Schutz zeugnisverweigerungsberechtigter Personen gilt § 3b
+entsprechend.
+
+
 ### § 6 Prüf-, Kennzeichnungs- und Löschungspflichten, Zweckbindung
 
 (1) Der Bundesnachrichtendienst prüft unverzüglich und sodann in
@@ -711,96 +719,17 @@ gilt entsprechend.
 ### § 7 Übermittlungen durch den Bundesnachrichtendienst
 
 (1) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
-dürfen nach § 65 Absatz 1 des BND-Gesetzes zur Unterrichtung über die
-in § 5 Abs. 1 Satz 3 genannten Gefahren übermittelt werden.
+dürfen an die Verfassungsschutzbehörden des Bundes und der Länder
+sowie an das Bundesamt für den Militärischen Abschirmdienst unter den
+Voraussetzungen des § 11 des BND-Gesetzes übermittelt werden.
 
 (2) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
-dürfen an die Verfassungsschutzbehörden des Bundes und der Länder
-sowie an den Militärischen Abschirmdienst übermittelt werden, wenn
+dürfen an inländische Strafverfolgungsbehörden unter den
+Voraussetzungen des § 11a des BND-Gesetzes übermittelt werden.
 
-1.  tatsächliche Anhaltspunkte dafür bestehen, dass die Daten erforderlich
-    sind zur Sammlung und Auswertung von Informationen über Bestrebungen
-    in der Bundesrepublik Deutschland, die durch Anwendung von Gewalt oder
-    darauf gerichtete Vorbereitungshandlungen gegen die in § 3 Abs. 1 Nr.
-    1, 3 und 4 des Bundesverfassungsschutzgesetzes genannten Schutzgüter
-    gerichtet sind,
-
-
-2.  bestimmte Tatsachen den Verdacht sicherheitsgefährdender oder
-    geheimdienstlicher Tätigkeiten für eine fremde Macht begründen oder
-
-
-3.  im Falle des § 5 Absatz 1 Satz 1 in Verbindung mit Satz 3 Nummer 8
-    tatsächliche Anhaltspunkte dafür bestehen, dass die Angriffe von
-    Bestrebungen oder Tätigkeiten nach § 3 Absatz 1 des
-    Bundesverfassungsschutzgesetzes ausgehen.
-
-
-
-
-(3) Durch Beschränkungen nach § 5 Abs. 1 Satz 1 in Verbindung mit Satz
-3 Nr. 3 erhobene personenbezogene Daten dürfen an das Bundesamt für
-Wirtschaft und Ausfuhrkontrolle (BAFA) übermittelt werden, wenn
-tatsächliche Anhaltspunkte dafür bestehen, dass die Kenntnis dieser
-Daten erforderlich ist
-
-1.  zur Aufklärung von Teilnehmern am Außenwirtschaftsverkehr über
-    Umstände, die für die Einhaltung von Beschränkungen des
-    Außenwirtschaftsverkehrs von Bedeutung sind, oder
-
-
-2.  im Rahmen eines Verfahrens zur Erteilung einer ausfuhrrechtlichen
-    Genehmigung oder zur Unterrichtung von Teilnehmern am
-    Außenwirtschaftsverkehr, soweit hierdurch eine Genehmigungspflicht für
-    die Ausfuhr von Gütern begründet wird.
-
-
-
-
-(4) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
-dürfen zur Verhinderung von Straftaten an die mit polizeilichen
-Aufgaben betrauten Behörden übermittelt werden, wenn
-
-1.  tatsächliche Anhaltspunkte für den Verdacht bestehen, dass jemand
-
-    a)  Straftaten nach den §§ 89a, 89b, 89c Absatz 1 bis 4 oder § 129a, auch
-        in Verbindung mit § 129b Abs. 1, sowie den §§ 146, 151 bis 152a oder §
-        261 des Strafgesetzbuches,
-
-
-    b)  vorsätzliche Straftaten nach den §§ 17 und 18 des
-        Außenwirtschaftsgesetzes, §§ 19 bis 21 oder § 22a Abs. 1 Nr. 4, 5 und
-        7 des Gesetzes über die Kontrolle von Kriegswaffen oder
-
-
-    c)  Straftaten nach § 29a Abs. 1 Nr. 2, § 30 Abs. 1 Nr. 1, 4 oder § 30a
-        des Betäubungsmittelgesetzes
-
-
-
-    plant oder begeht oder
-
-
-2.  bestimmte Tatsachen den Verdacht begründen, dass jemand eine der in §
-    3 Absatz 1 Satz 1 Nummer 1, 2, 5, 7 und 9, Satz 2 oder Absatz 1a
-    dieses Gesetzes oder eine sonstige der in § 100a Absatz 2 der
-    Strafprozessordnung genannten Straftaten plant oder begeht.
-
-
-
-Die Daten dürfen zur Verfolgung von Straftaten an die zuständigen
-Behörden übermittelt werden, wenn bestimmte Tatsachen den Verdacht
-begründen, dass jemand eine in Satz 1 bezeichnete Straftat begeht oder
-begangen hat.
-
-(4a) Durch Beschränkungen nach § 5 Absatz 1 Satz 1 in Verbindung mit
-Satz 3 Nummer 8 erhobene personenbezogene Daten dürfen an das
-Bundesamt für Sicherheit in der Informationstechnik übermittelt
-werden, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Daten
-erforderlich sind zur Abwehr von Gefahren für die Sicherheit der
-Informationstechnik des Bundes oder zur Sammlung und Auswertung von
-Informationen über Sicherheitsrisiken auch für andere Stellen und
-Dritte.
+(3) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
+dürfen an inländische öffentliche Stellen unter den Voraussetzungen
+des § 11b des BND-Gesetzes übermittelt werden.
 
 (5) Die Übermittlung ist nur zulässig, soweit sie zur Erfüllung der
 Aufgaben des Empfängers erforderlich ist. Sind mit personenbezogenen
@@ -822,38 +751,12 @@ Satz 4 und § 6 Abs. 1 Satz 2 und 3 gelten entsprechend.
 ### § 7a Übermittlungen durch den Bundesnachrichtendienst an ausländische öffentliche Stellen
 
 (1) Der Bundesnachrichtendienst darf durch Beschränkungen nach § 5
-Abs. 1 Satz 3 Nr. 2, 3, 7 und 8 erhobene personenbezogene Daten an die
-mit nachrichtendienstlichen Aufgaben betrauten ausländischen
-öffentlichen Stellen übermitteln, soweit
+Absatz 1 Satz 3 Nummer 2, 3, 7 und 8 erhobene personenbezogene Daten
+unter den Voraussetzungen des § 11e des BND-Gesetzes an die mit
+nachrichtendienstlichen Aufgaben betrauten ausländischen öffentlichen
+Stellen übermitteln.
 
-1.  die Übermittlung zur Wahrung außen- oder sicherheitspolitischer
-    Belange der Bundesrepublik Deutschland oder erheblicher
-    Sicherheitsinteressen des ausländischen Staates erforderlich ist,
-
-
-2.  überwiegende schutzwürdige Interessen des Betroffenen nicht
-    entgegenstehen, insbesondere in dem ausländischen Staat ein
-    angemessenes Datenschutzniveau gewährleistet ist sowie davon
-    auszugehen ist, dass die Verwendung der Daten durch den Empfänger in
-    Einklang mit grundlegenden rechtsstaatlichen Prinzipien erfolgt, und
-
-
-3.  das Prinzip der Gegenseitigkeit gewahrt ist.
-
-
-
-Die Übermittlung bedarf der Zustimmung des Bundeskanzleramtes.
-
-(2) Der Bundesnachrichtendienst darf unter den Voraussetzungen des
-Absatzes 1 durch Beschränkungen nach § 5 Abs. 1 Satz 3 Nr. 2, 3, 7 und
-8 erhobene personenbezogene Daten ferner im Rahmen von Artikel 3 des
-Zusatzabkommens zu dem Abkommen zwischen den Parteien des
-Nordatlantikvertrages über die Rechtsstellung ihrer Truppen
-hinsichtlich der in der Bundesrepublik Deutschland stationierten
-ausländischen Truppen vom 3. August 1959 (BGBl. 1961 II S. 1183, 1218)
-an Dienststellen der Stationierungsstreitkräfte übermitteln, soweit
-dies zur Erfüllung der in deren Zuständigkeit liegenden Aufgaben
-erforderlich ist.
+(2) Die Übermittlung bedarf der Zustimmung des Bundeskanzleramtes.
 
 (3) Über die Übermittlung entscheidet ein Bediensteter des
 Bundesnachrichtendienstes, der die Befähigung zum Richteramt hat. Die
@@ -879,8 +782,8 @@ Erstellung folgt, zu vernichten.
 
 
 
-(5) Das zuständige Bundesministerium unterrichtet monatlich die
-G10-Kommission über Übermittlungen nach Absatz 1 und 2.
+(5) Das Bundeskanzleramt unterrichtet monatlich die G10-Kommission
+über Übermittlungen nach Absatz 1.
 
 (6) Das Parlamentarische Kontrollgremium ist in Abständen von
 höchstens sechs Monaten über die vorgenommenen Übermittlungen nach
@@ -930,20 +833,20 @@ und Begegnung von Gefahren im Sinne des § 8 Absatz 1 zulässig ist. Die
 Daten dürfen nur zu den in den Absätzen 1, 5 und 6 genannten Zwecken
 verwendet werden.
 
-(5) Die erhobenen personenbezogenen Daten dürfen nach § 65 Absatz 1
-des BND-Gesetzes zur Unterrichtung über die in Absatz 1 genannte
-Gefahr übermittelt werden.
+(5) Die erhobenen personenbezogenen Daten dürfen unter den
+Voraussetzungen der §§ 11 und 11b des BND-Gesetzes übermittelt werden,
+wenn zudem tatsächliche Anhaltspunkte den Verdacht begründen, dass
+jemand eine Straftat plant oder begeht, die geeignet ist, zu der
+Entstehung oder Aufrechterhaltung der in Absatz 1 bezeichneten Gefahr
+beizutragen.
 
-(6) Die erhobenen personenbezogenen Daten dürfen zur Verhinderung von
-Straftaten an die zuständigen Behörden übermittelt werden, wenn
-tatsächliche Anhaltspunkte den Verdacht begründen, dass jemand eine
-Straftat plant oder begeht, die geeignet ist, zu der Entstehung oder
-Aufrechterhaltung der in Absatz 1 bezeichneten Gefahr beizutragen. Die
-Daten dürfen zur Verfolgung von Straftaten an die zuständigen Behörden
-übermittelt werden, wenn bestimmte Tatsachen den Verdacht begründen,
-dass jemand eine in Satz 1 bezeichnete Straftat begeht oder begangen
-hat. § 7 Abs. 5 und 6 sowie § 7a Abs. 1 und 3 bis 6 gelten
-entsprechend.
+(6) Die erhobenen personenbezogenen Daten dürfen an
+Strafverfolgungsbehörden unter den Voraussetzungen des § 11a des BND-
+Gesetzes übermittelt werden, wenn zudem bestimmte Tatsachen den
+Verdacht begründen, dass jemand eine in Absatz 5 bezeichnete Straftat
+begeht oder begangen hat.
+
+(7) § 7 Absatz 5 und 6 sowie § 7a gelten entsprechend.
 
 
 ## Abschnitt 4 - Verfahren

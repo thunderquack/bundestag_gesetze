@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2977
 
 Zuletzt geändert durch
-:   Art. 2 G v. 5.7.2021 I 2274
+:   Art. 2 G v. 22.12.2023 I Nr. 413
 
 
 ## § 1 Aufgaben
@@ -370,6 +370,13 @@ darauf gerichtete Vorbereitungshandlungen gegen die in § 1 Abs. 1 Satz
 tatsächliche Anhaltspunkte dafür bestehen, daß die Unterrichtung zur
 Erfüllung seiner Aufgaben nach § 1 Abs. 1 und 2 erforderlich ist.
 
+(1a) Die Staatsanwaltschaften und, vorbehaltlich der
+staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die
+Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen,
+soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen,
+unterrichten den Militärischen Abschirmdienst von sich aus
+entsprechend § 18 Absatz 1b und 6 des Bundesverfassungsschutzgesetzes.
+
 (2) Der Militärische Abschirmdienst darf nach § 18 Abs. 3 des
 Bundesverfassungsschutzgesetzes jede Behörde um die Übermittlung der
 zur Erfüllung seiner Aufgaben erforderlichen Informationen
@@ -428,25 +435,19 @@ sind entsprechend anzuwenden.
 
 ## § 11 Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst
 
-(1) Der Militärische Abschirmdienst darf personenbezogene Daten nach §
-19 des Bundesverfassungsschutzgesetzes übermitteln. An die Stelle der
-Zustimmung des Bundesministeriums des Innern, für Bau und Heimat tritt
-diejenige des Bundesministeriums der Verteidigung. Für vom
-Verfassungsschutz übermittelte personenbezogene Daten im Sinne des §
-18 Abs. 1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Abs.
-1a Satz 2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
-
-(2) Der Militärische Abschirmdienst übermittelt Informationen
-einschließlich personenbezogener Daten an Staatsanwaltschaften,
-Polizeien und den Bundesnachrichtendienst nach § 20 des
-Bundesverfassungsschutzgesetzes.
+Auf die Übermittlung personenbezogener Daten durch den Militärischen
+Abschirmdienst finden die §§ 19 bis 22a, 25a, 25b und 25d des
+Bundesverfassungsschutzgesetzes entsprechend Anwendung. Für vom
+Verfassungsschutz übermittelte personenbezogene Daten nach § 18 Absatz
+1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Absatz 1a Satz
+2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
 
 
 ## § 12 Verfahrensregeln für die Übermittlung von Informationen
 
 Für die Übermittlung von Informationen nach diesem Gesetz finden die
-§§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechende
-Anwendung.
+§§ 23 bis 25, 25c und 26 des Bundesverfassungsschutzgesetzes
+entsprechende Anwendung.
 
 
 ## § 13 Anwendung des Bundesdatenschutzgesetzes
@@ -544,7 +545,22 @@ Kontrollgremium vor Beginn des Einsatzes des Militärischen
 Abschirmdienstes im Ausland.
 
 
-## § 15 Einschränkung von Grundrechten
+## § 15 Besondere Eigensicherungsbefugnisse
+
+(1) Auf die Befugnisse und Verfahren der Eigensicherung des
+Militärischen Abschirmdienstes finden die §§ 26b und 26c des
+Bundesverfassungsschutzgesetzes entsprechend Anwendung. Das Grundrecht
+auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des
+Grundgesetzes) und Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des
+Grundgesetzes) wird insoweit eingeschränkt.
+
+(2) Das Gesetz über die Anwendung unmittelbaren Zwanges und die
+Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und
+verbündeter Streitkräfte sowie zivile Wachpersonen bleibt hiervon
+unberührt.
+
+
+## § 16 Einschränkung von Grundrechten
 
 Die Grundrechte der Versammlungsfreiheit (Artikel 8 des
 Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel

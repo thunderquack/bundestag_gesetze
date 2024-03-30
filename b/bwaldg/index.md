@@ -1030,7 +1030,7 @@ Absatz 2 entsprechend.
 
 ### § 42 Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nicht rechtsfähige
+(1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der den Behörden durch
 dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben

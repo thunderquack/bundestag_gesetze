@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 3413
 
 Zuletzt geändert durch
-:   Art. 25 Abs. 1 G v. 7.8.2021 I 3311
+:   Art. 1 G v. 8.12.2023 I Nr. 351
 
 [^F796581_01_BJNR341300016]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -289,9 +289,13 @@ für den Rest der Amtszeit eine Nachfolge benannt.
 
 #### § 7 Berufung, Amtszeit
 
-(1) Die für Kultur und Medien zuständige oberste Bundesbehörde beruft
-die Mitglieder des Verwaltungsrats und die stellvertretenden
-Mitglieder des Verwaltungsrats für zwei Jahre.
+(1) Der Verwaltungsrat setzt sich ab dem 1. Januar 2024 jeweils aus
+den am 31. Dezember 2023 im Amt befindlichen Mitgliedern zusammen. Der
+so zusammengesetzte Verwaltungsrat bleibt bis einschließlich zum
+31\. Dezember 2024 im Amt. Die für Kultur und Medien zuständige oberste
+Bundesbehörde beruft die Nachfolge eines ausgeschiedenen Mitglieds
+oder stellvertretenden Mitglieds des Verwaltungsrats für den Rest der
+Amtszeit.
 
 (2) Die Mitglieder und stellvertretenden Mitglieder des
 Verwaltungsrats sind an Aufträge und Weisungen nicht gebunden.
@@ -1534,7 +1538,7 @@ internationale Koproduktionen im Sinne des § 42 Absatz 1 Nummer 1 oder
 wenn
 
 1.  der Hersteller im Sinne des § 41 Absatz 1 Nummer 1 zu den gesamten
-    Herstellungskosten des Films mindestens 10 Prozent beiträgt und
+    Herstellungskosten des Films mindestens 5 Prozent beiträgt und
 
 
 2.  ein zwei- oder mehrseitiges Abkommen zwischen der Bundesrepublik
@@ -1833,7 +1837,7 @@ Videoabrufdienste, bei denen ein Entgelt für die Nutzung des einzelnen
 Films zu zahlen ist, über die in § 54 Absatz 1 Nummer 1 genannten
 Fristen hinaus verkürzt werden oder entfallen.
 
-(4) Die Filmförderungsanstalt legt spätestens zum 31. März 2022 einen
+(4) Die Filmförderungsanstalt legt spätestens zum 30. Juni 2024 einen
 Evaluierungsbericht vor, wie sich Verkürzungen nach Absatz 1 oder
 Absatz 3 auf den Zuschauererfolg dieser Filme im Kino ausgewirkt
 haben.
@@ -3711,7 +3715,7 @@ Zuschuss gewährt. Die Zuschüsse für Maßnahmen nach § 134 Nummer 3 und
 (1) Statt einer Förderhilfe nach § 134 Nummer 1 kann die
 Filmförderungsanstalt einem Kino für Maßnahmen zur Modernisierung und
 Verbesserung sowie zur Neuerrichtung auf Antrag einmalig bis zu 50
-Prozent einer zum 1. Januar 2022 bei der Filmförderungsanstalt
+Prozent einer zum 1. Januar 2024 bei der Filmförderungsanstalt
 bestehenden Restschuld aus einem laufenden Darlehen für eine frühere
 Förderung erlassen, wenn der Kinobetreiber
 
@@ -4512,10 +4516,10 @@ obersten Bundesbehörde die entsprechenden Daten zu übermitteln.
 (1) Die Auskünfte der Kinos und der Videowirtschaft nach § 164 Absatz
 1 Nummer 5 bis 10 sind monatlich, jeweils bis zum Zehnten des darauf
 folgenden Monats, nach Auswertungsart getrennt kostenfrei zu erteilen.
-Die Auskünfte der Fernsehveranstalter und Programmvermarkter nach §
-164 Absatz 1 Nummer 2, 11 und 12 sind jährlich bis zum 31. Juli des
-Folgejahres zu erteilen. Die Auskünfte über die Erlöse nach § 164
-Absatz 2 Satz 2 Nummer 2 sind halbjährlich, jeweils für die erste
+Die Auskünfte der Fernsehveranstalter und Programmvermarkter nach
+§ 164 Absatz 1 Satz 3 Nummer 5, 11 und 12 sind jährlich bis zum 31.
+Juli des Folgejahres zu erteilen. Die Auskünfte über die Erlöse nach §
+164 Absatz 2 Satz 2 Nummer 2 sind halbjährlich, jeweils für die erste
 Hälfte des Kalenderjahres bis zum Ablauf des Monats August desselben
 Kalenderjahres und für die zweite Hälfte des Kalenderjahres bis zum
 Ablauf des Monats Februar des folgenden Kalenderjahres, zu erteilen.
@@ -4660,29 +4664,27 @@ vergleichbaren sozialen Standards nach § 67 Absatz 11.
 
 ### § 170 Übergangsregelungen
 
-(1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2022
-entstanden sind, werden nach den bis zum 31. Dezember 2021 geltenden
+(1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2024
+entstanden sind, werden nach den bis zum 31. Dezember 2023 geltenden
 Vorschriften abgewickelt.
 
-(2) Soweit Verwaltungsverfahren bei Inkrafttreten dieses Gesetzes
-liefen, werden diese nach den bis zum 31. Dezember 2021 geltenden
-Vorschriften fortgesetzt.
+(2) Soweit Verwaltungsverfahren am 1. Januar 2024 liefen, werden diese
+nach den bis zum 31. Dezember 2023 geltenden Vorschriften fortgesetzt.
 
-(3) Der am 31. Dezember 2021 im Amt befindliche Verwaltungsrat bleibt
-bis zum ersten Zusammentreten des nach den Vorschriften dieses
-Gesetzes nach dem 1. Januar 2022 berufenen Verwaltungsrats im Amt. Die
-am 31. Dezember 2021 im Amt befindliche Kommission für Produktions-
-und Drehbuchförderung, die Kommission für Verleih-, Vertriebs- und
-Videoförderung und die Kommission für Kinoförderung bleiben bis zum
-31\. Dezember 2023 im Amt.
+(3) Die Kommission für Produktions- und Drehbuchförderung, die
+Kommission für Verleih, Vertriebs- und Videoförderung und die
+Kommission für Kinoförderung setzen sich ab dem 1. Januar 2024 jeweils
+aus den am 31. Dezember 2023 im Amt befindlichen Mitgliedern zusammen.
+Die so zusammengesetzten Kommissionen bleiben bis einschließlich zum
+31\. Dezember 2024 im Amt.
 
 (4) Anträge auf Referenzfilmförderung können auch gestellt werden,
-wenn der Referenzfilm zwischen dem 1. Januar 2021 und dem 1. Januar
-2022 erstaufgeführt wurde oder eine Kennzeichnung nach § 14 des
+wenn der Referenzfilm zwischen dem 1. Januar 2023 und dem 1. Januar
+2024 erstaufgeführt wurde oder eine Kennzeichnung nach § 14 des
 Jugendschutzgesetzes erhalten hat. Anträge auf Referenzförderung für
 Kurzfilme und nicht programmfüllende Kinderfilme können auch gestellt
-werden, wenn der Film zwischen dem 1. Januar 2020 und dem 1. Januar
-2022 fertiggestellt wurde oder eine Kennzeichnung nach § 14 des
+werden, wenn der Film zwischen dem 1. Januar 2022 und dem 1. Januar
+2024 fertiggestellt wurde oder eine Kennzeichnung nach § 14 des
 Jugendschutzgesetzes erhalten hat.
 
 (5) Wurden Förderhilfen bis zum 31. Dezember 2020 bewilligt, ist für
@@ -4692,23 +4694,22 @@ auf den Bewilligungszeitpunkt abzustellen.
 
 ### § 171 Beendigung der Filmförderung
 
-(1) Die Erhebung der Filmabgabe endet am 31. Dezember 2023. Die
-Filmförderungsanstalt soll der für Kultur und Medien zuständigen
-obersten Bundesbehörde spätestens zum 30. Juni 2022 einen
-Evaluierungsbericht zur Entwicklung des Abgabeaufkommens vor dem
-Hintergrund der wirtschaftlichen Situation des Filmmarktes in
-Deutschland vorlegen und den Bericht veröffentlichen.
+(1) Die Erhebung der Filmabgabe endet am 31. Dezember 2024. Die
+Filmförderungsanstalt legt der für Kultur und Medien zuständigen
+obersten Bundesbehörde einen Evaluierungsbericht zur Entwicklung des
+Abgabeaufkommens vor dem Hintergrund der wirtschaftlichen Situation
+des Filmmarktes in Deutschland vor und veröffentlicht den Bericht.
 
 (2) Förderhilfen nach den §§ 73, 76, 91 und 127 werden nur gewährt,
-wenn der Referenzfilm bis zum 31. Dezember 2022 erstaufgeführt worden
+wenn der Referenzfilm bis zum 31. Dezember 2023 erstaufgeführt worden
 ist. Förderhilfen nach den §§ 59, 100, 107, 115, 134 und 138 werden
-letztmalig für das Wirtschaftsjahr 2023 gewährt.
+letztmalig für das Wirtschaftsjahr 2024 gewährt.
 
 (3) Anträge auf Förderhilfen nach den §§ 73, 76, 91, 127 und 138
-müssen bis zum 31. März 2024 gestellt werden. Für programmfüllende
-Dokumentar- und Kinderfilme müssen die Anträge bis zum 31. März 2026
+müssen bis zum 31. März 2025 gestellt werden. Für programmfüllende
+Dokumentar- und Kinderfilme müssen die Anträge bis zum 31. März 2027
 gestellt werden. Anträge auf Gewährung von Förderhilfen gemäß den §§
-59, 100, 107, 115 und 134 müssen bis zum 30. September 2023 gestellt
+59, 100, 107, 115 und 134 müssen bis zum 30. September 2024 gestellt
 werden.
 
 (4) Ist über den letzten Antrag auf Gewährung von Förderhilfen für

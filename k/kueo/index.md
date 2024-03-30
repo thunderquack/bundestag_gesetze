@@ -680,7 +680,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Formblatt zum Nachweis**
         **der Durchführung von Schornsteinfegerarbeiten**
-[^F780527_01_BJNR129200009BJNE001204119]
+[^F780527_01_BJNR129200009BJNE001205128]
         (§ 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes – SchfHwG – vom
         26\. November 2008
         , BGBl. I S. 2242)
@@ -791,7 +791,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^F780527_02_BJNR129200009BJNE001204119]
+    *[^F780527_02_BJNR129200009BJNE001205128]
    [ ] Überprüfung nach § 1 KÜO
         [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO
         [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV
@@ -1080,7 +1080,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^F780527_03_BJNR129200009BJNE001204119]
+    *[^F780527_03_BJNR129200009BJNE001205128]
    [ ] Überprüfung nach § 1 KÜO
         [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO
         [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV
@@ -1390,7 +1390,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^F780527_04_BJNR129200009BJNE001204119]
+    *[^F780527_04_BJNR129200009BJNE001205128]
    [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV
         [ ] Messung und Überprüfung nach § 14 Absatz 2 1. BImSchV
         [ ] Messung und Überprüfung nach § 15 Absatz 1 bzw. § 25 Absatz 4 1.
@@ -1493,14 +1493,14 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *   [ ]  ja  [ ] nein
 
 
-*    *   Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§
-        19 Absatz 1 Nummer 1):
+*    *   ausreichende Höhe und Firstnähe der Schornsteinmündung (§ 19 Absatz 1
+        Satz 1 bis 4, Absatz 2 Satz 1 Nummer 1):
 
     *   [ ]  ja  [ ] nein
 
 
 *    *   Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19
-        Absatz 1 Nummer 2):
+        Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2):
 
     *   [ ]  ja  [ ] nein
 
@@ -1653,7 +1653,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^F780527_05_BJNR129200009BJNE001204119]
+    *[^F780527_05_BJNR129200009BJNE001205128]
    [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV
         [ ] Überprüfung nach § 14 Absatz 2 1. BImSchV
         [ ] Überprüfung nach § 15 Absatz 2 1. BImSchV
@@ -1773,7 +1773,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19
-        Absatz 1 Nummer 2):
+        Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2):
 
     *   [ ]  ja  [ ]  nein
 
@@ -1862,7 +1862,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^F780527_06_BJNR129200009BJNE001204119]
+    *[^F780527_06_BJNR129200009BJNE001205128]
    [ ] Überprüfung nach § 1 KÜO
         [ ] Wiederholungsüberprüfung nach § 1 Absatz 2 KÜO
 
@@ -2086,17 +2086,17 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     Sämtliche Rechtsvorschriften dieses Formblattes beziehen sich auf die
     jeweils geltende Fassung.
-[^F780527_01_BJNR129200009BJNE001204119]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+[^F780527_01_BJNR129200009BJNE001205128]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
     die jeweils geltende Fassung.
-[^F780527_02_BJNR129200009BJNE001204119]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+[^F780527_02_BJNR129200009BJNE001205128]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
     die jeweils geltende Fassung.
-[^F780527_03_BJNR129200009BJNE001204119]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+[^F780527_03_BJNR129200009BJNE001205128]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
     die jeweils geltende Fassung der 1. BImSchV.
-[^F780527_04_BJNR129200009BJNE001204119]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+[^F780527_04_BJNR129200009BJNE001205128]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
     die jeweils geltende Fassung der 1. BImSchV.
-[^F780527_05_BJNR129200009BJNE001204119]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+[^F780527_05_BJNR129200009BJNE001205128]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
     die jeweils geltende Fassung.
-[^F780527_06_BJNR129200009BJNE001204119]: 
+[^F780527_06_BJNR129200009BJNE001205128]: 
 (zu § 6)
 
 ## Anlage 3 Gebührenverzeichnis
@@ -2334,9 +2334,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.5
 
-    *   Überprüfung, ob ein mit Heizöl beschickter Heizkessel entgegen der
-        Regelung nach § 72 Absatz 4 und 5 GEG ab dem 1. Januar 2026 eingebaut
-        wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG)
+    *   Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5
+        GEG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG)
 
     *   10,0
 
@@ -2365,19 +2364,17 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *   3.7
 
     *   Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen
-        ausgestattet ist
-        (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GEG)
+        ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GEG)
 
     *   3,0
 
 
 *    *   3.8
 
-    *   Überprüfung, ob eine Umwälzpumpe in einer Zentralheizung mit einer
-        bestimmten Vorrichtung ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97
-        Absatz 2 Nummer 3 GEG)
+    *   Überprüfung, ob die Anforderungen nach den §§ 71 bis 71m eingehalten
+        worden sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GEG)
 
-    *   1,0
+    *   8,0
 
 
 *    *   3.9
@@ -2391,38 +2388,56 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.10
 
+    *   Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen
+        bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1
+        SchfHwG, § 97 Absatz 2 Nummer 5 GEG)
+
+    *   2,0
+
+
+*    *   3.11
+
+    *   Überprüfung, ob die Anforderungen an den Einbau von Wärmepumpen- und
+        Solarthermie-Hybridheizungen eingehalten werden (§ 14 Absatz 1
+        SchfHwG, § 97 Absatz 2 Nummer 6 GEG)
+
+    *   8,0
+
+
+*    *   3.12
+
     *   Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von
-        Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese
+        Zentralheizungen in bestehenden Gebäuden verpflichtet ist und ob diese
         Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GEG)
 
     *   7,0
 
 
-*    *   3.11
+*    *   3.13
 
     *   Anlassbezogene Überprüfung der Verbrennungsluftversorgung oder der
-        Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8)
-        soweit eine Bescheinigung über das Ergebnis ausgestellt wird je
+        Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8),
+        soweit eine Bescheinigung über das Ergebnis ausgestellt wird, je
         Arbeitsminute
 
     *   0,8
 
 
-*    *   3.11.1
+*    *   3.13.1
 
-    *   bei Überprüfung nach Aktenlage pro Nutzungseinheit jedoch maximal
+    *   bei Überprüfung nach Aktenlage pro Nutzungseinheit, jedoch maximal
 
     *   35,0
 
 
-*    *   3.11.2
+*    *   3.13.2
 
-    *   bei Überprüfung mit Termin vor Ort pro Nutzungseinheit jedoch maximal
+    *   bei Überprüfung mit Termin vor Ort pro Nutzungseinheit, jedoch maximal
 
     *   45,0
 
 
-*    *   3.12
+*    *   3.14
 
     *   Anlassbezogene Überprüfung nach § 15 SchfHwG je Arbeitsminute
 

@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.3.2023 I Nr. 88
+:   Art. 2 Abs. 2 G v. 4.12.2023 I Nr. 344
+
+Änderung durch
+:   Art. 2 G v. 20.12.2023 I Nr. 394 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14c G v. 22.12.2023 I Nr. 405 ist berücksichtigt
+
+Änderung durch
+:   Art. 10 G v. 22.12.2023 I Nr. 409 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
@@ -72,8 +81,8 @@ Zulassungsverfahren betreffen, bleiben unberührt. Wird eine
 Entscheidung nach Satz 1 getroffen, unterrichtet das Bundesministerium
 der Verteidigung hierüber das für Umwelt zuständige Ministerium des
 betroffenen Landes unverzüglich sowie das Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit spätestens bis zum Ablauf
-des 31. März des Folgejahres.
+Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+spätestens bis zum Ablauf des 31. März des Folgejahres.
 
 (3) Bei Vorhaben oder Teilen von Vorhaben, die ausschließlich der
 Bewältigung von Katastrophenfällen dienen, kann die zuständige Behörde
@@ -777,6 +786,35 @@ Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum
 Ablauf des 30. Juni 2024 abgeschlossen wird.
 
 
+#### § 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
+
+(1) Keiner Umweltverträglichkeitsprüfung bedürfen unselbständige Teile
+von Ausbaumaßnahmen, die im Verlauf von Bundesautobahnen oder
+Bundesstraßen eine durchgehende Länge von bis zu 1 500 Metern haben,
+soweit deren vorgezogene Durchführung zur unterhaltungsbedingten
+Erneuerung von Brückenbauwerken erforderlich ist. Als unselbstständige
+Teile von Ausbaumaßnahmen im Sinne des Satzes 1 gelten vorgezogene
+Abschnitte eines Streckenausbaus, wenn der unselbständige Teil der
+Ausbaumaßnahme keine unmittelbare verkehrliche Kapazitätserweiterung
+bewirkt.
+
+(2) Eine allgemeine Vorprüfung entsprechend § 7 Absatz 1 ist in den
+Fällen des Absatzes 1 zur Feststellung der UVP-Pflicht durchzuführen,
+wenn durch die vorgezogene Baumaßnahme ein Natura 2000-Gebiet
+betroffen sein kann.
+
+
+#### § 14d Bau von Radwegen an Bundesstraßen
+
+(1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung einer
+Bundesstraße durch den Bau eines straßenbegleitenden Radweges mit
+einer durchgehenden Länge von bis zu zehn Kilometern.
+
+(2) Eine allgemeine Vorprüfung entsprechend § 7 Absatz 1 wird in den
+Fällen des Absatzes 1 zur Feststellung der UVP-Pflicht durchgeführt,
+wenn durch die Baumaßnahme ein Natura 2000-Gebiet betroffen sein kann.
+
+
 ### Abschnitt 2 - Verfahrensschritte der Umweltverträglichkeitsprüfung
 
 
@@ -957,7 +995,7 @@ im Rahmen der Beteiligung Gelegenheit zur Äußerung gegeben. Dabei
 sollen nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen
 die zuständige Behörde in einer dem Umweltschutz dienenden Weise
 unterstützen. Das Beteiligungsverfahren muss den Anforderungen des §
-73 Absatz 3 Satz 1 und Absatz 5 bis 7 des
+73 Absatz 3 Satz 1 und 2 und Absatz 5 bis 7 des
 Verwaltungsverfahrensgesetzes entsprechen.
 
 (2) In einem vorgelagerten Verfahren oder in einem
@@ -1052,7 +1090,6 @@ Umweltbundesamt zuständig.
 (2) Die zuständige Behörde macht den Inhalt der Bekanntmachung nach §
 19 Absatz 1 und die in § 19 Absatz 2 Satz 1 Nummer 1 und 2 genannten
 Unterlagen über das einschlägige zentrale Internetportal zugänglich.
-Maßgeblich ist der Inhalt der ausgelegten Unterlagen.
 
 (3) Der Inhalt der zentralen Internetportale kann auch für die Zwecke
 der Berichterstattung nach § 73 verwendet werden.
@@ -1787,8 +1824,8 @@ Baugesetzbuchs durchgeführt wird.
 
 (2) Besteht für die Aufstellung, Änderung oder Ergänzung eines
 Bauleitplans nach diesem Gesetz eine Verpflichtung zur Durchführung
-einer Strategischen Umweltprüfung, wird hierfür unbeschadet der §§ 13,
-13a und 13b des Baugesetzbuchs eine Umweltprüfung einschließlich der
+einer Strategischen Umweltprüfung, wird hierfür unbeschadet der §§ 13
+und 13a des Baugesetzbuchs eine Umweltprüfung einschließlich der
 Überwachung nach den Vorschriften des Baugesetzbuchs durchgeführt.
 
 (3) Wird die Umweltverträglichkeitsprüfung in einem
@@ -1832,9 +1869,9 @@ alternative Verkehrsträger ermittelt, beschrieben und bewertet. Auf
 die Verkehrswegeplanung auf Bundesebene ist § 1 Absatz 1 Satz 1 Nummer
 4 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
+nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung ohne
 Zustimmung des Bundesrates für das Verfahren der Durchführung der
 Strategischen Umweltprüfung bei Plänen und Programmen nach Nummer 1.1
 der Anlage 5 besondere Bestimmungen zur praktikablen und effizienten
@@ -1866,14 +1903,15 @@ Durchführung zu erlassen über
 
 
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates zu bestimmen, dass die Länder zur Anmeldung
-von Verkehrsprojekten für Pläne und Programme nach Nummer 1.1 der
-Anlage 5 bestimmte vorbereitende Prüfungen vorzunehmen und deren
-Ergebnisse oder sonstigen Angaben beizubringen haben, die für die
-Durchführung der Strategischen Umweltprüfung notwendig sind.
+(4) Das Bundesministerium für Digitales und Verkehr wird ferner
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, nukleare Sicherheit und Verbraucherschutz durch
+Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die
+Länder zur Anmeldung von Verkehrsprojekten für Pläne und Programme
+nach Nummer 1.1 der Anlage 5 bestimmte vorbereitende Prüfungen
+vorzunehmen und deren Ergebnisse oder sonstigen Angaben beizubringen
+haben, die für die Durchführung der Strategischen Umweltprüfung
+notwendig sind.
 
 
 ## Teil 5 - Grenzüberschreitende Umweltprüfungen
@@ -2021,9 +2059,10 @@ die Öffentlichkeit des anderen Staates am Verfahren nach den §§ 18 bis
 (3) Die zuständige deutsche Behörde kann der betroffenen
 Öffentlichkeit des anderen Staates die elektronische Übermittlung von
 Äußerungen auch abweichend von den Voraussetzungen des § 3a Absatz 2
-des Verwaltungsverfahrensgesetzes gestatten, sofern im Verhältnis zum
-anderen Staat für die elektronische Übermittlung die Voraussetzungen
-der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind.
+und 3 des Verwaltungsverfahrensgesetzes gestatten, sofern im
+Verhältnis zum anderen Staat für die elektronische Übermittlung die
+Voraussetzungen der Grundsätze von Gegenseitigkeit und
+Gleichwertigkeit erfüllt sind.
 
 (4) Die Öffentlichkeit des anderen Staates kann ihre Äußerungen in
 einer ihrer Amtssprachen übermitteln.
@@ -2438,24 +2477,24 @@ Nummer 1 zu erlassen über
 
 In der Rechtsverordnung können Vorschriften über die Einsetzung
 technischer Kommissionen getroffen werden. Die Kommissionen sollen die
-Bundesregierung oder das Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit in technischen Fragen beraten. Sie schlagen dem
-Stand der Technik entsprechende Regeln (technische Regeln) unter
-Berücksichtigung der für andere Schutzziele vorhandenen Regeln und,
-soweit dessen Zuständigkeiten berührt sind, in Abstimmung mit der
-Kommission für Anlagensicherheit nach § 51a Absatz 1 des Bundes-
-Immissionsschutzgesetzes vor. In die Kommissionen sind Vertreter der
-beteiligten Bundesbehörden und Landesbehörden, der Sachverständigen,
-Sachverständigenorganisationen und zugelassenen Überwachungsstellen,
-der Wissenschaft sowie der Hersteller und Betreiber von
-Leitungsanlagen zu berufen. Technische Regeln können vom
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im
-Bundesanzeiger veröffentlicht werden. In der Rechtsverordnung können
-auch die Stoffe, die geeignet sind, die Wasserbeschaffenheit
-nachteilig zu verändern (wassergefährdende Stoffe im Sinne von Nummer
-19\.3 der Anlage 1), bestimmt werden. Das Grundrecht der
-Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
-durch Satz 1 Nummer 2a Buchstabe c eingeschränkt.
+Bundesregierung oder das Bundesministerium für Umwelt, Naturschutz,
+nukleare Sicherheit und Verbraucherschutz in technischen Fragen
+beraten. Sie schlagen dem Stand der Technik entsprechende Regeln
+(technische Regeln) unter Berücksichtigung der für andere Schutzziele
+vorhandenen Regeln und, soweit dessen Zuständigkeiten berührt sind, in
+Abstimmung mit der Kommission für Anlagensicherheit nach § 51a Absatz
+1 des Bundes-Immissionsschutzgesetzes vor. In die Kommissionen sind
+Vertreter der beteiligten Bundesbehörden und Landesbehörden, der
+Sachverständigen, Sachverständigenorganisationen und zugelassenen
+Überwachungsstellen, der Wissenschaft sowie der Hersteller und
+Betreiber von Leitungsanlagen zu berufen. Technische Regeln können vom
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz im Bundesanzeiger veröffentlicht werden. In der
+Rechtsverordnung können auch die Stoffe, die geeignet sind, die
+Wasserbeschaffenheit nachteilig zu verändern (wassergefährdende Stoffe
+im Sinne von Nummer 19.3 der Anlage 1), bestimmt werden. Das
+Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
+Grundgesetzes) wird durch Satz 1 Nummer 2a Buchstabe c eingeschränkt.
 
 (7) Die Bundesregierung wird ermächtigt, für Rohrleitungsanlagen, die
 keiner Planfeststellung oder Plangenehmigung bedürfen, nach Anhörung
@@ -6641,8 +6680,19 @@ und 2.
 
 *    *   19.1.4
 
-    *   einer Länge von weniger als 5 km und einer Nennspannung von 110 kV
-        oder mehr;
+    *   einer Länge von über 200 Metern und weniger als 5 km und einer
+        Nennspannung von 110 kV oder mehr;
+
+    *
+    *   **S**
+
+
+*    *   19.1.5
+
+    *   einer Länge von bis zu 200 Metern und einer Nennspannung von 110 kV
+        oder mehr, wenn die Hochspannungsfreileitung in einem Natura
+        2000-Gebiet nach § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes
+        liegt
 
     *
     *   **S**
@@ -7872,6 +7922,13 @@ Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, §
 *    *   2.13
 
     *   Klimaschutzprogramme nach § 9 des Bundes-Klimaschutzgesetzes
+
+
+*    *   2.14
+
+    *   Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von
+        Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 26 des
+        Wärmeplanungsgesetzes
 
 
 

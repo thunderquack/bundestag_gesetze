@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 627
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.5.2012 I 1166
+:   Art. 10 G v. 22.12.2023 I Nr. 412
 
 
 ## Eingangsformel
@@ -143,20 +143,20 @@ berührt
 (3) Soweit ein Aufkauf von Staatsanleihen auf dem Sekundärmarkt
 geplant ist, kann die Bundesregierung die besondere Vertraulichkeit
 der Angelegenheit geltend machen. In diesem Fall werden die in Absatz
-1 bezeichneten Beteiligungsrechte des Deutschen Bundestages von
-Mitgliedern des Haushaltsausschusses wahrgenommen, die vom Deutschen
-Bundestag für eine Legislaturperiode mit der Mehrheit seiner
-Mitglieder in geheimer Wahl gewählt werden. Die Anzahl der Mitglieder
-und eine gleich große Anzahl von Stellvertretern ist die
-kleinstmögliche, bei der jede Fraktion zumindest ein Mitglied benennen
-kann, die Mehrheitsverhältnisse gewahrt werden und bei der die
-Zusammensetzung des Plenums widergespiegelt wird (Sondergremium). Das
-Sondergremium kann der Annahme der besonderen Vertraulichkeit
-widersprechen. Im Falle des Widerspruchs nimmt der Deutsche Bundestag
-die in Absatz 1 bezeichneten Beteiligungsrechte wahr. Das
-Sondergremium berichtet dem Deutschen Bundestag über Inhalt und
-Ergebnis seiner Beratungen unverzüglich nach Fortfall der besonderen
-Vertraulichkeit.
+1 bezeichneten Beteiligungsrechte des Deutschen Bundestages von einem
+Sondergremium wahrgenommen, welches sich aus ordentlichen Mitgliedern
+des Haushaltsausschusses zusammensetzt und vom Haushaltsausschuss für
+eine Legislaturperiode mit der Mehrheit seiner Mitglieder benannt
+wird. Die Anzahl der Mitglieder und eine gleich große Anzahl von
+Stellvertretern ist die kleinstmögliche, bei der jede Fraktion
+zumindest ein Mitglied benennen kann, die Mehrheitsverhältnisse
+gewahrt werden und bei der die Zusammensetzung des Plenums
+widergespiegelt wird. Das Sondergremium kann der Annahme der
+besonderen Vertraulichkeit widersprechen. Im Falle des Widerspruchs
+nimmt der Deutsche Bundestag die in Absatz 1 bezeichneten
+Beteiligungsrechte wahr. Das Sondergremium berichtet dem Deutschen
+Bundestag über Inhalt und Ergebnis seiner Beratungen unverzüglich nach
+Fortfall der besonderen Vertraulichkeit.
 
 
 ## § 4 Beteiligung des Haushaltsausschusses des Deutschen Bundestages

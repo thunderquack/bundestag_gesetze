@@ -32,8 +32,9 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 (1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-
 Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter
-einer Personengesellschaft erhält, wird nach den Absätzen 2 bis 4
-bestimmt.
+einer
+rechtsfähigen              Personengesellschaft erhält, wird nach den
+Absätzen 2 bis 4 bestimmt.
 
 (2) Vergütungen zugunsten eines Gesellschafters für seine Tätigkeit im
 Dienst der Gesellschaft gelten als angemessen, soweit sie dem

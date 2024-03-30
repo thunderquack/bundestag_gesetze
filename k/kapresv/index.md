@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 58
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.7.2022 I 1214
+:   Art. 8a G v. 22.12.2023 I Nr. 405
 
 
 ## Eingangsformel
@@ -202,9 +202,7 @@ Kontrakten sind unzulässig.
 
 (4) Nach Ende des Erbringungszeitraums darf der Betreiber regelbarer
 Lasten abweichend von Absatz 2 Satz 4 die Leistung oder Arbeit der
-regelbaren Last weiterhin auf den Strommärkten veräußern; hiervon
-ausgenommen sind Ausschreibungen aufgrund einer Verordnung nach § 13i
-Absatz 1 und 2 des Energiewirtschaftsgesetzes.
+regelbaren Last weiterhin auf den Strommärkten veräußern.
 
 (5) Für die Vermarktung auf den Märkten für Regelenergie nach § 6
 Absatz 1 der Stromnetzzugangsverordnung kann der Betreiber regelbarer
@@ -385,7 +383,7 @@ festlegen:
 
 3.  informationstechnische und organisatorische Anforderungen, die sich an
     den Anforderungen für die Erbringung von Minutenreserveleistung nach §
-    2 Nummer 6 der Stromnetzzugangsverordnung orientieren,
+    3 Nummer 26e des Energiewirtschaftsgesetzes orientieren,
 
 
 4.  zur erforderlichen Fahrplangenauigkeit für die Aktivierung nach § 25,
@@ -403,11 +401,9 @@ auf solche Anlagen beschränkt, die in den der Bekanntmachung nach § 11
 vorausgehenden 36 Monaten keine Vergütung für ihre Flexibilität
 erhalten haben. Die Vergütung im Sinne von Satz 1 gilt als erhalten,
 wenn die regelbare Last im Rahmen der Teilnahme an den Märkten für
-Regelenergie oder an Ausschreibungen aufgrund einer Verordnung nach §
-13i Absatz 1 und 2 des Energiewirtschaftsgesetzes einen Zuschlag
-erhalten hat. Die Sätze 1 und 2 sind unabhängig davon anzuwenden, ob
-die regelbare Last die Vergütung individuell oder als Teil eines
-Konsortiums erhalten hat.
+Regelenergie einen Zuschlag erhalten hat. Die Sätze 1 und 2 sind
+unabhängig davon anzuwenden, ob die regelbare Last die Vergütung
+individuell oder als Teil eines Konsortiums erhalten hat.
 
 (4) Die Teilnahmevoraussetzungen nach den Absätzen 1 und 2 sind
 vorbehaltlich einer Präzisierung oder Änderung durch Festlegung der

@@ -78,12 +78,13 @@ Artikel 16 Absatz 2 Buchstabe a bis d der Verordnung (EG) Nr.
 Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG
 (ABl. L 300 vom 14.11.2009, S. 51) genannten Angaben, eine zur
 Vertretung ermächtigte Person oder das zuständige Amtsgericht, falls
-das Unternehmen im Handels- oder Genossenschaftsregister eingetragen
-ist, so hat der Unternehmer dies der nach Landesrecht zuständigen
-Behörde unverzüglich mitzuteilen und auf Verlangen nachzuweisen. Ist
-nach Auffassung der nach Landesrecht zuständigen Behörde eine Änderung
-der Lizenzurkunde erforderlich, so hat das Unternehmen die
-Lizenzurkunde und deren beglaubigten Kopien unverzüglich vorzulegen.
+das Unternehmen im Handels-, Genossenschafts- oder
+Gesellschaftsregister eingetragen ist, so hat der Unternehmer dies der
+nach Landesrecht zuständigen Behörde unverzüglich mitzuteilen und auf
+Verlangen nachzuweisen. Ist nach Auffassung der nach Landesrecht
+zuständigen Behörde eine Änderung der Lizenzurkunde erforderlich, so
+hat das Unternehmen die Lizenzurkunde und deren beglaubigten Kopien
+unverzüglich vorzulegen.
 
 
 ### § 3 Zuständigkeiten des Bundesamtes für Logistik und Mobilität (Bundesamt)

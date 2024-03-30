@@ -292,7 +292,7 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 ## § 6 Auskunfts-, Duldungs- und Anzeigepflichten
 
-(1) Natürliche und juristische Personen und nicht rechtsfähige
+(1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der durch dieses Gesetz
 oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 5.4.2023 II Nr. 105
 
+Änderung durch
+:   Art. 7 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 

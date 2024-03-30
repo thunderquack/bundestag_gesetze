@@ -223,8 +223,8 @@ dem angestellten Apotheker.
 ### § 8
 
 Mehrere Personen zusammen können eine Apotheke nur in der Rechtsform
-einer Gesellschaft bürgerlichen Rechts oder einer offenen
-Handelsgesellschaft betreiben; in diesen Fällen bedürfen alle
+einer rechtsfähigen Gesellschaft bürgerlichen Rechts oder einer
+offenen Handelsgesellschaft betreiben; in diesen Fällen bedürfen alle
 Gesellschafter der Erlaubnis. Beteiligungen an einer Apotheke in Form
 einer Stillen Gesellschaft und Vereinbarungen, bei denen die Vergütung
 für dem Erlaubnisinhaber gewährte Darlehen oder sonst überlassene
@@ -1148,7 +1148,8 @@ Bei den Regelungen nach Satz 1 Nummer 8 zum Warenlager der Apotheken
 ist insbesondere sicherzustellen, dass auch im Falle vorübergehender
 Lieferengpässe oder Mehrbedarfe eine ordnungsgemäße Versorgung
 insbesondere mit Arzneimitteln, die in Krankenhäusern zur
-intensivmedizinischen Behandlung benötigt werden, gewährleistet ist.
+intensivmedizinischen Behandlung benötigt werden, sowie mit
+Antibiotika und Onkologika gewährleistet ist.
 
 (3) In der Rechtsverordnung nach Absatz 1 Satz 4 können insbesondere
 folgende Regelungen zur Gestaltung einschließlich des Betreibens und

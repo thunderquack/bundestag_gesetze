@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 7.6.2023 I Nr. 148
 
+Änderung durch
+:   Art. 8z6 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F813654_01_BJNR229510020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
     Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
@@ -225,11 +228,11 @@ Ausbildung festzulegen.
         verfügt oder
 
 
-    b)  nach § 1 Absatz 1, § 58 Absatz 1 oder 2 oder nach § 64 des
-        Pflegeberufegesetzes verfügt und eine Fachweiterbildung für den
-        Operationsdienst oder eine Fachweiterbildung für die Intensivpflege
-        und Anästhesie, für die Anästhesie oder eine gleichwertige
-        Fachweiterbildung erfolgreich absolviert hat,
+    b)  nach § 1, § 58 Absatz 1 oder 2 oder nach § 64 des Pflegeberufegesetzes
+        verfügt und eine Fachweiterbildung für den Operationsdienst oder eine
+        Fachweiterbildung für die Intensivpflege und Anästhesie, für die
+        Anästhesie oder eine gleichwertige Fachweiterbildung erfolgreich
+        absolviert hat,
 
 
 

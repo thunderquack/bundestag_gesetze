@@ -190,12 +190,12 @@ Zuteilung unverzüglich gestellt, dürfen die Nummern vorläufig bis zur
 Entscheidung der Bundesnetzagentur weiter genutzt werden. Andernfalls
 erlischt die Zuteilung.
 
-(7) Wird eine juristische Person oder Personengesellschaft, der
-Nummern direkt oder originär zugeteilt sind, ohne Rechtsnachfolger
-aufgelöst, erlischt die Zuteilung. Derjenige, der die Auflösung
-durchführt, muss diese der Bundesnetzagentur unverzüglich mitteilen.
-In der Mitteilung ist anzugeben, welche Nummern betroffen sind und
-inwieweit diese genutzt waren.
+(7) Wird eine juristische Person oder rechtsfähige
+Personengesellschaft, der Nummern direkt oder originär zugeteilt sind,
+ohne Rechtsnachfolger aufgelöst, erlischt die Zuteilung. Derjenige,
+der die Auflösung durchführt, muss diese der Bundesnetzagentur
+unverzüglich mitteilen. In der Mitteilung ist anzugeben, welche
+Nummern betroffen sind und inwieweit diese genutzt waren.
 
 (8) In Telekommunikationsnetzen dürfen Nummern nur geschaltet werden,
 wenn sie zugeteilt sind oder nach § 12 Satz 2 genutzt werden. Die

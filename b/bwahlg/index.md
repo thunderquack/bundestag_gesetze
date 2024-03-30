@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 8.6.2023 I Nr. 147, Nr. 198
 
+Änderung durch
+:   Art. 1 G v. 7.3.2024 I Nr. 91 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 1 G v. 8.6.2023 I Nr. 147 ist berücksichtigt
 
@@ -108,14 +111,14 @@ beachten; ergeben sich nach der Berechnung in Absatz 1 Nr. 2 mehrere
 mögliche Wahlkreiszuteilungen, erarbeitet sie hierzu Vorschläge.
 
 (4) Der Bericht der Wahlkreiskommission ist dem Bundesministerium des
-Innern, für Bau und Heimat innerhalb von fünfzehn Monaten nach Beginn
-der Wahlperiode des Deutschen Bundestages zu erstatten. Das
-Bundesministerium des Innern, für Bau und Heimat leitet ihn
-unverzüglich dem Deutschen Bundestag zu und veröffentlicht einen
-Hinweis auf die Veröffentlichung als Bundestagsdrucksache im
-Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern, für
-Bau und Heimat hat die Wahlkreiskommission einen ergänzenden Bericht
-zu erstatten; für diesen Fall gilt Satz 2 entsprechend.
+Innern und für Heimat innerhalb von fünfzehn Monaten nach Beginn der
+Wahlperiode des Deutschen Bundestages zu erstatten. Das
+Bundesministerium des Innern und für Heimat leitet ihn unverzüglich
+dem Deutschen Bundestag zu und veröffentlicht einen Hinweis auf die
+Veröffentlichung als Bundestagsdrucksache im Bundesanzeiger. Auf
+Ersuchen des Bundesministeriums des Innern und für Heimat hat die
+Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen
+Fall gilt Satz 2 entsprechend.
 
 (5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das
 Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
@@ -264,10 +267,9 @@ von ihr bestimmte Stelle.
 ### § 9 Bildung der Wahlorgane
 
 (1) Der Bundeswahlleiter und sein Stellvertreter werden vom
-Bundesministerium des Innern, für Bau und Heimat, die
-Landeswahlleiter, Kreiswahlleiter und Wahlvorsteher sowie ihre
-Stellvertreter von der Landesregierung oder der von ihr bestimmten
-Stelle ernannt.
+Bundesministerium des Innern und für Heimat, die Landeswahlleiter,
+Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der
+Landesregierung oder der von ihr bestimmten Stelle ernannt.
 
 (2) Der Bundeswahlausschuß besteht aus dem Bundeswahlleiter als
 Vorsitzendem sowie acht von ihm berufenen Wahlberechtigten als
@@ -636,7 +638,7 @@ von Parteien nationaler Minderheiten.
 
 (3) Andere Kreiswahlvorschläge müssen von mindestens 200
 Wahlberechtigten des Wahlkreises persönlich und handschriftlich
-unterzeichnet sein. Absatz 2 Satz 2 zweiter Halbsatz gilt
+unterzeichnet sein. Absatz 2 Satz 3 zweiter Halbsatz gilt
 entsprechend.
 
 (4) Kreiswahlvorschläge von Parteien müssen den Namen der
@@ -991,15 +993,15 @@ anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
 Stimmabgabe gewährleisten. Ihre Bauart muß für die Verwendung bei
 Wahlen zum Deutschen Bundestag amtlich für einzelne Wahlen oder
 allgemein zugelassen sein. Über die Zulassung entscheidet das
-Bundesministerium des Innern, für Bau und Heimat auf Antrag des
-Herstellers des Wahlgerätes. Die Verwendung eines amtlich zugelassenen
-Wahlgerätes bedarf der Genehmigung durch das Bundesministerium des
-Innern, für Bau und Heimat. Die Genehmigung kann für einzelne Wahlen
-oder allgemein ausgesprochen werden.
+Bundesministerium des Innern und für Heimat auf Antrag des Herstellers
+des Wahlgerätes. Die Verwendung eines amtlich zugelassenen Wahlgerätes
+bedarf der Genehmigung durch das Bundesministerium des Innern und für
+Heimat. Die Genehmigung kann für einzelne Wahlen oder allgemein
+ausgesprochen werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen zu erlassen über
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, nähere Bestimmungen zu erlassen über
 
 1.  die Voraussetzungen für die amtliche Zulassung der Bauart von
     Wahlgeräten sowie für die Rücknahme und den Widerruf der Zulassung,
@@ -1315,8 +1317,7 @@ Bundestag bei
 
 5.  Feststellung der Verfassungswidrigkeit der Partei oder der
     Teilorganisation einer Partei, der er angehört, durch das
-    Bundesverfassungsgericht nach
-    Artikel 21 Abs. 2 Satz 2 des Grundgesetzes                   .
+    Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes.
 
 
 
@@ -1338,9 +1339,8 @@ dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht
 widerrufen werden.
 
 (4) Wird eine Partei oder die Teilorganisation einer Partei durch das
-Bundesverfassungsgericht nach
-Artikel 21 Abs. 2 Satz 2 des Grundgesetzes              für
-verfassungswidrig erklärt, verlieren die Abgeordneten ihre
+Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes
+für verfassungswidrig erklärt, verlieren die Abgeordneten ihre
 Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre
 Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der
 Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das
@@ -1522,13 +1522,12 @@ Wahlberechtigten erstattet. Er beträgt für Gemeinden bis zu 100 000
 Wahlberechtigten 0,56 Euro und für Gemeinden mit mehr als 100 000
 Wahlberechtigten 0,87 Euro. Der Präsident des Statistischen
 Bundesamtes legt in jedem Jahr bis zum 30. April dem Bundesministerium
-des Innern, für Bau und Heimat einen Bericht über die Entwicklung des
+des Innern und für Heimat einen Bericht über die Entwicklung des
 Wahlkostenindexes mit einer Fortrechnung gemäß der Anlage 1 zu diesem
 Gesetz vor. Dementsprechende Steigerungen der festen Beträge gelten ab
 Beginn des Jahres des Berichts und werden vom Bundesministerium des
-Innern, für Bau und Heimat im Bundesanzeiger veröffentlicht;
-Bruchteile eines Cents ab 0,5 werden dabei aufgerundet, ansonsten
-abgerundet.
+Innern und für Heimat im Bundesanzeiger veröffentlicht; Bruchteile
+eines Cents ab 0,5 werden dabei aufgerundet, ansonsten abgerundet.
 
 (4) Der Bund erstattet den Blindenvereinen, die ihre Bereitschaft zur
 Herstellung von Stimmzettelschablonen erklärt haben, die durch die
@@ -1542,8 +1541,8 @@ notwendigen Ausgaben.
 
 ### § 52 Bundeswahlordnung
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat erläßt die
-zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es
+(1) Das Bundesministerium des Innern und für Heimat erläßt die zur
+Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es
 trifft darin insbesondere Rechtsvorschriften über
 
 1.  die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der
@@ -1620,10 +1619,10 @@ trifft darin insbesondere Rechtsvorschriften über
 (2) Die Rechtsvorschriften bedürfen nicht der Zustimmung des
 Bundesrates.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, im Falle einer Auflösung des Deutschen Bundestages die in
-dem Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen
-und Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+im Falle einer Auflösung des Deutschen Bundestages die in dem
+Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und
+Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates
 abzukürzen.
 
 (4) (weggefallen)
@@ -1788,7 +1787,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 ### Anlage 2 (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. I 2020, 1410 – 1472)
+(Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62)
 
 
 *    *   Wahlkreis
@@ -2077,14 +2076,15 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Amt Flintbek
+    *   Amt Eidertal
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Böhnhusen, Flintbek, Schönhorst, Techelsdorf
+        Blumenthal, Böhnhusen, Flintbek, Mielkendorf, Molfsee, Rodenbek,
+        Rumohr, Schierensee, Schönhorst, Techelsdorf
 
 
 *    *
@@ -2165,19 +2165,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Amt Molfsee
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Blumenthal, Mielkendorf, Molfsee, Rodenbek, Rumohr, Schierensee
-
-
-*    *
-    *
-    *
     *   Amt Nortorfer Land
 
 
@@ -2201,9 +2188,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Altenhof, Barkelsby, Brodersby, Damp, Dörphof, Fleckeby, Gammelby,
-        Goosefeld, Güby, Holzdorf, Hummelfeld,
-        Karby, Kosel,                      Loose, Rieseby, Thumby, Waabs,
-        Windeby, Winnemark
+        Goosefeld, Güby, Holzdorf, Hummelfeld, Karby, Kosel, Loose, Rieseby,
+        Thumby, Waabs, Windeby, Winnemark
 
 
 *    *
@@ -2295,6 +2281,19 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
+    *   Amt Auenland Südholstein
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Alveslohe, Hartenholm, Hasenmoor, Lentföhrden, Nützen, Schmalfeld
+
+
+*    *
+    *
+    *
     *   Amt Bornhöved
 
 
@@ -2318,19 +2317,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   die Gemeinden
         Itzstedt, Kayhude, Nahe, Oering, Seth, Sülfeld, (ohne Tangstedt, s.
         Kreis Stormarn)
-
-
-*    *
-    *
-    *
-    *   Amt Kaltenkirchen-Land
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Alveslohe, Hartenholm, Hasenmoor, Lentföhrden, Nützen, Schmalfeld
 
 
 *    *
@@ -2479,6 +2465,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
+    *
+    *
     *   amtsfreie Gemeinden
         Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf
         bei Hamburg
@@ -2861,10 +2849,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Meteln, Brüsewitz, Cramonshagen, Dalberg-
-        Wendelstorf,                      Gottesgabe, Grambow, Klein Trebbow,
-        Lübstorf, Lützow, Perlin, Pingelshagen, Pokrent, Schildetal, Seehof,
-        Zickhusen
+        Alt Meteln, Brüsewitz, Cramonshagen, Dalberg-Wendelstorf, Gottesgabe,
+        Grambow, Klein Trebbow, Lübstorf, Lützow, Perlin, Pingelshagen,
+        Pokrent, Schildetal, Seehof, Zickhusen
 
 
 *    *
@@ -3450,7 +3437,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichswalde,
+        Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichswalde,
         Rothemühl, Torgelow, Wilhelmsburg
 
 
@@ -3517,7 +3504,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   17
 
-    *   Mecklenburgische Seenplatte II – Landkreis Rostock III
+    *   Mecklenburgische Seenplatte II –
+        Landkreis Rostock III
 
     *   Vom Landkreis Mecklenburgische Seenplatte
 
@@ -4032,7 +4020,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Friesland
 
 
@@ -4513,7 +4500,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Lüneburg
 
 
@@ -4651,32 +4637,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Samtgemeinde Liebenau
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Binnen, Flecken Liebenau, Pennigsehl
-
-
-*    *
-    *
-    *
-    *   Samtgemeinde Marklohe
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Balge, Marklohe, Wietzen
-
-
-*    *
-    *
-    *
     *   Samtgemeinde Mittelweser
 
 
@@ -4698,6 +4658,19 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Linsburg, Rodewald, Steimbke, Stöckse
+
+
+*    *
+    *
+    *
+    *   Samtgemeinde Weser-Aue
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Balge, Binnen, Flecken Liebenau, Marklohe, Pennigsehl, Wietzen
 
 
 *    *
@@ -4878,7 +4851,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Holzminden
 
 
@@ -4935,7 +4907,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Wolfenbüttel
 
 
@@ -4949,19 +4920,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Stadt Langelsheim, Liebenburg, Stadt Seesen
-
-
-*    *
-    *
-    *
-    *   Samtgemeinde Lutter am Barenberge
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Hahausen, Flecken Lutter am Barenberge, Wallmoden
 
 
 *    *
@@ -5032,13 +4990,12 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   52
 
-    *   Goslar – Northeim – Osterode
+    *   Goslar – Northeim – Göttingen II
 
     *   Vom Landkreis Göttingen
 
 
 *    *
-    *
     *
     *   die Gemeinden
         Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das
@@ -5103,7 +5060,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   53
 
-    *   Göttingen
+    *   Göttingen I
 
     *   Vom Landkreis Göttingen
 
@@ -5220,7 +5177,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *
     *   der Stadtbezirk West (Ortsteile 411 bis 445)
 
 
@@ -5322,8 +5278,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Kotzen, Märkisch Luch, Nennhausen, Stechow-
-        Ferchesar
+        Kotzen, Märkisch Luch, Nennhausen, Stechow-Ferchesar
 
 
 *    *
@@ -5441,7 +5396,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   vom Landkreis Barnim
 
 
@@ -5460,7 +5414,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   60
 
     *   Brandenburg an der Havel –
-        Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I
+        Potsdam-Mittelmark I –
+        Havelland III – Teltow-Fläming I
 
     *   Kreisfreie Stadt Brandenburg an der Havel
 
@@ -5593,7 +5548,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *
     *   amtsfreie Gemeinden
         Kleinmachnow, Michendorf, Nuthetal, Schwielowsee, Stahnsdorf, Teltow
 
@@ -5622,28 +5576,12 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   62
 
     *   Dahme-Spreewald –
-        Teltow-Fläming III –
-        Oberspreewald-Lausitz I
+        Teltow-Fläming III
 
     *   Landkreis Dahme-Spreewald
 
 
 *    *
-    *   vom Landkreis Oberspreewald-Lausitz
-
-
-*    *
-    *
-    *   amtsfreie Gemeinde Lübbenau/Spreewald
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 65)
-
-
-*    *
-    *
     *   vom Landkreis Teltow-Fläming
 
 
@@ -5699,66 +5637,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   65
 
-    *   Elbe-Elster – Oberspreewald-Lausitz II
+    *   Elbe-Elster – Oberspreewald-Lausitz
 
     *   Landkreis Elbe-Elster
 
 
 *    *
-    *
-    *   vom Landkreis Oberspreewald-Lausitz
-
-
-*    *
-    *
-    *
-    *   amtsfreie Gemeinden
-        Calau, Großräschen, Lauchhammer, Schipkau, Schwarzheide, Senftenberg,
-        Vetschau/Spreewald
-
-
-*    *
-    *
-    *
-    *   Amt Altdöbern
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Altdöbern, Bronkow, Luckaitztal, Neu-Seeland, Neupetershain
-
-
-*    *
-    *
-    *
-    *   Amt Ortrand
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Frauendorf, Großkmehlen, Kroppen, Lindenau, Ortrand, Tettau
-
-
-*    *
-    *
-    *
-    *   Amt Ruhland
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Grünewald, Guteborn, Hermsdorf, Hohenbocka, Ruhland, Schwarzbach
-
-
-*    *
-    *
-    *   (Übrige Gemeinde s. Wkr. 62)
+    *   Landkreis Oberspreewald-Lausitz
 
 
 *    *   **Sachsen-Anhalt**
@@ -5766,9 +5651,14 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   66
 
-    *   Altmark
+    *   Altmark – Jerichower Land
 
     *   Altmarkkreis Salzwedel
+
+
+*    *
+    *
+    *   Landkreis Jerichower Land
 
 
 *    *
@@ -5778,81 +5668,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *   67
 
-    *   Börde – Jerichower Land
+    *   Börde – Salzlandkreis
 
     *   Landkreis Börde
-
-
-*    *
-    *
-    *   Landkreis Jerichower Land
-
-
-*    *   68
-
-    *   Harz
-
-    *   Landkreis Harz
-
-
-*    *
-    *
-    *   vom Salzlandkreis
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Aschersleben, Seeland
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 69, 71)
-
-
-*    *   69
-
-    *   Magdeburg
-
-    *   Kreisfreie Stadt Magdeburg
-
-
-*    *
-    *
-    *   vom Salzlandkreis
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Barby, Bördeland, Calbe (Saale), Schönebeck (Elbe)
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 68, 71)
-
-
-*    *   70
-
-    *   Dessau – Wittenberg
-
-    *   Kreisfreie Stadt Dessau-Roßlau
-
-
-*    *
-    *
-    *   Landkreis Wittenberg
-
-
-*    *   71
-
-    *   Anhalt
-
-    *   Landkreis Anhalt-Bitterfeld
 
 
 *    *
@@ -5898,11 +5716,105 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   (Übrige Gemeinden s. Wkr. 68, 69)
 
 
-*    *   72
+*    *   68
+
+    *   Harz
+
+    *   Landkreis Harz
+
+
+*    *
+    *
+    *   vom Salzlandkreis
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aschersleben, Seeland
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 67, 69)
+
+
+*    *   69
+
+    *   Magdeburg
+
+    *   Kreisfreie Stadt Magdeburg
+
+
+*    *
+    *
+    *   vom Salzlandkreis
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Barby, Bördeland, Calbe (Saale), Schönebeck (Elbe)
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 67, 68)
+
+
+*    *   70
+
+    *   Anhalt – Dessau – Wittenberg
+
+    *   Kreisfreie Stadt Dessau-Roßlau
+
+
+*    *
+    *
+    *   Landkreis Wittenberg
+
+
+*    *
+    *
+    *   vom Landkreis Anhalt-Bitterfeld
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Bitterfeld-Wolfen, Muldestausee, Raguhn-Jeßnitz, Zerbst/Anhalt
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 71, 73)
+
+
+*    *   71
 
     *   Halle
 
     *   Kreisfreie Stadt Halle (Saale)
+
+
+*    *
+    *
+    *   vom Landkreis Anhalt-Bitterfeld
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Sandersdorf-Brehna, Zörbig
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 70, 73)
 
 
 *    *
@@ -5919,10 +5831,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 73, 74)
+    *   (Übrige Gemeinden s. Wkr. 72, 73)
 
 
-*    *   73
+*    *   72
 
     *   Burgenland – Saalekreis
 
@@ -5938,19 +5850,36 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Dürrenberg, Braunsbedra, Leuna, Schkopau
+        Bad Dürrenberg, Braunsbedra, Leuna, Merseburg, Schkopau
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 72, 74)
+    *   (Übrige Gemeinden s. Wkr. 71, 73)
 
 
-*    *   74
+*    *   73
 
     *   Mansfeld
 
     *   Landkreis Mansfeld-Südharz
+
+
+*    *
+    *
+    *   vom Landkreis Anhalt-Bitterfeld
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aken (Elbe), Köthen (Anhalt), Osternienburger Land, Südliches Anhalt
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 70, 71)
 
 
 *    *
@@ -5962,7 +5891,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Lauchstädt, Merseburg, Mücheln (Geiseltal), Querfurt, Salzatal,
+        Bad Lauchstädt, Mücheln (Geiseltal), Querfurt, Salzatal,
         Teutschenthal, Wettin-Löbejün
 
 
@@ -5982,20 +5911,20 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 72, 73)
+    *   (Übrige Gemeinden s. Wkr. 71, 72)
 
 
 *    *   **Berlin**
 
 
-*    *   75
+*    *   74
 
     *   Berlin-Mitte
 
     *   Bezirk Mitte
 
 
-*    *   76
+*    *   75
 
     *   Berlin-Pankow
 
@@ -6012,17 +5941,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 83)
+    *   (Übriger Bezirk s. Wkr. 82)
 
 
-*    *   77
+*    *   76
 
     *   Berlin-Reinickendorf
 
     *   Bezirk Reinickendorf
 
 
-*    *   78
+*    *   77
 
     *   Berlin-Spandau – Charlottenburg Nord
 
@@ -6030,7 +5959,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   vom Bezirk Charlottenburg-Wilmersdorf
 
 
@@ -6042,17 +5970,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 80)
+    *   (Übriger Bezirk s. Wkr. 79)
 
 
-*    *   79
+*    *   78
 
     *   Berlin-Steglitz-Zehlendorf
 
     *   Bezirk Steglitz-Zehlendorf
 
 
-*    *   80
+*    *   79
 
     *   Berlin-Charlottenburg-Wilmersdorf
 
@@ -6061,30 +5989,29 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *
     *   ohne das Gebiet nördlich der Spree
 
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 78)
+    *   (Übriger Bezirk s. Wkr. 77)
 
 
-*    *   81
+*    *   80
 
     *   Berlin-Tempelhof-Schöneberg
 
     *   Bezirk Tempelhof-Schöneberg
 
 
-*    *   82
+*    *   81
 
     *   Berlin-Neukölln
 
     *   Bezirk Neukölln
 
 
-*    *   83
+*    *   82
 
     *   Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost
 
@@ -6105,24 +6032,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 76)
+    *   (Übriger Bezirk s. Wkr. 75)
 
 
-*    *   84
+*    *   83
 
     *   Berlin-Treptow-Köpenick
 
     *   Bezirk Treptow-Köpenick
 
 
-*    *   85
+*    *   84
 
     *   Berlin-Marzahn-Hellersdorf
 
     *   Bezirk Marzahn-Hellersdorf
 
 
-*    *   86
+*    *   85
 
     *   Berlin-Lichtenberg
 
@@ -6132,7 +6059,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   **Nordrhein-Westfalen**
 
 
-*    *   87
+*    *   86
 
     *   Aachen I
 
@@ -6147,10 +6074,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 88)
+    *   (Übrige Gemeinden s. Wkr. 87)
 
 
-*    *   88
+*    *   87
 
     *   Aachen II
 
@@ -6162,29 +6089,29 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Alsdorf, Baesweiler, Eschweiler, Herzogenrath, Monschau, Roetgen,
-        Simmerath, Stollberg (Rhld.), Würselen
+        Simmerath, Stolberg (Rhld.), Würselen
 
 
 *    *
     *
-    *   (Übrige Gemeinde s. Wkr. 87)
+    *   (Übrige Gemeinde s. Wkr. 86)
 
 
-*    *   89
+*    *   88
 
     *   Heinsberg
 
     *   Kreis Heinsberg
 
 
-*    *   90
+*    *   89
 
     *   Düren
 
     *   Kreis Düren
 
 
-*    *   91
+*    *   90
 
     *   Rhein-Erft-Kreis I
 
@@ -6200,10 +6127,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 92)
+    *   (Übrige Gemeinden s. Wkr. 91)
 
 
-*    *   92
+*    *   91
 
     *   Euskirchen – Rhein-Erft-Kreis II
 
@@ -6224,10 +6151,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 91)
+    *   (Übrige Gemeinden s. Wkr. 90)
 
 
-*    *   93
+*    *   92
 
     *   Köln I
 
@@ -6249,7 +6176,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtteile s. Wkr. 94)
+    *   (Übrige Stadtteile s. Wkr. 93)
 
 
 *    *
@@ -6261,10 +6188,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 94, 95, 101)
+    *   (Übrige Stadtbezirke s. Wkr. 93, 94, 100)
 
 
-*    *   94
+*    *   93
 
     *   Köln II
 
@@ -6286,7 +6213,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtteile s. Wkr. 93)
+    *   (Übrige Stadtteile s. Wkr. 92)
 
 
 *    *
@@ -6298,10 +6225,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 93, 95, 101)
+    *   (Übrige Stadtbezirke s. Wkr. 92, 94, 100)
 
 
-*    *   95
+*    *   94
 
     *   Köln III
 
@@ -6317,17 +6244,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 93, 94, 101)
+    *   (Übrige Stadtbezirke s. Wkr. 92, 93, 100)
 
 
-*    *   96
+*    *   95
 
     *   Bonn
 
     *   Kreisfreie Stadt Bonn
 
 
-*    *   97
+*    *   96
 
     *   Rhein-Sieg-Kreis I
 
@@ -6344,10 +6271,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 98)
+    *   (Übrige Gemeinden s. Wkr. 97)
 
 
-*    *   98
+*    *   97
 
     *   Rhein-Sieg-Kreis II
 
@@ -6364,24 +6291,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 97)
+    *   (Übrige Gemeinden s. Wkr. 96)
+
+
+*    *   98
+
+    *   Oberbergischer Kreis
+
+    *   Oberbergischer Kreis
 
 
 *    *   99
 
-    *   Oberbergischer Kreis
+    *   Rheinisch-Bergischer Kreis
 
-    *   Oberbergischer Kreis
+    *   Rheinisch-Bergischer Kreis
 
 
 *    *   100
-
-    *   Rheinisch-Bergischer Kreis
-
-    *   Rheinisch-Bergischer Kreis
-
-
-*    *   101
 
     *   Leverkusen – Köln IV
 
@@ -6401,10 +6328,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 93, 94, 95)
+    *   (Übrige Stadtbezirke s. Wkr. 92, 93, 94)
 
 
-*    *   102
+*    *   101
 
     *   Wuppertal I
 
@@ -6421,10 +6348,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 103)
+    *   (Übrige Stadtbezirke s. Wkr. 102)
 
 
-*    *   103
+*    *   102
 
     *   Solingen – Remscheid – Wuppertal II
 
@@ -6449,10 +6376,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 102)
+    *   (Übrige Stadtbezirke s. Wkr. 101)
 
 
-*    *   104
+*    *   103
 
     *   Mettmann I
 
@@ -6469,10 +6396,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 105)
+    *   (Übrige Gemeinden s. Wkr. 104)
 
 
-*    *   105
+*    *   104
 
     *   Mettmann II
 
@@ -6488,10 +6415,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 104)
+    *   (Übrige Gemeinden s. Wkr. 103)
 
 
-*    *   106
+*    *   105
 
     *   Düsseldorf I
 
@@ -6506,10 +6433,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 107)
+    *   (Übrige Stadtbezirke s. Wkr. 106)
 
 
-*    *   107
+*    *   106
 
     *   Düsseldorf II
 
@@ -6524,10 +6451,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 106)
+    *   (Übrige Stadtbezirke s. Wkr. 105)
 
 
-*    *   108
+*    *   107
 
     *   Neuss I
 
@@ -6543,17 +6470,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 110)
+    *   (Übrige Gemeinden s. Wkr. 109)
 
 
-*    *   109
+*    *   108
 
     *   Mönchengladbach
 
     *   Kreisfreie Stadt Mönchengladbach
 
 
-*    *   110
+*    *   109
 
     *   Krefeld I – Neuss II
 
@@ -6569,7 +6496,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 114)
+    *   (Übrige Stadtbezirke s. Wkr. 113)
 
 
 *    *
@@ -6586,24 +6513,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 108)
+    *   (Übrige Gemeinden s. Wkr. 107)
 
 
-*    *   111
+*    *   110
 
     *   Viersen
 
     *   Kreis Viersen
 
 
-*    *   112
+*    *   111
 
     *   Kleve
 
     *   Kreis Kleve
 
 
-*    *   113
+*    *   112
 
     *   Wesel I
 
@@ -6620,10 +6547,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 114, 117)
+    *   (Übrige Gemeinden s. Wkr. 113, 116)
 
 
-*    *   114
+*    *   113
 
     *   Krefeld II – Wesel II
 
@@ -6639,7 +6566,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 110)
+    *   (Übrige Stadtbezirke s. Wkr. 109)
 
 
 *    *
@@ -6656,10 +6583,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 113, 117)
+    *   (Übrige Gemeinden s. Wkr. 112, 116)
 
 
-*    *   115
+*    *   114
 
     *   Duisburg I
 
@@ -6690,10 +6617,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *   (Übrige Stadtbezirke und der Stadtteil 504 Duissern des Stadtbezirks
-        Mitte s. Wkr. 116)
+        Mitte s. Wkr. 115)
 
 
-*    *   116
+*    *   115
 
     *   Duisburg II
 
@@ -6723,10 +6650,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *   (Übrige Stadtbezirke und Stadtteile des Stadtbezirks Mitte s. Wkr.
-        115)
+        114)
 
 
-*    *   117
+*    *   116
 
     *   Oberhausen – Wesel III
 
@@ -6746,10 +6673,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 113, 114)
+    *   (Übrige Gemeinden s. Wkr. 112, 113)
 
 
-*    *   118
+*    *   117
 
     *   Mülheim – Essen I
 
@@ -6769,10 +6696,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 119, 120)
+    *   (Übrige Stadtbezirke s. Wkr. 118, 119)
 
 
-*    *   119
+*    *   118
 
     *   Essen II
 
@@ -6787,10 +6714,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 118, 120)
+    *   (Übrige Stadtbezirke s. Wkr. 117, 119)
 
 
-*    *   120
+*    *   119
 
     *   Essen III
 
@@ -6805,10 +6732,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 118, 119)
+    *   (Übrige Stadtbezirke s. Wkr. 117, 118)
 
 
-*    *   121
+*    *   120
 
     *   Recklinghausen I
 
@@ -6824,10 +6751,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 122, 125)
+    *   (Übrige Gemeinden s. Wkr. 121, 124)
 
 
-*    *   122
+*    *   121
 
     *   Recklinghausen II
 
@@ -6843,17 +6770,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 121, 125)
+    *   (Übrige Gemeinden s. Wkr. 120, 124)
 
 
-*    *   123
+*    *   122
 
     *   Gelsenkirchen
 
     *   Kreisfreie Stadt Gelsenkirchen
 
 
-*    *   124
+*    *   123
 
     *   Steinfurt I – Borken I
 
@@ -6869,7 +6796,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 126)
+    *   (Übrige Gemeinden s. Wkr. 125)
 
 
 *    *
@@ -6887,10 +6814,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 127, 128)
+    *   (Übrige Gemeinden s. Wkr. 126, 127)
 
 
-*    *   125
+*    *   124
 
     *   Bottrop – Recklinghausen III
 
@@ -6911,10 +6838,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 121, 122)
+    *   (Übrige Gemeinden s. Wkr. 120, 121)
 
 
-*    *   126
+*    *   125
 
     *   Borken II
 
@@ -6931,10 +6858,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 124)
+    *   (Übrige Gemeinden s. Wkr. 123)
 
 
-*    *   127
+*    *   126
 
     *   Coesfeld – Steinfurt II
 
@@ -6955,10 +6882,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 124, 128)
+    *   (Übrige Gemeinden s. Wkr. 123, 127)
 
 
-*    *   128
+*    *   127
 
     *   Steinfurt III
 
@@ -6975,24 +6902,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 124, 127)
+    *   (Übrige Gemeinden s. Wkr. 123, 126)
 
 
-*    *   129
+*    *   128
 
     *   Münster
 
     *   Kreisfreie Stadt Münster
 
 
-*    *   130
+*    *   129
 
     *   Warendorf
 
     *   Kreis Warendorf
 
 
-*    *   131
+*    *   130
 
     *   Gütersloh I
 
@@ -7010,10 +6937,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 132, 136)
+    *   (Übrige Gemeinden s. Wkr. 131, 135)
 
 
-*    *   132
+*    *   131
 
     *   Bielefeld – Gütersloh II
 
@@ -7033,10 +6960,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 131, 136)
+    *   (Übrige Gemeinden s. Wkr. 130, 135)
 
 
-*    *   133
+*    *   132
 
     *   Herford – Minden-Lübbecke II
 
@@ -7056,10 +6983,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 134)
+    *   (Übrige Gemeinden s. Wkr. 133)
 
 
-*    *   134
+*    *   133
 
     *   Minden-Lübbecke I
 
@@ -7076,10 +7003,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinde s. Wkr. 133)
+    *   (Übrige Gemeinde s. Wkr. 132)
 
 
-*    *   135
+*    *   134
 
     *   Lippe I
 
@@ -7096,10 +7023,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 136)
+    *   (Übrige Gemeinden s. Wkr. 135)
 
 
-*    *   136
+*    *   135
 
     *   Höxter – Gütersloh III – Lippe II
 
@@ -7119,7 +7046,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 131, 132)
+    *   (Übrige Gemeinden s. Wkr. 130, 131)
 
 
 *    *
@@ -7136,17 +7063,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 135)
+    *   (Übrige Gemeinden s. Wkr. 134)
 
 
-*    *   137
+*    *   136
 
     *   Paderborn
 
     *   Kreis Paderborn
 
 
-*    *   138
+*    *   137
 
     *   Hagen – Ennepe-Ruhr-Kreis I
 
@@ -7167,10 +7094,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 139)
+    *   (Übrige Gemeinden s. Wkr. 138)
 
 
-*    *   139
+*    *   138
 
     *   Ennepe-Ruhr-Kreis II
 
@@ -7186,10 +7113,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 138)
+    *   (Übrige Gemeinden s. Wkr. 137)
 
 
-*    *   140
+*    *   139
 
     *   Bochum I
 
@@ -7205,10 +7132,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 141)
+    *   (Übrige Stadtbezirke s. Wkr. 140)
 
 
-*    *   141
+*    *   140
 
     *   Herne – Bochum II
 
@@ -7229,10 +7156,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 140)
+    *   (Übrige Stadtbezirke s. Wkr. 139)
 
 
-*    *   142
+*    *   141
 
     *   Dortmund I
 
@@ -7261,10 +7188,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke und übriger Stadtteil s. Wkr. 143)
+    *   (Übrige Stadtbezirke und übriger Stadtteil s. Wkr. 142)
 
 
-*    *   143
+*    *   142
 
     *   Dortmund II
 
@@ -7292,10 +7219,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke und Stadtteile s. Wkr. 142)
+    *   (Übrige Stadtbezirke und Stadtteile s. Wkr. 141)
 
 
-*    *   144
+*    *   143
 
     *   Unna I
 
@@ -7311,10 +7238,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 145)
+    *   (Übrige Gemeinden s. Wkr. 144)
 
 
-*    *   145
+*    *   144
 
     *   Hamm – Unna II
 
@@ -7335,31 +7262,31 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 144)
+    *   (Übrige Gemeinden s. Wkr. 143)
 
 
-*    *   146
+*    *   145
 
     *   Soest
 
     *   Kreis Soest
 
 
+*    *   146
+
+    *   Hochsauerlandkreis
+
+    *   Hochsauerlandkreis
+
+
 *    *   147
-
-    *   Hochsauerlandkreis
-
-    *   Hochsauerlandkreis
-
-
-*    *   148
 
     *   Siegen-Wittgenstein
 
     *   Kreis Siegen-Wittgenstein
 
 
-*    *   149
+*    *   148
 
     *   Olpe – Märkischer Kreis I
 
@@ -7380,10 +7307,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 150)
+    *   (Übrige Gemeinden s. Wkr. 149)
 
 
-*    *   150
+*    *   149
 
     *   Märkischer Kreis II
 
@@ -7400,20 +7327,20 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 149)
+    *   (Übrige Gemeinden s. Wkr. 148)
 
 
 *    *   **Sachsen**
 
 
-*    *   151
+*    *   150
 
     *   Nordsachsen
 
     *   Landkreis Nordsachsen
 
 
-*    *   152
+*    *   151
 
     *   Leipzig I
 
@@ -7429,10 +7356,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 153)
+    *   (Übrige Stadtbezirke s. Wkr. 152)
 
 
-*    *   153
+*    *   152
 
     *   Leipzig II
 
@@ -7448,24 +7375,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 152)
+    *   (Übrige Stadtbezirke s. Wkr. 151)
 
 
-*    *   154
+*    *   153
 
     *   Leipzig-Land
 
     *   Landkreis Leipzig
 
 
-*    *   155
+*    *   154
 
     *   Meißen
 
     *   Landkreis Meißen
 
 
-*    *   156
+*    *   155
 
     *   Bautzen I
 
@@ -7480,7 +7407,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
         Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal,
         Hochkirch, Hoyerswerda, Kamenz, Königswartha, Kubschütz, Lauta, Lohsa,
         Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau,
-        Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal,
+        Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal,
         Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
 
 
@@ -7578,24 +7505,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 160)
+    *   (Übrige Gemeinden s. Wkr. 159)
 
 
-*    *   157
+*    *   156
 
     *   Görlitz
 
     *   Landkreis Görlitz
 
 
-*    *   158
+*    *   157
 
     *   Sächsische Schweiz-Osterzgebirge
 
     *   Landkreis Sächsische Schweiz-Osterzgebirge
 
 
-*    *   159
+*    *   158
 
     *   Dresden I
 
@@ -7611,10 +7538,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 160)
+    *   (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 159)
 
 
-*    *   160
+*    *   159
 
     *   Dresden II – Bautzen II
 
@@ -7638,7 +7565,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Ortsamtsbereiche s. Wkr. 159)
+    *   (Übrige Ortsamtsbereiche s. Wkr. 158)
 
 
 *    *
@@ -7655,10 +7582,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 156)
+    *   (Übrige Gemeinden s. Wkr. 155)
 
 
-*    *   161
+*    *   160
 
     *   Mittelsachsen
 
@@ -7672,9 +7599,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
         Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln,
         Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg,
         Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke,
-        Hartha, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa., Neuhausen/Erzgeb.,
-        Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg,
-        Rossau, Roßwein, Striegistal, Waldheim
+        Hartha, Jahnatal, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa.,
+        Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-
+        Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim
 
 
 *    *
@@ -7706,19 +7633,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Ostrau
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Ostrau, Zschaitz-Ottewig
-
-
-*    *
-    *
-    *
     *   Verwaltungsgemeinschaft Sayda/Dorfchemnitz
 
 
@@ -7731,17 +7645,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 163)
+    *   (Übrige Gemeinden s. Wkr. 162)
 
 
-*    *   162
+*    *   161
 
     *   Chemnitz
 
     *   Kreisfreie Stadt Chemnitz
 
 
-*    *   163
+*    *   162
 
     *   Chemnitzer Umland – Erzgebirgskreis II
 
@@ -7783,7 +7697,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *
+    *   .
+
     *   Verwaltungsgemeinschaft Stollberg/Erzgeb.
 
 
@@ -7808,7 +7723,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 164)
+    *   (Übrige Gemeinden s. Wkr. 163)
 
 
 *    *
@@ -7852,7 +7767,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 161)
+    *   (Übrige Gemeinden s. Wkr. 160)
 
 
 *    *
@@ -7895,10 +7810,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 165)
+    *   (Übrige Gemeinden s. Wkr. 164)
 
 
-*    *   164
+*    *   163
 
     *   Erzgebirgskreis I
 
@@ -7913,10 +7828,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
         Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb.,
         Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt,
         Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau,
-        Kurort Oberwiesenthal, Olbernhau, Pockau-
-        Lengefeld,                      Raschau-Markersbach, Schneeberg,
-        Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad
-        Wiesenbad, Thum, Wolkenstein
+        Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-
+        Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal,
+        Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
 
 
 *    *
@@ -7935,7 +7849,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Geyer
+    *   Verwaltungsgemeinschaft Geyer-Tannenberg
 
 
 *    *
@@ -7943,6 +7857,19 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Geyer, Tannenberg
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Kurort Seiffen – Deutschneudorf – Heidersdorf
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Deutschneudorf, Heidersdorf, Kurort Seiffen/Erzgeb.
 
 
 *    *
@@ -7956,19 +7883,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Scheibenberg, Schlettau
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Seiffen/Erzgeb.
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Deutschneudorf, Heidersdorf, Kurort Seiffen/Erzgeb.
 
 
 *    *
@@ -8024,10 +7938,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 163)
+    *   (Übrige Gemeinden s. Wkr. 162)
 
 
-*    *   165
+*    *   164
 
     *   Zwickau
 
@@ -8039,9 +7953,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Fraureuth, Glauchau, Hartenstein, Langenbernsdorf, Langenweißbach,
-        Lichtentanne, Mülsen, Neukirchen/
-        Pleiße,                      Reinsdorf, Werdau, Wildenfels, Wilkau-
-        Haßlau, Zwickau
+        Lichtentanne, Mülsen, Neukirchen/Pleiße, Reinsdorf, Werdau,
+        Wildenfels, Wilkau-Haßlau, Zwickau
 
 
 *    *
@@ -8098,10 +8011,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 163)
+    *   (Übrige Gemeinden s. Wkr. 162)
 
 
-*    *   166
+*    *   165
 
     *   Vogtlandkreis
 
@@ -8111,7 +8024,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   **Hessen**
 
 
-*    *   167
+*    *   166
 
     *   Waldeck
 
@@ -8130,7 +8043,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 168)
+    *   (Übrige Gemeinden s. Wkr. 167)
 
 
 *    *
@@ -8148,10 +8061,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 170)
+    *   (Übrige Gemeinden s. Wkr. 169)
 
 
-*    *   168
+*    *   167
 
     *   Kassel
 
@@ -8173,10 +8086,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 167)
+    *   (Übrige Gemeinden s. Wkr. 166)
 
 
-*    *   169
+*    *   168
 
     *   Werra-Meißner – Hersfeld-Rotenburg
 
@@ -8187,7 +8100,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Werra-Meißner-Kreis
 
 
-*    *   170
+*    *   169
 
     *   Schwalm-Eder
 
@@ -8203,24 +8116,24 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Allendorf (Eder), Battenberg (Eder), Bromskirchen, Burgwald,
-        Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster),
-        Hatzfeld (Eder), Rosenthal, Vöhl
+        Allendorf (Eder), Battenberg (Eder), Burgwald, Frankenau, Frankenberg
+        (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Rosenthal,
+        Vöhl
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 167)
+    *   (Übrige Gemeinden s. Wkr. 166)
 
 
-*    *   171
+*    *   170
 
     *   Marburg
 
     *   Landkreis Marburg-Biedenkopf
 
 
-*    *   172
+*    *   171
 
     *   Lahn-Dill
 
@@ -8241,10 +8154,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 173)
+    *   (Übrige Gemeinden s. Wkr. 172)
 
 
-*    *   173
+*    *   172
 
     *   Gießen
 
@@ -8262,7 +8175,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 172)
+    *   (Übrige Gemeinden s. Wkr. 171)
 
 
 *    *
@@ -8280,10 +8193,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 174, 175)
+    *   (Übrige Gemeinden s. Wkr. 173, 174)
 
 
-*    *   174
+*    *   173
 
     *   Fulda
 
@@ -8305,10 +8218,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 173, 175)
+    *   (Übrige Gemeinden s. Wkr. 172, 174)
 
 
-*    *   175
+*    *   174
 
     *   Main-Kinzig – Wetterau II – Schotten
 
@@ -8326,7 +8239,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 180)
+    *   (Übrige Gemeinden s. Wkr. 179)
 
 
 *    *
@@ -8342,7 +8255,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 173, 174)
+    *   (Übrige Gemeinden s. Wkr. 172, 173)
 
 
 *    *
@@ -8360,10 +8273,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 177)
+    *   (Übrige Gemeinden s. Wkr. 176)
 
 
-*    *   176
+*    *   175
 
     *   Hochtaunus
 
@@ -8375,12 +8288,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach,
-        Neu-Anspach, Oberursel (Taunus), Schmitten, Usingen, Wehrheim, Weilrod
+        Neu-Anspach, Oberursel (Taunus), Schmitten im Taunus, Usingen,
+        Wehrheim, Weilrod
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 181)
+    *   (Übrige Gemeinden s. Wkr. 180)
 
 
 *    *
@@ -8398,10 +8312,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 178)
+    *   (Übrige Gemeinden s. Wkr. 177)
 
 
-*    *   177
+*    *   176
 
     *   Wetterau I
 
@@ -8420,10 +8334,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 175)
+    *   (Übrige Gemeinden s. Wkr. 174)
 
 
-*    *   178
+*    *   177
 
     *   Rheingau-Taunus – Limburg
 
@@ -8445,17 +8359,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 176)
+    *   (Übrige Gemeinden s. Wkr. 175)
 
 
-*    *   179
+*    *   178
 
     *   Wiesbaden
 
     *   Kreisfreie Stadt Wiesbaden
 
 
-*    *   180
+*    *   179
 
     *   Hanau
 
@@ -8473,10 +8387,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 175)
+    *   (Übrige Gemeinden s. Wkr. 174)
 
 
-*    *   181
+*    *   180
 
     *   Main-Taunus
 
@@ -8497,10 +8411,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 176)
+    *   (Übrige Gemeinden s. Wkr. 175)
 
 
-*    *   182
+*    *   181
 
     *   Frankfurt am Main I
 
@@ -8510,19 +8424,19 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   die Ortsteile
-        Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim,
-        Gallusviertel, Ginnheim, Griesheim, Gutleutviertel, Hausen,
-        Heddernheim, Höchst, Innenstadt, Nied, Niederursel, Praunheim,
-        Rödelheim, Sindlingen, Sossenheim, Unterliederbach, Westend, Zeilsheim
+    *   die Stadtteile
+        Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim, Gallus,
+        Ginnheim, Griesheim, Gutleutviertel, Hausen, Heddernheim, Höchst,
+        Innenstadt, Nied, Niederursel, Praunheim, Rödelheim, Sindlingen,
+        Sossenheim, Unterliederbach, Westend-Nord, Westend-Süd, Zeilsheim
 
 
 *    *
     *
-    *   (Übrige Ortsteile s. Wkr. 183)
+    *   (Übrige Stadtteile s. Wkr. 182)
 
 
-*    *   183
+*    *   182
 
     *   Frankfurt am Main II
 
@@ -8532,26 +8446,27 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   die Ortsteile
+    *   die Stadtteile
         Bergen-Enkheim, Berkersheim, Bonames, Bornheim, Eckenheim, Fechenheim,
-        Frankfurter Berg, Harheim, Kalbach, Nieder-Erlenbach, Nieder-Eschbach,
-        Niederrad, Nordend, Oberrad, Ostend, Preungesheim, Riederwald,
-        Sachsenhausen, Schwanheim, Seckbach
+        Flughafen, Frankfurter Berg, Harheim, Kalbach-Riedberg, Nieder-
+        Erlenbach, Nieder-Eschbach, Niederrad, Nordend-Ost, Nordend-West,
+        Oberrad, Ostend, Preungesheim, Riederwald, Sachsenhausen-Nord,
+        Sachsenhausen-Süd, Schwanheim, Seckbach
 
 
 *    *
     *
-    *   (Übrige Ortsteile s. Wkr. 182)
+    *   (Übrige Stadtteile s. Wkr 181)
 
 
-*    *   184
+*    *   183
 
     *   Groß-Gerau
 
     *   Landkreis Groß-Gerau
 
 
-*    *   185
+*    *   184
 
     *   Offenbach
 
@@ -8573,10 +8488,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 187)
+    *   (Übrige Gemeinden s. Wkr. 186)
 
 
-*    *   186
+*    *   185
 
     *   Darmstadt
 
@@ -8599,10 +8514,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 187)
+    *   (Übrige Gemeinden s. Wkr. 186)
 
 
-*    *   187
+*    *   186
 
     *   Odenwald
 
@@ -8624,7 +8539,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 186)
+    *   (Übrige Gemeinden s. Wkr. 185)
 
 
 *    *
@@ -8641,10 +8556,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 185)
+    *   (Übrige Gemeinden s. Wkr. 184)
 
 
-*    *   188
+*    *   187
 
     *   Bergstraße
 
@@ -8654,7 +8569,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   **Thüringen**
 
 
-*    *   189
+*    *   188
 
     *   Eichsfeld – Nordhausen –
         Kyffhäuserkreis
@@ -8671,24 +8586,19 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Nordhausen
 
 
-*    *   190
+*    *   189
 
     *   Eisenach – Wartburgkreis –
         Unstrut-Hainich-Kreis
 
-    *   Kreisfreie Stadt Eisenach
-
-
-*    *
     *   Landkreis Unstrut-Hainich-Kreis
 
 
 *    *
-    *
     *   Landkreis Wartburgkreis
 
 
-*    *   191
+*    *   190
 
     *   Jena – Sömmerda – Weimarer Land I
 
@@ -8735,7 +8645,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Bad Sulza, Eberstedt, Großheringen, Niedertrebra, Obertrebra,
-        Rannstedt, Schmiedehausen
+        Schmiedehausen
 
 
 *    *
@@ -8769,10 +8679,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 193)
+    *   (Übrige Gemeinden s. Wkr. 192)
 
 
-*    *   192
+*    *   191
 
     *   Gotha – Ilm-Kreis
 
@@ -8784,7 +8694,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Ilm-Kreis
 
 
-*    *   193
+*    *   192
 
     *   Erfurt – Weimar – Weimarer Land II
 
@@ -8792,7 +8702,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Kreisfreie Stadt Weimar
 
 
@@ -8809,10 +8718,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 191)
+    *   (Übrige Gemeinden s. Wkr. 190)
 
 
-*    *   194
+*    *   193
 
     *   Gera – Greiz – Altenburger Land
 
@@ -8829,11 +8738,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Greiz
 
 
-*    *   195
+*    *   194
 
     *   Saalfeld-Rudolstadt –
-        Saale-Holzland-Kreis –
-        Saale-Orla-Kreis
+        Saale-Holzland-Kreis – Saale-Orla-Kreis
 
     *   Landkreis Saale-Holzland-Kreis
 
@@ -8843,12 +8751,14 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
+    *
     *   Landkreis Saalfeld-Rudolstadt
 
 
-*    *   196
+*    *   195
 
-    *   Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg
+    *   Suhl – Schmalkalden-Meiningen –
+        Hildburghausen – Sonneberg
 
     *   Kreisfreie Stadt Suhl
 
@@ -8870,7 +8780,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   **Rheinland-Pfalz**
 
 
-*    *   197
+*    *   196
 
     *   Neuwied
 
@@ -8882,7 +8792,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Neuwied
 
 
-*    *   198
+*    *   197
 
     *   Ahrweiler
 
@@ -8960,10 +8870,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 199)
+    *   (Übrige Gemeinden s. Wkr. 198)
 
 
-*    *   199
+*    *   198
 
     *   Koblenz
 
@@ -9025,7 +8935,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 198)
+    *   (Übrige Gemeinden s. Wkr. 197)
 
 
 *    *
@@ -9057,7 +8967,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *
     *   von der Verbandsgemeinde Bad Ems-Nassau
 
 
@@ -9071,10 +8980,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 204)
+    *   (Übrige Gemeinden s. Wkr. 203)
 
 
-*    *   200
+*    *   199
 
     *   Mosel/Rhein-Hunsrück
 
@@ -9145,10 +9054,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 202)
+    *   (Übrige Gemeinden s. Wkr. 201)
 
 
-*    *   201
+*    *   200
 
     *   Kreuznach
 
@@ -9160,7 +9069,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Birkenfeld
 
 
-*    *   202
+*    *   201
 
     *   Bitburg
 
@@ -9197,7 +9106,12 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
         Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath,
         Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler,
         Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld,
-        Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen,
+
+
+*    *
+    *
+    *
+    *   Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen,
         Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-
         Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt,
         Schwarzenborn, Sehlem, Wallscheid
@@ -9219,10 +9133,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 200)
+    *   (Übrige Gemeinden s. Wkr. 199)
 
 
-*    *   203
+*    *   202
 
     *   Trier
 
@@ -9234,7 +9148,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Trier-Saarburg
 
 
-*    *   204
+*    *   203
 
     *   Montabaur
 
@@ -9316,10 +9230,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 199)
+    *   (Übrige Gemeinden s. Wkr. 198)
 
 
-*    *   205
+*    *   204
 
     *   Mainz
 
@@ -9383,10 +9297,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 206)
+    *   (Übrige Gemeinden s. Wkr. 205)
 
 
-*    *   206
+*    *   205
 
     *   Worms
 
@@ -9448,10 +9362,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 205)
+    *   (Übrige Gemeinden s. Wkr. 204)
 
 
-*    *   207
+*    *   206
 
     *   Ludwigshafen/Frankenthal
 
@@ -9530,10 +9444,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 208)
+    *   (Übrige Gemeinden s. Wkr. 207)
 
 
-*    *   208
+*    *   207
 
     *   Neustadt – Speyer
 
@@ -9589,10 +9503,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 207)
+    *   (Übrige Gemeinden s. Wkr. 206)
 
 
-*    *   209
+*    *   208
 
     *   Kaiserslautern
 
@@ -9659,10 +9573,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 210)
+    *   (Übrige Gemeinden s. Wkr. 209)
 
 
-*    *   210
+*    *   209
 
     *   Pirmasens
 
@@ -9729,10 +9643,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 209)
+    *   (Übrige Gemeinden s. Wkr. 208)
 
 
-*    *   211
+*    *   210
 
     *   Südpfalz
 
@@ -9752,7 +9666,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *   **Bayern**
 
 
-*    *   212
+*    *   211
 
     *   Altötting
 
@@ -9764,7 +9678,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Mühldorf a. Inn
 
 
-*    *   213
+*    *   212
 
     *   Erding – Ebersberg
 
@@ -9776,7 +9690,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Erding
 
 
-*    *   214
+*    *   213
 
     *   Freising
 
@@ -9815,10 +9729,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 216)
+    *   (Übrige Gemeinden s. Wkr. 215)
 
 
-*    *   215
+*    *   214
 
     *   Fürstenfeldbruck
 
@@ -9835,8 +9749,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Alling, Egenhofen, Eichenau, Emmering, Fürstenfeldbruck, Gröbenzell,
-        Maisach, Moorenweis, Olching, Puchheim,
-        Türkenfeld
+        Maisach, Moorenweis, Olching, Puchheim, Türkenfeld
 
 
 *    *
@@ -9868,10 +9781,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinde s. Wkr. 224)
+    *   (Übrige Gemeinde s. Wkr. 223)
 
 
-*    *   216
+*    *   215
 
     *   Ingolstadt
 
@@ -9892,8 +9805,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg a. d.
-        Donau, Oberhausen, Rennertshofen, Weichering
+        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg
+        a. d. Donau, Oberhausen, Rennertshofen, Weichering
 
 
 *    *
@@ -9911,10 +9824,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 214)
+    *   (Übrige Gemeinden s. Wkr. 213)
 
 
-*    *   217
+*    *   216
 
     *   München-Nord
 
@@ -9929,10 +9842,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 218, 219, 220)
+    *   (Übrige Stadtbezirke s. Wkr. 217, 218, 219)
 
 
-*    *   218
+*    *   217
 
     *   München-Ost
 
@@ -9947,10 +9860,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 217, 219, 220)
+    *   (Übrige Stadtbezirke s. Wkr. 216, 218, 219)
 
 
-*    *   219
+*    *   218
 
     *   München-Süd
 
@@ -9965,10 +9878,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 217, 218, 220)
+    *   (Übrige Stadtbezirke s. Wkr. 216, 217, 219)
 
 
-*    *   220
+*    *   219
 
     *   München-West/Mitte
 
@@ -9983,17 +9896,17 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 217, 218, 219)
+    *   (Übrige Stadtbezirke s. Wkr. 216, 217, 218)
 
 
-*    *   221
+*    *   220
 
     *   München-Land
 
     *   Landkreis München
 
 
-*    *   222
+*    *   221
 
     *   Rosenheim
 
@@ -10005,7 +9918,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Rosenheim
 
 
-*    *   223
+*    *   222
 
     *   Bad Tölz-Wolfratshausen – Miesbach
 
@@ -10013,11 +9926,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Miesbach
 
 
-*    *   224
+*    *   223
 
     *   Starnberg – Landsberg am Lech
 
@@ -10025,7 +9937,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 *    *
-    *
     *   Landkreis Starnberg
 
 
@@ -10042,10 +9953,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 215)
+    *   (Übrige Gemeinden s. Wkr. 214)
 
 
-*    *   225
+*    *   224
 
     *   Traunstein
 
@@ -10057,7 +9968,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Traunstein
 
 
-*    *   226
+*    *   225
 
     *   Weilheim
 
@@ -10069,7 +9980,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Weilheim-Schongau
 
 
-*    *   227
+*    *   226
 
     *   Deggendorf
 
@@ -10090,15 +10001,15 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aicha vorm Wald, Eging a.See, Fürstenstein, Hofkirchen
+        Aicha vorm Wald, Eging a. See, Fürstenstein, Hofkirchen
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 229)
+    *   (Übrige Gemeinden s. Wkr. 228)
 
 
-*    *   228
+*    *   227
 
     *   Landshut
 
@@ -10119,11 +10030,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch
-        a.Erlbach,                      Eching, Ergolding, Essenbach,
-        Geisenhausen, Hohenthann, Kumhausen, Neufahrn i.NB, Niederaichbach,
-        Pfeffenhausen, Rottenburg a. d. Laaber, Tiefenbach, Vilsbiburg,
-        Vilsheim
+        Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch a. Erlbach, Eching,
+        Ergolding, Essenbach, Geisenhausen, Hohenthann, Kumhausen, Neufahrn
+        i. NB, Niederaichbach, Pfeffenhausen, Rottenburg a. d. Laaber,
+        Tiefenbach, Vilsbiburg, Vilsheim
 
 
 *    *
@@ -10149,7 +10059,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bayerbach b.Ergoldsbach, Ergoldsbach
+        Bayerbach b. Ergoldsbach, Ergoldsbach
 
 
 *    *
@@ -10180,10 +10090,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 230)
+    *   (Übrige Gemeinden s. Wkr. 229)
 
 
-*    *   229
+*    *   228
 
     *   Passau
 
@@ -10199,12 +10109,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aldersbach, Bad Füssing, Bad Griesbach i.Rottal, Breitenberg,
+        Aldersbach, Bad Füssing, Bad Griesbach i. Rottal, Breitenberg,
         Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham,
-        Kößlarn, Neuburg a. Inn, Neuhaus a. Inn, Neukirchen vorm Wald,
-        Obernzell, Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott,
-        Salzweg, Sonnen, Tettenweis, Thyrnau, Tiefenbach, Untergriesbach,
-        Vilshofen an der Donau, Wegscheid, Windorf
+        Kößlarn, Neuburg a. Inn, Neuhaus
+        a. Inn,                      Neukirchen vorm Wald, Obernzell,
+        Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott, Salzweg, Sonnen,
+        Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an der
+        Donau, Wegscheid, Windorf
 
 
 *    *
@@ -10248,10 +10159,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 227)
+    *   (Übrige Gemeinden s. Wkr. 226)
 
 
-*    *   230
+*    *   229
 
     *   Rottal-Inn
 
@@ -10296,10 +10207,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 228)
+    *   (Übrige Gemeinden s. Wkr. 227)
 
 
-*    *   231
+*    *   230
 
     *   Straubing
 
@@ -10316,7 +10227,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Straubing-Bogen
 
 
-*    *   232
+*    *   231
 
     *   Amberg
 
@@ -10333,7 +10244,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Neumarkt i.d.OPf.
 
 
-*    *   233
+*    *   232
 
     *   Regensburg
 
@@ -10391,7 +10302,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Duggendorf, Holzheim a.Forst, Kallmünz
+        Duggendorf, Holzheim a. Forst, Kallmünz
 
 
 *    *
@@ -10435,10 +10346,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 234)
+    *   (Übrige Gemeinden s. Wkr. 233)
 
 
-*    *   234
+*    *   233
 
     *   Schwandorf
 
@@ -10470,10 +10381,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 233)
+    *   (Übrige Gemeinden s. Wkr. 232)
 
 
-*    *   235
+*    *   234
 
     *   Weiden
 
@@ -10490,7 +10401,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Tirschenreuth
 
 
-*    *   236
+*    *   235
 
     *   Bamberg
 
@@ -10520,7 +10431,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Burgebrach, Schönbrunn i.Steigerwald
+        Burgebrach, Schönbrunn i. Steigerwald
 
 
 *    *
@@ -10551,7 +10462,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 240)
+    *   (Übrige Gemeinden s. Wkr. 239)
 
 
 *    *
@@ -10564,7 +10475,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf,
-        Langensendelbach, Neunkirchen a.Brand
+        Langensendelbach, Neunkirchen a. Brand
 
 
 *    *
@@ -10621,10 +10532,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 237)
+    *   (Übrige Gemeinden s. Wkr. 236)
 
 
-*    *   237
+*    *   236
 
     *   Bayreuth
 
@@ -10676,10 +10587,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 236)
+    *   (Übrige Gemeinden s. Wkr. 235)
 
 
-*    *   238
+*    *   237
 
     *   Coburg
 
@@ -10709,10 +10620,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 239)
+    *   (Übrige Gemeinden s. Wkr. 238)
 
 
-*    *   239
+*    *   238
 
     *   Hof
 
@@ -10734,9 +10645,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Bad Steben, Berg, Döhlau, Helmbrechts, Köditz, Konradsreuth,
-        Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach a.
-        Wald, Schwarzenbach
-        a. d. Saale,                      Selbitz, Stammbach, Zell im
+        Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach
+        a. Wald, Schwarzenbach a. d. Saale, Selbitz, Stammbach, Zell im
         Fichtelgebirge
 
 
@@ -10794,10 +10704,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinde s. Wkr. 238)
+    *   (Übrige Gemeinde s. Wkr. 237)
 
 
-*    *   240
+*    *   239
 
     *   Kulmbach
 
@@ -10851,10 +10761,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 236)
+    *   (Übrige Gemeinden s. Wkr. 235)
 
 
-*    *   241
+*    *   240
 
     *   Ansbach
 
@@ -10871,7 +10781,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Weißenburg-Gunzenhausen
 
 
-*    *   242
+*    *   241
 
     *   Erlangen
 
@@ -10903,10 +10813,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 243)
+    *   (Übrige Gemeinden s. Wkr. 242)
 
 
-*    *   243
+*    *   242
 
     *   Fürth
 
@@ -11013,10 +10923,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 242)
+    *   (Übrige Gemeinden s. Wkr. 241)
 
 
-*    *   244
+*    *   243
 
     *   Nürnberg-Nord
 
@@ -11032,10 +10942,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Bezirke s. Wkr. 245)
+    *   (Übrige Bezirke s. Wkr. 244)
 
 
-*    *   245
+*    *   244
 
     *   Nürnberg-Süd
 
@@ -11056,10 +10966,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Bezirke s. Wkr. 244)
+    *   (Übrige Bezirke s. Wkr. 243)
 
 
-*    *   246
+*    *   245
 
     *   Roth
 
@@ -11071,7 +10981,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Roth
 
 
-*    *   247
+*    *   246
 
     *   Aschaffenburg
 
@@ -11083,7 +10993,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Aschaffenburg
 
 
-*    *   248
+*    *   247
 
     *   Bad Kissingen
 
@@ -11100,7 +11010,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Rhön-Grabfeld
 
 
-*    *   249
+*    *   248
 
     *   Main-Spessart
 
@@ -11112,7 +11022,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Miltenberg
 
 
-*    *   250
+*    *   249
 
     *   Schweinfurt
 
@@ -11129,7 +11039,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Schweinfurt
 
 
-*    *   251
+*    *   250
 
     *   Würzburg
 
@@ -11141,30 +11051,14 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Würzburg
 
 
-*    *   252
+*    *   251
 
     *   Augsburg-Stadt
 
     *   Kreisfreie Stadt Augsburg
 
 
-*    *
-    *
-    *   vom Landkreis Augsburg
-
-
-*    *
-    *
-    *
-    *   die Gemeinde Königsbrunn
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 253, 254)
-
-
-*    *   253
+*    *   252
 
     *   Augsburg-Land
 
@@ -11207,7 +11101,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 254)
+    *   (Übrige Gemeinden s. Wkr. 253)
 
 
 *    *
@@ -11219,9 +11113,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Adelsried, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben,
-        Fischach, Gablingen, Gersthofen, Graben, Horgau, Kutzenhausen,
-        Langweid a.Lech, Meitingen, Neusäß, Schwabmünchen, Stadtbergen,
+        Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf,
+        Dinkelscherben, Gablingen, Gersthofen, Horgau, Königsbrunn,
+        Kutzenhausen, Langweid a. Lech, Meitingen, Neusäß, Stadtbergen,
         Thierhaupten, Wehringen, Zusmarshausen
 
 
@@ -11241,45 +11135,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Großaitingen
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Großaitingen, Kleinaitingen, Oberottmarshausen
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Langerringen
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Hiltenfingen, Langerringen
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Lechfeld
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Klosterlechfeld, Untermeitingen
-
-
-*    *
-    *
-    *
     *   Verwaltungsgemeinschaft Nordendorf
 
 
@@ -11288,20 +11143,6 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Allmannshofen, Ehingen, Ellgau, Kühlenthal, Nordendorf, Westendorf
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Stauden
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten,
-        Walkertshofen
 
 
 *    *
@@ -11319,10 +11160,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 252, 254)
+    *   (Übrige Gemeinden s. Wkr. 255, 257)
 
 
-*    *   254
+*    *   253
 
     *   Donau-Ries
 
@@ -11386,26 +11227,10 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 253)
+    *   (Übrige Gemeinden s. Wkr. 252)
 
 
-*    *
-    *
-    *   vom Landkreis Augsburg
-
-
-*    *
-    *
-    *
-    *   die Gemeinde Altenmünster
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 252, 253)
-
-
-*    *   255
+*    *   254
 
     *   Neu-Ulm
 
@@ -11417,67 +11242,47 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *   Landkreis Neu-Ulm
 
 
-*    *
-    *
-    *   vom Landkreis Unterallgäu
+*    *   255
+
+    *   Memmingen – Unterallgäu
+
+    *   Kreisfreie Stadt Memmingen
 
 
 *    *
     *
-    *
-    *   Verwaltungsgemeinschaft Babenhausen
+    *   Landkreis Unterallgäu
 
 
 *    *
     *
-    *
-    *   die Gemeinden
-        Babenhausen, Egg a. d. Günz, Kettershausen, Kirchhaslach,
-        Oberschönegg, Winterrieden
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Boos
+    *   vom Landkreis Augsburg
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Boos, Fellheim, Heimertingen, Niederrieden, Pleß
+        Fischach, Schwabmünchen
 
 
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Erkheim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Erkheim, Kammlach, Lauben, Westerheim
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Pfaffenhausen
+    *   Verwaltungsgemeinschaft Stauden
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Breitenbrunn, Oberrieden, Pfaffenhausen, Salgen
+        Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten,
+        Walkertshofen
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 257)
+    *   (Übrige Gemeinden s. Wkr. 252, 257)
 
 
 *    *   256
@@ -11506,122 +11311,62 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   Kreisfreie Stadt Memmingen
-
-
-*    *
-    *
     *   Landkreis Ostallgäu
 
 
 *    *
     *
-    *   vom Landkreis Unterallgäu
+    *   vom Landkreis Augsburg
+
+
+*    *
+    *
+    *
+    *   die Gemeinde Graben
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Großaitingen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Bad Wörishofen, Buxheim, Ettringen, Markt Rettenbach, Markt Wald,
-        Mindelheim, Sontheim, Tussenhausen und das gemeindefreie Gebiet
-        Ungerhauser Wald
+        Großaitingen, Kleinaitingen, Oberottmarshausen
 
 
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Bad Grönenbach
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bad Grönenbach, Wolfertschwenden, Woringen
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Dirlewang
+    *   Verwaltungsgemeinschaft Langerringen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Apfeltrach, Dirlewang, Stetten, Unteregg
+        Hiltenfingen, Langerringen
 
 
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Illerwinkel
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Kronburg, Lautrach, Legau
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Kirchheim i. Schw.
+    *   Verwaltungsgemeinschaft Lechfeld
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Eppishausen, Kirchheim i. Schw.
+        Klosterlechfeld, Untermeitingen
 
 
 *    *
     *
-    *
-    *   Verwaltungsgemeinschaft Memmingerberg
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Benningen, Holzgünz, Lachen, Memmingerberg, Trunkelsberg, Ungerhausen
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Ottobeuren
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Böhen, Hawangen, Ottobeuren
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Türkheim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Amberg, Rammingen, Türkheim, Wiedergeltingen
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 255)
+    *   (Übrige Gemeinden s. Wkr. 252, 255)
 
 
 *    *   **Baden-Württemberg**
@@ -12191,7 +11936,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen,
-        Eschbach, Hartheim am Rhein, Heitersheim, Müllheim,
+        Eschbach, Hartheim am Rhein, Heitersheim, Müllheim im Markgräflerland,
         Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau,
         Sulzburg
 
@@ -12625,7 +12370,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 296, 298).
+    *   (Übrige Gemeinden s. Wkr. 296, 298)
 
 
 

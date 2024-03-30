@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 Abs. 7 G v. 17.7.2017 I 2446
 
+Änderung durch
+:   Art. 17 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Rechtsform, Sitz
 
@@ -331,7 +334,7 @@ Absätze 2 bis 4 ausgeben.
 Schuldverschreibungen muss in Höhe des Nennwerts und der Zinsen
 jederzeit gedeckt sein. Als Deckung sind zulässig
 
-1.  Pfandbriefe im Sinne des § 1 Absatz 2 des Pfandbriefgesetzes, die nach
+1.  Pfandbriefe im Sinne des § 1 Absatz 3 des Pfandbriefgesetzes, die nach
     den Vorschriften des Pfandbriefgesetzes ausgegeben werden,
 
 
@@ -359,8 +362,11 @@ Kreditinstituten ersetzt werden (Ersatzdeckung).
 (3) Die zur Deckung der Schuldverschreibungen bestimmten
 Vermögenswerte einschließlich der Ersatzdeckung sowie Vermögenswerte
 in Höhe der Deckungsrücklage nach § 2 Absatz 3 sind von der Bank
-einzeln in ein Register einzutragen. § 5 Absatz 1 und 2 des
-Pfandbriefgesetzes gilt entsprechend mit der Maßgabe, dass an die
+einzeln in ein Register einzutragen. § 5 Absatz 1 Satz 1, 3 und 4,
+Absatz 1a Satz 1, 4 und 5 und Absatz 1b des Pfandbriefgesetzes gilt
+entsprechend; § 5 Absatz 1 Satz 5 und Absatz 2 des Pfandbriefgesetzes
+sowie eine aufgrund des § 5 Absatz 3 des Pfandbriefgesetzes erlassene
+Rechtsverordnung gelten entsprechend mit der Maßgabe, dass an die
 Stelle der Bundesanstalt die in § 11 Absatz 1 genannte
 Aufsichtsbehörde tritt.
 
@@ -368,8 +374,8 @@ Aufsichtsbehörde tritt.
 Bank einen Treuhänder und einen Stellvertreter. Der Treuhänder hat
 darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der
 Schuldverschreibungen den gesetzlichen und satzungsmäßigen
-Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 und
-4 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit
+Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 bis
+5 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit
 der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1
 genannte Aufsichtsbehörde tritt.
 

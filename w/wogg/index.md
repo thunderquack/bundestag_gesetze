@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 14 G v. 16.12.2022 I 2328
+:   Art. 17 G v. 22.12.2023 I Nr. 408
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
@@ -266,16 +266,16 @@ Todesfall
 
 
 7.
-    a)  ergänzender Hilfe zum Lebensunterhalt oder
+    a)  Leistungen zum Lebensunterhalt oder
 
 
-    b)  anderen Hilfen in einer stationären Einrichtung, die den
+    b)  anderen Leistungen in einer stationären Einrichtung, die den
         Lebensunterhalt umfassen,
 
 
 
-    nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das dieses
-    für anwendbar erklärt,
+    nach dem Vierzehnten Buch Sozialgesetzbuch oder nach einem Gesetz, das
+    dieses für anwendbar erklärt,
 
 
 8.  Leistungen in besonderen Fällen und Grundleistungen nach dem
@@ -299,7 +299,7 @@ berücksichtigt worden sind. Der Ausschluss besteht nicht, wenn
 
 2.  durch Wohngeld die Hilfebedürftigkeit im Sinne des § 9 des Zweiten
     Buches Sozialgesetzbuch, des § 19 Abs. 1 und 2 des Zwölften Buches
-    Sozialgesetzbuch oder des § 27a des Bundesversorgungsgesetzes
+    Sozialgesetzbuch oder des § 93 des Vierzehnten Buches Sozialgesetzbuch
     vermieden oder beseitigt werden kann und
 
     a)  die Leistungen nach Satz 1 Nr. 1 bis 7 während der Dauer des
@@ -339,10 +339,10 @@ der in Absatz 1 Satz 1 genannten Leistungen sind und
     berücksichtigt worden sind,
 
 
-4.  deren Einkommen und Vermögen nach § 27a Satz 2 des
-    Bundesversorgungsgesetzes in Verbindung mit § 27 Absatz 2 Satz 2 oder
-    3 des Zwölften Buches Sozialgesetzbuch bei der Ermittlung der Leistung
-    eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 7
+4.  deren Einkommen und Vermögen nach § 93 des Vierzehnten Buches
+    Sozialgesetzbuch in Verbindung mit § 27 Absatz 2 Satz 2 oder 3 des
+    Zwölften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines
+    anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 7
     berücksichtigt worden sind, oder
 
 
@@ -2405,14 +2405,13 @@ Zustimmung des Bundesrates
     Durchführung des Datenabgleichs zu erstatten haben;
 
 
-4.  die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für
-    „b“ und „c“ (Anlage 2) nach einer gesetzlichen Änderung nach § 43 zum
-    1\. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen
-    Höchstbeträge in Anlage 1 und Werte in Anlage 2 zu ersetzen. Soweit
-    der Deutsche Bundestag beschließt, die Höchstbeträge für Miete und
-    Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die
-    Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen, hat
-    dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
+4.  die in § 43 Absatz 1 Satz 1 Nummer 1 bis 6 genannten Berechnungsgrößen
+    nach einer gesetzlichen Änderung nach § 43 zum 1. Januar jedes zweiten
+    Jahres fortzuschreiben und die bisherigen Anlagen 1 bis 3 zu ersetzen.
+    Soweit der Deutsche Bundestag beschließt, die Höchstbeträge für Miete
+    und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder
+    die Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen,
+    hat dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
 
 
 
@@ -2964,6 +2963,37 @@ gestellten Wohngeldantrag nach § 22 zu entscheiden und beginnt der
 Bewilligungszeitraum vor dem Inkrafttreten der Fortschreibung, so ist
 Satz 1 entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben
 unberührt.
+
+
+### § 45 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Personen, die
+
+a)  ergänzende Hilfe zum Lebensunterhalt oder
+
+
+b)  andere Hilfen in einer stationären Einrichtung, die den
+    Lebensunterhalt umfassen,
+
+
+
+nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden
+Fassung oder nach einem Gesetz, das dieses für anwendbar erklärt,
+empfangen, sind vom Wohngeld ausgeschlossen, wenn bei der Berechnung
+ihrer Hilfen Kosten der Unterkunft berücksichtigt worden sind. § 7
+Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember
+2023 gelten entsprechend.
+
+(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S.
+3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019
+(BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 7 Absatz 1 Satz 1 Nummer 7,
+Satz 3 Nummer 2 und Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember
+2023 geltenden Fassung weiter.
 
 
 ### Anlage 1 (zu § 12 Absatz 1)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1284
 
 Zuletzt geändert durch
-:   Art. 2 G v. 1.7.2022 I 1030
+:   Art. 12 G v. 22.12.2023 I Nr. 412
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
@@ -786,7 +786,8 @@ außerhalb der Bundesverwaltung zur Erfüllung bestimmter Zwecke
 (Zuwendungen) dürfen nur veranschlagt werden, wenn der Bund an der
 Erfüllung durch solche Stellen ein erhebliches Interesse hat, das ohne
 die Zuwendungen nicht oder nicht im notwendigen Umfang befriedigt
-werden kann.
+werden kann. Zuwendungen auf Grundlage von Beschlüssen des Bundestages
+erfüllen grundsätzlich die in Satz 1 genannten Voraussetzungen.
 
 
 ### § 24 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
@@ -1025,7 +1026,14 @@ anderen Ausgaben in demselben Einzelplan ausgeglichen werden.
 
 (4) Über- und außerplanmäßige Ausgaben sind dem Bundestag und dem
 Bundesrat vierteljährlich, in Fällen von grundsätzlicher oder
-erheblicher finanzieller Bedeutung unverzüglich mitzuteilen.
+erheblicher finanzieller Bedeutung unverzüglich mitzuteilen. Über- und
+außerplanmäßige Ausgaben über 100 Millionen Euro bedürfen der
+Einwilligung des Haushaltsausschusses des Deutschen Bundestages,
+sofern keine Rechtsverpflichtungen zu erfüllen sind. Die Einwilligung
+nach Satz 2 ist nicht erforderlich, sofern aus zwingenden Gründen eine
+unerlässliche Ausnahme geboten ist. In Fällen des Satzes 3 ist der
+Haushaltsausschuss des Deutschen Bundestages nach der Entscheidung
+unverzüglich zu unterrichten.
 
 (5) Ausgaben, die ohne nähere Angabe des Verwendungszwecks
 veranschlagt sind, dürfen nicht überschritten werden.
@@ -1164,11 +1172,18 @@ Verwaltungsvorschriften, welche die Regelung des Verwendungsnachweises
 und die Prüfung durch den Bundesrechnungshof (§ 91) betreffen, werden
 im Einvernehmen mit dem Bundesrechnungshof erlassen.
 
-(2) Sollen Bundesmittel oder Vermögensgegenstände des Bundes von
+(2) Zuwendungen an Kommunen (Gemeinden und Landkreise) sollen bis zur
+Höhe von 6 Millionen Euro grundsätzlich als Festbetragsförderung
+gewährt werden. Der Verwendungsnachweis erfolgt grundsätzlich im
+vereinfachten Verfahren. Das Nähere regelt eine Rechtsverordnung, die
+der Zustimmung des Haushaltsausschusses des Deutschen Bundestages
+bedarf.
+
+(3) Sollen Bundesmittel oder Vermögensgegenstände des Bundes von
 Stellen außerhalb der Bundesverwaltung verwaltet werden, ist Absatz 1
 entsprechend anzuwenden.
 
-(3) Juristischen Personen des privaten Rechts kann mit ihrem
+(4) Juristischen Personen des privaten Rechts kann mit ihrem
 Einverständnis die Befugnis verliehen werden, Verwaltungsaufgaben auf
 dem Gebiet der Zuwendungen im eigenen Namen und in den Handlungsformen
 des öffentlichen Rechts wahrzunehmen, wenn sie die Gewähr für eine

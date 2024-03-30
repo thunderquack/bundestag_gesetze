@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4a G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 8z4 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Bestimmung
 
@@ -1269,6 +1272,16 @@ halten:
 
 
 
+Abweichend von Satz 1 hat der Apothekenleiter Arzneimittel, die in
+einer Bekanntmachung nach § 130a Absatz 8b Satz 3 des Fünften Buches
+Sozialgesetzbuch als Arzneimittel mit drohender oder bestehender
+versorgungsrelevanter Marktkonzentration eingestuft wurden und aus
+denen in seiner Apotheke anwendungsfertige Zytostatikazubereitungen
+hergestellt werden, in einer Menge vorrätig zu halten, die mindestens
+dem durchschnittlichen Bedarf für vier Wochen entspricht. Die
+Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit der
+Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf Monate
+vergangen sind.
 
 (2) Der Apothekenleiter muss sicherstellen, dass die Arzneimittel mit
 folgenden Wirkstoffen entweder in der Apotheke vorrätig gehalten
@@ -1316,10 +1329,21 @@ dem Versorgungsvertrag vorgesehen, Medizinprodukte in einer Art und
 Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf
 für zwei Wochen entspricht. Abweichend von Satz 1 muss der Leiter
 einer krankenhausversorgenden Apotheke parenteral anzuwendende
-Arzneimittel zur intensivmedizinischen Versorgung in einer Art und
-Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf
-der intensivmedizinischen Abteilungen des jeweils versorgten
-Krankenhauses für vier Wochen entspricht. Diese Arzneimittel und
+Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in
+einer Art und Menge vorrätig halten, die mindestens dem
+durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des
+jeweils versorgten Krankenhauses für sechs Wochen entspricht.
+Abweichend von Satz 1 muss der Leiter einer krankenhausversorgenden
+Apotheke Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz
+8b Satz 3 des Fünften Buches Sozialgesetzbuch als Arzneimittel mit
+drohender oder bestehender versorgungsrelevanter Marktkonzentration
+eingestuft wurden und aus denen in seiner Apotheke anwendungsfertige
+Zytostatikazubereitungen hergestellt werden, in einer Art und Menge
+vorrätig halten, die mindestens dem durchschnittlichen Bedarf für vier
+Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem
+Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des
+jeweiligen Arzneimittels fünf Monate vergangen sind. Die in der
+krankenhausversorgenden Apotheke vorrätig gehaltenen Arzneimittel und
 Medizinprodukte sind aufzulisten.
 
 
@@ -1559,6 +1583,19 @@ verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
 
 
 
+
+(5c) Abweichend von Absatz 5 Satz 1 und 2 und den Absätzen 5a und 5b
+darf der Apotheker bei einem verordneten Arzneimittel, das nicht
+verfügbar im Sinne des § 129 Absatz 2a Satz 2 und 3 in Verbindung mit
+Absatz 2b Satz 4 des Fünften Buches Sozialgesetzbuch ist und das auf
+der nach § 129 Absatz 2b Satz 1 des Fünften Buches Sozialgesetzbuch
+erstellten Liste geführt wird, das verordnete Arzneimittel gegen ein
+wirkstoffgleiches in der Apotheke hergestelltes Arzneimittel, auch in
+einer anderen Darreichungsform, oder gegen ein wirkstoffgleiches
+Fertigarzneimittel in einer anderen Darreichungsform ohne Rücksprache
+mit dem verordnenden Arzt austauschen, sofern der verordnende Arzt
+dies nicht ausgeschlossen hat und die Person, für die das Arzneimittel
+bestimmt ist, einverstanden ist.
 
 (6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und,
 falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der
@@ -2249,11 +2286,21 @@ des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen
 Medizinprodukte müssen in ausreichender Menge vorrätig gehalten
 werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen
 entsprechen muß. Abweichend von Satz 1 müssen parenteral anzuwendende
-Arzneimittel zur intensivmedizinischen Versorgung in ausreichender
-Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen
-Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten
-Krankenhauses für vier Wochen entsprechen muss. Diese Arzneimittel und
-apothekenpflichtigen Medizinprodukte sind aufzulisten.
+Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in
+ausreichender Menge vorrätig gehalten werden, die mindestens dem
+durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des
+jeweils versorgten Krankenhauses für sechs Wochen entsprechen muss.
+Abweichend von Satz 1 müssen Arzneimittel, die in einer Bekanntmachung
+nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als
+Arzneimittel mit drohender oder bestehender versorgungsrelevanter
+Marktkonzentration eingestuft wurden und aus denen in der
+Krankenhausapotheke anwendungsfertige Zytostatikazubereitungen
+hergestellt werden, in einer Menge vorrätig gehalten werden, die
+mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht.
+Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit
+der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf
+Monate vergangen sind. Die in der Krankenhausapotheke vorrätig
+gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
 
 
 ### § 31 Abgabe in der Krankenhausapotheke

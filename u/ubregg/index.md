@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 2506
 
 Zuletzt geändert durch
-:   Art. 12 G v. 8.10.2023 I Nr. 272
+:   Art. 1 G v. 22.12.2023 I Nr. 404
 
 
 ## § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
@@ -84,13 +84,16 @@ als Unternehmen geführt:
 2.  Genossenschaften im Sinne des Genossenschaftsgesetzes,
 
 
-3.  Partnerschaften im Sinne des Partnerschaftsgesellschaftsgesetzes,
+3.  eingetragene Gesellschaften bürgerlichen Rechts,
 
 
-4.  Vereine im Sinne des Bürgerlichen Gesetzbuchs,
+4.  Partnerschaften im Sinne des Partnerschaftsgesellschaftsgesetzes,
 
 
-5.  wirtschaftlich Tätige im Sinne der Abgabenordnung:
+5.  Vereine im Sinne des Bürgerlichen Gesetzbuchs,
+
+
+6.  wirtschaftlich Tätige im Sinne der Abgabenordnung:
 
     a)  natürliche Personen, die wirtschaftlich tätig sind,
 
@@ -104,7 +107,7 @@ als Unternehmen geführt:
 
 
 
-6.  weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
+7.  weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
 
 
 
@@ -118,7 +121,8 @@ vorhanden, folgende Stammdaten gespeichert:
 
 1.  für den Rechtsverkehr verbindliche Angabe der Firma oder des Namens
     entsprechend der Eintragung im Handelsregister,
-    Partnerschaftsregister, Genossenschaftsregister oder Vereinsregister,
+    Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister
+    oder Vereinsregister,
 
 
 2.  für Verwaltungszwecke aktuelle Angabe der Firma oder des Namens
@@ -133,10 +137,11 @@ vorhanden, folgende Stammdaten gespeichert:
 4.  Sitz (Ort),
 
 
-5.  inländische Geschäftsanschrift entsprechend der Eintragung im
-    Handelsregister, Partnerschaftsregister, Genossenschaftsregister oder
-    Vereinsregister unter Angabe von Straße, Hausnummer, Postleitzahl, Ort
-    und Länderkennzeichen, soweit die Pflicht zur Eintragung besteht,
+5.  Geschäftsanschrift entsprechend der Eintragung im Handelsregister,
+    Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister
+    oder Vereinsregister unter Angabe von Straße, Hausnummer,
+    Postleitzahl, Ort und Länderkennzeichen, soweit die Pflicht zur
+    Eintragung besteht,
 
 
 6.  Rechtsform und
@@ -161,28 +166,32 @@ folgende Identifikationsnummern gespeichert:
     und Gerichtskennzeichen des zuständigen Registergerichts,
 
 
-4.  Eintragungsnummer des Partnerschaftsregisters, einschließlich Orts-
+4.  Eintragungsnummer des Gesellschaftsregisters, einschließlich Orts- und
+    Gerichtskennzeichen des zuständigen Registergerichts,
+
+
+5.  Eintragungsnummer des Partnerschaftsregisters, einschließlich Orts-
     und Gerichtskennzeichen des zuständigen Registergerichts,
 
 
-5.  Vereinsregisternummer, einschließlich Orts- und Gerichtskennzeichen
+6.  Vereinsregisternummer, einschließlich Orts- und Gerichtskennzeichen
     des zuständigen Registergerichts,
 
 
-6.  Unternehmernummer, einschließlich Anhang gemäß § 136a des Siebten
+7.  Unternehmernummer, einschließlich Anhang gemäß § 136a des Siebten
     Buches Sozialgesetzbuch,
 
 
-7.  Betriebsnummern gemäß § 18i des Vierten Buches Sozialgesetzbuch als
+8.  Betriebsnummern gemäß § 18i des Vierten Buches Sozialgesetzbuch als
     Liste aller Betriebsnummern, die einem Unternehmen zugeordnet sind,
 
 
-8.  Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung,
+9.  Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung,
     einschließlich des Unterscheidungsmerkmals gemäß § 139c Absatz 5a der
     Abgabenordnung und
 
 
-9.  die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der
+10. die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der
     Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016
     zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen
     Parlaments und des Rates durch technische Regulierungsstandards für
@@ -228,11 +237,11 @@ der Registerbehörde von folgenden öffentlichen Stellen folgende Daten
 übermittelt:
 
 1.  von den Landesjustizverwaltungen Indexdaten zu Eintragungen im
-    Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister zu den
-    Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3, soweit die Daten
-    in dem elektronischen Informations- und Kommunikationssystem nach § 9
-    Absatz 1 des Handelsgesetzbuchs oder § 79 Absatz 2 Satz 2 des
-    Bürgerlichen Gesetzbuchs gespeichert sind,
+    Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und
+    Vereinsregister zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1
+    bis 3, soweit die Daten in dem elektronischen Informations- und
+    Kommunikationssystem nach § 9 Absatz 1 des Handelsgesetzbuchs oder
+    § 79 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs gespeichert sind,
 
 
 2.  von der Deutschen Gesetzlichen Unfallversicherung e. V. Daten zu den
@@ -268,12 +277,13 @@ folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
 übermitteln:
 
 1.  an die Registergerichte zur Pflege der Daten des Handels-,
-    Genossenschafts-, Partnerschafts- und Vereinsregisters,
+    Genossenschafts-, Gesellschafts-, Partnerschafts- und
+    Vereinsregisters,
 
 
 2.  an die Landesjustizverwaltungen zur Verknüpfung mit den Indexdaten zu
-    Eintragungen im Handels-, Genossenschafts-, Partnerschafts- und
-    Vereinsregister,
+    Eintragungen im Handels-, Genossenschafts-, Gesellschafts-,
+    Partnerschafts- und Vereinsregister,
 
 
 3.  an die das Unternehmensregister im Sinne des § 8b des
@@ -498,11 +508,18 @@ mit Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 4.  die Festlegung technischer und organisatorischer Standards für den
-    Betrieb des Basisregisters und
+    Betrieb des Basisregisters,
 
 
 5.  die Festlegung technischer und organisatorischer Standards der
-    Datenübermittlungen nach den §§ 4 und 5.
+    Datenübermittlungen nach den §§ 4 und 5 und
+
+
+6.  die Bestimmung einzelner anderer öffentlicher Stellen und jeweils
+    dazugehöriger Datenbestände, die sowohl Daten an die Registerbehörde
+    zum Aufbau und zur Pflege des Basisregisters übermitteln sollen als
+    auch Daten von der Registerbehörde zur Erfüllung ihrer gesetzlichen
+    Aufgaben übermittelt bekommen.
 
 
 
@@ -520,7 +537,7 @@ Maßnahmen für die Erreichung der in § 1 Absatz 2 und § 2 Absatz 2
 genannten Zwecke. Der Bericht wird zudem dem Bundesrat übermittelt.
 Dieser Bericht soll insbesondere Erkenntnisse darstellen, ob
 
-1.  die Identifikationsnummern nach § 3 Absatz 3 Nummer 6 bis 9 in den
+1.  die Identifikationsnummern nach § 3 Absatz 3 Nummer 7 bis 10 in den
     Registern und Datenbeständen öffentlicher Stellen durch die
     bundeseinheitliche Wirtschaftsnummer nach § 2 abgelöst werden können
     und

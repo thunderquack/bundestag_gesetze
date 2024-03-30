@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.6.1993 I 845; 1995 I 248
 
 Zuletzt geändert durch
-:   Art. 211 V v. 19.6.2020 I 1328
+:   Art. 34 Abs. 17 G v. 22.12.2023 I Nr. 411
 
 
 ## Präambel
@@ -4029,9 +4029,9 @@ nach Satz 1 umfaßt auch die Angehörigen, für die nach § 269 Abs. 2
 Zuschläge gewährt werden, im Falle des § 274 den nicht dauernd
 getrennt lebenden Ehegatten. Die Krankenversorgung entfällt, solange
 Krankenhilfe nach den Vorschriften der Sozialversicherung oder anderen
-gesetzlichen Vorschriften gewährt wird oder wenn nach dem
-Bundesversorgungsgesetz mit Ausnahme der Vorschriften über die
-Kriegsopferfürsorge ein Anspruch auf entsprechende Leistungen besteht;
+gesetzlichen Vorschriften gewährt wird oder wenn nach dem Fünften
+Kapitel oder nach § 143 oder nach § 151 des Vierzehnten Buches
+Sozialgesetzbuch ein Anspruch auf entsprechende Leistungen besteht;
 ist in den genannten Vorschriften bestimmt, daß Leistungen nach
 anderen Gesetzen vorgehen, so gilt dies nicht im Verhältnis zur
 Krankenversorgung nach diesem Gesetz. Hat der Empfänger von
@@ -5258,20 +5258,28 @@ Förderung einer landwirtschaftlichen Nebenerwerbsstelle gewährt worden
 sind.
 
 
-##### § 292 Verhältnis zur Sozialhilfe, zur Kriegsopferfürsorge sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts
+##### § 292 Verhältnis zur Sozialhilfe, zur Sozialen Entschädigung sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts
 
 (1) Für Berechtigte, bei denen trotz Bezugs von Kriegsschadenrente die
 Voraussetzungen für die Gewährung von Leistungen zur Sicherung des
-Lebensunterhalts, von Sozialhilfe oder von Kriegsopferfürsorge
-vorliegen, gelten ergänzend die Vorschriften des Zweiten Buches
-Sozialgesetzbuch, des Zwölften Buches Sozialgesetzbuch oder die
-Vorschriften des Bundesversorgungsgesetzes über die
-Kriegsopferfürsorge.
+Lebensunterhalts, von Sozialhilfe, von ergänzender Hilfe zum
+Lebensunterhalt nach § 145 Absatz 1 und 2 Nummer 4 des Vierzehnten
+Buches Sozialgesetzbuch in Verbindung mit § 27a des
+Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+Fassung oder von Besonderen Leistungen im Einzelfall nach den
+Vorschriften des Elften Kapitels des Vierzehnten Buches
+Sozialgesetzbuch vorliegen, gelten ergänzend die Vorschriften des
+Zweiten Buches Sozialgesetzbuch, des Zwölften Buches Sozialgesetzbuch
+und des Vierzehnten Buches Sozialgesetzbuch.
 
 (2) Als Teil eines Vermögens, von dessen Verbrauch oder Verwertung die
 Gewährung von Leistungen zur Sicherung des Lebensunterhalts, von
-Sozialhilfe oder von Kriegsopferfürsorge nicht abhängig gemacht werden
-darf, gilt
+Sozialhilfe von fürsorgerischen Leistungen nach § 145 Absatz 1 und 2
+des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit dem
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
+oder von Besonderen Leistungen im Einzelfall nach den Vorschriften des
+Elften Kapitels des Vierzehnten Buches Sozialgesetzbuch nicht abhängig
+gemacht werden darf, gilt
 
 1.  die nach § 274 gewährte Unterhaltshilfe, höchstens jedoch monatlich
     297 Deutsche Mark <angepasst auf 180 Euro> \*),
@@ -5289,33 +5297,37 @@ darf, gilt
 (3) Auf Nachzahlungen an Unterhaltshilfe für zurückliegende Monate
 wird für den gleichen Zeitraum nach dem Dritten Kapitel des Zwölften
 Buches Sozialgesetzbuch, nach dem Zweiten Abschnitt des Dritten
-Kapitels des Zweiten Buches Sozialgesetzbuch oder nach den
-Vorschriften über die Kriegsopferfürsorge gewährte Leistungen zur
-Sicherung des Lebensunterhalts oder Hilfe zum Lebensunterhalt
-angerechnet; dies gilt nicht für einmalige Leistungen außerhalb von
-Anstalten, Heimen oder gleichartigen Einrichtungen. Bei
+Kapitels des Zweiten Buches Sozialgesetzbuch nach dem Elften Kapitel
+des Vierzehnten Buches Sozialgesetzbuch oder nach § 145 Absatz 1 und 2
+des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit dem
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
+gewährte Leistungen zur Sicherung des Lebensunterhalts oder Hilfe zum
+Lebensunterhalt angerechnet; dies gilt nicht für einmalige Leistungen
+außerhalb von Anstalten, Heimen oder gleichartigen Einrichtungen. Bei
 Unterhaltshilfe nach § 274 ist die Anrechnung auf den 297 Deutsche
 Mark <angepasst auf 180 Euro> \*) monatlich übersteigenden Betrag
 beschränkt. Der Anspruch auf Nachzahlung geht in Höhe der
 angerechneten Beträge auf den Träger der Sozialhilfe, der jeweils nach
 dem Zweiten Buch Sozialgesetzbuch zuständige Träger, die Bundesagentur
-für Arbeit oder den Träger der Kriegsopferfürsorge über.
-Entsprechendes gilt für den nicht unter Absatz 2 Nr. 2 oder 3
-fallenden Teil der Entschädigungsrente.
+für Arbeit oder den Träger der Sozialen Entschädigung nach dem
+Vierzehnten Buch Sozialgesetzbuch über. Entsprechendes gilt für den
+nicht unter Absatz 2 Nr. 2 oder 3 fallenden Teil der
+Entschädigungsrente.
 
 (4) Wird für den Berechtigten oder seine nach § 269 Abs. 2
 zuschlagsberechtigten Angehörigen, im Falle des § 274 für den nicht
 dauernd von ihm getrennt lebenden Ehegatten, Hilfe zum Lebensunterhalt
 nach dem Dritten Kapitel des Zwölften Buches Sozialgesetzbuch,
 Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten
-Abschnitt des Dritten Kapitels des Zweiten Buches Sozialgesetzbuch
-oder ergänzende Hilfe zum Lebensunterhalt nach den Vorschriften über
-die Kriegsopferfürsorge in einer Anstalt, einem Heim oder einer
-gleichartigen Einrichtung gewährt, kann der jeweils nach dem Zweiten
-Buch Sozialgesetzbuch zuständige Träger, der Träger der Sozialhilfe
-oder der Träger der Kriegsopferfürsorge zum Ersatz seiner Aufwendungen
-laufende Zahlungen an Kriegsschadenrente wie folgt auf sich
-überleiten:
+Abschnitt des Dritten Kapitels des Zweiten Buches Sozialgesetzbuch,
+ergänzende Hilfe zum Lebensunterhalt nach § 145 Absatz 1 und 2 Nummer
+4 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27a des
+Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+Fassung oder Leistungen zum Lebensunterhalt nach den Vorschriften des
+Vierzehnten Buches Sozialgesetzbuch in einer Anstalt, einem Heim oder
+einer gleichartigen Einrichtung gewährt, kann der jeweils zuständige
+Träger zum Ersatz seiner Aufwendungen laufende Zahlungen an
+Kriegsschadenrente wie folgt auf sich überleiten:
 
 1.  Wird Unterhaltshilfe gewährt, kann der Anspruch bis zur vollen Höhe
     des für die untergebrachte Person oder die untergebrachten Ehegatten
@@ -5351,8 +5363,8 @@ Buches Sozialgesetzbuch gelten die Absätze 3 und 4 entsprechend,
 soweit nach § 19 in Verbindung mit dem Elften Kapitel des Zwölften
 Buches Sozialgesetzbuch der nachfragenden Person, ihrem Ehegatten und
 ihren Eltern der Einsatz des Einkommens zuzumuten ist. Entsprechendes
-gilt für Leistungen nach den §§ 26, 27, 27a Abs. 2 und § 27b des
-Bundesversorgungsgesetzes.
+gilt für die Besonderen Leistungen im Einzelfall nach den Vorschriften
+des Elften Kapitels des Vierzehnten Buches Sozialgesetzbuch.
 
 (6) Das Arbeitslosengeld ist Einkommen im Sinne des § 267 Abs. 2 und
 Rentenleistung im Sinne dieses Abschnitts.
@@ -6896,8 +6908,8 @@ Wiederherstellung der vollen Verfügungsrechte über solche
 Vermögenswerte gilt der festgestellte Schaden insoweit stets in voller
 Höhe als ausgeglichen; Wertminderungen sowie das Fehlen von Zubehör
 oder Inventar werden nicht berücksichtigt. Werden Schäden einer
-juristischen Person oder einer Personengesellschaft des Handelsrechts
-ganz oder teilweise durch Rückgabe von Wirtschaftsgütern oder
+juristischen Person oder einer rechtsfähigen Personengesellschaft ganz
+oder teilweise durch Rückgabe von Wirtschaftsgütern oder
 Entschädigungszahlungen ausgeglichen, ist der Schadensausgleich dem
 einzelnen Beteiligten entsprechend seinem Beteiligungsverhältnis
 zuzurechnen. Bei Schadensausgleichsleistungen nach dem Vermögensgesetz

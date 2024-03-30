@@ -148,16 +148,16 @@ Hinterbliebenenrente zu berücksichtigen ist.
 ## § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung
-wird auf monatlich 288 Euro festgesetzt. Dieser Wert setzt sich
+wird auf monatlich 313 Euro festgesetzt. Dieser Wert setzt sich
 zusammen aus dem Wert für
 
-1.  Frühstück von 60 Euro,
+1.  Frühstück von 65 Euro,
 
 
-2.  Mittagessen von 114 Euro und
+2.  Mittagessen von 124 Euro und
 
 
-3.  Abendessen von 114 Euro.
+3.  Abendessen von 124 Euro.
 
 
 
@@ -189,7 +189,7 @@ beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der
 Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
 (3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft
-wird auf monatlich 265 Euro festgesetzt. Der Wert der Unterkunft nach
+wird auf monatlich 278 Euro festgesetzt. Der Wert der Unterkunft nach
 Satz 1 vermindert sich
 
 1.  bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder
@@ -226,9 +226,9 @@ Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen sowie unter
 entsprechender Anwendung des § 8 Absatz 2 Satz 12 des
 Einkommensteuergesetzes anzusetzen. Ist im Einzelfall die Feststellung
 des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten
-verbunden, kann die Wohnung mit 4,66 Euro je Quadratmeter monatlich,
+verbunden, kann die Wohnung mit 4,89 Euro je Quadratmeter monatlich,
 bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder
-Dusche) mit 3,81 Euro je Quadratmeter monatlich bewertet werden.
+Dusche) mit 4,00 Euro je Quadratmeter monatlich bewertet werden.
 Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese
 Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt
 auch für die vertraglichen Mietpreisbeschränkungen im sozialen

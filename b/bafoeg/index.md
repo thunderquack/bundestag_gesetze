@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.12.2010 I 1952; 2012 I 197;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.12.2022 I 2847
+:   Art. 18 G v. 22.12.2023 I Nr. 408
 
 
 ## § 1 Grundsatz
@@ -1347,6 +1347,33 @@ gemäß § 39 Absatz 2 das Nähere bestimmen über
 
 
 
+(15) Darlehensnehmende werden während der Rückzahlungsfrist des § 18
+Absatz 3 Satz 1 mit Beginn des Monats, in dem die Mitteilung nach § 94
+Absatz 4 Satz 1 des Vierzehnten Buches Sozialgesetzbuch zugeht, von
+der Verpflichtung zur Rückzahlung freigestellt. Rückwirkend erfolgt
+die Freistellung für längstens vier Monate vor Zugang der Mitteilung
+nach Satz 1. Die Freistellung endet
+
+1.  mit der vollständigen Tilgung der Darlehensschuld durch den Träger der
+    Sozialen Entschädigung nach § 94 Absatz 1 des Vierzehnten Buches
+    Sozialgesetzbuch,
+
+
+2.  mit Beginn des Monats, in dem die Mitteilung nach § 94 Absatz 4 Satz 2
+    des Vierzehnten Buches Sozialgesetzbuch über eine vollständige
+    Ablehnung zugeht oder
+
+
+3.  mit Beginn des Monats, in dem neben der Mitteilung nach § 94 Absatz 4
+    Satz 2 des Vierzehnten Buches Sozialgesetzbuch über die teilweise
+    Rückzahlung des Darlehens die Tilgung in dieser Höhe erfolgt ist.
+
+
+4.  § 18a Absatz 4 Satz 1 gilt entsprechend.
+
+
+
+
 
 ### § 18a Einkommensabhängige Rückzahlung
 
@@ -1550,9 +1577,10 @@ Gleichbleibens der Rechtslage – der Zinssatz für
 Bankschuldverschreibungen mit entsprechender Laufzeit, zuzüglich eines
 Aufschlags von eins vom Hundert.
 
-(5) § 18 Absatz 3 Satz 3 und Absatz 11 ist entsprechend anzuwenden.
-Für die Rückzahlung gelten alle nach § 17 Absatz 3 Satz 1 in der am
-31\. Juli 2019 geltenden Fassung geleisteten Darlehen als ein Darlehen.
+(5) § 18 Absatz 3 Satz 3, Absatz 11 und Absatz 15 ist entsprechend
+anzuwenden. Für die Rückzahlung gelten alle nach § 17 Absatz 3 Satz 1
+in der am 31. Juli 2019 geltenden Fassung geleisteten Darlehen als ein
+Darlehen.
 
 (6) Das Bankdarlehen ist einschließlich der Zinsen – vorbehaltlich des
 Gleichbleibens der Rechtslage – in möglichst gleichbleibenden
@@ -1821,26 +1849,30 @@ Beträge
 
 
 
-Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 27
-des Bundesversorgungsgesetzes), gilt als Einkommen des Kindes.
+Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§
+145 Absatz 1 und 2 Nummer 3 des Vierzehnten Buches Sozialgesetzbuch in
+Verbindung mit § 27 des Bundesversorgungsgesetzes in der am 31.
+Dezember 2023 geltenden Fassung), gilt als Einkommen des Kindes.
 
 (4) Nicht als Einkommen gelten
 
-1.  Grundrenten und Schwerstbeschädigtenzulage nach dem
-    Bundesversorgungsgesetz und nach den Gesetzen, die das
-    Bundesversorgungsgesetz für anwendbar erklären,
+1.  Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches
+    Sozialgesetzbuch, die Einmalzahlungen nach § 102 Absatz 4 und 5 des
+    Vierzehnten Buches Sozialgesetzbuch sowie Geldleistungen nach § 144 in
+    Verbindung mit § 149 des Vierzehnten Buches Sozialgesetzbuch,
 
 
-2.  ein der Grundrente und der Schwerstbeschädigtenzulage nach dem
-    Bundesversorgungsgesetz entsprechender Betrag, wenn diese Leistungen
-    nach § 65 des Bundesversorgungsgesetzes ruhen,
+2.  ein der monatlichen Entschädigungszahlung nach Kapitel 9 des
+    Vierzehnten Buches Sozialgesetzbuch entsprechender Betrag, soweit der
+    Anspruch auf Leistung nach § 8 Absatz 3 des Vierzehnten Buches
+    Sozialgesetzbuch ruht,
 
 
 3.  Renten, die den Opfern nationalsozialistischer Verfolgung wegen einer
     durch die Verfolgung erlittenen Gesundheitsschädigung geleistet
-    werden, bis zur Höhe des Betrages, der in der Kriegsopferversorgung
-    bei gleicher Minderung der Erwerbsfähigkeit als Grundrente und
-    Schwerstbeschädigtenzulage geleistet würde,
+    werden, bis zur Höhe des Betrages, der nach Kapitel 9 des Vierzehnten
+    Buches Sozialgesetzbuch bei gleicher Minderung der Erwerbsfähigkeit
+    als monatliche Entschädigungszahlung geleistet würde,
 
 
 4.  Einnahmen, deren Zweckbestimmung einer Anrechnung auf den Bedarf
@@ -3169,10 +3201,11 @@ entsprechend.
 (1) Die Vorschriften über die Leistung individueller Förderung der
 Ausbildung nach
 
-1.  dem Bundesversorgungsgesetz,
+1.  dem Vierzehnten Buch Sozialgesetzbuch,
 
 
-2.  den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
+2.  den Gesetzen, die das Vierzehnten Buch Sozialgesetzbuch für anwendbar
+    erklären,
 
 
 3.  (weggefallen)
@@ -3189,13 +3222,16 @@ Ausbildung nach
 
 werden durch dieses Gesetz nicht berührt.
 
-(2) Die in Absatz 1 bezeichneten Vorschriften haben Vorrang vor diesem
-Gesetz.
+(2) Die in Absatz 1 Nummer 2, 4 und 5 bezeichneten Vorschriften haben
+Vorrang vor diesem Gesetz.
 
 
-### § 66 (weggefallen)
+### § 66 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
--
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 21
+Absatz 3 Satz 2 und Absatz 4 Nummer 1 und 2 und § 65 Absatz 1 Nummer 1
+und 2 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 66a Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
@@ -3285,7 +3321,6 @@ Gesetzes gewährt.
 
 ### § 67 (weggefallen)
 
--
 
 
 ### § 68 Inkrafttreten

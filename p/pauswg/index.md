@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 2 G v. 5.7.2021 I 2281
+:   Art. 2 G v. 8.10.2023 I Nr. 271
 
 Änderung durch
-:   Art. 2 G v. 8.10.2023 I Nr. 271 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 2 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

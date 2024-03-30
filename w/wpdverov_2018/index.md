@@ -230,15 +230,15 @@ Wertpapierhandelsgesetzes als professionellen Kunden einzustufen, gilt
 Satz 1 entsprechend mit der Maßgabe, dass der Kunde sein
 Einverständnis zumindest in Textform erklären muss.
 
-(3) Bei Personengesellschaften und Kapitalgesellschaften, die die
-Kriterien des § 67 Absatz 2 Satz 2 Nummer 2 des
-Wertpapierhandelsgesetzes nicht erfüllen, ist es für die Änderung der
-Einstufung nach § 67 Absatz 6 Satz 3 des Wertpapierhandelsgesetzes
-ausreichend, wenn die in § 67 Absatz 6 Satz 3 Nummer 1 oder 3 des
-Wertpapierhandelsgesetzes genannten Kriterien durch eine von der
-Gesellschaft benannte Person erfüllt werden, die dazu befugt ist, die
-von der Änderung der Einstufung umfassten Geschäfte im Namen der
-Gesellschaft zu tätigen.
+(3) Bei rechtsfähigen Personengesellschaften und
+Kapitalgesellschaften, die die Kriterien des § 67 Absatz 2 Satz 2
+Nummer 2 des Wertpapierhandelsgesetzes nicht erfüllen, ist es für die
+Änderung der Einstufung nach § 67 Absatz 6 Satz 3 des
+Wertpapierhandelsgesetzes ausreichend, wenn die in § 67 Absatz 6 Satz
+3 Nummer 1 oder 3 des Wertpapierhandelsgesetzes genannten Kriterien
+durch eine von der Gesellschaft benannte Person erfüllt werden, die
+dazu befugt ist, die von der Änderung der Einstufung umfassten
+Geschäfte im Namen der Gesellschaft zu tätigen.
 
 (4) Eine vor dem 1. November 2007 entsprechend dem Bewertungsverfahren
 nach Teil C der Richtlinie gemäß § 35 Absatz 6 des Gesetzes über den

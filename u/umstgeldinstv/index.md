@@ -245,16 +245,16 @@ dem Ansatz für die Anteilsrechte ein entsprechender Zuschlag zu
 machen.
 
 
-### § 7 Anteile an Personengesellschaften
+### § 7 Anteile an rechtsfähigen Personengesellschaften
 
-(1) Ist ein Geldinstitut an einer Personengesellschaft in der Weise
-beteiligt, daß es im Sinne des Vermögensteuerrechts als Mitunternehmer
-anzusehen ist, so ist seine Beteiligung mit dem Betrage anzusetzen,
-den das Finanzamt als Vermögensteuerwert feststellt.
+(1) Ist ein Geldinstitut an einer rechtsfähigen Personengesellschaft
+in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts als
+Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem Betrage
+anzusetzen, den das Finanzamt als Vermögensteuerwert feststellt.
 
-(2) Ist ein Geldinstitut an einer Personengesellschaft in der Weise
-beteiligt, daß es im Sinne des Vermögensteuerrechts nicht als
-Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem
+(2) Ist ein Geldinstitut an einer rechtsfähigen Personengesellschaft
+in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts nicht
+als Mitunternehmer anzusehen ist, so ist seine Beteiligung mit dem
 Nennbetrage in Deutscher Mark anzusetzen, es sei denn, daß besondere
 Umstände einen höheren oder geringeren Wert begründen.
 

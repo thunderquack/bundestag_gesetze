@@ -444,11 +444,11 @@ Verwaltungsvollstreckungsgesetzes zu verhindern.
 Erlaubnis unaufgefordert die Verlegung, Schließung und Errichtung von
 Betrieben, Betriebsteilen oder Nebenbetrieben vorher anzuzeigen,
 soweit diese die Ausübung der Arbeitnehmerüberlassung zum Gegenstand
-haben. Wenn die Erlaubnis Personengesamtheiten, Personengesellschaften
-oder juristischen Personen erteilt ist und nach ihrer Erteilung eine
-andere Person zur Geschäftsführung oder Vertretung nach Gesetz,
-Satzung oder Gesellschaftsvertrag berufen wird, ist auch dies
-unaufgefordert anzuzeigen.
+haben. Wenn die Erlaubnis Personengesamtheiten, rechtsfähigen
+Personengesellschaften oder juristischen Personen erteilt ist und nach
+ihrer Erteilung eine andere Person zur Geschäftsführung oder
+Vertretung nach Gesetz, Satzung oder Gesellschaftsvertrag berufen
+wird, ist auch dies unaufgefordert anzuzeigen.
 
 (2) Der Verleiher hat der Erlaubnisbehörde auf Verlangen die Auskünfte
 zu erteilen, die zur Durchführung des Gesetzes erforderlich sind. Die

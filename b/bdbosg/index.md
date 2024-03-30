@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2039
 
 Zuletzt geändert durch
-:   Art. 3 G v. 28.6.2021 I 2250t
-
-Änderung durch
-:   Art. 9 G v. 19.12.2022 I 2632 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 19.12.2022 I 2632
 
 
 

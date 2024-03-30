@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1158
 
 Zuletzt geändert durch
-:   Art. 19a G v. 20.8.2021 I 3932
+:   Art. 20 G v. 22.12.2023 I Nr. 414
 
 Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
@@ -153,10 +153,10 @@ Tabelle in der Anlage.
 
 Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des
 Bundesbesoldungsgesetzes erhöhen oder verringern sich der
-Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung um
-denselben Prozentsatz, um den das Grundgehalt, der Familienzuschlag
-und der Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit
-oder einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert
+Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung im
+gleichen Umfang, um den das Grundgehalt, der Familienzuschlag und der
+Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder
+einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert
 werden. Das Bundesministerium der Verteidigung macht die jeweils
 geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
@@ -178,23 +178,30 @@ Soldatengesetzes) unberücksichtigt.
 
 (4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
 
-1.  entlassen werden
+1.  entlassen werden nach
 
-    a)  nach § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1
-        des Soldatengesetzes,
-
-
-    b)  nach § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1
-        des Soldatengesetzes,
+    a)  § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
 
 
-    c)  nach § 75 Absatz 1 Satz 2 Nummer 10 in Verbindung mit § 58h Absatz 1
-        des Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich
+    b)  § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    c)  § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    d)  § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    e)  § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich
         herbeigeführt haben, oder
 
 
-    d)  nach § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit §
-        58h Absatz 1 des Soldatengesetzes,
+    f)  § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h
+        Absatz 1 des Soldatengesetzes,
 
 
 
@@ -205,8 +212,8 @@ Soldatengesetzes) unberücksichtigt.
 
 
 3.  innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes
-    in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit
-    berufen werden (§ 40 des Soldatengesetzes).
+    nach § 40 des Soldatengesetzes in ein Dienstverhältnis als Soldatin
+    auf Zeit oder Soldat auf Zeit berufen werden.
 
 
 
@@ -343,59 +350,65 @@ entsprechend.
 ## Abschnitt 4 - Übergangsregelungen
 
 
-### § 18 Übergangsregelung
-
-Soldatinnen und Soldaten, deren Wehrdienst vor dem 1. Januar 2020
-begonnen hat, erhalten eine Ausgleichszahlung, wenn sich die ihnen
-zustehenden Leistungen aus Anlass der Neufassung des Wehrsoldgesetzes
-ab dem 1. Januar 2020 verringern. Der Ausgleichsbetrag berechnet sich
-aus der Differenz zwischen der Summe der Beträge aus:
-
-1.  dem Wehrsold nach § 2 Absatz 1 und § 8c des Wehrsoldgesetzes in der
-    bis zum 31. Dezember 2019 geltenden Fassung,
-
-
-2.  einer Leistung nach § 13 des Unterhaltssicherungsgesetzes in der bis
-    zum 31. Dezember 2019 geltenden Fassung,
-
-
-3.  einer Leistung nach den §§ 17 und 22 des Unterhaltssicherungsgesetzes
-    in der bis zum 31. Dezember 2019 geltenden Fassung,
-
-
-4.  einer Leistung nach § 13 des Unterhaltssicherungsgesetzes und einer
-    Leistung nach den §§ 17 und 22 des Unterhaltssicherungsgesetzes in der
-    jeweils bis zum 31. Dezember 2019 geltenden Fassung
+### § 18 (weggefallen)
 
 
 
-und dem Wehrsold nach § 4 in der seit dem 1. Januar 2020 geltenden
-Fassung. Der Anspruch auf die Ausgleichszulage endet, wenn die
-Voraussetzungen für die aufgeführten Leistungen nach der jeweils
-genannten Vorschrift entfallen und der Gesamtbetrag dieser Leistungen
-den Betrag des Wehrsoldes nach § 4 nicht mehr übersteigt.
+### § 19 Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
+
+(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
+werden die folgenden Sonderzahlungen unter den Voraussetzungen der
+Absätze 2 und 3 gewährt:
+
+1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
+    Euro sowie
 
 
-### § 19 Sonderzahlung für das Jahr 2020
-
-Zur Abmilderung der zusätzlichen Belastung durch die COVID-19-Pandemie
-im Jahr 2020 wird eine einmalige Sonderzahlung in Höhe von 600 Euro
-gewährt, wenn
-
-1.  das Wehrdienstverhältnis am 1. Oktober 2020 bestanden hat und
-
-
-2.  mindestens an einem Tag zwischen dem 1. März 2020 und dem 31. Oktober
-    2020 ein Anspruch auf Wehrsold bestanden hat.
+2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
+    Sonderzahlung in Höhe von jeweils 220 Euro.
 
 
 
-§ 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend. Maßgebend
-sind jeweils die Verhältnisse am 1. Oktober 2020. Die Zahlung wird
-jedem Berechtigten nur einmal gewährt; ihr steht eine entsprechende
-Leistung aus einem anderen Rechtsverhältnis im öffentlichen Dienst des
-Bundes gleich. Die Zahlung bleibt bei sonstigen Bezügen
-unberücksichtigt.
+
+(2) Die Sonderzahlung für den Monat Juni 2023 wird nur gewährt, wenn
+
+1.  das Wehrdienstverhältnis am 1. Mai 2023 bestanden hat und
+
+
+2.  mindestens an einem Tag im Zeitraum vom 1. Januar 2023 bis 31. Mai
+    2023 ein Anspruch auf Wehrsold bestanden hat.
+
+
+
+
+(3) Die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024
+werden nur gewährt, wenn
+
+1.  das Wehrdienstverhältnis in dem jeweiligen Monat besteht und
+
+
+2.  mindestens an einem Tag in dem jeweiligen Monat ein Anspruch auf
+    Wehrsold besteht.
+
+
+
+
+(4) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
+Maßgebend sind jeweils
+
+1.  für die einmalige Sonderzahlung für den Monat Juni 2023 die
+    Verhältnisse am 1. Mai 2023,
+
+
+2.  für die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 die
+    jeweiligen Verhältnisse am ersten Tag des jeweiligen Monats.
+
+
+
+
+(5) Den Sonderzahlungen nach Absatz 1 stehen entsprechende Leistungen
+aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes
+gleich und werden jedem Berechtigten nur einmal gewährt.
 
 (zu den §§ 4 und 6)
 

@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen
+Title: Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und
+  Partnerschaftsregistersachen
 jurabk: HRegGebV
 layout: default
 origslug: hreggebv
@@ -7,7 +8,7 @@ slug: hreggebv
 
 ---
 
-# Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen (HRegGebV)
+# Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen (HRegGebV)
 
 Ausfertigungsdatum
 :   2004-09-30
@@ -15,15 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2562
 
-Stand: Zukünftige amtl. Langüberschrift: Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen (ab 1.1.2024; 2021 I 3436)
 Zuletzt geändert durch
 :   Art. 5 G v. 22.2.2023 I Nr. 51
-
-[^bjnr256200004_01_BJNR256200004]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 46 Nr. 1 G v.
-    10\.8.2021 I 3436 mWv 1.1.2024 wie folgt gefasst:  **Verordnung über
-    Gebühren in Handels-, Genossenschafts-, Gesellschafts- und
-    Partnerschaftsregistersachen (Handelsregistergebührenverordnung -
-    HRegGebV)**
 
 
 ## Eingangsformel
@@ -35,17 +29,17 @@ verordnet das Bundesministerium der Justiz:
 
 ## § 1 Gebührenverzeichnis
 
-Für Eintragungen in das Handels-, Partnerschafts- oder
-Genossenschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung
-der zum Handels- oder Genossenschaftsregister einzureichenden
-Unterlagen, die Bereitstellung von Registerdaten und von Dokumenten,
-die zum Register eingereicht wurden, zum Abruf sowie die Übertragung
-von Schriftstücken in ein elektronisches Dokument nach § 9 Abs. 2 des
-Handelsgesetzbuchs werden Gebühren nach dem Gebührenverzeichnis der
-Anlage zu dieser Verordnung erhoben. Satz 1 gilt nicht für die aus
-Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden
-Eintragungen und für Löschungen nach § 395 des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
+Für Eintragungen in das Handels-, Genossenschafts-, Gesellschafts-
+oder Partnerschaftsregister, die Entgegennahme, Prüfung und
+Aufbewahrung der zum Handels- oder Genossenschaftsregister
+einzureichenden Unterlagen, die Bereitstellung von Registerdaten und
+von Dokumenten, die zum Register eingereicht wurden, zum Abruf sowie
+die Übertragung von Schriftstücken in ein elektronisches Dokument nach
+§ 9 Abs. 2 des Handelsgesetzbuchs werden Gebühren nach dem
+Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Satz 1
+gilt nicht für die aus Anlass eines Insolvenzverfahrens von Amts wegen
+vorzunehmenden Eintragungen und für Löschungen nach § 395 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
 
@@ -174,8 +168,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **Gebührenverzeichnis**
 ## Teil 1
 
-Eintragungen
-## in das Handelsregister Abteilung A und das Partnerschaftsregister
+Eintragungen in
+das Handelsregister
+Abteilung A, das Gesellschafts-
+## register und das Partnerschaftsregister
 
 
 *    *   Nr.

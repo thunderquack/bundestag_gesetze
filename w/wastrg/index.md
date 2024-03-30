@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.5.2007 I 962; 2008, 1980;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 18.8.2021 I 3901
+:   Art. 5 G v. 22.12.2023 I Nr. 409
 
 
 ## Abschnitt 1 - Bundeswasserstraßen
@@ -120,9 +120,9 @@ Dritter bleiben unberührt.
 
 
 
-(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung
-mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte
+(7) Das Bundesministerium für Digitales und Verkehr wird vorbehaltlich
+des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung mit Zustimmung
+des Bundesrates so zu ändern, dass dort aufgeführte
 Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt,
 Bezeichnungen für sie festgesetzt oder geändert werden.
 
@@ -133,10 +133,10 @@ Bezeichnungen für sie festgesetzt oder geändert werden.
 die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer
 Vereinbarung zwischen dem Bund, dem Land und dem bisherigen oder dem
 künftigen Eigentümer. Den Übergang bewirkt ein Bundesgesetz; das
-Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den
-Übergang von Gewässern oder Gewässerstrecken mit nur örtlicher
-Bedeutung durch Rechtsverordnung zu bewirken.
+Bundesministerium für Digitales und Verkehr wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium der Finanzen den Übergang von
+Gewässern oder Gewässerstrecken mit nur örtlicher Bedeutung durch
+Rechtsverordnung zu bewirken.
 
 (2) In Rechtsvorschriften nach Absatz 1 ist die Anlage 1 zu ändern.
 
@@ -179,9 +179,9 @@ und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung
 nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen
 in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des
 Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das
-Bundesministerium für Verkehr und digitale Infrastruktur im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit erlässt, geregelt, eingeschränkt oder untersagt
+Bundesministerium für Digitales und Verkehr im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz erlässt, geregelt, eingeschränkt oder untersagt
 werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
 
 
@@ -387,9 +387,9 @@ Auswirkungen auf den Hochwasserschutz vermieden werden.
 
 ### § 13 Planungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
-bestimmt im Einvernehmen mit der zuständigen Landesbehörde die Planung
-und Linienführung der Bundeswasserstraßen. Bei der Bestimmung der
+(1) Das Bundesministerium für Digitales und Verkehr bestimmt im
+Einvernehmen mit der zuständigen Landesbehörde die Planung und
+Linienführung der Bundeswasserstraßen. Bei der Bestimmung der
 Linienführung sind die von dem Vorhaben berührten öffentlichen Belange
 einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu
 berücksichtigen.
@@ -454,10 +454,7 @@ der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene
 ist zu entschädigen, soweit ein Schaden eingetreten ist, der durch die
 Wiederherstellung des früheren Zustandes nicht ausgeglichen wird.
 Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende
-Wirkung; ein Vorverfahren findet nicht statt. Betrifft die vorläufige
-Anordnung ein Vorhaben im Sinne des § 14e Absatz 1, ist § 14e Absatz 1
-und 5 in Bezug auf Rechtsbehelfe gegen die vorläufige Anordnung
-entsprechend anzuwenden.
+Wirkung; ein Vorverfahren findet nicht statt. § 14e gilt entsprechend.
 
 (3) Soweit das Vorhaben Belange der Landeskultur oder der
 Wasserwirtschaft berührt, bedürfen die Feststellung des Planes, die
@@ -469,21 +466,77 @@ zu entscheiden.
 
 ### § 14a Anhörungsverfahren
 
-Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
-mit folgenden Maßgaben:
+(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten §
+73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des
+Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der
+folgenden Absätze. Das Gleiche gilt für die Behörden- und
+Öffentlichkeitsbeteiligung nach den §§ 58 und 59 sowie den §§ 62 und
+63 des Gesetzes über die Umweltverträglichkeitsprüfung.
 
-1.  Die Anhörungsbehörde kann auf eine Erörterung im Sinne des § 73 Absatz
-    6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
-    Gesetzes über die Umweltverträglichkeitsprüfung verzichten.
+(2) Die Anhörungsbehörde soll
+
+1.  von dem Träger des Vorhabens verlangen, den Plan ausschließlich oder
+    ergänzend in einem verkehrsüblichen und von der Anhörungsbehörde
+    vorgegebenen elektronischen Format einzureichen;
 
 
-2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
-    der Erörterung im Sinne des § 73 Absatz 6 des
-    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
-    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
+2.  den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird,
+    den Plan auch ausschließlich elektronisch zugänglich machen;
+
+
+3.  von den Behörden, deren Aufgabenbereich durch das Vorhaben berührt
+    wird, verlangen, ihre Stellungnahmen nach § 73 Absatz 2 und 3a des
+    Verwaltungsverfahrensgesetzes sowie nach § 17 Absatz 2 des Gesetzes
+    über die Umweltverträglichkeitsprüfung elektronisch zu übermitteln.
 
 
 
+
+(3) Die Anhörungsbehörde soll die Auslegung des Plans und der
+Unterlagen nach § 19 Absatz 2 des Gesetzes über die
+Umweltverträglichkeitsprüfung durch die Veröffentlichung der
+Unterlagen auf ihrer Internetseite bewirken. Auf Verlangen eines
+Beteiligten, das während der Dauer der Beteiligung an die
+Anhörungsbehörde zu richten ist, ist ihm eine leicht zu erreichende
+Zugangsmöglichkeit zur Verfügung zu stellen. Abweichend von § 73
+Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes erfolgt die
+Bekanntmachung durch die Anhörungsbehörde; Satz 1 gilt entsprechend.
+Die Bekanntmachung erfolgt zusätzlich in örtlichen Tageszeitungen, in
+deren Verbreitungsgebiet sich das Vorhaben voraussichtlich auswirken
+wird. Die Anhörungsbehörde hat in der Bekanntmachung darauf
+hinzuweisen, dass und wo der Plan elektronisch veröffentlicht wird und
+dass eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung
+gestellt werden kann.
+
+(4) Einwendungen und Stellungnahmen sind gegenüber der
+Anhörungsbehörde abzugeben. Sie sollen elektronisch übermittelt
+werden. Eine schriftliche Übermittlung ist ebenfalls möglich. Die
+Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen.
+
+(5) Die Anhörungsbehörde kann auf eine Erörterung nach § 73 Absatz 6
+des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des
+Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein
+im Internet veröffentlichter oder ausgelegter Plan geändert werden, so
+soll von der Erörterung im Sinne des § 73 Absatz 6 des
+Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
+
+(6) Die Anhörungsbehörde kann eine Erörterung nach § 73 Absatz 6 des
+Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes
+über die Umweltverträglichkeitsprüfung ganz oder teilweise in
+digitalen Formaten durchführen. In diesem Fall hat sie in der
+Bekanntmachung darauf hinzuweisen, dass und wie die Erörterung in
+einem digitalen Format durchgeführt wird.
+
+(7) Soweit Stellungnahmen, Einwendungen oder sonstige Erklärungen
+elektronisch übermittelt werden können oder der Plan oder sonstige
+Unterlagen in einem elektronischen Format veröffentlicht oder
+zugänglich gemacht werden, haben die Anhörungsbehörde und die
+Planfeststellungsbehörde die technische Ausgestaltung zu bestimmen.
+
+(8) Die Durchführung informeller Beteiligungsformate ist möglich.
+Diese Beteiligungsformate sind von dem Planfeststellungsverfahren
+unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
 
 
 ### § 14b Planfeststellungsbeschluss, Plangenehmigung
@@ -555,9 +608,34 @@ Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem
 Gesetz über die Umweltverträglichkeitsprüfung eine
 Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines
 Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. §
-14a Nummer 1 gilt entsprechend. Im Übrigen findet das Gesetz über die
+14a gilt entsprechend. Im Übrigen findet das Gesetz über die
 Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3
 Anwendung.
+
+(3) Abweichend von § 74 Absatz 4, 5 und 6 Satz 2 dritter Halbsatz des
+Verwaltungsverfahrensgesetzes und § 27 Absatz 1 Satz 1 des Gesetzes
+über die Umweltverträglichkeitsprüfung können die Zustellung,
+Auslegung und Bekanntmachung der Auslegung des
+Planfeststellungsbeschlusses oder der Plangenehmigung dadurch
+erfolgen, dass die Entscheidung mit einer Rechtsbehelfsbelehrung und
+dem festgestellten Plan für zwei Wochen auf der Internetseite der
+Planfeststellungsbehörde veröffentlicht wird. Zusätzlich ist der
+verfügende Teil des Planfeststellungsbeschlusses, die
+Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung auf
+der Internetseite der Planfeststellungsbehörde verbunden mit dem
+Hinweis auf leicht zu erreichende Zugangsmöglichkeiten in den
+örtlichen Tageszeitungen bekanntzumachen, in deren Verbreitungsgebiet
+sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist
+hinzuweisen. Auf Verlangen eines Beteiligten, das bis zum Ablauf der
+Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist, ist
+ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung zu
+stellen. Im Fall des elektronischen Zugänglichmachens gilt mit dem
+Ende der Veröffentlichungsfrist die Entscheidung dem Träger des
+Vorhabens, den Betroffenen und denjenigen gegenüber, die Einwendungen
+erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung
+hinzuweisen. Die Unterlagen nach Satz 1 sollen nach Ablauf der
+Veröffentlichungsfrist bis zum Ende der Rechtsbehelfsfrist zur
+Information im Internet veröffentlicht werden.
 
 
 ### § 14c Rechtswirkungen der Planfeststellung und der Plangenehmigung
@@ -576,9 +654,10 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
 
 
-3.  Für die Zustellung und Auslegung sowie die Anfechtung der Entscheidung
-    über die Verlängerung sind die Bestimmungen über den
-    Planfeststellungsbeschluss entsprechend anzuwenden.
+3.  Für die Zustellung, Veröffentlichung im Internet oder Auslegung sowie
+    die Anfechtung der Entscheidung über die Verlängerung sind die
+    Bestimmungen über den Planfeststellungsbeschluss entsprechend
+    anzuwenden.
 
 
 4.  Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75
@@ -631,36 +710,22 @@ Bundeswasserstraßen betreffen, die wegen
 
 in der Anlage 2 aufgeführt sind.
 
-(2) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder
-eine Plangenehmigung für den Neubau oder Ausbau der in Anlage 2
-genannten Bundeswasserstraßen hat keine aufschiebende Wirkung. Der
-Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage
-gegen einen Planfeststellungsbeschluss oder gegen eine Plangenehmigung
-nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur
-innerhalb eines Monats nach der Zustellung des
-Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und
-begründet werden. Darauf ist in der Rechtsbehelfsbelehrung
-hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
-
-(3) Ist in anderen Fällen als denen des Absatzes 2 die sofortige
-Vollziehung des Planfeststellungsbeschlusses oder der Plangenehmigung
-für den Neubau oder den Ausbau von Bundeswasserstraßen angeordnet, so
-kann der Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung
-auf Wiederherstellung der aufschiebenden Wirkung der Anfechtungsklage
-nur innerhalb eines Monats nach der Anordnung der sofortigen
-Vollziehung gestellt und begründet werden. Darauf ist in der
+(2) Der Antrag auf Anordnung der aufschiebenden Wirkung der
+Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine
+Plangenehmigung nach § 80 Absatz 5 Satz 1 der
+Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der
+Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung
+gestellt und begründet werden. Darauf ist in der
 Rechtsbehelfsbelehrung hinzuweisen. § 58 der
-Verwaltungsgerichtsordnung gilt entsprechend.
+Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen
+ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so
+kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung
+Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1
+der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
+stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der
+Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(4) Treten in den Fällen der Absätze 2 und 3 später Tatsachen ein, die
-die Anordnung der Wiederherstellung der aufschiebenden Wirkung
-rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder
-die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach §
-80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist
-von einem Monat stellen und begründen. Die Frist beginnt mit dem
-Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
-
-(5) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
+(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
 Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und
 Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach
 Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der
@@ -672,8 +737,6 @@ den Vorsitzenden oder den Berichterstatter auf Antrag verlängert
 werden, wenn der Kläger in dem Verfahren, in dem die angefochtene
 Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
-
-(6) (weggefallen)
 
 
 ### § 14f Projektmanager
@@ -709,8 +772,9 @@ verbleibt bei der zuständigen Behörde.
 
 ### § 15 Veränderungssperre, Vorkaufsrecht
 
-(1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
-Plan einzusehen (§ 73 Abs. 3 des Verwaltungsverfahrensgesetzes),
+(1) Sobald der Plan auf der Internetseite der Planfeststellungsbehörde
+veröffentlicht, ausgelegt oder andere Gelegenheit gegeben ist, den
+Plan einzusehen (§ 73 Absatz 3 des Verwaltungsverfahrensgesetzes),
 dürfen auf den vom Plan betroffenen Flächen bis zu ihrer
 Inanspruchnahme wesentlich wertsteigernde oder die geplanten
 Baumaßnahmen erheblich erschwerende Veränderungen nicht vorgenommen
@@ -718,9 +782,9 @@ werden (Veränderungssperre). Veränderungen, die in rechtlich
 zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten
 und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht
 berührt. Unzulässige Veränderungen bleiben bei der Anordnung von
-Vorkehrungen und Anlagen (§ 74 Abs. 2 des
-Verwaltungsverfahrensgesetzes, § 14b Nummer 1) und im
-Entschädigungsverfahren unberücksichtigt.
+Vorkehrungen und Anlagen (§ 74 Absatz 2 des
+Verwaltungsverfahrensgesetzes) und im Entschädigungsverfahren
+unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, können die
 Eigentümer für die dadurch entstandenen Vermögensnachteile
@@ -733,7 +797,8 @@ betroffenen Flächen ein Vorkaufsrecht zu.
 ### § 16 Besondere Pflichten im Interesse des Vorhabens
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
-der Planung und der Baudurchführung notwendige Vermessungen, Boden-
+der Planung und der Baudurchführung notwendige Kampfmittelräumungen,
+archäologische Untersuchungen und Bergungen sowie Vermessungen, Boden-
 und Grundwasseruntersuchungen einschließlich der vorübergehenden
 Anbringung von Markierungszeichen und sonstige Vorarbeiten durch den
 Träger des Vorhabens oder von ihm Beauftragte zu dulden. Wohnungen
@@ -756,17 +821,119 @@ unmittelbare Vermögensnachteile entstehen.
 
 ### § 17 Veröffentlichung im Internet
 
-Wird der Plan nicht nach § 27a Absatz 1 des
-Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
-Umweltverträglichkeitsprüfung zugänglich gemacht, ist dieser vom
-Träger des Vorhabens zur Bürgerinformation über das Internet
-zugänglich zu machen. § 23 des Gesetzes über die
+Wird der Plan nicht nach § 14a Absatz 3 Satz 1 dieses Gesetzes, § 27a
+Absatz 1 des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über
+die Umweltverträglichkeitsprüfung im Internet veröffentlicht, ist
+dieser vom Träger des Vorhabens auf seiner Internetseite zu
+veröffentlichen. § 23 des Gesetzes über die
 Umweltverträglichkeitsprüfung gilt entsprechend. Maßgeblich ist der
 Inhalt des im Rahmen des Genehmigungsverfahrens zur Einsicht
-ausgelegten Plans. Hierauf ist bei der Zugänglichmachung hinzuweisen.
+ausgelegten Plans. Hierauf ist bei der Veröffentlichung hinzuweisen.
 
 
-### (XXXX) §§ 18 bis 19 (weggefallen)
+### § 18 Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
+
+(1) Wird ein Planfeststellungsverfahren oder ein
+Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
+
+1.  im Kernnetzkorridor nach Anlage 3 gelegen ist, oder
+
+
+2.  im Kernnetzkorridor nach Anlage 4 gelegen ist und dessen geschätzte
+    Gesamtkosten zum Zeitpunkt der Einleitung des
+    Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens
+    300 000 000 Euro überschreiten,
+
+
+
+ist dieses innerhalb von vier Jahren abzuschließen. Die Frist beginnt
+mit dem Eingang des Plans nach § 73 Absatz 1 des
+Verwaltungsverfahrensgesetzes bei der Anhörungsbehörde und
+Planfeststellungsbehörde. Diese sowie alle am
+Planfeststellungsverfahren oder am Plangenehmigungsverfahren
+beteiligten Behörden des Bundes und der Länder sind bestrebt, den
+Planfeststellungsverfahren oder Plangenehmigungsverfahren nach Satz 1
+Vorrang bei der Bearbeitung einzuräumen. Dabei ist das
+Beschleunigungsinteresse an anderen Vorhaben, die im überragenden
+öffentlichen Interesse stehen oder der öffentlichen Sicherheit dienen,
+zu beachten.
+
+(2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen
+Antrag Auskunft über die bei Vorlage des Plans nach § 73 Absatz 1 des
+Verwaltungsverfahrensgesetzes beizubringenden Informationen und
+Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des Plans nach
+§ 73 Absatz 1 des Verwaltungsverfahrensgesetzes nicht die
+erforderliche Reife auf, so ist der Antrag auf Einleitung des
+Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier
+Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
+
+(3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium
+für Digitales und Verkehr die Frist nach Absatz 1 Satz 1 verlängern.
+Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine
+weitere Verlängerung kann unter denselben Bedingungen einmal gewährt
+werden.
+
+(4) Die Absätze 1 bis 3 finden keine Anwendung auf Vorhaben, deren
+Plan vor dem 10. August 2023 bei der Anhörungsbehörde und
+Planfeststellungsbehörde eingereicht wurde.
+
+
+### § 18a Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
+
+(1) Bei grenzüberschreitenden Vorhaben nach § 18 Absatz 1 Satz 1
+sollen die zuständigen Behörden zusammenarbeiten, erforderliche
+Informationen, Unterlagen und Dokumente austauschen und die nationalen
+Zeitpläne ihrer Genehmigungsverfahren abstimmen.
+
+(2) Das Bundesministerium für Digitales und Verkehr hat die nach
+Artikel 45 der Verordnung (EU) Nr. 1315/2013 des Europäischen
+Parlaments und des Rates vom 11. Dezember 2013 über Leitlinien der
+Union für den Aufbau eines transeuropäischen Verkehrsnetzes und zur
+Aufhebung des Beschlusses Nr. 661/2010/EU (ABl. L 348 vom 20.12.2013,
+S. 1) benannten Europäischen Koordinatoren auf deren Ersuchen über den
+Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
+
+(3) Wird die Frist nach § 18 Absatz 1 Satz 1 und 2 nicht eingehalten,
+hat das Bundesministerium für Digitales und Verkehr bei
+grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen
+Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss
+des Planfeststellungsverfahren oder Plangenehmigungsverfahrens zu
+unterrichten.
+
+
+### § 18b Berichterstattung an die Europäische Kommission
+
+Zur Vorbereitung der Berichterstattung an die Europäische Kommission
+hat die Planfeststellungsbehörde dem Bundesministerium für Digitales
+und Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für
+ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum
+mitzuteilen:
+
+1.  Die Anzahl der laufenden sowie abgeschlossenen
+    Planfeststellungsverfahren oder Plangenehmigungsverfahren nach § 18
+    Absatz 1 und § 18a Absatz 1,
+
+
+2.  die durchschnittliche Verfahrensdauer der abgeschlossenen
+    Planfeststellungsverfahren oder Plangenehmigungsverfahren,
+
+
+3.  die Anzahl der Planfeststellungsverfahren oder
+    Plangenehmigungsverfahren, die über einen Zeitraum von mehr als vier
+    Jahren seit Fristbeginn andauern,
+
+
+4.  die Anzahl der Planfeststellungsverfahren oder
+    Plangenehmigungsverfahren mit Fristüberschreitung sowie
+
+
+5.  die Einrichtung gemeinsamer Behörden.
+
+
+
+
+
+### § 19 (weggefallen)
 
 
 
@@ -781,6 +948,22 @@ Antrag nach Feststellung des Planes oder Erteilung der Plangenehmigung
 in den Besitz einzuweisen. Der Planfeststellungsbeschluss oder die
 Plangenehmigung müssen vollziehbar sein. Weiterer Voraussetzungen
 bedarf es nicht.
+
+(1a) Der Träger des Vorhabens kann verlangen, dass bereits nach Ablauf
+der Einwendungsfrist nach § 73 Absatz 4 des
+Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen
+Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In
+diesem Fall ist die nach dem Verfahrensstand zu erwartende
+Feststellung des Plans oder die zu erwartende Plangenehmigung dem
+Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der
+Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu
+verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss
+oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des
+Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder
+die Plangenehmigung nicht bestätigt, ist die vorzeitige
+Besitzeinweisung auf der Grundlage des ergangenen
+Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung
+herbeizuführen.
 
 (2) Die Enteignungsbehörde hat spätestens sechs Wochen nach Eingang
 des Antrags auf Besitzeinweisung mit den Beteiligten mündlich zu
@@ -934,12 +1117,12 @@ Beseitigung der Gefahr oder der Störung getroffen werden können.
 
 ### § 27 Strompolizeiverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
 (Strompolizeiverordnungen) zu erlassen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die
+(2) Das Bundesministerium für Digitales und Verkehr kann durch
+Rechtsverordnung die Ermächtigung nach Absatz 1 auf die
 Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 (3) Strompolizeiverordnungen müssen in ihrem Inhalt bestimmt sein.
@@ -1264,10 +1447,9 @@ Schifffahrtszeichen einschließlich Zubehör und Anlageteile sowie
 bundeseigener meereskundlicher Messgeräte setzt das zuständige
 Wasserstraßen- und Schifffahrtsamt auf Antrag des Bergers dieser
 Gegenstände einen von dem Amt zu erstattenden Bergelohn nach Maßgabe
-der vom Bundesministerium für Verkehr und digitale Infrastruktur im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Wirtschaft und Energie festgelegten
-Vergütungssätze fest.
+der vom Bundesministerium für Digitales und Verkehr im Einvernehmen
+mit dem Bundesministerium der Finanzen und dem Bundesministerium für
+Wirtschaft und Klimaschutz festgelegten Vergütungssätze fest.
 
 
 ### § 35 Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
@@ -1488,8 +1670,8 @@ Beseitigung öffentlicher Verkehrswege verbunden sind. Kommt über die
 Aufteilung der Kosten keine Einigung zustande, so ist hierüber im
 Planfeststellungsbeschluss (§ 14b) zu entscheiden.
 
-(7) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
+(7) Das Bundesministerium für Digitales und Verkehr kann mit
+Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten näher bestimmt wird und für die
     Verwaltungskosten Pauschalbeträge festgesetzt werden;
@@ -1537,11 +1719,11 @@ Kreuzungsbauwerks zu erstatten.
 
 (4a) In den Fällen der Absätze 2, 3 und 4 Satz 3 sind die Mehrkosten
 und die anteiligen Unterhaltungskosten auf Verlangen eines Beteiligten
-abzulösen. Das Bundesministerium für Verkehr und digitale
-Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch
-Rechtsverordnung die Berechnung und die Zahlung von Ablösungsbeträgen
-näher zu bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung
-von Streitigkeiten festzulegen.
+abzulösen. Das Bundesministerium für Digitales und Verkehr wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung die
+Berechnung und die Zahlung von Ablösungsbeträgen näher zu bestimmen
+sowie dazu ein Verfahren zur gütlichen Beilegung von Streitigkeiten
+festzulegen.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten
 dieses Gesetzes die Tragung der Kosten nach bestehenden
@@ -1654,8 +1836,8 @@ unberührt.
 
 ### § 46 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, Rechtsverordnungen zu erlassen über
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+Rechtsverordnungen zu erlassen über
 
 1.  die Regelung des Betriebs von Anlagen nach § 1 Absatz 6 Nummer 1,
 
@@ -1674,8 +1856,8 @@ ermächtigt, Rechtsverordnungen zu erlassen über
 
 
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion
+Das Bundesministerium für Digitales und Verkehr kann durch
+Rechtsverordnung diese Ermächtigung auf die Generaldirektion
 Wasserstraßen und Schifffahrt übertragen.
 
 
@@ -1817,8 +1999,8 @@ gespeichert werden:
 
 
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung Folgendes zu bestimmen:
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
+durch Rechtsverordnung Folgendes zu bestimmen:
 
 1.  das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2
     Nummer 3 bis 6,
@@ -1874,7 +2056,7 @@ besonderer Bedeutung eine längere Frist erforderlich ist.
 
 
 
-### § 56 Überleitungsbestimmungen
+### § 56 Überleitungs- und Schlussbestimmungen
 
 (1) Wenn bei dem Inkrafttreten dieses Gesetzes Talsperren und
 Speicherbecken mit Wasserfahrzeugen befahren werden dürfen, ist eine
@@ -1922,6 +2104,15 @@ die Umweltverträglichkeitsprüfung oder kein Planfeststellungs- oder
 Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes
 eingeleitet worden ist, Kosten entstanden, so kann er hierfür keine
 Erstattung vom Bund verlangen.
+
+(9) Für das Planfeststellungsverfahren gilt das
+Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23.
+Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3
+des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
+das nach Maßgabe dieses Gesetzes anzuwenden ist. Satz 1 gilt
+entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung
+anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz
+verweist.
 
 
 ### § 57
@@ -3008,6 +3199,278 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Elbe-Seitenkanal
 
+
+*    *   8
+
+    *   Rhein
+
+
+*    *   9
+
+    *   Nord-Ostsee-Kanal
+
+
+*    *   10
+
+    *   Wesel-Datteln-Kanal
+
+
+
+
+
+### Anlage 3 (zu § 18 Absatz 1 Satz 1)
+
+(Fundstelle: BGBl. 2023 I Nr. 409, S. 30)
+
+
+*    *   Lfd.
+        Nr.
+
+    *   TEN-V-Kernnetzkorridor
+
+    *   Bezeichnung
+
+
+*    *   1
+
+    *   Nordsee – Ostsee
+
+    *   (Świnoujście/Szczecin –) Grenze PL/DE–Berlin
+
+
+*    *   2
+
+    *   Nordsee – Ostsee
+
+    *   Nord-Ostsee-Kanal
+
+
+*    *   3
+
+    *   Nordsee – Ostsee
+
+    *   Berlin – Magdeburg – Hannover; Mittellandkanal; westdeutsche Kanäle
+
+
+*    *   4
+
+    *   Nordsee – Ostsee
+
+    *   Rhein – Grenze DE/NL (– Waal)
+
+
+*    *   5
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Hamburg – Dresden – Grenze DE/CZ (– Praha)
+
+
+*    *   6
+
+    *   Rhein – Alpen
+
+    *   (Basel –) – Grenze CH/DE – Grenze DE/NL (– Antwerpen/Rotterdam)
+
+
+*    *   7
+
+    *   Rhein – Donau
+
+    *   Donau (Kehlheim – Grenze DE/AT (– Constan*
+        a/Midia/Sulina))
+
+
+
+
+### Anlage 4 (zu § 18 Absatz 1 Satz 2)
+
+(Fundstelle: BGBl. 2023 I Nr. 409, S. 30 – 31)
+
+
+*    *   Lfd.
+        Nr.
+
+    *   TEN-V-Kernnetzkorridor
+
+    *   Bezeichnung
+
+
+*    *   1
+
+    *   Nordsee – Ostsee
+
+    *   Szczecin/Świnoujście – Grenze PL/DE – Berlin (Havel-Oder-Wasserstraße)
+
+
+*    *   2
+
+    *   Nordsee – Ostsee
+
+    *   Berlin – Magdeburg (Untere Havelwasserstraße/Elbe-Havel-Kanal/
+        Mittellandkanal)
+
+
+*    *   3
+
+    *   Nordsee – Ostsee
+
+    *   Magdeburg – Braunschweig – Hannover (Mittellandkanal)
+
+
+*    *   4
+
+    *   Nordsee – Ostsee
+
+    *   Hannover – Minden (Mittellandkanal)
+
+
+*    *   5
+
+    *   Nordsee – Ostsee
+
+    *   Minden – Bremen – Bremerhaven (Weser)
+
+
+*    *   6
+
+    *   Nordsee – Ostsee
+
+    *   Minden – Rheine – Nordsee (Mittellandkanal/Dortmund-Ems-Kanal/ Ems)
+
+
+*    *   7
+
+    *   Nordsee – Ostsee
+
+    *   Bremen/Elsfleth – Oldenburg – Dörpen (Weser/Küstenkanal)
+
+
+*    *   8
+
+    *   Nordsee – Ostsee
+
+    *   Rheine – Minden (Mittellandkanal/Weser)
+
+
+*    *   9
+
+    *   Nordsee – Ostsee
+
+    *   Datteln – Hamm (Datteln-Hamm-Kanal)
+
+
+*    *   10
+
+    *   Nordsee – Ostsee
+
+    *   Dortmund – Datteln – Rheine (Dortmund-Ems-Kanal)
+
+
+*    *   11
+
+    *   Nordsee – Ostsee
+
+    *   Datteln – Duisburg (Rhein-Herne-Kanal)
+
+
+*    *   12
+
+    *   Nordsee – Ostsee
+
+    *   Mühlheim – Duisburg – Grenze DE/NL (Ruhr/Rhein)
+
+
+*    *   13
+
+    *   Nordsee – Ostsee
+
+    *   Wesel – Datteln (Wesel-Datteln-Kanal)
+
+
+*    *   14
+
+    *   Nordsee – Ostsee
+
+    *   Nord-Ostsee-Kanal
+
+
+*    *   15
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Brunsbüttel – Hamburg – Lauenburg – Magdeburg – Dresden – Grenze DE/CZ
+        (– Usti nad Labem) (Elbe)
+
+
+*    *   16
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Lauenburg – Lübeck (Elbe-Lübeck-Kanal)
+
+
+*    *   17
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Bremerhaven – Bremen – Minden (Weser)
+
+
+*    *   18
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Minden – Edesbüttel – Magdeburg (Mittellandkanal)
+
+
+*    *   19
+
+    *   Orient/Östliches Mittelmeer
+
+    *   Lauenburg – Edesbüttel (Elbeseitenkanal)
+
+
+*    *   20
+
+    *   Rhein – Alpen
+
+    *   (Basel –) Grenze CH/DE – Koblenz – Grenze NL/D (– Rotterdam) (Rhein)
+
+
+*    *   21
+
+    *   Rhein – Alpen
+
+    *   Koblenz – Wasserbillig Grenze DE/LU – Apach Grenze D/LU/FR (Mosel)
+
+
+*    *   22
+
+    *   Rhein – Alpen
+
+    *   Mannheim – Stuttgart – Plochingen (Neckar)
+
+
+*    *   23
+
+    *   Rhein – Donau
+
+    *   Grenzen AT/DE Jochenstein/Passau – Kehlheim (Donau)
+
+
+*    *   24
+
+    *   Rhein – Donau
+
+    *   Kehlheim – Bamberg/Hallstadt (Main-Donau-Kanal)
+
+
+*    *   25
+
+    *   Rhein – Donau
+
+    *   Hallstadt – Aschaffenburg – Mainz (Main)
 
 
 

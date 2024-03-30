@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 94 (2018 I 1389)
 
 Zuletzt geändert durch
-:   Art. 300 V v. 19.6.2020 I 1328
+:   Art. 2 V v. 13.2.2024 I Nr. 43
 
 Stand: Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)
 
@@ -193,19 +193,32 @@ von
     oder sonstigen Betankungseinrichtungen,
 
 
-2.  Methanol oder methanolhaltigen Gemischen zur Verwendung in
+2.  Kraftstoffen an Tankstellen oder sonstigen Betankungseinrichtungen,
+    die unter die Unterpositionen 2710 12 31, 2710 12 41, 2710 12 45, 2710
+    12 49, 2710 12 50, 2710 12 70 und 2710 19 21 der Kombinierten
+    Warennomenklatur nach Artikel 1 in Verbindung mit Anhang I der
+    Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
+    zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
+    Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38;
+    L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom
+    8\.6.2016, S. 22), die zuletzt durch die Verordnung (EU) 2022/2465
+    (ABl. L 322 vom 16.12.2022, S. 81) geändert worden ist, fallen, sofern
+    diese zur Verwendung in Luftfahrzeugen bestimmt sind,
+
+
+3.  Methanol oder methanolhaltigen Gemischen zur Verwendung in
     Brennstoffzellen, sofern aufgrund der sicherheitstechnischen
     Konstruktionsmerkmale des Behälters eine Freisetzung des Brennstoffes
     nur in Verbindung mit der Brennstoffzelle in einem geschlossenen
     System erfolgen kann,
 
 
-3.  Heizöl gemäß § 10 der Verordnung über die Beschaffenheit und die
+4.  Heizöl gemäß § 10 der Verordnung über die Beschaffenheit und die
     Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils
     geltenden Fassung,
 
 
-4.  folgenden Stoffen und Gemischen, soweit sie nach der Verordnung (EG)
+5.  folgenden Stoffen und Gemischen, soweit sie nach der Verordnung (EG)
     Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16.
     Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von
     Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien
@@ -230,22 +243,22 @@ von
 
 
 
-5.  Mineralien für Sammlerzwecke,
+6.  Mineralien für Sammlerzwecke,
 
 
-6.  Experimentierkästen für chemische oder ähnliche Versuche, die in
+7.  Experimentierkästen für chemische oder ähnliche Versuche, die in
     Übereinstimmung mit DIN EN 71 Teil 4, Ausgabe Mai 2013, hergestellt
     worden sind, sofern sie an Personen abgegeben werden, die über 18
     Jahre alt sind,
 
 
-7.  pyrotechnischen Gegenständen im Sinne des § 4 Absatz 2 der Ersten
+8.  pyrotechnischen Gegenständen im Sinne des § 4 Absatz 2 der Ersten
     Verordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom
     31\. Januar 1991 (BGBl. I S. 169), die zuletzt durch Artikel 13 der
     Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist,
 
 
-8.  Sonderkraftstoffen, die nach der Verordnung (EG) Nr. 1272/2008 in
+9.  Sonderkraftstoffen, die nach der Verordnung (EG) Nr. 1272/2008 in
     ihrer jeweils geltenden Fassung mit dem Gefahrenpiktogramm GHS02
     (Flamme) und dem Gefahrenhinweis H224 (Flüssigkeit und Dampf extrem
     entzündbar) zu kennzeichnen sind und die für den Einsatz in solchen
@@ -256,12 +269,11 @@ von
     Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für
     den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung
     der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur
-    Änderung und Aufhebung der Richtlinie
-    97/68/EG (ABl. L 252                    vom 16.9.2016, S. 53) genannt
-    sind, und
+    Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom
+    16\.9.2016, S. 53) genannt sind, und
 
 
-9.  elektronischen Zigaretten und Nachfüllbehältern im Sinne von § 2
+10. elektronischen Zigaretten und Nachfüllbehältern im Sinne von § 2
     Nummer 2 des Tabakerzeugnisgesetzes vom 4. April 2016 (BGBl. I S.
     569).
 
@@ -935,29 +947,10 @@ als erbracht für Personen, die
     *
     *
 
-*    *   Pentachlorphenol:
+*    *   (weggefallen)
 
-        1.  Pentachlorphenol
-
-
-        2.  Pentachlorphenolsalze
-            und -verbindungen
-
-
-
-
-    *   Erzeugnisse, die mit einem Gemisch behandelt worden sind, das Stoffe
-        nach Spalte 1 enthielt und deren von einer Behandlung erfassten Teile
-        mehr als 5 mg/kg (ppm) der Stoffe nach Spalte 1 enthalten, dürfen
-        nicht in den Verkehr gebracht werden.
-
-    *   Das Verbot nach Spalte 2 gilt nicht
-        für Holzbestandteile von Gebäuden und Möbeln sowie Textilien, die
-        vor dem 23. Dezember 1989 mit Gemischen behandelt wurden, die Stoffe
-        nach Spalte 1 enthielten.
-        In dem in Artikel 3 des Einigungsvertrages genannten Gebiet tritt an
-        die Stelle des 23. Dezembers 1989 der 3. Oktober 1990.
-
+    *
+    *
 
 *    *   **Eintrag 4**
 
@@ -1063,7 +1056,7 @@ als erbracht für Personen, die
             GHS08 (Gesundheitsgefahr) und dem Signalwort Gefahr, und einem der
             Gefahrenhinweise H340, H350, H350i, H360, H360F, H360D, H360FD,
             H360Fd, H360Df, H370
-[^F796954_1b_BJNR009410017BJNE001601119]
+[^F796954_1b_BJNR009410017BJNE001602126]
             oder H372.
 
 
@@ -1145,8 +1138,7 @@ als erbracht für Personen, die
         oder
 
         2.  bei bestimmungsgemäßer
-            Verwendung Phosphorwasserstoff entwickeln und nicht bereits von
-            Eintrag 1 erfasst sind.
+            Verwendung Phosphorwasserstoff entwickeln.
 
 
 
@@ -1184,4 +1176,4 @@ als erbracht für Personen, die
     wiederholter Exposition (Expositionsweg angeben, sofern schlüssig
     belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg
     besteht).
-[^F796954_1b_BJNR009410017BJNE001601119]: 
+[^F796954_1b_BJNR009410017BJNE001602126]: 

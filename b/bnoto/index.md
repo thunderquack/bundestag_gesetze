@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. Art. 3 G v. 10.3.2023 I Nr. 64
+:   Art. 3 G v. 20.12.2023 I Nr. 389
 
 
 
@@ -1196,8 +1196,9 @@ sich nach den landesrechtlichen Vorschriften.
 
 
 2.  Bescheinigungen über das Bestehen oder den Sitz einer juristischen
-    Person oder Handelsgesellschaft, die Firmenänderung, eine Umwandlung
-    oder sonstige rechtserhebliche Umstände auszustellen,
+    Person oder rechtsfähigen Personengesellschaft, die Änderung der Firma
+    oder des Namens, eine Umwandlung oder sonstige rechtserhebliche
+    Umstände auszustellen,
 
 
 

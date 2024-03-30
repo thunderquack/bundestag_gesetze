@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 § 4 V v. 21.9.2018 I 1398
 
+Änderung durch
+:   Art. 6 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 

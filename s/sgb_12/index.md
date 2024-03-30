@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 6a G v. 16.8.2023 I Nr. 217
+:   Art. 2 G v. 22.12.2023 I Nr. 408
+
+Mittelbare änderung durch
+:   Art. 14 Nr. 1 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 15 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -1409,9 +1415,7 @@ Zuletzt geändert durch
 
 *    *   § 142
 
-    *   Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für
-        Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie;
-        Verordnungsermächtigung
+    *   Verpflegung in Gemeinschaftsunterkünften
 
 
 *    *   § 143
@@ -1435,6 +1439,12 @@ Zuletzt geändert durch
     *   Sozialhilfe für Ausländerinnen und Ausländer mit einem
         Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer
         entsprechenden Fiktionsbescheinigung
+
+
+*    *   § 147
+
+    *   Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen
+        Entschädigungsrechts
 
 
 
@@ -1923,7 +1933,9 @@ nach Absatz 1 oder nach dem Vierten Kapitel, wenn
 
 
 2.  sie kein Aufenthaltsrecht haben oder sich ihr Aufenthaltsrecht allein
-    aus dem Zweck der Arbeitsuche ergibt oder
+    aus dem Zweck der Arbeitsuche, der Ausbildungs- oder Studienplatzsuche
+    oder aus einer Aufenthaltserlaubnis nach § 20a des Aufenthaltsgesetzes
+    ergibt oder
 
 
 3.  sie eingereist sind, um Sozialhilfe zu erlangen.
@@ -2283,8 +2295,8 @@ dem Umfang
 
 
 
-(2) Der weitere notwendige Lebensunterhalt nach Absatz 1 Nummer 2
-umfasst insbesondere einen Barbetrag nach Absatz 3 sowie Bekleidung
+(2) Der weitere notwendige Lebensunterhalt nach Absatz 1 Satz 1 Nummer
+2 umfasst insbesondere einen Barbetrag nach Absatz 3 sowie Bekleidung
 und Schuhe (Bekleidungspauschale) nach Absatz 4; § 31 Absatz 2 Satz 2
 ist nicht anzuwenden.
 
@@ -2895,9 +2907,9 @@ anzuerkennen
 
 
 (3a) Der nach Absatz 3 anzuerkennende Teilbetrag für ein erstes
-Schulhalbjahr eines Schuljahres wird kalenderjährlich mit dem in der
+Schulhalbjahr eines Schuljahres wird kalenderjährlich mit den in der
 maßgeblichen Regelbedarfsstufen-Fortschreibungsverordnung nach den §§
-28a und 40 Nummer 1 bestimmten Prozentsatz fortgeschrieben; der
+28a und 40 Nummer 1 bestimmten Prozentsätzen fortgeschrieben; der
 fortgeschriebene Wert ist bis unter 0,50 Euro auf den nächsten vollen
 Euro abzurunden und ab 0,50 Euro auf den nächsten vollen Euro
 aufzurunden (Anlage). Der Teilbetrag für das zweite Schulhalbjahr
@@ -3128,11 +3140,12 @@ Verfahren nach Ablauf der Karenzzeit nach Absatz 3 Satz 2.
 Besonderheit des Einzelfalles angemessenen Umfang, sind sie in
 tatsächlicher Höhe als Bedarf der Personen, deren Einkommen und
 Vermögen nach § 27 Absatz 2 zu berücksichtigen sind, anzuerkennen.
-Satz 1 gilt nach Ablauf der Karenzzeit nach Absatz 1 Satz 2 bis 6 so
-lange, bis es diesen Personen möglich oder zuzumuten ist, durch einen
-Wohnungswechsel, durch Vermieten oder auf andere Weise die
-Aufwendungen zu senken, in der Regel jedoch längstens für sechs
-Monate. Eine Absenkung der nach Absatz 1 Satz 1 unangemessenen
+Satz 1 gilt für die Aufwendungen für Heizung und nach Ablauf der
+Karenzzeit nach Absatz 1 Satz 2 bis 6 für die Aufwendungen für
+Unterkunft so lange, bis es diesen Personen möglich oder zuzumuten
+ist, durch einen Wohnungswechsel, durch Vermieten oder auf andere
+Weise die Aufwendungen zu senken, in der Regel jedoch längstens für
+sechs Monate. Eine Absenkung der nach Absatz 1 Satz 1 unangemessenen
 Aufwendungen muss nicht gefordert werden, wenn diese unter
 Berücksichtigung der bei einem Wohnungswechsel zu erbringenden
 Leistungen unwirtschaftlich wäre. Stirbt ein Mitglied der
@@ -3300,9 +3313,10 @@ Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die
 Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem
 Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit
 des Mieters beruht. Die übermittelten Daten dürfen auch für
-entsprechende Zwecke der Kriegsopferfürsorge nach dem
-Bundesversorgungsgesetz gespeichert, verändert, genutzt, übermittelt
-und in der Verarbeitung eingeschränkt werden.
+entsprechende Zwecke der Sozialen Entschädigung, soweit es sich um
+Besondere Leistungen im Einzelfall nach Kapitel 11 des Vierzehnten
+Buches handelt, gespeichert, verändert, genutzt, übermittelt und in
+der Verarbeitung eingeschränkt werden.
 
 
 ### Fünfter Abschnitt - Gewährung von Darlehen
@@ -3337,7 +3351,7 @@ Sozialhilfe die Höhe der der leistungsberechtigten Person zu
 leistenden Zuzahlungen mit; Veränderungen im Laufe eines
 Kalenderjahres sind unverzüglich mitzuteilen.
 
-(4) Für die Rückzahlung von Darlehen Absatz 1 können von den
+(4) Für die Rückzahlung von Darlehen nach Absatz 1 können von den
 monatlichen Regelsätzen Teilbeträge bis zur Höhe von jeweils 5 vom
 Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 einbehalten
 werden. Die Rückzahlung von Darlehen nach Absatz 2 erfolgt in gleichen
@@ -3371,11 +3385,11 @@ Aufrechnung nach § 44b.
 #### § 38 Darlehen bei vorübergehender Notlage
 
 Sind Leistungen nach § 27a Absatz 3 und 4, der Barbetrag nach § 27b
-Absatz 2 sowie nach den §§ 30, 32, 33 und 35 voraussichtlich nur für
-kurze Dauer zu erbringen, können Geldleistungen als Darlehen gewährt
-werden. Darlehen an Mitglieder von Haushaltsgemeinschaften im Sinne
-des § 27 Absatz 2 Satz 2 und 3 können an einzelne Mitglieder oder an
-mehrere gemeinsam vergeben werden.
+Absatz 2 sowie nach den §§ 30, 32, 33, 35 und 35a voraussichtlich nur
+für kurze Dauer zu erbringen, können Geldleistungen als Darlehen
+gewährt werden. Darlehen an Mitglieder von Haushaltsgemeinschaften im
+Sinne des § 27 Absatz 2 Satz 2 und 3 können an einzelne Mitglieder
+oder an mehrere gemeinsam vergeben werden.
 
 
 ### Sechster Abschnitt - Einschränkung von Leistungsberechtigung und -umfang
@@ -3758,7 +3772,7 @@ der von der leistungsberechtigten Person zu zahlende Mietzins zur
 gesamten Wohnungsmiete in einem angemessenen Verhältnis steht.
 Übersteigen die tatsächlichen Aufwendungen der leistungsberechtigten
 Person die nach den Sätzen 1 und 2 angemessenen Aufwendungen für
-Unterkunft und Heizung, gilt § 35 Absatz 2 entsprechend.
+Unterkunft und Heizung, gilt § 35 Absatz 3 entsprechend.
 
 (5) Für leistungsberechtigte Personen, die in Räumlichkeiten nach
 Absatz 2 Satz 1 Nummer 2 leben, werden die tatsächlichen Aufwendungen
@@ -3918,13 +3932,14 @@ Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der
 Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen
 Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird.
 Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages
-nach der Höhe der Grundrente nach § 31 des Bundesversorgungsgesetzes,
-die für den Grad der Schädigungsfolgen zu zahlen ist, der der
-jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer
-Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu
-berücksichtigende Betrag zwei Drittel, bei einer Minderung der
-Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach
-dem Bundesversorgungsgesetz.
+nach der Höhe der monatlichen Entschädigungszahlung nach § 83 des
+Vierzehnten Buches, die für den Grad der Schädigungsfolgen zu zahlen
+ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei
+einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht
+zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der
+Erwerbsfähigkeit um 10 Prozent ein Drittel der monatlichen
+Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 des Vierzehnten
+Buches.
 
 (4) Erhalten Leistungsberechtigte nach dem Dritten Kapitel in einem
 Land nach § 29 Absatz 1 letzter Halbsatz und Absatz 2 bis 5
@@ -4005,7 +4020,7 @@ anzuwenden.
 #### § 44a Vorläufige Entscheidung
 
 (1) Über die Erbringung von Geldleistungen ist vorläufig zu
-entscheiden, wenn die Voraussetzungen des § 41 Absatz 2 und 3
+entscheiden, wenn die Voraussetzungen des § 41 Absatz 2, 3 und 3a
 feststehen und
 
 1.  zur Feststellung der weiteren Voraussetzungen des Anspruchs auf
@@ -4062,7 +4077,7 @@ Leistungsanspruch nachgewiesen ist. Für die übrigen Kalendermonate
 wird festgestellt, dass ein Leistungsanspruch nicht bestand.
 
 (6) Ergeht innerhalb eines Jahres nach Ablauf des
-Bewilligungszeitraums keine abschließende Entscheidung nach Absatz 4,
+Bewilligungszeitraums keine abschließende Entscheidung nach Absatz 5,
 gelten die vorläufig bewilligten Geldleistungen als abschließend
 festgesetzt. Satz 1 gilt nicht, wenn
 
@@ -4212,23 +4227,29 @@ anerkannten angemessenen Bedarfen für Heizung im Zeitraum 1. Oktober
 des Vorvorjahres bis 30. Juni des Vorjahres zu bilden. Im zweiten
 Schritt sind die beiden Durchschnittswerte zu addieren und ergeben in
 der Summe die durchschnittliche Warmmiete. Bei der Ermittlung bleiben
-die anerkannten Bedarfe derjenigen Leistungsberechtigten außer
-Betracht, für die
+Leistungsberechtigte außer Betracht, für die keine Aufwendungen für
+Unterkunft und Heizung anerkannt worden sind. Darüber hinaus bleiben
+bei der Ermittlung diejenigen Leistungsberechtigten außer Betracht,
+für die Bedarfe anerkannt worden sind für
 
-1.  keine Aufwendungen für Unterkunft und Heizung,
-
-
-2.  Aufwendungen für selbstgenutztes Wohneigentum,
-
-
-3.  Aufwendungen nach § 35 Absatz 2 Satz 3 und Absatz 3 Satz 1
+1.  Aufwendungen für Unterkunft und Heizung für selbstgenutztes
+    Wohneigentum,
 
 
+2.  unangemessen hohe Aufwendungen für Unterkunft während der Karenzzeit
+    nach § 35 Absatz 1 Satz 2 bis 6 oder
 
-anerkannt worden sind. Die neu ermittelte durchschnittliche Warmmiete
-ist ab dem 1. Januar des jeweils folgenden Kalenderjahres für die nach
-§ 42 Nummer 4 Buchstabe b und § 42a Absatz 5 Satz 3 anzuerkennenden
-Bedarfe für Unterkunft und Heizung anzuwenden.
+
+3.  unangemessen hohe Aufwendungen während eines Zeitraums nach § 35
+    Absatz 3 für Aufwendungen für Unterkunft oder für Heizung oder für
+    Unterkunft und Heizung.
+
+
+
+Die neu ermittelte durchschnittliche Warmmiete ist ab dem 1. Januar
+des jeweils folgenden Kalenderjahres für die nach § 42 Nummer 4
+Buchstabe b und § 42a Absatz 5 Satz 3 anzuerkennenden Bedarfe für
+Unterkunft und Heizung anzuwenden.
 
 
 #### § 46 Zusammenarbeit mit den Trägern der Rentenversicherung
@@ -5402,8 +5423,7 @@ des Pflegegrades 2 und bei Pflegebedürftigen der Pflegegrade 3, 4 oder
 5 mit 40 Prozent des Pflegegeldes des Pflegegrades 3, höchstens jedoch
 mit 50 Prozent des Betrages nach Absatz 2, anzurechnen. Satz 2 gilt
 sinngemäß für Leistungen nach dem Elften Buch aus einer privaten
-Pflegeversicherung und nach beamtenrechtlichen Vorschriften. § 39a ist
-entsprechend anzuwenden.
+Pflegeversicherung und nach beamtenrechtlichen Vorschriften.
 
 (2) Die Blindenhilfe beträgt bis 30. Juni 2004 für blinde Menschen
 nach Vollendung des 18. Lebensjahres 585 Euro monatlich, für blinde
@@ -5957,17 +5977,15 @@ Nicht zum Einkommen gehören
 1.  Leistungen nach diesem Buch,
 
 
-2.  die Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen,
-    die eine entsprechende Anwendung des Bundesversorgungsgesetzes
-    vorsehen,
+2.  (weggefallen)
 
 
 3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
     an Leben sowie an Körper oder Gesundheit bis zur Höhe der
-    vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
+    vergleichbaren Leistungen nach dem Vierzehnten Buch,
 
 
-4.  Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs
+4.  Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs
     kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des
     Einkommensteuergesetzes genannten Betrag,
 
@@ -5982,22 +6000,27 @@ Nicht zum Einkommen gehören
     Ausbildungsvergütung haben,
 
 
-7.  ein Betrag von insgesamt 520 Euro monatlich bei Leistungsberechtigten,
-    die das 25. Lebensjahr noch nicht vollendet haben, und die
+7.  der Betrag nach § 8 Absatz 1a des Vierten Buches aus Erwerbstätigkeit
+    bei Leistungsberechtigten, die das 15., aber noch nicht das 25.
+    Lebensjahr vollendet haben, und die
 
     a)  eine nach dem Bundesausbildungsförderungsgesetz dem Grunde nach
         förderungsfähige Ausbildung durchführen,
 
 
     b)  eine nach § 57 Absatz 1 des Dritten Buches dem Grunde nach
-        förderungsfähige Ausbildung, eine nach § 51 des Dritten Buches dem
-        Grunde nach förderungsfähige berufsvorbereitenden Bildungsmaßnahme
-        oder eine nach § 54a des Dritten Buches geförderte
-        Einstiegsqualifizierung durchführen oder
+        förderungsfähige Ausbildung, eine nach § 51 des Dritten Buches dem
+        Grunde nach förderungsfähige berufsvorbereitende Bildungsmaßnahme oder
+        eine nach § 54a des Dritten Buches geförderte Einstiegsqualifizierung
+        durchführen,
 
 
     c)  als Schülerinnen und Schüler allgemein- oder berufsbildender Schulen
-        während der Schulzeit erwerbstätig sind,
+        während der Schulzeit erwerbstätig sind oder
+
+
+    d)  einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder
+        dem Jugendfreiwilligendienstegesetz nachgehen,
 
 
 
@@ -6006,13 +6029,29 @@ Nicht zum Einkommen gehören
 8.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
     Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
     Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
-    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten und
+    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten,
 
 
-9.  Erbschaften.
+9.  einmalige Einnahmen aus Erbschaften, Vermächtnissen und
+    Pflichtteilszuwendungen,
+
+
+10. Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder
+    vergleichbare Leistungen nach landesrechtlichen Regelungen und
+
+
+11. Einnahmen in Geldeswert, die nicht im Rahmen einer Erwerbstätigkeit,
+    des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes
+    zufließen.
 
 
 
+Satz 2 Nummer 7 Buchstabe c ist nach dem Besuch einer
+allgemeinbildenden Schule bis zum Ablauf des dritten auf das Ende der
+Schulausbildung folgenden Monats anzuwenden. Bei der Anwendung von
+Satz 2 Nummer 7 Buchstabe d gilt das Taschengeld nach § 2 Nummer 4 des
+Bundesfreiwilligendienstgesetzes und nach § 2 Absatz 1 Nummer 4 des
+Jugendfreiwilligendienstegesetzes als Einkommen aus Erwerbstätigkeit.
 Einkünfte aus Rückerstattungen, die auf Vorauszahlungen beruhen, die
 Leistungsberechtigte aus dem Regelsatz erbracht haben, sind kein
 Einkommen. Bei Minderjährigen ist das Kindergeld dem jeweiligen Kind
@@ -6041,15 +6080,16 @@ benötigt wird.
 
 
 
-Erhält eine leistungsberechtigte Person aus einer Tätigkeit Bezüge
-oder Einnahmen, die als Taschengeld nach § 2 Nummer 4 des
-Bundesfreiwilligendienstgesetzes oder nach § 2 Absatz 1 Nummer 4 des
-Jugendfreiwilligendienstgesetzes gezahlt werden, ist abweichend von
-Satz 1 Nummer 2 bis 4 und den Absätzen 3 und 6 ein Betrag von bis zu
-250 Euro monatlich nicht als Einkommen zu berücksichtigen. Soweit ein
-Betrag nach Satz 2 in Anspruch genommen wird, gelten die Beträge nach
-Absatz 3 Satz 1 zweiter Halbsatz und nach Absatz 6 Satz 1 zweiter
-Halbsatz insoweit als ausgeschöpft.
+Erhält eine leistungsberechtigte Person, die das 25. Lebensjahr
+vollendet hat, aus einer Tätigkeit Bezüge oder Einnahmen, die als
+Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes
+oder nach § 2 Absatz 1 Nummer 4 des Jugendfreiwilligendienstgesetzes
+gezahlt werden, ist abweichend von Satz 1 Nummer 2 bis 4 und den
+Absätzen 3 und 6 ein Betrag von bis zu 250 Euro monatlich nicht als
+Einkommen zu berücksichtigen. Soweit ein Betrag nach Satz 2 in
+Anspruch genommen wird, gelten die Beträge nach Absatz 3 Satz 1
+zweiter Halbsatz und nach Absatz 6 Satz 1 zweiter Halbsatz insoweit
+als ausgeschöpft.
 
 (3) Bei der Hilfe zum Lebensunterhalt und Grundsicherung im Alter und
 bei Erwerbsminderung ist ferner ein Betrag in Höhe von 30 vom Hundert
@@ -6112,19 +6152,20 @@ aus selbständiger und nichtselbständiger Tätigkeit der
 Leistungsberechtigten abzusetzen, höchstens jedoch 65 Prozent der
 Regelbedarfsstufe 1 nach der Anlage zu § 28.
 
-(7) Einmalige Einnahmen, bei denen für den Monat des Zuflusses bereits
-Leistungen ohne Berücksichtigung der Einnahme erbracht worden sind,
-werden im Folgemonat berücksichtigt. Entfiele der Leistungsanspruch
-durch die Berücksichtigung in einem Monat, ist die einmalige Einnahme
-auf einen Zeitraum von sechs Monaten gleichmäßig zu verteilen und mit
-einem entsprechenden Teilbetrag zu berücksichtigen. In begründeten
-Einzelfällen ist der Anrechnungszeitraum nach Satz 2 angemessen zu
-verkürzen. Die Sätze 1 und 2 sind auch anzuwenden, soweit während des
-Leistungsbezugs eine Auszahlung zur Abfindung einer Kleinbetragsrente
-im Sinne des § 93 Absatz 3 Satz 2 des Einkommensteuergesetzes oder
-nach § 3 Absatz 2 des Betriebsrentengesetzes erfolgt und durch den
-ausgezahlten Betrag das Vermögen überschritten wird, welches nach § 90
-Absatz 2 Nummer 9 und Absatz 3 nicht einzusetzen ist.
+(7) Einnahmen sind für den Monat zu berücksichtigen, in dem sie
+zufließen. Würde der Leistungsanspruch durch die Berücksichtigung
+einer als Nachzahlung zufließenden Einnahme, die nicht für den Monat
+des Zuflusses erbracht wird, in diesem Monat entfallen, so ist diese
+Einnahme auf einen Zeitraum von sechs Monaten gleichmäßig aufzuteilen
+und monatlich ab dem Monat des Zuflusses mit einem entsprechenden
+monatlichen Teilbetrag zu berücksichtigen. In begründeten Einzelfällen
+ist der Anrechnungszeitraum nach Satz 2 angemessen zu verkürzen. Die
+Sätze 1 und 2 sind auch anzuwenden, soweit während des Leistungsbezugs
+eine Auszahlung zur Abfindung einer Kleinbetragsrente im Sinne des §
+93 Absatz 3 Satz 2 des Einkommensteuergesetzes oder nach § 3 Absatz 2
+des Betriebsrentengesetzes erfolgt und durch den ausgezahlten Betrag
+das Vermögen überschritten wird, welches nach § 90 Absatz 2 Nummer 9
+und Absatz 3 nicht einzusetzen ist.
 
 
 #### § 82a Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
@@ -7332,67 +7373,56 @@ als Bundesstatistik durchgeführt.
 
 #### § 122 Erhebungsmerkmale
 
-(1) Erhebungsmerkmale bei der Erhebung nach § 121 Nummer 1 Buchstabe a
-sind:
+(1) Erhebungsmerkmale bei den Erhebungen nach § 121 Nummer 1 Buchstabe
+a sind für Leistungsberechtigte, denen Leistungen nach dem Dritten
+Kapitel für mindestens einen Monat erbracht werden
 
-1.  für Leistungsberechtigte, denen Leistungen nach dem Dritten Kapitel
-    für mindestens einen Monat erbracht werden:
-
-    a)  Geschlecht, Geburtsmonat und -jahr, Staatsangehörigkeit,
-        Migrationshintergrund, bei Ausländern auch aufenthaltsrechtlicher
-        Status, Regelbedarfsstufe, Art der geleisteten Mehrbedarfe,
+1.  Geschlecht, Geburtsmonat und -jahr, Staatsangehörigkeit,
+    Migrationshintergrund, bei Ausländern auch aufenthaltsrechtlicher
+    Status, Regelbedarfsstufe, Art der geleisteten Mehrbedarfe,
 
 
-    b)  für Leistungsberechtigte, die das 15. Lebensjahr vollendet, die
-        Altersgrenze nach § 41 Abs. 2 aber noch nicht erreicht haben,
-        zusätzlich zu den unter Buchstabe a genannten Merkmalen:
-        Beschäftigung, Einschränkung der Leistung,
+2.  für Leistungsberechtigte, die das 15. Lebensjahr vollendet, die
+    Altersgrenze nach § 41 Absatz 2 aber noch nicht erreicht haben,
+    zusätzlich zu den unter Nummer 1 genannten Merkmalen: Beschäftigung,
 
 
-    c)  für Leistungsberechtigte in Personengemeinschaften, für die eine
-        gemeinsame Bedarfsberechnung erfolgt, und für einzelne
-        Leistungsberechtigte: Wohngemeinde und Gemeindeteil, Art des Trägers,
-        Leistungen in und außerhalb von Einrichtungen, Beginn der Leistung
-        nach Monat und Jahr, Beginn der ununterbrochenen Leistungserbringung
-        für mindestens ein Mitglied der Personengemeinschaft nach Monat und
-        Jahr, die in den § 27a Absatz 3, §§ 27b, 30 bis 33, §§ 35 bis 38 und
-        133a genannten Bedarfe je Monat, Nettobedarf je Monat, Art und
-        jeweilige Höhe der angerechneten oder in Anspruch genommenen Einkommen
-        und übergegangenen Ansprüche, Zahl aller Haushaltsmitglieder, Zahl
-        aller Leistungsberechtigten im Haushalt,
+3.  für Leistungsberechtigte in Personengemeinschaften, für die eine
+    gemeinsame Bedarfsberechnung erfolgt, und für einzelne
+    Leistungsberechtigte: Wohngemeinde, Gemeindeteil, Art des Trägers,
+    Leistungen in und außerhalb von Einrichtungen, Beginn der Leistung
+    nach Monat und Jahr, Beginn der ununterbrochenen Leistungserbringung
+    für mindestens ein Mitglied der Personengemeinschaft nach Monat und
+    Jahr, die in den § 27a Absatz 3, §§ 27b, 30 bis 33, §§ 35 bis 38 und
+    133a genannten Bedarfe je Monat, Nettobedarf je Monat, Art und
+    jeweilige Höhe des angerechneten oder in Anspruch genommenen
+    Einkommens und übergegangener Ansprüche, Zahl aller
+    Haushaltsmitglieder, Zahl aller Leistungsberechtigten im Haushalt,
 
 
-    d)  bei Änderung der Zusammensetzung der Personengemeinschaft und bei
-        Beendigung der Leistungserbringung zusätzlich zu den unter den
-        Buchstaben a bis c genannten Merkmalen: Monat und Jahr der Änderung
-        der Zusammensetzung oder der Beendigung der Leistung, bei Ende der
-        Leistung auch Grund der Einstellung der Leistungen,
+4.  bei Änderung der Zusammensetzung der Personengemeinschaft und bei
+    Beendigung der Leistungserbringung zusätzlich zu den unter den Nummern
+    1 bis 3 genannten Merkmalen: Monat und Jahr der Änderung der
+    Zusammensetzung oder der Beendigung der Leistung, bei Ende der
+    Leistung auch Grund der Einstellung der Leistungen,
 
 
-    e)  für Leistungsberechtigte mit Bedarfen für Bildung und Teilhabe nach §
-        34 Absatz 2 bis 7:
+5.  für Leistungsberechtigte mit Bedarfen für Bildung und Teilhabe nach §
+    34 Absatz 2 bis 7:
 
-        aa) Geschlecht, Geburtsmonat und -jahr, Wohngemeinde und Gemeindeteil,
-            Staatsangehörigkeit, bei Ausländern auch aufenthaltsrechtlicher
-            Status,
+    a)  Geschlecht, Geburtsmonat und -jahr, Wohngemeinde und Gemeindeteil,
+        Staatsangehörigkeit, bei Ausländern auch aufenthaltsrechtlicher
+        Status,
 
 
-        bb) die in § 34 Absatz 2 bis 7 genannten Bedarfe je Monat getrennt nach
-            Schulausflügen, mehrtägigen Klassenfahrten, Ausstattung mit
-            persönlichem Schulbedarf, Schülerbeförderung, Lernförderung, Teilnahme
-            an einer gemeinsamen Mittagsverpflegung sowie Teilhabe am sozialen und
-            kulturellen Leben in der Gemeinschaft und
+    b)  die in § 34 Absatz 2 bis 7 genannten Bedarfe je Monat getrennt nach
+        Schulausflügen, mehrtägigen Klassenfahrten, Ausstattung mit
+        persönlichem Schulbedarf, Schülerbeförderung, Lernförderung, Teilnahme
+        an einer gemeinsamen Mittagsverpflegung sowie Teilhabe am sozialen und
+        kulturellen Leben in der Gemeinschaft.
 
 
 
-
-
-
-
-
-2.  für Leistungsberechtigte, die nicht zu dem Personenkreis der Nummer 1
-    zählen: Geschlecht, Altersgruppe, Staatsangehörigkeit, Vorhandensein
-    eigenen Wohnraums, Art des Trägers.
 
 
 
@@ -7451,8 +7481,8 @@ nach Einnahmearten und Leistungen nach § 8.
 1.  Name und Anschrift des Auskunftspflichtigen,
 
 
-2.  für die Erhebung nach § 122 Absatz 1 Nummer 1 und Absatz 3 die
-    Kennnummern der Leistungsberechtigten,
+2.  für die Erhebung nach § 122 Absatz 1 und Absatz 3 die Kennnummern der
+    Leistungsberechtigten,
 
 
 3.  Name und Telefonnummer der für eventuelle Rückfragen zur Verfügung
@@ -7471,21 +7501,20 @@ wiederkehrenden Bestandserhebung zu löschen.
 
 #### § 124 Periodizität, Berichtszeitraum und Berichtszeitpunkte
 
-(1) Die Erhebungen nach § 122 Absatz 1 Nummer 1 Buchstabe a bis c
-werden als Bestandserhebungen jährlich zum 31. Dezember durchgeführt.
-Die Angaben sind darüber hinaus bei Beginn und Ende der
-Leistungserbringung sowie bei Änderung der Zusammensetzung der
-Personengemeinschaft nach § 122 Absatz 1 Nummer 1 Buchstabe c zu
-erteilen. Die Angaben zu § 122 Absatz 1 Nummer 1 Buchstabe d sind
-ebenfalls zum Zeitpunkt der Beendigung der Leistungserbringung und der
-Änderung der Zusammensetzung der Personengemeinschaft zu erteilen.
+(1) Die Erhebungen nach § 122 Absatz 1 Nummer 1 bis 3 werden als
+Bestandserhebungen jährlich zum 31. Dezember durchgeführt. Die Angaben
+sind darüber hinaus bei Beginn und Ende der Leistungserbringung sowie
+bei Änderung der Zusammensetzung der Personengemeinschaft nach § 122
+Absatz 1 Nummer 3 zu erteilen. Die Angaben zu § 122 Absatz 1 Nummer 4
+sind ebenfalls zum Zeitpunkt der Beendigung der Leistungserbringung
+und der Änderung der Zusammensetzung der Personengemeinschaft zu
+erteilen.
 
-(2) Die Erhebung nach § 122 Absatz 1 Nummer 1 Buchstabe e wird für
-jedes abgelaufene Quartal eines Kalenderjahres durchgeführt. Dabei
-sind die Merkmale für jeden Monat eines Quartals zu erheben.
+(2) Die Erhebung nach § 122 Absatz 1 Nummer 5 wird für jedes
+abgelaufene Quartal eines Kalenderjahres durchgeführt. Dabei sind die
+Merkmale für jeden Monat eines Quartals zu erheben.
 
-(3) Die Erhebung nach § 122 Absatz 1 Nummer 2 wird als
-Bestandserhebung vierteljährlich zum Quartalsende durchgeführt.
+(3) (weggefallen)
 
 (4) Die Erhebungen nach § 122 Absatz 3 und 4 erfolgen jährlich für das
 abgelaufene Kalenderjahr.
@@ -7495,8 +7524,8 @@ abgelaufene Kalenderjahr.
 
 (1) Für die Erhebungen nach § 121 besteht Auskunftspflicht. Die
 Angaben nach § 123 Absatz 1 Nummer 3 sowie die Angaben zum
-Gemeindeteil nach § 122 Absatz 1 Nummer 1 Buchstabe c und e sowie
-Absatz 3 Nummer 1 sind freiwillig.
+Gemeindeteil nach § 122 Absatz 1 Nummer 3 und 5 sowie Absatz 3 Nummer
+1 sind freiwillig.
 
 (2) Auskunftspflichtig sind die zuständigen örtlichen und
 überörtlichen Träger der Sozialhilfe sowie die kreisangehörigen
@@ -7571,8 +7600,10 @@ durch das Statistische Bundesamt.
 2.  Art und Höhe der Bedarfe,
 
 
-3.  Art und Höhe der angerechneten Einkommen und der nach § 82 Absatz 2
-    Satz 2, Absatz 3, 4 und 6 sowie nach § 82a abgesetzten Beträge.
+3.  Art und Höhe der angerechneten Einkommen, der nach § 82 Absatz 1 Satz
+    2 Nummer 8 nicht zum Einkommen gehörenden Beträge, der nach § 82
+    Absatz 2 Satz 2 nicht als Einkommen zu berücksichtigenden Beträge und
+    der nach § 82 Absatz 3, 4 und 6 sowie nach § 82a abgesetzten Beträge.
 
 
 
@@ -7610,7 +7641,8 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
     Neunten Kapitel,
 
 
-8.  Bezug einer Grundrente.
+8.  Bezug eines Zuschlages an Entgeltpunkten für langjährige Versicherung
+    (Grundrentenzuschlag) nach § 76g des Sechsten Buches.
 
 
 
@@ -7768,7 +7800,7 @@ Höhe der angerechneten Einkommensart, getrennt nach
 7.  Vermögenseinkünfte,
 
 
-8.  Einkünfte nach dem Bundesversorgungsgesetz,
+8.  Einkünfte nach dem Vierzehnten Buch,
 
 
 9.  Erwerbseinkommen,
@@ -7787,8 +7819,10 @@ Höhe der angerechneten Einkommensart, getrennt nach
 
 
 (2) Weitere Erhebungsmerkmale nach § 128a Absatz 2 Nummer 3 sind die
-Art und Höhe der nach § 82 Absatz 2 Satz 2, Absatz 3, 4 und 6 sowie
-nach § 82a abgesetzten Beträge.
+Art und Höhe der nach § 82 Absatz 1 Satz 2 Nummer 8 nicht zum
+Einkommen gehörenden Beträge, der nach § 82 Absatz 2 Satz 2 nicht als
+Einkommen zu berücksichtigenden Beträge und der nach § 82 Absatz 3, 4
+und 6 sowie nach § 82a abgesetzten Beträge.
 
 
 #### § 128e Hilfsmerkmale
@@ -8055,7 +8089,7 @@ bei denen vor dem 1. Juli 2017 Bedarfe für Unterkunft und Heizung nach
     angemessen gelten, oder
 
 
-2.  nach ihrer Höhe der durchschnittlichen Warmmiete eines
+2.  nach ihrer Höhe die durchschnittliche Warmmiete eines
     Einpersonenhaushaltes im örtlichen Zuständigkeitsbereich des für die
     Ausführung des Gesetzes nach diesem Kapitel zuständigen Trägers nicht
     übersteigen.
@@ -8366,21 +8400,42 @@ Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates
 längstens bis zum 31. Dezember 2022 zu verlängern.
 
 
-### § 142 Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
+### § 142 Verpflegung in Gemeinschaftsunterkünften
 
-(1) Wurde im Oktober 2021 ein Mehrbedarf nach § 42b Absatz 2
-anerkannt, wird dieser bis zum Ablauf des 31. März 2022 in
-unveränderter Höhe auch dann anerkannt, wenn abweichend von § 42b
-Absatz 2 Satz 1 und 2 die Voraussetzungen der Gemeinschaftlichkeit der
-Mittagsverpflegung und der Essenseinnahme in der Verantwortung des
-Leistungsanbieters nicht vorliegen. Für die Berechnung der Höhe des
-Mehrbedarfs sind die Anzahl der für Oktober 2021 berücksichtigten
-Arbeitstage und die sich nach § 42b Absatz 2 Satz 3 ergebenden
-Mehraufwendungen je Arbeitstag zugrunde zu legen.
+Ist eine nach dem Dritten oder Vierten Kapitel leistungsberechtigte
+Person in einer Gemeinschaftsunterkunft ohne
+Selbstversorgungsmöglichkeit untergebracht und wird ihr darin
+unentgeltlich Vollverpflegung und Haushaltsenergie zur Verfügung
+gestellt, liegt insoweit eine anderweitige Bedarfsdeckung durch
+Sachleistungsgewährung vor. Wegen dieser anderweitigen Bedarfsdeckung
+vermindert sich der monatliche Anspruch auf Leistungen für den
+Lebensunterhalt in Abhängigkeit von der jeweils maßgeblichen
+Regelbedarfsstufe wie folgt:
 
-(2) Die Bundesregierung wird ermächtigt, den in Absatz 1 Satz 1
-genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des
-Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
+1.  bei Regelbedarfsstufe 1 um 186 Euro,
+
+
+2.  bei Regelbedarfsstufe 2 um 167 Euro,
+
+
+3.  bei Regelbedarfsstufe 4 um 178 Euro,
+
+
+4.  bei Regelbedarfsstufe 5 um 131 Euro und
+
+
+5.  bei Regelbedarfsstufe 6 um 98 Euro.
+
+
+
+Die Sätze 1 und 2 gelten entsprechend, wenn die Sachleistung im
+Auftrag oder mit Zustimmung des zuständigen Trägers der Sozialhilfe
+durch einen anderen öffentlich-rechtlichen Träger oder einen privaten
+Dritten erbracht wird. Der zuständige Träger der Sozialhilfe hat dem
+öffentlich-rechtlichen Träger oder privaten Betreiber der
+Gemeinschaftsunterkunft ohne Selbstversorgungsmöglichkeit für die
+anderweitige Bedarfsdeckung für Verpflegung und Haushaltsstrom
+Aufwendungen in Höhe der in Satz 2 benannten Beträge zu erstatten.
 
 
 ### § 143 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
@@ -8453,9 +8508,7 @@ des Aufenthaltsgesetzes für einen solchen Aufenthaltstitel ausgestellt
 wurde, gilt der Tatbestand von § 23 Absatz 1 Satz 4 als erfüllt. § 23
 Absatz 3 findet in diesen Fällen keine Anwendung. Der Leistungsbeginn
 richtet sich für Leistungen nach dem Vierten Kapitel nach § 44 und im
-Übrigen nach § 18, frühestens jedoch ab dem Folgemonat, in dem die
-Aufenthaltserlaubnis erteilt oder die Fiktionsbescheinigung
-ausgestellt wurde.
+Übrigen nach § 18.
 
 (2) Absatz 1 gilt auch für Personen, die gemäß § 49 des
 Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind, eine
@@ -8494,6 +8547,15 @@ Asylbewerberleistungsgesetzes zuständigen Behörden unverzüglich
 anzuzeigen. Der für die Durchführung des Asylbewerberleistungsgesetzes
 zuständigen Behörde stehen Erstattungsansprüche nach Maßgabe des § 104
 des Zehnten Buches zu.
+
+
+### § 147 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten die
+Vorschriften des § 36 Absatz 2 Satz 4, des § 43 Absatz 3 Satz 2 und 3,
+des § 82 Absatz 1 Satz 2 und des § 128d Absatz 1 Nummer 8 in der am
+31\. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 28)
 
@@ -8716,6 +8778,21 @@ des Zehnten Buches zu.
     *   318
 
 
+*    *   1. Januar 2024
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
 
 
 Regelbedarfsstufe 1:
@@ -8804,6 +8881,13 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
     *   116 Euro
 
     *   58 Euro
+
+
+*    *   2024
+
+    *   130 Euro
+
+    *   65 Euro
 
 
 

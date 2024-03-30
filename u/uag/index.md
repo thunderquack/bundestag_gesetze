@@ -77,18 +77,15 @@ die in einem anderen Mitgliedstaat der Europäischen Union im Rahmen
 des Artikels 28 Absätze 1 bis 5 der Verordnung (EG) Nr. 1221/2009 nach
 dessen innerstaatlichem Recht zugelassen sind.
 
-(3) Umweltgutachterorganisationen sind eingetragene Vereine,
-Aktiengesellschaften, Kommanditgesellschaften auf Aktien,
-Gesellschaften mit beschränkter Haftung, eingetragene
-Genossenschaften, offene Handelsgesellschaften,
-Kommanditgesellschaften und Partnerschaftsgesellschaften, die zur
-Wahrnehmung der Aufgaben im Sinne der Artikel 4 Absatz 5 sowie Artikel
-6 in Verbindung mit Artikel 18, 19 und 25 bis 27 der Verordnung (EG)
-Nr. 1221/2009 nach diesem Gesetz zugelassen sind, sowie
-Personenvereinigungen, die in einem anderen Mitgliedstaat der
-Europäischen Union im Rahmen des Artikels 28 der Verordnung (EG) Nr.
-1221/2009 nach dessen innerstaatlichem Recht als
-Umweltgutachterorganisationen zugelassen sind.
+(3) Umweltgutachterorganisationen sind juristische Personen und
+rechtsfähige Personengesellschaften, die zur Wahrnehmung der Aufgaben
+im Sinne der Artikel 4 Absatz 5 sowie Artikel 6 in Verbindung mit
+Artikel 18, 19 und 25 bis 27 der Verordnung (EG) Nr. 1221/2009 nach
+diesem Gesetz zugelassen sind, sowie Personenvereinigungen, die in
+einem anderen Mitgliedstaat der Europäischen Union im Rahmen des
+Artikels 28 der Verordnung (EG) Nr. 1221/2009 nach dessen
+innerstaatlichem Recht als Umweltgutachterorganisationen zugelassen
+sind.
 
 (4) Zulassungsbereiche im Sinne dieses Gesetzes sind die Ebenen und
 Zwischenstufen der Klassifizierung gemäß Anhang I der Verordnung (EG)

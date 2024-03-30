@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.12.2022 I 2759
-
-Mittelbare änderung durch
-:   Art. 18 G v. 20.12.2022 I 2759 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 22 Nr. 1 G v. 20.12.2022 I 2759 ist berücksichtigt
+:   Art. 2a G v. 22.12.2023 I Nr. 408
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -124,12 +118,12 @@ Ein Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen
 eines Versicherten.
 
 
-### § 5 Soziale Entschädigung bei Gesundheitsschäden
+### § 5 Soziale Entschädigung
 
 Wer einen Gesundheitsschaden erleidet, für dessen Folgen die
 staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus
-anderen Gründen nach versorgungsrechtlichen Grundsätzen einsteht, hat
-ein Recht auf
+anderen Gründen nach Grundsätzen des Sozialen Entschädigungsrechts
+einsteht, hat ein Recht auf
 
 1.  die notwendigen Maßnahmen zur Erhaltung, zur Besserung und zur
     Wiederherstellung der Gesundheit und der Leistungsfähigkeit und
@@ -139,8 +133,8 @@ ein Recht auf
 
 
 
-Ein Recht auf angemessene wirtschaftliche Versorgung haben auch die
-Hinterbliebenen eines Beschädigten.
+Ein Recht auf angemessene Leistungen der Sozialen Entschädigung haben
+auch die Hinterbliebenen eines Geschädigten.
 
 
 ### § 6 Minderung des Familienaufwands
@@ -685,39 +679,57 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
 
 
 
-#### § 24 Versorgungsleistungen bei Gesundheitsschäden
+#### § 24 Leistungen der Sozialen Entschädigung
 
-(1) Nach dem Recht der sozialen Entschädigung bei Gesundheitsschäden
-können in Anspruch genommen werden:
+(1) Nach dem Recht der Sozialen Entschädigung können in Anspruch
+genommen werden:
 
-1.  Heil- und Krankenbehandlung sowie andere Leistungen zur Erhaltung,
-    Besserung und Wiederherstellung der Leistungsfähigkeit einschließlich
-    wirtschaftlicher Hilfen,
-
-
-2.  besondere Hilfen im Einzelfall einschließlich Leistungen zur Teilhabe
-    am Arbeitsleben,
+1.  Leistungen des Fallmanagements und Leistungen in einer Traumaambulanz
+    als Schnelle Hilfen,
 
 
-3.  Renten wegen anerkannten Schädigungsfolgen,
+2.  Krankenbehandlung,
 
 
-4.  Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,
+3.  Leistungen zur Teilhabe,
 
 
-5.  Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.
+4.  Leistungen bei Pflegebedürftigkeit,
+
+
+5.  Leistungen bei Blindheit,
+
+
+6.  Entschädigungszahlungen,
+
+
+7.  Berufsschadensausgleich,
+
+
+8.  Besondere Leistungen im Einzelfall,
+
+
+9.  Leistungen bei Überführung und Bestattung,
+
+
+10. Ausgleich in Härtefällen,
+
+
+11. Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland sowie
+
+
+12. Leistungen nach den Vorschriften zu Besitzständen.
 
 
 
 
-(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter
-und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen
-im Einzelfall sind die Kreise und kreisfreien Städte sowie die
-Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und
+(2) Zuständig sind die nach Bundesrecht oder Landesrecht bestimmten
+Träger der Sozialen Entschädigung. Bei der Durchführung der
 Krankenbehandlung wirken die Träger der gesetzlichen
-Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis
-83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung
-zuständig.
+Krankenversicherung und bei der Durchführung der Hilfsmittelversorgung
+die Träger der gesetzlichen Unfallversicherung mit. Für die Leistungen
+nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die
+Bundeswehrverwaltung zuständig.
 
 
 #### § 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
@@ -921,8 +933,8 @@ Menschen können in Anspruch genommen werden
 
 4.  unterhaltssichernde und andere ergänzende Leistungen, insbesondere
 
-    a)  Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld,
-        Ausbildungsgeld oder Unterhaltsbeihilfe,
+    a)  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld,
+        Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
 
 
     b)  Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und
@@ -1168,45 +1180,89 @@ elektronische Form ersetzt werden. Der elektronischen Form genügt ein
 elektronisches Dokument, das mit einer qualifizierten elektronischen
 Signatur versehen ist. Die Signierung mit einem Pseudonym, das die
 Identifizierung der Person des Signaturschlüsselinhabers nicht
-unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die
-Schriftform kann auch ersetzt werden
+unmittelbar durch die Behörde ermöglicht, ist nicht zulässig.
+
+(2a) Die Schriftform kann auch ersetzt werden
 
 1.  durch unmittelbare Abgabe der Erklärung in einem elektronischen
     Formular, das von der Behörde in einem Eingabegerät oder über
-    öffentlich zugängliche Netze zur Verfügung gestellt wird;
+    öffentlich zugängliche Netze zur Verfügung gestellt wird, wenn
+
+    a)  bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer
+        Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12
+        des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes
+        erfolgt;
 
 
-2.  bei Anträgen und Anzeigen durch Versendung eines elektronischen
-    Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-
-    Mail-Gesetzes;
+    b)  bei der Kommunikation zwischen dem Versicherten und seiner
+        Krankenkasse die Identität mit der elektronischen Gesundheitskarte
+        nach § 291a des Fünften Buches oder mit der digitalen Identität nach §
+        291 Absatz 8 des Fünften Buches elektronisch nachgewiesen wird;
+
+
+    c)  die Voraussetzungen nach § 9a Absatz 5 des Onlinezugangsgesetzes
+        vorliegen;
+
+
+
+
+
+2.  durch Übermittlung einer von dem Erklärenden elektronisch signierten
+    Erklärung an die Behörde
+
+    a)  aus einem besonderen elektronischen Anwaltspostfach nach den §§ 31a
+        und 31b der Bundesrechtsanwaltsordnung oder aus einem entsprechenden,
+        auf gesetzlicher Grundlage errichteten elektronischen Postfach;
+
+
+    b)  aus einem elektronischen Postfach einer Behörde oder einer
+        juristischen Person des öffentlichen Rechts, das nach Durchführung
+        eines Identifizierungsverfahrens nach den Regelungen der auf Grund des
+        § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen
+        Rechtsverordnung eingerichtet wurde;
+
+
+    c)  aus einem elektronischen Postfach einer natürlichen oder juristischen
+        Person oder einer sonstigen Vereinigung, das nach Durchführung eines
+        Identifizierungsverfahrens nach den Regelungen der auf Grund des §
+        130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen
+        Rechtsverordnung eingerichtet wurde;
+
+
+    d)  mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+
+
+
 
 
 3.  bei elektronischen Verwaltungsakten oder sonstigen elektronischen
-    Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach
-    § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des
-    akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des
-    De-Mail-Kontos erkennen lässt;
+    Dokumenten der Behörde
+
+    a)  indem diese mit dem qualifizierten elektronischen Siegel der Behörde
+        versehen werden;
 
 
-4.  durch sonstige sichere Verfahren, die durch Rechtsverordnung der
-    Bundesregierung mit Zustimmung des Bundesrates festgelegt werden,
-    welche den Datenübermittler (Absender der Daten) authentifizieren und
-    die Integrität des elektronisch übermittelten Datensatzes sowie die
-    Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen
-    zu geeigneten Verfahren ab.
+    b)  durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-
+        Mail-Gesetzes, bei der die Bestätigung des akkreditierten
+        Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos
+        erkennen lässt.
 
 
 
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über
-öffentlich zugängliche Netze ein elektronischer Identitätsnachweis
-nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-
-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in
-der Kommunikation zwischen dem Versicherten und seiner Krankenkasse
-kann die Identität auch mit der elektronischen Gesundheitskarte nach §
-291a des Fünften Buches oder mit der digitalen Identität nach § 291
-Absatz 8 des Fünften Buches elektronisch nachgewiesen werden.
 
-(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten
+
+
+
+(2b) Ermöglicht die Behörde die unmittelbare Abgabe einer Erklärung in
+einem elektronischen Formular, das von der Behörde in einem
+Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung
+gestellt wird, so hat sie dem Erklärenden vor Abgabe der Erklärung
+Gelegenheit zu geben, die gesamte Erklärung auf Vollständigkeit und
+Richtigkeit zu prüfen. Nach der Abgabe ist dem Erklärenden eine Kopie
+der Erklärung zur Verfügung zu stellen. Die Sätze 1 und 2 gelten nicht
+für Absatz 2a Nummer 1 Buchstabe c.
+
+(2c) Ist durch Rechtsvorschrift die Verwendung eines bestimmten
 Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird
 allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer
 für die elektronische Versendung an die Behörde bestimmten Fassung des
@@ -1874,39 +1930,25 @@ als dessen besondere Teile:
 6.  das Zweite Gesetz über die Krankenversicherung der Landwirte,
 
 
-7.  das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere
+7.  Gesetze, die eine entsprechende Anwendung der Leistungsvorschriften
+    des Vierzehnten Buches vorsehen, insbesondere
 
-    a)  §§ 80 bis 83a des Soldatenversorgungsgesetzes,
-
-
-    b)  § 59 Abs. 1 des Bundesgrenzschutzgesetzes,
+    a)  § 59 Absatz 1 des Bundesgrenzschutzgesetzes,
 
 
-    c)  § 47 des Zivildienstgesetzes,
+    b)  die §§ 4 und 5 des Häftlingshilfegesetzes,
 
 
-    d)  § 60 des Infektionsschutzgesetzes,
+    c)  die §§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes sowie
 
 
-    e)  §§ 4 und 5 des Häftlingshilfegesetzes,
-
-
-    f)  § 1 des Opferentschädigungsgesetzes,
-
-
-    g)  §§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes,
-
-
-    h)  §§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,
+    d)  die §§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,
 
 
 
 
-    die entsprechende Anwendung der Leistungsvorschriften des
-    Bundesversorgungsgesetzes vorsehen,
 
-
-8.  das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,
+8.  (weggefallen)
 
 
 9.  das Bundeskindergeldgesetz,
@@ -1934,10 +1976,12 @@ als dessen besondere Teile:
 16. das Altersteilzeitgesetz,
 
 
-17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes.
+17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes,
 
 
-18. (weggefallen)
+18. die §§ 80 bis 83a des Soldatenversorgungsgesetzes, soweit sie die
+    entsprechende Anwendung des Bundesversorgungsgesetzes in der bis zum
+    31\. Dezember 2023 geltenden Fassung vorsehen.
 
 
 
@@ -1962,4 +2006,12 @@ in der seit dem 1. Januar 2002 geltenden Fassung.
 § 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden,
 soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht
 erbracht werden.
+
+
+### § 72 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt die
+Vorschrift des § 29 Absatz 1 Nummer 4 Buchstabe a in der bis zum 31.
+Dezember 2023 geltenden Fassung weiter.
 

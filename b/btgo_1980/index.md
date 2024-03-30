@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1237
 
 Zuletzt geändert durch
-:   Beschluss d. Bundestages v. 15.12.2022 gem. Bek. v. 15.12.2022 I 2598
+:   Beschluss d. Bundestages v. 22.2.2024 gem. Bek. v. 22.2.2024 I Nr. 64
 
 Konstitutiv neugefasst durch
 :   Bek. v. 2.7.1980 I 1237

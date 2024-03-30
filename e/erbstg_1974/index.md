@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 27.2.1997 I 378;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 16.7.2021 I 2947
+:   Art. 28 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 28 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Abschnitt 1 - Steuerpflicht
@@ -129,6 +132,17 @@ dort Naturschätze des Meeresgrundes und des Meeresuntergrundes
 erforscht oder ausgebeutet werden.
 
 (3) (weggefallen)
+
+
+### § 2a Rechtsfähige Personengesellschaft
+
+Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der
+Abgabenordnung) gelten für Zwecke der Erbschaft- und Schenkungsteuer
+als Gesamthand und deren Vermögen als Gesamthandsvermögen. Bei einem
+Erwerb nach § 1 Absatz 1 Nummer 1 bis 3 durch eine rechtsfähige
+Personengesellschaft gelten deren Gesellschafter als Erwerber. Bei
+einer Zuwendung durch eine rechtsfähige Personengesellschaft gelten
+deren Gesellschafter als Zuwendende.
 
 
 ### § 3 Erwerb von Todes wegen
@@ -519,16 +533,16 @@ abgezogen werden. Die vom Erblasser herrührenden
 Steuererstattungsansprüche sind bei der Ermittlung der Bereicherung zu
 berücksichtigen, auch wenn sie rechtlich erst nach dem Tod des
 Erblassers entstanden sind. Der unmittelbare oder mittelbare Erwerb
-einer Beteiligung an einer Personengesellschaft oder einer anderen
-Gesamthandsgemeinschaft, die nicht unter § 97 Abs. 1 Satz 1 Nr. 5 des
-Bewertungsgesetzes fällt, gilt als Erwerb der anteiligen
-Wirtschaftsgüter; die dabei übergehenden Schulden und Lasten der
-Gesellschaft sind bei der Ermittlung der Bereicherung des Erwerbers
-wie eine Gegenleistung zu behandeln. Bei der Zweckzuwendung tritt an
-die Stelle des Vermögensanfalls die Verpflichtung des Beschwerten. Der
-steuerpflichtige Erwerb wird auf volle 100 Euro nach unten abgerundet.
-In den Fällen des § 1 Abs. 1 Nr. 4 tritt an die Stelle des
-Vermögensanfalls das Vermögen der Stiftung oder des Vereins.
+einer Beteiligung an einer Personenvereinigung, die nicht unter § 97
+Abs. 1 Satz 1 Nr. 5 des Bewertungsgesetzes fällt, gilt als Erwerb der
+anteiligen Wirtschaftsgüter; die dabei übergehenden Schulden und
+Lasten der Gesellschaft sind bei der Ermittlung der Bereicherung des
+Erwerbers wie eine Gegenleistung zu behandeln. Bei der Zweckzuwendung
+tritt an die Stelle des Vermögensanfalls die Verpflichtung des
+Beschwerten. Der steuerpflichtige Erwerb wird auf volle 100 Euro nach
+unten abgerundet. In den Fällen des § 1 Abs. 1 Nr. 4 tritt an die
+Stelle des Vermögensanfalls das Vermögen der Stiftung oder des
+Vereins.
 
 (2) Hat der Erblasser die Entrichtung der von dem Erwerber
 geschuldeten Steuer einem anderen auferlegt oder hat der Schenker die
@@ -1557,12 +1571,13 @@ Absatzes 6 außer Betracht.
 
 
     d)  die überlassenen Grundstücke, Grundstücksteile, grundstücksgleichen
-        Rechte und Bauten zum Betriebsvermögen, zum gesamthänderisch
-        gebundenen Betriebsvermögen einer Personengesellschaft oder zum
-        Vermögen einer Kapitalgesellschaft gehören und der Hauptzweck des
-        Betriebs in der Vermietung von Wohnungen im Sinne des § 181 Absatz 9
-        des Bewertungsgesetzes besteht, dessen Erfüllung einen
-        wirtschaftlichen Geschäftsbetrieb (§ 14 der Abgabenordnung) erfordert;
+        Rechte und Bauten zum Betriebsvermögen, zum Betriebsvermögen im Sinne
+        des § 97 Absatz 1a Nummer 1 des Bewertungsgesetzes einer
+        Personengesellschaft oder zum Vermögen einer Kapitalgesellschaft
+        gehören und der Hauptzweck des Betriebs in der Vermietung von
+        Wohnungen im Sinne des § 181 Absatz 9 des Bewertungsgesetzes besteht,
+        dessen Erfüllung einen wirtschaftlichen Geschäftsbetrieb (§ 14 der
+        Abgabenordnung) erfordert;
 
 
     e)  die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und
@@ -2061,11 +2076,11 @@ oder eines entsprechenden Nachfolgerechtsaktes.
 
 ### § 18 Mitgliederbeiträge
 
-Beiträge an Personenvereinigungen, die nicht lediglich die Förderung
-ihrer Mitglieder zum Zweck haben, sind steuerfrei, soweit die von
-einem Mitglied im Kalenderjahr der Vereinigung geleisteten Beiträge
-300 Euro nicht übersteigen. § 13 Abs. 1 Nr. 16 und 18 bleibt
-unberührt.
+Beiträge an Personenvereinigungen und rechtsfähige Vereine, die nicht
+lediglich die Förderung ihrer Mitglieder zum Zweck haben, sind
+steuerfrei, soweit die von einem Mitglied im Kalenderjahr der
+Vereinigung geleisteten Beiträge 300 Euro nicht übersteigen. § 13 Abs.
+1 Nr. 16 und 18 bleibt unberührt.
 
 
 ### § 19 Steuersätze

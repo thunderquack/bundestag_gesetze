@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2006, 2782, 2791
 
 Zuletzt geändert durch
-:   Art. 11 G v. 16.12.2022 I 2294
+:   Art. 34 Abs. 8 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 11 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -56,9 +59,8 @@ Diese Teile gelten nicht für die Ausgliederung im Sinne des § 123 Abs.
 (3) Der Sechste bis Achte Teil gilt nur für
 
 1.  die Verschmelzung, Aufspaltung und Abspaltung im Sinne der §§ 2 und
-    123 Abs. 1 und 2 des Umwandlungsgesetzes von
-    Personenhandelsgesellschaften und Partnerschaftsgesellschaften oder
-    vergleichbare ausländische Vorgänge;
+    123 Abs. 1 und 2 des Umwandlungsgesetzes von Personengesellschaften
+    oder vergleichbare ausländische Vorgänge;
 
 
 2.  die Ausgliederung von Vermögensteilen im Sinne des § 123 Abs. 3 des
@@ -1344,8 +1346,9 @@ Wirtschaftsgütern bis zum 12. Dezember 2006 übergegangen ist.
         erfolgt, wenn die Einkommensteuer noch nicht bestandskräftig
         festgesetzt ist und das die Besteuerung auslösende Ereignis vor dem 1.
         Januar 2022 eingetreten ist; § 6 Absatz 6 und 7 des
-        Außensteuergesetzes in der am 30. Juni 2021 geltenden Fassung ist
-        entsprechend anzuwenden;
+        Außensteuergesetzes in der bis zum 30. Juni 2021 geltenden Fassung und
+        § 21 Absatz 3 Satz 2 des Außensteuergesetzes sind entsprechend
+        anzuwenden;
 
 
     b)  eine Stundung oder ein Entfallen der Steuer gemäß § 6 Absatz 3 und 4

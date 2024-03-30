@@ -156,7 +156,7 @@ Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 (1) Für die Erfüllung der Pflichten nach § 3 Abs. 1, §§ 4 und 5 haben
 der Rechtsträger des Unternehmens und die Personen einzustehen, die
 als Mitglieder des vertretungsberechtigten Organs einer juristischen
-Person, als vertretungsberechtigte Gesellschafter einer
+Person, als vertretungsberechtigte Gesellschafter einer rechtsfähigen
 Personengesellschaft oder in sonstiger Weise unmittelbar oder
 mittelbar zur gesetzlichen oder organschaftlichen Vertretung des
 Rechtsträgers des Unternehmens berufen sind.

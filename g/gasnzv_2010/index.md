@@ -15,9 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1261
 
+Stand: Die V tritt gem. Art. 15 Abs. 6 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2025 außer Kraft
 Zuletzt geändert durch
-:   Art. 8 G v. 16.7.2021 I 3026
+:   Art. 6 G v. 22.12.2023 I Nr. 405
 
+Stand: Die V ist gem. Artikel 9 Satz 1 V v. 3.9.2010 I 1261 am 9.9.2010 in Kraft getreten
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -69,7 +71,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 7.  „Brennwert „H
-[^F774449_01_BJNR126110010BJNE000302377]
+[^F774449_01_BJNR126110010BJNE000303377]
     s,n                   “ “ ist die nach DIN EN ISO 6976 (Ausgabe:
     September 2005)
     bei vollständiger Verbrennung freiwerdende Wärme in Kilowattstunde pro
@@ -98,11 +100,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     Bilanzkreise übertragen können;
 
 
-11. „Marktgebietsverantwortlicher“ ist die von den
-    Fernleitungsnetzbetreibern bestimmte natürliche oder juristische
-    Person, die in einem Marktgebiet Leistungen erbringt, die zur
-    Verwirklichung einer effizienten Abwicklung des Gasnetzzugangs in
-    einem Marktgebiet durch eine Person zu erbringen sind;
+11. (weggefallen)
 
 
 11a. „Realisierungsfahrplan“ ist ein gemeinsamer Plan von Netzbetreiber und
@@ -146,7 +144,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     Amtlicher Hinweis: Zu beziehen bei Beuth-Verlag GmbH, Berlin;
     archivmäßig gesichert niedergelegt beim Deutschen Patent- und
     Markenamt.
-[^F774449_01_BJNR126110010BJNE000302377]: 
+[^F774449_01_BJNR126110010BJNE000303377]: 
 
 ## Teil 2 - Vertragliche Ausgestaltung des Netzzugangs
 
@@ -1786,30 +1784,10 @@ Netzanschlusspflicht nach § 39b über den 1. Juni 2024 hinaus notwendig
 ist.
 
 
-## Teil 8 - Veröffentlichungs- und Informationspflichten
+## Teil 8 - (weggefallen)
 
 
-### § 40 Veröffentlichungspflichten
-
-Marktgebietsverantwortliche veröffentlichen auf ihrer Internetseite:
-
-1.  die Methoden, nach denen die Ausgleichs- und Regelenergieentgelte
-    berechnet werden;
-
-
-2.  unverzüglich nach der Bilanzierungsperiode die verwendeten Entgelte
-    für Ausgleichsenergie sowie
-
-
-3.  jeweils am Folgetag des Einsatzes der Regelenergie und mindestens für
-    die zwölf zurückliegenden Monate, Informationen über den Einsatz
-    interner und externer Regelenergie. Bei externer Regelenergie haben
-    die Marktgebietsverantwortlichen zwischen externen Flexibilitäten und
-    externen Gasmengen zu unterscheiden. Sie haben auch anzugeben, welcher
-    Anteil der externen Regelenergie auf Grund lokaler oder räumlich
-    begrenzter Ungleichgewichte eingesetzt wurde.
-
-
+### § 40 (weggefallen)
 
 
 
@@ -1950,8 +1928,9 @@ Netzbetriebs Entscheidungen durch Festlegungen nach § 29 Absatz 1 des
 Energiewirtschaftsgesetzes treffen:
 
 1.  zu den Verträgen nach den §§ 3, 7 und 33 sowie den
-    Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 40 Absatz 1a
-    Nummer 2, sofern nicht ein Standardangebot angewendet wird;
+    Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 23c Absatz 4
+    Nummer 8 des Energiewirtschaftsgesetzes, sofern nicht ein
+    Standardangebot angewendet wird;
 
 
 2.  zu den Voraussetzungen und Grenzen für technische Ausspeisemeldungen
@@ -1988,7 +1967,7 @@ Energiewirtschaftsgesetzes treffen:
     müssen;
 
 
-8.[^F774449_04_BJNR126110010BJNE005104377]
+8.[^F774449_04_BJNR126110010BJNE005105377]
   zum System und der Beschaffenheit des Netzanschlusses von Anlagen zur
     Aufbereitung von Biogas an das Gasversorgungsnetz, der Einspeisung von
     Biogas in das Erdgasnetz, zur Vereinheitlichung von technischen
@@ -2103,15 +2082,7 @@ Erarbeitung von Lastprofilen für bestimmte Verbrauchergruppen
 terminliche Vorgaben machen. Dabei sind die Erfahrungen der
 Marktteilnehmer angemessen zu berücksichtigen.
 
-(5) Die Regulierungsbehörde kann die Netzbetreiber auch verpflichten,
-über die Angaben in § 40 hinaus weitere Informationen zu
-veröffentlichen oder an die Regulierungsbehörde zu übermitteln, die
-für den Wettbewerb im Gashandel oder bei der Belieferung der Kunden
-erforderlich sind. Die Regulierungsbehörde kann die Netzbetreiber und
-Transportkunden verpflichten, bei der Erfüllung von Veröffentlichungs-
-und Datenübermittlungspflichten aus dieser Verordnung oder aus
-Festlegungsentscheidungen auf der Grundlage dieser Verordnung
-bestimmte einheitliche Formate einzuhalten.
+(5) (weggefallen)
 
 (6) Die Regulierungsbehörde macht Festlegungsentscheidungen in ihrem
 Amtsblatt öffentlich bekannt und veröffentlicht sie kostenfrei im
@@ -2123,15 +2094,15 @@ Netzbetreiber auffordern, ihr innerhalb einer bestimmten, angemessenen
 Frist ein Standardangebot für Geschäftsbedingungen nach § 4 und für
 die Ausgestaltung der Kapazitätsprodukte nach § 11 vorzulegen,
 insbesondere in Bezug auf die Möglichkeit zur nachträglichen Änderung
-der Nominierung sowie auf standardisierte Bedingungen nach § 40 Absatz
-1a Nummer 2. Sie kann in dieser Aufforderung Vorgaben für die
-Ausgestaltung einzelner Bedingungen machen, insbesondere in Bezug auf
-Diskriminierungsfreiheit und Angemessenheit. Sie gibt den Verbänden
-der Netzbetreiber und den Verbänden der Transportkunden in geeigneter
-Form Gelegenheit zur Stellungnahme und kann unter Berücksichtigung der
-Stellungnahmen durch Festlegung Änderungen der Standardangebote
-vornehmen, insbesondere soweit einzelne Vorgaben nicht umgesetzt
-worden sind.
+der Nominierung sowie auf standardisierte Bedingungen nach § 23c
+Absatz 4 Nummer 8 des Energiewirtschaftsgesetzes. Sie kann in dieser
+Aufforderung Vorgaben für die Ausgestaltung einzelner Bedingungen
+machen, insbesondere in Bezug auf Diskriminierungsfreiheit und
+Angemessenheit. Sie gibt den Verbänden der Netzbetreiber und den
+Verbänden der Transportkunden in geeigneter Form Gelegenheit zur
+Stellungnahme und kann unter Berücksichtigung der Stellungnahmen durch
+Festlegung Änderungen der Standardangebote vornehmen, insbesondere
+soweit einzelne Vorgaben nicht umgesetzt worden sind.
 
 (8) Die Regulierungsbehörde kann Netzbetreiber und
 Marktgebietsverantwortliche verpflichten, innerhalb einer bestimmten,
@@ -2152,7 +2123,7 @@ worden sind.
     Verlagsgesellschaft Gas und Wasser mit beschränkter Haftung, Bonn,
     archivmäßig niedergelegt beim Deutschen Verein des Gas- und
     Wasserfachs e. V.
-[^F774449_04_BJNR126110010BJNE005104377]: 
+[^F774449_04_BJNR126110010BJNE005105377]: 
 
 ## Teil 13 - Sonstige Bestimmungen
 
@@ -2187,15 +2158,10 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 7.  entgegen § 33 Absatz 6 Satz 3 ein Vertragsangebot nicht oder nicht
-    rechtzeitig vorlegt,
+    rechtzeitig vorlegt oder
 
 
-8.  entgegen § 40 Absatz 1 Nummer 2 oder § 40 Absatz 2 Nummer 2 oder
-    Nummer 3 Satz 1 eine Veröffentlichung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig vornimmt oder
-
-
-9.  einer vollziehbaren Anordnung nach § 50 Absatz 5 zuwiderhandelt.
+8.  einer vollziehbaren Anordnung nach § 50 Absatz 5 zuwiderhandelt.
 
 
 

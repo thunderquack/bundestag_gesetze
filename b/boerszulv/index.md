@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2832;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1423
+:   Art. 4 G v. 11.12.2023 I Nr. 354
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
@@ -43,7 +43,7 @@ Emittent seinen Sitz hat.
 (1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls
 seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft
 im Sinne des § 266 Abs. 3 Buchstabe A des Handelsgesetzbuchs, deren
-Aktien zugelassen werden sollen, muß mindestens 1.250.000 Euro
+Aktien zugelassen werden sollen, muß mindestens 1 000 000 Euro
 betragen. Dies gilt nicht, wenn Aktien derselben Gattung an dieser
 Börse bereits zum regulierten Markt zugelassen sind.
 

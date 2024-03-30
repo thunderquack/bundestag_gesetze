@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 274
 
+Änderung durch
+:   Art. 7 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 2124-18 v. 2.8.1993 I 1402 (MTAG 1993)
 
 ## Teil 1 - Erlaubnis zum Führen der Berufsbezeichnung
@@ -1948,6 +1951,60 @@ Person der zuständigen Behörde die entsprechenden Nachweise,
 Bescheinigungen und Erklärungen vorzulegen.
 
 
+#### § 59a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+(1) Für die Erbringung von vorübergehenden und gelegentlichen
+Dienstleistungen im Sinne des Artikels 57 des Vertrages über die
+Arbeitsweise der Europäischen Union im Rahmen einer partiellen
+Berufsausübung bedarf es einer Genehmigung durch die zuständige
+Behörde. Die Genehmigung wird auf Antrag erteilt, wenn:
+
+1.  die antragstellende Person eine Staatsangehörige oder ein
+    Staatsangehöriger eines Mitgliedstaates, eines Vertragsstaates oder
+    eines gleichgestellten Staates ist,
+
+
+2.  die antragstellende Person in einem anderen Mitgliedstaat, in einem
+    anderen Vertragsstaat oder einem gleichgestellten Staat zur Ausübung
+    des Berufs, dessen Tätigkeit der Tätigkeit in einem der in diesem
+    Gesetz geregelten Berufe nur partiell entspricht, rechtmäßig
+    niedergelassen ist und
+
+    a)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in
+        diesem gleichgestellten Staat reglementiert ist oder
+
+
+    b)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in
+        diesem gleichgestellten Staat nicht reglementiert ist und die
+        antragstellende Person diesen Beruf während der vorhergehenden zehn
+        Jahre mindestens ein Jahr lang in einem oder in mehreren
+        Mitgliedstaaten, Vertragsstaaten oder gleichgestellten Staaten
+        rechtmäßig ausgeübt hat,
+
+
+
+
+
+3.  die Voraussetzungen nach § 53 Absatz 1 Nummer 1 bis 4 vorliegen.
+
+
+
+
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im
+Rahmen einer partiellen Berufsausübung haben beim Erbringen der
+Dienstleistung in Deutschland im Umfang dieser Genehmigung die
+gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum
+Führen der Berufsbezeichnung nach § 1 Absatz 1 Nummer 1, 2, 3 oder 4.
+Sie dürfen insbesondere eine oder mehrere vorbehaltene Tätigkeiten
+nach § 5 ausüben, soweit sie in den Umfang der Genehmigung zur
+Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+fallen.
+
+(3) Die §§ 2 bis 4, 53 Absatz 2, 3 und 4, § 54 Absatz 2, die §§ 55, 59
+Absatz 3 und 4, § 63 Absatz 1 bis 3, die §§ 64 bis 67 und 68 Absatz 1
+und 2 gelten entsprechend.
+
+
 ### Abschnitt 2 - Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in gleichgestellten Staaten
 
 
@@ -2035,8 +2092,9 @@ anderen Land oder einer gemeinsamen Einrichtung wahrgenommen werden.
 ### § 63 Unterrichtungs- und Überprüfungspflichten
 
 (1) Die zuständige Behörde des Landes, in dem eine Person einen in
-diesem Gesetz geregelten Beruf ausübt oder zuletzt ausgeübt hat,
-unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
+diesem Gesetz geregelten Beruf vollständig oder partiell ausübt oder
+zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des
+Herkunftsstaates, wenn
 
 1.  sich diese Person eines Verhaltens schuldig gemacht hat, welches sich
     auf die Ausübung eines der in diesem Gesetz geregelten Berufe
@@ -2059,9 +2117,10 @@ unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
 
 
 (2) Erhält die zuständige Behörde eines Landes Auskünfte von der
-zuständigen Behörde eines Aufnahmestaates, die sich auf die Ausübung
-eines der in diesem Gesetz geregelten Berufe durch eine Person im
-Geltungsbereich dieses Gesetzes auswirken könnten, so hat sie
+zuständigen Behörde eines Aufnahmestaates, die sich auf die
+vollständige oder partielle Ausübung eines der in diesem Gesetz
+geregelten Berufe durch eine Person im Geltungsbereich dieses Gesetzes
+auswirken könnten, so hat sie
 
 1.  die Richtigkeit der ihr übermittelten Auskünfte zu überprüfen,
 
@@ -2094,7 +2153,10 @@ Behörden zuständig sind für
 
 
 3.  die Entgegennahme der Meldung über eine Dienstleistungserbringung nach
-    § 57 oder
+    § 55,
+
+
+3a. die Entscheidungen nach Teil 5 oder
 
 
 4.  sonstige Entscheidungen, die im Zusammenhang mit der Richtlinie
@@ -2257,10 +2319,11 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 ### § 68 Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
-dieses Gesetzes einen der in diesem Gesetz geregelten Berufe aus oder
-führt sie eine der Berufsbezeichnungen nach § 1 Absatz 1, ohne dass
-die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige
-Behörde unverzüglich die zuständige Behörde des Staates, in dem die
+dieses Gesetzes einen der in diesem Gesetz geregelten Berufe
+vollständig oder partiell aus oder führt sie eine der
+Berufsbezeichnungen nach § 1 Absatz 1, ohne dass die Voraussetzungen
+nach Teil 5 vorliegen, unterrichtet die zuständige Behörde
+unverzüglich die zuständige Behörde des Staates, in dem die
 dienstleistungserbringende Person niedergelassen ist, über den
 Verstoß.
 
@@ -2367,7 +2430,38 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 
 5.  das Verfahren und das Nähere zu den Voraussetzungen der
-    Dienstleistungserbringung.
+    Dienstleistungserbringung,
+
+
+6.  für Berufsangehörige, die einen Antrag nach § 53 oder nach § 59a
+    stellen,
+
+    a)  das Verfahren und das Nähere zu den jeweiligen Voraussetzungen
+        partiellen Berufsausübung, insbesondere
+
+        aa) die Fristen für die Erteilung der Erlaubnis zur partiellen
+            Berufsausübung nach § 53,
+
+
+        bb) das Verfahren bei der Prüfung der Voraussetzungen des § 53,
+            insbesondere die von der antragstellenden Person vorzulegenden
+            Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
+            Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
+            2005/36/EG,
+
+
+        cc) die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach § 53
+            und
+
+
+
+
+
+    b)  das Verfahren und das Nähere zu den Voraussetzungen der
+        Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
+
+
+
 
 
 

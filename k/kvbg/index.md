@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 1818
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.12.2022 I 2479
+:   Art. 14 G v. 22.12.2023 I Nr. 405
 
 [^F812505_01_BJNR181810020]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -2345,11 +2345,10 @@ Kalenderjahres gesondert erstattet.
 (9) Die Übertragungsnetzbetreiber dürfen die ihnen nach Absatz 1
 entstehenden Kosten nach Abzug der entstehenden Erlöse und etwaiger
 Sanktionszahlungen nach Absatz 6 über die Netzentgelte geltend machen.
-Die Kosten mit Ausnahme der Erzeugungsauslagen nach Absatz 6 Satz 4
-gelten als dauerhaft nicht beeinflussbare Kostenanteile nach § 11
-Absatz 2 Satz 1 der Anreizregulierungsverordnung. Im Übrigen ist § 13e
-Absatz 3 Satz 5 und 6 des Energiewirtschaftsgesetzes entsprechend
-anzuwenden.
+Die Bundesnetzagentur kann zur geeigneten und angemessenen
+Berücksichtigung der bei den Betreibern von Übertragungsnetzen
+anfallenden Kosten in den Netzentgelten Festlegungen nach § 21a des
+Energiewirtschaftsgesetzes treffen.
 
 (10) Ergibt die Überprüfung im Jahr 2026 gemäß § 47 Absatz 2 und den
 §§ 54 und 56, dass eine Überführung von Braunkohleanlagen in eine

@@ -408,7 +408,10 @@ nehmen;
     erforderlichen Angaben ersichtlich sind,
 
 
-2.  (weggefallen)
+2.  die Arbeitserlaubnis der Bundesagentur für Arbeit nach § 15d der
+    Beschäftigungsverordnung oder der nach § 19c Absatz 1 des
+    Aufenthaltsgesetzes in Verbindung mit § 15d der
+    Beschäftigungsverordnung erteilte Aufenthaltstitel,
 
 
 3.  die Daten der erstatteten Meldungen,

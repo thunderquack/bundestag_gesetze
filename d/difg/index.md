@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2525
 
-Geändert durch
-:   Art. 1 G v. 14.7.2020 I 1683
+Zuletzt geändert durch
+:   Art. 2 G v. 22.12.2023 I Nr. 412
+
+G aufgeh. durch
+:   § 10 idF d. Art. 2 Nr. 3 G v. 22.12.2023 I Nr. 412 mWv 1.4.2023
 
 
 ## Eingangsformel
@@ -65,35 +68,7 @@ bedienen.
 Rechten und Verbindlichkeiten zu trennen.
 
 
-## § 4 Vermögen des Sondervermögens und Finanzierung
-
-(1) Dem Sondervermögen fließen die Einnahmen des Bundes zu, die sich
-
-1.  auf Grund eines von der Bundesnetzagentur für Elektrizität, Gas,
-    Telekommunikation, Post und Eisenbahnen nach § 55 Absatz 10 in
-    Verbindung mit § 61 des Telekommunikationsgesetzes angeordneten
-    Vergabeverfahrens und
-
-
-2.  auf Grund eines Antragsverfahrens nach § 55 Absatz 3 des
-    Telekommunikationsgesetzes
-
-
-
-aus bis zum 31. Dezember 2025 erfolgten Frequenzzuteilungen für den
-drahtlosen Netzzugang im 2,0 Gigahertz-Band (1920 Megahertz bis 1980
-Megahertz und 2110 bis 2170 Megahertz), im 3,6 Gigahertz-Band (3400
-Megahertz bis 3800 Megahertz) und im 26 Gigahertz-Band (24,25 bis 27,5
-Gigahertz) ergeben.
-
-(2) Das Sondervermögen kann Zuweisungen nach Maßgabe des
-Haushaltsgesetzes erhalten. Der Bund stellt dem Sondervermögen im Jahr
-2018 einen Betrag in Höhe von 2,4 Milliarden Euro zur Verfügung. Der
-Bund stellt dem Sondervermögen bis 2025 einen Betrag in Höhe von 5
-Milliarden Euro, abzüglich der Verwaltungsausgaben der
-Mobilfunkinfrastrukturgesellschaft, zur Verfügung. Die Mittel dienen
-dem Ausbau des Mobilfunknetzes in den Bereichen, in denen den
-Mobilfunkbetreibern keine Ausbauverpflichtung obliegt.
+## § 4 (weggefallen)
 
 
 ## § 5 Rücklagen
@@ -153,14 +128,13 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 ## § 9 Auflösung
 
-Das Sondervermögen gilt am 31. Dezember des Jahres, in dem seine
-Mittel nach § 4 für die Erfüllung seiner gesetzlichen Aufgaben
-vollständig verbraucht sind, als aufgelöst.
+Das Sondervermögen wird zum 30. März 2024 aufgelöst. Das vorhandene
+Vermögen wird an den Bundeshaushalt 2024 abgeführt.
 
 
-## § 10 Inkrafttreten
+## § 10 Außerkrafttreten
 
-Dieses Gesetz tritt am 1. Dezember 2018 in Kraft.
+Dieses Gesetz tritt am 31. März 2024 außer Kraft.
 
 
 ## Anlage 1 Wirtschaftsplan des Sondervermögens Digitale Infrastruktur

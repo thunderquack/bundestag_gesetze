@@ -103,7 +103,7 @@ Abgabe von Umsatzsteuervoranmeldungen verpflichtet sind:
 
 
 4.  Ort und Nummer der Eintragung in das Handels-, Genossenschafts-,
-    Vereins- oder Partnerschaftsregister,
+    Gesellschafts-, Partnerschafts- oder Vereinsregister,
 
 
 5.  Zugehörigkeit zu einer Organschaft,

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 20.7.2023 I Nr. 199
 
+Änderung durch
+:   Art. 24 G v. 27.3.2024 I Nr. 108 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## - - Zu § 3a des Gesetzes
 

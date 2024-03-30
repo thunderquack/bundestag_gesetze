@@ -502,17 +502,17 @@ Artikel 37 Absatz 3 der Akkreditierungs- und Verifizierungsverordnung.
 ausgeschlossen, die
 
 1.  in einem Beschäftigungsverhältnis mit einer juristischen Person oder
-    einer Personengesellschaft stehen, die nach der Akkreditierungs- und
-    Verifizierungsverordnung in der gültigen Fassung als Prüfstelle
-    akkreditiert ist oder einen Antrag auf eine solche Akkreditierung
-    gestellt hat,
+    einer rechtsfähigen Personengesellschaft stehen, die nach der
+    Akkreditierungs- und Verifizierungsverordnung in der gültigen Fassung
+    als Prüfstelle akkreditiert ist oder einen Antrag auf eine solche
+    Akkreditierung gestellt hat,
 
 
-2.  einem Organ einer juristischen Person oder einer Personengesellschaft
-    nach Nummer 1 angehören oder
+2.  einem Organ einer juristischen Person oder einer rechtsfähigen
+    Personengesellschaft nach Nummer 1 angehören oder
 
 
-3.  Gesellschafter einer juristischen Person oder einer
+3.  Gesellschafter einer juristischen Person oder einer rechtsfähigen
     Personengesellschaft nach Nummer 1 sind; im Fall der Beteiligung an
     einer Kapitalgesellschaft gilt dies nur, sofern die Beteiligung
     insgesamt den fünften Teil des Nennkapitals dieser Gesellschaft

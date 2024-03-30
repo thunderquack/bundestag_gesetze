@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2022 I 610;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 8.10.2023 I Nr. 272
+:   Art. 4 G v. 14.12.2023 I Nr. 365
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

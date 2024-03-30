@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 55
 
 Zuletzt geändert durch
-:   Art. 11 G v. 11.7.2021 I 2754
+:   Art. 8 G v. 22.3.2024 I Nr. 101
 
 
 ## Eingangsformel
@@ -281,8 +281,8 @@ insbesondere nicht Aufwendungen für
 
 
 
-(3) Erstattungen und Einnahmen, insbesondere nach § 19 des
-Bundesversorgungsgesetzes, § 39 Abs. 2 und § 49 Abs. 1 Nr. 3 in
+(3) Erstattungen und Einnahmen, insbesondere nach § 60 des Vierzehnten
+Buches Sozialgesetzbuch § 39 Abs. 2 und § 49 Abs. 1 Nr. 3 in
 Verbindung mit § 50 des Fünften Buches Sozialgesetzbuch, dem
 Infektionsschutzgesetz vom 20. Juli 2000 (BGBl. I S. 1045), Artikel 63
 des Gesundheits-Reformgesetzes und §§ 102 bis 117 des Zehnten Buches
@@ -1421,16 +1421,14 @@ Krankenkasse neu. § 18 Absatz 4 gilt entsprechend.
 
 ### § 23 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
 
-(1) Das Bundesamt für Soziale Sicherung ermittelt für die in § 92a
-Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Jahre
-für jede Krankenkasse für das jeweilige Jahr den von dieser zu
-tragenden Anteil zur Finanzierung des Innovationsfonds, indem es
-jeweils den sich aus § 92a Absatz 4 Satz 1 des Fünften Buches
-Sozialgesetzbuch für die Krankenkassen ergebenden Betrag durch die
-Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den Krankenkassen
-übermittelten Versicherungszeiten aller Krankenkassen teilt und danach
-das Ergebnis mit den Versicherungszeiten der Krankenkasse
-vervielfacht.
+(1) Das Bundesamt für Soziale Sicherung ermittelt jährlich für jede
+Krankenkasse den von dieser zu tragenden Anteil zur Finanzierung des
+Innovationsfonds, indem es jeweils den sich aus § 92a Absatz 4 Satz 1
+des Fünften Buches Sozialgesetzbuch für die Krankenkassen ergebenden
+Betrag durch die Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den
+Krankenkassen übermittelten Versicherungszeiten aller Krankenkassen
+teilt und danach das Ergebnis mit den Versicherungszeiten der
+Krankenkasse vervielfacht.
 
 (2) Das Bundesamt für Soziale Sicherung hat für jede Krankenkasse das
 Ergebnis nach Absatz 1 von den Zuweisungen an die Krankenkasse nach §

@@ -16,7 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1809
 
-Stand: Zuletzt geändert Art. 1 V v. 30.10.2023 I Nr. 292
+Zuletzt geändert durch
+:   Art. 1 V v. 19.12.2023 I Nr. 384
+
 
 ## Eingangsformel
 
@@ -67,7 +69,7 @@ Abflug. Zähleinheit des Gebührenbereichs 2 ist die Landung.
 ## § 2
 
 (1) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 1 beträgt ab 1. Januar 2023 255,94 Euro. Die
+im Gebührenbereich 1 beträgt ab 1. Januar 2024 271,24 Euro. Die
 Berechnung des Gebührensatzes für die Flughäfen des Gebührenbereichs 1
 sowie der daraus resultierenden Gebühr richtet sich nach der
 Durchführungsverordnung (EU) 2019/317 der Kommission vom 11. Februar
@@ -77,7 +79,7 @@ Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013
 (ABl. L 56 vom 25.2.2019, S. 1).
 
 (2) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 2 beträgt ab 1. Januar 2023 255,94 Euro. Zur
+im Gebührenbereich 2 beträgt ab 1. Januar 2024 271,24 Euro. Zur
 Ermittlung des Gebührensatzes wird die algebraische Differenz aus den
 durch das Bundesaufsichtsamt für Flugsicherung anerkannten geplanten
 Kosten für die Flugsicherung an den Flugplätzen des Gebührenbereichs 2

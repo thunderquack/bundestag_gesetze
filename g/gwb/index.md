@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 25.10.2023 I Nr. 294
+:   Art. 2 G v. 22.12.2023 I Nr. 405
 
 Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
@@ -3537,9 +3537,9 @@ von Daten übermitteln:
 
 
 (11) Die Markttransparenzstelle kann festlegen, dass
-Marktgebietsverantwortliche im Sinne des § 2 Nummer 11 der
-Gasnetzzugangsverordnung Angaben zu folgenden Daten und Kategorien von
-Daten übermitteln:
+Marktgebietsverantwortliche im Sinne des § 3 Nummer 26a des
+Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien
+von Daten übermitteln:
 
 1.  die bestehenden Regelenergieverträge,
 

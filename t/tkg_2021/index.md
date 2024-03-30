@@ -12835,7 +12835,7 @@ Bundesnetzagentur nach Teil 9 betreffen.
 elektronischer Dokumente oder die Erteilung von Auskünften durch die
 Bundesnetzagentur ist § 99 Absatz 1 der Verwaltungsgerichtsordnung mit
 der Maßgabe anzuwenden, dass anstelle des Rechts der obersten
-Aufsichtsbehörde nach § 99 Absatz 1 Satz 2 der
+Aufsichtsbehörde nach § 99 Absatz 1 Satz 3 der
 Verwaltungsgerichtsordnung, die Vorlage zu verweigern, das Recht der
 Bundesnetzagentur tritt, die Unterlagen als geheimhaltungsbedürftig zu
 kennzeichnen. Das Gericht der Hauptsache unterrichtet die Beteiligten,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1890, 1891
 
 Zuletzt geändert durch
-:   Art. 16 G v. 17.7.2023 I Nr. 191
+:   Art. 13 G v. 22.12.2023 I Nr. 408
 
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -269,7 +269,8 @@ werden, um Erwerbseinkommen zu ersetzen. Hierzu zählen insbesondere
     Versorgung der Abgeordneten,
 
 
-2.  Krankengeld, Versorgungskrankengeld, Verletztengeld, soweit es nicht
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des
+    Vierzehnten Buches Sozialgesetzbuch, Verletztengeld, soweit es nicht
     nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird,
     oder Übergangsgeld, Arbeitslosengeld oder Unterhaltsgeld nach dem
     Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem
@@ -287,12 +288,9 @@ eine Kapitalleistung oder anstelle einer wiederkehrenden Leistung eine
 Abfindung gezahlt, ist der Betrag als Einkommen zu berücksichtigen,
 der bei einer Verrentung der Kapitalleistung oder als Rente ohne die
 Abfindung zu zahlen wäre. Bei der Verletztenrente aus der gesetzlichen
-Unfallversicherung bleibt ein der Grundrente nach dem
-Bundesversorgungsgesetz entsprechender Betrag unberücksichtigt; bei
-einer Minderung der Erwerbsfähigkeit um 20 vom Hundert bleiben zwei
-Drittel der Mindestgrundrente, bei einer Minderung der
-Erwerbsfähigkeit um 10 vom Hundert bleibt ein Drittel der
-Mindestgrundrente unberücksichtigt.
+Unfallversicherung bleiben die Beträge nach § 93 Absatz 2 Nummer 2
+Buchstabe a in Verbindung mit Absatz 2a und 2b des Sechsten Buches
+Sozialgesetzbuch unberücksichtigt.
 
 
 ### § 4 Freiwillige Versicherung
@@ -458,19 +456,25 @@ Absatz 1, § 28 Absatz 2 Satz 2, § 31 Absatz 1 und 2 Satz 1 und 2 und §
 §§ 31, 64 Absatz 1 Nummer 3 bis 6 und § 73 des Neunten Buches
 Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch
 Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche
-Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen.
-Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich
-sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere
-über Umfang, Ort und Durchführung der Leistungen nach den Absätzen 1
-bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse
-geregelt. Für Leistungen zur Prävention, zur Kinderrehabilitation und
-zur Nachsorge sind insbesondere die Ziele, die persönlichen
-Voraussetzungen sowie Art und Umfang der medizinischen Leistungen in
-der Satzung näher auszuführen. Für sonstige Leistungen zur Teilhabe
-sind insbesondere die Ziele sowie Art und Umfang der Leistungen in der
-Satzung näher auszuführen. Die Satzungsregelungen sind regelmäßig an
-den medizinischen Fortschritt und die gewonnenen Erfahrungen
-anzupassen.
+Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen; sie
+soll solche Einrichtungen belegen, die über eine Zulassung nach § 15
+des Sechsten Buches Sozialgesetzbuch verfügen oder nach § 301 Absatz 4
+des Sechsten Buches Sozialgesetzbuch als zugelassen gelten. Sie hat
+hierzu mit diesen Einrichtungen über Inhalt, Umfang, Vergütung sowie
+Prüfung der Qualität und Wirtschaftlichkeit der Dienstleistungen
+Verträge nach diskriminierungsfreien und transparenten Kriterien zu
+schließen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und
+wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht
+übersteigen. Das Nähere über Umfang, Ort und Durchführung der
+Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der
+landwirtschaftlichen Alterskasse geregelt. Für Leistungen zur
+Prävention, zur Kinderrehabilitation und zur Nachsorge sind
+insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und
+Umfang der medizinischen Leistungen in der Satzung näher auszuführen.
+Für sonstige Leistungen zur Teilhabe sind insbesondere die Ziele sowie
+Art und Umfang der Leistungen in der Satzung näher auszuführen. Die
+Satzungsregelungen sind regelmäßig an den medizinischen Fortschritt
+und die gewonnenen Erfahrungen anzupassen.
 
 (2) Betriebshilfe kann erbracht werden, wenn
 
@@ -523,11 +527,15 @@ erbracht werden.
 (3) Als Betriebs- oder Haushaltshilfe wird eine Ersatzkraft gestellt.
 Kann eine Ersatzkraft nicht gestellt werden oder besteht Grund, davon
 abzusehen, werden die Kosten für eine selbstbeschaffte betriebsfremde
-Ersatzkraft in angemessener Höhe erstattet. Für Verwandte und
-Verschwägerte bis zum zweiten Grade werden Kosten nicht erstattet; die
-erforderlichen Fahrkosten und der Verdienstausfall können jedoch
-erstattet werden, wenn die Erstattung in einem angemessenen Verhältnis
-zu den sonst für eine Ersatzkraft entstehenden Kosten steht.
+Ersatzkraft in angemessener Höhe erstattet. Das Nähere zur
+Angemessenheit der Kosten für eine selbstbeschaffte betriebsfremde
+Ersatzkraft bestimmt die Satzung. Diese kann die Erstattungsfähigkeit
+der Kosten für selbstbeschaffte betriebsfremde Ersatzkräfte begrenzen.
+Für Verwandte und Verschwägerte bis zum zweiten Grade werden Kosten
+nicht erstattet; die erforderlichen Fahrkosten und der
+Verdienstausfall können jedoch erstattet werden, wenn die Erstattung
+in einem angemessenen Verhältnis zu den sonst für eine Ersatzkraft
+entstehenden Kosten steht.
 
 (4) (weggefallen)
 
@@ -615,7 +623,8 @@ Erwerbsminderung, wenn
 Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn
 sie voll erwerbsgemindert nach § 43 des Sechsten Buches
 Sozialgesetzbuch sind und die sonstigen Voraussetzungen nach Satz 1
-erfüllt sind.
+erfüllt sind. § 43 Absatz 7 des Sechsten Buches Sozialgesetzbuch gilt
+entsprechend.
 
 (2) Der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung
 verlängert sich um
@@ -2856,13 +2865,13 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 Versicherungspflicht befreit, solange
 
 1.  der nach § 1 Abs. 6 und § 32 Abs. 6 Satz 5 ermittelte Wirtschaftswert
-    des Unternehmens der Landwirtschaft 15.000 Deutsche Mark nicht
+    des Unternehmens der Landwirtschaft 15 000 Deutsche Mark nicht
     überschreitet,
 
 
 2.  der Unternehmer nach § 1 Abs. 2 ohne Berücksichtigung des
     Arbeitseinkommens aus Land- und Forstwirtschaft regelmäßig Erwerbs-
-    und Erwerbsersatzeinkommen von mehr als 20.452 Euro jährlich erzielt,
+    und Erwerbsersatzeinkommen von mehr als 20 452 Euro jährlich erzielt,
 
 
 
@@ -2990,6 +2999,10 @@ die Befreiung nach § 3 Absatz 1 Nummer 1 maßgebende Einkommen
 regelmäßig jährlich 4 800 Euro überschreitet. Sie können bis zum 31.
 März 2023 erklären, dass die Befreiung von der Versicherungspflicht
 zum 30. September 2022 enden soll.
+
+(10) Bei der Anwendung von § 3 Absatz 4 Satz 2 gilt das
+Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung nach
+§ 47 des Vierzehnten Buches Sozialgesetzbuch.
 
 
 #### Dritter Unterabschnitt - Teilhabe
@@ -4949,11 +4962,12 @@ oder Nr. 2 Buchstabe a erfüllt sind.
 
 2.  mit einem Anspruch auf Arbeitslosengeld oder Unterhaltsgeld nach dem
     Dritten Buch Sozialgesetzbuch oder Anspruch auf Krankengeld,
-    Versorgungskrankengeld, Verletztengeld oder Übergangsgeld gegenüber
-    einem Sozialleistungsträger und sind diese Sozialleistungen auf der
-    Grundlage eines Betrages berechnet, der drei Zehntel der für
-    Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen
-    Rentenversicherung überschreitet,
+    Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung nach §
+    47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder
+    Übergangsgeld gegenüber einem Sozialleistungsträger und sind diese
+    Sozialleistungen auf der Grundlage eines Betrages berechnet, der drei
+    Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der
+    allgemeinen Rentenversicherung überschreitet,
 
 
 
@@ -5057,13 +5071,14 @@ entfällt der Anspruch, wenn
 Der Anspruch ruht während der Zeit,
 
 1.  für die ein Anspruch auf Krankengeld, Versorgungskrankengeld,
-    Verletztengeld oder Übergangsgeld von einem Sozialleistungsträger, auf
-    Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch
-    Sozialgesetzbuch oder auf vergleichbare Leistungen zuerkannt ist, wenn
-    diese Sozialleistungen auf der Grundlage eines Betrages berechnet
-    werden, der drei Zehntel der für Monatsbezüge geltenden
-    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung
-    überschreitet,
+    Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten
+    Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld von einem
+    Sozialleistungsträger, auf Arbeitslosengeld oder Unterhaltsgeld nach
+    dem Dritten Buch Sozialgesetzbuch oder auf vergleichbare Leistungen
+    zuerkannt ist, wenn diese Sozialleistungen auf der Grundlage eines
+    Betrages berechnet werden, der drei Zehntel der für Monatsbezüge
+    geltenden Beitragsbemessungsgrenze in der allgemeinen
+    Rentenversicherung überschreitet,
 
 
 2.  in der Betriebs- oder Haushaltshilfe gestellt wird.
@@ -5426,6 +5441,20 @@ Verstorbene einen Zuschuß erhalten hatte.
 (2) Die Höhe des Kürzungsbetrages sowie seine Veränderungen sind der
 landwirtschaftlichen Alterskasse von dem Rentenversicherungsträger
 mitzuteilen, der die Rente festgestellt hat.
+
+
+#### § 130 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 3 Absatz 4 Satz 2 Nummer 2 und
+Satz 6 und des § 106 Absatz 2 Satz 1 Nummer 2 und Absatz 6 Satz 2
+Nummer 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 #### Anlage 1

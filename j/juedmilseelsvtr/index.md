@@ -35,13 +35,13 @@ Zentralrat der Juden in Deutschland folgenden Vertrag:
 ## Abschnitt I - Grundsätze
 
 
-### Artikel 1
+### Art 1
 
 Für die Bundeswehr wird eine ständige jüdische Militärseelsorge
 eingerichtet.
 
 
-### Artikel 2
+### Art 2
 
 (1) Die jüdische Militärseelsorge als Teil der religiösen Betreuung
 wird im Auftrag und unter Aufsicht des Zentralrats der Juden in
@@ -51,7 +51,7 @@ Deutschland ausgeübt.
 Militärseelsorge und trägt ihre Kosten.
 
 
-### Artikel 3
+### Art 3
 
 (1) Die Militärseelsorge wird von Militärrabbinern und
 Militärrabbinerinnen hauptamtlich ausgeübt.
@@ -66,7 +66,7 @@ entsprechenden Bedarf erhöht werden.
 Rabbinerinnen auch in Nebenfunktion wahrgenommen werden.
 
 
-### Artikel 4
+### Art 4
 
 (1) Aufgabe der Militärrabbiner und Militärrabbinerinnen ist die Lehre
 der Halacha (jüdisches Recht), die Entscheidung religiöser Fragen, die
@@ -78,7 +78,7 @@ Auslandseinsätzen und Übungen.
 unabhängig.
 
 
-### Artikel 5
+### Art 5
 
 Den Soldaten und Soldatinnen ist im Rahmen der dienstlichen
 Möglichkeiten Gelegenheit zu geben, sich am religiösen jüdischen Leben
@@ -88,14 +88,14 @@ zu beteiligen.
 ## Abschnitt II - Einbindung der jüdischen Soldaten und Soldatinnen in jüdische Gemeinden vor Ort
 
 
-### Artikel 6
+### Art 6
 
 Die jüdischen Soldaten und Soldatinnen werden in die jüdischen
 Gemeinden vor Ort eingebunden. Das Errichten von jüdischen
 Militärgemeinden ist nicht vorgesehen.
 
 
-### Artikel 7
+### Art 7
 
 (1) Die Militärrabbiner und Militärrabbinerinnen leisten Seelsorge
 auch an Soldaten und Soldatinnen, die nicht dem jüdischen Glauben
@@ -108,13 +108,13 @@ der jüdischen Soldaten und Soldatinnen.
 ## Abschnitt III - Militärbundesrabbiner
 
 
-### Artikel 8
+### Art 8
 
 Die religiöse Leitung der jüdischen Militärseelsorge obliegt dem
 Militärbundesrabbiner.
 
 
-### Artikel 9
+### Art 9
 
 (1) Der Militärbundesrabbiner wird vom Zentralrat der Juden in
 Deutschland bestimmt. Der Zentralrat der Juden in Deutschland
@@ -135,7 +135,7 @@ schnellstmöglich die Person des in Aussicht genommenen neuen
 Amtsträgers mit.
 
 
-### Artikel 10
+### Art 10
 
 (1) Der Militärbundesrabbiner ist zuständig für alle religiösen
 Angelegenheiten im Zusammenhang mit der jüdischen Militärseelsorge,
@@ -194,7 +194,7 @@ jüdischen Soldaten und Soldatinnen in den jüdischen Gemeinden vor Ort
 sowie an die Militärrabbiner und Militärrabbinerinnen wenden.
 
 
-### Artikel 11
+### Art 11
 
 Vorschriften und Richtlinien des Militärbundesrabbiners müssen sich im
 Rahmen des religiösen Selbstbestimmungsrechts des Zentralrats der
@@ -206,7 +206,7 @@ Verteidigung.
 ## Abschnitt IV - Militärrabbinat
 
 
-### Artikel 12
+### Art 12
 
 (1) Zur Wahrnehmung der zentralen Verwaltungsaufgaben der jüdischen
 Militärseelsorge wird in Berlin ein Militärrabbinat als Bundesamt
@@ -218,7 +218,7 @@ Militärrabbinat an. Sie können ihre Dienste auch in Außenstellen des
 Militärrabbinats versehen.
 
 
-### Artikel 13
+### Art 13
 
 (1) Das Bundesministerium der Verteidigung betraut im Einvernehmen mit
 dem Zentralrat der Juden in Deutschland mit der Leitung des
@@ -243,7 +243,7 @@ Absatz 1 zustehenden Befugnissen beauftragen.
 ## Abschnitt V - Militärrabbiner und Militärrabbinerinnen
 
 
-### Artikel 14
+### Art 14
 
 Die Militärrabbiner und Militärrabbinerinnen stehen in einem
 religiösen Auftrag. In diesem Dienst sind sie im Rahmen der Halacha
@@ -252,7 +252,7 @@ von staatlichen Weisungen unabhängig. Im Übrigen wird ihre
 Rechtsstellung nach Maßgabe der folgenden Bestimmungen geordnet.
 
 
-### Artikel 15
+### Art 15
 
 (1) Die Militärrabbiner und Militärrabbinerinnen müssen
 
@@ -276,7 +276,7 @@ und dem Militärbundesrabbiner kann von den Erfordernissen der Nummer 1
 und Nummer 3 abgewichen werden.
 
 
-### Artikel 16
+### Art 16
 
 (1) Die Militärrabbiner und Militärrabbinerinnen werden auf Vorschlag
 des Militärbundesrabbiners und mit Zustimmung des Bundesministeriums
@@ -289,7 +289,7 @@ drei Monate verlängert werden.
 Erprobungszeit als Tarifbeschäftigte tätig.
 
 
-### Artikel 17
+### Art 17
 
 (1) Nach der Erprobungszeit werden die Militärrabbiner und
 Militärrabbinerinnen in das Beamtenverhältnis auf Zeit berufen. Soweit
@@ -313,7 +313,7 @@ nicht in diesem Vertrag etwas anderes bestimmt ist. § 66 Absatz 2 Satz
 4 des Beamtenversorgungsgesetzes gilt nicht.
 
 
-### Artikel 18
+### Art 18
 
 (1) Vorschläge zur Ernennung, Beförderung oder Versetzung der
 Militärrabbiner und Militärrabbinerinnen bedürfen des
@@ -326,7 +326,7 @@ das Bundesministerium der Verteidigung eine Stellungnahme des
 Zentralrats der Juden in Deutschland einzuholen.
 
 
-### Artikel 19
+### Art 19
 
 (1) In religiösen Angelegenheiten unterstehen die Militärrabbiner und
 Militärrabbinerinnen der Leitung und Dienstaufsicht des
@@ -346,7 +346,7 @@ oder Tarifbeschäftigte ist
 
 
 
-### Artikel 20
+### Art 20
 
 Die Militärrabbiner und Militärrabbinerinnen sind unter Beachtung der
 rechtlichen Vorgaben regelmäßig zu entlassen
@@ -378,7 +378,7 @@ rechtlichen Vorgaben regelmäßig zu entlassen
 ## Abschnitt VI - Hilfskräfte
 
 
-### Artikel 21
+### Art 21
 
 Den Militärrabbinern und Militärrabbinerinnen werden die zur
 Unterstützung bei religiösen Handlungen und Verwaltungsaufgaben im
@@ -395,7 +395,7 @@ Einvernehmen mit dem Zentralrat der Juden in Deutschland.
 ## Abschnitt VII - Freundschafts- und Paritätsklausel
 
 
-### Artikel 22
+### Art 22
 
 (1) Die Vertragsschließenden werden eine etwa in Zukunft zwischen
 ihnen entstehende Meinungsverschiedenheit über die Auslegung einer
@@ -412,7 +412,7 @@ Grundsatzes der Parität Änderungen der Vereinbarung notwendig sind.
 ## Abschnitt VIII - Zustimmung des Bundestages, Inkrafttreten
 
 
-### Artikel 23
+### Art 23
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.

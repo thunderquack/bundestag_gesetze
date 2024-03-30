@@ -96,9 +96,10 @@ herausgegebenen Formblatts eingereicht werden.
             eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
 
-        bb) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
-            Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
-            mindestens eines vertretungsberechtigten Gesellschafters;
+        bb) bei einer Gesellschaft bürgerlichen Rechts, die nicht im
+            Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift
+            mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens
+            eines vertretungsberechtigten Gesellschafters;
 
 
 

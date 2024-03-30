@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2660
 
+Geändert durch
+:   Art. 1 V v. 21.2.2024 I Nr. 59
+
 [^F805426_01_BJNR266000018]:     Diese Verordnung dient der Umsetzung des Artikels 55 Absatz 2
     Buchstabe f und h der Richtlinie 2013/59/Euratom des Rates vom 5.
     Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den
@@ -40,7 +43,7 @@ Naturschutz und nukleare Sicherheit:
 (1) Röntgenuntersuchungen zur Früherkennung von Brustkrebs sind
 zulässig bei Frauen,
 
-1.  die das 50., aber noch nicht das 70. Lebensjahr vollendet haben und
+1.  die das 50., aber noch nicht das 76. Lebensjahr vollendet haben und
 
 
 2.  bei denen die letzte Röntgenuntersuchung der Brust
@@ -62,12 +65,12 @@ den §§ 2 bis 8 gewährleistet ist.
 
 (3) Die Anforderungen an die Zulässigkeit nach Absatz 2 gelten als
 erfüllt, wenn die Früherkennung nach einem Programm zur Früherkennung
-von Brustkrebs gemäß den §§ 25a und 92 des Fünften Buches
+von Brustkrebs gemäß den §§ 25, 25a und 92 des Fünften Buches
 Sozialgesetzbuch in Verbindung mit der Richtlinie des Gemeinsamen
 Bundesausschusses über die Früherkennung von Krebserkrankungen
 (Krebsfrüherkennungs-Richtlinie) in der Fassung vom 18. Juni 2009
-(BAnz. Nr. 148a vom 2. Oktober 2009), die zuletzt am 20. Juli 2017
-geändert worden ist (BAnz AT 07.11.2017 B3), in der jeweils geltenden
+(BAnz. Nr. 148a vom 2. Oktober 2009), die zuletzt am 18. Juni 2020
+geändert worden ist (BAnz AT 27.08.2020 B3), in der jeweils geltenden
 Fassung erfolgt.
 
 (4) Die rechtfertigende Indikation für die Anwendung von
@@ -91,9 +94,19 @@ Röntgenaufnahmen befundet,
 
 
 
-(2) Abweichend von Absatz 1 ist es im ersten Jahr der Tätigkeit der
-Früherkennung von Brustkrebs bei Frauen ausreichend, dass
-Röntgenaufnahmen von 3 000 Frauen befundet werden.
+(2) Abweichend von Absatz 1 Nummer 2 ist es ausreichend, dass eine
+Person Röntgenaufnahmen von mindestens 3 000 Frauen befundet, wenn
+
+1.  sie sich im ersten Jahr ihrer Tätigkeit im Rahmen der Früherkennung
+    von Brustkrebs bei Frauen befindet oder
+
+
+2.  ein begründeter Einzelfall vorliegt.
+
+
+
+
+Eine Abweichung gemäß Absatz 2 Satz 1 Nummer 2 gilt nur für ein Jahr.
 
 
 ## § 3 Medizinphysik-Experte; Aufgaben des Medizinphysik-Experten
@@ -250,7 +263,8 @@ werden.
     a)  zwei Personen gemäß § 2 Absatz 1 oder
 
 
-    b)  eine Person gemäß § 2 Absatz 2 und eine Person gemäß § 2 Absatz 1
+    b)  eine Person gemäß § 2 Absatz 2 Satz 1 und eine Person gemäß § 2 Absatz
+        1
 
 
 

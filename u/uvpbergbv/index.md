@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1420
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.11.2019 I 1581
+:   Art. 1 V v. 18.12.2023; 2024 I Nr. 2
 
 
 ## Eingangsformel
@@ -164,7 +164,8 @@ aufgeführten betriebsplanpflichtigen Vorhaben:
 
 6a. Untergrundspeicher für
 
-    a)  Erdgas mit einem Fassungsvermögen von
+    a)  Erdgas oder Wasserstoff oder Mischungen aus Erdgas und Wasserstoff mit
+        einem Fassungsvermögen von
 
         aa) 1 Milliarde Kubikmeter oder mehr auf Grund einer allgemeinen
             Vorprüfung nach den Vorschriften des Teils 2 Abschnitt 1 des Gesetzes
@@ -213,7 +214,7 @@ aufgeführten betriebsplanpflichtigen Vorhaben:
     Bundesnaturschutzgesetzes oder
 
 
-8a.[^F795105_01_BJNR014200990BJNE000208119]
+8a.[^F795105_01_BJNR014200990BJNE000209125]
  Tiefbohrungen zur Aufsuchung und Gewinnung von Erdwärme mit Aufbrechen
     von Gestein unter hydraulischem Druck, es sei denn, es werden keine
     wassergefährdenden Gemische eingesetzt und das Vorhaben liegt nicht in
@@ -256,7 +257,7 @@ zu berücksichtigen.
     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772
     Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert
     niedergelegt.
-[^F795105_01_BJNR014200990BJNE000208119]: 
+[^F795105_01_BJNR014200990BJNE000209125]: 
 
 ## § 2 Angaben im UVP-Bericht
 

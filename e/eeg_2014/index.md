@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1066
 
 Zuletzt geändert durch
-:   Art. 4 G v. 26.7.2023 I Nr. 202
+:   Art. 1 G v. 5.2.2024 I Nr. 33
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -1197,21 +1197,27 @@ Windenergieanlage befindet
 
 
 2.  in der Zone 1 der ausschließlichen Wirtschaftszone der Nordsee wie sie
-    in dem nach den §§ 17b und 17c des Energiewirtschaftsgesetzes durch
-    die Bundesnetzagentur bestätigten Offshore-Netzentwicklungsplan
-    2017-2030 ausgewiesen wird,
+    in dem nach § 5 des Windenergie-auf-See-Gesetzes durch das Bundesamt
+    für Seeschifffahrt und Hydrographie bekannt gemachten
+    Flächenentwicklungsplan ausgewiesen wird,
 
 
 3.  in der ausschließlichen Wirtschaftszone der Ostsee.
 
 
 
-Die Pflicht nach Satz 1 gilt ab dem 1. Januar 2024. Die Pflicht nach
-Satz 1 kann auch durch eine Einrichtung zur Nutzung von Signalen von
-Transpondern von Luftverkehrsfahrzeugen erfüllt werden. Von der
-Pflicht nach Satz 1 kann die Bundesnetzagentur auf Antrag im
-Einzelfall insbesondere für kleine Windparks Ausnahmen zulassen,
-sofern die Erfüllung der Pflicht wirtschaftlich unzumutbar ist.
+Die Pflicht nach Satz 1 gilt ab dem 1. Januar 2025. Betreiber von
+Windenergieanlagen, die vor dem Ablauf des 31. Dezember 2024 in
+Betrieb genommen wurden, bei denen die Pflicht nach Satz 1 nicht
+erfüllt wurde und für die keine Ausnahme nach Satz 6 zugelassen wurde,
+sind verpflichtet, unverzüglich einen vollständigen und prüffähigen
+Antrag auf Zulassung einer bedarfsgesteuerten Nachtkennzeichnung bei
+der zuständigen Landesbehörde zu stellen. Die Pflicht nach Satz 1 kann
+auch durch eine Einrichtung zur Nutzung von Signalen von Transpondern
+von Luftverkehrsfahrzeugen erfüllt werden. Von der Pflicht nach Satz 1
+kann die Bundesnetzagentur auf Antrag im Einzelfall insbesondere für
+kleine Windparks Ausnahmen zulassen, sofern die Erfüllung der Pflicht
+wirtschaftlich unzumutbar ist.
 
 
 #### § 10 Ausführung und Nutzung des Anschlusses
@@ -3346,7 +3352,7 @@ nach § 33 von dem Zuschlagsverfahren aus, wenn
 ##### § 36e Erlöschen von Zuschlägen für Windenergieanlagen an Land
 
 (1) Der Zuschlag erlischt bei Geboten für Windenergieanlagen an Land
-30 Monate nach der öffentlichen Bekanntgabe des Zuschlags, soweit die
+36 Monate nach der öffentlichen Bekanntgabe des Zuschlags, soweit die
 Anlagen nicht bis zu diesem Zeitpunkt in Betrieb genommen worden sind.
 
 (2) Auf Antrag, den der Bieter vor Ablauf der Frist nach Absatz 1
@@ -5692,7 +5698,7 @@ Energiefinanzierungsgesetzes.
 
 (1b) Absatz 1 Nummer 4 und 5 ist nicht anzuwenden auf Anlagen mit
 einer installierten Leistung bis einschließlich 500 Kilowatt, wenn der
-Betreiber vor dem 1. Januar 2024 gegen § 10b verstößt oder die
+Betreiber vor dem 1. Juli 2024 gegen § 10b verstößt oder die
 Ausfallvergütung in Anspruch nimmt und dabei eine der Höchstdauern
 nach § 21 Absatz 1 Nummer 2 erster Halbsatz überschreitet. In den
 Fällen des Satz 1 sind § 52 Absatz 1 Satz 1 Nummer 2a und Absatz 2
@@ -5846,7 +5852,7 @@ Zusatzgebote nach § 36j müssen Bieter an den regelverantwortlichen
     für eine Windenergieanlage an Land nach § 35a entwertet werden oder
 
 
-2.  wenn die Windenergieanlage an Land mehr als 24 Monate nach der
+2.  wenn die Windenergieanlage an Land mehr als 30 Monate nach der
     öffentlichen Bekanntgabe des Zuschlags in Betrieb genommen worden ist.
 
 
@@ -5854,17 +5860,17 @@ Zusatzgebote nach § 36j müssen Bieter an den regelverantwortlichen
 Die Höhe der Pönale nach Satz 1 Nummer 1 und 2 berechnet sich aus der
 Gebotsmenge des bezuschlagten Gebots
 
-1.  abzüglich der innerhalb von 24 Monaten nach der öffentlichen
+1.  abzüglich der innerhalb von 30 Monaten nach der öffentlichen
     Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
     multipliziert mit 10 Euro pro Kilowatt,
 
 
-2.  abzüglich der innerhalb von 26 Monaten nach der öffentlichen
+2.  abzüglich der innerhalb von 32 Monaten nach der öffentlichen
     Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
     multipliziert mit 20 Euro pro Kilowatt oder
 
 
-3.  abzüglich der innerhalb von 28 Monaten nach der öffentlichen
+3.  abzüglich der innerhalb von 34 Monaten nach der öffentlichen
     Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
     multipliziert mit 30 Euro pro Kilowatt.
 
@@ -7022,10 +7028,10 @@ treffen
 (3) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem
 Gesetz und den auf Grund dieses Gesetzes ergangenen Rechtsverordnungen
 sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit
-Ausnahme des § 69 Absatz 1 Satz 2 und Absatz 10, der §§ 91 und 95 bis
-101 sowie des Abschnitts 6 entsprechend anzuwenden. Die Befugnisse
-nach Satz 1 gelten gegenüber Personen, die keine Unternehmen sind,
-entsprechend.
+Ausnahme des § 69 Absatz 1 Satz 2 und Absatz 10, des § 74 Satz 1 und
+2, der §§ 91 und 95 bis 101 sowie des Abschnitts 6 entsprechend
+anzuwenden. Die Befugnisse nach Satz 1 gelten gegenüber Personen, die
+keine Unternehmen sind, entsprechend.
 
 
 ### § 85a Festlegung zu den Höchstwerten bei Ausschreibungen
@@ -9279,9 +9285,10 @@ ist § 9 Absatz 3 Satz 1 entsprechend anzuwenden.
 
 (6) § 9 Absatz 8 dieses Gesetzes ist für Anlagen nach Absatz 1
 anstelle von § 9 Absatz 8 des Erneuerbare-Energien-Gesetzes in der am
-31\. Dezember 2022 geltenden Fassung anzuwenden, wobei die Pflicht nach
-§ 9 Absatz 8 nur von Anlagen erfüllt werden muss, die nach dem 31.
-Dezember 2005 in Betrieb genommen worden sind.
+31\. Dezember 2022 geltenden Fassung anzuwenden, wobei die Pflichten
+nach § 9 Absatz 8 nur von Anlagen erfüllt werden müssen, die nach dem
+31\. Dezember 2005 in Betrieb genommen worden sind. Dabei ist § 9
+Absatz 8 Satz 4 erst ab dem 9. Februar 2024 anzuwenden.
 
 (7) § 19 in Verbindung mit § 21 Absatz 1 Nummer 3, Absatz 2, die §§
 21b, 21c Absatz 1 Satz 3, die §§ 23b, 25 Absatz 2 und § 53 sind auch
@@ -9301,8 +9308,8 @@ die einer der in § 52 Absatz 1 genannten Pflichten in der für die
 Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-
 Gesetzes entspricht. Abweichend von Satz 1 ist § 52 Absatz 1 Nummer 4
 und 5 auf Anlagen nach Absatz 1 mit einer installierten Leistung bis
-einschließlich 500 Kilowatt nur anzuwenden, wenn der Betreiber ab dem
-1\. Januar 2024 gegen eine Pflicht verstößt, die einer der in § 52
+einschließlich 500 Kilowatt nicht anzuwenden, wenn der Betreiber vor
+dem 1. Juli 2024 gegen eine Pflicht verstößt, die einer der in § 52
 Absatz 1 Nummer 4 und 5 genannten Pflichten in der für die Anlage
 maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht. §
 52 tritt insofern an die Stelle der Sanktionsbewehrung dieser Pflicht
@@ -9390,6 +9397,66 @@ Gülle nicht eingehalten wurde.
 für Gärrestlager die technischen Vorgaben nach § 9 Absatz 5 Satz 1
 Nummer 1 EEG bis einschließlich 30. April 2024 nicht erfüllen. Satz 1
 gilt unabhängig vom Zeitpunkt der Inbetriebnahme der Anlage.
+
+(18) Abweichend von § 39c können Bieter in den Ausschreibungen für
+Biomasseanlagen nach den §§ 39 bis 39i in den Jahren 2024 und 2025
+einmalig ein Gebot für eine bezuschlagte Biomasseanlage abgeben
+(Biomasse-Zusatzgebot), wenn der zuerst erteilte Zuschlag für die
+Biomasseanlage in einem Gebotstermin nach dem 31. Dezember 2020 und
+vor dem 1. Januar 2024 erteilt wurde. In Ergänzung zu den
+Anforderungen an Gebote nach § 30 müssen Biomasse-Zusatzgebote
+folgende Anforderungen erfüllen:
+
+1.  die Nummer des bereits erteilten Zuschlags ist anzugeben,
+
+
+2.  die Registernummer der Anlage, auf die sich das Gebot bezieht, ist
+    anzugeben und
+
+
+3.  der Gebotswert darf weder den geltenden Höchstwert noch den
+    Zuschlagswert des bereits erteilten Zuschlags überschreiten.
+
+
+
+Der Vergütungszeitraum für Biomasse-Zusatzgebote entspricht dem des
+nach § 39h zuerst erteilten Zuschlags. Die §§ 39a bis 39i sind für
+Biomasse-Zusatzgebote entsprechend anzuwenden. Wird ein Zuschlag für
+ein Biomasse-Zusatzgebot erteilt, ist für die Biomasseanlage das
+Erneuerbare-Energien-Gesetz in der zum Zeitpunkt des Gebotstermins, in
+dem das Biomasse-Zusatzgebot abgegeben wurde, geltenden Fassung
+anwendbar. Sind die anzulegenden Werte für das ursprüngliche Gebot und
+das Biomasse-Zusatzgebot nicht identisch, ist für den in der
+Biomasseanlage erzeugten Strom ein Gesamtwert nach § 23c Nummer 2 zu
+bilden.
+
+(19) Für Zuschläge nach § 36 für Windenergieanlagen an Land und nach §
+36j für Zusatzgebote, die vor dem 1. Januar 2023 erteilt wurden, sind
+§ 36e Absatz 1 und § 55 Absatz 1 dieses Gesetzes anstelle des § 36e
+Absatz 1 und des § 55 Absatz 1 in der für die Anlage maßgeblichen
+Fassung des Erneuerbare-Energien- Gesetzes anzuwenden, soweit
+
+1.  die Frist des § 36e Absatz 1 der für die Anlage maßgeblichen Fassung
+    des Erneuerbare-Energien-Gesetzes am 9. Februar 2024 noch nicht
+    abgelaufen ist und
+
+
+2.  der Bieter für das bezuschlagte Gebot am 9. Februar 2024 noch keine
+    Pönale nach § 55 Absatz 1 in der für die Anlage maßgeblichen Fassung
+    des Erneuerbare-Energien-Gesetzes leisten muss.
+
+
+
+Abweichend von Satz 1 sind die Fristen des § 36e Absatz 1 und des § 55
+Absatz 1 in der für die Anlage maßgeblichen Fassung des Erneuerbare-
+Energien-Gesetzes anwendbar, wenn der Bieter in Textform gegenüber der
+Bundesnetzagentur erklärt, dass diese anwendbar bleiben sollen. Für
+Anlagen, die nach dem 31. Dezember 2022 und vor dem 9. Februar 2024
+einen Zuschlag erhalten haben, sind die Fristen des § 36e Absatz 1 und
+des § 55 Absatz 1 in der am 8. Februar 2024 geltenden Fassung des
+Erneuerbare-Energien-Gesetzes anwendbar, wenn der Bieter in Textform
+gegenüber der Bundesnetzagentur erklärt, dass diese anwendbar bleiben
+sollen.
 
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt

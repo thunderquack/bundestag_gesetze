@@ -18,9 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
-Zuletzt geändert durch
-:   Art. 162 V v. 19.6.2020 I 1328
-
+Stand: zuletzt geändert Art. 1 G v. 20.12.2023 I Nr. 390
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
@@ -199,6 +197,13 @@ sind, erwerben, sofern die Einbeziehung nicht unwirksam geworden ist,
 diese Rechtsstellung mit ihrer Aufnahme im Geltungsbereich des
 Gesetzes.
 
+(4) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen,
+unter welchen Voraussetzungen der Wohnsitz im Sinne von Absatz 1 bei
+länger als sechs Monate dauerndem kriegsbedingten Aufenthalt außerhalb
+der Aussiedlungsgebiete als fortbestehend gilt. Mögliche Kriterien
+sind etwa das Aussiedlungsgebiet oder die Aufenthaltsdauer.
+
 
 ### § 5 Ausschluss
 
@@ -286,7 +291,11 @@ Volkszugehöriger, wenn er von einem deutschen Staatsangehörigen oder
 deutschen Volkszugehörigen abstammt und sich bis zum Verlassen der
 Aussiedlungsgebiete durch eine entsprechende Nationalitätenerklärung
 oder auf andere Weise zum deutschen Volkstum bekannt oder nach dem
-Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Das
+Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Vor
+Verlassen des Aussiedlungsgebietes geänderte Nationalitätenerklärungen
+nur zum deutschen Volkstum gehen früheren Bekenntnissen zu einem
+nichtdeutschen Volkstum vor. Ernsthafte Bemühungen zur Änderung einer
+Nationalitätenerklärung können im Sinne von Satz 2 genügen. Das
 Bekenntnis auf andere Weise kann insbesondere durch den Nachweis
 ausreichender deutscher Sprachkenntnisse entsprechend dem Niveau B 1
 des Gemeinsamen Europäischen Referenzrahmens für Sprachen oder durch
@@ -595,7 +604,7 @@ Glaubhaftmachung ist § 10 Abs. 3 und 4 entsprechend anzuwenden.
 
 (1) Das Bundesverwaltungsamt stellt Spätaussiedlern zum Nachweis ihrer
 Spätaussiedlereigenschaft eine Bescheinigung aus. Eine Wiederholung
-des Gesprächs im Sinne von § 6 Abs. 2 Satz 3 findet hierbei nicht
+des Gesprächs im Sinne von § 6 Absatz 2 Satz 5 findet hierbei nicht
 statt. Bei Personen, die das 16. Lebensjahr vollendet haben, beteiligt
 das Bundesverwaltungsamt vor Erteilung der Bescheinigung den
 Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den
@@ -671,9 +680,19 @@ mitgeteilt werden:
 
 
 
-### (XXXX) §§ 17 bis 20 (weggefallen)
+### § 17 Datenaufbewahrung
 
--
+Verwaltungsvorgänge und Daten zur Aufnahme nach diesem Gesetz sind bei
+den zuständigen Verwaltungsbehörden solange aufzubewahren, wie
+schutzwürdige Interessen der Verfahrensbeteiligten, ihrer
+Familienangehörigen oder ihrer Nachkommen am Nachweis ihrer Aufnahme
+im Sinne von Artikel 116 Absatz 1 des Grundgesetzes oder öffentliche
+Interessen dies erfordern, höchstens bis fünf Jahre nach dem Tod der
+Verfahrensbeteiligten.
+
+
+### (XXXX) §§ 18 bis 20 (weggefallen)
+
 
 
 ## Dritter Abschnitt - Behörden und Beiräte

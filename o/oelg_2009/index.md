@@ -517,7 +517,7 @@ vorzuschreiben, dass
 
 (1) Unternehmer im Sinne des Artikels 9 Absatz 1 der Verordnung (EU)
 2017/625 und Artikel 34 der Verordnung (EU) 2018/848 und des § 6 Abs.
-2, natürliche und juristische Personen und nicht rechtsfähige
+2, natürliche und juristische Personen und sonstige
 Personenvereinigungen, die nach Artikel 30 Absatz 1 in Verbindung mit
 Artikel 2 Absatz 1 der Verordnung (EU) 2018/848 gekennzeichnete
 Erzeugnisse erzeugen, aufbereiten, lagern, einführen, ausführen,

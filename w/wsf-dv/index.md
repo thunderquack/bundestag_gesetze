@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2058
 
+Geändert durch
+:   Art. 1 V v. 14.2.2024 I Nr. 48
+
 
 ## Eingangsformel
 
@@ -44,20 +47,17 @@ Die Verträge sind so abzufassen, dass die aus dem Fonds gewährten
 Leistungen abgesichert sind und die Einhaltung von mit der Gewährung
 dieser Leistungen verbundenen Auflagen gewährleistet ist.
 
-(3) Die Finanzagentur stellt ferner innerhalb der ersten sechs Monate
+(3) Die Finanzagentur stellt ferner innerhalb der ersten vier Monate
 nach Abschluss eines Geschäftsjahres für den
-Wirtschaftsstabilisierungsfonds einen Jahresabschluss und einen
-Lagebericht nach den für große Kapitalgesellschaften geltenden
-Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts des
-Dritten Buchs des Handelsgesetzbuchs auf. Auskunftspflicht besteht
-gegenüber dem Bundesministerium der Finanzen, dem Bundesministerium
-für Wirtschaft und Energie und dem Gremium nach § 10a des
-Stabilisierungsfondsgesetzes. Die Auskunftsfähigkeit seitens der
-Finanzagentur ist jederzeit zu gewährleisten. Der Jahresabschluss und
-der Lagebericht sind vom Abschlussprüfer der Finanzagentur nach den
-Vorschriften des Handelsgesetzbuchs zu prüfen. Weitergehende
-Anforderungen zur Darstellung der Vermögenssituation des
-Wirtschaftsstabilisierungsfonds können durch Weisung des
+Wirtschaftsstabilisierungsfonds eine Jahresrechnung auf, deren Inhalte
+durch das Bundesministerium der Finanzen festgelegt werden.
+Auskunftspflicht zur Haushalts- und Vermögenssituation des Fonds
+besteht gegenüber dem Bundesministerium der Finanzen, dem
+Bundesministerium für Wirtschaft und Klimaschutz und dem Gremium nach
+§ 10a des Stabilisierungsfondsgesetzes. Die Auskunftsfähigkeit seitens
+der Finanzagentur ist jederzeit zu gewährleisten. Weitergehende
+Anforderungen zur Darstellung der Haushalts- und Vermögenssituation
+des Wirtschaftsstabilisierungsfonds können durch Weisung des
 Bundesministeriums der Finanzen erfolgen.
 
 (4) Die Finanzagentur ist bei der Wahrnehmung ihrer Aufgaben an die
@@ -72,7 +72,7 @@ Stabilisierungsfondsgesetzes und der dazu erlassenen Verordnungen
 sowie an die Weisungen und Entscheidungen des Bundesministeriums der
 Finanzen gebunden. Diese Weisungen und Entscheidungen werden
 entsprechend den gesetzlichen Zuständigkeiten im Benehmen mit dem
-Bundesministerium für Wirtschaft und Energie getroffen. Die
+Bundesministerium für Wirtschaft und Klimaschutz getroffen. Die
 Finanzagentur hat bei der Umsetzung von Maßnahmen aus dem
 Wirtschaftsstabilisierungsfonds und bei deren vertraglicher
 Absicherung nach Absatz 2 Beschlüsse des Europäischen Rates und
@@ -834,7 +834,7 @@ Unternehmen selbst als weitere Möglichkeit neben der Veräußerung am
 Markt zu prüfen.
 
 (3) Das Unternehmen ist verpflichtet, dem Bundesministerium der
-Finanzen und dem Bundesministerium für Wirtschaft und Energie
+Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz
 spätestens zwölf Monate nach der Gewährung der
 Rekapitalisierungsmaßnahme eine mit der Finanzagentur abgestimmte
 Strategie für die Beendigung der Stabilisierungsmaßnahme vorzulegen.

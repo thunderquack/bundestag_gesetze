@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1510
 
 Zuletzt geändert durch
-:   Art. 62 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 20.12.2023 I Nr. 389
 
 
 ## Teil 1 - Allgemeine Bestimmungen

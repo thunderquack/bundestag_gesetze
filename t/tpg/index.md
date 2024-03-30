@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206;
 
 Zuletzt geändert durch
-:   Art. 15d G v. 11.7.2021 I 2754
+:   Art. 8b G v. 22.3.2024 I Nr. 101
 
 
 ## Eingangsformel
@@ -341,7 +341,7 @@ zulässig ist und nur zu diesem Zweck nach Absatz 3 oder Absatz 4
 Medizinprodukte darf die im Register gespeicherten personenbezogenen
 Daten zudem zum Zweck der Erstellung eines Jahresberichts verwenden.
 In dem Jahresbericht sind die im Register dokumentierten Erklärungen
-zur Organ-  und Gewebespende, ihre Änderungen und Widerrufe in
+zur Organ- und Gewebespende, ihre Änderungen und Widerrufe in
 anonymisierter Form nach Anzahl, Geschlecht, Geburtsjahr und
 Bundesland, in dem die erklärende Person ihren Wohnsitz hat,
 auszuwerten. Der Jahresbericht ist jährlich bis zum 30. Juni zu
@@ -372,8 +372,8 @@ folgende personenbezogene Daten erheben und speichern
     Gewebespende abgibt, neben der Erklärung selbst
 
     a)  ihre Vornamen, Familiennamen, Doktortitel, Geburtsname, Geburtsdatum
-        und Geburtsort, Anschrit, die zu pseudonymisierende
-        Krankenversichertennummer und E‑Mail-Adresse,
+        und Geburtsort, Anschrift, die zu pseudonymisierende
+        Krankenversichertennummer und E-Mail-Adresse,
 
 
     b)  die für den Zugriff auf das Register erforderlichen Kennungen und
@@ -407,14 +407,15 @@ folgende personenbezogene Daten erheben und speichern
 
 
 
-Das Bundesinstitut für Arzneimittel und Medizinprodukte darf das
-Pseudonym der Krankenversichertennummer ausschließlich zum Zweck der
-Vermeidung möglicher Fehlzuordnungen bei Doppelungen persönlicher
-Daten bei unterschiedlichen Personen im Abfragefall verarbeiten. Das
-Verfahren zur Pseudonymisierung legt das Bundesinstitut für
-Arzneimittel und Medizinprodukte im Benehmen mit dem Bundesamt für die
-Sicherheit in der Informationstechnik und dem Bundesbeauftragten für
-den Datenschutz und die Informationsfreiheit fest.
+Das Bundesinstitut für Arzneimittel und Medizinprodukte darf das auf
+Grundlage der Krankenversichertennummer gebildete Pseudonym
+ausschließlich zum Zweck der eindeutigen Zuordnung der Erklärungen zu
+den erklärenden Personen verarbeiten. Das Verfahren zur
+Pseudonymisierung der Krankenversichertennummer legt das
+Bundesinstitut für Arzneimittel und Medizinprodukte im Benehmen mit
+dem Bundesamt für die Sicherheit in der Informationstechnik und dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+fest.
 
 (4) Eine Auskunft aus dem Register darf ausschließlich an die Person,
 die die Erklärung zur Organ- und Gewebespende abgegeben hat, sowie an
@@ -1164,26 +1165,31 @@ Entnahmekrankenhäuser schriftlich über diese Benennung.
     Betracht, ist dies gleichzeitig mitzuteilen,
 
 
-2.  sicherzustellen, dass die Zuständigkeiten und Handlungsabläufe zur
+2.  sicherzustellen, dass in ihrem Entnahmekrankenhaus Ärzte oder
+    Transplantationsbeauftragte dem Bundesinstitut für Arzneimittel und
+    Medizinprodukte als auskunftsberechtigt benannt werden,
+
+
+3.  sicherzustellen, dass die Zuständigkeiten und Handlungsabläufe zur
     Erfüllung ihrer Verpflichtungen aus diesem Gesetz in einer
     Verfahrensanweisung festgelegt und eingehalten werden,
 
 
-3.  sicherzustellen, dass die Entnahme in einem Operationssaal
+4.  sicherzustellen, dass die Entnahme in einem Operationssaal
     durchgeführt wird, der dem Stand der medizinischen Wissenschaft und
     Technik entspricht, um die Qualität und Sicherheit der entnommenen
     Organe zu gewährleisten,
 
 
-4.  sicherzustellen, dass das von ihnen eingesetzte medizinische Personal
+5.  sicherzustellen, dass das von ihnen eingesetzte medizinische Personal
     für seine Aufgaben qualifiziert ist,
 
 
-5.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme
+6.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme
     einzuhalten und
 
 
-6.  sicherzustellen, dass alle Todesfälle mit primärer oder sekundärer
+7.  sicherzustellen, dass alle Todesfälle mit primärer oder sekundärer
     Hirnschädigung sowie die Gründe für eine nicht erfolgte Feststellung
     oder für eine nicht erfolgte Meldung nach Nummer 1 oder andere der
     Organentnahme entgegenstehende Gründe erfasst und die Daten der
@@ -1286,7 +1292,8 @@ verantwortlich,
     Weise begleitet werden,
 
 
-3.  die Verfahrensanweisungen nach § 9a Absatz 2 Nummer 2 zu erstellen,
+3.  die Verfahrensanweisungen nach § 9a Absatz 2 Satz 1 Nummer 3 zu
+    erstellen,
 
 
 4.  dass das ärztliche und pflegerische Personal im Entnahmekrankenhaus
@@ -1402,7 +1409,7 @@ die erforderliche Qualität der Organübertragung zu sichern.
 
 
 
-§ 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
+§ 9a Absatz 2 Satz 1 Nummer 3 und 4 gilt entsprechend.
 
 (3) Die nach Absatz 2 Satz 1 Nummer 1 für die Organvermittlung
 erforderlichen Angaben sind von einem Arzt oder einer von diesem
@@ -1588,16 +1595,16 @@ Nähere zur Erstellung der Verfahrensanweisungen nach Satz 2 regelt der
 Vertrag nach Absatz 2.
 
 (1b) Die Koordinierungsstelle wertet die von den
-Entnahmekrankenhäusern an sie nach § 9a Absatz 2 Nummer 6 zu
+Entnahmekrankenhäusern an sie nach § 9a Absatz 2 Satz 1 Nummer 7 zu
 übermittelnden Daten aus und leitet die Daten und die Ergebnisse der
 Auswertung standortbezogen an die nach Landesrecht zuständigen Stellen
 weiter. Die Ergebnisse der Auswertung werden von der
 Koordinierungsstelle standortbezogen auch an das jeweilige
 Entnahmekrankenhaus weitergeleitet. Die Anforderungen an die von den
 Entnahmekrankenhäusern an die Koordinierungsstelle nach § 9a Absatz 2
-Nummer 6 zu übermittelnden Daten, das Verfahren für die Übermittlung
-der Daten, die Auswertung der Daten und an ihre Weiterleitung werden
-im Vertrag nach Absatz 2 festgelegt.
+Satz 1 Nummer 7 zu übermittelnden Daten, das Verfahren für die
+Übermittlung der Daten, die Auswertung der Daten und an ihre
+Weiterleitung werden im Vertrag nach Absatz 2 festgelegt.
 
 (2) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer,
 die Deutsche Krankenhausgesellschaft und die Koordinierungsstelle

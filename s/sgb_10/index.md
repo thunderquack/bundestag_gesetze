@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 20.7.2022 I 1237
+:   Art. 4 G v. 22.3.2024 I Nr. 102
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -992,8 +992,10 @@ der unter die Abschrift zu setzen ist. Der Vermerk muss enthalten
     a)  die zur Abbildung eines Schriftstücks hergestellt wurden,
 
 
-    b)  die ein anderes technisches Format als das mit einer qualifizierten
-        elektronischen Signatur verbundene Ausgangsdokument erhalten haben.
+    b)  die ein anderes technisches Format als das Ausgangsdokument, das
+        verbunden ist mit einer qualifizierten elektronischen Signatur oder
+        einem qualifizierten elektronischen Siegel einer Behörde, erhalten
+        haben.
 
 
 
@@ -1005,17 +1007,20 @@ der unter die Abschrift zu setzen ist. Der Vermerk muss enthalten
 Absatz 3 Satz 2 bei der Beglaubigung
 
 1.  des Ausdrucks eines elektronischen Dokuments, das mit einer
-    qualifizierten elektronischen Signatur verbunden ist, die
-    Feststellungen enthalten,
+    qualifizierten elektronischen Signatur oder einem qualifizierten
+    elektronischen Siegel einer Behörde verbunden ist, die Feststellungen
+    enthalten,
 
-    a)  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+    a)  wen die Signaturprüfung als Inhaber der Signatur oder welche Behörde
+        die Signaturprüfung als Inhaber des Siegels ausweist,
 
 
     b)  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
-        ausweist und
+        oder des Siegels ausweist und
 
 
-    c)  welche Zertifikate mit welchen Daten dieser Signatur zugrunde lagen;
+    c)  welche Zertifikate mit welchen Daten dieser Signatur oder diesem
+        Siegel zugrunde lagen;
 
 
 
@@ -1025,16 +1030,19 @@ Absatz 3 Satz 2 bei der Beglaubigung
     zuständigen Bediensteten und die Bezeichnung der Behörde, die die
     Beglaubigung vornimmt, enthalten; die Unterschrift des für die
     Beglaubigung zuständigen Bediensteten und das Dienstsiegel nach Absatz
-    3 Satz 2 Nr. 4 werden durch eine dauerhaft überprüfbare qualifizierte
-    elektronische Signatur ersetzt.
+    3 Satz 2 Nummer 4 werden durch eine dauerhaft überprüfbare
+    qualifizierte elektronische Signatur oder durch ein dauerhaft
+    überprüfbares qualifiziertes elektronisches Siegel der Behörde
+    ersetzt.
 
 
 
 Wird ein elektronisches Dokument, das ein anderes technisches Format
-als das mit einer qualifizierten elektronischen Signatur verbundene
-Ausgangsdokument erhalten hat, nach Satz 1 Nr. 2 beglaubigt, muss der
-Beglaubigungsvermerk zusätzlich die Feststellungen nach Satz 1 Nr. 1
-für das Ausgangsdokument enthalten.
+erhalten hat als das Ausgangsdokument, das mit einer qualifizierten
+elektronischen Signatur oder einem qualifizierten elektronischen
+Siegel einer Behörde verbunden ist, nach Satz 1 Nummer 2 beglaubigt,
+so muss der Beglaubigungsvermerk zusätzlich die Feststellungen nach
+Satz 1 Nummer 1 für das Ausgangsdokument enthalten.
 
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
@@ -1177,8 +1185,8 @@ in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist
 schriftlich oder elektronisch zu bestätigen, wenn hieran ein
 berechtigtes Interesse besteht und der Betroffene dies unverzüglich
 verlangt. Ein elektronischer Verwaltungsakt ist unter denselben
-Voraussetzungen schriftlich zu bestätigen; § 36a Abs. 2 des Ersten
-Buches findet insoweit keine Anwendung.
+Voraussetzungen schriftlich zu bestätigen; § 36a Absatz 2 und 2a des
+Ersten Buches findet insoweit keine Anwendung.
 
 (3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die
 erlassende Behörde erkennen lassen und die Unterschrift oder die
@@ -1188,13 +1196,14 @@ Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
 Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
-§ 36a Absatz 2 Satz 4 Nummer 3 des Ersten Buches muss die Bestätigung
-nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als
-Nutzer des De-Mail-Kontos erkennen lassen.
+§ 36a Absatz 2a Nummer 3 Buchstabe b des Ersten Buches muss die
+Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende
+Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
 
-(4) Für einen Verwaltungsakt kann für die nach § 36a Abs. 2 des Ersten
-Buches erforderliche Signatur durch Rechtsvorschrift die dauerhafte
-Überprüfbarkeit vorgeschrieben werden.
+(4) Für einen Verwaltungsakt kann für die nach § 36a Absatz 2 des
+Ersten Buches erforderliche Signatur oder für das nach § 36a Absatz 2a
+Nummer 3 Buchstabe a des Ersten Buches erforderliche Siegel durch
+Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
 
 (5) Bei einem Verwaltungsakt, der mit Hilfe automatischer
 Einrichtungen erlassen wird, können abweichend von Absatz 3 Satz 1
@@ -1927,12 +1936,13 @@ Dienstes, der die Befähigung zum Richteramt hat, vertreten werden.
 
 (2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1
 ist § 66 entsprechend anzuwenden. Will eine natürliche oder
-juristische Person des Privatrechts oder eine nichtrechtsfähige
-Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so
-ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend
-anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer
-Handlung, Duldung oder Unterlassung gegen eine Behörde, ist § 172 der
-Verwaltungsgerichtsordnung entsprechend anzuwenden.
+juristische Person des Privatrechts oder eine sonstige
+Personenvereinigung die Vollstreckung wegen einer Geldforderung
+betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung
+entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der
+Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine
+Behörde, ist § 172 der Verwaltungsgerichtsordnung entsprechend
+anzuwenden.
 
 
 #### § 61 Ergänzende Anwendung von Vorschriften
@@ -2006,12 +2016,10 @@ sind befreit Urkunden, die
     Versicherten oder ihren Hinterbliebenen andererseits abzuwickeln,
 
 
-2.  im Sozialhilferecht, im Recht der Eingliederungshilfe, im Recht der
-    Grundsicherung für Arbeitsuchende, im Kinder- und Jugendhilferecht
-    sowie im Recht der Kriegsopferfürsorge aus Anlass der Beantragung,
-    Erbringung oder Erstattung einer nach dem Zwölften Buch, dem Neunten
-    Buch, dem Zweiten und dem Achten Buch oder dem Bundesversorgungsgesetz
-    vorgesehenen Leistung benötigt werden,
+2.  im Sozialhilferecht, im Recht der Grundsicherung für Arbeitsuchende
+    sowie im Kinder- und Jugendhilferecht aus Anlass der Beantragung,
+    Erbringung oder Erstattung einer nach dem Zwölften Buch, dem Zweiten
+    oder dem Achten Buch vorgesehenen Leistung benötigt werden,
 
 
 3.  im Schwerbehindertenrecht von der zuständigen Stelle im Zusammenhang
@@ -2019,8 +2027,7 @@ sind befreit Urkunden, die
     werden,
 
 
-4.  im Recht der sozialen Entschädigung bei Gesundheitsschäden für
-    erforderlich gehalten werden,
+4.  im Recht der Sozialen Entschädigung für erforderlich gehalten werden,
 
 
 5.  im Kindergeldrecht für erforderlich gehalten werden.
@@ -2036,8 +2043,8 @@ und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im
 Verfahren vor Gerichten der Sozial- und Finanzgerichtsbarkeit sind die
 Träger der Eingliederungshilfe, der Sozialhilfe, der Grundsicherung
 für Arbeitsuchende, der Leistungen nach dem
-Asylbewerberleistungsgesetz, der Jugendhilfe und der
-Kriegsopferfürsorge von den Gerichtskosten befreit; § 197a des
+Asylbewerberleistungsgesetz, der Jugendhilfe und der Sozialen
+Entschädigung, von den Gerichtskosten befreit; § 197a des
 Sozialgerichtsgesetzes bleibt unberührt.
 
 
@@ -2051,8 +2058,9 @@ Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der
 Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5
 bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte
 zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften
-gelten auch, soweit Zustellungen durch Verwaltungsbehörden der
-Kriegsopferversorgung vorgeschrieben sind.
+gelten auch, soweit Zustellungen durch die nach Landesrecht zur
+Durchführung des Vierzehnten Buches zuständigen Stellen vorgeschrieben
+sind.
 
 (2) Für die übrigen Behörden gelten die jeweiligen landesrechtlichen
 Vorschriften über das Zustellungsverfahren.
@@ -2091,9 +2099,9 @@ Vollziehungsbeamte bestellen darf. Der nach Satz 4 beauftragte Verband
 der Krankenkassen ist berechtigt, Verwaltungsakte zur Erfüllung der
 mit der Vollstreckung verbundenen Aufgabe zu erlassen.
 
-(2) Absatz 1 Satz 1 bis 3 gilt auch für die Vollstreckung durch
-Verwaltungsbehörden der Kriegsopferversorgung; das Land bestimmt die
-Vollstreckungsbehörde.
+(2) Absatz 1 Satz 1 bis 3 gilt auch für die Vollstreckung durch die
+nach Landesrecht zur Durchführung des Vierzehnten Buches zuständigen
+Stellen; das Land bestimmt die Vollstreckungsbehörde.
 
 (3) Für die Vollstreckung zugunsten der übrigen Behörden gelten die
 jeweiligen landesrechtlichen Vorschriften über das
@@ -2986,20 +2994,21 @@ dort genannten Maßnahmen sind die besonderen Kategorien von Daten im
 Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zu
 anonymisieren, sobald dies nach dem Forschungszweck möglich ist.
 
-(4) Die Übermittlung nach Absatz 1 und die weitere Verarbeitung sowie
-die Übermittlung nach Absatz 2 bedürfen der vorherigen Genehmigung
-durch die oberste Bundes- oder Landesbehörde, die für den Bereich, aus
-dem die Daten herrühren, zuständig ist. Die oberste Bundesbehörde kann
-das Genehmigungsverfahren bei Anträgen von Versicherungsträgern nach §
-1 Absatz 1 Satz 1 des Vierten Buches oder von deren Verbänden auf das
-Bundesversicherungsamt übertragen. Eine Übermittlung von Sozialdaten
-an eine nicht-öffentliche Stelle und eine weitere Verarbeitung durch
-diese nach Absatz 2 darf nur genehmigt werden, wenn sich die nicht-
-öffentliche Stelle gegenüber der Genehmigungsbehörde verpflichtet hat,
-die Daten nur für den vorgesehenen Zweck zu verarbeiten. Die
-Genehmigung darf im Hinblick auf die Wahrung des Sozialgeheimnisses
-nur versagt werden, wenn die Voraussetzungen des Absatzes 1, 2 oder 4a
-nicht vorliegen. Sie muss
+(4) Die Übermittlung nach Absatz 1 und die weitere Verarbeitung,
+einschließlich einer Verarbeitung von Sozialdaten mit weiteren Daten,
+sowie die Übermittlung nach Absatz 2 bedürfen der vorherigen
+Genehmigung durch die oberste Bundes- oder Landesbehörde, die für den
+Bereich, aus dem die Daten herrühren, zuständig ist. Die oberste
+Bundesbehörde kann das Genehmigungsverfahren bei Anträgen von
+Versicherungsträgern nach § 1 Absatz 1 Satz 1 des Vierten Buches oder
+von deren Verbänden auf das Bundesversicherungsamt übertragen. Eine
+Übermittlung von Sozialdaten an eine nicht-öffentliche Stelle und eine
+weitere Verarbeitung durch diese nach Absatz 2 darf nur genehmigt
+werden, wenn sich die nicht-öffentliche Stelle gegenüber der
+Genehmigungsbehörde verpflichtet hat, die Daten nur für den
+vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im Hinblick
+auf die Wahrung des Sozialgeheimnisses nur versagt werden, wenn die
+Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen. Sie muss
 
 1.  den Dritten, an den die Daten übermittelt werden,
 
@@ -3860,7 +3869,7 @@ mit dessen Zustimmung wahrnehmen lassen, wenn dies
 
 
 zweckmäßig ist. Satz 1 gilt nicht im Recht der Ausbildungsförderung,
-der Kriegsopferfürsorge, des Kindergelds, der Unterhaltsvorschüsse und
+des Kindergelds, der Unterhaltsvorschüsse und
 Unterhaltsausfallleistungen, im Wohngeldrecht sowie im Recht der
 Jugendhilfe und der Sozialhilfe.
 
@@ -4299,7 +4308,8 @@ erlangt hat.
 zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der
-Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der
+Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung,
+soweit diese Besondere Leistungen im Einzelfall erbringen, und der
 Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass
 die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
@@ -4319,7 +4329,8 @@ Erstattungsanspruch besteht nicht, soweit der nachrangige
 Leistungsträger seine Leistungen auch bei Leistung des vorrangig
 verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt
 entsprechend, wenn von den Trägern der Eingliederungshilfe, der
-Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe
+Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere
+Leistungen im Einzelfall erbringen, und der Jugendhilfe
 Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben
 werden kann; Satz 3 gilt in diesen Fällen nicht.
 
@@ -4352,7 +4363,8 @@ erlangt hat. § 104 Abs. 2 gilt entsprechend.
 zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der
-Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der
+Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung,
+soweit diese Besondere Leistungen im Einzelfall erbringen, und der
 Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass
 die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
@@ -4408,7 +4420,8 @@ unverzüglich vorzunehmen und den übrigen Leistungsträgern mitzuteilen.
 (1) Sach- und Dienstleistungen sind in Geld zu erstatten.
 
 (2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der
-Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe ist von
+Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere
+Leistungen im Einzelfall erbringen, und der Jugendhilfe ist von
 anderen Leistungsträgern
 
 1.  für die Dauer des Erstattungszeitraumes und
@@ -4715,4 +4728,11 @@ Vollstreckungs- und Vollziehungsbeamten ab dem 30. März 2005.
 oder den Beitritt zu Arbeitsgemeinschaften, wenn die Bildung oder der
 Beitritt nach dem 30. Juni 2020 erfolgt; die am 30. Juni 2020 bereits
 bestehenden Arbeitsgemeinschaften dürfen weitergeführt werden.
+
+(8) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 64
+Absatz 2 Satz 3 Nummer 2 und Absatz 3 Satz 2, § 65 Absatz 1 Satz 3, §
+66 Absatz 2, § 88 Absatz 1 Satz 2, § 103 Absatz 3, § 104 Absatz 1 Satz
+4, § 105 Absatz 3 und § 108 Absatz 2 Satz 1 in der bis zum 31.
+Dezember 2023 geltenden Fassung weiter.
 

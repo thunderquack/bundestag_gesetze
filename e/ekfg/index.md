@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1807
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.7.2022 I 1144
+:   Art. 3 G v. 22.12.2023 I Nr. 412
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -31,13 +31,14 @@ Transformationsfonds“.
 
 (1) Das Sondervermögen ermöglicht zusätzliche Programmausgaben zur
 Förderung von Maßnahmen, die der Erreichung der Klimaschutzziele nach
-dem Bundes-Klimaschutzgesetz vom 12. Dezember 2019 (BGBl. I S. 2513),
-das durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3905)
-geändert worden ist, dienen. Förderfähig sind insbesondere Maßnahmen,
-die geeignet sind, die Transformation Deutschlands zu einer
+dem Bundes-Klimaschutzgesetz vom 12. Dezember 2019 (BGBl. I S. 2513)
+in der jeweils geltenden Fassung dienen. Förderfähig sind insbesondere
+Maßnahmen, die geeignet sind, die Transformation Deutschlands zu einer
 nachhaltigen und klimaneutralen Volkswirtschaft voranzutreiben.
-Außerdem förderfähig sind Maßnahmen zum internationalen Klimaschutz
-sowie Maßnahmen des damit in Verbindung stehenden Umweltschutzes.
+Außerdem förderfähig sind Maßnahmen zur Förderung der Mikroelektronik,
+zur Finanzierung der Schienenwege des Bundes, zum internationalen
+Klimaschutz sowie Maßnahmen des damit in Verbindung stehenden
+Umweltschutzes.
 
 (2) Aus dem Sondervermögen können auch
 
@@ -201,7 +202,14 @@ Verwendung der im Vorjahr verausgabten Mittel.
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
-## § 10 Inkrafttreten
+## § 10 Bekanntmachungserlaubnis
+
+Das Bundesministerium der Finanzen kann den Wortlaut des Klima- und
+Transformationsfondsgesetzes in der vom 1. Januar 2024 an geltenden
+Fassung im Bundesgesetzblatt bekannt machen.
+
+
+## § 11 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.8.2011 I 1730;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 28.6.2021 I 2250
+:   Art. 2 G v. 20.12.2023 I Nr. 392
 
 
 ## Abschnitt 1 - Wehrpflicht
@@ -498,10 +498,10 @@ Vom Wehrdienst ist ausgeschlossen,
     Freiheitsstrafe von mindestens einem Jahr oder wegen einer
     vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat,
     Hochverrat, Gefährdung des demokratischen Rechtsstaates oder
-    Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu
-    Freiheitsstrafe von sechs Monaten oder mehr verurteilt worden ist, es
-    sei denn, dass die Eintragung über die Verurteilung im Zentralregister
-    getilgt ist,
+    Landesverrat, Gefährdung der äußeren Sicherheit oder Volksverhetzung
+    strafbar ist, zu Freiheitsstrafe von sechs Monaten oder mehr
+    verurteilt worden ist, es sei denn, dass die Eintragung über die
+    Verurteilung im Zentralregister getilgt ist,
 
 
 2.  wer infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher
@@ -1545,18 +1545,22 @@ Im Übrigen ist er zu entlassen, wenn
     gefährdet würde,
 
 
-6.  er als Kriegsdienstverweigerer anerkannt ist, soweit er nicht nach §
+6.  bei ihm die Voraussetzungen des § 46 Absatz 2a des Soldatengesetzes
+    vorliegen,
+
+
+7.  er als Kriegsdienstverweigerer anerkannt ist, soweit er nicht nach §
     19 Absatz 2 des Zivildienstgesetzes in den Zivildienst überführt wird,
 
 
-7.  er seiner Aufstellung für die Wahl zum Deutschen Bundestag, zu einem
+8.  er seiner Aufstellung für die Wahl zum Deutschen Bundestag, zu einem
     Landtag oder zum Europäischen Parlament zugestimmt hat,
 
 
-8.  er unabkömmlich gestellt ist,
+9.  er unabkömmlich gestellt ist,
 
 
-9.  er nach § 12 Absatz 7 zurückgestellt ist.
+10. er nach § 12 Absatz 7 zurückgestellt ist.
 
 
 
@@ -1661,8 +1665,8 @@ ist aus der Bundeswehr ausgeschlossen, wenn gegen ihn durch Urteil
 eines deutschen Gerichts auf die in § 10 bezeichneten Strafen,
 Maßregeln oder Nebenfolgen erkannt wird. Er verliert seinen
 Dienstgrad; dies gilt auch, wenn er wegen schuldhafter Verletzung
-seiner Dienstpflichten nach § 29 Absatz 1 Satz 3 Nummer 5 entlassen
-wird.
+seiner Dienstpflichten nach § 29 Absatz 1 Satz 3 Nummer 5 oder nach §
+29 Absatz 1 Satz 3 Nummer 6 entlassen wird.
 
 (2) Ein Wehrpflichtiger verliert seinen Dienstgrad, wenn gegen ihn
 durch ein deutsches Gericht erkannt wird

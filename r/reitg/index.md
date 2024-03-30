@@ -126,12 +126,12 @@ REIT zum Ende dieses Geschäftsjahres.
 
 ### § 3 Begriffsbestimmung
 
-(1) Immobilienpersonengesellschaften sind Personengesellschaften,
-deren Unternehmensgegenstand im Sinne des § 1 Abs. 1 Nr. 1 und 2
-beschränkt ist und die nach dem Gesellschaftsvertrag nur
-Vermögensgegenstände im Sinne des Absatzes 7 mit Ausnahme von
-Beteiligungen an Auslandsobjektgesellschaften und REIT-
-Dienstleistungsgesellschaften erwerben dürfen.
+(1) Immobilienpersonengesellschaften sind rechtsfähige
+Personengesellschaften, deren Unternehmensgegenstand im Sinne des § 1
+Abs. 1 Nr. 1 und 2 beschränkt ist und die nach dem
+Gesellschaftsvertrag nur Vermögensgegenstände im Sinne des Absatzes 7
+mit Ausnahme von Beteiligungen an Auslandsobjektgesellschaften und
+REIT-Dienstleistungsgesellschaften erwerben dürfen.
 
 (2) REIT-Dienstleistungsgesellschaften sind Kapitalgesellschaften,
 deren sämtliche Anteile von der REIT-Aktiengesellschaft gehalten
@@ -515,9 +515,10 @@ Immobilienpersonengesellschaften, soweit es der Beteiligung der
 Aktiengesellschaft entspricht, mit dem Teilwert anzusetzen. Maßgebend
 ist der Zeitpunkt der Schlussbilanz der Aktiengesellschaft im Sinne
 des § 13 Abs. 1 und 3 Satz 1 des Körperschaftsteuergesetzes. Eine
-mittelbare Beteiligung über eine oder mehrere Personengesellschaften
-steht der unmittelbaren Beteiligung gleich, § 15 Abs. 1 Satz 1 Nr. 2
-Satz 2 des Einkommensteuergesetzes gilt sinngemäß.
+mittelbare Beteiligung über eine oder mehrere rechtsfähige
+Personengesellschaften steht der unmittelbaren Beteiligung gleich, §
+15 Abs. 1 Satz 1 Nr. 2 Satz 2 des Einkommensteuergesetzes gilt
+sinngemäß.
 
 (4) Nach einem Verlust der Steuerbefreiung im Sinne des § 18 kann die
 Steuerbefreiung nicht vor Ablauf von vier Jahren seit dem Verlust

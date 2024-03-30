@@ -20,7 +20,10 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 16.8.2023 I Nr. 217
+:   Art. 5b G v. 22.3.2024 I Nr. 101
+
+Änderung durch
+:   Art. 32 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 bzw. 28.3.2024 bzw. 1.7.2025 bzw. 1.7.2026 noch nicht berücksichtigt
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -231,7 +234,7 @@ fortdauert, jedoch nicht länger als einen Monat. Eine Beschäftigung
 gilt auch als fortbestehend, wenn Arbeitsentgelt aus einem der
 Deutschen Rentenversicherung Bund übertragenen Wertguthaben bezogen
 wird. Satz 1 gilt nicht, wenn Krankengeld, Krankentagegeld,
-Verletztengeld, Versorgungskrankengeld, Übergangsgeld,
+Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld,
 Pflegeunterstützungsgeld oder Mutterschaftsgeld oder nach gesetzlichen
 Vorschriften Erziehungsgeld oder Elterngeld bezogen oder Elternzeit in
 Anspruch genommen oder Wehrdienst oder Zivildienst geleistet wird.
@@ -684,6 +687,10 @@ Arbeitgeber vorsätzlich oder grob fahrlässig versäumt hat, den
 Sachverhalt für die versicherungsrechtliche Beurteilung der
 Beschäftigung aufzuklären.
 
+(2a) Absatz 1 Nummer 2 gilt nicht für aufgrund der
+Beschäftigungsverordnung zugelassene kontingentierte kurzzeitige
+Beschäftigungen.
+
 (3) Die Absätze 1, 1a und 2 gelten entsprechend, soweit anstelle einer
 Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt
 nicht für das Recht der Arbeitsförderung.
@@ -1052,10 +1059,10 @@ Summe der Gewinne oder Verluste aus folgenden Arbeitseinkommensarten:
 (3) Erwerbsersatzeinkommen im Sinne des Absatzes 1 Satz 1 Nummer 2
 sind
 
-1.  das Krankengeld, das Verletztengeld, das Versorgungskrankengeld, das
-    Mutterschaftsgeld, das Übergangsgeld, das Pflegeunterstützungsgeld,
-    das Kurzarbeitergeld, das Arbeitslosengeld, das Insolvenzgeld, das
-    Krankentagegeld und vergleichbare Leistungen,
+1.  das Krankengeld, das Verletztengeld, das Krankengeld der Sozialen
+    Entschädigung, das Mutterschaftsgeld, das Übergangsgeld, das
+    Pflegeunterstützungsgeld, das Kurzarbeitergeld, das Arbeitslosengeld,
+    das Insolvenzgeld, das Krankentagegeld und vergleichbare Leistungen,
 
 
 2.  Renten der Rentenversicherung wegen Alters oder verminderter
@@ -1102,10 +1109,9 @@ sind
     Erwerbsfähigkeit oder Alters,
 
 
-8.  der Berufsschadensausgleich nach § 30 Absatz 3 bis 11 des
-    Bundesversorgungsgesetzes und anderen Gesetzen, die die entsprechende
-    Anwendung der Leistungsvorschriften des Bundesversorgungsgesetzes
-    vorsehen,
+8.  der Berufsschadensausgleich nach Kapitel 10 des Vierzehnten Buches
+    sowie nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten
+    Buches vorsehen,
 
 
 9.  Renten wegen Alters oder verminderter Erwerbsfähigkeit, die aus Anlass
@@ -1514,8 +1520,9 @@ beantragen.
 Bundesagentur für Arbeit die dazu notwendigen Angaben, insbesondere
 den Namen und die Anschrift des Beschäftigungsbetriebes, den
 Beschäftigungsort, die wirtschaftliche Tätigkeit des
-Beschäftigungsbetriebes und die Rechtsform des Betriebes elektronisch
-zu übermitteln.
+Beschäftigungsbetriebes und die Rechtsform des Betriebes sowie die
+Unternehmernummer einschließlich des Anhangs gemäß § 136a des Siebten
+Buches elektronisch zu übermitteln.
 
 (3) Der Beschäftigungsbetrieb ist eine nach der Gemeindegrenze und der
 wirtschaftlichen Betätigung abgegrenzte Einheit, in der Beschäftigte
@@ -1532,11 +1539,15 @@ Arbeitgeber, nach Eröffnung des Insolvenzverfahrens vom
 Insolvenzverwalter, unverzüglich der Bundesagentur für Arbeit durch
 gesicherte und verschlüsselte Datenübertragung aus systemgeprüften
 Programmen oder mittels maschinell erstellter Ausfüllhilfen zu
-übermitteln.
+übermitteln. Dies gilt auch für anlassbezogene Bestandsmeldungen. Die
+Bundesagentur für Arbeit hat alle Rückmeldungen an die Arbeitgeber
+oder Insolvenzverwalter durch gesicherte und verschlüsselte
+Datenübertragung zu erstatten.
 
 (5) Das Nähere zum Verfahren und zum Inhalt der zu übermittelnden
-Angaben, insbesondere der Datensätze, regeln die Gemeinsamen
-Grundsätze nach § 28b Absatz 1 Satz 1 Nummer 1 bis 3.
+Angaben, insbesondere der Datensätze sowie der in Absatz 4 Satz 2
+genannten Anlässe, regeln die Gemeinsamen Grundsätze nach § 28b Absatz
+1 Satz 1 Nummer 1 bis 3.
 
 (6) Die Betriebsnummern und alle Angaben nach den Absätzen 2 und 4
 werden bei der Bundesagentur für Arbeit in einem elektronischen
@@ -1819,21 +1830,22 @@ Folgemonats. In den Fällen des Satzes 3 sind Beiträge, die auf eine
 Einmalzahlung im Vormonat entfallen, nicht zu berücksichtigen.
 Sonstige Beiträge werden spätestens am Fünfzehnten des Monats fällig,
 der auf den Monat folgt, für den sie zu entrichten sind. Die
-erstmalige Fälligkeit der Beiträge für die nach § 3 Satz 1 Nummer 1a
-des Sechsten Buches versicherten Pflegepersonen ist abhängig von dem
-Zeitpunkt, zu dem die Pflegekasse, das private
-Versicherungsunternehmen, die Festsetzungsstelle für die Beihilfe oder
-der Dienstherr bei Heilfürsorgeberechtigten die Versicherungspflicht
-der Pflegeperson festgestellt hat oder ohne Verschulden hätte
-feststellen können. Wird die Feststellung in der Zeit vom Ersten bis
-zum Fünfzehnten eines Monats getroffen, werden die Beiträge erstmals
-spätestens am Fünfzehnten des folgenden Monats fällig; wird die
-Feststellung in der Zeit vom Sechzehnten bis zum Ende eines Monats
-getroffen, werden die Beiträge erstmals am Fünfzehnten des zweiten
-darauffolgenden Monats fällig; das Nähere vereinbaren die
-Spitzenverbände der beteiligten Träger der Sozialversicherung, der
-Verband der privaten Krankenversicherung e. V. und die
-Festsetzungsstellen für die Beihilfe.
+erstmalige Fälligkeit der Beiträge für die nach § 26 Absatz 2b des
+Dritten Buches sowie für die nach § 3 Satz 1 Nummer 1a des Sechsten
+Buches versicherten Pflegepersonen ist abhängig von dem Zeitpunkt, zu
+dem die Pflegekasse, das private Versicherungsunternehmen, die
+Festsetzungsstelle für die Beihilfe oder der Dienstherr bei
+Heilfürsorgeberechtigten die Versicherungspflicht der Pflegeperson
+festgestellt hat oder ohne Verschulden hätte feststellen können. Wird
+die Feststellung in der Zeit vom Ersten bis zum Fünfzehnten eines
+Monats getroffen, werden die Beiträge erstmals spätestens am
+Fünfzehnten des folgenden Monats fällig; wird die Feststellung in der
+Zeit vom Sechzehnten bis zum Ende eines Monats getroffen, werden die
+Beiträge erstmals am Fünfzehnten des zweiten darauffolgenden Monats
+fällig; das Nähere vereinbaren die Spitzenverbände der beteiligten
+Träger der Sozialversicherung, der Verband der privaten
+Krankenversicherung e. V. und die Festsetzungsstellen für die
+Beihilfe.
 
 (2) Die Beiträge für eine Sozialleistung im Sinne des § 3 Satz 1
 Nummer 3 des Sechsten Buches einschließlich Sozialleistungen, auf die
@@ -2087,14 +2099,14 @@ erbringt.
 (1) Zuschüsse des Arbeitgebers zum Krankengeld, Verletztengeld,
 Übergangsgeld, Pflegeunterstützungsgeld oder Krankentagegeld und
 sonstige Einnahmen aus einer Beschäftigung, die für die Zeit des
-Bezuges von Krankengeld, Krankentagegeld, Versorgungskrankengeld,
-Verletztengeld, Übergangsgeld, Pflegeunterstützungsgeld,
-Mutterschaftsgeld, Erziehungsgeld oder Elterngeld weiter erzielt
-werden, gelten nicht als beitragspflichtiges Arbeitsentgelt, wenn die
-Einnahmen zusammen mit den genannten Sozialleistungen das
-Nettoarbeitsentgelt im Sinne des § 47 des Fünften Buches nicht um mehr
-als 50 Euro im Monat übersteigen. Zur Berechnung des
-Nettoarbeitsentgelts bei freiwilligen Mitgliedern der gesetzlichen
+Bezuges von Krankengeld, Krankentagegeld, Krankengeld der Sozialen
+Entschädigung, Verletztengeld, Übergangsgeld,
+Pflegeunterstützungsgeld, Mutterschaftsgeld, Erziehungsgeld oder
+Elterngeld weiter erzielt werden, gelten nicht als beitragspflichtiges
+Arbeitsentgelt, wenn die Einnahmen zusammen mit den genannten
+Sozialleistungen das Nettoarbeitsentgelt im Sinne des § 47 des Fünften
+Buches nicht um mehr als 50 Euro im Monat übersteigen. Zur Berechnung
+des Nettoarbeitsentgelts bei freiwilligen Mitgliedern der gesetzlichen
 Krankenversicherung ist der um den Beitragszuschuss für Beschäftigte
 verminderte Beitrag des Versicherten zur Kranken- und
 Pflegeversicherung abzuziehen; dies gilt entsprechend für Personen und
@@ -2297,7 +2309,10 @@ oder nach dem Recht der Arbeitsförderung kraft Gesetzes Versicherten
 3.  bei Eintritt eines Insolvenzereignisses,
 
 
-4.  (weggefallen)
+4.  bei Beginn der Elternzeit,
+
+
+4a. bei Ende der Elternzeit,
 
 
 5.  bei Änderungen in der Beitragspflicht,
@@ -2531,6 +2546,44 @@ Angaben zur Einrichtung eines Arbeitgeberkontos elektronisch zu
 übermitteln. Das Nähere über die Angaben, die Datensätze und das
 Verfahren regeln die Gemeinsamen Grundsätze nach § 28b Absatz 1.
 
+(3c) Der Arbeitgeber oder eine Zahlstelle nach § 202 Absatz 2 des
+Fünften Buches können in den Fällen, in denen ihnen trotz vorheriger
+Aufforderung an den Beschäftigten keine, unvollständige oder falsche
+Angaben über die Mitgliedschaft in einer Krankenkasse des
+Beschäftigten für die Erstattung von Meldungen vorliegen, über den
+Spitzenverband Bund der Krankenkassen die aktuelle Mitgliedschaft des
+Beschäftigten in einer gesetzlichen Krankenkasse elektronisch
+abfragen. Der Spitzenverband Bund der Krankenkassen ermittelt die
+aktuelle Mitgliedschaft durch eine Abfrage bei den Krankenkassen. Für
+die Abfrage sind Name, Vorname, Geburtsdatum, Geburtsort und
+Versicherungsnummer des Versicherten anzugeben. Der Spitzenverband
+Bund der Krankenkassen hat der anfragenden Stelle nach Satz 1
+unverzüglich eine Rückmeldung mit der Betriebsnummer der Krankenkasse,
+in der der Beschäftigte zum Zeitpunkt der Abfrage Mitglied ist, zu
+erstatten.
+
+(3d) Die Bundesagentur für Arbeit und die für die Durchführung der
+Grundsicherung für Arbeitsuchende zuständigen Stellen können bei
+Vorliegen einer Meldepflicht nach § 203a des Fünften Buches über den
+Spitzenverband Bund der Krankenkassen die aktuelle Mitgliedschaft in
+einer gesetzlichen Krankenkasse eines Versicherten elektronisch
+abfragen, wenn ihnen trotz vorheriger Aufforderung an den Versicherten
+keine, unvollständige oder falsche Angaben über die Mitgliedschaft des
+Versicherten in einer Krankenkasse vorliegen; Absatz 3c Satz 2 und 3
+gilt entsprechend. Absatz 3c Satz 1 gilt entsprechend für den Abruf
+von Daten nach § 109a durch die Bundesagentur für Arbeit.
+
+(3e) Das Nähere zum Verfahren und zum Datensatz nach den Absätzen 3c
+und 3d regelt der Spitzenverband Bund der Krankenkassen in
+Grundsätzen, die vom Bundesministerium für Arbeit und Soziales im
+Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen
+sind; die Bundesagentur für Arbeit und die Bundesvereinigung der
+Deutschen Arbeitgeberverbände sind vorher anzuhören. In den Fällen, in
+denen die Grundsätze Auswirkungen auf die Verfahren der für die
+Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
+haben, ist der Bund-Länder-Ausschuss nach § 18c des Zweiten Buches
+anzuhören.
+
 (4) Arbeitgeber haben den Tag des Beginns eines
 Beschäftigungsverhältnisses spätestens bei dessen Aufnahme an die
 Datenstelle der Rentenversicherung nach Satz 2 zu melden, sofern sie
@@ -2702,7 +2755,8 @@ des Arbeitgebers und des Beschäftigten abgesehen werden.
 von der Versicherungspflicht befreite geringfügig Beschäftigte die
 Absätze 1 bis 6 entsprechend. Eine Jahresmeldung nach Absatz 2 ist für
 geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 2 nicht zu
-erstatten.
+erstatten. Meldungen nach Absatz 1 Satz 1 Nummer 4 und 4a sind für
+geringfügig Beschäftigte nicht zu erstatten.
 
 (9a) Für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 2 hat der
 Arbeitgeber bei der Meldung nach Absatz 1 Satz 1 Nummer 1 zusätzlich
@@ -3544,24 +3598,66 @@ Prüfung der Arbeitgeber für die Unfallversicherung nicht von den
 Trägern der Rentenversicherung durchzuführen ist; die Träger der
 Unfallversicherung haben die erforderlichen Angaben zu übermitteln.
 Die Datenstelle der Rentenversicherung führt für die Prüfung bei den
-Arbeitgebern ein Dateisystem, in dem neben der Betriebsnummer eines
-jeden Arbeitgebers, die Betriebsnummer des für den Arbeitgeber
-zuständigen Unfallversicherungsträgers, die Unternehmernummer nach
-§ 136a des Siebten Buches des Arbeitgebers, das in der
-Unfallversicherung beitragspflichtige Entgelt der bei ihm
-Beschäftigten in Euro, die anzuwendenden Gefahrtarifstellen der bei
-ihm Beschäftigten, die Versicherungsnummern der bei ihm Beschäftigten
-einschließlich des Beginns und des Endes von deren Beschäftigung, die
-Bezeichnung der für jeden Beschäftigten zuständigen Einzugsstelle
-sowie eine Kennzeichnung des Vorliegens einer geringfügigen
-Beschäftigung gespeichert sind. Sie darf die Daten der Stammsatzdatei
-nach § 150 Absatz 1 und 2 des Sechsten Buches sowie die Daten des
-Dateisystems nach § 150 Absatz 3 des Sechsten Buches und der
-Stammdatendatei nach § 101 für die Prüfung bei den Arbeitgebern
-speichern, verändern, nutzen, übermitteln oder in der Verarbeitung
-einschränken; dies gilt für die Daten der Stammsatzdatei auch für
-Prüfungen nach § 212a des Sechsten Buches. Sie ist verpflichtet, auf
-Anforderung des prüfenden Trägers der Rentenversicherung
+Arbeitgebern ein Dateisystem, das die folgenden Daten enthält:
+
+1.  die Betriebsnummern eines jeden Arbeitgebers,
+
+
+2.  die Absendernummern,
+
+
+3.  die Betriebsnummern der Abrechnungsstellen,
+
+
+4.  das Aktenzeichen des Arbeitgebers,
+
+
+5.  die Betriebsnummern des für den Arbeitgeber zuständigen
+    Unfallversicherungsträgers,
+
+
+6.  die Unternehmernummer des Arbeitgebers nach § 136a des Siebten Buches,
+
+
+7.  das in der Unfallversicherung beitragspflichtige Entgelt der beim
+    Arbeitgeber Beschäftigten in Euro,
+
+
+8.  die anzuwendenden Gefahrtarifstellen der beim Arbeitgeber
+    Beschäftigten,
+
+
+9.  die Versicherungsnummern der beim Arbeitgeber Beschäftigten
+    einschließlich des Beginns und des Endes von deren Beschäftigung,
+
+
+10. die Betriebsnummern der für jeden Beschäftigten zuständigen
+    Einzugsstellen,
+
+
+11. eine Kennzeichnung des Vorliegens einer geringfügigen Beschäftigung,
+
+
+12. die Kennung des verwendeten Entgeltabrechnungsprogramms oder die
+    Ausfüllhilfe sowie deren Version,
+
+
+13. das Identifikationskennzeichen jeder Meldung sowie
+
+
+14. bei Stornierung einer Meldung zusätzlich das
+    Identifikationskennzeichen der ursprünglichen Meldung.
+
+
+
+Sie darf die Daten der Stammsatzdatei nach § 150 Absatz 1 und 2 des
+Sechsten Buches sowie die Daten des Dateisystems nach § 150 Absatz 3
+des Sechsten Buches und der Stammdatendatei nach § 101 für die Prüfung
+bei den Arbeitgebern speichern, verändern, nutzen, übermitteln oder in
+der Verarbeitung einschränken; dies gilt für die Daten der
+Stammsatzdatei auch für Prüfungen nach § 212a des Sechsten Buches. Sie
+ist verpflichtet, auf Anforderung des prüfenden Trägers der
+Rentenversicherung
 
 1.  die in den Dateisystemen nach den Sätzen 1 und 3 gespeicherten Daten,
 
@@ -5568,9 +5664,7 @@ mindestens ein Mitglied eines besonderen Ausschusses nach § 36a der
 schriftlichen Abstimmung widerspricht, ist über die Angelegenheit in
 der nächsten Sitzung zu beraten und abzustimmen.
 
-(3a) Abweichend von Absatz 3 können die Selbstverwaltungsorgane und
-besonderen Ausschüsse nach § 36a aus wichtigen Gründen ohne Sitzung
-schriftlich abstimmen.
+(3a) (weggefallen)
 
 (4) Beschlüsse der Bundesvertreterversammlung und des Bundesvorstandes
 der Deutschen Rentenversicherung Bund in Grundsatz- und
@@ -7095,7 +7189,8 @@ Rahmen ihrer Selbstverwaltung.
 Datenübertragung aus systemgeprüften Programmen oder systemgeprüften
 elektronischen Ausfüllhilfen zu erstatten. Dies gilt auch für Anträge
 und Bescheinigungen, soweit dies nach diesem Gesetzbuch oder dem
-Aufwendungsausgleichsgesetz geregelt ist.
+Aufwendungsausgleichsgesetz geregelt ist. Die Daten der Datei nach §
+98a sind dabei zu verwenden.
 
 (2) Eine Systemprüfung ist für Programme und elektronische
 Ausfüllhilfen, die für den Datenaustausch zwischen Meldepflichtigen
@@ -7125,6 +7220,9 @@ Träger der Unfallversicherung und der Bundesagentur für Arbeit im
 Auftrag aller Spitzenorganisationen der Sozialversicherungsträger und
 der Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e.
 V. durchgeführt.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die Programme zur
+Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
 
 
 #### § 95c Datenaustausch zwischen den Sozialversicherungsträgern
@@ -7185,13 +7283,16 @@ Datenübertragung zu erfolgen, wenn
 #### § 96 Kommunikationsserver
 
 (1) Zur Bündelung der Datenübermittlung vom Arbeitgeber an die
-Sozialversicherungsträger und andere öffentliche Stellen nach diesem
-Gesetzbuch und dem Aufwendungsausgleichsgesetz sowie des zugehörigen
-Rückmeldeverfahrens betreiben die gesetzliche Krankenversicherung und
-die Datenstelle der Rentenversicherung jeweils einen
-Kommunikationsserver. Eingehende Meldungen der Arbeitgeber sind
-unverzüglich an die zuständige Annahmestelle weiterzuleiten. Der
-technische Eingang der Meldung ist zu quittieren.
+Sozialversicherungsträger, zwischen Sozialversicherungsträgern und mit
+anderen öffentlichen Stellen nach diesem Gesetzbuch und dem
+Aufwendungsausgleichsgesetz sowie des zugehörigen Rückmeldeverfahrens
+betreiben die gesetzliche Krankenversicherung und die Datenstelle der
+Rentenversicherung jeweils einen Kommunikationsserver. Die in § 97
+Absatz 1 Satz 3 genannten Stellen können Aufgaben nach § 97 Absatz 3
+bis 5 ihrer Annahmestelle auf einen Kommunikationsserver übertragen.
+Eingehende Meldungen der Arbeitgeber sind unverzüglich an die
+zuständige Annahmestelle weiterzuleiten. Der technische Eingang der
+Meldung ist zu quittieren.
 
 (2) Der Meldepflichtige hat Meldungen der Sozialversicherungsträger
 oder anderer öffentlicher Stellen nach diesem Gesetzbuch mindestens
@@ -7199,10 +7300,10 @@ einmal wöchentlich von den Kommunikationsservern elektronisch
 abzurufen, zu speichern und zu nutzen. Der verwertbare Empfang ist
 durch den Meldepflichtigen zu quittieren. Mit der Annahme der Quittung
 durch den Kommunikationsserver gelten die Meldungen als dem
-Meldepflichtigen zugegangen. 30 Tage nach Eingang der Quittung sind
+Meldepflichtigen zugegangen. 42 Tage nach Eingang der Quittung sind
 diese Meldungen durch den Sozialversicherungsträger oder die andere
 öffentliche Stelle zu löschen. Erfolgt keine Quittierung, werden
-Meldungen 30 Tage nach der Bereitstellung zum Abruf gelöscht. Satz 1
+Meldungen 42 Tage nach der Bereitstellung zum Abruf gelöscht. Satz 1
 gilt nicht für Arbeitgeber, die Meldungen nach § 28a Absatz 6a und 7
 abgeben. Diese erhalten die Meldungen von den
 Sozialversicherungsträgern in schriftlicher Form übermittelt. Das
@@ -7248,7 +7349,9 @@ hinaus:
 (2) Abweichend von Absatz 1 kann ein Sozialversicherungsträger oder
 eine gemeinsame Einrichtung im Sinne des § 4 Absatz 2 des
 Tarifvertragsgesetzes durch schriftliche Vereinbarung einen anderen
-Sozialversicherungsträger mit dem Betrieb der Annahmestelle
+Sozialversicherungsträger
+oder eine gemeinsame Einrichtung im Sinne des § 4 Absatz 2 des
+Tarifvertragsgesetzes              mit dem Betrieb der Annahmestelle
 beauftragen.
 
 (3) Die erstannehmende Annahmestelle hat nach der Entschlüsselung der
@@ -7299,6 +7402,29 @@ richtig enthalten sind und innerhalb von drei Arbeitstagen an die
 Adressaten der Meldeinhalte weitergeleitet werden. Die Einzugsstellen
 können die Weiterleitung der Daten an andere Sozialversicherungsträger
 oder andere öffentliche Stellen an eine Annahmestelle übertragen.
+
+
+#### § 98a Datei der Stammdaten der an den Meldeverfahren beteiligten Träger der sozialen Sicherung
+
+(1) Der Spitzenverband Bund der Krankenkassen führt eine
+automatisierte Datei, die den an den Meldeverfahren beteiligten
+Meldepflichtigen die notwendigen Stammdaten der Träger der sozialen
+Sicherung für die Durchführung der Meldeverfahren zum automatisierten
+Abruf zur Verfügung stellt. Die Daten sind jeweils tagesaktuell sowie
+in ihrer Historie für die letzten sechs Jahre darzustellen.
+
+(2) Der Spitzenverband Bund der Krankenkassen, die Deutsche
+Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
+Bahn-See, die Bundesagentur für Arbeit, die Deutsche Gesetzliche
+Unfallversicherung e. V. und die Arbeitsgemeinschaft der
+berufsständischen Versorgungseinrichtungen e. V. sowie die gemeinsamen
+Einrichtungen im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes
+bestimmen das Nähere zum Inhalt, Aufbau, zur Aktualisierung der Datei
+und zu dem Verfahren für den Zugriff auf die Daten durch Dritte in
+Gemeinsamen Grundsätzen. Die Gemeinsamen Grundsätze sind vom
+Bundesministerium für Arbeit und Soziales zu genehmigen; die
+Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher
+anzuhören.
 
 
 ### Dritter Titel - Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung
@@ -7508,7 +7634,7 @@ Informationsportals vorzulegen.
 
 
 
-### § 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 11 Absatz 3 Buchstabe b, Absatz 4, 5, Artikel 12 Absatz 1, Artikel 13 Absatz 1 Buchstabe a oder Buchstabe b Ziffer i und Artikel 16 der Verordnung (EG) Nr. 883/2004
+### § 106 Elektronischer Antrag des Arbeitgebers auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Beschäftigung in einem oder mehreren Mitgliedsstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland
 
 (1) Gelten für vorübergehend in einem anderen Mitgliedstaat der
 Europäischen Union, in einem Vertragsstaat des Abkommens über den
@@ -7520,7 +7646,7 @@ sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1, L 200 vom
 7\.6.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 465/2012
 (ABl. L 149 vom 8.6.2012, S. 4) geändert worden ist, so hat der
 Arbeitgeber einen Antrag auf Ausstellung einer entsprechenden
-Bescheinigung über die Fortgeltung der deutschen Rechtsvorschriften
+Bescheinigung über die Anwendung der deutschen Rechtsvorschriften
 (A1-Bescheinigung) für diesen Beschäftigten an die zuständige Stelle
 durch Datenübertragung aus einem systemgeprüften Programm oder mittels
 einer elektronisch gestützten, systemgeprüften Ausfüllhilfe zu
@@ -7531,49 +7657,62 @@ die Übermittlung der Daten der A1-Bescheinigung innerhalb von drei
 Arbeitstagen an den Arbeitgeber, der diese Bescheinigung der
 beschäftigten Person unverzüglich zugänglich macht.
 
-(2) In den Fällen, in denen die deutschen Rechtsvorschriften über
-soziale Sicherheit
+(2) Für Personen, auf die Artikel KSS.11 Absatz 1 Buchstabe a des
+Abkommens über Handel und Zusammenarbeit zwischen der Europäischen
+Union und der Europäischen Atomgemeinschaft einerseits und dem
+Vereinigten Königreich Großbritannien und Nordirland andererseits
+(ABl. L 149 vom 30.4.2021, S. 10) Anwendung findet, gelten die
+Regelungen nach Absatz 1 entsprechend.
 
-1.  für Beamte und Beschäftigte des öffentlichen Dienstes nach Artikel 11
-    Absatz 3 Buchstabe b der Verordnung (EG) Nr. 883/2004 gelten,
+(3) Absatz 1 gilt entsprechend in den Fällen, in denen die deutschen
+Rechtsvorschriften über soziale Sicherheit anwendbar sind
 
-
-2.  für beschäftigte Mitglieder von Flug- oder Kabinenbesatzungen nach
-    Artikel 11 Absatz 5 der Verordnung (EG) Nr. 883/2004 gelten oder
-
-
-3.  auf Grund einer Vereinbarung nach Artikel 16 der Verordnung (EG) Nr.
-    883/2004 gelten sollen,
-
-
-
-gilt Absatz 1 entsprechend.
-
-(3) In den Fällen, in denen die deutschen Rechtsvorschriften über
-soziale Sicherheit für in der Seefahrt beschäftigte Personen nach
-Artikel 11 Absatz 4 der Verordnung (EG) Nr. 883/2004 über soziale
-Sicherheit gelten, gilt für das Verfahren Absatz 1 entsprechend.
-
-(4) In den Fällen, in denen für in Deutschland wohnende Personen, die
-ausschließlich bei einem in Deutschland ansässigen Arbeitgeber
-beschäftigt sind und ihre Beschäftigung gewöhnlich in mehreren
-Mitgliedstaaten ausüben, nach Artikel 13 Absatz 1 Buchstabe a oder
-Buchstabe b Ziffer i der Verordnung (EG) Nr. 883/2004 die deutschen
-Rechtsvorschriften über soziale Sicherheit gelten, gilt Absatz 1
-entsprechend, wenn der Arbeitgeber die Feststellung der anzuwendenden
-Rechtsvorschriften für eine bei ihm beschäftigte Person beantragt.
-
-(5) Das Nähere zum Verfahren und zu den Inhalten des Antrages und der
-zu übermittelnden Datensätze nach den Absätzen 1 bis 4 regeln der
-Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung
-Bund, die Deutsche Gesetzliche Unfallversicherung e. V. und die
-Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V.
-in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und
-Soziales zu genehmigen sind; die Bundesvereinigung der Deutschen
-Arbeitgeberverbände ist vorher anzuhören.
+1.  für Beamte und diesen gleichgestellten Personen nach Artikel 11 Absatz
+    3 Buchstabe b der Verordnung (EG) Nr. 883/2004 oder Artikel KSS.10
+    Absatz 3 Buchstabe b des Abkommens über Handel und Zusammenarbeit
+    zwischen der Europäischen Union und der Europäischen Atomgemeinschaft
+    einerseits und dem Vereinigten Königreich Großbritannien und
+    Nordirland andererseits,
 
 
-### § 106a Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei selbständiger Erwerbstätigkeit nach Artikel 11 Absatz 4 und Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004
+2.  für in der Seefahrt beschäftigte Personen nach Artikel 11 Absatz 4
+    Satz 2 der Verordnung (EG) Nr. 883/2004 oder Artikel KSS.10 Absatz 4
+    Satz 2 des Abkommens über Handel und Zusammenarbeit zwischen der
+    Europäischen Union und der Europäischen Atomgemeinschaft einerseits
+    und dem Vereinigten Königreich Großbritannien und Nordirland
+    andererseits,
+
+
+3.  für beschäftigte Mitglieder von Flug- oder Kabinenbesatzungen nach
+    Artikel 11 Absatz 5 der Verordnung (EG) Nr. 883/2004 oder Artikel
+    KSS.10 Absatz 5 des Abkommens über Handel und Zusammenarbeit zwischen
+    der Europäischen Union und der Europäischen Atomgemeinschaft
+    einerseits und dem Vereinigten Königreich Großbritannien und
+    Nordirland andererseits oder
+
+
+4.  für Beschäftigte nach Artikel 11 Absatz 3 Buchstabe a der Verordnung
+    (EG) Nr. 883/2004 oder Artikel KSS.10 Absatz 3 Buchstabe a des
+    Abkommens über Handel und Zusammenarbeit zwischen der Europäischen
+    Union und der Europäischen Atomgemeinschaft einerseits und dem
+    Vereinigten Königreich Großbritannien und Nordirland andererseits.
+
+
+
+
+(4) In den Fällen, in denen die deutschen Rechtsvorschriften über
+soziale Sicherheit auf Grund einer Vereinbarung nach Artikel 16 Absatz
+1 der Verordnung (EG) Nr. 883/2004 gelten sollen oder nach Artikel 11
+Absatz 3 Buchstabe a oder Artikel 11 Absatz 5 der Verordnung (EG) Nr.
+883/2004 gelten, gilt Absatz 1 entsprechend mit der Maßgabe, dass der
+Antrag auch durch die betroffene Person selbst mittels einer
+systemgeprüften Ausfüllhilfe gestellt werden kann und in diesem Fall
+die A1-Bescheinigung an die betroffene Person zu übermitteln ist.
+
+(5) (weggefallen)
+
+
+### § 106a Elektronischer Antrag durch Selbständige und Mehrfacherwerbstätige auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Erwerbstätigkeit in einem oder mehreren Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland
 
 (1) Gelten für vorübergehend in einem anderen Mitgliedstaat der
 Europäischen Union, in einem Vertragsstaat des Abkommens über den
@@ -7582,24 +7721,183 @@ Erwerbstätige die deutschen Rechtsvorschriften über soziale Sicherheit
 nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004, hat die
 selbständig erwerbstätige Person die Ausstellung einer
 A1-Bescheinigung bei der zuständigen Stelle elektronisch durch eine
-Ausfüllhilfe nach § 95a Absatz 1 zu beantragen. Ist festgestellt, dass
-die deutschen Rechtsvorschriften über soziale Sicherheit gelten, ist
-die A1-Bescheinigung innerhalb von drei Arbeitstagen der selbständig
+Ausfüllhilfe nach § 95a Absatz 1 zu beantragen. § 106 Absatz 1 Satz 2
+gilt entsprechend. Ist festgestellt, dass die deutschen
+Rechtsvorschriften über soziale Sicherheit gelten, ist die
+A1-Bescheinigung innerhalb von drei Arbeitstagen der selbständig
 erwerbstätigen Person elektronisch zugänglich zu machen.
 
-(2) In den Fällen, in denen die deutschen Rechtsvorschriften über
-soziale Sicherheit für in der Seefahrt selbständig tätige Personen
-nach Artikel 11 Absatz 4 der Verordnung (EG) Nr. 883/2004 gelten, gilt
-für das Verfahren Absatz 1 entsprechend.
+(2) Absatz 1 gilt entsprechend in den Fällen, in denen die deutschen
+Rechtsvorschriften über soziale Sicherheit Anwendung finden
 
-(3) Das Nähere zu den Inhalten des Antrages nach den Absätzen 1 und 2
-regeln der Spitzenverband Bund der Krankenkassen, die Deutsche
-Rentenversicherung Bund, die Deutsche Gesetzliche Unfallversicherung
-e. V. und die Arbeitsgemeinschaft berufsständischer
-Versorgungseinrichtungen e. V. in Gemeinsamen Grundsätzen, die vom
-Bundesministerium für Arbeit und Soziales zu genehmigen sind; die
-Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher
-anzuhören.
+1.  für selbständig erwerbstätige Personen, auf die Artikel KSS.11 Absatz
+    1 Buchstabe b des Abkommens über Handel und Zusammenarbeit zwischen
+    der Europäischen Union und der Europäischen Atomgemeinschaft
+    einerseits und dem Vereinigten Königreich Großbritannien und
+    Nordirland andererseits,
+
+
+2.  für selbständig erwerbstätige Mitglieder von Flug- und
+    Kabinenbesatzung mit Heimatbasis in Deutschland nach Artikel 11 Absatz
+    5 der Verordnung (EG) Nr. 883/2004 oder Artikel KSS.10 Absatz 5 des
+    Abkommens über Handel und Zusammenarbeit zwischen der Europäischen
+    Union und der Europäischen Atomgemeinschaft einerseits und dem
+    Vereinigten Königreich Großbritannien und Nordirland andererseits oder
+
+
+3.  für selbständig erwerbstätige Personen gemäß Artikel 11 Absatz 3
+    Buchstabe a Verordnung (EG) Nr. 883/2004 oder Artikel KSS.10 Absatz 3
+    Buchstabe a des Abkommens über Handel und Zusammenarbeit zwischen der
+    Europäischen Union und der Europäischen Atomgemeinschaft einerseits
+    und dem Vereinigten Königreich Großbritannien und Nordirland
+    andererseits.
+
+
+
+
+(3) In Deutschland wohnende Personen haben bei der zuständigen Stelle
+einen Antrag auf Feststellung der anzuwendenden Rechtsvorschriften zu
+stellen, wenn sie
+
+1.  ihre selbständige Erwerbstätigkeit nach Artikel 13 Absatz 2 der
+    Verordnung (EG) Nr. 883/2004 oder Artikel KSS.12 Absatz 2 des
+    Abkommens über Handel und Zusammenarbeit zwischen der Europäischen
+    Union und der Europäischen Atomgemeinschaft einerseits und dem
+    Vereinigten Königreich Großbritannien und Nordirland andererseits
+    gewöhnlich in zwei oder mehr Mitglied- oder Vertragsstaaten ausüben,
+
+
+2.  ihre Beschäftigung nach Artikel 13 Absatz 1 der Verordnung (EG) Nr.
+    883/2004, nach Artikel 14 Absatz 11 der Verordnung (EG) Nr. 987/2009
+    des Europäischen Parlaments und des Rates vom 16. September 2009 zur
+    Festlegung der Modalitäten für die Durchführung der Verordnung (EG)
+    Nr. 883/2004 über die Koordinierung der Systeme der sozialen
+    Sicherheit (ABl. L 284 vom 30.10.2009, S. 1) nach Artikel KSS.12
+    Absatz 1 oder nach Artikel KSS.13 Absatz 14 des Abkommens über Handel
+    und Zusammenarbeit zwischen der Europäischen Union und der
+    Europäischen Atomgemeinschaft einerseits und dem Vereinigten
+    Königreich Großbritannien und Nordirland andererseits gewöhnlich in
+    zwei oder mehr Mitglied- oder Vertragsstaaten ausüben,
+
+
+3.  gewöhnlich in verschiedenen Mitglied- oder Vertragsstaaten eine
+    Beschäftigung und eine selbständige Erwerbstätigkeit gemäß Artikel 13
+    Absatz 3 der Verordnung (EG) Nr. 883/2004 oder gemäß Artikel KSS.12
+    Absatz 3 des Abkommens über Handel und Zusammenarbeit zwischen der
+    Europäischen Union und der Europäischen Atomgemeinschaft einerseits
+    und dem Vereinigten Königreich Großbritannien und Nordirland
+    andererseits ausüben oder
+
+
+4.  in einem Mitglied- oder Vertragsstaat als Beamte oder diesen nach
+    Artikel 1 Buchstabe d der Verordnung (EG) Nr. 883/2004 gleichgestellte
+    Personen beschäftigt sind und in einem oder mehreren anderen Mitglied-
+    oder Vertragsstaat eine Beschäftigung oder eine selbständige
+    Erwerbstätigkeit oder eine Beschäftigung und eine selbständige
+    Erwerbstätigkeit gemäß Artikel 13 Absatz 4 der Verordnung (EG) Nr.
+    883/2004 oder gemäß Artikel KSS.12 Absatz 4 des Abkommens über Handel
+    und Zusammenarbeit zwischen der Europäischen Union und der
+    Europäischen Atomgemeinschaft einerseits und dem Vereinigten
+    Königreich Großbritannien und Nordirland andererseits ausüben.
+
+
+
+Der Antrag erfolgt elektronisch durch eine Ausfüllhilfe nach § 95a
+Absatz 1. Absatz 1 Satz 2 und 3 gilt entsprechend mit der Maßgabe,
+dass die A1-Bescheinigung der antragstellenden Person elektronisch
+zugänglich zu machen ist. § 106 Absatz 1 gilt entsprechend, wenn der
+Arbeitgeber die Feststellung der anzuwendenden Rechtsvorschriften
+beantragt.
+
+(4) In den Fällen, in denen die deutschen Rechtsvorschriften über
+soziale Sicherheit auf Grund einer Vereinbarung nach Artikel 16 Absatz
+1 der Verordnung (EG) Nr. 883/2004 gelten sollen, gilt Absatz 1
+entsprechend.
+
+
+### § 106b Elektronischer Antrag auf Freistellung von der Anwendung der Rechtsvorschriften des Wohnmitgliedstaates nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 883/2004
+
+In Deutschland wohnende Personen können bei der zuständigen Stelle
+einen Antrag auf Freistellung von der Anwendung der deutschen
+Rechtsvorschriften gemäß Artikel 16 Absatz 2 der Verordnung (EG) Nr.
+883/2004 stellen. § 106 Absatz 1 Satz 2 gilt entsprechend. Der
+Bescheid ist dem Antragsteller elektronisch zugänglich zu machen.
+
+
+### § 106c Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Tätigkeit in einem Vertragsstaat, mit dem die Bundesrepublik Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über die anzuwendenden Rechtsvorschriften geschlossen hat
+
+(1) Gelten für Personen, die vorübergehend in einem anderen Staat
+beschäftigt sind, mit dem die Bundesrepublik Deutschland ein Abkommen
+über soziale Sicherheit mit Regelungen über die anzuwendenden
+Rechtsvorschriften geschlossen hat, die deutschen Rechtsvorschriften
+über soziale Sicherheit, so hat der Arbeitgeber einen Antrag auf
+Ausstellung einer Bescheinigung über die Anwendung der deutschen
+Rechtsvorschriften auf Grundlage dieses Abkommens für diese
+Beschäftigten an die zuständige Stelle durch Datenübertragung aus
+einem systemgeprüften Programm oder mittels einer elektronisch
+gestützten, systemgeprüften Ausfüllhilfe zu übermitteln. Die
+zuständige Stelle hat den Antrag elektronisch anzunehmen, zu speichern
+und zu nutzen. Ist festgestellt, dass die deutschen Rechtsvorschriften
+über soziale Sicherheit gelten, erfolgt die Übermittlung der Daten der
+entsprechenden Bescheinigung innerhalb von drei Arbeitstagen an den
+Arbeitgeber, der diese Bescheinigung der beschäftigten Person
+unverzüglich zugängig macht.
+
+(2) Absatz 1 gilt entsprechend in den Fällen, in denen die deutschen
+Rechtsvorschriften über soziale Sicherheit anwendbar sind
+
+1.  für Beamte und Beschäftigte des öffentlichen Dienstes der
+    Bundesrepublik Deutschland,
+
+
+2.  für beschäftigte Mitglieder von Flug- oder Kabinenbesatzungen mit
+    Heimatbasis in der Bundesrepublik Deutschland,
+
+
+3.  für Beschäftigte des grenzüberschreitenden
+    Personenbeförderungsgewerbes oder des grenzüberschreitenden
+    Speditions-, Transport- und damit verbundenen Logistikgewerbes oder
+
+
+4.  für Beschäftigte an Bord eines unter Flagge des anderen
+    Vertragsstaates fahrenden Seeschiffes.
+
+
+
+
+(3) Gelten für eine Person, die eine vorübergehende selbständige
+Erwerbstätigkeit in einem Staat ausübt, mit dem die Bundesrepublik
+Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über
+die anzuwendenden Rechtsvorschriften geschlossen hat, auf Grundlage
+dieses Abkommens die deutschen Rechtsvorschriften über soziale
+Sicherheit, so hat die selbständig erwerbstätige Person einen Antrag
+auf Ausstellung einer Bescheinigung über die Anwendung der deutschen
+Rechtsvorschriften an die zuständige Stelle durch eine Ausfüllhilfe
+nach § 95a Absatz 1 zu übermitteln. § 106a Absatz 1 Satz 2 gilt
+entsprechend. In Fällen des Absatzes 2 Nummer 2 bis 4 gelten für
+selbständig Erwerbstätige die Sätze 1 und 2 entsprechend. Ist
+festgestellt, dass die deutschen Rechtsvorschriften gelten, ist die
+Bescheinigung innerhalb von drei Arbeitstagen der selbstständig
+erwerbstätigen Person elektronisch zugänglich zu machen.
+
+(4) In den Fällen, in denen die deutschen Rechtsvorschriften über
+soziale Sicherheit auf Grund einer Ausnahmeregelung oder einer
+besonderen Regelung für die Verlängerung einer Entsendung Anwendung
+finden sollen, gilt für abhängig Beschäftigte Absatz 1 und für
+Selbständige Absatz 3 entsprechend.
+
+
+### § 106d Gemeinsame Grundsätze zu den Inhalten der Anträge und den zu übermittelnden Datensätzen nach den §§ 106 bis 106c
+
+Das Nähere zu den Verfahren, zu den Inhalten der Anträge und den zu
+übermittelnden Datensätzen nach den §§ 106 bis 106c regeln der
+Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung
+Bund, die Deutsche Gesetzliche Unfallversicherung e. V. und die
+Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V.
+in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und
+Soziales zu genehmigen sind. In den Fällen der §§ 106, 106a Absatz 3
+Nummer 2 bis 4 und des § 106c Absatz 1 und 2 ist die Bundesvereinigung
+der Deutschen Arbeitgeberverbände vorher anzuhören.
 
 
 ### § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen
@@ -7760,6 +8058,23 @@ einer Rahmenvereinbarung, die ein bundeseinheitliches Verfahren
 sicherstellt.
 
 
+### § 108b Unbedenklichkeitsbescheinigungen der Einzugsstellen
+
+Arbeitgeber, insbesondere Nachunternehmer oder die beauftragten
+Verleiher nach § 28e Absatz 3f Satz 1 haben die
+Unbedenklichkeitsbescheinigungen elektronisch bei den betroffenen
+Einzugsstellen mit einem einheitlichen Datensatz aus einem
+systemgeprüften Entgeltabrechnungsprogramm oder einer Ausfüllhilfe zu
+beantragen. Die Einzugsstellen melden die
+Unbedenklichkeitsbescheinigungen unverzüglich elektronisch an den
+antragstellenden Unternehmer zurück. Das Nähere zum Verfahren, Aufbau
+und Inhalt der Datensätze und -felder bestimmt der Spitzenverband Bund
+der Krankenkassen bundeseinheitlich in Grundsätzen. Die Grundsätze
+bedürfen der Genehmigung des Bundesministeriums für Arbeit und
+Soziales; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist
+vorher anzuhören.
+
+
 ### § 109 Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber
 
 (1) Die Krankenkasse hat nach Eingang der Arbeitsunfähigkeitsdaten
@@ -7836,6 +8151,51 @@ Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit und
 dem Bundesministerium für Ernährung und Landwirtschaft; die
 Bundesvereinigung der Deutschen Arbeitgeberverbände ist vor der
 Genehmigung anzuhören.
+
+
+### § 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit
+
+(1) Die Krankenkasse hat nach Eingang der Daten nach § 295 Absatz 1
+Satz 1 Nummer 1 des Fünften Buches für Personen, für die nach den
+Vorschriften des Dritten Buches Anzeige- und Nachweispflichten bei
+Arbeitsunfähigkeit bestehen, eine Meldung zum Abruf für die
+Bundesagentur für Arbeit zu erstellen, die insbesondere die folgenden
+Daten enthält:
+
+1.  den Namen des Versicherten,
+
+
+2.  den Beginn und das Ende der Arbeitsunfähigkeit,
+
+
+3.  das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit,
+
+
+4.  die Kennzeichnung als Erst- oder Folgemeldung und
+
+
+5.  die Angabe, ob Anhaltspunkte dafür vorliegen, dass die
+    Arbeitsunfähigkeit auf einem Arbeitsunfall oder sonstigen Unfall oder
+    auf den Folgen eines Arbeitsunfalls oder sonstigen Unfalls beruht.
+
+
+
+
+(2) Das Nähere zu den Datensätzen und zum Verfahren regeln der
+Spitzenverband Bund der Krankenkassen und die Bundesagentur für Arbeit
+in gemeinsamen Grundsätzen. Die Grundsätze bedürfen der Genehmigung
+durch das Bundesministerium für Arbeit und Soziales im Einvernehmen
+mit dem Bundesministerium für Gesundheit.
+
+(3) Absatz 1 gilt entsprechend bei Eingang der Daten nach § 301 Absatz
+1 Satz 1 Nummer 3 und 7 des Fünften Buches mit der Maßgabe, dass die
+Meldung abweichend von Absatz 1 nur die Daten nach Absatz 1 Nummer 1
+und den Beginn, die voraussichtliche Dauer und das Ende der
+stationären Krankenhausbehandlung zu enthalten hat.
+
+(4) Absatz 1 gilt entsprechend bei Eingang von
+Arbeitsunfähigkeitsdaten, wenn sie nach § 201 Absatz 2 des Siebten
+Buches an die Krankenkassen übermittelt werden.
 
 
 ### § 110 (weggefallen)
@@ -8341,8 +8701,11 @@ Rentenversicherung nicht zu erstatten.
 Rettungsdienst.
 
 
-### § 119 (weggefallen)
+### § 119 Berücksichtigung von Versorgungskrankengeld
 
+Bei der Anwendung von § 7 Absatz 3 Satz 3, § 18a Absatz 3 Satz 1
+Nummer 1 und § 23c Absatz 1 Satz 1 gilt das Versorgungskrankengeld als
+Krankengeld der Sozialen Entschädigung.
 
 
 ### § 120 (weggefallen)
@@ -8358,6 +8721,20 @@ nicht beitragsorientierten Zusagen, denen die Aufsichtsbehörde bereits
 bis zum 10. Mai 2019 zugestimmt hat, dürfen auch bei Abschluss eines
 neuen Vertrages mit diesem Vorstandsmitglied in dem im vorhergehenden
 Vertrag vereinbarten Durchführungsweg und Umfang fortgeführt werden.
+
+
+### § 122 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 7 Absatz 3 Satz 3, des § 18a
+Absatz 3 Satz 1 Nummer 1, der §§ 4 und 8 sowie 23c Absatz 1 Satz 1 in
+der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 123 Übergangsregelung

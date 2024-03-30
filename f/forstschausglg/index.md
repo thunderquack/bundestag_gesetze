@@ -261,7 +261,7 @@ und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu
 
 (2) Die zuständigen Behörden können zur Durchführung der ihnen durch
 dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben von
-natürlichen und juristischen Personen und nicht rechtsfähigen
+natürlichen und juristischen Personen und sonstigen
 Personenvereinigungen die erforderlichen Auskünfte verlangen.
 
 (3) Die von den zuständigen Behörden mit der Einholung von Auskünften

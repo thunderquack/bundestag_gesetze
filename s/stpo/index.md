@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.7.2023 I Nr. 203
+:   Art. 6 G v. 21.2.2024 I Nr. 54
+
+Änderung durch
+:   Art. 13a G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -2953,7 +2956,8 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 5.  aus dem Aufenthaltsgesetz:
 
-    a)  Einschleusen von Ausländern nach § 96 Abs. 2,
+    a)  Einschleusen von Ausländern und Personen, auf die das
+        Freizügigkeitsgesetz/EU Anwendung findet, nach § 96 Absatz 1, 2 und 4,
 
 
     b)  Einschleusen mit Todesfolge und gewerbs- und bandenmäßiges
@@ -13022,8 +13026,8 @@ haben:
     Anordnungen gegen den Beschuldigten beantragen;
 
 
-3.  sie können nach Maßgabe des Opferentschädigungsgesetzes einen
-    Versorgungsanspruch geltend machen;
+3.  sie können nach Maßgabe des Vierzehnten Buches Sozialgesetzbuch einen
+    Anspruch auf Soziale Entschädigung geltend machen;
 
 
 4.  sie können nach Maßgabe von Verwaltungsvorschriften des Bundes oder

@@ -300,7 +300,8 @@ Landesjustizverwaltung.
 (3) Wird die Firma geändert, so ist dies auf demselben Registerblatt
 einzutragen. Bei einer Umwandlung ist der übernehmende, neu gegründete
 Rechtsträger oder Rechtsträger neuer Rechtsform stets auf ein neues
-Registerblatt einzutragen.
+Registerblatt einzutragen. Bei einem Statuswechsel gilt Satz 2
+entsprechend für die Gesellschaft neuer Rechtsform.
 
 (4) Die zur Offenlegung in einer Amtssprache der Europäischen Union
 übermittelten Übersetzungen von Eintragungen (§ 11 des
@@ -1004,12 +1005,15 @@ einzutragen:
         ee) Eintragungen nach dem Umwandlungsgesetz;
 
 
-        ff) im Fall des Erwerbs eines Handelsgeschäfts bei Fortführung unter der
+        ff) Statuswechsel;
+
+
+        gg) im Fall des Erwerbs eines Handelsgeschäfts bei Fortführung unter der
             bisherigen Firma eine von § 25 Abs. 1 des Handelsgesetzbuchs
             abweichende Vereinbarung;
 
 
-        gg) beim Eintritt eines persönlich haftenden Gesellschafters oder eines
+        hh) beim Eintritt eines persönlich haftenden Gesellschafters oder eines
             Kommanditisten in das Geschäft eines Einzelkaufmanns eine von § 28
             Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;
 
@@ -1018,10 +1022,10 @@ einzutragen:
 
 
     c)  unter Buchstabe c Familienname, Vorname, Geburtsdatum und Wohnort oder
-        gegebenenfalls Firma, Rechtsform, Sitz oder Niederlassung und der
-        Betrag der Einlage jedes Kommanditisten einer Kommanditgesellschaft
-        sowie bei der Europäischen wirtschaftlichen Interessenvereinigung die
-        Mitglieder mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder
+        gegebenenfalls Firma, Rechtsform, Sitz oder Niederlassung und
+        Haftsumme jedes Kommanditisten einer Kommanditgesellschaft sowie bei
+        der Europäischen wirtschaftlichen Interessenvereinigung die Mitglieder
+        mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder
         gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
 
 

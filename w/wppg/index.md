@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 3 G v. 9.7.2021 I 2570
-
-Mittelbare änderung durch
-:   Art. 4 Abs. 2 G v. 9.7.2021 I 2570 ist berücksichtigt
+:   Art. 10 G v. 11.12.2023 I Nr. 354
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend
@@ -468,14 +465,14 @@ Garantiegeber ausdrücklich zu übernehmen. Bei einem Prospekt für das
 Verordnung (EU) 2017/1129 hat in jedem Fall der Anbieter die
 Verantwortung für den Inhalt des Prospekts zu übernehmen. Sollen auf
 Grund des Prospekts Wertpapiere zum Handel an einem geregelten Markt
-zugelassen werden, hat neben dem Emittenten stets auch das
+zugelassen werden, so hat neben dem Emittenten auch das
 Kreditinstitut, das Finanzdienstleistungsinstitut, das
 Wertpapierinstitut oder das nach § 53 Absatz 1 Satz 1 oder § 53b
-Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen, mit dem
-der Emittent zusammen die Zulassung der Wertpapiere beantragt, die
-Verantwortung für den Prospekt zu übernehmen. Wenn eine Garantie für
-die Wertpapiere gestellt wird, hat auch der Garantiegeber die
-Verantwortung für den Inhalt des Prospekts zu übernehmen.
+Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen, sofern
+dieses mit dem Emittenten zusammen die Zulassung der Wertpapiere
+beantragt, die Verantwortung für den Prospekt zu übernehmen. Wenn eine
+Garantie für die Wertpapiere gestellt wird, hat auch der Garantiegeber
+die Verantwortung für den Inhalt des Prospekts zu übernehmen.
 
 
 ### § 9 Haftung bei fehlerhaftem Börsenzulassungsprospekt
@@ -781,7 +778,11 @@ soweit dies zur Überwachung der Einhaltung der Bestimmungen
 
 
 
-erforderlich ist.
+erforderlich ist. Diese sind auf ihr Verlangen elektronisch zu
+übermitteln. Verfügt der Verpflichtete über einen Zugang zum Melde-
+und Veröffentlichungssystem der Bundesanstalt, so kann sie die
+Übermittlung auf diesem Wege verlangen. Die Bundesanstalt kann zudem
+die Übermittlung in einem von ihr bestimmten Format verlangen.
 
 (3) Die Bundesanstalt kann auf ihrer Internetseite öffentlich bekannt
 machen, dass ein Emittent, Anbieter oder Zulassungsantragsteller
@@ -1048,9 +1049,10 @@ unterliegen.
 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
 Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
-wegen einer Steuerstraftat sowie eines damit zusammenhängenden
-Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
-sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+wegen einer Steuerstraftat oder eines Besteuerungsverfahrens
+benötigen, es sei denn, der Weitergabe der Informationen stehen andere
+Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind
+jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 1.  die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch
     eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer

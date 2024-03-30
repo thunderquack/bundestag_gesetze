@@ -191,8 +191,9 @@ Gesetz gestützten Rechtsverordnungen bleiben unberührt.
     c)  mögliche Alternativen und deren Risiken und Nebenwirkungen,
 
 
-    d)  die individuelle Situation, die zur Festlegung der relevanten
-        Anwendungsparameter führt, und
+    d)  den individuellen Behandlungsplan, einschließlich der verwendeten
+        Anlage, und die individuelle Situation, die zur Festlegung der
+        relevanten Anwendungsparameter führt, und
 
 
     e)  die mögliche Notwendigkeit einer vorherigen fachärztlichen Abklärung,
@@ -242,24 +243,28 @@ aufzubewahren ist. Die Dokumentation muss Folgendes enthalten:
 
 
 
-Der Betreiber muss ferner sicherstellen, dass die durchgeführten
-Anwendungen gemäß Anlage 2 und die nach Absatz 1 Nummer 6
-durchgeführte Beratung und Aufklärung dokumentiert werden.
+Der Betreiber muss ferner sicherstellen, dass die Beratung und
+Aufklärung nach Absatz 1 Nummer 6 mit einem Beratungsprotokoll
+dokumentiert wird und dass sich die zu behandelnde Person auf dieser
+Grundlage mit der Durchführung der Anwendung einverstanden erklärt.
+Das Beratungsprotokoll und die Einverständniserklärung sind im Betrieb
+vorzuhalten und zehn Jahre ab dem Tag der Dokumentation aufzubewahren.
+Der Betreiber muss die in Satz 4 genannten Daten am Ende des Jahres,
+in dem die Aufbewahrungsfrist endet, unverzüglich löschen. Bei
+Speicherung in elektronischer Form sind vorhandene Möglichkeiten einer
+automatisierten Löschung zu nutzen.
 
 (3) Der Betreiber einer Anlage hat der zuständigen Behörde den Betrieb
 der Anlage spätestens zwei Wochen vor Inbetriebnahme anzuzeigen. In
 der Anzeige sind der Name oder die Firma des Betreibers sowie die
 Anschrift der Betriebsstätte und die Angaben zur Identifikation der
-jeweiligen Anlage zu nennen.Der Anzeige ist ein Nachweis beizufügen,
+jeweiligen Anlage zu nennen. Der Anzeige ist ein Nachweis beizufügen,
 dass die Personen, die die Anlage anwenden, über die erforderliche
-Fachkunde verfügen. Wird eine Anlage am 31. Dezember 2020 bereits
-betrieben, hat die Anzeige bis zum Ablauf des 31. März 2021 zu
-erfolgen.
+Fachkunde verfügen.
 
 (4) Der Betreiber einer Anlage hat der zuständigen Behörde auf
-Verlangen nachzuweisen, dass die Anforderungen an den Betrieb der
-Anlage und die Anforderungen an die Dokumentation der Anwendungen und
-der Aufklärungsgespräche erfüllt sind.
+Verlangen nachzuweisen, dass die Anforderungen nach Absatz 1 und 2 und
+nach § 4 Absatz 1 Satz 1 erfüllt sind.
 
 
 ## § 4 Fachkunde
@@ -308,6 +313,75 @@ Wirtschaftsraum erfolgen. Eine entsprechende Schulung oder
 Aktualisierungsschulung kann auch in der Schweiz erfolgen. Aus den
 Inhalten der Schulung oder Aktualisierungsschulung muss sich ergeben,
 dass die betreffenden Anforderungen dieser Bestimmung erfüllt sind.
+
+
+## § 4a Nachweis der Fachkunde
+
+(1) In dem Fall, dass die Fachkunde durch die Teilnahme an einer
+geeigneten Schulung gemäß § 4 Absatz 3 Satz 1 erworben wurde, erfolgt
+der Nachweis der Fachkunde gegenüber der zuständigen Behörde durch ein
+Zertifikat. Die Ausstellung eines entsprechenden Zertifikats setzt
+eine erfolgreiche Prüfung über die zu zertifizierende Fachkunde
+voraus. Das Zertifikat wird für fünf Jahre befristet ausgestellt,
+beginnend ab dem Datum des Abschlusses der jeweils zugrundeliegenden
+Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil C, D, E
+oder F. Die Erneuerung des Zertifikats nach Ablauf, setzt die
+Teilnahme an einer geeigneten Aktualisierungsschulung nach § 4 Absatz
+3 Satz 3 in Verbindung mit Anlage 3 Teil A Abschnitt 1 sowie eine
+erfolgreiche Prüfung voraus.
+
+[^F826459_02_BJNR218700018BJNE001600128]
+(2) Die Abnahme einer Prüfung nach Absatz 1 Satz 2 und 4 sowie die
+Ausstellung eines Zertifikats nach Absatz 1 Satz 1 darf nur durch eine
+gemäß DIN EN ISO/IEC 17024 Ausgabe November 2012
+akkreditierte Konformitätsbewertungsstelle erfolgen. Die
+Konformitätsbewertungsstelle muss von einer nationalen
+Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des
+Europäischen Parlaments und des Rates vom 9. Juli 2008 über die
+Vorschriften für die Akkreditierung und Marktüberwachung im
+Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
+Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
+30) in der jeweils geltenden Fassung akkreditiert worden sein. Zum
+Akkreditierungsverfahren wird auf Artikel 5 Absatz 1 der Verordnung
+(EG) Nr. 765/2008 in Verbindung mit § 1 Absatz 1 Satz 1 und § 2 Absatz
+1 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S.
+2625), das zuletzt durch Artikel 9 des Gesetzes vom 20. Juli 2022
+(BGBl. I S. 1325) geändert worden ist, verwiesen.
+
+    Zu beziehen bei der Beuth Verlag GmbH, Berlin, und beim Deutschen
+    Patent- und Markenamt archivmäßig gesichert niedergelegt.
+[^F826459_02_BJNR218700018BJNE001600128]: 
+
+## § 4b Anerkennung der Schulungsanbieter
+
+Eine Schulung oder eine Aktualisierungsschulung gilt im Sinne von § 4
+Absatz 3 nur dann als geeignet, wenn der Schulungsanbieter durch eine
+akkreditierte Konformitätsbewertungsstelle im Sinne von § 4a Absatz 2
+anerkannt ist. Die Anerkennung ist zu erteilen, wenn
+
+1.  der Schulungsanbieter über eine ordnungsgemäße Schulungsorganisation
+    verfügt,
+
+
+2.  die angebotenen Schulungen die Anforderungen an die Inhalte der
+    Fachkunde nach § 4 Absatz 2 und Anlage 3 erfüllen und
+
+
+3.  die angebotenen Schulungen die Anforderungen an Umfang und
+    Strukturierung nach Anlage 3 erfüllen.
+
+
+
+Die Anerkennung kann für alle oder für einen Teil der Fachkundegruppen
+gemäß Anlage 3 Teil A Abschnitt 1 und 2 erteilt werden. Sie ist
+mindestens einmal jährlich zu überprüfen. Die Anerkennung entfällt,
+wenn der Schulungsanbieter trotz Aufforderung durch die anerkennende
+Stelle, eine Verhaltensweise oder einen Zustand nicht unverzüglich
+abstellt, bei deren Vorliegen eine Anerkennung nicht erfolgt wäre. Die
+akkreditierte Konformitätsbewertungsstelle hat ein Verzeichnis der von
+ihr anerkannten Schulungsanbieter elektronisch zu führen, im Internet
+öffentlich zugänglich zu machen und der Akkreditierungsstelle die
+Adresse für den Zugang mitzuteilen.
 
 
 ## § 5 Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
@@ -463,6 +537,42 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
+
+
+## § 13 Übergangsregelungen
+
+(1) Wurde eine Anlage bereits am 31. Dezember 2020 betrieben, hatte
+die Anzeige nach § 3 Absatz 3 bis zum Ablauf des 31. März 2021 zu
+erfolgen.
+
+(2) Wurde die Teilnahme an einer geeigneten Schulung zum Erwerb der
+Fachkunde bis zum Ablauf des 31. Dezember 2023 erfolgreich
+abgeschlossen, kann das Zertifikat nach § 4a Absatz 1 Satz 1 bis zum
+Ablauf des 31. Dezember 2025 ausgestellt werden, ohne dass es der
+Prüfung nach § 4a Absatz 1 Satz 2 bedarf. Erforderlich ist, dass der
+Schulungsanbieter im Zeitraum der Teilnahme an der Schulung
+entsprechend § 4b anerkannt war. Die Anerkennung kann bis zum Ablauf
+des 31. Dezember 2025 auch rückwirkend erteilt werden, soweit die
+Voraussetzungen gemäß § 4b für den Rückwirkungszeitraum nachgewiesen
+sind.
+
+(3) Wurde die Teilnahme an einer Schulung zum Erwerb der Fachkunde bis
+zum Ablauf des 31. Dezember 2023 erfolgreich abgeschlossen, kann für
+den Erwerb eines Zertifikates nach § 4a Absatz 1 Satz 1, als
+Voraussetzung für eine Prüfung nach § 4a Absatz 1 Satz 2, bis zum
+Ablauf des 31. Dezember 2025 die Geeignetheit einer Schulung vermutet
+werden, ohne dass es einer Anerkennung des Schulungsanbieters nach §
+4b bedarf. Satz 1 ist nicht anzuwenden, wenn seit dem jeweils älteren
+Abschluss der entsprechenden Schulungen oder der Anrechnung nach
+Anlage 3 Teil A Abschnitt 3, mehr als fünf Jahre vergangen sind.
+
+(4) Der Nachweis der Fachkunde in den Fällen nach § 4 Absatz 3, in
+denen die Fachkunde durch die erfolgreiche Teilnahme an einer
+geeigneten Schulung erworben wurde, kann bis zum Ablauf des 31.
+Dezember 2025 abweichend von § 4a Absatz 1 Satz 1 auch durch die
+Vorlage von geeigneten Schulungsnachweisen und Dokumenten zum Nachweis
+der Voraussetzungen von Anlage 3 Teil A Abschnitt 3 Nummer 1 bis 4
+geführt werden.
 
 (zu § 2 Absatz 1 Nummer 4 und 5)
 
@@ -736,50 +846,16 @@ vgl. Fußnote)
 
 
 
-(zu § 3 Absatz 2 Satz 3)
 
-## Anlage 2 Dokumentation der Anwendung
-
-(Fundstelle: BGBl. I 2018, 2193)
-
-
-1.  Art der Anwendung,
-
-
-2.  verwendete Anlage sowie die für die konkrete Anwendung individuell
-    eingestellten technischen Parameter, zum Beispiel Wellenlänge,
-    Frequenz, Pulsung, Expositionsdauer, Art und Ausmaß der Exposition,
-    wenn erforderlich Laserklasse,
-
-
-3.  individueller Behandlungsplan, bei Epilation zum Beispiel wie oft, in
-    welchem zeitlichen Abstand mit welchen Einstellungen wird die
-    Anwendung wiederholt; bei Muskelstimulation zum Beispiel
-    Trainingsplan, Zahl, Dauer und Intensität der Anwendungen,
-
-
-4.  wenn erforderlich Fotodokumentation,
-
-
-5.  auftretende Nebenwirkungen,
-
-
-6.  bei Nebenwirkungen oder Schäden: Ursachen oder Fehleranalyse,
-    ergriffene Maßnahmen zur Beseitigung der Fehlerquelle; sofern erfolgt:
-    Meldung von Gerätedefekten, Funktionsstörungen, Nebenwirkungen oder
-    Schäden an Hersteller und Behörden und
-
-
-7.  Einverständniserklärung der behandelten Person zur Anwendung.
-
-
+## Anlage 2 (weggefallen)
 
 
 (zu § 5 Absatz 1, § 6 Absatz 1, § 7 und § 9 Absatz 1)
 
 ## Anlage 3 Fachkunde
 
-(Fundstelle: Anhang 1 zum BGBl. 2023 I Nr. 149 v. 12.6.2023, S. 5 - 8)
+(Fundstelle: Anhang 2 zum BGBl. 2023 I Nr. 149 v. 12.6.2023, S. 9 -
+12)
 
 ## Teil A: Erwerb und Aktualisierung der Fachkunde
 
@@ -807,28 +883,28 @@ Tabelle 1: Fachkunde-Module
 
     *   Grundlagen der Haut und deren Anhangsgebilde
 
-    *   80
+    *   78
 
 
 *    *   OS
 
     *   Optische Strahlung
 
-    *   120
+    *   117
 
 
 *    *   US
 
     *   Ultraschall
 
-    *   40
+    *   38
 
 
 *    *   EK
 
     *   EMF (Hochfrequenzgeräte) in der Kosmetik
 
-    *   40
+    *   38
 
 
 *    *   ES
@@ -836,7 +912,7 @@ Tabelle 1: Fachkunde-Module
     *   EMF (Niederfrequenz-, Gleichstrom- und Magnetfeldgeräte) zur
         Stimulation
 
-    *   24
+    *   23
 
 
 *    *   **Aktualisierung der Fachkunde (Aktualisierungsschulung)**
@@ -907,7 +983,7 @@ Tabelle 2: Fachkundegruppen
 
     *   GK, OS
 
-    *   200
+    *   195
 
     *   AGK, AOS
 
@@ -920,7 +996,7 @@ Tabelle 2: Fachkundegruppen
 
     *   GK, US
 
-    *   120
+    *   116
 
     *   AGK, AUS
 
@@ -933,7 +1009,7 @@ Tabelle 2: Fachkundegruppen
 
     *   GK, EK
 
-    *   120
+    *   116
 
     *   AGK, AEK
 
@@ -946,7 +1022,7 @@ Tabelle 2: Fachkundegruppen
 
     *   ES
 
-    *   24
+    *   23
 
     *   AES
 
@@ -959,7 +1035,7 @@ Tabelle 2: Fachkundegruppen
 
     *   ES
 
-    *   24
+    *   23
 
     *   AES
 
@@ -972,7 +1048,7 @@ Tabelle 2: Fachkundegruppen
 
     *   GK, ES
 
-    *   104
+    *   101
 
     *   AGK, AES
 
@@ -1038,7 +1114,7 @@ Anhangsgebilde" und einer Schulung mit den Lerninhalten des Moduls
 ## **Abschnitt 3: Gleichwertigkeit mit Fachkunde-Modul Teil B**
 
 Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des
-Moduls "Grundlagen der Haut und deren Anhangsgebilde" ist nicht
+Moduls „Grundlagen der Haut und deren Anhangsgebilde“ ist nicht
 erforderlich, wenn eine Person
 
 1.  eine staatlich anerkannte Berufsausbildung zum Kosmetiker/zur
@@ -1067,7 +1143,7 @@ als Bezugsdatum.
 ## **Teil B: Fachkunde-Modul „Grundlagen der Haut und deren
 Anhangsgebilde“**
 
-Lerninhalte (Mindestanzahl LE 80)
+Lerninhalte (Mindestanzahl LE 78)
 
 1.  Anatomie
 
@@ -1090,15 +1166,12 @@ Lerninhalte (Mindestanzahl LE 80)
 7.  Übungen
 
 
-8.  Prüfung
-
-
 
 
 
 ## **Teil C: Fachkunde-Modul „Optische Strahlung“**
 
-Lerninhalte (Mindestanzahl LE 120)
+Lerninhalte (Mindestanzahl LE 117)
 
 1.  Gesetzliche Grundlagen
 
@@ -1141,16 +1214,13 @@ Lerninhalte (Mindestanzahl LE 120)
     entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
-14. Prüfung
-
-
 
 
 
 ## **Teil D: Fachkunde-Modul „Elektromagnetische Felder
 (Hochfrequenzgeräte) in der Kosmetik“**
 
-Lerninhalte (Mindestanzahl LE 40)
+Lerninhalte (Mindestanzahl LE 38)
 
 1.  Gesetzliche Grundlagen
 
@@ -1190,9 +1260,6 @@ Lerninhalte (Mindestanzahl LE 40)
     entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
-13. Prüfung
-
-
 
 
 
@@ -1207,7 +1274,7 @@ dagegen auf die Fachkunde nach § 7 Absatz 1, 2 und 3.
 
 ## **Abschnitt 1: Übersicht der Inhalte des Fachkunde-Moduls**
 
-Lerninhalte (Mindestanzahl LE 24)
+Lerninhalte (Mindestanzahl LE 23)
 
 1.  Gesetzliche Grundlagen
 
@@ -1246,9 +1313,6 @@ Lerninhalte (Mindestanzahl LE 24)
     entsprechender ärztlicher Weiterbildung oder Fortbildung
 
 
-12. Prüfung
-
-
 
 
 
@@ -1273,7 +1337,7 @@ deutsche Übersetzung können verlangt werden.
 
 ## **Teil F: Fachkunde-Modul „Ultraschall“**
 
-Lerninhalte (Mindestanzahl LE 40)
+Lerninhalte (Mindestanzahl LE 38)
 
 1.  Gesetzliche Grundlagen
 
@@ -1313,9 +1377,6 @@ Lerninhalte (Mindestanzahl LE 40)
 
 13. Selbständige Durchführung von unterschiedlichen Anwendungen unter
     ärztlicher Aufsicht
-
-
-14. Prüfung
 
 
 

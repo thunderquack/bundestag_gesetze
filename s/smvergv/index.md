@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 9.7.2021 I 2444
 
+Änderung durch
+:   Art. 24 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -95,28 +98,28 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
     *   in den Besoldungsgruppen A 3 und A 4
 
-    *   13,85 Euro,
+    *   15,42 Euro,
 
 
 *    *   2.
 
     *   in den Besoldungsgruppen A 5 bis A 8
 
-    *   16,37 Euro,
+    *   18,22 Euro,
 
 
 *    *   3.
 
     *   in den Besoldungsgruppen A 9 bis A 12
 
-    *   22,49 Euro,
+    *   25,03 Euro,
 
 
 *    *   4.
 
     *   in den Besoldungsgruppen A 13 bis A 16
 
-    *   30,96 Euro.
+    *   34,46 Euro.
 
 
 

@@ -15,10 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1938
 
-Geändert durch
-:   Art. 13 G v. 25.6.2021 I 2083
+Zuletzt geändert durch
+:   Art. 1 V v. 15.12.2023 I Nr. 377
 
-Stand: Die V tritt gem. § 5 Satz 2 dieser V am 31.12.2024 außer Kraft
+Stand: Die V tritt gem. § 5 Satz 2 dieser V am 31.12.2024 außer Kraft; die Geltung dieser V ist gem. § 5 Satz 2 idF d. Art. 1 Nr. 2 V v. 15.12.2023 I Nr. 377 über den 31.12.2024 hinaus bis zum 31.12.2031 verlängert worden
 
 ## Eingangsformel
 
@@ -34,7 +34,7 @@ Führung des Transparenzregisters, und mit den hierfür erforderlichen
 Befugnissen nach Abschnitt 4 des Geldwäschegesetzes beliehen wird die
 Bundesanzeiger Verlag GmbH, eingetragen im Handelsregister beim
 Amtsgericht Köln, HRB 31248. Die Beleihung ist bis zum 31. Dezember
-2024 befristet.
+2031 befristet.
 
 
 ## § 2 Finanzierung des Beliehenen und Übertragung der Vollstreckung an den Beliehenen
@@ -148,5 +148,5 @@ gesellschaftsrechtlich verbundenen Unternehmen zustehen.
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
-am 31. Dezember 2024 außer Kraft.
+am 31. Dezember 2031 außer Kraft.
 

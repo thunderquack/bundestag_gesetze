@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 5 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 18.3.2024 I Nr. 100 mWv 1.5.2024 noch nicht berücksichtigt
+
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
 Informationsverfahren auf dem Gebiet der Normen und technischen

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 488
 
 Zuletzt geändert durch
-:   Art. 32 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 6 G v. 21.11.2023 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 21.11.2023 I Nr. 315
 
 
 ## § 1

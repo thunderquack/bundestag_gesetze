@@ -82,10 +82,12 @@ für Nationale Sicherheit der DDR ergeben.
 Gesundheitsschaden, der nach den Regelungen der
 Sonderversorgungssysteme zu einem Anspruch auf eine
 Dienstbeschädigungsrente geführt hat oder führen würde, in Höhe der
-Grundrente nach § 31 des Bundesversorgungsgesetzes geleistet. Dabei
-gilt der Grad des Körper- oder Gesundheitsschadens als Grad der
-Schädigungsfolgen; bei einem Grad der Schädigungsfolgen von 20 sind
-zwei Drittel der Mindestgrundrente zugrunde zu legen. Für den
+monatlichen Entschädigungszahlung nach § 83 des Vierzehnten Buches
+Sozialgesetzbuch geleistet. Dabei gilt der Grad des Körper- oder
+Gesundheitsschadens als Grad der Schädigungsfolgen; bei einem Grad der
+Schädigungsfolgen von 20 sind zwei Drittel der monatlichen
+Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 des Vierzehnten
+Buches Sozialgesetzbuch zugrunde zu legen. Für den
 Dienstbeschädigungsausgleich, der wegen einer in die gesetzliche
 Rentenversicherung überführten Dienstbeschädigungsvollrente zu leisten
 ist, wird der Grad des Körper- oder Gesundheitsschadens neu
@@ -101,20 +103,20 @@ ausgegangen werden.
 (1a) Ist nach dem 2. August 2001 der Grad des Körper- oder
 Gesundheitsschadens erstmals oder neu festzustellen, gelten die
 Grundsätze, die für die Feststellung des Grades der Schädigungsfolgen
-nach § 30 des Bundesversorgungsgesetzes anzuwenden sind. Vorbehaltlich
-einer Anwendung des § 45 des Zehnten Buches Sozialgesetzbuch verbleibt
-es bei dem nach Absatz 1 festgestellten Grad der Schädigungsfolgen,
-wenn die Anwendung der Grundsätze des § 30 des
-Bundesversorgungsgesetzes keinen höheren Grad der Schädigungsfolgen
-ergibt. Ergibt sich infolge einer wesentlichen Änderung in den
-tatsächlichen Verhältnissen ein niedrigerer Grad der
+nach § 5 des Vierzehnten Buches Sozialgesetzbuch anzuwenden sind.
+Vorbehaltlich einer Anwendung des § 45 des Zehnten Buches
+Sozialgesetzbuch verbleibt es bei dem nach Absatz 1 festgestellten
+Grad der Schädigungsfolgen, wenn die Anwendung der Grundsätze des § 5
+des Vierzehnten Buches Sozialgesetzbuch keinen höheren Grad der
+Schädigungsfolgen ergibt. Ergibt sich infolge einer wesentlichen
+Änderung in den tatsächlichen Verhältnissen ein niedrigerer Grad der
 Schädigungsfolgen, ist bei der Neufeststellung von dem Grad der
 Schädigungsfolgen auszugehen, der sich ursprünglich aus Absatz 1
 ergeben hatte. Ergibt sich infolge einer wesentlichen Änderung in den
 tatsächlichen Verhältnissen ein höherer Grad der Schädigungsfolgen,
 darf der neu festzusetzende Grad nicht höher festgesetzt werden, als
-der Grad, der sich bei Anwendung der Grundsätze des § 30 des
-Bundesversorgungsgesetzes ergeben hätte.
+der Grad, der sich bei Anwendung der Grundsätze des § 5 des
+Vierzehnten Buches Sozialgesetzbuch ergeben hätte.
 
 (2) Bestand für den Monat vor Beginn des Anspruchs auf
 Dienstbeschädigungsausgleich ein Anspruch auf

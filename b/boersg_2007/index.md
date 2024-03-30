@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1330, 1351
 
 Zuletzt geändert durch
-:   Art. 12 G v. 19.12.2022 I 2606
+:   Art. 11 G v. 11.12.2023 I Nr. 354
 
 Dieses Gesetz dient der Umsetzung
 
@@ -279,7 +279,11 @@ Fragen verweigern, deren Beantwortung ihn selbst oder einen der in §
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 Der Verpflichtete ist über sein Recht zur Verweigerung der Auskunft zu
-belehren.
+belehren. Die Börsenaufsichtsbehörde kann innerhalb ihrer gesetzlichen
+Befugnisse die Erteilung von Auskünften und die Vorlage von Unterlagen
+verlangen, ohne dass dem Adressaten zuvor Gelegenheit gegeben werden
+muss, sich zu den für die Entscheidung erheblichen Tatsachen zu
+äußern.
 
 (4a) Die Börsenaufsichtsbehörde kann, soweit dies zur Erfüllung ihrer
 Aufgaben erforderlich ist, auch ohne besonderen Anlass von der Börse
@@ -511,8 +515,11 @@ Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
 (1) Die Errichtung einer Börse bedarf der schriftlichen Erlaubnis der
 Börsenaufsichtsbehörde.
 
-(2) Der Antrag auf Erteilung der Erlaubnis ist schriftlich bei der
-Börsenaufsichtsbehörde zu stellen. Er muss enthalten:
+(2) Der Antrag auf Erteilung der Erlaubnis ist elektronisch an die
+Börsenaufsichtsbehörde zu übermitteln. Die elektronische Übermittlung
+hat in einem von der Börsenaufsichtsbehörde bestimmten Datenformat und
+auf einem von der Börsenaufsichtsbehörde bestimmten Übermittlungsweg
+zu erfolgen. Der Antrag muss enthalten:
 
 1.  einen geeigneten Nachweis der nach § 5 Abs. 5 zum Börsenbetrieb
     erforderlichen Mittel,
@@ -1196,12 +1203,12 @@ sind, dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen
 Tatsachen, deren Geheimhaltung im Interesse der Handelsteilnehmer, der
 zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts-
 und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt
-erheben oder verwenden, auch wenn sie nicht mehr im Dienst sind oder
-ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die
-durch dienstliche Berichterstattung Kenntnis von den in Satz 1
-bezeichneten Tatsachen erhalten. Ein unbefugtes Erheben oder Verwenden
-im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Informationen
-weitergegeben werden an
+offenbaren oder verwenden, auch wenn sie nicht mehr im Dienst sind
+oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen,
+die durch dienstliche Berichterstattung Kenntnis von den in Satz 1
+bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder
+Verwenden im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn
+Informationen weitergegeben werden an
 
 1.  Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige
     Gerichte,
@@ -1260,12 +1267,13 @@ Wertpapierhandelsgesetzes entsprechend.
 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
 Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
-wegen einer Steuerstraftat sowie eines damit zusammenhängenden
-Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
-sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind, die den
-in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine Stelle
-eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch
-von dieser Stelle beauftragte Personen mitgeteilt worden sind.
+wegen einer Steuerstraftat oder eines Besteuerungsverfahrens
+benötigen, es sei denn, der Weitergabe der Informationen stehen andere
+Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind
+jedoch nicht anzuwenden, soweit Tatsachen betroffen sind, die den in
+Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine Stelle eines
+anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von
+dieser Stelle beauftragte Personen mitgeteilt worden sind.
 
 
 ### § 11 Untersagung der Preisfeststellung für ausländische Währungen
@@ -1794,7 +1802,10 @@ Systeme sie zur Erfüllung der Börsengeschäfte nutzen.
 (3) Der Börsenträger hat die Börsenaufsichtsbehörde über das Stellen
 von Anträgen auf Zugang nach Artikel 7 der Verordnung (EU) Nr.
 648/2012 sowie den Eingang eines Antrags auf Zugang nach Artikel 8 der
-Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich zu unterrichten.
+Verordnung (EU) Nr. 648/2012 unverzüglich elektronisch zu
+unterrichten. Die elektronische Unterrichtung hat in einem von der
+Börsenaufsichtsbehörde bestimmten Datenformat und auf einem von der
+Börsenaufsichtsbehörde bestimmten Unterrichtungsweg zu erfolgen.
 
 
 ### § 22 Sanktionsausschuss
@@ -2368,7 +2379,7 @@ nicht unter Satz 1 fällt.
 ### § 32 Zulassungspflicht
 
 (1) Wertpapiere, die im regulierten Markt an einer Börse gehandelt
-werden sollen, bedürfen der Zulassung oder der Einbeziehung durch die
+werden sollen, bedürfen der Zulassung oder Einbeziehung durch die
 Geschäftsführung, soweit nicht in § 37 oder in anderen Gesetzen etwas
 anderes bestimmt ist.
 
@@ -2386,6 +2397,11 @@ Emittenten die Übermittlung von Referenzdaten in Bezug auf die
 zuzulassenden Wertpapiere verlangen, soweit dies zur Erfüllung der
 Anforderungen aus Artikel 4 der Verordnung (EU) Nr. 596/2014
 erforderlich ist.
+
+(2a) Abweichend von Absatz 2 kann die Börsenordnung vorsehen, dass die
+Zulassung nach Absatz 1 außerhalb von Teilbereichen des regulierten
+Marktes im Sinne von § 42 Absatz 1 lediglich vom Emittenten von
+Wertpapieren zu beantragen ist.
 
 (3) Wertpapiere sind zuzulassen, wenn
 
@@ -2721,9 +2737,9 @@ Auskünfte selbst veröffentlichen.
 (1) Die Börsenordnung kann für Teilbereiche des regulierten Marktes
 ergänzend zu den vom Unternehmen einzureichenden Unterlagen
 zusätzliche Voraussetzungen für die Zulassung von Aktien oder Aktien
-vertretenden Zertifikate und weitere Unterrichtungspflichten des
+vertretenden Zertifikaten und weitere Unterrichtungspflichten des
 Emittenten auf Grund der Zulassung von Aktien oder Aktien vertretenden
-Zertifikate zum Schutz des Publikums oder für einen ordnungsgemäßen
+Zertifikaten zum Schutz des Publikums oder für einen ordnungsgemäßen
 Börsenhandel vorsehen.
 
 (2) Liegen zusätzliche Voraussetzungen nach Absatz 1 nicht mehr vor
@@ -2751,7 +2767,225 @@ er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung
 stellt.
 
 
-### (XXXX) §§ 44 bis 47
+## Abschnitt 4a - Börsenmantelaktiengesellschaft zum Zweck der Börsenzulassung
+
+
+
+### § 44 Begriffsbestimmungen, anwendbare Vorschriften
+
+(1) Die Börsenmantelaktiengesellschaft ist eine Gesellschaft zur
+Erreichung der eigenen Börsenzulassung. Gegenstand der Gesellschaft
+ist die Verwaltung des eigenen Vermögens, die Vorbereitung und
+Durchführung des eigenen Börsengangs sowie die Vorbereitung und der
+Abschluss der Übernahmetransaktion, die den im
+Börsenzulassungsprospekt beschriebenen Kriterien entspricht und sich
+auf ein Unternehmen bezieht, das nicht an einer Wertpapierbörse
+notiert ist (Zieltransaktion).
+
+(2) Die Zieltransaktion umfasst sämtliche Erwerbsvorgänge
+einschließlich Umwandlungen nach dem Umwandlungsgesetz, bei denen die
+Börsenmantelaktiengesellschaft mindestens drei Viertel der Anteile der
+Zielgesellschaft erwirbt oder das Vermögen der Zielgesellschaft
+vollständig auf die Gesellschaft übergeht.
+
+(3) Der Bestand der Börsenmantelaktiengesellschaft ist von der
+Durchführung der Zieltransaktion innerhalb der in der Satzung der
+Gesellschaft festgelegten Frist abhängig. Die Satzung der Gesellschaft
+muss dazu eine Frist zwischen 24 und 36 Monaten enthalten. Fristbeginn
+ist der Tag der Zulassung der Aktien zum Handel am regulierten Markt.
+Wurde innerhalb der Frist keine Zieltransaktion durchgeführt, so kann
+die Frist durch satzungsändernden Beschluss um jeweils bis zu zwölf
+Monate verlängert werden, sofern die Frist insgesamt 48 Monate nicht
+übersteigt.
+
+(4) Die besonderen Vorgaben der §§ 44 bis 47b gelten für
+Aktiengesellschaften, wenn
+
+1.  deren Satzung den in Absatz 1 genannten Geschäftsgegenstand und die
+    Befristung nach Absatz 3 enthält,
+
+
+2.  deren Wertpapiere zum Handel an einem regulierten Markt nach § 32
+    zugelassen wurden und
+
+
+3.  deren Satzung die Möglichkeit vorsieht, eine virtuelle
+    Hauptversammlung nach § 118a des Aktiengesetzes durchzuführen.
+
+
+
+
+(5) Die Börsenmantelaktiengesellschaft muss als Aktiengesellschaft im
+Sinne des § 1 des Aktiengesetzes verfasst sein. Die Firma der
+Börsenmantelaktiengesellschaft muss die Bezeichnung
+„Börsenmantelaktiengesellschaft“ oder eine allgemeinverständliche
+Abkürzung dieser Bezeichnung enthalten.
+
+(6) Initiator ist jeder Aktionär der Börsenmantelaktiengesellschaft,
+der als Gründer im Sinne des § 28 des Aktiengesetzes anzusehen ist,
+oder wer Vorstandsmitglied der Börsenmantelaktiengesellschaft ist und
+Aktien oder sonstige Bezugsrechte der Börsenmantelaktiengesellschaft
+innehat. Aktien und sonstige Bezugsrechte, die von anderen Personen
+als den Initiatoren gehalten werden, werden den Initiatoren nach
+Maßgabe des § 34 des Wertpapierhandelsgesetzes zugerechnet.
+
+(7) Für eine Börsenmantelaktiengesellschaft gelten die für
+Aktiengesellschaften maßgeblichen Vorschriften, sofern sich aus den
+Vorschriften dieses Abschnitts nichts anderes ergibt. Dies gilt
+insbesondere auch für die Gesetze über die Mitbestimmung der
+Arbeitnehmer.
+
+(8) Ist die Börsenmantelaktiengesellschaft eine Europäische
+Gesellschaft (SE) und beschäftigt sie allein oder gemeinsam mit ihren
+Tochtergesellschaften, insbesondere nach Durchführung der
+Zieltransaktion, mindestens zehn Arbeitnehmer, so ist ein
+Verhandlungsverfahren nach dem SE-Beteiligungsgesetz durchzuführen.
+Wird in diesen Verhandlungen keine Einigung erzielt, sind die §§ 22
+bis 33 des SE-Beteiligungsgesetzes über den SE-Betriebsrat kraft
+Gesetzes und die §§ 34 bis 38 des SE-Beteiligungsgesetzes über die
+Mitbestimmung kraft Gesetzes anzuwenden.
+
+
+### § 45 Einlage; Verwendungsabrede
+
+(1) Die auf die Einlagenverpflichtung sowie auf die Verpflichtung zur
+Zahlung eines Aufgelds der Börsenmantelaktiengesellschaft geleisteten
+Zahlungen der Aktionäre sind zur Sicherstellung des zweckgerechten
+Einsatzes der Zahlungen durch einen geeigneten Treuhänder (Absatz 2)
+zu halten, bis die Zieltransaktion durchgeführt wird.
+
+(2) Geeigneter Treuhänder ist ein Notar, ein Kreditinstitut im Sinne
+von § 1 Absatz 1 Satz 1 des Kreditwesengesetzes oder ein nach § 53
+Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 oder Absatz 7 des
+Kreditwesengesetzes tätiges Unternehmen. Für die nach Absatz 1
+geleisteten Zahlungen ist ein gesondertes, angemessen verzinstes Konto
+zu führen, das dem Zugriff des Vorstands oder anderer Organe oder
+Vertreter der Börsenmantelaktiengesellschaft entzogen ist und auf das
+nur der Treuhänder unmittelbaren Zugriff hat. Dies gilt nicht für
+Geldmittel, die für laufende Verwaltungskosten, die Erfüllung der
+gesetzlichen Anforderungen und die Vorbereitung der Zieltransaktion
+erforderlich sind, bis zu einer Höhe von insgesamt fünf Prozent der
+Einlageverpflichtungen einschließlich Aufgeld. Die Verwahrung von nach
+Absatz 1 geleisteten Zahlungen durch einen Notar erfolgt nach den
+Vorschriften des Abschnitts 6 des Beurkundungsgesetzes.
+
+(3) Abweichend von § 188 Absatz 2 Satz 1 in Verbindung mit § 36 Absatz
+2 und § 37 Absatz 1 Satz 1 und 2 des Aktiengesetzes ist eine
+Übertragung der von den Aktionären erbrachten Einlagen an den in
+Absatz 1 bezeichneten Treuhänder oder eine unmittelbare Einzahlung auf
+das von ihm geführte Treuhandkonto zulässig.
+
+
+### § 46 Zuständigkeit der Hauptversammlung, Informationspflichten
+
+(1) Die Entscheidung über die Zieltransaktion bedarf der Zustimmung
+der Hauptversammlung. Bei Zieltransaktionen, die nicht im Wege einer
+Umwandlung nach dem Umwandlungsgesetz durchgeführt werden, muss der
+Vorstand der Hauptversammlung die Zieltransaktion zur Zustimmung
+vorlegen. § 179a Absatz 2 des Aktiengesetzes gilt entsprechend. Der
+Vorstand der Börsenmantelaktiengesellschaft hat einen ausführlichen
+schriftlichen Bericht zu erstatten, in dem die Zieltransaktion, der
+der Zieltransaktion zugrunde liegende Vertrag sowie die Angemessenheit
+der der Zielgesellschaft versprochenen Gegenleistung im Verhältnis zum
+Wert der Zielgesellschaft rechtlich und wirtschaftlich erläutert und
+begründet werden (Zieltransaktionsbericht). Dabei ist auch die
+Vereinbarkeit mit den im Börsenzulassungsprospekt niedergelegten
+Kriterien für die Zieltransaktion zu erläutern und zu begründen. In
+den Zieltransaktionsbericht brauchen Tatsachen nicht aufgenommen zu
+werden, deren Bekanntwerden geeignet ist, einem der beteiligten
+Rechtsträger oder einem verbundenen Unternehmen einen nicht
+unerheblichen Nachteil zuzufügen. In diesem Falle sind in dem Bericht
+die Gründe, aus denen die Tatsachen nicht aufgenommen worden sind,
+darzulegen. Die Bekanntmachungspflicht nach § 124 Absatz 3 Satz 1 des
+Aktiengesetzes erstreckt sich auch auf den Zieltransaktionsbericht.
+
+(2) In der Einberufung zur Hauptversammlung hat der Vorstand auf
+Kosten der Gesellschaft einen Bevollmächtigten zu benennen, den die
+Aktionäre in Textform zur Ausübung ihres Stimmrechts und zur Einlegung
+eines Widerspruchs zu Protokoll in der Hauptversammlung
+bevollmächtigen können.
+
+(3) Der Beschluss über die Entscheidung nach Absatz 1 bedarf einer
+Mehrheit von drei Vierteln des bei der Beschlussfassung vertretenen
+Grundkapitals. Das Stimmrecht der Initiatoren im Sinne des § 44 Absatz
+6 ist dabei ausgeschlossen.
+
+
+### § 47 Andienungsrecht der Aktionäre; Zulässigkeit der Einlagenrückgewähr
+
+(1) Aktionäre, die gegen den Beschluss über die Zieltransaktion
+Widerspruch zur Niederschrift erklärt haben, können innerhalb einer
+Frist von zwei Monaten ab Fassung des Hauptversammlungsbeschlusses
+nach § 46 Absatz 1 die Übertragung ihrer Aktien auf die Gesellschaft
+gegen Zahlung eines Betrages in der Höhe der geleisteten Bareinlage
+zuzüglich des gezahlten Aufgelds verlangen (Andienungsrecht).
+
+(2) Für den zulässigen Erwerb eigener Aktien gilt § 71 Absatz 1 Nummer
+3 und Absatz 2 Satz 1 des Aktiengesetzes mit der Maßgabe, dass die
+Obergrenze 30 Prozent des Grundkapitals beträgt, wenn die Aktien
+genutzt werden, um Ansprüche der Aktionäre aus dem Andienungsrecht
+nach Absatz 1 zu erfüllen.
+
+(3) Der Erfüllung des Andienungsrechts stehen § 71 Absatz 2 Satz 2 und
+§ 57 Absatz 1 und 2 des Aktiengesetzes nicht entgegen. Sie ist nicht
+als Leistung anzusehen, die im Sinne des § 27 Absatz 4 des
+Aktiengesetzes der Rückzahlung einer Einlage entspricht.
+
+
+### § 47a Aktienoptionen
+
+(1) Die Börsenmantelaktiengesellschaft kann selbstständige
+Optionsscheine ausgeben, die auf einen Bezug von Aktien der
+Gesellschaft gerichtet sind und aus einer bedingten Kapitalerhöhung
+nach § 192 des Aktiengesetzes bedient werden.
+
+(2) Sofern für die Gewährung der Rechte aus den Optionsscheinen ein
+Beschluss über eine bedingte Kapitalerhöhung nach § 193 Absatz 2
+Nummer 4 des Aktiengesetzes gefasst wird, gilt die in § 193 Absatz 2
+Nummer 4 des Aktiengesetzes bestimmte Frist für die erstmalige
+Ausübung des Bezugsrechts nicht.
+
+
+### § 47b Beendigung der Börsenmantelaktiengesellschaft; Auflösung; Abwicklung
+
+(1) Der Ablauf der nach § 44 Absatz 3 bestimmten Frist ist
+Auflösungsgrund im Sinne des § 262 Absatz 1 Nummer 1 des
+Aktiengesetzes sowie Grund für einen Widerruf der Zulassung nach § 39
+Absatz 1. Dies gilt nicht, wenn eine Zieltransaktion einschließlich
+der Bedienung des Andienungsrechts erfolgreich durchgeführt wurde,
+soweit der Wert die im Zuge der Zieltransaktion durch die
+Börsenmantelaktiengesellschaft erworbenen Vermögenswerte nicht um mehr
+als 20 Prozent hinter dem Wert der Einlagen einschließlich Aufgeld
+zurückbleibt. In diesem Fall finden mit Ablauf der Frist nach § 44
+Absatz 3 die in diesem Abschnitt geregelten besonderen Vorgaben keine
+Anwendung mehr und die Gesellschaft wird als Aktiengesellschaft im
+Sinne des § 1 des Aktiengesetzes ausschließlich nach den Vorschriften
+des Aktiengesetzes fortgeführt. Die Bezeichnung
+Börsenmantelaktiengesellschaft (§ 44 Absatz 5 Satz 2) darf nicht mehr
+geführt werden.
+
+(2) Vor Ablauf der Frist nach § 44 Absatz 3 kann die Hauptversammlung
+gemäß § 179 Absatz 1 des Aktiengesetzes beschließen, dass die
+Bestimmungen der Satzung nach § 44 Absatz 4 aufgehoben werden und die
+Gesellschaft in der Rechtsform einer Aktiengesellschaft ausschließlich
+nach den Vorschriften des Aktiengesetzes fortgeführt werden soll. Dem
+Antrag auf Eintragung der Satzungsänderung ist eine
+Einzahlungsbestätigung nach § 37 Absatz 1 Satz 3 des Aktiengesetzes
+bezüglich der Übertragung der Gelder vom Treuhandkonto nach § 45
+Absatz 2 auf die Gesellschaft zur freien Verfügung des Vorstands
+beizufügen. Wenn bis zum Zeitpunkt des Beschlusses keine
+Zieltransaktion einschließlich der Bedienung des Andienungsrechts nach
+§ 47 Absatz 1 durchgeführt wurde, muss nach Fassung des Beschlusses
+ein Antrag auf Widerruf der Zulassung der Aktien zum Handel am
+regulierten Markt (§ 39 Absatz 2 Satz 1) gestellt werden. § 39 Absatz
+2 und 3 gilt entsprechend mit der Maßgabe, dass die angebotene
+Gegenleistung nicht unter dem Ausgabebetrag der Aktien einschließlich
+eines etwaigen Aufgelds liegen darf.
+
+(3) Abweichend von § 272 Absatz 1 des Aktiengesetzes darf im Falle der
+Auflösung auf der Grundlage von Absatz 1 das Vermögen verteilt werden,
+wenn zwei Monate seit dem Tag verstrichen sind, an dem der Aufruf an
+die Gläubiger bekanntgemacht worden ist.
 
 
 ## Abschnitt 5 - Freiverkehr, KMU-Wachstumsmarkt und organisiertes Handelssystem

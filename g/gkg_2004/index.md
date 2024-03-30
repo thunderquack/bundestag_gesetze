@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 29 G v. 8.10.2023 I Nr. 272
+:   Art. 2 G v. 14.12.2023 I Nr. 365
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

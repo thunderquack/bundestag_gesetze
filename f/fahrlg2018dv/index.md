@@ -896,11 +896,11 @@ Anerkennungen folgende Angaben einzutragen:
         Geburtsdatum und Geburtsort, Anschrift und Staatsangehörigkeit,
 
 
-    b)  bei einer juristischen Person, Personengesellschaft oder Behörde: Name
-        oder Bezeichnung und Anschrift sowie zusätzlich bei juristischen
-        Personen und Personengesellschaften die nach Gesetz, Vertrag oder
-        Satzung zur Vertretung berechtigten Personen mit den Angaben nach
-        Buchstabe a,
+    b)  bei einer juristischen Person, rechtsfähigen Personengesellschaft oder
+        Behörde: Name oder Bezeichnung und Anschrift sowie zusätzlich bei
+        juristischen Personen und rechtsfähigen Personengesellschaften die
+        nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen
+        mit den Angaben nach Buchstabe a,
 
 
     c)  bei einer Vereinigung: Name oder Bezeichnung und Anschrift sowie die
@@ -1112,7 +1112,7 @@ Musterplan
 
     *   Sachgebiet
 
-    *[^F808803_01_BJNR000210018BJNE002800124]
+    *[^F808803_01_BJNR000210018BJNE002801123]
    Lehrkraft
 
 
@@ -1208,7 +1208,7 @@ Musterplan
 
 *    *   –
 
-    *   Personengesellschaften
+    *   rechtsfähige Personengesellschaften
 
 
 *    *   –
@@ -1325,7 +1325,7 @@ Musterplan
     *   Tod des Inhabers
 
 
-*    *   Juristische Personen, Personengesellschaften:
+*    *   Juristische Personen, rechtsfähige Personengesellschaften:
 
 
 *    *   –
@@ -1911,7 +1911,7 @@ Musterplan
 
     Abweichend davon dürfen auch andere Lehrkräfte eingesetzt werden, wenn
     diese in der Lage sind, die genannten Inhalte zu vermitteln.
-[^F808803_01_BJNR000210018BJNE002800124]: 
+[^F808803_01_BJNR000210018BJNE002801123]: 
 (zu § 3)
 
 ### Anlage 2 Unterrichtsräume
@@ -2385,7 +2385,7 @@ Ausbildungsordnung
 
     *   Minuten
 
-    *   FL\* Nr.
+    *   FL\*) Nr.
 
     *   Datum
 
@@ -2393,7 +2393,7 @@ Ausbildungsordnung
 
     *   Minuten
 
-    *   FL\* Nr.
+    *   FL\*) Nr.
 
     *
     *
@@ -2625,30 +2625,9 @@ Ausbildungsordnung
 *    *
     *
     *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+    *   Schaltnachweis inkl. Ausbildung nach § 5a FahrschAusbO
 
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   *                      Die Ausbildung erfolgte in Kooperation als
-        *                      Auftrag gebende
-        *                      Auftrag nehmende
-        Fahrschule mit folgender Fahrschule\*\**
+    *   = SN
 
     *
     *
@@ -2669,42 +2648,20 @@ Ausbildungsordnung
 
 *    *
     *
-    *
-    *
-    *
-    *
-    *
-    *
+        *   Die Ausbildung erfolgte in Kooperation als
 
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+            *   Auftrag gebende
 
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
 
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+            *   Auftrag nehmende
 
-*    *
-    *
+
+
+            Fahrschule mit folgender Fahrschule\*\*\*)
+
+
+
+
     *
     *
     *
@@ -2750,7 +2707,62 @@ Ausbildungsordnung
     *
 
 *    *
-    *   *\*\* falls zutreffend bitte ausfüllen
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   *\*\*) falls zutreffend bitte ausfüllen
 
     *
     *

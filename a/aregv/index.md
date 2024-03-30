@@ -15,9 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2529
 
+Stand: Die V tritt gem. Art. 15 Abs. 5 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
-:   Art. 8 G v. 20.7.2022 I 1237
+:   Art. 5 G v. 22.12.2023 I Nr. 405
 
+Stand: Die V ist gem. Art. 4 V v. 29.10.2007 I 2529 am 6.11.2007 in Kraft getreten
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -583,11 +585,7 @@ oder Erlöse aus
     Verbindung mit Satz 2 der Gasnetzentgeltverordnung,
 
 
-14. dem bundesweiten Ausgleichsmechanismus nach § 2 Absatz 5 des
-    Energieleitungsausbaugesetzes vom 21. August 2009 (BGBl. I S. 2870) in
-    der jeweils geltenden Fassung und nach § 3 Absatz 5 Satz 2 und nach §
-    4 Absatz 3 Satz 2 des Bundesbedarfsplangesetzes vom 23. Juli 2013
-    (BGBl. I S. 2543; 2014 I S. 148) in der jeweils geltenden Fassung,
+14. (weggefallen)
 
 
 15. (weggefallen)
@@ -1622,7 +1620,7 @@ entsprechend anzuwenden.
 
 ### § 27 Datenerhebung
 
-(1) Die Regulierungsbehörde ermittelt die zur Bestimmung der
+Die Regulierungsbehörde ermittelt die zur Bestimmung der
 Erlösobergrenzen nach Teil 2 und 3 notwendigen Tatsachen. Hierzu
 erhebt sie bei den Netzbetreibern die notwendigen Daten
 
@@ -1673,11 +1671,6 @@ ermittelt sie insbesondere die erforderlichen Tatsachen
 
 
 
-
-(2) Die Bundesnetzagentur kann darüber hinaus die zur Evaluierung des
-Anreizregulierungssystems, jährlich zur Beobachtung des
-Investitionsverhaltens der Netzbetreiber und zur Erstellung der
-Berichte nach § 33 notwendigen Daten erheben.
 
 
 ### § 28 Mitteilungspflichten
@@ -1898,78 +1891,8 @@ Nummer 2 hervorruft und auf Gründen außerhalb der Einflusssphäre von
 Verteilernetzbetreibern beruht.
 
 
-### § 33 Evaluierung und Berichte der Bundesnetzagentur
+### § 33 (weggefallen)
 
-(1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Klimaschutz zum 31. Dezember 2024 einen Bericht mit einer
-Evaluierung und Vorschlägen zur weiteren Ausgestaltung der
-Anreizregulierung vor. Der Bericht enthält Angaben zur Entwicklung des
-Investitionsverhaltens der Netzbetreiber und zur Notwendigkeit
-weiterer Maßnahmen zur Vermeidung von Investitionshemmnissen. Sie kann
-im Rahmen der Evaluierung insbesondere Vorschläge machen
-
-1.  zur Verwendung weiterer als der in Anlage 3 aufgeführten
-    Vergleichsmethoden und zu ihrer sachgerechten Kombination,
-
-
-2.  zur Verwendung monetär bewerteter Kennzahlen der Netzzuverlässigkeit
-    als Aufwandsparameter im Effizienzvergleich,
-
-
-3.  zur Vermeidung von Investitionshemmnissen,
-
-
-4.  zu einem neuen oder weiterentwickelten Konzept für eine
-    Anreizregulierung und
-
-
-5.  zur notwendigen Weiterentwicklung der Transparenzvorschriften zur
-    besseren Nachvollziehbarkeit von Regulierungsentscheidungen,
-    insbesondere zur Veröffentlichung netzbetreiberbezogener Daten.
-
-
-
-
-(2) Die Bundesnetzagentur soll den Bericht nach Absatz 1 unter
-Beteiligung der Länder, der Wissenschaft und der betroffenen
-Wirtschaftskreise erstellen sowie internationale Erfahrungen mit
-Anreizregulierungssystemen berücksichtigen. Sie gibt den betroffenen
-Wirtschaftskreisen Gelegenheit zur Stellungnahme und veröffentlicht
-die erhaltenen Stellungnahmen im Internet.
-
-(3) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Klimaschutz zum 31. Dezember 2024 einen Bericht zur Notwendigkeit
-der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden,
-unter Berücksichtigung der internationalen Entwicklung von
-Anreizregulierungssystemen, vor.
-
-(4) Die Bundesnetzagentur beobachtet das Investitionsverhalten der
-Netzbetreiber. Hierzu entwickelt sie ein Modell für ein
-indikatorbasiertes Investitionsmonitoring. Sie veröffentlicht darüber
-hinaus in regelmäßigen Abständen aussagekräftige Kennzahlen über das
-Investitionsverhalten der Netzbetreiber.
-
-(5) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Klimaschutz im Laufe der dritten Regulierungsperiode einen Bericht
-zum Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten
-bei Elektrizitätsverteilernetzen vor.
-
-(6) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Klimaschutz im Laufe der dritten Regulierungsperiode einen Bericht
-zur Struktur und Effizienz von Elektrizitäts- und
-Gasverteilernetzbetreibern vor, die sich für das vereinfachte
-Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts
-insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der
-Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
-
-(7) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
-und Klimaschutz zum 31. Dezember 2027 einen Bericht mit einer
-Evaluierung des Anreizinstruments zur Verringerung von
-Engpassmanagementkosten der Übertragungsnetzbetreiber und mit
-Vorschlägen zur weiteren Ausgestaltung einer sachgerechten
-Einbeziehung von Kosten aus dem Engpassmanagement in die
-Anreizregulierung vor. Die Bundesnetzagentur hat zur Erstellung des
-Berichts die Vertreter von Wirtschaft und Verbrauchern zu hören.
 
 
 ## Teil 5 - Schlussvorschriften

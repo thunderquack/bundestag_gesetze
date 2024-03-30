@@ -171,7 +171,7 @@ Disziplin gebieten.
 Ist wegen einer Tat, die ein Soldat während der Ausübung des Dienstes
 oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu
 einhundertachtzig Tagessätzen verhängt, so ist die
-Ersatzfreiheitsstrafe Strafarrest. Einem Tagessatz entspricht ein Tag
+Ersatzfreiheitsstrafe Strafarrest. Zwei Tagessätzen entspricht ein Tag
 Strafarrest.
 
 

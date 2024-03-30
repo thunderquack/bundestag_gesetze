@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2013, 2543; 2014, 148, 271
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.5.2023 I Nr. 133
+:   Art. 3 G v. 5.20224 I Nr. 32
 
+Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft
 Stand: § 1 iVm Nr. 33 der Anlage ist gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 in Kraft getreten
 Stand: § 1 iVm Nr. 29 der Anlage ist gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten
 
@@ -208,10 +209,9 @@ anzuwenden.
 
 (5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen
 einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter
-Rohrleitungen. § 2 Absatz 5 des Energieleitungsausbaugesetzes ist
-entsprechend anzuwenden. Kunststoffisolierte Erdkabel mit einer
-Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen
-die Anforderungen an die technische Sicherheit im Sinne des § 49 des
+Rohrleitungen. Kunststoffisolierte Erdkabel mit einer Nennspannung von
+mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen
+an die technische Sicherheit im Sinne des § 49 des
 Energiewirtschaftsgesetzes.
 
 (6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der
@@ -275,8 +275,7 @@ werden.
 
 (3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen
 einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter
-Rohrleitungen. § 2 Absatz 5 des Energieleitungsausbaugesetzes ist
-entsprechend anzuwenden.
+Rohrleitungen.
 
 (4) Vor dem 31. Dezember 2015 beantragte Planfeststellungsverfahren
 werden nach den bis dahin geltenden Vorschriften zu Ende geführt. Sie
@@ -296,9 +295,7 @@ ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten
 Teilabschnitts eines solchen Vorhabens vorzulegen.
 
 (2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach §
-12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes oder dem
-gemeinsamen Umsetzungsbericht nach § 12d Satz 1 des
-Energiewirtschaftsgesetzes verbunden werden.
+12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
 
 (3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem
 Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand
@@ -1340,41 +1337,48 @@ vordringliche Bedarf bestehen:
 
 *    *   87
 
-    *   Höchstspannungsleitungen Netzausbau und Verstärkung Berlin;
+    *   Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom,
+        Nennspannung 380 kV mit den Bestandteilen
 
     *
 
 *    *
-    *   Drehstrom, Nennspannung 380 kV
+    *
+        –   Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
+
+
+
 
     *
 
 *    *
-    *   mit den Bestandteilen
-
     *
+        –   Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig
+            Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-
+            Kreuzberg (Berlin)
+
+
+
+
+    *   A1, F, G
+
 
 *    *
-    *   – Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide
-
     *
-
-*    *
-    *   – Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig
-        Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-
-        Kreuzberg (Berlin)
-
-    *   A1, F
+        –   Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter
 
 
-*    *
-    *   – Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter
 
-    *   A1, F
+
+    *   A1, F, G
 
 
 *    *
-    *   – Reuter – Teufelsbruch
+    *
+        –   Reuter – Teufelsbruch
+
+
+
 
     *   F
 

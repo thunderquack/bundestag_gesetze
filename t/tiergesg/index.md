@@ -2230,7 +2230,7 @@ Tierhalter wiederholt
 
 
 
-(4) Natürliche und juristische Personen und nicht rechtsfähige
+(4) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der den Behörden nach
 Absatz 1 übertragenen Aufgaben erforderlich sind. Die

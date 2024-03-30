@@ -15,9 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1968
 
-Stand: Die V tritt gem. § 2 Satz 2 am 29.2.2024 außer Kraft
-Geändert durch
-:   Art. 7 V v. 20.7.2023 I Nr. 199
+Stand: Diese V tritt gem. § 2 Satz 2 idF d. Art. 1 V v. 18.1.2024 I Nr. 18 mit Ablauf d. 31.8.2025 außer Kraft
+Zuletzt geändert durch
+:   Art. 1 V v. 18.1.2024 I Nr. 18
 
 
 ## Eingangsformel
@@ -101,8 +101,8 @@ Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung unberührt.
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt am 29.
-Februar 2024 außer Kraft.
+Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt mit Ablauf
+des 31. August 2025 außer Kraft.
 
 
 ## Anlage Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge

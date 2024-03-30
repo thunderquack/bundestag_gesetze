@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2009, 2870
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 3 G v. 2.6.2021 I 1295
+:   Art. 9 G v. 22.12.2023 I Nr. 405
 
+Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten
 
 ## § 1
 
@@ -150,31 +151,7 @@ werden nur dann als Planfeststellungsverfahren in der ab dem 31.
 Dezember 2015 geltenden Fassung dieses Gesetzes fortgeführt, wenn der
 Träger des Vorhabens dies beantragt.
 
-(5) Die Übertragungsnetzbetreiber ermitteln die Mehrkosten für die
-Errichtung, den Betrieb und die Änderung von Erdkabeln im Sinne des
-Absatzes 1, die in dem Übertragungsnetz des jeweiligen
-Übertragungsnetzbetreibers in einem Kalenderjahr anfallen. Die
-Mehrkosten sind pauschal auf der Grundlage von Standardkostenansätzen
-im Vergleich zu einer Freileitung auf derselben Trasse zu ermitteln.
-Die nach den Sätzen 1 und 2 ermittelten Mehrkosten aller
-Übertragungsnetzbetreiber werden addiert, soweit sie einem effizienten
-Netzbetrieb entsprechen. Die so ermittelten Gesamtkosten für Erdkabel
-sind anteilig auf alle Übertragungsnetzbetreiber rechnerisch
-umzulegen. Der Anteil an den Gesamtkosten, der rechnerisch von dem
-einzelnen Übertragungsnetzbetreiber zu tragen ist, bestimmt sich
-entsprechend § 28 Absatz 2 und 3 des Kraft-Wärme-Kopplungsgesetzes vom
-21\. Dezember 2015 (BGBl. I S. 2498), das durch Artikel 9 des Gesetzes
-vom 13. Oktober 2016 (BGBl. I S. 2258) geändert worden ist. Soweit die
-tatsächlichen Mehrkosten eines Übertragungsnetzbetreibers für die
-Errichtung, den Betrieb und die Änderung von Erdkabeln im Sinne des
-Absatzes 1 seinen rechnerischen Anteil an den Gesamtkosten
-übersteigen, ist diese Differenz finanziell auszugleichen. Die
-Zahlungspflicht trifft die Übertragungsnetzbetreiber, deren
-tatsächliche Kosten unter dem rechnerisch auf sie entfallenden Anteil
-an den Gesamtkosten liegen, jedoch nur bis zu der Höhe des auf sie
-jeweils rechnerisch entfallenden Anteils an den Gesamtkosten. Die
-Übertragungsnetzbetreiber ermitteln den Saldo zum 30. November eines
-Kalenderjahres.
+(5) (weggefallen)
 
 
 ## Anlage

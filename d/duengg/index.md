@@ -782,7 +782,7 @@ der Bundesanstalt für Landwirtschaft und Ernährung. Sie ist zuständige
 Behörde für die Überwachung der Einhaltung des § 11 und der auf Grund
 dieser Vorschrift erlassenen Rechtsverordnungen.
 
-(3) Natürliche und juristische Personen und nicht rechtsfähige
+(3) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der den Behörden durch
 dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben
@@ -1014,12 +1014,13 @@ regelmäßige Qualitätssicherung nach Maßgabe der folgenden Vorschriften
 für die genannten Düngemittel einrichten.
 
 (2) Träger einer Qualitätssicherung ist eine juristische Person oder
-Personengesellschaft des Privatrechts, deren Mitglieder,
+rechtsfähige Personengesellschaft des Privatrechts, deren Mitglieder,
 Gesellschafter oder Anteilseigner
 
-1.  natürliche oder juristische Personen oder Personengesellschaften, die
-    die in Absatz 1 genannten Stoffe anwenden, in Verkehr bringen,
-    herstellen, befördern, übernehmen oder lagern, sowie
+1.  natürliche oder juristische Personen oder rechtsfähige
+    Personengesellschaften, die die in Absatz 1 genannten Stoffe anwenden,
+    in Verkehr bringen, herstellen, befördern, übernehmen oder lagern,
+    sowie
 
 
 2.  Fachverbände oder fachkundige Einrichtungen, Institutionen oder
@@ -1030,11 +1031,11 @@ Gesellschafter oder Anteilseigner
 sind.
 
 (3) Qualitätszeichennehmer ist eine natürliche oder juristische Person
-oder Personengesellschaft des Privatrechts, die gewerbsmäßig oder im
-Rahmen wirtschaftlicher Unternehmen die in Absatz 1 genannten Stoffe
-anwendet, in Verkehr bringt, herstellt, befördert, übernimmt oder
-lagert und über das Recht verfügt, ein Qualitätszeichen eines Trägers
-der Qualitätssicherung zu verwenden.
+oder rechtsfähige Personengesellschaft des Privatrechts, die
+gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmen die in Absatz
+1 genannten Stoffe anwendet, in Verkehr bringt, herstellt, befördert,
+übernimmt oder lagert und über das Recht verfügt, ein Qualitätszeichen
+eines Trägers der Qualitätssicherung zu verwenden.
 
 (4) Der Träger der Qualitätssicherung bedarf der Anerkennung der
 zuständigen Behörde. Die Anerkennung ist zu erteilen, wenn der Träger

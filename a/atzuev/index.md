@@ -139,8 +139,8 @@ folgenden Personen durchzuführen:
 
 1.  Antragsteller oder Genehmigungsinhaber in einem Genehmigungs- oder
     Planfeststellungsverfahren, deren gesetzliche Vertreter, bei
-    juristischen Personen oder nicht rechtsfähigen Personenvereinigungen
-    die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder
+    juristischen Personen oder sonstigen Personenvereinigungen die nach
+    Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder
     Geschäftsführung Berechtigten,
 
 
@@ -168,11 +168,12 @@ folgenden Personen durchzuführen:
 2             Ist der Antragsteller oder Genehmigungsinhaber im Falle
 des Satzes 1 Nr. 1 eine Kapitalgesellschaft, deren
 vertretungsberechtigtes Organ aus mehreren Mitgliedern besteht, oder
-eine Personengesellschaft, bei der mehrere vertretungsberechtigte
-Gesellschafter vorhanden sind, kann die zuständige Behörde die
-Verpflichtung zur Überprüfung der Zuverlässigkeit auf die Person, die
-die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt, und andere
-für die Anlage oder Einrichtung zuständige Personen beschränken.
+eine rechtsfähige Personengesellschaft, bei der mehrere
+vertretungsberechtigte Gesellschafter vorhanden sind, kann die
+zuständige Behörde die Verpflichtung zur Überprüfung der
+Zuverlässigkeit auf die Person, die die Aufgaben des
+Strahlenschutzverantwortlichen wahrnimmt, und andere für die Anlage
+oder Einrichtung zuständige Personen beschränken.
 
 (2) Eine erweiterte Zuverlässigkeitsüberprüfung ist bei Personen
 durchzuführen, die zum inneren und äußeren Sicherungsbereich

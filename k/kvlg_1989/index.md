@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2557
 
 Zuletzt geändert durch
-:   Art. 13 G v. 20.12.2022 I 2759
+:   Art. 13a G v. 22.12.2023 I Nr. 408
 
 Änderung der inhaltsübersicht durch
 :   Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -276,8 +276,9 @@ dem Grunde nach besteht.
 
 3.  die in § 5 Abs. 1 Nr. 6 des Fünften Buches Sozialgesetzbuch genannten
     Personen, die wegen Leistungen zur Teilhabe am Arbeitsleben nicht nach
-    dem Bundesversorgungsgesetz berechnetes Übergangsgeld beziehen, wenn
-    sie nach § 2 Abs. 1 Nr. 1, 2 oder 3 versicherungspflichtig sind,
+    dem Vierzehnten Buch Sozialgesetzbuch berechnetes Übergangsgeld
+    beziehen, wenn sie nach § 2 Abs. 1 Nr. 1, 2 oder 3
+    versicherungspflichtig sind,
 
 
 4.  die in § 5 Abs. 1 Nr. 7 und 8 des Fünften Buches Sozialgesetzbuch
@@ -633,7 +634,10 @@ Als Betriebs- oder Haushaltshilfe ist eine Ersatzkraft zu stellen.
 Kann eine Ersatzkraft nicht gestellt werden oder besteht Grund, von
 der Gestellung einer Ersatzkraft abzusehen, sind die Kosten für eine
 selbstbeschaffte betriebsfremde Ersatzkraft in angemessener Höhe zu
-erstatten. Die Satzung regelt das Nähere. Sie hat dabei die
+erstatten. Das Nähere zur Angemessenheit der Kosten für eine
+selbstbeschaffte betriebsfremde Ersatzkraft bestimmt die Satzung.
+Diese kann die Erstattungsfähigkeit der Kosten für selbstbeschaffte
+betriebsfremde Ersatzkräfte begrenzen. Sie hat dabei die
 Besonderheiten landwirtschaftlicher Betriebe und Haushalte zu
 berücksichtigen. Für Verwandte und Verschwägerte bis zum zweiten Grad
 werden keine Kosten erstattet; die Krankenkasse kann jedoch die
@@ -990,8 +994,8 @@ Versicherungspflichtigen bleibt erhalten, solange
 
 
 2.  von einem Rehabilitationsträger während Leistungen zur medizinischen
-    Rehabilitation Verletztengeld, Versorgungskrankengeld oder
-    Übergangsgeld gezahlt wird.
+    Rehabilitation Verletztengeld, Krankengeld der Sozialen Entschädigung
+    oder Übergangsgeld gezahlt wird.
 
 
 
@@ -1636,7 +1640,7 @@ landwirtschaftliche Krankenkasse verteilt die Beitragsteile.
 
 (2) Der zuständige Leistungsträger trägt die nach § 40 Abs. 1, § 42
 Abs. 1 oder § 46 während des Bezugs von Übergangsgeld, Verletztengeld
-oder Versorgungskrankengeld zu zahlenden Beiträge.
+oder von Krankengeld der Sozialen Entschädigung zu zahlenden Beiträge.
 
 (3) Versicherungspflichtige, die eine Rente im Sinne von § 228 Absatz
 1 Satz 1 des Fünften Buches Sozialgesetzbuch beziehen, und die Träger
@@ -2092,4 +2096,18 @@ keinen Kontakt zum Mitglied herstellen konnte, für die Mitgliedschaft
 keine Beiträge geleistet wurden und das Mitglied und
 familienversicherte Angehörige keine Leistungen in Anspruch genommen
 haben.
+
+
+### § 67 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
+das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
+S. 1147) geändert worden ist, in Verbindung mit dem
+Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
+Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 3 Absatz 2 Nummer 3, des § 25
+Absatz 1 Nummer 2 und des § 48 Absatz 2 in der am 31. Dezember 2023
+geltenden Fassung weiter.
 

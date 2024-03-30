@@ -15,17 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2728
 
-Geändert durch
-:   Art. 1 G v. 3.11.2020 I 2291
-
-Änderung durch
-:   Art. 1 G v. 9.11.2022 I 2006 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 9.11.2022 I 2006 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 7 G v. 22.12.2023 I Nr. 412
 
 Stand: § 11 Abs. 1 u. 2 tritt gem. § 24 Abs. 2 dieses G am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Europäische Kommission die zu § 11 Abs. 1 und 2 erforderliche beihilferechtliche Genehmigung erteilt hat. Frühestens jedoch am Tag nach der Verkündung dieses G. § 11 Abs. 2 ist gem. § 24 Abs. 2 dieses G iVm Bek. v. 24.11.2022 I 2098 mWv 1.12.2022 in Kraft getreten.
-Stand: Bek. v. 24.11.2022 I 2098 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ## Eingangsformel
 
@@ -510,10 +503,10 @@ Festpreis pro Emissionszertifikat
 3.  im Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2023: 30 Euro,
 
 
-4.  im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024: 35 Euro,
+4.  im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024: 45 Euro,
 
 
-5.  im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025: 45 Euro.
+5.  im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025: 55 Euro.
 
 
 
@@ -1015,7 +1008,9 @@ bekannt zu geben.
 
 ### Anlage 1 Brennstoffe
 
-(Fundstelle: BGBl. I 2019, 2736)
+(Fundstelle: BGBl. I 2019, 2736;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 Brennstoffe im Sinne dieses Gesetzes sind:
 

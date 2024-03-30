@@ -3329,9 +3329,9 @@ erforderlich sind, zu prüfen, ob und in welchem Umfang die in Satz 1
 genannten Erzeugnisse eingesetzt werden können.
 
 (3) Die Verpflichteten nach Absatz 1 wirken im Rahmen ihrer
-Möglichkeiten darauf hin, dass die Gesellschaften des privaten Rechts,
-an denen sie beteiligt sind, die Verpflichtungen nach den Absätzen 1
-und 2 beachten.
+Möglichkeiten darauf hin, dass die rechtsfähigen Gesellschaften des
+privaten Rechts, an denen sie beteiligt sind, die Verpflichtungen nach
+den Absätzen 1 und 2 beachten.
 
 (4) Die öffentliche Hand hat im Rahmen ihrer Pflichten nach den
 Absätzen 1 bis 3 Regelungen für die Verwendung von Erzeugnissen oder
@@ -4114,14 +4114,15 @@ In der Rechtsverordnung können insbesondere
 ### § 58 Mitteilungspflichten zur Betriebsorganisation
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ
-aus mehreren Mitgliedern oder sind bei Personengesellschaften mehrere
-vertretungsberechtigte Gesellschafter vorhanden, so ist der
-zuständigen Behörde anzuzeigen, wer von ihnen nach den Bestimmungen
-über die Geschäftsführungsbefugnis für die Gesellschaft die Pflichten
-des Betreibers einer genehmigungsbedürftigen Anlage im Sinne des § 4
-des Bundes-Immissionsschutzgesetzes oder die Pflichten des Besitzers
-im Sinne des § 27 wahrnimmt, die ihm nach diesem Gesetz und nach den
-auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen. Die
+aus mehreren Mitgliedern oder sind bei rechtsfähigen
+Personengesellschaften mehrere vertretungsberechtigte Gesellschafter
+vorhanden, so ist der zuständigen Behörde anzuzeigen, wer von ihnen
+nach den Bestimmungen über die Geschäftsführungsbefugnis für die
+Gesellschaft die Pflichten des Betreibers einer
+genehmigungsbedürftigen Anlage im Sinne des § 4 des Bundes-
+Immissionsschutzgesetzes oder die Pflichten des Besitzers im Sinne des
+§ 27 wahrnimmt, die ihm nach diesem Gesetz und nach den auf Grund
+dieses Gesetzes erlassenen Rechtsverordnungen obliegen. Die
 Gesamtverantwortung aller Organmitglieder oder Gesellschafter bleibt
 hiervon unberührt.
 

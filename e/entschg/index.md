@@ -19,8 +19,9 @@ Neugefasst durch
 :   Bek. v. 13.7.2004 I 1658;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.5.2011 I 920
+:   Art. 34 Abs. 11 G v. 22.12.2023 I Nr. 411
 
+Stand: Das G ist gem. Art. 13 Satz 3 G v. 27.9.1994 I 2624 am 1.12.1994 in Kraft getreten
 
 ## § 1 Grundsätze der Entschädigung
 
@@ -537,10 +538,10 @@ mit rechtsbeständigen Verbindlichkeiten des Berechtigten wie
 Unterhaltsschulden, Darlehensforderungen, nicht diskriminierenden
 Gebühren oder Steuern verrechnet wurden, gelten als ihm zugeflossen.
 
-(2) Ist der Berechtigte eine juristische Person oder eine
-Personengesellschaft des Handelsrechts und ist die Gegenleistung oder
-die Entschädigung einem Anteilsberechtigten gewährt worden, so gilt
-diese für die Zwecke der Anrechnung als dem Berechtigten zugeflossen.
+(2) Ist der Berechtigte eine juristische Person oder eine rechtsfähige
+Personengesellschaft und ist die Gegenleistung oder die Entschädigung
+einem Anteilsberechtigten gewährt worden, so gilt diese für die Zwecke
+der Anrechnung als dem Berechtigten zugeflossen.
 
 
 ## § 7 Kürzungsbeträge
@@ -647,9 +648,9 @@ einen Bescheid fest.
 Entschädigung und Zinsen mit der Vorabzahlung nach Absatz 2
 verrechnet. Einen Unterschiedsbetrag zulasten des Berechtigten fordert
 das Bundesausgleichsamt zurück; ist der Berechtigte eine
-Erbengemeinschaft, eine juristische Person, eine Personengesellschaft
-des Handelsrechts oder eine Familienstiftung, sind dessen Beteiligte
-beziehungsweise Mitglieder daneben als Gesamtschuldner
+Erbengemeinschaft, eine juristische Person, eine rechtsfähige
+Personengesellschaft oder eine Familienstiftung, sind dessen
+Beteiligte beziehungsweise Mitglieder daneben als Gesamtschuldner
 rückzahlungspflichtig. Einen Unterschiedsbetrag zugunsten des
 Berechtigten zahlt das Bundesausgleichsamt aus; dazu erhält der
 Berechtigte die Zinsen auf die Differenz zwischen der Entschädigung

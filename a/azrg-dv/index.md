@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 V v. 30.10.2023 I Nr. 290
 
+Mittelbare änderung durch
+:   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt
+
 
 ## Eingangsformel
 
@@ -5127,7 +5130,8 @@ eine Namensänderung gemeldet wird.
     *
 
 
-[^F827671_02_BJNR069500995BJNE003645311]
+[^F827671_02_BJNR069500995BJNE003651311]
+
 
 
 *    *   A
@@ -6431,8 +6435,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   a)
 
-    *   Aufenthalt zum Zweck der Ausbildung
-        nach
+    *   Aufenthalt zum Zweck der Ausbildung nach
 
     *
     *
@@ -6441,8 +6444,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   aa)
 
     *   § 16a Absatz 1 AufenthG
-        (betriebliche Berufsausbildung/
-        Weiterbildung)
+        (betriebliche Berufsausbildung/Weiterbildung)
 
     *
     *   (2)\*
@@ -6574,9 +6576,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ccc)
 
-    *   studienvorbereitendes
-        Praktikum ohne Zulassung
-        zum Studium
+    *   studienvorbereitendes Praktikum ohne Zulassung zum Studium
 
     *
     *   (2)\*
@@ -6602,8 +6602,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ee)
 
     *   § 16b Absatz 7 AufenthG
-        (Studium bei in einem anderen
-        Mitgliedstaat international
+        (Studium in einem anderen Mitgliedstaat international
         Schutzberechtigten)
 
     *
@@ -6628,8 +6627,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ff)
 
     *   § 16d Absatz 1 AufenthG
-        (Durchführung einer
-        Qualizierungsmaßnahme                     )
+        (Durchführung einer Qualifizierungsmaßnahme)
 
     *
     *   (2)\*
@@ -6677,7 +6675,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   hh)
 
     *   § 16d Absatz 3 AufenthG
-        (Anerkennung der Berufsqualifikation während einer Beschäftigung)
+        (Anerkennungspartnerschaft)
 
     *
     *   (2)\*
@@ -6701,10 +6699,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ii)
 
     *   § 16d Absatz 4 Nummer 1 AufenthG
-        (Anerkennung der Berufsqualifikation aufgrund einer Absprache
-        der Bundesagentur für Arbeit
-        bei reglementierten Berufen
-        im Pflege- und Gesundheitsbereich)
+        (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
+        Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und
+        Gesundheitsbereich)
 
     *
     *   (2)\*
@@ -6728,10 +6725,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   jj)
 
     *   § 16d Absatz 4 Nummer 2 AufenthG
-        (Anerkennung der Berufsqualifikation
-        aufgrund einer Absprache
-        der Bundesagentur für Arbeit
-        bei sonstigen Berufen)
+        (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
+        Bundesagentur für Arbeit bei sonstigen Berufen)
 
     *
     *   (2)\*
@@ -6778,6 +6773,30 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   ll)
 
+    *   § 16d Absatz 6 AufenthG
+        (Aufenthalt zur Qualifikationsanalyse)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   mm)
+
     *   § 16e Absatz 1 AufenthG
         (Studienbezogenes Praktikum EU)
 
@@ -6800,7 +6819,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   mm)
+    *   nn)
 
     *   § 16f Absatz 1 AufenthG
         (Sprachkurse, Schüleraustausch)
@@ -6824,7 +6843,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   nn)
+    *   oo)
 
     *   § 16f Absatz 2 AufenthG
         (Schulbesuch, allgemeinbildend)
@@ -6848,7 +6867,132 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   oo)
+    *   pp)
+
+    *   § 16g Absatz 1 AufenthG
+        (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige
+        Ausländer, Anspruch)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   qq)
+
+    *   § 16g Absatz 5 Satz 1 AufenthG
+        (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige
+        Ausländer, Suche nach weiterem Ausbildungsplatz)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   rr)
+
+    *   § 16g Absatz 5 Satz 2 AufenthG
+        (Aufenthaltserlaubnis für ausreisepflichtige Ausländer,
+        Arbeitsplatzsuche nach Ausbildungsabschluss)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   ss)
+
+    *   § 16g Absatz 6 AufenthG
+        (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige
+        Ausländer, Ermessen)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   tt)
+
+    *   § 16g Absatz 8 AufenthG
+        (Aufenthaltserlaubnis für ausreisepflichtige Ausländer zur
+        Beschäftigung im Anschluss an eine Ausbildung)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   uu)
 
     *   § 17 Absatz 1 AufenthG
         (Ausbildungsplatzsuche)
@@ -6872,7 +7016,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   pp)
+    *   vv)
 
     *   § 17 Absatz 2 AufenthG
         (Studienbewerbung)
@@ -6929,9 +7073,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   bb)
 
-    *   § 18b Absatz 1 AufenthG
-        (Fachkraft mit akademischer
-        Ausbildung)
+    *   § 18b AufenthG
+        (Fachkraft mit akademischer Ausbildung)
 
     *
     *   (2)\*
@@ -6953,58 +7096,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *   cc)
-
-    *   § 18b Absatz 2 Satz 1 AufenthG
-        (Blaue Karte EU, Fachkräfte
-        mit akademischer Ausbildung,
-        Regelberufe)
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   erteilt am
-
-    *
-    *
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *   dd)
-
-    *   § 18b Absatz 2 Satz 2 AufenthG
-        (Blaue Karte EU, Fachkräfte
-        mit akademischer Ausbildung,
-        Mangelberufe)
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   erteilt am
-
-    *
-    *
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *   ee)
 
     *   § 18d Absatz 1 AufenthG
         (Forscher)
@@ -7028,11 +7119,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   ff)
+    *   dd)
 
     *   § 18d Absatz 6 AufenthG
-        (in einem anderen Mitgliedstaat
-        als international Schutzberechtigte
+        (in einem anderen Mitgliedstaat als international Schutzberechtigte
         anerkannte Forscher)
 
     *
@@ -7054,10 +7144,152 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   gg)
+    *   ee)
 
     *   § 18f Absatz 1 AufenthG
         (mobile Forscher)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   ff)
+
+    *   § 18g AufenthG
+        (Blaue Karte EU)
+
+    *
+    *
+
+*    *
+    *
+    *   aaa)
+
+    *   § 18g Absatz 1 Satz 1 AufenthG
+        (Regelberufe)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   bbb)
+
+    *   § 18g Absatz 1 Satz 2 Nummer 1 AufenthG
+        (Mangelberufe)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   ccc)
+
+    *   § 18g Absatz 1 Satz 2 Nummer 2 AufenthG
+        (Berufsanfänger)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   ddd)
+
+    *   § 18g Absatz 2 AufenthG
+        (IT-Spezialisten)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   gg)
+
+    *   § 18g i. V. m. § 18i AufenthG
+        (Blaue Karte EU mit Voraufenthalt in …
+        [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates])
 
     *
     *   (2)\*
@@ -7129,9 +7361,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   jj)
 
     *   § 19c Absatz 1 AufenthG
-        (Beschäftigung unabhängig
-        von der Qualifikation nach der
-        Beschäftigungsverordnung)
+        (Beschäftigung unabhängig von der
+        Qualifikation nach der Beschäftigungsverordnung)
 
     *
     *
@@ -7140,8 +7371,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   aaa)
 
-    *   § 3 BeschV, Leitende
-        Angestellte, Führungskräfte und Spezialisten
+    *   § 3 BeschV,
+        Leitende Angestellte, Führungskräfte und Spezialisten
 
     *
     *   (2)\*
@@ -7167,7 +7398,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   bbb)
 
-    *   § 5 Nummer 1 und 2 BeschV, Wissenschaft und Forschung
+    *   § 5 Nummer 1 und 2 BeschV,
+        Wissenschaft und Forschung
 
     *
     *   (2)\*
@@ -7193,7 +7425,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ccc)
 
-    *   § 5 Nummer 3 bis 5 BeschV, Wissenschaft, Forschung und Entwicklung
+    *   § 5 Nummer 3 bis 5 BeschV,
+        Wissenschaft, Forschung und Entwicklung
 
     *
     *   (2)\*
@@ -7219,8 +7452,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ddd)
 
-    *   § 10 Absatz 1 Nummer 1 BeschV, internationaler
-        Personalaustausch
+    *   § 10 Absatz 1 Nummer 1 BeschV,
+        internationaler Personalaustausch
 
     *
     *   (2)\*
@@ -7246,9 +7479,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   eee)
 
-    *   § 10 Absatz 1 Nummer 2
-        und Absatz 2 BeschV,
-        Auslandsprojekte
+    *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV,
+        internationaler Personalaustausch
 
     *
     *   (2)\*
@@ -7274,7 +7506,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   fff)
 
-    *   § 11 Absatz 1 BeschV, Sprachlehrer
+    *   § 11 Absatz 1 BeschV,
+        Sprachlehrer
 
     *
     *   (2)\*
@@ -7327,7 +7560,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   hhh)
 
-    *   § 12 BeschV, Au pair
+    *   § 12 BeschV,
+        Au pair
 
     *
     *   (2)\*
@@ -7353,7 +7587,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   iii)
 
-    *   § 14 Absatz 1 Nummer 1 BeschV, Freiwilligendienst
+    *   § 14 Absatz 1 Nummer 1 BeschV,
+        Freiwilligendienst
 
     *
     *   (2)\*
@@ -7379,8 +7614,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   jjj)
 
-    *   § 14 Absatz 1 Nummer 2,
-        BeschV,
+    *   § 14 Absatz 1 Nummer 2 BeschV,
         Beschäftigung aus karitativen Gründen
 
     *
@@ -7434,7 +7668,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   lll)
 
-    *   § 15 Nummer 3 und 5 BeschV, öffentlich geförderte Praktika
+    *   § 15d BeschV,
+        Kurzzeitige kontingentierte Beschäftigung
 
     *
     *   (2)\*
@@ -7459,32 +7694,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *
     *   mmm)
-
-    *   § 15 Nummer 4 und 6 BeschV, Praktika
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *
-    *   erteilt am
-
-    *
-    *
-
-*    *
-    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *
-    *   nnn)
 
     *   § 19 Absatz 2 BeschV,
         Beschäftigung im Rahmen von Werklieferungsverträgen
@@ -7511,9 +7720,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *
-    *   ooo)
+    *   nnn)
 
-    *   § 21 BeschV, vorübergehende Dienstleistungserbringung
+    *   § 21 BeschV,
+        vorübergehende Dienstleistungserbringung
 
     *
     *   (2)\*
@@ -7537,7 +7747,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *
-    *   ppp)
+    *   ooo)
 
     *   § 22 Nummer 4 BeschV,
         Berufssportler und -trainer
@@ -7564,9 +7774,37 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *
+    *   ppp)
+
+    *   § 22 Nummer 5 BeschV,
+        eSportler
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
     *   qqq)
 
-    *   § 22 Nummer 5 BeschV, eSportler
+    *   § 22a BeschV,
+        Beschäftigung von Pflegehilfskräften
 
     *
     *   (2)\*
@@ -7646,7 +7884,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ttt)
 
-    *   § 24a BeschV, Berufskraftfahrerinnen und Berufskraftfahrer
+    *   § 24a BeschV,
+        Berufskraftfahrerinnen und Berufskraftfahrer
 
     *
     *   (2)\*
@@ -7672,8 +7911,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   uuu)
 
-    *   § 25 BeschV, Kultur, Unterhaltung, Gastspiele, Film- und
-        Fernsehproduktionen
+    *   § 25 BeschV,
+        Kultur, Unterhaltung, Gastspiele, Film- und Fernsehproduktionen
 
     *
     *   (2)\*
@@ -7754,8 +7993,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   xxx)
 
     *   § 29 Absatz 3 BeschV,
-        zwischenstaatliche
-        Vereinbarungen
+        zwischenstaatliche Vereinbarungen
 
     *
     *   (2)\*
@@ -7837,10 +8075,22 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (non-formale qualifizierte Beschäftigung in Verbindung mit § 6 BeschV)
 
     *
+    *
+
+*    *
+    *
+    *   aaa)
+
+    *   § 6 BeschV,
+        Beschäftigung in ausgewählten Berufen bei ausgeprägter
+        berufspraktischer Erfahrung
+
+    *
     *   (2)\*
 
 
 *    *
+    *
     *
     *   erteilt am
 
@@ -7849,6 +8099,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *
+    *
     *   befristet bis
 
     *
@@ -7856,10 +8107,11 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
     *
-    *   aaa)
+    *   bbb)
 
-    *   § 6 BeschV, Beschäftigung in ausgewählten Berufen bei ausgeprägter
-        berufspraktischer Erfahrung
+    *   § 6 Absatz 1 Satz 3 BeschV,
+        Beschäftigung in IT-Berufen bei ausgeprägter berufspraktischer
+        Erfahrung
 
     *
     *   (2)\*
@@ -7885,8 +8137,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ll)
 
     *   § 19c Absatz 3 AufenthG
-        (Beschäftigung im öffentlichen
-        Interesse)
+        (Beschäftigung im öffentlichen Interesse)
 
     *
     *   (2)\*
@@ -7910,8 +8161,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   mm)
 
     *   § 19c Absatz 4 AufenthG
-        (Beamtenverhältnis zu einem
-        deutschen Dienstherrn)
+        (Beamtenverhältnis zu einem deutschen Dienstherrn)
 
     *
     *   (2)\*
@@ -7944,10 +8194,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   aaa)
 
     *   § 19d Absatz 1 Nummer 1 Buchstabe a AufenthG
-        (Aufenthaltserlaubnis
-        für qualifizierte Geduldete
-        mit Berufsausbildung
-        in Deutschland)
+        (Aufenthaltserlaubnis für qualifizierte Geduldete mit Berufsausbildung
+        oder inländischem Hochschulabschluss in Deutschland)
 
     *
     *   (2)\*
@@ -7974,9 +8222,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   bbb)
 
     *   § 19d Absatz 1 Nummer 1 Buchstabe b AufenthG
-        (Aufenthaltserlaubnis
-        für qualifizierte Geduldete
-        mit Hochschulabschluss)
+        (Aufenthaltserlaubnis für qualifizierte Geduldete mit einem
+        ausländischen Hochschulabschluss)
 
     *
     *   (2)\*
@@ -8003,9 +8250,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ccc)
 
     *   § 19d Absatz 1 Nummer 1 Buchstabe c AufenthG
-        (Aufenthaltserlaubnis
-        für qualifizierte Geduldete,
-        die seit drei Jahren ununterbrochen eine Beschäftigung ausgeübt haben)
+        (Aufenthaltserlaubnis für qualifizierte Geduldete, die seit drei
+        Jahren ununterbrochen eine Beschäftigung ausgeübt haben)
 
     *
     *   (2)\*
@@ -8031,11 +8277,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ddd)
 
-    *   § 19d Absatz 1a AufenthG
-        (Aufenthaltserlaubnis
-        für qualifizierte Geduldete
-        im Anschluss an eine
-        Ausbildungsduldung)
+    *   § 19d Absatz 4 AufenthG
+        (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2
+        Abschnitt 5 AufenthG)
 
     *
     *   (2)\*
@@ -8053,14 +8297,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *   befristet bis
-
-    *
-    *
-
-*    *
-    *
-    *
-    *   widerrufen am
 
     *
     *
@@ -8092,9 +8328,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   pp)
 
-    *   § 20 Absatz 1 AufenthG
-        (Arbeitsplatzsuche für Fachkraft
-        mit Berufsausbildung)
+    *   § 20 Absatz 1 Nummer 1 AufenthG
+        (Arbeitsplatzsuche nach Studium in Deutschland)
 
     *
     *   (2)\*
@@ -8117,9 +8352,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   qq)
 
-    *   § 20 Absatz 2 AufenthG
-        (Arbeitsplatzsuche für Fachkraft
-        mit akademischer Ausbildung)
+    *   § 20 Absatz 1 Nummer 2 AufenthG
+        (Arbeitsplatzsuche nach Forschungstätigkeit)
 
     *
     *   (2)\*
@@ -8142,56 +8376,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   rr)
 
-    *   § 20 Absatz 3 Nummer 1 AufenthG
-        (Arbeitsplatzsuche nach Studium
-        in Deutschland)
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   erteilt am
-
-    *
-    *
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *   ss)
-
-    *   § 20 Absatz 3 Nummer 2 AufenthG
-        (Arbeitsplatzsuche nach Forschungstätigkeit)
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   erteilt am
-
-    *
-    *
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *   tt)
-
-    *   § 20 Absatz 3 Nummer 3 AufenthG
+    *   § 20 Absatz 1 Nummer 3 AufenthG
         (Arbeitsplatzsuche nach qualifizierter Berufsausbildung in
         Deutschland)
 
@@ -8214,11 +8399,11 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   uu)
+    *   ss)
 
-    *   § 20 Absatz 3 Nummer 4 AufenthG
+    *   § 20 Absatz 1 Nummer 4 AufenthG
         (Arbeitsplatzsuche nach Feststellung der Gleichwertigkeit der
-        Berufsqualifikation)
+        Berufsqualifikation oder Erteilung der Berufsausübungserlaubnis)
 
     *
     *   (2)\*
@@ -8239,16 +8424,107 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   vv)
+    *   tt)
 
-    *   § 21 Absatz 1 AufenthG
-        (selbständige Tätigkeit –
-        wirtschaftliches Interesse)
-        erteilt am
+    *   § 20 Absatz 1 Nummer 5 AufenthG
+        (Arbeitsplatzsuche nach Abschluss einer Assistenz- oder
+        Helferausbildung im Bundesgebiet)
 
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   uu)
+
+    *   § 20a AufenthG
+        (Chancenkarte)
+
+    *
+    *
+
+*    *
+    *
+    *   aaa)
+
+    *   § 20a Absatz 3 (Chancenkarte)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   bbb)
+
+    *   § 20a Absatz 5 Satz 2 (Chancenkarte Verlängerung)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   vv)
+
+    *   § 21 Absatz 1 AufenthG
+        (selbständige Tätigkeit – wirtschaftliches Interesse)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
 
 *    *
     *
@@ -8261,13 +8537,18 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ww)
 
     *   § 21 Absatz 2 AufenthG
-        (selbständige Tätigkeit – völkerrechtliche
-        Vergünstigung)
-        erteilt am
+        (selbständige Tätigkeit – völkerrechtliche Vergünstigung)
 
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
 
 *    *
     *
@@ -8280,12 +8561,19 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   xx)
 
     *   § 21 Absatz 2a AufenthG
-        (selbständige Tätigkeit – Absolvent inländischer Hochschule)
-        erteilt am
+        (selbständige Tätigkeit – Absolvent inländischer Hochschule oder
+        vormaliger Forscher)
 
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
 
 *    *
     *
@@ -8297,13 +8585,43 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   yy)
 
-    *   § 21 Absatz 5 AufenthG
-        (freiberufliche Tätigkeit)
-        erteilt am
+    *   § 21 Absatz 2b AufenthG
+        (Gründungsstipendium)
 
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   zz)
+
+    *   § 21 Absatz 5 AufenthG
+        (freiberufliche Tätigkeit)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
 
 *    *
     *
@@ -9225,6 +9543,54 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   vv)
 
+    *   § 36 Absatz 3 Satz 1 erster Halbsatz AufenthG (Nachzug Eltern zu
+        Inhabern von Erwerbstiteln)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   ww)
+
+    *   § 36 Absatz 3 Satz 1 zweiter Halbsatz AufenthG (Nachzug
+        Schwiegereltern zu Inhabern von Erwerbstiteln)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *   xx)
+
     *   § 36a Absatz 1 Satz 1 erste Alternative AufenthG
         (Ehegattennachzug zu subsidiär Schutzberechtigten)
 
@@ -9247,7 +9613,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   ww)
+    *   yy)
 
     *   § 36a Absatz 1 Satz 1 zweite Alternative
         AufenthG
@@ -9272,7 +9638,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *
-    *   xx)
+    *   zz)
 
     *   § 36a Absatz 1 Satz 2 AufenthG
         (Elternnachzug zu minderjährigen subsidiär Schutzberechtigten)
@@ -11331,8 +11697,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   g)
 
-    *   Abschiebung aufgrund Ausweisung
-        vollzogen am
+    *
+        *   Abschiebung aufgrund Ausweisung
+
+            vollzogen am
+
+
+
 
     *   (4)
 
@@ -14821,7 +15192,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003645311]
+    *[^f756180_08_BJNR069500995BJNE003651311]
    (7)
 
     *   – Zuspeicherung durch die
@@ -15044,7 +15415,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003645311]
+    *[^f756180_09_BJNR069500995BJNE003651311]
    (2)
 
     *
@@ -15681,7 +16052,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003645311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003645311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003651311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003651311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F827671_02_BJNR069500995BJNE003645311]: 
+[^F827671_02_BJNR069500995BJNE003651311]: 

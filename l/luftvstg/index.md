@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1885; 2013, 81
 
 Zuletzt geändert durch
-:   Art. 198 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 27.3.2024 I Nr. 107
 
 Stand: § 5 Nr. 5 ist nach Maßgabe der Bek. v. 15.1.2013 I 81 mWv 1.11.2011 in Kraft getreten.
 
@@ -569,6 +569,30 @@ anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen
 Verfahren erteilen, die erforderlich sind, um die nach dem
 Luftverkehrsrecht geforderte Zuverlässigkeit eines
 Luftverkehrsunternehmens zu beurteilen.
+
+
+## § 17 Datenaustausch und Auskunftspflichten
+
+(1) Die Flugplatzbetreiber melden alle Abflüge mit Nennung des
+Abflugdatums und der Abflugzeit, des Zielorts, der Flugnummer und der
+Kennung des Flugzeugs oder Drehflüglers und des
+Luftverkehrsunternehmens, das den Abflug des Fluggastes von einem
+inländischen Startort durchführt auf Anforderung dem zuständigen
+Hauptzollamt. Das Hauptzollamt kann darüber hinaus weitere Angaben
+über steuerlich relevante Tatsachen verlangen.
+
+(2) Das Luftfahrt-Bundesamt, die Bundespolizei sowie die für die
+Flugsicherung zuständigen Stellen haben dem zuständigen Hauptzollamt
+auf Anforderung die Informationen mitzuteilen, die zur Feststellung
+der Besteuerung erheblich sind.
+
+(3) Das zuständige Hauptzollamt kann dem Luftfahrt-Bundesamt
+anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen
+Verfahren erteilen, die erforderlich sind, um die nach dem
+Luftverkehrsrecht geforderte Zuverlässigkeit eines
+Luftverkehrsunternehmens oder die Einhaltung der Vorschriften dieses
+Gesetzes durch Luftverkehrsunternehmen mit Hauptsitz außerhalb des
+Geltungsbereichs des Luftrechts der Europäischen Union zu beurteilen.
 
 
 ## § 18 Ermächtigungen

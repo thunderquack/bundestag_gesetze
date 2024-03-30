@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 38 G v. 12.5.2021 I 990
 
+Änderung durch
+:   Art. 25 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -74,11 +77,11 @@ bedeutsame Vorgänge, die nach dem Bilanzstichtag eingetreten und dem
 Abschlussprüfer bekannt geworden sind, zu berücksichtigen und im
 Prüfungsbericht darzulegen.
 
-(3) Wurde im Berichtszeitraum eine Prüfung nach § 19 Absatz 1 Satz 2
+(3) Wurde im Berichtszeitraum eine Prüfung nach § 19 Absatz 1 Satz 3
 des Zahlungsdiensteaufsichtsgesetzes durchgeführt, hat der
 Abschlussprüfer die Prüfungsergebnisse bei der Prüfung der
 aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die
-Gegenstand der Prüfung nach § 19 Absatz 1 Satz 2 des
+Gegenstand der Prüfung nach § 19 Absatz 1 Satz 3 des
 Zahlungsdiensteaufsichtsgesetzes waren, kann sich die
 aufsichtsrechtliche Berichterstattung auf wesentliche Veränderungen
 bis zum Bilanzstichtag beschränken.

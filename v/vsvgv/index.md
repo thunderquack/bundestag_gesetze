@@ -20,7 +20,7 @@ Fundstelle
 :   BGBl I: 2012, 1509
 
 Zuletzt geändert durch
-:   Art. 3 V v. 17.8.2023 I Nr. 222
+:   Art. 2 V v. 7.2.2024 I Nr. 39
 
 [^f777502_01_BJNR150900012]:     ABl. L 216 vom 20.8.2009, S. 76.
 
@@ -61,7 +61,9 @@ Verordnung anzuwenden.
 Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 und
 45 anzuwenden. Im Übrigen ist Abschnitt 3 der Vergabe- und
 Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der
-Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2) anzuwenden.
+Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der
+zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
+25\.09.2023 B4) geändert worden ist, anzuwenden.
 
 (3) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
 Liefer-, Dienstleistungs- und Bauaufträgen gelten bei der Erstellung

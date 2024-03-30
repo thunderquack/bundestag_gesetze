@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1179
 
 Zuletzt geändert durch
-:   Art. 20 G v. 20.8.2021 I 3932
+:   Art. 9 G v. 22.1.2024 I Nr. 17
 
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
@@ -209,8 +209,10 @@ Soldatinnen und Soldaten.
 
 (2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie für
 Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des
-Bundesbesoldungsgesetzes. § 42b Absatz 2 Satz 2 bis 4 des
-Bundesbesoldungsgesetzes gilt entsprechend.
+Bundesbesoldungsgesetzes. Abweichend von Satz 1 beträgt die Prämie 100
+Prozent, wenn sie für Soldatinnen und Soldaten nicht steuerpflichtig
+ist. § 42b Absatz 2 Satz 2 bis 4 des Bundesbesoldungsgesetzes gilt
+entsprechend.
 
 
 #### § 12 Zuschlag für längeren Dienst

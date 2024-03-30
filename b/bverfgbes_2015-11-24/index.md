@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 118
 
 Zuletzt geändert durch
-:   Beschluss v. 21.12.2022; 2023 I Nr. 14
+:   Beschluss v. 5.12.2023; 2024 I Nr. 42
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ I S. 1474) geändert worden ist, beschlossen:
 
 ## A.
 
-Mit Wirkung vom 1. Januar 2023 ist abweichend von § 14 Absatz 1 bis 3
+Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3
 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des
 Bundesverfassungsgerichts auch zuständig:
 
@@ -89,7 +89,7 @@ I.  Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und
 
 
 II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem
-    Geschäftsjahr 2023 eingehen, aus den Rechtsbereichen
+    Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
 
     1.  des Vertriebenenrechts;
 
@@ -114,13 +114,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem
         von Artikel 12 GG gerügt wird);
 
 
-    7.  des Kaufrechts;
-
-
-    8.  des Rechts des Versicherungswesens;
-
-
-    9.  des sonstigen Deliktsrechts,
+    7.  des sonstigen Deliktsrechts,
 
 
 
@@ -129,7 +123,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem
     Verfahren zu Befangenheitsanträgen.
 
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen,
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen,
     aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der
     Rechtsbereiche
 
@@ -211,7 +205,13 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen,
     24. Wohnungseigentumsrecht;
 
 
-    25. Dienst- und Werkvertragsrecht,
+    25. Dienst- und Werkvertragsrecht;
+
+
+    26. Kaufrecht;
+
+
+    27. Recht des Versicherungswesens,
 
 
 
@@ -249,12 +249,6 @@ Senat zugewiesen ist.
 
 ## C.
 
-Am 31. Dezember 2022 anhängige Verfahren aus dem Rechtsbereich des
-Ersten Buchs, Achter Abschnitt StPO (A. I. Ziffer 6 Buchstabe b) gehen
-mit Ausnahme der Verfahren mit den Aktenzeichen 2 BvR 626/20, 2 BvR
-714/20, 2 BvR 715/20, 2 BvR 1749/20, 2 BvR 2180/20, 2 BvR 1258/21, 2
-BvR 1844/21 in die Zuständigkeit des Ersten Senats über.
-
-Im Übrigen bleibt es für am 31. Dezember 2022 anhängige Verfahren bei
+Für die bis zum 31. Dezember 2023 anhängigen Verfahren bleibt es bei
 der bisherigen Senatszuständigkeit.
 

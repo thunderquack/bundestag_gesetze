@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 794
 
 Zuletzt geändert durch
-:   Art. 6 V v. 11.8.2021 I 3602
+:   Art. 14 G v. 22.12.2023 I Nr. 412
 
 
 ## Eingangsformel
@@ -404,8 +404,8 @@ der Neuerteilung durchgeführt.
     Ableben,
 
 
-7.  die Auflösung der juristischen Person oder Personenvereinigung ohne
-    Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+7.  die Auflösung der juristischen Person oder Personenvereinigung, der
+    die Erlaubnis erteilt worden ist,
 
 
 8.  die Eröffnung des Insolvenzverfahrens über das Vermögen des
@@ -414,8 +414,7 @@ der Neuerteilung durchgeführt.
 
 
 9.  die Änderung der Firma oder des Inhabers bei einer
-    Personengesellschaft oder Personenvereinigung ohne
-    Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen
+    Personenvereinigung, die Verlegung der Niederlassung an einen anderen
     Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
 
@@ -1570,9 +1569,8 @@ Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt
 wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den
 Kalendermonat als Entlastungsabschnitt zulassen. Eine Steuerentlastung
 wird in den Fällen der Sätze 2 und 3 jedoch nur gewährt, wenn der
-Entlastungsbetrag den Betrag nach § 9b Absatz 2 Satz 2 des Gesetzes
-bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres
-überschreitet.
+Entlastungsbetrag den Betrag von 1 000 Euro bereits im jeweils ersten
+Entlastungsabschnitt eines Kalenderjahres überschreitet.
 
 (3) Der Antragsteller hat dem Antrag eine Beschreibung seiner
 wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich

@@ -347,7 +347,9 @@ dann gewährt werden, wenn eine Erkrankung oder deren Folgen auf
 gesundheitsschädigende oder sonst vom Inland wesentlich abweichende
 Verhältnisse zurückzuführen sind, denen der Beamte bei einem
 dienstlich angeordneten Auslandsaufenthalt besonders ausgesetzt war.
-Das gleiche gilt für einen Unfall infolge derartiger Verhältnisse. Der
+Das Gleiche gilt für einen Unfall infolge derartiger Verhältnisse; als
+Unfall infolge derartiger Verhältnisse gilt auch ein Ereignis nach den
+§§ 13 und 14 des Vierzehnten Buches Sozialgesetzbuch. Der
 Schadensausgleich ist ausgeschlossen, wenn sich der Beamte
 grobfahrlässig der Gefährdung ausgesetzt hat, es sei denn, daß der
 Ausschluß für ihn eine unbillige Härte wäre. Ansprüche auf Grund des

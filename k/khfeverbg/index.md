@@ -211,7 +211,7 @@ aufzubewahren.
 
 #### § 5 Auskunfts- und Duldungspflichten
 
-(1) Natürliche und juristische Personen sowie nicht rechtsfähige
+(1) Natürliche und juristische Personen sowie sonstige
 Personenvereinigungen haben der nach § 1 jeweils zuständigen Behörde
 auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der
 Aufgaben erforderlich sind, die der Behörde durch dieses Gesetz

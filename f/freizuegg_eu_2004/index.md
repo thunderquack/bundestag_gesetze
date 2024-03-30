@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1950, 1986
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.4.2023 I Nr. 106
+:   Art. 4 G v. 21.2.2024 I Nr. 54
 
 
 ## § 1 Anwendungsbereich; Begriffsbestimmungen
@@ -205,7 +205,10 @@ Lebensgemeinschaft nachzieht oder ihn nicht zu diesem Zweck begleitet.
 Einem Familienangehörigen, der nicht Unionsbürger ist, kann in diesen
 Fällen die Erteilung der Aufenthaltskarte oder des Visums versagt
 werden oder seine Aufenthaltskarte kann eingezogen werden.
-Entscheidungen nach den Sätzen 1 bis 3 bedürfen der Schriftform.
+Entscheidungen nach den Sätzen 1 bis 3 bedürfen der Schriftform. Die
+Sätze 1, 2 und 4 sind auf nahestehende Personen, denen ein Recht zur
+Einreise und zum Aufenthalt im Bundesgebiet nach § 3a Absatz 1
+verliehen worden ist, entsprechend anzuwenden.
 
 
 ## § 2a Visum, Dokumente, Visumverfahren
@@ -656,8 +659,7 @@ Gründen der öffentlichen Sicherheit getroffen werden. Für
 Minderjährige gilt dies nicht, wenn der Verlust des Aufenthaltsrechts
 zum Wohl des Kindes notwendig ist. Zwingende Gründe der öffentlichen
 Sicherheit können nur dann vorliegen, wenn der Betroffene wegen einer
-oder
-mehrer              vorsätzlicher Straftaten rechtskräftig zu einer
+oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer
 Freiheits- oder Jugendstrafe von mindestens fünf Jahren verurteilt
 oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung
 angeordnet wurde, wenn die Sicherheit der Bundesrepublik Deutschland
@@ -674,6 +676,10 @@ so kann dies die Aufenthaltsbeendigung nicht begründen.
 (8) Vor der Feststellung nach Absatz 1 soll der Betroffene angehört
 werden. Die Feststellung bedarf der Schriftform.
 
+(9) Die Absätze 1 bis 8 finden auf Personen, die ein Recht zur
+Einreise und zum Aufenthalt im Bundesgebiet nach § 3a Absatz 1 haben,
+entsprechende Anwendung.
+
 
 ## § 7 Ausreisepflicht
 
@@ -686,20 +692,21 @@ ein Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung gestellt,
 darf die Abschiebung nicht erfolgen, bevor über den Antrag entschieden
 wurde.
 
-(2) Unionsbürger und ihre Familienangehörigen, die ihr
-Freizügigkeitsrecht nach § 6 Abs. 1 verloren haben, dürfen nicht
-erneut in das Bundesgebiet einreisen und sich darin aufhalten.
-Unionsbürgern und ihren Familienangehörigen, bei denen das
-Nichtbestehen des Freizügigkeitsrechts nach § 2 Absatz 4 festgestellt
-worden ist, kann untersagt werden, erneut in das Bundesgebiet
-einzureisen und sich darin aufzuhalten. Dies soll untersagt werden,
-wenn ein besonders schwerer Fall, insbesondere ein wiederholtes
-Vortäuschen des Vorliegens der Voraussetzungen des Rechts auf Einreise
-und Aufenthalt, vorliegt oder wenn ihr Aufenthalt die öffentliche
-Ordnung und Sicherheit der Bundesrepublik Deutschland in erheblicher
-Weise beeinträchtigt. Bei einer Entscheidung nach den Sätzen 2 und 3
-findet § 6 Absatz 3, 6 und 8 entsprechend Anwendung. Das Verbot nach
-den Sätzen 1 bis 3 wird von Amts wegen befristet. Die Frist ist unter
+(2) Personen, die ihr Recht nach § 2 Absatz 1 oder ihr Recht nach § 3a
+Absatz 1 nach § 6 Absatz 1 verloren haben, soll untersagt werden,
+erneut in das Bundesgebiet einzureisen und sich darin aufzuhalten.
+Personen, bei denen das Nichtbestehen des Freizügigkeitsrechts nach §
+2 Absatz 4 festgestellt worden ist, kann untersagt werden, erneut in
+das Bundesgebiet einzureisen und sich darin aufzuhalten. Personen nach
+Satz 2 soll untersagt werden, erneut in das Bundesgebiet einzureisen
+und sich darin aufzuhalten, wenn ein besonders schwerer Fall,
+insbesondere ein wiederholtes Vortäuschen des Vorliegens der
+Voraussetzungen des Rechts auf Einreise und Aufenthalt, vorliegt oder
+wenn der Aufenthalt dieser Personen die öffentliche Ordnung und
+Sicherheit der Bundesrepublik Deutschland in erheblicher Weise
+beeinträchtigt. Bei einer Entscheidung nach den Sätzen 1 bis 3 ist § 6
+Absatz 3, 6 und 8 entsprechend anzuwenden. Das Verbot nach den Sätzen
+1 bis 3 wird von Amts wegen befristet. Die Frist ist unter
 Berücksichtigung der Umstände des Einzelfalles auf Grund der auf
 Tatsachen gestützten Annahme der künftig von einem Aufenthalt der
 Person innerhalb der Europäischen Union und der Schengen-Staaten
@@ -819,11 +826,11 @@ bestimmte Bundespolizeibehörde.
 (1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1
 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8,
 die §§ 13, 14 Absatz 2, § 44 Absatz 4, die §§ 45a, 46 Absatz 2, § 50
-Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 71 Absatz 3
-Nummer 2 erste Alternative, die §§ 73, 74 Absatz 2, § 77 Absatz 1, die
-§§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4 und
-8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer 2,
-Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des
+Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 71 Absatz 2 und
+3 Nummer 2 erste Alternative, die §§ 73, 74 Absatz 2, § 77 Absatz 1,
+die §§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4
+und 8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer
+2, Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des
 Aufenthaltsgesetzes entsprechende Anwendung.
 
 (2) § 73 des Aufenthaltsgesetzes ist nur zur Feststellung von Gründen
@@ -833,13 +840,17 @@ Satz 1 und des Absatzes 12 Satz 2 ohne Einschränkung anzuwenden.
 (3) § 78 des Aufenthaltsgesetzes ist für die Ausstellung von
 Aufenthaltskarten, Daueraufenthaltskarten, Aufenthaltsdokumenten-GB
 und Aufenthaltsdokumenten für Grenzgänger-GB entsprechend anzuwenden.
-Sie tragen die nach Maßgabe der nach den §§ 11a und 99 Absatz 1 Nummer
-13a Satz 1 des Aufenthaltsgesetzes erlassenen Rechtsverordnung
-festgelegten Bezeichnungen. In der Zone für das automatische Lesen
-wird anstelle der Abkürzungen nach § 78 Absatz 2 Satz 2 Nummer 1 des
-Aufenthaltsgesetzes in Aufenthaltskarten und Daueraufenthaltskarten
-die Abkürzung „AF“ und in Aufenthaltsdokumenten-GB und
-Aufenthaltsdokumenten für Grenzgänger-GB die Abkürzung „AR“ verwendet.
+Auf die Angaben nach § 78 Absatz 1 Satz 3 Nummer 10 und 11 des
+Aufenthaltsgesetzes wird verzichtet, soweit zum Zeitpunkt der
+Veranlassung der Ausstellung ein anerkannter und gültiger
+ausländischer Pass vorhanden ist. Sie tragen die nach Maßgabe der nach
+den §§ 11a und 99 Absatz 1 Nummer 13a Satz 1 des Aufenthaltsgesetzes
+erlassenen Rechtsverordnung festgelegten Bezeichnungen. In der Zone
+für das automatische Lesen wird anstelle der Abkürzungen nach § 78
+Absatz 2 Satz 2 Nummer 1 des Aufenthaltsgesetzes in Aufenthaltskarten
+und Daueraufenthaltskarten die Abkürzung „AF“ und in
+Aufenthaltsdokumenten-GB und Aufenthaltsdokumenten für Grenzgänger-GB
+die Abkürzung „AR“ verwendet.
 
 (4) Eine Fiktionsbescheinigung nach § 81 Absatz 5 des
 Aufenthaltsgesetzes ist auf Antrag auszustellen, wenn nach diesem
@@ -880,17 +891,21 @@ bestehen in den Fällen des Absatzes 8 Satz 1 und des Absatzes 12 Satz
     Absatz 4 ein Aufenthaltsrecht behalten, oder
 
 
-3.  als nahestehende Personen eines Unionsbürgers ein Aufenthaltsrecht
-    nach § 3a Absatz 1 haben,
+3.  sich als nahestehende Personen eines verstorbenen Unionsbürgers auf
+    Grund eines Rechts zur Einreise und zum Aufenthalt im Bundesgebiet
+    nach § 3a Absatz 3 in Verbindung mit § 3 Absatz 2 im Bundesgebiet
+    aufgehalten haben,
 
 
 
 sind die §§ 6 und 7 nicht anzuwenden. Insoweit findet das
-Aufenthaltsgesetz entsprechende Anwendung. Auf den Aufenthalt von
-Familienangehörigen der in Satz 1 genannten Personen ist § 3 Absatz 1
-nicht anzuwenden. Insoweit sind die Regelungen des Aufenthaltsgesetzes
-zum Familiennachzug zu Inhabern von Aufenthaltserlaubnissen aus
-familiären Gründen entsprechend anzuwenden.
+Aufenthaltsgesetz entsprechende Anwendung. Die Regelungen des
+Aufenthaltsgesetzes zum Familiennachzug zu Inhabern von
+Aufenthaltserlaubnissen aus familiären Gründen sind auf den
+Familiennachzug zu den in Satz 1 Nummer 1 und 2 genannten Personen
+sowie auf den Familiennachzug zu solchen nahestehenden Personen eines
+Unionsbürgers, denen ein Recht auf Einreise und Aufenthalt im
+Bundesgebiet nach § 3a verliehen wurde, entsprechend anzuwenden.
 
 (9) § 3 Absatz 1 ist für den Aufenthalt von Familienangehörigen von
 Personen nicht anzuwenden, die selbst Familienangehörige oder

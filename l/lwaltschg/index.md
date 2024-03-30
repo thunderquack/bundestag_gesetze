@@ -155,13 +155,14 @@ Veräußerungsjahr bei der Ermittlung der Bemessungsgrundlage gemäß
 Absatz 1 unberücksichtigt, soweit sie bereits nach Satz 1 zu einer
 Erhöhung der Bemessungsgrundlage geführt haben.
 
-(5) Ist der Kreditnehmer eine Personengesellschaft, vermindert sich
-die Bemessungsgrundlage nach den Absätzen 1 bis 4 um die Vergütungen,
-die ein Gesellschafter, der als Unternehmer (Mitunternehmer) des
-Betriebs des Kreditnehmers anzusehen ist, für seine Tätigkeit im
-Dienst der Gesellschaft von der Gesellschaft oder für die Hingabe von
-Darlehen oder für die Überlassung von Wirtschaftsgütern bezogen hat,
-soweit diese Beträge als angemessen anzusehen sind.
+(5) Ist der Kreditnehmer eine rechtsfähige Personengesellschaft,
+vermindert sich die Bemessungsgrundlage nach den Absätzen 1 bis 4 um
+die Vergütungen, die ein Gesellschafter, der als Unternehmer
+(Mitunternehmer) des Betriebs des Kreditnehmers anzusehen ist, für
+seine Tätigkeit im Dienst der Gesellschaft von der Gesellschaft oder
+für die Hingabe von Darlehen oder für die Überlassung von
+Wirtschaftsgütern bezogen hat, soweit diese Beträge als angemessen
+anzusehen sind.
 
 
 ### § 3 Erhöhung des Abführungssatzes

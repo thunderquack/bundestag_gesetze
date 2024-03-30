@@ -452,7 +452,7 @@ gemacht werden.
 
 (1) Das Recht auf Sortenschutz, der Anspruch auf Erteilung des
 Sortenschutzes und der Sortenschutz sind auf natürliche und
-juristische Personen oder Personenhandelsgesellschaften, die die
+juristische Personen oder rechtsfähige Personengesellschaften, die die
 Anforderungen nach § 15 erfüllen, übertragbar.
 
 (2) Der Sortenschutz kann ganz oder teilweise Gegenstand
@@ -569,24 +569,23 @@ werden.
 (1) Die Rechte aus diesem Gesetz stehen nur zu
 
 1.  Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sowie
-    natürlichen und juristischen Personen und
-    Personenhandelsgesellschaften mit Wohnsitz oder Niederlassung im
-    Inland,
+    natürlichen und juristischen Personen und rechtsfähigen
+    Personengesellschaften mit Wohnsitz oder Niederlassung im Inland,
 
 
 2.  Angehörigen eines anderen Vertragsstaates oder Staates, der
     Verbandsmitglied ist, sowie natürlichen und juristischen Personen und
-    Personenhandelsgesellschaften mit Wohnsitz oder Niederlassung in einem
-    solchen Staat und
+    rechtsfähigen Personengesellschaften mit Wohnsitz oder Niederlassung
+    in einem solchen Staat und
 
 
-3.  anderen natürlichen und juristischen Personen und
-    Personenhandelsgesellschaften, soweit in dem Staat, dem sie angehören
-    oder in dem sie ihren Wohnsitz oder eine Niederlassung haben, nach
-    einer Bekanntmachung des Bundesministeriums für Ernährung und
-    Landwirtschaft im Bundesgesetzblatt deutschen Staatsangehörigen oder
-    Personen mit Wohnsitz oder Niederlassung im Inland ein entsprechender
-    Schutz gewährt wird.
+3.  anderen natürlichen und juristischen Personen und rechtsfähigen
+    Personengesellschaften, soweit in dem Staat, dem sie angehören oder in
+    dem sie ihren Wohnsitz oder eine Niederlassung haben, nach einer
+    Bekanntmachung des Bundesministeriums für Ernährung und Landwirtschaft
+    im Bundesgesetzblatt deutschen Staatsangehörigen oder Personen mit
+    Wohnsitz oder Niederlassung im Inland ein entsprechender Schutz
+    gewährt wird.
 
 
 

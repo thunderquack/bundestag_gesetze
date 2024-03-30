@@ -166,10 +166,10 @@ Nummer 1 und 2, vermindert um die Einkommensteuer nach § 32d Absatz 3
 und 4 des Einkommensteuergesetzes,
 
 1.  in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes
-    35 086 Euro,
+    36 260 Euro,
 
 
-2.  in anderen Fällen 17 543 Euro
+2.  in anderen Fällen 18 130 Euro
 
 
 
@@ -183,10 +183,10 @@ Lohnzahlungszeitraum
 
 1.  bei monatlicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 2 923,83 Euro und
+    a)  in der Steuerklasse III mehr als 3 021,67 Euro und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 1 461,92 Euro,
+    b)  in den Steuerklassen I, II, IV bis VI mehr als 1 510,83 Euro,
 
 
 
@@ -194,10 +194,10 @@ Lohnzahlungszeitraum
 
 2.  bei wöchentlicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 682,23 Euro und
+    a)  in der Steuerklasse III mehr als 705,06 Euro und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 341,11 Euro,
+    b)  in den Steuerklassen I, II, IV bis VI mehr als 352,53 Euro,
 
 
 
@@ -205,10 +205,10 @@ Lohnzahlungszeitraum
 
 3.  bei täglicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 97,46 Euro und
+    a)  in der Steuerklasse III mehr als 100,72 Euro und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 48,73 Euro beträgt.
+    b)  in den Steuerklassen I, II, IV bis VI mehr als 50,36 Euro beträgt.
 
 
 
@@ -223,10 +223,10 @@ Kinderfreibetrags und des Freibetrags für den Betreuungs- und
 Erziehungs- oder Ausbildungsbedarf für jedes Kind entsprechend den
 Vorgaben in Absatz 2a folgende Beträge übersteigt:
 
-1.  in den Steuerklassen I, II, IV bis VI 17 543 Euro und
+1.  in den Steuerklassen I, II, IV bis VI 18 130 Euro und
 
 
-2.  in der Steuerklasse III 35 086 Euro.
+2.  in der Steuerklasse III 36 260 Euro.
 
 
 
@@ -235,7 +235,7 @@ Einkommensteuergesetzes finden Anwendung.
 
 (5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur
 zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr
-als 35 086 Euro und in den Steuerklassen I, II oder IV mehr als 17 543
+als 36 260 Euro und in den Steuerklassen I, II oder IV mehr als 18 130
 Euro beträgt.
 
 
@@ -392,4 +392,16 @@ Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I
 S. 2230) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber
 (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr
 2023 anzuwenden.
+
+(24) § 3 Absatz 3 in der Fassung des Artikels 5 des Gesetzes vom
+8\. Dezember 2022 (BGBl. I S. 2230) ist erstmals im
+Veranlagungszeitraum 2024 anzuwenden. § 3 Absatz 4 und 4a in der
+Fassung des Artikels 5 des Gesetzes vom 8. Dezember 2022 (BGBl. I
+S. 2230) ist erstmals auf den laufenden Arbeitslohn anzuwenden, der
+für einen nach dem 31. Dezember 2023 endenden Lohnzahlungszeitraum
+gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2023
+zufließen. § 3 Absatz 5 in der Fassung des Artikels 5 des Gesetzes vom
+8\. Dezember 2022 (BGBl. I S. 2230) ist beim Lohnsteuer-Jahresausgleich
+durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für
+das Ausgleichsjahr 2024 anzuwenden.
 

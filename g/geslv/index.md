@@ -119,7 +119,7 @@ Weglassen der Nachkommastellen bis auf eine Dezimalstelle dargestellt
 werden; Satz 2 gilt entsprechend.
 
 (2) Der Gesamtumfang der prozentualen Beteiligung eines
-Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 3 des Gesetzes
+Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 4 des Gesetzes
 betreffend die Gesellschaften mit beschränkter Haftung ist vor der
 Rundung (Absatz 1 Satz 1) oder dem Weglassen von Nachkommastellen
 (Absatz 1 Satz 3) der Einzelbeteiligungen zu errechnen. Für die Angabe
@@ -137,7 +137,7 @@ Stammkapital betragen.
 (5) Die Prozentangaben nach § 40 Absatz 1 Satz 1 des Gesetzes
 betreffend die Gesellschaften mit beschränkter Haftung sind in
 separaten Spalten aufzuführen. Die Prozentangaben nach § 40 Absatz 1
-Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter
+Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter
 Haftung sind in weiteren separaten Spalten oder in an die
 Gesellschafterliste anschließenden separaten Zeilen aufzuführen.
 

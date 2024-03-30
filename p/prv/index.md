@@ -86,8 +86,8 @@ und 2 genannten Nachweise die Bestätigung der zuständigen Behörde, daß
 eine solche Zulassung erfolgen kann.
 
 (4) Die Absätze 1 bis 3 gelten bei Anmeldung des Eintrittes eines
-Partners in eine bestehende Partnerschaft oder der Umwandlung in oder
-auf eine Partnerschaft entsprechend.
+Partners in eine bestehende Partnerschaft oder der Umwandlung oder des
+Statuswechsels in eine Partnerschaft entsprechend.
 
 
 ## § 4 Stellungnahme der Berufskammer
@@ -114,14 +114,7 @@ zwar unter Angabe des Ortes einschließlich der Postleitzahl und, falls
 dem Namen der Partnerschaft für eine Zweigniederlassung ein Zusatz
 beigefügt ist, unter Angabe dieses Zusatzes und unter Buchstabe c der
 Gegenstand der Partnerschaft und die sich jeweils darauf beziehenden
-Änderungen anzugeben. Zum Namen der Partnerschaft gehören auch die
-Berufsbezeichnungen aller in der Partnerschaft vertretenen Berufe (§ 2
-Abs. 1 des Partnerschaftsgesellschaftsgesetzes). Dies gilt auch für
-Partnerschaften, an denen Steuerberater, Steuerbevollmächtigte,
-Wirtschaftsprüfer oder vereidigte Buchprüfer beteiligt sind, es sei
-denn, die Partnerschaft soll als Wirtschaftsprüfungs- oder
-Buchprüfungsgesellschaft anerkannt werden (§§ 31, 130 Abs. 2 der
-Wirtschaftsprüferordnung).
+Änderungen anzugeben.
 
 (3) In Spalte 3 ist unter Buchstabe a die allgemeine Regelung zur
 Vertretung der Partnerschaft durch die Partner und die Liquidatoren
@@ -143,10 +136,13 @@ Spalte 4 unter Buchstabe b sind einzutragen:
     wegen;
 
 
-2.  Eintragungen nach dem Umwandlungsgesetz;
+2.  Statuswechsel;
 
 
-3.  die Eröffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie
+3.  Eintragungen nach dem Umwandlungsgesetz;
+
+
+4.  die Eröffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie
     die Aufhebung des Eröffnungsbeschlusses; die Bestellung eines
     vorläufigen Insolvenzverwalters unter den Voraussetzungen des § 32
     Abs. 1 Satz 2 Nr. 2 des Handelsgesetzbuchs sowie die Aufhebung einer
@@ -164,8 +160,8 @@ und die sich jeweils darauf beziehenden Änderungen.
 unter b sonstige Bemerkungen.
 
 (6) Enthält eine Eintragung die Nennung eines in ein öffentliches
-Unternehmensregister eingetragenen Rechtsträgers, so sind Art und Ort
-des Registers und die Registernummer dieses Rechtsträgers mit zu
+Register eingetragenen Rechtsträgers, so sind Art und Ort des
+Registers und die Registernummer dieses Rechtsträgers mit zu
 vermerken.
 
 

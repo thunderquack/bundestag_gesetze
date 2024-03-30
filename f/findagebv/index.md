@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4077
 
+Zuletzt geändert durch
+:   Art. 5 G v. 22.12.2023 I Nr. 411
+
 
 ## Eingangsformel
 
@@ -220,7 +223,17 @@ die aufgrund der folgenden Vorschriften erbracht werden:
     Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1),
 
 
-37. Wertpapierinstitutsgesetz.
+37. Wertpapierinstitutsgesetz,
+
+
+38. Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom
+    30\. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-
+    Technologie basierende Marktinfrastrukturen und zur Änderung der
+    Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der
+    Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
+
+
+38. Kreditzweitmarktgesetz.
 
 
 
@@ -455,6 +468,18 @@ tritt am 1. Januar 2022 in Kraft.
 
     *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des
         Wertpapierinstitutsgesetzes (WpIG)
+
+
+*    *   30
+
+    *   individuell zurechenbare öffentliche Leistungen auf der Grundlage der
+        Verordnung (EU) 2022/858
+
+
+*    *   30
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des
+        Kreditzweitmarktgesetzes (KrZwMG)
 
 
 
@@ -5134,6 +5159,208 @@ tritt am 1. Januar 2022 in Kraft.
     *   Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG
 
     *   nach Zeitaufwand
+
+
+*    *   30
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der
+        Verordnung (EU) 2022/858
+
+    *
+
+*    *   30.1
+
+    *   Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer
+        Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der
+        Verordnung (EU) 2022/858
+
+    *   Nach Zeitaufwand
+
+
+*    *   30
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des
+        Kreditzweitmarktgesetzes (KrZwMG)
+
+    *
+
+*    *   30.1
+
+    *   Erteilung der Erlaubnis zur Erbringung von Kreditdienstleistungen im
+        Sinne von § 2 Absatz 3 Nummer 1 bis 4 KrZwMG (§ 10 KrZwMG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.2
+
+    *   Erlaubnis zur Erbringung von Kreditdienstleistungen für eine
+        Personenhandelsgesellschaft
+
+    *
+
+*    *   30.2.1
+
+    *   Bei erstmaliger Erteilung der Erlaubnis
+
+    *   Erlaubnisgebühr nach der Nummer 30.1, die bei mehreren persönlich
+        haftenden Gesellschaftern nach dem Anteil ihrer jeweiligen
+        Kapitaleinlagen aufgeteilt wird, mindestens jedoch 250 Euro je
+        persönlich haftendem Gesellschafter
+
+
+*    *   30.2.2
+
+    *   Bei Eintritt eines neuen persönlich haftenden Gesellschafters
+
+    *   nach Zeitaufwand
+
+
+*    *   30.3
+
+    *   Maßnahmen nach Aufhebung und Erlöschen der Erlaubnis
+
+    *
+
+*    *   30.3.1
+
+    *   Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass
+        von Weisungen für die Abwicklung oder Bestellung eines Abwicklers (§
+        13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder
+        § 38 Absatz 2 Satz 1 und 3 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.3.2
+
+    *   Jeder Folgebescheid zu einem Verwaltungsakt im Sinne der Nummer
+        30\.3.1, mit dem die Abwicklung des Instituts angeordnet wird oder
+        Weisungen für die Abwicklung erlassen werden oder ein Abwickler
+        bestellt wird (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz
+        1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.4
+
+    *   Individuell zurechenbare öffentliche Leistungen in Bezug auf den
+        Erwerb bedeutender Beteiligungen (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m.
+        § 2c KWG)
+
+    *
+
+*    *   30.4.1
+
+    *   Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung
+        oder ihrer Erhöhung oder Erlass einer Anordnung (§ 16 Absatz 1 Satz 3
+        KrZwMG i. V. m. § 2c Absatz 1b Satz 1, 2 oder Satz 3 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.4.2
+
+    *   Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die
+        Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf (§ 16
+        Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 1 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.4.3
+
+    *   Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit
+        sie eine bedeutende Beteiligung begründen (§ 16 Absatz 1 Satz 3 KrZwMG
+        i. V. m. § 2c Absatz 2 Satz 4 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.5
+
+    *   Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder
+        Aufsichtsorgans (§ 37 Absatz 3, 5 und 6 KrZwMG)
+
+    *
+
+*    *   30.5.1
+
+    *   Verlangen nach Abberufung des Geschäftsleiters
+
+    *   nach Zeitaufwand
+
+
+*    *   30.5.2
+
+    *   Untersagung der Ausübung der Tätigkeit als Geschäftsleiter bei
+        Instituten oder anderen Verpflichteten im Sinne des § 2 Absatz 1 GwG
+        gegenüber dem Geschäftsleiter
+
+    *   nach Zeitaufwand
+
+
+*    *   30.6
+
+    *   Maßnahmen in besonderen Fällen (§ 36 KrZwMG)
+
+    *
+
+*    *   30.6.1
+
+    *   Maßnahmen, wenn die Erfüllung der Verpflichtungen gegenüber anderen
+        Gläubigern gefährdet ist (§ 36 Absatz 1 KrZwMG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.6.2
+
+    *   Maßnahmen zur Vermeidung eines Insolvenzverfahrens oder einer
+        Erlaubnisaufhebung (§ 36 Absatz 2 KrZwMG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.7
+
+    *   Anordnung, um eine ordnungsgemäße Geschäftsorganisation zu
+        gewährleisten (§ 37 Absatz 1 KrZwMG)
+
+    *   nach Zeitaufwand
+
+
+*    *   30.8
+
+    *   Feststellender Verwaltungsakt nach § 3 Absatz 3 Satz 1 KrZwMG
+
+    *   nach Zeitaufwand
+
+
+*    *   30.9
+
+    *   Einschreiten gegen unerlaubte Geschäfte
+
+    *
+
+*    *   30.9.1
+
+    *   Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die
+        Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten
+        Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in
+        einem Bescheid erlassen werden (§ 38 Absatz 1 Satz 1 und 2 KrZwMG)
+
+    *   4 120
+
+
+*    *   30.9.2
+
+    *   Verwaltungsakte im Sinne der Nummer 30.9.1 gegenüber Einbezogenen, die
+        eine zurechenbare Ursache für die Einbeziehung gesetzt haben (§ 38
+        Absatz 1 Satz 4 i. V. m. Satz 1 und 2 KrZwMG)
+
+    *   1 323
 
 
 

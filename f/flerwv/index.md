@@ -740,9 +740,9 @@ des Ausgleichsleistungsgesetzes durch natürliche Personen**
     landwirtschaftlich genutzten Flächen
 
 
-9.  Sofern Gesellschafter einer Personengesellschaft, die selbst Pächter
-    der Flächen gemäß § 3 Abs. 1 und 2 des Ausgleichsleistungsgesetzes
-    ist, zusätzlich
+9.  Sofern Gesellschafter einer rechtsfähigen Personengesellschaft, die
+    selbst Pächter der Flächen gemäß § 3 Abs. 1 und 2 des
+    Ausgleichsleistungsgesetzes ist, zusätzlich
 
     -   Nachweis der zum Zeitpunkt des Kaufantrags geltenden
         Beteiligungsregelung
@@ -972,7 +972,7 @@ Ausgleichsleistungsgesetzes durch frühere Eigentümer**
     Ausgleichsleistungsgesetzes
 
 
-2.  Sofern Gesellschafter einer Personengesellschaft:
+2.  Sofern Gesellschafter einer rechtsfähigen Personengesellschaft:
 
     Bestätigung der Gesellschaft über die Stellung des Kaufbewerbers als
     unbeschränkt haftender Gesellschafter

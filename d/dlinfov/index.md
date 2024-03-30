@@ -78,8 +78,9 @@ verständlicher Form zur Verfügung stellen:
 
 
 3.  falls er in ein solches eingetragen ist, das Handelsregister,
-    Vereinsregister, Partnerschaftsregister oder Genossenschaftsregister
-    unter Angabe des Registergerichts und der Registernummer,
+    Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister
+    oder Vereinsregister unter Angabe des Registergerichts und der
+    Registernummer,
 
 
 4.  bei erlaubnispflichtigen Tätigkeiten Name und Anschrift der

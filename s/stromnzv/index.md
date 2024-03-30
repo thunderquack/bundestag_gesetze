@@ -15,8 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2243
 
+Stand: Die V tritt gem. Art. 15 Abs. 4 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2025 außer Kraft
 Zuletzt geändert durch
-:   Art. 6 G v. 16.7.2021 I 3026
+:   Art. 4 G v. 22.12.2023 I Nr. 405
 
 
 ## Eingangsformel
@@ -79,11 +80,7 @@ Im Sinne dieser Verordnung bedeutet
     Elektrizität gerichtet ist;
 
 
-6.  Minutenreserve
-
-    die Regelleistung, mit deren Einsatz eine ausreichende
-    Sekundärregelreserve innerhalb von 15 Minuten wiederhergestellt werden
-    kann;
+6.  (weggefallen)
 
 
 7.  Netznutzungsvertrag
@@ -91,32 +88,16 @@ Im Sinne dieser Verordnung bedeutet
     der in § 20 Abs. 1a des Energiewirtschaftsgesetzes genannte Vertrag;
 
 
-8.  Primärregelung
-
-    die im Sekundenbereich automatisch wirkende stabilisierende
-    Wirkleistungsregelung der synchron betriebenen Verbundnetze durch
-    Aktivbeitrag der Kraftwerke bei Frequenzänderungen und Passivbeitrag
-    der von der Frequenz abhängigen Lasten;
+8.  (weggefallen)
 
 
-9.  Regelenergie
-
-    diejenige Energie, die zum Ausgleich von Leistungsungleichgewichten in
-    der jeweiligen Regelzone eingesetzt wird;
+9.  (weggefallen)
 
 
-10. Sekundärregelung
-
-    die betriebsbezogene Beeinflussung von zu einem Versorgungssystem
-    gehörigen Einheiten zur Einhaltung des gewollten Energieaustausches
-    der jeweiligen Regelzonen mit den übrigen Verbundnetzen bei
-    gleichzeitiger, integraler Stützung der Frequenz;
+10. (weggefallen)
 
 
-10a. Stromgebotszone
-
-    das größte geografische Gebiet, in dem Marktteilnehmer ohne
-    Kapazitätsvergabe Energie austauschen können;
+10a. (weggefallen)
 
 
 11. Unterbilanzkreis
@@ -125,10 +106,7 @@ Im Sinne dieser Verordnung bedeutet
     gegenüber dem Betreiber von Übertragungsnetzen verantwortlich ist;
 
 
-12. Verlustenergie
-
-    die zum Ausgleich physikalisch bedingter Netzverluste benötigte
-    Energie;
+12. (weggefallen)
 
 
 13. Zählerstandsgang
@@ -154,20 +132,8 @@ Ausgestaltung ihrer Netze vorzunehmen. Die §§ 14 und 17 bleiben
 unberührt.
 
 
-### § 3a Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
+### § 3a (weggefallen)
 
-Die Betreiber von Übertragungsnetzen sind verpflichtet,
-Handelstransaktionen innerhalb des Gebiets der Bundesrepublik
-Deutschland ohne Kapazitätsvergabe in der Weise zu ermöglichen, dass
-das Gebiet der Bundesrepublik Deutschland eine einheitliche
-Stromgebotszone bildet. Sie dürfen insbesondere nicht einseitig eine
-Kapazitätsvergabe einführen, die zu einer einseitigen Aufteilung der
-einheitlichen deutschen Stromgebotszone führen würde. Sobald für einen
-Betreiber von Übertragungsnetzen erkennbar wird, dass die Erfüllung
-der Pflicht nach Satz 1 und die Einhaltung des Verbots nach Satz 2
-unmöglich zu werden droht, hat er dies der Bundesnetzagentur
-unverzüglich in Textform anzuzeigen. § 20 Absatz 2 des
-Energiewirtschaftsgesetzes bleibt unberührt.
 
 
 ## Teil 2 - Zugang zu Übertragungsnetzen
@@ -655,17 +621,8 @@ mitzuteilen. Die Veröffentlichung und Mitteilung müssen enthalten:
 Elektrizitätsverteilernetzen.
 
 
-### § 16 Allgemeine Zusammenarbeitspflichten
+### § 16 (weggefallen)
 
-(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
-gemeinsam mit den anderen Netzbetreibern einheitliche Bedingungen des
-Netzzugangs zu schaffen, um die Transaktionskosten des Zugangs zum
-gesamten Elektrizitätsversorgungsnetz so gering wie möglich zu halten.
-
-(2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
-untereinander die zur effizienten Organisation des Netzzugangs
-erforderlichen Verträge abzuschließen und die notwendigen Daten
-unverzüglich auszutauschen.
 
 
 ### § 17 (weggefallen)
@@ -1129,13 +1086,7 @@ Energiewirtschaftsgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
 ### § 29 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des
-Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-einer vollziehbaren Anordnung nach § 65 Abs. 2 des
-Energiewirtschaftsgesetzes in Verbindung mit § 17 Abs. 1 oder 2
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des
+Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16,
 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.

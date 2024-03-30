@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 838
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.2.2023 I Nr. 51
+:   Art. 1 G v. 11.12.2023 I Nr. 354
 
 
 ## § 1 Anwendungsbereich
@@ -24,34 +24,39 @@ Zuletzt geändert durch
 Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die
 Bestimmung
 
-1.  des Ausgleichs für außenstehende Aktionäre und der Abfindung solcher
+1.  der Ausgleichszahlung oder der zusätzlich zu gewährenden Aktien für
+    Aktionäre bei Kapitalerhöhungen (§ 255 Absatz 4 bis 7 und § 255a des
+    Aktiengesetzes);
+
+
+2.  des Ausgleichs für außenstehende Aktionäre und der Abfindung solcher
     Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen (§§ 304 und
     305 des Aktiengesetzes);
 
 
-2.  der Abfindung von ausgeschiedenen Aktionären bei der Eingliederung von
+3.  der Abfindung von ausgeschiedenen Aktionären bei der Eingliederung von
     Aktiengesellschaften (§ 320b des Aktiengesetzes);
 
 
-3.  der Barabfindung von Minderheitsaktionären, deren Aktien durch
+4.  der Barabfindung von Minderheitsaktionären, deren Aktien durch
     Beschluss der Hauptversammlung auf den Hauptaktionär übertragen worden
     sind (§§ 327a bis 327f des Aktiengesetzes);
 
 
-4.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
+5.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
     Anteilsinhaber oder der Barabfindung von Anteilsinhabern (§§ 15, 34,
     72a, 125 Absatz 1 Satz 1, §§ 176 bis 181, 184, 186, 196, 212, 305
     Absatz 2, §§ 313, 320 Absatz 2, §§ 327 und 340 des
     Umwandlungsgesetzes);
 
 
-5.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
+6.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
     Anteilsinhaber oder der Barabfindung von Anteilsinhabern bei der
     Gründung oder Sitzverlegung einer SE (§§ 6, 7, 9, 11 und 12 des SE-
     Ausführungsgesetzes);
 
 
-6.  der Zuzahlung an Mitglieder bei der Gründung einer Europäischen
+7.  der Zuzahlung an Mitglieder bei der Gründung einer Europäischen
     Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
 
 
@@ -116,26 +121,30 @@ an Stelle der Kammer entscheiden.
 
 Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
-1.  der Nummer 1 jeder außenstehende Aktionär;
+1.  der Nummer 1 jeder Aktionär, dessen Bezugsrecht ganz oder teilweise
+    ausgeschlossen worden ist;
 
 
-2.  der Nummern 2 und 3 jeder ausgeschiedene Aktionär;
+2.  der Nummer 2 jeder außenstehende Aktionär;
 
 
-3.  der Nummer 4 jeder in den dort angeführten Vorschriften des
+3.  der Nummern 3 und 4 jeder ausgeschiedene Aktionär;
+
+
+4.  der Nummer 5 jeder in den dort angeführten Vorschriften des
     Umwandlungsgesetzes bezeichnete Anteilsinhaber;
 
 
-4.  der Nummer 5 jeder in den dort angeführten Vorschriften des SE-
+5.  der Nummer 6 jeder in den dort angeführten Vorschriften des SE-
     Ausführungsgesetzes bezeichnete Anteilsinhaber;
 
 
-5.  der Nummer 6 jedes in der dort angeführten Vorschrift des SCE-
+6.  der Nummer 7 jedes in der dort angeführten Vorschrift des SCE-
     Ausführungsgesetzes bezeichnete Mitglied.
 
 
 
-In den Fällen der Nummern 1, 3, 4 und 5 ist die Antragsberechtigung
+In den Fällen der Nummern 1, 2, 4, 5 und 6 ist die Antragsberechtigung
 nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung
 Anteilsinhaber ist; dies gilt nicht für die Bestimmung der
 Barabfindung bei grenzüberschreitenden Umwandlungen (§§ 313, 327 und
@@ -149,23 +158,26 @@ Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in
 den Fällen
 
-1.  der Nummer 1 der Unternehmensvertrag oder seine Änderung;
+1.  der Nummer 1 die Eintragung der Durchführung der Kapitalerhöhung;
 
 
-2.  der Nummer 2 die Eingliederung;
+2.  der Nummer 2 der Unternehmensvertrag oder seine Änderung;
 
 
-3.  der Nummer 3 der Übergang aller Aktien der Minderheitsaktionäre auf
+3.  der Nummer 3 die Eingliederung;
+
+
+4.  der Nummer 4 der Übergang aller Aktien der Minderheitsaktionäre auf
     den Hauptaktionär;
 
 
-4.  der Nummer 4 die Umwandlung;
+5.  der Nummer 5 die Umwandlung;
 
 
-5.  der Nummer 5 die Gründung oder Sitzverlegung der SE oder
+6.  der Nummer 6 die Gründung oder Sitzverlegung der SE oder
 
 
-6.  der Nummer 6 die Gründung der Europäischen Genossenschaft
+7.  der Nummer 7 die Gründung der Europäischen Genossenschaft
 
 
 
@@ -207,32 +219,35 @@ Antragsteller gehaltenen Anteile ergeben.
 Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1
 ist in den Fällen
 
-1.  der Nummer 1 gegen den anderen Vertragsteil des Unternehmensvertrags;
+1.  der Nummer 1 gegen die Gesellschaft, deren Kapital erhöht worden ist;
 
 
-2.  der Nummer 2 gegen die Hauptgesellschaft;
+2.  der Nummer 2 gegen den anderen Vertragsteil des Unternehmensvertrags;
 
 
-3.  der Nummer 3 gegen den Hauptaktionär;
+3.  der Nummer 3 gegen die Hauptgesellschaft;
 
 
-4.  der Nummer 4 gegen die übernehmenden oder neuen Rechtsträger oder
+4.  der Nummer 4 gegen den Hauptaktionär;
+
+
+5.  der Nummer 5 gegen die übernehmenden oder neuen Rechtsträger oder
     gegen den Rechtsträger neuer Rechtsform;
 
 
-5.  der Nummer 5 gegen die SE, aber im Fall des § 9 des SE-
+6.  der Nummer 6 gegen die SE, aber im Fall des § 9 des SE-
     Ausführungsgesetzes gegen die die Gründung anstrebende Gesellschaft;
 
 
-6.  der Nummer 6 gegen die Europäische Genossenschaft
+7.  der Nummer 7 gegen die Europäische Genossenschaft
 
 
 
-zu richten.
-
-In den Fällen des Satzes 1 Nummer 4 kann bei einer Abspaltung ein
-Antrag auf Bestimmung der Barabfindung wahlweise auch gegen den
-übertragenden Rechtsträger gerichtet werden.
+zu richten. In den Fällen des § 1 Nummer 1 ist auf Antrag der
+Gesellschaft der neue Aktionär als Beteiligter hinzuzuziehen. In den
+Fällen des Satzes 1 Nummer 5 kann bei einer Abspaltung ein Antrag auf
+Bestimmung der Barabfindung wahlweise auch gegen den übertragenden
+Rechtsträger gerichtet werden.
 
 
 ## § 5a Vertretung durch einen Rechtsanwalt
@@ -260,9 +275,9 @@ Die Bestellung eines gemeinsamen Vertreters kann vollständig
 unterbleiben, wenn die Wahrung der Rechte der Antragsberechtigten auf
 andere Weise sichergestellt ist. Das Gericht hat die Bestellung des
 gemeinsamen Vertreters im Bundesanzeiger bekannt zu machen. Wenn in
-den Fällen des § 1 Nr. 1 bis 3 die Satzung der Gesellschaft, deren
+den Fällen des § 1 Nr. 1 bis 4 die Satzung der Gesellschaft, deren
 außenstehende oder ausgeschiedene Aktionäre antragsberechtigt sind,
-oder in den Fällen des § 1 Nr. 4 der Gesellschaftsvertrag, der
+oder in den Fällen des § 1 Nr. 5 der Gesellschaftsvertrag, der
 Partnerschaftsvertrag, die Satzung oder das Statut des übertragenden,
 übernehmenden oder formwechselnden Rechtsträgers noch andere Blätter
 oder elektronische Informationsmedien für die öffentlichen
@@ -476,43 +491,51 @@ wenn der Beteiligte die Verspätung genügend entschuldigt.
 
 ## § 10a Gewährung zusätzlicher Aktien
 
-(1) Soweit gemäß § 72a des Umwandlungsgesetzes zusätzliche Aktien zu
-gewähren sind, bestimmt das Gericht
+(1) Soweit gemäß § 72a des Umwandlungsgesetzes oder § 255a des
+Aktiengesetzes zusätzliche Aktien zu gewähren sind, bestimmt das
+Gericht
 
-1.  in den Fällen des § 72a Absatz 1 und 2 Satz 1 unter Zugrundelegung des
-    angemessenen Umtauschverhältnisses
+1.  in den Fällen des § 72a Absatz 1 und 2 Satz 1 des Umwandlungsgesetzes
+    unter Zugrundelegung des angemessenen Umtauschverhältnisses oder des §
+    255a Absatz 1 und 2 Satz 1 des Aktiengesetzes unter Zugrundelegung der
+    angemessenen Einlage
 
     a)  den zusätzlich zu gewährenden Nennbetrag oder bei Stückaktien die Zahl
         der zusätzlich zu gewährenden Aktien und
 
 
-    b)  den dem Zinsanspruch gemäß § 72a Absatz 6 Satz 1 Nummer 1 zugrunde zu
-        legenden Ausgleichsbetrag,
+    b)  den dem Zinsanspruch gemäß § 72a Absatz 6 Satz 1 Nummer 1 des
+        Umwandlungsgesetzes oder § 255 Absatz 6 Satz 1 in Verbindung mit §
+        255a Absatz 6 des Aktiengesetzes zugrunde zu legenden
+        Ausgleichsbetrag,
 
 
 
 
 
-2.  im Fall des § 72a Absatz 2 Satz 2 die Höhe des nachträglich
+2.  im Fall des § 72a Absatz 2 Satz 2 des Umwandlungsgesetzes oder des §
+    255a Absatz 2 Satz 2 des Aktiengesetzes die Höhe des nachträglich
     einzuräumenden Bezugsrechts,
 
 
-3.  in den Fällen des § 72a Absatz 3 die Höhe der baren Zuzahlung und
+3.  in den Fällen des § 72a Absatz 3 des Umwandlungsgesetzes oder des §
+    255a Absatz 3 des Aktiengesetzes die Höhe der baren Zuzahlung und
 
 
-4.  in den Fällen des § 72a Absatz 4 und 5 die Höhe der Entschädigung in
-    Geld.
+4.  in den Fällen des § 72a Absatz 4 und 5 des Umwandlungsgesetzes oder
+    des § 255a Absatz 4 und 5 des Aktiengesetzes die Höhe der
+    Entschädigung in Geld.
 
 
 
 
 (2) In den Fällen des § 72a Absatz 1 Satz 2 des Umwandlungsgesetzes
-hat das Gericht den zusätzlich zu gewährenden Nennbetrag oder bei
-Stückaktien die Zahl der zusätzlich zu gewährenden Aktien unter
-Zugrundelegung des Umtauschverhältnisses des nachfolgenden
-Umwandlungsvorgangs zu bestimmen. Antragsgegner ist die Gesellschaft,
-auf die die Pflicht zur Gewährung zusätzlicher Aktien übergegangen
-ist.
+oder des § 255a Absatz 1 Satz 2 des Aktiengesetzes hat das Gericht den
+zusätzlich zu gewährenden Nennbetrag oder bei Stückaktien die Zahl der
+zusätzlich zu gewährenden Aktien unter Zugrundelegung des
+Umtauschverhältnisses des nachfolgenden Umwandlungsvorgangs zu
+bestimmen. Antragsgegner ist die Gesellschaft, auf die die Pflicht zur
+Gewährung zusätzlicher Aktien übergegangen ist.
 
 (3) Die Absätze 1 und 2 gelten für die Gewährung zusätzlicher Aktien
 gemäß § 248a des Umwandlungsgesetzes entsprechend.
@@ -594,26 +617,30 @@ wurde.
 Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne
 Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
 
-1.  der Nummer 1 durch den Vorstand der Gesellschaft, deren außenstehende
+1.  der Nummer 1 durch den Vorstand der Gesellschaft, deren Kapital erhöht
+    worden ist;
+
+
+2.  der Nummer 2 durch den Vorstand der Gesellschaft, deren außenstehende
     Aktionäre antragsberechtigt waren;
 
 
-2.  der Nummer 2 durch den Vorstand der Hauptgesellschaft;
+3.  der Nummer 3 durch den Vorstand der Hauptgesellschaft;
 
 
-3.  der Nummer 3 durch den Hauptaktionär der Gesellschaft;
+4.  der Nummer 4 durch den Hauptaktionär der Gesellschaft;
 
 
-4.  der Nummer 4 durch die gesetzlichen Vertreter jedes übernehmenden oder
+5.  der Nummer 5 durch die gesetzlichen Vertreter jedes übernehmenden oder
     neuen Rechtsträgers oder des Rechtsträgers neuer Rechtsform;
 
 
-5.  der Nummer 5 durch die gesetzlichen Vertreter der SE, aber im Fall des
+6.  der Nummer 6 durch die gesetzlichen Vertreter der SE, aber im Fall des
     § 9 des SE-Ausführungsgesetzes durch die gesetzlichen Vertreter der
     die Gründung anstrebenden Gesellschaft, und
 
 
-6.  der Nummer 6 durch die gesetzlichen Vertreter der Europäischen
+7.  der Nummer 7 durch die gesetzlichen Vertreter der Europäischen
     Genossenschaft
 
 

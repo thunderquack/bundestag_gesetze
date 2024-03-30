@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 2.6.2021 I 1259
 
+Änderung durch
+:   Art. 7 G v. 27.3.2024 I Nr. 108 mWv 1.1.2023 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 8 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 9 G v. 27.3.2024 I Nr. 108 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
 
@@ -377,16 +386,12 @@ Steuer ist als Nachsteuer zu erheben.
 
 ### § 50 Zuwendungsbestätigung
 
-(1)
-1             Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes
-dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der
-Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger
-unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach
-amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den
-Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
-2             Dies gilt nicht für Zuwendungen an nicht im Inland
-ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und
-3 des Gesetzes.
+(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen
+vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende
+eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter
+Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich
+vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4
+bis 6 bezeichneten Unterlagen erhalten hat.
 
 (2)
 1             Der Zuwendende kann den Zuwendungsempfänger
@@ -2186,6 +2191,10 @@ sind.
 (2c) § 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf
 Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31.
 Dezember 2019 zufließen.
+
+(2d) § 50 in der Fassung des Artikels 7 des Gesetzes vom 21. Dezember
+2020 (BGBl. I S. 3096) ist erstmals auf Zuwendungen anzuwenden, die
+dem Zuwendungsempfänger nach dem 31. Dezember 2024 zufließen.
 
 (3) § 29 Abs. 3 bis 6, §§ 31 und 32 sind in der vor dem 1. Januar 1996
 geltenden Fassung für vor diesem Zeitpunkt an Bausparkassen geleistete

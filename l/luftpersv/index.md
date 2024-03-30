@@ -1074,8 +1074,9 @@ Ausbildungseinrichtungen muss folgende Angaben enthalten:
     zuständigen Stelle beantragt worden ist, und
 
 
-3.  bei juristischen Personen und Personengesellschaften außerdem den
-    Namen und die Anschrift der vertretungsberechtigten Personen.
+3.  bei juristischen Personen und rechtsfähigen Personengesellschaften
+    außerdem den Namen und die Anschrift der vertretungsberechtigten
+    Personen.
 
 
 

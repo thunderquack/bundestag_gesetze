@@ -38,15 +38,14 @@ Deutsche sind und ihren Wohnsitz im Geltungsbereich des Grundgesetzes
 haben.
 
 (2) Deutschen mit Wohnsitz im Geltungsbereich des Grundgesetzes werden
-gleichgeachtet Offene Handelsgesellschaften, Kommanditgesellschaften
-und juristische Personen, die ihren Sitz in diesem Bereich haben, und
-zwar
+gleichgeachtet rechtsfähige Personengesellschaften und juristische
+Personen, die ihren Sitz in diesem Bereich haben, und zwar
 
-a)  Offene Handelsgesellschaften und Kommanditgesellschaften, wenn die
-    Mehrheit sowohl der persönlich haftenden als auch der zur
-    Geschäftsführung und Vertretung berechtigten Gesellschafter aus
-    Deutschen besteht und außerdem nach dem Gesellschaftsvertrag die
-    deutschen Gesellschafter die Mehrheit der Stimmen haben,
+a)  rechtsfähige Personengesellschaften, wenn die Mehrheit sowohl der
+    persönlich haftenden als auch der zur Geschäftsführung und Vertretung
+    berechtigten Gesellschafter aus Deutschen besteht und außerdem nach
+    dem Gesellschaftsvertrag die deutschen Gesellschafter die Mehrheit der
+    Stimmen haben,
 
 
 b)  juristische Personen, wenn Deutsche im Vorstand oder in der

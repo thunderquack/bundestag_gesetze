@@ -236,10 +236,10 @@ Im Sinne dieses Gesetzes sind
 
 9.  Hersteller:
 
-    jede natürliche oder juristische Person oder Personengesellschaft, die
-    unabhängig von der Verkaufsmethode, einschließlich der
-    Fernkommunikationsmittel im Sinne des § 312c Absatz 2 des Bürgerlichen
-    Gesetzbuchs,
+    jede natürliche oder juristische Person oder rechtsfähige
+    Personengesellschaft, die unabhängig von der Verkaufsmethode,
+    einschließlich der Fernkommunikationsmittel im Sinne des § 312c Absatz
+    2 des Bürgerlichen Gesetzbuchs,
 
     a)  Elektro- oder Elektronikgeräte
 
@@ -286,21 +286,23 @@ Im Sinne dieses Gesetzes sind
 10. Bevollmächtigter:
 
     jede im Geltungsbereich dieses Gesetzes niedergelassene natürliche
-    oder juristische Person oder Personengesellschaft, die ein Hersteller
-    ohne Niederlassung im Geltungsbereich dieses Gesetzes beauftragt hat,
-    in eigenem Namen sämtliche Aufgaben wahrzunehmen, um die
-    Herstellerpflichten nach diesem Gesetz zu erfüllen; Bevollmächtigter
-    kann auch ein Hersteller nach Nummer 9 Buchstabe c oder ein Vertreiber
-    nach Nummer 11, ein Betreiber eines elektronischen Marktplatzes nach
-    Nummer 11b oder ein Fulfilment-Dienstleister nach Nummer 11c sein,
-    sofern die Voraussetzungen nach dem ersten Halbsatz vorliegen;
+    oder juristische Person oder rechtsfähige Personengesellschaft, die
+    ein Hersteller ohne Niederlassung im Geltungsbereich dieses Gesetzes
+    beauftragt hat, in eigenem Namen sämtliche Aufgaben wahrzunehmen, um
+    die Herstellerpflichten nach diesem Gesetz zu erfüllen;
+    Bevollmächtigter kann auch ein Hersteller nach Nummer 9 Buchstabe c
+    oder ein Vertreiber nach Nummer 11, ein Betreiber eines elektronischen
+    Marktplatzes nach Nummer 11b oder ein Fulfilment-Dienstleister nach
+    Nummer 11c sein, sofern die Voraussetzungen nach dem ersten Halbsatz
+    vorliegen;
 
 
 11. Vertreiber:
 
-    jede natürliche oder juristische Person oder Personengesellschaft, die
-    Elektro- oder Elektronikgeräte im Geltungsbereich dieses Gesetzes
-    anbietet oder auf dem Markt bereitstellt;
+    jede natürliche oder juristische Person oder rechtsfähige
+    Personengesellschaft, die Elektro- oder Elektronikgeräte im
+    Geltungsbereich dieses Gesetzes anbietet oder auf dem Markt
+    bereitstellt;
 
 
 11a. elektronischer Marktplatz:
@@ -751,18 +753,19 @@ informieren. Solange die Benennung eines Bevollmächtigten nicht
 erfolgt, obliegen die Verpflichtungen des Herstellers dem im Inland
 niedergelassenen Hersteller nach § 3 Nummer 9 Buchstabe c.
 
-(5) Eine natürliche oder juristische Person oder Personengesellschaft,
-die im Geltungsbereich dieses Gesetzes niedergelassen ist und Geräte
-gewerbsmäßig unter Verwendung von Fernkommunikationsmitteln in einem
-anderen Mitgliedstaat der Europäischen Union, in dem sie nicht
-niedergelassen ist, unmittelbar für Endnutzer bereitstellt, ist
-verpflichtet, vor der Bereitstellung auf dem Markt dieses
-Mitgliedstaates eine dort niedergelassene natürliche oder juristische
-Person oder Personengesellschaft zu bevollmächtigen, die dort für die
-Erfüllung ihrer Pflichten nach der Richtlinie 2012/19/EU des
-Europäischen Parlaments und des Rates vom 4. Juli 2012 über Elektro-
-und Elektronik-Altgeräte (ABl. L 197 vom 24.7.2012, S. 38)
-verantwortlich ist.
+(5) Eine natürliche oder juristische Person oder rechtsfähige
+Personengesellschaft, die im Geltungsbereich dieses Gesetzes
+niedergelassen ist und Geräte gewerbsmäßig unter Verwendung von
+Fernkommunikationsmitteln in einem anderen Mitgliedstaat der
+Europäischen Union, in dem sie nicht niedergelassen ist, unmittelbar
+für Endnutzer bereitstellt, ist verpflichtet, vor der Bereitstellung
+auf dem Markt dieses Mitgliedstaates eine dort niedergelassene
+natürliche oder juristische Person oder rechtsfähige
+Personengesellschaft zu bevollmächtigen, die dort für die Erfüllung
+ihrer Pflichten nach der Richtlinie 2012/19/EU des Europäischen
+Parlaments und des Rates vom 4. Juli 2012 über Elektro- und
+Elektronik-Altgeräte (ABl. L 197 vom 24.7.2012, S. 38) verantwortlich
+ist.
 
 
 ### § 9 Kennzeichnung
@@ -2447,10 +2450,10 @@ erfasst werden.
 
 (2) Der Gemeinsamen Stelle steht im Hinblick auf die Erstattung nach
 Absatz 1 ein Anspruch auf Ausgleich der Kosten gegen die natürlichen
-und juristischen Personen und Personengesellschaften zu, die vor der
-Meldung nach § 14 Absatz 3 als Hersteller oder Bevollmächtigte
-registriert waren (ehemalige Hersteller) und die Berechnung nach § 31
-Absatz 5 Satz 3 Nummer 2 gewählt hatten.
+und juristischen Personen und rechtsfähigen Personengesellschaften zu,
+die vor der Meldung nach § 14 Absatz 3 als Hersteller oder
+Bevollmächtigte registriert waren (ehemalige Hersteller) und die
+Berechnung nach § 31 Absatz 5 Satz 3 Nummer 2 gewählt hatten.
 
 (3) Die Gemeinsame Stelle ist berechtigt, die von den öffentlich-
 rechtlichen Entsorgungsträgern geltend gemachten Kosten auf ihre
@@ -2654,14 +2657,15 @@ für die Zukunft ändern, soweit dies auf Grund einer Neuzuordnung der
 Geräte zu den Gerätearten gemäß § 33 Absatz 1 Satz 1 erforderlich ist.
 
 (6) Die zuständige Behörde stellt auf Antrag der natürlichen oder
-juristischen Person oder Personengesellschaft, die Herstellern oder im
-Fall der Bevollmächtigung nach § 8 die Bevollmächtigten die Teilnahme
-an einem System im Sinne des § 7 Absatz 2 Satz 1 Nummer 4 anbieten
-möchte, fest, dass das System für die Finanzierung der Entsorgung von
-Altgeräten im Sinne des § 7 Absatz 1 Satz 1 in einem bestimmten
-Kalenderjahr geeignet ist. Absatz 4 gilt entsprechend. Die
-Feststellung ist auf der Internetseite der zuständigen Behörde zu
-veröffentlichen und ab der Veröffentlichung wirksam.
+juristischen Person oder rechtsfähigen Personengesellschaft, die
+Herstellern oder im Fall der Bevollmächtigung nach § 8 die
+Bevollmächtigten die Teilnahme an einem System im Sinne des § 7 Absatz
+2 Satz 1 Nummer 4 anbieten möchte, fest, dass das System für die
+Finanzierung der Entsorgung von Altgeräten im Sinne des § 7 Absatz 1
+Satz 1 in einem bestimmten Kalenderjahr geeignet ist. Absatz 4 gilt
+entsprechend. Die Feststellung ist auf der Internetseite der
+zuständigen Behörde zu veröffentlichen und ab der Veröffentlichung
+wirksam.
 
 (7) Die zuständige Behörde lässt auf Antrag einen Bevollmächtigten für
 mehr als 20 zeitgleich wirksame Registrierungen im Sinne des § 6

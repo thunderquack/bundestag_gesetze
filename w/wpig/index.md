@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.2.2023 I Nr. 51
 
+Änderung durch
+:   Art. 28 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -219,14 +225,13 @@ erbringt.
     Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates
     vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung)
     und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments
-    und des Rates und der Richtlinien
-    2003/124/EG,                    2003/125/EG und 2004/72/EG der
-    Kommission (ABl. L 173 vom 12.6.2014, S. 1;
-    L 287                    vom 21.10.2016, S. 320; L 306 vom 15.11.2016,
-    S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung
-    (EU) 2019/2115 (ABl. L 320 vom 11.12.2019, S. 1) geändert worden ist,
-    (Anlagestrategieempfehlung) oder von Anlageempfehlungen im Sinne des
-    Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014,
+    und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und
+    2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom
+    21\.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016,
+    S. 83), die zuletzt durch die Verordnung (EU) 2019/2115 (ABl. L 320
+    vom 11.12.2019, S. 1) geändert worden ist, (Anlagestrategieempfehlung)
+    oder von Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35
+    der Verordnung (EU) Nr. 596/2014,
 
 
 6.  Dienstleistungen, die im Zusammenhang mit dem Emissionsgeschäft stehen
@@ -464,15 +469,14 @@ miteinander verbunden sind:
     26\. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss
     und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen
     und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments
-    und des Rates und zur Aufhebung der Richtlinien
-    78/660/EWG                    und 83/349/EWG des Rates (ABl. L 182 vom
-    29\.6.2013, S. 19; L 369 vom 24.12.2014, S. 79), die zuletzt durch die
-    Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) geändert
-    worden ist, oder eines vergleichbaren Verhältnisses zwischen einer
-    natürlichen oder juristischen Person und einem Unternehmen;
-    Tochterunternehmen von Tochterunternehmen gelten ebenfalls als
-    Tochterunternehmen des Mutterunternehmens, das an der Spitze dieser
-    Unternehmen steht, oder
+    und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und
+    83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19; L 369 vom
+    24\.12.2014, S. 79), die zuletzt durch die Richtlinie 2014/102/EU (ABl.
+    L 334 vom 21.11.2014, S. 86) geändert worden ist, oder eines
+    vergleichbaren Verhältnisses zwischen einer natürlichen oder
+    juristischen Person und einem Unternehmen; Tochterunternehmen von
+    Tochterunternehmen gelten ebenfalls als Tochterunternehmen des
+    Mutterunternehmens, das an der Spitze dieser Unternehmen steht, oder
 
 
 3.  durch ein dauerhaftes Kontrollverhältnis von mindestens zwei
@@ -562,13 +566,12 @@ einem Unternehmen.
 
 (23) Bedeutende Beteiligung im Sinne dieses Gesetzes ist eine
 qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der
-Verordnung (EU) Nr.
-575/2013             . Für die Berechnung des Anteils der Stimmrechte
-gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach §
-33 Absatz 3, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung
-mit einer Rechtsverordnung nach § 35 Absatz 6 und § 36 des
-Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die
-Stimmrechte oder Kapitalanteile, die Kreditinstitute oder
+Verordnung (EU) Nr. 575/2013. Für die Berechnung des Anteils der
+Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer
+Rechtsverordnung nach § 33 Absatz 3, § 34 Absatz 1 und 2, § 35 Absatz
+1 bis 3 in Verbindung mit einer Rechtsverordnung nach § 35 Absatz 6
+und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt
+bleiben die Stimmrechte oder Kapitalanteile, die Kreditinstitute oder
 Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach Absatz 2
 Nummer 2 halten, vorausgesetzt, diese Rechte werden nicht ausgeübt
 oder anderweitig genutzt, um in die Geschäftsführung des Emittenten
@@ -596,7 +599,7 @@ im Sinne des Artikels 4 Absatz 1 Nummer 20 der Verordnung (EU) Nr.
 eine gemischte Finanzholdinggesellschaft im Sinne des Artikels 4
 Absatz 1 Nummer 40 der Verordnung (EU) 2019/2033.
 
-(29) Gemischtes Unternehmen im Sinne dieses Gesetzes ist ein
+(29) Gemischte Holdinggesellschaft im Sinne dieses Gesetzes ist ein
 Mutterunternehmen, das keine Finanzholdinggesellschaft, keine
 Investmentholdinggesellschaft, kein Kreditinstitut, kein
 Wertpapierinstitut und keine gemischte Finanzholdinggesellschaft im
@@ -605,14 +608,13 @@ ein Wertpapierinstitut gehört.
 
 (30) Mutterunternehmen im Sinne dieses Gesetzes ist ein
 Mutterunternehmen im Sinne des Artikels 2 Nummer 9 und des Artikels 22
-der Richtlinie
-2013/34/EU             .
+der Richtlinie 2013/34/EU.
 
 (31) Tochterunternehmen im Sinne dieses Gesetzes ist ein
 Tochterunternehmen im Sinne des Artikels 2 Nummer 10 und des Artikels
-22 der Richtlinie
-2013/34/EU             , einschließlich aller Tochterunternehmen eines
-Tochterunternehmens des an der Spitze stehenden Mutterunternehmens.
+22 der Richtlinie 2013/34/EU, einschließlich aller Tochterunternehmen
+eines Tochterunternehmens des an der Spitze stehenden
+Mutterunternehmens.
 
 (32) Schwesterunternehmen im Sinne dieses Gesetzes ist ein
 Schwesterunternehmen im Sinne des § 1 Absatz 7 des
@@ -620,9 +622,8 @@ Kreditwesengesetzes.
 
 (33) EU-Mutterwertpapierinstitut im Sinne dieses Gesetzes ist ein
 Wertpapierinstitut im Sinne des Artikels 3 Absatz 1 Nummer 31 der
-Richtlinie (EU)
-2019/2034              in Verbindung mit Artikel 4 Absatz 1 Nummer 56
-der Verordnung (EU) 2019/2033.
+Richtlinie (EU) 2019/2034 in Verbindung mit Artikel 4 Absatz 1 Nummer
+56 der Verordnung (EU) 2019/2033.
 
 (34) EU-Mutterinvestmentholdinggesellschaft im Sinne dieses Gesetzes
 ist eine Gesellschaft im Sinne des Artikels 4 Absatz 1 Nummer 57 der
@@ -724,18 +725,18 @@ fällt.
     Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom
     13\. Juli 2009 zur Koordinierung der Rechts- und
     Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame
-    Anlagen in Wertpapieren (OGAW) (Neufassung) (ABl.
-    L 302                    vom 17.11.2009, S. 32; L 269 vom 13.10.2010,
-    S. 27), die zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328
-    vom 18.12.2019, S. 29) geändert worden ist, oder die in Artikel 6
-    Absatz 4 der Richtlinie 2011/61/EU des Europäischen Parlaments und des
-    Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds
-    und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der
-    Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom
-    1\.7.2011, S. 1; L 115 vom 27.4.2012, S. 35), die zuletzt durch die
-    Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert
-    worden ist, aufgeführten Dienstleistungen oder Nebendienstleistungen
-    als Wertpapierdienstleistungen erbringen;
+    Anlagen in Wertpapieren (OGAW) (Neufassung) (ABl. L 302 vom
+    17\.11.2009, S. 32; L 269 vom 13.10.2010, S. 27), die zuletzt durch die
+    Richtlinie (EU) 2019/2162 (ABl. L 328 vom 18.12.2019, S. 29) geändert
+    worden ist, oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU
+    des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die
+    Verwalter alternativer Investmentfonds und zur Änderung der
+    Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr.
+    1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1; L 115
+    vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie (EU) 2019/2034
+    (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, aufgeführten
+    Dienstleistungen oder Nebendienstleistungen als
+    Wertpapierdienstleistungen erbringen;
 
 
 9.  Unternehmen, deren Wertpapierdienstleistung für andere ausschließlich
@@ -957,13 +958,13 @@ Sinne des § 1 Absatz 1 Satz 2 des Kreditwesengesetzes betreibt und das
 als Wertpapierdienstleistung nur die Anlagevermittlung, die
 Anlageberatung oder das Platzierungsgeschäft erbringt und dies
 ausschließlich für Rechnung und unter der Haftung eines
-Wertpapierinstituts, das seinen Sitz im Inland hat oder nach § 70
-Absatz 1 oder § 71 Absatz 4 im Inland tätig ist (vertraglich
-gebundener Vermittler), gilt nicht als Wertpapierinstitut, wenn das
-haftende Wertpapierinstitut dies der Bundesanstalt zuvor angezeigt
-hat. Die Tätigkeit des vertraglich gebundenen Vermittlers wird dem
-haftenden Wertpapierinstitut zugerechnet. Ändern sich die von dem
-haftenden Wertpapierinstitut angezeigten Verhältnisse, sind die neuen
+Wertpapierinstituts, das seinen Sitz im Inland hat oder nach § 73
+Absatz 1 im Inland tätig ist (vertraglich gebundener Vermittler), gilt
+nicht als Wertpapierinstitut, wenn das haftende Wertpapierinstitut
+dies der Bundesanstalt zuvor angezeigt hat. Die Tätigkeit des
+vertraglich gebundenen Vermittlers wird dem haftenden
+Wertpapierinstitut zugerechnet. Ändern sich die von dem haftenden
+Wertpapierinstitut angezeigten Verhältnisse, sind die neuen
 Verhältnisse unverzüglich der Bundesanstalt anzuzeigen. Für den Inhalt
 der Anzeigen nach den Sätzen 1 und 3 und die beizufügenden Unterlagen
 und Nachweise können durch Rechtsverordnung nach § 14 Absatz 3 Satz 1
@@ -1135,15 +1136,15 @@ Sätzen 1 und 2 zu dulden.
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
-Grundlage des § 5 Absatz 2 bis 4, 6 und 7, des § 7 Absatz 1 Satz 2 und
-Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2, 3
-und Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23, 25
-und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2,
-Absatz 4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43
-Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz
-2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 71
-Absatz 3, des § 77 Absatz 1 Satz 2 und 3, des § 79 Absatz 1 und 2, des
-§ 80 Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine aufschiebende
+Grundlage des § 5 Absatz 2 bis 7, des § 7 Absatz 1 Satz 2 und Absatz
+3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2, 3 und
+Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23, 25 und
+26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2, Absatz
+4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43 Absatz 3
+Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz 2, der
+§§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 71 Absatz 3,
+des § 77 Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80
+Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine aufschiebende
 Wirkung.
 
 
@@ -1229,8 +1230,7 @@ Wertpapierinstitut
     Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates
     vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
     Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
-    30\.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2021/168
-    (ABl. L 49 vom 12.2.2021, S. 8) geändert worden ist, ist oder
+    30\.11.2013, S. 6) in der jeweils geltenden Fassung, ist oder
 
 
 3.  aufgrund seiner Größe, der Art, des Umfangs und der Komplexität seiner
@@ -1292,11 +1292,10 @@ Regel durch ihre Hauptverwaltungen.
 (2) Die Deutsche Bundesbank hat die Richtlinien der Bundesanstalt zu
 beachten. Die Richtlinien der Bundesanstalt zur laufenden Aufsicht
 ergehen im Einvernehmen mit der Deutschen Bundesbank. Kann innerhalb
-einer angemessenen Frist kein
-Einvernehmen              hergestellt werden, erlässt das
-Bundesministerium der Finanzen solche Richtlinien im Benehmen mit der
-Deutschen Bundesbank. Die aufsichtsrechtlichen Maßnahmen, insbesondere
-Allgemeinverfügungen und Verwaltungsakte einschließlich
+einer angemessenen Frist kein Einvernehmen hergestellt werden, erlässt
+das Bundesministerium der Finanzen solche Richtlinien im Benehmen mit
+der Deutschen Bundesbank. Die aufsichtsrechtlichen Maßnahmen,
+insbesondere Allgemeinverfügungen und Verwaltungsakte einschließlich
 Prüfungsanordnungen nach § 5 Absatz 4 und 5 Satz 1, trifft die
 Bundesanstalt gegenüber den Wertpapierinstituten, Mutterunternehmen
 oder Auslagerungsunternehmen. Die Bundesanstalt legt ihren
@@ -1380,14 +1379,10 @@ Finanzholdinggesellschaften mit den anderen zuständigen Behörden und
 sonstigen zuständigen Stellen zusammen. Vorbehaltlich der maßgeblichen
 datenschutzrechtlichen Vorschriften tauschen die Bundesanstalt und die
 Deutsche Bundesbank mit den zuständigen Behörden und sonstigen
-zuständigen Stellen alle zweckdienlichen und grundlegenden
-Informationen aus, die für die Durchführung der Aufsicht erforderlich
-sind. Grundlegende Informationen können auch ohne entsprechende
-Anfrage der zuständigen Stelle weitergegeben werden. Als grundlegend
-in diesem Sinne gelten alle Informationen, die Einfluss auf die
-Beurteilung der Finanzlage eines Wertpapierinstituts in dem
-betreffenden Vertragsstaat haben können. Hierzu gehören insbesondere
-Informationen über
+zuständigen Stellen alle Informationen aus, die für die Durchführung
+der Aufsicht erforderlich sind. Informationen können auch ohne
+entsprechende Anfrage der zuständigen Stelle weitergegeben werden.
+Hierzu gehören insbesondere Informationen über
 
 1.  die rechtliche und organisatorische Verwaltungs- und Eigentumsstruktur
     sowie die Grundlagen einer ordnungsgemäßen Geschäftsführung des
@@ -1482,7 +1477,22 @@ und Marktaufsichtsbehörde unverzüglich mit und übermittelt diesen
 genaue Informationen über das gerichtliche Verfahren oder die
 unanfechtbare Entscheidung.
 
-(8) In Ausübung ihrer aufsichtlichen Aufgaben kann die Bundesanstalt
+(8) Werden gegen Inhaber oder Geschäftsleiter von Wertpapierinstituten
+sowie gegen Inhaber bedeutender Beteiligungen von Wertpapierinstituten
+oder deren gesetzliche oder satzungsmäßige Vertreter oder persönlich
+haftende Gesellschafter oder gegen Personen, die die Geschäfte einer
+Finanzholding-Gesellschaft, einer gemischten Finanzholding-
+Gesellschaft oder einer Investmentholdinggesellschaft tatsächlich
+führen, Steuerstrafverfahren eingeleitet oder unterbleibt dies auf
+Grund einer Selbstanzeige nach § 371 der Abgabenordnung, so steht § 30
+der Abgabenordnung Mitteilungen an die Bundesanstalt über das
+Verfahren und über den zugrunde liegenden Sachverhalt nicht entgegen;
+das Gleiche gilt, wenn sich das Verfahren gegen Personen richtet, die
+das Vergehen als Bedienstete eines Wertpapierinstituts oder eines
+Inhabers einer bedeutenden Beteiligung an einem Wertpapierinstitut
+begangen haben.
+
+(9) In Ausübung ihrer aufsichtlichen Aufgaben kann die Bundesanstalt
 im Einklang mit Artikel 33 der Verordnung (EU) Nr. 1093/2010 oder
 Artikel 33 der Verordnung (EU) Nr. 1095/2010 des Europäischen
 Parlaments und des Rates vom 24. November 2010 zur Errichtung einer
@@ -1570,11 +1580,11 @@ nicht vor, wenn Tatsachen weitergegeben werden an
 
 
 2.  kraft Gesetzes oder im öffentlichen Auftrag für die Überwachung von
-    Wertpapierinstituten, Kreditinstituten,
-    Finanzdienstleistungsinstituten, Kapitalverwaltungsgesellschaften,
-    extern verwalteten Investmentgesellschaften, EU-
-    Verwaltungsgesellschaften oder ausländischen AIF-
-    Verwaltungsgesellschaften, Finanzunternehmen,
+    Wertpapierinstituten, Schwarmfinanzierungsdienstleistern,
+    Kreditinstituten, Finanzdienstleistungsinstituten,
+    Kapitalverwaltungsgesellschaften, extern verwalteten
+    Investmentgesellschaften, EU-Verwaltungsgesellschaften oder
+    ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen,
     Versicherungsunternehmen, der Finanzmärkte oder des Zahlungsverkehrs
     zuständige Behörden oder Stellen sowie von diesen beauftragte
     Personen,
@@ -1833,7 +1843,7 @@ zu nutzen haben, insbesondere, dass sie
 
 3.  sicherzustellen haben, dass regelmäßig, spätestens alle fünf
     Kalendertage, überprüft wird, ob ihnen Mitteilungen oder
-    Verwaltungsakte nach den §§ 16u und 16v des
+    Verwaltungsakte nach den §§ 4f und 4g des
     Finanzdienstleistungsaufsichtsgesetzes über das elektronische
     Kommunikationsverfahren bereitgestellt worden sind, und
 
@@ -1900,8 +1910,8 @@ Satz 1 Nummer 1 bis 10, die Wertpapiernebendienstleistungen des § 2
 Absatz 3 Nummer 1, 2 und 4 oder ein Nebengeschäft im Sinne des § 2
 Absatz 4 erbringen will, ohne die in § 32 Absatz 1 Satz 2 des
 Kreditwesengesetzes bestimmte Schwelle zu überschreiten, bedarf einer
-Erlaubnis der Bundesanstalt; die Bundesanstalt hat § 37 Absatz 4 des
-Verwaltungsverfahrensgesetzes anzuwenden.
+schriftlichen Erlaubnis der Bundesanstalt; die Bundesanstalt hat § 37
+Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden.
 
 (2) Eine Erlaubnis für die Wertpapiernebendienstleistungen des § 2
 Absatz 3 Nummer 1 oder 2 oder eines Nebengeschäfts im Sinne des § 2
@@ -2454,6 +2464,10 @@ Wertpapierinstituts oder des Geschäftsleiters widerrufen werden.
 
 (7) § 45 der Gewerbeordnung findet keine Anwendung.
 
+(8) Eine Person, die nicht die Anforderungen nach den Absätzen 1 bis 3
+erfüllt, darf nicht zum Geschäftsleiter eines Kleinen oder Mittleren
+Wertpapierinstituts bestellt werden.
+
 
 #### § 21 Verwaltungs- oder Aufsichtsorgan
 
@@ -2500,6 +2514,10 @@ im Verwaltungs- oder Aufsichtsorgan dürfen dessen Mitglieder keine
 variablen Vergütungsbestandteile erhalten. Die Vergütung ist
 geschlechtsneutral; eine Entgeltbenachteiligung wegen des Geschlechts
 ist unzulässig.
+
+(6) Eine Person, die nicht die Anforderungen nach Absatz 1 Satz 1
+erfüllt, darf nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans
+eines Kleinen oder Mittleren Wertpapierinstituts bestellt werden.
 
 
 #### § 22 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
@@ -2706,7 +2724,7 @@ dass das Wertpapierinstitut nicht mehr kontrolliertes Unternehmen ist.
 umgehend, spätestens innerhalb von zwei Arbeitstagen nach deren Zugang
 gegenüber dem Anzeigepflichtigen zu bestätigen. In der Bestätigung hat
 die Bundesanstalt dem Anzeigepflichtigen den Tag mitzuteilen, an dem
-der Beurteilungszeitraum nach § 25 Satz 8 Nummer 1 endet.
+der Beurteilungszeitraum im Sinne des § 25 Satz 1 endet.
 
 (5) Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten
 gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich
@@ -3037,7 +3055,7 @@ Rechtsmittel einzulegen.
 ### § 31 Information über die Sicherungseinrichtung
 
 Ein Wertpapierinstitut hat Kunden, die nicht Institute im Sinne des
-Kreditwesengesetzes oder Wertpapierinstitute sind, über ihre
+Kreditwesengesetzes oder Wertpapierinstitute sind, über seine
 Zugehörigkeit zu einer Einrichtung zur Sicherung der Ansprüche von
 Anlegern (Sicherungseinrichtung) zu informieren. Das
 Wertpapierinstitut hat ferner Kunden, die nicht Kreditinstitute oder
@@ -3138,8 +3156,9 @@ Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
 die in den Absätzen 1 und 2 genannten Vorkehrungen zu treffen.
 
 (5) Die Funktion des Geldwäschebeauftragten im Sinne des § 7 des
-Geldwäschegesetzes wird in dem Wertpapierinstitut sowie in der
-Investmentholdinggesellschaft oder gemischten
+Geldwäschegesetzes und die Pflichten zur Verhinderung strafbarer
+Handlungen nach Absatz 1 Satz 1 werden in dem Wertpapierinstitut sowie
+in der Investmentholdinggesellschaft oder gemischten
 Finanzholdinggesellschaft von einer Stelle wahrgenommen. Die
 Bundesanstalt kann auf Antrag des Wertpapierinstituts sowie der
 Investmentholdinggesellschaften oder gemischten
@@ -3360,8 +3379,8 @@ Institute zu hören.
 
 #### § 41 Interne Unternehmensführung
 
-Wertpapierinstitute müssen über solide Regelungen für die
-Unternehmensführung verfügen, die zweckdienlich, der Art, dem Umfang
+Wertpapierinstitute müssen solide Regelungen für die
+Unternehmensführung schaffen, die zweckdienlich, der Art, dem Umfang
 und der Komplexität der dem Geschäftsmodell innewohnenden Risiken und
 den Geschäften des Wertpapierinstituts angemessen sind; dazu zählen
 
@@ -3966,9 +3985,9 @@ Risikokomponenten nur dann als nicht oder nicht ausreichend abgedeckt
 von den Eigenmittelanforderungen in den Teilen 3 und 4 der Verordnung
 (EU) 2019/2033, wenn das interne Kapital, das die Bundesanstalt nach
 der aufsichtlichen Überprüfung der von dem Wertpapierinstitut gemäß §
-47 durchgeführten Bewertung für angemessen hält, hinsichtlich seiner
-Höhe, Art und Verteilung über der in Teil 3 oder 4 der Verordnung (EU)
-2019/2033 vorgesehenen Eigenmittelanforderung an das
+39 Absatz 1 durchgeführten Bewertung für angemessen hält, hinsichtlich
+seiner Höhe, Art und Verteilung über der in Teil 3 oder 4 der
+Verordnung (EU) 2019/2033 vorgesehenen Eigenmittelanforderung an das
 Wertpapierinstitut liegt. Die Höhe des als angemessen betrachteten
 internen Kapitals kann solche Risiken oder Risikokomponenten umfassen,
 die von den Eigenmittelanforderungen in Teil 3 oder 4 der Verordnung
@@ -4484,33 +4503,31 @@ Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen
 Anordnungen der Bundesanstalt verstoßen hat.
 
 
-##### § 63 Gemischte Finanzholdinggesellschaften
+##### § 63 Gemischte Holdinggesellschaften
 
 (1) Ist das Mutterunternehmen eines Wertpapierinstituts eine gemischte
-Finanzholdinggesellschaft, so kann die Bundesanstalt, wenn sie die für
-die Beaufsichtigung des Wertpapierinstituts zuständige Behörde ist,
+Holdinggesellschaft, so kann die Bundesanstalt, wenn sie die für die
+Beaufsichtigung des Wertpapierinstituts zuständige Behörde ist,
 
-1.  von der gemischten Finanzholdinggesellschaft alle Informationen
-    verlangen, die für die Beaufsichtigung des Wertpapierinstituts
-    erforderlich sind und
+1.  von der gemischten Holdinggesellschaft alle Informationen verlangen,
+    die für die Beaufsichtigung des Wertpapierinstituts erforderlich sind
+    und
 
 
 2.  die Geschäfte zwischen dem Wertpapierinstitut und der gemischten
-    Finanzholdinggesellschaft sowie deren Tochterunternehmen
-    beaufsichtigen und von dem Wertpapierinstitut angemessene
-    Risikomanagementverfahren und interne Kontrollmechanismen,
-    einschließlich eines ordnungsgemäßen Berichtswesens und
-    ordnungsgemäßer Rechnungslegungsverfahren, verlangen, damit diese
-    Geschäfte ermittelt, quantifiziert, überwacht und kontrolliert werden
-    können.
+    Holdinggesellschaft sowie deren Tochterunternehmen beaufsichtigen und
+    von dem Wertpapierinstitut angemessene Risikomanagementverfahren und
+    interne Kontrollmechanismen, einschließlich eines ordnungsgemäßen
+    Berichtswesens und ordnungsgemäßer Rechnungslegungsverfahren,
+    verlangen, damit diese Geschäfte ermittelt, quantifiziert, überwacht
+    und kontrolliert werden können.
 
 
 
 
-(2) Die Bundesanstalt kann die von der gemischten
-Finanzholdinggesellschaft und ihren Tochterunternehmen erhaltenen
-Informationen vor Ort nachprüfen oder von externen Prüfern nachprüfen
-lassen.
+(2) Die Bundesanstalt kann die von der gemischten Holdinggesellschaft
+und ihren Tochterunternehmen erhaltenen Informationen vor Ort
+nachprüfen oder von externen Prüfern nachprüfen lassen.
 
 
 ### Abschnitt 5 - Anzeigepflichten; Wertpapierinstitute mit Mutterunternehmen im Drittstaat
@@ -4606,7 +4623,9 @@ Bundesbank unverzüglich anzuzeigen:
 
 13. die Absicht einer wesentlichen Auslagerung, den Vollzug der
     Auslagerung sowie wesentliche Änderungen und schwerwiegende Vorfälle
-    im Rahmen von bestehenden wesentlichen Auslagerungen und
+    im Rahmen von bestehenden wesentlichen Auslagerungen, die einen
+    wesentlichen Einfluss auf die Geschäftstätigkeit des
+    Wertpapierinstituts haben können, und
 
 
 14. die Absicht, sich mit einem anderen Wertpapierinstitut im Sinne dieses
@@ -4717,10 +4736,10 @@ Erlaubnis für die Dienstleistungen nach § 2 Absatz 2 Nummer 10 oder §
 Absatz 1 handelt, hat der bei der Deutschen Bundesbank geführten
 Evidenzzentrale vierteljährlich (Beobachtungszeitraum) die
 Kreditnehmer (Millionenkreditnehmer) anzuzeigen, deren Kreditvolumen 1
-Million Euro oder mehr beträgt (Millionenkreditmeldegrenze). Die §§
-19, 20 des Kreditwesengesetzes gelten entsprechend. Anzeigeinhalte,
-Anzeigefristen und nähere Bestimmungen zum Beobachtungszeitraum
-bestimmen sich nach der Rechtsverordnung aufgrund von § 14 Absatz 3.
+Million Euro oder mehr beträgt (Millionenkreditmeldegrenze). § 14
+Absatz 2 bis 4 und die §§ 19 und 20 des Kreditwesengesetzes sowie Teil
+2 und 3 der Großkredit- und Millionenkreditverordnung gelten
+entsprechend.
 
 (2) Ein Kleines oder Mittleres Wertpapierinstitut hat der Deutschen
 Bundesbank unverzüglich nach Ablauf eines jeden Quartals Informationen
@@ -4735,7 +4754,7 @@ insgesamt verkürzen.
 Wertpapierinstitute entsprechende Anwendung.
 
 
-#### § 67 Anzeigepflichten von Geschäftsleitern und Investmentholdinggesellschaften
+#### § 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften
 
 (1) Ein Geschäftsleiter eines Wertpapierinstituts und die Personen,
 die die Geschäfte einer Investmentholdinggesellschaft oder einer
@@ -4786,15 +4805,17 @@ Deutschen Bundesbank unverzüglich anzuzeigen:
 
 
 
-Eine Investmentholdinggesellschaft hat der Bundesanstalt und der
-Deutschen Bundesbank ferner einmal jährlich eine Sammelanzeige der
-Wertpapierinstitute, Kapitalverwaltungsgesellschaften,
-Finanzunternehmen, Anbieter von Nebendienstleistungen und
-Zahlungsinstitute oder E-Geld-Institute im Sinne des
-Zahlungsdiensteaufsichtsgesetzes, die ihr nachgeordnet sind,
-einzureichen.
+Die Verpflichtung nach Satz 1 Nummer 1, 2, 4 und 5 gilt auch für
+gemischte Finanzholdinggesellschaften.
 
-(3) Wird ein Kleines oder Mittleres Wertpapierinstitut oder eine als
+(3) Eine Investmentholdinggesellschaft oder eine gemischte
+Finanzholdinggesellschaft hat der Bundesanstalt und der Deutschen
+Bundesbank ferner einmal jährlich eine Sammelanzeige der
+Wertpapierinstitute, Finanzinstitute, Anbieter von
+Nebendienstleistungen und vertraglich gebundenen Vermittler, die ihr
+nachgeordnet sind, einzureichen.
+
+(4) Wird ein Kleines oder Mittleres Wertpapierinstitut oder eine als
 Mutterunternehmen geltende Investmentholdinggesellschaft oder
 gemischte Finanzholdinggesellschaft, der kein Großes
 Wertpapierinstitut angehört, zahlungsunfähig oder tritt Überschuldung
@@ -5003,7 +5024,7 @@ innerhalb dieser Frist abzuwarten, bevor es seine Tätigkeit in dem
 Aufnahmevertragsstaat aufnimmt. Leitet die Bundesanstalt die Angaben
 nach Absatz 1 nicht an die zuständigen Stellen des
 Aufnahmevertragsstaates weiter, teilt die Bundesanstalt dem
-Wertpapierinstitut innerhalb von drei Monaten nach Eingang sämtlicher
+Wertpapierinstitut innerhalb von einem Monat nach Eingang sämtlicher
 Angaben nach Absatz 1 die Gründe dafür mit.
 
 (4) Beabsichtigt der Betreiber eines multilateralen oder organisierten
@@ -5058,7 +5079,7 @@ Wertpapierinstitute zu hören.
 
 (1) Ein Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat
 darf ohne Erlaubnis durch die Bundesanstalt über eine
-Zweigniederlassung oder über nach § 3 Absatz 3 angezeigte vertraglich
+Zweigniederlassung oder über nach § 3 Absatz 2 angezeigte vertraglich
 gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im
 Inland haben, im Inland Wertpapierdienstleistungen erbringen, wenn das
 Wertpapierinstitut von der zuständigen Behörde seines
@@ -5096,25 +5117,23 @@ das Wertpapierinstitut mit Sitz in einem anderen Mitgliedstaat nur
 ansässigen vertraglich gebundenen Vermittler, die ein
 Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat heranzieht,
 ohne im Inland über eine Zweigniederlassung zu verfügen. Die
-Anzeigepflicht nach § 3 Absatz 3 Satz 1 bleibt hiervon unberührt.
+Anzeigepflicht nach § 3 Absatz 2 Satz 1 bleibt hiervon unberührt.
 
 (5) Folgende Regelungen sind auf die in Absatz 1 Satz 1 genannten
-Wertpapierinstitute anzuwenden:
+Zweigniederlassungen oder vertraglich gebundenen Vermittler
+anzuwenden:
 
-1.  § 5 Absatz 1 Satz 2, § 5 Absatz 4 und 6, § 7 Absatz 1 und 2 sowie die
-    §§ 6, 14, 22, 31, 32 und 35,
-
-
-2.  die §§ 14, 22, 24b und 24c des Kreditwesengesetzes,
-
-
-3.  § 25h Absatz 1 und 3 des Kreditwesengesetzes, soweit es sich um
+1.  § 5 Absatz 1 Satz 2, Absatz 4 und 6, die §§ 6 und 7 Absatz 1 und 2
+    sowie die §§ 11, 14, 31, 32 und 33 Absatz 1 und 2, soweit es sich um
     Anforderungen zur Verhinderung von Geldwäsche und
-    Terrorismusfinanzierung handelt, sowie § 25h Absatz 4 und 5 und die §§
-    25i bis 25k und 25m des Kreditwesengesetzes sowie
+    Terrorismusfinanzierung handelt, § 33 Absatz 3 und 4, die §§ 34 bis 37
+    sowie 66 Absatz 1,
 
 
-4.  § 17 des Finanzdienstleistungsaufsichtsgesetzes.
+2.  die §§ 24b und 24c des Kreditwesengesetzes sowie
+
+
+3.  § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
 
 
@@ -5134,7 +5153,11 @@ Wertpapierdienstleistungen von der Zulassung abgedeckt sind und das
 Wertpapierinstitut von den zuständigen Behörden im Einklang mit den
 einschlägigen unionsrechtlichen Vorgaben, insbesondere der Richtlinie
 2014/65/EU, der Richtlinie (EU) 2019/2034 sowie der Verordnung (EU)
-2019/2033, beaufsichtigt wird.
+2019/2033, beaufsichtigt wird. Die Bundesanstalt veröffentlicht die
+Namen von vertraglich gebundenen Vermittlern, die ihren Sitz oder
+gewöhnlichen Aufenthalt im Herkunftsvertragsstaat des
+Wertpapierinstituts haben und die das Wertpapierinstitut beabsichtigt,
+grenzüberschreitend im Inland einzusetzen.
 
 (2) Für die Tätigkeiten im Wege des grenzüberschreitenden
 Dienstleistungsverkehrs nach Absatz 1 gelten § 5 Absatz 4 und 6, §§
@@ -5194,14 +5217,23 @@ Bundesanstalt und der Deutschen Bundesbank den von ihm bestellten
 Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt
 kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung
 eines anderen Prüfers verlangen, wenn dies zur Erreichung des
-Prüfungszwecks geboten ist. Hat das Wertpapierinstitut eine
+Prüfungszwecks geboten ist. Die Bestellung eines anderen Prüfers ist
+in der Regel zur Erreichung des Prüfungszwecks geboten, wenn ein
+Wertpapierinstitut, das kein Unternehmen von öffentlichem Interesse
+nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, der
+Bundesanstalt für mindestens elf aufeinanderfolgende Geschäftsjahre
+denselben Prüfer angezeigt hat. Hat das Wertpapierinstitut eine
 Wirtschaftsprüfungsgesellschaft zum Prüfer bestellt, die in einem der
 beiden vorangegangenen Geschäftsjahre Prüfer des Wertpapierinstituts
 war, kann die Bundesanstalt den Wechsel des verantwortlichen
 Prüfungspartners verlangen, wenn die vorangegangene Prüfung
 einschließlich des Prüfungsberichts den Prüfungszweck nicht erfüllt
 hat; § 43 Absatz 3 Satz 3 der Wirtschaftsprüferordnung gilt
-entsprechend.
+entsprechend. Die Bundesanstalt kann die Bestellung eines anderen
+Prüfers oder den Wechsel des verantwortlichen Prüfungspartners auch
+dann verlangen, wenn ihr Tatsachen bekannt werden, die die Annahme
+rechtfertigen, dass der Prüfer seine Pflichten nach § 78 Absatz 3
+verletzt hat.
 
 (2) Das Gericht des Sitzes des Wertpapierinstituts hat auf Antrag der
 Bundesanstalt einen Prüfer zu bestellen, wenn
@@ -5238,10 +5270,8 @@ Bei der Prüfung des Jahresabschlusses hat er insbesondere
 festzustellen, ob das Wertpapierinstitut die folgenden
 Anzeigepflichten und Anforderungen erfüllt hat:
 
-1.  die Anzeigepflichten nach § 70 dieses Gesetzes, den Artikeln 54 und 55
-    der Verordnung (EU)
-    2019/2033                    sowie gemäß § 66 Absatz 1 dieses
-    Gesetzes,
+1.  die Anzeigepflichten nach den §§ 64, 66 und 70 bis 72 dieses Gesetzes,
+    den Artikeln 54 und 55 der Verordnung (EU) 2019/2033,
 
 
 2.  die Anforderungen der §§ 38 bis 46, soweit diese auf das
@@ -5280,18 +5310,25 @@ Anzeigepflichten und Anforderungen erfüllt hat:
         Absatz 2 sowie nach Artikel 29 der Verordnung (EU) 2016/1011,
 
 
-    e)  Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 und
+    e)  Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014,
 
 
     f)  den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 sowie nach Artikel
-        43 Absatz 5 und 6 der Verordnung (EU) 2017/2402.
+        43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 und
+
+
+    g)  den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen
+        Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für
+        auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und
+        zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014
+        sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
 
 
 
 
 
 
-Hat die Bundesanstalt nach Absatz 5 gegenüber dem Wertpapierinstitut
+Hat die Bundesanstalt nach Absatz 4 gegenüber dem Wertpapierinstitut
 Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom
 Prüfer zu berücksichtigen. Bei einem Mittleren Wertpapierinstitut, das
 aufgefordert wurde, einen Sanierungsplan nach § 12 des Sanierungs- und
@@ -5406,6 +5443,47 @@ Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1
 erlassen werden. Das Bundesministerium der Finanzen kann die
 Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, auf die Bundesanstalt übertragen.
+
+
+## Kapitel 7a - DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+
+
+### § 78a Zuständigkeit
+
+Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12
+Absatz 1 der Verordnung (EU) 2022/858.
+
+
+### § 78b Ausnahmen von der Erlaubnispflicht nach § 15
+
+(1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der
+Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach
+Artikel 8 oder Artikel 10 der Verordnung (EU) 2022/858 erteilt wurde,
+benötigen keine weitere Erlaubnis nach § 15, soweit die erbrachte
+Wertpapierdienstleistung von der besonderen Genehmigung umfasst ist.
+
+(2) Privatkunden im Sinne des § 67 Absatz 3 des
+Wertpapierhandelsgesetzes, die aufgrund einer Ausnahme nach Artikel 4
+Absatz 2 der Verordnung (EU) 2022/858 als Mitglied oder Teilnehmer
+eines multilateralen DLT-Handelssystems im Sinne des Artikels 2 Nummer
+6 der Verordnung (EU) 2022/858 oder eines DLT-Handels- und
+Abwicklungssystems im Sinne des Artikels 2 Nummer 10 der Verordnung
+(EU) 2022/858 das Eigengeschäft betreiben, benötigen hierfür keine
+Erlaubnis nach § 15 Absatz 4 Satz 1.
+
+
+### § 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+
+(1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU)
+2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie
+sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache
+vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder
+Teile davon ausschließlich in englischer Sprache erstellt und
+vorgelegt werden.
+
+(2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt
+elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von
+der Bundesanstalt zu bestimmen.
 
 
 ## Kapitel 8 - Maßnahmen bei Gefahr
@@ -5594,7 +5672,14 @@ bis zu drei Jahren oder Geldstrafe.
     Maßnahme nicht duldet,
 
 
-3.  entgegen
+3.  entgegen § 20 Absatz 8 einen Geschäftsleiter bestellt,
+
+
+4.  entgegen § 21 Absatz 6 ein Mitglied eines Verwaltungs- oder
+    Aufsichtsorgans bestellt,
+
+
+5.  entgegen
 
     a)  § 24 Absatz 1 Satz 1, Absatz 2 Satz 1 oder 4, Absatz 3 Satz 1, auch in
         Verbindung mit Satz 2 oder 3, oder entgegen § 24 Absatz 5, jeweils
@@ -5612,26 +5697,31 @@ bis zu drei Jahren oder Geldstrafe.
     eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
 
-4.  entgegen § 28 Absatz 1 nicht sicherstellt, dass ein vertraglich
+6.  entgegen § 28 Absatz 1 nicht sicherstellt, dass ein vertraglich
     gebundener Vermittler zuverlässig und geeignet ist und einen Kunden
     informiert und in Kenntnis setzt,
 
 
-5.  entgegen § 28 Absatz 2 einen Nachweis nicht oder nicht mindestens fünf
+7.  entgegen § 28 Absatz 2 einen Nachweis nicht oder nicht mindestens fünf
     Jahre aufbewahrt,
 
 
-6.  entgegen § 37 Nummer 1 eine Korrespondenzbeziehung oder eine sonstige
+8.  entgegen § 37 Nummer 1 eine Korrespondenzbeziehung oder eine sonstige
     Geschäftsbeziehung mit einer Bank-Mantelgesellschaft aufnimmt oder
     fortführt,
 
 
-7.  entgegen § 37 Nummer 2 erster Halbsatz ein Konto errichtet oder führt
+9.  entgegen § 37 Nummer 2 erster Halbsatz ein Konto errichtet oder führt,
+
+
+10. einer vollziehbaren Anordnung nach § 49, § 54 oder § 68 zuwiderhandelt
     oder
 
 
-8.  einer vollziehbaren Anordnung nach § 49, § 54 oder § 68
-    zuwiderhandelt.
+11. entgegen § 66 Absatz 2 Satz 1 oder § 76 Absatz 1 Satz 1 oder Satz 3
+    eine Finanzinformation, einen Jahresabschluss, einen Lagebericht oder
+    einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig einreicht.
 
 
 
@@ -5650,13 +5740,13 @@ und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012
 einen Inhaber der betreffenden Eigenmittelinstrumente leistet.
 
 (3) Ordnungswidrig handelt, wer entgegen Artikel 5 Absatz 1 der
-Durchführungsverordnung (EU)
-2017/1945              der Kommission vom 19. Juni 2017 zur Festlegung
-technischer Durchführungsstandards für Mitteilungen von und an
-Wertpapierfirmen, die eine Zulassung beantragen oder besitzen, gemäß
-der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates
-(ABl. L 276 vom 26.10.2017, S. 22) eine Mitteilung nicht, nicht
-richtig, nicht vollständig oder nicht rechtzeitig macht.
+Durchführungsverordnung (EU) 2017/1945 der Kommission vom 19. Juni
+2017 zur Festlegung technischer Durchführungsstandards für
+Mitteilungen von und an Wertpapierfirmen, die eine Zulassung
+beantragen oder besitzen, gemäß der Richtlinie 2014/65/EU des
+Europäischen Parlaments und des Rates (ABl. L 276 vom 26.10.2017, S.
+22) eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+rechtzeitig macht.
 
 (4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/2033
 des Europäischen Parlaments und des Rates vom 27. November 2019 über
@@ -5670,13 +5760,25 @@ er
     rechtzeitig macht,
 
 
-2.  entgegen Artikel 46 Absatz 1, 2 oder 3, Artikel 47, Artikel 48,
+2.  entgegen Artikel 43 Absatz 1 Unterabsatz 1
+
+    a)  liquide Aktiva über einen Zeitraum von mehr als einem Monat nicht hält
+        oder
+
+
+    b)  liquide Aktiva nicht hält und diese Handlung beharrlich wiederholt,
+
+
+
+
+
+3.  entgegen Artikel 46 Absatz 1, 2 oder 3, Artikel 47, Artikel 48,
     Artikel 49 Absatz 1, Artikel 50, Artikel 51 Absatz 1 oder Artikel 53
     eine Offenlegung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig vornimmt oder
 
 
-3.  entgegen Artikel 54 Absatz 1 Unterabsatz 1 Buchstabe b oder e in
+4.  entgegen Artikel 54 Absatz 1 Unterabsatz 1 Buchstabe b oder e in
     Verbindung mit Absatz 2 Unterabsatz 1 eine Meldung nicht richtig oder
     nicht vollständig macht.
 
@@ -5684,7 +5786,7 @@ er
 
 
 (5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3
-Buchstabe a, Nummer 4, 6 und 7 und der Absätze 2 und 4 mit einer
+bis 5 Buchstabe a, Nummer 6, 8 und 9 und der Absätze 2 und 4 mit einer
 Geldbuße bis zu fünf Millionen Euro geahndet werden. In den übrigen
 Fällen des Absatzes 1 und in den Fällen des Absatzes 3 kann die
 Ordnungswidrigkeit mit einer Geldbuße bis zu hunderttausend Euro
@@ -5694,31 +5796,28 @@ geahndet werden.
 jährlichen Gesamtumsatz von mehr als 50 Millionen Euro kann abweichend
 von Absatz 5 Satz 1 eine Ordnungswidrigkeit
 
-1.  nach Absatz 1 Nummer 3 Buchstabe a, Nummer 4, 6 und 7 und Absatz 4,
+1.  nach Absatz 1 Nummer 3 bis 5 Buchstabe a, Nummer 6, 8 und 9 und Absatz
+    4 sowie
 
 
-2.  nach Absatz 2 mit einer Geldbuße bis zu 10 Prozent des jährlichen
-    Gesamtumsatzes einschließlich des Bruttoertrags nach Satz 2 geahndet
-    werden. Der Bruttoertrag nach Satz 1 besteht aus Zinserträgen und
-    ähnlichen Erträgen, Erträgen aus Aktien, anderen Anteilsrechten und
-    variabel verzinslichen oder festverzinslichen Wertpapieren sowie
-    Erträgen aus Provisionen und Gebühren des Unternehmens im
-    Geschäftsjahr, das der Tat vorangegangen ist,
+2.  nach Absatz 2
 
 
 
-geahndet werden. Der Bruttoertrag nach Satz 1 Nummer 1 besteht aus
-Zinserträgen und ähnlichen Erträgen, Erträgen aus Aktien, anderen
-Anteilsrechten und variabel verzinslichen oder festverzinslichen
-Wertpapieren sowie Erträgen aus Provisionen und Gebühren des
-Unternehmens im Geschäftsjahr, das der Tat vorangegangen ist.
+mit einer Geldbuße bis zu 10 Prozent des jährlichen Gesamtumsatzes
+einschließlich des Bruttoertrags nach Satz 2 geahndet werden. Der
+Bruttoertrag nach Satz 1 besteht aus Zinserträgen und ähnlichen
+Erträgen, Erträgen aus Aktien, anderen Anteilsrechten und variabel
+verzinslichen oder festverzinslichen Wertpapieren sowie Erträgen aus
+Provisionen und Gebühren des Unternehmens im Geschäftsjahr, das der
+Tat vorangegangen ist.
 
 (7) Bei einer juristischen Person oder Personenvereinigung kann über
 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Nummer 1 hinaus eine
-Ordnungswidrigkeit nach Absatz 1 Nummer 3 Buchstabe a, Nummer 4, 6 und
-7 und Absatz 4 mit einer Geldbuße bis zum Zweifachen des durch den
-Verstoß erzielten Gewinns oder verhinderten Verlusts geahndet werden,
-sofern sich ein solcher Gewinn oder Verlust beziffern lässt.
+Ordnungswidrigkeit nach Absatz 1 Nummer 3 bis 5 Buchstabe a, Nummer 6,
+8 und 9 und Absatz 4 mit einer Geldbuße bis zum Zweifachen des durch
+den Verstoß erzielten Gewinns oder verhinderten Verlusts geahndet
+werden, sofern sich ein solcher Gewinn oder Verlust beziffern lässt.
 
 (8) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2
 

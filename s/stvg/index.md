@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 8 G v. 21.11.2023 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 21.11.2023 I Nr. 315
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt

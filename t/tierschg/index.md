@@ -498,6 +498,19 @@ töten.
 
 
 
+(3) Ab dem 13. Bebrütungstag ist es verboten, bei oder nach der
+Anwendung eines Verfahrens zur Geschlechtsbestimmung im Hühnerei
+
+1.  einen Eingriff an einem Hühnerei vorzunehmen, der den Tod des
+    Hühnerembryos verursacht, oder
+
+
+2.  einen Abbruch des Brutvorgangs vorzunehmen, der den Tod des
+    Hühnerembryos verursacht.
+
+
+
+
 
 ## Vierter Abschnitt - Eingriffe an Tieren
 
@@ -2485,7 +2498,7 @@ sind anzugeben:
 
 
 
-(2) Natürliche und juristische Personen und nicht rechtsfähige
+(2) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der der Behörde durch
 dieses Gesetz übertragenen Aufgaben erforderlich sind.
@@ -2995,6 +3008,10 @@ bestraft, wer
 
 
 6.  entgegen § 4a Abs. 1 ein warmblütiges Tier schlachtet,
+
+
+6a. entgegen § 4c Absatz 3 einen dort genannten Eingriff oder Abbruch
+    vornimmt,
 
 
 7.  entgegen § 5 Abs. 1 Satz 1 einen Eingriff ohne Betäubung vornimmt

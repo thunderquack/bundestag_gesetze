@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 166
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.5.2021 BAnz AT 28.05.2021 V2
-
-Mittelbare änderung durch
-:   Art. 1 V v. 20.10.2021 I 4738 ist berücksichtigt
+:   Art. 2 Abs. 6 G v. 4.12.2023 I Nr. 344
 
 
 ## Abschnitt 1 - Anwendungsbereich, Zuständigkeiten, Begriffsbestimmungen und Kommunikation
@@ -308,7 +305,8 @@ elektronisches Dokument, bei dem ein von der Landesstelle oder der
 Bundesanstalt zugelassenes Authentifizierungsverfahren verwendet wird.
 Die zuständigen Behörden können
 
-1.  die Verwendung einer qualifizierten elektronischen Signatur,
+1.  die Verwendung einer qualifizierten elektronischen Signatur oder ihres
+    qualifizierten elektronischen Siegels,
 
 
 2.  die unmittelbare Abgabe der Erklärung in einem elektronischen
@@ -328,7 +326,7 @@ Die zuständigen Behörden können
 
 zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist
 bei der Verwendung qualifizierter elektronischer Signaturen
-entsprechend anzuwenden. § 3a Absatz 2 Satz 5 des
+entsprechend anzuwenden. § 3a Absatz 3 Nummer 1 des
 Verwaltungsverfahrensgesetzes ist im Falle des Satzes 3 Nummer 2
 entsprechend anzuwenden.
 

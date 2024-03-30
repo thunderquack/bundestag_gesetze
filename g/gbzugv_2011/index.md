@@ -295,8 +295,8 @@ Absatzes 2 auf Verlangen nachzuweisen:
 
 
 2.  das zuständige Registergericht, falls das Unternehmen im Handels-,
-    Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen
-    ist,
+    Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
+    eingetragen ist,
 
 
 3.  Anschrift des Sitzes,
@@ -351,9 +351,9 @@ Erlaubnis erforderlich sind:
 
 1.  für das antragstellende Unternehmen:
 
-    a)  ein Auszug aus dem Handels-, Partnerschafts-, Genossenschafts- oder
-        Vereinsregister in beglaubigter Abschrift oder als amtlicher Ausdruck,
-        wenn eine entsprechende Eintragung besteht,
+    a)  ein Auszug aus dem Handels-, Genossenschafts-, Gesellschafts-,
+        Partnerschafts- oder Vereinsregister in beglaubigter Abschrift oder
+        als amtlicher Ausdruck, wenn eine entsprechende Eintragung besteht,
 
 
     b)  der Nachweis der Vertretungsberechtigung,

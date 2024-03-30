@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 20.8.2021 I 3932
 
+Änderung durch
+:   Art. 3 G v. 20.12.2023 I Nr. 392
+
 Änderung der inhaltsübersicht durch
 :   Art. 2 Nr. 1 G v. 20.8.2021 I 3930 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
 
@@ -276,8 +279,8 @@ Ein Reservewehrdienstverhältnis endet
 das 65. Lebensjahr vollenden, aus dem Reservewehrdienstverhältnis
 entlassen.
 
-(2) § 46 Absatz 2 Satz 1 Nummer 1 bis 4, 7 und 8 des Soldatengesetzes
-gilt entsprechend.
+(2) § 46 Absatz 2 Satz 1 Nummer 1 bis 4, 7, 8 und Absatz 2a des
+Soldatengesetzes gilt entsprechend.
 
 (3) Aus dem Reservewehrdienstverhältnis ist zu entlassen, wer
 

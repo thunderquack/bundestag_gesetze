@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3e G v. 28.6.2022 I 938
 
+Änderung durch
+:   Art. 8z G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -649,8 +652,8 @@ liegt in der Regel vor, wenn der Täter
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung
-(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 13. Januar
-2021 geltende Fassung maßgeblich.
+(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 20. Februar
+2023 geltende Fassung maßgeblich.
 
 
 ### § 20 Bußgeldvorschriften

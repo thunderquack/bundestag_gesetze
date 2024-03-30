@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1425
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.8.2011 I 1754
-
-Änderung durch
-:   Art. 2 V v. 16.12.2022 BAnz AT 20.12.2022 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 16.12.2022 BAnz AT 20.12.2022 V1
 
 
 ## Eingangsformel
@@ -260,6 +257,9 @@ Der Bundesminister für Jugend, Familie und Gesundheit
 
 
 ## Anlage Vorgaben für das elektronische Belegverfahren
+
+(Fundstelle: BAnz AT 20.12.2022 V1, 2 - 3)
+
 
 ## **1 Allgemeine Vorgaben zum Ausfüllen des Abgabebelegs**
 

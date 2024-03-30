@@ -16,11 +16,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1041
 
-Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 mit Ablauf des 31.3.2021 außer Kraft. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 mit Ablauf des 31.12.2025 außer Kraft.
-Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 idF d. Art. 1 Nr. 2 G v. 18.3.2021 I 353 mit Ablauf des 31.12.2022 außer Kraft, dadurch ist die Geltung der §§ 1 bis 5 über den 31.3.2021 hinaus bis zum 31.12.2022 verlängert worden. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 3 G v. 18.3.2021 I 353 mit Ablauf des 30.9.2027 außer Kraft, dadurch ist die Geltung des G über den 31.12.2025 hinaus bis zum 30.9.2027 verlängert worden.
-Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 Art. 1 Nr. 2 Buchst. a G v. 8.12.2022 I 2234 mit Ablauf des 31.12.2023 außer Kraft, dadurch ist die Geltung der §§ 1 bis 5 über den 31.3.2022 hinaus bis zum 31.12.2023 verlängert worden. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 2 Buchst. b G v. 8.12.2022 I 2234 mit Ablauf des 30.9.2028 außer Kraft, dadurch ist die Geltung des G über den 30.9.2027 hinaus bis zum 30.9.2028 verlängert worden.
+Stand: Die §§ 1 bis 5 treten gem. § 7 Abs. 2 Satz 1 idF d. Art. 3 Nr. 3 Buchst. a G v. 4.12.2023 I Nr. 344 mit Ablauf des 31.12.2024 außer Kraft. Im Übrigen tritt das G gem. § 7 Abs. 2 Satz 2 idF d. Art. 3 Nr. 3 Buchst. b G v. 4.12.2023 I Nr. 344 mit Ablauf des 30.9.2029 außer Kraft.
+Die geltung der §§ 1 bis 5 ist durch
+:   § 7 Abs. 2 Satz 1 idF d. Art. 1 Nr. 2 G v. 18.3.2021 I 353 über den 31.3.2021 hinaus bis zum 31.12.2022 verlängert worden. Im Übrigen ist die Geltung dieses G durch § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 3 G v. 18.3.2021 I 353 über den 31.12.2025 hinaus bis zum 30.9.2027 verlängert worden.
+
+Die geltung der §§ 1 bis 5 ist durch
+:   § 7 Abs. 2 Satz 1 idF d. Art. 1 Nr. 2 Buchst. a G v. 8.12.2022 I 2234 über den 31.12.2022 hinaus bis zum 31.12.2023 verlängert worden. Im Übrigen ist die Geltung dieses G durch § 7 Abs. 2 Satz 2 idF d. Art. 1 Nr. 2 Buchst. b G v. 8.12.2022 I 2234 über den 30.9.2027 hinaus bis zum 30.9.2028 verlängert worden.
+
+Die geltung der §§ 1 bis 5 ist durch
+:   § 7 Abs. 2 Satz 1 idF d. Art. 3 Nr. 3 Buchst. a G v. 4.12.2023 I Nr. 344 über den 31.12.2023 hinaus bis zum 31.12.2024 verlängert worden. Im Übrigen ist die Geltung dieses G durch § 7 Abs. 2 Satz 2 idF d. Art. 3 Nr. 3 Buchst. b G v. 4.12.2023 I Nr. 344 über den 30.9.2028 hinaus bis zum 30.9.2029 verlängert worden.
+
 Zuletzt geändert durch
-:   Art. 11 G v. 22.3.2023 I Nr. 88
+:   Art. 3 G v. 4.12.2023 I Nr. 344
 
 [^F811863_01_BJNR104100020]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
     Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
@@ -47,131 +54,70 @@ beschlossen:
 
 ## § 1 Anwendungsbereich
 
-Dieses Gesetz gilt für Verfahren nach
+Dieses Gesetz gilt für die öffentlich-rechtliche Verwaltungstätigkeit
+der Behörden, die landesrechtlich durch ein
+Verwaltungsverfahrensgesetz geregelt ist, das nicht auf das
+Verwaltungsverfahrensgesetz verweist, in Verfahren nach
 
-1.  dem Gesetz über die Umweltverträglichkeitsprüfung in der Fassung der
-    Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das zuletzt durch
-    Artikel 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2513)
-    geändert worden ist;
+1.  dem Gesetz über die Umweltverträglichkeitsprüfung;
 
 
 2.  dem Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung
-    vom 17. Mai 2013 (BGBl. I S. 1274), das zuletzt durch Artikel 1 des
-    Gesetzes vom 8. April 2019 (BGBl. I S. 432) geändert worden ist;
+    vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch
+    Artikel 11 Absatz 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr.
+    202) geändert worden ist;
 
 
-3.  dem Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212),
-    das zuletzt durch Artikel 2 Absatz 9 des Gesetzes vom 20. Juli 2017
-    (BGBl. I S. 2808) geändert worden ist;
+3.  dem Kreislaufwirtschaftsgesetz;
 
 
-4.  dem Baugesetzbuch in der Fassung der Bekanntmachung vom 3. November
-    2017 (BGBl. I S. 3634), das durch Artikel 6 des Gesetzes vom 27. März
-    2020 (BGBl. I S. 587) geändert worden ist;
+4.  dem Bundesberggesetz;
 
 
-5.  (weggefallen)
+5.  dem Atomgesetz;
 
 
-6.  dem Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), das
-    zuletzt durch Artikel 2 des Gesetzes vom 29. April 2020 (BGBl. I S.
-    864) geändert worden ist;
+6.  dem Strahlenschutzgesetz;
 
 
-7.  dem Atomgesetz in der Fassung der Bekanntmachung vom 15. Juli 1985
-    (BGBl. I S. 1565), das zuletzt durch Artikel 2 des Gesetzes vom 12.
-    Dezember 2019 (BGBl. I S. 2510) geändert worden ist;
+7.  dem Energiewirtschaftsgesetz;
 
 
-8.  dem Strahlenschutzgesetz vom 27. Juni 2017 (BGBl. I S. 1966), das
-    zuletzt durch Artikel 11 des Gesetzes vom 12. Dezember 2019 (BGBl. I
-    S. 2510) geändert worden ist;
+8.  dem Wasserhaushaltsgesetz;
 
 
-9.  dem Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621),
-    das zuletzt durch Artikel 1 des Gesetzes vom 5. Dezember 2019 (BGBl. I
-    S. 2002) geändert worden ist;
+9.  dem Windenergie-auf-See-Gesetz;
 
 
-10. dem Netzausbaubeschleunigungsgesetz Übertragungsnetz vom 28. Juli 2011
-    (BGBl. I S. 1690), das zuletzt durch Artikel 2 des Gesetzes vom 13.
-    Mai 2019 (BGBl. I S. 706) geändert worden ist;
+10. dem Flurbereinigungsgesetz;
 
 
-11. dem Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das
-    zuletzt durch Artikel 2 des Gesetzes vom 4. Dezember 2018 (BGBl. I S.
-    2254) geändert worden ist;
+11. dem Bundesnaturschutzgesetz;
 
 
-12. dem Windenergie-auf-See-Gesetz vom 13. Oktober 2016 (BGBl. I S. 2258,
-    2310), das zuletzt durch Artikel 21 des Gesetzes vom 13. Mai 2019
-    (BGBl. I S. 706) geändert worden ist;
+12. dem Bundesfernstraßengesetz;
 
 
-13. dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16.
-    März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes
-    vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist;
+13. dem Personenbeförderungsgesetz;
 
 
-14. dem Bundesnaturschutzgesetz vom 29. Juli 2009 (BGBl. I S. 2542), das
-    zuletzt durch Artikel 1 des Gesetzes vom 4. März 2020 (BGBl. I S. 440)
-    geändert worden ist;
+14. dem Allgemeinen Eisenbahngesetz;
 
 
-15. dem Postgesetz vom 22. Dezember 1997 (BGBl. I S. 3294), das zuletzt
-    durch Artikel 6 des Gesetzes vom 30. November 2019 (BGBl. I S. 1942)
-    geändert worden ist;
+15. dem Bundeswasserstraßengesetz;
 
 
-16. dem Telekommunikationsgesetz vom 22. Juni 2004 (BGBl. I S. 1190), das
-    zuletzt durch Artikel 1 des Gesetzes vom 6. Februar 2020 (BGBl. I S.
-    146) geändert worden ist;
+16. dem Luftverkehrsgesetz und
 
 
-17. dem Bundesfernstraßengesetz in der Fassung der Bekanntmachung vom 28.
-    Juni 2007 (BGBl. I S. 1206), das zuletzt durch Artikel 2 des Gesetzes
-    vom 3. März 2020 (BGBl. I S. 433) geändert worden ist;
-
-
-18. dem Personenbeförderungsgesetz in der Fassung der Bekanntmachung vom
-    8\. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 4 des
-    Gesetzes vom 3. März 2020 (BGBl. I S. 433) geändert worden ist;
-
-
-19. dem Allgemeinen Eisenbahngesetz vom 27. Dezember 1993 (BGBl. I S.
-    2378, 2396; 1994 I S. 2439), das zuletzt durch Artikel 1 des Gesetzes
-    vom 16. März 2020 (BGBl. I S. 501) geändert worden ist;
-
-
-20. dem Eisenbahnregulierungsgesetz vom 29. August 2016 (BGBl. I S. 2082),
-    das durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1040)
-    geändert worden ist;
-
-
-21. dem Bundeswasserstraßengesetz in der Fassung der Bekanntmachung vom
-    23\. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), das zuletzt durch
-    Artikel 4 des Gesetzes vom 29. November 2018 (BGBl. I S. 2237)
-    geändert worden ist;
-
-
-22. dem Luftverkehrsgesetz in der Fassung der Bekanntmachung vom 10. Mai
-    2007 (BGBl. I S. 698), das zuletzt durch Artikel 2 des Gesetzes vom
-    22\. April 2020 (BGBl. I S. 840) geändert worden ist;
-
-
-23. dem Gentechnikgesetz in der Fassung der Bekanntmachung vom 16.
-    Dezember 1993 (BGBl. I S. 2066), das zuletzt durch Artikel 21 des
-    Gesetzes vom 20. November 2019 (BGBl. I S. 1626) geändert worden ist;
-
-
-24. dem Maßnahmengesetzvorbereitungsgesetz vom 22. März 2020 (BGBl. I S.
-    640), das durch Artikel 4 des Gesetzes vom 8. August 2020 (BGBl. I S.
-    1795) geändert worden ist.
+17. dem Gentechnikgesetz.
 
 
 
-Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils
-geltenden Fassung anzuwenden.
+Dieses Gesetz gilt auch für das Netzausbaubeschleunigungsgesetz
+Übertragungsnetz. Wird in den in Satz 1 genannten Gesetzen oder in
+diesem Gesetz auf das Verwaltungsverfahrensgesetz verwiesen, so ist
+die bis einschließlich 31. Dezember 2023 geltende Fassung anzuwenden.
 
 
 ## § 2 Ortsübliche und öffentliche Bekanntmachungen
@@ -182,7 +128,7 @@ den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder
 die Auslegung zur Einsichtnahme vorgesehen, so können der Anschlag
 oder die Auslegung durch eine Veröffentlichung des Inhalts der
 Bekanntmachung im Internet ersetzt werden, wenn die jeweilige
-Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2023
+Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2024
 endet. Zusätzlich hat zumindest eine Bekanntmachung in einem amtlichen
 Veröffentlichungsblatt oder einer örtlichen Tageszeitung zu erfolgen.
 
@@ -197,7 +143,7 @@ von Unterlagen oder Entscheidungen angeordnet, auf die nach den für
 die Auslegung geltenden Vorschriften nicht verzichtet werden kann, so
 kann die Auslegung durch eine Veröffentlichung im Internet ersetzt
 werden, wenn die jeweilige Auslegungsfrist spätestens mit Ablauf des
-31\. Dezember 2023 endet. Für die Veröffentlichung im Internet gilt §
+31\. Dezember 2024 endet. Für die Veröffentlichung im Internet gilt §
 27a Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes entsprechend. In
 der Bekanntmachung der Auslegung ist darauf hinzuweisen, dass und wo
 die Veröffentlichung im Internet erfolgt. Soweit Regelungen in den in
@@ -231,7 +177,7 @@ Format einreicht.
 (1) In Verfahren nach den in § 1 genannten Gesetzen kann die Abgabe
 von Erklärungen zur Niederschrift bei der Behörde ausgeschlossen
 werden, wenn die jeweilige Erklärungsfrist spätestens mit Ablauf des
-31\. Dezember 2023 endet und die zuständige Behörde festgestellt hat,
+31\. Dezember 2024 endet und die zuständige Behörde festgestellt hat,
 dass innerhalb der Erklärungsfrist eine Entgegennahme zur
 Niederschrift nicht oder nur mit unverhältnismäßigem Aufwand möglich
 sein würde.
@@ -304,7 +250,7 @@ Beteiligungsmöglichkeit vorab nicht erteilt werden konnte.
 
 (2) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 2
 bis 5 Gebrauch gemacht worden ist und die mit Ablauf des 31. Dezember
-2023 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses
+2024 noch nicht abgeschlossen sind, gelten die Bestimmungen dieses
 Gesetzes bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
 (3) Die für die in § 1 genannten Verfahren geltenden
@@ -319,6 +265,6 @@ Bekanntmachung erfüllt ist.
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 (2) Die §§ 1 bis 5 des Planungssicherstellungsgesetzes treten mit
-Ablauf des 31. Dezember 2023 außer Kraft. Im Übrigen tritt das Gesetz
-mit Ablauf des 30. September 2028 außer Kraft.
+Ablauf des 31. Dezember 2024 außer Kraft. Im Übrigen tritt das Gesetz
+mit Ablauf des 30. September 2029 außer Kraft.
 

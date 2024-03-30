@@ -309,7 +309,8 @@ Der Bundesminister für Verkehr
 
 ## Anlage zu § 2
 
-Fundstelle des Originaltextes: BGBl. I 1977, 1463 - 1464
+(Fundstelle des Originaltextes: BGBl. I 1977, 1463 - 1464;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Als Kostenbestandteile im Sinne von § 2 PBefAusglV sind folgende
         Positionen in Ansatz zu bringen:
@@ -527,8 +528,8 @@ Fundstelle des Originaltextes: BGBl. I 1977, 1463 - 1464
 
 *    *
     *   Für die Mitarbeit des Unternehmers in Einzelunternehmen und
-        Personengesellschaften und ggf. unentgeltlich mithelfende
-        Familienangehörige sind angemessene Kosten einzusetzen.
+        rechtsfähigen Personengesellschaften und ggf. unentgeltlich
+        mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 
 
 *    *   9.

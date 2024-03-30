@@ -19,10 +19,7 @@ Fundstelle
 :   BGBl I: 2003, 851
 
 Zuletzt geändert durch
-:   Art. 2d G v. 18.11.2020 I 2397
-
-Änderung durch
-:   Art. 1 V v. 18.10.2022 I 1806 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 18.10.2022 I 1806
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein

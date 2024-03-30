@@ -429,8 +429,8 @@ vorauszahlbaren Beträgen gezahlt.
 #### § 12a
 
 Erhöhen sich wiederkehrende Leistungen aus der bundesgesetzlichen
-Rentenversicherung oder nach dem Bundesversorgungsgesetz, so mindern
-sich die Renten nach diesem Gesetz insgesamt höchstens um den
+Rentenversicherung oder nach dem Vierzehnten Buch Sozialgesetzbuch, so
+mindern sich die Renten nach diesem Gesetz insgesamt höchstens um den
 Monatsbetrag, um den sich die wiederkehrenden Leistungen monatlich
 erhöht haben oder erhöhen. Dies gilt sinngemäß im Falle der
 erstmaligen Festsetzung einer Rente nach diesem Gesetz.
@@ -960,12 +960,12 @@ Verfolgten in eine vergleichbare Beamtengruppe führt.
 (4) Bei der Bemessung des Hundertsatzes sind die persönlichen und
 wirtschaftlichen Verhältnisse des Verfolgten, insbesondere seine
 nachhaltigen Einkünfte einschließlich der Versorgungsbezüge, der
-Leistungen nach dem Gesetz über die Versorgung der Opfer des Krieges
-(Bundesversorgungsgesetz), der Leistungen aus der gesetzlichen
-Rentenversicherung und der Beträge, die er zu erwerben unterläßt,
-obwohl ihm der Erwerb zuzumuten ist, sowie der Grad der Minderung
-seiner Erwerbsfähigkeit und seine Belastung mit der Sorge für
-unterhaltsberechtigte Angehörige angemessen zu berücksichtigen.
+Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch, der Leistungen
+aus der gesetzlichen Rentenversicherung und der Beträge, die er zu
+erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist, sowie der
+Grad der Minderung seiner Erwerbsfähigkeit und seine Belastung mit der
+Sorge für unterhaltsberechtigte Angehörige angemessen zu
+berücksichtigen.
 
 (5) Bei der Berechnung der Rente ist die jeweilige Höhe des
 Diensteinkommens vergleichbarer Beamtengruppen im Sinne des Absatzes 3
@@ -5505,8 +5505,8 @@ ersetzt worden sind.
 #### § 227c
 
 Ärztliche und zahnärztliche Leistungen werden nach den für die
-Behandlung von Beschädigten im Sinne des Bundesversorgungsgesetzes
-maßgebenden Sätzen vergütet. Apotheker und andere der
+Behandlung von Geschädigten im Sinne des Vierzehnten Buches
+Sozialgesetzbuch maßgebenden Sätzen vergütet. Apotheker und andere der
 Krankenbehandlung dienende Personen sowie Krankenanstalten und
 Einrichtungen haben nur auf die für Mitglieder der Krankenkasse zu
 zahlende Vergütung Anspruch.

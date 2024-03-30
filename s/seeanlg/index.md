@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2258, 2348
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.12.2020 I 2682
+:   Art. 14a G v. 22.12.2023 I Nr. 405
 
 
 ## § 1 Geltungsbereich
@@ -84,11 +84,9 @@ anderes bestimmt. § 36 Absatz 2 und 3 des
 Verwaltungsverfahrensgesetzes ist anzuwenden.
 
 (4) Anlagen dürfen nur planfestgestellt, plangenehmigt oder genehmigt
-werden, wenn sie die Nutzung der im Bundesfachplan Offshore nach § 17a
-des Energiewirtschaftsgesetzes festgelegten Räume für
-Windenergieanlagen auf See oder der im Flächenentwicklungsplan nach
-§ 5 des Windenergie-auf-See-Gesetzes festgelegten Gebiete und Flächen
-zur Stromerzeugung aus Windenergie auf See sowie die Übertragung des
+werden, wenn sie die Nutzung der im Flächenentwicklungsplan nach § 5
+des Windenergie-auf-See-Gesetzes festgelegten Gebiete und Flächen zur
+Stromerzeugung aus Windenergie auf See sowie die Übertragung des
 Stroms und die Nutzung der im Flächenentwicklungsplan nach § 5 des
 Windenergie-auf-See-Gesetzes festgelegten sonstigen
 Energiegewinnungsbereiche nicht wesentlich behindern. Hiervon kann
@@ -355,9 +353,9 @@ die Errichtung von
 2.  Offshore-Anbindungsleitungen, einschließlich Standorten und
     Suchräumen, grenzüberschreitenden Seekabelsystemen oder Verbindungen
     der Netzanbindungssysteme untereinander nach den Festlegungen des
-    Bundesfachplans Offshore nach § 17a des Energiewirtschaftsgesetzes
-    oder des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-
-    Gesetzes.
+    Bundesfachplans Offshore nach § 17a des Energiewirtschaftsgesetzes in
+    der bis zum 28. Dezember 2023 geltenden Fassung oder des
+    Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes.
 
 
 

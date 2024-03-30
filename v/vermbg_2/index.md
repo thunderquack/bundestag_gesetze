@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4. 3.1994 I 406;
 
 Zuletzt geändert durch
-:   Art. 111 G v. 20.11.2019 I 1626
+:   Art. 34 G v. 11.12.2023 I Nr. 354
 
 
 ## § 1 Persönlicher Geltungsbereich
@@ -794,24 +794,11 @@ und Abs. 4 ist nur mit Zustimmung des Arbeitgebers zulässig.
 nach Absatz 2, wenn er gegenüber dem Unternehmen, dem Institut oder
 dem in § 3 Absatz 3 genannten Gläubiger in die Datenübermittlung nach
 Maßgabe des § 15 Absatz 1 Satz 2 und 3 eingewilligt hat und sein
-Einkommen folgende Grenzen nicht übersteigt:
-
-1.  bei nach § 2 Abs. 1 Nr. 1 bis 3, Abs. 2 bis 4 angelegten
-    vermögenswirksamen Leistungen die Einkommensgrenze von 20 000 Euro
-    oder bei einer Zusammenveranlagung nach § 26b des
-    Einkommensteuergesetzes von 40 000 Euro oder
-
-
-2.  bei nach § 2 Abs. 1 Nr. 4 und 5 angelegten vermögenswirksamen
-    Leistungen die Einkommensgrenze von 17 900 Euro oder bei einer
-    Zusammenveranlagung nach § 26b des Einkommensteuergesetzes von 35 800
-    Euro.
-
-
-
-Maßgeblich ist das zu versteuernde Einkommen nach § 2 Absatz 5 des
-Einkommensteuergesetzes in dem Kalenderjahr, in dem die
-vermögenswirksamen Leistungen angelegt worden sind.
+Einkommen die Grenze von 40 000 Euro oder bei einer
+Zusammenveranlagung nach § 26b des Einkommensteuergesetzes von 80 000
+Euro nicht übersteigt. Maßgeblich ist das zu versteuernde Einkommen
+nach § 2 Absatz 5 des Einkommensteuergesetzes in dem Kalenderjahr, in
+dem die vermögenswirksamen Leistungen angelegt worden sind.
 
 (2) Die Arbeitnehmer-Sparzulage beträgt 20 Prozent der nach § 2 Absatz
 1 Nummer 1 bis 3, Absatz 2 bis 4 angelegten vermögenswirksamen
@@ -1152,6 +1139,11 @@ Institut oder der in § 3 Absatz 3 genannte Gläubiger verpflichtet, die
 Daten nach Maßgabe des § 15 Absatz 1 Satz 1 zu übermitteln, es sei
 denn, der Arbeitnehmer hat der Datenübermittlung schriftlich
 widersprochen.
+
+(17) § 13 Absatz 1 Satz 1 in der Fassung des Artikels 34 des Gesetzes
+vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für
+vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
+2023 angelegt werden.
 
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung

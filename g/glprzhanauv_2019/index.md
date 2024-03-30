@@ -17,7 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 929
 
-Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 31.7.2023 hinaus bis zum 31.7.2026 verlängert worden
+Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 1.8.2023 hinaus bis zum 1.8.2026 verlängert worden
 
 ## Eingangsformel
 

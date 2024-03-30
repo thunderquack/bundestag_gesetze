@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2722, 2723
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.6.2021 I 1663
+:   Art. 1 G v. 27.1.2024 I Nr. 26
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1692,6 +1692,10 @@ Dauer dieser Eichfrist keiner Eichung.
 
 
 
+Satz 1 Nummer 2 ist nicht anzuwenden auf ein Smart-Meter-Gateway nach
+§ 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes, wenn ein Smart-
+Meter-Gateway-Administrator eine Software-Aktualisierung nach den
+Vorgaben des § 40 Absatz 5 der Mess- und Eichverordnung durchführt.
 
 (3) Die Eichung erfolgt auf Antrag. Bei der Eichung können vorgelegte
 aktuelle Prüf- und Untersuchungsergebnisse berücksichtigt werden.

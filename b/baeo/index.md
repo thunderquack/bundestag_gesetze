@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.4.1987 I 1218;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 15.8.2019 I 1307
+:   Art. 1 V v. 20.3.2024 I Nr. 99
 
 
 ## I. - Der ärztliche Beruf
@@ -1238,10 +1238,10 @@ entsprechend.
 (Inkrafttreten, Außerkrafttreten)
 
 
-### Anlage (zu § 3 Abs. 1 Satz 2)
+### Anlage (zu § 3 Absatz 1 Satz 2)
 
-(Fundstelle: BGBl. I 2007, 2947 - 2950; bzgl. einzelner Änderungen
-vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 99, S. 1 - 4)
+
 
 *    *   Land
 
@@ -1249,17 +1249,17 @@ vgl. Fußnote)
 
     *   Ausstellende Stelle
 
-    *   Zusätzliche
-        Bescheinigung
+    *   Zusätzliche Bescheinigung
 
     *   Stichtag
 
 
-*    *   *                     /
+*    *   België/
         Belgique/
         Belgien
 
-    *   Diploma van arts/*                      de docteur en médecine
+    *   Diploma van arts/Diplôme de docteur en médecine
+        Diplôme de „médecin“/Master in de geneeskunde
 
     *
         –   Les universités/
@@ -1267,8 +1267,7 @@ vgl. Fußnote)
 
 
         –   Le Jury compétent
-            d'enseignement de
-            la Communauté
+            d´enseignement de la Communauté
             française/De bevoegde
             Examencommissie
             van de Vlaamse
@@ -1281,60 +1280,42 @@ vgl. Fußnote)
     *   20. Dezember 1976
 
 
-*    *   *
+*    *   България
 
-    *   *
-        *
-        *
+    *   Диплома за висше образование на образователно-квалификационна степен
+        „магистър“ по Медицина“ и професионална квалификация „Магистър-лекар“
 
-    *   *
-        *
+    *   Университет
 
     *
     *   1. Januar 2007
 
 
-*    *   *
-        republika
+*    *   Česko
 
-    *   Diplom o*                      studia ve*
-        programu*                      (doktor medicíny, MUDr.)
+    *   Diplom o ukončení studia ve studijním programu všeobecné lékařství
+        (doktor medicíny, MUDr.)
 
-    *   *                      fakulta univerzity v*
-        republice
+    *   Lékářská fakulta univerzity v České republice
 
     *
-        –   *
-            o*
-            **
-
-
-
-
     *   1. Mai 2004
 
 
 *    *   Danmark
 
-    *   Bevis for*
-        *
-        *
+    *   Bevis for kandidatuddannelsen i medicin (cand.med.)
+        Bevis for bestået lægevidenskabelig embedseksamen (cand.med.)
 
-    *   Medicinsk
-        *
+    *   Universitet
 
     *
-        –   Autorisation som*                           ,
-            udstedt af
-            Sundhedsstyrelsen og
+        1.  Autorisation som læge
 
 
-        –   Tilladelse til
+        2.  Tilladelse til
             selvstændigt virke som
-            *                            (doku-
-            mentation for*                            praktisk
-            uddannelse), udstedt af
-            Sundhedsstyrelsen
+            læge
 
 
 
@@ -1344,7 +1325,9 @@ vgl. Fußnote)
 
 *    *   Eesti
 
-    *   Diplom arstiteaduse*                      läbimise kohta
+    *   Arstikraad
+        Degree in Medicine (MD)
+        Diplom arstiteaduse õppekava läbimise kohta
 
     *   Tartu Ülikool
 
@@ -1352,18 +1335,18 @@ vgl. Fußnote)
     *   1. Mai 2004
 
 
-*    *   *
+*    *   Ελλάς
 
-    *   *
+    *   Πτυχίο Ιατρικής
 
     *
-        –   *
-            *
+        –   Ιατρική Σχολή
+            Πανεπιστημίου,
 
 
-        –   *
-            *
-            *
+        –   Σχολή Επιστημών
+            Υγείας, Τμήμα Ιατρικής
+            Πανεπιστημίου
 
 
 
@@ -1372,10 +1355,14 @@ vgl. Fußnote)
     *   1. Januar 1981
 
 
-*    *   *
+*    *   España
 
     *   Título de Licenciado
-        en Medicina y*
+        en Medicina y Cirugía
+        Título de Licenciado
+        en Medicina
+        Título de Graduado/a
+        en Medicina
 
     *
         –   Ministerio de
@@ -1394,8 +1381,10 @@ vgl. Fußnote)
 
 *    *   France
 
-    *   *                      d'Etat de docteur
-        en médecine
+    *   Diplôme d´Etat de docteur
+        en Médicine
+[^F829550_07_BJNR018570961BJNE003009130]
+        Diplôme de fin de deuxième cycle des études médicales
 
     *   Universités
 
@@ -1403,12 +1392,20 @@ vgl. Fußnote)
     *   20. Dezember 1976
 
 
+*    *
+    *[^F829550_08_BJNR018570961BJNE003009130]
+   Diplôme de formation approfondie en sciences médicales
+
+    *
+    *   Certificat de compétence clinique
+
+    *
+
 *    *   Hrvatska
 
     *   Diploma „doktor medicine/doktorica medicine“
 
-    *   Medicinski fakulteti sveu*                     ilišta u
-        Republici Hrvatskoj
+    *   Medicinski fakulteti sveučilišta u Republici Hrvatskoj
 
     *
     *   1. Juli 2013
@@ -1427,24 +1424,28 @@ vgl. Fußnote)
 
 *    *   Italia
 
-    *   Diploma di laurea in medicina
-        e chirurgia
+    *   Diploma di laurea in medicina e chirurgia
 
-    *   *
+    *   Università
 
-    *   Diploma di
-        abilitazione all'esercizio della medicina
-        e chirurgia
+    *[^F829550_10_BJNR018570961BJNE003009130]
+   Diploma di abilitazione all´esercizio della medicina e chirurgia
 
     *   20. Dezember 1976
 
 
-*    *   *
+*    *   Κύπρος
 
-    *   *
-        *
+    *   Πιστοποιητικό Εγγραφής Ιατρού
+        Πτυχίο Ιατρικής
 
-    *   *
+    *   Ιατρικό Συμβούλιο
+[^F829550_01a_BJNR018570961BJNE003009130]
+        Ιατρικη σχολη πανεπιστημιου κυπρου
+[^F829550_02_BJNR018570961BJNE003009130]
+        Ευρωπαϊκό Πανεπιστήμιο Κύπρου
+[^F829550_03_BJNR018570961BJNE003009130]
+        Πανεπιστήμιο Λευκωσίας
 
     *
     *   1. Mai 2004
@@ -1452,10 +1453,10 @@ vgl. Fußnote)
 
 *    *   Latvija
 
-    *   *                      diploms
+    *   ārsta diploms
 
-    *   *                      tipa
-        augstskola
+    *   Universitātes tipa augstskola
+        Universitāte
 
     *
     *   1. Mai 2004
@@ -1463,28 +1464,48 @@ vgl. Fußnote)
 
 *    *   Lietuva
 
-    *   *                      mokslo diplomas,
-        *
-        *
+    *
+        1.  Aukštojo mokslo
+            diplomas, nurodantis
+            suteiktą gydytojo
+            kvalifikaciją
+
+
+        2.  Magistro diplomas
+            (medicinos magistro
+            kvalifikacinis laipsnis ir
+            gydytojo kvalifikacija)
+
+
+
 
     *   Universitetas
 
-    *   *
-        *                     , nurodantis
-        *
-        *
-        *
+    *
+        1.  Internatūros pažymėjimas, nurodantis
+            suteiktą
+            medicinos
+            gydytojo
+            profesinę
+            kvalifikaciją
+
+
+        2.  Internatūros pažymėjimas (medicinos
+            gydytojo
+            profesinė
+            kvalifikacija)
+
+
+
 
     *   1. Mai 2004
 
 
 *    *   Luxembourg
 
-    *   *                      d'Etat de docteur
-        en médecine, chirurgie et
-        accouchements,
+    *   Diplôme d´Etat de docteur en médecine, chirurgie et accouchements
 
-    *   Jury d'examen d'Etat
+    *   Jury d´examen d´Etat
 
     *   Certificat de stage
 
@@ -1493,9 +1514,7 @@ vgl. Fußnote)
 
 *    *   Magyarország
 
-    *   *                      orvos oklevél
-        (doctor medicinae univer-
-        sae, röv.: dr. med. univ.)
+    *   Okleveles orvosdoktor oklevél (dr. med)
 
     *   Egyetem
 
@@ -1505,13 +1524,12 @@ vgl. Fußnote)
 
 *    *   Malta
 
-    *   Lawrja ta' Tabib tal-Medi-
-        *                      u*
+    *   Lawrja ta‘ Tabib
+        tal-Mediċina u l-Kirurġija
 
-    *   *                      ta' Malta
+    *   Università ta‘ Malta
 
-    *   *
-        *                      mill-Kunsill Mediku
+    *   Ċertifikat ta‘ reġistrazzjoni maħruġ mill-Kunsill Mediku
 
     *   1. Mai 2004
 
@@ -1519,8 +1537,9 @@ vgl. Fußnote)
 *    *   Nederland
 
     *   Getuigschrift van met
-        goed gevolg afgelegd
-        artsexamen
+        goed gevolg afgelegd artsexamen
+[^F829550_09_BJNR018570961BJNE003009130]
+        Master of Science in de Geneeskunde
 
     *   Faculteit Geneeskunde
 
@@ -1530,33 +1549,10 @@ vgl. Fußnote)
 
 *    *   Österreich
 
-    *
-        1.  Urkunde über die
-            Verleihung des
-            akademischen Grades
-            Doktor der gesamten
-            Heilkunde (bzw. Doctor
-            medicinae universae,
-            Dr.med.univ.)
+    *   Urkunde über die Verleihung des akademischen Grades Doktor der
+        gesamten Heilkunde (bzw. Doctor medicinae universae, Dr. med. univ.)
 
-
-        2.  Diplom über die spezifische Ausbildung zum Arzt für
-            Allgemeinmedizin bzw.
-            Facharztdiplom
-
-
-
-
-    *
-        1.  Medizinische Fakultät
-            einer Universität
-
-
-        2.  Österreichische
-            Ärztekammer
-
-
-
+    *   Medizinische Fakultät einer Universität, bzw. Medizinische Universität
 
     *
     *   1. Januar 1994
@@ -1564,27 +1560,17 @@ vgl. Fußnote)
 
 *    *   Polska
 
-    *   Dyplom*                      na kierunku
-        lekarskim z*
+    *   Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem
+        „lekarz“
 
-    *
-        1.  Akademia Medyczna
+    *   Szkoły wyższe
 
-
-        2.  Uniwersytet Medyczny
-
-
-        3.  Collegium
-            Medicum
-            Uniwersytetu
-            *
-
-
-
-
-    *   Lekarski
-        Egzamin
-        *
+    *[^F829550_04_BJNR018570961BJNE003009130]
+   Świadectwo złożenia Lekarskiego Egzaminu Państwowego
+        /Świadectwo złożenia Lekarskiego Egzaminu
+[^F829550_05_BJNR018570961BJNE003009130]
+        Końcowego
+        Zaświadczenie o ukończeniu stażu podyplomowego
 
     *   1. Mai 2004
 
@@ -1592,22 +1578,23 @@ vgl. Fußnote)
 *    *   Portugal
 
     *   Carta de Curso de licenciatura em medicina
+        Certificado de mestrado integrado em medicina
 
     *   Universidades
 
-    *   Diploma
-        comprovativo da*
-        do internato
-        geral emitido pelo Ministério da Saúde
+    *   Certificado emitido pela Ordem dos Médicos
 
     *   1. Januar 1986
 
 
-*    *   *
+*    *   România
 
-    *   *                      de*                      de doctor medic
+    *   Diplomă de licenţă de doctor medic
+[^F829550_06_BJNR018570961BJNE003009130]
+        Diploma de licenţă şi master
 
-    *   *
+    *   Universităţi
+        Ministerul Educaţiei Naţionale
 
     *
     *   1. Januar 2007
@@ -1620,17 +1607,16 @@ vgl. Fußnote)
 
     *   Univerza
 
-    *
+    *   Potrdilo o Opravljenem Strokovnem Izpitu za Poklic Zdravnik/Zdravnica
+
     *   1. Mai 2004
 
 
 *    *   Slovensko
 
-    *   *                      diplom o
-        *                      akademického titulu „doktor*
-        “ („MUDr.“)
+    *   DIPLOM všeobecné lekárstvo doktor všeobecného lekárstva („MUDr.“)
 
-    *   Vysoká*
+    *   Univerzita
 
     *
     *   1. Mai 2004
@@ -1639,34 +1625,11 @@ vgl. Fußnote)
 *    *   Suomi/
         Finland
 
-    *   Lääketieteen lisensiaatin
-        tutkinto/Medicine
-        licentiatexamen
+    *   Lääketieteen lisensiaatin tutkinto/Medicine licentiatexamen
+
+    *   Yliopisto
 
     *
-        –   Helsingin yliopisto/
-            Helsingfors universitet
-
-
-        –   Kuopion yliopisto
-
-
-        –   Oulun yliopisto
-
-
-        –   Tampereen yliopisto
-
-
-        –   Turun yliopisto
-
-
-
-
-    *   Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta/Examenbevis
-        om tilläggsutbildning för
-        läkare inom
-        primärvården
-
     *   1. Januar 1994
 
 
@@ -1674,13 +1637,10 @@ vgl. Fußnote)
 
     *   Läkarexamen
 
-    *   Universitet
+    *   Universitet eller högskola
 
-    *   Bevis om
-        praktisk
-        utbildning som
-        utfärdas av
-        Socialstyrelsen
+    *   Bevis om legitimation
+        som läkare, utfärdat av Socialstyrelsen
 
     *   1. Januar 1994
 
@@ -1688,7 +1648,8 @@ vgl. Fußnote)
 *    *   United
         Kingdom
 
-    *   Primary qualification
+    *[^F829550_11_BJNR018570961BJNE003009130]
+   Primary qualification
 
     *   Competent examining body
 
@@ -1697,4 +1658,17 @@ vgl. Fußnote)
     *   20. Dezember 1976
 
 
+
+
+    Seit September 2013.
+[^F829550_01a_BJNR018570961BJNE003009130]:     Seit September 2013.
+[^F829550_02_BJNR018570961BJNE003009130]:     Seit Oktober 2014.
+[^F829550_03_BJNR018570961BJNE003009130]:     Bis 2012.
+[^F829550_04_BJNR018570961BJNE003009130]:     Seit 2013.
+[^F829550_05_BJNR018570961BJNE003009130]:     Seit 2011.
+[^F829550_06_BJNR018570961BJNE003009130]:     Von 2003/2004 bis 2013/2014.
+[^F829550_07_BJNR018570961BJNE003009130]:     Seit 2014/2015.
+[^F829550_08_BJNR018570961BJNE003009130]:     Seit 2001/2002.
+[^F829550_09_BJNR018570961BJNE003009130]:     Bis zum 2.4.2020.
+[^F829550_10_BJNR018570961BJNE003009130]: [^F829550_11_BJNR018570961BJNE003009130]:     Vor dem 1.1.2021 ausgestellt.
 

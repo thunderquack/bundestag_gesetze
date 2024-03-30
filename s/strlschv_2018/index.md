@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 2034, 2036 (2021 I 5261)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.10.2021 I 4645
+:   Art. 1 V v. 10.1.2024 I Nr. 8
 
 Stand: Ersetzt V 751-1-8 v. 20.7.2001 I 1714; 2002 I 1459 (StrlSchV 2001)
 Diese Verordnung dient der Umsetzung der Richtlinie 2013/59/Euratom
@@ -51,18 +51,18 @@ ermittelten Einzelbeiträge.
 
 (3) Betriebsgelände: Grundstück, auf dem sich kerntechnische Anlagen,
 Anlagen zur Erzeugung ionisierender Strahlung und Anlagen im Sinne des
-§ 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes oder
-Einrichtungen befinden und zu dem der Strahlenschutzverantwortliche
-den Zugang oder auf dem der Strahlenschutzverantwortliche die
-Aufenthaltsdauer von Personen beschränken kann.
+§ 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes
+oder Einrichtungen befinden und zu dem der
+Strahlenschutzverantwortliche den Zugang oder auf dem der
+Strahlenschutzverantwortliche die Aufenthaltsdauer von Personen
+beschränken kann.
 
 (4) Diagnostische Referenzwerte:
 
 1.  Dosiswerte bei Anwendung ionisierender Strahlung am Menschen oder
 
 
-2.  empfohlene Aktivitätswerte bei Anwendung radioaktiver Stoffe am
-    Menschen,
+2.  Aktivitätswerte bei Anwendung radioaktiver Stoffe am Menschen,
 
 
 
@@ -131,7 +131,7 @@ durchführt.
     durchführt (Einzelsachverständiger) oder
 
 
-2.  juristische Person oder nicht rechtsfähige Personenvereinigung, die
+2.  juristische Person oder sonstige Personenvereinigung, die
     Sachverständigentätigkeiten durchführt (Sachverständigenorganisation).
 
 
@@ -142,8 +142,9 @@ Radionuklids zur Masse des Materials, in dem das Radionuklid verteilt
 ist. Bei festen radioaktiven Stoffen ist die Bezugsmasse für die
 Bestimmung der spezifischen Aktivität die Masse des Körpers oder
 Gegenstandes, mit dem die Radioaktivität bei vorgesehener Anwendung
-untrennbar verbunden ist. Bei gasförmigen radioaktiven Stoffen ist die
-Bezugsmasse die Masse des Gases oder des Gasgemisches.
+untrennbar verbunden ist. Bei flüssigen radioaktiven Stoffen ist die
+Bezugsmasse die Masse der Flüssigkeit. Bei gasförmigen radioaktiven
+Stoffen ist die Bezugsmasse die Masse des Gases oder des Gasgemisches.
 
 (18) Störfall: Ereignisablauf, bei dessen Eintreten der Betrieb der
 kerntechnischen Anlage, der Anlage zur Erzeugung ionisierender
@@ -346,6 +347,12 @@ Gebäuden, Gebäudeteilen, Anlagen oder Einrichtungen nicht
 zusammenwirken können.
 
 
+##### § 5a Genehmigungsfreier Zusatz radioaktiver Stoffe
+
+Eine Genehmigung nach § 40 Absatz 1 des Strahlenschutzgesetzes ist in
+den in Anlage 3 Teil F genannten Fällen nicht erforderlich.
+
+
 ##### § 6 Genehmigungsfreier Besitz von Kernbrennstoffen
 
 (1) Die Vorschriften des § 5 Absatz 2 bis 4 des Atomgesetzes sind auf
@@ -545,13 +552,7 @@ oder
 
 
 
-(3) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, soweit eine
-Genehmigung nach § 3 Absatz 1 des Atomgesetzes vorliegt, die sich
-gemäß § 10a Absatz 1 des Atomgesetzes auf eine Verbringung nach Absatz
-1 erstreckt. Eine Genehmigung nach Absatz 2 ist nicht erforderlich,
-soweit eine Genehmigung nach § 3 Absatz 1 des Atomgesetzes vorliegt,
-die sich gemäß § 10a Absatz 1 des Atomgesetzes auf eine Verbringung
-nach Absatz 2 erstreckt.
+(3) (weggefallen)
 
 
 ##### § 13 Anmeldebedürftige grenzüberschreitende Verbringung
@@ -571,13 +572,12 @@ Strahlenschutzgesetzes
 
 und keiner Genehmigung nach § 12 Absatz 1 oder 2 bedarf, hat die
 Verbringung der nach § 188 Absatz 1 Satz 2 des Strahlenschutzgesetzes
-zuständigen Behörde elektronisch anzumelden. Bei der Zollabfertigung
-ist der Nachweis der Anmeldung nach Satz 1 der nach § 188 Absatz 2
-Satz 1 des Strahlenschutzgesetzes für die Überwachung zuständigen
-Behörde oder der von ihr benannten Stelle vorzulegen. Für die
-Anmeldung ist der Ausdruck des elektronisch erzeugten Formulars zu
-verwenden, das die nach § 188 Absatz 1 Satz 2 des
-Strahlenschutzgesetzes zuständige Behörde bestimmt hat.
+zuständigen Behörde elektronisch anzumelden. Das Verfahren der
+elektronischen Anmeldung bestimmt die nach § 188 Absatz 1 Satz 2 des
+Strahlenschutzgesetzes zuständige Behörde. Der im Verfahren der
+elektronischen Anmeldung erzeugte Ausdruck des Anmeldeformulars ist
+den Zollbehörden bei der Zollabfertigung als Nachweis der
+elektronischen Anmeldung vorzulegen.
 
 (2) Wer Kernbrennstoffe nach § 3 Absatz 1 des Strahlenschutzgesetzes
 in Form von
@@ -631,6 +631,11 @@ Verordnung hat vorzunehmen, wer
 
 
 
+
+(1a) Eine Genehmigung nach § 12 Absatz 1 oder 2 und eine Anmeldung
+nach § 13 sind nicht erforderlich, soweit eine Genehmigung nach § 3
+Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 1 des
+Atomgesetzes auf eine Verbringung nach § 12 Absatz 1 oder 2 erstreckt.
 
 (2) Die §§ 12 und 13 dieser Verordnung gelten nicht für die
 Verbringung durch die Bundeswehr.
@@ -904,9 +909,9 @@ nur dann zugelassen werden, wenn sichergestellt ist, dass
 ##### § 21 Technische Anforderungen an die Bauartzulassung von Vollschutzgeräten
 
 Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am
-Menschen noch zur Anwendung am Tier bestimmt ist, darf als
-Vollschutzgerät nach § 45 Absatz 1 Nummer 5 des Strahlenschutzgesetzes
-nur dann zugelassen werden,
+Menschen noch zur Anwendung am Tier in der Tierheilkunde bestimmt ist,
+darf als Vollschutzgerät nach § 45 Absatz 1 Nummer 5 des
+Strahlenschutzgesetzes nur dann zugelassen werden,
 
 1.  wenn sichergestellt ist, dass
 
@@ -1069,10 +1074,13 @@ Unterlagen bei der Vorrichtung bereitzuhalten:
 1.  einen Abdruck des Zulassungsscheins,
 
 
-2.  die Betriebsanleitung und
+2.  die Betriebsanleitung,
 
 
-3.  im Falle einer Vorrichtung nach § 45 Absatz 1 Nummer 1 erste
+3.  den Nachweis nach § 24 Nummer 5 Buchstabe b und
+
+
+4.  im Falle einer Vorrichtung nach § 45 Absatz 1 Nummer 1 erste
     Alternative des Strahlenschutzgesetzes die Befunde der
     Dichtheitsprüfung nach Absatz 4 Satz 1.
 
@@ -1591,13 +1599,27 @@ Ist kein Genehmigungsinhaber vorhanden, so kann eine Freigabe auch von
 Amts wegen erfolgen.
 
 
-#### § 39 Einvernehmen bei der spezifischen Freigabe zur Beseitigung
+#### § 39 Einvernehmen bei der spezifischen Freigabe zur Beseitigung und bei der spezifischen Freigabe von Metallschrott zum Recycling
 
-(1) Die zuständige Behörde stellt bei einer beabsichtigten Freigabe
-zur Beseitigung von Massen von mehr als 10 Megagramm im Kalenderjahr
-das Einvernehmen mit der für den Vollzug dieser Verordnung zuständigen
-obersten Landesbehörde her, in deren Zuständigkeitsbereich die
-freizugebenden Massen beseitigt werden sollen.
+(1) Die zuständige Behörde stellt das Einvernehmen mit der für den
+Vollzug dieser Verordnung zuständigen obersten Landesbehörde her, in
+deren Zuständigkeitsbereich die freizugebenden Massen entsorgt werden
+sollen, bei
+
+1.  einer beabsichtigten spezifischen Freigabe zur Beseitigung von Massen
+    von mehr als 10 Megagramm im Kalenderjahr,
+
+
+2.  bei einer beabsichtigten spezifischen Freigabe von Metallschrott zum
+    Recycling von Massen von mehr als 10 Megagramm im Kalenderjahr und
+
+
+3.  bei einer beabsichtigten Freigabe von Metallschrott zum Recycling bei
+    Vorliegen einer Festlegung nach Anlage 8 Teil G Nummer 4 von Massen
+    von mehr als 1 Megagramm im Kalenderjahr.
+
+
+
 
 (2) Das Einvernehmen gilt als erteilt, wenn es nicht innerhalb von 30
 Kalendertagen nach Eingang des Ersuchens der für die beabsichtigte
@@ -1628,14 +1650,23 @@ Beseitigungsanlage vorzulegen. Der Antragsteller hat der für die
 Verwertungs- oder Beseitigungsanlage nach dem
 Kreislaufwirtschaftsgesetz zuständigen Behörde gleichzeitig eine Kopie
 der Annahmeerklärung oder der Vereinbarung zuzuleiten und dies der für
-die Freigabe zuständigen Behörde nachzuweisen.
+die Freigabe zuständigen Behörde nachzuweisen. Bei einer nach § 33
+Absatz 3 aufschiebend bedingten Freigabe hat der
+Strahlenschutzverantwortliche, der Inhaber der Freigabe ist, der
+zuständigen Behörde die in Satz 1 genannten Dokumente vor der
+Bestätigung der Übereinstimmung mit dem Inhalt des Freigabebescheids
+vorzulegen.
 
 (3) Die für die Verwertungs- und Beseitigungsanlage nach dem
 Kreislaufwirtschaftsgesetz zuständige Behörde kann von der für die
 Freigabe zuständigen Behörde innerhalb einer Frist von 30
 Kalendertagen nach Zugang der Kopie verlangen, dass Einvernehmen
 hinsichtlich der Anforderungen an den Verwertungs- oder
-Beseitigungsweg hergestellt wird.
+Beseitigungsweg hergestellt wird. Die nach Maßgabe des Dosiskriteriums
+nach § 33 Absatz 1 getroffene Entscheidung über den Verwertungs- oder
+Beseitigungsweg ist von den Prüfungen der Anforderungen durch die nach
+dem Kreislaufwirtschaftsrecht zuständige Behörde zur Herstellung des
+Einvernehmens ausgenommen.
 
 (4) Die Bestimmungen des Kreislaufwirtschaftsgesetzes sowie der auf
 Grund dieses Gesetzes erlassenen Verordnungen über die ordnungsgemäße
@@ -1703,11 +1734,10 @@ nicht radioaktiver Stoff verwendet, verwertet, beseitigt, innegehabt
 oder an Dritte weitergegeben werden soll, zuvor die Übereinstimmung
 mit dem Inhalt des Freigabebescheides festzustellen.
 
-(2) Messungen der spezifischen Aktivität (Freimessungen), die zur
-Feststellung der Übereinstimmung mit dem Inhalt des Freigabebescheides
-erforderlich sind, und ihre Ergebnisse sind von dem
-Strahlenschutzverantwortlichen, der Inhaber der Freigabe ist, zu
-dokumentieren.
+(2) Messungen, die zur Feststellung der Übereinstimmung mit dem Inhalt
+des Freigabebescheides erforderlich sind (Freimessungen), und ihre
+Ergebnisse sind von dem Strahlenschutzverantwortlichen, der Inhaber
+der Freigabe ist, zu dokumentieren.
 
 (3) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe ist,
 hat die zuständige Behörde unverzüglich zu informieren, wenn eine der
@@ -1749,6 +1779,16 @@ Strahlenschutzverantwortlicher eine Genehmigung nach § 12 Absatz 1
 Nummer 1, 3, 4 oder 5 des Strahlenschutzgesetzes zu beantragen oder
 eine Anzeige nach §§ 17 oder 19 Absatz 1 des Strahlenschutzgesetzes zu
 erstatten, bleibt unberührt.
+
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
+zuständige Behörde unverzüglich unterrichtet wird, sobald er erstmalig
+die technische Durchführung bei der Untersuchung von Personen mit
+radioaktiven Stoffen oder ionisierender Strahlung vornimmt und für
+diese Untersuchung die rechtfertigende Indikation oder die Befundung
+durch eine weitere Person, die nicht unter seiner Aufsicht steht,
+erfolgt. Seine Verantwortung für die Anwendung von radioaktiven
+Stoffen oder ionisierender Strahlung am Menschen, einschließlich der
+rechtfertigenden Indikation und der Befundung, bleibt unberührt.
 
 (2) Der Strahlenschutzverantwortliche und die weitere Person haben
 ihre Pflichten sowie die Pflichten ihrer jeweiligen
@@ -1844,8 +1884,10 @@ eines anderen tätig ist.
 #### § 47 Erforderliche Fachkunde im Strahlenschutz
 
 (1) Der Erwerb der erforderlichen Fachkunde im Strahlenschutz wird von
-der zuständigen Stelle geprüft und bescheinigt. Dazu sind der
-zuständigen Stelle in der Regel folgende Unterlagen vorzulegen:
+der zuständigen Stelle geprüft und bescheinigt. Die Bescheinigung
+dient als Nachweis der Anerkennung der erforderlichen Fachkunde im
+Strahlenschutz. Zur Prüfung sind der zuständigen Stelle in der Regel
+folgende Unterlagen vorzulegen:
 
 1.  Nachweise über eine für das jeweilige Anwendungsgebiet geeignete
     Ausbildung,
@@ -1858,7 +1900,7 @@ zuständigen Stelle in der Regel folgende Unterlagen vorzulegen:
 
 
 
-Die Kursteilnahme darf insgesamt nicht länger als fünf Jahre
+Die Kursteilnahme soll insgesamt nicht länger als fünf Jahre
 zurückliegen.
 
 (2) Der Nachweis der praktischen Erfahrung erfolgt durch Vorlage einer
@@ -1900,8 +1942,8 @@ Folgendes vermittelt werden:
 
 
 
-Die Kurse sollen praktische Übungen im Strahlenschutz beinhalten. Von
-einer erfolgreichen Teilnahme an einem anerkannten Kurs kann
+Die Kurse sollen Praktika und Übungen im Strahlenschutz beinhalten.
+Von einer erfolgreichen Teilnahme an einem anerkannten Kurs kann
 ausgegangen werden, wenn die Abschlussprüfung über die Inhalte des
 Kurses erfolgreich absolviert wurde.
 
@@ -1924,10 +1966,11 @@ wird. Die nach der jeweiligen Ausbildungs- und Prüfungsordnung oder
 Approbationsordnung für das Prüfungswesen zuständige Stelle erteilt
 die Bescheinigung über die erforderliche Fachkunde im Strahlenschutz.
 
-(6) Für Medizinisch-technische Radiologieassistenten gilt der Nachweis
-der erforderlichen Fachkunde mit der Erlaubnis nach § 1 Absatz 1
-Nummer 2 des MTA-Gesetzes für die vorbehaltenen Tätigkeiten nach § 9
-Absatz 1 Nummer 2 des MTA-Gesetzes als erbracht.
+(6) Für Medizinische Technologen für Radiologie gilt der Nachweis der
+erforderlichen Fachkunde mit der Erlaubnis nach § 1 Absatz 1 Nummer 2
+des MT-Berufe-Gesetzes vom 24. Februar 2021 (BGBl. I S. 274) für die
+vorbehaltenen Tätigkeiten nach § 5 Absatz 2 des MT-Berufe-Gesetzes als
+erbracht.
 
 
 #### § 48 Aktualisierung der Fachkunde
@@ -2002,25 +2045,33 @@ veranlassen.
 
 #### § 51 Anerkennung von Kursen
 
-Kurse nach § 47 Absatz 3, § 48 Absatz 1 Satz 1, § 49 Absatz 2 Satz 1
-in Verbindung mit § 47 Absatz 3 und § 49 Absatz 3 in Verbindung mit §
-48 Absatz 1 Satz 1 sind von der für die Kursstätte zuständigen Stelle
-anzuerkennen, wenn
+(1) Kurse nach § 47 Absatz 3, § 48 Absatz 1 Satz 1, § 49 Absatz 2 Satz
+1 in Verbindung mit § 47 Absatz 3 und § 49 Absatz 3 in Verbindung mit
+§ 48 Absatz 1 Satz 1 sind von der für den Sitz des Kursanbieters
+zuständigen Stelle anzuerkennen, wenn
 
 1.  die Kursinhalte geeignet sind, die für das jeweilige Anwendungsgebiet
     notwendigen Fertigkeiten und das notwendige Wissen im Strahlenschutz
     entsprechend § 47 Absatz 3 zu vermitteln,
 
 
-2.  die Qualifikation des Lehrpersonals, die verwendeten Lehrmaterialien
-    und die Ausstattung der Kursstätte eine ordnungsgemäße
-    Wissensvermittlung gewährleisten und
+2.  die Qualifikation des Lehrpersonals, die verwendeten Lehrmaterialien,
+    die Ausstattung der Kursstätte, soweit vorhanden, und das angewandte
+    Kurskonzept eine ordnungsgemäße Wissensvermittlung gewährleisten und
 
 
 3.  eine Erfolgskontrolle stattfindet.
 
 
 
+
+(2) Der Kursanbieter hat die Behörde, in deren Zuständigkeitsbereich
+die Kursstätte liegt, über die Durchführung eines anerkannten Kurses
+mindestens vier Wochen vor dessen Beginn zu unterrichten und ihr eine
+Kopie des Anerkennungsbescheides zu übersenden. Ist keine Kursstätte
+vorhanden, so sind die Pflichten nach Satz 1 gegenüber der Behörde zu
+erfüllen, die für die Aufsicht am Sitz des Kursanbieters zuständig
+ist.
 
 
 ### Kapitel 6 - Anforderungen im Zusammenhang mit der Ausübung von Tätigkeiten
@@ -2113,8 +2164,8 @@ Röntgeneinrichtungen oder genehmigungsbedürftige Störstrahler
 betrieben werden, hat der Strahlenschutzverantwortliche dafür zu
 sorgen, dass diese Bereiche während der Einschaltzeit und der
 Betriebsbereitschaft mindestens mit den Worten „Kein Zutritt –
-Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach § 91
-Absatz 1 und Absatz 1 Satz 1 ist entbehrlich.
+Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach
+Absatz 1 Satz 1 und § 91 Absatz 1 ist entbehrlich.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Sperrbereiche nach § 52 Absatz 2 Satz 1 Nummer 3 abgegrenzt und
@@ -2128,12 +2179,23 @@ oder die Allgemeinheit nicht gefährdet werden.
 
 (4) Sperrbereiche, die innerhalb eines Teiles eines Röntgen- oder
 Bestrahlungsraumes eingerichtet sind, müssen abweichend von Absatz 3
-nicht gesondert gekennzeichnet oder abgegrenzt werden, wenn sich
-während der Einschaltzeit der Röntgeneinrichtung, der Anlage zur
-Erzeugung ionisierender Strahlung oder der Bestrahlungsvorrichtung nur
-Personen, an denen ionisierende Strahlung angewendet wird, oder
-Betreuungs- oder Begleitpersonen in dem Röntgen- oder Bestrahlungsraum
-aufhalten können.
+nicht gesondert gekennzeichnet oder abgegrenzt werden, wenn sich in
+dem Röntgen- oder Bestrahlungsraum während der Einschaltzeit der
+Röntgeneinrichtung, der Anlage zur Erzeugung ionisierender Strahlung
+oder der Bestrahlungsvorrichtung nur die folgenden Personen aufhalten
+können:
+
+1.  Personen, an denen ionisierende Strahlung angewendet wird,
+
+
+2.  Betreuungs- oder Begleitpersonen oder
+
+
+3.  Personen, die ionisierende Strahlung anwenden und deren Aufenthalt in
+    unmittelbarer Nähe der zu behandelnden Person erforderlich ist.
+
+
+
 
 (5) Beim ortsveränderlichen Umgang mit radioaktiven Stoffen und beim
 ortsveränderlichen Betrieb von Anlagen zur Erzeugung ionisierender
@@ -2653,8 +2715,15 @@ Strahlenschutzbereich verbunden ist, eine effektive Dosis von mehr als
 für die Augenlinse oder eine lokale Hautdosis von mehr als 50
 Millisievert im Kalenderjahr erhalten können. Für das eingesetzte
 fliegende Personal gilt Absatz 1 entsprechend, wenn die effektive
-Dosis durch kosmische Strahlung 1 Millisievert im Kalenderjahr
-überschreiten kann.
+Dosis, die das fliegende Personal während des Fluges durch kosmische
+Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann.
+Der Flug umfasst auch die aufgewendete Zeit für die Positionierung
+nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur
+Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und
+Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und
+außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung) vom
+6\. April 2009 (BAnz. S. 1327), die durch Artikel 180 des Gesetzes vom
+29\. März 2017 (BGBl. I S. 626) geändert worden ist.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass jeder
 unter seiner Aufsicht stehenden beruflich exponierten Person auf deren
@@ -2854,9 +2923,15 @@ Ermittlung der Körperdosis verzichtet werden kann.
 
 (4) Die zuständige Behörde kann im Einzelfall von der Pflicht zum
 Führen eines Strahlenpasses nach Absatz 1 und von der Pflicht zur
-Vorlage nach Absatz 3 befreien, wenn die beruflich strahlenexponierte
-Person in nicht mehr als einer fremden Anlage oder Einrichtung
-beschäftigt wird.
+Vorlage nach Absatz 3 befreien, wenn die beruflich exponierte Person
+in nicht mehr als einer fremden Anlage oder Einrichtung beschäftigt
+wird. Wird die beruflich exponierte Person in mehr als einer fremden
+Anlage oder Einrichtung beschäftigt, kann die zuständige Behörde im
+Einzelfall von der Pflicht zur Vorlage des Strahlenpasses befreien,
+wenn durch technische Vorkehrungen sichergestellt ist, dass die
+Körperdosis der beruflich exponierten Person vollständig in den
+Dosiserfassungssystemen der fremden und der entsendenden Anlage oder
+Einrichtung ermittelt und auf geeignete Weise dokumentiert wird.
 
 
 ##### § 69 Schutz von schwangeren und stillenden Personen
@@ -2953,17 +3028,21 @@ fliegendes Personal eingesetzten beruflich exponierten Personen vor
 Aufnahme ihrer Tätigkeit den Kategorien zugeordnet werden:
 
 1.  Beruflich exponierte Personen der Kategorie A: Personen, deren Einsatz
-    als fliegendes Personal zu einer effektiven Dosis durch kosmische
-    Strahlung von mehr als 6 Millisievert im Kalenderjahr führen kann;
+    als fliegendes Personal während des Fluges zu einer effektiven Dosis
+    durch kosmische Strahlung von mehr als 6 Millisievert im Kalenderjahr
+    führen kann;
 
 
 2.  Beruflich exponierte Personen der Kategorie B: Personen, die nicht in
     die Kategorie A eingestuft sind und deren Einsatz als fliegendes
-    Personal zu einer effektiven Dosis durch kosmische Strahlung von mehr
-    als 1 Millisievert im Kalenderjahr führen kann.
+    Personal während des Fluges zu einer effektiven Dosis durch kosmische
+    Strahlung von mehr als 1 Millisievert im Kalenderjahr führen kann.
 
 
 
+Der Flug umfasst auch die aufgewendete Zeit für die Positionierung
+nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur
+Betriebsordnung für Luftfahrtgerät.
 
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 Zuordnung angepasst wird, wenn abzusehen ist, dass eine Person, die in
@@ -3088,6 +3167,11 @@ auszuschließen.
 Schutz beruflich exponierter Personen vor äußerer und innerer
 Exposition vorrangig durch bauliche und technische Vorrichtungen oder
 durch geeignete Arbeitsverfahren sichergestellt wird.
+
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
+beruflich exponierte Personen, die sich im Kontrollbereich aufhalten,
+die erforderliche Schutzkleidung tragen und die erforderliche
+Schutzausrüstung verwenden.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass offene
 radioaktive Stoffe an Arbeitsplätzen nur solange und in solchen
@@ -3386,8 +3470,16 @@ unterrichtet unverzüglich
     einer hochradioaktiven Strahlenquelle,
 
 
-2.  die zuständige Behörde, wenn übermittelte Daten nicht vollständig sind
-    oder eine hochradioaktive Strahlenquelle gefunden wurde.
+2.  die zuständige Behörde
+
+    a)  in den Fällen, in denen übermittelte Daten nicht vollständig sind oder
+        eine hochradioaktive Strahlenquelle gefunden wurde, und
+
+
+    b)  über Mitteilungen nach § 85 Absatz 4 Satz 1.
+
+
+
 
 
 
@@ -3460,17 +3552,17 @@ Strahlenquellen beim Bundesamt für Strahlenschutz in gesicherter
 elektronischer Form Folgendes mitgeteilt wird:
 
 1.  bei Erwerb und Abgabe hochradioaktiver Strahlenquellen unverzüglich
-    die Angaben entsprechend Anlage 9 sowie Änderungen der erfassten
-    Angaben und
+    die Angaben entsprechend Anlage 9,
 
 
-2.  innerhalb eines Monats das Datum der Dichtheitsprüfung nach § 89
+2.  unverzüglich jede Änderung erfasster Angaben und
+
+
+3.  innerhalb eines Monats das Datum der Dichtheitsprüfung nach § 89
     Absatz 2.
 
 
 
-Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
-zuständige Behörde unverzüglich über die Mitteilung unterrichtet wird.
 
 (5) Die zuständige Behörde prüft innerhalb eines Monats die nach
 Absatz 4 Satz 1 übermittelten Daten auf Vollständigkeit und
@@ -3662,18 +3754,26 @@ Absatz 1 Satz 1 Nummer 1 Buchstabe b befreien, wenn
 1.  Röntgeneinrichtungen mindestens alle fünf Jahre durch einen nach § 172
     Absatz 1 Satz 1 Nummer 1 des Strahlenschutzgesetzes bestimmten
     Sachverständigen insbesondere auf sicherheitstechnische Funktion,
-    Sicherheit und Strahlenschutz geprüft werden und
+    Sicherheit und Strahlenschutz geprüft werden,
 
 
-2.  der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
+2.  Anlagen zur Erzeugung ionisierender Strahlung nach § 17 Absatz 1 Satz
+    1 Nummer 3 und 4 des Strahlenschutzgesetzes mindestens alle fünf Jahre
+    durch einen nach § 172 Absatz 1 Satz 1 Nummer 3 des
+    Strahlenschutzgesetzes bestimmten Sachverständigen insbesondere auf
+    sicherheitstechnische Funktion, Sicherheit und Strahlenschutz geprüft
+    werden und
+
+
+3.  der Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
 
 
 
 
 (5) Die zuständige Behörde kann zum Schutz Einzelner oder der
 Allgemeinheit anordnen, dass Störstrahler, deren Betrieb
-genehmigungsbedürftig ist, und nach § 17 Absatz 1 Satz 1 des
-Strahlenschutzgesetzes anzeigebedürftige Anlagen zur Erzeugung
+genehmigungsbedürftig ist, und nach § 17 Absatz 1 Satz 1 Nummer 1 und
+2 des Strahlenschutzgesetzes anzeigebedürftige Anlagen zur Erzeugung
 ionisierender Strahlung durch einen nach § 172 Absatz 1 Satz 1 Nummer
 1 oder 3 des Strahlenschutzgesetzes bestimmten Sachverständigen auf
 sicherheitstechnische Funktion, Sicherheit und Strahlenschutz zu
@@ -3945,6 +4045,11 @@ herausgebracht worden sind.
 (2) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe nach §
 33 Absatz 1 ist, hat dafür zu sorgen, dass nach einer Freigabe nach §
 31 Absatz 1 Kennzeichnungen nach § 91 Absatz 1 entfernt werden.
+
+(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass im
+Fall einer Ausnahme von der Pflicht zur Freigabe von Stoffen und
+Gegenständen gemäß § 31 Absatz 5 Satz 1 Kennzeichnungen nach § 91
+Absatz 1 entfernt werden.
 
 
 ###### § 94 Abgabe radioaktiver Stoffe
@@ -4347,7 +4452,9 @@ Daten mindestens jährlich zu ermitteln und mitzuteilen hat:
 der repräsentativen Personen zu dokumentieren. Sie sind allen
 Interessenträgern auf Anfrage zur Verfügung zu stellen. Jedenfalls für
 die Tätigkeiten nach Absatz 1 Satz 1 Nummer 1 sind die ermittelten
-Expositionen jährlich zu veröffentlichen.
+Expositionen jährlich zu veröffentlichen, soweit die dort genannten
+Tätigkeiten auf dem Betriebsgelände von Anlagen oder Einrichtungen
+nach §§ 6, 7, 9 oder § 9b des Atomgesetzes ausgeübt werden.
 
 (6) Zuständig für die Ermittlung nach Absatz 1 Satz 1 Nummer 1 ist das
 Bundesamt für Strahlenschutz, soweit die dort genannten Tätigkeiten
@@ -4386,7 +4493,7 @@ Aktivitätskonzentrationen an der Grenze eines Strahlenschutzbereichs
 einzuhalten. Satz 1 findet keine Anwendung, wenn der zuständigen
 Behörde Anhaltspunkte vorliegen, dass die in § 99 Absatz 1 genannten
 Grenzwerte oder die Grenzwerte des § 80 Absatz 1 und 2 des
-Strahlenschutzgesetzes an einem Standort durch Ableitungen oder
+Strahlenschutzgesetzes an einem Standort durch Ableitungen und
 Direktstrahlung aus in Absatz 1 genannten Anlagen oder Einrichtungen
 an diesem Standort oder anderen nach § 99 Absatz 2 einzubeziehenden
 Standorten überschritten werden können.
@@ -4407,24 +4514,27 @@ Anlagen zur Erzeugung ionisierender Strahlung und Einrichtungen
 
 
 
-Die zuständige Behörde kann von der Mitteilungspflicht ganz oder
-teilweise befreien, wenn sie auf andere Weise hinreichend abschätzen
-kann, dass die Grenzwerte des § 99 Absatz 1 unter Berücksichtigung von
-§ 99 Absatz 2 durch die Ableitungen nicht überschritten werden. Satz 2
-gilt nicht für Anlagen zur Spaltung von Kernbrennstoffen zur
-gewerblichen Erzeugung von Elektrizität und von Anlagen zur
-Aufarbeitung bestrahlter Kernbrennstoffe.
+Die zuständige Behörde kann von der Überwachungspflicht nach Satz 1
+Nummer 1 befreien, wenn einer Bewertung durch den
+Strahlenschutzverantwortlichen zufolge sichergestellt ist, dass die
+effektive Dosis durch Ableitungen radioaktiver Stoffe mit Luft oder
+Wasser den Bereich von 10 Mikrosievert im Kalenderjahr jeweils nicht
+überschreiten wird. Der Strahlenschutzverantwortliche hat der
+zuständigen Behörde die entsprechende Bewertung mindestens jährlich
+mitzuteilen. Satz 2 gilt nicht für Anlagen zur Spaltung von
+Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität und für
+Anlagen zur Aufarbeitung bestrahlter Kernbrennstoffe.
 
 (2) Die zuständige Behörde kann anordnen, dass bei dem Betrieb, der
 Stilllegung, dem sicheren Einschluss und dem Abbau von kerntechnischen
-Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil
-des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung und
-Einrichtungen die Aktivität von Proben aus der Umgebung sowie
-Ortsdosen zur Überwachung der Exposition durch Direktstrahlung nach
-einem festzulegenden Plan durch Messung bestimmt werden und dass die
-Messergebnisse aufzuzeichnen, der zuständigen Behörde auf Verlangen
-vorzulegen und der Öffentlichkeit zugänglich zu machen sind. Die
-zuständige Behörde kann die Stelle bestimmen, die die Messungen
+Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz
+zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender
+Strahlung und Einrichtungen die Aktivität von Proben aus der Umgebung
+sowie Ortsdosen zur Überwachung der Exposition durch Direktstrahlung
+nach einem festzulegenden Plan durch Messung bestimmt werden und dass
+die Messergebnisse aufzuzeichnen, der zuständigen Behörde auf
+Verlangen vorzulegen und der Öffentlichkeit zugänglich zu machen sind.
+Die zuständige Behörde kann die Stelle bestimmen, die die Messungen
 vorzunehmen hat.
 
 (3) Zur Sicherstellung eines bundeseinheitlichen Qualitätsstandards
@@ -4893,6 +5003,9 @@ sie
 
 
 
+Abweichend von Nummer 2 ist die dort genannte Funktion für
+Dentalaufnahmegeräte mit Tubus und für Panoramaschichtgeräte nicht
+erforderlich.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Anlage zur Erzeugung ionisierender Strahlung oder eine
@@ -4911,7 +5024,7 @@ untersuchten Person auf andere Weise unmittelbar ermittelt werden
 kann.
 
 
-###### § 115 Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung
+###### § 115 Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung; Bezugswertfestlegung
 
 (1) Bei Anlagen zur Erzeugung ionisierender Strahlung,
 Bestrahlungsvorrichtungen, Röntgeneinrichtungen und sonstigen
@@ -4924,9 +5037,26 @@ diesem Zweck unter seiner Einbindung eine Abnahmeprüfung durch den
 jeweiligen Hersteller oder Lieferanten der einzelnen Komponenten
 durchgeführt wird.
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass als
-Teil der Abnahmeprüfung die Bezugswerte für die Konstanzprüfung nach §
-116 bestimmt werden.
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
+Bezugswerte für die Konstanzprüfung nach § 116 bestimmt werden:
+
+1.  als Teil der Abnahmeprüfung oder
+
+
+2.  im Rahmen sonstiger gleichwertiger qualitätssichernder Maßnahmen durch
+    eine Person mit der erforderlichen Fachkunde im Strahlenschutz, soweit
+
+    a)  eine Bestimmung gemäß Nummer 1 nicht sachgerecht ist oder
+
+
+    b)  eine Bezugswertfestlegung notwendig ist, aber keine Pflicht zur
+        Durchführung einer Abnahmeprüfung besteht.
+
+
+
+
+
+
 
 (3) Ist die Anlage zur Erzeugung ionisierender Strahlung, die
 Bestrahlungsvorrichtung, die Röntgeneinrichtung oder eine sonstige
@@ -4944,9 +5074,11 @@ Qualität im Sinne des § 14 Absatz 1 Nummer 5 des
 Strahlenschutzgesetzes beeinflussen kann. In diesem Fall kann sich die
 Prüfung auf die Änderung und deren Auswirkungen beschränken. Ist die
 Abnahmeprüfung durch den Hersteller oder Lieferanten nicht mehr
-möglich, so hat der Strahlenschutzverantwortliche dafür zu sorgen,
-dass eine gleichwertige Prüfung durch eine Person mit der
-erforderlichen Fachkunde im Strahlenschutz durchgeführt wird.
+möglich oder würde sie zu einer unverhältnismäßigen Beeinträchtigung
+des angezeigten oder genehmigten Betriebs oder Umgangs führen, so hat
+der Strahlenschutzverantwortliche dafür zu sorgen, dass eine
+gleichwertige Prüfung durch eine Person mit der erforderlichen
+Fachkunde im Strahlenschutz durchgeführt wird.
 
 
 ###### § 116 Konstanzprüfung
@@ -4959,17 +5091,20 @@ regelmäßig und in den erforderlichen Zeitabständen geprüft wird, ob
 die für die Anwendung erforderliche Qualität im Sinne des § 14 Absatz
 1 Nummer 5 des Strahlenschutzgesetzes weiterhin erreicht wird
 (Konstanzprüfung). Hierzu ist insbesondere zu prüfen, ob die
-Bezugswerte, die nach § 115 Absatz 2 in der letzten Abnahmeprüfung
-erhoben wurden, eingehalten werden.
+Bezugswerte, die nach § 115 Absatz 2 und Absatz 4 Satz 1 und 2 erhoben
+wurden, eingehalten werden. Die zuständige Behörde kann die
+Zeitabstände für die Konstanzprüfung festlegen, soweit dies zum Schutz
+von Personen, an denen ionisierende Strahlung oder radioaktive Stoffe
+angewandt werden, erforderlich ist.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
-der Konstanzprüfung die Prüfmittel verwendet werden, die bei der
-Abnahmeprüfung für die Bestimmung der Bezugswerte nach § 115 Absatz 2
-verwendet wurden. Die zuständige Behörde kann im Einzelfall der
-Verwendung anderer Prüfmittel zustimmen, wenn die Verwendung der bei
-der Abnahmeprüfung verwendeten Prüfmittel zu einer unverhältnismäßigen
-Beeinträchtigung des angezeigten oder genehmigten Betriebs führen
-würde.
+der Konstanzprüfung Prüfmittel verwendet werden, die denjenigen, die
+für die Bestimmung der Bezugswerte nach § 115 Absatz 2 verwendet
+wurden, gleichartig und gleichwertig sind. Die zuständige Behörde kann
+im Einzelfall der Verwendung anderer Prüfmittel zustimmen, wenn die
+Verwendung der Prüfmittel nach Satz 1 zu einer unverhältnismäßigen
+Beeinträchtigung des angezeigten oder genehmigten Betriebs oder
+Umgangs führen würde.
 
 (3) In Fällen des § 115 Absatz 3 ist zudem zu prüfen, ob auch das
 Gesamtsystem die für die Anwendung erforderliche Qualität im Sinne des
@@ -4995,7 +5130,7 @@ Aufzeichnungen aufbewahrt werden,
     Abnahmeprüfung,
 
 
-2.  bei Prüfungen nach § 116 zehn Jahre nach Abschluss der Prüfung.
+2.  bei Prüfungen nach § 116 fünf Jahre nach Abschluss der Prüfung.
 
 
 
@@ -5246,17 +5381,20 @@ Jahre die medizinische Exposition der Bevölkerung und ausgewählter
 Bevölkerungsgruppen.
 
 
-###### § 126 Risikoanalyse vor Strahlenbehandlungen
+###### § 126 Risikobeurteilung vor Strahlenbehandlungen
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass vor
 dem erstmaligen Einsatz oder einer wesentlichen Änderung eines
 Behandlungsverfahrens mit radioaktiven Stoffen oder ionisierender
-Strahlung eine Analyse zur Identifikation und Bewertung der Gefahr
-unbeabsichtigter Expositionen der behandelten Person durchgeführt
-wird.
+Strahlung eine Risikobeurteilung zur Identifikation und Bewertung der
+Gefahr unbeabsichtigter Expositionen der behandelten Person
+durchgeführt wird.
+
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
+Risikobeurteilung mindestens alle drei Jahre wiederholt wird.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
-Ergebnisse der Analyse
+Ergebnisse der Risikobeurteilung
 
 1.  aufgezeichnet werden,
 
@@ -5497,10 +5635,18 @@ der ärztlichen Schweigepflicht.
 
 (6) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der
 ärztlichen oder zahnärztlichen Stelle auf Verlangen alle Informationen
-zur Verfügung gestellt werden, die diese zur Wahrnehmung ihrer
-Aufgaben benötigt. Die ärztliche oder zahnärztliche Stelle darf die
-ihr nach Satz 1 übermittelten Daten nur zu den in den Absätzen 1 und 2
-genannten Zwecken verarbeiten.
+und personenbezogenen Daten zur Verfügung gestellt werden, die diese
+zur Wahrnehmung ihrer Aufgaben benötigt. Die ärztliche oder
+zahnärztliche Stelle darf die ihr nach Satz 1 übermittelten Daten nur
+zu den in den Absätzen 1 und 2 genannten Zwecken verarbeiten.
+
+(7) Die ärztliche oder zahnärztliche Stelle darf die ihr nach Absatz 6
+Satz 1 übermittelten Daten anderen ärztlichen oder zahnärztlichen
+Stellen übermitteln, wenn dies zur Erfüllung der Aufgaben der
+übermittelnden Stelle oder der Stelle, der die Daten übermittelt
+werden, erforderlich ist. Die ärztliche oder zahnärztliche Stelle, der
+die Daten übermittelt werden, darf diese nur zu den in den Absätzen 1
+und 2 genannten Zwecken verarbeiten.
 
 
 ###### § 131 Medizinphysik-Experte
@@ -5572,7 +5718,7 @@ und folgender Aufgaben mitwirkt:
 5.  Untersuchung von Vorkommnissen,
 
 
-6.  Durchführung der Risikoanalyse für Behandlungen und
+6.  Durchführung der Risikobeurteilung für Behandlungen und
 
 
 7.  Unterweisung und Einweisung der bei der Anwendung tätigen Personen.
@@ -6136,10 +6282,8 @@ vorgenommen wird:
     Stoffe am Menschen anwenden dürfen,
 
 
-2.  Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MTA-
-    Gesetzes vom 2. August 1993 (BGBl. I S. 1402), das zuletzt durch
-    Artikel 21 des Gesetzes vom 18. April 2016 (BGBl. I S. 886) geändert
-    worden ist,
+2.  Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MT-Berufe-
+    Gesetzes,
 
 
 3.  Personen mit einer staatlich geregelten, staatlich anerkannten oder
@@ -6167,6 +6311,8 @@ vorgenommen wird:
 
 
 
+Die berechtigten Personen nach Satz 1 müssen am Ort der technischen
+Durchführung anwesend sein.
 
 
 ##### § 146 Berechtigte Personen in der Tierheilkunde
@@ -6176,9 +6322,9 @@ ionisierende Strahlung und radioaktive Stoffe in der Tierheilkunde nur
 angewendet werden von
 
 1.  Personen, die als Tierärzte, Ärzte oder Zahnärzte approbiert sind oder
-    denen die vorübergehende Ausübung des ärztlichen oder zahnärztlichen
-    Berufs erlaubt ist und die die für die Anwendung erforderliche
-    Fachkunde im Strahlenschutz besitzen,
+    denen die vorübergehende Ausübung des tierärztlichen, ärztlichen oder
+    zahnärztlichen Berufs erlaubt ist und die die für die Anwendung
+    erforderliche Fachkunde im Strahlenschutz besitzen,
 
 
 2.  Personen, die zur Ausübung des tierärztlichen, ärztlichen oder
@@ -6200,7 +6346,7 @@ Personen vorgenommen wird:
     Stoffe in der Tierheilkunde anwenden dürfen,
 
 
-2.  Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MTA-
+2.  Personen mit einer Erlaubnis nach § 1 Absatz 1 Nummer 2 des MT-Berufe-
     Gesetzes,
 
 
@@ -6219,6 +6365,8 @@ Personen vorgenommen wird:
 
 
 
+Die berechtigten Personen nach Satz 1 müssen am Ort der technischen
+Durchführung anwesend sein.
 
 
 ##### § 147 Berechtigte Personen außerhalb der Anwendung am Menschen oder der Tierheilkunde
@@ -6295,10 +6443,43 @@ zeitlichen Abständen von einem Jahr bis zu sechs Jahren. Für
 Tätigkeiten mit geringem Risiko kann in dem Aufsichtsprogramm von der
 Durchführung regelmäßiger Vor-Ort-Prüfungen abgesehen und eine andere
 Vorgehensweise zur Auswahl des Zeitpunkts einer Vor-Ort-Prüfung
-festgelegt werden.
+festgelegt werden. Für Tätigkeiten, bei denen die Festlegung
+regelmäßiger zeitlicher Abstände für Vor-Ort-Prüfungen aufgrund
+spezifischer Tätigkeitsmerkmale oder Genehmigungsinhalte nicht möglich
+oder nicht sachgerecht ist, ist der Zeitpunkt einer Vor-Ort-Prüfung im
+Einzelfall festzulegen.
 
-(3) Die Absätze 1 und 2 sind nicht anzuwenden auf Tätigkeiten nach § 4
-Absatz 1 Satz 1 Nummer 3 bis 6 des Strahlenschutzgesetzes.
+(3) Die Absätze 1 und 2 sind nicht anzuwenden auf:
+
+1.  Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 1 des
+    Strahlenschutzgesetzes, soweit sich der Umgang auf natürlich
+    vorkommende radioaktive Stoffe zur Nutzung als Kernbrennstoff oder zur
+    Erzeugung von Kernbrennstoffen oder den Umgang mit radioaktiven
+    Stoffen zum Zweck der Lagerung, Bearbeitung oder Verarbeitung als
+    radioaktive Abfälle, mit dem Ziel, diese radioaktiven Abfälle geordnet
+    zu beseitigen, bezieht,
+
+
+2.  Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 2 des
+    Strahlenschutzgesetzes, soweit diese sich auf
+
+    a)  natürlich vorkommende radioaktive Stoffe beziehen, die als
+        Kernbrennstoff oder zur Erzeugung von Kernbrennstoff genutzt werden,
+        oder
+
+
+    b)  die Beförderung oder grenzüberschreitende Verbringung radioaktiver
+        Abfälle beziehen,
+
+
+
+
+
+3.  Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 3 bis 6 des
+    Strahlenschutzgesetzes.
+
+
+
 
 
 ## Teil 3 - Strahlenschutz bei Notfallexpositionssituationen
@@ -6738,13 +6919,14 @@ des Strahlenschutzgesetzes Verpflichteten eine von dem ermächtigten
 Arzt ausgestellte Bescheinigung vorliegt, nach der der Beschäftigung
 keine gesundheitlichen Bedenken entgegenstehen. Dies gilt entsprechend
 für Personen, die in eigener Verantwortung in eigener oder in einer
-anderen Betriebsstätte Arbeiten ausüben. § 77 Absatz 3 und die §§ 79
-und 80 gelten entsprechend. Die entsprechend § 79 Absatz 1 Satz 1
-angeforderten Unterlagen sind dem ermächtigten Arzt unverzüglich zu
-übergeben. Der ermächtigte Arzt hat die ärztliche Bescheinigung dem
-Verpflichteten nach § 131 Absatz 1 des Strahlenschutzgesetzes, der
-exponierten Person und, soweit gesundheitliche Bedenken bestehen, auch
-der zuständigen Behörde unverzüglich zu übersenden.
+anderen Betriebsstätte Arbeiten ausüben. § 77 Absatz 2 Satz 2 und
+Absatz 3 sowie die §§ 79 und 80 gelten entsprechend. Die entsprechend
+§ 79 Absatz 1 Satz 1 angeforderten Unterlagen sind dem ermächtigten
+Arzt unverzüglich zu übergeben. Der ermächtigte Arzt hat die ärztliche
+Bescheinigung dem Verpflichteten nach § 131 Absatz 1 des
+Strahlenschutzgesetzes, der exponierten Person und, soweit
+gesundheitliche Bedenken bestehen, auch der zuständigen Behörde
+unverzüglich zu übersenden.
 
 (4) Soweit die Expositionsbedingungen es erfordern, kann die
 zuständige Behörde bei unter § 130 Absatz 3 des Strahlenschutzgesetzes
@@ -6776,7 +6958,7 @@ Strahlenschutzgesetzes nicht überschritten wird,
 ### Kapitel 3 - Radioaktive Altlasten
 
 
-#### § 160 Ermittlung der Exposition der Bevölkerung
+#### § 160 Ermittlung der Exposition
 
 (1) Bei der Ermittlung der Exposition von Einzelpersonen der
 Bevölkerung sind realistische Expositionspfade und Expositionsannahmen
@@ -6805,11 +6987,14 @@ Abschätzung für den Zeitraum ausreichend, für den hinreichend
 zuverlässige Aussagen getroffen werden können. Eine Abschätzung ist
 höchstens für einen Zeitraum von 1 000 Jahren durchzuführen.
 
-(3) Für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten aus
-der Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28.
-August 2001 Teil I und II zu verwenden. Für Arbeitskräfte sind die
-Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger Nummer
-160a und b vom 28. August 2001 Teil I und III zu verwenden.
+(3) Für Einzelpersonen der Bevölkerung sind die in Anlage 18 Teil B
+Nummer 4 Satz 2 genannten Dosiskoeffizienten zu verwenden. Für
+Personen, die einer beruflichen Exposition ausgesetzt sind, sind die
+in Anlage 18 Teil B Nummer 4 Satz 3 genannten Dosiskoeffizienten zu
+verwenden. Zur Abschätzung der Körperdosis der Arbeitskräfte gemäß §
+145 Absatz 1 des Strahlenschutzgesetzes sind stets die
+Dosiskoeffizienten für die berufliche Exposition gemäß Satz 2 zu
+verwenden.
 
 (4) Bei der Nutzung, Stilllegung, Sanierung und Folgenutzung
 bergbaulicher Anlagen und Einrichtungen, insbesondere der
@@ -6892,7 +7077,7 @@ Immissionsüberwachung. Diese haben folgende Aufgaben:
 
 
 (3) Die zuständige Behörde kann davon ausgehen, dass die nach Absatz 1
-und Absatz 2 Satz 2 erforderlichen Maßnahmen zur Emissions- und
+und 2 Satz 2 erforderlichen Maßnahmen zur Emissions- und
 Immissionsüberwachung getroffen sind, wenn der Emissions- und
 Immissionsüberwachung die Richtlinie zur Emissions- und
 Immissionsüberwachung bei bergbaulichen Tätigkeiten (REI-Bergbau)
@@ -7134,8 +7319,8 @@ Aktivität des enthaltenen oder zugesetzten radioaktiven Stoffes die
 Werte der Anlage 4 Tabelle 1 Spalte 2 und 3 überschreitet. Die Sätze 1
 und 2 gelten auch bei Wiederauffinden des radioaktiven Stoffes oder
 der in Satz 2 genannten Gegenstände. Die in Satz 1 genannten Behörden
-unterrichten sich jeweils wechselseitig unverzüglich über die von
-ihnen entgegengenommene Mitteilung.
+unterrichten sich nach pflichtgemäßem Ermessen jeweils wechselseitig
+unverzüglich über die von ihnen entgegengenommene Mitteilung.
 
 (2) Zusätzlich zu der Mitteilung nach Absatz 1 Satz 1 hat der
 Strahlenschutzverantwortliche dafür zu sorgen, dass das Abhandenkommen
@@ -7172,8 +7357,9 @@ erlangt. Satz 1 gilt entsprechend für denjenigen, der vermutet, einen
 radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes gefunden oder
 die tatsächliche Gewalt über einen radioaktiven Stoff nach § 3 des
 Strahlenschutzgesetzes erlangt zu haben. Die in Satz 1 genannten
-Behörden unterrichten sich jeweils wechselseitig unverzüglich über die
-von ihnen entgegengenommene Mitteilung.
+Behörden unterrichten sich nach pflichtgemäßem Ermessen jeweils
+wechselseitig unverzüglich über die von ihnen entgegengenommene
+Mitteilung.
 
 (2) Die zuständige Behörde teilt den Fund oder die Erlangung einer
 hochradioaktiven Strahlenquelle dem Register über hochradioaktive
@@ -7231,7 +7417,7 @@ der zuständigen Behörde verwenden, in Verkehr bringen oder entsorgen.
 Die atom- oder strahlenschutzrechtliche Aufsichtsbehörde informiert
 unverzüglich das Bundesministerium für Umwelt, Naturschutz und
 nukleare Sicherheit über eine nach § 167 Absatz 1 Satz 1 und 2, § 168
-Absatz 1 Satz 1 und 2 und Absatz 3 Satz 1 und § 169 Absatz 1 Satz 1
+Absatz 1 Satz 1 und Absatz 3 Satz 1 und § 169 Absatz 1 Satz 1
 erhaltene Mitteilung. Im Falle der Zuständigkeit einer Landesbehörde
 erfolgt die Information durch die zuständige oberste Landesbehörde.
 
@@ -7364,6 +7550,10 @@ Die zuständige Behörde kann davon ausgehen, dass die Anforderung nach
 Satz 1 Nummer 3 erfüllt ist, wenn der Pass dem Muster eines
 Strahlenpasses nach Allgemeinen Verwaltungsvorschriften entspricht.
 
+(2a) Die zuständige Behörde kann die Gültigkeit eines registrierten
+Strahlenpasses um bis zu fünf Jahre verlängern, wenn die Anforderungen
+nach Absatz 2 Satz 1 erfüllt sind.
+
 (3) Die nachfolgend genannten Personen oder die Behörde nach Absatz 2
 haben dafür zu sorgen, dass in den Strahlenpass mindestens die
 folgenden Angaben eingetragen werden:
@@ -7432,7 +7622,8 @@ zum Führen des Strahlenpasses Verpflichtete dafür zu sorgen, dass der
 Strahlenpass dem Strahlenpassinhaber zurückgegeben wird. Ein
 Strahlenpass, der nicht dem Strahlenpassinhaber zurückgegeben werden
 kann, ist der Behörde zu übergeben, die den Strahlenpass registriert
-hat.
+hat. Diese kann den Strahlenpass nach Ablauf von zehn Jahren nach dem
+Ende seiner Gültigkeit vernichten.
 
 (7) Ein außerhalb des Geltungsbereichs des Strahlenschutzgesetzes
 registrierter Strahlenpass kann verwendet werden, wenn er die
@@ -7448,6 +7639,19 @@ Ermächtigung darf nur einem Arzt erteilt werden, der die für die
 ärztliche Überwachung bei beruflicher Exposition erforderliche
 Fachkunde im Strahlenschutz nachweist. Sie ist auf fünf Jahre zu
 befristen.
+
+(1a) Ein ermächtigter Arzt, der außerhalb des Zuständigkeitsbereichs
+der Behörde, die ihm die Ermächtigung erteilt hat, tätig wird, hat der
+für die Ermächtigung von Ärzten zuständigen Behörde, in deren
+Zuständigkeitsbereich er tätig wird,
+
+1.  dies vor Aufnahme der Tätigkeit mitzuteilen und
+
+
+2.  eine Kopie der Ermächtigung zu übersenden.
+
+
+
 
 (2) Der ermächtigte Arzt hat die Aufgabe, die Erstuntersuchungen, die
 erneuten Untersuchungen und die Beurteilungen nach den §§ 77 und 78
@@ -7654,7 +7858,7 @@ entsprechend.
 
 (4) Wird eine erneute Bestimmung zum Sachverständigen beantragt und
 deckt sich der Tätigkeitsumfang der beantragten Bestimmung mit dem der
-letzten Bestimmung, muss der Einzelsachverständige oder die prüfende
+letzten Bestimmung, soll der Einzelsachverständige oder die prüfende
 Person
 
 1.  im Falle von § 172 Absatz 1 Satz 1 Nummer 1, 3 und 4 des
@@ -7777,10 +7981,18 @@ außerhalb des Zuständigkeitsbereichs der Behörde aus, die ihn bestimmt
 hat, so hat er der Behörde, in deren Zuständigkeitsbereich er tätig
 wird,
 
-1.  dies unverzüglich nach Aufnahme der Tätigkeit mitzuteilen und
+1.  dies in der Regel spätestens eine Woche vor Aufnahme der Tätigkeit
+    mitzuteilen,
 
 
-2.  eine Kopie des Bestimmungsbescheides zu übersenden.
+2.  eine Kopie des Bestimmungsbescheides zu übersenden,
+
+
+3.  Änderungen in der Bestimmung in der Regel spätestens eine Woche vor
+    Aufnahme der geänderten Tätigkeit mitzuteilen und
+
+
+4.  eine Kopie des geänderten Bestimmungsbescheids zu übersenden.
 
 
 
@@ -7837,13 +8049,22 @@ sind.
 
 (4) Übt eine prüfende Person eine Sachverständigentätigkeit außerhalb
 des Zuständigkeitsbereichs der Behörde aus, die die
-Sachverständigenorganisation bestimmt hat, so hat diese der Behörde,
-in deren Zuständigkeitsbereich die prüfende Person tätig wird,
+Sachverständigenorganisation bestimmt hat, so hat die
+Sachverständigenorganisation der Behörde, in deren
+Zuständigkeitsbereich die prüfende Person tätig wird,
 
-1.  dies unverzüglich nach Aufnahme der Tätigkeit mitzuteilen und
+1.  dies in der Regel spätestens eine Woche vor Aufnahme der Tätigkeit
+    mitzuteilen,
 
 
-2.  eine Kopie des Bestimmungsbescheides zu übersenden.
+2.  eine Kopie des Bestimmungsbescheides zu übersenden,
+
+
+3.  Änderungen in der Bestimmung in der Regel spätestens eine Woche vor
+    Aufnahme der geänderten Tätigkeit mitzuteilen und
+
+
+4.  eine Kopie des geänderten Bestimmungsbescheids zu übersenden.
 
 
 
@@ -7951,8 +8172,8 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 21. einer vollziehbaren Anordnung nach § 64 Absatz 4, § 66 Absatz 2 Satz
     4, § 77 Absatz 4 oder 5, § 81 Absatz 2 Satz 1, § 88 Absatz 5 Satz 1, §
-    89 Absatz 1 Satz 2, auch in Verbindung mit Absatz 2 Satz 2, oder § 103
-    Absatz 2 zuwiderhandelt,
+    89 Absatz 1 Satz 2, auch in Verbindung mit Absatz 2 Satz 2, nach § 103
+    Absatz 2 oder § 116 Absatz 1 Satz 3 zuwiderhandelt,
 
 
 22. entgegen § 68 Absatz 3 Satz 1 nicht dafür sorgt, dass eine dort
@@ -7968,8 +8189,9 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     Exposition ermittelt wird,
 
 
-25. entgegen § 70 Absatz 1 Satz 1 Nummer 1 nicht dafür sorgt, dass eine
-    Person Schutzkleidung trägt oder Schutzausrüstung verwendet,
+25. entgegen § 70 Absatz 1 Satz 1 Nummer 1 oder § 75 Absatz 1a nicht dafür
+    sorgt, dass eine Person Schutzkleidung trägt oder Schutzausrüstung
+    verwendet,
 
 
 26. entgegen § 70 Absatz 1 Satz 2 nicht dafür sorgt, dass eine Person
@@ -8148,10 +8370,10 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     vollständig oder nicht rechtzeitig übermittelt,
 
 
-2.  entgegen § 44 Absatz 1 Satz 1, § 65 Absatz 2 Satz 1 Nummer 1, § 85
-    Absatz 4 Satz 2, § 157 Absatz 5 Satz 1 Nummer 1 oder § 167 Absatz 2
-    Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine
-    Unterrichtung oder Information erfolgt,
+2.  entgegen § 44 Absatz 1 Satz 1, § 65 Absatz 2 Satz 1 Nummer 1, § 157
+    Absatz 5 Satz 1 Nummer 1 oder § 167 Absatz 2 Satz 1, auch in
+    Verbindung mit Satz 2, nicht dafür sorgt, dass eine Unterrichtung oder
+    Information erfolgt,
 
 
 3.  entgegen § 56 Absatz 2 Satz 1 oder § 57 Absatz 3 Satz 1 eine
@@ -8194,10 +8416,10 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     Messwert bereitgestellt wird,
 
 
-11. entgegen § 66 Absatz 4 Satz 2, § 85 Absatz 1 Satz 1 Nummer 1, auch in
-    Verbindung mit Satz 2, entgegen § 85 Absatz 4 Satz 1 Nummer 1 oder 2,
-    § 89 Absatz 4, § 141 Absatz 1 oder § 167 Absatz 2 Satz 1 oder 2 nicht
-    dafür sorgt, dass eine Mitteilung erfolgt,
+11. entgegen § 66 Absatz 4 Satz 2, § 85 Absatz 1 Satz 1 Nummer 1 erster
+    Halbsatz oder Nummer 3 oder Absatz 4, § 89 Absatz 4, § 141 Absatz 1
+    oder § 167 Absatz 2 Satz 1 oder 2 nicht dafür sorgt, dass eine
+    Mitteilung erfolgt,
 
 
 12. entgegen § 85 Absatz 3 Nummer 1 nicht dafür sorgt, dass eine Unterlage
@@ -8237,6 +8459,11 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     bereitgehalten wird,
 
 
+19a. entgegen § 98 Satz 1 Nummer 1 oder Nummer 2, jeweils auch in
+    Verbindung mit Satz 2, nicht dafür sorgt, dass eine dort genannte
+    Einweisung vorgenommen wird,
+
+
 20. entgegen § 98 Satz 1 Nummer 4, auch in Verbindung mit Satz 2, nicht
     dafür sorgt, dass eine Aufzeichnung aufbewahrt wird,
 
@@ -8250,7 +8477,7 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 23. entgegen § 109 Absatz 4 Satz 1 nicht dafür sorgt, dass eine
-    Aufzeichnung zehn Jahre aufbewahrt oder vorgelegt wird,
+    Aufzeichnung 30 Jahre aufbewahrt oder vorgelegt wird,
 
 
 24. entgegen § 127 Absatz 1, 2 Satz 1 oder Absatz 3, auch in Verbindung
@@ -8292,9 +8519,8 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     rechtzeitig vorlegt,
 
 
-32. entgegen § 147 Satz 1 nicht dafür sorgt, dass Röntgenstrahlung,
-    ionisierende Strahlung oder ein dort genannter radioaktiver Stoff von
-    einer dort genannten Person angewendet oder eingesetzt wird,
+32. entgegen § 147 Satz 1 nicht dafür sorgt, dass Röntgenstrahlung nur von
+    einer dort genannten Person angewendet wird,
 
 
 33. entgegen § 158 Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine
@@ -8330,9 +8556,9 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 40. entgegen § 183 Absatz 2 oder 4 eine Mitteilung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig macht oder eine Kopie des
-    Bestimmungsbescheides nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig übersendet oder
+    nicht vollständig oder nicht rechtzeitig macht oder eine Kopie nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet
+    oder
 
 
 41. entgegen § 183 Absatz 3 Satz 2 Nummer 3 nicht, nicht richtig oder
@@ -8365,18 +8591,21 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 #### § 185 Bauartzulassung (§§ 16 bis 26)
 
 Bauartzugelassene Vorrichtungen, die sonstige radioaktive Stoffe nach
-§ 3 Absatz 1 des Strahlenschutzgesetzes enthalten oder enthalten haben
-und die gemäß § 208 Absatz 2, 3 zweiter Teilsatz oder Absatz 4 des
-Strahlenschutzgesetzes weiterbetrieben werden, hat der Inhaber, sofern
-im Zulassungsschein nicht kürzere Fristen vorgesehen sind,
-entsprechend § 25 Absatz 4 Satz 1 alle zehn Jahre nach Auslaufen der
-Bauartzulassung auf Unversehrtheit und Dichtheit prüfen zu lassen.
-Liegt das Auslaufen der Bauartzulassung am 31. Dezember 2018 mehr als
-zehn Jahre zurück, hat die Prüfung der Unversehrtheit und Dichtheit
-spätestens bis zum 31. Dezember 2021 zu erfolgen. Die Sätze 1 und 2
-gelten nicht, wenn die Aktivität der in der Vorrichtung enthaltenen
-Stoffe unterhalb der Freigrenze nach Anlage 4 Tabelle 1 Spalte 2
-liegt.
+§ 3 Absatz 1 des Strahlenschutzgesetzes enthalten und die gemäß § 208
+Absatz 2, 3 zweiter Teilsatz oder Absatz 4 des Strahlenschutzgesetzes
+weiterbetrieben werden, hat der Inhaber, sofern im Zulassungsschein
+nicht kürzere Fristen vorgesehen sind, entsprechend § 25 Absatz 4 Satz
+1 alle zehn Jahre nach Auslaufen der Bauartzulassung auf
+Unversehrtheit und Dichtheit prüfen zu lassen. Liegt das Auslaufen der
+Bauartzulassung am 31. Dezember 2018 mehr als zehn Jahre zurück, hat
+die Prüfung der Unversehrtheit und Dichtheit spätestens bis zum 31.
+Dezember 2021 zu erfolgen. Die Sätze 1 und 2 gelten nicht, wenn die
+Aktivität der in der Vorrichtung enthaltenen Stoffe unterhalb der
+Freigrenze nach Anlage 4 Tabelle 1 Spalte 2 liegt oder wenn die
+Verwendung der Vorrichtung nach § 4 Absatz 2 Satz 2 in Verbindung mit
+Anlage III Teil B Nummer 4 der Strahlenschutzverordnung vom 30. Juni
+1989 (BGBl. I S. 1321) in der bis zum 31. Juli 2001 geltenden Fassung
+genehmigungs- und anzeigefrei war.
 
 
 #### § 186 Rückstände (§ 29)
@@ -8478,16 +8707,23 @@ Absatz 2 bis zum 1. Januar 2020 zu aktualisieren.
 
 
 gilt die erforderliche Fachkunde im Strahlenschutz als erworben und
-bescheinigt nach § 47 Absatz 1 Satz 1. Für Einzelsachverständige oder
-prüfende Personen einer Sachverständigenorganisation, die nach § 66
-der Strahlenschutzverordnung in der bis zum 31. Dezember 2018
-geltenden Fassung oder § 4a der Röntgenverordnung in der bis zum 31.
-Dezember 2018 geltenden Fassung bestimmt wurden und die bis zum 31.
-Dezember 2018 noch als solche tätig waren, gilt die erforderliche
-Fachkunde im Strahlenschutz als erworben und bescheinigt nach § 47
-Absatz 1 Satz 1. § 48 Absatz 1 Satz 1 bleibt unberührt. Im Übrigen
-gilt eine vor dem 31. Dezember 2018 erteilte Fachkundebescheinigung
-als Bescheinigung nach § 47 Absatz 1 Satz 1 fort.
+bescheinigt nach § 47 Absatz 1 Satz 1. Satz 1 gilt entsprechend für
+Personen, die die erforderliche Fachkunde im Strahlenschutz vor dem 1.
+August 2001 nach der Strahlenschutzverordnung vom 30. Juni 1989 (BGBl.
+I S. 1321) in der bis zum 31. Juli 2001 geltenden Fassung oder vor dem
+1\. Juli 2002 nach der Röntgenverordnung vom 8. Januar 1987 (BGBl. I S.
+114) in der bis zum 30. Juni 2002 geltenden Fassung erworben haben,
+aber nicht als Strahlenschutzbeauftragte bestellt waren. Für
+Einzelsachverständige oder prüfende Personen einer
+Sachverständigenorganisation, die nach § 66 der
+Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden
+Fassung oder § 4a der Röntgenverordnung in der bis zum 31. Dezember
+2018 geltenden Fassung bestimmt wurden und die bis zum 31. Dezember
+2018 noch als solche tätig waren, gilt die erforderliche Fachkunde im
+Strahlenschutz als erworben und bescheinigt nach § 47 Absatz 1 Satz 1.
+§ 48 Absatz 1 Satz 1 bleibt unberührt. Im Übrigen gilt eine vor dem
+31\. Dezember 2018 erteilte Fachkundebescheinigung als Bescheinigung
+nach § 47 Absatz 1 Satz 1 fort.
 
 (2) Hat die zuständige Behörde nach § 18a Absatz 1 Satz 5 der
 Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung
@@ -8536,7 +8772,7 @@ Absatz 1 Satz 1 bleibt unberührt.
 
 (5) Vor dem 31. Dezember 2018 von der zuständigen Stelle anerkannte
 Kurse zur Vermittlung der erforderlichen Fachkunde oder der
-erforderlichen Kenntnisse gelten bis zum 31. Dezember 2023 als
+erforderlichen Kenntnisse gelten bis zum 31. Dezember 2026 als
 anerkannt nach § 51 fort, soweit die Anerkennung keine kürzere Frist
 enthält.
 
@@ -8634,16 +8870,34 @@ Millisievert nicht überschritten wird.
 1\. Juli 2002 erstmals in Betrieb genommen wurden, ab dem 1. Januar
 2024\.
 
-(2) § 114 Absatz 1 Nummer 2 gilt vorbehaltlich des Satzes 2 nur für
-Röntgeneinrichtungen, die nach dem 1. Januar 2023 erstmals in Betrieb
-genommen werden. Für Röntgeneinrichtungen, die für die
-Computertomographie oder für die Durchleuchtung eingesetzt werden und
-die vor dem 31. Dezember 2018 erstmals in Betrieb genommen wurden,
-gilt § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023. Für
-Röntgeneinrichtungen, die für die Computertomographie oder für die
-Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018
-erstmals in Betrieb genommen wurden, gilt § 114 Absatz 1 Nummer 2 ab
-dem 1. Januar 2021.
+(2) § 114 Absatz 1 Nummer 2 gilt nur für Röntgeneinrichtungen, die
+nach dem 1. Januar 2023 erstmals in Betrieb genommen werden.
+Abweichend von Satz 1 gilt
+
+1.  für Röntgeneinrichtungen, die für die Computertomographie eingesetzt
+    werden und die vor dem 31. Dezember 2018 erstmals in Betrieb genommen
+    wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023,
+
+
+2.  für Röntgeneinrichtungen, die für die Durchleuchtung eingesetzt werden
+    und die ab dem 6. Februar 2018 bis einschließlich 30. Dezember 2018
+    erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1.
+    Januar 2023,
+
+
+3.  für Röntgeneinrichtungen, die für die Durchleuchtung mit erheblicher
+    Exposition eingesetzt werden und die vor dem 6. Februar 2018 erstmals
+    in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar
+    2023 und
+
+
+4.  für Röntgeneinrichtungen, die für die Computertomographie oder für die
+    Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018
+    erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1.
+    Januar 2021.
+
+
+
 
 (3) § 114 Absatz 1 Nummer 4 gilt für Röntgeneinrichtungen, die vor dem
 31\. Dezember 2018 erstmals in Betrieb genommen worden sind, erst ab
@@ -8679,7 +8933,7 @@ Nummer 1 zu verwenden.
 
 (2) Die in Anlage 18 Teil C Nummer 1 und 2 angegebenen Werte des
 Strahlungs-Wichtungsfaktors und des Gewebe-Wichtungsfaktors sind
-spätestens ab dem 1. Januar 2025 zu verwenden.
+spätestens ab dem 1. Juli 2027 zu verwenden.
 
 
 #### § 198 Strahlenpass (§ 174)
@@ -8920,11 +9174,12 @@ Erforderlich sind
 
 
 
-(zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)
+(zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)
 
 #### Anlage 3 Genehmigungsfreie Tätigkeiten
 
-(Fundstelle: BGBl. I 2018, 2106 - 2107)
+(Fundstelle: BGBl. I 2018, 2106 - 2107
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Teil A:**
 
@@ -9008,8 +9263,8 @@ Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf
 Material ionisierende Strahlung erzeugt werden kann, falls die
 Bestrahlungsstärke der Laserstrahlung 1 x 10
 13              Watt pro Quadratzentimeter nicht überschreitet und die
-Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1
-Mikrosievert durch Stunde nicht überschreitet.
+Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche
+1 Mikrosievert durch Stunde nicht überschreitet.
 
 
 ## **Teil D:**
@@ -9085,12 +9340,21 @@ Genehmigungs- und anmeldefrei nach § 14 ist die Verbringung von
 
 
 
+## **Teil F:**
+
+Genehmigungsfrei nach § 5a ist der Zusatz von Kalium-40 als natürlich
+vorkommendes Radionuklid zu Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des
+Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136), das zuletzt
+durch Artikel 2 Absatz 13 des Gesetzes vom 20. Dezember 2022 (BGBl. I
+S. 2752) geändert worden ist, bis zu 10 Becquerel je Gramm im Produkt.
+
 (zu den §§ 5, 10, 11, 12, 16, 31, 35, 36, 37, 52, 57, 58,
 61, 70, 83, 87, 88, 89, 92, 104, 106, 167, 187 und Anlage 3)
 
 #### Anlage 4 Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination, Liste der Radionuklide und bei den Berechnungen berücksichtigte Tochternuklide
 
-(Fundstelle: BGBl. I 2018, 2108 - 2124)
+(Fundstelle: BGBl. I 2018, 2108 - 2124
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Zu Tabelle 1:**
 **Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für
@@ -9148,12 +9412,12 @@ hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination**
 *    *   Erläuterung
         zu Spalte 3:
 
-    *   Bei Messungen nach den §§ 57 und 58 gilt für die zugrunde zu legende
+    *   Bei Messungen nach § 58 gilt für die zugrunde zu legende
         Mittelungsmasse M: 3 kg*                        M*
-        300 kg. Bei einer Masse*                        3 kg ist bei Messungen
-        nach den §§ 57 und 58 die spezifische Aktivität nicht gesondert zu
-        bestimmen, wenn die Oberflächenkontamination ermittelt und
-        entsprechend § 57 Absatz 2 Satz 2 Nummer 2 bewertet wird.
+        300 kg. Bei einer Masse M*                        3 kg ist die
+        spezifische Aktivität nicht gesondert zu bestimmen, wenn die
+        Oberflächenkontamination nach § 58 Absatz 2 Satz 2 Nummer 2 ermittelt
+        wird.
 
 
 *    *   Erläuterung
@@ -9257,23 +9521,19603 @@ hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination**
 
 
 
-![bgbl1_2018_j2034-1_0040.jpg](bgbl1_2018_j2034-1_0040.jpg)
-![bgbl1_2018_j2034-1_0050.jpg](bgbl1_2018_j2034-1_0050.jpg)
-![bgbl1_2018_j2034-1_0060.jpg](bgbl1_2018_j2034-1_0060.jpg)
-![bgbl1_2018_j2034-1_0070.jpg](bgbl1_2018_j2034-1_0070.jpg)
-![bgbl1_2018_j2034-1_0080.jpg](bgbl1_2018_j2034-1_0080.jpg)
-![bgbl1_2018_j2034-1_0090.jpg](bgbl1_2018_j2034-1_0090.jpg)
-![bgbl1_2018_j2034-1_0100.jpg](bgbl1_2018_j2034-1_0100.jpg)
-![bgbl1_2018_j2034-1_0110.jpg](bgbl1_2018_j2034-1_0110.jpg)
-![bgbl1_2018_j2034-1_0120.jpg](bgbl1_2018_j2034-1_0120.jpg)
-![bgbl1_2018_j2034-1_0130.jpg](bgbl1_2018_j2034-1_0130.jpg)
-![bgbl1_2018_j2034-1_0140.jpg](bgbl1_2018_j2034-1_0140.jpg)
-![bgbl1_2018_j2034-1_0150-mod-929x1400.jpg](bgbl1_2018_j2034-1_0150-mod-929x1400.jpg)
+## **Tabelle 1**
+
+## Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte
+der Oberflächenkontamination
 
 
-Tabelle 2
-## **Liste der Radionuklide und der bei der Berechnung
-berücksichtigten Tochternuklide**
+*    *   Radionuklid
+
+    *   Freigrenze
+        in Bq
+
+    *   Freigrenze, uneingeschränkte Freigabe
+        von festen u. flüssigen Stoffen in Bq/g
+
+    *   Aktivität HRQ
+        in TBq
+
+    *   Oberflächenkontamination
+        in Bq/cm
+        2
+
+    *   spezifische Freigabe von
+
+    *
+    *
+
+*    *   Bauschutt von mehr als
+        1000 Mg/a in Bq/g
+
+    *   Bodenflächen
+        in Bq/g
+
+    *   festen Stoffen bis zu 100 Mg/a zur
+        Beseitigung auf Deponien in Bq/g
+
+    *   Stoffen bis zu 100 Mg/a zur
+        Beseitigung in Verbrennungsanlagen in Bq/g
+
+    *   festen Stoffen bis zu 1000 Mg/a
+        zur Beseitigung auf Deponien in Bq/g
+
+    *   Stoffen bis zu 1000 Mg/a zur
+        Beseitigung in Verbrennungsanlagen in Bq/g
+
+    *   Gebäuden zur Wieder- und
+        Weiterverwendung in Bq/cm
+        2
+
+    *   Gebäuden zum Abriss
+        in Bq/cm
+        2
+
+    *   Metallschrott zum Recycling
+        in Bq/g
+
+    *   Halbwertszeit
+
+    *
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+    *   15
+
+    *
+
+
+
+*    *   H-3
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   2 E+3
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   3
+
+    *   6 E+4
+
+    *   1 E+5
+
+    *   6 E+3
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   4 E+3
+
+    *   1 E+3
+
+    *   12,3
+
+    *   a
+
+
+*    *   Be-7
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   1
+
+    *   1 E+2
+
+    *   3 E+1
+
+    *   2
+
+    *   3 E+2
+
+    *   4 E+2
+
+    *   9 E+1
+
+    *   4 E+1
+
+    *   8 E+1
+
+    *   6 E+2
+
+    *   3 E+2
+
+    *   53,2
+
+    *   d
+
+
+*    *   Be-10
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,6 E+6
+
+    *   a
+
+
+*    *   C-11
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,4
+
+    *   m
+
+
+*    *   C-11
+        Monoxid,
+        Dioxid
+
+    *   1 E+9
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,4
+
+    *   m
+
+
+*    *   C-14
+
+    *   1 E+7
+
+    *   1
+
+    *   5 E+1
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   4 E+3
+
+    *   4 E+3
+
+    *   4 E+2
+
+    *   4 E+2
+
+    *   1 E+3
+
+    *   6 E+3
+
+    *   8 E+1
+
+    *   5,7 E+3
+
+    *   a
+
+
+*    *   C-14
+        Monoxid,
+        Dioxid
+
+    *   1 E+11
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,7 E+3
+
+    *   a
+
+
+*    *   N-13
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,0
+
+    *   m
+
+
+*    *   O-15
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,0
+
+    *   m
+
+
+*    *   F-18
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+4
+
+    *   1 E+1
+
+    *   109,7
+
+    *   m
+
+
+*    *   Na-22
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   4 E-3
+
+    *   7
+
+    *   9
+
+    *   2
+
+    *   2
+
+    *   4 E-1
+
+    *   4
+
+    *   1 E-1
+
+    *   2,6
+
+    *   a
+
+
+*    *   Na-24
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   7 E+2
+
+    *   1 E+1
+
+    *   15,0
+
+    *   h
+
+
+*    *   Mg-28+
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,9
+
+    *   h
+
+
+*    *   Al-26
+
+    *   1 E+5
+
+    *   1 E-2
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   7,2 E+5
+
+    *   a
+
+
+*    *   Si-31
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   2 E+7
+
+    *   1 E+3
+
+    *   2,6
+
+    *   h
+
+
+*    *   Si-32+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   7
+
+    *
+    *
+    *
+    *   1 E+3
+
+    *   1 E+3
+
+    *   4 E+2
+
+    *   9 E+2
+
+    *
+    *
+    *   5 E+2
+
+    *   132,0
+
+    *   a
+
+
+*    *   P-32
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   2 E-2
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   4 E+5
+
+    *   2 E+1
+
+    *   14,3
+
+    *   d
+
+
+*    *   P-33
+
+    *   1 E+8
+
+    *   1 E+3
+
+    *   2 E+2
+
+    *   1 E+2
+
+    *   2 E+2
+
+    *   8 E-2
+
+    *   1 E+5
+
+    *   1 E+5
+
+    *   2 E+4
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   6 E+5
+
+    *   2 E+2
+
+    *   25,4
+
+    *   d
+
+
+*    *   S-35
+
+    *   1 E+8
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   1 E+2
+
+    *   5 E+2
+
+    *   1 E-2
+
+    *   5 E+3
+
+    *   2 E+4
+
+    *   5 E+2
+
+    *   2 E+3
+
+    *   1 E+3
+
+    *   2 E+5
+
+    *   6 E+2
+
+    *   87,3
+
+    *   d
+
+
+*    *   S-35
+        Gas
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   87,3
+
+    *   d
+
+
+*    *   Cl-36
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   3 E-1
+
+    *
+    *   3
+
+    *   3
+
+    *   3 E-1
+
+    *   3 E-1
+
+    *   3 E+1
+
+    *   3 E+1
+
+    *   1 E+1
+
+    *   3,0 E+5
+
+    *   a
+
+
+*    *   Cl-38
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+4
+
+    *   1 E+1
+
+    *   37,2
+
+    *   m
+
+
+*    *   Cl-39
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   55,6
+
+    *   m
+
+
+*    *   Ar-37
+
+    *   1 E+8
+
+    *   1 E+6
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   35,0
+
+    *   d
+
+
+*    *   Ar-39
+
+    *   1 E+4
+
+    *   1 E+7
+
+    *   3 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   269,0
+
+    *   a
+
+
+*    *   Ar-41
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   5 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   K-40
+
+    *   1 E+6
+
+    *   1
+
+    *   UL
+
+    *   1 E+1
+
+    *   8 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   6
+
+    *   2 E+1
+
+    *
+    *   1,3 E+9
+
+    *   a
+
+
+*    *   K-42
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   8 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+4
+
+    *   1 E+2
+
+    *   12,4
+
+    *   h
+
+
+*    *   K-43
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   7 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+3
+
+    *   1 E+1
+
+    *   22,2
+
+    *   h
+
+
+*    *   K-44
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,1
+
+    *   m
+
+
+*    *   K-45
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,3
+
+    *   m
+
+
+*    *   Ca-41
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   UL
+
+    *
+    *
+    *
+    *   2 E+2
+
+    *   1 E+3
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *   1,0 E+5
+
+    *   a
+
+
+*    *   Ca-45+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+2
+
+    *   4 E-2
+
+    *   5 E+3
+
+    *   1 E+4
+
+    *   5 E+2
+
+    *   4 E+3
+
+    *   1 E+3
+
+    *   6 E+4
+
+    *   6 E+2
+
+    *   163,0
+
+    *   d
+
+
+*    *   Ca-47
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+2
+
+    *   1 E+1
+
+    *   4,5
+
+    *   d
+
+
+*    *   Sc-43
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,9
+
+    *   h
+
+
+*    *   Sc-44
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,0
+
+    *   h
+
+
+*    *   Sc-44m+
+
+    *   1 E+7
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   d
+
+
+*    *   Sc-46
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   8
+
+    *   9
+
+    *   2
+
+    *   2
+
+    *   1
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   83,8
+
+    *   d
+
+
+*    *   Sc-47
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   6 E+3
+
+    *   1 E+2
+
+    *   3,4
+
+    *   d
+
+
+*    *   Sc-48
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *   1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   3 E+2
+
+    *   1 E+1
+
+    *   43,7
+
+    *   h
+
+
+*    *   Sc-49
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   57,2
+
+    *   m
+
+
+*    *   Ti-44+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *   7
+
+    *
+    *   7 E-1
+
+    *
+    *
+    *
+    *   60,0
+
+    *   a
+
+
+*    *   Ti-45
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,1
+
+    *   h
+
+
+*    *   V-47
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   32,6
+
+    *   m
+
+
+*    *   V-48
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *   3 E-2
+
+    *   6
+
+    *   7
+
+    *   2
+
+    *   2
+
+    *   1
+
+    *   4 E+1
+
+    *   1
+
+    *   16,0
+
+    *   d
+
+
+*    *   V-49
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *   2 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   330,0
+
+    *   d
+
+
+*    *   Cr-48
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,6
+
+    *   h
+
+
+*    *   Cr-49
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   41,9
+
+    *   m
+
+
+*    *   Cr-51
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   8
+
+    *   3
+
+    *   5 E+2
+
+    *   9 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   2 E+3
+
+    *   1 E+3
+
+    *   27,7
+
+    *   d
+
+
+*    *   Mn-51
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   5 E+4
+
+    *   1 E+1
+
+    *   46,2
+
+    *   m
+
+
+*    *   Mn-52
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *   1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   9 E+1
+
+    *   1 E+1
+
+    *   5,6
+
+    *   d
+
+
+*    *   Mn-52m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   5 E+4
+
+    *   1 E+1
+
+    *   21,2
+
+    *   m
+
+
+*    *   Mn-53
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   UL
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   3
+
+    *   6 E+2
+
+    *   4 E+3
+
+    *   6 E+1
+
+    *   4 E+2
+
+    *   1 E+3
+
+    *   2 E+4
+
+    *   1 E+4
+
+    *   3,7 E+6
+
+    *   a
+
+
+*    *   Mn-54
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *   9 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   6
+
+    *   6
+
+    *   1
+
+    *   1 E+1
+
+    *   2
+
+    *   312,1
+
+    *   d
+
+
+*    *   Mn-56
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   9 E+3
+
+    *   1 E+1
+
+    *   2,6
+
+    *   h
+
+
+*    *   Fe-52+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-2
+
+    *   1 E+2
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+3
+
+    *   1 E+1
+
+    *   8,3
+
+    *   h
+
+
+*    *   Fe-55
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   8 E+2
+
+    *   1 E+2
+
+    *   2 E+2
+
+    *   6
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   7 E+3
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   2 E+4
+
+    *   1 E+4
+
+    *   2,7
+
+    *   a
+
+
+*    *   Fe-59
+
+    *   1 E+6
+
+    *   1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   6 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   1
+
+    *   3 E+1
+
+    *   1 E+1
+
+    *   44,5
+
+    *   d
+
+
+*    *   Fe-60+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,5 E+6
+
+    *   a
+
+
+*    *   Co-55
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   17,5
+
+    *   h
+
+
+*    *   Co-56
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   2 E-2
+
+    *   1
+
+    *   6 E-2
+
+    *   2 E-2
+
+    *   4
+
+    *   5
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   6
+
+    *   4 E-1
+
+    *   77,3
+
+    *   d
+
+
+*    *   Co-57
+
+    *   1 E+6
+
+    *   1
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   3
+
+    *   8 E-1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   5 E+1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   271,8
+
+    *   d
+
+
+*    *   Co-58
+
+    *   1 E+6
+
+    *   1
+
+    *   7 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   8 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   5
+
+    *   5
+
+    *   1
+
+    *   3 E+1
+
+    *   1
+
+    *   70,9
+
+    *   d
+
+
+*    *   Co-58m
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *   7 E-2
+
+    *   1 E+2
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+3
+
+    *   1 E+9
+
+    *   1 E+4
+
+    *   8,9
+
+    *   h
+
+
+*    *   Co-60
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *   1
+
+    *   9 E-2
+
+    *   3 E-2
+
+    *   6
+
+    *   7
+
+    *   2
+
+    *   2
+
+    *   4 E-1
+
+    *   3
+
+    *   6 E-1
+
+    *   5,3
+
+    *   a
+
+
+*    *   Co-60m
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *   1 E+2
+
+    *   6 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+3
+
+    *   7 E+7
+
+    *   1 E+3
+
+    *   10,5
+
+    *   m
+
+
+*    *   Co-61
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+5
+
+    *   1 E+2
+
+    *   1,7
+
+    *   h
+
+
+*    *   Co-62m+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   8 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   7 E+4
+
+    *   1 E+1
+
+    *   13,9
+
+    *   m
+
+
+*    *   Ni-56
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,1
+
+    *   d
+
+
+*    *   Ni-57
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   35,9
+
+    *   h
+
+
+*    *   Ni-59
+
+    *   1 E+8
+
+    *   1 E+2
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   3 E+2
+
+    *   8
+
+    *   3 E+3
+
+    *   1 E+4
+
+    *   3 E+2
+
+    *   3 E+3
+
+    *   1 E+3
+
+    *   9 E+4
+
+    *   1 E+4
+
+    *   7,6 E+4
+
+    *   a
+
+
+*    *   Ni-63
+
+    *   1 E+8
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   1 E+2
+
+    *   3 E+2
+
+    *   3
+
+    *   1 E+4
+
+    *   6 E+4
+
+    *   1 E+3
+
+    *   6 E+3
+
+    *   1 E+3
+
+    *   4 E+4
+
+    *   1 E+4
+
+    *   100,6
+
+    *   a
+
+
+*    *   Ni-65
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   4 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+4
+
+    *   1 E+1
+
+    *   2,5
+
+    *   h
+
+
+*    *   Ni-66+
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   54,4
+
+    *   h
+
+
+*    *   Cu-60
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   23,7
+
+    *   m
+
+
+*    *   Cu-61
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,3
+
+    *   h
+
+
+*    *   Cu-64
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+4
+
+    *   1 E+2
+
+    *   12,7
+
+    *   h
+
+
+*    *   Cu-67
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   61,9
+
+    *   h
+
+
+*    *   Zn-62+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,3
+
+    *   h
+
+
+*    *   Zn-63
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,4
+
+    *   m
+
+
+*    *   Zn-65
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   1 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   8
+
+    *   3
+
+    *   2
+
+    *   2 E+1
+
+    *   5 E-1
+
+    *   244,2
+
+    *   d
+
+
+*    *   Zn-69
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   3 E+1
+
+    *   1 E+2
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+9
+
+    *   1 E+4
+
+    *   56,4
+
+    *   m
+
+
+*    *   Zn-69m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   7 E+3
+
+    *   1 E+2
+
+    *   13,8
+
+    *   h
+
+
+*    *   Zn-71m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,0
+
+    *   h
+
+
+*    *   Zn-72+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   46,5
+
+    *   h
+
+
+*    *   Ga-65
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,2
+
+    *   m
+
+
+*    *   Ga-66
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,5
+
+    *   h
+
+
+*    *   Ga-67
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,3
+
+    *   d
+
+
+*    *   Ga-68
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   67,7
+
+    *   m
+
+
+*    *   Ga-70
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,1
+
+    *   m
+
+
+*    *   Ga-72
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   14,1
+
+    *   h
+
+
+*    *   Ga-73+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,9
+
+    *   h
+
+
+*    *   Ge-66
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,3
+
+    *   h
+
+
+*    *   Ge-67
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,9
+
+    *   m
+
+
+*    *   Ge-68+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   5
+
+    *   2
+
+    *   1
+
+    *   1 E+1
+
+    *
+    *   271,0
+
+    *   d
+
+
+*    *   Ge-69
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   39,1
+
+    *   h
+
+
+*    *   Ge-71
+
+    *   1 E+8
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   4 E+3
+
+    *   5 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   9 E+7
+
+    *   4 E+3
+
+    *   11,4
+
+    *   d
+
+
+*    *   Ge-75
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   82,8
+
+    *   m
+
+
+*    *   Ge-77
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,3
+
+    *   h
+
+
+*    *   Ge-78
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   88,0
+
+    *   m
+
+
+*    *   As-69
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,2
+
+    *   m
+
+
+*    *   As-70
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   52,6
+
+    *   m
+
+
+*    *   As-71
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   65,3
+
+    *   h
+
+
+*    *   As-72
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   26,0
+
+    *   h
+
+
+*    *   As-73+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   4 E+1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   4 E+2
+
+    *   2 E+4
+
+    *   1 E+2
+
+    *   80,3
+
+    *   d
+
+
+*    *   As-74
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   9 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   3
+
+    *   1
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   17,8
+
+    *   d
+
+
+*    *   As-76
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+3
+
+    *   1 E+2
+
+    *   26,2
+
+    *   h
+
+
+*    *   As-77
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   8
+
+    *   1 E+2
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   38,8
+
+    *   h
+
+
+*    *   As-78
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,5
+
+    *   h
+
+
+*    *   Se-70
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   41,1
+
+    *   m
+
+
+*    *   Se-73
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   7,2
+
+    *   h
+
+
+*    *   Se-73m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   39,8
+
+    *   m
+
+
+*    *   Se-75
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *   4 E-3
+
+    *   4 E+1
+
+    *   7 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   5
+
+    *   5 E+1
+
+    *   3
+
+    *   119,6
+
+    *   d
+
+
+*    *   Se-79
+
+    *   1 E+7
+
+    *   1 E-1
+
+    *   2 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,8 E+5
+
+    *   a
+
+
+*    *   Se-81
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,4
+
+    *   m
+
+
+*    *   Se-81m+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   57,3
+
+    *   m
+
+
+*    *   Se-83
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,3
+
+    *   m
+
+
+*    *   Br-74
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,4
+
+    *   m
+
+
+*    *   Br-74m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   46,0
+
+    *   m
+
+
+*    *   Br-75
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,6
+
+    *   h
+
+
+*    *   Br-76
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,2
+
+    *   h
+
+
+*    *   Br-77
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   57,0
+
+    *   h
+
+
+*    *   Br-80
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,6
+
+    *   m
+
+
+*    *   Br-80m+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4
+
+    *   h
+
+
+*    *   Br-82
+
+    *   1 E+6
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+2
+
+    *   1 E+1
+
+    *   35,3
+
+    *   h
+
+
+*    *   Br-83+
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   h
+
+
+*    *   Br-84
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   31,8
+
+    *   m
+
+
+*    *   Kr-74
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,5
+
+    *   m
+
+
+*    *   Kr-76
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,6
+
+    *   h
+
+
+*    *   Kr-77
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,2
+
+    *   h
+
+
+*    *   Kr-79
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   34,9
+
+    *   h
+
+
+*    *   Kr-81
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1 E+5
+
+    *   a
+
+
+*    *   Kr-81m
+
+    *   1 E+10
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,3
+
+    *   s
+
+
+*    *   Kr-83m
+
+    *   1 E+12
+
+    *   1 E+5
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   Kr-85
+
+    *   1 E+4
+
+    *   1 E+5
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,8
+
+    *   a
+
+
+*    *   Kr-85m
+
+    *   1 E+10
+
+    *   1 E+3
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,5
+
+    *   h
+
+
+*    *   Kr-87
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   76,3
+
+    *   m
+
+
+*    *   Kr-88+
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,8
+
+    *   h
+
+
+*    *   Rb-79
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,9
+
+    *   m
+
+
+*    *   Rb-81+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,6
+
+    *   h
+
+
+*    *   Rb-81m+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   30,3
+
+    *   m
+
+
+*    *   Rb-82m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,5
+
+    *   h
+
+
+*    *   Rb-83+
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   4 E-1
+
+    *
+    *   3 E+1
+
+    *   4 E+1
+
+    *   9
+
+    *   9
+
+    *   5
+
+    *   4 E+1
+
+    *   7 E-1
+
+    *   86,2
+
+    *   d
+
+
+*    *   Rb-84
+
+    *   1 E+6
+
+    *   1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *   2 E+1
+
+    *
+    *   6
+
+    *
+    *
+    *
+    *   33,5
+
+    *   d
+
+
+*    *   Rb-86
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *   5 E-2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   1 E+3
+
+    *   2 E+1
+
+    *   18,6
+
+    *   d
+
+
+*    *   Rb-87
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,8 E+10
+
+    *   a
+
+
+*    *   Rb-88
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,8
+
+    *   m
+
+
+*    *   Rb-89
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,4
+
+    *   m
+
+
+*    *   Sr-80+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   Sr-81
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,3
+
+    *   m
+
+
+*    *   Sr-82+
+
+    *   1 E+5
+
+    *   1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,4
+
+    *   d
+
+
+*    *   Sr-83
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   32,4
+
+    *   h
+
+
+*    *   Sr-85
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   1 E-1
+
+    *   3 E+1
+
+    *   4 E+1
+
+    *   9
+
+    *   9
+
+    *   6
+
+    *   5 E+1
+
+    *   1
+
+    *   64,8
+
+    *   d
+
+
+*    *   Sr-85m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+5
+
+    *   1 E+2
+
+    *   67,6
+
+    *   m
+
+
+*    *   Sr-87m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+4
+
+    *   1 E+2
+
+    *   2,8
+
+    *   h
+
+
+*    *   Sr-89+
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   3 E-2
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   7 E+4
+
+    *   2 E+1
+
+    *   50,6
+
+    *   d
+
+
+*    *   Sr-90+
+
+    *   1 E+4
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   6 E-1
+
+    *   2 E-3
+
+    *   6
+
+    *   4 E+1
+
+    *   6 E-1
+
+    *   4
+
+    *   3 E+1
+
+    *   3 E+1
+
+    *   9
+
+    *   28,8
+
+    *   a
+
+
+*    *   Sr-91+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   6 E+3
+
+    *   1 E+1
+
+    *   9,6
+
+    *   h
+
+
+*    *   Sr-92
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   2,7
+
+    *   h
+
+
+*    *   Y-86
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,7
+
+    *   h
+
+
+*    *   Y-86m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   48,0
+
+    *   m
+
+
+*    *   Y-87+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   79,8
+
+    *   h
+
+
+*    *   Y-88
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *
+    *   6
+
+    *   7
+
+    *   2
+
+    *   2
+
+    *   9 E-1
+
+    *   7
+
+    *   2 E-1
+
+    *   106,6
+
+    *   d
+
+
+*    *   Y-90
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   5
+
+    *   1 E+2
+
+    *   6 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   2 E+6
+
+    *   1 E+3
+
+    *   64,1
+
+    *   h
+
+
+*    *   Y-91
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   8
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   5
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   5 E+4
+
+    *   3 E+1
+
+    *   58,5
+
+    *   d
+
+
+*    *   Y-91m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   9 E+4
+
+    *   1 E+2
+
+    *   49,7
+
+    *   m
+
+
+*    *   Y-92
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+4
+
+    *   1 E+2
+
+    *   3,5
+
+    *   h
+
+
+*    *   Y-93
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   6 E-1
+
+    *   1 E+1
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+4
+
+    *   1 E+2
+
+    *   10,2
+
+    *   h
+
+
+*    *   Y-94
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,7
+
+    *   m
+
+
+*    *   Y-95
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,3
+
+    *   m
+
+
+*    *   Zr-86+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,5
+
+    *   h
+
+
+*    *   Zr-88
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   83,0
+
+    *   d
+
+
+*    *   Zr-89+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   78,4
+
+    *   h
+
+
+*    *   Zr-93
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   UL
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   2 E+1
+
+    *   8 E+2
+
+    *   8 E+3
+
+    *   8 E+1
+
+    *   8 E+2
+
+    *   1 E+2
+
+    *   3 E+3
+
+    *   1 E+1
+
+    *   1,5 E+6
+
+    *   a
+
+
+*    *   Zr-95+
+
+    *   1 E+6
+
+    *   1
+
+    *   4 E-2
+
+    *   1
+
+    *   9 E-2
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   1
+
+    *   2 E+1
+
+    *   6 E-1
+
+    *   64,0
+
+    *   d
+
+
+*    *   Zr-97
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+3
+
+    *
+    *   16,8
+
+    *   h
+
+
+*    *   Zr-97+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   16,8
+
+    *   h
+
+
+*    *   Nb-88
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,5
+
+    *   m
+
+
+*    *   Nb-89+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,0
+
+    *   h
+
+
+*    *   Nb-90+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,6
+
+    *   h
+
+
+*    *   Nb-91
+
+    *
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,8 E+2
+
+    *   a
+
+
+*    *   Nb-91m
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6 E+1
+
+    *   d
+
+
+*    *   Nb-93m
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   4 E+2
+
+    *   4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   4 E+3
+
+    *   1 E+4
+
+    *   5 E+2
+
+    *   4 E+4
+
+    *   4 E+2
+
+    *   16,1
+
+    *   a
+
+
+*    *   Nb-94
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3
+
+    *   3
+
+    *   5 E-1
+
+    *   4
+
+    *   4 E-1
+
+    *   2,0 E+4
+
+    *   a
+
+
+*    *   Nb-95
+
+    *   1 E+6
+
+    *   1
+
+    *   9 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   6
+
+    *   6
+
+    *   1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   35,0
+
+    *   d
+
+
+*    *   Nb-97
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+4
+
+    *   1 E+1
+
+    *   72,1
+
+    *   m
+
+
+*    *   Nb-98m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+4
+
+    *   1 E+1
+
+    *   51,3
+
+    *   m
+
+
+*    *   Mo-90+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   9 E+3
+
+    *   1 E+1
+
+    *   5,6
+
+    *   h
+
+
+*    *   Mo-93
+
+    *   1 E+8
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   4
+
+    *   2 E-1
+
+    *   4 E+1
+
+    *   3 E+2
+
+    *   4
+
+    *   3 E+1
+
+    *   8 E+1
+
+    *   2 E+3
+
+    *   2 E+2
+
+    *   4,0 E+3
+
+    *   a
+
+
+*    *   Mo-99+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+3
+
+    *   1 E+2
+
+    *   65,9
+
+    *   h
+
+
+*    *   Mo-101+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   2 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+4
+
+    *   1 E+1
+
+    *   14,6
+
+    *   m
+
+
+*    *   Tc-93
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,8
+
+    *   h
+
+
+*    *   Tc-93m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   43,5
+
+    *   m
+
+
+*    *   Tc-94
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,9
+
+    *   h
+
+
+*    *   Tc-94m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   52,0
+
+    *   m
+
+
+*    *   Tc-95m+
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   61,0
+
+    *   d
+
+
+*    *   Tc-96
+
+    *   1 E+6
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+2
+
+    *   1 E+1
+
+    *   4,3
+
+    *   d
+
+
+*    *   Tc-96m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   3 E-2
+
+    *   1 E+2
+
+    *   5
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   51,5
+
+    *   m
+
+
+*    *   Tc-97
+
+    *   1 E+8
+
+    *   1 E+1
+
+    *   UL
+
+    *   1 E+2
+
+    *   6
+
+    *   8 E-2
+
+    *   7 E+1
+
+    *   6 E+1
+
+    *   7
+
+    *   6
+
+    *   8 E+1
+
+    *   7 E+2
+
+    *   4 E+2
+
+    *   2,6 E+6
+
+    *   a
+
+
+*    *   Tc-97m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   1 E+2
+
+    *   9
+
+    *   1 E-2
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   2 E+2
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   5 E+2
+
+    *   1 E+3
+
+    *   90,2
+
+    *   d
+
+
+*    *   Tc-98
+
+    *
+    *   1 E-1
+
+    *   5 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,2 E+6
+
+    *   a
+
+
+*    *   Tc-99
+
+    *   1 E+7
+
+    *   1
+
+    *   3 E+1
+
+    *   1 E+2
+
+    *   6 E-1
+
+    *
+    *   7
+
+    *   6
+
+    *   7 E-1
+
+    *   6 E-1
+
+    *   7 E+1
+
+    *   7 E+1
+
+    *   4 E+1
+
+    *   2,1 E+5
+
+    *   a
+
+
+*    *   Tc-99m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   7 E+4
+
+    *   1 E+2
+
+    *   6,0
+
+    *   h
+
+
+*    *   Tc-101
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,2
+
+    *   m
+
+
+*    *   Tc-104
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,3
+
+    *   m
+
+
+*    *   Ru-94
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   51,8
+
+    *   m
+
+
+*    *   Ru-97
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+3
+
+    *   1 E+2
+
+    *   2,9
+
+    *   d
+
+
+*    *   Ru-103+
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   4
+
+    *   2 E-1
+
+    *   3 E+1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   9 E+1
+
+    *   4 E+1
+
+    *   39,3
+
+    *   d
+
+
+*    *   Ru-105+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   8 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   4,4
+
+    *   h
+
+
+*    *   Ru-106+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *   3 E-1
+
+    *   7 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   2 E+1
+
+    *   6
+
+    *   5 E+1
+
+    *   1
+
+    *   372,6
+
+    *   d
+
+
+*    *   Rh-99
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,1
+
+    *   d
+
+
+*    *   Rh-99m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,7
+
+    *   h
+
+
+*    *   Rh-100
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,8
+
+    *   h
+
+
+*    *   Rh-101
+
+    *   1 E+7
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *
+    *   2 E+1
+
+    *
+    *
+    *
+    *   3,2
+
+    *   a
+
+
+*    *   Rh-101m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,3
+
+    *   d
+
+
+*    *   Rh-102
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,9
+
+    *   a
+
+
+*    *   Rh-102m
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *   4 E+1
+
+    *
+    *   9
+
+    *
+    *
+    *
+    *   219,0
+
+    *   d
+
+
+*    *   Rh-103m
+
+    *   1 E+8
+
+    *   1 E+4
+
+    *   9 E+2
+
+    *   1 E+2
+
+    *   7 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+3
+
+    *   1 E+9
+
+    *   1 E+4
+
+    *   56,1
+
+    *   m
+
+
+*    *   Rh-105
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   9 E-1
+
+    *   1 E+1
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+4
+
+    *   1 E+2
+
+    *   35,4
+
+    *   h
+
+
+*    *   Rh-106m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,2
+
+    *   h
+
+
+*    *   Rh-107
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,7
+
+    *   m
+
+
+*    *   Pd-100+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,6
+
+    *   d
+
+
+*    *   Pd-101
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,5
+
+    *   h
+
+
+*    *   Pd-103+
+
+    *   1 E+8
+
+    *   1 E+3
+
+    *   9 E+1
+
+    *   1 E+2
+
+    *   3 E+2
+
+    *   2 E+1
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   2 E+5
+
+    *   3 E+2
+
+    *   17,0
+
+    *   d
+
+
+*    *   Pd-107
+
+    *   1 E+8
+
+    *   1 E+3
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,5 E+6
+
+    *   a
+
+
+*    *   Pd-109+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   3 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   5 E+6
+
+    *   1 E+3
+
+    *   13,7
+
+    *   h
+
+
+*    *   Ag-102
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,9
+
+    *   m
+
+
+*    *   Ag-103
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,1
+
+    *   h
+
+
+*    *   Ag-104
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   69,2
+
+    *   m
+
+
+*    *   Ag-104m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   33,5
+
+    *   m
+
+
+*    *   Ag-105
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   5 E-1
+
+    *   1 E-1
+
+    *   3 E+1
+
+    *   4 E+1
+
+    *   9
+
+    *   4
+
+    *   1 E+1
+
+    *   9 E+1
+
+    *   4 E+1
+
+    *   41,3
+
+    *   d
+
+
+*    *   Ag-106
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   24,0
+
+    *   m
+
+
+*    *   Ag-106m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,5
+
+    *   d
+
+
+*    *   Ag-108m+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   7 E-3
+
+    *   9
+
+    *   1 E+1
+
+    *   1
+
+    *   1
+
+    *   5 E-1
+
+    *   4
+
+    *   8 E-1
+
+    *   418,0
+
+    *   a
+
+
+*    *   Ag-110m+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   2 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *   7 E-3
+
+    *   6
+
+    *   6
+
+    *   2
+
+    *   6 E-1
+
+    *   5 E-1
+
+    *   4
+
+    *   5 E-1
+
+    *   249,8
+
+    *   d
+
+
+*    *   Ag-111
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   9
+
+    *   4 E-1
+
+    *   7 E+2
+
+    *   1 E+3
+
+    *   2 E+2
+
+    *   2 E+2
+
+    *   1 E+2
+
+    *   9 E+3
+
+    *   4 E+1
+
+    *   7,5
+
+    *   d
+
+
+*    *   Ag-112
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,1
+
+    *   h
+
+
+*    *   Ag-115
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,0
+
+    *   m
+
+
+*    *   Cd-104+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   57,7
+
+    *   m
+
+
+*    *   Cd-107+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,5
+
+    *   h
+
+
+*    *   Cd-109+
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   3 E-2
+
+    *   8 E+2
+
+    *   4 E+3
+
+    *   8 E+1
+
+    *   4 E+2
+
+    *   4 E+1
+
+    *   4 E+3
+
+    *   2 E+1
+
+    *   462,6
+
+    *   d
+
+
+*    *   Cd-113
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   7,7 E+15
+
+    *   a
+
+
+*    *   Cd-113m
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   4 E+1
+
+    *
+    *
+    *
+    *
+    *   8 E+2
+
+    *
+    *   8
+
+    *
+    *
+    *
+    *   14,6
+
+    *   a
+
+
+*    *   Cd-115+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+3
+
+    *   1 E+2
+
+    *   53,5
+
+    *   h
+
+
+*    *   Cd-115m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   3
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   7 E+2
+
+    *   7 E+2
+
+    *   2 E+2
+
+    *   7 E+1
+
+    *   1 E+2
+
+    *   2 E+3
+
+    *   2 E+1
+
+    *   44,6
+
+    *   d
+
+
+*    *   Cd-117+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   Cd-117m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,4
+
+    *   h
+
+
+*    *   In-109
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,2
+
+    *   h
+
+
+*    *   In-110m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   69,1
+
+    *   m
+
+
+*    *   In-111+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+3
+
+    *   1 E+2
+
+    *   2,8
+
+    *   d
+
+
+*    *   In-112
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,7
+
+    *   m
+
+
+*    *   In-113m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   99,5
+
+    *   m
+
+
+*    *   In-114
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,2
+
+    *   m
+
+
+*    *   In-114m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   8 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *   3 E-2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   2 E+1
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   1 E+1
+
+    *   50,0
+
+    *   d
+
+
+*    *   In-115
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4 E+14
+
+    *   a
+
+
+*    *   In-115m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   4 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   6 E+4
+
+    *   1 E+2
+
+    *   4,5
+
+    *   h
+
+
+*    *   In-116m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   54,6
+
+    *   m
+
+
+*    *   In-117
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   43,2
+
+    *   m
+
+
+*    *   In-117m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,9
+
+    *   h
+
+
+*    *   In-119m+
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,0
+
+    *   m
+
+
+*    *   Sn-110+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,1
+
+    *   h
+
+
+*    *   Sn-111+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   35,3
+
+    *   m
+
+
+*    *   Sn-113+
+
+    *   1 E+7
+
+    *   1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *   1 E-1
+
+    *   6 E+1
+
+    *   8 E+1
+
+    *   2 E+1
+
+    *   8
+
+    *   7
+
+    *   7 E+1
+
+    *   2
+
+    *   115,1
+
+    *   d
+
+
+*    *   Sn-117m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,6
+
+    *   d
+
+
+*    *   Sn-119m
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   7 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   293,0
+
+    *   d
+
+
+*    *   Sn-121
+
+    *   1 E+7
+
+    *   1 E+5
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   27,0
+
+    *   h
+
+
+*    *   Sn-121m+
+
+    *   1 E+7
+
+    *   1
+
+    *   7 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   55,0
+
+    *   a
+
+
+*    *   Sn-123
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   7
+
+    *
+    *
+    *
+    *
+    *   2 E+3
+
+    *
+    *   2 E+2
+
+    *
+    *
+    *
+    *   129,2
+
+    *   d
+
+
+*    *   Sn-123m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   40,1
+
+    *   m
+
+
+*    *   Sn-125
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *   2 E-1
+
+    *   6 E+1
+
+    *   6 E+1
+
+    *   2 E+1
+
+    *   8
+
+    *   1 E+1
+
+    *   6 E+2
+
+    *   2 E+1
+
+    *   9,6
+
+    *   d
+
+
+*    *   Sn-126+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,3 E+5
+
+    *   a
+
+
+*    *   Sn-127
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   Sn-128+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   59,1
+
+    *   m
+
+
+*    *   Sb-115
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   32,1
+
+    *   m
+
+
+*    *   Sb-116
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,8
+
+    *   m
+
+
+*    *   Sb-116m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   60,3
+
+    *   m
+
+
+*    *   Sb-117
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,8
+
+    *   h
+
+
+*    *   Sb-118m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,0
+
+    *   h
+
+
+*    *   Sb-119
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,3
+
+    *   h
+
+
+*    *   Sb-120m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,8
+
+    *   d
+
+
+*    *   Sb-122
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   2,7
+
+    *   d
+
+
+*    *   Sb-124
+
+    *   1 E+6
+
+    *   1
+
+    *   4 E-2
+
+    *   1
+
+    *   5 E-1
+
+    *   4 E-2
+
+    *   9
+
+    *   9
+
+    *   3
+
+    *   9 E-1
+
+    *   1
+
+    *   2 E+1
+
+    *   5 E-1
+
+    *   60,2
+
+    *   d
+
+
+*    *   Sb-125+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   8 E-2
+
+    *   4 E+1
+
+    *   4 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   2
+
+    *   2 E+1
+
+    *   3
+
+    *   2,8
+
+    *   a
+
+
+*    *   Sb-126
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   2 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,4
+
+    *   d
+
+
+*    *   Sb-126m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,1
+
+    *   m
+
+
+*    *   Sb-127+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,9
+
+    *   d
+
+
+*    *   Sb-128m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,0
+
+    *   h
+
+
+*    *   Sb-129+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4
+
+    *   h
+
+
+*    *   Sb-130
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   39,5
+
+    *   m
+
+
+*    *   Sb-131
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   23,0
+
+    *   m
+
+
+*    *   Te-116+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   Te-121
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,2
+
+    *   d
+
+
+*    *   Te-121m
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   154,0
+
+    *   d
+
+
+*    *   Te-123
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   >9,2 E+16
+
+    *   a
+
+
+*    *   Te-123m
+
+    *   1 E+7
+
+    *   1
+
+    *   6 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *   7 E-3
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   3 E+1
+
+    *   1 E+1
+
+    *   2 E+2
+
+    *   1 E+1
+
+    *   119,5
+
+    *   d
+
+
+*    *   Te-125m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   6 E+1
+
+    *   2 E-2
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   5 E+2
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   2 E+4
+
+    *   6 E+1
+
+    *   57,4
+
+    *   d
+
+
+*    *   Te-127
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   5 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   9 E+5
+
+    *   1 E+3
+
+    *   9,4
+
+    *   h
+
+
+*    *   Te-127m+
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   3
+
+    *   1 E+2
+
+    *   3 E+1
+
+    *
+    *   3 E+2
+
+    *   1 E+3
+
+    *   3 E+1
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   3 E+3
+
+    *   5 E+1
+
+    *   109,0
+
+    *   d
+
+
+*    *   Te-129
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+5
+
+    *   1 E+2
+
+    *   69,6
+
+    *   m
+
+
+*    *   Te-129m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1
+
+    *   1 E+1
+
+    *   3
+
+    *   2
+
+    *   2 E+2
+
+    *   3 E+2
+
+    *   7 E+1
+
+    *   3 E+1
+
+    *   1 E+1
+
+    *   8 E+2
+
+    *   2 E+1
+
+    *   33,6
+
+    *   d
+
+
+*    *   Te-131
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+5
+
+    *   1 E+2
+
+    *   25,0
+
+    *   m
+
+
+*    *   Te-131m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   30,0
+
+    *   h
+
+
+*    *   Te-132+
+
+    *   1 E+7
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+2
+
+    *   1 E+2
+
+    *   76,3
+
+    *   h
+
+
+*    *   Te-133
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+5
+
+    *   1 E+1
+
+    *   12,5
+
+    *   m
+
+
+*    *   Te-133m+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+4
+
+    *   1 E+1
+
+    *   55,4
+
+    *   m
+
+
+*    *   Te-134
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   7 E+4
+
+    *   1 E+1
+
+    *   41,8
+
+    *   m
+
+
+*    *   I-120
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,4
+
+    *   h
+
+
+*    *   I-120m
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   53,0
+
+    *   m
+
+
+*    *   I-121
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   I-123
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   5 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+4
+
+    *   1 E+2
+
+    *   13,2
+
+    *   h
+
+
+*    *   I-124
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *
+    *
+    *   4,2
+
+    *   d
+
+
+*    *   I-125
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   3
+
+    *   9 E-2
+
+    *   8 E+2
+
+    *   1 E+3
+
+    *   8 E+1
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   1 E+4
+
+    *   3
+
+    *   59,4
+
+    *   d
+
+
+*    *   I-126
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   2 E-1
+
+    *   4 E+1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   5
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   2
+
+    *   13,0
+
+    *   d
+
+
+*    *   I-128
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,0
+
+    *   m
+
+
+*    *   I-129
+
+    *   1 E+5
+
+    *   1 E-2
+
+    *   UL
+
+    *   1
+
+    *   6 E-2
+
+    *
+    *   6 E-1
+
+    *   6 E-1
+
+    *   6 E-2
+
+    *   6 E-2
+
+    *   8
+
+    *   8
+
+    *   4 E-1
+
+    *   1,6 E+7
+
+    *   a
+
+
+*    *   I-130
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+3
+
+    *   1 E+1
+
+    *   12,4
+
+    *   h
+
+
+*    *   I-131
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *   2 E-1
+
+    *   5 E+1
+
+    *   7 E+1
+
+    *   2 E+1
+
+    *   9
+
+    *   1 E+1
+
+    *   6 E+2
+
+    *   2
+
+    *   8,0
+
+    *   d
+
+
+*    *   I-132
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   8 E+3
+
+    *   1 E+1
+
+    *   2,3
+
+    *   h
+
+
+*    *   I-132m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   83,0
+
+    *   m
+
+
+*    *   I-133
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   4 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+3
+
+    *   1 E+1
+
+    *   20,8
+
+    *   h
+
+
+*    *   I-134
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+4
+
+    *   1 E+1
+
+    *   52,5
+
+    *   m
+
+
+*    *   I-135+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+3
+
+    *   1 E+1
+
+    *   6,6
+
+    *   h
+
+
+*    *   Xe-120
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   40,0
+
+    *   m
+
+
+*    *   Xe-121
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,8
+
+    *   m
+
+
+*    *   Xe-122+
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   6 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,1
+
+    *   h
+
+
+*    *   Xe-123
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   Xe-125
+
+    *   1 E+9
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,8
+
+    *   h
+
+
+*    *   Xe-127
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,4
+
+    *   d
+
+
+*    *   Xe-129m
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,9
+
+    *   d
+
+
+*    *   Xe-131m
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,9
+
+    *   d
+
+
+*    *   Xe-133
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,3
+
+    *   d
+
+
+*    *   Xe-133m
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,2
+
+    *   d
+
+
+*    *   Xe-135
+
+    *   1 E+10
+
+    *   1 E+3
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,1
+
+    *   h
+
+
+*    *   Xe-135m
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,3
+
+    *   m
+
+
+*    *   Xe-138
+
+    *   1 E+9
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,1
+
+    *   m
+
+
+*    *   Cs-125
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   46,7
+
+    *   m
+
+
+*    *   Cs-127
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,3
+
+    *   h
+
+
+*    *   Cs-129
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+3
+
+    *   1 E+2
+
+    *   32,2
+
+    *   h
+
+
+*    *   Cs-130
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   29,2
+
+    *   m
+
+
+*    *   Cs-131
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   2 E+2
+
+    *   3 E+1
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   2 E+5
+
+    *   9 E+2
+
+    *   9,7
+
+    *   d
+
+
+*    *   Cs-132
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+2
+
+    *   1 E+1
+
+    *   6,5
+
+    *   d
+
+
+*    *   Cs-134
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3
+
+    *   1
+
+    *   6 E-1
+
+    *   5
+
+    *   2 E-1
+
+    *   2,1
+
+    *   a
+
+
+*    *   Cs-134m
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   4 E-2
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   2,9
+
+    *   h
+
+
+*    *   Cs-135
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   UL
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   4 E-1
+
+    *   3 E+2
+
+    *   3 E+3
+
+    *   3 E+1
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   9 E+3
+
+    *   2 E+1
+
+    *   2,3 E+6
+
+    *   a
+
+
+*    *   Cs-136
+
+    *   1 E+5
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   9
+
+    *   9
+
+    *   3
+
+    *   1
+
+    *   1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   13,0
+
+    *   d
+
+
+*    *   Cs-137+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   6 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   8
+
+    *   3
+
+    *   2
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *   30,0
+
+    *   a
+
+
+*    *   Cs-138
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   3 E+4
+
+    *   1 E+1
+
+    *   33,4
+
+    *   m
+
+
+*    *   Ba-126+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   100,0
+
+    *   m
+
+
+*    *   Ba-128+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   d
+
+
+*    *   Ba-131
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   2 E-1
+
+    *   4 E+1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   9 E+1
+
+    *   11,6
+
+    *   d
+
+
+*    *   Ba-131m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,6
+
+    *   m
+
+
+*    *   Ba-133
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   1
+
+    *
+    *
+    *   4 E+1
+
+    *   8 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *
+    *
+    *   2
+
+    *   10,5
+
+    *   a
+
+
+*    *   Ba-133m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,9
+
+    *   h
+
+
+*    *   Ba-135m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   28,7
+
+    *   h
+
+
+*    *   Ba-137m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,6
+
+    *   m
+
+
+*    *   Ba-139
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   83,1
+
+    *   m
+
+
+*    *   Ba-140
+
+    *   1 E+5
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *   3 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3
+
+    *   3
+
+    *   1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   12,8
+
+    *   d
+
+
+*    *   Ba-141
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,3
+
+    *   m
+
+
+*    *   Ba-142
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,6
+
+    *   m
+
+
+*    *   La-131
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   59,0
+
+    *   m
+
+
+*    *   La-132
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,8
+
+    *   h
+
+
+*    *   La-135
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,5
+
+    *   h
+
+
+*    *   La-137
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,0 E+4
+
+    *   a
+
+
+*    *   La-138
+
+    *   1 E+7
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,0 E+11
+
+    *   a
+
+
+*    *   La-140
+
+    *   1 E+5
+
+    *   1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+2
+
+    *   1 E+1
+
+    *   40,3
+
+    *   h
+
+
+*    *   La-141
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,9
+
+    *   h
+
+
+*    *   La-142
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   91,1
+
+    *   m
+
+
+*    *   La-143
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,1
+
+    *   m
+
+
+*    *   Ce-134+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   75,8
+
+    *   h
+
+
+*    *   Ce-135
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,7
+
+    *   h
+
+
+*    *   Ce-137
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,0
+
+    *   h
+
+
+*    *   Ce-137m+
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   34,4
+
+    *   h
+
+
+*    *   Ce-139
+
+    *   1 E+6
+
+    *   1
+
+    *   6 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *   7 E-1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   4 E+1
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   9
+
+    *   137,6
+
+    *   d
+
+
+*    *   Ce-141
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   4
+
+    *   1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   8 E+1
+
+    *   8 E+1
+
+    *   1 E+1
+
+    *   1 E+3
+
+    *   7 E+1
+
+    *   32,5
+
+    *   d
+
+
+*    *   Ce-143
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+3
+
+    *   1 E+2
+
+    *   33,0
+
+    *   h
+
+
+*    *   Ce-144+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *   1 E+2
+
+    *   5
+
+    *   4 E-1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   3 E+1
+
+    *   2 E+2
+
+    *   1 E+1
+
+    *   285,0
+
+    *   d
+
+
+*    *   Pr-136
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,1
+
+    *   m
+
+
+*    *   Pr-137
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   76,8
+
+    *   m
+
+
+*    *   Pr-138m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   Pr-139+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4
+
+    *   h
+
+
+*    *   Pr-142
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   4 E+4
+
+    *   1 E+2
+
+    *   19,1
+
+    *   h
+
+
+*    *   Pr-142m
+
+    *   1 E+9
+
+    *   1 E+7
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,6
+
+    *   m
+
+
+*    *   Pr-143
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   3 E+1
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   2 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+2
+
+    *   6 E+5
+
+    *   4 E+1
+
+    *   13,6
+
+    *   d
+
+
+*    *   Pr-144
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,3
+
+    *   m
+
+
+*    *   Pr-145
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,0
+
+    *   h
+
+
+*    *   Pr-147
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,4
+
+    *   m
+
+
+*    *   Nd-136+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   50,7
+
+    *   m
+
+
+*    *   Nd-138+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,0
+
+    *   h
+
+
+*    *   Nd-139
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   29,7
+
+    *   m
+
+
+*    *   Nd-139m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,5
+
+    *   h
+
+
+*    *   Nd-140+
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,4
+
+    *   d
+
+
+*    *   Nd-141
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   Nd-147
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   6 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *   7 E-1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   5 E+1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   1 E+3
+
+    *   5 E+1
+
+    *   11
+
+    *   d
+
+
+*    *   Nd-149
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   7 E+4
+
+    *   1 E+2
+
+    *   1,7
+
+    *   h
+
+
+*    *   Nd-151
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,4
+
+    *   m
+
+
+*    *   Pm-141+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   20,9
+
+    *   m
+
+
+*    *   Pm-143
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   266,0
+
+    *   d
+
+
+*    *   Pm-144
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,0
+
+    *   a
+
+
+*    *   Pm-145
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,7
+
+    *   a
+
+
+*    *   Pm-146
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   3 E+1
+
+    *
+    *   6
+
+    *
+    *
+    *
+    *   5,5
+
+    *   a
+
+
+*    *   Pm-147
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   4 E+1
+
+    *   1 E+2
+
+    *   2 E+2
+
+    *   2 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   2 E+4
+
+    *   6 E+3
+
+    *   2,6
+
+    *   a
+
+
+*    *   Pm-148
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,4
+
+    *   d
+
+
+*    *   Pm-148m
+
+    *   1 E+6
+
+    *   1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   41,1
+
+    *   d
+
+
+*    *   Pm-149
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   6
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+4
+
+    *   1 E+3
+
+    *   53,1
+
+    *   h
+
+
+*    *   Pm-150
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,7
+
+    *   h
+
+
+*    *   Pm-151
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   28,4
+
+    *   h
+
+
+*    *   Sm-141
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,2
+
+    *   m
+
+
+*    *   Sm-141m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,6
+
+    *   m
+
+
+*    *   Sm-142+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   72,5
+
+    *   m
+
+
+*    *   Sm-145
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   340,0
+
+    *   d
+
+
+*    *   Sm-146
+
+    *   1 E+5
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,0 E+8
+
+    *   a
+
+
+*    *   Sm-147
+
+    *   1 E+4
+
+    *   1
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,1 E+11
+
+    *   a
+
+
+*    *   Sm-151
+
+    *   1 E+8
+
+    *   1 E+3
+
+    *   5 E+2
+
+    *   1 E+2
+
+    *   5 E+2
+
+    *   4 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   3 E+4
+
+    *   7 E+3
+
+    *   90,0
+
+    *   a
+
+
+*    *   Sm-153
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   4 E+4
+
+    *   1 E+2
+
+    *   46,3
+
+    *   h
+
+
+*    *   Sm-155
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,3
+
+    *   m
+
+
+*    *   Sm-156
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,4
+
+    *   h
+
+
+*    *   Eu-145
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,9
+
+    *   d
+
+
+*    *   Eu-146
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,6
+
+    *   d
+
+
+*    *   Eu-147
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   24,0
+
+    *   d
+
+
+*    *   Eu-148
+
+    *   1 E+6
+
+    *   1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   54,5
+
+    *   d
+
+
+*    *   Eu-149
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   93,1
+
+    *   d
+
+
+*    *   Eu-150
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,4
+
+    *   a
+
+
+*    *   Eu-150m
+
+    *
+    *
+    *   5 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,8
+
+    *   h
+
+
+*    *   Eu-152
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   7 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   8 E-1
+
+    *   6
+
+    *   5 E-1
+
+    *   13,5
+
+    *   a
+
+
+*    *   Eu-152m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+4
+
+    *   1 E+2
+
+    *   9,3
+
+    *   h
+
+
+*    *   Eu-154
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   6 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   7 E-1
+
+    *   6
+
+    *   5 E-1
+
+    *   8,6
+
+    *   a
+
+
+*    *   Eu-155
+
+    *   1 E+7
+
+    *   1
+
+    *   2
+
+    *   1 E+1
+
+    *   8
+
+    *   2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   3 E+2
+
+    *   3 E+1
+
+    *   4,8
+
+    *   a
+
+
+*    *   Eu-156
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,2
+
+    *   d
+
+
+*    *   Eu-157
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,2
+
+    *   h
+
+
+*    *   Eu-158
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   45,9
+
+    *   m
+
+
+*    *   Gd-145
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   23,0
+
+    *   m
+
+
+*    *   Gd-146+
+
+    *   1 E+6
+
+    *   1
+
+    *   3 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   48,3
+
+    *   d
+
+
+*    *   Gd-147
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,1
+
+    *   h
+
+
+*    *   Gd-148
+
+    *   1 E+4
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *
+    *
+    *
+    *   3 E+1
+
+    *
+    *   8
+
+    *
+    *
+    *
+    *   74,6
+
+    *   a
+
+
+*    *   Gd-149
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,3
+
+    *   d
+
+
+*    *   Gd-151
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   124,0
+
+    *   d
+
+
+*    *   Gd-152
+
+    *   1 E+4
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,1 E+14
+
+    *   a
+
+
+*    *   Gd-153
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   1
+
+    *   1 E+1
+
+    *   6
+
+    *   1
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   2 E+1
+
+    *   240,4
+
+    *   d
+
+
+*    *   Gd-159
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   7
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+4
+
+    *   1 E+3
+
+    *   18,5
+
+    *   h
+
+
+*    *   Tb-147
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,7
+
+    *   h
+
+
+*    *   Tb-149
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,1
+
+    *   h
+
+
+*    *   Tb-150
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,5
+
+    *   h
+
+
+*    *   Tb-151
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,6
+
+    *   h
+
+
+*    *   Tb-153
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,3
+
+    *   d
+
+
+*    *   Tb-154
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,5
+
+    *   h
+
+
+*    *   Tb-155
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,3
+
+    *   d
+
+
+*    *   Tb-156
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,2
+
+    *   d
+
+
+*    *   Tb-156n
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,3
+
+    *   h
+
+
+*    *   Tb-157
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   99,0
+
+    *   a
+
+
+*    *   Tb-158
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *   2 E+1
+
+    *
+    *   6
+
+    *
+    *
+    *
+    *   180,0
+
+    *   a
+
+
+*    *   Tb-160
+
+    *   1 E+6
+
+    *   1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   7 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   1
+
+    *   2 E+1
+
+    *   6 E-1
+
+    *   72,3
+
+    *   d
+
+
+*    *   Tb-161
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,9
+
+    *   d
+
+
+*    *   Dy-155
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,9
+
+    *   h
+
+
+*    *   Dy-157
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,1
+
+    *   h
+
+
+*    *   Dy-159
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   6
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   144,4
+
+    *   d
+
+
+*    *   Dy-165
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   3
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   9 E+5
+
+    *   1 E+3
+
+    *   2,3
+
+    *   h
+
+
+*    *   Dy-166
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   5
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   81,6
+
+    *   h
+
+
+*    *   Ho-155
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   48,0
+
+    *   m
+
+
+*    *   Ho-157+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,6
+
+    *   m
+
+
+*    *   Ho-159
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   33,1
+
+    *   m
+
+
+*    *   Ho-161
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   Ho-162
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,0
+
+    *   m
+
+
+*    *   Ho-162m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   67,0
+
+    *   m
+
+
+*    *   Ho-164
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   28,6
+
+    *   m
+
+
+*    *   Ho-164m+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   37,0
+
+    *   m
+
+
+*    *   Ho-166
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+4
+
+    *   1 E+3
+
+    *   26,8
+
+    *   h
+
+
+*    *   Ho-166m
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *
+    *   3
+
+    *
+    *
+    *
+    *   1,2 E+3
+
+    *   a
+
+
+*    *   Ho-167+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,1
+
+    *   h
+
+
+*    *   Er-161+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,2
+
+    *   h
+
+
+*    *   Er-165
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,4
+
+    *   h
+
+
+*    *   Er-169
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   2 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   5 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   2 E+6
+
+    *   1 E+2
+
+    *   9,4
+
+    *   d
+
+
+*    *   Er-171
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+4
+
+    *   1 E+2
+
+    *   7,5
+
+    *   h
+
+
+*    *   Er-172
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   49,3
+
+    *   h
+
+
+*    *   Tm-162
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,7
+
+    *   m
+
+
+*    *   Tm-166
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   7,7
+
+    *   h
+
+
+*    *   Tm-167+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,2
+
+    *   d
+
+
+*    *   Tm-170
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   6
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   9 E+3
+
+    *   7 E+1
+
+    *   128,6
+
+    *   d
+
+
+*    *   Tm-171
+
+    *   1 E+8
+
+    *   1 E+3
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   5 E+2
+
+    *   6 E+1
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   6 E+4
+
+    *   7 E+2
+
+    *   1,9
+
+    *   a
+
+
+*    *   Tm-172
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   63,6
+
+    *   h
+
+
+*    *   Tm-173
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,2
+
+    *   h
+
+
+*    *   Tm-175+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,2
+
+    *   m
+
+
+*    *   Yb-162
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,9
+
+    *   m
+
+
+*    *   Yb-166+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   56,7
+
+    *   h
+
+
+*    *   Yb-167
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,5
+
+    *   m
+
+
+*    *   Yb-169
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *   2 E+2
+
+    *
+    *   2 E+1
+
+    *
+    *
+    *
+    *   32,0
+
+    *   d
+
+
+*    *   Yb-175
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   6
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   4,2
+
+    *   d
+
+
+*    *   Yb-177
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,9
+
+    *   h
+
+
+*    *   Yb-178+
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   74,0
+
+    *   m
+
+
+*    *   Lu-169+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,4
+
+    *   d
+
+
+*    *   Lu-170
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,0
+
+    *   d
+
+
+*    *   Lu-171
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,3
+
+    *   d
+
+
+*    *   Lu-172
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,7
+
+    *   d
+
+
+*    *   Lu-173
+
+    *   1 E+7
+
+    *   1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,3
+
+    *   a
+
+
+*    *   Lu-174
+
+    *   1 E+7
+
+    *   1
+
+    *   8 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,6
+
+    *   a
+
+
+*    *   Lu-174m
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   142,0
+
+    *   d
+
+
+*    *   Lu-176
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,0 E+10
+
+    *   a
+
+
+*    *   Lu-176m
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,6
+
+    *   h
+
+
+*    *   Lu-177
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   9
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   6,6
+
+    *   d
+
+
+*    *   Lu-177m+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   3 E+1
+
+    *
+    *   5
+
+    *
+    *
+    *
+    *   160,3
+
+    *   d
+
+
+*    *   Lu-178
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   28,4
+
+    *   m
+
+
+*    *   Lu-178m+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   23,1
+
+    *   m
+
+
+*    *   Lu-179
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,6
+
+    *   h
+
+
+*    *   Hf-170+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,0
+
+    *   h
+
+
+*    *   Hf-172+
+
+    *   1 E+6
+
+    *   1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,9
+
+    *   a
+
+
+*    *   Hf-173
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   23,9
+
+    *   h
+
+
+*    *   Hf-175
+
+    *   1 E+6
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *   8 E+1
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *   70,0
+
+    *   d
+
+
+*    *   Hf-177n+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   51,4
+
+    *   m
+
+
+*    *   Hf-178n+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   31,0
+
+    *   a
+
+
+*    *   Hf-179n
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,0
+
+    *   d
+
+
+*    *   Hf-180m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,5
+
+    *   h
+
+
+*    *   Hf-181
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   9
+
+    *   9
+
+    *   9
+
+    *   8 E+1
+
+    *   1 E+1
+
+    *   42,4
+
+    *   d
+
+
+*    *   Hf-182+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,0 E+6
+
+    *   a
+
+
+*    *   Hf-182m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   61,5
+
+    *   m
+
+
+*    *   Hf-183
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   64,0
+
+    *   m
+
+
+*    *   Hf-184
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,1
+
+    *   h
+
+
+*    *   Ta-172
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,8
+
+    *   m
+
+
+*    *   Ta-173
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,1
+
+    *   h
+
+
+*    *   Ta-174
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,1
+
+    *   h
+
+
+*    *   Ta-175
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,5
+
+    *   h
+
+
+*    *   Ta-176
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,1
+
+    *   h
+
+
+*    *   Ta-177
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   56,4
+
+    *   h
+
+
+*    *   Ta-178m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   h
+
+
+*    *   Ta-179
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   6
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   558,0
+
+    *   d
+
+
+*    *   Ta-180
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,1
+
+    *   h
+
+
+*    *   Ta-180m
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8 E+15
+
+    *   a
+
+
+*    *   Ta-182
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   6 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   4
+
+    *   1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   114,7
+
+    *   d
+
+
+*    *   Ta-182n+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,8
+
+    *   m
+
+
+*    *   Ta-183+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,1
+
+    *   d
+
+
+*    *   Ta-184
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,7
+
+    *   h
+
+
+*    *   Ta-185
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   49,0
+
+    *   m
+
+
+*    *   Ta-186
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,5
+
+    *   m
+
+
+*    *   W-176
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   W-177
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,2
+
+    *   h
+
+
+*    *   W-178+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,6
+
+    *   d
+
+
+*    *   W-179
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   37,1
+
+    *   m
+
+
+*    *   W-181
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   5
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   4
+
+    *   1 E+3
+
+    *   1 E+3
+
+    *   4 E+2
+
+    *   4 E+2
+
+    *   5 E+1
+
+    *   2 E+3
+
+    *   6 E+1
+
+    *   121,0
+
+    *   d
+
+
+*    *   W-185
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   3
+
+    *   1 E+4
+
+    *   1 E+4
+
+    *   3 E+3
+
+    *   1 E+4
+
+    *   8 E+2
+
+    *   4 E+5
+
+    *   7 E+2
+
+    *   75,1
+
+    *   d
+
+
+*    *   W-187
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+3
+
+    *   1 E+2
+
+    *   23,9
+
+    *   h
+
+
+*    *   W-188+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   1
+
+    *   1 E+2
+
+    *   2
+
+    *
+    *   1 E+2
+
+    *   1 E+2
+
+    *   8 E+1
+
+    *   8 E+1
+
+    *   5 E+1
+
+    *   1 E+2
+
+    *
+    *   69,8
+
+    *   d
+
+
+*    *   Re-177
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,0
+
+    *   m
+
+
+*    *   Re-178
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,2
+
+    *   m
+
+
+*    *   Re-181
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,9
+
+    *   h
+
+
+*    *   Re-182
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   64,0
+
+    *   h
+
+
+*    *   Re-183
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   70,1
+
+    *   d
+
+
+*    *   Re-184
+
+    *   1 E+6
+
+    *   1
+
+    *   8 E-2
+
+    *
+    *
+    *
+    *
+    *   2 E+1
+
+    *
+    *   6
+
+    *
+    *
+    *
+    *   37,9
+
+    *   d
+
+
+*    *   Re-184m
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   168,0
+
+    *   d
+
+
+*    *   Re-186
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   4
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   4 E+4
+
+    *   1 E+3
+
+    *   90,0
+
+    *   h
+
+
+*    *   Re-186m+
+
+    *   1 E+7
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,9 E+5
+
+    *   a
+
+
+*    *   Re-187
+
+    *   1 E+9
+
+    *   1 E+3
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4 E+10
+
+    *   a
+
+
+*    *   Re-188
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   5 E+4
+
+    *   1 E+2
+
+    *   17,0
+
+    *   h
+
+
+*    *   Re-188m
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,6
+
+    *   m
+
+
+*    *   Re-189+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   24,3
+
+    *   h
+
+
+*    *   Os-180+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,5
+
+    *   m
+
+
+*    *   Os-181
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   Os-182
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,1
+
+    *   h
+
+
+*    *   Os-185
+
+    *   1 E+6
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   7
+
+    *   3
+
+    *   3 E+1
+
+    *   5 E-1
+
+    *   93,8
+
+    *   d
+
+
+*    *   Os-189m
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,8
+
+    *   h
+
+
+*    *   Os-191+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+1
+
+    *   7
+
+    *   2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   3 E+3
+
+    *   9 E+1
+
+    *   15,3
+
+    *   d
+
+
+*    *   Os-191m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   1
+
+    *   1 E+2
+
+    *   2 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+3
+
+    *   2 E+6
+
+    *   1 E+3
+
+    *   13,1
+
+    *   h
+
+
+*    *   Os-193
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   3 E+4
+
+    *   1 E+2
+
+    *   30,1
+
+    *   h
+
+
+*    *   Os-194+
+
+    *   1 E+5
+
+    *   1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *   2 E+2
+
+    *
+    *   5 E+1
+
+    *
+    *
+    *
+    *   6,0
+
+    *   a
+
+
+*    *   Ir-182
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,0
+
+    *   m
+
+
+*    *   Ir-184
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,1
+
+    *   h
+
+
+*    *   Ir-185
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,4
+
+    *   h
+
+
+*    *   Ir-186
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   16,6
+
+    *   h
+
+
+*    *   Ir-187
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,5
+
+    *   h
+
+
+*    *   Ir-188
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   41,5
+
+    *   h
+
+
+*    *   Ir-189+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   13,2
+
+    *   d
+
+
+*    *   Ir-190
+
+    *   1 E+6
+
+    *   1
+
+    *   5 E-2
+
+    *   1
+
+    *   8 E-2
+
+    *   6 E-2
+
+    *   6
+
+    *   8
+
+    *   2
+
+    *   2
+
+    *   1
+
+    *   5 E+1
+
+    *   1 E+1
+
+    *   11,8
+
+    *   d
+
+
+*    *   Ir-192
+
+    *   1 E+4
+
+    *   1
+
+    *   8 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   6
+
+    *   6
+
+    *   1
+
+    *   3 E+1
+
+    *   2
+
+    *   73,8
+
+    *   d
+
+
+*    *   Ir-192m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,4
+
+    *   m
+
+
+*    *   Ir-193m
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,5
+
+    *   d
+
+
+*    *   Ir-194
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+4
+
+    *   1 E+2
+
+    *   19,3
+
+    *   h
+
+
+*    *   Ir-194n
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *   6
+
+    *   1 E+1
+
+    *   2
+
+    *   2
+
+    *
+    *
+    *
+    *   171,0
+
+    *   d
+
+
+*    *   Ir-195
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,5
+
+    *   h
+
+
+*    *   Ir-195m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,8
+
+    *   h
+
+
+*    *   Pt-186+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   Pt-188
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,2
+
+    *   d
+
+
+*    *   Pt-189
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,9
+
+    *   h
+
+
+*    *   Pt-190
+
+    *
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,5 E+11
+
+    *   a
+
+
+*    *   Pt-191+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+3
+
+    *   1 E+2
+
+    *   2,8
+
+    *   d
+
+
+*    *   Pt-193
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   3 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   50,0
+
+    *   a
+
+
+*    *   Pt-193m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   7 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *   4,3
+
+    *   d
+
+
+*    *   Pt-195m
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,1
+
+    *   d
+
+
+*    *   Pt-197
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   4
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   2 E+5
+
+    *   1 E+3
+
+    *   19,9
+
+    *   h
+
+
+*    *   Pt-197m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   9 E-1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   5 E+5
+
+    *   1 E+2
+
+    *   95,3
+
+    *   m
+
+
+*    *   Pt-199
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   30,8
+
+    *   m
+
+
+*    *   Pt-200+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   12,5
+
+    *   h
+
+
+*    *   Au-193
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   17,7
+
+    *   h
+
+
+*    *   Au-194
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,0
+
+    *   h
+
+
+*    *   Au-195
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *   1 E+3
+
+    *
+    *   1 E+2
+
+    *
+    *
+    *
+    *   186,1
+
+    *   d
+
+
+*    *   Au-196
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,2
+
+    *   d
+
+
+*    *   Au-198
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   2 E+3
+
+    *   1 E+2
+
+    *   2,7
+
+    *   d
+
+
+*    *   Au-198m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,3
+
+    *   d
+
+
+*    *   Au-199
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   9 E-1
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   9 E+3
+
+    *   1 E+2
+
+    *   3,1
+
+    *   d
+
+
+*    *   Au-200
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   48,4
+
+    *   m
+
+
+*    *   Au-200m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   18,7
+
+    *   h
+
+
+*    *   Au-201
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   26,0
+
+    *   m
+
+
+*    *   Hg-193+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,8
+
+    *   h
+
+
+*    *   Hg-193m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,8
+
+    *   h
+
+
+*    *   Hg-194+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   444,0
+
+    *   a
+
+
+*    *   Hg-195+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,9
+
+    *   h
+
+
+*    *   Hg-195m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   41,6
+
+    *   h
+
+
+*    *   Hg-197
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+1
+
+    *   9
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   3 E+4
+
+    *   1 E+2
+
+    *   64,6
+
+    *   h
+
+
+*    *   Hg-197m+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   7 E-1
+
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+4
+
+    *   1 E+2
+
+    *   23,8
+
+    *   h
+
+
+*    *   Hg-203
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *
+    *   7 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   2 E+2
+
+    *   2
+
+    *   46,6
+
+    *   d
+
+
+*    *   Tl-194
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   33,0
+
+    *   m
+
+
+*    *   Tl-194m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   32,8
+
+    *   m
+
+
+*    *   Tl-195
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,2
+
+    *   h
+
+
+*    *   Tl-197
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,8
+
+    *   h
+
+
+*    *   Tl-198
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,3
+
+    *   h
+
+
+*    *   Tl-198m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,9
+
+    *   h
+
+
+*    *   Tl-199
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   7,4
+
+    *   h
+
+
+*    *   Tl-200
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   26,1
+
+    *   h
+
+
+*    *   Tl-201
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1
+
+    *   1 E+1
+
+    *   6
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+4
+
+    *   1 E+2
+
+    *   73,0
+
+    *   h
+
+
+*    *   Tl-202
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   2 E-1
+
+    *   4 E+1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   1 E+1
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   12,2
+
+    *   d
+
+
+*    *   Tl-204
+
+    *   1 E+4
+
+    *   1
+
+    *   2 E+1
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   4 E-2
+
+    *   9 E+2
+
+    *   9 E+3
+
+    *   9 E+1
+
+    *   9 E+2
+
+    *   1 E+2
+
+    *   3 E+3
+
+    *   3 E+2
+
+    *   3,8
+
+    *   a
+
+
+*    *   Pb-195m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,0
+
+    *   m
+
+
+*    *   Pb-198
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   h
+
+
+*    *   Pb-199
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,5
+
+    *   h
+
+
+*    *   Pb-200
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,5
+
+    *   h
+
+
+*    *   Pb-201
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   9,4
+
+    *   h
+
+
+*    *   Pb-202+
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,3 E+4
+
+    *   a
+
+
+*    *   Pb-202m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,6
+
+    *   h
+
+
+*    *   Pb-203
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1 E+1
+
+    *   9 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+3
+
+    *   1 E+2
+
+    *   51,9
+
+    *   h
+
+
+*    *   Pb-205
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   UL
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,5 E+7
+
+    *   a
+
+
+*    *   Pb-209
+
+    *   1 E+6
+
+    *   1 E+5
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,3
+
+    *   h
+
+
+*    *   Pb-210+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   3 E-1
+
+    *   1
+
+    *   3 E-2
+
+    *
+    *   3 E+1
+
+    *   8 E+1
+
+    *   3
+
+    *   8
+
+    *   1
+
+    *   1
+
+    *   6 E-2
+
+    *   22,2
+
+    *   a
+
+
+*    *   Pb-211+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,1
+
+    *   m
+
+
+*    *   Pb-212
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   2 E+3
+
+    *   1 E+1
+
+    *   10,6
+
+    *   h
+
+
+*    *   Pb-212+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,6
+
+    *   h
+
+
+*    *   Pb-214+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   26,8
+
+    *   m
+
+
+*    *   Bi-200
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,4
+
+    *   m
+
+
+*    *   Bi-201+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   Bi-202
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,7
+
+    *   h
+
+
+*    *   Bi-203+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,8
+
+    *   h
+
+
+*    *   Bi-205+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   15,3
+
+    *   d
+
+
+*    *   Bi-206
+
+    *   1 E+5
+
+    *   1
+
+    *   2 E-2
+
+    *   1
+
+    *   7 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   9 E+1
+
+    *   1 E+1
+
+    *   6,2
+
+    *   d
+
+
+*    *   Bi-207
+
+    *   1 E+6
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *   5 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3
+
+    *   1
+
+    *   5 E-1
+
+    *   5
+
+    *   6 E-1
+
+    *   31,8
+
+    *   a
+
+
+*    *   Bi-208
+
+    *
+    *   1 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,7 E+5
+
+    *   a
+
+
+*    *   Bi-210
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *   8
+
+    *   1 E+2
+
+    *   9
+
+    *
+    *
+    *
+    *
+    *
+    *   3 E+1
+
+    *   1 E+4
+
+    *   1 E+3
+
+    *   5,0
+
+    *   d
+
+
+*    *   Bi-210m+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,0 E+6
+
+    *   a
+
+
+*    *   Bi-212+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   3 E+4
+
+    *   1 E+1
+
+    *   60,5
+
+    *   m
+
+
+*    *   Bi-213+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   45,6
+
+    *   m
+
+
+*    *   Bi-214+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,9
+
+    *   m
+
+
+*    *   Po-203
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+4
+
+    *   1 E+1
+
+    *   36,7
+
+    *   m
+
+
+*    *   Po-205
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   1,7
+
+    *   h
+
+
+*    *   Po-206
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,8
+
+    *   d
+
+
+*    *   Po-207
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   5 E+3
+
+    *   1 E+1
+
+    *   5,8
+
+    *   h
+
+
+*    *   Po-208
+
+    *   1 E+4
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   5 E+1
+
+    *
+    *   5
+
+    *
+    *
+    *
+    *   2,9
+
+    *   a
+
+
+*    *   Po-209
+
+    *   1 E+4
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   102,0
+
+    *   a
+
+
+*    *   Po-210
+
+    *   1 E+4
+
+    *   1
+
+    *   6 E-2
+
+    *   1
+
+    *   4 E-2
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   3
+
+    *   1 E+1
+
+    *   1
+
+    *   7
+
+    *   1
+
+    *   138,4
+
+    *   d
+
+
+*    *   At-207
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   h
+
+
+*    *   At-211+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   5 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   8
+
+    *   3 E+5
+
+    *   1 E+3
+
+    *   7,2
+
+    *   h
+
+
+*    *   Rn-220+
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   55,8
+
+    *   s
+
+
+*    *   Rn-222+
+
+    *   1 E+8
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,8
+
+    *   d
+
+
+*    *   Fr-222+
+
+    *   1 E+5
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,2
+
+    *   m
+
+
+*    *   Fr-223+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   21,8
+
+    *   m
+
+
+*    *   Ra-223+
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   1 E-2
+
+    *   3 E+1
+
+    *   6 E+1
+
+    *   1 E+1
+
+    *   2 E+1
+
+    *   1
+
+    *   3 E+2
+
+    *   5 E-1
+
+    *   11,4
+
+    *   d
+
+
+*    *   Ra-224+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   5 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   3 E+2
+
+    *   1 E+1
+
+    *   3,6
+
+    *   d
+
+
+*    *   Ra-225
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *
+    *   5 E+1
+
+    *   9 E+1
+
+    *   1 E+1
+
+    *   3 E+1
+
+    *   1 E-1
+
+    *   8 E+1
+
+    *   4 E-1
+
+    *   14,8
+
+    *   d
+
+
+*    *   Ra-226+
+
+    *   1 E+4
+
+    *   1 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *   3 E-2
+
+    *
+    *   4 E-1
+
+    *   5
+
+    *   4 E-2
+
+    *   5 E-1
+
+    *   5 E-1
+
+    *   9 E-1
+
+    *   5 E-2
+
+    *   1,6 E+3
+
+    *   a
+
+
+*    *   Ra-227
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+5
+
+    *   1 E+2
+
+    *   42,2
+
+    *   m
+
+
+*    *   Ra-228+
+
+    *   1 E+5
+
+    *   1 E-1
+
+    *   3 E-2
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *   5
+
+    *   8
+
+    *   2
+
+    *   2
+
+    *   4 E-1
+
+    *   4
+
+    *   7 E-1
+
+    *   5,8
+
+    *   a
+
+
+*    *   Ac-224+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,8
+
+    *   h
+
+
+*    *   Ac-225+
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *   7 E+1
+
+    *
+    *   2 E+1
+
+    *
+    *
+    *
+    *   10,0
+
+    *   d
+
+
+*    *   Ac-226+
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   29,4
+
+    *   h
+
+
+*    *   Ac-227+
+
+    *   1 E+3
+
+    *   1 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *
+    *
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *
+    *
+    *   3 E-2
+
+    *   21,8
+
+    *   a
+
+
+*    *   Ac-228
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   3 E-2
+
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   7 E+3
+
+    *   1 E+1
+
+    *   6,2
+
+    *   h
+
+
+*    *   Th-226+
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *   1 E+1
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   30,6
+
+    *   m
+
+
+*    *   Th-227
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   8 E-2
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   6 E+1
+
+    *   3 E-1
+
+    *   18,7
+
+    *   d
+
+
+*    *   Th-228+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   4 E-1
+
+    *   1,9
+
+    *   a
+
+
+*    *   Th-229+
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   1 E-2
+
+    *   1 E-1
+
+    *   2 E-2
+
+    *
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   9 E-1
+
+    *   1 E-1
+
+    *   7,3 E+3
+
+    *   a
+
+
+*    *   Th-230
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *
+    *   5 E-1
+
+    *   1
+
+    *   5 E-2
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   7,5 E+4
+
+    *   a
+
+
+*    *   Th-231
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   1 E+1
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   3 E+5
+
+    *   1 E+3
+
+    *   25,5
+
+    *   h
+
+
+*    *   Th-232
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *
+    *   1 E-1
+
+    *   3 E-2
+
+    *
+    *   7 E-1
+
+    *   5
+
+    *   7 E-2
+
+    *   7 E-1
+
+    *   1 E-1
+
+    *   1
+
+    *   3 E-1
+
+    *   1,4 E+10
+
+    *   a
+
+
+*    *   Th-232+
+
+    *   1 E+3
+
+    *   1 E-2
+
+    *   UL
+
+    *   1 E-1
+
+    *
+    *
+    *   7 E-1
+
+    *   1
+
+    *   7 E-2
+
+    *   1 E-1
+
+    *
+    *
+    *   1 E-1
+
+    *   1,4 E+10
+
+    *   a
+
+
+*    *   Th-234+
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *
+    *   9 E+2
+
+    *   1 E+3
+
+    *   3 E+2
+
+    *   3 E+2
+
+    *   1 E+2
+
+    *   4 E+3
+
+    *   1 E+1
+
+    *   24,1
+
+    *   d
+
+
+*    *   Pa-227+
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   38,3
+
+    *   m
+
+
+*    *   Pa-228+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,0
+
+    *   h
+
+
+*    *   Pa-230+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   8
+
+    *   8
+
+    *   1 E+1
+
+    *   2 E+2
+
+    *   1 E+1
+
+    *   17,4
+
+    *   d
+
+
+*    *   Pa-231
+
+    *   1 E+3
+
+    *   1 E-2
+
+    *   6 E-2
+
+    *   1 E-2
+
+    *   4 E-3
+
+    *
+    *   1 E-1
+
+    *   1
+
+    *   1 E-2
+
+    *   1 E-1
+
+    *   1 E-2
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   3,3 E+4
+
+    *   a
+
+
+*    *   Pa-232
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,3
+
+    *   d
+
+
+*    *   Pa-233
+
+    *   1 E+7
+
+    *   1 E+1
+
+    *   4 E-1
+
+    *   1 E+1
+
+    *   1
+
+    *   4 E-1
+
+    *   8 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   2 E+1
+
+    *   1 E+1
+
+    *   4 E+2
+
+    *   6 E+1
+
+    *   27,0
+
+    *   d
+
+
+*    *   Pa-234
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   6,8
+
+    *   h
+
+
+*    *   U-230+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   9
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   8 E+1
+
+    *   9 E-1
+
+    *   20,8
+
+    *   d
+
+
+*    *   U-231
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   6
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+4
+
+    *   1 E+2
+
+    *   4,2
+
+    *   d
+
+
+*    *   U-232+
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *
+    *   1
+
+    *   1
+
+    *   5 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   3 E-1
+
+    *   69,8
+
+    *   a
+
+
+*    *   U-233
+
+    *   1 E+4
+
+    *   1
+
+    *   7 E-2
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *   5
+
+    *   1 E+1
+
+    *   5 E-1
+
+    *   4
+
+    *   1
+
+    *   1 E+1
+
+    *   3
+
+    *   1,6 E+5
+
+    *   a
+
+
+*    *   U-234
+
+    *   1 E+4
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *   6
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *   2
+
+    *   1
+
+    *   1 E+1
+
+    *   2
+
+    *   2,5 E+5
+
+    *   a
+
+
+*    *   U-235+
+
+    *   1 E+4
+
+    *   1
+
+    *   8 E-5
+
+    *   1
+
+    *   3 E-1
+
+    *
+    *   3
+
+    *   4
+
+    *   3 E-1
+
+    *   4 E-1
+
+    *   1
+
+    *   1 E+1
+
+    *   8 E-1
+
+    *   7,0 E+8
+
+    *   a
+
+
+*    *   U-236
+
+    *   1 E+4
+
+    *   1 E+1
+
+    *   2 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *   6
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *   6
+
+    *   2
+
+    *   1 E+1
+
+    *   3
+
+    *   2,4 E+7
+
+    *   a
+
+
+*    *   U-237
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   3 E+3
+
+    *   1 E+2
+
+    *   6,8
+
+    *   d
+
+
+*    *   U-238+
+
+    *   1 E+4
+
+    *   1
+
+    *   UL
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *   6
+
+    *   1 E+1
+
+    *   6 E-1
+
+    *   5
+
+    *   2
+
+    *   1 E+1
+
+    *   2
+
+    *   4,5 E+9
+
+    *   a
+
+
+*    *   U-239
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+2
+
+    *   9
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   4 E+6
+
+    *   1 E+2
+
+    *   23,5
+
+    *   m
+
+
+*    *   U-240+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   7 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   9 E+3
+
+    *   1 E+3
+
+    *   14,1
+
+    *   h
+
+
+*    *   Np-232
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   14,7
+
+    *   m
+
+
+*    *   Np-233
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   36,2
+
+    *   m
+
+
+*    *   Np-234
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,4
+
+    *   d
+
+
+*    *   Np-235
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   395,9
+
+    *   d
+
+
+*    *   Np-236
+
+    *   1 E+5
+
+    *   1
+
+    *   7 E-3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,5 E+5
+
+    *   a
+
+
+*    *   Np-236m
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *   8 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   22,5
+
+    *   h
+
+
+*    *   Np-237+
+
+    *   1 E+3
+
+    *   1
+
+    *   7 E-2
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   5
+
+    *   6 E-1
+
+    *   2,1 E+6
+
+    *   a
+
+
+*    *   Np-238
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   d
+
+
+*    *   Np-239
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   5 E-1
+
+    *   1 E+1
+
+    *   2
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   6 E+3
+
+    *   1 E+2
+
+    *   2,4
+
+    *   d
+
+
+*    *   Np-240
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   2 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   1
+
+    *   4 E+4
+
+    *   1 E+1
+
+    *   65,0
+
+    *   m
+
+
+*    *   Pu-234
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   4
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   8 E+4
+
+    *   1 E+2
+
+    *   8,8
+
+    *   h
+
+
+*    *   Pu-235
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   25,3
+
+    *   m
+
+
+*    *   Pu-236
+
+    *   1 E+4
+
+    *   1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   7
+
+    *   7 E-1
+
+    *   2,9
+
+    *   a
+
+
+*    *   Pu-237
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *   2
+
+    *   1 E+2
+
+    *   9
+
+    *   2
+
+    *   5 E+2
+
+    *   1 E+3
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   2 E+3
+
+    *   5 E+2
+
+    *   45,3
+
+    *   d
+
+
+*    *   Pu-238
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *   6 E-2
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   87,7
+
+    *   a
+
+
+*    *   Pu-239+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *   1
+
+    *   5 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   2 E-1
+
+    *   2,4 E+4
+
+    *   a
+
+
+*    *   Pu-240
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *   1
+
+    *   6 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   2 E-1
+
+    *   6,6 E+3
+
+    *   a
+
+
+*    *   Pu-241+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   3
+
+    *   1 E+1
+
+    *   2
+
+    *   4
+
+    *   1 E+2
+
+    *   1 E+2
+
+    *   4 E+1
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   9 E+1
+
+    *   1 E+1
+
+    *   14,3
+
+    *   a
+
+
+*    *   Pu-242
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *   1
+
+    *   5 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   3 E-1
+
+    *   3,7 E+5
+
+    *   a
+
+
+*    *   Pu-243
+
+    *   1 E+7
+
+    *   1 E+3
+
+    *
+    *   1 E+2
+
+    *   2 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   7 E+5
+
+    *   1 E+3
+
+    *   5,0
+
+    *   h
+
+
+*    *   Pu-244+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   3 E-4
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   4 E-2
+
+    *   1
+
+    *   1
+
+    *   3 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   8,0 E+7
+
+    *   a
+
+
+*    *   Pu-245+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,5
+
+    *   h
+
+
+*    *   Pu-246+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,9
+
+    *   d
+
+
+*    *   Am-237+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   73,0
+
+    *   m
+
+
+*    *   Am-238
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,6
+
+    *   h
+
+
+*    *   Am-239
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   11,9
+
+    *   h
+
+
+*    *   Am-240
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   50,8
+
+    *   h
+
+
+*    *   Am-241
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *   6 E-2
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   432,8
+
+    *   a
+
+
+*    *   Am-242
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *   1 E+2
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   3 E+5
+
+    *   1 E+3
+
+    *   16,0
+
+    *   h
+
+
+*    *   Am-242m+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   3 E-1
+
+    *   1 E-1
+
+    *   9 E-2
+
+    *   7 E-2
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   141,0
+
+    *   a
+
+
+*    *   Am-243+
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   1 E-1
+
+    *   9 E-2
+
+    *   5 E-2
+
+    *   1
+
+    *   1
+
+    *   9 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   7,4 E+3
+
+    *   a
+
+
+*    *   Am-244
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   9 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   10,1
+
+    *   h
+
+
+*    *   Am-244m
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   26,0
+
+    *   m
+
+
+*    *   Am-245
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,1
+
+    *   h
+
+
+*    *   Am-246
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   39,0
+
+    *   m
+
+
+*    *   Am-246m
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,0
+
+    *   m
+
+
+*    *   Cm-238+
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   2,4
+
+    *   h
+
+
+*    *   Cm-240
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   3 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   27,0
+
+    *   d
+
+
+*    *   Cm-241
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   32,8
+
+    *   d
+
+
+*    *   Cm-242
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *   4 E-2
+
+    *   1
+
+    *   7 E-1
+
+    *   4 E-1
+
+    *   8 E+1
+
+    *   1 E+2
+
+    *   2 E+1
+
+    *   5 E+1
+
+    *   1
+
+    *   4 E+1
+
+    *   5
+
+    *   162,9
+
+    *   d
+
+
+*    *   Cm-243
+
+    *   1 E+4
+
+    *   1
+
+    *   2 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   7 E-2
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   4
+
+    *   4 E-1
+
+    *   30,0
+
+    *   a
+
+
+*    *   Cm-244
+
+    *   1 E+4
+
+    *   1
+
+    *   5 E-2
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *   8 E-2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   5
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   5
+
+    *   5 E-1
+
+    *   18,0
+
+    *   a
+
+
+*    *   Cm-245
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   9 E-2
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   5 E-2
+
+    *   1
+
+    *   1
+
+    *   6 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   3 E-1
+
+    *   8,5 E+3
+
+    *   a
+
+
+*    *   Cm-246
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *   5 E-2
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   4,7 E+3
+
+    *   a
+
+
+*    *   Cm-247+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   1 E-3
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   4 E-2
+
+    *   1
+
+    *   1
+
+    *   3 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   3
+
+    *   3 E-1
+
+    *   1,6 E+7
+
+    *   a
+
+
+*    *   Cm-248
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   5 E-3
+
+    *   1 E-2
+
+    *   3 E-2
+
+    *   1 E-2
+
+    *   1
+
+    *   1
+
+    *   2 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   8 E-2
+
+    *   3,4 E+5
+
+    *   a
+
+
+*    *   Cm-249
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   64,2
+
+    *   m
+
+
+*    *   Cm-250+
+
+    *   1 E+3
+
+    *   1 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,0 E+3
+
+    *   a
+
+
+*    *   Bk-245
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   4,9
+
+    *   d
+
+
+*    *   Bk-246+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,8
+
+    *   d
+
+
+*    *   Bk-247
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *   8 E-2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1,4 E+3
+
+    *   a
+
+
+*    *   Bk-249+
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   2 E+1
+
+    *
+    *   9 E+2
+
+    *   1 E+3
+
+    *   3 E+2
+
+    *   7 E+2
+
+    *   8 E+1
+
+    *   1 E+3
+
+    *   2 E+2
+
+    *   320,0
+
+    *   d
+
+
+*    *   Bk-250
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,2
+
+    *   h
+
+
+*    *   Cf-244
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   19,4
+
+    *   m
+
+
+*    *   Cf-246
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   4 E+4
+
+    *   1 E+3
+
+    *   35,7
+
+    *   h
+
+
+*    *   Cf-248
+
+    *   1 E+4
+
+    *   1
+
+    *   1 E-1
+
+    *   1
+
+    *   4 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   1 E+1
+
+    *   1
+
+    *   2 E+1
+
+    *   3
+
+    *   333,5
+
+    *   d
+
+
+*    *   Cf-249
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   6 E-2
+
+    *
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   4 E-1
+
+    *   351,0
+
+    *   a
+
+
+*    *   Cf-250
+
+    *   1 E+4
+
+    *   1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   8
+
+    *   1 E-1
+
+    *   4
+
+    *   9 E-1
+
+    *   13,1
+
+    *   a
+
+
+*    *   Cf-251
+
+    *   1 E+3
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *   5 E-2
+
+    *
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   2
+
+    *   4 E-1
+
+    *   898,0
+
+    *   a
+
+
+*    *   Cf-252
+
+    *   1 E+4
+
+    *   1
+
+    *   2 E-2
+
+    *   1 E-1
+
+    *   2 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   7
+
+    *   1 E+1
+
+    *   1 E-1
+
+    *   7
+
+    *   1
+
+    *   2,6
+
+    *   a
+
+
+*    *   Cf-253+
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *   4 E-1
+
+    *   1
+
+    *   1 E-1
+
+    *
+    *   1 E+2
+
+    *   1 E+2
+
+    *   7 E+1
+
+    *   1 E+2
+
+    *   9
+
+    *   1 E+3
+
+    *   4 E+1
+
+    *   17,8
+
+    *   d
+
+
+*    *   Cf-254
+
+    *   1 E+3
+
+    *   1
+
+    *   3 E-4
+
+    *   1 E-1
+
+    *   1 E-1
+
+    *
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1
+
+    *   1 E-1
+
+    *   1 E+1
+
+    *   7 E-1
+
+    *   60,5
+
+    *   d
+
+
+*    *   Es-250
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   8,6
+
+    *   h
+
+
+*    *   Es-251
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   33,0
+
+    *   h
+
+
+*    *   Es-253
+
+    *   1 E+5
+
+    *   1 E+2
+
+    *
+    *   1
+
+    *   1
+
+    *
+    *   1 E+2
+
+    *   1 E+2
+
+    *   5 E+1
+
+    *   1 E+2
+
+    *   1
+
+    *   4 E+2
+
+    *   8
+
+    *   20,5
+
+    *   d
+
+
+*    *   Es-254+
+
+    *   1 E+4
+
+    *   1 E-1
+
+    *
+    *   1
+
+    *   3 E-1
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *   4
+
+    *   5
+
+    *   1
+
+    *   1 E+1
+
+    *   3
+
+    *   275,7
+
+    *   d
+
+
+*    *   Es-254m+
+
+    *   1 E+6
+
+    *   1 E+1
+
+    *
+    *   1
+
+    *   4 E-1
+
+    *
+    *
+    *
+    *
+    *
+    *   2
+
+    *   2 E+3
+
+    *   1 E+2
+
+    *   39,3
+
+    *   h
+
+
+*    *   Fm-252
+
+    *   1 E+6
+
+    *   1 E+3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   25,4
+
+    *   h
+
+
+*    *   Fm-253
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   3,0
+
+    *   d
+
+
+*    *   Fm-254
+
+    *   1 E+7
+
+    *   1 E+4
+
+    *
+    *   1 E+2
+
+    *   3 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+2
+
+    *   2 E+6
+
+    *   1 E+4
+
+    *   3,2
+
+    *   h
+
+
+*    *   Fm-255
+
+    *   1 E+6
+
+    *   1 E+2
+
+    *
+    *   1 E+1
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *   1 E+1
+
+    *   9 E+4
+
+    *   1 E+4
+
+    *   20,1
+
+    *   h
+
+
+*    *   Fm-257
+
+    *   1 E+5
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   100,5
+
+    *   d
+
+
+*    *   Md-257
+
+    *   1 E+7
+
+    *   1 E+2
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   5,5
+
+    *   h
+
+
+*    *   Md-258+
+
+    *   1 E+5
+
+    *   1 E+1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   51,5
+
+    *   d
+
+
+
+## **Tabelle 2**
+
+## Liste der Radionuklide und der bei der Berechnung berücksichtigten
+Tochternuklide
 
 
 *    *   Mutternuklid
@@ -9442,11 +29286,6 @@ berücksichtigten Tochternuklide**
 
 
 *    *   Nb-89+
-
-    *   Zr-89m
-
-
-*    *   Nb-89m+
 
     *   Zr-89m
 
@@ -9981,11 +29820,6 @@ berücksichtigten Tochternuklide**
     *   Pb-205m
 
 
-*    *   Bi-210+
-
-    *   Tl-206
-
-
 *    *   Bi-210m+
 
     *   Tl-206
@@ -10006,34 +29840,9 @@ berücksichtigten Tochternuklide**
     *   Tl-210, Po-214
 
 
-*    *   Po-215+
-
-    *   At-215
-
-
-*    *   Po-218+
-
-    *   Po-214, At-218, Rn-218
-
-
 *    *   At-211+
 
     *   Po-211
-
-
-*    *   At-217+
-
-    *   Po-213, Rn-217
-
-
-*    *   Rn-218+
-
-    *   Po-214
-
-
-*    *   Rn-219+
-
-    *   Po-215, At-215
 
 
 *    *   Rn-220+
@@ -10043,13 +29852,7 @@ berücksichtigten Tochternuklide**
 
 *    *   Rn-222+
 
-    *   Tl-210, Pb-209, Pb-214, Bi-214,
-        Po-214, Po-218, At-218, Rn-218
-
-
-*    *   Fr-221+
-
-    *   Po-213, At-217, Rn-217
+    *   Tl-210, Pb-209, Pb-214, Bi-214, Po-214, Po-218, At-218, Rn-218
 
 
 *    *   Fr-222+
@@ -10059,32 +29862,22 @@ berücksichtigten Tochternuklide**
 
 *    *   Fr-223+
 
-    *   Tl-207, Bi-211, Bi-215, Po-211,
-        Po-215, At-215, At-219, Rn-219
-
-
-*    *   Ra-222+
-
-    *   Po-214, Rn-218
+    *   Tl-207, Bi-211, Bi-215, Po-211, Po-215, At-215, At-219, Rn-219
 
 
 *    *   Ra-223+
 
-    *   Tl-207, Pb-211, Bi-211, Po-211,
-        Po-215, At-215, Rn-219
+    *   Tl-207, Pb-211, Bi-211, Po-211, Po-215, At-215, Rn-219
 
 
 *    *   Ra-224+
 
-    *   Tl-208, Pb-212, Bi-212, Po-212,
-        Po-216, Rn-220
+    *   Tl-208, Pb-212, Bi-212, Po-212, Po-216, Rn-220
 
 
 *    *   Ra-226+
 
-    *   Tl-210, Pb-209, Pb-214, Bi-214,
-        Po-214, Po-218, At-218, Rn-218,
-        Rn-222
+    *   Tl-210, Pb-209, Pb-214, Bi-214, Po-214, Po-218, At-218, Rn-218, Rn-222
 
 
 *    *   Ra-228+
@@ -10094,27 +29887,24 @@ berücksichtigten Tochternuklide**
 
 *    *   Ac-224+
 
-    *   Tl-208, Bi-212, Po-212, At-216,
-        Rn-216, Fr-220, Ra-220
+    *   Tl-208, Bi-212, Po-212, At-216, Rn-216, Fr-220, Ra-220
 
 
 *    *   Ac-225+
 
-    *   Tl-209, Pb-209, Bi-213, Po-213,
-        At-217, Rn-217, Fr-221
+    *   Tl-209, Pb-209, Bi-213, Po-213, At-217, Rn-217, Fr-221
 
 
 *    *   Ac-226+
 
-    *   Po-214, Rn-218, Fr-222, Ra-222,
-        Th-226
+    *   Po-214, Rn-218, Fr-222, Ra-222, Th-226
 
 
 *    *   Ac-227+
 
-    *   Tl-207, Pb-211, Bi-211, Bi-215,
-        Po-211, Po-215, At-215, At-219,
-        Rn-219, Fr-223, Ra-223, Th-227
+    *   Tl-207, Pb-211, Bi-211, Bi-215, Po-211, Po-215, At-215, At-219,
+        Rn-219, Fr-223,
+        Ra-223, Th-227
 
 
 *    *   Th-226+
@@ -10124,21 +29914,18 @@ berücksichtigten Tochternuklide**
 
 *    *   Th-228+
 
-    *   Tl-208, Pb-212, Bi-212, Po-212,
-        Po-216, Rn-220, Ra-224
+    *   Tl-208, Pb-212, Bi-212, Po-212, Po-216, Rn-220, Ra-224
 
 
 *    *   Th-229+
 
-    *   Tl-209, Pb-209, Bi-213, Po-213,
-        At-217, Rn-217, Fr-221, Ra-225,
-        Ac-225
+    *   Tl-209, Pb-209, Bi-213, Po-213, At-217, Rn-217, Fr-221, Ra-225, Ac-225
 
 
 *    *   Th-232+
 
-    *   Tl-208, Pb-212, Bi-212, Po-212,
-        Po-216, Rn-220, Ra-224, Ra-228, Ac-228, Th-228
+    *   Tl-208, Pb-212, Bi-212, Po-212, Po-216, Rn-220, Ra-224, Ra-228,
+        Ac-228, Th-228
 
 
 *    *   Th-234+
@@ -10148,26 +29935,27 @@ berücksichtigten Tochternuklide**
 
 *    *   Pa-227+
 
-    *   Tl-207, Bi-211, Po-211, At-215,
-        Fr-219, Ac-223
+    *   Tl-207, Bi-211, Po-211, At-215, Fr-219, Ac-223
 
 
 *    *   Pa-228+
 
-    *   Tl-208, Bi-212, Po-212, At-216,
-        Rn-216, Fr-220, Ra-220, Ac-224
+    *   Tl-208, Bi-212, Po-212, At-216, Rn-216, Fr-220, Ra-220, Ac-224
 
 
 *    *   Pa-230+
 
-    *   Po-214, Rn-218, Fr-222, Ra-222,
-        Ac-226, Th-226
+    *   Po-214, Rn-218, Fr-222, Ra-222, Ac-226, Th-226
+
+
+*    *   U-230+
+
+    *   Po-214, Rn-218, Ra-222, Th-226
 
 
 *    *   U-232+
 
-    *   Tl-208, Pb-212, Bi-212, Po-212,
-        Po-216, Rn-220, Ra-224, Th-228
+    *   Tl-208, Pb-212, Bi-212, Po-212, Po-216, Rn-220, Ra-224, Th-228
 
 
 *    *   U-235+
@@ -10276,25 +30064,29 @@ berücksichtigten Tochternuklide**
 
 
 
-
 (zu § 27 und Anlage 7)
 
 #### Anlage 5 Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen
 
-(Fundstelle: BGBl. I 2018, 2125)
+(Fundstelle: BGBl. I 2018, 2125
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Bei der Verwertung oder Beseitigung von Rückständen gilt für
     repräsentativ ermittelte Werte C
     U238max                    und C
     Th232max                    der größten spezifischen Aktivitäten der
-    Radionuklide der Nuklidketten U-238sec und Th-232sec in Becquerel
-    durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende
-    Summenformel:
+    Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in
+    Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die
+    folgende Summenformel:
 
     C
     U238max                    + C
     Th232max*                    C mit der Überwachungsgrenze C = 1 Bq/g.
+
+    Für Stoffe, für die keine Trockenmasse bestimmt werden kann,
+    insbesondere für Öle, ist ein geeignetes Verfahren zur Bestimmung der
+    spezifischen Aktivitäten anzuwenden.
 
 
 2.  Abweichend von Nummer 1 gilt C
@@ -10302,7 +30094,7 @@ berücksichtigten Tochternuklide**
     Th232max*                    0,5 Bq/g, wenn
 
     a)  im Einzugsbereich eines nutzbaren Grundwasserleiters im Kalenderjahr
-        mehr als 5 000 Tonnen Rückstände deponiert werden oder
+        mehr als 5 000 Megagramm Rückstände deponiert werden oder
 
 
     b)  bei Baustoffen bei der Verwertung im Straßen-, Wege-, Landschafts-
@@ -10322,9 +30114,10 @@ berücksichtigten Tochternuklide**
     oder Deponierung von Rückständen.
 
 
-4.  Ist die größte spezifische Aktivität der Radionuklide des Pb-210+
-    gegenüber der größten spezifischen Aktivität der übrigen Radionuklide
-    der U-238sec-Nuklidkette um einen Faktor A größer 5 erhöht, so gilt
+4.  Ist die größte spezifische Aktivität der Radionuklide des Pb-210 und
+    seiner relevanten Folgeprodukte Bi-210 und Po-210 gegenüber der
+    größten spezifischen Aktivität der übrigen Radionuklide der
+    U-238-Zerfallsreihe um einen Faktor A größer 5 erhöht, so gilt
     abweichend von den Nummern 1 bis 3: R ∙ C
     U238max                    + C
     Th232max*                    C. Der Faktor R nimmt bei der übertägigen
@@ -10366,16 +30159,17 @@ berücksichtigten Tochternuklide**
 
 
 Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der
-Nuklidkette U-238sec berücksichtigt und müssen nicht gesondert
+U-238-Zerfallsreihe berücksichtigt und müssen nicht gesondert
 betrachtet werden. Liegt zudem die spezifische Aktivität für jedes
-Radionuklid einer der Nuklidketten U-238sec oder Th-232sec unter 0,2
-Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
+Radionuklid der U-238-Zerfallsreihe oder der Th-232-Zerfallsreihe
+unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
 
 (zu den §§ 28, 100, 101)
 
 #### Anlage 6 Grundsätze für die Ermittlung von Expositionen bei Rückständen
 
-(Fundstelle: BGBl. I 2018, 2126)
+(Fundstelle: BGBl. I 2018, 2126
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Bei der Ermittlung der Exposition von Einzelpersonen der Bevölkerung
@@ -10409,17 +30203,17 @@ Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
 
 
 
-Für Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten aus der
-Zusammenstellung im Bundesanzeiger Nummer 160a und b vom 28. August
-2001 Teil I und II zu verwenden. Für beruflich tätige Personen sind
-die Dosiskoeffizienten aus der Zusammenstellung im Bundesanzeiger
-Nummer 160a und b vom 28. August 2001 Teil I und III zu verwenden.
+Für Einzelpersonen der Bevölkerung sind die in Anlage 18 Teil B Nummer
+4 Satz 2 genannten Dosiskoeffizienten zu verwenden. Für beruflich
+tätige Personen sind die in Anlage 18 Teil B Nummer 4 Satz 3 genannten
+Dosiskoeffizienten zu verwenden.
 
 (zu § 29 Absatz 4)
 
 #### Anlage 7 Voraussetzungen für die Entlassung aus der Überwachung bei gemeinsamer Deponierung von überwachungsbedürftigen Rückständen mit anderen Rückständen und Abfällen
 
-(Fundstelle: BGBl. I 2018, 2127)
+(Fundstelle: BGBl. I 2018, 2127
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Bei der Entlassung von Rückständen aus der Überwachung zum Zwecke
 einer gemeinsamen Deponierung mit anderen Rückständen und Abfällen
@@ -10434,9 +30228,8 @@ von 1 Millisievert im Kalenderjahr nicht überschreiten werden:
     U238max                    und C
     M
     Th232max                    der spezifischen Aktivitäten der
-    Radionuklide der Nuklidketten
-    U-238sec                    und Th-232sec in Becquerel durch Gramm
-    (Bq/g) gilt nachfolgende Summenformel: C
+    Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in
+    Becquerel durch Gramm (Bq/g) gilt nachfolgende Summenformel: C
     M
     U238max                    + C
     M
@@ -10452,7 +30245,8 @@ von 1 Millisievert im Kalenderjahr nicht überschreiten werden:
     die Gesamtmasse aller innerhalb dieses Zeitraums auf der Deponie
     beseitigten Rückstände und Abfälle bestimmt werden. Bei der Ermittlung
     der Gesamtaktivität ist jeweils die größte Aktivität der Radionuklide
-    der Nuklidketten U-238sec und Th-232sec zugrunde zu legen. C
+    der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe zugrunde zu
+    legen. C
     M                    nimmt folgende Werte an:
 
     a)  C
@@ -10477,35 +30271,37 @@ von 1 Millisievert im Kalenderjahr nicht überschreiten werden:
 
 
     Dabei darf die spezifische Aktivität keines Radionuklids der
-    Nuklidketten U-238sec und Th-232sec 10 Bq/g bzw. bei der Deponierung
-    auf Deponien für gefährliche Abfälle 50 Bq/g überschreiten.
+    U-238-Zerfallsreihe und der Th-232-Zerfallsreihe 10 Bq/g bzw. bei der
+    Deponierung auf Deponien für gefährliche Abfälle 50 Bq/g
+    überschreiten.
 
 
 2.  Ist in einer Rückstandscharge die größte spezifische Aktivität der
-    Radionuklide des Pb-210+ gegenüber der spezifischen Aktivität der
-    übrigen Radionuklide der U-238sec-Nuklidkette um einen Faktor A größer
-    5 erhöht, darf bei der Ermittlung der Gesamtaktivität entsprechend
-    Nummer 1 die Aktivität der Radionuklide der Nuklidkette U-238sec für
-    diese Charge mit einem Faktor R multipliziert werden. Bei der
-    Beseitigung auf Deponien nimmt der Faktor R den Wert 0,3 an. Bei der
-    untertägigen Beseitigung ist der Faktor R aus der Tabelle in Anlage 5
-    Nummer 4 zu entnehmen.
+    Radionuklide des Pb-210 und seiner relevanten Folgeprodukte Bi-210 und
+    Po-210 gegenüber der spezifischen Aktivität der übrigen Radionuklide
+    der U-238-Zerfallsreihe um einen Faktor A größer 5 erhöht, darf bei
+    der Ermittlung der Gesamtaktivität entsprechend Nummer 1 die Aktivität
+    der Radionuklide der U-238-Zerfallsreihe für diese Charge mit einem
+    Faktor R multipliziert werden. Bei der Beseitigung auf Deponien nimmt
+    der Faktor R den Wert 0,3 an. Bei der untertägigen Beseitigung ist der
+    Faktor R aus der Tabelle in Anlage 5 Nummer 4 zu entnehmen.
 
 
 
 Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der
-Nuklidkette U-238sec berücksichtigt und müssen nicht gesondert
+U-238-Zerfallsreihe berücksichtigt und müssen nicht gesondert
 betrachtet werden. Liegt zudem die spezifische Aktivität für jedes
-Radionuklid einer der Nuklidketten U-238sec oder Th-232sec in
+Radionuklid der U-238-Zerfallsreihe oder der Th-232-Zerfallsreihe in
 einzelnen Rückstandschargen unter 0,2 Bq/g, bleibt die jeweilige
 Nuklidkette für diese Charge bei der Berechnung der Gesamtaktivität
-gemäß Nummer 1 unberücksichtigt.
+nach Nummer 1 unberücksichtigt.
 
-(zu den §§ 35, 36, 37 sowie Anlage 4)
+(zu den §§ 35, 36, 37, 39 sowie Anlage 4)
 
 #### Anlage 8 Festlegungen zur Freigabe
 
-(Fundstelle: BGBl. I 2018, 2128 - 2130)
+(Fundstelle: BGBl. I 2018, 2128 - 2130
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Teil A: Allgemeines**
 
@@ -10601,10 +30397,17 @@ Die Werte der Anlage 4 Tabelle 1 Spalte 3 gelten für
 
 
 2.  Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende
-    Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt, und
+    Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt,
 
 
-3.  Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
+3.  Bodenaushub, der auf Grund seiner stofflichen Eigenschaften nicht als
+    durchwurzelbare Bodenschicht im Sinne des § 2 Satz 1 Nummer 5 der
+    Bundes-Bodenschutz- und Altlastenverordnung aufgebracht werden kann,
+    wenn die freizugebende Masse nicht mehr als 37 500 Megagramm im
+    Kalenderjahr beträgt, und
+
+
+4.  Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
 
 
 
@@ -10864,7 +30667,7 @@ Bauteilen**
 3.  Es sind nur solche Schmelzbetriebe geeignet, bei denen ein
     Mischungsverhältnis von 1:10 von freigegebenem Metallschrott zu
     anderen Metallen gewährleistet werden kann oder die einen Durchsatz
-    von mindestens 40 000 Tonnen im Kalenderjahr aufweisen.
+    von mindestens 40 000 Megagramm im Kalenderjahr aufweisen.
 
 
 4.  Bei einer Freigabe von Metallschrott zum Recycling, der nur mit einem
@@ -11305,7 +31108,8 @@ Bauteilen**
 
 #### Anlage 11 Annahmen bei der Berechnung der Exposition
 
-(Fundstelle: BGBl. I 2018, 2135 - 2158)
+(Fundstelle: BGBl. I 2018, 2135 - 2158
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Teil A: Expositionspfade**
 
@@ -11526,9 +31330,9 @@ Tabelle 1
 *    *   Muttermilch,
         Milchfertigprodukte mit Trinkwasser
 
-    *[^f804921_02_BJNR203600018BJNE021200000]
+    *[^f804921_02_BJNR203600018BJNE021201128]
    200
-[^f804921_03_BJNR203600018BJNE021200000]
+[^f804921_03_BJNR203600018BJNE021201128]
         ,
 
     *   –
@@ -11562,7 +31366,7 @@ Tabelle 1
     *   3
 
 
-*    *[^f804921_04_BJNR203600018BJNE021200000]
+*    *[^f804921_04_BJNR203600018BJNE021201128]
    Fisch
 
     *   0,5
@@ -11837,7 +31641,7 @@ Tabelle 3
     *   –
 
 
-*    *[^f804921_05_BJNR203600018BJNE021200000]
+*    *[^f804921_05_BJNR203600018BJNE021201128]
    Direktstrahlung
 
     *   1 760 Stunden pro Kalenderjahr im Freien
@@ -11848,7 +31652,7 @@ Tabelle 3
 *    *
     *   7 000 Stunden pro Kalenderjahr in Gebäuden
 
-    *[^f804921_06_BJNR203600018BJNE021200000]
+    *[^f804921_06_BJNR203600018BJNE021201128]
    fallspezifisch
 
 
@@ -12114,7 +31918,7 @@ Tochternuklide sind zu berücksichtigen.
             5                                m
             3                                h
             -1                                nicht höher sein als die jeweiligen
-            Werte der Spalte 2 der Tabellen 4 oder 6;
+            Werte der Spalte 2 der Tabellen 6 oder 8;
 
 
 
@@ -12165,8 +31969,12 @@ Tochternuklide sind zu berücksichtigen.
             oder
 
 
-        2.1.2 für Abwassermengen*                                10
+        2.1.2 für Abwassermengen 10
             5                                m
+            3                                a
+            -1*                                Q*
+            10
+            6                                m
             3                                a
             -1                                nicht höher sein als die jeweiligen
             Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
@@ -19092,7 +38900,7 @@ i **aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)**
 
 
 
-[^f804921_02_BJNR203600018BJNE021200000]:     Mengenangabe in [l/a].               Zur jährlichen Trinkwassermenge
+[^f804921_02_BJNR203600018BJNE021201128]:     Mengenangabe in [l/a].               Zur jährlichen Trinkwassermenge
     des Säuglings von 55 l/a kommen 160 l/a, wenn angenommen wird, dass
     der Säugling nicht gestillt wird, sondern nur Milchfertigprodukte
     erhält, die überregional erzeugt werden und als nicht kontaminiert
@@ -19100,13 +38908,13 @@ i **aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)**
     (entspricht 1 l Milch) in 0,8 l Wasser aufgelöst werden.
     Je nach Nuklidzusammensetzung ist die ungünstigste Ernährungsvariante
     zugrunde zu legen.
-[^f804921_03_BJNR203600018BJNE021200000]:     Der Anteil von Süßwasserfisch am Gesamtfischverzehr beträgt im Mittel
+[^f804921_03_BJNR203600018BJNE021201128]:     Der Anteil von Süßwasserfisch am Gesamtfischverzehr beträgt im Mittel
     ca. 17 Prozent und ist den regionalen Besonderheiten anzupassen.
-[^f804921_04_BJNR203600018BJNE021200000]:     Ionisierende Strahlung aus kerntechnischen Anlagen, Anlagen im Sinne
+[^f804921_04_BJNR203600018BJNE021201128]:     Ionisierende Strahlung aus kerntechnischen Anlagen, Anlagen im Sinne
     des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des
     Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung und
     anderer Einrichtungen.
-[^f804921_05_BJNR203600018BJNE021200000]: [^f804921_06_BJNR203600018BJNE021200000]:     Fallspezifische Reduktionsfaktoren für Direktstrahlung
+[^f804921_05_BJNR203600018BJNE021201128]: [^f804921_06_BJNR203600018BJNE021201128]:     Fallspezifische Reduktionsfaktoren für Direktstrahlung
     (Gammadirektstrahlung und Röntgendirektstrahlung) bei Aufenthalt in
     Gebäuden:               0,3 bei kerntechnischen Anlagen, Anlagen im
     Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des
@@ -19249,7 +39057,8 @@ Die Information der Bevölkerung muss Folgendes umfassen:
 
 #### Anlage 14 Kriterien für die Bedeutsamkeit eines Vorkommnisses bei medizinischer Exposition und bei Exposition der untersuchten Person bei einer nichtmedizinischen Anwendung
 
-(Fundstelle: BGBl. I 2018, 2161 - 2162)
+(Fundstelle: BGBl. I 2018, 2161 - 2162
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **I.** **Untersuchungen mit ionisierender Strahlung und radioaktiven Stoffen
@@ -19260,10 +39069,10 @@ Die Information der Bevölkerung muss Folgendes umfassen:
     1)  Bezogen auf eine Gruppe von Personen
 
         Jede Überschreitung des Mittelwertes über die letzten 20
-        aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart um mehr
-        als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald
-        der diagnostische Referenzwert einer einzelnen Untersuchung um 200
-        Prozent überschritten wurde.
+        aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart am
+        selben Gerät um mehr als 100 Prozent des jeweiligen diagnostischen
+        Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen
+        Untersuchung um 200 Prozent überschritten wurde.
 
 
     2)  Bezogen auf eine einzelne Person
@@ -19299,6 +39108,11 @@ Die Information der Bevölkerung muss Folgendes umfassen:
 
         d)  Jedes Auftreten einer deterministischen Wirkung, die für die
             festgelegte Untersuchung nicht zu erwarten war.
+
+
+        e)  Jede Verwechslung des radioaktiven Stoffs, wenn für die daraus
+            resultierende gesamte zusätzliche Exposition das Kriterium nach
+            Buchstabe a erfüllt ist.
 
 
 
@@ -19619,7 +39433,8 @@ zu setzen.
 
 #### Anlage 18 Dosis- und Messgrößen
 
-(Fundstelle: BGBl. I 2018, 2166 - 2168)
+(Fundstelle: BGBl. I 2018, 2166 - 2168
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil A: Messgrößen für äußere Strahlung
 
@@ -19805,7 +39620,7 @@ Dabei ist
     C Nummer 2 aufgeführten Organe und Gewebe zu summieren:
 
 
-    *        *            ![bgbl1_2018_j2034-1_0280.jpg](bgbl1_2018_j2034-1_0280.jpg)
+    *        *            ![bgbl1_2024_j00080_0010.jpg](bgbl1_2024_j00080_0010.jpg)
 
 
 
@@ -19841,33 +39656,46 @@ Dabei ist
 
 
 4.  Berechnung der effektiven Dosis bei Inkorporation, Submersion oder
-    Bodenkontamination:
-
-    Für die Berechnung der Exposition sind jeweils die Dosiskoeffizienten
-    und Vorgaben aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b
-    vom 28. August 2001 Teil I, II und III sowie IV und V heranzuziehen.
-    Die zuständige Behörde kann unter Berücksichtigung der
-    Expositionsbedingungen andere Dosiskoeffizienten nach dem Stand von
-    Wissenschaft und Technik festlegen.
+    Bodenkontamination: Für die Berechnung der Exposition sind jeweils die
+    Dosiskoeffizienten und Vorgaben aus den Zusammenstellungen im
+    Bundesanzeiger Nummer 160 a und b vom 28. August 2001 Teil I und Teil
+    II sowie im Bundesanzeiger vom 10. Mai 2023 (Bekanntmachung des
+    Bundesamtes für Strahlenschutz vom 17. April 2023, BAnz AT 10. Mai
+    2023 B7) heranzuziehen. Für die Ermittlung der Exposition für
+    Einzelpersonen der Bevölkerung sind die Dosiskoeffizienten und
+    Vorgaben aus der Zusammenstellung im Bundesanzeiger Nummer 160 a und b
+    vom 28. August 2001 Teil I und Teil II heranzuziehen. Für Personen,
+    die einer beruflichen Exposition ausgesetzt sind, oder für beruflich
+    tätige Personen sind die Dosiskoeffizienten und Vorgaben aus den
+    Zusammenstellungen im Bundesanzeiger Nummer 160 a und b vom 28. August
+    2001 Teil I und im Bundesanzeiger vom 10. Mai 2023 (Bekanntmachung des
+    Bundesamtes für Strahlenschutz vom 17. April 2023, BAnz AT 10. Mai
+    2023 B7) heranzuziehen. Die zuständige Behörde kann unter
+    Berücksichtigung der Expositionsbedingungen andere Dosiskoeffizienten
+    und Vorgaben nach dem Stand von Wissenschaft und Technik festlegen.
 
 
 5.  Berechnung der effektiven Dosis des ungeborenen Kindes:
 
-    a)  Berechnung des Beitrags aus einer äußeren Exposition des ungeborenen
-        Kindes:
+    a)  Berechnung des Beitrags für das ungeborene Kind bei äußerer Exposition
+        der schwangeren Person: Für die Berechnung der Exposition sind jeweils
+        die Dosisleistungskoeffizienten und Vorgaben aus der Zusammenstellung
+        im Bundesanzeiger (Bekanntmachung des Bundesamtes für Strahlenschutz
+        vom 17. April 2023, BAnz AT 10. Mai 2023 B6) heranzuziehen. Die
+        zuständige Behörde kann unter Berücksichtigung der
+        Expositionsbedingungen andere Dosisleistungskoeffizienten und Vorgaben
+        nach dem Stand von Wissenschaft und Technik festlegen.
 
-        Bei äußerer Exposition gilt die Organ-Äquivalentdosis der Gebärmutter
-        der Schwangeren als effektive Dosis des ungeborenen Kindes.
 
-
-    b)  Berechnung des Beitrags aus einer inneren Exposition des ungeborenen
-        Kindes auf Grund der Inkorporation von Radionukliden einer
-        Schwangeren:
-
-        Bei innerer Exposition gilt die effektive Folgedosis der Schwangeren,
-        die durch die Aktivitätszufuhr bedingt ist, als effektive Dosis des
-        ungeborenen Kindes, soweit die zuständige Behörde auf Grund der
-        Expositionsbedingungen nichts anderes festlegt.
+    b)  Berechnung des Beitrags für das ungeborene Kind aus einer inneren
+        Exposition des ungeborenen Kindes auf Grund der Inkorporation von
+        Radionukliden einer schwangeren Person: Für die Berechnung der
+        Exposition sind jeweils die Dosiskoeffizienten und Vorgaben aus der
+        Zusammenstellung im Bundesanzeiger (Bekanntmachung des Bundesamtes für
+        Strahlenschutz vom 27. Juni 2022, BAnz AT 4. Juli 2022 B13)
+        heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der
+        Expositionsbedingungen andere Dosiskoeffizienten und Vorgaben nach dem
+        Stand von Wissenschaft und Technik festlegen.
 
 
 
@@ -20018,7 +39846,7 @@ Wichtungsfaktors
         *   0,01
 
 
-    *        *[^f804921_07_BJNR203600018BJNE021900000]
+    *        *[^f804921_07_BJNR203600018BJNE021901128]
    15. Andere Organe oder Gewebe
 
         *   0,12
@@ -20072,12 +39900,13 @@ Wasser in keV/*             m.
     Nebennieren, obere Atemwege, Gallenblase, Herz, Nieren, Lymphknoten,
     Muskelgewebe, Mundschleimhaut, Bauchspeicheldrüse, Prostata (Männer),
     Dünndarm, Milz, Thymus, Gebärmutter/Gebärmutterhals (Frauen).
-[^f804921_07_BJNR203600018BJNE021900000]: 
+[^f804921_07_BJNR203600018BJNE021901128]: 
 (zu § 181)
 
 #### Anlage 19 Prüfungen zum Erwerb und Erhalt der erforderlichen fachlichen Qualifikation für die Ausübung einer Tätigkeit als behördlich bestimmter Sachverständiger nach § 172 Absatz 1 des Strahlenschutzgesetzes
 
-(Fundstelle: BGBl. I 2018, 2169 - 2171)
+(Fundstelle: BGBl. I 2018, 2169 - 2171
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1: Sachverständige nach § 172 Absatz 1 Satz 1 Nummer 1, 3 und
 4 StrlSchG
@@ -20347,7 +40176,7 @@ unterschiedlichen Einsatzbereichen durchzuführen.
 
 *    *   **D**
 
-    *[^f804921_08_BJNR203600018BJNE022000000]
+    *[^f804921_08_BJNR203600018BJNE022001128]
    Medizinisch genutzte Systeme (Anwendungen am Menschen)
         ****
 
@@ -20400,8 +40229,8 @@ unterschiedlichen Einsatzbereichen durchzuführen.
 
 *    *   E 2
 
-    *   Anlagen zur Erzeugung ionisierender Strahlung,
-        ausgenommen E 1
+    *   Anlagen zur Erzeugung ionisierender Strahlung, ausgenommen E 1 und E
+        2a
 
     *   5
 
@@ -20409,6 +40238,21 @@ unterschiedlichen Einsatzbereichen durchzuführen.
 
     *   Beim Erwerb der Qualifikation müssen zwei Prüfungen den Umfang einer
         Erstprüfung inklusive des baulichen Strahlenschutzes umfassen.
+
+
+*    *   E 2a
+
+    *   Laseranlagen mit Bestrahlungsstärken bis 10
+        16                        W/cm
+        2
+
+    *   5
+
+    *   2
+
+    *   Bei Erwerb oder Erhalt einer Qualifikation zusätzlich zu der
+        Qualifikation für Prüfungen von Anlagen nach E 2 reduzieren sich die
+        Zahlen der zu prüfenden Systeme auf 2 (Spalte 2) und 1 (Spalte 3).
 
 
 *    *   E 3
@@ -20462,4 +40306,4 @@ Tätigkeitsfeldern nach Anlage 3 des Strahlenschutzgesetzes
 durchzuführen.
 
     Dazu gehören auch vergleichbare Geräte zur Anwendung am Tier.
-[^f804921_08_BJNR203600018BJNE022000000]: 
+[^f804921_08_BJNR203600018BJNE022001128]: 

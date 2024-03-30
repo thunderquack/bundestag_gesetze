@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 1598
 
 Zuletzt geändert durch
-:   Art. 1 Vertrag v. 6.7.2018 I 2236 iVm Art. 1 G v. 29.11.2018 I 2235
+:   Art. 1 Vertrag v. 25.4.2023 I Nr. 352
 
 
 ## Präambel
@@ -53,8 +53,9 @@ Kosten seiner Verwaltung finanziell unterstützen.
 
 (1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik
 Deutschland an den Zentralrat der Juden in Deutschland jährlich einen
-Betrag von 13 000 000 Euro, beginnend – unabhängig vom lnkrafttreten
-des Vertrages – mit dem Haushaltsjahr 2018.
+Betrag von 22 000 000 Euro, beginnend mit dem Haushaltsjahr 2023.
+Sollte der Vertrag nicht im Jahr des Vertragsabschlusses in Kraft
+treten, erfolgt eine rückwirkende Zahlung.
 
 (2) Die Vertragsschließenden werden sich nach Ablauf von jeweils fünf
 Jahren - beginnend im Jahr 2008 - hinsichtlich einer Anpassung der

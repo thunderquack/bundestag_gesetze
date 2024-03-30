@@ -5169,15 +5169,15 @@ Besichtigung zugänglich zu machen.
 ### § 52b Mitteilungspflichten zur Betriebsorganisation
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ
-aus mehreren Mitgliedern oder sind bei Personengesellschaften mehrere
-vertretungsberechtigte Gesellschafter vorhanden, so ist der
-zuständigen Behörde anzuzeigen, wer von ihnen nach den Bestimmungen
-über die Geschäftsführungsbefugnis für die Gesellschaft die Pflichten
-des Betreibers der genehmigungsbedürftigen Anlage wahrnimmt, die ihm
-nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen
-Rechtsverordnungen und allgemeinen Verwaltungsvorschriften obliegen.
-Die Gesamtverantwortung aller Organmitglieder oder Gesellschafter
-bleibt hiervon unberührt.
+aus mehreren Mitgliedern oder sind bei rechtsfähigen
+Personengesellschaften mehrere vertretungsberechtigte Gesellschafter
+vorhanden, so ist der zuständigen Behörde anzuzeigen, wer von ihnen
+nach den Bestimmungen über die Geschäftsführungsbefugnis für die
+Gesellschaft die Pflichten des Betreibers der genehmigungsbedürftigen
+Anlage wahrnimmt, die ihm nach diesem Gesetz und nach den auf Grund
+dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen
+Verwaltungsvorschriften obliegen. Die Gesamtverantwortung aller
+Organmitglieder oder Gesellschafter bleibt hiervon unberührt.
 
 (2) Der Betreiber der genehmigungsbedürftigen Anlage oder im Rahmen
 ihrer Geschäftsführungsbefugnis die nach Absatz 1 Satz 1 anzuzeigende

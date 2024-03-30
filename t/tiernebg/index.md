@@ -442,7 +442,7 @@ auch nach erfolgter Registrierung nach Artikel 23 der Verordnung (EG)
 Nr. 1069/2009 oder der Erteilung einer Zulassung nach Artikel 24 der
 Verordnung (EG) Nr. 1069/2009.
 
-(3) Natürliche und juristische Personen und nicht rechtsfähige
+(3) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der den Behörden durch
 dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben

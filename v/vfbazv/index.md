@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 1004
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2017 I 3935
+:   Art. 1 V v. 14.12.2023 I Nr. 371
 
 
 ## Eingangsformel
@@ -41,7 +41,7 @@ Nummer 1 des Dritten Buches Sozialgesetzbuch an das Sondervermögen
 „Versorgungsfonds der Bundesagentur für Arbeit“ maßgebende Prozentsatz
 der ruhegehaltfähigen Dienstbezüge oder Entgeltzahlungen
 (Zuweisungssatz) beträgt für die Beamtinnen und Beamten der
-Bundesagentur für Arbeit 96,6 Prozent.
+Bundesagentur für Arbeit 147,7 Prozent.
 
 
 ## § 2 Verrechnung
@@ -108,9 +108,9 @@ werden im Einvernehmen mit dem Bundesministerium für Arbeit und
 Soziales und dem Bundesministerium der Finanzen festgestellt.
 
 (2) Ergeben die nach Absatz 1 durchgeführten Revisionen eine Unter-
-oder Überfinanzierung des Fonds in Höhe von mindestens 50 Millionen
-Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr, spätestens
-mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
+oder eine Überfinanzierung des Fonds in Höhe von mindestens 250
+Millionen Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr,
+spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
 
 
 ## § 5 Inkrafttreten

@@ -1309,7 +1309,7 @@ insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt
 hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen obliegen.
 
-(2) Ist der Bewerber eine juristische Person oder
+(2) Ist der Bewerber eine juristische Person oder rechtsfähige
 Personengesellschaft, wird die Fahrschulerlaubnis erteilt, wenn die in
 Absatz 1 Nummer 6 genannten Voraussetzungen erfüllt sind und keine
 Tatsachen vorliegen, die die durch Gesetz, Satzung oder durch
@@ -1423,18 +1423,19 @@ Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz
 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter
 als drei Monate sein darf.
 
-(2) Ist der Bewerber eine juristische Person oder
+(2) Ist der Bewerber eine juristische Person oder rechtsfähige
 Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer
-4 bis 9, ein beglaubigter Auszug aus dem Handelsregister oder aus dem
-Vereinsregister und für die für die verantwortliche Leitung des
-Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach
-Absatz 1 Satz 2 Nummer 1 bis 4 beizufügen. Ferner ist zu erklären,
-welche beruflichen Verpflichtungen für die für die verantwortliche
-Leitung des Ausbildungsbetriebs bestellte Person sonst noch zu
-erfüllen hat. Für die zur Vertretung der juristischen Person oder der
-Personengesellschaft berechtigten Personen und für die für die
-verantwortliche Leitung des Ausbildungsbetriebs bestellte Person gilt
-Absatz 1 Satz 3 entsprechend.
+4 bis 9, ein beglaubigter Auszug aus dem Handelsregister,
+Gesellschaftsregister oder aus dem Vereinsregister und für die für die
+verantwortliche Leitung des Ausbildungsbetriebs bestellte Person
+zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 bis 4
+beizufügen. Ferner ist zu erklären, welche beruflichen Verpflichtungen
+für die für die verantwortliche Leitung des Ausbildungsbetriebs
+bestellte Person sonst noch zu erfüllen hat. Für die zur Vertretung
+der juristischen Person oder der rechtsfähigen Personengesellschaft
+berechtigten Personen und für die für die verantwortliche Leitung des
+Ausbildungsbetriebs bestellte Person gilt Absatz 1 Satz 3
+entsprechend.
 
 (3) Die nach Landesrecht zuständige Behörde hat die Angaben in den
 Unterlagen nach Absatz 1 Nummer 5 bis 7 an Ort und Stelle zu prüfen. §
@@ -1553,7 +1554,7 @@ Bescheinigungen nach Satz 1 Nummer 2 und 3 dürfen bei ihrer Vorlage
 nicht älter als drei Monate sein. Absatz 2 Satz 3 und 4 gilt
 entsprechend.
 
-(4) Ist der Bewerber eine juristische Person oder
+(4) Ist der Bewerber eine juristische Person oder rechtsfähige
 Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer
 2 bis 4, Absatz 2 Satz 1 Nummer 2 und für die für die verantwortliche
 Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die
@@ -1563,9 +1564,9 @@ der Behörde auch die Unterlagen nach Absatz 2 Satz 4, auch in
 Verbindung mit Absatz 3 Satz 4 vorzulegen. Ferner ist zu erklären,
 welche sonstigen beruflichen Verpflichtungen die verantwortliche
 Leitung zu erfüllen hat. Für die zur Vertretung der juristischen
-Person oder der Personengesellschaft berechtigten Personen gilt Absatz
-2 Satz 2 und 3 oder Absatz 3 Satz 1 Nummer 2, auch in Verbindung mit
-Satz 2, entsprechend.
+Person oder der rechtsfähigen Personengesellschaft berechtigten
+Personen gilt Absatz 2 Satz 2 und 3 oder Absatz 3 Satz 1 Nummer 2,
+auch in Verbindung mit Satz 2, entsprechend.
 
 (5) Die nach Landesrecht zuständige Behörde hat die Angaben in den
 Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 4 an Ort und Stelle zu
@@ -1662,16 +1663,16 @@ hinaus folgende Unterlagen beizufügen:
 
 
 
-(5) Ist der Bewerber eine juristische Person oder
+(5) Ist der Bewerber eine juristische Person oder rechtsfähige
 Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer
 2 bis 5, Absatz 3 Nummer 2 und für die für die verantwortliche Leitung
 des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen
 nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 3 Nummer 1 oder Absatz 4
 beizufügen. Ferner ist zu erklären, welche sonstigen beruflichen
 Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die
-zur Vertretung der juristischen Person oder der Personengesellschaft
-berechtigten Personen gilt Absatz 2 Satz 1, 2 sowie Satz 3 letzter
-Halbsatz entsprechend.
+zur Vertretung der juristischen Person oder der rechtsfähigen
+Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 1, 2
+sowie Satz 3 letzter Halbsatz entsprechend.
 
 (6) Die nach Landesrecht zuständige Behörde hat die Angaben in den
 Unterlagen nach Absatz 1 Satz 2 Nummer 3 bis 5 an Ort und Stelle zu
@@ -1713,9 +1714,9 @@ Satz 2 ist eine Meldung nach Satz 1 entbehrlich.
     natürlichen Personen auch die Vornamen und den Geburtstag und -ort,
 
 
-3.  bei juristischen Personen oder Personengesellschaften die für die
-    verantwortliche Leitung des Ausbildungsbetriebs bestellte Person mit
-    Namen, Vornamen und den Geburtstag und -ort,
+3.  bei juristischen Personen oder rechtsfähige Personengesellschaften die
+    für die verantwortliche Leitung des Ausbildungsbetriebs bestellte
+    Person mit Namen, Vornamen und den Geburtstag und -ort,
 
 
 4.  die Angabe, für welche Fahrschulerlaubnisklasse nach § 17 Absatz 2 die
@@ -1891,9 +1892,9 @@ elektronisch anzuzeigen
 
 
 6.  bei juristischen Personen, nichtrechtsfähigen Vereinen oder
-    Personengesellschaften als Fahrschulinhabern die Bestellung oder das
-    Ausscheiden von Personen, die nach Gesetz, Satzung oder Einzelprokura
-    zur Vertretung berufen sind,
+    rechtsfähigen Personengesellschaften als Fahrschulinhabern die
+    Bestellung oder das Ausscheiden von Personen, die nach Gesetz, Satzung
+    oder Einzelprokura zur Vertretung berufen sind,
 
 
 7.  Ausübung, Aufnahme und Beendigung anderer Tätigkeiten durch die für
@@ -1935,9 +1936,9 @@ beizufügen; § 23 Absatz 1 Satz 2 Nummer 1, Absatz 2 Satz 1, Absatz 3
 Nummer 1, 3 und 4, Absatz 4 Satz 2 sowie § 24 Absatz 1 Satz 2 Nummer 1
 und 2, Absatz 3, 4 und 5 Satz 2 gelten entsprechend. Der Anzeige nach
 Satz 1 Nummer 6 sind bei einer juristischen Person oder bei einer
-Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister
-oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer
-Gesellschaft bürgerlichen Rechts Unterlagen über die
+rechtsfähigen Personengesellschaft ein beglaubigter Auszug aus dem
+Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen
+Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die
 Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 
 
@@ -2263,14 +2264,15 @@ wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem
 Gesetz oder den auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen obliegen.
 
-(2) Ist der Inhaber eine juristische Person oder Personengesellschaft,
-wird die amtliche Anerkennung erteilt, wenn die in Absatz 1 Satz 1
-Nummer 4 genannten Voraussetzungen erfüllt sind und keine Tatsachen
-vorliegen, die die durch Gesetz, Satzung oder Einzelprokura
-berechtigten Personen als unzuverlässig erscheinen lassen und eine von
-ihnen, die die Voraussetzung des Absatzes 1 Satz 1 Nummer 1 erfüllt,
-zur verantwortlichen Leitung der Fahrlehrerausbildungsstätte bestellt
-wird. Absatz 1 Satz 3 gilt entsprechend.
+(2) Ist der Inhaber eine juristische Person oder rechtsfähige
+Personengesellschaft, wird die amtliche Anerkennung erteilt, wenn die
+in Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen erfüllt sind und
+keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder
+Einzelprokura berechtigten Personen als unzuverlässig erscheinen
+lassen und eine von ihnen, die die Voraussetzung des Absatzes 1 Satz 1
+Nummer 1 erfüllt, zur verantwortlichen Leitung der
+Fahrlehrerausbildungsstätte bestellt wird. Absatz 1 Satz 3 gilt
+entsprechend.
 
 
 ### § 38 Antrag auf amtliche Anerkennung
@@ -2321,11 +2323,12 @@ auf Kosten des Bewerbers eine Auskunft aus dem Fahreignungsregister
 einzuholen. Die Sätze 3 und 4 gelten auch für die für die
 verantwortliche Leitung des Ausbildungsbetriebs vorgesehene Person.
 
-(2) Dem Antrag einer juristischen Person oder Personengesellschaft ist
-außerdem ein beglaubigter Auszug aus dem Handelsregister oder
-Vereinsregister, dem Antrag eines nichtrechtsfähigen Vereins oder
-einer Gesellschaft bürgerlichen Rechts Unterlagen über die
-Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
+(2) Dem Antrag einer juristischen Person oder rechtsfähige
+Personengesellschaft ist außerdem ein beglaubigter Auszug aus dem
+Handelsregister oder Vereinsregister, dem Antrag eines
+nichtrechtsfähigen Vereins oder einer Gesellschaft bürgerlichen Rechts
+Unterlagen über die Vertretungsbefugnis der für ihn handelnden
+Personen beizufügen.
 
 (3) Die nach Landesrecht zuständige Behörde hat die Angaben in den
 Unterlagen nach Absatz 1 Satz 2 Nummer 3 bis 5 an Ort und Stelle zu
@@ -2347,9 +2350,9 @@ prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
     Vornamen und den Geburtstag und -ort,
 
 
-2a. bei juristischen Personen oder Personengesellschaften die für die
-    verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte
-    Person mit Namen, Vornamen, Geburtstag und Geburtsort,
+2a. bei juristischen Personen oder rechtsfähigen Personengesellschaften
+    die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte
+    bestellte Person mit Namen, Vornamen, Geburtstag und Geburtsort,
 
 
 3.  die Angabe, für welche Fahrlehrerlaubnisklasse nach § 17 Absatz 2 die
@@ -2402,13 +2405,14 @@ zuständigen Behörde unverzüglich anzuzeigen
 
 
 5.  bei juristischen Personen, nichtrechtsfähigen Vereinen oder
-    Personengesellschaften als Inhabern der amtlich anerkannten
-    Fahrlehrerausbildungsstätte die Bestellung oder das Ausscheiden von
-    Personen, die nach Gesetz oder Satzung zur Vertretung berufen sind.
+    rechtsfähigen Personengesellschaften als Inhabern der amtlich
+    anerkannten Fahrlehrerausbildungsstätte die Bestellung oder das
+    Ausscheiden von Personen, die nach Gesetz oder Satzung zur Vertretung
+    berufen sind.
 
 
 
-Der Anzeige ist bei einer juristischen Person oder
+Der Anzeige ist bei einer juristischen Person oder rechtsfähigen
 Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister
 oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer
 Gesellschaft bürgerlichen Rechts Unterlagen über die
@@ -2999,7 +3003,7 @@ zwei Jahre vor Ort insbesondere prüfen, ob
     Ablichtungen zu fertigen und diese sicherzustellen,
 
 
-5.  von natürlichen und juristischen Personen und nicht rechtsfähigen
+5.  von natürlichen und juristischen Personen und sonstigen
     Personenvereinigungen alle erforderlichen Auskünfte zu verlangen.
 
 
@@ -3264,10 +3268,11 @@ Landesrecht zuständige Behörde dem Inhaber der Fahrschulerlaubnis, der
 die Fahrerlaubnis der Klasse CE oder DE nicht mehr besitzt, weiterhin
 die Leitung der Fahrschule gestatten, wenn die körperliche und
 geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt.
-Dies gilt auch bei einer Fahrschulerlaubnis oder Personengesellschaft,
-wenn die zur Vertretung berechtigte Person keine Fahrerlaubnis der
-Klassen CE oder DE mehr besitzt und wenn die körperliche und geistige
-Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt.
+Dies gilt auch bei einer Fahrschulerlaubnis einer rechtsfähigen
+Personengesellschaft, wenn die zur Vertretung berechtigte Person keine
+Fahrerlaubnis der Klassen CE oder DE mehr besitzt und wenn die
+körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1
+Nummer 2 vorliegt.
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat, das
 Bundesministerium der Verteidigung und die für die Polizei zuständigen
@@ -3537,9 +3542,10 @@ Zuständigkeit nach § 50 gegeben ist, gespeichert werden
     und Ort der Geburt,
 
 
-1b. bei Personengesellschaften: Name und Anschrift der
-    Personengesellschaft sowie alle Gesellschafter mit Namen, Vornamen,
-    Tag und Ort der Geburt,
+1b. bei rechtsfähigen Personengesellschaften: Name und Anschrift der
+    rechtsfähigen Personengesellschaft sowie alle Gesellschafter mit
+    Namen, Vornamen, Tag und Ort der Geburt sowie Angaben zur
+    Vertretungsbefugnis,
 
 
 1c. bei Behörden: Name oder Bezeichnung und Anschrift der Behörde sowie
@@ -3909,7 +3915,7 @@ Fahrlehrerlaubnis sind, gilt die Anwärterbefugnis nach diesem Gesetz
 als erteilt; der befristete Fahrlehrerschein nach bisherigem Recht
 gilt als Anwärterschein nach § 10 dieses Gesetzes.
 
-(3) Natürlichen oder juristischen Personen oder nicht rechtsfähige
+(3) Natürlichen oder juristischen Personen oder sonstigen
 Personenvereinigungen, die am 1. Januar 2018 Fahrschüler selbstständig
 ausbilden oder sie durch Fahrlehrer, die von ihnen beschäftigt werden,
 ausbilden lassen, gilt die Fahrschulerlaubnis nach diesem Gesetz als

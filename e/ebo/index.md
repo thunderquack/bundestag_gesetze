@@ -2287,11 +2287,6 @@ Absatz 2 haben die Eisenbahnen anderweitige Maßnahmen zu treffen, die
 die sichere Betriebsführung gewährleisten.
 
 
-### § 66
-
--
-
-
 ### § 66 Inkrafttreten
 
 (1) Diese Verordnung tritt am 28. Mai 1967 in Kraft.

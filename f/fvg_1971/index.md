@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.12.2022 I 2730
+:   Art. 3 G v. 21.12.2023 I Nr. 397
+
+Änderung durch
+:   Art. 17 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -315,11 +318,28 @@ und 3 folgende Aufgaben:
     Steuertransparenzgesetzes;
 
 
-5h. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e, 5f und
-    5g im Rahmen der dem Bundeszentralamt für Steuern gesetzlich
-    übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern
-    5c, 5d, 5e, 5f und 5g durch die jeweils zuständige Landesfinanzbehörde
-    bleiben hiervon unberührt;
+5h.
+    a)  die Entgegennahme der Mindeststeuer-Berichte nach § 75 des
+        Mindeststeuergesetzes und ihre Weiterleitung an die jeweils zuständige
+        Landesfinanzbehörde,
+
+
+    b)  die Entgegennahme der Meldungen nach § 3 Absatz 4 des
+        Mindeststeuergesetzes und Weiterleitung an die jeweils zuständige
+        Länderfinanzbehörde sowie
+
+
+    c)  die Durchführung von Bußgeldverfahren nach § 98 des
+        Mindeststeuergesetzes;
+
+
+
+
+
+5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen
+    der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
+    Auswertungen der Informationen nach den Nummern 5c bis 5h durch die
+    jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 
 6.  die zentrale Sammlung und Auswertung von Unterlagen über steuerliche
@@ -388,19 +408,10 @@ und 3 folgende Aufgaben:
     erhalten oder Arbeitnehmer des Bundes oder einer sonstigen
     Körperschaft, einer Anstalt oder einer Stiftung des öffentlichen
     Rechts im Bereich des Bundes sind, benennt die Bundesagentur für
-    Arbeit als Familienkasse zentrale Ansprechpartner. Die
-    Landesregierungen werden ermächtigt, durch Rechtsverordnung
-    Landesfamilienkassen zur Wahrnehmung der Aufgaben nach § 72 Abs. 1 des
-    Einkommensteuergesetzes einzurichten. Diese können auch Aufgaben der
-    mittelbaren Verwaltung wahrnehmen. Die Ermächtigung kann durch
-    Rechtsverordnung auf die zuständigen obersten Landesbehörden
-    übertragen werden. Die Familienkassen gelten als Bundesfinanzbehörden,
-    soweit sie den Familienleistungsausgleich durchführen, und unterliegen
-    insoweit der Fachaufsicht des Bundeszentralamtes für Steuern. Das
-    Bundeszentralamt für Steuern erteilt diesen Familienkassen ein Merkmal
-    zur Identifizierung (Familienkassenschlüssel) und veröffentlicht die
-    Namen und die Anschriften dieser Familienkassen jeweils zu Beginn
-    eines Kalenderjahres im Bundessteuerblatt;
+    Arbeit als Familienkasse zentrale Ansprechpartner. Die Familienkassen
+    gelten als Bundesfinanzbehörden, soweit sie den
+    Familienleistungsausgleich durchführen, und unterliegen insoweit der
+    Fachaufsicht des Bundeszentralamtes für Steuern.
 
 
 12. die Durchführung der Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5
@@ -747,7 +758,68 @@ und 3 folgende Aufgaben:
     steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus
     Gesellschaftsmitteln, wenn im Zeitpunkt der Antragstellung keine
     Finanzbehörde nach § 20 der Abgabenordnung für die Besteuerung der
-    ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist.
+    ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist;
+
+
+47.
+    a)  die zentrale Sammlung der von den Finanzbehörden der Länder nach § 60b
+        der Abgabenordnung übermittelten Daten zu nach § 5 Absatz 1 Nummer 9
+        des Körperschaftsteuergesetzes steuerbefreiten Körperschaften,
+        Personenvereinigungen oder Vermögensmassen
+        (Zuwendungsempfängerregister) sowie die Erteilung von Auskünften
+        daraus im Wege einer elektronischen Abfrage durch die Finanzbehörden
+        der Länder und durch Dritte,
+
+
+    b)  die Feststellung, ob Körperschaften ohne Sitz im Geltungsbereich des
+        Grundgesetzes, die nachweislich Zuwendungen von Spendern mit Wohnsitz,
+        Aufenthalt oder Sitz im Geltungsbereich dieses Gesetzes erhalten
+        haben, für Zwecke des § 50 Absatz 1 der Einkommensteuer-
+        Durchführungsverordnung, die Voraussetzungen der §§ 51 bis 68 der
+        Abgabenordnung erfüllen,
+
+
+    c)  die über Buchstabe a hinausgehende Aufnahme eines Zuwendungsempfängers
+        im Sinne des § 10b Absatz 1 Satz 2 Nummer 1 und 3 des
+        Einkommensteuergesetzes auf Antrag des Zuwendungsempfängers in das
+        Zuwendungsempfängerregister, wenn der Zuwendungsempfänger unmittelbar
+        steuerbegünstigte Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung
+        verwirklicht und die Voraussetzungen des § 51 der Abgabenordnung und
+        des § 10b Absatz 1 Satz 3 bis 6 des Einkommensteuergesetzes erfüllt
+        sowie die Aufnahme eines Zuwendungsempfängers im Sinne des § 34g des
+        Einkommensteuergesetzes, wenn der Zuwendungsempfänger die
+        Voraussetzungen des § 34g des Einkommensteuergesetzes erfüllt,
+
+
+    d)  der Abgleich der in den Verfassungsschutzberichten des Bundes und der
+        Länder als „extremistisch“ eingestuften Organisationen mit den im
+        Zuwendungsempfängerregister aufgeführten Körperschaften auf die
+        Voraussetzungen des § 51 Absatz 3 der Abgabenordnung und die
+        Mitteilung des Ergebnisses der Prüfung an die zuständige
+        Landesfinanzbehörde,
+
+
+    e)  die Bereitstellung für Zwecke des Sonderausgabenabzugs nach § 10b des
+        Einkommensteuergesetzes von Name, Anschrift,
+        Wirtschaftsidentifikationsnummer, satzungsgemäßen Zwecken nach § 52
+        Absatz 2 der Abgabenordnung, zuständigem Finanzamt, Datum des
+        Freistellungsbescheides, Bankverbindung sowie Datum der gesonderten
+        Feststellung der satzungsmäßigen Gemeinnützigkeit nach § 60a der
+        Abgabenordnung als automatisiert abrufbare Merkmale der im
+        Zuwendungsempfängerregister geführten Körperschaften,
+        Personenvereinigungen, Vermögensmassen, juristische Personen des
+        öffentlichen Rechts oder öffentlichen Dienststellen für die
+        Finanzbehörden der Länder und für Dritte,
+
+
+    f)  die Entgegennahme und Weiterleitung von Änderungsanträgen zum
+        Registerinhalt einer im Zuwendungsempfängerregister geführten
+        Körperschaft, Personenvereinigung, Vermögensmasse, juristischen Person
+        des öffentlichen Rechts oder öffentlichen Dienststelle an die
+        zuständige Finanzbehörde.
+
+
+
 
 
 

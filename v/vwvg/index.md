@@ -144,8 +144,8 @@ ermitteln, so darf die Vollstreckungsbehörde folgende Angaben erheben:
 Ort der Hauptniederlassung oder den Sitz des Vollstreckungsschuldners
 erheben
 
-1.  durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-,
-    Unternehmens- oder Vereinsregister oder
+1.  durch Einsicht in das Handels-, Genossenschafts-, Gesellschafts-,
+    Partnerschafts-, Unternehmens-  oder Vereinsregister oder
 
 
 2.  durch Einholung der Anschrift bei den nach Landesrecht für die

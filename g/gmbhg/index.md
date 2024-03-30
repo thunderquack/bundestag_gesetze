@@ -1071,15 +1071,16 @@ die laufenden Nummern der von einem jeden derselben übernommenen
 Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines
 Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am
 Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine
-Gesellschaft, so sind bei eingetragenen Gesellschaften in die Liste
-deren Firma, Satzungssitz, zuständiges Register und Registernummer
-aufzunehmen, bei nicht eingetragenen Gesellschaften deren jeweilige
-Gesellschafter unter einer zusammenfassenden Bezeichnung mit Name,
-Vorname, Geburtsdatum und Wohnort. Hält ein Gesellschafter mehr als
-einen Geschäftsanteil, ist in der Liste der Gesellschafter zudem der
-Gesamtumfang der Beteiligung am Stammkapital als Prozentsatz gesondert
-anzugeben. Die Änderung der Liste durch die Geschäftsführer erfolgt
-auf Mitteilung und Nachweis.
+juristische Person oder rechtsfähige Personengesellschaft, sind in die
+Liste deren Firma oder Name, Sitz und, soweit gesetzlich vorgesehen,
+das zuständige Registergericht und die Registernummer aufzunehmen.
+Eine Gesellschaft bürgerlichen Rechts kann nur in die Liste
+eingetragen und Veränderungen an ihrer Eintragung können nur
+vorgenommen werden, wenn sie in das Gesellschaftsregister eingetragen
+ist. Hält ein Gesellschafter mehr als einen Geschäftsanteil, ist in
+der Liste der Gesellschafter zudem der Gesamtumfang der Beteiligung am
+Stammkapital als Prozentsatz gesondert anzugeben. Die Änderung der
+Liste durch die Geschäftsführer erfolgt auf Mitteilung und Nachweis.
 
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt,
 hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf

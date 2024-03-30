@@ -20,7 +20,10 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850, 2094;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 16.8.2023 I Nr. 217
+:   Art. 4 G v. 22.12.2023 I Nr. 412
+
+Änderung durch
+:   Art. 5 G v. 27.3.2024 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Fördern und Fordern
@@ -254,10 +257,11 @@ des Dritten Kapitels werden nicht an oder für erwerbsfähige
 Leistungsberechtigte erbracht, die einen Anspruch auf Arbeitslosengeld
 oder Teilarbeitslosengeld haben.
 
-(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16k können auch
-an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein
-Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22
-Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
+(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16i und 16k
+können auch an erwerbsfähige Leistungsberechtigte erbracht werden,
+sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig
+ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend
+anzuwenden.
 
 
 ### § 6 Träger der Grundsicherung für Arbeitsuchende
@@ -682,14 +686,16 @@ Die Sätze 1 und 3 Nummer 2 gelten für Bewohner von Räumlichkeiten im
 Sinne des § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften
 Buches entsprechend.
 
-(4a) (weggefallen)
+(4a) Personen, denen Leistungen zum Lebensunterhalt nach § 93 des
+Vierzehnten Buches zuerkannt worden sind, haben keinen Anspruch auf
+Leistungen zur Sicherung des Lebensunterhalts.
 
 (5) Auszubildende, deren Ausbildung im Rahmen des
 Bundesausbildungsförderungsgesetzes dem Grunde nach förderungsfähig
 ist, haben über die Leistungen nach § 27 hinaus keinen Anspruch auf
 Leistungen zur Sicherung des Lebensunterhalts. Satz 1 gilt auch für
 Auszubildende, deren Bedarf sich nach § 61 Absatz 2, § 62 Absatz 3, §
-123 Nummer 2 sowie § 124 Nummer 2 des Dritten Buches bemisst.
+123 Satz 1 Nummer 2 sowie § 124 Nummer 2 des Dritten Buches bemisst.
 
 (6) Absatz 5 Satz 1 ist nicht anzuwenden auf Auszubildende,
 
@@ -1079,15 +1085,13 @@ monatlichen Teilbetrag zu berücksichtigen.
 1.  Leistungen nach diesem Buch,
 
 
-2.  die Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen,
-    die eine entsprechende Anwendung des Bundesversorgungsgesetzes
-    vorsehen,
+2.  (weggefallen)
 
 
 3.  die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für
     Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis
-    zur Höhe der vergleichbaren Grundrente nach dem
-    Bundesversorgungsgesetz,
+    zur Höhe der vergleichbaren Entschädigungszahlungen nach Kapitel 9 des
+    Vierzehnten Buches,
 
 
 4.  Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs
@@ -1104,7 +1108,8 @@ monatlichen Teilbetrag zu berücksichtigen.
 6.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
 
 
-7.  Erbschaften.
+7.  Einmalige Einnahmen aus Erbschaften, Vermächtnissen und
+    Pflichtteilszuwendungen.
 
 
 
@@ -1233,9 +1238,9 @@ Anspruch hat.
 
 
 
-Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 Satz 4
-sind die auf die einmalige Einnahme im Zuflussmonat entfallenden
-Beträge nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
+Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 sind
+die auf die einmalige Einnahme im Zuflussmonat entfallenden Beträge
+nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
 
 (2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind,
 ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein
@@ -1412,7 +1417,7 @@ Zeitpunkt des Erwerbs.
 (6) Ist Bürgergeld unter Berücksichtigung des Einkommens nur für einen
 Monat zu erbringen, gilt keine Karenzzeit. Es wird vermutet, dass kein
 zu berücksichtigendes Vermögen vorhanden ist, wenn die Antragstellerin
-oder der Antragsteller dies im Antrag erklärt. Absatz 4 Satz 4 gilt
+oder der Antragsteller dies im Antrag erklärt. Absatz 4 Satz 5 gilt
 entsprechend.
 
 
@@ -2171,28 +2176,7 @@ berücksichtigt und auf die Förderdauer nach Absatz 3 Nummer 4
 angerechnet.
 
 
-#### § 16j Bürgergeldbonus
-
-Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75
-Euro für jeden Monat der Teilnahme an einer der folgenden Maßnahmen:
-
-1.  Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des
-    Dritten Buches sowie nach § 49 Absatz 3 Nummer 4 des Neunten Buches
-    mit einer Mindestdauer von acht Wochen, für die kein
-    Weiterbildungsgeld nach § 87a Absatz 2 des Dritten Buches gezahlt
-    wird,
-
-
-2.  berufsvorbereitende Bildungsmaßnahmen nach § 51 des Dritten Buches
-    sowie nach § 49 Absatz 3 Nummer 2 des Neunten Buches, Maßnahmen in der
-    Vorphase der Assistierten Ausbildung nach § 75a des Dritten Buches in
-    Verbindung mit § 16 Absatz 1 Satz 2 Nummer 3,
-
-
-3.  Maßnahmen zur Förderung schwer zu erreichender junger Menschen nach
-    § 16h Absatz 1.
-
-
+#### § 16j (weggefallen)
 
 
 
@@ -2217,6 +2201,10 @@ zu zwölf Monate nach Ende der Ausbildung fortgeführt werden.
 dies im Einzelfall erforderlich ist.
 
 (4) § 31 Absatz 1 Satz 1 Nummer 3 findet keine Anwendung.
+
+(5) Träger bedürfen einer Zulassung nach dem Fünften Kapitel des
+Dritten Buches, um Maßnahmen nach den Absätzen 1 und 2 durchzuführen
+oder durchführen zu lassen.
 
 
 #### § 17 Einrichtungen und Dienste für Leistungen zur Eingliederung
@@ -2259,8 +2247,7 @@ den weiteren Beteiligten des örtlichen Ausbildungs- und Arbeitsmarktes
 zusammen, insbesondere mit den
 
 1.  Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von
-    Leistungen nach dem Bundesversorgungsgesetz und dem
-    Asylbewerberleistungsgesetz,
+    Leistungen nach dem Asylbewerberleistungsgesetz,
 
 
 2.  Vertreterinnen und Vertretern der Arbeitgeber sowie der
@@ -2688,23 +2675,23 @@ Karenzzeit beginnt, wenn zuvor mindestens drei Jahre keine Leistungen
 nach diesem oder dem Zwölften Buch bezogen worden sind. Erhöhen sich
 nach einem nicht erforderlichen Umzug die Aufwendungen für Unterkunft
 und Heizung, wird nur der bisherige Bedarf anerkannt. Soweit die
-Aufwendungen für die Unterkunft und Heizung den der Besonderheit des
-Einzelfalles angemessenen Umfang übersteigen, sind sie nach Ablauf der
-Karenzzeit als Bedarf so lange anzuerkennen, wie es der oder dem
-alleinstehenden Leistungsberechtigten oder der Bedarfsgemeinschaft
-nicht möglich oder nicht zuzumuten ist, durch einen Wohnungswechsel,
-durch Vermieten oder auf andere Weise die Aufwendungen zu senken, in
-der Regel jedoch längstens für sechs Monate. Nach Ablauf der
-Karenzzeit ist Satz 7 mit der Maßgabe anzuwenden, dass der Zeitraum
-der Karenzzeit nicht auf die in Satz 7 genannte Frist anzurechnen ist.
-Verstirbt ein Mitglied der Bedarfs- oder Haushaltsgemeinschaft und
-waren die Aufwendungen für die Unterkunft und Heizung davor
-angemessen, ist die Senkung der Aufwendungen für die weiterhin
-bewohnte Unterkunft für die Dauer von mindestens zwölf Monaten nach
-dem Sterbemonat nicht zumutbar. Eine Absenkung der nach Satz 1
-unangemessenen Aufwendungen muss nicht gefordert werden, wenn diese
-unter Berücksichtigung der bei einem Wohnungswechsel zu erbringenden
-Leistungen unwirtschaftlich wäre.
+Aufwendungen für Heizung und, nach Ablauf der Karenzzeit, die
+Aufwendungen der Unterkunft den der Besonderheit des Einzelfalles
+angemessenen Umfang übersteigen, sind sie als Bedarf so lange
+anzuerkennen, wie es der oder dem alleinstehenden
+Leistungsberechtigten oder der Bedarfsgemeinschaft nicht möglich oder
+nicht zuzumuten ist, durch einen Wohnungswechsel, durch Vermieten oder
+auf andere Weise die Aufwendungen zu senken, in der Regel jedoch
+längstens für sechs Monate. Nach Ablauf der Karenzzeit ist Satz 7 mit
+der Maßgabe anzuwenden, dass der Zeitraum der Karenzzeit nicht auf die
+in Satz 7 genannte Frist anzurechnen ist. Verstirbt ein Mitglied der
+Bedarfs- oder Haushaltsgemeinschaft und waren die Aufwendungen für die
+Unterkunft und Heizung davor angemessen, ist die Senkung der
+Aufwendungen für die weiterhin bewohnte Unterkunft für die Dauer von
+mindestens zwölf Monaten nach dem Sterbemonat nicht zumutbar. Eine
+Absenkung der nach Satz 1 unangemessenen Aufwendungen muss nicht
+gefordert werden, wenn diese unter Berücksichtigung der bei einem
+Wohnungswechsel zu erbringenden Leistungen unwirtschaftlich wäre.
 
 (1a) (weggefallen)
 
@@ -2851,7 +2838,7 @@ Gesamtangemessenheitsgrenze zulässig. Dabei kann für die Aufwendungen
 für Heizung der Wert berücksichtigt werden, der bei einer gesonderten
 Beurteilung der Angemessenheit der Aufwendungen für Unterkunft und der
 Aufwendungen für Heizung ohne Prüfung der Angemessenheit im Einzelfall
-höchstens anzuerkennen wäre. Absatz 1 Satz 2 bis 4 gilt entsprechend.
+höchstens anzuerkennen wäre. Absatz 1 Satz 6 bis 10 gilt entsprechend.
 
 (11) Die für die Erstellung von Mietspiegeln nach § 558c Absatz 1 des
 Bürgerlichen Gesetzbuchs nach Landesrecht zuständigen Behörden sind
@@ -3074,8 +3061,8 @@ Aufwendungen und nachvollziehbare Erfahrungswerte zu berücksichtigen.
 (4) Leistungen zur Sicherung des Lebensunterhalts können als Darlehen
 erbracht werden, soweit in dem Monat, für den die Leistungen erbracht
 werden, voraussichtlich Einnahmen anfallen. Satz 1 gilt auch, soweit
-Leistungsberechtigte einmalige Einnahmen nach § 11 Absatz 3 Satz 4
-vorzeitig verbraucht haben.
+Leistungsberechtigte einmalige Einnahmen nach § 11 Absatz 3 vorzeitig
+verbraucht haben.
 
 (5) Soweit Leistungsberechtigten der sofortige Verbrauch oder die
 sofortige Verwertung von zu berücksichtigendem Vermögen nicht möglich
@@ -3507,6 +3494,15 @@ Feststellung einer Leistungsminderung ein Beratungsangebot erhalten,
 in dem die Inhalte des Kooperationsplans überprüft und bei Bedarf
 fortgeschrieben werden.
 
+(7) Abweichend von Absatz 4 Satz 1 entfällt der Leistungsanspruch in
+Höhe des Regelbedarfes, wenn erwerbsfähige Leistungsberechtigte, deren
+Bürgergeld wegen einer Pflichtverletzung nach § 31 Absatz 1 Satz 1
+Nummer 2, Absatz 2 Nummer 3 oder Absatz 2 Nummer 4 innerhalb des
+letzten Jahres gemindert war, eine zumutbare Arbeit nicht aufnehmen.
+Die Möglichkeit der Arbeitsaufnahme muss tatsächlich und unmittelbar
+bestehen und willentlich verweigert werden. Absatz 1 Satz 6, die
+Absätze 2 und 3 sowie § 31 Absatz 1 Satz 2 finden Anwendung.
+
 
 ##### § 31b Beginn und Dauer der Minderung
 
@@ -3536,7 +3532,13 @@ Zeitpunkt der Pflichterfüllung oder der Erklärung der Bereitschaft zur
 Pflichterfüllung aufzuheben, soweit der Minderungszeitraum mindestens
 einen Monat betragen hat, andernfalls nach Ablauf dieses Monats.
 
-(3) Während der Minderung des Auszahlungsanspruchs besteht kein
+(3) In den Fällen des § 31a Absatz 7 wird die Minderung aufgehoben,
+wenn die Möglichkeit der Arbeitsaufnahme nicht mehr besteht,
+spätestens aber mit dem Ablauf eines Zeitraums von zwei Monaten.
+Absatz 1 Satz 1 und 3 sowie Absatz 2 Satz 2 sind entsprechend
+anzuwenden.
+
+(4) Während der Minderung des Auszahlungsanspruchs besteht kein
 Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den
 Vorschriften des Zwölften Buches.
 
@@ -3551,7 +3553,7 @@ sich das Bürgergeld jeweils um 10 Prozent des für sie nach § 20
 maßgebenden Regelbedarfs. Dies gilt nicht, wenn Leistungsberechtigte
 einen wichtigen Grund für ihr Verhalten darlegen und nachweisen.
 
-(2) § 31a Absatz 2 bis 5 und § 31b Absatz 1 und 3 gelten entsprechend.
+(2) § 31a Absatz 2 bis 5 und § 31b Absatz 1 und 4 gelten entsprechend.
 Der Minderungszeitraum beträgt einen Monat.
 
 
@@ -4308,9 +4310,10 @@ ihr und dem kommunalen Träger Erstattungsansprüche nach § 103 des
 Zehnten Buches zu, wenn der oder dem Leistungsberechtigten eine andere
 Sozialleistung zuerkannt wird. § 103 Absatz 3 des Zehnten Buches gilt
 mit der Maßgabe, dass Zeitpunkt der Kenntnisnahme der
-Leistungsverpflichtung des Trägers der Sozialhilfe, der
-Kriegsopferfürsorge und der Jugendhilfe der Tag des Widerspruchs gegen
-die Feststellung der Agentur für Arbeit ist.
+Leistungsverpflichtung des Trägers der Sozialhilfe, der Sozialen
+Entschädigung nach dem Vierzehnten Buch, soweit er Besondere
+Leistungen im Einzelfall erbringt, und der Jugendhilfe der Tag des
+Widerspruchs gegen die Feststellung der Agentur für Arbeit ist.
 
 (4) Die Agentur für Arbeit stellt fest, ob und in welchem Umfang die
 erwerbsfähige Person und die dem Haushalt angehörenden Personen
@@ -5887,8 +5890,43 @@ längstens bis zum 31. Dezember 2022 zu verlängern.
 (6) (weggefallen)
 
 
-### § 68 (weggefallen)
+### § 68 Abweichende Leistungserbringung in Gemeinschaftsunterkünften
 
+Ist eine leistungsberechtigte Person in einer Gemeinschaftsunterkunft
+ohne Selbstversorgungsmöglichkeit untergebracht, kann der Anspruch auf
+Bürgergeld, soweit er sich auf die Bedarfe für Ernährung und
+Haushaltsenergie bezieht, in Form von Sachleistungen erfüllt werden.
+Der Wert der Sachleistung nach Satz 1 beträgt
+
+1.  bei Erwachsenen, bei denen der Regelbedarf für eine alleinstehende
+    Person anerkannt wird, 186 Euro,
+
+
+2.  bei Erwachsenen, die mit einem Partner zusammenleben, 167 Euro,
+
+
+3.  bei jungen Erwachsenen, die das 18. Lebensjahr vollendet, aber das 25.
+    Lebensjahr noch nicht vollendet haben 149 Euro,
+
+
+4.  bei Jugendlichen von 14 bis unter 18 Jahren 178 Euro,
+
+
+5.  bei Kindern von sechs bis unter 14 Jahren 131 Euro und
+
+
+6.  bei Kindern von null bis unter 6 Jahren 98 Euro.
+
+
+
+Wird die Sachleistung im Auftrag oder mit Zustimmung der Agentur für
+Arbeit durch einen anderen öffentlich-rechtlichen Träger oder einen
+privaten Dritten erbracht, gilt dies als Leistung nach diesem Buch.
+Die Agentur für Arbeit hat dem öffentlich-rechtlichen Träger der
+Gemeinschaftsunterkunft oder, soweit ein solcher nicht vorhanden ist,
+dem privaten Betreiber der Gemeinschaftsunterkunft Aufwendungen für
+die Verpflegung einschließlich Haushaltsstrom in Höhe der in Satz 2
+benannten Beträge zu erstatten.
 
 
 ### § 69 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
@@ -6071,8 +6109,12 @@ Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember
 2014 geltenden Fassung erfolgt ist, gilt fort.
 
 
-### § 80 (weggefallen)
+### § 80 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 11a
+Absatz 1 Nummer 2, § 18 Absatz 1 Nummer 1 und § 44a Absatz 3 Satz 2 in
+der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 81 (weggefallen)
@@ -6125,4 +6167,10 @@ Dezember 2022 laufende Bewilligungszeiträume oder
 Bewilligungszeiträume, die in der Zeit vom 1. Januar 2023 bis 30. Juni
 2023 beginnen, nicht verpflichtet, Wohngeld nach dem Wohngeldgesetz in
 Anspruch zu nehmen.
+
+
+### § 86 Zweites Haushaltsfinanzierungsgesetz 2024
+
+§ 31a Absatz 7 und § 31b Absatz 3 werden mit Ablauf des 27. März 2026
+aufgehoben.
 

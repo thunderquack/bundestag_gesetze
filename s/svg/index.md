@@ -23,7 +23,7 @@ Neugefasst durch
 :   Bek. v. 16.9.2009 I 3054;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 20.12.2022 I 2759
+:   Art. 7 G v. 22.1.2024 I Nr. 17
 
 
 ## Teil 1 - Einleitende Vorschriften
@@ -1143,10 +1143,11 @@ Unterhaltsbeitrag nach § 42a haben, sind die Sätze 4 und 5 nicht
 anzuwenden.
 
 (7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den
-Versorgungskrankengeld nach § 16 des Bundesversorgungsgesetzes oder
-nach Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
-gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen
-2 und 4 nicht eingerechnet.
+Versorgungskrankengeld nach § 16 des Bundesversorgungsgesetzes in der
+am 31. Dezember 2023 geltenden Fassung oder nach Gesetzen, die das
+Bundesversorgungsgesetz für anwendbar erklären, gewährt wird. Dieser
+Zeitraum wird in die Zeiträume nach den Absätzen 2 und 4 nicht
+eingerechnet.
 
 
 ##### § 11a Ausgleichsbezüge
@@ -2387,17 +2388,13 @@ vorübergehend, wenn der Soldat im Ruhestand
         Soldatengesetzes in den Ruhestand versetzt worden ist oder
 
 
-    b)  wegen Erreichens einer Altersgrenze in den Ruhestand getreten ist,
+    b)  wegen Erreichens einer Altersgrenze in den Ruhestand getreten ist und
 
 
 
 
 
-3.  einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat und
-
-
-4.  kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 5 bezieht,
-    das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
+3.  einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht hat.
 
 
 
@@ -2408,13 +2405,7 @@ dass sich der Ruhegehaltssatz frühestens von dem Zeitpunkt an erhöht,
 zu dem sie als Offiziere des Truppendienstes wegen Dienstunfähigkeit
 in den Ruhestand versetzt worden wären oder wegen Erreichens der ihrem
 Dienstgrad entsprechenden besonderen Altersgrenze in den Ruhestand
-hätten versetzt werden können. Bei Soldaten im Ruhestand, die wegen
-Erreichens der für sie festgesetzten besonderen Altersgrenze in den
-Ruhestand versetzt worden sind, wird bei Anwendung von Satz 1 Nummer 4
-bis zum Ende des Monats, in dem sie die für Polizeivollzugsbeamte auf
-Lebenszeit geltende Altersgrenze nach § 5 des
-Bundespolizeibeamtengesetzes erreichen, lediglich Verwendungseinkommen
-im Sinne von § 53 Absatz 6 berücksichtigt.
+hätten versetzt werden können.
 
 (2) Die Erhöhung des Ruhegehaltssatzes beträgt 0,95667 Prozent für je
 zwölf Kalendermonate der für die Erfüllung der Wartezeit (Absatz 1
@@ -2453,13 +2444,7 @@ erreicht. Sie endet vorher, wenn der Soldat im Ruhestand
 
 2.  in den Fällen des Absatzes 1 Nummer 2 Buchstabe a nicht mehr
     dienstunfähig ist, mit Ablauf des Monats, in dem ihm der Wegfall der
-    Erhöhung mitgeteilt wird, oder
-
-
-3.  ein Erwerbseinkommen (§ 53 Absatz 5 Satz 1 und 2) oder im Falle von
-    Absatz 1 Satz 3 ein Verwendungseinkommen bezieht, das im Durchschnitt
-    des Kalenderjahres 525 Euro monatlich übersteigt, mit Ablauf des Tages
-    vor dem Beginn der Erwerbstätigkeit.
+    Erhöhung mitgeteilt wird.
 
 
 
@@ -2860,7 +2845,7 @@ wären sie zum frühestmöglichen Zeitpunkt wegen Erreichens der für
 ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand
 versetzt worden. Der Anspruch auf die Erhöhung nach Satz 1 entfällt
 für die Monate, in denen Einkünfte im Sinne des § 53 Absatz 6 in Höhe
-von mehr als 525 Euro erzielt werden; die Zahlungen stehen insoweit
+von mehr als 606,67 Euro erzielt werden; die Zahlungen stehen insoweit
 unter dem Vorbehalt der Rückforderung. Die Absätze 2 und 3 gelten
 entsprechend.
 
@@ -3158,11 +3143,11 @@ Geschäftsbereich eines anderen Bundesministeriums bedarf die
 (2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf
 Grund von Kannvorschriften dürfen erst beim Eintritt des
 Versorgungsfalles getroffen werden; vorherige Zusicherungen sind
-unwirksam. Bei der Berufung in das Dienstverhältnis eines
-Berufssoldaten ist auf Antrag zu entscheiden, ob Zeiten nach den §§ 22
-bis 24 und 66 als ruhegehaltfähig berücksichtigt werden. Diese
-Entscheidungen stehen unter dem Vorbehalt eines Gleichbleibens der
-Rechtslage, die ihnen zugrunde liegt.
+unwirksam. Über die Berücksichtigung von Zeiten nach den §§ 20a, 22
+bis 24, 25 Absatz 2 und nach § 66 als ruhegehaltfähig ist vor Beginn
+des Ruhestandes nur auf Antrag des Soldaten vorab zu entscheiden. Die
+Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach-
+und Rechtslage, die diesen Entscheidungen zugrunde liegt.
 
 (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten, die eine
 grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben,
@@ -3339,7 +3324,7 @@ anzuwenden.
     Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der
     Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden
     Unterschiedsbetrages nach § 47 Absatz 1 sowie eines Betrages von
-    monatlich 525 Euro.
+    monatlich 606,67 Euro.
 
 
 
@@ -3599,12 +3584,12 @@ Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
 
 
 3.  Renten aus der gesetzlichen Unfallversicherung, wobei für den
-    Ruhegehaltsempfänger ein der Grundrente nach § 31 in Verbindung mit §
-    84a Satz 1 und 2 des Bundesversorgungsgesetzes entsprechender Betrag
-    unberücksichtigt bleibt; bei einer Minderung der Erwerbsfähigkeit um
-    20 Prozent bleiben zwei Drittel, bei einer Minderung der
-    Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente
-    unberücksichtigt,
+    Ruhegehaltsempfänger ein der Grundrente nach § 31 des
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung entsprechender Betrag unberücksichtigt bleibt; bei einer
+    Minderung der Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel, bei
+    einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der
+    Mindestgrundrente unberücksichtigt,
 
 
 4.  Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus
@@ -4039,9 +4024,10 @@ Hinterbliebenenversorgung.
     ordentlichen Strafverfahren wegen Verbrechens zu Freiheitsstrafe von
     mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach
     den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des
-    demokratischen Rechtsstaates oder Landesverrat und Gefährdung der
-    äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens
-    sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils,
+    demokratischen Rechtsstaates oder Landesverrat, Gefährdung der äußeren
+    Sicherheit oder Volksverhetzung strafbar ist, zu Freiheitsstrafe von
+    mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft
+    des Urteils,
 
 
 5.  für jeden Berechtigten, der auf Grund einer Entscheidung des
@@ -4149,8 +4135,8 @@ unverzüglich anzuzeigen:
 
 2.  den Bezug von Versorgungskrankengeld (§ 11 Absatz 7) und den Bezug und
     jede Änderung von Einkünften nach § 11 Absatz 3 Satz 4, § 11a Absatz 1
-    Satz 2, den §§ 22 und 26 Absatz 8, den §§ 26a, 37, 43, 53 bis 55b und
-    59 Absatz 2,
+    Satz 2, den §§ 22 und 26 Absatz 8, den §§ 37, 43, 53 bis 55b und 59
+    Absatz 2,
 
 
 3.  die Begründung eines neuen öffentlich-rechtlichen Dienstverhältnisses
@@ -5068,15 +5054,10 @@ entsprechend den §§ 70, 71 und 73, wenn
 
 3.  entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem
     Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden
-    Altersgrenze noch nicht gewährt werden,
+    Altersgrenze noch nicht gewährt werden und
 
 
-4.  sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben,
-
-
-5.  sie kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 5
-    beziehen, das im Durchschnitt des Kalenderjahres 525 Euro monatlich
-    übersteigt.
+4.  sie einen Ruhegehaltssatz von 66,97 Prozent noch nicht erreicht haben.
 
 
 
@@ -5093,19 +5074,9 @@ Verwendungseinkommen im Sinne von § 53 Absatz 6 berücksichtigt.
 (2) Die Leistung entfällt spätestens mit Ablauf des Monats, in dem der
 Versorgungsempfänger die für Bundesbeamte geltende Regelaltersgrenze
 nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht. Sie endet
-vorher, wenn der Versorgungsempfänger
-
-1.  eine Versichertenrente der gesetzlichen Rentenversicherung bezieht,
-    mit Ablauf des Tages vor dem Beginn der Rente, oder
-
-
-2.  ein Erwerbseinkommen (§ 53 Absatz 5 Satz 1 und 2) oder im Fall von
-    Absatz 1 Satz 3 ein Verwendungseinkommen bezieht, das im Durchschnitt
-    des Kalenderjahres 525 Euro monatlich übersteigt, mit Ablauf des Tages
-    vor Beginn der Erwerbstätigkeit.
-
-
-
+vorher, wenn der Versorgungsempfänger eine Versichertenrente der
+gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem
+Beginn der Rente.
 
 (3) Die Leistung wird auf Antrag gewährt. Anträge, die innerhalb von
 drei Monaten nach Eintritt des Berufssoldaten in den Ruhestand
@@ -5739,7 +5710,7 @@ muss vom Bundesministerium der Verteidigung erteilt werden.
 (3) Absatz 1 gilt in den Fällen der §§ 81c und 81d entsprechend.
 
 
-## Teil 4 - Fürsorgeleistungen an frühere Soldaten auf Zeit bei Arbeitslosigkeit
+## Teil 4 - Fürsorgeleistungen in besonderen Fällen
 
 
 
@@ -5801,6 +5772,59 @@ einem anderen Grunde als dem des Ablaufs des Anspruchszeitraums
 weggefallen ist.
 
 
+### § 86b Überbrückungsgeld
+
+(1) Einem Berufssoldaten, dem gegenüber eine vollziehbare
+Entlassungsverfügung nach § 46 Absatz 2a des Soldatengesetzes erlassen
+wurde, wird bis zur Unanfechtbarkeit der Entlassungsverfügung ein
+Überbrückungsgeld gewährt. Gleiches gilt für einen Soldaten auf Zeit,
+dem gegenüber nach Ableisten einer Wehrdienstzeit von mindestens vier
+Jahren eine vollziehbare Entlassungsverfügung nach § 55 Absatz 1 Satz
+1 in Verbindung mit § 46 Absatz 2a des Soldatengesetzes erlassen
+wurde. War der Soldat im Zeitpunkt der Entlassung ohne Dienstbezüge
+beurlaubt, so erhält er das Überbrückungsgeld ab dem Zeitpunkt, zu dem
+die Beurlaubung geendet hätte. Wird die Entlassungsverfügung oder ihre
+Vollziehbarkeit aufgehoben, ist das geleistete Überbrückungsgeld auf
+nachzuzahlende Dienstbezüge anzurechnen.
+
+(2) Das Überbrückungsgeld beträgt die Hälfte der Dienstbezüge nach § 1
+Absatz 2 Nummer 1, 3 und 4 des Bundesbesoldungsgesetzes, die der
+Soldat im letzten Monat vor Zustellung der Entlassungsverfügung
+erhalten hat oder erhalten hätte. § 17 Absatz 1 Satz 2 gilt
+entsprechend. Mindestens ist der sich aus der
+Pfändungsfreigrenzenbekanntmachung nach § 850c Absatz 4 Satz 1 Nummer
+1 und 2 der Zivilprozessordnung ergebende monatliche Betrag zu
+gewähren.
+
+(3) Das Überbrückungsgeld wird wie die Dienstbezüge monatlich für die
+der Entlassung folgende Zeit gezahlt. Dem Soldaten auf Zeit ist das
+Überbrückungsgeld längstens bis zum Ende des Monats zu zahlen, in dem
+der Anspruch auf Übergangsgebührnisse nach § 11 bei regulärem Ablauf
+der Zeit, für die er in das Dienstverhältnis berufen war, geendet
+hätte. Führen die Hinterbliebenen das Verfahren nach dem Tod des
+Empfängers fort, so wird das Überbrückungsgeld bis zum rechtskräftigen
+Abschluss des zugrunde liegenden Verfahrens an die Hinterbliebenen
+weitergewährt.
+
+(4) Bezieht der Soldat Erwerbs- oder Erwerbsersatzeinkommen im Sinne
+des § 53 Absatz 5, verringert sich das Überbrückungsgeld um den Betrag
+dieser Einkünfte.
+
+(5) Der Anspruch auf das Überbrückungsgeld entfällt, wenn die
+Voraussetzungen für den Verlust der Rechtsstellung des Berufssoldaten
+nach § 48 des Soldatengesetzes oder des Soldaten auf Zeit nach § 54
+Absatz 2 Nummer 2 des Soldatengesetzes vorliegen.
+
+(6) Wird die Entlassungsverfügung nach Abschluss des Verfahrens
+bestandskräftig, so haben der entlassene Soldat oder im Fall des
+Absatzes 3 Satz 3 die Hinterbliebenen das seit der Zustellung der
+Entlassungsverfügung gezahlte Überbrückungsgeld zu erstatten. Die
+Erstattungspflicht besteht nur, soweit die gezahlten Beträge den sich
+aus Absatz 2 Satz 3 ergebenden Betrag übersteigen.
+
+(7) Das Überbrückungsgeld wird auf Antrag gewährt.
+
+
 ## Teil 5 - Organisation, Verfahren, Rechtsweg
 
 
@@ -5808,8 +5832,8 @@ weggefallen ist.
 ### § 87 Dienstzeitversorgung
 
 (1) Das Bundesministerium der Verteidigung führt die Versorgung nach
-dem Zweiten Teil dieses Gesetzes bei Behörden der Bundeswehrverwaltung
-durch. Einzelne Aufgaben können bei Behörden im Geschäftsbereich eines
+Teil 2 dieses Gesetzes bei Behörden der Bundeswehrverwaltung durch.
+Einzelne Aufgaben können bei Behörden im Geschäftsbereich eines
 anderen Bundesministeriums durchgeführt werden. § 10 Absatz 4 und §
 10a bleiben unberührt.
 
@@ -5823,7 +5847,7 @@ Wehrbeschwerdeordnung über das verwaltungsgerichtliche Vorverfahren (§
 
 ### § 88 Beschädigtenversorgung
 
-(1) Die Versorgung nach dem Dritten Teil wird von Behörden der
+(1) Die Versorgung nach dem Teil 3 wird von Behörden der
 Bundeswehrverwaltung durchgeführt.
 
 (2) Die Beendigung des Wehrdienstverhältnisses beeinflusst nicht den
@@ -5847,7 +5871,11 @@ Bundesministerium der Verteidigung.
 (4) In Angelegenheiten nach den §§ 85 bis 86 und 41 Absatz 2 sind
 entsprechend anzuwenden
 
-1.  das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,
+1.  das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung in
+    der Fassung der Bekanntmachung vom 6. Mai 1976 (BGBl. I S. 1169), das
+    zuletzt durch Artikel 156 des Gesetzes vom 29. März 2017 (BGBl. I S.
+    626) geändert worden ist, in der am 31. Dezember 2023 geltenden
+    Fassung,
 
 
 2.  § 36a Absatz 1 bis 3, die §§ 45, 60 bis 62 und 65 bis 67 des Ersten
@@ -5875,7 +5903,73 @@ anzuwenden
 
 
 
-(5) In Angelegenheiten nach Absatz 1, soweit die Versorgung nicht in
+(5) In Angelegenheiten nach Teil 3 sind entsprechend anzuwenden:
+
+1.  die Ausgleichsrentenverordnung in der Fassung der Bekanntmachung vom
+    1\. Juli 1975 (BGBl. I S. 1769), die zuletzt durch Artikel 38 des
+    Gesetzes vom 20. Dezember 2011 (BGBl. I S. 2854) geändert worden ist,
+    in der am 31. Dezember 2023 geltenden Fassung,
+
+
+2.  die Verordnung über die soziale Kriegsbeschädigten- und
+    Kriegshinterbliebenenfürsorge in der im Bundesgesetzblatt Teil III,
+    Gliederungsnummer 830-2-4, veröffentlichten bereinigten Fassung, die
+    durch Artikel 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904)
+    geändert worden ist, in der am 31. Dezember 2023 geltenden Fassung,
+
+
+3.  die Verordnung zur Kriegsopferfürsorge vom 16. Januar 1979 (BGBl. I S.
+    80), die zuletzt durch Artikel 9 des Gesetzes vom 30. November 2019
+    (BGBl. I S. 1948) geändert worden ist, in der am 31. Dezember 2023
+    geltenden Fassung,
+
+
+4.  die Versehrtenleibesübungen-Verordnung vom 29. Juli 1981 (BGBl. I S.
+    779), die zuletzt durch Artikel 1 der Verordnung vom 15. November 2000
+    (BGBl. I S. 1572) geändert worden ist, in der am 31. Dezember 2023
+    geltenden Fassung,
+
+
+5.  die Orthopädieverordnung vom 4. Oktober 1989 (BGBl. I S. 1834), die
+    zuletzt durch Artikel 19 des Gesetzes vom 13. Dezember 2007 (BGBl. I
+    S. 2904) geändert worden ist, in der am 31. Dezember 2023 geltenden
+    Fassung,
+
+
+6.  die Berufsschadensausgleichsverordnung vom 28. Juni 2011 (BGBl. I S.
+    1273), die durch Artikel 2 der Verordnung vom 23. September 2014
+    (BGBl. I S. 1533) geändert worden ist, in der am 31. Dezember 2023
+    geltenden Fassung,
+
+
+7.  das Gesetz zur Einführung des Bundesversorgungsgesetzes im Saarland in
+    der im Bundesgesetzblatt Teil III, Gliederungsnummer 830-3,
+    veröffentlichten bereinigten Fassung in der am 31. Dezember 2023
+    geltenden Fassung,
+
+
+8.  das Rentenkapitalisierungsgesetz-KOV vom 27. April 1970 (BGBl. I S.
+    413), das zuletzt durch Artikel 252 der Verordnung vom 31. Oktober
+    2006 (BGBl. I S. 2407) geändert worden ist, in der am 31. Dezember
+    2023 geltenden Fassung,
+
+
+9.  die Verordnung über die sachliche Zuständigkeit in der
+    Kriegsopferversorgung in der im Bundesgesetzblatt Teil III,
+    Gliederungsnummer 833-4, veröffentlichten bereinigten Fassung, die
+    zuletzt durch Artikel 1 der Verordnung vom 23. Juni 1988 (BGBl. I S.
+    911) geändert worden ist, in der am 31. Dezember 2023 geltenden
+    Fassung,
+
+
+10. die Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes
+    vom 31. Januar 1972 (BGBl. I S. 105) in der am 31. Dezember 2023
+    geltenden Fassung.
+
+
+
+
+(6) In Angelegenheiten nach Absatz 1, soweit die Versorgung nicht in
 der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25
 bis 27j des Bundesversorgungsgesetzes besteht, und in Angelegenheiten
 nach § 41 Absatz 2 sind die Vorschriften des Sozialgerichtsgesetzes
@@ -5898,20 +5992,25 @@ nach § 41 Absatz 2 sind die Vorschriften des Sozialgerichtsgesetzes
 
 
 
-(6) Bei Streitigkeiten in Angelegenheiten nach Absatz 1, soweit die
-Versorgung nicht in der Erbringung von Leistungen der
-Kriegsopferfürsorge nach den §§ 25 bis 27j des
-Bundesversorgungsgesetzes besteht, und bei Streitigkeiten in
-Angelegenheiten nach § 41 Absatz 2 ist der Rechtsweg zu den Gerichten
-der Sozialgerichtsbarkeit gegeben. Über Klagen von Personen, die als
-Soldaten dem Bundesnachrichtendienst angehören oder angehört haben,
-und von ihren Hinterbliebenen entscheidet das Bundessozialgericht im
-ersten und letzten Rechtszug. In Angelegenheiten nach Absatz 1 und
-nach § 41 Absatz 2 wird die Bundesrepublik Deutschland durch die
-Bundesministerin oder den Bundesminister der Verteidigung vertreten.
-Die Vertretung kann durch eine allgemeine Anordnung anderen Behörden
-übertragen werden; die Anordnung ist im Bundesgesetzblatt zu
-veröffentlichen.
+(7) Bei Streitigkeiten in Angelegenheiten nach Absatz 1 und bei
+Streitigkeiten in Angelegenheiten nach § 41 Absatz 2 ist der Rechtsweg
+zu den Gerichten der Sozialgerichtsbarkeit gegeben. Über Klagen von
+Personen, die als Soldaten dem Bundesnachrichtendienst angehören oder
+angehört haben, und von ihren Hinterbliebenen entscheidet das
+Bundessozialgericht im ersten und letzten Rechtszug. In
+Angelegenheiten nach Absatz 1 und nach § 41 Absatz 2 wird die
+Bundesrepublik Deutschland durch die Bundesministerin oder den
+Bundesminister der Verteidigung vertreten. Die Vertretung kann durch
+eine allgemeine Anordnung anderen Behörden übertragen werden; die
+Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
+
+(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die in
+den §§ 14, 15, 31 Absatz 1 und 4, den §§ 32, 33 Absatz 1, den §§ 33a,
+35, 36, 40, 41, 46, 47, 51 und 53 des Bundesversorgungsgesetzes in der
+am 31. Dezember 2023 geltenden Fassung bestimmten Beträge entsprechend
+§ 56 des Bundesversorgungsgesetzes jeweils zum gleichen Zeitpunkt, zu
+dem die Renten der gesetzlichen Rentenversicherung angepasst werden,
+zu ändern.
 
 
 ### § 88a Arbeitslosenbeihilfe
@@ -5946,6 +6045,13 @@ der Ausgleichsbezüge nach § 11a sind die Dienstbezüge mit dem Faktor
 Auf die Versorgungsbezüge der Berufssoldaten, der Soldaten auf Zeit
 und ihrer Hinterbliebenen sind die §§ 70 und 71 des
 Beamtenversorgungsgesetzes entsprechend anzuwenden.
+
+
+### § 89c Sonderzahlungen zur Abmilderung gestiegener Verbraucherpreise im Jahr 2023
+
+Auf die früheren Berufssoldaten, Soldaten auf Zeit und ihre
+Hinterbliebenen ist § 72 des Beamtenversorgungsgesetzes entsprechend
+anzuwenden.
 
 
 ### § 90 Anrechnung von Geldleistungen
@@ -7126,6 +7232,16 @@ Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes
 steuerfrei ist, gilt bis zu einem Betrag von 1 500 Euro nicht als
 Erwerbseinkommen.
 
+(6) Eine in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022
+gewährte Leistung, die nach § 3 Nummer 11b des Einkommensteuergesetzes
+steuerfrei ist, gilt bis zu einem Betrag von 4 500 Euro nicht als
+Erwerbseinkommen.
+
+(7) Eine in der Zeit vom 26. Oktober 2022 bis zum 31. Dezember 2024 in
+Form von Zuschüssen und Sachbezügen gewährte Leistung, die nach § 3
+Nummer 11c des Einkommensteuergesetzes steuerfrei ist, gilt bis zu
+einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
+
 
 ### § 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
 
@@ -7194,13 +7310,18 @@ die Änderung mit Beginn des Antragsmonats ein. Vor dem
 Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines
 vor dem 1. Juli 2020 vorhandenen Soldaten im Ruhestand.
 
-(2a) Versorgungsempfänger nach Absatz 2 Satz 1, bei denen sich der
-Ruhensbetrag nach § 55b in einer bis zum 30. September 1994 geltenden
-Fassung bestimmt, können einmalig für die Zukunft beantragen, dass bei
-der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes
-nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach
-Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen.
-Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend.
+(2a) Versorgungsempfänger nach Absatz 2 Satz 1, deren Ruhensbetrag
+nach § 55b in einer bis zum 30. September 1994 geltenden Fassung oder
+auf Grund der verwendungszeitbezogenen Mindestbestimmung nach § 55b
+Absatz 1 Satz 1 erster Halbsatz in einer zwischen dem 1. Oktober 1994
+und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können
+einmalig für die Zukunft beantragen, dass bei der Ermittlung des
+Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu
+berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des
+Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2
+Satz 4 und 6 bis 9 gilt entsprechend. Die Sätze 1 bis 3 gelten
+entsprechend für Hinterbliebene eines Soldaten im Ruhestand nach
+Absatz 2 Satz 1.
 
 (3) Für am 31. August 2020 vorhandenen Soldaten im Ruhestand, bei
 denen eine ruhegehaltfähige Zeit nach § 94b Absatz 6 in der bis zum
@@ -7231,6 +7352,153 @@ Oktober 2021 in einem Dienstverhältnis als Soldat auf Zeit stehen. Für
 Maßnahmen der militärischen Ausbildung der Soldaten auf Zeit, deren
 Dienstverhältnis vor dem 1. Oktober 2021 endete, gilt § 5 Absatz 6
 Satz 2 in der bis zum 30. September 2021 geltenden Fassung.
+
+
+### § 107b Übergangsregelung aus Anlass der Einführung von Stellenzulagen
+
+(1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des
+Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023
+vorhandenen Soldaten im Ruhestand zu den ruhegehaltfähigen
+Dienstbezügen,
+
+1.  deren Ruhestand nach dem 31. Dezember 2007 oder, sofern dem Ruhegehalt
+    eine der Besoldungsgruppen A 1 bis A 9 zugrunde liegt, nach dem 31.
+    Dezember 2010 begann, und
+
+
+2.  die bei Versetzung oder Eintritt in den Ruhestand die Voraussetzungen
+    der Anlage I Vorbemerkung Nummer 3a des Bundesbesoldungsgesetzes in
+    der ab 1. Januar 2024 geltenden Fassung erfüllt haben.
+
+
+
+In den Fällen des § 81 Satz 2 des Bundesbesoldungsgesetzes ist Nummer
+1 nicht anzuwenden. Der als ruhegehaltfähiger Dienstbezug zu
+berücksichtigende Betrag der jeweiligen Stellenzulage ergibt sich aus
+der zum Zeitpunkt des letztmaligen Bezuges der jeweiligen
+Stellenzulage geltenden Anlage IX des Bundesbesoldungsgesetzes. Eine
+Nachzahlung für Zeiträume vor dem 1. Januar 2024 erfolgt nicht.
+
+(2) Die Berücksichtigung der Stellenzulagen nach Anlage I Vorbemerkung
+Nummer 8 und 9 des Bundesbesoldungsgesetzes gemäß Absatz 1 als
+ruhegehaltfähiger Dienstbezug erfolgt nur auf schriftlichen oder
+elektronischen Antrag, der bei der für die Festsetzung der
+Versorgungsbezüge zuständigen Stelle einzureichen ist. Anträge, die
+bis zum 31. Dezember 2024 gestellt werden, gelten als zum 1. Januar
+2024 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt,
+tritt die Änderung zum Beginn des Antragsmonats ein.
+
+
+### § 108 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Soweit Regelungen dieses Gesetzes die Anwendung des
+Bundesversorgungsgesetzes bestimmen, sind das Bundesversorgungsgesetz
+und die Vorschriften anderer Gesetze, die das Bundesversorgungsgesetz
+für anwendbar erklärt, in ihrer jeweils bis zum 31. Dezember 2023
+geltenden Fassung anzuwenden.
+
+(2) Soweit das Soldatenversorgungsgesetz auf die Regelungen des
+Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+Fassung verweist, werden die Beträge der folgenden Geldleistungen um
+25 Prozent erhöht geleistet:
+
+1.  die Grundrente nach § 31 Absatz 1 Satz 1 des
+    Bundesversorgungsgesetzes,
+
+
+2.  die Alterszulage nach § 31 Absatz 1 Satz 2 des
+    Bundesversorgungsgesetzes,
+
+
+3.  die Schwerstbeschädigtenzulage nach § 31 Absatz 4 des
+    Bundesversorgungsgesetzes,
+
+
+4.  die Leistungen nach den §§ 38, 40, 42, 43, 45 und 46 des
+    Bundesversorgungsgesetzes sowie
+
+
+5.  der Pflegeausgleich nach § 40b des Bundesversorgungsgesetzes.
+
+
+
+Die Anpassung nach § 56 des Bundesversorgungsgesetzes wird ab dem 1.
+Januar 2024 auf den erhöhten Betrag durchgeführt. Beträge sind bis
+0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro
+aufzurunden.
+
+(3) Das Bundesministerium der Verteidigung hat durch Rechtsverordnung
+ohne Zustimmung des Bundesrates die in den §§ 14, 15, 31 Absatz 1 und
+4, 32, 33 Absatz 1, §§ 33a, 35, 36, 40, 41, 46, 47, 51 und 53 des
+Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+Fassung bestimmten Beträge jeweils zum gleichen Zeitpunkt, zu dem die
+Renten der gesetzlichen Rentenversicherung angepasst werden, zu
+ändern. Dabei sind die in § 15 des Bundesversorgungsgesetzes in der am
+31\. Dezember 2023 geltenden Fassung genannten Pauschbeträge durch
+Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem
+Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden
+Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro
+auf volle Euro aufzurunden.
+
+(4) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1.
+Januar 2024 beantragt wird, richtet sich der Einsatz von Einkommen und
+Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur
+Kriegsopferfürsorge, jeweils in der am 31. Dezember 2023 geltenden
+Fassung. Soweit es für die berechtigte Person günstiger ist, richtet
+sich der Einsatz von Einkommen und Vermögen nach Satz 1 mit der
+Maßgabe, dass
+
+1.  an die Stelle der Einkommensgrenze nach § 25e Absatz 1 in der am 31.
+    Dezember 2023 geltenden Fassung des Bundesversorgungsgesetzes die
+    Einkommensgrenze nach § 107 Absatz 1 des Sozialgesetzbuchs Vierzehntes
+    Buch tritt,
+
+
+2.  an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 1 des
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach
+    der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
+
+
+3.  an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 2 des
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1
+    tritt,
+
+
+4.  an die Stelle der Einkommensfreibeträge nach der Verordnung zur
+    Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die
+    Einkommensfreibeträge der Verordnung nach § 109 des Sozialgesetzbuchs
+    Vierzehntes Buch treten und
+
+
+5.  bei der Ermittlung der Vermögensschonbeträge nach § 25f des
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung an Stelle des Betrages von
+
+    a)  40 Prozent des Bemessungsbetrages ein Betrag in Höhe des 40fachen der
+        Regelbedarfsstufe 1 zugrunde gelegt wird,
+
+
+    b)  35 Prozent des Bemessungsbetrages ein Betrag in Höhe des 35fachen der
+        Regelbedarfsstufe 1 zugrunde gelegt wird,
+
+
+    c)  20 Prozent des Bemessungsbetrages ein Betrag in Höhe des 20fachen der
+        Regelbedarfsstufe 1 zugrunde gelegt wird und
+
+
+    d)  2 Prozent des Bemessungsbetrages ein Betrag in Höhe des zweifachen der
+        Regelbedarfsstufe 1 zugrunde gelegt wird.
+
+
+
+
+
+
+
+(5) Kapitel 23 des Sozialgesetzbuchs Vierzehntes Buch ist nicht
+anzuwenden.
 
 Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 1146)

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3a G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 2 G v. 22.3.2024 I Nr. 105 mWv 28.3.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

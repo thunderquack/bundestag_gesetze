@@ -485,7 +485,7 @@ von der zuständigen Behörde zu erteilen, wenn
 
 4.  keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass
 
-    a)  der Antragsteller, bei juristischen Personen und
+    a)  der Antragsteller, bei juristischen Personen und rechtsfähigen
         Personengesellschaften eine der nach Gesetz, Satzung oder
         Gesellschaftsvertrag zur Vertretung berechtigten Personen, die
         erforderliche Zuverlässigkeit nicht besitzt,
@@ -496,7 +496,7 @@ von der zuständigen Behörde zu erteilen, wenn
         besitzt oder
 
 
-    c)  der Antragsteller, bei juristischen Personen und
+    c)  der Antragsteller, bei juristischen Personen und rechtsfähigen
         Personengesellschaften die nach Gesetz, Satzung oder
         Gesellschaftsvertrag zur Vertretung berechtigte Person, die
         erforderliche Fachkunde nicht besitzt, falls keine unter Buchstabe b
@@ -809,9 +809,9 @@ enthalten:
 
 
 2.  den Nachweis der Fachkunde des Antragstellers, bei juristischen
-    Personen oder Personengesellschaften der nach Gesetz, Satzung oder
-    Gesellschaftsvertrag zur Vertretung berechtigten Person, oder der für
-    die Errichtung, Leitung und Beaufsichtigung der Anlage
+    Personen oder rechtsfähigen Personengesellschaften der nach Gesetz,
+    Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person,
+    oder der für die Errichtung, Leitung und Beaufsichtigung der Anlage
     verantwortlichen Personen,
 
 

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2022 I 2645
 
+Änderung durch
+:   Art. 21 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
     2007 zur Änderung der Richtlinie 92/49/EWG des Rates sowie der
@@ -80,13 +83,27 @@ nach den §§ 7, 18 und 19 jeweils in einfacher Ausfertigung der
 Bundesanstalt oder der zuständigen Landesaufsichtsbehörde
 einzureichen.
 
-(3) Unterlagen und Erklärungen, die nicht in deutscher Sprache
-verfasst sind, hat der Anzeigepflichtige zusätzlich zum Original in
-einer beglaubigten oder von einem öffentlich bestellten oder
-beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung
-einzureichen. Die Bundesanstalt oder die zuständige
-Landesaufsichtsbehörde kann im Einzelfall auf beglaubigte
-Übersetzungen verzichten.
+(3) Anzeigen, Unterlagen, Mitteilungen und Erklärungen können auch
+ganz oder teilweise in englischer Sprache eingereicht werden. Die
+Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer Übersetzung
+oder in begründeten Fällen einer beglaubigten oder von einem
+öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer
+angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3 und 4 des
+Verwaltungsverfahrensgesetzes gilt entsprechend. Sofern die
+Bundesanstalt eine Übersetzung verlangt, ist allein die
+deutschsprachige Fassung rechtlich maßgeblich. Soweit die
+Bundesanstalt vor Bestätigung des Eingangs der vollständigen Anzeige
+eine Übersetzung verlangt, ist die Anzeige erst vollständig im Sinne
+des § 2c Absatz 1 Satz 9 des Kreditwesengesetzes oder § 17 Absatz 3
+des Versicherungsaufsichtsgesetzes, wenn die Übersetzung bei der
+Bundesanstalt oder der für das betroffene Kreditinstitut oder
+Finanzdienstleistungsinstitut zuständigen Hauptverwaltung der
+Deutschen Bundesbank eingereicht ist. Sofern die Bundesanstalt in
+Bezug auf weitere Informationen im Sinne des § 2c Absatz 1a Satz 3 des
+Kreditwesengesetzes oder § 17 Absatz 4 Satz 3 des
+Versicherungsaufsichtsgesetzes eine Übersetzung verlangt, gelten diese
+Informationen erst als bei der Bundesanstalt eingegangen, wenn die
+Übersetzung bei der Bundesanstalt eingegangen ist.
 
 
 ### § 3 Angaben zum Empfangsbevollmächtigten im Inland
@@ -561,9 +578,11 @@ Position unberücksichtigt bleiben, der sich vor mehr als fünf Jahren
 vor dem Beginn des Jahres ereignet hat, in dem die Anzeige eingereicht
 wird.
 
-(7) Der Anzeigepflichtige hat in dem jeweiligen Formular nach Absatz 1
-ferner zu erklären, ob seine Zuverlässigkeit oder die Zuverlässigkeit
-der Personen nach § 8 Nummer 3 oder Nummer 7 als Erwerber einer
+(7) Der Anzeigepflichtige hat in dem jeweiligen Formular nach den
+Absätzen 1, 4 oder 5 ferner zu erklären, ob seine Zuverlässigkeit, die
+Zuverlässigkeit der Personen nach § 8 Nummer 3 oder Nummer 7 oder die
+Zuverlässigkeit eines Anteilsinhabers, der auf den Anzeigepflichtigen
+einen maßgeblichen Einfluss ausüben kann, als Erwerber einer
 bedeutenden Beteiligung an einem Zielunternehmen oder als
 Geschäftsleiter eines Zielunternehmens durch eine andere
 Aufsichtsbehörde geprüft worden ist. Er hat auch zu erklären, ob eine

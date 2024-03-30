@@ -21,8 +21,9 @@ Neugefasst durch
 :   Bek. v. 13.7.2004 I 1665,
 
 Zuletzt geändert durch
-:   Art. 2 G v. 18.8.2021 I 3908
+:   Art. 34 Abs. 12 G v. 22.12.2023 I Nr. 411
 
+Stand: Das G ist gem. Art. 13 Satz 3 G v. 27.9.1994 I 2624 am 1.12.1994 in Kraft getreten
 
 ## § 1 Anspruch auf Ausgleichsleistung
 
@@ -205,44 +206,44 @@ genannten Flächen ihren ursprünglichen Betrieb wieder eingerichtet
 haben und ortsansässig sind (Wiedereinrichter) oder einen Betrieb neu
 eingerichtet haben und ortsansässig sind (Neueinrichter) und diesen
 Betrieb allein oder als unbeschränkt haftender Gesellschafter in einer
-Personengesellschaft selbst bewirtschaften. Dies gilt auch für
-juristische Personen des Privatrechts, die ein landwirtschaftliches
-Unternehmen betreiben, die Vermögensauseinandersetzung gemäß den §§ 44
-ff. des Landwirtschaftsanpassungsgesetzes in der Fassung der
-Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch
-Gesetz vom 22. Dezember 1997 (BGBl. I S. 3224) geändert worden ist,
-nach Feststellung durch die zuständige Landesbehörde ordnungsgemäß
-durchgeführt haben und deren Anteilswerte zu mehr als 75 vom Hundert
-von natürlichen Personen gehalten werden, die ortsansässig sind.
-Wiedereinrichter im Sinne des Satzes 1 sind auch solche natürlichen
-Personen, bei denen die Rückgabe ihres ursprünglichen land- und
-forstwirtschaftlichen Betriebes aus rechtlichen oder tatsächlichen
-Gründen ausgeschlossen ist, sowie natürliche Personen, denen land- und
-forstwirtschaftliche Vermögenswerte durch Enteignung auf
-besatzungsrechtlicher oder besatzungshoheitlicher Grundlage entzogen
-worden sind. Berechtigt sind auch Gesellschafter der nach Satz 2
-berechtigten juristischen Personen, die ortsansässig sind,
-hauptberuflich in dieser Gesellschaft tätig sind und sich
-verpflichten, den von ihrer Gesellschaft mit der für die
-Privatisierung zuständigen Stelle eingegangenen Pachtvertrag bis zu
-einer Gesamtlaufzeit von 18 Jahren zu verlängern und mit diesen
+rechtsfähigen Personengesellschaft selbst bewirtschaften. Dies gilt
+auch für juristische Personen des Privatrechts, die ein
+landwirtschaftliches Unternehmen betreiben, die
+Vermögensauseinandersetzung gemäß den §§ 44 ff. des
+Landwirtschaftsanpassungsgesetzes in der Fassung der Bekanntmachung
+vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Gesetz vom 22.
+Dezember 1997 (BGBl. I S. 3224) geändert worden ist, nach Feststellung
+durch die zuständige Landesbehörde ordnungsgemäß durchgeführt haben
+und deren Anteilswerte zu mehr als 75 vom Hundert von natürlichen
+Personen gehalten werden, die ortsansässig sind. Wiedereinrichter im
+Sinne des Satzes 1 sind auch solche natürlichen Personen, bei denen
+die Rückgabe ihres ursprünglichen land- und forstwirtschaftlichen
+Betriebes aus rechtlichen oder tatsächlichen Gründen ausgeschlossen
+ist, sowie natürliche Personen, denen land- und forstwirtschaftliche
+Vermögenswerte durch Enteignung auf besatzungsrechtlicher oder
+besatzungshoheitlicher Grundlage entzogen worden sind. Berechtigt sind
+auch Gesellschafter der nach Satz 2 berechtigten juristischen
+Personen, die ortsansässig sind, hauptberuflich in dieser Gesellschaft
+tätig sind und sich verpflichten, den von ihrer Gesellschaft mit der
+für die Privatisierung zuständigen Stelle eingegangenen Pachtvertrag
+bis zu einer Gesamtlaufzeit von 18 Jahren zu verlängern und mit diesen
 Flächen für Verbindlichkeiten der Gesellschaft zu haften.
 
 (3) Nach Absatz 2 Satz 1 bis 3 Berechtigte können vorbehaltlich der
 Sätze 2 bis 4 bis zu 600 000 Ertragsmesszahlen erwerben. Soweit die
-Flächen von einer Personengesellschaft langfristig gepachtet sind,
-können die nach Absatz 2 berechtigten Gesellschafter insgesamt Flächen
-bis zur Obergrenze nach Satz 1 erwerben. Soweit eine nach Absatz 2
-berechtigte juristische Person die Obergrenze nach Satz 1 nicht
-ausgeschöpft hat, können deren nach Absatz 2 Satz 4 berechtigten
-Gesellschafter die verbleibenden Ertragsmesszahlen nach näherer
-Bestimmung durch die Gesellschaft erwerben. Die Erwerbsmöglichkeit
-nach Absatz 1 besteht, soweit ein Eigentumsanteil von 50 vom Hundert
-der landwirtschaftlich genutzten Fläche nicht überschritten wird; auf
-den Eigentumsanteil sind die einer Gesellschaft und ihren
-Gesellschaftern gehörenden Flächen anzurechnen; auch nach Absatz 5
-zustehende oder bereits erworbene Flächen werden auf den
-Vomhundertsatz und auf die Ertragsmesszahlen angerechnet.
+Flächen von einer rechtsfähigen Personengesellschaft langfristig
+gepachtet sind, können die nach Absatz 2 berechtigten Gesellschafter
+insgesamt Flächen bis zur Obergrenze nach Satz 1 erwerben. Soweit eine
+nach Absatz 2 berechtigte juristische Person die Obergrenze nach Satz
+1 nicht ausgeschöpft hat, können deren nach Absatz 2 Satz 4
+berechtigten Gesellschafter die verbleibenden Ertragsmesszahlen nach
+näherer Bestimmung durch die Gesellschaft erwerben. Die
+Erwerbsmöglichkeit nach Absatz 1 besteht, soweit ein Eigentumsanteil
+von 50 vom Hundert der landwirtschaftlich genutzten Fläche nicht
+überschritten wird; auf den Eigentumsanteil sind die einer
+Gesellschaft und ihren Gesellschaftern gehörenden Flächen anzurechnen;
+auch nach Absatz 5 zustehende oder bereits erworbene Flächen werden
+auf den Vomhundertsatz und auf die Ertragsmesszahlen angerechnet.
 
 (4) (weggefallen)
 
@@ -353,11 +354,11 @@ Zweiten Flächenerwerbsänderungsgesetzes zu erklären. Für die
 (8) Natürliche Personen, die nach Absatz 5 Satz 1 zum Erwerb
 berechtigt sind und einen forstwirtschaftlichen Betrieb neu einrichten
 und diesen Betrieb allein oder als unbeschränkt haftender
-Gesellschafter in einer Personengesellschaft selbst bewirtschaften,
-können ehemals volkseigene, von der Treuhandanstalt zu privatisierende
-Waldflächen bis zu 1 000 Hektar erwerben, wenn sie keine
-landwirtschaftlichen Flächen nach den Absätzen 1 bis 7 erwerben. Als
-forstwirtschaftlicher Betrieb im Sinne des Satzes 1 gilt auch der
+Gesellschafter in einer rechtsfähigen Personengesellschaft selbst
+bewirtschaften, können ehemals volkseigene, von der Treuhandanstalt zu
+privatisierende Waldflächen bis zu 1 000 Hektar erwerben, wenn sie
+keine landwirtschaftlichen Flächen nach den Absätzen 1 bis 7 erwerben.
+Als forstwirtschaftlicher Betrieb im Sinne des Satzes 1 gilt auch der
 forstwirtschaftliche Teil eines land- und forstwirtschaftlichen
 Betriebes. Absatz 7 gilt entsprechend.
 

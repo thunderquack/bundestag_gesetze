@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2349
 
-Geändert durch
-:   Art. 1 V v. 4.7.2023 I Nr. 179
+Zuletzt geändert durch
+:   Art. 4 V v. 6.3.2024 I Nr. 92
 
 Stand: Ersetzt V 2030-25-3 v. 25.4.1979 I 502 (HeilvfV)
 
@@ -654,14 +654,13 @@ Absatzes 3 Satz 1 Nummer 3 sowie von Angehörigen im Fall des Absatzes
 
 Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider-
 und Wäscheverschleißes entstehen, werden von Amts wegen mit einem
-monatlichen Pauschbetrag in entsprechender Anwendung des § 15 des
-Bundesversorgungsgesetzes in Verbindung mit der Verordnung zur
-Durchführung des § 15 des Bundesversorgungsgesetzes erstattet. Die
-Entscheidung trifft die Dienstunfallfürsorgestelle auf Grund einer
-fachärztlichen Bescheinigung, die auch Aussagen zur Dauer des Zustands
-beinhaltet. Die in Sonderfällen den Pauschbetrag nachweislich
-übersteigenden Aufwendungen werden jeweils für das abgelaufene
-Kalenderjahr auf Antrag erstattet.
+monatlichen Pauschbetrag in entsprechender Anwendung des § 46 Absatz 2
+des Vierzehnten Buches Sozialgesetzbuch erstattet. Die Entscheidung
+trifft die Dienstunfallfürsorgestelle auf Grund einer fachärztlichen
+Bescheinigung, die auch Aussagen zur Dauer des Zustands beinhaltet.
+Die in Sonderfällen den Pauschbetrag nachweislich übersteigenden
+Aufwendungen werden jeweils für das abgelaufene Kalenderjahr auf
+Antrag erstattet.
 
 
 ### § 14 Kraftfahrzeughilfe

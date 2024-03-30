@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.9.2023 I Nr. 264
+:   Art. 3 G v. 27.2.2024 I Nr. 71
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
@@ -417,6 +417,11 @@ bedarf.
 
 
 
+
+(4) Artikel 5 Absatz 2 Satz 1 und 2 der Verordnung (EU) 2021/821 gilt
+entsprechend, wenn einem Ausführer aufgrund von Erkenntnissen, die er
+nicht im Rahmen seiner Sorgfaltspflicht erlangt hat, bekannt ist, dass
+dort genannte Güter für eine dort genannte Verwendung bestimmt sind.
 
 
 ##### § 10 Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils II der Ausfuhrliste

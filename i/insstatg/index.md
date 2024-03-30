@@ -55,7 +55,8 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
     b)  Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei
         Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung,
         Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-,
-        Genossenschafts-, Vereins- oder Partnerschaftsregister,
+        Genossenschafts-, Gesellschafts-, Partnerschafts- oder
+        Vereinsregister,
 
 
     c)  Datum der Verfahrenseröffnung,
@@ -191,9 +192,9 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
     Verfügung stehenden Personen,
 
 
-7.  bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder
-    Partnerschaftsregister eingetragen sind, die Art und der Ort des
-    Registers und die Nummer der Eintragung.
+7.  bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-,
+    Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der
+    Ort des Registers und die Nummer der Eintragung.
 
 
 
@@ -306,8 +307,8 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
     b)  Art des Rechtsträgers oder der Vermögensmasse (Schuldner); zusätzlich
         Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der Arbeitnehmer
-        und die Eintragung in das Handels-, Genossenschafts-, Vereins- oder
-        Partnerschaftsregister,
+        und die Eintragung in das Handels-, Genossenschafts-, Gesellschafts-,
+        Partnerschafts- oder Vereinsregister,
 
 
     c)  ob der Schuldner in den letzten drei Jahren vor der Anzeige des
@@ -382,9 +383,9 @@ Hilfsmerkmale der Erhebungen sind:
     stehenden Personen,
 
 
-6.  bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder
-    Partnerschaftsregister eingetragen sind, die Art und der Ort des
-    Registers und die Nummer der Eintragung.
+6.  bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-,
+    Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der
+    Ort des Registers und die Nummer der Eintragung.
 
 
 

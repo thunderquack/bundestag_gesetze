@@ -667,16 +667,17 @@ Unterlagen Folgendes enthalten:
     Berufssprachkurse angeboten werden sollen,
 
 
-2.  bei juristischen Personen und Personengesellschaften Angaben zu Namen,
-    Vornamen, Geburtsdatum, Geburtsort der Vertreter nach Gesetz, Satzung
-    oder Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der
-    Zweigstellen, von denen aus die Berufssprachkurse angeboten werden
-    sollen; soweit eine Eintragung in das Vereins- oder Handelsregister
-    erfolgt ist, ist ein entsprechender Auszug vorzulegen,
+2.  bei juristischen Personen und rechtsfähigen Personengesellschaften
+    Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort der Vertreter
+    nach Gesetz, Satzung oder Gesellschaftsvertrag, Anschrift des
+    Geschäftssitzes und der Zweigstellen, von denen aus die
+    Berufssprachkurse angeboten werden sollen; soweit eine Eintragung in
+    das Gesellschafts-, Vereins- oder Handelsregister erfolgt ist, ist ein
+    entsprechender Auszug vorzulegen,
 
 
 3.  eine Erklärung der antragstellenden Person oder ihrer gesetzlichen
-    Vertretung oder, bei juristischen Personen oder nicht rechtsfähigen
+    Vertretung oder, bei juristischen Personen oder sonstigen
     Personenvereinigungen, der nach Gesetz, Satzung oder
     Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
 

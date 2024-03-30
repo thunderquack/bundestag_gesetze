@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 34 Abs. 5 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Anwendungsbereich
@@ -235,8 +238,8 @@ Zustellung eines Dokuments an ihn für alle Beteiligten.
 viele Ausfertigungen oder Abschriften zuzustellen, als Beteiligte
 vorhanden sind.
 
-(3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und § 183
-der Abgabenordnung bleiben unberührt.
+(3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und die
+§§ 183 und 183a der Abgabenordnung bleiben unberührt.
 
 
 ## § 8 Heilung von Zustellungsmängeln
@@ -314,10 +317,18 @@ wenn
     Zustellung weder unter der eingetragenen Anschrift noch unter einer im
     Handelsregister eingetragenen Anschrift einer für Zustellungen
     empfangsberechtigten Person oder einer ohne Ermittlungen bekannten
-    anderen inländischen Anschrift möglich ist oder
+    anderen inländischen Anschrift möglich ist,
 
 
-3.  sie im Fall des § 9 nicht möglich ist oder keinen Erfolg verspricht.
+3.  bei eingetragenen Personengesellschaften eine Zustellung weder unter
+    der eingetragenen Anschrift noch unter einer im Handels- oder
+    Gesellschaftsregister eingetragenen Anschrift einer für Zustellungen
+    empfangsberechtigten Person oder einer ohne Ermittlungen bekannten
+    anderen Anschrift innerhalb eines Mitgliedstaates der Europäischen
+    Union möglich ist oder
+
+
+4.  sie im Fall des § 9 nicht möglich ist oder keinen Erfolg verspricht.
 
 
 

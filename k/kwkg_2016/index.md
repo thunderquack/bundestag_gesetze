@@ -1477,11 +1477,12 @@ Vorliegen der Voraussetzungen der §§ 7a bis 7c.
 1.  Name und Anschrift des Anlagenbetreibers,
 
 
-1a. sofern zutreffend, das Handelsregister, Vereinsregister oder
-    Genossenschaftsregister, in das der Anlagenbetreiber eingetragen ist,
-    und die entsprechende Registernummer; wenn keine Registernummer
-    zugeteilt wurde, ist hilfsweise, soweit vorhanden, die Umsatzsteuer-
-    Identifikationsnummer anzugeben,
+1a. sofern zutreffend, das Handelsregister, Genossenschaftsregister,
+    Gesellschaftsregister oder Vereinsregister, in das der
+    Anlagenbetreiber eingetragen ist, und die entsprechende
+    Registernummer; wenn keine Registernummer zugeteilt wurde, ist
+    hilfsweise, soweit vorhanden, die Umsatzsteuer-Identifikationsnummer
+    anzugeben,
 
 
 1b. die Angabe, ob der Anlagenbetreiber ein Unternehmen im Sinn der

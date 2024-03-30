@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 16.7.2021 I 2931
 
+Änderung durch
+:   Art. 26 G v. 27.3.2024 I Nr. 108 mWv 1.1.2020 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 27 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 u. 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anspruchsberechtigung
 

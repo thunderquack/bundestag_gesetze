@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2325, 2353
 
 Zuletzt geändert durch
-:   Art. 14 Abs. 1 G v. 28.6.2021 I 2250
+:   Art. 4 G v. 20.12.2023 I Nr. 389
 
 
 ## Abschnitt 1 - Allgemeine dienstrechtliche Regelungen

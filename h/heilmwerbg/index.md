@@ -231,9 +231,9 @@ entfallen.
 
 (3) Bei einer Werbung außerhalb der Fachkreise ist der Text "Zu
 Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen
-Sie Ihren Arzt oder Apotheker" gut lesbar und von den übrigen
-Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben. Bei einer
-Werbung für Heilwässer tritt an die Stelle der Angabe "die
+Sie Ihre Ärztin, Ihren Arzt oder in Ihrer Apotheke" gut lesbar und von
+den übrigen Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben.
+Bei einer Werbung für Heilwässer tritt an die Stelle der Angabe "die
 Packungsbeilage" die Angabe "das Etikett". Die Angaben nach Absatz 1
 Nr. 1, 3, 5 und 6 können entfallen. Satz 1 findet keine Anwendung auf
 Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben

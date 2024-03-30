@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.7.2022 I 1237
-
-Änderung durch
-:   Art. 10 G v. 8.10.2023 I Nr. 272 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 8.10.2023 I Nr. 272
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.8.2017 I 3290;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.3.2023 I Nr. 71
+:   Art. 14b G v. 22.12.2023 I Nr. 405
 
 Dieses Gesetz dient der Umsetzung von Artikel 11 der Richtlinie
 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember
@@ -143,9 +143,8 @@ ist. Unberührt bleiben
 
 
 3.  § 15 Absatz 3 Satz 2 des Netzausbaubeschleunigungsgesetzes
-    Übertragungsnetz, § 17a Absatz 5 Satz 1 des
-    Energiewirtschaftsgesetzes, § 6 Absatz 9 Satz 1 des Windenergie-auf-
-    See-Gesetzes, § 47 Absatz 4 und § 49 Absatz 3 des Gesetzes über die
+    Übertragungsnetz, § 6 Absatz 9 Satz 1 des Windenergie-auf-See-
+    Gesetzes, § 47 Absatz 4 und § 49 Absatz 3 des Gesetzes über die
     Umweltverträglichkeitsprüfung und andere entsprechende
     Rechtsvorschriften.
 

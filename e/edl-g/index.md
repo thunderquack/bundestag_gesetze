@@ -395,6 +395,7 @@ entweder
 
 
 
+
 (4) Bei Unternehmen, deren Gesamtenergieverbrauch über alle
 Energieträger hinweg im Jahr 500 000 Kilowattstunden oder weniger
 beträgt, steht die Erfüllung der Pflicht nach § 8c Absatz 1 Satz 3 und

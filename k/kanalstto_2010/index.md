@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2010, Nr 165, 3646
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.7.2023 I Nr. 189
+:   Art. 1 V v. 19.12.2023 I Nr. 387
 
 
 ## Eingangsformel
@@ -138,7 +138,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
 ## Anlage Verzeichnis der Entgelte
 
-(Fundstelle: BGBl. 2023 I, Nr. 189, 1 – 5)
+(Fundstelle: BGBl. 2023 I Nr. 387, S. 1 – 4)
 
 
 *    *   **Es sind zu entrichten für**
@@ -170,7 +170,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   500
 
     *
-    *   1 004
+    *   1 090
 
 
 *    *   501 –
@@ -178,7 +178,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   600
 
     *
-    *   1 009
+    *   1 095
 
 
 *    *   601 –
@@ -186,7 +186,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   700
 
     *
-    *   1 013
+    *   1 100
 
 
 *    *   701 –
@@ -194,7 +194,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   800
 
     *
-    *   1 015
+    *   1 102
 
 
 *    *   801 –
@@ -202,7 +202,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   900
 
     *
-    *   1 020
+    *   1 107
 
 
 *    *   901 –
@@ -210,7 +210,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 000
 
     *
-    *   1 027
+    *   1 115
 
 
 *    *   1 001 –
@@ -218,7 +218,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 100
 
     *
-    *   1 032
+    *   1 120
 
 
 *    *   1 101 –
@@ -226,7 +226,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 200
 
     *
-    *   1 043
+    *   1 132
 
 
 *    *   1 201 –
@@ -234,7 +234,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 300
 
     *
-    *   1 051
+    *   1 141
 
 
 *    *   1 301 –
@@ -242,7 +242,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 400
 
     *
-    *   1 057
+    *   1 147
 
 
 *    *   1 401 –
@@ -250,7 +250,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 500
 
     *
-    *   1 066
+    *   1 157
 
 
 *    *   1 501 –
@@ -258,7 +258,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 600
 
     *
-    *   1 078
+    *   1 170
 
 
 *    *   1 601 –
@@ -266,7 +266,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 700
 
     *
-    *   1 082
+    *   1 175
 
 
 *    *   1 701 –
@@ -274,7 +274,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 800
 
     *
-    *   1 088
+    *   1 181
 
 
 *    *   1 801 –
@@ -282,7 +282,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   1 900
 
     *
-    *   1 101
+    *   1 195
 
 
 *    *   1 901 –
@@ -290,7 +290,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 000
 
     *
-    *   1 102
+    *   1 196
 
 
 *    *   2 001 –
@@ -298,7 +298,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 100
 
     *
-    *   1 103
+    *   1 197
 
 
 *    *   2 101 –
@@ -306,7 +306,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 200
 
     *
-    *   1 105
+    *   1 199
 
 
 *    *   2 201 –
@@ -314,7 +314,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 300
 
     *
-    *   1 107
+    *   1 202
 
 
 *    *   2 301 –
@@ -322,7 +322,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 400
 
     *
-    *   1 112
+    *   1 207
 
 
 *    *   2 401 –
@@ -330,7 +330,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 500
 
     *
-    *   1 118
+    *   1 214
 
 
 *    *   2 501 –
@@ -338,7 +338,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 600
 
     *
-    *   1 125
+    *   1 221
 
 
 *    *   2 601 –
@@ -346,7 +346,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 700
 
     *
-    *   1 127
+    *   1 223
 
 
 *    *   2 701 –
@@ -354,7 +354,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 800
 
     *
-    *   1 129
+    *   1 226
 
 
 *    *   2 801 –
@@ -362,7 +362,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   2 900
 
     *
-    *   1 140
+    *   1 237
 
 
 *    *   2 901 –
@@ -370,7 +370,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   3 000
 
     *
-    *   1 155
+    *   1 254
 
 
 *    *   3 001 –
@@ -378,7 +378,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   3 250
 
     *
-    *   1 165
+    *   1 265
 
 
 *    *   3 251 –
@@ -386,7 +386,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   3 500
 
     *
-    *   1 181
+    *   1 282
 
 
 *    *   3 501 –
@@ -394,7 +394,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   3 750
 
     *
-    *   1 185
+    *   1 286
 
 
 *    *   3 751 –
@@ -402,7 +402,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   4 000
 
     *
-    *   1 199
+    *   1 302
 
 
 *    *   4 001 –
@@ -410,7 +410,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   4 250
 
     *
-    *   1 203
+    *   1 306
 
 
 *    *   4 251 –
@@ -418,7 +418,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   4 500
 
     *
-    *   1 213
+    *   1 317
 
 
 *    *   4 501 –
@@ -426,7 +426,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   4 750
 
     *
-    *   1 236
+    *   1 342
 
 
 *    *   4 751 –
@@ -434,7 +434,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   5 000
 
     *
-    *   1 251
+    *   1 358
 
 
 *    *   5 001 –
@@ -442,7 +442,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   5 250
 
     *
-    *   1 258
+    *   1 366
 
 
 *    *   5 251 –
@@ -450,7 +450,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   5 500
 
     *
-    *   1 273
+    *   1 382
 
 
 *    *   5 501 –
@@ -458,7 +458,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   5 750
 
     *
-    *   1 286
+    *   1 396
 
 
 *    *   5 751 –
@@ -466,7 +466,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   6 000
 
     *
-    *   1 301
+    *   1 412
 
 
 *    *   6 001 –
@@ -474,7 +474,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   6 250
 
     *
-    *   1 309
+    *   1 421
 
 
 *    *   6 251 –
@@ -482,7 +482,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   6 500
 
     *
-    *   1 314
+    *   1 426
 
 
 *    *   6 501 –
@@ -490,7 +490,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   6 750
 
     *
-    *   1 334
+    *   1 448
 
 
 *    *   6 751 –
@@ -498,7 +498,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   7 000
 
     *
-    *   1 352
+    *   1 468
 
 
 *    *   7 001 –
@@ -506,7 +506,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   7 250
 
     *
-    *   1 367
+    *   1 484
 
 
 *    *   7 251 –
@@ -514,7 +514,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   7 500
 
     *
-    *   1 388
+    *   1 507
 
 
 *    *   7 501 –
@@ -522,7 +522,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   7 750
 
     *
-    *   1 405
+    *   1 525
 
 
 *    *   7 751 –
@@ -530,7 +530,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   8 000
 
     *
-    *   1 410
+    *   1 531
 
 
 *    *   8 001 –
@@ -538,7 +538,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   8 250
 
     *
-    *   1 417
+    *   1 538
 
 
 *    *   8 251 –
@@ -546,7 +546,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   8 500
 
     *
-    *   1 423
+    *   1 545
 
 
 *    *   8 501 –
@@ -554,7 +554,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   8 750
 
     *
-    *   1 427
+    *   1 549
 
 
 *    *   8 751 –
@@ -562,7 +562,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   9 000
 
     *
-    *   1 444
+    *   1 567
 
 
 *    *   9 001 –
@@ -570,7 +570,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   9 250
 
     *
-    *   1 457
+    *   1 582
 
 
 *    *   9 251 –
@@ -578,7 +578,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   9 500
 
     *
-    *   1 475
+    *   1 601
 
 
 *    *   9 501 –
@@ -586,7 +586,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   9 750
 
     *
-    *   1 492
+    *   1 620
 
 
 *    *   9 751 –
@@ -594,7 +594,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   10 000
 
     *
-    *   1 498
+    *   1 626
 
 
 *    *   10 001 –
@@ -602,7 +602,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   10 250
 
     *
-    *   1 504
+    *   1 633
 
 
 *    *   10 251 –
@@ -610,7 +610,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   10 500
 
     *
-    *   1 513
+    *   1 642
 
 
 *    *   10 501 –
@@ -618,7 +618,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   10 750
 
     *
-    *   1 530
+    *   1 661
 
 
 *    *   10 751 –
@@ -626,7 +626,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   11 000
 
     *
-    *   1 548
+    *   1 680
 
 
 *    *   11 001 –
@@ -634,7 +634,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   11 250
 
     *
-    *   1 569
+    *   1 703
 
 
 *    *   11 251 –
@@ -642,7 +642,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   11 500
 
     *
-    *   1 586
+    *   1 722
 
 
 *    *   11 501 –
@@ -650,7 +650,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   11 750
 
     *
-    *   1 604
+    *   1 741
 
 
 *    *   11 751 –
@@ -658,7 +658,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   12 000
 
     *
-    *   1 623
+    *   1 762
 
 
 *    *   12 001 –
@@ -666,7 +666,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   12 500
 
     *
-    *   1 628
+    *   1 767
 
 
 *    *   12 501 –
@@ -674,7 +674,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   13 000
 
     *
-    *   1 633
+    *   1 773
 
 
 *    *   13 001 –
@@ -682,7 +682,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   13 500
 
     *
-    *   1 646
+    *   1 787
 
 
 *    *   13 501 –
@@ -690,7 +690,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   14 000
 
     *
-    *   1 663
+    *   1 805
 
 
 *    *   14 001 –
@@ -698,7 +698,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   14 500
 
     *
-    *   1 691
+    *   1 836
 
 
 *    *   14 501 –
@@ -706,7 +706,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   15 000
 
     *
-    *   1 717
+    *   1 864
 
 
 *    *   15 001 –
@@ -714,7 +714,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   15 500
 
     *
-    *   1 720
+    *   1 867
 
 
 *    *   15 501 –
@@ -722,7 +722,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   16 000
 
     *
-    *   1 753
+    *   1 903
 
 
 *    *   16 001 –
@@ -730,7 +730,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   16 500
 
     *
-    *   1 780
+    *   1 932
 
 
 *    *   16 501 –
@@ -738,7 +738,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   17 000
 
     *
-    *   1 811
+    *   1 966
 
 
 *    *   17 001 –
@@ -746,7 +746,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   17 500
 
     *
-    *   1 834
+    *   1 991
 
 
 *    *   17 501 –
@@ -754,7 +754,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   18 000
 
     *
-    *   1 870
+    *   2 030
 
 
 *    *   18 001 –
@@ -762,7 +762,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   18 500
 
     *
-    *   1 895
+    *   2 057
 
 
 *    *   18 501 –
@@ -770,7 +770,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   19 000
 
     *
-    *   1 927
+    *   2 092
 
 
 *    *   19 001 –
@@ -778,7 +778,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   19 500
 
     *
-    *   1 958
+    *   2 125
 
 
 *    *   19 501 –
@@ -786,7 +786,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   20 000
 
     *
-    *   1 986
+    *   2 156
 
 
 *    *   20 001 –
@@ -794,7 +794,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   20 500
 
     *
-    *   1 993
+    *   2 163
 
 
 *    *   20 501 –
@@ -802,7 +802,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   21 000
 
     *
-    *   2 024
+    *   2 197
 
 
 *    *   21 001 –
@@ -810,7 +810,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   21 500
 
     *
-    *   2 046
+    *   2 221
 
 
 *    *   21 501 –
@@ -818,7 +818,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   22 000
 
     *
-    *   2 078
+    *   2 256
 
 
 *    *   22 001 –
@@ -826,7 +826,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   22 500
 
     *
-    *   2 107
+    *   2 287
 
 
 *    *   22 501 –
@@ -834,7 +834,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   23 000
 
     *
-    *   2 131
+    *   2 313
 
 
 *    *   23 001 –
@@ -842,7 +842,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   23 500
 
     *
-    *   2 142
+    *   2 325
 
 
 *    *   23 501 –
@@ -850,7 +850,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   24 000
 
     *
-    *   2 182
+    *   2 369
 
 
 *    *   24 001 –
@@ -858,7 +858,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   24 500
 
     *
-    *   2 218
+    *   2 408
 
 
 *    *   24 501 –
@@ -866,7 +866,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   25 000
 
     *
-    *   2 256
+    *   2 449
 
 
 *    *   25 001 –
@@ -874,7 +874,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   25 500
 
     *
-    *   2 271
+    *   2 465
 
 
 *    *   25 501 –
@@ -882,7 +882,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   26 000
 
     *
-    *   2 292
+    *   2 488
 
 
 *    *   26 001 –
@@ -890,7 +890,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   26 500
 
     *
-    *   2 307
+    *   2 504
 
 
 *    *   26 501 –
@@ -898,7 +898,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   27 000
 
     *
-    *   2 332
+    *   2 531
 
 
 *    *   27 001 –
@@ -906,7 +906,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   27 500
 
     *
-    *   2 351
+    *   2 552
 
 
 *    *   27 501 –
@@ -914,7 +914,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   28 000
 
     *
-    *   2 376
+    *   2 579
 
 
 *    *   28 001 –
@@ -922,7 +922,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   28 500
 
     *
-    *   2 401
+    *   2 606
 
 
 *    *   28 501 –
@@ -930,7 +930,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   29 000
 
     *
-    *   2 423
+    *   2 630
 
 
 *    *   29 001 –
@@ -938,7 +938,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   29 500
 
     *
-    *   2 462
+    *   2 673
 
 
 *    *   29 501 –
@@ -946,17 +946,17 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   30 000
 
     *
-    *   2 490
+    *   2 703
 
 
 *    *   für jede weitere angefangene 500 über 30 000
 
-    *   28,
+    *   30
 
 
 *    *   höchstens jedoch
 
-    *   3 470,
+    *   3 767
 
 
 *    *   1.2
@@ -982,9 +982,9 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
     *   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die Abfahrt
         aus nicht revierbedingten Gründen verzögert wird, nach Ablauf einer
-        Stunde für jede weitere angefangene Stunde
+        Stunde, für jede angefangene Stunde,
 
-    *   58 Euro,
+    *   63 Euro,
 
 
 *    *   3
@@ -993,7 +993,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         revierbedingten Gründen ankert oder festmacht, für jede angefangene
         Stunde,
 
-    *   47 Euro,
+    *   51 Euro,
 
 
 *    *   4
@@ -1001,7 +1001,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   die Tätigkeit bei den notwendigen Manövern in Fällen der Nummer 3 und
         Nummer 5
 
-    *   55 Euro,
+    *   60 Euro,
 
 
 *    *   5
@@ -1010,7 +1010,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         der Fahrt aus revierbedingten Gründen verzögert wird, nach Ablauf von
         zwei Stunden für jede weitere angefangene Stunde
 
-    *   45 Euro,
+    *   49 Euro,
 
 
 *    *   6
@@ -1019,7 +1019,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         Fahrzeugs, wenn der oder die Steurer auf Wunsch der Schiffsführung an
         Bord bleiben, für jede angefangene Stunde
 
-    *   47 Euro,
+    *   51 Euro,
 
 
 *    *   7
@@ -1034,14 +1034,14 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   im Bereich der Binnenhäfen von Brunsbüttel und Kiel-Holtenau sowie an
         der Anlegebrücke der Bunkerstation Projensdorf
 
-    *   29 Euro,
+    *   31 Euro,
 
 
 *    *   7.2
 
     *   im übrigen Bereich des Nord-Ostsee-Kanals
 
-    *   41 Euro,
+    *   45 Euro,
 
 
 *    *   8
@@ -1050,7 +1050,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         revierbedingten Gründen nicht an Bord genommen oder vor Aufnahme ihrer
         Tätigkeit wieder entlassen werden
 
-    *   63 Euro,
+    *   68 Euro,
 
 
 *    *   9
@@ -1059,14 +1059,14 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         8, wenn das Fahrzeug außerhalb der Schleusen des Nord-Ostsee-Kanals
         liegt, für jede angefangene Stunde
 
-    *   47 Euro,
+    *   51 Euro,
 
 
 *    *   10
 
     *   das Fehlen einer angemessenen Bordunterkunft ein Ausgleich in Höhe von
 
-    *   191 Euro.
+    *   207 Euro.
 
 
 *    *   Außerdem sind die Fahrtauslagen in Fällen der Nummern 7 und 8 zu

@@ -47,8 +47,8 @@ allgemein zugänglich.
 
 
 3.  Registergericht und Registernummer, soweit das Verkehrsunternehmen in
-    das Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister
-    eingetragen ist,
+    das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder
+    Vereinsregister eingetragen ist,
 
 
 4.  Sitz und Geschäftsanschrift einschließlich Anschriften aller
@@ -122,8 +122,8 @@ umfasst
 
 
 3.  Registergericht und Registernummer, soweit das Verkehrsunternehmen in
-    das Handels-, Partnerschafts-, Genossenschafts- oder Vereinsregister
-    eingetragen ist,
+    das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder
+    Vereinsregister eingetragen ist,
 
 
 4.  Geschäftsanschrift einschließlich Anschriften aller

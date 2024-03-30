@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2702, 2707
 
 Zuletzt geändert durch
-:   Art. 2 G v. 18.8.2021 I 3890
+:   Art. 3a G v. 22.3.2024 I Nr. 101
 
 
 ## § 1 Zentrum für Krebsregisterdaten, Begriffsbestimmung
@@ -551,8 +551,8 @@ nach Satz 1 haben grundsätzlich international anerkannten, offenen
 Standards zu entsprechen. Abweichungen von international anerkannten,
 offenen Standards sind zu begründen und transparent und
 nachvollziehbar zu veröffentlichen. Die Festlegungen nach Satz 1 sind
-in das Interoperabilitätsverzeichnis nach § 384 des Fünften Buches
-Sozialgesetzbuch aufzunehmen.
+auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften
+Buches Sozialgesetzbuch aufzunehmen.
 
 (4) Das Zentrum für Krebsregisterdaten stellt den Krebsregistern auf
 deren Verlangen den nach § 6 Absatz 2 Nummer 2 erstellten Datensatz in

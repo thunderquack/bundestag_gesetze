@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 22.2.2023 I Nr. 51
 
+Änderung durch
+:   Art. 32 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeiner Teil
 

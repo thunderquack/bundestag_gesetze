@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 16.12.2022 I 2294
+:   Art. 22 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 19 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Abschnitt I - Allgemeines
@@ -54,9 +57,9 @@ der § 14 oder § 17 des Körperschaftsteuergesetzes, so gilt sie als
 Betriebsstätte des Organträgers.
 
 (3) Als Gewerbebetrieb gilt auch die Tätigkeit der sonstigen
-juristischen Personen des privaten Rechts und der nichtrechtsfähigen
-Vereine, soweit sie einen wirtschaftlichen Geschäftsbetrieb
-(ausgenommen Land- und Forstwirtschaft) unterhalten.
+juristischen Personen des privaten Rechts und der Vereine ohne
+Rechtspersönlichkeit, soweit sie einen wirtschaftlichen
+Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) unterhalten.
 
 (4) Vorübergehende Unterbrechungen im Betrieb eines Gewerbes, die
 durch die Art des Betriebs veranlasst sind, heben die Steuerpflicht

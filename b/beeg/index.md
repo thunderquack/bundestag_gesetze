@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 2006, 2748
 
 Neugefasst durch
-:   Bek. v. 27.01.2015 I 33
+:   Bek. v. 27.01.2015 I 33;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.12.2022 I 2510
+:   Art. 1 G v. 22.12.2023 I Nr. 412
+
+Änderung durch
+:   Art. 7 G v. 27.3.2024 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Elterngeld
@@ -462,15 +465,15 @@ berücksichtigt:
 
 2.  eine Vorsorgepauschale
 
-    a)  mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b
-        und c des Einkommensteuergesetzes, falls die berechtigte Person von
+    a)  mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b,
+        c und e des Einkommensteuergesetzes, falls die berechtigte Person von
         ihr zu versteuernde Einnahmen nach § 2c hat, ohne in der gesetzlichen
         Rentenversicherung oder einer vergleichbaren Einrichtung
         versicherungspflichtig gewesen zu sein, oder
 
 
     b)  mit den Teilbeträgen nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a
-        bis c des Einkommensteuergesetzes in allen übrigen Fällen,
+        bis c und e des Einkommensteuergesetzes in allen übrigen Fällen,
 
 
 

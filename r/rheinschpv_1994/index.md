@@ -23,7 +23,10 @@ Zuletzt geändert durch
 :   Art. 1 Nr. 1 iVm Anlage 1 bis 5 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 Nr. 2 iVm Anlage 3 bis 5 V v. 22.11.2023 II Nr. 321 mWv 1.6.2024 noch nicht berücksichtigt
+:   Art. 1 Nr. 2 iVm Anlage 3 bis 5 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 2 iVm Anlage 2 bis 4 V v. 11.3.2024 II Nr. 97 mWv 1.12.2024 noch nicht berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -1546,10 +1549,8 @@ ab) "schnelles Schiff": ein Fahrzeug mit Maschinenantrieb, ausgenommen ein
     ist;
 
 
-ac) „Inland AIS Gerät“: ein Gerät, das auf einem Fahrzeug eingebaut ist
-    und im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs-
-    und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt
-    wird;
+ac) „Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und
+    im Sinne der Bestimmungen von Teil II des ES-RIS genutzt wird;
 
 
 ad) „LNG-System“:
@@ -1581,7 +1582,7 @@ ah) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
 
 
 ai) „ES-RIS“ der Europäische Standard für
-    Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der
+    Binnenschifffahrtsinformationsdienste Ausgabe 2023/1. Bei der
     Anwendung des ES-RIS ist unter Mitgliedstaat ein Rheinuferstaat oder
     Belgien zu verstehen.
 
@@ -4881,14 +4882,12 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     elektronischer Binnenschifffahrtskarten, das mit dem Inland AIS Gerät
     verbunden sein muss, ausgestattet sein und dieses zusammen mit einer
     aktuellen elektronischen Binnenschifffahrtskarte nutzen. Das Inland
-    ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I
-    „Elektronisches Kartendarstellungs- und Informationssystem für die
-    Binnenschifffahrt“ des ES-RIS entsprechen.
+    ECDIS Gerät im Informationsmodus muss den Bestimmungen von Teil I des
+    ES-RIS entsprechen.
 
 
 4.  Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II
-    „Standard für Verfolgungs- und Aufspürungssysteme in der
-    Binnenschifffahrt“ des ES-RIS übermittelt werden:
+    des ES-RIS übermittelt werden:
 
 
     a)  User Identifier (Maritime Mobile Service Identity, MMSI);
@@ -4897,12 +4896,10 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     b)  Schiffsname;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
-        „Standard für Verfolgungs- und Aufspürungssysteme in der
-        Binnenschifffahrt“ des ES-RIS;
+    c)  Fahrzeug- oder Verbandstyp gemäß Bestimmungen von Teil II des ES-RIS;
 
 
-    d)  einheitliche europäische Schiffsnummer (ENI) oder für Seeschiffe,
+    d)  einheitliche europäische Schiffsnummer (ENI), oder für die Seeschiffe,
         sofern keine ENI erteilt wurde, die IMO Nummer;
 
 
@@ -4949,9 +4946,8 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
     b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
-        „Standard für Verfolgungs- und Aufspürungssysteme in der
-        Binnenschifffahrt“ des ES-RIS;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-
+        RIS;
 
 
     d)  Navigationsstatus gemäß Anlage 11;
@@ -8974,8 +8970,7 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 
 1.  Die Schiffsführer folgender Fahrzeuge und der Verbände müssen sich vor
     der Einfahrt in die unter Nummer 3 genannten Strecken elektronisch
-    gemäß den Bestimmungen von Teil IV „Standard für elektronisches Melden
-    in der Binnenschifffahrt“ des ES-RIS melden:
+    gemäß den Bestimmungen von Teil IV des ES-RIS melden:
 
     a)  Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN
         unterliegt;

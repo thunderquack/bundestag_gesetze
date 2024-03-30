@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 16.12.2022 I 2294
+:   Art. 21 G v. 22.12.2023 I Nr. 411
+
+Änderung durch
+:   Art. 18 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
 
 
 ## Erster Teil - Steuerpflicht
@@ -47,8 +50,8 @@ Geschäftsleitung oder ihren Sitz im Inland haben:
 4.  sonstige juristische Personen des privaten Rechts;
 
 
-5.  nichtrechtsfähige Vereine, Anstalten, Stiftungen und andere
-    Zweckvermögen des privaten Rechts;
+5.  Vereine ohne Rechtspersönlichkeit, nicht rechtsfähige Anstalten,
+    Stiftungen und andere Zweckvermögen des privaten Rechts;
 
 
 6.  Betriebe gewerblicher Art von juristischen Personen des öffentlichen
@@ -271,10 +274,10 @@ Beschränkt körperschaftsteuerpflichtig sind
 
 
 
-### § 3 Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
+### § 3 Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden
 
-(1) Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und
-andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr
+(1) Personenvereinigungen, nicht rechtsfähige Anstalten, Stiftungen
+und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr
 Einkommen weder nach diesem Gesetz noch nach dem Einkommensteuergesetz
 unmittelbar bei einem anderen Steuerpflichtigen zu versteuern ist.
 
@@ -1006,10 +1009,10 @@ nicht die Anschaffungskosten der Beteiligung.
 
 (4) (weggefallen)
 
-(5) Bei Personenvereinigungen bleiben für die Ermittlung des
-Einkommens Beiträge, die auf Grund der Satzung von den Mitgliedern
-lediglich in ihrer Eigenschaft als Mitglieder erhoben werden, außer
-Ansatz.
+(5) Bei Körperschaften und Personenvereinigungen bleiben für die
+Ermittlung des Einkommens Beiträge, die auf Grund der Satzung von den
+Mitgliedern lediglich in ihrer Eigenschaft als Mitglieder erhoben
+werden, außer Ansatz.
 
 (6) Besteht das Einkommen nur aus Einkünften, von denen lediglich ein
 Steuerabzug vorzunehmen ist, so ist ein Abzug von Betriebsausgaben
@@ -1145,37 +1148,26 @@ entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6
 nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5
 und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste
 übersteigen.
-4             Auf Kapitalgesellschaften, die ihre Einkünfte nach § 2
-Abs. 2 Nr. 2 des Einkommensteuergesetzes ermitteln, ist § 4h des
-Einkommensteuergesetzes sinngemäß anzuwenden.
+4             Bei Steuerpflichtigen im Sinne dieses Gesetzes gelten
+alle Einkünfte als in einem Betrieb im Sinne des § 4h Absatz 1 Satz 1
+des Einkommensteuergesetzes erzielt.
 
-(2) § 4h Abs. 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ist nur
-anzuwenden, wenn die Vergütungen für Fremdkapital an einen zu mehr als
-einem Viertel unmittelbar oder mittelbar am Grund- oder Stammkapital
-beteiligten Anteilseigner, eine diesem nahe stehende Person (§ 1 Abs.
-2 des Außensteuergesetzes vom 8. September 1972 – BGBl. I S. 1713 –,
-das zuletzt durch Artikel 3 des Gesetzes vom 28. Mai 2007 – BGBl. I S.
-914 – geändert worden ist, in der jeweils geltenden Fassung) oder
-einen Dritten, der auf den zu mehr als einem Viertel am Grund- oder
-Stammkapital beteiligten Anteilseigner oder eine diesem nahe stehende
-Person zurückgreifen kann, nicht mehr als 10 Prozent der die
-Zinserträge übersteigenden Zinsaufwendungen der Körperschaft im Sinne
-des § 4h Abs. 3 des Einkommensteuergesetzes betragen und die
-Körperschaft dies nachweist.
+(2) (weggefallen)
 
 (3)
-1             § 4h Abs. 2 Satz 1 Buchstabe c des
+1             § 4h Absatz 2 Satz 1 Buchstabe c des
 Einkommensteuergesetzes ist nur anzuwenden, wenn die Vergütungen für
 Fremdkapital der Körperschaft oder eines anderen demselben Konzern
-zugehörenden Rechtsträgers an einen zu mehr als einem Viertel
-unmittelbar oder mittelbar am Kapital beteiligten Gesellschafter einer
-konzernzugehörigen Gesellschaft, eine diesem nahe stehende Person (§ 1
-Abs. 2 des Außensteuergesetzes) oder einen Dritten, der auf den zu
-mehr als einem Viertel am Kapital beteiligten Gesellschafter oder eine
-diesem nahe stehende Person zurückgreifen kann, nicht mehr als 10
-Prozent der die Zinserträge übersteigenden Zinsaufwendungen des
-Rechtsträgers im Sinne des § 4h Abs. 3 des Einkommensteuergesetzes
-betragen und die Körperschaft dies nachweist.
+zugehörenden Rechtsträgers an zu mindestens einem Viertel unmittelbar
+oder mittelbar am Kapital beteiligte Gesellschafter einer
+konzernzugehörigen Gesellschaft, diesen nahestehende Personen (§ 1
+Absatz 2 des Außensteuergesetzes) oder Dritte, die auf zu mindestens
+einem Viertel am Kapital beteiligte Gesellschafter oder diesen
+nahestehende Personen zurückgreifen können, bezogen auf den jeweiligen
+Rechtsträger insgesamt nicht mehr als 10 Prozent der die Zinserträge
+übersteigenden Zinsaufwendungen des Rechtsträgers im Sinne des § 4h
+Absatz 3 des Einkommensteuergesetzes betragen und die Körperschaft
+dies nachweist.
 2             Satz 1 gilt nur für Zinsaufwendungen aus
 Verbindlichkeiten, die in dem voll konsolidierten Konzernabschluss
 nach § 4h Abs. 2 Satz 1 Buchstabe c des Einkommensteuergesetzes
@@ -3229,7 +3221,7 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 (1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen
 nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum
-2022\.
+2024\.
 
 (1a) § 1a in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021
 (BGBl. I S. 2050) ist erstmals für den Veranlagungszeitraum 2021
@@ -3301,13 +3293,17 @@ anzuwenden, wenn der Steuerpflichtige einen Antrag nach § 52 Absatz 4a
 Satz 3 des Einkommensteuergesetzes in der Fassung des Artikels 2 des
 Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) stellt.
 
-(4) § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die
+(4)
+1             § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die
 Rückgriffsmöglichkeit des Dritten allein auf der Gewährträgerhaftung
 einer Gebietskörperschaft oder einer anderen Einrichtung des
 öffentlichen Rechts gegenüber den Gläubigern eines Kreditinstituts für
 Verbindlichkeiten beruht, die bis zum 18. Juli 2001 vereinbart waren;
 Gleiches gilt für bis zum 18. Juli 2005 vereinbarte Verbindlichkeiten,
 wenn deren Laufzeit nicht über den 31. Dezember 2015 hinausgeht.
+2             § 8a in der am 31. Dezember 2023 geltenden Fassung ist
+weiter anzuwenden, soweit dieser auf § 4h des Einkommensteuergesetzes
+in der am 31. Dezember 2023 geltenden Fassung Bezug nimmt.
 
 (5)
 1             § 8b Absatz 1 Satz 3 in der Fassung des Artikels 2 des

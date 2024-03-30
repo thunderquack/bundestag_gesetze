@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1759
 
-Geändert durch
-:   Art. 10 G v. 24.2.2021 I 274
+Zuletzt geändert durch
+:   Art. 5 G v. 12.12.2023 I Nr. 359
 
 Stand: Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)
 
@@ -448,7 +448,10 @@ auf den hochschulischen Teil.
 
 (4) Den Inhalt der für die Erteilung der Erlaubnis maßgeblichen
 Bestandteile des Hebammenstudiums regelt die Studien- und
-Prüfungsverordnung nach § 71.
+Prüfungsverordnung nach § 71. Dabei sind die Inhalte der in Anhang V
+Nummer 5.5.1 der Richtlinie 2005/36/EG in der jeweils geltenden
+Fassung geregelten Fächer des theoretischen und fachlichen Unterrichts
+des Ausbildungsprogramms für Hebammen zu beachten.
 
 
 ##### § 12 Akkreditierung von Studiengängen
@@ -1586,6 +1589,76 @@ absolvieren:
 dem Anpassungslehrgang wählen.
 
 
+#### § 59a Erlaubnis zur partiellen Berufsausübung
+
+(1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
+erteilen, wenn
+
+1.  die antragstellende Person ohne Einschränkung qualifiziert ist, in
+    einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
+    einem gleichgestellten Staat eine berufliche Tätigkeit auszuüben, die
+    der Tätigkeit einer Hebamme nach diesem Gesetz nur partiell
+    entspricht,
+
+
+2.  die Unterschiede zwischen der in einem anderen Mitgliedstaat, in einem
+    anderen Vertragsstaat oder einem gleichgestellten Staat rechtmäßig
+    ausgeübten beruflichen Tätigkeit und den Tätigkeiten einer Hebamme
+    nach diesem Gesetz so wesentlich sind, dass die Anwendung von
+    Anpassungsmaßnahmen nach § 57 der Anforderung an die antragstellende
+    Person gleichkäme, das vollständige Studium nach diesem Gesetz zu
+    absolvieren,
+
+
+3.  die rechtmäßig ausgeübte berufliche Tätigkeit nach Nummer 1 eine oder
+    mehrere der vorbehaltenen Tätigkeiten nach § 4 umfasst und
+
+
+4.  die Voraussetzungen nach § 5 Absatz 2 Nummer 2 bis 4 vorliegen.
+
+
+
+
+(2) Eine Erlaubnis zur partiellen Berufsausübung darf nicht erteilt
+werden, wenn
+
+1.  der Patientenschutz oder der Schutz der öffentlichen Gesundheit der
+    Erteilung entgegensteht oder
+
+
+2.  eine automatische Anerkennung der Berufsqualifikation möglich ist.
+
+
+
+
+(3) Eine Erlaubnis zur partiellen Berufsausübung ist auf die
+Tätigkeiten zu beschränken, in denen die antragstellende Person eine
+Qualifikation nach Absatz 1 Nummer 1 und 3 nachgewiesen hat.
+
+(4) Die berufliche Tätigkeit wird unter der Berufsbezeichnung des
+Staates, in dem die Qualifikation nach Absatz 1 Nummer 1 erworben
+wurde, ausgeübt und mit dem Hinweis auf
+
+1.  den Namen dieses Staates und
+
+
+2.  die Tätigkeit, auf die die Erlaubnis zur partiellen Berufsausübung
+    beschränkt ist.
+
+
+
+
+(5) Personen mit einer Erlaubnis zur partiellen Berufsausübung haben
+im Umfang dieser Erlaubnis die gleichen Rechte und Pflichten wie eine
+Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 3
+Absatz 1. Sie dürfen insbesondere eine oder mehrere vorbehaltene
+Tätigkeiten nach § 4 ausüben, soweit sie in den Umfang der Erlaubnis
+zur partiellen Berufsausübung fallen.
+
+(6) Die §§ 6 bis 8 gelten für die Erlaubnis zur partiellen
+Berufsausübung entsprechend.
+
+
 ## Teil 5 - Erbringen von Dienstleistungen
 
 
@@ -1747,6 +1820,59 @@ zuständigen Behörde die entsprechenden Nachweise, Bescheinigungen oder
 Erklärungen vorzulegen.
 
 
+#### § 62a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+(1) Für die Erbringung von vorübergehenden und gelegentlichen
+Dienstleistungen im Sinne des Artikels 57 des Vertrages über die
+Arbeitsweise der Europäischen Union im Rahmen einer partiellen
+Berufsausübung bedarf es einer Genehmigung durch die zuständige
+Behörde. Die Genehmigung wird auf Antrag erteilt, wenn:
+
+1.  die antragstellende Person eine Staatsangehörige oder ein
+    Staatsangehöriger eines Mitgliedstaates, eines Vertragsstaates oder
+    eines gleichgestellten Staates ist,
+
+
+2.  die antragstellende Person in einem anderen Mitgliedstaat, in einem
+    anderen Vertragsstaat oder einem gleichgestellten Staat zur Ausübung
+    des Berufs, dessen Tätigkeit der Tätigkeit einer Hebamme nur partiell
+    entspricht, rechtmäßig niedergelassen ist und
+
+    a)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in
+        diesem gleichgestellten Staat reglementiert ist oder
+
+
+    b)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in
+        diesem gleichgestellten Staat nicht reglementiert ist und die
+        antragstellende Person diesen Beruf während der vorhergehenden zehn
+        Jahre mindestens ein Jahr lang in einem oder in mehreren
+        Mitgliedstaaten, in einem oder in mehreren Vertragsstaaten oder
+        gleichgestellten Staaten rechtmäßig ausgeübt hat, und
+
+
+
+
+
+3.  die Voraussetzungen nach § 59a Absatz 1 Nummer 1 bis 4 vorliegen.
+
+
+
+
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im
+Rahmen einer partiellen Berufsausübung haben beim Erbringen der
+Dienstleistung in Deutschland im Umfang dieser Genehmigung die
+gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum
+Führen der Berufsbezeichnung nach § 3 Absatz 1. Sie dürfen
+insbesondere eine oder mehrere vorbehaltene Tätigkeiten nach § 4
+ausüben, soweit sie in den Umfang der Genehmigung zur
+Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+fallen.
+
+(3) Die §§ 6 bis 8, § 59a Absatz 2 Nummer 1, Absatz 3 und 4, § 60
+Absatz 4, die §§ 61, 62, 65 Absatz 1 und 2, die §§ 66 bis 69 und 70
+Absatz 2 gelten entsprechend.
+
+
 ### Abschnitt 2 - Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in anderen gleichgestellten Staaten
 
 
@@ -1793,13 +1919,13 @@ abgelegt hat.
 
 (3) Die Entscheidung nach § 5 Absatz 2 in Verbindung mit Teil 4 trifft
 die zuständige Behörde des Landes, in dem der Beruf der Hebamme
-ausgeübt werden soll.
+partiell oder vollständig ausgeübt werden soll.
 
 (4) Die Aufgaben nach Teil 5 Abschnitt 1 nimmt die zuständige Behörde
 des Landes wahr, in dem die Dienstleistung erbracht werden soll oder
 erbracht worden ist. Die Aufgaben nach Teil 5 Abschnitt 2 nimmt die
 zuständige Behörde des Landes wahr, in dem die antragstellende Person
-den Beruf der Hebamme ausübt.
+den Beruf der Hebamme partiell oder vollständig ausübt.
 
 
 ### § 65 Unterrichtungs- und Überprüfungspflichten
@@ -2018,11 +2144,12 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 ### § 70 Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
-dieses Gesetzes den Hebammenberuf aus oder führt die Berufsbezeichnung
-„Hebamme“, ohne dass die Voraussetzungen nach Teil 5 vorliegen,
-unterrichtet die zuständige Behörde unverzüglich die zuständige
-Behörde des Staates, in dem die dienstleistungserbringende Person
-niedergelassen ist, über den Verstoß.
+dieses Gesetzes den Hebammenberuf partiell oder vollständig aus oder
+führt die Berufsbezeichnung „Hebamme“, ohne dass die Voraussetzungen
+nach Teil 5 vorliegen, unterrichtet die zuständige Behörde
+unverzüglich die zuständige Behörde des Staates, in dem die
+dienstleistungserbringende Person niedergelassen ist, über den
+Verstoß.
 
 (2) Hat die zuständige Behörde berechtigte Zweifel an den von der
 dienstleistungsberechtigten Person vorgelegten Dokumenten, so ist sie
@@ -2117,7 +2244,38 @@ bedarf, Folgendes zu regeln:
 
 
 5.  das Verfahren und das Nähere zu den Voraussetzungen der
-    Dienstleistungserbringung.
+    Dienstleistungserbringung,
+
+
+6.  für Berufsangehörige, die einen Antrag nach § 59a oder nach § 62a
+    stellen,
+
+    a)  das Verfahren und das Nähere zu den jeweiligen Voraussetzungen zur
+        partiellen Berufsausübung, insbesondere
+
+        aa) die Fristen für die Erteilung der Erlaubnis zur partiellen
+            Berufsausübung nach § 59a,
+
+
+        bb) das Verfahren bei der Prüfung der Voraussetzungen des § 59a,
+            insbesondere die von der antragstellenden Person vorzulegenden
+            Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
+            Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
+            2005/36/EG,
+
+
+        cc) die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach §
+            59a,
+
+
+
+
+
+    b)  das Verfahren und das Nähere zu den Voraussetzungen der
+        Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
+
+
+
 
 
 

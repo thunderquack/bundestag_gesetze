@@ -18,7 +18,7 @@ Fundstelle
 
 Stand: Ersetzt G 205-2 v. 30.11.2001 I 3234 (BGleiG)
 Zuletzt geändert durch
-:   Art. 2 G v. 7.8.2021 I 3311
+:   Art. 2 G v. 22.1.2024 I Nr. 17
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1428,16 +1428,15 @@ Abweichungen:
 
 
 4.  beim Bundesnachrichtendienst beschäftigte Soldatinnen sind gemäß § 19
-    Absatz 4 Satz 2 aktiv wahlberechtigt,
+    Absatz 4 Satz 2 wahlberechtigt und wählbar,
 
 
-5.  beim Bundesnachrichtendienst tätige Soldatinnen und Soldaten gelten
+5.  beim Bundesnachrichtendienst tätiges militärisches Personal gilt
     hinsichtlich der Zuständigkeit der dort bestellten
-    Gleichstellungsbeauftragten als Beschäftigte des
-    Bundesnachrichtendienstes, soweit dessen Leitung oder das
-    Bundeskanzleramt für die Entscheidung in personellen, sozialen oder
-    organisatorischen Angelegenheiten dieses Personenkreises zuständig
-    ist,
+    Gleichstellungsbeauftragten als beim Bundesnachrichtendienst
+    beschäftigt, soweit dessen Leitung oder das Bundeskanzleramt für die
+    Entscheidung in personellen, sozialen oder organisatorischen
+    Angelegenheiten dieses Personenkreises zuständig ist,
 
 
 6.  beim Informations- und Erfahrungsaustausch der

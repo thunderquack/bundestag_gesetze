@@ -139,7 +139,11 @@ Erhebungsmerkmale:
 
 
     c)  Zahl und Beladungszustand nach Größe der Container und Art der RoRo-
-        Einheiten;
+        Einheiten und
+
+
+    d)  in der Binnenschifffahrt bei Gefahrgütern die UN-Nummer oder
+        Stoffnummer;
 
 
 
@@ -682,7 +686,7 @@ Nr. 1 erfasst folgende Erhebungsmerkmale:
 
     b)  Zahl der Fahrgäste, Beförderungsleistung, Fahrleistung und
         Beförderungsangebot im Schienen- und Liniennahverkehr nach Art des
-        Verkehrsmittels und im Gelegenheitsnahverkehr,
+        Verkehrsmittels,
 
 
     c)  Zahl der Fahrgäste im Ausbildungsverkehr nach Art des Verkehrsmittels
@@ -694,18 +698,17 @@ Nr. 1 erfasst folgende Erhebungsmerkmale:
         freigestellten Omnibusverkehr erfolgen,
 
 
-    e)  Fahrleistung im städtischen Verkehr sowie Fahrleistung im
-        Auftragsverkehr im Schienen- und Liniennahverkehr nach Art des
-        Verkehrsmittels,
+    e)  Fahrleistung im Auftragsverkehr im Schienen- und Liniennahverkehr nach
+        Art des Verkehrsmittels,
 
 
-    f)  im Fernverkehr mit Omnibussen nach Linien- und Gelegenheitsverkehr die
-        Zahl der Fahrgäste und die Beförderungsleistung nach
-        Hauptverkehrsverbindungen, die Fahrleistung und das
-        Beförderungsangebot nach In- und Ausland,
+    f)  im Verkehr mit Omnibussen nach Linienfernverkehr und
+        Gelegenheitsverkehr die Zahl der Fahrgäste und die
+        Beförderungsleistung nach Hauptverkehrsverbindungen, die Fahrleistung
+        und das Beförderungsangebot nach In- und Ausland,
 
 
-    g)  Zahl der Fahrgäste nach Art der Reisen im Gelegenheitsfernverkehr,
+    g)  Zahl der Fahrgäste nach Art der Reisen im Gelegenheitsverkehr,
 
 
     h)  Beförderungsleistung im Schienen- und Liniennahverkehr nach Ländern,
@@ -811,16 +814,16 @@ erfasst folgende Erhebungsmerkmale:
 1.  monatlich:
 
     a)  beförderte Güter (ohne kombinierten Verkehr) nach Menge,
-        Beförderungsleistung, Güterart und Kreis der Be- und Entladung,
+        Beförderungsleistung, Güterart und Stelle der Be- und Entladung,
 
 
     b)  beförderte Güter im kombinierten Verkehr nach Menge,
-        Beförderungsleistung, Art der Ladeeinheit und Kreis der Be- und
+        Beförderungsleistung, Art der Ladeeinheit und Stelle der Be- und
         Entladung,
 
 
     c)  beförderte Ladeeinheiten des kombinierten Verkehrs nach Anzahl, Art,
-        Ladezustand sowie Kreis der Be- und Entladung;
+        Ladezustand sowie Stelle der Be- und Entladung;
 
 
 

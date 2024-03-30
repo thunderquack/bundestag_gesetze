@@ -1200,8 +1200,8 @@ Mitglieder.
 Stimmrecht geschäftsunfähiger oder in der Geschäftsfähigkeit
 beschränkter natürlicher Personen sowie das Stimmrecht von
 juristischen Personen wird durch ihre gesetzlichen Vertreter, das
-Stimmrecht von Personenhandelsgesellschaften durch zur Vertretung
-ermächtigte Gesellschafter ausgeübt.
+Stimmrecht von rechtsfähigen Personengesellschaften durch deren
+vertretungsbefugte Gesellschafter ausgeübt.
 
 (5) Das Mitglied oder sein gesetzlicher Vertreter können
 Stimmvollmacht erteilen. Für die Vollmacht ist die schriftliche Form

@@ -238,9 +238,9 @@ Rechtsdienstleistungen innerhalb familiärer, nachbarschaftlicher oder
 
 ### § 10 Rechtsdienstleistungen aufgrund besonderer Sachkunde
 
-(1) Natürliche und juristische Personen sowie Gesellschaften ohne
-Rechtspersönlichkeit, die bei der zuständigen Behörde registriert sind
-(registrierte Personen), dürfen aufgrund besonderer Sachkunde
+(1) Natürliche und juristische Personen sowie rechtsfähige
+Personengesellschaften, die bei der zuständigen Behörde registriert
+sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde
 Rechtsdienstleistungen in folgenden Bereichen erbringen:
 
 1.  Inkassodienstleistungen (§ 2 Abs. 2 Satz 1),
@@ -397,7 +397,7 @@ Berufsqualifikation auch durch einen mindestens sechsmonatigen
 Anpassungslehrgang nachgewiesen werden. Das
 Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
-(4) Juristische Personen und Gesellschaften ohne Rechtspersönlichkeit
+(4) Juristische Personen und rechtsfähige Personengesellschaften
 müssen mindestens eine natürliche Person benennen, die alle nach
 Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt
 (qualifizierte Person). Die qualifizierte Person muss in dem
@@ -427,10 +427,10 @@ jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde
 richten. Das Registrierungsverfahren kann auch über eine einheitliche
 Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes
 abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1
-Nummer 1 Buchstabe a bis d in das Rechtsdienstleistungsregister
-einzutragenden Angaben enthalten muss, sind zur Prüfung der
-Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4
-beizubringen:
+Nummer 1 Buchstabe a bis d und Satz 2 in das
+Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss,
+sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2
+sowie Abs. 4 beizubringen:
 
 1.  eine zusammenfassende Darstellung des beruflichen Ausbildungsgangs und
     der bisherigen Berufsausübung,
@@ -881,8 +881,8 @@ landesrechtlicher Vorschriften,
     13b oder Pflichten nach § 13g verstößt,
 
 
-4.  wenn eine juristische Person oder eine Gesellschaft ohne
-    Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt
+4.  wenn eine juristische Person oder eine rechtsfähige
+    Personengesellschaft, die keine weitere qualifizierte Person benannt
     hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von
     sechs Monaten eine qualifizierte Person benennt.
 
@@ -912,8 +912,8 @@ die Behörde tritt, die den Abwickler bestellt hat.
 
 ### § 15 Vorübergehende Rechtsdienstleistungen
 
-(1) Natürliche und juristische Personen sowie Gesellschaften ohne
-Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der
+(1) Natürliche und juristische Personen sowie rechtsfähige
+Personengesellschaften, die in einem anderen Mitgliedstaat der
 Europäischen Union, in einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung
 eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines
@@ -937,8 +937,8 @@ Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das
 Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a
 bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die
 Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a
-bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden
-Angaben enthalten:
+bis c und Satz 2 im Rechtsdienstleistungsregister öffentlich
+bekanntzumachenden Angaben enthalten:
 
 1.  eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem
     Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat
@@ -1037,12 +1037,12 @@ regelmäßig erfüllt, wenn die Person oder Gesellschaft
 
 
 
-(7) Natürliche und juristische Personen sowie Gesellschaften ohne
-Rechtspersönlichkeit, die in einem in Absatz 1 Satz 1 genannten Staat
-zur Erbringung von Rechtsdienstleistungen in einem ausländischen Recht
-(§ 10 Absatz 1 Satz 1 Nummer 3) rechtmäßig niedergelassen sind, dürfen
-diese Rechtsdienstleistungen in der Bundesrepublik Deutschland mit
-denselben Befugnissen wie eine nach § 10 Absatz 1 Satz 1 Nummer 3
+(7) Natürliche und juristische Personen sowie rechtsfähige
+Personengesellschaften, die in einem in Absatz 1 Satz 1 genannten
+Staat zur Erbringung von Rechtsdienstleistungen in einem ausländischen
+Recht (§ 10 Absatz 1 Satz 1 Nummer 3) rechtmäßig niedergelassen sind,
+dürfen diese Rechtsdienstleistungen in der Bundesrepublik Deutschland
+mit denselben Befugnissen wie eine nach § 10 Absatz 1 Satz 1 Nummer 3
 registrierte Person vorübergehend und gelegentlich ausüben
 (vorübergehende Rechtsdienstleistungen). Absatz 1 Satz 2 und 3 sowie
 die Absätze 2 bis 6 gelten entsprechend.
@@ -1084,8 +1084,8 @@ zuständigen Behörde und des Datums der jeweiligen Registrierung nur
     a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma
         einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts
         und der Registernummer, unter der sie in das Handels-,
-        Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen
-        sind,
+        Genossenschafts-, Gesellschafts-, Partnerschafts-  oder
+        Vereinsregister eingetragen sind,
 
 
     b)  ihres Gründungsjahres,
@@ -1123,8 +1123,8 @@ zuständigen Behörde und des Datums der jeweiligen Registrierung nur
     a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma
         einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts
         und der Registernummer, unter der sie in das Handels-,
-        Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen
-        sind,
+        Genossenschafts-, Gesellschafts-, Partnerschafts-  oder
+        Vereinsregister eingetragen sind,
 
 
     b)  ihres Gründungsjahres,
@@ -1140,12 +1140,16 @@ zuständigen Behörde und des Datums der jeweiligen Registrierung nur
 
 
 
-Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der
-Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der
-registrierten Person veröffentlicht, wenn sie in die Veröffentlichung
-dieser Daten in Textform eingewilligt hat. Wird ein Abwickler
-bestellt, ist auch dies unter Angabe von Familienname, Vorname und
-Anschrift des Abwicklers zu veröffentlichen.
+Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 und 2, die sich
+auf eine nicht im Gesellschaftsregister eingetragene Gesellschaft
+bürgerlichen Rechts beziehen, sind anstelle des Registergerichts und
+der Registernummer Name und Anschrift ihrer vertretungsberechtigten
+Gesellschafter anzugeben. Bei öffentlichen Bekanntmachungen nach Satz
+1 Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer
+und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn
+sie in die Veröffentlichung dieser Daten in Textform eingewilligt hat.
+Wird ein Abwickler bestellt, ist auch dies unter Angabe von
+Familienname, Vorname und Anschrift des Abwicklers zu veröffentlichen.
 
 (3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und
 länderübergreifende Veröffentlichung im Internet unter der Adresse
@@ -1171,8 +1175,8 @@ Daten sind zu löschen
 2.  bei natürlichen Personen mit ihrem Tod,
 
 
-3.  bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit
-    mit ihrer Beendigung,
+3.  bei juristischen Personen und rechtsfähigen Personengesellschaften mit
+    ihrer Beendigung,
 
 
 4.  bei Personen, deren Registrierung zurückgenommen oder widerrufen

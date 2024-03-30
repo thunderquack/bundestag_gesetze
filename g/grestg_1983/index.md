@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.2.1997 I 418, 1804;
 
 Zuletzt geändert durch
-:   Art. 23 G v. 16.12.2022 I 2294
+:   Art. 30 G v. 22.12.2023 I Nr. 411
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
@@ -1429,7 +1429,14 @@ Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung
 geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
 
 
-### (XXXX) §§ 24 bis 27 (weggefallen)
+### § 24 Rechtsfähige Personengesellschaften
+
+Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der
+Abgabenordnung) gelten für Zwecke der Grunderwerbsteuer als Gesamthand
+und deren Vermögen als Gesamthandsvermögen.
+
+
+### (XXXX) §§ 25 bis 27 (weggefallen)
 
 
 

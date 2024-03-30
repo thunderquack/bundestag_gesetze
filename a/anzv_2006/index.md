@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 19.12.2022 I 2645
 
+Änderung durch
+:   Art. 18 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute
@@ -78,15 +81,16 @@ Kreditinstitute, die einem genossenschaftlichen Prüfungsverband
 angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und
 Giroverbandes geprüft werden, die nach dieser Verordnung zu
 erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der
-Anzeige nach § 24 Absatz 1a Nummer 4 bis 6 des Kreditwesengesetzes,
-über ihren Verband mit je einer weiteren, für diesen bestimmten
-Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen
-an die Bundesanstalt und die für das betroffene Institut zuständige
-Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung
-jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme,
-bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle,
-unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte
-Stellungnahme der Prüfungsstelle verzichten.
+Anzeige nach § 24 Absatz 1a Nummer 4 bis 6, Absatz 1c und 1d des
+Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für
+diesen bestimmten Ausfertigung einzureichen. Der Verband hat die
+Anzeigen und Unterlagen an die Bundesanstalt und die für das
+betroffene Institut zuständige Hauptverwaltung der Deutschen
+Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von
+Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit
+der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die
+Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle
+verzichten.
 
 (3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des §
 1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c
@@ -954,83 +958,112 @@ zu berücksichtigen sind Zweigstellen, die
 
 
 
-## § 9a Anzeigen nach § 24 Absatz 1a Nummer 5 und 6 des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
+## § 9a Anzeigen nach § 24 Absatz 1a Nummer 5 und 6, Absatz 1c und 1d des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
 
 (1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind
 von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c
 des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der
-Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 30.
+Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 15.
 Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres
-abgeschlossenen Geschäftsjahres mit den Formularen „Vergleich der
-Vergütungstrends und -praktiken“ nach den Anlagen 13 bis 15
-einzureichen. Satz 1 gilt für Institutsgruppen im Sinne des § 10a
-Absatz 1 Satz 1 des Kreditwesengesetzes und für nachgeordnete
-Unternehmen im Sinne des § 10a Absatz 1 Satz 3 des Kreditwesengesetzes
-mit der Maßgabe entsprechend, dass das übergeordnete Unternehmen mit
-Sitz im Inland die Angaben auf zusammengefasster oder
-teilkonsolidierter Basis einzureichen hat, sofern der Gruppe
-mindestens ein bedeutendes Institut im Sinne des § 1 Absatz 3c des
-Kreditwesengesetzes angehört. Für Finanzholding-Gruppen oder gemischte
-Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des
-Kreditwesengesetzes gilt Satz 2 entsprechend.
-
-(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes sind
-von CRR-Kreditinstituten jährlich bis zum 30. Juni nach dem Stand zu
-dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres
-mit dem Formular „Vergütung ab 1 Million Euro (VAM)“ nach Anlage 16
-oder mit dem Formular „REM HE“ nach Anlage 18 einzureichen. Verfügt
-ein Geschäftsleiter, Mitglied des Verwaltungs- oder Aufsichtsorgans
-oder Mitarbeiter nicht über eine Gesamtvergütung von mindestens einer
-Million Euro (Einkommensmillionär), so ist abweichend von Satz 1 das
-Formular „Fehlanzeige zur Anzeige der Vergütung ab 1 Million
-Euro(VAMFEHL)“ nach Anlage 17 einzureichen. Satz 2 gilt nicht für CRR-
-Kreditinstitute, die nicht bedeutend im Sinne des § 1 Absatz 3c des
-Kreditwesengesetzes sind und die das zweite Geschäftsjahr in Folge
-über keinen Einkommensmillionär verfügen. CRR-Kreditinstitute, bei
-denen die Europäische Zentralbank Aufsichtsbehörde ist, haben
-abweichend von den Sätzen 1 bis 3 jährlich bis zum 30. Juni nach dem
-Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen
-Geschäftsjahres das Formular „REM HE“ nach Anlage 18 einzureichen. Die
-Sätze 1 bis 4 finden auf CRR-Kreditinstitute, deren übergeordnetes
-Unternehmen seinen Sitz in einem anderen Staat innerhalb des
-Europäischen Wirtschaftsraums hat, keine Anwendung. Die Sätze 1 bis 4
-gelten für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
+abgeschlossenen Geschäftsjahres mit den Formularen „R 01.00”, „R
+02\.00”, „R 03.00”, „R 05.00”, „R 09.00”, „R 10.00”, „R 11.00”, „R
+12\.00.a” und „R 12.00.b” nach den Anlagen 13 bis 21 einzureichen. Satz
+1 gilt für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
 Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des §
 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe
-entsprechend, dass das übergeordnete Unternehmen die Angaben für alle
+entsprechend, dass das übergeordnete Unternehmen mit Sitz im Inland
+die Angaben auf zusammengefasster oder teilkonsolidierter Basis
+einzureichen hat, sofern der Gruppe mindestens ein bedeutendes
+Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört.
+Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im
+Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 2
+entsprechend.
+
+(2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes über
+Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und
+Mitarbeiter mit jeweils einer Gesamtvergütung von jährlich mindestens
+1 Million Euro (Einkommensmillionäre) sind von CRR-Kreditinstituten
+jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember
+des Vorjahres abgeschlossenen Geschäftsjahres mit den Formularen „R
+04\.00.a“, „R 04.00.b“, „R 04.00.c“ nach den Anlagen 22 bis 24
+einzureichen. CRR-Kreditinstitute, deren übergeordnetes Unternehmen
+seinen Sitz in einem anderen Staat innerhalb des Europäischen
+Wirtschaftsraums hat, haben die Anzeige nicht einzureichen. Satz 1
+gilt für Institutsgruppen nach § 10a Absatz 1 Satz 1 des
+Kreditwesengesetzes und für nachgeordnete Unternehmen nach § 10a
+Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe entsprechend,
+dass das übergeordnete Unternehmen die Angaben für alle
 gruppenangehörigen Institute mit Sitz innerhalb des Europäischen
 Wirtschaftsraums einzureichen hat. Für Finanzholding-Gruppen oder
-gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des
-Kreditwesengesetzes gilt Satz 6 entsprechend. Die Anzeige nach Satz 1
-oder 4 erfolgt separat aggregiert zum einen für Einkommensbänder von
-jeweils einer Million Euro und zum anderen für jeden Mitgliedsstaat
-des Europäischen Wirtschaftsraums, in dem mindestens ein
+gemischte Finanzholding-Gruppen nach § 10a Absatz 2 Satz 1 des
+Kreditwesengesetzes gilt Satz 3 entsprechend. Die Anzeige der
+Informationen über die Einkommensmillionäre erfolgt aggregiert für
+Vergütungsstufen von jeweils 1 Million Euro separat für jeden
+Vertragsstaat des Europäischen Wirtschaftsraums, in dem mindestens ein
 Einkommensmillionär tätig ist. Einkommensmillionäre, die eine
-berufliche Tätigkeit in unterschiedlichen Mitgliedsstaaten des
-Europäischen Wirtschaftsraums ausüben, sind dem Mitgliedsstaat
+berufliche Tätigkeit in unterschiedlichen Vertragsstaaten des
+Europäischen Wirtschaftsraums ausüben, sind dem Vertragsstaat
 zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich
 ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl
 innerhalb als auch außerhalb des Europäischen Wirtschaftsraums
-ausüben, sind einem Mitgliedsstaat nach Satz 9 zuzuordnen, sofern sie
+ausüben, sind einem Vertragsstaat nach Satz 6 zuzuordnen, sofern sie
 ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen
 Wirtschaftsraums ausüben.
 
-(3) Die Anzeigen nach Absatz 1 und 2 sind im elektronischen Verfahren
-bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank
-veröffentlicht im Internet die für die Einreichung zu verwendenden
-Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die
-Aufsichtsbehörden weiter. Den Angaben nach Absatz 1 und 2 sind die
-Begriffsbestimmungen und Regelungen des Kreditwesengesetzes und der
-Institutsvergütungsverordnung zugrunde zu legen. Sie müssen sich
-jeweils auf die fixe und die variable Vergütung beziehen, die den
+(3) Anzeigen nach § 24 Absatz 1c des Kreditwesengesetzes sind von CRR-
+Kreditinstituten, die über einen Beschluss über die Billigung eines
+höheren Höchstwerts für die variable Vergütung nach § 25a Absatz 5
+Satz 5 des Kreditwesengesetzes verfügen, der Aufsichtsbehörde und der
+Deutschen Bundesbank zweijährlich bis zum 15. Juni nach dem Stand zu
+dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres
+mit dem Formular „R 07.00“ nach der Anlage 25 einzureichen. Die
+Anzeige erfolgt auf Einzelinstitutsebene.
+
+(4) Anzeigen nach § 24 Absatz 1d des Kreditwesengesetzes zum
+geschlechtsspezifischen Lohngefälle sind von CRR-Kreditinstituten, die
+bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind oder
+die von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu
+aufgefordert wurden, der Aufsichtsbehörde und der Deutschen Bundesbank
+dreijährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31.
+Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den
+Formularen „R 06.00.a“ und „R 06.00.b“ nach den Anlagen 26 und 27
+einzureichen. In Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1
+des Kreditwesengesetzes sind dabei die Angaben zum Lohngefälle des
+übergeordneten Unternehmens zugrunde zu legen. In Finanzholding-
+Gruppen oder gemischten Finanzholding-Gruppen im Sinne des § 10a
+Absatz 2 Satz 1 des Kreditwesengesetzes sind der Anzeige die Angaben
+zum Lohngefälle des gruppenangehörigen CRR-Kreditinstituts mit der zum
+Meldestichtag höchsten Anzahl an Mitarbeitern, gemessen als
+Vollzeitäquivalent, zugrunde zu legen. Die Sätze 1 bis 3 gelten nicht
+für CRR-Kreditinstitute mit weniger als 50 Mitarbeitern unter
+Einbeziehung der Mitglieder der Geschäftsleitung. Die Anzeige erfolgt
+auf Einzelinstitutsebene für die im Inland tätigen Mitarbeiter und
+Geschäftsleiter.
+
+(5) Die Anzeigen nach den Absätzen 1 bis 4 sind im elektronischen
+Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche
+Bundesbank veröffentlicht im Internet die für die Einreichung zu
+verwendenden Datenformate und den Einreichungsweg. Sie leitet die
+Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach den
+Absätzen 1 bis 4 sind die Begriffsbestimmungen und Regelungen des
+Kreditwesengesetzes und der Institutsvergütungsverordnung zugrunde zu
+legen. Die Angaben nach den Absätzen 1 bis 3 müssen sich jeweils auf
+die fixe und die variable Vergütung beziehen, die den
 Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans
 oder den Mitarbeitern für deren Leistung während des bis zum 31.
 Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der
 Einreichung der Anzeige gewährt worden ist oder nach § 20 Absatz 4
-Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Bei
-Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für
-Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen,
-für das die Anzeige erfolgt.
+Nummer 2 der Institutsvergütungsverordnung ermittelt worden ist. Die
+Angaben nach Absatz 4 müssen sich auf die Gesamtjahresvergütung
+beziehen, die den Geschäftsleitern und Mitarbeitern für deren Leistung
+während des bis zum 31. Dezember des Vorjahres abgeschlossenen
+Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist;
+dabei sind reguläre Beiträge des Arbeitgebers zur Sozialversicherung
+und zur Arbeitsförderung, garantierte variable Vergütungen und
+Abfindungen außen vor zu lassen. Bei Fremdwährungen ist der
+Umrechnungskurs der Europäischen Kommission für Finanzplanung und
+Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige
+erfolgt.
 
 
 ## § 10 Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
@@ -7900,38 +7933,92 @@ Mandatsbeschränkungen**
 [^f804292_04_04_BJNR324500006BJNE003901130]:     Nur bei Aufnahme einer Tätigkeit auszufüllen.
 [^f804292_04_05_BJNR324500006BJNE003901130]: 
 
-## Anlage 13 (zu § 9a Absatz 1 Satz 1 AnzV)
+## Anlage 13
 
-(Fundstelle: BGBl. I 2022, 2075)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 68)
 
+![bgbl1_2023_j04110_0010.jpg](bgbl1_2023_j04110_0010.jpg)
 
+## Anlage 14
 
-## Anlage 14 (zu § 9a Absatz 1 Satz 1 AnzV)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 69)
 
-(Fundstelle: BGBl. I 2022, 2076 - 2078)
+![bgbl1_2023_j04110_0020.jpg](bgbl1_2023_j04110_0020.jpg)
 
+## Anlage 15
 
+(Fundstelle: BGBl 2023 I Nr. 411, S. 70)
 
-## Anlage 15 (zu § 9a Absatz 1 Satz 1 AnzV)
+![bgbl1_2023_j04110_0030.jpg](bgbl1_2023_j04110_0030.jpg)
 
-(Fundstelle: BGBl. I 2022, 2079)
+## Anlage 16
 
+(Fundstelle: BGBl 2023 I Nr. 411, S. 71)
 
+![bgbl1_2023_j04110_0040.jpg](bgbl1_2023_j04110_0040.jpg)
 
-## Anlage 16 (zu § 9a Absatz 2 Satz 1 AnzV)
+## Anlage 17
 
-(Fundstelle: BGBl. I 2022, 2080 - 2081)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 72)
 
+![bgbl1_2023_j04110_0050.jpg](bgbl1_2023_j04110_0050.jpg)
 
+## Anlage 18
 
-## Anlage 17 (zu § 9a Absatz 2 Satz 2 AnzV)
+(Fundstelle: BGBl 2023 I Nr. 411, S. 73)
 
-(Fundstelle: BGBl. I 2022, 2082)
+![bgbl1_2023_j04110_0060.jpg](bgbl1_2023_j04110_0060.jpg)
 
+## Anlage 19
 
+(Fundstelle: BGBl 2023 I Nr. 411, S. 74)
 
-## Anlage 18 (zu § 9a Absatz 2 Sätze 1 und 4 AnzV)
+![bgbl1_2023_j04110_0070.jpg](bgbl1_2023_j04110_0070.jpg)
 
-(Fundstelle: BGBl. I 2022, 2083 - 2086)
+## Anlage 20
 
+(Fundstelle: BGBl 2023 I Nr. 411, S. 75)
 
+![bgbl1_2023_j04110_0080.jpg](bgbl1_2023_j04110_0080.jpg)
+
+## Anlage 21
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 76)
+
+![bgbl1_2023_j04110_0090.jpg](bgbl1_2023_j04110_0090.jpg)
+
+## Anlage 22
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 77)
+
+![bgbl1_2023_j04110_0100.jpg](bgbl1_2023_j04110_0100.jpg)
+
+## Anlage 23
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 78)
+
+![bgbl1_2023_j04110_0110.jpg](bgbl1_2023_j04110_0110.jpg)
+
+## Anlage 24
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 79)
+
+![bgbl1_2023_j04110_0120.jpg](bgbl1_2023_j04110_0120.jpg)
+
+## Anlage 25
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 80)
+
+![bgbl1_2023_j04110_0130.jpg](bgbl1_2023_j04110_0130.jpg)
+
+## Anlage 26
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 81)
+
+![bgbl1_2023_j04110_0140.jpg](bgbl1_2023_j04110_0140.jpg)
+
+## Anlage 27
+
+(Fundstelle: BGBl 2023 I Nr. 411, S. 82)
+
+![bgbl1_2023_j04110_0150.jpg](bgbl1_2023_j04110_0150.jpg)

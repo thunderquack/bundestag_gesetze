@@ -2927,6 +2927,16 @@ veröffentlichen.
 (3a) Das Bundesinstitut für Berufsbildung nimmt die Aufgaben nach § 53
 Absatz 5 Satz 1 und § 54 des Pflegeberufegesetzes wahr.
 
+(3b) Das Bundesinstitut für Berufsbildung nimmt die Aufgaben nach §
+20a Absatz 4 Satz 5 des Aufenthaltsgesetzes und nach § 6 Absatz 1 Satz
+5 der Verordnung über die Beschäftigung von Ausländerinnen und
+Ausländern wahr. Dabei hat das Bundesinstitut für Berufsbildung zu
+prüfen, ob die Ausbildung die Anforderungen des Berufsbildungsgesetzes
+erfüllt und zum Erwerb der beruflichen Handlungsfähigkeit geeignet
+ist. Das Bundesinstitut für Berufsbildung veröffentlicht auf seiner
+Internetseite regelmäßig eine Liste der Ausbildungen, für die eine
+entsprechende Bestätigung erteilt wurde.
+
 (4) Das Bundesinstitut für Berufsbildung kann mit Zustimmung des
 Bundesministeriums für Bildung und Forschung mit Stellen außerhalb der
 Bundesverwaltung Verträge zur Übernahme weiterer Aufgaben schließen.
@@ -3141,7 +3151,9 @@ der Zuschüsse des Bundes regelt das Haushaltsgesetz.
 
 (2) Die Ausgaben zur Durchführung von Aufträgen nach § 90 Absatz 2
 Satz 3 und von Aufgaben nach § 90 Absatz 3 Nummer 1 Buchstabe f werden
-durch das beauftragende Bundesministerium gedeckt. Die Ausgaben zur
+durch das beauftragende Bundesministerium gedeckt. Die Ausgaben für
+die Bestätigung nach § 90 Absatz 3b sind durch die Stelle zu decken,
+die den entsprechenden Berufsabschluss erteilt. Die Ausgaben zur
 Durchführung von Verträgen nach § 90 Absatz 4 sind durch den
 Vertragspartner zu decken.
 

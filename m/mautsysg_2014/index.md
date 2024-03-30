@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1980
 
 Zuletzt geändert durch
-:   Art. 34 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 4 G v. 21.11.2023 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 21.11.2023 I Nr. 315
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2004/52/EG des
 Europäischen Parlaments und des Rates vom 29. April 2004 über die

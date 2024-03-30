@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 12 V v. 20.7.2023 I Nr. 199
+:   Art. 1 V v. 24.1.2024 I Nr. 25
 
 
 ## Eingangsformel
@@ -589,7 +589,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
     *   einer Erprobungsgenehmigung für automatisierte Fahrfunktionen
         nach Personal- und Sachaufwand je Stunde und Person
 
-    *   49,00 bis 129,00
+    *   49,00 bis  129,00
 
 
 *    *   113
@@ -1632,7 +1632,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001135123]
+[^F1.774775_01_BJNR009800011BJNE001304123]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -2181,7 +2181,8 @@ Gebühren der Behörden im Landesbereich
     *
     *   Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen
         Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne
-        Halterwechsel
+        Halterwechsel. Diese Gebühr erhöht sich für einen Plakettenträger für
+        Prüfplaketten um 0,30 Euro.
 
     *   12,10
 
@@ -3238,7 +3239,7 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   – an eine juristische Person oder Personengesellschaft
+    *   – an eine juristische Person oder rechtsfähige Personengesellschaft
 
     *   153,00
 
@@ -3744,7 +3745,8 @@ Gebühren der Behörden im Landesbereich
 *    *
     *   **H.**
 
-    *   Autonome-Fahrzeuge-Genehmigungs- und-Betriebs-Verordnung (AFGBV) ****
+    *   Autonome-Fahrzeuge-Genehmigungs-
+        und-Betriebs-Verordnung (AFGBV) ****
 
     *
 
@@ -3780,7 +3782,7 @@ Gebühren der Behörden im Landesbereich
         eines genehmigten festgelegten Betriebsbereichs
         nach Personal- und Sachaufwand je Stunde und Person
 
-    *   49,00 bis 129,00
+    *   49,00 bis 129,00
 
 
 
@@ -3827,7 +3829,7 @@ Fahrzeugteileverordnung
     *
     *   für eine Fahrerlaubnis aller Klassen, je
 
-    *   10,00
+    *   11,10
 
 
 *    *
@@ -3842,7 +3844,7 @@ Fahrzeugteileverordnung
     *
     *   nach § 5 FeV (Mofa 25)
 
-    *   4,10
+    *   4,60
 
 
 *    *   401.3
@@ -3856,14 +3858,14 @@ Fahrzeugteileverordnung
     *
     *   – Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25)
 
-    *   7,00
+    *   7,80
 
 
 *    *
     *
     *   – Prüfung am PC
 
-    *   8,90
+    *   9,90
 
 
 *    *
@@ -3907,7 +3909,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A, A2 oder A1
 
-    *   123,16
+    *   136,70
 
 
 *    *   402.1a
@@ -3916,7 +3918,7 @@ Fahrzeugteileverordnung
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge
         der Stufenregelung nach § 15 Absatz 3 und 4 FeV
 
-    *   106,83
+    *   118,60
 
 
 *    *   402.2
@@ -3931,7 +3933,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE
 
-    *   98,26
+    *   109,10
 
 
 *    *   402.4
@@ -3939,7 +3941,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE
 
-    *   148,16
+    *   164,50
 
 
 *    *   402.5
@@ -3951,7 +3953,7 @@ Fahrzeugteileverordnung
         Technischen Hilfswerks und sonstiger Einheiten des
         Katastrophenschutzes
 
-    *   148,16
+    *   164,50
 
 
 *    *   402.6
@@ -3959,7 +3961,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1
 
-    *   148,16
+    *   164,50
 
 
 *    *   402.7
@@ -3967,7 +3969,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E
 
-    *   141,16
+    *   156,70
 
 
 *    *   402.8
@@ -3975,7 +3977,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse AM
 
-    *   98,26
+    *   109,10
 
 
 *    *   402.9
@@ -3983,7 +3985,7 @@ Fahrzeugteileverordnung
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse T
 
-    *   123,16
+    *   136,70
 
 
 *    *   403
@@ -4547,56 +4549,43 @@ Fahrzeugteileverordnung
 
 
 *    *
-    *
     *   Begutachtung nach §§ 21 und 23 StVZO
-[^F796317_01_BJNR009800011BJNE001135123]
+[^F828785_01_BJNR009800011BJNE001304123]
         oder § 13 EG-FGV
 
-    *
     *
     *
 
 *    *   Komplettfahrzeug
 
-    *   Gutachten nach § 21 StVZO
-        nach
-        technischen Änderungen
-        (§ 19
+    *   Gutachten nach § 21 StVZO nach technischen Änderungen (§ 19
         Absatz 2 StVZO)
 
-    *   Änderungsabnahme
-        nach § 19 Absatz 3 StVZO
-        1
+    *   Änderungsabnahme nach § 19 Absatz 3 StVZO
 
-    *   Hauptuntersuchung (HU)
-[^F796317_03_BJNR009800011BJNE001135123]
-        nach § 29 StVZO
-[^F796317_04_BJNR009800011BJNE001135123]
+    *   Hauptuntersuchung (HU) nach
+        § 29 StVZO
+[^F828785_03_BJNR009800011BJNE001304123]
+[^F828785_04_BJNR009800011BJNE001304123]
         ,
-[^F796317_05_BJNR009800011BJNE001135123]
+[^F828785_05_BJNR009800011BJNE001304123]
         ,
-[^F796317_06_BJNR009800011BJNE001135123]
+[^F828785_06_BJNR009800011BJNE001304123]
         ,
-[^F796317_07_BJNR009800011BJNE001135123]
+[^F828785_07_BJNR009800011BJNE001304123]
         ,
-[^F796317_08_BJNR009800011BJNE001135123]
+[^F828785_08_BJNR009800011BJNE001304123]
         ,
 
-    *   Sicherheitsprüfung
-        (SP)
-        nach § 29 StVZO
-        5
+    *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *   Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV
-        und GA
-[^F796317_02_BJNR009800011BJNE001135123]
-        nach § 23 StVZO
-        , 6
+*    *[^F828785_02_BJNR009800011BJNE001304123]
+   Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
+        StVZO
+        ,
 
-    *   Gutachten nach § 21 StVZO
-        auf Grund § 14 Absatz 2 Satz 4
-        6
+    *   Gutachten nach § 21 StVZO auf Grund § 16 Absatz 2 Satz 6 FZV
 
 
 *    *   1
@@ -4630,15 +4619,13 @@ Fahrzeugteileverordnung
     *   Kleinkrafträder, Fahrräder mit Hilfsmotor, leichte vierrädrige
         Kraftfahrzeuge, Krankenfahrstühle
 
-    *   49,70
+    *   55,70
 
-    *   31,10
+    *   34,80
 
-    *   17,00 bis
-        28,40
+    *   19,00 bis 31,80
 
-    *   12,80 bis
-        23,00
+    *   14,30 bis 25,80
 
     *   –
 
@@ -4649,18 +4636,15 @@ Fahrzeugteileverordnung
 
     *   Anhänger ohne Bremsanlage
 
-    *   49,70
+    *   55,70
 
-    *   31,10
+    *   34,80
 
-    *   17,00 bis
-        28,40
+    *   19,00 bis 31,80
 
-    *   12,80 bis
-        23,00
+    *   14,30 bis 25,80
 
-    *   12,60 bis
-        23,30
+    *   14,10 bis 26,10
 
     *   –
 
@@ -4669,26 +4653,22 @@ Fahrzeugteileverordnung
 
     *   Krafträder
 
-    *   58,00
+    *   65,00
 
-    *   37,00
+    *   41,40
 
-    *   19,20 bis
-        35,30
+    *   21,50 bis 39,50
 
-    *   15,70 bis
-        29,30
+    *   17,60 bis 32,80
 
-    *   22,70 bis
-        34,20
+    *   25,40 bis 38,30
 
     *   –
 
 
 *    *   413.4
 
-    *   Kraftfahrzeuge oder
-        Anhänger                      mit einer zulässigen Gesamtmasse ...
+    *   Kraftfahrzeuge oder Anhänger mit einer zulässigen Gesamtmasse ...
 
     *
     *
@@ -4699,141 +4679,114 @@ Fahrzeugteileverordnung
 
 *    *   413.4.1
 
-    *   ... von nicht mehr als
-        3,5 t, soweit nicht unter den Nummern 413.1
-        bis 413.3 genannt
+    *   ... von nicht mehr als 3,5 t, soweit nicht unter den Nummern 413.1 bis
+        413\.3 genannt
 
-    *   87,40
+    *   97,90
 
-    *   57,10
+    *   64,00
 
-    *   29,20 bis
-        49,40
+    *   32,70 bis 55,30
 
-    *   22,20 bis
-        42,90
+    *   24,90 bis 48,00
 
-    *   29,40 bis
-        46,10
+    *   32,90 bis 51,60
 
-    *   24,40 bis
-        29,80
+    *   27,30 bis 33,40
 
 
 *    *   413.4.2
 
-    *   ... von nicht mehr als
-        7,5 t, soweit nicht unter den Nummern 413.1
-        bis 413.4.1 genannt
+    *   ... von nicht mehr als 7,5 t, soweit nicht unter den Nummern 413.1 bis
+        413\.4.1 genannt
 
-    *   95,50
+    *   107,00
 
-    *   70,70
+    *   79,20
 
-    *   37,60 bis
-        66,40
+    *   42,10 bis 74,40
 
-    *   26,30 bis
-        52,20
+    *   29,50 bis 58,50
 
-    *   50,00 bis
-        63,40
+    *   56,00 bis 71,00
 
-    *   43,40 bis
-        54,20
+    *   48,60 bis 60,70
 
 
 *    *   413.4.3
 
-    *   ... von nicht mehr als
-        12 t, soweit nicht unter den Nummern 413.1
-        bis 413.4.2 genannt
+    *   ... von nicht mehr als 12 t, soweit nicht unter den Nummern 413.1 bis
+        413\.4.2 genannt
 
-    *   108,00
+    *   121,00
 
-    *   83,10
+    *   93,10
 
-    *   43,30 bis
-        69,30
+    *   48,50 bis 77,60
 
-    *   26,30 bis
-        52,20
+    *   29,50 bis 58,50
 
-    *   63,00 bis
-        79,60
+    *   70,60 bis 89,20
 
-    *   48,80 bis
-        62,30
+    *   54,70 bis 69,80
 
 
 *    *   413.4.4
 
-    *   ... von nicht mehr als
-        18 t, soweit nicht unter den Nummern 413.1
-        bis 413.4.3 genannt
+    *   ... von nicht mehr als 18 t, soweit nicht unter den Nummern 413.1 bis
+        413\.4.3 genannt
 
-    *   120,00
+    *   134,40
 
-    *   89,40
+    *   100,10
 
-    *   46,20 bis
-        72,10
+    *   51,70 bis 80,80
 
-    *   26,30 bis
-        52,20
+    *   29,50 bis 58,50
 
-    *   68,40 bis
-        87,70
+    *   76,60 bis 98,20
 
-    *   54,20 bis
-        67,70
+    *   60,70 bis 75,80
 
 
 *    *   413.4.5
 
-    *   ... von nicht mehr als
-        32 t, soweit nicht unter den Nummern 413.1
-        bis 413.4.4 genannt
+    *   ... von nicht mehr als 32 t, soweit nicht unter den Nummern 413.1 bis
+        413\.4.4 genannt
 
-    *   138,00
+    *   154,60
 
-    *   95,50
+    *   107,00
 
-    *   49,00 bis
-        74,90
+    *   54,90 bis 83,90
 
-    *   26,30 bis
-        52,20
+    *   29,50 bis 58,50
 
-    *   76,50 bis
-        95,80
+    *   85,70 bis 107,30
 
-    *   59,60 bis
-        75,90
+    *   66,80 bis 85,00
 
 
 *    *   413.4.6
 
-    *   ... über 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.5
-        genannt
+    *   ... über 32 t, soweit
+        nicht unter den Nummern 413.1 bis 413.4.5 genannt
 
-    *   157,00
+    *   175,80
 
-    *   102,00
+    *   114,20
 
-    *   51,80 bis
-        77,80
+    *   58,00 bis 87,10
 
-    *   26,30 bis
-        52,20
+    *   29,50 bis 58,50
 
-    *   90,10 bis
-        112,00
+    *   100,90 bis 125,40
 
-    *   73,10 bis
-        92,10
+    *   81,90 bis 103,20
 
 
+
+_\_\__\_\__\_\__\_\__\_\_
 
 
 *    *   Gebühren-
@@ -4873,7 +4826,7 @@ Fahrzeugteileverordnung
     *
     *   Abgasuntersuchungen mit Abgasmessung am Auspuffendrohr
 
-    *   21,20 bis 98,00
+    *   23,70 bis 109,80
 
 
 *    *   413.5.1.2
@@ -4881,7 +4834,7 @@ Fahrzeugteileverordnung
     *
     *   Abgasuntersuchungen ohne Abgasmessung am Auspuffendrohr
 
-    *   11,95 bis 55,20
+    *   13,40 bis 61,80
 
 
 *    *   413.5.2
@@ -4889,7 +4842,7 @@ Fahrzeugteileverordnung
     *
     *   Krafträder
 
-    *   8,20 bis 24,50
+    *   9,20 bis 27,40
 
 
 *    *   413.6
@@ -4908,7 +4861,7 @@ Fahrzeugteileverordnung
         Kraftfahrzeugwerkstatt wird zur Gebühr nach den Nummern 413.3 und
         413\.4 folgende zusätzliche Gebühr erhoben
 
-    *   22,00
+    *   24,60
 
 
 *    *   413.6.2
@@ -4916,7 +4869,7 @@ Fahrzeugteileverordnung
     *
     *   Gassystemeinbauprüfung nach § 41a Absatz 5 StVZO
 
-    *   110,00
+    *   123,20
 
 
 *    *   413.6.3
@@ -4924,7 +4877,7 @@ Fahrzeugteileverordnung
     *
     *   Gasanlagenprüfung ohne Hauptuntersuchung
 
-    *   28,00
+    *   31,40
 
 
 *    *   414
@@ -4932,7 +4885,7 @@ Fahrzeugteileverordnung
     *
     *   Nachprüfung einzelner Fahrzeuge im Sinne der Nummern 413.1 bis 413.6
 
-    *   1,50 Euro bis
+    *   1,70 Euro bis
         2                     /
         3                      der
         Gebühr nach den Num-mern 413.1 bis 413.6.3
@@ -4957,7 +4910,7 @@ Fahrzeugteileverordnung
     *
     *   Kraftomnibusse
 
-    *   13,50 bis 30,30
+    *   15,10 bis 33,90
 
 
 *    *   415.2
@@ -4965,7 +4918,7 @@ Fahrzeugteileverordnung
     *
     *   Taxen, Mietwagen
 
-    *   6,70 bis 15,20
+    *   7,50 bis 17,00
 
 
 *    *   415.3
@@ -4973,7 +4926,7 @@ Fahrzeugteileverordnung
     *
     *   Nachprüfungen
 
-    *   4,50 Euro bis
+    *   5,00 Euro bis
         2                     /
         3                      der
         Gebühr nach Nummer 415.1
@@ -4995,7 +4948,7 @@ Fahrzeugteileverordnung
     *
     *   Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 StVZO
 
-    *   0,50
+    *   0,60
 
 
 *    *   417
@@ -5005,7 +4958,7 @@ Fahrzeugteileverordnung
         nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach
         Nummer 1.2.1.1 der Anlage VIII StVZO
 
-    *   3,00
+    *   3,40
 
 
 *    *   418
@@ -5126,7 +5079,7 @@ Fahrzeugteileverordnung
         Untersuchungen können Gebühren nach den Sätzen für vergleichbare
         Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder,
         soweit solche nicht bewertet sind, je angefangene Viertelstunde
-        mindestens 20,30 Euro und höchstens 27,00 Euro erhoben werden. Der
+        mindestens 22,70 Euro und höchstens 30,20 Euro erhoben werden. Der
         Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes
         berechnet.
 
@@ -5135,22 +5088,22 @@ Fahrzeugteileverordnung
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001135123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
-    EG- FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
+[^F1.774775_01_BJNR009800011BJNE001304123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+    EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F796317_01_BJNR009800011BJNE001135123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F828785_01_BJNR009800011BJNE001304123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F796317_02_BJNR009800011BJNE001135123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F828785_02_BJNR009800011BJNE001304123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
-    zuzüglich dem 0,6- Fachen der Gebühr für Sicherheitsprüfungen (Spalte
+    zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F796317_03_BJNR009800011BJNE001135123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F828785_03_BJNR009800011BJNE001304123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -5158,11 +5111,11 @@ Fahrzeugteileverordnung
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F796317_04_BJNR009800011BJNE001135123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F828785_04_BJNR009800011BJNE001304123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F796317_05_BJNR009800011BJNE001135123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F828785_05_BJNR009800011BJNE001304123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -5171,16 +5124,16 @@ Fahrzeugteileverordnung
     Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage
     VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der
     Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
-[^F796317_06_BJNR009800011BJNE001135123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F828785_06_BJNR009800011BJNE001304123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F796317_07_BJNR009800011BJNE001135123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F828785_07_BJNR009800011BJNE001304123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F796317_08_BJNR009800011BJNE001135123]: 
+[^F828785_08_BJNR009800011BJNE001304123]: 
 (zu Gebühren-Nummer 263.1.1)
 
 ## Anhang Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO

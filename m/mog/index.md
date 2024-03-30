@@ -1536,7 +1536,7 @@ Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
 mit Zustimmung des Bundesrates, soweit dies zur Durchführung von
 Regelungen im Sinne des § 1 Absatz 2 erforderlich ist,
 
-1.  Personen und nicht rechtsfähige Personenvereinigungen zu verpflichten,
+1.  Personen und sonstige Personenvereinigungen zu verpflichten,
     regelmäßig Aufzeichnungen über die angelieferten, verkauften oder in
     den oder aus dem Geltungsbereich dieses Gesetzes verbrachten Mengen an
     Marktordnungswaren und über die Preise zu machen sowie die Mengen und

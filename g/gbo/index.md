@@ -778,15 +778,16 @@ wird, entsprechend.
 
 ### § 32
 
-(1) Die im Handels-, Genossenschafts-, Partnerschafts- oder
-Vereinsregister eingetragenen Vertretungsberechtigungen,
+(1) Die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts-
+oder Vereinsregister eingetragenen Vertretungsberechtigungen,
 Sitzverlegungen, Firmen- oder Namensänderungen sowie das Bestehen
-juristischer Personen und Gesellschaften können durch eine
-Bescheinigung nach § 21 Absatz 1 der Bundesnotarordnung nachgewiesen
-werden. Dasselbe gilt für sonstige rechtserhebliche Umstände, die sich
-aus Eintragungen im Register ergeben, insbesondere für Umwandlungen.
-Der Nachweis kann auch durch einen amtlichen Registerausdruck oder
-eine beglaubigte Registerabschrift geführt werden.
+juristischer Personen und rechtsfähiger Personengesellschaften können
+durch eine Bescheinigung nach § 21 Absatz 1 der Bundesnotarordnung
+nachgewiesen werden. Dasselbe gilt für sonstige rechtserhebliche
+Umstände, die sich aus Eintragungen im Register ergeben, insbesondere
+für Umwandlungen. Der Nachweis kann auch durch einen amtlichen
+Registerausdruck oder eine beglaubigte Registerabschrift geführt
+werden.
 
 (2) Wird das Register elektronisch geführt, kann in den Fällen des
 Absatzes 1 Satz 1 der Nachweis auch durch die Bezugnahme auf das
@@ -1048,10 +1049,8 @@ soll die Eintragung in der Weise erfolgen, daß entweder die Anteile
 der Berechtigten in Bruchteilen angegeben werden oder das für die
 Gemeinschaft maßgebende Rechtsverhältnis bezeichnet wird.
 
-(2) Soll ein Recht für eine Gesellschaft bürgerlichen Rechts
-eingetragen werden, so sind auch deren Gesellschafter im Grundbuch
-einzutragen. Die für den Berechtigten geltenden Vorschriften gelten
-entsprechend für die Gesellschafter.
+(2) Für eine Gesellschaft bürgerlichen Rechts soll ein Recht nur
+eingetragen werden, wenn sie im Gesellschaftsregister eingetragen ist.
 
 
 ### § 48
@@ -1537,10 +1536,7 @@ die Verwaltung des Grundstücks zusteht, die Verpflichtung auferlegen,
 den Antrag auf Berichtigung des Grundbuchs zu stellen und die zur
 Berichtigung des Grundbuchs notwendigen Unterlagen zu beschaffen. Das
 Grundbuchamt soll diese Maßnahme zurückstellen, solange berechtigte
-Gründe vorliegen. Ist eine Gesellschaft bürgerlichen Rechts als
-Eigentümerin eingetragen, gelten die Sätze 1 und 2 entsprechend, wenn
-die Eintragung eines Gesellschafters gemäß § 47 Absatz 2 unrichtig
-geworden ist.
+Gründe vorliegen.
 
 
 #### § 82a

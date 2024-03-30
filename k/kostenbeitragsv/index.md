@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2907
 
-Geändert durch
-:   Art. 1 V v. 5.12.2013 I 4040
+Zuletzt geändert durch
+:   Art. 1 V v. 20.12.2023 I Nr. 396
 
 
 
@@ -33,8 +33,8 @@ Jugend:
 
 ## § 1 Festsetzung des Kostenbeitrags
 
-(1) Die Höhe des Kostenbeitrags, den Elternteile, Ehegatten oder
-Lebenspartner junger Menschen zu entrichten haben, richtet sich nach
+(1) Die Höhe des Kostenbeitrags, den Elternteile zu entrichten haben,
+richtet sich nach
 
 a)  der Einkommensgruppe in Spalte 1 der Anlage, der das nach § 93 des
     Achten Buches Sozialgesetzbuch zu ermittelnde Einkommen zuzuordnen
@@ -65,7 +65,8 @@ Kostenbeitrags aus Spalte 2. Wird sie für mehrere Personen zu den
 Kosten herangezogen, so ergibt sich die Höhe des Kostenbeitrags für
 die zweite Person aus Spalte 3, für die dritte Person aus Spalte 4. Ab
 der vierten vollstationär untergebrachten Person wird nur noch ein
-Kostenbeitrag nach Maßgabe von § 7 erhoben.
+Kostenbeitrag nach Maßgabe des § 94 Absatz 3 des Achten Buches
+Sozialgesetzbuch erhoben.
 
 
 ## § 3 Wahl der Beitragsstufe bei teilstationären Leistungen
@@ -92,8 +93,8 @@ nachkommt, so ist sie
 
 
 2.  bei einer Zuordnung des maßgeblichen Einkommens zu einer der
-    Einkommensgruppen 7 bis 18 je Unterhaltspflicht einer um eine Stufe
-    niedrigeren Einkommensgruppe zuzuordnen
+    Einkommensgruppen 7 bis 14 je Unterhaltspflicht gleichbleibend einer
+    um eine Stufe niedrigeren Einkommensgruppe zuzuordnen
 
 
 
@@ -113,9 +114,9 @@ Unterhaltspflichten regelmäßig nachkommt.
 ## § 5 Behandlung hoher Einkommen
 
 (1) Liegt das nach § 93 des Achten Buches Sozialgesetzbuch maßgebliche
-Einkommen eines Elternteils, Ehegatten oder Lebenspartners oberhalb
-der Einkommensgruppe 27 der Anlage, so ist der Kostenbeitrag nach den
-folgenden Grundsätzen zu errechnen.
+Einkommen eines Elternteils oberhalb der Einkommensgruppe 14 der
+Anlage, so ist der Kostenbeitrag nach den folgenden Grundsätzen zu
+errechnen.
 
 (2) Die Höhe des Kostenbeitrags für vollstationäre Leistungen beträgt
 
@@ -134,11 +135,8 @@ folgenden Grundsätzen zu errechnen.
 
 
 Ab der vierten vollstationär untergebrachten Person wird nur noch ein
-Kostenbeitrag nach Maßgabe von § 7 erhoben. Liegt das nach § 93 des
-Achten Buches Sozialgesetzbuch maßgebende Einkommen eines Elternteils,
-Ehegatten oder Lebenspartners oberhalb der Einkommensgruppe 27 der
-Anlage, so kann eine Heranziehung bis zur vollen Höhe der Kosten für
-stationäre Leistungen erfolgen.
+Kostenbeitrag nach Maßgabe des § 94 Absatz 3 des Achten Buches
+Sozialgesetzbuch erhoben.
 
 (3) Die Höhe des Kostenbeitrags für teilstationäre Leistungen beträgt
 5 Prozent des maßgeblichen Einkommens.
@@ -151,32 +149,13 @@ nicht überschreiten.
 
 Bei Leistungen für junge Volljährige ist ein kostenbeitragspflichtiger
 Elternteil höchstens zu einem Kostenbeitrag auf Grund der
-Einkommensgruppe 13 heranzuziehen. Der kostenbeitragspflichtige
+Einkommensgruppe 10 heranzuziehen. Der kostenbeitragspflichtige
 Elternteil ist bei einer Zuordnung des maßgeblichen Einkommens zu der
 Einkommensgruppe 2 oder 3 der Einkommensgruppe 1 zuzuordnen. Bei einer
 Zuordnung des maßgeblichen Einkommens zu der Einkommensgruppe 4 ist
 der kostenpflichtige Elternteil der Einkommensgruppe 2 zuzuordnen. Die
 Zuordnung nach den Sätzen 1 und 2 erfolgt nach Berücksichtigung der
 Zuordnung nach § 4 Absatz 1.
-
-
-## § 7 Einsatz des Kindergelds
-
-Ein Elternteil hat unabhängig von einer einkommensabhängigen
-Heranziehung nach den §§ 1 bis 6 einen Kostenbeitrag in Höhe des
-Kindergelds zu zahlen, wenn
-
-1.  vollstationäre Leistungen erbracht werden,
-
-
-2.  er Kindergeld für den jungen Menschen bezieht und
-
-
-3.  seine Heranziehung nicht nachrangig nach § 94 Absatz 1 Satz 3 und 4
-    des Achten Buches Sozialgesetzbuch ist.
-
-
-
 
 
 ## Schlussformel
@@ -186,7 +165,7 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage
 
-(Fundstelle: BGBl. I 2013, 4041)
+(Fundstelle: BGBl. 2023 I Nr. 396, S. 2)
 
 
 *    *   Maßgebliches
@@ -225,7 +204,8 @@ Der Bundesrat hat zugestimmt.
     *   Spalte 5
 
 
-*    *   Einkommensgruppe
+*    *   Einkommens-
+        gruppe
 
     *   Euro
 
@@ -240,7 +220,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   1
 
-    *   bis 1 100,99
+    *   bis 1 524,99
 
     *   0
 
@@ -253,340 +233,171 @@ Der Bundesrat hat zugestimmt.
 
 *    *   2
 
-    *   1 101,00 bis 1 200,99
+    *   1 525,00 bis 1 800,99
 
-    *   50
+    *   72
+
+    *   55
 
     *   0
 
-    *   0
-
-    *   40
+    *   68
 
 
 *    *   3
 
-    *   1 201,00 bis 1 300,99
+    *   1 801,00 bis 2 000,99
 
-    *   130
+    *   128
 
-    *   0
+    *   80
 
-    *   0
+    *   35
 
-    *   50
+    *   80
 
 
 *    *   4
 
-    *   1 301,00 bis 1 450,99
+    *   2 001,00 bis 2 200,99
 
-    *   210
+    *   216
 
-    *   30
+    *   100
 
-    *   0
+    *   45
 
-    *   60
+    *   90
 
 
 *    *   5
 
-    *   1 451,00 bis 1 600,99
+    *   2 201,00 bis 2 400,99
 
-    *   259
+    *   300
 
-    *   60
+    *   135
 
-    *   30
+    *   55
 
-    *   70
+    *   100
 
 
 *    *   6
 
-    *   1 601,00 bis 1 800,99
+    *   2 401,00 bis 2 700,99
 
-    *   289
+    *   374
 
-    *   85
+    *   170
 
-    *   40
+    *   75
 
-    *   85
+    *   110
 
 
 *    *   7
 
-    *   1 801,00 bis 2 000,99
+    *   2 701,00 bis 3 000,99
 
-    *   342
+    *   456
 
-    *   105
+    *   215
 
-    *   50
+    *   115
 
-    *   95
+    *   120
 
 
 *    *   8
 
-    *   2 001,00 bis 2 200,99
+    *   3 001,00 bis 3 300,99
 
-    *   378
+    *   540
 
-    *   140
+    *   270
 
-    *   60
+    *   160
 
-    *   105
+    *   135
 
 
 *    *   9
 
-    *   2 201,00 bis 2 400,99
+    *   3 301,00 bis 3 600,99
 
-    *   437
+    *   615
 
-    *   175
+    *   330
 
-    *   80
+    *   205
 
-    *   115
+    *   150
 
 
 *    *   10
 
-    *   2 401,00 bis 2 700,99
+    *   3 601,00 bis 3 900,99
 
-    *   510
+    *   693
 
-    *   220
+    *   405
 
-    *   120
+    *   255
 
-    *   130
+    *   165
 
 
 *    *   11
 
-    *   2 701,00 bis 3 000,99
+    *   3 901,00 bis 4 200,99
 
-    *   570
+    *   792
 
-    *   275
+    *   480
 
-    *   165
+    *   315
 
-    *   145
+    *   180
 
 
 *    *   12
 
-    *   3 001,00 bis 3 300,99
+    *   4 201,00 bis 4 600,99
 
-    *   630
+    *   897
 
-    *   335
+    *   555
 
-    *   210
+    *   375
 
-    *   160
+    *   195
 
 
 *    *   13
 
-    *   3 301,00 bis 3 600,99
+    *   4 601,00 bis 5 000,99
 
-    *   725
+    *   1 029
 
-    *   410
+    *   630
 
-    *   260
+    *   420
 
-    *   175
+    *   210
 
 
 *    *   14
 
-    *   3 601,00 bis 3 900,99
-
-    *   825
-
-    *   485
-
-    *   320
-
-    *   190
-
-
-*    *   15
-
-    *   3 901,00 bis 4 200,99
-
-    *   932
-
-    *   560
-
-    *   380
-
-    *   205
-
-
-*    *   16
-
-    *   4 201,00 bis 4 600,99
-
-    *   1 056
-
-    *   635
-
-    *   440
-
-    *   220
-
-
-*    *   17
-
-    *   4 601,00 bis 5 000,99
-
-    *   1 152
-
-    *   715
-
-    *   500
-
-    *   240
-
-
-*    *   18
-
     *   5 001,00 bis 5 500,99
 
-    *   1 313
+    *   1 141
 
-    *   790
+    *   690
 
-    *   555
+    *   460
 
-    *   265
-
-
-*    *   19
-
-    *   5 501,00 bis 6 000,99
-
-    *   1 438
-
-    *   865
-
-    *   605
-
-    *   290
-
-
-*    *   20
-
-    *   6 001,00 bis 6 500,99
-
-    *   1 563
-
-    *   940
-
-    *   658
-
-    *   315
-
-
-*    *   21
-
-    *   6 501,00 bis 7 000,99
-
-    *   1 688
-
-    *   1 015
-
-    *   710
-
-    *   340
-
-
-*    *   22
-
-    *   7 001,00 bis 7 500,99
-
-    *   1 813
-
-    *   1 090
-
-    *   763
-
-    *   365
-
-
-*    *   23
-
-    *   7 501,00 bis 8 000,99
-
-    *   1 938
-
-    *   1 165
-
-    *   815
-
-    *   390
-
-
-*    *   24
-
-    *   8 001,00 bis 8 500,99
-
-    *   2 063
-
-    *   1 240
-
-    *   868
-
-    *   415
-
-
-*    *   25
-
-    *   8 501,00 bis 9 000,99
-
-    *   2 188
-
-    *   1 315
-
-    *   920
-
-    *   440
-
-
-*    *   26
-
-    *   9 001,00 bis 9 500,99
-
-    *   2 313
-
-    *   1 390
-
-    *   973
-
-    *   465
-
-
-*    *   27
-
-    *   9 501,00 bis 10 000,99
-
-    *   2 438
-
-    *   1 465
-
-    *   1 025
-
-    *   490
+    *   230
 
 
 

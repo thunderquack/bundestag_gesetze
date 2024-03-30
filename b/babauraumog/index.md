@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2902
 
 Zuletzt geändert durch
-:   Art. 7 G v. 9.6.2021 I 1614
-
-Änderung durch
-:   Art. 1 G v. 19.12.2022 I 2507 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 19.12.2022 I 2507
 
 
 ## § 1 Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
@@ -107,7 +104,4 @@ Die Aufsicht über das Bundesamt für Bauwesen und Raumordnung wird
 durch das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 ausgeübt. Die Zuständigkeit des Bundesministeriums der Verteidigung
 für seine Bauangelegenheiten bleibt insoweit unberührt.
-
-
-## § 4 (weggefallen)
 

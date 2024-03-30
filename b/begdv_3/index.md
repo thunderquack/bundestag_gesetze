@@ -1039,7 +1039,11 @@ bürgerlichen Rechts gleichgestellten Kinder.
 
 4.  Rentenleistungen nach dem BEG für Schaden im wirtschaftlichen
     Fortkommen, sofern diese wegen des Todes des Verfolgten gezahlt
-    werden.
+    werden,
+
+
+5.  Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches
+    Sozialgesetzbuch.
 
 
 
@@ -1322,8 +1326,7 @@ Bundesentschädigungsgesetzes beträgt
 *    *   vom
         1\.8.2004
         bis
-        31\.5.2008
-        Euro
+        31\.5.2008 Euro
 
     *   vom
         1\.6.2008
@@ -2450,7 +2453,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 3.  Leistungen nach dem Bundesversorgungsgesetz,
 
 
-4.  Rentenleistungen nach BEG für Schaden im wirtschaftlichen Fortkommen.
+4.  Rentenleistungen nach BEG für Schaden im wirtschaftlichen Fortkommen,
+
+
+5.  laufende Zahlungen auf Grund des Vierzehnten Buches Sozialgesetzbuch.
 
 
 
@@ -3057,7 +3063,8 @@ Bundesentschädigungsgesetzes betragen für
         31\.8.2021
         Euro
 
-    *   ab 1.9.2021
+    *   ab
+        1\.9.2021
         Euro
 
 

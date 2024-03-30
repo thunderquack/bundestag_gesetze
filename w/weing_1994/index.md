@@ -2664,7 +2664,7 @@ im Verzuge auch alle Beamten der Polizei, befugt,
     Überwachung erforderlich ist, und
 
 
-5.  von natürlichen und juristischen Personen und nicht rechtsfähigen
+5.  von natürlichen und juristischen Personen und sonstigen
     Personenvereinigungen alle erforderlichen Auskünfte, insbesondere
     solche über den Umfang des Betriebes, die Verarbeitung, die zur
     Verarbeitung gelangenden Stoffe, deren Menge und Herkunft und über

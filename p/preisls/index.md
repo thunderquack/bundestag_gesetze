@@ -549,12 +549,12 @@ als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen
 sie angemessen sind, die mit dem Arbeitnehmer vereinbarten Löhne und
 Gehälter einzusetzen.
 
-(2) Bei Einzelkaufleuten und Personengesellschaften kann als Entgelt
-für die Arbeit der ohne feste Entlohnung tätigen Unternehmer ein
-kalkulatorischer Unternehmerlohn in der Kostenrechnung berücksichtigt
-werden. Auch für die ohne feste Entlohnung mitarbeitenden Angehörigen
-der Unternehmer kann ein ihrer Tätigkeit entsprechendes Entgelt
-kalkulatorisch verrechnet werden.
+(2) Bei Einzelkaufleuten und rechtsfähigen Personengesellschaften kann
+als Entgelt für die Arbeit der ohne feste Entlohnung tätigen
+Unternehmer ein kalkulatorischer Unternehmerlohn in der Kostenrechnung
+berücksichtigt werden. Auch für die ohne feste Entlohnung
+mitarbeitenden Angehörigen der Unternehmer kann ein ihrer Tätigkeit
+entsprechendes Entgelt kalkulatorisch verrechnet werden.
 
 (3) Der kalkulatorische Unternehmerlohn ist unabhängig von den
 tatsächlichen Entnahmen des Unternehmers in der Höhe des

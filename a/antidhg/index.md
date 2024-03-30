@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2000, 1270
 
 Zuletzt geändert durch
-:   Art. 2d G v. 14.12.2019 I 2768
+:   Art. 19 G v. 22.12.2023 I Nr. 408
+
+Mittelbare änderung durch
+:   Art. 14 Nr. 2 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -54,12 +57,12 @@ Hinterbliebenen eines nach Satz 1 Berechtigten.
 
 
 
-## § 2 Heil- und Krankenbehandlung
+## § 2 Krankenbehandlung
 
 Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die
-Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Heil-
-und Krankenbehandlung in entsprechender Anwendung der §§ 10 bis 24a
-des Bundesversorgungsgesetzes.
+Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen
+Krankenbehandlung in entsprechender Anwendung der §§ 41 bis 61 des
+Vierzehnten Buches Sozialgesetzbuch.
 
 
 ## § 3 Finanzielle Hilfe
@@ -78,7 +81,7 @@ von 50
 von 60
 815 Euro,
 von 70 und mehr
-1\.088 Euro.
+1 088 Euro.
 
 (3) Die Einmalzahlung nach Absatz 1 beträgt bei einem Grad der
 Schädigungsfolgen infolge der Hepatitis-C-Virus-Infektion
@@ -98,14 +101,11 @@ Leistungen nach Absatz 1. Ist ein Antrag nach § 7 erforderlich, wird
 die Einmalzahlung nur gewährt, wenn sie bis zum 31. Dezember 2000
 beantragt wurde.
 
-(4) Der Grad der Schädigungsfolgen bestimmt sich nach § 30 Abs. 1 und
-§ 31 Abs. 2 des Bundesversorgungsgesetzes. Die Voraussetzungen für die
+(4) Der Grad der Schädigungsfolgen bestimmt sich nach § 5 Absatz 1 des
+Vierzehnten Buches Sozialgesetzbuch. Die Voraussetzungen für die
 Gewährung der finanziellen Hilfe nach Absatz 1 werden unabhängig
 anderweitiger Anerkennungen über das Ausmaß der Schädigungsfolgen
-festgestellt. Sind Verfahren im Rahmen des Bundes-Seuchengesetzes in
-Verbindung mit dem Bundesversorgungsgesetz im Antrags-, Widerspruchs-
-oder Klageverfahren anhängig, so gilt für das vorliegende Gesetz deren
-rechtskräftiger Abschluss.
+festgestellt.
 
 
 ## § 4 Hilfe für Hinterbliebene
@@ -139,13 +139,10 @@ Vollendung des 27. Lebensjahres. Als Waisen gelten auch
 
 
 
-## § 5 Hilfe bei Wohnsitz im Ausland, Härteausgleich
+## § 5 Härteausgleich, Hilfe bei Wohnsitz im Ausland
 
-Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des
-Bundesversorgungsgesetzes sind entsprechend anzuwenden mit der
-Maßgabe, dass an die Stelle der Zustimmung des Bundesministeriums für
-Arbeit und Soziales die Zustimmung der zuständigen obersten
-Landesbehörde tritt.
+§ 100 und § 101 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ## § 6 Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit
@@ -175,10 +172,24 @@ frühestens mit dem auf den Sterbemonat folgenden Monat bei Hilfen nach
 Verkündung dieses Gesetzes beantragt, beginnt die Leistungsgewährung
 frühestens mit seinem Inkrafttreten.
 
-(2) Für die Zahlung der Hilfen nach den §§ 3 und 4 gilt § 66 des
-Bundesversorgungsgesetzes entsprechend.
+(2) Der Grad der Schädigungsfolgen Berechtigter darf nicht vor Ablauf
+von zwei Jahren nach Bekanntgabe des Feststellungsbescheids niedriger
+festgesetzt werden. Ist durch Krankenbehandlung eine wesentliche oder
+nachhaltige Besserung des schädigungsbedingten Gesundheitszustandes
+erreicht worden, so ist die niedrigere Festsetzung schon früher
+zulässig, jedoch frühestens nach Ablauf eines Jahres nach Abschluss
+dieser Behandlung.
 
-(3) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3
+(3) Die Versorgungsbezüge werden in Monatsbeträgen zuerkannt, auf
+volle Euro aufgerundet und monatlich im Voraus gezahlt. Das
+Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten
+Buches Sozialgesetzbuch und eine Beihilfe nach § 48 des Vierzehnten
+Buches Sozialgesetzbuch werden tageweise zuerkannt und mit Ablauf
+jeder Woche gezahlt. § 47 Absatz 1 des Ersten Buches Sozialgesetzbuch
+und § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gelten
+entsprechend.
+
+(4) Abweichend von Absatz 1 Satz 1 wird über die Hilfen nach den §§ 3
 und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach
 dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem
 Tatbestand des § 1 beruht.
@@ -221,10 +232,10 @@ sich die Renten der gesetzlichen Rentenversicherung verändern.
 
 ## § 9 Übergang gesetzlicher Schadensersatzansprüche
 
-(1) § 81a des Bundesversorgungsgesetzes gilt mit der Maßgabe, dass der
-gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das
-nach § 11 Abs. 1 für die Durchführung dieses Gesetzes jeweils
-zuständige Land übergeht.
+(1) § 120 des Vierzehnten Buches Sozialgesetzbuch gilt mit der
+Maßgabe, dass der gegen Dritte bestehende gesetzliche
+Schadensersatzanspruch auf das nach § 11 Abs. 1 für die Durchführung
+dieses Gesetzes jeweils zuständige Land übergeht.
 
 (2) Die eingezogenen Beträge führt das Land an den Bund und die in §
 10 Abs. 3 genannten Länder in dem Verhältnis ab, in dem diese sich an
@@ -241,8 +252,8 @@ gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
 (3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach §
 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§
-4 und 13 Abs. 1 vom Bund 50 vom Hundert und von den Ländern Baden-
-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
+4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern
+Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
 Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein
 12,4 vom Hundert der entstandenen Kosten erstattet. Das
 Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird
@@ -253,35 +264,38 @@ einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
 ## § 11 Zuständigkeit, Verfahren
 
 (1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für
-die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden
-des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem die Anti-
-D-Immunprophylaxe durchgeführt wurde. Die örtliche Zuständigkeit der
-Behörden bestimmt sich nach den für den Vollzug des
+die Durchführung des Vierzehnten Buches Sozialgesetzbuch zuständigen
+Behörden des Landes, zu dessen heutigem Gebiet der Ort gehört, an dem
+die Anti-D-Immunprophylaxe durchgeführt wurde. Die örtliche
+Zuständigkeit der Behörden bestimmt sich nach den für den Vollzug des
 Infektionsschutzgesetzes geltenden landesrechtlichen Regelungen.
 
-(2) Das Gesetz über das Verwaltungsverfahren der
-Kriegsopferversorgung, mit Ausnahme der §§ 3 und 4, das Erste und
-Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des
-Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden.
+(2) Das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften
+des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden. Die
+§§ 117, 118 und 119 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ## § 12 Rechtsweg
 
 Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
 Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
-gegeben. Soweit das Sozialgerichtsgesetz besondere Vorschriften für
-die Kriegsopferversorgung enthält, gelten diese auch für die
-Streitigkeiten nach Satz 1.
+gegeben.
 
 
-## § 13 Übergangsvorschriften
+## § 13 Besitzstände
 
 (1) Solange die Hilfen nach § 3 Abs. 2 und § 4 nicht die Höhe der beim
 Inkrafttreten dieses Gesetzes nach dem Bundes-Seuchengesetz gezahlten
 Leistungen erreichen, wird der jeweilige Differenzbetrag als
 Besitzstand weiter gezahlt.
 
-(2) Soweit Ansprüche auf Hilfen nach diesem Gesetz bestehen, ist
+(2) Geschädigte, deren Anspruch auf Heil- und Krankenbehandlung bis
+zum 31. Dezember 2023 nach diesem Gesetz bestandskräftig festgestellt
+worden ist, erhalten ab dem 1. Januar 2024 Leistungen nach § 143 des
+Vierzehnten Buches Sozialgesetzbuch.
+
+(3) Soweit Ansprüche auf Hilfen nach diesem Gesetz bestehen, ist
 Anlage I Kapitel X Sachgebiet D Abschnitt III Nummer 3 Buchstabe c des
 Einigungsvertrages nicht mehr anzuwenden. Nach dem Bundes-
 Seuchengesetz festgestellte Ansprüche erlöschen, soweit sie auf einem

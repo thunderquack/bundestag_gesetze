@@ -241,9 +241,8 @@ Im Sinne dieses Gesetzes
 
 
 
-Einer juristischen Person steht eine Personengesellschaft gleich, die
-mit der Fähigkeit ausgestattet ist, Rechte zu erwerben und
-Verbindlichkeiten einzugehen.
+Einer juristischen Person steht eine rechtsfähige Personengesellschaft
+gleich.
 
 
 ### § 2a Europäisches Sitzland
@@ -638,9 +637,9 @@ unmittelbar erreichbar und ständig verfügbar zu halten:
     Aufsichtsbehörde,
 
 
-4.  das Handelsregister, Vereinsregister, Partnerschaftsregister oder
-    Genossenschaftsregister, in das sie eingetragen sind, und die
-    entsprechende Registernummer,
+4.  das Handelsregister, Genossenschaftsregister, Gesellschaftsregister,
+    Partnerschaftsregister oder Vereinsregister, in das sie eingetragen
+    sind, und die entsprechende Registernummer,
 
 
 5.  soweit der Dienst in Ausübung eines Berufs im Sinne von Artikel 1

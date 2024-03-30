@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 20.7.2007 I 1518
 
+V aufgeh. durch
+:   § 16 Satz 2 V 806-22-1-157 v. 12.3.2024 I Nr. 94 mWv 1.8.2024
+
+Ersetzt durch
+:   V 806-22-1-157 v. 12.3.2024 I Nr. 94 (IndKflAusbV)
+
 
 ## Eingangsformel
 

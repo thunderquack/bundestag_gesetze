@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 7 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 
@@ -1733,10 +1736,11 @@ Dreiteilung auszugehen:
 
 
 gewerbs- oder berufsmäßig herstellt, bedarf einer Erlaubnis der
-zuständigen Behörde. Das Gleiche gilt für juristische Personen, nicht
-rechtsfähige Vereine und Gesellschaften bürgerlichen Rechts, die
-Arzneimittel zum Zwecke der Abgabe an ihre Mitglieder herstellen. Satz
-1 findet auf eine Prüfung, auf deren Grundlage die Freigabe des
+zuständigen Behörde. Das Gleiche gilt für juristische Personen, für
+Vereine, die nicht durch Eintragung in das Vereinsregister
+Rechtspersönlichkeit erlangt haben, und für Personengesellschaften,
+die Arzneimittel zum Zwecke der Abgabe an ihre Mitglieder herstellen.
+Satz 1 findet auf eine Prüfung, auf deren Grundlage die Freigabe des
 Arzneimittels für das Inverkehrbringen erklärt wird, entsprechende
 Anwendung. § 14 Absatz 4 bleibt unberührt.
 
@@ -5604,12 +5608,13 @@ zum Versand von Arzneimitteln nach Satz 1 sind in die Datenbank nach §
 67a einzugeben.
 
 (2) Die nach Absatz 1 Satz 1 den Apotheken vorbehaltenen Arzneimittel
-dürfen von juristischen Personen, nicht rechtsfähigen Vereinen und
-Gesellschaften des bürgerlichen Rechts und des Handelsrechts an ihre
-Mitglieder nicht abgegeben werden, es sei denn, dass es sich bei den
-Mitgliedern um Apotheken oder um die in § 47 Abs. 1 genannten Personen
-und Einrichtungen handelt und die Abgabe unter den dort bezeichneten
-Voraussetzungen erfolgt.
+dürfen von juristischen Personen, von Vereinen, die nicht durch
+Eintragung in das Vereinsregister Rechtspersönlichkeit erlangt haben,
+und von Personengesellschaften an ihre Mitglieder nicht abgegeben
+werden, es sei denn, dass es sich bei den Mitgliedern um Apotheken
+oder um die in § 47 Abs. 1 genannten Personen und Einrichtungen
+handelt und die Abgabe unter den dort bezeichneten Voraussetzungen
+erfolgt.
 
 (3) Auf Verschreibung dürfen Arzneimittel nur von Apotheken abgegeben
 werden.

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 5 G v. 31.10.2022 I 1966
+:   Art. 3 G v. 20.12.2023 I Nr. 391
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
@@ -650,11 +650,11 @@ Kostenschuldner
 6.  (weggefallen)
 
 
-7.  in Handels-, Genossenschafts-, Partnerschafts- und
+7.  in Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und
     Vereinsregistersachen bei Verfahren, die von Amts wegen durchgeführt
     werden, und bei Eintragungen, die von Amts wegen erfolgen, ist die
-    Gesellschaft oder der Kaufmann, die Genossenschaft, die Partnerschaft
-    oder der Verein;
+    Handelsgesellschaft oder der Kaufmann, die Gesellschaft bürgerlichen
+    Rechts, die Genossenschaft, die Partnerschaft oder der Verein;
 
 
 8.  für die Gebühr für die Entgegennahme, Prüfung und Aufbewahrung der zum
@@ -1644,13 +1644,13 @@ Entscheidung gilt als besonderes Verfahren, soweit im
 Kostenverzeichnis nichts anderes bestimmt ist.
 
 
-#### § 58 Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister; Verordnungsermächtigung
+#### § 58 Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister; Verordnungsermächtigung
 
 (1) Gebühren werden nur aufgrund einer Rechtsverordnung
 (Handelsregistergebührenverordnung) erhoben für
 
-1.  Eintragungen in das Handels-, Partnerschafts- oder
-    Genossenschaftsregister,
+1.  Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder
+    Partnerschaftsregister,
 
 
 2.  Fälle der Zurücknahme oder Zurückweisung von Anmeldungen zu diesen
@@ -1792,8 +1792,8 @@ in einem Verfahren in Vereinssachen beträgt
     Gegenseitigkeit 60 000 Euro,
 
 
-2.  bei Personenhandels- und Partnerschaftsgesellschaften sowie bei
-    Genossenschaften 30 000 Euro,
+2.  bei rechtsfähigen Personengesellschaften sowie bei Genossenschaften
+    30 000 Euro,
 
 
 3.  bei Vereinen 5 000 Euro und
@@ -1866,11 +1866,7 @@ eingetragen sind. Dabei treten an die Stelle der Grundstücke die in
 diese Register eingetragenen Schiffe, Schiffsbauwerke und
 Luftfahrzeuge, an die Stelle des Grundbuchamts das Registergericht.
 
-(4) Die Absätze 1 bis 3 sind auf offene Handelsgesellschaften,
-Kommanditgesellschaften, Partnerschaften und Europäische
-wirtschaftliche Interessenvereinigungen nicht und auf Gesellschaften
-bürgerlichen Rechts nur für die Eintragung einer Änderung im
-Gesellschafterbestand anzuwenden.
+(4) (weggefallen)
 
 
 ##### § 71 Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
@@ -2666,19 +2662,20 @@ Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
 Der Geschäftswert beträgt mindestens 30 000 Euro.
 
 (2) Bei sonstigen Anmeldungen zum Handelsregister sowie bei
-Anmeldungen zum Partnerschafts- und Genossenschaftsregister bestimmt
-sich der Geschäftswert nach den Absätzen 3 bis 5.
+Anmeldungen zum Gesellschafts-, Genossenschafts-  und
+Partnerschaftsregister bestimmt sich der Geschäftswert nach den
+Absätzen 3 bis 5.
 
 (3) Der Geschäftswert beträgt bei der ersten Anmeldung
 
 1.  eines Einzelkaufmanns 30 000 Euro;
 
 
-2.  einer offenen Handelsgesellschaft oder einer
-    Partnerschaftsgesellschaft mit zwei Gesellschaftern 45 000 Euro; hat
-    die offene Handelsgesellschaft oder die Partnerschaftsgesellschaft
-    mehr als zwei Gesellschafter, erhöht sich der Wert für den dritten und
-    jeden weiteren Gesellschafter um jeweils 15 000 Euro;
+2.  einer Gesellschaft bürgerlichen Rechts, einer offenen
+    Handelsgesellschaft oder einer Partnerschaftsgesellschaft mit zwei
+    Gesellschaftern 45 000 Euro; hat die Gesellschaft mehr als zwei
+    Gesellschafter, erhöht sich der Wert für den dritten und jeden
+    weiteren Gesellschafter um jeweils 15 000 Euro;
 
 
 3.  einer Genossenschaft oder einer juristischen Person (§ 33 des
@@ -2696,11 +2693,11 @@ sich der Geschäftswert nach den Absätzen 3 bis 5.
 2.  einen Versicherungsverein auf Gegenseitigkeit betrifft, 60 000 Euro;
 
 
-3.  eine Personenhandels- oder Partnerschaftsgesellschaft betrifft, 30 000
-    Euro; bei Eintritt oder Ausscheiden von mehr als zwei persönlich
-    haftenden Gesellschaftern oder Partnern sind als Geschäftswert 15 000
-    Euro für jeden eintretenden oder ausscheidenden Gesellschafter oder
-    Partner anzunehmen;
+3.  eine rechtsfähige Personengesellschaft betrifft, 30 000 Euro; bei
+    Eintritt oder Ausscheiden von mehr als zwei persönlich haftenden
+    Gesellschaftern oder Partnern sind als Geschäftswert 15 000 Euro für
+    jeden eintretenden oder ausscheidenden Gesellschafter oder Partner
+    anzunehmen;
 
 
 4.  einen Einzelkaufmann, eine Genossenschaft oder eine juristische Person
@@ -2764,8 +2761,8 @@ Beteiligungsgesellschaft.
 ##### § 108 Beschlüsse von Organen
 
 (1) Für den Geschäftswert bei der Beurkundung von Beschlüssen von
-Organen von Kapital-, Personenhandels- und
-Partnerschaftsgesellschaften sowie von Versicherungsvereinen auf
+Organen von Kapitalgesellschaften und rechtsfähigen
+Personengesellschaften sowie von Versicherungsvereinen auf
 Gegenseitigkeit, juristischen Personen (§ 33 des Handelsgesetzbuchs)
 oder Genossenschaften, deren Gegenstand keinen bestimmten Geldwert
 hat, gilt § 105 Absatz 4 und 6 entsprechend. Bei Beschlüssen, deren
@@ -2782,11 +2779,7 @@ Umwandlungsgesetz ist der Wert des Vermögens des übertragenden oder
 formwechselnden Rechtsträgers. Bei Abspaltungen oder Ausgliederungen
 ist der Wert des übergehenden Vermögens maßgebend.
 
-(4) Der Geschäftswert bei der Beurkundung von Beschlüssen von Organen
-einer Gesellschaft bürgerlichen Rechts, deren Gegenstand keinen
-bestimmten Geldwert hat, beträgt 30 000 Euro.
-
-(5) Der Geschäftswert von Beschlüssen von Gesellschafts-, Stiftungs-
+(4) Der Geschäftswert von Beschlüssen von Gesellschafts-, Stiftungs-
 und Vereinsorganen sowie von ähnlichen Organen beträgt höchstens 5
 Millionen Euro, auch wenn mehrere Beschlüsse mit verschiedenem
 Gegenstand in einem Beurkundungsverfahren zusammengefasst werden.
@@ -3767,12 +3760,12 @@ Teil 1
         Gebühr abweichend von dem in der Gebührenspalte bestimmten
         Mindestbetrag 100,00 €.
 
-    *   10,00 €
+    *   11,50 €
         je angefangene
         5 000,00 €
         des zu
         berücksichtigenden Vermögens
-        – mindestens 200,00 €
+        – mindestens 230,00 €
 
 
 *    *   11102
@@ -3821,10 +3814,10 @@ Teil 1
         Gebühr abweichend von dem in der Gebührenspalte bestimmten
         Mindestbetrag 100,00 €.
 
-    *   10,00 €
+    *   11,50 €
         je angefangene
         5 000,00 € des reinen Vermögens
-        – mindestens 200,00 €
+        – mindestens 230,00 €
 
 
 *    *   11105
@@ -5042,22 +5035,26 @@ Teil 1
 
 *    *   14110
 
-    *   Eintragung
-        1\. eines Eigentümers oder von Miteigentümern oder
-        2\. von Gesellschaftern einer Gesellschaft bürgerlichen Rechts im Wege
-        der Grundbuchberichtigung  ..........
-        (1) Die Gebühr wird nicht für die Eintragung von Erben des
-        eingetragenen Eigentümers oder von Erben des Gesellschafters
-        bürgerlichen Rechts erhoben, wenn der Eintragungsantrag binnen zwei
-        Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird. Dies
-        gilt auch, wenn die Erben erst infolge einer Erbauseinandersetzung
-        eingetragen werden.
-        (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von
-        Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende
-        Veränderung der Eigentumsverhältnisse verbunden ist.
+    *   Eintragung eines Eigentümers oder von Miteigentümern
 
     *   1,0
 
+
+*    *
+    *   (1) Die Gebühr wird nicht für die Eintragung von Erben des
+        eingetragenen Eigentümers erhoben, wenn der Eintragungsantrag binnen
+        zwei Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird.
+        Dies gilt auch, wenn die Erben erst infolge einer
+        Erbauseinandersetzung eingetragen werden.
+
+    *
+
+*    *
+    *   (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von
+        Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende
+        Veränderung der Eigentumsverhältnisse verbunden ist.
+
+    *
 
 *    *   14111
 

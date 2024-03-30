@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.1.2023 I Nr. 24
+:   Art. 1 V v. 2.2.2024 I Nr. 34
 
 
 ## Eingangsformel
@@ -87,7 +87,8 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5)
+(Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Lfd.
@@ -235,6 +236,33 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
 
     *   8 495 164,75
+
+
+*    *   3.9
+
+    *   Durchführung der zentralen Voruntersuchungen der Fläche N-9.1 des
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
+
+    *   29 874 703,60
+
+
+*    *   3.10
+
+    *   Durchführung der zentralen Voruntersuchungen der Fläche N-9.2 des
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
+
+    *   31 949 678,08
+
+
+*    *   3.11
+
+    *   Durchführung der zentralen Voruntersuchungen der Fläche N-9.3 des
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
+
+    *   23 111 971,63
 
 
 *    *   4.
@@ -503,19 +531,6 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
 
 *    *   10.
 
-    *   Ablehnung eines Antrags auf Planfeststellung, Plangenehmigung oder
-        sonstige Bescheidung und sonstige Beendigung des Planfeststellungs-
-        oder Plangenehmigungsverfahrens
-
-    *   10 Prozent bis
-        100 Prozent der
-        Gebühren der
-        beantragten
-        Leistung
-
-
-*    *   11.
-
     *   Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines
         Planfeststellungsbeschlusses, einer Plangenehmigung, einer Anordnung
         oder eines sonstigen Bescheides nach den §§ 35, 36, 74 des
@@ -526,7 +541,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         14 752,00
 
 
-*    *   12.
+*    *   11.
 
     *   Entscheidung über die Verlängerung oder Nichtverlängerung der
         Befristung eines Planfeststellungsbeschlusses oder einer
@@ -540,7 +555,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         79 166,00
 
 
-*    *   13.
+*    *   12.
 
     *   Aufhebung eines Planfeststellungsbeschlusses oder einer
         Plangenehmigung nach § 69 Absatz 5, § 79 Absatz 3 Satz 2 des
@@ -552,25 +567,13 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         16 844,00
 
 
-*    *   14.
-
-    *   Widerruf eines Planfeststellungsbeschlusses, einer Plangenehmigung
-        oder eines sonstigen Verwaltungsaktes nach § 79 Absatz 6 des
-        Windenergie-auf-See-Gesetzes i. V. m. § 49 des
-        Verwaltungsverfahrensgesetzes
-
-    *   11 713,00
-        bis
-        16 844,00
-
-
-*    *   15.
+*    *   13.
 
     *   Leistungen im Vollzugsverfahren
 
     *
 
-*    *   15.1
+*    *   13.1
 
     *   Plausibilisierung von Nachweisen zur Vereinbarkeit von Einrichtungen
         oder Pilotwindenergieanlagen auf See, jeweils einschließlich
@@ -582,7 +585,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   83 499,00
 
 
-*    *   15.2
+*    *   13.2
 
     *   Prüfung des Erfahrungsberichtes über die Erprobung der Innovation und
         die gewonnenen Erkenntnisse bei der Errichtung von
@@ -592,7 +595,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   7 234,00
 
 
-*    *   15.3
+*    *   13.3
 
     *   Prüfung der Bestellung neuer verantwortlicher Personen nach § 78
         Absatz 4 des Windenergie-auf-See-Gesetzes
@@ -600,7 +603,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   433,00
 
 
-*    *   15.4
+*    *   13.4
 
     *   Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen
         zur Durchsetzung der in § 77 des Windenergie-auf-See-Gesetzes
@@ -612,7 +615,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         15 073,00
 
 
-*    *   15.5
+*    *   13.5
 
     *   Untersuchungsrahmen und Prüfung der Durchführung des Monitorings zu
         den bau- und betriebsbedingten Auswirkungen der Anlagen auf die
@@ -621,7 +624,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
 
     *
 
-*    *   15.5.1
+*    *   13.5.1
 
     *   Festlegung des Untersuchungsrahmens für die Durchführung des
         Monitorings zu den bau- und betriebsbedingten Auswirkungen der Anlagen
@@ -632,7 +635,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   2 163,00
 
 
-*    *   15.5.2
+*    *   13.5.2
 
     *   Prüfung der gewonnenen Daten aus der Durchführung des Monitorings zu
         den bau- und betriebsbedingten Auswirkungen der Anlagen auf die
@@ -643,7 +646,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   8 452,00
 
 
-*    *   15.6
+*    *   13.6
 
     *   Plausibilisierung der Ergebnisse der Wiederkehrenden Prüfungen nach
         „Standard Konstruktion – Mindestanforderungen an die konstruktive
@@ -654,7 +657,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   7 752,00
 
 
-*    *   15.7
+*    *   13.7
 
     *   Plausibilisierung von Nachweisen zur Vereinbarkeit von Einrichtungen
         oder Pilotwindenergieanlagen auf See, jeweils einschließlich
@@ -664,7 +667,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   2 306,00
 
 
-*    *   15.8
+*    *   13.8
 
     *   Gestattung der Betriebsaufnahme eines Hubschrauberlandedecks als
         Nebeneinrichtung nach § 65 Absatz 1 des Windenergie-auf-See-Gesetzes
@@ -672,7 +675,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   6 424,00
 
 
-*    *   15.9
+*    *   13.9
 
     *   Gestattung der Inbetriebnahme von Windenbetriebsflächen als
         Nebeneinrichtungen nach § 65 Absatz 1 des Windenergie-auf-See-Gesetzes
@@ -680,7 +683,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   995,00
 
 
-*    *   15.10
+*    *   13.10
 
     *   Erhöhter Prüfungsaufwand im Vollzugsverfahren von Einrichtungen,
         jeweils einschließlich Nebeneinrichtungen, nach § 79 Absatz 1 des
@@ -691,7 +694,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         69 041,00
 
 
-*    *   15.11
+*    *   13.11
 
     *   Untersagung der Errichtung, des Betriebs, der wesentlichen Änderung
         oder der Beseitigung von Einrichtungen oder Nebeneinrichtungen nach §
@@ -703,7 +706,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         21 602,00
 
 
-*    *   15.12
+*    *   13.12
 
     *   Anordnung der Beseitigung von Einrichtungen oder Nebeneinrichtungen
         nach § 79 Absatz 3 Satz 2 oder Absatz 4 Satz 2 oder Satz 3 des
@@ -714,7 +717,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         21 602,00
 
 
-*    *   15.13
+*    *   13.13
 
     *   Prüfung und Entscheidung über den Umfang der Beseitigung von
         Einrichtungen oder Nebeneinrichtungen nach § 80 Absatz 1 Satz 2 des
@@ -725,7 +728,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
         21 602,00
 
 
-*    *   16.
+*    *   14.
 
     *   Vollziehung der Übertragung des Planfeststellungsbeschlusses oder der
         Plangenehmigung auf einen anderen Inhaber oder Betreiber
@@ -733,7 +736,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
     *   123,00
 
 
-*    *   17.
+*    *   15.
 
     *   Ausstellen einer Urkunde oder eines Bescheides, sofern nicht in einem
         Verfahren nach vorbezeichneten Gebührennummern enthalten

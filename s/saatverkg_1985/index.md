@@ -2468,20 +2468,20 @@ der Person her befugt ist.
 (3) Von der Person her sind befugt:
 
 1.  Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sowie
-    natürliche und juristische Personen und Personenhandelsgesellschaften
-    mit Wohnsitz oder Sitz im Inland,
+    natürliche und juristische Personen und rechtsfähige
+    Personengesellschaften mit Wohnsitz oder Sitz im Inland,
 
 
 2.  Angehörige eines anderen Vertragsstaates sowie natürliche und
-    juristische Personen und Personenhandelsgesellschaften mit Wohnsitz
-    oder Sitz in einem anderen Vertragsstaat,
+    juristische Personen und rechtsfähige Personengesellschaften mit
+    Wohnsitz oder Sitz in einem anderen Vertragsstaat,
 
 
-3.  andere natürliche und juristische Personen und
-    Personenhandelsgesellschaften, soweit in dem Staat, dem sie angehören
-    oder in dem sie ihren Wohnsitz oder Sitz haben, nach einer
-    Bekanntmachung des Bundesministeriums für Ernährung und Landwirtschaft
-    im Bundesgesetzblatt die Gegenseitigkeit gewährleistet ist.
+3.  andere natürliche und juristische Personen und rechtsfähige
+    Personengesellschaften, soweit in dem Staat, dem sie angehören oder in
+    dem sie ihren Wohnsitz oder Sitz haben, nach einer Bekanntmachung des
+    Bundesministeriums für Ernährung und Landwirtschaft im
+    Bundesgesetzblatt die Gegenseitigkeit gewährleistet ist.
 
 
 
@@ -3161,7 +3161,7 @@ Berufung gegen das Urteil des Verwaltungsgerichtes ausgeschlossen.
 
 ### § 59 Auskunftspflicht
 
-(1) Natürliche und juristische Personen und nichtrechtsfähige
+(1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der der Behörde durch
 dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben

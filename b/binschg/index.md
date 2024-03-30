@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl II: 1956, 317
 
 Neugefasst durch
-:   Bek. v. 20.3.2023 I Nr. 82, Nr. 126
+:   Bek. v. 20.3.2023 I Nr. 82, Nr. 126;
+
+Geändert durch
+:   Art. 14 G v. 22.12.2023 I Nr. 409
 
 
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
@@ -1819,9 +1822,7 @@ nicht mehr erforderlich sind, spätestens jedoch,
 ## § 14 Erlass von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung
-des Bundesrates. Rechtsverordnungen nach diesem Gesetz können
-abweichend von § 2 Absatz 1 des Verkündungs- und
-Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
+des Bundesrates.
 
 
 ## § 15 Überleitung des Verzeichnisses für Sportbootführerscheine

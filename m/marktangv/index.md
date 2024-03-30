@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2576
 
 Zuletzt geändert durch
-:   Art. 24 Abs. 9 G v. 23.6.2017 I 1693
+:   Art. 6 G v. 11.12.2023 I Nr. 354
 
 
 ## Eingangsformel
@@ -186,12 +186,13 @@ Antrag erforderlich sind.
 
 ### § 10 Form des Antrags
 
-Angaben und vorzulegende Unterlagen nach diesem Abschnitt sind
-vorbehaltlich des Satzes 2 in deutscher Sprache abzufassen und in
-doppelter Ausfertigung zu übersenden. Angaben und Unterlagen nach den
-§§ 4 und 6 können in englischer Sprache gefasst sein. In diesem Fall
-ist vom Antragsteller jedoch auf Verlangen der Bundesanstalt eine
-deutsche Übersetzung zur Verfügung zu stellen.
+Angaben und vorzulegende Unterlagen nach diesem Abschnitt sind in
+deutscher oder englischer Sprache abzufassen. Die Unterlagen sind der
+Bundesanstalt in doppelter Ausfertigung zu übermitteln. Werden Angaben
+oder Unterlagen in englischer Sprache abgefasst, so kann die
+Bundesanstalt bei Bedarf jederzeit verlangen, eine deutsche
+Übersetzung zur Verfügung zu stellen. § 4j Absatz 1 Satz 2 bis 4 des
+Finanzdienstleistungsaufsichtsgesetzes gilt entsprechend.
 
 
 ## Abschnitt 3 - (weggefallen)

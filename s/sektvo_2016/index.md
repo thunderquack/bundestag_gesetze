@@ -16,7 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 624, 657
 
-Stand: Zuletzt geändert Art. 2 V v. 17.8.2023 I Nr. 222
+Zuletzt geändert durch
+:   Art. 3 V v. 7.2.2024 I Nr. 39
+
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/25/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
 Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-,
@@ -103,7 +105,7 @@ zu einem Auftrag führen, der in mehreren Losen vergeben wird, ist der
 geschätzte Gesamtwert aller Lose zugrunde zu legen.
 
 (9) Der Auftraggeber kann bei der Vergabe einzelner Lose von Absatz 7
-Satz 3 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des
+Satz 2 sowie Absatz 8 abweichen, wenn der geschätzte Nettowert des
 betreffenden Loses bei Liefer- und Dienstleistungsaufträgen unter
 80 000 Euro und bei Bauleistungen unter 1 Million Euro liegt und die
 Summe der Nettowerte dieser Lose 20 Prozent des Gesamtwertes aller

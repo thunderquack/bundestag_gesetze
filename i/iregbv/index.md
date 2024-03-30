@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4344
 
-Geändert durch
-:   Art. 1 V v. 27.9.2022 I 1566
+Zuletzt geändert durch
+:   Art. 2 V v. 14.12.2023 I Nr. 370
 
 
 ## Eingangsformel
@@ -35,10 +35,10 @@ Gesundheit:
 
 (1) Für Brustimplantate haben die verantwortlichen
 Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1
-und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Januar
-2024 zu erfüllen. Bis zum 31. Dezember 2023 finden die §§ 16, 17
-Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die
-§§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche
+und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Juli 2024
+zu erfüllen. Bis zum 30. Juni 2024 finden die §§ 16, 17 Absatz 1 und
+3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17
+und 22 für freiwillig teilnehmende verantwortliche
 Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen
 und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16
 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.

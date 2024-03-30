@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2787
 
 Zuletzt geändert durch
-:   Art. 3 V v. 1.3.2016 I 329
+:   Art. 2 V v. 13.12.2023 I Nr. 373
 
 
 ## § 1 Zweck der Verordnung und Zuständigkeit des Bundes
@@ -552,10 +552,11 @@ Schiffsführer der Zentralen Kontaktstelle die im Anhang der Hinweise
 des Schiffssicherheitsausschusses zu den Vorschriften im Zusammenhang
 mit der Übermittlung von sicherheitsbezogenen Angaben vor dem
 Einlaufen eines Schiffes in den Hafen (MSC/Circ. 1130 vom 14. Dezember
-2004, VkBl. 2005 S. 143) genannten Angaben elektronisch übermitteln.
-Er kann diese Aufgabe auf den Beauftragten zur Gefahrenabwehr auf dem
-Schiff, den Beauftragten zur Gefahrenabwehr im Unternehmen oder seinen
-Agenten übertragen.
+2004, VkBl. 2005 S. 143) genannten Angaben über das Zentrale
+Meldeportal des Bundes im Internet unter www.national-single-window.de
+übermitteln. Er kann diese Aufgabe auf den Beauftragten zur
+Gefahrenabwehr auf dem Schiff, den Beauftragten zur Gefahrenabwehr im
+Unternehmen oder seinen Agenten übertragen.
 
 (4) Die Angaben nach Absatz 3 sind zu übermitteln
 
@@ -574,8 +575,8 @@ Agenten übertragen.
 
 
 (5) Ergeben sich nach Übermittlung der Angaben bis zum Einlaufen des
-Schiffes in den Bestimmungshafen Änderungen, sind diese der Zentralen
-Kontaktstelle unverzüglich mitzuteilen.
+Schiffes in den Bestimmungshafen Änderungen, sind diese nach Maßgabe
+des Absatzes 3 unverzüglich zu übermitteln.
 
 (6) Schiffsverkehre im Sinne der Regel 11 Absatz 1 des Kapitels XI-2
 der Anlage des SOLAS-Übereinkommens können von der Pflicht zur Abgabe

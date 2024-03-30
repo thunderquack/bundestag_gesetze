@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 1465
 
 Zuletzt geändert durch
-:   Art. 5 Nr. 2 G v. 23.3.2005 I 931
+:   Art. 34 Abs. 9 G v. 22.12.2023 I Nr. 411
 
 
 ## Eingangsformel
@@ -286,7 +286,8 @@ Der Bundesminister für Verkehr
 
 ## Anlage (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 1977, 1468 - 1469
+Fundstelle: BGBl. I 1977, 1468 - 1469;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Als Kostenbestandteile im Sinne von § 2 AEAusglV sind folgende
 Positionen in Ansatz zu bringen:
 
@@ -428,8 +429,8 @@ Positionen in Ansatz zu bringen:
 8.  Kalkulatorischer Unternehmerlohn
 
     Für die Mitarbeit des Unternehmers in Einzelunternehmen und
-    Personengesellschaften und ggf. unentgeltlich mithelfende
-    Familienangehörige sind angemessene Kosten einzusetzen.
+    rechtsfähigen Personengesellschaften und ggf. unentgeltlich
+    mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 
 
 9.  Kalkulatorische Zinsen (vgl. Nr. 43 LSP)

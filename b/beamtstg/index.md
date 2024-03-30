@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1010
 
 Zuletzt geändert durch
-:   Art. 4 G v. 31.5.2023 I Nr. 140
+:   Art. 5 G v. 20.12.2023 I Nr. 389
 
 
 ## Eingangsformel

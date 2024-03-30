@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 13.11.2023 I Nr. 311
 
+Änderung durch
+:   Art. 30 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+
+Änderung durch
+:   Art. 34 Abs. 21 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten ist
 
@@ -348,21 +357,23 @@ werden:
     Kreditinstitute gleichwertig sind (Respondenten), oder
 
 
-2.  andere Leistungen als Bankdienstleistungen, soweit diese anderen
-    Leistungen nach den jeweiligen gesetzlichen Vorschriften durch
-    Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9
-    (Korrespondenten) erbracht werden dürfen
+2.  ähnliche Dienstleistungen, soweit diese Leistungen nach den jeweiligen
+    gesetzlichen Vorschriften durch Verpflichtete nach § 2 Absatz 1 Nummer
+    1 bis 3 und 6 bis 9 (Korrespondenten) erbracht werden dürfen für
+    folgende Respondenten:
 
-    a)  für andere CRR-Kreditinstitute oder Finanzinstitute im Sinne des
-        Artikels 3 Nummer 2 der Richtlinie (EU) 2015/849 oder
+    a)  andere CRR-Kreditinstitute oder Finanzinstitute im Sinne des Artikels
+        3 Nummer 2 der Richtlinie (EU) 2015/849 oder
 
 
-    b)  für Unternehmen oder Personen in einem Drittstaat, die Tätigkeiten
+    b)  Unternehmen oder Personen in einem Drittstaat, die Tätigkeiten
         ausüben, die denen solcher Kreditinstitute oder Finanzinstitute
-        gleichwertig sind (Respondenten).
+        gleichwertig sind.
 
 
 
+    Davon umfasst sind insbesondere Beziehungen, die für
+    Wertpapiergeschäfte oder Geldtransfers aufgenommen wurden.
 
 
 
@@ -756,9 +767,9 @@ mit Barzahlungen über mindestens 10 000 Euro getätigt werden. Die
 Identifizierung des Erstehers soll unmittelbar nach Erteilung des
 Zuschlags erfolgen, spätestens jedoch bei Einzahlung des Bargebots;
 dabei ist bei natürlichen Personen die Erhebung des Geburtsorts und
-der Staatsangehörigkeit sowie bei Personengesellschaften und
-juristischen Personen die Erhebung der Namen sämtlicher Mitglieder des
-Vertretungsorgans oder sämtlicher gesetzlicher Vertreter nicht
+der Staatsangehörigkeit sowie bei rechtsfähigen Personengesellschaften
+und juristischen Personen die Erhebung der Namen sämtlicher Mitglieder
+des Vertretungsorgans oder sämtlicher gesetzlicher Vertreter nicht
 erforderlich.
 
 (4) Für Behörden sowie Körperschaften und Anstalten des öffentlichen
@@ -1895,8 +1906,8 @@ ansässig ist in einem
 
 (2) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum
 Vertragspartner und gegebenenfalls für diesen auftretende Personen hat
-bei juristischen Personen oder bei Personengesellschaften zu erfolgen
-anhand
+bei juristischen Personen oder bei rechtsfähigen
+Personengesellschaften zu erfolgen anhand
 
 1.  eines Auszuges aus dem Handels- oder Genossenschaftsregister oder aus
     einem vergleichbaren amtlichen Register oder Verzeichnis,
@@ -2755,7 +2766,7 @@ Transparenzregisters übereinstimmen. Mit der Beglaubigung ist keine
 Gewähr für die Richtigkeit und Vollständigkeit der Angaben zum
 wirtschaftlich Berechtigten verbunden. Ein Antrag auf Ausdruck von
 Daten, die lediglich über das Transparenzregister gemäß § 22 Absatz 1
-Satz 1 Nummer 4 bis 8 zugänglich gemacht werden, kann auch über das
+Satz 1 Nummer 4 bis 9 zugänglich gemacht werden, kann auch über das
 Transparenzregister an das Gericht vermittelt werden. Dies gilt
 entsprechend für die Vermittlung eines Antrags auf Ausdruck von Daten,
 die gemäß § 22 Absatz 1 Satz 1 Nummer 2 und 3 zugänglich gemacht
@@ -2988,8 +2999,9 @@ Berechtigter folgt.
 (2) Eine juristische Person des Privatrechts oder eine eingetragene
 Personengesellschaft, die nach Absatz 1 Satz 1 mitteilungspflichtig
 ist und die nicht im Handelsregister, Genossenschaftsregister,
-Partnerschaftsregister oder Vereinsregister eingetragen ist, hat der
-registerführenden Stelle unverzüglich mitzuteilen, wenn
+Gesellschaftsregister, Partnerschaftsregister oder Vereinsregister
+eingetragen ist, hat der registerführenden Stelle unverzüglich
+mitzuteilen, wenn
 
 1.  sich ihre Bezeichnung oder ihr Sitz geändert hat,
 
@@ -3223,18 +3235,21 @@ des § 23 zugänglich:
 7.  Eintragungen im Genossenschaftsregister,
 
 
-8.  Eintragungen im Vereinsregister.
+8.  Eintragungen im Vereinsregister,
+
+
+9.  Eintragungen in das Gesellschaftsregister.
 
 
 
 Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften
 für die Einsicht geregelten Umfang sind nur solche Dokumente und
-Eintragungen nach Satz 1 Nummer 2 bis 8, die aus dem Handelsregister,
+Eintragungen nach Satz 1 Nummer 2 bis 9, die aus dem Handelsregister,
 Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister
 oder Vereinsregister elektronisch abrufbar sind.
 
 (2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1
-Satz 1 Nummer 2 bis 8 über die Internetseite des Transparenzregisters
+Satz 1 Nummer 2 bis 9 über die Internetseite des Transparenzregisters
 zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen
 Daten (Indexdaten) zu übermitteln. Der Betreiber des
 Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten
@@ -5194,8 +5209,8 @@ Voraussetzungen für die Maßnahmen nicht mehr vorliegen.
 (5) Die Zentralstelle für Finanztransaktionsuntersuchungen kann
 Vermögensgegenstände, die einer Maßnahme nach Absatz 1 Satz 2
 unterliegen, auf Antrag der betroffenen Person oder einer
-nichtrechtsfähigen Personenvereinigung freigeben, soweit diese
-Vermögensgegenstände einem der folgenden Zwecke dienen:
+Personenvereinigung freigeben, soweit diese Vermögensgegenstände einem
+der folgenden Zwecke dienen:
 
 1.  der Deckung des notwendigen Lebensunterhalts der Person oder ihrer
     Familienmitglieder,

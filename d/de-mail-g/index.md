@@ -65,8 +65,8 @@ zugeordnete Nutzer Zugang zu dem ihm zugeordneten De-Mail-Konto
 erlangen kann.
 
 (2) Der akkreditierte Diensteanbieter hat die Identität des Nutzers
-und bei juristischen Personen, Personengesellschaften oder
-öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen
+und bei juristischen Personen, rechtsfähigen Personengesellschaften
+oder öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen
 Vertreter oder Organmitglieder zuverlässig festzustellen. Dazu erhebt
 und speichert er folgende Angaben:
 
@@ -74,8 +74,8 @@ und speichert er folgende Angaben:
     Anschrift;
 
 
-2.  bei einer juristischen Person oder Personengesellschaft oder
-    öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform,
+2.  bei einer juristischen Person oder rechtsfähigen Personengesellschaft
+    oder öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform,
     Registernummer, soweit vorhanden, Anschrift des Sitzes oder der
     Hauptniederlassung und Namen der Mitglieder des Vertretungsorgans oder
     der gesetzlichen Vertreter; ist ein Mitglied des Vertretungsorgans
@@ -119,8 +119,8 @@ vor Freischaltung des De-Mail-Kontos des Nutzers zu überprüfen:
 
 
 
-2.  bei juristischen Personen oder Personengesellschaften oder bei
-    öffentlichen Stellen
+2.  bei juristischen Personen oder rechtsfähigen Personengesellschaften
+    oder bei öffentlichen Stellen
 
     a)  anhand eines Auszugs aus dem Handels- oder Genossenschaftsregister
         oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
@@ -237,9 +237,9 @@ muss:
     (Hauptadresse);
 
 
-3.  bei juristischen Personen, Personengesellschaften oder öffentlichen
-    Stellen im Domänenteil eine Bezeichnung, welche in direktem Bezug zu
-    ihrer Firma, Namen oder sonstiger Bezeichnung steht.
+3.  bei juristischen Personen, rechtsfähigen Personengesellschaften oder
+    öffentlichen Stellen im Domänenteil eine Bezeichnung, welche in
+    direktem Bezug zu ihrer Firma, Namen oder sonstiger Bezeichnung steht.
 
 
 
@@ -283,13 +283,13 @@ versieht er im Auftrag des Senders die Nachricht mit einer dauerhaft
 Nachricht eine oder mehrere Dateien beigefügt, bezieht sich die
 qualifizierte elektronische Signatur auch auf diese. Die Bestätigung
 enthält bei natürlichen Personen den Namen und die Vornamen, bei
-juristischen Personen, Personengesellschaften oder öffentlichen
-Stellen die Firma, den Namen oder die Bezeichnung des Senders in der
-Form, in der diese nach § 3 Absatz 2 hinterlegt sind. Die Tatsache,
-dass der Absender diese Versandart genutzt hat, muss sich aus der
-Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die
-Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer
-pseudonymen De-Mail-Adresse nach Absatz 2.
+juristischen Personen, rechtsfähigen Personengesellschaften oder
+öffentlichen Stellen die Firma, den Namen oder die Bezeichnung des
+Senders in der Form, in der diese nach § 3 Absatz 2 hinterlegt sind.
+Die Tatsache, dass der Absender diese Versandart genutzt hat, muss
+sich aus der Nachricht in der Form, wie sie beim Empfänger ankommt,
+ergeben. Die Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung
+einer pseudonymen De-Mail-Adresse nach Absatz 2.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter
 nach § 19 ist verpflichtet, elektronische Nachrichten nach den
