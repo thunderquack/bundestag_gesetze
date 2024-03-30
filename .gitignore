@@ -34,3 +34,6 @@ x/.DS_Store
 y/.DS_Store
 z/.DS_Store
 *~
+gesetze-tools
+.venv
+.vscode/launch.json
