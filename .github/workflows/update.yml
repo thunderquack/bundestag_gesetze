@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "0 0 * * 0"
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   update-job:
     runs-on: ubuntu-latest
@@ -16,6 +21,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.x"
+
+      - name: Changing git settings
+        run: |
+          git config --global user.name 'thunderquack'
+          git config --global user.email ${{ secrets.GH_EMAIL }}
+          git pull --rebase
 
       - name: Run update script
         run: python update.py
