@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0"
-  push:
-    branches: [ main ]  
-  pull_request:
-    branches: [ main ]  
 
 jobs:
   update-job:
@@ -23,3 +19,13 @@ jobs:
 
       - name: Run update script
         run: python update.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'thunderquack'
+          git config --global user.email ${{ secrets.GH_EMAIL }}
+          git add .
+          git commit -m "$(date +%F) data" || echo "No changes to commit"
+          # Set up the remote with the GITHUB_TOKEN
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com:thunderquack/bundestag_gesetze.git
+          git push
