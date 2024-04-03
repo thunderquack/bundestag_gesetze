@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 469 (1975 I 1916)(1976 I 507)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 26.7.2023 I Nr. 203, dieser geändert durch Art. 3 G v. 16.8.2023 I Nr. 218
-
-Änderung durch
-:   Art. 13 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 27.3.2024 I Nr. 109
 
 
 ## Übersicht
@@ -1446,6 +1443,14 @@ Fassung. Artikel 313 Absatz 2 gilt entsprechend.
 verhängten Geldstrafen gelten § 43 des Strafgesetzbuches und § 11 des
 Wehrstrafgesetzes jeweils in der bis zu diesem Tag geltenden Fassung.
 Artikel 313 Absatz 2 gilt entsprechend.
+
+
+### Art 316p Noch nicht vollstreckte Strafen im Zusammenhang mit Cannabis nach dem Betäubungsmittelgesetz
+
+Im Hinblick auf vor dem 1. April 2024 verhängte Strafen nach dem
+Betäubungsmittelgesetz, die nach dem Konsumcannabisgesetz oder dem
+Medizinal-Cannabisgesetz nicht mehr strafbar und auch nicht mit
+Geldbuße bedroht sind, ist Artikel 313 entsprechend anzuwenden.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht

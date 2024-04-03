@@ -386,9 +386,11 @@ Verwendungsfähigkeit prüfen zu lassen.
 
 (1) Der Arbeitgeber hat die erforderlichen Maßnahmen zu treffen, damit
 die nicht rauchenden Beschäftigten in Arbeitsstätten wirksam vor den
-Gesundheitsgefahren durch Tabakrauch geschützt sind. Soweit
-erforderlich, hat der Arbeitgeber ein allgemeines oder auf einzelne
-Bereiche der Arbeitsstätte beschränktes Rauchverbot zu erlassen.
+Gesundheitsgefahren durch Rauche und Dämpfe von Tabak- und
+Cannabisprodukten sowie elektronischen Zigaretten geschützt sind.
+Soweit erforderlich, hat der Arbeitgeber ein allgemeines oder auf
+einzelne Bereiche der Arbeitsstätte beschränktes Rauchverbot zu
+erlassen.
 
 (2) In Arbeitsstätten mit Publikumsverkehr hat der Arbeitgeber beim
 Einrichten und Betreiben von Arbeitsräumen der Natur des Betriebes

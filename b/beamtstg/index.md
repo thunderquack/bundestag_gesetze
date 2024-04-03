@@ -657,10 +657,10 @@ durch das Urteil eines deutschen Gerichts
 
 2.  wegen einer vorsätzlichen Tat, die nach den Vorschriften über
     Friedensverrat, Hochverrat und Gefährdung des demokratischen
-    Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit
-    oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht,
-    Bestechlichkeit, strafbar ist, zu einer Freiheitsstrafe von mindestens
-    sechs Monaten
+    Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit,
+    Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im
+    Hauptamt bezieht, Bestechlichkeit, strafbar ist, zu einer
+    Freiheitsstrafe von mindestens sechs Monaten
 
 
 
@@ -1035,17 +1035,22 @@ dienstliche Interessen zu beeinträchtigen.
 
 ### § 41 Tätigkeit nach Beendigung des Beamtenverhältnisses
 
-Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen mit
-Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben die
-Ausübung einer Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb
-des öffentlichen Dienstes, die mit der dienstlichen Tätigkeit
-innerhalb eines Zeitraums, dessen Bestimmung dem Landesrecht
+(1) Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen
+mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben
+die Ausübung einer Erwerbstätigkeit oder sonstigen Beschäftigung
+außerhalb des öffentlichen Dienstes, die mit der dienstlichen
+Tätigkeit innerhalb eines Zeitraums, dessen Bestimmung dem Landesrecht
 vorbehalten bleibt, im Zusammenhang steht und durch die dienstliche
 Interessen beeinträchtigt werden können, anzuzeigen. Die
 Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, wenn
 zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt
-werden. Das Verbot endet spätestens mit Ablauf von fünf Jahren nach
+werden. Das Verbot endet spätestens mit Ablauf von sieben Jahren nach
 Beendigung des Beamtenverhältnisses.
+
+(2) Durch Landesrecht können für bestimmte Gruppen der in Absatz 1
+Satz 1 genannten Beamtinnen und Beamten abweichende Voraussetzungen
+für eine Anzeige oder Regelungen für eine Genehmigung von Tätigkeiten
+nach Beendigung des Beamtenverhältnisses bestimmt werden.
 
 
 ### § 42 Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen

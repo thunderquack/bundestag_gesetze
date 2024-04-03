@@ -201,8 +201,8 @@ der Bundeswehr zur fiktiven Nachzeichnung der beruflichen Entwicklung
 Referenzgruppen zu bilden. Als Grundlage für die Bildung der
 Referenzgruppe dient die letzte regelmäßige dienstliche Beurteilung.
 Die Referenzgruppen sind zu dem Zeitpunkt des gemäß § 27b Absatz 1
-Satz 1 Nummer 1 bis 6 des Soldatengesetztes auslösenden Anlasses
-erstmals zu bilden.
+Satz 1 Nummer 1 bis 6 des
+Soldatengesetzes              auslösenden Anlasses erstmals zu bilden.
 
 (2) Die fiktive Nachzeichnung der beruflichen Entwicklung beginnt bei
 förderlichen Verwendungsentscheidungen sofort, in allen übrigen

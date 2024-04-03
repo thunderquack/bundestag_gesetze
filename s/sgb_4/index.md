@@ -1062,7 +1062,8 @@ sind
 1.  das Krankengeld, das Verletztengeld, das Krankengeld der Sozialen
     Entschädigung, das Mutterschaftsgeld, das Übergangsgeld, das
     Pflegeunterstützungsgeld, das Kurzarbeitergeld, das Arbeitslosengeld,
-    das Insolvenzgeld, das Krankentagegeld und vergleichbare Leistungen,
+    das Qualifizierungsgeld, das Insolvenzgeld, das Krankentagegeld und
+    vergleichbare Leistungen,
 
 
 2.  Renten der Rentenversicherung wegen Alters oder verminderter
@@ -1197,15 +1198,15 @@ nach § 18a Absatz 3 Satz 1 Nummer 1 erzielt, sind diese Einkommen
 zusammenzurechnen; wurden diese Einkommen zeitlich aufeinander folgend
 erzielt, ist das Erwerbseinkommen maßgebend. Die für einmalig
 gezahltes Arbeitsentgelt in § 23a getroffene zeitliche Zuordnung gilt
-entsprechend. Für die Zeiten des Bezugs von Kurzarbeitergeld ist das
-dem Versicherungsträger gemeldete Arbeitsentgelt maßgebend. Bei
-Vermögenseinkommen gilt als monatliches Einkommen im Sinne von Absatz
-1 Satz 1 ein Zwölftel dieses im letzten Kalenderjahr erzielten
-Einkommens; bei einmalig gezahltem Vermögenseinkommen gilt ein
-Zwölftel des gezahlten Betrages als monatliches Einkommen nach Absatz
-1 Satz 1. Steht das zu berücksichtigende Einkommen des vorigen
-Kalenderjahres noch nicht fest, so wird das voraussichtlich erzielte
-Einkommen zugrunde gelegt.
+entsprechend. Für die Zeiten des Bezugs von Kurzarbeitergeld und
+Qualifizierungsgeld ist das dem Versicherungsträger gemeldete
+Arbeitsentgelt maßgebend. Bei Vermögenseinkommen gilt als monatliches
+Einkommen im Sinne von Absatz 1 Satz 1 ein Zwölftel dieses im letzten
+Kalenderjahr erzielten Einkommens; bei einmalig gezahltem
+Vermögenseinkommen gilt ein Zwölftel des gezahlten Betrages als
+monatliches Einkommen nach Absatz 1 Satz 1. Steht das zu
+berücksichtigende Einkommen des vorigen Kalenderjahres noch nicht
+fest, so wird das voraussichtlich erzielte Einkommen zugrunde gelegt.
 
 (3) Ist im letzten Kalenderjahr Einkommen nach Absatz 2 nicht oder nur
 Erwerbsersatzeinkommen nach § 18a Absatz 3 Satz 1 Nummer 1 erzielt

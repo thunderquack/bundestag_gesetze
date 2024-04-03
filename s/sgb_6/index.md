@@ -40,8 +40,9 @@ Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2024
 Versicherungspflichtig sind
 
 1.  Personen, die gegen Arbeitsentgelt oder zu ihrer Berufsausbildung
-    beschäftigt sind; während des Bezuges von Kurzarbeitergeld nach dem
-    Dritten Buch besteht die Versicherungspflicht fort,
+    beschäftigt sind; während des Bezuges von Kurzarbeitergeld oder von
+    Qualifizierungsgeld nach dem Dritten Buch besteht die
+    Versicherungspflicht fort,
 
 
 2.  behinderte Menschen, die
@@ -1391,10 +1392,10 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
 
 
     b)  Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung,
-        Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld oder
-        Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung
-        zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur
-        Rentenversicherung gezahlt worden sind.
+        Übergangsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld
+        oder Mutterschaftsgeld bezogen haben und für die von dem der
+        Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen
+        Beiträge zur Rentenversicherung gezahlt worden sind.
 
 
 
@@ -8833,10 +8834,11 @@ Teilhabe, in der sie Krankentagegeld von einem privaten
 Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2
 versichert sind, gilt Satz 1 entsprechend.
 
-(6) Soweit Kurzarbeitergeld geleistet wird, gilt als
-beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags
-zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten
-Buches.
+(6) Soweit Kurzarbeitergeld oder Qualifizierungsgeld geleistet wird,
+gilt als beitragspflichtige Einnahmen 80 vom Hundert des
+Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach
+§ 106 des Dritten Buches (Kurzarbeitergeld) oder nach § 82b des
+Dritten Buches (Qualifizierungsgeld).
 
 (7) Bei Beschäftigten, die gegen ein monatliches Arbeitsentgelt bis
 zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des
@@ -9190,7 +9192,8 @@ Kalenderjahres geltenden Geringfügigkeitsgrenze.
     Versicherten und von den Arbeitgebern je zur Hälfte,
 
 
-1a. bei Arbeitnehmern, die Kurzarbeitergeld beziehen, vom Arbeitgeber,
+1a. bei Arbeitnehmern, die Kurzarbeitergeld oder Qualifizierungsgeld
+    beziehen, vom Arbeitgeber,
 
 
 1b. bei Personen, die gegen Arbeitsentgelt geringfügig

@@ -203,7 +203,7 @@ Dienstunfall vorliegt oder ob Dienstunfallfolgen eingetreten sind.
 sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung
 entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz
 im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11
-Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 2 Satz 1, § 26a Absatz 6,
+Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 3 Satz 1, § 26a Absatz 6,
 § 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie
 § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
 
@@ -332,7 +332,7 @@ gezahlt.
     ohne Abzug von Eigenbehalten entstanden wären,
 
 
-2.  die gesondert berechnete Unterkunft ohne Abzug von Eigenbehalten
+2.  die gesondert berechnete Unterkunft
 
     a)  bis zur Höhe der Aufwendungen für ein Zweibettzimmer der jeweiligen
         Abteilung oder
@@ -559,12 +559,10 @@ Operation oder einer ambulanten Krankenhausbehandlung (Absatz 1 Nummer
 (5) Der Dienstunfallfürsorgestelle ist eine fachärztliche
 Bescheinigung über die Notwendigkeit und den zeitlichen Umfang der
 Haushaltshilfe vorzulegen. Die Aufwendungen für eine Haushaltshilfe
-sind pro Stunde bis zur Höhe von 0,32 Prozent der sich aus § 18 Absatz
-1 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen
-Bezugsgröße, aufgerundet auf volle Euro, erstattungsfähig.
-Aufwendungen für notwendige Fahrten der Haushaltshilfe werden in
-sinngemäßer Anwendung des § 12 Absatz 1 Satz 1 erstattet. § 3 Absatz 3
-gilt entsprechend.
+sind entsprechend § 28 Absatz 1 Satz 1 der Bundesbeihilfeverordnung
+erstattungsfähig. Aufwendungen für notwendige Fahrten der
+Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz
+1 erstattet. § 3 Absatz 3 gilt entsprechend.
 
 
 ### § 12 Fahrten

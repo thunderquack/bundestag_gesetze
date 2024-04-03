@@ -1663,12 +1663,13 @@ des Dritten Kapitels des Dritten Buches erbringen:
 
 
 3.  Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des
-    Dritten Abschnitts und Leistungen nach § 54a Absatz 1 bis 5,
+    Dritten Abschnitts und Leistungen nach den §§ 48a und 54a Absatz 1 bis
+    5,
 
 
 4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt,
-    mit Ausnahme von Leistungen nach § 82 Absatz 6, und Leistungen nach
-    den §§ 131a und 131b,
+    mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und
+    Leistungen nach den §§ 131a und 131b,
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen

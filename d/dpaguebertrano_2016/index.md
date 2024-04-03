@@ -138,9 +138,9 @@ Widerspruchsbescheiden zuständig sind.
 
 ## § 5 Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
 
-(1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß und
-zur Erhebung der Disziplinarklage werden den in § 1 genannten
-Leiterinnen und Leitern übertragen.
+(1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß, zur
+Zurückstufung und zur Entfernung aus dem Beamtenverhältnis werden den
+in § 1 genannten Leiterinnen und Leitern übertragen.
 
 (2) Die Zuständigkeit zum Erlass von Widerspruchsbescheiden in
 disziplinarrechtlichen Angelegenheiten und die Vertretung des

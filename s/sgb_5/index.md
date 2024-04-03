@@ -6746,7 +6746,7 @@ gemeinsamen Grundsätzen, die vom Bundesministerium für Gesundheit zu
 genehmigen sind.
 
 
-##### § 47b Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+##### § 47b Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
 
 (1) Das Krankengeld für Versicherte nach § 5 Abs. 1 Nr. 2 wird in Höhe
 des Betrages des Arbeitslosengeldes oder des Unterhaltsgeldes gewährt,
@@ -6761,10 +6761,10 @@ erkrankt wäre. Änderungen, die zu einer Erhöhung des Krankengeldes um
 weniger als zehn vom Hundert führen würden, werden nicht
 berücksichtigt.
 
-(3) Für Versicherte, die während des Bezuges von Kurzarbeitergeld
-arbeitsunfähig erkranken, wird das Krankengeld nach dem regelmäßigen
-Arbeitsentgelt, das zuletzt vor Eintritt des Arbeitsausfalls erzielt
-wurde (Regelentgelt), berechnet.
+(3) Für Versicherte, die während des Bezuges von Kurzarbeitergeld oder
+Qualifizierungsgeld arbeitsunfähig erkranken, wird das Krankengeld
+nach dem regelmäßigen Arbeitsentgelt, das zuletzt vor Eintritt des
+Arbeitsausfalls erzielt wurde (Regelentgelt), berechnet.
 
 (4) Für Versicherte, die arbeitsunfähig erkranken, bevor in ihrem
 Betrieb die Voraussetzungen für den Bezug von Kurzarbeitergeld nach
@@ -6837,8 +6837,8 @@ Verletztengeld nach dem Siebten Buch.
 
 
 3.  soweit und solange Versicherte Versorgungskrankengeld, Krankengeld der
-    Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld oder
-    Kurzarbeitergeld beziehen,
+    Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld,
+    Kurzarbeitergeld oder Qualifizierungsgeld beziehen,
 
 
 3a. soweit er auf der Erkrankung eines Kindes beruht, das für die
@@ -28918,7 +28918,8 @@ solange
     oder
 
 
-4.  Kurzarbeitergeld nach dem Dritten Buch bezogen wird.
+4.  Kurzarbeitergeld oder Qualifizierungsgeld nach dem Dritten Buch
+    bezogen wird.
 
 
 
@@ -31911,7 +31912,7 @@ entweder nach der Natur der Sache befristet zu sein pflegt oder im
 Voraus durch den Arbeitsvertrag befristet ist.
 
 
-##### § 232a Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+##### § 232a Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
 
 (1) Als beitragspflichtige Einnahmen gelten
 
@@ -31940,10 +31941,12 @@ wegen einer Urlaubsabgeltung gelten die Leistungen als bezogen.
 
 (1a) (weggefallen)
 
-(2) Soweit Kurzarbeitergeld nach dem Dritten Buch gewährt wird, gelten
-als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom
-Hundert des Unterschiedsbetrages zwischen dem Sollentgelt und dem
-Istentgelt nach § 106 des Dritten Buches.
+(2) Soweit Kurzarbeitergeld oder Qualifizierungsgeld nach dem Dritten
+Buch gewährt wird, gelten als beitragspflichtige Einnahmen nach § 226
+Abs. 1 Satz 1 Nr. 1 80 vom Hundert des Unterschiedsbetrages zwischen
+dem Sollentgelt und dem Istentgelt nach § 106 des Dritten Buches beim
+Kurzarbeitergeld oder nach § 82b des Dritten Buches beim
+Qualifizierungsgeld.
 
 (3) § 226 gilt entsprechend.
 
@@ -32452,7 +32455,7 @@ Arbeitsentgelt zu bemessenden Beiträge jeweils zur Hälfte. Bei
 geringfügig Beschäftigten gilt § 249b.
 
 (2) Der Arbeitgeber trägt den Beitrag allein für Beschäftigte, soweit
-Beiträge für Kurzarbeitergeld zu zahlen sind.
+Beiträge für Kurzarbeitergeld oder Qualifizierungsgeld zu zahlen sind.
 
 (3) Abweichend von Absatz 1 werden die Beiträge bei
 versicherungspflichtig Beschäftigten, deren beitragspflichtige
@@ -32905,13 +32908,14 @@ Höhe der Hälfte des Betrages, den der Beschäftigte für seine
 Krankenversicherung zu zahlen hat. Für Beschäftigte, die bei
 Versicherungspflicht keinen Anspruch auf Krankengeld hätten, tritt an
 die Stelle des Beitragssatzes nach § 241 der Beitragssatz nach § 243.
-Soweit Kurzarbeitergeld bezogen wird, ist der Beitragszuschuss in Höhe
-des Betrages zu zahlen, den der Arbeitgeber bei Versicherungspflicht
-des Beschäftigten entsprechend § 249 Absatz 2 zu tragen hätte,
-höchstens jedoch in Höhe des Betrages, den der Beschäftigte für seine
-Krankenversicherung zu zahlen hat; für die Berechnung gilt der um den
-durchschnittlichen Zusatzbeitragssatz nach § 242a erhöhte allgemeine
-Beitragssatz nach § 241. Absatz 1 Satz 3 gilt.
+Soweit Kurzarbeitergeld oder Qualifizierungsgeld bezogen wird, ist der
+Beitragszuschuss in Höhe des Betrages zu zahlen, den der Arbeitgeber
+bei Versicherungspflicht des Beschäftigten entsprechend § 249 Absatz 2
+zu tragen hätte, höchstens jedoch in Höhe des Betrages, den der
+Beschäftigte für seine Krankenversicherung zu zahlen hat; für die
+Berechnung gilt der um den durchschnittlichen Zusatzbeitragssatz nach
+§ 242a erhöhte allgemeine Beitragssatz nach § 241. Absatz 1 Satz 3
+gilt.
 
 (2a) Der Zuschuss nach Absatz 2 wird ab 1. Januar 2009 für eine
 private Krankenversicherung nur gezahlt, wenn das

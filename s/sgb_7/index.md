@@ -2043,10 +2043,11 @@ aktuellen Rentenwertes fest.
     Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld,
     Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen
     Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld,
-    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
-    19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für
-    Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach
-    dem Zweiten Buch oder Mutterschaftsgeld hatten.
+    Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise
+    gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
+    nicht nur Leistungen für Erstausstattungen für Bekleidung bei
+    Schwangerschaft und Geburt nach dem Zweiten Buch oder
+    Mutterschaftsgeld hatten.
 
 
 
@@ -2188,14 +2189,15 @@ zum Ende der Leistungsdauer. Entscheidungen über die Ansprüche, die
 vor dem 22. Juni 2000 unanfechtbar geworden sind, sind nicht nach § 44
 Abs. 1 des Zehnten Buches zurückzunehmen.
 
-(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld oder
-Kurzarbeitergeld bezogen haben, erhalten Verletztengeld in Höhe des
-Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht
-nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für
-Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch
-bezogen haben, erhalten Verletztengeld in Höhe des Betrages des
-Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
+(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld,
+Kurzarbeitergeld oder Qualifizierungsgeld, Qualifizierungsgeld bezogen
+haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b
+des Fünften Buches. Versicherte, die nicht nur darlehensweise
+gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
+nicht nur Leistungen für Erstausstattungen für Bekleidung bei
+Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben,
+erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach §
+19 Absatz 1 Satz 1 des Zweiten Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach
 § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben,
@@ -2297,12 +2299,12 @@ erzielten Einkommen angerechnet
 
 
 2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung,
-    Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur
-    darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des
-    Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem
-    Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch
-    auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert
-    ist.
+    Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld,
+    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
+    19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche
+    auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder
+    der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des
+    Zweiten Buches gemindert ist.
 
 
 

@@ -4191,11 +4191,11 @@ Abweichend davon
 #### § 96 Anwendung der Vorschriften des Bundesdisziplinargesetzes; Verordnungsermächtigung
 
 (1) Soweit in diesem Gesetz nichts Abweichendes bestimmt ist, sind die
-Vorschriften des Bundesdisziplinargesetzes entsprechend anzuwenden.
-Die in diesen Vorschriften den Dienstvorgesetzten zugewiesenen
-Aufgaben und Befugnisse nehmen die Aufsichtsbehörden, die Aufgaben und
-Befugnisse der obersten Dienstbehörde nimmt die Landesjustizverwaltung
-wahr.
+Vorschriften des Bundesdisziplinargesetzes in der am 31. März 2024
+geltenden Fassung entsprechend anzuwenden. Die in diesen Vorschriften
+den Dienstvorgesetzten zugewiesenen Aufgaben und Befugnisse nehmen die
+Aufsichtsbehörden, die Aufgaben und Befugnisse der obersten
+Dienstbehörde nimmt die Landesjustizverwaltung wahr.
 
 (2) Mit der Durchführung der Ermittlungen ist eine Person zu
 beauftragen, die die Befähigung zum Richteramt hat. Zur Durchführung
@@ -4418,8 +4418,9 @@ Gründen nicht zuzumuten ist, sein Amt weiter auszuüben.
 #### § 105 Anfechtung von Entscheidungen des Oberlandesgerichts
 
 Für die Anfechtung von Entscheidungen des Oberlandesgerichts gelten
-die Vorschriften des Bundesdisziplinargesetzes über die Anfechtung von
-Entscheidungen des Verwaltungsgerichts entsprechend.
+die Vorschriften des Bundesdisziplinargesetzes in der am 31. März 2024
+geltenden Fassung über die Anfechtung von Entscheidungen des
+Verwaltungsgerichts entsprechend.
 
 
 #### § 106 Besetzung des Bundesgerichtshofs
@@ -4478,9 +4479,9 @@ Notare vor Beginn des Geschäftsjahres aufstellt.
 #### § 109 Anzuwendende Verfahrensvorschriften
 
 Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen
-Notare sind die Vorschriften des Bundesdisziplinargesetzes über das
-Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend
-anzuwenden.
+Notare sind die Vorschriften des Bundesdisziplinargesetzes in der am
+31\. März 2024 geltenden Fassung über das Disziplinarverfahren vor dem
+Oberverwaltungsgericht entsprechend anzuwenden.
 
 
 #### § 110 Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen

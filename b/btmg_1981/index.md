@@ -425,11 +425,9 @@ Zubereitungen gewährleistet sind.
 
 ### § 7 Antrag
 
-Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist in doppelter
-Ausfertigung beim Bundesinstitut für Arzneimittel und Medizinprodukte
-zu stellen, das eine Ausfertigung der zuständigen obersten
-Landesbehörde übersendet. Dem Antrag müssen folgende Angaben und
-Unterlagen beigefügt werden:
+Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist beim
+Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen. Dem
+Antrag müssen folgende Angaben und Unterlagen beigefügt werden:
 
 1.  die Namen, Vornamen oder die Firma und die Anschriften des
     Antragstellers und der Verantwortlichen,
@@ -1275,40 +1273,9 @@ Befugnisse zu.
 zugleich die besondere Verwaltungsdienststelle im Sinne der
 internationalen Suchtstoffübereinkommen.
 
-(2a) Der Anbau von Cannabis zu medizinischen Zwecken unterliegt der
-Kontrolle des Bundesinstituts für Arzneimittel und Medizinprodukte.
-Dieses nimmt die Aufgaben einer staatlichen Stelle nach Artikel 23
-Absatz 2 Buchstabe d und Artikel 28 Absatz 1 des Einheits-
-Übereinkommens von 1961 über Suchtstoffe vom 30. März 1961 (BGBl. 1973
-II S. 1354) wahr. Der Kauf von Cannabis zu medizinischen Zwecken durch
-das Bundesinstitut für Arzneimittel und Medizinprodukte nach Artikel
-23 Absatz 2 Buchstabe d Satz 2 und Artikel 28 Absatz 1 des Einheits-
-Übereinkommens von 1961 über Suchtstoffe erfolgt nach den Vorschriften
-des Vergaberechts. Das Bundesinstitut für Arzneimittel und
-Medizinprodukte legt unter Berücksichtigung der für die Erfüllung der
-Aufgaben nach Satz 2 entstehenden Kosten seinen Herstellerabgabepreis
-für den Verkauf von Cannabis zu medizinischen Zwecken fest.
+(2a) (weggefallen)
 
-(3) Der Anbau von Nutzhanf im Sinne des Buchstabens d der
-Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I unterliegt der
-Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung.
-Artikel 5 Unterabsatz 1 und 2 und Anhang I der Delegierten Verordnung
-(EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der
-Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um
-zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in
-ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der
-genannten Verordnung festgelegte Interventionskategorien sowie um
-Vorschriften über den Anteil für den Standard für den guten
-landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1
-(ABl. L 20 vom 31.1.2022, S. 52) in der jeweils geltenden Fassung
-gelten entsprechend. Im Übrigen gelten die Vorschriften des
-Integrierten Verwaltungs- und Kontrollsystems über den Anbau von Hanf
-entsprechend. Die Bundesanstalt für Landwirtschaft und Ernährung darf
-die ihr nach den Vorschriften des Integrierten Verwaltungs- und
-Kontrollsystems über den Anbau von Hanf von den zuständigen
-Landesstellen übermittelten Daten sowie die Ergebnisse von im Rahmen
-der Regelungen über die Basisprämie durchgeführten THC-Kontrollen zum
-Zweck der Überwachung nach diesem Gesetz verwenden.
+(3) (weggefallen)
 
 
 ### § 20 Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
@@ -1472,51 +1439,7 @@ Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
-### § 24a Anzeige des Anbaus von Nutzhanf
-
-Der Anbau von Nutzhanf im Sinne des Buchstabens d der Ausnahmeregelung
-zu Cannabis (Marihuana) in Anlage I ist bis zum 1. Juli des
-Anbaujahres in dreifacher Ausfertigung der Bundesanstalt für
-Landwirtschaft und Ernährung zur Erfüllung ihrer Aufgaben nach § 19
-Abs. 3 anzuzeigen. Für die Anzeige ist das von der Bundesanstalt für
-Landwirtschaft und Ernährung herausgegebene amtliche Formblatt zu
-verwenden. Die Anzeige muß enthalten:
-
-1.  den Namen, den Vornamen und die Anschrift des Landwirtes, bei
-    juristischen Personen den Namen des Unternehmens der Landwirtschaft
-    sowie des gesetzlichen Vertreters,
-
-
-2.  die dem Unternehmen der Landwirtschaft von der zuständigen
-    Berufsgenossenschaft zugeteilte Mitglieds-/Katasternummer,
-
-
-3.  die Sorte unter Beifügung der amtlichen Etiketten, soweit diese nicht
-    im Rahmen der Regelungen über die Basisprämie der zuständigen
-    Landesbehörde vorgelegt worden sind,
-
-
-4.  die Aussaatfläche in Hektar und Ar unter Angabe der
-    Flächenidentifikationsnummer; ist diese nicht vorhanden, können die
-    Katasternummer oder sonstige die Aussaatfläche kennzeichnende Angaben,
-    die von der Bundesanstalt für Landwirtschaft und Ernährung anerkannt
-    worden sind, wie zum Beispiel Gemarkung, Flur und Flurstück, angegeben
-    werden.
-
-
-
-Erfolgt die Aussaat von Nutzhanf nach dem 1. Juli des Anbaujahres,
-sind die amtlichen Etiketten nach Satz 3 Nummer 3 bis zum 1. September
-des Anbaujahres vorzulegen. Die Bundesanstalt für Landwirtschaft und
-Ernährung übersendet eine von ihr abgezeichnete Ausfertigung der
-Anzeige unverzüglich dem Antragsteller. Sie hat ferner eine
-Ausfertigung der Anzeige den zuständigen Polizeibehörden und
-Staatsanwaltschaften auf deren Ersuchen zu übersenden, wenn dies zur
-Verfolgung von Straftaten nach diesem Gesetz erforderlich ist. Liegen
-der Bundesanstalt für Landwirtschaft und Ernährung Anhaltspunkte vor,
-daß der Anbau von Nutzhanf nicht den Voraussetzungen des Buchstabens d
-der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I entspricht,
-teilt sie dies der örtlich zuständigen Staatsanwaltschaft mit.
+### § 24a (weggefallen)
 
 
 ### § 25 (weggefallen)
@@ -1810,10 +1733,16 @@ Monaten bis zu fünf Jahren.
 
 3.  Betäubungsmittel abgibt, einem anderen verabreicht oder zum
     unmittelbaren Verbrauch überläßt und dadurch leichtfertig dessen Tod
-    verursacht oder
+    verursacht,
 
 
-4.  Betäubungsmittel in nicht geringer Menge unerlaubt einführt.
+4.  Betäubungsmittel in nicht geringer Menge unerlaubt einführt oder
+
+
+5.  eine in § 29a Absatz 1 Nummer 1 bezeichnete Handlung vorsätzlich
+    begeht und dadurch wenigstens leichtfertig ein Kind oder eine
+    jugendliche Person in der körperlichen, geistigen oder sittlichen
+    Entwicklung schwer gefährdet.
 
 
 
@@ -1982,14 +1911,10 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 
 
 13. entgegen § 24 Abs. 1 einer Duldungs- oder Mitwirkungspflicht nicht
-    nachkommt,
+    nachkommt oder
 
 
-14. entgegen § 24a den Anbau von Nutzhanf nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig anzeigt oder
-
-
-15. Betäubungsmittel in eine Postsendung einlegt, obwohl diese Versendung
+14. Betäubungsmittel in eine Postsendung einlegt, obwohl diese Versendung
     durch den Weltpostvertrag oder ein Abkommen des Weltpostvereins
     verboten ist; das Postgeheimnis gemäß Artikel 10 Abs. 1 des
     Grundgesetzes wird insoweit für die Verfolgung und Ahndung der
@@ -2003,9 +1928,7 @@ fünfundzwanzigtausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesinstitut für Arzneimittel und
-Medizinprodukte, soweit das Gesetz von ihm ausgeführt wird, im Falle
-des § 32 Abs. 1 Nr. 14 die Bundesanstalt für Landwirtschaft und
-Ernährung.
+Medizinprodukte, soweit das Gesetz von ihm ausgeführt wird.
 
 
 ### § 33 Einziehung
@@ -2509,90 +2432,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bromdimethoxyphenethylamin (BDMPEA, 2C-B)
 
     *   4-Brom-2,5-dimethoxyphenethyl-azan
-
-
-*    *   -
-
-    *   **Cannabis**
-        (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis
-        gehörenden Pflanzen)
-
-    *   -
-
-
-*    *   - ausgenommen
-
-    *
-    *
-
-*    *   a)
-
-    *   deren Samen, sofern er nicht zum unerlaubten Anbau bestimmt ist,
-
-
-*    *   b)
-
-    *   wenn sie aus dem Anbau in Ländern der Europäischen Union mit
-        zertifiziertem Saatgut von Hanfsorten stammen, die am 15. März des
-        Anbaujahres im gemeinsamen Sortenkatalog für landwirtschaftliche
-        Pflanzenarten aufgeführt sind und die nach Artikel 17 der Richtlinie
-        2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen
-        Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom
-        20\.7.2002, S. 1) in der jeweils geltenden Fassung durch die
-        Europäische Kommission im Amtsblatt der Europäischen Union Reihe C
-        veröffentlicht sind, oder ihr Gehalt an Tetrahydrocannabinol 0,3
-        Prozent nicht übersteigt und der Verkehr mit ihnen (ausgenommen der
-        Anbau) ausschließlich gewerblichen oder wissenschaftlichen Zwecken
-        dient, die einen Missbrauch zu Rauschzwecken ausschließen,
-
-
-*    *   c)
-
-    *   wenn sie als Schutzstreifen bei der Rübenzüchtung gepflanzt und vor
-        der Blüte vernichtet werden,
-
-
-*    *   d)
-
-    *   wenn sie von Unternehmen der Landwirtschaft angebaut werden, die
-
-        aa) Voraussetzungen des § 1 Absatz 4 des Gesetzes über die Alterssicherung
-            der Landwirte erfüllen, mit Ausnahme von Unternehmen der
-            Forstwirtschaft, des Garten- und Weinbaus, der Fischzucht, der
-            Teichwirtschaft, der Imkerei, der Binnenfischerei und der
-            Wanderschäferei, oder
-
-
-        bb) für eine Direktzahlung nach dem GAP-Direktzahlungen-Gesetz in Betracht
-            kommen
-
-
-
-
-
-*    *
-    *   und der Anbau ausschließlich aus zertifiziertem Saatgut von Hanfsorten
-        erfolgt, die am 15. März des Anbaujahres im gemeinsamen Sortenkatalog
-        für landwirtschaftliche Pflanzenarten aufgeführt sind und die nach
-        Artikel 17 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über
-        einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten
-        (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung
-        durch die Europäische Kommission im Amtsblatt der Europäischen Union
-        Reihe C veröffentlicht sind (Nutzhanf) oder
-
-
-*    *   e)
-
-    *   zu den in Anlage III bezeichneten Zwecken -
-
-
-*    *   -
-
-    *   **Cannabisharz**
-        (Haschisch, das abgesonderte Harz der zur Gattung Cannabis gehörenden
-        Pflanzen=)
-
-    *   -
 
 
 *    *   **Carfentanil**
@@ -3619,7 +3458,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-[1-(2-Thienyl)cyclohexyl]piperidin
 
 
-*    *
+*    *   -
+
     *   Tetrahydrocannabinole, folgende Isomeren und ihre stereochemischen
         Varianten:
 
@@ -3627,7 +3467,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   **Δ6a(10a)-Tetrahydrocannabinol**
+    *   Δ6a(10a)-Tetrahydrocannabinol
         (Δ6a(10a)-THC)
 
     *   6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6
@@ -3636,58 +3476,70 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   **Δ6a-Tetrahydrocannabinol**
+    *   Δ6a-Tetrahydrocannabinol
         (Δ6a-THC)
 
     *   (9
         R                       ,10a
-        R                       )-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetra-
-        hydro-6
-        H                       -benzo[c]chromen-1- ol(6a
-        R                       ,9
-        R                       ,10a
         R
-        )-6,6,9-Trimethyl-3-pentyl-6a,9,10,10a-tetrahydro-6
-        H                       -benzo[c] chromen-1-ol
-
-
-*    *   -
-
-    *   **Δ7-Tetrahydrocannabinol**
-        (Δ7-THC)
-
-
-*    *   -
-
-    *   **Δ8-Tetrahydrocannabinol**
-        (Δ8-THC)
-
-    *   (6a
-        R                       ,10a
-        R                       )-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetra-
-        hydro-6
-        H                       -benzo[c]chromen- 1-ol(6a
-        R
-        )-6,6,9-Trimethyl-3-pentyl-6a,7,8,9-tetrahydro-6
+        )-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetrahydro-6
         H                       -benzo[c]chromen-1-ol
 
 
 *    *   -
 
-    *   **Δ10-Tetrahydrocannabinol**
-        (Δ10-THC)
+    *   Δ7-Tetrahydrocannabinol
+        (Δ7-THC)
+
+    *   (6aR,9R,10aR)-6,6,9-Trimethyl-3-pentyl-6a,9,10,10a-tetrahydro-6H-
+        benzo[c]chromen-1-ol
 
 
 *    *   -
 
-    *   **Δ9(11)-Tetrahydrocannabinol**
+    *   Δ8-Tetrahydrocannabinol
+        (Δ8-THC)
+
+    *   (6a
+        R                       ,10a
+        R
+        )-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6
+        H                       -benzo[c]chromen-1-ol
+
+
+*    *   -
+
+    *   Δ10-Tetrahydrocannabinol
+        (Δ10-THC)
+
+    *   (6aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9-tetrahydro-6H-benzo[c]chromen-
+        1-ol
+
+
+*    *   -
+
+    *   Δ9(11)-Tetrahydrocannabinol
         (Δ9(11)-THC)
 
     *   (6a
         R                       ,10a
         R
         )-6,6-Dimethyl-9-methylen-3-pentyl-6a,7,8,9,10,10a-hexahydro-6
-        H                       -benzo[c] chromen-1-ol
+        H                       -benzo[c]chromen-1-ol
+
+
+*    *   – ausgenommen,
+
+        a)  wenn es sich um Cannabis zu medizinisch-wissenschaftlichen Zwecken im
+            Sinne des Medizinal-Cannabisgesetzes handelt, oder
+
+
+        b)  wenn es sich um eine nichtsynthetische Form handelt, die zu
+            nichtmedizinischen Zwecken im Verkehr ist.
+
+
+
+
 
 
 *    *   -
@@ -4253,7 +4105,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008119125]
+    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]
    CUMYL-4CN-BINACA
         (SGT-78)
 
@@ -5490,11 +5342,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   **Δ9-Tetrahydrocannabinol**
+    *   Δ9-Tetrahydrocannabinol
         (Δ9-THC)
 
-    *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6
-        H                       -benzo[c]chromen-1-ol
+    *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol
+
+
+*    *   – ausgenommen,
+
+        a)  wenn es sich um Cannabis zu medizinischen Zwecken oder Cannabis zu
+            medizinisch-wissenschaftlichen Zwecken im Sinne des Medizinal-
+            Cannabisgesetzes handelt, oder
+
+
+        b)  wenn es sich um eine nichtsynthetische Form handelt, die zu
+            nichtmedizinischen Zwecken im Verkehr ist.
+
+
+
+
 
 
 *    *   -
@@ -5659,7 +5525,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Rahmenbeschlusses 2004/757/JI des Rates zur Aufnahme neuer
     psychoaktiver Substanzen in die Drogendefinition (ABl. L 66 vom
     7\.3.2019, S. 3) umgesetzt.
-[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008119125]: 
+[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]: 
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
@@ -5852,22 +5718,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1
         H                       -1,4-enzodiazepin-3-yl)(dimethylcarbamat)
-
-
-*    *   -
-
-    *   Cannabis
-        (Marihuana, Pflanzen und Pflan-
-        zenteile der zur Gattung Cannabis
-        gehörenden Pflanzen)
-
-    *   -
-
-
-*    *   - nur aus einem Anbau, der zu medizinischen Zwecken unter staatlicher
-        Kontrolle gemäß den Artikeln 23 und 28 Absatz 1 des Einheits-
-        Übereinkommens von 1961 über Suchtstoffe erfolgt, sowie in
-        Zubereitungen, die als Fertigarzneimittel zugelassen sind -
 
 
 *    *   **Cathin**
@@ -6092,17 +5942,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-
-*    *   **Dronabinol**
-
-    *   -
-
-    *   (6a
-        R                       ,10a
-        R
-        )-6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6
-        H                       -benzo[c]chromen-1-ol
 
 
 *    *   **Estazolam**

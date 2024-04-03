@@ -568,10 +568,6 @@ Betäubungsmittelgesetzes aufgeführten Stoffe, die entweder
 
 im grenzüberschreitenden Verkehr mitgeführt werden.
 
-Satz 1 Nummer 2 gilt auch für den in der Anlage III des
-Betäubungsmittelgesetzes aufgeführten Cannabis in Form von
-getrockneten Blüten.
-
 (2) Die Vorschriften der §§ 1 bis 12 finden ferner keine Anwendung auf
 Betäubungsmittel, wenn diese in angemessenen Mengen als Ausrüstungen
 für die erste Hilfeleistung oder für sonstige dringende Fälle in

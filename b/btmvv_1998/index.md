@@ -26,12 +26,11 @@ Zuletzt geändert durch
 ## § 1 Grundsätze
 
 (1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten
-Betäubungsmittel dürfen nur als Zubereitungen, Cannabis auch in Form
-von getrockneten Blüten, verschrieben werden. Die Vorschriften dieser
-Verordnung gelten auch für Salze und Molekülverbindungen der
-Betäubungsmittel, die nach den Erkenntnissen der medizinischen
-Wissenschaft ärztlich, zahnärztlich oder tierärztlich angewendet
-werden.
+Betäubungsmittel dürfen nur als Zubereitungen verschrieben werden. Die
+Vorschriften dieser Verordnung gelten auch für Salze und
+Molekülverbindungen der Betäubungsmittel, die nach den Erkenntnissen
+der medizinischen Wissenschaft ärztlich, zahnärztlich oder
+tierärztlich angewendet werden.
 
 (2) Betäubungsmittel für einen Patienten oder ein Tier und für den
 Praxisbedarf eines Arztes, Zahnarztes oder Tierarztes dürfen nur nach
@@ -104,10 +103,10 @@ Teileinheiten abgegrenzt sind.
 
 (1) Für einen Patienten darf der Zahnarzt die in Anlage III des
 Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
-Alfentanil, Amfetamin, Cannabis, Cocain, Diamorphin, Dronabinol,
-Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon,
-Methylphenidat, Nabilon, Normethadon, Opium, Papaver somniferum,
-Pentobarbital, Remifentanil, Secobarbital und Sufentanil verschreiben.
+Alfentanil, Amfetamin, Cocain, Diamorphin, Etorphin, Fenetyllin,
+Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon,
+Normethadon, Opium, Papaver somniferum, Pentobarbital, Remifentanil,
+Secobarbital und Sufentanil verschreiben.
 
 (2) Für seinen Praxisbedarf darf der Zahnarzt die in Absatz 1
 bezeichneten Betäubungsmittel sowie Alfentanil, Fentanyl, Remifentanil
@@ -130,10 +129,10 @@ Teileinheiten abgegrenzt sind.
 
 (1) Für ein Tier darf der Tierarzt die in Anlage III des
 Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
-Alfentanil, Cannabis, Cocain, Diamorphin, Dronabinol, Etorphin,
-Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat,
-Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil,
-Secobarbital und Sufentanil verschreiben.
+Alfentanil, Cocain, Diamorphin, Etorphin, Fenetyllin, Fentanyl,
+Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon,
+Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und
+Sufentanil verschreiben.
 
 (2) Für seinen Praxisbedarf darf der Tierarzt die in Absatz 1
 bezeichneten Betäubungsmittel sowie Alfentanil, Cocain zur

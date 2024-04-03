@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 25.10.2023 I Nr. 294
-
-Änderung durch
-:   Art. 14a G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14a G v. 27.3.2024 I Nr. 109
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -1838,7 +1835,8 @@ zuständig für Straftaten
     129, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches und
     des § 20 Abs. 1 Satz 1 Nr. 1 bis 4 des Vereinsgesetzes; dies gilt
     nicht, wenn dieselbe Handlung eine Straftat nach dem
-    Betäubungsmittelgesetz darstellt,
+    Betäubungsmittelgesetz, Konsumcannabisgesetz oder Medizinal-
+    Cannabisgesetz darstellt,
 
 
 5.  der Verschleppung (§ 234a des Strafgesetzbuches) und

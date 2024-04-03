@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.7.1993 I 1288, 1594;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.6.2023 I Nr. 147, Nr. 198
-
-Änderung durch
-:   Art. 1 G v. 7.3.2024 I Nr. 91 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 1 G v. 8.6.2023 I Nr. 147 ist berücksichtigt
+:   Art. 1 G v. 7.3.2024 I Nr. 91
 
 
 ## Erster Abschnitt - Wahlsystem

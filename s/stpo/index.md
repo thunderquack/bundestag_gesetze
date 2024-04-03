@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.2.2024 I Nr. 54
-
-Änderung durch
-:   Art. 13a G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13a G v. 27.3.2024 I Nr. 109
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -2991,6 +2988,30 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
 
+7a. aus dem Konsumcannabisgesetz:
+
+    a)  Straftaten nach einer in § 34 Absatz 3 Satz 2 Nummer 1 in Bezug
+        genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+
+    b)  Straftaten nach § 34 Absatz 4,
+
+
+
+
+
+7b. aus dem Medizinal-Cannabisgesetz:
+
+    a)  Straftaten nach einer in § 25 Absatz 4 Satz 2 Nummer 1 in Bezug
+        genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+
+    b)  Straftaten nach § 25 Absatz 5,
+
+
+
+
+
 8.  aus dem Grundstoffüberwachungsgesetz:
 
     Straftaten nach § 19 Abs. 1 unter den in § 19 Abs. 3 Satz 2 genannten
@@ -3268,6 +3289,16 @@ sind:
 
 
 
+
+
+5a. aus dem Konsumcannabisgesetz:
+
+    Straftaten nach § 34 Absatz 4 Nummer 1, 3 oder Nummer 4,
+
+
+5b. aus dem Medizinal-Cannabisgesetz:
+
+    Straftaten nach § 25 Absatz 5 Nummer 1, 3 oder Nummer 4,
 
 
 6.  aus dem Gesetz über die Kontrolle von Kriegswaffen:
@@ -3942,7 +3973,7 @@ Gesetzes), darf die Auskunft nur verlangt werden, wenn die
 gesetzlichen Voraussetzungen für ihre Nutzung zur Verfolgung einer
 besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a,
 c, e, f, g, h oder m, Nummer 3 Buchstabe b erste Alternative oder
-Nummer 5, 6, 9 oder 10 vorliegen.
+Nummer 5, 5a, 5b, 6, 9 oder 10 vorliegen.
 
 (2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem
 bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
@@ -4593,8 +4624,8 @@ befriedete Besitztum nur in folgenden Fällen durchsucht werden:
 jedermann zugänglich oder die der Polizei als Herbergen oder
 Versammlungsorte bestrafter Personen, als Niederlagen von Sachen, die
 mittels Straftaten erlangt sind, oder als Schlupfwinkel des
-Glücksspiels, des unerlaubten Betäubungsmittel- und Waffenhandels oder
-der Prostitution bekannt sind.
+Glücksspiels, des unerlaubten Betäubungsmittel-, Cannabis- und
+Waffenhandels oder der Prostitution bekannt sind.
 
 (3) Die Nachtzeit umfasst den Zeitraum von 21 bis 6 Uhr.
 
@@ -5316,8 +5347,15 @@ verdächtig ist,
     125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260,
     nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches
     oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1,
-    § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach § 4
-    Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
+    § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach einer
+    in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des
+    Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort
+    genannten Voraussetzungen oder nach § 34 Absatz 4 des
+    Konsumcannabisgesetzes oder nach einer in § 25 Absatz 4 Satz 2 Nummer
+    1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen
+    Vorschrift unter den dort genannten Voraussetzungen oder nach § 25
+    Absatz 5 des Medizinal-Cannabisgesetzes oder nach § 4 Absatz 3 Nummer
+    1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
 
 
 
@@ -13901,13 +13939,25 @@ einer Straftat nach
     Waffengesetzes, den §§ 17 und 18 des Außenwirtschaftsgesetzes, wenn
     die Tat vorsätzlich begangen wird, oder nach § 19 Abs. 1 bis 3, § 20
     Abs. 1 oder 2, jeweils auch in Verbindung mit § 21, oder § 22a Abs. 1
-    bis 3 des Gesetzes über die Kontrolle von Kriegswaffen oder
+    bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
 
 
 4.  einer in § 29 Abs. 3 Satz 2 Nr. 1 des Betäubungsmittelgesetzes in
     Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen
     oder einer Straftat nach den §§ 29a, 30 Abs. 1 Nr. 1, 2, 4, § 30a oder
-    § 30b des Betäubungsmittelgesetzes
+    § 30b des Betäubungsmittelgesetzes,
+
+
+5.  einer in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des
+    Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort
+    genannten Voraussetzungen oder einer Straftat nach § 34 Absatz 4 des
+    Konsumcannabisgesetzes oder
+
+
+6.  einer in § 25 Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-
+    Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort
+    genannten Voraussetzungen oder einer Straftat nach § 25 Absatz 5 des
+    Medizinal-Cannabisgesetzes
 
 
 

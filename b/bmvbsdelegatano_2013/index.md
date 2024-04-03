@@ -104,23 +104,17 @@ nach dieser Anordnung für die Entscheidung über Widersprüche zuständig
 sind.
 
 
-## § 4 Vorbehaltsklausel
+## § 4 (weggefallen)
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung behält
-sich vor, Zuständigkeiten nach den §§ 1 bis 3 in besonderen Fällen
-selbst auszuüben.
+-
 
 
-## § 5 Übergangsregelung
+## § 5 (weggefallen)
 
-Für Widersprüche und Klagen, die vor dem Inkrafttreten dieser
-Anordnung erhoben worden sind, bleibt es bei den bisherigen
-Zuständigkeiten.
+-
 
 
-## § 6 Inkrafttreten, Außerkrafttreten
+## § 6 (weggefallen)
 
-Diese Anordnung tritt am 15. August 2013 in Kraft. Gleichzeitig tritt
-die BMVBS-Delegationsanordnung vom 25. Mai 2010 (BGBl. I S. 781) außer
-Kraft.
+-
 

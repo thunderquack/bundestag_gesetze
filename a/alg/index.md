@@ -272,9 +272,9 @@ werden, um Erwerbseinkommen zu ersetzen. Hierzu zählen insbesondere
 2.  Krankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des
     Vierzehnten Buches Sozialgesetzbuch, Verletztengeld, soweit es nicht
     nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird,
-    oder Übergangsgeld, Arbeitslosengeld oder Unterhaltsgeld nach dem
-    Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem
-    Sozialleistungsträger.
+    oder Übergangsgeld, Arbeitslosengeld, Qualifizierungsgeld oder
+    Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch und
+    vergleichbare Leistungen von einem Sozialleistungsträger.
 
 
 

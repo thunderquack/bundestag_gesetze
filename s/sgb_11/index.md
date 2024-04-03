@@ -6284,9 +6284,10 @@ monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde gelegt.
 Beschäftigten, die in der gesetzlichen Krankenversicherung
 pflichtversichert sind, und ihre Arbeitgeber tragen die nach dem
 Arbeitsentgelt zu bemessenden Beiträge jeweils zur Hälfte. Soweit für
-Beschäftigte Beiträge für Kurzarbeitergeld zu zahlen sind, trägt der
-Arbeitgeber den Beitrag allein. Den Beitragszuschlag für Kinderlose
-nach § 55 Absatz 3 Satz 1 tragen die Beschäftigten.
+Beschäftigte Beiträge für Kurzarbeitergeld oder Qualifizierungsgeld zu
+zahlen sind, trägt der Arbeitgeber den Beitrag allein. Den
+Beitragszuschlag für Kinderlose nach § 55 Absatz 3 Satz 1 tragen die
+Beschäftigten.
 
 (2) Zum Ausgleich der mit den Arbeitgeberbeiträgen verbundenen
 Belastungen der Wirtschaft werden die Länder einen gesetzlichen
@@ -6452,12 +6453,13 @@ den sich aus dem Beitragszuschlag ergebenden Betrag an die Pflegekasse
 zu zahlen.
 
 (7) Die Beitragszuschläge für die Bezieher von Arbeitslosengeld,
-Unterhaltsgeld und Kurzarbeitergeld, Ausbildungsgeld, Übergangsgeld
-und, soweit die Bundesagentur beitragszahlungspflichtig ist, für
-Bezieher von Berufsausbildungsbeihilfe nach dem Dritten Buch werden
-von der Bundesagentur für Arbeit pauschal in Höhe von 20 Millionen
-Euro pro Jahr an den Ausgleichsfonds der Pflegeversicherung (§ 65)
-überwiesen. Die Bundesagentur für Arbeit kann mit Zustimmung des
+Qualifizierungsgeld, Unterhaltsgeld und Kurzarbeitergeld,
+Ausbildungsgeld, Übergangsgeld und, soweit die Bundesagentur
+beitragszahlungspflichtig ist, für Bezieher von
+Berufsausbildungsbeihilfe nach dem Dritten Buch werden von der
+Bundesagentur für Arbeit pauschal in Höhe von 20 Millionen Euro pro
+Jahr an den Ausgleichsfonds der Pflegeversicherung (§ 65) überwiesen.
+Die Bundesagentur für Arbeit kann mit Zustimmung des
 Bundesministeriums für Arbeit und Soziales hinsichtlich der
 übernommenen Beträge Rückgriff bei den genannten Leistungsbeziehern
 nach dem Dritten Buch nehmen. Die Bundesagentur für Arbeit kann mit
@@ -6479,12 +6481,13 @@ zahlen wäre. Bestehen innerhalb desselben Zeitraums mehrere
 Beschäftigungsverhältnisse, sind die beteiligten Arbeitgeber
 anteilmäßig nach dem Verhältnis der Höhe der jeweiligen
 Arbeitsentgelte zur Zahlung des Beitragszuschusses verpflichtet. Für
-Beschäftigte, die Kurzarbeitergeld nach dem Dritten Buch beziehen, ist
-zusätzlich zu dem Zuschuß nach Satz 1 die Hälfte des Betrages zu
-zahlen, den der Arbeitgeber bei Versicherungspflicht des Beschäftigten
-nach § 58 Abs. 1 Satz 2 als Beitrag zu tragen hätte. Freiwillig in der
-gesetzlichen Krankenversicherung Versicherte, die eine Beschäftigung
-nach dem Jugendfreiwilligendienstegesetz oder nach dem
+Beschäftigte, die Kurzarbeitergeld oder Qualifizierungsgeld nach dem
+Dritten Buch beziehen, ist zusätzlich zu dem Zuschuß nach Satz 1 die
+Hälfte des Betrages zu zahlen, den der Arbeitgeber bei
+Versicherungspflicht des Beschäftigten nach § 58 Abs. 1 Satz 2 als
+Beitrag zu tragen hätte. Freiwillig in der gesetzlichen
+Krankenversicherung Versicherte, die eine Beschäftigung nach dem
+Jugendfreiwilligendienstegesetz oder nach dem
 Bundesfreiwilligendienstgesetz ausüben, erhalten von ihrem Arbeitgeber
 als Beitragszuschuss den Betrag, den Arbeitgeber bei
 Versicherungspflicht der Freiwilligendienstleistenden nach § 20 Absatz
@@ -6503,13 +6506,13 @@ Höhe begrenzt auf den Betrag, der als Arbeitgeberanteil bei
 Versicherungspflicht in der sozialen Pflegeversicherung als
 Beitragsanteil zu zahlen wäre, höchstens jedoch auf die Hälfte des
 Betrages, den der Beschäftigte für seine private Pflegeversicherung zu
-zahlen hat. Für Beschäftigte, die Kurzarbeitergeld nach dem Dritten
-Buch beziehen, gilt Absatz 1 Satz 3 mit der Maßgabe, daß sie höchstens
-den Betrag erhalten, den sie tatsächlich zu zahlen haben. Bestehen
-innerhalb desselben Zeitraumes mehrere Beschäftigungsverhältnisse,
-sind die beteiligten Arbeitgeber anteilig nach dem Verhältnis der Höhe
-der jeweiligen Arbeitsentgelte zur Zahlung des Beitragszuschusses
-verpflichtet.
+zahlen hat. Für Beschäftigte, die Kurzarbeitergeld oder
+Qualifizierungsgeld nach dem Dritten Buch beziehen, gilt Absatz 1 Satz
+3 mit der Maßgabe, daß sie höchstens den Betrag erhalten, den sie
+tatsächlich zu zahlen haben. Bestehen innerhalb desselben Zeitraumes
+mehrere Beschäftigungsverhältnisse, sind die beteiligten Arbeitgeber
+anteilig nach dem Verhältnis der Höhe der jeweiligen Arbeitsentgelte
+zur Zahlung des Beitragszuschusses verpflichtet.
 
 (3) Für Bezieher von Vorruhestandsgeld, die als Beschäftigte bis
 unmittelbar vor Beginn der Vorruhestandsleistungen Anspruch auf den

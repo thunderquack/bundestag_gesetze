@@ -1465,6 +1465,41 @@ ausschließlich gegen § 24c des Straßenverkehrsgesetzes begangen worden
 sind, nicht zu berücksichtigen.
 
 
+#### § 13a Klärung von Eignungszweifeln bei Cannabisproblematik
+
+Zur Vorbereitung von Entscheidungen über die Erteilung oder
+Verlängerung der Fahrerlaubnis oder über die Anordnung von
+Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass
+
+1.  ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3) beizubringen ist, wenn
+    Tatsachen die Annahme von Cannabisabhängigkeit begründen, oder
+
+
+2.  ein medizinisch-psychologisches Gutachten beizubringen ist, wenn
+
+    a)  nach dem ärztlichen Gutachten zwar keine Cannabisabhängigkeit, jedoch
+        Anzeichen für Cannabismissbrauch vorliegen oder sonst Tatsachen die
+        Annahme von Cannabismissbrauch begründen,
+
+
+    b)  wiederholt Zuwiderhandlungen im Straßenverkehr unter Cannabiseinfluss
+        begangen wurden,
+
+
+    c)  die Fahrerlaubnis aus einem der unter den Buchstaben a und b genannten
+        Gründen entzogen war oder
+
+
+    d)  sonst zu klären ist, ob Cannabismissbrauch oder Cannabisabhängigkeit
+        nicht mehr besteht.
+
+
+
+
+
+
+
+
 #### § 14 Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
 
 (1) Zur Vorbereitung von Entscheidungen über die Erteilung oder die
@@ -1491,10 +1526,7 @@ Tatsachen die Annahme begründen, dass
 
 vorliegt. Die Beibringung eines ärztlichen Gutachtens kann angeordnet
 werden, wenn der Betroffene Betäubungsmittel im Sinne des
-Betäubungsmittelgesetzes widerrechtlich besitzt oder besessen hat. Die
-Beibringung eines medizinisch-psychologischen Gutachtens kann
-angeordnet werden, wenn gelegentliche Einnahme von Cannabis vorliegt
-und weitere Tatsachen Zweifel an der Eignung begründen.
+Betäubungsmittelgesetzes widerrechtlich besitzt oder besessen hat.
 
 (2) Die Beibringung eines medizinisch-psychologischen Gutachtens ist
 für die Zwecke nach Absatz 1 anzuordnen, wenn
@@ -9423,7 +9455,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   9.1
 
     *   Einnahme von Betäubungsmitteln im Sinne des
-        Betäubungsmittelgesetzes (ausgenommen Cannabis)
+        Betäubungsmittelgesetzes
 
     *   nein
 
@@ -9432,6 +9464,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   –
 
     *   –
+
+
+*    *   Krankheiten, Mängel
+
+    *   Eignung oder
+        bedingte Eignung
+
+    *   Beschränkungen/Auflagen
+        bei bedingter Eignung
+
+
+*    *   Klassen A, A1, A2,
+        B, BE, AM, L, T
+
+    *   Klassen C, C1, CE, C1E, D, D1,
+        DE, D1E, FzF
+
+    *   Klassen A, A1, A2,
+        B, BE, AM, L, T
+
+    *   Klassen C, C1,
+        CE, C1E, D, D1,
+        DE, D1E, FzF
 
 
 *    *   9.2
@@ -9445,8 +9500,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9.2.1
 
-    *   Regelmäßige Einnahme
-        von Cannabis
+    *   Missbrauch
+        (Das Führen von Fahrzeugen und ein die Fahrsicherheit
+        beeinträchtigender Cannabiskonsum können nicht hinreichend sicher
+        getrennt werden.)
 
     *   nein
 
@@ -9459,22 +9516,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9.2.2
 
-    *   Gelegentliche Einnahme
-        von Cannabis
+    *   nach Beendigung des Missbrauchs
 
     *   ja
-        wenn Trennung von Konsum
-        und Fahren und kein zusätzlicher Gebrauch von
-        Alkohol oder
-        anderen psychoaktiv wirkenden Stoffen, keine Störung der
-        Persönlichkeit, kein Kontrollverlust
+        wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist
 
     *   ja
-        wenn Trennung von Konsum und Fahren und kein zusätzlicher
-        Gebrauch von
-        Alkohol oder
-        anderen psychoaktiv wirkenden Stoffen, keine Störung der
-        Persönlichkeit, kein Kontrollverlust
+        wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist
+
+    *   –
+
+    *   –
+
+
+*    *   9.2.3
+
+    *   Abhängigkeit
+
+    *   nein
+
+    *   nein
+
+    *   –
+
+    *   –
+
+
+*    *   9.2.4
+
+    *   nach Abhängigkeit (Entwöhnungsbehandlung)
+
+    *   ja
+        wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr
+        Abstinenz nachgewiesen ist
+
+    *   ja
+        wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr
+        Abstinenz nachgewiesen ist
 
     *   –
 
@@ -9818,23 +9896,24 @@ vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 17. Februar 2021
     f)  In den Fällen der §§ 13 und 14 ist Gegenstand der Untersuchung auch
         das voraussichtliche künftige Verhalten des Betroffenen, insbesondere
         ob zu erwarten ist, dass er nicht oder nicht mehr ein Kraftfahrzeug
-        unter Einfluss von Alkohol oder Betäubungsmitteln oder Arzneimitteln
-        führen wird. Hat Abhängigkeit von Alkohol oder Betäubungsmitteln oder
-        Arzneimitteln vorgelegen, muss sich die Untersuchung darauf
-        erstrecken, dass eine stabile Abstinenz besteht. Bei
-        Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war oder ist, muss
-        sich die Untersuchung darauf erstrecken, ob der Betroffene den Konsum
-        von Alkohol einerseits und das Führen von Kraftfahrzeugen im
-        Straßenverkehr andererseits zuverlässig voneinander trennen kann. Dem
-        Betroffenen kann die Fahrerlaubnis nur dann erteilt werden, wenn sich
-        bei ihm ein grundlegender Wandel in seiner Einstellung zum Führen von
-        Kraftfahrzeugen unter Einfluss von Alkohol oder Betäubungsmitteln oder
-        Arzneimitteln vollzogen hat. Es müssen zum Zeitpunkt der Erteilung der
-        Fahrerlaubnis Bedingungen vorhanden sein, die einen Rückfall als
-        unwahrscheinlich erscheinen lassen. Das Gutachten kann auch geeignete
-        Kurse zur Wiederherstellung der Kraftfahreignung empfehlen. Die
-        Empfehlung darf nur gegenüber Personen erfolgen, die zum Zeitpunkt der
-        Begutachtung nicht Inhaber einer Fahrerlaubnis sind.
+        unter Einfluss von Alkohol oder Betäubungsmitteln oder Cannabis oder
+        Arzneimitteln führen wird. Hat Abhängigkeit von Alkohol oder
+        Betäubungsmitteln oder Cannabis oder Arzneimitteln vorgelegen, muss
+        sich die Untersuchung darauf erstrecken, dass eine stabile Abstinenz
+        besteht. Bei Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war
+        oder ist, muss sich die Untersuchung darauf erstrecken, ob der
+        Betroffene den Konsum von Alkohol einerseits und das Führen von
+        Kraftfahrzeugen im Straßenverkehr andererseits zuverlässig voneinander
+        trennen kann. Dem Betroffenen kann die Fahrerlaubnis nur dann erteilt
+        werden, wenn sich bei ihm ein grundlegender Wandel in seiner
+        Einstellung zum Führen von Kraftfahrzeugen unter Einfluss von Alkohol
+        oder Betäubungsmitteln oder Cannabis oder Arzneimitteln vollzogen hat.
+        Es müssen zum Zeitpunkt der Erteilung der Fahrerlaubnis Bedingungen
+        vorhanden sein, die einen Rückfall als unwahrscheinlich erscheinen
+        lassen. Das Gutachten kann auch geeignete Kurse zur Wiederherstellung
+        der Kraftfahreignung empfehlen. Die Empfehlung darf nur gegenüber
+        Personen erfolgen, die zum Zeitpunkt der Begutachtung nicht Inhaber
+        einer Fahrerlaubnis sind.
 
 
     g)  In den Fällen des § 2a Absatz 4 Satz 1 und Absatz 5 Satz 5 oder des §

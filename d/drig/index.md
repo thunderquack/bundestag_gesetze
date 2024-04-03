@@ -653,6 +653,10 @@ Geltungsbereich dieses Gesetzes erkannt auf
     Tat,
 
 
+1a. Freiheitsstrafe von mindestens sechs Monaten wegen einer Tat, die nach
+    § 130 des Strafgesetzbuchs (Volksverhetzung) strafbar ist,
+
+
 2.  Freiheitsstrafe wegen einer vorsätzlichen Tat, die nach den
     Vorschriften über Friedensverrat, Hochverrat, Gefährdung des
     demokratischen Rechtsstaates oder Landesverrat und Gefährdung der
@@ -1882,7 +1886,8 @@ gegen Urteile der Dienstgerichte der Länder (§ 79).
 #### § 63 Disziplinarverfahren
 
 (1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des
-Bundesdisziplinargesetzes sinngemäß.
+Bundesdisziplinargesetzes in der am 31. März 2024 geltenden Fassung
+sinngemäß.
 
 (2) Über die vorläufige Dienstenthebung und die Einbehaltung von
 Bezügen sowie über die Aufhebung dieser Maßnahmen entscheidet auf

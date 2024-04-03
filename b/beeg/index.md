@@ -184,11 +184,11 @@ von einer Erwerbstätigkeit anspruchsberechtigt.
 (8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten
 abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu
 versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes
-in Höhe von mehr als 250 000 Euro erzielt hat. Erfüllt auch eine
+in Höhe von mehr als 175 000 Euro erzielt hat. Erfüllt auch eine
 andere Person die Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder
 der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch,
 wenn die Summe des zu versteuernden Einkommens beider Personen mehr
-als 300 000 Euro beträgt.
+als 175 000 Euro beträgt.
 
 
 ### § 2 Höhe des Elterngeldes
@@ -647,8 +647,7 @@ Lebensjahres des Kindes bezogen werden.
 
 (2) Elterngeld wird in Monatsbeträgen für Lebensmonate des Kindes
 gezahlt. Der Anspruch endet mit dem Ablauf des Lebensmonats, in dem
-eine Anspruchsvoraussetzung entfallen ist. Die Eltern können die
-jeweiligen Monatsbeträge abwechselnd oder gleichzeitig beziehen.
+eine Anspruchsvoraussetzung entfallen ist.
 
 (3) Die Eltern haben gemeinsam Anspruch auf zwölf Monatsbeträge
 Basiselterngeld. Ist das Einkommen aus Erwerbstätigkeit eines
@@ -776,6 +775,19 @@ Im Fall von
 
 
 
+
+(6) Ein gleichzeitiger Bezug von Basiselterngeld beider Elternteile
+ist nur in einem der ersten zwölf Lebensmonate des Kindes möglich.
+Bezieht einer der beiden Elternteile Elterngeld Plus, so kann dieser
+Elternteil das Elterngeld Plus gleichzeitig zum Bezug von
+Basiselterngeld oder von Elterngeld Plus des anderen Elternteils
+beziehen. § 4b bleibt unberührt. Abweichend von Satz 1 können bei
+Mehrlingsgeburten und Frühgeburten im Sinne des Absatzes 5 sowie bei
+Kindern, bei denen eine Behinderung im Sinne von § 2 Absatz 1 Satz 1
+des Neunten Buches Sozialgesetzbuch ärztlich festgestellt wird und bei
+Kindern, die einen Geschwisterbonus nach § 2a Absatz 1 in Verbindung
+mit Absatz 2 Satz 3 auslösen, beide Elternteile gleichzeitig
+Basiselterngeld beziehen.
 
 
 ### § 4a Berechnung von Basiselterngeld und Elterngeld Plus
@@ -1785,7 +1797,12 @@ glaubhaft gemacht worden sind.
 Adoption aufgenommenen Kinder ist dieses Gesetz in der bis zum 31.
 August 2021 geltenden Fassung weiter anzuwenden.
 
-(1a) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch
+(1a) Für die nach dem 31. August 2021 und vor dem 1. April 2024
+geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist
+dieses Gesetz in der bis zum 31. März 2024 geltenden Fassung weiter
+anzuwenden.
+
+(1b) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch
 Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
 Krankenversicherung der Landwirte in Bezug nimmt, gelten die
 betreffenden Regelungen für Mutterschaftsgeld nach der
@@ -1816,4 +1833,18 @@ Bundesministeriums für Arbeit und Soziales und des Bundesministeriums
 des Innern, für Bau und Heimat auf Kinder, die vor dem 1. Januar 2022
 geboren oder vor dem 1. Januar 2022 zur Adoption aufgenommen worden
 sind, angewendet werden.
+
+(5) § 1 Absatz 8 ist auf Kinder anwendbar, die ab dem 1. April 2025
+geboren oder mit dem Ziel der Adoption angenommen worden sind. Für die
+ab dem 1. April 2024 und vor dem 1. April 2025 geborenen oder mit dem
+Ziel der Adoption angenommenen Kinder gilt § 1 Absatz 8 mit der
+Maßgabe, dass ein Anspruch entfällt, wenn die berechtigte Person im
+letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes
+ein zu versteuerndes Einkommen nach § 2 Absatz 5 des
+Einkommensteuergesetzes in Höhe von mehr als 200 000 Euro erzielt hat.
+Erfüllt auch eine andere Person die Voraussetzungen des § 1 Absatz 1
+Satz 1 Nummer 2 oder des Absatzes 3 oder 4, entfällt in diesem
+Zeitraum abweichend von § 1 Absatz 8 Satz 1 der Anspruch, wenn die
+Summe des zu versteuernden Einkommens beider Personen mehr als 200 000
+Euro beträgt.
 

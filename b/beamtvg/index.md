@@ -310,8 +310,9 @@ mindestens im Umfang des § 13 Abs. 1 Satz 1.
 (2) Nicht ruhegehaltfähig sind Dienstzeiten
 
 1.  in einem Beamtenverhältnis, das durch eine Entscheidung der in § 41
-    Abs. 1 des Bundesbeamtengesetzes bezeichneten Art oder durch
-    Disziplinarurteil beendet worden ist,
+    Abs. 1 des Bundesbeamtengesetzes bezeichneten Art oder durch die
+    Entfernung aus dem Beamtenverhältnis nach dem Bundesdisziplinargesetz
+    beendet worden ist,
 
 
 2.  in einem Beamtenverhältnis auf Probe oder auf Widerruf, wenn der
@@ -2148,10 +2149,11 @@ einer einmaligen (Unfall-)Entschädigung im Sinne des § 43 gewährt.
 (2) Schwebt zum Zeitpunkt des Eintritts in den Ruhestand gegen den
 Beamten ein Verfahren auf Rücknahme der Ernennung oder ein Verfahren,
 das nach § 41 Abs. 1 des Bundesbeamtengesetzes zum Verlust der
-Beamtenrechte führen könnte, oder ist gegen den Beamten
-Disziplinarklage erhoben worden, darf der Ausgleich erst nach dem
-rechtskräftigen Abschluss des Verfahrens und nur gewährt werden, wenn
-kein Verlust der Versorgungsbezüge eingetreten ist. Die
+Beamtenrechte führen könnte, oder ein Disziplinarverfahren, in dem
+voraussichtlich die Entfernung aus dem Beamtenverhältnis oder die
+Aberkennung des Ruhegehalts erfolgen wird, darf der Ausgleich erst
+nach dem rechtskräftigen Abschluss des Verfahrens und nur gewährt
+werden, wenn kein Verlust der Versorgungsbezüge eingetreten ist. Die
 disziplinarrechtlichen Vorschriften bleiben unberührt.
 
 (3) Der Ausgleich wird im Falle der Bewilligung von Urlaub bis zum
@@ -3195,8 +3197,9 @@ nach § 57 anteilig errechneten Kürzungsbeträge zurückzuzahlen.
 
     b)  wegen einer vorsätzlichen Tat, die nach den Vorschriften über
         Friedensverrat, Hochverrat, Gefährdung des demokratischen
-        Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit
-        strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
+        Rechtsstaates, Volksverhetzung oder Landesverrat und Gefährdung der
+        äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens
+        sechs Monaten
 
 
 
@@ -3244,9 +3247,9 @@ disziplinarrechtliche Verfolgung wird dadurch nicht ausgeschlossen.
     eines Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder
     wegen einer vorsätzlichen Tat, die nach den Vorschriften über
     Friedensverrat, Hochverrat, Gefährdung des demokratischen
-    Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit
-    strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
-    verurteilt worden ist, mit der Rechtskraft des Urteils.
+    Rechtsstaates, Volksverhetzung oder Landesverrat und Gefährdung der
+    äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens
+    sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils.
 
 
 

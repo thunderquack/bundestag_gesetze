@@ -9575,7 +9575,8 @@ Abs. 1 oder 2 dieser Verordnung genannten gehören.
 
 ### § 81 Verhältnis zu anderen Gesetzen
 
-Die Vorschriften des Betäubungsmittel- und Atomrechts, des Anti-
+Die Vorschriften des Betäubungsmittel- und Atomrechts, des
+Konsumcannabisgesetzes, des Medizinal-Cannabisgesetzes, des Anti-
 Doping-Gesetzes und des Tierschutzgesetzes bleiben unberührt.
 
 

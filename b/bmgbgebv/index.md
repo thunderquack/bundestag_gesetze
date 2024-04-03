@@ -137,7 +137,10 @@ folgenden Vorschriften erbracht werden:
 17. Stammzellgesetz,
 
 
-18. Bundeskrebsregisterdatengesetz.
+18. Bundeskrebsregisterdatengesetz,
+
+
+19. Medizinal-Cannabisgesetz.
 
 
 
@@ -279,6 +282,11 @@ Inhaltsübersicht
     *   Bundeskrebsregisterdatengesetz
 
 
+*    *   Abschnitt 15
+
+    *   Medizinal-Cannabisgesetz
+
+
 
 
 ## Abschnitt 1
@@ -310,9 +318,6 @@ Außenhandelsverordnung (BtMAHV)
 
     *   Für jede der nachfolgenden Verkehrsarten je Betäubungsmittel (§ 3
         Absatz 1 Nummer 1 BtMG) und Betriebsstätte
-        Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der
-        zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes
-        Betäubungsmittel zu berechnen.
 
     *
 
@@ -390,9 +395,6 @@ Außenhandelsverordnung (BtMAHV)
         Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder
         analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung
         erfolgt
-        Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der
-        zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes
-        Betäubungsmittel zu berechnen.
 
     *
 
@@ -582,9 +584,6 @@ Außenhandelsverordnung (BtMAHV)
 
     *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 3 Satz 2 i. V. m. §
         3 BtMG**
-        Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der
-        zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes
-        Betäubungsmittel zu berechnen.
 
     *
 
@@ -662,9 +661,6 @@ Außenhandelsverordnung (BtMAHV)
 
     *   **Verlängerung einer nach § 9 Absatz 2 Nummer 1 BtMG erteilten
         befristeten Erlaubnis**
-        Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der
-        zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes
-        Betäubungsmittel zu berechnen.
 
     *   25 Prozent der unter Nummer 1 für die
         Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr
@@ -698,9 +694,6 @@ Außenhandelsverordnung (BtMAHV)
         Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV oder einer
         Durchfuhrgenehmigung nach § 13 Absatz 2 BtMAHV, je Betäubungsmittel
         oder je ausgenommene Zubereitung**
-        Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der
-        zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes
-        Betäubungsmittel zu berechnen.
 
     *   70
 
@@ -1173,7 +1166,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **2**
 
-    *[^F818570_01_BJNR439100021BJNE000702116]
+    *[^F818570_01_BJNR439100021BJNE000703130]
    **Zulassung eines Arzneimittels im Verfahren der gegenseitigen
         Anerkennung (MRP**
         **) gemäß § 25b Absatz 2 AMG**
@@ -4642,11 +4635,11 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **15**
 
-    *[^F818570_02_BJNR439100021BJNE000702116]
+    *[^F818570_02_BJNR439100021BJNE000703130]
    **Staatliche Chargenfreigabe nach § 32 AMG in Verbindung mit der
         Verordnung zur Ausdehnung der Vorschriften über die staatliche
         Chargenprüfung auf Blutzubereitungen**
-[^F818570_03_BJNR439100021BJNE000702116]
+[^F818570_03_BJNR439100021BJNE000703130]
         **und der Therapieallergene-Verordnung**
 
     *
@@ -4741,7 +4734,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   15.9
 
-    *[^F818570_04_BJNR439100021BJNE000702116]
+    *[^F818570_04_BJNR439100021BJNE000703130]
    Chargenfreigabe auf der Grundlage der Anerkennung eines EU-Zertifikats
         , auch wenn das PEI dieses selbst ausgestellt hat, wenn kein
         neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand
@@ -4811,7 +4804,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   16.2
 
-    *[^F818570_05_BJNR439100021BJNE000702116]
+    *[^F818570_05_BJNR439100021BJNE000703130]
    Prüfung von Wirkstoffkomponenten oder Zwischenprodukten, die für die
         Herstellung von Impfstoffen oder Endprodukten verwendet werden im
         Rahmen der OMCL
@@ -5094,7 +5087,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **23**
 
-    *[^F818570_06_BJNR439100021BJNE000702116]
+    *[^F818570_06_BJNR439100021BJNE000703130]
    **Individuell zurechenbare öffentliche Leistungen nach der AMHV**
         **sind gebühren- und auslagenbefreit.**
 
@@ -6208,7 +6201,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
     *   **Individuell zurechenbare Leistungen in Zusammenhang mit klinischen
         Prüfungen unter Geltung der Verordnung (EU) Nummer 536/2014**
 
-    *[^F818570_07_BJNR439100021BJNE000702116]
+    *[^F818570_07_BJNR439100021BJNE000703130]
    Jeweils zusätzlich zur Gebühr der Ethik-Kommission gemäß KPBV
 
 
@@ -11622,33 +11615,370 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
+## Abschnitt 15
+
+
+## Medizinal-Cannabisgesetz (MedCanG)
+
+
+
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
+        Medizinprodukte**
+
+
+*    *   **Nummer**
+
+    *   **Gebühren- oder Auslagentatbestand**
+
+    *   Höhe der Gebühren oder
+        **Auslagen in Euro**
+
+
+*    *   **1**
+
+    *   **Erteilung einer Erlaubnis nach § 4 MedCanG**
+
+    *
+
+*    *   1.1
+
+    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu
+        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
+        Zwecken und je Betriebsstätte
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *
+
+*    *   1.1.1
+
+    *   Anbau einschließlich Gewinnung
+
+    *   240
+
+
+*    *   1.1.2
+
+    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der
+        Herstellung anfallen und unmittelbar weiterverarbeitet werden
+
+    *   480
+
+
+*    *   1.1.2.1
+
+    *   Wenn das hergestellte Cannabis zu medizinischen Zwecken und Cannabis
+        zu medizinisch-wissenschaftlichen Zwecken ausschließlich
+        diagnostischen oder analytischen Zwecken dienen soll, ohne am oder im
+        menschlichen oder tierischen Körper angewendet zu werden
+
+    *   240
+
+
+*    *   1.1.3
+
+    *   Binnenhandel
+
+    *   590
+
+
+*    *   1.1.3.1
+
+    *   Befristete Einmalerlaubnis
+
+    *   295
+
+
+*    *   1.1.3.2
+
+    *   Höchstgrenze je Betriebsstätte
+
+    *   8 850
+
+
+*    *   1.1.4
+
+    *   Außenhandel einschließlich Binnenhandel
+
+    *   1 040
+
+
+*    *   1.1.4.1
+
+    *   Befristete Einmalerlaubnis
+
+    *   520
+
+
+*    *   1.1.4.2
+
+    *   Höchstgrenze je Betriebsstätte
+
+    *   15 600
+
+
+*    *   1.2
+
+    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu
+        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
+        Zwecken und je Betriebsstätte, wenn der Verkehr nur wissenschaftlichen
+        oder analytischen Zwecken dient oder er ohne wirtschaftliche
+        Zwecksetzung erfolgt
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *
+
+*    *   1.2.1
+
+    *   Anbau einschließlich Gewinnung
+
+    *   190
+
+
+*    *   1.2.2
+
+    *   Herstellung (mit Ausnahme von Zwischenprodukten, die bei der
+        Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von
+        Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken)
+
+    *   190
+
+
+*    *   1.2.3
+
+    *   Erwerb
+
+    *   190
+
+
+*    *   1.2.3.1
+
+    *   Wenn mehrere Arten an Cannabis zu medizinischen Zwecken oder Cannabis
+        zu medizinisch-wissenschaftlichen Zwecken umfasst sind, insgesamt je
+        Betriebsstätte nicht mehr als
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *   4425
+
+
+*    *   1.2.4
+
+    *   Abgabe
+
+    *   190
+
+
+*    *   1.2.5
+
+    *   Einfuhr
+
+    *   190
+
+
+*    *   1.2.6
+
+    *   Ausfuhr
+
+    *   190
+
+
+*    *   **2**
+
+    *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 2 Satz 1 MedCanG in
+        Verbindung mit § 4 MedCanG**
+
+    *
+
+*    *   2.1
+
+    *   Erteilung einer neuen Erlaubnis aufgrund neu aufgenommener
+        Verkehrsarten oder Arten an Cannabis zu medizinischen Zwecken oder
+        Cannabis zu medizinisch-wissenschaftlichen Zwecken
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *   Die in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach
+        § 4 MedCanG festgelegte Gebühr
+
+
+*    *   2.2
+
+    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung in der Person
+        der Erlaubnisinhaberin oder des Erlaubnisinhabers
+
+    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
+        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+
+
+*    *   2.3
+
+    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung der Lage der
+        Betriebsstätte, ausgenommen innerhalb eines Gebäudes
+
+    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
+        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+
+
+*    *   **3**
+
+    *   **Erteilung einer geänderten Erlaubnis nach § 8 Absatz 2 Satz 1 in
+        Verbindung mit § 4 MedCanG**
+
+    *
+
+*    *   3.1
+
+    *   Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen
+        oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung
+        erfolgt, je Änderung
+
+    *   90
+
+
+*    *   3.2
+
+    *   Änderung einer Erlaubnis in allen anderen Fällen, je Änderung
+
+    *   190
+
+
+*    *   **4**
+
+    *   **Verlängerung einer nach § 10 Nummer 1 MedCanG erteilten befristeten
+        Erlaubnis**
+
+    *   25 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
+        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+
+
+*    *   **5**
+
+    *   **Nachträgliche Änderung einer Erlaubnis nach § 10 Nummer 2 MedCanG**
+
+    *   190
+
+
+*    *   **6**
+
+    *   **Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung
+        mit § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 14 MedCanG in
+        Verbindung mit § 9 Absatz 1 BtMAHV, je Art an Cannabis zu
+        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
+        Zwecken**
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *   70
+
+
+*    *   6.1
+
+    *   Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit
+        § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 14 MedCanG in
+        Verbindung mit § 9 Absatz 1 BtMAHV, wenn der Verkehr nur
+        wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung
+        dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Art an
+        Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-
+        wissenschaftlichen Zwecken
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
+        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+
+    *   35
+
+
+*    *   **7**
+
+    *   **Begehungen nach § 18 Absatz 1 Satz 1 Nummer 3 MedCanG**
+
+    *   660 bis 15 000
+
+
+*    *   **8**
+
+    *   **Erlass einer Sicherungsanordnung nach § 21 Absatz 2 MedCanG**
+
+    *   150
+
+
+*    *   **9**
+
+    *   **Sonstige auf Antrag vorgenommene individuell zurechenbare
+        öffentliche Leistungen**
+
+    *
+
+*    *   9.1
+
+    *   Nicht einfache schriftliche Fachauskünfte
+
+    *   50 bis 500
+
+
+*    *   9.2
+
+    *   Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese
+        nicht von § 12 AGebV erfasst sind
+
+    *   50 bis 250
+
+
+*    *   9.3
+
+    *   Fachliche Beratung der antragstellenden Person (Beratungsgespräch)
+
+    *   500 bis 5 000
+
+
+*    *   **10**
+
+    *   **Auslagen**
+
+    *
+
+*    *   10.1
+
+    *   Kosten für Dienstreisen im Fall der Nummer 7
+
+    *   In tatsächlich entstandener Höhe
+
+
+*    *   10.2
+
+    *   Kosten für Zustellungen im Widerspruchsverfahren
+
+    *   In tatsächlich entstandener Höhe
+
+
+
     Verfahren gemäß Titel III Kapitel 4 der Richtlinie 2001/83/EG des
     Europäischen Parlaments und des Rates vom 6. November 2001 zur
     Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311
     vom 28.11.2001, S. 67), die zuletzt durch Artikel 1 der Verordnung
     (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist,
     in der jeweils geltenden Fassung.
-[^F818570_01_BJNR439100021BJNE000702116]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche
+[^F818570_01_BJNR439100021BJNE000703130]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche
     Chargenprüfung auf Blutzubereitungen vom 15. Juli 1994 (BGBl. I S.
     1614), die zuletzt durch Artikel 1 der Verordnung vom 26. Juni 1995
     (BGBl. I S. 854) geändert worden ist, in der jeweils geltenden
     Fassung.
-[^F818570_02_BJNR439100021BJNE000702116]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der
+[^F818570_02_BJNR439100021BJNE000703130]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der
     Arzneimittel auf Therapieallergene, die für einzelne Personen aufgrund
     einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der
     staatlichen Chargenprüfung vom 7. November 2008 (BGBl. I S. 2177), in
     der jeweils geltenden Fassung.
-[^F818570_03_BJNR439100021BJNE000702116]:     European Community/EEA official Control Authority Batch Release eines
+[^F818570_03_BJNR439100021BJNE000703130]:     European Community/EEA official Control Authority Batch Release eines
     OMCL nach dem EC Administrative Procedure for Official Authority Batch
     Release, auch soweit die Europäische Union eine Vereinbarung zur
     gegenseitigen Anerkennung (MRA) mit einem Drittland abgeschlossen hat.
-[^F818570_04_BJNR439100021BJNE000702116]:     Official Medicines Control Laboratory.
-[^F818570_05_BJNR439100021BJNE000702116]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne
+[^F818570_04_BJNR439100021BJNE000703130]:     Official Medicines Control Laboratory.
+[^F818570_05_BJNR439100021BJNE000703130]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne
     Genehmigung oder ohne Zulassung in Härtefällen vom 14. Juli 2010
     (BGBl. I S. 935).
-[^F818570_06_BJNR439100021BJNE000702116]:     Verordnung über das Verfahren zur Zusammenarbeit der
+[^F818570_06_BJNR439100021BJNE000703130]:     Verordnung über das Verfahren zur Zusammenarbeit der
     Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der
     Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit
     Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in der jeweils
     geltenden Fassung.
-[^F818570_07_BJNR439100021BJNE000702116]: 
+[^F818570_07_BJNR439100021BJNE000703130]: 

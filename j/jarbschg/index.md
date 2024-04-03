@@ -956,11 +956,14 @@ ist.
     233a des Strafgesetzbuches,
 
 
-4.  wegen einer Straftat nach dem Betäubungsmittelgesetz oder
+4.  wegen einer Straftat nach dem Betäubungsmittelgesetz,
 
 
-5.  wegen einer Straftat nach dem Jugendschutzgesetz oder nach dem Gesetz
-    über die Verbreitung jugendgefährdender Schriften wenigstens zweimal
+5.  wegen einer Straftat nach dem Konsumcannabisgesetz oder nach dem
+    Medizinal-Cannabisgesetz oder
+
+
+6.  wegen einer Straftat nach dem Jugendschutzgesetz wenigstens zweimal
 
 
 

@@ -3099,9 +3099,9 @@ den Sätzen 1 bis 5 berechneten Arbeitsentgelt hinzugerechnet.
 maßgebend, das in der infolge der Teilarbeitslosigkeit nicht mehr
 ausgeübten Beschäftigung erzielt wurde.
 
-(3) Für Leistungsempfänger, die Kurzarbeitergeld bezogen haben, wird
-das regelmäßige Arbeitsentgelt zugrunde gelegt, das zuletzt vor dem
-Arbeitsausfall erzielt wurde.
+(3) Für Leistungsempfänger, die Kurzarbeitergeld oder
+Qualifizierungsgeld bezogen haben, wird das regelmäßige Arbeitsentgelt
+zugrunde gelegt, das zuletzt vor dem Arbeitsausfall erzielt wurde.
 
 (4) Das Regelentgelt wird bis zur Höhe der für den
 Rehabilitationsträger jeweils geltenden Leistungs- oder

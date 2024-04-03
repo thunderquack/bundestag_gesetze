@@ -18,12 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 21.9.1984 I 1229, 1985 I 195;
 
-Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2022 I 2146
-
-Änderung durch
-:   Art. 11 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: zuletzt geändert Art. 11 G v. 27.3.2024 I Nr. 109
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -513,15 +508,17 @@ Eintragung wird aus dem Register entfernt.
 #### § 17 Sonstige Entscheidungen und gerichtliche Feststellungen
 
 (1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der
-Unterbringung in einer Entziehungsanstalt nach § 35 - auch in
-Verbindung mit § 38 - des Betäubungsmittelgesetzes zurückgestellt, so
-ist dies in das Register einzutragen. Dabei ist zu vermerken, bis zu
-welchem Tag die Vollstreckung zurückgestellt worden ist. Wird
-nachträglich ein anderer Tag festgesetzt oder die Zurückstellung der
-Vollstreckung widerrufen, so ist auch dies mitzuteilen. Wird die
-Vollstreckung der Strafe, des Strafrestes oder die Unterbringung in
-einer Entziehungsanstalt ohne Widerruf der Zurückstellung begonnen
-oder fortgesetzt, so ist dies im Register zu vermerken.
+Unterbringung in einer Entziehungsanstalt nach § 35 des
+Betäubungsmittelgesetzes – auch in Verbindung mit § 38 des
+Betäubungsmittelgesetzes, § 39 des Konsumcannabisgesetzes oder § 30
+des Medizinal-Cannabisgesetzes – zurückgestellt, so ist dies in das
+Register einzutragen. Dabei ist zu vermerken, bis zu welchem Tag die
+Vollstreckung zurückgestellt worden ist. Wird nachträglich ein anderer
+Tag festgesetzt oder die Zurückstellung der Vollstreckung widerrufen,
+so ist auch dies mitzuteilen. Wird die Vollstreckung der Strafe, des
+Strafrestes oder die Unterbringung in einer Entziehungsanstalt ohne
+Widerruf der Zurückstellung begonnen oder fortgesetzt, so ist dies im
+Register zu vermerken.
 
 (2) Wird auf Freiheitsstrafe von nicht mehr als zwei Jahren erkannt
 und hat das Gericht festgestellt, daß der Verurteilte die Tat auf
@@ -1153,8 +1150,10 @@ Strafgesetzbuches.
 3.  Verurteilungen, durch die auf Jugendstrafe von nicht mehr als zwei
     Jahren erkannt worden ist, wenn die Vollstreckung der Strafe oder
     eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung
-    ausgesetzt oder nach § 35 des Betäubungsmittelgesetzes zurückgestellt
-    und diese Entscheidung nicht widerrufen worden ist,
+    ausgesetzt oder nach § 35 des Betäubungsmittelgesetzes – auch in
+    Verbindung mit § 39 des Konsumcannabisgesetzes oder § 30 des
+    Medizinal-Cannabisgesetzes – zurückgestellt und diese Entscheidung
+    nicht widerrufen worden ist,
 
 
 4.  Verurteilungen, durch die auf Jugendstrafe erkannt worden ist, wenn
@@ -1179,8 +1178,9 @@ Strafgesetzbuches.
     Jahren erkannt worden ist, wenn die Vollstreckung der Strafe oder
     eines Strafrestes
 
-    a)  nach § 35 oder § 36 des Betäubungsmittelgesetzes zurückgestellt oder
-        zur Bewährung ausgesetzt oder
+    a)  nach § 35 oder § 36 des Betäubungsmittelgesetzes – auch in Verbindung
+        mit § 39 des Konsumcannabisgesetzes oder § 30 des Medizinal-
+        Cannabisgesetzes – zurückgestellt oder zur Bewährung ausgesetzt oder
 
 
     b)  nach § 56 oder § 57 des Strafgesetzbuchs zur Bewährung ausgesetzt
@@ -1199,8 +1199,10 @@ Strafgesetzbuches.
     nicht mehr als zwei Jahren die Unterbringung in einer
     Entziehungsanstalt angeordnet worden ist, wenn die Vollstreckung der
     Strafe, des Strafrestes oder der Maßregel nach § 35 des
-    Betäubungsmittelgesetzes zurückgestellt worden ist und im übrigen die
-    Voraussetzungen der Nummer 3 oder 6 erfüllt sind,
+    Betäubungsmittelgesetzes – auch in Verbindung mit § 39 des
+    Konsumcannabisgesetzes oder § 30 des Medizinal-Cannabisgesetzes –
+    zurückgestellt worden ist und im übrigen die Voraussetzungen der
+    Nummer 3 oder 6 erfüllt sind,
 
 
 8.  Verurteilungen, durch die Maßregeln der Besserung und Sicherung,
@@ -2003,7 +2005,11 @@ Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen,
 für die das nach der Verurteilung geltende Gesetz keine Strafe mehr
 vorsieht, oder droht das neue Gesetz für die Handlung nur noch
 Geldbuße allein oder Geldbuße in Verbindung mit einer Nebenfolge an,
-wird die Eintragung auf Antrag der betroffenen Person getilgt.
+wird die Eintragung auf Antrag der betroffenen Person getilgt. Die
+Tilgung erfolgt nur, wenn sich die Voraussetzungen des Satzes 1 anhand
+der nach § 5 eingetragenen Daten feststellen lassen. Andere
+gesetzliche Bestimmungen über die Tilgung von Eintragungen wegen
+Rechtsänderungen bleiben unberührt.
 
 
 #### § 49 Anordnung der Tilgung in besonderen Fällen

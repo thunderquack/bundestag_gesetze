@@ -53,9 +53,8 @@ Einstellungsverfügung ein Dienstvergehen zur Last zu legen, hat er die
 Verfügung vor ihrem Erlass unverzüglich unter Vorlage der Akten von
 der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 auf Rechtmäßigkeit und sachgerechte Ausübung des Ermessens prüfen zu
-lassen. Entsprechendes gilt vor Erhebung der Disziplinarklage. Dem
-Prüfungsergebnis der Bundesanstalt hat die zuständige Stelle des
-jeweiligen Postnachfolgeunternehmens Rechnung zu tragen.
+lassen. Dem Prüfungsergebnis der Bundesanstalt hat die zuständige
+Stelle des jeweiligen Postnachfolgeunternehmens Rechnung zu tragen.
 
 (6) Beabsichtigt der Vorstand des Postnachfolgeunternehmens oder ein
 ihm nachgeordneter Stelleninhaber mit den Befugnissen eines

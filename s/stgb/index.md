@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.7.2023 I Nr. 203
-
-Änderung durch
-:   Art. 12 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 3 Nr. 2 G v. 16.8.2023 I Nr. 218 ist berücksichtigt
+:   Art. 12 G v. 27.3.2024 I Nr. 109
 
 
 ## Allgemeiner Teil - 
@@ -3562,6 +3556,32 @@ entsprechend. Straftaten im Sinne des Satzes 1 sind
 
 
 
+6a. aus dem Konsumcannabisgesetz:
+
+    a)  Straftaten nach einer in § 34 Absatz 3 Satz 2 Nummer 1 oder Nummer 4
+        in Bezug genommenen Vorschrift unter den dort genannten
+        Voraussetzungen,
+
+
+    b)  Straftaten nach § 34 Absatz 4,
+
+
+
+
+
+6b. aus dem Medizinal-Cannabisgesetz:
+
+    a)  Straftaten nach einer in § 25 Absatz 4 Satz 2 Nummer 1 oder Nummer 4
+        in Bezug genommenen Vorschrift unter den dort genannten
+        Voraussetzungen,
+
+
+    b)  Straftaten nach § 25 Absatz 5,
+
+
+
+
+
 7.  aus dem Gesetz über die Kontrolle von Kriegswaffen:
 
     a)  Straftaten nach § 19 Absatz 1 bis 3 und § 20 Absatz 1 und 2 sowie §
@@ -6755,8 +6775,10 @@ bestraft, wer
 2.  wider besseres Wissen einer der in Absatz 1 bezeichneten Stellen
     vortäuscht, dass die Verwirklichung einer der in § 46b Abs. 1 Satz 1
     Nr. 2 dieses Gesetzes, in § 31 Satz 1 Nummer 2 des
-    Betäubungsmittelgesetzes oder in § 4a Satz 1 Nummer 2 des Anti-Doping-
-    Gesetzes genannten rechtswidrigen Taten bevorstehe, oder
+    Betäubungsmittelgesetzes, in § 4a Satz 1 Nummer 2 des Anti-Doping-
+    Gesetzes, in § 35 Satz 1 Nummer 2 des Konsumcannabisgesetzes oder in §
+    26 Satz 1 Nummer 2 des Medizinal-Cannabisgesetzes genannten
+    rechtswidrigen Taten bevorstehe, oder
 
 
 3.  wider besseres Wissen eine dieser Stellen über den Beteiligten an
@@ -6765,8 +6787,9 @@ bestraft, wer
 
 
 um eine Strafmilderung oder ein Absehen von Strafe nach § 46b dieses
-Gesetzes, § 31 des Betäubungsmittelgesetzes oder § 4a des Anti-Doping-
-Gesetzes zu erlangen.
+Gesetzes, § 31 des Betäubungsmittelgesetzes, § 4a des Anti-Doping-
+Gesetzes, § 35 des Konsumcannabisgesetzes oder § 26 des Medizinal-
+Cannabisgesetzes zu erlangen.
 
 (4) In minder schweren Fällen des Absatzes 3 ist die Strafe
 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
@@ -7168,7 +7191,8 @@ Maßnahmen gegen ihn herbeizuführen oder fortdauern zu lassen.
 (3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer die falsche Verdächtigung begeht, um eine Strafmilderung
 oder ein Absehen von Strafe nach § 46b dieses Gesetzes, § 31 des
-Betäubungsmittelgesetzes oder § 4a des Anti-Doping-Gesetzes zu
+Betäubungsmittelgesetzes, § 4a des Anti-Doping-Gesetzes, § 35 des
+Konsumcannabisgesetzes oder § 26 des Medizinal-Cannabisgesetzes zu
 erlangen. In minder schweren Fällen ist die Strafe Freiheitsstrafe von
 drei Monaten bis zu fünf Jahren.
 
