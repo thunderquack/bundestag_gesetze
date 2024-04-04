@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3a G v. 19.7.2023 I Nr. 197
 
 Änderung durch
-:   Art. 2 G v. 22.3.2024 I Nr. 105 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 2 G v. 22.3.2024 I Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1704,7 +1704,14 @@ Euro, ist für den Zeitraum vom 1. April 2020 bis zum 31. Dezember 2020
 der Pflegeentgeltwert in Höhe von 185 Euro bei der Abrechnung der
 tagesbezogenen Pflegeentgelte nach § 7 Absatz 1 Satz 1 Nummer 6a
 zugrunde zu legen; die für das Jahr 2020 in § 15 Absatz 2a Satz 3
-Nummer 2 getroffenen Regelungen gelten entsprechend.
+Nummer 2 getroffenen Regelungen gelten entsprechend. Ab dem Tag des
+Inkrafttretens der Vereinbarung einer Erhöhungsrate für
+Tariferhöhungen nach § 9 Absatz 1 Nummer 7 ist abweichend von Satz 3
+für den Rest des jeweiligen Jahres der krankenhausindividuelle
+Pflegeentgeltwert nach Satz 3 erhöht um die prozentuale Tariferhöhung
+für den in § 10 Absatz 5 Satz 3 Nummer 1 genannten Bereich anzuwenden.
+Dabei ist der für das restliche Kalenderjahr anzuwendende Prozentsatz
+infolge der unterjährigen Vereinbarung entsprechend zu erhöhen.
 
 (5) Weicht die Summe der auf das Vereinbarungsjahr entfallenden Erlöse
 des Krankenhauses aus den tagesbezogenen Pflegeentgelten nach § 7
@@ -2073,16 +2080,17 @@ für die Vertragsparteien nach § 11 insbesondere
     geminderten Abschlag im Falle von Leistungsverlagerungen,
 
 
-7.  die Erhöhungsrate für Tariferhöhungen nach § 10 Absatz 5 Satz 4, eine
-    anteilige Erhöhungsrate unter Berücksichtigung, dass
-    Kostensteigerungen für das Pflegepersonal in der unmittelbaren
-    Patientenversorgung auf bettenführenden Stationen über das
-    Pflegebudget zu finanzieren sind, sowie bis zum 31. März 2019 die
-    Einzelheiten für einen Nachweis, dass die zusätzlichen Mittel für
-    Tariferhöhungen von Pflegepersonal zweckentsprechend für dessen
-    Finanzierung verwendet werden, und ein Verfahren, das gewährleistet,
-    dass Krankenhäuser Mittel zurückzuzahlen haben, die sie nicht
-    zweckentsprechend verwendet haben,
+7.  die Erhöhungsrate für Tariferhöhungen nach § 10 Absatz 5 Satz 4, wobei
+    die prozentuale Tariferhöhung für den in § 10 Absatz 5 Satz 3 Nummer 1
+    genannten Bereich separat auszuweisen ist, eine anteilige
+    Erhöhungsrate unter Berücksichtigung, dass Kostensteigerungen für das
+    Pflegepersonal in der unmittelbaren Patientenversorgung auf
+    bettenführenden Stationen über das Pflegebudget zu finanzieren sind,
+    sowie bis zum 31. März 2019 die Einzelheiten für einen Nachweis, dass
+    die zusätzlichen Mittel für Tariferhöhungen von Pflegepersonal
+    zweckentsprechend für dessen Finanzierung verwendet werden, und ein
+    Verfahren, das gewährleistet, dass Krankenhäuser Mittel zurückzuzahlen
+    haben, die sie nicht zweckentsprechend verwendet haben,
 
 
 8.  erstmals bis zum 31. Juli 2019 die näheren Einzelheiten zur
@@ -2811,10 +2819,13 @@ multiplizieren:
 3.  vom 1. Januar 2021 bis zum 30. Juni 2022 mit 163,09 Euro,
 
 
-4.  vom 1. Juli 2022 bis zum 31. Dezember 2022 mit 200 Euro und
+4.  vom 1. Juli 2022 bis zum 31. Dezember 2022 mit 200 Euro,
 
 
-5.  ab dem 1. Januar 2023 mit 230 Euro.
+5.  vom 1. Januar 2023 bis zum 27. März 2024 mit 230 Euro und
+
+
+6.  ab dem 28. März 2024 mit 250 Euro.
 
 
 
@@ -2847,7 +2858,17 @@ Abs. 4 abgerechnet. Die Sätze 1 und 2 sind auch auf Entgelte nach § 6
 Absatz 2 anzuwenden, die erstmalig vereinbart werden oder für die
 aufgrund eines nach § 130b des Fünften Buches Sozialgesetzbuch
 geltenden Erstattungsbetrags für ein Vereinbarungsjahr eine
-abweichende unterjährige Höhe vereinbart wurde.
+abweichende unterjährige Höhe vereinbart wurde. Für die
+Vereinbarungsjahre 2020 bis 2025 sind Mindererlöse infolge der
+Erhebung des Pflegeentgeltwertes nach Absatz 2a Satz 1 oder infolge
+der Weitererhebung des bisherigen krankenhausindividuellen
+Pflegeentgeltwertes nach Absatz 2 und § 6a Absatz 4 auch für die auf
+das Vereinbarungsjahr folgenden Jahre, höchstens bis zum Jahr des
+Inkrafttretens der Vereinbarung des Pflegebudgets für das Kalenderjahr
+2025, vorläufig zu berechnen und auszugleichen. Der endgültige
+Erlösausgleich erfolgt mit dem krankenhausindividuellen
+Pflegeentgeltwert nach § 6a Absatz 4 des jeweiligen
+Vereinbarungsjahres.
 
 
 ## Abschnitt 5 - Gesondert berechenbare ärztliche und andere Leistungen
@@ -3077,26 +3098,65 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
         nach § 6a Absatz 2, jeweils für das vorangegangene Kalenderjahr,
 
 
-    e)  die Anzahl des insgesamt beschäftigten Pflegepersonals und die Anzahl
-        des insgesamt in der unmittelbaren Patientenversorgung auf
-        bettenführenden Stationen beschäftigten Pflegepersonals, jeweils
-        aufgeteilt nach Berufsbezeichnungen, umgerechnet auf Vollkräfte,
-        gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des
-        Fünften Buches Sozialgesetzbuch und nach den Fachabteilungen des
-        Standorts; für die in einer Vereinbarung nach § 137i Absatz 1 des
-        Fünften Buches Sozialgesetzbuch oder in einer Rechtsverordnung nach §
-        137i Absatz 3 des Fünften Buches Sozialgesetzbuch festgelegten
-        pflegesensitiven Bereiche sind die Anzahl des insgesamt beschäftigten
-        Pflegepersonals und die Anzahl des insgesamt in der unmittelbaren
-        Patientenversorgung auf bettenführenden Stationen beschäftigten
-        Pflegepersonals zusätzlich gegliedert nach den jeweiligen
-        pflegesensitiven Bereichen zu übermitteln;
+    e)  die Anzahl
+
+        aa) des insgesamt beschäftigten Pflegepersonals und des insgesamt in der
+            unmittelbaren Patientenversorgung auf bettenführenden Stationen
+            beschäftigten Pflegepersonals, jeweils aufgeteilt nach
+            Berufsbezeichnungen, sowie
+
+
+        bb) der insgesamt beschäftigten Hebammen, der insgesamt im Kreißsaal
+            beschäftigten Hebammen und der insgesamt in der unmittelbaren
+            Patientenversorgung auf bettenführenden Stationen beschäftigten
+            Hebammen,
+
+
+
+        jeweils umgerechnet auf Vollkräfte, gegliedert nach dem Kennzeichen
+        des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch
+        und nach den Fachabteilungen des Standorts; für die in einer
+        Vereinbarung nach § 137i Absatz 1 des Fünften Buches Sozialgesetzbuch
+        oder in einer Rechtsverordnung nach § 137i Absatz 3 des Fünften Buches
+        Sozialgesetzbuch festgelegten pflegesensitiven Bereiche sind die
+        Anzahl des insgesamt beschäftigten Pflegepersonals, die Anzahl des
+        insgesamt in der unmittelbaren Patientenversorgung auf bettenführenden
+        Stationen beschäftigten Pflegepersonals, die Anzahl der insgesamt
+        beschäftigten Hebammen, die Anzahl der insgesamt im Kreißsaal
+        beschäftigten Hebammen und die Anzahl der insgesamt in der
+        unmittelbaren Patientenversorgung auf bettenführenden Stationen
+        beschäftigten Hebammen zusätzlich jeweils gegliedert nach den
+        jeweiligen pflegesensitiven Bereichen zu übermitteln,
+
+
+    f)  die Anzahl des insgesamt beschäftigten ärztlichen Personals und die
+        Anzahl des insgesamt in der unmittelbaren Patientenversorgung
+        beschäftigten ärztlichen Personals, jeweils einschließlich der
+        Facharztbezeichnung und wenn vorhanden, der Schwerpunktbezeichnung,
+        und bei ärztlichem Personal in Weiterbildung jeweils unter Angabe des
+        Weiterbildungsgebietes, umgerechnet jeweils auf Vollkräfte, gegliedert
+        nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften
+        Buches Sozialgesetzbuch und nach den Fachabteilungen des Standorts,
+
+
+    g)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten
+        Leistungsgruppen, denen die vom Krankenhaus erbrachten
+        Behandlungsfälle zuzuordnen sind, jeweils gegliedert nach dem
+        Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches
+        Sozialgesetzbuch; im Fall der von § 135d Absatz 3 Satz 3 des Fünften
+        Buches Sozialgesetzbuch betroffenen Krankenhäuser tritt bis zum 31.
+        Dezember 2025 an die Stelle der in Anlage 1 zum Fünften Buch
+        Sozialgesetzbuch genannten Leistungsgruppen die von der für die
+        Krankenhausplanung zuständigen Landesbehörde zugewiesene
+        Leistungsgruppe;
 
 
 
 
 
-2.  je Krankenhausfall einen Datensatz mit folgenden Leistungsdaten
+2.  je Krankenhausfall einen Datensatz mit folgenden Leistungsdaten,
+    erstmals für das Jahr 2023 je Krankenhausbehandlung einen Datensatz
+    mit folgenden Leistungsdaten
 
     a)  unveränderbarer Teil der Krankenversichertennummer nach § 290 Absatz 1
         Satz 2 des Fünften Buches Sozialgesetzbuch oder, sofern eine
@@ -3136,13 +3196,25 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
         bei Beatmungsfällen die Beatmungszeit in Stunden entsprechend der
         Kodierregeln nach § 17b Abs. 5 Nr. 1 des
         Krankenhausfinanzierungsgesetzes und Angabe, ob durch Belegoperateur,
-        -anästhesist oder Beleghebamme erbracht,
+        -anästhesist oder Beleghebamme erbracht, jeweils gegliedert nach dem
+        Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches
+        Sozialgesetzbuch,
 
 
     g)  Art aller im einzelnen Behandlungsfall abgerechneten Entgelte,
 
 
-    h)  Höhe aller im einzelnen Behandlungsfall abgerechneten Entgelte.
+    h)  Höhe aller im einzelnen Behandlungsfall abgerechneten Entgelte,
+
+
+    i)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannte
+        Leistungsgruppe, der die vom Krankenhaus im einzelnen Behandlungsfall
+        erbrachte Leistung zuzuordnen ist; hinsichtlich der von § 135d Absatz
+        3 Satz 3 des Fünften Buches Sozialgesetzbuch betroffenen Krankenhäuser
+        tritt bis zum 31. Dezember 2025 an die Stelle der in Anlage 1 zum
+        Fünften Buch Sozialgesetzbuch genannten Leistungsgruppe die von der
+        für die Krankenhausplanung zuständigen Landesbehörde zugewiesene
+        Leistungsgruppe.
 
 
 
@@ -3153,7 +3225,7 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
 (3) Die Datenstelle prüft die Daten nach Absatz 1 auf Plausibilität
 und übermittelt jeweils bis zum 1. Juli die
 
-1.  Daten nach Absatz 2 Nr. 1 und Nr. 2 Buchstabe b bis h zur
+1.  Daten nach Absatz 2 Nummer 1 und 2 Buchstabe b bis i zur
     Weiterentwicklung des DRG-Vergütungssystems nach § 17b des
     Krankenhausfinanzierungsgesetzes sowie zur Weiterentwicklung des
     Entgeltsystems nach § 17d des Krankenhausfinanzierungsgesetzes und der
@@ -3167,9 +3239,9 @@ und übermittelt jeweils bis zum 1. Juli die
     an die Vertragsparteien auf der Landesebene,
 
 
-3.  landesbezogenen Daten nach Absatz 2 Nr. 1 Buchstabe a bis c und Nr. 2
-    Buchstabe b und d bis g für Zwecke der Krankenhausplanung sowie
-    zusätzlich nach Absatz 2 Nummer 2 Buchstabe h für Zwecke der
+3.  landesbezogenen Daten nach Absatz 2 Nummer 1 Buchstabe a bis c und
+    Nummer 2 Buchstabe b, d bis g und i für Zwecke der Krankenhausplanung
+    sowie zusätzlich nach Absatz 2 Nummer 2 Buchstabe h für Zwecke der
     Investitionsförderung, sofern das Land hierfür Investitionspauschalen
     nach § 10 des Krankenhausfinanzierungsgesetzes verwendet oder dies
     beabsichtigt, und, sofern ein gemeinsames Landesgremium nach § 90a des
@@ -3182,9 +3254,9 @@ und übermittelt jeweils bis zum 1. Juli die
     einer Verordnung,
 
 
-4.  Daten nach Absatz 2 Nr. 1 Buchstabe a, c und d und Nr. 2 Buchstabe b
-    und d bis h für Zwecke der amtlichen Krankenhausstatistik an das
-    Statistische Bundesamt; dieses kann landesbezogene Daten an die
+4.  Daten nach Absatz 2 Nummer 1 Buchstabe a, c, d und g und Nummer 2
+    Buchstabe b und d bis i für Zwecke der amtlichen Krankenhausstatistik
+    an das Statistische Bundesamt; dieses kann landesbezogene Daten an die
     Statistischen Landesämter übermitteln.
 
 
@@ -3287,6 +3359,35 @@ Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren.
 Andere als die in diesem Absatz genannten Verarbeitungen der nach Satz
 1 übermittelten Daten sind unzulässig.
 
+(3c) Das Institut für das Entgeltsystem im Krankenhaus erarbeitet
+Vorgaben für die in Absatz 2 Nummer 1 Buchstabe g und Nummer 2
+Buchstabe i genannte Zuordnung und zertifiziert bis zum 30. September
+2024 auf dieser Grundlage entwickelte Datenverarbeitungslösungen. Die
+Krankenhäuser haben für die in Absatz 2 Nummer 1 Buchstabe g und
+Nummer 2 Buchstabe i genannte Zuordnung ausschließlich nach Satz 1
+zertifizierte Datenverarbeitungslösungen zu verwenden.
+
+(3d) Das Institut für das Entgeltsystem im Krankenhaus wertet die an
+die von ihm geführte Datenstelle nach den Absätzen 1 und 3b
+übermittelten Daten in der jeweils aktuellsten Fassung, beginnend mit
+den Daten für das Kalenderjahr 2022, und die nach Absatz 7 Satz 1 und
+nach § 137i Absatz 4 Satz 1 bis 3, 6 und 7 des Fünften Buches
+Sozialgesetzbuch übermittelten Daten standort-, fachabteilungs- und
+leistungsgruppenbezogen aus, soweit dies nach Abstimmung mit dem
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+für die Veröffentlichung und Aktualisierung des
+Transparenzverzeichnisses nach § 135d des Fünften Buches
+Sozialgesetzbuch erforderlich ist. Die Datenstelle übermittelt dem
+Institut für das Entgeltsystem im Krankenhaus die in Satz 1 genannten
+Daten für die Auswertungen nach Satz 1. Das Institut für das
+Entgeltsystem im Krankenhaus übermittelt dem Institut für
+Qualitätssicherung und Transparenz im Gesundheitswesen und der nach §
+135d Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch benannten
+Stelle barrierefrei unverzüglich die in Satz 1 genannten Daten sowie
+die Auswertung nach Satz 1 und die Zuordnung der Standorte von
+Krankenhäusern zu Versorgungsstufen nach § 135d Absatz 4 des Fünften
+Buches Sozialgesetzbuch.
+
 (4) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 des
 Krankenhausfinanzierungsgesetzes vereinbaren im Benehmen mit dem
 Bundesbeauftragten für den Datenschutz und dem Bundesamt für die
@@ -3307,22 +3408,24 @@ hierdurch für das Krankenhaus keine unbillige Härte entsteht; die
 Datenstelle regelt das Nähere zu den Voraussetzungen unbilliger
 Härtefälle. Darüber hinaus hat die Datenstelle für jede nicht
 erfolgte, nicht vollständige oder nicht fristgerechte Übermittlung der
-Daten nach Absatz 2 Nummer 1 Buchstabe e einen pauschalen Abschlag je
-Standort eines Krankenhauses festzulegen; dies gilt auch, wenn die
-übermittelten Daten im Rahmen der Plausibilitätsprüfung von der
-Datenstelle nicht akzeptiert werden; die Datenstelle legt das Nähere
-zur Plausibilitätsprüfung fest und veröffentlicht die Festlegungen auf
-ihrer Internetseite. Der Abschlag nach Satz 2 beträgt mindestens
-20 000 Euro und höchstens 500 000 Euro. Zur Ermittlung des Abschlags
-nach Satz 2 wird ein Abschlagsfaktor gebildet, indem die Gesamtanzahl
-der Pflegevollkräfte eines Krankenhausstandorts durch die Anzahl der
-Pflegevollkräfte, für die vollständig und rechtzeitig Daten
+Daten nach Absatz 2 Nummer 1 Buchstabe e und f einen pauschalen
+Abschlag je Standort eines Krankenhauses festzulegen; dies gilt auch,
+wenn die übermittelten Daten im Rahmen der Plausibilitätsprüfung von
+der Datenstelle nicht akzeptiert werden; die Datenstelle legt das
+Nähere zur Plausibilitätsprüfung fest und veröffentlicht die
+Festlegungen auf ihrer Internetseite. Der Abschlag nach Satz 2 beträgt
+mindestens 20 000 Euro und höchstens 500 000 Euro. Zur Ermittlung des
+Abschlags nach Satz 2 wird ein Abschlagsfaktor gebildet, indem die
+Gesamtanzahl der Pflegevollkräfte oder der ärztlichen Vollkräfte eines
+Krankenhausstandorts durch die Anzahl der Pflegevollkräfte oder
+ärztlichen Vollkräfte, für die vollständig und rechtzeitig Daten
 übermittelt wurden, dividiert wird, wobei als Nenner mindestens die
 Zahl 1 anzunehmen ist. Der Abschlagsfaktor ist kaufmännisch auf drei
 Nachkommastellen zu runden und mit dem Mindestabschlagsbetrag von
 20 000 Euro zu multiplizieren. Übermittelt ein Krankenhaus für einen
-Standort nicht die Gesamtanzahl der Pflegevollkräfte, hat die
-Datenstelle die Anzahl der Pflegevollkräfte für die Ermittlung des
+Standort nicht die Gesamtanzahl der Pflegevollkräfte oder der
+ärztlichen Vollkräfte, hat die Datenstelle die Anzahl der
+Pflegevollkräfte oder ärztlichen Vollkräfte für die Ermittlung des
 Abschlags nach Satz 2 auf der Grundlage von verfügbaren Leistungsdaten
 nach Absatz 2 Nummer 2 sachgerecht zu schätzen. Die Datenstelle
 unterrichtet jeweils die Vertragsparteien nach § 18 Absatz 2 des
@@ -3335,6 +3438,23 @@ Vereinbarung des krankenhausindividuellen Basisentgeltwerts.
 (6) Kommt eine Vereinbarung nach Absatz 5 ganz oder teilweise nicht
 zustande, entscheidet auf Antrag einer Vertragspartei die
 Schiedsstelle nach § 18a Abs. 6 des Krankenhausfinanzierungsgesetzes.
+
+(7) Für die Veröffentlichung im Transparenzverzeichnis nach § 135d des
+Fünften Buches Sozialgesetzbuch übermittelt das Krankenhaus die in
+Absatz 2 Nummer 1 Buchstabe a und f genannten Daten an die vom
+Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf
+maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz
+1 für jedes Kalenderquartal jeweils bis zum 15. des folgenden Monats,
+erstmals bis zum 15. Januar 2024. Absatz 3b Satz 2 bis 5 gilt für die
+Übermittlung der Daten nach Satz 1 entsprechend. Die Leitung des
+Krankenhauses ist verpflichtet, für die ordnungsgemäße und
+rechtzeitige Übermittlung der Daten nach Satz 1 zu sorgen. Das
+Krankenhaus hat dem Institut für das Entgeltsystem im Krankenhaus und
+dem Institut für Qualitätssicherung und Transparenz im
+Gesundheitswesen die aufgrund einer nicht ordnungsgemäßen oder nicht
+rechtzeitigen Übermittlung der Daten nach Satz 1 entstehenden
+Mehraufwendungen zu erstatten, sofern das Krankenhaus die nicht
+vollständige oder nicht rechtzeitige Übermittlung zu vertreten hat.
 
 
 ### Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)

@@ -14253,11 +14253,12 @@ Mitgliedstaaten übertragen worden sind mit
     23\.2.2021, S. 24) geändert worden ist,
 
 
-4.  Artikel 4 Absatz 6 der Verordnung (EU) 2017/2195 Kommission vom 23.
-    November 2017 zur Festlegung einer Leitlinie über den Systemausgleich
-    im Elektrizitätsversorgungssystem (ABl. L 312 vom 28.11.2017, S. 6),
-    die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62
-    vom 23.2.2021, S. 24) geändert worden ist, und
+4.  Artikel 4 Absatz 6 der Verordnung (EU) 2017/2195
+    der                    Kommission vom 23. November 2017 zur Festlegung
+    einer Leitlinie über den Systemausgleich im
+    Elektrizitätsversorgungssystem (ABl. L 312 vom 28.11.2017, S. 6), die
+    zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom
+    23\.2.2021, S. 24) geändert worden ist, und
 
 
 5.  Artikel 15 Absatz 2 der Verordnung (EU) 2019/943 des Europäischen

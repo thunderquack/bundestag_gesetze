@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 20 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 1 G v. 27.3.2024 I Nr. 108 mWv 1.1.2023 noch nicht berücksichtigt
+:   Art. 1 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 noch nicht berücksichtigt
@@ -4620,9 +4620,9 @@ tritt für die Absetzungen für Abnutzung oder Substanzverringerung oder
 in den Fällen des § 6 Absatz 2 und Absatz 2a im Wirtschaftsjahr des
 Abzugs der verbleibende Betrag an die Stelle der Anschaffungs- oder
 Herstellungskosten.
-2             In den Fällen des § 7 Absatz 4 Satz 1 und Absatz 5 sind
-die um den Abzugsbetrag nach Absatz 1 oder 3 geminderten Anschaffungs-
-oder Herstellungskosten maßgebend.
+2             In den Fällen des § 7 Absatz 4 Satz 1, Absatz 5 und 5a
+sind die um den Abzugsbetrag nach Absatz 1 oder 3 geminderten
+Anschaffungs- oder Herstellungskosten maßgebend.
 
 (7) Soweit eine nach Absatz 3 Satz 1 gebildete Rücklage gewinnerhöhend
 aufgelöst wird, ohne dass ein entsprechender Betrag nach Absatz 3
@@ -4911,12 +4911,12 @@ abzuziehen:
 der Anschaffungs- oder Herstellungskosten; Absatz 1 Satz 5 gilt
 entsprechend.
 2             Beträgt die tatsächliche Nutzungsdauer eines Gebäudes in
-den Fällen des Satzes 1 Nummer 1 weniger als 33 Jahre, in den Fällen
-des Satzes 1 Nummer 2 Buchstabe a weniger als 50 Jahre, in den Fällen
-des Satzes 1 Nummer 2 Buchstabe b weniger als 40 Jahre, so können
-anstelle der Absetzungen nach Satz 1 die der tatsächlichen
-Nutzungsdauer entsprechenden Absetzungen für Abnutzung vorgenommen
-werden.
+den Fällen des Satzes 1 Nummer 1 und 2 Buchstabe a weniger als 33
+Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe b weniger als 50
+Jahre, in den Fällen des Satzes 1 Nummer 2 Buchstabe c weniger als 40
+Jahre, so können anstelle der Absetzungen nach Satz 1 die der
+tatsächlichen Nutzungsdauer entsprechenden Absetzungen für Abnutzung
+vorgenommen werden.
 3             Absatz 1 letzter Satz bleibt unberührt.
 4             Bei Gebäuden im Sinne der Nummer 2 rechtfertigt die für
 Gebäude im Sinne der Nummer 1 geltende Regelung weder die Anwendung
@@ -5119,7 +5119,43 @@ Absetzungen für Abnutzung nach Satz 1 vorgenommen noch erhöhte
 Absetzungen oder Sonderabschreibungen in Anspruch genommen hat.
 3             Absatz 1 Satz 4 gilt nicht.
 
-(5a) Die Absätze 4 und 5 sind auf Gebäudeteile, die selbständige
+(5a)
+1             Bei Gebäuden, die in einem Mitgliedstaat der
+Europäischen Union oder einem anderen Staat belegen sind, auf den das
+Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen)
+angewendet wird, soweit sie Wohnzwecken dienen und vom
+Steuerpflichtigen hergestellt oder bis zum Ende des Jahres der
+Fertigstellung angeschafft worden sind, kann statt der Absetzung für
+Abnutzung in gleichen Jahresbeträgen nach Absatz 4 Nummer 2 Buchstabe
+a die Absetzung für Abnutzung in fallenden Jahresbeträgen erfolgen,
+wenn mit der Herstellung nach dem 30. September 2023 und vor dem 1.
+Oktober 2029 begonnen wurde oder die Anschaffung auf Grund eines nach
+dem 30. September 2023 und vor dem 1. Oktober 2029 rechtswirksam
+abgeschlossenen obligatorischen Vertrags erfolgt.
+2             Als Beginn der Herstellung gilt das Datum in der nach
+den jeweiligen landesrechtlichen Vorschriften einzureichenden
+Baubeginnsanzeige.
+3             Sollten landesrechtlich im Einzelfall keine
+Baubeginnsanzeigen vorgeschrieben sein, hat der Steuerpflichtige zu
+erklären, dass er den Baubeginn gegenüber der zuständigen Baubehörde
+freiwillig angezeigt hat.
+4             Die Absetzung für Abnutzung in fallenden Jahresbeträgen
+kann nach einem unveränderlichen Prozentsatz in Höhe von 5 Prozent vom
+jeweiligen Buchwert (Restwert) vorgenommen werden.
+5             Absatz 1 Satz 4 gilt entsprechend.
+6             Bei Gebäuden, bei denen die Absetzung für Abnutzung in
+fallenden Jahresbeträgen bemessen wird, sind Absetzungen für
+außergewöhnliche technische oder wirtschaftliche Abnutzung nicht
+zulässig.
+7             Der Übergang von der Absetzung für Abnutzung in
+fallenden Jahresbeträgen zur Absetzung für Abnutzung in gleichen
+Jahresbeträgen ist zulässig.
+8             Die weitere Absetzung für Abnutzung bemisst sich nach
+dem Übergang zur Absetzung für Abnutzung im Sinne des Absatzes 4 vom
+Restwert und dem nach Absatz 4 unter Berücksichtigung der
+Restnutzungsdauer maßgebenden Prozentsatz.
+
+(5b) Die Absätze 4 bis 5a sind auf Gebäudeteile, die selbständige
 unbewegliche Wirtschaftsgüter sind, sowie auf Eigentumswohnungen und
 auf im Teileigentum stehende Räume entsprechend anzuwenden.
 
@@ -5229,7 +5265,7 @@ die in einem Mitgliedstaat der Europäischen Union belegen sind, können
 nach Maßgabe der nachfolgenden Absätze im Jahr der Anschaffung oder
 Herstellung und in den folgenden drei Jahren Sonderabschreibungen bis
 zu jährlich 5 Prozent der Bemessungsgrundlage neben der Absetzung für
-Abnutzung nach § 7 Absatz 4 in Anspruch genommen werden.
+Abnutzung nach § 7 Absatz 4 oder 5a in Anspruch genommen werden.
 2             Im Fall der Anschaffung ist eine Wohnung neu, wenn sie
 bis zum Ende des Jahres der Fertigstellung angeschafft wird.
 3             In diesem Fall können die Sonderabschreibungen nach Satz
@@ -5246,7 +5282,7 @@ werden, wenn
 
 1.  durch Baumaßnahmen auf Grund eines nach dem 31. August 2018 und vor
     dem 1. Januar 2022 oder nach dem 31. Dezember 2022 und vor dem 1.
-    Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum
+    Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum
     getätigten Bauanzeige neue, bisher nicht vorhandene, Wohnungen
     hergestellt werden, die die Voraussetzungen des § 181 Absatz 9 des
     Bewertungsgesetzes erfüllen; hierzu gehören auch die zu einer Wohnung
@@ -5254,7 +5290,7 @@ werden, wenn
 
 
 2.  Wohnungen, die aufgrund eines nach dem 31. Dezember 2022 und vor dem
-    1\. Januar 2027 gestellten Bauantrags oder einer in diesem Zeitraum
+    1\. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum
     getätigten Bauanzeige hergestellt werden, in einem Gebäude liegen, das
     die Kriterien eines „Effizienzhaus 40“ mit Nachhaltigkeits-Klasse
     erfüllt und dies durch Qualitätssiegel Nachhaltiges Gebäude
@@ -5277,9 +5313,9 @@ Wohnungen,
     nicht übersteigen,
 
 
-2.  die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Januar
-    2027 gestellten Bauantrags oder einer in diesem Zeitraum getätigten
-    Bauanzeige hergestellt werden, 4 800 Euro je Quadratmeter Wohnfläche
+2.  die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober
+    2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten
+    Bauanzeige hergestellt werden, 5 200 Euro je Quadratmeter Wohnfläche
     nicht übersteigen.
 
 
@@ -5293,7 +5329,7 @@ begünstigten Wohnung, jedoch
     des Absatzes 2 Satz 2 Nummer 1 und
 
 
-2.  maximal 2 500 Euro je Quadratmeter Wohnfläche für Wohnungen im Sinne
+2.  maximal 4 000 Euro je Quadratmeter Wohnfläche für Wohnungen im Sinne
     des Absatzes 2 Satz 2 Nummer 2.
 
 
@@ -5522,7 +5558,7 @@ Sonderbetriebsvermögen.
 (1)
 1             Bei einem im Inland belegenen Gebäude in einem förmlich
 festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich
-kann der Steuerpflichtige abweichend von § 7 Absatz 4 und 5 im Jahr
+kann der Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr
 der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9
 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der
 Herstellungskosten für Modernisierungs- und Instandsetzungsmaßnahmen
@@ -5580,7 +5616,7 @@ auf im Teileigentum stehende Räume entsprechend anzuwenden.
 (1)
 1             Bei einem im Inland belegenen Gebäude, das nach den
 jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der
-Steuerpflichtige abweichend von § 7 Absatz 4 und 5 im Jahr der
+Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr der
 Herstellung und in den folgenden sieben Jahren jeweils bis zu 9
 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der
 Herstellungskosten für Baumaßnahmen, die nach Art und Umfang zur
@@ -9259,24 +9295,18 @@ steuerfrei.
 Versorgungsfreibetrags und der Zuschlag zum Versorgungsfreibetrag sind
 der nachstehenden Tabelle zu entnehmen:
 
-*    *   Jahr des
-        Versorgungs-
-        beginns
+*    *   Jahr des Versorgungsbeginns
 
     *   Versorgungsfreibetrag
 
-    *   Zuschlag zum
-        Versorgungs-
-        freibetrag
+    *   Zuschlag zum Versorgungsfreibetrag
         in Euro
 
 
 *    *   in % der
-        Versorgungs-
-        bezüge
+        Versorgungsbezüge
 
-    *   Höchstbetrag
-        in Euro
+    *   Höchstbetrag in Euro
 
 
 *    *   bis 2005
@@ -9443,6 +9473,15 @@ der nachstehenden Tabelle zu entnehmen:
 
 *    *   2023
 
+    *   14,0
+
+    *   1 050
+
+    *   315
+
+
+*    *   2024
+
     *   13,6
 
     *   1 020
@@ -9450,7 +9489,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   306
 
 
-*    *   2024
+*    *   2025
+
+    *   13,2
+
+    *   990
+
+    *   297
+
+
+*    *   2026
 
     *   12,8
 
@@ -9459,7 +9507,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   288
 
 
-*    *   2025
+*    *   2027
+
+    *   12,4
+
+    *   930
+
+    *   279
+
+
+*    *   2028
 
     *   12,0
 
@@ -9468,7 +9525,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   270
 
 
-*    *   2026
+*    *   2029
+
+    *   11,6
+
+    *   870
+
+    *   261
+
+
+*    *   2030
 
     *   11,2
 
@@ -9477,7 +9543,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   252
 
 
-*    *   2027
+*    *   2031
+
+    *   10,8
+
+    *   810
+
+    *   243
+
+
+*    *   2032
 
     *   10,4
 
@@ -9486,7 +9561,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   234
 
 
-*    *   2028
+*    *   2033
+
+    *   10,0
+
+    *   750
+
+    *   225
+
+
+*    *   2034
 
     *   9,6
 
@@ -9495,7 +9579,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   216
 
 
-*    *   2029
+*    *   2035
+
+    *   9,2
+
+    *   690
+
+    *   207
+
+
+*    *   2036
 
     *   8,8
 
@@ -9504,7 +9597,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   198
 
 
-*    *   2030
+*    *   2037
+
+    *   8,4
+
+    *   630
+
+    *   189
+
+
+*    *   2038
 
     *   8,0
 
@@ -9513,7 +9615,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   180
 
 
-*    *   2031
+*    *   2039
+
+    *   7,6
+
+    *   570
+
+    *   171
+
+
+*    *   2040
 
     *   7,2
 
@@ -9522,7 +9633,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   162
 
 
-*    *   2032
+*    *   2041
+
+    *   6,8
+
+    *   510
+
+    *   153
+
+
+*    *   2042
 
     *   6,4
 
@@ -9531,7 +9651,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   144
 
 
-*    *   2033
+*    *   2043
+
+    *   6,0
+
+    *   450
+
+    *   135
+
+
+*    *   2044
 
     *   5,6
 
@@ -9540,7 +9669,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   126
 
 
-*    *   2034
+*    *   2045
+
+    *   5,2
+
+    *   390
+
+    *   117
+
+
+*    *   2046
 
     *   4,8
 
@@ -9549,7 +9687,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   108
 
 
-*    *   2035
+*    *   2047
+
+    *   4,4
+
+    *   330
+
+    *   99
+
+
+*    *   2048
 
     *   4,0
 
@@ -9558,7 +9705,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   90
 
 
-*    *   2036
+*    *   2049
+
+    *   3,6
+
+    *   270
+
+    *   81
+
+
+*    *   2050
 
     *   3,2
 
@@ -9567,7 +9723,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   72
 
 
-*    *   2037
+*    *   2051
+
+    *   2,8
+
+    *   210
+
+    *   63
+
+
+*    *   2052
 
     *   2,4
 
@@ -9576,7 +9741,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   54
 
 
-*    *   2038
+*    *   2053
+
+    *   2,0
+
+    *   150
+
+    *   45
+
+
+*    *   2054
 
     *   1,6
 
@@ -9585,7 +9759,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   36
 
 
-*    *   2039
+*    *   2055
+
+    *   1,2
+
+    *   90
+
+    *   27
+
+
+*    *   2056
 
     *   0,8
 
@@ -9594,7 +9777,16 @@ der nachstehenden Tabelle zu entnehmen:
     *   18
 
 
-*    *   2040
+*    *   2057
+
+    *   0,4
+
+    *   30
+
+    *   9
+
+
+*    *   2058
 
     *   0,0
 
@@ -10359,192 +10551,259 @@ Sonstige Einkünfte sind
             maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen:
 
             *                *   Jahr des
-                    Renten-
-                    beginns
+                    Rentenbeginns
 
-                *   Besteuerungs-
-                    anteil
+                *   Besteuerungsanteil
+                    in %
+
+                *   Jahr des
+                    Rentenbeginns
+
+                *   Besteuerungsanteil
                     in %
 
 
             *                *   bis 2005
 
-                *   50
+                *   50,0
+
+                *   2032
+
+                *   87,0
 
 
             *                *   ab 2006
 
-                *   52
+                *   52,0
+
+                *   2033
+
+                *   87,5
 
 
             *                *   2007
 
-                *   54
+                *   54,0
+
+                *   2034
+
+                *   88,0
 
 
             *                *   2008
 
-                *   56
+                *   56,0
+
+                *   2035
+
+                *   88,5
 
 
             *                *   2009
 
-                *   58
+                *   58,0
+
+                *   2036
+
+                *   89,0
 
 
             *                *   2010
 
-                *   60
+                *   60,0
+
+                *   2037
+
+                *   89,5
 
 
             *                *   2011
 
-                *   62
+                *   62,0
+
+                *   2038
+
+                *   90,0
 
 
             *                *   2012
 
-                *   64
+                *   64,0
+
+                *   2039
+
+                *   90,5
 
 
             *                *   2013
 
-                *   66
+                *   66,0
+
+                *   2040
+
+                *   91,0
 
 
             *                *   2014
 
-                *   68
+                *   68,0
+
+                *   2041
+
+                *   91,5
 
 
             *                *   2015
 
-                *   70
+                *   70,0
+
+                *   2042
+
+                *   92,0
 
 
             *                *   2016
 
-                *   72
+                *   72,0
+
+                *   2043
+
+                *   92,5
 
 
             *                *   2017
 
-                *   74
+                *   74,0
+
+                *   2044
+
+                *   93,0
 
 
             *                *   2018
 
-                *   76
+                *   76,0
+
+                *   2045
+
+                *   93,5
 
 
             *                *   2019
 
-                *   78
+                *   78,0
+
+                *   2046
+
+                *   94,0
 
 
             *                *   2020
 
-                *   80
+                *   80,0
+
+                *   2047
+
+                *   94,5
 
 
             *                *   2021
 
-                *   81
+                *   81,0
+
+                *   2048
+
+                *   95,0
 
 
             *                *   2022
 
-                *   82
+                *   82,0
+
+                *   2049
+
+                *   95,5
 
 
             *                *   2023
 
-                *   83
+                *   82,5
+
+                *   2050
+
+                *   96,0
 
 
             *                *   2024
 
-                *   84
+                *   83,0
+
+                *   2051
+
+                *   96,5
 
 
             *                *   2025
 
-                *   85
+                *   83,5
+
+                *   2052
+
+                *   97,0
 
 
             *                *   2026
 
-                *   86
+                *   84,0
+
+                *   2053
+
+                *   97,5
 
 
             *                *   2027
 
-                *   87
+                *   84,5
+
+                *   2054
+
+                *   98,0
 
 
             *                *   2028
 
-                *   88
+                *   85,0
+
+                *   2055
+
+                *   98,5
 
 
             *                *   2029
 
-                *   89
+                *   85,5
+
+                *   2056
+
+                *   99,0
 
 
             *                *   2030
 
-                *   90
+                *   86,0
+
+                *   2057
+
+                *   99,5
 
 
             *                *   2031
 
-                *   91
+                *   86,5
 
+                *   2058
 
-            *                *   2032
-
-                *   92
-
-
-            *                *   2033
-
-                *   93
-
-
-            *                *   2034
-
-                *   94
-
-
-            *                *   2035
-
-                *   95
-
-
-            *                *   2036
-
-                *   96
-
-
-            *                *   2037
-
-                *   97
-
-
-            *                *   2038
-
-                *   98
-
-
-            *                *   2039
-
-                *   99
-
-
-            *                *   2040
-
-                *   100
+                *   100,0
 
 
 
@@ -11450,11 +11709,8 @@ anzuwenden.
 5             Der maßgebende Prozentsatz und der Höchstbetrag des
 Altersentlastungsbetrags sind der nachstehenden Tabelle zu entnehmen:
 
-*    *   Das auf die
-        Vollendung des
-        64\. Lebensjahres
-        folgende
-        Kalenderjahr
+*    *   Das auf die Vollendung des
+        64\. Lebensjahres folgende Kalenderjahr
 
     *   Altersentlastungsbetrag
 
@@ -11592,124 +11848,250 @@ Altersentlastungsbetrags sind der nachstehenden Tabelle zu entnehmen:
 
 *    *   2023
 
+    *   14,0
+
+    *   665
+
+
+*    *   2024
+
     *   13,6
 
     *   646
 
 
-*    *   2024
+*    *   2025
+
+    *   13,2
+
+    *   627
+
+
+*    *   2026
 
     *   12,8
 
     *   608
 
 
-*    *   2025
+*    *   2027
+
+    *   12,4
+
+    *   589
+
+
+*    *   2028
 
     *   12,0
 
     *   570
 
 
-*    *   2026
+*    *   2029
+
+    *   11,6
+
+    *   551
+
+
+*    *   2030
 
     *   11,2
 
     *   532
 
 
-*    *   2027
+*    *   2031
+
+    *   10,8
+
+    *   513
+
+
+*    *   2032
 
     *   10,4
 
     *   494
 
 
-*    *   2028
+*    *   2033
+
+    *   10,0
+
+    *   475
+
+
+*    *   2034
 
     *   9,6
 
     *   456
 
 
-*    *   2029
+*    *   2035
+
+    *   9,2
+
+    *   437
+
+
+*    *   2036
 
     *   8,8
 
     *   418
 
 
-*    *   2030
+*    *   2037
+
+    *   8,4
+
+    *   399
+
+
+*    *   2038
 
     *   8,0
 
     *   380
 
 
-*    *   2031
+*    *   2039
+
+    *   7,6
+
+    *   361
+
+
+*    *   2040
 
     *   7,2
 
     *   342
 
 
-*    *   2032
+*    *   2041
+
+    *   6,8
+
+    *   323
+
+
+*    *   2042
 
     *   6,4
 
     *   304
 
 
-*    *   2033
+*    *   2043
+
+    *   6,0
+
+    *   285
+
+
+*    *   2044
 
     *   5,6
 
     *   266
 
 
-*    *   2034
+*    *   2045
+
+    *   5,2
+
+    *   247
+
+
+*    *   2046
 
     *   4,8
 
     *   228
 
 
-*    *   2035
+*    *   2047
+
+    *   4,4
+
+    *   209
+
+
+*    *   2048
 
     *   4,0
 
     *   190
 
 
-*    *   2036
+*    *   2049
+
+    *   3,6
+
+    *   171
+
+
+*    *   2050
 
     *   3,2
 
     *   152
 
 
-*    *   2037
+*    *   2051
+
+    *   2,8
+
+    *   133
+
+
+*    *   2052
 
     *   2,4
 
     *   114
 
 
-*    *   2038
+*    *   2053
+
+    *   2,0
+
+    *   95
+
+
+*    *   2054
 
     *   1,6
 
     *   76
 
 
-*    *   2039
+*    *   2055
+
+    *   1,2
+
+    *   57
+
+
+*    *   2056
 
     *   0,8
 
     *   38
 
 
-*    *   2040
+*    *   2057
+
+    *   0,4
+
+    *   19
+
+
+*    *   2058
 
     *   0,0
 
@@ -22607,11 +22989,11 @@ der Herstellung des Gebäudes begonnen hat oder im Fall der Anschaffung
 das Objekt auf Grund eines vor dem 1. Januar 2001 rechtswirksam
 abgeschlossenen obligatorischen Vertrags oder gleichstehenden
 Rechtsakts angeschafft hat.
-3             Als Beginn der Herstellung gilt bei Gebäuden, für die
-eine Baugenehmigung erforderlich ist, der Zeitpunkt, in dem der
-Bauantrag gestellt wird; bei baugenehmigungsfreien Gebäuden, für die
-Bauunterlagen einzureichen sind, der Zeitpunkt, in dem die
-Bauunterlagen eingereicht werden.
+3             Als Beginn der Herstellung im Sinne des Satzes 2 gilt
+bei Gebäuden, für die eine Baugenehmigung erforderlich ist, der
+Zeitpunkt, in dem der Bauantrag gestellt wird; bei
+baugenehmigungsfreien Gebäuden, für die Bauunterlagen einzureichen
+sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
 
 (15a)
 1             Die Inanspruchnahme der Sonderabschreibungen nach § 7b
@@ -22625,7 +23007,7 @@ geltend gemacht werden.
 3             § 7b Absatz 5 in der Fassung des Artikels 4 des Gesetzes
 vom 16. Dezember 2022 (BGBl. I S. 2294) gilt für Sonderabschreibungen,
 die für neue Wohnungen in Anspruch genommen werden, die aufgrund eines
-nach dem 31. Dezember 2022 und vor dem 1. Januar 2027 gestellten
+nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten
 Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige
 hergestellt werden.
 
@@ -22934,9 +23316,10 @@ vor dem 31. Juli 2019 anzuwenden.
 Artikels 1 des Gesetzes vom 22. Dezember 2005 (BGBl. I S. 3683) gilt
 Absatz 25 entsprechend.
 
-(26a) § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 und 3 in der am 31.
-Dezember 2014 geltenden Fassung gilt für alle Zahlungen des
-Arbeitgebers nach dem 30. Dezember 2014.
+(26a) § 19 Absatz 2 Satz 3 und § 24a Satz 5 in der Fassung des
+Artikels 1 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) sind
+beim Steuerabzug vom Arbeitslohn erstmals ab dem 1. Januar 2025
+anzuwenden.
 
 (27) (weggefallen)
 

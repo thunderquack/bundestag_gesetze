@@ -22,13 +22,13 @@ Zuletzt geändert durch
 :   Art. 10 G v. 2.6.2021 I 1259
 
 Änderung durch
-:   Art. 7 G v. 27.3.2024 I Nr. 108 mWv 1.1.2023 noch nicht berücksichtigt
+:   Art. 7 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 8 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 9 G v. 27.3.2024 I Nr. 108 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
@@ -1185,7 +1185,8 @@ Einkommensteuererklärung für das abgelaufene Kalenderjahr
 
 2             Eine Steuererklärung ist außerdem abzugeben, wenn zum
 Schluss des vorangegangenen Veranlagungszeitraums ein verbleibender
-Verlustabzug festgestellt worden ist.
+Verlustabzug oder ein nachversteuerungspflichtiger Betrag im Sinne von
+§ 34a Absatz 3 Satz 3 des Gesetzes festgestellt worden ist.
 
 
 ### (XXXX) §§ 57 bis 59 (weggefallen)
@@ -1959,7 +1960,7 @@ sofort abzugsfähige Betriebsausgaben behandelt werden.
 
 
 
-an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu
+an Stelle der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu
 bemessenden Absetzungen für Abnutzung im Jahr der Herstellung und in
 den folgenden neun Jahren jeweils bis zu 10 Prozent absetzen.
 2             Nach Ablauf dieser zehn Jahre ist ein etwa noch
@@ -2097,7 +2098,7 @@ Durchführung sich der Eigentümer neben bestimmten
 Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat, die
 für Gebäude in einem förmlich festgelegten Sanierungsgebiet oder
 städtebaulichen Entwicklungsbereich aufgewendet worden sind, an Stelle
-der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden
+der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu bemessenden
 Absetzungen für Abnutzung im Jahr der Herstellung und in den neun
 folgenden Jahren jeweils bis zu 10 Prozent absetzen.
 2             § 82a Abs. 1 Satz 2 gilt entsprechend.

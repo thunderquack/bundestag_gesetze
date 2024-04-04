@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 21.12.2023 I Nr. 397
 
 Änderung durch
-:   Art. 17 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 17 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -737,6 +737,10 @@ und 3 folgende Aufgaben:
     Abgabenordnung;
 
 
+44a. die Durchführung des Bußgeldverfahrens in den Fällen des § 379 Absatz
+    2 Nummer 1e und 1f der Abgabenordnung;
+
+
 45. die Übermittlung von Daten im Rahmen des automatisierten
     Datenabrufverfahrens mit den Trägern der gesetzlichen
     Rentenversicherung in den in § 151b Absatz 2 Satz 2 und § 151c Absatz
@@ -761,37 +765,29 @@ und 3 folgende Aufgaben:
     ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist;
 
 
+46b. die Koordinierung von und Mitwirkung an internationalen
+    Risikobewertungsverfahren im Sinne des § 89b der Abgabenordnung;
+
+
 47.
-    a)  die zentrale Sammlung der von den Finanzbehörden der Länder nach § 60b
-        der Abgabenordnung übermittelten Daten zu nach § 5 Absatz 1 Nummer 9
-        des Körperschaftsteuergesetzes steuerbefreiten Körperschaften,
-        Personenvereinigungen oder Vermögensmassen
-        (Zuwendungsempfängerregister) sowie die Erteilung von Auskünften
-        daraus im Wege einer elektronischen Abfrage durch die Finanzbehörden
-        der Länder und durch Dritte,
+    a)  die zentrale Sammlung sowohl der von den Finanzbehörden der Länder
+        nach § 60b der Abgabenordnung übermittelten Daten als auch der
+        Zuwendungsempfänger des Buchstaben b,
 
 
-    b)  die Feststellung, ob Körperschaften ohne Sitz im Geltungsbereich des
-        Grundgesetzes, die nachweislich Zuwendungen von Spendern mit Wohnsitz,
-        Aufenthalt oder Sitz im Geltungsbereich dieses Gesetzes erhalten
-        haben, für Zwecke des § 50 Absatz 1 der Einkommensteuer-
-        Durchführungsverordnung, die Voraussetzungen der §§ 51 bis 68 der
-        Abgabenordnung erfüllen,
+    b)  für Körperschaften, juristische Personen des öffentlichen Rechts oder
+        öffentliche Dienststellen ohne Sitz im Geltungsbereich des
+        Grundgesetzes, die die Voraussetzungen des § 10b Absatz 1 Satz 2
+        Nummer 1 oder Nummer 3, Satz 3 bis 6 des Einkommensteuergesetzes
+        erfüllen und nachweislich Zuwendungen von Personen mit Wohnsitz,
+        Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses
+        Gesetzes erhalten haben, auf Antrag nach amtlich vorgeschriebenem
+        Datensatz durch Datenfernübertragung des Zuwendungsempfängers die
+        Aufnahme in das Zuwendungsempfängerregister für die Zwecke des § 50
+        Absatz 1 der Einkommensteuer-Durchführungsverordnung,
 
 
-    c)  die über Buchstabe a hinausgehende Aufnahme eines Zuwendungsempfängers
-        im Sinne des § 10b Absatz 1 Satz 2 Nummer 1 und 3 des
-        Einkommensteuergesetzes auf Antrag des Zuwendungsempfängers in das
-        Zuwendungsempfängerregister, wenn der Zuwendungsempfänger unmittelbar
-        steuerbegünstigte Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung
-        verwirklicht und die Voraussetzungen des § 51 der Abgabenordnung und
-        des § 10b Absatz 1 Satz 3 bis 6 des Einkommensteuergesetzes erfüllt
-        sowie die Aufnahme eines Zuwendungsempfängers im Sinne des § 34g des
-        Einkommensteuergesetzes, wenn der Zuwendungsempfänger die
-        Voraussetzungen des § 34g des Einkommensteuergesetzes erfüllt,
-
-
-    d)  der Abgleich der in den Verfassungsschutzberichten des Bundes und der
+    c)  der Abgleich der in den Verfassungsschutzberichten des Bundes und der
         Länder als „extremistisch“ eingestuften Organisationen mit den im
         Zuwendungsempfängerregister aufgeführten Körperschaften auf die
         Voraussetzungen des § 51 Absatz 3 der Abgabenordnung und die
@@ -799,24 +795,18 @@ und 3 folgende Aufgaben:
         Landesfinanzbehörde,
 
 
-    e)  die Bereitstellung für Zwecke des Sonderausgabenabzugs nach § 10b des
-        Einkommensteuergesetzes von Name, Anschrift,
-        Wirtschaftsidentifikationsnummer, satzungsgemäßen Zwecken nach § 52
-        Absatz 2 der Abgabenordnung, zuständigem Finanzamt, Datum des
-        Freistellungsbescheides, Bankverbindung sowie Datum der gesonderten
-        Feststellung der satzungsmäßigen Gemeinnützigkeit nach § 60a der
-        Abgabenordnung als automatisiert abrufbare Merkmale der im
-        Zuwendungsempfängerregister geführten Körperschaften,
-        Personenvereinigungen, Vermögensmassen, juristische Personen des
-        öffentlichen Rechts oder öffentlichen Dienststellen für die
-        Finanzbehörden der Länder und für Dritte,
+    d)  die Bereitstellung für Zwecke des Sonderausgabenabzugs nach § 10b des
+        Einkommensteuergesetzes und der Steuerermäßigung des § 34g des
+        Einkommensteuergesetzes der in § 60b Absatz 2 der Abgabenordnung als
+        automatisiert abrufbare Merkmale der im Zuwendungsempfängerregister
+        geführten Körperschaften, Personenvereinigungen, Vermögensmassen,
+        juristischen Personen des öffentlichen Rechts oder öffentlichen
+        Dienststellen für die Finanzbehörden der Länder und für Dritte,
 
 
-    f)  die Entgegennahme und Weiterleitung von Änderungsanträgen zum
-        Registerinhalt einer im Zuwendungsempfängerregister geführten
-        Körperschaft, Personenvereinigung, Vermögensmasse, juristischen Person
-        des öffentlichen Rechts oder öffentlichen Dienststelle an die
-        zuständige Finanzbehörde.
+    e)  die Erteilung von Auskünften aus der zentralen Sammlung nach Buchstabe
+        a im Wege einer elektronischen Abfrage durch die Finanzbehörden der
+        Länder und durch Dritte.
 
 
 
@@ -835,8 +825,8 @@ Datenschutzkontrolle zu speichern.
 wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach
 § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt
 nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9,
-10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und
-42 bis 46.
+10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38, 42
+bis 46 und 46b.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie

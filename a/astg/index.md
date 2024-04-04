@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 5 G v. 21.12.2023 I Nr. 397
 
 Änderung durch
-:   Art. 10 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 10 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -209,6 +209,67 @@ Erhalts oder des Schutzes eines immateriellen Werts ist angemessen zu
 vergüten und berechtigt nicht zum Ertrag aus dem finanzierten
 immateriellen Wert.
 
+(3d) Es entspricht nicht dem Fremdvergleichsgrundsatz, wenn ein aus
+einer grenzüberschreitenden Finanzierungsbeziehung innerhalb einer
+multinationalen Unternehmensgruppe resultierender Aufwand die
+Einkünfte des Steuerpflichtigen gemindert hat und
+
+1.  der Steuerpflichtige nicht glaubhaft machen kann, dass er
+
+    a)  den Kapitaldienst für die gesamte Laufzeit dieser
+        Finanzierungsbeziehung von Anfang an hätte erbringen können und
+
+
+    b)  die Finanzierung wirtschaftlich benötigt und für den Unternehmenszweck
+        verwendet
+
+
+
+
+
+
+oder
+
+2.  soweit der seitens des Steuerpflichtigen zu entrichtende Zinssatz für
+    eine grenzüberschreitende Finanzierungsbeziehung mit einer ihm
+    nahestehenden Person den Zinssatz übersteigt, zu dem sich das
+    Unternehmen unter Zugrundelegung des Ratings für die
+    Unternehmensgruppe gegenüber fremden Dritten finanzieren könnte. Wird
+    im Einzelfall nachgewiesen, dass ein aus dem Unternehmensgruppenrating
+    abgeleitetes Rating dem Fremdvergleichsgrundsatz entspricht, ist
+    dieses bei der Bemessung des Zinssatzes zu berücksichtigen.
+
+
+
+
+Als Finanzierungsbeziehung gelten insbesondere ein Darlehensverhältnis
+sowie die Nutzung oder die Bereitstellung von Fremdkapital und
+fremdkapitalähnlichen Instrumenten.
+
+(3e) Es handelt sich regelmäßig um eine funktions- und risikoarme
+Dienstleistung, wenn
+
+1.  eine Finanzierungsbeziehung von einem Unternehmen gegenüber einem
+    anderen Unternehmen innerhalb einer multinationalen Unternehmensgruppe
+    vermittelt wird oder
+
+
+2.  eine Finanzierungsbeziehung von einem Unternehmen an ein anderes
+    Unternehmen innerhalb einer multinationalen Unternehmensgruppe
+    weitergeleitet wird.
+
+
+
+Hiervon ist auch regelmäßig dann auszugehen, wenn ein Unternehmen in
+der Unternehmensgruppe für ein oder mehrere Unternehmen der
+Unternehmensgruppe die Steuerung von Finanzmitteln, wie etwa ein
+Liquiditätsmanagement, ein Finanzrisikomanagement, ein
+Währungsrisikomanagement oder die Tätigkeit als
+Finanzierungsgesellschaft, übernimmt. Die Sätze 1 und 2 gelten nicht,
+wenn anhand einer Funktions- und Risikoanalyse nachgewiesen wird, dass
+es sich nicht um eine funktions- und risikoarme Dienstleistung
+handelt.
+
 (4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind
 
 1.  einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge
@@ -301,7 +362,7 @@ Doppelbesteuerung führen würde.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung
 des Bundesrates durch Rechtsverordnung Einzelheiten des
-Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3c und 5 und
+Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3e und 5 und
 Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie
 Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes
 5 Satz 3 Nummer 4 festzulegen.
@@ -1463,6 +1524,18 @@ nichts anderes bestimmt ist,
 
 3.  für die Erbschaftsteuer auf Erwerbe, bei denen die Steuerschuld nach
     dem Inkrafttreten dieses Gesetzes entstanden ist.
+
+
+
+
+(1a) § 1 Absatz 3d und 3e in der Fassung des Artikels 10 des Gesetzes
+vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals anzuwenden
+
+1.  für die Einkommensteuer und für die Körperschaftsteuer für den
+    Veranlagungszeitraum 2024;
+
+
+2.  für die Gewerbesteuer für den Erhebungszeitraum 2024.
 
 
 

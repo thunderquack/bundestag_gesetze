@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 24 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 12 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 12 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 13 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
@@ -5808,6 +5808,11 @@ Kraft zu setzen, wenn sich die darin übernommenen Verpflichtungen im
 Rahmen der nach diesem Gesetz zulässigen zwischenstaatlichen Rechts-
 und Amtshilfe halten.
 
+(6) § 2a Absatz 5 Nummer 2 gilt nicht, soweit seine Anwendung der
+Inanspruchnahme oder der Leistung der zwischenstaatlichen Amtshilfe
+entgegensteht; die Pflicht zur Wahrung des Steuergeheimnisses bleibt
+unberührt.
+
 
 ##### § 117a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -6625,17 +6630,15 @@ zuständigen Finanzamt mitzuteilen:
     im Sinne des § 1 Absatz 2 des Außensteuergesetzes erstmals unmittelbar
     oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die
     gesellschaftsrechtlichen, finanziellen oder geschäftlichen
-    Angelegenheiten einer Drittstaat-Gesellschaft ausüben können;
-
-
-5.  die Art der wirtschaftlichen Tätigkeit des Betriebs, der
-    Betriebstätte, der Personengesellschaft, Körperschaft,
-    Personenvereinigung, Vermögensmasse oder der Drittstaat-Gesellschaft.
+    Angelegenheiten einer Drittstaat-Gesellschaft ausüben können.
 
 
 
-In den Fällen des Satzes 1 Nummer 3 sind unmittelbare und mittelbare
-Beteiligungen zusammenzurechnen.
+In den Fällen des Satzes 1 Nummer 1 bis 4 ist auch die Art der
+wirtschaftlichen Tätigkeit des Betriebs, der Betriebsstätte, der
+Körperschaft, Personenvereinigung, Vermögensmasse oder der Drittstaat-
+Gesellschaft mitzuteilen. In den Fällen des Satzes 1 Nummer 3 sind
+unmittelbare und mittelbare Beteiligungen zusammenzurechnen.
 
 (3) Drittstaat-Gesellschaft ist eine Körperschaft, Personenvereinigung
 oder Vermögensmasse mit Sitz oder Geschäftsleitung in Staaten oder
@@ -6836,7 +6839,7 @@ Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die
 länderbezogenen Berichte und löscht sie mit Ablauf des 15. Jahres, das
 dem Jahr der Übermittlung folgt.
 
-(8) § 2a Absatz 5 Nummer 2 gilt nicht.
+(8) (weggefallen)
 
 
 ##### § 138b Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften

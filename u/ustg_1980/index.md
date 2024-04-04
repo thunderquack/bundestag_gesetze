@@ -22,13 +22,13 @@ Zuletzt geändert durch
 :   Art. 18 G v. 11.12.2023 I Nr. 354
 
 Änderung durch
-:   Art. 20 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 20 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 21 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 21 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 22 G v. 27.3.2024 I Nr. 108 mWv 1.4.2024 noch nicht berücksichtigt
+:   Art. 22 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 23 G v. 27.3.2024 I Nr. 108 mWv 1.1.2025 noch nicht berücksichtigt
@@ -1904,10 +1904,21 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
     l)  Einrichtungen, mit denen eine Vereinbarung zur Pflegeberatung nach §
-        7a des Elften Buches Sozialgesetzbuch besteht, oder
+        7a des Elften Buches Sozialgesetzbuch besteht,
 
 
-    m)  Einrichtungen, bei denen die Betreuungs- oder Pflegekosten oder die
+    m)  Einrichtungen, die als Verfahrenspfleger nach den §§ 276, 297, 298,
+        317 und 419 des Gesetzes über das Verfahren in Familiensachen und in
+        den Angelegenheiten der freiwilligen Gerichtsbarkeit bestellt worden
+        sind, wenn die Preise, die diese Einrichtungen verlangen, von den
+        zuständigen Behörden genehmigt sind oder die genehmigten Preise nicht
+        übersteigen; bei Umsätzen, für die eine Preisgenehmigung nicht
+        vorgesehen ist, müssen die verlangten Preise unter den Preisen liegen,
+        die der Mehrwertsteuer unterliegende gewerbliche Unternehmen für
+        entsprechende Umsätze fordern, oder
+
+
+    n)  Einrichtungen, bei denen die Betreuungs- oder Pflegekosten oder die
         Kosten für eng mit der Betreuung oder Pflege verbundene Leistungen in
         mindestens 25 Prozent der Fälle von den gesetzlichen Trägern der
         Sozialversicherung, den Trägern der Sozialhilfe, den Trägern der
@@ -1918,7 +1929,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
     Leistungen im Sinne des Satzes 1, die von Einrichtungen nach den
-    Buchstaben b bis m erbracht werden, sind befreit, soweit es sich ihrer
+    Buchstaben b bis n erbracht werden, sind befreit, soweit es sich ihrer
     Art nach um Leistungen handelt, auf die sich die Anerkennung, der
     Vertrag oder die Vereinbarung nach Sozialrecht oder die Vergütung
     jeweils bezieht;
@@ -2194,10 +2205,10 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         Bürgerlichen Gesetzbuchs vergütet werden,
 
 
-    d)  Einrichtungen, die als Verfahrensbeistand nach den §§ 158, 174 oder
-        191 des Gesetzes über das Verfahren in Familiensachen und in den
-        Angelegenheiten der freiwilligen Gerichtsbarkeit bestellt worden sind,
-        wenn die Preise, die diese Einrichtungen verlangen, von den
+    d)  Einrichtungen, die als Verfahrensbeistand nach den §§ 158, 167, 174
+        oder § 191 des Gesetzes über das Verfahren in Familiensachen und in
+        den Angelegenheiten der freiwilligen Gerichtsbarkeit bestellt worden
+        sind, wenn die Preise, die diese Einrichtungen verlangen, von den
         zuständigen Behörden genehmigt sind oder die genehmigten Preise nicht
         übersteigen; bei Umsätzen, für die eine Preisgenehmigung nicht
         vorgesehen ist, müssen die verlangten Preise unter den Preisen liegen,
@@ -3228,14 +3239,20 @@ Umsätze:
         gemeinnützige, mildtätige oder kirchliche Zwecke verfolgen (§§ 51 bis
         68 der Abgabenordnung). Das gilt nicht für Leistungen, die im Rahmen
         eines wirtschaftlichen Geschäftsbetriebs ausgeführt werden. Für
-        Leistungen, die im Rahmen eines Zweckbetriebs ausgeführt werden, gilt
-        Satz 1 nur, wenn der Zweckbetrieb nicht in erster Linie der Erzielung
-        zusätzlicher Einnahmen durch die Ausführung von Umsätzen dient, die in
+        Leistungen, die im Rahmen eines in den §§ 66 bis 68 der Abgabenordnung
+        bezeichneten Zweckbetriebs ausgeführt werden, gilt Satz 1 nur, wenn
+        der Zweckbetrieb nicht in erster Linie der Erzielung zusätzlicher
+        Einnahmen durch die Ausführung von Umsätzen dient, die in
         unmittelbarem Wettbewerb mit dem allgemeinen Steuersatz unterliegenden
         Leistungen anderer Unternehmer ausgeführt werden, oder wenn die
         Körperschaft mit diesen Leistungen ihrer in den §§ 66 bis 68 der
         Abgabenordnung bezeichneten Zweckbetriebe ihre steuerbegünstigten
-        satzungsgemäßen Zwecke selbst verwirklicht,
+        satzungsgemäßen Zwecke selbst verwirklicht. Körperschaften
+        verwirklichen mit ihren in den §§ 66 bis 68 der Abgabenordnung
+        bezeichneten Zweckbetrieben ihre steuerbegünstigten satzungsgemäßen
+        Zwecke selbst, wenn die Leistungsempfänger oder an der
+        Leistungserbringung beteiligte Personen vom steuerbegünstigten Zweck
+        der Einrichtung erfasst werden,
 
 
     b)  die Leistungen der nichtrechtsfähigen Personenvereinigungen und
@@ -3683,7 +3700,7 @@ vorbehaltlich des Satzes 10 auch, wenn die Leistung für den
 nichtunternehmerischen Bereich bezogen wird. Sind Leistungsempfänger
 und leistender Unternehmer in Zweifelsfällen übereinstimmend vom
 Vorliegen der Voraussetzungen des Absatzes 2 Nummer 4, 5 Buchstabe b,
-Nummer 7 bis 12 ausgegangen, obwohl dies nach der Art der Umsätze
+Nummer 6 bis 12 ausgegangen, obwohl dies nach der Art der Umsätze
 unter Anlegung objektiver Kriterien nicht zutreffend war, gilt der
 Leistungsempfänger dennoch als Steuerschuldner, sofern dadurch keine
 Steuerausfälle entstehen. Die Sätze 1 bis 7 gelten nicht, wenn bei dem
@@ -6164,7 +6181,7 @@ neuer Fahrzeuge. § 15 Abs. 4a ist entsprechend anzuwenden.
 Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
 1.  dessen Gesamtumsatz (§ 19 Abs. 3) im vorangegangenen Kalenderjahr
-    nicht mehr als 600 000 Euro betragen hat, oder
+    nicht mehr als 800 000 Euro betragen hat, oder
 
 
 2.  der von der Verpflichtung, Bücher zu führen und auf Grund jährlicher

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 28 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 28 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 28 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Steuerpflicht
@@ -110,18 +110,19 @@ Zweckzuwendungen unter Lebenden.
 
 
 3.  in allen anderen Fällen für den Vermögensanfall, der in
-    Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes besteht
-    (beschränkte Steuerpflicht). Bei Inlandsvermögen im Sinne des § 121
-    Nr. 4 des Bewertungsgesetzes ist es ausreichend, wenn der Erblasser
-    zur Zeit seines Todes oder der Schenker zur Zeit der Ausführung der
-    Schenkung entsprechend der Vorschrift am Grund- oder Stammkapital der
-    inländischen Kapitalgesellschaft beteiligt ist. Wird nur ein Teil
-    einer solchen Beteiligung durch Schenkung zugewendet, gelten die
-    weiteren Erwerbe aus der Beteiligung, soweit die Voraussetzungen des §
-    14 erfüllt sind, auch dann als Erwerb von Inlandsvermögen, wenn im
-    Zeitpunkt ihres Erwerbs die Beteiligung des Erblassers oder Schenkers
-    weniger als ein Zehntel des Grund- oder Stammkapitals der Gesellschaft
-    beträgt.
+    Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes besteht oder
+    einen Anspruch auf Übertragung von Inlandsvermögen im Sinne des § 121
+    des Bewertungsgesetzes umfasst (beschränkte Steuerpflicht). Bei
+    Inlandsvermögen im Sinne des § 121 Nr. 4 des Bewertungsgesetzes ist es
+    ausreichend, wenn der Erblasser zur Zeit seines Todes oder der
+    Schenker zur Zeit der Ausführung der Schenkung entsprechend der
+    Vorschrift am Grund- oder Stammkapital der inländischen
+    Kapitalgesellschaft beteiligt ist. Wird nur ein Teil einer solchen
+    Beteiligung durch Schenkung zugewendet, gelten die weiteren Erwerbe
+    aus der Beteiligung, soweit die Voraussetzungen des § 14 erfüllt sind,
+    auch dann als Erwerb von Inlandsvermögen, wenn im Zeitpunkt ihres
+    Erwerbs die Beteiligung des Erblassers oder Schenkers weniger als ein
+    Zehntel des Grund- oder Stammkapitals der Gesellschaft beträgt.
 
 
 
@@ -428,6 +429,13 @@ Gesellschafter zu bereichern und soweit an diesen Gesellschaften nicht
 unmittelbar oder mittelbar dieselben Gesellschafter zu gleichen
 Anteilen beteiligt sind. Die Sätze 1 und 2 gelten außer für
 Kapitalgesellschaften auch für Genossenschaften.
+
+(9) Als Schenkung gilt auch die Werterhöhung einer Beteiligung eines
+persönlich haftenden Gesellschafters einer Kommanditgesellschaft auf
+Aktien, die eine an der Gesellschaft unmittelbar oder mittelbar
+beteiligte natürliche Person oder Stiftung (Bedachte) durch die
+Leistung einer anderen Person (Zuwendender) an die Gesellschaft
+erlangt. Absatz 8 Satz 2 ist entsprechend anzuwenden.
 
 
 ### § 8 Zweckzuwendungen
@@ -2279,8 +2287,8 @@ Gesetzes wohnhaften Berechtigten zur Verfügung stellen.
 (7) Die Haftung nach Absatz 6 ist nicht geltend zu machen, wenn der in
 einem Steuerfall in ein Gebiet außerhalb des Geltungsbereichs dieses
 Gesetzes gezahlte oder außerhalb des Geltungsbereichs dieses Gesetzes
-wohnhaften Berechtigten zur Verfügung gestellte Betrag 600 Euro nicht
-übersteigt.
+wohnhaften Berechtigten zur Verfügung gestellte Betrag 5 000 Euro
+nicht übersteigt.
 
 
 ### § 21 Anrechnung ausländischer Erbschaftsteuer
@@ -3142,6 +3150,10 @@ die Steuer nach dem 28. Dezember 2020 entsteht.
 Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) ist in allen Fällen
 anzuwenden, soweit die Steuerbescheide noch nicht bestandskräftig
 sind.
+
+(20) § 2 Absatz 1 Nummer 3 Satz 1 in der am 28. März 2024 geltenden
+Fassung ist auf Erwerbe anzuwenden, für die die Steuer nach dem 27.
+März 2024 entsteht.
 
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands

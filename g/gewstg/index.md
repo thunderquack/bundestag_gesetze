@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 22 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 19 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 19 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Allgemeines
@@ -890,7 +890,7 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 
         erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als
-        10 Prozent der Einnahmen aus der Gebrauchsüberlassung des
+        20 Prozent der Einnahmen aus der Gebrauchsüberlassung des
         Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa
         dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei
         denn, diese sind Mieter des Anlagenbetreibers, oder
@@ -1934,6 +1934,10 @@ Erhebungszeitraum 2030 anzuwenden.
 (4a) § 8 Nummer 5 in der Fassung des Artikels 3 des Gesetzes vom 25.
 Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum
 2022 anzuwenden.
+
+(4b) § 9 Nummer 1 Satz 3 Buchstabe b in der Fassung des Artikels 19
+des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für
+den Erhebungszeitraum 2023 anzuwenden.
 
 (5)
 1             § 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des

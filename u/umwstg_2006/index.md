@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 34 Abs. 8 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 11 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 11 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -643,16 +643,33 @@ Zeitraums von drei Jahren vor dem steuerlichen Übertragungsstichtag
 durch Übertragung von Wirtschaftsgütern, die kein Teilbetrieb sind,
 erworben oder aufgestockt worden sind. § 11 Abs. 2 ist ebenfalls nicht
 anzuwenden, wenn durch die Spaltung die Veräußerung an außenstehende
-Personen vollzogen wird. Das Gleiche gilt, wenn durch die Spaltung die
-Voraussetzungen für eine Veräußerung geschaffen werden. Davon ist
-auszugehen, wenn innerhalb von fünf Jahren nach dem steuerlichen
-Übertragungsstichtag Anteile an einer an der Spaltung beteiligten
-Körperschaft, die mehr als 20 Prozent der vor Wirksamwerden der
-Spaltung an der Körperschaft bestehenden Anteile ausmachen, veräußert
-werden. Bei der Trennung von Gesellschafterstämmen setzt die Anwendung
-des § 11 Abs. 2 außerdem voraus, dass die Beteiligungen an der
-übertragenden Körperschaft mindestens fünf Jahre vor dem steuerlichen
-Übertragungsstichtag bestanden haben.
+Personen vollzogen oder vorbereitet wird. Als außenstehende Personen
+gelten Personen, die nicht ununterbrochen fünf Jahre vor der Spaltung
+an der übertragenden Körperschaft beteiligt waren. In den Fällen der
+Vorbereitung einer Veräußerung kommt Satz 2 nur zur Anwendung, wenn
+innerhalb von fünf Jahren nach dem steuerlichen Übertragungsstichtag
+eine Veräußerung mindestens eines Anteils an einer an der Spaltung
+beteiligten Körperschaft an außenstehende Personen erfolgt; die
+Veräußerung des Anteils gilt als rückwirkendes Ereignis im Sinne von §
+175 Absatz 1 Satz 1 Nummer 2 der Abgabenordnung. Werden innerhalb von
+fünf Jahren nach dem steuerlichen Übertragungsstichtag Anteile an
+einer an der Spaltung beteiligten Körperschaft, die mehr als 20
+Prozent des Wertes der Anteile an der übertragenden Körperschaft am
+steuerlichen Übertragungsstichtag ausmachen, an außenstehende Personen
+veräußert, ist unwiderlegbar zu vermuten, dass durch die Spaltung eine
+Veräußerung im Sinne des Satzes 2 vorbereitet wurde. Sind an der
+übertragenden Körperschaft außenstehende Personen beteiligt, gilt die
+Spaltung nur dann als Veräußerung an außenstehende Personen im Sinne
+des Satzes 2, wenn die Spaltung zu einer Wertverschiebung zugunsten
+dieser Personen führt. Verbundene Unternehmen im Sinne des § 271
+Absatz 2 des Handelsgesetzbuchs gelten nicht als außenstehende
+Personen im Sinne dieses Absatzes; als Veräußerung eines Anteils an
+einer an der Spaltung beteiligten Körperschaft im Sinne des Satzes 4
+gilt auch die mittelbare Veräußerung dieses Anteils durch ein
+verbundenes Unternehmen. Bei der Trennung von Gesellschafterstämmen
+setzt die Anwendung des § 11 Abs. 2 außerdem voraus, dass die
+Beteiligungen an der übertragenden Körperschaft mindestens fünf Jahre
+vor dem steuerlichen Übertragungsstichtag bestanden haben.
 
 (3) Bei einer Abspaltung mindern sich verrechenbare Verluste,
 verbleibende Verlustvorträge, nicht ausgeglichene negative Einkünfte,
@@ -1498,6 +1515,12 @@ Gesetzes vom 24. März 1999 (BGBl. I S. 402) behaftet sind.
 (BGBl. I S. 2050) ist erstmals auf Umwandlungen und Einbringungen
 anzuwenden, deren steuerlicher Übertragungsstichtag nach dem 31.
 Dezember 2021 liegt.
+
+(19) § 15 Absatz 2 in der Fassung des Artikels 11 des Gesetzes vom 27.
+März 2024 (BGBl. 2024 I Nr. 108) ist erstmals auf Spaltungen
+anzuwenden, bei denen die Anmeldung zur Eintragung in das für die
+Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche Register
+nach dem 14. Juli 2023 erfolgt.
 
 
 ### § 28 Bekanntmachungserlaubnis

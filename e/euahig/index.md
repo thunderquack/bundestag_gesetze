@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2022 I 2730
 
 Änderung durch
-:   Art. 31 G v. 27.3.2024 I Nr. 108 mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 31 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des
     Rates vom 15. Februar 2011 über die Zusammenarbeit der
@@ -265,6 +265,21 @@ Daten, einschließlich der Datenkomprimierung, und zum Speichern von
 Daten unter Einsatz von Draht, Funk, optischen Technologien oder
 anderen elektromagnetischen Verfahren.
 
+(13) Behördliche Ermittlungen im Sinne dieses Gesetzes sind alle
+Maßnahmen, die zum Ziel haben, den für die Besteuerung relevanten
+Sachverhalt aufzuklären, und die ausgeübt werden
+
+1.  im Fall der Finanzbehörden, in Erfüllung der ihnen nach dem
+    Finanzverwaltungsgesetz übertragenen Aufgaben,
+
+
+2.  im Fall der Behörden der anderen Mitgliedstaaten, in Erfüllung der
+    ihnen nach dem Recht des jeweiligen Mitgliedstaates übertragenen
+    Aufgaben.
+
+
+
+
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse
 
@@ -275,9 +290,15 @@ Amtshilferichtlinie ist das Bundesministerium der Finanzen.
 Unterabsatz 1 der Amtshilferichtlinie ist in den Fällen des § 5 Absatz
 1 Nummer 5 des Finanzverwaltungsgesetzes das Bundeszentralamt für
 Steuern. Das Bundesministerium der Finanzen kann durch Schreiben
-weitere Verbindungsstellen im Sinne von Artikel 4 Absatz 3 und
-zuständige Bedienstete im Sinne von Artikel 4 Absatz 4 der
-Amtshilferichtlinie benennen.
+weitere Bundes- oder Landesfinanzbehörden als Verbindungsstellen im
+Sinne von Artikel 4 Absatz 3 und Amtsträger einer Bundes- oder
+Landesfinanzbehörde als zuständige Bedienstete im Sinne von Artikel 4
+Absatz 4 der Amtshilferichtlinie benennen. Das zentrale
+Verbindungsbüro kann schriftlich für den Einzelfall zuständige
+Bedienstete benennen. Die benannten Verbindungsstellen und zuständigen
+Bediensteten sind in dem jeweils festgelegten Umfang zum direkten
+Informationsaustausch mit dem anderen Mitgliedstaat nach Maßgabe
+dieses Gesetzes befugt.
 
 (3) Das zentrale Verbindungsbüro übernimmt die Kommunikation mit den
 anderen Mitgliedstaaten und prüft eingehende und ausgehende Ersuchen
@@ -287,6 +308,12 @@ gespeichert und zur Durchführung des Besteuerungsverfahrens an die
 zuständigen Finanzbehörden weitergeleitet. Zulässige Ersuchen und
 Informationen der Finanzbehörden werden vom zentralen Verbindungsbüro
 an die anderen Mitgliedstaaten weitergeleitet.
+
+(3a) Sind gleichzeitige oder gemeinsame Prüfungen vereinbart, benennt
+das zentrale Verbindungsbüro die für die behördlichen Ermittlungen
+zuständigen Amtsträger der Bundes- und Landesfinanzbehörden für den
+jeweiligen Einzelfall als zuständige Bedienstete; Absatz 2 Satz 2 und
+3 bleibt unberührt.
 
 (4) Die im Zusammenhang mit den Ersuchen und Informationen beim
 Bundeszentralamt für Steuern gespeicherten Daten werden mit Ablauf des
@@ -353,8 +380,8 @@ Verbindungsbüro an den anderen Mitgliedstaat weitergeleitet. Die
 zuständige Finanzbehörde erstellt die Antworten nach Maßgabe dieses
 Gesetzes und unter Berücksichtigung des § 117 Absatz 4 der
 Abgabenordnung. Verfügt die Finanzbehörde nicht über die betreffenden
-Informationen, so führt sie nach pflichtgemäßem Ermessen alle nach der
-Abgabenordnung vorgesehenen behördlichen Ermittlungen durch.
+Informationen, so führt sie nach pflichtgemäßem Ermessen behördliche
+Ermittlungen durch.
 
 (2) Absatz 1 gilt auch für Ersuchen um Durchführung behördlicher
 Ermittlungen. Ist die Finanzbehörde der Auffassung, dass keine
@@ -371,30 +398,34 @@ nach deutschem Recht zulässig ist.
 
 2.  der andere Mitgliedstaat die üblichen Informationsquellen nicht
     ausgeschöpft hat, die ihm zur Erlangung der erbetenen Informationen
-    zur Verfügung stehen, ohne dabei die Erreichung des Ziels zu
-    gefährden,
+    zur Verfügung stehen, ohne dabei die Erreichung des Ziels zu gefährden
+    oder
 
 
-3.  ein Handels-, Gewerbe- oder Berufsgeheimnis oder ein
-    Geschäftsverfahren preisgegeben werden würde oder
-
-
-4.  die öffentliche Ordnung verletzt werden würde.
+3.  die öffentliche Ordnung verletzt werden würde.
 
 
 
 
 (4) Das zentrale Verbindungsbüro kann die Übermittlung von
-Informationen zudem ablehnen, wenn der andere Mitgliedstaat
-seinerseits aus rechtlichen Gründen nicht zur Übermittlung
-entsprechender Informationen in der Lage ist.
+Informationen ablehnen, wenn
 
-(5) Absatz 3 Nummer 1, 3 und 4 ist in keinem Fall so auszulegen, dass
-die Übermittlung von Informationen nur deshalb abgelehnt werden kann,
-weil die betreffenden Informationen sich bei einer Bank, einem
-sonstigen Finanzinstitut, einem Bevollmächtigten, Vertreter oder
-Treuhänder befinden oder sich auf Eigentumsanteile an einer Person
-beziehen.
+1.  der andere Mitgliedstaat seinerseits aus rechtlichen Gründen nicht zur
+    Übermittlung entsprechender Informationen in der Lage ist oder
+
+
+2.  ein Handels-, Gewerbe- oder Berufsgeheimnis oder ein
+    Geschäftsverfahren preisgegeben werden würde.
+
+
+
+
+(5) Absatz 3 Nummer 1 und 3 und Absatz 4 Nummer 2 ist in keinem Fall
+so auszulegen, dass die Übermittlung von Informationen nur deshalb
+abgelehnt werden kann, weil die betreffenden Informationen sich bei
+einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten,
+Vertreter oder Treuhänder befinden oder sich auf Eigentumsanteile an
+einer Person beziehen.
 
 (6) Ein Ersuchen kann nicht aus dem Grund abgelehnt werden, dass die
 zu übermittelnden Informationen nach deutschem Recht nicht für
@@ -865,7 +896,7 @@ Einzelheiten zu dem Verfahren nach Satz 3 in einem Schreiben fest.
 Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen.
 
 (14a) Das zentrale Verbindungsbüro übermittelt im Wege des
-automatischen Austauschs die ihm gemäß § 12 des Plattformen-
+automatischen Austauschs die ihm gemäß § 13 des Plattformen-
 Steuertransparenzgesetzes gemeldeten Informationen an:
 
 1.  die zuständigen Behörden aller Mitgliedstaaten, in denen der jeweilige
@@ -961,21 +992,23 @@ kann das zentrale Verbindungsbüro gestatten, dass unter den von ihm
 festgelegten Voraussetzungen befugte Bedienstete des anderen
 Mitgliedstaats für Zwecke des Informationsaustauschs
 
-1.  in den Amtsräumen zugegen sein dürfen, in denen deutsche
-    Finanzbehörden ihre Tätigkeit ausüben,
+1.  in den Amtsräumen zugegen sein dürfen, in denen die Finanzbehörden
+    ihre Tätigkeit ausüben,
 
 
 2.  bei den behördlichen Ermittlungen zugegen sein dürfen, die auf
-    deutschem Hoheitsgebiet durchgeführt werden, und
+    deutschem Hoheitsgebiet von den Finanzbehörden durchgeführt werden,
+    und
 
 
-3.  unter Einhaltung der nationalen Verfahrensregelungen Einzelpersonen
-    befragen und Aufzeichnungen prüfen.
+3.  unter Einhaltung des deutschen Verfahrensrechts im Beisein eines
+    zuständigen inländischen Bediensteten Personen befragen und
+    Aufzeichnungen prüfen.
 
 
 
 Sofern angezeigt, ist die Teilnahme an behördlichen Ermittlungen,
-einschließlich der Befragung von Einzelpersonen und der Prüfung von
+einschließlich der Befragung von Personen und der Prüfung von
 Aufzeichnungen, mittels elektronischer Kommunikationsmittel zu
 gestatten; § 87a Absatz 1 Satz 3 der Abgabenordnung gilt entsprechend.
 Das zentrale Verbindungsbüro bestätigt dem anderen Mitgliedstaat sein
@@ -991,9 +1024,22 @@ enthalten, zu denen die Finanzbehörde Zugang hat, so werden den
 Bediensteten des anderen Mitgliedstaats Kopien dieser Unterlagen
 ausgehändigt.
 
-(3) Verweigert eine Person in Fällen des Absatzes 1 Satz 1 Nummer 3
-die Mitwirkung, gilt diese Verweigerung wie eine Verweigerung
-gegenüber inländischen Bediensteten.
+(3) Die Befugnisse der Bediensteten der anderen Mitgliedstaaten
+bestimmen sich nach deutschem Verfahrensrecht; sie gehen nicht über
+das hinaus, was
+
+1.  für die in Absatz 1 Nummer 1 bis 3 genannten Zwecke erforderlich ist
+    und
+
+
+2.  das Recht des jeweiligen anderen Mitgliedstaates seinen Bediensteten
+    gestattet.
+
+
+
+Verweigert eine Person in Fällen des Absatzes 1 Satz 1 Nummer 3 die
+Mitwirkung, gilt diese Verweigerung wie eine Verweigerung gegenüber
+inländischen Bediensteten.
 
 (4) Befugte Bedienstete des anderen Mitgliedstaats müssen, wenn sie
 sich nach Absatz 1 auf deutschem Hoheitsgebiet aufhalten, jederzeit
@@ -1010,33 +1056,111 @@ entsandt werden. § 10 gilt sinngemäß.
 
 ### § 12 Gleichzeitige Prüfung
 
-(1) Auf Vorschlag der Finanzbehörde kann das zentrale Verbindungsbüro
-mit einem oder mehreren Mitgliedstaaten vereinbaren, im jeweils
-eigenen Hoheitsgebiet eine gleichzeitige Prüfung einer oder mehrerer
-Personen von gemeinsamem oder ergänzendem Interesse durchzuführen.
-Soweit dies nach § 4 zulässig ist, sind die hierbei erlangten
-Informationen sowie die für die Vereinbarung der Prüfung im Vorfeld
-erforderlichen Kenntnisse auszutauschen.
+(1) Auf Vorschlag der zuständigen Finanzbehörde kann das zentrale
+Verbindungsbüro einen anderen Mitgliedstaat oder mehrere andere
+Mitgliedstaaten ersuchen, eine gleichzeitige Prüfung durchzuführen.
+Das zentrale Verbindungsbüro kann ein Ersuchen eines anderen
+Mitgliedstaates oder mehrerer anderer Mitgliedstaaten um die
+Durchführung einer gleichzeitigen Prüfung annehmen.
 
-(2) Die Finanzbehörde bestimmt, welche Person oder welche Personen sie
-für eine gleichzeitige Prüfung vorschlägt. Das zentrale
-Verbindungsbüro unterrichtet die betroffenen Mitgliedstaaten darüber,
-begründet die Auswahl und gibt den Zeitraum an, in welchem die
-gleichzeitige Prüfung durchgeführt werden soll.
+(2) Eine gleichzeitige Prüfung im Sinne des Absatzes 1 sind
+behördliche Ermittlungen, die von der zuständigen Finanzbehörde
+gleichzeitig mit der entsprechenden Behörde eines anderen
+Mitgliedstaats im jeweils eigenen Hoheitsgebiet in Bezug auf eine
+Person oder mehrere Personen von gemeinsamem oder ergänzendem
+Interesse durchgeführt werden, um die dabei erlangten Informationen
+auszutauschen. Die im Vorfeld der gleichzeitigen Prüfung zur Stellung,
+Annahme oder Ablehnung eines Ersuchens erforderlichen sowie die bei
+der gleichzeitigen Prüfung erlangten Informationen werden, soweit dies
+nach § 4 zulässig ist, ausgetauscht. Abweichend von § 4 Absatz 1 Satz
+2 bedarf es nicht der Weiterleitung durch das zentrale
+Verbindungsbüro, soweit in den in § 3 Absatz 3a geregelten Fällen ein
+direkter Informationsaustausch erfolgen darf. § 4 Absatz 3 Nummer 2
+und § 6 Absatz 3 finden keine Anwendung. § 8 bleibt unberührt.
 
-(3) Schlägt ein anderer Mitgliedstaat eine gleichzeitige Prüfung vor,
-so entscheidet die Finanzbehörde, ob sie an der gleichzeitigen Prüfung
-teilnehmen wird. Das zentrale Verbindungsbüro teilt dem anderen
-Mitgliedstaat innerhalb von 60 Tagen nach Erhalt des Vorschlags das
-Einverständnis oder die begründete Ablehnung mit.
+(3) Das zentrale Verbindungsbüro benennt einen seiner Bediensteten,
+der für die Beaufsichtigung und die Koordinierung der gleichzeitigen
+Prüfung verantwortlich ist.
 
-(4) Das zentrale Verbindungsbüro benennt einen Bediensteten, der für
-die Beaufsichtigung und die Koordinierung der gleichzeitigen Prüfung
-verantwortlich ist.
+(4) Im Fall des Absatzes 1 Satz 1 bestimmt die zuständige
+Finanzbehörde, für welche Person oder welche Personen eine
+gleichzeitige Prüfung durchgeführt werden soll, begründet die Auswahl
+und gibt den Zeitraum an, in dem die gleichzeitige Prüfung
+durchgeführt werden soll.
 
-(5) Von der Anhörung des Steuerpflichtigen kann bis zur Bekanntgabe
-der Prüfungsanordnung abgesehen werden, wenn sonst der Prüfungserfolg
-gefährdet werden würde.
+(5) Im Fall des Absatzes 1 Satz 2 entscheidet die zuständige
+Finanzbehörde, ob sie an der gleichzeitigen Prüfung teilnehmen wird.
+Das zentrale Verbindungsbüro teilt dem anderen Mitgliedstaat innerhalb
+von 60 Tagen nach Erhalt des Ersuchens das Einverständnis oder die
+begründete Ablehnung mit.
+
+(6) Die inländische Person, auf die sich die gleichzeitige Prüfung
+bezieht, wird durch das zentrale Verbindungsbüro unverzüglich über die
+Durchführung der gleichzeitigen Prüfung informiert, sobald das
+Einverständnis in den Fällen des Absatzes 4 von dem anderen
+Mitgliedstaat oder in den Fällen des Absatzes 5 durch das zentrale
+Verbindungsbüro übermittelt worden ist. Von der Information kann
+abgesehen werden, soweit die Interessen Dritter, der Finanzbehörde
+oder des anderen Mitgliedstaats an der Nichterteilung der Information
+die Interessen der betroffenen Person überwiegen.
+
+(7) Eine Anhörung der Beteiligten gemäß § 117 Absatz 4 Satz 3 der
+Abgabenordnung ist nicht erforderlich.
+
+
+### § 12a Gemeinsame Prüfung
+
+(1) Auf Vorschlag der zuständigen Finanzbehörden kann das zentrale
+Verbindungsbüro einen oder mehrere Mitgliedstaaten ersuchen, eine
+gemeinsame Prüfung durchzuführen. Das zentrale Verbindungsbüro kann
+ein Ersuchen eines anderen Mitgliedstaates oder mehrerer anderer
+Mitgliedstaaten um die Durchführung einer gemeinsamen Prüfung
+annehmen. Einem Ersuchen nach den Sätzen 1 und 2 steht nicht entgegen,
+dass eine gleichzeitige Prüfung in Bezug auf dieselbe Person zu dem
+identischen oder einem anderen Sachverhalt bereits durchgeführt wird.
+Mit Ausnahme des § 10 Absatz 1 Satz 3 und 4 sowie des § 12 Absatz 2
+Satz 1 gelten die §§ 10 bis 11 und 12 Absatz 2 bis 7 entsprechend.
+
+(2) Eine gemeinsame Prüfung im Sinne des Absatzes 1 sind behördliche
+Ermittlungen, die von der zuständigen Finanzbehörde gemeinsam mit der
+entsprechenden Behörde eines anderen Mitgliedstaats in Bezug auf eine
+Person oder mehrere Personen von gemeinsamem oder ergänzendem
+Interesse durchgeführt werden. Die gemeinsame Prüfung wird unter
+Koordinierung durch die zentralen Verbindungsbüros in zuvor
+vereinbarter Weise mit dem Ziel durchgeführt, eine Einigung über den
+Sachverhalt und die Umstände, die Gegenstand der behördlichen
+Ermittlungen sind, sowie eine einvernehmliche steuerliche Würdigung
+auf Basis dieses Sachverhaltes zu erzielen.
+
+(3) Über die Einzelheiten der gemeinsamen Prüfung treffen die
+beteiligten Behörden mit der entsprechenden Behörde des anderen
+Mitgliedstaats eine Vereinbarung. Die Vereinbarung umfasst zumindest
+eine Regelung bezüglich der verwendeten Sprache; § 87 der
+Abgabenordnung bleibt unberührt.
+
+(4) Die beteiligten Behörden bemühen sich, sich mit der entsprechenden
+Behörde des anderen Mitgliedstaats über den Sachverhalt und die
+Umstände, die Gegenstand der gemeinsamen Prüfung sind, zu einigen
+sowie eine einvernehmliche steuerliche Würdigung im Rahmen des jeweils
+geltenden Rechts auf Basis dieses Sachverhalts zu erreichen. Die
+Feststellungen, über die in der gemeinsamen Prüfung Einigung erzielt
+worden ist, sind in einem gemeinsamen Prüfungsbericht festzuhalten;
+die Feststellungen, über die in der gemeinsamen Prüfung keine Einigung
+erzielt worden ist, können in dem gemeinsamen Prüfungsbericht
+festgehalten werden. Die Umsetzung der Feststellungen im Inland
+bestimmt sich nach deutschem Recht. Die beteiligten Behörden stellen
+sicher, dass sie die Beweisführung der entsprechenden Behörde des
+anderen Mitgliedstaats, einschließlich in Beschwerde-, Einspruchs-,
+Gerichts- und Revisionsverfahren, unterstützen, sofern dies nach dem
+Recht des anderen Mitgliedstaats erforderlich ist.
+
+(5) Die inländische Person, auf die sich die gemeinsame Prüfung
+bezieht, ist innerhalb von 60 Tagen nach der Erstellung des
+gemeinsamen Prüfungsberichtes im Sinne des Absatzes 4 Satz 2 durch die
+zuständige Finanzbehörde über das Ergebnis der gemeinsamen Prüfung zu
+unterrichten. Die Unterrichtung umfasst eine Kopie des gemeinsamen
+Prüfungsberichtes. § 30 der Abgabenordnung bleibt durch die Sätze 1
+und 2 unberührt.
 
 
 ### § 13 Zustellungsersuchen an andere Mitgliedstaaten

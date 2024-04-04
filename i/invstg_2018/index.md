@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 14 G v. 16.12.2022 I 2294
 
 Änderung durch
-:   Art. 25 G v. 27.3.2024 I Nr. 108 mWv 28.3.2024 noch nicht berücksichtigt
+:   Art. 25 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
@@ -254,7 +254,26 @@ Ausschüttungen einer Besteuerung von mindestens 15 Prozent unterliegen
 und der Investmentfonds nicht davon befreit ist. Absatz 6 Satz 4 ist
 entsprechend anzuwenden.
 
-(9a) Die Höhe des Aktivvermögens bestimmt sich nach dem Wert der
+(9a) Eine Immobilie ist für die Zwecke der Immobilienfondsquote und
+der Auslandsimmobilienfondsquote nicht als Immobilie anzusetzen, wenn
+die Einkünfte aus der Vermietung oder Verpachtung oder aus der
+Veräußerung der Immobilie keiner Besteuerung unterliegen oder zu mehr
+als 50 Prozent von der Besteuerung befreit sind. Eine Beteiligung an
+einer Immobilien-Gesellschaft oder Auslands-Immobiliengesellschaft,
+die der Investmentfonds unmittelbar oder mittelbar über
+Personengesellschaften hält, ist für die Zwecke der
+Immobilienfondsquote und der Auslands-Immobilienfondsquote nicht als
+Immobiliengesellschaft oder Auslands-Immobiliengesellschaft
+anzusetzen, wenn die Einkünfte der Immobilien-Gesellschaft oder der
+Auslands-Immobiliengesellschaft aus der Vermietung oder Verpachtung
+oder aus der Veräußerung von Immobilien zu mehr als 50 Prozent von der
+Besteuerung befreit sind. Das Gleiche gilt, wenn die Einkünfte der
+Immobilien-Gesellschaft oder Auslands-Immobiliengesellschaft dem
+Investmentfonds als deren Gesellschafter zugerechnet werden und diese
+Einkünfte keiner Besteuerung unterliegen oder zu mehr als 50 Prozent
+von der Besteuerung befreit sind.
+
+(9b) Die Höhe des Aktivvermögens bestimmt sich nach dem Wert der
 Vermögensgegenstände des Investmentfonds ohne Berücksichtigung von
 Verbindlichkeiten des Investmentfonds. Anstelle des Aktivvermögens
 darf in den Anlagebedingungen auf den Wert des Investmentfonds
@@ -348,6 +367,15 @@ Besteuerung des Investmentfonds zuständig
     dessen Bezirk sich der wertvollste Teil des Vermögens befindet, sofern
     der Investmentfonds Einkünfte nach § 6 Absatz 2 erzielt, die keinem
     Steuerabzug unterliegen,
+
+
+1a. das Finanzamt, das in den Fällen des § 6 Absatz 5 Satz 1 Nummer 1 in
+    Verbindung mit § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc
+    des Einkommensteuergesetzes für die Besteuerung der
+    Kapitalgesellschaft nach § 20 Absatz 3 der Abgabenordnung zuständig
+    ist, sofern sich keine Zuständigkeit nach Nummer 1 ergibt. Wenn dies
+    für mehrere Finanzämter zutrifft, ist das Finanzamt zuständig, das für
+    die wertvollste Beteiligung zuständig ist,
 
 
 2.  das Bundeszentralamt für Steuern in allen übrigen Fällen.
@@ -448,10 +476,13 @@ Veräußerung mehr als zehn Jahre beträgt.
 
 (5) Sonstige inländische Einkünfte sind
 
-1.  Einkünfte nach § 49 Absatz 1 des Einkommensteuergesetzes mit Ausnahme
-    der Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e des
-    Einkommensteuergesetzes, soweit sie nicht von den Absätzen 3 oder 4
-    erfasst werden, und
+1.  Einkünfte nach § 49 Absatz 1 des Einkommensteuergesetzes; für
+    Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc
+    des Einkommensteuergesetzes gilt dies unabhängig davon, ob die
+    Kapitalgesellschaft ihren Sitz oder ihre Geschäftsleitung im Inland
+    hat. Ausgenommen sind Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe
+    e Doppelbuchstabe aa und bb des Einkommensteuergesetzes, soweit sie
+    nicht von den Absätzen 3 oder 4 erfasst werden;
 
 
 2.  bei inländischen Investmentfonds in der Rechtsform einer
@@ -474,7 +505,9 @@ Veräußerung mehr als zehn Jahre beträgt.
 
 Von gewerblichen Einkünften nach § 49 Absatz 1 Nummer 2 des
 Einkommensteuergesetzes ist nur auszugehen, wenn der Investmentfonds
-seine Vermögensgegenstände aktiv unternehmerisch bewirtschaftet.
+seine Vermögensgegenstände aktiv unternehmerisch bewirtschaftet. Satz
+2 gilt nicht für die Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e
+Doppelbuchstabe cc des Einkommensteuergesetzes.
 
 (6) § 8b des Körperschaftsteuergesetzes ist nicht anzuwenden.
 
@@ -1373,7 +1406,7 @@ Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
 
 
 
-    erhöht sich die Grenze des Satzes 1 auf 10 Prozent, wenn die Grenze
+    erhöht sich die Grenze des Satzes 1 auf 20 Prozent, wenn die Grenze
     des Satzes 1 nur durch diese Einnahmen überschritten wird.
 
 
@@ -2150,11 +2183,14 @@ Veranlagung des Anlegers insoweit von der Bemessungsgrundlage der
 deutschen Steuer auszunehmen, als sie aus einem ausländischen Staat
 stammende Einkünfte enthalten, für die die Bundesrepublik Deutschland
 aufgrund eines Abkommens zur Vermeidung der Doppelbesteuerung auf die
-Ausübung des Besteuerungsrechts verzichtet hat. Satz 1 ist nicht auf
-Erträge nach § 20 Absatz 1 Nummer 1 und 3 des Einkommensteuergesetzes
-anzuwenden. Satz 2 ist nicht auf Erträge nach § 20 Absatz 1 Nummer 1
-des Einkommensteuergesetzes aus einer Gesellschaft im Sinne des § 26
-Nummer 6 Satz 2 anzuwenden, soweit
+Ausübung des Besteuerungsrechts verzichtet hat. Die Steuerfreistellung
+nach Satz 1 ist ausgeschlossen, wenn die jeweiligen Einkünfte des
+Spezial-Investmentfonds in dem ausländischen Staat, aus dem sie
+stammen, keiner tatsächlichen Besteuerung unterlegen haben. Die Sätze
+1 und 2 sind nicht auf Erträge nach § 20 Absatz 1 Nummer 1 und 3 des
+Einkommensteuergesetzes anzuwenden. Satz 3 ist nicht auf Erträge nach
+§ 20 Absatz 1 Nummer 1 des Einkommensteuergesetzes aus einer
+Gesellschaft im Sinne des § 26 Nummer 6 Satz 2 anzuwenden, soweit
 
 1.  der Anleger die persönlichen Voraussetzungen für eine Freistellung
     nach dem Abkommen zur Vermeidung der Doppelbesteuerung erfüllt und
@@ -3119,4 +3155,19 @@ S. 2050).
 
 in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022
 (BGBl. I S. 2294).
+
+(8) § 4 Absatz 2 Nummer 1a und § 26 Nummer 7a in der Fassung des
+Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) sind
+nach dem 27. März 2024 anzuwenden. § 6 Absatz 5 Satz 1 Nummer 1 in der
+Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I
+Nr. 108) ist erstmals auf Gewinne aus der Veräußerung von Anteilen im
+Sinne des § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc des
+Einkommensteuergesetzes anzuwenden, bei denen die Veräußerung nach dem
+27\. März 2024 erfolgt und nur soweit den Gewinnen nach dem 27. März
+2024 eingetretene Wertveränderungen zugrunde liegen. § 43 Absatz 1 in
+der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024
+I Nr. 108) ist erstmals für Geschäftsjahre anzuwenden, die nach dem
+31\. Dezember 2024 beginnen. § 2 Absatz 9a in der Fassung des Artikels
+25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist ab dem 1.
+Januar 2025 anzuwenden.
 
