@@ -15,14 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1572
 
-Geändert durch
-:   Art. 10 G v. 19.5.2020 I 1018
-
-Änderung durch
-:   Art. 4 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4a G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4a G v. 12.12.2023 I Nr. 359
 
 [^F804365_01_BJNR157200018]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -3010,7 +3004,8 @@ Der Bundesrat hat zugestimmt.
 
 #### Anlage 1 Kompetenzen für die Zwischenprüfung nach § 7
 
-(Fundstelle: BGBl. I 2018, 1592 - 1595)
+(Fundstelle: BGBl. I 2018, 1592 - 1595;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **I.** Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften
     Pflegesituationen verantwortlich planen, organisieren, gestalten,
@@ -3561,7 +3556,8 @@ Der Bundesrat hat zugestimmt.
 
 #### Anlage 2 Kompetenzen für die staatliche Prüfung nach § 9 zur Pflegefachfrau oder zum Pflegefachmann
 
-(Fundstelle: BGBl. I 2018, 1596 - 1600)
+(Fundstelle: BGBl. I 2018, 1596 - 1600;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **I.** **Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften
     Pflegesituationen verantwortlich planen, organisieren, gestalten,
@@ -4196,7 +4192,8 @@ Der Bundesrat hat zugestimmt.
 
 #### Anlage 3 Kompetenzen für die staatliche Prüfung nach § 26 zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger
 
-(Fundstelle: BGBl. I 2018, 1601 - 1605)
+(Fundstelle: BGBl. I 2018, 1601 - 1605;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **I.** **Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften
     Pflegesituationen verantwortlich planen, organisieren, gestalten,
@@ -4832,7 +4829,8 @@ Der Bundesrat hat zugestimmt.
 
 #### Anlage 4 Kompetenzen für die staatliche Prüfung nach § 28 zur Altenpflegerin oder zum Altenpfleger
 
-(Fundstelle: BGBl. I 2018, 1606 - 1610)
+(Fundstelle: BGBl. I 2018, 1606 - 1610;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **I.** **Pflegebedarfe von alten Menschen erkennen sowie Pflege- und
     Betreuungsprozesse und Pflegediagnostik in akuten und dauerhaften
@@ -5449,7 +5447,8 @@ Der Bundesrat hat zugestimmt.
 
 #### Anlage 5 Kompetenzen für die Prüfung der hochschulischen Pflegeausbildung nach § 32
 
-(Fundstelle: BGBl. I 2018, 1611 - 1612)
+(Fundstelle: BGBl. I 2018, 1611 - 1612;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **I.** **Wissenschaftsbasierte Planung, Organisation, Gestaltung,
     Durchführung, Steuerung und Evaluation auch von hochkomplexen
@@ -5932,7 +5931,8 @@ Kindern und Jugendlichen sowie von alten Menschen.
 
 #### Anlage 8 (zu § 19 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2018, 1615)
+(Fundstelle: BGBl. I 2018, 1615;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 Die/der Vorsitzende
 des Prüfungsausschusses
@@ -6006,7 +6006,8 @@ Pflegeausbildung
 
 #### Anlage 9 (zu § 44 Absatz 3 Satz 2)
 
-   (Fundstelle: BGBl. I 2018, 1616)
+   (Fundstelle: BGBl. I 2018, 1616;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 **
 Bezeichnung der Einrichtung
 
@@ -6051,7 +6052,8 @@ Bezeichnung der Einrichtung
 
 #### Anlage 10 (zu § 45 Absatz 9, § 45a Absatz 9)
 
-(Fundstelle: BGBl. I 2018, 1617)
+(Fundstelle: BGBl. I 2018, 1617;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 Die/der Vorsitzende
 des Prüfungsausschusses
@@ -6097,7 +6099,8 @@ des Prüfungsausschusses
 
 #### Anlage 11 (zu § 46 Absatz 3)
 
-(Fundstelle: BGBl. I 2018, 1618)
+(Fundstelle: BGBl. I 2018, 1618;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 **
 Bezeichnung der Einrichtung
@@ -6136,7 +6139,8 @@ Bezeichnung der Einrichtung
 
 #### Anlage 12 (zu § 47 Absatz 5 Satz 2)
 
-   (Fundstelle: BGBl. I 2018, 1619)
+   (Fundstelle: BGBl. I 2018, 1619;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 Die/der Vorsitzende
 des Prüfungsausschusses
 
@@ -6253,7 +6257,8 @@ Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
 
 #### Anlage 13 (zu § 42 Satz 1)
 
-(Fundstelle: BGBl. I 2018, 1620)
+(Fundstelle: BGBl. I 2018, 1620;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 ## Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
 

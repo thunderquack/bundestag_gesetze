@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.3.2024 I Nr. 101 mWv 1.7.2024 bzw. 1.1.2025 bzw. 15.1.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 3 G v. 22.3.2024 I Nr. 102 mWv 26.3.2024 bzw. 31.3.2024 noch nicht berücksichtigt
