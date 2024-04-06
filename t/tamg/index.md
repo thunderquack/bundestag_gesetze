@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4530
 
+Zuletzt geändert durch
+:   Art. 1 V v. 14.3.2024 I Nr. 97
+
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
     Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
@@ -36,7 +39,14 @@ gewährleisten.
 
 (2) Die Bestimmungen dieses Gesetzes sollen ein hohes Schutzniveau für
 die Tiergesundheit, den Tierschutz und die Umwelt sowie den Schutz der
-öffentlichen Gesundheit gewährleisten.
+öffentlichen Gesundheit gewährleisten. Die Bestimmungen dieses
+Gesetzes sollen darüber hinaus dazu beitragen, den Einsatz
+antibiotisch wirksamer Arzneimittel auf der Grundlage der ,Mitteilung
+der Kommission an das Europäische Parlament, den Rat, den Europäischen
+Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: „Vom
+Hof auf den Tisch“ – eine Strategie für ein faires, gesundes und
+umweltfreundliches Lebensmittelsystem‘ (Bundesratsdrucksache 280/20
+vom 22. Mai 2020) um 50 Prozent zu reduzieren.
 
 (3) Dieses Gesetz dient ferner der Umsetzung und Durchführung von
 Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union,
@@ -86,8 +96,10 @@ Rechtsverordnungen gelten für
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
     Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
     vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020,
-    S. 15; L 241 vom 8.7.2021, S. 17) ergänzend zu den Bestimmungen dieser
-    Verordnung,
+    S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die
+    zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom
+    30\.1.2023, S. 7) geändert worden ist, ergänzend zu den Bestimmungen
+    dieser Verordnung,
 
 
 2.  Tierarzneimittel, die nicht in den Anwendungsbereich der Verordnung
@@ -134,8 +146,8 @@ Rechtsverordnungen gelten für
     2012 über die Bereitstellung auf dem Markt und die Verwendung von
     Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015,
     S. 109; L 305 vom 21.11.2015, S. 55; L 280 vom 28.10.2017, S. 57), die
-    zuletzt durch die Delegierte Verordnung (EU) 2021/407 (ABl. L 81 vom
-    9\.3.2021, S. 15) geändert worden ist, sowie
+    zuletzt durch die Delegierte Verordnung (EU) 2021/807 (ABl. L 180 vom
+    21\.5.2021, S. 81) geändert worden ist, sowie
 
 
 3.  Futtermittel nach Artikel 3 Nummer 4 der Verordnung (EG) Nr. 178/2002
@@ -595,8 +607,8 @@ Lebensmittelkette gelangen sollen. Die Wartezeit muss
 2.  wenn Höchstmengen für Rückstände im Anhang der Verordnung (EU) Nr.
     37/2010 der Kommission vom 22. Dezember 2009 (ABl. L 15 vom 20.1.2010,
     S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die
-    Durchführungsverordnung (EU) 2021/621 (ABl. L 131 vom 16.4.2021, S.
-    120) geändert worden ist, festgelegt wurden, sicherstellen, dass diese
+    Durchführungsverordnung (EU) 2023/2203 (ABl. L, 2023/2203, 23.10.2023)
+    geändert worden ist, festgelegt wurden, sicherstellen, dass diese
     Höchstmengen in den Lebensmitteln, die von den Tieren gewonnen werden,
     nicht überschritten werden.
 
@@ -1693,10 +1705,10 @@ Tier pharmakologisch wirksame Stoffe zu verabreichen, wenn diese
 Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der
 Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe
 und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in
-Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010,
-S. 1;              L 293 vom 11.11.2010, S. 72), die zuletzt durch die
-Durchführungsverordnung (EU) 2021/621 (ABl. L 131 vom 16.4.2021, S.
-120) geändert worden ist, aufgeführt sind.
+Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1;
+L 293 vom 11.11.2010, S. 72), die zuletzt durch die
+Durchführungsverordnung (EU) 2023/2203 (ABl. L, 2023/2203, 23.10.2023)
+geändert worden ist, aufgeführt sind.
 
 
 ### Unterabschnitt 2 - Kategorisierung
@@ -1914,21 +1926,43 @@ Erfüllung ihrer Aufgaben beziehen.
 (6) Herstellerinnen, Hersteller sowie Inhaberinnen und Inhaber einer
 Großhandelsvertriebserlaubnis haben bis zum 31. März jedes
 Kalenderjahres nach Maßgabe einer Rechtsverordnung nach Absatz 7 der
-zuständigen
-Bundesoberbehörde              die Art und Menge der von ihnen im
-vorangegangenen Kalenderjahr an Tierärztinnen und Tierärzte
-abgegebenen Arzneimittel elektronisch mitzuteilen, die Stoffe
-enthalten, die
+zuständigen Bundesoberbehörde elektronisch mitzuteilen:
 
-1.  eine antimikrobielle Wirkung haben,
+1.  im Fall der in Nummer 1 und Nummer 2 Absatz 5 und Absatz 7 bis 10 des
+    Anhangs der Delegierten Verordnung (EU) 2021/578 der Kommission vom
+    29\. Januar 2021 zur Ergänzung der Verordnung (EU) 2019/6 des
+    Europäischen Parlaments und des Rates im Hinblick auf Anforderungen an
+    die Erhebung von Daten über das Verkaufsvolumen und die Anwendung von
+    antimikrobiellen Arzneimitteln bei Tieren (Abl. L 123 vom 9.4.2021,
+    S. 7) aufgeführten antibiotisch wirksamen Tierarzneimittel die Art und
+    Menge der von ihnen im vorangegangenen Kalenderjahr jeweils an
+    folgende Empfänger abgegebenen Tierarzneimittel:
+
+    a)  tierärztliche Hausapotheken,
 
 
-2.  in der Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010
-    aufgeführt sind oder
+    b)  Apotheken und
 
 
-3.  in einer der Anlagen der Verordnung über Stoffe mit pharmakologischer
-    Wirkung vom 8. Juli 2009 (BGBl. I S. 1768) aufgeführt sind.
+    c)  die in Absatz 1 Nummer 2 bis 6 bezeichneten Empfänger,
+
+
+
+
+
+2.  im Fall von Tierarzneimitteln, die die in den nachfolgenden
+    Vorschriften genannten Stoffe enthalten, die Art und Menge der von
+    ihnen im vorangegangenen Kalenderjahr an Tierärztinnen und Tierärzte
+    abgegebenen Tierarzneimittel:
+
+    a)  Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 oder
+
+
+    b)  Anlagen der Verordnung über Stoffe mit pharmakologischer Wirkung in
+        der Fassung der Bekanntmachung vom 8. Juli 2009 (BGBl. I S. 1768).
+
+
+
 
 
 
@@ -2065,14 +2099,16 @@ Menge beschränkt.
 #### § 48 Bezug und Abgabe von Stoffen und Zubereitungen aus Stoffen, die bei Tieren angewendet werden dürfen
 
 (1) Tierärztinnen und Tierärzte dürfen Stoffe, die als Wirkstoffe in
-apothekenpflichtigen Tierarzneimitteln vorkommen, oder Zubereitungen
-aus solchen Stoffen zur Anwendung bei Tieren nur beziehen und lagern,
-wenn die betreffenden Stoffe oder Zubereitungen als Tierarzneimittel
-oder Arzneimittel zugelassen sind. Herstellerinnen, Hersteller,
-Großhändlerinnen und Großhändler dürfen solche Stoffe oder
-Zubereitungen an Tierärztinnen und Tierärzte nur abgeben, wenn die
-betreffenden Stoffe oder Zubereitungen als Tierarzneimittel oder
-Arzneimittel zugelassen sind.
+apothekenpflichtigen Tierarzneimitteln oder in Arzneimitteln nach § 2
+Absatz 1, 2 oder 3a des Arzneimittelgesetzes, die für den Verkehr
+außerhalb von Apotheken nicht freigegeben sind, vorkommen, oder
+Zubereitungen aus solchen Stoffen zur Anwendung bei Tieren nur
+beziehen und lagern, wenn die betreffenden Stoffe oder Zubereitungen
+als Tierarzneimittel oder Arzneimittel zugelassen sind.
+Herstellerinnen, Hersteller, Großhändlerinnen und Großhändler dürfen
+solche Stoffe oder Zubereitungen an Tierärztinnen und Tierärzte nur
+abgeben, wenn die betreffenden Stoffe oder Zubereitungen als
+Tierarzneimittel oder Arzneimittel zugelassen sind.
 
 (2) Tierhalterinnen und Tierhalter dürfen Stoffe oder Zubereitungen
 nach Absatz 1 nur erwerben oder lagern, wenn sie von einer Tierärztin
@@ -2242,6 +2278,10 @@ Tieren nur anwenden, soweit
 
 
 
+Satz 1 gilt nicht für nicht verschreibungspflichtige registrierte
+homöopathische Arzneimittel nach § 2 Absatz 1, 2 und 3a des
+Arzneimittelgesetzes, soweit diese bei Tieren, die nicht der Gewinnung
+von Lebensmitteln dienen, angewendet werden.
 
 (3) Tierhalterinnen und Tierhalter sowie andere Personen, die nicht
 Tierärztinnen oder Tierärzte sind, dürfen andere als in Absatz 2
@@ -2402,7 +2442,7 @@ Bundesoberbehörde übertragen.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit,
-dem Bundesministerium für Wirtschaft und Energie sowie dem
+dem Bundesministerium für Wirtschaft und Klimaschutz sowie dem
 Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wie der
 Nachweis der erforderlichen Sachkunde nach Artikel 97 Absatz 2 und 3
@@ -2431,9 +2471,10 @@ Gesundheit von Mensch und Tier zu verhindern, die infolge mangelnder
 Kennzeichnung eintreten könnte.
 
 (2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
-soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder
-bei deren Herstellung ionisierende Strahlen verwendet werden.
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz, soweit es sich um Tierarzneimittel handelt, die
+radioaktiv sind oder bei deren Herstellung ionisierende Strahlen
+verwendet werden.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
@@ -2443,10 +2484,10 @@ Packungsgrößen erfolgt für bestimmte Wirkstoffe und berücksichtigt die
 Anwendungsgebiete, die Anwendungsdauer und die Darreichungsform des
 Tierarzneimittels.
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Ernährung und
-Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates
-Folgendes festzusetzen:
+(4) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung
+und Landwirtschaft durch Rechtsverordnung mit Zustimmung des
+Bundesrates Folgendes festzusetzen:
 
 1.  die Preisspannen für Tierarzneimittel, die im Großhandel, in Apotheken
     oder von Tierärztinnen oder Tierärzten im Wiederverkauf abgegeben
@@ -2476,308 +2517,311 @@ Tierärztinnen und Tierärzte, der Apotheken und des Großhandels
 Rechnung tragen.
 
 
-### Unterabschnitt 5 - Vorschriften zur Verringerung der Behandlung mit antibakteriell wirksamen Stoffen
+### Unterabschnitt 5 - Vorschriften zur Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln und zu tierärztlichen Mitteilungen über die Arzneimittelverwendung
 
 
-#### § 54 Mitteilungen über Tierhaltungen
+#### § 54 Nutzungsarten
 
-(1) Wer Rinder (Bos taurus), Schweine (Sus scrofa domestica), Hühner
-(Gallus gallus) oder Puten (Meleagris gallopavo) berufs- oder
-gewerbsmäßig hält, hat der zuständigen Behörde nach Maßgabe des
-Absatzes 2 das Halten dieser Tiere bezogen auf die jeweilige Tierart
-und den Betrieb, in dem die Tiere gehalten werden
-(Tierhaltungsbetrieb), spätestens 14 Tage nach Beginn der Haltung
-mitzuteilen. Die Mitteilung hat ferner folgende Angaben zu enthalten:
+Für die Zwecke dieses Unterabschnittes sind die in der Anlage 1 Spalte
+2 bezeichneten Nutzungsarten zu Grunde zu legen:
+
+1.  hinsichtlich der Verringerung der Behandlung mit antibiotisch
+    wirksamen Arzneimitteln die in der Anlage 1 Spalte 3 bezeichneten
+    Nutzungsarten und
+
+
+2.  hinsichtlich der tierärztlichen Mitteilungen über die
+    Arzneimittelverwendung die in der Anlage 1 Spalte 4 bezeichneten
+    Nutzungsarten.
+
+
+
+
+
+#### § 55 Mitteilungen über Tierhaltungen
+
+(1) Wer Tiere einer der Nutzungsarten nach der Anlage 1 Spalte 3
+berufs- oder gewerbsmäßig hält, hat der zuständigen Behörde nach
+Maßgabe des Satzes 2 und Absatzes 4 Satz 2 das Halten dieser Tiere
+bezogen auf die jeweilige Nutzungsart und den Betrieb, in dem die
+Tiere gehalten werden (Tierhaltungsbetrieb), spätestens 14 Tage nach
+Beginn der Haltung mitzuteilen. Die Mitteilung hat folgende Angaben zu
+enthalten:
 
 1.  den Namen der Tierhalterin oder des Tierhalters,
 
 
-2.  die Anschrift des Tierhaltungsbetriebes,
+2.  die Anschrift des Tierhaltungsbetriebs und
 
 
 3.  die nach Maßgabe tierseuchenrechtlicher Vorschriften über den Verkehr
-    mit Vieh für den Tierhaltungsbetrieb erteilte Registriernummer, und
+    mit Vieh für den Tierhaltungsbetrieb erteilte Registriernummer.
 
 
-4.  bei der Haltung
 
-    a)  von Rindern ergänzt durch die Angabe, ob es sich um Mastkälber bis zu
-        einem Alter von acht Monaten oder um Mastrinder ab einem Alter von
-        acht Monaten, und
 
-
-    b)  von Schweinen ergänzt durch die Angabe, ob es sich um Ferkel bis
-        einschließlich 30 Kilogramm oder um Mastschweine über 30 Kilogramm
-
-
-
-
-
-
-(Nutzungsart) handelt.
-
-(2) Die Mitteilungspflicht nach Absatz 1 Satz 1 gilt für
-
-1.  für die Fleischerzeugung (Mast) bestimmte Hühner oder Puten und ab dem
-    Zeitpunkt des Schlüpfens des jeweiligen Tieres und
-
-
-2.  für die Mast bestimmte Rinder oder Schweine und ab dem Zeitpunkt, ab
-    dem das jeweilige Tier vom Muttertier abgesetzt wird.
-
-
-
-
-(3) Wer nach Absatz 1 zur Mitteilung verpflichtet ist, hat Änderungen
-hinsichtlich der mitteilungspflichtigen Angaben innerhalb von 14
-Werktagen mitzuteilen. Die Mitteilung nach Absatz 1, jeweils auch in
-Verbindung mit Satz 1, hat schriftlich oder elektronisch bei der
-zuständigen Behörde zu erfolgen. Die vorgeschriebene Mitteilung kann
-durch Dritte vorgenommen werden, soweit die Tierhalterin oder der
-Tierhalter dies unter Nennung des Dritten der zuständigen Behörde
-angezeigt hat. Absatz 1 und Satz 1 gelten nicht, soweit die verlangten
-Angaben nach tierseuchenrechtlichen Vorschriften über den Verkehr mit
-Vieh mitgeteilt worden sind. In diesen Fällen übermittelt die für die
-Durchführung der tierseuchenrechtlichen Vorschriften über den Verkehr
-mit Vieh zuständige Behörde der für die Durchführung des Absatzes 1
-und des Satzes 1 zuständigen Behörde die verlangten Angaben.
-
-
-#### § 55 Mitteilungen über Arzneimittelverwendung
-
-(1) Wer Tiere hält, für deren Haltung nach § 54 Absatz 1 Mitteilungen
-zu machen sind, hat der zuständigen Behörde im Hinblick auf
-Arzneimittel, die antibakteriell wirksame Stoffe enthalten und bei den
-gehaltenen Tieren angewendet worden sind, für jeden
-Tierhaltungsbetrieb, für den ihm nach den tierseuchenrechtlichen
-Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt
-worden ist, unter Berücksichtigung der Nutzungsart halbjährlich für
-jede Behandlung mitzuteilen
-
-1.  die Bezeichnung des angewendeten Arzneimittels,
-
-
-2.  die Anzahl und die Art der behandelten Tiere,
-
-
-3.  vorbehaltlich des Absatzes 3 die Anzahl der Behandlungstage und das
-    Datum der ersten Anwendung oder das Abgabedatum des Arzneimittels,
-
-
-4.  die insgesamt angewendete Menge von Arzneimitteln, die antibakteriell
-    wirksame Stoffe enthalten,
-
-
-5.  für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart, die
-
-    a)  in jedem Halbjahr zu Beginn im Betrieb gehalten,
-
-
-    b)  im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen,
-
-
-    c)  im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben
-
-
-
-    worden sind.
-
-
-
-Die Mitteilungen nach Satz 1 Nummer 5 Buchstabe b und c sind unter
-Angabe des Datums der jeweiligen Handlung zu machen. Auch wenn bei den
-nach Satz 1 gehaltenen Tieren keine Arzneimittel mit antibakteriell
-wirksamen Stoffen angewendet worden sind, ist dies der zuständigen
-Behörde mitzuteilen. Die Mitteilungen nach den Sätzen 1 und 3 sind für
-das erste Kalenderhalbjahr jeweils spätestens am 14. Juli und für das
-zweite Kalenderhalbjahr jeweils spätestens am 14. Januar des
-Folgejahres zu machen. § 54 Absatz 3 Satz 2 und 3 gilt entsprechend.
-
-(2) Abweichend von Absatz 1 Satz 1 können die in Absatz 1 Satz 1
-Nummer 1 bis 4 genannten Angaben durch nachfolgende Angaben ersetzt
-werden:
-
-1.  die Bezeichnung des für die Behandlung von einer Tierärztin oder einem
-    Tierarzt erworbenen oder verschriebenen Arzneimittels,
-
-
-2.  die Anzahl und Art der Tiere, für die eine Behandlungsanweisung der
-    Tierärztin oder des Tierarztes ausgestellt worden ist,
-
-
-3.  die Identität der Tiere, für die eine Behandlungsanweisung der
-    Tierärztin oder des Tierarztes ausgestellt worden ist, sofern sich aus
-    der Angabe die Nutzungsart ergibt,
-
-
-4.  vorbehaltlich des Absatzes 3 die Dauer der verordneten Behandlung in
-    Tagen und das Datum der ersten Anwendung oder das Abgabedatum des
-    Arzneimittels,
-
-
-5.  die von der Tierärztin oder dem Tierarzt insgesamt angewendete oder
-    abgegebene Menge des Arzneimittels.
-
-
-
-Satz 1 gilt nur, wenn derjenige, der Tiere hält,
-
-1.  gegenüber der Tierärztin oder dem Tierarzt zum Zeitpunkt des Erwerbs
-    oder der Verschreibung der Arzneimittel schriftlich oder elektronisch
-    versichert hat, von der Behandlungsanweisung nicht ohne Rücksprache
-    mit der Tierärztin oder dem Tierarzt abzuweichen, und
-
-
-2.  bei der Abgabe der Mitteilung nach Absatz 1 Satz 1 an die zuständige
-    Behörde schriftlich oder elektronisch versichert, dass bei der
-    Behandlung nicht von der Behandlungsanweisung der Tierärztin oder des
-    Tierarztes abgewichen worden ist.
-
-
-
-§ 54 Absatz 3 Satz 2 und 3 gilt hinsichtlich des Satzes 1
-entsprechend.
-
-(3) Bei Arzneimitteln, die antibakterielle Stoffe enthalten und einen
-therapeutischen Wirkstoffspiegel von mehr als 24 Stunden aufweisen,
-teilt die Tierärztin oder der Tierarzt der Tierhalterin oder dem
-Tierhalter die Anzahl der Behandlungstage im Sinne des Absatzes 1 Satz
-1 Nummer 3, ergänzt um die Anzahl der Tage, in denen das betroffene
-Arzneimittel seinen therapeutischen Wirkstoffspiegel behält, mit.
-Ergänzend zu Absatz 1 Satz 1 Nummer 3 teilt der Tierhalter diese Tage
-auch als Behandlungstage mit.
-
-
-#### § 56 Ermittlung der Therapiehäufigkeit
-
-(1) Die zuständige Behörde ermittelt für jedes Halbjahr die
-durchschnittliche Anzahl der Behandlungen mit antibakteriell wirksamen
-Stoffen, bezogen auf den jeweiligen Betrieb, für den nach den
+(2) Ferner hat die Tierhalterin oder der Tierhalter von Tieren der in
+Absatz 1 Satz 1 bezeichneten Nutzungsarten für jeden
+Tierhaltungsbetrieb, für den ihr oder ihm nach den
 tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
-Registriernummer zugeteilt worden ist, und die jeweilige Art der
-gehaltenen Tiere unter Berücksichtigung der Nutzungsart, indem sie
-entsprechend des Berechnungsverfahrens zur Ermittlung der
-Therapiehäufigkeit vom 21. Februar 2013 (BAnz AT 22.02.2013 B2)
+Registriernummer zugeteilt worden ist, unter Berücksichtigung der
+Nutzungsart für jedes Halbjahr die Anzahl der Tiere der jeweiligen
+Tierart nach Maßgabe des Satzes 4 mitzuteilen, die
 
-1.  für jeden angewendeten Wirkstoff die Anzahl der behandelten Tiere mit
-    der Anzahl der Behandlungstage multipliziert und die so errechnete
-    Zahl jeweils für alle verabreichten Wirkstoffe des Halbjahres addiert
-    und
+1.  in jedem Halbjahr zu Beginn im Betrieb gehalten worden sind,
+
+
+2.  im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden
+    sind gemäß Satz 3,
+
+
+3.  im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden
+    sind gemäß Satz 3.
+
+
+
+Die Mitteilungspflicht nach Satz 1 Nummer 3 umfasst auch verendete und
+getötete Tiere. Die Mitteilungen nach Satz 1 Nummer 2 und 3 sind unter
+Angabe des Datums des jeweiligen Ereignisses oder der jeweiligen
+Handlung zu machen. Die Mitteilungen nach den Sätzen 1 und 3 sind für
+das erste Kalenderhalbjahr jeweils spätestens am 14. Juli des
+betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils
+spätestens am 14. Januar des Folgejahres zu machen.
+
+(3) Wenn bei den in Absatz 2 Satz 1 bezeichneten Tieren keine
+antibiotisch wirksamen Arzneimittel angewendet worden sind, hat die
+Tierhalterin oder der Tierhalter abweichend von Absatz 2 Satz 1 nur
+mitzuteilen, dass keine antibiotisch wirksamen Tierarzneimittel
+angewendet worden sind.
+
+(4) Wer nach Absatz 1 Satz 1 zur Mitteilung verpflichtet ist, hat
+Änderungen der mitteilungspflichtigen Angaben innerhalb von 14
+Werktagen nach Eintritt der Änderung mitzuteilen. Die Mitteilung nach
+Absatz 1 Satz 1, auch in Verbindung mit Satz 1, und Absatz 2 Satz 1
+hat elektronisch bei der zuständigen Behörde zu erfolgen. Die
+vorgeschriebene Mitteilung kann durch Dritte vorgenommen werden,
+sofern die Tierhalterin oder der Tierhalter dies unter Nennung des
+Dritten der zuständigen Behörde angezeigt hat.
+
+(5) Absatz 1 und Absatz 4 Satz 1 gelten nicht, sofern die verlangten
+Angaben nach tierseuchenrechtlichen Vorschriften über den Verkehr mit
+Vieh mitgeteilt worden sind. Im Fall von Satz 1 hat die für die
+Durchführung der tierseuchenrechtlichen Vorschriften über den Verkehr
+mit Vieh zuständige Behörde der für die Durchführung von Absatz 1 und
+Absatz 4 Satz 1 zuständigen Behörde die verlangten Angaben zu
+übermitteln.
+
+
+#### § 56 Tierärztliche Mitteilungen über Arzneimittelverwendung
+
+(1) Tierärztinnen und Tierärzte, die Tiere einer der Nutzungsarten
+nach der Anlage 1 Spalte 4 mit den in den Nummern 3 und 4 Absatz 1 bis
+5 und Absatz 10 des Anhangs der Delegierten Verordnung (EU) 2021/578
+bezeichneten antibiotisch wirksamen Arzneimitteln behandeln, haben der
+zuständigen Behörde nach Maßgabe des Absatzes 2 Satz 1 mitzuteilen
+
+1.  die Angaben nach den Nummern 4 bis 6 und 9 des Anhangs II der
+    Durchführungsverordnung (EU) 2022/209 der Kommission vom 16. Februar
+    2022 zur Festlegung des Formats der zu erhebenden und zu meldenden
+    Daten für die Bestimmung des Verkaufsvolumens und der Anwendung von
+    antimikrobiellen Arzneimitteln bei Tieren gemäß der Verordnung (EU)
+    2019/6 des Europäischen Parlaments und des Rates (ABl. L 35 vom
+    17\.2.2022, S. 7) zum verschriebenen, angewendeten oder abgegebenen
+    Arzneimittel,
+
+
+2.  den Namen der behandelnden Tierärztin oder des behandelnden Tierarztes
+    und die Praxisanschrift,
+
+
+3.  das Datum der Verschreibung, der ersten Anwendung oder das Abgabedatum
+    des Arzneimittels,
+
+
+4.  die insgesamt verschriebene, angewendete oder abgegebene Menge dieser
+    Arzneimittel,
+
+
+5.  die jeweilige Nutzungsart des oder der behandelten Tiere,
+
+
+6.  die Anzahl der behandelten Tiere,
+
+
+7.  die Anzahl der Behandlungstage und
+
+
+8.  die nach den tierseuchenrechtlichen Vorschriften über den Verkehr mit
+    Vieh erteilte Registriernummer des Betriebes, in dem die behandelten
+    Tiere gehalten werden.
+
+
+
+Die Angabe des Namens nach Satz 1 Nummer 2 kann durch die Angabe des
+Namens der Praxis ersetzt werden.
+
+(2) Die Mitteilung nach Absatz 1 Satz 1 ist für das erste
+Kalenderhalbjahr jeweils spätestens am 14. Juli des betreffenden
+Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 14.
+Januar des Folgejahres zu machen. § 55 Absatz 4 Satz 2 gilt
+entsprechend. Die vorgeschriebene Mitteilung kann durch Dritte
+vorgenommen werden, sofern die Tierärztin oder der Tierarzt dies unter
+Nennung des Dritten der zuständigen Behörde angezeigt hat.
+
+
+#### § 57 Ermittlung der Therapiehäufigkeit
+
+(1) Die zuständige Behörde hat für jedes Halbjahr die
+durchschnittliche Anzahl der Behandlungen mit den in § 56 Absatz 1
+bezeichneten antibiotisch wirksamen Arzneimitteln zu ermitteln. Die
+Ermittlung hat zu erfolgen bezogen
+
+1.  auf den jeweiligen Betrieb, für den nach den tierseuchenrechtlichen
+    Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt
+    worden ist, und
+
+
+2.  auf die jeweilige Art der gehaltenen Tiere unter Zugrundelegen der
+    jeweiligen Nutzungsart.
+
+
+
+Dabei sind entsprechend des Berechnungsverfahrens zur Ermittlung der
+Therapiehäufigkeit vom 21. Februar 2013 (BAnz AT 22.2.2013 B2)
+
+1.  für jeden angewendeten antibiotisch wirksamen Wirkstoff die Anzahl der
+    behandelten Tiere einer Nutzungsart mit der Anzahl der Behandlungstage
+    zu multiplizieren und die so errechnete Zahl jeweils für alle
+    verabreichten Wirkstoffe des Halbjahres zu addieren und
 
 
 2.  die nach Nummer 1 ermittelte Zahl anschließend durch die Anzahl der
-    Tiere der betroffenen Tierart, die durchschnittlich in dem Halbjahr
-    gehalten worden sind, dividiert
+    Tiere der betroffenen Nutzungsart, die durchschnittlich in dem
+    Halbjahr gehalten worden sind, zu dividieren
 
 
 
-(betriebliche halbjährliche Therapiehäufigkeit). Enthält ein
-verabreichtes zugelassenes Arzneimittel eine der folgenden
-Kombinationen, so gilt diese Kombination für die Berechnung nach Satz
-1 Nummer 1 als ein einziger Wirkstoff:
+(betriebliche halbjährliche Therapiehäufigkeit).
+
+(2) Enthält ein verabreichtes zugelassenes Arzneimittel eine der
+folgenden Kombinationen, so gilt diese Kombination für die Berechnung
+nach Absatz 1 Satz 3 Nummer 1 als ein einziger Wirkstoff:
 
 1.  eine Wirkstoffkombination von Sulfonamiden und Trimethoprim,
     einschließlich der Derivate von Trimethoprim, oder
 
 
 2.  eine Kombination verschiedener chemischer Verbindungen eines einzigen
-    antibakteriellen Wirkstoffs.
+    antibiotisch wirksamen Wirkstoffs.
 
 
 
+Enthält ein verabreichtes Arzneimittel Cephalosporine der 3. und 4.
+Generation, Fluorchinolone oder Colistin, so ist für die Berechnung
+nach Absatz 1 Satz 3 Nummer 1 jeder Behandlungstag mit dem Faktor drei
+zu multiplizieren. Bei den in § 56 Absatz 1 genannten antibiotisch
+wirksamen Arzneimitteln, die je Behandlung einmalig angewendet werden
+und einen therapeutischen Wirkstoffspiegel von mehr als 24 Stunden
+aufweisen, ist für die Berechnung nach Absatz 1 Satz 3 Nummer 1 jeder
+Behandlungstag mit dem Faktor 5 zu multiplizieren. Bei den in § 56
+Absatz 1 genannten antibiotisch wirksamen Arzneimitteln, die je
+Behandlung mehrmalig angewendet werden und die einen therapeutischen
+Wirkstoffspiegel von mehr als 24 Stunden aufweisen, ist für die
+Berechnung nach Absatz 1 Satz 3 Nummer 1 jeder Behandlungstag mit
+einem Faktor zu multiplizieren, der sich wie folgt errechnet: Die
+Summe aus dem Tag der ersten Anwendung und der Anzahl der Tage
+zwischen dem Tag der ersten Anwendung und dem Tag der zweiten
+Anwendung.
 
-(2) Spätestens bis zum Ende des zweiten Monats des Halbjahres, das auf
-die Mitteilungen des vorangehenden Halbjahres nach § 55 Absatz 1 Satz
-1 folgt, teilt die zuständige Behörde dem Bundesamt für
-Verbraucherschutz und Lebensmittelsicherheit für die Zwecke des
-Absatzes 4 und des § 61 in anonymisierter Form die nach Absatz 1
-jeweils ermittelte betriebliche halbjährliche Therapiehäufigkeit mit.
-Darüber hinaus teilt die zuständige Behörde dem Bundesinstitut für
-Risikobewertung jeweils bis zum Ende des zweiten Monats des
-Halbjahres, das auf die Mitteilungen des vorangehenden Halbjahres nach
-§ 55 Absatz 1 Satz 1 folgt, in pseudonymisierter Form die in der
-Anlage aufgeführten, halbjährlich ermittelten Daten zum Zweck der
-Risikobewertung auf dem Gebiet der Antibiotikaresistenz mit. Das
-Bundesinstitut für Risikobewertung bestimmt das Verfahren zur Bildung
-des Pseudonyms nach Satz 2; es ist so zu gestalten, dass es
-ausgeschlossen ist, dass das Bundesinstitut für Risikobewertung bei
-den ihm gemeldeten Daten den Personenbezug wiederherstellen kann. Die
-Mitteilungen nach den Sätzen 1 und 2 können im automatisierten
-Abrufverfahren erfolgen. Auf Grundlage der ihm übermittelten Daten
-führt das Bundesinstitut für Risikobewertung die Risikobewertung
-durch. Das Bundesinstitut für Risikobewertung erstellt jährlich zu den
-in der Anlage aufgeführten, von den zuständigen Behörden übermittelten
-Daten des Vorjahres einen Bericht über die Ergebnisse der
-Risikobewertung. Der Berichtszeitraum ist der 1. Januar bis 31.
-Dezember eines Jahres. Das Bundesinstitut für Risikobewertung hat den
+(3) Die zuständige Behörde hat dem Bundesamt für Verbraucherschutz und
+Lebensmittelsicherheit für die Zwecke des Absatzes 6 und des § 60 in
+anonymisierter Form die nach Absatz 1 jeweils ermittelte betriebliche
+halbjährliche Therapiehäufigkeit sowie für die Zwecke des Artikels 57
+der Verordnung (EU) 2019/6 die Angaben nach § 56 Absatz 1 Satz 1
+Nummer 1 und 3 bis 5 mitzuteilen. Die Mitteilung nach Satz 1 ist für
+das erste Kalenderhalbjahr jeweils spätestens am 1. August des
+betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils
+spätestens am 1. Februar des Folgejahres zu machen. Die zuständige
+Behörde hat dem Bundesinstitut für Risikobewertung jeweils bis zu den
+in Satz 2 genannten Zeitpunkten in pseudonymisierter Form die in der
+Anlage 2 aufgeführten, halbjährlich ermittelten Daten zum Zweck der
+Risikobewertung auf dem Gebiet der Antibiotikaresistenz mitzuteilen.
+
+(4) Das Bundesinstitut für Risikobewertung hat das Verfahren zur
+Bildung des Pseudonyms nach Absatz 3 Satz 3 zu bestimmen. Das
+Verfahren ist so zu gestalten, dass das Bundesinstitut für
+Risikobewertung bei den ihm gemeldeten Daten den Personenbezug nicht
+wiederherstellen kann. Auf Grundlage der ihm übermittelten Daten hat
+das Bundesinstitut für Risikobewertung die Risikobewertung
+durchzuführen. Das Bundesinstitut für Risikobewertung hat jährlich zu
+den in der Anlage 2 aufgeführten, von den zuständigen Behörden
+übermittelten Daten des Vorjahres einen Bericht über die Ergebnisse
+der Risikobewertung zu erstellen. Der Berichtszeitraum ist ein
+Kalenderjahr. Das Bundesinstitut für Risikobewertung hat den
 erstellten Bericht bis zum 31. August des auf den Berichtszeitraum
 folgenden Jahres zu veröffentlichen.
 
-(3) Soweit die Länder für die Zwecke des Absatzes 1 eine gemeinsame
-Stelle einrichten, sind die in den §§ 54 und 55 genannten Angaben
-dieser Stelle zu übermitteln; diese ermittelt die betriebliche
+(5) Sofern die Länder für die Zwecke des Absatzes 1 eine gemeinsame
+Stelle einrichten, sind die in den §§ 55 und 56 genannten Angaben
+dieser Stelle zu übermitteln. Diese Stelle hat die betriebliche
 halbjährliche Therapiehäufigkeit nach Maßgabe des in Absatz 1
 genannten Berechnungsverfahrens zur Ermittlung der Therapiehäufigkeit
-und teilt sie den in Absatz 2 Satz 1 und 2 genannten Behörden mit.
-Absatz 2 Satz 4 gilt entsprechend.
+zu ermitteln und den in Absatz 3 Satz 1 und 3 genannten Behörden
+mitzuteilen.
 
-(4) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
-ermittelt aus den ihm mitgeteilten Angaben zur betrieblichen
-halbjährlichen Therapiehäufigkeit
+(6) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat
+aus den ihm mitgeteilten Angaben zur betrieblichen halbjährlichen
+Therapiehäufigkeit jährlich für jede der in der Anlage 1 Spalte 3
+bezeichneten Nutzungsarten zu ermitteln:
 
-1.  als Kennzahl 1 den Wert, unter dem 50 Prozent aller erfassten
-    betrieblichen halbjährlichen Therapiehäufigkeiten liegen (Median) und
-
-
-2.  als Kennzahl 2 den Wert, unter dem 75 Prozent aller erfassten
-    betrieblichen halbjährlichen Therapiehäufigkeiten liegen (drittes
-    Quartil)
+1.  als bundesweite Kennzahl 1 den Wert, unter dem 50 Prozent aller
+    erfassten betrieblichen halbjährlichen Therapiehäufigkeiten liegen
+    (Median) und
 
 
+2.  als bundesweite Kennzahl 2 den Wert, unter dem 75 Prozent aller
+    erfassten betrieblichen halbjährlichen Therapiehäufigkeiten liegen
+    (drittes Quartil).
 
-der bundesweiten halbjährlichen Therapiehäufigkeit für jede in § 54
-Absatz 1 bezeichnete Tierart. Das Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit macht diese Kennzahlen bis zum Ende des dritten
-Monats des Halbjahres, das auf die Mitteilungen des vorangehenden
-Halbjahres nach § 55 Absatz 1 folgt, für das jeweilige abgelaufene
-Halbjahr im Bundesanzeiger bekannt und schlüsselt diese unter
-Berücksichtigung der Nutzungsart auf.
 
-(5) Die zuständige Behörde oder die gemeinsame Stelle nach Absatz 3
-teilt der Tierhalterin oder dem Tierhalter die nach Absatz 1
-ermittelte betriebliche halbjährliche Therapiehäufigkeit für die
-jeweilige Tierart der von ihr oder von ihm gehaltenen Tiere im Sinne
-des § 54 Absatz 1 unter Berücksichtigung der Nutzungsart mit. Die
-Tierhalterin oder der Tierhalter kann ferner Auskunft über die nach
-den §§ 54 und 55 erhobenen, gespeicherten oder sonst verarbeiteten
-Daten verlangen, soweit sie ihren oder seinen Betrieb betreffen.
 
-(6) Die nach den §§ 54 und 55 erhobenen oder nach Absatz 5
+Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat die
+Kennzahlen nach Satz 1 im Internet auf seiner Homepage bis zum 15.
+Februar des Folgejahres für das jeweilige vorangegangene Kalenderjahr
+bekanntzumachen und unter Berücksichtigung der Nutzungsart
+aufzuschlüsseln.
+
+(7) Die zuständige Behörde oder die gemeinsame Stelle nach Absatz 5
+hat der Tierhalterin oder dem Tierhalter die nach Absatz 1 ermittelte
+betriebliche halbjährliche Therapiehäufigkeit für die jeweiligen von
+ihr oder von ihm gehaltenen Tiere der Nutzungsarten nach der Anlage 1
+Spalte 3 mitzuteilen. Die Mitteilung nach Satz 1 ist für das erste
+Kalenderhalbjahr jeweils spätestens am 1. August des betreffenden
+Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 1.
+Februar des Folgejahres zu machen.
+
+(8) Die nach den §§ 55 und 56 erhobenen oder nach Absatz 7
 mitgeteilten und jeweils bei der zuständigen Behörde oder der
-gemeinsamen Stelle nach Absatz 3 gespeicherten Daten sind für die
+gemeinsamen Stelle nach Absatz 5 gespeicherten Daten sind für die
 Dauer von sechs Jahren aufzubewahren. Die Frist beginnt mit Ablauf des
-30\. Juni oder 31. Dezember desjenigen Halbjahres, in dem die
-bundesweite halbjährliche Therapiehäufigkeit nach Absatz 4 bekannt
-gegeben worden ist. Nach Ablauf dieser Frist sind die Daten zu
-löschen.
+15\. Februar des Jahres, in dem die bundesweiten jährlichen Kennzahlen
+nach Absatz 6 bekannt gegeben worden sind. Nach Ablauf dieser Frist
+sind die Daten zu löschen.
 
 
-#### § 57 Verringerung der Behandlung mit antibakteriell wirksamen Stoffen
+#### § 58 Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln
 
-(1) Um zur wirksamen Verringerung der Anwendung von Arzneimitteln
-beizutragen, die antibakteriell wirksame Stoffe enthalten, hat die
-Person, die Tiere im Sinne des § 54 Absatz 1 Satz 1 berufs- oder
-gewerbsmäßig hält,
+(1) Zur wirksamen Verringerung der Anwendung von antibiotisch
+wirksamen Arzneimitteln hat die Person, die Tiere der Nutzungsarten
+nach der Anlage 1 Spalte 3 berufs- oder gewerbsmäßig hält,
 
-1.  jeweils zwei Monate nach einer Bekanntmachung der Kennzahlen der
-    bundesweiten halbjährlichen Therapiehäufigkeit nach § 56 Absatz 4
-    festzustellen, ob im abgelaufenen Zeitraum ihre betriebliche
-    halbjährliche Therapiehäufigkeit bei der jeweiligen Tierart der von
-    ihr gehaltenen Tiere unter Berücksichtigung der Nutzungsart bezogen
-    auf den Tierhaltungsbetrieb, für den ihr nach den
-    tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
-    Registriernummer zugeteilt worden ist, oberhalb der Kennzahl 1 oder
-    der Kennzahl 2 der bundesweiten halbjährlichen Therapiehäufigkeit
+1.  jeweils spätestens am 1. März und am 1. September eines jeden Jahres
+    festzustellen, ob die betriebliche Therapiehäufigkeit im
+    vorangegangenen Kalenderhalbjahr für die jeweilige von ihr oder von
+    ihm gehaltene Nutzungsart nach Anlage 1 Spalte 3, bezogen auf den
+    Tierhaltungsbetrieb, für den ihr nach den tierseuchenrechtlichen
+    Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt
+    worden ist, oberhalb der bundesweiten jährlichen Kennzahl 1 oder 2
     liegt,
 
 
@@ -2793,22 +2837,21 @@ Tierhaltungsbetrieb, für den ihr oder ihm nach den
 tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
 Registriernummer zugeteilt worden ist,
 
-1.  oberhalb der Kennzahl 1 der bundesweiten halbjährlichen
-    Therapiehäufigkeit, hat die Tierhalterin oder der Tierhalter unter
-    Hinzuziehung einer Tierärztin oder eines Tierarztes zu prüfen, welche
-    Gründe zu dieser Überschreitung geführt haben können und wie die
-    Behandlung der von ihr oder von ihm gehaltenen Tiere im Sinne des § 54
-    Absatz 1 mit Arzneimitteln, die antibakteriell wirksame Stoffe
-    enthalten, verringert werden kann, oder
+1.  oberhalb der bundesweiten jährlichen Kennzahl 1, hat die Tierhalterin
+    oder der Tierhalter unter Hinzuziehung einer Tierärztin oder eines
+    Tierarztes zu prüfen, welche Gründe zu dieser Überschreitung geführt
+    haben können und wie die Behandlung der jeweiligen Nutzungsart nach
+    Anlage 1 Spalte 3 mit antibiotisch wirksamen Arzneimitteln verringert
+    werden kann, oder
 
 
-2.  oberhalb der Kennzahl 2 der bundesweiten halbjährlichen
-    Therapiehäufigkeit, hat die Tierhalterin oder der Tierhalter auf der
-    Grundlage einer tierärztlichen Beratung innerhalb von zwei Monaten
-    nach dem sich aus Absatz 1 Nummer 1 ergebenden Datum einen
-    schriftlichen Plan zu erstellen, der Maßnahmen enthält, die eine
-    Verringerung der Behandlung mit Arzneimitteln, die antibakteriell
-    wirksame Stoffe enthalten, zum Ziel haben.
+2.  oberhalb der bundesweiten jährlichen Kennzahl 2, hat die Tierhalterin
+    oder der Tierhalter auf der Grundlage einer tierärztlichen Beratung
+    für das erste Kalenderhalbjahr jeweils spätestens bis zum 1. Oktober
+    des betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils
+    spätestens bis zum 1. April des Folgejahres einen Plan zu erstellen,
+    der Maßnahmen enthält, die eine Verringerung der Behandlung mit
+    antibiotisch wirksamen Arzneimitteln zum Ziel haben.
 
 
 
@@ -2819,227 +2862,304 @@ Schritte zu ergreifen, die zu einer Verringerung führen können. Die
 Tierhalterin oder der Tierhalter hat dafür Sorge zu tragen, dass die
 Maßnahme nach Satz 1 Nummer 1 und die in dem Plan nach Satz 1 Nummer 2
 aufgeführten Schritte unter Gewährleistung der notwendigen
-arzneilichen Versorgung der Tiere durchgeführt werden. Der Plan nach
-Satz 1 Nummer 2 ist um einen Zeitplan zu ergänzen, wenn die nach dem
-Plan zu ergreifenden Maßnahmen nicht innerhalb von sechs Monaten
-erfüllt werden können.
+arzneilichen Versorgung der Tiere durchgeführt werden. Sofern die nach
+dem Plan zu ergreifenden Maßnahmen nicht innerhalb von sechs Monaten
+erfüllt werden können, ist der Plan nach Satz 1 Nummer 2 um einen
+Zeitplan zu ergänzen.
 
 (3) Der Plan nach Absatz 2 Satz 1 Nummer 2 ist der zuständigen Behörde
-unaufgefordert spätestens zwei Monate nach dem sich aus Absatz 1
-Nummer 1 ergebenden Datum zu übermitteln. Soweit es zur wirksamen
-Verringerung der Behandlung mit Arzneimitteln, die antibakteriell
-wirksame Stoffe enthalten, erforderlich ist, kann die zuständige
-Behörde gegenüber der Tierhalterin oder dem Tierhalter
+unaufgefordert für das erste Kalenderhalbjahr jeweils spätestens bis
+zum 1. Oktober des betreffenden Jahres und für das zweite
+Kalenderhalbjahr jeweils spätestens bis zum 1. April des Folgejahres
+schriftlich oder elektronisch zu übermitteln. Soweit es zur wirksamen
+Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln
+erforderlich ist, trifft die zuständige Behörde gegenüber der
+Tierhalterin oder dem Tierhalter unter Berücksichtigung des Standes
+der veterinärmedizinischen Wissenschaft die notwendigen Anordnungen
+und Maßnahmen, die zur Verringerung der Behandlung mit antibiotisch
+wirksamen Arzneimitteln erforderlich sind. Die zuständigen Behörden
+können insbesondere anordnen,
 
-1.  anordnen, dass der Plan zu ändern oder zu ergänzen ist,
-
-
-2.  unter Berücksichtigung des Standes der veterinärmedizinischen
-    Wissenschaft zur Verringerung der Behandlung mit Arzneimitteln, die
-    antibakteriell wirksame Stoffe enthalten, Anordnungen treffen,
-    insbesondere hinsichtlich
-
-    a)  der Beachtung von allgemein anerkannten Leitlinien über die Anwendung
-        von Arzneimitteln, die antibakteriell wirksame Mittel enthalten, oder
-        Teilen davon sowie
+1.  dass der Plan unter Hinzuziehung einer anderen als der behandelnden
+    Tierärztin oder eines anderen als des behandelnden Tierarztes zu
+    ändern oder zu ergänzen ist,
 
 
-    b)  einer Impfung der Tiere,
+2.  dass allgemein anerkannte Leitlinien über die Anwendung von
+    antibiotisch wirksamen Arzneimitteln zu beachten sind,
 
 
+3.  dass die Tiere zu impfen sind,
 
 
-
-3.  im Hinblick auf die Vorbeugung vor Erkrankungen unter Berücksichtigung
+4.  im Hinblick auf die Vorbeugung vor Erkrankungen unter Berücksichtigung
     des Standes der guten fachlichen Praxis in der Landwirtschaft oder der
     guten hygienischen Praxis in der Tierhaltung Anforderungen an die
-    Haltung der Tiere anordnen, insbesondere hinsichtlich der Fütterung,
-    der Hygiene, der Art und Weise der Mast einschließlich der Mastdauer,
-    der Ausstattung der Ställe sowie deren Einrichtung und der
-    Besatzdichte,
+    Haltung der Tiere, insbesondere hinsichtlich der Fütterung, der
+    Hygiene, der Art und Weise der Mast einschließlich der Mastdauer, der
+    Ausstattung der Ställe sowie deren Einrichtung und der Besatzdichte,
+    oder
 
 
-4.  anordnen, dass Arzneimittel, die antibakteriell wirksame Stoffe
-    enthalten, für einen bestimmten Zeitraum in einem Tierhaltungsbetrieb
-    nur durch eine Tierärztin oder einen Tierarzt angewendet werden
-    dürfen, wenn die für die jeweilige von einer Tierhalterin oder einem
-    Tierhalter gehaltene Tierart, unter Berücksichtigung der Nutzungsart,
-    festgestellte halbjährliche Therapiehäufigkeit zweimal in Folge
-    erheblich oberhalb der Kennzahl 2 der bundesweiten Therapiehäufigkeit
-    liegt.
+5.  dass antibiotisch wirksame Arzneimittel für einen bestimmten Zeitraum
+    in einem Tierhaltungsbetrieb nur durch eine Tierärztin oder einen
+    Tierarzt angewendet werden dürfen, wenn die für die jeweilige von
+    einer Tierhalterin oder einem Tierhalter gehaltene Nutzungsart nach
+    Anlage 1 Spalte 3 festgestellte halbjährliche Therapiehäufigkeit
+    zweimal in Folge erheblich oberhalb der bundesweiten jährlichen
+    Kennzahl 2 liegt.
 
 
 
-In einer Anordnung nach Satz 2 Nummer 1 ist das Ziel der Änderung oder
-Ergänzung des Planes anzugeben. In Anordnungen nach Satz 2 Nummer 2
-bis 4 ist Vorsorge dafür zu treffen, dass die Tiere jederzeit die
-notwendige arzneiliche Versorgung erhalten. Die zuständige Behörde
-kann der Tierhalterin oder dem Tierhalter gegenüber Maßnahmen nach
-Satz 2 Nummer 3 auch dann anordnen, wenn diese Rechte der Tierhalterin
-oder des Tierhalters aus Verwaltungsakten widerrufen oder aus anderen
+In einer Anordnung nach Satz 3 Nummer 1 ist das Ziel der Änderung oder
+Ergänzung des Planes anzugeben. In Anordnungen nach Satz 2 und 3 ist
+Vorsorge dafür zu treffen, dass die Tiere jederzeit die notwendige
+arzneiliche Versorgung erhalten. Die zuständige Behörde kann der
+Tierhalterin oder dem Tierhalter gegenüber Maßnahmen nach Satz 3
+Nummer 4 auch dann anordnen, wenn diese Rechte der Tierhalterin oder
+des Tierhalters aus Verwaltungsakten widerrufen oder aus anderen
 Rechtsvorschriften einschränken, sofern die erforderliche Verringerung
-der Behandlung mit Arzneimitteln, die antibakteriell wirksame Stoffe
-enthalten, nicht durch andere wirksame Maßnahmen erreicht werden kann
-und der zuständigen Behörde tatsächliche Erkenntnisse über die
-Wirksamkeit der weitergehenden Maßnahmen vorliegen. Satz 5 gilt nicht,
+der Behandlung mit antibiotisch wirksamen Arzneimitteln nicht durch
+andere wirksame Maßnahmen erreicht werden kann. Satz 6 gilt nicht,
 soweit unmittelbar geltende Rechtsvorschriften der Europäischen
-Gemeinschaft oder der Europäischen Union entgegenstehen.
+Gemeinschaft oder der Europäischen Union entgegenstehen. Anordnungen
+nach Satz 2 können von der zuständigen Behörde nur getroffen werden,
+wenn die Richtigkeit der der Behörde nach § 56 mitgeteilten
+Informationen von der Tierhalterin oder vom Tierhalter bestätigt
+wurde. Die Tierhalterin oder der Tierhalter hat die Richtigkeit nach
+Aufforderung durch die zuständige Behörde unverzüglich festzustellen
+und zu bestätigen.
 
 (4) Hat die Tierhalterin oder der Tierhalter Anordnungen nach Absatz 3
-Satz 2, im Fall der Nummer 3 auch in Verbindung mit Satz 5, nicht
-befolgt und liegt die für die jeweilige von einer Tierhalterin oder
-einem Tierhalter gehaltene Tierart unter Berücksichtigung der
-Nutzungsart festgestellte betriebliche halbjährliche
-Therapiehäufigkeit deshalb wiederholt oberhalb der Kennzahl 2 der
-bundesweiten halbjährlichen Therapiehäufigkeit, kann die zuständige
-Behörde das Ruhen der Tierhaltung im Betrieb der Tierhalterin oder des
-Tierhalters für einen bestimmten Zeitraum, längstens für drei Jahre,
-anordnen. Die Anordnung des Ruhens der Tierhaltung ist aufzuheben,
-sobald sichergestellt ist, dass die in Satz 1 bezeichneten Anordnungen
+Satz 2, auch in Verbindung mit Satz 3, im Fall des Absatzes 3 Satz 3
+Nummer 3 auch in Verbindung mit Absatz 3 Satz 6, nicht befolgt und
+liegt die für die jeweilige von einer Tierhalterin oder einem
+Tierhalter gehaltene Tierart unter Berücksichtigung der Nutzungsart
+festgestellte betriebliche halbjährliche Therapiehäufigkeit deshalb
+wiederholt oberhalb der bundesweiten jährlichen Kennzahl 2, kann die
+zuständige Behörde gegenüber der Tierhalterin oder dem Tierhalter
+anordnen,
+
+1.  dass der Tierhalter oder die Tierhalterin eine vertiefte
+    mikrobiologische tierärztliche Diagnostik des im Betrieb auftretenden
+    bakteriellen Infektionsgeschehens nach Maßgabe einer Rechtsverordnung
+    nach § 61 Absatz 4 Nummer 4 zu veranlassen hat,
+
+
+2.  dass die Tierhaltung im Betrieb der Tierhalterin oder des Tierhalters
+    für einen bestimmten Zeitraum, längstens für drei Jahre, ruht.
+
+
+
+Für die vertiefte mikrobiologische tierärztliche Diagnostik nach Satz
+1 Nummer 1 müssen zu geeigneten Zeitpunkten Proben von Tieren und
+ihrer Haltungsumgebung gezogen werden, um diese auf das Vorkommen von
+vermutlich krankheitsverursachenden Bakterien einschließlich deren
+Resistenzeigenschaften zu untersuchen. Die Ergebnisse der nach Satz 1
+Nummer 1 durchgeführten vertieften mikrobiologischen tierärztlichen
+Diagnostik sind nach ihrer Auswertung von der Tierhalterin oder dem
+Tierhalter unter Hinzuziehung einer Tierärztin oder eines Tierarztes
+im darauffolgenden Maßnahmenplan und bei einer weiteren Behandlung mit
+antibiotisch wirksamen Arzneimitteln zu berücksichtigen. Die Anordnung
+des Ruhens der Tierhaltung nach Satz 1 Nummer 2 ist aufzuheben, sobald
+sichergestellt ist, dass die in Satz 1 bezeichneten Anordnungen
 befolgt werden.
 
+(5) Bei einer wiederholten Überschreitung der bundesweiten jährlichen
+Kennzahl 2 im auf das Halbjahr der ersten Überschreitung folgenden
+Halbjahr ist keine Erstellung und Übermittlung eines Maßnahmenplans
+erforderlich.
 
-#### § 58 Verordnungsermächtigungen zur Regelung der Verringerung der Behandlung mit antimikrobiell wirksamen Stoffen
+
+#### § 59 Verarbeitung und Übermittlung von Daten
+
+(1) Unbeschadet des Artikels 57 der Verordnung (EU) 2019/6 dürfen die
+nach den §§ 55 bis 58 erhobenen Daten ausschließlich zu folgenden
+Zwecken verarbeitet werden:
+
+1.  zur Ermittlung und Berechnung der Therapiehäufigkeit,
+
+
+2.  zur Überwachung der Einhaltung der §§ 55 bis 58,
+
+
+3.  zur Verfolgung und zur Ahndung von Verstößen gegen
+    tierarzneimittelrechtliche Vorschriften,
+
+
+4.  zur Durchführung einer Risikobewertung nach § 57 Absatz 4 Satz 3,
+
+
+5.  für die Erstellung des Berichts nach § 57 Absatz 4 Satz 4,
+
+
+6.  zur Berechnung weiterer betrieblicher und bundesweiter Kenngrößen und
+
+
+7.  in pseudonymisierter Form zu wissenschaftlichen Zwecken.
+
+
+
+Die betrieblichen Kenngrößen nach Satz 1 Nummer 6 werden
+ausschließlich den Datenmeldenden jeweils zu den von ihnen gemeldeten
+Daten zur Kenntnis gegeben.
+
+(2) Die zuständige Behörde darf Daten nach den §§ 55 bis 58 an die für
+die Verfolgung von Verstößen zuständigen Behörden übermitteln, sofern
+sie Grund zu der Annahme hat, dass
+
+1.  ein Verstoß vorliegt
+
+    a)  gegen das Lebensmittel- und Futtermittelrecht,
+
+
+    b)  das Tierschutzrecht oder
+
+
+    c)  das Tiergesundheitsrecht und
+
+
+
+
+
+2.  diese Daten für die Verfolgung des Verstoßes erforderlich sind.
+
+
+
+
+
+#### § 60 Resistenzmonitoring
+
+Um die Wirksamkeit von Antibiotika zu überwachen, führt die zuständige
+Bundesoberbehörde ein Resistenzmonitoring auf der Grundlage
+wiederholter Beobachtungen, Untersuchungen und Bewertungen von
+Resistenzen tierischer Krankheitserreger gegenüber Stoffen mit
+antibiotischer Wirkung durch, die als Wirkstoffe in Tierarzneimitteln
+enthalten sind. Das Resistenzmonitoring schließt auch das Erstellen
+von Berichten ein.
+
+
+#### § 61 Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
-Art, Form und Inhalt der Mitteilungen der Tierhalterin oder des
-Tierhalters nach § 54 Absatz 1 und § 55 zu regeln. In der
-Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass
+durch Rechtsverordnung mit Zustimmung des Bundesrates im Rahmen des
+Artikels 107 Absatz 7 der Verordnung (EU) 2019/6 die Anwendung
+bestimmter antimikrobieller Wirkstoffe bei Tieren weiter
+einzuschränken oder zu verbieten, wenn die Verabreichung derartiger
+antimikrobieller Wirkstoffe der sich aus den §§ 54 bis 58 ergebenden
+Strategie zur Verringerung der Verwendung von Tierarzneimitteln mit
+antibiotisch wirksamen Arzneimitteln zuwiderläuft. Insbesondere kann
+in einer Rechtsverordnung nach Satz 1 für die Anwendung von
+Tierarzneimitteln mit bestimmten antimikrobiellen Wirkstoffen,
+insbesondere dem Wirkstoff Colistin (Polymyxin E), geregelt werden,
+dass
 
-1.  die Mitteilungen nach § 55 Absatz 1 oder 3 durch die Übermittlung von
-    Angaben oder Aufzeichnungen ersetzt werden können, die auf Grund
-    anderer arzneimittelrechtlicher Vorschriften, insbesondere auf Grund
-    einer Verordnung nach § 52 Absatz 1 Nummer 9, vorzunehmen sind,
-
-
-2.  Betriebe bis zu einer bestimmten Bestandsgröße von den Anforderungen
-    nach den §§ 54 und 55 ausgenommen werden.
-
-
-
-Eine Rechtsverordnung nach Satz 2 Nummer 2 darf nur erlassen werden,
-soweit
-
-1.  durch die Ausnahme der Betriebe das Erreichen des Zieles der
-    Verringerung der Behandlung mit Arzneimitteln, die antibakteriell
-    wirksame Stoffe enthalten, nicht gefährdet wird und
+1.  die Anwendung dieser Tierarzneimittel an die Erstellung eines
+    Antibiogramms gebunden ist und
 
 
-2.  die Repräsentativität der Ermittlung der Kennzahlen der bundesweiten
-    halbjährlichen Therapiehäufigkeit erhalten bleibt.
+2.  diese Tierarzneimittel bei Tieren, die der Gewinnung von Lebensmitteln
+    dienen, nicht nach den Bestimmungen des Artikels 113 der Verordnung
+    (EU) 2019/6 angewendet werden dürfen.
 
 
 
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-durch Rechtsverordnung mit Zustimmung des Bundesrates
+durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
+Art, Form und Inhalt der Mitteilungen der Tierhalterin oder des
+Tierhalters nach § 55 Absatz 1 und der Tierärztinnen und Tierärzte
+nach § 56 Absatz 1 zu regeln. In der Rechtsverordnung nach Satz 1 kann
+vorgesehen werden, dass
 
-1.  zum Zweck der Ermittlung des Medians und des dritten Quartils der
-    bundesweiten halbjährlichen Therapiehäufigkeit Anforderungen und
-    Einzelheiten der Berechnung der Kennzahlen festzulegen,
-
-
-2.  die näheren Einzelheiten einschließlich des Verfahrens zu regeln zu
-
-    a)  der Auskunftserteilung nach § 56 Absatz 5 und
-
-
-    b)  der Löschung der Daten nach § 56 Absatz 6.
+1.  die Mitteilungen nach § 55 Absatz 1 durch die Übermittlung von Angaben
+    oder Aufzeichnungen ersetzt werden können, die auf Grund anderer
+    arzneimittelrechtlicher Vorschriften, insbesondere auf Grund einer
+    Verordnung nach § 52 Absatz 1 Nummer 9, vorzunehmen sind,
 
 
+2.  Betriebe bis zu einer bestimmten Bestandsgröße von den Anforderungen
+    nach § 55 ausgenommen werden.
 
+
+
+Eine Rechtsverordnung nach Satz 2 Nummer 2 darf nur erlassen werden,
+soweit
+
+1.  durch die Ausnahme für Betriebe das Erreichen des Zieles der
+    Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln
+    nicht gefährdet wird und
+
+
+2.  die Repräsentativität der Ermittlung der bundesweiten jährlichen
+    Kennzahlen erhalten bleibt.
 
 
 
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-Einzelheiten zu regeln über
+durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.  die Aufzeichnung nach § 57 Absatz 1 Nummer 2,
-
-
-2.  Inhalt und Umfang des in § 57 Absatz 2 Satz 1 Nummer 2 genannten
-    Planes zur Verringerung der Behandlung mit Arzneimitteln, die
-    antibakteriell wirksame Stoffe enthalten, sowie
+1.  zum Zweck der Ermittlung des Medians und des dritten Quartils der
+    bundesweiten jährlichen Kennzahlen Anforderungen und Einzelheiten der
+    Berechnung festzulegen,
 
 
-3.  die Anforderung an die Übermittlung einschließlich des Verfahrens nach
-    § 57 Absatz 3 Satz 1.
+2.  die näheren Einzelheiten einschließlich des Verfahrens zu regeln zu
+
+    a)  der Auskunftserteilung nach § 57 Absatz 7 und
+
+
+    b)  der Löschung der Daten nach § 57 Absatz 8.
+
+
+
 
 
 
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
+durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Einzelheiten zu regeln über
+
+1.  die Aufzeichnung nach § 58 Absatz 1 Nummer 2,
+
+
+2.  Inhalt und Umfang des in § 58 Absatz 2 Satz 1 Nummer 2 genannten
+    Planes zur Verringerung der Behandlung mit antibiotisch wirksamen
+    Arzneimitteln,
+
+
+3.  die Anforderung an die Übermittlung einschließlich des Verfahrens nach
+    § 58 Absatz 3 Satz 1 und
+
+
+4.  die vertiefte mikrobiologische tierärztliche Diagnostik nach § 58
+    Absatz 4 Satz 1 Nummer 1 und dabei insbesondere Anforderungen an die
+    Probenahme, die Untersuchungseinrichtung und die Durchführung und
+    Dokumentation der Untersuchung festzulegen.
+
+
+
+
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
 durch Rechtsverordnung mit Zustimmung des Bundesrates Fische, die der
 Gewinnung von Lebensmitteln dienen, in den Anwendungsbereich der §§ 54
 bis 59 und der zur Durchführung dieser Vorschriften erlassenen
 Rechtsverordnungen einzubeziehen, soweit dies für die Verringerung der
-Behandlung mit Arzneimitteln, die antibakteriell wirksame Stoffe
-enthalten, erforderlich ist.
+Behandlung mit antibiotisch wirksamen Arzneimitteln erforderlich ist.
 
-(5) Eine Rechtsverordnung nach Absatz 4 darf erstmals erlassen werden,
+(6) Eine Rechtsverordnung nach Absatz 5 darf erstmals erlassen werden,
 wenn die Ergebnisse eines bundesweiten durchgeführten behördlichen
 oder im Auftrag einer Behörde bundesweit durchgeführten
-Forschungsvorhabens über die Behandlung mit Arzneimitteln, die
-antibakteriell wirksame Stoffe enthalten, bei Fischen, die der
-Gewinnung von Lebensmitteln dienen, im Bundesanzeiger veröffentlicht
-worden sind.
-
-
-#### § 59 Verarbeitung und Übermittlung von Daten
-
-(1) Die nach den §§ 54 bis 57 erhobenen Daten dürfen ausschließlich zu
-folgenden Zwecken gespeichert und verwendet werden:
-
-1.  zur Ermittlung und Berechnung der Therapiehäufigkeit,
-
-
-2.  zur Überwachung der Einhaltung der §§ 54 bis 57, zur Verfolgung und
-    zur Ahndung von Verstößen gegen arzneimittelrechtliche Vorschriften
-    sowie
-
-
-3.  zur Durchführung einer Risikobewertung nach § 56 Absatz 2 Satz 5 und
-    für den Bericht nach § 56 Absatz 2 Satz 6.
-
-
-
-
-(2) Die zuständige Behörde darf Daten nach den §§ 54 bis 57 an die für
-die Verfolgung von Verstößen zuständigen Behörden übermitteln, sofern
-sie Grund zu der Annahme hat, dass ein Verstoß gegen das Lebensmittel-
-und Futtermittelrecht, das Tierschutzrecht oder das Tierseuchenrecht
-vorliegt und soweit diese Daten für die Verfolgung des Verstoßes
-erforderlich sind.
-
-
-#### § 60 Verordnungsermächtigung zur Regelung weiterer Einschränkungen bestimmter antimikrobieller Wirkstoffe
-
-Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-durch Rechtsverordnung mit Zustimmung des Bundesrates nach Artikel 107
-Absatz 7 der Verordnung (EU) 2019/6 die Anwendung bestimmter
-antimikrobieller Wirkstoffe bei Tieren weiter einzuschränken oder zu
-verbieten, wenn die Verabreichung derartiger antimikrobieller
-Wirkstoffe einer nationalen Strategie zur umsichtigen Verwendung von
-antimikrobiellen Wirkstoffen zuwiderläuft.
-
-
-#### § 61 Resistenzmonitoring
-
-Um die Wirksamkeit von Antibiotika zu überwachen, führt die zuständige
-Bundesoberbehörde ein Resistenzmonitoring auf der Grundlage
-wiederholter Beobachtungen, Untersuchungen und Bewertungen von
-Resistenzen tierischer Krankheitserreger gegenüber Stoffen mit
-antimikrobieller Wirkung durch, die als Wirkstoffe in
-Tierarzneimitteln enthalten sind. Das Resistenzmonitoring schließt
-auch das Erstellen von Berichten ein.
+Forschungsvorhabens über die Behandlung mit antibiotisch wirksamen
+Arzneimitteln bei Fischen, die der Gewinnung von Lebensmitteln dienen,
+im Bundesanzeiger veröffentlicht worden sind.
 
 
 ### Unterabschnitt 6 - Sicherung und Kontrolle der Qualität
@@ -3049,7 +3169,7 @@ auch das Erstellen von Berichten ein.
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-und dem Bundesministerium für Wirtschaft und Energie durch
+und dem Bundesministerium für Wirtschaft und Klimaschutz durch
 Rechtsverordnung mit Zustimmung des Bundesrates Betriebsverordnungen
 für Betriebe und Einrichtungen zu erlassen,
 
@@ -3077,65 +3197,103 @@ Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
 soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder
 bei deren Herstellung ionisierende Strahlen verwendet werden.
 
-(2) In einer Rechtsverordnung nach Absatz 1 Satz 1 können für
-Tierarzneimittel und veterinärmedizintechnische Produkte insbesondere
-Regelungen getroffen werden über die
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
+und dem Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur
+Erfüllung des in § 1 Absatz 1, auch in Verbindung mit Absatz 3,
+genannten Zwecks erforderlich ist, für Tierarzneimittel und
+veterinärmedizintechnische Produkte
 
-1.  Entwicklung, Herstellung, Prüfung, Lagerung, Verpackung,
-    Qualitätssicherung, den Erwerb, die Bereitstellung, die Bevorratung
-    und das Bereitstellen auf dem Markt,
-
-
-2.  Führung und Aufbewahrung von Nachweisen über die in Nummer 1 genannten
-    Tätigkeiten,
+1.  die Entwicklung und Herstellung,
 
 
-3.  Haltung und Kontrolle der bei der Herstellung und Prüfung der
-    Tierarzneimittel oder veterinärmedizintechnischen Produkte verwendeten
-    Tiere und die Nachweise darüber,
+2.  die Prüfung,
 
 
-4.  Anforderungen an das Personal,
+3.  die Lagerung und Verpackung,
 
 
-5.  Beschaffenheit, Größe und Einrichtung der Räume,
+4.  den Erwerb und die Bevorratung und
 
 
-6.  Anforderungen an die Hygiene,
-
-
-7.  Beschaffenheit der Behältnisse,
-
-
-8.  Kennzeichnung der Vorratsbehältnisse, auch für Ausgangsstoffe,
-
-
-9.  Dienstbereitschaft für Großhändlerinnen und Großhändler von
-    Tierarzneimitteln oder veterinärmedizintechnischen Produkte,
-
-
-10. Zurückstellung von Chargenproben sowie über deren Umfang und
-    Lagerungsdauer,
-
-
-11. Kennzeichnung, Absonderung oder Vernichtung nicht verkehrsfähiger
-    Tierarzneimittel oder veterinärmedizintechnischer Produkte,
-
-
-12. Voraussetzungen für und die Anforderungen an die in Nummer 1
-    bezeichneten Tätigkeiten durch eine Tierärztin oder einen Tierarzt im
-    Rahmen des Betriebs einer tierärztlichen Hausapotheke sowie über die
-    Anforderungen an die Anwendung von Tierarzneimitteln und Arzneimitteln
-    nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes durch eine
-    Tierärztin oder einen Tierarzt an den von ihr oder ihm behandelten
-    Tieren.
+5.  die Bereitstellung auf dem Markt
 
 
 
+zu beschränken und die hierfür erforderlichen Maßnahmen
+vorzuschreiben. Hierbei kann insbesondere vorgeschrieben werden, dass
 
-(3) Eine Rechtsverordnung nach den Absätzen 1 und 2 gilt auch für
-Personen, die die in Absatz 1 genannten Tätigkeiten berufsmäßig
-ausüben.
+1.  über die in Satz 1 genannten Tätigkeiten Nachweise zu führen und
+    aufzubewahren sind,
+
+
+2.  das die Tätigkeiten nach Satz 1 durchführende Personal bestimmte
+    Anforderungen zu erfüllen hat,
+
+
+3.  bestimmte Anforderungen an die Beschaffenheit, Größe und Einrichtung
+    der Räume einzuhalten sind, in denen die Tätigkeiten nach Satz 1
+    stattfinden,
+
+
+4.  bestimmte Anforderungen an die erforderliche Hygiene bei der
+    Durchführung der in Satz 1 genannten Tätigkeiten einzuhalten sind,
+
+
+5.  bestimmte Anforderungen an die Beschaffenheit und Kennzeichnung der
+    Behältnisse und Vorratsbehältnisse, auch für Ausgangsstoffe,
+    einzuhalten sind, die bei den in Satz 1 genannten Tätigkeiten
+    verwendet werden,
+
+
+6.  Personen, Betriebe und Einrichtungen, die Tätigkeiten nach Satz 1
+    ausführen, ein System zu betreiben haben, das die Qualitätssicherung,
+    die Gute Herstellungspraxis oder die gute fachliche Praxis
+    einschließlich der Qualitätskontrolle und der periodischen
+    Produktqualitätsüberprüfungen zum Gegenstand hat,
+
+
+7.  Chargenproben in bestimmtem Umfang und mit bestimmter Lagerungsdauer
+    zurückzustellen sind,
+
+
+8.  nicht verkehrsfähige Tierarzneimittel und nicht verkehrsfähige
+    veterinärmedizintechnische Produkte zu kennzeichnen, gesondert
+    aufzubewahren oder zu vernichten sind,
+
+
+9.  über die Haltung der bei der Herstellung und Prüfung von
+    Tierarzneimitteln oder veterinärmedizintechnischen Produkten
+    verwendeten Tiere Nachweise zu führen und aufzubewahren sind,
+
+
+10. Großhändlerinnen und Großhändler von Tierarzneimitteln oder
+    veterinärmedizintechnischen Produkten im Rahmen ihrer
+    Dienstbereitschaft bestimmte Anforderungen einzuhalten haben.
+
+
+
+
+(3) In einer Rechtsverordnung nach Absatz 2 Satz 1, auch in Verbindung
+mit Absatz 2 Satz 2, können
+
+1.  Anforderungen an den Betrieb einer tierärztlichen Hausapotheke durch
+    eine Tierärztin oder einen Tierarzt geregelt werden,
+
+
+2.  die Anwendung von Tierarzneimitteln durch eine Tierärztin oder einen
+    Tierarzt an den von ihr oder ihm behandelten Tieren beschränkt und die
+    hierfür erforderlichen Maßnahmen geregelt werden.
+
+
+
+Vorschriften nach Satz 1 können auch für Arzneimittel nach § 2 Absatz
+1, 2 und 3a des Arzneimittelgesetzes erlassen werden.
+
+(4) Eine Rechtsverordnung nach Absatz 1, auch in Verbindung mit Absatz
+2 oder 3, gilt auch für Personen, die die in Absatz 1 genannten
+Tätigkeiten berufsmäßig ausüben.
 
 
 #### § 63 Arzneibuch und amtliche Sammlung von Untersuchungsverfahren
@@ -3163,7 +3321,7 @@ obliegt der Vollzug dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsvorschriften sowie der unmittelbar geltenden
 Rechtsakte der Europäischen Union und der Europäischen Gemeinschaft
 den zuständigen Stellen der Bundeswehr. Im Geschäftsbereich des
-Bundesministeriums des Innern, für Bau und Heimat obliegt der Vollzug
+Bundesministeriums des Innern und für Heimat obliegt der Vollzug
 dieses Gesetzes den zuständigen Stellen und Sachverständigen der
 Bundespolizei.
 
@@ -3171,15 +3329,44 @@ Bundespolizei.
 Sinne
 
 1.  der Vorschriften der Kapitel II bis V sowie der Artikel 102, 126 bis
-    130, 140, 143 und 155 der Verordnung (EU) 2019/6 und
+    130, 140, 143 und 155 der Verordnung (EU) 2019/6,
 
 
-2.  der delegierten Verordnungen und Durchführungsverordnungen, die auf
+2.  des Artikels 98 Absatz 1 Buchstabe c der Verordnung (EU) 2019/6,
+    soweit es sich um zulassungsbezogene Angaben handelt und die
+    Antragstellerin oder der Antragsteller den Sitz außerhalb des
+    Geltungsbereiches des Tierarzneimittelgesetzes hat, und
+
+
+3.  der delegierten Verordnungen und Durchführungsverordnungen, die auf
     Grundlage von in Nummer 1 bezeichneten Vorschriften der Verordnung
     (EU) 2019/6 erlassen wurden.
 
 
 
+
+(4) Die zuständige Bundesoberbehörde hat zur Verhütung einer
+unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch
+oder Tier die bei der Anwendung von Arzneimitteln und
+veterinärmedizintechnischen Produkten auftretenden Risiken,
+insbesondere Nebenwirkungen, Wechselwirkungen mit anderen Mitteln,
+Risiken durch gefälschte Tierarzneimittel, gefälschte Wirkstoffe oder
+gefälschte veterinärmedizintechnische Produkte sowie Risiken für die
+Umwelt auf Grund der Anwendung eines Tierarzneimittels, zentral zu
+erfassen, auszuwerten und die nach diesem Gesetz zu ergreifenden
+Maßnahmen zu koordinieren. Insbesondere koordiniert die zuständige
+Bundesoberbehörde die Maßnahmen bei Rückrufen von Tierarzneimitteln
+und veterinärmedizintechnischen Produkten sowie die Maßnahmen im
+Zusammenhang mit Qualitätsmängeln bei Wirkstoffen. Sie hat dabei mit
+den Dienststellen der Europäischen Arzneimittel-Agentur, den
+Tierarzneimittelbehörden anderer Staaten, den zuständigen Behörden der
+Länder, den Arzneimittelkommissionen der Kammern der Heilberufe,
+nationalen Pharmakovigilanzzentren sowie mit anderen Stellen
+zusammenzuwirken, die bei der Durchführung ihrer Aufgaben
+Tierarzneimittelrisiken erfassen. Die zuständige Bundesoberbehörde
+kann die Öffentlichkeit über Risiken von Tierarzneimitteln und
+veterinärmedizintechnischen Produkten und beabsichtigte Maßnahmen
+informieren.
 
 
 #### § 65 Zuständige Bundesoberbehörde, Verordnungsermächtigung
@@ -3267,10 +3454,10 @@ ein.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-und dem Bundesministerium für Umwelt, Naturschutz und nukleare
-Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Zuständigkeit der Behörden des Bundes abweichend von den Absätzen 1
-und 2 sowie von § 64 Absatz 3 zu regeln.
+und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
+und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
+Bundesrates die Zuständigkeit der Behörden des Bundes abweichend von
+den Absätzen 1 und 2 sowie von § 64 Absatz 3 zu regeln.
 
 
 ### Unterabschnitt 8 - Überwachung
@@ -3525,10 +3712,19 @@ Datenträgern. Dabei sind anzugeben:
 
 1.  die jährlich abgegebene Gesamtmenge, aufgeschlüsselt nach den ersten
     beiden Ziffern der Postleitzahl der Anschrift der jeweiligen
-    Tierärztin oder des jeweiligen Tierarztes, sowie
+    Empfängerin oder des jeweiligen Empfängers, sowie
 
 
-2.  die Zulassungsnummer des jeweils abgegebenen Arzneimittels.
+2.  für das jeweils abgegebene Tierarzneimittel
+
+    a)  im Fall des § 45 Absatz 6 Nummer 1 die Angaben nach den Nummern 4 bis
+        6 und 8 des Anhangs I der Durchführungsverordnung (EU) 2022/209,
+
+
+    b)  im Fall des § 45 Absatz 6 Nummer 2 die Zulassungsnummer.
+
+
+
 
 
 
@@ -3577,30 +3773,31 @@ Datensicherheit zu treffen.
 
 (7) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit,
-dem Bundesministerium des Innern, für Bau und Heimat sowie dem
-Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
-mit Zustimmung des Bundesrates weitere technische Regelungen
-hinsichtlich der Art und Weise der Datenübermittlung zu treffen.
+dem Bundesministerium des Innern und für Heimat sowie dem
+Bundesministerium für Wirtschaft und Klimaschutz durch
+Rechtsverordnung mit Zustimmung des Bundesrates weitere technische
+Regelungen hinsichtlich der Art und Weise der Datenübermittlung zu
+treffen.
 
 (8) Die Rechtsverordnung nach Absatz 7 wird im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
-erlassen, soweit es sich um Tierarzneimittel handelt, die radioaktiv
-sind oder bei deren Herstellung ionisierende Strahlen verwendet
-werden.
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz erlassen, soweit es sich um Tierarzneimittel
+handelt, die radioaktiv sind oder bei deren Herstellung ionisierende
+Strahlen verwendet werden.
 
 
 #### § 70 Datenabrufe aus dem Informationssystem
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft, das
 Bundesministerium für Gesundheit und das Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit, die in § 65 genannten
-Bundesoberbehörden sowie die zuständigen Stellen der Länder sind
-befugt, die in dem Informationssystem nach § 68 Absatz 5 gespeicherten
-Daten abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben jeweils
-erforderlich ist. Die Verantwortung für die Zulässigkeit des einzelnen
-automatisierten Abrufs trägt die abrufende Stelle. Das Bundesinstitut
-für Arzneimittel und Medizinprodukte überprüft die Zulässigkeit des
-Abrufs nur, wenn dazu Anlass besteht.
+Naturschutz, nukleare Sicherheit und Verbraucherschutz, die in § 65
+genannten Bundesoberbehörden sowie die zuständigen Stellen der Länder
+sind befugt, die in dem Informationssystem nach § 68 Absatz 5
+gespeicherten Daten abzurufen, soweit dies zur Wahrnehmung ihrer
+Aufgaben jeweils erforderlich ist. Die Verantwortung für die
+Zulässigkeit des einzelnen automatisierten Abrufs trägt die abrufende
+Stelle. Das Bundesinstitut für Arzneimittel und Medizinprodukte
+überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt im
 Einvernehmen mit dem Bundesamt für Sicherheit in der
@@ -4041,12 +4238,12 @@ der Gesundheit von Mensch und Tier gewahrt bleibt.
 (3) Eine Rechtsverordnung nach Absatz 2 ergeht im Einvernehmen mit dem
 Bundesministerium der Verteidigung, soweit sie den Bereich der
 Bundeswehr berührt, und im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat, soweit sie den Bereich der Bundespolizei
-und des Zivilschutzes berührt, jeweils ohne Zustimmung des
-Bundesrates. Sie ergeht im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat mit Zustimmung des Bundesrates, soweit die
-Rechtsverordnung den Bereich der Bereitschaftspolizeien der Länder
-oder des Katastrophenschutzes berührt.
+Innern und für Heimat, soweit sie den Bereich der Bundespolizei und
+des Zivilschutzes berührt, jeweils ohne Zustimmung des Bundesrates.
+Sie ergeht im Einvernehmen mit dem Bundesministerium des Innern und
+für Heimat mit Zustimmung des Bundesrates, soweit die Rechtsverordnung
+den Bereich der Bereitschaftspolizeien der Länder oder des
+Katastrophenschutzes berührt.
 
 
 ### Unterabschnitt 10 - Allgemeine Anzeigepflicht
@@ -4072,7 +4269,8 @@ Hausapotheke.
 veterinärmedizintechnischen Produkten beabsichtigt, für die es keiner
 Herstellungserlaubnis bedarf, so sind diese Tierarzneimittel und
 veterinärmedizintechnischen Produkte in der Anzeige nach Absatz 1 mit
-ihrer Bezeichnung und Zusammensetzung anzugeben.
+ihrer Bezeichnung und Zusammensetzung anzugeben. Satz 1 gilt nicht für
+tierärztliche Hausapotheken.
 
 (4) Nachträgliche Änderungen in Bezug auf anzeigepflichtige
 Tätigkeiten oder in Bezug auf die verantwortlichen Personen sind
@@ -4119,7 +4317,7 @@ könnten. Diese Personen geben jährlich dazu eine Erklärung ab.
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
-und dem Bundesministerium für Wirtschaft und Energie durch
+und dem Bundesministerium für Wirtschaft und Klimaschutz durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den
 Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen zuzulassen, wenn die notwendige
@@ -4129,11 +4327,11 @@ Gesundheit von Mensch und Tier durch Arzneimittel nicht zu befürchten
 ist.
 
 (2) Eine Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
-soweit es sich um Tierarzneimittel, die radioaktive sind oder bei
-deren Herstellung ionisierende Strahlen verwendet werden, oder um
-Regelungen zur Abwehr von Gefahren durch ionisierende Strahlung
-handelt.
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Verbraucherschutz, soweit es sich um Tierarzneimittel, die radioaktive
+sind oder bei deren Herstellung ionisierende Strahlen verwendet
+werden, oder um Regelungen zur Abwehr von Gefahren durch ionisierende
+Strahlung handelt.
 
 (3) Die Geltungsdauer einer Rechtsverordnung nach Absatz 1 ist auf
 sechs Monate zu befristen.
@@ -4179,11 +4377,8 @@ erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an
 Änderungen dieser Vorschriften erforderlich ist.
 
 
-#### § 86 Verkündung von Rechtsverordnungen
+#### § 86 (weggefallen)
 
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 
 
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
@@ -4313,26 +4508,40 @@ fahrlässig begeht.
     nicht rechtzeitig vorlegt,
 
 
-11. entgegen § 54 Absatz 1 Satz 1 oder § 55 Absatz 1 Satz 1, auch in
-    Verbindung mit Satz 3, eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht,
+11. entgegen § 55 Absatz 1 Satz 1 oder Absatz 2 Satz 1, auch in Verbindung
+    mit Absatz 3, oder § 56 Absatz 1 Satz 1 eine Mitteilung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-12. entgegen § 57 Absatz 1 Nummer 2 eine dort genannte Feststellung nicht,
-    nicht richtig oder nicht rechtzeitig aufzeichnet,
+12. entgegen § 58 Absatz 1 Nummer 2 eine Aufzeichnung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-13. entgegen § 57 Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan
+13. entgegen § 58 Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan
     nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
     Weise oder nicht rechtzeitig erstellt,
 
 
-14. entgegen § 57 Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht
-    richtig oder nicht rechtzeitig übermittelt oder
+14. entgegen § 58 Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht
+    richtig oder nicht rechtzeitig übermittelt,
 
 
-15. einer vollziehbaren Anordnung nach § 57 Absatz 3 Satz 2 oder Absatz 4
-    Satz 1 zuwiderhandelt.
+15. einer Rechtsverordnung nach § 62 Absatz 2, auch in Verbindung mit
+    Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen
+    Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
+    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+
+16. einer vollziehbaren Anordnung nach § 72 Absatz 4 Satz 1 Nummer 5
+    zuwiderhandelt oder
+
+
+17. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils
+    auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit §
+    79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit
+    Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit
+    Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig erstattet.
 
 
 
@@ -4341,8 +4550,10 @@ fahrlässig begeht.
 Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
 Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020,
-S. 15; L 241 vom 8.7.2021 S. 17) verstößt, indem er vorsätzlich oder
-fahrlässig
+S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die
+zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom
+30\.1.2023, S. 7) geändert worden ist, verstößt, indem er vorsätzlich
+oder fahrlässig
 
 1.  entgegen Artikel 14 Absatz 1 Satz 1, auch in Verbindung mit Artikel
     16, eine Packungsbeilage nicht oder nicht zum Zeitpunkt des
@@ -4423,6 +4634,10 @@ fahrlässig
 
 20. entgegen Artikel 101 Absatz 8 Satz 3 eine Aufzeichnung nicht oder
     nicht mindestens fünf Jahre zur Verfügung hält,
+
+
+20a. entgegen Artikel 105 Absatz 3 eine tierärztliche Verschreibung
+    ausstellt,
 
 
 21. entgegen Artikel 107 Absatz 1 oder 2 ein antimikrobiell wirksames
@@ -4518,7 +4733,7 @@ erfüllen.
 
 ### § 93 Weitere Anwendung von Vorschriften
 
-(1) Die in der Anlage genannten Daten, die die zuständige Behörde im
+(1) Die in der Anlage 2 genannten Daten, die die zuständige Behörde im
 Zeitraum vom 1. Januar 2018 bis zum 27. Januar 2022 erhoben und
 ermittelt hat, übermittelt sie bis zum 1. April 2022 dem
 Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer
@@ -4537,105 +4752,346 @@ Risikobewertung eine Risikobewertung durch. Über die Risikobewertung
 erstellt es einen Bericht. Den Bericht veröffentlicht es bis zum 31.
 August 2023.
 
-(zu § 56 Absatz 2 Satz 2)
 
-### Anlage Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
+### § 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln
 
-(Fundstelle: BGBl. I 2021, 4566)
+Die Pflicht zur Verringerung der Behandlung mit antibiotisch wirksamen
+Arzneimitteln nach § 58 besteht für Tierhalterinnen und Tierhalter der
+Nutzungsarten nach der Anlage 1 Nummern 1.1, 1.2, 2.1, 2.2, 2.4, 3.2
+und 3.3 ab dem 1. Januar 2024.
+
+
+### § 95 Evaluierung
+
+Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem
+Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes
+über die Wirksamkeit der nach den §§ 54 bis 58 getroffenen Maßnahmen.
+
+(zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)
+
+### Anlage 1 Einteilung der Nutzungsarten
+
+(Fundstelle: BGBl. I 2022, 2859 - 2860)
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   Laufende
+        Nummer
+
+    *   Nutzungsart
+
+    *   Verringerung
+        des Einsatzes
+        antibiotisch
+        wirksamer
+        Arzneimittel
+        bei Tieren
+
+    *   Tierärztliche
+        Mitteilung
+        über die
+        Arzneimittel-
+        verwendung
+
+
+*    *   1.
+
+    *   Rinder (Bos taurus)
+
+
+*    *   1.1
+
+    *   Rinder, die der Milcherzeugung dienen, ab der ersten Abkalbung
+
+    *   X
+
+    *   X
+
+
+*    *   1.2
+
+    *   nicht auf dem Tierhaltungsbetrieb geborene Kälber ab der Einstallung
+        im aufnehmenden Betrieb bis zu einem Alter von 12 Monaten
+
+    *   X
+
+    *   X
+
+
+*    *   1.3
+
+    *   zur Mast gehaltene Rinder ab einem Alter von 12 Monaten
+
+    *
+    *   X
+
+
+*    *   1.4
+
+    *   Rinder ab einem Alter von 12 Monaten, die weder Milchkühe noch
+        Mastrinder sind
+
+    *
+    *   X
+
+
+*    *   1.5
+
+    *   auf dem Tierhaltungsbetrieb geborene Kälber bis zu einem Alter von 12
+        Monaten
+
+    *
+    *   X
+
+
+*    *   1.6
+
+    *   Rinder, die durch Besitzer- oder Standortwechsel nur wenige Stunden
+        bis zu einer Woche gehalten werden
+
+    *
+    *   X
+
+
+*    *   2.
+
+    *   Schweine (Sus scrofa domestica)
+
+
+*    *   2.1
+
+    *   nicht abgesetzte Saugferkel ab der Geburt bis zu dem Zeitpunkt, an dem
+        das jeweilige Tier vom Muttertier abgesetzt wird
+
+    *   X
+
+    *   X
+
+
+*    *   2.2
+
+    *   Ferkel ab dem Zeitpunkt, ab dem das jeweilige Tier vom Muttertier
+        abgesetzt wird bis zum Erreichen eines Gewichts von 30 kg
+
+    *   X
+
+    *   X
+
+
+*    *   2.3
+
+    *   zur Mast bestimmte Schweine ab einem Gewicht von mehr als 30 kg
+
+    *   X
+
+    *   X
+
+
+*    *   2.4
+
+    *   zur Zucht gehaltene Sauen und Eber ab der Einstallung zur
+        Ferkelerzeugung
+
+    *   X
+
+    *   X
+
+
+*    *   2.5
+
+    *   nicht zur Mast bestimmte Schweine ab einem Gewicht von 30 kg
+
+    *
+    *   X
+
+
+*    *   2.6
+
+    *   Schweine, die durch Besitzer- oder Standortwechsel nur wenige Stunden
+        bis zu einer Woche gehalten werden
+
+    *
+    *   X
+
+
+*    *   3.
+
+    *   Hühner (Gallus gallus)
+
+
+*    *   3.1
+
+    *   zur Gewinnung von Fleisch bestimmte Hühner ab dem Zeitpunkt des
+        Schlüpfens des jeweiligen Tieres
+
+    *   X
+
+    *   X
+
+
+*    *   3.2
+
+    *   zur Gewinnung von Konsumeiern bestimmte Hühner ab der Aufstallung im
+        Legebetrieb
+
+    *   X
+
+    *   X
+
+
+*    *   3.3
+
+    *   zur Gewinnung von Konsumeiern bestimmte Hühner ab dem Zeitpunkt des
+        Schlüpfens des jeweiligen Tieres bis seiner Aufstallung im Legebetrieb
+
+    *   X
+
+    *   X
+
+
+*    *   3.4
+
+    *   Hühner-Eintagsküken in Brütereien und beim Transport
+
+    *
+    *   X
+
+
+*    *   3.5
+
+    *   sonstige Hühner, die nicht unter die Nummern 3.1 bis 3.4 fallen
+
+    *
+    *   X
+
+
+*    *   4.
+
+    *   Puten (Meleagris gallopavo)
+
+
+*    *   4.1
+
+    *   zur Gewinnung von Fleisch bestimmte Puten ab dem Zeitpunkt des
+        Schlüpfens des jeweiligen Tieres
+
+    *   X
+
+    *   X
+
+
+*    *   4.2
+
+    *   Puten-Eintagsküken in Brütereien und beim Transport
+
+    *
+    *   X
+
+
+*    *   4.3
+
+    *   sonstige Puten, die nicht unter die Nummern 4.1 bis 4.2 fallen
+
+    *
+    *   X
+
+
+
+(zu § 57 Absatz 3 Satz 3)
+
+### Anlage 2 Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
+
+(Fundstelle: BGBl. I 2022, 2860)
 
 
 1.  Pseudonymisierte Angabe der Registriernummer des Tierhaltungsbetriebs
-    (§ 54 Absatz 1 Satz 2 Nummer 3),
+    (§ 55 Absatz 1 Satz 2 Nummer 3),
 
 
-2.  Angabe der Tierart (§ 54 Absatz 1 Satz 1 in Verbindung mit § 54 Absatz
-    2),
+2.  Angabe der Nutzungsart (§ 55 Absatz 1 Satz 1 in Verbindung mit Anlage
+    1 Spalte 3),
 
 
-3.  Angabe der Nutzungsart (§ 54 Absatz 1 Satz 2 Nummer 3),
+3.  Angabe der Anzahl der gehaltenen Tiere (§ 57 Absatz 1 Satz 3 Nummer
+    1),
 
 
-4.  Angabe der Anzahl der gehaltenen Tiere (§ 56 Absatz 1 Satz 1 Nummer
-    2),
+4.  Angaben nach § 55 Absatz 2 Satz 1 Nummer 1 bis 3:
+
+    für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart, die
+
+    a)  in jedem Halbjahr zu Beginn im Betrieb gehalten worden sind,
 
 
-5.  Angaben nach § 55 Absatz 1 Satz 1 Nummer 1 bis 5:
-
-    a)  die Bezeichnung des angewendeten Arzneimittels,
-
-
-    b)  die Anzahl und die Art der behandelten Tiere,
+    b)  im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden
+        sind, mit Angabe des Datums der Aufnahme der Tiere,
 
 
-    c)  die Anzahl der Behandlungstage (vorbehaltlich des § 55 Absatz 3) und
-        das Anwendungs- oder Abgabedatum des Arzneimittels,
-
-
-    d)  die insgesamt angewendete Menge von Arzneimitteln, die antibakteriell
-        wirksame Stoffe enthalten,
-
-
-    e)  für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart, die
-
-        aa) in jedem Halbjahr zu Beginn im Betrieb gehalten worden sind,
-
-
-        bb) im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden
-            sind, mit Angabe des Datums der Aufnahme der Tiere,
-
-
-        cc) im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden
-            sind, mit Angabe des Datums der Abgabe der Tiere,
+    c)  im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden
+        sind, mit Angabe des Datums der Abgabe der Tiere,
 
 
 
 
 
+5.  Angaben nach § 55 Absatz 3:
+
+    Mitteilung, keine antibiotisch wirksamen Arzneimittel angewendet zu
+    haben,
+
+
+6.  Angabe des Halbjahres, in dem die Tierbewegung erfolgt ist (§ 55
+    Absatz 2 Satz 1),
+
+
+7.  Angaben nach § 56 Absatz 1 Satz 1 Nummer 1 bis 8 und Satz 2:
+
+    a)  die Angaben nach Nummer 4 bis 6 und 9 des Anhangs II der Verordnung
+        (EU) 2022/209 zum verschriebenen, angewendeten oder abgegebenen
+        Arzneimittel,
+
+
+    b)  pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder
+        des behandelnden Tierarztes oder des Namens der Praxis und der
+        Praxisanschrift,
+
+
+    c)  das Datum der Verschreibung, der ersten Anwendung oder das Abgabedatum
+        des Arzneimittels,
+
+
+    d)  die insgesamt verschriebene, angewendete oder abgegebene Menge dieser
+        Arzneimittel,
+
+
+    e)  die Nutzungsart der behandelten Tiere,
+
+
+    f)  die Anzahl der behandelten Tiere,
+
+
+    g)  die Anzahl der Behandlungstage und
+
+
+    h)  die pseudonymisierten Angaben der Registriernummer des Betriebes, in
+        dem die behandelten Tiere gehalten werden,
 
 
 
-6.  Angaben nach § 55 Absatz 1 Satz 3:
-
-    Mitteilung, keine Arzneimittel angewendet zu haben, die antibakteriell
-    wirksame Stoffe enthalten,
 
 
-7.  Angaben nach § 55 Absatz 2 Satz 1 Nummer 1 bis 5, falls durch diese
-    Angaben die Angaben nach § 55 Absatz 1 Satz 1 Nummer 1 bis 4 ersetzt
-    worden sind:
-
-    a)  die Bezeichnung des für die Behandlung von einer Tierärztin oder einem
-        Tierarzt erworbenen oder verschriebenen Arzneimittels,
-
-
-    b)  die Anzahl und Art der Tiere, für die eine Behandlungsanweisung der
-        Tierärztin oder des Tierarztes ausgestellt worden ist,
-
-
-    c)  die Identität der Tiere, für die eine Behandlungsanweisung der
-        Tierärztin oder des Tierarztes ausgestellt worden ist, sofern sich aus
-        der Angabe die Nutzungsart ergibt,
-
-
-    d)  vorbehaltlich des § 55 Absatz 3 die Dauer der verordneten Behandlung
-        in Tagen und das Anwendungs- oder Abgabedatum des Arzneimittels,
-
-
-    e)  die von der Tierärztin oder dem Tierarzt insgesamt angewendete oder
-        abgegebene Menge des Arzneimittels,
-
-
-
-
-
-8.  Angabe des Halbjahres, in dem die Behandlung erfolgt ist (§ 55 Absatz
-    1 Satz 4),
-
-
-9.  Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten
+8.  Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten
     betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den
     einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des
-    Betriebs (§ 56 Absatz 1).
+    Betriebs (§ 57 Absatz 1).
 
 
 
