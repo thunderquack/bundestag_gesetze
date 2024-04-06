@@ -568,7 +568,9 @@ der Besteuerung erheblich sind.
 anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen
 Verfahren erteilen, die erforderlich sind, um die nach dem
 Luftverkehrsrecht geforderte Zuverlässigkeit eines
-Luftverkehrsunternehmens zu beurteilen.
+Luftverkehrsunternehmens oder die Einhaltung der Vorschriften dieses
+Gesetzes durch Luftverkehrsunternehmen mit Hauptsitz außerhalb des
+Geltungsbereichs des Luftrechts der Europäischen Union zu beurteilen.
 
 
 ## § 18 Ermächtigungen

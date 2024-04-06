@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.3.2024 I Nr. 102
-
-Änderung durch
-:   Art. 34 und Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 34 und Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
