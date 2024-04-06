@@ -6,6 +6,13 @@ def clone_and_run():
     git_clone_cmd = "git clone https://github.com/thunderquack/gesetze-tools.git"
     subprocess.run(git_clone_cmd, check=True, shell=True)
 
+    items = os.listdir('.')
+
+    for item in items:
+        if os.path.isdir(item) and len(item) == 1:
+            shutil.rmtree(item)
+            print(f"Folder '{item}' cleaned up")
+    
     os.chdir("gesetze-tools")
 
     pip_install_cmd = "pip install -r requirements.txt"
