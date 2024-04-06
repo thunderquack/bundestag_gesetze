@@ -11,6 +11,9 @@ def clone_and_run():
     pip_install_cmd = "pip install -r requirements.txt"
     subprocess.run(pip_install_cmd, check=True, shell=True)
 
+    update_list_cmd = "python lawde.py updatelist"
+    subprocess.run(update_list_cmd, check=True, shell=True)
+
     load_all_cmd = "python lawde.py loadall"
     subprocess.run(load_all_cmd, check=True, shell=True)
 
